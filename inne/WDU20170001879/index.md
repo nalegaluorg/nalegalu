@@ -8,10 +8,10 @@ pos: 1879
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 października 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1879 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 27 września 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001879) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1879/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 27 września 2017 r.
-zmieniające rozporządzenie w sprawie umundurowania policjantów Na podstawie art. 12 ust. 1 pkt 2–4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2009 r. w sprawie umundurowania policjantów (Dz. U. poz. 738, z późn. zm. ) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie umundurowania policjantów Na podstawie art. 12 ust. 1 pkt 2–4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2009 r. w sprawie umundurowania policjantów (Dz. U. poz. 738, z późn. zm. ) wprowadza się następujące zmiany:
 1) w § 4 w ust. 1 po wyrazie „orła” dodaje się wyrazy „w kolorze srebrnym, z napisem „POLICJA”, haftowany mechanicznie, na czarnym tle,”;
 2) w § 5:
 a) ust. 1 otrzymuje brzmienie: „1. Czapka gabardynowa jest w kolorze błękitnoszarym z otokiem w kolorze ciemnoniebieskim. Z przodu na czapce znajduje się wizerunek orła w kolorze srebrnym, z napisem „POLICJA”, haftowany mechanicznie, na błękitnoszarym tle. Rondo czapki zawiera usztywniacz, zapewniający regularny owal. Czapkę nosi się nałożoną prosto na głowę. Rozmiar czapki powinien odpowiadać obwodowi głowy. Krawędź daszka powinna znajdować się na wysokości około 3 cm nad linią brwi. Policjanci, którzy pełnią służbę w jednostkach organizacyjnych Policji albo w komórkach organizacyjnych, właściwych do spraw ruchu drogowego, oraz w jednostkach organizacyjnych Policji albo komórkach organizacyjnych, właściwych do spraw prewencji na wodach i terenach przywodnych, nakładają na czapkę pokrowiec w kolorze białym.”,
@@ -49,11 +49,11 @@ Na rękawach, między łokciem a barkiem, są naszyte kieszenie z patkami zapina
 8) w § 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Dopuszcza się noszenie kurtki, o której mowa w § 7 ust. 6, zamiast płaszcza wyjściowego całorocznego.”;
 9) § 15 otrzymuje brzmienie: „§ 15. 1. Pas główny jest w kolorze czarnym. Pas jest wykonany z tkaniny syntetycznej i składa się z dwóch elementów: pasa właściwego i pasa wewnętrznego, który zapobiega przesuwaniu się elementów wyposażenia umieszczonych na pasie właściwym. Pas główny nosi się:
 1) w podtrzymywaczach spodni:
-a) służbowych: letnich do trzewików, letnich do półbutów, zimowych,
-b) ć wiczebnych przy występowaniu z koszulką z krótkim rękawem T- shirt, koszulką polo z krótkim rękawem oraz z bluzą ćwiczebną włożoną do spodni ćwiczebnych,
-c) wyjściowych przy występowaniu w koszuli wyjściowej letniej;
-2) w podtrzymywaczach spódnicy przy występowaniu w koszuli wyjściowej letniej;
-3) na mundurze ćwiczebnym przy występowaniu w mundurze ćwiczebnym z bluzą ćwiczebną wyłożoną na spodnie ćwiczebne.
+a) służbowych: – letnich do trzewików, – letnich do półbutów, – zimowych,
+b) ćwiczebnych – przy występowaniu z koszulką z krótkim rękawem T- shirt, koszulką polo z krótkim rękawem oraz z bluzą ćwiczebną włożoną do spodni ćwiczebnych,
+c) wyjściowych – przy występowaniu w koszuli wyjściowej letniej;
+2) w podtrzymywaczach spódnicy – przy występowaniu w koszuli wyjściowej letniej;
+3) na mundurze ćwiczebnym – przy występowaniu w mundurze ćwiczebnym z bluzą ćwiczebną wyłożoną na spodnie ćwiczebne.
 2. Policjanci, którzy pełnią służbę w jednostkach organizacyjnych Policji albo w komórkach organizacyjnych, właściwych do spraw ruchu drogowego, noszą do ubioru służbowego i wyjściowego z koszulą wyjściową letnią pas główny skórzany w kolorze białym.
 3. Dopuszcza się noszenie ubioru ćwiczebnego bez pasa głównego podczas przebywania na terenie jednostki organizacyjnej Policji.”;
 10) w § 19 ust. 7 i 8 otrzymują brzmienie: „7. Spódnica jest w kolorze ciemnogranatowym, o prostym kroju z rozcięciem z tyłu o długości do 15 cm od dolnej jej krawędzi. Dolna krawędź spódnicy powinna sięgać między 5 cm powyżej kolan a 5 cm poniżej kolan. W pasek spódnicy są wszyte podtrzymywacze. Policjant- kobieta nosi spódnicę do ubioru wyjściowego i galowego.
@@ -67,19 +67,19 @@ i) kurtki ¾ z podpinką;”;
 13) w § 29 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Policjanci, którzy pełnią służbę w jednostkach organizacyjnych Policji albo komórkach organizacyjnych, właściwych do spraw ruchu drogowego, oraz w jednostkach organizacyjnych Policji lub komórkach organizacyjnych, właściwych do spraw prewencji na wodach i terenach przywodnych, mogą nosić do ubioru służbowego czapkę gabardynową zamiast czapki letniej służbowej lub czapki zimowej służbowej.
 3. Dopuszcza się noszenie przez policjantów spodni wyjściowych albo przez policjantów- kobiety spódnicy oraz:
 1) półbutów wyjściowych w zestawie ubioru służbowego z koszulą służbową, koszulą służbową letnią lub swetrem, w okresie letnim,
-2) trzewików -botków ocieplanych w zestawie ubioru służbowego w okresie zimowym w czasie pełnienia służby w jednostkach organizacyjnych Policji, o których mowa w § 30 ust. 2, lub podczas wystąpień służbowych w charakterze przedstawiciela danej jednostki organizacyjnej Policji.”;
+2) trzewików -botków ocieplanych w zestawie ubioru służbowego w okresie zimowym – w czasie pełnienia służby w jednostkach organizacyjnych Policji, o których mowa w § 30 ust. 2, lub podczas wystąpień służbowych w charakterze przedstawiciela danej jednostki organizacyjnej Policji.”;
 14) w § 30 w ust. 2 uchyla się pkt 4;
 15) w § 32:
 a) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Dopuszcza się noszenie ubioru ćwiczebnego przez policjantów:
 1) pełniących służbę w:
-a) komórkach organizacyjnych właściwych do spraw: interwencyjnych, patrolowo -interwencyjnych, konwojowych,
+a) komórkach organizacyjnych właściwych do spraw: – patrolowych, – interwencyjnych, – patrolowo -interwencyjnych, – konwojowych,
 b) oddziałach prewencji Policji lub samodzielnych pododdziałach prewencji Policji,
 c) pomieszczeniach dla osób zatrzymanych;
 2) sprawujących opiekę nad psem służbowym.”,
 b) uchyla się ust. 2;
 16) po § 34 dodaje się § 34a w brzmieniu: „§ 34a. Dopuszcza się noszenie umundurowania bez nakrycia głowy przez policjantów pełniących służbę:
-1) na stanowiskach rzeczników prasowych lub przez policjantów upoważnionych przez komendantów powiatowych, miejskich lub rejonowych Policji do wykonywania działalności prasowo -informacyjnej w czasie udzielania informacji środkom masowego przekazu;
-2) z wykorzystaniem pojazdu służbowego w czasie przebywania w pojeździe.”;
+1) na stanowiskach rzeczników prasowych lub przez policjantów upoważnionych przez komendantów powiatowych, miejskich lub rejonowych Policji do wykonywania działalności prasowo -informacyjnej – w czasie udzielania informacji środkom masowego przekazu;
+2) z wykorzystaniem pojazdu służbowego – w czasie przebywania w pojeździe.”;
 17) § 47 otrzymuje brzmienie: „§ 47. Przedmioty umundurowania ubioru wyjściowego i służbowego wydane policjantom mianowanym na okres służby przygotowawczej oraz przedmioty ubioru służbowego wydane policjantom mianowanym na okres służby kandydackiej podlegają zwrotowi, z wyłączeniem przedmiotów wydawanych jednorazowo, półgolfu i obuwia.”;
 18) w § 50 ust. 1 i 2 otrzymują brzmienie: „1. Policjanci mianowani na stałe w przypadku zwolnienia ze służby zwracają:
 1) przedmioty ubioru służbowego wydane w naturze, których okres używalności nie upłynął, z wyłączeniem:
@@ -92,13 +92,14 @@ f) koszulki polo z krótkim rękawem,
 g) koszulki z krótkim rękawem T -shirt;
 2) przedmioty ubioru ćwiczebnego, z wyłączeniem obuwia i zasobnika osobistego.
 2. W przypadku zwolnienia ze służby policjanci mianowani na okres służby:
-1) przygotowawczej zwracają przedmioty ubioru ćwiczebnego, z wyłączeniem obuwia i zasobnika osobistego oraz przedmioty ubioru wyjściowego i służbowego, z wyłączeniem przedmiotów wydawanych jednorazowo, półgolfu i obuwia;
-2) kandydackiej zwracają przedmioty ubioru ćwiczebnego, z wyłączeniem obuwia oraz przedmioty ubioru służbowego, z wyłączeniem przedmiotów wydawanych jednorazowo i obuwia.”;
+1) przygotowawczej – zwracają przedmioty ubioru ćwiczebnego, z wyłączeniem obuwia i zasobnika osobistego oraz przedmioty ubioru wyjściowego i służbowego, z wyłączeniem przedmiotów wydawanych jednorazowo, półgolfu i obuwia;
+2) kandydackiej – zwracają przedmioty ubioru ćwiczebnego, z wyłączeniem obuwia oraz przedmioty ubioru służbowego, z wyłączeniem przedmiotów wydawanych jednorazowo i obuwia.”;
 19) w § 51 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Policjanci skierowani na szkolenie zawodowe albo doskonalenie zawodowe centralne zabierają ze sobą umundurowanie wymagane przez jednostkę organizacyjną Policji przeprowadzającą to szkolenie lub doskonalenie.”;
 20) w załączniku nr 2 do rozporządzenia na końcu dodaje się wzór ubioru policjanta w kurtce ¾ z podpinką, stanowiący załącznik nr 1 do niniejszego rozporządzenia;
 21) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
 22) załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 3 do niniejszego rozporządzenia;
 23) w załączniku nr 9 do rozporządzenia:
+a) pod tabelą nr 1 dotyczącą ubioru służbowego policjanta w okresie letnim uchyla się uwagę nr 4,
 b) pod tabelą nr 2 dotyczącą ubioru służbowego policjanta w okresie zimowym uchyla się uwagę,
 c) tabela nr 6 dotycząca ubioru ćwiczebnego policjanta otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia;
 24) w załączniku nr 10 do rozporządzenia:
@@ -109,16 +110,13 @@ c) norma umundurowania nr 8 dotycząca ubioru ćwiczebnego dla policjantów otrz
 § 3. Do dnia 31 grudnia 2021 r. dopuszcza się noszenie przez policjantów umundurowania, którego wzór określa załącznik nr 4 do rozporządzenia zmienianego w § 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszego rozporządzenia.
 § 4. Przepisy rozporządzenia mają zastosowanie do umundurowania policjantów od dnia 1 kwietnia 2017 r.
 § 5. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak Ubiór policjanta w kurtce ¾ z podpinką i Administracji z dnia 27 września 2017 r.……… (poz.
-….) Załącznik nr 1 Ubiór policjanta w kurtce ¾ z podpinką WZORY UBIORU ĆWICZEBNEGO POLICJANTA
-a) b) Ubiór policjanta w mundurze ćwiczebnym z pasem głównym:
-a) z bluzą ćwiczebną włożoną do spodni ćwiczebnych,
-b) z bluzą ćwiczebną wyłożoną na spodnie ćwiczebne WZORY UBIORU ĆWICZEBNEGO POLICJANTA
-a) b) Ubiór policjanta w mundurze ćwiczebnym z pasem głównym:
-a) z bluzą ćwiczebną włożoną do spodni ćwiczebnych,
-b) z bluzą ćwiczebną wyłożoną na spodnie ćwiczebne Ubiór Ubiór policjanta policjanta w mundurze w mundurze ćwiczebnym ćwiczebnym bez bez pasa pasa głównego głównego Ubiór policjanta w spodniach ćwiczebnych i koszulce polo z krótkim rękawem Ubiór policjanta w spodniach ćwiczebnych i koszulce polo z krótkim rękawem Ubiór policjanta w spodniach ćwiczebnych i koszulce z krótkim rękawem T-shirt Ubiór policjanta w spodniach ćwiczebnych i koszulce z krótkim rękawem T-shirt Ubiór policjanta w kurtce służbowej letniej Ubiór policjanta w kurtce służbowej letniej Ubiór policjanta Ubiór policjanta w kurtce w kurtce służbowej służbowej zimowej zimowej z z podpinką podpinką i ocieplaczem i ocieplaczem z polaru z polaru WZÓR WIZERUNKU ORŁA Z NAPISEM „POLICJA” WZÓR WIZERUNKU ORŁA Z NAPISEM „POLICJA” Zestawy ubioru Lp. Nazwa przedmiotu w okresie w okresie zimowym letnim 1 2 3 4 5 6 7 8 1 Czapka zimowa służbowa x 2 Furażerka x x x x x x x 3 Bluza ćwiczebna x x x x 4 Spodnie ćwiczebne x x x x x x x x 5 Koszulka z krótkim rękawem T-shirt x x x x x 6 Koszulka polo z krótkim rękawem x x 7 Półgolf x 8 Trzewiki służbowe x x x x x 9 Półbuty służbowe x x x 10 Pas główny x x x x x x x x 11 Rękawiczki skórzane x x 12 Kurtka służbowa letnia x x x x x x 13 Kurtka służbowa zimowa z podpinką x x i ocieplaczem z polaru Norma umundurowania nr 8 dotycząca ubioru ćwiczebnego dla policjantów Lp. Przedmiot
-Oddziały Pododdziały prewencji Policji, antyterrorys- samodzielne tyczne Policji pododdziały Pozostałe i komórki Centralne Biuro prewencji Policji jednostki organizacyjne Śledcze Policji oraz Wyższa organizacyjne właściwe do Szkoła Policji Policji spraw minersko- w Szczytnie, -pirotechnicznych szkoły policyjne i ośrodki szkolenia Policji okres okres okres okres liczba używal- liczba używal- liczba używal- liczba używalności ności ności ności w latach w latach w latach w latach 1 2 3 4 5 6 7 8 9 10 11 1 Beret szt. 1 3 2 Czapka zimowa szt. 1 2 1 2 antyterrorysty do do 3 Furażerka szt. 1 2 1 2 1 zużycia 1 zużycia (3) (3) do do do do 4 Mundur ćwiczebny kpl. 1 zużycia 1 zużycia 1 zużycia 1 zużycia (1) (1) (1) (3) 5 Kombinezon szt. 2 2 antyterrorysty 6 Kombinezon szt. 1 2 do do do 7 Zasobnik osobisty szt. 1 zużycia 1 zużycia 1 zużycia (6) (6) (6) 8 Trzewiki specjalne para 1 2 1 2 zgodnie zgodnie zgodnie zgodnie 9 Oznaki stopnia kpl. z przepisami z przepisami z przepisami z przepisami rozporządzenia rozporządzenia rozporządzenia rozporządzenia Uwagi:
+Minister Spraw Wewnętrznych i Administracji: M. Błaszczak Dziennik Ustaw Załączniki do – 6 rozporządzenia – Ministra Spraw Wewnętrznych Poz. 1879 i Administracji z dnia 27 września 2017 r.……… (poz.
+….) Załącznik nr 1 Ubiór policjanta w kurtce ¾ z podpinką Ubiór policjanta w kurtce ¾ z podpinką Załącznik nr WZORY UBIORU ĆWICZEBNEGO POLICJANTA WZORY UBIORU ĆWICZEBNEGO POLICJANTA
+a) a) b) b) Ubiór policjanta w mundurze ćwiczebnym Ubiór policjanta z pasem w głównym: mundurze ćwiczebnym z pasem głównym:
+a) z bluzą ćwiczebną włożoną do a) spodni z bluzą ćwiczebnych, ćwiczebną włożoną do spodni ćwiczebnych,
+b) z bluzą ćwiczebną wyłożoną na b) spodnie z bluzą ćwiczebne ćwiczebną wyłożoną na spodnie ćwiczebne Ubiór Ubiór policjanta policjanta w mundurze w mundurze ćwiczebnym ćwiczebnym bez bez pasa pasa głównego głównego Ubiór policjanta w spodniach ćwiczebnych i koszulce polo z krótkim rękawem Ubiór policjanta w spodniach ćwiczebnych i koszulce polo z krótkim rękawem Ubiór policjanta w spodniach ćwiczebnych i koszulce z krótkim rękawem T-shirt Ubiór policjanta w spodniach ćwiczebnych i koszulce z krótkim rękawem T-shirt Ubiór policjanta w kurtce służbowej letniej Ubiór policjanta w kurtce służbowej letniej Ubiór policjanta Ubiór policjanta w kurtce w kurtce służbowej służbowej zimowej zimowej z z podpinką podpinką i ocieplaczem i ocieplaczem z polaru z polaru Załącznik nr 3 WZÓR WIZERUNKU ORŁA Z NAPISEM „POLICJA” WZÓR WIZERUNKU ORŁA Z NAPISEM „POLICJA” Zestawy ubioru Lp. Nazwa przedmiotu w okresie w okresie zimowym letnim 1 2 3 4 5 6 7 8 1 Czapka zimowa służbowa x – – – – – – – 2 Furażerka – x x x x x x x 3 Bluza ćwiczebna x x x – – x – – 4 Spodnie ćwiczebne x x x x x x x x 5 Koszulka z krótkim rękawem T-shirt – x x x – x x – 6 Koszulka polo z krótkim rękawem – – – – x – – x 7 Półgolf x – – – – – – – 8 Trzewiki służbowe x x x x x – – – 9 Półbuty służbowe – – – – – x x x 10 Pas główny x x x x x x x x 11 Rękawiczki skórzane x x – – – – – – 12 Kurtka służbowa letnia – – x x x x x x 13 Kurtka służbowa zimowa z podpinką x x – – – – – – i ocieplaczem z polaru Norma umundurowania nr 8 dotycząca ubioru ćwiczebnego dla policjantów
+Oddziały Pododdziały prewencji Policji, antyterrorys- samodzielne tyczne Policji pododdziały Pozostałe i komórki Centralne Biuro prewencji Policji jednostki organizacyjne Śledcze Policji oraz Wyższa organizacyjne właściwe do Szkoła Policji Policji Lp. Przedmiot spraw minersko- w Szczytnie, -pirotechnicznych szkoły policyjne i ośrodki szkolenia Policji okres okres okres okres liczba używal- liczba używal- liczba używal- liczba używalności ności ności ności w latach w latach w latach w latach 1 2 3 4 5 6 7 8 9 10 11 1 Beret szt. 1 3 – – – – – – 2 Czapka zimowa szt. 1 2 1 2 – – – – antyterrorysty do do 3 Furażerka szt. 1 2 1 2 1 zużycia 1 zużycia (3) (3) do do do do 4 Mundur ćwiczebny kpl. 1 zużycia 1 zużycia 1 zużycia 1 zużycia (1) (1) (1) (3) 5 Kombinezon szt. 2 2 – – – – – – antyterrorysty 6 Kombinezon szt. – – 1 2 – – – – do do do 7 Zasobnik osobisty szt. – – 1 zużycia 1 zużycia 1 zużycia (6) (6) (6) 8 Trzewiki specjalne para 1 2 1 2 – – – – zgodnie zgodnie zgodnie zgodnie 9 Oznaki stopnia kpl. z przepisami z przepisami z przepisami z przepisami rozporządzenia rozporządzenia rozporządzenia rozporządzenia Uwagi:
 1. Policjantom w służbie kandydackiej nie przysługuje zasobnik osobisty.
-2. Policjantom oddziałów prewencji Policji i samodzielnych pododdziałów prewencji Policji przysługują 2 kpl. umundurowania furażerka i mundur ćwiczebny, w tym policjantom służby kandydackiej można wydać 1 kpl. używany.
+2. Policjantom oddziałów prewencji Policji i samodzielnych pododdziałów prewencji Policji przysługują 2 kpl. umundurowania – furażerka i mundur ćwiczebny, w tym policjantom służby kandydackiej można wydać 1 kpl. używany.
 3. Beret przysługuje także policjantom nadzorującym wykonywanie zadań pododdziałów antyterrorystycznych Policji i komórek organizacyjnych właściwych do spraw minersko-pirotechnicznych.
 

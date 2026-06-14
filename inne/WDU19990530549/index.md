@@ -8,7 +8,7 @@ pos: 549
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o broni i amunicji
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1999-05-21 |
 | Data wydania | 1999-06-15 |
-| Ostatnia zmiana | 2026-03-30 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990530549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/549/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -35,12 +35,23 @@ source: "isap-pdf"
 
 **Art. 3.** Przepisy ustawy nie dotyczą:
 
+- **1)** broni i amunicji stanowiących uzbrojenie Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego funkcjonariuszy oddelegowanych do Biura Nadzoru Wewnętrznego, Centralnego Biura Antykorupcyjnego, Służby Ochrony Państwa, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Więziennej oraz innych państwowych formacji uzbrojonych, w odniesieniu do których dostęp do broni i amunicji regulują odrębne przepisy;
+- **2)** broni i amunicji stanowiących uzbrojenie żołnierzy armii państw obcych przebywających na terytorium Rzeczypospolitej Polskiej w związku z przedsięwzięciami wojskowymi realizowanymi wspólnie z Siłami Zbrojnymi Rzeczypospolitej Polskiej, a także na podstawie umów i porozumień międzynarodowych;
+- **2a)** broni i amunicji stanowiących uzbrojenie funkcjonariuszy straży granicznych państw członkowskich Unii Europejskiej przebywających na terytorium Rzeczypospolitej Polskiej w związku z wykonywaniem, za zgodą właściwych organów Rzeczypospolitej Polskiej, zadań określonych w przepisach prawa Unii Europejskiej;
+- **2b)** broni i amunicji stanowiących uzbrojenie zagranicznych funkcjonariuszy biorących udział we wspólnej operacji, o której mowa w art. 2 pkt 1 ustawy z dnia 7 lutego 2014 r. o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz.
+- **1802)** ;
+- **2c)** broni i amunicji lub ich istotnych części gromadzonych przez Rządową Agencję Rezerw Strategicznych w celu tworzenia, utrzymywania lub udostępnienia rezerw strategicznych lub których zakup, magazynowanie, dystrybucja, wydawanie lub inne zadania zostały powierzone tej Agencji zgodnie z art. 29 lub art. 32 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2023 r. poz. 294);
+- **3)** obrotu z zagranicą bronią i amunicją, technologiami i usługami mającymi znaczenie dla obronności, bezpieczeństwa lub ważnych interesów Państwa oraz wytwarzania, przewozu przez terytorium Rzeczypospolitej Polskiej, przywozu z zagranicy i wywozu za granicę broni i amunicji w celach przemysłowych lub handlowych, a także obrotu nimi na podstawie odrębnych przepisów;
+- **4)** przemieszczania amunicji przez przedsiębiorców oraz przedsiębiorców zagranicznych, w rozumieniu ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz.
+- **2378)** .
+
 **Art. 4.**
 
 1. Ilekroć w ustawie jest mowa o broni, należy przez to rozumieć:
 
 - **1)** broń palną, w tym broń bojową, myśliwską, sportową, gazową, alarmową i sygnałową;
 - **2)** broń pneumatyczną;
+- **3)** miotacze gazu obezwładniającego;
 - **4)** narzędzia i urządzenia, których używanie może zagrażać życiu lub zdrowiu:
     - **a)** broń białą w postaci: – ostrzy ukrytych w przedmiotach niemających wyglądu broni, – kastetów i nunczaków, – pałek posiadających zakończenie z ciężkiego i twardego materiału lub zawierających wkładki z takiego materiału, – pałek wykonanych z drewna lub innego ciężkiego i twardego materiału, imitujących kij bejsbolowy,
     - **b)** broń cięciwową w postaci kusz,
@@ -61,7 +72,9 @@ source: "isap-pdf"
 
 1. Gotowe lub obrobione istotne części broni lub amunicji uważa się za broń lub amunicję.
 
-2. Istotnymi częściami broni palnej i pneumatycznej są: szkielet broni, baskila, lufa z komorą nabojową, zamek, komora zamkowa oraz bęben nabojowy. wybuchowymi, chemicznymi środkami obezwładniającymi lub zapalającymi albo innymi substancjami, których działanie zagraża życiu lub zdrowiu, spłonki inicjujące spalanie materiału miotającego i materiał miotający w postaci prochu strzelniczego.
+2. Istotnymi częściami broni palnej i pneumatycznej są: szkielet broni, baskila, lufa z komorą nabojową, zamek, komora zamkowa oraz bęben nabojowy.
+
+3. Istotnymi częściami amunicji są: pociski wypełnione materiałami wybuchowymi, chemicznymi środkami obezwładniającymi lub zapalającymi albo innymi substancjami, których działanie zagraża życiu lub zdrowiu, spłonki inicjujące spalanie materiału miotającego i materiał miotający w postaci prochu strzelniczego.
 
 **Art. 6.**
 
@@ -81,9 +94,14 @@ source: "isap-pdf"
 
 3. W rozumieniu ustawy bronią palną alarmową jest urządzenie wielokrotnego użycia, które w wyniku działania sprężonych gazów, powstających na skutek spalania materiału miotającego, wywołuje efekt akustyczny, a wystrzelona z lufy lub elementu ją zastępującego substancja razi cel na odległość nie większą niż 1 metr.
 
-**Art. 7a.** W rozumieniu ustawy Europejska karta broni palnej jest imiennym dokumentem potwierdzającym uprawnienie do posiadania broni palnej, wydanym przez właściwy organ państwa członkowskiego Unii Europejskiej, umożliwiającym legalne posiadanie i używanie broni palnej w innym państwie członkowskim Unii Europejskiej. lub zdrowia urządzenie, które w wyniku działania sprężonego gazu jest zdolne do wystrzelenia pocisku z lufy lub elementu ją zastępującego i przez to zdolne do rażenia celu na odległość, a energia kinetyczna pocisku opuszczającego lufę lub element ją zastępujący przekracza 17 J.
+**Art. 7a.** W rozumieniu ustawy Europejska karta broni palnej jest imiennym dokumentem potwierdzającym uprawnienie do posiadania broni palnej, wydanym przez właściwy organ państwa członkowskiego Unii Europejskiej, umożliwiającym legalne posiadanie i używanie broni palnej w innym państwie członkowskim Unii Europejskiej.
+
+**Art. 8.** W rozumieniu ustawy bronią pneumatyczną jest niebezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego gazu jest zdolne do wystrzelenia pocisku z lufy lub elementu ją zastępującego i przez to zdolne do rażenia celu na odległość, a energia kinetyczna pocisku opuszczającego lufę lub element ją zastępujący przekracza 17 J.
 
 **Art. 8a.** Komendant Główny Policji informuje właściwe władze innych państw członkowskich Unii Europejskiej o rodzajach broni palnej, której:
+
+- **1)** posiadanie na terytorium Rzeczypospolitej Polskiej jest zakazane albo możliwe na podstawie pozwolenia;
+- **2)** przywóz na terytorium Rzeczypospolitej Polskiej nie wymaga uzyskania zaświadczenia konsula Rzeczypospolitej Polskiej.
 
 #### Rozdział 2 Zasady i warunki wydawania, cofania pozwoleń na broń, rejestracji broni oraz dysponowania bronią i amunicją
 
@@ -95,7 +113,7 @@ source: "isap-pdf"
 
 3. Miotacze gazu obezwładniającego oraz narzędzia i urządzenia, o których mowa w art. 4 ust. 1 pkt 3 i 4, można posiadać na podstawie pozwolenia na broń wydanego przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta powiatowego Policji, a w przypadku żołnierzy zawodowych – na podstawie pozwolenia wydanego przez właściwego komendanta oddziału Żandarmerii Wojskowej.
 
-4. Broń pneumatyczną można posiadać na podstawie karty rejestracyjnej broni pneumatycznej wydanej przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta komendanta oddziału Żandarmerii Wojskowej.
+4. Broń pneumatyczną można posiadać na podstawie karty rejestracyjnej broni pneumatycznej wydanej przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta powiatowego Policji, a w przypadku żołnierzy zawodowych – właściwego komendanta oddziału Żandarmerii Wojskowej.
 
 5. Ilekroć w dalszych przepisach ustawy jest mowa o właściwych organach Policji, należy przez to rozumieć organy właściwe do wydawania pozwoleń na broń lub karty rejestracyjnej broni, o których mowa w ust. 1–4.
 
@@ -124,7 +142,7 @@ source: "isap-pdf"
 
 - **1)** stałe, realne i ponadprzeciętne zagrożenie życia, zdrowia lub mienia – dla pozwolenia na broń do celów ochrony osobistej, osób i mienia;
 - **2)** posiadanie uprawnień do wykonywania polowania, ustalonych na podstawie odrębnych przepisów – dla pozwolenia na broń do celów łowieckich;
-- **3)** udokumentowane członkostwo w stowarzyszeniu o charakterze strzeleckim, posiadanie kwalifikacji sportowych, o których mowa w art. 10b, oraz licencji sportowych;
+- **3)** udokumentowane członkostwo w stowarzyszeniu o charakterze strzeleckim, posiadanie kwalifikacji sportowych, o których mowa w art. 10b, oraz licencji właściwego polskiego związku sportowego – dla pozwolenia na broń do celów sportowych;
 - **4)** udokumentowane członkostwo w stowarzyszeniu, którego statutowym celem jest organizowanie rekonstrukcji historycznych oraz zaświadczenie potwierdzające czynny udział w działalności statutowej – dla pozwolenia na broń do celów rekonstrukcji historycznych;
 - **5)** udokumentowane członkostwo w stowarzyszeniu o charakterze kolekcjonerskim – dla pozwolenia na broń do celów kolekcjonerskich;
 - **6)** udokumentowane nabycie broni w drodze spadku, darowizny lub wyróżnienia – dla pozwolenia na broń do celów pamiątkowych;
@@ -142,6 +160,7 @@ source: "isap-pdf"
 - **2)** do celów ochrony osób lub mienia:
     - **a)** broni, o której mowa w pkt 1,
     - **b)** pistoletów sygnałowych,
+    - **c)** pistoletów maszynowych o kalibrze od 6 mm do 12 mm,
     - **d)** strzelb powtarzalnych o kalibrze wagomiarowym 12,
     - **e)** karabinków samoczynnych o kalibrze od 5,45 mm do 7,62 mm;
 
@@ -168,7 +187,8 @@ source: "isap-pdf"
 6. Zabronione jest posiadanie amunicji szczególnie niebezpiecznej w postaci:
 
 - **1)** amunicji z pociskami wypełnionymi materiałami wybuchowymi, zapalającymi albo innymi substancjami, których działanie zagraża życiu lub zdrowiu oraz pocisków do takiej amunicji;
-- **2)** amunicji z pociskami pełnopłaszczowymi zawierającymi rdzeń wykonany z materiału twardszego niż stop ołowiu; wykonanym z tworzyw sztucznych, z wyłączeniem amunicji przeznaczonej do strzelania z broni gładkolufowej;
+- **2)** amunicji z pociskami pełnopłaszczowymi zawierającymi rdzeń wykonany z materiału twardszego niż stop ołowiu;
+- **3)** amunicji z pociskami podkalibrowymi, z płaszczem lub elementem wiodącym wykonanym z tworzyw sztucznych, z wyłączeniem amunicji przeznaczonej do strzelania z broni gładkolufowej;
 - **4)** amunicji wytworzonej niefabrycznie, w tym także takiej, do której wytworzenia wykorzystywane są fabrycznie nowe elementy amunicji, z wyłączeniem amunicji wytwarzanej na własny użytek przez osoby posiadające pozwolenie na broń myśliwską, sportową lub kolekcjonerską.
 
 7. Właściwy organ Policji może w pozwoleniu na broń ograniczyć lub wykluczyć możliwość jej noszenia, co potwierdza się w legitymacji posiadacza broni.
@@ -189,10 +209,11 @@ source: "isap-pdf"
 
 5. W Europejskiej karcie broni palnej zamieszcza się informacje o:
 
-- **1)** tożsamości osoby: palnej;
+- **1)** tożsamości osoby:
     - **a)** posiadającej broń palną, w tym: – nazwisko i imię, – datę i miejsce urodzenia, – adres miejsca stałego pobytu,
     - **b)** dopuszczonej do posiadania broni, w tym: – nazwisko i imię, – datę i miejsce urodzenia, – nazwę, siedzibę i adres podmiotu, o którym mowa w art. 29 ust. 1 pkt 4, 5 i 7;
 
+- **2)** danych identyfikacyjnych broni palnej wraz ze wskazaniem kategorii broni palnej;
 - **3)** okresie ważności Europejskiej karty broni palnej;
 - **4)** celu lub warunkach pozwolenia, o których mowa w art. 10 ust. 2 i 4;
 - **5)** utracie lub zbyciu broni palnej;
@@ -214,13 +235,35 @@ source: "isap-pdf"
 
 **Art. 10b.**
 
-1. Uprawianie sportów o charakterze strzeleckim wymaga posiadania odpowiednich kwalifikacji potwierdzonych stosownym dokumentem oraz przestrzegania zasad bezpieczeństwa obowiązujących w tych sportach. polski związek sportowy, o którym mowa w ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2023 r. poz. 2048). Za przeprowadzenie egzaminu pobiera się opłatę w wysokości 400 zł; opłata stanowi dochód właściwego polskiego związku sportowego.
+1. Uprawianie sportów o charakterze strzeleckim wymaga posiadania odpowiednich kwalifikacji potwierdzonych stosownym dokumentem oraz przestrzegania zasad bezpieczeństwa obowiązujących w tych sportach.
+
+2. Dokument, o którym mowa w ust. 1, wydaje, po przeprowadzeniu egzaminu, polski związek sportowy, o którym mowa w ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2023 r. poz. 2048). Za przeprowadzenie egzaminu pobiera się opłatę w wysokości 400 zł; opłata stanowi dochód właściwego polskiego związku sportowego.
 
 2a. Polski związek sportowy nie może warunkować dopuszczenia do egzaminu, o którym mowa w ust. 2, dłuższym niż miesięcznym członkostwem osoby wnioskującej o dopuszczenie do egzaminu w klubie posiadającym licencję tego związku.
 
 3. Dokument, o którym mowa w ust. 1, potwierdza posiadanie kwalifikacji niezbędnych do ubiegania się o wydanie pozwolenia na broń do celów sportowych.
 
 **Art. 11.** Pozwolenia na broń nie wymaga się w przypadku:
+
+- **1)** gromadzenia broni w zbiorach muzealnych na podstawie odrębnych przepisów;
+- **2)** używania broni w celach sportowych, szkoleniowych lub rekreacyjnych na strzelnicy działającej na podstawie zezwolenia właściwego organu;
+- **3)** używania broni palnej sygnałowej i alarmowej do celów wzywania pomocy, ratowniczych, poszukiwawczych oraz przez osoby uprawnione do sygnalizacji zawodnikom rozpoczęcia konkurencji sportowej w trakcie zawodów sportowych, jeżeli wymaga ona takiej sygnalizacji;
+- **4)** dysponowania bronią przez przedsiębiorców dokonujących obrotu bronią i amunicją na podstawie koncesji lub świadczących usługi rusznikarskie na podstawie odrębnych przepisów, o ile jest to związane bezpośrednio z prowadzeniem działalności gospodarczej;
+- **5)** dysponowania bronią przekazaną w celu pozbawienia lub potwierdzenia pozbawienia cech użytkowych;
+- **6)** posiadania broni palnej pozbawionej cech użytkowych;
+- **7)** posiadania przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej o średniej wartości prądu w obwodzie nieprzekraczającej 10 mA;
+- **8)** posiadania ręcznych miotaczy gazu obezwładniającego;
+- **9)** posiadania broni pneumatycznej;
+- **10)** posiadania broni palnej rozdzielnego ładowania, wytworzonej przed rokiem 1885 oraz replik tej broni;
+- **11)** posiadania broni palnej alarmowej o kalibrze do 6 mm.
+
+**Art. 12.**
+
+1. Pozwolenie na broń wydawane jest w drodze decyzji administracyjnej, w której określa się cel, w jakim zostało wydane oraz rodzaj i liczbę egzemplarzy broni.
+
+2. Na wniosek osoby posiadającej pozwolenie na broń wydaje się zaświadczenie uprawniające do nabycia rodzaju i liczby egzemplarzy broni zgodnie z pozwoleniem i amunicji do tej broni.
+
+3. Za wydanie zaświadczenia, o którym mowa w ust. 2, pobiera się opłatę skarbową w wysokości określonej w odrębnych przepisach.
 
 **Art. 12a.**
 
@@ -231,7 +274,7 @@ source: "isap-pdf"
 - **1)** zaświadczenie, o którym mowa w art. 12 ust. 2 – w przypadku gdy nabywca posiada miejsce stałego pobytu lub siedzibę na terytorium Rzeczypospolitej Polskiej;
 - **2)** uprzednią zgodę przewozową – w przypadku gdy nabywca posiada miejsce stałego pobytu lub siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, a transakcja dotyczy broni palnej lub amunicji;
 - **3)** upoważnienie władz swojego państwa do nabycia danego rodzaju oraz liczby egzemplarzy broni lub sztuk amunicji, zalegalizowane przez właściwego konsula Rzeczypospolitej Polskiej lub opatrzone poświadczeniem podpisu umieszczonego na dokumencie uprawnień osoby umieszczającej podpis oraz prawdziwości pieczęci lub stempla, którym opatrzony jest dokument (apostille), jeżeli upoważnienie wydane jest przez władze państwa będącego stroną Konwencji znoszącej wymóg legalizacji zagranicznych dokumentów urzędowych, sporządzonej w Hadze dnia 5 października 1961 r. (Dz. U. z 2005 r. poz. 938 i 939) – w przypadku gdy nabywca posiada miejsce stałego pobytu lub siedzibę na terytorium innego państwa niż określone w pkt 1 i 2;
-- **4)** upoważnienie władz swojego państwa do nabycia danego rodzaju oraz liczby egzemplarzy broni, innej niż broń palna, zalegalizowane przez właściwego konsula Rzeczypospolitej Polskiej lub opatrzone poświadczeniem podpisu umieszczonego na dokumencie uprawnień osoby umieszczającej podpis oraz jeżeli upoważnienie wydane jest przez władze państwa będącego stroną Konwencji znoszącej wymóg legalizacji zagranicznych dokumentów urzędowych, sporządzonej w Hadze dnia 5 października 1961 r. – w przypadku gdy nabywca posiada miejsce stałego pobytu lub siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej.
+- **4)** upoważnienie władz swojego państwa do nabycia danego rodzaju oraz liczby egzemplarzy broni, innej niż broń palna, zalegalizowane przez właściwego konsula Rzeczypospolitej Polskiej lub opatrzone poświadczeniem podpisu umieszczonego na dokumencie uprawnień osoby umieszczającej podpis oraz prawdziwości pieczęci lub stempla, którym opatrzony jest dokument (apostille), jeżeli upoważnienie wydane jest przez władze państwa będącego stroną Konwencji znoszącej wymóg legalizacji zagranicznych dokumentów urzędowych, sporządzonej w Hadze dnia 5 października 1961 r. – w przypadku gdy nabywca posiada miejsce stałego pobytu lub siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej.
 
 3. W przypadku, o którym mowa w ust. 2 pkt 2, zbywca wypełnia zgodę przewozową i przedkłada ją do poświadczenia organowi, o którym mowa w art. 43 ust. 6.
 
@@ -256,7 +299,9 @@ source: "isap-pdf"
     - **a)** orzeczeń, o których mowa w art. 15 ust. 3,
     - **b)** informacji z Krajowego Rejestru Karnego stwierdzającej, że nie była ona skazana prawomocnym orzeczeniem sądu za przestępstwo przeciwko życiu, zdrowiu lub mieniu.
 
-8. W przypadku niespełnienia wymogów, o których mowa w ust. 6 lub 7, właściwy organ wydaje decyzję administracyjną o odmowie zarejestrowania broni palnej pozbawionej cech użytkowych albo broni pneumatycznej. broni palnej pozbawionej cech użytkowych albo broni pneumatycznej Policja, a w przypadku żołnierzy zawodowych – Żandarmeria Wojskowa, może za pokwitowaniem przyjąć tę broń do depozytu. Koszty związane z deponowaniem broni ponosi osoba zgłaszająca broń do rejestracji. Przepis art. 23 ust. 3 stosuje się odpowiednio.
+8. W przypadku niespełnienia wymogów, o których mowa w ust. 6 lub 7, właściwy organ wydaje decyzję administracyjną o odmowie zarejestrowania broni palnej pozbawionej cech użytkowych albo broni pneumatycznej.
+
+9. W przypadku wydania decyzji administracyjnej o odmowie zarejestrowania broni palnej pozbawionej cech użytkowych albo broni pneumatycznej Policja, a w przypadku żołnierzy zawodowych – Żandarmeria Wojskowa, może za pokwitowaniem przyjąć tę broń do depozytu. Koszty związane z deponowaniem broni ponosi osoba zgłaszająca broń do rejestracji. Przepis art. 23 ust. 3 stosuje się odpowiednio.
 
 **Art. 14.** Amunicję można nabywać na podstawie legitymacji posiadacza broni lub świadectwa broni, wyłącznie dla tej broni, która jest określona w legitymacji albo na podstawie świadectwa broni i pisemnego zamówienia podmiotu uprawnionego do nabycia amunicji.
 
@@ -275,7 +320,7 @@ source: "isap-pdf"
 
 2. Na wniosek szkoły, organizacji sportowej, Polskiego Związku Łowieckiego, stowarzyszenia obronnego pozwolenie może być wydane osobie mającej ukończone 18 lat, jednakże tylko na broń służącą do celów sportowych lub łowieckich.
 
-3. Osoba, która występuje z wnioskiem o wydanie pozwolenia na broń, lub osoba, która zgłasza do rejestru broń pneumatyczną, przedstawiają właściwemu organowi Policji orzeczenia lekarskie i psychologiczne, stwierdzające, że nie należą do osób wymienionych w ust. 1 pkt 2–4, i potwierdzające, że mogą dysponować wcześniej niż 3 miesiące przed dniem złożenia wniosku.
+3. Osoba, która występuje z wnioskiem o wydanie pozwolenia na broń, lub osoba, która zgłasza do rejestru broń pneumatyczną, przedstawiają właściwemu organowi Policji orzeczenia lekarskie i psychologiczne, stwierdzające, że nie należą do osób wymienionych w ust. 1 pkt 2–4, i potwierdzające, że mogą dysponować bronią, wydane przez lekarza upoważnionego i psychologa upoważnionego, nie wcześniej niż 3 miesiące przed dniem złożenia wniosku.
 
 4. Osoba posiadająca pozwolenie na broń wydane w celu określonym w art. 10 ust. 2 pkt 1 i 2 obowiązana jest raz na 5 lat przedstawić właściwemu organowi Policji orzeczenia lekarskie i psychologiczne, o których mowa w ust. 3, wystawione nie wcześniej niż 3 miesiące przed upływem tego terminu. W przypadku wydania orzeczenia stwierdzającego, że należy ona do osób wymienionych w ust. 1 pkt 2–4 i że nie może dysponować bronią, lekarz upoważniony lub psycholog upoważniony są obowiązani zawiadomić o tym właściwy organ Policji.
 
@@ -289,7 +334,7 @@ source: "isap-pdf"
 
 8. Koszty związane z wydaniem orzeczeń, o których mowa w ust. 3–5, ponosi osoba poddana badaniu.
 
-9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wykaz stanów chorobowych i zaburzeń funkcjonowania psychologicznego, o których mowa w ust. 1 pkt 2–4, wykluczających możliwość wydania pozwolenia na broń, rejestracji rejestracyjnej broni pneumatycznej osobom niedającym rękojmi bezpiecznego posługiwania się bronią.
+9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wykaz stanów chorobowych i zaburzeń funkcjonowania psychologicznego, o których mowa w ust. 1 pkt 2–4, wykluczających możliwość wydania pozwolenia na broń, rejestracji broni, biorąc pod uwagę uniemożliwienie wydania pozwolenia na broń lub karty rejestracyjnej broni pneumatycznej osobom niedającym rękojmi bezpiecznego posługiwania się bronią.
 
 **Art. 15a.**
 
@@ -314,7 +359,8 @@ source: "isap-pdf"
 
 - **1)** imię lub imiona, nazwisko lekarza upoważnionego,
 - **2)** datę wpisu do rejestru i numer tego wpisu,
-- **3)** numer prawa wykonywania zawodu, elektronicznej lub numer telefonu – oraz wystawia zaświadczenie o wpisie do rejestru.
+- **3)** numer prawa wykonywania zawodu,
+- **4)** adres miejsca wykonywania badań lekarskich, opcjonalnie adres poczty elektronicznej lub numer telefonu – oraz wystawia zaświadczenie o wpisie do rejestru.
 
 3. Dodatkowe kwalifikacje, o których mowa w ust. 1 pkt 3, lekarz uzyskuje po ukończeniu z wynikiem pozytywnym szkolenia z zakresu przeprowadzania badań lekarskich i wydawania orzeczeń lekarskich osobom ubiegającym się.
 
@@ -338,6 +384,7 @@ source: "isap-pdf"
 
 1. Lekarz upoważniony traci uprawnienia do wydawania orzeczeń lekarskich w przypadkach:
 
+- **1)** zawieszenia prawa wykonywania zawodu,
 - **2)** ograniczenia w wykonywaniu określonych czynności medycznych,
 - **3)** utraty prawa wykonywania zawodu – określonych w ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516, 1617, 1831 i 1972).
 
@@ -366,7 +413,9 @@ source: "isap-pdf"
 
 **Art. 15g.**
 
-1. Psycholog upoważniony wydaje orzeczenie psychologiczne na podstawie wyników badań, o których mowa w art. 15a ust. 3 lub 4. W przypadku orzeczenia stwierdzającego, że osoba ubiegająca się należy do osób wymienionych w art. 15 ust. 1 pkt 2–4 i nie może dysponować bronią, kopię tego orzeczenia dołącza się do zawiadomienia, o którym mowa w art. 15 ust. 4 zdanie drugie.
+1. Psycholog upoważniony wydaje orzeczenie psychologiczne na podstawie wyników badań, o których mowa w art. 15a ust. 3 lub 4.
+
+2. Oryginał orzeczenia psychologicznego otrzymuje osoba ubiegająca się. W przypadku orzeczenia stwierdzającego, że osoba ubiegająca się należy do osób wymienionych w art. 15 ust. 1 pkt 2–4 i nie może dysponować bronią, kopię tego orzeczenia dołącza się do zawiadomienia, o którym mowa w art. 15 ust. 4 zdanie drugie.
 
 3. Dokumentację badań psychologicznych stanowią wyniki badań przeprowadzonych przez psychologa upoważnionego w zakresie określonym w art. 15a ust. 3 lub 4; kopia orzeczenia psychologicznego stanowi załącznik do dokumentacji.
 
@@ -394,6 +443,7 @@ source: "isap-pdf"
 
 3. Upoważnienie zawiera:
 
+- **1)** datę wydania upoważnienia;
 - **2)** numer upoważnienia;
 - **3)** imię i nazwisko oraz numer dokumentu potwierdzającego tożsamość osoby upoważnionej;
 - **4)** powołanie podstawy prawnej kontroli;
@@ -423,6 +473,7 @@ source: "isap-pdf"
 - **2)** adres miejsca wykonywania badań;
 - **3)** datę rozpoczęcia i zakończenia czynności kontrolnych;
 - **4)** imiona i nazwiska osób upoważnionych;
+- **5)** opis stanu faktycznego;
 - **6)** stwierdzone nieprawidłowości;
 - **7)** wnioski osób upoważnionych;
 - **8)** datę i miejsce sporządzenia protokołu;
@@ -440,17 +491,27 @@ source: "isap-pdf"
 
 7. Na podstawie ustaleń kontroli wojewoda może przedstawić odpowiednio lekarzowi upoważnionemu lub psychologowi upoważnionemu, których czynności były przedmiotem kontroli, a jeżeli badania były wykonywane w podmiocie leczniczym – również kierownikowi tego podmiotu, w wystąpieniu pokontrolnym, zalecenia pokontrolne nakazujące usunięcie stwierdzonych nieprawidłowości i określa termin ich wykonania.
 
-8. W przypadku nieusunięcia stwierdzonych nieprawidłowości w terminie, o którym mowa w ust. 7, wojewoda składa wniosek do właściwego komendanta upoważnionych lub z rejestru psychologów upoważnionych odpowiednio lekarza upoważnionego lub psychologa upoważnionego, których czynności były przedmiotem kontroli.
+8. W przypadku nieusunięcia stwierdzonych nieprawidłowości w terminie, o którym mowa w ust. 7, wojewoda składa wniosek do właściwego komendanta wojewódzkiego Policji prowadzącego rejestr o wykreślenie z rejestru lekarzy upoważnionych lub z rejestru psychologów upoważnionych odpowiednio lekarza upoważnionego lub psychologa upoważnionego, których czynności były przedmiotem kontroli.
 
 **Art. 15k.** W sprawach dotyczących sposobu postępowania z dokumentacją związaną z badaniami psychologicznymi, o których mowa w art. 15a ust. 3 i 4, stosuje się przepisy wydane na podstawie art. 11 ust. 5 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2022 r. poz. 437).
 
 **Art. 15l.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia:
 
+- **1)** zakres i formę prowadzenia szkoleń pozwalających na uzyskanie dodatkowych kwalifikacji, o których mowa w art. 15b ust. 1 pkt 3 i art. 15c ust. 1 pkt 3;
+- **2)** jednostki uprawnione do prowadzenia szkoleń, o których mowa w pkt 1;
+- **3)** sposób oceny stanu narządu wzroku;
+- **4)** wzory:
+    - **a)** orzeczenia lekarskiego, o którym mowa w art. 15f ust. 1 i art. 15h ust. 7,
+    - **b)** karty badania lekarskiego, o której mowa w art. 15f ust. 3,
+    - **c)** orzeczenia psychologicznego, o którym mowa w art. 15g ust. 1 i art. 15h ust. 7,
+    - **d)** zaświadczenia o wpisie do rejestru lekarzy upoważnionych i zaświadczenia o wpisie do rejestru psychologów upoważnionych
+    - **e)** (uchylona) – mając na względzie właściwe przygotowanie lekarzy upoważnionych i psychologów upoważnionych, sprawny obieg dokumentacji oraz jednolitość stosowanych wzorów.
+
 **Art. 16.**
 
 1. Osoba, która występuje z podaniem o wydanie pozwolenia na broń, jest obowiązana zdać egzamin przed komisją powołaną przez właściwy organ Policji ze znajomości przepisów dotyczących posiadania i używania danej broni oraz z umiejętności posługiwania się tą bronią.
 
-2. Od egzaminu, o którym mowa w ust. 1, zwolnieni są funkcjonariusze Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Służby Więziennej, funkcjonariusze lub pracownicy innych Rzeczypospolitej Polskiej, członkowie Polskiego Związku Łowieckiego – w zakresie broni myśliwskiej, oraz członkowie Polskiego Związku Strzelectwa Sportowego posiadający licencję zezwalającą na uprawianie strzelectwa sportowego – w zakresie broni sportowej, jeżeli zdali taki egzamin na podstawie odrębnych przepisów.
+2. Od egzaminu, o którym mowa w ust. 1, zwolnieni są funkcjonariusze Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Służby Więziennej, funkcjonariusze lub pracownicy innych państwowych formacji uzbrojonych i żołnierze zawodowi Sił Zbrojnych Rzeczypospolitej Polskiej, członkowie Polskiego Związku Łowieckiego – w zakresie broni myśliwskiej, oraz członkowie Polskiego Związku Strzelectwa Sportowego posiadający licencję zezwalającą na uprawianie strzelectwa sportowego – w zakresie broni sportowej, jeżeli zdali taki egzamin na podstawie odrębnych przepisów.
 
 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przeprowadzania i zakres przedmiotowy egzaminu, skład komisji egzaminacyjnej oraz stawkę odpłatności za egzamin. Egzamin musi składać się z części teoretycznej, dotyczącej znajomości przepisów w zakresie zgodnego z prawem posiadania i używania danej broni, oraz z części praktycznej, dotyczącej umiejętności posługiwania się tą bronią. Komisja egzaminacyjna musi składać się z co najmniej trzech członków, z których przynajmniej jeden musi posiadać uprawnienia instruktora strzelań policyjnych lub instruktora wyszkolenia strzeleckiego. Stawka odpłatności za egzamin nie może być wyższa niż 20 % minimalnego wynagrodzenia za pracę ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667).
 
@@ -470,7 +531,11 @@ source: "isap-pdf"
 
 3a. (uchylony)
 
-4. Właściwy organ Policji odmawia wydania pozwolenia na broń osobie, która nie przedstawiła orzeczenia lekarskiego i psychologicznego, o którym mowa w art. 15 ust. 3. takie pozwolenie wydano:
+4. Właściwy organ Policji odmawia wydania pozwolenia na broń osobie, która nie przedstawiła orzeczenia lekarskiego i psychologicznego, o którym mowa w art. 15 ust. 3.
+
+**Art. 18.**
+
+1. Właściwy organ Policji cofa pozwolenie na broń, jeżeli osoba, której takie pozwolenie wydano:
 
 - **1)** nie przestrzega warunków określonych w pozwoleniu na broń, o których mowa w art. 10 ust. 7;
 - **2)** należy do osób, o których mowa w art. 15 ust. 1 pkt 2–6;
@@ -496,7 +561,9 @@ source: "isap-pdf"
 
 6. Przepisy ust. 5 pkt 2–3 i 6 stosuje się odpowiednio do osób posiadających dopuszczenie do posiadania broni.
 
-7. Osobom posiadającym zarejestrowaną broń pneumatyczną w przypadkach, o których mowa w ust. 5 pkt 2–6, można unieważnić kartę rejestracyjną broni. lub której unieważniono kartę rejestracyjną broni, jest zobowiązana – w terminie 7 dni od dnia otrzymania ostatecznej decyzji o cofnięciu pozwolenia na broń, dopuszczenia do posiadania broni lub unieważnienia karty – zwrócić dokumenty potwierdzające legalność posiadania broni i amunicji do właściwego organu Policji.
+7. Osobom posiadającym zarejestrowaną broń pneumatyczną w przypadkach, o których mowa w ust. 5 pkt 2–6, można unieważnić kartę rejestracyjną broni.
+
+8. Osoba, której cofnięto pozwolenie na broń, dopuszczenie do posiadania broni lub której unieważniono kartę rejestracyjną broni, jest zobowiązana – w terminie 7 dni od dnia otrzymania ostatecznej decyzji o cofnięciu pozwolenia na broń, dopuszczenia do posiadania broni lub unieważnienia karty – zwrócić dokumenty potwierdzające legalność posiadania broni i amunicji do właściwego organu Policji.
 
 **Art. 19.**
 
@@ -516,11 +583,14 @@ source: "isap-pdf"
 1. Osobie posiadającej broń, amunicję oraz dokumenty potwierdzające legalność posiadania broni Policja, a w przypadku żołnierza pełniącego czynną służbę wojskową Żandarmeria Wojskowa, odbiera za pokwitowaniem broń, amunicję oraz dokumenty potwierdzające legalność posiadania broni w przypadku:
 
 - **1)** wszczęcia wobec tej osoby procedury „Niebieskie Karty” w związku z zagrożeniem życia lub zdrowia osoby doznającej przemocy domowej, o której mowa w przepisach ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej (Dz. U. z 2021 r. poz. 1249 oraz z 2023 r. poz. 289, 535 i 1606);
-- **2)** zatrzymania tej osoby w związku ze stosowaniem przez nią przemocy domowej; zajmowanego mieszkania i jego bezpośredniego otoczenia i zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zakazu zbliżania się do osoby doznającej tej przemocy na wyrażoną w metrach odległość, zakazu kontaktowania się z osobą doznającą przemocy domowej lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, o których mowa w art. 15aa ust. 1 i art. 15aaa ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145);
+- **2)** zatrzymania tej osoby w związku ze stosowaniem przez nią przemocy domowej;
+- **3)** wydania wobec tej osoby nakazu natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zakazu zbliżania się do osoby doznającej tej przemocy na wyrażoną w metrach odległość, zakazu kontaktowania się z osobą doznającą przemocy domowej lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, o których mowa w art. 15aa ust. 1 i art. 15aaa ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145);
 - **4)** wydania wobec tej osoby nakazu natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, zakazu zbliżania się do osoby doznającej tej przemocy na wyrażoną w metrach odległość, zakazu kontaktowania się z osobą doznającą przemocy domowej lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, o których mowa w art. 18a ust. 1 i art. 18aa ust. 1 i 2 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266 i 1860);
 - **5)** powiadomienia przez sąd o wydaniu wobec tej osoby w postępowaniu toczącym się na podstawie art. 11a i art. 11aa ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej postanowienia o udzieleniu zabezpieczenia lub postanowienia zobowiązującego do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazu zbliżania się do mieszkania i jego bezpośredniego otoczenia lub zakazu zbliżania się do osoby doznającej tej przemocy na wyrażoną w metrach odległość lub zakazu kontaktowania się z osobą doznającą przemocy domowej lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie.
 
-2. Broń, amunicję oraz dokumenty potwierdzające legalność posiadania broni niezwłocznie przekazuje się do depozytu właściwemu organowi Policji albo Żandarmerii Wojskowej, dostarczając jednocześnie kopię dokumentacji sporządzonej w związku z odebraniem broni, amunicji oraz dokumentów potwierdzających legalność posiadania broni zgodnie z ust. 1. amunicja oraz dokumenty potwierdzające legalność posiadania broni, pełni służbę w formacji uzbrojonej, zawiadamia się o tym fakcie jej przełożonego.
+2. Broń, amunicję oraz dokumenty potwierdzające legalność posiadania broni niezwłocznie przekazuje się do depozytu właściwemu organowi Policji albo Żandarmerii Wojskowej, dostarczając jednocześnie kopię dokumentacji sporządzonej w związku z odebraniem broni, amunicji oraz dokumentów potwierdzających legalność posiadania broni zgodnie z ust. 1.
+
+3. Jeżeli osoba, której zgodnie z ust. 1 została odebrana za pokwitowaniem broń, amunicja oraz dokumenty potwierdzające legalność posiadania broni, pełni służbę w formacji uzbrojonej, zawiadamia się o tym fakcie jej przełożonego.
 
 4. Osoba, której zgodnie z ust. 1 została odebrana broń, amunicja oraz dokumenty potwierdzające posiadanie broni, jest obowiązana do poddania się badaniom lekarskim i psychologicznym, o których mowa w art. 15a.
 
@@ -550,7 +620,7 @@ source: "isap-pdf"
 
 1. Koszty związane z deponowaniem broni i amunicji ponosi:
 
-- **1)** Policja lub Żandarmeria Wojskowa – w przypadku przejęcia jej do depozytu, w trybie określonym w art. 19 ust. 1, 1a oraz 3, art. 19a ust. 2 i art. 36 ust. 3 lub w przemocy domowej, oraz przekazania do depozytu przez znalazcę;
+- **1)** Policja lub Żandarmeria Wojskowa – w przypadku przejęcia jej do depozytu, w trybie określonym w art. 19 ust. 1, 1a oraz 3, art. 19a ust. 2 i art. 36 ust. 3 lub w trybie określonym w art. 9g ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej, oraz przekazania do depozytu przez znalazcę;
 - **2)** osoba, która utraciła prawo do jej posiadania, deponująca ją w trybie określonym w art. 22 ust. 3;
 - **3)** osoba deponująca, która weszła w jej posiadanie po osobie zmarłej;
 - **4)** osoba deponująca ją w trybie, o którym mowa w art. 41 ust. 2, art. 42 ust. 5, art. 43 ust. 5 oraz w art. 54.
@@ -567,7 +637,7 @@ source: "isap-pdf"
 
 **Art. 25.** Posiadacz broni w przypadku jej utraty jest zobowiązany niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili stwierdzenia utraty broni, zawiadomić o tym Policję albo Żandarmerię Wojskową.
 
-**Art. 26.** Osoba posiadająca pozwolenie na broń lub posiadająca broń podlegającą rejestracji, która nie wymaga pozwolenia na broń, jest obowiązana w razie zmiany miejsca stałego pobytu zawiadomić o tym fakcie pisemnie, w terminie 14 dni miejsce stałego pobytu.
+**Art. 26.** Osoba posiadająca pozwolenie na broń lub posiadająca broń podlegającą rejestracji, która nie wymaga pozwolenia na broń, jest obowiązana w razie zmiany miejsca stałego pobytu zawiadomić o tym fakcie pisemnie, w terminie 14 dni od dnia zmiany miejsca stałego pobytu, organ Policji właściwy ze względu na nowe miejsce stałego pobytu.
 
 **Art. 27.**
 
@@ -595,7 +665,7 @@ source: "isap-pdf"
 
 3. Dane osobowe żołnierzy zawodowych posiadających pozwolenie na broń, urzędowe informacje i opinie o tych osobach sporządzone w związku ze sprawami pozwoleń na broń oraz liczba posiadanych przez te osoby egzemplarzy broni, rodzaj i cechy identyfikacyjne tej broni podlegają wpisowi do rejestru prowadzonego przez Komendanta Głównego Żandarmerii Wojskowej.
 
-4. Komendant Główny Żandarmerii Wojskowej przekazuje raz w roku, w terminie do 1 marca, Komendantowi Głównemu Policji informację o liczbie egzemplarzy i rodzajach broni, na które pozwolenia te zostały wydane.
+4. Komendant Główny Żandarmerii Wojskowej przekazuje raz w roku, w terminie do 1 marca, Komendantowi Głównemu Policji informację o liczbie pozwoleń na broń wydanych w roku poprzednim, wraz z informacją o liczbie egzemplarzy i rodzajach broni, na które pozwolenia te zostały wydane.
 
 5. Polski Związek Łowiecki i zarządy stowarzyszeń strzeleckich są obowiązane do corocznego składania właściwym organom Policji aktualnych wykazów członków uprawiających łowiectwo lub strzelectwo z użyciem własnej broni oraz do powiadamiania tych organów o wykluczeniu wymienionych członków tych organizacji w terminie 30 dni od dnia wykluczenia.
 
@@ -614,7 +684,7 @@ source: "isap-pdf"
 - **3)** podmiotom prowadzącym strzelnicę;
 - **4)** szkołom, organizacjom sportowym i łowieckim, stowarzyszeniom obronnym w celu szkolenia i realizacji ćwiczeń strzeleckich lub innym placówkom oświatowym oraz organizatorom kursów, kształcącym w zawodzie pracownika ochrony;
 - **5)** podmiotom wykonującym zadania związane z realizacją filmów i innych przedsięwzięć artystycznych;
-- **6)** urzędom, instytucjom, zakładom, przedsiębiorcom i innym podmiotom, których pracownikom broń jest niezbędna do ochrony osobistej w związku szczególnym narażeniem na zamach przeciwko życiu lub zdrowiu;
+- **6)** urzędom, instytucjom, zakładom, przedsiębiorcom i innym podmiotom, których pracownikom broń jest niezbędna do ochrony osobistej w związku z wykonywaniem przez nich obowiązków pracowniczych związanych ze szczególnym narażeniem na zamach przeciwko życiu lub zdrowiu;
 - **7)** podmiotom, którym broń jest niezbędna w celach wzywania pomocy, ratowniczych, poszukiwawczych oraz sygnalizowania rozpoczęcia konkurencji w zawodach sportowych;
 - **8)** zarządcom lub dzierżawcom obwodów łowieckich w celu wykonania odstrzału sanitarnego z nakazu wydanego na podstawie przepisów o zdrowiu zwierząt.
 
@@ -637,6 +707,8 @@ source: "isap-pdf"
 
 2. Dopuszczenie do posiadania broni następuje w drodze decyzji administracyjnej, wydawanej przez właściwy organ Policji.
 
+3. (uchylony)
+
 4. Legalność posiadania broni przez osoby, o których mowa w ust. 1, potwierdza się w legitymacji osoby dopuszczonej do posiadania broni.
 
 **Art. 31.**
@@ -655,7 +727,9 @@ source: "isap-pdf"
 
 1. Jeżeli interes bezpieczeństwa państwa lub porządek publiczny tego wymagają, minister właściwy do spraw wewnętrznych może wprowadzić, w drodze rozporządzenia, na obszarze całego państwa lub na określonych obszarach, na czas określony, w odniesieniu do wszelkiej broni lub niektórych jej rodzajów zakaz jej noszenia lub przemieszczania w stanie rozładowanym.
 
-2. Zakaz, o którym mowa w ust. 1, dotyczy wszystkich osób posiadających broń zgodnie z przepisami niniejszej ustawy, z wyłączeniem osób posiadających broń na podstawie świadectwa broni wydanego podmiotom, o których mowa w art. 29 ust. 1 pkt 1, 2 i 6, oraz z wyłączeniem osób, o których mowa w art. 39 ust. 1 i w art. 40. Przewóz przez terytorium Rzeczypospolitej Polskiej, przywóz z zagranicy i wywóz za granicę broni i amunicji oraz zasady posiadania broni i amunicji przez cudzoziemców
+2. Zakaz, o którym mowa w ust. 1, dotyczy wszystkich osób posiadających broń zgodnie z przepisami niniejszej ustawy, z wyłączeniem osób posiadających broń na podstawie świadectwa broni wydanego podmiotom, o których mowa w art. 29 ust. 1 pkt 1, 2 i 6, oraz z wyłączeniem osób, o których mowa w art. 39 ust. 1 i w art. 40.
+
+#### Rozdział 3 Przewóz przez terytorium Rzeczypospolitej Polskiej, przywóz z zagranicy i wywóz za granicę broni i amunicji oraz zasady posiadania broni i amunicji przez cudzoziemców
 
 **Art. 34.**
 
@@ -681,7 +755,8 @@ source: "isap-pdf"
 
 4. Operator świadczący usługi pocztowe, któremu zlecono przesłanie broni palnej lub amunicji:
 
-- **1)** z innego państwa członkowskiego Unii Europejskiej na terytorium Rzeczypospolitej Polskiej, Europejskiej,
+- **1)** z innego państwa członkowskiego Unii Europejskiej na terytorium Rzeczypospolitej Polskiej,
+- **2)** z terytorium Rzeczypospolitej Polskiej do innego państwa członkowskiego Unii Europejskiej,
 - **3)** przez terytorium Rzeczypospolitej Polskiej w ramach transakcji realizowanej na obszarze Unii Europejskiej – jest obowiązany posiadać zgodę przewozową oraz kopię uprzedniej zgody przewozowej.
 
 5. W przypadkach innych niż określone w ust. 4 operator świadczący usługi pocztowe, któremu zlecono przesłanie broni lub amunicji, jest obowiązany posiadać kopie dokumentów potwierdzających legalność posiadania broni lub amunicji przez zbywcę i nabywcę, o ile dokumenty takie są wymagane.
@@ -701,7 +776,7 @@ source: "isap-pdf"
 
 4. Koszty związane z deponowaniem broni i amunicji w trybie, o którym mowa w ust. 3, ponosi osoba składająca broń i amunicję do depozytu.
 
-5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zgłoszenia oraz tryb przekazywania informacji, o których mowa w ust. 2. Zgłoszenie powinno zawierać dane, które pozwolą na jednoznaczną identyfikację i amunicji.
+5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zgłoszenia oraz tryb przekazywania informacji, o których mowa w ust. 2. Zgłoszenie powinno zawierać dane, które pozwolą na jednoznaczną identyfikację osoby przywożącej broń i amunicję, a także jednoznaczną identyfikację tej broni i amunicji.
 
 **Art. 37a.**
 
@@ -734,6 +809,7 @@ source: "isap-pdf"
 - **2)** łowieckich;
 - **3)** sportowych;
 - **4)** kolekcjonerskich;
+- **5)** pamiątkowych.
 
 2. Cudzoziemcom, o których mowa w ust. 1, właściwy organ Policji wydaje terminowe pozwolenie na broń na okres pełnienia przez te osoby funkcji w misjach dyplomatycznych i urzędach konsularnych w Rzeczypospolitej Polskiej, po uzyskaniu pozytywnej opinii Komendanta Służby Ochrony Państwa.
 
@@ -751,7 +827,7 @@ source: "isap-pdf"
 
 3a. Zaświadczenia, o których mowa w ust. 1 i 3, wydaje się po uzyskaniu pozytywnej opinii Komendanta Służby Ochrony Państwa.
 
-4. Jeżeli cudzoziemcy, o których mowa w art. 39 ust. 1 i art. 40, nie spełniają warunków określonych w ust. 1 i 2, broń i amunicja podlegają zatrzymaniu przez właściwy organ Straży Granicznej lub organ celny i protokolarnemu przekazaniu cudzoziemców.
+4. Jeżeli cudzoziemcy, o których mowa w art. 39 ust. 1 i art. 40, nie spełniają warunków określonych w ust. 1 i 2, broń i amunicja podlegają zatrzymaniu przez właściwy organ Straży Granicznej lub organ celny i protokolarnemu przekazaniu organowi Policji właściwemu ze względu na miejsce przekraczania granicy przez tych cudzoziemców.
 
 **Art. 42.**
 
@@ -767,7 +843,7 @@ source: "isap-pdf"
 
 2d. Cudzoziemiec, o którym mowa w ust. 2c, w terminie 14 dni od chwili wjazdu na terytorium Rzeczypospolitej Polskiej informuje o przywozie broni palnej na podstawie Europejskiej karty broni palnej właściwego ze względu na miejsce pobytu komendanta wojewódzkiego Policji.
 
-3. Przywóz oraz wywóz broni i amunicji przez cudzoziemców, o których mowa w ust. 1 i 2 oraz 2a, odbywa się na podstawie zaświadczenia wydanego przez okres do 30 dni od dnia przywozu broni i amunicji.
+3. Przywóz oraz wywóz broni i amunicji przez cudzoziemców, o których mowa w ust. 1 i 2 oraz 2a, odbywa się na podstawie zaświadczenia wydanego przez właściwego konsula Rzeczypospolitej Polskiej, które zastępuje pozwolenie na broń na okres do 30 dni od dnia przywozu broni i amunicji.
 
 3a. Przywóz oraz wywóz broni i amunicji przez cudzoziemców, o których mowa w ust. 1 i 2, będących obywatelami państwa członkowskiego Unii Europejskiej może nastąpić także bez zachowania warunku określonego w ust. 3, na podstawie Europejskiej karty broni palnej, wydanej przez właściwe władze tych państw, jeżeli broń ta jest wpisana do Europejskiej karty broni palnej i cudzoziemiec jest w stanie uzasadnić powód swojej podróży z bronią.
 
@@ -787,7 +863,7 @@ source: "isap-pdf"
 
 **Art. 43.**
 
-1. Cudzoziemcy niebędący obywatelami Unii Europejskiej lub niewymienieni w art. 39 ust. 1 mogą nabywać i wywozić z terytorium posiadać osoby fizyczne na podstawie pozwolenia na broń, jeżeli otrzymali:
+1. Cudzoziemcy niebędący obywatelami Unii Europejskiej lub niewymienieni w art. 39 ust. 1 mogą nabywać i wywozić z terytorium Rzeczypospolitej Polskiej broń lub amunicję, które zgodnie z przepisami ustawy mogą posiadać osoby fizyczne na podstawie pozwolenia na broń, jeżeli otrzymali:
 
 - **1)** zaświadczenie uprawniające do nabycia określonego rodzaju oraz liczby egzemplarzy broni lub sztuk amunicji,
 - **2)** zgodę na wywóz z terytorium Rzeczypospolitej Polskiej broni lub amunicji – wydane na ich wniosek przez komendanta wojewódzkiego Policji, właściwego ze względu na miejsce nabycia broni lub amunicji.
@@ -807,7 +883,7 @@ source: "isap-pdf"
 
 5. W przypadku niedotrzymania terminu, o którym mowa w ust. 4, broń lub amunicję składa się niezwłocznie do depozytu najbliższego komendanta wojewódzkiego Policji, który na podstawie dotychczasowej zgody na wywóz broni lub amunicji, o której mowa w ust. 1 pkt 2, wydaje kolejną zgodę na wywóz broni lub amunicji, z terminem ważności 2 dni.
 
-6. Cudzoziemcy będący obywatelami innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej mogą nabywać i wywozić z terytorium Rzeczypospolitej Polskiej broń lub amunicję na podstawie zgody przewozowej, komendanta wojewódzkiego Policji.
+6. Cudzoziemcy będący obywatelami innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej mogą nabywać i wywozić z terytorium Rzeczypospolitej Polskiej broń lub amunicję na podstawie zgody przewozowej, poświadczonej przez właściwego ze względu na miejsce nabycia broni lub amunicji komendanta wojewódzkiego Policji.
 
 7. Zgoda przewozowa powinna zawierać w szczególności:
 
@@ -829,7 +905,7 @@ source: "isap-pdf"
 
 11. Komendant wojewódzki Policji niezwłocznie zawiadamia Komendanta Głównego Policji o nabyciu broni lub amunicji przez cudzoziemca, o którym mowa w ust. 1, oraz przekazuje kopie dokumentów, o których mowa w ust. 1–3.
 
-12. Komendant Główny Policji niezwłocznie zawiadamia właściwe władze państwa, które wydało cudzoziemcowi upoważnienie, o którym mowa w ust. 3, oraz państwa, przez których terytorium będzie odbywać się przewóz broni lub amunicji, o nabyciu broni lub amunicji przez cudzoziemca i zamiarze jej wywozu.
+12. Komendant Główny Policji niezwłocznie zawiadamia właściwe władze państwa, które wydało cudzoziemcowi upoważnienie, o którym mowa w ust. 3, oraz państwa, przez których terytorium będzie odbywać się przewóz broni lub amunicji, a w przypadku gdy takie władze nie zostały wskazane – konsulów tych państw, o nabyciu broni lub amunicji przez cudzoziemca i zamiarze jej wywozu.
 
 13. Komendant Główny Policji prowadzi rejestr, który może być prowadzony łącznie z rejestrem, o którym mowa w art. 27 ust. 2, zawierający:
 
@@ -852,7 +928,9 @@ source: "isap-pdf"
 
 1. Komendant wojewódzki Policji odmawia poświadczenia uprzedniej zgody przewozowej i zgody przewozowej, jeżeli zachodzą okoliczności uzasadniające cofnięcie pozwolenia na broń.
 
-2. Organem odwoławczym od decyzji komendanta wojewódzkiego Policji jest Komendant Główny Policji. między obywatelami państw członkowskich Unii Europejskiej stosuje się odpowiednio przepisy działu III rozdziału 3 oddziału 2 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), z wyłączeniem art. 72, art. 74, art. 75, art. 76 ust. 2, art. 77, art. 78 oraz art. 80.
+2. Organem odwoławczym od decyzji komendanta wojewódzkiego Policji jest Komendant Główny Policji.
+
+3. W zakresie nieuregulowanym niniejszą ustawą do przemieszczania broni między obywatelami państw członkowskich Unii Europejskiej stosuje się odpowiednio przepisy działu III rozdziału 3 oddziału 2 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743), z wyłączeniem art. 72, art. 74, art. 75, art. 76 ust. 2, art. 77, art. 78 oraz art. 80.
 
 **Art. 44.** Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zagranicznych, określi, w drodze rozporządzenia, wzory dokumentów, o których mowa w art. 34, art. 37 ust. 1, art. 41 ust. 1 i 3, art. 42 ust. 3 i 6 oraz art. 43 ust. 1. Zaświadczenia i zgoda powinny zawierać opis przywożonej, przewożonej lub wywożonej broni i amunicji, umożliwiający ich jednoznaczną identyfikację, a także dane, które wraz z dokumentem paszportowym lub innym dokumentem uprawniającym do przekroczenia granicy państwa pozwolą na ustalenie tożsamości ich posiadacza.
 
@@ -868,7 +946,11 @@ source: "isap-pdf"
 
 2. Szczegółowe zasady zachowania bezpieczeństwa na strzelnicy określa regulamin strzelnicy.
 
-3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzorcowy regulamin bezpiecznego funkcjonowania strzelnic, uwzględniając warunki korzystania ze strzelnicy oraz sposób obchodzenia się z bronią i sposób zachowania się osób przebywających na strzelnicy. administracyjnej wydawanej przez właściwego wójta, burmistrza (prezydenta miasta).
+3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzorcowy regulamin bezpiecznego funkcjonowania strzelnic, uwzględniając warunki korzystania ze strzelnicy oraz sposób obchodzenia się z bronią i sposób zachowania się osób przebywających na strzelnicy.
+
+**Art. 47.**
+
+1. Zatwierdzenie regulaminu strzelnicy następuje w drodze decyzji administracyjnej wydawanej przez właściwego wójta, burmistrza (prezydenta miasta).
 
 2. Do postępowania w sprawie zatwierdzenia regulaminu strzelnicy stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
@@ -889,7 +971,8 @@ source: "isap-pdf"
 - **1)** nie dopełnia obowiązku rejestracji broni albo obowiązku zdania broni i amunicji do depozytu;
 - **2)** nie dopełnia obowiązku zawiadomienia Policji o utracie lub zbyciu innej osobie broni i amunicji do tej broni;
 - **3)** posiadając pozwolenie na broń lub posiadając broń podlegającą rejestracji, która nie wymaga pozwolenia na broń, nie dopełnia obowiązku pisemnego zawiadomienia właściwego organu Policji o zmianie miejsca stałego pobytu w terminie 14 dni od dnia zmiany miejsca stałego pobytu;
-- **4)** nosi broń, znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowych albo środka zastępczego; państwem członkowskim Unii Europejskiej broń lub amunicję bez wymaganego zaświadczenia właściwego konsula Rzeczypospolitej Polskiej lub nie dopełnia obowiązku pisemnego zgłoszenia przywozu broni lub amunicji przy przekraczaniu granicy;
+- **4)** nosi broń, znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowych albo środka zastępczego;
+- **5)** przywozi na terytorium Rzeczypospolitej Polskiej z państwa niebędącego państwem członkowskim Unii Europejskiej broń lub amunicję bez wymaganego zaświadczenia właściwego konsula Rzeczypospolitej Polskiej lub nie dopełnia obowiązku pisemnego zgłoszenia przywozu broni lub amunicji przy przekraczaniu granicy;
 - **5a)** wywozi za granicę, do państwa niebędącego państwem członkowskim Unii Europejskiej, broń lub amunicję bez zgody właściwego organu Policji lub zaświadczenia zastępującego pozwolenie na broń oraz uprawniającego do wywozu broni;
 - **5b)** przywozi na terytorium Rzeczypospolitej Polskiej z państwa członkowskiego Unii Europejskiej albo wywozi z terytorium Rzeczypospolitej Polskiej do państwa członkowskiego Unii Europejskiej broń palną lub amunicję, bez zgody przewozowej lub uprzedniej zgody przewozowej;
 - **5c)** przywozi na terytorium Rzeczypospolitej Polskiej z państwa członkowskiego Unii Europejskiej inną broń niż broń palna, bez wymaganego zaświadczenia właściwego konsula Rzeczypospolitej Polskiej;
@@ -900,7 +983,8 @@ source: "isap-pdf"
 - **9)** przewozi broń i amunicję w kabinie pasażerskiego statku powietrznego, nie będąc osobą do tego upoważnioną na podstawie odrębnych przepisów;
 - **10)** nosi broń, naruszając ograniczenie lub wykluczenie możliwości jej noszenia określone przez właściwy organ Policji w pozwoleniu na broń, albo nosi broń, naruszając zakaz jej noszenia wprowadzony przez ministra właściwego do spraw wewnętrznych;
 - **11)** używa w celach szkoleniowych lub sportowych broni zdolnej do rażenia celów na odległość poza strzelnicami;
-- **12)** narusza przepisy regulaminu określającego zasady zachowania bezpieczeństwa na strzelnicy; broni, legitymacji posiadacza broni, karty rejestracyjnej broni lub Europejskiej karty broni palnej;
+- **12)** narusza przepisy regulaminu określającego zasady zachowania bezpieczeństwa na strzelnicy;
+- **13)** nie dopełnił obowiązku zwrotu legitymacji osoby dopuszczonej do posiadania broni, legitymacji posiadacza broni, karty rejestracyjnej broni lub Europejskiej karty broni palnej;
 - **14)** nie przekazuje komendantowi wojewódzkiemu Policji właściwemu ze względu na miejsce polowania, imprezy sportowej lub rekonstrukcji historycznej pisemnej informacji o planowanej dacie i miejscu polowania, imprezy sportowej lub rekonstrukcji historycznej z udziałem cudzoziemców oraz przybliżonej liczbie uczestników biorących w nich udział.
 
 3. Kto posiada broń, nie mając przy sobie:
@@ -920,5 +1004,7 @@ source: "isap-pdf"
 
 **Art. 54.** Nie podlega karze, kto bez wymaganego pozwolenia posiada broń lub amunicję i w terminie do 90 dni od dnia wejścia w życie niniejszego przepisu dobrowolnie zawiadomi o tym fakcie Policję oraz złoży broń i amunicję do jej depozytu.
 
-**Art. 55.** Traci moc ustawa z dnia 31 stycznia 1961 r. o broni, amunicji i materiałach wybuchowych (Dz. U. poz. 43, z późn. zm. ). z wyjątkiem przepisu art. 54, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 55.** Traci moc ustawa z dnia 31 stycznia 1961 r. o broni, amunicji i materiałach wybuchowych (Dz. U. poz. 43, z późn. zm. ).
+
+**Art. 56.** Ustawa wchodzi w życie po upływie 9 miesięcy od dnia ogłoszenia , z wyjątkiem przepisu art. 54, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

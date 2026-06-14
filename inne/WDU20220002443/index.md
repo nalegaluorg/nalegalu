@@ -8,10 +8,10 @@ pos: 2443
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22444433 WZÓR WNIOSEK O WYPŁATĘ DODATKU ELEKTRYCZNEGO UWAGA!
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2443/text.pdf) |
 
-22444433 WZÓR WNIOSEK O WYPŁATĘ DODATKU ELEKTRYCZNEGO UWAGA!
-Informacje przedstawione we wniosku o wypłatę dodatku elektrycznego składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń zgodnie z art. 34 ust. 4 ustawy z dnia 7 października 2022 r.
+Informacje przedstawione we wniosku o wypłatę dodatku elektrycznego składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń – zgodnie z art. 34 ust. 4 ustawy z dnia 7 października 2022 r.
 o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127, z późn. zm.), zwanej dalej „ustawą”.
 Zgodnie z art. 30 ust. 1 ustawy kwota dodatku elektrycznego wynosi 1000 zł.
 W przypadku gdy zużycie energii elektrycznej w gospodarstwie domowym w tym samym miejscu zamieszkania w 2021 r. wyniosło więcej niż 5 MWh, dodatek elektryczny wynosi 1500 zł (art. 30 ust. 2 ustawy) .
@@ -51,7 +50,7 @@ DANE OSOBY WCHODZĄCEJ W SKŁAD GOSPODARSTWA DOMOWEGO ……………………�
 DANE OSOBY WCHODZĄCEJ W SKŁAD GOSPODARSTWA DOMOWEGO …………………………………………………………………………………………………………..
 DANE OSOBY WCHODZĄCEJ W SKŁAD GOSPODARSTWA DOMOWEGO …………………………………………………………………………………………………………..
 3. Informacja dotycząca źródeł ogrzewania zasilanych energią elektryczną .
-Głównym źródłem ogrzewania gospodarstwa domowego wnioskodawcy jest jedno z następujących źródeł: pompa ciepła, ogrzewanie elektryczne / bojler elektryczny zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2022 r. poz. 438, z późn. zm.) .
+Głównym źródłem ogrzewania gospodarstwa domowego wnioskodawcy jest jedno z następujących źródeł: pompa ciepła, ogrzewanie elektryczne / bojler elektryczny – zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2022 r. poz. 438, z późn. zm.) .
 zm.), która jest rozliczana zgodnie z zasadami określonymi w art. 4 tej ustawy , ̶ gospodarstwo domowe nie skorzystało z dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. poz. 1692, z późn. zm.), ani nie złożyłem(-łam) wniosku o przyznanie tego dodatku, ̶ gospodarstwo domowe nie skorzystało z paliwa stałego zakupionego po cenie i od przedsiębiorcy, o którym mowa w art. 2 ust. 1 ustawy z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych w związku z sytuacją na rynku tych paliw (Dz. U. poz. 1477, z późn. zm.) , ̶ gospodarstwo domowe nie skorzystało z dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła, o którym mowa w art. 24 ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967, z późn. zm.), ani nie złożyłem(-łam) wniosku o przyznanie tego dodatku.
 Do wniosku dołączam następujące dokumenty:
 1) ................................................................................................................................................................

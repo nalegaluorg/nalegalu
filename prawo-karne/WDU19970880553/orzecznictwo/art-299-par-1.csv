@@ -32,12 +32,15 @@ saos_id|date|court|case_number|type|score|saos_url
 103375|2013-10-29|SN|IV KO 83/13|Postanowienie|69|https://www.saos.org.pl/judgments/103375
 99252|2012-10-04|SN|IV KK 222/12|Postanowienie|69|https://www.saos.org.pl/judgments/99252
 94885|2011-05-05|SN|III KK 42/11|Postanowienie|69|https://www.saos.org.pl/judgments/94885
+546819|2026-04-01|SO|II AKa 403/24|Wyrok|56|https://www.saos.org.pl/judgments/546819
 544505|2026-02-18|SO|II AKa 69/23|Wyrok|56|https://www.saos.org.pl/judgments/544505
 537647|2025-10-09|SO|II AKa 16/25|Wyrok|56|https://www.saos.org.pl/judgments/537647
 538358|2025-10-07|SO|II AKa 263/25|Wyrok|56|https://www.saos.org.pl/judgments/538358
 544065|2025-07-24|SO|II AKa 317/23|Wyrok|56|https://www.saos.org.pl/judgments/544065
+545278|2025-06-12|SO|II AKa 55/25|Wyrok|56|https://www.saos.org.pl/judgments/545278
 543164|2025-06-04|SO|II AKa 102/25|Wyrok|56|https://www.saos.org.pl/judgments/543164
 531101|2025-05-27|SO|II AKa 256/24|Wyrok|56|https://www.saos.org.pl/judgments/531101
+545277|2025-03-26|SO|II AKa 508/24|Wyrok|56|https://www.saos.org.pl/judgments/545277
 542632|2025-03-10|SO|II AKa 382/23|Wyrok|56|https://www.saos.org.pl/judgments/542632
 524810|2025-01-29|SO|II AKa 270/22|Wyrok|56|https://www.saos.org.pl/judgments/524810
 522883|2024-12-19|SO|II AKa 47/21|Wyrok|56|https://www.saos.org.pl/judgments/522883
@@ -530,6 +533,7 @@ saos_id|date|court|case_number|type|score|saos_url
 158120|2015-03-31|SO|II AKa 4/15|Uzasadnienie|42|https://www.saos.org.pl/judgments/158120
 169319|2015-03-10|SO|II AKa 150/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/169319
 62578|2014-06-27|SO|II AKa 111/13|Uzasadnienie|42|https://www.saos.org.pl/judgments/62578
+545041|2025-03-18|SO|II K 21/24|Wyrok|40|https://www.saos.org.pl/judgments/545041
 521692|2024-12-11|SO|II Ca 2269/23|Wyrok|40|https://www.saos.org.pl/judgments/521692
 540431|2024-11-13|SO|VI K 138/24|Wyrok|40|https://www.saos.org.pl/judgments/540431
 507677|2024-04-19|SO|IV K 110/22|Wyrok|40|https://www.saos.org.pl/judgments/507677

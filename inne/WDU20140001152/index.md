@@ -8,10 +8,10 @@ pos: 1152
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1152 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 28 sierpnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001152) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1152/text.pdf) |
 
-Poz. 1152 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 28 sierpnia 2014 r.
-w sprawie szczegółowych wymagań w zakresie ochrony lokali obwodowych komisji wyborczych w czasie przerwy w głosowaniu spowodowanej nadzwyczajnymi wydarzeniami Na podstawie art. 47 § 5 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe wymagania w zakresie ochrony lokali obwodowych komisji wyborczych, zwanych dalej „lokalami wyborczymi”, w czasie przerwy w głosowaniu spowodowanej nadzwyczajnymi wydarzeniami, w tym również zasady udzielania przez Policję pomocy wójtom (burmistrzom, prezydentom miast) w celu prawidłowej ochrony tych lokali.
+w sprawie szczegółowych wymagań w zakresie ochrony lokali obwodowych komisji wyborczych w czasie przerwy w głosowaniu spowodowanej nadzwyczajnymi wydarzeniami Na podstawie art. 47 § 5 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe wymagania w zakresie ochrony lokali obwodowych komisji wyborczych, zwanych dalej „lokalami wyborczymi”, w czasie przerwy w głosowaniu spowodowanej nadzwyczajnymi wydarzeniami, w tym również zasady udzielania przez Policję pomocy wójtom (burmistrzom, prezydentom miast) w celu prawidłowej ochrony tych lokali.
 § 2. 1. Ochrona lokalu wyborczego w czasie przerwy w głosowaniu spowodowanej nadzwyczajnymi wydarzeniami polega na sprawowaniu stałego, zewnętrznego dozoru lokalu wyborczego oraz sprawdzaniu stanu zabezpieczeń przez przedstawicieli wyznaczonych w tym celu przez wójta (burmistrza, prezydenta miasta).
 2. Wójt (burmistrz, prezydent miasta) nie później niż 14 dni przed terminem wyborów:
 1) wyznacza swoich przedstawicieli w liczbie odpowiadającej potrzebom ochrony lokalu wyborczego, uzależnionej w szczególności od rozmiarów budynku, rodzaju i stanu technicznego istniejących zabezpieczeń, na podstawie pisemnych upoważnień, w których podaje ich imiona, nazwiska oraz adresy zamieszkania;

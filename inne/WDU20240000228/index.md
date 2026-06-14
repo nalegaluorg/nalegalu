@@ -8,10 +8,10 @@ pos: 228
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 228 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 14 lutego 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/228/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 14 lutego 2024 r.
-w sprawie bezpieczeństwa i higieny pracy przy obsłudze ciągników, maszyn, narzędzi i urządzeń technicznych stosowanych w rolnictwie Na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465) zarządza się, co następuje: § 1. Rozporządzenie określa wymagania bezpieczeństwa i higieny pracy przy obsłudze ciągników, maszyn, narzędzi i urządzeń technicznych stosowanych w rolnictwie lub melioracjach wodnych, zwanych dalej „sprzętem rolniczym”.
+w sprawie bezpieczeństwa i higieny pracy przy obsłudze ciągników, maszyn, narzędzi i urządzeń technicznych stosowanych w rolnictwie Na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wymagania bezpieczeństwa i higieny pracy przy obsłudze ciągników, maszyn, narzędzi i urządzeń technicznych stosowanych w rolnictwie lub melioracjach wodnych, zwanych dalej „sprzętem rolniczym”.
 § 2. Przy obsłudze sprzętu rolniczego stosuje się:
 1) wytyczne określone przez producenta w instrukcji obsługi tego sprzętu rolniczego, zwanej dalej „instrukcją obsługi”;
 2) środki ochrony indywidualnej oraz odzież i obuwie robocze zalecane przez producenta.
@@ -64,8 +64,8 @@ b) narzędzia niezbędne do bezpiecznej obsługi tego sprzętu rolniczego;
 8) innego układu lub zespołu lub innej instalacji niż wymienione w pkt 1–7, jeżeli przewiduje to instrukcja obsługi.
 § 15. Koparki pływające wyposaża się w łódź, koła i kamizelki ratunkowe, liny, kotwicę oraz mechaniczną wyciągarkę.
 § 16. Nie używa się na terenie o pochyleniu przekraczającym:
-1) 12 stopni ciągników o masie własnej powyżej 800 kg niewyposażonych w bezpieczne kabiny lub ramy ochronne sztywne, nieskładane;
-2) 14 stopni ciągników gąsienicowych niewyposażonych w bezpieczne kabiny lub ramy ochronne sztywne, nieskładane.
+1) 12 stopni – ciągników o masie własnej powyżej 800 kg niewyposażonych w bezpieczne kabiny lub ramy ochronne sztywne, nieskładane;
+2) 14 stopni – ciągników gąsienicowych niewyposażonych w bezpieczne kabiny lub ramy ochronne sztywne, nieskładane.
 § 17. Przy obsłudze samojezdnego sprzętu rolniczego nie:
 1) zaczepia się lin, łańcuchów lub haków holowniczych do miejsc konstrukcyjnie nieprzewidzianych do tego celu;
 2) wchodzi się na ten sprzęt i nie schodzi z niego w czasie jego ruchu;

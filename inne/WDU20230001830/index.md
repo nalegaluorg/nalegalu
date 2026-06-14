@@ -1,0 +1,77 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2023 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności ekologicznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027"
+address: WDU20230001830
+eli: DU/2023/1830
+publisher: DU
+year: 2023
+pos: 1830
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1830 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 5 września 2023 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 1830 |
+| ISAP | WDU20230001830 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2023-09-05 |
+| Data wydania | 2023-09-08 |
+| Ostatnia zmiana | 2025-01-27 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001830) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1830/text.pdf) |
+
+zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności ekologicznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Na podstawie art. 71 ust. 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412 i 1530) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2023 r. w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności ekologicznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 791) wprowadza się następujące zmiany:
+1) w § 6:
+a) ust. 9 i 10 otrzymują brzmienie: „9. Za zmianę wielkości powierzchni użytków rolnych objętych zobowiązaniem ekologicznym nie uznaje się wykorzystania przez rolnika części tych użytków na potrzeby wypełnienia normy dobrej kultury rolnej zgodnej z ochroną środowiska GAEC 8, wymienionej w załączniku III do rozporządzenia 2021/2115, w zakresie minimalnego udziału powierzchni użytków rolnych wykorzystanej na elementy lub obszary nieprodukcyjne rozumiane jako:
+1) grunty ugorowane, na których nie są stosowane środki ochrony roślin oraz nie jest prowadzona działalność rolnicza, o której mowa w art. 21 ust. 1 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, zwana dalej „działalnością rolniczą”, w tym wypas i koszenie, w okresie od dnia 1 stycznia do dnia 31 lipca;
+2) grunty ugorowane z roślinami miododajnymi, na których nie są stosowane środki ochrony roślin oraz nie jest prowadzona działalność rolnicza, w tym wypas i koszenie, z wyjątkiem prowadzenia pasiek – w okresie od dnia 1 stycznia do dnia 31 sierpnia;
+3) pasy gruntów wzdłuż obrzeży lasu, o szerokości nie mniejszej niż 1 m i nie większej niż 20 m, na których nie są stosowane środki ochrony roślin oraz nie jest prowadzona działalność rolnicza, w tym wypas i koszenie, z wyjątkiem wypasu i koszenia w okresie od dnia 1 sierpnia do dnia 31 grudnia.
+10. Jeżeli w danym roku część powierzchni użytków rolnych objętych zobowiązaniem ekologicznym zostanie wykorzystana zgodnie z ust. 9:
+1) pkt 1 – to do tych użytków są przyznawane płatności ekologiczne z zastosowaniem stawki płatności określonej dla pakietu wymienionego w § 3 ust. 1 pkt 1 i odnoszącej się do gruntów z zakończonym okresem konwersji;
+2) pkt 2 lub 3 – to do tych użytków nie są przyznawane płatności ekologiczne.”,
+b) dodaje się ust. 11 w brzmieniu: „11. W przypadku, o którym mowa w ust. 10 pkt 1, nie mają zastosowania przepisy:
+1) § 32–37 i § 40;
+2) § 41 – w odniesieniu do uchybień, o których mowa w § 32 ust. 1, § 33 ust. 1, § 34 ust. 1, § 35 ust. 1, § 36 i § 37.”;
+2) w § 11 w ust. 4 w części wspólnej liczbę „0,5” zastępuje się liczbą „0,3”;
+3) w § 46 skreśla się wyrazy „o której mowa w art. 21 ust. 1 pkt 1 ustawy o Planie Strategicznym,”;
+4) § 47 otrzymuje brzmienie: „§ 47. W 2023 r.:
+1) plan działalności ekologicznej sporządza się do dnia 30 września;
+2) czynność, o której mowa w § 19 ust. 2, dokonaną do dnia 15 października uważa się za dokonaną w terminie.”;
+5) po § 47 dodaje się § 47a w brzmieniu: „§ 47a. 1. Przy przyznawaniu płatności ekologicznej za 2023 r. przy ustalaniu spełniania warunku określonego w § 8 ust. 3:
+1) pkt 1 lit. a – w przypadku zwierząt, o których mowa w ust. 1 pkt 1, 3, 6 i 12–14 załącznika nr 5 do rozporządzenia, lub
+2) pkt 2 lit. a – w przypadku zwierząt, o których mowa w ust. 2 pkt 1, 3, 5 i 9–11 załącznika nr 5 do rozporządzenia, lub
+3) pkt 3 lit. a tiret pierwsze – w przypadku zwierząt, o których mowa w ust. 1 pkt 1, 3, 6 i 12–14 załącznika nr 5 do rozporządzenia, lub
+4) pkt 3 lit. b tiret pierwsze – w przypadku zwierząt, o których mowa w ust. 2 pkt 1, 3, 5 i 9–11 załącznika nr 5 do rozporządzenia – mogą zostać uwzględnione te zwierzęta posiadane w okresie od dnia 15 marca 2023 r. do dnia 14 marca 2024 r. przez rolnika lub jego małżonka lub przez innego rolnika ubiegającego się o przyznanie płatności ekologicznej lub jego małżonka, w odniesieniu do których ten rolnik lub jego małżonek lub ten inny rolnik lub jego małżonek nie dokonali wymaganych na podstawie przepisów o systemie identyfikacji i rejestracji zwierząt zgłoszeń do komputerowej bazy danych – wskazane w oświadczeniu składanym przez rolnika do kierownika biura powiatowego Agencji w terminie od dnia 15 marca 2024 r. do dnia 21 marca 2024 r. na formularzu udostępnionym przez Agencję, które to oświadczenie zawiera liczbę zwierząt poszczególnych gatunków posiadanych w okresie od dnia 15 marca 2023 r. do dnia 14 marca 2024 r. z podziałem na rodzaje tych zwierząt określone w załączniku nr 6 do rozporządzenia oraz z podziałem na zwierzęta posiadane przez tego rolnika, przez jego małżonka, przez innego rolnika i przez małżonka innego rolnika.
+2. Przy przyznawaniu płatności ekologicznej za 2023 r. w przypadku zwierząt, o których mowa w ust. 1 pkt 1, 3, 6 i 12–14 załącznika nr 5 do rozporządzenia, przy ustalaniu spełniania warunku określonego w § 8 ust. 4 pkt 1 lit. a mogą zostać uwzględnione te zwierzęta posiadane w okresie od dnia 15 marca 2023 r. do dnia 14 marca 2024 r. przez rolnika lub jego małżonka, w odniesieniu do których rolnik lub jego małżonek nie dokonali wymaganych na podstawie przepisów o systemie identyfikacji i rejestracji zwierząt zgłoszeń do komputerowej bazy danych – wskazane w oświadczeniu składanym przez rolnika do kierownika biura powiatowego Agencji w terminie od dnia 15 marca 2024 r. do dnia 21 marca 2024 r. na formularzu udostępnionym przez Agencję, które to oświadczenie zawiera liczbę zwierząt poszczególnych gatunków posiadanych w okresie od dnia 15 marca 2023 r. do dnia 14 marca 2024 r. z podziałem na rodzaje tych zwierząt określone w załączniku nr 6 do rozporządzenia oraz z podziałem na zwierzęta posiadane przez rolnika i przez jego małżonka.
+3. W przypadkach, o których mowa w ust. 1 i 2, liczbę DJP oblicza się jako sumę iloczynów liczby poszczególnych rodzajów zwierząt posiadanych w okresie od dnia 15 marca 2023 r. do dnia 14 marca 2024 r. i współczynników ich przeliczenia na DJP, które są określone w załączniku nr 6 do rozporządzenia, przy czym liczba zwierząt jest wskazana w oświadczeniach, o których mowa w ust. 1 i 2.
+4. Jeżeli w oświadczeniach, o których mowa w ust. 1 i 2, zostały wskazane zwierzęta, których posiadaczem jest małżonek rolnika ubiegającego się o przyznanie płatności ekologicznej, to do tych oświadczeń dołącza się pisemną zgodę tego małżonka na przyznanie płatności ekologicznej temu rolnikowi z uwzględnieniem określonych zwierząt, których posiadaczem jest jego małżonek.
+5. Jeżeli w oświadczeniu, o którym mowa w ust. 1, zostały wskazane zwierzęta, których posiadaczem jest:
+1) inny rolnik, o którym mowa w ust. 1, to do tego oświadczenia dołącza się pisemną zgodę tego innego rolnika na przyznanie płatności ekologicznej rolnikowi, o którym mowa w ust. 1, z uwzględnieniem określonych zwierząt, których posiadaczem jest ten inny rolnik;
+2) małżonek innego rolnika, o którym mowa w ust. 1, to do tego oświadczenia dołącza się pisemną zgodę małżonka tego innego rolnika na przyznanie płatności ekologicznej rolnikowi, o którym mowa w ust. 1, z uwzględnieniem określonych zwierząt, których posiadaczem jest małżonek tego innego rolnika.
+6. W przypadku, o którym mowa w ust. 1, przy ustalaniu wysokości płatności ekologicznej w ramach pakietów wymienionych w § 3 ust. 1:
+1) pkt 7 i 8,
+2) pkt 9 w przypadku:
+a) uprawy roślin wymienionych w części VII tabeli załącznika nr 4 do rozporządzenia,
+b) trwałych użytków zielonych – uwzględnia się powierzchnię gruntów, do których przysługują płatności ekologiczne w ramach tych pakietów, nie większą niż powierzchnia ustalona jako iloraz liczby zwierząt wskazanych w oświadczeniu, o którym mowa w ust. 1, przeliczonych na DJP zgodnie z ust. 3, i współczynnika 0,3.
+7. Zwierząt, o których mowa w:
+1) ust. 4, nie uwzględnia się przy przyznawaniu małżonkowi rolnika ubiegającego się o przyznanie płatności ekologicznych:
+a) płatności ekologicznych za 2023 r. w ramach pakietów wymienionych w § 3 ust. 1 pkt 7–10,
+b) pomocy finansowej w ramach działania „Rolnictwo ekologiczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 za 2023 r., której przyznanie jest uzależnione od posiadania zwierząt, o których mowa w ust. 1 pkt 1, 3, 6 i 12–14 oraz w ust. 2 pkt 1, 3, 5 i 9–11 załącznika nr 5 do rozporządzenia;
+2) ust. 5 pkt 1, nie uwzględnia się przy przyznawaniu innemu rolnikowi, o którym mowa w ust. 1:
+a) płatności ekologicznych za 2023 r. w ramach pakietów wymienionych w § 3 ust. 1 pkt 7–10,
+b) pomocy finansowej w ramach działania „Rolnictwo ekologiczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 za 2023 r., której przyznanie jest uzależnione od posiadania zwierząt, o których mowa w ust. 1 pkt 1, 3, 6 i 12–14 oraz w ust. 2 pkt 1, 3, 5 i 9–11 załącznika nr 5 do rozporządzenia;
+3) ust. 5 pkt 2, nie uwzględnia się przy przyznawaniu małżonkowi innego rolnika, o którym mowa w ust. 1:
+a) płatności ekologicznych za 2023 r. w ramach pakietów wymienionych w § 3 ust. 1 pkt 7–10,
+b) pomocy finansowej w ramach działania „Rolnictwo ekologiczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 za 2023 r., której przyznanie jest uzależnione od posiadania zwierząt, o których mowa w ust. 1 pkt 1, 3, 6 i 12–14 oraz w ust. 2 pkt 1, 3, 5 i 9–11 załącznika nr 5 do rozporządzenia.”;
+6) w załączniku nr 4 do rozporządzenia część VI tabeli otrzymuje brzmienie: VI. Pakiet 6. Ekstensywne uprawy sadownicze oraz Pakiet 9. Małe gospodarstwa z uprawami ekologicznymi* 1 aktinidia ostrolistna Se UW (minikiwi) 2 aronia czarnoowocowa Se UW 3 bez czarny Se UW 4 borówka brusznica Se UW 5 borówka niska Se UW 6 dereń jadalny Se UW 7 jagoda kamczacka Se UW (suchodrzew jadalny) 8 pigwa pospolita Se UW 9 pigwowiec japoński Se UW 10 rokitnik zwyczajny Se UW 11 róża dzika Se UW 12 róża jabłkowata Se UW 13 róża pomarszczona Se UW (wielkoowocowa) 14 śliwa japońska Se UW 15 świdośliwa Se UW 16 żurawina wielkoowocowa Se UW
+7) w załączniku nr 7 do rozporządzenia część III tabeli otrzymuje brzmienie: III. Pakiet 6. Ekstensywne uprawy sadownicze i Pakiet 9. Małe gospodarstwa z uprawami ekologicznymi 1 aktinidia ostrolistna (minikiwi) 700 2 aronia czarnoowocowa 1500 3 bez czarny 600 4 borówka brusznica 20 000 5 borówka niska 4000 6 dereń jadalny 600 7 jagoda kamczacka (suchodrzew jadalny) 3000 8 pigwa pospolita 800 9 pigwowiec japoński 2500 10 rokitnik zwyczajny 700 11 róża dzika 1000 12 róża jabłkowata 1000 13 róża pomarszczona (wielkoowocowa) 2000 14 śliwa japońska 600 15 świdośliwa 2900 16 żurawina wielkoowocowa 100 000
+§ 2. Do przyznawania płatności ekologicznych, o których mowa w art. 41 pkt 2 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, w sprawach objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski
+

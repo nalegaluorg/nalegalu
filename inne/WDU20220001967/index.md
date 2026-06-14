@@ -8,7 +8,7 @@ pos: 1967
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw
@@ -33,7 +33,32 @@ Art. 38–50. (pominięte)
 
 **Art. 1.** Ustawa reguluje zasady i tryb:
 
+- **1)** ustalania przez wytwórcę ciepła określonego poziomu średnich cen wytwarzania ciepła dla odbiorców na potrzeby gospodarstw domowych i potrzeby użyteczności publicznej, zwanych dalej „średnimi cenami wytwarzania ciepła z rekompensatą”, ustalania limitu średniej ceny wytwarzania ciepła, od której może być przyznawana rekompensata, przyznawania, ustalania wysokości i wypłacania rekompensat dla przedsiębiorstw energetycznych oraz właściwość podmiotów w tych sprawach;
+- **1a)** ustalania maksymalnej ceny dostawy ciepła dla odbiorców na potrzeby gospodarstw domowych i podmiotów użyteczności publicznej, przyznawania, ustalania wysokości i wypłacania wyrównań oraz właściwość podmiotów w tych sprawach;
+- **2)** przyznawania, wypłacania oraz wysokość dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła, zwanego dalej „dodatkiem dla gospodarstw domowych”, oraz właściwość organów w tych sprawach;
+- **3)** przyznawania, wypłacania oraz określania wysokości dodatku dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, zwanego dalej „dodatkiem dla podmiotów wrażliwych”, oraz właściwość organów w tych sprawach.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** ciepło – ciepło w rozumieniu art. 3 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859), zwanej dalej „ustawą – Prawo energetyczne”;
+- **2)** dystrybutor ciepła – przedsiębiorstwo energetyczne zajmujące się przesyłaniem i dystrybucją ciepła;
+- **2a)** podmiot wypłacający – odpowiednio:
+    - **a)** podmiot, o którym mowa w art. 12a ust. 10 – w przypadku wyrównania, o którym mowa w art. 12a ust. 1 i art. 12aa ust. 1,
+    - **b)** podmiot, o którym mowa w art. 12c ust. 10 – w przypadku wyrównania, o którym mowa w art. 12c ust. 1,
+    - **c)** podmiot, o którym mowa w art. 13 ust. 4 – w przypadku rekompensaty, o której mowa w art. 12 ust. 1,
+    - **d)** podmiot, o którym mowa w art. 15a ust. 4 – w przypadku świadczenia wyrównawczego, o którym mowa w art. 15a ust. 1;
+
+- **3)** przedsiębiorstwo energetyczne – podmiot, o którym mowa w art. 3 pkt 12 lit. a ustawy – Prawo energetyczne;
+- **4)** sprzedawca ciepła – przedsiębiorstwo energetyczne zajmujące się bezpośrednią sprzedażą wytworzonego ciepła lub przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu ciepłem, lub dystrybutor ciepła, który zawarł umowę o świadczenie usług przesyłania lub dystrybucji ciepła z odbiorcą, który zawarł umowę sprzedaży ciepła z innym przedsiębiorstwem energetycznym;
+- **5)** średnia cena wytwarzania ciepła – iloraz sumy planowanych przychodów wytwórcy ciepła ze sprzedaży ciepła, mocy cieplnej i nośnika ciepła oraz planowanej ilości sprzedanego ciepła dla danego źródła w zatwierdzonej taryfie dla ciepła, a w przypadku wytwarzania ciepła w lokalnym źródle ciepła lub źródle ciepła, w którym zainstalowana moc cieplna nie przekracza 5 MW, bezpośrednio zasilającym zewnętrzne instalacje odbiorcze, iloraz sumy planowanych przychodów wytwórcy ciepła ze sprzedaży mocy cieplnej i sprzedaży ciepła oraz planowanej ilości sprzedanego ciepła skalkulowanych na podstawie aktualnie stosowanych cen lub stawek opłat;
+- **5a)** cena dostawy ciepła – sumę ilorazu sumy planowanych przychodów sprzedawcy ciepła ze sprzedaży ciepła, mocy cieplnej i nośnika ciepła oraz planowanej ilości sprzedanego ciepła dla danego systemu ciepłowniczego w stosowanej taryfie dla ciepła i średniej stawki opłat za usługi przesyłowe dla systemu ciepłowniczego, a w przypadku wytwarzania ciepła w lokalnym źródle ciepła lub źródle ciepła, w którym zainstalowana moc cieplna nie przekracza 5 MW, bezpośrednio zasilającym zewnętrzne instalacje odbiorcze – iloraz sumy planowanych przychodów sprzedawcy ciepła ze sprzedaży mocy cieplnej i sprzedaży ciepła oraz planowanej ilości sprzedanego ciepła skalkulowanych na podstawie aktualnie stosowanych cen lub stawek opłat;
+- **5b)** średnia stawka opłat za usługi przesyłowe – iloraz sumy planowanych przychodów sprzedawcy ciepła ze stałych oraz zmiennych opłat za usługi przesyłowe oraz planowanej dla danego systemu ciepłowniczego ilości ciepła dostarczanego z tego systemu do odbiorców usług przesyłowych obliczony zgodnie ze stosowaną taryfą dla ciepła;
+- **5c)** maksymalna cena dostawy ciepła – cenę dostawy ciepła obliczoną przez przedsiębiorstwo energetyczne dla danego systemu ciepłowniczego z uwzględnieniem cen i stawek opłat w każdej grupie taryfowej, powiększonych w stosunku do cen i stawek opłat stosowanych na dzień 30 września 2022 r. o:
+    - **a)** 40 % – w okresie od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r.,
+    - **b)** 46 % – w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.,
+    - **c)** 52 % – w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.;
+
+- **6)** wytwórca ciepła – przedsiębiorstwo energetyczne zajmujące się wytwarzaniem ciepła.
 
 #### Rozdział 2 Zasady ustalania średniej ceny wytwarzania ciepła z rekompensatą i maksymalnej ceny dostawy ciepła
 

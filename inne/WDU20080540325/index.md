@@ -8,7 +8,7 @@ pos: 325
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ustanowieniu programu wieloletniego „Narodowy program zwalczania chorób nowotworowych”

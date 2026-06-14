@@ -8,7 +8,7 @@ pos: 320
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o izbach morskich
@@ -56,6 +56,9 @@ source: "isap-pdf"
 
 **Art. 3.** Sprawy należące do właściwości izb morskich rozpoznają:
 
+- **1)** w pierwszej instancji – Izba Morska w Gdańsku i Izba Morska w Szczecinie;
+- **2)** w drugiej instancji – Odwoławcza Izba Morska.
+
 **Art. 3a.** (uchylony)
 
 **Art. 4.** Minister właściwy do spraw gospodarki morskiej w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia, terytorialny zakres działania izb morskich, uwzględniając podział terytorialny państwa.
@@ -81,6 +84,9 @@ source: "isap-pdf"
 2. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw gospodarki morskiej może określić, w drodze rozporządzenia, uwzględniając podział terytorialny państwa, siedzibę izby morskiej poza siedzibą sądu okręgowego, przy którym działa izba morska.
 
 **Art. 7.** W skład izby morskiej wchodzą:
+
+- **1)** sędziowie, w tym przewodniczący i jeden lub więcej wiceprzewodniczących;
+- **2)** ławnicy.
 
 **Art. 7a.** Do orzekania w sprawach należących do właściwości izb morskich Minister Sprawiedliwości deleguje sędziów na podstawie art. 77 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r. poz. 52, 55, 60, 125, 1469 i 1495) spośród sędziów sądów powszechnych posiadających znajomość zagadnień morskich w zakresie spraw należących do właściwości izb morskich.
 
@@ -359,6 +365,11 @@ source: "isap-pdf"
 
 **Art. 38.** Uzasadnienie orzeczenia powinno zawierać:
 
+- **1)** dokładne ustalenie podstawy faktycznej przez wskazanie, jakie fakty izba morska uznała za udowodnione, na jakich oparła się dowodach i dlaczego nie uznała dowodów przeciwnych;
+- **2)** przytoczenie okoliczności, które izba morska miała na względzie przy ocenie podstawy faktycznej;
+- **3)** w razie potrzeby, zalecenie podjęcia środków zmierzających do zapewnienia bezpieczeństwa żeglugi i zapobiegania wypadkom morskim;
+- **4)** przytoczenie okoliczności, które izba morska miała na względzie przy zastosowaniu środka, o którym mowa w art. 35 ust. 1 lub 2.
+
 **Art. 39.** Orzeczenie wraz z uzasadnieniem doręcza się ministrowi właściwemu do spraw gospodarki morskiej, delegatowi oraz zainteresowanemu, a w sprawach określonych w art. 15 ust. 4 również państwowemu inspektorowi pracy.
 
 **Art. 39a.** (uchylony)
@@ -420,6 +431,9 @@ source: "isap-pdf"
 #### Rozdział IVa Wykonanie orzeczeń i postanowień
 
 **Art. 46a.** Wykonaniu podlega:
+
+- **1)** orzeczenie w części dotyczącej zastosowanego środka, o którym mowa w art. 35 ust. 1 lub 2, jeżeli postępowanie zostało ostatecznie zakończone;
+- **2)** postanowienie o zawieszeniu prawa wykonywania uprawnień w żegludze morskiej, którego nie zaskarżono albo które zostało utrzymane w mocy po rozpoznaniu zażalenia.
 
 **Art. 46b.** Właściwy do wykonania orzeczenia lub postanowienia, o których mowa w art. 46a, jest organ polski, który wydał zainteresowanemu ostatni dokument określający uprawnienia w żegludze morskiej.
 

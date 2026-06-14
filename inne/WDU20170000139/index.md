@@ -8,10 +8,10 @@ pos: 139
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 stycznia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 139 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 17 stycznia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/139/text.pdf) |
 
-Poz. 139 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 17 stycznia 2017 r.
-w sprawie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich z zakresu usług pocztowych prowadzonego przez Prezesa Urzędu Komunikacji Elektronicznej Na podstawie art. 95 ust. 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2016 r. poz. 1113, 1250, 1823 i 1948) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich z zakresu usług pocztowych prowadzonego przez Prezesa Urzędu Komunikacji Elektronicznej Na podstawie art. 95 ust. 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2016 r. poz. 1113, 1250, 1823 i 1948) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb prowadzenia przez Prezesa Urzędu Komunikacji Elektronicznej, zwanego dalej „Prezesem UKE”, postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich, zwanego dalej „postępowaniem”;
 2) wysokość progu finansowego wartości przedmiotu sporu, którego nieosiągnięcie skutkować może odmową pozasądowego rozpatrzenia sporu;
 3) sposób wnoszenia wniosków o wszczęcie postępowania;
@@ -41,7 +41,6 @@ b) zamieszczonego na stronie podmiotowej Biuletynu Informacji Publicznej UKE for
 § 3. 1. Prezes UKE dokonuje kontroli formalnej wniosku w zakresie:
 1) elementów, o których mowa w art. 33 ust. 2 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823);
 2) dokumentów, o których mowa w art. 95 ust. 6 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
-Dziennik Ustaw – 2 – Poz. 139
 2. W przypadku gdy wniosek nie spełnia wymogów, o których mowa w ust. 1, Prezes UKE wzywa wnioskodawcę do jego uzupełnienia w terminie 10 dni od dnia doręczenia wezwania.
 § 4. Prezes UKE przekazuje wniosek operatorowi pocztowemu, wyznaczając mu 14-dniowy termin na ustosunkowanie się do wniosku.
 § 5. 1. W przypadku wszczęcia postępowania z urzędu Prezes UKE doręcza zawiadomienie o wszczęciu postępowania nadawcy albo adresatowi oraz operatorowi pocztowemu, których postępowanie dotyczy.

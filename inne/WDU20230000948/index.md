@@ -8,12 +8,10 @@ pos: 948
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 kwietnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +32,7 @@ poz. 2707) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 kwie
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 108–120 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200), które stanowią: „Art. 108. W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r.
 poz. 1387, z późn. zm. ) wprowadza się następujące zmiany:
-1) w art. 23m w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) uprzednim porozumieniu cenowym oznacza to uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200).”;
+1) w art. 23m w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) uprzednim porozumieniu cenowym – oznacza to uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200).”;
 2) w art. 23o ust. 6 otrzymuje brzmienie: „6. W okresie obowiązywania uprzedniego porozumienia cenowego organ podatkowy nie określa zobowiązania podatkowego (wysokości straty) w zakresie, w jakim wykazany przez podatnika dochód (strata) został ustalony zgodnie z tym porozumieniem.”;
 3) w art. 23p ust. 4 otrzymuje brzmienie: „4. Określając wysokość dochodu (straty), organ podatkowy stosuje metodę przyjętą przez podmiot powiązany, chyba że zastosowanie metody innej niż przyjęta przez podmiot powiązany jest bardziej odpowiednie w danych okolicznościach.”;
 4) w art. 23s w ust. 1 pkt 1 otrzymuje brzmienie: „1) oprocentowanie pożyczki w ujęciu rocznym na dzień zawarcia umowy jest ustalane w oparciu o rodzaj bazowej stopy procentowej i marżę, określone w obwieszczeniu ministra właściwego do spraw finansów publicznych aktualnym na dzień zawarcia tej umowy;”;
@@ -59,8 +57,8 @@ Art. 20zc. § 1. Porozumienie podatkowe nie może zostać zawarte w zakresie czy
 1) obowiązek przedstawienia dokumentów i informacji, o których mowa w art. 119x § 1, nie dotyczy dokumentów przekazanych uprzednio Szefowi Krajowej Administracji Skarbowej w ramach umowy o współdziałanie lub audytu podatkowego;
 2) opłatę, o której mowa w art. 119zc, pobiera się po zawarciu porozumienia w wysokości 50% kwoty, o której mowa w art. 119zc § 1.
 Art. 20zd. Przed zawarciem porozumienia podatkowego Szef Krajowej Administracji Skarbowej może zasięgnąć opinii:
-1) Dyrektora Krajowej Informacji Skarbowej lub naczelnika urzędu skarbowego właściwego dla podatnika będącego stroną umowy o współdziałanie w przypadku porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1;
-2) Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 3, przy czym przepis art. 119h § 3 stosuje się odpowiednio.
+1) Dyrektora Krajowej Informacji Skarbowej lub naczelnika urzędu skarbowego właściwego dla podatnika będącego stroną umowy o współdziałanie – w przypadku porozumienia podatkowego w sprawie, o której mowa w art. 20zb pkt 1;
+2) Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania – w przypadku porozumienia podatkowego, o którym mowa w art. 20zb pkt 3, przy czym przepis art. 119h § 3 stosuje się odpowiednio.
 Art. 20ze. § 1. Podatnik może w każdym czasie wypowiedzieć porozumienie podatkowe.
 § 2. Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, jeżeli:
 1) wyjdą na jaw istotne dla sprawy, w jakiej zawarto porozumienie, nowe okoliczności faktyczne lub nowe dowody, istniejące w dniu zawarcia tego porozumienia, nieznane Szefowi Krajowej Administracji Skarbowej, lub
@@ -76,8 +74,8 @@ Art. 20zg. Audyt podatkowy przeprowadza Szef Krajowej Administracji Skarbowej wo
 Art. 20zh. § 1. Podatnik jest obowiązany do przekazywania na wniosek Szefa Krajowej Administracji Skarbowej dokumentów i informacji niezbędnych do przeprowadzenia audytu podatkowego.
 § 2. Dokumenty i informacje uznane przez Szefa Krajowej Administracji Skarbowej za zawierające tajemnicę przedsiębiorstwa są niszczone w terminie 2 miesięcy od dnia:
 1) rozwiązania umowy o współdziałanie;
-2) zakończenia audytu wstępnego, jeżeli audyt wstępny został zakończony opinią w przypadku niezawarcia umowy o współdziałanie;
-3) zakończenia weryfikacji zastosowania się przez podatnika do wydanych zaleceń, o których mowa w art. 20zi § 1 pkt 2 w przypadku niezawarcia umowy o współdziałanie.
+2) zakończenia audytu wstępnego, jeżeli audyt wstępny został zakończony opinią – w przypadku niezawarcia umowy o współdziałanie;
+3) zakończenia weryfikacji zastosowania się przez podatnika do wydanych zaleceń, o których mowa w art. 20zi § 1 pkt 2 – w przypadku niezawarcia umowy o współdziałanie.
 Art. 20zi. § 1. Z przeprowadzonego audytu podatkowego Szef Krajowej Administracji Skarbowej sporządza:
 1) opinię pozytywną albo
 2) zalecenia wskazujące, jakie czynności podatnik powinien podjąć w celu usunięcia stwierdzonych w ramach tego audytu nieprawidłowości, wraz z uzasadnieniem, albo
@@ -97,10 +95,10 @@ Art. 20zl. Audyt podatkowy w zakresie ram wewnętrznego nadzoru podatkowego obej
 2) kontroli wewnętrznej,
 3) audytu wewnętrznego,
 4) nadzoru nad zgodnością działalności z przepisami prawa, regulacjami wewnętrznymi i dobrowolnie przyjętymi standardami,
-5) mechanizmów nadzoru zewnętrznego, w tym niezależnego audytu funkcji podatkowej w odniesieniu do spraw podatkowych.
+5) mechanizmów nadzoru zewnętrznego, w tym niezależnego audytu funkcji podatkowej – w odniesieniu do spraw podatkowych.
 Art. 20zm. § 1. W przypadku złożenia prawnie skutecznej deklaracji lub korekty deklaracji:
-1) w terminie 14 dni od dnia otrzymania zaleceń audytu wstępnego i w celu usunięcia stwierdzonych w nim nieprawidłowości w zakresie realizacji obowiązków podatkowych i wpłacenia związanej z tą korektą zaległości podatkowej w terminie 7 dni od daty złożenia tej deklaracji albo korekty deklaracji przepis art. 56a § 1 stosuje się odpowiednio;
-2) za okres rozliczeniowy objęty audytem monitorującym oraz pod warunkiem wpłacenia zaległości podatkowych w terminie 7 dni od dnia złożenia tej deklaracji albo korekty deklaracji nie nalicza się odsetek za zwłokę.
+1) w terminie 14 dni od dnia otrzymania zaleceń audytu wstępnego i w celu usunięcia stwierdzonych w nim nieprawidłowości w zakresie realizacji obowiązków podatkowych i wpłacenia związanej z tą korektą zaległości podatkowej w terminie 7 dni od daty złożenia tej deklaracji albo korekty deklaracji – przepis art. 56a § 1 stosuje się odpowiednio;
+2) za okres rozliczeniowy objęty audytem monitorującym oraz pod warunkiem wpłacenia zaległości podatkowych w terminie 7 dni od dnia złożenia tej deklaracji albo korekty deklaracji – nie nalicza się odsetek za zwłokę.
 § 2. Przepis § 1 pkt 1 stosuje się do deklaracji oraz korekt deklaracji złożonych za okresy nieobjęte audytem wstępnym, jeżeli złożone zostały w celu usunięcia nieprawidłowości stwierdzonych w wyniku tego audytu.
 § 3. W przypadku, o którym mowa w § 1 pkt 2, nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe.
 Art. 20zn. § 1. Czynności w zakresie audytu podatkowego wykonują pracownicy zatrudnieni w wyodrębnionej w tym celu komórce organizacyjnej urzędu obsługującego Szefa Krajowej Administracji Skarbowej, działający z jego upoważnienia.
@@ -112,7 +110,7 @@ Art. 20zo. § 1. Niezależny audyt funkcji podatkowej jest przeprowadzany na zle
 2) będącego krajowym podmiotem powiązanym lub zagranicznym podmiotem powiązanym w rozumieniu ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych wobec:
 a) podatnika,
 b) podmiotu wykonującego usługi doradztwa podatkowego lub czynności rewizji finansowej na rzecz tego podatnika,
-3) wykonującego usługi, o których mowa w pkt 2 lit. b, na rzecz podmiotu, który świadczy na rzecz podatnika takie usługi w okresie objętym tym audytem podatkowym oraz w trakcie jego przeprowadzania.
+3) wykonującego usługi, o których mowa w pkt 2 lit. b, na rzecz podmiotu, który świadczy na rzecz podatnika takie usługi – w okresie objętym tym audytem podatkowym oraz w trakcie jego przeprowadzania.
 Art. 20zp. § 1. Niezależny audyt funkcji podatkowej obejmuje sprawdzenie prawidłowości wykonywania obowiązków podatkowych oraz skuteczności i adekwatności wdrożonych ram wewnętrznego nadzoru podatkowego.
 § 2. Z przeprowadzenia niezależnego audytu funkcji podatkowej sporządza się raport zawierający wynik niezależnego audytu funkcji podatkowej. Raport podpisuje niezależny audytor podatkowy przeprowadzający ten audyt.
 § 3. Raport z niezależnego audytu funkcji podatkowej jest przekazywany niezwłocznie podatnikowi wraz z dokumentacją audytu zawierającą testy i procedury przeprowadzone w jego trakcie.
@@ -124,7 +122,7 @@ Art. 20zr. W zakresie nieuregulowanym w niniejszym dziale przepisy art. 168, art
 2) umowie o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowie międzynarodowej, której stroną jest Rzeczpospolita Polska, jeżeli umowa ta przewiduje możliwość wprowadzenia w życie rozstrzygnięcia bez względu na upływ terminu przedawnienia.”;
 8) w art. 79 § 4 otrzymuje brzmienie: „§ 4. Wniosek o stwierdzenie nadpłaty można złożyć po upływie terminu przedawnienia, jeżeli istnienie nadpłaty wynika z wprowadzenia w życie rozstrzygnięcia zapadłego w ramach procedury rozstrzygania sporów dotyczących podwójnego opodatkowania w przypadkach, o których mowa w:
 1) dziale II rozdziale 2 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych lub
-2) umowie o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowie międzynarodowej, której stroną jest Rzeczpospolita Polska, jeżeli umowa ta przewiduje możliwość wprowadzenia w życie rozstrzygnięcia po upływie terminu przedawnienia przy czym przepis § 3 stosuje się odpowiednio.”;
+2) umowie o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowie międzynarodowej, której stroną jest Rzeczpospolita Polska, jeżeli umowa ta przewiduje możliwość wprowadzenia w życie rozstrzygnięcia po upływie terminu przedawnienia – przy czym przepis § 3 stosuje się odpowiednio.”;
 9) w art. 86a § 5 otrzymuje brzmienie: „§ 5. Obowiązek przekazania informacji o schemacie podatkowym nie powstaje, gdy schemat podatkowy, inny niż schemat podatkowy transgraniczny, dotyczy wyłącznie:
 1) korzystającego, dla którego nie jest spełnione kryterium kwalifikowanego korzystającego, lub
 2) korzystającego, który jest stroną umowy o współdziałanie, jeżeli w ramach audytu wstępnego Szef Krajowej Administracji Skarbowej potwierdził wykonywanie przez niego obowiązków, o których mowa w niniejszym rozdziale.”;
@@ -158,9 +156,59 @@ Art. 108–120. (pominięte)
 
 **Art. 109.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 11a w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) uprzednim porozumieniu cenowym – oznacza to uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200).”;
+- **2)** w art. 11c ust. 6 otrzymuje brzmienie: „6. W okresie obowiązywania uprzedniego porozumienia cenowego organ podatkowy nie określa zobowiązania podatkowego (wysokości straty) w zakresie, w jakim wykazany przez podatnika dochód (strata) został ustalony zgodnie z tym porozumieniem.”;
+- **3)** w art. 11d ust. 4 otrzymuje brzmienie: „4. Określając wysokość dochodu (straty), organ podatkowy stosuje metodę przyjętą przez podmiot powiązany, chyba że zastosowanie metody innej niż przyjęta przez podmiot powiązany jest bardziej odpowiednie w danych okolicznościach.”;
+- **4)** w art. 11g w ust. 1 pkt 1 otrzymuje brzmienie: „1) oprocentowanie pożyczki w ujęciu rocznym na dzień zawarcia umowy jest ustalane w oparciu o rodzaj bazowej stopy procentowej i marżę, określone w obwieszczeniu ministra właściwego do spraw finansów publicznych aktualnym na dzień zawarcia tej umowy;”;
+- **5)** uchyla się art. 11h;
+- **6)** w art. 11j w ust. 1 w pkt 2 na końcu skreśla się przecinek i uchyla się pkt 3;
+- **7)** w art. 11n pkt 2 otrzymuje brzmienie: „2) objętych uprzednim porozumieniem cenowym w okresie, którego dotyczy to porozumienie;”;
+- **8)** w art. 11o ust. 2 otrzymuje brzmienie: „2. Kwoty, o których mowa w ust. 1, wyrażone w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.”;
+- **9)** w art. 12 ust. 6b otrzymuje brzmienie: „6b. W przypadku transakcji kontrolowanej w rozumieniu art. 11a ust. 1 pkt 6 wartość otrzymanych rzeczy lub praw, a także wartość innych świadczeń w naturze, o których mowa w ust. 1 pkt 2, ustala się na podstawie przepisów art. 11c i art. 11d.”;
+- **10)** w art. 15e:
+    - **a)** ust. 9 otrzymuje brzmienie: „9. Kwota kosztów, o których mowa w ust. 1, nieodliczona w danym roku podatkowym podlega odliczeniu w kolejnych 5 latach podatkowych, zgodnie z zasadami określonymi w ust. 1–8 i 10–15 oraz w ramach obowiązujących w danym roku limitów wynikających z tych przepisów.”,
+    - **b)** ust. 15 otrzymuje brzmienie: „15. Ograniczenie, o którym mowa w ust. 1, nie ma zastosowania do kosztów usług, opłat i należności, o których mowa w ust. 1, w zakresie, w jakim:
+
+- **1)** uprzednie porozumienie cenowe, o którym mowa w art. 11a ust. 1 pkt 7, obejmuje prawidłowość kalkulacji wynagrodzenia za te usługi, opłaty i należności w okresie, którego to porozumienie dotyczy, lub
+- **2)** porozumienie podatkowe, o którym mowa w art. 20zb pkt 2 Ordynacji podatkowej, obejmuje prawidłowość kalkulacji wynagrodzenia za te usługi, opłaty i należności w okresie, którego to porozumienie dotyczy.”,
+    - **c)** uchyla się ust. 16;
+
+- **11)** w art. 25:
+    - **a)** po ust. 6a dodaje się ust. 6b w brzmieniu: „6b. Podatnicy, którzy podpisali porozumienie podatkowe, o którym mowa w art. 20zb Ordynacji podatkowej, mogą wpłacać zaliczki miesięczne w danym roku podatkowym w uproszczonej formie w wysokości prognozowanego na dany rok zobowiązania podatkowego, przypadającej proporcjonalnie na każdy miesiąc danego roku podatkowego.”,
+    - **b)** w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „Podatnicy, którzy wybrali formę wpłacania zaliczek na zasadach określonych w ust. 6–6b, są obowiązani:”,
+    - **c)** ust. 7a otrzymuje brzmienie: „7a. O wyborze formy wpłacania zaliczek według zasad, o których mowa w ust. 6–6b, podatnicy informują w zeznaniu, o którym mowa w art. 27 ust. 1, składanym za rok podatkowy, w którym wpłacali zaliczki w uproszczonej formie.”;
+
+- **12)** w art. 27 uchyla się ust. 3 i 4.
+
 **Art. 110.** W ustawie z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2019 r. poz. 283 i 730) wprowadza się następujące zmiany:
 
-**Art. 111.** W ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 2:
+    - **a)** w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) wykonywanie niezależnego audytu funkcji podatkowej, o którym mowa w art. 20zo § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ).”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Zawodowe wykonywanie czynności, o których mowa w ust. 1 pkt 1, 4 i 5, jest zastrzeżone wyłącznie dla podmiotów uprawnionych w rozumieniu ustawy.”;
+
+- **2)** w art. 3 dodaje się ust. 3 w brzmieniu: „3. Podmiotami uprawnionymi do zawodowego wykonywania czynności, o których mowa w art. 2 ust. 1 pkt 5, są:
+- **1)** osoby fizyczne wpisane na listę doradców podatkowych;
+- **2)** biegli rewidenci.”;
+- **3)** w art. 4 dodaje się ust. 3 w brzmieniu: „3. Podmiotami uprawnionymi do zawodowego wykonywania czynności, o których mowa w art. 2 ust. 1 pkt 5, są również podmioty wymienione w ust. 1 pkt 2 i 3, przy czym wykonywanie tych czynności następuje wyłącznie przez doradców podatkowych lub biegłych rewidentów zatrudnionych w tych podmiotach.”;
+- **4)** w art. 15 ust. 1 otrzymuje brzmienie: „1. Z chwilą wpisu do rejestru spółka, o której mowa w art. 4 ust. 1 pkt 3, nabywa prawo do wykonywania czynności, o których mowa w art. 2 ust. 1 pkt 1, 4 i 5, oraz posługiwania się oznaczeniem „spółka doradztwa podatkowego”.”;
+- **5)** w art. 39 ust. 1 otrzymuje brzmienie: „1. Doradca podatkowy jest obowiązany przechowywać przez okres 5 lat kopie sporządzanych na piśmie opinii, raportów z niezależnego audytu funkcji podatkowej, wystąpień w imieniu podatników, płatników, inkasentów oraz osób, o których mowa w art. 2 ust. 1a, w sprawach obowiązków podatkowych, a także udzielonych im porad.”;
+- **6)** art. 81 otrzymuje brzmienie: „Art. 81. 1. Kto, nie będąc uprawnionym, posługuje się tytułem doradcy podatkowego lub zawodowo wykonuje czynności doradztwa podatkowego, o których mowa w art. 2 ust. 1 pkt 1, 4 lub 5, podlega grzywnie do 50 000 zł.
+
+2. Tej samej karze podlega członek zarządu osoby prawnej, która nie będąc uprawnioną, posługuje się oznaczeniem „spółka doradztwa podatkowego” lub zawodowo wykonuje czynności doradztwa podatkowego, o których mowa w art. 2 ust. 1 pkt 1, 4 lub 5.”.
+
+**Art. 111.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 uchyla się pkt 11 i 12;
+- **2)** w art. 13 w § 2:
+    - **a)** pkt 3 otrzymuje brzmienie: „3) organ właściwy w sprawach uprzednich porozumień cenowych, o których mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200);”,
+    - **b)** w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) organ właściwy w sprawach dotyczących realizacji współdziałania, o którym mowa w dziale IIB.”;
+
+- **3)** w art. 14b:
+    - **a)** § 5 otrzymuje brzmienie: „§ 5. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego, które w dniu złożenia wniosku o interpretację są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego albo w porozumieniu podatkowym, o którym mowa w art. 20zb.”,
+    - **b)** po § 5e dodaje się § 5f w brzmieniu: „§ 5f. Dyrektor Krajowej Informacji Skarbowej wydaje interpretację indywidualną po zasięgnięciu opinii Szefa Krajowej Administracji Skarbowej, jeżeli umowę o współdziałanie, o której mowa w art. 20s, zawarł wnioskodawca, a w przypadku wniosku wspólnego – jeden z wnioskodawców.”;
+
+- **4)** uchyla się dział IIA;
+- **5)** po dziale IIA dodaje się dział IIB w brzmieniu: „Dział IIB Współdziałanie
 
 #### Rozdział 1 Umowa o współdziałanie
 
@@ -184,7 +232,16 @@ Art. 108–120. (pominięte)
 
 **Art. 20u.** Podatnik, który zawarł umowę o współdziałanie, jest obowiązany do:
 
+- **1)** dobrowolnego i prawidłowego wykonywania obowiązków wynikających z przepisów prawa podatkowego;
+- **2)** posiadania skutecznego i adekwatnego zbioru zidentyfikowanych i opisanych procesów oraz procedur dotyczących zarządzania wykonywaniem obowiązków wynikających z przepisów prawa podatkowego i zapewniających ich prawidłowe wykonanie (ramy wewnętrznego nadzoru podatkowego);
+- **3)** zgłaszania Szefowi Krajowej Administracji Skarbowej, bez wezwania, istotnych zagadnień podatkowych, które rozsądnie oceniając, mogą stać się źródłem sporu między podatnikiem a organem podatkowym, zgodnie z określonymi w umowie o współdziałanie progami istotności;
+- **4)** niezwłocznego przekazywania Szefowi Krajowej Administracji Skarbowej, bez wezwania, istotnych informacji mogących mieć wpływ na uzyskanie korzyści podatkowej przez podatnika, zgodnie z określonymi w umowie o współdziałanie progami istotności.
+
 **Art. 20v.** W zakresie objętym umową o współdziałanie Szef Krajowej Administracji Skarbowej:
+
+- **1)** dostosowuje formę i częstotliwość działań weryfikujących poprawność wykonywania przez podatnika obowiązków wynikających z przepisów prawa podatkowego do aktualnego poziomu skuteczności i adekwatności ram wewnętrznego nadzoru podatkowego i dotychczasowej współpracy z organami podatkowymi;
+- **2)** przeprowadza kontrolę celno-skarbową podatnika;
+- **3)** wyraża zgodę na podjęcie wobec podatnika czynności sprawdzających na podstawie art. 274c przez inne organy Krajowej Administracji Skarbowej oraz wystąpienie do podatnika w trybie art. 79 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
 **Art. 20w.** Następca prawny podatnika nie wstępuje w prawa i obowiązki wynikające z umowy o współdziałanie.
 
@@ -195,7 +252,7 @@ Art. 108–120. (pominięte)
 § 2. Szef Krajowej Administracji Skarbowej może wypowiedzieć umowę o współdziałanie w przypadku:
 
 - **1)** naruszenia przez podatnika postanowień tej umowy lub
-- **2)** poważnego lub powtarzającego się naruszania przez podatnika przepisów prawa podatkowego wskazując przyczyny jej wypowiedzenia wraz z uzasadnieniem.
+- **2)** poważnego lub powtarzającego się naruszania przez podatnika przepisów prawa podatkowego – wskazując przyczyny jej wypowiedzenia wraz z uzasadnieniem.
 
 § 3. Rozwiązanie umowy o współdziałanie następuje z dniem złożenia, w formie pisemnej, drugiej stronie wypowiedzenia tej umowy, chyba że z treści tego wypowiedzenia wynika późniejszy termin.
 
@@ -205,6 +262,13 @@ Art. 108–120. (pominięte)
 
 **Art. 20z.** Z dniem rozwiązania umowy o współdziałanie Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, o którym mowa w rozdziale 2. Art. 20za. § 1. Szef Krajowej Administracji Skarbowej prowadzi ewidencję podatników, z którymi zawarł umowę o współdziałanie.
 
+§ 2. Ewidencja, o której mowa w § 1, zawiera:
+
+- **1)** nazwę i numer identyfikacji podatkowej podatnika, z którym została zawarta umowa o współdziałanie;
+- **2)** datę rozpoczęcia obowiązywania umowy o współdziałanie.
+
+§ 3. Ewidencja, o której mowa w § 1, jest jawna i udostępnia się ją w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
 #### Rozdział 2 Porozumienia podatkowe
 
 #### Rozdział 3 Audyt podatkowy
@@ -213,13 +277,37 @@ Art. 108–120. (pominięte)
 
 **Art. 112.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2019 r. poz. 43, 1495 i 1649) uchyla się art. 21a.
 
-**Art. 113.** W ustawie z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, z późn. zm. ) w art. 125 w § 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) jeżeli rozstrzygnięcie sprawy zależy od wyniku toczącej się procedury rozstrzygania sporów dotyczących podwójnego opodatkowania w rozumieniu art. 2 pkt 6 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200);”.
+**Art. 113.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, z późn. zm. ) w art. 125 w § 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) jeżeli rozstrzygnięcie sprawy zależy od wyniku toczącej się procedury rozstrzygania sporów dotyczących podwójnego opodatkowania w rozumieniu art. 2 pkt 6 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200);”.
 
 **Art. 114.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm. ) w art. 32 ust. 5 otrzymuje brzmienie: „5. Przepis ust. 1 nie ma zastosowania w przypadku transakcji zawieranych pomiędzy podmiotami powiązanymi, w odniesieniu do których właściwy organ podatkowy wydał uprzednie porozumienie cenowe, o którym mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200).”.
 
 **Art. 115.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r. poz. 768, 730, 1520 i 1556) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 w ust. 1 po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) współdziałanie, o którym mowa w dziale IIB Ordynacji podatkowej;”;
+- **2)** w art. 14 w ust. 1 po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) współdziałanie, o którym mowa w dziale IIB Ordynacji podatkowej;”;
+- **3)** w art. 25 w ust. 1 po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) współdziałanie z Szefem Krajowej Administracji Skarbowej przy realizacji zadań w ramach współdziałania, o którym mowa w dziale IIB Ordynacji podatkowej;”;
+- **4)** w art. 28 w ust. 1:
+    - **a)** pkt 7 otrzymuje brzmienie: „7) wykonywanie kontroli podatkowej oraz czynności sprawdzających, z wyjątkiem przeprowadzania kontroli podatkowej wobec podatnika, który zawarł umowę o współdziałanie, o której mowa w art. 20s Ordynacji podatkowej, w zakresie podatków objętych tą umową;”,
+    - **b)** po pkt 12 dodaje się pkt 12a w brzmieniu: „12a) współdziałanie z Szefem Krajowej Administracji Skarbowej przy realizacji zadań w ramach współdziałania, o którym mowa w dziale IIB Ordynacji podatkowej;”;
+
+- **5)** w art. 33 w ust. 1:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) wykonywanie kontroli celno-skarbowej z wyłączeniem kontroli, o której mowa w dziale IIB Ordynacji podatkowej oraz art. 54 ust. 2 pkt 9;”,
+    - **b)** po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) współdziałanie z Szefem Krajowej Administracji Skarbowej przy realizacji zadań w ramach współdziałania, o którym mowa w dziale IIB Ordynacji podatkowej;”;
+
+- **6)** w art. 45 w ust. 1 wyrazy „art. 2 ust. 1 pkt 1, 2, 6, 8, 10 i 13–15” zastępuje się wyrazami „art. 2 ust. 1 pkt 1, 2, 6, 8, 10, 13–15 i 20a”;
+- **7)** w art. 83 w ust. 1d w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) ponowne skorygowanie deklaracji ma na celu uniknięcie podwójnego opodatkowania tego samego dochodu lub majątku podatnika na terytorium Rzeczypospolitej Polskiej i terytorium innego państwa członkowskiego Unii Europejskiej lub terytorium innego państwa.”.
+
 **Art. 116.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2019 r. poz. 648, 694 i 730) wprowadza się następujące zmiany:
+
+- **1)** w art. 76: o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200) oraz decyzję, o której mowa w art. 95 ust. 7, art. 105 ust. 1 lub art. 106 ust. 1 tej ustawy,
+    - **a)** pkt 1 otrzymuje brzmienie: „1) decyzji w sprawie cen transferowych – rozumie się przez to:
+    - **a)** uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r.
+    - **b)** porozumienie podatkowe, o którym mowa w art. 20zb pkt 2 ustawy – Ordynacja podatkowa, a także jego odnowienie, zmianę i rozwiązanie;”,
+    - **b)** w pkt 2 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „c) porozumienie podatkowe, o którym mowa w art. 20zb pkt 1 i 3 ustawy – Ordynacja podatkowa, a także jego rozwiązanie na podstawie art. 20ze § 1 i 2 tej ustawy;”;
+
+- **2)** w art. 81:
+    - **a)** w ust. 1 wyrazy „art. 20b ustawy – Ordynacja podatkowa” zastępuje się wyrazami „art. 87 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych”,
+    - **b)** w ust. 2 wyrazy „art. 20b ustawy – Ordynacja podatkowa” zastępuje się wyrazami „art. 87 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych”.
 
 **Art. 117.** W ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2019 r. poz. 1421 i 1571) w art. 95d ust. 2 otrzymuje brzmienie: „2. Fundusz podstawowy Agencji odzwierciedla wartość wyposażenia Agencji związanego z jej utworzeniem, na które składa się wartość środków pieniężnych oraz równowartość netto środków trwałych, wartości niematerialnych i prawnych oraz innych składników majątku przekazanych Agencji w związku z jej utworzeniem. Wartości te ustala się na dzień otrzymania przez Agencję wyposażenia.”.
 
@@ -227,7 +315,31 @@ Art. 108–120. (pominięte)
 
 **Art. 119.** W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1571) w art. 19 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Dotacje, o których mowa w ust. 1, udzielane są w formie dotacji:
 
+- **1)** podmiotowej – na pokrycie bieżących kosztów organizacji i działalności Agencji;
+- **2)** celowej – na finansowanie lub dofinansowanie kosztów realizacji inwestycji.”.
+
 **Art. 120.** W ustawie z dnia 9 sierpnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1751) w art. 1 w pkt 8, w art. 42i wyrazy „Szefa Krajowej Informacji Skarbowej” zastępuje się wyrazami „Szefa Krajowej Administracji Skarbowej”.”;
+
+- **2)** art. 60 i art. 89 ustawy z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2105 i 2349 oraz z 2022 r. poz. 1265, 1301, 1719 i 2180), które stanowią: „Art. 60. 1. Podatnicy podatku dochodowego od osób prawnych, którzy przed końcem roku podatkowego rozpoczętego przed dniem 1 stycznia 2022 r. nabyli prawo do odliczenia kosztów na podstawie art. 15e ust. 9 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, zachowują prawo do tego odliczenia po dniu 31 grudnia 2021 r., w zakresie i na zasadach określonych w tym przepisie.
+
+2. Do uprzednich porozumień cenowych w rozumieniu art. 81 pkt 1 ustawy zmienianej w art. 25 nie stosuje się art. 95 ust. 4–8 ustawy zmienianej w art. 25, jeżeli spełniają łącznie następujące warunki:
+
+- **1)** dotyczą nabycia usług wewnątrzgrupowych;
+- **2)** wyłączają stosowanie ograniczenia, o którym mowa w art. 15e ustawy zmienianej w art. 2;
+- **3)** okres ich obowiązywania rozpoczyna się w okresie od dnia 1 stycznia 2018 r. do dnia 31 grudnia 2021 r.” „Art. 89. Ustawa wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem:
+- **1)** art. 6, art. 61 i art. 85–87, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 59, pkt 67 lit. i, pkt 76 w zakresie art. 45b, pkt 77 i 78, art. 2 pkt 51, 58 i 64 oraz art. 9 pkt 25, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **3)** art. 3 pkt 1, art. 7 pkt 33 i art. 20 pkt 8, które wchodzą w życie z dniem 1 lipca 2022 r.;
+- **4)** art. 1 pkt 39 lit. b i pkt 63 lit. c, art. 7 pkt 3, 11, 13, pkt 16 lit. b, pkt 17 i 38, art. 12, art. 14 pkt 1–4, 9 i 11–16 oraz art. 77a, które wchodzą w życie z dniem 1 stycznia 2023 r.;
+- **5)** art. 1 pkt 10 lit. b tiret trzecie w zakresie art. 14 ust. 2 pkt 22, art. 2 pkt 11 lit. a i c, pkt 27 lit. a tiret ósme w zakresie art. 12 ust. 1 pkt 16, art. 7 pkt 7 w zakresie art. 20zu § 4, art. 20zw § 2 zdanie drugie i art. 20zx § 2, art. 18, art. 22 pkt 1 oraz art. 66 ust. 2 pkt 1, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **6)** art. 1 pkt 39 lit. a, c i d, art. 9 pkt 11, art. 14 pkt 19, art. 22 pkt 2 w zakresie art. 19a ust. 3 oraz art. 66 ust. 1 pkt 1 i ust. 2 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+- **6)** art. 14 pkt 19 i art. 22 pkt 2 w zakresie art. 19a ust. 3, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+- **7)** art. 66 ust. 1 pkt 2 i ust. 2 pkt 3, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
+- **3)** art. 24 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2707), który stanowi: „Art. 24. Ustawa wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem:
+- **1)** art. 17, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 7 lipca 2022 r.;
+- **2)** art. 10, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
+- **3)** art. 1 pkt 30, art. 3, art. 4 pkt 2–4, art. 6, art. 8, art. 9, art. 11, art. 12, art. 13 pkt 1, art. 14, art. 15 i art. 19, które wchodzą w życie z dniem 31 grudnia 2022 r.;
+- **4)** art. 1 pkt 5 lit. b w zakresie art. 21 ust. 3 pkt 5, pkt 15 i pkt 24, art. 2 oraz art. 16 pkt 1–3, które wchodzą w życie z dniem 13 lutego 2023 r.”. Marszałek Sejmu: E. Witek USTAWA z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -235,11 +347,33 @@ Art. 108–120. (pominięte)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** cenie transferowej – rozumie się przez to cenę transferową w rozumieniu art. 23m ust. 1 pkt 1 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 1 ustawy o podatku dochodowym od osób prawnych;
+- **2)** krajowym podmiocie powiązanym – rozumie się przez to podmiot powiązany położony lub mający miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej;
+- **3)** Ordynacji podatkowej – rozumie się przez to ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. );
+- **4)** podmiotach niepowiązanych – rozumie się przez to podmioty niepowiązane w rozumieniu art. 23m ust. 1 pkt 3 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 3 ustawy o podatku dochodowym od osób prawnych;
+- **5)** podmiotach powiązanych – rozumie się przez to podmioty powiązane w rozumieniu art. 23m ust. 1 pkt 4 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych;
+- **6)** procedurach rozstrzygania sporów dotyczących podwójnego opodatkowania – rozumie się przez to procedurę:
+    - **a)** rozstrzygania sporów dotyczących podwójnego opodatkowania między państwami członkowskimi Unii Europejskiej,
+    - **b)** wzajemnego porozumiewania się prowadzoną na podstawie umów o unikaniu podwójnego opodatkowania,
+    - **c)** eliminowania podwójnego opodatkowania w przypadku korekty zysku podmiotów powiązanych;
+
+- **7)** rozporządzeniu 2019/652 – rozumie się przez to rozporządzenie wykonawcze Komisji (UE) 2019/652 z dnia 24 kwietnia 2019 r. określające standardowy regulamin funkcjonowania komisji doradczej lub komisji ds. pozasądowego rozstrzygania sporów oraz standardowy formularz przekazywania informacji dotyczących publikacji ostatecznej decyzji zgodnie z dyrektywą Rady (UE) 2017/1852 (Dz. Urz. UE L 110 z 25.04.2019, str. 26);
+- **8)** transakcji kontrolowanej – rozumie się przez to transakcję kontrolowaną w rozumieniu art. 23m ust. 1 pkt 6 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 6 ustawy o podatku dochodowym od osób prawnych;
+- **9)** umowie o unikaniu podwójnego opodatkowania – rozumie się przez to umowę w sprawie unikania podwójnego opodatkowania dochodów lub majątku, której stroną jest Rzeczpospolita Polska;
+- **10)** ustawie o podatku dochodowym od osób fizycznych – rozumie się przez to ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. );
+- **11)** ustawie o podatku dochodowym od osób prawnych – rozumie się przez to ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, 2640 i 2745 oraz z 2023 r. poz. 185, 326 i 412);
+- **12)** zagranicznym podmiocie powiązanym – rozumie się przez to podmiot powiązany położony lub mający miejsce zamieszkania, siedzibę lub zarząd poza terytorium Rzeczypospolitej Polskiej, powiązany z krajowym podmiotem powiązanym.
+
 ### DZIAŁ II Rozstrzyganie sporów dotyczących podwójnego opodatkowania oraz korekty krajowe
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 3.** Ilekroć w niniejszym dziale jest mowa o:
+
+- **1)** Konwencji Arbitrażowej – rozumie się przez to Konwencję z dnia 23 lipca 1990 r. w sprawie eliminowania podwójnego opodatkowania w przypadku korekty zysków przedsiębiorstw powiązanych (Dz. U. z 2007 r. poz. 1080 i 1081);
+- **2)** kwestii spornej – rozumie się przez to sprawę, która prowadzi do sporu między państwami w zakresie wykładni i stosowania umów międzynarodowych;
+- **3)** Ministrze Finansów – rozumie się przez to ministra właściwego do spraw finansów publicznych;
+- **4)** umowie międzynarodowej – rozumie się przez to Konwencję Arbitrażową i umowę o unikaniu podwójnego opodatkowania.
 
 **Art. 4.**
 
@@ -254,13 +388,13 @@ Art. 108–120. (pominięte)
 2. Pismo zawiera:
 
 - **1)** dane identyfikacyjne składającego pismo:
-    - **a)** w przypadku osoby fizycznej imię i nazwisko, a w pozostałych przypadkach pełną nazwę,
-    - **b)** adres miejsca zamieszkania albo siedziby oraz jeżeli występuje adres miejsca prowadzenia działalności,
+    - **a)** w przypadku osoby fizycznej – imię i nazwisko, a w pozostałych przypadkach – pełną nazwę,
+    - **b)** adres miejsca zamieszkania albo siedziby oraz – jeżeli występuje – adres miejsca prowadzenia działalności,
     - **c)** adres do doręczeń, jeżeli jest inny niż wskazany na podstawie lit. b, lub adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, jeżeli taki adres posiada,
-    - **d)** identyfikator podatkowy, a w przypadku jego braku numer i serię paszportu lub innego dokumentu stwierdzającego tożsamość lub inny numer identyfikacyjny;
+    - **d)** identyfikator podatkowy, a w przypadku jego braku – numer i serię paszportu lub innego dokumentu stwierdzającego tożsamość lub inny numer identyfikacyjny;
 
-- **2)** treść żądania, a w przypadku wniosku o rozstrzygnięcie sporów dotyczących podwójnego opodatkowania również wskazanie jednej z procedur rozstrzygania sporów dotyczących podwójnego opodatkowania, której wniosek dotyczy;
-- **3)** w przypadku dołączenia załączników ich listę;
+- **2)** treść żądania, a w przypadku wniosku o rozstrzygnięcie sporów dotyczących podwójnego opodatkowania – również wskazanie jednej z procedur rozstrzygania sporów dotyczących podwójnego opodatkowania, której wniosek dotyczy;
+- **3)** w przypadku dołączenia załączników – ich listę;
 - **4)** podpis wnioskodawcy.
 
 3. (uchylony)
@@ -285,13 +419,13 @@ Art. 108–120. (pominięte)
 
 2. Do pierwszego pisma składanego przez pełnomocnika dołącza się pełnomocnictwo, jeżeli nie zostało uprzednio złożone przez mocodawcę.
 
-3. Pełnomocnictwo wskazuje dane identyfikujące mocodawcę i pełnomocnika, w tym ich identyfikatory podatkowe, a w przypadku pełnomocnika nieposiadającego identyfikatora podatkowego numer i serię paszportu lub innego dokumentu stwierdzającego tożsamość, lub inny numer identyfikacyjny, a także adres tego pełnomocnika do doręczeń.
+3. Pełnomocnictwo wskazuje dane identyfikujące mocodawcę i pełnomocnika, w tym ich identyfikatory podatkowe, a w przypadku pełnomocnika nieposiadającego identyfikatora podatkowego – numer i serię paszportu lub innego dokumentu stwierdzającego tożsamość, lub inny numer identyfikacyjny, a także adres tego pełnomocnika do doręczeń.
 
 **Art. 8.**
 
-1. W sprawach rozstrzygania sporów dotyczących podwójnego opodatkowania sąd administracyjny orzeka wyłącznie w przypadku skargi na postanowienie, o której mowa w art. 18 ust. 3, oraz skarg na bezczynność, o których mowa w art. 39 ust. 1, art. 41 ust. 1 i art. 61 ust. 1. Przepisu art. 3 § 2 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 259) nie stosuje się.
+1. W sprawach rozstrzygania sporów dotyczących podwójnego opodatkowania sąd administracyjny orzeka wyłącznie w przypadku skargi na postanowienie, o której mowa w art. 18 ust. 3, oraz skarg na bezczynność, o których mowa w art. 39 ust. 1, art. 41 ust. 1 i art. 61 ust. 1. Przepisu art. 3 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 259) nie stosuje się.
 
-2. W zakresie nieuregulowanym w niniejszym dziale do spraw, o których mowa w ust. 1, przepisy ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi stosuje się odpowiednio.
+2. W zakresie nieuregulowanym w niniejszym dziale do spraw, o których mowa w ust. 1, przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi stosuje się odpowiednio.
 
 **Art. 9.**
 
@@ -305,18 +439,18 @@ Art. 108–120. (pominięte)
 
 1. Ilekroć w niniejszym rozdziale jest mowa o:
 
-- **1)** organie innego zainteresowanego państwa rozumie się przez to organ właściwy do spraw rozstrzygania sporów dotyczących podwójnego opodatkowania wskazany przez inne niż Rzeczpospolita Polska zainteresowane państwo;
-- **2)** organie zainteresowanego państwa rozumie się przez to Ministra Finansów oraz organ innego zainteresowanego państwa;
-- **3)** osobie, której dotyczy spór rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, podlegającą nieograniczonemu obowiązkowi podatkowemu w państwie członkowskim Unii Europejskiej, na której opodatkowanie kwestia sporna ma bezpośredni wpływ;
-- **4)** podwójnym opodatkowaniu rozumie się przez to nałożenie przez dwa lub więcej państw członkowskich Unii Europejskiej podatków objętych zakresem stosowania umów międzynarodowych, w odniesieniu do tego samego dochodu lub majątku, jeżeli prowadzi to do:
+- **1)** organie innego zainteresowanego państwa – rozumie się przez to organ właściwy do spraw rozstrzygania sporów dotyczących podwójnego opodatkowania wskazany przez inne niż Rzeczpospolita Polska zainteresowane państwo;
+- **2)** organie zainteresowanego państwa – rozumie się przez to Ministra Finansów oraz organ innego zainteresowanego państwa;
+- **3)** osobie, której dotyczy spór – rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, podlegającą nieograniczonemu obowiązkowi podatkowemu w państwie członkowskim Unii Europejskiej, na której opodatkowanie kwestia sporna ma bezpośredni wpływ;
+- **4)** podwójnym opodatkowaniu – rozumie się przez to nałożenie przez dwa lub więcej państw członkowskich Unii Europejskiej podatków objętych zakresem stosowania umów międzynarodowych, w odniesieniu do tego samego dochodu lub majątku, jeżeli prowadzi to do:
     - **a)** zwiększenia zobowiązań podatkowych albo
     - **b)** dodatkowego obciążenia podatkowego, albo
     - **c)** zmniejszenia strat, o które mogłyby zostać zmniejszone dochody podlegające opodatkowaniu;
 
-- **5)** sądzie innego zainteresowanego państwa rozumie się przez to sąd, trybunał lub inny organ państwa członkowskiego Unii Europejskiej wskazany jako taki przez zainteresowane państwo inne niż Rzeczpospolita Polska;
-- **6)** sądzie zainteresowanego państwa rozumie się przez to sąd innego zainteresowanego państwa oraz sąd administracyjny;
-- **7)** wykazie niezależnych ekspertów rozumie się przez to prowadzony przez Komisję Europejską wykaz niezależnych osób cieszących się powszechnym uznaniem, które zostały wyznaczone przez państwa członkowskie Unii Europejskiej;
-- **8)** zainteresowanym państwie rozumie się przez to państwo członkowskie Unii Europejskiej, którego dotyczy kwestia sporna.
+- **5)** sądzie innego zainteresowanego państwa – rozumie się przez to sąd, trybunał lub inny organ państwa członkowskiego Unii Europejskiej wskazany jako taki przez zainteresowane państwo inne niż Rzeczpospolita Polska;
+- **6)** sądzie zainteresowanego państwa – rozumie się przez to sąd innego zainteresowanego państwa oraz sąd administracyjny;
+- **7)** wykazie niezależnych ekspertów – rozumie się przez to prowadzony przez Komisję Europejską wykaz niezależnych osób cieszących się powszechnym uznaniem, które zostały wyznaczone przez państwa członkowskie Unii Europejskiej;
+- **8)** zainteresowanym państwie – rozumie się przez to państwo członkowskie Unii Europejskiej, którego dotyczy kwestia sporna.
 
 2. Określenie, które nie zostało zdefiniowane w niniejszym rozdziale, o ile z kontekstu nie wynika inaczej, otrzymuje znaczenie, jakie posiada na podstawie właściwej umowy międzynarodowej, która ma zastosowanie w dniu pierwszego zawiadomienia osoby, której dotyczy spór, o działaniu, którego skutkiem jest lub będzie kwestia sporna.
 
@@ -355,7 +489,7 @@ Art. 108–120. (pominięte)
 1. W przypadku gdy osoba, której dotyczy spór, podlegająca nieograniczonemu obowiązkowi podatkowemu w Rzeczypospolitej Polskiej:
 
 - **1)** jest osobą fizyczną albo
-- **2)** nie jest dużą jednostką i nie wchodzi w skład dużej grupy może złożyć wniosek o rozstrzygnięcie kwestii spornej, pismo w sprawie uzupełnienia albo wycofania tego wniosku oraz złożyć wniosek o ustanowienie komisji doradczej wyłącznie do Ministra Finansów w językach zainteresowanych państw, o których mowa w art. 11 ust. 2.
+- **2)** nie jest dużą jednostką i nie wchodzi w skład dużej grupy – może złożyć wniosek o rozstrzygnięcie kwestii spornej, pismo w sprawie uzupełnienia albo wycofania tego wniosku oraz złożyć wniosek o ustanowienie komisji doradczej wyłącznie do Ministra Finansów w językach zainteresowanych państw, o których mowa w art. 11 ust. 2.
 
 2. Za dużą jednostkę uważa się jednostkę w rozumieniu przepisów o rachunkowości, która na dzień bilansowy roku obrotowego oraz roku poprzedzającego rok obrotowy przekroczyła co najmniej dwie z następujących trzech wielkości:
 
@@ -413,9 +547,9 @@ Art. 108–120. (pominięte)
     - **a)** dane identyfikacyjne, o których mowa w art. 5 ust. 2 pkt 1, podmiotów powiązanych uczestniczących w transakcji kontrolowanej,
     - **b)** opis powiązań pomiędzy podmiotami powiązanymi uczestniczącymi w transakcji kontrolowanej,
     - **c)** opis transakcji kontrolowanej,
-    - **d)** informację o zawartych uprzednich porozumieniach cenowych oraz wydanych interpretacjach podatkowych dotyczących przypisania dochodu pomiędzy państwami w zakresie dotyczącym kwestii spornej.
+    - **d)** informację o zawartych uprzednich porozumieniach cenowych oraz wydanych interpretacjach podatkowych dotyczących przypisania dochodu pomiędzy państwami – w zakresie dotyczącym kwestii spornej.
 
-3. Uzasadnienie wniosku zawiera odniesienie do przepisów krajowych oraz przepisów umów międzynarodowych mających zastosowanie do kwestii spornej, a jeżeli do kwestii spornej zastosowanie ma więcej niż jedna umowa międzynarodowa wskazanie umowy międzynarodowej będącej przedmiotem interpretacji w sprawie, której dotyczy wniosek.
+3. Uzasadnienie wniosku zawiera odniesienie do przepisów krajowych oraz przepisów umów międzynarodowych mających zastosowanie do kwestii spornej, a jeżeli do kwestii spornej zastosowanie ma więcej niż jedna umowa międzynarodowa – wskazanie umowy międzynarodowej będącej przedmiotem interpretacji w sprawie, której dotyczy wniosek.
 
 4. Do wniosku należy załączyć kopie dowodów poświadczających okoliczności przedstawione we wniosku, a także kopie dokumentów wydanych przez organy podatkowe dotyczących opodatkowania dochodu lub majątku objętego kwestią sporną.
 
@@ -502,7 +636,7 @@ Art. 108–120. (pominięte)
 4. Wniosek o ustanowienie komisji doradczej składa się równocześnie do organów zainteresowanych państw w terminie 50 dni od dnia doręczenia:
 
 - **1)** zawiadomienia o odrzuceniu wniosku o rozstrzygnięcie kwestii spornej albo
-- **2)** prawomocnego orzeczenia sądu administracyjnego lub sądu innego zainteresowanego państwa w przedmiocie rozstrzygnięcia skargi na odrzucenie wniosku o rozstrzygnięcie kwestii spornej w zależności od tego, które z tych doręczeń przypada później.
+- **2)** prawomocnego orzeczenia sądu administracyjnego lub sądu innego zainteresowanego państwa w przedmiocie rozstrzygnięcia skargi na odrzucenie wniosku o rozstrzygnięcie kwestii spornej – w zależności od tego, które z tych doręczeń przypada później.
 
 5. Przepis art. 11 ust. 2 stosuje się odpowiednio.
 
@@ -543,6 +677,9 @@ Art. 108–120. (pominięte)
 
 **Art. 28.** Procedura rozstrzygania sporów dotyczących podwójnego opodatkowania między państwami członkowskimi Unii Europejskiej ulega zakończeniu, jeżeli:
 
+- **1)** sąd administracyjny wydał prawomocne orzeczenie w sprawie kwestii spornej, a przed zawarciem porozumienia, o którym mowa w art. 26 ust. 1, Minister Finansów zawiadomił organy innych zainteresowanych państw o tym orzeczeniu, lub
+- **2)** organ innego zainteresowanego państwa poinformuje Ministra Finansów, że w sprawie kwestii spornej zostało przez sąd innego zainteresowanego państwa wydane rozstrzygnięcie, od którego nie dopuszcza się odstępstwa zgodnie z prawem krajowym tego zainteresowanego państwa.
+
 ##### Oddział 4 Etap rozstrzygania sporu przy udziale komisji doradczej
 
 **Art. 29.**
@@ -558,6 +695,10 @@ Art. 108–120. (pominięte)
 2. W przypadku, o którym mowa w ust. 1, przyjmuje się, że komisja doradcza została ustanowiona w dniu, w którym dla wszystkich organów zainteresowanych państw upłynął termin, o którym mowa w ust. 1.
 
 **Art. 31.** Minister Finansów w terminie 120 dni od dnia otrzymania wniosku o ustanowienie komisji doradczej albo od dnia, o którym mowa w art. 30 ust. 2, przekazuje osobie, której dotyczy spór:
+
+- **1)** regulamin funkcjonowania komisji doradczej;
+- **2)** informacje o terminie na wydanie opinii w sprawie sposobu rozstrzygnięcia kwestii spornej;
+- **3)** odniesienie do mających zastosowanie przepisów krajowych oraz mających zastosowanie umów międzynarodowych.
 
 **Art. 32.**
 
@@ -634,8 +775,8 @@ Art. 108–120. (pominięte)
 
 3. Sąd administracyjny, uwzględniając skargę, zobowiązuje:
 
-- **1)** Ministra Finansów do przekazania ostatecznego rozstrzygnięcia kwestii spornej do właściwego organu podatkowego w przypadku uwzględnienia skargi na bezczynność Ministra Finansów, o której mowa w ust. 1;
-- **2)** właściwy organ podatkowy do wprowadzenia w życie ostatecznego rozstrzygnięcia kwestii spornej w przypadku uwzględnienia skargi na bezczynność właściwego organu podatkowego, o której mowa w ust. 1.
+- **1)** Ministra Finansów do przekazania ostatecznego rozstrzygnięcia kwestii spornej do właściwego organu podatkowego – w przypadku uwzględnienia skargi na bezczynność Ministra Finansów, o której mowa w ust. 1;
+- **2)** właściwy organ podatkowy do wprowadzenia w życie ostatecznego rozstrzygnięcia kwestii spornej – w przypadku uwzględnienia skargi na bezczynność właściwego organu podatkowego, o której mowa w ust. 1.
 
 **Art. 42.**
 
@@ -654,8 +795,8 @@ Art. 108–120. (pominięte)
 
 1. W przypadku gdy w odniesieniu do kwestii spornej sąd administracyjny wydał prawomocny wyrok lub sąd innego zainteresowanego państwa wydał orzeczenie, od którego nie dopuszcza się odstępstwa zgodnie z przepisami prawa krajowego tego państwa:
 
-- **1)** przed złożeniem przez osobę, której dotyczy spór, wniosku na podstawie art. 29 ust. 1 komisji doradczej nie ustanawia się, jeżeli kwestia sporna pozostała nierozstrzygnięta w ramach etapu wzajemnego porozumiewania się, o którym mowa w oddziale 3;
-- **2)** po złożeniu przez osobę, której dotyczy spór, wniosku na podstawie art. 29 ust. 1, lecz przed wydaniem przez komisję doradczą opinii w sprawie sposobu rozstrzygnięcia kwestii spornej rozstrzyganie sporu przy udziale komisji doradczej ulega zakończeniu.
+- **1)** przed złożeniem przez osobę, której dotyczy spór, wniosku na podstawie art. 29 ust. 1 – komisji doradczej nie ustanawia się, jeżeli kwestia sporna pozostała nierozstrzygnięta w ramach etapu wzajemnego porozumiewania się, o którym mowa w oddziale 3;
+- **2)** po złożeniu przez osobę, której dotyczy spór, wniosku na podstawie art. 29 ust. 1, lecz przed wydaniem przez komisję doradczą opinii w sprawie sposobu rozstrzygnięcia kwestii spornej – rozstrzyganie sporu przy udziale komisji doradczej ulega zakończeniu.
 
 2. W przypadku gdy w odniesieniu do kwestii spornej sąd administracyjny wydał prawomocne orzeczenie, Minister Finansów zawiadamia właściwe organy innych zainteresowanych państw oraz komisję doradczą o skutku tego orzeczenia.
 
@@ -686,7 +827,7 @@ Art. 108–120. (pominięte)
 1. W postępowaniu w sprawach określonych w:
 
 - **1)** art. 45 ust. 1 i 2 oraz
-- **2)** art. 45 ust. 3, prowadzonym na terytorium Rzeczypospolitej Polskiej stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o postępowaniu nieprocesowym, chyba że przepisy niniejszego oddziału stanowią inaczej.
+- **2)** art. 45 ust. 3, prowadzonym na terytorium Rzeczypospolitej Polskiej – stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o postępowaniu nieprocesowym, chyba że przepisy niniejszego oddziału stanowią inaczej.
 
 2. Uczestnikami postępowania w sprawach, o których mowa w ust. 1, są wyłącznie osoby, których dotyczy spór, i Minister Finansów.
 
@@ -699,6 +840,9 @@ Art. 108–120. (pominięte)
 **Art. 47.** Prawomocne rozstrzygnięcie sądu uwzględniające wniosek, o którym mowa w art. 45 ust. 1–3, wywołuje skutek prawny wyznaczenia niezależnego eksperta oraz jego zastępcy albo ustanowienia komisji doradczej.
 
 **Art. 48.** Minister Finansów zawiadamia:
+
+- **1)** organy innych zainteresowanych państw o wyznaczeniu przez sąd niezależnego eksperta oraz jego zastępcy albo o ustanowieniu przez sąd komisji doradczej;
+- **2)** osoby wchodzące w skład komisji doradczej o wyznaczeniu ich do składu komisji.
 
 **Art. 49.** Minister Finansów uzgadnia z organami innych zainteresowanych państw zasady wyznaczania niezależnych ekspertów.
 
@@ -742,14 +886,14 @@ Art. 108–120. (pominięte)
 
 3. Skargę na brak niezależności eksperta może wnieść również osoba, której dotyczy spór. Skarga ta podlega opłacie w wysokości określonej w art. 24 ust. 2 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2022 r. poz. 1125, z późn. zm. ).
 
-4. W postępowaniu w sprawie skargi na brak niezależności eksperta stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego o postępowaniu nieprocesowym, chyba że przepisy niniejszego oddziału stanowią inaczej.
+4. W postępowaniu w sprawie skargi na brak niezależności eksperta stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu nieprocesowym, chyba że przepisy niniejszego oddziału stanowią inaczej.
 
 **Art. 55.**
 
 1. W przypadku uwzględnienia skargi na brak niezależności eksperta:
 
 - **1)** wydanego ostatecznego rozstrzygnięcia nie wprowadza się w życie;
-- **2)** w przypadku wprowadzenia w życie ostatecznego rozstrzygnięcia wydane na jego podstawie akty i dokonane czynności są nieważne.
+- **2)** w przypadku wprowadzenia w życie ostatecznego rozstrzygnięcia – wydane na jego podstawie akty i dokonane czynności są nieważne.
 
 2. W przypadku, o którym mowa w ust. 1, ustanawia się nową komisję doradczą, a etap rozstrzygania sporów przy udziale komisji doradczej podlega wznowieniu.
 
@@ -847,15 +991,15 @@ Art. 108–120. (pominięte)
 
 1. O ile organy zainteresowanych państw nie uzgodniły inaczej:
 
-- **1)** koszty związane z niezależnymi ekspertami, w wysokości należności przysługujących pracownikowi zatrudnionemu w państwowej jednostce sfery budżetowej z tytułu podróży służbowej, odpowiednio na obszarze kraju albo poza granicami kraju, zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641), lub w kwocie zwracanej urzędnikom służby cywilnej wysokiego szczebla w innych zainteresowanych państwach według przepisów obowiązujących w tych państwach,
-- **2)** koszty honorariów niezależnych ekspertów, nie wyższe niż 1000 euro na osobę za dzień posiedzenia komisji doradczej są dzielone równo pomiędzy zainteresowane państwa.
+- **1)** koszty związane z niezależnymi ekspertami, w wysokości należności przysługujących pracownikowi zatrudnionemu w państwowej jednostce sfery budżetowej z tytułu podróży służbowej, odpowiednio na obszarze kraju albo poza granicami kraju, zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641), lub w kwocie zwracanej urzędnikom służby cywilnej wysokiego szczebla w innych zainteresowanych państwach według przepisów obowiązujących w tych państwach,
+- **2)** koszty honorariów niezależnych ekspertów, nie wyższe niż 1000 euro na osobę za dzień posiedzenia komisji doradczej – są dzielone równo pomiędzy zainteresowane państwa.
 
 2. Koszty poniesione przez osobę, której dotyczy spór, nie obciążają zainteresowanych państw.
 
 3. W przypadku gdy osoba, której dotyczy spór:
 
 - **1)** wycofa wniosek o rozstrzygnięcie kwestii spornej na podstawie art. 11 ust. 5 albo
-- **2)** złożyła wniosek o ustanowienie komisji doradczej w przypadku, o którym mowa w art. 22 ust. 1, a komisja doradcza nie przyjęła wniosku o rozstrzygnięcie kwestii spornej koszty, o których mowa w ust. 1, ponosi osoba, której dotyczy spór, jeżeli organy zainteresowanych państw wyrażą na to zgodę.
+- **2)** złożyła wniosek o ustanowienie komisji doradczej w przypadku, o którym mowa w art. 22 ust. 1, a komisja doradcza nie przyjęła wniosku o rozstrzygnięcie kwestii spornej – koszty, o których mowa w ust. 1, ponosi osoba, której dotyczy spór, jeżeli organy zainteresowanych państw wyrażą na to zgodę.
 
 #### Rozdział 3 Procedura eliminowania podwójnego opodatkowania w przypadku korekty zysku podmiotów powiązanych
 
@@ -929,6 +1073,10 @@ Art. 108–120. (pominięte)
 
 **Art. 73.** Minister Finansów odrzuca wniosek, o którym mowa w art. 72 ust. 1, jeżeli:
 
+- **1)** został złożony po upływie terminu określonego w mającej zastosowanie umowie o unikaniu podwójnego opodatkowania;
+- **2)** wnioskodawca nie uzupełnił wniosku w terminie pomimo ponownego wezwania do jego uzupełnienia;
+- **3)** kwestia sporna nie istnieje, została uprzednio rozstrzygnięta w jednej z procedur rozstrzygania sporów dotyczących podwójnego opodatkowania lub gdy z innych przyczyn wniosek nie może zostać przyjęty.
+
 **Art. 74.**
 
 1. Minister Finansów, jeżeli uzna wniosek za uzasadniony, a charakter kwestii spornej nie stoi temu na przeszkodzie, może jednostronnie rozstrzygnąć kwestię sporną.
@@ -958,8 +1106,8 @@ Art. 108–120. (pominięte)
 1. Jeżeli w wyniku zastosowania przepisów art. 23o i art. 23p ustawy o podatku dochodowym od osób fizycznych lub art. 11c i art. 11d ustawy o podatku dochodowym od osób prawnych:
 
 - **1)** organ podatkowy określił dochód (stratę) podatnika lub
-- **2)** w przypadku ujawnienia przez kontrolę podatkową nieprawidłowości podatnik po zakończeniu kontroli podatkowej skorzystał z uprawnienia do skorygowania zeznania o wysokości dochodu (straty) osiągniętego w roku podatkowym, lub
-- **3)** w przypadku ujawnienia przez kontrolę celno-skarbową nieprawidłowości podatnik skorzystał z uprawnienia do skorygowania uprzednio złożonej deklaracji, zgodnie z art. 82 ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, 556, 588 i 641), a kontrola celno-skarbowa została zakończona zawiadomieniem, o którym mowa w art. 83 ust. 2 tej ustawy na wniosek krajowego podmiotu powiązanego będącego drugą stroną transakcji kontrolowanej właściwy dla tego wnioskodawcy organ podatkowy dokonuje korekty dochodu (straty) tego wnioskodawcy.
+- **2)** w przypadku ujawnienia przez kontrolę podatkową nieprawidłowości – podatnik po zakończeniu kontroli podatkowej skorzystał z uprawnienia do skorygowania zeznania o wysokości dochodu (straty) osiągniętego w roku podatkowym, lub
+- **3)** w przypadku ujawnienia przez kontrolę celno-skarbową nieprawidłowości – podatnik skorzystał z uprawnienia do skorygowania uprzednio złożonej deklaracji, zgodnie z art. 82 ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, 556, 588 i 641), a kontrola celno-skarbowa została zakończona zawiadomieniem, o którym mowa w art. 83 ust. 2 tej ustawy – na wniosek krajowego podmiotu powiązanego będącego drugą stroną transakcji kontrolowanej właściwy dla tego wnioskodawcy organ podatkowy dokonuje korekty dochodu (straty) tego wnioskodawcy.
 
 2. Do wniosku, o którym mowa w ust. 1, przepisy art. 15 ust. 1 pkt 1, 3, 4, 5 i 8 oraz ust. 2–4 stosuje się odpowiednio.
 
@@ -970,6 +1118,9 @@ Art. 108–120. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 81.** Ilekroć w niniejszym dziale jest mowa o:
+
+- **1)** uprzednim porozumieniu cenowym – rozumie się przez to decyzję, w której uznaje się, że cena transferowa transakcji kontrolowanej została ustalona na warunkach, które ustaliłyby między sobą podmioty niepowiązane;
+- **2)** właściwym organie zagranicznym – rozumie się przez to władzę podatkową właściwą w sprawach wydawania uprzednich porozumień cenowych dla zagranicznego podmiotu powiązanego.
 
 **Art. 82.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej.
 
@@ -1000,7 +1151,14 @@ Art. 108–120. (pominięte)
 
 **Art. 85.** Uprzedniego porozumienia cenowego nie wydaje się w zakresie transakcji kontrolowanych:
 
+- **1)** zakończonych przed dniem złożenia wniosku;
+- **2)** rozpoczętych przed dniem złożenia wniosku, które w dniu złożenia wniosku są objęte postępowaniem podatkowym, kontrolą podatkową, kontrolą celno-skarbową lub postępowaniem przed sądem administracyjnym za okres któregokolwiek z dwóch ostatnich lat podatkowych wnioskodawcy poprzedzających rok podatkowy, w którym złożono wniosek;
+- **3)** będących przedmiotem wniosku o wydanie porozumienia inwestycyjnego lub zawartego porozumienia inwestycyjnego, o którym mowa w art. 20zs § 1 Ordynacji podatkowej.
+
 **Art. 86.** W przypadku gdy transakcja kontrolowana została zawarta:
+
+- **1)** wyłącznie pomiędzy krajowymi podmiotami powiązanymi,
+- **2)** pomiędzy krajowym podmiotem powiązanym a zagranicznym podmiotem powiązanym i krajowy podmiot powiązany nie wystąpił z wnioskiem o porozumienie z właściwym organem zagranicznym – Szef Krajowej Administracji Skarbowej wydaje jednostronne uprzednie porozumienie cenowe.
 
 **Art. 87.** W przypadku gdy transakcja kontrolowana została zawarta pomiędzy krajowym podmiotem powiązanym a zagranicznym podmiotem powiązanym, Szef Krajowej Administracji Skarbowej, na wniosek krajowego podmiotu powiązanego, porozumiewa się z jednym właściwym organem zagranicznym (porozumienie dwustronne) lub więcej niż jednym właściwym organem zagranicznym (porozumienie wielostronne).
 
@@ -1010,10 +1168,10 @@ Art. 108–120. (pominięte)
 
 2. W przypadku, o którym mowa w ust. 1, wnioskodawca może w terminie 30 dni od dnia doręczenia zawiadomienia:
 
-- **1)** wycofać wniosek o zawarcie uprzedniego porozumienia cenowego za zwrotem połowy wniesionej opłaty;
-- **2)** zmienić wniosek o zawarcie porozumienia dwustronnego na wniosek o wydanie jednostronnego uprzedniego porozumienia cenowego za zwrotem jednej czwartej wniesionej opłaty;
-- **3)** zmienić wniosek o zawarcie porozumienia wielostronnego na wniosek o zawarcie porozumienia dwustronnego, jeżeli właściwy organ zagraniczny tylko jednego państwa wyraża zgodę na zawarcie porozumienia za zwrotem jednej czwartej wniesionej opłaty;
-- **4)** zaakceptować zawarcie porozumienia dwustronnego albo porozumienia wielostronnego bez uwzględnienia zagranicznych podmiotów powiązanych, których dotyczą przesłanki wymienione w ust. 1 bez zmiany wysokości opłaty.
+- **1)** wycofać wniosek o zawarcie uprzedniego porozumienia cenowego – za zwrotem połowy wniesionej opłaty;
+- **2)** zmienić wniosek o zawarcie porozumienia dwustronnego na wniosek o wydanie jednostronnego uprzedniego porozumienia cenowego – za zwrotem jednej czwartej wniesionej opłaty;
+- **3)** zmienić wniosek o zawarcie porozumienia wielostronnego na wniosek o zawarcie porozumienia dwustronnego, jeżeli właściwy organ zagraniczny tylko jednego państwa wyraża zgodę na zawarcie porozumienia – za zwrotem jednej czwartej wniesionej opłaty;
+- **4)** zaakceptować zawarcie porozumienia dwustronnego albo porozumienia wielostronnego bez uwzględnienia zagranicznych podmiotów powiązanych, których dotyczą przesłanki wymienione w ust. 1 – bez zmiany wysokości opłaty.
 
 **Art. 89.**
 
@@ -1026,15 +1184,15 @@ Art. 108–120. (pominięte)
 1. Wniosek o wydanie uprzedniego porozumienia cenowego zawiera:
 
 - **1)** informacje dotyczące wnioskodawcy i pozostałych podmiotów powiązanych uczestniczących w dokonaniu transakcji kontrolowanej, w szczególności:
-    - **a)** opis podstawowej działalności wnioskodawcy, w tym: wskazanie przedmiotu prowadzonej działalności, wskazanie rynków geograficznych, na których wnioskodawca prowadzi działalność, opis branży i otoczenia rynkowego, w ramach których wnioskodawca prowadzi działalność, ze wskazaniem wpływu warunków ekonomicznych i regulacyjnych oraz wskazaniem kluczowych konkurentów, opis strategii gospodarczej,
-    - **b)** wykaz pozostałych podmiotów powiązanych uczestniczących w dokonaniu transakcji kontrolowanej, wraz ze wskazaniem siedziby lub miejsca ich zarządu, numeru identyfikacji podatkowej, a w przypadku jego braku innego numeru identyfikacyjnego wraz z określeniem jego rodzaju, a także przedmiotu prowadzonej przez nich działalności,
+    - **a)** opis podstawowej działalności wnioskodawcy, w tym: – wskazanie przedmiotu prowadzonej działalności, – wskazanie rynków geograficznych, na których wnioskodawca prowadzi działalność, – opis branży i otoczenia rynkowego, w ramach których wnioskodawca prowadzi działalność, ze wskazaniem wpływu warunków ekonomicznych i regulacyjnych oraz wskazaniem kluczowych konkurentów, – opis strategii gospodarczej,
+    - **b)** wykaz pozostałych podmiotów powiązanych uczestniczących w dokonaniu transakcji kontrolowanej, wraz ze wskazaniem siedziby lub miejsca ich zarządu, numeru identyfikacji podatkowej, a w przypadku jego braku – innego numeru identyfikacyjnego wraz z określeniem jego rodzaju, a także przedmiotu prowadzonej przez nich działalności,
     - **c)** opis struktury zarządczej i schemat organizacyjny wnioskodawcy i pozostałych podmiotów powiązanych uczestniczących w dokonaniu transakcji kontrolowanej,
     - **d)** opis przyjętych zasad (polityki) rachunkowości w zakresie, w jakim mają one zastosowanie do transakcji kontrolowanej, stosowanych przez wnioskodawcę i pozostałe podmioty powiązane uczestniczące w dokonaniu transakcji kontrolowanej;
 
 - **2)** informacje dotyczące transakcji kontrolowanej objętej wnioskiem, w tym:
     - **a)** wskazanie, czy transakcja kontrolowana stanowi transakcję już rozpoczętą czy przyszłą transakcję, w tym przyszłą transakcję, o której mowa w art. 84 ust. 2,
     - **b)** przedmiot i rodzaj transakcji kontrolowanej,
-    - **c)** analizę funkcjonalną podmiotów powiązanych uczestniczących w dokonaniu transakcji kontrolowanej, zawierającą opis: wykonywanych funkcji, w tym zdolności do ich wykonywania, ponoszonych ryzyk, w tym zdolności do ich ponoszenia, angażowanych aktywów,
+    - **c)** analizę funkcjonalną podmiotów powiązanych uczestniczących w dokonaniu transakcji kontrolowanej, zawierającą opis: – wykonywanych funkcji, w tym zdolności do ich wykonywania, – ponoszonych ryzyk, w tym zdolności do ich ponoszenia, – angażowanych aktywów,
     - **d)** umowy, porozumienia wewnątrzgrupowe lub inne dokumenty dotyczące transakcji kontrolowanej,
     - **e)** informacje o porozumieniach lub interpretacjach podatkowych dotyczących transakcji kontrolowanej, w tym porozumieniach dotyczących cen transferowych, zawartych z administracjami podatkowymi państw innych niż Rzeczpospolita Polska lub wydanych przez te administracje,
     - **f)** wskazanie metody weryfikacji ceny transferowej, wraz ze zwięzłym uzasadnieniem wyboru,
@@ -1044,7 +1202,7 @@ Art. 108–120. (pominięte)
 
 - **3)** wskazanie okresu obowiązywania uprzedniego porozumienia cenowego;
 - **4)** wskazanie, czy wniosek dotyczy wydania jednostronnego uprzedniego porozumienia cenowego czy zawarcia porozumienia dwustronnego albo porozumienia wielostronnego;
-- **5)** w zakresie porozumień dwustronnych i porozumień wielostronnych informację dotyczącą złożenia wniosku do właściwego organu zagranicznego przez zagraniczne podmioty powiązane, obejmującą nazwy tych podmiotów, państwo, w którym został lub zostanie złożony taki wniosek, oraz datę jego złożenia, o ile jest znana.
+- **5)** w zakresie porozumień dwustronnych i porozumień wielostronnych – informację dotyczącą złożenia wniosku do właściwego organu zagranicznego przez zagraniczne podmioty powiązane, obejmującą nazwy tych podmiotów, państwo, w którym został lub zostanie złożony taki wniosek, oraz datę jego złożenia, o ile jest znana.
 
 2. W przypadku gdy wniosek dotyczy transakcji przyszłej, o której mowa w art. 84 ust. 2, informacje dotyczące wnioskodawcy, wskazane w ust. 1, przedstawia się w odniesieniu do krajowego podmiotu powiązanego, który będzie prowadził działalność na terytorium Rzeczypospolitej Polskiej.
 
@@ -1065,7 +1223,7 @@ Art. 108–120. (pominięte)
 1. W przypadku zaistnienia w toku postępowania:
 
 - **1)** okoliczności wskazujących, że przedstawiona przez wnioskodawcę cena transferowa transakcji kontrolowanej nie została ustalona na warunkach, które ustaliłyby między sobą podmioty niepowiązane, lub
-- **2)** innych przeszkód, które nie pozwalają na zaakceptowanie propozycji wnioskodawcy przedstawionych we wniosku Szef Krajowej Administracji Skarbowej zawiadamia o nich wnioskodawcę.
+- **2)** innych przeszkód, które nie pozwalają na zaakceptowanie propozycji wnioskodawcy przedstawionych we wniosku – Szef Krajowej Administracji Skarbowej zawiadamia o nich wnioskodawcę.
 
 2. Zawiadomienie zawiera uzasadnienie faktyczne.
 
@@ -1099,6 +1257,10 @@ Art. 108–120. (pominięte)
 
 **Art. 96.** Uprzednie porozumienie cenowe niezwłocznie doręcza się:
 
+- **1)** wnioskodawcy;
+- **2)** innemu niż wnioskodawca krajowemu podmiotowi powiązanemu, uczestniczącemu w dokonaniu transakcji kontrolowanej objętej uprzednim porozumieniem cenowym;
+- **3)** naczelnikowi urzędu skarbowego i naczelnikowi urzędu celno-skarbowego właściwym dla krajowych podmiotów powiązanych uczestniczących w dokonaniu transakcji kontrolowanej objętej uprzednim porozumieniem cenowym.
+
 **Art. 97.**
 
 1. Postępowanie w sprawie wydania jednostronnego uprzedniego porozumienia cenowego powinno być zakończone bez zbędnej zwłoki, jednak nie później niż w ciągu 6 miesięcy od dnia jego wszczęcia.
@@ -1114,10 +1276,10 @@ Art. 108–120. (pominięte)
 2. Wysokość opłaty od wniosku o wydanie uprzedniego porozumienia cenowego wynosi 1 procent wartości transakcji kontrolowanej będącej przedmiotem uprzedniego porozumienia cenowego, przy czym dla:
 
 - **1)** jednostronnego uprzedniego porozumienia cenowego:
-    - **a)** dotyczącego wyłącznie krajowych podmiotów powiązanych wynosi nie mniej niż 5000 zł i nie więcej niż 50 000 zł,
-    - **b)** dotyczącego zagranicznego podmiotu powiązanego wynosi nie mniej niż 20 000 zł i nie więcej niż 100 000 zł;
+    - **a)** dotyczącego wyłącznie krajowych podmiotów powiązanych – wynosi nie mniej niż 5000 zł i nie więcej niż 50 000 zł,
+    - **b)** dotyczącego zagranicznego podmiotu powiązanego – wynosi nie mniej niż 20 000 zł i nie więcej niż 100 000 zł;
 
-- **2)** porozumienia dwustronnego oraz porozumienia wielostronnego wynosi nie mniej niż 50 000 zł i nie więcej niż 200 000 zł.
+- **2)** porozumienia dwustronnego oraz porozumienia wielostronnego – wynosi nie mniej niż 50 000 zł i nie więcej niż 200 000 zł.
 
 3. Wartość transakcji kontrolowanej, o której mowa w ust. 2, określa się dla okresu objętego wnioskiem o wydanie uprzedniego porozumienia cenowego.
 
@@ -1227,59 +1389,64 @@ Art. 108–120. (pominięte)
 
 1. W latach 2020–2029 maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonanie przez ministra właściwego do spraw finansów publicznych zadań, o których mowa w dziale II, wynosi 26 800 000 zł, w tym:
 
-- **1)** w 2020 r. 1 350 000 zł;
-- **2)** w 2021 r. 1 600 000 zł;
-- **3)** w 2022 r. 1 950 000 zł;
-- **4)** w 2023 r. 2 200 000 zł;
-- **5)** w 2024 r. 2 550 000 zł;
-- **6)** w 2025 r. 2 800 000 zł;
-- **7)** w 2026 r. 3 150 000 zł;
-- **8)** w 2027 r. 3 450 000 zł;
-- **9)** w 2028 r. 3 700 000 zł;
-- **10)** w 2029 r. 4 050 000 zł.
+- **1)** w 2020 r. – 1 350 000 zł;
+- **2)** w 2021 r. – 1 600 000 zł;
+- **3)** w 2022 r. – 1 950 000 zł;
+- **4)** w 2023 r. – 2 200 000 zł;
+- **5)** w 2024 r. – 2 550 000 zł;
+- **6)** w 2025 r. – 2 800 000 zł;
+- **7)** w 2026 r. – 3 150 000 zł;
+- **8)** w 2027 r. – 3 450 000 zł;
+- **9)** w 2028 r. – 3 700 000 zł;
+- **10)** w 2029 r. – 4 050 000 zł.
 
 2. W latach 2020–2029 maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonanie przez Szefa Krajowej Administracji Skarbowej zadań, o których mowa w dziale III i art. 14 ust. 1 pkt 20a ustawy zmienianej w art. 115 , wynosi 55 150 000 zł, w tym:
 
-- **1)** w 2020 r. 5 100 000 zł;
-- **2)** w 2021 r. 5 550 000 zł;
-- **3)** w 2022 r. 5 700 000 zł;
-- **4)** w 2023 r. 5 950 000 zł;
-- **5)** w 2024 r. 5 100 000 zł;
-- **6)** w 2025 r. 5 200 000 zł;
-- **7)** w 2026 r. 5 400 000 zł;
-- **8)** w 2027 r. 5 550 000 zł;
-- **9)** w 2028 r. 5 700 000 zł;
-- **10)** w 2029 r. 5 900 000 zł.
+- **1)** w 2020 r. – 5 100 000 zł;
+- **2)** w 2021 r. – 5 550 000 zł;
+- **3)** w 2022 r. – 5 700 000 zł;
+- **4)** w 2023 r. – 5 950 000 zł;
+- **5)** w 2024 r. – 5 100 000 zł;
+- **6)** w 2025 r. – 5 200 000 zł;
+- **7)** w 2026 r. – 5 400 000 zł;
+- **8)** w 2027 r. – 5 550 000 zł;
+- **9)** w 2028 r. – 5 700 000 zł;
+- **10)** w 2029 r. – 5 900 000 zł.
 
 3. W latach 2020–2029 maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonanie przez Ministra Sprawiedliwości zadań, o których mowa w art. 45 i art. 54, wynosi 12 650 000 zł, w tym:
 
-- **1)** w 2020 r. 1 050 000 zł;
-- **2)** w 2021 r. 1 150 000 zł;
-- **3)** w 2022 r. 1 200 000 zł;
-- **4)** w 2023 r. 1 200 000 zł;
-- **5)** w 2024 r. 1 250 000 zł;
-- **6)** w 2025 r. 1 300 000 zł;
-- **7)** w 2026 r. 1 300 000 zł;
-- **8)** w 2027 r. 1 350 000 zł;
-- **9)** w 2028 r. 1 400 000 zł;
-- **10)** w 2029 r. 1 450 000 zł.
+- **1)** w 2020 r. – 1 050 000 zł;
+- **2)** w 2021 r. – 1 150 000 zł;
+- **3)** w 2022 r. – 1 200 000 zł;
+- **4)** w 2023 r. – 1 200 000 zł;
+- **5)** w 2024 r. – 1 250 000 zł;
+- **6)** w 2025 r. – 1 300 000 zł;
+- **7)** w 2026 r. – 1 300 000 zł;
+- **8)** w 2027 r. – 1 350 000 zł;
+- **9)** w 2028 r. – 1 400 000 zł;
+- **10)** w 2029 r. – 1 450 000 zł.
 
 4. W przypadku przekroczenia lub zagrożenia przekroczeniem na dany rok budżetowy limitu wydatków, o których mowa w:
 
-- **1)** ust. 1 stosuje się mechanizm korygujący polegający na obniżeniu wydatków ministra właściwego do spraw finansów publicznych związanych z realizacją zadań, o których mowa w dziale II;
-- **2)** ust. 2 stosuje się mechanizm korygujący polegający na ograniczeniu kosztów rzeczowych Szefa Krajowej Administracji Skarbowej związanych z realizacją zadań, o których mowa w dziale III lub art. 14 ust. 1 pkt 20a ustawy zmienianej w art. 115 ;
-- **3)** ust. 3 stosuje się mechanizm korygujący polegający na obniżeniu wydatków Ministra Sprawiedliwości związanych z realizacją zadań, o których mowa w art. 45 lub art. 54.
+- **1)** ust. 1 – stosuje się mechanizm korygujący polegający na obniżeniu wydatków ministra właściwego do spraw finansów publicznych związanych z realizacją zadań, o których mowa w dziale II;
+- **2)** ust. 2 – stosuje się mechanizm korygujący polegający na ograniczeniu kosztów rzeczowych Szefa Krajowej Administracji Skarbowej związanych z realizacją zadań, o których mowa w dziale III lub art. 14 ust. 1 pkt 20a ustawy zmienianej w art. 115 ;
+- **3)** ust. 3 – stosuje się mechanizm korygujący polegający na obniżeniu wydatków Ministra Sprawiedliwości związanych z realizacją zadań, o których mowa w art. 45 lub art. 54.
 
 5. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w:
 
-- **1)** ust. 1 jest minister właściwy do spraw finansów publicznych;
-- **2)** ust. 2 jest Szef Krajowej Administracji Skarbowej;
-- **3)** ust. 3 jest Minister Sprawiedliwości.
+- **1)** ust. 1 – jest minister właściwy do spraw finansów publicznych;
+- **2)** ust. 2 – jest Szef Krajowej Administracji Skarbowej;
+- **3)** ust. 3 – jest Minister Sprawiedliwości.
 
 6. Organem właściwym do monitorowania wykorzystania limitu wydatków, o których mowa w:
 
-- **1)** ust. 1 i 2 jest minister właściwy do spraw finansów publicznych;
-- **2)** ust. 3 jest Minister Sprawiedliwości.
+- **1)** ust. 1 i 2 – jest minister właściwy do spraw finansów publicznych;
+- **2)** ust. 3 – jest Minister Sprawiedliwości.
 
 **Art. 130.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 117–120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 108 pkt 3, 4 i 8 oraz art. 109 pkt 3, 4, 8, 9 i pkt 10 lit. a i c, które wchodzą w życie z dniem 1 stycznia 2020 r.;
+- **3)** art. 109 pkt 10 lit. b w zakresie art. 15e ust. 15 pkt 2, i pkt 11, art. 110, art. 111 pkt 2 lit. b, pkt 3, 5, 6, 9, 11, pkt 19 lit. b, pkt 21 w zakresie art. 295a § 2, pkt 22, pkt 23 lit. b i pkt 25, art. 115 pkt 1–6, art. 116 pkt 1 lit. a w zakresie art. 76 pkt 1 lit. b, oraz lit. b, które wchodzą w życie z dniem 1 lipca 2020 r.
+
 

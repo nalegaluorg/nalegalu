@@ -8,10 +8,10 @@ pos: 1035
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 maja 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1035 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 23 kwietnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-09-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001035) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1035/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 23 kwietnia 2018 r.
-w sprawie sposobu dokumentowania kontroli operacyjnej przez Żandarmerię Wojskową Na podstawie art. 31 ust. 20 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430 i 650) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie sposobu dokumentowania kontroli operacyjnej przez Żandarmerię Wojskową Na podstawie art. 31 ust. 20 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430 i 650) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób dokumentowania prowadzonej przez Żandarmerię Wojskową kontroli operacyjnej, zwanej dalej „kontrolą”;
 2) sposób przechowywania i przekazywania wniosków i zarządzeń związanych z kontrolą;
 3) sposób przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania kontroli;
@@ -39,6 +39,7 @@ w sprawie sposobu dokumentowania kontroli operacyjnej przez Żandarmerię Wojsko
 § 3. 1. Kontrolę dokumentuje się także w formie:
 1) opisów, tłumaczeń z języka obcego lub odszyfrowań informacji zarejestrowanych na nośnikach, na których zostały utrwalone zapisy informacji w postaci cyfrowej lub w postaci taśmy elektromagnetycznej, filmów, negatywów lub fotografii, uzyskanych podczas stosowania kontroli;
 2) kopii, odpisów, wypisów, wyciągów lub zbiorów informacji uzyskanych podczas stosowania kontroli;
+3) notatek służbowych z przebiegu i wyników kontroli.
 2. Dokumenty, o których mowa w ust. 1, gromadzi się w odrębnych zbiorach tworzonych dla poszczególnych podmiotów lub przedmiotów, wobec których kontrola jest stosowana.
 3. Pozostałe dokumenty związane z kontrolą gromadzi się w odrębnych zbiorach dokumentów związanych z realizacją czynności operacyjno - rozpoznawczych.
 § 4. 1. Materiały uzyskane podczas stosowania kontroli, a także wnioski i zarządzenia z nią związane, przekazuje się właściwym organom za pośrednictwem żołnierza upoważnionego do tego pisemnie przez Komendanta Głównego Żandarmerii Wojskowej lub komendanta oddziału Żandarmerii Wojskowej.
@@ -50,7 +51,7 @@ w sprawie sposobu dokumentowania kontroli operacyjnej przez Żandarmerię Wojsko
 2) streszczeń, o których mowa w § 2 ust. 2 pkt 2,
 3) nośników, o których mowa w § 3 ust. 1 pkt 1,
 4) opisów, tłumaczeń i odszyfrowań, o których mowa w § 3 ust. 1 pkt 1,
-5) kopii, odpisów, wypisów, wyciągów lub zbiorów informacji, o których mowa w § 3 ust. 1 pkt 2 dokonuje się przez zniszczenie materiałów lub usunięcie zapisów utrwalonych na nośnikach, w szczególności danych osobowych, w sposób uniemożliwiający odtworzenie ich treści.
+5) kopii, odpisów, wypisów, wyciągów lub zbiorów informacji, o których mowa w § 3 ust. 1 pkt 2 – dokonuje się przez zniszczenie materiałów lub usunięcie zapisów utrwalonych na nośnikach, w szczególności danych osobowych, w sposób uniemożliwiający odtworzenie ich treści.
 2. W przypadku gdy usunięcie zapisów utrwalonych na nośnikach nie jest możliwe, uszkadza się te nośniki w sposób uniemożliwiający odczytanie zapisów albo dokonuje się ich zniszczenia.
 § 8. Wzór:
 1) pisemnego wniosku Komendanta Głównego Żandarmerii Wojskowej lub komendanta oddziału Żandarmerii Wojskowej o zarządzenie lub przedłużenie kontroli jest określony w załączniku nr 1 do rozporządzenia;
@@ -65,7 +66,7 @@ w sprawie sposobu dokumentowania kontroli operacyjnej przez Żandarmerię Wojsko
 § 9. Do dokumentowania kontroli wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 § 10. Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 21 sierpnia 2013 r. w sprawie sposobu dokumentowania kontroli operacyjnej przez Żandarmerię Wojskową (Dz. U. poz. 1071).
 § 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: wz. T. Zdzikot str. …/… OZNACZENIE KLAUZULI TAJNOŚCI OZNACZENIE KLAUZULI TAJNOŚCI ……………………………….
+Minister Obrony Narodowej: wz. T. Zdzikot Załączniki do rozporządzenia Ministra Obrony Narodowej z dnia 23 kwietnia 2018 r. (poz…..) Załącznik nr 1 WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI ……………………………….
 Sygnatura literowo-cyfrowa Egz. nr… ......................, dnia ………..... r.
 Wojskowy Sąd Okręgowy ……………………………..
 WNIOSEK nr ….. / …..
@@ -73,12 +74,12 @@ Na podstawie art. 31 ust. 1 pkt .... oraz ust. 7 pkt .... / ust. 9 / ust. 10 ust
 poz. 430, z późn. zm.)* wnoszę o ZARZĄDZENIE / PRZEDŁUŻENIE KONTROLI OPERACYJNEJ* w sprawie operacyjnej pod kryptonimem …………………..…….. nr ewid. ……………….., prowadzonej przez …………………………, dotyczącej przestępstwa określonego w art. 31 ust. 1 pkt ….. ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych i określonego w art. ………………, na okres ………………..………………………………...
 Kontrola operacyjna polegająca na …………….………………………………….…………...
 stosowana będzie wobec ………………………………..………………………………...…...., w celu wykrycia, ustalenia sprawców oraz uzyskania i utrwalenia dowodów popełnienia przestępstwa określonego w art. …………………………...…………………………………...
-WZÓR OZNACZENIE KLAUZULI TAJNOŚCI str. …./… OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. nr… UZASADNIENIE …………………………………………………………………………………………………...
+str. …/… OZNACZENIE KLAUZULI TAJNOŚCI OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. nr… UZASADNIENIE …………………………………………………………………………………………………...
 …………………………………………………………………………………………………...
 Materiały uzasadniające potrzebę zastosowania kontroli operacyjnej:
 1. ..........;
 2. ……… KOMENDANT …….....................................................
-str. …/… OZNACZENIE KLAUZULI TAJNOŚCI OZNACZENIE KLAUZULI TAJNOŚCI ……………………………….
+str. …./… OZNACZENIE KLAUZULI TAJNOŚCI Załącznik nr 2 WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI ……………………………….
 Sygnatura literowo-cyfrowa Egz. nr….
 ......................, dnia ………..... r.
 Prokurator Generalny / Zastępca Prokuratora Okręgowego do spraw wojskowych w .......................................................
@@ -90,15 +91,14 @@ stosowana będzie wobec ………………………………..………………
 ....................................................................................................................................................................
 UZASADNIENIE …………………………………………………………………………………………………………..
 …………………………………………………………………………………………………………...
-WZÓR OZNACZENIE KLAUZULI TAJNOŚCI str. …./… OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. nr….
+str. …/… OZNACZENIE KLAUZULI TAJNOŚCI OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. nr….
 Jednocześnie stwierdzam, że w dniu ………………… r. o godz. …… poinformowałem Komendanta Głównego Żandarmerii Wojskowej o niniejszym wniosku.
 Materiały uzasadniające potrzebę zastosowania kontroli operacyjnej:
 1. ..........;
 2. ……..
 KOMENDANT .....................................................
 ….............., dnia ………….
-wyrażam zgodę / nie wyrażam zgody* str. …/….
-OZNACZENIE KLAUZULI TAJNOŚCI OZNACZENIE KLAUZULI TAJNOŚCI ..............................., dnia ................ r.
+wyrażam zgodę / nie wyrażam zgody* str. …./… OZNACZENIE KLAUZULI TAJNOŚCI WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI ..............................., dnia ................ r.
 ……………………………….
 Sygnatura literowo-cyfrowa Egz. nr….
 ZARZĄDZENIE NR ......... / .........
@@ -110,7 +110,8 @@ UZASADNIENIE ...................................................................
 ....................................................................................................................................................................
 KOMENDANT m.p.
 ...........................................................
-WZÓR str. …./… OZNACZENIE KLAUZULI TAJNOŚCI OZNACZENIE KLAUZULI TAJNOŚCI ……………………………….
+str. …/….
+OZNACZENIE KLAUZULI TAJNOŚCI WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI ……………………………….
 Sygnatura literowo-cyfrowa Egz. nr …………….
 ........................, dnia ……….... r.
 NOTATKA SŁUŻBOWA z przebiegu i wyników kontroli operacyjnej Na podstawie art. 31 ust. 1 pkt ….. ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430, z późn. zm.) w sprawie operacyjnej pod kryptonimem ……………………… nr ewid. ................................, prowadzonej przez .................................................................., dotyczącej przestępstwa określonego w art. 31 ust. 1 pkt ........ ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych i określonego w art. ........, została przeprowadzona kontrola operacyjna.
@@ -122,9 +123,9 @@ NOTATKA SŁUŻBOWA z przebiegu i wyników kontroli operacyjnej Na podstawie art.
 ...........................................................................................................................................
 4. Kontrolę operacyjną rozpoczęto ……..............................................................................
 5. Kontrolę operacyjną zakończono …….............................................................................
-W wyniku kontroli operacyjnej: uzyskano dowody pozwalające na wszczęcie postępowania karnego lub mające znaczenie dla toczącego się postępowania karnego*, nie uzyskano dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego* .......................................................................................................................................................
+W wyniku kontroli operacyjnej: – uzyskano dowody pozwalające na wszczęcie postępowania karnego lub mające znaczenie dla toczącego się postępowania karnego*, – nie uzyskano dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego* .......................................................................................................................................................
 .......................................................................................................................................................
-SPORZĄDZIŁ: ……………………… WZÓR W W W …… … OZNACZENIE KLAUZULI TAJNOŚCI OZNACZENIE KLAUZULI TAJNOŚCI ……………………………….
+SPORZĄDZIŁ: ……………………… str. …./… OZNACZENIE KLAUZULI TAJNOŚCI W …… W W … Załącznik nr 7 WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI ……………………………….
 Sygnatura literowo-cyfrowa Egz. nr….
 ........................, dnia ……….... r.
 PROTOKÓŁ ZNISZCZENIA MATERIAŁÓW zgromadzonych podczas stosowania kontroli operacyjnej Komisja powołana przez ..............................................................................................................
@@ -141,7 +142,7 @@ Podpisy członków komisji:
 2. .......................................
 3. .......................................
 str. ........ / .......
-WZÓR OZNACZENIE KLAUZULI TAJNOŚCI OZNACZENIE KLAUZULI TAJNOŚCI …………………………….
+OZNACZENIE KLAUZULI TAJNOŚCI Załącznik nr 8 WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI …………………………….
 Sygnatura literowo-cyfrowa Egz. nr ...................
 ........................, dnia .......... .... r.
 Prokurator Generalny / Zastępca Prokuratora Okręgowego do spraw wojskowych w .......................................................
@@ -151,7 +152,7 @@ prowadzonej przez ..............................................................
 .......................................................................................................................................................
 KOMENDANT .............................................
 str. ........ / ..............
-WZÓR str. …./… OZNACZENIE KLAUZULI TAJNOŚCI OZNACZENIE KLAUZULI TAJNOŚCI ……………………………….
+OZNACZENIE KLAUZULI TAJNOŚCI Załącznik nr 9 WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI ……………………………….
 Sygnatura literowo-cyfrowa Egz. nr….
 ........................, dnia .......... ….... r.
 Prokurator Generalny / Zastępca Prokuratora Okręgowego do spraw wojskowych w .......................................................
@@ -159,5 +160,5 @@ INFORMACJA O WYDANIU I WYKONANIU ZARZĄDZENIA DOTYCZĄCEGO ZNISZCZENIA MATERIAŁ
 nr .............. z dnia ........................ w sprawie zniszczenia materiałów zgromadzonych podczas stosowania kontroli operacyjnej prowadzonej w sprawie operacyjnej pod kryptonimem ................., numer ewid. ………….… w okresie od ..................... do ................, w dniu .........................................
 dokonano zniszczenia materiałów zgromadzonych podczas stosowania kontroli operacyjnej w postaci ....................................................................................................................................................................
 KOMENDANT .....................................................
-WZÓR
+str. …./… OZNACZENIE KLAUZULI TAJNOŚCI
 

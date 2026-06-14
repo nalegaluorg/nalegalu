@@ -8,10 +8,10 @@ pos: 1065
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 15 czerwca 2021 OBWIESZCZENIE MINISTRA KLIMATU I ŚRODOWISKA 7 czerwca 2021 w sprawie ogłoszenia jednolitego tekstu rozporządzenia w sprawie nadania siedzibą w Zakopanem
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1065 OBWIESZCZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 7 czerwca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,28 +25,32 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1065/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych U. 2019 1461) ogłasza się w załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia 18 lutego 2013 w sprawie nadania Narodowemu siedzibą w Zakopanem U. 2016 132), uwzględnieniem zmian wprowadzonych rozporządzeniem 4 marca 2019 zmieniającym w sprawie nadania siedzibą w Zakopanem U. 488).
-2. Podany w załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia 4 marca 2019 zmieniającego w sprawie nadania siedzibą w Zakopanem U. 488), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia.”.
-Minister Klimatu Środowiska: M. Kurtyka ROZPORZĄDZENIE MINISTRA ŚRODOWISKA 18 lutego 2013 w sprawie nadania siedzibą w Zakopanem Na podstawie art. 8f ustawy 16 kwietnia 2004 o ochronie przyrody U. 2020 55, 471 1378) zarządza się, co następuje: § 1. siedzibą w Zakopanem nadaje się statut, który stanowi załącznik rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od ogłoszenia .
-STATUT TATRZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W ZAKOPANEM § 1. Tatrzański Park Narodowy siedzibą w Zakopanem, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy 16 kwietnia 2004 o ochronie przyrody U. 2020 55, 471 1378) oraz niniejszego statutu.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie nadania statutu Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem (Dz. U. z 2016 r. poz. 132), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Środowiska z dnia 4 marca 2019 r. zmieniającym rozporządzenie w sprawie nadania statutu Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem (Dz. U. poz. 488).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 4 marca 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem (Dz. U. poz. 488), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Klimatu i Środowiska: M. Kurtyka ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
+w sprawie nadania statutu Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378) zarządza się, co następuje:
+§ 1. Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem nadaje się statut, który stanowi załącznik do rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
+STATUT TATRZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W ZAKOPANEM
+§ 1. Tatrzański Park Narodowy z siedzibą w Zakopanem, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne:
 1) Dział Ochrony Przyrody, w skład którego wchodzą:
 a) Straż Parku,
-b) obwody ochronne: Łysa Polana, Morskie Oko, Zazadnia, Kośne Hamry, Brzeziny, Gąsienicowa, Strążyska, Kuźnice, Kościeliska, Chochołowska;
-2) Dział Badań Naukowych Planowania Ochrony Przyrody;
+b) obwody ochronne: – Łysa Polana, – Morskie Oko, – Zazadnia, – Kośne Hamry, – Brzeziny, – Gąsienicowa, – Strążyska, – Kuźnice, – Kościeliska, – Chochołowska;
+2) Dział Badań Naukowych i Planowania Ochrony Przyrody;
 3) Dział Edukacji;
 4) Dział Udostępniania;
 5) Dział Administracji;
 6) Dział Finansowo-Księgowy;
-7) Zespół Spraw Komunikacji Wydawnictw;
-8) Zespół Zagospodarowania Przestrzennego Stanu Posiadania;
-8a) Samodzielne stanowisko spraw pracowniczych;
-9) Służba Bezpieczeństwa Higieny Pracy;
-10) Pełnomocnik spraw ochrony informacji niejawnych;
+7) Zespół do Spraw Komunikacji i Wydawnictw;
+8) Zespół Zagospodarowania Przestrzennego i Stanu Posiadania;
+8a) Samodzielne stanowisko do spraw pracowniczych;
+9) Służba Bezpieczeństwa i Higieny Pracy;
+10) Pełnomocnik do spraw ochrony informacji niejawnych;
 11) Sekretariat.
-§ 3. Dyrektor Parku może tworzyć komisje opiniodawczo-doradcze zespoły o charakterze stałym lub czasowym, określając ich nazwę, skład osobowy, zakres zadań, tryb pracy oraz sposób ich obsługi.
+§ 3. Dyrektor Parku może tworzyć komisje opiniodawczo-doradcze i zespoły o charakterze stałym lub czasowym, określając ich nazwę, skład osobowy, zakres zadań, tryb pracy oraz sposób ich obsługi.
 § 4. Dyrektor Parku kieruje działalnością Parku przy pomocy zastępcy lub zastępców dyrektora Parku, głównego księgowego oraz kierujących komórkami organizacyjnymi, o których mowa w § 2.
-§ 5. W razie nieobecności dyrektora Parku lub czasowej niezdolności wykonywania przez niego obowiązków, działalnością Parku kieruje reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.
-§ 6. Dyrektor Parku udziela pełnomocnictwa dokonywania czynności prawnych na piśmie.
+§ 5. W razie nieobecności dyrektora Parku lub czasowej niezdolności do wykonywania przez niego obowiązków, działalnością Parku kieruje i reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.
+§ 6. Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie.
 

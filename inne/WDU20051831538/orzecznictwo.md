@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi*
 
-Łącznie: **157** orzeczeń
-(pominięto 338 orzeczeń sądów rejonowych)
+Łącznie: **158** orzeczeń
+(pominięto 349 orzeczeń sądów rejonowych)
 
 ## art. 1 (4)
 
@@ -634,9 +634,10 @@ Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2005 r. o obrocie instrumentami
 
 - 2020-09-30 | SO | [V ACa 220/19](https://www.saos.org.pl/judgments/431759) | Wyrok
 
-## (ogólnie) (45)
+## (ogólnie) (46)
 
 - 2007-10-19 | SN | [I CSK 258/07](https://www.saos.org.pl/judgments/86713) | Wyrok ★
+- 2026-05-08 | SO | [VII AGa 454/25](https://www.saos.org.pl/judgments/546575) | Wyrok
 - 2024-03-25 | SO | [I AGa 250/22](https://www.saos.org.pl/judgments/521113) | Wyrok
 - 2023-11-06 | SO | [I AGa 281/22](https://www.saos.org.pl/judgments/495006) | Wyrok
 - 2022-05-09 | SO | [I ACa 1273/18](https://www.saos.org.pl/judgments/493500) | Wyrok

@@ -8,10 +8,10 @@ pos: 267
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 lutego 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 226677 UMOWA między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Turcji o wzajemnej ochronie informacji niejawnych w dziedzinie przemysłu obronnego, sporządzona w Ankarze dnia 24 maja 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/267/text.pdf) |
 
-226677 UMOWA między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Turcji o wzajemnej ochronie informacji niejawnych w dziedzinie przemysłu obronnego, sporządzona w Ankarze dnia 24 maja 2021 r.
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 24 maja 2021 roku w Ankarze została sporządzona Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Turcji o wzajemnej ochronie informacji niejawnych w dziedzinie przemysłu obronnego, w następującym brzmieniu: Po zaznajomieniu się z powyższą Umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 24 maja 2021 roku w Ankarze została sporządzona Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Turcji o wzajemnej ochronie informacji niejawnych w dziedzinie przemysłu obronnego, w następującym brzmieniu: Po zaznajomieniu się z powyższą Umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 Na dowód czego wydany został Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie, dnia 9 lutego 2022 roku.
 Prezydent Rzeczypospolitej Polskiej: A. Duda L.S.
+Prezes Rady Ministrów: M. Morawiecki
 

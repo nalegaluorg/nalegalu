@@ -8,10 +8,10 @@ pos: 453
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 kwietnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 453 Umowa między Rzecząpospolitą Polską a Republiką San Marino o wymianie informacji w sprawach podatkowych, podpisana w San Marino dnia 31 marca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000453) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/453/text.pdf) |
 
-Umowa między Rzecząpospolitą Polską a Republiką San Marino o wymianie informacji w sprawach podatkowych, podpisana w San Marino dnia 31 marca 2012 r.
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 31 marca 2012 r. w San Marino została podpisana Umowa między Rzecząpospolitą Polską a Republiką San Marino o wymianie informacji w sprawach podatkowych, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 31 marca 2012 r. w San Marino została podpisana Umowa między Rzecząpospolitą Polską a Republiką San Marino o wymianie informacji w sprawach podatkowych, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 8 stycznia 2013 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski L.S.
+Prezes Rady Ministrów: D. Tusk
 

@@ -8,7 +8,7 @@ pos: 2149
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
@@ -28,6 +28,9 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2149/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2016 r. poz. 713, 904, 960 i 1250) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Służba Więzienna, w zakresie określonym przez Ministra Sprawiedliwości, zapewnia porządek i bezpieczeństwo w urzędzie obsługującym Ministra Sprawiedliwości oraz w Prokuraturze Krajowej.”;
+- **2)** po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. W zakresie wykonywania zadań, o których mowa w art. 2 ust. 2b, przez jednostkę organizacyjną, o której mowa w przepisach niniejszego rozdziału, rozumie się także urząd obsługujący Ministra Sprawiedliwości oraz Prokuraturę Krajową.”.
 
 **Art. 2.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628 i 1165, z 2014 r. poz. 24 i 1199 oraz z 2016 r. poz. 904 i 1948) w art. 35 w ust. 2 pkt 10 otrzymuje brzmienie: „10) funkcjonariusz Służby Więziennej – wyłącznie w przypadku usiłowania bezpośredniego, bezprawnego zamachu na życie lub zdrowie uprawnionego lub innej osoby, usiłowania ucieczki przez osobę pozbawioną wolności, a także w pościgu za nią lub osobą, która dokonała bezpośredniego, bezprawnego zamachu na obiekty zakładu karnego, aresztu śledczego lub innej jednostki organizacyjnej, w której Służba Więzienna zapewnia porządek i bezpieczeństwo.”.
 

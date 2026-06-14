@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych*
 
 Łącznie: **63** orzeczeń
-(pominięto 271 orzeczeń sądów rejonowych)
+(pominięto 272 orzeczeń sądów rejonowych)
 
 ## art. 3 (5)
 

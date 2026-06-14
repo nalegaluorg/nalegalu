@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 6 kwietnia 1990 r. o Policji.*
 
-Łącznie: **560** orzeczeń
-(pominięto 511 orzeczeń sądów rejonowych)
+Łącznie: **561** orzeczeń
+(pominięto 521 orzeczeń sądów rejonowych)
 
 ## art. 1 (39)
 
@@ -265,9 +265,10 @@ Orzeczenia powołujące: *Ustawa z dnia 6 kwietnia 1990 r. o Policji.*
 
 - 2020-02-05 | SO | [I ACa 308/19](https://www.saos.org.pl/judgments/408449) | Wyrok
 
-## art. 19 (150)
+## art. 19 (151)
 
 - 2015-11-17 | SN | [III KK 245/15](https://www.saos.org.pl/judgments/243871) | Postanowienie
+- 2025-06-18 | SO | [II AKa 341/24](https://www.saos.org.pl/judgments/545379) | Wyrok
 - 2025-02-26 | SO | [II AKa 69/22](https://www.saos.org.pl/judgments/532731) | Wyrok
 - 2024-10-14 | SO | [II AKa 225/23](https://www.saos.org.pl/judgments/523148) | Wyrok
 - 2023-05-23 | SO | [II AKa 161/22](https://www.saos.org.pl/judgments/500536) | Wyrok

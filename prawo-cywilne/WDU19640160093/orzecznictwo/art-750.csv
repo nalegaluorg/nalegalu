@@ -251,8 +251,13 @@ saos_id|date|court|case_number|type|score|saos_url
 85897|2007-05-15|SN|V CZ 32/07|Postanowienie|69|https://www.saos.org.pl/judgments/85897
 162799|2004-12-17|SN|II CZ 150/04|Postanowienie|69|https://www.saos.org.pl/judgments/162799
 162682|2003-05-23|SN|I PK 47/03|Postanowienie|69|https://www.saos.org.pl/judgments/162682
+545919|2026-03-16|SO|I ACa 336/26|Wyrok|56|https://www.saos.org.pl/judgments/545919
 541813|2025-12-18|SO|I ACa 246/23|Wyrok|56|https://www.saos.org.pl/judgments/541813
+546062|2025-12-16|SO|I AGa 303/23|Wyrok|56|https://www.saos.org.pl/judgments/546062
+546681|2025-12-12|SO|I AGa 350/23|Wyrok|56|https://www.saos.org.pl/judgments/546681
 544742|2025-12-12|SO|I AGa 92/23|Wyrok|56|https://www.saos.org.pl/judgments/544742
+545141|2025-12-10|SO|I AGa 368/23|Wyrok|56|https://www.saos.org.pl/judgments/545141
+546057|2025-12-05|SO|I ACa 765/23|Wyrok|56|https://www.saos.org.pl/judgments/546057
 544345|2025-11-14|SO|I ACa 450/23|Wyrok|56|https://www.saos.org.pl/judgments/544345
 543915|2025-11-07|SO|I AGa 74/24|Wyrok|56|https://www.saos.org.pl/judgments/543915
 544826|2025-10-31|SO|I AGa 24/23|Wyrok|56|https://www.saos.org.pl/judgments/544826
@@ -268,6 +273,7 @@ saos_id|date|court|case_number|type|score|saos_url
 537676|2025-03-07|SO|I ACa 1280/22|Wyrok|56|https://www.saos.org.pl/judgments/537676
 531780|2025-02-25|SO|III AUa 462/23|Wyrok|56|https://www.saos.org.pl/judgments/531780
 540484|2025-02-11|SO|III AUa 212/24|Wyrok|56|https://www.saos.org.pl/judgments/540484
+545915|2025-01-21|SO|I ACa 2251/23|Wyrok|56|https://www.saos.org.pl/judgments/545915
 538426|2025-01-16|SO|III AUa 533/23|Wyrok|56|https://www.saos.org.pl/judgments/538426
 539090|2025-01-15|SO|III AUa 32/24|Wyrok|56|https://www.saos.org.pl/judgments/539090
 537892|2024-12-30|SO|III AUa 1036/23|Wyrok|56|https://www.saos.org.pl/judgments/537892
@@ -296,6 +302,7 @@ saos_id|date|court|case_number|type|score|saos_url
 519166|2024-02-08|SO|I AGa 182/22|Wyrok|56|https://www.saos.org.pl/judgments/519166
 505048|2024-02-01|SO|III AUa 533/22|Wyrok|56|https://www.saos.org.pl/judgments/505048
 517934|2024-01-25|SO|I AGa 128/22|Wyrok|56|https://www.saos.org.pl/judgments/517934
+545730|2023-12-29|SO|I AGa 214/22|Wyrok|56|https://www.saos.org.pl/judgments/545730
 505153|2023-12-20|SO|III AUa 747/22|Wyrok|56|https://www.saos.org.pl/judgments/505153
 504735|2023-12-12|SO|III AUa 1361/22|Wyrok|56|https://www.saos.org.pl/judgments/504735
 494867|2023-12-07|SO|I AGa 115/23|Wyrok|56|https://www.saos.org.pl/judgments/494867

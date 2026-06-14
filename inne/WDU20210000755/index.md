@@ -8,10 +8,10 @@ pos: 755
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 kwietnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 755 Załączniki do rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 26 lipca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,18 +22,17 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-06 |
 | Data wydania | 2021-04-23 |
-| Ostatnia zmiana | 2025-08-18 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/755/text.pdf) |
 
-## Załącznik nr 1 — Standard kształcenia przygotowującego do wykonywania zawodu lekarza I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
-
+(poz. …) Załącznik nr 1 Standard kształcenia przygotowującego do wykonywania zawodu lekarza I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
 1. WYMAGANIA OGÓLNE
 1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu lekarza prowadzonego na studiach na kierunku lekarskim, zwanych dalej „studiami”.
 1.2. Studia są jednolitymi studiami magisterskimi.
 1.3. Studia trwają 12 semestrów.
 1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 5700.
 1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 360.
-1.6. Kierunek lekarski jest przyporządkowany do dyscypliny naukowej nauki medyczne, jako dyscypliny wiodącej.
+1.6. Kierunek lekarski jest przyporządkowany do dyscypliny naukowej – nauki medyczne, jako dyscypliny wiodącej.
 1.7. Studia mają profil ogólnoakademicki.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
@@ -158,7 +157,7 @@ C.W13. epidemiologię zarażeń wirusami i bakteriami oraz zakażeń grzybami i 
 C.W14. wpływ abiotycznych i biotycznych (wirusy, bakterie) czynników środowiska na organizm człowieka i populację ludzi oraz drogi ich wnikania do organizmu człowieka;
 C.W15. konsekwencje narażenia organizmu człowieka na różne czynniki chemiczne i biologiczne oraz zasady profilaktyki;
 C.W16. inwazyjne dla człowieka formy lub stadia rozwojowe wybranych pasożytniczych grzybów, pierwotniaków, helmintów i stawonogów, z uwzględnieniem geograficznego zasięgu ich występowania;
-C.W17. zasadę funkcjonowania układu pasożyt żywiciel i podstawowe objawy chorobowe wywoływane przez pasożyty;
+C.W17. zasadę funkcjonowania układu pasożyt – żywiciel i podstawowe objawy chorobowe wywoływane przez pasożyty;
 C.W18. objawy zakażeń jatrogennych, drogi ich rozprzestrzeniania się i patogeny wywołujące zmiany w poszczególnych narządach;
 C.W19. podstawy diagnostyki mikrobiologicznej i parazytologicznej;
 C.W20. podstawy dezynfekcji, sterylizacji i postępowania aseptycznego;
@@ -172,7 +171,7 @@ C.W27. podstawowe mechanizmy uszkadzania komórek i tkanek;
 C.W28. przebieg kliniczny zapaleń swoistych i nieswoistych oraz procesy regeneracji tkanek i narządów;
 C.W29. definicję i patofizjologię wstrząsu, ze szczególnym uwzględnieniem różnicowania przyczyn wstrząsu oraz niewydolności wielonarządowej;
 C.W30. etiologię zaburzeń hemodynamicznych, zmian wstecznych i zmian postępowych;
-C.W31. zagadnienia z zakresu szczegółowej patologii narządowej, obrazy makroi mikroskopowe oraz przebieg kliniczny zmian patomorfologicznych w poszczególnych narządach;
+– 15 – C.W31. zagadnienia z zakresu szczegółowej patologii narządowej, obrazy makroi mikroskopowe oraz przebieg kliniczny zmian patomorfologicznych w poszczególnych narządach;
 C.W32. konsekwencje rozwijających się zmian patologicznych dla sąsiadujących topograficznie narządów;
 C.W33. czynniki chorobotwórcze zewnętrzne i wewnętrzne, modyfikowalne i niemodyfikowalne;
 C.W34. postacie kliniczne najczęstszych chorób poszczególnych układów i narządów, chorób metabolicznych oraz zaburzeń gospodarki wodno-elektrolitowej, hormonalnej i kwasowo-zasadowej;
@@ -200,7 +199,7 @@ C.U4. wykonywać pomiary morfometryczne, analizować morfogram i zapisywać kari
 C.U5. szacować ryzyko ujawnienia się danej choroby u potomstwa w oparciu o predyspozycje rodzinne i wpływ czynników środowiskowych;
 C.U6. oceniać zagrożenia środowiskowe i posługiwać się podstawowymi metodami pozwalającymi na wykrycie obecności czynników szkodliwych (biologicznych i chemicznych) w biosferze;
 C.U7. rozpoznawać najczęściej spotykane pasożyty człowieka na podstawie ich budowy, cykli życiowych i objawów chorobowych;
-C.U8. posługiwać się reakcją antygen przeciwciało w aktualnych modyfikacjach i technikach dla diagnostyki chorób zakaźnych, alergicznych, autoimmunizacyjnych i nowotworowych oraz chorób krwi;
+C.U8. posługiwać się reakcją antygen – przeciwciało w aktualnych modyfikacjach i technikach dla diagnostyki chorób zakaźnych, alergicznych, autoimmunizacyjnych i nowotworowych oraz chorób krwi;
 C.U9. przygotowywać preparaty i rozpoznawać patogeny pod mikroskopem;
 C.U10. interpretować wyniki badań mikrobiologicznych;
 C.U11. powiązać obrazy uszkodzeń tkankowych i narządowych z objawami klinicznymi choroby, wywiadem i wynikami oznaczeń laboratoryjnych;
@@ -234,7 +233,7 @@ D.W18. zasady pracy w zespole;
 D.W19. kulturowe, etniczne i narodowe uwarunkowania zachowań ludzkich;
 D.W20. historię medycyny, medycynę ludów pierwotnych i najdawniejszych cywilizacji oraz charakterystyczne cechy medycyny średniowiecznej;
 D.W21. cechy medycyny nowożytnej i jej najważniejsze odkrycia;
-D.W22. proces kształtowania się nowych specjalności w zakresie dyscypliny naukowej nauki medyczne i osiągnięcia czołowych przedstawicieli medycyny polskiej i światowej;
+D.W22. proces kształtowania się nowych specjalności w zakresie dyscypliny naukowej – nauki medyczne i osiągnięcia czołowych przedstawicieli medycyny polskiej i światowej;
 D.W23. podstawy medycyny opartej na dowodach.
 W zakresie umiejętności absolwent potrafi: D.U1. uwzględniać w procesie postępowania terapeutycznego subiektywne potrzeby i oczekiwania pacjenta wynikające z uwarunkowań społeczno-kulturowych;
 D.U2. dostrzegać oznaki zachowań antyzdrowotnych i autodestrukcyjnych oraz właściwie na nie reagować;
@@ -268,14 +267,14 @@ E.W3. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w 
 9) najczęstszych chorób zakaźnych wieku dziecięcego,
 10) zespołów genetycznych,
 11) chorób tkanki łącznej, gorączki reumatycznej, młodzieńczego zapalenia stawów, tocznia układowego, zapalenia skórno-mięśniowego;
-E.W4. zagadnienia dziecka maltretowanego i wykorzystywania seksualnego, upośledzenia umysłowego oraz zaburzeń zachowania psychoz, uzależnień, zaburzeń odżywiania i wydalania u dzieci;
+E.W4. zagadnienia dziecka maltretowanego i wykorzystywania seksualnego, upośledzenia umysłowego oraz zaburzeń zachowania – psychoz, uzależnień, zaburzeń odżywiania i wydalania u dzieci;
 E.W5. podstawowe sposoby diagnostyki i terapii płodu;
 E.W6. najczęściej występujące stany zagrożenia życia u dzieci i zasady postępowania w tych stanach;
-E.W7. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w odniesieniu do najczęstszych chorób wewnętrznych występujących u osób dorosłych oraz ich powikłań:
-1) chorób układu krążenia, w tym choroby niedokrwiennej serca, wad serca, chorób wsierdzia, mięśnia serca, osierdzia, niewydolności serca (ostrej i przewlekłej), chorób naczyń tętniczych i żylnych, nadciśnienia tętniczego pierwotnego i wtórnego, nadciśnienia płucnego,
+E.W7. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w odniesieniu do najczęstszych chorób wewnętrznych występujących u osób dorosłych oraz ich powikłań: – 21 –
+1) chorób układu krążenia, w tym choroby niedokrwiennej serca, wad serca, chorób wsierdzia, mięśnia serca, osierdzia, niewydolności serca (ostrej i przewlekłej), chorób naczyń tętniczych i żylnych, nadciśnienia tętniczego – pierwotnego i wtórnego, nadciśnienia płucnego,
 2) chorób układu oddechowego, w tym chorób dróg oddechowych, przewlekłej obturacyjnej choroby płuc, astmy oskrzelowej, rozstrzenia oskrzeli, mukowiscydozy, zakażeń układu oddechowego, chorób śródmiąższowych płuc, opłucnej, śródpiersia, obturacyjnego i centralnego bezdechu sennego, niewydolności oddechowej (ostrej i przewlekłej), nowotworów układu oddechowego,
 3) chorób układu pokarmowego, w tym chorób jamy ustnej, przełyku, żołądka i dwunastnicy, jelit, trzustki, wątroby, dróg żółciowych i pęcherzyka żółciowego,
-4) chorób układu wydzielania wewnętrznego, w tym chorób podwzgórza i przysadki, tarczycy, przytarczyc, kory i rdzenia nadnerczy, jajników i jąder oraz guzów neuroendokrynnych, zespołów wielogruczołowych, różnych typów cukrzycy i zespołu metabolicznego hipoglikemii, otyłości, dyslipidemii,
+4) chorób układu wydzielania wewnętrznego, w tym chorób podwzgórza i przysadki, tarczycy, przytarczyc, kory i rdzenia nadnerczy, jajników i jąder oraz guzów neuroendokrynnych, zespołów wielogruczołowych, różnych typów cukrzycy i zespołu metabolicznego – hipoglikemii, otyłości, dyslipidemii,
 5) chorób nerek i dróg moczowych, w tym ostrych i przewlekłych niewydolności nerek, chorób kłębuszków nerkowych i śródmiąższowych nerek, torbieli nerek, kamicy nerkowej, zakażeń układu moczowego, nowotworów układu moczowego, w szczególności pęcherza moczowego i nerki,
 6) chorób układu krwiotwórczego, w tym aplazji szpiku, niedokrwistości, granulocytopenii i agranulocytozy, małopłytkowości, białaczek ostrych, nowotworów mieloproliferacyjnych i mielodysplastyczno-mieloproliferacyjnych, zespołów mielodysplastycznych, nowotworów z dojrzałych limfocytów B i T, skaz krwotocznych, trombofilii, stanów bezpośredniego zagrożenia życia w hematologii, zaburzeń krwi w chorobach innych narządów,
 7) chorób reumatycznych, w tym chorób układowych tkanki łącznej, układowych zapaleń naczyń, zapaleń stawów z zajęciem kręgosłupa, chorób metabolicznych kości, w szczególności osteoporozy i choroby zwyrodnieniowej stawów, dny moczanowej,
@@ -342,7 +341,7 @@ E.U4. przeprowadzać badanie fizykalne dziecka w każdym wieku;
 E.U5. przeprowadzać badanie psychiatryczne;
 E.U6. przeprowadzać orientacyjne badanie słuchu i pola widzenia oraz badanie otoskopowe;
 E.U7. oceniać stan ogólny, stan przytomności i świadomości pacjenta;
-E.U8. oceniać stan noworodka w skali Apgar i jego dojrzałość oraz badać odruchy noworodkowe;
+– 25 – E.U8. oceniać stan noworodka w skali Apgar i jego dojrzałość oraz badać odruchy noworodkowe;
 E.U9. zestawiać pomiary antropometryczne i ciśnienia krwi z danymi na siatkach centylowych;
 E.U10. oceniać stopień zaawansowania dojrzewania płciowego;
 E.U11. przeprowadzać badania bilansowe;
@@ -479,7 +478,7 @@ G.W13. podstawy prawne i zasady postępowania lekarza podczas oględzin zwłok n
 G.W14. zasady diagnostyki sądowo-lekarskiej i opiniowania w przypadkach dotyczących dzieciobójstwa i rekonstrukcji okoliczności wypadku drogowego;
 G.W15. zasady sporządzania opinii w charakterze biegłego w sprawach karnych;
 G.W16. zasady opiniowania sądowo-lekarskiego dotyczące zdolności do udziału w czynnościach procesowych, skutku biologicznego oraz uszczerbku na zdrowiu;
-G.W17. pojęcie błędu medycznego, najczęstsze przyczyny błędów medycznych i zasady opiniowania w takich przypadkach;
+– 32 – G.W17. pojęcie błędu medycznego, najczęstsze przyczyny błędów medycznych i zasady opiniowania w takich przypadkach;
 G.W18. zasady pobierania materiału do badań toksykologicznych i hemogenetycznych.
 W zakresie umiejętności absolwent potrafi: G.U1. opisywać strukturę demograficzną ludności i na tej podstawie oceniać problemy zdrowotne populacji;
 G.U2. zbierać informacje na temat obecności czynników ryzyka chorób zakaźnych i przewlekłych oraz planować działania profilaktyczne na różnym poziomie zapobiegania;
@@ -496,14 +495,16 @@ IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
 3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru (Multiple Choice Questions, MCQ), testy wielokrotnej odpowiedzi (Multiple Response Questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
 4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
 5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w czasie tradycyjnego egzaminu klinicznego lub egzaminu standaryzowanego (Objective Structured Clinical Examination, OSCE) i jego modyfikacji (Mini-Cex). Egzamin OSCE jest wskazany w szczególności jako forma sprawdzania całości umiejętności klinicznych nabytych w trakcie praktycznego nauczania klinicznego na VI roku studiów.
-Standard kształcenia przygotowującego do wykonywania zawodu lekarza dentysty I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
+## Załącznik nr 2 — Standard kształcenia przygotowującego do wykonywania zawodu lekarza dentysty I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
 1. WYMAGANIA OGÓLNE
 1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu lekarza dentysty prowadzonego na studiach na kierunku lekarsko-dentystycznym, zwanych dalej „studiami”.
 1.2. Studia są jednolitymi studiami magisterskimi.
 1.3. Studia trwają 10 semestrów.
 1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 5000.
 1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 300.
-1.6. Kierunek lekarsko-dentystyczny jest przyporządkowany do dyscypliny naukowej nauki medyczne, jako dyscypliny wiodącej.
+1.6. Kierunek lekarsko-dentystyczny jest przyporządkowany do dyscypliny naukowej – nauki medyczne, jako dyscypliny wiodącej.
 1.7. Studia mają profil ogólnoakademicki.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
@@ -535,8 +536,8 @@ II. OSOBY PROWADZĄCE KSZTAŁCENIE Kształcenie służące osiągnięciu efektó
 III. EFEKTY UCZENIA SIĘ
 1. OGÓLNE EFEKTY UCZENIA SIĘ
 1.1. W zakresie wiedzy absolwent zna i rozumie:
-1) zagadnienia z zakresu medycyny i nauk przyrodniczych w podstawowym zakresie;
-2) zagadnienia z zakresu stomatologii w stopniu zaawansowanym;
+1) zagadnienia z zakresu medycyny i nauk przyrodniczych – w podstawowym zakresie;
+2) zagadnienia z zakresu stomatologii – w stopniu zaawansowanym;
 3) problematykę edukacji prozdrowotnej;
 4) zasady prowadzenia badań naukowych i upowszechniania ich wyników;
 5) organizację praktyki lekarza dentysty i zasady zarządzania w systemie ochrony zdrowia.
@@ -585,7 +586,7 @@ B.W12. zasady działania laserów w stomatologii;
 B.W13. zasady działania sprzętu stomatologicznego;
 B.W14. podstawowe pojęcia z zakresu biologii i ekologii;
 B.W15. współzależności między organizmami w ekosystemie;
-B.W16. interakcje w układzie pasożyt żywiciel;
+B.W16. interakcje w układzie pasożyt – żywiciel;
 B.W17. wybrane zagadnienia z zakresu genetyki i biologii molekularnej;
 B.W18. kliniczne zastosowanie zasad genetyki;
 B.W19. funkcje życiowe człowieka;
@@ -596,7 +597,7 @@ B.W23. wartość liczbową podstawowych zmiennych fizjologicznych i zmiany warto
 W zakresie umiejętności absolwent potrafi: B.U1. odnosić zjawiska chemiczne do procesów zachodzących w jamie ustnej;
 B.U2. interpretować zjawiska fizyczne zachodzące w narządzie żucia;
 B.U3. wykorzystywać procesy fizyczne właściwe dla pracy lekarza dentysty;
-B.U4. wykorzystywać pojęcia biologiczne i ekologiczne w kontekście człowiek środowisko życia;
+B.U4. wykorzystywać pojęcia biologiczne i ekologiczne w kontekście człowiek – środowisko życia;
 B.U5. stosować wiedzę z zakresu genetyki i biologii molekularnej w pracy klinicznej.
 C. NAUKI PRZEDKLINICZNE W zakresie wiedzy absolwent zna i rozumie: C.W1. rodzaje i gatunki oraz budowę wirusów, bakterii, grzybów i pasożytów, ich cechy biologiczne i mechanizmy chorobotwórczości;
 C.W2. fizjologiczną florę bakteryjną człowieka;
@@ -663,7 +664,7 @@ D.W13. zasady funkcjonowania zespołu terapeutycznego;
 D.W14. imperatyw i wzorzec zachowania lekarza i lekarza dentysty ustalony przez samorząd zawodowy lekarzy i lekarzy dentystów;
 D.W15. prawa pacjenta;
 D.W16. historię medycyny, ze szczególnym uwzględnieniem historii stomatologii;
-D.W17. proces kształtowania się nowych specjalności w zakresie dyscypliny naukowej nauki medyczne i osiągnięcia czołowych przedstawicieli medycyny polskiej i światowej.
+D.W17. proces kształtowania się nowych specjalności w zakresie dyscypliny naukowej – nauki medyczne i osiągnięcia czołowych przedstawicieli medycyny polskiej i światowej.
 W zakresie umiejętności absolwent potrafi: D.U1. uwzględniać w procesie postępowania terapeutycznego subiektywne potrzeby i oczekiwania pacjenta wynikające z uwarunkowań społeczno-kulturowych;
 D.U2. dostrzegać i reagować na oznaki zachowań antyzdrowotnych i autodestrukcyjnych;
 D.U3. wybierać takie leczenie, które minimalizuje konsekwencje społeczne dla pacjenta;
@@ -704,7 +705,7 @@ W zakresie umiejętności absolwent potrafi: E.U1. przeprowadzać diagnostykę r
 E.U2. oceniać i opisywać stan somatyczny i psychiczny pacjenta;
 E.U3. planować postępowanie diagnostyczne i terapeutyczne w przypadku najczęstszych chorób;
 E.U4. interpretować wyniki badań laboratoryjnych;
-E.U5. identyfikować prawidłowe i patologiczne struktury i narządy w dodatkowych badaniach obrazowych (RTG, USG, tomografia komputerowa CT);
+E.U5. identyfikować prawidłowe i patologiczne struktury i narządy w dodatkowych badaniach obrazowych (RTG, USG, tomografia komputerowa – CT);
 E.U6. planować postępowanie w przypadku ekspozycji na zakażenie przenoszone drogą krwi;
 E.U7. dokonywać kwalifikacji pacjenta do szczepień;
 E.U8. rozpoznawać ryzyko zagrożenia życia;
@@ -737,7 +738,7 @@ F.W14. metody rehabilitacji narządu żucia;
 F.W15. metody terapeutyczne ograniczania i znoszenia bólu oraz ograniczania lęku i stresu;
 F.W16. zasady znieczulenia w zabiegach stomatologicznych i podstawowe środki farmakologiczne;
 F.W17. zasady budowy i działania aparatów ortodontycznych ruchomych i stałych;
-F.W18. zasady diagnostyki radiologicznej;
+– 49 – F.W18. zasady diagnostyki radiologicznej;
 F.W19. patomechanizm oddziaływania chorób jamy ustnej na ogólny stan zdrowia;
 F.W20. patomechanizm oddziaływania chorób ogólnych lub stosowanych terapii na jamę ustną;
 F.W21. profilaktykę chorób jamy ustnej;
@@ -840,22 +841,24 @@ IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
 3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru (Multiple Choice Questions, MCQ), testy wielokrotnej odpowiedzi (Multiple Response Questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
 4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
 5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w czasie tradycyjnego egzaminu klinicznego lub egzaminu standaryzowanego (Objective Structured Clinical Examination, OSCE) i jego modyfikacji (Mini-Cex). Egzamin OSCE jest wskazany w szczególności jako forma sprawdzania całości umiejętności klinicznych nabytych w trakcie praktycznego nauczania klinicznego na V roku studiów.
-Standard kształcenia przygotowującego do wykonywania zawodufarmaceuty I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
+## Załącznik nr 3 — Standard kształcenia przygotowującego do wykonywania zawodufarmaceuty I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
 1. WYMAGANIA OGÓLNE
 1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu farmaceuty prowadzonego na studiach na kierunku farmacja, zwanych dalej „studiami”.
 1.2. Studia są jednolitymi studiami magisterskimi.
 1.3. Studia trwają nie krócej niż 10 semestrów.
 1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 5300.
 1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 300.
-1.6. Kierunek farmacja jest przyporządkowany do dyscypliny naukowej nauki farmaceutyczne, jako dyscypliny wiodącej.
+1.6. Kierunek farmacja jest przyporządkowany do dyscypliny naukowej – nauki farmaceutyczne, jako dyscypliny wiodącej.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
-1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej nauki farmaceutyczne (np. synteza i technologia środków leczniczych, chemia leków, technologia postaci leku, farmakologia, farmakodynamika, farmakokinetyka);
-2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej nauki farmaceutyczne (np. opieka farmaceutyczna i farmacja społeczna, metody biologii molekularnej i biotechnologia farmaceutyczna);
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej – nauki farmaceutyczne (np. synteza i technologia środków leczniczych, chemia leków, technologia postaci leku, farmakologia, farmakodynamika, farmakokinetyka);
+2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej – nauki farmaceutyczne (np. opieka farmaceutyczna i farmacja społeczna, metody biologii molekularnej i biotechnologia farmaceutyczna);
 3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom (np. projektowanie leków, farmacja kliniczna, farmacja przemysłowa).
 2.2. W przypadku studiów o profilu:
-1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów, i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
-2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+1) ogólnoakademickim – program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów, i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym – program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
 3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się Liczba godzin Liczba szczegółowe efekty uczenia się punktów ECTS A. Biomedyczne i humanistyczne podstawy farmacji 630 78 B. Fizykochemiczne podstawy farmacji 520 C. Analiza, synteza i technologia leków 840 145 D. Biofarmacja i skutki działania leków 530 (w tym 20 E. Praktyka farmaceutyczna 635 w grupie zajęć F) F. Metodologia badań naukowych 375 G. Praktyki zawodowe 1280 45 Razem 4810 268
 3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 490 godzin zajęć (32 punkty ECTS), które mogą być realizowane jako zajęcia uzupełniające efekty uczenia się w kategoriach wiedzy, umiejętności lub kompetencji społecznych, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
 3.2. Zajęcia z języka obcego są realizowane w grupie zajęć E. Na nauczanie języka obcego mogą być przeznaczone również godziny zajęć w ramach godzin pozostawionych do dyspozycji uczelni. W przypadku gdy łączna liczba godzin zajęć z języków obcych jest większa niż 180, uczelnia zwiększa o tę nadwyżkę ogólną liczbę godzin zajęć w programie studiów.
@@ -866,7 +869,7 @@ Standard kształcenia przygotowującego do wykonywania zawodufarmaceuty I. SPOS�
 3.5. Nie mniej niż 60% godzin zajęć w grupach zajęć A–F stanowią seminaria, ćwiczenia audytoryjne lub laboratoryjne.
 3.6. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
 3.7. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 25% liczby punktów ECTS koniecznej do ukończenia studiów.
-4. PRAKTYKI ZAWODOWE Rodzaj Zakres praktyk zawodowych Liczba Liczba praktyk godzin punktów zawodowych ECTS Praktyki miesięczna praktyka w aptece ogólnodostępnej (po III 160 6 wakacyjne roku studiów) miesięczna praktyka w aptece szpitalnej, z 160 6 możliwością odbycia jej części w wymiarze nieprzekraczającym 80 godzin w przedsiębiorstwach z sektora przemysłu farmaceutycznego, laboratoriach kontroli leków, stacjach sanitarno-epidemiologicznych lub oddziałach szpitalnych (po IV roku studiów) Praktyka sześciomiesięczna praktyka w aptece 960 33 w aptece ogólnodostępnej, z możliwością odbycia jej części w wymiarze nieprzekraczającym 3 miesięcy w aptece szpitalnej (po przygotowaniu pracy dyplomowej i egzaminie dyplomowym) Razem 1280 45
+4. PRAKTYKI ZAWODOWE Rodzaj Zakres praktyk zawodowych Liczba Liczba praktyk godzin punktów zawodowych ECTS Praktyki miesięczna praktyka w aptece ogólnodostępnej (po III 160 6 wakacyjne roku studiów) miesięczna praktyka w aptece szpitalnej, z 160 6 możliwością odbycia jej części – w wymiarze nieprzekraczającym 80 godzin – w przedsiębiorstwach z sektora przemysłu farmaceutycznego, laboratoriach kontroli leków, stacjach sanitarno-epidemiologicznych lub oddziałach szpitalnych (po IV roku studiów) Praktyka sześciomiesięczna praktyka w aptece 960 33 w aptece ogólnodostępnej, z możliwością odbycia jej części – w wymiarze nieprzekraczającym 3 miesięcy – w aptece szpitalnej (po przygotowaniu pracy dyplomowej i egzaminie dyplomowym) Razem 1280 45
 4.1. Sześciomiesięczna praktyka w aptece stanowi integralną część procesu kształcenia i jest odbywana zgodnie z art. 2b ust. 1 pkt 1 i art. 2c ust. 1–5 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2019 r. poz. 1419, z późn. zm.) oraz przepisami wydanymi na podstawie art. 2c ust. 6 tej ustawy. Praktyka umożliwia nabycie umiejętności w zakresie:
 1) organizacji pracy w aptece;
 2) sporządzania, przechowywania i wydawania leków recepturowych i aptecznych oraz produktów leczniczych;
@@ -878,12 +881,12 @@ Szczegółowy program praktyk, formę ich odbywania i sposób weryfikacji osiąg
 5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
 5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się. Zajęcia kształtujące umiejętności praktyczne przewidziane programem studiów są realizowane w odpowiednio wyposażonych pracowniach, laboratoriach, aptekach oraz oddziałach szpitalnych.
 5.2. Nauczanie praktyczne może odbywać się w oparciu o infrastrukturę uczelni lub podmiotów wykonujących działalność leczniczą, z którymi uczelnie zawarły umowy lub porozumienia.
-II. OSOBY PROWADZĄCE KSZTAŁCENIE Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupach zajęć A–E jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie dyscyplin naukowych nauki farmaceutyczne lub nauki medyczne, właściwym dla prowadzonych zajęć.
+II. OSOBY PROWADZĄCE KSZTAŁCENIE Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupach zajęć A–E jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie dyscyplin naukowych – nauki farmaceutyczne lub nauki medyczne, właściwym dla prowadzonych zajęć.
 III. EFEKTY UCZENIA SIĘ
 1. OGÓLNE EFEKTY UCZENIA SIĘ
 1.1. W zakresie wiedzy absolwent zna i rozumie:
-1) problematykę z zakresu dyscypliny naukowej nauki farmaceutyczne w stopniu zaawansowanym;
-2) problematykę z zakresu dyscyplin naukowych nauki medyczne (w tym etiologię najczęstszych jednostek chorobowych), nauki biologiczne, nauki chemiczne, a także z dziedziny nauk społecznych w stopniu ogólnym;
+1) problematykę z zakresu dyscypliny naukowej – nauki farmaceutyczne – w stopniu zaawansowanym;
+2) problematykę z zakresu dyscyplin naukowych – nauki medyczne (w tym etiologię najczęstszych jednostek chorobowych), nauki biologiczne, nauki chemiczne, a także z dziedziny nauk społecznych – w stopniu ogólnym;
 3) produkty lecznicze, substancje lecznicze i substancje wykorzystywane do wytwarzania leków, technologię farmaceutyczną, skutki działania substancji i produktów leczniczych na organizm człowieka;
 4) metody i techniki badania substancji i produktów leczniczych pod względem fizykochemicznym, farmaceutycznym, farmakokinetycznym, farmakologicznym, toksykologicznym i klinicznym;
 5) zasady praktycznej farmakoterapii specjalistycznej w zakresie medycyny rodzinnej, chorób wewnętrznych, pediatrii i geriatrii;
@@ -983,8 +986,8 @@ B.W13. kryteria wyboru metody analitycznej;
 B.W14. zasady walidacji metody analitycznej;
 B.W15. podstawy termodynamiki i kinetyki chemicznej oraz kwantowe podstawy budowy materii;
 B.W16. fizykochemię układów wielofazowych i zjawisk powierzchniowych oraz mechanizmy katalizy;
-i B.W17. podział związków węgla i nomenklaturę związków organicznych;
-B.W18. strukturę związków organicznych w ujęciu teorii orbitali atomowych molekularnych oraz efekt rezonansowy i indukcyjny;
+B.W17. podział związków węgla i nomenklaturę związków organicznych;
+B.W18. strukturę związków organicznych w ujęciu teorii orbitali atomowych i molekularnych oraz efekt rezonansowy i indukcyjny;
 B.W19. typy i mechanizmy reakcji chemicznych związków organicznych (substytucja, addycja, eliminacja);
 B.W20. systematykę związków organicznych według grup funkcyjnych i ich właściwości;
 B.W21. budowę i właściwości związków heterocyklicznych oraz wybranych związków naturalnych: węglowodanów, steroidów, terpenów, lipidów, peptydów i białek;
@@ -1016,10 +1019,10 @@ C.W7. metody kontroli jakości leków znakowanych izotopami;
 C.W8. trwałość podstawowych substancji leczniczych i możliwe reakcje ich rozkładu oraz czynniki wpływające na ich trwałość;
 C.W9. problematykę leków sfałszowanych;
 C.W10. metody wytwarzania przykładowych substancji leczniczych, stosowane operacje fizyczne oraz jednostkowe procesy chemiczne;
-i C.W11. wymagania dotyczące opisu sposobu wytwarzania i oceny jakości substancji leczniczej w dokumentacji rejestracyjnej;
+C.W11. wymagania dotyczące opisu sposobu wytwarzania i oceny jakości substancji leczniczej w dokumentacji rejestracyjnej;
 C.W12. metody otrzymywania i rozdzielania optycznie czynnych substancji leczniczych oraz metody otrzymywania różnych form polimorficznych;
 C.W13. metody poszukiwania nowych substancji leczniczych;
-C.W14. problematykę ochrony patentowej substancji do celów farmaceutycznych produktów leczniczych;
+C.W14. problematykę ochrony patentowej substancji do celów farmaceutycznych i produktów leczniczych;
 C.W15. właściwości fizykochemiczne i funkcjonalne podstawowych substancji pomocniczych stosowanych w technologii postaci leku;
 C.W16. potencjał produkcyjny żywych komórek i organizmów oraz możliwości jego regulacji metodami biotechnologicznymi;
 C.W17. warunki hodowli żywych komórek i organizmów oraz procesy wykorzystywane w biotechnologii farmaceutycznej wraz z oczyszczaniem otrzymywanych substancji leczniczych;
@@ -1038,7 +1041,7 @@ C.W29. podstawowe procesy technologiczne oraz urządzenia stosowane w technologi
 C.W30. metody sporządzania płynnych, półstałych i stałych postaci leku w skali laboratoryjnej i przemysłowej oraz wpływ parametrów procesu technologicznego na właściwości postaci leku;
 C.W31. metody postępowania aseptycznego oraz uzyskiwania jałowości produktów leczniczych, substancji i materiałów;
 C.W32. rodzaje opakowań i systemów dozujących;
-C.W33. zasady Dobrej Praktyki Wytwarzania określonej w przepisach wydanych na podstawie art. 39 ust. 5 pkt 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944, z późn. zm.), w tym zasady dokumentowania procesów technologicznych;
+C.W33. zasady Dobrej Praktyki Wytwarzania określonej w przepisach wydanych na podstawie art. 39 ust. 5 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944, z późn. zm.), w tym zasady dokumentowania procesów technologicznych;
 C.W34. metody badań jakości postaci leku oraz sposób analizy serii produkcyjnej;
 C.W35. czynniki wpływające na trwałość postaci leku oraz metody badania ich trwałości;
 C.W36. zakres badań chemiczno-farmaceutycznych wymaganych do dokumentacji rejestracyjnej produktu leczniczego;
@@ -1095,7 +1098,7 @@ D.W5. parametry opisujące procesy farmakokinetyczne i sposoby ich wyznaczania;
 D.W6. uwarunkowania fizjologiczne, patofizjologiczne i środowiskowe wpływające na przebieg procesów farmakokinetycznych;
 D.W7. interakcje leków w fazie farmakokinetycznej, farmakodynamicznej i farmaceutycznej;
 D.W8. podstawy terapii monitorowanej stężeniem substancji czynnej i zasady zmian dawkowania leku u pacjenta;
-D.W9. sposoby oceny dostępności farmaceutycznej i biologicznej oraz zagadnienia związane z korelacją wyników badań in vitro in vivo (IVIVC);
+D.W9. sposoby oceny dostępności farmaceutycznej i biologicznej oraz zagadnienia związane z korelacją wyników badań in vitro – in vivo (IVIVC);
 D.W10. znaczenie czynników wpływających na poprawę dostępności farmaceutycznej i biologicznej produktu leczniczego;
 D.W11. zagadnienia związane z oceną biofarmaceutyczną leków oryginalnych i generycznych, w tym sposoby oceny biorównoważności;
 D.W12. punkty uchwytu i mechanizmy działania leków oraz osiągnięcia biologii strukturalnej w tym zakresie;
@@ -1121,7 +1124,7 @@ D.W31. metody stosowane do oceny wartości odżywczej żywności;
 D.W32. problematykę substancji dodawanych do żywności, zanieczyszczeń żywności oraz niewłaściwej jakości wyrobów przeznaczonych do kontaktu z żywnością;
 D.W33. problematykę żywności wzbogaconej, suplementów diety i środków specjalnego przeznaczenia żywieniowego;
 D.W34. metody oceny sposobu żywienia człowieka zdrowego i chorego;
-D.W35. podstawy interakcji lek żywność;
+D.W35. podstawy interakcji lek – żywność;
 D.W36. wymagania i metody oceny jakości suplementów diety, w szczególności zawierających witaminy i składniki mineralne;
 D.W37. metody żywienia pacjentów dojelitowo;
 D.W38. zasady projektowania złożonych leków roślinnych;
@@ -1140,8 +1143,8 @@ D.U6. przedstawiać i wyjaśniać profile stężeń substancji czynnej we krwi w
 D.U7. przeprowadzać badanie uwalniania z doustnych postaci leku, w celu wykazania podobieństwa różnych produktów leczniczych z wykorzystaniem farmakopealnych metod i aparatów;
 D.U8. uzasadniać możliwość zwolnienia produktu leczniczego z badań biorównoważności in vivo w oparciu o system klasyfikacji biofarmaceutycznej (BCS);
 D.U9. przewidywać skutki zmiany dostępności farmaceutycznej i biologicznej substancji leczniczej w wyniku modyfikacji postaci leku;
-i D.U10. wyjaśniać przyczyny i skutki interakcji w fazie farmakokinetycznej oraz określać sposoby zapobiegania tym interakcjom;
-D.U11. wyjaśniać właściwości farmakologiczne leku w oparciu o punkt uchwytu mechanizm działania;
+D.U10. wyjaśniać przyczyny i skutki interakcji w fazie farmakokinetycznej oraz określać sposoby zapobiegania tym interakcjom;
+D.U11. wyjaśniać właściwości farmakologiczne leku w oparciu o punkt uchwytu i mechanizm działania;
 D.U12. uzasadniać konieczność zmian dawkowania leku w zależności od stanów fizjologicznych i patologicznych oraz czynników genetycznych;
 D.U13. przewidywać działania niepożądane poszczególnych grup leków w zależności od dawki i mechanizmu działania;
 D.U14. wyjaśniać przyczyny i skutki interakcji w fazie farmakodynamicznej oraz określać sposoby zapobiegania tym interakcjom;
@@ -1209,7 +1212,7 @@ E.U10. wykonywać i objaśniać indywidualizację dawkowania leku u pacjenta w w
 E.U11. dobierać postać leku dla pacjenta, uwzględniając zalecenia kliniczne, potrzeby pacjenta i dostępność produktów;
 E.U12. wskazywać właściwy sposób postępowania z lekiem w czasie jego stosowania przez pacjenta i udzielać informacji o leku;
 E.U13. wskazywać właściwy sposób postępowania z lekiem przez pracowników systemu ochrony zdrowia;
-E.U14. przeprowadzać edukację pacjenta związaną ze stosowanymi przez niego lekami oraz innymi problemami dotyczącymi jego zdrowia i choroby oraz przygotowywać dla pacjenta zindywidualizowane materiały edukacyjne;
+– 77 – E.U14. przeprowadzać edukację pacjenta związaną ze stosowanymi przez niego lekami oraz innymi problemami dotyczącymi jego zdrowia i choroby oraz przygotowywać dla pacjenta zindywidualizowane materiały edukacyjne;
 E.U15. wykorzystywać narzędzia informatyczne w pracy zawodowej;
 E.U16. przewidywać wpływ różnych czynników na właściwości farmakokinetyczne i farmakodynamiczne leków oraz rozwiązywać problemy dotyczące indywidualizacji i optymalizacji farmakoterapii;
 E.U17. monitorować i raportować niepożądane działania leków, wdrażać działania prewencyjne, udzielać informacji związanych z powikłaniami farmakoterapii pracownikom systemu ochrony zdrowia, pacjentom lub ich rodzinom;
@@ -1240,34 +1243,35 @@ IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
 4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
 5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w warunkach zapewniających przejrzystość i obiektywizm formułowania ocen.
 6. Egzamin dyplomowy powinien być przeprowadzony w formie umożliwiającej sprawdzenie wiedzy i umiejętności zdobytych w okresie studiów.
-Standard kształcenia przygotowującego do wykonywania zawodu pielęgniarki Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu pielęgniarki, prowadzonego na studiach pierwszego i studiach drugiego stopnia na kierunku pielęgniarstwo.
+
+## Załącznik nr 4 — Standard kształcenia przygotowującego do wykonywania zawodu pielęgniarki Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu pielęgniarki, prowadzonego na studiach pierwszego i studiach drugiego stopnia na kierunku pielęgniarstwo.
+
 A. STUDIA PIERWSZEGO STOPNIA I.A. SPOSÓB ORGANIZACJI KSZTAŁCENIA
 1. WYMAGANIA OGÓLNE
 1.1. Studia pierwszego stopnia trwają nie krócej niż 6 semestrów.
 1.2. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 4720.
 1.3. Liczba punktów ECTS konieczna do ukończenia studiów pierwszego stopnia nie może być mniejsza niż 180.
-1.4. Kierunek pielęgniarstwo jest przyporządkowany do dyscypliny naukowej nauki medyczne albo dyscypliny naukowej nauki o zdrowiu, jako dyscypliny wiodącej.
+1.4. Kierunek pielęgniarstwo jest przyporządkowany do dyscypliny naukowej – nauki medyczne albo dyscypliny naukowej – nauki o zdrowiu, jako dyscypliny wiodącej.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
-1)
-2)
-2.1. Proces kształcenia jest realizowany w postaci: zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
-3) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
-wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
+2.1. Proces kształcenia jest realizowany w postaci:
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
 2.2. W przypadku studiów o profilu:
-1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
-2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+1) ogólnoakademickim – program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym – program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
 3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba Liczba efekty uczenia się godzin punktów ECTS A. Nauki podstawowe 500 20 B. Nauki społeczne i humanistyczne 420 17 C. Nauki w zakresie podstaw opieki pielęgniarskiej 600 22 D. Nauki w zakresie opieki specjalistycznej 900 34 E. Zajęcia praktyczne 1100 41 F. Praktyki zawodowe 1200 46 Razem 4720 180
 3.1. Program studiów konstruuje się tak, aby możliwe było przypisanie grupom zajęć powtarzalnej wartości punktowej wyrażonej w ECTS.
 3.2. W ramach kształcenia w grupie zajęć B są prowadzone zajęcia z języka angielskiego w wymiarze nie mniejszym niż 120 godzin. Zajęcia te obejmują język specjalistyczny z zakresu pielęgniarstwa. Zajęciom tym przypisuje się nie mniej niż 5 punktów ECTS.
 3.3. W ramach kształcenia w grupie zajęć D przypisuje się nie mniej niż 5 punktów ECTS za przygotowanie pracy dyplomowej i przygotowanie do egzaminu dyplomowego.
 3.4. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
 3.5. W ramach realizacji programu studiów w grupach zajęć:
-1) A i B po 25% wymiaru godzin w każdej z tych grup zajęć (łącznie nie więcej niż 230 godzin) oraz
-2) C i D po 35% wymiaru godzin w każdej z tych grup (łącznie nie więcej niż 525 godzin) może być realizowane jako praca własna studenta pod kierunkiem nauczycieli akademickich.
+1) A i B – po 25% wymiaru godzin w każdej z tych grup zajęć (łącznie nie więcej niż 230 godzin) oraz
+2) C i D – po 35% wymiaru godzin w każdej z tych grup (łącznie nie więcej niż 525 godzin) – może być realizowane jako praca własna studenta pod kierunkiem nauczycieli akademickich.
 3.6. Kształcenie w zakresie grup zajęć A, B, C i D może być prowadzone z wykorzystaniem metod i technik kształcenia na odległość. Liczba punktów ECTS, jaka może być uzyskana w ramach tego kształcenia, nie może być większa niż 10% liczby punktów ECTS koniecznej do ukończenia studiów.
 4. ZAJĘCIA PRAKTYCZNE I PRAKTYKI ZAWODOWE
 4.1. Zajęcia praktyczne i praktyki zawodowe mają na celu umożliwienie osiągnięcia efektów uczenia się ujętych w grupach zajęć C i D.
-Zakres zajęć praktycznych Zajęcia praktyczne Praktyki zawodowe i praktyk zawodowych Liczba Liczba Liczba Liczba punktów punktów godzin/tygodni godzin/tygodni ECTS ECTS Podstawy pielęgniarstwa 80 godzin/ 3 120 godzin/ 4 2 tygodnie 3 tygodnie Promocja zdrowia 20 godzin/ 1 0,5 tygodnia Podstawowa opieka zdrowotna 120 godzin/ 4 160 godzin/ 6 3 tygodnie 4 tygodnie Położnictwo, ginekologia 80 godzin/ i pielęgniarstwo położniczo- 2 tygodnie ginekologiczne 3 40 godzin/ 1 tydzień 2 Pediatria i pielęgniarstwo 160 godzin/ 6 160 godzin/ 6 pediatryczne 4 tygodnie 4 tygodnie Choroby wewnętrzne i pielęgniarstwo internistyczne 120 godzin/ 3 tygodnie 4 160 godzin/ 4 tygodnie 6 Chirurgia i pielęgniarstwo 120 godzin/ 4 160 godzin/ 6 chirurgiczne 3 tygodnie 4 tygodnie, w tym 0,5 tygodnia na bloku operacyjnym Pielęgniarstwo w opiece 40 godzin/ 2 40 godzin/ 2 długoterminowej 1 tydzień 1 tydzień Geriatria i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 geriatryczne 2 tygodnie 2 tygodnie Neurologia i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 neurologiczne 2 tygodnie 2 tygodnie Psychiatria i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 psychiatryczne 2 tygodnie 2 tygodnie Anestezjologia i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 w zagrożeniu życia 2 tygodnie 2 tygodnie Opieka paliatywna 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Razem 1100 godzin/ 41 1200 godzin/ 46 27,5 tygodnia 30 tygodni
+Zakres zajęć praktycznych Zajęcia praktyczne Praktyki zawodowe i praktyk zawodowych Liczba Liczba Liczba Liczba punktów punktów godzin/tygodni godzin/tygodni ECTS ECTS Podstawy pielęgniarstwa 80 godzin/ 3 120 godzin/ 4 2 tygodnie 3 tygodnie Promocja zdrowia 20 godzin/ 1 0,5 tygodnia Podstawowa opieka zdrowotna 120 godzin/ 4 160 godzin/ 6 3 tygodnie 4 tygodnie Położnictwo, ginekologia 80 godzin/ 3 40 godzin/ 2 i pielęgniarstwo położniczo- 2 tygodnie 1 tydzień ginekologiczne Pediatria i pielęgniarstwo 160 godzin/ 6 160 godzin/ 6 pediatryczne 4 tygodnie 4 tygodnie Choroby wewnętrzne 120 godzin/ 4 160 godzin/ 6 i pielęgniarstwo internistyczne 3 tygodnie 4 tygodnie Chirurgia i pielęgniarstwo 120 godzin/ 4 160 godzin/ 6 chirurgiczne 3 tygodnie 4 tygodnie, w tym 0,5 tygodnia na bloku operacyjnym Pielęgniarstwo w opiece 40 godzin/ 2 40 godzin/ 2 długoterminowej 1 tydzień 1 tydzień Geriatria i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 geriatryczne 2 tygodnie 2 tygodnie Neurologia i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 neurologiczne 2 tygodnie 2 tygodnie Psychiatria i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 psychiatryczne 2 tygodnie 2 tygodnie Anestezjologia i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 w zagrożeniu życia 2 tygodnie 2 tygodnie Opieka paliatywna 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Razem 1100 godzin/ 41 1200 godzin/ 46 27,5 tygodnia 30 tygodni
 4.2. Zajęcia praktyczne i praktyki zawodowe organizuje się tak, aby zdobywanie umiejętności praktycznych w warunkach naturalnych było poprzedzone zdobywaniem tych umiejętności w warunkach symulowanych niskiej wierności (w pracowniach umiejętności pielęgniarskich).
 4.3. Program praktyk zawodowych, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
 5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
@@ -1351,7 +1355,7 @@ A.U9. wystawiać recepty na leki niezbędne do kontynuacji leczenia w ramach rea
 A.U10. przygotowywać zapis form recepturowych substancji leczniczych i środków spożywczych specjalnego przeznaczenia żywieniowego zleconych przez lekarza;
 A.U11. stosować zasady ochrony radiologicznej.
 B. NAUKI SPOŁECZNE I HUMANISTYCZNE (psychologia, socjologia, pedagogika, prawo medyczne, zdrowie publiczne, język angielski) W zakresie wiedzy absolwent zna i rozumie: B.W1. psychologiczne podstawy rozwoju człowieka, jego zachowania prawidłowe i zaburzone;
-B.W2. problematykę relacji człowiek środowisko społeczne i mechanizmy funkcjonowania człowieka w sytuacjach trudnych;
+B.W2. problematykę relacji człowiek – środowisko społeczne i mechanizmy funkcjonowania człowieka w sytuacjach trudnych;
 B.W3. etapy rozwoju psychicznego człowieka i występujące na tych etapach prawidłowości;
 B.W4. pojęcie emocji i motywacji oraz zaburzenia osobowościowe;
 B.W5. istotę, strukturę i zjawiska zachodzące w procesie przekazywania i wymiany informacji oraz modele i style komunikacji interpersonalnej;
@@ -1583,15 +1587,15 @@ B. STUDIA DRUGIEGO STOPNIA I.B. SPOSÓB ORGANIZACJI KSZTAŁCENIA
 1.1. Studia drugiego stopnia trwają nie krócej niż 4 semestry.
 1.2. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 1300.
 1.3. Liczba punktów ECTS konieczna do ukończenia studiów drugiego stopnia nie może być mniejsza niż 120.
-1.4. Kierunek pielęgniarstwo jest przyporządkowany do dyscypliny naukowej nauki medyczne albo dyscypliny naukowej nauki o zdrowiu, jako dyscypliny wiodącej.
+1.4. Kierunek pielęgniarstwo jest przyporządkowany do dyscypliny naukowej – nauki medyczne albo dyscypliny naukowej – nauki o zdrowiu, jako dyscypliny wiodącej.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
 1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
 2) grup zajęć zintegrowanych łączących dwa albo więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
 3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
 2.2. W przypadku studiów o profilu:
-1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
-2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+1) ogólnoakademickim – program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym – program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
 2.3. Proces kształcenia na studiach drugiego stopnia jest zorganizowany w sposób umożliwiający studentom będącym absolwentami studiów pierwszego stopnia, którzy rozpoczęli kształcenie przed rokiem akademickim 2016/2017 i nie ukończyli kursu specjalistycznego, o którym mowa w art. 15a ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2021 r. poz. 479), osiągnięcie szczegółowych efektów uczenia się określonych dla studiów pierwszego stopnia w zakresie wystawiania recept na leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne, niezbędne do kontynuacji leczenia w ramach realizacji zleceń lekarskich.
 3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się Liczba godzin Liczba punktów szczegółowe efekty uczenia się ECTS A. Nauki społeczne i humanistyczne 270 23 B. Zaawansowana praktyka pielęgniarska 510 40 C. Badania naukowe i rozwój pielęgniarstwa 170 15 D. Praktyki zawodowe 200 10 Razem 1150 88
 3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 150 godzin zajęć dydaktycznych (12 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające efekty uczenia się w grupach zajęć A, B i C, z tym, że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
@@ -1647,7 +1651,7 @@ III.B. EFEKTY UCZENIA SIĘ
 17) stosować metodykę nauczania oraz ewaluacji w realizacji zadań z zakresu kształcenia zawodowego.
 1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
 1) dokonywania krytycznej oceny działań własnych i działań współpracowników z poszanowaniem różnic światopoglądowych i kulturowych;
-2) formułowania opinii dotyczących różnych aspektów działalności zawodowej zasięgania porad ekspertów w przypadku trudności z samodzielnym rozwiązaniem problemu;
+2) formułowania opinii dotyczących różnych aspektów działalności zawodowej i zasięgania porad ekspertów w przypadku trudności z samodzielnym rozwiązaniem problemu;
 3) okazywania dbałości o prestiż związany z wykonywaniem zawodu pielęgniarki i solidarność zawodową;
 4) rozwiązywania złożonych problemów etycznych związanych z wykonywaniem zawodu pielęgniarki i wskazywania priorytetów w realizacji określonych zadań;
 5) ponoszenia odpowiedzialności za realizowane świadczenia zdrowotne;
@@ -1656,8 +1660,7 @@ III.B. EFEKTY UCZENIA SIĘ
 A.W2. znaczenie wsparcia społecznego i psychologicznego w zdrowiu i chorobie;
 A.W3. teorie stresu psychologicznego, zależności między stresem a stanem zdrowia oraz inne psychologiczne determinanty zdrowia;
 A.W4. podejście salutogenetyczne podmiotowych uwarunkowań optymalnego stanu zdrowia i podejście patogenetyczne uwarunkowane chorobą;
-A.W5.
-i procesy adaptacji człowieka do życia z przewlekłą chorobą i uwarunkowania tych procesów;
+A.W5. procesy adaptacji człowieka do życia z przewlekłą chorobą i uwarunkowania tych procesów;
 A.W6. skutki prawne zdarzeń medycznych;
 A.W7. istotę błędów medycznych w pielęgniarstwie w kontekście niepowodzenia w działaniach terapeutyczno-pielęgnacyjnych;
 A.W8. system ubezpieczeń w zakresie odpowiedzialności cywilnej;
@@ -1713,7 +1716,7 @@ B.W7. zasady planowania, opracowania, wdrażania i nadzorowania działań zapobi
 B.W8. organizację i funkcjonowanie pracowni endoskopowej oraz zasady wykonywania procedur endoskopowych;
 B.W9. diagnostyczne i terapeutyczne możliwości endoskopii w zakresie przewodu pokarmowego, dróg oddechowych, urologii, ginekologii, laryngologii, anestezjologii i ortopedii;
 B.W10. zasady prowadzenia dokumentacji medycznej obowiązujące w pracowni endoskopowej;
-B.W11. założenia teoretyczne poradnictwa w pracy pielęgniarki bazujące na regulacjach prawnych i transteoretycznym modelu zmiany (Prochaska i DiClemente);
+– 112 – B.W11. założenia teoretyczne poradnictwa w pracy pielęgniarki bazujące na regulacjach prawnych i transteoretycznym modelu zmiany (Prochaska i DiClemente);
 B.W12. predyktory funkcjonowania człowieka zdrowego i chorego, z uwzględnieniem choroby przewlekłej;
 B.W13. metody oceny stanu zdrowia pacjenta w poradnictwie pielęgniarskim;
 B.W14. zasady postępowania terapeutycznego w przypadku najczęstszych problemów zdrowotnych;
@@ -1843,40 +1846,41 @@ IV.B. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
 4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
 Możliwe jest wykorzystanie opisów przypadków klinicznych, na podstawie których student ustala i prezentuje plan specjalistycznej opieki pielęgniarskiej.
 5. Studia drugiego stopnia kończą się egzaminem dyplomowym obejmującym weryfikację osiągniętych efektów uczenia się objętych programem studiów.
-Standard kształcenia przygotowującego do wykonywania zawodu położnej Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu położnej, prowadzonego na studiach pierwszego stopnia i studiach drugiego stopnia na kierunku położnictwo.
+
+## Załącznik nr 5 — Standard kształcenia przygotowującego do wykonywania zawodu położnej Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu położnej, prowadzonego na studiach pierwszego stopnia i studiach drugiego stopnia na kierunku położnictwo.
+
 A. STUDIA PIERWSZEGO STOPNIA I.A. SPOSÓB ORGANIZACJI KSZTAŁCENIA
 1. WYMAGANIA OGÓLNE
 1.1. Studia pierwszego stopnia trwają nie krócej niż 6 semestrów.
 1.2. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 4720.
 1.3. Liczba punktów ECTS konieczna do ukończenia studiów pierwszego stopnia nie może być mniejsza niż 180.
-1.4. Kierunek położnictwo jest przyporządkowany do dyscypliny naukowej nauki medyczne albo dyscypliny naukowej nauki o zdrowiu, jako dyscypliny wiodącej.
+1.4. Kierunek położnictwo jest przyporządkowany do dyscypliny naukowej – nauki medyczne albo dyscypliny naukowej – nauki o zdrowiu, jako dyscypliny wiodącej.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
 1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
-2)
-3) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
-wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
+2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
 2.2. W przypadku studiów o profilu:
-1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
-2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+1) ogólnoakademickim – program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym – program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
 3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba Liczba punktów efekty uczenia się godzin ECTS A. Nauki podstawowe 500 19 B. Nauki społeczne i humanistyczne 420 15 C. Nauki w zakresie podstaw opieki położniczej 600 22 D. Nauki w zakresie opieki specjalistycznej 900 35 E. Zajęcia praktyczne 1100 43 F. Praktyki zawodowe 1200 46 Razem 4720 180
 3.1. Program studiów konstruuje się tak, aby możliwe było przypisanie grupom zajęć powtarzalnej wartości punktowej wyrażonej w ECTS.
 3.2. W ramach kształcenia w zakresie grupy zajęć B są prowadzone zajęcia z języka angielskiego w wymiarze nie mniejszym niż 120 godzin. Zajęcia te obejmują język specjalistyczny z zakresu położnictwa. Zajęciom tym przypisuje się nie mniej niż 5 punktów ECTS.
 3.3. W ramach kształcenia w zakresie grupy zajęć D przypisuje się nie mniej niż 5 punktów ECTS za przygotowanie pracy dyplomowej i przygotowanie do egzaminu dyplomowego.
 3.4. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
 3.5. W ramach realizacji programu studiów w zakresie grup zajęć:
-1) A i B po 25% wymiaru godzin w każdej z tych grup zajęć (łącznie nie więcej niż 230 godzin) oraz
-2) C i D po 35% wymiaru godzin w każdej z tych grup zajęć (łącznie nie więcej niż 525 godzin) może być realizowane jako praca własna studenta pod kierunkiem nauczycieli akademickich.
+1) A i B – po 25% wymiaru godzin w każdej z tych grup zajęć (łącznie nie więcej niż 230 godzin) oraz
+2) C i D – po 35% wymiaru godzin w każdej z tych grup zajęć (łącznie nie więcej niż 525 godzin) – może być realizowane jako praca własna studenta pod kierunkiem nauczycieli akademickich.
 3.6. Kształcenie z wykorzystaniem metod i technik kształcenia na odległość może być prowadzone w grupach zajęć A, B, C i D. Liczba punktów ECTS, jaka może być uzyskana w ramach tego kształcenia, nie może być większa niż 10% liczby punktów ECTS koniecznej do ukończenia studiów.
 4. ZAJĘCIA PRAKTYCZNE I PRAKTYKI ZAWODOWE
 4.1. Zajęcia praktyczne i praktyki zawodowe mają na celu osiągnięcie efektów uczenia się ujętych w grupach zajęć C i D.
-Zajęcia praktyczne Praktyki zawodowe Zakres zajęć praktycznych Liczba Liczba Liczba Liczba i praktyk zawodowych punktów punktów godzin/tygodni godzin/tygodni ECTS ECTS Podstawy opieki położniczej 160 godzin/ 6 80 godzin/ 3 4 tygodnie 2 tygodnie Techniki położnicze i 320 godzin/ 11 360 godzin/ 13 przyjmowanie porodu 8 tygodni 9 tygodni Promocja zdrowia 20 godzin/ 0,5 tygodnia 1 Podstawowa opieka zdrowotna 40 godzin/ 2 80 godzin/ 3 1 tydzień 2 tygodnie Położnictwo i opieka położnicza 120 godzin/ 4 200 godzin/ 7 3 tygodnie 5 tygodni Ginekologia i opieka 120 godzin/ 4 200 godzin/ 7 ginekologiczna 3 tygodnie 5 tygodni Neonatologia i opieka 80 godzin/ 3 80 godzin/ 3 neonatologiczna 2 tygodnie 2 tygodnie Pediatria i pielęgniarstwo 40 godzin/ 2 40 godzin/ 2 pediatryczne 1 tydzień 1 tydzień Choroby wewnętrzne 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Chirurgia 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Psychiatria 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Anestezjologia i stany 40 godzin/ 2 40 godzin/ 2 zagrożenia życia 1 tydzień 1 tydzień Rehabilitacja w położnictwie, 40 godzin/ 2 neonatologii i ginekologii 1 tydzień Razem 1100 godzin/ 43 1200 godzin/ 46 27,5 tygodnia 30 tygodni
+Zajęcia praktyczne Praktyki zawodowe Zakres zajęć praktycznych Liczba Liczba Liczba Liczba i praktyk zawodowych punktów punktów godzin/tygodni godzin/tygodni ECTS ECTS Podstawy opieki położniczej 160 godzin/ 6 80 godzin/ 3 4 tygodnie 2 tygodnie Techniki położnicze i 320 godzin/ 11 360 godzin/ 13 przyjmowanie porodu 8 tygodni 9 tygodni Promocja zdrowia 20 godzin/ 1 – – 0,5 tygodnia Podstawowa opieka zdrowotna 40 godzin/ 2 80 godzin/ 3 1 tydzień 2 tygodnie Położnictwo i opieka położnicza 120 godzin/ 4 200 godzin/ 7 3 tygodnie 5 tygodni Ginekologia i opieka 120 godzin/ 4 200 godzin/ 7 ginekologiczna 3 tygodnie 5 tygodni Neonatologia i opieka 80 godzin/ 3 80 godzin/ 3 neonatologiczna 2 tygodnie 2 tygodnie Pediatria i pielęgniarstwo 40 godzin/ 2 40 godzin/ 2 pediatryczne 1 tydzień 1 tydzień Choroby wewnętrzne 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Chirurgia 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Psychiatria 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Anestezjologia i stany 40 godzin/ 2 40 godzin/ 2 zagrożenia życia 1 tydzień 1 tydzień Rehabilitacja w położnictwie, 40 godzin/ 2 – – neonatologii i ginekologii 1 tydzień Razem 1100 godzin/ 43 1200 godzin/ 46 27,5 tygodnia 30 tygodni
 4.2. W trakcie zajęć praktycznych i praktyk zawodowych w zakresie podstaw opieki położniczej i opieki specjalistycznej student:
 1) udziela porad kobietom ciężarnym, w tym przeprowadza co najmniej 100 badań prenatalnych;
 2) sprawuje opiekę nad co najmniej 40 kobietami ciężarnymi;
 3) przyjmuje co najmniej 40 porodów albo przyjmuje co najmniej 30 porodów i bierze aktywny udział w przyjmowaniu co najmniej 20 porodów;
-4) bierze aktywny udział w przyjmowaniu porodu z położenia miednicowego, a w przypadku gdy jest to niemożliwe w warunkach symulowanych;
-5) wykonuje nacięcia krocza i zakładanie szwów, a w przypadku gdy jest to niemożliwe w warunkach symulowanych;
+4) bierze aktywny udział w przyjmowaniu porodu z położenia miednicowego, a w przypadku gdy jest to niemożliwe – w warunkach symulowanych;
+5) wykonuje nacięcia krocza i zakładanie szwów, a w przypadku gdy jest to niemożliwe – w warunkach symulowanych;
 6) sprawuje opiekę nad co najmniej 40 kobietami, u których mogą wystąpić powikłania w trakcie ciąży, porodu i połogu;
 7) sprawuje opiekę nad co najmniej 100 kobietami w okresie połogu i zdrowymi noworodkami, w tym przeprowadza ich badania;
 8) prowadzi obserwację noworodków niedonoszonych, przenoszonych, z niską masą urodzeniową i chorych oraz sprawuje nad nimi opiekę;
@@ -1976,7 +1980,7 @@ A.U10. wystawiać recepty na leki niezbędne do kontynuacji leczenia w ramach re
 A.U11. przygotowywać zapisy form recepturowych substancji leczniczych i środków spożywczych specjalnego przeznaczenia żywieniowego zleconych przez lekarza;
 A.U12. stosować się do zasad ochrony radiologicznej.
 B. NAUKI SPOŁECZNE I HUMANISTYCZNE (psychologia, socjologia, pedagogika, prawo medyczne, zdrowie publiczne, język angielski) W zakresie wiedzy absolwent zna i rozumie: B.W1. psychologiczne podstawy rozwoju człowieka, jego zachowania prawidłowe i zaburzone;
-B.W2. problematykę relacji człowiek środowisko społeczne i mechanizmy funkcjonowania człowieka w sytuacjach trudnych;
+B.W2. problematykę relacji człowiek – środowisko społeczne i mechanizmy funkcjonowania człowieka w sytuacjach trudnych;
 B.W3. etapy rozwoju psychicznego człowieka i występujące na tych etapach prawidłowości;
 B.W4. pojęcie emocji i motywacji oraz zaburzenia osobowościowe;
 B.W5. podstawowe zagadnienia z zakresu psychologii prenatalnej i prokreacyjnej;
@@ -2078,9 +2082,9 @@ C.U6. wykonywać pulsoksymetrię, pomiary podstawowych parametrów życiowych, p
 C.U7. pobierać materiał do badań laboratoryjnych i bakteriologicznych oraz asystować lekarzowi przy badaniach diagnostycznych stosowanych w położnictwie, neonatologii i ginekologii;
 C.U8. pobierać wymaz do oceny biocenozy z pochwy i szyjki macicy oraz wymaz cytoonkologiczny, a także zabezpieczać pobrany materiał;
 C.U9. wykonywać testy diagnostyczne dla oznaczenia ciał ketonowych i glukozy we krwi i w moczu oraz cholesterolu we krwi, a także inne testy paskowe;
-i C.U10. wykonywać badania przesiewowe noworodka;
+C.U10. wykonywać badania przesiewowe noworodka;
 C.U11. wykonywać badanie piersi i oceniać gruczoł piersiowy;
-C.U12. przechowywać i przygotowywać leki zgodnie z obowiązującymi standardami, podawać pacjentom leki różnymi drogami oraz obliczać dawki leków modyfikować dawki insuliny;
+C.U12. przechowywać i przygotowywać leki zgodnie z obowiązującymi standardami, podawać pacjentom leki różnymi drogami oraz obliczać dawki leków i modyfikować dawki insuliny;
 C.U13. wykonywać szczepienia przeciwko grypie, WZW i HPV;
 C.U14. zakładać i usuwać cewnik z żył obwodowych, wykonywać kroplowe wlewy dożylne oraz monitorować i pielęgnować miejsce wkłucia obwodowego;
 C.U15. zakładać cewnik do pęcherza moczowego i usuwać go oraz monitorować diurezę;
@@ -2180,9 +2184,8 @@ D.W55. etiopatogenezę, objawy kliniczne i zasady postępowania w podstawowych z
 D.W56. zasady postępowania psychoterapeutycznego w sytuacji poronienia, urodzenia dziecka martwego, z niepełnosprawnością lub nieuleczalnie chorego;
 D.W57. psychologiczne konsekwencje porodu matki małoletniej, w późnym wieku i samotnej oraz rodzaje i formy jej wsparcia;
 D.W58. zasady resuscytacji krążeniowo-oddechowej;
-D.W59. zasady prowadzenia intensywnej opieki medycznej bezprzyrządowej przyrządowej;
-D.W60.
-i farmakologiczne sposoby łagodzenia bólu porodowego;
+D.W59. zasady prowadzenia intensywnej opieki medycznej bezprzyrządowej i przyrządowej;
+D.W60. farmakologiczne sposoby łagodzenia bólu porodowego;
 D.W61. metody rehabilitacji i fizjoterapii stosowane w ginekologii, położnictwie i neonatologii;
 D.W62. rolę i zadania położnej oraz instytucji rządowych i pozarządowych w podejmowaniu działań na rzecz osób z niepełnosprawnościami;
 D.W63. zasady usprawniania pacjentek po operacjach ginekologicznych;
@@ -2264,15 +2267,15 @@ B. STUDIA DRUGIEGO STOPNIA I.B. SPOSÓB ORGANIZACJI KSZTAŁCENIA
 1.1. Studia drugiego stopnia trwają nie krócej niż 4 semestry.
 1.2. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 1300.
 1.3. Liczba punktów ECTS konieczna do ukończenia studiów drugiego stopnia nie może być mniejsza niż 120.
-1.4. Kierunek położnictwo jest przyporządkowany do dyscypliny naukowej nauki medyczne albo dyscypliny naukowej nauki o zdrowiu, jako dyscypliny wiodącej.
+1.4. Kierunek położnictwo jest przyporządkowany do dyscypliny naukowej – nauki medyczne albo dyscypliny naukowej – nauki o zdrowiu, jako dyscypliny wiodącej.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
 1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
 2) grup zajęć zintegrowanych łączących dwa albo więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
 3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
 2.2. W przypadku studiów o profilu:
-1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
-2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+1) ogólnoakademickim – program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym – program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
 2.3. Proces kształcenia na studiach drugiego stopnia jest zorganizowany w taki sposób, aby umożliwiał studentom będącym absolwentami studiów pierwszego stopnia, którzy rozpoczęli kształcenie przed rokiem akademickim 2016/2017 i nie ukończyli kursu specjalistycznego, o którym mowa w art. 15a ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, osiągnięcie szczegółowych efektów uczenia się określonych dla studiów pierwszego stopnia w zakresie wystawiania recept na leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne, niezbędne do kontynuacji leczenia w ramach realizacji zleceń lekarskich.
 3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba punktów Liczba godzin efekty uczenia się ECTS A. Nauki społeczne i humanistyczne 270 23 B. Zaawansowana praktyka położnicza 510 40 C. Badania naukowe i rozwój praktyki położniczej 170 15 D. Praktyki zawodowe 200 10 Razem 1150 88
 3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 150 godzin zajęć (12 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające wiedzę, umiejętności i kompetencje społeczne w grupach zajęć A, B i C, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
@@ -2412,7 +2415,7 @@ B.W36. czynniki sprzyjające laktacji i zaburzające laktację;
 B.W37. zasady postępowania w przypadku sytuacji trudnych w laktacji, relaktacji i laktacji indukowanej;
 B.W38. wpływ leków, używek i chorób zakaźnych na laktację oraz możliwość karmienia piersią;
 B.W39. metody oceny siły mięśni dna miednicy oraz zasady treningu i profilaktyki dysfunkcji mięśni dna miednicy w wysiłkowym nietrzymaniu moczu, zespole pęcherza nadreaktywnego i obniżeniu pęcherza nadreaktywnego oraz dysfunkcji występujących po operacjach w obrębie podbrzusza, po ciąży i po porodzie;
-B.W40. zasady kompleksowej opieki nad pacjentką z chorobą nowotworową narządu rodnego i piersi w różnym stopniu zaawansowania oraz prowadzenia edukacji terapeutycznej;
+– 160 – B.W40. zasady kompleksowej opieki nad pacjentką z chorobą nowotworową narządu rodnego i piersi w różnym stopniu zaawansowania oraz prowadzenia edukacji terapeutycznej;
 B.W41. zasady edukacji pacjentki i jej rodziny w zakresie podawania i świadomego dozowania leków przeciwbólowych oraz monitorowania bólu nowotworowego;
 B.W42. specyfikę opieki nad pacjentką w terminalnej fazie choroby nowotworowej.
 W zakresie umiejętności absolwent potrafi: B.U1. dobierać i przygotowywać zapisy form recepturowych leków zawierających określone substancje czynne, na podstawie ukierunkowanej oceny stanu pacjenta;
@@ -2423,10 +2426,9 @@ B.U5. oceniać ból ostry przy zastosowaniu skali jego natężenia dobranej do d
 B.U6. oceniać kliniczne przyczyny zmian w wartościach parametrów życiowych wynikające z odczuwanego bólu i podejmować w tym zakresie działania adekwatne do stanu pacjenta;
 B.U7. podawać odpowiednimi drogami leki przeciwbólowe, modyfikując dawkę leku w zależności od stanu pacjenta;
 B.U8. stosować odpowiednie metody niefarmakologiczne łagodzenia bólu w zależności od stanu pacjenta;
-B.U9. dokumentować procedury realizowane w ramach terapii bólu ostrego przewlekłego oraz prowadzić kartę leczenia bólu;
+B.U9. dokumentować procedury realizowane w ramach terapii bólu ostrego i przewlekłego oraz prowadzić kartę leczenia bólu;
 B.U10. oceniać poziom sprawności poznawczej pacjenta i natężenia bólu według odpowiedniej skali;
-B.U11.
-i oceniać skuteczność terapii bólu ostrego i przewlekłego;
+B.U11. oceniać skuteczność terapii bólu ostrego i przewlekłego;
 B.U12. prowadzić edukację pacjenta w zakresie samoobserwacji i samopielęgnacji w terapii bólu przewlekłego;
 B.U13. oceniać nasilenie bólu u noworodka oraz stosować zasady postępowania przeciwbólowego i sedacyjnego na Oddziale Intensywnej Terapii Noworodka;
 B.U14. wykonywać badanie ultrasonograficzne narządów jamy brzusznej i miednicy mniejszej oraz wstępnie oceniać i opisywać wynik badania;
@@ -2485,23 +2487,25 @@ IV.B. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
 4. Egzaminy ustne powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
 Możliwe jest wykorzystanie opisów przypadków klinicznych, na podstawie których student ustala i prezentuje plan specjalistycznej opieki położniczej.
 5. Studia drugiego stopnia kończą się egzaminem dyplomowym obejmującym weryfikację osiągniętych efektów uczenia się objętych programem studiów.
-Standard kształcenia przygotowującego do wykonywania zawodu diagnosty laboratoryjnego I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
+## Załącznik nr 6 — Standard kształcenia przygotowującego do wykonywania zawodu diagnosty laboratoryjnego I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
 1. WYMAGANIA OGÓLNE
 1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu diagnosty laboratoryjnego prowadzonego na studiach na kierunku analityka medyczna, zwanych dalej „studiami”.
 1.2. Studia są jednolitymi studiami magisterskimi.
 1.3. Studia trwają nie krócej niż 10 semestrów.
 1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 4800.
 1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 300.
-1.6. Kierunek analityka medyczna jest przyporządkowany do dyscypliny naukowej nauki medyczne albo nauki farmaceutyczne, jako dyscypliny wiodącej.
+1.6. Kierunek analityka medyczna jest przyporządkowany do dyscypliny naukowej – nauki medyczne albo nauki farmaceutyczne, jako dyscypliny wiodącej.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
 1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
 2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
 3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
 2.2. W przypadku studiów o profilu:
-1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
-2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
-3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba Liczba efekty uczenia się godzin punktów ECTS A. Nauki biologiczno-medyczne 600 45 B. Nauki chemiczne i elementy statystyki 450 30 C. Nauki behawioralne i społeczne 250 15, w tym 5 język obcy D. Nauki kliniczne oraz prawne i organizacyjne aspekty 240 15 medycyny laboratoryjnej E. Naukowe aspekty medycyny laboratoryjnej 700 50 F. Praktyczne aspekty medycyny laboratoryjnej 1000 70 G. Metodologia badań naukowych 450 25 H. Praktyki zawodowe 600 20 Razem 4290 270
+1) ogólnoakademickim – program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym – program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba Liczba efekty uczenia się godzin punktów ECTS A. Nauki biologiczno-medyczne 600 45 B. Nauki chemiczne i elementy statystyki 450 30 C. Nauki behawioralne i społeczne 250 15, w tym 5 – język obcy D. Nauki kliniczne oraz prawne i organizacyjne aspekty 240 15 medycyny laboratoryjnej E. Naukowe aspekty medycyny laboratoryjnej 700 50 F. Praktyczne aspekty medycyny laboratoryjnej 1000 70 G. Metodologia badań naukowych 450 25 H. Praktyki zawodowe 600 20 Razem 4290 270
 3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 510 godzin zajęć (30 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające efekty uczenia się w kategoriach wiedzy, umiejętności lub kompetencji społecznych, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
 3.2. Program studiów umożliwia studentom uzyskanie nie mniej niż:
 1) 5 punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych lub nauk społecznych;
@@ -2514,7 +2518,7 @@ Standard kształcenia przygotowującego do wykonywania zawodu diagnosty laborato
 5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
 5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury uczelni lub podmiotów wykonujących działalność leczniczą, pozwalającej na osiągnięcie efektów uczenia się, w tym w zakładach diagnostycznych lub klinikach szpitali uniwersyteckich.
 5.2. Praktyki zawodowe mogą odbywać się w oparciu o infrastrukturę uczelni lub podmiotów wykonujących działalność leczniczą, z czego co najmniej 480 godzin praktyk zawodowych powinno odbywać się w medycznych laboratoriach diagnostycznych.
-II. OSOBY PROWADZĄCE KSZTAŁCENIE Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupach zajęć E i F jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających dorobek naukowy w dyscyplinie naukowej nauki medyczne lub nauki farmaceutyczne, lub kompetencje zawodowe i tytuł specjalisty lub specjalizację w dziedzinie adekwatnej do prowadzonych zajęć oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć.
+II. OSOBY PROWADZĄCE KSZTAŁCENIE Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupach zajęć E i F jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających dorobek naukowy w dyscyplinie naukowej – nauki medyczne lub nauki farmaceutyczne, lub kompetencje zawodowe i tytuł specjalisty lub specjalizację w dziedzinie adekwatnej do prowadzonych zajęć oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć.
 III. EFEKTY UCZENIA SIĘ
 1. OGÓLNE EFEKTY UCZENIA SIĘ
 1.1. W zakresie wiedzy absolwent zna i rozumie:
@@ -2599,15 +2603,15 @@ B.W6. zasady obliczeń chemicznych niezbędnych w medycynie laboratoryjnej, w sz
 B.W7. podstawy kinetyki reakcji chemicznych oraz podstawowe prawa termochemii, elektrochemii i zjawisk powierzchniowych;
 B.W8. rolę zjawisk fizykochemicznych w przebiegu procesów zachodzących w warunkach in vivo oraz in vitro z punktu widzenia kierunku ich przebiegu, wydajności, szybkości i mechanizmu;
 B.W9. nomenklaturę, właściwości oraz metody identyfikacji związków nieorganicznych oraz kompleksowych;
-B.W10. klasyczne metody analizy ilościowej analizę wagową, analizę objętościową i analizę gazową;
+B.W10. klasyczne metody analizy ilościowej – analizę wagową, analizę objętościową i analizę gazową;
 B.W11. klasyfikację instrumentalnych technik analitycznych oraz podstawy teoretyczne i metodyczne technik spektroskopowych, elektroanalitycznych, chromatograficznych i spektrometrii mas oraz ich zastosowanie w medycznej diagnostyce laboratoryjnej;
 B.W12. zasady funkcjonowania aparatów stosowanych w spektrofotometrii w zakresie nadfioletu i promieniowania widzialnego, spektrofluorymetrii, absorpcyjnej i emisyjnej spektrometrii atomowej, potencjometrii, konduktometrii, chromatografii gazowej, wysokosprawnej chromatografii cieczowej i spektrometrii mas;
 B.W13. kryteria wyboru metody analitycznej oraz statystyczne podstawy jej walidacji;
 B.W14. podział związków węgla i zasady nomenklatury związków organicznych;
-B.W15. strukturę związków organicznych w ujęciu teorii orbitali atomowych molekularnych oraz efekt mezomeryczny i indukcyjny;
+B.W15. strukturę związków organicznych w ujęciu teorii orbitali atomowych i molekularnych oraz efekt mezomeryczny i indukcyjny;
 B.W16. rodzaje i mechanizmy reakcji chemicznych związków organicznych (substytucja, addycja, eliminacja);
 B.W17. właściwości węglowodorów, fluorowcowęglowodorów, związków metaloorganicznych, amin, nitrozwiązków, alkoholi, fenoli, eterów, aldehydów, ketonów, kwasów karboksylowych, funkcyjnych i szkieletowych pochodnych kwasów karboksylowych oraz pochodnych kwasu węglowego;
-B.W18. budowę i właściwości związków heterocyklicznych pięcio- i sześcioczłonowych z atomami azotu, tlenu i siarki oraz budowę i właściwości związków pochodzenia i naturalnego: alkaloidów, węglowodanów, peptydów, białek oraz lipidów, w tym steroidów i terpenów;
+B.W18. budowę i właściwości związków heterocyklicznych pięcio- i sześcioczłonowych z atomami azotu, tlenu i siarki oraz budowę i właściwości związków pochodzenia naturalnego: alkaloidów, węglowodanów, peptydów, białek oraz lipidów, w tym steroidów i terpenów;
 B.W19. podstawowe narzędzia informatyczne wykorzystywane w medycynie laboratoryjnej, w tym medyczne bazy danych, arkusze kalkulacyjne i podstawy grafiki komputerowej;
 B.W20. podstawowe metody analizy statystycznej wykorzystywane w badaniach populacyjnych i diagnostycznych;
 B.W21. zasady prowadzenia badań obserwacyjnych, doświadczalnych oraz in vitro, służących rozwojowi medycyny laboratoryjnej.
@@ -2666,7 +2670,7 @@ D.W9. wpływ czynników przedlaboratoryjnych, laboratoryjnych i pozalaboratoryjn
 D.W10. zasady kontroli jakości badań laboratoryjnych oraz sposoby jej dokumentacji;
 D.W11. zasady organizacji i zarządzania laboratorium, z uwzględnieniem organizacji pracy, obiegu informacji, rejestracji i archiwizacji wyników, wyliczania kosztów badań, zasady ergonomii oraz bezpieczeństwa i higieny pracy;
 D.W12. zasady organizacji i wdrażania systemu jakości w medycznych laboratoriach diagnostycznych zgodnie z normami ISO (International Organization for Standardization) oraz obowiązującymi procedurami akredytacji i certyfikacji;
-D.W13. zasady komunikowania interpersonalnego w relacjach diagnosta laboratoryjny odbiorca wyniku oraz diagnosta laboratoryjny pracownicy systemu ochrony zdrowia;
+D.W13. zasady komunikowania interpersonalnego w relacjach diagnosta laboratoryjny – odbiorca wyniku oraz diagnosta laboratoryjny – pracownicy systemu ochrony zdrowia;
 D.W14. zasady ochrony własności intelektualnej;
 D.W15. zasady badań biomedycznych prowadzonych z udziałem ludzi oraz badań z udziałem zwierząt.
 W zakresie umiejętności absolwent potrafi: D.U1. wyjaśniać związki pomiędzy nieprawidłowymi funkcjami tkanek, narządów i układów a objawami klinicznymi;
@@ -2686,9 +2690,8 @@ E.W3. patogenezę i symptomatologię chorób układów: sercowo-naczyniowego, mo
 E.W4. procesy regeneracji oraz naprawy tkanek i narządów;
 E.W5. metody oceny procesów biochemicznych w warunkach fizjologicznych i patologicznych;
 E.W6. funkcje genomu, transkryptomu i proteomu człowieka oraz procesy replikacji, naprawy i rekombinacji kwasu deoksyrybonukleinowego (DNA), transkrypcji i translacji oraz degradacji DNA, kwasu rybonukleinowego (RNA) i białek;
-E.W7. mechanizmy regulacji ekspresji genów, aspekty transdukcji sygnału, aspekty regulacji procesów wewnątrzkomórkowych oraz problematykę rekombinacji klonowania DNA;
-E.W8.
-i zasady i zastosowanie technik biologii molekularnej oraz technik cytogenetyki klasycznej i cytogenetyki molekularnej;
+E.W7. mechanizmy regulacji ekspresji genów, aspekty transdukcji sygnału, aspekty regulacji procesów wewnątrzkomórkowych oraz problematykę rekombinacji i klonowania DNA;
+E.W8. zasady i zastosowanie technik biologii molekularnej oraz technik cytogenetyki klasycznej i cytogenetyki molekularnej;
 E.W9. tradycyjne metody diagnostyki cytologicznej, w tym techniki przygotowania i barwienia preparatów, a także automatyczne techniki fenotypowania oraz cytodiagnostyczne kryteria rozpoznawania i różnicowania chorób;
 E.W10. podstawy genetyki klasycznej, populacyjnej i molekularnej;
 E.W11. mechanizmy zaburzeń genetycznych u człowieka;
@@ -2775,7 +2778,7 @@ F.U11. dobierać i stosować właściwe izotopy promieniotwórcze w celach diagn
 F.U12. zaplanować i wykonywać badania laboratoryjne z zakresu diagnostyki wirusologicznej, bakteriologicznej, mykologicznej i parazytologicznej, z uwzględnieniem metod mikroskopowych, hodowlanych, biochemicznych, serologicznych, biologicznych i molekularnych;
 F.U13. stosować metody oznaczania wrażliwości drobnoustrojów na antybiotyki i chemioterapeutyki;
 F.U14. stosować metody wykrywania oporności drobnoustrojów na antybiotyki i chemioterapeutyki;
-F.U15. wykonywać z zastosowaniem metod manualnych i automatycznych badania hematologiczne i koagulologiczne;
+F.U15. wykonywać – z zastosowaniem metod manualnych i automatycznych – badania hematologiczne i koagulologiczne;
 F.U16. dokonywać oceny cytomorfologicznej preparatów mikroskopowych krwi obwodowej i szpiku kostnego;
 F.U17. oznaczać grupę krwi w układach grupowych;
 F.U18. wykonywać pośrednie i bezpośrednie testy antyglobulinowe oraz próby zgodności serologicznej;
@@ -2784,13 +2787,13 @@ F.U20. oceniać poprawność i zinterpretować poszczególne oraz zbiorcze wynik
 F.U21. proponować algorytmy, profile i schematy postępowania diagnostycznego w różnych stanach klinicznych, zgodne z zasadami etyki zawodowej, wymogami Dobrej Praktyki Laboratoryjnej i medycyny laboratoryjnej opartej na dowodach naukowych;
 F.U22. dokonywać krytycznej analizy, syntezy i oceny problemów diagnostycznych, formułując na ich podstawie wnioski przydatne lekarzowi w stawianiu właściwej diagnozy, zgodnej z postępem wiedzy i rachunkiem ekonomicznym;
 F.U23. stosować przepisy prawa, wytyczne oraz rekomendacje w zakresie wykonywania badań laboratoryjnych i badań w miejscu opieki nad pacjentem (Point of care testing, POCT).
-G. METODOLOGIA BADAŃ NAUKOWYCH (ćwiczenia specjalistyczne metodologia badań) W zakresie wiedzy absolwent zna i rozumie: G.W1. metody i techniki badawcze stosowane w ramach realizowanego badania naukowego.
+G. METODOLOGIA BADAŃ NAUKOWYCH (ćwiczenia specjalistyczne i metodologia badań) W zakresie wiedzy absolwent zna i rozumie: G.W1. metody i techniki badawcze stosowane w ramach realizowanego badania naukowego.
 W zakresie umiejętności absolwent potrafi: G.U1. zaplanować badanie naukowe i omówić jego cel oraz spodziewane wyniki;
 G.U2. zinterpretować badanie naukowe i odnieść je do aktualnego stanu wiedzy;
 G.U3. korzystać ze specjalistycznej literatury naukowej krajowej i zagranicznej;
 G.U4. przeprowadzić badanie naukowe, zinterpretować i udokumentować jego wyniki;
 G.U5. zaprezentować wyniki badania naukowego.
-i H. PRAKTYKI ZAWODOWE W zakresie wiedzy absolwent zna i rozumie: H.W1. zasady bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej, a także regulamin pracy obowiązujący w podmiocie, w którym odbył praktykę zawodową;
+H. PRAKTYKI ZAWODOWE W zakresie wiedzy absolwent zna i rozumie: H.W1. zasady bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej, a także regulamin pracy obowiązujący w podmiocie, w którym odbył praktykę zawodową;
 H.W2. strukturę organizacyjną laboratorium, w którym odbył praktykę zawodową oraz zasady współpracy laboratorium z oddziałami szpitala, poradniami przyszpitalnymi i pozaszpitalnymi jednostkami, dla których laboratorium wykonuje badania;
 H.W3. zasady pobierania materiału biologicznego, jego transportu oraz przygotowania do badań;
 H.W4. zasady obiegu informacji, w tym rejestrację i archiwizację wyników badań oraz koszty badań;
@@ -2808,22 +2811,24 @@ IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
 3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru (Multiple choice questions, MCQ), testy wielokrotnej odpowiedzi (Multiple response questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
 4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
 5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w warunkach zapewniających przejrzystość i obiektywizm formułowania ocen.
-Standard kształcenia przygotowującego do wykonywaniazawodufizjoterapeuty I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
+## Załącznik nr 7 — Standard kształcenia przygotowującego do wykonywaniazawodufizjoterapeuty I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
 1. WYMAGANIA OGÓLNE
 1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu fizjoterapeuty prowadzonego na studiach na kierunku fizjoterapia, zwanych dalej „studiami”.
 1.2. Studia są jednolitymi studiami magisterskimi.
 1.3. Studia trwają nie krócej niż 10 semestrów.
 1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 5260.
 1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 300.
-1.6. Kierunek fizjoterapia jest przyporządkowany do dyscypliny naukowej nauki medyczne albo nauki o zdrowiu, albo nauki o kulturze fizycznej, jako dyscypliny wiodącej.
+1.6. Kierunek fizjoterapia jest przyporządkowany do dyscypliny naukowej – nauki medyczne albo nauki o zdrowiu, albo nauki o kulturze fizycznej, jako dyscypliny wiodącej.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
 1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
 2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
 3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
 2.2. W przypadku studiów o profilu:
-1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
-2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+1) ogólnoakademickim – program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym – program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
 3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH ORAZ PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba Liczba efekty uczenia się godzin punktów ECTS A. Biomedyczne podstawy fizjoterapii 400 25 B. Nauki ogólne 300 18 C. Podstawy fizjoterapii 780 45 D. Fizjoterapia kliniczna 1670 99 E. Metodologia badań naukowych 50 25 F. Praktyki fizjoterapeutyczne 1560 58 Razem 4760 270
 3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 500 godzin (30 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające efekty uczenia się w kategorii wiedzy, umiejętności lub kompetencji społecznych, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
 3.2. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
@@ -2831,7 +2836,7 @@ Standard kształcenia przygotowującego do wykonywaniazawodufizjoterapeuty I. SP
 1) 5 punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych lub nauk społecznych;
 2) 22 punktów ECTS (przypisanych do grupy zajęć E) za przygotowanie pracy dyplomowej i przygotowanie do egzaminu dyplomowego.
 3.4. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 25% liczby punktów ECTS koniecznej do ukończenia studiów.
-4. PRAKTYKI FIZJOTERAPEUTYCZNE Zakres praktyk Termin praktyk Liczba Liczba fizjoterapeutycznych godzin punktów ECTS Praktyka asystencka nie wcześniej niż po 150 5 drugim semestrze studiów Wakacyjna praktyka z kinezyterapii nie wcześniej niż po 300 11 czwartym semestrze studiów Praktyka z fizjoterapii klinicznej, nie wcześniej niż w trakcie 100 4 fizykoterapii i masażu piątego semestru studiów Wakacyjna praktyka profilowana nie wcześniej niż po 200 7 wybieralna szóstym semestrze studiów Praktyka z fizjoterapii klinicznej, nie wcześniej niż w trakcie 100 4 fizykoterapii i masażu siódmego semestru studiów Wakacyjna praktyka profilowana nie wcześniej niż po 200 7 wybieralna ósmym semestrze studiów Praktyka z fizjoterapii klinicznej, w trakcie dziesiątego 510 20 fizykoterapii i masażu praktyka semestru studiów semestralna
+4. PRAKTYKI FIZJOTERAPEUTYCZNE Zakres praktyk Termin praktyk Liczba Liczba fizjoterapeutycznych godzin punktów ECTS Praktyka asystencka nie wcześniej niż po 150 5 drugim semestrze studiów Wakacyjna praktyka z kinezyterapii nie wcześniej niż po 300 11 czwartym semestrze studiów Praktyka z fizjoterapii klinicznej, nie wcześniej niż w trakcie 100 4 fizykoterapii i masażu piątego semestru studiów Wakacyjna praktyka profilowana – nie wcześniej niż po 200 7 wybieralna szóstym semestrze studiów Praktyka z fizjoterapii klinicznej, nie wcześniej niż w trakcie 100 4 fizykoterapii i masażu siódmego semestru studiów Wakacyjna praktyka profilowana – nie wcześniej niż po 200 7 wybieralna ósmym semestrze studiów Praktyka z fizjoterapii klinicznej, w trakcie dziesiątego 510 20 fizykoterapii i masażu – praktyka semestru studiów semestralna
 4.1. Praktyka z zakresu kinezyterapii, fizykoterapii i masażu odbywa się po zrealizowaniu zajęć umożliwiających osiągnięcie efektów uczenia się z zakresu kinezyterapii, fizykoterapii i masażu. W ramach tej praktyki student wykonuje określone czynności z udziałem pacjenta pod nadzorem opiekuna praktyk.
 4.2. Praktyka w zakresie fizjoterapii klinicznej dzieci i osób dorosłych, w tym osób starszych, odbywa się po zrealizowaniu zajęć umożliwiających osiągnięcie efektów uczenia się w kategorii umiejętności wykonywania określonych czynności fizjoterapeutycznych z dziećmi i osobami dorosłymi, w tym osobami starszymi, posiadającymi różne dysfunkcje.
 4.3. Program praktyk, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
@@ -2850,7 +2855,7 @@ Standard kształcenia przygotowującego do wykonywaniazawodufizjoterapeuty I. SP
 5.8. Praktyki fizjoterapeutyczne odbywają się w oparciu o bazę dydaktyczną uczelni oraz w podmiotach wykonujących działalność leczniczą, z którymi uczelnie zawarły umowy lub porozumienia w tym zakresie.
 II. OSOBY PROWADZĄCE KSZTAŁCENIE
 1. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe adekwatne do prowadzonych zajęć oraz doświadczenie zawodowe w zakresie właściwym dla prowadzonych zajęć, z tym że w grupie zajęć:
-1) C zajęcia kształtujące umiejętności praktyczne są prowadzone przez fizjoterapeutów posiadających doświadczenie zawodowe adekwatne do prowadzonych zajęć;
+1) C – zajęcia kształtujące umiejętności praktyczne są prowadzone przez fizjoterapeutów posiadających doświadczenie zawodowe adekwatne do prowadzonych zajęć;
 2) D:
 a) zajęcia kształtujące umiejętności praktyczne z zakresu klinicznych podstaw fizjoterapii są prowadzone przez fizjoterapeutów lub lekarzy posiadających tytuł specjalisty lub specjalizację oraz doświadczenie zawodowe w zakresie właściwym dla prowadzonych zajęć,
 b) zajęcia kształtujące umiejętności praktyczne z zakresu: fizjoterapii klinicznej w dysfunkcjach układu ruchu, fizjoterapii w chorobach wewnętrznych oraz diagnostyki funkcjonalnej i planowania fizjoterapii są prowadzone przez fizjoterapeutów posiadających doświadczenie zawodowe w zakresie właściwym dla prowadzonych zajęć.
@@ -2859,17 +2864,17 @@ b) zajęcia kształtujące umiejętności praktyczne z zakresu: fizjoterapii kli
 III. EFEKTY UCZENIA SIĘ
 1. OGÓLNE EFEKTY UCZENIA SIĘ
 1.1. W zakresie wiedzy absolwent zna i rozumie:
-1) problematykę z zakresu dyscypliny naukowej nauki biologiczne w tym rozwój, budowę i funkcje organizmu człowieka w warunkach prawidłowych i patologicznych;
-2) problematykę z zakresu dyscypliny naukowej nauki medyczne w tym etiologię, patomechanizm, objawy i przebieg najczęstszych chorób;
-3) problematykę z zakresu dyscyplin naukowych psychologia, pedagogika, nauki socjologiczne, filozofia i bioetyka;
+1) problematykę z zakresu dyscypliny naukowej – nauki biologiczne w tym rozwój, budowę i funkcje organizmu człowieka w warunkach prawidłowych i patologicznych;
+2) problematykę z zakresu dyscypliny naukowej – nauki medyczne w tym etiologię, patomechanizm, objawy i przebieg najczęstszych chorób;
+3) problematykę z zakresu dyscyplin naukowych – psychologia, pedagogika, nauki socjologiczne, filozofia i bioetyka;
 4) zasady oddziaływania sił mechanicznych na organizm człowieka zdrowego i chorego, w tym osoby starszej, z różnymi dysfunkcjami i różnymi chorobami, w różnych warunkach;
 5) mechanizm działania czynników fizykalnych na organizm człowieka oraz oddziaływanie zabiegów fizykalnych w leczeniu osób z różnymi chorobami i dysfunkcjami, w tym osób starszych, w różnych warunkach;
 6) wskazania i przeciwskazania do wykonywania zabiegów z zakresu fizykoterapii i masażu, kinezyterapii i terapii manualnej oraz specjalnych metod fizjoterapii;
 7) zalecenia do stosowania fizjoterapii w określonych stanach chorobowych;
 8) zasady działania wyrobów medycznych i zasady ich stosowania w leczeniu osób z różnymi chorobami i dysfunkcjami, w tym osób starszych, w różnych warunkach;
 9) specjalistyczne zagadnienia z zakresu teorii, metodyki i praktyki fizjoterapii;
-10) zagadnienia z zakresu diagnostyki funkcjonalnej na potrzeby fizjoterapii, planowania postępowania fizjoterapeutycznego oraz kontrolowania jego efektów w stopniu zaawansowanym;
-11) zagadnienia związane z kształtowaniem, podtrzymywaniem i przywracaniem sprawności oraz wydolności osobom w różnym wieku, w tym osobom starszym, utraconej lub obniżonej wskutek różnych chorób lub urazów, a także zasady promocji zdrowia w stopniu zaawansowanym;
+10) zagadnienia z zakresu diagnostyki funkcjonalnej na potrzeby fizjoterapii, planowania postępowania fizjoterapeutycznego oraz kontrolowania jego efektów – w stopniu zaawansowanym;
+11) zagadnienia związane z kształtowaniem, podtrzymywaniem i przywracaniem sprawności oraz wydolności osobom w różnym wieku, w tym osobom starszym, utraconej lub obniżonej wskutek różnych chorób lub urazów, a także zasady promocji zdrowia – w stopniu zaawansowanym;
 12) prawne i ekonomiczne aspekty funkcjonowania podmiotów zajmujących się rehabilitacją osób z niepełnosprawnościami;
 13) etyczne, prawne i społeczne uwarunkowania wykonywania zawodu fizjoterapeuty.
 1.2. W zakresie umiejętności absolwent potrafi:
@@ -2897,8 +2902,8 @@ III. EFEKTY UCZENIA SIĘ
 7) wdrażania zasad koleżeństwa zawodowego i współpracy w zespole specjalistów, w tym z przedstawicielami innych zawodów medycznych, także w środowisku wielokulturowym i wielonarodowościowym;
 8) formułowania opinii dotyczących różnych aspektów działalności zawodowej;
 9) przyjęcia odpowiedzialności związanej z decyzjami podejmowanymi w ramach działalności zawodowej, w tym w kategoriach bezpieczeństwa własnego i innych osób.
-2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. BIOMEDYCZNE PODSTAWY FIZJOTERAPII (anatomia anatomia prawidłowa, anatomia funkcjonalna, anatomia rentgenowska, anatomia palpacyjna; biologia medyczna;
-genetyka; biochemia; fizjologia fizjologia ogólna, fizjologia wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna; farmakologia w fizjoterapii; biofizyka; biomechanika biomechanika stosowana i ergonomia, biomechanika kliniczna; patologia ogólna; pierwsza pomoc) W zakresie wiedzy absolwent zna i rozumie: A.W1. budowę anatomiczną poszczególnych układów organizmu ludzkiego i podstawowe zależności pomiędzy ich budową i funkcją w warunkach zdrowia i choroby, a w szczególności układu narządów ruchu;
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. BIOMEDYCZNE PODSTAWY FIZJOTERAPII (anatomia – anatomia prawidłowa, anatomia funkcjonalna, anatomia rentgenowska, anatomia palpacyjna; biologia medyczna;
+genetyka; biochemia; fizjologia – fizjologia ogólna, fizjologia wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna; farmakologia w fizjoterapii; biofizyka; biomechanika – biomechanika stosowana i ergonomia, biomechanika kliniczna; patologia ogólna; pierwsza pomoc) W zakresie wiedzy absolwent zna i rozumie: A.W1. budowę anatomiczną poszczególnych układów organizmu ludzkiego i podstawowe zależności pomiędzy ich budową i funkcją w warunkach zdrowia i choroby, a w szczególności układu narządów ruchu;
 A.W2. rodzaje metod obrazowania, zasady ich przeprowadzania i ich wartość diagnostyczną (zdjęcie RTG, ultrasonografia, tomografia komputerowa, rezonans magnetyczny);
 A.W3. mianownictwo anatomiczne niezbędne do opisu stanu zdrowia;
 A.W4. podstawowe właściwości fizyczne, budowę i funkcje komórek i tkanek organizmu człowieka;
@@ -2934,7 +2939,7 @@ A.U12. ocenić poszczególne cechy motoryczne;
 A.U13. oceniać sprawność fizyczną i funkcjonalną w oparciu o aktualne testy dla wszystkich grup wiekowych;
 A.U14. przeprowadzić wywiad i analizować zebrane informacje w zakresie potrzebnym dla prowadzenia fizjoterapii;
 A.U15. rozpoznawać sytuacje zagrażające zdrowiu lub życiu człowieka oraz udzielać kwalifikowanej pierwszej pomocy w sytuacjach zagrożenia zdrowia i życia oraz przeprowadzić resuscytację krążeniowo-oddechową u osób dorosłych i dzieci.
-B. NAUKI OGÓLNE (język obcy; psychologia psychologia ogólna, psychologia kliniczna, psychoterapia, komunikacja kliniczna; socjologia socjologia ogólna, socjologia niepełnosprawności; pedagogika pedagogika ogólna, pedagogika specjalna; dydaktyka fizjoterapii; podstawy prawa prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy; zdrowie publiczne; demografia i epidemiologia; ekonomia i system ochrony zdrowia; zarządzanie i marketing; filozofia; bioetyka; historia fizjoterapii;
+B. NAUKI OGÓLNE (język obcy; psychologia – psychologia ogólna, psychologia kliniczna, psychoterapia, komunikacja kliniczna; socjologia – socjologia ogólna, socjologia niepełnosprawności; pedagogika – pedagogika ogólna, pedagogika specjalna; dydaktyka fizjoterapii; podstawy prawa – prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy; zdrowie publiczne; demografia i epidemiologia; ekonomia i system ochrony zdrowia; zarządzanie i marketing; filozofia; bioetyka; historia fizjoterapii;
 technologie informacyjne; wychowanie fizyczne) W zakresie wiedzy absolwent zna i rozumie: B.W1. psychologiczne i socjologiczne uwarunkowania funkcjonowania jednostki w społeczeństwie;
 B.W2. psychologiczne i społeczne aspekty postaw i działań pomocowych;
 B.W3. modele komunikowania się w opiece zdrowotnej, podstawowe umiejętności komunikowania się z pacjentem oraz członkami interdyscyplinarnego zespołu terapeutycznego;
@@ -2968,8 +2973,8 @@ B.U9. wykazać umiejętności ruchowe z zakresu wybranych form aktywności fizyc
 B.U10. przeprowadzić rozmowę z pacjentem dorosłym, dzieckiem i rodziną pacjenta z zastosowaniem techniki aktywnego słuchania i wyrażania empatii, a także rozmawiać z pacjentem o jego sytuacji zdrowotnej w atmosferze zaufania podczas całego postępowania fizjoterapeutycznego;
 B.U11. udzielać pacjentowi informacji o celu, przebiegu i ewentualnym ryzyku proponowanych działań diagnostycznych lub fizjoterapeutycznych i uzyskiwać jego świadomą zgodę na te działania;
 B.U12. komunikować się ze współpracownikami w ramach zespołu, udzielając im informacji zwrotnej i wsparcia.
-C. PODSTAWY FIZJOTERAPII (fizjoterapia ogólna; kształcenie ruchowe i metodyka nauczania ruchu; kinezyterapia; terapia manualna; medycyna fizykalna fizykoterapia;
-balneoklimatologia, odnowa biologiczna; masaż; metody specjalne fizjoterapii metody reedukacji posturalnej, reedukacji nerwowo-mięśniowej, neurorehabilitacji, terapii neurorozwojowej oraz terapii manualnej; adaptowana aktywność fizyczna, sport osób z niepełnosprawnościami; wyroby medyczne; fizjoprofilaktyka i promocja zdrowia) W zakresie wiedzy absolwent zna i rozumie: C.W1. pojęcia z zakresu rehabilitacji medycznej, fizjoterapii oraz niepełnosprawności;
+C. PODSTAWY FIZJOTERAPII (fizjoterapia ogólna; kształcenie ruchowe i metodyka nauczania ruchu; kinezyterapia; terapia manualna; medycyna fizykalna – fizykoterapia;
+balneoklimatologia, odnowa biologiczna; masaż; metody specjalne fizjoterapii – metody reedukacji posturalnej, reedukacji nerwowo-mięśniowej, neurorehabilitacji, terapii neurorozwojowej oraz terapii manualnej; adaptowana aktywność fizyczna, sport osób z niepełnosprawnościami; wyroby medyczne; fizjoprofilaktyka i promocja zdrowia) W zakresie wiedzy absolwent zna i rozumie: C.W1. pojęcia z zakresu rehabilitacji medycznej, fizjoterapii oraz niepełnosprawności;
 C.W2. mechanizmy zaburzeń strukturalnych i funkcjonalnych wywołanych chorobą lub urazem;
 C.W3. mechanizmy oddziaływania oraz możliwe skutki uboczne środków i zabiegów z zakresu fizjoterapii;
 C.W4. metody oceny zaburzeń strukturalnych i funkcjonalnych wywołanych chorobą lub urazem, narzędzia diagnostyczne i metody oceny stanu pacjenta dla potrzeb fizjoterapii, metody oceny budowy i funkcji ciała pacjenta oraz jego aktywności w różnych stanach chorobowych;
@@ -2989,7 +2994,7 @@ C.W17. zagadnienia związane z promocją zdrowia i fizjoprofilaktyką.
 W zakresie umiejętności absolwent potrafi: C.U1. przeprowadzić badanie podmiotowe, badanie przedmiotowe oraz wykonywać podstawowe badania czynnościowe i testy funkcjonalne właściwe dla fizjoterapii, w tym pomiary długości i obwodu kończyn, zakresu ruchomości w stawach oraz siły mięśniowej;
 C.U2. wypełniać dokumentację stanu zdrowia pacjenta i programu zabiegów fizjoterapeutycznych;
 C.U3. dobierać i prowadzić kinezyterapię ukierunkowaną na kształtowanie poszczególnych zdolności motorycznych u osób zdrowych oraz osób z różnymi dysfunkcjami, przeprowadzić zajęcia ruchowe o określonym celu, prowadzić reedukację chodu i ćwiczenia z zakresu edukacji i reedukacji posturalnej oraz reedukacji funkcji kończyn górnych;
-C.U4. instruować pacjenta w zakresie wykonywania ćwiczeń ruchowych w domu, sposobu posługiwania się wyrobami medycznymi oraz wykorzystywania przedmiotów użytku codziennego w celach terapeutycznych, instruować opiekuna w zakresie sprawowania opieki nad osobą ze specjalnymi potrzebami oraz nad dzieckiem w celu stymulowania prawidłowego rozwoju;
+C.U4. instruować pacjenta w zakresie wykonywania ćwiczeń ruchowych w domu, sposobu posługiwania się wyrobami medycznymi oraz wykorzystywania przedmiotów użytku codziennego w celach terapeutycznych, instruować opiekuna w zakresie sprawowania opieki nad osobą ze specjalnymi potrzebami oraz nad dzieckiem – w celu stymulowania prawidłowego rozwoju;
 C.U5. konstruować trening medyczny, w tym różnorodne ćwiczenia, dostosowywać poszczególne ćwiczenia do potrzeb ćwiczących, dobrać odpowiednie przyrządy i przybory do ćwiczeń ruchowych oraz stopniować trudność wykonywanych ćwiczeń;
 C.U6. dobrać poszczególne ćwiczenia dla osób z różnymi zaburzeniami i możliwościami funkcjonalnymi oraz metodycznie uczyć ich wykonywania, stopniując natężenie trudności oraz wysiłku fizycznego;
 C.U7. wykazać umiejętności ruchowe konieczne do demonstracji i zapewnienia bezpieczeństwa podczas wykonywania poszczególnych ćwiczeń;
@@ -3024,17 +3029,17 @@ D.W16. założenia i zasady Międzynarodowej Klasyfikacji Funkcjonowania, Niepe�
 W zakresie umiejętności absolwent potrafi: D.U1. przeprowadzić szczegółowe badanie dla potrzeb fizjoterapii i testy funkcjonalne układu ruchu oraz zapisać i zinterpretować jego wyniki;
 D.U2. przeprowadzić analizę biomechaniczną z zakresu prostych i złożonych ruchów człowieka w warunkach prawidłowych i w dysfunkcjach układu ruchu;
 D.U3. dokonać oceny stanu układu ruchu człowieka w warunkach statyki i dynamiki (badanie ogólne, odcinkowe, miejscowe), przeprowadzić analizę chodu oraz zinterpretować uzyskane wyniki;
-D.U4. dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u osób po urazach w obrębie tkanek miękkich układu ruchu leczonych zachowawczo i operacyjnie, po urazach w obrębie kończyn (stłuczeniach, skręceniach, zwichnięciach i złamaniach) leczonych zachowawczo i operacyjnie, po urazach kręgosłupa bez porażeń oraz w przypadku stabilnych i niestabilnych złamań kręgosłupa;
-D.U5. dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii osób po amputacjach planowanych (postępowanie przed- i pooperacyjne) oraz urazowych, prowadzić naukę chodzenia w protezie oraz postępowanie po amputacjach kończyn górnych, w tym instruktaż w zakresie posługiwania się protezą;
-D.U6. dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i prowadzić postępowanie fizjoterapeutyczne przed- i pooperacyjne u osób po rekonstrukcyjnych zabiegach ortopedycznych, w tym po zabiegach artroskopowych i po endoprotezoplastyce;
+D.U4. dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i wykonywać zabiegi z zakresu fizjoterapii u osób po urazach w obrębie tkanek miękkich układu ruchu leczonych zachowawczo i operacyjnie, po urazach w obrębie kończyn (stłuczeniach, skręceniach, zwichnięciach i złamaniach) leczonych zachowawczo i operacyjnie, po urazach kręgosłupa bez porażeń oraz w przypadku stabilnych i niestabilnych złamań kręgosłupa;
+D.U5. dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i wykonywać zabiegi z zakresu fizjoterapii osób po amputacjach planowanych (postępowanie przed- i pooperacyjne) oraz urazowych, prowadzić naukę chodzenia w protezie oraz postępowanie po amputacjach kończyn górnych, w tym instruktaż w zakresie posługiwania się protezą;
+D.U6. dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i prowadzić postępowanie fizjoterapeutyczne przed- i pooperacyjne u osób po rekonstrukcyjnych zabiegach ortopedycznych, w tym po zabiegach artroskopowych i po endoprotezoplastyce;
 D.U7. instruować pacjentów lub ich opiekunów w zakresie wykonywania ćwiczeń i treningu medycznego w domu, sposobu posługiwania się wyrobami medycznymi oraz wykorzystywania przedmiotów użytku codziennego w celach terapeutycznych;
 D.U8. przeprowadzić testy funkcjonalne przydatne w reumatologii, takie jak ocena stopnia uszkodzenia stawów i ich deformacji, funkcji ręki oraz lokomocji u pacjentów z chorobami reumatologicznymi;
-D.U9. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u pacjentów z chorobami reumatologicznymi, chorobami przyczepów mięśni, zmianami zwyrodnieniowowytwórczymi stawów oraz ograniczeniami zakresu ruchu lub pozastawowymi zespołami bólowymi o podłożu reumatycznym;
+D.U9. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i wykonywać zabiegi z zakresu fizjoterapii u pacjentów z chorobami reumatologicznymi, chorobami przyczepów mięśni, zmianami zwyrodnieniowowytwórczymi stawów oraz ograniczeniami zakresu ruchu lub pozastawowymi zespołami bólowymi o podłożu reumatycznym;
 D.U10. wykonywać pionizację i naukę chodzenia pacjentów z chorobami reumatologicznymi, a także usprawnianie funkcjonalne ręki w chorobie reumatoidalnej;
 D.U11. instruować pacjentów z chorobami reumatologicznymi w zakresie wykonywania ćwiczeń w domu, sposobu posługiwania się wyrobami medycznymi, w tym poprawiającymi funkcję chwytną;
 D.U12. przeprowadzić badanie neurologiczne dla potrzeb fizjoterapii i testy funkcjonalne przydatne w fizjoterapii neurologicznej, w tym ocenę napięcia mięśniowego, kliniczną ocenę spastyczności oraz ocenę na poziomie funkcji ciała i aktywności, w szczególności za pomocą skal klinicznych, a także zinterpretować ważniejsze badania dodatkowe (obrazowe i elektrofizjologiczne);
-D.U13. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u osób z objawami uszkodzenia pnia mózgu, móżdżku i kresomózgowia, ze szczególnym uwzględnieniem udaru mózgu, parkinsonizmu, chorób demielinizacyjnych oraz zabiegi z zakresu fizjoterapii u osób po złamaniach kręgosłupa z porażeniami, a także prowadzić postępowanie ukierunkowane na łagodzenie zaburzeń troficznych i wydalniczych, pionizację i naukę chodzenia lub poruszania się na wózku osób po urazach kręgosłupa;
-D.U14. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u osób po uszkodzeniach nerwów obwodowych, w polineuropatiach, w chorobach o podłożu nerwowo-mięśniowym, w chorobach pierwotnie mięśniowych oraz w różnych zespołach bólowych;
+D.U13. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i wykonywać zabiegi z zakresu fizjoterapii u osób z objawami uszkodzenia pnia mózgu, móżdżku i kresomózgowia, ze szczególnym uwzględnieniem udaru mózgu, parkinsonizmu, chorób demielinizacyjnych oraz zabiegi z zakresu fizjoterapii u osób po złamaniach kręgosłupa z porażeniami, a także prowadzić postępowanie ukierunkowane na łagodzenie zaburzeń troficznych i wydalniczych, pionizację i naukę chodzenia lub poruszania się na wózku osób po urazach kręgosłupa;
+D.U14. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i wykonywać zabiegi z zakresu fizjoterapii u osób po uszkodzeniach nerwów obwodowych, w polineuropatiach, w chorobach o podłożu nerwowo-mięśniowym, w chorobach pierwotnie mięśniowych oraz w różnych zespołach bólowych;
 D.U15. układać pacjenta w łóżku oraz wykonywać kinezyterapię w łóżku u pacjentów z uszkodzeniem układu nerwowego, wykonywać pionizację i naukę chodzenia, a także prowadzić reedukację ruchową kończyny górnej u osób po udarach mózgu;
 D.U16. instruować pacjentów z chorobami neurologicznymi w zakresie wykonywania ćwiczeń w domu, sposobu posługiwania się wyrobami medycznymi oraz wykorzystywania przedmiotów użytku codziennego w celach terapeutycznych;
 D.U17. przeprowadzić wywiad oraz zebrać podstawowe informacje na temat rozwoju i stanu zdrowia dziecka;
@@ -3044,29 +3049,29 @@ D.U20. dokonać oceny poziomu umiejętności funkcjonalnych dziecka w zakresie m
 D.U21. przeprowadzić kliniczną ocenę podwyższonego lub obniżonego napięcia mięśniowego u dziecka w tym spastyczności i sztywności;
 D.U22. przeprowadzić kliniczną ocenę postawy ciała, w tym badanie skoliometrem Bunnella, oraz punktową i biostereometryczną ocenę postawy ciała, a także zinterpretować wyniki tych ocen;
 D.U23. na podstawie zdjęcia RTG kręgosłupa wyznaczyć kąt Cobba, kąt rotacji według jednego z przyjętych sposobów oceny, dokonać oceny wieku kostnego na podstawie testu Rissera oraz zinterpretować ich wyniki i na tej podstawie zakwalifikować skoliozę do odpowiedniego postępowania fizjoterapeutycznego;
-D.U24. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i prowadzić postępowanie fizjoterpeutyczne u dzieci i młodzieży z chorobami układu ruchu, takimi jak: wady wrodzone, wady postawy ciała, jałowe martwice kości;
-D.U25. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i prowadzić postępowanie przed- i pooperacyjne u dzieci leczonych operacyjnie;
-D.U26. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i prowadzić postępowanie fizjoterapeutyczne u dzieci i młodzieży z zaburzeniami ruchowymi pochodzenia ośrodkowego, mózgowym porażeniem dziecięcym, z dysrafizmem rdzeniowym, z chorobami nerwowo-mięśniowymi, z okołoporodowymi uszkodzeniami splotów i nerwów obwodowych, z neuroi miogennymi zanikami mięśni (atrofiami i dystrofiami mięśniowymi);
+D.U24. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i prowadzić postępowanie fizjoterpeutyczne u dzieci i młodzieży z chorobami układu ruchu, takimi jak: wady wrodzone, wady postawy ciała, jałowe martwice kości;
+D.U25. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i prowadzić postępowanie przed- i pooperacyjne u dzieci leczonych operacyjnie;
+D.U26. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i prowadzić postępowanie fizjoterapeutyczne u dzieci i młodzieży z zaburzeniami ruchowymi pochodzenia ośrodkowego, mózgowym porażeniem dziecięcym, z dysrafizmem rdzeniowym, z chorobami nerwowo-mięśniowymi, z okołoporodowymi uszkodzeniami splotów i nerwów obwodowych, z neuroi miogennymi zanikami mięśni (atrofiami i dystrofiami mięśniowymi);
 D.U27. instruować opiekunów dzieci w zakresie tzw. pielęgnacji ruchowej, oraz dzieci i ich opiekunów w zakresie wykonywania ćwiczeń w domu, sposobu posługiwania się wyrobami medycznymi oraz wykorzystywania przedmiotów użytku codziennego w celach terapeutycznych;
 D.U28. przeprowadzić podstawowe pomiary i próby czynnościowe, z zachowaniem zasad bezpieczeństwa, w tym pomiar tętna, pomiar ciśnienia tętniczego, test marszowy, test wstań i idź (get up and go), próbę czynnościową na bieżni ruchomej według protokołu Bruce’a oraz według zmodyfikowanego protokołu Naughtona oraz próbę wysiłkową na cykloergometrze;
-D.U29. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u pacjentów z niewydolnością serca, nadciśnieniem, chorobą niedokrwienną serca, po zawale serca, zaburzeniami rytmu serca i nabytymi wadami serca;
-D.U30. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u pacjentów zakwalifikowanych do operacji serca, po zabiegach kardiochirurgicznych, z wszczepionym stymulatorem serca oraz po leczeniu metodami kardiologii interwencyjnej;
+D.U29. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i wykonywać zabiegi z zakresu fizjoterapii u pacjentów z niewydolnością serca, nadciśnieniem, chorobą niedokrwienną serca, po zawale serca, zaburzeniami rytmu serca i nabytymi wadami serca;
+D.U30. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i wykonywać zabiegi z zakresu fizjoterapii u pacjentów zakwalifikowanych do operacji serca, po zabiegach kardiochirurgicznych, z wszczepionym stymulatorem serca oraz po leczeniu metodami kardiologii interwencyjnej;
 D.U31. instruować pacjenta w zakresie wykonywania ćwiczeń oddechowych i technik relaksacyjnych w fizjoterapii kardiologicznej;
 D.U32. instruować pacjenta z chorobami układu krążenia w zakresie wykonywania ćwiczeń ruchowych w domu oraz aktywności fizycznej, jako prewencji wtórnej;
 D.U33. przeprowadzić badania czynnościowe układu oddechowego, w tym spirometrię oraz zinterpretować wyniki badania spirometrycznego, badania wysiłkowego i badania gazometrycznego;
-D.U34. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać ćwiczenia w różnych chorobach układu oddechowego (ostrych i przewlekłych), w chorobach z przewagą zaburzeń restrykcyjnych oraz w chorobach z przewagą zaburzeń obturacyjnych;
+D.U34. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i wykonywać ćwiczenia w różnych chorobach układu oddechowego (ostrych i przewlekłych), w chorobach z przewagą zaburzeń restrykcyjnych oraz w chorobach z przewagą zaburzeń obturacyjnych;
 D.U35. wykonywać zabiegi z zakresu fizjoterapii oddechowej w różnych chorobach pulmonologicznych, stanach po urazie klatki piersiowej, stanach po zabiegach operacyjnych na klatce piersiowej oraz po przeszczepach płuc;
 D.U36. instruować pacjenta z chorobą układu oddechowego w zakresie wykonywania ćwiczeń w domu oraz stosowania środków prewencji wtórnej;
-D.U37. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi fizjoterapeutyczne u pacjentów z czynnościowymi i organicznymi chorobami naczyń obwodowych oraz pacjentów po amputacji z przyczyn naczyniowych;
+D.U37. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i wykonywać zabiegi fizjoterapeutyczne u pacjentów z czynnościowymi i organicznymi chorobami naczyń obwodowych oraz pacjentów po amputacji z przyczyn naczyniowych;
 D.U38. wdrażać strategię wczesnego uruchamiania pacjenta po zabiegu na jamie brzusznej lub klatce piersiowej, wykonywać zabiegi fizjoterapeutyczne rozprężające płuca i ułatwiające oczyszczanie oskrzeli, instruować w zakresie profilaktyki wczesnych i późnych powikłań pooperacyjnych oraz udzielać zaleceń dotyczących pooperacyjnej fizjoterapii ambulatoryjnej;
 D.U39. stosować Międzynarodową Klasyfikację Funkcjonowania, Niepełnosprawności i Zdrowia (International Classification of Functioning, Disability and Health, ICF);
 D.U40. planować, dobierać i wykonywać zabiegi fizjoterapeutyczne po porodzie mające na celu likwidowanie niekorzystnych objawów, w szczególności ze strony układu krążenia, kostno-stawowego i mięśniowego;
 D.U41. instruować kobiety ciężarne w zakresie wykonywania ćwiczeń przygotowujących do porodu i w okresie połogu;
 D.U42. wykonywać zabiegi fizjoterapeutyczne u osób z nietrzymaniem moczu oraz instruować je w zakresie wykonywania ćwiczeń w domu;
-D.U43. planować i dobierać ćwiczenia krążeniowo-oddechowe dla dzieci i młodzieży w zależności od stanu klinicznego i funkcjonalnego pacjenta oraz instruować opiekunów dzieci i młodzież w zakresie wykonywania tych ćwiczeń;
+D.U43. planować i dobierać ćwiczenia krążeniowo-oddechowe dla dzieci i młodzieży – w zależności od stanu klinicznego i funkcjonalnego pacjenta – oraz instruować opiekunów dzieci i młodzież w zakresie wykonywania tych ćwiczeń;
 D.U44. przeprowadzić całościową ocenę geriatryczną i interpretować jej wyniki;
 D.U45. dobierać i wykonywać zabiegi z zakresu fizjoterapii geriatrycznej oraz instruować osoby starsze w zakresie wykonywania ćwiczeń w domu oraz stosowania różnych form rekreacji;
-D.U46. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii kobiet po mastektomii, w tym postępowanie w przypadku obrzęku limfatycznego i upośledzenia funkcji kończyny górnej;
+D.U46. planować, dobierać – w zależności od stanu klinicznego i funkcjonalnego pacjenta – i wykonywać zabiegi z zakresu fizjoterapii kobiet po mastektomii, w tym postępowanie w przypadku obrzęku limfatycznego i upośledzenia funkcji kończyny górnej;
 D.U47. stosować zasady prawidłowej komunikacji z pacjentem oraz komunikować się z innymi członkami zespołu terapeutycznego;
 D.U48. podejmować działania mające na celu poprawę jakości życia pacjenta, w tym pacjenta w okresie terminalnym, z zastosowaniem sprzętu rehabilitacyjnego;
 D.U49. planować, dobierać i modyfikować programy rehabilitacji pacjentów z różnymi dysfunkcjami narządu ruchu oraz chorobami wewnętrznymi w zależności od stanu klinicznego, funkcjonalnego i psychicznego (poznawczo-emocjonalnego) chorego, jego potrzeb oraz potrzeb opiekunów faktycznych.
@@ -3119,22 +3124,24 @@ IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
 4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
 5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w standaryzowanych warunkach.
 6. Egzamin dyplomowy powinien być przeprowadzony w formie umożliwiającej sprawdzenie wiedzy i umiejętności zdobytych w okresie studiów.
-Standard kształcenia przygotowującego do wykonywania zawodu ratownika medycznego I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
+## Załącznik nr 8 — Standard kształcenia przygotowującego do wykonywania zawodu ratownika medycznego I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
 1. WYMAGANIA OGÓLNE
 1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu ratownika medycznego, prowadzonego na studiach na kierunku ratownictwo medyczne, zwanych dalej „studiami”.
 1.2. Studia są prowadzone na poziomie studiów pierwszego stopnia.
 1.3. Studia trwają nie krócej niż 6 semestrów.
 1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 3675.
 1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 180.
-1.6. Kierunek ratownictwo medyczne jest przyporządkowany do dyscypliny naukowej nauki medyczne albo dyscypliny naukowej nauki o zdrowiu, jako dyscypliny wiodącej.
+1.6. Kierunek ratownictwo medyczne jest przyporządkowany do dyscypliny naukowej – nauki medyczne albo dyscypliny naukowej – nauki o zdrowiu, jako dyscypliny wiodącej.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
 1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów (np. anatomii, farmakologii, chirurgii);
 2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów (np. choroby wewnętrzne, diagnostyka laboratoryjna i obrazowa);
 3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom (np. klasyfikacje i mechanizmy bólu, ocena i pomiar nasilenia bólu, leczenie bólu).
 2.2. W przypadku studiów o profilu:
-1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
-2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+1) ogólnoakademickim – program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym – program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
 3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się Liczba godzin Liczba punktów ECTS szczegółowe efekty uczenia się A. Nauki podstawowe 250 16 B. Nauki behawioralne i społeczne 475 32 C. Nauki kliniczne 1690 81 D. Praktyki zawodowe 960 36 Razem 3375 165
 3.1. Program studiów konstruuje się tak, aby możliwe było przypisanie grupom zajęć powtarzalnej wartości punktowej wyrażonej w ECTS.
 3.2. Do dyspozycji uczelni pozostawia się nie mniej niż 300 godzin zajęć (15 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające efekty uczenia się w kategoriach wiedzy, umiejętności lub kompetencji społecznych, z czego 200 godzin (10 punktów ECTS) stanowią zajęcia kształtujące umiejętności praktyczne, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
@@ -3142,19 +3149,17 @@ Standard kształcenia przygotowującego do wykonywania zawodu ratownika medyczne
 3.4. Program studiów umożliwia studentom uzyskanie 5 punktów ECTS za przygotowanie się do egzaminu dyplomowego.
 3.5. W ramach kształcenia w grupie zajęć B są prowadzone zajęcia z języka obcego w wymiarze nie mniejszym niż 120 godzin. Zajęcia te obejmują język specjalistyczny z zakresu ratownictwa medycznego. Zajęciom tym przypisuje się nie mniej niż 5 punktów ECTS.
 3.6. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
-3.7. Program studiów przewiduje nie wcześniej niż na II roku studiów zajęcia sprawnościowe z elementami ratownictwa specjalistycznego. Szczegółowy program tych zajęć, termin i formę ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się określa uczelnia. Zajęciom tym przypisuje się nie mniej niż 4 punkty ECTS.
+3.7. Program studiów przewiduje – nie wcześniej niż na II roku studiów – zajęcia sprawnościowe z elementami ratownictwa specjalistycznego. Szczegółowy program tych zajęć, termin i formę ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się określa uczelnia. Zajęciom tym przypisuje się nie mniej niż 4 punkty ECTS.
 3.8. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 10% liczby punktów ECTS koniecznej do ukończenia studiów.
 4. PRAKTYKI ZAWODOWE Rodzaj praktyk Zakres praktyk zawodowych Liczba Liczba zawodowych godzin punktów ECTS Praktyki Zespół ratownictwa medycznego 168 6 wakacyjne Szpitalny oddział ratunkowy (SOR) 168 6
-Oddział anestezjologii i intensywnej terapii 164 6 Praktyki śródroczne
-Oddział chirurgii 60 2
-Oddział ortopedyczno-urazowy 50 2
+Oddział anestezjologii i intensywnej terapii 164 6 Praktyki Oddział chirurgii 60 2 śródroczne Oddział ortopedyczno-urazowy 50 2
 Oddział chorób wewnętrznych 50 2 SOR 100 4
 Oddział neurologii 50 2
 Oddział kardiologii 50 2
 Oddział pediatrii 50 2 Zespół ratownictwa medycznego 50 2 Razem 960 36 Praktyki zawodowe służą osiągnięciu wybranych efektów uczenia się. Szczegółowy program praktyk, termin i formę ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
 5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
 5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się.
-5.2. Kształtowanie umiejętności praktycznych w warunkach naturalnych jest poprzedzone kształtowaniem tych umiejętności w warunkach symulowanych w pracowniach symulacji.
+5.2. Kształtowanie umiejętności praktycznych w warunkach naturalnych jest poprzedzone kształtowaniem tych umiejętności w warunkach symulowanych – w pracowniach symulacji.
 5.3. Zajęcia kształtujące umiejętności praktyczne w grupie zajęć C i praktyki zawodowe odbywają się w oparciu o infrastrukturę uczelni lub podmiotów wykonujących działalność leczniczą, z którymi uczelnia zawarła umowy lub porozumienia w tym zakresie, w szczególności w SOR, zespołach ratownictwa medycznego oraz w innych wybranych oddziałach szpitalnych zgodnie z zakresem określonym w ust. 4.
 II. OSOBY PROWADZĄCE KSZTAŁCENIE
 1. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje naukowe lub zawodowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupie zajęć C jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających dorobek naukowy lub kompetencje zawodowe i prawo wykonywania zawodu lekarza, pielęgniarki lub położnej, lub wykonujących zawód ratownika medycznego oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć.
@@ -3163,7 +3168,7 @@ III. EFEKTY UCZENIA SIĘ
 1. OGÓLNE EFEKTY UCZENIA SIĘ
 1.1. W zakresie wiedzy absolwent zna i rozumie:
 1) medyczne czynności ratunkowe i świadczenia zdrowotne inne niż medyczne czynności ratunkowe podejmowane przez ratownika medycznego;
-2) problematykę z zakresu dyscyplin naukowych nauki medyczne i nauki o zdrowiu w stopniu podstawowym;
+2) problematykę z zakresu dyscyplin naukowych – nauki medyczne i nauki o zdrowiu – w stopniu podstawowym;
 3) systemy ratownictwa medycznego w Rzeczypospolitej Polskiej i innych państwach;
 4) regulacje prawne, zasady etyczne i deontologię, odnoszące się do wykonywania zawodu ratownika medycznego.
 1.2. W zakresie umiejętności absolwent potrafi:
@@ -3203,7 +3208,7 @@ A.W19. epidemiologię zarażeń wirusami i bakteriami oraz zakażeń grzybami i 
 A.W20. zasady postępowania przeciwepidemicznego;
 A.W21. genetyczne mechanizmy nabywania lekooporności przez drobnoustroje i komórki nowotworowe;
 A.W22. inwazyjne formy lub stadia rozwojowe wybranych pasożytniczych grzybów, pierwotniaków, helmintów i stawonogów;
-A.W23. zasady funkcjonowania układu pasożyt żywiciel i podstawowe objawy chorobowe wywoływane przez pasożyty;
+A.W23. zasady funkcjonowania układu pasożyt – żywiciel i podstawowe objawy chorobowe wywoływane przez pasożyty;
 A.W24. objawy zakażeń jatrogennych, drogi ich rozprzestrzeniania się i patogeny wywołujące zmiany w poszczególnych narządach;
 A.W25. zasady dezynfekcji, sterylizacji i postępowania antyseptycznego;
 A.W26. podstawy diagnostyki mikrobiologicznej i parazytologicznej;
@@ -3223,7 +3228,7 @@ A.W39. rodzaje leków, które mogą być samodzielnie podawane przez ratownika m
 A.W40. podstawy farmakoterapii u kobiet w ciąży i osób starszych w stanie zagrożenia życia;
 A.W41. różnice w farmakoterapii osób dorosłych i dzieci w zakresie dotyczącym działań ratownika medycznego;
 A.W42. wpływ procesów chorobowych na metabolizm i eliminację leków;
-A.W43. problematykę z zakresu toksykologii, działań niepożądanych leków, zatruć lekami w podstawowym zakresie;
+A.W43. problematykę z zakresu toksykologii, działań niepożądanych leków, zatruć lekami – w podstawowym zakresie;
 A.W44. objawy najczęściej występujących ostrych zatruć, w tym alkoholami, narkotykami i innymi substancjami psychoaktywnymi, metalami ciężkimi oraz wybranymi grupami leków;
 A.W45. podstawowe zasady postępowania diagnostycznego w zatruciach;
 A.W46. patofizjologię narządów i układów organizmu;
@@ -3305,7 +3310,7 @@ B.U6. przestrzegać praw pacjenta;
 B.U7. uwzględniać podczas medycznych czynności ratunkowych oczekiwania pacjenta wynikające z uwarunkowań społeczno-kulturowych;
 B.U8. stosować się do zasad bezpieczeństwa sanitarno-epidemiologicznego oraz profilaktyki chorób zakaźnych i niezakaźnych;
 B.U9. identyfikować czynniki ryzyka wystąpienia przemocy, rozpoznawać przemoc i odpowiednio na nią reagować;
-B.U10. stosować w podstawowym zakresie psychologiczne interwencje motywujące i wspierające;
+B.U10. stosować – w podstawowym zakresie – psychologiczne interwencje motywujące i wspierające;
 B.U11. komunikować się ze współpracownikami w ramach zespołu, udzielając im informacji zwrotnej i wsparcia;
 B.U12. podnosić swoje kwalifikacje i przekazywać wiedzę innym;
 B.U13. zapobiegać zespołowi stresu pourazowego po traumatycznych wydarzeniach, w tym przeprowadzać podsumowanie zdarzenia traumatycznego (debriefing) w zespole;
@@ -3325,7 +3330,7 @@ C.W6. fizjologię i patofizjologię okresu noworodkowego;
 C.W7. wybrane wady wrodzone i choroby uwarunkowane genetycznie;
 C.W8. problemy wynikające z niepełnosprawności i chorób przewlekłych;
 C.W9. symptomatologię ogólną zaburzeń psychicznych i zasady ich klasyfikacji według głównych systemów klasyfikacyjnych;
-C.W10. objawy najczęstszych chorób psychicznych, zasady ich diagnozowania postępowania terapeutycznego;
+C.W10. objawy najczęstszych chorób psychicznych, zasady ich diagnozowania i postępowania terapeutycznego;
 C.W11. specyfikę zaburzeń psychicznych u dzieci, młodzieży i osób starszych;
 C.W12. regulacje prawne dotyczące ochrony zdrowia psychicznego, ze szczególnym uwzględnieniem zasad przyjęcia do szpitala psychiatrycznego;
 C.W13. rodzaje środków przymusu bezpośredniego i zasady ich stosowania w systemie ochrony zdrowia;
@@ -3336,7 +3341,7 @@ C.W17. mechanizmy prowadzące do nagłych zagrożeń zdrowia i życia;
 C.W18. mechanizmy działania podstawowych grup leków i leków podawanych samodzielnie przez ratownika medycznego;
 C.W19. metody ograniczania bólu, ze szczególnym uwzględnieniem farmakoterapii dzieci;
 C.W20. skale oceny bólu i możliwości wdrożenia leczenia przeciwbólowego przez ratownika medycznego;
-i C.W21. zasady dekontaminacji;
+C.W21. zasady dekontaminacji;
 C.W22. techniki symulacji medycznej w niezabiegowych dziedzinach medycyny;
 C.W23. stany zagrożenia w chorobach nowotworowych i hematologicznych, zaburzeniach układu krzepnięcia, zespole wykrzepiania wewnątrznaczyniowego i ostrej białaczce oraz zasady postępowania przedszpitalnego w tych stanach;
 C.W24. zasady badania podmiotowego w zakresie niezbędnym do prowadzenia medycznych czynności ratunkowych;
@@ -3374,13 +3379,13 @@ C.W55. przyczyny i objawy nagłego zatrzymania krążenia;
 C.W56. zasady prowadzenia podstawowej i zaawansowanej resuscytacji krążeniowo-oddechowej u osób dorosłych i dzieci;
 C.W57. wskazania do odsysania dróg oddechowych i techniki jego wykonywania;
 C.W58. wskazania do przyrządowego i bezprzyrządowego przywracania drożności dróg oddechowych i techniki ich wykonywania;
-C.W59. wskazania do podjęcia tlenoterapii biernej lub wentylacji zastępczej powietrzem lub tlenem, ręcznie lub mechanicznie z użyciem respiratora i techniki ich wykonywania;
+C.W59. wskazania do podjęcia tlenoterapii biernej lub wentylacji zastępczej powietrzem lub tlenem, ręcznie lub mechanicznie – z użyciem respiratora i techniki ich wykonywania;
 C.W60. wskazania do intubacji dotchawiczej w laryngoskopii bezpośredniej przez usta bez użycia środków zwiotczających i do prowadzenia wentylacji zastępczej oraz techniki ich wykonywania;
 C.W61. wskazania do wykonania defibrylacji manualnej, zautomatyzowanej i półautomatycznej oraz techniki ich wykonania;
 C.W62. wskazania do wykonania kaniulacji żył obwodowych kończyn górnych i dolnych oraz żyły szyjnej zewnętrznej, a także technikę jej wykonania;
-i C.W63. zasady monitorowania czynności układu oddechowego i układu krążenia metodami nieinwazyjnymi;
+C.W63. zasady monitorowania czynności układu oddechowego i układu krążenia metodami nieinwazyjnymi;
 C.W64. zasady wykonywania dostępu doszpikowego przy użyciu gotowego zestawu;
-C.W65. wskazania do podawania leków drogą dożylną, w tym przez porty naczyniowe, domięśniową, podskórną, dotchawiczą, doustną, doodbytniczą, wziewną doszpikową oraz techniki tego podawania;
+C.W65. wskazania do podawania leków drogą dożylną, w tym przez porty naczyniowe, domięśniową, podskórną, dotchawiczą, doustną, doodbytniczą, wziewną i doszpikową oraz techniki tego podawania;
 C.W66. wybrane skale oceny śpiączki oraz skale urazowe i rokownicze;
 C.W67. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w najczęstszych chorobach wymagających interwencji chirurgicznej, z uwzględnieniem odrębności chorób wieku dziecięcego;
 C.W68. wybrane zagadnienia z zakresu traumatologii dziecięcej;

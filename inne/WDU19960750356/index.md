@@ -8,7 +8,7 @@ pos: 356
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej
@@ -29,15 +29,15 @@ source: "isap-pdf"
 
 **Art. 1.**
 
-1. Ustawa określa uprawnienia byłego Prezydenta Rzeczypospolitej Polskiej, zwanego dalej „byłym Prezydentem”, wybranego poczynając od 1989 r. w wyborach powszechnych przez Zgromadzenie Narodowe.
+1. Ustawa określa uprawnienia byłego Prezydenta Rzeczypospolitej Polskiej, zwanego dalej „byłym Prezydentem”, wybranego poczynając od 1989 r. w wyborach powszechnych lub przez Zgromadzenie Narodowe.
 
-2. Uprawnienia, o których mowa w ust. 1, przysługują po zakończeniu kadencji albo przed upływem kadencji, jeżeli opróżnienie urzędu Prezydenta nastąpiło wskutek zrzeczenia się urzędu uznania przez Zgromadzenie Narodowe trwałej niezdolności sprawowania urzędu ze względu na stan zdrowia.
+2. Uprawnienia, o których mowa w ust. 1, przysługują po zakończeniu kadencji albo przed upływem kadencji, jeżeli opróżnienie urzędu Prezydenta nastąpiło wskutek zrzeczenia się urzędu lub uznania przez Zgromadzenie Narodowe trwałej niezdolności do sprawowania urzędu ze względu na stan zdrowia.
 
 3. Uprawnienia, o których mowa w ust. 1, przysługują również ostatniemu Prezydentowi Rzeczypospolitej Polskiej na uchodźstwie – Ryszardowi Kaczorowskiemu.
 
 4. Ustawa określa również uprawnienia członków rodziny byłego Prezydenta.
 
-5. Przez członków rodziny rozumie się małżonka oraz dzieci spełniające warunki określone w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin uzyskania renty rodzinnej.
+5. Przez członków rodziny rozumie się małżonka oraz dzieci spełniające warunki określone w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin do uzyskania renty rodzinnej.
 
 **Art. 2.**
 
@@ -49,26 +49,26 @@ source: "isap-pdf"
 
 **Art. 3.**
 
-1. W razie zbiegu prawa uposażenia byłego Prezydenta z wynagrodzeniem, uposażeniem dochodem z tytułu:
+1. W razie zbiegu prawa do uposażenia byłego Prezydenta z wynagrodzeniem, uposażeniem lub dochodem z tytułu:
 
-- **1)** wykonywania mandatu posła senatora,
+- **1)** wykonywania mandatu posła lub senatora,
 - **2)** zajmowania kierowniczego stanowiska państwowego w rozumieniu art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2020 r. poz. 1637 oraz z 2021 r. poz. 1834),
-- **3)** pozostawania w stosunku pracy w stałym stosunku zlecenia,
+- **3)** pozostawania w stosunku pracy lub w stałym stosunku zlecenia,
 - **4)** prowadzenia działalności gospodarczej – wypłaca się tylko jedno z nich wybrane przez byłego Prezydenta.
 
-2. W razie zbiegu prawa emerytury renty inwalidzkiej określonych w przepisach o zaopatrzeniu emerytalnym ubezpieczeniu społecznym z prawem uposażenia, wypłaca się tylko jedno z tych świadczeń wybrane przez byłego Prezydenta.
+2. W razie zbiegu prawa do emerytury lub renty inwalidzkiej określonych w przepisach o zaopatrzeniu emerytalnym lub ubezpieczeniu społecznym z prawem do uposażenia, wypłaca się tylko jedno z tych świadczeń wybrane przez byłego Prezydenta.
 
 **Art. 4.** Byłemu Prezydentowi na prowadzenie biura przysługują środki finansowe w wysokości i na zasadach określonych dla posłów otrzymujących środki finansowe na utworzenie, funkcjonowanie i finansowanie biura poselskiego.
 
 **Art. 5.**
 
-1. Były Prezydent zachowuje uprawnienie ochrony na terytorium Rzeczypospolitej Polskiej na zasadach określonych w ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2021 r. poz. 575, 1728 i 2333).
+1. Były Prezydent zachowuje uprawnienie do ochrony na terytorium Rzeczypospolitej Polskiej na zasadach określonych w ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2021 r. poz. 575, 1728 i 2333).
 
-2. Wydatki związane z ochroną są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy spraw wewnętrznych.
+2. Wydatki związane z ochroną są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych.
 
 **Art. 6.** Byłemu Prezydentowi oraz członkom jego rodziny przysługują świadczenia zdrowotne na zasadach określonych dla pracowników i członków ich rodzin oraz dożywotnio na warunkach określonych dla osób zajmujących kierownicze stanowiska państwowe i członków ich rodzin.
 
-**Art. 7.** W razie śmierci byłego Prezydenta członkom jego rodziny przysługuje renta rodzinna oraz inne świadczenia w wysokości i na zasadach określonych w przepisach o zaopatrzeniu emerytalnym ubezpieczeniu społecznym.
+**Art. 7.** W razie śmierci byłego Prezydenta członkom jego rodziny przysługuje renta rodzinna oraz inne świadczenia w wysokości i na zasadach określonych w przepisach o zaopatrzeniu emerytalnym lub ubezpieczeniu społecznym.
 
 **Art. 8.** Trybunał Stanu może orzec w wyroku skazującym byłego Prezydenta karę dodatkową utraty uprawnień przewidzianych ustawą.
 

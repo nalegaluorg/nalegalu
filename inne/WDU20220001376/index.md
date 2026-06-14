@@ -8,10 +8,10 @@ pos: 1376
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 czerwca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11337766 ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 czerwca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001376) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1376/text.pdf) |
 
-Poz. 11337766 ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 czerwca 2022 r.
 zmieniające rozporządzenie w sprawie opisu, materiału, wymiarów, wzorów rysunkowych oraz sposobu i okoliczności noszenia odznak orderów i odznaczeń Na podstawie art. 9 ust. 1 pkt 1 i ust. 2 ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U.
-z 2022 r. poz. 1031) zarządza się, co następuje: § 1. W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 10 listopada 1992 r. w sprawie opisu, materiału, wymiarów, wzorów rysunkowych oraz sposobu i okoliczności noszenia odznak orderów i odznaczeń (Dz. U. poz. 452, z późn.
+z 2022 r. poz. 1031) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 10 listopada 1992 r. w sprawie opisu, materiału, wymiarów, wzorów rysunkowych oraz sposobu i okoliczności noszenia odznak orderów i odznaczeń (Dz. U. poz. 452, z późn.
 zm. ) wprowadza się następujące zmiany:
 1) po § 10g dodaje się § 10h w brzmieniu: „§ 10h. 1. Odznaką Krzyża Świętego Floriana jest krzyż gwiaździsty sześcioramienny o rozpiętości ramion 38 mm, srebrzony i oksydowany, z wrzecionowatym uszkiem i kółkiem do zawieszenia, ze stylizowanymi płomieniami między ramionami. Na górnym ramieniu krzyża widnieje orzeł według wzoru określonego w ustawie z dnia 31 stycznia 1980 r.
 o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych. Pośrodku krzyża umieszczone jest wyobrażenie patrzącego w górę św. Floriana w zbroi, podtrzymującego w zgięciu lewej ręki chorągiew, a w prawej ręce trzymającego naczynie z wylewaną wodą. Na odwrotnej stronie krzyża boczne ramiona krzyża zakończone są stylizowanymi żeleźcami toporków strażackich, a pośrodku krzyża znajduje się wypukły, majuskułowy napis w sześciowierszowej pionowej kolumnie: „W/JED/NO/ŚCI/SI/ŁA”.
@@ -36,5 +36,5 @@ o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwo
 3) w § 16 w ust. 1 po wyrazach „Wojskowy Krzyż Zasługi z Mieczami, Wojskowy Krzyż Zasługi, Morski Krzyż Zasługi z Mieczami, Morski Krzyż Zasługi, Lotniczy Krzyż Zasługi z Mieczami, Lotniczy Krzyż Zasługi (równorzędne między sobą w stopniu z Mieczami, równorzędne między sobą w stopniu bez Mieczy),” dodaje się wyrazy „Krzyż Świętego Floriana,”;
 4) dodaje się załącznik nr 7 w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: M. Morawiecki KRZYŻ ŚWIĘTEGO FLORIANA ODWROTNA STRONA BARETKA WSTĄŻECZKA KRZYŻ ŚWIĘTEGO FLORIANA
+Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: M. Morawiecki KRZYŻ KRZYŻ ŚWIĘTEGO ŚWIĘTEGO FLORIANA FLORIANA ODWROTNA STRONA BARETKA WSTĄŻECZKA
 

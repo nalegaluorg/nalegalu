@@ -8,7 +8,7 @@ pos: 1517
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
@@ -28,6 +28,70 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001517) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1517/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, 284, 568, 695 i 1087) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w pkt 86 kropkę zastępuje się średnikiem i dodaje się pkt 87 w brzmieniu: „87) salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzące sprzedaż pojazdów samochodowych, przyczep lub motorowerów w lokalu na terytorium Rzeczypospolitej Polskiej i autoryzowane przez producenta pojazdów samochodowych, przyczep lub motorowerów lub jego upoważnionego przedstawiciela. Dotyczy to także sprzedaży w lokalu na terytorium Rzeczypospolitej Polskiej bezpośrednio prowadzonej przez producenta pojazdów samochodowych, przyczep lub motorowerów.”;
+- **2)** w art. 38:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) dokument stwierdzający uprawnienie do kierowania pojazdem inny niż wydane w kraju prawo jazdy albo pozwolenie na kierowanie tramwajem, jeżeli kierujący nie posiada wydanego w kraju prawa jazdy albo pozwolenia na kierowanie tramwajem;”, – po pkt 4a dodaje się pkt 4b w brzmieniu: „4b) pokwitowanie zatrzymania:
+    - **a)** prawa jazdy albo pozwolenia na kierowanie tramwajem,
+    - **b)** dowodu rejestracyjnego albo pozwolenia czasowego,
+    - **c)** profesjonalnego dowodu rejestracyjnego – w okresie, w którym upoważnia ono do kierowania pojazdem albo jego używania;”,
+    - **b)** po ust. 2b dodaje się ust. 2c w brzmieniu: „2c. Kierujący pojazdem, o którym mowa w art. 73 ust. 3, jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu dokumenty, o których mowa w ust. 1 pkt 1, 4 i 5, oraz dokument stwierdzający dopuszczenie pojazdu do ruchu.”;
+
+- **3)** w art. 53 w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) Biura Nadzoru Wewnętrznego;”;
+- **4)** w art. 58 w ust. 1 w zdaniu pierwszym skreśla się wyraz „kwadratowymi”;
+- **5)** w art. 60:
+    - **a)** w ust. 1 po pkt 3 dodaje się pkt 3a i 3b w brzmieniu: „3a) umieszczania na pojeździe tablic (tablicy) rejestracyjnych w innym miejscu niż konstrukcyjnie do tego przeznaczone;
+
+- **3b)** umieszczania na pojeździe jednorzędowych zmniejszonych tablic rejestracyjnych, jeżeli pojazd nie posiada zmniejszonych wymiarów miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej;”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Utrzymywanie tablic (tablicy) rejestracyjnych i innych wymaganych oznaczeń pojazdu w należytym stanie oraz zapewnienie ich czytelności jest obowiązkiem kierującego pojazdem.”;
+
+- **6)** w art. 66 w ust. 4 w pkt 4 wyrazy „i Służby Ochrony Państwa” zastępuje się wyrazami „ , Służby Ochrony Państwa oraz Biura Nadzoru Wewnętrznego”;
+- **7)** w art. 71 w ust. 2 skreśla się wyrazy „ , a w przypadku pojazdów samochodowych, z wyłączeniem motocykli, w nalepkę kontrolną”;
+- **8)** w art. 72:
+    - **a)** w ust. 1 uchyla się pkt 2,
+    - **b)** w ust. 2: – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) pojazdu, który był już zarejestrowany na terytorium Rzeczypospolitej Polskiej i od ostatniej rejestracji nie nastąpiła zmiana właściciela tego pojazdu, w przypadku gdy przerejestrowanie pojazdu jest dokonywane na wniosek właściciela tego pojazdu w związku ze zmianą jego miejsca zamieszkania (siedziby) – w zakresie dowodu własności pojazdu, o którym mowa w ust. 1 pkt 1;”, – w pkt 2 skreśla się wyrazy „2 i”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. W przypadku utraty dowodu rejestracyjnego albo pozwolenia czasowego pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej organ rejestrujący dokonuje weryfikacji danych zawartych w utraconym dokumencie w centralnej ewidencji pojazdów i pobiera z tej ewidencji dane niezbędne do rejestracji pojazdu.”,
+    - **d)** dodaje się ust. 5 i 6 w brzmieniu: „5. W przypadku utraty dowodu rejestracyjnego pojazdu zarejestrowanego za granicą zamiast tego dokumentu należy przedstawić jego wtórnik albo dokument wystawiony przez organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu, potwierdzający dane zawarte w utraconym dokumencie niezbędne do rejestracji pojazdu. Jeżeli organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu za granicą odmówił wydania wtórnika dowodu rejestracyjnego albo dokumentu potwierdzającego dane zawarte w utraconym dokumencie, starosta może wystąpić do tego organu o potwierdzenie tych danych. Uzyskane potwierdzenie tych danych, w postaci papierowej albo elektronicznej, zastępuje dokument potwierdzający dane zawarte w utraconym dokumencie niezbędne do rejestracji pojazdu.
+
+6. W przypadku utraty dowodu rejestracyjnego pojazdu wywiezionego z kraju, uprzednio zarejestrowanego na terytorium Rzeczypospolitej Polskiej, organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej, na wniosek właściciela pojazdu, wydaje zaświadczenie potwierdzające dane zawarte w utraconym dowodzie rejestracyjnym.”;
+
+- **9)** w art. 73:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Rejestracji pojazdu dokonuje, na wniosek właściciela pojazdu, starosta właściwy ze względu na miejsce jego stałego zamieszkania (siedzibę) lub czasowego zamieszkania, wydając decyzję o rejestracji pojazdu, dowód rejestracyjny i zalegalizowane tablice (tablicę) rejestracyjne.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1e w brzmieniu: „1a. Składający wniosek o rejestrację pojazdu może wnioskować o zachowanie dotychczasowego numeru rejestracyjnego, w tym tablic (tablicy) rejestracyjnych, jeżeli pojazd był już zarejestrowany na terytorium Rzeczypospolitej Polskiej i posiada tablice (tablicę) rejestracyjne zgodne z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a oraz utrzymane w należytym stanie i czytelne. W takim przypadku starosta, dokonując rejestracji pojazdu, wydaje decyzję o rejestracji pojazdu i dowód rejestracyjny oraz dokonuje legalizacji dotychczasowych tablic (tablicy) rejestracyjnych. Jeżeli tablice (tablica) rejestracyjne nie są zgodne z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a albo nie są utrzymane w należytym stanie, albo nie są czytelne, stosuje się przepis ust. 1.
+
+1b. Właściciel albo podmiot, o którym mowa w ust. 2 i 5, będący posiadaczami pojazdu samochodowego zarejestrowanego na terytorium Rzeczypospolitej Polskiej, z wyłączeniem motocykla, mogą wnioskować do organu rejestrującego właściwego ze względu na miejsce ostatniej rejestracji pojazdu o wydanie dodatkowej zalegalizowanej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną. Dodatkowa tablica rejestracyjna posiada ten sam numer rejestracyjny co numer rejestracyjny pojazdu samochodowego. W przypadku gdy pojazd samochodowy nie posiada tablic rejestracyjnych zgodnych z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a, organ rejestrujący wydaje nową decyzję o rejestracji pojazdu wraz z kompletem zalegalizowanych tablic rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu samochodowego i nowym dowodem rejestracyjnym oraz dodatkową zalegalizowaną tablicę rejestracyjną.
+
+1c. Dodatkową zalegalizowaną tablicę rejestracyjną, o której mowa w ust. 1b, organ rejestrujący wydaje po:
+
+- **1)** dokonaniu czasowej rejestracji pojazdu z urzędu lub przy wydaniu dowodu rejestracyjnego, jeżeli pojazd samochodowy jest rejestrowany przez ten organ, albo
+- **2)** zarejestrowaniu pojazdu samochodowego przez ten organ.
+
+1d. Numer rejestracyjny na tablicach (tablicy) rejestracyjnych stanowią litery i cyfry (cyfra). Numer ten składa się odpowiednio z wyróżnika województwa lub powiatu i wyróżnika pojazdu albo wyróżnika indywidualnego pojazdu, określonych w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a i c.
+
+1e. Organ rejestrujący wydaje decyzję o odmowie rejestracji pojazdu:
+
+- **1)** w przypadku braku pozytywnej weryfikacji dokumentów, o których mowa w art. 72 ust. 1, z uwzględnieniem przy tej weryfikacji art. 72 ust. 1b–5;
+- **2)** jeżeli na podstawie przepisów ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2019 r. poz. 1844) uzyskał informację, że zgłoszony do rejestracji pojazd został skradziony, przywłaszczony lub utracony w inny sposób;
+- **3)** jeżeli w odpowiedzi na jego pytanie skierowane do organu rejestrującego właściwego ze względu na miejsce ostatniej rejestracji pojazdu za granicą lub punktu kontaktowego wyznaczonego przez państwo członkowskie Unii Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, uzyskał potwierdzenie, że status prawny pojazdu uprzednio zarejestrowanego w tym państwie powoduje przeszkodę do rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej.”,
+    - **c)** w ust. 2b zdanie drugie otrzymuje brzmienie: „Organ ten wydaje dowód rejestracyjny i zalegalizowane tablice (tablicę) rejestracyjne, chyba że dla danego pojazdu tablice (tablica) rejestracyjne nie są wymagane, a numer rejestracyjny umieszcza się bezpośrednio na pojeździe.”,
+    - **d)** w ust. 3 zdanie drugie otrzymuje brzmienie: „Organy te wydają dowód rejestracyjny i zalegalizowane tablice (tablicę) rejestracyjne, chyba że dla danego pojazdu tablice (tablica) rejestracyjne nie są wymagane, a numer rejestracyjny umieszcza się bezpośrednio na pojeździe.”,
+    - **e)** w ust. 3a: – wyraz „Producent” zastępuje się wyrazem „Wytwórca”, – skreśla się wyrazy „ , nalepek kontrolnych”;
+
+- **10)** po art. 73 dodaje się art. 73a–73d w brzmieniu: „Art. 73a. 1. Właściwy miejscowo dla siedziby sejmiku województwa prezydent miasta na prawach powiatu:
+- **1)** prowadzi ewidencję tablic rejestracyjnych indywidualnych wydanych na terenie województwa;
+- **2)** wyznacza w ramach województwa dla każdego organu rejestrującego pojemność rejestracyjną dla tablic rejestracyjnych:
+    - **a)** tymczasowych oraz
+    - **b)** samochodowych jednorzędowych zmniejszonych i tymczasowych, dla pojazdu posiadającego zmniejszone wymiary miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej.
+
+2. Ewidencję tablic rejestracyjnych indywidualnych prowadzi się w postaci elektronicznej lub papierowej.
+
+3. Wyznaczone w ramach województwa dla każdego organu rejestrującego pojemności rejestracyjne dla tablic rejestracyjnych, o których mowa w ust. 1 pkt 2, a także numery rejestracyjne tablic rejestracyjnych indywidualnych wpisane do ewidencji tych tablic zawierają informację o wyróżniku województwa i wyróżnikach pojazdów albo wyróżnikach indywidualnych pojazdów.
+
+4. Wpisanie wyróżnika indywidualnego pojazdu do ewidencji tablic rejestracyjnych indywidualnych następuje na wniosek organu rejestrującego, o ile identyczny wyróżnik indywidualny pojazdu nie został nadany na terenie województwa dla innego pojazdu.
+
+5. Właściwy miejscowo dla siedziby sejmiku województwa prezydent miasta na prawach powiatu udostępnia organom rejestrującym informacje z ewidencji tablic rejestracyjnych indywidualnych oraz pojemności rejestracyjne, o których mowa w ust. 1 pkt 2.
+
+6. Ewidencję tablic rejestracyjnych indywidualnych prowadzi się w sposób zabezpieczający przed zniszczeniem oraz dostępem osób nieuprawnionych. Wyznaczenia i udostępnienia pojemności rejestracyjnych, o których mowa w ust. 1 pkt 2, dokonuje się w sposób zabezpieczający przed dostępem osób nieuprawnionych.
 
 **Art. 73b.**
 
@@ -415,13 +479,76 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2019 r. poz. 1610 oraz z 2020 r. poz. 284) wprowadza się następujące zmiany:
 
+- **1)** art. 10 otrzymuje brzmienie: „Art. 10. Przepisy art. 6–9 dotyczą nowych pojazdów.”;
+- **2)** w art. 19 w pkt 2 skreśla się wyrazy „oraz kartę pojazdu, jeżeli była wydana,”;
+- **3)** uchyla się art. 20;
+- **4)** w art. 24:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) unieważnienia dowodu rejestracyjnego i zwrotu unieważnionego dowodu rejestracyjnego właścicielowi pojazdu;”,
+    - **b)** w ust. 1a wyrazy „ust. 1, w zakresie tablic rejestracyjnych” zastępuje się wyrazami „ust. 1b”,
+    - **c)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Przedsiębiorca prowadzący stację demontażu dokonuje zniszczenia tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji i zagospodarowuje je zgodnie z przepisami o odpadach.”,
+    - **d)** ust. 2 i 3 otrzymują brzmienie: „2. Zaświadczenie o demontażu pojazdu zawiera oświadczenie przedsiębiorcy prowadzącego stację demontażu o unieważnieniu dowodu rejestracyjnego oraz o zniszczeniu tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji i zagospodarowaniu ich zgodnie z przepisami o odpadach.
+
+3. Przedsiębiorca prowadzący stację demontażu sporządza zaświadczenie o demontażu pojazdu w dwóch egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, a drugi pozostaje u przedsiębiorcy prowadzącego stację demontażu. W przypadku pojazdu niezarejestrowanego na terytorium kraju przedsiębiorca prowadzący stację demontażu sporządza zaświadczenie o demontażu pojazdu w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi przekazuje w terminie 7 dni Głównemu Inspektorowi Ochrony Środowiska, a trzeci pozostaje u przedsiębiorcy prowadzącego stację demontażu.”,
+
+- **e)** uchyla się ust. 4 i 5;
+- **5)** w art. 25 w ust. 1 w zdaniu drugim wyrazy „ust. 1a–5” zastępuje się wyrazami „ust. 1a–3”;
+- **6)** w art. 27 w pkt 1:
+    - **a)** skreśla się wyrazy „ , karty pojazdu”,
+    - **b)** skreśla się wyrazy „oraz tablic rejestracyjnych”;
+
+- **7)** w art. 33:
+    - **a)** w ust. 2 wyrazy „ust. 3” zastępuje się wyrazami „ust. 3–5”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi przekazuje w terminie 7 dni przedsiębiorcy prowadzącemu stację demontażu, w którego imieniu zaświadczenie zostało wydane, a trzeci pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów. W przypadku pojazdu niezarejestrowanego na terytorium kraju przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu w czterech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, dwa przekazuje w terminie 7 dni przedsiębiorcy prowadzącemu stację demontażu, w którego imieniu zaświadczenie zostało wydane, a czwarty pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów.”,
+    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. Przedsiębiorca prowadzący punkt zbierania pojazdów przekazuje przedsiębiorcy prowadzącemu stację demontażu wraz z zaświadczeniami, o których mowa w ust. 3, tablice rejestracyjne przyjętego pojazdu wycofanego z eksploatacji.
+
+5. Zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu wydane przez przedsiębiorcę prowadzącego punkt zbierania pojazdów zawierają oświadczenie przedsiębiorcy o unieważnieniu dowodu rejestracyjnego oraz o przekazaniu tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji przedsiębiorcy prowadzącemu stację demontażu.”;
+
+- **8)** w art. 51 w ust. 1 i 2 skreśla się wyrazy „lub nie przekazuje tego zaświadczenia organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu”.
+
 **Art. 5.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568 i 695) wprowadza się następujące zmiany:
+
+- **1)** w art. 19e po ust. 2d dodaje się ust. 2e w brzmieniu: „2e. Minister właściwy do spraw informatyzacji może udostępnić użytkownikowi publicznej aplikacji mobilnej usługę, która wykorzystuje dane dotyczące użytkownika i jego sytuacji prawnej lub praw mu przysługujących, przetwarzane w rejestrze publicznym prowadzonym lub w systemie teleinformatycznym wykorzystywanym przez podmiot publiczny, w przypadku gdy łącznie są spełnione następujące warunki:
+- **1)** odrębne przepisy przewidują udostępnianie użytkownikowi takich danych przy wykorzystaniu usługi online lub na wniosek, albo nie stoją na przeszkodzie udostępnianiu użytkownikowi takich danych;
+- **2)** użytkownik, który został uwierzytelniony w publicznej aplikacji mobilnej w sposób określony w art. 20a ust. 1, wyraził wolę korzystania z usługi wykorzystującej takie dane.”;
+- **2)** w art. 19g w ust. 1 i 2 po wyrazie „podmiot” dodaje się wyrazy „lub na potrzeby realizacji usługi, o której mowa w art. 19e ust. 2e”.
 
 **Art. 6.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2020 r. poz. 808 i 875) w art. 5 dodaje się ust. 7 w brzmieniu: „7. Zwrot zatrzymanego prawa jazdy następuje przez przekazanie do centralnej ewidencji kierowców informacji o zwrocie tego dokumentu niezwłocznie po uchyleniu decyzji o zatrzymaniu prawa jazdy.”.
 
 **Art. 7.** W ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2020 r. poz. 332, 695 i 875) w art. 66 w ust. 3 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „15) inspektorzy Inspekcji Transportu Drogowego oraz strażnicy gminni (miejscy).”.
 
 **Art. 8.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2020 r. poz. 1268) wprowadza się następujące zmiany:
+
+- **1)** art. 16a otrzymuje brzmienie: „Art. 16a. 1. Wytwórca praw jazdy i pozwoleń na kierowanie tramwajem zapewnia system teleinformatyczny umożliwiający realizację zadań organów właściwych do wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami, o których mowa w art. 122 ust. 1, w tym w zakresie procesu wytwarzania, personalizacji i dystrybucji dokumentów związanych z realizacją tych zadań.
+
+2. System teleinformatyczny, o którym mowa w ust. 1, zapewnia integralność powiązania procesu wytwarzania dokumentów związanych z realizacją zadań, o których mowa w ust. 1, z danymi gromadzonymi w centralnej ewidencji kierowców, z uwzględnieniem referencyjności tych danych przy realizacji tych zadań.
+
+3. System teleinformatyczny, o którym mowa w ust. 1, zapewnia co najmniej funkcjonalności spójne z systemem teleinformatycznym obsługującym centralną ewidencję kierowców.
+
+4. Minister właściwy do spraw informatyzacji nadzoruje interoperacyjność systemu teleinformatycznego, o którym mowa w ust. 1, z systemem teleinformatycznym obsługującym centralną ewidencję kierowców.
+
+5. Minister właściwy do spraw informatyzacji zawiera z wytwórcą praw jazdy i pozwoleń na kierowanie tramwajem umowę regulującą:
+
+- **1)** zasady współpracy w zakresie:
+    - **a)** określenia charakteru i zakresu zmian dostosowujących system teleinformatyczny, o którym mowa w ust. 1, do zmian w systemie teleinformatycznym obsługującym centralną ewidencję kierowców,
+    - **b)** udostępniania ministrowi właściwemu do spraw informatyzacji informacji i doświadczenia technicznego, w tym dokumentacji, dotyczących systemu teleinformatycznego, o którym mowa w ust. 1, niezbędnych ministrowi do sprawowania nadzoru, o którym mowa w ust. 4;
+
+- **2)** odpłatności za realizację zmian oraz za udostępnienie informacji i doświadczenia technicznego, o których mowa w pkt 1.
+
+6. Koszty związane z zawarciem i realizacją umowy, o której mowa w ust. 5, są finansowane ze środków Funduszu – Centralna Ewidencja Pojazdów i Kierowców.”;
+
+- **2)** w art. 51 w ust. 2a w pkt 1 po wyrazach „zadania publiczne” dodaje się wyrazy „(Dz. U. z 2020 r. poz. 346, 568 i 695)”;
+- **3)** w art. 102:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) upłynął termin ważności prawa jazdy lub pozwolenia na kierowanie tramwajem – jeżeli organ kontroli ruchu drogowego przekazał informację o zatrzymaniu dokumentu;”,
+    - **b)** ust. 1c otrzymuje brzmienie: „1c. Starosta wydaje decyzję, o której mowa w ust. 1 pkt 4 lub 5, na okres 3 miesięcy, nadając jej rygor natychmiastowej wykonalności.”,
+    - **c)** w ust. 1d i 1da wyrazy „art. 135 ust. 1 pkt 1a” zastępuje się wyrazami „art. 135 ust. 1 pkt 2 albo art. 135a ust. 1 pkt 2”,
+    - **d)** w ust. 1e zdanie pierwsze otrzymuje brzmienie: „Okres, o którym mowa w ust. 1c i 1d, oblicza się na zasadach określonych w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, przy czym dla ustalenia początku okresu jest właściwa data zatrzymania prawa jazdy.”;
+
+- **4)** w art. 104a w ust. 1 po wyrazach „art. 135 ust. 1 pkt 1 lit. a” dodaje się wyrazy „albo art. 135a ust. 1 pkt 1 lit. a”;
+- **5)** w art. 106:
+    - **a)** w ust. 2 po wyrazach „o których mowa w art. 8 ust. 3” dodaje się wyrazy „ , oraz inspektorów i ekspertów Biura Nadzoru Wewnętrznego”,
+    - **b)** w ust. 3 wyrazy „ , Służby Celno-Skarbowej i Inspekcji Transportu Drogowego” zastępuje się wyrazami „i Służby Celno-Skarbowej, inspektorów i pracowników Inspekcji Transportu Drogowego oraz inspektorów i ekspertów Biura Nadzoru Wewnętrznego”;
+
+- **6)** w art. 109 po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Inspektorom i ekspertom Biura Nadzoru Wewnętrznego zezwolenie na kierowanie pojazdem uprzywilejowanym wydaje nieodpłatnie Inspektor Nadzoru Wewnętrznego.”.
 
 **Art. 9.** W ustawie z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957 oraz z 2019 r. poz. 730) w art. 16a wyrazy „art. 135 ust. 2, art. 136 ust. 1 i 1a” zastępuje się wyrazami „art. 135 ust. 4, art. 135a ust. 5, art. 135b i art. 136 ust. 1–3”.
 
@@ -515,4 +642,18 @@ source: "isap-pdf"
 **Art. 28.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 76 ust. 2–3 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 76 ust. 2–3 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy i mogą być zmieniane na podstawie przepisów dotychczasowych.
 
 **Art. 29.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 9 lit. e tiret pierwsze oraz pkt 15 i 30, art. 5, art. 7, art. 8 pkt 1 i 2 oraz art. 22, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 33 i pkt 38 lit. e, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia;
+- **3)** art. 1 pkt 1, pkt 10 w zakresie art. 73c, pkt 11 lit. c w zakresie art. 74 ust. 2c oraz pkt 14, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia;
+- **4)** art. 1 pkt 10 w zakresie art. 73d, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia;
+- **5)** art. 1 pkt 12 w zakresie art. 74b, który wchodzi w życie z dniem 1 stycznia 2022 r.;
+- **6)** art. 1 pkt 7, pkt 8 lit. a, lit. b tiret drugie i lit. c, pkt 9 lit. a, c, d oraz lit. e tiret drugie, pkt 13 lit. b, pkt 16 i 17, pkt 18 lit. b oraz c, pkt 20 i 22, pkt 23 lit. a, pkt 24 lit. a tiret drugie i trzecie oraz pkt 28, art. 4 pkt 1 i 2, pkt 4 lit. a oraz pkt 6 lit. a, art. 10–12 oraz art. 28, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia;
+- **7)** art. 1 pkt 19 lit. b–e, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających czasowe wycofanie z ruchu samochodu osobowego, określonym w komunikacie, o którym mowa w art. 17;
+- **8)** art. 1 pkt 9 lit. b w zakresie art. 73 ust. 1a oraz pkt 11 lit. c w zakresie art. 74 ust. 2d i 2e, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających zachowanie dotychczasowego numeru rejestracyjnego pojazdu, określonym w komunikacie, o którym mowa w art. 18;
+- **9)** art. 1 pkt 24 lit. a tiret czwarte oraz lit. b i pkt 25 lit. a tiret pierwsze oraz lit. b, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie do centralnej ewidencji pojazdów i gromadzenie w tej ewidencji danych o przekroczeniach terminów, o których mowa w art. 71 ust. 7 i art. 78 ust. 2 pkt 1 ustawy zmienianej w art. 1, określonym w komunikacie, o którym mowa w art. 19;
+- **10)** art. 1 pkt 27, który wchodzi w życie z dniem wdrożenia rozwiązań technicznych umożliwiających generowanie z systemu teleinformatycznego obsługującego centralną ewidencję pojazdów raportu potwierdzającego dane zgromadzone w tej ewidencji, określonym w komunikacie, o którym mowa w art. 21;
+- **11)** art. 1 pkt 2 lit. a tiret pierwsze, pkt 34, 35 i 37, pkt 38 lit. a–d oraz pkt 40–44, art. 2, art. 3, art. 6, art. 8 pkt 3 i 4, art. 9 oraz art. 25, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających weryfikację danych o kierującym pojazdem w centralnej ewidencji kierowców i wprowadzanie do centralnej ewidencji kierowców informacji o zatrzymaniu wydanego w kraju prawa jazdy lub pozwolenia na kierowanie tramwajem oraz o ich zwrocie, określonym w komunikacie, o którym mowa w art. 22 ust. 1;
+- **12)** art. 1 pkt 21 lit. b oraz art. 4 pkt 3, pkt 4 lit. b–e, pkt 5, pkt 6 lit. b oraz pkt 7 i 8, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu, określonym w komunikacie, o którym mowa w art. 23.
+
 

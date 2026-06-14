@@ -8,7 +8,7 @@ pos: 547
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw
@@ -27,7 +27,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941130547) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/547/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. Nr 24, poz. 141, z 1975 r. Nr 16, poz. 91, z 1981 r. Nr 6, poz. 23, z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 20, poz. 85 i Nr 35, poz. 162, z 1986 r. Nr 42, poz. 201, z 1987 r. Nr 21, poz. 124, z 1988 r. Nr 20, poz. 134, z 1989 r. Nr 20, poz. 107 i Nr 35, poz. 192, z 1990 r. Nr 4, poz. 19, Nr 43, poz. 251 i Nr 55, poz. 319 oraz z 1991 r. Nr 53, poz. 226, Nr 55, poz. 236 i 237) dział jedenasty otrzymuje brzmienie: "Dział jedenasty Układy zbiorowe pracy
+**Art. 1.** Nr W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. Nr 24, poz. 141, z 1975 r. Nr 16, poz. 91, z 1981 r. Nr 6, poz. 23, z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 20, poz. 85 i Nr 35, poz. 162, z 1986 r. Nr 42, poz. 201, z 1987 r. Nr 21, poz. 124, z 1988 r. Nr 20, poz. 134, z 1989 r. Nr 20, poz. 107 i Nr 35, poz. 192, z 1990 r. Nr 4, poz. 19, Nr 43, poz. 251 i Nr 55, poz. 319 oraz z 1991 r. Nr 53, poz. 226, Nr 55, poz. 236 i 237) dział jedenasty otrzymuje brzmienie: "Dział jedenasty Układy zbiorowe pracy
 
 #### Rozdział I Przepisy ogólne
 
@@ -68,6 +68,11 @@ source: "isap-pdf"
 **Art. 241.** Postanowienia układu nie mogą być mniej korzystne dla pracowników niż ustawowe przepisy prawa pracy lub przepisy wydane na ich podstawie.
 
 **Art. 241¹.** Strony, określając wzajemne zobowiązania przy stosowaniu układu, mogą w szczególności ustalić:
+
+- **1)** sposób publikacji układu i rozpowszechniania jego treści,
+- **2)** tryb dokonywania okresowych ocen funkcjonowania układu,
+- **3)** tryb wyjaśniania treści postanowień układu oraz rozstrzygania sporów między stronami w tym zakresie,
+- **4)** wzajemne obowiązki dotyczące przestrzegania postanowień układu.
 
 **Art. 241².**
 
@@ -219,6 +224,9 @@ source: "isap-pdf"
 
 **Art. 241¹⁵.** Prawo wystąpienia z inicjatywą zawarcia układu ponadzakładowego przysługuje:
 
+- **1)** organizacjom pracodawców i innym podmiotom uprawnionym do zawarcia układu ze strony pracodawców,
+- **2)** każdej ponadzakładowej organizacji związkowej reprezentującej pracowników, dla których ma być zawarty układ.
+
 **Art. 241¹⁶.**
 
 § 1. Jeżeli pracowników, dla których ma być zawarty układ ponadzakładowy, reprezentuje więcej niż jedna organizacja związkowa, rokowania w celu zawarcia układu prowadzi ich wspólna reprezentacja lub działające wspólnie poszczególne organizacje związkowe.
@@ -278,6 +286,9 @@ source: "isap-pdf"
 **Art. 241²³.** Układ zakładowy zawiera pracodawca i zakładowa organizacja związkowa.
 
 **Art. 241²⁴.** Prawo wystąpienia z inicjatywą zawarcia układu zakładowego przysługuje:
+
+- **1)** pracodawcy,
+- **2)** każdej zakładowej organizacji związkowej.
 
 **Art. 241²⁵.**
 
@@ -396,9 +407,35 @@ source: "isap-pdf"
 
 **Art. 14.** W ustawie z dnia 23 maja 1991 r. o pracy na morskich statkach handlowych (Dz.U. Nr 61, poz. 258) wprowadza się następujące zmiany:
 
+- **1)** w art. 38 w ust. 3 wyrazy "w morskim układzie zbiorowym pracy" zastępuje się wyrazami "w zakładowym układzie zbiorowym pracy";
+- **2)** w art. 56 w ust. 1 wyrazy "morski układ zbiorowy" zastępuje się wyrazami "zakładowy układ zbiorowy pracy";
+- **3)** w art. 78 wyrazy "który nie zawarł morskiego układu zbiorowego" zastępuje się wyrazami "który nie zawarł zakładowego układu zbiorowego pracy";
+- **4)** w dziale X:
+    - **a)** w tytule działu wyrazy "Morski układ zbiorowy" zastępuje się wyrazami "Zakładowy układ zbiorowy pracy",
+    - **b)** tytułowi rozdziału 1 nadaje się brzmienie: "Zakładowy układ zbiorowy pracy",
+    - **c)** skreśla się art. 79-81 oraz art. 85-88,
+    - **d)** art. 89 otrzymuje brzmienie: "Art. 89. W sprawach nie uregulowanych przepisami ustawy do zakładowych układów zbiorowych pracy stosuje się odpowiednio przepisy Kodeksu pracy o układach zbiorowych pracy.";
+
+- **5)** skreśla się art. 100 i 101.
+
 **Art. 15.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646 oraz z 1994 r. Nr 43, poz. 163 i Nr 90, poz. 419) wprowadza się następujące zmiany:
 
+- **1)** w art. 21 w ust. 1:
+    - **a)** pkt 16 otrzymuje brzmienie: "16) diety i inne należności za czas podróży służbowej pracowników do wysokości określonej w odrębnych ustawach lub przepisach wydanych przez właściwego ministra,",
+    - **b)** w pkt 18 wyrazy "dla pracowników przedsiębiorstw państwowych" zastępuje się wyrazami "wydanych przez właściwego ministra",
+    - **c)** w pkt 22 wyrazy "obowiązujących w przedsiębiorstwach państwowych" zastępuje się wyrazami "wydanych przez właściwego ministra",
+    - **d)** w pkt 23 wyrazy "Ministra Pracy i Polityki Socjalnej" zastępuje się wyrazami "właściwego ministra";
+
+- **2)** w art. 23 w ust. 1:
+    - **a)** w pkt 13 po wyrazie "zawodowych" dodaje się wyrazy "w wysokości określonej przez właściwego ministra",
+    - **b)** w pkt 36 wyrazy "obowiązujących w przedsiębiorstwach państwowych" zastępuje się wyrazami "wydanych przez właściwego ministra",
+    - **c)** w pkt 46 wyrazy "obowiązujących w przedsiębiorstwach państwowych" zastępuje się wyrazami "wydanych przez właściwego ministra".
+
 **Art. 16.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz.U. z 1993 r. Nr 106, poz. 482 i Nr 134, poz. 646 oraz z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163, Nr 80, poz. 368, Nr 87, poz. 406 i Nr 90, poz. 419) w art. 16 w ust. 1 wprowadza się następujące zmiany:
+
+- **1)** w pkt 16 po wyrazie "zawodowych" dodaje się wyrazy "w wysokości określonej przez właściwego ministra",
+- **2)** w pkt 30 wyrazy "obowiązujących w przedsiębiorstwach państwowych" zastępuje się wyrazami "wydanych przez właściwego ministra",
+- **3)** w pkt 51 wyrazy "obowiązujących w przedsiębiorstwach pań stwowych" zastępuje się wyrazami "wydanych przez właściwego ministra".
 
 **Art. 17.**
 
@@ -408,9 +445,7 @@ source: "isap-pdf"
 
 3. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, skład Komisji uwzględniając przedstawicieli centralnych organów administracji rządowej, ponadzakładowych organizacji związkowych uznanych za reprezentatywne na podstawie przepisów art. 241 § 1 pkt 1 i 2 oraz § 2 Kodeksu pracy oraz konfederacji pracodawców, tryb powoływania jej członków na wniosek właściwych ministrów, Głównego Inspektora Pracy oraz statutowych organów organizacji związkowych i pracodawców, zasady jej działania w celu udzielania stronom zamierzającym zawrzeć układ zbiorowy pracy pomocy w formie doradztwa i konsultacji oraz zasady zwrotu zamiejscowym członkom Komisji i innym osobom biorącym udział w jej pracach kosztów podróży.
 
-**Art. 18.**
-
-1. Traci moc:
+**Art. 18.** art. 1. Traci moc:
 
 - **1)** ustawa z dnia 26 stycznia 1984 r. o zasadach tworzenia zakładowych systemów wynagradzania (Dz.U. z 1990 r. Nr 69, poz. 407),
 - **2)** art. 2 i 3 ustawy z dnia 24 listopada 1986 r. o zmianie ustawy - Kodeks pracy (Dz.U. Nr 42, poz. 201).

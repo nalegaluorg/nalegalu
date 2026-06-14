@@ -8,10 +8,10 @@ pos: 1380
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 lipca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1380 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 10 lipca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001380) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1380/text.pdf) |
 
-Poz. 1380 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 10 lipca 2023 r.
-w sprawie zakażeń i chorób zakaźnych objętych obowiązkiem przekazywania państwowemu powiatowemu inspektorowi sanitarnemu danych o wynikach leczenia lub o wykluczeniu nosicielstwa u ozdrowieńca Na podstawie art. 40a ust. 3 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284 i 909) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie zakażeń i chorób zakaźnych objętych obowiązkiem przekazywania państwowemu powiatowemu inspektorowi sanitarnemu danych o wynikach leczenia lub o wykluczeniu nosicielstwa u ozdrowieńca Na podstawie art. 40a ust. 3 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284 i 909) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wykaz zakażeń i chorób zakaźnych objętych obowiązkiem przekazywania danych o wynikach leczenia lub o wykluczeniu nosicielstwa u ozdrowieńca;
 2) zakres danych o wynikach leczenia lub o wykluczeniu nosicielstwa u ozdrowieńca objętych obowiązkiem przekazania danych oraz okoliczności, termin i sposób ich przekazywania;
 3) właściwość państwowego inspektora sanitarnego w zakresie otrzymania danych o wynikach leczenia lub o wykluczeniu nosicielstwa u ozdrowieńca.

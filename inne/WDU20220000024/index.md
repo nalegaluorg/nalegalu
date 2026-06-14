@@ -8,7 +8,7 @@ pos: 24
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wyrobach winiarskich
@@ -46,6 +46,49 @@ Art. 44–52. (pominięte)
 2. Przepisów ustawy nie stosuje się do wyrobów winiarskich, które zostały wyrobione domowym sposobem na użytek własny i które nie są przeznaczone do wprowadzenia do obrotu.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** alkohol rektyfikowany – alkohol, o którym mowa w art. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/787 z dnia 17 kwietnia 2019 r. w sprawie definicji, opisu, prezentacji i etykietowania napojów spirytusowych, stosowania nazw napojów spirytusowych w prezentacji i etykietowaniu innych środków spożywczych, ochrony oznaczeń geograficznych napojów spirytusowych, wykorzystywania alkoholu etylowego i destylatów pochodzenia rolniczego w napojach alkoholowych, a także uchylającego rozporządzenie (WE) nr 110/2008 (Dz. Urz. UE L 130 z 17.05.2019, str. 1), zwanego dalej „rozporządzeniem 2019/787”;
+- **2)** aromatyzowanie – dodanie: Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. UE L 31 z 01.02.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 663) głównie w celu aromatyzowania;
+    - **a)** środków aromatyzujących (aromatów), o których mowa w art. 3 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1334/2008 z dnia 16 grudnia 2008 r. w sprawie środków aromatyzujących i niektórych składników żywności o właściwościach aromatyzujących do użycia w oraz na środkach spożywczych oraz zmieniającego rozporządzenie Rady (EWG) nr 1601/91, rozporządzenia (WE) nr 2232/96 oraz (WE) nr 110/2008 oraz dyrektywę 2000/13/WE (Dz. Urz. UE L 354 z 31.12.2008, str. 34, z późn. zm. ), oraz
+    - **b)** aromatyzujących środków spożywczych w rozumieniu art. 2 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds.
+
+- **3)** barwienie – dodanie barwników w rozumieniu załącznika I pkt 2 do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. w sprawie dodatków do żywności (Dz. Urz. UE L 354 z 31.12.2008, str. 34, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1333/2008”, oraz ekstraktów roślinnych (żywność barwiąca), w tym moszczów, soków i zagęszczonych soków uzyskanych z owoców innych niż winogrona, w celu nadania koloru, bez zmiany dominującego smaku i zapachu fermentowanego napoju winiarskiego;
+- **4)** słodzenie – dodanie jednego produktu słodzącego lub ich większej liczby spośród następujących produktów słodzących:
+    - **a)** sacharozy (cukru przemysłowego), cukru (cukru białego) lub cukru ekstra białego (cukru rafinowanego),
+    - **b)** płynnego cukru (roztworu cukru), płynnego cukru inwertowanego (roztworu cukru inwertowanego), syropu cukru inwertowanego, syropu glukozowego, syropu glukozowego w proszku, jednowodnej glukozy (jednowodnej dekstrozy), bezwodnej glukozy (bezwodnej dekstrozy) lub fruktozy,
+    - **c)** moszczu winogronowego, zagęszczonego moszczu winogronowego, rektyfikowanego zagęszczonego moszczu winogronowego, soku winogronowego lub zagęszczonego soku winogronowego,
+    - **d)** moszczu z owoców innych niż winogrona, soku z owoców innych niż winogrona lub zagęszczonego soku owocowego z owoców innych niż winogrona,
+    - **e)** cukru palonego będącego produktem otrzymywanym wyłącznie w wyniku kontrolowanego podgrzewania sacharozy bez współudziału zasad, kwasów mineralnych lub innych dodatków chemicznych,
+    - **f)** miodu,
+    - **g)** substancji słodzących dozwolonych zgodnie z rozporządzeniem nr 1333/2008;
+
+- **5)** destylat – destylat pochodzenia rolniczego, o którym mowa w art. 4 pkt 7 rozporządzenia 2019/787;
+- **6)** destylat miodowy – destylat uzyskany z miodu, miodu pitnego lub wina miodowego;
+- **7)** destylat owocowy – destylat uzyskany z owoców innych niż winogrona lub z wina owocowego;
+- **8)** destylat winogronowy – destylat uzyskany z winogron lub wina;
+- **9)** dodatek alkoholu – alkohol rektyfikowany lub destylat dodany do fermentowanego napoju winiarskiego;
+- **10)** kontrole urzędowe – kontrole urzędowe w rozumieniu art. 2 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. );
+- **11)** nastaw na cydr – mieszaninę sporządzoną przy użyciu jabłek, moszczu jabłkowego, soku jabłkowego lub zagęszczonego soku jabłkowego, z możliwością dodania wody, gruszek, moszczu gruszkowego, soku gruszkowego lub zagęszczonego soku gruszkowego, sacharozy, cukru płynnego, inwertowanego cukru płynnego, glukozy, syropu glukozowego, fruktozy, drożdży, pożywek lub kwasów organicznych;
+- **12)** nastaw na cydr jakościowy – mieszaninę sporządzoną przy użyciu jabłek lub moszczu jabłkowego, z możliwością dodania gruszek lub moszczu gruszkowego, wody, drożdży, pożywek lub kwasów organicznych;
+- **13)** nastaw na cydr lodowy – mieszaninę sporządzoną przy użyciu jabłek, moszczu jabłkowego lub soku jabłkowego, poddanych uprzednio mrożeniu, bez dodatku wody, z możliwością dodania gruszek, moszczu gruszkowego lub soku gruszkowego, poddanych uprzednio mrożeniu, drożdży, pożywek lub kwasów organicznych;
+- **14)** nastaw na miód pitny – mieszaninę sporządzoną przy użyciu miodu i wody, z możliwością dodania owoców, moszczu owocowego, soku owocowego, zagęszczonego soku owocowego, ziół, przypraw korzennych, sacharozy, cukru płynnego, inwertowanego cukru płynnego, drożdży, pożywek lub kwasów organicznych;
+- **15)** nastaw na miód pitny jakościowy – mieszaninę sporządzoną przy użyciu miodu i wody, z możliwością dodania owoców, moszczu owocowego, soku owocowego, zagęszczonego soku owocowego, ziół, przypraw korzennych, drożdży, pożywek lub kwasów organicznych;
+- **16)** nastaw na perry – mieszaninę sporządzoną przy użyciu gruszek, moszczu gruszkowego, soku gruszkowego lub zagęszczonego soku gruszkowego, z możliwością dodania wody, jabłek, moszczu jabłkowego, soku jabłkowego lub zagęszczonego soku jabłkowego, sacharozy, cukru płynnego, inwertowanego cukru płynnego, glukozy, syropu glukozowego, fruktozy, drożdży, pożywek lub kwasów organicznych;
+- **17)** nastaw na perry jakościowe – mieszaninę sporządzoną przy użyciu gruszek lub moszczu gruszkowego, z możliwością dodania jabłek lub moszczu jabłkowego, wody, drożdży, pożywek lub kwasów organicznych;
+- **18)** nastaw na perry lodowe – mieszaninę sporządzoną przy użyciu gruszek, moszczu gruszkowego lub soku gruszkowego, poddanych uprzednio mrożeniu, bez dodatku wody, z możliwością dodania jabłek, moszczu jabłkowego lub soku jabłkowego, poddanych uprzednio mrożeniu, drożdży, pożywek lub kwasów organicznych;
+- **19)** nastaw na wino owocowe – mieszaninę sporządzoną przy użyciu owoców innych niż winogrona, moszczu z owoców innych niż winogrona, soku z owoców innych niż winogrona lub zagęszczonego soku owocowego z owoców innych niż winogrona, z możliwością dodania wody, sacharozy, cukru płynnego, inwertowanego cukru płynnego, glukozy, syropu glukozowego, fruktozy, drożdży, pożywek lub kwasów organicznych;
+- **20)** nastaw na wino owocowe jakościowe – mieszaninę sporządzoną przy użyciu owoców innych niż winogrona lub moszczu z owoców innych niż winogrona, z możliwością dodania wody, sacharozy, drożdży, pożywek lub kwasów organicznych;
+- **21)** nastaw na wino z soku winogronowego – mieszaninę sporządzoną przy użyciu moszczu winogronowego, zagęszczonego moszczu winogronowego, soku winogronowego lub zagęszczonego soku winogronowego, z możliwością dodania wody, sacharozy, cukru płynnego, inwertowanego cukru płynnego, glukozy, syropu glukozowego, fruktozy, drożdży, pożywek lub kwasów organicznych;
+- **22)** plantator winorośli – plantatora winorośli w rozumieniu art. 2 pkt 1 lit. a rozporządzenia delegowanego Komisji (UE) 2018/273 z dnia 11 grudnia 2017 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do systemu zezwoleń na nasadzenia winorośli, rejestru winnic, dokumentów towarzyszących i świadectw, rejestru przychodów i rozchodów, obowiązkowych deklaracji, powiadomień i publikowania zgłoszonych informacji, oraz uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do odpowiednich kontroli i kar, zmieniającego rozporządzenia Komisji (WE) nr 555/2008, (WE) nr 606/2009 i (WE) nr 607/2009 oraz uchylającego rozporządzenie Komisji (WE) nr 436/2009 i rozporządzenie delegowane Komisji (UE) 2015/560 (Dz. Urz. UE L 58 z 28.02.2018, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2018/273”;
+- **23)** producent wina – producenta w rozumieniu art. 2 ust. 2 rozporządzenia 2018/273, który przetwarza na terytorium Rzeczypospolitej Polskiej świeże winogrona, moszcz winogronowy lub młode wino w trakcie fermentacji na wino lub moszcz;
+- **24)** drobny producent wina z upraw własnych – producenta wina spełniającego wymagania określone dla drobnego producenta w rozumieniu art. 2 ust. 3 rozporządzenia 2018/273, który wyrabia w danym roku winiarskim, biorąc pod uwagę średnią roczną produkcję co najmniej z trzech kolejnych lat winiarskich, średnio mniej niż 1000 hektolitrów wina, wyrobionego z surowców pochodzących z:
+    - **a)** upraw własnych winorośli lub
+    - **b)** upraw winorośli położonych na obszarze województwa, w którym jest zlokalizowane miejsce wyrobu wina, lub powiatów sąsiadujących z tym województwem, w ilości nie większej niż 50% wagowo wszystkich surowców pochodzących z upraw winorośli;
+
+- **25)** produkty sektora wina – produkty, o których mowa w załączniku I część XII do rozporządzenia nr 1308/2013, z wyłączeniem octu winnego o kodach CN 2209 00 11 i 2209 00 19;
+- **26)** rok winiarski – rok gospodarczy, o którym mowa w art. 6 lit. d rozporządzenia nr 1308/2013;
+- **27)** rozlew – rozlewanie wyrobu winiarskiego do opakowań jednostkowych;
+- **28)** rzeczywista zawartość alkoholu – zawartość alkoholu w % objętościowych określoną przez liczbę jednostek objętości alkoholu 100% zawartą w 100 jednostkach objętości wyrobu winiarskiego w temperaturze 20°C.
 
 **Art. 3.**
 
@@ -118,6 +161,10 @@ Art. 44–52. (pominięte)
 5. Fermentowane napoje winiarskie wprowadzone do obrotu zgodnie z przepisami obowiązującymi w innym państwie członkowskim Unii Europejskiej lub w Turcji lub pochodzące z państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) będącego stroną umowy o Europejskim Obszarze Gospodarczym i wprowadzane do obrotu zgodnie z przepisami obowiązującymi w tym państwie uznaje się za spełniające wymagania określone w przepisach niniejszej ustawy oraz w przepisach aktów wykonawczych wydanych na jej podstawie.
 
 **Art. 6.** Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy sposób wyrobu fermentowanych napojów winiarskich, rodzaje tych napojów oraz dodatkowe określenia charakteryzujące dany napój, które są stosowane albo mogą być stosowane w nazwie danego napoju,
+- **2)** szczegółowe wymagania organoleptyczne, fizyczne i chemiczne, które powinny spełniać fermentowane napoje winiarskie,
+- **3)** metody analiz fermentowanych napojów winiarskich wykonywanych w ramach nadzoru nad jakością handlową tych napojów – mając na względzie zapewnienie jednolitych wymagań w zakresie jakości handlowej, metod wyrobu i analiz fermentowanych napojów winiarskich oraz zapewnienie konsumentom wyczerpującej informacji o tych napojach.
 
 #### Rozdział 3 Rejestr przedsiębiorców wykonujących działalność w zakresie wyrobu lub rozlewu wyrobów winiarskich
 
@@ -294,9 +341,18 @@ Art. 44–52. (pominięte)
 
 **Art. 18.** Właściwym organem w zakresie kontroli urzędowej upraw winorośli położonych na terytorium Rzeczypospolitej Polskiej w zakresie spełniania wymagań określonych w art. 81 ust. 2 akapicie drugim rozporządzenia nr 1308/2013 jest wojewódzki inspektor ochrony roślin i nasiennictwa właściwy ze względu na miejsce położenia uprawy winorośli, w odniesieniu do której dokonuje się kontroli zgodności ze stanem faktycznym:
 
+- **1)** danych zgłoszonych przez plantatora winorośli we wniosku o wpis do ewidencji winnic, o których mowa w art. 22 ust. 4 pkt 5;
+- **2)** dokumentów potwierdzających pochodzenie odmian winorośli, w tym zgodności nazw tych odmian winorośli lub ich synonimów z danymi, o których mowa w pkt 1.
+
 **Art. 19.** Właściwym organem:
 
+- **1)** wyznaczonym do pełnienia funkcji instytucji łącznikowej, o której mowa w art. 40 akapicie trzecim rozporządzenia 2018/273,
+- **2)** w zakresie dokonywania powiadomień, o których mowa w art. 50 rozporządzenia 2018/273 i w załączniku VIII część I sekcja A pkt 3 do rozporządzenia nr 1308/2013 – jest minister właściwy do spraw rynków rolnych.
+
 **Art. 20.** Osoby przeprowadzające kontrole w ramach kontroli urzędowych przeprowadzanych przez:
+
+- **1)** wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych,
+- **2)** wojewódzkiego inspektora ochrony roślin i nasiennictwa – są uprawnione, w celu zapewnienia zgodności z przepisami Unii Europejskiej dotyczącymi sektora wina, do podejmowania czynności określonych w art. 41 rozporządzenia 2018/273.
 
 **Art. 21.**
 
@@ -480,6 +536,11 @@ Art. 44–52. (pominięte)
 
 **Art. 31.** Minister właściwy do spraw rynków rolnych, w przypadku gdy wielkość wyrobu wina, o której mowa w art. 81 ust. 3 rozporządzenia nr 1308/2013, zostanie przekroczona, określi, w drodze rozporządzenia, wykaz nazw odmian winorośli przeznaczonych do uprawy w celu pozyskiwania winogron do wyrobu wina lub ich synonimów, mając na względzie, aby w tym wykazie znajdowały się wyłącznie nazwy odmian winorośli lub ich synonimy, które:
 
+- **1)** są uprawiane na terytorium Rzeczypospolitej Polskiej;
+- **2)** zostały:
+    - **a)** sklasyfikowane przez inne niż Rzeczpospolita Polska państwo członkowskie zgodnie z art. 81 ust. 2 rozporządzenia nr 1308/2013 lub
+    - **b)** są objęte wyłącznym prawem do odmiany, o którym mowa w przepisach o ochronie prawnej odmian roślin.
+
 **Art. 32.**
 
 1. Plantator winorośli składa do Dyrektora Generalnego KOWR, w terminie do dnia 15 stycznia każdego roku, deklarację o zbiorach winogron w danym roku winiarskim.
@@ -629,6 +690,18 @@ Art. 44–52. (pominięte)
 2. W przypadkach określonych w art. 40 ust. 2, sąd orzeka przepadek przedmiotów, które pochodzą bezpośrednio z przestępstwa albo które służyły lub były przeznaczone do popełnienia przestępstwa, choćby nie były własnością sprawcy.
 
 **Art. 42.** Kto:
+
+- **1)** będąc wpisanym do rejestru, nie wdraża systemu kontroli wewnętrznej wyrobu lub rozlewu wyrobów winiarskich lub nie wyznacza osoby odpowiedzialnej za kontrolę jakości wyrobów winiarskich,
+- **2)** będąc wpisanym do rejestru, wyrabia fermentowane napoje winiarskie na zasadach określonych w art. 9 ust. 1 w ilości większej niż wskazana w tym przepisie lub nabywa owoce lub miód w ilości większej niż określona w art. 9 ust. 2,
+- **3)** będąc wpisanym do rejestru, wbrew obowiązkowi wynikającemu z art. 12 ust. 4 nie składa wniosku o zmianę wpisu w rejestrze, w przypadku zmiany danych, o których mowa w art. 10 ust. 3 pkt 1 i 2, lub nie składa tego wniosku w terminie określonym w art. 12 ust. 4,
+- **4)** będąc wpisanym do rejestru, wbrew obowiązkowi wynikającemu z art. 16 nie informuje o zakończeniu lub zawieszeniu wykonywania działalności gospodarczej w zakresie wyrobu lub rozlewu wyrobów winiarskich lub nie przekazuje tej informacji w terminie określonym w tym przepisie,
+- **5)** będąc producentem wina, wyrabia wino w miejscu innym niż miejsce wyrobu wina wskazane w informacji, o której mowa w art. 21 ust. 2,
+- **6)** podaje we wniosku o wpis do ewidencji winnic niezgodne ze stanem faktycznym informacje o miejscu położenia uprawy winorośli, z której winogron wyrabia się wino przeznaczone do wprowadzenia do obrotu, lub podaje niezgodne ze stanem faktycznym nazwy uprawianych odmian winorośli lub ich synonimy,
+- **7)** wbrew obowiązkowi wynikającemu z art. 147 ust. 2 rozporządzenia 1308/2018 nie prowadzi rejestru przychodów lub rozchodów zgodnie z przepisami rozdziału V rozporządzenia 2018/273 lub rozdziału IV rozporządzenia 2018/274, dokonuje w rejestrze przychodów lub rozchodów wpisów niezgodnych ze stanem faktycznym lub nie wprowadza danych do rejestru przychodów lub rozchodów w terminach określonych w art. 20 rozporządzenia 2018/274,
+- **8)** wbrew obowiązkowi wynikającemu z art. 147 ust. 1 rozporządzenia 1308/2018 i art. 8 ust. 1 rozporządzenia 2018/274 nie zapewnia podczas przewozu produktów sektora wina wymaganych dokumentów towarzyszących, nie przedstawia właściwym organom tych dokumentów na każdym etapie przewozu produktów sektora wina lub nie zapewnia, że te dokumenty spełniają wymogi określone w art. 10 ust. 2–5 rozporządzenia 2018/273 lub w załączniku V do rozporządzenia 2018/273, lub w art. 26 ust. 3,
+- **9)** będąc plantatorem winorośli, producentem wina lub przedsiębiorcą wpisanym do rejestru rozlewającym wino, którego nie wyrobił, nie składa deklaracji, o których mowa w art. 32 ust. 1 i art. 33 ust. 1, w terminach określonych w tych przepisach, mimo wezwania do złożenia tych deklaracji na podstawie art. 34 ust. 2,
+- **10)** wbrew obowiązkowi określonemu w art. 37 ust. 2 nie dokonuje zgłoszenia zamiaru wycofania produktów ubocznych na zasadach określonych w art. 14 rozporządzenia 2019/934 w terminie określonym w art. 37 ust. 2 lub nie wskazuje w tym zgłoszeniu danych określonych w tym przepisie,
+- **11)** będąc producentem wina nie zapewnia spełniania wymagań dla produktów ubocznych określonych w art. 37 ust. 5 – podlega karze grzywny.
 
 **Art. 43.**
 

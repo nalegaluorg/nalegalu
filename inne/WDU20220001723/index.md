@@ -8,10 +8,10 @@ pos: 1723
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie niektórych ustaw celu wzmocnienia bezpieczeństwa gazowego państwa związku z sytuacją na rynku gazu
+# o zmianie niektórych ustaw w celu wzmocnienia bezpieczeństwa gazowego państwa w związku z sytuacją na rynku gazu
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 
@@ -29,34 +29,208 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2022 r. poz. 1537) wprowadza się następujące zmiany:
+- **1)** w art. 15f w ust. 2 zdanie drugie otrzymuje brzmienie: „Współpraca ta obejmuje w szczególności podejmowanie działań mających na celu zapobieganie powstaniu zagrożenia bezpieczeństwa dostarczania paliw gazowych oraz współdziałanie w przypadku wystąpienia stanów kryzysowych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącym środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającym rozporządzenie (UE) nr 994/2010 (Dz. Urz. UE L 280 z 28.10.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/1938”.”;
+- **2)** po art. 15f dodaje się art. 15fa w brzmieniu: „Art. 15fa. 1. Minister właściwy do spraw energii jest właściwym organem w rozumieniu art. 2 pkt 7 rozporządzenia 2017/1938.
 
-**Art. 3.** W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1524 oraz z 2021 r. poz. 1093) art. 25 1 wyrazy „36 miesięcy” zastępuje się wyrazami „48 miesięcy”.
+2. Minister właściwy do spraw energii przeprowadza krajową ocenę ryzyka oraz opracowuje plan działań zapobiegawczych i plan na wypadek sytuacji nadzwyczajnej, o których mowa odpowiednio w art. 7 ust. 3 i art. 8 ust. 2 rozporządzenia 2017/1938, w sposób i w terminach określonych w tym rozporządzeniu.”;
 
-**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm. ) art. 31zzh 8 otrzymuje brzmienie: „8. Spółka prowadząca giełdową izbę rozrachunkową oraz spółka wykonująca funkcję giełdowej izby rozrachunkowej na podstawie art. 68a 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi stosuje przepisy 1, 3, 4 i 6 również do dnia 31 grudnia 2026 r., przy czym:
+- **3)** w art. 16 w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) plan działań zapobiegawczych opracowywany zgodnie z art. 15fa ust. 2 – w przypadku przedsiębiorstwa energetycznego zajmującego się przesyłaniem lub dystrybucją paliw gazowych.”;
+- **4)** po art. 16 dodaje się art. 16 w brzmieniu: „Art. 16 . 1. Operator systemu magazynowania sporządza plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na pojemności instalacji magazynowych na okres 10 lat. Plan ten podlega aktualizacji co 2 lata.
 
-**Art. 5.** W ustawie z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych związku z sytuacją na rynku gazu (Dz. U. poz. 202, 1477 i 1692) wprowadza się następujące zmiany:
+2. Plan uwzględnia:
+
+- **1)** miejscowy plan zagospodarowania przestrzennego;
+- **2)** politykę energetyczną państwa;
+- **3)** plan działań zapobiegawczych opracowywany zgodnie z art. 15fa ust. 2;
+- **4)** plan rozwoju sporządzony przez operatora systemu przesyłowego gazowego, o którym mowa w art. 16 ust. 2.
+
+3. Plan obejmuje w szczególności:
+
+- **1)** inwestycje w zakresie modernizacji, rozbudowy albo budowy instalacji magazynowych;
+- **2)** przewidywany sposób finansowania inwestycji;
+- **3)** przewidywane przychody niezbędne do realizacji inwestycji;
+- **4)** planowany harmonogram realizacji inwestycji.
+
+4. Plan powinien zapewniać długookresową maksymalizację efektywności nakładów i kosztów ponoszonych przez operatora systemu magazynowania, tak aby nakłady i koszty nie powodowały w poszczególnych latach nadmiernego wzrostu cen i stawek opłat za świadczenie usług magazynowania paliw gazowych, przy zapewnieniu ciągłości, niezawodności i jakości ich świadczenia.
+
+5. W planie uwzględnia się także zapotrzebowanie na nowe pojemności instalacji magazynowych zgłaszane przez podmioty korzystające lub zamierzające skorzystać z usług magazynowania paliw gazowych.
+
+6. Operator systemu magazynowania przedkłada projekt planu, w tym jego aktualizację, ministrowi właściwemu do spraw energii oraz Prezesowi Urzędu Regulacji Energetyki do dnia 31 marca.
+
+7. Operator systemu magazynowania przedkłada aktualizację planu ministrowi właściwemu do spraw energii oraz Prezesowi Urzędu Regulacji Energetyki do dnia 31 marca roku, który jest drugim rokiem obowiązywania uzgodnionego planu, niezależnie od daty jego uzgodnienia.
+
+8. Prezes Urzędu Regulacji Energetyki, działając w porozumieniu z ministrem właściwym do spraw energii, uzgadnia projekt planu w terminie do dnia 30 maja.
+
+9. Operator systemu magazynowania zamieszcza uzgodniony w trybie przepisu ust. 8 plan z wyłączeniem informacji, o których mowa w ust. 3 pkt 2 i 3, oraz z zachowaniem przepisów o ochronie informacji niejawnych lub innych informacji prawnie chronionych, na swojej stronie internetowej.
+
+10. Prezes Urzędu Regulacji Energetyki, działając w porozumieniu z ministrem właściwym do spraw energii, konsultuje sposób finansowania inwestycji ujętych w planie z operatorem systemu magazynowania.
+
+11. Operator systemu magazynowania ustala corocznie plan remontów instalacji magazynowych, który zamieszcza na swojej stronie internetowej.
+
+12. Operator systemu magazynowania corocznie, do dnia 30 kwietnia, przedkłada ministrowi właściwemu do spraw energii oraz Prezesowi Urzędu Regulacji Energetyki sprawozdanie z realizacji planu.”;
+
+- **5)** po art. 16b dodaje się art. 16c w brzmieniu: „Art. 16c. 1. Operator systemu dystrybucyjnego gazowego albo przesyłowego gazowego, w przypadku planowanej zmiany rodzaju dostarczanego paliwa gazowego w sieci gazowej z gazu ziemnego zaazotowanego na gaz ziemny wysokometanowy, informuje odbiorcę końcowego paliw gazowych, przyłączonego odpowiednio do sieci dystrybucyjnej albo przesyłowej gazowej, o terminie tej zmiany oraz o konieczności dostosowania lub wymiany instalacji i urządzeń do odbioru gazu ziemnego zaazotowanego na instalacje i urządzenia do odbioru gazu ziemnego wysokometanowego.
+
+2. Odbiorca końcowy paliw gazowych, po otrzymaniu informacji, o której mowa w ust. 1, dostosowuje lub wymienia instalacje i urządzenia, o których mowa w ust. 1, we własnym zakresie oraz pokrywa koszty ich dostosowania lub wymiany, z wyłączeniem ust. 3.
+
+3. W przypadku odbiorców paliw gazowych, o których mowa w art. 62b ust. 1 pkt 2 lit. a–c, operator systemu dystrybucyjnego gazowego, do którego przyłączony jest ten odbiorca, dostosowuje lub wymienia instalacje i urządzenia, o których mowa w ust. 1, oraz pokrywa koszty tego dostosowania lub wymiany, po uprzednim otrzymaniu zgody od:
+
+- **1)** odbiorcy paliw gazowych, o którym mowa w art. 62b ust. 1 pkt 2 lit. a–c;
+- **2)** właściciela instalacji i urządzeń do odbioru gazu ziemnego zaazotowanego, który nie jest odbiorcą paliw gazowych.
+
+4. W przypadku braku:
+
+- **1)** zgody na dostosowanie lub wymianę instalacji i urządzeń, wyrażonej przez podmioty, o których mowa w ust. 3, lub
+- **2)** technicznych możliwości dostosowania lub wymiany instalacji i urządzeń u podmiotów, o których mowa w ust. 3, lub
+- **3)** dostosowania lub wymiany instalacji i urządzeń, o których mowa w ust. 2, po otrzymaniu informacji od operatora systemu dystrybucyjnego gazowego albo przesyłowego gazowego, o której mowa w ust. 1 – operator systemu przesyłowego gazowego lub dystrybucyjnego gazowego, do którego sieci dany odbiorca jest przyłączony, może wstrzymać dostarczanie paliw gazowych, z uwzględnieniem ust. 5.
+
+5. W przypadku odbiorców paliw gazowych, o których mowa w art. 62b ust. 1 pkt 2 lit. b i c, brak wyrażenia zgody, o której mowa w ust. 3, przez właściciela lokalu we wspólnocie mieszkaniowej, o której mowa w art. 6 ustawy z dnia 24 czerwca 1994 r. o własności lokali, albo członka spółdzielni mieszkaniowej, o której mowa w art. 1 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2021 r. poz. 1208 oraz z 2022 r. poz. 1561), albo przez osobę zużywającą paliwa gazowe w lokalu, o którym mowa w art. 62b ust. 1 pkt 2 lit. c, stanowi podstawę do wstrzymania dostarczania paliwa gazowego wyłącznie w stosunku do tego, kto odmówił wyrażenia zgody, o której mowa w ust. 3.
+
+6. W przypadkach, o których mowa w ust. 4 i 5, sprzedawca paliw gazowych, z którym dany odbiorca zawarł umowę sprzedaży paliw gazowych albo umowę kompleksową, może rozwiązać tę umowę w zakresie, w jakim nie może ona być wykonywana z powodu zmiany rodzaju paliwa gazowego w sieci, do której odbiorca jest przyłączony.”;
+
+- **6)** w art. 23 w ust. 2 pkt 5 otrzymuje brzmienie: „5) uzgadnianie projektów planów, o których mowa w art. 16 i art. 16 ;”;
+- **7)** w art. 32 w ust. 1 w pkt 4 lit. a otrzymuje brzmienie: „a) obrotu paliwami stałymi, obrotu skroplonym gazem ziemnym dostarczonym z zagranicy dokonanego w punkcie dostawy do terminalu w rozumieniu art. 1 ust. 2 pkt 1 ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2021 r. poz. 1836 oraz z 2022 r. poz. 1261), obrotu paliwami gazowymi, jeżeli sprzedaż ma na celu likwidację zapasów obowiązkowych gazu ziemnego utrzymywanych zgodnie z art. 25 ust. 10 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, obrotu gazem płynnym, jeżeli roczna wartość obrotu nie przekracza równowartości 10 000 euro, oraz obrotu ciepłem, jeżeli moc zamówiona przez odbiorców nie przekracza 5 MW,”;
+- **8)** w art. 45 po ust. 1k dodaje się ust. 1l w brzmieniu: „1l. W kosztach działalności przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją paliw gazowych, o których mowa w ust. 1 pkt 1, uwzględnia się koszty dostosowania lub wymiany sieci, instalacji i urządzeń gazowych do odbioru gazu ziemnego wysokometanowego, w szczególności koszty, o których mowa w art. 16c ust. 3.”;
+- **9)** w art. 49b dodaje się ust. 6 w brzmieniu: „6. W przypadku ogłoszenia stanu nadzwyczajnego na terytorium Rzeczypospolitej Polskiej zgodnie z art. 49a ust. 2 ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym realizacja obowiązku, o którym mowa w ust. 1, ulega zawieszeniu na czas obowiązywania tego stanu.”;
+- **10)** w art. 62b w ust. 1 w pkt 2 część wspólna otrzymuje brzmienie: „– które stosuje się do dnia 31 grudnia 2027 r.”;
+- **11)** w art. 62i:
+    - **a)** w ust. 2 kropkę zastępuje się przecinkiem i dodaje się wyrazy „biorąc pod uwagę posiadane środki na rachunku Funduszu Wypłaty Różnicy Ceny, o którym mowa w art. 11 ust. 1 ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw.”,
+    - **b)** ust. 12 otrzymuje brzmienie: „12. W przypadku gdy środki na rachunku Funduszu Wypłaty Różnicy Ceny, o którym mowa w art. 11 ust. 1 ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, są niewystarczające na wypłatę wnioskowanej rekompensaty w całości, zarządca rozliczeń zatwierdza wniosek o wypłatę rekompensaty do wysokości posiadanych środków, a w pozostałej części wstrzymuje zatwierdzenie wniosku do czasu zapewnienia środków na ten cel. Zarządca rozliczeń wstrzymuje zatwierdzanie kolejnych wniosków do czasu zatwierdzenia w pozostałej części wniosku, o którym mowa w zdaniu pierwszym.”.
+
+**Art. 2.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2022 r. poz. 1537) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 3 we wprowadzeniu do wyliczenia po wyrazach „bezpieczeństwa paliwowego państwa” dodaje się wyrazy „i bezpieczeństwa gazowego państwa”;
+- **2)** w art. 2 w ust. 1:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) bezpieczeństwo paliwowe państwa – stan umożliwiający bieżące pokrycie zapotrzebowania odbiorców na ropę naftową i produkty naftowe, w określonej wielkości i czasie, w stopniu umożliwiającym prawidłowe funkcjonowanie gospodarki;”,
+    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) bezpieczeństwo gazowe państwa – stan umożliwiający bieżące i perspektywiczne pokrycie zapotrzebowania odbiorców na gaz ziemny, w określonej wielkości i czasie, w sposób technicznie i ekonomicznie uzasadniony, w stopniu umożliwiającym prawidłowe funkcjonowanie gospodarki;”;
+
+- **3)** w art. 24 w ust. 1 w pkt 1 oraz w art. 27 w ust. 2 w pkt 2 wyraz „paliwowego” zastępuje się wyrazem „gazowego”;
+- **4)** tytuł rozdziału 6 otrzymuje brzmienie: „Zasady postępowania w sytuacji zagrożenia bezpieczeństwa gazowego państwa oraz konieczności wypełniania zobowiązań międzynarodowych”;
+- **5)** po art. 49 dodaje się art. 49a w brzmieniu: „Art. 49a. 1. W przypadku wystąpienia przesłanek, o których mowa w art. 11 ust. 1 lit. a albo b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącego środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającego rozporządzenie (UE) nr 994/2010 (Dz. Urz. UE L 280 z 28.10.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/1938”, minister właściwy do spraw energii, po otrzymaniu informacji od operatora systemu gazowego lub operatora systemu połączonego gazowego, ogłasza, w drodze rozporządzenia, stan kryzysowy, o którym mowa w art. 11 ust. 1 lit. a albo b tego rozporządzenia, biorąc pod uwagę przewidywany brak możliwości pokrycia zapotrzebowania odbiorców na gaz ziemny.
+
+2. Stan nadzwyczajny, o którym mowa w art. 11 ust. 1 lit. c rozporządzenia 2017/1938, minister właściwy do spraw energii ogłasza, w drodze rozporządzenia, po otrzymaniu informacji od operatora systemu gazowego lub operatora systemu połączonego gazowego o wystąpieniu co najmniej jednej z poniższych sytuacji:
+
+- **1)** zagrożenia bezpieczeństwa gazowego państwa,
+- **2)** zakłóceń w dostarczaniu gazu ziemnego do systemu gazowego,
+- **3)** gwałtownego, nieprzewidzianego uszkodzenia lub zniszczenia urządzeń, instalacji lub sieci, powodującego przerwę w ich używaniu lub utratę ich właściwości zagrażającą bezpieczeństwu funkcjonowania systemu gazowego,
+- **4)** nieprzewidzianego wzrostu zużycia gazu ziemnego – biorąc pod uwagę konieczność zapewnienia nieprzerwanych dostaw gazu ziemnego do odbiorców.
+
+3. Rozporządzenia, o których mowa w ust. 1 i 2, określają czas obowiązywania ogłaszanego stanu kryzysowego.”;
+
+- **6)** w art. 51:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku ogłoszenia stanu nadzwyczajnego, o którym mowa w art. 49a ust. 2, operator systemu gazowego, z własnej inicjatywy lub po otrzymaniu zawiadomienia, o którym mowa w art. 50 ust. 2 pkt 1, podejmuje, we współpracy z podmiotami, o których mowa w art. 49 ust. 1, lub innymi operatorami systemów gazowych, jeżeli uzna to za konieczne, niezbędne działania mające na celu zapewnienie lub przywrócenie prawidłowego funkcjonowania systemu gazowego.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do działań, o których mowa w ust. 1, należy w szczególności zwrócenie się przez operatora systemu przesyłowego gazowego lub operatora systemu połączonego gazowego do ministra właściwego do spraw energii o wyrażenie zgody na uruchomienie zapasów obowiązkowych gazu ziemnego na podstawie art. 26 ust. 1 lub o skierowanie do Rady Ministrów wniosku o wprowadzenie ograniczeń w poborze gazu ziemnego, zwanych dalej „ograniczeniami”, zgodnie z art. 56 ust. 1.”;
+
+- **7)** w art. 52:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych uruchamia zapasy obowiązkowe gazu ziemnego po uzyskaniu zgody, o której mowa w art. 26 ust. 1, w ilościach niezbędnych do bilansowania systemu gazowego w przypadku, o którym mowa w art. 51 ust. 1.”,
+    - **b)** uchyla się ust. 6–9;
+
+- **8)** po art. 52 dodaje się art. 52 w brzmieniu: „Art. 52 . 1. W dobach gazowych, w których zostały uruchomione zapasy obowiązkowe gazu ziemnego lub zostały wprowadzone ograniczenia w stopniu zasilania wyższym niż pierwszy, operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych dokonują bilansowania systemu przesyłowego gazowego z uwzględnieniem art. 2 rozporządzenia Komisji (UE) nr 312/2014 z dnia 26 marca 2014 r. ustanawiającego kodeks sieci dotyczący bilansowania gazu w sieciach przesyłowych (Dz. Urz. UE L 91 z 27.03.2014, str. 15). Przez dobę gazową rozumie się okres od godziny 6.00 danego dnia do godziny 6.00 następnego dnia.
+
+2. W okresie uruchomienia zapasów obowiązkowych gazu ziemnego operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych:
+
+- **1)** dokonują rozliczeń finansowych za pobrane ilości gazu ziemnego od przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub od podmiotów dokonujących przywozu gazu ziemnego, których zapasy obowiązkowe gazu ziemnego zostały uruchomione;
+- **2)** dokonują rozliczeń finansowych z tytułu dostarczonych ilości gazu ziemnego podmiotom zlecającym usługę przesyłania gazu ziemnego, na rzecz których zapasy obowiązkowe gazu ziemnego zostały uruchomione;
+- **3)** bilansują system przesyłowy gazowy oraz prowadzą rozliczenia z użytkownikami tego systemu z tytułu niezbilansowania;
+- **4)** zapewniają neutralność kosztową działalności w zakresie bilansowania systemu przesyłowego gazowego przez przeniesienie kosztów i przychodów z tytułu prowadzenia tej działalności na użytkowników systemu gazowego.
+
+3. Rozliczenia kosztów wynikających z uruchomienia zapasów obowiązkowych gazu ziemnego są prowadzone dla każdej doby gazowej, w której nastąpiło uruchomienie tych zapasów, odrębnie z:
+
+- **1)** przedsiębiorstwami energetycznymi wykonującymi działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiotami dokonującymi przywozu gazu ziemnego zobowiązanymi do utrzymywania zapasów obowiązkowych gazu ziemnego, których zapasy obowiązkowe zostały uruchomione, lub z podmiotami przyjmującymi zlecenie wykonywania zadań w zakresie utrzymywania zapasów obowiązkowych gazu ziemnego,
+- **2)** podmiotami zlecającymi usługi przesyłania gazu ziemnego, na rzecz których nastąpiło uruchomienie zapasów obowiązkowych gazu ziemnego – po zakończeniu miesiąca, w którym uruchomiono te zapasy.
+
+4. Minister właściwy do spraw energii określi, w drodze rozporządzenia:
+
+- **1)** sposób prowadzenia rozliczeń za uruchomione zapasy obowiązkowe gazu ziemnego oraz kalkulacji ceny za paliwa gazowe stosowanej do tych rozliczeń,
+- **2)** szczegółowy sposób bilansowania systemu przesyłowego gazowego i prowadzenia rozliczeń z tytułu jego niezbilansowania w okresie uruchomienia zapasów obowiązkowych gazu ziemnego oraz w okresie wprowadzenia ograniczeń – biorąc pod uwagę konieczność zapewnienia bezpieczeństwa gazowego państwa, potrzebę zapewnienia neutralności kosztowej działań bilansujących podejmowanych przez operatora systemu przesyłowego gazowego lub operatora systemów połączonych gazowych, równoprawne traktowanie przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą, podmiotów dokonujących przywozu gazu ziemnego oraz innych użytkowników systemu gazowego, a także przejrzysty i obiektywny charakter przyjętego systemu rozliczeń.”;
+- **9)** w art. 52a w ust. 1 w pkt 2 oraz w ust. 4 wyrazy „o których mowa w art. 52 ust. 7 pkt 1” zastępuje się wyrazami „o których mowa w art. 52 ust. 2 pkt 1”;
+- **10)** uchyla się art. 53;
+- **11)** w art. 54 ust. 1 otrzymuje brzmienie: „1. W przypadku ogłoszenia stanu nadzwyczajnego, o którym mowa w art. 49a ust. 2, na terytorium Rzeczypospolitej Polskiej lub jego części mogą być wprowadzone na czas oznaczony ograniczenia.”;
+- **12)** w art. 61:
+    - **a)** w ust. 1 wyrazy „zagrożeń, o których mowa w art. 54 ust. 1 pkt 1, 6 i 7” zastępuje się wyrazami „sytuacji, o których mowa w art. 49a ust. 2”,
+    - **b)** w ust. 2 pkt 1 oraz w ust. 4 pkt 1 otrzymują brzmienie: „1) zdarzeń, o których mowa w ust. 1, oraz ich wpływu na bezpieczeństwo gazowe państwa;”;
+
+- **13)** w art. 63:
+    - **a)** ust. 7 otrzymuje brzmienie: „7. W przypadku, o którym mowa w ust. 1 pkt 11, wysokość kary oblicza się w następujący sposób:
+
+- **1)** w przypadku przekroczenia mocy godzinowej – jako iloczyn mocy maksymalnej, zarejestrowanej przez układ pomiarowy ponad moc wynikającą z wprowadzonych ograniczeń, liczby godzin, w których stwierdzono przekroczenie mocy wynikającej z wprowadzonych ograniczeń w okresie rozliczeniowym, w którym obowiązywały ograniczenia, i dziesięciokrotności stawki stałej opłaty przesyłowej dla gazu wysokometanowego na wyjściu z sieci własnej gazu ziemnego wysokometanowego operatora systemu przesyłowego;
+- **2)** w przypadku przekroczenia mocy godzinowej i mocy dobowej – jako iloczyn mocy maksymalnej, zarejestrowanej przez układ pomiarowy ponad moc wynikającą z wprowadzonych ograniczeń, liczby godzin, w których stwierdzono przekroczenie mocy wynikającej z wprowadzonych ograniczeń w okresie rozliczeniowym, w którym obowiązywały ograniczenia, i piętnastokrotności stawki stałej opłaty przesyłowej dla gazu wysokometanowego na wyjściu z sieci własnej gazu ziemnego wysokometanowego operatora systemu przesyłowego.”,
+    - **b)** po ust. 7 dodaje się ust. 7a i 7b w brzmieniu: „7a. W przypadku, o którym mowa w ust. 1 pkt 11, wysokość kary dla odbiorców nieposiadających rejestracji mocy poboru gazu ziemnego oblicza się w następujący sposób:
+
+- **1)** dla odbiorców pobierających mniej niż 300 m gazu ziemnego rocznie – 1000 zł za każdy miesiąc, w którym stwierdzono przekroczenie mocy wynikającej z wprowadzonych ograniczeń;
+- **2)** dla odbiorców pobierających 300 m i więcej oraz mniej niż 1200 m gazu ziemnego rocznie – 3000 zł za każdy miesiąc, w którym stwierdzono przekroczenie mocy wynikającej z wprowadzonych ograniczeń;
+- **3)** dla odbiorców pobierających 1200 m i więcej oraz mniej niż 8000 m gazu ziemnego rocznie – 10 000 zł za każdy miesiąc, w którym stwierdzono przekroczenie mocy wynikającej z wprowadzonych ograniczeń;
+- **4)** dla odbiorców pobierających 8000 m i więcej gazu ziemnego rocznie – 20 000 zł za każdy miesiąc, w którym stwierdzono przekroczenie mocy wynikającej z wprowadzonych ograniczeń.
+
+7b. Jeżeli wysokość kary pieniężnej obliczona zgodnie z ust. 7 jest niższa dla odbiorcy niż wysokość kary pieniężnej, która byłaby obliczona w sposób, o którym mowa w ust. 7a, dla ilości gazu pobranego przez tego odbiorcę, stosuje się wysokość kary pieniężnej obliczoną zgodnie z ust. 7a dla ilości gazu pobranego przez tego odbiorcę.”;
+
+- **14)** po art. 70c dodaje się art. 70d w brzmieniu: „Art. 70d. W terminie do dnia 30 września 2024 r. okres, o którym mowa w art. 24 ust. 2 pkt 2 i ust. 3b zdanie drugie, art. 24a ust. 1 oraz art. 24b ust. 8 pkt 2, wynosi 50 dni.”.
+
+**Art. 3.** W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1524 oraz z 2021 r. poz. 1093) w art. 25 w ust. 1 wyrazy „36 miesięcy” zastępuje się wyrazami „48 miesięcy”.
+
+**Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm. ) w art. 31zzh ust. 8 otrzymuje brzmienie: „8. Spółka prowadząca giełdową izbę rozrachunkową oraz spółka wykonująca funkcję giełdowej izby rozrachunkowej na podstawie art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi stosuje przepisy ust. 1, 3, 4 i 6 również do dnia 31 grudnia 2026 r., przy czym:
+
+- **1)** zwalnia się z obowiązku ustanowienia zabezpieczenia finansowego w stosunku do maksymalnie 75% wartości wymaganych depozytów, o których mowa w ust. 1, podmiot będący członkiem giełdowej izby rozrachunkowej, w przypadku gdy podmiot ten:
+    - **a)** posiada rating kredytowy dokonany przez instytucję wskazaną w ust. 3 na minimalnym poziomie określonym w ust. 4 lub wykonuje obowiązek, o którym mowa w art. 49a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz
+    - **b)** złoży oświadczenie w formie aktu notarialnego o poddaniu się egzekucji w trybie z art. 777 § 1 pkt 5 Kodeksu postępowania cywilnego;
+
+- **2)** zabezpieczenie finansowe, o którym mowa w ust. 1 pkt 4, dla podmiotu będącego członkiem giełdowej izby rozrachunkowej nie może być większe niż 75% wartości wymaganych depozytów, o których mowa w ust. 1;
+- **3)** w części niepokrytej w sposób, o którym mowa w pkt 2, zabezpieczenie niepieniężne wymaganych depozytów, o których mowa w ust. 1, jest wnoszone według zasad wnoszenia zabezpieczeń niepieniężnych, określonych odpowiednio przez spółkę prowadzącą giełdową izbę rozrachunkową lub spółkę wykonującą funkcję giełdowej izby rozrachunkowej na podstawie art. 68a ust. 14 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.”.
+
+**Art. 5.** W ustawie z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu (Dz. U. poz. 202, 1477 i 1692) wprowadza się następujące zmiany:
+
+- **1)** w art. 11:
+    - **a)** w ust. 9 dodaje się zdanie drugie w brzmieniu: „Przepisy art. 62i ustawy zmienianej w art. 1 stosuje się odpowiednio.”,
+    - **b)** w ust. 11 pkt 1 otrzymuje brzmienie: „1) nie złożyło wniosku o rozliczenie rekompensaty w terminie, o którym mowa w ust. 9, lub”;
+
+- **2)** w art. 12:
+    - **a)** w ust. 1 i 2 wyrazy „o których mowa w art. 62b ust. 2 pkt 1 lit. a” zastępuje się wyrazami „o których mowa w art. 62b ust. 1 pkt 2 lit. a”,
+    - **b)** dodaje się ust. 6 w brzmieniu: „6. Przepisy art. 62i ustawy zmienianej w art. 1 stosuje się odpowiednio.”;
+
+- **3)** w art. 14:
+    - **a)** w ust. 1 we wprowadzeniu do wyliczenia wyrazy „do dnia 1 stycznia 2026 r.” zastępuje się wyrazami „do dnia 31 grudnia 2022 r., których termin spłaty przypada przed dniem 1 stycznia 2026 r.,”,
+    - **b)** w ust. 2 wyrazy „od dnia wejścia w życie niniejszej ustawy do dnia 1 stycznia 2026 r.” zastępuje się wyrazami „ , o którym mowa w ust. 1,”,
+    - **c)** w ust. 3 po wyrazach „z wyjątkiem przepisów art. 2b ust. 1,” dodaje się wyrazy „art. 2d,”,
+    - **d)** ust. 5 otrzymuje brzmienie: „5. Łączna kwota gwarancji, o której mowa w ust. 1, udzielonych podmiotom, o których mowa w ust. 1, nie może przekroczyć 55 000 000 000 zł.”,
+    - **e)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Łączna kwota zobowiązań, o których mowa w ust. 1, zaciąganych przez podmioty, o których mowa w ust. 1 pkt 1 i 2, nie może przekroczyć prognozowanego przez nich zapotrzebowania na płynność w okresie 6 miesięcy od dnia zaciągnięcia zobowiązania, o którym mowa w ust. 1.”,
+    - **f)** ust. 6 otrzymuje brzmienie: „6. Podmioty, o których mowa w ust. 1, są zwolnione z obowiązku ustanowienia zabezpieczenia na rzecz Gwaranta z tytułu gwarancji, o której mowa w ust. 1, oraz zobowiązane są do wniesienia opłaty prowizyjnej od tej gwarancji, w wysokości i na zasadach określonych w art. 14a.”,
+    - **g)** dodaje się ust. 10 w brzmieniu: „10. Do obliczania terminu spłaty zobowiązań, o którym mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360).”;
+
+- **4)** po art. 14 dodaje się art. 14a w brzmieniu: „Art. 14a. 1. Opłata prowizyjna od gwarancji, o których mowa w art. 14 ust. 1, jest naliczana od kwoty gwarancji i wynosi:
+- **1)** 0,5% wartości gwarancji w pierwszym roku obowiązywania;
+- **2)** 1% wartości gwarancji w drugim i trzecim roku obowiązywania;
+- **3)** 2% wartości kwoty gwarancji w czwartym roku obowiązywania.
+
+2. Opłata prowizyjna za pierwszy rok obowiązywania gwarancji, o której mowa w art. 14 ust. 1, jest naliczana od kwoty zobowiązania z tytułu udzielonej gwarancji obliczonego na dzień zaciągnięcia zobowiązania i pobierana z góry w terminie 30 dni od dnia zaciągnięcia zobowiązania objętego gwarancją.
+
+3. Opłata prowizyjna za każdy kolejny rok obowiązywania gwarancji jest naliczana od kwoty zobowiązania z tytułu udzielonej gwarancji ustalonej przez ministra właściwego do spraw finansów publicznych na dzień przypadający po upływie odpowiednio 12, 24 i 36 miesięcy od dnia zaciągnięcia zobowiązania objętego gwarancją, o której mowa w art. 14 ust. 1.
+
+4. Opłata prowizyjna, o której mowa w ust. 3, wnoszona jest corocznie z góry w terminie 30 dni od dnia przypadającego po upływie odpowiednio 12, 24 i 36 miesięcy od dnia zaciągnięcia zobowiązania objętego gwarancją, o której mowa w art. 14 ust. 1.
+
+5. Do obliczania terminów, o których mowa w ust. 1–4, stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.”;
+
+- **5)** w art. 20 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Limit wydatków, o którym mowa w ust. 1 i 2, ulega powiększeniu o środki stanowiące zwrot kwoty rekompensat, o których mowa w art. 62g ustawy zmienianej w art. 1, art. 8, art. 11 i art. 12.”.
 
 **Art. 6.**
 
-1. Plany rozwoju, o których mowa art. 16 1 ustawy zmienianej art. 1, obowiązują do dnia uzgodnienia z Prezesem Urzędu Regulacji Energetyki planów rozwoju lub ich aktualizacji zgodnie z przepisami ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+1. Plany rozwoju, o których mowa w art. 16 ust. 1 ustawy zmienianej w art. 1, obowiązują do dnia uzgodnienia z Prezesem Urzędu Regulacji Energetyki planów rozwoju lub ich aktualizacji zgodnie z przepisami ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-2. W przypadku gdy aktualizacja planu rozwoju, o którym mowa art. 16 1 ustawy zmienianej art. 1, została przedłożona do uzgodnienia Prezesowi Urzędu Regulacji Energetyki przed dniem wejścia życie niniejszej ustawy, podlega ona uzgodnieniu na podstawie przepisów dotychczasowych.
+2. W przypadku gdy aktualizacja planu rozwoju, o którym mowa w art. 16 ust. 1 ustawy zmienianej w art. 1, została przedłożona do uzgodnienia Prezesowi Urzędu Regulacji Energetyki przed dniem wejścia w życie niniejszej ustawy, podlega ona uzgodnieniu na podstawie przepisów dotychczasowych.
 
 3. Operator systemu magazynowania po raz pierwszy sporządza i przedkłada ministrowi właściwemu do spraw energii oraz Prezesowi Urzędu Regulacji Energetyki:
 
-- **1)** plan rozwoju, o którym mowa art. 16 1 ustawy zmienianej art. 1 – terminie do dnia 30 września 2022 r.,
-- **2)** aktualizację planu rozwoju, o którym mowa art. 16 1 ustawy zmienianej art. 1 – terminie do dnia 31 marca 2025 r.
+- **1)** plan rozwoju, o którym mowa w art. 16 ust. 1 ustawy zmienianej w art. 1 – w terminie do dnia 30 września 2022 r.,
+- **2)** aktualizację planu rozwoju, o którym mowa w art. 16 ust. 1 ustawy zmienianej w art. 1 – w terminie do dnia 31 marca 2025 r.
 
-**Art. 7.** Minister właściwy do spraw energii może określić na rok 2022 lub 2023, drodze rozporządzenia, niższą niż określona art. 49b 1 ustawy zmienianej art. 1 ilość gazu ziemnego wysokometanowego wprowadzonego do sieci przesyłowej, biorąc pod uwagę konieczność zapewnienia ciągłości dostaw paliw gazowych do odbiorców końcowych, znaczenie cen paliw gazowych dla gospodarki i funkcjonowania państwa oraz równoprawne traktowanie uczestników rynku.
+**Art. 7.** Minister właściwy do spraw energii może określić na rok 2022 lub 2023, w drodze rozporządzenia, niższą niż określona w art. 49b ust. 1 ustawy zmienianej w art. 1 ilość gazu ziemnego wysokometanowego wprowadzonego do sieci przesyłowej, biorąc pod uwagę konieczność zapewnienia ciągłości dostaw paliw gazowych do odbiorców końcowych, znaczenie cen paliw gazowych dla gospodarki i funkcjonowania państwa oraz równoprawne traktowanie uczestników rynku.
 
-**Art. 8.** Podmiot prowadzący dniu wejścia życie niniejszej ustawy działalność gospodarczą zakresie obrotu paliwami gazowymi, którego roczna wartość nie przekracza 100 000 euro, może prowadzić tę działalność bez koncesji, o której mowa art. 32 1 pkt 4 ustawy zmienianej art. 1, przez okres 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 8.** Podmiot prowadzący w dniu wejścia w życie niniejszej ustawy działalność gospodarczą w zakresie obrotu paliwami gazowymi, którego roczna wartość nie przekracza 100 000 euro, może prowadzić tę działalność bez koncesji, o której mowa w art. 32 ust. 1 pkt 4 ustawy zmienianej w art. 1, przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 9.**
 
-1. Do gwarancji, o których mowa art. 14 1 ustawy zmienianej art. 5, udzielonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy art. 14 6 i art. 14a ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą, z uwzględnieniem 2.
+1. Do gwarancji, o których mowa w art. 14 ust. 1 ustawy zmienianej w art. 5, udzielonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 14 ust. 6 i art. 14a ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, z uwzględnieniem ust. 2.
 
-2. Pierwszą opłatę prowizyjną od gwarancji, o której mowa 1, obliczoną zgodnie z art. 14a 2 ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą, wnosi się na rachunek, o którym mowa art. 2d ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2022 r. poz. 1613), terminie 30 dni od dnia wejścia życie niniejszej ustawy.
+2. Pierwszą opłatę prowizyjną od gwarancji, o której mowa w ust. 1, obliczoną zgodnie z art. 14a ust. 2 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, wnosi się na rachunek, o którym mowa w art. 2d ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2022 r. poz. 1613), w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 10.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi życie z dniem następującym po dniu ogłoszenia.
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -8,7 +8,7 @@ pos: 283
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo czekowe
@@ -30,6 +30,13 @@ source: "isap-pdf"
 ### DZIAŁ I Wystawienie i forma czeku
 
 **Art. 1.** Czek zawiera:
+
+- **1)** nazwę „czek” w samym tekście dokumentu, w języku, w jakim go wystawiono;
+- **2)** polecenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej;
+- **3)** nazwisko osoby, która ma zapłacić (trasata);
+- **4)** oznaczenie miejsca płatności;
+- **5)** oznaczenie daty i miejsca wystawienia czeku;
+- **6)** podpis wystawcy czeku.
 
 **Art. 2.** Nie będzie uważany za czek dokument, któremu brak jednej z cech, wskazanych w artykule poprzedzającym, wyjąwszy przypadki, określone w ustępach następujących. W braku osobnego oznaczenia, miejsce wymienione obok nazwiska trasata, uważa się za miejsce płatności. Jeżeli obok nazwiska trasata wymieniono kilka miejsc, czek jest płatny w miejscu, wymienionem najpierw. W braku takiego lub wszelkiego innego oznaczenia, czek jest płatny w miejscu wystawienia. Czek, w którym nie oznaczono miejsca wystawienia, uważa się za wystawiony w miejscu, podanem obok nazwiska wystawcy.
 
@@ -64,6 +71,10 @@ source: "isap-pdf"
 **Art. 16.** Indos powinien być napisany na czeku lub na złączonej z nim karcie dodatkowej (przedłużku) i podpisany przez indosanta. Indos może nie wymieniać indosatarjusza lub może ograniczać się tylko do podpisu indosanta (indos in blanco). W tym przypadku indos jest ważny tylko, jeżeli został napisany na odwrotnej stronie czeku lub na przedłużku.
 
 **Art. 17.** Indos przenosi wszystkie prawa z czeku. Jeżeli indos jest in blanco, posiadacz czeku może:
+
+- **1)** wypełnić indos nazwiskiem własnem lub innej osoby;
+- **2)** indosować czek dalej in blanco lub na inną osobę;
+- **3)** przenieść czek na inną osobę bez wypełnienia indosu in blanco i bez indosowania.
 
 **Art. 18.** Indosant odpowiada w braku przeciwnego zastrzeżenia za zapłatę czeku. Indosant może zabronić dalszego indosowania; w tym przypadku nie odpowiada wobec następnych indosatarjuszy.
 
@@ -119,6 +130,10 @@ source: "isap-pdf"
 
 **Art. 40.** Posiadacz może wykonywać zwrotne poszukiwanie przeciwko indosantom, wystawcy, tudzież innym dłużnikom, jeżeli czek, mimo przedstawienia do zapłaty we właściwym czasie, nie został zapłacony, a odmowę zapłaty stwierdzono:
 
+- **1)** albo aktem publicznym (protestem);
+- **2)** albo oświadczeniem trasata na czeku, datowanem i wymieniającem dzień przedstawienia;
+- **3)** albo oświadczeniem izby rozrachunkowej, datowanem i stwierdzającem, że czek został we właściwym czasie złożony do rozrachunku i że go nie wykupiono.
+
 **Art. 41.** Protest lub równoznaczne z nim stwierdzenie powinny być dokonane przed upływem terminu do przedstawienia. W razie przedstawienia czeku w ostatnim dniu terminu protest lub równoznaczne stwierdzenie mogą być dokonane w pierwszym dniu powszednim, po nim następującym.
 
 **Art. 42.** Posiadacz czeku powinien o niezapłaceniu zawiadomić swojego indosanta i wystawcę w ciągu czterech dni powszednich, następujących po dniu protestu lub równoznacznego stwierdzenia, a w przypadku zastrzeżenia „bez kosztów” – po dniu przedstawienia. Każdy indosant powinien w ciągu dwóch dni powszednich, następujących po dniu, w którym otrzymał zawiadomienie, podać do wiadomości swojego poprzednika otrzymane zawiadomienie, wskazując nazwiska i adresy tych, którzy dokonali zawiadomień poprzednich, i tak kolejno aż do wystawcy. Terminy powyższe biegną od otrzymania zawiadomienia poprzedniego. Ilekroć w myśl ustępu poprzedzającego zawiadamia się osobę, podpisaną na czeku, należy tak samo w tymże terminie zawiadomić jej poręczyciela. Jeżeli indosant nie wskazał swego adresu lub podał go w sposób nieczytelny, wystarczy zawiadomienie poprzedzającego go indosanta. Zawiadomienia można dokonać w jakikolwiek sposób, nawet przez proste odesłanie czeku. Obowiązany do zawiadomienia ma udowodnić, że dokonał go w przepisanym terminie. Termin ten uważa się jako zachowany, jeżeli pismo z zawiadomieniem oddano na pocztę w przepisanym terminie. Kto nie zawiadomi w czasie powyżej oznaczonym, nie traci praw z czeku, odpowiada jednak za szkodę, spowodowaną przez swe niedbalstwo tylko do sumy, na jaką czek jest wystawiony.
@@ -129,7 +144,17 @@ source: "isap-pdf"
 
 **Art. 45.** Posiadacz czeku może żądać od zobowiązanego zwrotnie:
 
+- **1)** niezapłaconej sumy czekowej;
+- **2)** odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od dnia przedstawienia;
+- **3)** kosztów protestu lub równoznacznego stwierdzenia, dokonanych zawiadomień, tudzież innych kosztów;
+- **4)** prowizji komisowej, która w braku umowy wynosi jedną szóstą od sta od sumy czekowej i nie może przekroczyć tej stopy.
+
 **Art. 46.** Kto czek wykupił, może żądać od swoich poprzedników:
+
+- **1)** całkowitej sumy zapłaconej;
+- **2)** odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od powyższej sumy, licząc od dnia wykupienia czeku;
+- **3)** własnych kosztów;
+- **4)** prowizji komisowej od sumy czekowej, obliczonej według art. 45 pkt 4).
 
 **Art. 47.** Każdy dłużnik czekowy, przeciw któremu wykonywa się lub wykonać można zwrotne poszukiwanie, może żądać, aby mu za zapłatą sumy regresowej wydano czek z protestem lub równoznacznem stwierdzeniem, tudzież rachunek pokwitowany. Indosant, który czek wykupił, może przekreślić indos własny oraz indosy następnych indosantów.
 
@@ -154,6 +179,9 @@ source: "isap-pdf"
 ### DZIAŁ X Przepisy ogólne
 
 **Art. 54.** Wyraz „bankier” w rozumieniu prawa niniejszego oznacza:
+
+- **a)** państwowe i samorządowe zakłady kredytowe i kasy oszczędności;
+- **b)** przedsiębiorstwa bankowe z wyjątkiem kantorów wymiany i zakładów zastawniczych.
 
 **Art. 55.** Przedstawienie czeku i protest mogą być dokonane tylko w dnie powszednie. Jeżeli ostatni dzień terminu, oznaczonego przez prawo do dokonania czynności, dotyczących czeków, w szczególności do przedstawienia albo do dokonania protestu lub równoznacznego stwierdzenia, przypada na dzień ustawowo uznany za świąteczny, termin przedłuża się do najbliższego dnia powszedniego, następującego po upływie terminu. Dni świąteczne, przypadające w ciągu terminu, wlicza się do tego terminu.
 
@@ -187,6 +215,16 @@ source: "isap-pdf"
 
 **Art. 67.** Prawo miejsca płatności czeku określa:
 
+- **1)** czy czek może być płatny tylko za okazaniem, czy też może być płatny w pewien czas po okazaniu oraz jakie są skutki umieszczenia w czeku późniejszej daty wystawienia;
+- **2)** termin do przedstawienia;
+- **3)** czy czek może być przyjęty, certyfikowany, potwierdzony lub wizowany oraz jakie są skutki tych oświadczeń;
+- **4)** czy posiadacz może żądać zapłaty częściowej oraz czy jest zobowiązany do jej przyjęcia;
+- **5)** czy czek może być zakreślony albo zaopatrzony zastrzeżeniem „przelać na rachunek” lub innem równoznacznem oraz jakie są skutki tych oświadczeń;
+- **6)** czy posiadacz ma szczególne prawa do pokrycia oraz jaki jest ich charakter;
+- **7)** czy wystawca może czek odwołać lub sprzeciwić się jego zapłacie;
+- **8)** jakie środki należy przedsięwziąć w razie zaginięcia lub kradzieży czeku;
+- **9)** czy protest lub równoznaczne stwierdzenie jest potrzebne do zachowania prawa zwrotnego poszukiwania przeciw indosantom, wystawcy oraz innym zobowiązanym.
+
 **Art. 68.** Formę i terminy protestu, tudzież formę innych czynności, potrzebnych do wykonania lub do zachowania praw czekowych, ocenia się podług ustaw kraju, w którym protest ma być dokonany lub czynność przedsięwzięta.
 
 ### DZIAŁ XIV Protest
@@ -194,6 +232,12 @@ source: "isap-pdf"
 **Art. 69.** Protest sporządza notarjusz.
 
 **Art. 70.** Protest zawiera:
+
+- **1)** nazwisko osoby, która żąda protestu, oraz osoby, przeciw której protest ma być dokonany;
+- **2)** stwierdzenie, że osoba, przeciw której protest ma być dokonany, nie uczyniła zadość wezwaniu, skierowanemu do niej, a nadto oświadczenie, złożone przez tę osobę, albo stwierdzenie, że jej nie zastano albo że nie było można odnaleźć lokalu jej przedsiębiorstwa;
+- **3)** oznaczenie miejsca i dnia, w którym wezwania dokonano lub bezskutecznie starano się go dokonać;
+- **4)** oznaczenie, ile egzemplarzy czeku przedstawiono i jakie;
+- **5)** podpis notarjusza, pieczęć urzędową i numer protestu.
 
 **Art. 71.** Przedstawienia czeku, wezwania do wydania egzemplarza, tudzież wszystkich innych czynności zachowawczych należy – w braku odmiennego wskazania w czeku – dokonać w lokalu przedsiębiorstwa. W innym miejscu, np. „na giełdzie”, można tych czynności dokonać jedynie za zgodą stron interesowanych. Notarjusz obowiązany jest dokonać poszukiwania lokalu przedsiębiorstwa i odpowiada za szkodę, spowodowaną brakiem należytej staranności. Jednakże zaniedbanie lub niedokładność poszukiwań nigdy nie mogą stanowić przyczyny nieważności protestu.
 

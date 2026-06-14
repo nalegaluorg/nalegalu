@@ -8,10 +8,10 @@ pos: 363
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lutego 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 336633 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 lutego 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/363/text.pdf) |
 
-336633 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 lutego 2023 r.
-w sprawie badań strażaków na zawartość w organizmie alkoholu lub obecność podobnie działającego środka Na podstawie art. 59c ust. 16 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie badań strażaków na zawartość w organizmie alkoholu lub obecność podobnie działającego środka Na podstawie art. 59c ust. 16 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) warunki i metody przeprowadzania badań na zawartość w organizmie alkoholu lub badania na obecność w organizmie innego podobnie działającego środka;
 2) sposób dokumentowania badań na zawartość w organizmie alkoholu lub badania na obecność w organizmie innego podobnie działającego środka, w tym wzory protokołów z przeprowadzonych badań;
 3) wykaz środków działających podobnie do alkoholu.
 § 2. 1. Badanie wydychanego powietrza przeprowadza się w sposób nieinwazyjny przy użyciu urządzenia elektronicznego dokonującego pomiaru stężenia alkoholu w wydychanym powietrzu metodą:
 1) spektrometrii w podczerwieni lub
-2) utleniania elektrochemicznego zwanego dalej „analizatorem wydechu”.
+2) utleniania elektrochemicznego – zwanego dalej „analizatorem wydechu”.
 2. Badania analizatorem wydechu nie przeprowadza się przed upływem 15 minut od chwili zakończenia spożywania alkoholu, palenia wyrobów tytoniowych, w tym palenia nowatorskich wyrobów tytoniowych, palenia papierosów elektronicznych lub używania wyrobów tytoniowych bezdymnych przez osobę badaną.
 3. Badanie wydychanego powietrza przeprowadza się przed badaniem krwi, jeżeli stan strażaka na to pozwala.
 § 3. 1. Pomiaru analizatorem wydechu dokonuje się z użyciem ustnika, który podlega wymianie każdorazowo przed przeprowadzeniem pomiaru. Opakowanie ustnika otwiera się w obecności badanego strażaka.
@@ -63,10 +63,10 @@ w sprawie badań strażaków na zawartość w organizmie alkoholu lub obecność
 § 7. W wyniku badania pobranej krwi oznacza się:
 1) zawartość alkoholu;
 2) co najmniej następujące środki działające podobnie do alkoholu:
-a) morfinę (LOQ 10 ng/ml),
-b) amfetaminę i jej analogi, w tym metylenodioksymetamfetaminę (MDMA), (LOQ 25 ng/ml),
-c) kokainę (LOQ 10 ng/ml) i jej metabolit benzoiloekgoninę (LOQ 50 ng/ml),
-d) delta -9-tetrahydrokannabinol (LOQ 1 ng/ml),
+a) morfinę (LOQ – 10 ng/ml),
+b) amfetaminę i jej analogi, w tym metylenodioksymetamfetaminę (MDMA), (LOQ – 25 ng/ml),
+c) kokainę (LOQ – 10 ng/ml) i jej metabolit – benzoiloekgoninę (LOQ – 50 ng/ml),
+d) delta - 9-tetrahydrokannabinol (LOQ – 1 ng/ml),
 e) benzodiazepiny.
 § 8. 1. Badanie śliny polega na nieinwazyjnym pobraniu próbki śliny przy użyciu jednorazowego próbnika i umieszczeniu jej w urządzeniu do oznaczania metodą immunologiczną na zawartość środka działającego podobnie do alkoholu, zgodnie z instrukcją obsługi tego urządzenia.
 2. Do próbki, o której mowa w ust. 1, nie wolno dodawać jakichkolwiek substancji, poza znajdującymi się w zestawie urządzenia do oznaczania metodą immunologiczną środków działających podobnie do alkoholu.
@@ -79,10 +79,10 @@ e) benzodiazepiny.
 1) do pobrania moczu używa się pojemnika jednorazowego użytku, uniemożliwiającego zamianę, rozcieńczenie lub dodanie do niego innych substancji po jego zamknięciu;
 2) do pojemnika, do którego pobiera się mocz, nie dodaje się jakichkolwiek substancji.
 3. W pobranym moczu oznacza się co najmniej następujące środki działające podobnie do alkoholu:
-1) morfinę (LOQ 200 ng/ml) i 6-acetylomorfinę (LOQ 20 ng/ml);
-2) amfetaminę i jej analogi, w tym metylenodioksymetamfetaminę (MDMA), (LOQ 250 ng/ml);
-3) kokainę (LOQ 50 ng/ml) i jej metabolit benzoiloekgoninę (LOQ 100 ng/ml);
-4) 11-nor -9-karboksy -delta- 9-tetrahydrokannabinol (LOQ 15 ng/ml);
+1) morfinę (LOQ – 200 ng/ml) i 6-acetylomorfinę (LOQ – 20 ng/ml);
+2) amfetaminę i jej analogi, w tym metylenodioksymetamfetaminę (MDMA), (LOQ – 250 ng/ml);
+3) kokainę (LOQ – 50 ng/ml) i jej metabolit – benzoiloekgoninę (LOQ – 100 ng/ml);
+4) 11-nor -9-karboksy -delta - 9-tetrahydrokannabinol (LOQ – 15 ng/ml);
 5) benzodiazepiny.
 § 10. Naczynia zawierające krew lub mocz do badania oznacza się w sposób zapewniający ustalenie tożsamości badanego strażaka, od którego zostały pobrane krew lub mocz, a także zabezpiecza się w sposób uniemożliwiający zmianę ich zawartości przed dokonaniem badania oraz zniszczenie w czasie przechowywania lub transportu. Czynności te wykonuje się w obecności badanego strażaka, jeżeli jest to możliwe.
 § 11. 1. Do czasu rozpoczęcia badań laboratoryjnych pobrane krew oraz mocz przechowuje się w temperaturze od 2°C do 6°C.
@@ -90,7 +90,7 @@ e) benzodiazepiny.
 § 12. 1. Badanie potu polega na nieinwazyjnym pobraniu próbki potu, z części ciała zakrytej odzieżą, przy użyciu jednorazowego próbnika i umieszczeniu tej próbki w urządzeniu do oznaczania metodą immunologiczną na zawartość środka działającego podobnie do alkoholu, zgodnie z instrukcją obsługi tego urządzenia.
 2. Do próbki, o której mowa w ust. 1, nie wolno dodawać jakichkolwiek substancji, poza znajdującymi się w zestawie urządzenia do oznaczania metodą immunologiczną środków działających podobnie do alkoholu.
 § 13. 1. Z badania wydychanego powietrza, śliny oraz potu sporządza się protokół, który zawiera dane, o których mowa w art. 59c ust. 13 pkt 1–5, 7 i 8 oraz ust. 15 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, oraz:
-1) informacje o ilości, rodzaju, dacie i godzinie spożycia napojów alkoholowych przez strażaka w ciągu ostatnich 24 godzin lub informację o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu na podstawie oświadczenia badanego strażaka, jeżeli złożenie tego oświadczenia jest możliwe;
+1) informacje o ilości, rodzaju, dacie i godzinie spożycia napojów alkoholowych przez strażaka w ciągu ostatnich 24 godzin lub informację o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu – na podstawie oświadczenia badanego strażaka, jeżeli złożenie tego oświadczenia jest możliwe;
 2) informacje o przeprowadzonym badaniu z wyszczególnieniem rodzaju przeprowadzonego badania;
 3) w przypadku badania wydychanego powietrza:
 a) nazwę, model i numer fabryczny, datę ważności dokumentu potwierdzającego kalibrację lub wzorcowanie analizatora wydechu, którym przeprowadzono badanie,
@@ -120,28 +120,64 @@ e) informację o żądaniu przez badanego strażaka przeprowadzenia badania krwi
 § 14. 1. Z badań laboratoryjnych krwi lub moczu sporządza się protokół, który zawiera dane, o których mowa w art. 59c ust. 13 pkt 1–8 i 10 oraz ust. 14 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, oraz:
 1) informacje, o których mowa w § 13 ust. 1 pkt 1 i 6–9;
 2) datę, godzinę i minutę oraz miejsce pobrania próbek materiału biologicznego do badań;
-3) rodzaj środka odkażającego użytego do dezynfekcji skóry w przypadku badań krwi;
+3) rodzaj środka odkażającego użytego do dezynfekcji skóry – w przypadku badań krwi;
 4) rodzaj przeprowadzonego badania.
 2. Strażaka, jeżeli jest to możliwe, informuje się o możliwości odmowy złożenia oświadczenia o chorobach, na jakie choruje, oraz oświadczenia, o którym mowa w § 13 ust. 1 pkt 1.
 3. Wzór protokołu, o którym mowa w ust. 1, jest określony w załączniku nr 2 do rozporządzenia.
 § 15. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 lutego 2023 r. (Dz. U. poz. ) Załącznik nr 1 WZÓR PROTOKÓŁ z badania wydychanego powietrza / śliny / potu* na zawartość w organizmie strażaka alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
-Działając na podstawie art. 59c ust. 4 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240 i 347)
+Minister Spraw Wewnętrznych i Administracji: M. Kamiński Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Załączniki Administracji do rozporządzenia z dnia 24 lutego Ministra 2023 r. Spraw (Dz. U. Wewnętrznych poz. ) i Administracji z dnia 24 lutego 2023 r. (Dz. U. poz. ) Załącznik nr 1 Załącznik nr 1 WZÓR WZÓR WZÓR PROTOKÓŁ PROTOKÓŁ z badania wydychanego powietrza / śliny / potu* na zawartość w organizmie strażaka alkoholu lub z badania wydychanego powietrza obecność / innego śliny / potu* podobnie na zawartość działającego w organizmie środka strażaka alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
+, dnia 202 r.
+Działając na podstawie art. 59c ust. 4 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. Działając z 2022 r. na poz. podstawie 1969 oraz art. z 2023 59c ust. r. poz. 4 ustawy 240) z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240 i 347)
+1.
 1.
 2.
-3.
-4. Dane osobowe badanego strażaka:
-5. Informacje o chorobach, na jakie choruje strażak:
-6. Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez strażaka w ciągu ostatnich 24 godzin lub informacja o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu:
-7. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich stwierdzenia: Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 lutego 2023 r. (Dz. U. poz. ) Załącznik nr 1 WZÓR PROTOKÓŁ z badania wydychanego powietrza / śliny / potu* na zawartość w organizmie strażaka alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
-Działając na podstawie art. 59c ust. 4 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240)
-1.
 2.
 3.
+3.
+4. Dane osobowe badanego strażaka:
 4. Dane osobowe badanego strażaka:
 5. Informacje o chorobach, na jakie choruje strażak:
-6. Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez strażaka w ciągu ostatnich 24 godzin lub informacja o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu:
-7. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich stwierdzenia: WZÓR
+5. Informacje o chorobach, na jakie choruje strażak:
+6. Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez strażaka w ciągu ostatnich 24 godzin lub
+6. Ilość, informacja rodzaj, o przyjęciu data i godzina albo spożycia nieprzyjęciu napojów środka alkoholowych działającego przez podobnie strażaka do alkoholu: w ciągu ostatnich 24 godzin lub informacja o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu:
+7. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich
+7. Opis stwierdzenia: objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich stwierdzenia: * Niepotrzebne skreślić.
+* Niepotrzebne skreślić.
+8. Badanie na zawartość w organizmie strażaka alkoholu przeprowadzono analizatorem wydechu:
+9. Tabela pomiarów zawartości alkoholu w wydychanym powietrzu: Godzina Wynik pomiaru Miejsce Lp. Pomiar Data i minuta (cyfrowo w jednostce, wykonania pomiaru pomiaru w jakiej jest wyrażony pomiaru lub opisowo)
+1. Pierwszy pomiar
+2. Drugi pomiar
+3. Trzeci pomiar
+10. Płeć**: mężczyzna kobieta [Przycią [Przycią gnij 11. Wzrost: gnij masa ciała: uwagę uwagę
+12. Badany strażak** czytelni czytelni [Przycią [Przycią ka ka żąda nie żąda badania analizatorem wydechu dokonującym pomiaru metodą spektrometrii w podczerwieni gnij gnij interesuj interesuj [Przycią [Przycią żąda nie żąda badania krwi uwagę uwagę ącym ącym gnij gnij Część B – BADANIE ŚLINY czytelni czytelni cytatem cytatem
+13. Data, godzina i minuta oraz miejsce przeprowadzenia badania: uwagę uwagę ka ka z z czytelni czytelni 14. Nazwa handlowa zastosowanego testu: interesuj interesuj dokume dokume ka ka 15.
+ącym ącym ntu lub Data ntu ważności lub testu: interesuj interesuj cytatem cytatem podaj 16. Data w podaj ważności w dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia, którym ącym ącym przeprowadzono badanie: z z tym tym cytatem cytatem 17.
+dokume dokume miejscu Według miejscu instrukcji wynik testu należy odczytać w czasie od do z z ntu lub ntu lub kluczow 18. Wynik kluczow testu odczytano po upływie minut dokume dokume podaj w podaj w ą ą
+19. Wynik badania próbek śliny**: ntu lub ntu lub tym tym kwestię. kwestię.
+podaj w podaj w negatywny (ujemny) miejscu [Przycią miejscu Aby Aby tym tym pozytywny (dodatni) – wskazujący obecność substancji psychoaktywnej z grupy: kluczow [Przycią gnij kluczow umieści umieści miejscu miejscu ą gnij uwagę ą ć to pole ć to pole kluczow kluczow 20. Badany strażak** kwestię. uwagę czytelni kwestię. w w ą ą żąda nie żąda badania krwi Aby [Przycią czytelni ka Aby [Przycią dowolny dowolny kwestię. kwestię. żąda nie żąda badania moczu umieści [Przycią gnij ka interesuj umieści [Przycią gnij m m Aby Aby ć gnij uwagę interesuj ącym to pole ć gnij uwagę to pole miejscu ** Właściwe miejscu zaznaczyć znakiem „X”.
+umieści umieści w uwagę czytelni ącym cytatem w uwagę czytelni strony, strony, ć to pole ć to pole dowolny czytelni ka cytatem z dowolny czytelni ka wystarc wystarc w w m ka interesuj z dokume m ka interesuj zy je zy je dowolny dowolny miejscu interesuj ącym dokume ntu lub miejscu interesuj ącym przeciąg przeciąg Część C – BADANIE POTU
+21. Data, godzina i minuta oraz miejsce przeprowadzenia badania:
+22. Część ciała, z której pobrano próbkę potu:
+23. Nazwa handlowa zastosowanego testu:
+24. Data ważności testu:
+25. Data ważności dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia, którym przeprowadzono badanie:
+26. Według instrukcji wynik testu należy odczytać w czasie od do
+27. Wynik testu odczytano po upływie minut
+28. Wynik badania próbek potu**: negatywny (ujemny) [Przycią pozytywny (dodatni) – wskazujący obecność substancji psychoaktywnej z grupy: [Przycią gnij gnij uwagę
+29. Badany strażak** uwagę czytelni [Przycią żąda nie żąda badania krwi czytelni ka [Przycią gnij [Przycią ka interesuj gnij [Przycią żąda nie żąda badania moczu uwagę gnij interesuj ącym uwagę gnij 30. Uwagi i zastrzeżenia do przeprowadzonego badania osoby przeprowadzającej badanie oraz strażaka czytelni uwagę ącym cytatem czytelni uwagę poddanego badaniu: ka czytelni cytatem z ka czytelni interesuj ka z dokume interesuj ka
+31. Badany strażak został poinformowany o możliwości odmowy złożenia oświadczenia, o którym mowa ącym interesuj dokume ntu lub ącym interesuj w pkt 5 i 6.
+cytatem ącym ntu podaj lub w cytatem ącym 32. Załączniki do protokołu (wydruki z wynikami badań, jeżeli urządzenie użyte do przeprowadzenia badania z cytatem podaj tym w z cytatem umożliwia ich wykonanie, oraz kopia ważnego dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia użytego do przeprowadzenia badania): dokume z tym miejscu dokume z ntu dokume miejscu kluczow lub ntu dokume lub podaj ntu kluczow ą lub w podaj ntu lub w tym podaj ą kwestię. w tym podaj w miejscu tym kwestię. Aby miejscu tym kluczow miejscu Aby umieści kluczow miejscu ą kluczow umieści ć to pole ą kluczow kwestię. ą ć w to pole kwestię. ą Aby kwestię. w dowolny Aby kwestię.
+umieści Aby dowolny m umieści Aby ć umieści m miejscu to pole ć umieści to pole w ć miejscu strony, to pole w ć to pole dowolny w strony, wystarc dowolny w m dowolny wystarc zy je m dowolny miejscu m zy przeciąg je miejscu m Załącznik nr 2 WZÓR WZÓR PROTOKÓŁ z badania laboratoryjnego moczu / krwi* na zawartość w organizmie strażaka alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
+Działając na podstawie art. 59c ust. 4 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240 i 347) Część A – POBRANIE MATERIAŁU BIOLOGICZNEGO DO BADAŃ
+1.
+2.
+3. Dane osobowe badanego strażaka:
+4. Płeć**: mężczyzna kobieta [Przycią [Przycią gnij 5. Wzrost: gnij masa ciała: uwagę uwagę
+6. Informacje o chorobach, na jakie choruje strażak: czytelni czytelni ka ka
+7. Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez strażaka w ciągu ostatnich 24 godzin lub interesuj informacja interesuj o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu: ącym ącym cytatem cytatem
+8. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich z stwierdzenia: z dokume dokume
+9. Data, godzina i minuta oraz miejsce pobrania próbek materiału biologicznego do badań: ntu lub ntu lub podaj w podaj w tym 10. W tym przypadku badań krwi – rodzaj środka odkażającego użytego do dezynfekcji skóry: miejscu miejscu kluczow 11. W kluczow przypadku odstąpienia od pobrania krwi – informacja o przyczynie odstąpienia: ą ą kwestię. kwestię.
+Aby Aby umieści umieści ć to pole ć to pole w
 12. Uwagi i zastrzeżenia do przeprowadzonego pobrania próbek materiału biologicznego do badań osoby pobierającej próbkę materiału biologicznego oraz strażaka, od którego pobrano próbkę materiału biologicznego:
 13. Badany został poinformowany o możliwości odmowy złożenia oświadczenia, o którym mowa w pkt 6 i 7.
 1. Wykonano badanie krwi / moczu* metodą:
@@ -150,5 +186,7 @@ Działając na podstawie art. 59c ust. 4 ustawy z dnia 24 sierpnia 1991 r. o Pa�
 4. Uwagi i zastrzeżenia do przeprowadzonego badania osoby przeprowadzającej badanie:
 5. Załączniki do protokołu (wydruki z wynikami badań, jeżeli urządzenie użyte do przeprowadzenia badania umożliwia ich wykonanie):
 
-## Część B BADANIE MATERIAŁU BIOLOGICZNEGO I WYNIK PRZEPROWADZONEGO BADANIA (wypełnia podmiot przeprowadzający badanie)
+## Część A – BADANIE WYDYCHANEGO POWIETRZA
+
+## Część B – BADANIE MATERIAŁU BIOLOGICZNEGO I WYNIK PRZEPROWADZONEGO BADANIA (wypełnia podmiot przeprowadzający badanie)
 

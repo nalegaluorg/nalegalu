@@ -8,7 +8,7 @@ pos: 464
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o służbie zagranicznej
@@ -103,6 +103,24 @@ Art. 61–73. (pominięte)
 
 **Art. 7.** Ilekroć w ustawie jest mowa o:
 
+- **1)** ambasadorze – oznacza to, mianowanego w trybie określonym w Konstytucji Rzeczypospolitej Polskiej, pełnomocnego przedstawiciela Rzeczypospolitej Polskiej w innym państwie lub przy organizacji międzynarodowej;
+- **1a)** ambasadorze tytularnym – oznacza to najwyższy stopień dyplomatyczny nadawany dyplomacie zawodowemu;
+- **2)** członkach rodziny – oznacza to:
+    - **a)** małżonka,
+    - **b)** dzieci: własne, małżonka, przysposobione oraz wzięte na utrzymanie i wychowanie w ramach rodzin zastępczych, rodzinnych domów dziecka – w wieku do 18 lat bądź będące w wieku określonym odrębnymi przepisami, dotyczącymi zasiłków rodzinnych i pielęgnacyjnych,
+    - **c)** osoby niepełnosprawne niezdolne do samodzielnej egzystencji w rozumieniu przepisów ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 256, 859 i 1246), wymagające stałej opieki członka służby zagranicznej;
+
+- **3)** dyplomacie delegowanym – oznacza to osobę wyznaczoną przez innego niż minister właściwy do spraw zagranicznych ministra lub kierownika jednostki sektora finansów publicznych, która wykonuje zadania w placówce zagranicznej określone przez organ wyznaczający;
+- **4)** dyplomacie zawodowym – oznacza to osobę zatrudnioną w urzędzie obsługującym ministra właściwego do spraw zagranicznych na podstawie mianowania, której nadano stopień dyplomatyczny;
+- **5)** konsulu – oznacza to konsula Rzeczypospolitej Polskiej w rozumieniu przepisów ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne;
+- **6)** państwie przyjmującym – oznacza to państwo przyjmujące w rozumieniu Konwencji wiedeńskiej o stosunkach dyplomatycznych, sporządzonej w Wiedniu dnia 18 kwietnia 1961 r. (Dz. U. z 1965 r. poz. 232);
+- **7)** placówce zagranicznej Rzeczypospolitej Polskiej, zwanej dalej „placówką zagraniczną” – oznacza to przedstawicielstwo dyplomatyczne, stałe przedstawicielstwo przy organizacji międzynarodowej, konsulat generalny, konsulat, wicekonsulat, agencję konsularną, instytut polski lub inną placówkę podległą ministrowi właściwemu do spraw zagranicznych mającą siedzibę poza granicami Rzeczypospolitej Polskiej;
+- **8)** pracowniku delegowanym – oznacza to osobę wyznaczoną przez innego niż minister właściwy do spraw zagranicznych ministra lub kierownika jednostki sektora finansów publicznych, która wykonuje obowiązki personelu pomocniczego albo personelu obsługi w placówce zagranicznej określone przez organ wyznaczający;
+- **9)** pracowniku krajowym – oznacza to osobę zatrudnioną w urzędzie obsługującym ministra właściwego do spraw zagranicznych na podstawie powołania w celu wykonywania obowiązków członka personelu pomocniczego albo personelu obsługi w placówce zagranicznej;
+- **10)** pracowniku zagranicznym – oznacza to osobę zatrudnioną w urzędzie obsługującym ministra właściwego do spraw zagranicznych na podstawie powołania w celu wykonywania obowiązków członka personelu dyplomatyczno-konsularnego w placówce zagranicznej;
+- **11)** służbie cywilnej – oznacza to służbę cywilną w rozumieniu przepisów ustawy z dnia 21 listopada 2008 r. o służbie cywilnej;
+- **12)** tajemnicy dyplomatycznej – oznacza to informacje, dane oraz wiedzę, niestanowiące informacji niejawnych w rozumieniu przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222), z którymi członek służby zagranicznej zapoznał się w związku z pełnieniem obowiązków i które ze względu na dobro służby zagranicznej mogły być udostępnione wyłącznie osobom do tego uprawnionym, a ich ujawnienie mogłoby szkodzić polityce zagranicznej Rzeczypospolitej Polskiej i naruszać jej wizerunek międzynarodowy.
+
 #### Rozdział 2 Organizacja i funkcjonowanie służby zagranicznej
 
 **Art. 8.**
@@ -166,7 +184,24 @@ Art. 61–73. (pominięte)
 
 **Art. 13.** Zadania służby zagranicznej wykonują:
 
+- **1)** ambasadorowie;
+- **2)** personel dyplomatyczno-konsularny, który stanowią:
+    - **a)** dyplomaci zawodowi,
+    - **b)** pracownicy zagraniczni, którym Szef Służby Zagranicznej nadał stopień dyplomatyczny na czas pełnienia obowiązków w placówce zagranicznej,
+    - **c)** dyplomaci delegowani;
+
+- **3)** personel pomocniczy;
+- **4)** personel obsługi.
+
 **Art. 14.** Dyplomatą zawodowym może być osoba, która:
+
+- **1)** posiada obywatelstwo polskie;
+- **2)** korzysta z pełni praw publicznych;
+- **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** zna co najmniej dwa języki obce;
+- **5)** posiada tytuł zawodowy magistra lub równorzędny;
+- **6)** posiada zdolność fizyczną i psychiczną do długotrwałej służby w placówkach zagranicznych, w warunkach wymagających szczególnej dyscypliny i dyspozycyjności;
+- **7)** wykazuje gotowość do podjęcia zadań w placówce zagranicznej Rzeczypospolitej Polskiej.
 
 **Art. 15.**
 
@@ -219,6 +254,13 @@ Art. 61–73. (pominięte)
 
 **Art. 18.** Pracownikiem zagranicznym może być osoba, która:
 
+- **1)** posiada obywatelstwo polskie;
+- **2)** korzysta z pełni praw publicznych;
+- **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** zna co najmniej jeden język obcy;
+- **5)** posiada wyższe wykształcenie lub co najmniej średnie wykształcenie w przypadku pracy na stanowisku technicznym;
+- **6)** posiada zdolność fizyczną i psychiczną do służby w placówce zagranicznej, w warunkach wymagających szczególnej dyscypliny i dyspozycyjności.
+
 **Art. 19.**
 
 1. Stosunek służbowy pracownika zagranicznego nawiązuje się na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, do wykonywania obowiązków członka personelu dyplomatyczno-konsularnego w placówce zagranicznej.
@@ -232,6 +274,12 @@ Art. 61–73. (pominięte)
 5. Odwołanie pracownika zagranicznego następuje z co najmniej 30-dniowym wyprzedzeniem, z wyjątkiem przypadku, o którym mowa w art. 70 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, lub uznania pracownika zagranicznego za osobę niepożądaną przez władze państwa przyjmującego.
 
 **Art. 20.** Pracownikiem krajowym może być osoba, która:
+
+- **1)** posiada obywatelstwo polskie;
+- **2)** korzysta z pełni praw publicznych;
+- **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** posiada kwalifikacje wymagane na dane stanowisko pracy;
+- **5)** posiada zdolność fizyczną i psychiczną do pracy w placówce zagranicznej, w warunkach wymagających szczególnej dyscypliny i dyspozycyjności.
 
 **Art. 21.**
 
@@ -450,7 +498,25 @@ Art. 61–73. (pominięte)
 
 **Art. 37.** Ambasador w państwie przyjmującym, w zakresie swoich pełnomocnictw, w szczególności:
 
+- **1)** reprezentuje Rzeczpospolitą Polską;
+- **2)** chroni interesy Rzeczypospolitej Polskiej oraz jej obywateli, zgodnie z prawem międzynarodowym i prawem państwa przyjmującego;
+- **3)** uczestniczy w czynnościach przedstawicieli organów władzy publicznej w zakresie prowadzonych przez nich negocjacji i podejmowanych działań, zapewnia współdziałanie tych przedstawicieli, dba o zgodność ich czynności z założeniami polskiej polityki zagranicznej, a także udziela im pomocy i współdziała z nimi w zakresie ich zadań w stosunkach z państwem przyjmującym;
+- **4)** działa na rzecz promocji Rzeczypospolitej Polskiej, a zwłaszcza polskiej kultury, nauki i gospodarki;
+- **5)** udziela pomocy i współdziała w zakresie niezbędnym do wykonywania zadań przez członków służby zagranicznej oraz innych osób delegowanych do załatwienia określonych spraw w państwie przyjmującym;
+- **6)** prowadzi rokowania z państwem przyjmującym;
+- **7)** popiera przyjazne stosunki między Rzecząpospolitą Polską a państwem przyjmującym;
+- **8)** zaznajamia się z warunkami, wydarzeniami i działalnością prowadzoną przez państwo przyjmujące i przekazuje właściwym organom władzy publicznej Rzeczypospolitej Polskiej informacje na ten temat.
+
 **Art. 38.** Ambasador przy organizacji międzynarodowej, zwanej dalej „organizacją”, w szczególności:
+
+- **1)** reprezentuje Rzeczpospolitą Polską wobec organizacji;
+- **2)** utrzymuje łączność między Rzecząpospolitą Polską a organizacją;
+- **3)** prowadzi rokowania z organizacją i w ramach organizacji;
+- **4)** zaznajamia się z działalnością prowadzoną przez organizację i przekazuje właściwym organom władzy publicznej Rzeczypospolitej Polskiej informację na temat jej działalności;
+- **5)** zapewnia udział Rzeczypospolitej Polskiej w pracach organizacji;
+- **6)** chroni interesy Rzeczypospolitej Polskiej, jej obywateli oraz polskich osób prawnych w stosunkach z organizacją;
+- **7)** popiera realizację celów i zasad organizacji przez współpracę z organizacją i w ramach organizacji;
+- **8)** uczestniczy, poza granicami Rzeczypospolitej Polskiej oraz w zakresie przedmiotu działalności organizacji, w czynnościach przedstawicieli organów władzy publicznej w zakresie prowadzonych przez nich negocjacji i podejmowanych działań, zapewnia współdziałanie tych przedstawicieli, dba o zgodność ich czynności z założeniami polskiej polityki zagranicznej, a także udziela im pomocy i współdziała z nimi w zakresie ich zadań w stosunkach z organizacją.
 
 **Art. 39.**
 
@@ -950,6 +1016,9 @@ Art. 61–73. (pominięte)
 **Art. 85.** Do członków służby zagranicznej pełniących obowiązki służbowe w placówce zagranicznej, którzy w dniu wejścia w życie ustawy są czasowo niezdolni do pracy wskutek choroby, przebywają na urlopie macierzyńskim, urlopie ojcowskim, urlopie na warunkach urlopu macierzyńskiego lub urlopie rodzicielskim w rozumieniu przepisów prawa pracy, nie stosuje się przepisów art. 51 ust. 3–3b do dnia ustania czasowej niezdolności do pracy wskutek choroby lub zakończenia tych urlopów.
 
 **Art. 85a.** W okresie od dnia 16 czerwca 2021 r. do dnia 31 grudnia 2024 r.:
+
+- **1)** w sprawach wynagrodzenia członków służby zagranicznej oraz osób, które z dniem wejścia w życie ustawy stają się pracownikami delegowanymi albo dyplomatami delegowanymi, stosuje się przepisy art. 27 ust. 1 ustawy uchylanej w art. 91 oraz przepisy wykonawcze wydane na podstawie art. 27 ust. 2 tej ustawy;
+- **2)** w sprawach uprawnień i świadczeń, o których mowa w art. 53, przysługujących członkowi służby zagranicznej oraz osobom, które z dniem wejścia w życie ustawy stają się pracownikami delegowanymi albo dyplomatami delegowanymi wykonującymi obowiązki służbowe w placówce zagranicznej, stosuje się przepisy art. 29 ustawy uchylanej w art. 91 oraz przepisy wykonawcze wydane na podstawie art. 30 tej ustawy.
 
 **Art. 85b.**
 

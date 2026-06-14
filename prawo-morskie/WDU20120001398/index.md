@@ -8,7 +8,7 @@ pos: 1398
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o uchyleniu dekretu o obszarach szczególnie ważnych dla obrony kraju oraz o zmianie ustawy – Kodeks morski

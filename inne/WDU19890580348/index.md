@@ -8,10 +8,12 @@ pos: 348
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Obwieszczenie Ministra Rolnictwa, Leśnictwa i Gospodarki Żywnościowej z dnia 20 października 1989 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 12 marca 1958 r. o sprzedaży nieruchomości Państwowego Funduszu Ziemi oraz uporządkowaniu niektórych spraw związanych z przeprowadzeniem reformy rolnej i osadnictwa rolnego.
+# o uporządkowaniu niektórych spraw związanych z przeprowadzeniem reformy rolnej i osadnictwa rolnego
+
+*USTAWA z dnia 12 marca 1958 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -31,11 +33,21 @@ source: "isap-pdf"
 
 **Art. 18.**
 
-1. Uznaje się za wygasłe uprawnienia byłych właścicieli (współwłaścicieli) nieruchomości ziemskich, przyjętych na własność Państwa na podstawie art. 2 ust. 1 lit. e) dekretu dnia 6 września 1944 r. o przeprowadzeniu reformy rolnej (Dz. U. 1945 Nr 3, 13), do otrzymania gospodarstw rolnych w myśl art. 17 tego dekretu.
+1. Uznaje się za wygasłe uprawnienia byłych właścicieli (współwłaścicieli) nieruchomości ziemskich, przyjętych na własność Państwa na podstawie art. 2 ust. 1 lit. e) dekretu z dnia 6 września 1944 r. o przeprowadzeniu reformy rolnej (Dz. U. z 1945 Nr 3, poz. 13), do otrzymania gospodarstw rolnych w myśl art. 17 tego dekretu.
 
 2. Przepis ust. 1 nie dotyczy przypadków, gdy byli właściciele (współwłaściciele) przejętych na własność Państwa nieruchomości ziemskich wprowadzeni już zostali w posiadanie gospodarstw rolnych.
 
-**Art. 19.** Umarza się długi i ciężary zabezpieczone na nieruchomościach przyjętych na własność Państwa na podstawie dekretu dnia 28 listopada 1945 r. o przejęciu niektórych nieruchomości ziemskich na cele reformy rolnej i osadnictwa (Dz. U. Nr 57, poz 321) oraz dekretu dnia 27 lipca 1949 r. o przejęciu na własność Państwa nie pozostających w faktycznym władaniu właścicieli nieruchomości ziemskich, położonych w niektórych powiatach województwa białostockiego, lubelskiego, rzeszowskiego i krakowskiego (Dz. U. Nr 46, 339), wyjątkiem służebności gruntowych.
+**Art. 19.** Umarza się długi i ciężary zabezpieczone na nieruchomościach przyjętych na własność Państwa na podstawie dekretu z dnia 28 listopada 1945 r. o przejęciu niektórych nieruchomości ziemskich na cele reformy rolnej i osadnictwa (Dz. U. Nr 57, poz 321) oraz dekretu z dnia 27 lipca 1949 r. o przejęciu na własność Państwa nie pozostających w faktycznym władaniu właścicieli nieruchomości ziemskich, położonych w niektórych powiatach województwa białostockiego, lubelskiego, rzeszowskiego i krakowskiego (Dz. U. Nr 46, poz. 339), z wyjątkiem służebności gruntowych.
 
-**Art. 20.** Uznaje się wygasłe uprawnienia repatriantów do otrzymania państwowych nieruchomości rolnych, przysługujących im stosowanie do umów międzynarodowych w zamian za mienie pozostawione poza granicami Państwa, jeżeli do dnia wejścia w życie ustawy nie zostali wprowadzeni w posiadanie takich nieruchomości. 1947 r. Nr 66, 410) przysługuje osobom, które użytkują te nieruchomości w dniu wejścia w życie ustawy. 2. Do kategorii osób określonych w ust. 1 należą:
+**Art. 20.** Uznaje się z wygasłe uprawnienia repatriantów do otrzymania państwowych nieruchomości rolnych, przysługujących im stosowanie do umów międzynarodowych w zamian za mienie pozostawione poza granicami Państwa, jeżeli do dnia wejścia w życie ustawy nie zostali wprowadzeni w posiadanie takich nieruchomości.
+
+**Art. 21.**
+
+1. Prawo do otrzymania państwowych nieruchomości rolnych na własność w drodze nadania na podstawie przepisów dekretu z dnia 6 września 1944 r. o przeprowadzeniu reformy rolnej (Dz. U. z 1945 r. Nr 3, poz. 13) oraz dekretu z dnia 6 września 1946 r. o ustroju rolnym i osadnictwie na obszarze Ziem Odzyskanych i byłego Wolnego Miasta Gdańska (Dz. U. z 1946 r. Nr 49, poz. 279 i z 1947 r. Nr 66, poz. 410) przysługuje osobom, które użytkują te nieruchomości w dniu wejścia w życie ustawy.
+
+2. Do kategorii osób określonych w ust. 1 należą:
+
+- **1)** posiadacze nieruchomości, w stosunku do których wydane zostały orzeczenia komisji ziemskich o nadaniu im nieruchomości, chociażby orzeczenia te nie były jeszcze prawomocne;
+- **2)** osadnicy i repatrianci wprowadzeni we władanie nieruchomości przez organy administracji rolnej, z wyjątkiem dzierżawców oraz osób użytkujących grunty na podstawie umów o zagospodarowaniu.
+
 

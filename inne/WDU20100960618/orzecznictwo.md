@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 30 kwietnia 2010 r. o instytutach badawczych*
 
-Łącznie: **40** orzeczeń
+Łącznie: **41** orzeczeń
 (pominięto 20 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
@@ -20,12 +20,13 @@ Orzeczenia powołujące: *Ustawa z dnia 30 kwietnia 2010 r. o instytutach badawc
 - 2017-06-27 | SO | [I ACa 1298/16](https://www.saos.org.pl/judgments/481160) | Wyrok
 - 2012-10-24 | SO | [I ACa 469/12](https://www.saos.org.pl/judgments/12862) | Wyrok
 
-## art. 3 (5)
+## art. 3 (6)
 
 - 2014-06-25 | TK | [K 22/13](https://www.saos.org.pl/judgments/206459) | Postanowienie ★
 - 2013-04-24 | TK | [Tw 14/12](https://www.saos.org.pl/judgments/160315) | Postanowienie ★
 - 2012-12-18 | TK | [Tw 26/11](https://www.saos.org.pl/judgments/111546) | Postanowienie ★
 - 2026-01-29 | SO | [III APa 29/25](https://www.saos.org.pl/judgments/543456) | Wyrok
+- 2025-01-21 | SO | [I ACa 2251/23](https://www.saos.org.pl/judgments/545915) | Wyrok
 - 2016-11-15 | SO | [VI ACa 1306/15](https://www.saos.org.pl/judgments/259172) | Wyrok
 
 ## art. 4 (2)

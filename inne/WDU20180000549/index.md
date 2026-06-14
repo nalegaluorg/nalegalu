@@ -8,10 +8,10 @@ pos: 549
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 marca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 549 ProtokÓł między rządem rzeczypospolitej Polskiej a rządem republiki Azerbejdżanu w sprawie zmiany Umowy między rządem rzeczypospolitej Polskiej a rządem republiki Azerbejdżanu o współpracy w dziedzinie obronności, podpisanej w Warszawie dnia 30 marca 2005 r., podpisany w Warszawie dnia 27 czerwca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2018-03-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/549/text.pdf) |
-
-ProtokÓł między rządem rzeczypospolitej Polskiej a rządem republiki Azerbejdżanu w sprawie zmiany Umowy między rządem rzeczypospolitej Polskiej a rządem republiki Azerbejdżanu o współpracy w dziedzinie obronności, podpisanej w Warszawie dnia 30 marca 2005 r., podpisany w Warszawie dnia 27 czerwca 2017 r.
 

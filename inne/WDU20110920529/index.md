@@ -8,7 +8,7 @@ pos: 529
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo probiercze
@@ -31,13 +31,42 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i warunki wprowadzania do obrotu wyrobów z metali szlachetnych oraz obrotu nimi na terytorium Rzeczypospolitej Polskiej;
+- **2)** zasady i tryb przeprowadzania badań i oznaczania wyrobów z metali szlachetnych oraz wyrobów zawierających metale szlachetne;
+- **3)** obowiązujące próby dla wyrobów z metali szlachetnych;
+- **4)** organizację administracji probierczej;
+- **5)** zasady nadzoru nad wykonywaniem przepisów ustawy.
+
 **Art. 2.** Metalami szlachetnymi w rozumieniu ustawy są:
 
+- **1)** platyna, pallad, złoto i srebro,
+- **2)** metale z grupy platynowców: iryd, osm, rod i ruten – w stanie czystym albo w stopach z innymi metalami.
+
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** wyrób z metalu szlachetnego – wyrób, w którym zawartość metalu szlachetnego nie jest niższa niż zawartość odpowiadająca najniższej próbie obowiązującej dla danego metalu szlachetnego;
+- **2)** wyrób dawnego pochodzenia – wyrób z metalu szlachetnego:
+    - **a)** wpisany do rejestru zabytków lub do inwentarza muzealiów lub
+    - **b)** oznaczony dającymi się zidentyfikować cechami probierczymi stosowanymi przed rokiem 1962, lub
+    - **c)** wytworzony przed rokiem 1962, oznaczony cechami niedającymi się zidentyfikować lub nieposiadający żadnych oznaczeń, którego wartość historyczna lub artystyczna jest tak znaczna, że wartość metalu szlachetnego użytego do wytworzenia tego wyrobu przy ustalaniu jego wartości rynkowej stanowi czynnik drugorzędny;
+
+- **3)** cecha probiercza – prawnie chroniony znak urzędowy potwierdzający zawartość metalu szlachetnego w wyrobie;
+- **4)** wprowadzenie do obrotu – udostępnienie, nieodpłatnie albo za opłatą, po raz pierwszy wyrobu z metalu szlachetnego w celu jego używania lub sprzedaży;
+- **5)** obrót – każdorazowe udostępnienie wprowadzonego do obrotu wyrobu z metalu szlachetnego w celu jego używania lub sprzedaży;
+- **6)** świadectwo badania – dokument potwierdzający zawartość metalu szlachetnego w wyrobie;
+- **7)** próba – stosunek masy czystego metalu szlachetnego zawartego w stopie do masy stopu wyrażony w częściach tysięcznych;
+- **8)** znak imienny – indywidualny znak pozwalający na identyfikację wytwórcy wyrobu z metalu szlachetnego lub podmiotu wprowadzającego do obrotu wyrób z metalu szlachetnego wytworzony poza terytorium Rzeczypospolitej Polskiej.
 
 #### Rozdział 2 Zasady i warunki wprowadzania do obrotu wyrobów z metali szlachetnych oraz obrotu nimi na terytorium Rzeczypospolitej Polskiej
 
 **Art. 4.** Wyroby z metali szlachetnych mogą być, z zastrzeżeniem art. 6, wprowadzane do obrotu i być przedmiotem obrotu na terytorium Rzeczypospolitej Polskiej, jeżeli spełniają co najmniej 1 z następujących warunków:
+
+- **1)** są oznaczone:
+    - **a)** polskimi cechami probierczymi,
+    - **b)** cechami probierczymi, których obowiązek uznawania wynika z wiążących Rzeczpospolitą Polską umów międzynarodowych,
+    - **c)** cechami probierczymi, na podstawie których dopuszczono wyroby z metali szlachetnych do obrotu w państwach członkowskich Unii Europejskiej, w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub w Republice Turcji;
+
+- **2)** posiadają świadectwo badania.
 
 **Art. 5.**
 
@@ -99,6 +128,15 @@ source: "isap-pdf"
 
 **Art. 11.** Znak „MET” umieszcza się:
 
+- **1)** na wyrobie:
+    - **a)** zawierającym metale szlachetne, w którym zawartość tych metali jest niższa niż zawartość odpowiadająca najniższej próbie obowiązującej dla danego metalu szlachetnego,
+    - **b)** wykonanym z metali nieszlachetnych, pokrytym powłoką z metali szlachetnych,
+    - **c)** wykonanym z metali szlachetnych, pokrytym powłoką z metali nieszlachetnych;
+
+- **2)** na częściach wchodzących w skład wyrobu z metalu szlachetnego, wykonanych z metali nieszlachetnych, o których mowa w art. 15 ust. 1, z wyłączeniem przypadków gdy:
+    - **a)** względy techniczne nie pozwalają na oznaczenie tym znakiem, w szczególności jeżeli zachodzi obawa uszkodzenia wyrobu, wymiary części uniemożliwiają oznaczenie tym znakiem lub umieszczenie tego znaku obniżyłoby walory estetyczne wyrobu, albo
+    - **b)** na częściach wyrobu wykonanych z metali nieszlachetnych znajdują się oznaczenia jednoznacznie informujące o tym, że części te zostały wykonane z metali nieszlachetnych.
+
 **Art. 12.**
 
 1. Wyroby z metali szlachetnych powinny być zgłoszone do badania i oznaczenia cechą probierczą:
@@ -128,6 +166,11 @@ source: "isap-pdf"
 
 **Art. 14.** Do oznaczania wyrobów z metali szlachetnych cechami probierczymi stosuje się następujące rodzaje cech:
 
+- **1)** cechę podstawową, informującą o rodzaju metalu szlachetnego i jego próbie, a także wskazującą urząd, który dokonał oznaczenia;
+- **2)** cechę dodatkową, określającą wyłącznie rodzaj metalu szlachetnego;
+- **3)** cechę pomocniczą, służącą potwierdzaniu ważności wcześniej umieszczonych polskich cech probierczych;
+- **4)** cechę główną, służącą oznaczaniu surowców, półfabrykatów oraz złomu.
+
 **Art. 15.**
 
 1. W skład wyrobów z metali szlachetnych nie mogą wchodzić części wykonane z metali nieszlachetnych, z wyjątkiem:
@@ -144,6 +187,11 @@ source: "isap-pdf"
 2. Jeżeli cechy probiercze lub oznaczenia liczbowe umieszczone na wyrobach z metali szlachetnych zgłoszonych do ponownego badania i oznaczenia cechami probierczymi nie są zgodne z uzyskanymi wynikami badań, podlegają one usunięciu lub skasowaniu przy użyciu kasownika.
 
 **Art. 17.** Minister właściwy do spraw gospodarki określa, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania dla wyrobów z metali szlachetnych zgłaszanych do badania i oznaczania cechami probierczymi, tryb zgłaszania oraz metody badania tych wyrobów, uwzględniając rodzaje stopów, z których je wykonano, wymagania wynikające z norm oraz rozwój techniczny metod badawczych;
+- **2)** opisy i graficzne wizerunki cech probierczych odpowiadające poszczególnym rodzajom cech oraz znaku „MET” i kasownika, mając na względzie rodzaje zgłaszanych wyrobów oraz tradycję przyjętą w zakresie symboliki oznaczeń;
+- **3)** wzory świadectw badania, uwzględniając przypadki, gdy świadectwa są wydawane dla wyrobów z metali szlachetnych;
+- **4)** sposoby oznaczania wyrobów cechą probierczą i znakiem „MET” oraz sposoby usuwania albo kasowania cech probierczych lub oznaczeń liczbowych, uwzględniając konstrukcję wyrobów oraz wyniki przeprowadzonych badań.
 
 **Art. 18.**
 
@@ -287,6 +335,9 @@ source: "isap-pdf"
 
 **Art. 28.** Organami administracji probierczej są:
 
+- **1)** Prezes Głównego Urzędu Miar, zwany dalej „Prezesem”;
+- **2)** dyrektorzy okręgowych urzędów probierczych, zwani dalej „dyrektorami”.
+
 **Art. 29.**
 
 1. Prezes jest centralnym organem administracji rządowej w zakresie probiernictwa.
@@ -310,6 +361,12 @@ source: "isap-pdf"
 2. Prezes sprawuje nadzór w zakresie prawidłowości wykonywania przez dyrektorów należących do nich zadań oraz prawidłowości funkcjonowania kierowanych przez nich okręgowych urzędów probierczych.
 
 **Art. 32.** Do zakresu działania Prezesa w sprawach probiernictwa należy:
+
+- **1)** nadzór i koordynowanie działalności okręgowych urzędów probierczych;
+- **2)** przedstawianie propozycji dotyczących kierunków zmian legislacyjnych w zakresie probiernictwa;
+- **3)** gromadzenie i upowszechnianie informacji popularyzujących i promujących wiedzę z zakresu probiernictwa;
+- **4)** publikowanie w Dzienniku Urzędowym Głównego Urzędu Miar informacji, ogłoszeń i komunikatów Prezesa Głównego Urzędu Miar;
+- **5)** zlecanie dyrektorom wykonywania zadań, w szczególności w zakresie przeprowadzania badań i oznaczania wyrobów z metali szlachetnych.
 
 **Art. 33.**
 
@@ -485,6 +542,10 @@ source: "isap-pdf"
 **Art. 45.** Kto wbrew przepisom art. 4 wprowadza do obrotu wyroby z metali szlachetnych lub dokonuje obrotu nimi, podlega karze grzywny.
 
 **Art. 46.** Kto uniemożliwia lub utrudnia organom administracji probierczej wykonywanie zadań w zakresie sprawowania nadzoru przez:
+
+- **1)** uniemożliwianie lub utrudnianie wstępu na teren nieruchomości lub do pomieszczeń,
+- **2)** odmowę udostępnienia dokumentów lub innych dowodów, o których mowa w art. 41,
+- **3)** uniemożliwianie gromadzenia i zabezpieczania dowodów naruszenia przepisów ustawy – podlega karze grzywny.
 
 **Art. 47.** Kto nie dopełnia obowiązków określonych w art. 6 ust. 2 i 3, art. 8, art. 18 ust. 2 lub art. 19 ust. 1 i 5, podlega karze grzywny.
 

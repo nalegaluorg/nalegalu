@@ -8,7 +8,7 @@ pos: 1236
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 20/A/2016 WYROK z dnia 26 kwietnia 2016 r.

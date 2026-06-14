@@ -8,7 +8,7 @@ pos: 2215
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pracowniczych planach kapitałowych
@@ -731,6 +731,11 @@ Art. 112–132. (pominięte)
 
 **Art. 43.** Przepisy ustawy o funduszach inwestycyjnych określające zasady i ograniczenia inwestycyjne dla funduszu inwestycyjnego otwartego, dotyczące:
 
+- **1)** towarzystwa funduszy inwestycyjnych – stosuje się odpowiednio do PTE, pracowniczego towarzystwa emerytalnego albo do zakładu ubezpieczeń;
+- **2)** akcjonariuszy towarzystwa funduszy inwestycyjnych – stosuje się odpowiednio do akcjonariuszy PTE, akcjonariuszy pracowniczego towarzystwa emerytalnego albo do akcjonariuszy zakładu ubezpieczeń;
+- **3)** podmiotów będących podmiotami dominującymi lub zależnymi w stosunku do towarzystwa funduszy inwestycyjnych lub jego akcjonariuszy – stosuje się odpowiednio do podmiotów będących podmiotami dominującymi lub zależnymi w stosunku do PTE, pracowniczego towarzystwa emerytalnego albo zakładu ubezpieczeń lub w stosunku do ich akcjonariuszy;
+- **4)** członków organów towarzystwa funduszy inwestycyjnych lub osób zatrudnionych w towarzystwie funduszy inwestycyjnych – stosuje się odpowiednio do członków organów PTE lub osób zatrudnionych w PTE, członków organów pracowniczego towarzystwa emerytalnego lub osób zatrudnionych w pracowniczym towarzystwie emerytalnym albo do członków organów zakładu ubezpieczeń lub osób zatrudnionych w zakładzie ubezpieczeń.
+
 **Art. 44.** Fundusz zdefiniowanej daty lub subfundusz zdefiniowanej daty może gromadzić wyłącznie środki uczestników PPK.
 
 **Art. 45.**
@@ -929,6 +934,10 @@ Art. 112–132. (pominięte)
 
 **Art. 57.** PFR podaje do publicznej wiadomości w portalu PPK, o którym mowa w rozdziale 11, informację o:
 
+- **1)** wyznaczonej instytucji finansowej;
+- **2)** zmianie wyznaczonej instytucji finansowej;
+- **3)** terminie rozpoczęcia wykonywania obowiązków wyznaczonej instytucji finansowej.
+
 #### Rozdział 10 Ewidencja Pracowniczych Planów Kapitałowych
 
 **Art. 58.**
@@ -1080,6 +1089,11 @@ Art. 112–132. (pominięte)
 
 **Art. 68.** Ewidencja PPK obejmuje ewidencje:
 
+- **1)** towarzystw funduszy inwestycyjnych, PTE, pracowniczych towarzystw emerytalnych i zakładów ubezpieczeń spełniających wymogi, o których mowa w art. 59 ust. 1;
+- **2)** podmiotów zatrudniających, które zawarły umowy o zarządzanie PPK;
+- **3)** umów o zarządzanie PPK zawartych przez podmioty zatrudniające;
+- **4)** uczestników PPK.
+
 **Art. 69.**
 
 1. Wybrana instytucja finansowa, w terminie 14 dni od dnia zawarcia umowy o zarządzanie PPK, zgłasza, w postaci elektronicznej, wniosek o wpis umowy o zarządzanie PPK do ewidencji PPK.
@@ -1108,7 +1122,22 @@ Art. 112–132. (pominięte)
 
 **Art. 72.** Ewidencja podmiotów zatrudniających, które zawarły umowy o zarządzanie PPK, obejmuje:
 
+- **1)** numer podmiotu zatrudniającego w ewidencji PPK;
+- **2)** nazwę podmiotu zatrudniającego;
+- **3)** numer identyfikacyjny podmiotu zatrudniającego i instytucji finansowej;
+- **4)** serię i numer dokumentu tożsamości lub paszportu osoby fizycznej będącej podmiotem zatrudniającym, jeżeli nie nadano jej NIP;
+- **5)** adres siedziby podmiotu zatrudniającego;
+- **6)** adres do korespondencji podmiotu zatrudniającego.
+
 **Art. 73.** Ewidencja umów o zarządzanie PPK zawartych przez podmioty zatrudniające obejmuje:
+
+- **1)** numer podmiotu zatrudniającego w ewidencji PPK;
+- **2)** datę zawarcia umowy o zarządzanie PPK;
+- **3)** nazwę podmiotu zatrudniającego i instytucji finansowej;
+- **4)** numer identyfikacyjny podmiotu zatrudniającego;
+- **5)** serię i numer dokumentu tożsamości lub paszportu osoby fizycznej będącej podmiotem zatrudniającym, jeżeli nie nadano jej NIP;
+- **6)** adres siedziby podmiotu zatrudniającego i instytucji finansowej;
+- **7)** adres do korespondencji podmiotu zatrudniającego i instytucji finansowej.
 
 **Art. 74.**
 
@@ -1342,6 +1371,9 @@ Art. 112–132. (pominięte)
 - **2)** subfunduszem zdefiniowanej daty wydzielonym w funduszu inwestycyjnym z wydzielonymi subfunduszami, którego organem jest to samo towarzystwo funduszy inwestycyjnych.
 
 **Art. 89.** Przekształcenie funduszu zdefiniowanej daty będącego funduszem inwestycyjnym może polegać wyłącznie na:
+
+- **1)** przekształceniu funduszy zdefiniowanej daty w jeden specjalistyczny fundusz inwestycyjny otwarty z wydzielonymi subfunduszami, będącymi subfunduszami zdefiniowanej daty;
+- **2)** przekształceniu funduszu zdefiniowanej daty w nowy subfundusz zdefiniowanej daty istniejącego specjalistycznego funduszu inwestycyjnego otwartego z wydzielonymi subfunduszami.
 
 **Art. 90.**
 
@@ -1589,6 +1621,11 @@ Art. 112–132. (pominięte)
 
 **Art. 107.** Kto, jako podmiot zatrudniający albo osoba obowiązana do działania w imieniu podmiotu zatrudniającego:
 
+- **1)** nie dopełnia obowiązku zawarcia w imieniu i na rzecz osoby zatrudnionej umowy o prowadzenie PPK w przewidzianym terminie,
+- **2)** nie dopełnia obowiązku dokonywania wpłat do PPK w przewidzianym przepisami terminie,
+- **3)** nie zgłasza wymaganych ustawą danych lub zgłasza nieprawdziwe dane albo udziela w tych sprawach nieprawdziwych wyjaśnień lub odmawia ich udzielenia,
+- **4)** nie prowadzi dokumentacji związanej z obliczaniem wpłat do PPK – podlega karze grzywny w wysokości od 1000 zł do 1 000 000 zł.
+
 **Art. 108.** Kto, jako podmiot zatrudniający albo osoba upoważniona do działania w imieniu podmiotu zatrudniającego lub działająca z inicjatywy tego podmiotu, nakłania osobę zatrudnioną lub uczestnika PPK do rezygnacji z oszczędzania w PPK, podlega karze grzywny w wysokości do 1,5 % funduszu wynagrodzeń u danego podmiotu zatrudniającego w roku obrotowym poprzedzającym popełnienie czynu zabronionego.
 
 **Art. 109.**
@@ -1682,4 +1719,10 @@ Art. 112–132. (pominięte)
 2. Pierwszego przeglądu funkcjonowania PPK po wejściu w życie ustawy i przedłożenia Sejmowi informacji o skutkach jej obowiązywania wraz z ewentualnymi propozycjami zmian Rada Ministrów dokona niepóźniej niż do dnia 31 grudnia 2022 r.
 
 **Art. 144.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem:
+
+- **1)** art. 124 pkt 4 lit. b, który wchodzi w życie z dniem 1 stycznia 2021 r.;
+- **2)** art. 49 ust. 5 i 6, który wchodzi w życie z dniem 30 czerwca 2021 r.;
+- **3)** art. 77 ust. 3 pkt 4, który wchodzi w życie z dniem 1 stycznia 2022 r.;
+- **4)** art. 23 ust. 5 i 6, który wchodzi w życie z dniem 1 stycznia 2023 r.
+
 

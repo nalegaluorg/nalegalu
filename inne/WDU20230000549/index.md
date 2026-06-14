@@ -8,10 +8,10 @@ pos: 549
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 549 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 7 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/549/text.pdf) |
 
-Poz. 549 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 7 marca 2023 r.
-w sprawie udzielania pomocy publicznej na kulturę i ochronę dziedzictwa kulturowego w ramach programu Fundusze Europejskie na Infrastrukturę, Klimat i Środowisko 2021–2027 Na podstawie art. 30 ust. 4 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy publicznej na kulturę i ochronę dziedzictwa kulturowego w ramach programu Fundusze Europejskie na Infrastrukturę, Klimat i Środowisko 2021–2027, zwanego dalej „programem”, a także podmiot udzielający tej pomocy.
+w sprawie udzielania pomocy publicznej na kulturę i ochronę dziedzictwa kulturowego w ramach programu Fundusze Europejskie na Infrastrukturę, Klimat i Środowisko 2021–2027 Na podstawie art. 30 ust. 4 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy publicznej na kulturę i ochronę dziedzictwa kulturowego w ramach programu Fundusze Europejskie na Infrastrukturę, Klimat i Środowisko 2021–2027, zwanego dalej „programem”, a także podmiot udzielający tej pomocy.
 § 2. Pomoc publiczna jest udzielana przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „ministrem”, na projekty realizowane w ramach programu, spełniające warunki określone w art. 53 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
 § 3. Pomoc publiczna może być udzielana podmiotom określonym w programie, o ile są one przedsiębiorstwami w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014.
 § 4. 1. Pomoc publiczna jest udzielana w formie bezzwrotnego dofinansowania przeznaczonego na pokrycie kosztów kwalifikowalnych projektu, o których mowa w § 8.
@@ -36,7 +36,6 @@ w sprawie udzielania pomocy publicznej na kulturę i ochronę dziedzictwa kultur
 2. Wniosek zawiera:
 1) informacje określone w regulaminie wyboru projektów, niezbędne do dokonania oceny wniosku;
 2) informacje określone w art. 6 ust. 2 zdanie drugie rozporządzenia Komisji (UE) nr 651/2014.
-Dziennik Ustaw – 2 – Poz. 549
 3. Podmiot ubiegający się o pomoc publiczną załącza do wniosku dokumenty wymagane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
 § 6. Pomoc publiczna może być udzielona pod warunkiem, że podmiot ubiegający się o pomoc publiczną w okresie, w którym będzie rozliczana udzielona pomoc publiczna, jednak nie krócej niż przez 10 lat od dnia zawarcia umowy o dofinansowanie, zagwarantuje zgodność realizacji projektu z przepisami o pomocy publicznej oraz przechowywanie dokumentacji niezbędnej do ustalenia tej zgodności.
 § 7. 1. Pomocy publicznej nie udziela się na rzecz podmiotu, na którym ciąży obowiązek zwrotu pomocy, o którym mowa w art. 1 ust. 4 lit. a rozporządzenia Komisji (UE) nr 651/2014, ani podmiotu znajdującego się w trudnej sytuacji, o którym mowa w art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014.

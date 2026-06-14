@@ -8,10 +8,10 @@ pos: 1550
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 grudnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1550 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 9 grudnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1550/text.pdf) |
 
-Poz. 1550 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 9 grudnia 2013 r.
-w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy wykonującego działalność gospodarczą w zakresie usług ochrony osób i mienia Na podstawie art. 21a ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy wykonującego działalność gospodarczą w zakresie usług ochrony osób i mienia za szkody wyrządzone w związku z ochroną osób i mienia, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia OC oraz minimalną sumę gwarancyjną tego ubezpieczenia.
+w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy wykonującego działalność gospodarczą w zakresie usług ochrony osób i mienia Na podstawie art. 21a ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy wykonującego działalność gospodarczą w zakresie usług ochrony osób i mienia za szkody wyrządzone w związku z ochroną osób i mienia, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia OC oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2. 1. Ubezpieczeniem OC jest objęta odpowiedzialność cywilna przedsiębiorcy wykonującego działalność gospodarczą w zakresie usług ochrony osób i mienia za szkody wyrządzone działaniem lub zaniechaniem ubezpieczonego w okresie ubezpieczenia, w związku z ochroną osób i mienia.
 2. Ubezpieczenie OC nie obejmuje szkód:
 1) wyrządzonych działaniem lub zaniechaniem ubezpieczonego po cofnięciu koncesji, o której mowa w art. 15 ust. 1 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia;

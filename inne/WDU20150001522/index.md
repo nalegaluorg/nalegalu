@@ -8,10 +8,10 @@ pos: 1522
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 października 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1522 Regulamin geneRalnY Światowego Związku Pocztowego wraz z załącznikiem – Regulaminem wewnętrznym Kongresów, Światowa Konwencja Pocztowa wraz z Protokołem końcowym, Porozumienie dotyczące pocztowych usług płatniczych, sporządzone w Dausze dnia 11 października 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001522) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1522/text.pdf) |
 
-Regulamin geneRalnY Światowego Związku Pocztowego wraz z załącznikiem Regulaminem wewnętrznym Kongresów, Światowa Konwencja Pocztowa wraz z Protokołem końcowym, Porozumienie dotyczące pocztowych usług płatniczych, sporządzone w Dausze dnia 11 października 2012 r.
-W imieniu Rzeczypospolitej Polskiej PRezyDent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 11 października 2012 r. w Dausze zostały sporządzone: Regulamin Generalny Światowego związku Pocztowego wraz z załącznikiem Regulaminem wewnętrznym kongresów, Światowa konwencja Pocztowa wraz z Protokołem końcowym, Porozumienie dotyczące pocztowych usług płatniczych.
-Po zaznajomieniu się z powyższymi umowami, w imieniu Rzeczypospolitej Polskiej oświadczam, że: zostały one uznane za słuszne zarówno w całości, jak i każde z postanowień w nich zawartych, są przyjęte, ratyfikowane i potwierdzone, będą niezmiennie zachowywane.
+W imieniu Rzeczypospolitej Polskiej PRezyDent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 11 października 2012 r. w Dausze zostały sporządzone: – Regulamin Generalny Światowego związku Pocztowego wraz z załącznikiem – Regulaminem wewnętrznym kongresów, – Światowa konwencja Pocztowa wraz z Protokołem końcowym, – Porozumienie dotyczące pocztowych usług płatniczych.
+Po zaznajomieniu się z powyższymi umowami, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – zostały one uznane za słuszne zarówno w całości, jak i każde z postanowień w nich zawartych, – są przyjęte, ratyfikowane i potwierdzone, – będą niezmiennie zachowywane.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 15 grudnia 2014 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.

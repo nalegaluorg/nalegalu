@@ -8,10 +8,10 @@ pos: 873
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 kwietnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 873 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 20 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/873/text.pdf) |
 
-ROZPORZĄDZENIE RADY MINISTRÓW z dnia 20 kwietnia 2022 r.
-w sprawie trybu udzielania obywatelom polskim zgody na służbę w obcym wojsku lub obcej organizacji wojskowej Na podstawie art. 670 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie trybu udzielania obywatelom polskim zgody na służbę w obcym wojsku lub obcej organizacji wojskowej Na podstawie art. 670 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb udzielania obywatelom polskim zgody na służbę w obcym wojsku lub obcej organizacji wojskowej;
 2) wzór wniosku o udzielenie zgody na służbę w obcym wojsku lub obcej organizacji wojskowej.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) służbie należy przez to rozumieć służbę w obcym wojsku lub obcej organizacji wojskowej;
-2) decyzji należy przez to rozumieć decyzję o udzieleniu zgody na służbę albo decyzję o odmowie jej udzielenia, o której mowa w art. 668 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zwanej dalej „ustawą”.
+1) służbie – należy przez to rozumieć służbę w obcym wojsku lub obcej organizacji wojskowej;
+2) decyzji – należy przez to rozumieć decyzję o udzieleniu zgody na służbę albo decyzję o odmowie jej udzielenia, o której mowa w art. 668 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zwanej dalej „ustawą”.
 § 3. 1. Minister Obrony Narodowej przed wydaniem decyzji:
 1) uzyskuje informacje, o których mowa w art. 666 i art. 667 ust. 1 pkt 3 i 4, ust. 2 pkt 1–5 ustawy, zgromadzone w ewidencji wojskowej od właściwego szefa wojskowego centrum rekrutacji;
 2) zasięga opinii, o której mowa w art. 668 ust. 1 ustawy, od ministra właściwego do spraw wewnętrznych i ministra właściwego do spraw zagranicznych lub organów przez nich upoważnionych.
@@ -43,8 +43,8 @@ w sprawie trybu udzielania obywatelom polskim zgody na służbę w obcym wojsku 
 2. Minister Obrony Narodowej po otrzymaniu zawiadomienia przekazuje niezwłocznie informacje w nim zawarte właściwemu szefowi wojskowego centrum rekrutacji.
 § 5. Wzór wniosku o udzielenie zgody na służbę w obcym wojsku lub obcej organizacji wojskowej jest określony w załączniku do rozporządzenia.
 § 6. Rozporządzenie wchodzi w życie z dniem 23 kwietnia 2022 r.
-Prezes Rady Ministrów: M. Morawiecki WZÓR z dnia 20 kwietnia 2022 r.
-(poz. ) WZÓR WNIOSEK O UDZIELENIE ZGODY NA SŁUŻBĘ W OBCYM WOJSKU LUB OBCEJ ORGANIZACJI WOJSKOWEJ ……………………………………….
+Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia Rady Ministrów z dnia 20 kwietnia 2022 r.
+(poz. ) WZÓR WZÓR WNIOSEK O UDZIELENIE ZGODY NA SŁUŻBĘ W OBCYM WOJSKU LUB OBCEJ ORGANIZACJI WOJSKOWEJ ……………………………………….
 ..................................................................................................................................
 ....................................................................
 ....................................................................

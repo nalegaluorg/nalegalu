@@ -31,6 +31,10 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa reguluje zasady gospodarowania mieniem Skarbu Państwa w odniesieniu do:
 
+- **1)** nieruchomości rolnych w rozumieniu Kodeksu cywilnego, z wyłączeniem gruntów znajdujących się w zarządzie Lasów Państwowych i parków narodowych;
+- **2)** innych nieruchomości i składników mienia pozostałych po likwidacji państwowych przedsiębiorstw gospodarki rolnej oraz ich zjednoczeń i zrzeszeń;
+- **3)** lasów niewydzielonych geodezyjnie z nieruchomości, określonych w pkt 1 i 2.
+
 **Art. 2.**
 
 1. Zasady gospodarowania obejmują mienie, o którym mowa w art. 1, znajdujące się:
@@ -43,6 +47,18 @@ source: "isap-pdf"
 2. Zasady gospodarowania obejmują także nieruchomości rolne przejmowane na własność Skarbu Państwa na podstawie decyzji administracyjnych lub z innych tytułów.
 
 **Art. 2a.** Ilekroć w ustawie jest mowa o:
+
+- **1)** gospodarstwie rodzinnym – należy przez to rozumieć gospodarstwo rodzinne w rozumieniu art. 5 ust. 1 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2024 r. poz. 423 oraz z 2025 r. poz. 620);
+- **2)** Krajowym Ośrodku – należy przez to rozumieć Krajowy Ośrodek Wsparcia Rolnictwa;
+- **3)** Lasach Państwowych – należy przez to rozumieć Państwowe Gospodarstwo Leśne Lasy Państwowe;
+- **4)** osobie bliskiej – należy przez to rozumieć osobę bliską w rozumieniu art. 2 pkt 6 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego;
+- **5)** osobie posiadającej kwalifikacje rolnicze – należy przez to rozumieć osobę fizyczną posiadającą kwalifikacje rolnicze w rozumieniu art. 6 ust. 2 pkt 2 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego;
+- **6)** osobistym prowadzeniu gospodarstwa rolnego – należy przez to rozumieć osobiste prowadzenie gospodarstwa rolnego w rozumieniu art. 6 ust. 2 pkt 1 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego;
+- **7)** państwowych przedsiębiorstwach gospodarki rolnej – należy przez to rozumieć przedsiębiorstwa państwowe:
+    - **a)** których podstawowym przedmiotem działalności, zgodnie z aktem o utworzeniu, jest produkcja roślinna i zwierzęca, w tym również produkcja materiału siewnego, szkółkarskiego, hodowlanego oraz reprodukcyjnego, produkcja warzywnicza gruntowa, szklarniowa i pod folią, produkcja roślin ozdobnych, grzybów uprawnych i sadownicza, hodowla i produkcja materiału zarodowego zwierząt, ptactwa i owadów użytkowych, produkcja zwierzęca typu przemysłowego, fermowego oraz chów i hodowla ryb, a także świadczenie usług w zakresie rozrodu koni,
+    - **b)** utworzone po dniu 31 grudnia 1989 r. w wyniku podziału przedsiębiorstw państwowych, określonych w lit. a, jeżeli na podstawie wydanej przez Główny Urząd Statystyczny klasyfikacji rodzaju działalności zaliczone zostały do przedsiębiorstw prowadzących działalność w dziale rolnictwo;
+
+- **8)** rolniku indywidualnym – należy przez to rozumieć rolnika indywidualnego w rozumieniu art. 6 ust. 1 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego.
 
 **Art. 2b.** (uchylony)
 
@@ -319,6 +335,10 @@ source: "isap-pdf"
 **Art. 23b.** (uchylony)
 
 **Art. 23c.** W roku 2022 kwoty 500 mln zł z nadwyżki środków finansowych Zasobu, ustalonej na dzień 31 grudnia 2021 r., pozostającej po uregulowaniu zobowiązań Zasobu przez Krajowy Ośrodek, nie wpłaca się do budżetu państwa i przeznacza się na zadania wynikające z:
+
+- **1)** art. 24 ust. 10 w zakresie udzielania pożyczek na zakup środków do produkcji rolnej, w tym nawozów i środków ochrony roślin, lub na skup, przechowywanie lub przetwarzanie produktów rolnych;
+- **2)** art. 32a ust. 1 w zakresie obejmowania lub nabywania akcji lub udziałów w spółkach handlowych oraz nabywania nieruchomości lub ich części oraz przedsiębiorstw lub zorganizowanych części przedsiębiorstw w rozumieniu Kodeksu cywilnego, na własność Skarbu Państwa;
+- **3)** art. 4b ust. 1 i 2 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego w zakresie nabywania na własność Skarbu Państwa nieruchomości rolnych w celu poprawy struktury obszarowej gospodarstw rolnych, a także obejmowania i nabywania na własność Skarbu Państwa akcji i udziałów w spółkach handlowych, jeżeli wymaga tego realizacja zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej oraz rozwoju obszarów wiejskich.
 
 **Art. 23d.** W roku 2023 kwoty 445 mln zł z nadwyżki środków finansowych Zasobu, ustalonej na dzień 31 grudnia 2022 r., pozostającej po uregulowaniu zobowiązań Zasobu przez Krajowy Ośrodek, nie wpłaca się do budżetu państwa i przeznacza się na zadania wynikające z art. 24 ust. 10 w zakresie udzielania pożyczek na zakup środków do produkcji rolnej, w tym nawozów i środków ochrony roślin, lub na skup, przechowywanie lub przetwarzanie produktów rolnych.
 
@@ -784,6 +804,10 @@ source: "isap-pdf"
 
 **Art. 32.** Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy tryb sprzedaży nieruchomości Zasobu i ich części składowych, w tym tryb sprzedaży nieruchomości na rzecz użytkowników wieczystych, na rzecz osób uprawnionych do pierwszeństwa nabycia, o którym mowa w art. 29 ust. 1, a także sposób przeprowadzania publicznych przetargów ustnych (licytacji) i przetargów ofert, w tym ograniczonych do osób, o których mowa w art. 29 ust. 3, obejmujący wymagania dotyczące wadium,
+- **2)** szczegółowe warunki obniżania ceny sprzedaży nieruchomości wpisanej do rejestru zabytków,
+- **3)** stawki szacunkowe, o których mowa w art. 30 ust. 2, z uwzględnieniem rodzaju gruntu, jego klasy oraz okręgu podatkowego – mając na względzie zapewnienie prawidłowej sprzedaży nieruchomości Zasobu.
+
 **Art. 32a.**
 
 1. Krajowy Ośrodek, za zgodą ministra właściwego do spraw rozwoju wsi wydaną na uzasadniony wniosek Dyrektora Generalnego Krajowego Ośrodka, może:
@@ -1047,6 +1071,9 @@ source: "isap-pdf"
 2. W przypadku stosowania dotacji państwa do budynków i lokali spółdzielczych, lokale, o których mowa w ust. 1, traktuje się na równi ze spółdzielczymi zasobami mieszkaniowymi.
 
 **Art. 45.** Do należności z tytułu sprzedaży mienia, o którym mowa w art. 42, stosuje się art. 31 oraz przepisy wydane na jego podstawie, z tym że:
+
+- **1)** należność wraz z oprocentowaniem podlega na wniosek nabywcy umorzeniu, jeżeli termin jej płatności przypada w okresie, w którym nabywca ma ustalone przez właściwy organ prawo do świadczeń z pomocy społecznej;
+- **2)** oprocentowanie odroczonej lub rozłożonej na raty należności nie może być niższe w stosunku rocznym niż 1,5 %.
 
 **Art. 46.**
 

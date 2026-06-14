@@ -8,7 +8,7 @@ pos: 628
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu nowej nazwy Akademii Muzycznej im. Fryderyka Chopina w Warszawie

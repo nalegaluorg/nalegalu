@@ -8,7 +8,7 @@ pos: 728
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Wyższej Szkole Pedagogicznej w Krakowie nazwy „Akademia Pedagogiczna im. Komisji Edukacji Narodowej w Krakowie”

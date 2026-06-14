@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym*
 
 Łącznie: **56** orzeczeń
-(pominięto 69 orzeczeń sądów rejonowych)
+(pominięto 78 orzeczeń sądów rejonowych)
 
 ## art. 1 (4)
 

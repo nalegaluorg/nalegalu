@@ -8,7 +8,7 @@ pos: 1612
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 136/9/A/2013 WYROK z dnia 10 grudnia 2013 r.

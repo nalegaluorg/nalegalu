@@ -8,7 +8,7 @@ pos: 2017
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zastawie rejestrowym i rejestrze zastawów
@@ -145,6 +145,9 @@ Art. 45–49. (pominięte)
 2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, tryb dokonywania adnotacji, o której mowa w ust. 1.
 
 **Art. 13.** Zbycie przedmiotu zastawu rejestrowego powoduje wygaśnięcie tego zastawu, jeżeli:
+
+- **1)** nabywca nie wiedział i przy zachowaniu należytej staranności nie mógł wiedzieć o istnieniu zastawu rejestrowego w chwili wydania mu rzeczy lub przejścia na niego prawa obciążonego zastawem rejestrowym albo
+- **2)** rzecz obciążoną zastawem rejestrowym zalicza się do rzeczy zbywanych zwykle w zakresie działalności gospodarczej zastawcy i rzecz ta została wydana nabywcy, chyba że nabywca nabył rzecz w celu pokrzywdzenia zastawnika.
 
 **Art. 14.**
 
@@ -367,6 +370,11 @@ Art. 45–49. (pominięte)
 7. (uchylony)
 
 **Art. 43.** Minister Sprawiedliwości określa:
+
+- **1)** w drodze rozporządzenia, szczegółową organizację i sposób prowadzenia rejestru zastawów;
+- **2)** w drodze rozporządzenia, ustrój i organizację centralnej informacji o zastawach rejestrowych oraz szczegółowe zasady udzielania informacji oraz wydawania odpisów i zaświadczeń;
+- **3)** w porozumieniu z Ministrem Finansów , w drodze rozporządzenia, wysokość opłat za udzielanie informacji oraz wydawanie odpisów i zaświadczeń przez centralną informację o zastawach rejestrowych;
+- **4)** w drodze zarządzenia, sposób i tryb przekazywania przez sądy danych do centralnej informacji o zastawach rejestrowych.
 
 **Art. 43a.** Minister Sprawiedliwości określi, w drodze rozporządzenia, warunki organizacyjno-techniczne dotyczące formy wniosków i dokumentów oraz ich składania do sądów prowadzących rejestr zastawów i do centralnej informacji o zastawach rejestrowych za pośrednictwem systemu teleinformatycznego, a także orzeczeń, odpisów, zaświadczeń i informacji doręczanych wnioskodawcom przez sądy oraz centralną informację za pośrednictwem systemu teleinformatycznego, kierując się potrzebą ułatwienia i upowszechnienia dostępu do rejestru zastawów.
 

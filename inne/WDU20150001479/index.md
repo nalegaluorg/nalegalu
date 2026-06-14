@@ -8,7 +8,7 @@ pos: 1479
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
@@ -28,6 +28,83 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001479) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1479/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: UE Polskie wydanie specjalne, rozdz. 9, t. 1, str. 249, z późn. zm.);”, – pkt 18 otrzymuje brzmienie: „18) faktura – fakturę w rozumieniu przepisów o podatku od towarów i usług zawierającą dane nabywcy i jego adres oraz dane dotyczące ilości (liczby) i miary nabywanych wyrobów akcyzowych lub samochodów osobowych;”, – po pkt 18 dodaje się pkt 18a w brzmieniu: „18a) dokument dostawy – dokument, na podstawie którego przemieszcza się na terytorium kraju wyroby akcyzowe objęte zwolnieniem od akcyzy ze względu na ich przeznaczenie lub wyroby akcyzowe wymienione w załączniku nr 2 do ustawy, opodatkowane zerową stawką akcyzy ze względu na ich przeznaczenie;”, – w pkt 20 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d i e w brzmieniu: „d) wyrobów akcyzowych niewymienionych w załączniku nr 2 do ustawy, opodatkowanych stawką akcyzy inną niż stawka zerowa, powstałe podczas stosowania procedury zawieszenia poboru akcyzy, z wyłączeniem strat powstałych podczas produkcji, zm. ) lub przedsiębiorca zagraniczny, który wyznaczył podmiot reprezentujący go na terytorium kraju, prowadzący działalność gospodarczą w zakresie suszu tytoniowego, który został wpisany do rejestru pośredniczących podmiotów tytoniowych;”, – po pkt 30 dodaje się pkt 30a w brzmieniu: „30a) alternatywny dowód zakończenia procedury zawieszenia poboru akcyzy – wydane przez właściwe organy podatkowe na terytorium kraju lub przez właściwe organy państwa członkowskiego potwierdzenie, że wysłane z zastosowaniem procedury zawieszenia poboru akcyzy wyroby akcyzowe zostały odebrane przez odbiorcę albo że zostały wyprowadzone poza terytorium Unii Europejskiej, zawierające w szczególności określenie rodzaju, ilości oraz kodów Nomenklatury Scalonej (CN) tych wyrobów, datę ich odbioru lub wyprowadzenia poza terytorium Unii Europejskiej, a także dane identyfikacyjne podmiotu, który wyroby te odebrał, albo oznaczenie urzędu celnego, który nadzorował ich wyprowadzenie poza terytorium Unii Europejskiej, wraz z danymi identyfikacyjnymi podmiotu, który dokonał ich eksportu;”,
+    - **a)** w ust. 1: – w pkt 3 w lit. a tiret drugie otrzymuje brzmienie: „– francuskich terytoriów, o których mowa w art. 349 i art. 355 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, z zastrzeżeniem ust. 3,”, – pkt 16 otrzymuje brzmienie: „16) uproszczony dokument towarzyszący – dokument, na podstawie którego przemieszcza się, w ramach dostawy wewnątrzwspólnotowej lub nabycia wewnątrzwspólnotowego, wyroby akcyzowe wymienione w załączniku nr 2 do ustawy, znajdujące się poza procedurą zawieszenia poboru akcyzy, oraz alkohol etylowy całkowicie skażony środkami dopuszczonymi do skażania alkoholu etylowego na podstawie rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r. w sprawie wzajemnego uznawania procedur całkowitego skażania alkoholu etylowego do celów zwolnienia z podatku akcyzowego (Dz. Urz. WE L 288 z 23.11.1993, str. 12, z późn. zm.; Dz. Urz.
+    - **e)** wyrobów akcyzowych określonych w załączniku nr 2 do ustawy, opodatkowanych zerową stawką akcyzy ze względu na ich przeznaczenie, powstałe podczas: – stosowania procedury zawieszenia poboru akcyzy, z wyłączeniem strat powstałych podczas produkcji, – przemieszczania poza procedurą zawieszenia poboru akcyzy, na podstawie dokumentu dostawy;”, – pkt 23b otrzymuje brzmienie: „23b) pośredniczący podmiot tytoniowy – podmiot posiadający miejsce zamieszkania lub siedzibę na terytorium kraju, przedsiębiorca zagraniczny posiadający oddział z siedzibą na terytorium kraju, utworzony na warunkach i zasadach określonych w ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn.
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. W przypadku gdy zgodnie z art. 5 ust. 5 dyrektywy Rady 2008/118/WE z dnia 16 grudnia 2008 r. w sprawie ogólnych zasad dotyczących podatku akcyzowego, uchylającej dyrektywę 92/12/EWG (Dz. Urz. UE L 9 z 14.01.2009, str. 12, z późn. zm.) Republika Francuska złoży oświadczenie, że dyrektywa ta będzie miała zastosowanie we francuskich terytoriach, o których mowa w art. 349 i art. 355 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, terytoria te będą uznawane za terytorium państwa członkowskiego.
+
+4. Minister właściwy do spraw finansów publicznych ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Ministra Finansów, datę, od której Wyspy Kanaryjskie oraz francuskie terytoria, o których mowa w art. 349 i art. 355 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, będą uznawane za terytorium państwa członkowskiego.”;
+
+- **2)** w art. 7c w ust. 2 pkt 1 otrzymuje brzmienie: „1) alkoholu etylowego, z wyłączeniem przypadków gdy procedurą wywozu jest obejmowany alkohol etylowy zawarty w kosmetykach objętych pozycjami CN 3304, 3305, 3306 i 3307, perfumach i wodach toaletowych objętych pozycją CN 3303, olejkach eterycznych objętych pozycją CN 3301 i mieszaninach substancji zapachowych objętych pozycją CN 3302;”;
+- **3)** w art. 9b:
+    - **a)** w ust. 1: – pkt 1–3 otrzymują brzmienie: „1) nabycie wewnątrzwspólnotowe suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, lub pośredniczący podmiot tytoniowy;
+
+- **2)** sprzedaż suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, lub pośredniczący podmiot tytoniowy, z wyłączeniem sprzedaży przez podmiot, który jednocześnie z tą sprzedażą dokonuje dostawy wewnątrzwspólnotowej lub eksportu suszu tytoniowego;
+- **3)** import suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, lub pośredniczący podmiot tytoniowy;”, – pkt 6 otrzymuje brzmienie: „6) nabycie lub posiadanie suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, pośredniczący podmiot tytoniowy lub rolnika, który wyprodukował susz tytoniowy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał jego sprzedaży.”, o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. Nr 88, poz. 983, z późn. zm. ), zwanej dalej „grupą producentów”, oraz nabycie lub posiadanie suszu tytoniowego przez grupę producentów nie podlega opodatkowaniu akcyzą pod warunkiem:
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Sprzedaż suszu tytoniowego grupie producentów suszu tytoniowego utworzonej na podstawie ustawy z dnia 15 września 2000 r.
+
+- **1)** posiadania przez grupę producentów statusu podatnika podatku od towarów i usług;
+- **2)** zrzeszania przez grupę producentów wyłącznie producentów suszu tytoniowego;
+- **3)** nabywania przez grupę producentów suszu tytoniowego wyłącznie od zrzeszonych w niej członków i wyłącznie na podstawie umowy dostawy;
+- **4)** niekaralności osób, które zgodnie z aktem założycielskim są upoważnione do reprezentowania grupy producentów, za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. W sytuacji, o której mowa w ust. 4, sprzedawca suszu tytoniowego może zażądać od nabywcy przedstawienia zezwolenia na prowadzenie składu podatkowego albo decyzji o dokonaniu wpisu do rejestru, o której mowa w art. 20a ust. 4, a w razie odmowy ich przedstawienia przez nabywcę może odmówić sprzedaży suszu tytoniowego po cenie nieuwzględniającej akcyzy.”;
+
+- **4)** w art. 10:
+    - **a)** ust. 4 otrzymuje brzmienie: „4. Obowiązek podatkowy z tytułu nabycia wewnątrzwspólnotowego wyrobów akcyzowych znajdujących się poza procedurą zawieszenia poboru akcyzy, dokonanego na potrzeby wykonywanej przez podatnika działalności gospodarczej na terytorium kraju, powstaje z dniem otrzymania wyrobów akcyzowych przez podatnika, nie później jednak niż w 7. dniu, licząc od dnia dokonania wysyłki określonej w uproszczonym dokumencie towarzyszącym lub od dnia wystawienia dokumentu handlowego, w przypadku gdy wyroby akcyzowe przemieszczane są na podstawie dokumentu handlowego.”,
+    - **b)** ust. 7 otrzymuje brzmienie: „7. Obowiązek podatkowy z tytułu nabycia wewnątrzwspólnotowego wyrobów akcyzowych znajdujących się poza procedurą zawieszenia poboru akcyzy, dokonanego za pośrednictwem przedstawiciela podatkowego, o którym mowa w art. 79 ust. 1, powstaje z dniem odbioru dostarczonych wyrobów akcyzowych przez odbiorcę na terytorium kraju.”,
+    - **c)** dodaje się ust. 12 i 13 w brzmieniu: „12. Na żądanie nabywcy podatnik akcyzy wykazuje w fakturze lub oświadczeniu załączanym do faktury kwotę akcyzy zawartą w cenie wyrobów akcyzowych wykazanych w tej fakturze.
+
+13. Oświadczenie, o którym mowa w ust. 12, powinno zawierać:
+
+- **1)** dane dotyczące podatnika, w tym nazwę oraz adres siedziby albo zamieszkania, a także numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON;
+- **2)** kwotę akcyzy zawartej w cenie wyrobów akcyzowych wykazanych w fakturze;
+- **3)** datę i miejsce złożenia oświadczenia;
+- **4)** czytelny podpis składającego oświadczenie.”;
+- **5)** w art. 11a pkt 4 otrzymuje brzmienie: „4) nabycia lub wejścia w posiadanie suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy, pośredniczący podmiot tytoniowy, grupę producentów lub rolnika, który wyprodukował susz tytoniowy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał sprzedaży suszu tytoniowego;”;
+- **6)** w art. 13:
+    - **a)** w ust. 1 pkt 2a otrzymuje brzmienie: „2a) będący nabywcą lub posiadaczem suszu tytoniowego niebędący podmiotem prowadzącym skład podatkowy, pośredniczącym podmiotem tytoniowym, grupą producentów lub rolnikiem, który wyprodukował susz tytoniowy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał sprzedaży suszu tytoniowego;”,
+    - **b)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku prowadzenia działalności w zakresie suszu tytoniowego przez przedsiębiorcę zagranicznego, o którym mowa w art. 20d pkt 1 lit. c, i powstania zobowiązania podatkowego w stosunku do suszu tytoniowego podatnikiem akcyzy jest podmiot reprezentujący przedsiębiorcę zagranicznego.”;
+
+- **7)** w art. 14:
+    - **a)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli czynności podlegające opodatkowaniu akcyzą są wykonywane lub stany faktyczne podlegające opodatkowaniu akcyzą występują na obszarze właściwości miejscowej dwóch lub więcej organów podatkowych, właściwość miejscową, z zastrzeżeniem ust. 4a–5, ustala się dla:”,
+    - **b)** po ust. 4 dodaje się ust. 4a–4f w brzmieniu: „4a. W przypadku gdy czynności podlegające opodatkowaniu akcyzą są wykonywane lub stany faktyczne podlegające opodatkowaniu akcyzą występują na obszarze właściwości miejscowej dwóch lub więcej organów podatkowych, organem podatkowym właściwym miejscowo, z zastrzeżeniem ust. 5–7 i 9, może być jeden z tych organów, wybrany przez podatnika i wskazany w oświadczeniu złożonym do wybranego organu podatkowego oraz organu podatkowego właściwego dla podatnika zgodnie z ust. 4.
+
+4b. W przypadku złożenia oświadczenia, o którym mowa w ust. 4a, przez podatnika po rozpoczęciu działalności, organ podatkowy wskazany w oświadczeniu jest organem właściwym miejscowo począwszy od pierwszego dnia drugiego miesiąca następującego po miesiącu, w którym zostało złożone to oświadczenie.
+
+4c. Jeżeli w okresie ostatnich 12 miesięcy, licząc od dnia wykonania na obszarze właściwości miejscowej organu podatkowego wybranego przez podatnika zgodnie z ust. 4a ostatniej czynności podlegającej opodatkowaniu akcyzą lub wystąpienia na tym obszarze ostatniego stanu faktycznego podlegającego opodatkowaniu akcyzą, podatnik ten nie wykonywał na tym obszarze takich czynności lub nie występowały w przypadku tego podatnika na tym obszarze takie stany faktyczne, podatnik jest obowiązany, w terminie 14 dni od dnia upływu tego okresu, złożyć oświadczenie o niewykonywaniu na tym obszarze takich czynności lub o niewystępowaniu na tym obszarze takich stanów faktycznych. Oświadczenie składa się do organu podatkowego wybranego zgodnie z ust. 4a oraz organu podatkowego właściwego dla podatnika zgodnie z ust. 4.
+
+4d. W przypadku złożenia oświadczenia, o którym mowa w ust. 4c, właściwość miejscową ustala się ponownie zgodnie z ust. 3, 4 albo 4a. Przepis ust. 4b stosuje się odpowiednio.
+
+4e. Organ podatkowy wybrany przez podatnika zgodnie z ust. 4a, do którego w okresie ostatnich 12 miesięcy, licząc od dnia złożenia przez tego podatnika oświadczenia, o którym mowa w ust. 4a, lub od dnia złożenia przez niego do tego organu po raz ostatni deklaracji podatkowej, informacji lub innego dokumentu, których obowiązek złożenia wynika z ustawy, nie zostały przez tego podatnika złożone deklaracje podatkowe, informacje lub inne dokumenty, których obowiązek złożenia wynika z ustawy, ani oświadczenie, o którym mowa w ust. 4c, wzywa tego podatnika do złożenia, w terminie 14 dni od dnia otrzymania wezwania:
+
+- **1)** informacji o wykonanych w tym okresie na obszarze właściwości miejscowej tego organu podatkowego czynnościach podlegających opodatkowaniu akcyzą lub o wystąpieniu w tym okresie na tym obszarze stanów faktycznych podlegających opodatkowaniu akcyzą albo
+- **2)** oświadczenia o niewykonywaniu w tym okresie na obszarze właściwości miejscowej tego organu podatkowego czynności podlegających opodatkowaniu akcyzą lub o niewystępowaniu w tym okresie na tym obszarze stanów faktycznych podlegających opodatkowaniu akcyzą.
+
+4f. W przypadku niezłożenia informacji albo oświadczenia, o których mowa w ust. 4e, albo złożenia przez podatnika oświadczenia, o którym mowa w ust. 4e pkt 2, właściwość miejscową ustala się zgodnie z ust. 3 albo 4 począwszy od pierwszego dnia drugiego miesiąca następującego po miesiącu, w którym upłynął termin do złożenia tej informacji albo tego oświadczenia albo w którym złożono oświadczenie, o którym mowa w ust. 4e pkt 2. Właściwość ustalona zgodnie z ust. 3 albo 4 może zostać ponownie ustalona na podstawie ust. 4a. Przepis ust. 4b stosuje się odpowiednio.”,
+
+- **c)** po ust. 5b dodaje się ust. 5c w brzmieniu: „5c. Na wniosek podatnika zwolnienie zabezpieczenia generalnego z obciążenia na skutek zapłaty zobowiązania podatkowego lub zapłaty opłaty paliwowej może odnotować inny niż określony w ust. 5b naczelnik urzędu celnego, pod warunkiem że posiada on informację, że zobowiązanie podatkowe lub opłata paliwowa zostały zapłacone, lub podatnik przedstawi mu dokumenty potwierdzające dokonanie tej zapłaty.”,
+- **d)** ust. 6 otrzymuje brzmienie: „6. W przypadkach, o których mowa w ust. 4–4f, na wniosek właściwego naczelnika urzędu celnego lub właściwego dyrektora izby celnej, określone we wniosku czynności: sprawdzające, kontroli podatkowej lub postępowania podatkowego wykonuje odpowiednio naczelnik urzędu celnego lub dyrektor izby celnej, na którego obszarze właściwości miejscowej są wykonywane czynności podlegające opodatkowaniu akcyzą lub występują stany faktyczne podlegające opodatkowaniu akcyzą.”,
+- **e)** dodaje się ust. 13 w brzmieniu: „13. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz dokumentów potwierdzających dokonanie zapłaty zobowiązania podatkowego i opłaty paliwowej, o których mowa w ust. 5c, uwzględniając konieczność zapewnienia właściwego stosowania zabezpieczenia akcyzowego.”;
+- **8)** w art. 16:
+    - **a)** w ust. 3 dodaje się zdanie drugie w brzmieniu: „Potwierdzenie powinno zawierać dane dotyczące zarejestrowanego podmiotu i prowadzonej przez niego działalności gospodarczej w zakresie wyrobów akcyzowych, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego zamieszkania lub siedziby, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON oraz określenie rodzaju wyrobów akcyzowych, w zakresie których prowadzi on działalność gospodarczą.”,
+    - **b)** ust. 3a–4a otrzymują brzmienie: „3a. Podmiot zamierzający prowadzić działalność gospodarczą jako pośredniczący podmiot węglowy lub pośredniczący podmiot gazowy, zamiast złożenia zgłoszenia rejestracyjnego, o którym mowa w ust. 1, jest obowiązany powiadomić o tym pisemnie właściwego naczelnika urzędu celnego przed dniem rozpoczęcia tej działalności. Powiadomienie powinno zawierać dane dotyczące tego podmiotu i prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub adres jego siedziby, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON albo inny numer identyfikacyjny używany w państwie zamieszkania lub siedziby podmiotu oraz określenie rodzaju prowadzonej działalności gospodarczej.
+
+3b. Właściwy naczelnik urzędu celnego bez zbędnej zwłoki pisemnie potwierdza przyjęcie powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot węglowy lub pośredniczący podmiot gazowy. Potwierdzenie powinno zawierać dane, o których mowa w ust. 3a.
+
+3c. Minister właściwy do spraw finansów publicznych lub upoważniony przez niego organ publikuje, bez zbędnej zwłoki, na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw finansów publicznych aktualną listę pośredniczących podmiotów węglowych oraz pośredniczących podmiotów gazowych, obejmującą ich następujące dane: imię i nazwisko lub nazwę oraz adres zamieszkania, jeżeli jest on taki sam jak adres miejsca wykonywania działalności gospodarczej, lub adres siedziby, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON albo inny numer identyfikacyjny używany w państwie zamieszkania lub siedziby podmiotu oraz określenie rodzaju prowadzonej działalności gospodarczej.
+
+4. Jeżeli dane zawarte w zgłoszeniu rejestracyjnym lub powiadomieniu o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot węglowy lub pośredniczący podmiot gazowy ulegną zmianie, podmiot jest obowiązany zgłosić zmianę właściwemu naczelnikowi urzędu celnego w terminie 7 dni od dnia, w którym nastąpiła zmiana.
+
+4a. Pośredniczący podmiot węglowy oraz pośredniczący podmiot gazowy są obowiązane poinformować właściwego naczelnika urzędu celnego o zaprzestaniu prowadzenia działalności jako pośredniczący podmiot węglowy lub pośredniczący podmiot gazowy w terminie 7 dni od dnia, w którym zaprzestano prowadzenia działalności.”,
+
+- **c)** uchyla się ust. 5 i 6,
+- **d)** ust. 7 otrzymuje brzmienie: „7. Przepisy ust. 1–4a nie mają zastosowania do podmiotów prowadzących działalność z użyciem wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie, niemających na terytorium kraju siedziby, miejsca zamieszkania albo miejsca prowadzenia działalności gospodarczej.”,
+- **e)** uchyla się ust. 8;
+- **9)** uchyla się art. 16a;
+- **10)** w art. 18 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Zaświadczenie, o którym mowa w ust. 2, zawiera dane dotyczące zarejestrowanego podmiotu i prowadzonej przez niego działalności gospodarczej w zakresie wyrobów akcyzowych, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego zamieszkania lub siedziby oraz określenie rodzaju wyrobów akcyzowych, w zakresie których prowadzi on działalność gospodarczą.”;
+- **11)** w art. 19 uchyla się ust. 6;
+- **12)** w dziale II po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Rejestracja pośredniczących podmiotów tytoniowych
 
 **Art. 20a.**
 
@@ -69,6 +146,14 @@ source: "isap-pdf"
 
 **Art. 20d.** Wniosek o wpis do rejestru pośredniczących podmiotów tytoniowych powinien zawierać:
 
+- **1)** dane dotyczące podmiotu oraz prowadzonej przez ten podmiot działalności gospodarczej obejmujące:
+    - **a)** w przypadku podmiotu krajowego: imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub adres jego siedziby, miejsce i adres wykonywania działalności w zakresie suszu tytoniowego, miejsce i adres magazynowania suszu tytoniowego na terytorium kraju, numer w Krajowym Rejestrze Sądowym lub informację o wpisie w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON,
+    - **b)** w przypadku przedsiębiorcy zagranicznego posiadającego oddział z siedzibą na terytorium kraju, utworzony na warunkach i zasadach określonych w ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej: – imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub adres jego siedziby, numer identyfikacyjny używany w państwie zamieszkania lub siedziby oraz informacje o prowadzonej przez ten podmiot działalności, – nazwy oddziałów z siedzibą na terytorium kraju, w ramach których przedsiębiorca zagraniczny prowadzi działalność gospodarczą na terytorium kraju, adresy ich siedzib, numer w Krajowym Rejestrze Sądowym, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON, – miejsce i adres wykonywania działalności w zakresie suszu tytoniowego na terytorium kraju oraz miejsce i adres magazynowania suszu tytoniowego na terytorium kraju, – imiona i nazwiska osób upoważnionych do reprezentowania oddziału przedsiębiorcy zagranicznego oraz ich adresy,
+    - **c)** w przypadku przedsiębiorcy zagranicznego nieposiadającego oddziału z siedzibą na terytorium kraju utworzonego na warunkach i zasadach określonych w ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej: – imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub adres jego siedziby, numer identyfikacyjny używany w państwie zamieszkania lub siedziby oraz informacje o prowadzonej przez ten podmiot działalności, – imię i nazwisko lub nazwę podmiotu reprezentującego przedsiębiorcę zagranicznego, adres zamieszkania lub adres jego siedziby, numer w Krajowym Rejestrze Sądowym, numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON, – miejsce i adres wykonywania działalności w zakresie suszu tytoniowego na terytorium kraju oraz miejsce i adres magazynowania suszu tytoniowego na terytorium kraju,
+    - **d)** informację o rodzaju działalności gospodarczej w zakresie suszu tytoniowego, w tym wskazanie, czy podmiot zamierza susz tytoniowy: – sprzedawać na terytorium kraju, – eksportować, – dostarczać wewnątrzwspólnotowo, – nabywać wewnątrzwspólnotowo, – importować, – zużywać, – przetwarzać, wraz z informacją, na czym będzie polegało to przetwarzanie;
+
+- **2)** proponowane zabezpieczenie akcyzowe.
+
 **Art. 20e.**
 
 1. Warunkiem wpisu do rejestru pośredniczących podmiotów tytoniowych jest:
@@ -108,6 +193,9 @@ source: "isap-pdf"
 
 **Art. 20g.** Właściwy naczelnik urzędu celnego wydaje decyzję o odmowie dokonania wpisu do rejestru pośredniczących podmiotów tytoniowych w przypadku:
 
+- **1)** podania we wniosku o wpis do rejestru pośredniczących podmiotów tytoniowych nieprawdziwych danych, w szczególności dotyczących prowadzenia przez podmiot wskazanej we wniosku działalności gospodarczej pod wskazanym w nim adresem;
+- **2)** niespełnienia przez podmiot warunków dokonania wpisu do rejestru pośredniczących podmiotów tytoniowych.
+
 **Art. 20h.**
 
 1. Właściwy naczelnik urzędu celnego wydaje z urzędu decyzję o wykreśleniu pośredniczącego podmiotu tytoniowego z rejestru pośredniczących podmiotów tytoniowych w przypadku:
@@ -126,6 +214,56 @@ source: "isap-pdf"
 
 **Art. 20i.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory wniosków, o których mowa w art. 20a ust. 7 pkt 1 i 2, oraz wykaz dokumentów, które dołącza się do tych wniosków, uwzględniając potrzebę uzyskania dostatecznych informacji o podmiotach, w szczególności wpływających na określenie zabezpieczenia akcyzowego i potrzebę prawidłowego działania pośredniczącego podmiotu tytoniowego.”;
 
+- **13)** w art. 21:
+    - **a)** uchyla się ust. 4,
+    - **b)** uchyla się ust. 6;
+
+- **14)** w art. 24:
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) upłynął termin płatności określony w umowie właściwej dla rozliczeń z tytułu dostaw energii elektrycznej albo, jeżeli termin ten nie został określony w umowie – upłynął termin płatności wynikający z faktury lub innego dokumentu wystawionego przez podatnika, z którego wynika zapłata należności za sprzedaną przez podatnika energię elektryczną, a jeżeli termin płatności nie został określony w umowie ani w fakturze lub w tym dokumencie albo gdy z faktury nie wynika należność za energię elektryczną sprzedaną w tym okresie – po miesiącu, w którym wystawiono fakturę lub ten dokument – w przypadku sprzedaży energii elektrycznej nabywcy końcowemu na terytorium kraju;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Przepis ust. 1 pkt 3 nie ma zastosowania do podmiotów posiadających koncesję na wytwarzanie energii elektrycznej w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, które zużywają energię elektryczną na cele zwolnienia, o którym mowa w art. 30 ust. 6, 7 lub 7a, i nie są podatnikami z tytułu innych czynności, o których mowa w art. 9 ust. 1.”;
+
+- **15)** w art. 24b w ust. 1 pkt 2 otrzymuje brzmienie: „2) upłynął termin płatności określony w umowie właściwej dla rozliczeń z tytułu dostaw wyrobów gazowych albo, jeżeli termin ten nie został określony w umowie – upłynął termin płatności wynikający z faktury lub innego dokumentu wystawionego przez podatnika, z którego wynika zapłata należności za sprzedane przez podatnika wyroby gazowe, a jeżeli termin płatności nie został określony w umowie ani w fakturze lub w tym dokumencie albo gdy z faktury nie wynika należność za wyroby gazowe sprzedane w tym okresie – po miesiącu, w którym wystawiono fakturę lub ten dokument – w przypadku sprzedaży wyrobów gazowych finalnemu nabywcy gazowemu;”;
+- **16)** w art. 26 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory deklaracji podatkowych i deklaracji w sprawie przedpłaty akcyzy, wraz z objaśnieniami co do sposobu prawidłowego składania tych deklaracji, informacjami o terminach i miejscu ich składania oraz pouczeniem podatnika, że deklaracje podatkowe stanowią podstawę do wystawienia tytułu wykonawczego, zapewniając możliwość prawidłowego obliczenia wysokości akcyzy.”;
+- **17)** w art. 27:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku importu podatnik jest obowiązany, z zastrzeżeniem ust. 3 i 3a, do obliczenia i wykazania kwoty akcyzy, z uwzględnieniem obowiązujących stawek akcyzy:”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku gdy importowane wyroby energetyczne, bezpośrednio po dopuszczeniu do obrotu z zastosowaniem zgłoszenia uproszczonego w rozumieniu przepisów prawa celnego, są przemieszczane, z zastosowaniem procedury zawieszenia poboru akcyzy, przy użyciu rurociągu, z miejsca importu bezpośrednio do składu podatkowego na terytorium kraju:
+
+- **1)** w zgłoszeniu uproszczonym nie zamieszcza się informacji o kwocie akcyzy, która byłaby należna, gdyby wyroby akcyzowe nie zostały objęte procedurą zawieszenia poboru akcyzy;
+- **2)** zgłoszenie uzupełniające, zawierające informację o kwocie akcyzy, która byłaby należna, gdyby wyroby akcyzowe nie zostały objęte procedurą zawieszenia poboru akcyzy, przesyła się nie później niż w momencie przesłania do Systemu projektu e-AD.”;
+- **18)** w art. 30 po ust. 7 dodaje się ust. 7a–7c w brzmieniu: „7a. Zwalnia się od akcyzy energię elektryczną wykorzystywaną:
+- **1)** do celów redukcji chemicznej;
+- **2)** w procesach elektrolitycznych;
+- **3)** w procesach metalurgicznych;
+- **4)** w procesach mineralogicznych.
+
+7b. Warunkiem zwolnienia, o którym mowa w ust. 7a, jest:
+
+- **1)** wykorzystywanie energii elektrycznej przez podmiot będący podatnikiem akcyzy od tej energii;
+- **2)** przekazywanie przez podmiot wykorzystujący energię elektryczną do właściwego naczelnika urzędu celnego, do 15. dnia miesiąca następującego po miesiącu, w którym podmiot wykorzystał energię elektryczną, oświadczenia o ilości wykorzystanej energii i sposobie jej wykorzystania.
+
+7c. Oświadczenie, o którym mowa w ust. 7b pkt 2, powinno zawierać:
+
+- **1)** nazwę i adres siedziby podmiotu wykorzystującego energię elektryczną oraz jego numer identyfikacji podatkowej (NIP);
+- **2)** ilość wykorzystanej energii elektrycznej;
+- **3)** sposób wykorzystania energii elektrycznej;
+- **4)** datę i miejsce sporządzenia oświadczenia oraz czytelny podpis osoby składającej oświadczenie.”;
+- **19)** w art. 31a dodaje się ust. 8 i 9 w brzmieniu: „8. Przez zakład energochłonny wykorzystujący wyroby węglowe uznaje się także podmiot rozpoczynający działalność gospodarczą z wykorzystaniem wyrobów węglowych lub podmiot prowadzący działalność gospodarczą, który uruchamia nową instalację wykorzystującą wyroby węglowe, pod warunkiem złożenia właściwemu naczelnikowi urzędu celnego oświadczenia o planowanym osiągnięciu w pierwszym roku działalności procentowego udziału, o którym mowa w ust. 7.
+
+9. W przypadku nieosiągnięcia na koniec pierwszego roku działalności procentowego udziału, o którym mowa w ust. 7, podmiot określony w ust. 8 jest obowiązany do zapłaty w pierwszym kwartale kolejnego roku akcyzy od zużytych wyrobów węglowych, od których nie została zapłacona akcyza, wraz z odsetkami.”;
+
+- **20)** w art. 31b: Ilość wyrobów podlegających zwolnieniu określona wstępnie w umowie może zostać skorygowana, w drodze pisemnego oświadczenia nabywcy stanowiącego załącznik do tej umowy, najpóźniej do dnia wystawienia przez sprzedawcę faktury za okres rozliczeniowy, jeżeli rzeczywista ilość wyrobów gazowych podlegających zwolnieniu, zużytych w tym okresie, różni się od ilości określonej wstępnie w umowie.”,
+    - **a)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku gdy umowa, o której mowa w ust. 5, dotyczy wyrobów gazowych zwolnionych od akcyzy oraz wyrobów gazowych niepodlegających zwolnieniu, których sprzedaż jest rozliczana okresowo, w umowie określa się wstępnie ilość wyrobów podlegających zwolnieniu.
+    - **b)** po ust. 10 dodaje się ust. 10a i 10b w brzmieniu: „10a. Przez zakład energochłonny wykorzystujący wyroby gazowe uznaje się także podmiot rozpoczynający działalność gospodarczą z wykorzystaniem wyrobów gazowych lub podmiot prowadzący działalność gospodarczą, który uruchamia nową instalację wykorzystującą wyroby gazowe, pod warunkiem złożenia właściwemu naczelnikowi urzędu celnego oświadczenia o planowanym osiągnięciu w pierwszym roku działalności procentowego udziału, o którym mowa w ust. 10.
+
+10b. W przypadku nieosiągnięcia na koniec pierwszego roku działalności procentowego udziału, o którym mowa w ust. 10, podmiot określony w ust. 10a jest obowiązany do zapłaty w pierwszym kwartale kolejnego roku akcyzy od zużytych wyrobów gazowych, od których nie została zapłacona akcyza, wraz z odsetkami.”;
+
+- **21)** po art. 31b dodaje się art. 31c i art. 31d w brzmieniu: „Art. 31c. Za system prowadzący do osiągania celów dotyczących ochrony środowiska lub podwyższenia efektywności energetycznej, o którym mowa w art. 31a ust. 1 pkt 9 i art. 31b ust. 1 pkt 5, uznaje się:
+- **1)** Europejski System Handlu Emisjami zgodny z ustawą z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. poz. 1223) i przepisami wydanymi na podstawie art. 25 ust. 4 i art. 29 ust. 1 tej ustawy;
+- **2)** system EMAS, o którym mowa w ustawie z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. Nr 178, poz. 1060);
+- **3)** uzyskiwanie i umarzanie świadectw efektywności energetycznej, o których mowa w ustawie z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. Nr 94, poz. 551, z późn. zm. ), przez podmioty obowiązane na podstawie tej ustawy do uzyskania i przedstawienia do umorzenia świadectw efektywności energetycznej lub uiszczenia w zamian opłaty zastępczej;
+- **4)** system zarządzania środowiskowego potwierdzony przez niezależną i uprawnioną w tym zakresie jednostkę akredytującą certyfikatem ISO 14001:2004;
+- **5)** system zarządzania energią potwierdzony przez niezależną i uprawnioną w tym zakresie jednostkę akredytującą certyfikatem ISO 50001:2011.
+
 **Art. 31d.**
 
 1. Zakładowi energochłonnemu wykorzystującemu energię elektryczną, który łącznie spełnia następujące warunki:
@@ -136,7 +274,7 @@ source: "isap-pdf"
 
 2. Przez zakład energochłonny wykorzystujący energię elektryczną rozumie się podmiot, u którego udział kosztów wykorzystanej energii elektrycznej w wartości produkcji sprzedanej w roku podatkowym, za który składany jest wniosek, o którym mowa w ust. 5, wynosi ponad 3%. Zakład energochłonny wykorzystujący energię elektryczną nie może być mniejszy niż zorganizowana część przedsiębiorstwa rozumiana jako organizacyjnie i finansowo wyodrębniony w istniejącym przedsiębiorstwie zespół składników materialnych i niematerialnych, w tym zobowiązania, przeznaczonych do realizacji określonych zadań gospodarczych, który zarazem mógłby stanowić niezależne przedsiębiorstwo samodzielnie realizujące te zadania.
 
-3. Kwotę zwrotu części zapłaconej akcyzy, o której mowa w ust. 1, zwanej dalej „kwotą zwracanej częściowo akcyzy”, oblicza się według następującego wzoru: 𝐾%−3% 𝑍 = 𝐾% w którym poszczególne symbole ×(20−0,5×𝑊)×𝐸 oznaczają: ×0,85 – kwotę zwracanej częściowo akcyzy (w złotych), 𝑍 – udział kosztów wykorzystanej energii elektrycznej w wartości 𝐾 produkcji sprzedanej, wyrażony w procentach (%), w roku podatkowym, za który składany jest wniosek, o którym mowa w ust. 5, – kurs euro w stosunku do złotego, obowiązujący w pierwszym dniu 𝑊 roboczym października roku poprzedzającego rok, w którym rozpoczął się rok podatkowy, za który składany jest wniosek, o którym mowa w ust. 5, opublikowany w Dzienniku Urzędowym Unii Europejskiej, – łączne zużycie energii elektrycznej wyrażone w megawatogodzinach 𝐸 (MWh) w roku podatkowym, za który składany jest wniosek, o którym mowa w ust. 5.
+3. Kwotę zwrotu części zapłaconej akcyzy, o której mowa w ust. 1, zwanej dalej „kwotą zwracanej częściowo akcyzy”, oblicza się według następującego wzoru: 𝐾%−3% w którym poszczególne 𝑍 = 𝐾% symbole ×(20−0,5×𝑊)×𝐸 oznaczają: ×0,85 – kwotę zwracanej częściowo akcyzy (w złotych), 𝑍 – udział kosztów wykorzystanej energii elektrycznej w wartości 𝐾 produkcji sprzedanej, wyrażony w procentach (%), w roku podatkowym, za który składany jest wniosek, o którym mowa w ust. 5, – kurs euro w stosunku do złotego, obowiązujący w pierwszym dniu 𝑊 roboczym października roku poprzedzającego rok, w którym rozpoczął się rok podatkowy, za który składany jest wniosek, o którym mowa w ust. 5, opublikowany w Dzienniku Urzędowym Unii Europejskiej, – łączne zużycie energii elektrycznej wyrażone w megawatogodzinach 𝐸 (MWh) w roku podatkowym, za który składany jest wniosek, o którym mowa w ust. 5.
 
 4. W przypadku podmiotów, których rok podatkowy jest inny niż rok kalendarzowy, przy obliczaniu kwoty zwracanej częściowo akcyzy za rok podatkowy uwzględnia się, oddzielnie dla każdego roku kalendarzowego:
 
@@ -703,6 +841,12 @@ source: "isap-pdf"
 
 **Art. 138k.** Ewidencje rodzaju, ilości i wartości wyrobów akcyzowych określonych w art. 118 ust. 1 pkt 1–3 i 6 prowadzą:
 
+- **1)** podmiot prowadzący skład podatkowy;
+- **2)** importer wyrobów akcyzowych;
+- **3)** podmiot dokonujący nabycia wewnątrzwspólnotowego wyrobów akcyzowych;
+- **4)** podmiot produkujący wyroby akcyzowe, zgodnie z art. 47 ust. 1 pkt 1, 2, 4 lub 5;
+- **5)** właściciel wyrobów akcyzowych, o którym mowa w art. 13 ust. 3.
+
 **Art. 138l.**
 
 1. Ewidencję podatkowych znaków akcyzy prowadzą:
@@ -770,9 +914,41 @@ source: "isap-pdf"
 
 **Art. 138s.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy zakres danych, które powinny znajdować się w ewidencjach, o których mowa w art. 138a ust. 1, art. 138b, art. 138c, art. 138e–138g i art. 138l, oraz protokołach, o których mowa w art. 138m ust. 1,
+- **2)** sposób prowadzenia ewidencji, o których mowa w art. 138a ust. 1, art. 138b, art. 138c, art. 138e–138l,
+- **3)** wzory ewidencji, o której mowa w art. 138l, oraz wzory protokołów, o których mowa w art. 138m ust. 1 pkt 2–4,
+- **4)** rodzaje ksiąg kontroli, o których mowa w art. 138d ust. 1, szczegółowy zakres danych, które powinny znajdować się w tych księgach, oraz wzory tych ksiąg, a także sposób ich prowadzenia,
+- **5)** rodzaje dokumentacji, o której mowa w art. 138o, szczegółowy zakres danych, które powinny znajdować się w tej dokumentacji, oraz jej wzory, a także sposób jej prowadzenia – uwzględniając konieczność zapewnienia właściwej kontroli nad wyrobami akcyzowymi oraz wydanymi znakami akcyzy, a także właściwego poboru akcyzy od wyrobów akcyzowych i funkcjonowania zwolnień od akcyzy.”.
+
 **Art. 2.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm. ) po art. 56a dodaje się art. 56b w brzmieniu: „Art. 56b. § 1. Kto wbrew obowiązkom określonym w art. 20a ust. 1 oraz art. 20f ust. 2–4 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym nie składa wniosku o wpis do rejestru pośredniczących podmiotów tytoniowych lub nie powiadamia o zaprzestaniu prowadzenia działalności jako pośredniczący podmiot tytoniowy, lub nie powiadamia o zmianie danych zawartych we wniosku o wpis do rejestru pośredniczących podmiotów tytoniowych lub we wniosku o dokonanie zmiany wpisu do tego rejestru albo składa wniosek lub dokonuje powiadomienia po terminie lub podaje w nich dane niezgodne ze stanem rzeczywistym, podlega karze grzywny do 720 stawek dziennych.
 
+§ 2. Kto wbrew obowiązkom określonym w art. 16, art. 17 i art. 19 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym nie składa zgłoszenia rejestracyjnego, powiadomienia, zgłoszenia o zaprzestaniu prowadzenia działalności, albo nie zgłasza zmiany danych w nich zawartych, albo składa je po terminie lub podaje w nich dane niezgodne ze stanem rzeczywistym, podlega karze grzywny do 120 stawek dziennych.”.
+
 **Art. 3.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2015 r. poz. 990, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 31 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Organem Służby Celnej właściwym w zakresie urzędowego sprawdzenia przeprowadzanego przed wydaniem lub zmianą zezwolenia na prowadzenie działalności w zakresie podatku akcyzowego oraz w zakresie zatwierdzenia i prowadzenia akt weryfikacyjnych zgromadzonych w toku urzędowego sprawdzenia jest naczelnik urzędu celnego właściwy na podstawie przepisów o podatku akcyzowym do wydania zezwolenia.”;
+- **2)** w art. 33 dodaje się ust. 5 w brzmieniu: „5. Podmiot podlegający kontroli ma obowiązek przystąpić do inwentaryzacji, o której mowa w ust. 1 pkt 8, w terminie 3 dni od dnia otrzymania żądania przeprowadzenia inwentaryzacji lub niezwłocznie po otrzymaniu tego żądania, jeżeli istnieje podejrzenie popełnienia wykroczenia lub przestępstwa.”;
+- **3)** w art. 34 w ust. 1 w pkt 1:
+    - **a)** lit. a otrzymuje brzmienie: „a) przesłać, zgodnie z art. 64, właściwemu naczelnikowi urzędu celnego zgłoszenie oraz dokumentację dotyczącą działalności w tym zakresie,”,
+    - **b)** lit. c otrzymuje brzmienie: „c) przechowywać w oddzielnych naczyniach i miejscach wyroby podlegające kontroli, z wyjątkiem przypadków, w których przepisy o podatku akcyzowym przewidują możliwość magazynowania w jednym zbiorniku wyrobów energetycznych: objętych procedurą zawieszenia poboru akcyzy, zwolnionych od akcyzy ze względu na ich przeznaczenie, opodatkowanych zerową stawką akcyzy ze względu na ich przeznaczenie oraz z zapłaconą akcyzą,”,
+    - **c)** lit. h otrzymuje brzmienie: „h) prowadzić ewidencję oraz inną dokumentację wyrobów akcyzowych i znaków akcyzy, zgodnie z przepisami o podatku akcyzowym, związaną z działalnością podlegającą kontroli,”;
+
+- **4)** w art. 40 dodaje się ust. 5–7 w brzmieniu: „5. W przypadku przeprowadzenia czynności kontrolnych dotyczących stanu zapasów i obrotu wyrobami akcyzowymi oraz stosowania i oznaczania tych wyrobów znakami akcyzy, podmiot podlegający kontroli może wnieść zastrzeżenia do protokołu z tych czynności, o którym mowa w ust. 1.
+
+6. Zastrzeżenia, o których mowa w ust. 5, powinny być wniesione na piśmie do organu Służby Celnej, który przeprowadził czynności kontrolne, w terminie 14 dni od dnia otrzymania protokołu, o którym mowa w ust. 1.
+
+7. Organ Służby Celnej, który przeprowadził czynności kontrolne, ustosunkowuje się do zastrzeżeń, o których mowa w ust. 5, w terminie 14 dni od dnia ich otrzymania.”;
+
+- **5)** w art. 50 w ust. 1 uchyla się pkt 3;
+- **6)** w art. 64:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W podmiotach prowadzących działalność gospodarczą podlegającą kontroli właściwy organ Służby Celnej przeprowadza urzędowe sprawdzenie, które polega na wykonaniu czynności w celu ustalenia, czy są zapewnione warunki i środki, o których mowa w art. 33 ust. 1 i art. 34 ust. 1. W ramach urzędowego sprawdzenia przeprowadzanego przed wydaniem lub zmianą zezwolenia na prowadzenie składu podatkowego lub zezwolenia na nabywanie wyrobów akcyzowych jako zarejestrowany odbiorca, z wyłączeniem zezwolenia na jednorazowe nabycie wyrobów akcyzowych jako zarejestrowany odbiorca, właściwy organ Służby Celnej wykonuje również czynności w celu ustalenia, czy miejsce prowadzenia składu podatkowego lub miejsce odbioru wyrobów akcyzowych przez zarejestrowanego odbiorcę spełnia warunki określone w przepisach o podatku akcyzowym.”,
+    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) przed rozpoczęciem działalności, o której mowa w art. 30 ust. 2 pkt 2–4, oraz po przerwie w prowadzeniu działalności, o której mowa w art. 30 ust. 2 pkt 3 i 4, dłuższej niż 3 miesiące, z zastrzeżeniem pkt 2;”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Podmiot przed rozpoczęciem działalności przesyła właściwemu organowi Służby Celnej zgłoszenie oraz dokumentację dotyczącą tej działalności, a w przypadku wznowienia działalności, o której mowa w art. 30 ust. 2 pkt 1, 3 i 4, po przerwie dłuższej niż 3 miesiące – zgłoszenie dotyczące wznowienia tej działalności.”,
+    - **d)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadkach, gdy urzędowe sprawdzenie jest przeprowadzane:
+
+- **1)** przed wydaniem zezwolenia na prowadzenie działalności w zakresie podatku akcyzowego – złożony wniosek o wydanie zezwolenia oraz załączone do tego wniosku dokumenty stanowią zgłoszenie oraz dokumentację, o których mowa w ust. 3;
+- **2)** przed zmianą zezwolenia na prowadzenie działalności w zakresie podatku akcyzowego – złożony wniosek o zmianę zezwolenia oraz załączone do tego wniosku dokumenty stanowią zgłoszenie oraz dokumentację, o których mowa w ust. 3.”,
+    - **e)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Z urzędowego sprawdzenia sporządza się protokół, który wraz ze zgłoszeniem oraz dokumentacją, o których mowa w ust. 3 i 3a, stanowi akta weryfikacyjne, które zatwierdza się:”.
 
 **Art. 4.** Do przemieszczeń wyrobów akcyzowych, które zostały rozpoczęte przed dniem 1 stycznia 2016 r. i nie zostały do tego dnia zakończone, stosuje się przepisy dotychczasowe.
 
@@ -810,6 +986,9 @@ source: "isap-pdf"
 **Art. 14.** Urzędowe sprawdzenie, o którym mowa w art. 64 ustawy zmienianej w art. 3, rozpoczęte na podstawie zgłoszenia złożonego przed dniem 1 stycznia 2016 r. jest prowadzone na podstawie przepisów dotychczasowych przez organ Służby Celnej właściwy na podstawie tych przepisów.
 
 **Art. 15.** Do rozpoczętych przed dniem 1 stycznia 2016 r.:
+
+- **1)** inwentaryzacji, o której mowa w art. 33 ust. 1 pkt 8 ustawy zmienianej w art. 3,
+- **2)** czynności kontrolnych dotyczących stanu zapasów i obrotu wyrobami akcyzowymi oraz stosowania i oznaczania tych wyrobów znakami akcyzy, o których mowa w art. 40 ust. 5 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą – stosuje się przepisy dotychczasowe.
 
 **Art. 16.** Podmiot, który przed dniem 1 stycznia 2016 r. posiada zezwolenie na prowadzenie składu podatkowego, w którym prowadzi działalność polegającą wyłącznie na magazynowaniu lub przeładowywaniu wyrobów akcyzowych wyprodukowanych w innym składzie podatkowym, może prowadzić działalność na podstawie tego zezwolenia pomimo niespełnienia warunków określonych w art. 48 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 5 lat, licząc od dnia wejścia w życie niniejszej ustawy.
 

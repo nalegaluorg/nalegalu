@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń.*
 
-Łącznie: **1344** orzeczeń
-(pominięto 2068 orzeczeń sądów rejonowych)
+Łącznie: **1346** orzeczeń
+(pominięto 2082 orzeczeń sądów rejonowych)
 
 ## art. 1 (49)
 
@@ -2707,7 +2707,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń.*
 - 2015-08-07 | SO | [II W 57/15](https://www.saos.org.pl/judgments/172217) | Uzasadnienie
 - 2014-12-22 | SO | [IV Ka 881/14](https://www.saos.org.pl/judgments/126828) | Uzasadnienie
 
-## art. 97 (52)
+## art. 97 (53)
 
 - 2015-09-30 | TK | [K 3/13](https://www.saos.org.pl/judgments/206659) | Wyrok ★
 - 2014-09-30 | TK | [U 4/13](https://www.saos.org.pl/judgments/206651) | Wyrok ★
@@ -2758,6 +2758,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń.*
 - 2016-03-11 | SO | [II K 531/15](https://www.saos.org.pl/judgments/448562) | Wyrok
 - 2023-11-17 | SO | [VII W 346/23](https://www.saos.org.pl/judgments/512323) | Uzasadnienie
 - 2023-02-28 | SO | [VII W 537/22](https://www.saos.org.pl/judgments/489606) | Uzasadnienie
+- 2023-01-26 | SO | [III K 47/12](https://www.saos.org.pl/judgments/547016) | Uzasadnienie
 - 2022-11-08 | SO | [VII W 430/22](https://www.saos.org.pl/judgments/482200) | Uzasadnienie
 - 2016-11-24 | SO | [III Ca 1027/16](https://www.saos.org.pl/judgments/256234) | Uzasadnienie
 - 2016-09-21 | SO | [II W 2285/15](https://www.saos.org.pl/judgments/246917) | Uzasadnienie
@@ -4373,7 +4374,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń.*
 
 - 2010-10-27 | TK | [K 10/08](https://www.saos.org.pl/judgments/109668) | Wyrok ★
 
-## (ogólnie) (123)
+## (ogólnie) (124)
 
 - 2023-05-18 | SO | [II AKa 4/23](https://www.saos.org.pl/judgments/491460) | Wyrok
 - 2022-01-20 | SO | [III APo 1/21](https://www.saos.org.pl/judgments/467960) | Wyrok
@@ -4407,6 +4408,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń.*
 - 2024-03-27 | SO | [VII Pa 34/23](https://www.saos.org.pl/judgments/511837) | Wyrok
 - 2023-10-17 | SO | [VI Ka 389/23](https://www.saos.org.pl/judgments/511123) | Wyrok
 - 2023-09-29 | SO | [IV Ka 658/23](https://www.saos.org.pl/judgments/508434) | Wyrok
+- 2023-04-03 | SO | [II K 200/22](https://www.saos.org.pl/judgments/546938) | Wyrok
 - 2022-04-22 | SO | [VI Ka 18/22](https://www.saos.org.pl/judgments/466247) | Wyrok
 - 2022-01-18 | SO | [VI Ka 582/21](https://www.saos.org.pl/judgments/478559) | Wyrok
 - 2021-11-04 | SO | [VI Ka 964/21](https://www.saos.org.pl/judgments/449761) | Wyrok

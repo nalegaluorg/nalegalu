@@ -8,10 +8,10 @@ pos: 272
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 lutego 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 272 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 5 lutego 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000272) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/272/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 5 lutego 2019 r.
-w sprawie sprzedaży lokali mieszkalnych przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji Na podstawie art. 88 ust. 3 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2018 r. poz. 2308) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb sprzedaży lokali mieszkalnych przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji, zwany dalej „Zarządem”, na rzecz osób, o których mowa w art. 87 ust. 3 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, zwanej dalej „ustawą”, w tym:
+w sprawie sprzedaży lokali mieszkalnych przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji Na podstawie art. 88 ust. 3 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2018 r. poz. 2308) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb sprzedaży lokali mieszkalnych przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji, zwany dalej „Zarządem”, na rzecz osób, o których mowa w art. 87 ust. 3 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, zwanej dalej „ustawą”, w tym:
 1) sposób i tryb zawiadamiania osób uprawnionych do nabycia o przeznaczeniu zajmowanych przez nie lokali mieszkalnych do sprzedaży;
 2) dokumenty potwierdzające uprawnienia do stosowania pomniejszeń, o których mowa w art. 79 ust. 2 ustawy;
 3) sporządzanie i uzupełnianie wykazu lokali mieszkalnych przeznaczonych do sprzedaży oraz podawanie go do wiadomości publicznej;
@@ -45,12 +45,12 @@ w sprawie sprzedaży lokali mieszkalnych przez Zarząd Zasobów Mieszkaniowych M
 4) wysokości, sposobie i terminie wpłacenia kwoty równej zryczałtowanym kosztom przygotowania nieruchomości do sprzedaży przypadającym na zbywany lokal mieszkalny, o których mowa w art. 80 ust. 1 ustawy, oraz o rachunku bankowym, na który wpłaca się tę kwotę.
 § 4. 1. Po otrzymaniu zawiadomienia, o którym mowa w § 3 ust. 2, osoba uprawniona może złożyć do Dyrektora Zarządu wniosek o nabycie lokalu mieszkalnego, sporządzony w postaci papierowej lub elektronicznej. Wzór wniosku o nabycie lokalu mieszkalnego jest określony w załączniku do rozporządzenia.
 2. Dokumentami potwierdzającymi uprawnienie do stosowania pomniejszeń mogą być w szczególności:
-1) w stosunku do żołnierzy służby stałej zaświadczenie wydane przez dowódcę jednostki wojskowej, w której żołnierz jest wyznaczony na stanowisko służbowe, albo przez organ, w którego rezerwie kadrowej lub dyspozycji pozostaje, stwierdzające okres pełnienia czynnej służby wojskowej;
-2) w stosunku do byłych żołnierzy zawodowych, którzy pełnili zawodową służbę wojskową w jednostkach organizacyjnych podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych świadectwo służby potwierdzające sposób rozwiązania stosunku służbowego zawodowej służby wojskowej oraz okres pełnienia czynnej służby wojskowej, a w przypadku funkcjonariuszy, którzy poprzednio byli żołnierzami zawodowymi i otrzymali osobne kwatery stałe, o których mowa w art. 366 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U.
+1) w stosunku do żołnierzy służby stałej – zaświadczenie wydane przez dowódcę jednostki wojskowej, w której żołnierz jest wyznaczony na stanowisko służbowe, albo przez organ, w którego rezerwie kadrowej lub dyspozycji pozostaje, stwierdzające okres pełnienia czynnej służby wojskowej;
+2) w stosunku do byłych żołnierzy zawodowych, którzy pełnili zawodową służbę wojskową w jednostkach organizacyjnych podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych – świadectwo służby potwierdzające sposób rozwiązania stosunku służbowego zawodowej służby wojskowej oraz okres pełnienia czynnej służby wojskowej, a w przypadku funkcjonariuszy, którzy poprzednio byli żołnierzami zawodowymi i otrzymali osobne kwatery stałe, o których mowa w art. 366 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U.
 z 2018 r. poz. 138, z późn. zm. ) oraz art. 154 ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U.
-z 2019 r. poz. 147, 125 i 235) zaświadczenie potwierdzające okres pełnienia czynnej służby wojskowej wydane przez właściwy organ w tej sprawie;
-3) w stosunku do emerytów wojskowych decyzja wojskowego organu emerytalnego o ustaleniu prawa do emerytury wojskowej lub waloryzacji tego świadczenia;
-4) w stosunku do osób uprawnionych do wojskowej renty inwalidzkiej decyzja wojskowego organu emerytalnego o ustaleniu prawa do wojskowej renty inwalidzkiej lub waloryzacji tego świadczenia.
+z 2019 r. poz. 147, 125 i 235) – zaświadczenie potwierdzające okres pełnienia czynnej służby wojskowej wydane przez właściwy organ w tej sprawie;
+3) w stosunku do emerytów wojskowych – decyzja wojskowego organu emerytalnego o ustaleniu prawa do emerytury wojskowej lub waloryzacji tego świadczenia;
+4) w stosunku do osób uprawnionych do wojskowej renty inwalidzkiej – decyzja wojskowego organu emerytalnego o ustaleniu prawa do wojskowej renty inwalidzkiej lub waloryzacji tego świadczenia.
 3. W przypadku złożenia wniosku o nabycie lokalu mieszkalnego w postaci elektronicznej osoba uprawniona dołącza do wniosku dokumenty, o których mowa w ust. 2, w postaci elektronicznej.
 § 5. 1. Na podstawie złożonych wniosków o nabycie lokali mieszkalnych, po określeniu przez rzeczoznawcę majątkowego wartości rynkowej lokalu mieszkalnego wraz z udziałem w prawie własności albo prawie użytkowania wieczystego gruntu, jako prawa związanego z tym lokalem, Dyrektor Zarządu sporządza wykaz lokali mieszkalnych przeznaczonych do sprzedaży na zasadach określonych w art. 35 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 2. Wykaz wywiesza się na okres 21 dni w siedzibie Zarządu oraz na tablicach informacyjnych w budynkach, w których znajdują się ujęte w tym wykazie lokale mieszkalne przeznaczone do sprzedaży.
@@ -76,11 +76,11 @@ z 2019 r. poz. 147, 125 i 235) zaświadczenie potwierdzające okres pełnienia c
 § 7. Nabywca lokalu mieszkalnego regulujący jednorazowo należność z tytułu nabycia własności tego lokalu wnosi tę należność na rachunek bankowy Zarządu w pełnej wysokości, ustalonej w protokole uzgodnień, najpóźniej na 3 dni przed dniem sporządzenia umowy sprzedaży lokalu mieszkalnego, z tym że za datę dokonania wpłaty uznaje się dzień wpływu należności na rachunek bankowy Zarządu.
 § 8. 1. Nabywca lokalu mieszkalnego regulujący należność z tytułu nabycia własności tego lokalu na raty wnosi na rachunek bankowy Zarządu pierwszą ratę, w wysokości ustalonej w protokole uzgodnień, najpóźniej na 3 dni przed dniem sporządzenia umowy sprzedaży lokalu mieszkalnego, z tym że za datę dokonania wpłaty uznaje się dzień wpływu należności na rachunek bankowy Zarządu.
 2. Pozostałą do spłacenia część należności wraz z oprocentowaniem nabywca lokalu mieszkalnego wnosi na rachunek bankowy Zarządu w pięciu ratach rocznych w terminach:
-1) do dnia 31 marca każdego roku dla lokali mieszkalnych nabytych do dnia 30 czerwca włącznie;
-2) do dnia 30 września każdego roku dla lokali mieszkalnych nabytych po dniu 30 czerwca.
+1) do dnia 31 marca każdego roku – dla lokali mieszkalnych nabytych do dnia 30 czerwca włącznie;
+2) do dnia 30 września każdego roku – dla lokali mieszkalnych nabytych po dniu 30 czerwca.
 3. Po zapłacie ostatniej raty należności dokonuje się rozliczenia końcowego sprzedaży ratalnej z uwzględnieniem daty nabycia lokalu mieszkalnego wraz z udziałem w nieruchomości wspólnej oraz faktycznych dat wpływu na rachunek bankowy Zarządu kolejnych rat należności.
 § 9. 1. Lokale mieszkalne, które zostały zatwierdzone do sprzedaży przez ministra właściwego do spraw wewnętrznych na podstawie przepisów dotychczasowych, są lokalami mieszkalnymi znajdującymi się w wykazie lokali mieszkalnych przeznaczonych do sprzedaży, o którym mowa w § 2 ust. 1, oraz podlegają sprzedaży w trybie określonym w niniejszym rozporządzeniu.
 2. W stosunku do lokali mieszkalnych, co do których złożono wniosek o ich nabycie przed dniem wejścia w życie niniejszego rozporządzenia, nie stosuje się przepisów § 3 i 4, a lokale mieszkalne, które przed dniem wejścia w życie niniejszego rozporządzenia zostały ujęte w podanym do publicznej wiadomości wykazie lokali mieszkalnych przeznaczonych do sprzedaży na podstawie przepisów dotychczasowych, są lokalami mieszkalnymi znajdującymi się w wykazie lokali mieszkalnych przeznaczonych do sprzedaży, o którym mowa w § 5 ust. 1.
 § 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. P. Szefernaker z dnia 5 lutego 2019 r. (poz. …) WZÓR
+Minister Spraw Wewnętrznych i Administracji: wz. P. Szefernaker Ministra Spraw Wewnętrznych i Administracji z dnia 5 lutego 2019 r. (poz. …) WZÓR
 

@@ -8,7 +8,7 @@ pos: 279
 act_type: Dekret
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # DEKRET z dnia 6 września 1946 r.
@@ -83,6 +83,8 @@ Art. 41-43. (utraciły moc).
 3. Rozporządzenie Ministrów: Ziem Odzyskanych, Administracji Publicznej, Rolnictwa i Reform Rolnych, Skarbu oraz Odbudowy ustali władze powołane do wydzielenia i przekazania nieruchomości, wskazanych w niniejszym artykule, oraz tryb postępowania przed tymi władzami, jak również warunki i sposób przekazania nieruchomości.
 
 **Art. 8.** Do resztówek, pozostałych po rozparcelowaniu wszelkich nieruchomości wchodzących w skład zapasu ziemi, stosuje się odpowiednio przepisy dekretu z dnia 12 czerwca 1945 r. o przeniesieniu własności resztówek majątków rozparcelowanych na spółdzielnie Samopomocy Chłopskiej (Dz. U. R.P. Nr 27, poz.
+
+- **162)** z tą zmianą, że mogą te resztówki być oddane do bezpłatnego użytkowania spółdzielniom parcelacyjno-osadniczym, które współdziałały z właściwymi władzami w parcelacji danych nieruchomości. W tym przypadku przepis art. 2 ust.2 wymienionego dekretu nie ma zastosowania.
 
 #### Rozdział II.
 

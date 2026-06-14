@@ -8,7 +8,7 @@ pos: 321
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Kaliszu.
@@ -26,7 +26,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000270321) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/321/text.pdf) |
 
-Na podstawie art. 10 ust. 4 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. z Nr 96, poz. 590 i z 1998 r. Nr 106, poz. 668) zarządza się co następuje: § 1. W Państwowej Wyższej Szkole Zawodowej w Kaliszu, utworzonej na podstawie rozporządzenia Rady Ministrów z dnia 8 lipca 1999 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Kaliszu (Dz.U. Nr 60, poz.
+Na podstawie art. 10 ust. 4 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. z Nr 96, poz. 590 i z 1998 r. Nr 106, poz. 668) zarządza się co następuje:
+§ 1. W Państwowej Wyższej Szkole Zawodowej w Kaliszu, utworzonej na podstawie rozporządzenia Rady Ministrów z dnia 8 lipca 1999 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Kaliszu (Dz.U. Nr 60, poz.
 640), dokonuje się zmiany specjalności kształcenia polegającej na wprowadzeniu specjalności zawodowych:
 1) zarządzanie w instytucjach samorządowych,
 2) inżynieria ochrony środowiska.

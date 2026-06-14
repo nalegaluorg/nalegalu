@@ -8,7 +8,7 @@ pos: 649
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa

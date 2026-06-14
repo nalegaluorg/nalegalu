@@ -8,7 +8,7 @@ pos: 1254
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi
@@ -28,6 +28,26 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1254/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509 oraz z 2024 r. poz. 1222) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 w ust. 1:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) nadawaniem utworu jest jego rozpowszechnianie drogą emisji radiowej lub telewizyjnej prowadzonej w sposób bezprzewodowy (naziemny lub satelitarny) lub w sposób przewodowy, w tym w procesie technicznym wprowadzenia bezpośredniego;”,
+    - **b)** po pkt 4 dodaje się pkt 4 w brzmieniu: „4 ) wprowadzeniem bezpośrednim jest proces techniczny, za pomocą którego organizacja radiowa lub telewizyjna przesyła swój sygnał zawierający program innemu podmiotowi w taki sposób, że program nie jest publicznie dostępny w trakcie tego przesyłu, w celu przejęcia programu przez ten podmiot w całości i bez zmian oraz równoczesnego i integralnego przekazania go do powszechnego odbioru;”,
+    - **c)** pkt 5 otrzymuje brzmienie: „5) reemitowaniem utworu jest jego rozpowszechnianie przez inny podmiot niż pierwotnie nadający lub podmiot, pod którego kontrolą i na którego odpowiedzialność takie pierwotne nadawanie jest prowadzone, drogą przejmowania w całości i bez zmian programu organizacji radiowej lub telewizyjnej oraz równoczesnego i integralnego przekazywania tego programu do powszechnego odbioru, niezależnie od sposobu, w jaki reemitent otrzymuje sygnał umożliwiający mu reemitowanie, w tym programu nadawanego w procesie technicznym wprowadzenia bezpośredniego;”,
+    - **d)** pkt 13 otrzymuje brzmienie: „13) instytucją oświatową są jednostki organizacyjne, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854), szkoły polskie, o których mowa w art. 4 pkt 29d tej ustawy, oraz szkoły podoficerskie, ośrodki szkolenia lub centra szkolenia, o których mowa w art. 91 ust. 1 pkt 1a–3 i ust. 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248), a także Centralna Komisja Egzaminacyjna, o której mowa w art. 9a ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750 i 854), oraz okręgowe komisje egzaminacyjne, o których mowa w art. 9c ust. 1 tej ustawy;”,
+    - **e)** w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21–27 w brzmieniu: „21) instytucją dziedzictwa kulturowego jest biblioteka, muzeum, archiwum oraz instytucja kultury, której statutowym zadaniem jest gromadzenie, ochrona i upowszechnianie zbiorów dziedzictwa filmowego lub fonograficznego;
+
+- **22)** eksploracją tekstów i danych jest ich analiza wyłącznie przy zastosowaniu zautomatyzowanej techniki służącej do analizowania tekstów i danych w postaci cyfrowej w celu wygenerowania określonych informacji, obejmujących w szczególności wzorce, tendencje i korelacje;
+- **23)** usługodawcą jest usługodawca w rozumieniu art. 2 pkt 6 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344 oraz z 2024 r. poz. 1222);
+- **24)** usługobiorcą jest usługobiorca w rozumieniu art. 2 pkt 7 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną;
+- **25)** dostawcą usług udostępniania treści online jest usługodawca, którego głównym przedmiotem działalności jest przechowywanie i udzielanie publicznego dostępu do znacznej liczby utworów lub przedmiotów praw pokrewnych zamieszczanych przez usługobiorców, które to utwory lub przedmioty praw pokrewnych są przez niego organizowane i promowane w celach zarobkowych; za takich dostawców nie uznaje się w szczególności dostawców takich usług, jak niedziałające w celach zarobkowych encyklopedie internetowe, repozytoria naukowe i edukacyjne, platformy tworzenia otwartego oprogramowania i platformy wymiany otwartego oprogramowania, dostawców usług komunikacji elektronicznej, internetowych platform handlowych oraz usług w chmurze dla przedsiębiorstw i usług w chmurze obliczeniowej, które umożliwiają usługobiorcom zamieszczanie treści na własny użytek;
+- **26)** dodatkową usługą online jest usługa dostarczana w systemie teleinformatycznym w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, polegająca na przekazywaniu do powszechnego odbioru przez organizację radiową lub telewizyjną lub pod jej kontrolą i na jej odpowiedzialność, audycji telewizyjnych lub radiowych równocześnie z ich nadawaniem lub w określonym czasie po ich nadaniu przez tę organizację oraz na przekazywaniu do powszechnego odbioru wszelkich materiałów dodatkowych w stosunku do takiego nadania, które wzbogacają lub w inny sposób poszerzają nadawane audycje, w szczególności przez zapowiedzi, uzupełnianie lub ocenę treści danej audycji;
+- **27)** licencją jest umowa o korzystanie z utworu.”;
+- **2)** po art. 6 dodaje się art. 6 i art. 6 w brzmieniu: „Art. 6 . 1. Rozpowszechnianie przez organizację radiową lub telewizyjną w sposób przewodowy lub w sposób bezprzewodowy utworów:
+- **1)** zawartych w audycjach radiowych,
+- **2)** zawartych w audycjach telewizyjnych o charakterze informacyjnym, publicystycznym lub będących jej własnymi produkcjami w całości przez nią finansowanymi,
+- **3)** stanowiących materiały dodatkowe w stosunku do audycji, o których mowa w pkt 1 i 2 – w ramach świadczenia dodatkowej usługi online, jak również zwielokrotnianie tych utworów, niezbędne w celu świadczenia dodatkowej usługi online, umożliwienia dostępu do niej lub korzystania z niej w odniesieniu do audycji, o których mowa w pkt 1 i 2, i materiałów dodatkowych, o których mowa w pkt 3, uznaje się, do celów wykonywania praw autorskich dotyczących tych czynności, za mające miejsce wyłącznie w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w którym organizacja radiowa lub telewizyjna posiada swoje główne przedsiębiorstwo.
+
+2. Przepisu ust. 1 nie stosuje się do nadawania audycji telewizyjnych z wydarzeń sportowych oraz zawartych w tych nadaniach utworów.
 
 **Art. 6³.**
 
@@ -80,6 +100,9 @@ source: "isap-pdf"
 
 **Art. 22⁴.** Dostawca usług udostępniania treści online udostępnia uprawnionemu, na jego żądanie:
 
+- **1)** informacje na temat stosowanej przez niego praktyki w zakresie współpracy z uprawnionymi, o której mowa w art. 22 ;
+- **2)** informacje na temat wykorzystywania utworów, co do których uzyskał zgodę uprawnionego na ich publiczne udostępnienie, niezbędne do określenia wysokości wynagrodzenia należnego uprawnionemu od dostawcy usług udostępniania treści online.
+
 **Art. 22⁵.**
 
 1. Dostawca usług udostępniania treści online umożliwia usługobiorcy składanie skarg, przy wykorzystaniu środków komunikacji elektronicznej, w przypadku uniemożliwienia dostępu do utworu zamieszczonego przez usługobiorcę, zablokowania dostępu do tego utworu lub jego usunięcia.
@@ -101,6 +124,12 @@ source: "isap-pdf"
 **Art. 22⁷.** Przepisy niniejszego oddziału nie nakładają na dostawcę usług udostępniania treści online ogólnego obowiązku monitorowania, czy publiczne udostępnienie utworu zamieszczonego przez usługobiorcę następuje zgodnie z prawem.
 
 **Art. 22⁸.** Wyłączeń od odpowiedzialności za publiczne udostępnienie utworów bez zgody uprawnionego, o których mowa w art. 22 , nie stosuje się do dostawców usług udostępniania treści online, których głównym celem jest podejmowanie lub ułatwianie działań naruszających prawa autorskie.”;
+
+- **8)** po art. 26 dodaje się art. 26 i art. 26 w brzmieniu: „Art. 26 . 1. Instytucje dziedzictwa kulturowego, a także podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, mogą zwielokrotniać utwory w celu eksploracji tekstów i danych do celów badań naukowych, jeżeli czynności te nie są dokonywane w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej.
+
+2. Utwory zwielokrotnione zgodnie z ust. 1 mogą być przechowywane do celów badań naukowych, w tym weryfikacji wyników tych badań. Przechowywanie utworów odbywa się z zachowaniem poziomu bezpieczeństwa zapewniającego dostęp do tych utworów wyłącznie upoważnionym osobom, z uwzględnieniem procedur uwierzytelniających.
+
+3. Uprawniony, w celu zapewnienia bezpieczeństwa i integralności sieci i baz danych, w których utwory są przechowywane, może stosować wyłącznie środki niezbędne do osiągnięcia tego celu.
 
 **Art. 26³.**
 
@@ -136,6 +165,10 @@ source: "isap-pdf"
 **Art. 35¹³.** Jeżeli zachodzi prawdopodobieństwo, że pierwsze rozpowszechnienie utworu w danej wersji językowej miało miejsce na terytorium innego państwa, działania, o których mowa w art. 35 , polegają również na zbadaniu dostępności utworu w handlu w tym państwie.
 
 **Art. 35¹⁴.** Przepisy oddziałów 6 i 6 nie mają zastosowania do zbioru utworów, co do którego w wyniku działań, o których mowa w art. 35 , stwierdzono, że składa się w głównej mierze z:
+
+- **1)** utworów audiowizualnych, których producenci mają siedzibę albo miejsce stałego pobytu w państwie innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym,
+- **2)** utworów innych niż utwory audiowizualne, opublikowanych po raz pierwszy albo – w przypadku braku publikacji – nadanych po raz pierwszy w państwie, o którym mowa w pkt 1,
+- **3)** utworów, do których autorskie prawa majątkowe przysługują obywatelom państwa, o którym mowa w pkt 1, jeżeli mimo podjęcia działań, o których mowa w art. 35 , nie można było ustalić tego państwa zgodnie z pkt 1 i 2 – chyba że istnieje organizacja zbiorowego zarządzania reprezentatywna w odniesieniu do utworów, pól eksploatacji oraz kategorii uprawnionych tego państwa.
 
 **Art. 35¹⁵.** Korzystanie, o którym mowa w art. 35 i art. 35 ust. 1, jest dozwolone, jeżeli nie odbywa się w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej. Instytucje dziedzictwa kulturowego mogą uzyskiwać przychody z takiego korzystania, o ile zostaną one przeznaczone na pokrycie bezpośrednich kosztów digitalizacji, rozpowszechniania utworów uznanych za niedostępne w handlu lub kosztów uzyskania licencji na korzystanie z tych utworów.
 
@@ -209,9 +242,72 @@ source: "isap-pdf"
 
 **Art. 35²³.** Instytucja dziedzictwa kulturowego zarejestrowana w portalu przed rozpoczęciem zwielokrotniania utworu niedostępnego w handlu i na sześć miesięcy przed dniem jego publicznego udostępnienia na podstawie art. 35 ust. 1 zamieszcza w tym portalu następujące dane:
 
+- **1)** imię i nazwisko oraz pseudonim twórcy albo wzmiankę o anonimowości – o ile są dostępne;
+- **2)** imię i nazwisko albo nazwę uprawnionego, któremu w zakresie pól eksploatacji wymienionych w art. 35 ust. 1 przysługują autorskie prawa majątkowe do utworu – o ile są dostępne;
+- **3)** tytuł utworu, a w przypadku jego braku – inne informacje umożliwiające jego identyfikację – o ile są dostępne;
+- **4)** imię i nazwisko albo nazwę producenta lub wydawcy utworu – o ile są dostępne;
+- **5)** informację o zakresie korzystania z utworu niedostępnego w handlu i terytoriach objętych tym korzystaniem;
+- **6)** swój adres i siedzibę oraz adres poczty elektronicznej.
+
 **Art. 35²⁴.** Uznaje się, że korzystanie, o którym mowa w art. 35 ust. 1, ma miejsce wyłącznie w państwie członkowskim Unii Europejskiej albo państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w którym korzystająca instytucja dziedzictwa kulturowego ma siedzibę.
 
 **Art. 35²⁵.** Do korzystania, o którym mowa w niniejszym oddziale, stosuje się przepisy art. 34 i art. 35.”;
+
+- **13)** w art. 41 ust. 2 otrzymuje brzmienie: „2. Umowa o przeniesienie autorskich praw majątkowych lub licencja obejmują pola eksploatacji wyraźnie w nich wymienione.”;
+- **14)** w art. 43:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Wynagrodzenie musi być godziwe i odpowiednie do zakresu udzielonego prawa, charakteru i zakresu korzystania oraz korzyści wynikających z korzystania z utworu.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Domniemywa się, że wynagrodzenie proporcjonalne do przychodów z korzystania z utworu spełnia wymogi, o których mowa w ust. 2.”;
+
+- **15)** art. 44 otrzymuje brzmienie: „Art. 44. 1. W przypadku gdy wynagrodzenie twórcy jest niewspółmiernie niskie w stosunku do korzyści nabywcy autorskich praw majątkowych lub licencjobiorcy, twórca może żądać stosownego podwyższenia wynagrodzenia przez sąd.
+
+2. Przepisu ust. 1 nie stosuje się do umów o korzystanie z utworów zawieranych z organizacją zbiorowego zarządzania prawami autorskimi albo z niezależnym podmiotem zarządzającym, o którym mowa w art. 2 ust. 1 pkt 3 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi.”;
+
+- **16)** art. 47 otrzymuje brzmienie: „Art. 47. Jeżeli wynagrodzenie twórcy zależy od wysokości przychodów z korzystania z utworu, twórca ma prawo do:
+- **1)** otrzymania informacji mającej istotne znaczenie dla określenia wysokości tego wynagrodzenia w przypadkach, w których nie stosuje się przepisu art. 47 ;
+- **2)** wglądu w niezbędnym zakresie do dokumentacji mającej istotne znaczenie dla określenia wysokości tego wynagrodzenia.”;
+- **17)** po art. 47 dodaje się art. 47 w brzmieniu: „Art. 47 . 1. Twórca ma prawo do regularnego otrzymywania od osoby, na którą przeniósł autorskie prawa majątkowe, lub od osoby, której udzielił licencji, aktualnej informacji o przychodach z korzystania ze swojego utworu oraz o wynagrodzeniu należnym w związku z tym korzystaniem, odrębnie dla każdego ze sposobów korzystania. Informacja może być wykorzystana przez twórcę wyłącznie w celu ustalenia wartości majątkowej praw przeniesionych albo stanowiących przedmiot licencji.
+
+2. Informacja, o której mowa w ust. 1, jest przekazywana z regularnością odpowiednią do rodzaju działalności, w ramach której utwór jest wykorzystywany, nie rzadziej niż raz w roku i nie częściej niż raz na kwartał.
+
+3. Jeżeli obowiązani, o których mowa w ust. 1, następnie przenieśli prawa majątkowe lub udzielili licencji i w związku z tym nie posiadają pełnej informacji, o której mowa w ust. 1, powiadamiają o tym fakcie twórcę i udostępniają mu, na jego żądanie, imię i nazwisko lub nazwę oraz miejsce zamieszkania albo siedzibę, adres i adres poczty elektronicznej nabywcy praw lub licencjobiorcy. W takim przypadku na żądanie twórcy brakującej informacji udziela ten nabywca lub licencjobiorca.
+
+4. Przepisów ust. 1–3 nie stosuje się w przypadku, gdy wkład twórczy nie jest znaczący w stosunku do wykorzystywanej całości, chyba że twórca, który żąda informacji, o której mowa w ust. 1, wykaże, że informacja ta jest niezbędna do wykonania prawa, o którym mowa w art. 44 ust. 1. W przypadku utworu zbiorowego, zbioru utworów oraz utworu współautorskiego innego niż literacki, publicystyczny, naukowy, muzyczny lub słowno-muzyczny domniemywa się, że wkład twórczy nie jest znaczący w stosunku do wykorzystywanej całości. W przypadku utworu audiowizualnego domniemanie to nie ma zastosowania do reżysera, operatora obrazu, twórcy adaptacji utworu literackiego, twórcy stworzonych dla utworu audiowizualnego utworów muzycznych lub słowno-muzycznych oraz twórcy scenariusza.
+
+5. W uzasadnionych przypadkach, jeżeli koszty lub obciążenie administracyjne związane z realizacją obowiązku wynikającego z przepisów ust. 1 lub 3 okazałyby się niewspółmiernie uciążliwe w stosunku do przychodów z korzystania z utworu, wykonanie obowiązku można ograniczyć do informacji o łącznych przychodach z korzystania z utworu oraz o łącznym wynagrodzeniu należnym w związku z tym korzystaniem.
+
+6. Przepisów ust. 1–5 nie stosuje się do korzystania odbywającego się na podstawie:
+
+- **1)** umowy o korzystanie z utworów zawartej z organizacją zbiorowego zarządzania prawami autorskimi albo z niezależnym podmiotem zarządzającym, o którym mowa w art. 2 ust. 1 pkt 3 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi;
+- **2)** nieodpłatnej licencji udzielonej przez twórcę ogółowi społeczeństwa;
+- **3)** nabycia praw, o którym mowa w art. 12.”;
+- **18)** art. 57 otrzymuje brzmienie: „Art. 57. 1. Jeżeli nabywca autorskich praw majątkowych lub licencjobiorca, któremu udzielono licencji wyłącznej, o której mowa w art. 67 ust. 2, zobowiązany do rozpowszechnienia utworu nie przystąpi do jego rozpowszechnienia w uzgodnionym terminie, twórca może wyznaczyć mu dodatkowy termin na rozpowszechnienie utworu, nie krótszy niż sześć miesięcy, z zastrzeżeniem że w razie bezskutecznego upływu tego terminu będzie uprawniony do odstąpienia od umowy lub jej wypowiedzenia.
+
+2. Niezależnie od terminu uzgodnionego w umowie, twórca może odstąpić od umowy lub ją wypowiedzieć, jeżeli nabywca autorskich praw majątkowych lub licencjobiorca, któremu udzielono licencji wyłącznej, o której mowa w art. 67 ust. 2, zobowiązany do rozpowszechnienia utworu nie przystąpi do jego rozpowszechnienia w terminie pięciu lat, a w przypadku utworów architektonicznych, architektoniczno-urbanistycznych i urbanistycznych – w terminie dwudziestu lat od dnia przeniesienia autorskich praw majątkowych lub udzielenia licencji wyłącznej, o której mowa w art. 67 ust. 2. Przed odstąpieniem od umowy lub jej wypowiedzeniem twórca wyznacza dodatkowy termin na rozpowszechnienie utworu, nie krótszy niż sześć miesięcy.
+
+3. Twórca, który udzielił licencji wyłącznej, o której mowa w art. 67 ust. 2, może po upływie dodatkowego terminu na rozpowszechnienie utworu, o którym mowa w ust. 1 i 2, zamiast wypowiedzieć umowę, udzielić licencji innym osobom. Licencja wyłączna staje się wówczas licencją niewyłączną, o której mowa w art. 67 ust. 2.
+
+4. W przypadku skorzystania z prawa do odstąpienia od umowy lub jej wypowiedzenia, o którym mowa w ust. 1 i 2, albo prawa do udzielenia licencji innym osobom, o którym mowa w ust. 3, wypłacone twórcy wynagrodzenie z tytułu przeniesienia autorskich praw majątkowych lub udzielenia licencji nie podlega zwrotowi.
+
+5. Przepisów ust. 1–4 nie stosuje się, jeżeli brak rozpowszechnienia utworu wynika z okoliczności w przeważającej mierze zależnych od twórcy.
+
+6. W przypadku współtwórców prawo, o którym mowa w ust. 1, przysługuje tylko tym, których wkłady pracy twórczej mają samodzielne znaczenie.”;
+
+- **19)** w art. 66 ust. 1 otrzymuje brzmienie: „1. Umowa licencyjna uprawnia do korzystania z utworu w okresie pięciu lat na terytorium państwa, w którym licencjobiorca ma swoją siedzibę albo miejsce zamieszkania, chyba że w umowie postanowiono inaczej.”;
+- **20)** w art. 70 w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) stosownego wynagrodzenia z tytułu publicznego udostępniania utworu w taki sposób, aby każdy mógł mieć do niego dostęp w miejscu i czasie przez siebie wybranym;
+- **6)** stosownego wynagrodzenia z tytułu reemitowania utworu.”;
+- **21)** uchyla się art. 72;
+- **22)** po art. 73 dodaje się art. 73 w brzmieniu: „Art. 73 . 1. Strony negocjujące umowę o publiczne udostępnianie utworu audiowizualnego w taki sposób, aby każdy mógł mieć do niego dostęp w miejscu i czasie przez siebie wybranym, mogą wystąpić do Komisji Prawa Autorskiego, o której mowa w art. 1 pkt 4 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi, o przeprowadzenie mediacji, wskazując mediatora z listy arbitrów.
+
+2. Jeżeli mediator wskazany przez strony wyrazi zgodę na mediację, uzgadnia on ze stronami warunki, zasady i harmonogram mediacji.
+
+3. W zakresie nieuregulowanym w ust. 1 i 2 do mediacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o mediacji.
+
+4. Obsługę techniczno-organizacyjną mediacji zapewnia urząd obsługujący ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego nie dłużej niż przez 3 miesiące od dnia wyrażenia przez mediatora zgody na mediację.”;
+
+- **23)** w art. 77 ust. 1 otrzymuje brzmienie: „1. Do programów komputerowych nie stosuje się przepisów art. 16 pkt 3–5, art. 20, art. 23, art. 23 , art. 26 , art. 33 –33 , art. 43, art. 44, art. 47 , art. 49 ust. 2, art. 56, art. 57, art. 60 i art. 62.”;
+- **24)** po art. 86 dodaje się art. 86 w brzmieniu: „Art. 86 . Artyści wykonawcy utworu literackiego, publicystycznego, naukowego, muzycznego lub słowno-muzycznego, w tym artyści wykonawcy opracowania takiego utworu, są uprawnieni do stosownego wynagrodzenia z tytułu publicznego udostępniania utrwalenia artystycznego wykonania w taki sposób, aby każdy mógł mieć do niego dostęp w miejscu i czasie przez siebie wybranym.”;
+- **25)** art. 93 otrzymuje brzmienie: „Art. 93. Do prawa do artystycznego wykonania stosuje się odpowiednio przepisy art. 33 pkt 10 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809) i art. 15 .”;
+- **26)** w rozdziale 11 po oddziale 3 dodaje się oddział 3 w brzmieniu: „Oddział 3 Prawo do publikacji prasowych w ramach świadczenia usług drogą elektroniczną
 
 **Art. 99⁷.**
 
@@ -351,6 +447,21 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 27 lipca 2001 r. o ochronie baz danych (Dz. U. z 2021 r. poz. 386) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–7 w brzmieniu: „5) eksploracja tekstów i danych oznacza eksplorację tekstów i danych w rozumieniu art. 6 ust. 1 pkt 22 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych;
+- **6)** instytucja oświatowa oznacza instytucję oświatową w rozumieniu art. 6 ust. 1 pkt 13 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych;
+- **7)** instytucja dziedzictwa kulturowego oznacza instytucję dziedzictwa kulturowego w rozumieniu art. 6 ust. 1 pkt 21 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych.”;
+- **2)** w art. 8:
+    - **a)** w ust. 1 w pkt 4 wyrazy „oddziale 3a” zastępuje się wyrazami „oddziale 3 ”,
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. W przypadku instytucji oświatowych oraz podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), korzystanie, o którym mowa w ust. 1 pkt 2, odbywa się na odpowiedzialność tych instytucji lub podmiotów, na ich terenie lub w innym miejscu, lub za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla osób uczących się i nauczających lub prowadzących działalność naukową w danej instytucji lub danym podmiocie.
+
+1b. Uznaje się, że korzystanie z baz danych w charakterze ilustracji w celach dydaktycznych, za pośrednictwem bezpiecznego środowiska elektronicznego, w sposób określony w ust. 1a, odbywa się w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w którym dana instytucja oświatowa lub dany podmiot mają siedzibę.”;
+
+- **3)** po art. 8 dodaje się art. 8a–8d w brzmieniu: „Art. 8a. 1. Wolno zwielokrotniać rozpowszechnione bazy danych w celu eksploracji tekstów i danych, chyba że uprawniony zastrzegł inaczej.
+
+2. Zastrzeżenia, o którym mowa w ust. 1, dokonuje się wyraźnie i odpowiednio do sposobu, w jaki baza danych została udostępniona. W przypadku baz danych publicznie udostępnionych w taki sposób, aby każdy mógł mieć do nich dostęp w miejscu i czasie przez siebie wybranym, zastrzeżenia dokonuje się w formacie przeznaczonym do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524) wraz z metadanymi.
+
+3. Bazy danych zwielokrotnione zgodnie z ust. 1 mogą być przechowywane wyłącznie w celu eksploracji tekstów i danych tak długo, jak jest to konieczne do osiągnięcia tego celu.
+
 **Art. 8b.**
 
 1. Instytucje dziedzictwa kulturowego, a także podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, mogą zwielokrotniać bazy danych w celu eksploracji tekstów i danych do celów badań naukowych, jeżeli czynności te nie są dokonywane w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej.
@@ -364,6 +475,20 @@ source: "isap-pdf"
 **Art. 8d.** Instytucje dziedzictwa kulturowego mogą zwielokrotniać znajdujące się na stałe w ich zbiorach bazy danych uznane za niedostępne w handlu oraz rozpowszechniać je na stronach internetowych, które nie są prowadzone w celach zarobkowych. Przepisy oddziałów 6 i 6 rozdziału 3 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych stosuje się odpowiednio.”.
 
 **Art. 3.** W ustawie z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. z 2023 r. poz. 2207) wprowadza się następujące zmiany:
+
+- **1)** w art. 5:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W zakresie, w jakim art. 35 ustawy o prawie autorskim i prawach pokrewnych przewiduje możliwość korzystania z utworów niedostępnych w handlu lub przedmiotów praw pokrewnych na podstawie umowy zawartej z organizacją zbiorowego zarządzania, prawami danej kategorii uprawnionych do danego rodzaju utworów lub przedmiotów praw pokrewnych na danym polu eksploatacji, którzy nie zawarli umowy o zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi z żadną organizacją, zbiorowo zarządza ta organizacja, która jest reprezentatywna w odniesieniu do tych praw. W zakresie swojej reprezentatywności organizacja ta, na wniosek instytucji dziedzictwa kulturowego, w rozumieniu art. 6 ust. 1 pkt 21 ustawy o prawie autorskim i prawach pokrewnych, może objąć umową licencji niewyłącznej również niedostępne w handlu utwory lub przedmioty praw pokrewnych, w odniesieniu do których uprawnieni zawarli umowę o zbiorowe zarządzanie z inną organizacją zbiorowego zarządzania.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Umowa zawarta z reprezentatywną organizacją zbiorowego zarządzania uprawnia użytkownika do korzystania także z utworów lub przedmiotów praw pokrewnych, do których prawami zarządza ona zbiorowo na podstawie ust. 2 i 2a.”;
+
+- **2)** po art. 5 dodaje się art. 5a w brzmieniu: „Art. 5a. 1. Organizacja zbiorowego zarządzania, która zawiera umowę w zakresie, o którym mowa w art. 22 ust. 1 i 2 lub art. 99 ust. 2 ustawy o prawie autorskim i prawach pokrewnych, może rozszerzyć zakres takiej umowy o prawa tej samej kategorii uprawnionych do tego samego rodzaju utworów lub przedmiotów praw pokrewnych na tym samym polu eksploatacji, którymi organizacja ta nie zarządza na podstawie umowy o zbiorowe zarządzanie prawami autorskimi lub prawami pokrewnymi lub umowy o reprezentacji (rozszerzona licencja zbiorowa), pod warunkiem że w zakresie tego rozszerzenia:
+- **1)** umowa dotyczy wyłącznie korzystania na terytorium Rzeczypospolitej Polskiej;
+- **2)** organizacja zbiorowego zarządzania jest reprezentatywna w odniesieniu do tych praw.
+
+2. Uprawnieni objęci rozszerzeniem, o którym mowa w ust. 1, mogą w każdym czasie i ze skutkiem natychmiastowym, w drodze oświadczenia złożonego organizacji zbiorowego zarządzania, wyłączyć swoje utwory lub przedmioty praw pokrewnych z zakresu rozszerzonych licencji zbiorowych. Przepisy art. 32 ust. 3–5 stosuje się odpowiednio, z tym że okres, o którym mowa w art. 32 ust. 3, wynosi 6 miesięcy.
+
+3. Organizacja zbiorowego zarządzania, o której mowa w ust. 1, w rozsądnym czasie, nie krótszym niż 3 miesiące, przed udzieleniem rozszerzonej licencji zbiorowej podaje do publicznej wiadomości na swojej stronie internetowej, że zamierza udzielić takiej licencji, a następnie że udzieliła takiej licencji oraz, w każdym przypadku, że uprawnieni mogą złożyć oświadczenie, o którym mowa w ust. 2.”;
+
+- **3)** w art. 7 w ust. 1 w pkt 2 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) zrzesza istotną liczbę uprawnionych w zakresie objętym wnioskiem o udzielenie zezwolenia, biorąc pod uwagę ogólną liczbę uprawnionych danej kategorii.”.
 
 **Art. 4.**
 

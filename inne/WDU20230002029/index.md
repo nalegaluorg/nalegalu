@@ -8,7 +8,7 @@ pos: 2029
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw
@@ -28,6 +28,57 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2029/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633 i 1688) wprowadza się następujące zmiany:
+
+- **1)** w art. 1: z 2022 r. poz. 1385, z późn. zm. ).”;
+    - **a)** w ust. 1 pkt 5 otrzymuje brzmienie: „5) podziemnego składowania dwutlenku węgla.”,
+    - **b)** uchyla się ust. 3,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Warunki wykonywania i kontrolowania działalności polegającej na przesyłaniu dwutlenku węgla w celu jego podziemnego składowania określa ustawa z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U.
+
+- **2)** w art. 2 w ust. 1:
+    - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) utrzymywania i niezwiązanego z wydobywaniem kopaliny ze złoża wykorzystywania podziemnej części likwidowanych zakładów górniczych niezbędnej do prowadzenia ruchu innych zakładów górniczych;”,
+    - **b)** pkt 4 otrzymuje brzmienie: „4) drążenia tuneli;”;
+
+- **3)** art. 2a otrzymuje brzmienie: „Art. 2a. Przepisy dotyczące węglowodorów stosuje się do gazów szlachetnych oraz do wodoru.”;
+- **4)** w art. 3 pkt 2a otrzymuje brzmienie: „2a) wykonywania wkopów oraz otworów wiertniczych o głębokości do 30 m w celu wykonywania ujęć wód podziemnych na potrzeby poboru wód podziemnych w ilości nieprzekraczającej 5 m na dobę poza obszarami górniczymi utworzonymi w celu wydobywania wód leczniczych lub solanek;”;
+- **5)** w art. 4:
+    - **a)** w ust. 3 dodaje się zdanie drugie w brzmieniu: „Przepisy art. 140 ust. 5 i 6, art. 141, art. 142 i art. 143 ust. 1a stosuje się.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. W przypadku naruszenia wymagań określonych w ust. 1 i 2, jeżeli działalność była prowadzona przez kilka podmiotów, podmioty te odpowiadają solidarnie.”;
+
+- **6)** w art. 6 w ust. 1: poz. 589);”,
+    - **a)** po pkt 2a dodaje się pkt 2b w brzmieniu: „2b) intensyfikacją wydobycia węglowodorów – są metody wspomagania wydobywania węglowodorów ze złoża mające na celu zwiększenie stopnia zamierzonego wykorzystania zasobów złoża;”,
+    - **b)** po pkt 5a dodaje się pkt 5b w brzmieniu: „5b) podziemnym składowaniem dwutlenku węgla – jest zatłaczanie strumieni dwutlenku węgla do podziemnych formacji geologicznych w celu jego trwałego przechowywania oraz jego przechowywanie w taki sposób, aby uniemożliwić lub – w przypadku gdy nie jest to możliwe – w jak największym stopniu wyeliminować negatywne oddziaływanie na zdrowie ludzi i środowisko oraz zagrożenia dla nich;”,
+    - **c)** pkt 11 otrzymuje brzmienie: „11) robotą geologiczną – jest wykonywanie w ramach prac geologicznych wszelkich czynności poniżej powierzchni terenu, w tym przy użyciu środków strzałowych, a także likwidacja wyrobisk po tych czynnościach, wykonywanie badań sejsmicznych w celu zbadania struktur geologicznych związanych z występowaniem złóż kopalin, o których mowa w art. 10 ust. 1 i 2, oraz w celu wykonania regionalnych badań budowy geologicznej kraju;”,
+    - **d)** pkt 13a otrzymuje brzmienie: „13a) rozliczeniem emisji – jest rozliczenie wielkości emisji, o którym mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2023 r.
+    - **e)** pkt 16a otrzymuje brzmienie: „16a) wyciekiem dwutlenku węgla – jest każde wydostanie się dwutlenku węgla poza podziemne składowisko dwutlenku węgla, z wyłączeniem uwalniania z instalacji powierzchniowych w procesie intensyfikacji wydobycia węglowodorów połączonej z podziemnym składowaniem dwutlenku węgla ilości dwutlenku węgla nie większej niż ilość konieczna w normalnym procesie wydobywania węglowodorów ze złoża, która nie osłabia bezpieczeństwa podziemnego składowania dwutlenku węgla ani nie wpływa negatywnie na środowisko;”,
+    - **f)** po pkt 19 dodaje się pkt 19a w brzmieniu: „19a) złożem strategicznym – jest złoże kopaliny, które ze względu na jego znaczenie dla gospodarki lub bezpieczeństwa kraju podlega szczególnej ochronie prawnej;”;
+
+- **7)** w art. 10 ust. 1 otrzymuje brzmienie: „1. Złoża węglowodorów, węgla kamiennego, metanu występującego jako kopalina towarzysząca, węgla brunatnego, rud metali z wyjątkiem darniowych rud żelaza, metali w stanie rodzimym, rud pierwiastków promieniotwórczych, siarki rodzimej, soli kamiennej, soli potasowej, soli potasowo-magnezowej, gipsu i anhydrytu, kamieni szlachetnych, pierwiastków ziem rzadkich, gazów szlachetnych, wodoru, bez względu na miejsce ich występowania, są objęte własnością górniczą.”;
+- **8)** uchyla się art. 14;
+- **9)** w art. 15:
+    - **a)** w ust. 1 uchyla się pkt 1,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Uprawnienie, o którym mowa w ust. 1, wygasa z upływem 5 lat od dnia doręczenia decyzji zatwierdzającej dokumentację geologiczną złoża kopaliny.”;
+
+- **10)** w art. 16 uchyla się ust. 3;
+- **11)** w art. 19 w ust. 1:
+    - **a)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) wydobywanie siarki rodzimej,”,
+    - **b)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) podziemne bezzbiornikowe magazynowanie wodoru,”;
+
+- **12)** w art. 21:
+    - **a)** w ust. 1 uchyla się pkt 1a,
+    - **b)** uchyla się ust. 1a,
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Działalność w zakresie wydobywania węglowodorów ze złóż, prowadzona na podstawie koncesji na wydobywanie węglowodorów ze złóż albo decyzji inwestycyjnej, może być wykonywana w połączeniu z podziemnym składowaniem dwutlenku węgla.”,
+    - **d)** po ust. 4a dodaje się ust. 4b i 4c w brzmieniu: „4b. W przypadku gdy udostępnienie przestrzeni koniecznej do podziemnego bezzbiornikowego magazynowania substancji albo podziemnego składowania odpadów wymaga wydobycia kopaliny, udzielenie koncesji na podziemne bezzbiornikowe magazynowanie substancji albo koncesji na podziemne składowanie odpadów wymaga uprzedniego uzyskania koncesji na wydobywanie kopaliny ze złoża.
+
+4c. Działalność w zakresie wydobywania kopaliny ze złoża, prowadzona na podstawie koncesji na wydobywanie kopaliny ze złoża albo decyzji inwestycyjnej, może być wykonywana w tej samej przestrzeni równocześnie z działalnością wykonywaną na podstawie koncesji na podziemne bezzbiornikowe magazynowanie substancji albo koncesji na podziemne składowanie odpadów, przy czym w przypadku złóż węglowodorów do równoczesnego wykonywania tych działalności jest wymagane uprzednie uzyskanie decyzji zatwierdzającej dodatek do dokumentacji geologiczno-inwestycyjnej złoża węglowodorów sporządzony w związku z zakończeniem eksploatacji złoża albo jego części.”;
+
+- **13)** po art. 21 dodaje się art. 21a–21c w brzmieniu: „Art. 21a. 1. Podmiot, który:
+- **1)** w wyniku wykonywania robót geologicznych rozpoznał kompleks podziemnego składowania dwutlenku węgla i udokumentował go w stopniu umożliwiającym sporządzenie planu zagospodarowania podziemnego składowiska dwutlenku węgla, a także uzyskał decyzję zatwierdzającą dokumentację hydrogeologiczną sporządzoną w celu określonym w art. 90 ust. 1 pkt 2 lit. i oraz decyzję zatwierdzającą dokumentację geologiczno-inżynierską sporządzoną w celu określonym w art. 91 ust. 1 pkt 5 albo
+- **2)** zakończył eksploatację złoża węglowodorów albo jego części prowadzoną na podstawie koncesji na wydobywanie węglowodorów ze złoża albo decyzji inwestycyjnej i w dodatku do dokumentacji geologiczno-inwestycyjnej złoża węglowodorów sporządzonym w związku z zakończeniem eksploatacji złoża albo jego części i rozliczeniem ich zasobów przewidział wykorzystanie złoża albo jego części do podziemnego składowania dwutlenku węgla, z zastrzeżeniem uzyskania decyzji zatwierdzającej dokumentację hydrogeologiczną sporządzoną w celu określonym w art. 90 ust. 1 pkt 2 lit. i oraz decyzji zatwierdzającej dokumentację geologiczno-inżynierską sporządzoną w celu określonym w art. 91 ust. 1 pkt 5 – ma wyłączne prawo wystąpić z wnioskiem o udzielenie koncesji na podziemne składowanie dwutlenku węgla w przestrzeni, o której mowa w pkt 1 albo 2.
+
+2. Uprawnienie, o którym mowa w ust. 1, wygasa z upływem 5 lat od dnia:
+
+- **1)** doręczenia decyzji zatwierdzającej ostatnią dokumentację geologiczną sporządzoną na potrzeby kompleksu podziemnego składowania dwutlenku węgla w przypadku, o którym mowa w ust. 1 pkt 1;
+- **2)** doręczenia decyzji zatwierdzającej dodatek do dokumentacji geologiczno-inwestycyjnej złoża węglowodorów sporządzony w związku z zakończeniem eksploatacji tego złoża albo jego części i rozliczeniem ich zasobów w przypadku, o którym mowa w ust. 1 pkt 2.
 
 **Art. 21b.**
 
@@ -666,6 +717,42 @@ source: "isap-pdf"
 
 **Art. 161b.** Przy uzgadnianiu:
 
+- **1)** projektu planu ogólnego gminy,
+- **2)** projektu miejscowego planu zagospodarowania przestrzennego,
+- **3)** projektu planu zagospodarowania przestrzennego województwa,
+- **4)** projektu decyzji o lokalizacji inwestycji celu publicznego,
+- **5)** projektu decyzji o warunkach zabudowy – organ administracji geologicznej kieruje się koniecznością ochrony udokumentowanych złóż kopalin, w szczególności złóż strategicznych, przed zagospodarowaniem w sposób wykluczający ich eksploatację w przyszłości.”;
+- **120)** w art. 162:
+    - **a)** w ust. 1: – po pkt 10 dodaje się pkt 10a–10d w brzmieniu: „10a) sporządza opinię, o której mowa w art. 94a ust. 7;
+
+- **10b)** gromadzi i przetwarza informacje o parametrach wydobywania węglowodorów ze złoża, o których mowa w art. 49zc ust. 1, oraz sporządza na ich podstawie analizy;
+- **10c)** gromadzi i przetwarza informacje o wynikach monitorowania podziemnych bezzbiornikowych magazynów substancji, o których mowa w art. 32a ust. 1, oraz sporządza na ich podstawie analizy;
+- **10d)** gromadzi i przetwarza informacje o wynikach monitoringu podziemnych składowisk odpadów, o których mowa w art. 125 ust. 6a, oraz sporządza na ich podstawie analizy.”, – uchyla się pkt 11,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Państwowa służba geologiczna corocznie, w terminie do dnia 31 maja, przekazuje ministrowi właściwemu do spraw środowiska oraz właściwemu organowi nadzoru górniczego wyniki analiz, o których mowa w ust. 1 pkt 10b–10d, według stanu na dzień 31 grudnia roku poprzedzającego rok przekazania wyników analiz.”;
+
+- **121)** w art. 163:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Pracownicy Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego realizujący zadania państwowej służby geologicznej są obowiązani do posiadania legitymacji służbowej pozwalającej zidentyfikować pracownika.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Plan prac państwowej służby geologicznej dotyczących realizacji zadań, o których mowa w art. 162 ust. 1 pkt 1–5 i 7–10d oraz ust. 2, na rok następny Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy corocznie, w terminie do dnia 31 maja, przekazuje ministrowi właściwemu do spraw środowiska do akceptacji.”,
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Plan prac państwowej służby geologicznej, o którym mowa w ust. 4, uwzględnia realizację zadania, o którym mowa w art. 162 ust. 1 pkt 6, wyłącznie w przypadku planowania przez organ koncesyjny wszczęcia postępowania przetargowego w celu udzielenia koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż lub koncesji na wydobywanie węglowodorów ze złoża.”,
+    - **d)** dodaje się ust. 10 w brzmieniu: „10. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór legitymacji służbowej, o której mowa w ust. 1a, kierując się koniecznością zapewnienia identyfikacji pracowników Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego realizujących zadania państwowej służby geologicznej.”;
+
+- **122)** w art. 163a w ust. 2:
+    - **a)** w pkt 1 lit. e otrzymuje brzmienie: „e) informowanie organu właściwego w sprawach handlu uprawnieniami do emisji gazów cieplarnianych, o którym mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, oraz rozliczenie emisji w przypadku wydostania się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla,”,
+    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) obejmujących sporządzenie i przekazanie ministrowi właściwemu do spraw środowiska corocznie, w terminie do dnia 31 maja, analizy rocznego sprawozdania z działalności polegającej na podziemnym składowaniu dwutlenku węgla, o którym mowa w art. 127m;”;
+
+- **123)** w art. 163c po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Plan prac Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla dotyczących realizacji zadań, o których mowa w art. 163a ust. 2 i 3, na rok następny, Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy corocznie, w terminie do dnia 31 maja, przekazuje ministrowi właściwemu do spraw środowiska do akceptacji.”;
+- **124)** w art. 174:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Czynności określone w ust. 1 i 1a są wykonywane przez pracowników organów nadzoru górniczego na podstawie legitymacji służbowej upoważniającej do wykonywania takich czynności.”,
+    - **b)** dodaje się ust. 4 i 5 w brzmieniu: „4. Na podstawie przeprowadzonych czynności określonych w ust. 1 i la właściwy organ nadzoru górniczego opracowuje orzeczenie zawierające w szczególności opis stanu faktycznego oraz innych istotnych okoliczności, ustalenie przyczyn, określenie naruszonych przepisów lub zasad techniki górniczej, a także wnioski zmierzające do zapobieżenia podobnym zdarzeniom i wypadkom w przyszłości.
+
+5. Jeżeli po opracowaniu orzeczenia zostały ujawnione istotne okoliczności, które mogą mieć wpływ na ustalenia zawarte w orzeczeniu, przeprowadza się ponownie czynności określone w ust. 1 albo 1a oraz organ nadzoru górniczego, w zależności od wyników badań, opracowuje nowe orzeczenie albo potwierdza aktualność dotychczasowego orzeczenia.”;
+
+- **125)** po art. 175 dodaje się art. 175a i art. 175b w brzmieniu: „Art. 175a. 1. Kto uniemożliwia wykonywanie nadzoru i kontroli upoważnionym pracownikom organów nadzoru górniczego lub utrudnia im wykonywanie kontroli, podlega karze pieniężnej w wysokości od 1000 zł do 50 000 zł.
+
+2. Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, właściwy organ nadzoru górniczego.
+
+3. Ustalając wysokość kary pieniężnej, organ nadzoru górniczego uwzględnia wagę i okoliczności naruszenia, o którym mowa w ust. 1.
+
 **Art. 175b.**
 
 1. Kto udaremnia lub utrudnia wykonywanie określonych w ustawie czynności organom administracji geologicznej, w szczególności uniemożliwiając lub utrudniając wykonywanie nadzoru i kontroli upoważnionym pracownikom organów administracji geologicznej, podlega karze pieniężnej w wysokości od 1000 zł do 50 000 zł.
@@ -709,13 +796,28 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r. poz. 960 i 1688) wprowadza się następujące zmiany:
 
+- **1)** w art. 23 w ust. 2 skreśla się wyraz „geologii,”;
+- **2)** w art. 26 ust. 2 otrzymuje brzmienie: „2. Pozwolenie, o którym mowa w ust. 1, wydaje, w drodze decyzji, właściwy terytorialnie dyrektor urzędu morskiego po zaopiniowaniu wniosku o wydanie tego pozwolenia przez ministrów właściwych do spraw: energii, gospodarki, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych oraz Ministra Obrony Narodowej, a w przypadku zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – również Szefa Agencji Bezpieczeństwa Wewnętrznego.”;
+- **3)** w art. 27 w ust. 1 zdanie drugie otrzymuje brzmienie: „Minister właściwy do spraw gospodarki morskiej wydaje decyzję w tym zakresie po zasięgnięciu opinii ministrów właściwych do spraw: energii, gospodarki, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych oraz Ministra Obrony Narodowej, a w przypadku zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – również Szefa Agencji Bezpieczeństwa Wewnętrznego.”.
+
 **Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ) w art. 29 w ust. 2 w pkt 18 we wprowadzeniu do wyliczenia wyrazy „państwowej służby hydrogeologicznej” zastępuje się wyrazami „państwowej służby geologicznej”.
 
 **Art. 4.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 ust. 2a otrzymuje brzmienie: „2a. Ustawa określa także warunki wykonywania i kontrolowania działalności polegającej na przesyłaniu dwutlenku węgla w celu podziemnego składowania dwutlenku węgla w rozumieniu art. 6 ust. 1 pkt 5b ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633, 1688 i 2029).”;
+- **2)** w art. 3:
+    - **a)** pkt 4a otrzymuje brzmienie: „4a) przesyłanie dwutlenku węgla – transport dwutlenku węgla w celu podziemnego składowania dwutlenku węgla w rozumieniu art. 6 ust. 1 pkt 5b ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;”,
+    - **b)** po pkt 11h dodaje się pkt 11ha w brzmieniu: „11ha) bezpośredni gazociąg transportu dwutlenku węgla – rurociąg, wraz z towarzyszącymi mu tłoczniami lub stacjami redukcyjnymi, który został zbudowany w celu bezpośredniego transportu dwutlenku węgla z instalacji wychwytywania do składowiska z pominięciem sieci transportowej dwutlenku węgla;”;
+
+- **3)** w art. 10b ust. 2 otrzymuje brzmienie: „2. Budowa urządzeń, instalacji lub sieci służących wychwytywaniu dwutlenku węgla w celu jego podziemnego składowania zgodnie z przepisami ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze nie stanowi przebudowy jednostki wytwórczej, elektrowni lub elektrociepłowni przemysłowej ani budowy sieci, o których mowa w ust. 1 pkt 2–4.”;
+- **4)** w art. 11m dodaje się ust. 3 w brzmieniu: „3. Przesyłanie dwutlenku węgla może odbywać się z wykorzystaniem bezpośredniego gazociągu transportu dwutlenku węgla, po uzyskaniu zgody Prezesa Urzędu Regulacji Energetyki. W takim przypadku przepisów ust. 2, art. 11n, art. 11o i art. 11p nie stosuje się.”.
+
 **Art. 5.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) w art. 80c w ust. 1 po pkt 31 dodaje się pkt 31a w brzmieniu: „31a) organom nadzoru górniczego;”.
 
 **Art. 6.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 po pkt 8a dodaje się pkt 8b w brzmieniu: „8b) podziemne bezzbiornikowe magazynowanie wodoru;”;
+- **2)** w art. 19 w ust. 1 pkt 1 otrzymuje brzmienie: „1) terenów górniczych – wymaga, w przypadku braku planu miejscowego, opinii organu nadzoru górniczego w zakresie potencjalnego przewidywanego wpływu robót górniczych zakładu górniczego na nieruchomość będącą przedmiotem umowy, o ile nieruchomość jest położona w granicach terenu górniczego utworzonego w celu prowadzenia działalności dotyczącej złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633, 1688 i 2029);”.
 
 **Art. 7.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512) w art. 11 w ust. 1 w pkt 5 po wyrazach „hydrologiczno-meteorologicznej” skreśla się wyrazy „i państwowej służby hydrogeologicznej, z wyłączeniem zagadnień monitoringu jakości wód podziemnych”.
 
@@ -723,9 +825,74 @@ source: "isap-pdf"
 
 **Art. 9.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 71:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zasady zrównoważonego rozwoju, a także ochrony środowiska, w tym złóż kopalin, stanowią podstawę do sporządzania i aktualizacji koncepcji rozwoju kraju, średniookresowej strategii rozwoju kraju, strategii rozwoju województw, planów zagospodarowania przestrzennego województw, strategii rozwoju ponadlokalnego, strategii rozwoju gmin, planów ogólnych gmin oraz miejscowych planów zagospodarowania przestrzennego.”,
+    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) określa się rozwiązania niezbędne do zapobiegania powstawaniu zanieczyszczeń, zapewnienia ochrony przed powstającymi zanieczyszczeniami, przywracania środowiska do właściwego stanu oraz zachowania dostępności do złóż kopalin;”;
+
+- **2)** w art. 125 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Zasady ochrony udokumentowanych złóż kopalin określają przepisy ustawy – Prawo geologiczne i górnicze.
+
+3. Nie narusza ochrony złóż kopalin lokalizowanie na obszarach występowania udokumentowanych złóż kopalin morskich farm wiatrowych w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2023 r. poz. 1385, 1681 i 1762) oraz instalacji odnawialnych źródeł energii w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762), jeżeli te instalacje nie są trwale związane z gruntem w sposób uniemożliwiający eksploatację złoża w przyszłości.”;
+
+- **3)** w art. 401 w ust. 7 w pkt 4b skreśla się wyrazy „(Dz. U. z 2022 r. poz. 1378, 1383 i 2370)”.
+
 **Art. 10.** W ustawie z dnia 14 lutego 2003 r. o stopniach górniczych, honorowych szpadach górniczych i mundurach górniczych (Dz. U. z 2020 r. poz. 1362) w art. 6:
 
+- **1)** w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) ministrowi właściwemu do spraw środowiska;”;
+- **2)** ust. 3 otrzymuje brzmienie: „3. W przypadku osób, o których mowa w ust. 1 pkt 5, Prezes Rady Ministrów nadaje stopień generalnego dyrektora górnictwa na wniosek ministra właściwego do spraw gospodarki złożami kopalin lub ministra właściwego do spraw środowiska.”.
+
 **Art. 11.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, 1506, 1597, 1688 i 1890) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 2 pkt 3 otrzymuje brzmienie: „3) wymagania ochrony środowiska, w tym gospodarowania wodami, ochrony gruntów rolnych i leśnych oraz ochrony złóż kopalin;”;
+- **2)** w art. 13i w ust. 3 w pkt 5:
+    - **a)** w lit. a tiret szóste otrzymuje brzmienie: „– marszałka województwa w zakresie: – – udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633, 1688 i 2029), innych niż złoża strategiczne, – – udokumentowanych wód podziemnych,”,
+    - **b)** w lit. b tiret siódme otrzymuje brzmienie: „– ministrem właściwym do spraw środowiska w zakresie udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, i uznanych za strategiczne złóż kopalin, o których mowa w art. 10 ust. 3 tej ustawy, a także w zakresie kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji,”;
+
+- **3)** w art. 15 po ust. 2b dodaje się ust. 2c w brzmieniu: „2c. W planie miejscowym uwzględnia się obszar, na którym znajdują się udokumentowane złoża kopaliny, wskazując:
+- **1)** nazwę złoża kopaliny albo nazwę ujęcia wód leczniczych, wód termalnych lub solanek;
+- **2)** granicę występowania złoża kopaliny albo położenie ujęcia wód leczniczych, wód termalnych lub solanek.”;
+- **4)** w art. 17 w pkt 6:
+    - **a)** w lit. a tiret czwarte otrzymuje brzmienie: „– marszałka województwa w zakresie: – – udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, innych niż złoża strategiczne, – – udokumentowanych wód podziemnych,”,
+    - **b)** w lit. b tiret czternaste otrzymuje brzmienie: „– ministrem właściwym do spraw środowiska w zakresie udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, i uznanych za strategiczne złóż kopalin, o których mowa w art. 10 ust. 3 tej ustawy, a także w zakresie kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji, oraz”;
+
+- **5)** w art. 39 dodaje się ust. 8 w brzmieniu: „8. W planie zagospodarowania przestrzennego województwa uwzględnia się udokumentowane:
+- **1)** złoża kopalin, wskazując:
+    - **a)** nazwę złoża kopaliny albo nazwę ujęcia wód leczniczych, wód termalnych lub solanek,
+    - **b)** rodzaj kopaliny głównej, kopalin towarzyszących lub kopalin współwystępujących,
+    - **c)** granicę występowania złoża kopaliny albo położenie ujęcia wód leczniczych, wód termalnych lub solanek,
+    - **d)** granice złoża strategicznego – w przypadku złóż strategicznych,
+    - **e)** projektowane granice obszaru górniczego i terenu górniczego – w przypadku ujęć wód leczniczych, wód termalnych lub solanek;
+
+- **2)** wody podziemne w granicach projektowanych stref ochronnych ujęć, wskazując:
+    - **a)** położenie i nazwę ujęcia wód podziemnych,
+    - **b)** granicę projektowanej strefy ochronnej ujęcia;
+
+- **3)** wody podziemne w granicach projektowanych obszarów ochronnych zbiorników wód podziemnych, wskazując:
+    - **a)** nazwę i numer zbiornika wód podziemnych,
+    - **b)** granicę zbiornika wód podziemnych,
+    - **c)** granicę projektowanego obszaru ochronnego zbiornika wód podziemnych;
+
+- **4)** kompleksy podziemnego składowania dwutlenku węgla, wskazując:
+    - **a)** nazwę kompleksu podziemnego składowania dwutlenku węgla,
+    - **b)** granicę kompleksu podziemnego składowania dwutlenku węgla,
+    - **c)** granicę projektowanego obszaru górniczego i terenu górniczego;
+
+- **5)** podziemne bezzbiornikowe magazyny substancji, wskazując:
+    - **a)** nazwę podziemnego bezzbiornikowego magazynu substancji,
+    - **b)** granicę podziemnego bezzbiornikowego magazynu substancji.”;
+
+- **6)** w art. 41 w ust. 1 po pkt 5a dodaje się pkt 5b w brzmieniu: „5b) występuje o uzgodnienie projektu planu z ministrem właściwym do spraw środowiska w zakresie udokumentowanych:
+    - **a)** złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze,
+    - **b)** złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, uznanych za złoża strategiczne,
+    - **c)** kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji;”;
+
+- **7)** w art. 53 w ust. 4:
+    - **a)** pkt 4a otrzymuje brzmienie: „4a) ministrem właściwym do spraw środowiska – w odniesieniu do udokumentowanych:
+    - **a)** złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze,
+    - **b)** uznanych za strategiczne złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze,
+    - **c)** kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji;”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) marszałkiem województwa – w odniesieniu do udokumentowanych:
+    - **a)** złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, innych niż złoża strategiczne,
+    - **b)** wód podziemnych;”.
 
 **Art. 12.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2023 r. poz. 1786 i 1720) w art. 9o w ust. 3 w pkt 4 po lit. c dodaje się lit. ca w brzmieniu: „ca) ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych,”.
 
@@ -733,9 +900,26 @@ source: "isap-pdf"
 
 **Art. 14.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 21 w ust. 2 w pkt 34:
+    - **a)** lit. a otrzymuje brzmienie: „a) koncesjach na poszukiwanie i rozpoznawanie złóż kopalin, koncesjach na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż, koncesjach na wydobywanie kopalin ze złóż, koncesjach na podziemne bezzbiornikowe magazynowanie substancji, koncesjach na podziemne składowanie odpadów oraz koncesjach na podziemne składowanie dwutlenku węgla, a także o decyzjach zatwierdzających projekty robót geologicznych wykonywanych w celu określenia warunków geologiczno-inżynierskich lub hydrogeologicznych na potrzeby udokumentowania kompleksu podziemnego składowania dwutlenku węgla,”,
+    - **b)** lit. c otrzymuje brzmienie: „c) kartach informacyjnych złóż kopalin, o których mowa w przepisach wydanych na podstawie art. 97 ust. 1 pkt 1 i 2 tej ustawy,”;
+
+- **2)** w art. 72 w ust. 1:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) koncesji na wydobywanie kopalin ze złóż, koncesji na podziemne bezzbiornikowe magazynowanie substancji, koncesji na podziemne składowanie odpadów oraz koncesji na podziemne składowanie dwutlenku węgla – wydawanych na podstawie przepisów ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;”,
+    - **b)** po pkt 4b dodaje się pkt 4c w brzmieniu: „4c) decyzji zatwierdzającej projekt robót geologicznych wykonywanych w celu określenia warunków geologiczno-inżynierskich lub hydrogeologicznych na potrzeby udokumentowania kompleksu podziemnego składowania dwutlenku węgla – wydawanej na podstawie przepisów ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;”;
+
+- **3)** w art. 80:
+    - **a)** w ust. 2 w zdaniu drugim po wyrazach „dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin” dodaje się wyrazy „albo koncesji na wydobywanie kopalin objętych własnością górniczą”,
+    - **b)** w ust. 3 po wyrazach „koncesji na poszukiwanie i rozpoznawanie złóż kopalin” dodaje się wyrazy „oraz koncesji na wydobywanie kopalin objętych własnością górniczą”.
+
 **Art. 15.** W ustawie z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2023 r. poz. 979) w art. 6 w ust. 1 w pkt 9 po lit. f dodaje się lit. fa w brzmieniu: „fa) ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych,”.
 
 **Art. 16.** W ustawie z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2023 r. poz. 924, 1489, 1688 i 1859) w art. 6 w ust. 3:
+
+- **1)** w pkt 2 skreśla się wyraz „geologii,”;
+- **2)** pkt 2a i 2b otrzymują brzmienie: „2a) właściwego dyrektora urzędu morskiego oraz ministrów właściwych do spraw: energii, gospodarki, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do układania i utrzymywania kabli lub rurociągów na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej; w przypadku gdy kable lub rurociągi będą przebiegały również na odcinku lądowym, inwestor występuje także o opinię właściwego wójta, burmistrza albo prezydenta miasta;
+- **2b)** ministrów właściwych do spraw: gospodarki morskiej, energii, gospodarki, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do lokalizacji oraz sposobów utrzymywania kabli lub rurociągów w wyłącznej strefie ekonomicznej, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;”;
+- **3)** w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „18) ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych w rozumieniu art. 6 ust. 1 pkt 19a ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.”.
 
 **Art. 17.** W ustawie z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2021 r. poz. 1812 oraz z 2023 r. poz. 1890) w art. 6 w ust. 1 w pkt 7 po lit. c dodaje się lit. ca w brzmieniu: „ca) ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych,”.
 
@@ -745,7 +929,74 @@ source: "isap-pdf"
 
 **Art. 20.** W ustawie z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 1133, z 2016 r. poz. 566 i 1991, z 2018 r. poz. 1563 oraz z 2020 r. poz. 379) w art. 24:
 
+- **1)** po ust. 1 dodaje się ust. 1a: „1a. W latach 2025–2034 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym wejścia w życie ustawy wynosi 94 210 000 zł, w tym w:
+- **1)** 2025 r. – 9 421 000 zł;
+- **2)** 2026 r. – 9 421 000 zł;
+- **3)** 2027 r. – 9 421 000 zł;
+- **4)** 2028 r. – 9 421 000 zł;
+- **5)** 2029 r. – 9 421 000 zł;
+- **6)** 2030 r. – 9 421 000 zł;
+- **7)** 2031 r. – 9 421 000 zł;
+- **8)** 2032 r. – 9 421 000 zł;
+- **9)** 2033 r. – 9 421 000 zł;
+- **10)** 2034 r. – 9 421 000 zł.”;
+- **2)** w ust. 2 po wyrazach „ust. 1” dodaje się wyrazy „i 1a”;
+- **3)** w ust. 3 po wyrazach „ust. 1” dodaje się wyrazy „i 1a”.
+
 **Art. 21.** W ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2023 r. poz. 589) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 pkt 2 otrzymuje brzmienie: „2) instalacji spalania odpadów niebezpiecznych lub instalacji spalania odpadów komunalnych o całkowitej nominalnej mocy cieplnej nie większej niż 20MW;”;
+- **2)** w art. 17:
+    - **a)** w ust. 4 w zdaniu pierwszym wyrazy „28 lutego” zastępuje się wyrazami „30 czerwca”,
+    - **b)** w ust. 5 we wprowadzeniu do wyliczenia wyrazy „15 marca” zastępuje się wyrazami „31 lipca”;
+
+- **3)** w art. 48 w ust. 2 wyrazy „28 lutego” zastępuje się wyrazami „30 czerwca”;
+- **4)** po art. 55 dodaje się art. 55a w brzmieniu: „Art. 55a. 1. Jeżeli w trakcie trwania okresu, o którym mowa w art. 2 pkt 15 rozporządzenia Komisji (UE) 2019/331, proces produkcyjny w instalacji uległ zmianie w celu ograniczenia emisji gazów cieplarnianych, w wyniku której całkowita nominalna moc cieplna instalacji nie przekracza 20 MW, prowadzący instalację może złożyć oświadczenie o pozostaniu instalacji w systemie do końca tego okresu. Oświadczenie składa się wraz z wnioskiem, o którym mowa w art. 55 ust. 1 pkt 1. Oświadczenie jest nieodwołalne i wywiera skutki w odniesieniu do danej instalacji do końca tego okresu.
+
+2. Oświadczenie, o którym mowa w ust. 1, zawiera:
+
+- **1)** imię i nazwisko albo nazwę prowadzącego instalację oraz oznaczenie jego adresu miejsca zamieszkania albo adresu siedziby;
+- **2)** adres zakładu, na terenie którego jest położona instalacja;
+- **3)** numer rachunku posiadania operatora, o którym mowa w art. 14 rozporządzenia Komisji (UE) 2019/1122;
+- **4)** deklarację o pozostaniu instalacji w systemie do końca okresu, o którym mowa w art. 2 pkt 15 rozporządzenia Komisji (UE) 2019/331.
+
+3. Prowadzący instalację może ponownie złożyć oświadczenie o pozostaniu instalacji w systemie w kolejnym okresie, o którym mowa w art. 2 pkt 15 rozporządzenia Komisji (UE) 2019/331. Ponowne oświadczenie można złożyć tylko raz. Przepis ust. 1 zdanie 3 oraz ust. 2 stosuje się.
+
+4. Ponowne oświadczenie, o którym mowa w ust. 3, składa się do Krajowego ośrodka wraz wnioskiem o przydział uprawnień do emisji, o którym mowa w art. 26b ust. 1.
+
+5. W przypadku, o którym mowa w ust. 1 i 3, w okresie wskazanym w ust. 1 i 3, uznaje się, że instalacja, o której mowa w tych przepisach, spełnia kryteria uczestnictwa w systemie. Przepisu art. 58 ust. 1 do takiej instalacji nie stosuje się.
+
+6. O złożeniu oświadczenia, o którym mowa w ust. 1, organ właściwy do wydania zezwolenia powiadamia niezwłocznie Krajowy ośrodek. O złożeniu ponownego oświadczenia, o którym mowa w ust. 3, Krajowy ośrodek powiadamia niezwłocznie organ właściwy do wydania zezwolenia.
+
+7. Krajowy ośrodek przygotowuje projekt zmiany wykazu, o którym mowa w art. 26d ust. 1, będącej następstwem złożenia oświadczenia, o którym mowa w ust. 1, i przekazuje go ministrowi właściwemu do spraw klimatu.
+
+8. Minister właściwy do spraw klimatu powiadamia Komisję Europejską o zmianach w wykazie, o którym mowa w art. 26d ust. 3, będących następstwem złożenia oświadczenia, o którym mowa w ust. 1.”;
+
+- **5)** po art. 77 dodaje się art. 77a–77d w brzmieniu: „Art. 77a. 1. Prowadzący instalację, w której prowadzone są działania, o których mowa w lp. 1a w tabeli w załączniku nr 1 do ustawy, składa do organu właściwego do wydania zezwolenia wniosek o zatwierdzenie planu monitorowania wielkości emisji oraz planu poboru próbek, w przypadku, o którym mowa w art. 33 rozporządzenia Komisji (UE) 2018/2066.
+
+2. Wniosek, o którym mowa w ust. 1, zawiera:
+
+- **1)** imię i nazwisko albo nazwę prowadzącego instalację, o którym mowa w ust. 1, oraz oznaczenie jego adresu miejsca zamieszkania albo adresu siedziby;
+- **2)** adres zakładu, na terenie którego jest położona instalacja, o której mowa w ust. 1;
+- **3)** informację o tytule prawnym do instalacji, o której mowa w ust. 1;
+- **4)** informację o instalacji, o której mowa w ust. 1, stosowanych urządzeniach i technologiach oraz charakterystykę techniczną źródeł powstawania i miejsca emisji;
+- **5)** określenie rodzajów wykorzystywanych paliw;
+- **6)** datę, od której ma zastosowanie plan monitorowania wielkości emisji oraz plan poboru próbek.
+
+3. Do wniosku, o którym mowa w ust. 1, dołącza się:
+
+- **1)** kopię zezwolenia na przetwarzanie odpadów komunalnych przez termiczne przekształcanie odpadów, kopię pozwolenia zintegrowanego lub kopię pozwolenia na wprowadzanie gazów lub pyłów do powietrza, jeżeli jego uzyskanie jest wymagane zgodnie z przepisami ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, z tym że kopii tych decyzji nie dołącza się, jeżeli zostały one wydane przez organ właściwy do wydania zezwolenia lub organ ten je posiada;
+- **2)** streszczenie wniosku sporządzone w języku niespecjalistycznym;
+- **3)** plan monitorowania wielkości emisji wraz z dokumentami uzupełniającymi i informacjami, o których mowa w art. 12 rozporządzenia Komisji (UE) 2018/2066, na piśmie utrwalonym w postaci papierowej i w postaci elektronicznej;
+- **4)** plan poboru próbek w przypadku, o którym mowa w art. 33 rozporządzenia Komisji (UE) 2018/2066.
+
+4. W przypadku instalacji, o której mowa w ust. 1, będącej instalacją o niskim poziomie emisji, o której mowa w art. 47 ust. 2 rozporządzenia Komisji (UE) 2018/2066, do wniosku, o którym mowa w ust. 1, dołącza się:
+
+- **1)** dokumenty, o których mowa w ust. 3 pkt 1, 2 i 4;
+- **2)** dokumenty potwierdzające spełnianie co najmniej jednego z warunków, o których mowa w art. 47 ust. 2 rozporządzenia Komisji (UE) 2018/2066;
+- **3)** plan monitorowania wielkości emisji, o którym mowa w art. 78 ust. 2, na piśmie utrwalonym w postaci papierowej i w postaci elektronicznej.
+
+5. Do wniosku, o którym mowa w ust. 1, oraz dokumentów, o których mowa w ust. 3 pkt 3 i 4 oraz ust. 4 pkt 3, przepis art. 53 ust. 4 stosuje się odpowiednio.
 
 **Art. 77b.**
 
@@ -776,6 +1027,22 @@ source: "isap-pdf"
 
 **Art. 77d.** Do prowadzących instalację, o której mowa w art. 77a ust. 1, nie stosuje się przepisów rozdziałów 4–5b, 10 i 10a oraz przepisów art. 91 ust. 4, art. 92, art. 92a, art. 94 ust. 1 pkt 2 oraz ust. 2 i 5, art. 96, art. 97 oraz art. 102– 104. Do prowadzących instalację, o której mowa w art. 77a ust. 1, przepisów rozdziału 9 nie stosuje się, z zastrzeżeniem przypadków przewidzianych w art. 77a–77c.”;
 
+- **6)** w art. 92 w ust. 1 wyrazy „30 kwietnia” zastępuje się wyrazami „30 września”;
+- **7)** w art. 94 w ust. 3, w art. 96 w ust. 1 oraz w art. 97 w ust. 1 wyrazy „15 maja” zastępuje się wyrazami „15 października”;
+- **8)** w art. 104 w ust. 3 wyrazy „30 kwietnia” zastępuje się wyrazami „30 września”;
+- **9)** po art. 141a dodaje się art. 141b i art. 141c w brzmieniu: „Art. 141b. 1. W przypadku wykorzystywania w 2023 r. do spalania biopaliw, biopłynów lub paliw z biomasy w rozumieniu art. 3 pkt 21a rozporządzenia Komisji (UE) 2018/2066, które na podstawie art. 38 ust. 5 tego rozporządzenia podlegają kryteriom zrównoważonego rozwoju lub kryteriom ograniczania emisji gazów cieplarnianych, prowadzący instalację lub operator statku powietrznego, który w raporcie na temat wielkości emisji za 2023 r. przyjmuje dla tych biopaliw, biopłynów lub paliw z biomasy współczynnik emisyjny wynoszący zero, wykazuje spełnienie tych kryteriów za pomocą poświadczeń wydanych w ramach systemu certyfikacji zatwierdzonego przez Komisję Europejską w drodze decyzji, o której mowa w art. 30 ust. 4 dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r. w sprawie promowania stosowania energii ze źródeł odnawialnych (Dz. Urz. UE L 328 z 21.12.2018, str. 82, Dz. Urz. UE L 311 z 25.09.2020, str. 11, Dz. Urz. UE L z 22.02.2022, str. 37 oraz Dz. Urz. UE L 18.05.2022, str. 1), zwanej dalej „dyrektywą 2018/2001”.
+
+2. W przypadku, o którym mowa w ust. 1, prowadzący instalację lub operator statku powietrznego może wykazać spełnianie kryteriów zrównoważonego rozwoju lub kryteriów ograniczania emisji gazów cieplarnianych za pomocą poświadczeń wydanych w ramach systemu certyfikacji, który uzyskał wstępną pozytywną ocenę Komisji Europejskiej w toku postępowania, o którym mowa w art. 30 ust. 5 dyrektywy 2018/2001, jeżeli:
+
+- **1)** poświadczenia te zostały wydane w okresie pomiędzy wydaniem wstępnej pozytywnej oceny Komisji Europejskiej a wydaniem decyzji, o której mowa w art. 30 ust. 4 dyrektywy 2018/2001;
+- **2)** system certyfikacji został zatwierdzony w 2022 r. w drodze decyzji, o której mowa w art. 30 ust. 4 dyrektywy 2018/2001.
+
+3. Poświadczenia, o których mowa w ust. 2, zachowują ważność po wejściu w życie decyzji, o której mowa w art. 30 ust. 4 dyrektywy 2018/2001.
+
+4. Poświadczenia, o których mowa w ust. 1 i 2, potwierdzają spełnienie przez biopaliwa, biopłyny lub paliwa z biomasy w rozumieniu art. 3 pkt 21a rozporządzenia Komisji (UE) 2018/2066, kryteriów zrównoważonego rozwoju lub kryteriów ograniczania emisji gazów cieplarnianych, zgodnie z art. 38 ust. 5 tego rozporządzenia, w stosownych przypadkach w odniesieniu do etapów ich pozyskiwania, wytwarzania lub przetwarzania.
+
+5. Do raportu na temat wielkości emisji, o którym mowa w ust. 1, przepisów art. 86 ust. 3 i 4 nie stosuje się.
+
 **Art. 141c.**
 
 1. Prowadzący instalację lub operator statku powietrznego, który stosuje biopaliwa, biopłyny lub paliwa z biomasy w rozumieniu art. 3 pkt 21a rozporządzenia Komisji (UE) 2018/2066, dokonuje przeglądu odpowiednio planu monitorowania wielkości emisji, planu monitorowania emisji z operacji lotniczych lub uproszczonego planu monitorowania emisji z operacji lotniczych i w stosownych przypadkach wprowadza zmiany do tego planu, pod kątem wymagań niezbędnych do oceny spełniania przez biopaliwa, biopłyny lub paliwa z biomasy kryteriów zrównoważonego rozwoju lub kryteriów ograniczania emisji gazów cieplarnianych zgodnie z art. 38 ust. 5 rozporządzenia Komisji (UE) 2018/2066.
@@ -794,19 +1061,86 @@ source: "isap-pdf"
 
 **Art. 22.** W ustawie z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2023 r. poz. 1680 i
 
+- **1688)** w art. 4 w ust. 2:
+- **1)** w pkt 2 skreśla się wyraz „geologii,”;
+- **2)** pkt 2a i 2b otrzymują brzmienie: „2a) właściwego dyrektora urzędu morskiego oraz ministrów właściwych do spraw: energii, gospodarki, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do układania i utrzymywania kabli lub rurociągów na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej; w przypadku gdy kable lub rurociągi będą przebiegały również na odcinku lądowym, inwestor występuje także o opinię właściwego wójta, burmistrza albo prezydenta miasta, a w przypadku zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – również Szefa Agencji Bezpieczeństwa Wewnętrznego;
+- **2b)** ministrów właściwych do spraw: gospodarki morskiej, energii, gospodarki, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do lokalizacji oraz sposobów utrzymywania kabli lub rurociągów w wyłącznej strefie ekonomicznej, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, a w przypadku zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych – również Szefa Agencji Bezpieczeństwa Wewnętrznego;”;
+- **3)** po pkt 12 dodaje się pkt 12a w brzmieniu: „12a) ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych w rozumieniu art. 6 ust. 1 pkt 19a ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;”.
+
 **Art. 23.** W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890 i 1963) wprowadza się następujące zmiany:
+
+- **1)** użyte w art. 149, art. 173 ust. 24, art. 331 ust. 1 pkt 3, art. 366, art. 380 we wprowadzeniu do wyliczenia, art. 385 ust. 5 pkt 2, art. 386 ust. 3 oraz art. 387 ust. 1 i 2, w różnym przypadku, wyrazy „państwowa służba hydrogeologiczna” zastępuje się użytymi w odpowiednim przypadku wyrazami „państwowa służba geologiczna”;
+- **2)** użyte w art. 349 ust. 8, art. 369 ust. 1 oraz art. 381 ust. 1, w różnym przypadku, wyrazy „Państwowa służba hydrogeologiczna” zastępuje się użytymi w odpowiednim przypadku wyrazami „Państwowa służba geologiczna”;
+- **3)** w art. 270 ust. 6 otrzymuje brzmienie: „6. Wysokość opłaty za usługi wodne zależy odpowiednio od ilości pobranych wód, od tego, czy pobrano wody powierzchniowe czy wody podziemne, oraz od przeznaczenia wody.”;
+- **4)** w art. 271 ust. 2 i 3 otrzymują brzmienie: „2. Wysokość opłaty stałej za pobór wód podziemnych ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i maksymalnej ilości wody podziemnej wyrażonej w m /s, która może być pobrana na podstawie pozwolenia wodnoprawnego albo pozwolenia zintegrowanego.
+
+3. Wysokość opłaty stałej za pobór wód powierzchniowych ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i maksymalnej ilości wody powierzchniowej wyrażonej w m /s, która może być pobrana na podstawie pozwolenia wodnoprawnego albo pozwolenia zintegrowanego.”;
+
+- **5)** w art. 274 pkt 1 otrzymuje brzmienie: „1) za pobór wód w formie opłaty stałej:
+    - **a)** za pobór wód podziemnych – 500 zł na dobę za 1 m /s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód,
+    - **b)** za pobór wód powierzchniowych – 250 zł na dobę za 1 m /s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód;”;
+
+- **6)** w art. 360 uchyla się pkt 2;
+- **7)** w art. 361:
+    - **a)** w pkt 1 skreśla się wyrazy „ , państwową służbę hydrogeologiczną”,
+    - **b)** w pkt 2 skreśla się wyrazy „ , państwową służbę hydrogeologiczną”;
+
+- **8)** w art. 369 ust. 2 otrzymuje brzmienie: „2. Państwowa służba geologiczna przekazuje ministrowi właściwemu do spraw gospodarki wodnej oraz ministrowi właściwemu do spraw środowiska roczne sprawozdanie z realizacji zadań określonych w przepisach ustawy w terminie do dnia 30 czerwca roku następującego po roku, którego dotyczy to sprawozdanie.”;
+- **9)** art. 373 otrzymuje brzmienie: „Art. 373. Państwową służbę geologiczną w zakresie realizacji zadań określonych w przepisach ustawy pełni Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy.”;
+- **10)** w art. 380 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) monitorowanie i bilansowanie transgranicznych jednolitych części wód podziemnych na obszarach szczególnie ważnych ze względu na interes publiczny;”;
+- **11)** w art. 383 ust. 5 i 6 otrzymują brzmienie: „5. Osoby, o których mowa w ust. 1, będące pracownikami państwowej służby hydrologiczno-meteorologicznej i państwowej służby do spraw bezpieczeństwa budowli piętrzących są obowiązane do posiadania legitymacji służbowej pozwalającej zidentyfikować pracownika oraz określającej przysługujące im uprawnienia.
+
+6. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, wzór legitymacji służbowej, o której mowa w ust. 5, kierując się koniecznością zapewnienia identyfikacji państwowej służby hydrologiczno-meteorologicznej i państwowej służby do spraw bezpieczeństwa budowli piętrzących i osób wykonujących kontrolę.”;
+
+- **12)** w art. 385:
+    - **a)** w ust. 2: – pkt 1 otrzymuje brzmienie: „1) utrzymywanie bieżącej działalności służb państwowych, z wyłączeniem bieżącej działalności państwowej służby geologicznej w zakresie realizacji zadań określonych w przepisach ustawy;”, – uchyla się pkt 3, – w pkt 5 skreśla się wyrazy „i hydrogeologicznych”, – w pkt 6 wyrazy „roczników hydrologicznych, meteorologicznych i hydrogeologicznych” zastępuje się wyrazami „roczników hydrologicznych i meteorologicznych”, – w pkt 10 po wyrazach „art. 382 ust. 9” dodaje się wyrazy „ , z uwzględnieniem ust. 2a pkt 7”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Ze środków budżetu państwa w części dotyczącej środowiska będących w dyspozycji ministra właściwego do spraw środowiska finansuje się, w formie dotacji celowej, na zasadach określonych w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych:
+
+- **1)** utrzymywanie bieżącej działalności państwowej służby geologicznej w zakresie realizacji zadań określonych w przepisach ustawy;
+- **2)** utrzymywanie, odbudowę, rozbudowę, przebudowę i rozbiórkę hydrogeologicznych urządzeń pomiarowych państwowej służby geologicznej w zakresie dotyczącym realizacji zadań określonych w przepisach ustawy;
+- **3)** utrzymywanie i rozwój komórek metodycznych;
+- **4)** opracowywanie danych oraz informacji hydrogeologicznych;
+- **5)** opracowywanie i publikowanie ostrzeżeń, ogólnych prognoz, komunikatów, biuletynów, a także roczników hydrogeologicznych;
+- **6)** współpracę z organami administracji publicznej w zakresie ograniczania skutków niebezpiecznych zjawisk zachodzących w atmosferze i hydrosferze, w szczególności zjawiska suszy;
+- **7)** wypłatę odszkodowań, o których mowa w art. 382 ust. 9, w zakresie wynikającym z działalności państwowej służby geologicznej.”;
+- **13)** w art. 387 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
+- **1)** podmioty, którym państwowa służba hydrologiczno-meteorologiczna i państwowa służba geologiczna są obowiązane przekazywać ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki, z wyjątkiem podmiotów, o których mowa w ust. 2a;
+- **2)** sposób i częstotliwość opracowywania oraz przekazywania ostrzeżeń, prognoz, komunikatów, biuletynów lub roczników;
+- **3)** sposób opracowywania oraz przekazywania ostrzeżeń przed suszą hydrologiczną i prognoz hydrologicznych dotyczących suszy hydrologicznej zakładom odprowadzającym ścieki o zwiększonym zasoleniu;
+- **4)** sposoby uzyskiwania potwierdzenia przekazania ostrzeżeń;
+- **5)** charakterystykę stanu hydrologicznego, meteorologicznego oraz hydrogeologicznego.”;
+- **14)** w art. 552:
+    - **a)** uchyla się ust. 3,
+    - **b)** uchyla się ust. 6;
+
+- **15)** uchyla się art. 561;
+- **16)** w art. 574 uchyla się pkt 4.
 
 **Art. 24.** W ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414) w art. 39 w ust. 2 po wyrazach „pkt 2” dodaje się wyrazy „lub 5”.
 
 **Art. 25.** W ustawie z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2021 r. poz. 1538 oraz z 2023 r. poz. 553, 803 i 1688) w art. 7 ust. 14 otrzymuje brzmienie: „14. Wójt (burmistrz, prezydent miasta) nie później niż w terminie 3 dni od dnia zamieszczenia wniosku, o którym mowa w ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej gminy, a jeżeli gmina nie ma strony podmiotowej Biuletynu Informacji Publicznej na stronie internetowej gminy, występuje o uzgodnienie wniosku z:
 
+- **1)** ministrem właściwym do spraw środowiska – w odniesieniu do udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633, 1688 i 2029), oraz uznanych za strategiczne złóż kopalin, o których mowa w art. 10 ust. 3 tej ustawy, a także w odniesieniu do kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji;
+- **2)** właściwym marszałkiem województwa – w odniesieniu do udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, innych niż złoża strategiczne, oraz w odniesieniu do udokumentowanych wód podziemnych;
+- **3)** właściwym wojewódzkim konserwatorem zabytków – w odniesieniu do obszarów i obiektów objętych formami ochrony konserwatorskiej na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951, 1688 i 1904) oraz ujętych w gminnej ewidencji zabytków lub wykazie, o którym mowa w art. 7 ustawy z dnia 18 marca 2010 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie niektórych innych ustaw (Dz. U. poz. 474);
+- **4)** właściwym zarządcą drogi – w zakresie, w jakim projektowana inwestycja przebiega przez nieruchomości wchodzące w skład pasa drogowego, przylega do nieruchomości wchodzących w skład pasa drogowego lub powoduje ograniczenia w sposobie zagospodarowania pasa drogowego.”.
+
 **Art. 26.** W ustawie z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2023 r. poz. 1687 i 1688) w art. 4 w ust. 3:
+
+- **1)** w pkt 2 skreśla się wyraz „geologii,”;
+- **2)** pkt 3 otrzymuje brzmienie: „3) właściwego dyrektora urzędu morskiego oraz ministrów właściwych do spraw: energii, gospodarki, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – w odniesieniu do układania i utrzymywania kabli lub rurociągów na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej; w przypadku gdy kable lub rurociągi będą przebiegały również na odcinku lądowym, inwestor występuje także o opinię właściwego wójta, burmistrza albo prezydenta miasta;”;
+- **3)** w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 w brzmieniu: „19) ministra właściwego do spraw środowiska – w odniesieniu do złóż strategicznych w rozumieniu art. 6 ust. 1 pkt 19a ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.”.
 
 **Art. 27.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2023 r. poz. 1327, 1429, 1723 i 1860) uchyla się art. 15zzzs.
 
 **Art. 28.** Legitymacje służbowe pracowników państwowej służby hydrogeologicznej wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez 24 miesiące od dnia jej wejścia w życie.
 
 **Art. 29.** Do tuneli, o których mowa w art. 2 ust. 1 pkt 4 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, dla których przed dniem wejścia w życie niniejszej ustawy:
+
+- **1)** wszczęto postępowanie o udzielenie zamówienia publicznego na projekt, wykonawstwo albo na projekt i wykonawstwo tunelu lub
+- **2)** złożono wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, lub
+- **3)** złożono wniosek o wydanie decyzji o pozwoleniu na budowę, lub
+- **4)** złożono wniosek o wydanie decyzji o pozwoleniu na użytkowanie – stosuje się przepisy art. 2 ust. 1 pkt 4 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
 **Art. 30.** Do uprawnień, o których mowa w art. 15 ust. 1 ustawy zmienianej w art. 1, oraz do praw, o których mowa w art. 99 ust. 3 tej ustawy, nabytych na podstawie przepisów dotychczasowych, które nie wygasły przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
@@ -987,6 +1321,9 @@ source: "isap-pdf"
 
 **Art. 53.** Ten, kto w dniu wejścia w życie ustawy trudni się szkoleniem osób wykonujących czynności w ruchu zakładu górniczego, jest obowiązany do uzyskania, w terminie roku od dnia wejścia w życie ustawy, decyzji właściwego organu nadzoru górniczego:
 
+- **1)** stwierdzającej posiadanie kadry oraz środków umożliwiających prowadzenie szkoleń;
+- **2)** zatwierdzającej program szkolenia.
+
 **Art. 54.** Do postępowań w sprawie zatwierdzenia programów szkoleń wszczętych na podstawie ustawy zmienianej w art. 1 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
 **Art. 55.** Do postępowań w sprawie wydania decyzji, o których mowa w art. 143 ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
@@ -1119,4 +1456,8 @@ source: "isap-pdf"
 4. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 277 ust. 1 ustawy zmienianej w art. 23 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 277 ust. 1 ustawy zmienianej w art. 23, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy i mogą być zmieniane.
 
 **Art. 76.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 23 pkt 14 i 15, które wchodzą w życie z dniem 31 grudnia 2023 r.;
+- **2)** art. 1 pkt 15 lit. d i e, pkt 16 lit. a tiret pierwsze i drugie, pkt 30 lit. c, pkt 82 lit. c, pkt 99 lit. d, pkt 118 lit. b oraz pkt 121 lit. a i d, art. 3, art. 6 pkt 2, art. 7, art. 8, art. 21 pkt 4 oraz art. 23 pkt 1–13 i 16, które wchodzą w życie z dniem 1 stycznia 2024 r.
+
 

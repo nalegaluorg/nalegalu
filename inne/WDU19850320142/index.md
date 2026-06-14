@@ -8,7 +8,7 @@ pos: 142
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przedsiębiorstwach mieszanych
@@ -170,6 +170,17 @@ source: "isap-pdf"
 5. Wniosek o odwołanie członka rady pracowniczej lub całej rady wymaga pisemnego wniosku jednej piątej liczby wyborców.
 
 **Art. 23.** Do kompetencji rady pracowniczej należy:
+
+- **1)** opiniowanie rocznego planu działalności przedsiębiorstwa oraz projektów zmiany tego planu,
+- **2)** uchwalanie na wniosek zarządu lub dyrektora przedsiębiorstwa regulaminu pracy przedsiębiorstwa,
+- **3)** opiniowanie rocznego sprawozdania zarządu lub dyrektora z działalności przedsiębiorstwa,
+- **4)** wyrażanie opinii w sprawie tworzenia funduszów wygospodarowanych z zysku do podziału,
+- **5)** podejmowanie uchwał w sprawie zasady wykorzystania funduszów socjalnego i mieszkaniowego,
+- **6)** opiniowanie zmian kierunków działalności gospodarczej przedsiębiorstwa,
+- **7)** wyrażanie opinii w sprawie zmiany umowy o utworzeniu przedsiębiorstwa mieszanego lub jej rozwiązania, a także połączenia się przedsiębiorstw mieszanych,
+- **8)** współdziałanie z zarządem lub dyrektorem w ustalaniu sposobów wykonywania zadań wynikających z planu działalności gospodarczej,
+- **9)** uczestniczenie, za pośrednictwem swych przedstawicieli, w zgromadzeniu wspólników i w radzie nadzorczej,
+- **10)** wykonywanie innych czynności określonych w ustawie i statucie samorządu pracowniczego.
 
 **Art. 23a.** Rada pracownicza ma prawo do uzyskiwania informacji i przeprowadzania konsultacji zgodnie z przepisami ustawy z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji (Dz. U. Nr 79, poz. 550).
 

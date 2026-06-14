@@ -8,10 +8,10 @@ pos: 404
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 marca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 404 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 14 marca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,23 +25,23 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/404/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 14 marca 2024 r.
-w sprawie wykazu chorób schorzeń dyskwalifikujących z wykonywania zadań służbowych lub ograniczających ich wykonywanie Na podstawie art. 287 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) zarządza się, co następuje: § 1. 1. Rozporządzenie określa wykaz chorób schorzeń dyskwalifikujących żołnierzy zajmujących stanowiska służbowe, o których mowa w art. 287 ust. 3a ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, z wykonywania zadań służbowych lub ograniczających ich wykonywanie.
-2. Wykaz chorób schorzeń dyskwalifikujących z wykonywania zadań służbowych lub ograniczających ich wykonywanie jest określony w załączniku do rozporządzenia.
+w sprawie wykazu chorób i schorzeń dyskwalifikujących z wykonywania zadań służbowych lub ograniczających ich wykonywanie Na podstawie art. 287 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa wykaz chorób i schorzeń dyskwalifikujących żołnierzy zajmujących stanowiska służbowe, o których mowa w art. 287 ust. 3a ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, z wykonywania zadań służbowych lub ograniczających ich wykonywanie.
+2. Wykaz chorób i schorzeń dyskwalifikujących z wykonywania zadań służbowych lub ograniczających ich wykonywanie jest określony w załączniku do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 28 marca 2024 r.
-Minister Obrony Narodowej: z up. C. Tomczyk WYKAZ CHORÓB I SCHORZEŃ DYSKWALIFIKUJĄCYCH Z WYKONYWANIA ZADAŃ SŁUŻBOWYCH LUB OGRANICZAJĄCYCH ICH WYKONYWANIE CHOROBY, SCHORZENIA A. Zaburzenia psychiczne zaburzenia zachowania
+Minister Obrony Narodowej: z up. C. Tomczyk WYKAZ CHORÓB I SCHORZEŃ DYSKWALIFIKUJĄCYCH Z WYKONYWANIA ZADAŃ SŁUŻBOWYCH LUB OGRANICZAJĄCYCH ICH WYKONYWANIE CHOROBY, SCHORZENIA A. Zaburzenia psychiczne i zaburzenia zachowania
 1. Zaburzenia nerwicowe rokujące poprawę
 2. Zaburzenie stresowe pourazowe rokujące poprawę
-3. Pozytywny wynik badania na obecność substancji psychoaktywnych niż alkohol
-4. Używanie szkodliwe alkoholu lub substancji psychoaktywnych rokujące poprawę
+3. Pozytywny wynik badania na obecność substancji psychoaktywnych innych niż alkohol
+4. Używanie szkodliwe alkoholu lub innych substancji psychoaktywnych rokujące poprawę
 5. Inne zaburzenia psychiczne nieznacznie upośledzające zdolności adaptacyjne rokujące poprawę B. Choroby układu nerwowego
 6. Zespoły bólowe korzeniowe, korzeniowo-nerwowe, splotów nerwowych, nerwobóle pojedynczych lub licznych nerwów rokujące poprawę
 7. Następstwa chorób lub urazów ośrodkowego układu nerwowego z zaburzeniami mózgowo-rdzeniowymi rokujące poprawę
-8. Choroby układu mięśniowego zanik mięśni po przebytych chorobach lub urazach mięśni upośledzające sprawność ustroju C. Choroby oka przydatków oka
+8. Choroby układu mięśniowego i zanik mięśni po przebytych chorobach lub urazach mięśni upośledzające sprawność ustroju C. Choroby oka i przydatków oka
 9. Choroby powiek lub spojówek rokujące poprawę
 10. Upośledzenie wydzielania lub odpływu łez rokujące poprawę
 11. Zaburzenia widzenia rokujące poprawę
-12. Choroby gałki ocznej rokujące poprawę D. Choroby ucha wyrostka sutkowatego
+12. Choroby gałki ocznej rokujące poprawę D. Choroby ucha i wyrostka sutkowatego
 13. Zmiany jednej małżowiny usznej lub obu małżowin usznych rokujące poprawę
 14. Choroby przewodu słuchowego zewnętrznego lub zaburzenia błony bębenkowej rokujące poprawę
 15. Zapalenie ucha środkowego rokujące poprawę
@@ -54,37 +54,38 @@ Minister Obrony Narodowej: z up. C. Tomczyk WYKAZ CHORÓB I SCHORZEŃ DYSKWALIFI
 22. Choroby zastawkowe rokujące poprawę
 23. Inne choroby serca upośledzające trwale sprawność ustroju
 24. Nadciśnienie tętnicze rokujące poprawę
-25. Zespoły pozakrzepowe zakrzepica żył głębokich kończyn dolnych
+25. Zespoły pozakrzepowe i zakrzepica żył głębokich kończyn dolnych
 26. Inne choroby naczyń krwionośnych upośledzające nieznacznie sprawność ustroju F. Choroby układu oddechowego
 27. Przewlekła obturacyjna choroba płuc rokująca poprawę
 28. Astma oskrzelowa rokująca poprawę
 29. Rozstrzenie oskrzeli rokujące poprawę
 30. Pojedyncze zwapnienia lub niewielkie zwłóknienia po przebytym procesie gruźliczym
 31. Śródmiąższowe choroby płuc rokujące poprawę
-32. Czynne choroby opłucnej rokujące poprawę G. Choroby układu trawiennego
+32. Czynne choroby opłucnej rokujące poprawę
+33. Zrosty i zgrubienia opłucnej nieupośledzające sprawności wentylacyjnej płuc G. Choroby układu trawiennego
 34. Choroby przełyku nieznacznie upośledzające sprawność ustroju rokujące poprawę
 35. Przewlekłe zapalenie żołądka, dwunastnicy lub jelit rokujące poprawę
 36. Choroba wrzodowa żołądka lub dwunastnicy rokująca poprawę
 37. Przebyta częściowa resekcja żołądka nieupośledzająca sprawności ustroju
 38. Przebyte zabiegi operacyjne na jelitach mające wpływ na sprawność ustroju
 39. Choroby zapalne dróg żółciowych rokujące poprawę
-40. Kamica pęcherzyka żółciowego dróg żółciowych
+40. Kamica pęcherzyka żółciowego i dróg żółciowych
 41. Przebyta operacja pęcherzyka żółciowego lub dróg żółciowych nieznacznie upośledzająca sprawność ustroju
 42. Nieprawidłowe wartości biochemicznych wskaźników wydolności wątroby do diagnostyki
 43. Zapalenie wątroby rokujące poprawę
 44. Zakażenie HCV
 45. Zakażenie HBV
-46. Przebyte pourazowe toksyczne uszkodzenie wątroby bez upośledzenia jej wydolności
+46. Przebyte pourazowe i toksyczne uszkodzenie wątroby bez upośledzenia jej wydolności
 47. Przebyte operacje wątroby
 48. Choroby trzustki rokujące poprawę
 49. Przebyte operacje trzustki
 50. Przepukliny brzuszne rokujące poprawę
 51. Przepukliny przeponowe rokujące poprawę
-52. Choroby odbytnicy lub okolicy odbytu rokujące poprawę H. Choroby układu kostno-mięśniowego tkanki łącznej
+52. Choroby odbytnicy lub okolicy odbytu rokujące poprawę H. Choroby układu kostno-mięśniowego i tkanki łącznej
 53. Kręcz szyi rokujący poprawę
 54. Zniekształcenie obojczyka nieupośledzające sprawności obręczy barkowej lub nieznacznie upośledzające sprawność obręczy barkowej
 55. Zniekształcenia lub niewielkie ubytki kostne klatki piersiowej nieupośledzające sprawności ustroju
-56. Skolioza wady kręgosłupa rokujące poprawę
+56. Skolioza i wady kręgosłupa rokujące poprawę
 57. Choroba zwyrodnieniowa kręgosłupa rokująca poprawę
 58. Inne choroby kręgosłupa rokujące poprawę
 59. Przebyte złamania kości kończyn bez trwałych następstw
@@ -95,7 +96,7 @@ Minister Obrony Narodowej: z up. C. Tomczyk WYKAZ CHORÓB I SCHORZEŃ DYSKWALIFI
 64. Stan po uszkodzeniu tkanek miękkich narządu ruchu nieupośledzający funkcji ruchowej lub nieznacznie upośledzający funkcję ruchową I. Choroby układu moczowo-płciowego
 65. Kamica układu moczowego rokująca poprawę
 66. Choroby zapalne nerek rokujące poprawę
-67. Krwiomocz białkomocz do diagnostyki
+67. Krwiomocz i białkomocz do diagnostyki
 68. Nieprawidłowe wartości biochemicznych wskaźników wydolności nerek do diagnostyki
 69. Choroby pęcherza moczowego lub dróg moczowych rokujące poprawę
 70. Choroby jąder lub powrózka nasiennego najądrzy rokujące poprawę
@@ -104,24 +105,26 @@ Minister Obrony Narodowej: z up. C. Tomczyk WYKAZ CHORÓB I SCHORZEŃ DYSKWALIFI
 73. Inne choroby, nieprawidłowości lub zaburzenia czynności układu moczowo-płciowego rokujące poprawę
 74. Zaburzenia cyklu miesiączkowego rokujące poprawę
 75. Inne nieprawidłowości narządu rodnego wpływające na sprawność ustroju rokujące poprawę
-76. Stany zapalne narządu rodnego bez zmian anatomicznych rokujące poprawę J. Urazy, zatrucia inne określone skutki działania czynników zewnętrznych
+76. Stany zapalne narządu rodnego bez zmian anatomicznych rokujące poprawę J. Urazy, zatrucia i inne określone skutki działania czynników zewnętrznych
 77. Urazy szyi
 78. Urazy klatki piersiowej
-79. Urazy brzucha, dolnej części grzbietu, kręgosłupa lędźwiowego miednicy
-80. Urazy barku ramienia
-83. Urazy biodra uda
-84. Urazy kolana podudzia
-85. Urazy stawu skokowego stopy
+79. Urazy brzucha, dolnej części grzbietu, kręgosłupa lędźwiowego i miednicy
+80. Urazy barku i ramienia
+81. Urazy łokcia i przedramienia
+82. Urazy nadgarstka i ręki
+83. Urazy biodra i uda
+84. Urazy kolana i podudzia
+85. Urazy stawu skokowego i stopy
 86. Urazy obejmujące liczne okolice ciała
-87. Urazy nieokreślonych części tułowia, kończyn okolicy ciała
+87. Urazy nieokreślonych części tułowia, kończyn i okolicy ciała
 88. Skutki działania ciała obcego wnikającego drogą naturalnych otworów ciała
-89. Oparzenia termiczne chemiczne
-90. Oparzenia termiczne chemiczne zewnętrznej powierzchni ciała, określone co do miejsca
-91. Oparzenia termiczne chemiczne ograniczone do oka narządów wewnętrznych
-92. Oparzenia termiczne chemiczne licznych nieokreślonych okolic ciała
+89. Oparzenia termiczne i chemiczne
+90. Oparzenia termiczne i chemiczne zewnętrznej powierzchni ciała, określone co do miejsca
+91. Oparzenia termiczne i chemiczne ograniczone do oka i narządów wewnętrznych
+92. Oparzenia termiczne i chemiczne licznych i nieokreślonych okolic ciała
 93. Odmrożenie
-94. Zatrucie lekami, środkami farmakologicznymi substancjami biologicznymi
+94. Zatrucie lekami, środkami farmakologicznymi i substancjami biologicznymi
 95. Toksyczne skutki działania substancji zazwyczaj niestosowanych w celach leczniczych
-96. Inne nieokreślone skutki działania czynników zewnętrznych
-97. Następstwa urazów, zatruć skutków działania czynników zewnętrznych
+96. Inne i nieokreślone skutki działania czynników zewnętrznych
+97. Następstwa urazów, zatruć i innych skutków działania czynników zewnętrznych
 

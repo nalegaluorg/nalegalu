@@ -8,10 +8,10 @@ pos: 641
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 czerwca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 641 RozpoRządzenie MinistRa spRaw wewnętRznych z dnia 3 czerwca 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000641) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/641/text.pdf) |
 
-Poz. 641 RozpoRządzenie MinistRa spRaw wewnętRznych z dnia 3 czerwca 2013 r.
 w sprawie pokoju izolacyjnego Na podstawie art. 29 ust. 3 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U.
-poz. 628) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 628) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) warunki, jakim powinien odpowiadać pokój izolacyjny;
 2) okres przechowywania, sposób archiwizowania lub brakowania dokumentacji dotyczącej osób umieszczonych w pokoju izolacyjnym, a także formy tej dokumentacji;
 3) organizację umieszczania cudzoziemca w pokoju izolacyjnym.

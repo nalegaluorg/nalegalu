@@ -8,10 +8,10 @@ pos: 1769
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 października 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1769 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 28 września 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001769) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1769/text.pdf) |
 
-Poz. 1769 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 28 września 2020 r.
-w sprawie przesyłek w głosowaniu korespondencyjnym Na podstawie art. 53j § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2020 r. poz. 1319) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie przesyłek w głosowaniu korespondencyjnym Na podstawie art. 53j § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2020 r. poz. 1319) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy sposób doręczania pakietów wyborczych wyborcom podlegającym w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych;
 2) szczegółowy sposób i tryb odbierania kopert zwrotnych od wyborców niepełnosprawnych, wyborców, którzy najpóźniej w dniu głosowania kończą 60 lat, oraz wyborców podlegających w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, oraz dostarczania ich do obwodowych komisji wyborczych do spraw przeprowadzenia głosowania w obwodzie;
 3) tryb przekazywania pakietów wyborczych właściwemu dyrektorowi delegatury Krajowego Biura Wyborczego, jeżeli przekazanie niedoręczonych pakietów wyborczych do obwodowej komisji wyborczej do spraw przeprowadzenia głosowania w obwodzie, zwanej dalej „obwodową komisją wyborczą”, nie było możliwe do zakończenia głosowania;
@@ -38,7 +38,6 @@ w sprawie przesyłek w głosowaniu korespondencyjnym Na podstawie art. 53j § 1 
 1) najpóźniej w dniu wyborów;
 2) po potwierdzeniu tożsamości wyborcy na podstawie dokumentu tożsamości;
 3) po przekazaniu wyborcy potwierdzenia nadania koperty zwrotnej przez przedstawiciela operatora wyznaczonego.
-Dziennik Ustaw – 2 – Poz. 1769
 2. Przedstawiciel operatora wyznaczonego dokonuje odbioru kopert zwrotnych od wyborców niepełnosprawnych oraz wyborców, którzy najpóźniej w dniu głosowania kończą 60 lat, którzy otrzymali pakiet wyborczy, na podstawie okazanego dokumentu potwierdzającego tożsamość, odnotowując odbiór koperty za pokwitowaniem:
 1) w przedostatnim dniu roboczym poprzedzającym dzień wyborów – w placówce operatora wyznaczonego usytuowanej na obszarze gminy, w której wyborca niepełnosprawny jest ujęty w rejestrze wyborców;
 2) w trzecim dniu roboczym poprzedzającym dzień wyborów – w dowolnej placówce pocztowej operatora wyznaczonego.

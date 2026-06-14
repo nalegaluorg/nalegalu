@@ -8,10 +8,10 @@ pos: 16
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 stycznia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1166 Załączniki do rozporządzenia Ministra Zdrowia z dnia 22 grudnia 2023 r. (poz. ….) Załącznik nr 1 WZORY DOKUMENTÓW: ,,PRAWO WYKONYWANIA ZAWODU PIELĘGNIARKI” ORAZ ,,PRAWO WYKONYWANIA ZAWODU POŁOŻNEJ” WYDAWANYCH W POSTACI SPERSONALIZOWANEJ DWUSTRONNEJ KARTY INDENTYFIKACYJNEJ
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/16/text.pdf) |
 
-ANIA ZAWODU J” ANYCH W POSTA I PERSONALIZOWANE DWUSTRONNEJ K IND NTYFIKACYJ EJ
 1. Wzór Prawa wykonywania zawodu pielęgniarki awers:
 2. Wzór Prawa wykonywania zawodu pielęgniarki rewers:
 3. Wzór Prawo wykonywania zawodu położnej awers:
@@ -45,10 +44,11 @@ ANIA ZAWODU J” ANYCH W POSTA I PERSONALIZOWANE DWUSTRONNEJ K IND NTYFIKACYJ EJ
 3) adnotację o treści odpowiednio: „Prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu pielęgniarki na terytorium Rzeczypospolitej Polskiej” albo „Prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu położnej na terytorium Rzeczypospolitej Polskiej”;
 4) wpis lub adnotacje urzędowe:
 a) „Weryfikacja prawa wykonywania zawodu dostępna na stronie: nipip.pl/weryfikacja-pwz”,
-b) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej na czas określony” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35 ust. 3 ustawy z dnia 15 lipca 2011 r.
+b) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej na czas określony” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35 ust. 3 ustawy z dnia 15 lipca 2011 r.
 o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702, z późn. zm.) albo
-c) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej wyłącznie w określonym zakresie czynności zawodowych, przez określony czas oraz w określonym miejscu zatrudnienia” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35a ust. 6 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, albo
-d) „Dokument jest prawem warunkowym uprawniającym do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej samodzielnie/pod nadzorem innej pielęgniarki/położnej” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35a ust. 18 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+c) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej wyłącznie w określonym zakresie czynności zawodowych, przez określony czas oraz w określonym miejscu zatrudnienia” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35a ust. 6 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, albo
+d) „Dokument jest prawem warunkowym uprawniającym do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej samodzielnie/pod nadzorem innej pielęgniarki/położnej” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35a ust. 18 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+WZORY DOKUMENTÓW: ,,PRAWO WYKONYWANIA ZAWODU PIELĘGNIARKI” ORAZ ,,PRAWO WYKONYWANIA ZAWODU POŁOŻNEJ” UDOSTĘPNIANYCH W POSTACI DOKUMENTU MOBILNEGO
 1. Wzór Prawa wykonywania zawodu pielęgniarki:
 2. Wzór Prawa wykonywania zawodu położnej: Opis wzorów:
 1. Dokumenty „Prawo wykonywania zawodu pielęgniarki” oraz „Prawo wykonywania zawodu położnej” są udostępniane w postaci dokumentu mobilnego.
@@ -63,10 +63,13 @@ d) „Dokument jest prawem warunkowym uprawniającym do wykonywania zawodu piel�
 8) adnotację o treści odpowiednio „Prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu pielęgniarki na terytorium Rzeczypospolitej Polskiej” albo „Prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu położnej na terytorium Rzeczypospolitej Polskiej”;
 9) wpis lub adnotacje urzędowe:
 a) „Weryfikacja prawa wykonywania zawodu dostępna na stronie: nipip.pl/weryfikacja-pwz”,
-b) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej na czas określony” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35 ust. 3 ustawy z dnia 15 lipca 2011 r.
+b) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej na czas określony” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35 ust. 3 ustawy z dnia 15 lipca 2011 r.
 o zawodach pielęgniarki i położnej albo
-c) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej wyłącznie w określonym zakresie czynności zawodowych, przez określony czas oraz w określonym miejscu zatrudnienia” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35a ust. 6 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, albo
-d) „Dokument jest prawem warunkowym uprawniającym do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej samodzielnie/pod nadzorem innej pielęgniarki/położnej” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35a ust. 18 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+c) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej wyłącznie w określonym zakresie czynności zawodowych, przez określony czas oraz w określonym miejscu zatrudnienia” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35a ust. 6 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, albo
+d) „Dokument jest prawem warunkowym uprawniającym do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej samodzielnie/pod nadzorem innej pielęgniarki/położnej” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 35a ust. 18 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+
+## Załącznik nr 3 — WZORY DOKUMENTÓW: ,,OGRANICZONE PRAWO WYKONYWANIA ZAWODU PIELĘGNIARKI” ORAZ ,,OGRANICZONE PRAWO WYKONYWANIA ZAWODU POŁOŻNEJ” WYDAWANYCH W POSTACI DWUSTRONNEJ KARTY IDENTYFIKACYJNEJ
+
 1. Wzór Ograniczonego prawa wykonywania zawodu pielęgniarki awers:
 2. Wzór Ograniczonego prawa wykonywania zawodu pielęgniarki rewers:
 3. Wzór Ograniczonego prawa wykonywania zawodu położnej awers:
@@ -86,7 +89,10 @@ d) „Dokument jest prawem warunkowym uprawniającym do wykonywania zawodu piel�
 3) adnotację o treści odpowiednio: „Ograniczone prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu pielęgniarki na terytorium Rzeczypospolitej Polskiej” albo „Ograniczone prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu położnej na terytorium Rzeczypospolitej Polskiej”;
 4) wpis lub adnotacje urzędowe:
 a) „Weryfikacja prawa wykonywania zawodu dostępna na stronie: nipip.pl/weryfikacja-pwz”,
-b) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej w celu i na czas odbycia stażu adaptacyjnego/kształcenia podyplomowego” w przypadku przyznania ograniczonego prawa wykonywania zawodu na podstawie art. 36 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+b) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej w celu i na czas odbycia stażu adaptacyjnego/kształcenia podyplomowego” – w przypadku przyznania ograniczonego prawa wykonywania zawodu na podstawie art. 36 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+
+## Załącznik nr 4 — WZORY DOKUMENTÓW: ,,OGRANICZONE PRAWO WYKONYWANIA ZAWODU PIELĘGNIARKI” ORAZ ,,OGRANICZONE PRAWO WYKONYWANIA ZAWODU POŁOŻNEJ” UDOSTĘPNIANYCH W POSTACI DOKUMENTU MOBILNEGO
+
 1. Wzór Ograniczonego prawa wykonywania zawodu pielęgniarki:
 2. Wzór Ograniczonego prawa wykonywania zawodu położnej: Opis wzorów:
 1. Dokumenty „Ograniczone prawo wykonywania zawodu pielęgniarki” oraz „Ograniczone prawo wykonywania zawodu położnej” są udostępniane w postaci dokumentu mobilnego.
@@ -101,6 +107,6 @@ b) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na teryto
 8) adnotację o treści odpowiednio „Ograniczone prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu pielęgniarki na terytorium Rzeczypospolitej Polskiej” albo „Ograniczone prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu położnej na terytorium Rzeczypospolitej Polskiej”;
 9) wpis lub adnotacje urzędowe:
 a) „Weryfikacja prawa wykonywania zawodu dostępna na stronie: nipip.pl/weryfikacja-pwz”,
-b) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej w celu i na czas odbycia stażu adaptacyjnego/kształcenia podyplomowego” w przypadku przyznania ograniczonego prawa wykonywania zawodu na podstawie art. 36 ustawy z dnia 15 lipca 2011 r.
+b) „Dokument uprawnia do wykonywania zawodu pielęgniarki/położnej na terytorium Rzeczypospolitej Polskiej w celu i na czas odbycia stażu adaptacyjnego/kształcenia podyplomowego” – w przypadku przyznania ograniczonego prawa wykonywania zawodu na podstawie art. 36 ustawy z dnia 15 lipca 2011 r.
 o zawodach pielęgniarki i położnej.
 

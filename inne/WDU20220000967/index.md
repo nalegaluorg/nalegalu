@@ -8,10 +8,10 @@ pos: 967
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 maja 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 996677 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 29 marca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000967) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/967/text.pdf) |
 
-996677 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 29 marca 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie szczegółowych warunków bezpiecznej pracy ze źródłami promieniowania jonizującego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 12 lipca 2006 r. w sprawie szczegółowych warunków bezpiecznej pracy ze źródłami promieniowania jonizującego (Dz. U. poz. 994), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 30 listopada 2020 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków bezpiecznej pracy ze źródłami promieniowania jonizującego (Dz. U. poz. 2300).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 1 oraz § 2 i § 3 rozporządzenia Rady Ministrów z dnia 30 listopada 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków bezpiecznej pracy ze źródłami promieniowania jonizującego (Dz. U. poz. 2300), które stanowią: „ Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80).” „§ 2. Jednostki organizacyjne, które w dniu wejścia w życie niniejszego rozporządzenia wykonują działalność ze źródłami wysokoaktywnymi, dostosują karty ewidencyjne źródeł wysokoaktywnych do wymogów rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”.
 Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 12 lipca 2006 r.
-w sprawie szczegółowych warunków bezpiecznej pracy ze źródłami promieniowania jonizującego Na podstawie art. 45 ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2021 r. poz. 1941) zarządza się, co następuje:
+w sprawie szczegółowych warunków bezpiecznej pracy ze źródłami promieniowania jonizującego Na podstawie art. 45 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 1941) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wymagania techniczne i wymagania ochrony radiologicznej dotyczące pracowni stosujących źródła promieniotwórcze lub urządzenia zawierające takie źródła oraz wymagania dotyczące urządzeń wytwarzających promieniowanie jonizujące i pracowni stosujących takie urządzenia;
 2) wzory tablic informacyjnych do oznakowania wejść do pracowni, wzór tablicy informacyjnej do oznakowania miejsca przechowywania źródeł promieniotwórczych;
 3) podział pracowni izotopowych z otwartymi źródłami promieniotwórczymi na klasy i kryteria tego podziału;
@@ -41,30 +41,31 @@ w sprawie szczegółowych warunków bezpiecznej pracy ze źródłami promieniowa
 7) dokumenty ewidencji, których kopie stanowią podstawę wpisu do rejestru źródeł wysokoaktywnych, z którymi jest wykonywana działalność związana z narażeniem, oraz innych zamkniętych źródeł promieniotwórczych stosowanych i przechowywanych w jednostkach organizacyjnych wykonujących na podstawie zezwolenia działalność polegającą na stosowaniu lub przechowywaniu źródeł promieniotwórczych lub urządzeń zawierających takie źródła;
 8) częstotliwość przekazywania kopii dokumentów ewidencji Prezesowi Państwowej Agencji Atomistyki, a także okres przechowywania przez niego tych kopii.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) akcelerator urządzenie wytwarzające promieniowanie jonizujące w wyniku przyspieszania cząstek naładowanych, w szczególności: przyspieszacz liniowy, betatron, cyklotron, generator neutronów;
-2) aparat rentgenowski aparat lub zestaw składający się z urządzeń przeznaczonych do wytwarzania i wykorzystywania promieniowania rentgenowskiego, w którym źródłem promieniowania jonizującego jest lampa rentgenowska;
-3) grupy izotopów grupy, na które dzieli się izotopy promieniotwórcze w zależności od wartości skutecznej dawki obciążającej dla pracowników przy jednostkowym wniknięciu izotopu do organizmu drogą oddechową;
+1) akcelerator – urządzenie wytwarzające promieniowanie jonizujące w wyniku przyspieszania cząstek naładowanych, w szczególności: przyspieszacz liniowy, betatron, cyklotron, generator neutronów;
+2) aparat rentgenowski – aparat lub zestaw składający się z urządzeń przeznaczonych do wytwarzania i wykorzystywania promieniowania rentgenowskiego, w którym źródłem promieniowania jonizującego jest lampa rentgenowska;
+3) grupy izotopów – grupy, na które dzieli się izotopy promieniotwórcze w zależności od wartości skutecznej dawki obciążającej dla pracowników przy jednostkowym wniknięciu izotopu do organizmu drogą oddechową;
 4) (uchylony);
-5) pomieszczenie do napromieniania pomieszczenie, w którym w celu napromieniania jest wyprowadzana wiązka promieniowania z zainstalowanego akceleratora, aparatu rentgenowskiego lub urządzenia zawierającego zamknięte źródło promieniotwórcze, oraz pomieszczenie, w którym w celu napromieniania jest wyprowadzane źródło promieniotwórcze z urządzenia zawierającego zamknięte źródło promieniotwórcze;
-6) pomieszczenie terapeutyczne pomieszczenie do napromieniania, w którym wyprowadzana wiązka promieniowania lub wyprowadzane źródło promieniotwórcze są wykorzystywane do prowadzenia leczenia promieniowaniem jonizującym;
+5) pomieszczenie do napromieniania – pomieszczenie, w którym w celu napromieniania jest wyprowadzana wiązka promieniowania z zainstalowanego akceleratora, aparatu rentgenowskiego lub urządzenia zawierającego zamknięte źródło promieniotwórcze, oraz pomieszczenie, w którym w celu napromieniania jest wyprowadzane źródło promieniotwórcze z urządzenia zawierającego zamknięte źródło promieniotwórcze;
+6) pomieszczenie terapeutyczne – pomieszczenie do napromieniania, w którym wyprowadzana wiązka promieniowania lub wyprowadzane źródło promieniotwórcze są wykorzystywane do prowadzenia leczenia promieniowaniem jonizującym;
 7) (uchylony);
 8) (uchylony);
 9) (uchylony);
 10) (uchylony);
-11) sterownia pomieszczenie, z którego kieruje się zdalnie pracą akceleratora, aparatu rentgenowskiego lub urządzenia zawierającego zamknięte źródło promieniotwórcze;
-12) śluza sanitarno-dozymetryczna wydzielony teren pracowni izotopowej z otwartymi źródłami promieniotwórczymi, wyposażony w stacjonarny przyrząd dozymetryczny i urządzenia sanitarne (umywalkę, a jeżeli wymagają tego prowadzone prace, również natrysk), przystosowany do usuwania zewnętrznych skażeń promieniotwórczych z powierzchni ciała ludzkiego, ze środków ochrony indywidualnej oraz do zmiany odzieży i obuwia roboczego;
-13) świadectwo źródła dokumentację źródła promieniotwórczego, sporządzoną przez producenta tego źródła;
-14) świadectwo wyjściowego materiału promieniotwórczego dokumentację wyjściowego materiału promieniotwórczego, sporządzoną przez producenta tego materiału;
-15) wyjściowy materiał promieniotwórczy materiał tarczowy po aktywacji lub inny materiał wykorzystywany do produkcji źródeł promieniotwórczych;
-16) zezwolenie zezwolenie na wykonywanie działalności związanej z narażeniem na promieniowanie jonizujące, o którym mowa w art. 4 ust. 1 ustawy z dnia 29 listopada 2000 r. Prawo atomowe.
+11) sterownia – pomieszczenie, z którego kieruje się zdalnie pracą akceleratora, aparatu rentgenowskiego lub urządzenia zawierającego zamknięte źródło promieniotwórcze;
+12) śluza sanitarno-dozymetryczna – wydzielony teren pracowni izotopowej z otwartymi źródłami promieniotwórczymi, wyposażony w stacjonarny przyrząd dozymetryczny i urządzenia sanitarne (umywalkę, a jeżeli wymagają tego prowadzone prace, również natrysk), przystosowany do usuwania zewnętrznych skażeń promieniotwórczych z powierzchni ciała ludzkiego, ze środków ochrony indywidualnej oraz do zmiany odzieży i obuwia roboczego;
+13) świadectwo źródła – dokumentację źródła promieniotwórczego, sporządzoną przez producenta tego źródła;
+14) świadectwo wyjściowego materiału promieniotwórczego – dokumentację wyjściowego materiału promieniotwórczego, sporządzoną przez producenta tego materiału;
+15) wyjściowy materiał promieniotwórczy – materiał tarczowy po aktywacji lub inny materiał wykorzystywany do produkcji źródeł promieniotwórczych;
+16) zezwolenie – zezwolenie na wykonywanie działalności związanej z narażeniem na promieniowanie jonizujące, o którym mowa w art. 4 ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe.
 § 3. Bezpieczeństwo pracy ze źródłami promieniowania jonizującego wymaga przestrzegania zasady ograniczenia narażenia przez skracanie czasu narażenia, zwiększanie odległości od źródła promieniowania jonizującego, ograniczanie pola tego promieniowania i eliminowanie skażeń promieniotwórczych, w szczególności przez:
 1) stosowanie wyposażenia i sprzętu zgodnie z ich przeznaczeniem oraz zaleceniami producenta;
 2) stosowanie środków ochrony indywidualnej;
 3) dopuszczanie do pracy na poszczególnych stanowiskach pracy osób przeszkolonych i posiadających uprawnienia wymagane do pracy na tych stanowiskach;
 4) stałą kontrolę stosowanych procedur oraz bieżącą kontrolę i konserwację eksploatowanych urządzeń.
+§ 4. Przepisów niniejszego rozdziału nie stosuje się do aparatów rentgenowskich do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych oraz pracowni stosujących takie aparaty.
 § 5. 1. Stopień osłabienia promieniowania jonizującego przez ściany zewnętrzne i stropy pracowni zapobiega otrzymaniu przez osoby z ogółu ludności w ciągu kolejnych 12 miesięcy dawki skutecznej (efektywnej) promieniowania jonizującego, związanej z prowadzeniem działalności z promieniowaniem jonizującym w pracowni, przekraczającej:
 1) 0,1 milisiwerta (mSv) w przypadku pracowni zlokalizowanej w budynku mieszkalnym albo w budynku zamieszkania zbiorowego,
-2) 0,3 milisiwerta (mSv) w przypadku pozostałych pracowni
+2) 0,3 milisiwerta (mSv) w przypadku pozostałych pracowni – z uwzględnieniem czasu narażenia tych osób, rodzaju prowadzonych w pracowni prac i rodzaju stosowanych osłon.
 2. Pracownię wyposaża się, zależnie od rodzaju prowadzonych prac, w:
 1) sprzęt dozymetryczny dostosowany do używanych źródeł promieniowania jonizującego;
 2) stałe lub ruchome osłony przed promieniowaniem jonizującym;
@@ -90,7 +91,7 @@ a w zależności od rodzaju prac prowadzonych w pracowni także:
 11) rejestr dawek indywidualnych promieniowania jonizującego otrzymanych przez pracowników.
 8. Osoby biorące udział w pracach prowadzonych w pracowni wyposaża się w:
 1) środki ochrony indywidualnej właściwe dla prowadzonych prac;
-2) akustyczne indywidualne sygnalizatory promieniowania jonizującego w przypadku szczególnym, gdy prace prowadzone w pracowni mogą spowodować przekroczenie limitu użytkowego dawki (ogranicznika dawki) ustalonego w zezwoleniu.
+2) akustyczne indywidualne sygnalizatory promieniowania jonizującego – w przypadku szczególnym, gdy prace prowadzone w pracowni mogą spowodować przekroczenie limitu użytkowego dawki (ogranicznika dawki) ustalonego w zezwoleniu.
 9. Pracownie izotopowe lokalizuje się w pomieszczeniach zabezpieczonych przed zalaniem wodą w budynkach zaliczonych co najmniej do klasy D odporności pożarowej, przy czym pomieszczenia, w których są przechowywane źródła i odpady promieniotwórcze, lokalizuje się w budynkach zaliczonych co najmniej do klasy B odporności pożarowej.
 § 6. W przypadku pracowni izotopowej z zamkniętymi źródłami promieniotwórczymi oraz pracowni izotopowej z urządzeniami zawierającymi źródła promieniotwórcze (pracownie klasy Z):
 1) powierzchnia pomieszczenia, w którym są prowadzone prace ze źródłami promieniotwórczymi, nie może być mniejsza niż 10 m , przy czym w pracowni klasy Z przeznaczonej do celów medycznych powierzchnia pomieszczenia terapeutycznego nie może być mniejsza niż 20 m ;
@@ -109,7 +110,7 @@ a w zależności od rodzaju prac prowadzonych w pracowni także:
 2) pracowniach akceleratorowych i rentgenowskich, z wyjątkiem weterynaryjnych pracowni rentgenowskich, stosuje się system uniemożliwiający włączenie zasilania aparatu rentgenowskiego lub akceleratora wysokim napięciem przy otwartych drzwiach do pomieszczenia do napromieniania;
 3) w pracowniach klasy Z stosuje się system powodujący umieszczenie źródeł w pozycji ochronnej, przy otwieraniu drzwi do pomieszczenia do napromieniania.
 7. Przepisu ust. 3 nie stosuje się do pomieszczenia weterynaryjnej pracowni rentgenowskiej, w którym jest zainstalowany aparat rentgenowski, jeżeli w pomieszczeniu tym występuje także inny niż promieniowanie jonizujące szkodliwy dla zdrowia czynnik środowiska pracy.
-§ 8. 1. Powierzchnia pomieszczenia weterynaryjnej pracowni rentgenowskiej wykonującej badania małych zwierząt, w którym jest zainstalowany aparat rentgenowski, ma zapewnić, żeby przy typowym badaniu diagnostycznym w przypadku aparatu przenośnego lub przy zawieszonej głowicy i wiązce skierowanej w dół źródło promieniowania znajdowało się co najmniej 1 m od najbliższej ściany.
+§ 8. 1. Powierzchnia pomieszczenia weterynaryjnej pracowni rentgenowskiej wykonującej badania małych zwierząt, w którym jest zainstalowany aparat rentgenowski, ma zapewnić, żeby przy typowym badaniu diagnostycznym – w przypadku aparatu przenośnego lub przy zawieszonej głowicy i wiązce skierowanej w dół – źródło promieniowania znajdowało się co najmniej 1 m od najbliższej ściany.
 2. Powierzchnia pomieszczenia weterynaryjnej pracowni rentgenowskiej dla zwierząt większych, w którym jest zainstalowany aparat rentgenowski, ma zapewnić, żeby źródło promieniowania znajdowało się co najmniej 1,5 m od najbliższej ściany.
 § 9. W urządzeniach wytwarzających promieniowanie jonizujące niewykorzystywane do celów diagnostycznych, terapeutycznych lub zastosowań naukowych i technicznych, emitowane przez lampy próżniowe wzbudzane przez napięcie przekraczające 5 kV, moc dawki tego promieniowania w odległości 0,05 m od dowolnej dostępnej powierzchni urządzenia nie może przekraczać 5 mikrogrejów na godzinę (μGy/h).
 § 10. 1. Aparaty rentgenowskie oraz akceleratory:
@@ -122,8 +123,8 @@ a w zależności od rodzaju prac prowadzonych w pracowni także:
 § 11. 1. Budowa aparatów rentgenowskich zapewnia:
 1) możliwość zamontowania ograniczników promieniowania odpowiadających przeznaczeniu aparatu rentgenowskiego;
 2) ograniczenie mocy dawki promieniowania przy zamkniętym okienku wiązki promieniowania i przy najwyższych parametrach eksploatacji podanych przez producenta do wartości, która nie przekracza:
-a) 25 μGy/h w odległości 0,5 m od ogniska lampy dla aparatów rentgenowskich stosowanych do dyfrakcji promieni rentgenowskich, mikroradiografii i rentgenowskiej analizy spektralnej,
-b) 2,5 mGy/h, dla napięcia do 200 kV włącznie, lub 10 mGy/h, dla napięcia powyżej 200 kV, w odległości 1 m od ogniska lampy dla pozostałych rodzajów aparatów rentgenowskich;
+a) 25 μGy/h w odległości 0,5 m od ogniska lampy – dla aparatów rentgenowskich stosowanych do dyfrakcji promieni rentgenowskich, mikroradiografii i rentgenowskiej analizy spektralnej,
+b) 2,5 mGy/h, dla napięcia do 200 kV włącznie, lub 10 mGy/h, dla napięcia powyżej 200 kV, w odległości 1 m od ogniska lampy – dla pozostałych rodzajów aparatów rentgenowskich;
 3) dla aparatów rentgenowskich, w których obudowa ochronna osłania lampę rentgenowską oraz napromieniany obiekt, ograniczenie mocy dawki w odległości 0,1 m od dostępnej powierzchni obudowy do wartości, która nie przekracza:
 a) 7,5 μGy/h (aparaty rentgenowskie w pełni ochronne),
 b) 25 μGy/h (aparaty rentgenowskie o wysokiej ochronności).
@@ -180,13 +181,15 @@ c) wyrzut powietrza na wysokości co najmniej 1 m ponad kalenicą budynku pracow
 1) zapewnia się spełnienie wymagań określonych dla pracowni izotopowej klasy II, z tym że pracownia klasy I może być zlokalizowana tylko w obiekcie budowlanym, który nie jest budynkiem mieszkalnym ani budynkiem zamieszkania zbiorowego;
 2) źródła i odpady promieniotwórcze przechowuje się oddzielnie, w wydzielonych magazynach, o wentylacji mechanicznej nawiewno-wyciągowej zapewniającej w czasie przebywania tam pracowników co najmniej 6-krotną wymianę powietrza w ciągu godziny, przy czym włączenie wentylacji następuje co najmniej 10 minut przed wejściem pracowników do magazynu.
 § 17. W przypadku pracowni, w których są stosowane źródła promieniowania jonizującego w celach medycznych, wymaga się dodatkowo spełniania odpowiednich wymagań ogólnych, określonych w przepisach dotyczących pomieszczeń i urządzeń zakładów opieki zdrowotnej.
+§ 18. 1. Źródła promieniotwórcze, urządzenia zawierające takie źródła oraz urządzenia wytwarzające promieniowanie jonizujące mogą być stosowane poza pracownią, jeżeli:
 1) są zainstalowane na terenie jednostki organizacyjnej w sposób uniemożliwiający niekontrolowane narażenie osób i środowiska lub
 2) zachodzi konieczność prowadzenia prac w terenie, a ochrona radiologiczna nie wymaga zastosowania stałych osłon przed promieniowaniem jonizującym i izolowania miejsc stosowania źródeł promieniowania jonizującego od otoczenia.
 2. W warunkach, o których mowa w ust. 1 pkt 2:
 1) w przypadku prac wymagających stosowania otwartych źródeł promieniotwórczych, przed rozpoczęciem prac uzyskuje się zgodę właściciela lub administratora terenu, na którym prace mają być prowadzone, oraz zawiadamia się o nich właściwego państwowego inspektora sanitarnego;
 2) w razie możliwości przekroczenia limitu użytkowego dawki (ogranicznika dawki) ustalonego w zezwoleniu osoby biorące udział w pracach wyposaża się w akustyczne indywidualne sygnalizatory promieniowania jonizującego;
 3) wszystkie czynności związane ze stosowaniem otwartych źródeł promieniotwórczych wykonuje się w obecności inspektora ochrony radiologicznej;
-4) w razie konieczności magazynowania źródeł i odpadów promieniotwórczych poza pracownią przechowuje się je na terenie nadzorowanym zabezpieczonym na zasadach określonych w przepisach przeciwpożarowych oraz zabezpieczonym przed zalaniem wodą i dostępem osób postronnych, stosując wymagania, o których mowa w § 5 ust. 4–6.
+4) w razie konieczności magazynowania źródeł i odpadów promieniotwórczych poza pracownią – przechowuje się je na terenie nadzorowanym zabezpieczonym na zasadach określonych w przepisach przeciwpożarowych oraz zabezpieczonym przed zalaniem wodą i dostępem osób postronnych, stosując wymagania, o których mowa w § 5 ust. 4–6.
+§ 19. 1. Kontrola źródeł promieniotwórczych obejmuje sprawdzenie, nie rzadziej niż raz na rok kalendarzowy:
 1) zgodności stanu źródeł z dokumentami ewidencji źródeł promieniotwórczych;
 2) szczelności zamkniętych źródeł promieniotwórczych;
 3) warunków stosowania i przechowywania źródeł promieniotwórczych;
@@ -197,7 +200,7 @@ c) wyrzut powietrza na wysokości co najmniej 1 m ponad kalenicą budynku pracow
 2) w przypadku zamkniętego źródła promieniotwórczego:
 a) numer źródła lub numer świadectwa źródła,
 b) typ urządzenia zawierającego źródło promieniotwórcze podlegające kontroli, jeżeli źródło znajduje się w urządzeniu;
-3) w przypadku otwartego źródła promieniotwórczego numer świadectwa otwartego źródła promieniotwórczego;
+3) w przypadku otwartego źródła promieniotwórczego – numer świadectwa otwartego źródła promieniotwórczego;
 4) ustalenia kontroli;
 5) nazwę i adres jednostki organizacyjnej oraz imię i nazwisko osoby, która przeprowadziła kontrolę;
 6) imię i nazwisko oraz podpis kierownika jednostki organizacyjnej.
@@ -229,31 +232,47 @@ b) typ urządzenia zawierającego źródło promieniotwórcze podlegające kontr
 3) niezwłocznie po przekazaniu źródła innej jednostce organizacyjnej;
 4) niezwłocznie na żądanie Prezesa Państwowej Agencji Atomistyki;
 5) co roku w terminie do dnia 31 stycznia.
-5. Kopie kart ewidencyjnych, o których mowa w ust. 3 i 4, stanowią podstawę wpisu do rejestru, o którym mowa w art. 43c ust. 1 ustawy z dnia 29 listopada 2000 r. Prawo atomowe.
+5. Kopie kart ewidencyjnych, o których mowa w ust. 3 i 4, stanowią podstawę wpisu do rejestru, o którym mowa w art. 43c ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe.
 6. W przypadku zakończenia działalności przez jednostkę organizacyjną kierownik tej jednostki niezwłocznie przekazuje Prezesowi Państwowej Agencji Atomistyki karty ewidencyjne, o których mowa w § 21 ust. 1–3 i 5.
 7. Prezes Państwowej Agencji Atomistyki przechowuje kopie kart ewidencyjnych, o których mowa w ust. 3 i 4, oraz karty ewidencyjne, o których mowa w ust. 6, przez okres 30 lat od dnia ich otrzymania.
 § 23. Traci moc rozporządzenie Rady Ministrów z dnia 17 grudnia 2002 r. w sprawie szczegółowych warunków bezpiecznej pracy ze źródłami promieniowania jonizującego (Dz. U. poz. 2029).
 § 24. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+do rozporządzenia Rady Ministrów z dnia 12 lipca 2006 r.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Wymagania techniczne i wymagania ochrony radiologicznej dotyczące pracowni stosujących źródła promieniotwórcze lub urządzenia zawierające takie źródła oraz wymagania dotyczące urządzeń wytwarzających promieniowanie jonizujące i pracowni stosujących takie urządzenia § 4. Przepisów niniejszego rozdziału nie stosuje się do aparatów rentgenowskich do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych oraz pracowni stosujących takie aparaty.
+#### Rozdział 2 Wymagania techniczne i wymagania ochrony radiologicznej dotyczące pracowni stosujących źródła promieniotwórcze lub urządzenia zawierające takie źródła oraz wymagania dotyczące urządzeń wytwarzających promieniowanie jonizujące i pracowni stosujących takie urządzenia
 
-#### Rozdział 3 Wymagania dotyczące pracy ze źródłami promieniotwórczymi, urządzeniami zawierającymi takie źródła oraz urządzeniami wytwarzającymi promieniowanie jonizujące, stosowanymi poza pracowniami stosującymi źródła promieniotwórcze, urządzenia zawierające takie źródła lub urządzenia wytwarzające promieniowanie jonizujące § 18. 1. Źródła promieniotwórcze, urządzenia zawierające takie źródła oraz urządzenia wytwarzające promieniowanie jonizujące mogą być stosowane poza pracownią, jeżeli:
+#### Rozdział 3 Wymagania dotyczące pracy ze źródłami promieniotwórczymi, urządzeniami zawierającymi takie źródła oraz urządzeniami wytwarzającymi promieniowanie jonizujące, stosowanymi poza pracowniami stosującymi źródła promieniotwórcze, urządzenia zawierające takie źródła lub urządzenia wytwarzające promieniowanie jonizujące
 
-#### Rozdział 4 Kontrola źródeł promieniowania jonizującego oraz ewidencja źródeł promieniotwórczych § 19. 1. Kontrola źródeł promieniotwórczych obejmuje sprawdzenie, nie rzadziej niż raz na rok kalendarzowy:
+#### Rozdział 4 Kontrola źródeł promieniowania jonizującego oraz ewidencja źródeł promieniotwórczych
 
-## Załącznik nr 3 — KLASY PRACOWNI IZOTOPOWYCH Z OTWARTYMI ŹRÓDŁAMI PROMIENIOTWORCZYMI W ZALEŻNOŚCI OD AKTYWNOŚCI STOSOWANYCH JEDNOCZEŚNIE W PRACOWNI IZOTOPÓW PROMIENIOTWÓRCZYCH I ICH PRZYNALEŻNOŚCI DO GRUPY IZOTOPÓW Klasa pracowni I II III Grupa izotopów Aktywność stosowanych jednocześnie w pracowni izotopów promieniotwórczych MBq MBq MBq 1 powyżej 1 000 powyżej 1 do 1 000 do 1 2 powyżej 10 000 powyżej 10 do 10 000 do 10 3 powyżej 100 000 powyżej 100 do 100 000 do 100 4 powyżej 1 000 000 powyżej 1 000 do 1 000 000 do 1 000 Objaśnienia:
+## Załącznik nr 1 — WZORY TABLIC INFORMACYJNYCH DO OZNAKOWANIA WEJŚĆ DO PRACOWNI WZORY TABLIC INFORMACYJNYCH DO OZNAKOWANIA WEJŚĆ DO PRACOWNI
 
-1. W przypadku pracowni przeznaczonej do prac z izotopami promieniotwórczymi różnych grup izotopów klasę pracowni określa się, porównując aktywność obliczoną według wzoru: A = A + 0,1 A + 0,01 A + 0,001 A gdzie A , A , A , A stosowana jednocześnie maksymalna aktywność izotopów odpowiednio 1, 2, 3 lub 4 grupy izotopów z aktywnością 1 grupy izotopów przewidzianą dla poszczególnych klas pracowni.
-2. W zależności od rodzaju wykonywanych czynności z substancjami promieniotwórczymi aktywność stosowanych jednocześnie w pracowni izotopów promieniotwórczych może być zwiększona lub zmniejszona bez zmiany klasy pracowni, poprzez pomnożenie przez współczynnik: Określenie czynności Współczynnik Magazynowanie 100 Diagnostyka lekarska 100 Bardzo proste czynności na mokro 10 Normalne czynności chemiczne 1 Skomplikowane czynności na mokro z prawdopodobieństwem rozlania i proste 0,1 czynności na sucho z możliwością pylenia Skomplikowane czynności na sucho z możliwością pylenia 0,01 KLASY PRACOWNI IZOTOPOWYCH Z OTWARTYMI ŹRÓDŁAMI PROMIENIOTWÓRCZYMI W ZALEŻNOŚCI OD AKTYWNOŚCI STOSOWANYCH JEDNOCZEŚNIE W PRACOWNI IZOTOPÓW PROMIENIOTWÓRCZYCH I ICH PRZYNALEŻNOŚCI DO GRUPY IZOTOPÓW Załącznik nr 4 GRUPY IZOTOPÓW PROMIENIOTWÓRCZYCH Grupa izotopów Izotop promieniotwórczy 1 GRUPY IZOTOPÓW PROMIENIOTWÓRCZYCH W W W M M W W W M W W W W M W Załącznik nr 7 WZÓR KARTA EWIDENCYJNA OTWARTEGO ŹRÓDŁA PROMIENIOTWÓRCZEGO WZÓR Załącznik nr 8 WZÓR ..............................................................
+1. Wzór tablicy informacyjnej do oznakowania wejścia do pracowni izotopowej klasy Z* * Wymiary podano w milimetrach.
+2. Wzór tablicy informacyjnej do oznakowania wejścia do pracowni akceleratorowej* * Wymiary jak w tablicy informacyjnej 1.
+3. Wzór tablicy informacyjnej do oznakowania wejścia do pracowni rentgenowskiej* * Wymiary jak w tablicy informacyjnej 1.
+4. Wzory tablic informacyjnych do oznakowania wejść do pracowni izotopowych z otwartymi źródłami promieniotwórczymi* a.
+* Wymiary jak w tablicy informacyjnej 1.
+b.
+* Wymiary jak w tablicy informacyjnej 1.
+c.
+* Wymiary jak w tablicy informacyjnej 1.
+
+## Załącznik nr 2 — WZÓR TABLICY INFORMACYJNEJ DO OZNAKOWANIA MIEJSCA PRZECHOWYWANIA ŹRÓDEŁ PROMIENIOTWÓRCZYCH WZÓR TABLICY INFORMACYJNEJ DO OZNAKOWANIA MIEJSCA PRZECHOWYWANIA ŹRÓDEŁ PROMIENIOTWÓRCZYCH* MAGAZYN ŹRÓDEŁ PROMIENIOTWÓRCZYCH  Wymiary podano w milimetrach.
+
+## Załącznik nr 3 — KLASY KLASY PRACOWNI PRACOWNI IZOTOPOWYCH IZOTOPOWYCH Z OTWARTYMI Z OTWARTYMI ŹRÓDŁAMI PROMIENIOTWÓRCZYMI ŹRÓDŁAMI PROMIENIOTWORCZYMI W ZALEŻNOŚCI OD AKTYWNOŚCI W ZALEŻNOŚCI STOSOWANYCH OD AKTYWNOŚCI JEDNOCZEŚNIE STOSOWANYCH W PRACOWNI JEDNOCZEŚNIE IZOTOPÓW PROMIENIOTWÓRCZYCH W PRACOWNI IZOTOPÓW I ICH PRZYNALEŻNOŚCI PROMIENIOTWÓRCZYCH DO GRUPY IZOTOPÓW I ICH PRZYNALEŻNOŚCI DO GRUPY IZOTOPÓW Klasa pracowni I II III Grupa izotopów Aktywność stosowanych jednocześnie w pracowni izotopów promieniotwórczych MBq MBq MBq 1 powyżej 1 000 powyżej 1 do 1 000 do 1 2 powyżej 10 000 powyżej 10 do 10 000 do 10 3 powyżej 100 000 powyżej 100 do 100 000 do 100 4 powyżej 1 000 000 powyżej 1 000 do 1 000 000 do 1 000 Objaśnienia:
+
+1. W przypadku pracowni przeznaczonej do prac z izotopami promieniotwórczymi różnych grup izotopów klasę pracowni określa się, porównując aktywność obliczoną według wzoru: A = A + 0,1 A + 0,01 A + 0,001 A gdzie A , A , A , A – stosowana jednocześnie maksymalna aktywność izotopów odpowiednio 1, 2, 3 lub 4 grupy izotopów z aktywnością 1 grupy izotopów przewidzianą dla poszczególnych klas pracowni.
+2. W zależności od rodzaju wykonywanych czynności z substancjami promieniotwórczymi aktywność stosowanych jednocześnie w pracowni izotopów promieniotwórczych może być zwiększona lub zmniejszona bez zmiany klasy pracowni, poprzez pomnożenie przez współczynnik: Określenie czynności Współczynnik Magazynowanie 100 Diagnostyka lekarska 100 Bardzo proste czynności na mokro 10 Normalne czynności chemiczne 1 Skomplikowane czynności na mokro z prawdopodobieństwem rozlania i proste 0,1 czynności na sucho z możliwością pylenia Skomplikowane czynności na sucho z możliwością pylenia 0,01 Załącznik nr 4 GRUPY GRUPY IZOTOPÓW IZOTOPÓW PROMIENIOTWÓRCZYCH PROMIENIOTWÓRCZYCH Grupa Izotop promieniotwórczy izotopów 1 W W W W M M M W W W W W M W W Załącznik nr 7 WZÓR WZÓR KARTA EWIDENCYJNA OTWARTEGO ŹRÓDŁA PROMIENIOTWÓRCZEGO Załącznik nr 8 WZÓR WZÓR ..............................................................
 KARTA EWIDENCYJNA RUCHU OTWARTEGO ŹRÓDŁA PROMIENIOTWÓRCZEGO ...............................................................
-WZÓR Załącznik nr 9 WZÓR ...............................................................
-KARTA EWIDENCYJNA ZAMKNIĘTEGO ŹRÓDŁA PROMIENIOTWÓRCZEGO Data przychodu Izotop promieniotwórczy Aktywność oraz data jej określenia Typ źródła Numer świadectwa źródła i numer źródła Numer zezwolenia Nazwa i adres producenta Nazwa i adres dostawcy Miejsce przechowywania lub zainstalowania Typ i numer pojemnika magazynowego lub roboczego Pomiar szczelności data wynik numer protokołu nazwa i adres instytucji przejmującej Zdjęto z ewidencji numer i data dokumentu przekazania Imię, nazwisko i podpis osoby, która dokonała wpisu w karcie, oraz data wpisu WZÓR Załącznik nr 10 WZÓR .........................................................
+
+## Załącznik nr 9 — WZÓR WZÓR ...............................................................
+
+KARTA EWIDENCYJNA ZAMKNIĘTEGO ŹRÓDŁA PROMIENIOTWÓRCZEGO Data przychodu Izotop promieniotwórczy Aktywność oraz data jej określenia Typ źródła Numer świadectwa źródła i numer źródła Numer zezwolenia Nazwa i adres producenta Nazwa i adres dostawcy Miejsce przechowywania lub zainstalowania Typ i numer pojemnika magazynowego lub roboczego data Pomiar szczelności wynik numer protokołu nazwa i adres instytucji przejmującej Zdjęto z ewidencji numer i data dokumentu przekazania Imię, nazwisko i podpis osoby, która dokonała wpisu w karcie, oraz data wpisu WZÓR Załącznik nr 10 WZÓR .........................................................
 KARTA EWIDENCYJNA RUCHU ZAMKNIĘTEGO ŹRÓDŁA PROMIENIOTWÓRCZEGO ..............................................................................................
-Pobrano Zwrot Lp. Data typ nr fabryczny miejsce imię imię Uwagi urządzenia, podpis data i nazwisko urządzenia stosowania i nazwisko pojemnika przyjmującego 1 2 3 4 5 6 7 8 9 10 WZÓR Załącznik nr 12 WZÓR ..........................................................
+Pobrano Zwrot Lp. Data typ nr fabryczny miejsce imię imię Uwagi urządzenia, podpis data i nazwisko urządzenia stosowania i nazwisko pojemnika przyjmującego 1 2 3 4 5 6 7 8 9 10 W W W Załącznik nr 12 WZÓR WZÓR ..........................................................
 KARTA EWIDENCYJNA POSIADANYCH ZAMKNIĘTYCH ŹRÓDEŁ PROMIENIOTWÓRCZYCH WEDŁUG STANU NA DZIEŃ 31 grudnia 20... r.
 Aktywność Data Typ pojemnika Miejsce Izotop według Nr świadectwa, Lp. określenia lub nazwa użytkowania lub promieniotwórczy świadectwa nr i typ źródła aktywności urządzenia magazynowania źródła 1 2 3 4 5 6 7 Kierownik jednostki organizacyjnej: .......................................................
 Inspektor ochrony radiologicznej: ....................................................................
-WZÓR
 

@@ -8,10 +8,10 @@ pos: 517
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 551177 Załącznik do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 marca 2023 r. (Dz. U. poz. …) PROGRAM MAJĄCY NA CELU WCZESNE WYKRYCIE ZAKAŻEŃ WIRUSEM WYWOŁUJĄCYM AFRYKAŃSKI POMÓR ŚWIŃ I POSZERZENIE WIEDZY NA TEMAT TEJ CHOROBY ORAZ JEJ ZWALCZANIE
 
 | Pole | Wartość |
 |---|---|
@@ -25,22 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000517) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/517/text.pdf) |
 
-551177 2 PROGRAM MAJĄCY NA CELU WCZESNE WYKRYCIE ZAKAŻEŃ WIRUSEM WYWOŁUJĄCYM AFRYKAŃSKI POMÓR ŚWIŃ I POSZERZENIE WIEDZY NA TEMAT TEJ CHOROBY ORAZ JEJ ZWALCZANIE
-1. Identyfikacja programu mającego na celu wczesne wykrycie zakażeń wirusem wywołującym afrykański pomór świń i poszerzenie wiedzy na temat tej choroby oraz jej zwalczanie Państwo członkowskie: Rzeczpospolita Polska Choroba: afrykański pomór świń (African swine fever ASF) Okres realizacji: 1 stycznia 31 grudnia 2023 r.
+1. Identyfikacja programu mającego na celu wczesne wykrycie zakażeń wirusem wywołującym afrykański pomór świń i poszerzenie wiedzy na temat tej choroby oraz jej zwalczanie Państwo członkowskie: Rzeczpospolita Polska Choroba: afrykański pomór świń (African swine fever – ASF) Okres realizacji: 1 stycznia – 31 grudnia 2023 r.
 2. Dane historyczne dotyczące rozwoju epidemiologicznego afrykańskiego pomoru świń W 2007 r. wirus afrykańskiego pomoru świń (ASF) rozprzestrzenił się z pierwotnego ogniska w Gruzji na terytorium Europy Wschodniej. Po wprowadzeniu wirusa ASF na kontynent europejski choroba ta rozprzestrzeniła się na terytorium Armenii, Azerbejdżanu oraz Federacji Rosyjskiej.
 W sierpniu 2012 r. ognisko tej choroby zostało stwierdzone w południowo-wschodniej części Ukrainy.
 W czerwcu 2013 r. białoruskie władze weterynaryjne potwierdziły wykrycie ASF we wsi Czapuń w obwodzie grodzieńskim, 170 km od granicy z Rzecząpospolitą Polską, oraz w Witebsku w północno-wschodniej części Białorusi, 450 km od granicy z Rzecząpospolitą Polską. W styczniu 2014 r. na terytorium Litwy stwierdzono 2 przypadki wirusa ASF u dzików, natomiast w dniu 17 lutego 2014 r.
 potwierdzono pierwszy przypadek wirusa ASF u dzików na terytorium Rzeczypospolitej Polskiej.
 W latach 2014–2022 na terytorium Rzeczypospolitej Polskiej u dzików i u świń stwierdzono odpowiednio:
-1) w 2014 r. 30 ognisk ASF u dzików i 2 ogniska ASF u świń;
-2) w 2015 r. 53 ogniska ASF u dzików i 1 ognisko ASF u świń;
-3) w 2016 r. 80 ognisk ASF u dzików i 20 ognisk ASF u świń;
-4) w 2017 r. 741 ognisk ASF u dzików i 81 ognisk ASF u świń;
-5) w 2018 r. 2443 ogniska ASF u dzików i 109 ognisk ASF u świń;
-6) w 2019 r. 2477 ognisk ASF u dzików i 48 ognisk ASF u świń;
-7) w 2020 r. 4156 ognisk ASF u dzików i 103 ogniska ASF u świń;
-8) w 2021 r. 3214 ognisk ASF u dzików i 124 ogniska ASF u świń;
-9) w 2022 r. 2113 ognisk ASF u dzików i 14 ognisk ASF u świń.
+1) w 2014 r. – 30 ognisk ASF u dzików i 2 ogniska ASF u świń;
+2) w 2015 r. – 53 ogniska ASF u dzików i 1 ognisko ASF u świń;
+3) w 2016 r. – 80 ognisk ASF u dzików i 20 ognisk ASF u świń;
+4) w 2017 r. – 741 ognisk ASF u dzików i 81 ognisk ASF u świń;
+5) w 2018 r. – 2443 ogniska ASF u dzików i 109 ognisk ASF u świń;
+6) w 2019 r. – 2477 ognisk ASF u dzików i 48 ognisk ASF u świń;
+2
+7) w 2020 r. – 4156 ognisk ASF u dzików i 103 ogniska ASF u świń;
+8) w 2021 r. – 3214 ognisk ASF u dzików i 124 ogniska ASF u świń;
+9) w 2022 r. – 2113 ognisk ASF u dzików i 14 ognisk ASF u świń.
 Obecnie nadal istnieje duże prawdopodobieństwo dalszego rozprzestrzeniania się wirusa ASF, w szczególności wśród zwierząt wolno żyjących na terytorium Rzeczypospolitej Polskiej.
 Od 2011 r. na terytorium Rzeczypospolitej Polskiej są prowadzone badania laboratoryjne w kierunku ASF. Badania te były prowadzone w pasie przygranicznym o szerokości 40 km (wzdłuż granicy północnej z obwodem kaliningradzkim i granicy wschodniej z Litwą, Białorusią i Ukrainą) obejmującym części województw: warmińsko-mazurskiego, podlaskiego, lubelskiego, mazowieckiego i podkarpackiego. Próbki były pobierane od padłych świń (na podstawie analizy ryzyka) oraz padłych i odstrzelonych dzików. Od lipca 2013 r. na terytorium położonym w tzw. strefie I, a od października 2013 r. na terytorium położonym w strefach II i III badania laboratoryjne w kierunku ASF były prowadzone zgodnie z programem wprowadzonym rozporządzeniem Rady Ministrów z dnia 17 stycznia 2014 r. w sprawie wprowadzenia programu mającego na celu wczesne wykrycie zakażeń wirusem wywołującym afrykański pomór świń oraz poszerzenie wiedzy na temat ryzyka wystąpienia tej choroby na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 115).
 W 2014 r. były kontynuowane badania w kierunku ASF zgodnie z programem wprowadzonym rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 23 lipca 2014 r. w sprawie wprowadzenia w 2014 r. na terytorium Rzeczypospolitej Polskiej „Programu mającego na celu wczesne wykrycie zakażeń wirusem wywołującym afrykański pomór świń i poszerzenie wiedzy na temat tej choroby oraz jej zwalczanie” (Dz. U. poz. 996).
@@ -68,7 +68,7 @@ Zgodnie z dokumentem roboczym Komisji Europejskiej „Strategiczne podejście do
 Ponadto w programie wprowadza się zasady i nakazy służące zwalczaniu afrykańskiego pomoru świń u dzików.
 Szacowane ogólne koszty realizacji programu na terytorium Rzeczypospolitej Polskiej w 2023 r. wyniosą 177 494 734,50 zł (38 165 830,70 euro). Z ogólnej sumy szacowanych kosztów programu Rzeczypospolita Polska będzie występowała do Komisji Europejskiej z wnioskiem o współfinansowanie ze środków Unii Europejskiej programu w odniesieniu do kosztów kwalifikowalnych w wysokości 18 721 472,25 zł (4 026 188,00 euro). Wszystkie szacunkowe koszty programu zostaną dostosowane do wielkości wydatków przewidzianych na zwalczanie chorób zakaźnych zwierząt w ustawie budżetowej na rok 2023 z dnia 15 grudnia 2022 r. (Dz. U. z 2023 r.
 poz. 256) w ramach limitu wydatków właściwych części budżetowych.
-Finansowanie programu odbywa się ze środków budżetowych określonych w części 83 w ramach limitów rezerw celowych przeznaczonych na zwalczanie chorób zakaźnych zwierząt oraz na realizację zadań ustawowych Inspekcji Weterynaryjnej oraz ze środków budżetowych określonych w części 85 budżety wojewodów, dział 010 rolnictwo i łowiectwo, rozdział 01022 zwalczanie chorób zakaźnych zwierząt oraz badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt i produktach pochodzenia zwierzęcego.
+Finansowanie programu odbywa się ze środków budżetowych określonych w części 83 – w ramach limitów rezerw celowych przeznaczonych na zwalczanie chorób zakaźnych zwierząt oraz na realizację zadań ustawowych Inspekcji Weterynaryjnej oraz ze środków budżetowych określonych w części 85 – budżety wojewodów, dział 010 – rolnictwo i łowiectwo, rozdział 01022 – zwalczanie chorób zakaźnych zwierząt oraz badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt i produktach pochodzenia zwierzęcego.
 3.1. Cele programu
 1. Głównymi celami programu mającymi doprowadzić do wzmocnienia ochrony terytorium Rzeczypospolitej Polskiej i terytorium Unii Europejskiej przed rozprzestrzenianiem się wirusa ASF są:
 1) wczesne wykrywanie ASF w populacji świń oraz dzików przez monitorowanie choroby;
@@ -79,9 +79,9 @@ Finansowanie programu odbywa się ze środków budżetowych określonych w czę�
 2) zwrot w postaci ryczałtu kosztów pozyskiwania dzików w ramach odstrzału sanitarnego na terytorium Rzeczypospolitej Polskiej;
 3) zwrot w postaci ryczałtu kosztów pozyskiwania dzików odstrzelonych w ramach polowania na terytorium Rzeczypospolitej Polskiej, z wyjątkiem dorosłych samic dzików (powyżej
 24. miesiąca życia);
-4) ubój lub zabicie świń na obszarze objętym ograniczeniami I–III, o których mowa w ust. 3.2.4 w przypadku wystąpienia ASF u dzików (na podstawie art. 44 ustawy z dnia 11 marca 2004 r.
+4) ubój lub zabicie świń na obszarze objętym ograniczeniami I–III, o których mowa w ust. 3.2.4 – w przypadku wystąpienia ASF u dzików (na podstawie art. 44 ustawy z dnia 11 marca 2004 r.
 o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt);
-5) działania powiatowego lekarza weterynarii po otrzymaniu zawiadomienia o podejrzeniu wystąpienia ASF przeprowadzane na terytorium Rzeczypospolitej Polskiej zgodnie z art. 42 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
+5) działania powiatowego lekarza weterynarii – po otrzymaniu zawiadomienia o podejrzeniu wystąpienia ASF – przeprowadzane na terytorium Rzeczypospolitej Polskiej zgodnie z art. 42 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
 6) przeprowadzanie przez powiatowego lekarza weterynarii kontroli gospodarstw w zakresie spełniania wymagań związanych z bioasekuracją na obszarze objętym ograniczeniami I–III;
 7) zwrot kosztów transportu i unieszkodliwienia padłych dzików pozyskanych w ramach zorganizowanych przeszukiwań terenów znajdujących się na obszarze objętym ograniczeniami I–III, a także znalezionych na gruntach należących do osób fizycznych na terytorium Rzeczypospolitej Polskiej;
 8) finansowanie unieszkodliwiania pozyskanych na terytorium Rzeczypospolitej Polskiej w ramach polowań lub odstrzałów sanitarnych tusz dzików, wraz ze wszystkimi częściami ciała, w tym sierści i skóry, które nie mogą zostać zagospodarowane przez myśliwych;
@@ -92,9 +92,9 @@ o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt);
 13) finansowanie usług pomocnych przy zwalczaniu ASF u dzików oraz świń, w tym wykorzystanie bezzałogowych statków powietrznych lub fotopułapek służących do ustalania miejsc bytowania dzików;
 14) dofinansowanie akcji poszukiwania padłych dzików organizowanych w ramach nakazów powiatowych lekarzy weterynarii oraz wojewódzkich centrów zarządzania kryzysowego;
 15) prowadzenie przez Inspekcję Weterynaryjną kampanii informacyjnej dla podmiotów:
-a) prowadzących działalność nadzorowaną związaną z produkcją żywności pochodzenia zwierzęcego i pasz, a także dla rolników, myśliwych, władz samorządowych, straży, inspekcji i innych służb oraz społeczeństwa obejmującej rozpowszechnienie informacji o:  zagrożeniu ASF w taki sposób, aby te podmioty niezwłocznie zawiadamiały o podejrzeniu wystąpienia ASF zgodnie z art. 42 ustawy z dnia 11 marca 2004 r.
+a) prowadzących działalność nadzorowaną związaną z produkcją żywności pochodzenia zwierzęcego i pasz, a także dla rolników, myśliwych, władz samorządowych, straży, inspekcji i innych służb oraz społeczeństwa – obejmującej rozpowszechnienie informacji o:  zagrożeniu ASF w taki sposób, aby te podmioty niezwłocznie zawiadamiały o podejrzeniu wystąpienia ASF zgodnie z art. 42 ustawy z dnia 11 marca 2004 r.
 o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt i sposobie zawiadamiania właściwych organów o podejrzeniu wystąpienia ASF,  objawach zakażenia wirusem ASF,  ryzyku, jakie niesie wprowadzanie produktów wieprzowych do gospodarstwa, w którym są utrzymywane świnie, w szczególności wprowadzanie na terytorium Rzeczypospolitej Polskiej produktów pochodzenia wieprzowego spoza tego terytorium,  metodach bezpiecznego unieszkodliwiania padłych dzików lub dopuszczalnych sposobach zagospodarowania odstrzelonych dzików,  obowiązku zawiadamiania organów Inspekcji Weterynaryjnej o każdym przypadku znalezienia padłego dzika,  wymaganiach dotyczących bioasekuracji,
-b) świadczących usługi z zakresu przewozu osób, w tym operatorów portów lotniczych i portów morskich, oraz dla operatorów biur podróży i podmiotów świadczących usługi pocztowe i kurierskie mającej na celu przekazanie wiedzy na temat ASF;
+b) świadczących usługi z zakresu przewozu osób, w tym operatorów portów lotniczych i portów morskich, oraz dla operatorów biur podróży i podmiotów świadczących usługi pocztowe i kurierskie – mającej na celu przekazanie wiedzy na temat ASF;
 16) finansowanie dodatkowej pracy pracowników Inspekcji Weterynaryjnej w soboty lub dni ustawowo wolne od pracy, związanej z oględzinami tusz dzików oraz pobieraniem i wysyłką próbek do badań laboratoryjnych w kierunku ASF;
 17) finansowanie dodatkowej pracy pracowników zakładów higieny weterynaryjnej w soboty lub dni ustawowo wolne od pracy, związanej z wykonywaniem badań laboratoryjnych próbek w kierunku ASF;
 18) wprowadzenie zakazu dokarmiania dzików na terytorium Rzeczypospolitej Polskiej.
@@ -102,10 +102,10 @@ b) świadczących usługi z zakresu przewozu osób, w tym operatorów portów lo
 3.2.1. Program jest realizowany przez właściwych terytorialnie powiatowych lekarzy weterynarii
 3.2.2. Wojewódzcy lekarze weterynarii koordynują realizację programu, w szczególności działania podejmowane na pograniczu województw
 3.2.3. Obowiązki innych podmiotów opisanych w programie
-1) hodowcy świń przestrzeganie wymagań zawartych w rozporządzeniu wykonawczym Komisji (UE) 2021/605 z dnia 7 kwietnia 2021 r. ustanawiającym szczególne środki zwalczania afrykańskiego pomoru świń (Dz. Urz. UE L 129 z 15.04.2021, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem 2021/605”, oraz w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 10 sierpnia 2021 r. w sprawie środków podejmowanych w związku z wystąpieniem afrykańskiego pomoru świń (Dz. U. poz. 1485), uczestniczenie w spotkaniach szkoleniowych i aktualizowanie wiedzy na temat ASF, w tym zasad postępowania profilaktycznego oraz obowiązków posiadacza świń przy zwalczaniu choroby, zgłaszanie do powiatowego lekarza weterynarii miejsc utrzymywania świń i przemieszczeń świń zgodnie z przepisami wydanymi na podstawie art. 47 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, zgłaszanie podejrzenia wystąpienia chorób zakaźnych zgodnie z art. 42 ww. ustawy, zgłaszanie do powiatowego lekarza weterynarii padnięć świń na terenach wymienionych w załączniku I do rozporządzenia 2021/605 zgodnie z § 16 ust. 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 10 sierpnia 2021 r. w sprawie środków podejmowanych w związku z wystąpieniem afrykańskiego pomoru świń, zgłaszanie do powiatowego lekarza weterynarii ubojów świń na użytek własny na obszarach wymienionych w załączniku I do rozporządzenia 2021/605 zgodnie z przepisami wydanymi na podstawie art. 11a ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U.
+1) hodowcy świń – przestrzeganie wymagań zawartych w rozporządzeniu wykonawczym Komisji (UE) 2021/605 z dnia 7 kwietnia 2021 r. ustanawiającym szczególne środki zwalczania afrykańskiego pomoru świń (Dz. Urz. UE L 129 z 15.04.2021, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem 2021/605”, oraz w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 10 sierpnia 2021 r. w sprawie środków podejmowanych w związku z wystąpieniem afrykańskiego pomoru świń (Dz. U. poz. 1485), uczestniczenie w spotkaniach szkoleniowych i aktualizowanie wiedzy na temat ASF, w tym zasad postępowania profilaktycznego oraz obowiązków posiadacza świń przy zwalczaniu choroby, zgłaszanie do powiatowego lekarza weterynarii miejsc utrzymywania świń i przemieszczeń świń zgodnie z przepisami wydanymi na podstawie art. 47 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, zgłaszanie podejrzenia wystąpienia chorób zakaźnych zgodnie z art. 42 ww. ustawy, zgłaszanie do powiatowego lekarza weterynarii padnięć świń na terenach wymienionych w załączniku I do rozporządzenia 2021/605 zgodnie z § 16 ust. 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 10 sierpnia 2021 r. w sprawie środków podejmowanych w związku z wystąpieniem afrykańskiego pomoru świń, zgłaszanie do powiatowego lekarza weterynarii ubojów świń na użytek własny na obszarach wymienionych w załączniku I do rozporządzenia 2021/605 zgodnie z przepisami wydanymi na podstawie art. 11a ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U.
 z 2020 r. poz. 1753, z późn. zm.);
-2) myśliwi, pracownicy parków narodowych, Służby Leśnej i członkowie doraźnych zgrupowań zadaniowych przestrzeganie zasad bioasekuracji określonych w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 30 stycznia 2020 r. w sprawie zasad bioasekuracji, jakie powinny być przestrzegane podczas polowania lub odstrzału sanitarnego oraz przy wykonywaniu czynności związanych z zagospodarowaniem zwierzęcia łownego z gatunku dzik (Dz. U. poz. 160), zgłaszanie powiatowym lekarzom weterynarii padłych dzików, wykonywanie odstrzałów sanitarnych dzików zgodnie z przepisami wydanymi na podstawie art. 45 lub art. 46 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
-3) inne podmioty wymienione w programie przestrzeganie nakazów, zakazów i ograniczeń wydanych zgodnie z przepisami wydanymi na podstawie art. 47 ustawy z dnia 11 marca 2004 r.
+2) myśliwi, pracownicy parków narodowych, Służby Leśnej i członkowie doraźnych zgrupowań zadaniowych – przestrzeganie zasad bioasekuracji określonych w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 30 stycznia 2020 r. w sprawie zasad bioasekuracji, jakie powinny być przestrzegane podczas polowania lub odstrzału sanitarnego oraz przy wykonywaniu czynności związanych z zagospodarowaniem zwierzęcia łownego z gatunku dzik (Dz. U. poz. 160), zgłaszanie powiatowym lekarzom weterynarii padłych dzików, wykonywanie odstrzałów sanitarnych dzików zgodnie z przepisami wydanymi na podstawie art. 45 lub art. 46 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
+3) inne podmioty wymienione w programie – przestrzeganie nakazów, zakazów i ograniczeń wydanych zgodnie z przepisami wydanymi na podstawie art. 47 ustawy z dnia 11 marca 2004 r.
 o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 3.2.4. Podział terytorium Rzeczypospolitej Polskiej na obszary według kryterium zagrożenia wystąpieniem wirusa ASF Na terytorium Rzeczypospolitej Polskiej wyróżnia się:
 1) obszar objęty ograniczeniami I, który obejmuje powiaty lub części powiatów na terytorium Rzeczypospolitej Polskiej wymienione w części I załącznika I do rozporządzenia 2021/605;
@@ -131,16 +131,16 @@ W trakcie badania przedubojowego świń lub badania poubojowego mięsa pozyskane
 3) mających:
 a) objawy chorobowe wraz z gorączką lub
 b) gorączkę i objawy zespołu krwotocznego;
-4) o których mowa w § 3 ust. 2 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 10 sierpnia 2021 r. w sprawie środków podejmowanych w związku z wystąpieniem afrykańskiego pomoru świń w przypadku gdy uboju świń dokonuje się w gospodarstwie położonym na terytorium Rzeczypospolitej Polskiej:
-a) objętym ograniczeniami I i II jeżeli istnieje podejrzenie wystąpienia afrykańskiego pomoru świń,
-b) objętym ograniczeniami III w każdym przypadku.
+4) o których mowa w § 3 ust. 2 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 10 sierpnia 2021 r. w sprawie środków podejmowanych w związku z wystąpieniem afrykańskiego pomoru świń – w przypadku gdy uboju świń dokonuje się w gospodarstwie położonym na terytorium Rzeczypospolitej Polskiej:
+a) objętym ograniczeniami I i II – jeżeli istnieje podejrzenie wystąpienia afrykańskiego pomoru świń,
+b) objętym ograniczeniami III – w każdym przypadku.
 3.2.5.7. Powiatowy lekarz weterynarii pobiera próbki do badań laboratoryjnych w kierunku ASF zgodnie z art. 3 ust. 2 rozporządzenia 2020/687 od znalezionych martwych dzików, w tym ze zwłok dzików ulegających autolizie oraz dzików zabitych w wypadkach komunikacyjnych, a także od każdego dzika odstrzelonego na obszarze objętym ograniczeniami I–III dostarczonego do położonego na tych obszarach punktu skupu dziczyzny lub zakładu obróbki dziczyzny, lub innego zakładu nadzorowanego przez organ Inspekcji Weterynaryjnej, w którym mogą być przechowywane tusze lub skóry dzików.
 W przypadku odstrzelonych dzików niewykazujących żadnych objawów chorobowych dopuszcza się pobieranie próbek do badań laboratoryjnych w kierunku ASF przez myśliwych, którzy zostali przeszkoleni przez powiatowego lekarza weterynarii, z wykorzystaniem wytycznych i ulotek dostarczonych myśliwym oraz kołom łowieckim w sposób opisany w ust. 3.4.
 3.2.5.8. Każdą tuszę dzika odstrzelonego na obszarze objętym ograniczeniami I–III znakuje się znakiem zawierającym:
 1) kod województwa;
 2) kod powiatu;
 3) kolejny numer;
-4) numer obwodu łowieckiego jeżeli to możliwe.
+4) numer obwodu łowieckiego – jeżeli to możliwe.
 3.2.5.9. Myśliwi, pracownicy Służby Leśnej i Straży Granicznej oraz osoby mające kontakt z martwymi dzikami mają obowiązek zgłoszenia organom Inspekcji Weterynaryjnej znalezienia zwłok dzików.
 Dodatkowo na obszarze objętym ograniczeniami II i III myśliwi przekazują, na piśmie, właściwemu powiatowemu lekarzowi weterynarii informację o terminach planowanych polowań lub liczbie polowań w określonym przedziale czasowym oraz o terminach dokonywania odstrzału sanitarnego lub liczbie odstrzałów sanitarnych w określonym przedziale czasowym.
 3.2.5.10.
@@ -155,7 +155,7 @@ Dodatkowo na obszarze objętym ograniczeniami II i III myśliwi przekazują, na 
 5. Inspekcja Weterynaryjna finansuje w pełnej wysokości poniesione koszty unieszkodliwienia tusz dzików wraz ze wszystkimi częściami ciała dzików, w tym sierści i skóry:
 1) z dodatnim wynikiem badań laboratoryjnych w kierunku ASF oraz pozostałych przechowywanych razem z nimi w kontenerze chłodniczym;
 2) odstrzelonych w ramach polowania, które nie zostaną zagospodarowane przez myśliwych;
-3) odstrzelonych w ramach odstrzału sanitarnego, które nie zostaną zagospodarowane przez myśliwych po odjęciu kosztów utylizacji patrochów, których uśredniony koszt, w wysokości 23 zł brutto, został przewidziany w ryczałcie za wykonanie odstrzału sanitarnego dzików, o którym mowa w przepisach o ochronie zdrowia zwierząt, w tym transportu do przedsiębiorstwa lub zakładu zatwierdzonego zgodnie z art. 24 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego i produktów pochodnych, nieprzeznaczonych do spożycia przez ludzi i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1069/2009”.
+3) odstrzelonych w ramach odstrzału sanitarnego, które nie zostaną zagospodarowane przez myśliwych – po odjęciu kosztów utylizacji patrochów, których uśredniony koszt, w wysokości 23 zł brutto, został przewidziany w ryczałcie za wykonanie odstrzału sanitarnego dzików, o którym mowa w przepisach o ochronie zdrowia zwierząt, w tym transportu do przedsiębiorstwa lub zakładu zatwierdzonego zgodnie z art. 24 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego i produktów pochodnych, nieprzeznaczonych do spożycia przez ludzi i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1069/2009”.
 W punktach skupu i zakładach, o których mowa w pkt 1, tusze, części ciała i skóry dzików przechowuje się w sposób zapobiegający bezpośredniemu kontaktowi nieprzebadanych tusz, części ciała i skór dzików z surowcami i innymi przedmiotami, które mogą spowodować rozprzestrzenianie się wirusa ASF.
 6. Powiatowy lekarz weterynarii przeprowadza oględziny każdej tuszy, zwracając uwagę na zmiany chorobowe, które mogą wskazywać na zakażenie wirusem ASF.
 7. Zgodnie z rozporządzeniem nr 1069/2009:
@@ -163,13 +163,13 @@ W punktach skupu i zakładach, o których mowa w pkt 1, tusze, części ciała i
 2) wszystkie tusze wraz ze wszystkimi częściami ciała, w tym sierścią i skórą, odstrzelonych dzików, w odniesieniu do których uzyskano dodatni wynik badania laboratoryjnego w kierunku ASF, a także pozostałe tusze przechowywane razem z nimi w kontenerze chłodniczym,
 3) wszystkie tusze wraz ze wszystkimi częściami ciała, w tym sierścią i skórą, odstrzelonych chorych dzików, przed uzyskaniem wyniku badania laboratoryjnego w kierunku ASF,
 4) wszystkie tusze wraz ze wszystkimi częściami ciała, w tym sierścią i skórą, dzików odstrzelonych w ramach polowania, przed uzyskaniem wyniku badania laboratoryjnego w kierunku ASF,
-5) wszystkie tusze wraz ze wszystkimi częściami ciała, w tym sierścią i skórą, dzików odstrzelonych w ramach odstrzału sanitarnego przed uzyskaniem wyniku badania laboratoryjnego w kierunku ASF albo niezagospodarowanych przez myśliwych pomimo uzyskania ujemnego wyniku tego badania na obszarze objętym ograniczeniami I–III są kwalifikowane jako materiał kategorii 1 i podlegają usunięciu i przetworzeniu zgodnie z art. 12 rozporządzenia nr 1069/2009. W przypadku znalezionych zwłok dzików dopuszcza się zastosowanie odstępstw przewidzianych w art. 19 ust. 1 lit. b i c rozporządzenia nr 1069/2009.
+5) wszystkie tusze wraz ze wszystkimi częściami ciała, w tym sierścią i skórą, dzików odstrzelonych w ramach odstrzału sanitarnego przed uzyskaniem wyniku badania laboratoryjnego w kierunku ASF albo niezagospodarowanych przez myśliwych pomimo uzyskania ujemnego wyniku tego badania – na obszarze objętym ograniczeniami I–III są kwalifikowane jako materiał kategorii 1 i podlegają usunięciu i przetworzeniu zgodnie z art. 12 rozporządzenia nr 1069/2009. W przypadku znalezionych zwłok dzików dopuszcza się zastosowanie odstępstw przewidzianych w art. 19 ust. 1 lit. b i c rozporządzenia nr 1069/2009.
 8. Patrochy oraz tusze wraz ze wszystkimi częściami ciała dzików odstrzelonych w ramach polowania, z wyjątkiem treści przewodu pokarmowego, które nie zostaną zagospodarowane przez myśliwych po uzyskaniu ujemnych wyników badania laboratoryjnego w kierunku ASF, na obszarze objętym ograniczeniami I–III są kwalifikowane jako materiał kategorii 3 i podlegają usunięciu i przetworzeniu zgodnie z art. 14 rozporządzenia nr 1069/2009. Treść przewodu pokarmowego stanowi materiał kategorii 2 i podlega usunięciu i przetworzeniu zgodnie z art. 13 ww. rozporządzenia.
 9. Dzierżawcy, zarządcy obwodów łowieckich i dyrektorzy parków narodowych okresowo, nie rzadziej niż raz na kwartał, sprawdzają rzetelność dokumentowania przez myśliwych wykonywania polowań na dziki na obszarze objętym ograniczeniami I–III z uwzględnieniem pozyskania:
 1) dorosłych samic dzików (powyżej 24. miesiąca życia),
 2) przelatków dzika, osobno samic i samców,
 3) dorosłych samców,
-4) warchlaków oraz niezwłocznie informują powiatowego lekarza weterynarii o ujawnionych w tym zakresie nieprawidłowościach.
+4) warchlaków – oraz niezwłocznie informują powiatowego lekarza weterynarii o ujawnionych w tym zakresie nieprawidłowościach.
 10. Powiatowy lekarz weterynarii weryfikuje, nie rzadziej niż raz na kwartał, liczbę dzików pozyskanych w ramach polowania, zgłoszonych przez myśliwych, z rzeczywistą liczbą tusz tych zwierząt znajdujących się w punktach skupu dziczyzny i innych miejscach ich czasowego przetrzymywania.
 11. Powiatowy lekarz weterynarii prowadzi osobne zestawienia pozyskania tusz samic przelatek oraz dorosłych samic dzików na obszarze objętym ograniczeniami I obejmującym terytorium do 50 km od obszaru objętego ograniczeniami II lub III, na których występują ogniska ASF u dzików.
 12. Powiatowy lekarz weterynarii prowadzi dokumentację pozwalającą na ustalenie daty upływu 12 miesięcy od dnia ustanowienia obszaru objętego ograniczeniami II. Ustanowienie obszaru objętego ograniczeniami III nie wpływa na ustalenie daty upływu 12 miesięcy od dnia ustanowienia obszaru objętego ograniczeniami II, na którym wystąpiło ognisko ASF u dzików.
@@ -186,28 +186,28 @@ Każdą tuszę dzika odstrzelonego w przypadku ubiegania się o zwrot w postaci 
 1) kod województwa;
 2) kod powiatu;
 3) kolejny numer;
-4) numer obwodu łowieckiego jeżeli to możliwe.
+4) numer obwodu łowieckiego – jeżeli to możliwe.
 3.2.5.12. Dzierżawcy, zarządcy obwodów łowieckich i dyrektorzy parków narodowych, nie rzadziej niż raz na kwartał, sprawdzają rzetelność dokumentowania przez myśliwych wykonywania polowań na obszarze wolnym z uwzględnieniem pozyskania:
 1) dorosłych samic dzików (powyżej 24. miesiąca życia),
 2) przelatków dzika, osobno samic i samców,
 3) dorosłych samców,
-4) warchlaków oraz niezwłocznie informują powiatowego lekarza weterynarii o ujawnionych w tym zakresie nieprawidłowościach.
+4) warchlaków – oraz niezwłocznie informują powiatowego lekarza weterynarii o ujawnionych w tym zakresie nieprawidłowościach.
 Powiatowy lekarz weterynarii weryfikuje, nie rzadziej niż raz na kwartał, liczbę samic przelatków dzika pozyskanych w ramach polowań zgłoszonych przez myśliwych z rzeczywistą liczbą tusz tych zwierząt znajdujących się w punktach skupu dziczyzny i innych miejscach ich czasowego przetrzymywania.
 Powiatowy lekarz weterynarii prowadzi osobne zestawienia pozyskania tusz samic przelatek oraz dorosłych samic dzików na obszarze wolnym obejmującym terytorium do 50 km od obszaru objętego ograniczeniami II lub III, na których występują ogniska ASF u dzików.
 3.2.5.13. Na obszarze wolnym próbki do badań laboratoryjnych w kierunku ASF są pobierane przez powiatowego lekarza weterynarii w następujących przypadkach:
-1) od świń po otrzymaniu zawiadomienia o podejrzeniu wystąpienia ASF w gospodarstwie zgodnie z art. 42 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt; w celu potwierdzenia lub wykluczenia wystąpienia ASF w gospodarstwie próbki do badań laboratoryjnych pobiera się na zasadach określonych w art. 3 ust. 2 rozporządzenia 2020/687;
+1) od świń – po otrzymaniu zawiadomienia o podejrzeniu wystąpienia ASF w gospodarstwie zgodnie z art. 42 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt; w celu potwierdzenia lub wykluczenia wystąpienia ASF w gospodarstwie próbki do badań laboratoryjnych pobiera się na zasadach określonych w art. 3 ust. 2 rozporządzenia 2020/687;
 2) od każdego znalezionego martwego dzika, w tym ze zwłok dzików ulegających autolizie oraz dzików zabitych w wypadkach komunikacyjnych, i z każdego odstrzelonego dzika wykazującego objawy chorobowe wskazujące na możliwość zakażenia wirusem ASF.
 W przypadku podejrzenia wystąpienia ASF w gospodarstwie zastosowanie mają przepisy określone w rozporządzeniu 2020/687 oraz § 3 ust. 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2015 r. w sprawie zwalczania afrykańskiego pomoru świń (Dz. U. poz. 754).
 3.2.5.14. Wojewódzki lekarz weterynarii prowadzi dokumentację pozwalającą na każdorazowe ustalenie terenu o szerokości 50 km graniczącego z obszarem objętym ograniczeniami II lub III, na których występują ogniska ASF u dzików. W skład tego obszaru wchodzą również gminy, których minimum 51% terytorium jest położone w pasie 50 km. Samice przelatki dzików pozyskane na obszarze wolnym stanowiącym część 50 km tego terenu muszą być odnotowywane osobno.
 3.2.6. Rodzaj próbek pobieranych do badań laboratoryjnych w kierunku ASF, przesyłanie próbek do badań laboratoryjnych w kierunku ASF oraz wykonywanie badań laboratoryjnych Zasady przeprowadzania badań laboratoryjnych w kierunku ASF są określone w art. 3 ust. 2 rozporządzenia 2020/687.
-Od żywych świń i odstrzelonych dzików do badania laboratoryjnego w kierunku ASF pobiera się próbki krwi, a od padłych lub poddanych ubojowi świń i znalezionych martwych dzików narządy wewnętrzne, w szczególności: migdałki, węzły chłonne (żołądkowe, wątrobowe, podżuchwowe, zagardłowe), śledzionę, nerki, tkankę płucną, szpik kostny lub jeżeli to możliwe krew.
+Od żywych świń i odstrzelonych dzików do badania laboratoryjnego w kierunku ASF pobiera się próbki krwi, a od padłych lub poddanych ubojowi świń i znalezionych martwych dzików – narządy wewnętrzne, w szczególności: migdałki, węzły chłonne (żołądkowe, wątrobowe, podżuchwowe, zagardłowe), śledzionę, nerki, tkankę płucną, szpik kostny lub – jeżeli to możliwe – krew.
 W przypadku zwłok dzików ulegających autolizie do badania laboratoryjnego w kierunku ASF pobiera się kość długą lub mostek.
 Próbki pobrane od żywych, padłych lub poddanych ubojowi świń bada się metodą PCR, a gdy wynik badania laboratoryjnego przeprowadzonego metodą PCR jest dodatni, przeprowadza się również badanie metodą ELISA. W przypadku gdy podejrzewa się, że w stadzie są świnie chronicznie zakażone wirusem ASF, próbki bada się metodą ELISA.
 Próbki pobrane od świń:
-1) w ognisku ASF wyznaczonym zgodnie z § 4 ust. 1,
-2) w gospodarstwach kontaktowych zgodnie z § 6 ust. 2,
-3) zgodnie z § 10 ust. 1 pkt 2 i § 12 ust. 4 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2015 r. w sprawie zwalczania afrykańskiego pomoru świń bada się metodą PCR oraz metodą ELISA.
-Na obszarze objętym ograniczeniami II i III próbki pobrane od martwych lub odstrzelonych dzików bada się metodą PCR oraz jeżeli jest możliwe pobranie próbek krwi metodą ELISA.
+1) w ognisku ASF – wyznaczonym zgodnie z § 4 ust. 1,
+2) w gospodarstwach kontaktowych – zgodnie z § 6 ust. 2,
+3) zgodnie z § 10 ust. 1 pkt 2 i § 12 ust. 4 pkt 2 – rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2015 r. w sprawie zwalczania afrykańskiego pomoru świń bada się metodą PCR oraz metodą ELISA.
+Na obszarze objętym ograniczeniami II i III próbki pobrane od martwych lub odstrzelonych dzików bada się metodą PCR oraz – jeżeli jest możliwe pobranie próbek krwi – metodą ELISA.
 Na terytorium Rzeczypospolitej Polskiej położonym poza obszarem objętym ograniczeniami II i III martwe oraz odstrzelone dziki bada się metodą PCR.
 Próbki pobrane od dzików odłowionych na obszarze objętym ograniczeniami II i III bada się metodą PCR oraz metodą ELISA. Próbki pobrane od dzików odłowionych poza obszarem objętym ograniczeniami II i III bada się metodą PCR.
 W przypadku podejrzenia uzyskania fałszywie dodatniego lub uzyskania wątpliwego wyniku badania metodą ELISA przeprowadza się badanie serologiczne potwierdzające metodą IB lub IPT.
@@ -227,13 +227,13 @@ o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 2) po wykonaniu analizy ryzyka zarządzić odstrzał sanitarny dzików;
 3) nakazać odłów dzików w celu ich uśmiercenia.
 3.3. Wzmocnienie środków bioasekuracji na drogowych przejściach granicznych z Federacją Rosyjską, Białorusią i Ukrainą Na drogowych przejściach granicznych z Federacją Rosyjską, Białorusią i Ukrainą podejmuje się następujące środki bioasekuracji:
-1) jeżeli jest to konieczne wyłożenie mat dezynfekcyjnych, a także stałe utrzymywanie tych mat w stanie zapewniającym skuteczne działanie środka dezynfekcyjnego lub zastosowanie innych urządzeń do dezynfekcji pojazdów;
+1) jeżeli jest to konieczne – wyłożenie mat dezynfekcyjnych, a także stałe utrzymywanie tych mat w stanie zapewniającym skuteczne działanie środka dezynfekcyjnego lub zastosowanie innych urządzeń do dezynfekcji pojazdów;
 2) kontrolę pustych środków transportu przeznaczonych do przewozu zwierząt zgodnie z art. 44 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r.
 w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/ EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz.
-UE L 95 z 07.04.2017, str. 1, z późn. zm.) w każdym przypadku, gdy są powody uważać, że ich wprowadzenie na terytorium Unii Europejskiej może wiązać się z ryzykiem dla zdrowia ludzi lub zwierząt.
+UE L 95 z 07.04.2017, str. 1, z późn. zm.) – w każdym przypadku, gdy są powody uważać, że ich wprowadzenie na terytorium Unii Europejskiej może wiązać się z ryzykiem dla zdrowia ludzi lub zwierząt.
 3.4. Przeprowadzenie przez Inspekcję Weterynaryjną kampanii informacyjnej
 1. W ramach realizacji programu publikuje się ulotki:
-1) dla rolników i podmiotów prowadzących działalność nadzorowaną związaną z produkcją żywności pochodzenia zwierzęcego i pasz zawierające informacje o:
+1) dla rolników i podmiotów prowadzących działalność nadzorowaną związaną z produkcją żywności pochodzenia zwierzęcego i pasz – zawierające informacje o:
 a) ASF i jego objawach,
 b) sposobie rozprzestrzeniania się ASF,
 c) postępowaniu posiadacza zwierząt w przypadku podejrzenia wystąpienia lub wystąpienia ASF,
@@ -241,7 +241,7 @@ d) przysługujących odszkodowaniach za świnie poddane ubojowi, zabite lub pad�
 e) zasadach bioasekuracji,
 f) zakazie karmienia świń odpadami gastronomicznymi,
 g) unieszkodliwianiu zwłok świń oraz zasadach przeprowadzania oczyszczania i odkażania w gospodarstwach;
-2) dla myśliwych zawierające informacje o:
+2) dla myśliwych – zawierające informacje o:
 a) ASF i jego objawach,
 b) sposobie postępowania myśliwego z tuszą dzika po polowaniu lub odstrzale sanitarnym, w tym o sposobie pobierania próbek do badań laboratoryjnych w kierunku ASF od odstrzelonych dzików niewykazujących żadnych objawów chorobowych,
 c) zabezpieczeniu środków transportu przeznaczonych do transportu odstrzelonych dzików w sposób minimalizujący ryzyko rozprzestrzenienia się wirusa ASF,
@@ -264,7 +264,7 @@ poz. 916, z późn. zm.), lub ich otulinach w rozumieniu tej ustawy powiatowy le
 o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 3. Dzierżawca lub zarządca obwodu łowieckiego, na wniosek zainteresowanego podmiotu, dopuszcza do wykonania odstrzału sanitarnego dzików każdego myśliwego będącego członkiem koła łowieckiego.
 4. Dzierżawcy, zarządcy obwodów łowieckich i dyrektorzy parków narodowych okresowo, nie rzadziej niż raz na kwartał, sprawdzają rzetelność dokumentowania przez myśliwych wykonywania odstrzału sanitarnego na obszarze objętym ograniczeniami I–III i na obszarze wolnym oraz niezwłocznie informują powiatowego lekarza weterynarii o ujawnionych w tym zakresie nieprawidłowościach.
-5. Powiatowy lekarz weterynarii weryfikuje, nie rzadziej niż raz na kwartał, liczbę dzików odstrzelonych w ramach odstrzału sanitarnego, zgłaszanych przez myśliwych, z liczbą tusz tych zwierząt znajdujących się w punktach skupu dziczyzny i innych miejscach ich czasowego przetrzymywania na obszarze objętym ograniczeniami I–III i na obszarze wolnym, w szczególności z dokumentacją wejść do łowiska i wyjść z łowiska oraz dokumentacją dotyczącą obrotu tuszami dzików prowadzonego przez zarządcę lub dzierżawcę obwodu łowieckiego, a także jeżeli to możliwe z badaniami tych tusz na włośnie i dokumentacją dotyczącą ich unieszkodliwienia.
+5. Powiatowy lekarz weterynarii weryfikuje, nie rzadziej niż raz na kwartał, liczbę dzików odstrzelonych w ramach odstrzału sanitarnego, zgłaszanych przez myśliwych, z liczbą tusz tych zwierząt znajdujących się w punktach skupu dziczyzny i innych miejscach ich czasowego przetrzymywania na obszarze objętym ograniczeniami I–III i na obszarze wolnym, w szczególności z dokumentacją wejść do łowiska i wyjść z łowiska oraz dokumentacją dotyczącą obrotu tuszami dzików prowadzonego przez zarządcę lub dzierżawcę obwodu łowieckiego, a także – jeżeli to możliwe – z badaniami tych tusz na włośnie i dokumentacją dotyczącą ich unieszkodliwienia.
 3.6. Zgłaszanie znalezienia zwłok padłych dzików
 1. Na terytorium Rzeczypospolitej Polskiej myśliwi, pracownicy parków narodowych oraz pracownicy Służby Leśnej mogą samodzielnie prowadzić poszukiwanie padłych dzików.
 W przypadku zgłoszenia organom Inspekcji Weterynaryjnej znalezienia zwłok dzika innych niż dzika zabitego w wypadku komunikacyjnym, od którego jest możliwe pobranie próbek do badań laboratoryjnych, powiatowy lekarz weterynarii wypłaca dzierżawcy lub zarządcy obwodu łowieckiego, lub dyrektorowi parku narodowego, lub zarządcy lasów miejskich kwotę 200 zł brutto.
@@ -278,8 +278,8 @@ Osoba dokonująca zgłoszenia osobiście wskazuje miejsce, w którym znajdują s
 3.8. Zakaz dokarmiania dzików Na terytorium Rzeczypospolitej Polskiej zakazuje się dokarmiania dzików.
 3.9. Finansowanie odłowu dzików, ich uśmiercenia, transportu i unieszkodliwiania zwłok
 1. Powiatowy lekarz weterynarii w przypadku wydania nakazu przeprowadzenia odłowu dzików, a następnie ich uśmiercenia oraz transportu zwłok i unieszkodliwienia zwłok uśmierconych dzików wypłaca wykonawcy tego nakazu kwotę w wysokości:
-1) 800 zł brutto za dzika w przypadku odłowu jednorazowo do 3 dzików;
-2) 700 zł brutto za dzika w przypadku odłowu jednorazowo powyżej 3 dzików.
+1) 800 zł brutto za dzika – w przypadku odłowu jednorazowo do 3 dzików;
+2) 700 zł brutto za dzika – w przypadku odłowu jednorazowo powyżej 3 dzików.
 2. Powiatowy lekarz weterynarii w przypadku wydania nakazu przeprowadzenia odłowu dzików, a następnie ich uśmiercenia oraz transportu zwłok i unieszkodliwienia zwłok uśmierconych dzików może dokonać zwrotu faktycznie poniesionych kosztów na budowę odłowni żywołownych.
 3. Powiatowy lekarz weterynarii w przypadku wydania nakazu przeprowadzenia odłowu dzików, a następnie ich uśmiercenia oraz transportu zwłok i unieszkodliwienia zwłok uśmierconych dzików może dofinansować poniesienie kosztów obsługi i utrzymania w dobrym stanie technicznym odłowni żywołownych.
 3.10. Dofinansowanie zorganizowanych poszukiwań padłych dzików Powiatowy lekarz weterynarii w przypadku przeprowadzania akcji poszukiwania dzików organizowanych przez powiatowego lekarza weterynarii lub wojewódzkie centrum zarządzania kryzysowego może dofinansować te działania przez zapewnienie:
@@ -299,15 +299,15 @@ Osoba dokonująca zgłoszenia osobiście wskazuje miejsce, w którym znajdują s
 2) obszar geograficzny, gdzie znaleziono martwe lub odstrzelone zwierzę;
 3) czy zwierzę zostało znalezione padłe, czy zostało odstrzelone;
 4) wiek i płeć zwierzęcia;
-5) w przypadku odstrzału zwierzęcia typ odstrzału (sanitarny, redukcyjny, inny) oraz informację na temat występowania objawów choroby przed odstrzałem;
-6) w przypadku znalezienia martwego zwierzęcia informację na temat stanu znalezionej tuszy.
+5) w przypadku odstrzału zwierzęcia – typ odstrzału (sanitarny, redukcyjny, inny) oraz informację na temat występowania objawów choroby przed odstrzałem;
+6) w przypadku znalezienia martwego zwierzęcia – informację na temat stanu znalezionej tuszy.
 3. Powiatowy lekarz weterynarii weryfikuje poprawność przekazywanych zgłoszeń.
 4. W przypadku niezgłoszenia znalezienia padłego lub odstrzelonego, w tym sanitarnie, dzika do powiatowego lekarza weterynarii za pośrednictwem systemu informatycznego przeznaczonego do tego celu, udostępnionego przez Inspekcję Weterynaryjną, kwota przysługująca za znalezienie padłego dzika lub odstrzelonego dzika, przewidziana w obowiązujących przepisach prawa, ulega zmniejszeniu o 20%.
 3.13. Zagospodarowanie tusz dzików odstrzelonych w ramach odstrzału sanitarnego
 1. Tusze dzików, wraz ze wszystkimi częściami ciała, w tym sierścią i skórą, odstrzelonych w ramach odstrzału sanitarnego na obszarze objętym ograniczeniami I–III lub obszarze wolnym:
 1) z dodatnim wynikiem badań laboratoryjnych w kierunku ASF,
 2) przechowywanych w kontenerze chłodniczym razem z tuszą dzika, u którego stwierdzono dodatni wyniki badania laboratoryjnego w kierunku ASF,
-3) przed uzyskaniem wyniku badania laboratoryjnego w kierunku ASF albo niezagospodarowanych przez myśliwych pomimo uzyskania ujemnego wyniku tego badania podlegają przetworzeniu lub unieszkodliwieniu w zakładach zatwierdzonych zgodnie z art. 24 rozporządzenia nr 1069/2009.
+3) przed uzyskaniem wyniku badania laboratoryjnego w kierunku ASF albo niezagospodarowanych przez myśliwych pomimo uzyskania ujemnego wyniku tego badania – podlegają przetworzeniu lub unieszkodliwieniu w zakładach zatwierdzonych zgodnie z art. 24 rozporządzenia nr 1069/2009.
 2. W przypadku odstrzału sanitarnego prowadzonego na obszarach objętych ograniczeniami I–III przetworzenia lub unieszkodliwienia, o których mowa powyżej, dokonuje się po pobraniu próbek do badań laboratoryjnych w kierunku ASF zgodnie z zasadami określonymi w programie.
 4. Środki przewidziane programem
 4.1. Podsumowanie środków przewidzianych programem Działania podejmowane w związku z realizacją programu:
@@ -354,7 +354,7 @@ Zgodnie z art. 3 ust. 2 pkt 5 lit. b i h ustawy z dnia 29 stycznia 2004 r. o Ins
 1) rozporządzeniu 2021/605;
 2) rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 10 sierpnia 2021 r. w sprawie środków podejmowanych w związku z wystąpieniem afrykańskiego pomoru świń.
 Wymogi bezpieczeństwa biologicznego mające zastosowanie do terenów łowieckich i obiektów obsługi dzików są określone w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 30 stycznia 2020 r. w sprawie zasad bioasekuracji, jakie powinny być przestrzegane podczas polowania lub odstrzału sanitarnego oraz przy wykonywaniu czynności związanych z zagospodarowaniem zwierzęcia łownego z gatunku dzik.
-4.4.9. Środki podejmowane w przypadku uzyskania dodatniego wyniku badania laboratoryjnego w kierunku ASF Środki zwalczania ASF w przypadku urzędowego potwierdzenia wystąpienia ASF u świń są określone w części II w rozdziale I w sekcji 2, w rozdziale II oraz w rozdziale III rozporządzenia 2020/687, natomiast w przypadku urzędowego potwierdzenia wystąpienia ASF u dzików w części II w rozdziale IV rozporządzenia 2020/687.
+4.4.9. Środki podejmowane w przypadku uzyskania dodatniego wyniku badania laboratoryjnego w kierunku ASF Środki zwalczania ASF w przypadku urzędowego potwierdzenia wystąpienia ASF u świń są określone w części II w rozdziale I w sekcji 2, w rozdziale II oraz w rozdziale III rozporządzenia 2020/687, natomiast w przypadku urzędowego potwierdzenia wystąpienia ASF u dzików – w części II w rozdziale IV rozporządzenia 2020/687.
 Zgodnie z § 4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2015 r.
 w sprawie zwalczania afrykańskiego pomoru świń w przypadku stwierdzenia ASF w gospodarstwie powiatowy lekarz weterynarii wyznacza je jako ognisko ASF. Działania podejmowane po wyznaczeniu ogniska ASF są określone w § 4 i § 6–10 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2015 r. w sprawie zwalczania afrykańskiego pomoru świń.
 Działania podejmowane w przypadku wystąpienia ASF u dzików są określone w § 18 rozporządzenia Rolnictwa i Rozwoju Wsi z dnia 6 maja 2015 r. w sprawie zwalczania afrykańskiego pomoru świń oraz opisane w ust. 3.2.7.
@@ -366,22 +366,22 @@ Bezpośredni nadzór nad realizacją programu w powiecie pełni powiatowy lekarz
 Działania powiatowego lekarza weterynarii na terenie województw są nadzorowane i koordynowane przez właściwego wojewódzkiego lekarza weterynarii. Główny Lekarz Weterynarii wyznacza kierunki działań i koordynuje realizację programu na poziomie krajowym.
 4.4.12. Środki stosowane u dzików Na całym terytorium Rzeczypospolitej Polskiej obowiązuje zakaz dokarmiania dzików.
 Zgodnie z dokumentem „Strategiczne podejście do zarządzania afrykańskim pomorem świń w UE” ilość paszy dozwolonej do nęcenia w nęcisku na km /miesiąc nie może przekraczać 10 kg/km /miesiąc.
-5. Korzyści wynikające z realizacji programu Przeprowadzenie działań objętych programem przyczyni się do ochrony terytorium Rzeczypospolitej Polskiej oraz terytorium Unii Europejskiej przed niekontrolowanym rozprzestrzenianiem się wirusa ASF. Odpowiednio wczesne wykrycie zakażenia wirusem ASF pozwoli na podjęcie adekwatnych działań zapobiegających jego rozprzestrzenianiu się, a tym samym ograniczenie strat ekonomicznych z tego tytułu.
+5. Korzyści wynikające z realizacji programu Przeprowadzenie działań objętych programem przyczyni się do ochrony terytorium Rzeczypospolitej Polskiej oraz terytorium Unii Europejskiej przed niekontrolowanym rozprzestrzenianiem się wirusa ASF. Odpowiednio wczesne wykrycie zakażenia wirusem ASF pozwoli na podjęcie adekwatnych działań zapobiegających jego rozprzestrzenianiu się, a tym samym – ograniczenie strat ekonomicznych z tego tytułu.
 Oczekuje się, że zastosowanie środków określonych w programie ograniczy liczbę ognisk ASF stwierdzanych u świń oraz u dzików. Zmniejszenie populacji dzików spowolni rozprzestrzenianie się wirusa na terytorium kraju, a także zmniejszy krążenie wirusa w środowisku, co obniży ryzyko rozprzestrzenienia się choroby w populacji świń.
 Ponadto kampanie uświadamiające zwiększą świadomość hodowców świń i innych zainteresowanych podmiotów na temat znaczenia ASF dla zdrowia świń, a także konieczności szybkiego zgłaszania podejrzenia wystąpienia choroby i utrzymania odpowiedniego poziomu bezpieczeństwa biologicznego gospodarstw, łowisk i punktów przetrzymywania tusz dzików.
 6. Dane dotyczące rozwoju epidemiologicznego w odniesieniu do ASF w ciągu ostatnich 5 lat
 6.1.1. Rozwój ASF Liczba przypadków ASF u dzików oraz ognisk u świń została przedstawiona w ust. 2.
 6.1.2. Dane dotyczące zwierząt Nie dotyczy.
 6.2. Dane rozwarstwione dotyczące badań w ramach nadzoru i badań laboratoryjnych w ostatnich 3 latach Badania laboratoryjne próbek polegają na:
-1) badaniu próbek narządów wewnętrznych i krwi świń padłych lub z objawami klinicznymi ASF w całym kraju w ramach monitoringu pasywnego (podejmowanie czynności przez powiatowego lekarza weterynarii w przypadku podejrzenia wystąpienia choroby zakaźnej zwierząt);
-2) badaniu próbek krwi od świń zabijanych w ognisku choroby w kierunku wykrycia przeciwciał ASF w ramach dochodzenia epizootycznego;
-3) badaniu próbek krwi świń na obszarze zapowietrzonym i obszarze zagrożonym przy zdejmowaniu restrykcji obowiązujących na tych obszarach w ramach monitoringu aktywnego (podejmowanie czynności przez powiatowego lekarza weterynarii w celu monitorowania, ustalenia prewalencji lub wykluczenia występowania choroby zakaźnej zwierząt);
+1) badaniu próbek narządów wewnętrznych i krwi świń padłych lub z objawami klinicznymi ASF w całym kraju – w ramach monitoringu pasywnego (podejmowanie czynności przez powiatowego lekarza weterynarii w przypadku podejrzenia wystąpienia choroby zakaźnej zwierząt);
+2) badaniu próbek krwi od świń zabijanych w ognisku choroby – w kierunku wykrycia przeciwciał ASF w ramach dochodzenia epizootycznego;
+3) badaniu próbek krwi świń na obszarze zapowietrzonym i obszarze zagrożonym przy zdejmowaniu restrykcji obowiązujących na tych obszarach – w ramach monitoringu aktywnego (podejmowanie czynności przez powiatowego lekarza weterynarii w celu monitorowania, ustalenia prewalencji lub wykluczenia występowania choroby zakaźnej zwierząt);
 4) badaniu próbek krwi świń:
 a) poddawanych ubojowi na użytek własny na obszarze objętym ograniczeniami III,
-b) przemieszczanych wewnątrz obszaru objętego ograniczeniami II i III oraz poza nim w ramach monitoringu aktywnego;
-5) badaniu próbek narządów wewnętrznych oraz krwi dzików i świniodzików padłych, odstrzelonych oraz zabitych w wypadkach komunikacyjnych w całym kraju w ramach monitoringu pasywnego;
-6) badaniu próbek krwi odstrzelonych dzików i świniodzików na obszarach objętych ograniczeniami I–III w ramach monitoringu aktywnego;
-7) badaniu próbek krwi odstrzelonych dzików i świniodzików na obszarze wolnym w przypadku gdy przyżyciowo lub pośmiertnie zostanie powzięte podejrzenie wystąpienia ASF.
+b) przemieszczanych wewnątrz obszaru objętego ograniczeniami II i III oraz poza nim – w ramach monitoringu aktywnego;
+5) badaniu próbek narządów wewnętrznych oraz krwi dzików i świniodzików padłych, odstrzelonych oraz zabitych w wypadkach komunikacyjnych w całym kraju – w ramach monitoringu pasywnego;
+6) badaniu próbek krwi odstrzelonych dzików i świniodzików na obszarach objętych ograniczeniami I–III – w ramach monitoringu aktywnego;
+7) badaniu próbek krwi odstrzelonych dzików i świniodzików na obszarze wolnym – w przypadku gdy przyżyciowo lub pośmiertnie zostanie powzięte podejrzenie wystąpienia ASF.
 Rok: 2021 Liczba Liczba badań Gatunek Rodzaj wykonanych z dodatnim Region zwierząt badania Opis badania badań wynikiem laboratoryjnych badania laboratoryjnego Rzeczpospolita świnie badanie ELISA 819 27 Polska serologiczne Rzeczpospolita świnie molekularne PCR 69 046 856 Polska Rzeczpospolita dziki badanie ELISA 66 512 759 Polska serologiczne Rzeczpospolita dziki molekularne PCR 97 056 8630 Polska Razem 233 433 Rok: 2020 Liczba Liczba badań Gatunek Rodzaj wykonanych z dodatnim Region zwierząt badania Opis badania badań wynikiem laboratoryjnych badania laboratoryjnego Rzeczpospolita świnie badanie ELISA 680 64 Polska serologiczne Rzeczpospolita świnie molekularne PCR 25 627 699 Polska Rzeczpospolita dziki badanie ELISA 95 060 873 Polska serologiczne Rzeczpospolita dziki molekularne PCR 106 328 14 005 Polska Razem 121 365 Rok: 2019 Liczba Liczba próbek Gatunek Rodzaj wykonanych z dodatnim Region zwierząt badania Opis badania badań wynikiem laboratoryjnych badania laboratoryjnego Rzeczpospolita świnie badanie ELISA 2755 10 Polska serologiczne Rzeczpospolita świnie molekularne PCR 16 458 706 Polska Rzeczpospolita dziki badanie ELISA 70 114 444 Polska serologiczne Rzeczpospolita dziki molekularne PCR 58 960 3495 Polska Razem 148 287
 6.3. Dane dotyczące zakażenia Nie dotyczy.
 6.4. Dane dotyczące statusu epizootycznego pod koniec każdego roku W 2021 r. na terytorium Rzeczypospolitej Polskiej stwierdzono 3214 przypadki ASF u dzików w województwach: dolnośląskim, lubelskim, lubuskim, mazowieckim, opolskim, podkarpackim, podlaskim, warmińsko-mazurskim, wielkopolskim oraz zachodniopomorskim. W tym samym okresie wyznaczono 124 ogniska ASF u świń w województwach: dolnośląskim, lubelskim, lubuskim, łódzkim, małopolskim, mazowieckim, podkarpackim, podlaskim, świętokrzyskim, warmińsko-mazurskim oraz wielkopolskim.

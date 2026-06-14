@@ -8,7 +8,7 @@ pos: 623
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Przepisy wprowadzające ustawę - Prawo celne
@@ -77,6 +77,11 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 **Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz.U. z 2002 r. Nr 110, poz. 968, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 3a w § 1 zdanie wstępne otrzymuje brzmienie: „§ 1. W zakresie zobowiązań: powstałych w przypadkach określonych w art. 8 i art. 21 § 1 pkt 1 ustawy - Ordynacja podatkowa, długów celnych powstałych w przypadkach określonych w art. 201 ust. 1 oraz art. 209 ust. 1 rozporządzenia Rady (EWG) nr 2913/92 z dnia 12 października 1992 r. ustanawiającego Wspólnotowy Kodeks Celny (Dz. Urz. WE L 302 z 19.10.1992), ostatnio zmienionego aktem dotyczącym warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w traktatach stanowiących podstawę Unii Europejskiej (Dz. Urz. UE L 236 z 23.9.2003), podatków wykazanych w zgłoszeniu celnym, składek na ubezpieczenie społeczne, a także opłat paliwowych, o których mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz.U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124), stosuje się również egzekucję administracyjną, jeżeli wynikają one odpowiednio:”;
+- **2)** w art. 17 § 1a otrzymuje brzmienie: „§ 1a. O ile odrębne przepisy nie stanowią inaczej, do zażaleń na postanowienia, o których mowa w art. 34 § 2, wydanych przez wierzycieli, dla których organem wyższego stopnia jest minister, stosuje się odpowiednio art. 127 § 3 Kodeksu postępowania administracyjnego, z tym że termin do wniesienia zażalenia wynosi 7 dni od dnia doręczenia postanowienia.”;
+- **3)** w art. 154 § 4 otrzymuje brzmienie: „§ 4. Zajęcie zabezpieczające przekształca się w zajęcie egzekucyjne z dniem wygaśnięcia decyzji, o której mowa w art. 33a i 33b ustawy - Ordynacja podatkowa lub w art. 61 ust. 3 ustawy z dnia 19 marca 2004 r. Prawo celne (Dz.U. Nr 68, poz. 622), pod warunkiem że organ ten wystawi tytuł wykonawczy nie później niż przed upływem 14 dni od dnia wygaśnięcia decyzji lub od dnia doręczenia upomnienia, jeżeli doręczenie to było wymagane.”;
+- **4)** w art. 159 § 1 otrzymuje brzmienie: „§ 1. Organ egzekucyjny na żądanie zobowiązanego, z zastrzeżeniem § 2, uchyla zabezpieczenie, jeżeli wniosek o wszczęcie postępowania egzekucyjnego nie został zgłoszony w terminie 30 dni od dnia dokonania zabezpieczenia należności pieniężnej, a w terminie 3 miesięcy od dokonania zabezpieczenia w związku z wydaniem decyzji, o której mowa w art. 33a i 33b ustawy - Ordynacja podatkowa lub w art. 61 ust. 3 ustawy z dnia 19 marca 2004 r. - Prawo celne, lub zabezpieczenia obowiązku o charakterze niepieniężnym.”.
+
 **Art. 4.** W ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz.U. z 2000 r. Nr 26, poz. 319, z 2002 r. Nr 153, poz. 1271 oraz z 2003 r. Nr 223, poz. 2217) w art. 13 ust. 7 otrzymuje brzmienie: „7. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla osób prawnych kościołów i innych związków wyznaniowych, w granicach i na warunkach określonych w rozporządzeniu nr 918/83/EWG z dnia 28 marca 1983 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. WE L 105 z 23.4.1983), ostatnio zmienionym aktem dotyczącym warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w traktatach stanowiących podstawę Unii Europejskiej (Dz. Urz. WE L 236 z 23.9.2003).”.
 
 **Art. 5.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz.U. Nr 29, poz. 154, z późn. zm. ) art. 56 otrzymuje brzmienie: „Art. 56. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla kościelnych osób prawnych, w granicach i na warunkach określonych w rozporządzeniu nr 918/83/EWG z dnia 28 marca 1983 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. WE L 105 z 23.4.1983), ostatnio zmienionym aktem dotyczącym warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w traktatach stanowiących podstawę Unii Europejskiej (Dz. Urz. WE L 236 z 23.9.2003).”.
@@ -107,13 +112,53 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 **Art. 18.** W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 137 § 1a otrzymuje brzmienie: „§ 1a. Pełnomocnikiem strony w postępowaniu przed organami celnymi, w sprawach dotyczących podatku od towarów i usług oraz podatku akcyzowego z tytułu importu towarów, może być także osoba, o której mowa w art. 79 ustawy z dnia 19 marca 2004 r. - Prawo celne (Dz.U. Nr 68, poz. 622), zwanej dalej „Prawem celnym”.”;
+- **2)** w art. 141 w § 1 pkt 2 otrzymuje brzmienie: „2) ministra właściwego do spraw finansów publicznych, jeżeli sprawa nie została załatwiona przez dyrektora izby skarbowej lub dyrektora izby celnej.”;
+- **3)** art. 147a otrzymuje brzmienie: „Art. 147a. W postępowaniu przed organami celnymi, w sprawach dotyczących podatku od towarów i usług oraz podatku akcyzowego z tytułu importu towarów, stosuje się przepisy art. 83 i art. 84 Prawa celnego.”;
+- **4)** w art. 165 dodaje się § 6 w brzmieniu: „§ 6. W postępowaniu przed organami celnymi w sprawach dotyczących podatku od towarów i usług oraz podatku akcyzowego z tytułu importu towarów, w przypadku, o którym mowa w art. 23 ust. 2 Prawa celnego, organ celny nie wydaje postanowienia o wszczęciu postępowania. Za datę wszczęcia postępowania przyjmuje się datę przyjęcia zgłoszenia celnego.”;
+- **5)** po art. 166 dodaje się art. 166a w brzmieniu: „Art. 166a. W postępowaniu przed organami celnymi, w sprawach dotyczących podatku od towarów i usług oraz podatku akcyzowego z tytułu importu towarów, stosuje się przepis art. 90 Prawa celnego.”;
+- **6)** po art. 204 dodaje się art. 204a w brzmieniu: „Art. 204a. W postępowaniu przed organami celnymi, w sprawach dotyczących podatku od towarów i usług oraz podatku akcyzowego z tytułu importu towarów, stosuje się przepis art. 87 Prawa celnego.”.
+
 **Art. 19.** W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz.U. z 2002 r. Nr 72, poz. 665, z późn. zm. ) w art. 112a ust. 1 otrzymuje brzmienie: „1. Banki są obowiązane realizować wpłaty dokonywane gotówką oraz polecenia przelewu dotyczące należności, do których stosuje się przepisy ustawy - Ordynacja podatkowa oraz rozporządzenia Rady (EWG) nr 2913/92 z dnia 12 października 1992 r. ustanawiającego Wspólnotowy Kodeks Celny (Dz. Urz. WE L 302 z 19.10.1992), ostatnio zmienionego aktem dotyczącym warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w traktatach stanowiących podstawę Unii Europejskiej (Dz. Urz. UE L 236 z 23.9.2003), w terminie 5 dni roboczych od dnia przyjęcia gotówki lub obciążenia rachunku bankowego posiadacza tego rachunku.”.
 
 **Art. 20.** W ustawie z dnia 24 lipca 1999 r. o Służbie Celnej (Dz.U. Nr 72, poz. 802, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 1:
+    - **a)** w ust. 1 użyte w różnych przypadkach wyrazy „polski obszar celny” zastępuje się użytymi w odpowiednich przypadkach wyrazami „obszar celny Wspólnoty Europejskiej”,
+    - **b)** w ust. 2: - po pkt 3c dodaje się pkt 3d i 3e w brzmieniu: „3d) współdziałanie przy realizacji Wspólnej Polityki Rolnej, 3e) wykonywanie zadań wynikających z przepisów wspólnotowych regulujących statystykę dotyczącą obrotu towarowego pomiędzy państwami członkowskimi Wspólnoty Europejskiej (INTRASTAT),”, - pkt 4 otrzymuje brzmienie: „4) rozpoznawanie, zapobieganie i wykrywanie przestępstw skarbowych i wykroczeń skarbowych, przestępstw i wykroczeń związanych z przywozem i wywozem towarów oraz ściganie ich sprawców, w zakresie określonym innymi ustawami,”, - dodaje się pkt 8 w brzmieniu: „8) współpraca z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych.”,
+    - **c)** w ust. 2a skreśla się wyrazy „zgodnie z przepisami Kodeksu celnego oraz”,
+    - **d)** ust. 7 otrzymuje brzmienie: „7. Urzędem w rozumieniu rozdziałów 2-13 ustawy jest izba celna wraz z podległymi jednostkami organizacyjnymi.”;
+
+- **2)** po art. 1 dodaje się art. 1a-1g w brzmieniu: „Art. 1a. Minister właściwy do spraw finansów publicznych:
+- **1)** sprawuje nadzór w sprawach, w których właściwe są organy celne,
+- **2)** współdziała w kształtowaniu polityki celnej państwa,
+- **3)** realizuje budżet państwa w zakresie ustalonym dla organów celnych,
+- **4)** kształtuje politykę kadrową i szkoleniową w organach celnych,
+- **5)** współpracuje z organami celnymi innych państw oraz organizacjami międzynarodowymi,
+- **6)** prowadzi postępowania w sprawach celnych określonych w przepisach odrębnych,
+- **7)** wykonuje inne zadania określone w ustawie oraz w przepisach odrębnych.
+
 **Art. 1b.** Do zadań dyrektora izby celnej należy:
 
+- **1)** realizacja polityki celnej państwa,
+- **2)** sprawowanie nadzoru nad naczelnikami urzędów celnych,
+- **3)** rozstrzyganie w II instancji w sprawach należących w I instancji do naczelników urzędów celnych,
+- **4)** rozstrzyganie w I instancji w sprawach celnych określonych w przepisach odrębnych,
+- **5)** realizacja polityki kadrowej i szkoleniowej w podległych jednostkach organizacyjnych Służby Celnej,
+- **6)** sprawowanie dozoru celnego i wykonywanie kontroli celnej,
+- **7)** zwalczanie i ściganie przestępstw skarbowych i wykroczeń skarbowych w zakresie ustalonym Kodeksem karnym skarbowym,
+- **8)** wykonywanie innych zadań określonych w ustawie oraz w przepisach odrębnych.
+
 **Art. 1c.** Do zadań naczelnika urzędu celnego należy:
+
+- **1)** nadawanie towarom przeznaczenia celnego oraz wykonywanie innych czynności przewidzianych przepisami prawa celnego,
+- **2)** dokonywanie wymiaru i poboru należności celnych,
+- **3)** dokonywanie wymiaru i poboru podatku akcyzowego,
+- **4)** dokonywanie wymiaru i poboru podatku od towarów i usług z tytułu importu towarów,
+- **5)** sprawowanie dozoru celnego i wykonywanie kontroli celnej,
+- **6)** wykonywanie szczególnego nadzoru podatkowego,
+- **7)** zwalczanie i ściganie przestępstw skarbowych i wykroczeń skarbowych w zakresie ustalonym Kodeksem karnym skarbowym,
+- **8)** wykonywanie innych zadań zleconych w przepisach odrębnych.
 
 **Art. 1d.**
 
@@ -196,6 +241,13 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 **Art. 6n.** Z zastrzeżeniem przepisów odrębnych, rewizji celnej nie podlegają:
 
+- **1)** na zasadzie wzajemności:
+    - **a)** towary przeznaczone dla obcych przedstawicielstw dyplomatycznych, urzędów konsularnych oraz misji specjalnych w Rzeczypospolitej Polskiej, a także organizacji międzynarodowych mających siedziby lub placówki w Rzeczypospolitej Polskiej,
+    - **b)** towary przeznaczone dla osób korzystających z przywilejów i immunitetów dyplomatycznych,
+    - **c)** opatrzone pieczęcią przesyłki urzędowe przesyłane do obcych przedstawicielstw dyplomatycznych, urzędów konsularnych i misji specjalnych w Rzeczypospolitej Polskiej oraz opatrzone pieczęcią przesyłki przez nie wysyłane,
+
+- **2)** opatrzone pieczęcią przesyłki urzędowe przesyłane między Ministerstwem Spraw Zagranicznych Rzeczypospolitej Polskiej a polskimi przedstawicielstwami dyplomatycznymi, urzędami konsularnymi i misjami specjalnymi za granicą.
+
 **Art. 6o.**
 
 1. Jeżeli nie można w inny sposób stwierdzić, czy osoba przewozi towary nieprzedstawione lub niezgłoszone, organ celny może przeszukać tę osobę.
@@ -244,6 +296,10 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 2. Rewizję celną przesyłek pocztowych i pobieranie próbek towarów w nich przesyłanych przeprowadza się w obecności zgłaszającego lub pracownika urzędu pocztowego.
 
 **Art. 6w.** W wypadku towarów wprowadzanych na obszar celny Wspólnoty lub wyprowadzanych z tego obszaru przez podróżnych organ celny może w szczególności:
+
+- **1)** ustalać tożsamość osoby, w tym kontrolować dokumenty uprawniające do przekraczania granicy państwowej,
+- **2)** przeprowadzać rewizję celną bagażu,
+- **3)** przeszukiwać osoby.
 
 **Art. 6x.**
 
@@ -384,9 +440,35 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 **Art. 21.** W ustawie z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz.U. Nr 83, poz. 930, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 53:
+    - **a)** § 32 otrzymuje brzmienie: „§ 32. Użyte w rozdziale 7 kodeksu określenia, a w szczególności: „dozór celny”, „kontrola celna”, „magazyn czasowego składowania”, „odprawa czasowa”, „organ celny”, „pozwolenie”, „przedstawienie towaru organowi celnemu”, „skład celny”, „skład wolnocłowy”, „stawka celna”, „wolny obszar celny”, „zamknięcie celne”, „zgłoszenie celne”, mają znaczenie nadane im w rozporządzeniu Rady (EWG) nr 2913/92 z dnia 12 października 1992 r. ustanawiającym Wspólnotowy Kodeks Celny (Dz. Urz. WE L 302 z 19.10.1992), ostatnio zmienionym aktem dotyczącym warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w traktatach stanowiących podstawę Unii Europejskiej (Dz. Urz. UE L 236 z 23.9.2003) oraz w rozporządzeniu Komisji (EWG) nr 2454/93/EWG z dnia 2 lipca 1993 r. ustanawiającym przepisy w celu wykonania rozporządzenia Rady (EWG) nr 2913/92 ustanawiającego Wspólnotowy Kodeks Celny (Dz. Urz. WE L 253 z 11.10.1993), ostatnio zmienionym rozporządzeniem nr 1335/2003/WE z dnia 25 lipca 2003 r. zmieniającym rozporządzenie (EWG) nr 2454/93 ustanawiające przepisy w celu wykonania rozporządzenia Rady (EWG) nr 2913/92 ustanawiającego Wspólnotowy Kodeks Celny (Dz. Urz. UE L 187 z
+
+26. 7.2003). Określenie „należność celna” oznacza odpowiednio „należności przywozowe” i „należności wywozowe” w rozumieniu Wspólnotowego Kodeksu Celnego.”,
+
+- **b)** § 33 otrzymuje brzmienie: „§ 33. Użyte w rozdziale 7 kodeksu określenie „reglamentacja pozataryfowa” oznacza odpowiednio środki polityki handlowej ustanowione przez Wspólnotę Europejską w ramach wspólnej polityki handlowej postanowieniami wspólnotowymi stosowanymi w odniesieniu do wywozu i przywozu towarów, takie jak środki dozoru lub ochrony, ograniczenia ilościowe i zakazy przywozu oraz wywozu.”,
+- **c)** po § 33 dodaje się § 33a w brzmieniu: „§ 33a. Jeżeli przedmiotem czynu zabronionego określonego w rozdziale 7 kodeksu jest towar wprowadzany na obszar celny Wspólnoty, przez wartość przedmiotu czynu zabronionego rozumie się wartość celną towaru.”;
+- **2)** w art. 85 § 1 otrzymuje brzmienie: „§ 1. Kto wyłudza pozwolenie lub inny podobny dokument, dotyczący warunków obrotu z zagranicą towarami lub usługami, regulowany przez przepisy, o których mowa w art. 53 § 32 lub 33, przez podstępne wprowadzenie w błąd organu uprawnionego do wydania takich dokumentów, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”;
+- **3)** w art. 89 § 1 otrzymuje brzmienie: „§ 1. Kto w użyciu towaru zmienia cel, przeznaczenie lub nie zachowuje innego warunku, od którego uzależnione jest zwolnienie towaru w całości lub w części od należności celnej, w szczególności od cła, albo zastosowanie zerowej, obniżonej lub preferencyjnej stawki celnej, podlega karze grzywny do 720 stawek dziennych.”;
+- **4)** w art. 93: [Art. 22. W ustawie z dnia 10 września 1999 r. - Przepisy wprowadzające Kodeks karny skarbowy (Dz.U. Nr 83, poz. 931) po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. Do czynów zabronionych określonych w art. 85-96 § 1 Kodeksu karnego skarbowego, popełnionych przed dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, stosuje się przepisy dotychczasowe.”.] art. 22 niezgodny z Konstytucją - wyrok TK (Dz.U. z 2005 r. Nr 25, poz. 214)
+    - **a)** uchyla się § 1,
+    - **b)** w § 3 wyrazy „magazynu celnego” zastępuje się wyrazami „magazynu czasowego składowania”.
+
 **Art. 23.** W ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz.U. Nr 50, poz. 424) w art. 16 w ust. 1 dodaje się pkt 11 w brzmieniu: „11) dyrektorzy izb celnych - w związku z toczącym się przeciwko osobie fizycznej postępowaniem karnym lub karnym skarbowym albo w związku z toczącym się postępowaniem karnym lub karnym skarbowym o przestępstwo lub przestępstwo skarbowe popełnione w związku z działaniem osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej oraz w zakresie niezbędnym do przeprowadzania kontroli celnej i kontroli podatkowej.”.
 
 **Art. 24.** W ustawie z dnia 23 stycznia 2004 r. o podatku akcyzowym (Dz.U. Nr 29, poz. 257) wprowadza się następujące zmiany:
+
+- **1)** w art. 17 w ust. 3 wyrazy „o której mowa w art. 261 Kodeksu celnego” zastępuje się wyrazami „o której mowa w art. 81 ust. 2 ustawy z dnia 19 marca 2004 r. Prawo celne (Dz.U. Nr 68, poz. 622)”;
+- **2)** w art. 20:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Jeżeli organ celny stwierdzi, iż w zgłoszeniu celnym kwota akcyzy została wykazana nieprawidłowo, wydaje decyzję określającą kwotę akcyzy w prawidłowej wysokości. Naczelnik urzędu celnego może określić kwotę akcyzy w decyzji dotyczącej należności celnych przywozowych.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Po przyjęciu zgłoszenia celnego podatnik może wystąpić do naczelnika urzędu celnego o wydanie decyzji określającej kwotę akcyzy w prawidłowej wysokości.”;
+
+- **3)** w art. 21 w ust. 2 wyrazy „zwolnione od cła” zastępuje się wyrazami „zwolnione od należności celnych przywozowych”;
+- **4)** w art. 22:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Jeżeli zgodnie z przepisami prawa celnego powiadomienie dłużnika o wysokości długu celnego nie może nastąpić z uwagi na przedawnienie, a istnieje podstawa do zweryfikowania należności podatkowych, naczelnik urzędu celnego może określić elementy kalkulacyjne według zasad określonych w przepisach prawa celnego na potrzeby prawidłowego określenia kwoty akcyzy z tytułu importu wyrobów akcyzowych.”,
+    - **b)** w ust. 3 wyrazy „W przypadku gdy w wyniku weryfikacji zgłoszenia celnego” zastępuje się wyrazami „W przypadku gdy w wyniku kontroli zgłoszenia celnego”;
+
+- **5)** w art. 25 w ust. 2 wyrazy „zwolnione od cła” zastępuje się wyrazami „zwolnione od należności celnych przywozowych”;
+- **6)** w art. 88 w ust. 2 wyrazy „wolne od cła” zastępuje się wyrazami „zwolnione od należności celnych przywozowych”.
 
 #### Rozdział 3 Przepisy przejściowe i końcowe
 
@@ -416,6 +498,9 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 
 **Art. 31.** Od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej ustanowione na podstawie przepisów dotychczasowych:
 
+- **1)** wolne obszary celne stają się wolnymi obszarami celnymi o typie kontroli I w rozumieniu art. 799 lit. a Rozporządzenia Wykonawczego;
+- **2)** składy wolnocłowe stają się składami wolnocłowymi w rozumieniu art. 166 Wspólnotowego Kodeksu Celnego.
+
 **Art. 32.** Do decyzji o wyznaczeniu lub uznaniu miejsca, w którym mogą być dokonywane czynności przewidziane przepisami prawa celnego, oraz decyzji w sprawie ochrony praw własności intelektualnej, wydanych na podstawie przepisów dotychczasowych, stosuje się odpowiednio przepisy art. 27 ust. 1-3.
 
 **Art. 33.** Zabezpieczenia kwot długu celnego złożone na podstawie przepisów dotychczasowych zachowują swoją ważność do czasu, na jaki zostały przyjęte.
@@ -427,6 +512,9 @@ b) dodaje się ust. 10-14 w brzmieniu: „10. Dyrektora izby celnej i jego zast�
 **Art. 36.** W przypadku postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy czynności podjęte w toku postępowań pozostają w mocy, o ile ich zakres przedmiotowy jest wymagany do wydania stosownego rozstrzygnięcia według przepisów obowiązujących od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
 **Art. 37.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 34, art. 61 § 1, art. 168 § 2, art. 172, art. 179 § 4, art. 188, art. 189 § 4, art. 190 § 5, art. 190 § 12 i 13, art. 190 § 3, art. 190 § 7, art. 190 § 2, art. 190 § 9, art. 200 § 3, art. 201 § 3, art. 232 § 2, art. 261 pkt 2 i 3, art. 263 pkt 1 i 2, art. 276 § 4 i § 5 pkt 2, art. 278 § 2 i art. 288 § 2 ustawy, o której mowa w art. 25, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11, art. 17, art. 18 ust. 2, art. 27 ust. 1, art. 28, art. 29 ust. 2, art. 35 ust. 4, art. 40, art. 43, art. 44, art. 46-48, art. 50, art. 52 ust. 2, art. 53, art. 58, art. 70 ust. 3, art. 71, art. 81 ust. 2, art. 93 ust. 2 i art. 94 ust. 2 ustawy, o której mowa w art. 1, w takim zakresie, w jakim nie stanowią powtórzeń wspólnotowego prawa celnego,
+- **2)** art. 6 § 5 i 6, art. 12 § 2 i 3, art. 277 § 3, art. 277 , art. 277 § 6, art. 277 § 2, art. 277 § 4, art. 277 § 5, art. 277 § 2, art. 277 § 2, art. 284 § 3 i 4 i art. 286 § 2 ustawy, o której mowa w art. 25, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 1d ust. 3 i 4, art. 1f ust. 3, art. 6l ust. 3, art. 6s ust. 1 i 3, art. 6t, art. 6x ust. 6, art. 6za ust. 2, art. 6zj ust. 4, art. 6zk ust. 5, art. 6zl ust. 2 i art. 6zn ust. 2 ustawy, o której mowa w art. 20, w brzmieniu nadanym niniejszą ustawą - jednak nie dłużej niż do dnia 31 grudnia 2004 r.
 
 **Art. 38.** Ogłoszenie tekstu jednolitego ustawy, o której mowa w art. 20, nastąpi w terminie 2 miesięcy od dnia wejścia w życie ustawy.
 

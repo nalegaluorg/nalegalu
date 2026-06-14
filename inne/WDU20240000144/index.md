@@ -8,10 +8,10 @@ pos: 144
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 114444 ROZPORZĄDZENIE MINISTRA EDUKACJI z dnia 2 lutego 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/144/text.pdf) |
 
-Poz. 144 ROZPORZĄDZENIE MINISTRA EDUKACJI z dnia 2 lutego 2024 r.
-zmieniające rozporządzenie sprawie warunków sposobu wykonywania przez przedszkola, szkoły placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej językowej uczniów należących do mniejszości narodowych etnicznych oraz społeczności posługującej się językiem regionalnym Na podstawie art. 13 ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r.
-poz. 1234 2005) zarządza się, co następuje: § 1. rozporządzeniu Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. sprawie warunków sposobu wykonywania przez przedszkola, szkoły placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej językowej uczniów należących do mniejszości narodowych etnicznych oraz społeczności posługującej się językiem regionalnym (Dz. U. z 2023 r. poz. 2737) wprowadza się następujące zmiany:
-1) § 8 ust. 3 otrzymuje brzmienie: „3. międzyszkolnym zespole nauczania nauka języka mniejszości lub języka regionalnego jest prowadzona formie dodatkowej nauki języka mniejszości lub języka regionalnego, o której mowa § 4 ust. 1 pkt 1, dla uczniów szkół tego samego typu wymiarze 3 godzin tygodniowo.”;
-2) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie z dniem 1 września 2024 r.
-Minister Edukacji: B. Nowacka M M M
+zmieniające rozporządzenie w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym Na podstawie art. 13 ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r.
+poz. 1234 i 2005) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym (Dz. U. z 2023 r. poz. 2737) wprowadza się następujące zmiany:
+1) w § 8 ust. 3 otrzymuje brzmienie: „3. W międzyszkolnym zespole nauczania nauka języka mniejszości lub języka regionalnego jest prowadzona w formie dodatkowej nauki języka mniejszości lub języka regionalnego, o której mowa w § 4 ust. 1 pkt 1, dla uczniów szkół tego samego typu w wymiarze 3 godzin tygodniowo.”;
+2) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2024 r.
+Minister Edukacji: B. Nowacka … W M W W M M W
 

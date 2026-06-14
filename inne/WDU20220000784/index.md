@@ -8,10 +8,10 @@ pos: 784
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 kwietnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 784 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 5 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000784) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/784/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 5 kwietnia 2022 r.
-w sprawie praktyki zawodowej w aptece Na podstawie art. 12 ust. 6 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 184 i 655) zarządza się, co następuje: § 1. Rozporządzenie określa ramowy program praktyki zawodowej w aptece, zwanej dalej „praktyką”, sposób jej odbywania oraz wzór dziennika praktyki zawodowej.
+w sprawie praktyki zawodowej w aptece Na podstawie art. 12 ust. 6 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 184 i 655) zarządza się, co następuje:
+§ 1. Rozporządzenie określa ramowy program praktyki zawodowej w aptece, zwanej dalej „praktyką”, sposób jej odbywania oraz wzór dziennika praktyki zawodowej.
 § 2. 1. Praktyka rozpoczyna się po przygotowaniu pracy dyplomowej i zdaniu egzaminu dyplomowego.
 2. Praktyka trwa 6 miesięcy i obejmuje 960 godzin dydaktycznych, w czasie których powinien być realizowany ramowy program praktyki. Godzina dydaktyczna trwa 45 minut.
 3. W przypadku gdy praktyka odbywa się w aptece szpitalnej lub zakładowej, co najmniej 3 miesiące praktyki powinny odbyć się również w aptece ogólnodostępnej.
@@ -39,7 +39,7 @@ w sprawie praktyki zawodowej w aptece Na podstawie art. 12 ust. 6 ustawy z dnia 
 1) nieobecność w dniu wyznaczonym przez organy uczelni jako dni wolne od zajęć na uczelni;
 2) niezdolność w okresie 6 miesięcy do odbywania praktyki z powodu choroby lub innych zdarzeń losowych trwających łącznie do 14 dni kalendarzowych;
 3) choroba lub inne zdarzenia losowe trwające łącznie ponad 14 dni kalendarzowych w okresie 6 miesięcy;
-4) urlopy, o których mowa w art. 85 ust. 1 pkt 3 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583, 655 i 682).
+4) urlopy, o których mowa w art. 85 ust. 1 pkt 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583, 655 i 682).
 2. W przypadkach, o których mowa w ust. 1, opiekun ustala w porozumieniu ze studentem sposób i formę zaliczenia danej części ramowego programu praktyki.
 § 5. W celu realizacji ramowego programu praktyki student ma obowiązek uzupełnienia wszystkich nieobecności zgodnie z wymiarem godzinowym określonym w § 2 ust. 2.
 § 6. 1. Student odbywa praktykę na podstawie skierowania uczelni, na której kształci się na kierunku farmacja, zawierającego:
@@ -60,13 +60,13 @@ w sprawie praktyki zawodowej w aptece Na podstawie art. 12 ust. 6 ustawy z dnia 
 7) przestrzega zasad współżycia społecznego.
 § 8. 1. Student prowadzi dziennik praktyki zawodowej, w którym odnotowuje wykonywane czynności praktyczne oraz nabywane umiejętności. Wykonanie czynności praktycznych i nabycie umiejętności potwierdza opiekun.
 2. Wzór dziennika praktyki zawodowej w aptece określa załącznik nr 2 do rozporządzenia.
-3. W przypadku odbywania praktyki w kilku aptekach lub odbywania praktyki z przerwami wpisy w dzienniku praktyki zawodowej obejmują informacje dotyczące przebiegu kolejnych etapów praktyki w każdej z aptek z uwzględnieniem dat rozpoczęcia i zakończenia okresu ich trwania. Odbycie praktyki potwierdzają wszyscy opiekunowie wyznaczeni w każdym z miejsc odbywania praktyki.
+3. W przypadku odbywania praktyki w kilku aptekach lub odbywania praktyki z przerwami wpisy w dzienniku praktyki zawodowej obejmują informacje dotyczące przebiegu kolejnych etapów praktyki w każdej z aptek – z uwzględnieniem dat rozpoczęcia i zakończenia okresu ich trwania. Odbycie praktyki potwierdzają wszyscy opiekunowie wyznaczeni w każdym z miejsc odbywania praktyki.
 4. Po zakończeniu praktyki student przedkłada uczelni wypełniony dziennik praktyki zawodowej.
-5. praktyki zawodowej jest dołączany do dokumentacji przebiegu studiów.
+5. Dziennik praktyki zawodowej jest dołączany do dokumentacji przebiegu studiów.
 § 9. Praktykę uczelnia zalicza na podstawie wymaganych wpisów w dzienniku praktyki zawodowej.
 § 10. Studenci, którzy rozpoczęli odbywanie praktyki przed dniem wejścia w życie niniejszego rozporządzenia, odbywają ją na dotychczasowych zasadach.
 § 11. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski Załączniki do rozporządzenia Ministra Zdrowia z dnia 5 kwietnia 2022 r. (poz. ….) Załącznik nr 1 RAMOWY PROGRAM PRAKTYKI ZAWODOWEJ W APTECE Cel praktyki Pogłębianie wiedzy teoretycznej oraz doskonalenie umiejętności w zakresie farmacji aptecznej i szpitalnej oraz opieki farmaceutycznej, zdobytych w czasie dotychczasowych studiów na kierunku farmacja, ze szczególnym uwzględnieniem: sporządzania produktów leczniczych, przechowywania i wydawania produktów leczniczych i wyrobów medycznych, opanowania w praktyce umiejętności udzielania informacji o lekach, doradzania pacjentowi, świadczenia opieki farmaceutycznej oraz promocji zdrowia, a także podstaw etycznych, prawnych i organizacyjnych pracy farmaceuty w aptece.
+Minister Zdrowia: A. Niedzielski Załączniki do rozporządzenia Ministra Zdrowia z dnia 5 kwietnia 2022 r. (poz. ….) Załącznik nr 1 RAMOWY RAMOWY PROGRAM PROGRAM PRAKTYKI PRAKTYKI ZAWODOWEJ ZAWODOWEJ W APTECE W APTECE Cel praktyki Pogłębianie wiedzy teoretycznej oraz doskonalenie umiejętności w zakresie farmacji aptecznej i szpitalnej oraz opieki farmaceutycznej, zdobytych w czasie dotychczasowych studiów na kierunku farmacja, ze szczególnym uwzględnieniem: sporządzania produktów leczniczych, przechowywania i wydawania produktów leczniczych i wyrobów medycznych, opanowania w praktyce umiejętności udzielania informacji o lekach, doradzania pacjentowi, świadczenia opieki farmaceutycznej oraz promocji zdrowia, a także podstaw etycznych, prawnych i organizacyjnych pracy farmaceuty w aptece.
 Wykaz efektów uczenia się obejmujący umiejętności, które student powinien posiadać po zakończeniu praktyki
 1. Wydawanie produktów leczniczych i wyrobów medycznych oraz udzielanie informacji o lekach:
 1) wydawanie produktów leczniczych i wyrobów medycznych będących przedmiotem obrotu w aptekach;
@@ -75,7 +75,7 @@ Wykaz efektów uczenia się obejmujący umiejętności, które student powinien 
 2. Sporządzanie produktów leczniczych:
 1) prawidłowe sporządzanie leków recepturowych i aptecznych;
 2) prawidłowe sporządzanie leków w warunkach aseptycznych;
-3) ocena jakości postaci produktów leczniczych, leków recepturowych i aptecznych w zakresie metod i środków dostępnych w aptece.
+3) ocena jakości postaci produktów leczniczych, leków recepturowych i aptecznych – w zakresie metod i środków dostępnych w aptece.
 3. Opieka farmaceutyczna:
 1) komunikacja interpersonalna z pacjentami, ich opiekunami, lekarzami oraz pozostałymi pracownikami ochrony zdrowia;
 2) praktyczna realizacja opieki farmaceutycznej w aptece.
@@ -85,11 +85,13 @@ Wykaz efektów uczenia się obejmujący umiejętności, które student powinien 
 3) stosowanie przepisów dotyczących wykonywania zawodu farmaceuty, prowadzenia apteki, przepisów prawa pracy oraz zasad kodeksu etyki zawodowej;
 4) stosowanie zasad rozmieszczania i przechowywania produktów leczniczych i wyrobów medycznych;
 5) przygotowywanie zamówień i współpraca z hurtowniami farmaceutycznymi oraz posługiwanie się lekospisami i bazami danych o lekach.
-RAMOWY PROGRAM PRAKTYKI ZAWODOWEJ W APTECE WZÓR DZIENNIK PRAKTYKI ZAWODOWEJ .........................................................................................
-(własnoręczny podpis studenta) Nazwa uczelni i właściwej jednostki organizacyjnej okładka strona 1 WZÓR ......................................................................................................................................................
+
+## Załącznik nr 2 — WZÓR WZÓR DZIENNIK PRAKTYKI ZAWODOWEJ Nazwa uczelni i właściwej jednostki organizacyjnej .........................................................................................
+
+(własnoręczny podpis studenta) okładka – strona 1 ......................................................................................................................................................
 (nazwa i adres jednostki organizacyjnej uczelni) Pan(i) ......................................................................................................................................................
 (imię i nazwisko studenta) ………………………………………… (data rozpoczęcia praktyki zawodowej) ……………………………………………………………………………………………….….
-(imię i nazwisko opiekuna) ………………………………………… (podpis rektora uczelni) wewnętrzna strona okładki strona 2 Część I Wykaz czynności praktycznych wykonywanych przez studenta Data Wyszczególnienie zajęć ……..…………..………………..
+(imię i nazwisko opiekuna) ………………………………………… (podpis rektora uczelni) wewnętrzna strona okładki – strona 2 Część I Wykaz czynności praktycznych wykonywanych przez studenta Data Wyszczególnienie zajęć ……..…………..………………..
 (podpis opiekuna) strona 3 Część II Wykaz uzyskanych efektów uczenia się w zakresie umiejętności określonych w ramowym programie praktyki zawodowej Wykaz umiejętności Podpis opiekuna strona 4–26 Część III ......................................................................................................................................................
 (nazwa i adres jednostki organizacyjnej uczelni) Pan(i) ......................................................................................................................................................
 (imię i nazwisko studenta) zaliczył(a) praktykę zawodową realizowaną w okresie od ……………….…………………….

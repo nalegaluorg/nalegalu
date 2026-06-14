@@ -8,7 +8,7 @@ pos: 1083
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 34/A/2018 WYROK z dnia 23 maja 2018 r.

@@ -8,10 +8,10 @@ pos: 336
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 marca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 336 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 18 lutego 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/336/text.pdf) |
 
-Poz. 336 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 18 lutego 2020 r.
-w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Straży Marszałkowskiej Na podstawie art. 56 ust. 9 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2019 r. poz. 1940) zarządza się, co następuje: § 1. Rozporządzenie określa tryb i terminy przekazywania do Zakładu Ubezpieczeń Społecznych, zwanego dalej „Zakładem”, składek na ubezpieczenia emerytalne i rentowe, zwanych dalej „składkami”, od uposażenia wypłaconego funkcjonariuszowi Straży Marszałkowskiej, zwanego dalej „funkcjonariuszem”, do dnia zwolnienia ze służby, od którego nie odprowadzono tych składek.
+w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Straży Marszałkowskiej Na podstawie art. 56 ust. 9 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2019 r. poz. 1940) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb i terminy przekazywania do Zakładu Ubezpieczeń Społecznych, zwanego dalej „Zakładem”, składek na ubezpieczenia emerytalne i rentowe, zwanych dalej „składkami”, od uposażenia wypłaconego funkcjonariuszowi Straży Marszałkowskiej, zwanego dalej „funkcjonariuszem”, do dnia zwolnienia ze służby, od którego nie odprowadzono tych składek.
 § 2. 1. Składki przekazuje się na rachunek bankowy wskazany przez Zakład, przy użyciu dokumentów płatniczych określonych w art. 47 ust. 4a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2020 r.
 poz. 266 i 321).
 2. Składki rozliczone w deklaracjach rozliczeniowych i imiennych raportach miesięcznych określonych w ustawie, o której mowa w ust. 1, z uwzględnieniem całego okresu służby funkcjonariusza, przekazuje się do Zakładu:

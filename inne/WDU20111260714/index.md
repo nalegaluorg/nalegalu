@@ -8,7 +8,7 @@ pos: 714
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Krajowej Radzie Sądownictwa
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-05-12 |
 | Data wydania | 2011-06-17 |
-| Ostatnia zmiana | 2026-02-11 |
+| Ostatnia zmiana | 2026-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111260714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/714/text.pdf) |
 
 Art. 46–49. (pominięte)
@@ -128,11 +128,11 @@ Art. 46–49. (pominięte)
 - **1)** sądu rejonowego, sądu okręgowego albo wojskowego sądu garnizonowego – do prezesa sądu wyższej instancji,
 - **2)** sądu apelacyjnego, wojewódzkiego sądu administracyjnego albo wojskowego sądu okręgowego – do wiceprezesa albo zastępcy prezesa tego sądu – z wnioskiem o sporządzenie i przekazanie, w terminie siedmiu dni od dnia otrzymania wniosku, informacji obejmującej dorobek orzeczniczy kandydata, w tym doniosłe społecznie lub precedensowe orzeczenia, i istotne informacje dotyczące kultury urzędowania, przede wszystkim ujawnione podczas wizytacji i lustracji.
 
-7. W przypadku, gdy informacja, o której mowa w ust. 6, nie zostanie sporządzona w terminie, o którym mowa w ust. 6, Marszałek zwraca się na piśmie do kandydata na członka Rady o sporządzenie przez niego tej informacji, w terminie siedmiu dni od dnia otrzymania wniosku Marszałka Sejmu. Kopię sporządzonej przez siebie informacji kandydat na członka Rady przekazuje, odpowiednio, prezesowi sądu właściwego dla zgłoszonego kandydata, prezesowi sądu wyższej instancji albo wiceprezesowi albo zastępcy prezesa sądu apelacyjnego, wojewódzkiego sądu administracyjnego albo wojskowego sądu okręgowego.
+7. W przypadku, gdy informacja, o której mowa w ust. 6, nie zostanie sporządzona w terminie, o którym mowa w ust. 6, Marszałek Sejmu zwraca się na piśmie do kandydata na członka Rady o sporządzenie przez niego tej informacji, w terminie siedmiu dni od dnia otrzymania wniosku Marszałka Sejmu. Kopię sporządzonej przez siebie informacji kandydat na członka Rady przekazuje, odpowiednio, prezesowi sądu właściwego dla zgłoszonego kandydata, prezesowi sądu wyższej instancji albo wiceprezesowi albo zastępcy prezesa sądu apelacyjnego, wojewódzkiego sądu administracyjnego albo wojskowego sądu okręgowego.
 
-8. W przypadku niesporządzenia informacji, o której mowa w ust. 6, przez kandydata na członka Rady w terminie, o którym mowa w ust. 7, Marszałek odmawia przyjęcia zgłoszenia. Postanowienie w tej sprawie wraz z uzasadnieniem doręcza się niezwłocznie pełnomocnikowi oraz kandydatowi na członka Rady.
+8. W przypadku niesporządzenia informacji, o której mowa w ust. 6, przez kandydata na członka Rady w terminie, o którym mowa w ust. 7, Marszałek Sejmu odmawia przyjęcia zgłoszenia. Postanowienie w tej sprawie wraz z uzasadnieniem doręcza się niezwłocznie pełnomocnikowi oraz kandydatowi na członka Rady.
 
-9. Informację, o której mowa w ust. 6, Marszałek załącza do zgłoszenia kandydata.
+9. Informację, o której mowa w ust. 6, Marszałek Sejmu załącza do zgłoszenia kandydata.
 
 **Art. 11b.**
 
@@ -144,27 +144,27 @@ Art. 46–49. (pominięte)
 
 4. Państwowa Komisja Wyborcza w postępowaniu stwierdza, czy złożono wymaganą liczbę podpisów w terminie czternastu dni od dnia otrzymania pisma Marszałka Sejmu.
 
-5. Jeżeli po przeprowadzeniu postępowania, o którym mowa w ust. 4, okaże się, że liczba prawidłowo złożonych podpisów przez obywateli popierających zgłoszenie jest mniejsza niż wymagana, Marszałek odmawia przyjęcia zgłoszenia. Postanowienie w tej sprawie wraz z uzasadnieniem doręcza się niezwłocznie pełnomocnikowi.
+5. Jeżeli po przeprowadzeniu postępowania, o którym mowa w ust. 4, okaże się, że liczba prawidłowo złożonych podpisów przez obywateli popierających zgłoszenie jest mniejsza niż wymagana, Marszałek Sejmu odmawia przyjęcia zgłoszenia. Postanowienie w tej sprawie wraz z uzasadnieniem doręcza się niezwłocznie pełnomocnikowi.
 
-6. Postanowienie może być zaskarżone przez pełnomocnika do Sądu Najwyższego w terminie trzech dni od dnia doręczenia. Sąd Najwyższy rozpoznaje skargę w terminie trzech dni w postępowaniu nieprocesowym, w składzie trzech sędziów. W wyniku rozpoznania skargi Sąd Najwyższy zaskarżone postanowienie zmienia albo utrzymuje w mocy. Od postanowienia Sądu Najwyższego nie przysługuje środek prawny. W przypadku nierozpoznania skargi przez Sąd Najwyższy w terminie trzech dni postępowanie przed Sądem Najwyższym umarza się z mocy prawa, a postanowienie Marszałka odmawiające przyjęcia zgłoszenia jest wiążące.
+6. Postanowienie może być zaskarżone przez pełnomocnika do Sądu Najwyższego w terminie trzech dni od dnia doręczenia. Sąd Najwyższy rozpoznaje skargę w terminie trzech dni w postępowaniu nieprocesowym, w składzie trzech sędziów. W wyniku rozpoznania skargi Sąd Najwyższy zaskarżone postanowienie zmienia albo utrzymuje w mocy. Od postanowienia Sądu Najwyższego nie przysługuje środek prawny. W przypadku nierozpoznania skargi przez Sąd Najwyższy w terminie trzech dni postępowanie przed Sądem Najwyższym umarza się z mocy prawa, a postanowienie Marszałka Sejmu odmawiające przyjęcia zgłoszenia jest wiążące.
 
 7. Do zgłoszenia kandydata przez podmiot, o którym mowa w art. 11a ust. 2 pkt 2, załącza się wykaz sędziów popierających zgłoszenie, zawierający ich imiona, nazwiska, miejsca służbowe, numery ewidencyjne PESEL i własnoręcznie złożone podpisy.
 
 8. Marszałek Sejmu, w terminie trzech dni od dnia otrzymania zgłoszenia kandydata przez podmiot, o którym mowa w art. 11a ust. 2 pkt 2, zwraca się na piśmie do Ministra Sprawiedliwości o potwierdzenie posiadania przez osoby popierające zgłoszenie statusu sędziego. Minister Sprawiedliwości potwierdza posiadanie przez osoby popierające zgłoszenie statusu sędziego w terminie trzech dni od dnia otrzymania pisma Marszałka Sejmu. Przepisy ust. 5 i 6 stosuje się odpowiednio.
 
-9. Wzór zgłoszenia kandydata oraz wzory wykazu obywateli i wykazu sędziów popierających zgłoszenie kandydata na członka Rady ustala, w drodze zarządzenia, Marszałek Sejmu. Zarządzenie Marszałka podlega obwieszczeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+9. Wzór zgłoszenia kandydata oraz wzory wykazu obywateli i wykazu sędziów popierających zgłoszenie kandydata na członka Rady ustala, w drodze zarządzenia, Marszałek Sejmu. Zarządzenie Marszałka Sejmu podlega obwieszczeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 11c.** Zgłoszenia kandydatów dokonane zgodnie z art. 11a i art. 11b Marszałek niezwłocznie przekazuje posłom i podaje do publicznej wiadomości, z wyłączeniem załączników.
+**Art. 11c.** Zgłoszenia kandydatów dokonane zgodnie z art. 11a i art. 11b Marszałek Sejmu niezwłocznie przekazuje posłom i podaje do publicznej wiadomości, z wyłączeniem załączników.
 
 **Art. 11d.**
 
-1. Marszałek zwraca się do klubów poselskich o wskazanie, w terminie siedmiu dni, kandydatów na członków Rady.
+1. Marszałek Sejmu zwraca się do klubów poselskich o wskazanie, w terminie siedmiu dni, kandydatów na członków Rady.
 
 2. Klub poselski wskazuje, spośród sędziów, których kandydatury zostały zgłoszone w trybie art. 11a, nie więcej niż dziewięciu kandydatów na członków Rady.
 
-3. Jeżeli łączna liczba kandydatów wskazanych przez kluby poselskie jest mniejsza niż piętnaście, Prezydium wskazuje, spośród kandydatów zgłoszonych w trybie art. 11a, kandydatów w liczbie brakującej do piętnastu.
+3. Jeżeli łączna liczba kandydatów wskazanych przez kluby poselskie jest mniejsza niż piętnaście, Prezydium Sejmu wskazuje, spośród kandydatów zgłoszonych w trybie art. 11a, kandydatów w liczbie brakującej do piętnastu.
 
-4. Właściwa komisja sejmowa ustala listę kandydatów wybierając, spośród kandydatów wskazanych w trybie ust. 2 i 3, piętnastu kandydatów na członków Rady, z zastrzeżeniem, że na liście uwzględnia się co najmniej jednego kandydata wskazanego przez każdy klub poselski, który działał w terminie sześćdziesięciu dni od dnia pierwszego posiedzenia kadencji w trakcie której jest dokonywany wybór, o ile kandydat ten został wskazany przez klub w ramach wskazania, o którym mowa w ust. 2.
+4. Właściwa komisja sejmowa ustala listę kandydatów wybierając, spośród kandydatów wskazanych w trybie ust. 2 i 3, piętnastu kandydatów na członków Rady, z zastrzeżeniem, że na liście uwzględnia się co najmniej jednego kandydata wskazanego przez każdy klub poselski, który działał w terminie sześćdziesięciu dni od dnia pierwszego posiedzenia Sejmu kadencji w trakcie której jest dokonywany wybór, o ile kandydat ten został wskazany przez klub w ramach wskazania, o którym mowa w ust. 2.
 
 5. Sejm wybiera członków Rady na wspólną czteroletnią kadencję, na najbliższym posiedzeniu Sejmu, większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów, głosując na listę kandydatów, o której mowa w ust. 4.
 
@@ -174,7 +174,7 @@ Art. 46–49. (pominięte)
 
 **Art. 11e.**
 
-1. Jeżeli przed upływem kadencji członka Rady wybranego spośród sędziów zajdzie potrzeba ponownego obsadzenia mandatu członka Rady, Marszałek niezwłocznie obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” o rozpoczęciu procedury zgłaszania kandydatów na członka Rady w związku z potrzebą ponownego obsadzenia mandatu. Przepisy art. 11a ust. 2–9, art. 11b i art. 11c stosuje się odpowiednio.
+1. Jeżeli przed upływem kadencji członka Rady wybranego spośród sędziów zajdzie potrzeba ponownego obsadzenia mandatu członka Rady, Marszałek Sejmu niezwłocznie obwieszcza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” o rozpoczęciu procedury zgłaszania kandydatów na członka Rady w związku z potrzebą ponownego obsadzenia mandatu. Przepisy art. 11a ust. 2–9, art. 11b i art. 11c stosuje się odpowiednio.
 
 2. W przypadku, o którym mowa w ust. 1, do wyboru członka Rady stosuje się przepisy art. 9a ust. 1 i 2 oraz art. 11d.
 
@@ -309,6 +309,9 @@ Art. 46–49. (pominięte)
 2. Do sędziego delegowanego do pełnienia czynności w Biurze stosuje się odpowiednio przepisy art. 78 § 2–4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych. Wysokość dodatków ustala Minister Sprawiedliwości na wniosek Przewodniczącego.
 
 **Art. 26.** Członkowie Rady w związku z pełnieniem obowiązków w Radzie otrzymują:
+
+- **1)** diety za każdy dzień udziału w posiedzeniach plenarnych i innych pracach Rady w wysokości 20 % podstawy ustalenia wynagrodzenia zasadniczego sędziego, o której mowa w art. 91 § 1c ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych;
+- **2)** zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878) według zasad obowiązujących przy podróżach służbowych na obszarze kraju.
 
 **Art. 27.**
 

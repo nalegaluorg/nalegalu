@@ -8,7 +8,7 @@ pos: 462
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 24/3/A/2005 WYROK z dnia 15 marca 2005 r.

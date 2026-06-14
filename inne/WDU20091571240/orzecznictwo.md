@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 2009 r. o finansach publicznych*
 
-Łącznie: **517** orzeczeń
+Łącznie: **519** orzeczeń
 (pominięto 487 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
@@ -72,7 +72,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 2009 r. o finansach publiczn
 - 2020-10-01 | SO | [I ACa 661/19](https://www.saos.org.pl/judgments/436923) | Wyrok
 - 2020-09-25 | SO | [I ACa 267/20](https://www.saos.org.pl/judgments/434002) | Wyrok
 
-## art. 9 (40)
+## art. 9 (41)
 
 - 2011-07-05 | TK | [P 14/10](https://www.saos.org.pl/judgments/110304) | Wyrok ★
 - 2010-10-26 | TK | [K 58/07](https://www.saos.org.pl/judgments/206258) | Wyrok ★
@@ -99,6 +99,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 2009 r. o finansach publiczn
 - 2012-06-27 | KIO | [KIO 1259/12](https://www.saos.org.pl/judgments/120527) | Wyrok
 - 2010-08-13 | KIO | [KIO 1557/10](https://www.saos.org.pl/judgments/116428) | Wyrok
 - 2010-08-13 | KIO | [KIO 1557/10](https://www.saos.org.pl/judgments/116425) | Wyrok
+- 2026-05-08 | SO | [IV P 31/26](https://www.saos.org.pl/judgments/546905) | Wyrok
 - 2022-04-22 | SO | [II Ca 1395/21](https://www.saos.org.pl/judgments/492311) | Wyrok
 - 2021-06-30 | SO | [II Ca 257/21](https://www.saos.org.pl/judgments/446663) | Wyrok
 - 2019-06-12 | SO | [XIV C 400/19](https://www.saos.org.pl/judgments/384383) | Wyrok
@@ -1042,10 +1043,11 @@ Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 2009 r. o finansach publiczn
 
 - 2017-01-19 | SO | [XVIII C 390/16](https://www.saos.org.pl/judgments/275336) | Wyrok
 
-## (ogólnie) (151)
+## (ogólnie) (152)
 
 - 2025-07-03 | SO | [III AUa 669/24](https://www.saos.org.pl/judgments/537930) | Wyrok
 - 2025-05-27 | SO | [III AUa 713/24](https://www.saos.org.pl/judgments/537937) | Wyrok
+- 2025-04-28 | SO | [I AGa 438/23](https://www.saos.org.pl/judgments/546682) | Wyrok
 - 2024-11-07 | SO | [I ACa 2956/23](https://www.saos.org.pl/judgments/532222) | Wyrok
 - 2024-10-04 | SO | [I ACa 3035/23](https://www.saos.org.pl/judgments/529414) | Wyrok
 - 2024-09-16 | SO | [I ACa 3040/23](https://www.saos.org.pl/judgments/529107) | Wyrok

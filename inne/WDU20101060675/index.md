@@ -8,7 +8,7 @@ pos: 675
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wspieraniu rozwoju usług i sieci telekomunikacyjnych
@@ -176,6 +176,9 @@ Art. 62–74. (pominięte)
 5. (uchylony)
 
 **Art. 8.** Jednostka samorządu terytorialnego, powierzając przedsiębiorcy telekomunikacyjnemu wykonywanie działalności, o której mowa w art. 3 ust. 1, w przypadku gdy ze względu na warunki ekonomiczne nie jest możliwe na danym obszarze prowadzenie przez przedsiębiorcę telekomunikacyjnego opłacalnej finansowo działalności telekomunikacyjnej, może:
+
+- **1)** udostępniać przedsiębiorcy telekomunikacyjnemu sieci telekomunikacyjne oraz powiązane zasoby w zamian za opłaty niższe niż koszt wytworzenia;
+- **2)** współfinansować koszty ponoszone z tytułu świadczenia usług telekomunikacyjnych użytkownikom końcowym lub przedsiębiorcom telekomunikacyjnym na potrzeby świadczenia tych usług.
 
 **Art. 9.** Jednostka organizacyjna jednostki samorządu terytorialnego prowadząca działalność, o której mowa w art. 3 ust. 1, jest obowiązana prowadzić ewidencję w sposób umożliwiający odrębne obliczanie kosztów i przychodów, zysków i strat w zakresie budowy oraz nabywania praw do infrastruktury telekomunikacyjnej i sieci telekomunikacyjnych, a także działalności telekomunikacyjnej.
 
@@ -480,6 +483,9 @@ Art. 62–74. (pominięte)
 
 **Art. 28.** Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii Prezesa UKE i Prezesa Urzędu Ochrony Konkurencji i Konsumentów, może określić, w drodze rozporządzenia, warunki i tryb udzielania pomocy publicznej dotyczącej wykonywania działalności, o której mowa w art. 3 ust. 1 pkt 1–2 i pkt 3 lit. c i art. 16, w odniesieniu do sieci szerokopasmowych w szczególności w zakresie dotyczącym:
 
+- **1)** możliwości udostępniania przedsiębiorcy telekomunikacyjnemu infrastruktury lub sieci telekomunikacyjnych w zamian za opłaty niższe niż koszt wytworzenia,
+- **2)** możliwości współfinansowania kosztów ponoszonych z tytułu świadczenia usług telekomunikacyjnych użytkownikom końcowym na potrzeby świadczenia tych usług – kierując się koniecznością zachowania zgodności tych warunków i trybu z rynkiem wewnętrznym.
+
 **Art. 29.**
 
 1. Prezes UKE sporządza dla terytorium Rzeczypospolitej Polskiej i na bieżąco aktualizuje, w formie elektronicznej, inwentaryzację przedstawiającą:
@@ -624,7 +630,14 @@ Art. 62–74. (pominięte)
 
 **Art. 29e.** Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia:
 
+- **1)** szczegółowy zakres przekazywanych informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6,
+- **2)** szczegółową postać elektroniczną oraz elektroniczny format przekazywania informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6,
+- **3)** wzory formularzy służących do przekazywania Prezesowi UKE przez podmioty, o których mowa w art. 29c ust. 1 i art. 29d ust. 4 i 6, informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6, wraz z objaśnieniami co do sposobu ich wypełniania – kierując się potrzebą zapewnienia rzetelnego i wiarygodnego zbioru informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6, a także mając na uwadze konieczność usprawnienia i ujednolicenia procesu przekazywania danych Prezesowi UKE.
+
 **Art. 29f.** Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia:
+
+- **1)** sposób prezentowania informacji gromadzonych w bazie danych, o której mowa w art. 29b ust. 2,
+- **2)** wymagania techniczne i eksploatacyjne systemu teleinformatycznego, o którym mowa w art. 29b ust. 2 – kierując się potrzebą usprawnienia i ujednolicenia procesu udostępniania informacji.
 
 #### Rozdział 2b System Informacyjny o Instalacjach Wytwarzających Promieniowanie Elektromagnetyczne
 
@@ -681,6 +694,10 @@ Art. 62–74. (pominięte)
 #### Rozdział 2c System Informacyjny o Dostępie do Usług Stacjonarnego Internetu Szerokopasmowego
 
 **Art. 29j.** System Informacyjny o Dostępie do Usług Stacjonarnego Internetu Szerokopasmowego, zwany dalej „SIDUSIS”, jest publiczną bazą danych, prowadzoną przez ministra właściwego do spraw informatyzacji, zawierającą informacje o punktach adresowych, w których:
+
+- **1)** jest możliwe świadczenie,
+- **2)** jest planowane zapewnienie możliwości świadczenia w wyniku realizacji inwestycji finansowanych ze środków publicznych,
+- **3)** w ciągu 3 lat jest planowane zapewnienie możliwości świadczenia w wyniku realizacji inwestycji ze środków prywatnych – za pomocą stacjonarnych lub ruchomych publicznych sieci telekomunikacyjnych usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu.
 
 **Art. 29k.**
 

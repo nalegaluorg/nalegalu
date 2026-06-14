@@ -8,7 +8,7 @@ pos: 482
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o utracie mocy obowiązującej art. 21 ust. 2 pkt 4 lit a) ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego.

@@ -8,10 +8,10 @@ pos: 567
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 marca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 567 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 10 marca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,18 +25,18 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/567/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 10 marca 2017 r.
 w sprawie współpracy organów Państwowej Inspekcji Sanitarnej z organami celnymi w zakresie granicznych kontroli sanitarnych Na podstawie art. 83 ust. 2 pkt 2 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U.
-z 2017 r. poz. 149 i 60) zarządza się, co następuje: § 1. Rozporządzenie określa sposób współpracy organów Państwowej Inspekcji Sanitarnej z organami celnymi w zakresie granicznych kontroli sanitarnych, w tym w zakresie trybu postępowania tych organów w podejmowaniu działań określonych w art. 27–29 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszącego się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30), zwanego dalej „rozporządzeniem nr 765/2008”.
+z 2017 r. poz. 149 i 60) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób współpracy organów Państwowej Inspekcji Sanitarnej z organami celnymi w zakresie granicznych kontroli sanitarnych, w tym w zakresie trybu postępowania tych organów w podejmowaniu działań określonych w art. 27–29 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszącego się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30), zwanego dalej „rozporządzeniem nr 765/2008”.
 § 2. Współpraca organów Państwowej Inspekcji Sanitarnej, o których mowa w art. 80 ustawy z dnia 25 sierpnia 2006 r.
 o bezpieczeństwie żywności i żywienia, zwanej dalej „ustawą”, z organami celnymi obejmuje działania określone w art. 15–21, art. 23 i art. 24 rozporządzenia (WE) nr 882/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r.
 w sprawie kontroli urzędowych przeprowadzanych w celu sprawdzenia zgodności z prawem paszowym i żywnościowym oraz regułami dotyczącymi zdrowia zwierząt i dobrostanu zwierząt (Dz. Urz. UE L 165 z 30.04.2004, str. 1, z późn. zm.
-Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200), zwanego dalej „rozporządzeniem nr 882/2004”, oraz w art. 27–29 rozporządzenia nr 765/2008.
+– Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200), zwanego dalej „rozporządzeniem nr 882/2004”, oraz w art. 27–29 rozporządzenia nr 765/2008.
 § 3. 1. Współpraca, o której mowa w § 1, zapewnia prawidłową kontrolę obrotu towarowego żywnością pochodzenia niezwierzęcego oraz materiałami i wyrobami przeznaczonymi do kontaktu z żywnością, zwanymi dalej „towarami”:
 1) ujętymi w wykazie towarów określonym w przepisach wydanych na podstawie art. 83 ust. 3 ustawy;
 2) ujętymi w przepisach przyjętych na podstawie:
 a) art. 53 ust. 1 lit. b rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r.
-ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463),
+ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463),
 b) art. 15 ust. 5 i art. 48 ust. 1 rozporządzenia nr 882/2004;
 3) nieujętymi w wykazie, o którym mowa w pkt 1, jeżeli organ celny w trakcie obejmowania towaru procedurą dopuszczenia do obrotu stwierdzi, że zaistniały okoliczności, o których mowa w art. 27 ust. 3 rozporządzenia nr 765/2008.
 2. Czynności z zakresu granicznej kontroli sanitarnej mogą zostać wykonane przy objęciu towarów procedurą wywozu, co do których organ celny stwierdzi istnienie okoliczności wskazujących, że wywożony towar nie spełnia wymagań z zakresu bezpieczeństwa żywności, oraz w każdym innym przypadku uzasadnionego podejrzenia zagrożenia bezpieczeństwa żywności.
@@ -49,18 +49,18 @@ b) art. 15 ust. 5 i art. 48 ust. 1 rozporządzenia nr 882/2004;
 4. Powiadomienie, o którym mowa w ust. 1, może być przekazane w postaci papierowej lub elektronicznej.
 § 6. Organ celny powiadamia właściwego państwowego granicznego inspektora sanitarnego lub państwowego powiatowego inspektora sanitarnego o niepoddaniu towarów przeznaczonych do wolnych obszarów celnych granicznej kontroli sanitarnej.
 § 7. Po otrzymaniu powiadomienia o stwierdzonych niezgodnościach towaru podlegającego granicznej kontroli sanitarnej właściwy państwowy graniczny inspektor sanitarny lub państwowy powiatowy inspektor sanitarny jest obowiązany podjąć działania zgodnie z art. 29 ust. 1 lub 2 rozporządzenia nr 765/2008.
-§ 8. 1. Jeżeli państwowy graniczny inspektor sanitarny lub państwowy powiatowy inspektor sanitarny w trakcie przeprowadzania granicznej kontroli sanitarnej towarów stwierdzi, że towar nie spełnia obowiązujących wymagań określonych w przepisach Unii Europejskiej lub przepisach krajowych, organ ten w świadectwie spełniania wymagań zdrowotnych towaru objętego graniczną kontrolą sanitarną, określonym w przepisach wydanych na podstawie art. 83 ust. 1 ustawy, zwanym dalej „świadectwem”, umieszcza adnotację o treści „towar niezgodny z przepisami niedopuszczony do swobodnego obrotu rozporządzenie (WE) nr 765/2008/ product not in conformity release for free circulation not authorised Regulation (EC) No 765/2008”.
+§ 8. 1. Jeżeli państwowy graniczny inspektor sanitarny lub państwowy powiatowy inspektor sanitarny w trakcie przeprowadzania granicznej kontroli sanitarnej towarów stwierdzi, że towar nie spełnia obowiązujących wymagań określonych w przepisach Unii Europejskiej lub przepisach krajowych, organ ten w świadectwie spełniania wymagań zdrowotnych towaru objętego graniczną kontrolą sanitarną, określonym w przepisach wydanych na podstawie art. 83 ust. 1 ustawy, zwanym dalej „świadectwem”, umieszcza adnotację o treści „towar niezgodny z przepisami – niedopuszczony do swobodnego obrotu – rozporządzenie (WE) nr 765/2008/ product not in conformity – release for free circulation not authorised – Regulation (EC) No 765/2008”.
 2. Adnotacja, o której mowa w ust. 1, stanowi dla organu celnego podstawę do zamieszczenia treści tej adnotacji w dokumentach przewozowych towarzyszących towarom.
-§ 9. 1. Jeżeli państwowy graniczny inspektor sanitarny lub państwowy powiatowy inspektor sanitarny w trakcie przeprowadzania granicznej kontroli sanitarnej towarów stwierdzi, że towar nie spełnia obowiązujących wymagań zdrowotnych, organ ten w świadectwie umieszcza adnotację o treści „towar niebezpieczny niedopuszczony do swobodnego obrotu rozporządzenie (WE) nr 765/2008/ dangerous product release for free circulation not authorised Regulation (EC) No 765/2008”.
+§ 9. 1. Jeżeli państwowy graniczny inspektor sanitarny lub państwowy powiatowy inspektor sanitarny w trakcie przeprowadzania granicznej kontroli sanitarnej towarów stwierdzi, że towar nie spełnia obowiązujących wymagań zdrowotnych, organ ten w świadectwie umieszcza adnotację o treści „towar niebezpieczny – niedopuszczony do swobodnego obrotu – rozporządzenie (WE) nr 765/2008/ dangerous product – release for free circulation not authorised – Regulation (EC) No 765/2008”.
 2. Adnotacja, o której mowa w ust. 1, stanowi dla organu celnego podstawę do zamieszczenia treści tej adnotacji w dokumentach przewozowych towarzyszących towarom.
 § 10. 1. Jeżeli państwowy graniczny inspektor sanitarny lub państwowy powiatowy inspektor sanitarny w trakcie przeprowadzania granicznej kontroli sanitarnej towarów, o których mowa w § 3 ust. 1 pkt 1, stwierdzi konieczność przeprowadzenia kontroli bezpośrednich przez państwowego granicznego inspektora sanitarnego lub państwowego powiatowego inspektora sanitarnego, właściwego ze względu na miejsce złożenia towaru, wyraża zgodę na przeprowadzenie granicznej kontroli sanitarnej przez ten organ.
 2. W przypadku wyrażenia zgody, o której mowa w ust. 1, państwowy graniczny inspektor sanitarny lub państwowy powiatowy inspektor sanitarny sporządza zawiadomienie, które przesyła do:
-1) właściwego organu celnego w celu wydania przez ten organ zgody na objęcie towaru procedurą tranzytu;
-2) właściwego ze względu na miejsce złożenia towaru państwowego granicznego inspektora sanitarnego lub państwowego powiatowego inspektora sanitarnego w celu przeprowadzenia granicznej kontroli sanitarnej.
+1) właściwego organu celnego – w celu wydania przez ten organ zgody na objęcie towaru procedurą tranzytu;
+2) właściwego ze względu na miejsce złożenia towaru państwowego granicznego inspektora sanitarnego lub państwowego powiatowego inspektora sanitarnego – w celu przeprowadzenia granicznej kontroli sanitarnej.
 3. W zawiadomieniu, o którym mowa w ust. 2, państwowy graniczny inspektor sanitarny lub państwowy powiatowy inspektor sanitarny uzasadnia konieczność przeprowadzenia kontroli bezpośrednich przez państwowego granicznego inspektora sanitarnego lub państwowego powiatowego inspektora sanitarnego, właściwego ze względu na miejsce złożenia towaru.
 4. Zawiadomienie, o którym mowa w ust. 2, jest przekazywane na formularzu, którego wzór określa załącznik nr 3 do rozporządzenia.
 § 11. 1. Państwowy graniczny inspektor sanitarny lub państwowy powiatowy inspektor sanitarny, o których mowa w § 10 ust. 2 pkt 2, po przeprowadzeniu granicznej kontroli sanitarnej przekazuje informację o jej wynikach do:
-1) właściwego organu celnego w przypadku stwierdzenia niezgodności towaru;
+1) właściwego organu celnego – w przypadku stwierdzenia niezgodności towaru;
 2) państwowego granicznego inspektora sanitarnego lub państwowego powiatowego inspektora sanitarnego, który wyraził zgodę na przeprowadzenie granicznej kontroli sanitarnej przez państwowego granicznego inspektora sanitarnego lub państwowego powiatowego inspektora sanitarnego, właściwego ze względu na miejsce złożenia towaru.
 2. Do informacji, o której mowa w ust. 1, państwowy graniczny inspektor sanitarny lub państwowy powiatowy inspektor sanitarny załącza kopie świadectw oraz kopie innych dokumentów niezbędnych w danej sprawie.
 3. Informacja, o której mowa w ust. 1, oraz dokumentacja, o której mowa w ust. 2, może być przekazana w postaci papierowej lub elektronicznej.
@@ -72,7 +72,7 @@ b) art. 15 ust. 5 i art. 48 ust. 1 rozporządzenia nr 882/2004;
 4) szkolenia i wymianę doświadczeń z zakresu objętego współpracą obydwu organów.
 § 13. Graniczne kontrole sanitarne towarów wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia przeprowadza się w trybie określonym w rozporządzeniu Ministra Zdrowia z dnia 18 lutego 2008 r. w sprawie współpracy organów Państwowej Inspekcji Sanitarnej z organami celnymi w zakresie granicznych kontroli sanitarnych (Dz. U. poz. 213 oraz z 2010 r. poz. 1635).
 § 14. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: K. Radziwiłł WZÓR 2017 . (poz. …) ik nr 1 .............................................................
+Minister Zdrowia: K. Radziwiłł Ministra Zdrowia z dnia 10 marca 2017 r. 2017 r. (poz. …) Załącznik nr 1 WZÓR WZÓR .............................................................
 .........................................
 Nr dokumentu: .............................................
 Państwowy Graniczny Inspektor Sanitarny/ Państwowy Powiatowy Inspektor Sanitarny w ...................................................................
@@ -96,7 +96,7 @@ Otrzymują:
 1. a/a
 2. Państwowy Graniczny Inspektor Sanitarny/ Państwowy Powiatowy Inspektor Sanitarny w …………………………………………
 3. Osoba odpowiedzialna za przywóz lub wywóz towarów ______________ Niepotrzebne skreślić.
-WZÓR .............................................................
+Dziennik Ustaw – – 9 6 – – Poz. 567 Załącznik nr 2 WZÓR .............................................................
 .........................................
 Nr dokumentu: ..........................................
 Państwowy Graniczny Inspektor Sanitarny/ Państwowy Powiatowy Inspektor Sanitarny w ................................................................
@@ -122,7 +122,9 @@ Otrzymują:
 2. Państwowy Graniczny Inspektor Sanitarny/ Państwowy Powiatowy Inspektor Sanitarny w ………………………………………
 3. Osoba odpowiedzialna za przywóz lub wywóz towarów ______________ Niepotrzebne skreślić.
 Określić rodzaj niezgodności.
-WZÓR ik nr 3 WZ .............................................................
+
+## Załącznik nr 3 — WZÓR WZÓR .............................................................
+
 ............................................................
 Nr dokumentu: ...................................................................
 ........................................................................
@@ -141,8 +143,9 @@ Kraj przywozu: .................................................................
 Wielkość partii (waga brutto/ netto): ...........................................................................................
 Wielkość i rodzaj opakowań: .......................................................................................................
 Data minimalnej trwałości/ termin przydatności do spożycia : ..................................................
-Odbiorca miejsce złożenia towaru: ...........................................................................................
+Odbiorca – miejsce złożenia towaru: ...........................................................................................
 Przejście graniczne, data: .............................................................................................................
+Oddział celny przeznaczenia: ......................................................................................................
 Uzasadnienie:
 1) powzięto wątpliwości odnośnie do identyfikacji towaru, o których mowa w art. 18 rozporządzenia nr 882/2004,
 2) stwierdzono konieczność przeprowadzenia kontroli bezpośrednich, o których mowa w art. 16 rozporządzenia nr 882/2004, ze względu na podejrzenie niezgodności towaru z wymaganiami zdrowotnymi : ......................................................................................................................................................
@@ -165,6 +168,4 @@ Otrzymują:
 ______________ Niepotrzebne skreślić.
 Należy uszczegółowić.
 Podać właściwe uzasadnienie.
-
-##### Oddział celny przeznaczenia: ......................................................................................................
 

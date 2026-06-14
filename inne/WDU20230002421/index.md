@@ -8,10 +8,10 @@ pos: 2421
 act_type: Protokół
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 listopada 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22442211 PROTOKÓŁ między Ministrem Edukacji i Nauki Rzeczypospolitej Polskiej a Ministerstwem Szkolnictwa, Młodzieży i Kultury Fizycznej Republiki Czeskiej o współpracy w dziedzinie szkolnictwa wyższego, podpisany w Warszawie dnia 20 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2023-11-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002421) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2421/text.pdf) |
-
-22442211 PROTOKÓŁ między Ministrem Edukacji i Nauki Rzeczypospolitej Polskiej a Ministerstwem Szkolnictwa, Młodzieży i Kultury Fizycznej Republiki Czeskiej o współpracy w dziedzinie szkolnictwa wyższego, podpisany w Warszawie dnia 20 września 2023 r.
 

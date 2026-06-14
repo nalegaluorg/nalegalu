@@ -8,7 +8,7 @@ pos: 184
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Uniwersytetowi Wrocławskiemu im. Bolesława Bieruta nadaje się nazwę „„Uniwersytet Wrocławski”.

@@ -8,10 +8,10 @@ pos: 933
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Poz. 933 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z 26 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 933 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 26 kwietnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000933) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/933/text.pdf) |
 
-w sprawie noszenia uzbrojenia przez żołnierzy Na podstawie art. 270 ust. 2 pkt 4 ustawy z 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
-poz. 347 i 641) zarządza się, co następuje: § 1. Rozporządzenie określa okoliczności i sposób noszenia uzbrojenia przez żołnierzy.
+w sprawie noszenia uzbrojenia przez żołnierzy Na podstawie art. 270 ust. 2 pkt 4 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
+poz. 347 i 641) zarządza się, co następuje:
+§ 1. Rozporządzenie określa okoliczności i sposób noszenia uzbrojenia przez żołnierzy.
 § 2. Żołnierze noszą uzbrojenie w czasie wykonywania zadań służbowych, w tym zadań szczególnie istotnych dla Sił Zbrojnych Rzeczypospolitej Polskiej, pełnienia służb i dyżurów, odbywania ćwiczeń i szkoleń, pełnienia służby wojskowej poza granicami państwa oraz wykonywania innych zadań o charakterze nadzwyczajnym niezbędnym do ochrony interesów państwa.
 § 3. Żołnierze noszą uzbrojenie przy realizacji zadań służbowych w następujący sposób:
 1) broń krótką (pistolety, rewolwery):
@@ -46,5 +47,8 @@ e) „bojowym”;
 4) broń białą:
 a) kordzik – do ubioru galowego na rapciach zawieszonych na pasku skórzanym do spodni z lewej strony, skierowany rękojeścią do przodu, z ostrzem opadającym lekko w dół; długość przedniego rapcia powinna być taka, aby górna krawędź rękojeści kordzika przylegała do dolnej krawędzi kurtki; tylny rapeć powinien być około 5 cm dłuższy od przedniego,
 b) szablę – w pododdziałach reprezentacyjnych do ubioru służbowego na rapciach lub na żabce, na pasie oficerskim z koalicyjką, na lewym boku wzdłuż bocznego szwu spodni, z tym że w Marynarce Wojennej bez koalicyjki.
+§ 4. 1. Broń służbowa może być noszona przez żołnierzy wykonujących zadania w okolicznościach, o których mowa w § 2, w położeniu zapewniającym swobodny dostęp do niej, możliwość posługiwania się nią oraz wykorzystania jej lub użycia.
+2. Broń służbowa noszona przez żołnierzy, o których mowa w ust. 1, może być w szczególności zamocowana do oporządzenia, umundurowania, ubioru cywilnego lub ubrania lub umieszczona w kieszeniach, zasobnikach, saszetkach lub plecakach, lub połączona z innym sprzętem w sposób zapewniający możliwość wykorzystania jej lub użycia.
+§ 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Obrony Narodowej: z up. M. Wiśniewski
 

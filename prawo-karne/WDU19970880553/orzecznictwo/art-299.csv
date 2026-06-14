@@ -7,13 +7,16 @@ saos_id|date|court|case_number|type|score|saos_url
 88851|2008-10-07|SN|II KK 62/08|Wyrok|78|https://www.saos.org.pl/judgments/88851
 243965|2015-11-24|SN|IV KK 364/15|Postanowienie|69|https://www.saos.org.pl/judgments/243965
 167896|2015-01-12|SN|III KK 247/14|Postanowienie|69|https://www.saos.org.pl/judgments/167896
+546819|2026-04-01|SO|II AKa 403/24|Wyrok|56|https://www.saos.org.pl/judgments/546819
 544505|2026-02-18|SO|II AKa 69/23|Wyrok|56|https://www.saos.org.pl/judgments/544505
 537647|2025-10-09|SO|II AKa 16/25|Wyrok|56|https://www.saos.org.pl/judgments/537647
 538358|2025-10-07|SO|II AKa 263/25|Wyrok|56|https://www.saos.org.pl/judgments/538358
 543180|2025-09-04|SO|II AKa 98/25|Wyrok|56|https://www.saos.org.pl/judgments/543180
 544065|2025-07-24|SO|II AKa 317/23|Wyrok|56|https://www.saos.org.pl/judgments/544065
+545278|2025-06-12|SO|II AKa 55/25|Wyrok|56|https://www.saos.org.pl/judgments/545278
 543164|2025-06-04|SO|II AKa 102/25|Wyrok|56|https://www.saos.org.pl/judgments/543164
 531101|2025-05-27|SO|II AKa 256/24|Wyrok|56|https://www.saos.org.pl/judgments/531101
+545277|2025-03-26|SO|II AKa 508/24|Wyrok|56|https://www.saos.org.pl/judgments/545277
 542632|2025-03-10|SO|II AKa 382/23|Wyrok|56|https://www.saos.org.pl/judgments/542632
 532731|2025-02-26|SO|II AKa 69/22|Wyrok|56|https://www.saos.org.pl/judgments/532731
 527317|2025-01-29|SO|II AKa 260/24|Wyrok|56|https://www.saos.org.pl/judgments/527317
@@ -561,6 +564,7 @@ saos_id|date|court|case_number|type|score|saos_url
 158120|2015-03-31|SO|II AKa 4/15|Uzasadnienie|42|https://www.saos.org.pl/judgments/158120
 169319|2015-03-10|SO|II AKa 150/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/169319
 62578|2014-06-27|SO|II AKa 111/13|Uzasadnienie|42|https://www.saos.org.pl/judgments/62578
+545041|2025-03-18|SO|II K 21/24|Wyrok|40|https://www.saos.org.pl/judgments/545041
 521692|2024-12-11|SO|II Ca 2269/23|Wyrok|40|https://www.saos.org.pl/judgments/521692
 540431|2024-11-13|SO|VI K 138/24|Wyrok|40|https://www.saos.org.pl/judgments/540431
 511295|2024-09-27|SO|VI Ka 834/24|Wyrok|40|https://www.saos.org.pl/judgments/511295

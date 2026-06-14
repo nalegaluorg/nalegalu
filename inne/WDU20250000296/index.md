@@ -8,7 +8,7 @@ pos: 296
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o dniach wolnych od pracy
@@ -32,6 +32,23 @@ USTAWA z dnia 18 stycznia 1951 r.
 o dniach wolnych od pracy
 
 **Art. 1.** Dniami wolnymi od pracy są:
+
+- **1)** dni niżej wymienione:
+    - **a)** 1 stycznia – Nowy Rok,
+    - **b)** 6 stycznia – Święto Trzech Króli,
+    - **c)** pierwszy dzień Wielkiej Nocy,
+    - **d)** drugi dzień Wielkiej Nocy,
+    - **e)** 1 maja – Święto Państwowe,
+    - **f)** 3 maja – Święto Narodowe Trzeciego Maja,
+    - **g)** pierwszy dzień Zielonych Świątek,
+    - **h)** dzień Bożego Ciała,
+    - **i)** 15 sierpnia – Wniebowzięcie Najświętszej Maryi Panny,
+    - **j)** 1 listopada – Wszystkich Świętych,
+    - **k)** 11 listopada – Narodowe Święto Niepodległości, ka) 24 grudnia – Wigilia Bożego Narodzenia,
+    - **l)** 25 grudnia – pierwszy dzień Bożego Narodzenia,
+    - **m)** 26 grudnia – drugi dzień Bożego Narodzenia;
+
+- **2)** niedziele.
 
 **Art. 1a.**
 

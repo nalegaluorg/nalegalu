@@ -8,7 +8,7 @@ pos: 266
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o upamiętnieniu męczeństwa Narodu Polskiego i innych Narodów na Majdanku

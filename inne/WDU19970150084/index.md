@@ -8,7 +8,7 @@ pos: 84
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o waloryzacji za IV kwartał 1995 r. niektórych emerytur i rent
@@ -41,7 +41,13 @@ source: "isap-pdf"
 
 **Art. 4.** Z tytułu podwyżki w ramach waloryzacji, o której mowa w art. 2 ust. 3, oraz waloryzacji przeprowadzonej na podstawie art. 12 ustawy z dnia 25 października 1996 r. o waloryzacji emerytur i rent oraz o zmianie niektórych ustaw (Dz.U. Nr 136, poz.
 
+- **636)** realny wzrost przeciętnej emerytury i renty brutto w 1997 r. w porównaniu z 1996 r. wyniesie co najmniej 2,9%.
+
 **Art. 5.** Prezes Zakładu Ubezpieczeń Społecznych ogłosi, w terminie do dnia 15 czerwca 1997 r., w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski", należne od dnia 1 września 1996 r. i od dnia 1 marca 1997 r. wysokości kwot:
+
+- **1)** najniższej emerytury i renty,
+- **2)** dodatków: pielęgnacyjnego, dla sieroty zupełnej, za tajne nauczanie, kombatanckiego oraz dla żołnierzy zastępczej służby wojskowej przymusowo zatrudnionych w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu,
+- **3)** świadczenia pieniężnego przysługującego osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich.
 
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

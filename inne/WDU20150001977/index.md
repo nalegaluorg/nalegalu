@@ -8,10 +8,10 @@ pos: 1977
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Rozporządzenie Ministra Finansówz dnia 13 listopada 2015 r. w sprawie właściwości miejscowej naczelnika urzędu skarbowego uprawnionego do poboru należności wynikających z grzywien nałożonych w drodze mandatu karnego
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1977 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 13 listopada 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,8 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001977) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1977/text.pdf) |
 
-Treść rozporządzenia
-Na podstawie art. 100 § 13 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm.) zarządza się, co następuje:
-§ 1.
-W sprawach poboru należności wynikających z grzywien nałożonych w drodze mandatu karnego, stanowiących dochód budżetu państwa, właściwy miejscowo jest Naczelnik Pierwszego Urzędu Skarbowego w Opolu.
-§ 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+w sprawie właściwości miejscowej naczelnika urzędu skarbowego uprawnionego do poboru należności wynikających z grzywien nałożonych w drodze mandatu karnego Na podstawie art. 100 § 13 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ) zarządza się, co następuje:
+§ 1. W sprawach poboru należności wynikających z grzywien nałożonych w drodze mandatu karnego, stanowiących dochód budżetu państwa, właściwy miejscowo jest Naczelnik Pierwszego Urzędu Skarbowego w Opolu.
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Minister Finansów: M. Szczurek
 

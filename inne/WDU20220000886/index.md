@@ -8,10 +8,10 @@ pos: 886
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 kwietnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 886 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 20 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000886) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/886/text.pdf) |
 
-Poz. 886 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 20 kwietnia 2022 r.
-w sprawie specjalistycznych usług wojskowych Na podstawie art. 46 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) zarządza się, co następuje: § 1. Rozporządzenie określa tryb składania i rozpatrywania wniosków oraz zawierania umów o świadczenie specjalistycznych usług wojskowych.
+w sprawie specjalistycznych usług wojskowych Na podstawie art. 46 ust. 6 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb składania i rozpatrywania wniosków oraz zawierania umów o świadczenie specjalistycznych usług wojskowych.
 § 2. 1. Jednostki organizacyjne sektora finansów publicznych lub inne podmioty, o których mowa w art. 46 ust. 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zwanej dalej „ustawą”, wnioskują o świadczenie specjalistycznych usług wojskowych.
 2. Wnioski składa się do Dowódcy Generalnego Rodzajów Sił Zbrojnych.
 3. Dowódca Generalny Rodzajów Sił Zbrojnych rozpatruje wnioski, uwzględniając w szczególności: specjalistyczne przygotowanie jednostek wojskowych, konieczność realizacji w pierwszej kolejności podstawowych zadań jednostki wojskowej, skutki finansowe oraz wystąpienie uzasadnionego interesu publicznego lub interesu Sił Zbrojnych.

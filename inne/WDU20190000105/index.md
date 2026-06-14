@@ -8,10 +8,10 @@ pos: 105
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 stycznia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 105 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 4 stycznia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000105) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/105/text.pdf) |
 
-Poz. 105 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 4 stycznia 2019 r.
 w sprawie rejestru wyrobów niezgodnych z wymaganiami lub stwarzających zagrożenie Na podstawie art. 61 ust. 7 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U.
-z 2017 r. poz. 1398 oraz z 2018 r. poz. 650 i 1338) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy sposób prowadzenia rejestru wyrobów niezgodnych z wymaganiami lub stwarzających zagrożenie, zwanego dalej „rejestrem”, oraz szczegółowy zakres danych wprowadzanych do rejestru.
+z 2017 r. poz. 1398 oraz z 2018 r. poz. 650 i 1338) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy sposób prowadzenia rejestru wyrobów niezgodnych z wymaganiami lub stwarzających zagrożenie, zwanego dalej „rejestrem”, oraz szczegółowy zakres danych wprowadzanych do rejestru.
 § 2. 1. Rejestr jest prowadzony z wykorzystaniem systemu teleinformatycznego.
 2. Każdy wpis do rejestru dotyczy jednego wyrobu.
 § 3. 1. Aktualne dane zgromadzone w rejestrze udostępniane są w Biuletynie Informacji Publicznej na stronie podmiotowej Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
@@ -45,7 +45,6 @@ z 2017 r. poz. 1398 oraz z 2018 r. poz. 650 i 1338) zarządza się, co następuj
 9) nazwę kraju wytworzenia wyrobu;
 10) firmę lub nazwę oraz adres podmiotu gospodarczego, który wprowadził do obrotu lub oddał do użytku wyrób albo udostępnił go na terytorium Rzeczypospolitej Polskiej, oraz określenie, czy działał on jako producent, upoważniony przedstawiciel, importer czy dystrybutor;
 11) opis niezgodności wyrobu z wymaganiami;
-Dziennik Ustaw – 2 – Poz. 105
 12) określenie zagrożeń, jakie może spowodować wyrób;
 13) opis stwierdzonych niezgodności formalnych;
 14) określenie środków, jakie organ, o którym mowa w pkt 3, zastosował w odniesieniu do wyrobu niezgodnego z wymaganiami lub stwarzającego zagrożenie;

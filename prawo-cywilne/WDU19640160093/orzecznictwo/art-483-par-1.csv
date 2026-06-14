@@ -1233,8 +1233,10 @@ saos_id|date|court|case_number|type|score|saos_url
 112964|2008-08-05|KIO|KIO/UZP 754/08|Wyrok|44|https://www.saos.org.pl/judgments/112964
 112730|2008-05-29|KIO|KIO/UZP 468/08|Wyrok|44|https://www.saos.org.pl/judgments/112730
 525834|2023-06-19|SO|III APa 45/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/525834
+546546|2025-10-16|SO|V GC 287/25|Wyrok|40|https://www.saos.org.pl/judgments/546546
 544537|2025-07-11|SO|V GC 27/25|Wyrok|40|https://www.saos.org.pl/judgments/544537
 531801|2025-04-17|SO|II Ca 48/24|Wyrok|40|https://www.saos.org.pl/judgments/531801
+545026|2025-04-08|SO|II Ca 168/24|Wyrok|40|https://www.saos.org.pl/judgments/545026
 527650|2025-04-07|SO|I C 1176/24|Wyrok|40|https://www.saos.org.pl/judgments/527650
 531828|2025-02-25|SO|II Ca 2351/23|Wyrok|40|https://www.saos.org.pl/judgments/531828
 540711|2025-02-18|SO|II Ca 2016/23|Wyrok|40|https://www.saos.org.pl/judgments/540711
@@ -1262,6 +1264,7 @@ saos_id|date|court|case_number|type|score|saos_url
 485107|2023-01-31|SO|II Ca 2086/22|Wyrok|40|https://www.saos.org.pl/judgments/485107
 490334|2022-12-21|SO|I C 1508/19|Wyrok|40|https://www.saos.org.pl/judgments/490334
 484437|2022-12-20|SO|II Ca 655/22|Wyrok|40|https://www.saos.org.pl/judgments/484437
+546908|2022-12-15|SO|V GC 149/22|Wyrok|40|https://www.saos.org.pl/judgments/546908
 476922|2022-10-18|SO|XIV C 695/21|Wyrok|40|https://www.saos.org.pl/judgments/476922
 482694|2022-09-22|SO|II C 475/19|Wyrok|40|https://www.saos.org.pl/judgments/482694
 536126|2022-09-19|SO|II Ca 488/22|Wyrok|40|https://www.saos.org.pl/judgments/536126
@@ -1628,6 +1631,7 @@ saos_id|date|court|case_number|type|score|saos_url
 122398|2013-04-11|KIO|KIO 759/13|Postanowienie|36|https://www.saos.org.pl/judgments/122398
 116569|2010-08-25|KIO|KIO 1747/10|Postanowienie|36|https://www.saos.org.pl/judgments/116569
 327316|2017-12-19|SO|VI Gz 315/17|Postanowienie|31|https://www.saos.org.pl/judgments/327316
+547084|2026-05-27|SO|I C 261/25|Zarządzenie|27|https://www.saos.org.pl/judgments/547084
 542707|2026-01-02|SO|V GC 1/25|Zarządzenie|27|https://www.saos.org.pl/judgments/542707
 527207|2025-05-21|SO|XIII Ga 639/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/527207
 527299|2025-04-30|SO|I C 1176/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/527299

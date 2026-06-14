@@ -8,7 +8,7 @@ pos: 1909
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego Aktywność obywateli, oddolnie i na zasadach dobrowolności angażujących się w zorganizowane działania na rzecz dobra wspólnego, niosących pomoc i wsparcie potrzebującym oraz kształtujących pracą u podstaw zręby kultury narodowej i lokalnej nawiązuje do wielkiego dziedzictwa polskiej wolności i wyraża ideały społeczeństwa obywatelskiego.
@@ -29,7 +29,7 @@ source: "isap-pdf"
 
 Społeczeństwo obywatelskie jest wspólną przestrzenią, która służy praktykowaniu cnót obywatelskich, takich jak odpowiedzialność za naród i wspólnoty lokalne, solidarność oraz zaangażowanie w budowę oddolnych instytucji obywatelskich. Bez umiejętności dostrzegania i pomnażania dobra wspólnego zabraknie obywatelskich więzi społecznych, które są fundamentem kapitału społecznego.
 Państwo polskie wspiera wolnościowe i chrześcijańskie ideały obywateli i społeczności lokalnych, obejmujące tradycję polskiej inteligencji, tradycje niepodległościową, narodową, religijną, socjalistyczną oraz tradycję ruchu ludowego, dostrzegając w nich kontynuację wielowiekowych tradycji Rzeczypospolitej Polskiej i tym samym chroniąc bogate dziedzictwo wspólnoty jej wolnych obywateli.
-Państwo polskie dąży do zrównoważonego rozwoju społeczeństwa obywatelskiego zarówno w wymiarze terytorialnym, jak i tematycznym, szczególną ochroną otaczając organizacje małe, krzewiące etos społecznikowski i pielęgnujące dziedzictwo lokalne. W tym celu, przyczyniając się do wypełnienia ideałów wolności, leżących u podstaw motywacji prospołecznych i postaw propaństwowych, a także do kształtowania dojrzałego patriotyzmu, państwo polskie będzie aktywnie działać na rzecz zwiększania zaangażowania obywateli i organizacji obywatelskich w życiu instytucjonalnej zdolności organizacji obywatelskich do realizacji ich misji.
+Państwo polskie dąży do zrównoważonego rozwoju społeczeństwa obywatelskiego zarówno w wymiarze terytorialnym, jak i tematycznym, szczególną ochroną otaczając organizacje małe, krzewiące etos społecznikowski i pielęgnujące dziedzictwo lokalne. W tym celu, przyczyniając się do wypełnienia ideałów wolności, leżących u podstaw motywacji prospołecznych i postaw propaństwowych, a także do kształtowania dojrzałego patriotyzmu, państwo polskie będzie aktywnie działać na rzecz zwiększania zaangażowania obywateli i organizacji obywatelskich w życiu publicznym, zwiększania liczby inicjatyw oddolnych i lokalnych oraz poprawy instytucjonalnej zdolności organizacji obywatelskich do realizacji ich misji.
 Art. 37–41. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -60,6 +60,24 @@ Art. 37–41. (pominięte)
 
 **Art. 4.** Organami Narodowego Instytutu są:
 
+- **1)** Dyrektor Narodowego Instytutu, zwany dalej „Dyrektorem”;
+- **2)** Rada Narodowego Instytutu, zwana dalej „Radą”.
+
+**Art. 5.**
+
+1. Dyrektor jest powoływany przez Przewodniczącego Komitetu na pięcioletnią kadencję spośród osób, które:
+
+- **1)** posiadają obywatelstwo polskie;
+- **2)** korzystają z pełni praw publicznych;
+- **3)** posiadają wyższe wykształcenie magisterskie lub równorzędne;
+- **4)** posiadają wiedzę w zakresie działalności pożytku publicznego i wolontariatu oraz stowarzyszeń i fundacji w Rzeczypospolitej Polskiej oraz co najmniej pięcioletnie doświadczenie w organizacjach pozarządowych lub innych zorganizowanych formach społeczeństwa obywatelskiego;
+- **5)** nie były skazane prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **6)** cieszą się nieposzlakowaną opinią i dają rękojmię prawidłowego wykonywania powierzonych zadań;
+- **7)** posiadają znajomość języka angielskiego w stopniu umożliwiającym swobodne porozumiewanie się w zakresie działalności Narodowego Instytutu;
+- **8)** posiadają doświadczenie w kierowaniu zespołami pracowniczymi oraz kompetencje kierownicze.
+
+2. Dyrektor pełni obowiązki do dnia powołania swojego następcy, z zastrzeżeniem art. 6 ust. 4.
+
 **Art. 6.**
 
 1. Przewodniczący Komitetu odwołuje Dyrektora przed upływem kadencji wyłącznie w przypadku:
@@ -71,7 +89,8 @@ Art. 37–41. (pominięte)
 
 2. Przewodniczący Komitetu może odwołać Dyrektora przed upływem kadencji w przypadku:
 
-- **1)** niezatwierdzenia rocznego sprawozdania z działalności Narodowego Instytutu lub jego nieprzedstawienia w terminie określonym w art. 8 ust. 7; lub jego nieprzedstawienia w terminie określonym w art. 52 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
+- **1)** niezatwierdzenia rocznego sprawozdania z działalności Narodowego Instytutu lub jego nieprzedstawienia w terminie określonym w art. 8 ust. 7;
+- **2)** niezatwierdzenia rocznego sprawozdania finansowego Narodowego Instytutu lub jego nieprzedstawienia w terminie określonym w art. 52 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
 - **3)** działania niezgodnego z prawem, zasadami rzetelności, gospodarności i celowości.
 
 3. Kadencja Dyrektora przed jej upływem wygasa w razie śmierci Dyrektora.
@@ -102,7 +121,7 @@ Art. 37–41. (pominięte)
 - **4)** roczne sprawozdanie finansowe Narodowego Instytutu;
 - **5)** końcowe sprawozdanie z realizacji programów wspierania rozwoju społeczeństwa obywatelskiego, o których mowa w art. 23 ust. 1.
 
-5. Dyrektor przedstawia Przewodniczącemu Komitetu do zatwierdzenia, po uzyskaniu opinii Rady, projekt rocznego planu finansowego Narodowego Instytutu i planu finansowego w układzie zadaniowym na dany rok budżetowy oraz na 2 kolejne finansów publicznych dla przedłożenia materiałów do projektu ustawy budżetowej.
+5. Dyrektor przedstawia Przewodniczącemu Komitetu do zatwierdzenia, po uzyskaniu opinii Rady, projekt rocznego planu finansowego Narodowego Instytutu i planu finansowego w układzie zadaniowym na dany rok budżetowy oraz na 2 kolejne lata, z uwzględnieniem terminów określonych przez ministra właściwego do spraw finansów publicznych dla przedłożenia materiałów do projektu ustawy budżetowej.
 
 6. Dyrektor przedstawia do zatwierdzenia Przewodniczącemu Komitetu, w terminie do dnia 30 września każdego roku, po uzyskaniu opinii Rady, projekt rocznego planu działalności Narodowego Instytutu na kolejny rok.
 
@@ -126,7 +145,8 @@ Art. 37–41. (pominięte)
 
 - **1)** korzysta z pełni praw publicznych;
 - **2)** cieszy się nieposzlakowaną opinią;
-- **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe; funkcjonowania społeczeństwa obywatelskiego, pożytku publicznego i wolontariatu.
+- **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** posiada wiedzę i co najmniej trzyletnie doświadczenie w zakresie funkcjonowania społeczeństwa obywatelskiego, pożytku publicznego i wolontariatu.
 
 **Art. 10.**
 
@@ -158,7 +178,9 @@ Art. 37–41. (pominięte)
 
 2. Przewodniczący zwołuje posiedzenia Rady w miarę potrzeb, nierzadziej jednak niż raz na kwartał.
 
-3. Przewodniczący zwołuje posiedzenie z własnej inicjatywy, na wniosek Dyrektora lub na wniosek co najmniej 4 członków Rady, niepóźniej niż w terminie 2 tygodni od dnia otrzymania wniosku. posiedzenia oraz informacje o przebiegu obrad. Rada przyjmuje protokół na następnym posiedzeniu. Kopię protokołu Przewodniczący przekazuje Przewodniczącemu Komitetu w terminie 2 tygodni od dnia jego przyjęcia przez Radę.
+3. Przewodniczący zwołuje posiedzenie z własnej inicjatywy, na wniosek Dyrektora lub na wniosek co najmniej 4 członków Rady, niepóźniej niż w terminie 2 tygodni od dnia otrzymania wniosku.
+
+4. Z posiedzenia Rady sporządza się protokół zawierający listę uczestników posiedzenia oraz informacje o przebiegu obrad. Rada przyjmuje protokół na następnym posiedzeniu. Kopię protokołu Przewodniczący przekazuje Przewodniczącemu Komitetu w terminie 2 tygodni od dnia jego przyjęcia przez Radę.
 
 5. Rada rozstrzyga sprawy oraz wyraża opinie w drodze uchwał, bezwzględną większością głosów, w obecności co najmniej 6 członków Rady. W razie równej liczby głosów rozstrzyga głos Przewodniczącego.
 
@@ -183,7 +205,9 @@ Art. 37–41. (pominięte)
 - **6)** końcowego sprawozdania z realizacji programów wspierania rozwoju społeczeństwa obywatelskiego, o którym mowa w art. 27;
 - **7)** wyboru firmy audytorskiej, o której mowa w art. 36.
 
-2. Rada, w celu wykonania swoich zadań, ma prawo wglądu do dokumentów Narodowego Instytutu i może żądać niezbędnych informacji od Dyrektora oraz jego zastępców. Narodowy Instytut.
+2. Rada, w celu wykonania swoich zadań, ma prawo wglądu do dokumentów Narodowego Instytutu i może żądać niezbędnych informacji od Dyrektora oraz jego zastępców.
+
+**Art. 12a.** Obsługę administracyjno-biurową Dyrektora i Rady zapewnia Narodowy Instytut.
 
 **Art. 13.**
 
@@ -215,7 +239,9 @@ Art. 37–41. (pominięte)
 
 **Art. 17.**
 
-1. Po upływie terminu, o którym mowa w art. 16, niezwłocznie upowszechnia się listę kandydatów, którzy spełniają wymagania formalne określone w ogłoszeniu o naborze, w sposób, o którym mowa w art. 14 ust. 2. miejsce zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
+1. Po upływie terminu, o którym mowa w art. 16, niezwłocznie upowszechnia się listę kandydatów, którzy spełniają wymagania formalne określone w ogłoszeniu o naborze, w sposób, o którym mowa w art. 14 ust. 2.
+
+2. Lista, o której mowa w ust. 1, zawiera imię i nazwisko kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
 
 **Art. 18.**
 
@@ -249,6 +275,8 @@ Art. 37–41. (pominięte)
 
 1. Sposób działania Narodowego Instytutu określa regulamin ustanawiany przez Dyrektora.
 
+2. Projekt regulaminu Narodowego Instytutu opiniuje Rada.
+
 #### Rozdział 3 Zadania Narodowego Instytutu
 
 **Art. 23.**
@@ -268,7 +296,8 @@ Art. 37–41. (pominięte)
 3. Do zadań Narodowego Instytutu należy także:
 
 - **1)** wspieranie zaangażowania obywateli, organizacji pozarządowych oraz innych zorganizowanych form społeczeństwa obywatelskiego w życie publiczne, procesy kształtowania polityk publicznych i podejmowania decyzji;
-- **2)** wspieranie obywatelskiej kontroli nad funkcjonowaniem instytucji publicznych i instytucji zaufania publicznego oraz zwiększenie ich przejrzystości i przestrzegania reguł dobrego rządzenia; społecznikowskiego obywateli, wspieranie i upowszechnianie wolontariatu;
+- **2)** wspieranie obywatelskiej kontroli nad funkcjonowaniem instytucji publicznych i instytucji zaufania publicznego oraz zwiększenie ich przejrzystości i przestrzegania reguł dobrego rządzenia;
+- **3)** wspieranie oddolnej aktywności obywatelskiej, wzmacnianie etosu społecznikowskiego obywateli, wspieranie i upowszechnianie wolontariatu;
 - **4)** podtrzymywanie i upowszechnianie kultury oraz zakorzenionej w chrześcijańskim dziedzictwie tradycji narodowej i lokalnej, pielęgnowanie polskości oraz rozwoju świadomości narodowej, obywatelskiej i kulturowej, a także solidarności i wrażliwości społecznej;
 - **5)** promocja poszanowania i ochrony praw człowieka i praw obywatelskich;
 - **6)** edukacja obywatelska i kształtowanie postaw obywatelskich oraz wspieranie zaangażowania obywateli i organizacji obywatelskich w realizację zadań z zakresu edukacji formalnej i nieformalnej;
@@ -281,7 +310,9 @@ Art. 37–41. (pominięte)
 
 4. Przy realizacji zadań, o których mowa w ust. 1–3, Narodowy Instytut może współpracować z podmiotami zagranicznymi i krajowymi, w szczególności jako partner umów o wspólne przedsięwzięcie.
 
-5. Narodowy Instytut realizuje zadania samodzielnie lub zleca realizację zadań, o których mowa w ust. 1–3, wyłonionym w drodze otwartego konkursu ofert organizacjom pozarządowym oraz podmiotom wymienionym w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie. o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014– 2020 (Dz. U. z 2020 r. poz. 818), oraz przystępować do programów lub projektów współfinansowanych ze środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+5. Narodowy Instytut realizuje zadania samodzielnie lub zleca realizację zadań, o których mowa w ust. 1–3, wyłonionym w drodze otwartego konkursu ofert organizacjom pozarządowym oraz podmiotom wymienionym w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+
+6. Narodowy Instytut może uczestniczyć w realizacji programów operacyjnych, o których mowa w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014– 2020 (Dz. U. z 2020 r. poz. 818), oraz przystępować do programów lub projektów współfinansowanych ze środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 7. Narodowy Instytut może prowadzić także działalność wydawniczą dotyczącą społeczeństwa obywatelskiego.
 
@@ -299,9 +330,16 @@ Art. 37–41. (pominięte)
 
 **Art. 26.** Przewodniczący Komitetu w ramach nadzoru:
 
+- **1)** sprawuje kontrolę nad działalnością Narodowego Instytutu pod względem legalności, gospodarności, celowości i rzetelności na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej;
+- **2)** zatwierdza:
+    - **a)** projekt rocznego planu finansowego Narodowego Instytutu,
+    - **b)** projekt rocznego planu działalności Narodowego Instytutu,
+    - **c)** roczne sprawozdanie z działalności Narodowego Instytutu,
+    - **d)** roczne sprawozdanie finansowe Narodowego Instytutu.
+
 **Art. 27.**
 
-1. Dyrektor, po uzyskaniu opinii Rady, przedstawia Przewodniczącemu Komitetu do zatwierdzenia końcowe sprawozdanie z realizacji programów wspierania w art. 25 ust. 2.
+1. Dyrektor, po uzyskaniu opinii Rady, przedstawia Przewodniczącemu Komitetu do zatwierdzenia końcowe sprawozdanie z realizacji programów wspierania rozwoju społeczeństwa obywatelskiego wraz z informacją o ewaluacji, o której mowa w art. 25 ust. 2.
 
 2. Rada Ministrów podejmuje decyzje w sprawie kontynuacji finansowania programów wspierania rozwoju społeczeństwa obywatelskiego.
 
@@ -327,7 +365,8 @@ Art. 37–41. (pominięte)
 - **3)** termin, miejsce oraz formę składania oferty na realizację zadania;
 - **4)** wzór oferty na realizację zadania;
 - **5)** wzór umowy na realizację zadania;
-- **6)** kwotę przeznaczoną na realizację zadania; finansowania lub dofinansowania, w tym możliwość powołania w tym celu komisji konkursowej;
+- **6)** kwotę przeznaczoną na realizację zadania;
+- **6a)** zasady dokonywania oceny ofert i wyboru ofert przeznaczonych do finansowania lub dofinansowania, w tym możliwość powołania w tym celu komisji konkursowej;
 - **7)** zasady przyznawania dotacji w konkursie oraz maksymalny dopuszczalny poziom dofinansowania wniosku lub maksymalną dopuszczalną kwotę dofinansowania wniosku;
 - **7a)** możliwość tworzenia listy rezerwowej i dokonywania wyboru ofert z tej listy przez Dyrektora w przypadku uwolnienia środków w ramach konkursu;
 - **7b)** przypadki, w których następuje unieważnienie konkursu;
@@ -344,7 +383,9 @@ Art. 37–41. (pominięte)
 - **4)** możliwość realizacji zadania przez osoby zaangażowane w jego realizację, w tym doświadczenie wnioskodawcy, a także potencjał partnerów;
 - **5)** zasadność planowanych kosztów w stosunku do celu, rezultatów i zakresu działań, które obejmuje oferta.
 
-**Art. 31.** W ramach programów wspierania rozwoju społeczeństwa obywatelskiego, o których mowa w art. 23 ust. 1, Narodowy Instytut może dofinansować rozwój instytucjonalny organizacji pozarządowych oraz podmiotów, o których mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, w tym kosztów organizacyjnych i administracyjnych ich działalności. Gospodarka finansowa Narodowego Instytutu
+**Art. 31.** W ramach programów wspierania rozwoju społeczeństwa obywatelskiego, o których mowa w art. 23 ust. 1, Narodowy Instytut może dofinansować rozwój instytucjonalny organizacji pozarządowych oraz podmiotów, o których mowa w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, w tym kosztów organizacyjnych i administracyjnych ich działalności.
+
+#### Rozdział 5 Gospodarka finansowa Narodowego Instytutu
 
 **Art. 32.**
 
@@ -369,7 +410,9 @@ Art. 37–41. (pominięte)
 
 3a. Środki, o których mowa w ust. 2 pkt 1 i 2, podlegają zwrotowi według zasad wynikających z odrębnych przepisów regulujących zasady dysponowania tymi środkami.
 
-4. Wydatkowanie środków, o których mowa w ust. 1 i 2, przez Narodowy Instytut jest dokonywane zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. części budżetowej na wniosek Dyrektora.
+4. Wydatkowanie środków, o których mowa w ust. 1 i 2, przez Narodowy Instytut jest dokonywane zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+5. Dotacje, o których mowa w ust. 1 pkt 1 i 2, przekazuje właściwy dysponent części budżetowej na wniosek Dyrektora.
 
 **Art. 33.**
 
@@ -403,7 +446,7 @@ Art. 37–41. (pominięte)
 
 1. Roczne sprawozdanie finansowe Narodowego Instytutu podlega badaniu przez firmę audytorską, zgodnie z wymogami przeprowadzania badań określonymi w ustawie z dnia 29 września 1994 r. o rachunkowości i w ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891).
 
-2. Przewodniczący Komitetu dokonuje, po zasięgnięciu opinii Rady, wyboru firmy audytorskiej, o której mowa w ust. 1, w trybie przepisów ustawy z dnia późn. zm. ).
+2. Przewodniczący Komitetu dokonuje, po zasięgnięciu opinii Rady, wyboru firmy audytorskiej, o której mowa w ust. 1, w trybie przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
 
@@ -422,7 +465,7 @@ Art. 37–41. (pominięte)
 
 **Art. 43.**
 
-1. Program Fundusz Inicjatyw Obywatelskich na lata 2014– 2020 stanowiący załącznik do uchwały nr 209/2013 Rady Ministrów z dnia 27 listopada 2013 r. w sprawie przyjęcia Programu Fundusz Inicjatyw Obywatelskich obywatelskiego w rozumieniu art. 23 ust. 1 niniejszej ustawy.
+1. Program Fundusz Inicjatyw Obywatelskich na lata 2014– 2020 stanowiący załącznik do uchwały nr 209/2013 Rady Ministrów z dnia 27 listopada 2013 r. w sprawie przyjęcia Programu Fundusz Inicjatyw Obywatelskich na lata 2014–2020 staje się programem wspierania rozwoju społeczeństwa obywatelskiego w rozumieniu art. 23 ust. 1 niniejszej ustawy.
 
 2. Należności i zobowiązania ministra właściwego do spraw zabezpieczenia społecznego wynikające z realizacji uchwały, o której mowa w ust. 1, stają się należnościami i zobowiązaniami Narodowego Instytutu z dniem wejścia w życie niniejszej ustawy.
 
@@ -439,7 +482,7 @@ Art. 37–41. (pominięte)
 - **1)** postępowań egzekucyjnych dotyczących dotacji, o których mowa w ust. 4, w charakterze wierzyciela;
 - **2)** postępowań przed sądami administracyjnymi dotyczących dotacji, o których mowa w ust. 4, w charakterze organu.
 
-**Art. 44.** Do wykazu organizacji mających status organizacji pożytku publicznego, o którym mowa w art. 27a ust. 1 ustawy zmienianej w art. 39 , na dzień 30 listopada 2016 r., na które podatnik podatku dochodowego od osób fizycznych może przekazać 1 % podatku z zeznań podatkowych składanych za rok podatkowy, dotychczasowe przepisy wykonawcze, z tym zastrzeżeniem, że kompetencje przyznane tymi przepisami ministrowi właściwemu do spraw zabezpieczenia społecznego wykonywać będzie Dyrektor.
+**Art. 44.** Do wykazu organizacji mających status organizacji pożytku publicznego, o którym mowa w art. 27a ust. 1 ustawy zmienianej w art. 39 , na dzień 30 listopada 2016 r., na które podatnik podatku dochodowego od osób fizycznych może przekazać 1 % podatku z zeznań podatkowych składanych za rok podatkowy, oraz do czynności związanych z jego tworzeniem i prowadzeniem stosuje się dotychczasowe przepisy wykonawcze, z tym zastrzeżeniem, że kompetencje przyznane tymi przepisami ministrowi właściwemu do spraw zabezpieczenia społecznego wykonywać będzie Dyrektor.
 
 **Art. 45.**
 
@@ -469,6 +512,7 @@ Art. 37–41. (pominięte)
 - **1)** 2027 – 236 300 000 zł;
 - **2)** 2028 – 235 300 000 zł;
 - **3)** 2029 – 237 300 000 zł;
+- **4)** 2030 – 239 300 000 zł;
 - **5)** 2031 – 241 300 000 zł;
 - **6)** 2032 – 243 300 000 zł;
 - **7)** 2033 – 245 300 000 zł;
@@ -492,7 +536,9 @@ Art. 37–41. (pominięte)
 
 **Art. 51.**
 
-1. Tworzy się Narodowy Instytut. przygotowawczych i organizacyjnych niezbędnych do utworzenia Narodowego Instytutu.
+1. Tworzy się Narodowy Instytut.
+
+2. Dyrektor jest uprawniony do podejmowania wszelkich działań przygotowawczych i organizacyjnych niezbędnych do utworzenia Narodowego Instytutu.
 
 3. Dyrektor w terminie 30 dni od dnia powołania przedstawia do zatwierdzenia Przewodniczącemu Komitetu pierwszy plan finansowy Narodowego Instytutu na okres od dnia jego utworzenia do końca roku obrotowego.
 
@@ -520,6 +566,7 @@ Art. 37–41. (pominięte)
 
 1. Do przyjętych przed dniem wejścia w życie niniejszej ustawy rządowych programów, o których mowa w art. 5c ustawy zmienianej w art. 39 , w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, dotyczących wspierania rozwoju organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 ustawy zmienianej w art. 39 stosuje się przepisy dotychczasowe.
 
-2. Przepisu ust. 1 nie stosuje się do programu, o którym mowa w art. 43 ust. 1. z wyjątkiem art. 45 ust. 2 i 3, które wchodzą w życie z dniem ogłoszenia.
+2. Przepisu ust. 1 nie stosuje się do programu, o którym mowa w art. 43 ust. 1.
 
+**Art. 56.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem art. 45 ust. 2 i 3, które wchodzą w życie z dniem ogłoszenia.
 

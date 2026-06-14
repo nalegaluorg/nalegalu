@@ -8,7 +8,7 @@ pos: 2375
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Centralnym Azylu dla Zwierząt
@@ -33,6 +33,13 @@ source: "isap-pdf"
 
 **Art. 2.** Użyte w ustawie określenia i skróty oznaczają:
 
+- **1)** Centralny Azyl – Centralny Azyl dla Zwierząt;
+- **2)** gatunek chroniony – gatunek objęty ochroną gatunkową określony w przepisach wydanych na podstawie art. 49 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726, 2185 i 2375);
+- **3)** gatunek CITES – gatunek wymieniony w załącznikach A–D do rozporządzenia Rady (WE) nr 338/97 z dnia 9 grudnia 1996 r. w sprawie ochrony gatunków dzikiej fauny i flory w drodze regulacji handlu nimi (Dz. Urz. WE L 61 z 03.03.1997, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 3, str. 136);
+- **4)** gatunek niebezpieczny – gatunek niebezpieczny dla życia i zdrowia ludzi określony w przepisach wydanych na podstawie art. 73 ust. 11 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
+- **5)** inwazyjny gatunek obcy – inwazyjny gatunek obcy stwarzający zagrożenie dla Unii wymieniony w wykazie, o którym mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm. ), lub inwazyjny gatunek obcy stwarzający zagrożenie dla Polski wymieniony na liście określonej w przepisach wydanych na podstawie art. 23 ust. 1 pkt 2 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718 oraz z 2022 r. poz. 2375);
+- **6)** rozporządzenie 1143/2014 – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych.
+
 #### Rozdział 2 Zadania Centralnego Azylu
 
 **Art. 3.**
@@ -52,11 +59,31 @@ source: "isap-pdf"
 
 **Art. 4.** Do zadań Centralnego Azylu należy:
 
+- **1)** transport i czasowe przetrzymywanie okazów gatunków zwierząt, o których mowa w art. 3 ust. 1, przekazanych przez organy celne lub organy Policji;
+- **2)** czasowe przetrzymywanie okazów gatunków zwierząt, o których mowa w art. 3 ust. 1, przekazanych przez organy administracji publicznej, podmioty i jednostki inne niż wymienione w pkt 1, po uzyskaniu zgody Dyrektora Centralnego Azylu;
+- **3)** czasowe przetrzymywanie okazów gatunków zwierząt, o których mowa w art. 3 ust. 2, przekazanych przez organy celne, organy Policji lub organy administracji publicznej, po uzyskaniu zgody Dyrektora Centralnego Azylu;
+- **3a)** transport okazów gatunków zwierząt, o których mowa w pkt 2 i 3, po uzyskaniu zgody Dyrektora Centralnego Azylu;
+- **4)** poddawanie zwierząt przyjętych do Centralnego Azylu kwarantannie lub izolacji;
+- **5)** znakowanie zwierząt przyjętych do Centralnego Azylu, wobec których nie dopełniono takiego obowiązku;
+- **6)** wprowadzanie do środowiska przyrodniczego zwierząt przetrzymywanych w Centralnym Azylu;
+- **7)** przekazywanie zwierząt przetrzymywanych w Centralnym Azylu innym podmiotom publicznym i prywatnym w kraju i za granicą;
+- **8)** humanitarne traktowanie zwierząt przetrzymywanych w Centralnym Azylu;
+- **9)** ochrona przyrody i edukacja w zakresie działalności Centralnego Azylu.
+
 **Art. 4a.** Zadania Centralnego Azylu, o których mowa w art. 4 pkt 1–5, mogą być wykonywane przez inne podmioty na podstawie porozumień lub umów określających zakres zadań planowanych do wykonania, jeżeli przemawiają za tym względy ekonomiczne lub organizacyjne.
 
 **Art. 4b.** W przypadku gdy wykonanie zadania, o którym mowa w art. 4 pkt 1, nie jest możliwe ze względu na:
 
+- **1)** brak możliwości zapewnienia w Centralnym Azylu właściwych warunków do przetrzymywania zwierząt i opieki nad nimi, odpowiadających ich potrzebom biologicznym oraz mających wpływ na ich zdrowie i dobrostan,
+- **2)** bieżące obłożenie Centralnego Azylu uniemożliwiające zachowanie jego przepustowości i operacyjności,
+- **3)** ryzyko przekroczenia limitu wydatków, o którym mowa w art. 36 ust. 1 – Centralny Azyl podejmuje czynności zmierzające do umieszczenia zwierzęcia w ogrodzie zoologicznym, ośrodku rehabilitacji zwierząt lub azylu dla zwierząt.
+
 **Art. 5.** Centralny Azyl współpracuje w szczególności z:
+
+- **1)** organami Inspekcji Weterynaryjnej w zakresie realizacji zadań Centralnego Azylu, o których mowa w art. 4 pkt 1–4 i 6, mogących mieć wpływ na zdrowie publiczne i zdrowie zwierząt, w tym zwalczanie chorób zakaźnych zwierząt;
+- **2)** organem zarządzającym, o którym mowa w art. 61 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, w zakresie realizacji zadań Centralnego Azylu w odniesieniu do gatunków CITES;
+- **3)** organami celnymi i organami Policji w zakresie oznaczania gatunków zwierząt przyjmowanych do Centralnego Azylu oraz organizowania szkoleń na ten temat;
+- **4)** ogrodami zoologicznymi, ośrodkami rehabilitacji zwierząt, azylami dla zwierząt w rozumieniu przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, instytucjami naukowymi oraz innymi podmiotami – na podstawie umów i porozumień zawartych w zakresie realizacji zadań Centralnego Azylu, o których mowa w art. 4 pkt 1–5, 7 i 9.
 
 **Art. 6.**
 
@@ -160,7 +187,14 @@ source: "isap-pdf"
 
 **Art. 9.** Zwierzę przyjęte do Centralnego Azylu podlega kwarantannie lub izolacji:
 
+- **1)** jeżeli taki obowiązek wynika z odrębnych przepisów weterynaryjnych;
+- **2)** w przypadku stwierdzenia takiej potrzeby przez lekarza weterynarii.
+
 **Art. 10.** Transport zwierzęcia przez inne podmioty odbywa się na podstawie porozumień lub umów, o których mowa w art. 5 pkt 4, i dotyczy przypadków, gdy:
+
+- **1)** nie można go zrealizować pojazdem Centralnego Azylu;
+- **2)** (uchylony)
+- **3)** przemawiają za tym względy ekonomiczne lub logistyczne.
 
 **Art. 11.**
 
@@ -322,11 +356,61 @@ source: "isap-pdf"
 
 **Art. 18.** W ramach kierowania Centralnym Azylem i reprezentowania go na zewnątrz Dyrektor Centralnego Azylu:
 
+- **1)** realizuje wiążące wytyczne i polecenia ministra właściwego do spraw środowiska, w ramach jego nadzoru, o którym mowa w art. 23 ust. 1;
+- **2)** współpracuje z podmiotami, o których mowa w art. 5;
+- **3)** współpracuje z podmiotami, o których mowa w art. 38 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, art. 130 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, art. 28 ust. 15 oraz art. 36 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych, w zakresie dalszego postępowania z okazami gatunków zwierząt, o których mowa w art. 3, co do których orzeczono przepadek – w zakresie poszukiwania podmiotów uprawnionych do utrzymywania zwierzęcia oraz w zakresie ustalania wysokości kosztów transportu zwierzęcia, leczenia weterynaryjnego, znakowania, kwarantanny lub izolacji, opieki nad nim, jego wyżywienia lub jego uśmiercenia i utylizacji zwłok, poniesionych do czasu rozstrzygnięcia postępowania sądowego;
+- **4)** współpracuje ze starostą w zakresie realizacji działań, o których mowa w art. 7 ust. 4 pkt 2 i 4;
+- **5)** opracowuje i aktualizuje procedury, o których mowa w art. 11 ust. 3;
+- **6)** składa wnioski o udzielenie zezwolenia na wprowadzenie zwierzęcia do środowiska przyrodniczego, o którym mowa w art. 13 ust. 2;
+- **7)** składa wnioski o udzielenie zezwolenia na uśmiercenie zwierzęcia, o których mowa w art. 15 ust. 1a i 1c;
+- **8)** udziela zgody na przyjęcie zwierzęcia do Centralnego Azylu albo odmawia przyjęcia zwierzęcia do Centralnego Azylu;
+- **8a)** udziela zgody na transport zwierzęcia, które ma zostać przyjęte do Centralnego Azylu, albo odmawia udzielenia zgody na transport zwierzęcia, które ma zostać przyjęte do Centralnego Azylu;
+- **9)** przekazuje zwierzę innym podmiotom, o których mowa w art. 14 ust. 1;
+- **9a)** dokonuje zwrotu zwierzęcia w przypadkach, o których mowa w art. 8 ust. 1 pkt 7 i 8;
+- **10)** prowadzi ewidencję zwierząt przyjętych do Centralnego Azylu;
+- **11)** składa ministrowi właściwemu do spraw środowiska roczne sprawozdanie z działalności Centralnego Azylu, w terminie do dnia 31 stycznia roku następującego po roku, którego sprawozdanie to dotyczy;
+- **12)** ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Centralnego Azylu uproszczone sprawozdanie z działalności Centralnego Azylu, w terminie do dnia 31 marca roku następującego po roku, którego sprawozdanie to dotyczy.
+- **13)** (uchylony)
+
 **Art. 19.** Ewidencja, o której mowa w art. 18 pkt 10, zawiera:
+
+- **1)** datę:
+    - **a)** przyjęcia zwierzęcia do Centralnego Azylu,
+    - **b)** wpisania zwierzęcia do ewidencji,
+    - **c)** dokonania zmiany danych wpisanych do ewidencji,
+    - **d)** wykreślenia z ewidencji zwierzęcia uśmierconego, padłego, wprowadzonego do środowiska przyrodniczego albo przekazanego innemu podmiotowi, w przypadkach, o których mowa w art. 14 ust. 1 pkt 1,
+    - **e)** przekazania zwierzęcia innemu podmiotowi w przypadkach, o których mowa w art. 14 ust. 1 pkt 2;
+
+- **2)** nazwę naukową przetrzymywanego zwierzęcia oraz nazwę polską, jeżeli taka istnieje;
+- **3)** płeć i wiek zwierzęcia, jeżeli jest to możliwe do ustalenia;
+- **4)** źródło pochodzenia zwierzęcia, w szczególności zatrzymanie zwierzęcia w ramach kontroli granicznej, odebranie zwierzęcia na podstawie decyzji, o której mowa w art. 7 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, lub interwencji, o której mowa w art. 7 ust. 3 tej ustawy, lub odebranie zwierzęcia w wyniku cofnięcia zezwolenia;
+- **5)** nazwę, siedzibę i adres albo imię, nazwisko, miejsce zamieszkania i adres przekazującego zwierzę do Centralnego Azylu;
+- **6)** status prawny zwierzęcia, w szczególności wskazanie, czy zwierzę stanowi przedmiot postępowania w sprawie orzekania o przepadku albo czy zwierzę stanowi własność Skarbu Państwa;
+- **7)** opis trwałego oznakowania zwierzęcia, w szczególności numer oraz umiejscowienie mikroczipa, jeżeli zwierzę zostało oznakowane przez wszczepienie mikroczipa;
+- **8)** wskazanie sposobu opuszczenia przez zwierzę Centralnego Azylu, w szczególności zwierzę uśmiercone, padłe, wprowadzone do środowiska przyrodniczego albo przekazane innemu podmiotowi, ze wskazaniem nazwy, siedziby i adresu albo imienia, nazwiska, miejsca zamieszkania i adresu tego podmiotu.
 
 **Art. 20.** Roczne sprawozdanie z działalności Centralnego Azylu, o którym mowa w art. 18 pkt 11, zawiera:
 
+- **1)** liczbę skierowanych do Dyrektora Centralnego Azylu próśb o przyjęcie zwierząt do Centralnego Azylu, liczbę udzielonych zgód na przyjęcie zwierząt oraz liczbę odmów przyjęcia zwierząt ze wskazaniem przyczyny odmowy;
+- **2)** wykaz zwierząt przetrzymywanych w Centralnym Azylu według stanu na koniec roku sprawozdawczego, ze wskazaniem nazwy naukowej oraz nazwy polskiej, jeżeli taka istnieje, oraz z opisem trwałego oznakowania zwierzęcia, w tym z numerem i umiejscowieniem mikroczipa, jeżeli zwierzę zostało oznakowane przez wszczepienie mikroczipa;
+- **3)** liczbę zwierząt, ze wskazaniem nazwy naukowej oraz nazwy polskiej, jeżeli taka istnieje:
+    - **a)** przyjętych do Centralnego Azylu, z podaniem źródła pochodzenia oraz statusu prawnego zwierzęcia,
+    - **b)** poddanych kwarantannie lub izolacji,
+    - **c)** padłych, ze wskazaniem przyczyny,
+    - **d)** uśmierconych, ze wskazaniem przyczyny,
+    - **e)** przekazanych innym podmiotom, ze wskazaniem nazwy, siedziby i adresu albo imienia, nazwiska, miejsca zamieszkania i adresu tych podmiotów,
+    - **f)** wprowadzonych do środowiska przyrodniczego;
+
+- **4)** liczbę i opis zdarzeń, w szczególności pożarów, ucieczek, chorób lub innych niebezpiecznych zdarzeń wymagających zastosowania procedur, o których mowa w art. 11 ust. 3 pkt 1, 2 i 7;
+- **5)** rodzaj i liczbę zawartych porozumień lub umów w zakresie transportu lub przekazania zwierząt innym podmiotom w celu przetrzymywania, kwarantanny lub izolacji.
+
 **Art. 21.** Uproszczone sprawozdanie z działalności Centralnego Azylu, o którym mowa w art. 18 pkt 12, zawiera liczbę zwierząt z podziałem na gatunki:
+
+- **1)** przyjętych do Centralnego Azylu;
+- **2)** przetrzymywanych w Centralnym Azylu;
+- **3)** wprowadzonych do środowiska przyrodniczego;
+- **4)** przekazanych innym podmiotom;
+- **5)** padłych albo uśmierconych, ze wskazaniem przyczyny.
 
 **Art. 22.** (uchylony)
 
@@ -361,9 +445,43 @@ source: "isap-pdf"
 
 **Art. 29.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726 i 2185) wprowadza się następujące zmiany:
 
+- **1)** w art. 27a w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Wyznaczenie obszaru specjalnej ochrony ptaków lub specjalnego obszaru ochrony siedlisk, zmiana jego granic lub likwidacja następują w drodze rozporządzenia ministra właściwego do spraw środowiska, które określa nazwę, położenie administracyjne, obszar i mapę obszaru, cel i przedmiot ochrony.”;
+- **2)** w art. 62 ust. 2 otrzymuje brzmienie: „2. Okazy gatunków, o których mowa w ust. 1, mogą być przekazywane do ogrodów botanicznych, ogrodów zoologicznych, ośrodków rehabilitacji zwierząt, azyli dla zwierząt lub Centralnego Azylu dla Zwierząt, o którym mowa w ustawie z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt (Dz. U. poz. 2375), zwanego dalej „Centralnym Azylem dla Zwierząt”.”;
+- **3)** w art. 64 w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) Centralnego Azylu dla Zwierząt.”;
+- **4)** w art. 73 ust. 2 otrzymuje brzmienie: „2. Zakazy, o których mowa w ust. 1 pkt 1 i 2, nie dotyczą ogrodów zoologicznych i placówek naukowych prowadzących badania nad zwierzętami, a zakazy, o których mowa w ust. 1 pkt 1, nie dotyczą ośrodków rehabilitacji zwierząt, azyli dla zwierząt oraz Centralnego Azylu dla Zwierząt.”.
+
 **Art. 30.** W ustawie z dnia 20 lutego 2015 r. o rzeczach znalezionych (Dz. U. z 2019 r. poz. 908) art. 3 otrzymuje brzmienie: „Art. 3. Przepisów ustawy nie stosuje się do:
 
+- **1)** zabytków archeologicznych;
+- **2)** zwierząt, które zabłąkały się lub uciekły, przekazanych do Centralnego Azylu dla Zwierząt, o którym mowa w ustawie z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt (Dz. U. poz. 2375).”.
+
 **Art. 31.** W ustawie z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718) wprowadza się następujące zmiany:
+
+- **1)** w art. 7 ust. 5 otrzymuje brzmienie: „5. Zakazów, o których mowa w art. 7 ust. 1 lit. b rozporządzenia nr 1143/2014 oraz w ust. 2 pkt 3, nie stosuje się w odniesieniu do IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego zagrożenie dla Polski:
+- **1)** przetrzymywanego w Centralnym Azylu dla Zwierząt, o którym mowa w ustawie z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt (Dz. U. poz. 2375), zwanym dalej „Centralnym Azylem dla Zwierząt”;
+- **2)** ujętego w wykazie, o którym mowa w art. 76a ust. 5 pkt 4 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726, 2185 i 2375), przetrzymywanego w azylu dla zwierząt.”;
+- **2)** w art. 11 w ust. 1 pkt 2 otrzymuje brzmienie: „2) przekazuje to zwierzę:
+    - **a)** podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014,
+    - **b)** podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3,
+    - **c)** do Centralnego Azylu dla Zwierząt albo
+    - **d)** do azylu dla zwierząt, albo”;
+
+- **3)** w art. 28:
+    - **a)** ust. 11 otrzymuje brzmienie: „11. W przypadku gdy powiatowy lekarz weterynarii w wyniku czynności, o których mowa w ust. 7 pkt 2, stwierdzi, że zwierzę stwarza zagrożenie dla życia lub zdrowia ludzi lub zwierząt lub że niemożliwy jest transport tego zwierzęcia, organ celny przekazuje informacje w tym zakresie właściwemu regionalnemu dyrektorowi ochrony środowiska.”,
+    - **b)** ust. 14–16 otrzymują brzmienie: „14. IGO będący zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 albo 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, może zostać przekazany przez organ celny do Centralnego Azylu dla Zwierząt, azylu dla zwierząt albo ogrodu zoologicznego na koszt podmiotu dokonującego przywozu.
+
+15. Organ celny przy przekazywaniu IGO będącego zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 albo 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, do Centralnego Azylu dla Zwierząt, azylu dla zwierząt albo ogrodu zoologicznego współpracuje z Centralnym Azylem dla Zwierząt lub podmiotami prowadzącymi azyl dla zwierząt lub ogród zoologiczny.
+
+16. Współpraca, o której mowa w ust. 15, polega w szczególności na:
+
+- **1)** odbiorze i transporcie zwierzęcia przez Centralny Azyl dla Zwierząt lub podmioty prowadzące azyl dla zwierząt albo ogród zoologiczny;
+- **2)** przekazywaniu informacji dotyczących zwierzęcia, w tym o:
+    - **a)** poniesionych kosztach jego transportu, wyżywienia, opieki weterynaryjnej nad nim, jego kwarantanny lub izolacji, znakowania lub uśmiercenia, w tym utylizacji zwłok,
+    - **b)** uśmierceniu albo padnięciu zwierzęcia.”,
+    - **c)** w ust. 18 wprowadzenie do wyliczenia otrzymuje brzmienie: „Podmiot dokonujący przywozu IGO będącego zwierzęciem, wobec którego zastosowano art. 31 ust. 1 pkt 2 albo 3 ustawy z dnia 19 marca 2004 r. – Prawo celne, ponosi koszty utrzymywania tego zwierzęcia, o których mowa w ust. 16 pkt 2 lit. a, poniesione przez podmioty, o których mowa w ust. 15, do czasu:”,
+    - **d)** ust. 19 otrzymuje brzmienie: „19. Organ celny ustala, w drodze decyzji, wysokość kosztów, o których mowa w ust. 4, 14 i 18, uwzględniając poniesione koszty transportu, wyżywienia, opieki weterynaryjnej, kwarantanny lub izolacji, znakowania lub uśmiercenia, w tym utylizacji zwłok.”;
+
+- **4)** w art. 35 w ust. 1 w pkt 4 lit. b otrzymuje brzmienie: „b) nie przekazuje zwierzęcia: – podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 lit. b oraz d rozporządzenia nr 1143/2014, – podmiotowi, który posiada zezwolenie na odstępstwo od zakazów, o których mowa w art. 7 ust. 2 pkt 2 i 3, – do Centralnego Azylu dla Zwierząt albo – do azylu dla zwierząt, albo”.
 
 #### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
 

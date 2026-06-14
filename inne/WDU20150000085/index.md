@@ -8,7 +8,7 @@ pos: 85
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 13 stycznia 2015 r.

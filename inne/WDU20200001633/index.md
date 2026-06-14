@@ -8,10 +8,10 @@ pos: 1633
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 września 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1633 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 21 września 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001633) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1633/text.pdf) |
 
-Poz. 1633 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 21 września 2020 r.
 w sprawie dofinansowania pobytu weterana-żołnierza i weterana poszkodowanego-żołnierza w Domu Weterana Na podstawie art. 24 ust. 7 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
-z 2019 r. poz. 1569 i 1726) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2019 r. poz. 1569 i 1726) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób dofinansowania pobytu weterana-żołnierza i weterana poszkodowanego-żołnierza w Domu Weterana;
 2) dokumenty niezbędne do wydania zaświadczeń o pierwszeństwie w umieszczeniu w Domu Weterana.
 § 2. 1. Dofinansowanie, o którym mowa w art. 24 ust. 3 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, odbywa się na podstawie umowy zawartej między Skarbem Państwa reprezentowanym przez Ministra Obrony Narodowej a kierownikiem podmiotu leczniczego, w ramach którego funkcjonuje Dom Weterana.
@@ -43,7 +43,7 @@ c) opłaty wnoszone przez weterana-żołnierza lub weterana poszkodowanego-żoł
 a) imię, nazwisko i numer PESEL osoby uprawnionej, a w przypadku gdy nie posiada ona numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego jej tożsamość oraz datę urodzenia,
 b) podstawę prawną pobytu,
 c) okres pobytu,
-d) rzeczywisty koszt pobytu, Dziennik Ustaw – 2 – Poz. 1633
+d) rzeczywisty koszt pobytu,
 e) wysokość kwoty dofinansowania otrzymanej na osobę uprawnioną w ramach umowy z NFZ o udzielenie świadczeń opieki zdrowotnej,
 f) wysokość opłaty za pobyt wniesionej przez osobę uprawnioną,
 g) wysokość należnej kwoty dofinansowania ustalonej zgodnie z § 2 ust. 2 pkt 2,

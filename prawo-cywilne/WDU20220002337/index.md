@@ -8,7 +8,7 @@ pos: 2337
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o prawach konsumenta, ustawy – Kodeks cywilny oraz ustawy – Prawo prywatne międzynarodowe
@@ -28,6 +28,57 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2337/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287 oraz z 2021 r. poz. 2105) wprowadza się następujące zmiany:
+
+- **1)** odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „ Niniejsza ustawa w zakresie swojej regulacji wdraża:
+- **1)** dyrektywę Parlamentu Europejskiego i Rady 2011/83/UE z dnia 25 października 2011 r. w sprawie praw konsumentów, zmieniającą dyrektywę Rady 93/13/EWG i dyrektywę 1999/44/WE Parlamentu Europejskiego i Rady oraz uchylającą dyrektywę Rady 85/577/EWG i dyrektywę 97/7/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 304 z 22.11.2011, str. 64, z późn. zm.), ostatnio zmienioną dyrektywą Parlamentu Europejskiego i Rady (UE) 2019/2161 z dnia 27 listopada 2019 r. (Dz. Urz. UE L 328 z 18.12.2019, str. 7);
+- **2)** dyrektywę 2002/65/WE Parlamentu Europejskiego i Rady z dnia 23 września 2002 r. dotyczącą sprzedaży konsumentom usług finansowych na odległość oraz zmieniającą dyrektywę Rady 90/619/EWG oraz dyrektywy 97/7/WE i 98/27/WE (Dz. Urz. UE L 271 z 09.10.2002, str. 16, z późn. zm.), ostatnio zmienioną dyrektywą Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. (Dz. Urz. UE L 337 z 23.12.2015, str. 35, z późn. zm.);
+- **3)** dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/770 z dnia 20 maja 2019 r. w sprawie niektórych aspektów umów o dostarczanie treści cyfrowych i usług cyfrowych (Dz. Urz. UE L 136 z 22.05.2019, str. 1 oraz Dz. Urz. UE L 305 z 26.11.2019, str. 60);
+- **4)** dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/771 z dnia 20 maja 2019 r. w sprawie niektórych aspektów umów sprzedaży towarów, zmieniającą rozporządzenie (UE) 2017/2394 oraz dyrektywę 2009/22/WE i uchylającą dyrektywę 1999/44/WE (Dz. Urz. UE L 136 z 22.05.2019, str. 28 oraz Dz. Urz. UE L 305 z 26.11.2019, str. 63).”;
+- **2)** w art. 1 po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „4a) zasady i tryb wykonania praw konsumenta będącego stroną umowy zobowiązującej do przeniesienia własności towaru na konsumenta;
+- **4b)** zasady i tryb wykonania praw konsumenta będącego stroną umowy o dostarczanie treści cyfrowej lub usługi cyfrowej;”;
+- **3)** w art. 2:
+    - **a)** po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „4a) towar – rzecz ruchomą, a także wodę, gaz i energię elektryczną, w przypadku gdy są oferowane do sprzedaży w określonej objętości lub ilości;
+
+- **4b)** trwałość – zdolność towaru do zachowania jego funkcji i właściwości w toku zwykłego korzystania;”,
+    - **b)** po pkt 5 dodaje się pkt 5a–5h w brzmieniu: „5a) usługa cyfrowa – usługę pozwalającą konsumentowi na:
+    - **a)** wytwarzanie, przetwarzanie, przechowywanie lub dostęp do danych w postaci cyfrowej,
+    - **b)** wspólne korzystanie z danych w postaci cyfrowej, które zostały przesłane lub wytworzone przez konsumenta lub innych użytkowników tej usługi,
+    - **c)** inne formy interakcji za pomocą danych w postaci cyfrowej;
+
+- **5b)** towar z elementami cyfrowymi – towar zawierający treść cyfrową lub usługę cyfrową lub z nimi połączony w taki sposób, że brak treści cyfrowej lub usługi cyfrowej uniemożliwiłby jego prawidłowe funkcjonowanie;
+- **5c)** środowisko cyfrowe – sprzęt komputerowy, oprogramowanie i połączenia sieciowe wykorzystywane przez konsumenta w celu uzyskania dostępu do treści cyfrowej lub usługi cyfrowej lub w celu korzystania z nich;
+- **5d)** integracja – połączenie treści cyfrowej lub usługi cyfrowej z elementami środowiska cyfrowego konsumenta i włączenie ich do tych elementów w celu zapewnienia zgodności z umową o dostarczanie treści cyfrowej lub usługi cyfrowej;
+- **5e)** kompatybilność – współdziałanie treści cyfrowej, usługi cyfrowej, lub towaru ze sprzętem komputerowym lub oprogramowaniem, które są zazwyczaj używane do korzystania z treści cyfrowej, usługi cyfrowej, lub towaru tego samego rodzaju, bez konieczności ich przekształcania;
+- **5f)** funkcjonalność – zdolność treści cyfrowej, usługi cyfrowej lub towaru do pełnienia swoich funkcji z uwzględnieniem ich przeznaczenia;
+- **5g)** interoperacyjność – zdolność treści cyfrowej, usługi cyfrowej lub towaru do współdziałania ze sprzętem komputerowym lub oprogramowaniem innymi niż te zazwyczaj używane do korzystania z treści cyfrowej, usługi cyfrowej lub towaru tego samego rodzaju;
+- **5h)** cena – wartość wyrażoną w jednostkach pieniężnych, którą konsument jest obowiązany zapłacić przedsiębiorcy za treść cyfrową, usługę cyfrową lub towar, a w odniesieniu do treści cyfrowej lub usługi cyfrowej – także cyfrowe odwzorowanie wartości;”;
+- **4)** w art. 3 w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) o dostarczanie treści cyfrowej lub usługi cyfrowej, jeżeli konsument nie jest zobowiązany do świadczeń innych niż dostarczanie danych osobowych, a dane te są przetwarzane przez przedsiębiorcę wyłącznie w celu wykonania umowy lub obowiązku ustawowego.”;
+- **5)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Do umowy, na mocy której przedsiębiorca jest zobowiązany do przeniesienia własności towaru i wykonania usługi, stosuje się przepisy dotyczące umów zobowiązujących do przeniesienia własności.
+
+2. Przepisy, o których mowa w ust. 1, stosuje się do umów zobowiązujących do przeniesienia własności towaru z elementami cyfrowymi, również w zakresie treści cyfrowej lub usługi cyfrowej, nawet jeżeli są one dostarczane przez osobę trzecią. Do takiej treści cyfrowej lub usługi cyfrowej przepisów rozdziału 5b nie stosuje się.
+
+3. W razie wątpliwości poczytuje się, że treść cyfrowa lub usługa cyfrowa były objęte umową zobowiązującą do przeniesienia własności towaru z elementami cyfrowymi.”;
+
+- **6)** w art. 7a ust. 1 otrzymuje brzmienie: „1. Jeżeli przepisy odrębne nie stanowią inaczej, przedsiębiorca jest obowiązany udzielić odpowiedzi na reklamację konsumenta w terminie 14 dni od dnia jej otrzymania.”;
+- **7)** po art. 7a dodaje się art. 7aa w brzmieniu: „Art. 7aa. Przepisy dotyczące konsumenta zawarte w rozdziałach 4, 5a i 5b stosuje się do osoby fizycznej zawierającej umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści tej umowy wynika, że nie ma ona dla tej osoby charakteru zawodowego, wynikającego w szczególności z przedmiotu wykonywanej przez nią działalności gospodarczej, udostępnionego na podstawie przepisów o Centralnej Ewidencji i Informacji o Działalności Gospodarczej.”;
+- **8)** użyty w art. 12 w ust. 1 w pkt 10 i 13, w art. 21 w ust. 1 we wprowadzeniu do wyliczenia, w art. 23, w art. 32 w ust. 1, w art. 33, w art. 34 w ust. 2 oraz w art. 38 w pkt 6, 8 i 12, w różnej liczbie i w różnym przypadku, wyraz „rzecz” zastępuje się użytym w odpowiedniej liczbie i odpowiednim przypadku wyrazem „towar”;
+- **9)** tytuł rozdziału 4 otrzymuje brzmienie: „Prawo odstąpienia od umowy zawartej na odległość lub poza lokalem przedsiębiorstwa”;
+- **10)** w art. 28 pkt 1 otrzymuje brzmienie: „1) dla umowy, w wykonaniu której przedsiębiorca wydaje towar, będąc zobowiązany do przeniesienia jego własności – od objęcia towaru w posiadanie przez konsumenta lub wskazaną przez niego osobę trzecią inną niż przewoźnik, a w przypadku umowy, która:
+    - **a)** obejmuje wiele towarów, które są dostarczane osobno, partiami lub w częściach – od objęcia w posiadanie ostatniego towaru, jego partii lub części,
+    - **b)** polega na regularnym dostarczaniu towaru przez czas oznaczony – od objęcia w posiadanie pierwszego z towarów;”;
+
+- **11)** w art. 32 ust. 3 otrzymuje brzmienie: „3. Jeżeli przedsiębiorca nie zaproponował, że sam odbierze towar od konsumenta, może wstrzymać się ze zwrotem płatności otrzymanych od konsumenta do chwili otrzymania towaru z powrotem lub dostarczenia przez konsumenta dowodu jego odesłania, w zależności od tego, które zdarzenie nastąpi wcześniej.”;
+- **12)** w art. 34:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Konsument ma obowiązek zwrócić towar przedsiębiorcy lub przekazać go osobie upoważnionej przez przedsiębiorcę do odbioru niezwłocznie, jednak nie później niż 14 dni od dnia, w którym odstąpił od umowy, chyba że przedsiębiorca zaproponował, że sam odbierze towar. Do zachowania terminu wystarczy odesłanie towaru przed jego upływem.”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Jeżeli umowę zawarto poza lokalem przedsiębiorstwa a towar dostarczono konsumentowi do miejsca, w którym zamieszkiwał w chwili zawarcia umowy, przedsiębiorca jest zobowiązany do odebrania towaru na swój koszt, gdy ze względu na charakter towaru nie można go odesłać w zwykły sposób pocztą.
+
+4. Konsument ponosi odpowiedzialność za zmniejszenie wartości towaru będące wynikiem korzystania z niego w sposób wykraczający poza konieczny do stwierdzenia charakteru, cech i funkcjonowania towaru, chyba że przedsiębiorca nie poinformował konsumenta o prawie odstąpienia od umowy zgodnie z wymaganiami art. 12 ust. 1 pkt 9.”;
+
+- **13)** w art. 38 pkt 3–5 otrzymują brzmienie: „3) w której przedmiotem świadczenia jest towar nieprefabrykowany, wyprodukowany według specyfikacji konsumenta lub służący zaspokojeniu jego zindywidualizowanych potrzeb;
+- **4)** w której przedmiotem świadczenia jest towar ulegający szybkiemu zepsuciu lub mający krótki termin przydatności do użycia;
+- **5)** w której przedmiotem świadczenia jest towar dostarczany w zapieczętowanym opakowaniu, którego po otwarciu opakowania nie można zwrócić ze względu na ochronę zdrowia lub ze względów higienicznych, jeżeli opakowanie zostało otwarte po dostarczeniu;”;
+- **14)** uchyla się art. 38a;
+- **15)** po rozdziale 5 dodaje się rozdziały 5a i 5b w brzmieniu: „Rozdział 5a Umowy zobowiązujące do przeniesienia własności towaru na konsumenta
 
 **Art. 43a.**
 
@@ -125,6 +176,10 @@ source: "isap-pdf"
 2. Do umowy, na mocy której przedsiębiorca jest zobowiązany do dostarczenia treści cyfrowej lub usługi cyfrowej oraz innych świadczeń, przepisy niniejszego rozdziału stosuje się wyłącznie w zakresie postanowień umowy dotyczących treści cyfrowej lub usługi cyfrowej.
 
 **Art. 43i.** Przepisów niniejszego rozdziału nie stosuje się do:
+
+- **1)** usług łączności elektronicznej w rozumieniu art. 2 pkt 4 dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/1972 z dnia 11 grudnia 2018 r. ustanawiającej Europejski kodeks łączności elektronicznej (Dz. Urz. UE L 321 z 17.12.2018, str. 36, Dz. Urz. UE L 334 z 27.12.2019, str. 164 oraz Dz. Urz. UE L 419 z 11.12.2020, str. 36) innych niż usługi łączności interpersonalnej niewykorzystujące numerów w rozumieniu art. 2 pkt 7 tej dyrektywy;
+- **2)** umów, na mocy których konsument nie jest zobowiązany do świadczeń innych niż dostarczanie danych osobowych, a dane te są przetwarzane przez przedsiębiorcę wyłącznie w celu poprawy bezpieczeństwa, kompatybilności lub interoperacyjności oprogramowania oferowanego na podstawie otwartej i wolnej licencji;
+- **3)** treści cyfrowych dostarczanych na podstawie ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641 oraz z 2022 r. poz. 1700).
 
 **Art. 43j.**
 
@@ -266,6 +321,25 @@ source: "isap-pdf"
 - **17)** użyty w załączniku nr 2 do ustawy wyraz „rzeczy” zastępuje się wyrazem „towarów”.
 
 **Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360) wprowadza się następujące zmiany:
+
+- **1)** w art. 556 wyrazy „wadę fizyczną lub prawną” zastępuje się wyrazem „wadę”;
+- **2)** użyte w art. 556 w § 1 we wprowadzeniu do wyliczenia i w § 3 oraz w art. 556 w różnych przypadkach wyrazy „wada fizyczna” zastępuje się użytym w odpowiednim przypadku wyrazem „wada”;
+- **3)** art. 556 otrzymuje brzmienie: „Art. 556 . Rzecz dotknięta jest wadą prawną, jeżeli stanowi własność osoby trzeciej, jest obciążona prawem osoby trzeciej albo ograniczenie w korzystaniu lub rozporządzaniu rzeczą wynika z decyzji lub orzeczenia właściwego organu. W przypadku sprzedaży prawa wada prawna może również polegać na nieistnieniu prawa. Pozostałe wady stanowią wady fizyczne.”;
+- **4)** w art. 557 w § 2 skreśla się zdanie drugie;
+- **5)** w art. 560 uchyla się § 2;
+- **6)** w art. 561 uchyla się § 3;
+- **7)** w art. 561 zdanie pierwsze otrzymuje brzmienie: „Z zastrzeżeniem art. 561 § 2 koszty wymiany lub naprawy ponosi sprzedawca.”;
+- **8)** w art. 568 w § 1 skreśla się zdanie drugie;
+- **9)** w księdze trzeciej w tytule XI uchyla się dział II ;
+- **10)** w art. 577 § 2 otrzymuje brzmienie: „§ 2. Oświadczenie gwarancyjne zawiera:
+- **1)** wyraźne stwierdzenie, że w przypadku braku zgodności rzeczy sprzedanej z umową kupującemu z mocy prawa przysługują środki ochrony prawnej ze strony i na koszt sprzedawcy oraz że gwarancja nie ma wpływu na te środki ochrony prawnej;
+- **2)** nazwę i adres gwaranta;
+- **3)** opis procedury, której uprawniony ma przestrzegać, aby móc skorzystać z gwarancji;
+- **4)** wskazanie rzeczy, których dotyczy gwarancja;
+- **5)** warunki gwarancji.”;
+- **11)** w art. 579:
+    - **a)** w § 1 wyrazy „rękojmi za wady fizyczne rzeczy” zastępuje się wyrazami „niezgodności rzeczy sprzedanej z umową”,
+    - **b)** w § 2 i 3 wyrazy „rękojmi” zastępuje się wyrazami „niezgodności rzeczy sprzedanej z umową”.
 
 **Art. 3.** W ustawie z dnia 4 lutego 2011 r. – Prawo prywatne międzynarodowe (Dz. U. z 2015 r. poz. 1792) w art. 30 w ust. 1 uchyla się pkt 3.
 

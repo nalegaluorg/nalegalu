@@ -8,7 +8,7 @@ pos: 1170
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy oraz niektórych innych ustaw
@@ -29,7 +29,61 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121, z późn. zm. ) wprowadza się następujące zmiany: „Art. 22a. Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wzory wniosków, o których mowa w art. 12a ust. 1 i art. 14a ust. 1, oraz tryb ich składania, a także tryb przekazywania środków finansowych Funduszu, mając na uwadze czytelność i kompletność tych wzorów oraz uwzględniając dane osób uprawnionych niezbędne do przekazywania środków i wypłat ze środków finansowych Funduszu.”; „3a. Fundusz może określić warunki zwrotu należności, w szczególności rozłożyć na raty, odroczyć termin spłaty należności, gdy dochodzi zwrotu należności lub prowadzi postępowanie egzekucyjne w stosunku do przedsiębiorców, w taki sposób aby nie stanowiło to pomocy publicznej w rozumieniu przepisów o pomocy publicznej.”, „4. Fundusz może określić warunki zwrotu należności, w szczególności rozłożyć na raty, odroczyć termin spłaty należności lub odstąpić w całości lub w części od dochodzenia zwrotu należności, lub umorzyć w całości lub w części należności, gdy dochodzi zwrotu należności lub prowadzi postępowanie egzekucyjne w stosunku do przedsiębiorców, którzy:
 
+- **1)** nie znajdują się w trudnej sytuacji ekonomicznej w rozumieniu pkt 911 komunikatu Komisji – Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.), zgodnie z zasadami udzielania pomocy de minimis określonymi w rozporządzeniu Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str.
+- **5)** , lub
+- **2)** znajdują się w trudnej sytuacji ekonomicznej w rozumieniu pkt 911 komunikatu Komisji – Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw, zgodnie z przepisami dotyczącymi pomocy publicznej na restrukturyzację.”, „6. Fundusz może umorzyć należność w całości lub w części, gdy postępowanie egzekucyjne w stosunku do osób fizycznych nieprowadzących działalności gospodarczej albo przedsiębiorców, którzy trwale zaprzestali prowadzenia działalności gospodarczej, zostało umorzone w całości z urzędu.”; „Art. 23a. 1. Fundusz może zawrzeć z dłużnikiem, który zawarł układ z wierzycielami w postępowaniu upadłościowym, porozumienie w przedmiocie określenia warunków zwrotu należności przysługującej Funduszowi, w szczególności rozłożyć na raty, odroczyć termin spłaty należności, jeżeli prowadzi to do zwrotu należności w całości.
+
+2. Jeżeli warunki zwrotu, o których mowa w ust. 1, stanowią pomoc publiczną, porozumienie może zostać zawarte wyłącznie zgodnie z przepisami dotyczącymi pomocy publicznej na restrukturyzację w rozumieniu komunikatu Komisji – Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw.
+
+3. Dysponent Funduszu może upoważnić Dyrektora Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych do wykonywania czynności, o których mowa w ust. 1.”.
+
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2010 r. Nr 51, poz. 307, z późn. zm. ) wprowadza się następujące zmiany: „d) nie otrzymuje świadczeń pieniężnych wypłacanych z Funduszu Pracy lub z Funduszu Gwarantowanych Świadczeń Pracowniczych.”; W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm. ) w art. 4 w pkt. 2 lit. s otrzymuje brzmienie: „s) wojewódzki urząd pracy – w stosunku do osób, których świadczenia pracownicze finansowane są ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, jeżeli świadczenia te wypłacane są przez ten urząd,”. W ustawie z dnia 27 sierpnia 2009 r.  Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm. ) wprowadza się następujące zmiany: „Art. 70. W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozdziału 4 otrzymuje brzmienie: „Zakres oraz tryb zaspokajania roszczeń pracowniczych z Funduszu Gwarantowanych Świadczeń Pracowniczych”;
+- **2)** użyte w art. 12a ust. 1, 2, 4 i 5, art. 14a ust. 1, art. 15 ust. 1, 2 i 4, art. 16 ust. 2 i 3, art. 17 ust. 2, ust. 3 pkt 1 i ust. 4 oraz w art. 20 ust. 1 w różnym przypadku wyrazy „kierownik Biura Terenowego Funduszu Gwarantowanych Świadczeń Pracowniczych” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”;
+- **3)** w art. 15 ust. 3 otrzymuje brzmienie: „3. Zbiorczy wykaz i wykazy uzupełniające składa się marszałkowi województwa właściwemu ze względu na siedzibę pracodawcy.”;
+- **4)** art. 19 otrzymuje brzmienie: „Art. 19. 1. W razie wypłaty świadczeń w przypadkach określonych w art. 17 ust. 4 o zakresie ochrony roszczeń pracowniczych oraz o kwocie wypłaconych świadczeń:
+- **1)** marszałek województwa właściwy ze względu na siedzibę pracodawcy powiadamia dysponenta Funduszu;
+- **2)** dysponent Funduszu powiadamia odpowiednią instytucję gwarancyjną.
+
+2. W razie wypłaty świadczeń w przypadku ogłoszenia przez sąd upadłościowy upadłości pracodawcy lub wydania przez sąd upadłościowy orzeczenia o oddaleniu z przyczyn, o których mowa w art. 3 ust. 1 pkt 4 i 5, wniosku o ogłoszenie upadłości pracodawcy, prowadzącego działalność również na terytorium innych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA)  stron umowy o Europejskim Obszarze Gospodarczym, dysponent Funduszu udziela informacji instytucjom gwarancyjnym państw, w których upadły pracodawca prowadzi działalność.
+
+3. Dysponent Funduszu porozumiewa się i współpracuje z właściwymi instytucjami państw członkowskich Unii Europejskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA)  stron umowy o Europejskim Obszarze Gospodarczym również w innych sprawach dotyczących zaspokajania roszczeń pracowniczych w razie niewypłacalności pracodawcy.”;
+
+- **5)** tytuł rozdziału 5 otrzymuje brzmienie: „Zakres oraz tryb zwrotu środków do Funduszu Gwarantowanych Świadczeń Pracowniczych”;
+- **6)** art. 23 i 23a otrzymują brzmienie: „Art. 23. 1. Przekazanie środków finansowych Funduszu na wypłatę świadczeń, a także wypłata świadczeń ze środków Funduszu powoduje z mocy prawa przejście na marszałka województwa, działającego w imieniu dysponenta Funduszu, roszczenia wobec pracodawcy, likwidatora lub innej osoby zarządzającej majątkiem pracodawcy lub roszczenia do masy upadłości o zwrot wypłaconych świadczeń.
+
+2. Przy dochodzeniu zwrotu wypłaconych świadczeń roszczenia na rzecz Funduszu korzystają z takiej samej ochrony prawnej, jaką odrębne przepisy przewidują dla należności za pracę.
+
+3. Dysponent Funduszu może określić warunki zwrotu należności, w szczególności rozłożyć na raty, odroczyć termin spłaty należności lub odstąpić w całości lub w części od dochodzenia zwrotu należności, lub umorzyć w całości lub w części należności, gdy dochodzi zwrotu należności lub prowadzi postępowanie egzekucyjne w stosunku do osób fizycznych nieprowadzących działalności gospodarczej albo przedsiębiorców, którzy trwale zaprzestali prowadzenia działalności gospodarczej z uwagi na pozostawanie w stanie likwidacji lub upadłości, jeżeli podjęcie takiej decyzji przez dysponenta Funduszu:
+
+- **1)** prowadzi do odzyskania zwrotu wyższej kwoty, niż gdyby takiej decyzji nie podjęto, lub
+- **2)** dochodzenie zwrotu jest związane z poniesieniem kosztów znacznie przewyższających wysokość dochodzonej kwoty, lub
+- **3)** w przypadku osób fizycznych  gdy osoba ta wykaże, że ze względu na stan majątkowy i sytuację rodzinną, w tym uzyskiwanie dochodu uniemożliwiającego spłacenie należności do Funduszu, nie jest w stanie spłacić należności jednorazowo lub w całości, ponieważ spowodowałoby to zbyt dotkliwe skutki dla niej i jej rodziny, w szczególności pozbawiłoby tę osobę i jej rodzinę możliwości zaspokojenia niezbędnych potrzeb życiowych.
+
+4. Dysponent Funduszu może określić warunki zwrotu należności, w szczególności rozłożyć na raty, odroczyć termin spłaty należności, gdy dochodzi zwrotu należności lub prowadzi postępowanie egzekucyjne w stosunku do przedsiębiorców, w taki sposób aby nie stanowiło to pomocy publicznej w rozumieniu przepisów o pomocy publicznej.
+
+5. Dysponent Funduszu może określić warunki zwrotu należności, w szczególności rozłożyć na raty, odroczyć termin spłaty należności lub odstąpić w całości lub w części od dochodzenia zwrotu należności, lub umorzyć w całości lub w części należności, gdy dochodzi zwrotu należno ści lub prowadzi postępowanie egzekucyjne w stosunku do przedsiębiorców, którzy:
+
+- **1)** nie znajdują się w trudnej sytuacji ekonomicznej w rozumieniu pkt 911 komunikatu Komisji – Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 01.10.2004, str. 2, z późn. zm.), zgodnie z zasadami udzielania pomocy de minimis określonymi w rozporządzeniu Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006, str. 5), lub
+- **2)** znajdują się w trudnej sytuacji ekonomicznej w rozumieniu pkt 911 komunikatu Komisji – Wytyczne wspólnotowe dotyczące pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw, zgodnie z przepisami dotyczącymi pomocy publicznej na restrukturyzację.
+
+6. Dysponent Funduszu może umorzyć należność w całości lub w części w przypadkach całkowitej jej nieściągalności, gdy:
+
+- **1)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty wyższej od kosztów dochodzenia i egzekucji należności, lub
+- **2)** osoba fizyczna zmarła, nie pozostawiając żadnego majątku, lub pozostawiła ruchomości niepodlegające egzekucji na podstawie odrębnych przepisów i jednocześnie nie ma spadkobierców innych niż Skarb Państwa lub jednostka samorządu terytorialnego, lub
+- **3)** osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną, została wykreślona z właściwego rejestru, przy jednoczesnym braku majątku, z którego można by egzekwować należność, a odpowiedzialność nie przechodzi z mocy prawa na osoby trzecie, lub
+- **4)** sąd upadłościowy wydał postanowienie, o którym mowa w art. 3 ust. 1 pkt 4 lub 5 lub art. 8 ust. 1 pkt 1 lit. a.
+
+7. Całkowita nieściągalność zachodzi również w przypadku, gdy osoba prawna lub jednostka organizacyjna, o których mowa w ust. 6 pkt 3, pomimo niewykreślenia z właściwego rejestru faktycznie nie istnieje.
+
+8. Dysponent Funduszu może umorzyć należność w całości lub w części, gdy postępowanie egzekucyjne w stosunku do osób fizycznych nieprowadzących działalności gospodarczej albo przedsię biorców, którzy trwale zaprzestali prowadzenia działalności gospodarczej, zostało umorzone w całości z urzędu.
+
+9. W razie wystąpienia przesłanek, o których mowa w ust. 38, marszałek województwa właściwy ze względu na siedzibę pracodawcy wnioskuje do dysponenta Funduszu o określenie warunków zwrotu należności, w szczególności rozłożenie na raty, odroczenie terminu spłaty należności lub odstąpienie w całości lub w części od dochodzenia zwrotu należności lub umorzenie w całości lub w części należności.
+
+10. Przepis ust. 1 nie ma zastosowania do wypłaty świadczeń w przypadkach, o których mowa w art. 17 ust. 1.
+
+11. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowy zakres informacji zawartych we wniosku, o którym mowa w ust. 9 oraz w art. 23a ust. 3, mając na uwadze konieczność zapewnienia prawidłowości i szybkości postępowania.
 
 **Art. 23a.**
 

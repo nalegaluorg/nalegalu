@@ -8,10 +8,10 @@ pos: 148
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 stycznia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 148 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 stycznia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000148) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/148/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 stycznia 2021 r.
-w sprawie stypendiów Ministra Sprawiedliwości przyznawanych studentom za znaczące osiągnięcia naukowe lub sportowe Na podstawie art. 458 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U.
-z 2020 r. poz. 85, 374, 695, 875 i 1086) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie stypendiów Ministra Sprawiedliwości przyznawanych studentom za znaczące osiągnięcia naukowe lub sportowe Na podstawie art. 458 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
+z 2020 r. poz. 85, 374, 695, 875 i 1086) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe kryteria i tryb przyznawania oraz sposób wypłacania studentom odbywającym studia w uczelni służb państwowych przez Ministra Sprawiedliwości, zwanego dalej „ministrem”, stypendiów za znaczące osiągnięcia:
 a) naukowe związane ze studiami lub
-b) sportowe zwanych dalej „stypendiami”;
+b) sportowe – zwanych dalej „stypendiami”;
 2) rodzaje osiągnięć umożliwiających przyznanie stypendium i sposób ich dokumentowania;
 3) maksymalną liczbę przyznawanych stypendiów;
 4) maksymalną wysokość stypendium;
@@ -40,13 +40,14 @@ b) sportowe zwanych dalej „stypendiami”;
 2) sportowe.
 2. Zaliczenie roku studiów w poprzednim roku akademickim nie jest wymagane, jeżeli student jest wpisany w danym roku akademickim na rok studiów przewidziany w planie tych studiów, a przyczyną niezaliczenia roku studiów w poprzednim roku akademickim był urlop od zajęć w uczelni udzielony w związku ze stanem jego zdrowia lub z narodzinami dziecka albo w związku z powołaniem studenta przez polski związek sportowy do kadry narodowej w danym sporcie.
 3. Okres studiów obejmuje:
-1) w przypadku studenta studiów pierwszego stopnia lub jednolitych studiów magisterskich okres od dnia rozpoczęcia tych studiów do dnia 30 września roku, w którym składa wniosek;
-2) w przypadku studenta studiów drugiego stopnia okres od dnia rozpoczęcia studiów pierwszego stopnia poprzedzających studia drugiego stopnia do dnia 30 września roku, w którym składa wniosek;
-3) w przypadku studenta, który otrzymał stypendium w poprzednich latach okres od dnia 1 października roku, w któ§ 3. 1. Określa się następujące rodzaje znaczących osiągnięć naukowych związanych ze studiami:
+1) w przypadku studenta studiów pierwszego stopnia lub jednolitych studiów magisterskich – okres od dnia rozpoczęcia tych studiów do dnia 30 września roku, w którym składa wniosek;
+2) w przypadku studenta studiów drugiego stopnia – okres od dnia rozpoczęcia studiów pierwszego stopnia poprzedzających studia drugiego stopnia do dnia 30 września roku, w którym składa wniosek;
+3) w przypadku studenta, który otrzymał stypendium w poprzednich latach – okres od dnia 1 października roku, w którym otrzymał ostatnie stypendium, do dnia 30 września roku, w którym składa wniosek.
+§ 3. 1. Określa się następujące rodzaje znaczących osiągnięć naukowych związanych ze studiami:
 1) autorstwo lub współautorstwo:
-a) artykułów naukowych opublikowanych w czasopismach naukowych lub w recenzowanych materiałach z międzynarodowych konferencji naukowych, zamieszczonych w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. b ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, zwanym dalej „wykazem czasopism”,
+a) artykułów naukowych opublikowanych w czasopismach naukowych lub w recenzowanych materiałach z międzynarodowych konferencji naukowych, zamieszczonych w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. b ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanym dalej „wykazem czasopism”,
 b) artykułów naukowych opublikowanych w czasopismach naukowych niezamieszczonych w wykazie czasopism,
-c) monografii naukowych wydanych przez wydawnictwa zamieszczone w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. a ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, zwanym dalej „wykazem wydawnictw”, redakcje naukowe takich monografii lub rozdziałów w takich monografiach,
+c) monografii naukowych wydanych przez wydawnictwa zamieszczone w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanym dalej „wykazem wydawnictw”, redakcje naukowe takich monografii lub rozdziałów w takich monografiach,
 d) monografii naukowych wydanych przez wydawnictwa niezamieszczone w wykazie wydawnictw, redakcje naukowe takich monografii lub autorstwa rozdziałów w takich monografiach;
 2) udzielone:
 a) patenty na wynalazki,
@@ -69,7 +70,7 @@ b) akademickich mistrzostwach świata,
 c) akademickich mistrzostwach Europy,
 d) Europejskich Igrzyskach Studentów.
 § 4. 1. Stypendium przyznaje się na wniosek studenta na dany rok akademicki, złożony rektorowi-komendantowi uczelni za pośrednictwem kierownika jednostki organizacyjnej uczelni.
-2. Wniosek składa się w terminie określonym przez rektora-komendanta uczelni lub kierownika jednostki organizacyjnej uczelni. Informacje o terminie składania wniosków podaje się do wiadomości studentów w sposób zwyczajowo przyjęty
+2. Wniosek składa się w terminie określonym przez rektora-komendanta uczelni lub kierownika jednostki organizacyjnej uczelni. Informacje o terminie składania wniosków podaje się do wiadomości studentów w sposób zwyczajowo przyjęty na uczelni.
 3. Do wniosku student dołącza dokumenty potwierdzające uzyskanie znaczących osiągnięć, o których mowa w § 3.
 4. Dokumentami potwierdzającymi uzyskanie przez studenta znaczących osiągnięć, o których mowa w § 3, mogą być w szczególności:
 1) w przypadku osiągnięć naukowych:
@@ -92,7 +93,7 @@ b) Akademicki Związek Sportowy.
 2. Stypendium przyznaje się w wysokości nieprzekraczającej 15 000 zł.
 § 9. Stypendium jest wypłacane przez uczelnię jednorazowo na rachunek bankowy wskazany przez studenta albo w innej uzgodnionej formie, nie później niż do dnia 31 grudnia danego roku.
 § 10. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro WZÓR WZÓR WNIOSEK O PRZYZNANIE STYPENDIUM MINISTRA ZA ZNACZĄCE OSIĄGNIĘCIA NAUKOWE ZWIĄZANE ZE STUDIAMI LUB ZNACZĄCE OSIĄGNIĘCIA SPORTOWE NA ROK AKADEMICKI ……….….
+Minister Sprawiedliwości: Z. Ziobro Dziennik Ustaw – 4 Załącznikdorozporządzenia – Ministra Sprawiedliwości Poz. 148 z dnia 5 stycznia 2021 r. (poz. ….) WZÓR WZÓR WNIOSEK O PRZYZNANIE STYPENDIUM MINISTRA ZA ZNACZĄCE OSIĄGNIĘCIA NAUKOWE ZWIĄZANE ZE STUDIAMI LUB ZNACZĄCE OSIĄGNIĘCIA SPORTOWE NA ROK AKADEMICKI ……….….
 ………………………………………..
 (nazwa uczelni)
 1. Imię i nazwisko studenta ..………….…………………….…………………………………
@@ -112,28 +113,28 @@ Proponuję przyznać / nie przyznawać stypendium.
 ………………………………………………………………… (data i czytelny podpis z podaniem imienia i nazwiska osoby podpisującej) ORGAN WNIOSKUJĄCY …………………………………………………………………………..
 (data i czytelny podpis z podaniem imienia i nazwiska rektora-komendanta uczelni)
 Nazwa kierunku studiów ..………………………………………………………………..……..
-Okres studiów z uwzględnieniem § 2 ust. 3 rozporządzenia Ministra Sprawiedliwości z dnia 5 stycznia 2021 r. w sprawie stypendiów Ministra Sprawiedliwości przyznawanych studentom za znaczące osiągnięcia naukowe lub sportowe (Dz. U. poz. 148) obejmujący osiągnięcia podlegające ocenie od dnia …………..……… do dnia ….…….……….……….
+Okres studiów – z uwzględnieniem § 2 ust. 3 rozporządzenia Ministra Sprawiedliwości z dnia 5 stycznia 2021 r. w sprawie stypendiów Ministra Sprawiedliwości przyznawanych studentom za znaczące osiągnięcia naukowe lub sportowe (Dz. U. poz. 148) obejmujący osiągnięcia podlegające ocenie – od dnia …………..……… do dnia ….…….……….……….
 OSIĄGNIĘCIA NAUKOWE
 1) autorstwo lub współautorstwo:
-a) artykułu naukowego opublikowanego w czasopiśmie naukowym lub w recenzowanych materiałach z międzynarodowej konferencji naukowej, zamieszczonych w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. b ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, lub
+a) artykułu naukowego opublikowanego w czasopiśmie naukowym lub w recenzowanych materiałach z międzynarodowej konferencji naukowej, zamieszczonych w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. b ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, lub
 b) artykułu naukowego opublikowanego w czasopiśmie naukowym niezamieszczonym w wykazie, o którym mowa w lit. a ..............................................................................................................................................
 ……………………………………………………………………………………………..
 ……………………………………………………………………………………………..
-Wykaz zawiera: tytuł artykułu, miejsce publikacji (tytuł czasopisma / materiałów z konferencji naukowej ), język publikacji, autorstwo (autor / współautor wkład procentowy ), nazwę wydawnictwa, miejsce wydania, miesiąc i rok wydania (data druku / data dostępu ), numer ISBN/ISSN (jeżeli został nadany );
-2) autorstwo lub współautorstwo monografii naukowej wydanej przez wydawnictwo zamieszczone w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. a ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, redakcja naukowa takiej monografii lub rozdziału w takiej monografii ..............................................................................................................................................
+Wykaz zawiera: tytuł artykułu, miejsce publikacji (tytuł czasopisma / materiałów z konferencji naukowej ), język publikacji, autorstwo (autor / współautor – wkład procentowy ), nazwę wydawnictwa, miejsce wydania, miesiąc i rok wydania (data druku / data dostępu ), numer ISBN/ISSN (jeżeli został nadany );
+2) autorstwo lub współautorstwo monografii naukowej wydanej przez wydawnictwo zamieszczone w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, redakcja naukowa takiej monografii lub rozdziału w takiej monografii ..............................................................................................................................................
 ..............................................................................................................................................
 ……………………………………………………………………………………………..
-Wykaz zawiera: tytuł (monografii / rozdziału w monografii ), język publikacji, autorstwo (autor / współautor wkład procentowy / redaktor naukowy ), nazwę wydawnictwa, miejsce wydania, miesiąc i rok wydania (data druku / data dostępu ), numer ISBN/ISSN (jeżeli został nadany );
+Wykaz zawiera: tytuł (monografii / rozdziału w monografii ), język publikacji, autorstwo (autor / współautor – wkład procentowy / redaktor naukowy ), nazwę wydawnictwa, miejsce wydania, miesiąc i rok wydania (data druku / data dostępu ), numer ISBN/ISSN (jeżeli został nadany );
 3) autorstwo lub współautorstwo monografii naukowej wydanej przez wydawnictwo niezamieszczone w wykazie, o którym mowa w pkt 2, redakcja naukowa takiej monografii lub autorstwo rozdziału w takiej monografii ..............................................................................................................................................
 ……………………………………………………………………………………………..
 ……………………………………………………………………………………………..
-Wykaz zawiera: tytuł (monografii / rozdziału w monografii ), język publikacji, autorstwo (autor / współautor wkład procentowy / redaktor naukowy ), nazwę wydawnictwa, miejsce wydania, miesiąc i rok wydania (data druku / data dostępu ), numer ISBN/ISSN (jeżeli został nadany );
+Wykaz zawiera: tytuł (monografii / rozdziału w monografii ), język publikacji, autorstwo (autor / współautor – wkład procentowy / redaktor naukowy ), nazwę wydawnictwa, miejsce wydania, miesiąc i rok wydania (data druku / data dostępu ), numer ISBN/ISSN (jeżeli został nadany );
 4) autorstwo lub współautorstwo wynalazku, wzoru użytkowego, wzoru przemysłowego, topografii układu scalonego:
 a) na które udzielono odpowiednio patentu na wynalazek, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, prawa z rejestracji topografii układu scalonego,
 b) które zostały zgłoszone w celu uzyskania odpowiednio patentu na wynalazek, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, prawa z rejestracji topografii układu scalonego ..............................................................................................................................................
 ……………………………………………………………………………………………..
 ……………………………………………………………………………………………..
-Wykaz zawiera: nazwę i opis wynalazku, wzoru użytkowego, wzoru przemysłowego, topografii układu scalonego oraz odpowiednio numer patentu, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, prawa z rejestracji topografii układu scalonego, datę i miejsce rejestracji, zasięg rejestracji (krajowy / międzynarodowy ) albo informację o złożeniu zgłoszenia wynalazku, wzoru użytkowego, wzoru przemysłowego lub topografii układu scalonego w celu uzyskania odpowiednio patentu na wynalazek, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego lub prawa z rejestracji topografii układu scalonego, autorstwo (autor / współautor wkład procentowy );
+Wykaz zawiera: nazwę i opis wynalazku, wzoru użytkowego, wzoru przemysłowego, topografii układu scalonego oraz odpowiednio numer patentu, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, prawa z rejestracji topografii układu scalonego, datę i miejsce rejestracji, zasięg rejestracji (krajowy / międzynarodowy ) albo informację o złożeniu zgłoszenia wynalazku, wzoru użytkowego, wzoru przemysłowego lub topografii układu scalonego w celu uzyskania odpowiednio patentu na wynalazek, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego lub prawa z rejestracji topografii układu scalonego, autorstwo (autor / współautor – wkład procentowy );
 5) referaty własne wygłoszone samodzielnie na konferencjach naukowych, w których uczestniczyli prelegenci co najmniej z pięciu ośrodków akademickich ..............................................................................................................................................
 ……………………………………………………………………………………………..
 ……………………………………………………………………………………………..
@@ -142,7 +143,7 @@ Wykaz zawiera: datę i miejsce konferencji, nazwę konferencji, zasięg konferen
 ……………………………………………………………………………………………..
 ……………………………………………………………………………………………..
 Wykaz zawiera: datę i miejsce uzyskania nagrody, nazwę konkursu, uzyskane miejsce, uzyskaną nagrodę, rodzaj nagrody (indywidualna / zespołowa ), liczbę uczestników konkursu, liczbę państw reprezentowanych w konkursie, nazwę organizatora konkursu.
-OSIĄGNIĘCIA SPORTOWE Dyscyplina Rodzaj Kategoria Skład drużyny Data i miejsce Uzyskane Nazwa sportowa rywalizacji wiekowa (w przypadku zawodów miejsce zawodów (sport) (indywidualna / nagrody (miesiąc / rok) drużynowa) drużynowej)
+OSIĄGNIĘCIA SPORTOWE Dyscyplina Rodzaj Kategoria Skład drużyny Data i miejsce Uzyskane Nazwa rywalizacji wiekowa (w przypadku sportowa zawodów miejsce zawodów (sport) (indywidualna / nagrody (miesiąc / rok) drużynowa) drużynowej)
 
 ## CZĘŚĆ A DANE I INFORMACJE DOTYCZĄCE STUDENTA
 

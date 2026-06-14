@@ -8,10 +8,10 @@ pos: 190
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 stycznia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 190 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 stycznia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000190) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/190/text.pdf) |
 
-Poz. 190 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 stycznia 2019 r.
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
-z 2017 r. poz. 2137 oraz z 2018 r. poz. 1669, 2073 i 2212) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2018 r. poz. 668 i 1086) w załączniku w § 3 w ust. 1:
+z 2017 r. poz. 2137 oraz z 2018 r. poz. 1669, 2073 i 2212) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2018 r. poz. 668 i 1086) w załączniku w § 3 w ust. 1:
 1) po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) Departament Bezpieczeństwa;”;
 2) po pkt 12 dodaje się pkt 12a w brzmieniu: „12a) Departament Kontroli Wewnętrznej;”;
 3) uchyla się pkt 13.

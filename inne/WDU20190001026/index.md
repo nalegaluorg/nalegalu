@@ -8,7 +8,7 @@ pos: 1026
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zawodzie psychologa i samorządzie zawodowym psychologów
@@ -55,7 +55,9 @@ source: "isap-pdf"
 
 1. Psychologowie tworzą samorząd zawodowy, zwany dalej „samorządem”.
 
-2. Osoby wykonujące zawód psychologa i psychologowie-stażyści stają się członkami samorządu psychologów z mocy prawa. spraw pracy.
+2. Osoby wykonujące zawód psychologa i psychologowie-stażyści stają się członkami samorządu psychologów z mocy prawa.
+
+**Art. 6.** Nadzór nad wykonywaniem ustawy sprawuje minister właściwy do spraw pracy.
 
 #### Rozdział 2 Prawo wykonywania zawodu psychologa
 
@@ -79,7 +81,9 @@ source: "isap-pdf"
 
 4. Wpis na listę psychologów-stażystów następuje na wniosek zainteresowanego, po spełnieniu warunków określonych w ust. 1 pkt 1–3 i podjęciu podyplomowego stażu zawodowego, w trybie określonym w ust. 3.
 
-5. Na listę psychologów wpisuje się cudzoziemca, o ile umowy międzynarodowe to przewidują i przedstawi on aktualne prawo wykonywania zawodu psychologa w państwie pochodzenia. ograniczone prawo wykonywania zawodu.
+5. Na listę psychologów wpisuje się cudzoziemca, o ile umowy międzynarodowe to przewidują i przedstawi on aktualne prawo wykonywania zawodu psychologa w państwie pochodzenia.
+
+6. W trakcie podyplomowego stażu zawodowego psycholog uzyskuje ograniczone prawo wykonywania zawodu.
 
 7. Osoba, która zgłosiła Radzie Regionalnej Izby Psychologów zamiar wykonywania zawodu psychologa po upływie 5 lat od ukończenia studiów psychologicznych i podyplomowego stażu zawodowego, albo psycholog, który nie wykonuje zawodu przez okres dłuższy niż 5 lat, odbywa na własny koszt przeszkolenie, którego program i zasady określa Rada Regionalnej Izby Psychologów.
 
@@ -101,11 +105,19 @@ source: "isap-pdf"
 
 3. Jeżeli komisja, o której mowa w ust. 1, orzeknie o niezdolności psychologa do wykonywania zawodu, Rada Regionalnej Izby Psychologów skreśla psychologa z listy psychologów.
 
-4. Jeżeli psycholog odmawia poddania się badaniu, Rada Regionalnej Izby Psychologów może zawiesić go w prawie do wykonywania zawodu na czas nie dłuższy niż 6 miesięcy. wykonywania zawodu jest uchwała Rady Regionalnej Izby Psychologów, od której skreślonemu lub zawieszonemu w prawie wykonywania zawodu przysługuje odwołanie do sądu apelacyjnego właściwego ze względu na siedzibę Rady Regionalnej Izby Psychologów w terminie 14 dni od dnia doręczenia uchwały.
+4. Jeżeli psycholog odmawia poddania się badaniu, Rada Regionalnej Izby Psychologów może zawiesić go w prawie do wykonywania zawodu na czas nie dłuższy niż 6 miesięcy.
+
+5. Podstawą skreślenia z listy psychologów lub zawieszenia w prawie do wykonywania zawodu jest uchwała Rady Regionalnej Izby Psychologów, od której skreślonemu lub zawieszonemu w prawie wykonywania zawodu przysługuje odwołanie do sądu apelacyjnego właściwego ze względu na siedzibę Rady Regionalnej Izby Psychologów w terminie 14 dni od dnia doręczenia uchwały.
 
 6. Postępowanie w sprawach, o których mowa w ust. 3 i 4, jest poufne. Zastrzeżenie to nie dotyczy osoby, wobec której toczy się postępowanie.
 
 **Art. 11.** Skreślenie z listy psychologów następuje w przypadku:
+
+- **1)** śmierci psychologa;
+- **2)** wniosku psychologa;
+- **3)** ubezwłasnowolnienia psychologa prawomocnym orzeczeniem sądu;
+- **4)** pozbawienia prawa wykonywania zawodu psychologa prawomocnym orzeczeniem sądu lub komisji dyscyplinarnej;
+- **5)** określonym w art. 10 ust. 3.
 
 #### Rozdział 3 Wykonywanie zawodu psychologa
 
@@ -123,7 +135,11 @@ source: "isap-pdf"
 
 1. Psycholog poinformuje klienta o celu postępowania, jego przebiegu, wynikach i sposobie ich udostępniania oraz powinien uzyskać akceptację planowanych czynności.
 
-2. Jeżeli wyniki badań mają służyć nie tylko do informacji klienta, stosuje się przepisy o ochronie danych osobowych. związanych z klientem, uzyskanych w związku z wykonywaniem zawodu.
+2. Jeżeli wyniki badań mają służyć nie tylko do informacji klienta, stosuje się przepisy o ochronie danych osobowych.
+
+**Art. 14.**
+
+1. Psycholog ma obowiązek zachowania w tajemnicy informacji związanych z klientem, uzyskanych w związku z wykonywaniem zawodu.
 
 2. Obowiązek zachowania tajemnicy zawodowej nie może być ograniczony w czasie.
 
@@ -156,7 +172,9 @@ source: "isap-pdf"
 
 5. Koszty działalności Komisji Ekspertów pokrywa minister właściwy do spraw pracy.
 
-6. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, sposób działania Komisji Ekspertów oraz zasady wynagradzania jej członków. regulaminu, zatwierdzonego przez ministra właściwego do spraw pracy.
+6. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, sposób działania Komisji Ekspertów oraz zasady wynagradzania jej członków.
+
+7. Komisja Ekspertów działa na podstawie uchwalonego przez siebie regulaminu, zatwierdzonego przez ministra właściwego do spraw pracy.
 
 **Art. 17.**
 
@@ -188,13 +206,24 @@ source: "isap-pdf"
 
 **Art. 19.**
 
-1. Komisja Ekspertów ustala i aktualizuje listę metod i narzędzi psychologicznych zastrzeżonych wyłącznie do stosowania przez psychologów. rozpowszechniania i nabywania metod i narzędzi psychologicznych.
+1. Komisja Ekspertów ustala i aktualizuje listę metod i narzędzi psychologicznych zastrzeżonych wyłącznie do stosowania przez psychologów.
+
+2. Krajowa Rada Psychologów sprawuje nadzór nad warunkami stosowania, rozpowszechniania i nabywania metod i narzędzi psychologicznych.
 
 #### Rozdział 4 Odpowiedzialność dyscyplinarna
 
 **Art. 20.** Członkowie samorządu psychologów podlegają odpowiedzialności dyscyplinarnej za:
 
+- **1)** zawinione naruszenie obowiązków zawodowych;
+- **2)** czyny sprzeczne z zasadami etyki określonymi w Kodeksie Etyki Zawodowej, o którym mowa w art. 40 pkt 3;
+- **3)** uporczywe uchylanie się od płacenia składek członkowskich.
+
 **Art. 21.** Karami dyscyplinarnymi są:
+
+- **1)** upomnienie;
+- **2)** nagana z ostrzeżeniem;
+- **3)** zawieszenie w prawie do wykonywania zawodu na czas od 3 do 12 miesięcy;
+- **4)** skreślenie z listy psychologów z pozbawieniem prawa wykonywania zawodu.
 
 **Art. 22.** Postępowanie dyscyplinarne toczy się przed Regionalną Komisją Dyscyplinarną.
 
@@ -210,7 +239,9 @@ source: "isap-pdf"
 
 **Art. 26.**
 
-1. Nie można wszcząć postępowania dyscyplinarnego, jeżeli od chwili popełnienia czynu upłynęły 3 lata, z zastrzeżeniem ust. 2. następuje nie wcześniej niż przedawnienie przewidziane w przepisach Kodeksu karnego.
+1. Nie można wszcząć postępowania dyscyplinarnego, jeżeli od chwili popełnienia czynu upłynęły 3 lata, z zastrzeżeniem ust. 2.
+
+2. Jeżeli czyn psychologa zawiera znamiona przestępstwa, przedawnienie następuje nie wcześniej niż przedawnienie przewidziane w przepisach Kodeksu karnego.
 
 3. W razie śmierci obwinionego przed ukończeniem postępowania dyscyplinarnego toczy się ono nadal, jeżeli zażąda tego w terminie dwóch miesięcy od dnia zgonu obwinionego jego małżonek, krewny w linii prostej, brat lub siostra.
 
@@ -239,13 +270,40 @@ source: "isap-pdf"
 
 **Art. 32.** Organami samorządu są Krajowy Zjazd Psychologów, Krajowa Rada Psychologów, Krajowa Komisja Rewizyjna, Krajowa Komisja Dyscyplinarna, Krajowy Rzecznik Odpowiedzialności Zawodowej, Regionalny Zjazd Psychologów, Regionalna Rada Psychologów, Regionalna Komisja Rewizyjna, Regionalna Komisja Dyscyplinarna i Regionalny Rzecznik Odpowiedzialności Zawodowej.
 
+**Art. 33.**
+
+1. Zadaniem samorządu psychologów jest w szczególności:
+
+- **1)** dbałość o przestrzeganie standardów wykonywania zawodu psychologa;
+- **2)** nadzór nad przestrzeganiem zasad etyki zawodowej psychologa;
+- **3)** ochrona prawna metod i narzędzi psychologicznych;
+- **4)** reprezentowanie zawodu psychologa i ochrona jego interesów;
+- **5)** współpraca z Komisją Ekspertów, szkołami wyższymi, jednostkami badawczo-rozwojowymi oraz towarzystwami naukowymi w kraju i za granicą;
+- **6)** opiniowanie aktów prawnych dotyczących zawodu psychologa;
+- **7)** współpraca z organami władzy i administracji rządowej i samorządowej, związkami zawodowymi i samorządami zawodowymi oraz innymi organizacjami społecznymi w sprawach związanych z wykonywaniem zawodu psychologa;
+- **8)** zarządzanie majątkiem jednostek organizacyjnych samorządu psychologów;
+- **9)** zarządzanie majątkiem i działalnością gospodarczą izb psychologów.
+
+2. Zadania określone w ust. 1 organy samorządu psychologów wykonują w szczególności przez:
+
+- **1)** prowadzenie list psychologów i psychologów-stażystów;
+- **2)** stwierdzenie prawa wykonywania zawodu psychologa;
+- **3)** określenie zasad odbywania podyplomowego stażu zawodowego;
+- **4)** prowadzenie rejestru prywatnych praktyk psychologicznych;
+- **5)** określanie standardów i programów studiów podyplomowych dla psychologów oraz opiniowanie zasad i warunków uzyskiwania specjalizacji zawodowej;
+- **6)** prowadzenie wykazu chronionych metod psychologicznych;
+- **7)** występowanie w obronie indywidualnych i zbiorowych interesów członków samorządu psychologów;
+- **8)** kontrola warunków wykonywania zawodu.
+
 **Art. 34.** Wybory do organów samorządu odbywają się w głosowaniu tajnym w obecności co najmniej połowy uprawnionych do głosowania.
 
 **Art. 35.**
 
 1. Czynne prawo wyborcze przysługuje wszystkim członkom izb psychologów.
 
-2. Bierne prawo wyborcze przysługuje wszystkim członkom izb psychologów, z zastrzeżeniem art. 37 ust. 3. w obecności co najmniej połowy członków danego organu; w przypadku równej liczby głosów decyduje głos przewodniczącego.
+2. Bierne prawo wyborcze przysługuje wszystkim członkom izb psychologów, z zastrzeżeniem art. 37 ust. 3.
+
+**Art. 36.** Organy samorządu podejmują uchwały zwykłą większością głosów w obecności co najmniej połowy członków danego organu; w przypadku równej liczby głosów decyduje głos przewodniczącego.
 
 **Art. 37.**
 
@@ -281,6 +339,13 @@ source: "isap-pdf"
 
 **Art. 40.** Do zadań Krajowego Zjazdu Psychologów należy:
 
+- **1)** uchwalanie statutu samorządu psychologów, określenie trybu i warunków przeprowadzania wyborów do organów samorządu, określenie liczby członków tych organów, trybu ich odwoływania oraz uchwalanie regulaminu organów Krajowej Izby Psychologów i ramowych regulaminów organów samorządowych;
+- **2)** uchwalenie programu działania Izby Krajowej;
+- **3)** uchwalenie Kodeksu Etyki Zawodowej;
+- **4)** uchwalanie absolutorium dla Krajowej Rady Psychologów, Krajowej Komisji Rewizyjnej, Krajowej Komisji Dyscyplinarnej i Krajowego Rzecznika Odpowiedzialności Zawodowej;
+- **5)** wybieranie przewodniczącego i członków Krajowej Rady, członków Krajowej Komisji Rewizyjnej, członków Krajowej Komisji Dyscyplinarnej oraz Krajowego Rzecznika Odpowiedzialności Zawodowej i jego zastępców;
+- **6)** określanie wysokości składki członkowskiej oraz ustalanie zasady jej podziału.
+
 **Art. 41.**
 
 1. Krajową Radę Psychologów stanowią przewodniczący i członkowie wybrani przez Krajowy Zjazd Psychologów oraz członkowie wybrani bezpośrednio przez zjazdy regionalne, po jednym z każdej izby.
@@ -293,6 +358,17 @@ source: "isap-pdf"
 
 **Art. 42.** Do zakresu działania Krajowej Rady Psychologów należy:
 
+- **1)** przygotowanie projektu statutu samorządu zawodowego psychologów;
+- **2)** zapewnienie właściwych standardów wykonywania zawodu psychologa poprzez:
+    - **a)** wnioskowanie do Rady Ministrów o określenie zasad, trybu i warunków uzyskiwania specjalizacji zawodowych,
+    - **b)** określanie zasad i warunków doskonalenia zawodowego,
+    - **c)** określanie merytorycznych zasad odbywania podyplomowego stażu zawodowego;
+
+- **3)** określanie zasad działalności samorządu i jego organów, a także określanie zasad prowadzenia listy psychologów i psycho-logów-stażystów i rejestru prywatnych praktyk psychologicznych;
+- **4)** uchwalanie budżetu Krajowej Rady Psychologów i przyjmowanie na wniosek Krajowej Komisji Rewizyjnej sprawo-zdań z jego wykonania przez Zarząd;
+- **5)** prowadzenie działalności informacyjnej, w tym wydawanie biuletynu;
+- **6)** delegowanie swoich przedstawicieli do Komisji Ekspertów.
+
 **Art. 43.**
 
 1. Do zakresu działania Przewodniczącego Krajowej Rady Psychologów należy reprezentowanie Krajowej Rady na zewnątrz oraz kierowanie bieżącą pracą Zarządu.
@@ -300,6 +376,12 @@ source: "isap-pdf"
 2. Przewodniczący Krajowej Rady Psychologów może powołać rzecznika prasowego Krajowej Rady Psychologów.
 
 **Art. 44.** Do zakresu działania Zarządu Krajowej Rady Psychologów należy:
+
+- **1)** kierowanie bieżącymi pracami Krajowej Rady Psychologów;
+- **2)** przygotowanie projektów uchwał dla Krajowej Rady Psychologów;
+- **3)** realizacja uchwał Krajowej Rady Psychologów;
+- **4)** realizacja budżetu samorządu;
+- **5)** przedkładanie sprawozdań Krajowej Radzie Psychologów z realizacji budżetu i innych uchwał Krajowej Rady Psychologów.
 
 **Art. 45.**
 
@@ -313,13 +395,19 @@ source: "isap-pdf"
 
 **Art. 46.** Do zakresu działania Krajowej Komisji Rewizyjnej należy:
 
+- **1)** kontrola Zarządu Krajowej Rady Psychologów w zakresie działalności finansowej i gospodarczej;
+- **2)** przedstawianie sprawozdań z działalności kontrolnej Krajowej Radzie Psychologów i Krajowemu Zjazdowi Psychologów;
+- **3)** występowanie na Krajowym Zjeździe z wnioskiem o udzielenie absolutorium Krajowej Radzie Psychologów.
+
 **Art. 47.**
 
 1. Krajowa Komisja Dyscyplinarna przygotowuje projekt regulaminu pracy Krajowej Komisji Dyscyplinarnej.
 
 2. Krajowa Komisja Dyscyplinarna rozpatruje odwołania od orzeczeń regionalnych komisji dyscyplinarnych oraz odwołania.
 
-3. Orzeczenia Krajowej Komisji Dyscyplinarnej, z zastrzeżeniem art. 18 ust. 4 oraz art. 48, są ostateczne. przysługuje stronom, Ministrowi Sprawiedliwości, Rzecznikowi Praw Obywatelskich oraz Przewodniczącemu Krajowej Rady Psychologów odwołanie do właściwego miejscowo sądu apelacyjnego w terminie 30 dni od dnia doręczenia orzeczenia Krajowej Komisji Dyscyplinarnej wraz z uzasadnieniem.
+3. Orzeczenia Krajowej Komisji Dyscyplinarnej, z zastrzeżeniem art. 18 ust. 4 oraz art. 48, są ostateczne.
+
+**Art. 48.** Od orzeczenia wydanego przez Krajową Komisję Dyscyplinarną przysługuje stronom, Ministrowi Sprawiedliwości, Rzecznikowi Praw Obywatelskich oraz Przewodniczącemu Krajowej Rady Psychologów odwołanie do właściwego miejscowo sądu apelacyjnego w terminie 30 dni od dnia doręczenia orzeczenia Krajowej Komisji Dyscyplinarnej wraz z uzasadnieniem.
 
 **Art. 49.**
 
@@ -328,6 +416,10 @@ source: "isap-pdf"
 2. Krajowy Rzecznik Odpowiedzialności Zawodowej w imieniu Krajowej Komisji Dyscyplinarnej składa sprawozdania ze swej działalności Krajowemu Zjazdowi Psychologów.
 
 **Art. 50.** Działalność samorządu jest finansowana:
+
+- **1)** ze składek psychologów i psychologów-stażystów;
+- **2)** z działalności gospodarczej;
+- **3)** z innych źródeł, a w szczególności z zapisów, darowizn, dotacji, grantów.
 
 #### Rozdział 7 Regionalne Izby Psychologów
 
@@ -345,7 +437,8 @@ source: "isap-pdf"
 
 4. Do zadań Zjazdu Regionalnej Izby Psychologów należy:
 
-- **1)** podejmowanie uchwał w sprawach objętych zakresem działania izby; zatwierdzenie sprawozdań Rady Regionalnej Izby Psychologów z jego wykonania;
+- **1)** podejmowanie uchwał w sprawach objętych zakresem działania izby;
+- **2)** uchwalenie budżetu, ustalanie zasad gospodarki finansowej izby oraz zatwierdzenie sprawozdań Rady Regionalnej Izby Psychologów z jego wykonania;
 - **3)** rozpatrywanie i zatwierdzanie rocznych i kadencyjnych sprawozdań Regionalnej Rady, Regionalnej Komisji Rewizyjnej, Regionalnej Komisji Dyscyplinarnej oraz Rzecznika Odpowiedzialności Zawodowej;
 - **4)** uchwalenie regulaminów organów samorządu psychologów zgodnych z wymaganiami statutu, o którym mowa w art. 40 pkt 1;
 - **5)** wybór przewodniczącego i członków Regionalnej Rady, członków Regionalnej Komisji Rewizyjnej, członków Regionalnej Komisji Dyscyplinarnej oraz Regionalnego Rzecznika Odpowiedzialności Zawodowej i jego zastępców;
@@ -374,6 +467,7 @@ source: "isap-pdf"
 - **2)** nadzór nad należytym wykonywaniem zawodu przez psychologów;
 - **3)** nadzór nad należytym przebiegiem podyplomowego stażu zawodowego psychologów-stażystów poprzez zapewnienie opiekuna merytorycznego stażu i pokrycie jego wynagrodzenia;
 - **4)** prowadzenie rejestru psychologów i psychologów-stażystów z danego regionu;
+- **5)** prowadzenie rejestru prywatnych praktyk psychologicznych;
 - **6)** współpracę z marszałkiem województwa w zakresie nadzoru nad zgodnym z zezwoleniem wykonywaniem prywatnych praktyk psychologicznych;
 - **7)** wykonywanie uchwał Regionalnego i Krajowego Zjazdu Psychologów;
 - **8)** wykonywanie zadań zleconych przez Krajową Radę Psychologów;
@@ -392,6 +486,11 @@ source: "isap-pdf"
 
 **Art. 57.** Regionalna Komisja Rewizyjna:
 
+- **1)** kontroluje działalność regionalnej izby, w tym finansową i gospodarczą;
+- **2)** przedstawia sprawozdania z działalności kontrolnej Regionalnemu Zjazdowi;
+- **3)** występuje z wnioskiem o udzielenie absolutorium Regionalnej Radzie;
+- **4)** może wystąpić z wnioskiem o zwołanie Nadzwyczajnego Regionalnego Zjazdu.
+
 **Art. 58.**
 
 1. Do zadań Regionalnej Komisji Dyscyplinarnej należy rozpatrywanie spraw z zakresu odpowiedzialności dyscyplinarnej członków regionalnych izb.
@@ -407,7 +506,9 @@ source: "isap-pdf"
 
 2. Regionalny Rzecznik Odpowiedzialności Zawodowej składa okresowe i kadencyjne sprawozdanie Regionalnemu Zjazdowi.
 
-**Art. 60.** Regionalny Rzecznik Odpowiedzialności Zawodowej przed Regionalną Komisją Dyscyplinarną pełni rolę oskarżyciela. Przepis karny
+**Art. 60.** Regionalny Rzecznik Odpowiedzialności Zawodowej przed Regionalną Komisją Dyscyplinarną pełni rolę oskarżyciela.
+
+#### Rozdział 8 Przepis karny
 
 **Art. 61.**
 
@@ -432,6 +533,7 @@ source: "isap-pdf"
 
 1. Psychologów, którzy w dniu wejścia w życie ustawy posiadali dyplom magistra psychologii lub dyplom magistra filozofii chrześcijańskiej ze specjalizacją filozoficzno-psychologiczną uzyskany na Katolickim Uniwersytecie Lubelskim do 1 października 1981 r. lub dyplom magistra filozofii chrześcijańskiej w zakresie psychologii uzyskany w Akademii Teologii Katolickiej do końca 1992 r. oraz pracowali w zawodzie co najmniej dwa lata, wpisuje się na listę psychologów Regionalnej Izby Psychologów, na której obszarze wykonują zawód.
 
-2. Osoby zatrudnione na stanowiskach psychologów, które nie spełniają warunków określonych w ust. 1, mogą w okresie 1 roku od wejścia w życie ustawy wystąpić do Krajowej Rady Psychologów z wnioskiem o przyznanie prawa wykonywania zawodu, który zostanie rozpatrzony w terminie 3 miesięcy od dnia jego wpłynięcia. 62 ust. 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+2. Osoby zatrudnione na stanowiskach psychologów, które nie spełniają warunków określonych w ust. 1, mogą w okresie 1 roku od wejścia w życie ustawy wystąpić do Krajowej Rady Psychologów z wnioskiem o przyznanie prawa wykonywania zawodu, który zostanie rozpatrzony w terminie 3 miesięcy od dnia jego wpłynięcia.
 
+**Art. 64.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r., z wyjątkiem art. 62 ust. 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

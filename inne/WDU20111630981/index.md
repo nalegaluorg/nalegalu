@@ -8,7 +8,7 @@ pos: 981
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo geologiczne i górnicze
@@ -112,6 +112,15 @@ Art. 190–200. (pominięte)
 **Art. 2a.** Przepisy dotyczące węglowodorów stosuje się do gazów szlachetnych oraz do wodoru.
 
 **Art. 3.** Ustawy nie stosuje się do:
+
+- **1)** korzystania z wód w zakresie uregulowanym odrębnymi przepisami;
+- **2)** wykonywania wkopów oraz otworów wiertniczych o głębokości do 30 m w celu wykorzystania ciepła Ziemi, poza obszarami górniczymi;
+- **2a)** wykonywania wkopów oraz otworów wiertniczych o głębokości do 30 m w celu wykonywania ujęć wód podziemnych na potrzeby poboru wód podziemnych w ilości nieprzekraczającej 5 m na dobę poza obszarami górniczymi utworzonymi w celu wydobywania wód leczniczych lub solanek;
+- **3)** badań naukowych i działalności dydaktycznej, prowadzonych bez wykonywania robót geologicznych;
+- **4)** pozyskiwania okazów minerałów, skał i skamielin w celach naukowych, kolekcjonerskich i dydaktycznych, prowadzonego bez wykonywania robót górniczych;
+- **5)** wykonywania robót związanych ze sztucznym zasilaniem strefy brzegowej piaskiem, pochodzącym z osadów dennych obszarów morskich Rzeczypospolitej Polskiej;
+- **6)** wydobywania kruszywa w zakresie niezbędnym do wykonania pilnych prac zabezpieczających przed powodzią w czasie obowiązywania stanu klęski żywiołowej;
+- **7)** ustalania geotechnicznych warunków posadawiania obiektów budowlanych bez wykonywania robót geologicznych.
 
 **Art. 4.**
 
@@ -676,6 +685,16 @@ Art. 190–200. (pominięte)
 
 **Art. 28h.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
 
+- **1)** sposób ustalania wysokości zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2, wysokości zabezpieczenia środków, o którym mowa w art. 28e ust. 1, oraz kryteria wyboru formy zabezpieczenia,
+- **2)** formę, terminy przekazywania i zakres sprawozdań, o których mowa w art. 28c ust. 3 i art. 28e ust. 9 – kierując się potrzebą zapewnienia odpowiedniego i skutecznego zabezpieczenia realizacji celów, dla których jest ustanawiane zabezpieczenie, stabilnego źródła finansowania realizacji zadań Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla po przekazaniu mu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla, efektywności i racjonalności wydatkowania środków oraz mając na uwadze potrzebę zapewnienia ochrony zdrowia i życia ludzi oraz środowiska. Art. 28ha. 1. Przedsiębiorca przekazujący podczas postępowania o udzielenie koncesji informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji może zgłosić wniosek, aby informacjom tym była nadana klauzula poufności.
+
+2. Informacjom nadaje się klauzulę poufności, pod warunkiem że przedsiębiorca:
+
+- **1)** przekazując informacje, uzasadni swoje żądanie;
+- **2)** z przekazanych informacji sporządzi streszczenie, które może zostać udostępnione innym uczestnikom postępowania.
+
+3. Informacje, którym nadano klauzulę poufności, nie mogą być udostępniane innym uczestnikom postępowania bez zgody przedsiębiorcy przekazującego informacje.
+
 **Art. 28i.**
 
 1. W przypadku złożenia wniosku o udzielenie koncesji na wykonywanie działalności, o której mowa w art. 21 ust. 1 pkt 1, organ koncesyjny niezwłocznie zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ ogłoszenie o możliwości składania innych wniosków o udzielenie koncesji na wykonywanie takiej samej działalności w przestrzeni objętej złożonym wnioskiem.
@@ -1220,6 +1239,84 @@ Art. 190–200. (pominięte)
 
 **Art. 49e.** Udzielenie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż lub koncesji na wydobywanie węglowodorów ze złóż następuje w wyniku przeprowadzenia postępowania przetargowego albo na wniosek zainteresowanego podmiotu. Art. 49ea. Udzielenie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż lub koncesji na wydobywanie węglowodorów ze złóż może nastąpić na wniosek zainteresowanego podmiotu, jeżeli obszar, którego wniosek dotyczy, nie jest objęty aktualnym ogłoszeniem, o którym mowa w art. 49f ust. 1, albo nie zostało wszczęte postępowanie przetargowe dotyczące tego obszaru. Art. 49eb. 1. We wniosku o udzielenie koncesji, poza wymaganiami przewidzianymi przepisami z zakresu ochrony środowiska i działalności gospodarczej, określa się:
 
+- **1)** właścicieli (użytkowników wieczystych) nieruchomości, w granicach których ma być wykonywana zamierzona działalność, oraz oznaczenie tych nieruchomości zgodnie z ewidencją gruntów i budynków;
+- **2)** prawa wnioskodawcy do przestrzeni, w granicach której ma być wykonywana zamierzona działalność, lub prawo, o ustanowienie którego ubiega się wnioskodawca;
+- **3)** czas, na jaki koncesja ma być udzielona, ze wskazaniem terminu rozpoczęcia działalności, a w przypadku wniosku o udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – dodatkowo czas trwania fazy poszukiwania i rozpoznawania oraz fazy wydobywania;
+- **4)** w przypadku wniosku o udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża:
+    - **a)** cel, zakres i rodzaj prac geologicznych, w tym robót geologicznych, lub robót górniczych oraz informację o pracach, które mają być wykonywane dla osiągnięcia zamierzonego celu, w tym ich technologiach, a także wskazuje się minimalną kategorię rozpoznania złoża,
+    - **b)** harmonogram realizacji prac geologicznych, w tym robót geologicznych, oraz ich zakres,
+    - **c)** zakres i harmonogram obowiązkowego poboru próbek uzyskanych w wyniku robót geologicznych, w tym rdzeni wiertniczych;
+
+- **5)** w przypadku wniosku o udzielenie koncesji na wydobywanie węglowodorów ze złoża:
+    - **a)** złoże kopaliny lub jego część, która ma być przedmiotem wydobycia,
+    - **b)** wielkość i sposób zamierzonego wydobycia kopaliny oraz stopień zamierzonego wykorzystania zasobów złoża kopaliny, w tym kopalin towarzyszących i współwystępujących użytecznych pierwiastków śladowych, a także środki umożliwiające osiągnięcie tego celu,
+    - **c)** projektowane położenie obszaru górniczego i terenu górniczego, przedstawione zgodnie z wymaganiami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju,
+    - **d)** geologiczne i hydrogeologiczne warunki wydobycia, a w razie potrzeby warunki wtłaczania wód do górotworu oraz sposoby intensyfikacji wydobycia węglowodorów,
+    - **e)** podstawę prawną nabycia prawa do korzystania z informacji geologicznej oraz decyzję lub projekt robót geologicznych, o którym mowa w art. 85a ust. 1, będące podstawą wykonania robót geologicznych, w wyniku których uzyskano informację geologiczną – w przypadku gdy do nabycia prawa do korzystania z informacji geologicznej doszło z mocy prawa w związku ze sfinansowaniem prac geologicznych przez wnioskodawcę oraz przyjęciem dokumentacji geologicznej bez zastrzeżeń albo zatwierdzeniem na jego rzecz dokumentacji geologicznej, albo złożeniem jej w organie administracji geologicznej;
+
+- **6)** wykaz obszarów objętych formami ochrony przyrody; wymóg ten nie dotyczy przedsięwzięć, dla których jest wymagana decyzja o środowiskowych uwarunkowaniach;
+- **7)** sposób przeciwdziałania ujemnym wpływom zamierzonej działalności na środowisko;
+- **8)** doświadczenie w wykonywaniu działalności w zakresie poszukiwania i rozpoznawania złoża węglowodorów lub wydobywania węglowodorów ze złoża, w tym zapewniające bezpieczeństwo prowadzonej działalności, ochronę życia i zdrowia ludzi i zwierząt oraz ochronę środowiska;
+- **9)** techniczne możliwości wykonywania działalności w zakresie, odpowiednio, poszukiwania i rozpoznawania złoża węglowodorów oraz wydobywania węglowodorów ze złoża albo wydobywania węglowodorów ze złoża, w szczególności dysponowanie odpowiednim potencjałem technicznym, organizacyjnym, logistycznym oraz kadrowym;
+- **10)** finansowe możliwości dające należytą rękojmię wykonywania działalności w zakresie, odpowiednio, poszukiwania i rozpoznawania złoża węglowodorów oraz wydobywania węglowodorów ze złoża albo wydobywania węglowodorów ze złoża, w szczególności źródła i sposoby finansowania zamierzonej działalności, w tym udział środków własnych oraz środków pochodzących z kapitału obcego;
+- **11)** proponowaną technologię prowadzenia prac geologicznych, w tym robót geologicznych, lub robót górniczych;
+- **12)** proponowaną wysokość wynagrodzenia z tytułu ustanowienia użytkowania górniczego;
+- **13)** w przypadku gdy wniosek składa wspólnie kilka podmiotów, wniosek określa dodatkowo elementy, o których mowa w art. 49j ust. 2.
+
+2. Do wniosku o udzielenie koncesji dołącza się:
+
+- **1)** dowody istnienia określonych w nich okoliczności, w szczególności wyciągi z odpowiednich rejestrów;
+- **2)** kopię decyzji o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, o której mowa w art. 49a ust. 17;
+- **3)** załączniki graficzne sporządzone zgodnie z wymaganiami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju, a w przypadku wniosku o udzielenie koncesji na wydobywanie węglowodorów ze złoża – załączniki graficzne określające projektowane położenie obszaru górniczego i terenu górniczego zgodnie z wymaganiami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju;
+- **4)** w przypadku, o którym mowa w art. 49k ust. 2 – pisemne zobowiązanie, o którym mowa w tym przepisie;
+- **5)** w przypadku wniosku o udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – 2 egzemplarze projektu robót geologicznych, o którym mowa w art. 79;
+- **6)** w przypadku wniosku o udzielenie koncesji na wydobywanie węglowodorów ze złoża – dowody istnienia prawa do korzystania z informacji geologicznej, jakie w zakresie niezbędnym do prowadzenia zamierzonej działalności przysługuje wnioskodawcy, oraz kopię decyzji zatwierdzającej dokumentację geologiczną.
+
+2a. Do wniosku o udzielenie koncesji na wydobywanie węglowodorów ze złoża połączone z podziemnym składowaniem dwutlenku węgla stosuje się również przepisy art. 27a ust. 1 i 2.
+
+2b. Do planu zagospodarowania podziemnego składowiska dwutlenku węgla dołączonego do wniosku, o którym mowa w ust. 2a, stosuje się przepisy art. 27a ust. 3–5.
+
+3. Dokumenty sporządzone w języku obcym składa się wraz z tłumaczeniem na język polski dokonanym przez tłumacza przysięgłego.
+
+4. Organ koncesyjny może żądać złożenia kopii wniosku o udzielenie koncesji wraz z załącznikami, w postaci elektronicznej na informatycznych nośnikach danych, celem przedłożenia go organom, o których mowa w art. 8 i w art. 23 ust. 1–3. Art. 49ec. 1. Informację o złożeniu pierwszego wniosku o udzielenie koncesji przez zainteresowany podmiot, o którym mowa w art. 49ea, organ koncesyjny ogłasza w Dzienniku Urzędowym Unii Europejskiej. Informację o opublikowaniu ogłoszenia w Dzienniku Urzędowym Unii Europejskiej zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego organ koncesyjny.
+
+2. Ogłoszenie zawiera:
+
+- **1)** informację o złożeniu wniosku o udzielenie koncesji;
+- **2)** informację o rodzaju działalności, na którą ma być udzielona koncesja;
+- **3)** określenie przestrzeni, w granicach której ma być wykonywana działalność;
+- **4)** termin składania wniosków o udzielenie koncesji przez pozostałe podmioty zainteresowane działalnością, na którą ma być udzielona koncesja, niekrótszy niż 90 dni od daty opublikowania ogłoszenia w Dzienniku Urzędowym Unii Europejskiej;
+- **5)** kryteria oceny wniosków o udzielenie koncesji wraz z określeniem ich znaczenia, ustalone z uwzględnieniem art. 49k ust. 1 oraz 3.
+
+3. W przypadku gdy w okresie od dnia złożenia wniosku o udzielenie koncesji, o którym mowa w art. 49ea, do dnia zamieszczenia ogłoszenia został złożony wniosek o udzielenie koncesji obejmujący w całości lub w części tę samą przestrzeń oraz rodzaj działalności, podstawą do zamieszczenia ogłoszenia jest pierwszy złożony wniosek.
+
+4. Od dnia zamieszczenia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej nie wszczyna się innych postępowań dotyczących całości lub części tej samej przestrzeni oraz rodzaju działalności objętych tym ogłoszeniem, a wszczęte umarza się.
+
+5. W przypadku gdy w terminie, o którym mowa w ust. 2 pkt 4, nie wpłynie wniosek innego podmiotu o udzielenie koncesji na wykonywanie działalności, której dotyczy postępowanie, organ koncesyjny prowadzi to postępowanie wobec podmiotu, który złożył wniosek o udzielenie koncesji, o którym mowa w art. 49ea.
+
+6. W przypadku gdy w terminie, o którym mowa w ust. 2 pkt 4, zostanie złożony wniosek o udzielenie koncesji na wykonywanie działalności, której dotyczy postępowanie, organ koncesyjny ocenia złożone wnioski o udzielenie koncesji według kryteriów wskazanych w ogłoszeniu, o którym mowa w ust. 1.
+
+7. Złożone wnioski o udzielenie koncesji nie podlegają zmianom mogącym wpłynąć na ocenę kryteriów, o których mowa w ust. 2 pkt 5.
+
+8. Do porównania wniosków o udzielenie koncesji przepisy art. 49m ust. 1a– 4 stosuje się odpowiednio. Art. 49ed. 1. W przypadku gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji, o którym mowa w art. 49ea, złożony wspólnie przez kilka podmiotów, organ koncesyjny niezwłocznie wzywa operatora do przekazania temu organowi, w terminie 30 dni od dnia otrzymania wezwania, projektu umowy o współpracy.
+
+2. W przypadku stwierdzenia przez organ koncesyjny niezgodności projektu umowy o współpracy ze złożonym wnioskiem o udzielenie koncesji lub ustawą organ koncesyjny wyznacza dodatkowy termin 14 dni na usunięcie niezgodności.
+
+3. W przypadku stwierdzenia przez organ koncesyjny zgodności projektu umowy o współpracy ze złożonym wnioskiem o udzielenie koncesji oraz ustawą organ koncesyjny niezwłocznie informuje o tym operatora.
+
+4. Po otrzymaniu informacji, o której mowa w ust. 3, operator przesyła niezwłocznie organowi koncesyjnemu umowę o współpracy.
+
+5. Organ koncesyjny umarza postępowanie, w przypadku gdy:
+
+- **1)** nie zostanie przekazana organowi koncesyjnemu umowa o współpracy;
+- **2)** w terminie, o którym mowa w ust. 2, nie usunięto niezgodności. Art. 49ee. 1. Organ koncesyjny, po uzyskaniu wymaganych ustawą opinii lub uzgodnień, udziela koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża:
+- **1)** na rzecz podmiotu, którego wniosek o udzielenie koncesji uzyskał najwyższą ocenę, a w przypadku, o którym mowa w art. 49ec ust. 5, na rzecz podmiotu, który złożył wniosek o udzielenie koncesji, albo
+- **2)** w przypadku gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji złożony wspólnie przez kilka podmiotów – po przekazaniu organowi koncesyjnemu umowy o współpracy – na rzecz stron tej umowy – i jednocześnie odmawia udzielenia koncesji innym podmiotom.
+
+2. Organ koncesyjny zawiera umowę o ustanowieniu użytkowania górniczego z podmiotem, którego wniosek o udzielenie koncesji uzyskał najwyższą ocenę, a w przypadku gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji złożony wspólnie przez kilka podmiotów – ze wszystkimi tymi podmiotami.
+
+3. Organ koncesyjny odmawia udzielenia koncesji, o której mowa w ust. 1, w przypadkach, o których mowa w art. 29, a także w przypadku gdy przed udzieleniem koncesji podmiotowi, a gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji złożony wspólnie przez kilka podmiotów – co najmniej jednemu z podmiotów, uchylono decyzję o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, decyzja ta wygasła albo utraciła moc bez względu na przyczynę.
+
 **Art. 49f.**
 
 1. Organ koncesyjny ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ informację o przestrzeniach, w tym ich granicach, dla których planuje wszczęcie postępowania przetargowego.
@@ -1361,6 +1458,10 @@ Art. 190–200. (pominięte)
 
 **Art. 49o.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** wymagania, jakim powinna odpowiadać oferta oraz dokumenty wymagane od składającego ofertę, z uwzględnieniem rodzaju działalności,
+- **2)** wymagania, jakim powinni odpowiadać członkowie komisji przetargowej, niezbędne do przeprowadzenia przetargu oraz tryb pracy tej komisji, z uwzględnieniem zapewnienia sprawności wykonywanych czynności,
+- **3)** tryb przeprowadzenia przetargu, w tym sposób dokonania oceny ofert, z uwzględnieniem potrzeby zapewnienia sprawiedliwej oceny ofert zgodnie z zasadami przejrzystości i niedyskryminacji – mając na uwadze zasady ochrony konkurencji, ochrony środowiska oraz racjonalnej gospodarki złożem.
+
 **Art. 49p.**
 
 1. W przypadku gdy w przetargu została wybrana oferta złożona wspólnie przez kilka podmiotów, organ koncesyjny, po otrzymaniu protokołu z przetargu, niezwłocznie wzywa operatora do przekazania temu organowi, w terminie 30 dni od dnia otrzymania wezwania, projektu umowy o współpracy.
@@ -1380,6 +1481,11 @@ Art. 190–200. (pominięte)
 3. Wadium wniesione przez zwycięzcę przetargu podlega zwrotowi w terminie 14 dni od dnia doręczenia koncesji. Wadium nie podlega zwrotowi w przypadku odstąpienia od zawarcia umowy o współpracy z przyczyn leżących po stronie zwycięzcy przetargu, chyba że odstąpienie nastąpiło z powodu siły wyższej.
 
 **Art. 49r.** Organ koncesyjny umarza postępowanie przetargowe, w przypadku gdy:
+
+- **1)** w terminie, o którym mowa w art. 49h ust. 3 pkt 3, żaden podmiot nie złożył oferty;
+- **2)** wszystkie złożone w przetargu oferty zostały wycofane lub nie spełniają wymagań określonych w ogłoszeniu, o którym mowa w art. 49h ust. 2;
+- **3)** zwycięzcą przetargu są podmioty, które wspólnie złożyły ofertę i nie przekazały organowi koncesyjnemu umowy o współpracy;
+- **4)** w terminie, o którym mowa w art. 49p ust. 2, nie usunięto niezgodności w projekcie umowy o współpracy.
 
 **Art. 49s.**
 
@@ -1428,6 +1534,17 @@ Art. 190–200. (pominięte)
 2. Koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesja na wydobywanie węglowodorów ze złoża, może określać warunki wtłaczania wód do górotworu.
 
 **Art. 49v.** Koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża określa również:
+
+- **1)** cel, zakres i rodzaj zamierzonych prac geologicznych, w tym robót geologicznych, oraz minimalną kategorię rozpoznania złoża;
+- **2)** czas trwania fazy:
+    - **a)** poszukiwania i rozpoznawania rozumianej jako wykonywanie tej koncesji w okresie od dnia jej udzielenia do dnia zakończenia dokumentowania złoża w przestrzeni wyznaczonej koncesją albo przekazania właściwemu organowi dokumentacji, o której mowa w art. 88 ust. 2 pkt 4; zatwierdzenie dokumentacji geologiczno-inwestycyjnej złoża węglowodorów przed upływem czasu trwania tej fazy nie stanowi jej zakończenia,
+    - **b)** wydobywania rozumianej jako wykonywanie tej koncesji w okresie od dnia wydania decyzji inwestycyjnej, o której mowa w art. 49z ust. 1, do dnia cofnięcia, wygaśnięcia lub utraty mocy tej koncesji; rozpoczęcie fazy wydobywania może nastąpić w czasie trwania fazy poszukiwania i rozpoznawania;
+
+- **3)** harmonogram realizacji obowiązków wynikających z tej koncesji;
+- **4)** częstotliwość, tryb i format przekazywania organowi koncesyjnemu informacji o wynikach realizacji obowiązków określonych w harmonogramach, o których mowa w pkt 3;
+- **5)** wysokość opłaty za działalność w zakresie poszukiwania i rozpoznawania złoża węglowodorów;
+- **6)** (uchylony)
+- **7)** zakres i harmonogram obowiązkowego poboru próbek uzyskanych w wyniku robót geologicznych, w tym rdzeni wiertniczych.
 
 **Art. 49w.**
 
@@ -1657,6 +1774,13 @@ Art. 190–200. (pominięte)
 
 **Art. 51.** Stwierdzenie posiadania kwalifikacji w zawodzie geolog w zakresie wykonywania, dozorowania i kierowania pracami geologicznymi w:
 
+- **1)** kategoriach I–IX następuje w drodze świadectwa wydanego przez ministra właściwego do spraw środowiska;
+- **2)** kategorii XIII następuje w drodze świadectwa wydanego przez marszałka województwa:
+    - **a)** dolnośląskiego – dla osób zamieszkałych lub wykonujących czynności, o których mowa w art. 50 ust. 2 pkt 13, na terenie województw: dolnośląskiego, lubuskiego, opolskiego i wielkopolskiego,
+    - **b)** małopolskiego – dla osób zamieszkałych lub wykonujących czynności, o których mowa w art. 50 ust. 2 pkt 13, na terenie województw: małopolskiego, podkarpackiego, śląskiego i świętokrzyskiego,
+    - **c)** mazowieckiego – dla osób zamieszkałych lub wykonujących czynności, o których mowa w art. 50 ust. 2 pkt 13, na terenie województw: lubelskiego, łódzkiego, mazowieckiego i podlaskiego,
+    - **d)** pomorskiego – dla osób zamieszkałych lub wykonujących czynności, o których mowa w art. 50 ust. 2 pkt 13, na terenie województw: kujawsko-pomorskiego, pomorskiego, warmińsko-mazurskiego i zachodniopomorskiego.
+
 **Art. 52.**
 
 1. O stwierdzenie posiadania kwalifikacji w zawodzie geolog w kategorii I–IX może ubiegać się osoba, która posiada dyplom ukończenia studiów pierwszego lub drugiego stopnia lub jednolitych studiów magisterskich na kierunku związanym z kształceniem w zakresie geologii oraz odbyła praktykę zawodową odpowiednią do poziomu i kierunku ukończonych studiów, zwaną dalej „praktyką”, określone w przepisach wydanych na podstawie art. 69 ust. 1 pkt 1.
@@ -1743,6 +1867,26 @@ Art. 190–200. (pominięte)
 
 **Art. 54.** Wykonywanie czynności, o których mowa w art. 53 ust. 1 pkt 1 i 4–7, wymaga posiadania następujących kwalifikacji w zakresie przygotowania zawodowego:
 
+- **1)** w przypadku czynności, o których mowa w art. 53 ust. 1 pkt 1 i 4–6 – znajomości, w stopniu niezbędnym do wykonywania tych czynności, przepisów prawa geologicznego i górniczego oraz innych przepisów stosowanych w ruchu zakładu górniczego albo zakładu oraz w przypadku:
+    - **a)** czynności, o których mowa w art. 53 ust. 1 pkt 1 – zagadnień związanych z prowadzeniem ruchu określonego rodzaju zakładów górniczych albo zakładów oraz występujących w nich zagrożeń,
+    - **b)** czynności, o których mowa w art. 53 ust. 1 pkt 4 – zagadnień związanych z wykonywaniem czynności mierniczego górniczego, czynności kierownika ruchu w odkrywkowych zakładach górniczych wydobywających kopaliny bez użycia środków strzałowych, czynności kierownika działu mierniczego w zakładach górniczych albo zakładach oraz czynności w wyższym dozorze ruchu w specjalności mierniczej w zakładach górniczych albo zakładach,
+    - **c)** czynności, o których mowa w art. 53 ust. 1 pkt 5 – zagadnień związanych z wykonywaniem czynności geologa górniczego, czynności kierownika ruchu w odkrywkowych zakładach górniczych wydobywających kopaliny bez użycia środków strzałowych, czynności kierownika ruchu w zakładach górniczych wydobywających wody lecznicze, wody termalne i solanki, czynności kierownika działu geologicznego w zakładach górniczych albo zakładach oraz czynności w wyższym dozorze ruchu w specjalności geologicznej w zakładach górniczych albo zakładach,
+    - **d)** czynności, o których mowa w art. 53 ust. 1 pkt 6 – zagadnień niezbędnych do wykonywania czynności geofizyka górniczego, czynności kierownika ruchu w odkrywkowych zakładach górniczych wydobywających kopaliny bez użycia środków strzałowych, czynności kierownika ruchu w zakładach górniczych wydobywających wody lecznicze, wody termalne i solanki, czynności kierownika ruchu w zakładach wykonujących roboty geologiczne bez użycia środków strzałowych na głębokości do 100 m, czynności kierownika działu tąpań w podziemnych zakładach górniczych oraz czynności w wyższym dozorze ruchu w specjalności geofizycznej w zakładach górniczych, a także czynności kierownika działu geofizyka i technika strzałowa w zakładach wykonujących roboty geologiczne służące poszukiwaniu lub rozpoznawaniu złóż węglowodorów lub służące poszukiwaniu lub rozpoznawaniu złóż kopalin innych niż węglowodory oraz wody podziemne będące kopalinami oraz czynności w wyższym dozorze ruchu w specjalności geofizyka i technika strzałowa w zakładach wykonujących roboty geologiczne służące poszukiwaniu lub rozpoznawaniu złóż węglowodorów lub służące poszukiwaniu lub rozpoznawaniu złóż kopalin innych niż węglowodory oraz wody podziemne będące kopalinami;
+
+- **2)** w przypadku czynności, o których mowa w art. 53 ust. 1 pkt 7, znajomości:
+    - **a)** przepisów określających zasady prowadzenia ruchu zakładu górniczego oraz prowadzenia akcji ratowniczych i wykonywania prac profilaktycznych w zakładzie górniczym,
+    - **b)** organizacji i zadań ratownictwa górniczego,
+    - **c)** wyposażenia jednostek ratownictwa górniczego,
+    - **d)** metod prowadzenia akcji ratowniczych i wykonywania prac profilaktycznych,
+    - **e)** metod prowadzenia szkoleń i ćwiczeń ratowniczych,
+    - **f)** zasad udzielania pomocy przedmedycznej,
+    - **g)** działalności pogotowi specjalistycznych;
+
+- **3)** tytułu zawodowego lub kwalifikacji zawodowych w zawodach wymienionych w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. a, ukończenia studiów określonych w tych przepisach lub ukończenia studiów podyplomowych określonych w tych przepisach;
+- **4)** w przypadkach określonych w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. a:
+    - **a)** posiadania odpowiednich kwalifikacji w zawodzie lub odpowiednich uprawnień zawodowych,
+    - **b)** złożenia określonych w tych przepisach egzaminów uzupełniających.
+
 **Art. 55.**
 
 1. Wykonywanie czynności, o których mowa w art. 53 ust. 1 pkt 1 i 4– 7, wymaga posiadania kwalifikacji w zakresie doświadczenia zawodowego, którymi jest odbycie, również przed uzyskaniem kwalifikacji w zakresie przygotowania zawodowego, o których mowa w art. 54 pkt 3 lub 4, praktyki:
@@ -1787,6 +1931,28 @@ Art. 190–200. (pominięte)
 7. Praktyką w zakresie uregulowanym w niniejszym rozdziale jest również udział osób zatrudnionych w urzędzie obsługującym organ nadzoru górniczego lub inny organ nadzoru i kontroli warunków pracy w wykonywaniu nadzoru i kontroli nad czynnościami określonymi w art. 53.
 
 **Art. 56.** Wykonywanie czynności, o których mowa w art. 53 ust. 5, wymaga:
+
+- **1)** ukończenia szkoły:
+    - **a)** ponadpodstawowej lub ponadgimnazjalnej dającej wykształcenie średnie lub średnie branżowe albo
+    - **b)** ponadpodstawowej i posiadania tytułu zawodowego, albo
+    - **c)** ponadgimnazjalnej lub ponadpodstawowej i posiadania kwalifikacji w zawodzie;
+
+- **2)** odbycia praktyki, określonej, w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. b, stażem pracy lub okresem szkolenia praktycznego na stanowisku oraz rodzajem wykonywanych czynności;
+- **3)** posiadania aktualnego zaświadczenia o odbyciu kursu specjalistycznego lub aktualnych zaświadczeń o odbyciu kursów specjalistycznych określonych w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. b;
+- **4)** posiadania dodatkowych kwalifikacji określonych w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. b – w przypadku osób wykonujących czynności wymienione w art. 53 ust. 5:
+    - **a)** pkt 1 lit. i oraz j,
+    - **b)** pkt 3 lit. d oraz e;
+
+- **5)** posiadania aktualnego orzeczenia psychologicznego wydawanego na podstawie wyniku badań psychologicznych prowadzonych w ramach służby medycyny pracy, obejmujących zagadnienia określone w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. b – w przypadku osób wykonujących czynności wymienione w art. 53 ust. 5:
+    - **a)** pkt 1 lit. c–j,
+    - **b)** pkt 3 lit. c–e;
+
+- **6)** posiadania aktualnych orzeczeń lekarskiego i psychologicznego stwierdzających brak zaburzeń, o których mowa w art. 11 ust. 1 pkt 1 lit. c ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego – w przypadku osób wykonujących czynności wymienione w art. 53 ust. 5:
+    - **a)** pkt 1 lit. a oraz b,
+    - **b)** pkt 2,
+    - **c)** pkt 3 lit. a oraz b;
+
+- **7)** posiadania minimalnego wieku określonego w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. b.
 
 **Art. 57.**
 
@@ -2004,6 +2170,9 @@ Art. 190–200. (pominięte)
 
 **Art. 62.** Organ właściwy do stwierdzenia posiadania kwalifikacji:
 
+- **1)** dopuszcza kandydata do egzaminu po ustaleniu, że kandydat spełnia wymagania dla określonej we wniosku kategorii kwalifikacji do wykonywania, dozorowania i kierowania pracami geologicznymi albo posiada wymagane kwalifikacje w zakresie przygotowania zawodowego, o którym mowa w art. 54 pkt 3 i 4, oraz kwalifikacje w zakresie doświadczenia zawodowego, o którym mowa w art. 55;
+- **2)** odmawia, w drodze decyzji, dopuszczenia do egzaminu, w przypadku ustalenia, że kandydat nie spełnia wymagań dla określonej we wniosku kategorii kwalifikacji do wykonywania, dozorowania i kierowania pracami geologicznymi albo nie posiada wymaganych kwalifikacji w zakresie przygotowania zawodowego, o którym mowa w art. 54 pkt 3 i 4, oraz kwalifikacji w zakresie doświadczenia zawodowego, o którym mowa w art. 55.
+
 **Art. 63.**
 
 1. Organy właściwe do stwierdzenia kwalifikacji powołują komisje egzaminacyjne.
@@ -2015,6 +2184,10 @@ Art. 190–200. (pominięte)
 4. Kandydat przed przystąpieniem do egzaminu przekazuje komisji egzaminacyjnej dowód uiszczenia opłaty egzaminacyjnej.
 
 **Art. 64.** Podczas egzaminu sprawdzeniu podlega w przypadku:
+
+- **1)** kwalifikacji do wykonywania, dozorowania i kierowania pracami geologicznymi – znajomość przez kandydata przepisów prawa geologicznego i górniczego w kategorii I–IX oraz XIII, prawa wodnego w kategorii IV i V, prawa budowlanego w kategorii VI i VII oraz prawa ochrony środowiska w kategorii I–IX, a także posiadanie przez kandydata umiejętności praktycznego zastosowania wiedzy zawodowej – w zakresie niezbędnym do wykonywania czynności objętych kwalifikacjami;
+- **2)** kwalifikacji w zakresie górnictwa – posiadanie przez kandydata wymaganych kwalifikacji w zakresie przygotowania zawodowego, o którym mowa w art. 54 pkt 1;
+- **3)** kwalifikacji w zakresie ratownictwa górniczego – posiadanie przez kandydata wymaganych kwalifikacji w zakresie przygotowania zawodowego, o którym mowa w art. 54 pkt 2.
 
 **Art. 65.**
 
@@ -2118,6 +2291,40 @@ Art. 190–200. (pominięte)
 - **2)** zatrudnia co najmniej jedną osobę fizyczną, spełniającą wymagania określone w ust. 1, która będzie wykonywała badania i sporządzała opinie w sprawach dotyczących ruchu zakładu górniczego.
 
 **Art. 72.** Uprawnienia rzeczoznawcy do spraw ruchu zakładu górniczego nadaje się w następujących grupach:
+
+- **1)** grupa I – maszyny wyciągowe:
+    - **a)** część mechaniczna,
+    - **b)** część elektryczna,
+
+- **2)** grupa II – naczynia wyciągowe,
+- **3)** grupa III – zawieszenia naczyń wyciągowych i lin wyciągowych,
+- **4)** grupa IV – liny wyciągowe,
+- **5)** grupa V – wieże szybowe,
+- **6)** grupa VI – koła linowe,
+- **7)** grupa VII – zbrojenie szybowe, w tym sztywne prowadzenie naczyń wyciągowych,
+- **8)** grupa VIII – urządzenia do użytku w przestrzeniach zagrożonych wybuchem,
+- **9)** grupa IX – urządzenia i sprzęt elektryczny:
+    - **a)** kable i przewody,
+    - **b)** elektronarzędzia,
+    - **c)** sieci elektroenergetyczne,
+
+- **10)** grupa X – urządzenia techniczne:
+    - **a)** urządzenia ciśnieniowe,
+    - **b)** urządzenia dźwignicowe,
+    - **c)** urządzenia transportowe specjalne,
+
+- **11)** grupa XI – obudowy zmechanizowane,
+- **12)** grupa XII – roboty strzałowe,
+- **13)** grupa XIII – obudowy kotwowe,
+- **14)** grupa XIV – obudowy szybów,
+- **15)** grupa XV – zagrożenie metanowe i pyłowe,
+- **16)** grupa XVI – zagrożenie pożarowe,
+- **17)** grupa XVII – zagrożenie wodne,
+- **18)** grupa XVIII – zagrożenie wyrzutem gazów i skał,
+- **19)** grupa XIX – zagrożenie tąpaniami,
+- **20)** grupa XX – zagrożenie klimatyczne,
+- **21)** grupa XXI – badanie rozwiązań technicznych poprzedzających wprowadzanie nowych systemów eksploatacji rud miedzi, cynku i ołowiu lub odmian tych systemów,
+- **22)** grupa XXII – badanie rozwiązań technicznych i organizacyjnych dotyczących poszukiwania, rozpoznawania lub wydobywania węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej – wskazując zakresy czynności, w których mają być wykonywane zadania rzeczoznawcy do spraw ruchu zakładu górniczego, zgodnie z przepisami wydanymi na podstawie art. 118 ust. 4 oraz art. 120 ust. 1 i 2, a w przypadku grupy XXII – także zgodnie z przepisami wydanymi na podstawie art. 110.
 
 **Art. 73.**
 
@@ -2485,6 +2692,14 @@ Art. 190–200. (pominięte)
 - **3)** prognozę zmian w środowisku, które mogą powstać na skutek realizacji, funkcjonowania oraz likwidacji zamierzonych przedsięwzięć – jeżeli nie istnieje obowiązek sporządzenia raportu o oddziaływaniu przedsięwzięcia na środowisko zgodnie z odrębnymi przepisami.
 
 **Art. 92.** Dokumentację geologiczną, o której mowa w art. 88 ust. 2 pkt 4, sporządza się w przypadku:
+
+- **1)** wykonywania prac geologicznych niekończących się udokumentowaniem zasobów złoża kopaliny lub zasobów wód podziemnych;
+- **2)** wykonania otworu wiertniczego w celu rozpoznania budowy głębokiego podłoża, niezwiązanego z dokumentowaniem złóż kopaliny;
+- **3)** wykonywania prac geologicznych w celu wykorzystania ciepła Ziemi;
+- **4)** likwidacji otworu wiertniczego;
+- **5)** wykonywania badań geofizycznych w celu zbadania struktur geologicznych związanych z występowaniem złóż węglowodorów;
+- **6)** wykonywania prac geologicznych z zastosowaniem badań geofizycznych w celu wykonania regionalnych badań budowy geologicznej kraju;
+- **7)** wykonywania prac geologicznych z zastosowaniem badań sejsmicznych w granicach obszarów morskich Rzeczypospolitej Polskiej w celu posadowienia morskich farm wiatrowych oraz zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu odpowiednio art. 3 pkt 3 i 13 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych.
 
 **Art. 92a.**
 
@@ -3088,6 +3303,10 @@ Art. 190–200. (pominięte)
 
 **Art. 110.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe wymagania dotyczące treści planu ruchu zakładu górniczego oraz planu ruchu likwidowanego (likwidowanej oznaczonej części) zakładu górniczego, różnicując je w zależności od rodzaju i metody wykonywanej działalności oraz przestrzeni, w granicach której jest wykonywana działalność, kierując się potrzebą zapewnienia wysokiego poziomu bezpieczeństwa wykonywanej działalności, a dla likwidowanego (likwidowanej oznaczonej części) zakładu górniczego również obowiązkiem realizacji działań, o których mowa w art. 129 ust. 1;
+- **2)** elementy planu ruchu zakładu górniczego przedsiębiorcy wykonującego działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, które wymagają opinii rzeczoznawcy do spraw ruchu zakładu górniczego, kierując się potrzebą zapewnienia wysokiego poziomu bezpieczeństwa wykonywanej działalności oraz jej niezależnej weryfikacji;
+- **3)** elementy planu ruchu zakładu górniczego, których zmiany dokonuje się w trybie uproszczonym, zgodnie z art. 109 ust. 1 pkt 2, kierując się potrzebą uproszczenia procedury zmiany planu ruchu zakładu górniczego z uwzględnieniem zachowania bezpieczeństwa wykonywanej działalności.
+
 **Art. 111.**
 
 1. Odstąpienie od zatwierdzonego planu ruchu zakładu górniczego jest dopuszczalne tylko w przypadku powstania zagrożenia bezpieczeństwa ruchu zakładu górniczego lub jego części, bezpieczeństwa powszechnego lub środowiska.
@@ -3277,6 +3496,16 @@ Art. 190–200. (pominięte)
 - **4)** sposób i tryb postępowania z dokumentacją mierniczo-geologiczną po likwidacji zakładu górniczego, w zakresie jej przekazywania i archiwizowania, w tym wzory dokumentów związanych z jej przekazywaniem.
 
 **Art. 117.** Przedsiębiorca jest obowiązany:
+
+- **1)** rozpoznawać zagrożenia związane z ruchem zakładu górniczego i podejmować środki zmierzające do zapobiegania i usuwania tych zagrożeń;
+- **2)** posiadać odpowiednie środki materialne i techniczne oraz służby ruchu zapewniające bezpieczeństwo pracowników i ruchu zakładu górniczego;
+- **3)** prowadzić ewidencję osób przebywających w zakładzie górniczym, przez wskazanie imienia i nazwiska oraz stanowiska służbowego;
+- **4)** oceniać i dokumentować ryzyko zawodowe oraz stosować niezbędne rozwiązania zmniejszające to ryzyko, w tym przez sporządzenie dokumentu bezpieczeństwa i ochrony zdrowia;
+- **5)** posiadać i odpowiednio przechowywać dokumentację prowadzenia ruchu zakładu górniczego;
+- **6)** posiadać dowód sprawdzenia rozwiązań technicznych przez rzeczoznawcę do spraw ruchu zakładu górniczego – w przypadkach określonych w przepisach wydanych na podstawie art. 120 ust. 1 i 2;
+- **7)** przechowywać:
+    - **a)** dokumenty, o których mowa w art. 108 ust. 9 pkt 4 lit. a, b i d oraz ust. 10, wraz z planem ruchu zakładu górniczego,
+    - **b)** dokument, o którym mowa w art. 108 ust. 9 pkt 4 lit. c – przez 6 miesięcy od dnia zakończenia likwidacji zakładu górniczego.
 
 **Art. 117a.**
 
@@ -3477,6 +3706,13 @@ Art. 190–200. (pominięte)
 
 **Art. 124.** Minister właściwy do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrami właściwymi do spraw wewnętrznych, środowiska oraz zdrowia określi, w drodze rozporządzenia:
 
+- **1)** organizację, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym,
+- **2)** szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których te szkolenia są przeprowadzane przez przedsiębiorcę,
+- **3)** szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego,
+- **4)** sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym, w przypadku zawarcia umowy, o której mowa w art. 122 ust. 15,
+- **5)** przypadki, w których wykonuje się prace profilaktyczne,
+- **6)** sposoby prowadzenia akcji ratowniczych w zależności od rodzaju i natężenia zagrożeń występujących w zakładach górniczych – kierując się potrzebą zapewnienia wysokiego poziomu bezpieczeństwa powszechnego, bezpieczeństwa pożarowego, bezpieczeństwa i higieny pracy, bezpieczeństwa ruchu zakładu górniczego, zapobiegania zagrożeniom występującym w ruchu zakładu górniczego, a także zapewnienia sprawnego niesienia pomocy w przypadku zagrożenia życia lub zdrowia osób przebywających w zakładzie górniczym, bezpieczeństwa ruchu zakładu górniczego lub bezpieczeństwa powszechnego.
+
 #### Rozdział 4 Podziemne składowanie odpadów
 
 **Art. 125.**
@@ -3629,6 +3865,10 @@ Art. 190–200. (pominięte)
 
 **Art. 127h.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe wymagania dotyczące eksploatacji podziemnego składowiska dwutlenku węgla,
+- **2)** szczegółowe kryteria i sposób akceptacji składu strumienia dwutlenku węgla zatłaczanego do podziemnego składowiska dwutlenku węgla,
+- **3)** sposób, częstotliwość i szczegółowe warunki prowadzenia monitoringu kompleksu podziemnego składowania dwutlenku węgla – kierując się potrzebą zapewnienia bezpieczeństwa prowadzenia działalności polegającej na podziemnym składowaniu dwutlenku węgla, mając na uwadze potrzebę zapewnienia ochrony zdrowia i życia ludzi oraz środowiska, a także bezpieczeństwa powszechnego oraz uwzględniając charakterystykę kompleksu podziemnego składowania dwutlenku węgla, warunki geologiczne i przyrodnicze.
+
 **Art. 127i.**
 
 1. Zamknięcie podziemnego składowiska dwutlenku węgla następuje:
@@ -3728,6 +3968,9 @@ Art. 190–200. (pominięte)
 5. Do kontroli, o której mowa w ust. 1, przepisy działu IX stosuje się odpowiednio.
 
 **Art. 127o.** Organ koncesyjny, w celu oceny zgodności prowadzonej działalności polegającej na podziemnym składowaniu dwutlenku węgla z warunkami określonymi w koncesji, dokonuje przeglądu udzielonych koncesji:
+
+- **1)** po upływie 5 lat od dnia udzielenia koncesji, a następnie – co 10 lat;
+- **2)** w przypadkach, o których mowa w art. 37a ust. 2 pkt 2–5.
 
 **Art. 127p.** Do działalności polegającej na wydobywaniu węglowodorów ze złoża połączonym z podziemnym składowaniem dwutlenku węgla stosuje się przepisy art. 127a ust. 1–3, art. 127b–127g, art. 127i–127o oraz przepisy wydane na podstawie art. 127a ust. 4 i art. 127h.
 
@@ -4156,6 +4399,9 @@ Art. 190–200. (pominięte)
 
 **Art. 158.** Jeżeli ustawa nie stanowi inaczej, do zakresu działania organów administracji geologicznej należy wykonywanie określonych zadań, a w szczególności:
 
+- **1)** podejmowanie rozstrzygnięć oraz wykonywanie innych czynności niezbędnych do przestrzegania i stosowania ustawy, w tym udzielanie koncesji;
+- **2)** kontrola i nadzór nad działalnością regulowaną ustawą, w tym w zakresie projektowania prac geologicznych oraz sporządzania dokumentacji geologicznych.
+
 **Art. 159.**
 
 1. W przypadku stwierdzenia, że działalność określona ustawą jest wykonywana:
@@ -4219,6 +4465,12 @@ Art. 190–200. (pominięte)
 3. W zakresie, o którym mowa w ust. 1, marszałek województwa uzgadnia projekt decyzji o lokalizacji inwestycji celu publicznego oraz projekt decyzji o warunkach zabudowy, które obejmują wyłącznie zmianę sposobu użytkowania obiektu budowlanego.
 
 **Art. 161b.** Przy uzgadnianiu:
+
+- **1)** (uchylony)
+- **2)** projektu miejscowego planu zagospodarowania przestrzennego,
+- **3)** projektu planu zagospodarowania przestrzennego województwa,
+- **4)** projektu decyzji o lokalizacji inwestycji celu publicznego,
+- **5)** projektu decyzji o warunkach zabudowy – organ administracji geologicznej kieruje się koniecznością ochrony udokumentowanych złóż kopalin, w szczególności złóż strategicznych, przed zagospodarowaniem w sposób wykluczający ich eksploatację w przyszłości.
 
 #### Rozdział 3 Państwowa służba geologiczna
 
@@ -4696,13 +4948,26 @@ Art. 190–200. (pominięte)
 
 **Art. 177.** Kto bez wymaganej koncesji lub bez zatwierdzonego projektu robót geologicznych lub z naruszeniem określonych w nich warunków wykonuje działalność w zakresie:
 
+- **1)** poszukiwania lub rozpoznawania złóż kopalin albo poszukiwania lub rozpoznawania kompleksu podziemnego składowania dwutlenku węgla,
+- **2)** wydobywania kopalin ze złóż,
+- **3)** podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów albo podziemnego składowania dwutlenku węgla, podlega karze aresztu albo grzywny.
+
 **Art. 178.** Kto wykonuje lub dozoruje prace geologiczne lub kieruje tymi pracami, nie posiadając wymaganych do tego kwalifikacji, podlega karze grzywny.
 
 **Art. 179.** Kto:
 
+- **1)** w celach innych niż poszukiwanie lub rozpoznawanie złóż kopalin albo poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla wykonuje roboty geologiczne bez zatwierdzonego projektu robót geologicznych lub z naruszeniem określonych w nim warunków albo bez przedłożenia projektu robót geologicznych, który nie podlega zatwierdzeniu, lub z naruszeniem określonych w nim warunków,
+- **2)** nie zawiadamia właściwych organów o zamiarze rozpoczęcia wykonywania robót geologicznych, podlega karze grzywny.
+
 **Art. 180.** Kto nie wykonuje decyzji organu administracji geologicznej, dotyczącej:
 
+- **1)** zakazu wykonywania określonych czynności przez osoby, które wykonują te czynności z rażącym niedbalstwem, z naruszeniem ustawy lub rażącym naruszeniem wydanych na jej podstawie przepisów,
+- **2)** wstrzymania działalności lub nakazu niezwłocznego usunięcia stwierdzonych uchybień lub nakazu podjęcia czynności mających na celu doprowadzenie środowiska do należytego stanu, w przypadku stwierdzenia wykonywania działalności bez zatwierdzonego projektu robót geologicznych, lub bez przedłożonego projektu robót geologicznych, który nie podlega zatwierdzeniu, lub z naruszeniem warunków określonych w koncesji lub tym projekcie, podlega karze grzywny.
+
 **Art. 181.** Kto wykonuje czynności:
+
+- **1)** kierownictwa lub dozoru ruchu zakładu górniczego albo zakładu lub inne czynności w ruchu zakładu górniczego albo zakładu,
+- **2)** kierownictwa w podmiotach zawodowo trudniących się ratownictwem górniczym, nie posiadając wymaganych do tego kwalifikacji, podlega karze grzywny.
 
 **Art. 182.**
 
@@ -4759,6 +5024,10 @@ Art. 190–200. (pominięte)
 **Art. 187.** Kto nie dopełnia ciążącego na nim obowiązku w zakresie tworzenia funduszu, gromadzenia środków na funduszu oraz przedstawiania na żądanie właściwych organów aktualnych wyciągów z rachunku bankowego, na którym gromadzi środki funduszu, oraz informacji o sposobie ich wykorzystania, podlega karze grzywny.
 
 **Art. 188.** Kto nie wykonuje decyzji organu nadzoru górniczego, dotyczącej:
+
+- **1)** zakazu wykonywania określonych czynności przez osoby, które wykonują te czynności z rażącym niedbalstwem, z naruszeniem ustawy lub rażącym naruszeniem wydanych na jej podstawie przepisów,
+- **2)** nakazu niezwłocznego sporządzenia lub poprawy operatu ewidencyjnego,
+- **3)** (uchylony) podlega karze grzywny.
 
 **Art. 188a.** Kto swoim działaniem lub zaniechaniem doprowadza do nieuprawnionego ujawnienia informacji geologicznej pozyskanej przez państwową służbę geologiczną, podlega karze aresztu albo grzywny.
 
@@ -4893,6 +5162,9 @@ Art. 190–200. (pominięte)
 2. Zwrotu, o którym mowa w ust. 1, dokonuje się na podstawie decyzji właściwego organu koncesyjnego, a w przypadku wydobycia kopaliny bez wymaganej koncesji – decyzji organu, który dokonał ustalenia wymiaru opłaty lub administracyjnej kary pieniężnej.
 
 **Art. 219.** Po dniu wejścia w życie ustawy organy określone jako właściwe na podstawie dotychczasowych przepisów przekażą organom określonym jako właściwe na podstawie niniejszej ustawy akta spraw:
+
+- **1)** zakończonych – w terminie 3 miesięcy od dnia wejścia w życie ustawy;
+- **2)** będących w toku – niezwłocznie po zakończeniu postępowania.
 
 **Art. 220.** (pominięty)
 

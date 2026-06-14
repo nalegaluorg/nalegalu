@@ -8,7 +8,7 @@ pos: 321
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o sejmowej komisji śledczej
@@ -46,6 +46,10 @@ source: "isap-pdf"
 **Art. 3.** (uchylony)
 
 **Art. 4.** Poseł nie może wchodzić w skład komisji, jeżeli:
+
+- **1)** sprawa dotyczy go bezpośrednio;
+- **2)** brał albo bierze udział, występując w jakiejkolwiek roli procesowej, w sprawie przed organem władzy publicznej w sytuacji, o której mowa w art. 8 ust. 1;
+- **3)** istnieje, inna niż wymienione w pkt 1 i 2, okoliczność, która mogłaby wywołać uzasadnioną wątpliwość co do jego bezstronności w danej sprawie.
 
 **Art. 4a.**
 
@@ -206,7 +210,7 @@ source: "isap-pdf"
 
 **Art. 12a.** Dla uzyskania wiedzy specjalistycznej komisja może powoływać biegłych. Do biegłych stosuje się odpowiednio przepisy art. 12 oraz działu V rozdziału 22 Kodeksu postępowania karnego dotyczące biegłych.
 
-**Art. 13.** Na terenie czynności związane z zastosowaniem kary porządkowej wykonuje, na polecenie sądu, Straż Marszałkowska.
+**Art. 13.** Na terenie Sejmu czynności związane z zastosowaniem kary porządkowej wykonuje, na polecenie sądu, Straż Marszałkowska.
 
 **Art. 14.**
 
@@ -272,7 +276,7 @@ source: "isap-pdf"
 
 **Art. 19c.**
 
-1. Na posiedzeniu sprawozdanie komisji śledczej prezentuje wybrany z jej składu poseł sprawozdawca, który obiektywnie przedstawia stanowisko komisji oraz zawarte w sprawozdaniu zdania odrębne.
+1. Na posiedzeniu Sejmu sprawozdanie komisji śledczej prezentuje wybrany z jej składu poseł sprawozdawca, który obiektywnie przedstawia stanowisko komisji oraz zawarte w sprawozdaniu zdania odrębne.
 
 2. Do sprawozdania komisji w trakcie jego rozpatrywania przez Sejm, poprawek nie zgłasza się.
 
@@ -286,9 +290,9 @@ source: "isap-pdf"
 
 **Art. 21.**
 
-1. Jeżeli komisja przekazała Marszałkowi sprawozdanie ze swojej działalności, a Sejm nie rozpatrzył go do końca kadencji, to może ono zostać rozpatrzone przez Sejm następnej kadencji.
+1. Jeżeli komisja przekazała Marszałkowi Sejmu sprawozdanie ze swojej działalności, a Sejm nie rozpatrzył go do końca kadencji, to może ono zostać rozpatrzone przez Sejm następnej kadencji.
 
-2. W przypadku określonym w ust. 1 Marszałek rozpatrującego sprawozdanie, po zasięgnięciu opinii Prezydium i Konwentu Seniorów, wskazuje posła sprawozdawcę.
+2. W przypadku określonym w ust. 1 Marszałek Sejmu rozpatrującego sprawozdanie, po zasięgnięciu opinii Prezydium Sejmu i Konwentu Seniorów, wskazuje posła sprawozdawcę.
 
 **Art. 22.** (pominięty)
 

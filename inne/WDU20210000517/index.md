@@ -8,10 +8,10 @@ pos: 517
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 marca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 517 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 2 marca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000517) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/517/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 2 marca 2021 r.
-w sprawie kontroli ruchu drogowego, pilotowania pojazdów oraz kierowania ruchem drogowym przez żołnierzy Żandarmerii Wojskowej i wojskowych organów porządkowych Na podstawie art. 131 ust. 2 pkt 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (z 2021 r. poz. 450 i 463) zarządza się, co następuje: § 1. Rozporządzenie określa organizację, warunki i sposób wykonywania przez żołnierzy Żandarmerii Wojskowej i wojskowych organów porządkowych:
+w sprawie kontroli ruchu drogowego, pilotowania pojazdów oraz kierowania ruchem drogowym przez żołnierzy Żandarmerii Wojskowej i wojskowych organów porządkowych Na podstawie art. 131 ust. 2 pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (z 2021 r. poz. 450 i 463) zarządza się, co następuje:
+§ 1. Rozporządzenie określa organizację, warunki i sposób wykonywania przez żołnierzy Żandarmerii Wojskowej i wojskowych organów porządkowych:
 1) kontroli ruchu drogowego w stosunku do kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej oraz w stosunku do żołnierzy pełniących czynną służbę wojskową kierujących innymi pojazdami;
 2) pilotowania pojazdów, a także kierowania ruchem drogowym w związku z pilotowaniem pojazdów wojskowych.
-§ 2. 1. Żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych w warunkach dostatecznej widoczności daje sygnały tarczą do zatrzymywania pojazdów lub ręką, a w warunkach niedostatecznej widoczności latarką ze światłem czerwonym albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym.
+§ 2. 1. Żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych w warunkach dostatecznej widoczności daje sygnały tarczą do zatrzymywania pojazdów lub ręką, a w warunkach niedostatecznej widoczności – latarką ze światłem czerwonym albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym.
 2. Żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych poruszający się pojazdem Żandarmerii Wojskowej albo wojskowych organów porządkowych może wydawać kierującemu polecenia określonego zachowania się za pomocą urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych.
 3. Żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych znajdujący się na statku wodnym albo powietrznym wydaje polecenie zatrzymania pojazdu za pomocą urządzeń nagłaśniających lub świetlnych albo przy użyciu sygnałów dźwiękowych i świetlnych.
 4. Jeżeli jest to konieczne do prowadzenia czynności kontrolnych, pojazd Żandarmerii Wojskowej albo wojskowych organów porządkowych może zostać unieruchomiony w miejscu, gdzie jest to zabronione, lecz nie zagraża bezpieczeństwu ruchu drogowego.
 5. Polecenie zatrzymania pojazdu wydaje się z dostatecznej odległości, w sposób zapewniający jego dostrzeżenie przez kierującego oraz bezpieczne zatrzymanie w miejscu wskazanym przez żołnierza Żandarmerii Wojskowej albo żołnierza wojskowych organów porządkowych.
-6. Miejsce zatrzymania pojazdu może być wyznaczone przez ustawienie znaku „stój kontrola drogowa”.
+6. Miejsce zatrzymania pojazdu może być wyznaczone przez ustawienie znaku „stój – kontrola drogowa”.
 7. Dla zwrócenia uwagi na dawane sygnały lub wydawane polecenia żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych może używać sygnałów dźwiękowych.
 § 3. 1. Żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych zatrzymuje pojazd do kontroli w miejscu, w którym nie zagraża to bezpieczeństwu ruchu.
 2. W celu dojazdu do miejsca, o którym mowa w ust. 1, żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych może wydać kontrolowanemu uczestnikowi ruchu polecenie jazdy za swoim pojazdem.
@@ -72,22 +72,22 @@ w sprawie kontroli ruchu drogowego, pilotowania pojazdów oraz kierowania ruchem
 8) uciążliwość, w tym emisja spalin oraz wycieki paliwa lub oleju.
 3. Kontrolę stanu technicznego pojazdu przeprowadza się z wykorzystaniem dostępnych technik i sprzętu. Kontrola ta może także obejmować sprawdzenie, czy odpowiednie części i elementy pojazdu odpowiadają wymogom w zakresie bezpieczeństwa ruchu drogowego i ochrony środowiska.
 4. Usterki stwierdzone podczas drogowej kontroli technicznej pojazdu dzieli się na trzy kategorie:
-1) usterki drobne usterki bez znaczącego wpływu na bezpieczeństwo pojazdu lub wymagania ochrony środowiska, które nie powodują ograniczenia w dalszym używaniu pojazdu;
-2) usterki poważne usterki mogące zagrażać bezpieczeństwu ruchu drogowego lub naruszać wymagania ochrony środowiska albo inne istotne nieprawidłowości, które dają podstawę do ograniczenia dalszego używania pojazdu oraz określenia warunków tego używania;
-3) usterki niebezpieczne usterki powodujące bezpośrednie zagrożenie bezpieczeństwa ruchu drogowego lub naruszające wymagania ochrony środowiska, w stopniu uniemożliwiającym używanie pojazdu w ruchu drogowym, które powodują niedopuszczenie do dalszego używania pojazdu.
+1) usterki drobne – usterki bez znaczącego wpływu na bezpieczeństwo pojazdu lub wymagania ochrony środowiska, które nie powodują ograniczenia w dalszym używaniu pojazdu;
+2) usterki poważne – usterki mogące zagrażać bezpieczeństwu ruchu drogowego lub naruszać wymagania ochrony środowiska albo inne istotne nieprawidłowości, które dają podstawę do ograniczenia dalszego używania pojazdu oraz określenia warunków tego używania;
+3) usterki niebezpieczne – usterki powodujące bezpośrednie zagrożenie bezpieczeństwa ruchu drogowego lub naruszające wymagania ochrony środowiska, w stopniu uniemożliwiającym używanie pojazdu w ruchu drogowym, które powodują niedopuszczenie do dalszego używania pojazdu.
 5. W przypadku stwierdzenia podczas drogowej kontroli technicznej pojazdu usterek zaliczanych do więcej niż jednej kategorii, wynik tej kontroli klasyfikuje się na podstawie najpoważniejszej kategorii usterki.
 6. W przypadku stwierdzenia podczas drogowej kontroli technicznej kilku usterek w tych samych obszarach kontroli, o których mowa w ust. 2, wynik kontroli może być sklasyfikowany na podstawie poważniejszej kategorii usterek, jeżeli ich skumulowany wpływ skutkuje wzrostem zagrożenia dla bezpieczeństwa ruchu drogowego stwarzanego przez pojazd.
 § 6. Podczas drogowej kontroli technicznej żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych:
-1) sprawdza dokumentację, o której mowa w art. 38 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, zwanej dalej „ustawą”, wymaganą dla danego rodzaju pojazdu;
+1) sprawdza dokumentację, o której mowa w art. 38 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zwanej dalej „ustawą”, wymaganą dla danego rodzaju pojazdu;
 2) przeprowadza wzrokową ocenę stanu technicznego pojazdu;
 3) może przeprowadzić wzrokową ocenę zabezpieczenia ładunku;
 4) może sprawdzić stan techniczny za pomocą właściwych metod, w tym z użyciem przyrządu kontrolno-pomiarowego będącego w jego dyspozycji.
 § 7. 1. Drogowa kontrola techniczna może obejmować również zabezpieczenie ładunku.
 2. Kontrola zabezpieczenia ładunku polega w szczególności na wzrokowej ocenie zastosowania odpowiednich środków zabezpieczających oraz w uzasadnionych przypadkach na sprawdzeniu świadectw środków zabezpieczających.
 3. Usterki stwierdzone podczas drogowej kontroli technicznej zabezpieczenia ładunku klasyfikuje się do jednej z kategorii:
-1) usterki drobne w przypadku gdy ładunek został odpowiednio zabezpieczony, ale wskazane byłoby oznaczenie dotyczące zachowania bezpieczeństwa;
-2) usterki poważne w przypadku gdy ładunek nie został wystarczająco dobrze zabezpieczony i możliwe jest znaczące przesunięcie lub przewrócenie ładunku lub jego części;
-3) usterki niebezpieczne w przypadku gdy dochodzi do:
+1) usterki drobne – w przypadku gdy ładunek został odpowiednio zabezpieczony, ale wskazane byłoby oznaczenie dotyczące zachowania bezpieczeństwa;
+2) usterki poważne – w przypadku gdy ładunek nie został wystarczająco dobrze zabezpieczony i możliwe jest znaczące przesunięcie lub przewrócenie ładunku lub jego części;
+3) usterki niebezpieczne – w przypadku gdy dochodzi do:
 a) bezpośredniego zagrożenia bezpieczeństwa ruchu drogowego ze względu na możliwość utraty ładunku lub jego części lub
 b) zagrożenia wynikającego bezpośrednio z ładunku, lub
 c) bezpośredniego narażenia ludzi na niebezpieczeństwo.
@@ -108,7 +108,7 @@ c) bezpośredniego narażenia ludzi na niebezpieczeństwo.
 § 12. Jeżeli żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych podczas kontroli kierującego, posiadającego prawo jazdy lub pozwolenie na kierowanie tramwajem, stwierdzi, że istnieją uzasadnione i poważne zastrzeżenia co do kwalifikacji kierującego, występuje do starosty z wnioskiem o skierowanie tej osoby na egzamin sprawdzający kwalifikacje. Wniosek podpisuje dowódca jednostki wojskowej lub upoważniona przez niego osoba.
 § 13. Jeżeli w wyniku weryfikacji danych o pojeździe oraz danych o dokumentach pojazdu w centralnej ewidencji pojazdów okaże się, że pojazd nie figuruje w tej ewidencji, żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych ustala, na podstawie rozmowy z kierującym, czy jest to pojazd zarejestrowany w trybie art. 73 ust. 3 ustawy, którego dane są zgromadzone w wyodrębnionym zbiorze, o którym mowa w art. 80a ust. 3 ustawy. W takim przypadku weryfikacja danych o pojeździe następuje na podstawie dokumentu stwierdzającego dopuszczenie pojazdu do ruchu, a weryfikacja danych o obowiązkowym ubezpieczeniu odpowiedzialności cywilnej posiadacza pojazdu może nastąpić na podstawie dokumentów okazanych przez kierującego pojazdem lub po skontaktowaniu się za pośrednictwem środków łączności z organem, który pojazd zarejestrował.
 § 14. Żołnierze Żandarmerii Wojskowej albo żołnierze wojskowych organów porządkowych pilotują przejazd kolumny pojazdów niebędących pojazdami nienormatywnymi na podstawie zezwolenia wojskowego, o którym mowa w przepisach wydanych na podstawie art. 64i ust. 4 ustawy.
-§ 15. 1. Pojazdem pilotującym jest oznakowany pojazd Żandarmerii Wojskowej albo wojskowych organów porządkowych, z wyjątkiem motocykla, wysyłający błyskowe sygnały świetlne w kolorze niebieskim, a w przypadku pilotowania kolumn pojazdów dodatkowo sygnały świetlne w kolorze czerwonym.
+§ 15. 1. Pojazdem pilotującym jest oznakowany pojazd Żandarmerii Wojskowej albo wojskowych organów porządkowych, z wyjątkiem motocykla, wysyłający błyskowe sygnały świetlne w kolorze niebieskim, a w przypadku pilotowania kolumn pojazdów – dodatkowo sygnały świetlne w kolorze czerwonym.
 2. W przypadku pilotowania kolumn pojazdów uprzywilejowanych pojazd Żandarmerii Wojskowej albo wojskowych organów porządkowych wysyła dodatkowo sygnały dźwiękowe o zmiennym tonie.
 § 16. 1. W razie wystąpienia istotnych utrudnień w ruchu drogowym lub zagrożenia jego bezpieczeństwa żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych może przerwać przejazd pilotowanej kolumny pojazdów.
 2. Po ustaniu przyczyn, o których mowa w ust. 1, pilotowanie przejazdu pojazdów wznawia się.
@@ -118,7 +118,7 @@ c) bezpośredniego narażenia ludzi na niebezpieczeństwo.
 2) komendanta oddziału Żandarmerii Wojskowej właściwego ze względu na miejsce rozpoczęcia pilotowania, gdy trasa przejazdu przebiega tylko przez obszar jego właściwości, za pośrednictwem środków komunikacji elektronicznej, lub
 3) Komendanta Głównego Żandarmerii Wojskowej, gdy trasa przejazdu przebiega przez obszary właściwości co najmniej dwóch oddziałów Żandarmerii Wojskowej, za pośrednictwem środków komunikacji elektronicznej.
 § 18. 1. Kierowanie ruchem drogowym w związku z pilotowaniem przejazdu pojazdów wojskowych, w tym podczas szkolenia, polega na wydawaniu poleceń i dawaniu sygnałów świetlnych lub dźwiękowych uczestnikom ruchu w celu krótkotrwałego zamknięcia lub otwarcia ruchu na drodze na czas przejazdu pojazdów wojskowych.
-2. Żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych poruszający się pojazdem pilotującym wydaje polecenia chwilowego zatrzymania w warunkach dostatecznej widoczności tarczą do zatrzymywania pojazdów lub ręką, a w warunkach niedostatecznej widoczności latarką ze światłem czerwonym albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym. Polecenia określonego zachowania można wydawać uczestnikom ruchu drogowego za pomocą urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych.
+2. Żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych poruszający się pojazdem pilotującym wydaje polecenia chwilowego zatrzymania w warunkach dostatecznej widoczności tarczą do zatrzymywania pojazdów lub ręką, a w warunkach niedostatecznej widoczności – latarką ze światłem czerwonym albo tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym. Polecenia określonego zachowania można wydawać uczestnikom ruchu drogowego za pomocą urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych.
 3. Polecenia i sygnały, o których mowa w ust. 1, powinny być jednoznaczne i zrozumiałe dla osób, do których są skierowane.
 4. Do kierowania ruchem drogowym w związku z pilotowaniem przejazdu pojazdów wojskowych odpowiednio stosuje się przepisy wydane na podstawie art. 6 ust. 4 pkt 1 i 2 ustawy.
 § 19. 1. Przed przystąpieniem do kierowania ruchem drogowym żołnierz Żandarmerii Wojskowej albo żołnierz wojskowych organów porządkowych powiadamia właściwą miejscowo jednostkę organizacyjną Policji o miejscu wykonywania czynności.
@@ -165,7 +165,7 @@ Minister Obrony Narodowej: z up. W. Skurkiewicz KLASYFIKACJA USTEREK ZABEZPIECZE
 20.1.3.3 Niewystarczające mocowanie siatek i pokryć X Wytrzymałość mocowania mniejsza niż 2/3 wymaganych sił mocujących X
 20.1.3.4 Niewłaściwy dobór siatek i pokryć do zabezpieczenia ładunku X Sprzęt całkowicie nieodpowiedni X
 20.1.4 Oddzielenie jednostek ładunku i wypełnienie przestrzeni między nimi lub odstępów od innych elementów
-20.1.4.1 Stopień adekwatności oddzielenia jednostek i wypełnienia pustych przestrzeni X Zbyt duże odległości między jednostkami lub odstępy od stałych elementów X
+20.1.4.1 Stopień adekwatności oddzielenia jednostek i wypełnienia pustych prze- X strzeni Zbyt duże odległości między jednostkami lub odstępy od stałych elementów X
 20.1.5 Bezpośrednie mocowanie (poziome, poprzeczne, skośne, mieszane i wiązania)
 20.1.5.1 Zbyt małe siły mocujące X Mniej niż 2/3 wymaganej siły X
 20.2 Zabezpieczenie przez zwiększenie tarcia
@@ -176,7 +176,7 @@ Minister Obrony Narodowej: z up. W. Skurkiewicz KLASYFIKACJA USTEREK ZABEZPIECZE
 20.3.2 Brak/uszkodzenie oznakowania (np. etykiety lub zawieszki), ale urządzenie X jest w dobrym stanie Brak/uszkodzenie oznakowania (np. etykiety lub zawieszki) i urządzenie X wykazuje duże zużycie
 20.3.3 Uszkodzenie urządzeń do unieruchamiania ładunku X Poważnie zużyte i nienadające się do wykorzystania urządzenia do unieru- X chamiania ładunku
 20.3.4 Niewłaściwe zastosowanie napinaczy pasów X Uszkodzone napinacze pasów X
-20.3.5 Niewłaściwe użycie urządzeń unieruchamiających ładunek (np. brak narożników zabezpieczających ładunek) X Wadliwe użycie urządzeń unieruchamiających ładunek (np. węzły) X
+20.3.5 Niewłaściwe użycie urządzeń unieruchamiających ładunek (np. brak naroż- X ników zabezpieczających ładunek) Wadliwe użycie urządzeń unieruchamiających ładunek (np. węzły) X
 20.3.6 Nieodpowiednie mocowanie urządzeń do unieruchamiania ładunku X Mniej niż 2/3 wymaganej siły X
 20.4 Wyposażenie dodatkowe (np. maty przeciwpoślizgowe, zabezpieczenie krawędzi, ślizgi krawędziowe)
 20.4.1 Zastosowano nieodpowiedni sprzęt X Zastosowano zły lub wadliwy sprzęt X Zastosowano całkowicie nieodpowiedni sprzęt X

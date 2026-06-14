@@ -8,10 +8,10 @@ pos: 1154
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 września 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1154 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 6 sierpnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001154) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1154/text.pdf) |
 
-OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 6 sierpnia 2014 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 25 lutego 2003 r. w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych (Dz. U. Nr 51, poz. 440), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Rady Ministrów z dnia 29 sierpnia 2006 r. zmieniającym rozporządzenie w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych (Dz. U.
@@ -40,16 +39,17 @@ poz. 89).
 3) § 2 rozporządzenia Rady Ministrów z dnia 7 stycznia 2013 r. zmieniającego rozporządzenie w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych (Dz. U. poz. 89), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE RADY MINISTRÓW z dnia 25 lutego 2003 r.
 w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych Na podstawie art. 9 ust. 2 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2013 r.
-poz. 763) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 763) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe warunki i tryb rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych oraz z tytułu wykupienia ze środków budżetu państwa skapitalizowanych odsetek od kredytów mieszkaniowych, a także wzory formularzy tych rozliczeń;
 2) szczegółowe zasady rozliczania przez banki środków wpłacanych przez kredytobiorców na spłatę kredytów mieszkaniowych;
 3) sposób oprocentowania odsetek przejściowo wykupionych ze środków budżetu państwa;
 4) tryb składania przez kredytobiorców i rozpatrywania przez banki wniosków o zawieszenie spłaty kredytu;
 5) szczegółowe zasady zawierania umów z bankami i ich zakres.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) „ustawie” należy przez to rozumieć ustawę z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych;
-2) „kredycie” należy przez to rozumieć kredyt, o którym mowa w art. 1 ust. 2 ustawy;
-3) „gospodarstwie domowym kredytobiorcy” należy przez to rozumieć gospodarstwo prowadzone przez osoby wspólnie zamieszkujące, bez względu na stopień pokrewieństwa i fakt czy razem, czy oddzielnie się utrzymują.
+1) „ustawie” – należy przez to rozumieć ustawę z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych;
+2) „kredycie” – należy przez to rozumieć kredyt, o którym mowa w art. 1 ust. 2 ustawy;
+3) „gospodarstwie domowym kredytobiorcy” – należy przez to rozumieć gospodarstwo prowadzone przez osoby wspólnie zamieszkujące, bez względu na stopień pokrewieństwa i fakt czy razem, czy oddzielnie się utrzymują.
 § 3. 1. Przejściowe wykupienie ze środków budżetu państwa należności banków z tytułu niespłaconych przez kredytobiorców odsetek od kredytów, o których mowa w art. 7 ustawy, zaciągniętych przez spółdzielnie mieszkaniowe, następuje, z zastrzeżeniem ust. 3, jeżeli kredytobiorca spłaca kredyt w kwocie nie niższej za jeden miesiąc od kwoty stanowiącej iloczyn powierzchni użytkowej lokali obciążonych kredytem oraz normatywu spłaty kredytu w przeliczeniu na 1 m powierzchni użytkowej, określonego zgodnie z art. 7 ust. 2 ustawy.
 2. Członek spółdzielni lub osoba niebędąca członkiem spółdzielni, której przysługuje spółdzielcze własnościowe prawo do lokalu, zajmujący lokal obciążony kredytem, o którym mowa w ust. 1, są obowiązani do wnoszenia, na poczet spłaty kredytu w części przypadającej na zajmowany przez nich lokal, wpłat w kwocie nie niższej za jeden miesiąc od kwoty stanowiącej iloczyn powierzchni użytkowej tego lokalu oraz normatywu spłaty kredytu w przeliczeniu na 1 m powierzchni użytkowej, o którym mowa w ust. 1.
 3. Przejściowym wykupieniem ze środków budżetu państwa należności banków z tytułu odsetek od kredytów, o których mowa w ust. 1, może być objęta część należności z tego tytułu, dotycząca członków spółdzielni lub osób niebędących członkami spółdzielni, którym przysługują spółdzielcze własnościowe prawa do lokali, spłacających kredyt w wysokości określonej w ust. 2, pod warunkiem prowadzenia przez spółdzielnię analitycznej ewidencji zadłużenia z tytułu kredytu w części przypadającej na zajmowane przez nich lokale oraz umożliwienia bankowi kontroli tej ewidencji.
@@ -64,13 +64,13 @@ poz. 763) zarządza się, co następuje: § 1. Rozporządzenie określa:
 4. W przypadku kredytów, których obsługę prowadzą banki spółdzielcze będące w upadłości, umowy, o których mowa w ust. 1, mogą być zawierane z tymi bankami przez banki zrzeszające banki spółdzielcze, w imieniu ministra właściwego do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz ministra właściwego do spraw finansów publicznych, na podstawie udzielonego im pełnomocnictwa.
 § 6. Banki sporządzają kwartalne rozliczenia, przedstawiając ministrowi właściwemu do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa:
 1) rozliczenia z tytułu przejściowego wykupienia naliczonych za dany kwartał odsetek od kredytów, o których mowa w:
-a) art. 7 ustawy według wzoru stanowiącego załącznik nr 1 do rozporządzenia,
-b) art. 8 ustawy według wzoru stanowiącego załącznik nr 2 do rozporządzenia,
-c) art. 11 ustawy, w zakresie dotyczącym kredytów, których spłata została zawieszona na podstawie art. 8a ustawy według wzoru stanowiącego załącznik nr 3 do rozporządzenia;
+a) art. 7 ustawy – według wzoru stanowiącego załącznik nr 1 do rozporządzenia,
+b) art. 8 ustawy – według wzoru stanowiącego załącznik nr 2 do rozporządzenia,
+c) art. 11 ustawy, w zakresie dotyczącym kredytów, których spłata została zawieszona na podstawie art. 8a ustawy – według wzoru stanowiącego załącznik nr 3 do rozporządzenia;
 2) informacje o stanie zadłużenia kredytobiorców z tytułu kredytu wraz ze skapitalizowanymi odsetkami oraz z tytułu przejściowego wykupienia odsetek wraz z oprocentowaniem tych odsetek, dotyczące kredytów, od których odsetki naliczone za dany kwartał nie są przedstawione do przejściowego wykupienia:
-a) dla kredytów, o których mowa w art. 7 ustawy według wzoru stanowiącego załącznik nr 4 do rozporządzenia,
-b) dla kredytów, o których mowa w art. 8 ustawy według wzoru stanowiącego załącznik nr 5 do rozporządzenia,
-c) dla kredytów, o których mowa w art. 11 ustawy według wzoru stanowiącego załącznik nr 6 do rozporządzenia.
+a) dla kredytów, o których mowa w art. 7 ustawy – według wzoru stanowiącego załącznik nr 4 do rozporządzenia,
+b) dla kredytów, o których mowa w art. 8 ustawy – według wzoru stanowiącego załącznik nr 5 do rozporządzenia,
+c) dla kredytów, o których mowa w art. 11 ustawy – według wzoru stanowiącego załącznik nr 6 do rozporządzenia.
 § 7. 1. Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przekazuje bankom środki na przejściowe wykupienie odsetek i na wynagrodzenie, o którym mowa w art. 6 ust. 2b ustawy.
 2. Banki przekazują na rachunek urzędu obsługującego ministra właściwego do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa środki wpłacone przez kredytobiorców z tytułu zwrotu nominalnych kwot umorzeń kredytów mieszkaniowych wraz z odsetkami, o których mowa w art. 10 ust. 1b ustawy, oraz środki zaliczone na spłatę zadłużenia z tytułu przejściowego wykupienia odsetek wraz z oprocentowaniem tych odsetek.
 § 8. Przepisy § 5, § 6 i § 7 ust. 1 stosuje się odpowiednio do rozliczeń z bankami z tytułu wykupienia ze środków budżetu państwa skapitalizowanych odsetek, o których mowa w art. 10 ust. 1 pkt 5 oraz w art. 11 ust. 3 i 6 ustawy.
@@ -112,11 +112,11 @@ b) pozostałą część zadłużenia.
 WZÓR ................................
 ROZLICZENIE z tytułu przejściowego wykupienia przez budżet państwa niespłaconych przez kredytobiorców odsetek od kredytów mieszkaniowych, o których mowa w art. 7 ustawy z dnia 30 listopada 1995 r.
 o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych za okres .........
-w złotych Kredyty mieszkaniowe w okresie spłaty Lp. Wyszczególnienie budownictwo spółdzielcze budownictwo razem (3+4) indywidualne 1 2 3 4 5 1 Stan zadłużenia kredytobiorców na koniec kwartału poprzedzającego rozliczenie z tego z tytułu:
+w złotych Kredyty mieszkaniowe w okresie spłaty Lp. Wyszczególnienie budownictwo budownictwo spółdzielcze indywidualne razem (3+4) 1 2 3 4 5 1 Stan zadłużenia kredytobiorców na koniec kwartału poprzedzającego rozliczenie z tego z tytułu:
 1.1 kredytu wraz ze skapitalizowanymi odsetkami
 1.2 przejściowego wykupienia odsetek z tego z tytułu:
 1.2.1 przejściowego wykupienia odsetek wraz z oprocentowaniem tych odsetek naliczonym do końca roku poprzedniego
-1.2.2 oprocentowania odsetek przejściowo wykupionych, naliczonego w danym roku 2 Średni stan kredytów w kwartale 3 Stopa procentowa kredytów w kwartale 4 Stopa procentowa odsetek przejściowo wykupionych w kwartale 5 Spłata zadłużenia z tytułu kredytu wraz ze skapitalizowanymi odsetkami oraz spłata odsetek dokonana przez Skarb Państwa w kwartale x 6 Odsetki za poprzednie kwartały podlegające przejściowemu wykupieniu w związku ze spłatą x dokonaną przez Skarb Państwa, wykazaną w lp. 5 7 Spłata zadłużenia przez kredytobiorców w kwartale z tego:
+1.2.2 oprocentowania odsetek przejściowo wykupionych, naliczonego w danym roku 2 Średni stan kredytów w kwartale 3 Stopa procentowa kredytów w kwartale 4 Stopa procentowa odsetek przejściowo wykupionych w kwartale 5 Spłata zadłużenia z tytułu kredytu wraz ze skapitalizowanymi odsetkami oraz spłata x odsetek dokonana przez Skarb Państwa w kwartale 6 Odsetki za poprzednie kwartały podlegające przejściowemu wykupieniu w związku ze spłatą x dokonaną przez Skarb Państwa, wykazaną w lp. 5 7 Spłata zadłużenia przez kredytobiorców w kwartale z tego:
 7.1 spłata kredytu wraz ze skapitalizowanymi odsetkami oraz spłata odsetek naliczonych za kwartał
 7.2 spłata zadłużenia z tytułu przejściowego wykupienia odsetek z tego:
 7.2.1 spłata zadłużenia z tytułu przejściowego wykupienia odsetek wraz z oprocentowaniem tych odsetek naliczonym do końca roku poprzedniego 1 2 3 4 5
@@ -190,7 +190,7 @@ Sporządził: ...........................................................
 …………………………………… WZÓR ................................
 INFORMACJA o stanie zadłużenia kredytobiorców z tytułu kredytów wraz ze skapitalizowanymi odsetkami oraz z tytułu odsetek przejściowo wykupionych wraz z oprocentowaniem tych odsetek, dotycząca kredytów mieszkaniowych, o których mowa w art. 7 ustawy z dnia 30 listopada 1995 r.
 o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych za okres .........
-w złotych Kredyty mieszkaniowe w okresie spłaty Lp. Wyszczególnienie budownictwo spółdzielcze budownictwo indywidualne razem (3+4) 1 2 3 4 5 1 Stan zadłużenia kredytobiorców na koniec kwartału poprzedzającego rozliczenie z tego z tytułu:
+w złotych Kredyty mieszkaniowe w okresie spłaty Lp. Wyszczególnienie budownictwo budownictwo spółdzielcze indywidualne razem (3+4) 1 2 3 4 5 1 Stan zadłużenia kredytobiorców na koniec kwartału poprzedzającego rozliczenie z tego z tytułu:
 1.1 kredytu wraz ze skapitalizowanymi odsetkami
 1.2 przejściowego wykupienia odsetek z tego z tytułu:
 1.2.1 przejściowego wykupienia odsetek wraz z oprocentowaniem tych odsetek naliczonym do końca roku poprzedniego
@@ -220,7 +220,7 @@ Sporządził: ...........................................................
 …………………………………… WZÓR ................................
 INFORMACJA o stanie zadłużenia kredytobiorców z tytułu kredytów wraz ze skapitalizowanymi odsetkami oraz z tytułu odsetek przejściowo wykupionych wraz z oprocentowaniem tych odsetek, dotycząca kredytów mieszkaniowych, o których mowa w art. 8 ustawy z dnia 30 listopada 1995 r.
 o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych za okres ..............................
-w złotych Kredyty mieszkaniowe Lp. Wyszczególnienie budownictwo wielorodzinne budownictwo jednorodzinne razem (3+4) 1 2 3 4 5 1 Stan zadłużenia kredytobiorców na koniec kwartału poprzedzającego rozliczenie z tego z tytułu:
+w złotych Kredyty mieszkaniowe Lp. Wyszczególnienie budownictwo budownictwo wielorodzinne jednorodzinne razem (3+4) 1 2 3 4 5 1 Stan zadłużenia kredytobiorców na koniec kwartału poprzedzającego rozliczenie z tego z tytułu:
 1.1 kredytu wraz ze skapitalizowanymi odsetkami
 1.2 przejściowego wykupienia odsetek z tego z tytułu:
 1.2.1 przejściowego wykupienia odsetek wraz z oprocentowaniem tych odsetek naliczonym do końca roku poprzedniego
@@ -259,7 +259,7 @@ w złotych Lp. Wyszczególnienie Kredyty mieszkaniowe w okresie spłaty (budowni
 6.2.2 spłata zadłużenia z tytułu oprocentowania odsetek przejściowo wykupionych, naliczonego w danym roku
 6.3 spłata odsetek przedstawionych do przejściowego wykupienia w poprzednich kwartałach 7 Kwota odsetek naliczonych za kwartał z tego:
 7.1 spłaconych przez kredytobiorców
-7.2 skapitalizowanych 8 Kwota umorzenia zadłużenia z tytułu przejściowego wykupienia odsetek w kwartale 1 2 3
+7.2 skapitalizowanych 8 Kwota umorzenia zadłużenia z tytułu przejściowego wykupienia odsetek w kwartale z tego: 1 2 3
 8.1 kwota umorzenia zadłużenia z tytułu przejściowego wykupienia odsetek wraz z oprocentowaniem tych odsetek naliczonym do końca roku poprzedniego
 8.2 kwota umorzenia zadłużenia z tytułu oprocentowania odsetek przejściowo wykupionych, naliczonego w danym roku 9 Kwota odsetek skapitalizowanych podlegających wykupieniu 10 Kwota odsetek przejściowo wykupionych w kwartale w tym:
 10.1 kwota odsetek przejściowo wykupionych w kwartale spłacona przez kredytobiorców przed ich wykupieniem przez budżet państwa 11 Kwota oprocentowania zadłużenia z tytułu odsetek przejściowo wykupionych, naliczona za kwartał 12 Kwota oprocentowania zadłużenia z tytułu odsetek przejściowo wykupionych, anulowana w kwartale 13 Kwota oprocentowania zadłużenia z tytułu odsetek przejściowo wykupionych, podlegająca skapitalizowaniu na koniec roku 14 Stan zadłużenia kredytobiorców na koniec kwartału narastająco z tego z tytułu:

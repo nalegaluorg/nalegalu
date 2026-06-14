@@ -8,10 +8,10 @@ pos: 787
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 maja 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 778877 OBWIESZCZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 kwietnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000787) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/787/text.pdf) |
 
-OBWIESZCZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 kwietnia 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej Polskiej w sprawie zasad i trybu odbywania aplikacji administracyjnej w Biurze Krajowej Rady Radiofonii i Telewizji, wykazu stanowisk objętych aplikacją oraz zasad i wypadków dopuszczających zaliczenie aplikacji oraz zwolnienie od jej odbywania
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 28 czerwca 2019 r. w sprawie zasad i trybu odbywania aplikacji administracyjnej w Biurze Krajowej Rady Radiofonii i Telewizji, wykazu stanowisk objętych aplikacją oraz zasad i wypadków dopuszczających zaliczenie aplikacji oraz zwolnienie od jej odbywania (Dz. U. poz. 1237), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2023 r. zmieniającym rozporządzenie w sprawie zasad i trybu odbywania aplikacji administracyjnej w Biurze Krajowej Rady Radiofonii i Telewizji, wykazu stanowisk objętych aplikacją oraz zasad i wypadków dopuszczających zaliczenie aplikacji oraz zwolnienie od jej odbywania (Dz. U. poz. 2612).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2023 r. zmieniającego rozporządzenie w sprawie zasad i trybu odbywania aplikacji administracyjnej w Biurze Krajowej Rady Radiofonii i Telewizji, wykazu stanowisk objętych aplikacją oraz zasad i wypadków dopuszczających zaliczenie aplikacji oraz zwolnienie od jej odbywania (Dz. U. poz. 2612), które stanowią: „§ 2. Do aplikacji administracyjnej rozpoczętej przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy w brzmieniu dotychczasowym.
 § 3. Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.”.
 Prezydent Rzeczypospolitej Polskiej: A. Duda ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 czerwca 2019 r.
 w sprawie zasad i trybu odbywania aplikacji administracyjnej w Biurze Krajowej Rady Radiofonii i Telewizji, wykazu stanowisk objętych aplikacją oraz zasad i wypadków dopuszczających zaliczenie aplikacji oraz zwolnienie od jej odbywania Na podstawie art. 48 ust. 1 pkt 4 w związku z art. 7 ust. 6 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917) zarządza się, co następuje:
+§ 1. Aplikacja administracyjna, zwana dalej „aplikacją”, ma na celu teoretyczne i praktyczne przygotowanie pracownika, podejmującego w Biurze Krajowej Rady Radiofonii i Telewizji, zwanym dalej „Biurem”, po raz pierwszy pracę w urzędzie państwowym, do należytego wykonywania obowiązków urzędnika państwowego.
+§ 2. Przewodniczący Krajowej Rady Radiofonii i Telewizji, zwany dalej „Przewodniczącym”, kieruje na aplikację pracownika, który spełnia łącznie następujące kryteria:
 1) podjął po raz pierwszy zatrudnienie w urzędzie państwowym;
 2) jest zatrudniony w Biurze co najmniej trzy miesiące;
 3) wykonuje pracę na stanowisku określonym w wykazie stanowisk w Biurze objętych aplikacją, stanowiącym załącznik nr 1 do rozporządzenia.
@@ -39,7 +40,7 @@ w sprawie zasad i trybu odbywania aplikacji administracyjnej w Biurze Krajowej R
 2. Wzór wniosku o skierowanie pracownika Biura na aplikację określa załącznik nr 2 do rozporządzenia.
 § 4. 1. Termin rozpoczęcia aplikacji określa kierownik aplikacji.
 2. Aplikacja rozpoczyna się nie później niż po upływie czterech miesięcy od dnia nawiązania z pracownikiem stosunku pracy.
-§ 5. Na wniosek kierującego komórką organizacyjną Biura, w której pracownik świadczy pracę, Przewodniczący może zaliczyć na poczet aplikacji uprzednie zatrudnienie pracownika o ile gwarantuje ono posiadanie przez pracownika wiedzy i umiejętności odpowiednich na zajmowanym stanowisku i skrócić mu okres aplikacji do sześciu miesięcy.
+§ 5. Na wniosek kierującego komórką organizacyjną Biura, w której pracownik świadczy pracę, Przewodniczący może zaliczyć na poczet aplikacji uprzednie zatrudnienie pracownika – o ile gwarantuje ono posiadanie przez pracownika wiedzy i umiejętności odpowiednich na zajmowanym stanowisku – i skrócić mu okres aplikacji do sześciu miesięcy.
 § 6. 1. W przypadku zaistnienia istotnych okoliczności uniemożliwiających aplikantowi odbywanie aplikacji Przewodniczący może zdecydować o zawieszeniu odbywania przez niego aplikacji, a tym samym o zawieszeniu wykonywania obowiązków przez opiekuna tego aplikanta, do czasu ustania okoliczności uniemożliwiających odbywanie aplikacji.
 2. Po ustaniu okoliczności, o których mowa w ust. 1, Przewodniczący decyduje o podjęciu zawieszonej aplikacji oraz sposobie i harmonogramie jej kontynuowania.
 § 7. 1. Od odbywania aplikacji może być zwolniony pracownik, który wykaże się wymaganą wiedzą z teoretycznego i praktycznego zakresu aplikacji.
@@ -47,6 +48,7 @@ w sprawie zasad i trybu odbywania aplikacji administracyjnej w Biurze Krajowej R
 3. Wzór wniosku o zwolnienie od odbywania aplikacji w Biurze określa załącznik nr 3 do rozporządzenia.
 4. Decyzja odmowna w sprawie zwolnienia od odbywania aplikacji stanowi podstawę do niezwłocznego złożenia wniosku o skierowanie pracownika na aplikację.
 § 8. Wnioski, o których mowa w rozporządzeniu, kierujący komórką organizacyjną, w której pracownik świadczy pracę, składa Przewodniczącemu za pośrednictwem kierownika aplikacji.
+§ 9. 1. Aplikacją kieruje kierownik aplikacji.
 2. Kierownika aplikacji wyznacza Przewodniczący, jeżeli w Biurze skierowano do odbycia aplikacji lub aplikację odbywa co najmniej sześciu aplikantów. W pozostałych przypadkach obowiązki i uprawnienia kierownika aplikacji wykonuje opiekun aplikanta, zwany dalej „opiekunem”.
 3. Do obowiązków kierownika aplikacji i opiekunów należy kierowanie kształceniem teoretycznym, wykonywaniem zadań praktycznych i samokształceniem aplikantów oraz udzielanie im pomocy we wdrażaniu się do pracy w Biurze i przygotowaniu do egzaminu końcowego.
 § 10. 1. Kierownikiem aplikacji może być pracownik Biura posiadający co najmniej siedmioletni staż pracy, w tym trzyletni staż pracy w Biurze.
@@ -58,6 +60,7 @@ w sprawie zasad i trybu odbywania aplikacji administracyjnej w Biurze Krajowej R
 § 12. 1. W sytuacji gdy jest to niezbędne dla prawidłowego przebiegu aplikacji, na czas nieobecności kierownika aplikacji Przewodniczący wyznacza osobę zastępującą kierownika aplikacji spośród opiekunów, z wyłączeniem opiekunów sprawujących opiekę nad dwoma aplikantami jednocześnie.
 2. Opiekun zastępujący kierownika aplikacji wykonuje obowiązki opiekuna w stosunku do pozostającego pod jego opieką aplikanta. Opiekun ten nie może zostać wyznaczony na opiekuna kolejnego aplikanta.
 3. Opiekunowi zastępującemu kierownika aplikacji przysługują, w czasie sprawowania zastępstwa, obowiązki i uprawnienia kierownika aplikacji.
+§ 13. Aplikacja obejmuje:
 1) wykłady lub konwersatoria z teoretycznego zakresu aplikacji;
 2) zajęcia praktyczne pozwalające na zapoznanie się z pracą w Biurze;
 3) samokształcenie aplikantów.
@@ -93,6 +96,7 @@ c) organizacji i funkcjonowania organów władzy publicznej i administracji publ
 1) nabytej przez aplikanta wiedzy z teoretycznego i praktycznego zakresu aplikacji;
 2) biegłości w wykonywaniu przez aplikanta obowiązków służbowych;
 3) stosunku aplikanta do współpracowników i interesantów, po zasięgnięciu opinii kierującego komórką organizacyjną, w której pracownik świadczy pracę.
+§ 18. Kierownik aplikacji, w uzgodnieniu z Przewodniczącym, wyznacza termin egzaminu końcowego na dzień przypadający nie wcześniej niż na dwa miesiące przed zakończeniem aplikacji.
 § 19. 1. W skład komisji egzaminacyjnej wchodzą:
 1) kierownik aplikacji jako przewodniczący komisji;
 2) dyrektor departamentu, w którym aplikant świadczy pracę, wicedyrektor tego departamentu albo pracownik Biura wyznaczony do zastępowania dyrektora tego departamentu, o ile taka osoba nie jest już w składzie komisji.
@@ -106,9 +110,10 @@ c) organizacji i funkcjonowania organów władzy publicznej i administracji publ
 4. Podczas egzaminu końcowego aplikant udziela odpowiedzi na pięć pytań.
 5. Odpowiedzi na poszczególne pytania podlegają ocenom cząstkowym, wskazanym przez poszczególne osoby wchodzące w skład komisji egzaminacyjnej, w czterostopniowej skali ocen (od 2 do 5).
 6. Średnia arytmetyczna ocen cząstkowych oznacza następujący wynik egzaminu końcowego:
-1) od 4,51 do 5,0 ocenę bardzo dobrą;
-2) od 3,51 do 4,50 ocenę dobrą;
-3) od 2,91 do 3,50 ocenę dostateczną;
+1) od 4,51 do 5,0 – ocenę bardzo dobrą;
+2) od 3,51 do 4,50 – ocenę dobrą;
+3) od 2,91 do 3,50 – ocenę dostateczną;
+4) 2,90 i poniżej – ocenę niedostateczną.
 § 21. 1. Komisja egzaminacyjna ustala ocenę kwalifikacyjną na podstawie wyniku egzaminu końcowego, z uwzględnieniem opinii opiekuna, o której mowa w § 17 ust. 1.
 2. Kierownik aplikacji przedkłada opinię opiekuna komisji egzaminacyjnej najpóźniej w dniu egzaminu końcowego.
 § 22. 1. Po ustaleniu oceny kwalifikacyjnej komisja egzaminacyjna sporządza protokół.
@@ -120,6 +125,7 @@ c) organizacji i funkcjonowania organów władzy publicznej i administracji publ
 2. Ponowny egzamin końcowy odbywa się przed upływem dwunastomiesięcznego okresu aplikacji.
 § 25. 1. Aplikant, który uzyskał pozytywną ocenę kwalifikacyjną, otrzymuje zaświadczenie o ukończeniu aplikacji w Biurze.
 2. Wzór zaświadczenia o ukończeniu aplikacji w Biurze określa załącznik nr 5 do rozporządzenia.
+§ 26. Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.
 WYKAZ STANOWISK W BIURZE KRAJOWEJ RADY RADIOFONII I TELEWIZJI OBJĘTYCH APLIKACJĄ ADMINISTRACYJNĄ
 1) Dyrektor Biura;
 2) wicedyrektor Biura;
@@ -218,15 +224,15 @@ odbył(a) aplikację administracyjną w Biurze Krajowej Rady Radiofonii i Telewi
 ............................................................................... r. z oceną kwalifikacyjną ................................................................................................................................................................................................... .
 .................................................................. ..............................................................................
 
-#### Rozdział 1 Postanowienia ogólne § 1. Aplikacja administracyjna, zwana dalej „aplikacją”, ma na celu teoretyczne i praktyczne przygotowanie pracownika, podejmującego w Biurze Krajowej Rady Radiofonii i Telewizji, zwanym dalej „Biurem”, po raz pierwszy pracę w urzędzie państwowym, do należytego wykonywania obowiązków urzędnika państwowego.
+#### Rozdział 1 Postanowienia ogólne
 
-#### Rozdział 2 Obowiązek odbywania aplikacji § 2. Przewodniczący Krajowej Rady Radiofonii i Telewizji, zwany dalej „Przewodniczącym”, kieruje na aplikację pracownika, który spełnia łącznie następujące kryteria:
+#### Rozdział 2 Obowiązek odbywania aplikacji
 
-#### Rozdział 3 Kierownik aplikacji i opiekunowie aplikantów § 9. 1. Aplikacją kieruje kierownik aplikacji.
+#### Rozdział 3 Kierownik aplikacji i opiekunowie aplikantów
 
-#### Rozdział 4 Program i przebieg aplikacji § 13. Aplikacja obejmuje:
+#### Rozdział 4 Program i przebieg aplikacji
 
-#### Rozdział 5 Egzamin końcowy i ocena kwalifikacyjna § 18. Kierownik aplikacji, w uzgodnieniu z Przewodniczącym, wyznacza termin egzaminu końcowego na dzień przypadający nie wcześniej niż na dwa miesiące przed zakończeniem aplikacji.
+#### Rozdział 5 Egzamin końcowy i ocena kwalifikacyjna
 
-#### Rozdział 6 Przepis końcowy § 26. Rozporządzenie wchodzi w życie z dniem 7 lipca 2019 r.
+#### Rozdział 6 Przepis końcowy
 

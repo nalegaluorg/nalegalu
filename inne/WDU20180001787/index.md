@@ -8,10 +8,10 @@ pos: 1787
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 września 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1787 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 12 września 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001787) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1787/text.pdf) |
 
-Poz. 1787 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 12 września 2018 r.
 w sprawie kryteriów oceny programowej Na podstawie art. 248 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz.
-poz. 1668) zarządza się, co następuje: § 1. Kryteriami oceny programowej są:
+poz. 1668) zarządza się, co następuje:
+§ 1. Kryteriami oceny programowej są:
 1) sposób konstrukcji programu studiów oraz jego zgodność ze standardem kształcenia;
 2) realizacja programu studiów;
 3) warunki przyjęć na studia i weryfikacji uzyskiwanych efektów uczenia się, w tym na etapie egzaminu dyplomowego;

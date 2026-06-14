@@ -8,7 +8,7 @@ pos: 1547
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej, ustawy o referendum ogólnokrajowym oraz ustawy - Ordynacja wyborcza do Parlamentu Europejskiego
@@ -28,6 +28,25 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092021547) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1547/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2000 r. Nr 47, poz. 544, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** dodaje się art. 40da w brzmieniu: „Art. 40da. Na wniosek komitetu odpowiednie organy mają obowiązek wydać decyzję o nadaniu numeru REGON i NIP, najpóźniej do końca drugiego dnia roboczego następującego po dniu zgłoszenia wniosku o nadanie numeru.”;
+- **2)** uchyla się art. 40e;
+- **3)** w art. 84 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Komitet ma obowiązek utworzenia, w terminie 7 dni od dnia zarejestrowania komitetu, swojej strony internetowej, na której umieszcza się informacje określone w ustawie.
+
+3. Pełnomocnik informuje Państwową Komisję Wyborczą o utworzeniu strony internetowej komitetu i jej adresie w terminie 7 dni od dnia zarejestrowania komitetu. Państwowa Komisja Wyborcza podaje informację o adresach stron internetowych zarejestrowanych komitetów w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm. ), zwanym dalej „Biuletynem Informacji Publicznej”. ”;
+
+- **4)** w art. 84a uchyla się ust. 2;
+- **5)** dodaje się art. 84ba w brzmieniu: „Art. 84ba. Odpowiedzialność za zobowiązania majątkowe komitetu ponoszą solidarnie osoby wchodzące w skład komitetu.”;
+- **6)** art. 85-87a otrzymują brzmienie: „Art. 85. 1. Środki finansowe komitetu mogą pochodzić jedynie z wpłat osób fizycznych oraz wpłat z funduszy wyborczych partii politycznych tworzonych na podstawie przepisów ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz.U. z 2001 r. Nr 79, poz. 857, z późn. zm. ), z zastrzeżeniem ust. 2-4.
+
+2. Komitet nie może przyjmować środków finansowych pochodzących od:
+
+- **1)** osób fizycznych niemających miejsca zamieszkania na terenie Rzeczypospolitej Polskiej, z wyłączeniem obywateli polskich zamieszkałych za granicą;
+- **2)** cudzoziemców mających miejsce zamieszkania na terenie Rzeczypospolitej Polskiej.
+
+3. Komitetowi nie wolno przyjmować wartości niepieniężnych, z wyjątkiem nieodpłatnych usług polegających na rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne.
+
+4. Komitet może zaciągać kredyty bankowe tylko na cele związane z wyborami. Poręczycielem kredytu może być wyłącznie osoba fizyczna, z tym, że zobowiązanie poręczyciela nie może być wyższe od wymienionej w art. 86 ust. 5 łącznej sumy wpłat od osoby fizycznej. Ograniczenie wysokości zobowiązania poręczyciela nie dotyczy osób wchodzących w skład komitetu.
 
 **Art. 86.**
 
@@ -139,7 +158,59 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 14 marca 2004 r. o referendum ogólnokrajowym (Dz. U. z 2003 r. Nr 57, poz. 507 i Nr 85, poz. 782, z 2007 r. Nr 112, poz. 766 oraz z 2009 r. Nr 68, poz. 573) wprowadza się następujące zmiany:
 
+- **1)** w art. 90:
+    - **a)** w ust. 1 dodaje się pkt 1a w brzmieniu: „1a) zaświadczenia o prawie do głosowania wydaje się zgodnie z przepisami dotyczącymi właściwych wyborów; zaświadczenie upoważnia do wzięcia udziału we wskazanym w nim głosowaniu w wyborach oraz w odbywającym się w tym samym terminie głosowaniu w referendum;”,
+    - **b)** dodaje się ust. 1a w brzmieniu: „1a. W przypadku przeprowadzenia referendum w tym samym dniu, w którym odbywają się wybory do Parlamentu Europejskiego, przepisy ust. 1 stosuje się odpowiednio, z tym, że:
+
+- **1)** głosowanie w referendum przeprowadza się w tych samych dniach, w których odbywa się głosowanie w wyborach do Parlamentu Europejskiego;
+- **2)** w referendum mogą wziąć udział wyłącznie osoby ujęte w części A spisu wyborców;
+- **3)** zaświadczenia o prawie do głosowania wydane zgodnie z przepisami dotyczącymi wyborów do Parlamentu Europejskiego upoważniają do wzięcia udziału w referendum wyłącznie obywateli Rzeczypospolitej Polskiej; dopisuje się ich do spisu wyborców w części A;
+- **4)** zadania komisarzy wyborczych wykonują rejonowe komisje wyborcze powołane do przeprowadzenia wyborów do Parlamentu Europejskiego.”;
+- **2)** w art. 92 dodaje się ust. 3 w brzmieniu: „3. W przypadku przeprowadzenia referendum w tym samym dniu co wybory do Parlamentu Europejskiego, w sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 23 stycznia 2004 r. Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219, z późn. zm. ).”.
+
 **Art. 3.** W ustawie z dnia 23 stycznia 2004 r. - Ordynacja wyborcza do Parlamentu Europejskiego (Dz.U. z 2004 r. Nr 25, poz. 219, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 ust. 1 otrzymuje brzmienie: „1. W Rzeczypospolitej Polskiej wybiera się posłów do Parlamentu Europejskiego w liczbie określonej w przepisach prawa Unii Europejskiej.”;
+- **2)** w art. 10 dodaje się ust. 3 i 4 w brzmieniu: „3. Głosowanie w wyborach przeprowadza się w ciągu 2 dni.
+
+4. Termin głosowania określa się na dzień wolny od pracy oraz dzień go poprzedzający.”;
+
+- **3)** w art. 32 dodaje się ust. 3 w brzmieniu: „3. Dla osób kończących 18 lat w drugim dniu głosowania sporządza się dodatkowy spis.”;
+- **4)** art. 101 otrzymuje brzmienie: „Art. 101. 1. Korzyści majątkowe przyjęte przez komitet wyborczy z naruszeniem przepisów ustawy podlegają przepadkowi na rzecz Skarbu Państwa. Jeżeli korzyść majątkowa została zużyta lub utracona, przepadkowi podlega jej równowartość.
+
+2. Przepis ust. 1 nie dotyczy korzyści majątkowych przekazanych komitetowi wyborczemu z naruszeniem przepisów ustawy, których komitet wyborczy nie przyjął lub które zwrócił w terminie 30 dni od dnia przekazania.
+
+3. Przepis ust. 1 nie dotyczy korzyści majątkowych przekazanych komitetowi wyborczemu z naruszeniem przepisów ustawy, które to korzyści lub ich równowartość zostały, w terminie 14 dni od dnia doręczenia komitetowi wyborczemu postanowienia o odrzuceniu jego sprawozdania wyborczego, a w przypadku skargi, o której mowa w art. 97 ust. 1 - w terminie 14 dni od dnia uprawomocnienia się orzeczenia wydanego przez Sąd Najwyższy, dobrowolnie wpłacone na konto urzędu skarbowego właściwego dla siedziby komitetu. Korzyści majątkowe o charakterze niepieniężnym komitet wyborczy przekazuje temu urzędowi skarbowemu. Potwierdzenie przekazania korzyści majątkowej lub jej równowartości komitet wyborczy przedstawia Państwowej Komisji Wyborczej.
+
+4. Przyjęcie korzyści majątkowych z naruszeniem przepisów ustawy stwierdza Państwowa Komisja Wyborcza w postanowieniu o odrzuceniu sprawozdania wyborczego.
+
+5. W przypadku niewykonania czynności, o których mowa w ust. 3 zdanie pierwsze i drugie, albo jednej z tych czynności, Państwowa Komisja Wyborcza występuje do sądu przeciwko podmiotom, o których mowa w art. 56, o orzeczenie przepadku korzyści majątkowej lub jej równowartości oraz wydanie tej korzyści majątkowej lub zapłatę jej równowartości.
+
+6. Sądem właściwym do orzekania w sprawach, o których mowa w ust. 1, jest Sąd Okręgowy w Warszawie.
+
+7. Egzekucja korzyści majątkowej lub jej równowartości następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji. Organem egzekucyjnym jest naczelnik urzędu skarbowego właściwy miejscowo dla siedziby komitetu wyborczego.
+
+8. Przejęte rzeczy ruchome, wierzytelności i inne prawa majątkowe naczelnik urzędu skarbowego spienięża według przepisów o egzekucji należności pieniężnych w postępowaniu egzekucyjnym w administracji.
+
+9. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się przepisy o postępowaniu nieprocesowym.”;
+
+- **5)** art. 106 otrzymuje brzmienie: „Art. 106. 1. Głosowanie odbywa się w lokalu odwodowej komisji wyborczej, zwanym dalej „lokalem wyborczym”, każdego z dni bez przerwy od godziny 8.00 do godziny 20.00, a przerwa następuje od godziny 20.00 pierwszego dnia do godziny 8.00 drugiego dnia.
+
+2. Głosowanie w obwodach głosowania utworzonych w szpitalach, zakładach pomocy społecznej, zakładach karnych lub aresztach śledczych może zakończyć się drugiego dnia głosowania wcześniej niż o godzinie określonej w ust. 1 w przypadku oddania głosu przez wszystkich wyborców. Skrócenie czasu głosowania zarządza obwodowa komisja wyborcza, po porozumieniu z kierownikiem szpitala, zakładu pomocy społecznej, zakładu karnego lub aresztu śledczego, powiadamiając o tym wyborców, wójta lub burmistrza (prezydenta miasta) oraz właściwą okręgową komisję wyborczą.
+
+3. Głosowanie w obwodach głosowania utworzonych na polskich statkach morskich oraz za granicą odbywa się każdego z dni od godziny 8.00 do 20.00 czasu miejscowego, z przerwą od godziny
+
+20. 00 pierwszego dnia do godziny 8.00 drugiego dnia. Jeżeli głosowanie miałoby być zakończone w dniu następnym po drugim dniu głosowania w kraju, głosowanie rozpoczyna się w dniu poprzedzającym pierwszy dzień głosowania w kraju.”;
+
+- **6)** dodaje się art. 106a-106g w brzmieniu: „Art. 106a. 1. Wyborca, który przez właściwy organ orzekający został zaliczony do osób o znacznym lub umiarkowanym stopniu niepełnosprawności, z uwzględnieniem art. 62 ust. 1 i 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz o zatrudnianiu osób niepełnosprawnych (Dz. U. z 2008 r. Nr 14, poz. 92, z późn. zm. ), może udzielić pełnomocnictwa do głosowania w jego imieniu w wyborach, zwanego dalej „pełnomocnictwem do głosowania”.
+
+2. W przypadku wyborcy, obywatela Unii Europejskiej niebędącego obywatelem polskim, z uprawnienia, o którym mowa w ust. 1, skorzystać może osoba uznana w państwie pochodzenia za niepełnosprawną w stopniu, o którym mowa w ust. 1.
+
+3. Przepis ust. 1 stosuje się również do wyborcy, który najpóźniej w dniu głosowania kończy 75 lat.
+
+4. Głosowanie za pośrednictwem pełnomocnika jest wyłączone w przypadku głosowania odbywającego się w: obwodach głosowania utworzonych w szpitalach, zakładach pomocy społecznej, zakładach karnych lub aresztach śledczych oraz w obwodach głosowania utworzonych za granicą i na polskich statkach morskich.
+
+5. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, wykaz dokumentów wydawanych przez właściwe organy państw członkowskich Unii Europejskiej, potwierdzających uznanie za osobę niepełnosprawną w stopniu, o którym mowa w ust. 1.
 
 **Art. 106b.**
 
@@ -199,7 +270,51 @@ source: "isap-pdf"
 
 **Art. 106g.** Minister właściwy do spraw administracji publicznej, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, szczegółowy tryb postępowania w sprawie sporządzenia aktu pełnomocnictwa do głosowania, wzory: wniosku o sporządzenie aktu pełnomocnictwa do głosowania, zgody na przyjęcie pełnomocnictwa do głosowania i aktu pełnomocnictwa do głosowania, a także wzór i sposób prowadzenia oraz aktualizacji wykazu sporządzanych aktów pełnomocnictwa do głosowania.”;
 
+- **7)** dodaje się art. 108a w brzmieniu: „Art. 108a. 1. Do głosowania przez pełnomocnika mają zastosowanie, z zastrzeżeniem ust. 3-5, przepisy art. 105 ust. 4 i 5.
+
+2. Przed przystąpieniem do głosowania pełnomocnik okazuje obwodowej komisji wyborczej dokument umożliwiający stwierdzenie jego tożsamości oraz akt pełnomocnictwa do głosowania.
+
+3. Obwodowa komisja wyborcza odnotowuje nazwisko i imię pełnomocnika wyborcy w spisie wyborców w rubryce „uwagi” odpowiadającej pozycji, pod którą umieszczono nazwisko wyborcy wraz z oznaczeniem „pełnomocnik”, a akt pełnomocnictwa do głosowania załącza do spisu wyborców.
+
+4. Pełnomocnik potwierdza otrzymanie karty do głosowania własnym czytelnym podpisem w rubryce spisu przeznaczonej na potwierdzenie otrzymania karty do głosowania przez wyborcę udzielającego pełnomocnictwa do głosowania.
+
+5. Jeżeli pełnomocnictwo do głosowania zostało cofnięte lub wygasło, obwodowa komisja wyborcza odmawia wydania pełnomocnikowi karty do głosowania i zatrzymuje akt pełnomocnictwa.”;
+
+- **8)** w art. 115 w ust. 2 dodaje się pkt 3a w brzmieniu: „3a) wyborców głosujących przez pełnomocnika;”;
+- **9)** dodaje się art. 117a w brzmieniu: „Art. 117a. 1. Komisja obwodowa ustala wyniki głosowania po zakończeniu głosowania w drugim dniu.
+
+2. Komisja obwodowa po zakończeniu głosowania w pierwszym dniu:
+
+- **1)** zapieczętowuje otwór urny;
+- **2)** ustala protokolarnie:
+    - **a)** liczbę niewykorzystanych kart do głosowania,
+    - **b)** liczbę osób uprawnionych do głosowania, czyli liczbę osób ujętych w spisie wyborców,
+    - **c)** liczbę kart wydanych - na podstawie podpisów osób w spisie wyborców.
+
+3. Po wykonaniu czynności, o których mowa w ust. 2, komisja obwodowa umieszcza w opieczętowanych pakietach odrębnie karty niewykorzystane i spis wyborców, które wraz z urną pozostają w lokalu komisji.
+
+4. Po zakończeniu głosowania w pierwszym dniu i wykonaniu czynności, o których mowa w ust. 2 i 3, przewodniczący komisji zamyka lokal komisji i opieczętowuje wejście do lokalu pieczęcią komisji. Wójt lub burmistrz (prezydent miasta) zapewnia ochronę lokalu komisji w czasie przerwy w głosowaniu.
+
+5. Dane, o których mowa w ust. 2 pkt 2, komisja obwodowa podaje niezwłocznie do wiadomości publicznej, po wykonaniu czynności, o których mowa w ust. 4, przez wywieszenie protokołu w miejscu łatwo dostępnym dla zainteresowanych w budynku, w którym mieści się siedziba komisji; przepis art. 115 ust. 4 stosuje się odpowiednio. Wzór protokołu ustala, w drodze uchwały, Państwowa Komisja Wyborcza.
+
+6. Przed rozpoczęciem głosowania w drugim dniu komisja obwodowa stwierdza protokolarnie, czy pieczęcie na wejściu do lokalu komisji, a także na pakietach z kartami do głosowania oraz ze spisem wyborców, są nienaruszone.
+
+7. Minister właściwy do spraw administracji publicznej, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, szczegółowe wymagania w zakresie ochrony lokalu komisji w czasie przerwy w głosowaniu, w tym również zasady udzielania przez Policję pomocy wójtom, burmistrzom (prezydentom miast) w celu prawidłowej ochrony tych lokali.
+
+8. Szczegółowy sposób wykonywania przez komisję obwodową czynności, o których mowa w ust. 2-6, określa, w drodze uchwały, Państwowa Komisja Wyborcza, zapewniając poszanowanie zasad przeprowadzania wyborów oraz ochronę urny, pakietów i dokumentów związanych z wyborami.
+
+9. Przepisy ust. 2-8 stosuje się do obwodów głosowania utworzonych na polskim statku morskim i za granicą, z tym że:
+
+- **1)** obowiązek zapewnienia ochrony lokalu komisji, o którym mowa w ust. 4, spoczywa odpowiednio na kapitanie statku i konsulu;
+- **2)** minister właściwy do spraw gospodarki morskiej, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, szczegółowe wymagania oraz obowiązki kapitana polskiego statku morskiego w zakresie ochrony lokalu komisji w czasie przerwy w głosowaniu;
+- **3)** minister właściwy do spraw zagranicznych, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, szczegółowe wymagania oraz obowiązki konsula w zakresie ochrony lokalu komisji w czasie przerwy w głosowaniu.”;
+- **10)** w art. 128 w ust. 2 dodaje się pkt 2a w brzmieniu: „2a) wyborców głosujących przez pełnomocnika;”;
+- **11)** w art. 131 w ust. 2 dodaje się pkt 2a w brzmieniu: „2a) wyborców głosujących przez pełnomocnika;”;
+- **12)** dodaje się art. 164a i 164b w brzmieniu: „Art. 164a. Kto pobiera od udzielającego pełnomocnictwa do głosowania opłatę za głosowanie w jego imieniu - podlega karze grzywny.
+
 **Art. 164b.** Kto udziela pełnomocnictwa do głosowania w zamian za jakąkolwiek korzyść majątkową lub osobistą - podlega karze aresztu albo grzywny.”;
+
+- **13)** w art. 166 wyrazy „i art. 157-162” zastępuje się wyrazami „ , art. 157-162, art. 164a i art. 164b.”.
 
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

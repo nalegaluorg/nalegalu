@@ -8,10 +8,10 @@ pos: 1065
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11006655 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 25 kwietnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1065/text.pdf) |
 
-11006655 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 25 kwietnia 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie klasyfikacji lotnisk i rejestru lotnisk
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 5 lipca 2013 r. w sprawie klasyfikacji lotnisk i rejestru lotnisk (Dz. U. z 2018 r. poz. 2145), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 23 grudnia 2022 r. zmieniającym rozporządzenie w sprawie klasyfikacji lotnisk i rejestru lotnisk (Dz. U.
 z 2023 r. poz. 42).
@@ -34,7 +33,8 @@ z 2023 r. poz. 42).
 3. Prezes Urzędu Lotnictwa Cywilnego zaktualizuje rejestr lotnisk cywilnych w terminie 6 miesięcy od dnia otrzymania dokumentacji, o której mowa w ust. 2.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 5 lipca 2013 r.
-w sprawie klasyfikacji lotnisk i rejestru lotnisk Na podstawie art. 63 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie klasyfikacji lotnisk i rejestru lotnisk Na podstawie art. 63 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe zasady klasyfikacji lotnisk;
 2) szczegółowe warunki i tryb prowadzenia rejestru lotnisk, z uwzględnieniem wymagań dotyczących dokumentacji rejestrowej;
 3) wzór rejestru lotnisk;
@@ -47,13 +47,13 @@ b) podlegające tylko wpisowi do rejestru lotnisk;
 a) międzynarodowe,
 b) krajowe;
 2) dostępność dla użytkowników, na:
-a) użytku publicznego: certyfikowane, dla których został wydany certyfikat zgodnie z wymaganiami określonymi w: rozporządzeniu Komisji (UE) nr 139/2014 z dnia 12 lutego 2014 r. ustanawiającym wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 44 z 14.02.2014, str. 1, z późn. zm. ), przepisach wydanych na podstawie art. 59a ust. 5, art. 83 ust. 1, art. 85 i art. 92 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze, zwanej dalej „ustawą”, o ograniczonej certyfikacji dla których został wydany certyfikat zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 59a ust. 6, art. 83 ust. 1, art. 85 i art. 92 ust. 2 pkt 1 i 2 ustawy, niepodlegające certyfikacji utworzone zgodnie z art. 54 ust. 7 ustawy,
+a) użytku publicznego: – certyfikowane, dla których został wydany certyfikat zgodnie z wymaganiami określonymi w: – – rozporządzeniu Komisji (UE) nr 139/2014 z dnia 12 lutego 2014 r. ustanawiającym wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 44 z 14.02.2014, str. 1, z późn. zm. ), – – przepisach wydanych na podstawie art. 59a ust. 5, art. 83 ust. 1, art. 85 i art. 92 ust. 2 pkt 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zwanej dalej „ustawą”, – o ograniczonej certyfikacji – dla których został wydany certyfikat zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 59a ust. 6, art. 83 ust. 1, art. 85 i art. 92 ust. 2 pkt 1 i 2 ustawy, – niepodlegające certyfikacji – utworzone zgodnie z art. 54 ust. 7 ustawy,
 b) użytku wyłącznego.
 § 3. Według kryteriów technicznych lotniska dzielą się, ze względu na:
 1) umiejscowienie:
 a) naziemne,
 b) nawodne,
-c) na obiektach w szczególności znajdujące się na budynkach, platformach lub statkach;
+c) na obiektach – w szczególności znajdujące się na budynkach, platformach lub statkach;
 2) rodzaj drogi startowej, na:
 a) o nawierzchni sztucznej,
 b) bez nawierzchni sztucznej;
@@ -64,7 +64,7 @@ b) dla śmigłowców,
 c) dla samolotów i śmigłowców;
 5) kategorię podejść do lądowania, na:
 a) z drogą startową nieprzyrządową,
-b) z drogą startową przyrządową z podejściem: nieprecyzyjnym z naziemnymi urządzeniami nawigacyjnymi, nieprecyzyjnym z satelitarnymi systemami nawigacyjnymi, precyzyjnym kategorii I, precyzyjnym kategorii II, precyzyjnym kategorii IIIA, precyzyjnym kategorii IIIB, precyzyjnym kategorii IIIC;
+b) z drogą startową przyrządową z podejściem: – nieprecyzyjnym z naziemnymi urządzeniami nawigacyjnymi, – nieprecyzyjnym z satelitarnymi systemami nawigacyjnymi, – precyzyjnym kategorii I, – precyzyjnym kategorii II, – precyzyjnym kategorii IIIA, – precyzyjnym kategorii IIIB, – precyzyjnym kategorii IIIC;
 6) kategorię ochrony przeciwpożarowej lotniska, określoną w przepisach wydanych na podstawie art. 85 ustawy.
 § 4. 1. Rejestr lotnisk, zwany dalej „rejestrem”, składa się z:
 1) księgi rejestru lotnisk;
@@ -92,8 +92,8 @@ g) okres eksploatacji lotniska (całoroczna, sezonowa, okresowa, dzienna albo no
 h) położenie punktu odniesienia lotniska według Światowego Systemu Geodezyjnego (WGS 84), określone przez szerokość i długość geograficzną,
 i) wysokość wyjściową lotniska określoną w metrach nad poziomem morza;
 3) dane rejestrowe lotniska, obejmujące:
-a) znak i datę wniosku oraz nazwę wnioskodawcy występującego o promesę zezwolenia na założenie lotniska jeżeli został złożony,
-b) znak i datę decyzji w sprawie promesy zezwolenia na założenie lotniska oraz nazwę organu wydającego decyzję jeżeli została wydana,
+a) znak i datę wniosku oraz nazwę wnioskodawcy występującego o promesę zezwolenia na założenie lotniska – jeżeli został złożony,
+b) znak i datę decyzji w sprawie promesy zezwolenia na założenie lotniska oraz nazwę organu wydającego decyzję – jeżeli została wydana,
 c) znak i datę wniosku oraz nazwę wnioskodawcy występującego o zezwolenie na założenie lotniska,
 d) znak i datę decyzji w sprawie zezwolenia na założenie lotniska oraz nazwę organu wydającego zezwolenie,
 e) znak i datę wniosku oraz nazwę wnioskodawcy występującego o wpis lotniska do rejestru,
@@ -118,7 +118,7 @@ a) położenie punktu odniesienia lotniska według Światowego Systemu Geodezyjn
 b) wysokość wyjściową lotniska określoną w metrach nad poziomem morza,
 c) powierzchnię lotniska w jego granicach określoną w hektarach,
 d) powierzchnię lotniska w granicach części lotniczej lotniska określoną w hektarach,
-e) klasyfikację lotniska, określającą: zakres ruchu statków powietrznych, dostępność dla użytkowników lotniska, umiejscowienie lotniska, rodzaj nawierzchni głównej drogi startowej, kod referencyjny lotniska, rodzaj przyjmowanych statków powietrznych, kategorię podejścia do lądowania głównej drogi startowej, kategorię ochrony przeciwpożarowej,
+e) klasyfikację lotniska, określającą: – zakres ruchu statków powietrznych, – dostępność dla użytkowników lotniska, – umiejscowienie lotniska, – rodzaj nawierzchni głównej drogi startowej, – kod referencyjny lotniska, – rodzaj przyjmowanych statków powietrznych, – kategorię podejścia do lądowania głównej drogi startowej, – kategorię ochrony przeciwpożarowej,
 f) wykaz służb lotniskowych i ich wyposażenia,
 g) rodzaj zasilania lotniska w energię elektryczną (dwustronnie, jednostronnie, agregat awaryjny);
 3) dane dotyczące pola wzlotów, obejmujące dane wszystkich dróg startowych albo stref końcowego podejścia i startu (FATO) oraz pasów dróg startowych dotyczące:
@@ -130,7 +130,7 @@ e) szerokości określonej w metrach,
 f) azymutu określonego w stopniach,
 g) wzniesienia ich końców nad poziom morza określonego w metrach,
 h) rodzaju nawierzchni,
-i) nośności określonej przez liczbę klasyfikacyjną nawierzchni PCN (Pavement Classification Number) lub maksymalną masę startową (MTOM);
+i) nośności określonej przez liczbę klasyfikacyjną nawierzchni – PCN (Pavement Classification Number) lub maksymalną masę startową (MTOM);
 4) informacje dotyczące wyposażenia lotniska w urządzenia nawigacyjne, obejmujące:
 a) oznaczenie,
 b) rodzaj urządzeń radionawigacyjnych,
@@ -176,20 +176,20 @@ d) adnotacji;
 a) obiekty infrastruktury lotniska,
 b) granica lotniska,
 c) lokalizacja ogrodzenia lotniska,
-d) krzyże kresek w narożnikach mapy oraz w punkcie odniesienia lotniska (ARP Aerodrome Reference Point) wraz z ich współrzędnymi w układzie odniesienia według Światowego Systemu Geodezyjnego (WGS 84) z rozdzielczością zapisu 0,01 sekundy,
+d) krzyże kresek w narożnikach mapy oraz w punkcie odniesienia lotniska (ARP – Aerodrome Reference Point) wraz z ich współrzędnymi w układzie odniesienia według Światowego Systemu Geodezyjnego (WGS 84) z rozdzielczością zapisu 0,01 sekundy,
 e) zatwierdzona granica części lotniczej lotniska;
-2) mapę, o której mowa w art. 55 ust. 3 pkt 8 ustawy, dla lotniska dla samolotów opracowaną na podkładzie mapy topograficznej w skali 1:25 000, a dla lotniska dla śmigłowców na podkładzie mapy zasadniczej w skali 1:5000, na której są zaznaczone:
+2) mapę, o której mowa w art. 55 ust. 3 pkt 8 ustawy, dla lotniska dla samolotów opracowaną na podkładzie mapy topograficznej w skali 1:25 000, a dla lotniska dla śmigłowców – na podkładzie mapy zasadniczej w skali 1:5000, na której są zaznaczone:
 a) powierzchnie ograniczające przeszkody na lotnisku i w jego otoczeniu,
 b) istniejące przeszkody lotnicze i wysokości ich najwyższych punktów zgodnie z geodezyjnym układem wysokościowym PL-EVRF2007-NH z rozdzielczością zapisu 0,1 m, określone w metrach nad poziomem morza i nad poziomem terenu oraz powyżej powierzchni ograniczających przeszkody, wraz z opisem ich oznakowania,
 c) granica lotniska,
-d) krzyże kresek w narożnikach mapy oraz w punkcie odniesienia lotniska (ARP Aerodrome Reference Point) wraz z ich współrzędnymi w układzie odniesienia według Światowego Systemu Geodezyjnego (WGS 84) z rozdzielczością zapisu 0,01 sekundy,
+d) krzyże kresek w narożnikach mapy oraz w punkcie odniesienia lotniska (ARP – Aerodrome Reference Point) wraz z ich współrzędnymi w układzie odniesienia według Światowego Systemu Geodezyjnego (WGS 84) z rozdzielczością zapisu 0,01 sekundy,
 e) układ dróg startowych i dróg kołowania lotniska;
 3) profile pól wznoszenia i podejścia, o których mowa w art. 55 ust. 3 pkt 9 ustawy, wykonane w postaci profilu podłużnego po osi drogi startowej oraz strefy podejść w skali 1:1000/25 000 dla lotniska dla samolotów oraz w skali 1:500/5000 dla lotniska dla śmigłowców, co najmniej w ograniczeniach wysokości zabudowy na lotnisku i w jego otoczeniu.
 2. Dokumenty, o których mowa w ust. 1 pkt 1 i 2, gromadzi się w postaciach:
-1) rastrowych plików elektronicznych w formacie TIFF wraz z plikiem referencji przestrzennej o minimalnej rozdzielczości rastra mapy wynoszącej 400 dpi;
+1) rastrowych plików elektronicznych w formacie TIFF wraz z plikiem referencji przestrzennej – o minimalnej rozdzielczości rastra mapy wynoszącej 400 dpi;
 2) wektorowej, w odniesieniu przestrzennym do układu odniesienia według Światowego Systemu Geodezyjnego (WGS 84), w jednym z powszechnie przyjętych formatów wymiany danych przestrzennych: .dwg, .dxf, .dgn, .shp albo .kml, które pozwalają na odczytanie z poszczególnych rekordów informacji o geometrii oraz uzupełniającej informacji opisowej, bez podkładu topograficznego.
 3. Dokumenty, o których mowa w ust. 1, gromadzi się w postaci cyfrowych zbiorów danych, stosując format danych, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57).
-4. Dokumenty, o których mowa w ust. 1, są potwierdzane przez osobę posiadającą uprawnienia zawodowe, o których mowa w art. 43 pkt 1 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990, z 2022 r. poz. 1846 i 2185 oraz z 2023 r. poz. 803), w zakresie parametrów lokalizacyjnych i wysokościowych przeszkód lotniczych, jeżeli uzyskanie tych parametrów wymagało pomiarów geodezyjnych w terenie.
+4. Dokumenty, o których mowa w ust. 1, są potwierdzane przez osobę posiadającą uprawnienia zawodowe, o których mowa w art. 43 pkt 1 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990, z 2022 r. poz. 1846 i 2185 oraz z 2023 r. poz. 803), w zakresie parametrów lokalizacyjnych i wysokościowych przeszkód lotniczych, jeżeli uzyskanie tych parametrów wymagało pomiarów geodezyjnych w terenie.
 § 7. 1. Istotne zmiany eksploatacyjnych i technicznych cech lotniska, wymagające uzyskania zezwolenia Prezesa Urzędu Lotnictwa Cywilnego, zwanego dalej „Prezesem”, dotyczą:
 1) granicy lotniska;
 2) lokalizacji ogrodzenia lotniska;
@@ -210,37 +210,37 @@ e) układ dróg startowych i dróg kołowania lotniska;
 2) zgłasza zmiany danych lotniska podlegających wpisowi do rejestru;
 3) nie rzadziej niż raz na 5 lat oraz w przypadku zmiany cech techniczno-eksploatacyjnych lotniska dokonuje przeglądu danych, informacji i dokumentów, o których mowa w § 4 ust. 4, i dokumentów, o których mowa w § 6 ust. 1, oraz:
 a) aktualizuje je i przekazuje Prezesowi w wersji papierowej i elektronicznej albo
-b) przekazuje Prezesowi oświadczenie o ich aktualności w przypadku stwierdzenia w wyniku przeglądu, że nie ma konieczności wprowadzenia zmian do tych dokumentów;
-4) wraz z aktualizacją wykazu przeszkód lotniczych przekazuje Prezesowi dokumentację geodezyjną aktualizowanych przeszkód lotniczych potwierdzoną w zakresie parametrów lokalizacyjnych i wysokościowych przeszkód lotniczych przez osobę posiadającą uprawnienia zawodowe, o których mowa w art. 43 pkt 1 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, jeżeli uzyskanie tych parametrów wymagało pomiarów geodezyjnych w terenie;
-5) przekazuje Prezesowi, nie rzadziej niż raz na 24 miesiące, w formie tabelarycznej, aktualne informacje o nieruchomościach znajdujących się w granicy lotniska oraz granicy części lotniczej lotniska wraz z poświadczeniem prawa dysponowania tymi nieruchomościami w formie umowy cywilnoprawnej lub poświadczonego zgodnie z ustawą z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) aktu notarialnego lub wypisu z ewidencji gruntów sporządzonego nie wcześniej niż 3 miesiące przed dniem przekazania, lub odpisu zwykłego z księgi wieczystej sporządzonego nie wcześniej niż 6 miesięcy przed dniem przekazania wraz z wyrysem z mapy ewidencyjnej nieruchomości znajdujących się w granicy lotniska oraz granicy części lotniczej lotniska, która zawiera aktualny przebieg tych granic, lub oświadczenie o aktualności powyższych dokumentów stwierdzających prawo dysponowania nieruchomościami znajdującymi się w granicy lotniska oraz granicy części lotniczej lotniska, jeżeli stan prawny tych nieruchomości nie uległ zmianie.
+b) przekazuje Prezesowi oświadczenie o ich aktualności – w przypadku stwierdzenia w wyniku przeglądu, że nie ma konieczności wprowadzenia zmian do tych dokumentów;
+4) wraz z aktualizacją wykazu przeszkód lotniczych przekazuje Prezesowi dokumentację geodezyjną aktualizowanych przeszkód lotniczych potwierdzoną w zakresie parametrów lokalizacyjnych i wysokościowych przeszkód lotniczych przez osobę posiadającą uprawnienia zawodowe, o których mowa w art. 43 pkt 1 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, jeżeli uzyskanie tych parametrów wymagało pomiarów geodezyjnych w terenie;
+5) przekazuje Prezesowi, nie rzadziej niż raz na 24 miesiące, w formie tabelarycznej, aktualne informacje o nieruchomościach znajdujących się w granicy lotniska oraz granicy części lotniczej lotniska wraz z poświadczeniem prawa dysponowania tymi nieruchomościami w formie umowy cywilnoprawnej lub poświadczonego zgodnie z ustawą z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) aktu notarialnego lub wypisu z ewidencji gruntów sporządzonego nie wcześniej niż 3 miesiące przed dniem przekazania, lub odpisu zwykłego z księgi wieczystej sporządzonego nie wcześniej niż 6 miesięcy przed dniem przekazania – wraz z wyrysem z mapy ewidencyjnej nieruchomości znajdujących się w granicy lotniska oraz granicy części lotniczej lotniska, która zawiera aktualny przebieg tych granic, lub oświadczenie o aktualności powyższych dokumentów stwierdzających prawo dysponowania nieruchomościami znajdującymi się w granicy lotniska oraz granicy części lotniczej lotniska, jeżeli stan prawny tych nieruchomości nie uległ zmianie.
 1a. Zarządzający lotniskiem, wnioskując o uzyskanie zezwolenia na dokonanie istotnych zmian eksploatacyjnych i technicznych cech lotniska, przekazuje Prezesowi:
 1) dokumenty, o których mowa w art. 55 ust. 3 ustawy, dotyczące tych zmian;
 2) uzasadnienie wnioskowanych zmian;
-3) analizę bezpieczeństwa, o której mowa w przepisach wydanych na podstawie art. 83 ust. 1 ustawy, uwzględniającą wpływ zmiany na powierzchnie ograniczające przeszkody i powierzchnie ograniczające zabudowę, o ile występują, określającą jednoznacznie, że wnioskowane zmiany nie będą stanowić niedopuszczalnego zagrożenia dla ruchu statków powietrznych na lotnisku oraz dla ochrony w lotnictwie cywilnym w przypadku lotniska użytku publicznego.
+3) analizę bezpieczeństwa, o której mowa w przepisach wydanych na podstawie art. 83 ust. 1 ustawy, uwzględniającą wpływ zmiany na powierzchnie ograniczające przeszkody i powierzchnie ograniczające zabudowę, o ile występują, określającą jednoznacznie, że wnioskowane zmiany nie będą stanowić niedopuszczalnego zagrożenia dla ruchu statków powietrznych na lotnisku oraz dla ochrony w lotnictwie cywilnym – w przypadku lotniska użytku publicznego.
 2. Zakładający lotnisko lub zarządzający lotniskiem użytku publicznego o ograniczonej certyfikacji w dokumentach, o których mowa w art. 59 ust. 3 ustawy, uwzględnia dane dotyczące lotniska i statków powietrznych oraz rodzaje lotów, określone przez Prezesa w decyzji, o której mowa w art. 59a ust. 2 ustawy.
 § 9. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-WZÓR TECZKI REJESTRACYJNEJ LOTNISKA TECZKA REJESTRACYJNA LOTNISKA Numer rejestracyjny lotniska nazwa lotniska powiat województwo WZÓR TECZKI REJESTRACYJNEJ LOTNISKA SKRÓTY I OZNACZENIA ZASTOSOWANE W REJESTRZE LOTNISK ALS system świateł podejścia ARP punkt odniesienia lotniska DCKG dokowanie DME radiodalmierz (D)VOR radiolatarnia kierunkowa FATO strefa końcowego podejścia i startu GBAS system wspomagający bazujący na wyposażeniu naziemnym HRP punkt odniesienia lotniska ILS LOC lokalizator systemu lądowania według przyrządów ILS GP ścieżka podejścia systemu lądowania według przyrządów L lokator (lokalizator) LIH duże natężenie światła LIL małe natężenie światła LIM średnie natężenie światła MLS mikrofalowy system lądowania MTOM maksymalna masa do startu PAPI/APAPI/HAPI– wzrokowy wskaźnik ścieżki podejścia PCN liczba klasyfikacyjna nawierzchni REDL światła krawędzi drogi startowej RENL światła końca drogi startowej RTHL światła progowe drogi startowej SALS uproszczony system świateł podejścia VAGS wzrokowy system naprowadzania I. PODSTAWOWE DANE REJESTROWE LOTNISKA
+Dziennik UstaDwz iennik Ustaw – 9 – – 11 – Poz. 810 Poz. 1065 Załącznik do rozporządzenia Ministra Infrastruktury z dnia 23 grudnia 2022 r. (Dz. U. poz. ...) WZÓR TECZKI REJESTRACYJNEJ LOTNISKA WZÓR TECZKI REJESTRACYJNEJ LOTNISKA Numer rejestracyjny lotniska TECZKA REJESTRACYJNA LOTNISKA nazwa lotniska powiat województwo SKRÓTY I OZNACZENIA ZASTOSOWANE W REJESTRZE LOTNISK ALS – system świateł podejścia ARP – punkt odniesienia lotniska DCKG – dokowanie DME – radiodalmierz (D)VOR – radiolatarnia kierunkowa FATO – strefa końcowego podejścia i startu GBAS – system wspomagający bazujący na wyposażeniu naziemnym HRP – punkt odniesienia lotniska ILS LOC – lokalizator systemu lądowania według przyrządów ILS GP – ścieżka podejścia systemu lądowania według przyrządów L – lokator (lokalizator) LIH – duże natężenie światła LIL – małe natężenie światła LIM – średnie natężenie światła MLS – mikrofalowy system lądowania MTOM – maksymalna masa do startu PAPI/APAPI/HAPI– wzrokowy wskaźnik ścieżki podejścia PCN – liczba klasyfikacyjna nawierzchni REDL – światła krawędzi drogi startowej RENL – światła końca drogi startowej RTHL – światła progowe drogi startowej SALS – uproszczony system świateł podejścia VAGS – wzrokowy system naprowadzania I. PODSTAWOWE DANE REJESTROWE LOTNISKA
 1. Zakładający lotnisko:
 a) nazwa,
-b) adres: nazwa: województwa, powiatu, gminy, jednostki pomocniczej (sołectwo, dzielnica, osiedle) jeżeli występuje, miejscowości o statusie miasta lub wsi, miejscowości stanowiącej część miasta lub wsi jeżeli występuje, ulicy lub placu, numer porządkowy, kod pocztowy, numer telefonu, numer faksu i adres internetowy.
+b) adres: – nazwa: województwa, powiatu, gminy, jednostki pomocniczej (sołectwo, dzielnica, osiedle) – jeżeli występuje, miejscowości o statusie miasta lub wsi, miejscowości stanowiącej część miasta lub wsi – jeżeli występuje, ulicy lub placu, – numer porządkowy, – kod pocztowy, – numer telefonu, numer faksu i adres internetowy.
 2. Posiadacz nieruchomości, na której znajduje się lotnisko:
 a) nazwa,
-b) adres: nazwa: województwa, powiatu, gminy, jednostki pomocniczej (sołectwo, dzielnica, osiedle) jeżeli występuje, miejscowości o statusie miasta lub wsi, miejscowości stanowiącej część miasta lub wsi jeżeli występuje, ulicy lub placu, numer porządkowy, kod pocztowy, numer telefonu, numer faksu i adres internetowy.
+b) adres: – nazwa: województwa, powiatu, gminy, jednostki pomocniczej (sołectwo, dzielnica, osiedle) – jeżeli występuje, miejscowości o statusie miasta lub wsi, miejscowości stanowiącej część miasta lub wsi – jeżeli występuje, ulicy lub placu, – numer porządkowy, – kod pocztowy, – numer telefonu, numer faksu i adres internetowy.
 3. Zarządzający lotniskiem:
 a) nazwa,
-b) adres: nazwa: województwa, powiatu, gminy, jednostki pomocniczej (sołectwo, dzielnica, osiedle) jeżeli występuje, miejscowości o statusie miasta lub wsi, miejscowości stanowiącej część miasta lub wsi jeżeli występuje, ulicy lub placu, numer porządkowy, kod pocztowy, numer telefonu, numer faksu i adres internetowy.
+b) adres: – nazwa: województwa, powiatu, gminy, jednostki pomocniczej (sołectwo, dzielnica, osiedle) – jeżeli występuje, miejscowości o statusie miasta lub wsi, miejscowości stanowiącej część miasta lub wsi – jeżeli występuje, ulicy lub placu, – numer porządkowy, – kod pocztowy, – numer telefonu, numer faksu i adres internetowy.
 4. Użytkownicy lotniska:
 a) nazwa,
-b) adres: nazwa: województwa, powiatu, gminy, jednostki pomocniczej (sołectwo, dzielnica, osiedle) jeżeli występuje, miejscowości o statusie miasta lub wsi, miejscowości stanowiącej część miasta lub wsi jeżeli występuje, ulicy lub placu, numer porządkowy, kod pocztowy, numer telefonu, numer faksu i adres internetowy.
+b) adres: – nazwa: województwa, powiatu, gminy, jednostki pomocniczej (sołectwo, dzielnica, osiedle) – jeżeli występuje, miejscowości o statusie miasta lub wsi, miejscowości stanowiącej część miasta lub wsi – jeżeli występuje, ulicy lub placu, – numer porządkowy, – kod pocztowy, – numer telefonu, numer faksu i adres internetowy.
 5. Odległość lotniska od najbliższego miasta oraz rodzaj komunikacji z lotniska i do lotniska.
 6. Nazwa stacji kolejowej położonej najbliżej lotniska.
 II. DANE TECHNICZNE LOTNISKA
 1. Położenie punktu odniesienia lotniska (ARP/HRP ) według Światowego Systemu Geodezyjnego (WGS 84):
-a) szerokość geograficzna ...° ...' ..."N,
-b) długość geograficzna ...° ...' ..."E.
-2. Wysokość wyjściowa lotniska (H ) określona w metrach nad poziomem morza ... m.
-3. Powierzchnia lotniska w jego granicach ... ha.
-4. Powierzchnia lotniska w granicach części lotniczej lotniska ... ha.
+a) szerokość geograficzna – ...° ...' ..."N,
+b) długość geograficzna – ...° ...' ..."E.
+2. Wysokość wyjściowa lotniska (H ) określona w metrach nad poziomem morza – ... m.
+3. Powierzchnia lotniska w jego granicach – ... ha.
+4. Powierzchnia lotniska w granicach części lotniczej lotniska – ... ha.
 5. Klasyfikacja lotniska:
 a) zakres ruchu statków powietrznych,
 b) dostępność dla użytkowników lotniska,
@@ -256,8 +256,7 @@ b) obsługi pasażerów,
 c) meteorologiczne,
 d) gaśniczo-ratunkowe,
 e) sanitarne,
-f) inne i ich wyposażenie.
+f) inne – i ich wyposażenie.
 7. Zasilanie lotniska w energię elektryczną (dwustronnie, jednostronnie, agregat awaryjny).
-III. DANE DOTYCZĄCE POLA WZLOTÓW Azymut Nazwa w stopniach Wzniesienia końców drogi startowej Rodzaj Długość w metrach nawierzchni referencyjna nad poziomem w metrach morza Szerokość w metrach Długość koniec koniec Nośność rzeczywista pierwszy drugi (PCN/MTOM) w metrach 1 2 3 4 5 6 7 8 Pas drogi startowej Droga startowa / FATO W W W einezcanzO EMD ROV)D( L MIL LIL HIL SLAS LHTR LNER LDER GKCD SLA IPAH /IPAPA/IPAP SGAV SABG SLM PG SLI COL SLI V. WYKAZ PRZESZKÓD LOTNICZYCH W OTOCZENIU LOTNISKA Położenie przeszkody według Światowego Systemu Geodezyjnego (WGS 84) Numer Rodzaj Lp.
-przeszkody przeszkody Rodzaj Wysokość przeszkody oznakowania w metrach przeszkody Adnotacje 1 2 3 4 5 6 7 8 9 10 11 VI. WYKAZ OBIEKTÓW INFRASTRUKTURY LOTNISKOWEJ Wysokość obiektu w metrach 1 2 3 4 5 6 7 8 9 10 11 VII. WYKAZ MAGAZYNÓW PALIW LOTNICZYCH Łączna Liczba Rodzaj pojemność Lp. zbiorników paliwa zbiorników (szt.) (m Zdolność Liczba wydatkowania punktów jednego punktu Adnotacje wydawania wydawania ) paliwa paliwa (litr/sek.) 1 2 3 4 5 6 7 VIII. WYKAZ URZĄDZEŃ ODWADNIAJĄCYCH LOTNISKO Lp. Rodzaj urządzenia Lokalizacja urządzenia w odniesieniu do elementów Określenie części pola wzlotów odwadnianej Adnotacje (numer drogi startowej, lotniska drogi kołowania lub płyty postojowej) 1 2 3 4 5
+III. DANE DOTYCZĄCE POLA WZLOTÓW Wzniesienia końców drogi startowej Rodzaj Długość w metrach nawierzchni referencyjna Azymut nad poziomem w metrach morza Nazwa Szerokość w w metrach stopniach Długość koniec koniec Nośność rzeczywista pierwszy drugi (PCN/MTOM) w metrach 1 2 3 4 5 6 7 8 Pas drogi startowej Droga startowa / FATO MIL LIL HIL SLAS LHTR W LNER LDER GKCD SLA IPAH W /IPAPA/IPAP SGAV SABG SLM PG SLI W COL SLI EMD ROV)D( L einezcanzO V. WYKAZ PRZESZKÓD LOTNICZYCH W OTOCZENIU LOTNISKA Położenie przeszkody według Rodzaj Wysokość przeszkody Światowego oznakowania w metrach Systemu przeszkody Geodezyjnego (WGS 84) Numer Rodzaj Lp. Adnotacje przeszkody przeszkody 1 2 3 4 5 6 7 8 9 10 11 VI. WYKAZ OBIEKTÓW INFRASTRUKTURY LOTNISKOWEJ Wysokość obiektu w metrach 1 2 3 4 5 6 7 8 9 10 11 VII. WYKAZ MAGAZYNÓW PALIW LOTNICZYCH Zdolność Łączna Liczba Liczba wydatkowania Rodzaj pojemność punktów Lp. zbiorników jednego punktu Adnotacje paliwa zbiorników wydawania (szt.) wydawania (m ) paliwa paliwa (litr/sek.) 1 2 3 4 5 6 7 VIII. WYKAZ URZĄDZEŃ ODWADNIAJĄCYCH LOTNISKO Lokalizacja urządzenia w odniesieniu do elementów Określenie części pola wzlotów Lp. Rodzaj urządzenia odwadnianej Adnotacje (numer drogi startowej, lotniska drogi kołowania lub płyty postojowej) 1 2 3 4 5
 

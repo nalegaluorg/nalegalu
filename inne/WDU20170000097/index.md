@@ -8,10 +8,10 @@ pos: 97
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 stycznia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 97 Załącznik do rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 30 grudnia2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/97/text.pdf) |
 
-SPRAWOZDANIE CENTRUM INTEGRACJI SPOŁECZNEJ ZA ROK ...................
+(poz. .........) WZÓR SPRAWOZDANIE CENTRUM INTEGRACJI SPOŁECZNEJ ZA ROK ...................
 1) Jednostka samorządu terytorialnego
 2) Organizacja pozarządowa
 3) Kościelna osoba prawna
@@ -34,8 +34,8 @@ SPRAWOZDANIE CENTRUM INTEGRACJI SPOŁECZNEJ ZA ROK ...................
 2. WYKORZYSTANIE DOTACJI Wyszczególnienie Wydatkowana kwota (w tys. zł) Wykorzystanie dotacji (ogółem) na pierwsze wyposażenie Centrum przystosowanie do potrzeb uczestników zajęć w Centrum pomieszczeń przeznaczonych na reintegrację zawodową i społeczną wyposażenie pomieszczeń oraz przygotowanie stanowisk pracy, w tym zakup maszyn i urządzeń niezbędnych do prowadzenia działalności, o której mowa w art. 9 ustawy zakup surowców, materiałów i narzędzi niezbędnych do rozpoczęcia działalności na okres pierwszych 3 miesięcy działalności Centrum na bieżącą działalność Centrum
 4.1 pracownik socjalny
 4.2 instruktor zawodu
-4.3 pracownicy odpowiedzialni za dany rodzaj działalności, o którym mowa w art. 9 ustawy
-4.4 osoby prowadzące reintegrację zawodową i społeczną, zaliczające się do kadry Centrum psycholog terapeuta doradca zawodowy pośrednik pracy 5 Pracownicy zatrudnieni w niepełnym wymiarze czasu pracy
+4.3 pracownicy odpowiedzialni za dany rodzaj działalności, o którym mowa w art. 9 ustawy osoby prowadzące reintegrację zawodową
+4.4 i społeczną, zaliczające się do kadry Centrum psycholog terapeuta doradca zawodowy pośrednik pracy 5 Pracownicy zatrudnieni w niepełnym wymiarze czasu pracy
 5.1 pracownik socjalny
 5.2 instruktor zawodu pracownicy odpowiedzialni za dany rodzaj
 5.3 działalności, o którym mowa w art. 9 ustawy osoby prowadzące reintegrację zawodową
@@ -49,8 +49,8 @@ d) Osoby skierowane do pracy w Centrum przez powiatowy 7 urząd pracy na podstaw
 1.2 Osoby uzależnione od alkoholu
 1.3 Osoby uzależnione od narkotyków lub innych środków odurzających
 1.4 Osoby chore psychicznie
-1.5 Osoby długotrwale bezrobotne
-1.6 Osoby zwalniane z zakładów karnych, mające trudności w integracji ze środowiskiem Uchodźcy realizujący indywidualny
+1.5 Osoby długotrwale bezrobotne Osoby zwalniane z zakładów karnych,
+1.6 mające trudności w integracji ze środowiskiem Uchodźcy realizujący indywidualny
 1.7 program integracji
 1.8 Osoby niepełnosprawne
 1.9 Inni

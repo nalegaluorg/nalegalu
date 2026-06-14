@@ -8,7 +8,7 @@ pos: 388
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 10/2/A/2011 WYROK z dnia 15 marca 2011 r.

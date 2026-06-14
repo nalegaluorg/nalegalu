@@ -8,10 +8,10 @@ pos: 1227
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 lipca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1227 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 1 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1227/text.pdf) |
 
-Poz. 1227 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 1 lipca 2021 r.
-w sprawie statutu Krajowego Centrum Hodowli Zwierząt Na podstawie art. 4 ust. 3 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) zarządza się, co następuje: § 1. Określa się statut Krajowego Centrum Hodowli Zwierząt, stanowiący załącznik do rozporządzenia.
+w sprawie statutu Krajowego Centrum Hodowli Zwierząt Na podstawie art. 4 ust. 3 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) zarządza się, co następuje:
+§ 1. Określa się statut Krajowego Centrum Hodowli Zwierząt, stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. R. Bartosik Dziennik Ustaw – 2 – Poz. 1227 STATUT KRAJOWEGO CENTRUM HODOWLI ZWIERZĄT § 1. Krajowe Centrum Hodowli Zwierząt, zwane dalej „Krajowym Centrum”, działa na podstawie ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) oraz niniejszego statutu.
+Minister Rolnictwa i Rozwoju Wsi: wz. R. Bartosik STATUT KRAJOWEGO CENTRUM HODOWLI ZWIERZĄT
+§ 1. Krajowe Centrum Hodowli Zwierząt, zwane dalej „Krajowym Centrum”, działa na podstawie ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) oraz niniejszego statutu.
 § 2. Siedzibą Krajowego Centrum jest Warszawa.
 § 3. Obszarem działania Krajowego Centrum jest terytorium Rzeczypospolitej Polskiej.
 § 4. Krajowym Centrum kieruje dyrektor przy pomocy zastępców dyrektora i głównego księgowego.

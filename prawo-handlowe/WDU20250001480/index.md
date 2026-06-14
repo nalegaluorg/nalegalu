@@ -8,7 +8,7 @@ pos: 1480
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo przedsiębiorców Kierując się konstytucyjną zasadą wolności działalności gospodarczej, a także innymi zasadami konstytucyjnymi mającymi znaczenie dla przedsiębiorców i wykonywanej przez nich działalności gospodarczej, w tym zasadami praworządności, pewności prawa, niedyskryminacji oraz zrównoważonego rozwoju, uznając, że ochrona i wspieranie wolności działalności gospodarczej przyczyniają się do rozwoju gospodarki oraz do wzrostu dobrobytu społecznego, dążąc do zagwarantowania praw przedsiębiorców oraz uwzględniając potrzebę zapewnienia ciągłego rozwoju działalności gospodarczej w warunkach wolnej konkurencji, uchwala się, co następuje:
@@ -150,6 +150,9 @@ source: "isap-pdf"
 3. Przepisu ust. 1 nie stosuje się do przedsiębiorców spełniających warunki określone w art. 5a ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197, 620, 621 i 1160).
 
 **Art. 19.** Dokonywanie lub przyjmowanie płatności związanych z wykonywaną działalnością gospodarczą następuje za pośrednictwem rachunku płatniczego przedsiębiorcy, w każdym przypadku gdy:
+
+- **1)** stroną transakcji, z której wynika płatność, jest inny przedsiębiorca oraz
+- **2)** jednorazowa wartość transakcji, bez względu na liczbę wynikających z niej płatności, przekracza 15 000 zł lub równowartość tej kwoty, przy czym transakcje w walutach obcych przelicza się na złote według średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego dzień dokonania transakcji.
 
 **Art. 19a.**
 
@@ -829,6 +832,14 @@ source: "isap-pdf"
 
 **Art. 61.** Przepisów art. 54 i art. 55 nie stosuje się:
 
+- **1)** do działalności przedsiębiorców w zakresie objętym: o nadzorze nad rynkiem finansowym, o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416) i ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448), w zakresie dotyczącym bezpieczeństwa żywności,
+    - **a)** nadzorem, o którym mowa w art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r.
+    - **b)** nadzorem sanitarnym na podstawie ustawy z dnia 14 marca 1985 r.
+    - **c)** nadzorem nad wyrobami na podstawie ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. z 2024 r. poz. 1620);
+
+- **2)** w odniesieniu do kontroli świadczeniodawców przeprowadzanej przez podmiot zobowiązany do finansowania świadczeń opieki zdrowotnej ze środków publicznych na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. );
+- **3)** do próby technicznej, o której mowa w art. 29d ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281 oraz z 2025 r. poz. 1168 i 1303).
+
 **Art. 62.**
 
 1. Przepisów art. 48–51, art. 54, art. 55 i art. 57 nie stosuje się do działalności gospodarczej przedsiębiorców w zakresie:
@@ -879,6 +890,10 @@ source: "isap-pdf"
 
 **Art. 65.** Przepisów niniejszego rozdziału nie stosuje się do kontroli:
 
+- **1)** prowadzonej na podstawie ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277, 1897 i 1907);
+- **2)** celno-skarbowej prowadzonej w trybie określonym w dziale V rozdziale 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej;
+- **3)** prowadzonej na podstawie ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska w zakresie gospodarki odpadami.
+
 #### Rozdział 6 Zasady opracowywania projektów aktów normatywnych z zakresu prawa gospodarczego oraz oceny ich funkcjonowania
 
 **Art. 66.**
@@ -891,6 +906,14 @@ source: "isap-pdf"
 2. Wyniki oceny i analiz, o których mowa w ust. 1, zamieszcza się w uzasadnieniu do projektu aktu normatywnego lub w ocenie skutków regulacji, stanowiącej odrębną część uzasadnienia projektu aktu normatywnego.
 
 **Art. 67.** Przy opracowywaniu projektu aktu normatywnego określającego zasady podejmowania, wykonywania lub zakończenia działalności gospodarczej należy kierować się zasadami proporcjonalności, adekwatności i równoważenia obowiązków administracyjnych, w szczególności:
+
+- **1)** dążyć do nienakładania nowych obowiązków administracyjnych, a jeżeli nie jest to możliwe, dążyć do:
+    - **a)** nakładania obowiązków administracyjnych jedynie w stopniu koniecznym do osiągnięcia ich celów oraz
+    - **b)** równoważnego zmniejszenia innych obciążeń administracyjnych wynikających z uregulowań prawnych obowiązujących w danej dziedzinie;
+
+- **2)** dążyć do ograniczenia obowiązków informacyjnych, zwłaszcza gdy wymagane informacje są przekazywane przez obowiązanych organom władzy publicznej na podstawie obowiązujących przepisów;
+- **3)** dążyć do umożliwienia realizacji obowiązków informacyjnych w postaci elektronicznej;
+- **4)** implementując prawo Unii Europejskiej i prawo międzynarodowe, dążyć do nakładania wyłącznie obowiązków administracyjnych niezbędnych do osiągnięcia celów implementowanych przepisów.
 
 **Art. 68.** W przypadku stwierdzenia wpływu projektu aktu normatywnego na mikroprzedsiębiorców, małych i średnich przedsiębiorców, przy opracowaniu projektu aktu normatywnego dąży się do proporcjonalnego ograniczania obowiązków administracyjnych wobec tych przedsiębiorców albo uzasadnia brak możliwości zastosowania takich ograniczeń.
 

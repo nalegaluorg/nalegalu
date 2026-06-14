@@ -8,10 +8,10 @@ pos: 899
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 maja 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 899 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 maja 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000899) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/899/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 maja 2021 r.
 w sprawie zakresu informacji zamieszczanych w karcie oceny pracy, karcie oceny kompetencji i karcie samooceny oraz wzorów tych kart Na podstawie art. 16c ust. 8 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2021 r.
-poz. 268) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 268) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) zakres informacji zamieszczanych w karcie oceny pracy operatora numerów alarmowych, starszego operatora numerów alarmowych, koordynatora oraz koordynatora-trenera oraz wzór tej karty;
 2) zakres informacji zamieszczanych w karcie oceny kompetencji koordynatora oraz koordynatora-trenera oraz wzór tej karty;
 3) zakres informacji zamieszczanych w karcie samooceny osób, o których mowa w pkt 1, oraz wzór tej karty.
@@ -49,8 +49,8 @@ poz. 268) zarządza się, co następuje: § 1. Rozporządzenie określa:
 8. Wzór karty oceny pracy jest określony w załączniku nr 1 do rozporządzenia.
 § 3. 1. Karta oceny kompetencji koordynatora lub koordynatora-trenera zawiera:
 1) ocenę obsługi zgłoszeń alarmowych w zakresie:
-a) komunikatywności: dostosowanie poziomu komunikacji do rozmówcy, skuteczność w pozyskiwaniu informacji, asertywność,
-b) zarządzania emocjami: zarządzanie emocjami własnymi, zarządzanie emocjami zgłaszającego,
+a) komunikatywności: – dostosowanie poziomu komunikacji do rozmówcy, – skuteczność w pozyskiwaniu informacji, – asertywność,
+b) zarządzania emocjami: – zarządzanie emocjami własnymi, – zarządzanie emocjami zgłaszającego,
 c) oceny poszczególnych zgłoszeń/zdarzeń, opracowywaną na podstawie odsłuchu rzeczywistych, losowo wybranych zgłoszeń alarmowych osoby ocenianej;
 2) ocenę kompetencji miękkich w zakresie:
 a) sumienności,
@@ -64,6 +64,6 @@ e) przekazywania wiedzy.
 2. Wzór karty samooceny jest określony w załączniku nr 3 do rozporządzenia.
 § 5. Karta oceny pracy, karta oceny kompetencji oraz karta samooceny są sporządzane przy wykorzystaniu systemu teleinformatycznego umożliwiającego co najmniej losowy wybór zgłoszeń do oceny.
 § 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński WZÓR Wewnętrznych i Administracji z dnia 10 maja 2021 r. (poz. …) Załącznik nr 1 WZÓR KARTA OCENY PRACY Imię i nazwisko ocenianego: ………………………………………………………… ……………………………..…………………..
-I. STATYSTYKA OBSŁUGI ZGŁOSZEŃ ALARMOWYCH Parametr Średnia Średnia centrum Różnica (%) ocenianego Średnia liczba obsłużonych zgłoszeń alarmowych Średni czas obsługi zasadnych zgłoszeń alarmowych w drodze połączeń telefonicznych do numerów alarmowych Średni czas obsługi fałszywych zgłoszeń alarmowych (głuchych lub niezasadnych) w drodze połączeń telefonicznych do numerów alarmowych Średni czas odbioru przydzielonych do osoby ocenianej zgłoszeń alarmowych Średnia liczba karnych wylogowań Średni czas przerwy w odbiorze zgłoszeń alarmowych* Ocena opisowa kierownika/zastępcy
+Minister Spraw Wewnętrznych i Administracji: M. Kamiński Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 10 maja 2021 r. (poz. …) Załącznik nr 1 WZÓR WZÓR KARTA OCENY PRACY Imię i nazwisko ocenianego: ………………………………………………………… ……………………………..…………………..
+I. STATYSTYKA OBSŁUGI ZGŁOSZEŃ ALARMOWYCH Parametr Średnia Średnia centrum Różnica (%) ocenianego Średnia liczba obsłużonych zgłoszeń alarmowych Średni czas obsługi zasadnych zgłoszeń alarmowych w drodze połączeń telefonicznych do numerów alarmowych Średni czas obsługi fałszywych zgłoszeń alarmowych (głuchych lub niezasadnych) w drodze połączeń telefonicznych do numerów alarmowych Średni czas odbioru przydzielonych do osoby ocenianej zgłoszeń alarmowych Średnia liczba karnych wylogowań Średni czas przerwy w odbiorze zgłoszeń alarmowych* Ocena opisowa kierownika/zastępcy ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ M ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ M W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
 

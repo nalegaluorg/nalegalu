@@ -8,7 +8,7 @@ pos: 733
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego
@@ -202,6 +202,9 @@ source: "isap-pdf"
 11. Obniżki, o których mowa w ust. 2, mogą być stosowane także w stosunku do podnajemców, którzy używają lokali wynajmowanych przez gminę od innych właścicieli i podnajmowanych tym podnajemcom.
 
 **Art. 8.** Jeżeli właścicielem jest jednostka samorządu terytorialnego, stawki czynszu, o których mowa w art. 7, ustala organ wykonawczy tej jednostki:
+
+- **1)** w przypadku gminy – zgodnie z zasadami, o których mowa w art. 21 ust. 2 pkt 4;
+- **2)** w przypadku pozostałych jednostek samorządu terytorialnego – zgodnie z uchwałą rady powiatu lub sejmiku województwa w sprawie zasad wynajmu lokali mieszkalnych stanowiących własność tych jednostek.
 
 **Art. 8a.**
 
@@ -544,6 +547,18 @@ source: "isap-pdf"
 
 **Art. 19m.** Umowa najmu instytucjonalnego z dojściem do własności, o której mowa w art. 19k ust. 1, zawiera w szczególności:
 
+- **1)** określenie stron, miejsca i daty podpisania umowy;
+- **2)** oznaczenie przedmiotu umowy;
+- **3)** czynsz najmu, opłaty niezależne od właściciela oraz inne opłaty związane z korzystaniem z lokalu mieszkalnego;
+- **4)** cenę sprzedaży lokalu mieszkalnego;
+- **5)** harmonogram określający wysokość i terminy płatności poszczególnych rat ceny sprzedaży;
+- **6)** zobowiązanie właściciela do przeniesienia prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu po zapłaceniu całej ceny;
+- **7)** zobowiązanie najemcy do zapłaty całej ceny za lokal mieszkalny w sposób określony w umowie;
+- **8)** termin zawarcia umowy przeniesienia prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu;
+- **9)** oświadczenie właściciela o ustanowieniu hipoteki na pozycji pierwszej na zabezpieczenie roszczenia najemcy o zwrot zapłaconej ceny na wypadek niewykonania umowy wraz z wnioskiem o wpis tej hipoteki do księgi wieczystej prowadzonej dla lokalu mieszkalnego;
+- **10)** zgodę wierzyciela zabezpieczonego hipoteką na bezobciążeniowe przeniesienie prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu po wpłacie całej ceny sprzedaży przez najemcę, jeżeli takie obciążenie hipoteczne istnieje;
+- **11)** oświadczenie najemcy, w którym najemca poddał się egzekucji i zobowiązał się do opróżnienia i wydania lokalu używanego na podstawie umowy najmu instytucjonalnego z dojściem do własności w terminie wskazanym w żądaniu, o którym mowa w art. 19i ust. 2, oraz przyjął do wiadomości, że w razie konieczności wykonania powyższego zobowiązania prawo do najmu socjalnego lokalu ani pomieszczenia tymczasowego nie przysługuje.
+
 **Art. 19n.**
 
 1. Właściciel zawiera umowę przeniesienia prawa własności lokalu mieszkalnego wraz z prawami niezbędnymi do korzystania z tego lokalu w terminie określonym w umowie najmu instytucjonalnego z dojściem do własności, najpóźniej w dniu zakończenia tej umowy.
@@ -573,7 +588,7 @@ source: "isap-pdf"
 
 3. W przypadku określonym w ust. 1 zwrot części ceny zakupu lokalu mieszkalnego następuje w terminie 3 miesięcy od dnia opróżnienia tego lokalu.
 
-4. Kwota zwracanej części ceny zakupu lokalu mieszkalnego, o której mowa w ust. 2, stanowi sumę kwot wpłaconych w każdym roku kalendarzowym obowiązywania umowy, obliczonych według wzoru: 𝑃 = 𝑃 𝐶 ∗ ∗ (100% − 0,75% ∗ 𝑛/4) 𝐶 gdzie poszczególne symbole oznaczają: P – zwaloryzowana kwota zwracanych rat wpłaconych w danym roku kalendarzowym, P – suma rat wpłaconych w danym roku kalendarzowym, C – średnia arytmetyczna czterech kolejnych wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2022 r. poz. 1202 i 1561) dla kwartałów poprzedzających kwartał, w którym nastąpiło opróżnienie lokalu, C – średnia arytmetyczna wartości wskaźników ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego dla kwartałów w danym roku kalendarzowym, n – liczba pełnych kwartałów przypadających w okresie od końca danego roku kalendarzowego do dnia, w którym nastąpiło opróżnienie lokalu.
+4. Kwota zwracanej części ceny zakupu lokalu mieszkalnego, o której mowa w ust. 2, stanowi sumę kwot wpłaconych w każdym roku kalendarzowym obowiązywania umowy, obliczonych według wzoru: 𝐶 ∗ (100% − 0,75% ∗ 𝑛/4) 𝑃 = 𝑃 ∗ 𝐶 gdzie poszczególne symbole oznaczają: P – zwaloryzowana kwota zwracanych rat wpłaconych w danym roku kalendarzowym, P – suma rat wpłaconych w danym roku kalendarzowym, C – średnia arytmetyczna czterech kolejnych wartości wskaźnika ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 3b ust. 4 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2022 r. poz. 1202 i 1561) dla kwartałów poprzedzających kwartał, w którym nastąpiło opróżnienie lokalu, C – średnia arytmetyczna wartości wskaźników ceny 1 m powierzchni użytkowej budynku mieszkalnego, ogłoszonych przez Prezesa Głównego Urzędu Statystycznego dla kwartałów w danym roku kalendarzowym, n – liczba pełnych kwartałów przypadających w okresie od końca danego roku kalendarzowego do dnia, w którym nastąpiło opróżnienie lokalu.
 
 **Art. 19r.** Do roszczeń najemcy z umowy najmu instytucjonalnego z dojściem do własności przepisu art. 91 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520) nie stosuje się. 2. Sprzedaż lokalu mieszkalnego objętego umową najmu instytucjonalnego z dojściem do własności w postępowaniu upadłościowym, którego właścicielem jest upadły, nie wywołuje skutków sprzedaży egzekucyjnej. Przepisu art. 313 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe nie stosuje się. 3. Przepisów ust. 1 i 2 nie stosuje się w przypadku rozwiązania lub wygaśnięcia umowy najmu instytucjonalnego z dojściem do własności w trakcie trwania postępowania upadłościowego.
 
@@ -688,7 +703,7 @@ source: "isap-pdf"
 
 4. W przypadku złożenia deklaracji po upływie terminu, o którym mowa w ust. 2, lub udostępnienia dokumentów, o których mowa w ust. 2a, po upływie wyznaczonego przez gminę terminu, przepisy ust. 5−13 stosuje się odpowiednio.
 
-5. Jeżeli średni miesięczny dochód gospodarstwa domowego najemcy w przeliczeniu na członka gospodarstwa domowego w okresie 3 miesięcy poprzedzających złożenie deklaracji jest wyższy niż dochód określony na podstawie kryteriów zawartych w uchwale rady gminy, o której mowa w art. 21 ust. 1 pkt 2, dotyczących wysokości dochodu gospodarstwa domowego uzasadniającej oddanie w najem lub podnajem lokalu, wysokość czynszu ustala się, wypowiadając jego dotychczasową wysokość najpóźniej na koniec miesiąca kalendarzowego, zgodnie z poniższym wzorem: 𝐶 = 𝐶 𝐷 +( −𝐿 𝑛 ) gdzie poszczególne symbole oznaczają: C – nowa wysokość czynszu za najem lokalu mieszkalnego, C – wysokość czynszu za najem lokalu mieszkalnego, jaka obowiązywałaby w przypadku, gdyby dla gospodarstwa domowego o danej liczbie członków wysokość dochodu nie przekraczała dochodu określonego na podstawie kryteriów zawartych w uchwale rady gminy, D – średni miesięczny dochód gospodarstwa domowego najemcy w okresie 3 miesięcy poprzedzających złożenie deklaracji, n – liczba osób w gospodarstwie domowym najemcy, a w przypadku jednoosobowego gospodarstwa domowego wartość 1,2, L – określona na podstawie kryteriów zawartych w uchwale rady gminy wysokość dochodu gospodarstwa domowego o danej liczbie członków, w przeliczeniu na członka gospodarstwa domowego, uzasadniająca oddanie w najem lub podnajem lokalu.
+5. Jeżeli średni miesięczny dochód gospodarstwa domowego najemcy w przeliczeniu na członka gospodarstwa domowego w okresie 3 miesięcy poprzedzających złożenie deklaracji jest wyższy niż dochód określony na podstawie kryteriów zawartych w uchwale rady gminy, o której mowa w art. 21 ust. 1 pkt 2, dotyczących wysokości dochodu gospodarstwa domowego uzasadniającej oddanie w najem lub podnajem lokalu, wysokość czynszu ustala się, wypowiadając jego dotychczasową wysokość najpóźniej na koniec miesiąca kalendarzowego, zgodnie z poniższym wzorem: 𝐷 𝐶 = 𝐶 +( −𝐿 ) 𝑛 gdzie poszczególne symbole oznaczają: C – nowa wysokość czynszu za najem lokalu mieszkalnego, C – wysokość czynszu za najem lokalu mieszkalnego, jaka obowiązywałaby w przypadku, gdyby dla gospodarstwa domowego o danej liczbie członków wysokość dochodu nie przekraczała dochodu określonego na podstawie kryteriów zawartych w uchwale rady gminy, D – średni miesięczny dochód gospodarstwa domowego najemcy w okresie 3 miesięcy poprzedzających złożenie deklaracji, n – liczba osób w gospodarstwie domowym najemcy, a w przypadku jednoosobowego gospodarstwa domowego wartość 1,2, L – określona na podstawie kryteriów zawartych w uchwale rady gminy wysokość dochodu gospodarstwa domowego o danej liczbie członków, w przeliczeniu na członka gospodarstwa domowego, uzasadniająca oddanie w najem lub podnajem lokalu.
 
 6. Wysokość czynszu za najem lokalu mieszkalnego ustalona na podstawie wzoru, o którym mowa w ust. 5, nie może być niższa niż wysokość czynszu, jaka obowiązywałaby w przypadku, gdyby dla gospodarstwa domowego o danej liczbie członków wysokość dochodu nie przekraczała dochodu określonego na podstawie kryteriów zawartych w uchwale rady gminy. Wysokość czynszu nie może jednocześnie przekroczyć w skali roku 8% wartości odtworzeniowej lokalu.
 
@@ -740,6 +755,12 @@ source: "isap-pdf"
 **Art. 25c.** Umowę najmu tymczasowego pomieszczenia zawiera się z osobą, wobec której wszczęto egzekucję na podstawie tytułu wykonawczego, w którym orzeczono obowiązek opróżnienia lokalu służącego zaspokojeniu potrzeb mieszkaniowych, bez prawa do najmu socjalnego lokalu lub lokalu zamiennego, z uwzględnieniem art. 25d.
 
 **Art. 25d.** Prawo do tymczasowego pomieszczenia nie przysługuje dłużnikowi, jeżeli:
+
+- **1)** z tytułu wykonawczego wynika, że nakazanie opróżnienia lokalu zostało orzeczone z powodu stosowania przemocy w rodzinie lub z powodu rażącego lub uporczywego wykraczania przeciwko porządkowi domowemu albo niewłaściwego zachowania czyniącego uciążliwym korzystanie z innych lokali w budynku, albo że dłużnik dokonał zajęcia opróżnionego lokalu bez tytułu prawnego;
+- **2)** dłużnik został zobowiązany do opróżnienia lokalu zajmowanego na podstawie umowy najmu okazjonalnego, której zawarcie zostało zgłoszone zgodnie z art. 19b ust. 1;
+- **3)** dłużnik został zobowiązany do opróżnienia tymczasowego pomieszczenia;
+- **4)** dłużnik został zobowiązany do opróżnienia lokalu zajmowanego na podstawie umowy najmu instytucjonalnego lokalu;
+- **5)** dłużnik został zobowiązany do opróżnienia lokalu zajmowanego na podstawie umowy najmu instytucjonalnego z dojściem do własności.
 
 **Art. 25e.** Do najmu tymczasowych pomieszczeń stosuje się odpowiednio przepisy art. 4, art. 10 ust. 1–3, art. 11 ust. 2 pkt 1–3, art. 13, art. 18, art. 20 ust. 2a i 2b, art. 21, art. 23 ust. 3 i 4 oraz art. 25.
 

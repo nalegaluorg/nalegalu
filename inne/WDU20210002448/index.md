@@ -8,7 +8,7 @@ pos: 2448
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw
@@ -42,6 +42,17 @@ Art. 13–20. (pominięte)
 4. Podmioty, które realizują Program, w celu sfinansowania w poszczególnych latach przedsięwzięć określonych w art. 2 pkt 1–3, mogą zaciągać zobowiązania do wysokości łącznej kwoty wydatków przewidzianych w Programie na dane przedsięwzięcie po uprzednim uzyskaniu zgody ministra właściwego do spraw wewnętrznych, zwanego dalej „ministrem”, lub właściwego wojewody – w odniesieniu do środków budżetu państwa, których są dysponentami.
 
 **Art. 2.** Zakres Programu obejmuje realizację następujących przedsięwzięć:
+
+- **1)** inwestycje budowlane;
+- **2)** zakupy wyposażenia formacji w zakresie sprzętu:
+    - **a)** transportowego,
+    - **b)** uzbrojenia i techniki specjalnej,
+    - **c)** informatyki i łączności;
+
+- **3)** zakupy wyposażenia osobistego i ochronnego funkcjonariuszy;
+- **4)** wzmocnienie formacji o dodatkowe etaty funkcjonariuszy;
+- **5)** wzmocnienie motywacyjnego systemu uposażeń funkcjonariuszy poprzez podwyższenie wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy oraz zróżnicowanie struktury i wielkości uposażeń funkcjonariuszy;
+- **6)** podwyższenie wynagrodzeń pracowników jednostek organizacyjnych formacji.
 
 **Art. 3.** Program realizują Komendanci Główni Policji, Straży Granicznej i Państwowej Straży Pożarnej, a także jednostki organizacyjne im podległe i przez nich nadzorowane lub kontrolowane oraz Komendant Służby Ochrony Państwa.
 
@@ -93,6 +104,18 @@ Art. 13–20. (pominięte)
 2. Programem modernizacji SW są objęte jednostki organizacyjne Służby Więziennej.
 
 **Art. 9.** Zakres Programu modernizacji SW obejmuje realizację następujących przedsięwzięć:
+
+- **1)** poprawa bezpieczeństwa jednostek penitencjarnych;
+- **2)** zakup i zwiększenie liczby użytkowanych pojazdów specjalnych, autobusów do przewozu grupowego i pojazdów przeznaczonych dla Zespołów Terenowych Dozoru Elektronicznego;
+- **3)** poprawa efektywności energetycznej jednostek organizacyjnych Służby Więziennej;
+- **4)** pozyskanie nowych miejsc zakwaterowania osadzonych oraz odtworzenie i poprawa infrastruktury jednostek organizacyjnych Służby Więziennej;
+- **5)** modernizacja systemów informatycznych, łączności i monitoringu wizyjnego;
+- **6)** zmiana systemu zatrudnienia kadry medycznej w podmiotach leczniczych dla osób pozbawionych wolności;
+- **7)** poprawa warunków socjalno-bytowych funkcjonariuszy Służby Więziennej i pracowników cywilnych Służby Więziennej „Funkcjonariusz PRO”;
+- **8)** wzmocnienie systemu motywacyjnego uposażeń funkcjonariuszy Służby Więziennej przez podwyższenie wskaźnika wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Więziennej;
+- **9)** wzrost konkurencyjności wynagrodzeń pracowników cywilnych Służby Więziennej;
+- **10)** wzmocnienie etatowe jednostek organizacyjnych Służby Więziennej;
+- **11)** poprawa infrastruktury Akademii Wymiaru Sprawiedliwości.
 
 **Art. 10.**
 
@@ -219,4 +242,8 @@ Art. 13–20. (pominięte)
 4. W przypadku zagrożenia przekroczeniem albo przekroczenia w danym roku budżetowym limitu wydatków, o którym mowa w ust. 1 i 2, odpowiednio minister właściwy do spraw wewnętrznych albo Minister Sprawiedliwości wprowadza mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
 
 **Art. 32.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem:
+
+- **1)** art. 13 pkt 1–5, pkt 6 lit. b, pkt 7–11, 14–17, 19, 20, 27 i 29–32, art. 14, art. 16, art. 18, art. 20–26 i art. 30, które wchodzą w życie z dniem 1 kwietnia 2022 r.;
+- **2)** art. 13 pkt 6 lit. a, pkt 12, 13, 18, 21–26 i 28, art. 27 i art. 28, które wchodzą w życie z dniem 1 stycznia 2023 r. Załączniki do ustawy z dnia 17 2021 r. (Dz. U. z 2024 r. poz. 86) Załącznik Załącznik Załącznik Załącznik Załącznik Załącznik nr 6 Załącznik nr 7 (pominięty)
+
 

@@ -8,7 +8,7 @@ pos: 694
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Wyższej Szkole Pedagogiki Specjalnej im. Marii Grzegorzewskiej w Warszawie nazwy „Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej”

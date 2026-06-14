@@ -8,12 +8,12 @@ pos: 983
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
+# o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
 
-*USTAWA dnia 26 lipca o zmianie ustawy o systemie ubezpieczeń społecznych niektórych innych ustaw*
+*USTAWA z dnia 26 lipca 2013 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,31 +27,130 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000983) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/983/text.pdf) |
 
-**Art. 1.** W ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. U. 2009 205, 1585, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 20 grudnia 1990 o ubezpieczeniu społecznym rolników (Dz. U. 2008 50, 291, późn. zm. ) wprowadza się następujące zmiany:
+- **1)** w art. 4:
+    - **a)** w pkt 2 lit. m otrzymuje brzmienie: „m) Zakład – w stosunku do osób podlegających ubezpieczeniom społecznym z tytułu pobierania zasiłku macierzyńskiego albo zasiłku w wysokości zasiłku macierzyńskiego, jeżeli zasiłki te wypłaca Zakład, oraz w stosunku do osób określonych w art. 6a ust. 1 i art. 6b ust. 1,”,
+    - **b)** w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „17) osoba sprawująca osobistą opiekę nad dzieckiem – osobę fizyczną sprawującą osobistą opiekę nad dzieckiem własnym lub swojego małżonka, lub dzieckiem przysposobionym, przez okres do 3 lat, nie dłużej jednak niż do ukończenia przez nie 5 roku życia, a w przypadku dziecka, które z powodu stanu zdrowia potwierdzonego orzeczeniem o niepełnosprawności lub stopniu niepełnosprawności wymaga osobistej opieki tej osoby, przez okres do 6 lat, nie dłużej jednak niż do ukończenia przez dziecko 18 roku życia.”;
 
-**Art. 16b.** Przepisy art. 16a stosuje się także do rolnika lub domownika podlegającego ubezpieczeniu społecznemu rolników na podstawie art. 5a, pod warunkiem zaprzestania prowadzenia albo zawieszenia wykonywania pozarolniczej działalności gospodarczej na podstawie art. 14a ust. 1d ustawy dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. 672, 675 983), albo współpracy przy prowadzeniu tej działalności okresie sprawowania osobistej opieki nad dzieckiem.
+- **2)** po art. 6 dodaje się art. 6a i art. 6b w brzmieniu: „Art. 6a. 1. Obowiązkowo ubezpieczeniom emerytalnemu i rentowym podlegają, z zastrzeżeniem art. 8 i 9, osoby sprawujące osobistą opiekę nad dzieckiem, które na obszarze Rzeczypospolitej Polskiej są:
+- **1)** osobami, które prowadziły pozarolniczą działalność gospodarczą przez okres co najmniej 6 miesięcy i zaprzestały jej prowadzenia albo zawiesiły wykonywanie działalności gospodarczej na podstawie art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, 675 i 983);
+- **2)** osobami, które prowadziły inną niż określona w przepisach o swobodzie działalności gospodarczej pozarolniczą działalność, o której mowa w art. 8 ust. 6, przez okres co najmniej 6 miesięcy i które zaprzestały jej prowadzenia;
+- **3)** zleceniobiorcami, którzy wykonywali pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia, przez okres co najmniej 6 miesięcy i którzy zaprzestali jej wykonywania;
+- **4)** osobami współpracującymi, o których mowa w art. 8 ust. 11, przez okres co najmniej 6 miesięcy z osobami, o których mowa w pkt 1–3, i które zaprzestały tej współpracy;
+- **5)** osobami duchownymi, podlegającymi z tego tytułu ubezpieczeniom społecznym przez okres co najmniej 6 miesięcy.
+
+2. Warunek prowadzenia pozarolniczej działalności, działalności zarobkowej i współpracy lub bycia osobą duchowną przez okres co najmniej 6 miesięcy uważa się za spełniony, jeżeli osoby, o których mowa w ust. 1, podlegały z tych tytułów nieprzerwanie ubezpieczeniom emerytalnemu i rentowym bezpośrednio przed dniem rozpoczęcia sprawowania osobistej opieki nad dzieckiem i opłacały składki na te ubezpieczenia.
+
+3. Prawo do objęcia obowiązkowymi ubezpieczeniami emerytalnym i rentowymi przysługuje jednemu z rodziców, pod warunkiem że drugi rodzic nie jest objęty ubezpieczeniami emerytalnym i rentowymi z tego tytułu albo ubezpieczeniami określonymi w art. 6 ust. 1 pkt 19 lub art. 6b.
+
+4. Prawo do finansowania składek z budżetu państwa, jeżeli jedno z rodziców przebywa na urlopie wychowawczym, a drugie jednocześnie spełnia warunki określone w ust. 1, przysługuje osobie przebywającej na urlopie wychowawczym.
+
+5. Prawo do objęcia obowiązkowymi ubezpieczeniami emerytalnym i rentowymi przysługuje przez okresy, o których mowa w art. 4 pkt 17, i może być wykorzystane w całości lub w nie więcej niż 4 częściach.
+
+**Art. 6b.**
+
+1. Obowiązkowo ubezpieczeniu emerytalnemu podlegają, z zastrzeżeniem art. 8 i 9, osoby fizyczne, które na obszarze Rzeczypospolitej Polskiej są osobami sprawującymi osobistą opiekę nad dzieckiem, a które nie spełniają warunków do podlegania obowiązkowym ubezpieczeniom emerytalnemu i rentowym, o których mowa w art. 6a.
+
+2. Prawo do objęcia obowiązkowym ubezpieczeniem emerytalnym przysługuje jednemu z rodziców, pod warunkiem że drugi rodzic nie jest objęty ubezpieczeniem emerytalnym z tego tytułu albo ubezpieczeniami określonymi w art. 6 ust. 1 pkt 19 lub art. 6a.
+
+3. Prawo do objęcia obowiązkowym ubezpieczeniem emerytalnym przysługuje przez okresy, o których mowa w art. 4 pkt 17, i może być wykorzystane w całości lub w nie więcej niż 4 częściach.”;
+
+- **3)** w art. 9 ust. 6 otrzymuje brzmienie: „6. Osoby, o których mowa w art. 6 ust. 1 pkt 8, art. 6a ust. 1 i art. 6b ust. 1, a także osoby przebywające na urlopach wychowawczych podlegają obowiązkowo ubezpieczeniom emerytalnemu i rentowym albo odpowiednio ubezpieczeniu emerytalnemu, jeżeli nie mają ustalonego prawa do emerytury lub renty i nie mają innych tytułów rodzących obowiązek ubezpieczeń społecznych.”;
+- **4)** w art. 13 po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) osoby, o których mowa w art. 6a ust. 1 i art. 6b ust. 1 – od dnia określonego w oświadczeniu, o którym mowa w art. 36 ust. 15, jako dzień rozpoczęcia sprawowania osobistej opieki nad dzieckiem, nie wcześniej jednak niż od dnia, w którym oświadczenie zostało złożone, do dnia wskazanego w oświadczeniu jako dzień zakończenia sprawowania osobistej opieki nad dzieckiem;”;
+- **5)** w art. 16 ust. 8 otrzymuje brzmienie: „8. Składki na ubezpieczenia emerytalne i rentowe osób przebywających na urlopach wychowawczych, osób, o których mowa w art. 6a ust. 1, lub osób pobierających zasiłek macierzyński albo zasiłek w wysokości zasiłku macierzyńskiego, oraz składki na ubezpieczenie emerytalne osób, o których mowa w art. 6b ust. 1, finansuje w całości budżet państwa za pośrednictwem Zakładu.”;
+- **6)** w art. 18: Składka w nowej wysokości obowiązuje od dnia 1 stycznia do dnia 31 grudnia danego roku.”,
+    - **a)** ust. 5b otrzymuje brzmienie: „5b. Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe osób przebywających na urlopie wychowawczym oraz osób, o których mowa w art. 6a ust. 1 pkt 1–4, stanowi kwota 60% prognozowanego przeciętnego wynagrodzenia miesięcznego przyjętego do ustalenia kwoty ograniczenia rocznej podstawy wymiaru składek, ogłoszonego w trybie art. 19 ust. 10 na dany rok kalendarzowy, z zastrzeżeniem ust. 14 i 15.
+    - **b)** po ust. 5c dodaje się ust. 5d w brzmieniu: „5d. Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe osób, o których mowa w art. 6a ust. 1 pkt 5, stanowi kwota minimalnego wynagrodzenia.”,
+    - **c)** ust. 14 otrzymuje brzmienie: „14. Podstawa wymiaru składek na ubezpieczenia emerytalne i rentowe osób przebywających na urlopie wychowawczym nie może być wyższa niż przeciętne miesięczne wynagrodzenie wypłacone za okres 12 miesięcy kalendarzowych poprzedzających urlop wychowawczy i nie może być niższa niż 75% kwoty minimalnego wynagrodzenia.”,
+    - **d)** dodaje się ust. 15 w brzmieniu: „15. Podstawa wymiaru składek na ubezpieczenia emerytalne i rentowe osób, o których mowa w art. 6a ust. 1 pkt 3, nie może być wyższa niż przeciętna miesięczna kwota stanowiąca podstawę wymiaru składek w okresie 6 miesięcy kalendarzowych poprzedzających okres sprawowania osobistej opieki nad dzieckiem i nie może być niższa niż 75% kwoty minimalnego wynagrodzenia.”;
+
+- **7)** po art. 18a dodaje się art. 18b w brzmieniu: „Art. 18b. Podstawę wymiaru składek na ubezpieczenie emerytalne osób, o których mowa w art. 6b ust. 1, stanowi 75% kwoty minimalnego wynagrodzenia.”;
+- **8)** w art. 20:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Podstawa wymiaru składek na ubezpieczenie chorobowe osób, które ubezpieczeniu chorobowemu podlegają dobrowolnie, nie może przekraczać miesięcznie 250% prognozowanego przeciętnego wynagrodzenia, o którym mowa w art. 19 ust. 10.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Prezes Zakładu ogłasza kwotę 250% prognozowanego przeciętnego wynagrodzenia, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie 7 dni kalendarzowych od dnia ogłoszenia przez ministra właściwego do spraw zabezpieczenia społecznego, w trybie określonym w art. 19 ust. 10, kwoty prognozowanego przeciętnego wynagrodzenia.”;
+
+- **9)** w art. 36:
+    - **a)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Zgłoszenie do ubezpieczeń społecznych osób, o których mowa w art. 6a ust. 1 i art. 6b ust. 1, i wyrejestrowanie z tych ubezpieczeń, w przypadku ustania warunków uzasadniających opłacanie składek, należy do Zakładu. Osoby te są obowiązane do przedłożenia Zakładowi:
+
+- **1)** skróconego odpisu aktu urodzenia dziecka;
+- **2)** oświadczenia, o którym mowa w ust. 15;
+- **3)** orzeczenia o niepełnosprawności lub stopniu niepełnosprawności, w przypadku posiadania przez dziecko takiego orzeczenia.”,
+    - **b)** dodaje się ust. 15 i 16 w brzmieniu: „15. Osoby, o których mowa w art. 6a ust. 1 i art. 6b ust. 1, składają oświadczenie o zamiarze podlegania ubezpieczeniom emerytalnemu i rentowym lub odpowiednio ubezpieczeniu emerytalnemu, które zawiera:
+
+- **1)** imię i nazwisko osoby sprawującej osobistą opiekę nad dzieckiem oraz jej numer PESEL, a w razie gdy nie nadano numeru PESEL – serię i numer dowodu osobistego lub paszportu;
+- **2)** miejsce zamieszkania;
+- **3)** dzień rozpoczęcia sprawowania osobistej opieki nad dzieckiem;
+- **4)** dzień zakończenia sprawowania osobistej opieki nad dzieckiem;
+- **5)** imię i nazwisko dziecka oraz datę jego urodzenia;
+- **6)** informację o ostatnim okresie ubezpieczenia;
+- **7)** informację o korzystaniu lub niekorzystaniu przez drugiego rodzica z uprawnień określonych w art. 6 ust. 1 pkt 19 lub art. 6a ust. 1 lub art. 6b ust. 1.
+
+16. Osoba, o której mowa w art. 6a ust. 1 i art. 6b ust. 1, jest obowiązana zawiadomić Zakład o wszelkich zmianach w stosunku do danych wskazanych w oświadczeniu, o którym mowa w ust. 15, w terminie 7 dni od dnia zaistnienia tych zmian.”;
+
+- **10)** w art. 36a ust. 1 otrzymuje brzmienie: „1. Ubezpieczenie emerytalne i rentowe w okresie zawieszenia wykonywania działalności gospodarczej, o którym mowa w art. 14a ust. 1–1b ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, przez osoby prowadzące pozarolniczą działalność gospodarczą jest dobrowolne. Przedsiębiorca w okresie zawieszenia wykonywania działalności gospodarczej nie opłaca ubezpieczenia chorobowego i wypadkowego.”.
+
+**Art. 2.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 15:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zasiłek macierzyński przysługuje ubezpieczonemu z tytułu:
+
+- **1)** urodzenia dziecka,
+- **2)** przyjęcia dziecka w wieku do 7 roku życia na wychowanie, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego – do 10 roku życia, jeżeli w tym czasie został złożony wniosek o przysposobienie,
+- **3)** przyjęcia dziecka w wieku do 7 roku życia na wychowanie w ramach rodziny zastępczej, z wyjątkiem rodziny zastępczej zawodowej, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego – do 10 roku życia – w wysokości czterokrotnej emerytury podstawowej.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Jeżeli ubezpieczeniu podlegają oboje rodzice, zasiłek, o którym mowa w ust. 1, przysługuje im łącznie.”;
+
+- **2)** po art. 16 dodaje się art. 16a–16f w brzmieniu: „Art. 16a. 1. Za rolnika lub domownika podlegającego ubezpieczeniu emerytalno-rentowemu z mocy ustawy albo na wniosek, w związku ze sprawowaniem osobistej opieki nad dzieckiem, trwającej przez okres do 3 lat, nie dłużej jednak niż do ukończenia przez dziecko 5 roku życia, a w przypadku dziecka, które z powodu stanu zdrowia potwierdzonego orzeczeniem o niepełnosprawności lub stopniu niepełnosprawności wymaga osobistej opieki tej osoby, przez okres do 6 lat, nie dłużej jednak niż do ukończenia przez dziecko 18 roku życia, składka na to ubezpieczenie jest finansowana z dotacji budżetu państwa do funduszu emerytalno-rentowego przeznaczonej na te składki.
+
+2. Składka na ubezpieczenie emerytalno-rentowe za osoby, o których mowa w ust. 1, jest finansowana z dotacji budżetu państwa do funduszu emerytalno-rentowego od dnia zgłoszenia przez rolnika opłacającego składki za te osoby wniosku wraz z oświadczeniem o sprawowaniu przez te osoby osobistej opieki nad dzieckiem.
+
+**Art. 16b.** Przepisy art. 16a stosuje się także do rolnika lub domownika podlegającego ubezpieczeniu społecznemu rolników na podstawie art. 5a, pod warunkiem zaprzestania prowadzenia albo zawieszenia wykonywania pozarolniczej działalności gospodarczej na podstawie art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, 675 i 983), albo współpracy przy prowadzeniu tej działalności w okresie sprawowania osobistej opieki nad dzieckiem.
 
 **Art. 16c.**
 
-1. Rolnik albo domownik, który nie podlega ubezpieczeniu społecznemu rolników, albo osoba będąca członkiem rodziny rolnika lub domownika, która nie spełnia warunków do podlegania temu ubezpieczeniu, sprawująca osobistą opiekę nad dzieckiem na zasadach okresach, o których mowa art. 16a ust. 1, może zgłosić wniosek do Kasy o objęcie ubezpieczeniem emerytalno-rentowym tym okresie.
+1. Rolnik albo domownik, który nie podlega ubezpieczeniu społecznemu rolników, albo osoba będąca członkiem rodziny rolnika lub domownika, która nie spełnia warunków do podlegania temu ubezpieczeniu, sprawująca osobistą opiekę nad dzieckiem na zasadach i w okresach, o których mowa w art. 16a ust. 1, może zgłosić wniosek do Kasy o objęcie ubezpieczeniem emerytalno-rentowym w tym okresie.
 
-2. Za osobę, o której mowa ust. 1, składka na ubezpieczenie emerytalno-rentowe jest finansowana dotacji budżetu państwa do funduszu emerytalno-rentowego przez okres nie dłuższy niż określony art. 16a ust. 1, jeżeli ta osoba nie podlega innemu ubezpieczeniu społecznemu.
+2. Za osobę, o której mowa w ust. 1, składka na ubezpieczenie emerytalno-rentowe jest finansowana z dotacji budżetu państwa do funduszu emerytalno-rentowego przez okres nie dłuższy niż określony w art. 16a ust. 1, jeżeli ta osoba nie podlega innemu ubezpieczeniu społecznemu.
 
-**Art. 16d.** Składka na ubezpieczenie emerytalno-rentowe osób, o których mowa art. 16a art. 16c, jest równa składce, o której mowa art. 17 ust. 1. Do osób tych nie ma zastosowania przepis art. 17 ust. 4.
+**Art. 16d.** Składka na ubezpieczenie emerytalno-rentowe osób, o których mowa w art. 16a oraz art. 16c, jest równa składce, o której mowa w art. 17 ust. 1. Do osób tych nie ma zastosowania przepis art. 17 ust. 4.
 
-**Art. 16e.** Prawo do skorzystania uprawnień określonych art. 16a, art. 16b lub art. 16c przysługuje jednemu rodziców, pod warunkiem że drugi rodzic nie korzysta tych samych uprawnień albo prawa do finansowania składek na podstawie art. 16 ust. 8 ustawy dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. U. 2009 205, 1585, późn. zm. ).
+**Art. 16e.** Prawo do skorzystania z uprawnień określonych w art. 16a, art. 16b lub art. 16c przysługuje jednemu z rodziców, pod warunkiem że drugi rodzic nie korzysta z tych samych uprawnień albo z prawa do finansowania składek na podstawie art. 16 ust. 8 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm. ).
 
-**Art. 16f.** Za osobę sprawującą osobistą opiekę nad dzieckiem, o której mowa art. 16a, art. 16b art. 16c, uważa się osobę sprawującą osobistą opiekę nad dzieckiem własnym lub swojego małżonka, lub dzieckiem przysposobionym.”;
+**Art. 16f.** Za osobę sprawującą osobistą opiekę nad dzieckiem, o której mowa w art. 16a, art. 16b i art. 16c, uważa się osobę sprawującą osobistą opiekę nad dzieckiem własnym lub swojego małżonka, lub dzieckiem przysposobionym.”;
 
-**Art. 4.** W ustawie dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. 672 675) wprowadza się następujące zmiany:
+- **3)** w art. 78 w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) z dotacji z budżetu państwa przeznaczonej na składki na ubezpieczenie emerytalno-rentowe osób, o których mowa w art. 16a–16c.”.
 
-**Art. 5.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 164, 1027, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm. ) w art. 3:
 
-**Art. 6.** W ustawie dnia 4 lutego 2011 o opiece nad dziećmi wieku do lat 3 (Dz. U. 45, 235, późn. zm. ) art. 51 ust. 5:
+- **1)** w pkt 23 lit. f otrzymuje brzmienie: „f) wyrejestrowaniem pozarolniczej działalności gospodarczej lub zawieszeniem jej wykonywania w rozumieniu art. 14a ust. 1d ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, 675 i 983),”;
+- **2)** w pkt 24 lit. f otrzymuje brzmienie: „f) rozpoczęciem pozarolniczej działalności gospodarczej lub wznowieniem jej wykonywania,”.
 
-**Art. 7.** Przy obliczaniu wskaźnika waloryzacji składek, o którym mowa art. 25 ust. 3–12 ustawy dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2009 153, 1227, późn. zm. ), za rok 2013, art. 25a tej ustawy, za czwarty kwartał r., przypisu składek na ubezpieczenie emerytalne wyłącza się składki, które finansuje całości budżet państwa za pośrednictwem Zakładu Ubezpieczeń Społecznych za osoby, o których mowa art. 6b ust. 1 ustawy zmienianej art. 1.
+**Art. 4.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672 i 675) wprowadza się następujące zmiany:
 
-**Art. 8.** Ustawa wchodzi życie dniem 1 września r., wyjątkiem art. 1 pkt 8 lit. a, który wchodzi życie dniem 1 stycznia 2014 Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+- **1)** w art. 14a po ust. 1c dodaje się ust. 1d i 1e w brzmieniu: „1d. Przedsiębiorca niezatrudniający pracowników prowadzący działalność gospodarczą przez okres co najmniej 6 miesięcy może zawiesić wykonywanie działalności gospodarczej na okres do 3 lat w celu sprawowania osobistej opieki nad dzieckiem, nie dłużej jednak niż do ukończenia przez nie 5 roku życia, a w przypadku dziecka, które z powodu stanu zdrowia potwierdzonego orzeczeniem o niepełnosprawności lub stopniu niepełnosprawności wymaga osobistej opieki osoby prowadzącej działalność gospodarczą, na okres do 6 lat, nie dłużej jednak niż do ukończenia przez dziecko 18 roku życia.
+
+1e. Z uprawnienia, o którym mowa w ust. 1d, przedsiębiorca może korzystać jednorazowo w całości lub w nie więcej niż 4 częściach.”;
+
+- **2)** w art. 34 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) niezłożenia wniosku o wpis informacji o wznowieniu wykonywania działalności gospodarczej od dnia następującego po dniu, do którego przedsiębiorca zawiesił wykonywanie działalności gospodarczej na podstawie art. 14a ust. 1d;”.
+
+**Art. 5.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 66 w ust. 1:
+    - **a)** po pkt 32 dodaje się pkt 32a w brzmieniu: „32a) osoby, o których mowa w art. 6a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;”,
+    - **b)** pkt 34 otrzymuje brzmienie: „34) rolnicy i ich domownicy, którzy nie podlegają ubezpieczeniu społecznemu rolników z mocy ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, niepodlegający obowiązkowi ubezpieczenia zdrowotnego na podstawie pkt 1–33 i 35–37;”;
+
+- **2)** w art. 73 po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) osób, o których mowa w art. 66 ust. 1 pkt 32a, powstaje z dniem objęcia ubezpieczeniami emerytalnym i rentowymi w związku ze sprawowaniem osobistej opieki nad dzieckiem, a wygasa z dniem zakończenia sprawowania tej opieki;”;
+- **3)** w art. 75 po ust. 15 dodaje się ust. 15a w brzmieniu: „15a. Osoby, o których mowa w art. 66 ust. 1 pkt 32a, zgłasza do ubezpieczenia zdrowotnego jednostka organizacyjna Zakładu Ubezpieczeń Społecznych, określona w przepisach o systemie ubezpieczeń społecznych.”;
+- **4)** w art. 81 w ust. 8 pkt 10 otrzymuje brzmienie: „10) osób, o których mowa w art. 66 ust. 1 pkt 32 i 32a, jest kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych;”;
+- **5)** w art. 85 po ust. 15 dodaje się ust. 15a w brzmieniu: „15a. Za osoby, o których mowa w art. 66 ust. 1 pkt 32a, składkę na ubezpieczenie zdrowotne jako płatnik oblicza Zakład Ubezpieczeń Społecznych.”;
+- **6)** w art. 86 w ust. 1 pkt 13 otrzymuje brzmienie: „13) osób, o których mowa w art. 66 ust. 1 pkt 31a–32a, opłaca Zakład Ubezpieczeń Społecznych;”.
+
+**Art. 6.** W ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. Nr 45, poz. 235, z późn. zm. ) w art. 51 w ust. 5:
+
+- **1)** pkt 2 otrzymuje brzmienie: „2) umowa uaktywniająca została zawarta między nianią a osobami pełniącymi funkcję rodziny zastępczej zawodowej, lub”;
+- **2)** dodaje się pkt 3 w brzmieniu: „3) rodzic dziecka podlega ubezpieczeniom emerytalnemu i rentowym na podstawie art. 6 ust. 1 pkt 19 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585, z późn. zm. ).”.
+
+**Art. 7.** Przy obliczaniu wskaźnika waloryzacji składek, o którym mowa w art. 25 ust. 3–12 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm. ), za rok 2013, oraz w art. 25a tej ustawy, za czwarty kwartał 2013 r., z przypisu składek na ubezpieczenie emerytalne wyłącza się składki, które finansuje w całości budżet państwa za pośrednictwem Zakładu Ubezpieczeń Społecznych za osoby, o których mowa w art. 6b ust. 1 ustawy zmienianej w art. 1.
+
+**Art. 8.** Ustawa wchodzi w życie z dniem 1 września 2013 r., z wyjątkiem art. 1 pkt 8 lit. a, który wchodzi w życie z dniem 1 stycznia 2014 r.
 

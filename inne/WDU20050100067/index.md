@@ -8,7 +8,7 @@ pos: 67
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej oraz o prawie pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania
@@ -220,6 +220,9 @@ source: "isap-pdf"
 
 **Art. 26.** Wnioskodawca, który złożył wniosek o przyznanie prawa pomocy w postępowaniu, które ma być wszczęte lub jest prowadzone w innym państwie członkowskim, za pośrednictwem sądu okręgowego, może uzyskać także w Rzeczypospolitej Polskiej prawo pomocy na potrzeby tego postępowania w zakresie:
 
+- **1)** zwolnienia od wydatków obejmujących koszty tłumaczenia wniosku o przyznanie prawa pomocy w innym państwie członkowskim oraz niezbędnych dokumentów uzasadniających ten wniosek;
+- **2)** ustanowienia adwokata albo radcy prawnego w celu udzielenia przez niego wnioskodawcy pomocy prawnej w Rzeczypospolitej Polskiej na potrzeby postępowania, które ma być wszczęte lub jest prowadzone w innym państwie członkowskim, do dnia otrzymania wniosku o przyznanie prawa pomocy przez właściwy organ tego państwa członkowskiego.
+
 **Art. 27.** Skarb Państwa ponosi koszty ustanowienia adwokata albo radcy prawnego oraz tłumaczenia, o którym mowa w art. 26 pkt 1. Przepis art. 16 ust. 2 stosuje się odpowiednio.
 
 **Art. 28.**
@@ -235,6 +238,10 @@ source: "isap-pdf"
 **Art. 31.** Do odmowy przyznania i cofnięcia przyznanego prawa pomocy, o którym mowa w art. 26, przepisy art. 18 i 19 stosuje się odpowiednio.
 
 **Art. 32.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** wzór i sposób udostępnienia urzędowego formularza wniosku o przyznanie prawa pomocy, o którym mowa w art. 9 ust. 2, kierując się wymaganiami przewidzianymi dla wniosków o przyznanie prawa pomocy, potrzebą zawarcia w nich odpowiednich pouczeń ułatwiających wypełnienie wniosku i koniecznością zapewnienia ich dostępności osobom zainteresowanym;
+- **2)** wzór urzędowego formularza przekazania wniosku o przyznanie prawa pomocy, o którym mowa w art. 25 ust. 2, mając na względzie konieczność udostępnienia państwom członkowskim Unii Europejskiej, do których jest kierowany, danych umożliwiających nadanie wnioskowi o przyznanie prawa pomocy prawidłowego biegu;
+- **3)** szczegółowy sposób ponoszenia kosztów prawa pomocy w celu ugodowego załatwienia sporu przed wszczęciem postępowania, po zasięgnięciu opinii Naczelnej Rady Adwokackiej oraz Krajowej Rady Radców Prawnych, z uwzględnieniem sposobu ustalania tych kosztów oraz maksymalnej wysokości opłat za udzieloną pomoc.
 
 **Art. 33.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

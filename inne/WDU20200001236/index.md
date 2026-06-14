@@ -8,10 +8,10 @@ pos: 1236
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lipca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1236 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 9 lipca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1236/text.pdf) |
 
-Poz. 1236 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 9 lipca 2020 r.
-w sprawie opłat za przeprowadzenie przez Agencję Bezpieczeństwa Wewnętrznego albo Służbę Kontrwywiadu Wojskowego czynności z zakresu bezpieczeństwa teleinformatycznego Na podstawie art. 53 ust. 4 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy sposób i tryb ustalania wysokości oraz poboru opłat za przeprowadzenie przez Agencję Bezpieczeństwa Wewnętrznego, zwaną dalej „ABW”, albo Służbę Kontrwywiadu Wojskowego, zwaną dalej „SKW”, czynności z zakresu bezpieczeństwa teleinformatycznego, o których mowa w art. 48 ust. 3–6 oraz art. 50 ust. 1–4 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
+w sprawie opłat za przeprowadzenie przez Agencję Bezpieczeństwa Wewnętrznego albo Służbę Kontrwywiadu Wojskowego czynności z zakresu bezpieczeństwa teleinformatycznego Na podstawie art. 53 ust. 4 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy sposób i tryb ustalania wysokości oraz poboru opłat za przeprowadzenie przez Agencję Bezpieczeństwa Wewnętrznego, zwaną dalej „ABW”, albo Służbę Kontrwywiadu Wojskowego, zwaną dalej „SKW”, czynności z zakresu bezpieczeństwa teleinformatycznego, o których mowa w art. 48 ust. 3–6 oraz art. 50 ust. 1–4 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
 § 2. Opłaty za przeprowadzenie przez ABW albo SKW czynności z zakresu bezpieczeństwa teleinformatycznego wynoszą:
 1) za ocenę i audyt bezpieczeństwa systemu teleinformatycznego przeznaczonego do przetwarzania informacji niejawnych w ramach akredytacji bezpieczeństwa teleinformatycznego systemu teleinformatycznego przeznaczonego do przetwarzania informacji niejawnych – równowartość 0,1 kwoty bazowej, o której mowa w art. 53 ust. 5 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych, zwanej dalej „kwotą bazową”, za godzinę pracy osoby dokonującej oceny lub audytu, ale nie więcej niż równowartość 50-krotności kwoty bazowej;
 2) za badania i ocenę bezpieczeństwa środka ochrony elektromagnetycznej przeznaczonego do ochrony informacji niejawnych o klauzuli „poufne” lub wyższej w ramach procesu certyfikacji – równowartość 0,1 kwoty bazowej za godzinę pracy osoby wykonującej badania lub ocenę, ale nie więcej niż równowartość 25-krotności kwoty bazowej;
@@ -36,7 +36,7 @@ b) 75-krotności kwoty bazowej, gdy urządzenie lub narzędzie jest przeznaczone
 c) 50-krotności kwoty bazowej, gdy urządzenie lub narzędzie jest przeznaczone do ochrony informacji niejawnych o klauzuli „poufne”,
 d) 25-krotności kwoty bazowej, gdy urządzenie lub narzędzie jest przeznaczone do ochrony informacji niejawnych o klauzuli „zastrzeżone”;
 4) za badania i ocenę bezpieczeństwa urządzenia lub narzędzia przeznaczonego do ochrony informacji niejawnych realizującego zabezpieczenia teleinformatyczne w ramach procesu certyfikacji – równowartość 0,1 kwoty bazowej za godzinę pracy osoby wykonującej badania lub ocenę, ale nie więcej niż równowartość:
-a) 100-krotności kwoty bazowej, gdy urządzenie lub narzędzie jest przeznaczone do ochrony informacji niejawnych o klauzuli „ściśle tajne”, Dziennik Ustaw – 2 – Poz. 1236
+a) 100-krotności kwoty bazowej, gdy urządzenie lub narzędzie jest przeznaczone do ochrony informacji niejawnych o klauzuli „ściśle tajne”,
 b) 75-krotności kwoty bazowej, gdy urządzenie lub narzędzie jest przeznaczone do ochrony informacji niejawnych o klauzuli „tajne”,
 c) 50-krotności kwoty bazowej, gdy urządzenie lub narzędzie jest przeznaczone do ochrony informacji niejawnych o klauzuli „poufne”,
 d) 25-krotności kwoty bazowej, gdy urządzenie lub narzędzie jest przeznaczone do ochrony informacji niejawnych o klauzuli „zastrzeżone”;

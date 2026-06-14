@@ -8,10 +8,10 @@ pos: 2249
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2249 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 4 grudnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002249) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2249/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 4 grudnia 2017 r.
 w sprawie ksiąg ewidencyjnych prowadzonych przez podmioty gospodarcze wyspecjalizowane w zakresie obrotu zabytkami na terytorium Rzeczypospolitej Polskiej Na podstawie art. 59a ust. 14 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U.
-z 2017 r. poz. 2187) zarządza się, co następuje: § 1. Rozporządzenie określa wzór księgi ewidencyjnej zabytków przyjętych lub oferowanych do zbycia na własną rzecz i na rzecz innych osób, o wartości przekraczającej 10 000 złotych, prowadzonej przez podmiot gospodarczy wyspecjalizowany w zakresie obrotu zabytkami na terytorium Rzeczypospolitej Polskiej, a także ekspertyz wydanych przez ten podmiot, zwanej dalej „księgą ewidencyjnąˮ, szczegółowy sposób jej prowadzenia i przechowywania oraz dokumentację dołączaną do księgi ewidencyjnej.
+z 2017 r. poz. 2187) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wzór księgi ewidencyjnej zabytków przyjętych lub oferowanych do zbycia na własną rzecz i na rzecz innych osób, o wartości przekraczającej 10 000 złotych, prowadzonej przez podmiot gospodarczy wyspecjalizowany w zakresie obrotu zabytkami na terytorium Rzeczypospolitej Polskiej, a także ekspertyz wydanych przez ten podmiot, zwanej dalej „księgą ewidencyjnąˮ, szczegółowy sposób jej prowadzenia i przechowywania oraz dokumentację dołączaną do księgi ewidencyjnej.
 § 2. 1. Wpisy do księgi ewidencyjnej obejmują cztery części, w których umieszcza się następujące dane:
-1) w części pierwszej informacje o zabytku lub o ekspertyzie i zabytku, którego ona dotyczy:
+1) w części pierwszej – informacje o zabytku lub o ekspertyzie i zabytku, którego ona dotyczy:
 a) oznaczenie ekspertyzy, datę jej wydania i liczbę stron, łącznie z ewentualnymi załącznikami,
 b) rodzaj zabytku oraz jego nazwę lub tytuł, jeżeli można je ustalić, a także numer wpisu do rejestru zabytków, jeżeli zabytek jest wpisany do rejestru,
 c) materiał i technikę wykonania zabytku,
@@ -42,6 +42,7 @@ i) opis stanu zachowania zabytku, z uwzględnieniem uszkodzeń i cech charaktery
 j) opis oznaczeń naniesionych na zabytku, w szczególności znaków, sygnatur, numerów inwentarzowych, pieczęci i napisów,
 k) dane osoby, na rzecz której została sporządzona ekspertyza,
 l) wnioski i ważne informacje wynikające z ekspertyzy, o której mowa w lit. a, w szczególności czas powstania zabytku, wycena;
+2) w części drugiej – informacje dotyczące nabycia lub przyjęcia zabytku w komis przez podmiot prowadzący księgę ewidencyjną:
 a) datę nabycia lub przyjęcia zabytku w komis przez podmiot prowadzący księgę ewidencyjną,
 b) cenę zakupu zabytku przez podmiot prowadzący księgę ewidencyjną lub cenę oznaczoną przez zbywcę zlecającego sprzedaż zabytku, w tym komitenta, za którą zabytek ma zostać sprzedany przez podmiot prowadzący księgę ewidencyjną,
 c) dane zbywcy zabytku, w tym komitenta,
@@ -50,13 +51,13 @@ e) sposób nabycia zabytku przez podmiot prowadzący księgę ewidencyjną,
 f) oświadczenie zbywcy, w tym komitenta, dotyczące pochodzenia zabytku i sposobu jego nabycia przez zbywcę, w tym komitenta, wraz z informacją, czy dołączył do oświadczenia dokumenty dotyczące pochodzenia zabytku i sposobu jego nabycia,
 g) oświadczenie podmiotu prowadzącego księgę ewidencyjną dotyczące czynności powziętych w celu weryfikacji, czy zabytek nie pochodzi z przestępstwa ani nie został wyprowadzony z terytorium państwa Unii Europejskiej lub państwa trzeciego z naruszeniem prawa, ze wskazaniem informacji uzyskanych z dostępnych rejestrów, wykazów i baz danych wraz z informacją, jakie dokumenty dotyczące tych czynności podmiot prowadzący księgę ewidencyjną dołączył do oświadczenia,
 h) informację o dołączeniu do księgi ewidencyjnej oryginału lub odpisu dokumentu poświadczającego nabycie zabytku przez podmiot prowadzący księgę ewidencyjną wraz z ceną zakupu oraz Jednolitego Dokumentu Administracyjnego (SAD) lub innego dokumentu potwierdzającego dopuszczenie do obrotu w przypadku, jeżeli podmiot ten nabył zabytek poza obszarem celnym Unii Europejskiej;
-3) w części trzeciej informacje dotyczące zbycia zabytku przez podmiot prowadzący księgę ewidencyjną:
+3) w części trzeciej – informacje dotyczące zbycia zabytku przez podmiot prowadzący księgę ewidencyjną:
 a) datę zbycia zabytku,
 b) cenę sprzedaży zabytku,
 c) dane nabywcy zabytku,
 d) dane osób pośredniczących w zbyciu zabytku, w tym osób reprezentujących osoby prawne,
 e) informację o załączeniu do księgi ewidencyjnej odpisu faktury lub innego dokumentu poświadczającego zbycie zabytku wraz z ceną sprzedaży;
-4) w części czwartej wykaz dołączonych dokumentów lub fotografii, o których mowa w § 3 ust. 1.
+4) w części czwartej – wykaz dołączonych dokumentów lub fotografii, o których mowa w § 3 ust. 1.
 2. Na stronie tytułowej księgi ewidencyjnej organ, o którym mowa w art. 59a ust. 11 ustawy z dnia 23 lipca 2003 r.
 o ochronie zabytków i opiece nad zabytkami, zamieszcza numer ewidencyjny tej księgi oraz kolejnego jej tomu.
 3. Wpisu do księgi ewidencyjnej dokonuje się w terminie 3 dni od dnia, w którym nastąpiło zdarzenie warunkujące wpis.
@@ -67,6 +68,8 @@ o ochronie zabytków i opiece nad zabytkami, zamieszcza numer ewidencyjny tej ks
 § 3. 1. Do księgi ewidencyjnej dołącza się:
 1) fotografie zabytku;
 2) odpis lub kopię ekspertyzy;
+3) dokumenty, o których mowa w § 2 ust. 1 pkt 2 lit. f–h oraz w pkt 3 lit. e.
+2. Fotografie powinny przedstawiać całość zabytku, stan zachowania, elementy szczególne i oznaczenia, o których mowa w § 2 ust. 1 pkt 1 lit. j.
 3. Fotografie zabytku powinny być kolorowe, wykonane na jednolitym tle, w dobrej ostrości i w formacie co najmniej 9 × 13 cm, o rozdzielczości co najmniej 300 dpi; fotografowany zabytek powinien zajmować większą część kadru; formy płaszczyznowe (malarstwo, grafiki itp.) należy fotografować prostopadle do ich powierzchni.
 4. W przypadku zabytków, których przedstawienie nie jest możliwe na pojedynczym zdjęciu, należy dołączyć dodatkowe zdjęcia wykonane z innego ujęcia.
 § 4. Wzór księgi ewidencyjnej określa załącznik do rozporządzenia.
@@ -80,29 +83,29 @@ o ochronie zabytków i opiece nad zabytkami, zamieszcza numer ewidencyjny tej ks
 2) umieszczenie daty oraz czytelnego podpisu osoby dokonującej sprostowania.
 § 8. W odniesieniu do zabytków nabytych lub przyjętych w komis przez podmiot prowadzący księgę ewidencyjną przed dniem wejścia w życie rozporządzenia do księgi ewidencyjnej nie wpisuje się informacji określonych w § 2 ust. 1 pkt 2.
 § 9. Rozporządzenie wchodzi w życie z dniem 6 grudnia 2017 r.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński WZÓR W Ó
+Minister Kultury i Dziedzictwa Narodowego: P. Gliński Załącznik do rozporządzenia Ministra Kultury i Dziedzictwa z dnia 4 grudnia 2017 r. (poz. …) WZÓR WZÓR
 Liczba stron księgi* ....................................................................
 Podmiot prowadzący księgę .......................................................
 Organ ewidencjonujący księgę ...................................................
 * Należy podać liczbę stron bieżącego tomu księgi.
-tytułowa) OSOBY UPOWAŻNIONE DO DOKONYWANIA WPISU Okres Lp. Nazwisko i imię Podpis od do 1 2 3 4 5 6 7 8 … I. CZĘŚĆ PIERWSZA: INFORMACJE O ZABYTKU/EKSPERTYZIE*
+(strona tytułowa) (strona 1) OSOBY UPOWAŻNIONE DO DOKONYWANIA WPISU Okres Lp. Nazwisko i imię Podpis od do 1 2 3 4 5 6 7 8 … (strona parzysta) I. CZĘŚĆ PIERWSZA: INFORMACJE O ZABYTKU/EKSPERTYZIE*
 1. Oznaczenie ekspertyzy, data jej wydania, 2. Rodzaj zabytku oraz jego nazwa lub tytuł;
 liczba stron, ewentualne załączniki** numer wpisu do rejestru zabytków***
 3. Materiał i technika wykonania zabytku 4. Autor lub wytwórca, szkoła, warsztat***
-5. Czas powstania 6. Miejsce powstania 7. Wymiary zabytku*** zabytku*** i ewentualnie waga zabytku (wysokość ×
-8. Informacja o dołączeniu do księgi ewidencyjnej odpisu szerokość) ekspertyzy lub fotografii zabytku
+5. Czas powstania 6. Miejsce powstania 7. Wymiary 8. Informacja zabytku*** zabytku*** i ewentualnie waga o dołączeniu do księgi zabytku (wysokość × ewidencyjnej odpisu szerokość) ekspertyzy lub fotografii zabytku
 9. Opis stanu zachowania zabytku, 10. Opis oznaczeń naniesionych na zabytku, z uwzględnieniem uszkodzeń i cech w szczególności znaków, sygnatur, numerów charakterystycznych inwentarzowych, pieczęci i napisów
 11. Dane osoby, na rzecz której została 12. Wnioski i ważne informacje wynikające sporządzona ekspertyza** z ekspertyzy (w szczególności czas powstania zabytku, wycena)** ……………………………………………….. ………………………………………………..
-imię i nazwisko osoby dokonującej wpisu data i podpis osoby dokonującej wpisu II. CZĘŚĆ DRUGA: INFORMACJE DOTYCZĄCE NABYCIA LUB PRZYJĘCIA ZABYTKU W KOMIS
+imię i nazwisko osoby dokonującej wpisu data i podpis osoby dokonującej wpisu (strona nieparzysta) II. CZĘŚĆ DRUGA: INFORMACJE DOTYCZĄCE NABYCIA LUB PRZYJĘCIA ZABYTKU W KOMIS
 13. Data nabycia lub przyjęcia 14. Cena zakupu zabytku 15. Dane zbywcy zabytku* zabytku w komis przez podmiot przez podmiot prowadzący prowadzący księgę ewidencyjną księgę ewidencyjną lub cena oznaczona przez zbywcę zlecającego sprzedaż zabytku, w tym komitenta, za 16. Dane osób pośredniczących którą zabytek ma zostać w nabyciu zabytku, w tym osób sprzedany przez podmiot reprezentujących osoby prawne prowadzący księgę ewidencyjną
 17. Sposób nabycia zabytku przez podmiot prowadzący księgę ewidencyjną
 18. Oświadczenie zbywcy** dotyczące pochodzenia zabytku i sposobu jego nabycia przez zbywcę** wraz z informacją, czy zbywca** dołączył do oświadczenia dokumenty dotyczące pochodzenia zabytku i sposobu jego nabycia przez zbywcę**/***:
-19. Oświadczenie podmiotu prowadzącego księgę ewidencyjną, dotyczące czynności powziętych w celu weryfikacji, czy zabytek nie pochodzi z przestępstwa ani nie został wyprowadzony z terytorium państwa Unii Europejskiej lub państwa trzeciego z naruszeniem prawa, ze wskazaniem informacji uzyskanych z dostępnych rejestrów, wykazów i baz danych oraz informacją, jakie dokumenty dotyczące tych czynności podmiot prowadzący księgę ewidencyjną dołączył do oświadczenia**: poświadczającego nabycie zabytku przez podmiot prowadzący księgę ewidencyjną wraz z ceną zakupu oraz Jednolitego Dokumentu Administracyjnego (SAD) lub innego dokumentu potwierdzającego dopuszczenie do obrotu w przypadku, jeżeli podmiot ten nabył zabytek poza obszarem celnym Unii Europejskiej: ……………………………………………….. ………………………………………………..
-imię i nazwisko osoby dokonującej wpisu data i podpis osoby dokonującej wpisu III. CZĘŚĆ TRZECIA: INFORMACJE DOTYCZĄCE ZBYCIA ZABYTKU
+19. Oświadczenie podmiotu prowadzącego księgę ewidencyjną, dotyczące czynności powziętych w celu weryfikacji, czy zabytek nie pochodzi z przestępstwa ani nie został wyprowadzony z terytorium państwa Unii Europejskiej lub państwa trzeciego z naruszeniem prawa, ze wskazaniem informacji uzyskanych z dostępnych rejestrów, wykazów i baz danych oraz informacją, jakie dokumenty dotyczące tych czynności podmiot prowadzący księgę ewidencyjną dołączył do oświadczenia**:
+20. Informacja o dołączeniu do księgi ewidencyjnej oryginału lub odpisu dokumentu poświadczającego nabycie zabytku przez podmiot prowadzący księgę ewidencyjną wraz z ceną zakupu oraz Jednolitego Dokumentu Administracyjnego (SAD) lub innego dokumentu potwierdzającego dopuszczenie do obrotu w przypadku, jeżeli podmiot ten nabył zabytek poza obszarem celnym Unii Europejskiej: ……………………………………………….. ………………………………………………..
+imię i nazwisko osoby dokonującej wpisu data i podpis osoby dokonującej wpisu (strona parzysta) III. CZĘŚĆ TRZECIA: INFORMACJE DOTYCZĄCE ZBYCIA ZABYTKU
 21. Data zbycia 22. Cena sprzedaży 23. Dane nabywcy zabytku zabytku zabytku
 24. Dane osób pośredniczących w zbyciu zabytku, w tym osób reprezentujących osoby prawne
 25. Informacja o załączeniu do księgi ewidencyjnej odpisu faktury lub innego dokumentu poświadczającego zbycie zabytku wraz z ceną sprzedaży ……………………………………………….. ………………………………………………..
-imię i nazwisko osoby dokonującej wpisu data i podpis osoby dokonującej wpisu IV. CZĘŚĆ CZWARTA: WYKAZ DOŁĄCZONYCH DOKUMENTÓW I FOTOGRAFII Nr Data sporządzenia Opis dokumentu lub fotografii 1 2 3 4 … ……………………………………………….. ………………………………………………..
+imię i nazwisko osoby dokonującej wpisu data i podpis osoby dokonującej wpisu (strona nieparzysta) IV. CZĘŚĆ CZWARTA: WYKAZ DOŁĄCZONYCH DOKUMENTÓW I FOTOGRAFII Nr Data sporządzenia Opis dokumentu lub fotografii 1 2 3 4 … ……………………………………………….. ………………………………………………..
 imię i nazwisko osoby dokonującej wpisu data i podpis osoby dokonującej wpisu
 
 # KSIĘGA EWIDENCYJNA ZABYTKÓW PRZYJĘTYCH LUB OFEROWANYCH DO ZBYCIA I WYDANYCH EKSPERTYZ Numer ewidencyjny księgi ....................................... tom ..........

@@ -8,10 +8,10 @@ pos: 2733
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia 20 grudnia 22773333 WZÓR Oznaczenie podmiotu wykonującego działalność leczniczą Karta urodzenia I. Dane matki dziecka:
+# RZECZYPOSPOLITEJ Poz. 22773333 Załączniki do z dnia 6 grudnia WZÓR Oznaczenie podmiotu wykonującego działalność leczniczą Karta urodzenia I. Dane matki dziecka:
 
 | Pole | Wartość |
 |---|---|

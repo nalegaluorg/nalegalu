@@ -8,7 +8,7 @@ pos: 509
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 2 kwietnia 2015 r.

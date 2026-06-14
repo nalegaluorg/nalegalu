@@ -8,7 +8,7 @@ pos: 1733
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027
@@ -43,6 +43,52 @@ Art. 94–130. (pominięte)
 - **4)** środków pomocy technicznej w programie Interreg.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** beneficjent – podmiot, o którym mowa w art. 2 pkt 9 rozporządzenia ogólnego;
+- **2)** decyzja o dofinansowaniu projektu – decyzję podjętą przez jednostkę sektora finansów publicznych, która stanowi podstawę dofinansowania projektu, w przypadku gdy ta jednostka jest jednocześnie instytucją udzielającą dofinansowania oraz wnioskodawcą;
+- **3)** dofinansowanie – finansowanie UE lub współfinansowanie krajowe z budżetu państwa, przyznane na podstawie umowy o dofinansowanie projektu albo decyzji o dofinansowaniu projektu, lub ze środków funduszy celowych, o ile tak stanowi umowa o dofinansowanie projektu albo decyzja o dofinansowaniu projektu;
+- **4)** finansowanie UE:
+    - **a)** środki pochodzące z budżetu środków europejskich, o którym mowa w art. 117 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483), oraz podlegające refundacji przez Komisję Europejską środki budżetu państwa przeznaczone na realizację projektów pomocy technicznej, wypłacane na rzecz beneficjenta na podstawie umowy o dofinansowanie projektu albo decyzji o dofinansowaniu projektu albo wydatkowane przez państwową jednostkę budżetową w ramach projektu – w przypadku krajowego lub regionalnego programu,
+    - **b)** środki Europejskiego Funduszu Rozwoju Regionalnego lub Instrumentu Sąsiedztwa oraz Współpracy Międzynarodowej i Rozwojowej, o którym mowa w art. 10 rozporządzenia Interreg, pochodzące z budżetu programu Interreg, wypłacane na rzecz beneficjenta w ramach projektu – w przypadku programu Interreg;
+
+- **5)** Fundusz na rzecz Sprawiedliwej Transformacji – Fundusz na rzecz Sprawiedliwej Transformacji, o którym mowa w art. 1 rozporządzenia ogólnego;
+- **6)** Fundusz Spójności – Fundusz Spójności, o którym mowa w art. 1 rozporządzenia ogólnego;
+- **7)** fundusze strukturalne – Europejski Fundusz Rozwoju Regionalnego oraz Europejski Fundusz Społeczny Plus, o których mowa w art. 1 rozporządzenia ogólnego;
+- **8)** instrument finansowy – instrument finansowy, o którym mowa w art. 2 pkt 16 rozporządzenia ogólnego;
+- **9)** instytucja audytowa – instytucję audytową, o której mowa w art. 71 rozporządzenia ogólnego lub w art. 45 i art. 46 rozporządzenia Interreg;
+- **10)** instytucja pośrednicząca – podmiot, któremu została powierzona w drodze porozumienia albo umowy zawartych z instytucją zarządzającą realizacja zadań w ramach krajowego programu lub regionalnego programu;
+- **11)** instytucja wdrażająca – podmiot, któremu została powierzona w drodze porozumienia albo umowy zawartych z instytucją pośredniczącą realizacja zadań w ramach krajowego programu lub regionalnego programu;
+- **12)** instytucja zarządzająca – instytucję zarządzającą, o której mowa w art. 71 rozporządzenia ogólnego lub w art. 46 rozporządzenia Interreg;
+- **13)** korekta finansowa – kwotę, o jaką pomniejsza się finansowanie UE dla projektu lub programu w związku z nieprawidłowością indywidualną lub systemową;
+- **14)** krajowy kontroler – kontrolera wyznaczonego zgodnie z art. 46 ust. 4 rozporządzenia Interreg;
+- **15)** krajowy program – program służący realizacji umowy partnerstwa w zakresie polityki spójności w rozumieniu art. 5 pkt 7a lit. a ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uchwalony przez Radę Ministrów i przyjęty przez Komisję Europejską, odzwierciedlający cele zawarte w umowie partnerstwa, które mają być osiągnięte za pomocą funduszy strukturalnych, Funduszu Spójności lub Funduszu na rzecz Sprawiedliwej Transformacji, będący podstawą realizacji określonych w nim działań, stanowiący program, o którym mowa w art. 22 rozporządzenia ogólnego;
+- **16)** kryteria wyboru projektów – kryteria umożliwiające ocenę projektu, zatwierdzone przez komitet monitorujący, o którym mowa w art. 38 rozporządzenia ogólnego;
+- **17)** nieprawidłowość indywidualna – nieprawidłowość, o której mowa w art. 2 pkt 31 rozporządzenia ogólnego;
+- **18)** nieprawidłowość systemowa – nieprawidłowość, o której mowa w art. 2 pkt 33 rozporządzenia ogólnego;
+- **19)** portal – portal internetowy, o którym mowa w art. 46 lit. b rozporządzenia ogólnego;
+- **20)** program – krajowy program, program Interreg lub regionalny program;
+- **21)** program Interreg – program, o którym mowa w art. 8 rozporządzenia Interreg, na przystąpienie do którego wyraziła zgodę Rada Ministrów, przyjęty przez Komisję Europejską, będący podstawą realizacji działań w nim określonych, przy czym w przypadku programów Interreg realizowanych na granicach zewnętrznych Unii Europejskiej zgoda Rady Ministrów dotyczy również umowy w sprawie finansowania, o której mowa w art. 59 rozporządzenia Interreg;
+- **22)** projekt – przedsięwzięcie zmierzające do osiągnięcia założonego celu określonego wskaźnikami, z określonym początkiem i końcem realizacji, zgłoszone do objęcia albo objęte finansowaniem UE jednego z funduszy strukturalnych, Funduszu Spójności albo Funduszu na rzecz Sprawiedliwej Transformacji w ramach programu;
+- **23)** regionalny program – program służący realizacji umowy partnerstwa w zakresie polityki spójności w rozumieniu art. 5 pkt 7a lit. a ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, uchwalony przez zarząd województwa i przyjęty przez Komisję Europejską, odzwierciedlający cele zawarte w umowie partnerstwa, które mają być osiągnięte za pomocą funduszy strukturalnych, lub w zakresie wynikającym z umowy partnerstwa, również za pomocą Funduszu na rzecz Sprawiedliwej Transformacji, będący podstawą realizacji określonych w nim działań, stanowiący program, o którym mowa w art. 22 rozporządzenia ogólnego;
+- **24)** rozporządzenie EFRR i Funduszu Spójności – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności (Dz. Urz. UE L 231 z 30.06.2021, str. 60, z późn. zm. );
+- **25)** rozporządzenie EFS+ – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/1057 z dnia 24 czerwca 2021 r. ustanawiające Europejski Fundusz Społeczny Plus (EFS+) oraz uchylające rozporządzenie (UE) nr 1296/2013 (Dz. Urz. UE L 231 z 30.06.2021, str. 21, z późn. zm. );
+- **26)** rozporządzenie FST – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/1056 z dnia 24 czerwca 2021 r. ustanawiające Fundusz na rzecz Sprawiedliwej Transformacji (Dz. Urz. UE L 231 z 30.06.2021, str. 1, z późn. zm. );
+- **27)** rozporządzenie Interreg – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca 2021 r. w sprawie przepisów szczegółowych dotyczących celu „Europejska współpraca terytorialna” (Interreg) wspieranego w ramach Europejskiego Funduszu Rozwoju Regionalnego oraz instrumentów finansowania zewnętrznego (Dz. Urz. UE L 231 z 30.06.2021, str. 94);
+- **28)** rozporządzenie ogólne – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiające wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm. );
+- **29)** system teleinformatyczny – system, w którym rejestruje się i przechowuje w formie elektronicznej dane, zgodnie z art. 72 ust. 1 lit. e rozporządzenia ogólnego, w tym centralny system teleinformatyczny;
+- **30)** system zarządzania i kontroli – system, o którym mowa w tytule VI w rozdziale I rozporządzenia ogólnego;
+- **31)** szczegółowy opis priorytetów programu – dokument przygotowany i przyjęty przez instytucję zarządzającą krajowym programem albo regionalnym programem, określający w szczególności zakres działań realizowanych w ramach poszczególnych priorytetów programu;
+- **32)** umowa o dofinansowanie projektu:
+    - **a)** umowę zawartą między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania, zawierającą co najmniej elementy, o których mowa w art. 206 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w tym umowę o finansowaniu, o której mowa w art. 59 ust. 5 rozporządzenia ogólnego,
+    - **b)** porozumienie, o którym mowa w art. 206 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, zawarte między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania,
+    - **c)** umowę lub porozumienie zawarte między właściwą instytucją a wnioskodawcą, którego projekt został wybrany do dofinansowania w ramach programu Interreg;
+
+- **33)** umowa partnerstwa – umowę partnerstwa, o której mowa w art. 5 pkt 9a ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju;
+- **34)** wnioskodawca – podmiot, który złożył wniosek o dofinansowanie projektu;
+- **35)** wsparcie warunkowe – wsparcie, o którym mowa w art. 2 pkt 43 rozporządzenia ogólnego;
+- **36)** wspólny sekretariat – wspólny sekretariat, o którym mowa w art. 46 ust. 2 rozporządzenia Interreg;
+- **37)** współfinansowanie krajowe z budżetu państwa – środki z budżetu państwa niepochodzące z budżetu środków europejskich, o którym mowa w art. 117 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, wypłacane na rzecz beneficjenta na podstawie umowy o dofinansowanie projektu albo decyzji o dofinansowaniu projektu albo wydatkowane przez państwową jednostkę budżetową w ramach projektu, z wyłączeniem podlegających refundacji przez Komisję Europejską środków budżetu państwa przeznaczonych na realizację projektów pomocy technicznej i projektów Interreg;
+- **38)** wytyczne – instrument prawny określający ujednolicone warunki i procedury wdrażania funduszy strukturalnych, Funduszu Spójności i Funduszu na rzecz Sprawiedliwej Transformacji skierowane do instytucji uczestniczących w realizacji programów oraz stosowane przez te instytucje na podstawie właściwego porozumienia, kontraktu programowego, o którym mowa w art. 5 pkt 4d ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, albo umowy oraz przez beneficjentów na podstawie umowy o dofinansowanie projektu albo decyzji o dofinansowaniu projektu.
 
 **Art. 3.** Minister właściwy do spraw rozwoju regionalnego wykonuje, o ile ustawa nie stanowi inaczej, zadania państwa członkowskiego określone w przepisach rozporządzenia ogólnego.
 
@@ -1008,6 +1054,9 @@ Art. 94–130. (pominięte)
 
 **Art. 62.** Projekt objęty dofinansowaniem może być zmieniony za zgodą właściwej instytucji, jeżeli:
 
+- **1)** zmiany nie wpłynęłyby na wynik oceny projektu w sposób, który skutkowałby negatywną oceną projektu, albo
+- **2)** zmiany wynikają z wystąpienia okoliczności niezależnych od beneficjenta, których nie mógł przewidzieć, działając z należytą starannością, oraz zmieniony projekt w wystarczającym stopniu będzie przyczyniał się do realizacji celów programu.
+
 #### Rozdział 16 Procedura odwoławcza
 
 **Art. 63.** Wnioskodawcy, w przypadku negatywnej oceny projektu, o której mowa w art. 56 ust. 5 i 6, wybieranego w sposób konkurencyjny, przysługuje prawo wniesienia protestu w celu ponownego sprawdzenia złożonego przez niego wniosku w zakresie spełniania kryteriów wyboru projektów.
@@ -1050,6 +1099,9 @@ Art. 94–130. (pominięte)
 6. W przypadku wycofania protestu wnioskodawca nie może wnieść skargi do sądu administracyjnego.
 
 **Art. 66.** Protest jest rozpatrywany przez instytucję:
+
+- **1)** zarządzającą albo
+- **2)** pośredniczącą – jeżeli została ustanowiona dla danego programu i instytucja zarządzająca powierzyła jej zadania w tym zakresie na podstawie porozumienia albo umowy, o których mowa w art. 9 ust. 1.
 
 **Art. 67.**
 
@@ -1384,4 +1436,14 @@ Art. 94–130. (pominięte)
 2. Projekt planu, o którym mowa w ust. 1, jest sporządzany w terminie 14 dni od dnia wejścia w życie ustawy.
 
 **Art. 146.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 125 pkt 11 lit. b i pkt 13, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2019 r.;
+- **2)** art. 129, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.;
+- **3)** art. 111, art. 139 i art. 144, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **4)** art. 84, który wchodzi w życie z dniem 1 lipca 2022 r.;
+- **5)** art. 113 pkt 4 lit. b i pkt 5 oraz art. 140, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **6)** art. 125 pkt 12, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z mocą od dnia 1 lipca 2019 r.;
+- **7)** art. 125 pkt 10, 17, 18 i 20, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **8)** art. 113 pkt 19 i art. 142 ust. 4, które wchodzą w życie po upływie 36 miesięcy od dnia ogłoszenia.
+
 

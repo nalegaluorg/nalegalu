@@ -8,7 +8,7 @@ pos: 1068
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Państwowej Komisji Badania Wypadków Morskich
@@ -150,6 +150,10 @@ source: "isap-pdf"
 4. Przewodniczący Komisji może zlecić wykonanie ekspertyz, badań lub analiz niezbędnych do prowadzenia badania wypadku lub incydentu morskiego, innym podmiotom niż eksperci.
 
 **Art. 11.** Członek Komisji lub ekspert biorący udział w pracach Komisji, także po wygaśnięciu członkostwa w Komisji lub zakończeniu przez eksperta prac w Komisji:
+
+- **1)** jest obowiązany zachować w tajemnicy wiadomości powzięte w związku z badaniem przez Komisję wypadku lub incydentu morskiego;
+- **2)** może być zwolniony od obowiązku zachowania tajemnicy przez właściwy organ wyłącznie gdy nadrzędny interes publiczny uzasadnia odstąpienie od zasady poufności;
+- **3)** nie może występować w roli biegłego w postępowaniu przed sądem lub innym organem w zakresie spraw prowadzonych przez Komisję, w których członek Komisji lub ekspert brał lub bierze udział.
 
 **Art. 12.**
 
@@ -519,6 +523,9 @@ source: "isap-pdf"
 **Art. 48.** Organy administracji publicznej, w tym terenowe organy administracji morskiej, Morska Służba Poszukiwania i Ratownictwa, Marynarka Wojenna, Straż Graniczna, Policja oraz Państwowa Straż Pożarna są obowiązane do udzielania Komisji niezbędnej pomocy przy prowadzeniu czynności związanych z badaniem wypadku lub incydentu morskiego.
 
 **Art. 49.** Osoba dysponująca:
+
+- **1)** środkami łączności mogącymi pomóc w przekazaniu wiadomości dotyczącej wypadku lub incydentu morskiego,
+- **2)** środkami rejestracji obrazu lub dźwięku albo materiałami lub informacjami mogącymi pomóc w ustaleniu okoliczności i przyczyn wypadku lub incydentu morskiego – jest obowiązana udostępnić je niezwłocznie na żądanie Komisji.
 
 **Art. 50.**
 

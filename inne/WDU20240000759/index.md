@@ -8,10 +8,10 @@ pos: 759
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 maja 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 775599 OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 1 maja 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000759) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/759/text.pdf) |
 
-OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 1 maja 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 26 lipca 2010 r. w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej (Dz. U. z 2020 r. poz. 1900), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 17 kwietnia 2023 r. zmieniającym rozporządzenie w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej (Dz. U. poz. 800).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 17 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej (Dz. U. poz. 800), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Sprawiedliwości: A. Bodnar ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 26 lipca 2010 r.
 w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej Na podstawie art. 118 ust. 14 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy tryb ustalania okoliczności i przyczyn wypadków pozostających w związku z pełnieniem służby i chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby w Służbie Więziennej;
 2) przełożonych właściwych do ustalania okoliczności i przyczyn wypadków;
 3) szczegółowe obowiązki przełożonego i funkcjonariusza, który uległ wypadkowi;
@@ -41,11 +41,12 @@ w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających 
 8) sposób dokumentowania chorób pozostających w związku z pełnieniem służby i ich skutków oraz prowadzenia ich rejestru.
 § 2. Kierownikiem jednostki organizacyjnej Służby Więziennej, zwanym dalej „kierownikiem”, jest Dyrektor Generalny Służby Więziennej, zwany dalej „Dyrektorem Generalnym”, Szef Inspektoratu Wewnętrznego Służby Więziennej, zwany dalej „Szefem IWSW”, dyrektor okręgowy, Rektor-Komendant uczelni Służby Więziennej, zwany dalej „Rektorem”, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, dyrektor zakładu karnego i aresztu śledczego oraz komendant ośrodka szkolenia Służby Więziennej i komendant ośrodka doskonalenia kadr Służby Więziennej.
 § 3. Przełożonymi właściwymi do ustalania okoliczności i przyczyn wypadków oraz właściwymi do skierowania do komisji lekarskiej są:
-1) Szef IWSW, dyrektor zakładu karnego i aresztu śledczego, Rektor, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, komendant ośrodka szkolenia Służby Więziennej i komendant ośrodka doskonalenia kadr Służby Więziennej w odniesieniu odpowiednio do zastępców kierowników jednostek organizacyjnych Służby Więziennej, funkcjonariuszy pełniących służbę w tych jednostkach oraz prorektora uczelni Służby Więziennej;
-2) dyrektor okręgowy na terenie jego działania w odniesieniu do zastępcy dyrektora okręgowego, dyrektora zakładu karnego i aresztu śledczego oraz komendanta ośrodka doskonalenia kadr Służby Więziennej i funkcjonariuszy pełniących służbę w okręgowym inspektoracie Służby Więziennej;
-3) Dyrektor Generalny w odniesieniu do zastępcy Dyrektora Generalnego, dyrektorów okręgowych, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej oraz komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego i funkcjonariuszy pełniących służbę w Centralnym Zarządzie Służby Więziennej;
-4) Minister Sprawiedliwości w odniesieniu do Dyrektora Generalnego i Szefa IWSW;
-5) Senat uczelni Służby Więziennej w odniesieniu do Rektora.
+1) Szef IWSW, dyrektor zakładu karnego i aresztu śledczego, Rektor, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, komendant ośrodka szkolenia Służby Więziennej i komendant ośrodka doskonalenia kadr Służby Więziennej – w odniesieniu odpowiednio do zastępców kierowników jednostek organizacyjnych Służby Więziennej, funkcjonariuszy pełniących służbę w tych jednostkach oraz prorektora uczelni Służby Więziennej;
+2) dyrektor okręgowy – na terenie jego działania – w odniesieniu do zastępcy dyrektora okręgowego, dyrektora zakładu karnego i aresztu śledczego oraz komendanta ośrodka doskonalenia kadr Służby Więziennej i funkcjonariuszy pełniących służbę w okręgowym inspektoracie Służby Więziennej;
+3) Dyrektor Generalny – w odniesieniu do zastępcy Dyrektora Generalnego, dyrektorów okręgowych, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej oraz komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego i funkcjonariuszy pełniących służbę w Centralnym Zarządzie Służby Więziennej;
+4) Minister Sprawiedliwości – w odniesieniu do Dyrektora Generalnego i Szefa IWSW;
+5) Senat uczelni Służby Więziennej – w odniesieniu do Rektora.
+§ 4. 1. Postępowanie w sprawie ustalenia okoliczności i przyczyn wypadku toczy się na wniosek albo z urzędu.
 2. W razie niemożności złożenia przez funkcjonariusza, który uległ wypadkowi, zwanego dalej „poszkodowanym”, pisemnego powiadomienia o wypadku kierownik niezwłocznie po wiadomości o wypadku wszczyna z urzędu postępowanie w sprawie ustalenia okoliczności i przyczyn wypadku.
 § 5. Do czasu ustalenia okoliczności i przyczyn wypadku kierownik podejmuje następujące działania:
 1) zabezpiecza miejsce wypadku przed ewentualnymi dalszymi następstwami zdarzenia;
@@ -101,7 +102,7 @@ w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających 
 3) protokół powypadkowy nie odpowiada warunkom określonym w rozporządzeniu.
 3. W przypadkach, o których mowa w ust. 2, komisja sporządza, nie później niż w ciągu 7 dni od dnia otrzymania niezatwierdzonego protokołu powypadkowego, nowy protokół powypadkowy, który następnie przedstawia kierownikowi do zatwierdzenia w terminie określonym w ust. 1. Poprzedni protokół powypadkowy dołącza się do materiałów postępowania powypadkowego.
 § 17. 1. Zatwierdzony protokół powypadkowy przekazuje się po jednym egzemplarzu:
-1) poszkodowanemu, a jeżeli poszkodowany poniósł śmierć w wypadku członkowi jego rodziny, za pisemnym potwierdzeniem odbioru;
+1) poszkodowanemu, a jeżeli poszkodowany poniósł śmierć w wypadku – członkowi jego rodziny, za pisemnym potwierdzeniem odbioru;
 2) właściwej komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych i administracji;
 3) kierownikowi poszkodowanego;
 4) właściwej komórce kadrowej.
@@ -109,6 +110,7 @@ w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających 
 § 18. Kopię protokołu powypadkowego dotyczącego wypadku ze skutkiem śmiertelnym, wypadku ciężkiego lub wypadku zbiorowego, przekazuje się niezwłocznie po zatwierdzeniu przez kierownika do Dyrektora Generalnego oraz do dyrektora okręgowego, na którego terenie działania funkcjonariusz pełni lub pełnił służbę.
 § 19. 1. Kierownik jest obowiązany prowadzić rejestr wypadków pozostających w związku z pełnieniem służby, którego wzór stanowi załącznik nr 4 do rozporządzenia.
 2. Kierownik jest obowiązany przechowywać protokół powypadkowy wraz z pozostałą dokumentacją powypadkową przez 10 lat od dnia wypadku.
+§ 20. 1. Podejrzenie związku choroby ze służbą zgłasza kierownikowi lekarz medycyny pracy Służby Więziennej.
 2. Podejrzenie związku choroby ze służbą mogą zgłosić kierownikowi:
 1) funkcjonariusz oraz funkcjonariusz, którego stosunek służbowy ustał;
 2) bezpośredni przełożony funkcjonariusza.
@@ -123,8 +125,20 @@ w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających 
 2. Kierownik przesyła kopię orzeczenia do właściwej jednostki służby medycyny pracy Służby Więziennej.
 § 25. Podstawowa jednostka służby medycyny pracy Służby Więziennej prowadzi rejestr podejrzeń, rozpoznań i stwierdzeń związku poszczególnych chorób ze służbą, którego wzór stanowi załącznik nr 7 do rozporządzenia.
 § 26. Podstawowa jednostka służby medycyny pracy Służby Więziennej przesyła informację o podejrzeniu, rozpoznaniu i stwierdzeniu związku poszczególnych chorób ze służbą do Dyrektora Generalnego, sporządzoną według wzoru stanowiącego załącznik nr 8 do rozporządzenia.
+§ 27. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się dotychczasowe przepisy.
 § 28. Rozporządzenie wchodzi w życie z dniem 13 sierpnia 2010 r.
-.............................................................
+Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 26 lipca 2010 r.
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Ustalanie okoliczności i przyczyn wypadków pozostających w związku z pełnieniem służby
+
+#### Rozdział 3 Ustalanie okoliczności i przyczyny chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby
+
+#### Rozdział 4 Przepisy przejściowe i końcowe
+
+## Załącznik nr 1 — WZÓR WZÓR .............................................................
+
 (pieczęć nagłówkowa jednostki organizacyjnej Służby Więziennej) PROTOKÓŁ WYJAŚNIEŃ ZŁOŻONYCH PRZEZ POSZKODOWANEGO sporządzono w dniu ....................... r.
 Imię i nazwisko Stanowisko służbowe Jednostka Sporządził Osoby obecne przy 1 ................................
 zbieraniu wyjaśnień 2 ................................
@@ -144,7 +158,9 @@ TREŚĆ WYJAŚNIEŃ: ...........................................................
 Na tym dokument zakończono i po odczytaniu/przeczytaniu* podpisano.
 ........................................................................ ..........................................................
 (podpisy osób odbierających wyjaśnienia) (podpis poszkodowanego) ______________ * Niepotrzebne skreślić.
-WZÓR ...............................................................
+
+## Załącznik nr 2 — WZÓR WZÓR ...............................................................
+
 (pieczęć nagłówkowa jednostki organizacyjnej Służby Więziennej) PROTOKÓŁ INFORMACJI UZYSKANYCH OD ŚWIADKA sporządzono w dniu ........................... r.
 Imię i nazwisko Stanowisko służbowe Jednostka Sporządził Osoby obecne przy 1 ................................
 zbieraniu informacji 2 ................................
@@ -166,7 +182,9 @@ TREŚĆ PRZEKAZANYCH INFORMACJI: ...............................................
 Na tym dokument zakończono i po odczytaniu/przeczytaniu* podpisano.
 …………................................................................... …………......................................................
 (podpisy osób zbierających informacje) (podpis świadka) ______________ * Niepotrzebne skreślić.
-WZÓR ............................................................
+
+## Załącznik nr 3 — WZÓR WZÓR ............................................................
+
 (pieczęć nagłówkowa jednostki organizacyjnej Służby Więziennej) PROTOKÓŁ POWYPADKOWY nr ......./20...... r.
 1. Komisja powypadkowa powołana przez: ................................................................................
 w dniu .......................... w składzie:
@@ -179,7 +197,7 @@ pełniący(a) służbę w ......................................................
 (jednostka organizacyjna Służby Więziennej, dział, stanowisko służbowe)
 2. Wypadek został zgłoszony przez ............................................................................................
 w dniu ...................................................... r.
-3. Wypadek: powodujący niezdolność do służby na okres ................................ dni, przewidywana niezdolność do służby na okres ............................. dni.
+3. Wypadek: – powodujący niezdolność do służby na okres ................................ dni, – przewidywana niezdolność do służby na okres ............................. dni.
 4. Skutki wypadku: ..................................................................................................................................................
 ..................................................................................................................................................
 ..................................................................................................................................................
@@ -188,12 +206,11 @@ w dniu ...................................................... r.
 ..................................................................................................................................................
 ..................................................................................................................................................
 ..................................................................................................................................................
-WZÓR
 6. Ustalono następujące przyczyny wypadku: ..................................................................................................................................................
 ..................................................................................................................................................
 ..................................................................................................................................................
 ..................................................................................................................................................
-7. Stwierdza się, że powyższy wypadek: jest wypadkiem pozostającym w związku z pełnieniem służby* , nie jest wypadkiem pozostającym w związku z pełnieniem służby, co uzasadnia się następująco* : ..................................................................................................................................................
+7. Stwierdza się, że powyższy wypadek: – jest wypadkiem pozostającym w związku z pełnieniem służby* , – nie jest wypadkiem pozostającym w związku z pełnieniem służby, co uzasadnia się następująco* : ..................................................................................................................................................
 ..................................................................................................................................................
 ..................................................................................................................................................
 ..................................................................................................................................................
@@ -248,12 +265,14 @@ POUCZENIE:
 1. Funkcjonariusz, a w razie jego śmierci członkowie pozostałej po nim rodziny, mają prawo do zgłoszenia uwag i zastrzeżeń do ustaleń zawartych w protokole powypadkowym w ciągu 7 dni od dnia zapoznania się z materiałami i treścią protokołu powypadkowego.
 2. Funkcjonariuszowi, a w razie jego śmierci członkom pozostałej po nim rodziny, przysługuje prawo odwołania, poprzez wystąpienie z pozwem do sądu właściwego w sprawach z zakresu prawa pracy.
 UWAGA: Podając dokładny opis przebiegu wypadku, należy m.in. uwzględnić: − jakie czynności wykonywał funkcjonariusz w chwili wypadku i czy należały one do jego obowiązków wynikających z zajmowanego stanowiska, − jakie urządzenia techniczne, czynniki lub substancje wywołały wypadek, − czy były obowiązek i możliwość używania środków ochrony indywidualnej i innych zabezpieczeń na stanowisku, na którym miał miejsce wypadek, i czy były one używane podczas służby w czasie poprzedzającym wypadek, − czy środki ochrony indywidualnej i inne stosowane środki zabezpieczające były właściwe, − czy były przestrzegane przepisy i zasady bhp, − czy funkcjonariusz miał kwalifikacje zawodowe wymagane do wykonywanej służby, a w razie potrzeby niezbędne uprawnienia, i czy był świadomy grożącego niebezpieczeństwa, − czy i kiedy funkcjonariusz był przeszkolony w zakresie bhp oraz zapoznany z zagrożeniami na stanowisku, na którym pełnił służbę, − czy i kiedy funkcjonariusz przeszedł badania lekarskie i czy nie było przeciwwskazań do wykonywania zleconych mu czynności, − czy obowiązujące na stanowisku instrukcje lub przepisy wskazują na wykonanie zadania w sposób bezpieczny, − czy był zapewniony właściwy nadzór nad służbą na stanowisku, na którym miał miejsce wypadek, − jakie ewentualnie czynności niezwiązane z materialnym środowiskiem pracy miały wpływ na zaistnienie wypadku, − dane dotyczące udzielenia funkcjonariuszowi pierwszej pomocy.
-REJESTR WYPADKÓW POZOSTAJĄCYCH W ZWIĄZKU Z PEŁNIENIEM SŁUŻBY Łączny okres Uznanie niezdolności Data Data Skutki wypadku do służby Lp. Imię i nazwisko i miejsce sporządzenia wypadku (TAK/NIE) mający wypadku protokołu związek z wypadkiem 1 2 3 4 5 6 7 WZÓR pieczęć zgłaszającego Zakład Opieki Zdrowotnej Medycyny Pracy Służby Więziennej w .............................................
+
+## Załącznik nr 4 — WZÓR WZÓR REJESTR WYPADKÓW POZOSTAJĄCYCH W ZWIĄZKU Z PEŁNIENIEM SŁUŻBY Łączny okres Uznanie niezdolności Data Data Skutki wypadku do służby Lp. Imię i nazwisko i miejsce sporządzenia wypadku (TAK/NIE) mający wypadku protokołu związek z wypadkiem 1 2 3 4 5 6 7 Załącznik nr 5 WZÓR WZÓR pieczęć zgłaszającego Zakład Opieki Zdrowotnej Medycyny Pracy Służby Więziennej w .............................................
+
 Zgłoszenie podejrzenia związku choroby ze służbą Imię i nazwisko ....................................................................... data urodzenia ...........................
 Adres zamieszkania .....................................................................................................................
 numer ewidencyjny PESEL ...................................................................
 Aktualne miejsce pełnienia służby .....................................................................................................................................................................................
-(nazwa jednostki organizacyjnej Służby Więziennej) funkcjonariusz funkcjonariusz, którego stosunek służbowy ustał* Miejsce zatrudnienia, w którym wystąpiło zagrożenie będące powodem zgłoszenia podejrzenia związku choroby ze służbą .....................................................................................................................................................................................
+(nazwa jednostki organizacyjnej Służby Więziennej) funkcjonariusz – funkcjonariusz, którego stosunek służbowy ustał* Miejsce zatrudnienia, w którym wystąpiło zagrożenie będące powodem zgłoszenia podejrzenia związku choroby ze służbą .....................................................................................................................................................................................
 (nazwa jednostki organizacyjnej Służby Więziennej) ......................................................................................................................................................
 Stanowisko służbowe ...................................................................................................................
 Pełna nazwa choroby, której dotyczy zgłoszenie ........................................................................
@@ -263,12 +282,14 @@ Rodzaj narażenia zawodowego, które wskazuje się jako przyczynę związku chor
 …………………………………………………………………………………………………..
 …………………………………………………………………………………………….…….
 Okres narażenia zawodowego na czynniki, które wskazuje się jako przyczynę choroby w związku ze służbą ....................................................................................................................
-WZÓR Uzasadnienie podejrzenia choroby w związku ze służbą ............................................................
+Uzasadnienie podejrzenia choroby w związku ze służbą ............................................................
 …………………………………………………………………………………………………..
 …………………………………………………………………………………………………..
 …………………………………………………………………………………………………..
 ……………………… ……………………………………………………………………………………… (data) (imię i nazwisko osoby zgłaszającej podejrzenie choroby w związku ze służbą) _____________ * Niepotrzebne skreślić.
-..............................................
+
+## Załącznik nr 6 — WZÓR WZÓR ..............................................
+
 (miejscowość, data) ................................................................
 (pieczęć zakładu opieki zdrowotnej) ZAŚWIADCZENIE LEKARSKIE W wyniku przeprowadzonego badania funkcjonariusza Służby Więziennej, emeryta/rencisty Służby Więziennej* : imię i nazwisko: ...........................................................................................................................
 data urodzenia: .............................................................................................................................
@@ -281,13 +302,5 @@ i oceny narażeń występujących na stanowisku służby, na podstawie rozporzą
 ................................................................................
 (pieczęć i podpis lekarza medycyny pracy) _____________ * Niepotrzebne skreślić.
 Wykonano w 3 egz.
-1 przełożony ds. osobowych 2 badany 3 a/a WZÓR Rejestr podejrzeń, rozpoznań i stwierdzeń związku poszczególnych chorób ze służbą Data orzeczenia komisji lekarskiej o rozpoznaniu i stwierdzeniu Jednostka Data związku organizacyjna, zarejestrowania poszczególnych Lp. Nazwisko i imię PESEL Adres Jednostka w której podejrzenia chorób funkcjonariusza zamieszkania organizacyjna rozpoznano związku chorób ze służbą chorobę ze służbą lub braku podstaw do rozpoznania i stwierdzenia związku tych chorób ze służbą 1 2 3 4 5 6 7 8 WZÓR Informacja o podejrzeniu, rozpoznaniu i stwierdzeniu związku poszczególnych chorób ze służbą Czynniki szkodliwe Data Data Stwierdzenie Lp. Nazwa jednostki Stanowisko i uciążliwe zarejestrowania orzeczenia Rozpoznanie związku organizacyjnej służbowe występujące podejrzenia komisji choroby chorób na stanowisku choroby lekarskiej ze służbą służby 1 2 3 4 5 6 7 8 WZÓR
-
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
-
-#### Rozdział 2 Ustalanie okoliczności i przyczyn wypadków pozostających w związku z pełnieniem służby § 4. 1. Postępowanie w sprawie ustalenia okoliczności i przyczyn wypadku toczy się na wniosek albo z urzędu.
-
-#### Rozdział 3 Ustalanie okoliczności i przyczyny chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby § 20. 1. Podejrzenie związku choroby ze służbą zgłasza kierownikowi lekarz medycyny pracy Służby Więziennej.
-
-#### Rozdział 4 Przepisy przejściowe i końcowe § 27. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się dotychczasowe przepisy.
+1 – przełożony ds. osobowych 2 – badany 3 – a/a Załącznik nr 7 WZÓR WZÓR Rejestr podejrzeń, rozpoznań i stwierdzeń związku poszczególnych chorób ze służbą Data orzeczenia komisji lekarskiej o rozpoznaniu i stwierdzeniu Jednostka Data związku organizacyjna, zarejestrowania poszczególnych Lp. Nazwisko i imię PESEL Adres Jednostka w której podejrzenia chorób funkcjonariusza zamieszkania organizacyjna rozpoznano związku chorób ze służbą chorobę ze służbą lub braku podstaw do rozpoznania i stwierdzenia związku tych chorób ze służbą 1 2 3 4 5 6 7 8 Załącznik nr 8 WZÓR WZÓR Informacja o podejrzeniu, rozpoznaniu i stwierdzeniu związku poszczególnych chorób ze służbą Czynniki szkodliwe Data Data Stwierdzenie Lp. Nazwa jednostki Stanowisko i uciążliwe zarejestrowania orzeczenia Rozpoznanie związku organizacyjnej służbowe występujące podejrzenia komisji choroby chorób na stanowisku choroby lekarskiej ze służbą służby 1 2 3 4 5 6 7 8
 

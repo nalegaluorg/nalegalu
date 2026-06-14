@@ -8,10 +8,10 @@ pos: 673
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 667733 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 17 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000673) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/673/text.pdf) |
 
-667733 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 17 marca 2023 r.
-zmieniające rozporządzenie w sprawie szkolenia i egzaminowania kierowców wykonujących przewóz drogowy Na podstawie art. 39i ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Infrastruktury z dnia 25 marca 2022 r. w sprawie szkolenia i egzaminowania kierowców wykonujących przewóz drogowy (Dz. U. poz. 739) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szkolenia i egzaminowania kierowców wykonujących przewóz drogowy Na podstawie art. 39i ust. 1 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 25 marca 2022 r. w sprawie szkolenia i egzaminowania kierowców wykonujących przewóz drogowy (Dz. U. poz. 739) wprowadza się następujące zmiany:
 1) w § 5:
 a) dotychczasową treść oznacza się jako ust. 1 i w pkt 1 skreśla się wyrazy „i chronologię”,
 b) dodaje się ust. 2 w brzmieniu: „2. Na etapie opracowywania programu szkolenia dopuszcza się możliwość zaplanowania ćwiczeń oraz zajęć praktycznych po zakończeniu zajęć teoretycznych.”;
@@ -35,7 +35,7 @@ b) dodaje się ust. 2 w brzmieniu: „2. Na etapie opracowywania programu szkole
 2) wskazanie planowanych metod szkolenia.”;
 3) w § 6 w ust. 2 w pkt 3 po lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „c) wcześniejszego uzyskania świadectwa kwalifikacji zawodowej potwierdzającego ukończenie szkolenia okresowego, o którym mowa w art. 39d ust. 2 i 5 ustawy.”;
 4) w § 7:
-a) w ust. 2: wprowadzenie do wyliczenia otrzymuje brzmienie: „Kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia przed przyjęciem osoby szkolonej na szkolenie:”, uchyla się pkt 2, pkt 4 otrzymuje brzmienie: „4) wpisuje do profilu kierowcy zawodowego informację o terminie, czasie i miejscu rozpoczęcia pierwszych zajęć w ramach kursu kwalifikacyjnego albo szkolenia okresowego w formie kursu okresowego;”,
+a) w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia przed przyjęciem osoby szkolonej na szkolenie:”, – uchyla się pkt 2, – pkt 4 otrzymuje brzmienie: „4) wpisuje do profilu kierowcy zawodowego informację o terminie, czasie i miejscu rozpoczęcia pierwszych zajęć w ramach kursu kwalifikacyjnego albo szkolenia okresowego w formie kursu okresowego;”,
 b) ust. 3 otrzymuje brzmienie: „3. Kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia wpisuje do profilu kierowcy zawodowego informację o terminie, czasie i miejscu rozpoczęcia modułu szkolenia okresowego w formie cyklu zajęć.”,
 c) uchyla się ust. 4,
 d) ust. 5 otrzymuje brzmienie: „5. Przepisy ust. 2 stosuje się odpowiednio w przypadku jednostki systemu oświaty.ˮ,
@@ -45,11 +45,11 @@ a) w ust. 1 pkt 2 otrzymuje brzmienie: „2) po zakończeniu zajęć poprzez wpi
 b) dodaje się ust. 4 w brzmieniu: „4. W przypadku zajęć praktycznych w warunkach specjalnych prowadzonych w ośrodku doskonalenia techniki jazdy zamiast wpisu do książki przeprowadzonych zajęć ośrodek doskonalenia techniki jazdy może wystawić zaświadczenie potwierdzające przeprowadzenie zajęć. Zaświadczenie wystawia się w dwóch egzemplarzach i powinno zawierać dane tożsame z książką przeprowadzonych zajęć. Drugi egzemplarz zaświadczenia pozostaje w ośrodku doskonalenia techniki jazdy. Do zaświadczenia stosuje się odpowiednio przepisy § 7 ust. 8 i § 23 ust. 1.”;
 6) w § 9 ust. 1 otrzymuje brzmienie: „1. Szkolenie w ramach kwalifikacji prowadzone w formie kursu kwalifikacyjnego obejmuje zajęcia teoretyczne, ćwiczenia i zajęcia praktyczne:
 1) w formie kwalifikacji wstępnej i kwalifikacji wstępnej przyspieszonej w zakresie:
-a) części podstawowej dla prawa jazdy wszystkich kategorii oraz
-b) części specjalistycznej dla prawa jazdy kategorii: C1, C1+E, C i C+E lub D1, D1+E, D i D+E,
-2) w formie kwalifikacji wstępnej uzupełniającej i kwalifikacji wstępnej uzupełniającej przyspieszonej w zakresie części specjalistycznej dla prawa jazdy kategorii:
+a) części podstawowej – dla prawa jazdy wszystkich kategorii oraz
+b) części specjalistycznej – dla prawa jazdy kategorii: – C1, C1+E, C i C+E lub – D1, D1+E, D i D+E,
+2) w formie kwalifikacji wstępnej uzupełniającej i kwalifikacji wstępnej uzupełniającej przyspieszonej w zakresie części specjalistycznej – dla prawa jazdy kategorii:
 a) C1, C1+E, C i C+E lub
-b) D1, D1+E, D i D+E zgodnie z programem szkolenia oraz planem wykonania szkolenia.”;
+b) D1, D1+E, D i D+E – zgodnie z programem szkolenia oraz planem wykonania szkolenia.”;
 7) w § 10 ust. 4 otrzymuje brzmienie: „4. W przypadku prowadzenia zajęć praktycznych z jazdy w warunkach specjalnych przy wykorzystaniu urządzenia, o którym mowa w art. 39g ust. 11 pkt 2 ustawy, 2 godziny jazdy w warunkach specjalnych bez wykorzystania tego urządzenia uznaje się za równoważne 1 godzinie jazdy przy wykorzystaniu tego urządzenia.”;
 8) w § 12 ust. 1 otrzymuje brzmienie: „1. Szkolenie okresowe jest prowadzone:
 1) w formie kursu okresowego i trwa 35 godzin oraz obejmuje zakres tematyczny wybranych 5 modułów odpowiednio w zakresie bloku programowego do prawa jazdy kategorii:
@@ -57,7 +57,7 @@ a) C, C+E, C1 i C1+E lub
 b) D, D+E, D1 i D1+E, lub
 2) w formie cyklu zajęć przeprowadzanych w zakresie 5 modułów trwających po 7 godzin każdy i obejmuje zakres tematyczny wybranych modułów, odpowiednio w zakresie bloku programowego do prawa jazdy kategorii:
 a) C, C+E, C1 i C1+E lub
-b) D, D+E, D1 i D1+E zgodnie z programem szkolenia oraz planem wykonania szkolenia.”;
+b) D, D+E, D1 i D1+E – zgodnie z programem szkolenia oraz planem wykonania szkolenia.”;
 9) w § 13 ust. 3 i 4 otrzymują brzmienie: „3. Moduł, o którym mowa w ust. 2 pkt 2, uznaje się za zawierający zajęcia praktyczne, jeżeli co najmniej połowę zajęć stanowią ćwiczenia lub zajęcia praktyczne w ruchu drogowym, zajęcia praktyczne z jazdy w warunkach specjalnych, zajęcia praktyczne w sali lub na placu manewrowym ośrodka szkolenia. Ćwiczenia na placu manewrowym ośrodka szkolenia mogą być realizowane w grupie nie większej niż 10 osób.
 4. W ramach jednego kursu okresowego albo cyklu zajęć nie mogą powtarzać się moduły szkolenia okresowego.”;
 10) w § 14 ust. 2 otrzymuje brzmienie: „2. Przepisy § 13 ust. 2–6 stosuje się odpowiednio.”;
@@ -76,23 +76,17 @@ b) ust. 3 i 4 otrzymują brzmienie: „3. W przypadku prowadzenia dokumentacji w
 16) w § 20:
 a) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Po zakończeniu kursu kwalifikacyjnego kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia:”,
 b) w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Po zakończeniu kwalifikacji wstępnej dyrektor jednostki systemu oświaty lub osoba upoważniona przez dyrektora jednostki systemu oświaty:”,
-c) w ust. 3: wprowadzenie do wyliczenia otrzymuje brzmienie: „Po ukończeniu szkolenia okresowego w formie kursu okresowego oraz wymaganej liczby modułów szkolenia okresowego w formie cyklu zajęć kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia:”, w pkt 1 uchyla się lit. b, po pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) wydaje osobie szkolonej świadectwo kwalifikacji zawodowej w postaci papierowej; drugi egzemplarz tego świadectwa pozostaje w ośrodku szkolenia i do tego egzemplarza stosuje się odpowiednio przepis § 23 ust. 1.”,
+c) w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Po ukończeniu szkolenia okresowego w formie kursu okresowego oraz wymaganej liczby modułów szkolenia okresowego w formie cyklu zajęć kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia:”, – w pkt 1 uchyla się lit. b, – po pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) wydaje osobie szkolonej świadectwo kwalifikacji zawodowej w postaci papierowej; drugi egzemplarz tego świadectwa pozostaje w ośrodku szkolenia i do tego egzemplarza stosuje się odpowiednio przepis § 23 ust. 1.”,
 d) ust. 4 otrzymuje brzmienie: „4. W przypadku, o którym mowa w § 16 ust. 2 pkt 5, kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia wprowadza do profilu kierowcy zawodowego po ukończeniu ostatniego wymaganego modułu szkolenia okresowego dane modułu w postaci informacji o nazwie innego szkolenia, dacie wydania i numerze zaświadczenia potwierdzającego ukończenie innego szkolenia.”,
 e) dodaje się ust. 6 w brzmieniu: „6. Wzór świadectwa kwalifikacji zawodowej w postaci papierowej określa załącznik nr 6 do rozporządzenia.”;
 17) w § 23:
 a) uchyla się ust. 2,
-b) ust. 3 otrzymuje brzmienie: „3. Po upływie okresu, o którym mowa w ust. 1, kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia albo dyrektor jednostki systemu oświaty lub osoba upoważniona przez dyrektora jednostki systemu oświaty prowadzących szkolenie przesyła w postaci elektronicznej właściwemu organowi, który utworzył profil kierowcy zawodowego, informację o przerwaniu szkolenia przez osobę szkoloną w celu udostępnienia przez ten organ profilu kierowcy zawodowego innemu ośrodkowi szkolenia albo jednostce systemu
+b) ust. 3 otrzymuje brzmienie: „3. Po upływie okresu, o którym mowa w ust. 1, kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia albo dyrektor jednostki systemu oświaty lub osoba upoważniona przez dyrektora jednostki systemu oświaty prowadzących szkolenie przesyła w postaci elektronicznej właściwemu organowi, który utworzył profil kierowcy zawodowego, informację o przerwaniu szkolenia przez osobę szkoloną w celu udostępnienia przez ten organ profilu kierowcy zawodowego innemu ośrodkowi szkolenia albo jednostce systemu oświaty prowadzącym szkolenie tej osoby.”;
 18) § 24 otrzymuje brzmienie: „§ 24. Przed przystąpieniem do testu kwalifikacyjnego osoba egzaminowana informuje ośrodek egzaminowania o numerze identyfikującym profil kierowcy zawodowego, składa dowód uiszczenia opłaty za test kwalifikacyjny, informuje o potrzebie obecności tłumacza, o którym mowa w § 29 pkt 3 i 4, oraz zwraca się o wyznaczenie terminu testu kwalifikacyjnego.”;
 19) w § 25 uchyla się ust. 2;
 20) w § 29 pkt 3 i 4 otrzymują brzmienie: „3) tłumacz języka migowego lub tłumacz systemu językowo-migowego, którego obecność na teście kwalifikacyjnym zapewnia sobie osoba egzaminowana lub którego obecność jest zapewniona przez ośrodek egzaminowania,
 4) tłumacz przysięgły, którego udział zapewnia sobie osoba egzaminowana, jeżeli osoba ta nie włada językiem polskim w stopniu umożliwiającym przeprowadzenie testu kwalifikacyjnego oraz zrozumienie zasad przeprowadzania tego testu,”;
-21) w § 31 w ust. 1 w pkt 2 lit. b otrzymuje brzmienie: „b) w tym co najmniej 1 i nie więcej niż 2 pytania z następujących działów, stanowiących załącznik nr 1 do rozporządzenia, w zakresie bloku programowego określonego do prawa jazdy kategorii D, D+E, D1 i D1+E:
-1.5,
-1.6,
-1.6.(a),
-1.7,
-2.3,
-3.8.”;
+21) w § 31 w ust. 1 w pkt 2 lit. b otrzymuje brzmienie: „b) w tym co najmniej 1 i nie więcej niż 2 pytania z następujących działów, stanowiących załącznik nr 1 do rozporządzenia, w zakresie bloku programowego określonego do prawa jazdy kategorii D, D+E, D1 i D1+E: – 1.5, – 1.6, – 1.6.(a), – 1.7, – 2.3, – 3.8.”;
 22) w § 33 w ust. 1 w pkt 2 lit. c otrzymuje brzmienie: „c) wydaje osobie egzaminowanej świadectwo kwalifikacji zawodowej w postaci papierowej; drugi egzemplarz tego świadectwa pozostaje w ośrodku egzaminowania i do tego egzemplarza stosuje się odpowiednio przepis § 23 ust. 1.”;
 23) w § 42 w ust. 1:
 a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Po przeprowadzeniu testu kwalifikacyjnego dyrektor okręgowej komisji egzaminacyjnej lub osoba upoważniona przez dyrektora okręgowej komisji egzaminacyjnej:ˮ,
@@ -100,12 +94,13 @@ b) po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) wydaje osobie egzaminowanej �
 24) w § 47 dodaje się ust. 3 w brzmieniu: „3. Do dnia wskazanego w komunikacie, o którym mowa w art. 11 ust. 2 ustawy z dnia 14 października 2021 r.
 o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw (Dz. U. poz. 1997 oraz z 2022 r. poz. 1002), można przeprowadzić część specjalistyczną testu kwalifikacyjnego w zakresie bloku programowego określonego do prawa jazdy kategorii D, D+E, D1, i D+E bez uwzględnienia pytań z działu 1.6(a). W takiej sytuacji test kwalifikacyjny układa się z pytań z działów: 1.5, 1.6, 1.7, 2.3, 3.8, przy czym z jednego działu można wykorzystać 2 pytania na teście kwalifikacyjnym.”;
 25) w § 48 ust. 2 otrzymuje brzmienie: „2. W celu uzyskania profilu kierowcy zawodowego kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia wydaje osobie szkolonej, o której mowa w ust. 1, zaświadczenie potwierdzające uczestnictwo w szkoleniu okresowym.”;
-26) w § 49 ust. 2 otrzymuje brzmienie: „2. W celu uzyskania profilu kierowcy zawodowego kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia wydaje osobie szkolonej, o której mowa w ust. 1, zaświadczenie potwierdzające uczest27) w załączniku nr 1 do rozporządzenia:
+26) w § 49 ust. 2 otrzymuje brzmienie: „2. W celu uzyskania profilu kierowcy zawodowego kierownik ośrodka szkolenia lub osoba upoważniona przez kierownika ośrodka szkolenia wydaje osobie szkolonej, o której mowa w ust. 1, zaświadczenie potwierdzające uczestnictwo w kursie kwalifikacyjnym.”;
+27) w załączniku nr 1 do rozporządzenia:
 a) w tabeli nr 1 w kolumnie „Zakres tematyczny” w poz. 1.1., 1.2., 2.1., 3.1., 3.2., 3.3., 3.4., 3.5. i 3.6. wyraz „tematy” zastępuje się wyrazem „zagadnienia”,
-b) w tabeli nr 2 w kolumnie „Zakres prawa jazdy kategorii C1, C1+E, C i C+E”: w poz. 1.3., 1.4., 1.4(a)., 2.2., 3.7. wyraz „tematy” zastępuje się wyrazem „zagadnienia”, w temacie 1.4.10. wyrazy „kontrola części w dwuobwodowym układzie hamulcowym (w szczególności wyjęcie cylindra membranowego, regulacja hamulców, kontrola złączek pneumatycznych, kontrola przewodów pneumatycznych, kontrola nastaw regulatora siły hamowania (ręcznego i automatycznego))” zastępuje się wyrazami „kontrola dwuobwodowego układu hamulcowego (w szczególności kontrola złączek pneumatycznych, kontrola przewodów pneumatycznych, kontrola działania hamulców)”, w poz. 2.2.11 i w poz. 2.2.12 w kolumnie „Metodyka” wpisuje się literę „T”,
+b) w tabeli nr 2 w kolumnie „Zakres prawa jazdy kategorii C1, C1+E, C i C+E”: – w poz. 1.3., 1.4., 1.4(a)., 2.2., 3.7. wyraz „tematy” zastępuje się wyrazem „zagadnienia”, – w temacie 1.4.10. wyrazy „kontrola części w dwuobwodowym układzie hamulcowym (w szczególności wyjęcie cylindra membranowego, regulacja hamulców, kontrola złączek pneumatycznych, kontrola przewodów pneumatycznych, kontrola nastaw regulatora siły hamowania (ręcznego i automatycznego))” zastępuje się wyrazami „kontrola dwuobwodowego układu hamulcowego (w szczególności kontrola złączek pneumatycznych, kontrola przewodów pneumatycznych, kontrola działania hamulców)”, – w poz. 2.2.11 i w poz. 2.2.12 w kolumnie „Metodyka” wpisuje się literę „T”,
 c) tabela nr 3 otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
 28) w załączniku nr 2 do rozporządzenia pod tabelą:
-a) wyrazy „T” zajęcia praktyczne” zastępuje się wyrazami „T” zajęcia teoretyczne”,
+a) wyrazy „T” – zajęcia praktyczne” zastępuje się wyrazami „T” – zajęcia teoretyczne”,
 b) po kropce dodaje się zdanie w brzmieniu: „Ilekroć jest mowa o „T/C”, rozumie się przez to „T i C”.”;
 29) dodaje się załącznik nr 6 do rozporządzenia w brzmieniu określonym w załączniku nr 2 do niniejszego rozporządzenia.
 § 2. 1. Ośrodek szkolenia w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia dostosuje plan wykonania szkolenia określony w § 5a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, jeśli jest to wymagane. Do czasu dostosowania planu wykonania szkolenia ośrodek szkolenia stosuje dotychczasowy plan wykonania szkolenia.
@@ -129,11 +124,11 @@ Załącznik nr Tabela nr 3 Zakres prawa jazdy kategorii D1, D1+E, D i D+E Metody
 1.5.7. jazda przy najniższym jednostkowym T/J zużyciu paliwa
 1.5.8. jazda w optymalnym przedziale prędkości silnika i utrzymywanie się w sektorze elastycznej prędkości optymalnej, z za- T/J chowaniem zaleceń producenta silnika pojazdu
 1.5.9. jazda w optymalnym zakresie prędkości silnika poprzez zmianę biegów w odpo- T/J wiednim momencie
-1.5.10. kontrola dwuobwodowego układu hamulcowego (w szczególności kontrola złączek pneumatycznych, kontrola przewodów pneumatycznych, kontrola działania hamulców) T/C
+1.5.10. kontrola dwuobwodowego układu hamulcowego (w szczególności kontrola złączek pneumatycznych, kontrola prze- T/C wodów pneumatycznych, kontrola działania hamulców)
 1.5.11. nauka przez ostrożne próby hamowania w specjalnym terenie, pokazująca działanie hamulców, ze zwróceniem uwagi na T/J wpływ hamowania na prowadzenie pojazdu
 1.5.12. nauka jazdy ze wzniesienia z użyciem obu układów hamulcowych jednocześnie T/J lub osobno
 1.5.13. nauka jazdy z kontrolą wskazań prędkościomierza i obrotomierza na różnych T/J biegach
-1.5.14. nauka jazdy autobusem obciążonym: ruszanie pod górę, rozpędzanie się do 50 km/h i mierzenie czasu w przypadku autobusu obciążonego i nieobciążonego T/J
+1.5.14. nauka jazdy autobusem obciążonym: ruszanie pod górę, rozpędzanie się do 50 km/h T/J i mierzenie czasu w przypadku autobusu obciążonego i nieobciążonego
 1.5.15. ostrożne próby układów hamulcowych autobusu podczas jazdy ze wzniesienia; T/J poznanie zjawiska spadku siły hamowania i sposobu reagowania na nie
 1.5.16. próba znalezienia symulowanych awarii w pojeździe, opisanie wykrytej sytuacji, próba znalezienia przyczyny, naprawa T/J awarii, o ile jest możliwa, i decyzja o rozpoczęciu jazdy albo pozostaniu na parkingu
 1.5.17. nauka oszczędnego stylu jazdy, uzyskanego przez poprawę kryteriów optymali- T/J zacji zużycia paliwa podczas jazdy
@@ -152,8 +147,8 @@ Załącznik nr Tabela nr 3 Zakres prawa jazdy kategorii D1, D1+E, D i D+E Metody
 1.6(a).2. umiejętność przygotowania i planowania po- T dróży podczas anomalii pogodowych
 1.6(a).3. wiedza na temat użytkowania powiązanego wyposażenia bezpieczeństwa, a także rozeznanie, kiedy T daną podróż należy przełożyć lub odwołać ze względu na ekstremalne warunki pogodowe
 1.6(a).4. dostosowanie się do zagrożeń związanych z ruchem, w tym niebezpiecznych zachowań w ruchu drogowym lub nieuważnej jazdy (spowodowanej korzy- T staniem z urządzeń elektronicznych, jedzeniem, piciem itp.)
-1.6(a).5. identyfikacja niebezpiecznych sytuacji i dostosowanie się do nich oraz radzenie sobie ze stresem z nich wynikającym, w szczególności w odniesieniu do wielkości i masy pojazdów oraz szczególnie zagrożonych użytkowników dróg, takich jak piesi, rowerzyści i motocykliści T
-1.6(a).6. zidentyfikowanie możliwych sytuacji niebezpiecznych i prawidłowa interpretacja tego, w jaki sposób te potencjalnie niebezpieczne sytuacje mogą przekształcić się w sytuacje, w których nie da się już zapobiec zderzeniu T
+1.6(a).5. identyfikacja niebezpiecznych sytuacji i dostosowanie się do nich oraz radzenie sobie ze stresem z nich wynikającym, w szczególności w odniesieniu do wielkości T i masy pojazdów oraz szczególnie zagrożonych użytkowników dróg, takich jak piesi, rowerzyści i motocykliści
+1.6(a).6. zidentyfikowanie możliwych sytuacji niebezpiecznych i prawidłowa interpretacja tego, w jaki sposób te potencjalnie niebezpieczne sytuacje mogą przekształ- T cić się w sytuacje, w których nie da się już zapobiec zderzeniu
 1.6(a).7. dobór i zastosowanie działań, które zwiększają margines bezpieczeństwa w taki sposób, że można jesz- T/J cze uniknąć zderzenia, w przypadku gdy wystąpią potencjalne zagrożenia
 1.7. Umiejętność równomiernego obciążenia pojazdu zgodnie z wymaganiami przepisów bhp 10 6 10 5 i zasadami prawidłowego użytkowania pojazdu, w tym co najmniej zagadnienia:
 1.7.1. siły działające na pojazd podczas jazdy T
@@ -175,12 +170,12 @@ Załącznik nr Tabela nr 3 Zakres prawa jazdy kategorii D1, D1+E, D i D+E Metody
 3.8.2. działalność w zakresie przewozu drogowego osób (transport zarobkowy i prze- T wozy na potrzeby własne)
 3.8.3. uwrażliwienie na problemy osób niepełno- T sprawnych
 3.8.4. przekraczanie granic (transport między- T narodowy)
-3.8.5. organizacja i formy prowadzenia działalności w zakresie przewozu drogowego T osób Razem 85 43 70 35 * „T” zajęcia teoretyczne, „J” indywidualna jazda z instruktorem, „C” ćwiczenia prowadzone w grupie.
+3.8.5. organizacja i formy prowadzenia działalności w zakresie przewozu drogowego T osób Razem 85 43 70 35 * „T” – zajęcia teoretyczne, „J” – indywidualna jazda z instruktorem, „C” – ćwiczenia prowadzone w grupie.
 Jeżeli ćwiczenia są realizowane na placu manewrowym ośrodka szkolenia, to mogą być prowadzone w grupie nie większej niż 10 osób.
 Ilekroć w tabelach nr 2 i 3 jest mowa o „T/C” albo „T/J”, rozumie się przez to „T i C” albo „T i J”.
 
-## Załącznik nr 2 — WZÓR Format A5, układ pionowy ………………………………………… ………………………………………… ………………………………………… ……………………… (nazwa podmiotu wydającego) (data wydania) oraz adres siedziby tego podmiotu) Świadectwo kwalifikacji zawodowej nr .........................................................
+## Załącznik nr 2 — WZÓR WZÓR Format A5, układ pionowy ………………………………………… ………………………………………… ………………………………………… ……………………… (nazwa podmiotu wydającego) (data wydania) oraz adres siedziby tego podmiotu) Świadectwo kwalifikacji zawodowej nr .........................................................
 
 potwierdzające uzyskanie/ukończenie w ośrodku szkolenia nr ...................................................................... .
-Kwalifikacji wstępnej Kwalifikacji wstępnej przyspieszonej Kwalifikacji wstępnej uzupełniającej Kwalifikacji wstępnej uzupełniającej przyspieszonej Szkolenia okresowego Pan(i) …………………………………………………………………………………………………………… (imię i nazwisko) Posiadający (-ca) numer PESEL ……………………………………………………………………………… Uzyskał(a) wynik pozytywny z testu kwalifikacyjnego w dniu ……………………………………… WZÓR
+Kwalifikacji wstępnej Kwalifikacji wstępnej przyspieszonej Kwalifikacji wstępnej uzupełniającej Kwalifikacji wstępnej uzupełniającej przyspieszonej Szkolenia okresowego Pan(i) …………………………………………………………………………………………………………… (imię i nazwisko) Posiadający (-ca) numer PESEL ……………………………………………………………………………… Uzyskał(a) wynik pozytywny z testu kwalifikacyjnego w dniu ………………………………………
 

@@ -8,7 +8,7 @@ pos: 272
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo przewozowe
@@ -66,6 +66,10 @@ source: "isap-pdf"
 3. Przewoźnik, który zapłacił odszkodowanie, ma roszczenie zwrotne do przewoźnika ponoszącego odpowiedzialność za okoliczności, z których szkoda wynikła. Jeżeli okoliczności tych ustalić nie można, odpowiedzialność ponoszą wszyscy przewoźnicy stosownie do wysokości przypadającego im przewoźnego; od odpowiedzialności jest wolny przewoźnik, który udowodni, że szkoda nie powstała w czasie wykonywania przez niego przewozu.
 
 **Art. 7.** Przewoźnik jest zwolniony od obowiązku przewozu, jeżeli:
+
+- **1)** zachodzą uniemożliwiające przewóz okoliczności, których przewoźnik nie mógł uniknąć ani zapobiec ich skutkom;
+- **2)** klient nie zastosował się do przepisów przewozowych;
+- **3)** ze względu na przedmiot przewozu nie ma możliwości jego wykonania przy użyciu posiadanych środków i urządzeń transportowych.
 
 **Art. 8.**
 
@@ -693,6 +697,11 @@ source: "isap-pdf"
 
 **Art. 76.** Przyjęcie przesyłki przez uprawnionego bez zastrzeżeń powoduje wygaśnięcie roszczeń z tytułu ubytku lub uszkodzenia, chyba że:
 
+- **1)** szkodę stwierdzono protokolarnie przed przyjęciem przesyłki przez uprawnionego;
+- **2)** zaniechano takiego stwierdzenia z winy przewoźnika;
+- **3)** ubytek lub uszkodzenie wynikło z winy umyślnej lub rażącego niedbalstwa przewoźnika;
+- **4)** szkodę niedającą się z zewnątrz zauważyć uprawniony stwierdził po przyjęciu przesyłki i w terminie 7 dni zażądał ustalenia jej stanu oraz udowodnił, że szkoda powstała w czasie między przyjęciem przesyłki do przewozu a jej wydaniem.
+
 **Art. 77.**
 
 1. Z zastrzeżeniem ust. 2 oraz art. 78 roszczenia dochodzone na podstawie ustawy lub przepisów wydanych w jej wykonaniu przedawniają się z upływem roku.
@@ -718,6 +727,9 @@ source: "isap-pdf"
 
 **Art. 79.** Minister właściwy do spraw transportu oraz minister właściwy do spraw żeglugi śródlądowej określą, w drodze rozporządzenia:
 
+- **1)** szczegółowy tryb i sposób ustalania stanu przesyłek,
+- **2)** warunki, jakim powinny odpowiadać reklamacje i wezwania do zapłaty z tytułu przewozu osób i przesyłek oraz tryb postępowania reklamacyjnego – mając na uwadze zapewnienie sprawnego i terminowego dochodzenia roszczeń.
+
 #### Rozdział 10 Odszkodowania
 
 **Art. 80.**
@@ -742,6 +754,10 @@ source: "isap-pdf"
 - **2)** ubytek tej części przesyłki, która doznała obniżenia wartości wskutek uszkodzenia.
 
 **Art. 82.** Oprócz odszkodowań określonych w art. 80 i 81 przewoźnik jest obowiązany zwrócić przewoźne i inne koszty związane z przewozem przesyłki:
+
+- **1)** w razie utraty – w pełnej wysokości;
+- **2)** w razie ubytku – w odpowiedniej części;
+- **3)** w razie uszkodzenia – w wysokości odpowiadającej procentowi obniżenia wartości przesyłki wskutek uszkodzenia.
 
 **Art. 83.**
 

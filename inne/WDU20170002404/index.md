@@ -8,10 +8,10 @@ pos: 2404
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2404 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 15 grudnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2404/text.pdf) |
 
-Poz. 2404 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 15 grudnia 2017 r.
-zmieniające rozporządzenie zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, 2110, 2217 i 2361) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Zdrowia z dnia 3 sierpnia 2017 r. zmieniającym rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. poz. 1565) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Świadczenie gwarantowane, o którym mowa w § 1 pkt 1 oraz lp. 39 załącznika nr 4 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, może być od dnia 1 stycznia 2018 r. udzielane z wykorzystaniem immunoglobuliny anty-RhD dystrybuowanej przez regionalne centra krwiodawstwa i krwiolecznictwa do czasu wyczerpania jej zapasów będących na stanie magazynowym centrów na dzień 1 stycznia 2018 r.”.
+zmieniające rozporządzenie zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, 2110, 2217 i 2361) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 3 sierpnia 2017 r. zmieniającym rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. poz. 1565) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Świadczenie gwarantowane, o którym mowa w § 1 pkt 1 oraz lp. 39 załącznika nr 4 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, może być od dnia 1 stycznia 2018 r. udzielane z wykorzystaniem immunoglobuliny anty-RhD dystrybuowanej przez regionalne centra krwiodawstwa i krwiolecznictwa do czasu wyczerpania jej zapasów będących na stanie magazynowym centrów na dzień 1 stycznia 2018 r.”.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
 Minister Zdrowia: K. Radziwiłł
 

@@ -8,10 +8,10 @@ pos: 1097
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1097 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 7 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1097/text.pdf) |
 
-Poz. 1097 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 7 czerwca 2023 r.
-zmieniające rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Straży Granicznej Na podstawie art. 37 ust. 4 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080 i 1088) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 10 czerwca 2009 r. w sprawie rozkładu czasu służby funkcjonariuszy Straży Granicznej (Dz. U. z 2018 r. poz. 1602 oraz z 2022 r. poz. 1745) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Straży Granicznej Na podstawie art. 37 ust. 4 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080 i 1088) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 10 czerwca 2009 r. w sprawie rozkładu czasu służby funkcjonariuszy Straży Granicznej (Dz. U. z 2018 r. poz. 1602 oraz z 2022 r. poz. 1745) wprowadza się następujące zmiany:
 1) w § 8:
 a) w ust. 4 po wyrazie „przypadkach,” dodaje się wyrazy „na pisemny wniosek funkcjonariusza,”,
 b) po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Kierownik jednostki organizacyjnej informuje funkcjonariusza, w formie pisemnej, nie później niż w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 4, o:

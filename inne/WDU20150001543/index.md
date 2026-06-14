@@ -8,7 +8,7 @@ pos: 1543
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o samorządzie załogi przedsiębiorstwa państwowego
@@ -51,6 +51,8 @@ source: "isap-pdf"
 
 **Art. 3.** Z zastrzeżeniem art. 39 ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2013 r. poz. 1384 oraz z 2015 r. poz.
 
+- **1322)** działalność w radzie pracowniczej przedsiębiorstwa oraz w radzie pracowniczej zakładu ma charakter społeczny.
+
 **Art. 4.** Członkowie rady pracowniczej przedsiębiorstwa oraz członkowie rady pracowniczej zakładu, zwani dalej członkami rady pracowniczej, są odpowiedzialni wobec załogi.
 
 **Art. 5.** Członek rady pracowniczej zachowuje prawo do wynagrodzenia za czas niewykonywania pracy z powodu pełnienia swoich zadań w godzinach pracy.
@@ -88,6 +90,12 @@ source: "isap-pdf"
 3. Ogólne zebranie pracowników na każdym posiedzeniu wybiera w głosowaniu tajnym przewodniczącego zebrania, jego zastępcę i sekretarza.
 
 **Art. 10.** Ogólne zebranie pracowników przedsiębiorstwa:
+
+- **1)** uchwala, na wniosek dyrektora, statut przedsiębiorstwa;
+- **2)** podejmuje uchwały w sprawie podziału zysku przeznaczonego dla załogi;
+- **3)** dokonuje rocznej oceny działalności rady pracowniczej przedsiębiorstwa oraz dyrektora przedsiębiorstwa;
+- **4)** uchwala wieloletnie plany przedsiębiorstwa;
+- **5)** uchwala, na wniosek rady pracowniczej przedsiębiorstwa, statut samorządu załogi przedsiębiorstwa.
 
 **Art. 11.** Ogólne zebranie pracowników ma prawo wyrażania opinii we wszystkich sprawach dotyczących przedsiębiorstwa.
 
@@ -279,6 +287,11 @@ source: "isap-pdf"
 
 **Art. 40.** Radzie pracowniczej przedsiębiorstwa przysługuje prawo wstrzymania wykonania decyzji dyrektora przedsiębiorstwa, o ile decyzja ta jest:
 
+- **1)** sprzeczna z uchwałą rady pracowniczej lub uchwałą ogólnego zebrania pracowników;
+- **2)** podjęta bez zasięgnięcia opinii rady pracowniczej w sprawach określonych w art. 25 ust. 2;
+- **3)** podjęta bez uchwały rady pracowniczej w sprawach określonych w art. 24 ust. 1;
+- **4)** niezgodna z przepisami prawa.
+
 **Art. 41.**
 
 1. Dyrektor przedsiębiorstwa wstrzymuje wykonanie uchwały ogólnego zebrania pracowników oraz rady pracowniczej przedsiębiorstwa, niezgodnej z przepisami prawa.
@@ -321,11 +334,11 @@ source: "isap-pdf"
 
 **Art. 46.** W wypadku nierozstrzygnięcia sporu przez komisję rozjemczą, rada pracownicza przedsiębiorstwa lub dyrektor przedsiębiorstwa w ciągu czternastu dni może wnieść sprawę do sądu.
 
-#### Rozdział 8 Piecza
+#### Rozdział 8 Piecza Sejmu
 
 **Art. 47.**
 
-1. Samorząd załogi przedsiębiorstwa podlega pieczy Polskiej Rzeczypospolitej Ludowej .
+1. Samorząd załogi przedsiębiorstwa podlega pieczy Sejmu Polskiej Rzeczypospolitej Ludowej .
 
 2. Sejm, raz do roku, na podstawie informacji i wniosków właściwych komisji ocenia całokształt działalności samorządu załóg przedsiębiorstw i uchwala odpowiednie zalecenia.
 

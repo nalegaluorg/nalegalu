@@ -8,10 +8,10 @@ pos: 1312
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lipca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1312 Załączniki do rozporządzenia Ministra Infrastruktury z dnia 7 lipca 2020 r. (poz. ….) Załącznik nr 1 WZÓR Wniosek o udzielenie koncesji na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001312) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1312/text.pdf) |
 
-Załączniki do rozporządzenia Ministra Infrastruktury z dnia 7 lipca 2020 r. (poz. ….) Załącznik nr 1 WZÓR Wniosek o udzielenie koncesji na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego
 1. oznaCzenie WnioskodaWCy Firma/Imię i nazwisko Siedziba/Miejsce zamieszkania Adres siedziby/Adres miejsca zamieszkania Adres do doręczeń Numer telefonu (opcjonalnie) Numer faksu (opcjonalnie) E-mail (opcjonalnie) Numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego (KRS) (jeżeli posiada Numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) osoby fizycznej prowadzącej działalność gospodarczą (jeżeli posiada) Numer identyfikacji podatkowej (NIP) Główne miejsce prowadzenia działalności w rozumieniu art. 2 pkt 26 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r.
 w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty (Dz. Urz. UE L 293 z 31.10.2008, str. 3, Dz. Urz. UE L 212 z 22.08.2018, str. 1, Dz. Urz.
 UE L 11 z 14.01.2019, str. 1 oraz Dz. Urz.
@@ -39,7 +38,7 @@ UE L 165 z 27.05.2020, str. 1)
 7. WŁASNOŚĆ oRaz skuteCzna kontRoLa WSPÓLNICY/AKCJONARIUSZE cz. A* * Część wypełniana przez wnioskodawców będących spółkami kapitałowymi. Należy wymienić wszystkie podmioty posiadające akcje/udziały. Spółki kapitałowe, w których akcje/udziały są posiadane w sposób pośredni przez podmioty inne niż osoby fizyczne lub państwa członkowskie Unii Europejskiej, niezależnie od części A wypełniają również część B.
 Wspólnik/akcjonariusz Obywatelstwo Liczba Rodzaj/stopień % w całym kapitale, Imię i nazwisko/firma/ i miejsce posiadanych uprzywilejowania a w przypadku prostej nazwa państwa zamieszkania/ udziałów lub udziału lub akcji spółki akcyjnej stosunek członkowskiego UE Siedziba akcji liczby akcji przysługujących temu akcjonariuszowi do liczby wszystkich akcji ustanowionych w prostej spółce akcyjnej WSPÓLNICY/AKCJONARIUSZE cz. B** ** Część wypełniana przez wnioskodawców będących spółkami kapitałowymi, w których akcje/udziały są posiadane w sposób pośredni przez podmioty inne niż osoby fizyczne lub państwo członkowskie Unii Europejskiej. Część B jest wypełniana niezależnie od części A. Należy wskazać wszystkie podmioty posiadające akcje lub udziały w sposób pośredni aż do osób fizycznych (ze wskazaniem ich obywatelstwa i miejsca zamieszkania) lub państw członkowskich Unii Europejskiej.
 Wspólnik/akcjonariusz Obywatelstwo Liczba Rodzaj/stopień % w całym kapitale, Imię i nazwisko/firma/ i miejsce posiadanych uprzywilejowania a w przypadku prostej nazwa państwa zamieszkania/ udziałów lub udziału lub akcji spółki akcyjnej stosunek członkowskiego UE siedziba akcji liczby akcji przysługujących temu akcjonariuszowi do liczby wszystkich akcji ustanowionych w prostej spółce akcyjnej WSPÓLNICY/AKCJONARIUSZE cz. C*** *** Część wypełniana przez wnioskodawców będących spółkami kapitałowymi pozostającymi w związku prawnym lub faktycznym, o którym mowa w art. 2 pkt 9 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r. w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty, z innym przedsiębiorcą lub innymi przedsiębiorcami. Należy przedstawić informacje dotyczące charakteru związku, o którym mowa w art. 2 pkt 9 rozporządzenia (WE) nr 1008/2008.
-8. WYKAZ OSÓB STALE I FAKTYCZNIE KIERUJĄCYCH DZIAŁALNOŚCIĄ PRZEDSIĘBIORSTWA CZŁONKÓW ZARZĄDU I PROKURENTÓW/OSÓB FIZYCZNYCH PROWADZĄCYCH DZIAŁALNOŚĆ GOSPODARCZĄ I PROKURENTÓW Imię i nazwisko Obywatelstwo Pełniona funkcja
+8. WYKAZ OSÓB STALE I FAKTYCZNIE KIERUJĄCYCH DZIAŁALNOŚCIĄ PRZEDSIĘBIORSTWA – CZŁONKÓW ZARZĄDU I PROKURENTÓW/OSÓB FIZYCZNYCH PROWADZĄCYCH DZIAŁALNOŚĆ GOSPODARCZĄ I PROKURENTÓW Imię i nazwisko Obywatelstwo Pełniona funkcja
 9. WYKAZ DOKUMENTÓW, INFORMACJI I OŚWIADCZEŃ DOŁĄCZONYCH do Wniosku:
 1.
 2.
@@ -70,7 +69,7 @@ w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólno
 Wspólnik/akcjonariusz Obywatelstwo Liczba Rodzaj/stopień % w całym kapitale, Imię i nazwisko/firma/ i miejsce posiadanych uprzywilejowania a w przypadku prostej nazwa państwa zamieszkania/ udziałów lub udziału lub akcji spółki akcyjnej stosunek członkowskiego UE siedziba akcji liczby akcji przysługujących temu akcjonariuszowi do liczby wszystkich akcji ustanowionych w prostej spółce akcyjnej WSPÓLNICY/AKCJONARIUSZE cz. B** ** Część wypełniana przez koncesjonariuszy będących spółkami kapitałowymi, w których akcje/udziały są posiadane w sposób pośredni przez podmioty inne niż osoby fizyczne lub państwo członkowskie Unii Europejskiej. Część B jest wypełniana niezależnie od części A. Należy wskazać wszystkie podmioty posiadające akcje lub udziały w sposób pośredni aż do osób fizycznych (ze wskazaniem ich obywatelstwa i miejsca zamieszkania) lub państw członkowskich Unii Europejskiej.
 Wspólnik/akcjonariusz Obywatelstwo Liczba Rodzaj/stopień % w całym kapitale, Imię i nazwisko/firma/ i miejsce posiadanych uprzywilejowania a w przypadku prostej nazwa państwa zamieszkania/ udziałów lub udziału lub akcji spółki akcyjnej stosunek członkowskiego UE siedziba akcji liczby akcji przysługujących temu akcjonariuszowi do liczby wszystkich akcji ustanowionych w prostej spółce akcyjnej WSPÓLNICY/AKCJONARIUSZE cz. C*** *** Część wypełniana przez koncesjonariuszy będących spółkami kapitałowymi pozostającymi w związku prawnym lub faktycznym, o którym mowa w art. 2 pkt 9 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r. w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty, z innym przedsiębiorcą lub innymi przedsiębiorcami.
 Należy przedstawić informacje dotyczące charakteru związku, o którym mowa w art. 2 pkt 9 rozporządzenia (WE) nr 1008/2008.
-8. WYKAZ OSÓB STALE I FAKTYCZNIE KIERUJĄCYCH DZIAŁALNOŚCIĄ PRZEWOŹNIKA LOTNICZEGO CZŁONKÓW ZARZĄDU I PROKURENTÓW/OSÓB FIZYCZNYCH PROWADZĄCYCH DZIAŁALNOŚĆ GOSPODARCZĄ I PROKURENTÓW Imię i nazwisko Obywatelstwo Pełniona funkcja
+8. WYKAZ OSÓB STALE I FAKTYCZNIE KIERUJĄCYCH DZIAŁALNOŚCIĄ PRZEWOŹNIKA LOTNICZEGO – CZŁONKÓW ZARZĄDU I PROKURENTÓW/OSÓB FIZYCZNYCH PROWADZĄCYCH DZIAŁALNOŚĆ GOSPODARCZĄ I PROKURENTÓW Imię i nazwisko Obywatelstwo Pełniona funkcja
 9. WYKAZ DOKUMENTÓW, INFORMACJI I OŚWIADCZEŃ DOŁĄCZONYCH do infoRMaCJi:
 1.
 2.

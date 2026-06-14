@@ -8,10 +8,10 @@ pos: 1724
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1724 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 10 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-02-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001724) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1724/text.pdf) |
 
-Poz. 1724 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 10 sierpnia 2023 r.
-zmieniające rozporządzenie w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko Na podstawie art. 60 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, 1113, 1501 i 1506) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 10 września 2019 r. w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko (Dz. U. poz. 1839 oraz z 2022 r. poz. 1071) w § 3 w ust. 1:
+zmieniające rozporządzenie w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko Na podstawie art. 60 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, 1113, 1501 i 1506) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 10 września 2019 r. w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko (Dz. U. poz. 1839 oraz z 2022 r. poz. 1071) w § 3 w ust. 1:
 1) w pkt 54 skreśla się wyrazy „ , w tym zabudowa systemami fotowoltaicznymi,”;
 2) po pkt 54 dodaje się pkt 54a w brzmieniu: „54a) zabudowa systemami fotowoltaicznymi o powierzchni wyznaczanej po obrysie zewnętrznych skrajnych modułów paneli nie mniejszej niż:
 a) 0,5 ha na obszarach objętych formami ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–5, 8 i 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub w otulinach form ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–3 tej ustawy,

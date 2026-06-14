@@ -2,15 +2,16 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 16 listopada 2006 r. o opłacie skarbowej*
 
-Łącznie: **284** orzeczeń
-(pominięto 1413 orzeczeń sądów rejonowych)
+Łącznie: **289** orzeczeń
+(pominięto 1418 orzeczeń sądów rejonowych)
 
-## art. 1 (123)
+## art. 1 (128)
 
 - 2013-06-18 | TK | [SK 1/12](https://www.saos.org.pl/judgments/111648) | Postanowienie ★
 - 2009-02-09 | TK | [Ts 156/08](https://www.saos.org.pl/judgments/109313) | Postanowienie ★
 - 2010-03-04 | SN | [I CSK 404/09](https://www.saos.org.pl/judgments/91967) | Wyrok ★
 - 2025-12-02 | SO | [I AGa 342/23](https://www.saos.org.pl/judgments/541675) | Wyrok
+- 2025-12-01 | SO | [I AGa 173/23](https://www.saos.org.pl/judgments/546679) | Wyrok
 - 2025-03-25 | SO | [I AGa 88/23](https://www.saos.org.pl/judgments/528787) | Wyrok
 - 2025-02-17 | SO | [I AGa 104/23](https://www.saos.org.pl/judgments/537533) | Wyrok
 - 2024-12-03 | SO | [I ACa 1739/22](https://www.saos.org.pl/judgments/533645) | Wyrok
@@ -63,11 +64,15 @@ Orzeczenia powołujące: *Ustawa z dnia 16 listopada 2006 r. o opłacie skarbowe
 - 2018-03-14 | SO | [I AGz 140/18](https://www.saos.org.pl/judgments/340118) | Postanowienie
 - 2017-01-11 | SO | [I ACz 2408/16](https://www.saos.org.pl/judgments/272801) | Postanowienie
 - 2012-06-06 | KIO | [KIO 1041/12](https://www.saos.org.pl/judgments/120357) | Wyrok
+- 2026-02-04 | SO | [I C 176/25](https://www.saos.org.pl/judgments/545153) | Wyrok
+- 2024-09-25 | SO | [I C 313/23](https://www.saos.org.pl/judgments/545178) | Wyrok
+- 2024-06-26 | SO | [I C 246/23](https://www.saos.org.pl/judgments/545164) | Wyrok
 - 2024-03-26 | SO | [I C 586/23](https://www.saos.org.pl/judgments/498747) | Wyrok
 - 2024-03-21 | SO | [I C 698/23](https://www.saos.org.pl/judgments/499100) | Wyrok
 - 2023-05-31 | SO | [I C 695/18](https://www.saos.org.pl/judgments/499092) | Wyrok
 - 2022-11-08 | SO | [I C 1276/21](https://www.saos.org.pl/judgments/480795) | Wyrok
 - 2022-11-08 | SO | [I C 1383/21](https://www.saos.org.pl/judgments/479955) | Wyrok
+- 2022-07-20 | SO | [I C 10/22](https://www.saos.org.pl/judgments/545142) | Wyrok
 - 2022-04-05 | SO | [I C 860/21](https://www.saos.org.pl/judgments/499523) | Wyrok
 - 2022-02-17 | SO | [I C 968/20](https://www.saos.org.pl/judgments/468776) | Wyrok
 - 2021-12-09 | SO | [I C 102/21](https://www.saos.org.pl/judgments/456033) | Wyrok

@@ -8,7 +8,7 @@ pos: 9
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rynku mocy
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-08 |
 | Data wydania | 2018-01-03 |
-| Ostatnia zmiana | 2025-10-08 |
+| Ostatnia zmiana | 2026-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/9/text.pdf) |
 
 Art. 86–89. (pominięte)
@@ -128,7 +128,7 @@ Art. 86–89. (pominięte)
 
 1. Limit emisji uznaje się za spełniony przez jednostkę rynku mocy, jeśli żadna z jednostek wytwórczych wchodzących w skład jednostek fizycznych tworzących daną jednostkę rynku mocy nie przekroczyła limitu emisji w danym roku dostaw.
 
-2. Jednostkowa emisja dwutlenku węgla w odniesieniu do jednostki wytwórczej wyznaczana jest zgodnie z wzorem: 0,0036∙(1−t EJ = )∙∑ U ∙WE  gdzie: EJ – oznacza jednostkową emisję dwutlenku węgla danej jednostki wytwórczej, wyrażoną w gCO /kWh, t – oznacza udział emisji dwutlenku węgla, która została przeniesiona z jednostki wytwórczej, a następnie wykorzystana w sposób, o którym mowa w art. 49 ust. 1 lit. a lub b rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1, z późn. zm. ), w całkowitej emisji tej jednostki, wyrażony w %, p – oznacza paliwo, n – oznacza liczbę paliw wykorzystywanych w danej jednostce wytwórczej, U – oznacza udział energetyczny danego paliwa w całym paliwie dostarczanym do danej jednostki wytwórczej, w okresie całego roku kalendarzowego, wyrażony w %, WE – oznacza wskaźnik emisji dwutlenku węgla dla danego paliwa, wyznaczony tak jak na potrzeby raportowania emisji określonych w rozporządzeniu wykonawczym Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającym rozporządzenie Komisji (UE) nr 601/2012, wyrażony w kgCO /TJ,  – oznacza sprawność w warunkach projektowych wytwarzania energii elektrycznej w danej jednostce wytwórczej, liczoną jako iloraz mocy elektrycznej netto i całkowitego zużycia paliwa, w warunkach projektowych przy mocy osiągalnej netto, uwzględniając wyniki pomiarów eksploatacyjnych, gwarancyjnych lub pomodernizacyjnych w zależności od tego, które z nich są najnowsze.
+2. Jednostkowa emisja dwutlenku węgla w odniesieniu do jednostki wytwórczej wyznaczana jest zgodnie z wzorem: 0,0036∙(1−t )∙∑ U ∙WE EJ =  gdzie: EJ – oznacza jednostkową emisję dwutlenku węgla danej jednostki wytwórczej, wyrażoną w gCO /kWh, t – oznacza udział emisji dwutlenku węgla, która została przeniesiona z jednostki wytwórczej, a następnie wykorzystana w sposób, o którym mowa w art. 49 ust. 1 lit. a lub b rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 601/2012 (Dz. Urz. UE L 334 z 31.12.2018, str. 1, z późn. zm. ), w całkowitej emisji tej jednostki, wyrażony w %, p – oznacza paliwo, n – oznacza liczbę paliw wykorzystywanych w danej jednostce wytwórczej, U – oznacza udział energetyczny danego paliwa w całym paliwie dostarczanym do danej jednostki wytwórczej, w okresie całego roku kalendarzowego, wyrażony w %, WE – oznacza wskaźnik emisji dwutlenku węgla dla danego paliwa, wyznaczony tak jak na potrzeby raportowania emisji określonych w rozporządzeniu wykonawczym Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającym rozporządzenie Komisji (UE) nr 601/2012, wyrażony w kgCO /TJ,  – oznacza sprawność w warunkach projektowych wytwarzania energii elektrycznej w danej jednostce wytwórczej, liczoną jako iloraz mocy elektrycznej netto i całkowitego zużycia paliwa, w warunkach projektowych przy mocy osiągalnej netto, uwzględniając wyniki pomiarów eksploatacyjnych, gwarancyjnych lub pomodernizacyjnych w zależności od tego, które z nich są najnowsze.
 
 3. W przypadku magazynów energii elektrycznej wchodzących w skład jednostek fizycznych tworzących daną jednostkę rynku mocy, na potrzeby weryfikacji spełnienia limitu emisji, przyjmuje się, że wskaźnik jednostkowej emisji dwutlenku węgla EJ w przypadku magazynów energii elektrycznej:
 
@@ -479,6 +479,9 @@ Art. 86–89. (pominięte)
 
 **Art. 23.** Na podstawie wniosku o certyfikację, operator wydaje certyfikat potwierdzający utworzenie jednostki rynku mocy, jeżeli właściciel jednostki fizycznej lub podmiot przez niego upoważniony złożył wniosek o jej utworzenie, oraz dopuszczający tę jednostkę rynku mocy do udziału w:
 
+- **1)** aukcji głównej lub aukcji uzupełniającej, lub jednej lub większej liczbie aukcji dodatkowych następujących bezpośrednio po tej certyfikacji;
+- **2)** rynku wtórnym w odniesieniu do okresu dostaw, którego dotyczyła dana certyfikacja.
+
 **Art. 23a.**
 
 1. W przypadku jednostek rynku mocy, które zawarły umowę mocową w wyniku aukcji głównej na więcej niż 1 okres dostaw, certyfikat wydany na podstawie art. 23 pkt 1 upoważnia do udziału w rynku wtórnym we wszystkich okresach dostaw, na które została zawarta ta umowa mocowa.
@@ -574,9 +577,26 @@ Art. 86–89. (pominięte)
 
 **Art. 27.** Operator, w terminie 10 dni od zakończenia certyfikacji do aukcji głównej, przedkłada Prezesowi URE oraz ministrowi właściwemu do spraw energii informację o przebiegu tej certyfikacji. Informacja ta zawiera w szczególności:
 
+- **1)** liczbę utworzonych jednostek rynku mocy oraz sumę iloczynów ich mocy osiągalnej netto i korekcyjnych współczynników dyspozycyjności, w podziale na: jednostki rynku mocy wytwórcze istniejące, modernizowane i nowe, jednostki rynku mocy redukcji zapotrzebowania, jednostki rynku mocy wytwórcze będące magazynem energii elektrycznej, jednostki rynku mocy składające się z jednostek fizycznych zagranicznych oraz jednostki rynku mocy składające się z jednostek fizycznych połączenia międzysystemowego;
+- **2)** (uchylony)
+- **3)** sumaryczną wielkość obowiązków mocowych, które będą oferowali dostawcy mocy w aukcji głównej, w podziale na cenotwórców i cenobiorców;
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** wykaz podmiotów, którym odmówiono wydania certyfikatu, zgodnie z art. 22 ust. 2;
+- **7)** sumę iloczynów mocy osiągalnej netto jednostek rynku mocy, dla których został wydany certyfikat uprawniający do uczestnictwa tylko w rynku wtórnym, i ich korekcyjnych współczynników dyspozycyjności.
+
 **Art. 28.** Operator, w terminie 10 dni od zakończenia certyfikacji do aukcji dodatkowych, przedkłada Prezesowi URE oraz ministrowi właściwemu do spraw energii informację o przebiegu tej certyfikacji. Informacja ta zawiera w szczególności:
 
+- **1)** liczbę utworzonych i dopuszczonych do udziału w aukcjach dodatkowych jednostek rynku mocy oraz sumę iloczynów ich mocy osiągalnej netto i korekcyjnych współczynników dyspozycyjności;
+- **2)** sumaryczną wielkość obowiązków mocowych, które będą oferowali dostawcy mocy w poszczególnych aukcjach dodatkowych, w podziale na cenotwórców i cenobiorców;
+- **3)** (uchylony)
+- **4)** wykaz podmiotów, którym odmówiono wydania certyfikatu, zgodnie z art. 22 ust. 2.
+
 **Art. 28a.** Operator, w terminie 10 dni od zakończenia certyfikacji do aukcji uzupełniającej, przedkłada Prezesowi URE oraz ministrowi właściwemu do spraw energii informację o przebiegu tej certyfikacji zawierającą w szczególności:
+
+- **1)** liczbę utworzonych i dopuszczonych do udziału w aukcji uzupełniającej jednostek rynku mocy oraz sumę iloczynów ich mocy osiągalnej netto i korekcyjnych współczynników dyspozycyjności;
+- **2)** sumaryczną wielkość obowiązków mocowych, które będą oferowali dostawcy mocy w aukcji uzupełniającej w podziale na cenotwórców i cenobiorców;
+- **3)** wykaz podmiotów, którym odmówiono wydania certyfikatu, zgodnie z art. 22 ust. 2.
 
 #### Rozdział 5 Aukcje mocy
 
@@ -656,6 +676,12 @@ Art. 86–89. (pominięte)
 
 **Art. 31.** Popyt w aukcji mocy wyznacza się na podstawie:
 
+- **1)** zapotrzebowania na moc wyznaczonego zgodnie z art. 33;
+- **2)** ceny wejścia na rynek nowej jednostki wytwórczej, odzwierciedlającej alternatywny koszt pozyskania mocy przez operatora przez budowę jednostki wytwórczej o najniższych operacyjnych i kapitałowych kosztach stałych, z uwzględnieniem potencjalnej marży na sprzedaży energii elektrycznej i świadczeniu usług systemowych, o których mowa w art. 9c ust. 2 pkt 8 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **3)** współczynnika zwiększającego cenę, o której mowa w pkt 2, służącego do wyznaczenia ceny maksymalnej obowiązującej w aukcji;
+- **4)** parametru wyznaczającego wielkość mocy poniżej zapotrzebowania, o którym mowa w pkt 1, dla której cena osiąga wartość maksymalną, o której mowa w pkt 3;
+- **5)** parametru wyznaczającego wielkość mocy ponad zapotrzebowanie, o którym mowa w pkt 1, dla której cena osiąga wartość minimalną równą 0,01 zł/kW/miesiąc.
+
 **Art. 32.**
 
 1. Parametrami aukcji głównej są:
@@ -682,6 +708,14 @@ Art. 86–89. (pominięte)
 4. Parametrami aukcji uzupełniającej są parametry, o których mowa w ust. 1 pkt 1, 2 i 7, wyznaczane dla okresu dostaw oraz parametry, o których mowa w ust. 1 pkt 3 i 6, które zostały określone w przepisach wydanych na podstawie art. 34 ust. 1 dla aukcji dodatkowych dla tego samego okresu dostaw.
 
 **Art. 33.** Zapotrzebowanie na moc w aukcji mocy wyznacza się na podstawie:
+
+- **1)** prognozowanego zapotrzebowania na moc w systemie w danym okresie dostaw;
+- **2)** wymaganego poziomu rezerw mocy ponad zapotrzebowanie w danym okresie dostaw, wyznaczonego na podstawie przyjętego standardu bezpieczeństwa dostaw energii elektrycznej do odbiorców końcowych, określonego w przepisach wydanych na podstawie art. 68, rozumianego jako dopuszczalny oczekiwany czas braku dostaw mocy elektrycznej do odbiorców końcowych, wyrażony w godzinach na rok;
+- **3)** wielkości mocy:
+    - **a)** zapewnianej przez jednostki fizyczne niewchodzące w skład jednostek rynku mocy,
+    - **b)** wynikającej z obowiązujących umów mocowych, których przedmiotem są obowiązki mocowe na ten sam okres dostaw,
+    - **c)** w przypadku aukcji głównej – planowanej do pozyskania w wyniku aukcji dodatkowych,
+    - **d)** połączeń międzysystemowych z uwzględnieniem możliwości ich wykorzystania na potrzeby pokrycia zapotrzebowania na moc w systemie oraz wyników aukcji wstępnych.
 
 **Art. 33a.**
 
@@ -846,6 +880,14 @@ Art. 86–89. (pominięte)
 
 **Art. 41.** Przez umowę mocową:
 
+- **1)** dostawca mocy zobowiązuje się do wykonywania, przez oznaczony czas, obowiązku mocowego przez określoną jednostkę rynku mocy;
+- **2)** operator zobowiązuje się do:
+    - **a)** weryfikacji wykonywania obowiązku mocowego,
+    - **b)** przekazywania informacji niezbędnych do wystawienia przez dostawcę mocy dokumentów księgowych stanowiących podstawę do wypłacenia wynagrodzenia za wykonywanie obowiązku mocowego,
+    - **c)** ustalania wysokości kar należnych od dostawcy mocy za niewykonanie obowiązku mocowego;
+
+- **3)** zarządca rozliczeń rynku mocy, o którym mowa w art. 61 ust. 2, zobowiązuje się do zapłaty wynagrodzenia za wykonywanie obowiązku mocowego.
+
 **Art. 42.**
 
 1. Umowa mocowa zawiera co najmniej:
@@ -1004,6 +1046,10 @@ Art. 86–89. (pominięte)
 
 **Art. 49a.** Przepisu art. 48 ust. 2 pkt 2 lit. f nie stosuje się w odniesieniu do:
 
+- **1)** obowiązku mocowego, który powstał nie później niż w dniu 31 grudnia 2019 r. w wyniku aukcji mocy, również w przypadku, gdy ten obowiązek mocowy został przeniesiony, w całości lub w części, na inną jednostkę rynku mocy w wyniku transakcji na rynku wtórnym, niezależnie od liczby transakcji, którym podlegał;
+- **2)** jednostki rynku mocy, która uzyskała certyfikat na dany okres dostaw w certyfikacji do aukcji mocy przeprowadzonej przed aukcją główną na rok dostaw 2025, jeżeli przed zgłoszeniem do rejestru transakcji w zakresie obrotu wtórnego obowiązkiem mocowym dostawca mocy złożył poprzez rejestr oświadczenie o planowanym spełnieniu limitu emisji w danym roku dostaw;
+- **3)** obowiązku mocowego, który powstał w wyniku zawarcia umowy mocowej w ramach aukcji uzupełniającej, również w przypadku, gdy ten obowiązek mocowy został przeniesiony, w całości lub w części, na inną jednostkę rynku mocy w wyniku transakcji na rynku wtórnym, niezależnie od liczby transakcji, którym podlegał.
+
 **Art. 49b.** W przypadku jednostki rynku mocy, która rozliczyła w danym okresie przywołania na rynku mocy niewykonanie obowiązku mocowego poprzez realokację wielkości wykonania obowiązku mocowego przez inną jednostkę rynku mocy, ewentualna nadwyżka wykonania skorygowanego obowiązku mocowego powstała w wyniku realokacji nie stanowi podstawy do wypłaty premii, o której mowa w art. 66 ust. 1.
 
 **Art. 49c.** Do umów, których przedmiotem jest obrót wtórny obowiązkiem mocowym lub realokacja wielkości wykonania obowiązku mocowego, o których mowa w art. 48 ust. 1, przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320) nie stosuje się.
@@ -1082,6 +1128,14 @@ Art. 86–89. (pominięte)
 2. Jednostka redukcji zapotrzebowania planowana wchodząca w skład jednostki rynku mocy redukcji zapotrzebowania może zostać zastąpiona jedną lub większą liczbą jednostek fizycznych redukcji zapotrzebowania, jeżeli spowoduje to, że jednostka rynku mocy redukcji zapotrzebowania, w skład której wchodzą te jednostki, w okresie dostaw, nie będzie spełniała limitu emisji, jedynie w odniesieniu do jednostki rynku mocy objętej certyfikatem wydanym w toku certyfikacji do aukcji uzupełniającej.
 
 **Art. 54.** Operator zwraca dostawcy mocy zabezpieczenie finansowe po:
+
+- **1)** wydaniu potwierdzenia:
+    - **a)** spełnienia wymagań, o których mowa w art. 52 ust. 2,
+    - **b)** o którym mowa w art. 53 ust. 4 pkt 1, albo w przypadku zawarcia umowy mocowej na więcej niż 1 rok dostaw – tego potwierdzenia i potwierdzenia spełnienia wymagań, o których mowa w art. 52 ust. 2,
+    - **c)** o którym mowa w art. 53 ust. 5, albo w przypadku zawarcia umowy mocowej na więcej niż 1 rok dostaw – tego potwierdzenia i potwierdzenia spełnienia wymagań, o których mowa w art. 52 ust. 2, z uwzględnieniem, że w obu tych przypadkach operator zwraca zabezpieczenie finansowe pomniejszone proporcjonalnie o wartość wynikającą z wyniku testu;
+
+- **2)** stwierdzeniu wygaśnięcia certyfikatu, na wniosek dostawcy mocy, zgodnie z art. 24 ust. 2 pkt 3;
+- **3)** wygaśnięciu certyfikatu zgodnie z art. 24 ust. 2 pkt 1.
 
 #### Rozdział 9 Rejestr rynku mocy
 
@@ -1286,6 +1340,9 @@ Art. 86–89. (pominięte)
 4. Operator lub zarządca rozliczeń może wystąpić do Prezesa URE o przekazanie informacji umożliwiających weryfikację informacji, o których mowa w ust. 3.
 
 **Art. 64.** Wynagrodzenie za wykonywanie obowiązku mocowego dla jednostki rynku mocy składającej się z:
+
+- **1)** jednostki fizycznej zagranicznej – wypłaca się po przedstawieniu przez operatora systemu przesyłowego, właściwego ze względu na lokalizację tej jednostki, danych pomiarowo-rozliczeniowych za dany okres lub innych informacji pozwalających na dokonanie rozliczeń lub po pozyskaniu przez operatora danych niezbędnych do dokonania rozliczeń w przypadku, o którym mowa w art. 57 ust. 7 pkt 1;
+- **2)** jednostki fizycznej połączenia międzysystemowego – dzieli się w równych częściach między dostawcę mocy i operatora.
 
 **Art. 65.** Wynagrodzenie za wykonywanie obowiązku mocowego oraz premię, o której mowa w art. 66 ust. 1, powiększa się o należny podatek od towarów i usług w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911 oraz z 2025 r. poz. 222).
 
@@ -1546,7 +1603,7 @@ Art. 86–89. (pominięte)
 
 10. Koszt rynku mocy dla odbiorców końcowych jest równy kosztowi całkowitemu rynku mocy, o którym mowa w ust. 1.
 
-11. Stawki opłaty mocowej dla odbiorców końcowych Prezes URE kalkuluje, uwzględniając koszt rynku mocy dla odbiorców końcowych oraz ilości energii elektrycznej pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez tych odbiorców w wybranych godzinach doby, o których mowa w ust. 4 pkt 2, z uwzględnieniem art. 70a i art. 89a, zgodnie z wzorem: S K = A ∙Z +A ∙Z +A ∙Z +Z gdzie poszczególne symbole oznaczają: S – stawki opłaty mocowej dla odbiorców końcowych, K – koszt rynku mocy dla odbiorców końcowych, odpowiednio dla roku lub kwartału, A – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K1, Z – ilość energii elektrycznej pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez odbiorców końcowych K1 w godzinach, o których mowa w ust. 4 pkt 2, A – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K2, Z – ilość energii elektrycznej pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez odbiorców końcowych K2 w godzinach, o których mowa w ust. 4 pkt 2, A – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K3, Z – ilość energii elektrycznej pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez odbiorców końcowych K3 w godzinach, o których mowa w ust. 4 pkt 2, Z – ilość energii elektrycznej pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez odbiorców końcowych K4 w godzinach, o których mowa w ust. 4 pkt 2.
+11. Stawki opłaty mocowej dla odbiorców końcowych Prezes URE kalkuluje, uwzględniając koszt rynku mocy dla odbiorców końcowych oraz ilości energii elektrycznej pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez tych odbiorców w wybranych godzinach doby, o których mowa w ust. 4 pkt 2, z uwzględnieniem art. 70a i art. 89a, zgodnie z wzorem: K S = A ∙Z +A ∙Z +A ∙Z +Z gdzie poszczególne symbole oznaczają: S – stawki opłaty mocowej dla odbiorców końcowych, K – koszt rynku mocy dla odbiorców końcowych, odpowiednio dla roku lub kwartału, A – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K1, Z – ilość energii elektrycznej pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez odbiorców końcowych K1 w godzinach, o których mowa w ust. 4 pkt 2, A – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K2, Z – ilość energii elektrycznej pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez odbiorców końcowych K2 w godzinach, o których mowa w ust. 4 pkt 2, A – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K3, Z – ilość energii elektrycznej pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez odbiorców końcowych K3 w godzinach, o których mowa w ust. 4 pkt 2, Z – ilość energii elektrycznej pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez odbiorców końcowych K4 w godzinach, o których mowa w ust. 4 pkt 2.
 
 12. Ilości energii elektrycznej, o których mowa w ust. 11 i w art. 89b ust. 2, pobranej z sieci lub dostarczonej linią bezpośrednią, i zużytej przez odbiorców końcowych K1–K4, w godzinach, o których mowa w ust. 4 pkt 2, wyznacza się na podstawie danych dotyczących roku poprzedzającego rok ustalania stawek opłaty mocowej przy uwzględnieniu zasad podziału odbiorców końcowych na grupy K1–K4, które będą obowiązywały w roku, dla którego wyznaczane są stawki opłaty mocowej.
 
@@ -1576,6 +1633,12 @@ Art. 86–89. (pominięte)
 8. Operator i płatnik opłaty mocowej przedstawiają Prezesowi URE informacje o ilościach energii elektrycznej, o których mowa w art. 74 ust. 12, zgodnie z przepisami wydanymi na podstawie art. 76.
 
 **Art. 76.** Minister właściwy do spraw energii określi, w drodze rozporządzenia, szczegółowy sposób pobierania opłaty mocowej, w tym:
+
+- **1)** terminy i sposób przekazywania operatorowi środków z tytułu opłaty mocowej,
+- **2)** zakres i termin przekazywania operatorowi i płatnikowi opłaty mocowej informacji, w tym informacji o sumie należnych opłat mocowych,
+- **3)** okresy rozliczeniowe pomiędzy odpowiednio operatorem, płatnikami opłaty mocowej i innymi podmiotami obowiązanymi do wnoszenia opłaty mocowej,
+- **4)** sposób wyznaczania godzin doby przypadających na szczytowe zapotrzebowanie na moc w systemie na potrzeby obliczania opłaty mocowej należnej od odbiorców końcowych, z wyłączeniem odbiorców końcowych, o których mowa w art. 89a ust. 1 pkt 1,
+- **5)** zakres, sposób i termin przekazywania Prezesowi URE, za pośrednictwem operatora i płatników opłaty mocowej, informacji niezbędnych do kalkulacji stawek opłaty mocowej – biorąc pod uwagę zapewnienie sprawnego pozyskiwania środków z opłaty mocowej oraz zachęcanie odbiorców końcowych do racjonalnego wykorzystywania mocy elektrycznej w ciągu doby.
 
 **Art. 77.**
 
@@ -1624,6 +1687,23 @@ Art. 86–89. (pominięte)
 
 **Art. 79.** W sprawach spornych dotyczących:
 
+- **1)** procesów certyfikacji, w zakresie:
+    - **a)** odmowy wpisu jednostki fizycznej do rejestru przez operatora,
+    - **b)** odmowy wydania certyfikatu przez operatora lub wydania certyfikatu z parametrami odbiegającymi od tych, których dotyczył wniosek o certyfikację,
+    - **c)** nierównego traktowania właścicieli jednostek fizycznych lub podmiotów przez nich upoważnionych, lub dostawców mocy,
+    - **d)** prowadzenia przez operatora procesów certyfikacji niezgodnie z przepisami lub regulaminem rynku mocy, o którym mowa w art. 83,
+
+- **2)** aukcji mocy, w zakresie:
+    - **a)** zachowania uczestników aukcji mocy niezgodnego z przepisami lub regulaminem rynku mocy, o którym mowa w art. 83,
+    - **b)** prowadzenia aukcji mocy przez operatora niezgodnie z przepisami lub regulaminem rynku mocy, o którym mowa w art. 83,
+    - **c)** niedopuszczenia jednostki rynku mocy do udziału w aukcji mocy,
+
+- **3)** obrotu obowiązkiem mocowym na rynku wtórnym, w tym sprzeciwu zgłoszonego przez operatora w odniesieniu do transakcji na rynku wtórnym,
+- **4)** danych wpisanych do rejestru lub danych, których wpisu odmówiono,
+- **5)** naruszenia przez operatora zasad ogłaszania okresu przywołania na rynku mocy,
+- **6)** aukcji wstępnej,
+- **7)** odmowy uwzględnienia wniosku, o którym mowa w art. 70b ust. 2 – rozstrzyga na wniosek strony, Prezes URE, w drodze decyzji.
+
 **Art. 80.** Wniosek do Prezesa URE o rozstrzygnięcie sporu składa się po rozpatrzeniu reklamacji w trybie określonym w regulaminie rynku mocy, o ile regulamin przewiduje możliwość jej złożenia w danej sprawie. Złożenie wniosku nie wstrzymuje działań podejmowanych na rynku mocy, których dotyczy spór, a rozstrzygnięcie sporu nie narusza praw ani obowiązków uczestników rynku mocy wynikających z trwających lub zakończonych działań na rynku mocy.
 
 **Art. 81.**
@@ -1637,6 +1717,50 @@ Art. 86–89. (pominięte)
 **Art. 82.** Operator opracowuje regulamin rynku mocy określający szczegółowe warunki współpracy uczestników rynku mocy.
 
 **Art. 83.** Regulamin rynku mocy określa warunki współpracy operatora z pozostałymi uczestnikami rynku mocy, w szczególności:
+
+- **1)** organizację i przebieg certyfikacji, w tym:
+    - **a)** szczegółowy wykaz i formę przedkładanych operatorowi informacji,
+    - **b)** sposób wymiany informacji między uczestnikami rynku mocy,
+    - **c)** tryb składania i rozpatrywania reklamacji dotyczących rozstrzygnięć operatora,
+    - **d)** zakres danych techniczno-ekonomicznych przekazywanych na potrzeby certyfikacji i sposób obliczania tych danych,
+    - **e)** wzory stosowanych formularzy i dokumentów,
+    - **f)** sposób współpracy operatora systemu dystrybucyjnego, do którego sieci przyłączone są jednostki fizyczne, z operatorem,
+    - **g)** szczegółowy harmonogram certyfikacji,
+    - **h)** termin usunięcia wad lub braków formalnych wniosku, o którym mowa w art. 13 ust. 1 i art. 22 ust. 1,
+    - **i)** sposób weryfikacji parametrów jednostki fizycznej wytwórczej, jednostki fizycznej redukcji zapotrzebowania lub jednostki rynku mocy,
+    - **j)** wytyczne w zakresie planu działalności przedstawianego przez jednostkę redukcji zapotrzebowania planowaną;
+
+- **2)** szczegółowe warunki prowadzenia aukcji mocy, w tym:
+    - **a)** algorytm rozstrzygania aukcji,
+    - **b)** uzyskiwania dostępu i korzystania z dedykowanego systemu teleinformatycznego, w tym wymagania techniczne dla użytkowników tego systemu,
+    - **c)** sposób licytowania i przebieg aukcji mocy;
+
+- **3)** szczegółowy zakres informacji zawartych w rejestrze;
+- **4)** warunki korzystania z rejestru przez uczestników rynku mocy, w tym:
+    - **a)** postać danych zapisywanych i przetwarzanych w rejestrze,
+    - **b)** wymagania techniczne dla użytkowników rejestru,
+    - **c)** sposób uzyskiwania dostępu do rejestru, w szczególności określenie zakresu danych dostępnych dla poszczególnych uczestników rynku mocy,
+    - **d)** jego funkcjonalności w zakresie przetwarzania, kopiowania i sporządzania wyciągów z danych,
+    - **e)** procedurę rejestrowania transakcji na rynku wtórnym,
+    - **f)** zapewnienie bezpieczeństwa danych i ochrony informacji;
+
+- **5)** procedury związane z dostarczaniem mocy, w tym szczegółowe warunki i sposób:
+    - **a)** rozliczania wykonania obowiązku mocowego, w tym wyznaczania skorygowanego obowiązku mocowego w okresie przywołania na rynku mocy,
+    - **b)** demonstracji,
+    - **c)** wyznaczania wielkości dostarczonej mocy, w tym metody określania wielkości mocy dostarczonej w wyniku czasowego ograniczenia zużycia energii elektrycznej,
+    - **d)** przeprowadzania testu;
+
+- **6)** termin sprawdzenia wykonania obowiązku mocowego w okresie przywołania na rynku mocy;
+- **7)** sposób sprawdzenia wykonania skorygowanego obowiązku mocowego;
+- **8)** wzór obliczenia wynagrodzenia, o którym mowa w art. 62;
+- **9)** sposób wymiany danych pomiarowo-rozliczeniowych między operatorem a operatorem systemu przesyłowego, właściwego ze względu na lokalizację jednostki fizycznej wytwórczej zagranicznej lub jednostki fizycznej redukcji zapotrzebowania zagranicznej, oraz wzór zobowiązania, o którym mowa w art. 19 ust. 4 pkt 4;
+- **10)** szczegółowe warunki i sposób prowadzenia aukcji wstępnych oraz warunki aukcji;
+- **11)** warunki i zasady zgłaszania do rejestru jednostek fizycznych zagranicznych;
+- **12)** tryb składania i rozpatrywania wniosków, o których mowa w art. 47a;
+- **13)** sposób i tryb składania oraz weryfikacji oświadczeń, o których mowa w art. 67a;
+- **14)** procedurę aktualizacji harmonogramu rzeczowo-finansowego inwestycji;
+- **15)** sposób i tryb naliczania i wypłaty wynagrodzenia w przypadku naliczania kar zgodnie z art. 47 ust. 2, po przedstawieniu informacji, o których mowa w art. 52 ust. 2;
+- **16)** sposób i tryb uwzględniania poleceń operatora, o których mowa w art. 58 ust. 4a.
 
 **Art. 84.**
 
@@ -1749,7 +1873,7 @@ Art. 86–89. (pominięte)
 
 **Art. 89b.**
 
-1. Dla okresów przypadających przed dniem 1 stycznia 2028 r. Prezes URE oblicza, na podstawie danych z roku poprzedzającego rok ustalania stawek opłaty mocowej, koszt rynku mocy dla grupy odbiorców końcowych, o której mowa w art. 89a ust. 1 pkt 1, zgodnie z wzorem: K Z = Z ∙K −R gdzie poszczególne symbole oznaczają: K – koszt rynku mocy dla grupy odbiorców końcowych, o której mowa w art. 89a ust. 1 pkt 1, Z – roczne zużycie energii elektrycznej w systemie przez odbiorców końcowych, o których mowa w art. 89a ust. 1 pkt 1, Z – roczne zużycie energii elektrycznej w systemie przez odbiorców końcowych, R – wolumen energii elektrycznej, o którym mowa w ust. 2, K – całkowity koszt rynku mocy w danym roku dostaw.
+1. Dla okresów przypadających przed dniem 1 stycznia 2028 r. Prezes URE oblicza, na podstawie danych z roku poprzedzającego rok ustalania stawek opłaty mocowej, koszt rynku mocy dla grupy odbiorców końcowych, o której mowa w art. 89a ust. 1 pkt 1, zgodnie z wzorem: Z K = ∙K Z −R gdzie poszczególne symbole oznaczają: K – koszt rynku mocy dla grupy odbiorców końcowych, o której mowa w art. 89a ust. 1 pkt 1, Z – roczne zużycie energii elektrycznej w systemie przez odbiorców końcowych, o których mowa w art. 89a ust. 1 pkt 1, Z – roczne zużycie energii elektrycznej w systemie przez odbiorców końcowych, R – wolumen energii elektrycznej, o którym mowa w ust. 2, K – całkowity koszt rynku mocy w danym roku dostaw.
 
 2. Wolumen energii elektrycznej wynikający z podziału odbiorców końcowych, o którym mowa w art. 70a ust. 1, w danym roku lub w danym kwartale roku dostaw, o którym mowa w art. 74 ust. 5, oblicza się zgodnie z wzorem: R = (1−A )∙Z +(1−A )∙Z +(1−A )∙Z gdzie poszczególne symbole oznaczają: A – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K1, Z – ilość energii elektrycznej pobrana z sieci i zużyta przez odbiorców końcowych K1 w godzinach, o których mowa w art. 74 ust. 4 pkt 2, A – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K2, Z – ilość energii elektrycznej pobrana z sieci i zużyta przez odbiorców końcowych K2 w godzinach, o których mowa w art. 74 ust. 4 pkt 2, A – współczynnik, o którym mowa w art. 70a ust. 5, dla odbiorców końcowych K3, Z – ilość energii elektrycznej pobrana z sieci i zużyta przez odbiorców końcowych K3 w godzinach, o których mowa w art. 74 ust. 4 pkt 2.
 
@@ -1883,6 +2007,9 @@ Art. 86–89. (pominięte)
 2. W przypadku zniesienia rynku mocy lub zaprzestania organizowania aukcji mocy w przypadku, o którym mowa w ust. 1, zawarte umowy mocowe zachowują moc i podlegają wykonaniu.
 
 **Art. 104.** Do dnia wydania decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej w:
+
+- **1)** art. 60 ust. 1 z rynkiem wewnętrznym albo decyzji stwierdzającej, że środek ten nie stanowi pomocy publicznej, umowa mocowa nie podlega wykonaniu.
+- **2)** (uchylony)
 
 **Art. 105.**
 

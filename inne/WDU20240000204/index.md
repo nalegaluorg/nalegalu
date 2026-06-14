@@ -8,10 +8,10 @@ pos: 204
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 220044 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 13 lutego 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/204/text.pdf) |
 
-220044 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 13 lutego 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz wzoru formularza opinii służbowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 3 marca 2011 r. w sprawie opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz wzoru formularza opinii służbowej (Dz. U. z 2014 r. poz. 46), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 7 listopada 2019 r. zmieniającym rozporządzenie w sprawie opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz wzoru formularza opinii służbowej (Dz. U. poz. 2280).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 7 listopada 2019 r. zmieniającego rozporządzenie w sprawie opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz wzoru formularza opinii służbowej (Dz. U. poz. 2280), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 marca 2011 r.
-w sprawie opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz wzoru formularza opinii służbowej Na podstawie art. 53 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz wzoru formularza opinii służbowej Na podstawie art. 53 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór formularza opinii służbowej;
 2) szczegółowe zasady i tryb opiniowania służbowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, zwanego dalej „opiniowaniem”;
 3) kryteria brane pod uwagę przy opiniowaniu i skalę ocen;
@@ -39,8 +39,8 @@ w sprawie opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz
 6) tryb zapoznawania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, zwanych dalej „funkcjonariuszami”, z opinią służbową;
 7) tryb wnoszenia i rozpatrywania odwołań od opinii służbowej.
 § 1a. Ilekroć w rozporządzeniu jest mowa o:
-1) bezpośrednim przełożonym rozumie się przez to zajmującego stanowisko nie niższe niż kierownik sekcji lub inne równorzędne ze stanowiskiem przełożonego, któremu funkcjonariusz podlega bezpośrednio;
-2) wyższym przełożonym rozumie się przez to kierownika jednostki organizacyjnej Agencji Bezpieczeństwa Wewnętrznego, zastępcę Szefa Agencji Bezpieczeństwa Wewnętrznego sprawującego bezpośredni nadzór nad jednostką organizacyjną Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Bezpieczeństwa Wewnętrznego.
+1) bezpośrednim przełożonym – rozumie się przez to zajmującego stanowisko nie niższe niż kierownik sekcji lub inne równorzędne ze stanowiskiem przełożonego, któremu funkcjonariusz podlega bezpośrednio;
+2) wyższym przełożonym – rozumie się przez to kierownika jednostki organizacyjnej Agencji Bezpieczeństwa Wewnętrznego, zastępcę Szefa Agencji Bezpieczeństwa Wewnętrznego sprawującego bezpośredni nadzór nad jednostką organizacyjną Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Bezpieczeństwa Wewnętrznego.
 § 1b. Szef Agencji Bezpieczeństwa Wewnętrznego może wykonywać uprawnienia bezpośredniego przełożonego w zakresie opiniowania wobec wszystkich funkcjonariuszy.
 § 2. 1. Opinię służbową sporządza bezpośredni przełożony funkcjonariusza, dokonując oceny jego służby, zgodnie z następującymi kryteriami:
 1) znajomość służby;
@@ -79,7 +79,7 @@ w sprawie opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz
 3) urlopu macierzyńskiego lub ojcowskiego,
 4) urlopu wychowawczego,
 5) urlopu bezpłatnego,
-6) choroby ocenę przebiegu służby odnosi się tylko do okresu faktycznego wykonywania zadań służbowych, nie krótszego jednak niż
+6) choroby – ocenę przebiegu służby odnosi się tylko do okresu faktycznego wykonywania zadań służbowych, nie krótszego jednak niż 3 miesiące.
 2. Jeżeli opiniowanie obejmuje wykonywanie przez funkcjonariusza obowiązków służbowych w innej jednostce lub komórce organizacyjnej albo podczas oddelegowania poza Agencję Bezpieczeństwa Wewnętrznego, bezpośredni przełożony może wystąpić z pisemnym wnioskiem do tej jednostki lub komórki organizacyjnej albo podmiotu oddelegowania o przekazanie informacji dotyczącej oceny służby według wskazanych kryteriów, spośród wymienionych w § 2 ust. 1 i 2.
 § 6. 1. W przypadku delegowania do czasowego pełnienia służby w innej miejscowości, powierzenia obowiązków służbowych na stanowisku w innej komórce lub jednostce organizacyjnej lub wyznaczenia obowiązków służbowych w okresie pozostawania w dyspozycji Szefa Agencji Bezpieczeństwa Wewnętrznego właściwym do wystawienia opinii służbowej jest bezpośredni przełożony w komórce lub jednostce organizacyjnej, w której funkcjonariusz realizuje obowiązki służbowe.
 2. W przypadku skierowania funkcjonariusza na obowiązkowe szkolenie podstawowe opinię służbową, o której mowa w § 4 ust. 2 pkt 1, sporządza kierownik komórki organizacyjnej Centralnego Ośrodka Szkolenia i Edukacji Agencji Bezpieczeństwa Wewnętrznego właściwej w sprawach szkolenia.
@@ -109,14 +109,14 @@ w sprawie opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz
 7. Na wniosek funkcjonariusza, który wniósł odwołanie, w skład komisji powołuje się także wskazanego przez niego funkcjonariusza.
 § 13. 1. Komisja przy rozpatrywaniu wniosku, o którym mowa w § 12 ust. 1, stosuje odpowiednio przepisy § 8 ust. 2 i § 9.
 2. Komisja po dokonaniu ustaleń sporządza protokół, w którym przedstawia Szefowi Agencji Bezpieczeństwa Wewnętrznego stanowisko w sprawie, o której mowa w § 12 ust. 1.
-3. Po zapoznaniu się ze stanowiskiem komisji Szef Agencji Bezpieczeństwa Wewnętrznego utrzymuje w mocy zaskarżoną o pinię służbową albo uchyla zaskarżoną opinię służbową i poleca wydanie nowej, wskazując, jakie okoliczności należy wziąć pod uwagę przy jej wydawaniu.
+3. Po zapoznaniu się ze stanowiskiem komisji Szef Agencji Bezpieczeństwa Wewnętrznego utrzymuje w mocy zaskarżoną opinię służbową albo uchyla zaskarżoną opinię służbową i poleca wydanie nowej, wskazując, jakie okoliczności należy wziąć pod uwagę przy jej wydawaniu.
 4. Tryb, o którym mowa w ust. 3, kończy proces opiniowania funkcjonariusza.
 5. W przypadku wydania nowej opinii służbowej w trybie ust. 3 przepisy § 7 ust. 4 i § 10 ust. 2 stosuje się odpowiednio.
 § 14. W przypadkach, o których mowa w § 7–13, Szef Agencji Bezpieczeństwa Wewnętrznego wykonuje uprawnienia wyższego przełożonego w stosunku do funkcjonariuszy, których jest bezpośrednim przełożonym.
 § 15. W sprawach dotyczących opiniowania wszczętych i niezakończonych do dnia wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 16. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 7 października 2002 r. w sprawie szczegółowych zasad i trybu opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz wzoru formularza opinii służbowej (Dz. U. poz. 1405 oraz z 2005 r. poz. 1551).
 § 17. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-OPINIA SŁUŻBOWA (ocena przebiegu służby funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego) A. Dane opiniowanego funkcjonariusza B. Opis przebiegu służby w okresie opiniowania C. Powód opiniowania WZÓR D. Ocena funkcjonariusza E. Ocena funkcjonariusza zajmującego stanowisko kierownicze F. Propozycje dotyczące rozwoju zawodowego funkcjonariusza G.Ocena przydatności do służby funkcjonariusza H.Potwierdzenie zapoznania się funkcjonariusza z opinią służbową I.Stanowisko wyższego przełożonego .................................................................................................................................................................
+WZÓR OPINIA SŁUŻBOWA (ocena przebiegu służby funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego) A. Dane opiniowanego funkcjonariusza B. Opis przebiegu służby w okresie opiniowania C. Powód opiniowania D. Ocena funkcjonariusza E. Ocena funkcjonariusza zajmującego stanowisko kierownicze F. Propozycje dotyczące rozwoju zawodowego funkcjonariusza G.Ocena przydatności do służby funkcjonariusza H.Potwierdzenie zapoznania się funkcjonariusza z opinią służbową I.Stanowisko wyższego przełożonego .................................................................................................................................................................
 .................................................................................................................................................................
 .................................................................................................................................................................
 ....................................... .................................................................

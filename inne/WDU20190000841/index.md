@@ -8,10 +8,10 @@ pos: 841
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 maja 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 841 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,23 +25,24 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000841) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/841/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 kwietnia 2019 r.
-w sprawie wzoru wniosku o wydanie zezwolenia na prowadzenie hurtowni farmaceutycznej Na podstawie art. 75 ust. 6 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499 i zarządza się, co następuje: § 1. Wzór wniosku o wydanie zezwolenia na prowadzenie hurtowni farmaceutycznej jest określony w załączniku rozporządzenia.
+w sprawie wzoru wniosku o wydanie zezwolenia na prowadzenie hurtowni farmaceutycznej Na podstawie art. 75 ust. 6 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499 i zarządza się, co następuje:
+§ 1. Wzór wniosku o wydanie zezwolenia na prowadzenie hurtowni farmaceutycznej jest określony w załączniku rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko WZÓR WZÓR WNIOSEK O WYDANIE ZEZWOLENIA NA PROWADZENIE HURTOWNI FARMACEUTYCZNEJ (WHOLESALE DISTRIBUTION AUTHORISATION - WDA) I. DANE DOTYCZĄCE WNIOSKODAWCY:
-1) firma oraz adres i miejsce zamieszkania albo firma oraz adres i siedziba wnioskodawcy, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ………………...............................................................................................................................................………..
+Minister Zdrowia: wz. J. Szczurek-Żelazko Załącznik do rozporządzenia Ministra Zdrowia z dnia 29 kwietnia 2019 r. (poz.
+…) WZÓR WZÓR WNIOSEK O WYDANIE ZEZWOLENIA NA PROWADZENIE HURTOWNI FARMACEUTYCZNEJ (WHOLESALE DISTRIBUTION AUTHORISATION - WDA) I. DANE DOTYCZĄCE WNIOSKODAWCY:
+1) firma oraz adres i miejsce zamieszkania albo firma oraz adres i siedziba wnioskodawcy, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ………………...............................................................................................................................................………..
 ………...............................................................................................................................................………………..
 .....................................................................................................................................................................................
-numer identyfikacji podatkowej (NIP): ………………..……………………………………………………...........................................................................
+2) numer identyfikacji podatkowej (NIP): ………………..……………………………………………………...........................................................................
 3) numer wpisu do Krajowego Rejestru Sądowego: …………………………………………………….....................................................................................................
 albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej ……………...............................................................................................................................................………..… …………………………………………………………………………………………………………………….… ……………………………………………………………………………………………………………………….
 4) adres(y) miejsc(a) prowadzenia: □ hurtowni farmaceutycznej …….............................................................................................................................................…………… ….............................................................................................................................................……………….
-□ komory przeładunkowej, o której mowa w art. 76 ust. 3 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499 i 399), jeżeli przedsiębiorca ją posiada i jest zlokalizowana poza miejscem prowadzenia działalności …….............................................................................................................................................…………………… ….................................................................................................................................................................................
+□ komory przeładunkowej, o której mowa w art. 76 ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499 i 399), jeżeli przedsiębiorca ją posiada i jest zlokalizowana poza miejscem prowadzenia działalności …….............................................................................................................................................…………………… ….................................................................................................................................................................................
 II. OKREŚLENIE ZAKRESU DZIAŁALNOŚCI (SCOPE OF WHOLESALE DISTRIBUTION AUTHORISATION)
 1. PRODUKTY LECZNICZE (MEDICINAL PRODUCTS)
-1.1. □ posiadające pozwolenie na dopuszczenie do obrotu wydane w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym (with a Marketing Authorisation in EEA country)
-1.2. □ nieposiadające pozwolenia na dopuszczenie do obrotu wydanego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym i przeznaczone do obrotu wyłącznie w tych państwach (without a Marketing Authorisation in the EEA and intended for EEA market)
-1.3. □ nieposiadające pozwolenia na dopuszczenie do obrotu wydanego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym i przeznaczone do eksportu (without a Marketing Authorisation in the EEA and intended for exportation)
+1.1. □ posiadające pozwolenie na dopuszczenie do obrotu wydane w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym (with a Marketing Authorisation in EEA country)
+1.2. □ nieposiadające pozwolenia na dopuszczenie do obrotu wydanego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym i przeznaczone do obrotu wyłącznie w tych państwach (without a Marketing Authorisation in the EEA and intended for EEA market)
+1.3. □ nieposiadające pozwolenia na dopuszczenie do obrotu wydanego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym i przeznaczone do eksportu (without a Marketing Authorisation in the EEA and intended for exportation)
 2. CZYNNOŚCI OBJĘTE ZEZWOLENIEM (AUTHORISED WHOLESALE DISTRIBUTION OPERATIONS)
 2.1. □ nabywanie (Procurement)
 2.2. □ przechowywanie (Holding)

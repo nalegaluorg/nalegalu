@@ -8,7 +8,7 @@ pos: 94
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 Kierując się dobrem osób, które jako dzieci cierpiały na skutek czynności skierowanych przeciwko wolności seksualnej i obyczajności, mając na względzie ich ból, poczucie osamotnienia oraz traumatyczne przeżycia, które oddziałują również w ich dorosłym życiu, uwzględniając powinność uczynienia zadość społecznemu poczuciu sprawiedliwości, jako wyraz przekonania, że żadne działania skierowane przeciwko wolności seksualnej i obyczajności dzieci mimo upływu lat nie mogą być chronione tajemnicą ani nie mogą ulec zapomnieniu – dla ochrony czci, praw i godności osób poszkodowanych stanowi się, co następuje:
@@ -32,6 +32,11 @@ Art. 45–47. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania i organizację Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15, zwanej dalej „Komisją”;
+- **2)** zasady i sposób wyjaśniania przypadków przestępstw przeciwko wolności seksualnej i obyczajności, o których mowa w rozdziale XXV ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17), popełnionych na szkodę małoletniego poniżej lat 15;
+- **3)** działania mające na celu zapewnienie niezwłocznej reakcji organów państwa oraz organizacji pozarządowych, podmiotów i instytucji prowadzących działalność edukacyjną, wychowawczą, opiekuńczą, kulturalną i związaną z kulturą fizyczną, wypoczynkiem i leczeniem, a także samorządów zawodowych, kościołów oraz związków wyznaniowych, w tym kościelnych osób prawnych, zwanych dalej „organizacjami i podmiotami”, w zakresie zwalczania przestępstw, o których mowa w pkt 2, oraz działania umożliwiające pociągnięcie do odpowiedzialności ich sprawców;
+- **4)** sposób prowadzenia działalności prewencyjnej i edukacyjnej.
 
 #### Rozdział 2 Państwowa Komisja do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15
 
@@ -103,6 +108,9 @@ Art. 45–47. (pominięte)
 
 **Art. 4a.** Do zadań Komisji należy także:
 
+- **1)** opiniowanie projektów aktów prawnych, których przedmiot dotyczy spraw należących do właściwości Komisji;
+- **2)** kierowanie do właściwych organów wniosków o podjęcie inicjatywy ustawodawczej albo o wydanie lub zmianę innych aktów prawnych, których przedmiot dotyczy spraw należących do właściwości Komisji.
+
 **Art. 5.**
 
 1. Komisja przetwarza wszelkie informacje niezbędne do realizacji jej ustawowych zadań, w tym dane osobowe, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
@@ -163,7 +171,7 @@ Art. 45–47. (pominięte)
 
 9. Kandydatów na członków Komisji mogą zgłaszać Naczelna Rada Adwokacka, Krajowa Rada Radców Prawnych, Krajowa Rada Sądownictwa, Krajowa Rada Prokuratorów przy Prokuratorze Generalnym, Naczelna Izba Lekarska, Krajowa Izba Psychologów oraz organizacje pozarządowe, których zadania statutowe przez okres co najmniej 2 lat obejmowały działania związane z prawami dzieci, w szczególności działania związane z ochroną praw dzieci i przeciwdziałaniem przemocy, w tym przemocy seksualnej, przy czym:
 
-- **1)** kandydatów na członków Komisji, o których mowa w ust. 2 pkt 1, mogą zgłaszać także Marszałek Rzeczypospolitej Polskiej lub co najmniej 35 posłów;
+- **1)** kandydatów na członków Komisji, o których mowa w ust. 2 pkt 1, mogą zgłaszać także Marszałek Sejmu Rzeczypospolitej Polskiej lub co najmniej 35 posłów;
 - **2)** kandydatów na członków Komisji, o których mowa w ust. 2 pkt 2, mogą zgłaszać także Marszałek Senatu Rzeczypospolitej Polskiej lub co najmniej 7 senatorów.
 
 10. Kandydat na członka Komisji składa oświadczenie o spełnianiu wymagań, o których mowa w ust. 6–8, a w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r. – także oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, albo informację, o której mowa w art. 7 ust. 3a tej ustawy.
@@ -176,7 +184,7 @@ Art. 45–47. (pominięte)
 
 2. W przypadku wygaśnięcia członkostwa w Komisji powołuje się nowego członka na okres, jaki pozostaje do dnia upływu trwającej kadencji Komisji.
 
-3. Pierwsze posiedzenie Komisji zwołuje Marszałek Rzeczypospolitej Polskiej.
+3. Pierwsze posiedzenie Komisji zwołuje Marszałek Sejmu Rzeczypospolitej Polskiej.
 
 4. Przed przystąpieniem do wykonywania obowiązków członkowie Komisji składają przed Sejmem Rzeczypospolitej Polskiej następujące ślubowanie: „Ślubuję uroczyście, że przy wykonywaniu powierzonych mi obowiązków członka Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 dochowam wierności Konstytucji Rzeczypospolitej Polskiej, będę strzec praw dziecka, kierując się przepisami prawa, dobrem dziecka i dobrem rodziny. Ślubuję, że powierzone mi obowiązki będę wypełniać bezstronnie, z najwyższą sumiennością i starannością, że będę strzec godności powierzonego mi stanowiska oraz dochowam tajemnicy prawnie chronionej.”. Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomóż Bóg”.
 
@@ -193,7 +201,7 @@ Art. 45–47. (pominięte)
 
 2. Wygaśnięcie członkostwa w Komisji stwierdza:
 
-- **1)** Marszałek Rzeczypospolitej Polskiej – w przypadku członka powołanego przez Sejm Rzeczypospolitej Polskiej;
+- **1)** Marszałek Sejmu Rzeczypospolitej Polskiej – w przypadku członka powołanego przez Sejm Rzeczypospolitej Polskiej;
 - **2)** Marszałek Senatu Rzeczypospolitej Polskiej – w przypadku członka powołanego przez Senat Rzeczypospolitej Polskiej;
 - **3)** Prezydent Rzeczypospolitej Polskiej – w przypadku członka powołanego przez Prezydenta Rzeczypospolitej Polskiej;
 - **4)** Prezes Rady Ministrów – w przypadku członka powołanego przez Prezesa Rady Ministrów;
@@ -209,7 +217,7 @@ Art. 45–47. (pominięte)
 
 5. Przewodniczącego Komisji odwołuje z tej funkcji Sejm Rzeczypospolitej Polskiej, zwykłą większością głosów, w przypadku niewypełniania obowiązków Przewodniczącego.
 
-**Art. 11.** W związku z wygaśnięciem członkostwa w Komisji na skutek upływu kadencji Komisji ustępującemu członkowi Komisji powołanemu przez Sejm Rzeczypospolitej Polskiej, Senat Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej, Prezesa Rady Ministrów albo Rzecznika Praw Dziecka odpowiednio Marszałek Rzeczypospolitej Polskiej, Marszałek Senatu Rzeczypospolitej Polskiej, Prezydent Rzeczypospolitej Polskiej, Prezes Rady Ministrów albo Rzecznik Praw Dziecka może powierzyć dalsze pełnienie obowiązków do czasu powołania nowego członka Komisji, jednak nie dłużej niż przez 60 dni, licząc od dnia upływu kadencji Komisji.
+**Art. 11.** W związku z wygaśnięciem członkostwa w Komisji na skutek upływu kadencji Komisji ustępującemu członkowi Komisji powołanemu przez Sejm Rzeczypospolitej Polskiej, Senat Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej, Prezesa Rady Ministrów albo Rzecznika Praw Dziecka odpowiednio Marszałek Sejmu Rzeczypospolitej Polskiej, Marszałek Senatu Rzeczypospolitej Polskiej, Prezydent Rzeczypospolitej Polskiej, Prezes Rady Ministrów albo Rzecznik Praw Dziecka może powierzyć dalsze pełnienie obowiązków do czasu powołania nowego członka Komisji, jednak nie dłużej niż przez 60 dni, licząc od dnia upływu kadencji Komisji.
 
 **Art. 12.**
 
@@ -276,6 +284,11 @@ Art. 45–47. (pominięte)
 ##### Oddział 1 Przepisy ogólne
 
 **Art. 19.** W sprawach o przestępstwa, o których mowa w art. 1 pkt 2, postępowanie przed Komisją prowadzone jest na podstawie:
+
+- **1)** zgłoszenia o podejrzeniu popełnienia przestępstwa;
+- **2)** zgłoszenia podejrzenia popełnienia przestępstwa niezawiadomienia;
+- **3)** zgłoszenia monitorowania przez Komisję postępowań, o których mowa w art. 24–25a;
+- **4)** prawomocnego orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania karnego ze względu na przedawnienie karalności przestępstwa.
 
 **Art. 19a.**
 
@@ -643,6 +656,12 @@ Art. 45–47. (pominięte)
 
 **Art. 40.** W sprawach nieuregulowanych w ustawie do:
 
+- **1)** organizacji i przebiegu posiedzenia w postępowaniu wyjaśniającym stosuje się odpowiednio przepisy art. 206, art. 206 , art. 210, art. 214 § 1, art. 215 i art. 219 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. );
+- **2)** osób wysłuchiwanych, biegłych, świadków, pełnomocników, postępowania dowodowego, terminów i doręczeń w postępowaniu wyjaśniającym stosuje się odpowiednio przepisy części pierwszej księgi I tytułu IV działu I i V, tytułu VI działu I, III i IV ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
+- **3)** postępowania odwoławczego stosuje się odpowiednio przepisy o ochronie dóbr osobistych i przepisy części pierwszej księgi I tytułu VI działu V rozdziału 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
+- **4)** zwrotu kosztów podróży, o których mowa w art. 38e ust. 2, oraz wynagrodzenia biegłego i zwrotu poniesionych przez niego wydatków niezbędnych do wydania opinii stosuje się odpowiednio przepisy tytułu III ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2023 r. poz. 1144, 1532 i
+- **1860)** .
+
 **Art. 41.**
 
 1. Kto zawiadamia Komisję o popełnieniu czynu zabronionego przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego poniżej lat 15 lub czynu określonego w art. 240 Kodeksu karnego, wiedząc, że czynu tego nie popełniono, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
@@ -686,7 +705,7 @@ Art. 45–47. (pominięte)
 
 **Art. 48.** Tworzy się Państwową Komisję do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15.
 
-**Art. 49.** Pierwsze posiedzenie Komisji zwołuje Marszałek w terminie 14 dni od dnia powołania jej członków.
+**Art. 49.** Pierwsze posiedzenie Komisji zwołuje Marszałek Sejmu w terminie 14 dni od dnia powołania jej członków.
 
 **Art. 50.** Tworzy się Urząd Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15.
 

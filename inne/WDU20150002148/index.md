@@ -8,10 +8,10 @@ pos: 2148
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Rozporządzenie Ministra Rozwojuz dnia 14 grudnia 2015 r. w sprawie wzoru zgłoszenia podmiotu zamierzającego pełnić funkcję jednostki oceniającej personel oraz wzoru zgłoszenia podmiotu zamierzającego pełnić funkcję jednostki prowadzącej szkolenia
+# RZECZYPOSPOLITEJ ROZPORZĄDZENIE MINISTRA z dnia w sprawie wzoru zgłoszenia podmiotu zamierzającego oraz wzoru zgłoszenia podmiotu zamierzającego Na podstawie art. 28 ust. 1 ustawy z dnia 15 o niektórych fluorowanych gazach cieplarnianych (Dz.
 
 | Pole | Wartość |
 |---|---|
@@ -25,29 +25,13 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002148) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2148/text.pdf) |
 
-Treść rozporządzenia
-
-## Załącznik nr 1 — – Zgłoszenie podmiotu zamierzającego pełnić funkcję jednostki oceniającej personel (wzór)
-
-## Załącznik nr 2 — – Zgłoszenie podmiotu zamierzającego pełnić funkcję jednostki prowadzącej szkolenia (wzór)
-
-Treść rozporządzenia
-Na podstawie art. 28 ust. 1 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. poz. 881) zarządza się, co następuje:
-§ 1.
-Określa się wzór:
-1)
-zgłoszenia podmiotu zamierzającego pełnić funkcję jednostki oceniającej personel stanowiący załącznik nr 1 do rozporządzenia;
-2)
-zgłoszenia podmiotu zamierzającego pełnić funkcję jednostki prowadzącej szkolenia stanowiący załącznik nr 2 do rozporządzenia.
-§ 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).
-
-## Załącznik nr 1 — – Zgłoszenie podmiotu zamierzającego pełnić funkcję jednostki oceniającej personel (wzór)
-
-patrz oryginał
-
-## Załącznik nr 2 — – Zgłoszenie podmiotu zamierzającego pełnić funkcję jednostki prowadzącej szkolenia (wzór)
-
-patrz oryginał
+§ 1. Określa się wzór:
+1) zgłoszenia podmiotu zamierzającego pełnić funkcję rozporządzenia;
+2) zgłoszenia podmiotu zamierzającego pełnić funkcję rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie ZGŁOSZENIE PODMIOTU JEDNOSTKI OCENIAJĄCEJ Data i miejsce zgłoszenia Nazwa podmiotu Siedziba i adres, a w przypadku osoby fizycznej prowadzącej działalność gospodarczą – adres wykonywania tej działalności Numer identyfikacji podatkowej – jeżeli został nadany* Numer wpisu do Krajowego Rejestru Sądowego (KRS) – jeżeli podmiot podlega wpisowi do KRS Telefon kontaktowy, adres e-mail Zamierzam(y) pełnić funkcję jednostki oceniającej ........................................................................................................................................................................
+........................................................................................................................................................................
+........................................................................................................................................................................
+ZGŁOSZENIE PODMIOTU JEDNOSTKI PROWADZĄCEJ Data i miejsce zgłoszenia Nazwa podmiotu Siedziba i adres, a w przypadku osoby fizycznej prowadzącej działalność gospodarczą – adres wykonywania tej działalności Numer identyfikacji podatkowej – jeżeli został nadany* Numer wpisu do Krajowego Rejestru Sądowego (KRS) – jeżeli podmiot podlega wpisowi do KRS Telefon kontaktowy, adres e-mail Zamierzam(y) pełnić funkcje jednostki prowadzącej ........................................................................................................................................................................
+........................................................................................................................................................................
+........................................................................................................................................................................
 

@@ -8,7 +8,7 @@ pos: 254
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wycofaniu zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r.
@@ -28,6 +28,11 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040290254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/254/text.pdf) |
 
 **Art. 1.** Wyraża się zgodę na wycofanie przez Prezydenta Rzeczypospolitej Polskiej zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r. (Dz.U. z 1956 r. Nr 38, poz. 171):
+
+- **1)** zastrzeżenia do art. 10 Konwencji Genewskiej o polepszeniu losu rannych i chorych w armiach czynnych;
+- **2)** zastrzeżenia do art. 10 Konwencji Genewskiej o polepszeniu losu rannych, chorych i rozbitków sił zbrojnych na morzu;
+- **3)** zastrzeżeń do art. 10, 12 i 85 Konwencji Genewskiej o traktowaniu jeńców wojennych;
+- **4)** zastrzeżeń do art. 11 i 45 Konwencji Genewskiej o ochronie osób cywilnych podczas wojny.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

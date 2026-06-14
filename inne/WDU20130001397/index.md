@@ -8,10 +8,10 @@ pos: 1397
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 listopada 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1397 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 21 listopada 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001397) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1397/text.pdf) |
 
-Poz. 1397 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 21 listopada 2013 r.
-w sprawie prowadzenia zbioru dokumentów dla nieruchomości, które nie mają założonych ksiąg wieczystych albo których księgi wieczyste zaginęły lub uległy zniszczeniu, oraz postępowania w tych sprawach Na podstawie art. 125 ust. 1 pkt 2 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. z 2013 r.
-707, z późn. zm. ) zarządza się, co następuje: § 1. Zbiory dokumentów urządzone dla nieruchomości, które nie mają założonych ksiąg wieczystych albo których księgi wieczyste zaginęły lub uległy zniszczeniu, prowadzi się nadal.
+w sprawie prowadzenia zbioru dokumentów dla nieruchomości, które nie mają założonych ksiąg wieczystych albo których księgi wieczyste zaginęły lub uległy zniszczeniu, oraz postępowania w tych sprawach Na podstawie art. 125 ust. 1 pkt 2 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r.
+poz. 707, z późn. zm. ) zarządza się, co następuje:
+§ 1. Zbiory dokumentów urządzone dla nieruchomości, które nie mają założonych ksiąg wieczystych albo których księgi wieczyste zaginęły lub uległy zniszczeniu, prowadzi się nadal.
 § 2. Zbiory dokumentów mają sztywne okładki, na których zamieszcza się nazwę sądu, nazwę gminy lub miasta i numer repertorium zbioru dokumentów (repertorium Zd). Okładki zaopatruje się w przyczepki z mocnego papieru, wystające na dole, z uwidocznionym na nich oznaczeniem zbioru, w kolorze odróżniającym je od akt księgi wieczystej.
 § 3. Prowadzenie zbioru dokumentów polega na rejestrowaniu wniosków o złożenie dokumentów do zbioru, dołączaniu do zbioru wniosków, dokumentów, o których mowa w art. 123 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, oraz innych pism dotyczących zbioru, wydawaniu orzeczeń w przedmiocie złożenia dokumentów do zbioru, wydawaniu odpisów dokumentów złożonych do zbioru oraz zaświadczeń na podstawie zbioru, a także udostępnianiu zbioru, zamykaniu zbioru, przechowywaniu zbioru.
 § 4. 1. W postanowieniu zarządzającym ujawnienie ograniczonego prawa rzeczowego lub ograniczenia w rozporządzaniu nieruchomością przez złożenie dokumentów do zbioru dokumentów wymienia się tylko dokumenty będące podstawą ujawnienia prawa lub ograniczenia oraz wniosek.

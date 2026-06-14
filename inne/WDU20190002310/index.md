@@ -8,10 +8,10 @@ pos: 2310
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 listopada 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2310 OBWIESZCZENIE MINISTRA INFRASTRUKTURY ORAZ MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 31 października 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,24 +25,24 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-02-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002310) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2310/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY ORAZ MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 31 października 2019 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji w sprawie znaków i sygnałów drogowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. z 2019 r. poz. 454), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 12 lipca 2019 r. zmieniającym rozporządzenie w sprawie znaków i sygnałów drogowych (Dz. U. poz. 1415).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 12 lipca 2019 r. zmieniającego rozporządzenie w sprawie znaków i sygnałów drogowych (Dz. U. poz. 1415), które stanowią: „§ 2. Znak D-51 „automatyczna kontrola prędkości” z tabliczką z napisem „Kontrola średniej prędkości na odcinku…” stosowany na podstawie dotychczasowych przepisów obowiązuje do czasu zastąpienia znakami D-51a „automatyczna kontrola średniej prędkości” i D-51b „koniec automatycznej kontroli średniej prędkości”, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Infrastruktury: wz. R. Weber Minister Spraw Wewnętrznych i Administracji: wz. S. Tułajew ROZPORZĄDZENIE MINISTRÓW INFRASTRUKTURY ORAZ SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 31 lipca 2002 r.
-w sprawie znaków i sygnałów drogowych Na podstawie art. 7 ust. 2 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm. ) zarządza się, co następuje:
+w sprawie znaków i sygnałów drogowych Na podstawie art. 7 ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania.
 2. Ilekroć w rozporządzeniu jest mowa o:
-1) drodze z pierwszeństwem rozumie się przez to drogę oznakowaną jako droga z pierwszeństwem, na której kierujący zbliżający się do skrzyżowania ma pierwszeństwo w stosunku do kierujących zbliżających się do skrzyżowania drogą oznakowaną jako podporządkowana;
-2) drodze podporządkowanej rozumie się przez to drogę oznakowaną jako droga podporządkowana, na której kierujący zbliżający się do skrzyżowania jest obowiązany ustąpić pierwszeństwa kierującym zbliżającym się do skrzyżowania drogą oznakowaną jako droga z pierwszeństwem;
-3) ustawie rozumie się przez to ustawę z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+1) drodze z pierwszeństwem – rozumie się przez to drogę oznakowaną jako droga z pierwszeństwem, na której kierujący zbliżający się do skrzyżowania ma pierwszeństwo w stosunku do kierujących zbliżających się do skrzyżowania drogą oznakowaną jako podporządkowana;
+2) drodze podporządkowanej – rozumie się przez to drogę oznakowaną jako droga podporządkowana, na której kierujący zbliżający się do skrzyżowania jest obowiązany ustąpić pierwszeństwa kierującym zbliżającym się do skrzyżowania drogą oznakowaną jako droga z pierwszeństwem;
+3) ustawie – rozumie się przez to ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 3. Na drogach stosuje się następujące znaki i sygnały drogowe:
 1) znaki pionowe w postaci tarcz, tablic z napisami lub symbolami, które występują również w postaci znaków świetlnych;
 2) znaki poziome w postaci linii, napisów i symboli umieszczonych na nawierzchni drogi;
 3) sygnały świetlne nadawane przez sygnalizatory;
 4) sygnały dawane przez osoby do tego uprawnione;
 5) sygnały dźwiękowe lub wibracyjne wysyłane przez urządzenia umieszczone na drodze.
-4. Oprócz znaków, o których mowa w ust. 3 pkt 1, stosuje się znaki związane z oznaczeniem pasa drogowego i obiektów drogowych oraz oznaczenia w postaci urządzeń bezpieczeństwa ruchu drogowego, w szczególności w związku z zamknięciem drogi lub jej części dla ruchu, z prowadzeniem na odcinku drogi publicznej badań, o których mowa w art. 140c ust. 2 pkt 3 ustawy, dotyczących znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego, a w razie potrzeby znaki z napisami wskazującymi sposób korzystania z drogi, jeżeli nie może on być wyrażony znakami określonymi w załączniku do niniejszego rozporządzenia.
+4. Oprócz znaków, o których mowa w ust. 3 pkt 1, stosuje się znaki związane z oznaczeniem pasa drogowego i obiektów drogowych oraz oznaczenia w postaci urządzeń bezpieczeństwa ruchu drogowego, w szczególności w związku z zamknięciem drogi lub jej części dla ruchu, z prowadzeniem na odcinku drogi publicznej badań, o których mowa w art. 140c ust. 2 pkt 3 ustawy, dotyczących znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego, a w razie potrzeby – znaki z napisami wskazującymi sposób korzystania z drogi, jeżeli nie może on być wyrażony znakami określonymi w załączniku do niniejszego rozporządzenia.
 § 2. 1. Znak drogowy pionowy umieszczony po prawej stronie jezdni lub nad jezdnią dotyczy kierujących znajdujących się na wszystkich pasach ruchu; jeżeli jednak znaki są umieszczone nad poszczególnymi pasami ruchu, to znak dotyczy tylko kierujących znajdujących się na pasie, nad którym znak jest umieszczony. Znak drogowy umieszczony po lewej stronie jezdni lub pasów ruchu stanowi powtórzenie znaku umieszczonego po prawej stronie, chyba że przepisy szczególne stanowią inaczej.
 2. Kierujący jest obowiązany stosować się do znaku drogowego pionowego umieszczonego na wysyłającym żółte sygnały błyskowe pojeździe, który wykonuje na drodze prace porządkowe, remontowe lub modernizacyjne.
 3. Znaki drogowe wyrażające zakazy lub nakazy odnoszące się do kierunku jazdy oraz znaki zakazu wjazdu pojazdów o określonych wymiarach, masie lub naciskach osi nie dotyczą kierującego pojazdem szynowym, poruszającego się po wyznaczonej dla niego trasie.
@@ -57,6 +57,7 @@ w sprawie znaków i sygnałów drogowych Na podstawie art. 7 ust. 2 ustawy z dni
 8. Wzory znaków drogowych, sygnałów drogowych, wzory tabliczek oraz ich spis określa, z zastrzeżeniem ust. 8a i 9, załącznik do rozporządzenia.
 8a. Na tabliczkach innych niż określone wzorem stosuje się symbole określające pojazd albo uczestnika ruchu zgodnie ze wzorami znaków i tabliczek określonych w załączniku do rozporządzenia.
 9. Znaki i sygnały dotyczące organizacji ruchu oraz znaki określające prędkość, wymiary, masę i naciski osi pojazdu podane są przykładowo. Dotyczy to również tabliczek przedstawiających pojazdy, układ dróg na skrzyżowaniu i sytuacje na drodze.
+§ 3. 1. Znaki ostrzegawcze uprzedzają o miejscach na drodze, w których występuje lub może występować niebezpieczeństwo, oraz zobowiązują uczestników ruchu do zachowania szczególnej ostrożności.
 2. Odległość znaku ostrzegawczego od miejsca niebezpiecznego wynosi od 150 m do 300 m na drogach, na których dopuszczalna prędkość pojazdów przekracza 60 km/h, a do 100 m na pozostałych drogach.
 3. Przepisu ust. 2 nie stosuje się do znaku A-7, który umieszcza się w odległości do 50 m od skrzyżowania na drogach, na których dopuszczalna prędkość pojazdów przekracza 60 km/h, oraz do 25 m od skrzyżowania na pozostałych drogach, z zastrzeżeniem § 5 ust. 5.
 4. Umieszczona pod znakiem ostrzegawczym tabliczka T-1 wskazuje odległość znaku od miejsca niebezpiecznego.
@@ -65,8 +66,8 @@ w sprawie znaków i sygnałów drogowych Na podstawie art. 7 ust. 2 ustawy z dni
 1) A-1 „niebezpieczny zakręt w prawo”,
 2) A-2 „niebezpieczny zakręt w lewo” ostrzegają o niebezpiecznym zakręcie w kierunku wskazanym na znaku.
 2. Znaki:
-1) A-3 „niebezpieczne zakręty pierwszy w prawo”,
-2) A-4 „niebezpieczne zakręty pierwszy w lewo” ostrzegają o niebezpiecznych zakrętach, z których pierwszy jest w kierunku wskazanym na znaku.
+1) A-3 „niebezpieczne zakręty – pierwszy w prawo”,
+2) A-4 „niebezpieczne zakręty – pierwszy w lewo” ostrzegają o niebezpiecznych zakrętach, z których pierwszy jest w kierunku wskazanym na znaku.
 3. Umieszczona pod znakiem A-3 lub A-4 tabliczka T-4 wskazuje liczbę zakrętów większą niż dwa, natomiast tabliczka T-5 wskazuje początek drogi krętej.
 § 5. 1. Znak A-5 „skrzyżowanie dróg” ostrzega o skrzyżowaniu dróg, na którym pierwszeństwo nie jest określone znakami.
 2. Znaki:
@@ -87,9 +88,9 @@ w sprawie znaków i sygnałów drogowych Na podstawie art. 7 ust. 2 ustawy z dni
 § 7. 1. Znak A-11 „nierówna droga” ostrzega o poprzecznej nierówności jezdni.
 2. Znak A-11a „próg zwalniający” ostrzega o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu pojazdów.
 3. Znaki:
-1) A-12a „zwężenie jezdni dwustronne”,
-2) A-12b „zwężenie jezdni prawostronne”,
-3) A-12c „zwężenie jezdni lewostronne” ostrzegają o zwężeniu jezdni po stronie wskazanej na znaku, które może powodować utrudnienia ruchu.
+1) A-12a „zwężenie jezdni – dwustronne”,
+2) A-12b „zwężenie jezdni – prawostronne”,
+3) A-12c „zwężenie jezdni – lewostronne” ostrzegają o zwężeniu jezdni po stronie wskazanej na znaku, które może powodować utrudnienia ruchu.
 4. Znak A-13 „ruchomy most” ostrzega o wjeździe na most zwodzony lub obrotowy.
 5. Znak A-14 „roboty na drodze” ostrzega o prowadzonych na drodze robotach; umieszczona pod znakiem tabliczka T-19 wskazuje na malowanie znaków poziomych.
 6. Znak A-15 „śliska jezdnia” ostrzega o możliwości poślizgu pojazdu spowodowanego w szczególności zmianą nawierzchni jezdni, stałym lub okresowym jej zawilgoceniem.
@@ -111,30 +112,31 @@ w sprawie znaków i sygnałów drogowych Na podstawie art. 7 ust. 2 ustawy z dni
 11. Znak A-29 „sygnały świetlne” ostrzega o miejscu, w którym ruch jest kierowany za pomocą sygnalizacji świetlnej.
 § 11. 1. Znak A-30 „inne niebezpieczeństwo” ostrzega o niebezpieczeństwie innego rodzaju niż określone pozostałymi znakami ostrzegawczymi. Umieszczona pod znakiem A-30 tabliczka wskazuje rodzaj niebezpieczeństwa za pomocą symbolu lub napisu.
 2. Umieszczona pod znakiem A-30 tabliczka wskazuje:
-1) T-8 miejsce, w którym ruch pojazdów został skierowany na tory tramwajowe;
-2) T-10 przecięcie drogi z bocznicą kolejową lub torem o podobnym charakterze; w miejscu tak oznakowanym ruch na drodze jest wstrzymywany przez pracownika kolei podczas przejeżdżania (przetaczania) pociągu;
-3) T-11 przeprawę promową;
-4) T-12 podłużny uskok nawierzchni;
-5) T-13 odcinek drogi, na którym występują deformacje nawierzchni w postaci kolein;
-6) T-14 miejsce częstych wypadków o charakterze wskazanym na tabliczce;
-7) T-15 miejsce częstych wypadków spowodowanych śliską nawierzchnią jezdni ze względu na opady deszczu;
-8) T-16 miejsce wyjazdu pojazdów uprzywilejowanych wskazanych na tabliczce;
-9) T-17 granicę państwa;
-10) T-18 nieoczekiwaną zmianę kierunku ruchu o przebiegu wskazanym na tabliczce.
+1) T-8 – miejsce, w którym ruch pojazdów został skierowany na tory tramwajowe;
+2) T-10 – przecięcie drogi z bocznicą kolejową lub torem o podobnym charakterze; w miejscu tak oznakowanym ruch na drodze jest wstrzymywany przez pracownika kolei podczas przejeżdżania (przetaczania) pociągu;
+3) T-11 – przeprawę promową;
+4) T-12 – podłużny uskok nawierzchni;
+5) T-13 – odcinek drogi, na którym występują deformacje nawierzchni w postaci kolein;
+6) T-14 – miejsce częstych wypadków o charakterze wskazanym na tabliczce;
+7) T-15 – miejsce częstych wypadków spowodowanych śliską nawierzchnią jezdni ze względu na opady deszczu;
+8) T-16 – miejsce wyjazdu pojazdów uprzywilejowanych wskazanych na tabliczce;
+9) T-17 – granicę państwa;
+10) T-18 – nieoczekiwaną zmianę kierunku ruchu o przebiegu wskazanym na tabliczce.
 3. Tabliczka T-16 może być powtórzona bez znaku A-30 bezpośrednio przed miejscem wjazdu na drogę pojazdów uprzywilejowanych.
 § 12. 1. Znak A-31 „niebezpieczne pobocze” ostrzega o niebezpiecznym poboczu (miękkim lub obniżonym); znak z odwróconym symbolem ostrzega o niebezpiecznym poboczu występującym po lewej stronie drogi.
 2. Znak A-32 „oszronienie jezdni” ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi.
 § 13. 1. Znak A-33 „zator drogowy” ostrzega o częstym występowaniu zablokowania ruchu pojazdów.
 2. Znak A-34 „wypadek drogowy” ostrzega o miejscu, w którym na skutek wypadku drogowego nastąpiło zablokowanie drogi lub znaczne utrudnienie ruchu pojazdów.
 § 14. Znaki ostrzegawcze w postaci znaków świetlnych, na których symbole barwy białej znajdują się na czarnym tle, mają takie samo znaczenie, jak znaki w postaci tarcz z czarnymi symbolami. Przepis ten stosuje się odpowiednio do symboli i napisów na tabliczkach pod znakami.
-Znaki zakazu § 15. 1. Znaki zakazu obowiązują na drodze, na której są umieszczone, chyba że przepisy szczególne stanowią inaczej.
+Znaki zakazu
+§ 15. 1. Znaki zakazu obowiązują na drodze, na której są umieszczone, chyba że przepisy szczególne stanowią inaczej.
 2. Zakaz wyrażony znakiem zakazu obowiązuje od miejsca jego ustawienia, chyba że przepisy szczególne stanowią inaczej.
 3. Znak zakazu umieszczony pod znakiem E-17a oznacza, że zakaz obowiązuje na obszarze całej miejscowości, z wyjątkiem odcinka drogi, na którym został on zmieniony lub odwołany innym znakiem.
 4. Znak zakazu umieszczony pod znakiem D-42 oznacza, że zakaz obowiązuje do znaku D-43 lub E-18a, z wyjątkiem odcinka drogi, na którym został on zmieniony lub odwołany innym znakiem.
 4a. Znak zakazu umieszczony pod znakiem D-52 „strefa ruchu” oznacza, że zakaz obowiązuje do znaku D-53 „koniec strefy ruchu”, z wyjątkiem odcinka drogi, na którym został on zmieniony lub odwołany innym znakiem.
 5. Umieszczona pod znakiem zakazu tabliczka wskazuje:
-1) T-20 długość odcinka jezdni, na którym zakaz obowiązuje;
-2) T-21 odległość znaku od miejsca, od którego lub w którym zakaz obowiązuje.
+1) T-20 – długość odcinka jezdni, na którym zakaz obowiązuje;
+2) T-21 – odległość znaku od miejsca, od którego lub w którym zakaz obowiązuje.
 6. Umieszczony na znaku zakazu albo tabliczce napis określający dni lub okres doby oznacza, że zakaz obowiązuje w tym czasie.
 7. Umieszczone na jednej tarczy dwa lub trzy symbole znaków określonych w § 18 i 19 mają takie samo znaczenie jak znaki pojedyncze.
 § 16. 1. Znak B-1 „zakaz ruchu w obu kierunkach” oznacza zakaz ruchu na drodze pojazdów, kolumn pieszych oraz jeźdźców i poganiaczy; znak może być ustawiony na jezdni.
@@ -154,24 +156,25 @@ zakaz dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy.
 5. Określona na znaku B-5 albo na tabliczce umieszczonej pod nim masa oznacza, że zakaz dotyczy pojazdu (zespołu pojazdów), którego dopuszczalna masa całkowita przekracza masę podaną na znaku albo na tabliczce.
 6. Znak B-6 „zakaz wjazdu ciągników rolniczych” oznacza zakaz ruchu ciągników rolniczych i pojazdów wolnobieżnych.
 7. Znak B-7 „zakaz wjazdu pojazdów silnikowych z przyczepą” oznacza zakaz ruchu pojazdów silnikowych z przyczepą (przyczepami); zakaz nie dotyczy pojazdów z przyczepą jednoosiową lub naczepą.
-8. Określona na znaku B-7 lub na tabliczce umieszczonej pod nim masa dotyczy dopuszczalnej masy całkowitej przyczepy, a w razie ciągnięcia dwóch przyczep sumy ich mas.
+8. Określona na znaku B-7 lub na tabliczce umieszczonej pod nim masa dotyczy dopuszczalnej masy całkowitej przyczepy, a w razie ciągnięcia dwóch przyczep – sumy ich mas.
 9. Znak B-8 „zakaz wjazdu pojazdów zaprzęgowych” oznacza zakaz ruchu pojazdów zaprzęgowych oraz jeźdźców i poganiaczy.
 10. Znak B-9 „zakaz wjazdu rowerów” oznacza zakaz ruchu na jezdni i poboczu rowerów.
 11. Znak B-10 „zakaz wjazdu motorowerów” oznacza zakaz ruchu motorowerów.
 12. Znak B-11 „zakaz wjazdu wózków rowerowych” oznacza zakaz ruchu wózków rowerowych.
 13. Znak B-12 „zakaz wjazdu wózków ręcznych” oznacza zakaz ruchu na jezdni i poboczu wózków ręcznych przeznaczonych do używania na jezdni, prowadzonych, ciągniętych lub pchanych.
-§ 19. 1. Znak B-13 „zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi” oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne klas: 1, 3, 4.1, 4.2, 4.3, 5.1, 5.2 lub gazy palne klasy 2 w ilościach, dla których jest wymagane oznakowanie pojazdu tabli2. Znak B-13a „zakaz wjazdu pojazdów z towarami niebezpiecznymi” oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej. Umieszczona pod znakiem tabliczka T-31 z literą B, C, D lub E oznaczającą kategorię tunelu lub tabliczka z odpowiednim napisem wskazuje, że zakaz dotyczy tylko określonych klas lub grup towarów niebezpiecznych lub określonego sposobu przewozu tych towarów.
+§ 19. 1. Znak B-13 „zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi” oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne klas: 1, 3, 4.1, 4.2, 4.3, 5.1, 5.2 lub gazy palne klasy 2 w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej.
+2. Znak B-13a „zakaz wjazdu pojazdów z towarami niebezpiecznymi” oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej. Umieszczona pod znakiem tabliczka T-31 z literą B, C, D lub E oznaczającą kategorię tunelu lub tabliczka z odpowiednim napisem wskazuje, że zakaz dotyczy tylko określonych klas lub grup towarów niebezpiecznych lub określonego sposobu przewozu tych towarów.
 3. Znak B-14 „zakaz wjazdu pojazdów z towarami, które mogą skazić wodę” oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne klas: 3, 4.3, 6.1, 6.2, 8, gazy trujące lub gazy żrące klasy 2, lub towary niebezpieczne zagrażające środowisku klasy 9 w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej.
 § 20. 1. Znak B-15 „zakaz wjazdu pojazdów o szerokości ponad ...... m” oznacza zakaz ruchu pojazdów, których szerokość (również z ładunkiem) jest większa od wartości podanej na znaku.
 2. Znak B-16 „zakaz wjazdu pojazdów o wysokości ponad ...... m” oznacza zakaz ruchu pojazdów, których wysokość (również z ładunkiem) jest większa od wartości podanej na znaku.
 3. Znak B-17 „zakaz wjazdu pojazdów o długości ponad ...... m” oznacza zakaz ruchu pojazdów lub zespołów pojazdów, których długość (również z ładunkiem) jest większa od wartości podanej na znaku.
 4. Znak B-18 „zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad ..... t” oznacza zakaz ruchu pojazdów, których rzeczywista masa całkowita jest większa od wartości podanej na znaku; w przypadku zespołu pojazdów zakaz dotyczy ich łącznej masy.
 5. Znak B-19 „zakaz wjazdu pojazdów o nacisku osi większym niż ..... t” oznacza zakaz ruchu pojazdów, których nacisk osi jest większy od nacisku odpowiadającego masie podanej na znaku; w przypadku osi wielokrotnej nacisk żadnej z osi składowych nie może odpowiadać masie większej niż 80% masy podanej na znaku.
-6. Jeżeli na znaku B-19 podano wartość 8 t lub 10 t, oznacza to dopuszczalny nacisk osi pojedynczej odpowiadający masie do 8 t lub 10 t, a osi wielokrotnej odpowiednio większej masie, zgodnie z przepisami określającymi warunki techniczne pojazdów poruszających się po drogach.
+6. Jeżeli na znaku B-19 podano wartość 8 t lub 10 t, oznacza to dopuszczalny nacisk osi pojedynczej odpowiadający masie do 8 t lub 10 t, a osi wielokrotnej – odpowiednio większej masie, zgodnie z przepisami określającymi warunki techniczne pojazdów poruszających się po drogach.
 § 21. 1. Znak B-20 „stop” oznacza:
 1) zakaz wjazdu na skrzyżowanie bez zatrzymania się przed drogą z pierwszeństwem;
 2) obowiązek ustąpienia pierwszeństwa kierującym poruszającym się tą drogą.
-2. Zatrzymanie powinno nastąpić w wyznaczonym w tym celu miejscu, a w razie jego braku w takim miejscu, w którym kierujący może upewnić się, że nie utrudni ruchu na drodze z pierwszeństwem.
+2. Zatrzymanie powinno nastąpić w wyznaczonym w tym celu miejscu, a w razie jego braku – w takim miejscu, w którym kierujący może upewnić się, że nie utrudni ruchu na drodze z pierwszeństwem.
 3. Znak B-20 umieszczony w obrębie skrzyżowania dotyczy tylko najbliższej jezdni, przed którą został ustawiony.
 4. Przepisy ust. 1–3 stosuje się odpowiednio do znaku B-20 umieszczonego przed torowiskiem pojazdów szynowych lub w innych miejscach przecinania się kierunków ruchu.
 5. Umieszczona pod znakiem B-20 tabliczka T-6c lub T-6d wskazuje rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie.
@@ -179,33 +182,34 @@ zakaz dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy.
 1) B-21 „zakaz skręcania w lewo”,
 2) B-22 „zakaz skręcania w prawo” zabraniają skręcania w kierunku wskazanym na znaku; ponadto znak B-21 zabrania zawracania.
 2. Zakazy wyrażone znakami B-21 i B-22 obowiązują na najbliższym skrzyżowaniu, z zastrzeżeniem ust. 3.
-3. Znaki B-21 i B-22 znajdujące się w obrębie skrzyżowania dotyczą tylko najbliższej jezdni, przed którą zostały
+3. Znaki B-21 i B-22 znajdujące się w obrębie skrzyżowania dotyczą tylko najbliższej jezdni, przed którą zostały umieszczone.
 4. Umieszczona pod znakiem B-21 lub B-22 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem określającym pojazd wskazuje, że zakaz nie dotyczy pojazdu określonego tabliczką.
 5. Znak B-23 „zakaz zawracania” zabrania kierującym zawracania do najbliższego skrzyżowania włącznie.
 6. Znak B-24 „koniec zakazu zawracania” oznacza odwołanie zakazu zawracania przed skrzyżowaniem.
 § 23. 1. Znak B-25 „zakaz wyprzedzania” zabrania kierującym pojazdami silnikowymi wyprzedzania pojazdów silnikowych wielośladowych.
 2. Umieszczona pod znakiem B-25 tabliczka:
-1) T-23a motocykl,
-2) T-23b samochód ciężarowy, pojazd specjalny, pojazd używany do celów specjalnych, o dopuszczalnej masie całkowitej przekraczającej 3,5 t oraz ciągnik samochodowy,
-3) T-23c ciągnik rolniczy i pojazd wolnobieżny,
-4) T-23d pojazd silnikowy z przyczepą, z wyjątkiem pojazdów z przyczepą jednoosiową lub naczepą,
-5) T-23e pojazd z przyczepą kempingową,
-6) T-23f autobus,
-7) T-23g trolejbus,
-8) T-23h pojazd przewożący towary niebezpieczne określone w § 19 ust. 2,
-9) T-23i pojazd przewożący towary wybuchowe lub łatwo zapalne określone w § 19 ust. 1,
-10) T-23j pojazd przewożący towary, które mogą skazić wodę, określone w § 19 ust. 3, wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce.
+1) T-23a – motocykl,
+2) T-23b – samochód ciężarowy, pojazd specjalny, pojazd używany do celów specjalnych, o dopuszczalnej masie całkowitej przekraczającej 3,5 t oraz ciągnik samochodowy,
+3) T-23c – ciągnik rolniczy i pojazd wolnobieżny,
+4) T-23d – pojazd silnikowy z przyczepą, z wyjątkiem pojazdów z przyczepą jednoosiową lub naczepą,
+5) T-23e – pojazd z przyczepą kempingową,
+6) T-23f – autobus,
+7) T-23g – trolejbus,
+8) T-23h – pojazd przewożący towary niebezpieczne określone w § 19 ust. 2,
+9) T-23i – pojazd przewożący towary wybuchowe lub łatwo zapalne określone w § 19 ust. 1,
+10) T-23j – pojazd przewożący towary, które mogą skazić wodę, określone w § 19 ust. 3, wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce.
 3. Znak B-26 „zakaz wyprzedzania przez samochody ciężarowe” zabrania wyprzedzania pojazdów silnikowych wielośladowych kierującemu:
 1) samochodem ciężarowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t;
 2) ciągnikiem samochodowym;
-3) pojazdem specjalnym lub używanym do celów specjalnych o dopuszczalnej masie całkowitej przekraczającej 3,5 t.
+3) pojazdem specjalnym lub używanym do celów specjalnych – o dopuszczalnej masie całkowitej przekraczającej 3,5 t.
 4. Znak B-27 „koniec zakazu wyprzedzania” oznacza koniec obowiązywania zakazu określonego znakiem B-25.
 5. Znak B-28 „koniec zakazu wyprzedzania przez samochody ciężarowe” oznacza koniec obowiązywania zakazu określonego znakiem B-26.
 § 24. 1. Znak B-29 „zakaz używania sygnałów dźwiękowych” zabrania używania tych sygnałów, chyba że jest to konieczne w celu ostrzeżenia o bezpośrednim zagrożeniu bezpieczeństwa ruchu.
 2. Znak B-30 „koniec zakazu używania sygnałów dźwiękowych” oznacza koniec obowiązywania zakazu określonego znakiem B-29.
 § 25. Znak B-31 „pierwszeństwo dla nadjeżdżających z przeciwka” zabrania kierującym wjazdu lub wejścia na zwężony odcinek jezdni, jeżeli zmusiłoby to kierujących znajdujących się na tym odcinku lub zbliżających się do niego z przeciwnej strony do zatrzymania się.
-§ 26. 1. Znak B-32 „stój kontrola celna” oznacza obowiązek zatrzymania się. Zamiast napisu „Cło-Zoll” na znaku mogą być umieszczone napisy „Kontrola graniczna”, „Rogatka uszkodzona”, „Sygnalizacja uszkodzona”, „Wjazd na prom”, „Kontrola drogowa” lub „Pobór opłat” odpowiednio do przyczyny zatrzymania.
-2. Zatrzymanie powinno nastąpić w miejscu wyznaczonym w tym celu, a jeżeli nie jest ono wyznaczone przed zna§ 27. 1. Znak B-33 „ograniczenie prędkości” oznacza zakaz przekraczania prędkości określonej na znaku liczbą kilometrów na godzinę. Dopuszczalna prędkość określona na znaku obowiązuje, z zastrzeżeniem ust. 4 i § 32, do miejsca:
+§ 26. 1. Znak B-32 „stój – kontrola celna” oznacza obowiązek zatrzymania się. Zamiast napisu „Cło-Zoll” na znaku mogą być umieszczone napisy „Kontrola graniczna”, „Rogatka uszkodzona”, „Sygnalizacja uszkodzona”, „Wjazd na prom”, „Kontrola drogowa” lub „Pobór opłat” – odpowiednio do przyczyny zatrzymania.
+2. Zatrzymanie powinno nastąpić w miejscu wyznaczonym w tym celu, a jeżeli nie jest ono wyznaczone – przed znakiem. Dalszy ruch może nastąpić za zgodą uprawnionej osoby lub po nadaniu sygnału zezwalającego na ruch.
+§ 27. 1. Znak B-33 „ograniczenie prędkości” oznacza zakaz przekraczania prędkości określonej na znaku liczbą kilometrów na godzinę. Dopuszczalna prędkość określona na znaku obowiązuje, z zastrzeżeniem ust. 4 i § 32, do miejsca:
 1) wprowadzenia innej dopuszczalnej prędkości znakiem B-33 lub B-43;
 2) umieszczenia znaku D-40 oznaczającego początek strefy zamieszkania;
 3) umieszczenia znaków oznaczających odpowiednio początek lub koniec obszaru zabudowanego, o których mowa w § 58 ust. 3 i w § 114 ust. 1 pkt 1 i 2.
@@ -229,8 +233,9 @@ zakaz dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy.
 1) B-37 „zakaz postoju w dni nieparzyste”,
 2) B-38 „zakaz postoju w dni parzyste” oznaczają zakaz postoju pojazdów odpowiednio w nieparzyste lub parzyste dni miesiąca; zakaz nie obowiązuje od godziny 21 do 24; przepisy ust. 1 i 3–5 stosuje się odpowiednio do tych znaków.
 7. Umieszczone pod znakiem B-35, B-36, B-37 lub B-38 tabliczki wskazują:
-1) T-25a początek zakazu wyrażonego znakiem;
-2) T-25b kontynuację zakazu wyrażonego znakiem;
+1) T-25a – początek zakazu wyrażonego znakiem;
+2) T-25b – kontynuację zakazu wyrażonego znakiem;
+3) T-25c – odwołanie zakazu wyrażonego znakiem.
 8. Znak B-35, B-36, B-37 lub B-38 wraz z tabliczką T-26, umieszczony na placu równolegle do krawędzi jezdni, oznacza, że zakaz wyrażony tym znakiem dotyczy strony placu, przy której został ustawiony.
 § 29. 1. Znak B-39 „strefa ograniczonego postoju” oznacza wjazd do strefy, w której obowiązuje zakaz postoju pojazdów na wszystkich drogach; dopuszczalny czas unieruchomienia pojazdu dłuższy niż jedna minuta jest wskazany napisem na znaku.
 2. Znak B-39 nie dotyczy:
@@ -249,11 +254,13 @@ zakaz dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy.
 2. Osoby, o których mowa w art. 8 ust. 1 i 2 ustawy, mogą pod warunkiem zachowania szczególnej ostrożności nie stosować się do zakazów wyrażonych znakami: B-1, B-3, B-3a, B-4, B-10, B-35, B-37, B-38 i B-39, z uwzględnieniem ust. 3.
 3. Umieszczona pod znakami, o których mowa w ust. 2, tabliczka z napisem „Dotyczy także” i symbolem osoby niepełnosprawnej, określonym na tabliczce T-29, wskazuje, że znaki te obowiązują również osoby, o których mowa w art. 8 ust. 1 i 2 ustawy.
 § 34. Przepis § 14 stosuje się odpowiednio do znaków zakazu.
-Znaki nakazu § 35. 1. Znaki:
+Znaki nakazu
+§ 35. 1. Znaki:
 1) C-1 „nakaz jazdy w prawo przed znakiem”,
 2) C-2 „nakaz jazdy w prawo za znakiem”,
 3) C-3 „nakaz jazdy w lewo przed znakiem”,
 4) C-4 „nakaz jazdy w lewo za znakiem”,
+5) C-5 „nakaz jazdy prosto”,
 6) C-6 „nakaz jazdy prosto lub w prawo”,
 7) C-7 „nakaz jazdy prosto lub w lewo”,
 8) C-8 „nakaz jazdy w prawo lub w lewo”,
@@ -276,10 +283,12 @@ Znaki nakazu § 35. 1. Znaki:
 2. Znak C-16a „koniec drogi dla pieszych” oznacza koniec drogi przeznaczonej dla pieszych.
 § 40. 1. Umieszczone na jednej tarczy symbole znaków C-13 i C-16 oddzielone kreską poziomą oznaczają, że droga jest przeznaczona dla pieszych i kierujących rowerami. Kierujący rowerami są obowiązani do korzystania z tak oznakowanej drogi, jeżeli jest ona wyznaczona dla kierunku, w którym oni poruszają się lub zamierzają skręcić. Ruch pieszych i rowerów odbywa się na całej powierzchni tak oznaczonej drogi.
 2. Umieszczone na jednej tarczy symbole znaków C-13 i C-16 oddzielone kreską pionową oznaczają drogę dla rowerów i drogę dla pieszych położone obok siebie, odpowiednio po stronach wskazanych na znaku. Kierujący rowerami są obowiązani do korzystania z tak oznakowanej drogi, jeżeli jest ona wyznaczona dla kierunku, w którym oni poruszają się lub zamierzają skręcić.
-3. Przepisy ust. 1 i 2, § 37 ust. 2 i 3 oraz § 39 ust. 1a i 2 stosuje się odpowiednio dla oznaczania końca drogi dla pieszych i kierujących rowerami oraz końca drogi dla rowerów i drogi dla pieszych położonych obok siebie, przy czym znak § 41. Znak C-17 „nakazany kierunek jazdy dla pojazdów z towarami niebezpiecznymi” oznacza obowiązujący, wskazany znakami C-2, C-4, C-5, C-6, C-7 lub C-8, kierunek jazdy na skrzyżowaniu pojazdów przewożących towary niebezpieczne określone w § 19 ust. 2. Umieszczona pod znakiem tabliczka T-31 lub tabliczka z odpowiednim napisem wskazuje, że nakazany kierunek jazdy dotyczy pojazdów przewożących tylko określone klasy lub grupy towarów niebezpiecznych lub określonego sposobu przewozu tych towarów.
+3. Przepisy ust. 1 i 2, § 37 ust. 2 i 3 oraz § 39 ust. 1a i 2 stosuje się odpowiednio dla oznaczania końca drogi dla pieszych i kierujących rowerami oraz końca drogi dla rowerów i drogi dla pieszych położonych obok siebie, przy czym znak C-13/C-16 jest odwoływany również znakami C-13 albo C-16.
+§ 41. Znak C-17 „nakazany kierunek jazdy dla pojazdów z towarami niebezpiecznymi” oznacza obowiązujący, wskazany znakami C-2, C-4, C-5, C-6, C-7 lub C-8, kierunek jazdy na skrzyżowaniu pojazdów przewożących towary niebezpieczne określone w § 19 ust. 2. Umieszczona pod znakiem tabliczka T-31 lub tabliczka z odpowiednim napisem wskazuje, że nakazany kierunek jazdy dotyczy pojazdów przewożących tylko określone klasy lub grupy towarów niebezpiecznych lub określonego sposobu przewozu tych towarów.
 § 42. 1. Znak C-18 „nakaz używania łańcuchów przeciwpoślizgowych” oznacza, że na drodze, na której znak został umieszczony, kierujący pojazdem silnikowym jest obowiązany stosować łańcuchy przeciwpoślizgowe na co najmniej dwóch kołach napędowych; umieszczona pod znakiem tabliczka, o której mowa w § 23 ust. 2, oznacza, że znak dotyczy pojazdów określonych na tabliczce.
 2. Znak C-19 „koniec nakazu używania łańcuchów przeciwpoślizgowych” oznacza miejsce, w którym nakaz określony znakiem C-18 przestaje obowiązywać.
-Znaki informacyjne § 43. 1. Znak D-1 „droga z pierwszeństwem” oznacza początek lub kontynuację drogi z pierwszeństwem.
+Znaki informacyjne
+§ 43. 1. Znak D-1 „droga z pierwszeństwem” oznacza początek lub kontynuację drogi z pierwszeństwem.
 2. Umieszczona pod znakiem D-1 tabliczka T-6a albo T-6b wskazuje odpowiednio rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie lub układ dróg podporządkowanych.
 3. Znak D-2 „koniec drogi z pierwszeństwem” oznacza koniec drogi z pierwszeństwem.
 § 44. 1. Znak D-3 „droga jednokierunkowa” oznacza początek lub kontynuację drogi lub jezdni, na której ruch odbywa się w jednym kierunku.
@@ -294,7 +303,7 @@ Znaki informacyjne § 43. 1. Znak D-1 „droga z pierwszeństwem” oznacza pocz
 3. Znak D-6b „przejście dla pieszych i przejazd dla rowerzystów” oznacza występujące obok siebie miejsca, o których mowa w ust. 1 i 2.
 4. Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem D-6, D-6a albo D-6b jest obowiązany zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszych lub rowerzystów znajdujących się w tych miejscach lub na nie wchodzących lub wjeżdżających.
 5. Umieszczona pod znakiem D-6 lub D-6b tabliczka T-27 wskazuje, że przejście dla pieszych jest szczególnie uczęszczane przez dzieci.
-§ 48. 1. Znak D-7 „droga ekspresowa” oznacza początek lub kontynuację drogi ekspresowej; koniec drogi ekspresowej
+§ 48. 1. Znak D-7 „droga ekspresowa” oznacza początek lub kontynuację drogi ekspresowej; koniec drogi ekspresowej oznaczony jest znakiem D-8 „koniec drogi ekspresowej”.
 2. Znak D-9 „autostrada” oznacza początek lub kontynuację autostrady; koniec autostrady oznaczony jest znakiem D-10 „koniec autostrady”.
 3. Umieszczona pod znakiem D-7 lub D-9 tabliczka T-28 wskazuje, że za przejazd drogą ekspresową lub autostradą jest pobierana opłata.
 § 49. 1. Znaki:
@@ -314,9 +323,10 @@ Znaki informacyjne § 43. 1. Znak D-1 „droga z pierwszeństwem” oznacza pocz
 1a. Umieszczony na znaku D-18 symbol pojazdu oznacza, że parking jest przeznaczony na postój pojazdu, którego symbol znajduje się na znaku.
 2. Umieszczona pod znakiem D-18 tabliczka T-30 wskazuje sposób ustawienia pojazdu względem krawędzi jezdni oznaczonej na tabliczce barwą szarą oraz że miejsce jest przeznaczone dla pojazdów samochodowych o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t.
 3. Umieszczona pod znakiem D-18 tabliczka T-3a wskazuje koniec miejsca przeznaczonego na postój.
-4. Znak D-18a „parking miejsce zastrzeżone” oznacza miejsce przeznaczone na postój pojazdu uprawnionej osoby.
+4. Znak D-18a „parking – miejsce zastrzeżone” oznacza miejsce przeznaczone na postój pojazdu uprawnionej osoby.
 5. Znak D-18b „parking zadaszony” oznacza miejsce przeznaczone na postój pojazdów znajdujące się w budynku lub pod wiatą.
-6. Umieszczona pod znakiem D-18, D-18a lub D-18b tabliczka T-29 informuje o miejscu przeznaczonym dla pojazdu § 53. 1. Znak D-19 „postój taksówek” oznacza miejsce przeznaczone na postój taksówek, z wyjątkiem taksówek zajętych.
+6. Umieszczona pod znakiem D-18, D-18a lub D-18b tabliczka T-29 informuje o miejscu przeznaczonym dla pojazdu samochodowego osoby, o której mowa w art. 8 ust. 1 i 2 ustawy.
+§ 53. 1. Znak D-19 „postój taksówek” oznacza miejsce przeznaczone na postój taksówek, z wyjątkiem taksówek zajętych.
 2. Znak D-20 „koniec postoju taksówek” oznacza miejsce, w którym kończy się postój taksówek; jeżeli na postoju taksówek nie umieszczono znaku D-20, to kończy się on w odległości nie większej niż 20 m przed znakiem D-19.
 3. (uchylony).
 § 54. 1. Znaki:
@@ -346,10 +356,11 @@ Znaki informacyjne § 43. 1. Znak D-1 „droga z pierwszeństwem” oznacza pocz
 5. Znak D-34a „informacja radiowa o ruchu drogowym” informuje o stacjach radiowych podających informacje o warunkach ruchu drogowego.
 § 55. Znaki:
 1) D-35 „przejście podziemne dla pieszych”,
+2) D-35a „schody ruchome w dół”,
 3) D-36 „przejście nadziemne dla pieszych”,
 4) D-36a „schody ruchome w górę” informują o możliwości przechodzenia pieszych pod jezdnią lub nad jezdnią w sposób wskazany na znaku.
 § 56. 1. Znak D-37 „tunel” oznacza wjazd do tunelu. Wyjazd z tunelu jest oznaczony znakiem D-38 „koniec tunelu”.
-2. Umieszczona pod znakiem D-37 tabliczka T-1b wskazuje rzeczywistą długość tunelu w przypadku gdy długość tunelu przekracza 500 m. Rzeczywista długość tunelu może być także wskazana przez umieszczenie w dolnej części znaku napisu i symboli odpowiadających treści tabliczki T-1b.
+2. Umieszczona pod znakiem D-37 tabliczka T-1b wskazuje rzeczywistą długość tunelu – w przypadku gdy długość tunelu przekracza 500 m. Rzeczywista długość tunelu może być także wskazana przez umieszczenie w dolnej części znaku napisu i symboli odpowiadających treści tabliczki T-1b.
 3. W przypadku tuneli o długości przekraczającej 3000 m pozostała długość tunelu do przebycia jest wskazywana co 1000 m tabliczką T-1b.
 4. Umieszczona pod znakiem D-37 tabliczka T-32 wskazuje minimalny odstęp od poprzedzającego pojazdu.
 § 57. 1. Znak D-39 „dopuszczalne prędkości” informuje o dopuszczalnych prędkościach obowiązujących na terytorium Rzeczypospolitej Polskiej.
@@ -370,7 +381,8 @@ Znaki informacyjne § 43. 1. Znak D-1 „droga z pierwszeństwem” oznacza pocz
 § 60c. Znak D-52 „strefa ruchu” oznacza wjazd na drogę wewnętrzną położoną w strefie ruchu. Znak D-53 „koniec strefy ruchu” oznacza wyjazd ze strefy ruchu.
 § 60d. Znak D-54 „strefa czystego transportu” oznacza wjazd do strefy czystego transportu. Znak D-55 „koniec strefy czystego transportu” oznacza wyjazd ze strefy czystego transportu.
 § 61. Znaki określone w § 52–54, § 58 ust. 1 i 5 oraz § 60b mogą być umieszczone w innym miejscu niż po prawej stronie jezdni.
-Znaki kierunku i miejscowości § 62. 1. Znak E-1 „tablica przeddrogowskazowa” uprzedza o skrzyżowaniu.
+Znaki kierunku i miejscowości
+§ 62. 1. Znak E-1 „tablica przeddrogowskazowa” uprzedza o skrzyżowaniu.
 2. Znak E-1a „tablica przeddrogowskazowa na autostradzie” uprzedza o wyjeździe z autostrady.
 3. Znak E-1b „tablica przeddrogowskazowa przed wjazdem na autostradę” uprzedza o skrzyżowaniu z wjazdem na autostradę lub drogą prowadzącą do autostrady.
 4. Umieszczone na znakach, o których mowa w ust. 1–3, wzory innych znaków informują o występowaniu tych znaków na drogach, wskazanych na znaku.
@@ -390,7 +402,7 @@ Znaki kierunku i miejscowości § 62. 1. Znak E-1 „tablica przeddrogowskazowa�
 3) E-6b „drogowskaz do dworca autobusowego”,
 4) E-6c „drogowskaz do przystani promowej” wskazują kierunek do obiektu komunikacyjnego wskazanego na znaku; znak E-6c może oznaczać ponadto dworzec morski.
 3. Na drogowskazach według wzoru znaku E-6 mogą być podawane odpowiednim napisem lub symbolem kierunki do jednostek Policji, pogotowia ratunkowego, urzędów administracji publicznej, zarządów drogi oraz jednostek prowadzących odprawę celną.
-4. Umieszczone obok nazwy miejscowości znak z literami „PL” oraz znak wyróżniający państwo przyjęty do oznaczania pojazdów uczestniczących w ruchu międzynarodowym wskazują, że w miejscowości znajduje się przejście graniczne do tego państwa. Umieszczony obok nazwy miejscowości znak wyróżniający państwo przyjęty do oznaczania pojazdów
+4. Umieszczone obok nazwy miejscowości znak z literami „PL” oraz znak wyróżniający państwo przyjęty do oznaczania pojazdów uczestniczących w ruchu międzynarodowym wskazują, że w miejscowości znajduje się przejście graniczne do tego państwa. Umieszczony obok nazwy miejscowości znak wyróżniający państwo przyjęty do oznaczania pojazdów uczestniczących w ruchu międzynarodowym wskazuje, że miejscowość jest położona w tym państwie.
 5. Znaki:
 1) E-7 „drogowskaz do przystani wodnej lub żeglugi”,
 2) E-8 „drogowskaz do plaży lub miejsca kąpielowego”,
@@ -412,19 +424,21 @@ Znaki kierunku i miejscowości § 62. 1. Znak E-1 „tablica przeddrogowskazowa�
 8) E-15h „numer drogi wojewódzkiej o dopuszczalnym nacisku osi pojazdu do 11,5 t”,
 9) E-16 „numer szlaku międzynarodowego” wskazują numer i rodzaj (kategorię) drogi.
 2. Znaki wymienione w ust. 1 pkt 1–8 oznaczają także, że drogą mogą poruszać się pojazdy o nacisku osi pojedynczej nieprzekraczającym:
-1) 11,5 t w przypadku znaków: E-15a, E-15c, E-15d oraz E-15h,
-2) 10 t w przypadku znaków: E-15e oraz E-15f,
-3) 8 t w przypadku znaków: E-15b oraz E-15g i odpowiednio większym nacisku osi wielokrotnej, zgodnie z przepisami określającymi warunki techniczne pojazdów poruszających się po drogach.
+1) 11,5 t – w przypadku znaków: E-15a, E-15c, E-15d oraz E-15h,
+2) 10 t – w przypadku znaków: E-15e oraz E-15f,
+3) 8 t – w przypadku znaków: E-15b oraz E-15g i odpowiednio większym nacisku osi wielokrotnej, zgodnie z przepisami określającymi warunki techniczne pojazdów poruszających się po drogach.
 3. Umieszczona pod znakiem E-15a, E-15c, E-15d, E-15f albo E-15g tabliczka T-34 oznacza, że za przejazd odcinkiem drogi publicznej tak oznaczonym pobiera się opłatę elektroniczną.
 § 66. 1. Znak E-17a „miejscowość” oznacza wjazd do miejscowości.
 2. Znak E-18a „koniec miejscowości” oznacza wyjazd z miejscowości.
-4. Znak E-20 „tablica węzła drogowego na autostradzie” informuje o zbliżaniu się do wyjazdu z autostrady; liczby umieszczone na znaku wskazują: górna numer wyjazdu, dolna odległość tablicy od wyjazdu; zamiast liczby wskazującej numer wyjazdu na znaku może być podawana nazwa węzła.
+3. Znak E-19a „obwodnica” wskazuje na skrzyżowaniu kierunek do obwodnicy miasta.
+4. Znak E-20 „tablica węzła drogowego na autostradzie” informuje o zbliżaniu się do wyjazdu z autostrady; liczby umieszczone na znaku wskazują: górna – numer wyjazdu, dolna – odległość tablicy od wyjazdu; zamiast liczby wskazującej numer wyjazdu na znaku może być podawana nazwa węzła.
 5. Znak E-21 „dzielnica (osiedle) ” informuje o wjeździe do dzielnicy lub osiedla; znak z napisem „Centrum” informuje o wjeździe do centrum miasta.
 § 67. 1. Znak E-22a „samochodowy szlak turystyczny” wskazuje początek wyznaczonego samochodowego szlaku turystycznego; na znaku obok nazwy szlaku mogą być umieszczone symbol szlaku oraz symbol organizacji turystycznej wytyczającej szlak.
 2. Znak E-22b „obiekt na samochodowym szlaku turystycznym” wskazuje obiekt turystyczny na samochodowym szlaku turystycznym; na znaku umieszcza się symbol obiektu turystycznego lub wypoczynkowego.
 3. Znak E-22c „informacja o obiektach turystycznych” informuje o występujących obiektach turystycznych na terenie wskazanym na znaku.
 § 68. Znaki określone w § 63, § 64 ust. 1, § 66 ust. 2 i 3 oraz § 67 mogą być umieszczone w innym miejscu niż po prawej stronie jezdni.
-Znaki uzupełniające § 69. 1. Znak F-1 „przejście graniczne” informuje o czynnym przejściu granicznym.
+Znaki uzupełniające
+§ 69. 1. Znak F-1 „przejście graniczne” informuje o czynnym przejściu granicznym.
 2. Znak F-2 „przekraczanie granicy zabronione” informuje, że ruch przez granicę jest zamknięty.
 2a. Znak F-2a „granica państwa” informuje o miejscu przekroczenia granicy Rzeczypospolitej Polskiej.
 3. Znak F-3 „granica obszaru administracyjnego” z napisami „województwo”, „powiat” lub „gmina” i umieszczonymi nazwami informuje o wjeździe odpowiednio na obszar województwa, powiatu i gminy, powiatu i gminy albo gminy.
@@ -439,7 +453,8 @@ Znaki uzupełniające § 69. 1. Znak F-1 „przejście graniczne” informuje o 
 3. Umieszczona na znaku F-10 lub F-11 strzałka zezwalająca na skręcanie w lewo ze skrajnego lewego pasa ruchu oznacza także zezwolenie na zawracanie, chyba że jest to zabronione znakiem B-23 lub ruch jest kierowany sygnalizatorem S-3.
 § 73. Znaki:
 1) F-12 „znak wskazujący przejazd tranzytowy umieszczany przed skrzyżowaniem”,
-2) F-13 „przejazd tranzytowy” wskazują zgodnie ze strzałką kierunek przejazdu tranzytowego pojazdów wskazanych umieszczonym na znaku symbolem § 74. Znaki:
+2) F-13 „przejazd tranzytowy” wskazują zgodnie ze strzałką kierunek przejazdu tranzytowego pojazdów wskazanych umieszczonym na znaku symbolem pojazdu określonym w § 23 ust. 2.
+§ 74. Znaki:
 1) F-14a „tablica wskaźnikowa na autostradzie umieszczana w odległości 300 m przed pasem wyłączania”,
 2) F-14b „tablica wskaźnikowa na autostradzie umieszczana w odległości 200 m przed pasem wyłączania”,
 3) F-14c „tablica wskaźnikowa na autostradzie umieszczana w odległości 100 m przed pasem wyłączania” informują o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady (pasa wyłączania).
@@ -452,35 +467,39 @@ Znaki uzupełniające § 69. 1. Znak F-1 „przejście graniczne” informuje o 
 § 76. Znak F-20 „część drogi (pas ruchu) dla określonych pojazdów” wskazuje drogę lub jej część przeznaczoną dla pojazdów, których symbol został umieszczony na znaku. Zamiast symbolu pojazdu o dopuszczalnej masie całkowitej do 3,5 t na znaku może być umieszczony symbol pojazdu stosowany na tabliczkach, o których mowa w § 23 ust. 2, odpowiednio do sposobu przeznaczenia drogi lub jej części.
 § 77. 1. Znak F-21 „ruch skierowany na sąsiednią jezdnię” wskazuje zjazd na sąsiednią jezdnię w związku z tymczasową organizacją ruchu.
 2. Znak F-22 „ograniczenia na pasie ruchu” wskazuje pas ruchu, na którym jest zabroniony ruch pojazdów określonych symbolem znaku zakazu.
+§ 78. 1. Znaki:
 1) G-1a „słupek wskaźnikowy z trzema kreskami umieszczany po prawej stronie jezdni”,
 2) G-1b „słupek wskaźnikowy z dwiema kreskami umieszczany po prawej stronie jezdni”,
 3) G-1c „słupek wskaźnikowy z jedną kreską umieszczany po prawej stronie jezdni”,
 4) G-1d „słupek wskaźnikowy z trzema kreskami umieszczany po lewej stronie jezdni”,
 5) G-1e „słupek wskaźnikowy z dwiema kreskami umieszczany po lewej stronie jezdni”,
 6) G-1f „słupek wskaźnikowy z jedną kreską umieszczany po lewej stronie jezdni” informują o zbliżaniu się do przejazdu kolejowego.
-2. Słupek z trzema kreskami jest umieszczany pod znakiem A-9 lub A-10, słupek z dwiema kreskami na 2/3 odległości znaku ostrzegawczego od przejazdu, a słupek z jedną kreską na 1/3 tej odległości.
-3. Jeżeli ze względu na warunki lokalne znaki ostrzegawcze umieszczono bliżej niż w odległości, o której mowa w § 3 ust. 2, to pod znakiem ostrzegawczym umieszcza się słupek z dwiema kreskami, a słupek z jedną kreską na 1/2 odległości znaku ostrzegawczego. Jeżeli znak ostrzegawczy umieszczono w bezpośredniej bliskości przejazdu, to stosuje się tylko
+2. Słupek z trzema kreskami jest umieszczany pod znakiem A-9 lub A-10, słupek z dwiema kreskami – na 2/3 odległości znaku ostrzegawczego od przejazdu, a słupek z jedną kreską – na 1/3 tej odległości.
+3. Jeżeli ze względu na warunki lokalne znaki ostrzegawcze umieszczono bliżej niż w odległości, o której mowa w § 3 ust. 2, to pod znakiem ostrzegawczym umieszcza się słupek z dwiema kreskami, a słupek z jedną kreską na 1/2 odległości znaku ostrzegawczego. Jeżeli znak ostrzegawczy umieszczono w bezpośredniej bliskości przejazdu, to stosuje się tylko słupek z jedną kreską umieszczony pod znakiem ostrzegawczym.
 4. Znak G-2 „sieć pod napięciem” oznacza, że nad przejazdem kolejowym jest zawieszona sieć trakcyjna pod napięciem.
 5. Znaki:
 1) G-3 „krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym”,
 2) G-4 „krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym” wyznaczają miejsce zatrzymania się w związku z ruchem pociągu lub innego pojazdu szynowego na przejeździe kolejowym bez zapór lub półzapór; znaki te informują, że na przejeździe występują odpowiednio jeden lub więcej torów.
-Dodatkowe znaki dla kierujących tramwajami § 79. 1. Znak AT-1 „sygnalizacja świetlna” ostrzega o zbliżaniu się do miejsca, w którym ruch tramwajów jest kierowany za pomocą trójbarwnej sygnalizacji świetlnej.
+Dodatkowe znaki dla kierujących tramwajami
+§ 79. 1. Znak AT-1 „sygnalizacja świetlna” ostrzega o zbliżaniu się do miejsca, w którym ruch tramwajów jest kierowany za pomocą trójbarwnej sygnalizacji świetlnej.
 2. Znak AT-2 „sygnalizacja świetlna wzbudzana” ostrzega o zbliżaniu się do skrzyżowania, na którym tramwaj wzbudza wydzieloną dla siebie fazę.
 3. Znak AT-3 „niebezpieczny zjazd” ostrzega o znacznym spadku podłużnym toru tramwajowego, o wartości podanej na znaku.
 4. Znak AT-4 „stromy podjazd” ostrzega o znacznym wzniesieniu toru tramwajowego, o wartości podanej na znaku.
 5. Znak AT-5 „ruch kolizyjny” ostrzega o zbliżaniu się do skrzyżowania z sygnalizacją świetlną, na którym skręcający motorniczy, opuszczając skrzyżowanie, jest obowiązany ustąpić pierwszeństwa uczestnikom ruchu poruszającym się w kierunku na wprost.
 § 80. Znaki, o których mowa w § 79:
-1) są umieszczane po prawej stronie toru, nad torem przeznaczonym dla danego kierunku ruchu albo między torami na słupach sieci trakcyjnej w odległości od 50 m do 200 m od miejsca niebezpiecznego;
+1) są umieszczane po prawej stronie toru, nad torem przeznaczonym dla danego kierunku ruchu albo między torami na słupach sieci trakcyjnej – w odległości od 50 m do 200 m od miejsca niebezpiecznego;
 2) zobowiązują kierujących tramwajami jadących torem, przy którym są umieszczone, do zachowania szczególnej ostrożności.
 § 81. 1. Znak BT-1 „ograniczenie prędkości” oznacza zakaz przekraczania prędkości określonej na znaku liczbą kilometrów na godzinę przez kierującego tramwajem jadącego torem, przy którym jest on umieszczony.
 2. Zakaz wyrażony znakiem BT-1 obowiązuje od miejsca umieszczenia znaku do najbliższego skrzyżowania (rozwidlenia) torów lub miejsca ustawienia znaku BT-2 „koniec ograniczenia prędkości”.
 3. Znak BT-3 „blokada zwrotnicy” oznacza zakaz wjazdu kierującego tramwajem pod urządzenie sterujące zwrotnicą, aż poprzedni tramwaj nie opuści zwrotnicy.
-4. Znak BT-4 „stop zwrotnica eksploatowana jednostronnie” oznacza zakaz wjazdu kierującego tramwajem na zwrotnicę bez zatrzymania się przed zwrotnicą i obowiązek sprawdzenia, czy położenie iglicy jest prawidłowe.
+4. Znak BT-4 „stop – zwrotnica eksploatowana jednostronnie” oznacza zakaz wjazdu kierującego tramwajem na zwrotnicę bez zatrzymania się przed zwrotnicą i obowiązek sprawdzenia, czy położenie iglicy jest prawidłowe.
 § 82. Znaki, o których mowa w § 81, są umieszczane nad torem lub po prawej stronie toru przeznaczonego dla danego kierunku ruchu.
-Dodatkowe znaki szlaków rowerowych § 83. 1 Znaki:
+Dodatkowe znaki szlaków rowerowych
+§ 83. 1 Znaki:
 1) R-1 „szlak rowerowy lokalny”,
 2) R-1a „początek (koniec) szlaku rowerowego lokalnego”,
 3) R-1b „zmiana kierunku szlaku rowerowego lokalnego” oznaczają odpowiednio przebieg szlaku rowerowego lokalnego.
+2. (uchylony).
 3. Znak R-3 „tablica szlaku rowerowego lokalnego” wskazuje odległość do głównych miejscowości położonych przy szlaku rowerowym lokalnym.
 4. Znak R-4 „informacja o szlaku rowerowym” wskazuje rodzaj szlaku rowerowego. Umieszczona pod znakiem R-4 tabliczka informuje o utrudnieniu występującym na szlaku rowerowym.
 5. Na znaku R-4 w dolnej jego części umieszcza się symbol, numer lub barwne oznaczenie charakteryzujące szlak rowerowy.
@@ -492,7 +511,8 @@ Dodatkowe znaki szlaków rowerowych § 83. 1 Znaki:
 5) R-4e „tablica przeddrogowskazowa szlaku rowerowego” wskazują przebieg i kierunek szlaku rowerowego.
 7. Na znaku R-4a umieszcza się graficzną ilustrację przebiegu szlaku rowerowego w schemacie rzeczywistego układu dróg, przy czym przebieg szlaku rowerowego oznacza się linią szerszą zakończoną kształtem strzały wskazującej na jego kierunek.
 8. Na znaku R-4b w dolnej jego części umieszcza się symbol, numer lub barwne oznaczenie charakteryzujące szlak rowerowy. Umieszczona pod znakiem R-4b tabliczka informuje o utrudnieniu występującym na szlaku rowerowym.
-Dodatkowe znaki dla kierujących pojazdami wojskowymi § 84. 1. Znakami dla kierujących pojazdami wojskowymi są:
+Dodatkowe znaki dla kierujących pojazdami wojskowymi
+§ 84. 1. Znakami dla kierujących pojazdami wojskowymi są:
 1) znak W-1 „klasa obciążenia mostu o ruchu jednokierunkowym”;
 2) znak W-2 „klasa obciążenia mostu o ruchu dwukierunkowym”;
 3) znak W-3 „klasa obciążenia mostu o ruchu jednokierunkowym dla pojazdów kołowych i gąsienicowych”;
@@ -501,9 +521,11 @@ Dodatkowe znaki dla kierujących pojazdami wojskowymi § 84. 1. Znakami dla kier
 6) znak W-6 „szerokość mostu lub środka przeprawowego”;
 7) znak W-7 „wysokość skrajni pionowej na moście lub w tunelu”.
 2. Znaczenie znaków, o których mowa w ust. 1, określają odrębne przepisy.
+§ 85. 1. Znakami drogowymi poziomymi są umieszczone na nawierzchni linie ciągłe lub przerywane, pojedyncze lub podwójne, strzałki, napisy, symbole i inne linie związane z oznaczaniem określonych miejsc na drodze oraz punktowe elementy odblaskowe.
 2. Znaki drogowe poziome są barwy białej lub żółtej, z zastrzeżeniem ust. 4.
 3. Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej.
-4. Umieszczone na jezdni punktowe elementy odblaskowe barwy czerwonej wyznaczają prawą krawędź jezdni. Lewa krawędź jezdni oraz pasy ruchu mogą być oznaczone punktowymi elementami odblaskowymi barwy białej lub żółtej; prze§ 86. 1. Znak P-1 „linia pojedyncza przerywana”, w którym kreski są krótsze od przerw lub równe przerwom, wyznacza pasy ruchu.
+4. Umieszczone na jezdni punktowe elementy odblaskowe barwy czerwonej wyznaczają prawą krawędź jezdni. Lewa krawędź jezdni oraz pasy ruchu mogą być oznaczone punktowymi elementami odblaskowymi barwy białej lub żółtej; przepis ust. 3 stosuje się odpowiednio.
+§ 86. 1. Znak P-1 „linia pojedyncza przerywana”, w którym kreski są krótsze od przerw lub równe przerwom, wyznacza pasy ruchu.
 2. Znak P-1 o podwójnej szerokości, w którym kreski i przerwy są równe, informuje ponadto, że wyznaczony pas ruchu jest pasem:
 1) ruchu powolnego;
 2) zanikającym albo
@@ -525,8 +547,9 @@ Dodatkowe znaki dla kierujących pojazdami wojskowymi § 84. 1. Znakami dla kier
 3. Znak P-9 „strzałka naprowadzająca” oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu.
 § 88. 1. Znak P-10 „przejście dla pieszych” oznacza miejsce przejścia dla pieszych.
 2. Znak P-11 „przejazd dla rowerzystów” oznacza miejsce przejazdu dla rowerzystów.
-§ 89. 1. Znak P-12 „linia bezwzględnego zatrzymania stop” wskazuje miejsce zatrzymania pojazdu w związku ze znakami pionowymi B-20 lub B-32.
-2. Znak P-13 „linia warunkowego zatrzymania złożona z trójkątów” wskazuje miejsce zatrzymania pojazdu w celu ustą3. Znak P-14 „linia warunkowego zatrzymania złożona z prostokątów” wskazuje miejsce zatrzymania pojazdu:
+§ 89. 1. Znak P-12 „linia bezwzględnego zatrzymania – stop” wskazuje miejsce zatrzymania pojazdu w związku ze znakami pionowymi B-20 lub B-32.
+2. Znak P-13 „linia warunkowego zatrzymania złożona z trójkątów” wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7.
+3. Znak P-14 „linia warunkowego zatrzymania złożona z prostokątów” wskazuje miejsce zatrzymania pojazdu:
 1) na skrzyżowaniu na wlotach dróg równorzędnych;
 2) przed przejściem dla pieszych;
 3) przed przystankami tramwajowymi bez wysepek;
@@ -550,13 +573,15 @@ Dodatkowe znaki dla kierujących pojazdami wojskowymi § 84. 1. Znakami dla kier
 § 93a. Znak P-26 „piesi” oznacza drogę dla pieszych; znak P-26 umieszczony łącznie ze znakiem P-23 oznacza, że droga jest przeznaczona dla pieszych i kierujących rowerami.
 § 93b. Znak P-27 „kierunek i tor ruchu roweru” wskazuje kierującemu rowerem tor ruchu roweru na jezdni i określa kierunek jego ruchu.
 § 94. Przepisy § 85–87, 89 i 90 stosuje się odpowiednio do kolumn pieszych, jeźdźców i poganiaczy.
-2) sygnał żółty zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał czerwony;
-3) sygnał czerwony zakaz wjazdu za sygnalizator;
-4) sygnały czerwony i żółty, nadawane jednocześnie zakaz wjazdu za sygnalizator; sygnały te oznaczają także, że za chwilę zapali się sygnał zielony.
+§ 95. 1. Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają:
+1) sygnał zielony – zezwolenie na wjazd za sygnalizator;
+2) sygnał żółty – zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał czerwony;
+3) sygnał czerwony – zakaz wjazdu za sygnalizator;
+4) sygnały czerwony i żółty, nadawane jednocześnie – zakaz wjazdu za sygnalizator; sygnały te oznaczają także, że za chwilę zapali się sygnał zielony.
 2. Sygnał zielony nie zezwala na wjazd za sygnalizator, jeżeli:
 1) ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom;
 2) ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem nadawania sygnału zielonego.
-3. Sygnalizator używany poza skrzyżowaniem do kierowania ruchem na zwężonym odcinku drogi może nadawać sygnały o dwóch barwach zielonej i czerwonej.
+3. Sygnalizator używany poza skrzyżowaniem do kierowania ruchem na zwężonym odcinku drogi może nadawać sygnały o dwóch barwach – zielonej i czerwonej.
 4. Kierujący pojazdem szynowym skręcający na skrzyżowaniu o ruchu kierowanym sygnałami świetlnymi może je opuścić, z zastrzeżeniem ust. 1 pkt 2–4, pod warunkiem ustąpienia pierwszeństwa uczestnikom ruchu poruszającym się na wprost. Przepisu nie stosuje się na skrzyżowaniu o ruchu okrężnym oznaczonym znakami C-12.
 § 95a. 1. Sygnały świetlne nadawane przez sygnalizator S-1a dotyczą kierujących rowerem, znajdujących się na części drogi przeznaczonej tylko do ruchu rowerów lub wjeżdżających na tę część drogi.
 2. Przepisy § 95 ust. 1 i 2 stosuje się odpowiednio do sygnałów nadawanych przez sygnalizator S-1a.
@@ -570,62 +595,69 @@ Dodatkowe znaki dla kierujących pojazdami wojskowymi § 84. 1. Znakami dla kier
 § 97a. 1. Sygnały świetlne nadawane przez sygnalizator S-3a dotyczą kierujących rowerem, znajdujących się na części drogi przeznaczonej tylko do ruchu rowerów lub wjeżdżających na tę część drogi, jadących w kierunkach wskazanych strzałką (strzałkami).
 2. Przepisy § 95 ust. 1 i 2 oraz § 97 ust. 1, 3 i 4 stosuje się odpowiednio do sygnałów nadawanych przez sygnalizator kierunkowy S-3a.
 § 98. 1. Sygnały świetlne nadawane przez sygnalizator S-4 oznaczają:
-1) sygnał zielony zezwolenie na wjazd na pas ruchu, nad którym sygnalizator jest umieszczony;
-2) sygnał czerwony zakaz wjazdu na pas ruchu, nad którym sygnalizator jest umieszczony.
+1) sygnał zielony – zezwolenie na wjazd na pas ruchu, nad którym sygnalizator jest umieszczony;
+2) sygnał czerwony – zakaz wjazdu na pas ruchu, nad którym sygnalizator jest umieszczony.
 2. Sygnały świetlne dla pieszych nadawane przez sygnalizator S-5 oznaczają:
-1) sygnał zielony zezwolenie na wejście na przejście dla pieszych, przy czym sygnał zielony migający oznacza, że za chwilę zapali się sygnał czerwony i pieszy jest obowiązany jak najszybciej opuścić przejście;
+1) sygnał zielony – zezwolenie na wejście na przejście dla pieszych, przy czym sygnał zielony migający oznacza, że za chwilę zapali się sygnał czerwony i pieszy jest obowiązany jak najszybciej opuścić przejście;
+2) sygnał czerwony – zakaz wejścia na przejście.
 3. Sygnały świetlne dla rowerzystów nadawane przez sygnalizator S-6 oznaczają:
-1) sygnał zielony zezwolenie na wjazd na przejazd dla rowerzystów, przy czym sygnał zielony migający oznacza, że za chwilę zapali się sygnał czerwony i rowerzysta jest obowiązany jak najszybciej opuścić przejazd;
-2) sygnał czerwony zakaz wjazdu na przejazd.
+1) sygnał zielony – zezwolenie na wjazd na przejazd dla rowerzystów, przy czym sygnał zielony migający oznacza, że za chwilę zapali się sygnał czerwony i rowerzysta jest obowiązany jak najszybciej opuścić przejazd;
+2) sygnał czerwony – zakaz wjazdu na przejazd.
 4. Sygnał świetlny stały lub migający, nadawany przez sygnalizator S-7, oznacza nakaz opuszczenia pasa ruchu, nad którym sygnalizator jest umieszczony, i wjazdu na część jezdni znajdującą się po stronie wskazanej strzałką.
 5. Sygnał czerwony migający lub dwa na przemian migające sygnały czerwone oznaczają zakaz wjazdu za sygnalizator lub inne urządzenie nadające te sygnały.
 6. Migający lub stały sygnał żółty umieszczony na przeszkodzie albo migający sygnał żółty nadawany przez sygnalizator ostrzegają o występującym niebezpieczeństwie lub utrudnieniu ruchu oraz nakazują zachowanie szczególnej ostrożności.
-§ 99. 1. Zatrzymanie pojazdu wynikające z nadawanego sygnału powinno nastąpić przed linią zatrzymania, a w razie jej braku przed sygnalizatorem.
-2. Jeżeli sygnalizator jest umieszczony nad jezdnią, to zatrzymanie pojazdu wynikające z nadawanego sygnału powinno nastąpić przed linią zatrzymania, a w razie jej braku przed jezdnią, nad którą sygnalizator został umieszczony.
+§ 99. 1. Zatrzymanie pojazdu wynikające z nadawanego sygnału powinno nastąpić przed linią zatrzymania, a w razie jej braku – przed sygnalizatorem.
+2. Jeżeli sygnalizator jest umieszczony nad jezdnią, to zatrzymanie pojazdu wynikające z nadawanego sygnału powinno nastąpić przed linią zatrzymania, a w razie jej braku – przed jezdnią, nad którą sygnalizator został umieszczony.
 § 100. Sygnały świetlne, o których mowa w § 95–97 i § 98 ust. 1, 4 i 5, dotyczą także kolumn pieszych, jeźdźców i poganiaczy.
 § 101. Sygnał świetlny w postaci białych cyfr na tablicy lub sygnalizatorze oznacza wjazd na odcinek jezdni, na którym zaleca się jazdę z prędkością wyrażoną w kilometrach na godzinę.
-Sygnały świetlne dla kierujących pojazdami wykonującymi odpłatny przewóz osób na regularnych liniach § 102. 1. Sygnały świetlne dla kierujących autobusami oraz innymi pojazdami wykonującymi odpłatny przewóz osób na regularnych liniach, poruszającymi się po wydzielonych dla nich pasach ruchu, są barwy białej.
+Sygnały świetlne dla kierujących pojazdami wykonującymi odpłatny przewóz osób na regularnych liniach
+§ 102. 1. Sygnały świetlne dla kierujących autobusami oraz innymi pojazdami wykonującymi odpłatny przewóz osób na regularnych liniach, poruszającymi się po wydzielonych dla nich pasach ruchu, są barwy białej.
 2. Sygnały świetlne, o których mowa w ust. 1, nadawane przez sygnalizator SB oznaczają:
-1) sygnał w kształcie kreski pionowej zezwolenie na wjazd za sygnalizator;
-2) sygnał w kształcie dwóch kropek zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących pojazdami, które w chwili zapalenia się tego sygnału znajdują się tak blisko sygnalizatora, że nie mogą być zatrzymane przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej;
-3) sygnał w kształcie kreski poziomej zakaz wjazdu za sygnalizator; takie samo znaczenie mają wyświetlane jednocześnie sygnały w kształcie kreski poziomej i dwóch kropek oznaczające także, że za chwilę zapali się sygnał w kształcie kreski pionowej.
+1) sygnał w kształcie kreski pionowej – zezwolenie na wjazd za sygnalizator;
+2) sygnał w kształcie dwóch kropek – zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących pojazdami, które w chwili zapalenia się tego sygnału znajdują się tak blisko sygnalizatora, że nie mogą być zatrzymane przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej;
+3) sygnał w kształcie kreski poziomej – zakaz wjazdu za sygnalizator; takie samo znaczenie mają wyświetlane jednocześnie sygnały w kształcie kreski poziomej i dwóch kropek oznaczające także, że za chwilę zapali się sygnał w kształcie kreski pionowej.
 3. Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli:
 1) ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom;
 2) ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem nadawania sygnału zezwalającego na wjazd za sygnalizator.
 4. Przepis § 99 stosuje się odpowiednio.
 § 103. Sygnały świetlne dla kierujących tramwajami są barwy białej.
 § 104. 1. Sygnały świetlne dla kierujących tramwajami nadawane przez sygnalizator ST oznaczają:
-1) sygnał w kształcie kreski pionowej zezwolenie na wjazd za sygnalizator;
-2) sygnał w kształcie kreski pionowej migający zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących tramwajami, które w chwili zapalenia się tego sygnału znajdują się tak blisko sygnalizatora, że nie mogą być zatrzymane przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej;
+1) sygnał w kształcie kreski pionowej – zezwolenie na wjazd za sygnalizator;
+2) sygnał w kształcie kreski pionowej migający – zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących tramwajami, które w chwili zapalenia się tego sygnału znajdują się tak blisko sygnalizatora, że nie mogą być zatrzymane przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej;
+3) sygnał w kształcie kreski poziomej – zakaz wjazdu za sygnalizator.
 2. Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli:
 1) ruch tramwaju utrudniłby opuszczenie jezdni pieszym lub rowerzystom;
 2) ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem nadawania sygnału zezwalającego na wjazd za sygnalizator.
 § 105. Sygnały świetlne nadawane przez sygnalizator SB, o którym mowa w § 102 ust. 2 i 3, bez tabliczki z napisem BUS, dotyczą kierujących tramwajami.
 § 106. 1. Sygnały nadawane przez sygnalizatory kierunkowe STK dotyczą tramwajów jadących w kierunkach wskazanych przez strzałki umieszczone na tabliczce nad sygnalizatorem; przepis § 104 ust. 1 pkt 1 i 3 stosuje się odpowiednio.
 2. Sygnały kierunkowe dla kierujących tramwajami nadawane przez sygnalizator STT oznaczają:
-1) STT-1 zakaz wjazdu za sygnalizator;
-2) STT-2 zezwolenie na jazdę we wskazanym kierunku (kierunkach); kierunki są oznaczone kropkami wyświetlanymi w górnej części sygnalizatora wraz z wyświetlaną kropką w górnej jego części; lewa górna kropka oznacza kierunek w lewo, środkowa górna kropka kierunek na wprost, a prawa górna kropka w prawo.
+1) STT-1 – zakaz wjazdu za sygnalizator;
+2) STT-2 – zezwolenie na jazdę we wskazanym kierunku (kierunkach); kierunki są oznaczone kropkami wyświetlanymi w górnej części sygnalizatora wraz z wyświetlaną kropką w górnej jego części; lewa górna kropka oznacza kierunek w lewo, środkowa górna kropka kierunek na wprost, a prawa górna kropka – w prawo.
 3. Nadawany przez sygnalizatory kierunkowe STK i STT sygnał zezwalający na wjazd oznacza, że przejazd nie ma kolizji z innymi kierunkami ruchu.
 4. Przepisy § 104 ust. 2 stosuje się do sygnałów nadawanych przez sygnalizatory kierunkowe STK i STT.
 § 107. Przepis § 95 ust. 4 i § 99 stosuje się odpowiednio do sygnałów świetlnych dla kierujących tramwajami.
-2. Postawa, w której kierujący ruchem jest zwrócony bokiem do nadjeżdżających pojazdów, oznacza zezwolenie na wjazd na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem, a dla pieszych zezwolenie na wejście na jezdnię.
-3. Postawa, w której kierujący ruchem jest zwrócony przodem lub tyłem do nadjeżdżających pojazdów, oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem, a dla pieszych zakaz wejścia na jezdnię.
+§ 108. 1. Kierujący ruchem daje sygnały za pomocą postawy i ruchu rąk.
+2. Postawa, w której kierujący ruchem jest zwrócony bokiem do nadjeżdżających pojazdów, oznacza zezwolenie na wjazd na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem, a dla pieszych – zezwolenie na wejście na jezdnię.
+3. Postawa, w której kierujący ruchem jest zwrócony przodem lub tyłem do nadjeżdżających pojazdów, oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem, a dla pieszych – zakaz wejścia na jezdnię.
 4. Podniesienie ręki do góry przez osobę kierującą ruchem oznacza mającą nastąpić zmianę dotychczas dawanego sygnału. Dla uczestników ruchu, dla których ruch był zamknięty, oznacza, że za chwilę będzie dawany sygnał oznaczający zezwolenie na wjazd lub wejście, a dla uczestników ruchu, dla których ruch był otwarty, oznacza, że za chwilę będzie dawany sygnał zakazujący wjazdu lub wejścia.
 5. Ręka osoby kierującej ruchem wyciągnięta poziomo, poprzecznie do kierunku jazdy zbliżających się pojazdów, oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem.
 § 109. 1. Sygnał oznaczający nakaz zatrzymania pojazdu jest dawany:
-1) w warunkach dostatecznej widoczności tarczą do zatrzymywania pojazdów;
-2) w warunkach niedostatecznej widoczności tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym albo latarką ze światłem czerwonym.
+1) w warunkach dostatecznej widoczności – tarczą do zatrzymywania pojazdów;
+2) w warunkach niedostatecznej widoczności – tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym albo latarką ze światłem czerwonym.
 2. Tarcza do zatrzymywania pojazdów, o której mowa w ust. 1, ma kształt czerwonego koła z białym obrzeżem.
 3. Umundurowany policjant, inspektor Inspekcji Transportu Drogowego, żołnierz Żandarmerii Wojskowej i żołnierz wojskowych organów porządkowych mogą w warunkach dostatecznej widoczności dawać sygnał do zatrzymania pojazdu samą ręką.
-4. Osoby nadzorujące bezpieczne przejście dzieci przez jezdnię dają sygnał do zatrzymania pojazdu przez uniesienie § 110. Tablica barwy żółtej ze znakiem B-20 z żółtym napisem i obrzeżem, widoczna na autobusie szkolnym, oznacza nakaz zatrzymania pojazdów poruszających się po jezdni, na której albo przy której zatrzymał się autobus.
+4. Osoby nadzorujące bezpieczne przejście dzieci przez jezdnię dają sygnał do zatrzymania pojazdu przez uniesienie w górę kwadratowej tarczy barwy żółtej ze znakiem B-20 z żółtym napisem i obrzeżem.
+§ 110. Tablica barwy żółtej ze znakiem B-20 z żółtym napisem i obrzeżem, widoczna na autobusie szkolnym, oznacza nakaz zatrzymania pojazdów poruszających się po jezdni, na której albo przy której zatrzymał się autobus.
 § 111. 1. Sygnał dźwiękowy dawany przez osobę kierującą ruchem lub uprawnioną do jego kontroli jest sygnałem ostrzegającym uczestników ruchu lub zwracającym uwagę na inne sygnały albo polecenia.
 2. Jadący pojazdem samochodowym policjant, inspektor Inspekcji Transportu Drogowego lub żołnierz Żandarmerii Wojskowej może, w zakresie swoich ustawowych uprawnień, dawać kierującemu pojazdem polecenia do:
-1) określonego zachowania za pomocą urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych;
-2) zatrzymania w przypadku jazdy za kierującym, do którego jest skierowane polecenie przez krótkotrwałe włączenie niebieskiego światła błyskowego i sygnału dźwiękowego o zmiennym tonie.
+1) określonego zachowania – za pomocą urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych;
+2) zatrzymania – w przypadku jazdy za kierującym, do którego jest skierowane polecenie – przez krótkotrwałe włączenie niebieskiego światła błyskowego i sygnału dźwiękowego o zmiennym tonie.
 3. Przepis ust. 2 pkt 1 stosuje się odpowiednio do policjanta lub żołnierza Żandarmerii Wojskowej poruszającego się statkiem powietrznym.
 § 112. Przepisy § 108–111 stosuje się odpowiednio do kolumn pieszych, jeźdźców i poganiaczy.
+§ 113. 1. Sygnał dźwiękowy nadawany w postaci dzwonu na przejeździe kolejowym ostrzega o zbliżaniu się pociągu lub innego pojazdu szynowego albo o opuszczaniu zapór (półzapór).
 2. Sygnały dźwiękowe nadawane w postaci brzęczyków lub buczków albo komunikatów słownych na przejściach dla pieszych o ruchu kierowanym sygnałami świetlnymi informują osoby o upośledzonym wzroku, że dla pieszych jest nadawany sygnał zielony.
 3. Działanie urządzenia wibracyjnego znajdującego się na sygnalizatorze informuje osoby o upośledzonym wzroku i słuchu, że dla pieszych jest nadawany sygnał zielony.
+§ 114. 1. Do dnia 31 grudnia 2005 r.:
 1) tablica z białym tłem oraz czarnym obrzeżem i napisem określającym nazwę miejscowości ma takie samo znaczenie, jak znak D-42; przepis § 15 ust. 3 stosuje się odpowiednio;
 2) tablica, o której mowa w pkt 1, przekreślona ukośnie czerwoną linią, ma takie samo znaczenie, jak znak D-43;
 3) znak A-30 z tabliczką zawierającą symbol umieszczony na znaku A-31 ma takie samo znaczenie, jak znak A-31;
@@ -637,8 +669,8 @@ Sygnały świetlne dla kierujących pojazdami wykonującymi odpłatny przewóz o
 SPIS WZORÓW ZNAKÓW I SYGNAŁÓW DROGOWYCH ZNAKI DROGOWE PIONOWE Znaki ostrzegawcze
 1) A-1 „niebezpieczny zakręt w prawo”;
 2) A-2 „niebezpieczny zakręt w lewo”;
-3) A-3 „niebezpieczne zakręty pierwszy w prawo”;
-4) A-4 „niebezpieczne zakręty pierwszy w lewo”;
+3) A-3 „niebezpieczne zakręty – pierwszy w prawo”;
+4) A-4 „niebezpieczne zakręty – pierwszy w lewo”;
 5) A-5 „skrzyżowanie dróg”;
 6) A-6a „skrzyżowanie z drogą podporządkowaną występującą po obu stronach”;
 7) A-6b „skrzyżowanie z drogą podporządkowaną występującą po prawej stronie”;
@@ -651,9 +683,9 @@ SPIS WZORÓW ZNAKÓW I SYGNAŁÓW DROGOWYCH ZNAKI DROGOWE PIONOWE Znaki ostrzega
 14) A-10 „przejazd kolejowy bez zapór”;
 15) A-11 „nierówna droga”;
 16) A-11a „próg zwalniający”;
-17) A-12a „zwężenie jezdni dwustronne”;
-18) A-12b „zwężenie jezdni prawostronne”;
-19) A-12c „zwężenie jezdni lewostronne”;
+17) A-12a „zwężenie jezdni – dwustronne”;
+18) A-12b „zwężenie jezdni – prawostronne”;
+19) A-12c „zwężenie jezdni – lewostronne”;
 20) A-13 „ruchomy most”;
 21) A-14 „roboty na drodze”;
 22) A-15 „śliska jezdnia”;
@@ -711,7 +743,7 @@ Znaki zakazu
 31) B-29 „zakaz używania sygnałów dźwiękowych”;
 32) B-30 „koniec zakazu używania sygnałów dźwiękowych”;
 33) B-31 „pierwszeństwo dla nadjeżdżających z przeciwka”;
-34) B-32 „stój kontrola celna”;
+34) B-32 „stój – kontrola celna”;
 35) B-33 „ograniczenie prędkości”;
 36) B-34 „koniec ograniczenia prędkości”;
 37) B-35 „zakaz postoju”;
@@ -769,7 +801,7 @@ Znaki informacyjne
 20) D-16 „przystanek trolejbusowy”;
 21) D-17 „przystanek tramwajowy”;
 22) D-18 „parking”;
-23) D-18a „parking miejsce zastrzeżone”;
+23) D-18a „parking – miejsce zastrzeżone”;
 24) D-18b „parking zadaszony”;
 25) D-19 „postój taksówek”;
 26) D-20 „koniec postoju taksówek”;
@@ -961,7 +993,7 @@ Dodatkowe znaki dla kierujących tramwajami
 6) BT-1 „ograniczenie prędkości”;
 7) BT-2 „koniec ograniczenia prędkości”;
 8) BT-3 „blokada zwrotnicy”;
-9) BT-4 „stop zwrotnica eksploatowana jednostronnie”.
+9) BT-4 „stop – zwrotnica eksploatowana jednostronnie”.
 Dodatkowe znaki szlaków rowerowych
 1) R-1 „szlak rowerowy lokalny”;
 2) R-1a „początek (koniec) szlaku rowerowego lokalnego”;
@@ -998,7 +1030,7 @@ ZNAKI DROGOWE POZIOME
 12) P-9 „strzałka naprowadzająca”;
 13) P-10 „przejście dla pieszych”;
 14) P-11 „przejazd dla rowerzystów”;
-15) P-12 „linia bezwzględnego zatrzymania stop”;
+15) P-12 „linia bezwzględnego zatrzymania – stop”;
 16) P-13 „linia warunkowego zatrzymania złożona z trójkątów”;
 17) P-14 „linia warunkowego zatrzymania złożona z prostokątów”;
 18) P-15 „trójkąt podporządkowania”;
@@ -1007,6 +1039,7 @@ ZNAKI DROGOWE POZIOME
 21) P-18 „stanowisko postojowe”;
 22) P-19 „linia wyznaczająca pas postojowy”;
 23) P-20 „koperta”;
+24) P-21 „powierzchnia wyłączona”;
 25) P-22 „BUS”;
 26) P-23 „rower”;
 27) P-24 „miejsce dla pojazdu osoby niepełnosprawnej”;
@@ -1029,21 +1062,21 @@ Sygnały świetlne dla kierujących pojazdami wykonującymi odpłatny przewóz o
 3) STK sygnalizator kierunkowy dla tramwajów;
 4) STT-1 sygnał oznaczający zakaz wjazdu tramwaju za sygnalizator;
 5) STT-2 sygnał oznaczający zezwolenie na jazdę tramwaju we wskazanym kierunku.
-ZNAKI DROGOWE PIONOWE Znaki ostrzegawcze ZNAKI DROGOWE PIONOWE Znaki ostrzegawcze Znaki zakazu Znaki zakazu Znaki nakazu Znaki nakazu Znaki informacyjne Znaki informacyjne Znaki kierunku i miejscowości Znaki kierunku i miejscowości Znaki uzupełniające Znaki uzupełniające Tabliczki do znaków drogowych Tabliczki do znaków drogowych DODATKOWE ZNAKI PIONOWE Dodatkowe znaki przed przejazdami kolejowymi Dodatkowe znaki dla kierujących tramwajami Dodatkowe znaki szlaków rowerowych DODATKOWE ZNAKI PIONOWE Dodatkowe znaki przed przejazdami kolejowymi Dodatkowe znaki dla kierujących tramwajami Dodatkowe znaki szlaków rowerowych Dodatkowe znaki dla kierujących pojazdami wojskowymi Dodatkowe znaki dla kierujących pojazdami wojskowymi ZNAKI DROGOWE POZIOME ZNAKI DROGOWE POZIOME SYGNAŁY ŚWIETLNE Sygnały świetlne dla kierujących pojazdami i pieszych SYGNAŁY ŚWIETLNE Sygnały świetlne dla kierujących pojazdami i pieszych na regularnych liniach Sygnały świetlne dla kierujących pojazdami wykonującymi odpłatny przewóz osób na regularnych liniach
+ZNAKI ZNAKI DROGOWE DROGOWE PIONOWE PIONOWE Znaki Znaki ostrzegawcze ostrzegawcze Znaki zakazu Znaki zakazu Znaki nakazu Znaki nakazu Znaki informacyjne Znaki informacyjne Znaki kierunku i miejscowości Znaki kierunku i miejscowości Znaki uzupełniające Znaki uzupełniające Tabliczki do znaków drogowych Tabliczki do znaków drogowych DODATKOWE DODATKOWE ZNAKI ZNAKI PIONOWE PIONOWE Dodatkowe znaki przed przejazdami kolejowymi Dodatkowe znaki przed przejazdami kolejowymi Dodatkowe znaki dla kierujących tramwajami Dodatkowe znaki dla kierujących tramwajami Dodatkowe Dodatkowe znaki znaki szlaków szlaków rowerowych rowerowych Dodatkowe znaki dla kierujących pojazdami wojskowymi Dodatkowe znaki dla kierujących pojazdami wojskowymi ZNAKI DROGOWE POZIOME ZNAKI DROGOWE POZIOME SYGNAŁY SYGNAŁY ŚWIETLNE ŚWIETLNE Sygnały Sygnały świetlne świetlne dla kierujących dla kierujących pojazdami pojazdami i pieszych i pieszych Sygnały świetlne dla kierujących pojazdami wykonującymi odpłatny przewóz osób Sygnały świetlne dla kierujących pojazdami wykonującymi odpłatny przewóz osób na regularnych liniach na regularnych liniach
 
-#### Rozdział 1 Przepisy ogólne § 1. 1. Rozporządzenie określa znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Znaki drogowe pionowe Znaki ostrzegawcze § 3. 1. Znaki ostrzegawcze uprzedzają o miejscach na drodze, w których występuje lub może występować niebezpieczeństwo, oraz zobowiązują uczestników ruchu do zachowania szczególnej ostrożności.
+#### Rozdział 2 Znaki drogowe pionowe Znaki ostrzegawcze
 
-#### Rozdział 3 Dodatkowe znaki pionowe Dodatkowe znaki przed przejazdami kolejowymi § 78. 1. Znaki:
+#### Rozdział 3 Dodatkowe znaki pionowe Dodatkowe znaki przed przejazdami kolejowymi
 
-#### Rozdział 4 Znaki drogowe poziome § 85. 1. Znakami drogowymi poziomymi są umieszczone na nawierzchni linie ciągłe lub przerywane, pojedyncze lub podwójne, strzałki, napisy, symbole i inne linie związane z oznaczaniem określonych miejsc na drodze oraz punktowe elementy odblaskowe.
+#### Rozdział 4 Znaki drogowe poziome
 
-#### Rozdział 5 Sygnały świetlne nadawane przez urządzenia umieszczone na drodze Sygnały świetlne dla kierujących i pieszych § 95. 1. Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają:
+#### Rozdział 5 Sygnały świetlne nadawane przez urządzenia umieszczone na drodze Sygnały świetlne dla kierujących i pieszych
 
-#### Rozdział 6 Sygnały dawane przez uprawnione osoby § 108. 1. Kierujący ruchem daje sygnały za pomocą postawy i ruchu rąk.
+#### Rozdział 6 Sygnały dawane przez uprawnione osoby
 
-#### Rozdział 7 Sygnały dźwiękowe lub wibracyjne wysyłane przez urządzenia umieszczone na drodze § 113. 1. Sygnał dźwiękowy nadawany w postaci dzwonu na przejeździe kolejowym ostrzega o zbliżaniu się pociągu lub innego pojazdu szynowego albo o opuszczaniu zapór (półzapór).
+#### Rozdział 7 Sygnały dźwiękowe lub wibracyjne wysyłane przez urządzenia umieszczone na drodze
 
-#### Rozdział 8 Przepisy przejściowe i końcowe § 114. 1. Do dnia 31 grudnia 2005 r.:
+#### Rozdział 8 Przepisy przejściowe i końcowe
 

@@ -8,7 +8,7 @@ pos: 433
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej
@@ -43,6 +43,43 @@ source: "isap-pdf"
 3. Przepisy ustawy nie naruszają postanowień działu II w tytule I ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54).
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** (uchylony)
+- **2)** eksporcie produktów – rozumie się przez to wywóz produktów z terytorium kraju na terytorium państwa niebędącego państwem członkowskim Unii Europejskiej;
+- **3)** imporcie produktów – rozumie się przez to przywóz produktów z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej w celu wprowadzenia do obrotu;
+- **3a)** (uchylony)
+- **4)** Narodowym Funduszu – rozumie się przez to Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej w rozumieniu przepisów o ochronie środowiska;
+- **4a)** narzędziach połowowych – rozumie się przez to sprzęt wykorzystywany w rybołówstwie lub akwakulturze w celu lokalizowania, chwytania lub hodowli żywych zasobów morza oraz sprzęt pływający na powierzchni morza i stosowany do wabienia i chwytania lub hodowli żywych zasobów morza;
+- **4b)** narzędziach połowowych stanowiących odpady – rozumie się przez to narzędzia połowowe, które stały się odpadami w rozumieniu art. 3 ust. 1 pkt 6 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029), w tym wszelkie oddzielne elementy, substancje lub materiały, które w momencie porzucenia lub utraty takich narzędzi połowowych stanowiły ich część lub były do nich przymocowane;
+- **5)** (uchylony)
+- **6)** (uchylony)
+- **7)** odzysk – rozumie się przez to inny niż recykling proces odzysku;
+- **7a)** (uchylony)
+- **8)** (uchylony) 8a) oksydegradowalnym tworzywie sztucznym – rozumie się przez to materiały z tworzyw sztucznych zawierające dodatki, które pod wpływem utleniania prowadzą do rozpadu tych materiałów na mikrofragmenty lub do ich rozkładu chemicznego;
+- **8b)** opakowaniu – rozumie się przez to opakowanie w rozumieniu art. 3 ust. 1 i 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2023 r. poz. 1658 i 1852);
+- **9)** opłacie produktowej – rozumie się przez to opłatę obliczaną i wpłacaną w przypadku nieosiągnięcia wymaganego poziomu odzysku i recyklingu;
+- **9a)** posiadaczu odpadów – rozumie się przez to posiadacza odpadów w rozumieniu art. 3 ust. 1 pkt 19 ustawy z dnia 14 grudnia 2012 r. o odpadach;
+- **9b)** przedsiębiorcy – rozumie się przez to przedsiębiorcę w rozumieniu art. 4 ust. 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236), który importuje produkty, dokonuje wewnątrzwspólnotowego nabycia produktów lub wytwarza produkty i wprowadza je do obrotu, z wyłączeniem przedsiębiorcy wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne i prowadzącego działalność połowową w rozumieniu art. 4 pkt 28 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1380/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej polityki rybołówstwa, zmieniającego rozporządzenia Rady (WE) nr 1954/2003 i (WE) nr 1224/2009 oraz uchylającego rozporządzenia Rady (WE) nr 2371/2002 i (WE) nr 639/2004 oraz decyzję Rady 2004/585/WE (Dz. Urz. UE L 354 z 28.12.2013, str. 22, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1380/2013”, w tym wprowadzającego do obrotu produkty pod własnym oznaczeniem rozumianym jako znak towarowy, o którym mowa w art. 120 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170), lub pod własnym imieniem i nazwiskiem lub nazwą, których to produktów wytworzenie zlecił innemu przedsiębiorcy;
+- **9c)** produktach – rozumie się przez to:
+    - **a)** produkty zaliczone do rodzajów produktów wymienionych w załączniku nr 4a do ustawy, w tym te z nich, które stanowią część składową lub przynależność produktów stanowiących przedmiot importu produktów lub wewnątrzwspólnotowego nabycia produktów,
+    - **b)** produkty jednorazowego użytku z tworzyw sztucznych wymienione w załącznikach nr 6–10 do ustawy,
+    - **c)** narzędzia połowowe zawierające tworzywa sztuczne;
+
+- **9d)** producencie – rozumie się przez to: w sprawie praw konsumentów, zmieniającej dyrektywę Rady 93/13/EWG i dyrektywę 1999/44/WE Parlamentu Europejskiego i Rady oraz uchylającej dyrektywę Rady 85/577/EWG i dyrektywę 97/7/WE Parlamentu Europejskiego i Rady, produktów jednorazowego użytku z tworzyw sztucznych, napełnionych produktów jednorazowego użytku z tworzyw sztucznych lub narzędzi połowowych zawierających tworzywa sztuczne, niebędące osobą prowadzącą działalność połowową w rozumieniu art. 4 pkt 28 rozporządzenia nr 1380/2013;
+    - **a)** osobę fizyczną, jednostkę organizacyjną nieposiadającą osobowości prawnej oraz osobę prawną mające miejsce zamieszkania lub siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa niebędącego państwem członkowskim Unii Europejskiej, które zajmują się zawodowo sprzedażą produktów jednorazowego użytku z tworzyw sztucznych lub narzędzi połowowych zawierających tworzywa sztuczne na terytorium kraju bez względu na wykorzystywaną technikę sprzedaży, w tym za pomocą umów zawieranych na odległość w rozumieniu art. 2 pkt 7 dyrektywy Parlamentu Europejskiego i Rady 2011/83/UE z dnia 25 października 2011 r. w sprawie praw konsumentów, zmieniającej dyrektywę Rady 93/13/EWG i dyrektywę 1999/44/WE Parlamentu Europejskiego i Rady oraz uchylającej dyrektywę Rady 85/577/EWG i dyrektywę 97/7/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 304 z 22.11.2011, str. 64, z późn. zm. ),
+    - **b)** osobę fizyczną, jednostkę organizacyjną nieposiadającą osobowości prawnej oraz osobę prawną mające miejsce zamieszkania lub siedzibę na terytorium kraju, które zajmują się zawodowo w innym państwie członkowskim Unii Europejskiej sprzedażą bezpośrednio prywatnym gospodarstwom domowym lub użytkownikom niebędącym prywatnymi gospodarstwami domowymi, za pomocą umów zawieranych na odległość w rozumieniu art. 2 pkt 7 dyrektywy Parlamentu Europejskiego i Rady 2011/83/UE z dnia 25 października 2011 r.
+
+- **9e)** produkcie jednorazowego użytku z tworzyw sztucznych – rozumie się przez to produkt, który jest w całości lub części wykonany z tworzyw sztucznych i który nie został przeznaczony, zaprojektowany ani wprowadzony do obrotu, tak aby osiągnąć w ramach jego cyklu życia wielokrotne użycie przez zwrócenie go w celu powtórnego napełnienia lub ponownego użycia do tego samego celu, do którego był pierwotnie przeznaczony;
+- **10)** recyklingu – rozumie się przez to recykling w rozumieniu przepisów o odpadach;
+- **11)** regeneracji olejów odpadowych – rozumie się przez to regenerację w rozumieniu art. 91 ust. 5 ustawy z dnia 14 grudnia 2012 r. o odpadach;
+- **11a)** terytorium kraju – rozumie się przez to terytorium Rzeczypospolitej Polskiej; 11aa) tworzywie sztucznym – rozumie się przez to materiał składający się z polimeru w rozumieniu art. 3 pkt 5 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm. ), do którego mogły zostać dodane dodatki lub inne substancje i który może funkcjonować jako główny składnik strukturalny produktów końcowych, z wyjątkiem polimerów naturalnych, które nie zostały chemicznie zmodyfikowane; 11ab) tworzywie sztucznym ulegającym biodegradacji – rozumie się przez to tworzywo sztuczne zdolne do fizycznego lub biologicznego rozkładu prowadzącego ostatecznie do jego rozkładu na dwutlenek węgla (CO ), biomasę i wodę, które zgodnie z normami zharmonizowanymi, o których mowa w art. 2 pkt 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1025/2012 z dnia 25 października 2012 r. w sprawie normalizacji europejskiej, zmieniającego dyrektywy Rady 89/686/EWG i 93/15/EWG oraz dyrektywy Parlamentu Europejskiego i Rady 94/9/WE, 94/25/WE, 95/16/WE, 97/23/WE, 98/34/WE, 2004/22/WE, 2007/23/WE, 2009/23/WE i 2009/105/WE oraz uchylającego decyzję Rady 87/95/EWG i decyzję Parlamentu Europejskiego i Rady nr 1673/2006/WE (Dz. Urz. UE L 316 z 14.11.2012, str. 12, z późn. zm. ), dotyczącymi opakowań nadaje się do odzysku przez kompostowanie i fermentację beztlenową; 11ac) użytkowniku końcowym – rozumie się przez to podmiot nabywający produkty jednorazowego użytku z tworzyw sztucznych, opakowania jednorazowego użytku z tworzyw sztucznych lub napoje lub żywność w opakowaniach jednorazowego użytku z tworzyw sztucznych w celu ich wykorzystania na potrzeby własne, bez dalszej odsprzedaży;
+- **11b)** (uchylony) 11c) (uchylony) 11d) (uchylony) 11e) wewnątrzwspólnotowej dostawie produktów – rozumie się przez to wywóz produktów z terytorium kraju na terytorium innego państwa członkowskiego Unii Europejskiej;
+- **11f)** wewnątrzwspólnotowym nabyciu produktów – rozumie się przez to przywóz produktów z terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej w celu wprowadzenia do obrotu;
+- **11g)** (uchylony)
+- **12)** wojewódzkich funduszach – rozumie się przez to wojewódzkie fundusze ochrony środowiska i gospodarki wodnej w rozumieniu przepisów o ochronie środowiska;
+- **12a)** wprowadzaniu do obrotu – rozumie się przez to pierwsze dostarczenie produktu na terytorium kraju w ramach działalności gospodarczej, odpłatne albo nieodpłatne, do celów dystrybucji, konsumpcji, stosowania lub użytkowania, w tym na potrzeby własne;
+- **12b)** wyrobach tytoniowych – rozumie się przez to wyroby tytoniowe w rozumieniu art. 2 pkt 48 ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2023 r. poz. 700).
+- **13)** (uchylony)
 
 **Art. 2a.**
 
@@ -365,6 +402,13 @@ source: "isap-pdf"
 
 **Art. 10a.** Minister właściwy do spraw klimatu sporządza i przekazuje Komisji Europejskiej sprawozdanie zawierające informacje o:
 
+- **1)** masie i liczbie wprowadzonych do obrotu produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami,
+- **2)** zmniejszeniu stosowania produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami,
+- **3)** masie wprowadzonych do obrotu i zebranych butelek jednorazowego użytku z tworzyw sztucznych na napoje o pojemności do trzech litrów,
+- **4)** masie wprowadzonych do obrotu narzędzi połowowych zawierających tworzywa sztuczne oraz masie zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne,
+- **5)** danych dotyczących masy odpadów pochodzących ze stosowania wyrobów tytoniowych z filtrami zawierającymi tworzywa sztuczne i filtrów zawierających tworzywa sztuczne sprzedawanych do używania łącznie z wyrobami tytoniowymi,
+- **6)** zawartości materiału pochodzącego z recyklingu w butelkach jednorazowego użytku z tworzyw sztucznych na napoje o pojemności do trzech litrów – za każdy rok kalendarzowy w terminie 18 miesięcy od zakończenia roku kalendarzowego, za który jest składane to sprawozdanie.
+
 **Art. 11.**
 
 1. Przedsiębiorca i organizacja odzysku są obowiązani do prowadzenia dodatkowej ewidencji, obejmującej informacje o:
@@ -568,6 +612,9 @@ source: "isap-pdf"
 
 **Art. 37a.** Kto, wbrew przepisom art. 11, prowadząc odzysk lub recykling nie udostępnia dokumentu potwierdzającego recykling lub dokumentu potwierdzającego inne niż recykling procesy odzysku:
 
+- **1)** przedsiębiorcy lub organizacji odzysku albo nie udostępnia im dokumentu w terminie lub udostępnia im dokument zawierający informacje nierzetelne, lub
+- **2)** marszałkowi województwa albo nie udostępnia mu dokumentu w terminie, podlega karze grzywny.
+
 **Art. 37b.** Kto będąc posiadaczem odpadów, wykonującym usługę polegającą na przekazywaniu odpadów do odzysku lub recyklingu, w imieniu przedsiębiorcy lub organizacji odzysku, nie składa wniosku o wydanie dokumentu potwierdzającego recykling lub dokumentu potwierdzającego inne niż recykling procesy odzysku prowadzącemu odzysk lub recykling, podlega karze grzywny.
 
 **Art. 38.** (uchylony)
@@ -577,6 +624,22 @@ source: "isap-pdf"
 **Art. 40.** Orzekanie w sprawach o czyny określone w art. 37a i art. 37b następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
 **Art. 40a.** Administracyjnej karze pieniężnej podlega ten, kto:
+
+- **1)** wbrew przepisowi art. 3b ust. 1 nie pobiera opłaty od użytkownika końcowego nabywającego produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 6 do ustawy będące opakowaniami lub napoje lub żywność pakowane przez tego przedsiębiorcę w te produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 6 do ustawy będące opakowaniami;
+- **2)** wbrew przepisowi art. 3b ust. 2 nie pobiera opłaty od użytkownika końcowego nabywającego napoje lub żywność w produktach jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami pakowane i oferowane przez tego przedsiębiorcę za pomocą urządzenia vendingowego;
+- **3)** wbrew przepisowi art. 3b ust. 3 nie zapewnia dostępności opakowań alternatywnych do produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami, wytworzonych z materiałów innych niż tworzywa sztuczne, w tym innych niż tworzywa sztuczne ulegające biodegradacji, lub dostępności opakowań wielokrotnego użytku;
+- **4)** wbrew przepisowi art. 3h ust. 1 nie prowadzi ewidencji, o której mowa w tym przepisie;
+- **5)** wbrew przepisowi art. 3h ust. 2, w przypadku prowadzenia więcej niż jednej jednostki handlu detalicznego, jednostki handlu hurtowego lub jednostki gastronomicznej, nie prowadzi ewidencji, o której mowa w tym przepisie;
+- **6)** wbrew przepisowi art. 3h ust. 4 nie przechowuje informacji zawartych w ewidencji, o której mowa w art. 3h ust. 1 i 2, przez 5 lat, licząc od końca roku kalendarzowego, którego te informacje dotyczą;
+- **7)** wbrew przepisowi art. 3i wprowadza do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 7 do ustawy oraz wyroby wykonane z oksydegradowalnych tworzyw sztucznych;
+- **8)** wbrew przepisowi art. 3j nie zapewnia umieszczenia na opakowaniach produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 8 do ustawy lub na samych tych produktach oznakowania na zasadach określonych w rozporządzeniu wykonawczym Komisji (UE) 2020/2151 z dnia 17 grudnia 2020 r. ustanawiającym zasady dotyczące zharmonizowanych specyfikacji w odniesieniu do oznakowania produktów jednorazowego użytku z tworzyw sztucznych wymienionych w części D załącznika do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 w sprawie zmniejszenia wpływu niektórych produktów z tworzyw sztucznych na środowisko i zgodnie ze wzorami określonymi w tym rozporządzeniu;
+- **9)** wbrew przepisowi art. 3o ust. 1 nie prowadzi ewidencji, o której mowa w tym przepisie;
+- **10)** wbrew przepisowi art. 3o ust. 2 nie prowadzi ewidencji, o której mowa w art. 3o ust. 1, zgodnie z formatem danych określonym w decyzji wykonawczej Komisji (UE) 2022/162 z dnia 4 lutego 2022 r. ustanawiającej zasady stosowania dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 w odniesieniu do obliczania, weryfikacji i zgłaszania zmniejszenia stosowania niektórych produktów jednorazowego użytku z tworzyw sztucznych i środków wprowadzanych przez państwa członkowskie w celu osiągnięcia takiego zmniejszenia;
+- **11)** wbrew przepisowi art. 8c ust. 1 nie wyznaczył upoważnionego przedstawiciela;
+- **12)** wbrew przepisowi art. 8d ust. 1 nie finansuje kosztów selektywnego zbierania narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne oraz kosztów ich transportu i przetwarzania;
+- **13)** wbrew przepisowi art. 8d ust. 5 nie prowadzi ewidencji, o której mowa w tym przepisie, zgodnie z formatem zgłaszania danych określonym w decyzji wykonawczej Komisji (UE) 2021/958 z dnia 31 maja 2021 r. ustanawiającej format zgłaszania danych i informacji dotyczących wprowadzonych do obrotu narzędzi połowowych oraz zebranych narzędzi połowowych stanowiących odpady w państwach członkowskich i format sprawozdania z kontroli jakości zgodnie z art. 13 ust. 1 lit. d i art. 13 ust. 2 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904;
+- **14)** wbrew przepisowi art. 11 ust. 1 nie prowadzi dodatkowej ewidencji, o której mowa w tym przepisie;
+- **15)** wbrew przepisowi art. 11b ust. 4 w danym roku kalendarzowym nie przeznaczył opłaty na publiczne kampanie edukacyjne lub nie wniósł opłaty na publiczne kampanie edukacyjne w terminach określonych w tym przepisie.
 
 **Art. 40b.**
 

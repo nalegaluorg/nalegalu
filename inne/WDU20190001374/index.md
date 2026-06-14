@@ -8,12 +8,10 @@ pos: 1374
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowej Komisji Badania Wypadków Morskich
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lipca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -28,11 +26,11 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001374) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1374/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich (Dz. U. z 2018 r. poz. 925), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 3 lipca 2018 r. Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym i nauce (Dz. U.
+1) ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U.
 poz. 1669),
 2) ustawą z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 lipca 2019 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 350 ustawy z dnia 3 lipca 2018 r. Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „Art. 350. Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
+1) art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „Art. 350. Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
 1) art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 2) art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.”;
 2) odnośnika nr 1 oraz art. 173 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), które stanowią: „ Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2).” „Art. 173. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
@@ -55,26 +53,26 @@ o Państwowej Komisji Badania Wypadków Morskich
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** wypadku morskim należy przez to rozumieć zdarzenie, lub kilka następujących po sobie zdarzeń, związane bezpośrednio z eksploatacją statku, w którego następstwie doszło do:
+- **1)** wypadku morskim – należy przez to rozumieć zdarzenie, lub kilka następujących po sobie zdarzeń, związane bezpośrednio z eksploatacją statku, w którego następstwie doszło do:
     - **a)** śmierci albo ciężkiego uszczerbku na zdrowiu człowieka lub
     - **b)** zaginięcia człowieka przebywającego na statku, lub
     - **c)** zatonięcia, zaginięcia lub utraty statku w inny sposób, lub
     - **d)** uszkodzenia statku, wpływającego w znacznym stopniu na jego konstrukcję, zdolności manewrowe lub eksploatacyjne, wymagającego poważnych napraw, lub
     - **e)** wejścia statku na mieliznę, zetknięcia z dnem, uderzenia w podwodną przeszkodę, unieruchomienia statku lub zderzenia statków, pożaru, eksplozji, uderzenia w budowlę, urządzenie lub instalację, przesunięcia ładunku, uszkodzenia powstałego wskutek złej pogody, uszkodzenia przez lód, pęknięcia kadłuba lub podejrzenia uszkodzenia kadłuba, lub
     - **f)** wyrządzenia przez statek istotnej szkody w infrastrukturze portowej, infrastrukturze zapewniającej dostęp do portów lub przystani morskich, instalacji lub budowli na morzu, powodującej poważne zagrożenie dla bezpieczeństwa statku, innych statków lub osób, lub
-    - **g)** wyrządzenia szkody w środowisku lub wywołania niebezpieczeństwa wyrządzenia takiej szkody z tym, że wypadkiem morskim nie jest świadome działanie lub zaniechanie podjęte z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku;
+    - **g)** wyrządzenia szkody w środowisku lub wywołania niebezpieczeństwa wyrządzenia takiej szkody – z tym, że wypadkiem morskim nie jest świadome działanie lub zaniechanie podjęte z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku;
 
-- **2)** bardzo poważnym wypadku należy przez to rozumieć wypadek morski, w wyniku którego doszło do całkowitej utraty statku, śmierci człowieka lub wyrządzenia szkody w środowisku w znacznych rozmiarach;
-- **3)** poważnym wypadku należy przez to rozumieć wypadek morski inny niż określony w pkt 2, którego skutkiem jest:
-    - **a)** unieruchomienie napędu głównego statku, rozległe uszkodzenie pomieszczeń mieszkalnych, zmiana w zakresie stateczności statku, poważne uszkodzenie konstrukcji statku w podwodnej części kadłuba powodujące, że statek nie odpowiada wymaganiom określonym w umowach międzynarodowych i stanowi zagrożenie dla bezpieczeństwa osób na nim przebywających lub dla środowiska, czyniące go niezdatnym do kontynuowania podróży lub
+- **2)** bardzo poważnym wypadku – należy przez to rozumieć wypadek morski, w wyniku którego doszło do całkowitej utraty statku, śmierci człowieka lub wyrządzenia szkody w środowisku w znacznych rozmiarach;
+- **3)** poważnym wypadku – należy przez to rozumieć wypadek morski inny niż określony w pkt 2, którego skutkiem jest:
+    - **a)** unieruchomienie napędu głównego statku, rozległe uszkodzenie pomieszczeń mieszkalnych, zmiana w zakresie stateczności statku, poważne uszkodzenie konstrukcji statku w podwodnej części kadłuba – powodujące, że statek nie odpowiada wymaganiom określonym w umowach międzynarodowych i stanowi zagrożenie dla bezpieczeństwa osób na nim przebywających lub dla środowiska, czyniące go niezdatnym do kontynuowania podróży lub
     - **b)** wyrządzenie szkody w środowisku, innej niż szkoda, o której mowa w pkt 2, w tym szkody spowodowanej zanieczyszczeniem środowiska, lub
     - **c)** awaria, przy której istnieje konieczność holowania statku lub udzielenia statkowi pomocy z lądu;
 
-- **4)** incydencie morskim należy przez to rozumieć zdarzenie, lub kilka następujących po sobie zdarzeń, inne niż określone w pkt 1–3, związane bezpośrednio z eksploatacją statku, które miało lub mogło mieć niekorzystny wpływ na bezpieczeństwo statku, osób na nim przebywających lub środowisko, z tym że incydentem morskim nie jest świadome działanie lub zaniechanie podjęte z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku;
-- **5)** kodeksie badania wypadków należy przez to rozumieć Kodeks międzynarodowych standardów i zalecanych praktyk postępowania w sprawach badania wypadków lub incydentów morskich, przyjęty przez Komitet Bezpieczeństwa Morskiego Międzynarodowej Organizacji Morskiej (IMO) ;
-- **6)** rejestratorze VDR lub S-VDR należy przez to rozumieć zespół urządzeń służących do rejestracji danych z przebiegu podróży statku, w tym czasu, pozycji, prędkości, kursu oraz rejestrujących głos na mostku nawigacyjnym, spełniający wymagania ustanowione przez Międzynarodową Organizację Morską (IMO);
-- **7)** bazie danych EMCIP należy przez to rozumieć elektroniczną bazę danych o nazwie Europejska Platforma Informacyjna w sprawie Wypadków Morskich (EMCIP), w której są gromadzone i przechowywane informacje dotyczące wypadków i incydentów morskich;
-- **8)** szybkim statku pasażerskim należy przez to rozumieć statek, określony w Prawidle 1 Rozdziału X Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 1984 r. poz. 318 i 319, z 1986 r. poz. 177, z 2005 r. poz. 1016 oraz z 2017 r. poz. 142) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. poz. 320 i 321), oraz Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2008 r. poz. 1173 i 1174) (Konwencja SOLAS), przewożący więcej niż 12 pasażerów.
+- **4)** incydencie morskim – należy przez to rozumieć zdarzenie, lub kilka następujących po sobie zdarzeń, inne niż określone w pkt 1–3, związane bezpośrednio z eksploatacją statku, które miało lub mogło mieć niekorzystny wpływ na bezpieczeństwo statku, osób na nim przebywających lub środowisko, z tym że incydentem morskim nie jest świadome działanie lub zaniechanie podjęte z zamiarem naruszenia bezpieczeństwa statku, wyrządzenia szkody na osobie lub szkody w środowisku;
+- **5)** kodeksie badania wypadków – należy przez to rozumieć Kodeks międzynarodowych standardów i zalecanych praktyk postępowania w sprawach badania wypadków lub incydentów morskich, przyjęty przez Komitet Bezpieczeństwa Morskiego Międzynarodowej Organizacji Morskiej (IMO) ;
+- **6)** rejestratorze VDR lub S-VDR – należy przez to rozumieć zespół urządzeń służących do rejestracji danych z przebiegu podróży statku, w tym czasu, pozycji, prędkości, kursu oraz rejestrujących głos na mostku nawigacyjnym, spełniający wymagania ustanowione przez Międzynarodową Organizację Morską (IMO);
+- **7)** bazie danych EMCIP – należy przez to rozumieć elektroniczną bazę danych o nazwie Europejska Platforma Informacyjna w sprawie Wypadków Morskich (EMCIP), w której są gromadzone i przechowywane informacje dotyczące wypadków i incydentów morskich;
+- **8)** szybkim statku pasażerskim – należy przez to rozumieć statek, określony w Prawidle 1 Rozdziału X Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 1984 r. poz. 318 i 319, z 1986 r. poz. 177, z 2005 r. poz. 1016 oraz z 2017 r. poz. 142) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. poz. 320 i 321), oraz Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2008 r. poz. 1173 i 1174) (Konwencja SOLAS), przewożący więcej niż 12 pasażerów.
 
 2. Ilekroć w ustawie jest mowa o statku, statku rybackim, promie pasażerskim typu ro-ro, jachcie rekreacyjnym, uznanej organizacji, umowach międzynarodowych, państwie członkowskim Unii Europejskiej, państwie trzecim, należy przez to rozumieć statek, statek rybacki, prom pasażerski typu ro-ro, jacht rekreacyjny, uznaną organizację, umowy międzynarodowe, państwo członkowskie Unii Europejskiej, państwo trzecie, w rozumieniu ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r. poz. 181, 1137, 1669 i 2245).
 
@@ -107,7 +105,7 @@ o Państwowej Komisji Badania Wypadków Morskich
 - **1)** jest obywatelem polskim i korzysta z pełni praw publicznych;
 - **2)** posiada pełną zdolność do czynności prawnych;
 - **3)** nie była skazana prawomocnym wyrokiem sądu za przestępstwa popełnione umyślnie;
-- **4)** posiada wykształcenie wyższe, o którym mowa w art. 77 ust. 1 pkt 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm. ), w zakresie nauk technicznych, matematycznych, fizycznych, chemicznych, ekonomicznych, humanistycznych lub prawnych;
+- **4)** posiada wykształcenie wyższe, o którym mowa w art. 77 ust. 1 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm. ), w zakresie nauk technicznych, matematycznych, fizycznych, chemicznych, ekonomicznych, humanistycznych lub prawnych;
 - **5)** posiada wiedzę z zakresu bezpieczeństwa żeglugi i ochrony środowiska morskiego;
 - **6)** posiada co najmniej pięcioletnią praktykę zawodową w zakresie:
     - **a)** nawigacji morskiej lub
@@ -127,7 +125,7 @@ o Państwowej Komisji Badania Wypadków Morskich
 
 2. Wygaśnięcie członkostwa w Komisji spowodowane upływem okresu wyznaczenia, zaprzestaniem spełniania wymagań określonych w art. 4 ust. 1, cofnięciem wyznaczenia na podstawie art. 3 ust. 7 i 8, lub przyjęciem przez ministra właściwego do spraw gospodarki morskiej rezygnacji, jest równoznaczne z rozwiązaniem stosunku pracy bez wypowiedzenia.
 
-**Art. 6.** W zakresie nawiązywania i rozwiązywania stosunku pracy do członków Komisji stosuje się ustawę z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2019 r. poz. 1040 i 1043), zwaną dalej „Kodeksem pracy”, z zastrzeżeniem przypadków określonych w niniejszej ustawie. Z dniem wyznaczenia z członkiem Komisji zawiera się umowę o pracę.
+**Art. 6.** W zakresie nawiązywania i rozwiązywania stosunku pracy do członków Komisji stosuje się ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040 i 1043), zwaną dalej „Kodeksem pracy”, z zastrzeżeniem przypadków określonych w niniejszej ustawie. Z dniem wyznaczenia z członkiem Komisji zawiera się umowę o pracę.
 
 **Art. 7.** Do członków Komisji stosuje się odpowiednio przepisy art. 21–24, art. 26 i art. 28 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2018 r. poz. 1915 oraz z 2019 r. poz. 1043).
 
@@ -137,7 +135,7 @@ o Państwowej Komisji Badania Wypadków Morskich
 
 2. Okres rozliczeniowy czasu pracy członków Komisji nie może przekraczać 6 miesięcy.
 
-3. Rozkład czasu pracy jest ustalany z tygodniowym wyprzedzeniem, a w razie zaistnienia wypadku lub incydentu morskiego na bieżąco.
+3. Rozkład czasu pracy jest ustalany z tygodniowym wyprzedzeniem, a w razie zaistnienia wypadku lub incydentu morskiego – na bieżąco.
 
 4. W razie zaistnienia wypadku lub incydentu morskiego dobowy wymiar czasu pracy członka Komisji może być wydłużony do 16 godzin.
 
@@ -166,6 +164,10 @@ o Państwowej Komisji Badania Wypadków Morskich
 4. Przewodniczący Komisji może zlecić wykonanie ekspertyz, badań lub analiz niezbędnych do prowadzenia badania wypadku lub incydentu morskiego, innym podmiotom niż eksperci.
 
 **Art. 11.** Członek Komisji lub ekspert biorący udział w pracach Komisji, także po wygaśnięciu członkostwa w Komisji lub zakończeniu przez eksperta prac w Komisji:
+
+- **1)** jest obowiązany zachować w tajemnicy wiadomości powzięte w związku z badaniem przez Komisję wypadku lub incydentu morskiego;
+- **2)** może być zwolniony od obowiązku zachowania tajemnicy przez właściwy organ wyłącznie gdy nadrzędny interes publiczny uzasadnia odstąpienie od zasady poufności;
+- **3)** nie może występować w roli biegłego w postępowaniu przed sądem lub innym organem w zakresie spraw prowadzonych przez Komisję, w których członek Komisji lub ekspert brał lub bierze udział.
 
 **Art. 12.**
 
@@ -216,7 +218,7 @@ o Państwowej Komisji Badania Wypadków Morskich
     - **a)** inne, niż określone w pkt 1 lit. a, statki pełniące wyłącznie specjalną służbę państwową lub eksploatowane przez państwo w celach niehandlowych,
     - **b)** statki rybackie o długości całkowitej do 15 m,
     - **c)** jachty rekreacyjne,
-    - **d)** statki i obiekty pływające wchodzące w skład zespołu holowniczego, inne niż statek holujący z wyjątkiem bardzo poważnych wypadków;
+    - **d)** statki i obiekty pływające wchodzące w skład zespołu holowniczego, inne niż statek holujący – z wyjątkiem bardzo poważnych wypadków;
 
 - **3)** na stałych platformach wiertniczych, w których nie uczestniczyły statki morskie.
 
@@ -242,7 +244,7 @@ o Państwowej Komisji Badania Wypadków Morskich
 
 **Art. 18.**
 
-1. W pracach Komisji, w tym w pracach zespołu prowadzącego czynności badawcze, nie może brać udziału członek Komisji lub ekspert, który podlega wyłączeniu. Do wyłączenia stosuje się odpowiednio przepis art. 24 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i
+1. W pracach Komisji, w tym w pracach zespołu prowadzącego czynności badawcze, nie może brać udziału członek Komisji lub ekspert, który podlega wyłączeniu. Do wyłączenia stosuje się odpowiednio przepis art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i
 
 - **1133)** .
 
@@ -371,7 +373,7 @@ o Państwowej Komisji Badania Wypadków Morskich
 - **2)** dostępu do statku, jego wraku, wyposażenia, ładunku oraz ich szczątków;
 - **3)** udziału w poszukiwaniu lub usuwaniu wraku, szczątków i elementów statku lub substancji wymagających ekspertyzy, badania lub analizy;
 - **4)** wystąpienia z wnioskiem do przewodniczącego Komisji o wykonanie ekspertyz, badań lub analiz, o których mowa w art. 10 ust. 4, rzeczy lub substancji, o których mowa w pkt 3, oraz dostępu do wyników tych ekspertyz, badań lub analiz;
-- **5)** dostępu do dokumentów, w tym ich kopiowania i używania, informacji i danych, w tym danych z rejestratora VDR lub S-VDR odnoszących się do statku, jego podróży, ładunku, załogi i pasażerów;
+- **5)** dostępu do dokumentów, w tym ich kopiowania i używania, informacji i danych, w tym danych z rejestratora VDR lub S-VDR – odnoszących się do statku, jego podróży, ładunku, załogi i pasażerów;
 - **6)** dostępu do wyników badań ciał ofiar wypadku morskiego lub do wyników badań próbek pobranych z ciał ofiar;
 - **7)** żądania przeprowadzenia badań członków załogi statku lub innych osób uczestniczących w eksploatacji statku, mogących mieć znaczenie dla badania wypadku lub incydentu morskiego, w szczególności pobrania odcisków daktyloskopijnych, włosów, moczu, krwi, śliny, zapachu, wymazu ze śluzówki policzków, próby pisma, wykonania fotografii osoby lub dokonania utrwalenia głosu oraz dostępu do wyników tych badań;
 - **8)** wysłuchania osób;
@@ -408,7 +410,7 @@ o Państwowej Komisji Badania Wypadków Morskich
 
 - **1)** dowody z wysłuchania osób oraz inne dokumenty sporządzane lub otrzymane przez Komisję w trakcie badania wypadku lub incydentu morskiego,
 - **2)** zapisy ujawniające tożsamość osób wysłuchanych w trakcie badania wypadku lub incydentu morskiego,
-- **3)** informacje dotyczące osób, które uczestniczyły w wypadku lub incydencie morskim, mające charakter informacji szczególnie chronionych lub prywatnych, w tym informacji dotyczących ich stanu zdrowia nie mogą być udostępnione przez Komisję ani organom procesowym w postępowaniu karnym, ani żadnym innym organom prowadzącym postępowanie mające na celu ustalenie odpowiedzialności lub winy.
+- **3)** informacje dotyczące osób, które uczestniczyły w wypadku lub incydencie morskim, mające charakter informacji szczególnie chronionych lub prywatnych, w tym informacji dotyczących ich stanu zdrowia – nie mogą być udostępnione przez Komisję ani organom procesowym w postępowaniu karnym, ani żadnym innym organom prowadzącym postępowanie mające na celu ustalenie odpowiedzialności lub winy.
 
 2. Udostępnienie dowodów, dokumentów, zapisów i informacji, o których mowa w ust. 1, może być dokonane wyłącznie na potrzeby postępowania przygotowawczego, sądowego, sądowo-administracyjnego lub postępowania przed izbą morską za zgodą sądu, jeżeli sąd uzna, że nadrzędny interes publiczny uzasadnia ich ujawnienie. Właściwy do rozpoznania sprawy jest Sąd Okręgowy w Gdańsku.
 
@@ -440,7 +442,7 @@ o Państwowej Komisji Badania Wypadków Morskich
 - **4)** opis okoliczności wypadku lub incydentu morskiego;
 - **5)** analizę i uwagi dotyczące czynników, które przyczyniły się do wypadku lub incydentu morskiego, w tym czynników mechanicznych, ludzkich lub organizacyjnych;
 - **6)** opis wyników przeprowadzonego badania, w tym identyfikację kwestii dotyczących bezpieczeństwa i wniosków wynikających z badania;
-- **7)** zalecenia dotyczące bezpieczeństwa, o których mowa w art. 43 ust. 1 gdy jest to uzasadnione.
+- **7)** zalecenia dotyczące bezpieczeństwa, o których mowa w art. 43 ust. 1 – gdy jest to uzasadnione.
 
 3. Komisja ogłasza raport końcowy, w terminie do 12 miesięcy od dnia wypadku lub incydentu morskiego, na swojej stronie internetowej.
 
@@ -483,7 +485,7 @@ o Państwowej Komisji Badania Wypadków Morskich
 3. Przewodniczący Komisji przesyła Międzynarodowej Organizacji Morskiej (IMO) kopię raportu końcowego z badania:
 
 - **1)** bardzo poważnego wypadku morskiego,
-- **2)** wypadku morskiego innego niż określony w pkt 1, lub incydentu morskiego, w którym zawarte są informacje mogące zapobiec lub zmniejszyć skutki wypadków lub incydentów morskich w przyszłości za pośrednictwem Światowego Zintegrowanego Systemu Informacji Żeglugowej (GISIS), stanowiącego bazę informacji w zakresie bezpieczeństwa, ochrony żeglugi i środowiska morskiego, prowadzoną przez Międzynarodową Organizację Morską (IMO).
+- **2)** wypadku morskiego innego niż określony w pkt 1, lub incydentu morskiego, w którym zawarte są informacje mogące zapobiec lub zmniejszyć skutki wypadków lub incydentów morskich w przyszłości – za pośrednictwem Światowego Zintegrowanego Systemu Informacji Żeglugowej (GISIS), stanowiącego bazę informacji w zakresie bezpieczeństwa, ochrony żeglugi i środowiska morskiego, prowadzoną przez Międzynarodową Organizację Morską (IMO).
 
 4. Przewodniczący Komisji niezwłocznie przekazuje Prezesowi Wyższego Urzędu Górniczego kopię raportu, o którym mowa w ust. 1, jeżeli dotyczy on zdarzenia związanego z działalnością polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej.
 
@@ -532,7 +534,7 @@ o Państwowej Komisji Badania Wypadków Morskich
 4. Podmiot zarządzający portem i użytkownik infrastruktury portowej, których dotyczy wypadek morski, w którego wyniku:
 
 - **1)** doszło do śmierci lub ciężkiego uszczerbku na zdrowiu człowieka lub
-- **2)** obiekty infrastruktury portowej zostały uszkodzone lub spowodowały szkodę mają obowiązek powiadomić o wypadku morskim Komisję oraz zabezpieczyć ślady i dowody dotyczące tego wypadku.
+- **2)** obiekty infrastruktury portowej zostały uszkodzone lub spowodowały szkodę – mają obowiązek powiadomić o wypadku morskim Komisję oraz zabezpieczyć ślady i dowody dotyczące tego wypadku.
 
 5. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób wykonania obowiązków armatora i kapitana statku, podmiotu zarządzającego portem oraz użytkownika infrastruktury portowej, w zakresie sposobu zabezpieczenia śladów i dowodów dotyczących wypadku lub incydentu morskiego, biorąc pod uwagę konieczność prawidłowego postępowania w przypadku zaistnienia wypadku lub incydentu morskiego.
 
@@ -540,12 +542,15 @@ o Państwowej Komisji Badania Wypadków Morskich
 
 **Art. 49.** Osoba dysponująca:
 
+- **1)** środkami łączności mogącymi pomóc w przekazaniu wiadomości dotyczącej wypadku lub incydentu morskiego,
+- **2)** środkami rejestracji obrazu lub dźwięku albo materiałami lub informacjami mogącymi pomóc w ustaleniu okoliczności i przyczyn wypadku lub incydentu morskiego – jest obowiązana udostępnić je niezwłocznie na żądanie Komisji.
+
 **Art. 50.**
 
 1. Osoba dysponująca:
 
 - **1)** informacjami związanymi z wypadkiem lub incydentem morskim pochodzącymi z map, dzienników, zapisów elektronicznych i magnetycznych oraz taśm wideo, łącznie z informacjami pochodzącymi z rejestratorów VDR lub S-VDR i innych urządzeń elektronicznych, odnoszących się do okresu przed, w trakcie i po zajściu badanego wypadku lub incydentu morskiego jest obowiązana do ich zachowania, zapobieżenia ich nadpisaniu lub innym zmianom tych informacji,
-- **2)** innymi urządzeniami niż urządzenia, o których mowa w pkt 1, które mogłyby zostać zasadnie uznane za mające związek z badaniem wypadku lub incydentu morskiego jest obowiązana do zapobieżenia ingerencji w te urządzenia do czasu poinformowania przez Komisję, że nie są one niezbędne do prowadzenia badania, nie dłużej jednak niż przez 3 miesiące od dnia zaistnienia wypadku lub incydentu morskiego.
+- **2)** innymi urządzeniami niż urządzenia, o których mowa w pkt 1, które mogłyby zostać zasadnie uznane za mające związek z badaniem wypadku lub incydentu morskiego jest obowiązana do zapobieżenia ingerencji w te urządzenia – do czasu poinformowania przez Komisję, że nie są one niezbędne do prowadzenia badania, nie dłużej jednak niż przez 3 miesiące od dnia zaistnienia wypadku lub incydentu morskiego.
 
 2. Osoby, o których mowa w ust. 1, po zaistnieniu wypadku lub incydentu morskiego niezwłocznie informują Komisję o posiadanych informacjach i urządzeniach wymienionych w ust. 1.
 
@@ -567,7 +572,7 @@ o Państwowej Komisji Badania Wypadków Morskich
 - **2)** uniemożliwia członkom Komisji korzystanie z przysługujących im uprawnień, o których mowa w art. 29 ust. 1,
 - **3)** uniemożliwia ekspertom biorącym udział w pracach Komisji lub przedstawicielom istotnie zainteresowanych państw korzystanie z przyznanych im zgodnie z art. 31 uprawnień,
 - **4)** nie udostępnia Komisji, na jej żądanie, środków, materiałów lub informacji, o których mowa w art. 49 i art. 50,
-- **5)** będąc obowiązany do powiadomienia przewodniczącego Komisji o uwzględnieniu lub o przyczynach nieuwzględnienia zaleceń wydanych przez Komisję w terminie, o którym mowa w art. 44, nie powiadomił tego organu podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
+- **5)** będąc obowiązany do powiadomienia przewodniczącego Komisji o uwzględnieniu lub o przyczynach nieuwzględnienia zaleceń wydanych przez Komisję w terminie, o którym mowa w art. 44, nie powiadomił tego organu – podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
 
 **Art. 52.** Kary pieniężne wymierza, w drodze decyzji, minister właściwy do spraw gospodarki morskiej.
 
@@ -597,22 +602,22 @@ o Państwowej Komisji Badania Wypadków Morskich
 
 1. W latach 2012–2021 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi w:
 
-- **1)** 2012 r. 1270 tys. zł;
-- **2)** 2013 r. 2310 tys. zł;
-- **3)** 2014 r. 2368 tys. zł;
-- **4)** 2015 r. 2427 tys. zł;
-- **5)** 2016 r. 2488 tys. zł;
-- **6)** 2017 r. 2550 tys. zł;
-- **7)** 2018 r. 2611 tys. zł;
-- **8)** 2019 r. 2674 tys. zł;
-- **9)** 2020 r. 2738 tys. zł;
-- **10)** 2021 r. 2803 tys. zł.
+- **1)** 2012 r. – 1270 tys. zł;
+- **2)** 2013 r. – 2310 tys. zł;
+- **3)** 2014 r. – 2368 tys. zł;
+- **4)** 2015 r. – 2427 tys. zł;
+- **5)** 2016 r. – 2488 tys. zł;
+- **6)** 2017 r. – 2550 tys. zł;
+- **7)** 2018 r. – 2611 tys. zł;
+- **8)** 2019 r. – 2674 tys. zł;
+- **9)** 2020 r. – 2738 tys. zł;
+- **10)** 2021 r. – 2803 tys. zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostaną zastosowane mechanizmy korygujące, polegające na:
 
 - **1)** wykorzystaniu innych rozwiązań technologicznych w zakresie prowadzenia przez Komisję badań wypadków lub incydentów morskich,
 - **2)** racjonalizacji wykonywania przez Komisję czynności,
-- **3)** obniżeniu kosztów zewnętrznej obsługi Komisji mając na względzie zapewnienie prawidłowego funkcjonowania Komisji i zapewnienie bezpieczeństwa żeglugi.
+- **3)** obniżeniu kosztów zewnętrznej obsługi Komisji – mając na względzie zapewnienie prawidłowego funkcjonowania Komisji i zapewnienie bezpieczeństwa żeglugi.
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmów korygujących, o których mowa w ust. 2, jest minister właściwy do spraw gospodarki morskiej.
 

@@ -8,7 +8,7 @@ pos: 632
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. K. 20/99 Trybunał Konstytucyjny w składzie: Krzysztof Kolasiński – przewodniczący Biruta Lewaszkiewicz-Petrykowska Andrzej Mączyński Ferdynand Rymarz Marian Zdyb – sprawozdawca Joanna Szymczak – protokolant po rozpoznaniu 27 czerwca 2000 r. na rozprawie sprawy z połączonych wniosków: Rady Miejskiej w Białej Podlaskiej, Rady Miejskiej w Kołobrzegu, Rady Powiatu w Drawsku Pomorskim, Rady Powiatu Gorzowskiego i Rady Gminy Żukowice z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawców, Sejmu Rzeczpospolitej Polskiej, Prezesa Rady Ministrów oraz Prokuratora Generalnego o stwierdzenie niezgodności:

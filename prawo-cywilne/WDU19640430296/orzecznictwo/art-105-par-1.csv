@@ -14,9 +14,12 @@ saos_id|date|court|case_number|type|score|saos_url
 92261|2010-05-19|SN|I CZ 19/10|Postanowienie|69|https://www.saos.org.pl/judgments/92261
 165237|2010-02-22|SN|I BP 14/09|Postanowienie|69|https://www.saos.org.pl/judgments/165237
 91412|2009-12-04|SN|III CZ 58/09|Postanowienie|69|https://www.saos.org.pl/judgments/91412
+545666|2026-02-27|SO|I ACa 2429/25|Wyrok|56|https://www.saos.org.pl/judgments/545666
 539886|2025-11-03|SO|I ACa 2075/24|Wyrok|56|https://www.saos.org.pl/judgments/539886
 536905|2025-09-29|SO|I ACa 3839/23|Wyrok|56|https://www.saos.org.pl/judgments/536905
 531443|2025-06-18|SO|III AUa 3038/20|Wyrok|56|https://www.saos.org.pl/judgments/531443
+545995|2025-03-20|SO|I ACa 476/23|Wyrok|56|https://www.saos.org.pl/judgments/545995
+545987|2025-02-26|SO|I ACa 2580/23|Wyrok|56|https://www.saos.org.pl/judgments/545987
 523435|2025-02-19|SO|III AUa 1105/21|Wyrok|56|https://www.saos.org.pl/judgments/523435
 531375|2025-01-29|SO|III AUa 268/23|Wyrok|56|https://www.saos.org.pl/judgments/531375
 531504|2024-11-22|SO|I ACa 580/23|Wyrok|56|https://www.saos.org.pl/judgments/531504
@@ -29,6 +32,7 @@ saos_id|date|court|case_number|type|score|saos_url
 518179|2024-05-15|SO|I ACa 1494/23|Wyrok|56|https://www.saos.org.pl/judgments/518179
 518178|2024-05-08|SO|I ACa 1480/23|Wyrok|56|https://www.saos.org.pl/judgments/518178
 531478|2024-04-17|SO|I ACa 1414/23|Wyrok|56|https://www.saos.org.pl/judgments/531478
+546641|2024-03-18|SO|V ACa 1181/23|Wyrok|56|https://www.saos.org.pl/judgments/546641
 531470|2024-03-14|SO|I ACa 1356/23|Wyrok|56|https://www.saos.org.pl/judgments/531470
 525879|2023-12-11|SO|I ACa 495/23|Wyrok|56|https://www.saos.org.pl/judgments/525879
 505009|2023-12-06|SO|III AUa 466/22|Wyrok|56|https://www.saos.org.pl/judgments/505009

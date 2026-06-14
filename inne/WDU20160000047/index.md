@@ -8,10 +8,10 @@ pos: 47
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 stycznia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 47 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 stycznia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/47/text.pdf) |
 
-Poz. 47 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 stycznia 2016 r.
 w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych Na podstawie art. 11m ust. 3 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r.
-Nr 178, poz. 1380, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+Nr 178, poz. 1380, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych za szkody wyrządzone w związku z:
 a) uzgadnianiem projektów budowlanych oraz projektów urządzeń przeciwpożarowych,
 b) wykonywaniem ekspertyz technicznych lub innych opracowań technicznych z zakresu ochrony przeciwpożarowej – zwanego dalej „ubezpieczeniem OC”;

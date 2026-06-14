@@ -8,7 +8,7 @@ pos: 602
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 57/5/A/2006 WYROK z dnia 17 maja 2006 r.

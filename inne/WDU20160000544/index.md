@@ -8,7 +8,7 @@ pos: 544
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego oraz niektórych innych ustaw
@@ -42,7 +42,8 @@ Art. 62ze. 1. Producent wyrobu pirotechnicznego jest obowiązany do:
 2) sporządzenia dokumentacji technicznej wyrobu pirotechnicznego;
 3) zlecenia jednostce notyfikowanej przeprowadzenia procedury oceny zgodności zgodnie z przepisami wydanymi na podstawie art. 2g ust. 2;
 4) w przypadku wykazania zgodności wyrobu pirotechnicznego z wymaganiami bezpieczeństwa, sporządzenia deklaracji zgodności i umieszczenia na nim:
-a) oznakowania CE w sposób widoczny, czytelny i trwały, czonego według wskazań tej jednostki, jeżeli numeru identyfikacyjnego nie umieściła wcześniej sama jednostka notyfikowana,
+a) oznakowania CE w sposób widoczny, czytelny i trwały,
+b) numeru identyfikacyjnego jednostki notyfikowanej zaangażowanej na etapie kontroli produkcji umieszczonego według wskazań tej jednostki, jeżeli numeru identyfikacyjnego nie umieściła wcześniej sama jednostka notyfikowana,
 c) w stosownych przypadkach znaków wskazujących na szczególne zagrożenie lub zastosowanie wyrobu pirotechnicznego,
 d) numeru rejestracyjnego identyfikującego wyrób oceniony pod względem zgodności z wymaganiami bezpieczeństwa, przydzielonego przez jednostkę notyfikowaną;
 5) umieszczenia na wyrobie pirotechnicznym etykiety, która spełnia wymagania określone w przepisach wydanych na podstawie art. 2g ust. 2 i zawiera w szczególności oznakowanie, numery i znaki, o których mowa w pkt 4, a także, jeżeli jest to możliwe, instrukcję obsługi oraz informacje dotyczące bezpieczeństwa;
@@ -59,6 +60,7 @@ d) numeru rejestracyjnego identyfikującego wyrób oceniony pod względem zgodno
 16) udostępniania informacji zawartych w rejestrze, o którym mowa w pkt 14, organom nadzoru rynku wszystkich państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej oraz ministrowi właściwemu do spraw gospodarki, na ich wniosek;
 17) przekazania rejestru, o którym mowa w pkt 14, ministrowi właściwemu do spraw gospodarki w przypadku zakończenia działalności gospodarczej za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z ministrem właściwym do spraw gospodarki po opatrzeniu bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP.
 2. Obowiązki, o których mowa w ust. 1 pkt 1–8, producent wyrobu pirotechnicznego wykonuje przed wprowadzeniem tego wyrobu do obrotu.
+Art. 62zf. 1. Importer wyrobu pirotechnicznego jest obowiązany do:
 1) wprowadzania do obrotu wyłącznie wyrobów pirotechnicznych zgodnych z wymaganiami bezpieczeństwa;
 2) w przypadku stwierdzenia niezgodności wyrobu pirotechnicznego albo powzięcia wątpliwości w tym zakresie, wprowadzenia do obrotu takiego wyrobu po zapewnieniu jego zgodności;
 3) zapewnienia, że producent tego wyrobu:
@@ -77,7 +79,7 @@ c) dołączył do wyrobu wymagane dokumenty;
 13) prowadzenia rejestru numerów rejestracyjnych wyrobów pirotechnicznych przez siebie importowanych, uwzględniającego ich nazwę handlową, typ oraz podtyp – jeżeli występuje, a także miejsce produkcji;
 14) przechowywania rejestru, o którym mowa w pkt 13, przez okres 10 lat od momentu wprowadzenia wyrobu pirotechnicznego do obrotu;
 15) udostępniania informacji zawartych w rejestrze, o którym mowa w pkt 13, organom nadzoru rynku wszystkich państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej oraz ministrowi właściwemu do spraw gospodarki, na ich wniosek;
-kończenia działalności gospodarczej za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z ministrem właściwym do spraw gospodarki po opatrzeniu bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP.
+16) przekazania rejestru, o którym mowa w pkt 13, ministrowi właściwemu do spraw gospodarki w przypadku zakończenia działalności gospodarczej za pośrednictwem środków komunikacji elektronicznej, w formacie ustalonym z ministrem właściwym do spraw gospodarki po opatrzeniu bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP.
 2. Obowiązki, o których mowa w ust. 1 pkt 3–5, importer wyrobu pirotechnicznego wykonuje przed wprowadzeniem tego wyrobu do obrotu.
 Art. 62zg. 1. Dystrybutor wyrobów pirotechnicznych działa z należytą starannością w odniesieniu do wymagań ustawy i jest obowiązany do:
 1) sprawdzenia, czy:
@@ -96,6 +98,7 @@ Art. 62zi. Na żądanie organów nadzoru rynku, o których mowa w art. 62zl, pod
 Art. 62zj. 1. Wyroby pirotechniczne niezgodne z wymaganiami ustawy mogą być prezentowane lub używane na targach, wystawach i pokazach pod warunkiem wyraźnego uwidocznienia informacji o:
 1) niezgodności wyrobu z wymaganiami ustawy;
 2) zakazie wprowadzania do obrotu lub udostępniania na rynku tego wyrobu do czasu zapewnienia zgodności z wymaganiami ustawy;
+3) nazwie i dacie targów, wystaw lub pokazów, podczas których te wyroby będą prezentowane lub używane.
 2. Wyroby pirotechniczne, o których mowa w ust. 1, mogą być prezentowane lub używane na targach, wystawach lub pokazach, jeżeli zapewnione zostały odpowiednie środki bezpieczeństwa w celu uniknięcia zagrożeń dla życia i zdrowia ludzi oraz mienia lub środowiska związanych z prezentowaniem lub używaniem tych wyrobów.
 Art. 62zk. Wyroby pirotechniczne niezgodne z wymaganiami ustawy wytworzone na potrzeby działalności badawczo-rozwojowej i testów mogą być udostępniane na rynku i używane pod warunkiem wyraźnego oznakowania wskazującego na ich niezgodność oraz zakaz wykorzystywania do innych celów niż działalność badawczo-rozwojowa i testy.
 Art. 62zl. 1. Wyroby pirotechniczne wprowadzone do obrotu podlegają kontroli organów nadzoru rynku wymienionych w ust. 2 w zakresie spełniania przez te wyroby wymagań, o których mowa w ustawie.
@@ -120,6 +123,7 @@ c) w procedurze zgodności w oparciu o pełne zapewnienie jakości (moduł H) w 
 2) datę wydania certyfikatu zgodności, o którym mowa w ust. 1, dla danego wyrobu pirotechnicznego oraz w stosownym przypadku – termin upływu ważności certyfikatu zgodności;
 3) nazwę producenta wyrobu pirotechnicznego;
 4) typ wyrobu pirotechnicznego i podtyp – jeżeli występuje;
+5) wskazanie zastosowanej procedury oceny:
 a) zgodności z typem w oparciu o wewnętrzną kontrolę produkcji oraz nadzorowaną kontrolę wyrobów w losowych odstępach czasu (moduł C2) albo
 b) zgodności z typem w oparciu o zapewnienie jakości procesu produkcji (moduł D), albo
 c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
@@ -135,13 +139,54 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 **Art. 1.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893) wprowadza się następujące zmiany:
 
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. Ustawa określa:
+- **1)** zasady wydawania oraz cofania pozwoleń na:
+    - **a)** nabywanie, przechowywanie lub używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub
+    - **b)** wytwarzanie materiałów wybuchowych metodą in situ;
+
+- **2)** zasady używania materiałów wybuchowych przeznaczonych do użytku cywilnego;
+- **3)** zasady przemieszczania materiałów wybuchowych przeznaczonych do użytku cywilnego i kontroli przemieszczania tych materiałów, z wyłączeniem wyrobów pirotechnicznych;
+- **4)** klasyfikację wprowadzanych do obrotu wyrobów pirotechnicznych oraz ograniczenia z niej wynikające;
+- **5)** obowiązki podmiotów gospodarczych związane z wprowadzaniem do obrotu lub udostępnianiem na rynku materiałów wybuchowych przeznaczonych do użytku cywilnego, w tym wyrobów pirotechnicznych, a także z wytwarzaniem materiałów wybuchowych metodą in situ;
+- **6)** obowiązki jednostek notyfikowanych związane z przydzielaniem numerów rejestracyjnych identyfikujących wyroby pirotechniczne;
+- **7)** organy nadzoru rynku prowadzące kontrole i postępowania w sprawach materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wyrobów pirotechnicznych;
+- **8)** obowiązek znakowania plastycznych materiałów wybuchowych przeznaczonych do użytku cywilnego.”;
+- **2)** w art. 2 dodaje się ust. 5 w brzmieniu: „5. Przepisów ustawy, z wyjątkiem art. 6, art. 9 ust. 9, art. 27 ust. 2, art. 37–41, art. 63 i art. 64, nie stosuje się do amunicji.”;
+- **3)** po art. 2 dodaje się art. 2a–2g w brzmieniu: „Art. 2a. Przepisów rozdziałów 5d–5f nie stosuje się do:
+- **1)** wyrobów pirotechnicznych przeznaczonych do niehandlowego wykorzystania w realizacji zadań: o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 827, z późn. zm. ), poz. 355, z późn. zm. ), poz. 1929 i 2023 oraz z 2016 r. poz. 147 i 437), o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm. ), z 2015 r. poz. 990, z późn. zm. ), o Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1340, z późn. zm. );
+    - **a)** Sił Zbrojnych Rzeczypospolitej Polskiej, o których mowa w art. 3 ust. 1–2b ustawy z dnia 21 listopada 1967 r.
+    - **b)** Policji, o których mowa w art. 1 ust. 2 i 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r.
+    - **c)** Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, o których mowa w art. 5 i art. 6 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2015 r.
+    - **d)** Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, o których mowa w art. 5 i art. 6 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253, z późn. zm. ),
+    - **e)** Centralnego Biura Antykorupcyjnego, o których mowa w art. 2 ust. 1 ustawy z dnia 9 czerwca 2006 r.
+    - **f)** Biura Ochrony Rządu, o których mowa w art. 2 ust. 1 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2014 r. poz. 170, z późn. zm. ),
+    - **g)** Straży Granicznej, o których mowa w art. 1 ust. 2–2b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm. ),
+    - **h)** Służby Celnej, o których mowa w art. 2 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U.
+    - **i)** Służby Więziennej, o których mowa w art. 2 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2014 r. poz. 1415, z późn. zm. ),
+    - **j)** Państwowej Straży Pożarnej, o których mowa w art. 1 ust. 2 ustawy z dnia 24 sierpnia 1991 r.
+
+- **2)** wyrobów pirotechnicznych przeznaczonych do niehandlowego wykorzystania przez armie obcych państw przebywające na terytorium Rzeczypospolitej Polskiej na zasadach określonych w przepisach ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz. U. z 2014 r. poz. 1077, z 2015 r. poz. 1844 oraz z 2016 r. poz. 178);
+- **3)** wyposażenia morskiego, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o wyposażeniu morskim (Dz. U. poz. 899, z 2011 r. poz. 1368 oraz z 2016 r. poz. 542);
+- **4)** wyrobów pirotechnicznych przeznaczonych do wykorzystania w przemyśle lotniczym;
+- **5)** kapiszonów przeznaczonych specjalnie do zabawek, o których mowa w przepisach wydanych na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542), dotyczących zasadniczych wymagań dla zabawek.
+
 **Art. 2b.**
 
 1. W sprawach dotyczących akredytacji, autoryzacji i notyfikacji jednostek notyfikowanych stosuje się przepisy rozdziałów 4 i 5 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
 
 2. W sprawach dotyczących funkcjonowania systemu nadzoru rynku, kontroli i postępowań administracyjnych w systemie nadzoru rynku oraz współpracy między organami nadzoru rynku a organami celnymi stosuje się przepisy rozdziału 7 i art. 96 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
 
-**Art. 2c.** W przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego, w tym wyrobów pirotechnicznych, spełniających wymagania norm zharmonizowanych lub części norm zharmonizowanych uznaje się, że te materiały i wyroby, spełniają wymagania bezpieczeństwa określone w przepisach wydanych na podstawie art. 2g, objęte tymi normami lub ich częściami. zastosowanie ma ustawa i akty unijnego prawodawstwa harmonizacyjnego, sporządza się pojedynczą deklarację zgodności zawierającą wszystkie informacje konieczne do zidentyfikowania aktów unijnego prawodawstwa harmonizacyjnego, do którego deklaracja się odnosi, wraz ze wskazaniem miejsc ich publikacji. 2. Deklarację zgodności tłumaczy na język polski podmiot gospodarczy, który wprowadził do obrotu lub udostępnił na polskim rynku materiał wybuchowy przeznaczony do użytku cywilnego lub wyrób pirotechniczny, jeżeli została ona sporządzona w innym języku. 3. Deklaracja zgodności musi być zgodna z aktualnym stanem prawnym i faktycznym. 4. Przez sporządzenie i podpisanie deklaracji zgodności producent przyjmuje na siebie odpowiedzialność za zgodność materiału wybuchowego przeznaczonego do użytku cywilnego lub wyrobu pirotechnicznego z wymaganiami ustawy.
+**Art. 2c.** W przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego, w tym wyrobów pirotechnicznych, spełniających wymagania norm zharmonizowanych lub części norm zharmonizowanych uznaje się, że te materiały i wyroby, spełniają wymagania bezpieczeństwa określone w przepisach wydanych na podstawie art. 2g, objęte tymi normami lub ich częściami.
+
+**Art. 2d.**
+
+1. Deklaracja zgodności stwierdza, że wykazano spełnienie wymagań określonych w ustawie. Jeżeli zastosowanie ma ustawa i akty unijnego prawodawstwa harmonizacyjnego, sporządza się pojedynczą deklarację zgodności zawierającą wszystkie informacje konieczne do zidentyfikowania aktów unijnego prawodawstwa harmonizacyjnego, do którego deklaracja się odnosi, wraz ze wskazaniem miejsc ich publikacji.
+
+2. Deklarację zgodności tłumaczy na język polski podmiot gospodarczy, który wprowadził do obrotu lub udostępnił na polskim rynku materiał wybuchowy przeznaczony do użytku cywilnego lub wyrób pirotechniczny, jeżeli została ona sporządzona w innym języku.
+
+3. Deklaracja zgodności musi być zgodna z aktualnym stanem prawnym i faktycznym.
+
+4. Przez sporządzenie i podpisanie deklaracji zgodności producent przyjmuje na siebie odpowiedzialność za zgodność materiału wybuchowego przeznaczonego do użytku cywilnego lub wyrobu pirotechnicznego z wymaganiami ustawy.
 
 **Art. 2e.**
 
@@ -186,6 +231,7 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 - **1)** wymagania bezpieczeństwa dotyczące projektowania i wytwarzania tych wyrobów,
 - **2)** procedury oceny zgodności tych wyrobów z zastosowaniem modułów w tych procedurach,
+- **3)** zakres dokumentacji technicznej tych wyrobów,
 - **4)** wymagania dla etykiet umieszczanych na tych wyrobach,
 - **5)** elementy deklaracji zgodności dla tych wyrobów – uwzględniając w szczególności rodzaj i stopień zagrożeń stwarzanych przez te wyroby, potrzebę zapewnienia identyfikowalności tych wyrobów oraz potrzebę zapewnienia użytkownikom tych wyrobów informacji niezbędnych dla ich bezpiecznego użytkowania.”;
 - **4)** art. 3 otrzymuje brzmienie: „Art. 3. Ilekroć w ustawie jest mowa o:
@@ -206,6 +252,7 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 - **12)** normie zharmonizowanej – należy przez to rozumieć normę zharmonizowaną w rozumieniu art. 2 pkt 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1025/2012 z dnia 25 października 2012 r. w sprawie normalizacji europejskiej, zmieniającego dyrektywy Rady 89/686/EWG i 93/15/EWG oraz dyrektywy Parlamentu Europejskiego i Rady 94/9/WE, 94/25/WE, 95/16/WE, 97/23/WE, 98/34/WE, 2004/22/WE, 2007/23/WE, 2009/23/WE i 2009/105/WE oraz uchylającego decyzję Rady 87/95/EWG i decyzję Parlamentu Europejskiego i Rady nr 1673/2006/WE (Dz. Urz. UE L 316 z 14.11.2012, str. 12), której tytuł i numer zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej;
 - **13)** ocenie zgodności – należy przez to rozumieć proces wykazujący, że zostały spełnione wymagania bezpieczeństwa dotyczące materiałów wybuchowych przeznaczonych do użytku cywilnego albo wyrobów pirotechnicznych;
 - **14)** oczyszczaniu terenów – należy przez to rozumieć działalność gospodarczą obejmującą poszukiwanie materiałów wybuchowych, wydobycie, zabezpieczenie, zniszczenie albo unieszkodliwienie znalezionych materiałów wybuchowych na lądzie lub wodach śródlądowych, lub obszarach morskich;
+- **15)** odbiorcy – należy przez to rozumieć:
     - **a)** osobę fizyczną mającą miejsce zamieszkania albo
     - **b)** osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę – na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, która odbiera materiały wybuchowe przeznaczone do użytku cywilnego, w tym amunicję, z wyłączeniem wyrobów pirotechnicznych;
 
@@ -224,7 +271,8 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 - **25)** przedsiębiorcy zagranicznym – należy przez to rozumieć przedsiębiorcę, o którym mowa w art. 5 pkt 3 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej;
 - **26)** przemieszczaniu – należy przez to rozumieć każde rzeczywiste przekazanie materiałów wybuchowych przeznaczonych do użytku cywilnego, w tym amunicji, z wyłączeniem wyrobów pirotechnicznych, w ramach państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, z wyjątkiem przekazania w obrębie jednej i tej samej lokalizacji;
 - **27)** udostępnieniu na rynku – należy przez to rozumieć dostarczenie w ramach działalności gospodarczej, odpłatnie lub nieodpłatnie, materiału wybuchowego przeznaczonego do użytku cywilnego, w tym wyrobu pirotechnicznego, w celu dystrybucji lub używania na terytorium państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
-- **28)** umowie ADR – należy przez to rozumieć Umowę europejską dotyczącą międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzoną w Genewie dnia 30 września 1957 r. (Dz. U. z 2015 r. poz. 882); pkt 21 rozporządzenia (WE) nr 765/2008;
+- **28)** umowie ADR – należy przez to rozumieć Umowę europejską dotyczącą międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzoną w Genewie dnia 30 września 1957 r. (Dz. U. z 2015 r. poz. 882);
+- **29)** unijnym prawodawstwie harmonizacyjnym – należy przez to rozumieć prawodawstwo, o którym mowa w art. 2 pkt 21 rozporządzenia (WE) nr 765/2008;
 - **30)** upoważnionym przedstawicielu – należy przez to rozumieć:
     - **a)** osobę fizyczną mającą miejsce zamieszkania albo
     - **b)** osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą siedzibę – na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, posiadającą pisemne pełnomocnictwo od producenta materiałów wybuchowych przeznaczonych do użytku cywilnego do działania w jego imieniu w określonym zakresie;
@@ -241,7 +289,8 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 - **40)** zabezpieczeniu – należy przez to rozumieć użycie środków zapobiegających wykorzystaniu materiałów wybuchowych przeznaczonych do użytku cywilnego niezgodnie z prawem lub w sposób zagrażający porządkowi publicznemu;
 - **41)** załączniku A – należy przez to rozumieć załącznik A do umowy ADR;
 - **42)** znakowaniu plastycznych materiałów wybuchowych – należy przez to rozumieć równomierne rozmieszczenie w plastycznym materiale wybuchowym materiału znakującego rozumianego jako jedna z substancji wymienionych w części 2 „Materiały znakujące” załącznika technicznego do Konwencji i dodanego w ilości wskazanej w tej części załącznika technicznego.”;
-- **5)** w art. 4a w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Materiały wybuchowe przeznaczone do użytku cywilnego na terytorium Rzeczypospolitej Polskiej, z wyłączeniem wyrobów pirotechnicznych oraz materiałów niebezpiecznych klasy 4.1, podlegają obowiązkowi:”; używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub na wytwarzanie materiałów wybuchowych metodą in situ”;
+- **5)** w art. 4a w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Materiały wybuchowe przeznaczone do użytku cywilnego na terytorium Rzeczypospolitej Polskiej, z wyłączeniem wyrobów pirotechnicznych oraz materiałów niebezpiecznych klasy 4.1, podlegają obowiązkowi:”;
+- **6)** tytuł rozdziału 2 otrzymuje brzmienie: „Zasady wydawania i cofania pozwoleń na nabywanie, przechowywanie lub używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub na wytwarzanie materiałów wybuchowych metodą in situ”;
 - **7)** w art. 9:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Nabywanie, przechowywanie, używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub wytwarzanie materiałów wybuchowych metodą in situ wymaga uzyskania pozwolenia na nabywanie, przechowywanie, używanie materiałów wybuchowych przeznaczonych do użytku cywilnego lub wytwarzanie materiałów wybuchowych metodą in situ, zwanego dalej „pozwoleniem”.”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zmiana zakresu pozwolenia wymaga uzyskania nowego pozwolenia.”,
@@ -256,7 +305,8 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
     - **b)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. W przypadku zmiany danych, o których mowa w ust. 1 pkt 2, organ dokonuje zmiany pozwolenia.”;
 
 - **10)** w art. 18:
-    - **a)** w ust. 1 pkt 6 otrzymuje brzmienie: „6) prowadzić ewidencję nabytych, zużytych, przechowywanych, przemieszczanych i zbytych materiałów wybuchowych przeznaczonych do użytku cywilnego lub znalezionych i zniszczonych materiałów wybuchowych podczas wykonywania działalności gospodarczej w zakresie oczyszczania terenów wraz ze wskazaniem nazwy producenta oraz kodu alfanumerycznego, w rozumieniu art. 23a ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, tego materiału;”, „2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób i postać prowadzenia ewidencji, o której mowa w ust. 1 pkt 6, a także wzór tej ewidencji, uwzględniając konieczność zapewnienia:
+    - **a)** w ust. 1 pkt 6 otrzymuje brzmienie: „6) prowadzić ewidencję nabytych, zużytych, przechowywanych, przemieszczanych i zbytych materiałów wybuchowych przeznaczonych do użytku cywilnego lub znalezionych i zniszczonych materiałów wybuchowych podczas wykonywania działalności gospodarczej w zakresie oczyszczania terenów wraz ze wskazaniem nazwy producenta oraz kodu alfanumerycznego, w rozumieniu art. 23a ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, tego materiału;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób i postać prowadzenia ewidencji, o której mowa w ust. 1 pkt 6, a także wzór tej ewidencji, uwzględniając konieczność zapewnienia:
 
 - **1)** pełnej rejestracji materiałów wybuchowych przeznaczonych do użytku cywilnego nabytych, zużytych, przechowywanych, przemieszczanych i zbytych, a także materiałów wybuchowych znalezionych i zniszczonych podczas wykonywania działalności gospodarczej w zakresie oczyszczania terenów;
 - **2)** identyfikacji i identyfikowalności materiałów wybuchowych przeznaczonych do użytku cywilnego.”;
@@ -285,6 +335,12 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 **Art. 25.** Do wniosku, o którym mowa w art. 24 ust. 2, należy dołączyć:
 
+- **1)** w przypadku gdy odbiorca jest przedsiębiorcą albo jednostką naukową – kopię pozwolenia albo koncesji na wytwarzanie materiałów wybuchowych przeznaczonych do użytku cywilnego albo obrót tymi materiałami;
+- **2)** w przypadku gdy odbiorca jest osobą zagraniczną albo przedsiębiorcą zagranicznym – dokument wewnątrzwspólnotowego przemieszczania materiałów wybuchowych wydany w państwie jego siedziby albo miejsca zamieszkania;
+- **3)** kopię deklaracji zgodności dla materiałów wybuchowych przeznaczonych do użytku cywilnego.”;
+- **12)** po art. 25 dodaje się art. 25a w brzmieniu: „Art. 25a. Wniosek, o którym mowa w art. 24 ust. 2, wraz załącznikami może być złożony za pośrednictwem środków komunikacji elektronicznej, po opatrzeniu bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym ePUAP, z tym że dokument wewnątrzwspólnotowego przemieszczania materiałów wybuchowych składa się wyłącznie w postaci papierowej.”;
+- **13)** art. 26–28 otrzymują brzmienie: „Art. 26. W przypadku gdy weryfikacja dokumentu wewnątrzwspólnotowego przemieszczania materiałów wybuchowych nie jest możliwa lub jest znacznie utrudniona, minister właściwy do spraw gospodarki niezwłocznie informuje Komisję Europejską.
+
 **Art. 27.**
 
 1. Zgoda, o której mowa w art. 24 ust. 1, jest wydawana po pozytywnym zweryfikowaniu wniosku, o którym mowa w art. 24 ust. 2, oraz dokumentów określonych w art. 25.
@@ -292,6 +348,37 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzór wniosku o wydanie zgody na przemieszczanie materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wzór wniosku o wydanie zgody na przemieszczanie amunicji, uwzględniając obowiązek zawarcia w nim odpowiednio elementów, o których mowa w art. 24 ust. 4 lub w art. 37 ust. 4, oraz mając na celu kompletność zawartych we wniosku informacji, ujednolicenie i ułatwienie poprawnego sporządzenia wniosku.
 
 **Art. 28.** W decyzji, o której mowa w art. 24 ust. 2, określa się:
+
+- **1)** nazwę odbiorcy materiałów wybuchowych przeznaczonych do użytku cywilnego, jego numer identyfikacji podatkowej (NIP) albo numer identyfikacyjny używany w państwie siedziby albo zamieszkania, adres jego siedziby albo miejsca zamieszkania oraz jego dane kontaktowe wraz ze wskazaniem osoby do kontaktu;
+- **2)** nazwę dostawcy materiałów wybuchowych przeznaczonych do użytku cywilnego, jego numer identyfikacji podatkowej (NIP) albo numer identyfikacyjny używany w państwie siedziby albo zamieszkania, adres jego siedziby albo miejsca zamieszkania oraz jego dane kontaktowe;
+- **3)** informację, że odbiorca posiada:
+    - **a)** pozwolenie albo koncesję na wytwarzanie materiałów wybuchowych albo obrót tymi materiałami – w przypadku przedsiębiorcy albo kierownika jednostki naukowej albo
+    - **b)** dokument wewnątrzwspólnotowego przemieszczania materiałów wybuchowych – w przypadku osoby zagranicznej albo przedsiębiorcy zagranicznego;
+
+- **4)** nazwę producenta oraz ilość przemieszczanych materiałów wybuchowych przeznaczonych do użytku cywilnego, oraz sposób ich zabezpieczenia;
+- **5)** rodzaj przemieszczanych materiałów wybuchowych przeznaczonych do użytku cywilnego przez podanie nazw handlowych, numerów rozpoznawczych ustalonych przez Organizację Narodów Zjednoczonych oraz kodów klasyfikacyjnych określonych w załączniku A;
+- **6)** informacje o zgodności materiałów wybuchowych przeznaczonych do użytku cywilnego z wymaganiami bezpieczeństwa stosowanymi przy wprowadzaniu ich do obrotu;
+- **7)** określenie środka transportu i trasy przemieszczania materiałów wybuchowych przeznaczonych do użytku cywilnego przez wskazanie miejsca wyjazdu i miejsca przybycia oraz punktów wyjazdu i wjazdu do państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej;
+- **8)** daty wjazdu i wyjazdu – jeżeli są znane.”;
+- **14)** w art. 29:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Minister właściwy do spraw gospodarki odmawia wydania zgody, o której mowa w art. 24 ust. 1, jeżeli:
+
+- **1)** wniosek, o którym mowa w art. 24 ust. 2, lub dokumenty, o których mowa w art. 25, nie zostały pozytywnie zweryfikowane;
+- **2)** uzyska informacje od właściwych organów o stwarzaniu przez wnioskodawcę zagrożenia dla obronności, bezpieczeństwa państwa, porządku publicznego lub środowiska.
+
+2. Zgodę, o której mowa w art. 24 ust. 1, cofa się jeżeli:
+
+- **1)** zostało cofnięte pozwolenie lub koncesja na wytwarzanie materiałów wybuchowych lub obrót tymi materiałami albo został cofnięty dokument wewnątrzwspólnotowego przemieszczania materiałów wybuchowych;
+- **2)** uzyskano od właściwych organów informacje o stwarzaniu przez wnioskodawcę zagrożenia dla obronności, bezpieczeństwa państwa, porządku publicznego lub środowiska.”,
+    - **b)** dodaje się ust. 5 i 6 w brzmieniu: „5. W przypadku, o którym mowa w ust. 2 pkt 2, minister właściwy do spraw gospodarki cofa wszystkie udzielone zgody, o których mowa w art. 24 ust. 1.
+
+6. W przypadku gdy minister właściwy do spraw gospodarki cofa zgodę, o której mowa w art. 24 ust. 1, z uwagi na stworzenie przez wnioskodawcę zagrożenia dla obronności, bezpieczeństwa państwa, porządku publicznego lub środowiska, informuje Komisję Europejską.”;
+
+- **15)** w art. 30 ust. 1 otrzymuje brzmienie: „1. Przewożący materiały wybuchowe przeznaczone do użytku cywilnego jest obowiązany posiadać zgodę, o której mowa w art. 24 ust. 1, i okazywać ją na żądanie organów kontroli drogowej, celnej i granicznej.”;
+- **16)** w art. 31 ust. 2 otrzymuje brzmienie: „2. Odbiorca jest obowiązany okazywać zgodę, o której mowa w art. 24 ust. 1, na każde żądanie właściwych organów.”;
+- **17)** art. 32 i art. 33 otrzymują brzmienie: „Art. 32. 1. Przemieszczający materiały wybuchowe przeznaczone do użytku cywilnego, w przypadku gdy przemieszczanie tych materiałów będzie następować tranzytem przez państwa członkowskie Unii Europejskiej, państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską, jest obowiązany zawiadomić właściwe organy tych państw o zamiarze przemieszczania materiałów wybuchowych oraz uzyskać ich zgodę.
+
+2. W przypadku gdy prawo państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej tego wymaga, odbiorca jest obowiązany przekazać informacje, o których mowa w art. 28, organowi właściwemu ze względu na siedzibę albo miejsce zamieszkania dostawcy materiałów wybuchowych przeznaczonych do użytku cywilnego albo organowi państwa, przez które będzie następować przemieszczanie tranzytem tych materiałów.
 
 **Art. 33.**
 
@@ -312,7 +399,7 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 - **2)** wskazanie adresu miejsca, do którego amunicja ma być przemieszczona;
 - **3)** określenie ilości amunicji, która ma być przemieszczona, oraz sposobu jej zabezpieczenia;
 - **4)** określenie rodzaju amunicji, która ma być przemieszczona, przez podanie numeru rozpoznawczego ustalonego przez Organizację Narodów Zjednoczonych oraz kodu klasyfikacyjnego określonego w załączniku A, a także informacje o kontroli przeprowadzonej zgodnie z umowami międzynarodowymi o wzajemnym uznawaniu znaków kontrolnych broni małokalibrowej;
-- **5)** określenie środka transportu i trasy przemieszczania amunicji przez wskazanie miejsca wyjazdu oraz punktów wyjazdu oraz wjazdu do państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego PoroSzwajcarskiej;
+- **5)** określenie środka transportu i trasy przemieszczania amunicji przez wskazanie miejsca wyjazdu oraz punktów wyjazdu oraz wjazdu do państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej;
 - **6)** datę wysyłki i datę przybycia – jeżeli są znane.
 
 5. Do wniosku, o którym mowa w ust. 3, należy dołączyć:
@@ -339,7 +426,8 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
     - **b)** pkt 1 otrzymuje brzmienie: „1) wyroby pirotechniczne widowiskowe:
     - **a)** klasa F1: wyroby, które podczas działania charakteryzują się bardzo niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także nieistotnym poziomem hałasu, przeznaczone do użytku w budynkach oraz na zamkniętym obszarze na zewnątrz budynków,
     - **b)** klasa F2: wyroby, które podczas działania charakteryzują się niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także niskim poziomem hałasu, przeznaczone do użytku na zamkniętym obszarze na zewnątrz budynków,
-    - **c)** klasa F3: wyroby, które podczas działania charakteryzują się średnim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także nieszkodliwym dla zdrowia ludzi poziomem hałasu, przeznaczone do użytku na dużych, otwartych przestrzeniach na zewnątrz budynków, i zdrowia ludzi oraz mienia i środowiska, a także nieszkodliwym dla zdrowia ludzi poziomem hałasu, określane również jako wyroby pirotechniczne widowiskowe do zastosowań profesjonalnych, przeznaczone do obsługi i użytku wyłącznie przez osoby posiadające wiedzę specjalistyczną;”,
+    - **c)** klasa F3: wyroby, które podczas działania charakteryzują się średnim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także nieszkodliwym dla zdrowia ludzi poziomem hałasu, przeznaczone do użytku na dużych, otwartych przestrzeniach na zewnątrz budynków,
+    - **d)** klasa F4: wyroby, które podczas działania charakteryzują się wysokim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska, a także nieszkodliwym dla zdrowia ludzi poziomem hałasu, określane również jako wyroby pirotechniczne widowiskowe do zastosowań profesjonalnych, przeznaczone do obsługi i użytku wyłącznie przez osoby posiadające wiedzę specjalistyczną;”,
     - **c)** pkt 3 otrzymuje brzmienie: „3) pozostałe wyroby pirotechniczne:
     - **a)** klasa P1: wyroby inne niż wyroby klas F1–F3 i T1, które podczas działania charakteryzują się niskim stopniem zagrożenia życia i zdrowia ludzi oraz mienia i środowiska,
     - **b)** klasa P2: wyroby inne niż wyroby klas F4 i T2, przeznaczone do obsługi i użytku przez osoby posiadające wiedzę specjalistyczną.”;
@@ -365,7 +453,8 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 - **5)** w przypadku gdy umieszczenie oznakowania, numeru lub znaków, o których mowa w pkt 4, nie jest możliwe ze względu na wielkość, kształt lub charakter materiału wybuchowego przeznaczonego do użytku cywilnego, umieszczenia oznakowania, numeru lub znaków na opakowaniu jednostkowym lub na dokumentach towarzyszących;
 - **6)** umieszczenia na materiale wybuchowym przeznaczonym do użytku cywilnego lub na jego opakowaniu jednoznacznego oznaczenia w rozumieniu art. 23a ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym;
-- **7)** w przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego o niskim stopniu zagrożenia, zamiast jednoznacznego oznaczenia w rozumieniu art. 23a ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, umieszczenia na materiale, a jeżeli nie jest to możliwe, na opakowaniu lub dokumentach towarzyszących, nazwy typu, numeru partii lub serii, lub innej informacji umożliwiającej identyfikację materiału oraz swojej nazwy, zarejestrowanej nazwy handlowej lub zarejestrowanego znaku towarowego, o ile taki posiada, i adresu siedziby albo miejsca zamieszkania; dane kontaktowe są podawane w języku polskim; nych bez opakowania lub na ciężarówkach z zamontowanymi pompami w celu bezpośredniego wyładowania do otworu strzałowego – umieszczenia na dokumentach towarzyszących oznakowania CE;
+- **7)** w przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego o niskim stopniu zagrożenia, zamiast jednoznacznego oznaczenia w rozumieniu art. 23a ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, umieszczenia na materiale, a jeżeli nie jest to możliwe, na opakowaniu lub dokumentach towarzyszących, nazwy typu, numeru partii lub serii, lub innej informacji umożliwiającej identyfikację materiału oraz swojej nazwy, zarejestrowanej nazwy handlowej lub zarejestrowanego znaku towarowego, o ile taki posiada, i adresu siedziby albo miejsca zamieszkania; dane kontaktowe są podawane w języku polskim;
+- **8)** w przypadku materiałów wybuchowych przeznaczonych do użytku cywilnego transportowanych i dostarczanych bez opakowania lub na ciężarówkach z zamontowanymi pompami w celu bezpośredniego wyładowania do otworu strzałowego – umieszczenia na dokumentach towarzyszących oznakowania CE;
 - **9)** znakowania plastycznych materiałów wybuchowych przeznaczonych do użytku cywilnego, z tym że znakowaniu nie podlegają plastyczne materiały wybuchowe przechowywane lub stosowane w sposób określony w części 1 ust. II lit. a–c załącznika technicznego do Konwencji;
 - **10)** dołączenia do materiału wybuchowego przeznaczonego do użytku cywilnego instrukcji obsługi oraz informacji dotyczących bezpieczeństwa, sporządzonych w jasnej, zrozumiałej i czytelnej formie, w języku polskim;
 - **11)** stosowania procedury mającej na celu zapewnienie zgodności produkcji seryjnej materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami bezpieczeństwa, w tym również w przypadku wprowadzenia zmian w projekcie i cechach charakterystycznych materiału, a także zmian w normach zharmonizowanych lub innych dokumentach określających wymagania techniczne, w odniesieniu do których jest deklarowana zgodność tego materiału;
@@ -392,6 +481,8 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 1. Upoważniony przedstawiciel producenta materiału wybuchowego przeznaczonego do użytku cywilnego działa na podstawie pisemnego pełnomocnictwa udzielonego przez producenta takiego materiału.
 
+2. Pełnomocnictwo:
+
 - **1)** obejmuje co najmniej upoważnienie do:
     - **a)** przechowywania przez okres 10 lat od dnia wprowadzenia do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, z tym że przez okres 10 lat od dnia wytworzenia materiału wybuchowego metodą in situ deklaracji zgodności oraz dokumentacji technicznej,
     - **b)** udostępniania, na żądanie organów nadzoru rynku, o których mowa w art. 62zc, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami bezpieczeństwa,
@@ -417,7 +508,8 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 - **6)** umieszczenia na materiale wybuchowym przeznaczonym do użytku cywilnego swojej nazwy, adresu siedziby albo miejsca zamieszkania, a w przypadku o którym mowa w art. 62z, zarejestrowanej nazwy handlowej lub zarejestrowanego znaku towarowego, o ile taki posiada, w języku polskim; w przypadku gdy umieszczenie na materiale wybuchowym tych danych nie jest możliwe, umieszcza się je na opakowaniu jednostkowym lub na dokumentach towarzyszących;
 - **7)** zapewnienia dołączenia do materiału wybuchowego przeznaczonego do użytku cywilnego instrukcji obsługi oraz informacji dotyczących bezpieczeństwa, w języku polskim;
 - **8)** w przypadku stwierdzenia przed wprowadzeniem do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, że materiał ten jest niezgodny z wymaganiami bezpieczeństwa i stwarza zagrożenie dla bezpieczeństwa, albo powzięcia wątpliwości w tym zakresie, poinformowania o takim materiale producenta oraz organów nadzoru rynku, o których mowa w art. 62zc ust. 4;
-- **9)** zapewnienia, że w okresie, gdy ponosi odpowiedzialność za materiał wybuchowy przeznaczony do użytku cywilnego, warunki przechowywania i transportu tego materiału nie wpływały ujemnie na zgodność materiału z wymaganiami bezpieczeństwa; okres 10 lat od dnia wprowadzenia do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, w celu udostępnienia tych dokumentów na żądanie organów nadzoru rynku;
+- **9)** zapewnienia, że w okresie, gdy ponosi odpowiedzialność za materiał wybuchowy przeznaczony do użytku cywilnego, warunki przechowywania i transportu tego materiału nie wpływały ujemnie na zgodność materiału z wymaganiami bezpieczeństwa;
+- **10)** przechowywania kopii deklaracji zgodności oraz zapewnienia dostępności dokumentacji technicznej, przez okres 10 lat od dnia wprowadzenia do obrotu materiału wybuchowego przeznaczonego do użytku cywilnego, w celu udostępnienia tych dokumentów na żądanie organów nadzoru rynku;
 - **11)** w przypadku uznania, że wprowadzony do obrotu materiał wybuchowy przeznaczony do użytku cywilnego jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie, podjęcia niezwłocznie koniecznych środków naprawczych w celu zapewnienia zgodności tego materiału lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
 - **12)** niezwłocznego informowania organów nadzoru rynku, o których mowa w art. 62zc ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których materiał wybuchowy przeznaczony do użytku cywilnego został udostępniony, o materiałach stwarzających zagrożenie dla bezpieczeństwa, przez podawanie szczegółowych informacji, w szczególności o niezgodności tych materiałów z wymaganiami ustawy oraz o środkach naprawczych podjętych w celu zapewnienia tej zgodności;
 - **13)** udostępnienia, na żądanie organów nadzoru rynku, o których mowa w art. 62zc, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami bezpieczeństwa, a w przypadku stwierdzenia, że wprowadzony do obrotu materiał stwarza zagrożenie, współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarza ten materiał.
@@ -438,7 +530,7 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 - **3)** zapewnienia, że w okresie, gdy ponosi odpowiedzialność za materiał wybuchowy przeznaczony do użytku cywilnego, warunki przechowywania i transportu tego materiału nie wpływały ujemnie na zgodność materiału z wymaganiami bezpieczeństwa;
 - **4)** w przypadku uznania, że udostępniony na rynku materiał wybuchowy przeznaczony do użytku cywilnego jest niezgodny z wymaganiami ustawy, lub powzięcia wątpliwości w tym zakresie, podjęcia niezwłocznie koniecznych środków naprawczych w celu zapewnienia zgodności tego materiału lub jego wycofania z obrotu, lub odzyskania, stosownie do okoliczności;
 - **5)** niezwłocznego informowania producenta lub importera oraz organów nadzoru rynku, o których mowa w art. 62zc ust. 4, a także organów nadzoru rynku w pozostałych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, w których materiał wybuchowy przeznaczony do użytku cywilnego został przez niego udostępniony, o materiałach stwarzających zagrożenie dla bezpieczeństwa, przez podanie szczegółowych informacji, w szczególności o niezgodności tych materiałów z wymaganiami bezpieczeństwa oraz o środkach naprawczych podjętych w celu zapewnienia tej zgodności;
-- **6)** udostępniania, na żądanie organów nadzoru rynku, o których mowa w art. 62zc, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami ustawy oraz współpracy z tymi organami obrotu niespełniające wymagań.
+- **6)** udostępniania, na żądanie organów nadzoru rynku, o których mowa w art. 62zc, informacji i dokumentów, w postaci papierowej lub elektronicznej, w języku polskim, koniecznych do wykazania zgodności materiału wybuchowego przeznaczonego do użytku cywilnego z wymaganiami ustawy oraz współpracy z tymi organami we wszelkich działaniach ukierunkowanych na usunięcie zagrożeń, jakie stwarzają materiały wprowadzone do obrotu niespełniające wymagań.
 
 2. Obowiązki, o których mowa w ust. 1 pkt 1, dystrybutor materiału wybuchowego przeznaczonego do użytku cywilnego wykonuje przed udostępnieniem tego materiału na rynku.
 
@@ -466,7 +558,8 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 - **32)** art. 64 otrzymuje brzmienie: „Art. 64. W razie skazania za przestępstwo, o którym mowa w art. 63–63c, sąd orzeka przepadek materiałów wybuchowych przeznaczonych do użytku cywilnego, amunicji lub wyrobów pirotechnicznych, a także innych przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa albo pochodzących bezpośrednio z przestępstwa, chociażby nie stanowiły one własności sprawcy.”;
 - **33)** w art. 65:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Kto uniemożliwia lub utrudnia przeprowadzenie kontroli, o której mowa w art. 22, w zakresie przechowywania, posiadania lub używania materiałów wybuchowych przeznaczonych do użytku cywilnego lub wytwarzania materiałów wybuchowych metodą in situ, podlega karze grzywny.”, „1a. Tej samej karze podlega, kto dopuszcza się czynu, o którym mowa w ust. 1, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Kto uniemożliwia lub utrudnia przeprowadzenie kontroli, o której mowa w art. 22, w zakresie przechowywania, posiadania lub używania materiałów wybuchowych przeznaczonych do użytku cywilnego lub wytwarzania materiałów wybuchowych metodą in situ, podlega karze grzywny.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Tej samej karze podlega, kto dopuszcza się czynu, o którym mowa w ust. 1, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.”,
     - **c)** ust. 2 otrzymuje brzmienie: „2. Orzekanie w sprawach o czyny określone w ust. 1 i 1a następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.”;
 
 - **34)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „Rozdział 6a Kary pieniężne
@@ -503,7 +596,11 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 2. Importer wprowadzonego do obrotu wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie zapewnienia, że na tym wyrobie umieszczona została etykieta spełniająca wymagania ustawy, a gdy nie jest to możliwe, że informacje, które powinny znajdować się na etykiecie, zostały umieszczone na opakowaniu jednostkowym lub na dokumentach towarzyszących, podlega karze pieniężnej w wysokości do 10 000 zł.
 
-3. Dystrybutor udostępnionego na rynku wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie sprawdzenia, że na tym wyrobie została umieszczona etykieta spełniająca wymagania ustawy, a gdy nie jest to możliwe, że informacje, które powinny znajdować się na etykiecie, zostały umieszczone na opakowaniu jednostkowym lub na dokumentach towarzyszących, podlega karze pieniężnej w wysokości do 10 000 zł. wybuchowego metodą in situ lub wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie sporządzenia i przechowywania:
+3. Dystrybutor udostępnionego na rynku wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie sprawdzenia, że na tym wyrobie została umieszczona etykieta spełniająca wymagania ustawy, a gdy nie jest to możliwe, że informacje, które powinny znajdować się na etykiecie, zostały umieszczone na opakowaniu jednostkowym lub na dokumentach towarzyszących, podlega karze pieniężnej w wysokości do 10 000 zł.
+
+**Art. 65f.**
+
+1. Producent materiału wybuchowego przeznaczonego do użytku cywilnego, wytwarzanego materiału wybuchowego metodą in situ lub wyrobu pirotechnicznego, który nie dopełnia obowiązków w zakresie sporządzenia i przechowywania:
 
 - **1)** dokumentacji technicznej dotyczącej tego materiału lub wyrobu lub
 - **2)** deklaracji zgodności dotyczącej tego materiału lub wyrobu – podlega karze pieniężnej w wysokości do 10 000 zł.
@@ -553,7 +650,10 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 3. Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.”;
 
-- **35)** uchyla się załącznik do ustawy. i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2012 r. poz. 1017, z 2013 r. poz. 1650 oraz z 2015 r. poz. 1893) wprowadza się następujące zmiany:
+- **35)** uchyla się załącznik do ustawy.
+
+**Art. 2.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2012 r. poz. 1017, z 2013 r. poz. 1650 oraz z 2015 r. poz. 1893) wprowadza się następujące zmiany:
+
 - **1)** w art. 23a w ust. 2 pkt 1 otrzymuje brzmienie: „1) wytworzone materiały wybuchowe są przedmiotem wywozu poza obszar Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym i są oznaczone zgodnie z przepisami kraju przeznaczenia;”;
 - **2)** art. 29a otrzymuje brzmienie: „Art. 29a. 1. Przedsiębiorca będący stroną czynności prawnej mającej za przedmiot obrót materiałami wybuchowymi do użytku cywilnego jest obowiązany prowadzić rejestr jednoznacznych oznaczeń.
 
@@ -578,7 +678,9 @@ c) zgodności z typem w oparciu o zapewnienie jakości wyrobu (moduł E);
 
 **Art. 8.**
 
-1. Wyroby pirotechniczne, wprowadzone do obrotu przed dniem wejścia w życie niniejszej ustawy i spełniające wymagania określone w przepisach ustawy zmienianej w art. 1, w dotychczasowym brzmieniu, mogą być nadal udostępniane na rynku. wymagania ustawy określone w przepisach ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 4 lipca 2013 r., mogą być nadal udostępniane na rynku.
+1. Wyroby pirotechniczne, wprowadzone do obrotu przed dniem wejścia w życie niniejszej ustawy i spełniające wymagania określone w przepisach ustawy zmienianej w art. 1, w dotychczasowym brzmieniu, mogą być nadal udostępniane na rynku.
+
+2. Wyroby pirotechniczne do pojazdów, w tym wyroby pirotechniczne w formie części zamiennych, spełniające wymagania ustawy określone w przepisach ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 4 lipca 2013 r., mogą być nadal udostępniane na rynku.
 
 **Art. 9.**
 

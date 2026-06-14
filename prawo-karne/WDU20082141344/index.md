@@ -8,7 +8,7 @@ pos: 1344
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
@@ -60,7 +60,8 @@ h) określone w celu wykonania wynikających z aktów prawnych przyjętych przez
 11) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii,
 12) orzeczenie dotyczy kary o charakterze pieniężnym niższej niż 70 euro lub niższej niż równowartość tej kwoty w innej walucie.
 Art. 611fh. § 1. Sąd rozpoznaje sprawę wykonania orzeczenia o karach o charakterze pieniężnym na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi.
-Jeżeli sprawca, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć § 2. Na obrońcę postanowienie z urzędu. sądu w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym przysługuje zażalenie.
+Jeżeli sprawca, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć
+§ 2. Na obrońcę postanowienie z urzędu. sądu w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym przysługuje zażalenie.
 § 3. Prawomocne orzeczenie o karach o charakterze pieniężnym wraz z dołączonym zaświadczeniem, o którym mowa w art. 611ff § 2, stanowi tytuł egzekucyjny i podlega wykonaniu w Rzeczypospolitej Polskiej po wydaniu postanowienia o jego wykonaniu.
 § 4. Jeżeli informacje przekazane przez państwo wydania orzeczenia nie są wystarczające do podjęcia decyzji w przedmiocie wykonania orzeczenia o karach o charakterze pieniężnym, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie.
 § 5. W razie niedotrzymania terminu, o którym mowa w § 4, postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o informacje przekazane wcześniej.
@@ -76,13 +77,60 @@ Art. 611fm. Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611f
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 101 dodaje się § 4 w brzmieniu: „§ 4. Przedawnienie karalności przestępstw określonych w art. 199 § 2 i 3, art. 200, art. 202 § 2 i 4 oraz art. 204 § 3, jak również przestępstw określonych w art. 197, art. 201, art. 202 § 3, art. 203 i art. 204 § 4, w przypadku gdy pokrzywdzonym jest małoletni – nie może nastąpić przed upływem 5 lat od ukończenia przez pokrzywdzonego 18 lat.”;
+- **2)** w art.. 114 w § 3 pkt 3 otrzymuje brzmienie: „3) do prawomocnych orzeczeń sądów lub innych organów państw obcych kończących postępowanie karne, jeżeli wynika to z wiążącej Rzeczpospolitą Polską umowy międzynarodowej.”;
+- **3)** w art. 202:
+    - **a)** po § 4a dodaje się § 4b w brzmieniu: „§ 4b. Kto produkuje, rozpowszechnia, prezentuje, przechowuje lub posiada treści pornograficzne przedstawiające wytworzony albo przetworzony wizerunek małoletniego uczestniczącego w czynności seksualnej podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.”,
+    - **b)** § 5 otrzymuje brzmienie: „§ 5. Sąd może orzec przepadek narzędzi lub innych przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstw określonych w § 1-4b, chociażby nie stanowiły własności sprawcy.”;
+
+- **4)** art. 267 otrzymuje brzmienie: „Art. 267. § 1. Kto bez uprawnienia uzyskuje dostęp do informacji dla niego nieprzeznaczonej, otwierając zamknięte pismo, podłączając się do sieci telekomunikacyjnej lub przełamując albo omijając elektroniczne, magnetyczne, informatyczne lub inne szczególne jej zabezpieczenie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+§ 2. Tej samej karze podlega, kto bez uprawnienia uzyskuje dostęp do całości lub części systemu informatycznego.
+
+§ 3. Tej samej karze podlega, kto w celu uzyskania informacji, do której nie jest uprawniony, zakłada lub posługuje się urządzeniem podsłuchowym, wizualnym albo innym urządzeniem lub oprogramowaniem.
+
+§ 4. Tej samej karze podlega, kto informację uzyskaną w sposób określony w § 1-3 ujawnia innej osobie.
+
+§ 5. Ściganie przestępstwa określonego w § 1-4 następuje na wniosek pokrzywdzonego.”;
+
+- **5)** art. 269a otrzymuje brzmienie: „Art. 269a. Kto, nie będąc do tego uprawnionym, przez transmisję, zniszczenie, usunięcie, uszkodzenie, utrudnienie dostępu lub zmianę danych informatycznych, w istotnym stopniu zakłóca pracę systemu komputerowego lub sieci teleinformatycznej, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”;
+- **6)** w art. 269b § 1 otrzymuje brzmienie: „§ 1. Kto wytwarza, pozyskuje, zbywa lub udostępnia innym osobom urządzenia lub programy komputerowe przystosowane do popełnienia przestępstwa określonego w art. 165 § 1 pkt 4, art. 267 § 3, art. 268a § 1 albo § 2 w związku z § 1, art. 269 § 2 albo art. 269a, a także hasła komputerowe, kody dostępu lub inne dane umożliwiające dostęp do informacji przechowywanych w systemie komputerowym lub sieci teleinformatycznej, podlega karze pozbawienia wolności do lat 3.”;
+- **7)** w art. 296a § 1 otrzymuje brzmienie: „§ 1. Kto, pełniąc funkcję kierowniczą w jednostce organizacyjnej wykonującej działalność gospodarczą lub pozostając z nią w stosunku pracy, umowy zlecenia lub umowy o dzieło, żąda lub przyjmuje korzyść majątkową lub osobistą albo jej obietnic ę, w zamian za nadużycie udzielonych mu uprawnień lub niedopełnienie ciążącego na nim obowiązku mogące wyrządzić tej jednostce szkodę majątkową albo stanowiące czyn nieuczciwej konkurencji lub niedopuszczalną czynność preferencyjną na rzecz nabywcy lub odbiorcy towaru, usługi lub świadczenia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”.
+
 **Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** po rozdziale 66 dodaje się rozdziały 66a i 66b w brzmieniu: „Rozdział 66a Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia dotyczącego grzywny, środków karnych w postaci nawiązki lub świadczenia pieniężnego lub też orzeczenia zasądzającego od sprawcy koszty procesu Art. 611fa. § 1. W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca grzywny lub środka karnego w postaci nawiązki lub świadczenia pieniężnego, a także w razie zasądzenia od sprawcy kosztów procesu, sąd może wystąpić o jego wykonanie bezpośrednio do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym sprawca posiada mienie lub osiąga dochody, albo ma stałe lub czasowe miejsce pobytu.
+
+§ 2. Wystąpienie, o którym mowa w § 1, każdorazowo sąd kieruje wyłącznie do jednego państwa wykonania orzeczenia. Ponowne wystąpienie do innego państwa wykonania orzeczenia może nastąpić jedynie w razie niewykonania albo częściowego wykonania orzeczenia.
+
+§ 3. Do poświadczonego za zgodność z oryginałem odpisu orzeczenia, o którym mowa w § 1, dołącza się zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.
+
+§ 4. Zaświadczenie powinno zostać przetłumaczone na język urzędowy państwa wykonania orzeczenia albo na inny język wskazany przez to państwo.
+
+§ 5. Przekazanie odpisu orzeczenia oraz zaświadczenia, o którym mowa w § 3, może nastąpić również z wykorzystaniem urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności tych dokumentów. Na żądanie właściwego sądu lub innego organu państwa wykonania orzeczenia sąd przekazuje odpis orzeczenia oraz oryginał zaświadczenia.
+
+§ 6. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania orzeczenia sąd może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej.
+
+§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 3, zawierając w nim szczegółowe informacje dotyczące przekazanego do wykonania orzeczenia, w tym informacje o każdej wpłacie dokonanej na poczet orzeczonej kary, środków karnych lub kosztów procesu oraz o ewentualnej zgodzie na zamianę grzywny na pracę społecznie użyteczną, wykonanie zastępczej kary pozbawienia wolności lub inny środek, mając na uwadze konieczność udostępnienia państwu wykonania orzeczenia wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania orzeczenia. Art. 611fb. § 1. Kwoty uzyskane z egzekucji orzeczeń, o których mowa w art. 611fa § 1, przypadają państwu wykonania orzeczenia.
+
+§ 2. Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa wykonania orzeczenia porozumienie przewidujące podział kwot uzyskanych z egzekucji orzeczeń, o których mowa w § 1.
+
+§ 3. W wypadku zawarcia porozumienia, o którym mowa w § 2, sąd wzywa właściwy sąd lub inny organ państwa wykonania orzeczenia do przekazania całości albo części wyegzekwowanej kwoty na rachunek bankowy tego sądu lub rachunek bankowy innego wskazanego podmiotu. Przekazana na rachunek sądu kwota uzyskana z egzekucji środka karnego orzeczonego na rzecz pokrzywdzonego lub innej osoby uprawnionej albo wskazanej w orzeczeniu instytucji, stowarzyszenia, fundacji lub organizacji społecznej zostaje następnie przekazana tej osobie lub podmiotowi. Art. 611fc. § 1. W razie wystąpienia o wykonanie orzeczenia, o którym mowa w art. 611fa § 1, postępowanie wykonawcze zawiesza się.
+
+§ 2. Po otrzymaniu informacji o wykonaniu orzeczenia sąd podejmuje zawieszone postępowanie i umarza je. Postępowanie umarza się również, jeżeli w stosunku do sprawcy zapadło w innym państwie członkowskim i zostało wykonane prawomocne orzeczenie co do tego samego czynu.
+
+§ 3. W razie otrzymania informacji o niemożności wykonania orzeczenia w cał ości albo części z powodów innych niż wskazane w § 2 zdanie drugie sąd podejmuje zawieszone postępowanie celem jego dalszego prowadzenia. Art. 611fd. § 1. W razie uchylenia orzeczenia na skutek kasacji albo wznowienia postępowania, darowania kary, przedawnienia jej wykonania lub też w razie wystąpienia innych okoliczności skutkujących niemożnością wykonania orzeczenia, o którym mowa w art. 611fa § 1, sąd niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania orzeczenia.
+
+§ 2. Sąd zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wykonania orzeczenia o każdej wpłacie dokonanej na poczet orzeczonej kary, środków karnych lub kosztów procesu, o których mowa w art. 611fa § 1. Art. 611fe. Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu państwa wykonania orzeczenia na posiedzeniu, w którym ma prawo wziąć udział prokurator, pokrzywdzony lub inna osoba albo podmiot uprawniony, o których mowa w art. 611fb § 3, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej i jego obrońca, jeżeli się na nie stawi. Na postanowienie sądu zażalenie nie przysługuje.
 
 #### Rozdział 66b Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia o karach o charakterze pieniężnym
 
 **Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) po art. 52 dodaje się art. 52a w brzmieniu: „Art. 52a. Przepisy niniejszego rozdziału stosuje się odpowiednio do egzekucji kar o charakterze pieniężnym, o których mowa w rozdziale 66b Kodeksu postępowania karnego.”.
 
 **Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848) wprowadza się następujące zmiany:
+
+- **1)** w art. 38 § 1 otrzymuje brzmienie: „§ 1. Do czynności procesowych prowadzonych w postępowaniu w sprawach o wykroczenia stosuje się odpowiednio także przepisy art. 95, 100 § 1 i 6 zdanie pierwsze, art. 105, 107, 108, 116-134, 136-142, 156 § 1-4, art. 157, 158, 160-166, 476 § 2 Kodeksu postępowania karnego, a gdy sąd orzeka jednoosobowo, również przepisy art. 109-114 i 115 § 1, § 2 zdanie pierwsze oraz § 3 Kodeksu postępowania karnego.”;
+- **2)** po dziale XII dodaje się dział XIIa w brzmieniu: „Dział XIIa Postępowanie w sprawach ze stosunków międzynarodowych
 
 #### Rozdział 20a Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie postanowienia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia oraz wykonanie orzeczenia sądu lub innego organu państwa członkowskiego Unii Europejskiej o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia
 
@@ -97,6 +145,9 @@ Art. 611fm. Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611f
 § 2. W postępowaniu mandatowym o wykonanie grzywny nałożonej mandatem karnym kredytowanym do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej występuje wierzyciel uprawniony według przepisów o postępowaniu egzekucyjnym w administracji.”.
 
 **Art. 5.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm. ) w art. 16 w ust. 1 wprowadza się następujące zmiany:
+
+- **1)** pkt 4 otrzymuje brzmienie: „4) przeciwko ochronie informacji, określone w art. 267-269b Kodeksu karnego;”;
+- **2)** pkt 7 otrzymuje brzmienie: „7) przeciwko wolności seksualnej i obyczajności, określone w art. 199-200, art. 202 § 3-4b i art. 203-204 Kodeksu karnego;”.
 
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

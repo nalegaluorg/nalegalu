@@ -8,10 +8,12 @@ pos: 255
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych
+
+*USTAWA z dnia 21 czerwca 1990 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,11 +29,11 @@ source: "isap-pdf"
 
 **Art. 1.**
 
-1. Jeżeli wskutek czynności prawnej lub decyzji administracyjnej przenoszącej własność lub inne prawo majątkowe na niepaństwowe osoby prawne lub osoby fizyczne osoby te uzyskały niesłusznie korzyść majątku Skarbu Państwa lub innych państwowych osób prawnych, sąd może oznaczyć sposób i wysokość wyrównania strat, a nawet rozwiązać umowę rozstrzygając o rozliczeniu między stronami.
+1. Jeżeli wskutek czynności prawnej lub decyzji administracyjnej przenoszącej własność lub inne prawo majątkowe na niepaństwowe osoby prawne lub osoby fizyczne osoby te uzyskały niesłusznie korzyść z majątku Skarbu Państwa lub innych państwowych osób prawnych, sąd może oznaczyć sposób i wysokość wyrównania strat, a nawet rozwiązać umowę rozstrzygając o rozliczeniu między stronami.
 
 2. Jeżeli ten, kto uzyskał korzyść, o której mowa w ust. 1, rozporządził tą korzyścią na rzecz osoby trzeciej pod tytułem darmym, wówczas obowiązana do wydania jest ta osoba trzecia.
 
-3. Przepis ust. 1 ma zastosowanie do czynności i decyzji administracyjnych dokonanych po wejściu w życie ustawy dnia 23 października 1987 r. o zmianie niektórych ustaw regulujących zasady funkcjonowania gospodarki narodowej (Dz.U. Nr 33, poz. 181).
+3. Przepis ust. 1 ma zastosowanie do czynności i decyzji administracyjnych dokonanych po wejściu w życie ustawy z dnia 23 października 1987 r. o zmianie niektórych ustaw regulujących zasady funkcjonowania gospodarki narodowej (Dz.U. Nr 33, poz. 181).
 
 **Art. 2.**
 
@@ -46,7 +48,11 @@ source: "isap-pdf"
     - **a)** najemca, którego interes prawny został naruszony,
     - **b)** organizacja społeczna reprezentująca tego najemcę.
 
-2. Do związków zawodowych i organów samorządu terytorialnego występujących do sądu żądaniami, o których mowa w art. 1 stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o prokuratorze.
+2. Do związków zawodowych i organów samorządu terytorialnego występujących do sądu z żądaniami, o których mowa w art. 1 stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o prokuratorze.
+
+3. Przed wystąpieniem do sądu podmioty wymienione w ust. 1 mogą zwrócić się do właściwych organów państwowych o udostępnienie materiałów, informacji i innych danych dotyczących spraw, o których mowa w art. 1.
+
+**Art. 2a.** Podmioty wymienione w art. 2 ust. 1 pkt 1-4 i pkt 6 mogą także zwrócić się do prokuratora o wystąpienie z żądaniami, o których mowa w art. 1.
 
 **Art. 3.** Sprawy określone w art. 1 rozpoznaje sąd wojewódzki właściwy ze względu na miejsce dokonania czynności prawnej lub siedzibę (miejsce zamieszkania) pozwanego.
 

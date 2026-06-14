@@ -8,10 +8,10 @@ pos: 1120
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 sierpnia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1120 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 21 lipca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001120) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1120/text.pdf) |
 
-Poz. 1120 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 21 lipca 2015 r.
-w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego „Radom” Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2015 r. poz. 858) zarządza się, co następuje: § 1. 1. Ustanawia się skład wolnocłowy na terenie Portu Lotniczego „Radom”.
+w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego „Radom” Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2015 r. poz. 858) zarządza się, co następuje:
+§ 1. 1. Ustanawia się skład wolnocłowy na terenie Portu Lotniczego „Radom”.
 2. Szczegółowy opis granic i obszar składu wolnocłowego określa załącznik do rozporządzenia.
 § 2. Zarządzającym składem wolnocłowym na terenie Portu Lotniczego „Radom” ustanawia się Gminę Miasta Radomia.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

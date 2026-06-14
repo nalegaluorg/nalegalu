@@ -8,10 +8,10 @@ pos: 123
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 stycznia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 123 Załączniki do rozporządzenia Ministra Finansów z dnia 28 grudnia 2009 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/123/text.pdf) |
 
-Wprowadzenie do sprawozdania finansowego domu maklerskiego obejmuje w szczególności:
+## Załącznik nr 1 — SPRAWOZDANIE FINANSOWE DOMU MAKLERSKIEGO Wprowadzenie do sprawozdania finansowego domu maklerskiego obejmuje w szczególności:
+
 1) nazwę (firmę) i siedzibę, wskazanie zakresu działalności domu maklerskiego wynikającego z udzielonych zezwoleń Komisji Nadzoru Finansowego oraz wskazanie właściwego sądu prowadzącego rejestr;
 2) wskazanie czasu trwania działalności domu maklerskiego, jeżeli jest ograniczony;
 3) wskazanie okresu objętego sprawozdaniem finansowym;
@@ -87,7 +88,7 @@ e) pozostałe
 4. Jednostkom podporządkowanym
 5. Pozostałe IX. Wartości niematerialne i prawne
 1. Wartość firmy
-2. Nabyte koncesje, patenty, licencje i podobne wartości, w tym: oprogramowanie komputerowe
+2. Nabyte koncesje, patenty, licencje i podobne wartości, w tym: – oprogramowanie komputerowe
 3. Inne wartości niematerialne i prawne
 4. Zaliczki na wartości niematerialne i prawne X. Rzeczowe aktywa trwałe
 1. Środki trwałe, w tym:
@@ -161,7 +162,7 @@ b) strata z lat ubiegłych (wartość ujemna)
 1. Gwarancje
 2. Kaucje, poręczenia
 3. Przyznane i niewykorzystane limity z tytułu transakcji z odroczonym terminem płatności
-4. Pozostałe II. Majątek obcy w użytkowaniu III. Kontrakty terminowe nabyte lub wystawione w imieniu i na rachunek domu maklerskiego IV. Inne pozycje pozabilansowe Rachunek zysków i strat domu maklerskiego I. Przychody z podstawowej działalności, w tym: od jednostek powiązanych
+4. Pozostałe II. Majątek obcy w użytkowaniu III. Kontrakty terminowe nabyte lub wystawione w imieniu i na rachunek domu maklerskiego IV. Inne pozycje pozabilansowe Rachunek zysków i strat domu maklerskiego I. Przychody z podstawowej działalności, w tym: – od jednostek powiązanych
 1. Przychody z działalności maklerskiej z tytułu:
 a) przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych
 b) wykonywania zleceń nabycia lub zbycia instrumentów finansowych, na rachunek dającego zlecenie
@@ -186,15 +187,15 @@ h) pozostałe
 12. Podatki i inne opłaty o charakterze publicznoprawnym
 13. Prowizje i inne opłaty
 14. Pozostałe III. Zysk (strata) z działalności podstawowej (I–II) IV. Przychody z instrumentów finansowych przeznaczonych do obrotu
-1. Dywidendy i inne udziały w zyskach, w tym: od jednostek powiązanych
-2. Odsetki, w tym: od jednostek powiązanych
+1. Dywidendy i inne udziały w zyskach, w tym: – od jednostek powiązanych
+2. Odsetki, w tym: – od jednostek powiązanych
 3. Korekty aktualizujące wartość
 4. Zysk ze sprzedaży/umorzenia
 5. Pozostałe V. Koszty z tytułu instrumentów finansowych przeznaczonych do obrotu
 1. Korekty aktualizujące wartość
 2. Strata ze sprzedaży/umorzenia
 3. Pozostałe VI. Zysk (strata) z operacji instrumentami finansowymi przeznaczonymi do obrotu (IV–V) VII. Przychody z instrumentów finansowych utrzymywanych do terminu zapadalności
-1. Odsetki, w tym: od jednostek powiązanych
+1. Odsetki, w tym: – od jednostek powiązanych
 2. Korekty aktualizujące wartość
 3. Odpis dyskonta od dłużnych papierów wartościowych
 4. Zysk ze sprzedaży/umorzenia
@@ -203,8 +204,8 @@ h) pozostałe
 2. Amortyzacja premii od dłużnych papierów wartościowych
 3. Strata ze sprzedaży/umorzenia
 4. Pozostałe IX. Zysk (strata) z operacji instrumentami finansowymi utrzymywanymi do terminu zapadalności (VII–VIII) X. Przychody z instrumentów finansowych dostępnych do sprzedaży
-1. Dywidendy i inne udziały w zyskach, w tym: od jednostek powiązanych
-2. Odsetki, w tym: od jednostek powiązanych
+1. Dywidendy i inne udziały w zyskach, w tym: – od jednostek powiązanych
+2. Odsetki, w tym: – od jednostek powiązanych
 3. Korekty aktualizujące wartość
 4. Zysk ze sprzedaży/umorzenia
 5. Odpis dyskonta od dłużnych papierów wartościowych
@@ -223,35 +224,35 @@ h) pozostałe
 3. Odpisy aktualizujące należności
 4. Odpisy aktualizujące wartość rzeczowych składników aktywów trwałych i wartości niematerialnych i prawnych
 5. Pozostałe XV. (uchylona) XVI. Zysk (strata) z działalności operacyjnej (III+VI+IX+XII+XIII–XIV+XV) XVII. Przychody finansowe
-1. Odsetki od udzielonych pożyczek, w tym: od jednostek powiązanych
-2. Odsetki od lokat i depozytów od jednostek powiązanych
+1. Odsetki od udzielonych pożyczek, w tym: – od jednostek powiązanych
+2. Odsetki od lokat i depozytów – od jednostek powiązanych
 3. Pozostałe odsetki
 4. Dodatnie różnice kursowe
 a) zrealizowane
 b) niezrealizowane
 5. Pozostałe XVIII. Koszty finansowe
-1. Odsetki od kredytów i pożyczek, w tym: dla jednostek powiązanych
+1. Odsetki od kredytów i pożyczek, w tym: – dla jednostek powiązanych
 2. Pozostałe odsetki
 3. Ujemne różnice kursowe
 a) zrealizowane
 b) niezrealizowane
-4. Pozostałe XIX. (uchylona) XX. (uchylona) XXI. (uchylona) XXII. Zysk (strata) brutto (XVI+XVII–XVIII) XXIII. Podatek dochodowy XXIV. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty) XXV. Zysk (strata) netto (XXII–XXIII–XXIV) Zestawienie zmian w kapitale (funduszu) własnym domu maklerskiego I. Kapitał (fundusz) własny na początek okresu (BO) korekty przyjętych zasad (polityki) rachunkowości korekty błędów I.a. Kapitał własny (fundusz) na początek okresu (BO), po korektach
+4. Pozostałe XIX. (uchylona) XX. (uchylona) XXI. (uchylona) XXII. Zysk (strata) brutto (XVI+XVII–XVIII) XXIII. Podatek dochodowy XXIV. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty) XXV. Zysk (strata) netto (XXII–XXIII–XXIV) Zestawienie zmian w kapitale (funduszu) własnym domu maklerskiego I. Kapitał (fundusz) własny na początek okresu (BO) – korekty przyjętych zasad (polityki) rachunkowości – korekty błędów I.a. Kapitał własny (fundusz) na początek okresu (BO), po korektach
 1. Kapitał (fundusz) podstawowy na początek okresu
 1.1. Zmiany kapitału (funduszu) podstawowego
-a) zwiększenie (z tytułu) wydania udziałów (emisji akcji) ...
-b) zmniejszenie (z tytułu) umorzenia udziałów (akcji) ...
+a) zwiększenie (z tytułu) – wydania udziałów (emisji akcji) ...
+b) zmniejszenie (z tytułu) – umorzenia udziałów (akcji) ...
 1.2. Kapitał (fundusz) podstawowy na koniec okresu
 2. (uchylona)
 3. (uchylona)
 4. Kapitał (fundusz) zapasowy na początek okresu
 4.1. Zmiany kapitału (funduszu) zapasowego
-a) zwiększenie (z tytułu) emisji akcji powyżej wartości nominalnej podziału zysku (ustawowo) podziału zysku (ponad wymaganą ustawowo minimalną wartość) ...
-b) zmniejszenie (z tytułu) pokrycia straty ...
+a) zwiększenie (z tytułu) – emisji akcji powyżej wartości nominalnej – podziału zysku (ustawowo) – podziału zysku (ponad wymaganą ustawowo minimalną wartość) ...
+b) zmniejszenie (z tytułu) – pokrycia straty ...
 4.2. Kapitał (fundusz) zapasowy na koniec okresu
-5. Kapitał (fundusz) z aktualizacji wyceny na początek okresu zmiany przyjętych zasad (polityki) rachunkowości
+5. Kapitał (fundusz) z aktualizacji wyceny na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości
 5.1. Zmiany kapitału (funduszu) z aktualizacji wyceny
 a) zwiększenie (z tytułu) ...
-b) zmniejszenie (z tytułu) sprzedaży i likwidacji środków trwałych ...
+b) zmniejszenie (z tytułu) – sprzedaży i likwidacji środków trwałych ...
 5.2. Kapitał (fundusz) z aktualizacji wyceny na koniec okresu
 6. Pozostałe kapitały (fundusze) rezerwowe na początek okresu
 6.1. Zmiany pozostałych kapitałów (funduszy) rezerwowych
@@ -259,14 +260,14 @@ a) zwiększenie (z tytułu) ...
 b) zmniejszenie (z tytułu) ...
 6.2. Pozostałe kapitały (fundusze) rezerwowe na koniec okresu
 7. Zysk (strata) z lat ubiegłych na początek okresu
-7.1. Zysk z lat ubiegłych na początek okresu zmiany przyjętych zasad (polityki) rachunkowości korekty błędów
+7.1. Zysk z lat ubiegłych na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości – korekty błędów
 7.2. Zysk z lat ubiegłych na początek okresu, po korektach
-a) zwiększenie (z tytułu) podziału zysku ...
+a) zwiększenie (z tytułu) – podziału zysku ...
 b) zmniejszenie (z tytułu) ...
 7.3. Zysk z lat ubiegłych na koniec okresu
-7.4. Strata z lat ubiegłych na początek okresu zmiany przyjętych zasad (polityki) rachunkowości korekty błędów
+7.4. Strata z lat ubiegłych na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości – korekty błędów
 7.5. Strata z lat ubiegłych na początek okresu, po korektach
-a) zwiększenie (z tytułu) przeniesienia straty z lat ubiegłych do pokrycia ...
+a) zwiększenie (z tytułu) – przeniesienia straty z lat ubiegłych do pokrycia ...
 b) zmniejszenie (z tytułu) ...
 7.6. Strata z lat ubiegłych na koniec okresu
 7.7. Zysk (strata) z lat ubiegłych na koniec okresu
@@ -324,7 +325,7 @@ c) odpisy z zysku II. Kapitał (fundusz) własny na koniec okresu (BZ) III. Kapi
 10. Wydatki na cele społecznie użyteczne
 11. Płatności zobowiązań z tytułu umów leasingu finansowego
 12. Zapłacone odsetki
-13. Pozostałe wydatki D. Przepływy pieniężne netto razem (A+/–B+/–C) E. Bilansowa zmiana stanu środków pieniężnych, w tym: zmiana stanu środków pieniężnych z tytułu różnic kursowych od walut obcych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F+/–D), w tym: o ograniczonej możliwości dysponowania Dodatkowe informacje i objaśnienia sprawozdania finansowego domu maklerskiego Dodatkowe informacje i objaśnienia obejmują w szczególności:
+13. Pozostałe wydatki D. Przepływy pieniężne netto razem (A+/–B+/–C) E. Bilansowa zmiana stanu środków pieniężnych, w tym: – zmiana stanu środków pieniężnych z tytułu różnic kursowych od walut obcych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F+/–D), w tym: – o ograniczonej możliwości dysponowania Dodatkowe informacje i objaśnienia sprawozdania finansowego domu maklerskiego Dodatkowe informacje i objaśnienia obejmują w szczególności:
 1. Przedstawienie:
 1) dokonanych od początku roku obrotowego zmian zasad (polityki) rachunkowości i metod wyceny, wraz z uzasadnieniem ich wprowadzenia, jeżeli wywierają one istotny wpływ na sprawozdanie finansowe, ze wskazaniem spowodowanej tymi zmianami różnicy w wyniku finansowym;
 2) dokonanych w stosunku do poprzedniego sprawozdania finansowego zmian sposobu sporządzania sprawozdania finansowego wraz z uzasadnieniem ich wprowadzenia i skutkami w zakresie przedstawiania sytuacji majątkowej i finansowej oraz rentowności, a także zmian w wyniku finansowym;
@@ -345,7 +346,7 @@ c) pozostałych środków pieniężnych klientów,
 d) środków pieniężnych własnych domu maklerskiego,
 e) środków pieniężnych klientów zdeponowanych na rachunkach pieniężnych w domu maklerskim oraz wpłaconych na poczet nabycia papierów wartościowych w pierwszej ofercie publicznej lub publicznym obrocie pierwotnym,
 f) środków pieniężnych przekazanych z funduszu rozliczeniowego;
-2) w odniesieniu do pozycji „należności krótko- i długoterminowe” podanie wartości: „Należności netto razem” „Odpisy aktualizujące należności” „Należności brutto razem” oraz wartości o pozostałym od dnia bilansowego okresie spłaty:
+2) w odniesieniu do pozycji „należności krótko- i długoterminowe” podanie wartości: „Należności netto – razem” „Odpisy aktualizujące należności” „Należności brutto – razem” oraz wartości o pozostałym od dnia bilansowego okresie spłaty:
 a) do 1 roku,
 b) powyżej 1 roku,
 c) należności przeterminowane;
@@ -377,12 +378,12 @@ b) pozostałe;
 10) informacje o akcjach i udziałach zaliczonych do kategorii aktywa finansowe dostępne do sprzedaży, uwzględniające:
 a) nazwy jednostek, ich siedziby i przedmiot ich działalności,
 b) wartość bilansową akcji (udziałów), procent posiadanego kapitału jednostki i udział w ogólnej liczbie głosów na walnym zgromadzeniu,
-c) w przypadku udziałów w jednostkach powiązanych dodatkowo charakter powiązania, stosowane metody konsolidacji, wartość kapitału własnego jednostki, jej wynik finansowy za rok obrotowy, nieopłaconą przez dom maklerski wartość akcji (udziałów) w kapitale podstawowym jednostki, wartość otrzymanych lub należnych dywidend (udziałów w zyskach) za rok obrotowy;
+c) w przypadku udziałów w jednostkach powiązanych – dodatkowo charakter powiązania, stosowane metody konsolidacji, wartość kapitału własnego jednostki, jej wynik finansowy za rok obrotowy, nieopłaconą przez dom maklerski wartość akcji (udziałów) w kapitale podstawowym jednostki, wartość otrzymanych lub należnych dywidend (udziałów w zyskach) za rok obrotowy;
 11) dane dotyczące rzeczowych aktywów trwałych, z podziałem na:
 a) majątek własny,
 b) majątek używany na podstawie umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, amortyzowany,
 c) wartość nieamortyzowanych lub nieumarzanych przez dom maklerski środków trwałych, używanych na podstawie umów najmu, dzierżawy i innych (np. z tytułu umów leasingu), w tym wartość gruntów użytkowanych wieczyście;
-12) szczegółowy zakres zmian wartości ujętych w bilansie grup rodzajowych środków trwałych, wartości niematerialnych i prawnych oraz instrumentów finansowych zaliczonych do kategorii aktywa finansowe utrzymywane do terminu zapadalności lub aktywa finansowe dostępne do sprzedaży, zawierający stan tych aktywów na początek okresu sprawozdawczego, zwiększenia i zmniejszenia z tytułu: aktualizacji wartości, nabycia, przemieszczeń wewnętrznych oraz stan na koniec okresu sprawozdawczego, a dla majątku amortyzowanego podobne przedstawienie stanów i tytułów zmian dotychczasowej amortyzacji (umorzenia);
+12) szczegółowy zakres zmian wartości ujętych w bilansie grup rodzajowych środków trwałych, wartości niematerialnych i prawnych oraz instrumentów finansowych zaliczonych do kategorii aktywa finansowe utrzymywane do terminu zapadalności lub aktywa finansowe dostępne do sprzedaży, zawierający stan tych aktywów na początek okresu sprawozdawczego, zwiększenia i zmniejszenia z tytułu: aktualizacji wartości, nabycia, przemieszczeń wewnętrznych oraz stan na koniec okresu sprawozdawczego, a dla majątku amortyzowanego – podobne przedstawienie stanów i tytułów zmian dotychczasowej amortyzacji (umorzenia);
 13) wykaz istotnych pozycji czynnych i biernych rozliczeń międzyokresowych;
 14) podział zobowiązań według pozycji bilansu o pozostałym na dzień bilansowy, przewidywanym umową, okresie spłaty:
 a) do 1 roku,
@@ -460,7 +461,7 @@ b) odsetki od środków pieniężnych klientów;
 a) osobę, która jest członkiem organu zarządzającego, nadzorującego lub administrującego domu maklerskiego lub jednostki z nim powiązanej, lub
 b) osobę, która jest małżonkiem lub osobą faktycznie pozostającą we wspólnym pożyciu, dzieckiem małżonka, dzieckiem osoby faktycznie pozostającej we wspólnym pożyciu, krewnym lub powinowatym do drugiego stopnia, przysposobionym lub przysposabiającym, osobą związaną z tytułu opieki lub kurateli w stosunku do którejkolwiek z osób będących członkami organu zarządzającego, nadzorującego lub administrującego domu maklerskiego lub jednostki z nim powiązanej, lub
 c) jednostkę kontrolowaną, współkontrolowaną lub inną jednostkę, na którą znaczący wpływ wywiera lub posiada w niej znaczącą ilość głosów, bezpośrednio albo pośrednio osoba, o której mowa w lit. a i b, lub
-d) jednostkę realizującą program świadczeń pracowniczych po okresie zatrudnienia, skierowany do pracowników jednostki lub jednostki powiązanej z domem maklerskim wraz z informacjami określającymi charakter tych transakcji. Informacje dotyczące poszczególnych transakcji mogą być zgrupowane według ich rodzaju, z wyjątkiem przypadku, gdy informacje na temat poszczególnych transakcji są niezbędne dla zrozumienia ich wpływu na sytuację majątkową, finansową i wynik finansowy domu maklerskiego;
+d) jednostkę realizującą program świadczeń pracowniczych po okresie zatrudnienia, skierowany do pracowników jednostki lub jednostki powiązanej z domem maklerskim – wraz z informacjami określającymi charakter tych transakcji. Informacje dotyczące poszczególnych transakcji mogą być zgrupowane według ich rodzaju, z wyjątkiem przypadku, gdy informacje na temat poszczególnych transakcji są niezbędne dla zrozumienia ich wpływu na sytuację majątkową, finansową i wynik finansowy domu maklerskiego;
 3) sumie wartości wynikających z ksiąg rachunkowych transakcji ze stronami powiązanymi, sumie ich wartości godziwych, a także wartość dodatniej i ujemnej różnicy pomiędzy wartościami wynikającymi z ksiąg rachunkowych a wartościami godziwymi;
 4) przeciętnym w roku obrotowym zatrudnieniu;
 5) wynagrodzeniu biegłego rewidenta lub podmiotu uprawnionego do badania sprawozdań finansowych, wypłaconym lub należnym za rok obrotowy odrębnie za:
@@ -492,7 +493,9 @@ c) przychody i koszty, zyski i straty oraz zmiany w kapitałach własnych połą
 9. W przypadku występowania niepewności co do możliwości kontynuowania działalności opis tych niepewności oraz stwierdzenie, że taka niepewność występuje, oraz wskazanie, czy sprawozdanie finansowe zawiera korekty z tym związane; informacja powinna zawierać również opis podejmowanych bądź planowanych przez dom maklerski działań mających na celu eliminację niepewności.
 10. W przypadku gdy informacje inne niż wymienione powyżej mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej, finansowej oraz wynik finansowy domu maklerskiego, należy ujawnić te informacje.
 Informacja dodatkowa powinna zapewnić porównywalność informacji finansowych zawartych w sprawozdaniu za okres sprawozdawczy z informacjami zawartymi w sprawozdaniu finansowym za poprzedni, analogiczny okres sprawozdawczy. Wszelkie dodatkowe informacje, niewynikające lub niezwiązane bezpośrednio z wymienionym wyżej sprawozdaniem, powinny być przedstawione w końcowej części informacji.
-Wprowadzenie do skonsolidowanego sprawozdania finansowego grupy kapitałowej domu maklerskiego obejmuje w szczególności:
+
+## Załącznik nr 2 — SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPY KAPITAŁOWEJ DOMU MAKLERSKIEGO Wprowadzenie do skonsolidowanego sprawozdania finansowego grupy kapitałowej domu maklerskiego obejmuje w szczególności:
+
 1) nazwę (firmę) i siedzibę, wskazanie zakresu działalności domu maklerskiego, wynikającego z udzielonych zezwoleń Komisji Nadzoru Finansowego, oraz wskazanie właściwego sądu prowadzącego rejestr;
 2) wykaz jednostek podporządkowanych, których dane objęte są skonsolidowanym sprawozdaniem finansowym domu maklerskiego, ze wskazaniem ich nazw (firm) i siedzib, przedmiotów działalności, udziału posiadanego przez jednostkę dominującą, wspólnika jednostki współzależnej lub znaczącego inwestora w kapitale (funduszu) podstawowym tych jednostek oraz udziału w całkowitej liczbie głosów, jeżeli jest różna od udziału w kapitale (funduszu) podstawowym;
 3) wykaz innych niż jednostki podporządkowane jednostek ze wskazaniem nazw (firm) i siedzib, w których jednostki powiązane z jednostką posiadają mniej niż 20% udziałów (akcji), z podaniem wysokości kapitału (funduszu) podstawowego tych jednostek, udziału w tym kapitale (funduszu) oraz udziału w całkowitej liczbie głosów, jeżeli jest różny od udziału w kapitale (funduszu) podstawowym i wyniku finansowym netto za ostatni rok obrotowy;
@@ -561,11 +564,11 @@ g) pozostałe VII. Należności długoterminowe
 2. Jednostkom podporządkowanym wycenianym metodą praw własności
 3. Pozostałym jednostkom IX. Wartości niematerialne i prawne
 1. Wartość firmy
-2. Nabyte koncesje, patenty, licencje i podobne wartości, w tym: oprogramowanie komputerowe
+2. Nabyte koncesje, patenty, licencje i podobne wartości, w tym: – oprogramowanie komputerowe
 3. Inne wartości niematerialne i prawne
 4. Zaliczki na wartości niematerialne i prawne X. Wartość firmy jednostek podporządkowanych
-1. Wartość firmy jednostki zależne
-2. Wartość firmy jednostki współzależne XI. Rzeczowe aktywa trwałe
+1. Wartość firmy – jednostki zależne
+2. Wartość firmy – jednostki współzależne XI. Rzeczowe aktywa trwałe
 1. Środki trwałe, w tym:
 a) grunty (w tym prawo użytkowania wieczystego gruntu)
 b) budynki i lokale
@@ -635,8 +638,8 @@ a) zysk z lat ubiegłych (wartość dodatnia)
 b) strata z lat ubiegłych (wartość ujemna)
 9. Zysk (strata) netto
 10. Odpisy z zysku netto w ciągu roku obrotowego (wielkość ujemna) VII. Kapitały (fundusze) mniejszości VIII. Ujemna wartość firmy jednostek podporządkowanych
-1. Ujemna wartość firmy jednostki zależne
-2. Ujemna wartość firmy jednostki współzależne Pasywa razem Pozycje pozabilansowe I. Zobowiązania warunkowe, w tym:
+1. Ujemna wartość firmy – jednostki zależne
+2. Ujemna wartość firmy – jednostki współzależne Pasywa razem Pozycje pozabilansowe I. Zobowiązania warunkowe, w tym:
 1. Gwarancje
 2. Kaucje, poręczenia
 3. Przyznane i niewykorzystane limity z tytułu transakcji z odroczonym terminem płatności
@@ -665,15 +668,15 @@ h) pozostałe
 12. Podatki i inne opłaty o charakterze publicznoprawnym
 13. Prowizje i inne opłaty
 14. Pozostałe III. Zysk (strata) z działalności podstawowej (I–II) IV. Przychody z instrumentów finansowych przeznaczonych do obrotu
-1. Dywidendy i inne udziały w zyskach, w tym: od jednostek powiązanych
-2. Odsetki, w tym: od jednostek powiązanych
+1. Dywidendy i inne udziały w zyskach, w tym: – od jednostek powiązanych
+2. Odsetki, w tym: – od jednostek powiązanych
 3. Korekty aktualizujące wartość
 4. Zysk ze sprzedaży/umorzenia
 5. Pozostałe V. Koszty z tytułu instrumentów finansowych przeznaczonych do obrotu
 1. Korekty aktualizujące wartość
 2. Strata ze sprzedaży/umorzenia
 3. Pozostałe VI. Zysk (strata) z operacji instrumentami finansowymi przeznaczonymi do obrotu (IV–V) VII. Przychody z instrumentów finansowych utrzymywanych do terminu zapadalności
-1. Odsetki, w tym: od jednostek powiązanych
+1. Odsetki, w tym: – od jednostek powiązanych
 2. Korekty aktualizujące wartość
 3. Odpis dyskonta od dłużnych papierów wartościowych
 4. Zysk ze sprzedaży/umorzenia
@@ -682,8 +685,8 @@ h) pozostałe
 2. Amortyzacja premii od dłużnych papierów wartościowych
 3. Strata ze sprzedaży/umorzenia
 4. Pozostałe IX. Zysk (strata) z operacji instrumentami finansowymi utrzymywanymi do terminu zapadalności (VII–VIII) X. Przychody z instrumentów finansowych dostępnych do sprzedaży
-1. Dywidendy i inne udziały w zyskach, w tym: od jednostek powiązanych
-2. Odsetki, w tym: od jednostek powiązanych
+1. Dywidendy i inne udziały w zyskach, w tym: – od jednostek powiązanych
+2. Odsetki, w tym: – od jednostek powiązanych
 3. Korekty aktualizujące wartość
 4. Zysk ze sprzedaży/umorzenia
 5. Odpis dyskonta od dłużnych papierów wartościowych
@@ -702,14 +705,14 @@ h) pozostałe
 3. Odpisy aktualizujące należności
 4. Odpisy aktualizujące wartość rzeczowych składników aktywów trwałych i wartości niematerialnych i prawnych
 5. Pozostałe XV. (uchylona) XVI. Zysk (strata) z działalności operacyjnej (III+VI+IX+XII+XIII–XIV+XV) XVII. Przychody finansowe
-1. Odsetki od udzielonych pożyczek, w tym: od jednostek powiązanych
-2. Odsetki od lokat i depozytów, w tym: od jednostek powiązanych
+1. Odsetki od udzielonych pożyczek, w tym: – od jednostek powiązanych
+2. Odsetki od lokat i depozytów, w tym: – od jednostek powiązanych
 3. Pozostałe odsetki
 4. Dodatnie różnice kursowe
 a) zrealizowane
 b) niezrealizowane
 5. Pozostałe XVIII. Koszty finansowe
-1. Odsetki od kredytów i pożyczek, w tym: dla jednostek powiązanych
+1. Odsetki od kredytów i pożyczek, w tym: – dla jednostek powiązanych
 2. Pozostałe odsetki
 3. Ujemne różnice kursowe
 a) zrealizowane
@@ -735,13 +738,13 @@ b) niezrealizowane
 2. Zbycie składników rzeczowych aktywów trwałych
 3. Z instrumentów finansowych utrzymywanych do terminu zapadalności i dostępnych do sprzedaży, w tym:
 a) w jednostkach wycenianych metodą praw własności
-b) w pozostałych jednostkach zbycie instrumentów finansowych dywidendy i udziały w zyskach spłata udzielonych pożyczek długoterminowych odsetki inne wpływy z instrumentów finansowych
+b) w pozostałych jednostkach – zbycie instrumentów finansowych – dywidendy i udziały w zyskach – spłata udzielonych pożyczek długoterminowych – odsetki – inne wpływy z instrumentów finansowych
 4. Pozostałe wpływy II. Wydatki z działalności inwestycyjnej
 1. Nabycie wartości niematerialnych i prawnych
 2. Nabycie składników rzeczowych aktywów trwałych
 3. Na instrumenty finansowe utrzymywane do terminu zapadalności i dostępne do sprzedaży, w tym:
 a) w jednostkach wycenianych metodą praw własności
-b) w pozostałych jednostkach nabycie instrumentów finansowych udzielone pożyczki długoterminowe
+b) w pozostałych jednostkach – nabycie instrumentów finansowych – udzielone pożyczki długoterminowe
 4. Dywidendy i inny udział w zyskach wypłacone udziałowcom (akcjonariuszom) mniejszościowym
 5. Pozostałe wydatki C. Przepływy pieniężne netto z działalności finansowej (I–II) I. Wpływy z działalności finansowej
 1. Zaciągnięcie długoterminowych kredytów i pożyczek
@@ -764,23 +767,23 @@ b) w pozostałych jednostkach nabycie instrumentów finansowych udzielone pożyc
 10. Wydatki na cele społecznie użyteczne
 11. Płatności zobowiązań z tytułu umów leasingu finansowego
 12. Zapłacone odsetki
-13. Pozostałe wydatki D. Przepływy pieniężne netto razem (A+/–B+/–C) E. Bilansowa zmiana stanu środków pieniężnych w tym zmiana stanu środków pieniężnych z tytułu różnic kursowych od walut obcych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F+/–D) w tym o ograniczonej możliwości dysponowania Skonsolidowane zestawienie zmian w kapitale (funduszu) własnym I. Kapitał własny na początek okresu (BO) korekty przyjętych zasad (polityki) rachunkowości korekty błędów I.a. Kapitał własny na początek okresu (BO), po korektach
+13. Pozostałe wydatki D. Przepływy pieniężne netto razem (A+/–B+/–C) E. Bilansowa zmiana stanu środków pieniężnych – w tym zmiana stanu środków pieniężnych z tytułu różnic kursowych od walut obcych F. Środki pieniężne na początek okresu G. Środki pieniężne na koniec okresu (F+/–D) – w tym o ograniczonej możliwości dysponowania Skonsolidowane zestawienie zmian w kapitale (funduszu) własnym I. Kapitał własny na początek okresu (BO) – korekty przyjętych zasad (polityki) rachunkowości – korekty błędów I.a. Kapitał własny na początek okresu (BO), po korektach
 1. Kapitał (fundusz) podstawowy na początek okresu
 1.1. Zmiany kapitału (funduszu) podstawowego
-a) zwiększenie (z tytułu) emisji akcji ...
-b) zmniejszenie (z tytułu) umorzenia akcji ...
+a) zwiększenie (z tytułu) – emisji akcji ...
+b) zmniejszenie (z tytułu) – umorzenia akcji ...
 1.2. Kapitał (fundusz) podstawowy na koniec okresu
 2. (uchylona)
 3. (uchylona)
 4. Kapitał (fundusz) zapasowy na początek okresu
 4.1. Zmiany kapitału (funduszu) zapasowego
-a) zwiększenie (z tytułu) emisji akcji powyżej wartości nominalnej podziału zysku (ustawowo) podziału zysku (ponad wymaganą ustawowo minimalną wartość) ...
-b) zmniejszenie (z tytułu) pokrycia straty ...
+a) zwiększenie (z tytułu) – emisji akcji powyżej wartości nominalnej – podziału zysku (ustawowo) – podziału zysku (ponad wymaganą ustawowo minimalną wartość) ...
+b) zmniejszenie (z tytułu) – pokrycia straty ...
 4.2. Kapitał (fundusz) zapasowy na koniec okresu
-5. Kapitał (fundusz) z aktualizacji wyceny na początek okresu zmiany przyjętych zasad (polityki) rachunkowości
+5. Kapitał (fundusz) z aktualizacji wyceny na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości
 5.1. Zmiany kapitału (funduszu) z aktualizacji wyceny
 a) zwiększenie (z tytułu) ...
-b) zmniejszenie (z tytułu) sprzedaży i likwidacji środków trwałych ...
+b) zmniejszenie (z tytułu) – sprzedaży i likwidacji środków trwałych ...
 5.2. Kapitał (fundusz) z aktualizacji wyceny na koniec okresu
 6. Pozostałe kapitały (fundusze) rezerwowe na początek okresu
 6.1. Zmiany pozostałych kapitałów (funduszy) rezerwowych
@@ -792,14 +795,14 @@ a) zwiększenia
 b) zmniejszenia
 7.1. Różnice kursowe z przeliczenia sprawozdań finansowych jednostek podporządkowanych na koniec okresu
 8. Zysk (strata) z lat ubiegłych na początek okresu
-8.1. Zysk z lat ubiegłych na początek okresu zmiany przyjętych zasad (polityki) rachunkowości korekty błędów
+8.1. Zysk z lat ubiegłych na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości – korekty błędów
 8.2. Zysk z lat ubiegłych na początek okresu, po korektach
-a) zwiększenie (z tytułu) podziału zysku ...
+a) zwiększenie (z tytułu) – podziału zysku ...
 b) zmniejszenie (z tytułu) ...
 8.3. Zysk z lat ubiegłych na koniec okresu
-8.4. Strata z lat ubiegłych na początek okresu zmiany przyjętych zasad (polityki) rachunkowości korekty błędów
+8.4. Strata z lat ubiegłych na początek okresu – zmiany przyjętych zasad (polityki) rachunkowości – korekty błędów
 8.5. Strata z lat ubiegłych na początek okresu, po korektach
-a) zwiększenie (z tytułu) przeniesienia straty z lat ubiegłych do pokrycia ...
+a) zwiększenie (z tytułu) – przeniesienia straty z lat ubiegłych do pokrycia ...
 b) zmniejszenie (z tytułu) ...
 8.6. Strata z lat ubiegłych na koniec okresu
 8.7. Zysk (strata) z lat ubiegłych na koniec okresu
@@ -820,7 +823,7 @@ kwoty innych ekspozycji na ryzyko oraz kwoty odchylenia wysokości funduszy wła
 8) informacji o wartości współczynników adekwatności kapitałowej na zasadzie skonsolidowanej (Współczynnik kapitału podstawowego Tier I, Nadwyżka/niedobór kapitału podstawowego Tier I, Współczynnik kapitału Tier I, Nadwyżka/niedobór kapitału Tier I, Łączny współczynnik kapitałowy, Nadwyżka/niedobór łącznego kapitału) na dzień bilansowy i poprzedni dzień bilansowy, wyliczonych zgodnie z rozporządzeniem 575/2013;
 9) informacji o naruszeniu współczynników adekwatności kapitałowej oraz limitu dużych ekspozycji w ciągu roku obrotowego wyliczonych na zasadzie skonsolidowanej zgodnie z rozporządzeniem 575/2013.
 2. Dane uzupełniające o aktywach i pasywach:
-1) w odniesieniu do pozycji „należności krótko- i długoterminowe” podanie wartości: „Należności netto razem” „Odpisy aktualizujące należności” „Należności brutto razem” oraz wartości o pozostałym od dnia bilansowego okresie spłaty:
+1) w odniesieniu do pozycji „należności krótko- i długoterminowe” podanie wartości: „Należności netto – razem” „Odpisy aktualizujące należności” „Należności brutto – razem” oraz wartości o pozostałym od dnia bilansowego okresie spłaty:
 a) do 1 roku,
 b) powyżej 1 roku,
 c) należności przeterminowane;
@@ -845,7 +848,7 @@ b) wartość bilansową akcji (udziałów), procent posiadanego kapitału jednos
 a) majątek własny,
 b) majątek używany na podstawie umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, amortyzowany,
 c) wartość nieamortyzowanych lub nieumarzanych przez jednostki powiązane z jednostką środków trwałych, używanych na podstawie umów najmu, dzierżawy i innych (np. z tytułu umów leasingu), w tym wartość gruntów użytkowanych wieczyście przez jednostki powiązane z jednostką;
-8) szczegółowy zakres zmian wartości ujętych w bilansie grup rodzajowych środków trwałych, wartości niematerialnych i prawnych oraz instrumentów finansowych zaliczonych do kategorii aktywa finansowe utrzymywane do terminu zapadalności lub aktywów finansowych dostępnych do sprzedaży, zawierający stan tych aktywów na początek okresu sprawozdawczego, zwiększenia i zmniejszenia z tytułu: aktualizacji wartości, nabycia, przemieszczeń wewnętrznych oraz stan na koniec okresu sprawozdawczego, a dla majątku amortyzowanego podobne przedstawienie stanów i tytułów zmian dotychczasowej amortyzacji (umorzenia);
+8) szczegółowy zakres zmian wartości ujętych w bilansie grup rodzajowych środków trwałych, wartości niematerialnych i prawnych oraz instrumentów finansowych zaliczonych do kategorii aktywa finansowe utrzymywane do terminu zapadalności lub aktywów finansowych dostępnych do sprzedaży, zawierający stan tych aktywów na początek okresu sprawozdawczego, zwiększenia i zmniejszenia z tytułu: aktualizacji wartości, nabycia, przemieszczeń wewnętrznych oraz stan na koniec okresu sprawozdawczego, a dla majątku amortyzowanego – podobne przedstawienie stanów i tytułów zmian dotychczasowej amortyzacji (umorzenia);
 9) wykaz istotnych pozycji czynnych i biernych rozliczeń międzyokresowych;
 10) podział zobowiązań według pozycji bilansu o pozostałym na dzień bilansowy, przewidywanym umową, okresie spłaty:
 a) do 1 roku,
@@ -895,7 +898,7 @@ d) jednostek podporządkowanych.
 a) osobę, która jest członkiem organu zarządzającego, nadzorującego lub administrującego domu maklerskiego lub jednostki z nim powiązanej, lub
 b) osobę, która jest małżonkiem lub osobą faktycznie pozostającą we wspólnym pożyciu, dzieckiem małżonka, dzieckiem osoby faktycznie pozostającej we wspólnym pożyciu, krewnym lub powinowatym do drugiego stopnia, przysposobionym lub przysposabiającym, osobą związaną z tytułu opieki lub kurateli w stosunku do którejkolwiek z osób będących członkami organu zarządzającego, nadzorującego lub administrującego domu maklerskiego lub jednostki z nim powiązanej, lub
 c) jednostkę kontrolowaną, współkontrolowaną lub inną jednostkę, na którą znaczący wpływ wywiera lub posiada w niej znaczącą ilość głosów, bezpośrednio albo pośrednio osoba, o której mowa w lit. a i b, lub
-d) jednostkę realizującą program świadczeń pracowniczych po okresie zatrudnienia, skierowany do pracowników jednostki lub jednostki powiązanej z jednostką wraz z informacjami określającymi charakter tych transakcji. Informacje dotyczące poszczególnych transakcji mogą być zgrupowane według ich rodzaju, z wyjątkiem przypadku, gdy informacje na temat poszczególnych transakcji są niezbędne dla zrozumienia ich wpływu na sytuację majątkową, finansową i wynik finansowy domu maklerskiego;
+d) jednostkę realizującą program świadczeń pracowniczych po okresie zatrudnienia, skierowany do pracowników jednostki lub jednostki powiązanej z jednostką – wraz z informacjami określającymi charakter tych transakcji. Informacje dotyczące poszczególnych transakcji mogą być zgrupowane według ich rodzaju, z wyjątkiem przypadku, gdy informacje na temat poszczególnych transakcji są niezbędne dla zrozumienia ich wpływu na sytuację majątkową, finansową i wynik finansowy domu maklerskiego;
 3) przeciętnym w roku obrotowym zatrudnieniu;
 4) wynagrodzeniu biegłego rewidenta lub podmiotu uprawnionego do badania sprawozdań finansowych, wypłaconym lub należnym za rok obrotowy odrębnie za:
 a) obowiązkowe badanie rocznego skonsolidowanego sprawozdania finansowego,

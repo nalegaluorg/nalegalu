@@ -8,10 +8,10 @@ pos: 1341
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 lipca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1341 RozpoRządzenie MinistRa Rozwoju, pRacy i technologii z dnia 6 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,23 +25,24 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1341/text.pdf) |
 
-RozpoRządzenie MinistRa Rozwoju, pRacy i technologii z dnia 6 lipca 2021 r.
-w sprawie osnów geodezyjnych, grawimetrycznych i magnetycznych Na podstawie art. 19 ust. 1 pkt 6 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r.
+w sprawie osnów geodezyjnych, grawimetrycznych i magnetycznych Na podstawie art. 19 ust. 1 pkt 6 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r.
 poz. 2052 oraz z 2021 r. poz. 922) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) organizację, tryb i standardy techniczne zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych;
 2) szczegółowy zakres informacji gromadzonych w bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz w bazie danych szczegółowych osnów geodezyjnych;
 3) standardy techniczne dotyczące tworzenia, aktualizacji i udostępniania baz, o których mowa w pkt 2.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) rodzaju osnowy rozumie się przez to wynik podziału osnów ze względu na ich funkcjonalność;
-2) klasie osnowy rozumie się przez to wspólną cechę, wyróżniającą punkty osnowy ze względu na dokładność ustalania położenia lub wielkości fizycznej charakterystycznej dla określonego rodzaju osnowy;
-3) punkcie osnowy rozumie się przez to punkt w terenie, oznaczony odpowiednim znakiem, dla którego wyznaczono współrzędne w państwowym systemie odniesień przestrzennych lub wielkość fizyczną charakterystyczną dla określonego rodzaju osnowy;
-4) wysokości normalnej rozumie się przez to iloraz liczby geopotencjalnej przez przeciętną wartość przyspieszenia normalnego wzdłuż linii pionu pola normalnego siły ciężkości;
-5) wysokości elipsoidalnej rozumie się przez to odległość od powierzchni elipsoidy odniesienia, mierzoną wzdłuż normalnej do tej elipsoidy.
-§ 3. Prace geodezyjne dotyczące zakładania lub utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych realizuje się pod kierownictwem osób posiadających uprawnienia zawodowe w zakresie, o którym mowa w art. 43 pkt 3 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne.
+1) rodzaju osnowy – rozumie się przez to wynik podziału osnów ze względu na ich funkcjonalność;
+2) klasie osnowy – rozumie się przez to wspólną cechę, wyróżniającą punkty osnowy ze względu na dokładność ustalania położenia lub wielkości fizycznej charakterystycznej dla określonego rodzaju osnowy;
+3) punkcie osnowy – rozumie się przez to punkt w terenie, oznaczony odpowiednim znakiem, dla którego wyznaczono współrzędne w państwowym systemie odniesień przestrzennych lub wielkość fizyczną charakterystyczną dla określonego rodzaju osnowy;
+4) wysokości normalnej – rozumie się przez to iloraz liczby geopotencjalnej przez przeciętną wartość przyspieszenia normalnego wzdłuż linii pionu pola normalnego siły ciężkości;
+5) wysokości elipsoidalnej – rozumie się przez to odległość od powierzchni elipsoidy odniesienia, mierzoną wzdłuż normalnej do tej elipsoidy.
+§ 3. Prace geodezyjne dotyczące zakładania lub utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych realizuje się pod kierownictwem osób posiadających uprawnienia zawodowe w zakresie, o którym mowa w art. 43 pkt 3 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
 § 4. Geodezyjną dokumentację techniczną sporządzoną w związku z zakładaniem lub utrzymywaniem podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych przekazuje się do właściwego organu Służby Geodezyjnej i Kartograficznej.
 § 5. 1. Punkty osnów stabilizuje się w terenie znakami w sposób zapewniający ich wieloletnią trwałość oraz możliwość wykorzystywania do pomiarów. Znak może pełnić funkcję punktu osnowy dla więcej niż jednego rodzaju osnowy.
 2. Punkt osnowy może mieć trwale stabilizowane punkty ekscentryczne, zabezpieczające funkcjonowanie tego punktu, które zalicza się do tej samej klasy osnowy.
 § 6. Standardy techniczne zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych określa załącznik nr 1 do rozporządzenia.
+§ 7. 1. Podstawowe osnowy geodezyjne, grawimetryczne i magnetyczne klasyfikuje się zgodnie z rodzajami osnów jako:
 1) podstawową osnowę geodezyjną poziomą;
 2) podstawową osnowę geodezyjną wysokościową;
 3) osnowę grawimetryczną;
@@ -52,14 +53,16 @@ poz. 2052 oraz z 2021 r. poz. 922) zarządza się, co następuje:
 § 8. 1. Punkty osnów fundamentalnych, o których mowa w § 7 ust. 2 pkt 1, przenoszą na obszar Rzeczypospolitej Polskiej europejski układ odniesienia odpowiedni dla danego rodzaju osnowy.
 2. Punkty osnów bazowych, o których mowa w § 7 ust. 2 pkt 2, rozmieszczone równomiernie na obszarze Rzeczypospolitej Polskiej, realizują układy odniesienia odpowiednie dla danego rodzaju osnowy.
 § 9. Podstawowe osnowy geodezyjne, grawimetryczne i magnetyczne zakłada się i utrzymuje, zapewniając zagęszczenie punktów określone zgodnie z załącznikiem nr 1 do rozporządzenia.
-§ 10. 1. Utrzymywanie podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych polega na przeprowadzaniu okresowych przeglądów osnów, a w razie potrzeby ich uzupełnieniu i pomiarze.
+§ 10. 1. Utrzymywanie podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych polega na przeprowadzaniu okresowych przeglądów osnów, a w razie potrzeby – ich uzupełnieniu i pomiarze.
 2. Terminy dokonywania przeglądów podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych określa się zgodnie z załącznikiem nr 1 do rozporządzenia.
+§ 11. Szczegółową osnowę geodezyjną stanowią punkty nawiązane do podstawowej osnowy geodezyjnej.
 § 12. W ramach szczegółowej osnowy geodezyjnej wyróżnia się:
 1) szczegółową osnowę geodezyjną poziomą;
 2) szczegółową osnowę geodezyjną wysokościową.
 § 13. Zagęszczenie punktów szczegółowej osnowy geodezyjnej jest uzależnione od potrzeb wynikających z rozwoju gospodarczego obszaru, przy czym nie powinno być mniejsze niż określone w załączniku nr 1 do rozporządzenia.
 § 14. 1. Utrzymywanie szczegółowych osnów geodezyjnych polega na przeprowadzaniu okresowych przeglądów tych osnów, a w razie potrzeby ich uzupełnieniu i pomiarze.
-2. Przegląd szczegółowej osnowy geodezyjnej przeprowadza się w miarę potrzeb wynikających z lokalnego rozwoju
+2. Przegląd szczegółowej osnowy geodezyjnej przeprowadza się w miarę potrzeb wynikających z lokalnego rozwoju gospodarczego.
+§ 15. 1. W bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych gromadzi się dane dotyczące punktów odpowiednich osnów oraz zbiory obserwacji wykonanych w celu wyznaczenia wartości charakterystycznych dla tych punktów wraz z wynikami ich opracowania.
 2. W bazie danych szczegółowych osnów geodezyjnych gromadzi się dane dotyczące punktów tych osnów oraz zbiory obserwacji wykonanych w celu wyznaczenia współrzędnych punktów wraz z wynikami ich opracowania.
 § 16. 1. Dane dotyczące punktów osnów gromadzone w bazie danych, o której mowa w § 15 ust. 1, obejmują co najmniej:
 1) numer;
@@ -68,21 +71,23 @@ poz. 2052 oraz z 2021 r. poz. 922) zarządza się, co następuje:
 4) opisy topograficzne;
 5) typ stabilizacji;
 6) stan znaku;
-7) błędy średnie współrzędnych płaskich prostokątnych po wyrównaniu w przypadku osnowy geodezyjnej poziomej;
-8) błędy średnie wysokości po wyrównaniu w przypadku osnowy geodezyjnej wysokościowej;
-9) wartość przyspieszenia siły ciężkości w przypadku osnowy grawimetrycznej;
-10) wartości elementów pola magnetycznego Ziemi w przypadku osnowy magnetycznej.
+7) błędy średnie współrzędnych płaskich prostokątnych po wyrównaniu – w przypadku osnowy geodezyjnej poziomej;
+8) błędy średnie wysokości po wyrównaniu – w przypadku osnowy geodezyjnej wysokościowej;
+9) wartość przyspieszenia siły ciężkości – w przypadku osnowy grawimetrycznej;
+10) wartości elementów pola magnetycznego Ziemi – w przypadku osnowy magnetycznej.
 2. Dane dotyczące punktów osnów gromadzone w bazie danych, o której mowa w § 15 ust. 2, obejmują co najmniej:
 1) numer;
 2) współrzędne płaskie prostokątne (x, y) w układzie PL-2000 z podaniem oznaczenia układu odniesienia oraz wysokość normalną (H) z podaniem oznaczenia układu wysokościowego, jeżeli została wyznaczona;
 3) opisy topograficzne;
 4) typ stabilizacji;
 5) stan znaku;
-6) błędy średnie współrzędnych płaskich prostokątnych po wyrównaniu w przypadku osnowy poziomej;
-7) błędy średnie wysokości po wyrównaniu w przypadku osnowy wysokościowej.
+6) błędy średnie współrzędnych płaskich prostokątnych po wyrównaniu – w przypadku osnowy poziomej;
+7) błędy średnie wysokości po wyrównaniu – w przypadku osnowy wysokościowej.
 3. Typy stabilizacji, o których mowa w ust. 1 pkt 5 i ust. 2 pkt 4, a także oznaczenia stanu znaku, o których mowa w ust. 1 pkt 6 i ust. 2 pkt 5, określa się zgodnie z załącznikiem nr 1 do rozporządzenia.
+§ 17. Tworzenie i aktualizację baz danych, o których mowa w § 15 ust. 1 i 2, realizuje się na podstawie geodezyjnej dokumentacji technicznej, o której mowa w § 4, a także dokumentacji geodezyjnej będącej w posiadaniu właściwego organu Służby Geodezyjnej i Kartograficznej. Aktualizacja może być realizowana także na podstawie informacji o stanie znaku geodezyjnego, grawimetrycznego lub magnetycznego sprawdzonej przez właściwy organ Służby Geodezyjnej i Kartograficznej.
 § 18. Udostępnianie informacji lub danych z baz danych, o których mowa w § 15 ust. 1 i 2, odbywa się z wykorzystaniem usług sieciowych i portali internetowych.
 § 19. Standardy techniczne udostępniania informacji lub danych z baz danych, o których mowa w § 15 ust. 1 i 2, z wykorzystaniem usług sieciowych, o których mowa w § 18, określa załącznik nr 2 do rozporządzenia.
+§ 20. 1. Baza danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych utworzona na podstawie dotychczasowych przepisów staje się bazą danych, o której mowa w § 15 ust. 1, z zachowaniem dotychczasowej numeracji punktów.
 2. Bazy danych szczegółowych osnów geodezyjnych utworzone na podstawie dotychczasowych przepisów stają się bazami danych, o których mowa w § 15 ust. 2, z zachowaniem dotychczasowej numeracji punktów.
 § 21. Właściwy organ Służby Geodezyjnej i Kartograficznej w ciągu 3 miesięcy od dnia wejścia w życie rozporządzenia dostosowuje dane w zakresie typu stabilizacji do wymagań określonych w załączniku nr 1 do rozporządzenia.
 § 22. Rozporządzenie wchodzi w życie z dniem 31 lipca 2021 r.
@@ -106,27 +111,27 @@ Minister Rozwoju, Pracy i Technologii: J. Gowin STANDARDy TECHNICZNE ZAKłADANIA
 7. Wyrównanie wyników pomiarów niwelacji satelitarnej wykonuje się, wykorzystując różnice wysokości normalnych uzyskane z przeliczenia wysokości elipsoidalnych, z uwzględnieniem obowiązującego modelu quasigeoidy lub informacji o ziemskim polu siły ciężkości.
 8. Instrumenty i przymiary używane przy zakładaniu i utrzymaniu podstawowej osnowy geodezyjnej wysokościowej powinny mieć przeprowadzone podstawowe i okresowe badania techniczne i wyznaczone poprawki komparacyjne.
 1. Osnowę grawimetryczną tworzą punkty wyznaczeń absolutnych, dla których wartość przyspieszenia siły ciężkości została określona z błędem średnim nie większym niż:
-1) 4,0 x 10 m/s dla punktów klasy fundamentalnej osnowy grawimetrycznej;
-2) 1,0 x 10 m/s dla punktów klasy bazowej osnowy grawimetrycznej.
+1) 4,0 x 10 m/s – dla punktów klasy fundamentalnej osnowy grawimetrycznej;
+2) 1,0 x 10 m/s – dla punktów klasy bazowej osnowy grawimetrycznej.
 2. Punkty osnowy grawimetrycznej stabilizuje się trwałym znakiem, którego dolna część znajduje się poniżej strefy przemarzania gruntu.
 3. Współrzędne poziome punktu osnowy grawimetrycznej wyznacza się z dokładnością zapewniającą średni błąd położenia nieprzekraczający 0,1 m względem osnowy geodezyjnej poziomej.
 4. Wysokość punktu osnowy grawimetrycznej wyznacza się z dokładnością nie mniejszą niż 0,01 m względem podstawowej osnowy geodezyjnej wysokościowej.
 5. Pomiary przyspieszenia siły ciężkości redukuje się na poziom znaku pomiarowego z wykorzystaniem rzeczywistego gradientu pionowego, uwzględniając poprawki: pływową litosferyczną, pływową oceaniczną, barometryczną, ze względu na zmiany położenia bieguna ziemskiego oraz poprawki instrumentalne.
-6. Przy wykonywaniu pomiarów statycznych wzorcowe wartości różnic przyspieszenia siły ciężkości wyznacza się na co najmniej trzech przęsłach grawimetrycznych baz kalibracyjnych: Frombork Kasprowy Wierch lub Koszalin Śnieżka.
+6. Przy wykonywaniu pomiarów statycznych wzorcowe wartości różnic przyspieszenia siły ciężkości wyznacza się na co najmniej trzech przęsłach grawimetrycznych baz kalibracyjnych: Frombork – Kasprowy Wierch lub Koszalin – Śnieżka.
 7. Grawimetry absolutne wykorzystywane do pomiaru osnowy grawimetrycznej mają mieć wyznaczone poprawki względem międzynarodowego poziomu odniesienia grawimetrycznego poprzez udział w kampanii porównawczej grawimetrów absolutnych lub na punkcie referencyjnym międzynarodowego układu odniesienia grawimetrycznego.
 1. Klasę fundamentalną osnowy magnetycznej tworzą magnetyczne punkty wiekowe, na których wyznaczono trzy elementy pola magnetycznego Ziemi:
-1) moduł wektora natężenia pola magnetycznego z błędem średnim nie większym niż 5 nT;
-2) deklinację magnetyczną z błędem średnim nie większym niż 0,5′;
-3) inklinację magnetyczną z błędem średnim nie większym niż 0,3′.
+1) moduł wektora natężenia pola magnetycznego – z błędem średnim nie większym niż 5 nT;
+2) deklinację magnetyczną – z błędem średnim nie większym niż 0,5′;
+3) inklinację magnetyczną – z błędem średnim nie większym niż 0,3′.
 2. Klasę bazową osnowy magnetycznej tworzą punkty krajowego zdjęcia magnetycznego, na których wyznaczono co najmniej deklinację magnetyczną z błędem średnim nie większym niż 2,0’.
 3. W przypadku pomiaru wartości natężenia pola magnetycznego i inklinacji magnetycznej na punktach klasy bazowej osnowy magnetycznej, błędy średnie wyznaczenia tych wartości nie powinny być większe niż:
 1) 5 nT dla modułu wektora natężenia pola magnetycznego;
 2) 1,0′ dla inklinacji magnetycznej.
 4. Punkty osnowy magnetycznej stabilizuje się znakiem amagnetycznym.
 5. Punkty osnowy magnetycznej należy sytuować w miejscach oddalonych od obszarów zurbanizowanych, przy czym punkty powinny być oddalone od obiektów mogących zakłócać ziemskie pole magnetyczne na odległość co najmniej:
-1) od kolejowej trakcji elektrycznej o 5 km;
-2) od elektroenergetycznych linii wysokiego napięcia o 0,5 km;
-3) od budynków o 0,1 km.
+1) od kolejowej trakcji elektrycznej – o 5 km;
+2) od elektroenergetycznych linii wysokiego napięcia – o 0,5 km;
+3) od budynków – o 0,1 km.
 6 Bezwzględny gradient horyzontalny pola magnetycznego w miejscu założenia punktu osnowy magnetycznej nie powinien przekraczać 5 nT na 10 m.
 7. Współrzędne poziome punktu osnowy magnetycznej wyznacza się z dokładnością zapewniającą średni błąd położenia nieprzekraczający 0,1 m względem osnowy geodezyjnej poziomej.
 8. Wysokość punktu osnowy magnetycznej wyznacza się z dokładnością nie mniejszą niż 0,1 m w nawiązaniu do punktów podstawowej lub szczegółowej osnowy geodezyjnej wysokościowej.
@@ -165,7 +170,7 @@ Minister Rozwoju, Pracy i Technologii: J. Gowin STANDARDy TECHNICZNE ZAKłADANIA
 3. Błąd wyznaczenia wysokości punktów szczegółowej osnowy geodezyjnej wysokościowej nie powinien być większy niż 0,01 m względem podstawowej osnowy geodezyjnej wysokościowej.
 4. Współrzędne poziome punktów szczegółowej osnowy geodezyjnej wysokościowej wyznacza się z dokładnością zapewniającą średni błąd położenia nieprzekraczający 0,1 m względem osnowy geodezyjnej poziomej.
 5. W przypadku pomiaru metodą niwelacji geometrycznej elementami konstrukcyjnymi sieci są linie niwelacyjne składające się z odcinków niwelacyjnych.
-6. Długości linii niwelacyjnych nie powinny przekraczać 18 km, a na terenach zurbanizowanych 6 km.
+6. Długości linii niwelacyjnych nie powinny przekraczać 18 km, a na terenach zurbanizowanych – 6 km.
 7. Długości odcinków niwelacyjnych powinny wynosić od 0,5 km do 1,0 km, a na terenach niezurbanizowanych nie powinny przekraczać 5 km.
 8. Odcinki niwelacyjne mierzy się dwukrotnie: w kierunku głównym i w kierunku powrotnym tym samym kompletem sprzętu, przy czym:
 1) liczba stanowisk niwelatora powinna być parzysta;
@@ -177,8 +182,8 @@ Minister Rozwoju, Pracy i Technologii: J. Gowin STANDARDy TECHNICZNE ZAKłADANIA
 3) wyrównanie wyników pomiarów w sposób określony w rozdziale 3 ust. 7.
 10. Punkty szczegółowej osnowy geodezyjnej wysokościowej stabilizuje się, wykorzystując jeden z następujących rodzajów znaków:
 1) naziemny, w którym właściwy punkt wysokościowy znajduje się nad powierzchnią gruntu, a jego dolna część znajduje się poniżej strefy przemarzania gruntu;
-2) ścienny w postaci metalowego bolca osadzonego w ścianie budowli, której fundamenty sięgają poniżej strefy przemarzania gruntu gwarantując jego stabilność;
-3) na budowli w postaci masztu stacji referencyjnej.
+2) ścienny – w postaci metalowego bolca osadzonego w ścianie budowli, której fundamenty sięgają poniżej strefy przemarzania gruntu gwarantując jego stabilność;
+3) na budowli – w postaci masztu stacji referencyjnej.
 11. Znaki naziemne osadza się co najmniej na 3 miesiące przed rozpoczęciem pomiaru. Znaki ścienne osadza się co najmniej na 7 dni przed rozpoczęciem pomiaru.
 12. Stabilność punktu nawiązania sieci niwelacyjnej powinna być sprawdzona przez wykonanie pomiaru kontrolnego pomiędzy tym punktem a najbliższym dostępnym punktem podstawowej osnowy geodezyjnej wysokościowej. Średni błąd pomiaru kontrolnego nie powinien być większy niż 4 mm/km.
 13. Odchyłka zamknięcia poligonu niwelacyjnego, wyznaczona z wartości pomierzonych, nie powinna być większa niż 6√F mm, gdzie F określa długość obwodu poligonu w km.
@@ -191,22 +196,22 @@ Minister Rozwoju, Pracy i Technologii: J. Gowin STANDARDy TECHNICZNE ZAKłADANIA
 2. Numeracja punktów podstawowej osnowy geodezyjnej poziomej, podstawowej osnowy geodezyjnej wysokościowej, osnowy grawimetrycznej i osnowy magnetycznej odbywa się w sekcjach mapy topograficznej w układzie PL-1992 w skali 1:50 000 w następujący sposób:
 1) pierwszy człon numeru punktu składający się z 7 znaków określa godło arkusza mapy topograficznej w układzie PL-1992 w skali 1:50 000, w którym punkt jest położony, z pominięciem występujących w godle myślników,
 2) drugi człon numeru punktu składa się z oznaczenia rodzaju osnowy odpowiednio:
-a) P punkt podstawowej osnowy geodezyjnej poziomej,
-b) H punkt podstawowej osnowy geodezyjnej wysokościowej,
-c) G punkt osnowy grawimetrycznej,
-d) M punkt osnowy magnetycznej,
+a) P – punkt podstawowej osnowy geodezyjnej poziomej,
+b) H – punkt podstawowej osnowy geodezyjnej wysokościowej,
+c) G – punkt osnowy grawimetrycznej,
+d) M – punkt osnowy magnetycznej,
 3) trzeci człon numeru punktu oznacza klasę osnowy:
-a) F fundamentalna,
-b) B bazowa,
+a) F – fundamentalna,
+b) B – bazowa,
 4) czwarty człon numeru punktu oznacza kolejny numer punktu w ramach arkusza mapy wykorzystanego w pierwszym członie i przyjmuje wartość z zakresu 001–999,
-5) piąty człon numeru punktu oznacza kolejność punktu w zespole, przy czym centr punktu oznacza się zawsze cyfrą 0 przy czym pierwszy i drugi człon numeru rozdziela się myślnikiem.
+5) piąty człon numeru punktu oznacza kolejność punktu w zespole, przy czym centr punktu oznacza się zawsze cyfrą 0 – przy czym pierwszy i drugi człon numeru rozdziela się myślnikiem.
 3. Numeracja punktów szczegółowej osnowy geodezyjnej odbywa się w sekcjach mapy topograficznej w układzie PL-1992 w skali 1:10 000 w następujący sposób:
-1) pierwszy człon numeru punktu składający się z 9 znaków określa godło arkusza mapy topograficznej w układzie
+1) pierwszy człon numeru punktu składający się z 9 znaków określa godło arkusza mapy topograficznej w układzie PL-1992 w skali 1:10 000, w którym punkt jest położony, z pominięciem występujących w godle myślników,
 2) drugi człon numeru punktu składa się z oznaczenia osnowy odpowiednio:
-a) SP dla punktów szczegółowej osnowy geodezyjnej poziomej,
-b) SH dla punktów szczegółowej osnowy geodezyjnej wysokościowej,
+a) SP – dla punktów szczegółowej osnowy geodezyjnej poziomej,
+b) SH – dla punktów szczegółowej osnowy geodezyjnej wysokościowej,
 3) trzeci człon numeru punktu oznacza kolejny numer punktu w ramach arkusza mapy wykorzystanego w pierwszym członie i przyjmuje wartość z zakresu 1000–9999,
-4) czwarty człon numeru punktu oznacza kolejność punktu w zespole, przy czym centr punktu oznacza się zawsze cyfrą 0 przy czym pierwszy i drugi człon numeru rozdziela się myślnikiem.
+4) czwarty człon numeru punktu oznacza kolejność punktu w zespole, przy czym centr punktu oznacza się zawsze cyfrą 0 – przy czym pierwszy i drugi człon numeru rozdziela się myślnikiem.
 1. Dla każdego nowo zakładanego punktu osnowy sporządza się co najmniej jeden opis topograficzny.
 2. Dopuszcza się sporządzanie dodatkowej dokumentacji, zawierającej zdjęcia, pliki graficzne oraz inne materiały dotyczące stanu i lokalizacji znaku.
 3. Opis topograficzny punktu powinien zawierać co najmniej:
@@ -228,9 +233,10 @@ b) SH dla punktów szczegółowej osnowy geodezyjnej wysokościowej,
 1) rodzaj znaku, jego numer, typ i wymiary;
 2) odległości pomiędzy znakami w zespole oraz głębokości ich osadzenia;
 3) usytuowanie punktów ekscentrycznych i sąsiednich punktów osnowy z podaniem odległości do nich;
-4) w przypadku znaków ściennych rysunek lub zdjęcie fragmentu ściany z podaniem wysokości znaku nad powierzchnią terenu i odległości do najbliższych charakterystycznych miejsc ściany.
+4) w przypadku znaków ściennych – rysunek lub zdjęcie fragmentu ściany z podaniem wysokości znaku nad powierzchnią terenu i odległości do najbliższych charakterystycznych miejsc ściany.
 1. Geodezyjna dokumentacja techniczna powinna zawierać następujące dokumenty:
 1) sprawozdanie techniczne zawierające opis wykonanych prac;
+2) szkic sieci;
 3) dokumentację pomiarów;
 4) raport z wyrównania sieci;
 5) opisy topograficzne punktów;
@@ -244,17 +250,17 @@ b) SH dla punktów szczegółowej osnowy geodezyjnej wysokościowej,
 4) proponowane typy znaków, sposób stabilizacji, metody pomiaru i inne dane, które odbiegają od standardowych ustaleń obowiązujących przepisów technicznych;
 5) konstrukcję geometryczną projektowanej sieci przedstawioną na tle cyfrowych dokumentów pochodzących z państwowego zasobu geodezyjnego i kartograficznego.
 
-#### Rozdział 1 przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 przepisy ogólne
 
-#### Rozdział 2 organizacja zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych § 7. 1. Podstawowe osnowy geodezyjne, grawimetryczne i magnetyczne klasyfikuje się zgodnie z rodzajami osnów jako:
+#### Rozdział 2 organizacja zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych
 
-#### Rozdział 3 organizacja zakładania i utrzymywania szczegółowych osnów geodezyjnych § 11. Szczegółową osnowę geodezyjną stanowią punkty nawiązane do podstawowej osnowy geodezyjnej.
+#### Rozdział 3 organizacja zakładania i utrzymywania szczegółowych osnów geodezyjnych
 
-#### Rozdział 4 szczegółowy zakres informacji gromadzonych w bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz w bazie danych szczegółowych osnów geodezyjnych § 15. 1. W bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych gromadzi się dane dotyczące punktów odpowiednich osnów oraz zbiory obserwacji wykonanych w celu wyznaczenia wartości charakterystycznych dla tych punktów wraz z wynikami ich opracowania.
+#### Rozdział 4 szczegółowy zakres informacji gromadzonych w bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz w bazie danych szczegółowych osnów geodezyjnych
 
-#### Rozdział 5 standardy techniczne tworzenia, aktualizacji i udostępniania bazy danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz bazy danych szczegółowych osnów geodezyjnych § 17. Tworzenie i aktualizację baz danych, o których mowa w § 15 ust. 1 i 2, realizuje się na podstawie geodezyjnej dokumentacji technicznej, o której mowa w § 4, a także dokumentacji geodezyjnej będącej w posiadaniu właściwego organu Służby Geodezyjnej i Kartograficznej. Aktualizacja może być realizowana także na podstawie informacji o stanie znaku geodezyjnego, grawimetrycznego lub magnetycznego sprawdzonej przez właściwy organ Służby Geodezyjnej i Kartograficznej.
+#### Rozdział 5 standardy techniczne tworzenia, aktualizacji i udostępniania bazy danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz bazy danych szczegółowych osnów geodezyjnych
 
-#### Rozdział 6 przepisy przejściowe i końcowe § 20. 1. Baza danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych utworzona na podstawie dotychczasowych przepisów staje się bazą danych, o której mowa w § 15 ust. 1, z zachowaniem dotychczasowej numeracji punktów.
+#### Rozdział 6 przepisy przejściowe i końcowe
 
 #### Rozdział 1 wytyczne ogólne
 
@@ -276,7 +282,7 @@ b) SH dla punktów szczegółowej osnowy geodezyjnej wysokościowej,
 
 #### Rozdział 10 Kompletowanie geodezyjnej dokumentacji technicznej
 
-## Załącznik nr 2 — Standardy techniczne udostępniania informacji lub danych z baz danych z wykorzystaniem usług sieciowych
+## Załącznik nr 2 — STANDARDy Standardy TECHNICZNE techniczne UDOSTęPNIANIA udostępniania informacji INFORMACjI lub LUB danych DANyCH z baz Z danych BAZ DANyCH Z WyKORZySTANIEM USłUG SIECIOWyCH z wykorzystaniem usług sieciowych
 
 Rozdział 1 Podstawowa osnowa geodezyjna pozioma
 1. Usługi publikujące dane dotyczące podstawowej osnowy geodezyjnej poziomej są zgodne ze standardem Web Map Service (WMS) i Web Feature Service (WFS).
@@ -285,7 +291,6 @@ Rozdział 1 Podstawowa osnowa geodezyjna pozioma
 2) Bazowa podstawowa osnowa geodezyjna pozioma.
 3. Szczegółową charakterystykę warstw i stosowanych symboli graficznych określa tabela nr 1.
 4. Szczegółową charakterystykę parametrów funkcji GetMap określa tabela nr 2.
-STANDARDy TECHNICZNE UDOSTęPNIANIA INFORMACjI LUB DANyCH Z BAZ DANyCH Z WyKORZySTANIEM USłUG SIECIOWyCH
 5. Podstawowe parametry wykorzystywane przez funkcję GetFeatureInfo określa tabela nr 3, a pozostałe wymagane parametry nieujęte w tabeli nr 3 są tożsame z parametrami funkcji GetMap przedstawionymi w tabeli nr 2.
 6. Funkcja GetFeatureInfo dla warstw: Fundamentalna_pozioma i Bazowa_pozioma zwraca standardowo wartości atrybutów:
 1) numer punktu;

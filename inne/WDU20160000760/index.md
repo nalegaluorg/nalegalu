@@ -8,10 +8,10 @@ pos: 760
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 czerwca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 760 OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 5 maja 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000760) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/760/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 5 maja 2016 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie wymagań dotyczących sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 grudnia 2013 r. w sprawie wymagań dotyczących sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin (Dz. U. poz. 1742), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 19 maja 2015 r. zmieniającym rozporządzenie w sprawie wymagań dotyczących sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin (Dz. U.
 poz. 829).
@@ -35,7 +34,8 @@ Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Eur
 zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.).” „§ 2. Pierwsze badanie sprzętu przeznaczonego do stosowania środków ochrony roślin określonego w § 2 pkt 1 lit. d–g rozporządzenia wymienionego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, w przypadku gdy okres 5 lat od dnia jego nabycia upływa przed dniem 26 listopada 2016 r., przeprowadza się nie później niż do dnia 25 listopada 2016 r.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Rolnictwa i Rozwoju Wsi: wz. J. Bogucki ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 grudnia 2013 r.
-w sprawie wymagań dotyczących sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin Na podstawie art. 48 ust. 5 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2015 r. poz. 547 oraz z 2016 r. poz. 542) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wymagań dotyczących sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin Na podstawie art. 48 ust. 5 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2015 r. poz. 547 oraz z 2016 r. poz. 542) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) rodzaje sprzętu przeznaczonego do stosowania środków ochrony roślin, który poddaje się badaniom w celu potwierdzenia sprawności technicznej;
 2) wymagania dotyczące sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin, który poddaje się badaniom w celu potwierdzenia sprawności technicznej;
 3) odstępy czasu, w jakich przeprowadza się badania w celu potwierdzenia sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin, oraz termin pierwszego badania tego sprzętu.
@@ -62,7 +62,7 @@ g) sprzęt przeznaczony do stosowania środków ochrony roślin w formie oprysku
 1) określonego w § 2 pkt 1:
 a) lit. a–c przeprowadza się w odstępach czasu nie dłuższych niż 3 lata,
 b) lit. d–g przeprowadza się w odstępach czasu nie dłuższych niż 5 lat,
-2) określonego w § 2 pkt 2 przeprowadza się w odstępach czasu nie dłuższych niż 5 lat przy czym pierwsze badanie tego sprzętu przeprowadza się nie później niż po upływie 5 lat od dnia jego nabycia.
+2) określonego w § 2 pkt 2 przeprowadza się w odstępach czasu nie dłuższych niż 5 lat – przy czym pierwsze badanie tego sprzętu przeprowadza się nie później niż po upływie 5 lat od dnia jego nabycia.
 § 5. Do dnia 1 stycznia 2020 r. badania w celu potwierdzenia sprawności technicznej sprzętu agrolotniczego, opryskiwaczy wyposażonych w belkę opryskową montowanych na pojazdach kolejowych oraz innego sprzętu kolejowego przeprowadza się w odstępach czasu nie dłuższych niż 5 lat.
 § 6. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
 WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY CIĄGNIKOWYCH I SAMOBIEŻNYCH POLOWYCH LUB SADOWNICZYCH
@@ -87,25 +87,26 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY CIĄGNIKOWYCH I SAMOBI
 2) prawidłowo zamocowana.
 5.2. Sito wlewowe zbiornika opryskiwacza lub inny niż sito wlewowe system wstępnego filtrowania powinny być nieuszkodzone.
 5.3. System mieszania cieczy użytkowej w zbiorniku opryskiwacza powinien mieszać ciecz przy nominalnych obrotach wałka odbioru mocy, włączonych wszystkich rozpylaczach i najniższej wartości ciśnienia roboczego dla rozpylaczy zainstalowanych na opryskiwaczu, w sposób widoczny w zbiorniku opryskiwacza napełnionym do połowy.
-5.4. System uniemożliwiający powstawanie nadciśnienia albo podciśnienia w zbiorniku opryskiwacza powinien funk5.5. Zawór spustowy zbiornika opryskiwacza powinien:
+5.4. System uniemożliwiający powstawanie nadciśnienia albo podciśnienia w zbiorniku opryskiwacza powinien funkcjonować prawidłowo.
+5.5. Zawór spustowy zbiornika opryskiwacza powinien:
 1) funkcjonować prawidłowo;
 2) umożliwiać opróżnienie zbiornika.
 5.6. Wskaźnik poziomu cieczy użytkowej w zbiorniku opryskiwacza powinien:
 1) funkcjonować prawidłowo;
 2) umożliwiać odczyt tego poziomu.
 6.1. Średnica obudowy manometru analogowego opryskiwacza powinna wynosić co najmniej:
-1) 63 mm w przypadku manometrów analogowych opryskiwacza połączonych z zaworem sterującym lub umieszczonych w kabinie ciągnika opryskiwacza ciągnikowego polowego lub sadowniczego;
-2) 100 mm w przypadku manometrów analogowych opryskiwacza połączonych lub umieszczonych w sposób inny niż określony w ppkt 1.
+1) 63 mm – w przypadku manometrów analogowych opryskiwacza połączonych z zaworem sterującym lub umieszczonych w kabinie ciągnika opryskiwacza ciągnikowego polowego lub sadowniczego;
+2) 100 mm – w przypadku manometrów analogowych opryskiwacza połączonych lub umieszczonych w sposób inny niż określony w ppkt 1.
 6.2. Działka elementarna manometru analogowego opryskiwacza powinna wynosić nie więcej niż:
-1) 0,2 bar w zakresie wskazań manometru do 5 bar;
-2) 1 bar w zakresie wskazań manometru powyżej 5 bar do 20 bar;
-3) 2 bar w zakresie wskazań manometru powyżej 20 bar.
+1) 0,2 bar – w zakresie wskazań manometru do 5 bar;
+2) 1 bar – w zakresie wskazań manometru powyżej 5 bar do 20 bar;
+3) 2 bar – w zakresie wskazań manometru powyżej 20 bar.
 6.3. W przypadku manometru analogowego i cyfrowego opryskiwacza zakres pomiarowy wskazań, o którym mowa w pkt 6.2, powinien być dostosowany do zakresu ciśnień roboczych rozpylaczy instalowanych na opryskiwaczu.
 7.1. Manometr analogowy lub cyfrowy opryskiwacza powinien wskazywać wartość ciśnienia roboczego w całym zakresie stosowanego w opryskiwaczu ciśnienia roboczego.
 7.2. W przypadku manometru analogowego opryskiwacza niedopuszczalne są drgania wskazówki uniemożliwiające odczyt stosowanego w tym opryskiwaczu ciśnienia roboczego.
 8. Błąd pomiaru ciśnienia roboczego przez manometr analogowy lub cyfrowy opryskiwacza powinien wynosić nie więcej niż:
-1) ±0,2 bar w zakresie ciśnienia roboczego do 2 bar;
-2) 10% wartości rzeczywistego ciśnienia roboczego w zakresie ciśnienia roboczego powyżej 2 bar.
+1) ±0,2 bar – w zakresie ciśnienia roboczego do 2 bar;
+2) 10% wartości rzeczywistego ciśnienia roboczego – w zakresie ciśnienia roboczego powyżej 2 bar.
 9.1. Urządzenia sterujące powinny utrzymywać stałą wartość ciśnienia roboczego mierzonego przy stałych obrotach wałka odbioru mocy.
 9.2. Dopuszcza się odchylenie wartości ciśnienia roboczego, o którym mowa w pkt 9.1, o nie więcej niż 10%.
 9.3. Wyłączenie i włączenie głównego zaworu odcinającego dopływ cieczy roboczej do zespołu opryskowego nie może spowodować różnicy ciśnienia większej niż 10%.
@@ -114,6 +115,7 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY CIĄGNIKOWYCH I SAMOBI
 2) spadek wartości ciśnienia roboczego między punktem pomiaru tego ciśnienia położonym przy zaworze sterującym opryskiwacza a końcem każdej sekcji belki polowej opryskiwacza nie powinien przekraczać 10% wartości ciśnienia wskazywanego przez manometr opryskiwacza.
 11. Układ cieczowy opryskiwacza powinien być zamocowany w sposób uniemożliwiający:
 1) niekontrolowane obracanie lub przesuwanie się elementów układu cieczowego opryskiwacza;
+2) opryskiwanie cieczą użytkową elementów konstrukcyjnych opryskiwacza.
 12.1. Filtry systemu filtracji opryskiwacza powinny być:
 1) kompletne;
 2) nieuszkodzone.
@@ -152,8 +154,8 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY CIĄGNIKOWYCH I SAMOBI
 1) zabiegu środkami ochrony roślin przy wyłączonym zasilaniu sekcji opryskowych zainstalowanych z jednej strony opryskiwacza ciągnikowego i samobieżnego sadowniczego lub
 2) kompensacji asymetrii strumienia powietrza wytwarzanego przez wentylator tego opryskiwacza.
 18.1. W opryskiwaczu ciągnikowym i samobieżnym polowym natężenie wypływu cieczy użytkowej z rozpylaczy zainstalowanych na opryskiwaczu nie powinno odbiegać od nominalnej wartości wypływu tej cieczy dla rozpylacza o więcej niż:
-1) 10% w przypadku opryskiwacza ciągnikowego i samobieżnego polowego;
-2) 15% w przypadku opryskiwacza ciągnikowego i samobieżnego sadowniczego.
+1) 10% – w przypadku opryskiwacza ciągnikowego i samobieżnego polowego;
+2) 15% – w przypadku opryskiwacza ciągnikowego i samobieżnego sadowniczego.
 18.2. W przypadku opryskiwacza ciągnikowego i samobieżnego sadowniczego natężenie wypływu cieczy użytkowej z rozpylaczy zainstalowanych na sekcjach opryskowych z lewej i z prawej strony tego opryskiwacza nie powinno różnić się o więcej niż 10%.
 19.1. W przypadku opryskiwacza ciągnikowego i samobieżnego polowego, przy pomiarze nierównomierności poprzecznej wypływu cieczy na stole rowkowym z odczytem automatycznym, współczynnik zmienności powinien wynosić nie więcej niż 10%. Przy pomiarze na stole rowkowym z odczytem optycznym różnice odczytów wartości dla poszczególnych rowków nie powinny być większe niż 15%, przy czym dopuszcza się, aby nie więcej niż 10% odczytów wykraczało poza ten zakres.
 19.2. Pomiaru, o którym mowa w pkt 19.1, nie wykonuje się dla opryskiwacza ciągnikowego i samobieżnego polowego, dozującego ciecz użytkową w pasach lub rzędach.
@@ -163,7 +165,7 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY CIĄGNIKOWYCH I SAMOBI
 2) zawór bezpieczeństwa,
 3) instalację do przepłukiwania zbiornika opryskiwacza,
 4) rozwadniacz,
-5) urządzenie myjące opakowania po środkach ochrony roślin to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
+5) urządzenie myjące opakowania po środkach ochrony roślin – to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
 WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY WYPOSAŻONYCH W BELKĘ OPRYSKOWĄ MONTOWANYCH NA POJAZDACH KOLEJOWYCH
 1. Osłony wirujących elementów opryskiwacza wyposażonego w belkę opryskową montowanego na pojeździe kolejowym, zwanego dalej „opryskiwaczem kolejowym”, powinny być:
 1) kompletne;
@@ -186,25 +188,26 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY WYPOSAŻONYCH W BELKĘ
 2) prawidłowo zamocowana.
 5.2. Sito wlewowe zbiornika opryskiwacza kolejowego lub inny niż sito wlewowe system wstępnego filtrowania powinny być nieuszkodzone.
 5.3. System mieszania cieczy użytkowej w zbiorniku opryskiwacza kolejowego powinien mieszać ciecz przy nominalnych obrotach wałka odbioru mocy, włączonych wszystkich rozpylaczach i najniższej wartości ciśnienia roboczego dla rozpylaczy zainstalowanych na tym opryskiwaczu, w sposób widoczny w zbiorniku tego opryskiwacza napełnionym do połowy.
-5.4. System uniemożliwiający powstawanie nadciśnienia albo podciśnienia w zbiorniku opryskiwacza kolejowego po5.5. Zawór spustowy zbiornika opryskiwacza kolejowego powinien:
+5.4. System uniemożliwiający powstawanie nadciśnienia albo podciśnienia w zbiorniku opryskiwacza kolejowego powinien funkcjonować prawidłowo.
+5.5. Zawór spustowy zbiornika opryskiwacza kolejowego powinien:
 1) funkcjonować prawidłowo;
 2) umożliwiać opróżnienie zbiornika.
 5.6. Wskaźnik poziomu cieczy użytkowej w zbiorniku opryskiwacza kolejowego powinien:
 1) funkcjonować prawidłowo;
 2) umożliwiać odczyt tego poziomu.
 6.1. Średnica obudowy manometru analogowego opryskiwacza kolejowego powinna wynosić co najmniej:
-1) 63 mm w przypadku manometrów analogowych opryskiwacza kolejowego połączonych z zaworem sterującym lub umieszczonych w kabinie;
-2) 100 mm w przypadku manometrów analogowych opryskiwacza kolejowego połączonych lub umieszczonych w sposób inny niż określony w ppkt 1.
+1) 63 mm – w przypadku manometrów analogowych opryskiwacza kolejowego połączonych z zaworem sterującym lub umieszczonych w kabinie;
+2) 100 mm – w przypadku manometrów analogowych opryskiwacza kolejowego połączonych lub umieszczonych w sposób inny niż określony w ppkt 1.
 6.2. Działka elementarna manometru analogowego opryskiwacza kolejowego powinna wynosić nie więcej niż:
-1) 0,2 bar w zakresie wskazań manometru do 5 bar;
-2) 1 bar w zakresie wskazań manometru powyżej 5 bar do 20 bar;
-3) 2 bar w zakresie wskazań manometru powyżej 20 bar.
+1) 0,2 bar – w zakresie wskazań manometru do 5 bar;
+2) 1 bar – w zakresie wskazań manometru powyżej 5 bar do 20 bar;
+3) 2 bar – w zakresie wskazań manometru powyżej 20 bar.
 6.3. W przypadku manometru analogowego i cyfrowego opryskiwacza kolejowego zakres pomiarowy wskazań, o którym mowa w pkt 6.2, powinien być dostosowany do zakresu ciśnień roboczych rozpylaczy instalowanych na tym opryskiwaczu.
 7.1. Manometr analogowy lub cyfrowy opryskiwacza kolejowego powinien wskazywać wartość ciśnienia roboczego w całym zakresie stosowanego w tym opryskiwaczu ciśnienia roboczego.
 7.2. W przypadku manometru analogowego opryskiwacza kolejowego niedopuszczalne są drgania wskazówki uniemożliwiające odczyt stosowanego w tym opryskiwaczu ciśnienia roboczego.
 8. Błąd pomiaru ciśnienia roboczego przez manometr analogowy lub cyfrowy opryskiwacza kolejowego powinien wynosić nie więcej niż:
-1) ±0,2 bar w zakresie ciśnienia roboczego do 2 bar;
-2) 10% wartości rzeczywistego ciśnienia roboczego w zakresie ciśnienia roboczego powyżej 2 bar.
+1) ±0,2 bar – w zakresie ciśnienia roboczego do 2 bar;
+2) 10% wartości rzeczywistego ciśnienia roboczego – w zakresie ciśnienia roboczego powyżej 2 bar.
 9.1. Urządzenia sterujące powinny utrzymywać stałą wartość ciśnienia roboczego mierzonego przy stałych obrotach wałka odbioru mocy.
 9.2. Dopuszcza się odchylenie wartości ciśnienia roboczego, o którym mowa w pkt 9.1, o nie więcej niż 10%.
 9.3. Wyłączenie i włączenie głównego zaworu odcinającego dopływ cieczy roboczej do zespołu opryskowego nie może spowodować różnicy ciśnienia większej niż 10%.
@@ -213,6 +216,7 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY WYPOSAŻONYCH W BELKĘ
 1) niekontrolowane obracanie lub przesuwanie się elementów układu cieczowego tego opryskiwacza;
 2) opryskiwanie cieczą użytkową:
 a) elementów konstrukcyjnych tego opryskiwacza,
+b) elementów konstrukcyjnych pojazdu kolejowego.
 11.1. Filtry systemu filtracji opryskiwacza kolejowego powinny być:
 1) kompletne;
 2) nieuszkodzone.
@@ -247,7 +251,7 @@ a) elementów konstrukcyjnych tego opryskiwacza,
 1) zawór bezpieczeństwa,
 2) instalację do przepłukiwania zbiornika tego opryskiwacza,
 3) rozwadniacz,
-4) urządzenie myjące opakowania po środkach ochrony roślin to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
+4) urządzenie myjące opakowania po środkach ochrony roślin – to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
 WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ INNEGO SPRZĘTU KOLEJOWEGO
 1. Osłony wirujących elementów łączących silnik z pompą innego sprzętu kolejowego powinny być:
 1) kompletne;
@@ -275,7 +279,8 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ INNEGO SPRZĘTU KOLEJOWEGO
 6.1. Manometr analogowy lub cyfrowy innego sprzętu kolejowego powinien wskazywać wartość ciśnienia roboczego w całym zakresie stosowanego w tym sprzęcie ciśnienia roboczego.
 6.2. W przypadku manometru analogowego przeznaczonego do stosowania środków ochrony roślin niedopuszczalne są drgania wskazówki uniemożliwiające odczyt stosowanego w innym sprzęcie kolejowym ciśnienia roboczego.
 7. Błąd pomiaru ciśnienia roboczego przez manometr analogowy lub cyfrowy innego sprzętu kolejowego powinien wynosić nie więcej niż:
-1) ±0,2 bar w zakresie ciśnienia roboczego do 2 bar;
+1) ±0,2 bar – w zakresie ciśnienia roboczego do 2 bar;
+2) 10% wartości rzeczywistego ciśnienia roboczego – w zakresie ciśnienia roboczego powyżej 2 bar.
 8.1. Urządzenia sterujące powinny utrzymywać stałą wartość ciśnienia roboczego mierzonego przy stałych obrotach pompy.
 8.2. Dopuszcza się odchylenie wartości ciśnienia roboczego, o którym mowa w pkt 8.1, o nie więcej niż 10%.
 8.3. Wyłączenie i włączenie głównego zaworu odcinającego dopływ cieczy użytkowej do zespołu opryskowego nie może spowodować różnicy ciśnienia większej niż 10%.
@@ -303,7 +308,8 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ INNEGO SPRZĘTU KOLEJOWEGO
 14. Natężenie wypływu cieczy użytkowej z rozpylaczy zainstalowanych na innym sprzęcie kolejowym nie powinno odbiegać od nominalnej wartości wypływu tej cieczy dla rozpylacza o więcej niż 15% lub natężenie wypływu cieczy użytkowej z rozpylaczy zainstalowanych symetrycznie po obu stronach innego sprzętu kolejowego nie powinno różnić się o więcej niż 15%.
 15. Jeżeli inny sprzęt kolejowy jest wyposażony w:
 1) zawór bezpieczeństwa,
-2) instalację do przepłukiwania zbiornika na środek ochrony roślin albo ciecz użytkową WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ SPRZĘTU AGROLOTNICZEGO
+2) instalację do przepłukiwania zbiornika na środek ochrony roślin albo ciecz użytkową – to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
+WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ SPRZĘTU AGROLOTNICZEGO
 1.1. Zbiornik na środek ochrony roślin sprzętu agrolotniczego powinien być nieuszkodzony i uniemożliwiać wyciek cieczy użytkowej.
 1.2. Układ cieczowy sprzętu agrolotniczego powinien być kompletny, nieuszkodzony i powinien uniemożliwiać wyciek cieczy użytkowej.
 2. Instalacja do napełniania zbiornika sprzętu agrolotniczego powinna być nieuszkodzona i funkcjonować prawidłowo.
@@ -335,7 +341,7 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ ZAPRAWIAREK DO NASION
 11. Urządzenia odpylające powinny być nieuszkodzone i funkcjonować prawidłowo.
 12. Jeżeli zaprawiarka do nasion jest wyposażona w:
 1) zawór bezpieczeństwa,
-2) urządzenia kontrolne to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
+2) urządzenia kontrolne – to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
 WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY SZKLARNIOWYCH
 1. Osłony wirujących elementów opryskiwacza szklarniowego powinny być:
 1) kompletne;
@@ -354,15 +360,15 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY SZKLARNIOWYCH
 5. Wskaźnik poziomu cieczy użytkowej w zbiorniku powinien funkcjonować prawidłowo i umożliwiać odczyt tego poziomu.
 6.1. Pompa opryskiwacza szklarniowego powinna być szczelna i nie powinna powodować pulsacji cieczy użytkowej.
 6.2. W przypadku gdy tłumienie pulsacji odbywa się z zastosowaniem powietrznika, ciśnienie powietrza w powietrzniku pompy opryskiwacza powinno wynosić nie mniej niż 1/3 i nie więcej niż 2/3 wartości ciśnienia roboczego.
-6.3. Poziom oleju w układzie smarowania pompy powinien być zgodny z poziomem określonym w instrukcji tego sprzętu lub w przypadku wymiany pompy zgodny z zaleceniami producenta pompy.
+6.3. Poziom oleju w układzie smarowania pompy powinien być zgodny z poziomem określonym w instrukcji tego sprzętu lub – w przypadku wymiany pompy – zgodny z zaleceniami producenta pompy.
 7. System mieszania cieczy użytkowej w zbiorniku powinien mieszać ciecz przy włączonych wszystkich rozpylaczach i najniższej wartości ciśnienia roboczego dla rozpylaczy opryskiwacza szklarniowego w sposób widoczny w zbiorniku napełnionym do połowy.
 8. System uniemożliwiający powstawanie nadciśnienia albo podciśnienia w zbiorniku opryskiwacza szklarniowego powinien funkcjonować prawidłowo.
 9.1. W przypadku manometru analogowego i cyfrowego zakres pomiarowy wskazań powinien być dostosowany do zakresu ciśnień roboczych rozpylaczy instalowanych na opryskiwaczu szklarniowym.
 9.2. Manometr analogowy lub cyfrowy montowany w opryskiwaczu szklarniowym powinien wskazywać wartość ciśnienia roboczego w całym zakresie stosowanego w tym opryskiwaczu ciśnienia roboczego.
 9.3. W przypadku manometru analogowego niedopuszczalne są drgania wskazówki uniemożliwiające odczyt stosowanego w tym opryskiwaczu ciśnienia roboczego.
 9.4. Błąd pomiaru ciśnienia roboczego przez manometr analogowy lub cyfrowy powinien wynosić nie więcej niż:
-1) ±0,2 bar w zakresie ciśnienia roboczego do 2 bar;
-2) 10% wartości rzeczywistego ciśnienia roboczego w zakresie ciśnienia roboczego powyżej 2 bar.
+1) ±0,2 bar – w zakresie ciśnienia roboczego do 2 bar;
+2) 10% wartości rzeczywistego ciśnienia roboczego – w zakresie ciśnienia roboczego powyżej 2 bar.
 9.5. Dla urządzeń pomiarowych innych niż określone w pkt 9.4 błąd pomiaru ciśnienia roboczego powinien wynosić nie więcej niż 5% wartości tego ciśnienia.
 10.1. Urządzenia sterujące opryskiwaczem szklarniowym powinny utrzymywać stałą wartość ciśnienia roboczego.
 10.2. Dopuszcza się odchylenie wartości ciśnienia roboczego, o którym mowa w pkt 10.1, o nie więcej niż 10%.
@@ -389,7 +395,8 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY SZKLARNIOWYCH
 1) zawór bezpieczeństwa,
 2) instalację do przepłukiwania zbiornika,
 3) rozwadniacz,
-4) urządzenie myjące opakowania WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ SAMOBIEŻNEGO LUB CIĄGNIKOWEGO SPRZĘTU PRZEZNACZONEGO DO STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN W FORMIE GRANULATU
+4) urządzenie myjące opakowania – to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
+WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ SAMOBIEŻNEGO LUB CIĄGNIKOWEGO SPRZĘTU PRZEZNACZONEGO DO STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN W FORMIE GRANULATU
 1. Osłony wirujących elementów sprzętu przeznaczonego do stosowania środków ochrony roślin w formie granulatu powinny być:
 1) kompletne;
 2) nieuszkodzone;
@@ -405,7 +412,7 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ OPRYSKIWACZY SZKLARNIOWYCH
 6. Urządzenia sterujące i dozujące sprzętu przeznaczonego do stosowania środków ochrony roślin w formie granulatu powinny być nieuszkodzone i funkcjonować prawidłowo.
 7. Jeżeli sprzęt przeznaczony do stosowania środków ochrony roślin w formie granulatu jest wyposażony w:
 1) mechanizm zatrzymujący dozowanie środka ochrony roślin w formie granulatu,
-2) urządzenia kontrolno-pomiarowe to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
+2) urządzenia kontrolno-pomiarowe – to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
 WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ POZOSTAŁEGO SPRZĘTU DO STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN
 1. Osłony wirujących elementów pozostałego sprzętu do stosowania środków ochrony roślin powinny być:
 1) kompletne;
@@ -415,15 +422,15 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ POZOSTAŁEGO SPRZĘTU DO STOSOWANIA
 2.2. Wskaźnik poziomu cieczy użytkowej w zbiorniku powinien funkcjonować prawidłowo oraz umożliwiać odczyt tego poziomu.
 2.3. Zawór spustowy do opróżniania zbiornika powinien być nieuszkodzony i funkcjonować prawidłowo.
 3.1. Pompa pozostałego sprzętu do stosowania środków ochrony roślin powinna być szczelna.
-3.2. Poziom oleju w układzie smarowania pompy powinien być zgodny z poziomem określonym w instrukcji tego sprzętu lub w przypadku wymiany pompy zgodny z zaleceniami producenta pompy.
+3.2. Poziom oleju w układzie smarowania pompy powinien być zgodny z poziomem określonym w instrukcji tego sprzętu lub – w przypadku wymiany pompy – zgodny z zaleceniami producenta pompy.
 4. Układ cieczowy pozostałego sprzętu do stosowania środków ochrony roślin powinien być kompletny, nieuszkodzony i powinien uniemożliwiać wyciek cieczy użytkowej.
 5.1. Filtry systemu filtracji pozostałego sprzętu do stosowania środków ochrony roślin powinny być kompletne i nieuszkodzone.
 5.2. Wielkość oczek filtra po stronie tłocznej pompy powinna być mniejsza od otworów dysz rozpylaczy najmniejszego rozmiaru montowanych w instalacji przeznaczonej do wykonywania zabiegów ochrony roślin.
 6.1. Manometr analogowy lub cyfrowy montowany w pozostałym sprzęcie do stosowania środków ochrony roślin powinien wskazywać wartość ciśnienia roboczego w całym zakresie stosowanego w tym sprzęcie ciśnienia roboczego.
 6.2. W przypadku manometru analogowego niedopuszczalne są drgania wskazówki uniemożliwiające odczyt stosowanego w tym sprzęcie ciśnienia roboczego.
 6.3. Błąd pomiaru ciśnienia roboczego przez manometr analogowy lub cyfrowy powinien wynosić nie więcej niż:
-1) ±0,2 bar w zakresie ciśnienia roboczego do 2 bar;
-2) 10% wartości rzeczywistego ciśnienia roboczego w zakresie ciśnienia roboczego powyżej 2 bar.
+1) ±0,2 bar – w zakresie ciśnienia roboczego do 2 bar;
+2) 10% wartości rzeczywistego ciśnienia roboczego – w zakresie ciśnienia roboczego powyżej 2 bar.
 7. Zawory sterujące i odcinające dopływ cieczy użytkowej do poszczególnych elementów dozujących pozostałego sprzętu do stosowania środków ochrony roślin powinny być nieuszkodzone i funkcjonować prawidłowo.
 8. Rozpylacze zainstalowane na pozostałym sprzęcie do stosowania środków ochrony roślin powinny być takie same co do typu i rozmiaru oraz wykonane z takiego samego materiału, przy czym wymóg ten nie dotyczy rozpylaczy asymetrycznych zainstalowanych na końcach belki opryskowej.
 9. W czasie przeprowadzania zabiegu środkami ochrony roślin pozostałym sprzętem do stosowania środków ochrony roślin niedopuszczalne jest zderzanie się strumieni cieczy użytkowej.
@@ -432,5 +439,5 @@ WYMAGANIA DOTYCZĄCE SPRAWNOŚCI TECHNICZNEJ POZOSTAŁEGO SPRZĘTU DO STOSOWANIA
 1) zawór bezpieczeństwa,
 2) urządzenia kontrolno-pomiarowe,
 3) lance opryskowe,
-4) wentylator to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
+4) wentylator – to elementy te powinny być nieuszkodzone i funkcjonować prawidłowo.
 

@@ -8,10 +8,10 @@ pos: 263
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 lutego 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 263 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 31 stycznia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000263) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/263/text.pdf) |
 
-ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 31 stycznia 2022 r.
-zmieniające rozporządzenie w sprawie wzoru kwestionariusza osobowego oraz szczegółowych zasad i trybu przeprowadzania postępowania kwalifikacyjnego wobec kandydatów do służby w Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 46 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27 i 2320 oraz z 2021 r. poz. 2333) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 29 listopada 2002 r. w sprawie wzoru kwestionariusza osobowego oraz szczegółowych zasad i trybu przeprowadzania postępowania kwalifikacyjnego wobec kandydatów do służby w Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2014 r. poz. 61 oraz z 2019 r. poz. 1719) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie wzoru kwestionariusza osobowego oraz szczegółowych zasad i trybu przeprowadzania postępowania kwalifikacyjnego wobec kandydatów do służby w Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 46 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27 i 2320 oraz z 2021 r. poz. 2333) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 29 listopada 2002 r. w sprawie wzoru kwestionariusza osobowego oraz szczegółowych zasad i trybu przeprowadzania postępowania kwalifikacyjnego wobec kandydatów do służby w Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2014 r. poz. 61 oraz z 2019 r. poz. 1719) wprowadza się następujące zmiany:
 1) w § 1:
-a) pkt 2 otrzymuje brzmienie: „2) „komórce kadrowej” rozumie się przez to komórkę właściwą w sprawach naboru w jednostce organizacyjnej właściwej w sprawach osobowych w Agencji Bezpieczeństwa Wewnętrznego lub komórkę właściwą w sprawach naboru w delegaturze Agencji Bezpieczeństwa Wewnętrznego;”,
-b) w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) „kandydacie” rozumie się przez to osobę ubiegającą się o przyjęcie do służby w Agencji Bezpieczeństwa Wewnętrznego.”;
+a) pkt 2 otrzymuje brzmienie: „2) „komórce kadrowej” – rozumie się przez to komórkę właściwą w sprawach naboru w jednostce organizacyjnej właściwej w sprawach osobowych w Agencji Bezpieczeństwa Wewnętrznego lub komórkę właściwą w sprawach naboru w delegaturze Agencji Bezpieczeństwa Wewnętrznego;”,
+b) w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) „kandydacie” – rozumie się przez to osobę ubiegającą się o przyjęcie do służby w Agencji Bezpieczeństwa Wewnętrznego.”;
 2) w § 2 ust. 2 otrzymuje brzmienie: „2. Postępowanie kwalifikacyjne prowadzi kierownik komórki kadrowej lub jego zastępca, z uwzględnieniem przepisów ustawy o ochronie informacji niejawnych, z zastrzeżeniem ust. 3.”;
 3) § 3 otrzymuje brzmienie: „§ 3. 1. Postępowanie kwalifikacyjne rozpoczyna się zawiadomieniem kandydata o przyjęciu przez komórkę kadrową pisemnego podania o przyjęcie go do służby w Agencji Bezpieczeństwa Wewnętrznego.
 2. Kierownik komórki kadrowej lub jego zastępca może odmówić poddania kandydata postępowaniu kwalifikacyjnemu lub postępowanie takie przerwać w każdym czasie, bez podania kandydatowi przyczyny, w przypadku:
@@ -79,13 +79,13 @@ d) po ust. 4 dodaje się ust. 5 w brzmieniu: „5. W przypadkach, o których mow
 § 2. 1. Do postępowań kwalifikacyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, z zastrzeżeniem ust. 2.
 2. Złożenie kwestionariusza osobowego kandydata do służby w Agencji Bezpieczeństwa Wewnętrznego zgodnego z wzorem określonym w załączniku do niniejszego rozporządzenia nie jest wymagane.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki WZÓR 1/10 WZÓR Instrukcja Przed wypełnieniem proszę zapoznać się z całym dokumentem.
+Prezes Rady Ministrów: M. Morawiecki WZÓR WZÓR Instrukcja Przed wypełnieniem proszę zapoznać się z całym dokumentem.
 Kwestionariusz osobowy proszę wypełnić osobiście i czytelnie, udzielając wyczerpujących odpowiedzi na każde pytanie.
 Jeżeli rubryki zawierają zbyt mało miejsca na wpisanie informacji, proszę podać te informacje na odrębnym arkuszu formatu A4, który będzie stanowił załącznik do kwestionariusza osobowego.
-KWESTIONARIUSZ OSOBOWY kandydata do służby w Agencji Bezpieczeństwa Wewnętrznego 2/10 3/10
+KWESTIONARIUSZ OSOBOWY kandydata do służby w Agencji Bezpieczeństwa Wewnętrznego 1/10 2/10
 a)
 b)
 c)
-d) 4/10 5/10 6/10 17 7/10 8/10 9/10 10/10 .
-:
+d) 3/10 4/10 5/10 17 6/10 7/10 8/10 9/10 .
+: 10/10
 

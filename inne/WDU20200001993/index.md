@@ -8,10 +8,10 @@ pos: 1993
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 listopada 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1993 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 6 listopada 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001993) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1993/text.pdf) |
 
-ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 6 listopada 2020 r.
-w sprawie świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym-funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego oraz weteranom poszkodowanym-funkcjonariuszom Agencji Wywiadu Na podstawie art. 42 ust. 2a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, 1492, 1493, 1578 i 1875) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym-funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego oraz weteranom poszkodowanym-funkcjonariuszom Agencji Wywiadu Na podstawie art. 42 ust. 2a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, 1492, 1493, 1578 i 1875) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe warunki otrzymywania świadczeń opieki zdrowotnej niezakwalifikowanych jako świadczenia gwarantowane oraz odpłatnych świadczeń opieki zdrowotnej, zwanych dalej „świadczeniami opieki zdrowotnej”, przez:
 a) weteranów poszkodowanych-funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, oraz weteranów poszkodowanych-funkcjonariuszy Agencji Wywiadu, zwanej dalej „AW”, w zakresie leczenia urazów i chorób nabytych podczas wykonywania zadań poza granicami państwa,
 b) weteranów poszkodowanych-funkcjonariuszy ABW lub weteranów poszkodowanych-funkcjonariuszy AW, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30%,
@@ -51,8 +51,8 @@ c) funkcjonariuszy ABW oraz funkcjonariuszy AW po ich zwolnieniu ze służby w z
 § 4. 1. Szef ABW kieruje weterana poszkodowanego-funkcjonariusza ABW do podmiotu leczniczego, którego podmiotem tworzącym jest Szef ABW.
 2. Szef AW kieruje weterana poszkodowanego-funkcjonariusza AW do podmiotu leczniczego, którego podmiotem tworzącym jest Szef AW.
 3. W przypadku gdy podmiot leczniczy, o którym mowa w ust. 1 albo 2, nie może udzielić świadczeń opieki zdrowotnej, do innego podmiotu leczniczego wykonującego działalność leczniczą kieruje:
-1) weterana poszkodowanego-funkcjonariusza ABW Szef ABW;
-2) weterana poszkodowanego-funkcjonariusza AW Szef AW.
+1) weterana poszkodowanego-funkcjonariusza ABW – Szef ABW;
+2) weterana poszkodowanego-funkcjonariusza AW – Szef AW.
 § 5. 1. Szef AW kieruje weterana poszkodowanego-funkcjonariusza AW do świadczeniodawcy, który udzieli świadczeń opieki zdrowotnej.
 2. Szef AW zawiera umowę ze świadczeniodawcą, o którym mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r.
 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.

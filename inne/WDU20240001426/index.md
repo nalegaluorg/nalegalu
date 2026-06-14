@@ -8,10 +8,10 @@ pos: 1426
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 września 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1426 Załączniki do rozporządzenia Ministra Finansów z dnia 20 września 2024 r. (Dz. U. poz. …) Załącznik nr 1 Zakres informacji zawartych w sprawozdaniu miesięcznym domu maklerskiego (MDF) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy:
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-07-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001426) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1426/text.pdf) |
 
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy:
 1. I. Środki pieniężne i inne aktywa pieniężne
 2. II. Należności krótkoterminowe
 3. III. Instrumenty finansowe przeznaczone do obrotu
@@ -110,7 +109,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 82. 12. Podatki i inne opłaty o charakterze publicznoprawnym
 83. 13. Prowizje i inne opłaty
 84. 14. Pozostałe
-85. III. Zysk (strata) z działalności podstawowej (I II)
+85. III. Zysk (strata) z działalności podstawowej (I – II)
 86. IV. Przychody z instrumentów finansowych przeznaczonych do obrotu
 87. 1. Dywidendy i inne udziały w zyskach
 88. 2. Odsetki
@@ -121,7 +120,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 93. 1. Korekty aktualizujące wartość
 94. 2. Strata ze sprzedaży/umorzenia
 95. 3. Pozostałe
-96. VI. Zysk (strata) z operacji instrumentami finansowymi przeznaczonymi do obrotu (IV V)
+96. VI. Zysk (strata) z operacji instrumentami finansowymi przeznaczonymi do obrotu (IV – V)
 97. VII. Przychody z instrumentów finansowych utrzymywanych do terminu zapadalności
 98. 1. Odsetki
 99. 2. Korekty aktualizujące wartość
@@ -133,7 +132,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 105. 2. Amortyzacja premii od dłużnych papierów wartościowych
 106. 3. Strata ze sprzedaży/umorzenia
 107. 4. Pozostałe
-108. IX. Zysk (strata) z operacji instrumentami finansowymi utrzymywanymi do terminu zapadalności (VII VIII)
+108. IX. Zysk (strata) z operacji instrumentami finansowymi utrzymywanymi do terminu zapadalności (VII – VIII)
 109. X. Przychody z instrumentów finansowych dostępnych do sprzedaży
 110. 1. Dywidendy i inne udziały w zyskach
 111. 2. Odsetki
@@ -146,7 +145,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 118. 2. Strata ze sprzedaży/umorzenia
 119. 3. Amortyzacja premii od dłużnych papierów wartościowych
 120. 4. Pozostałe
-121. XII. Zysk (strata) z operacji instrumentami finansowymi dostępnymi do sprzedaży (X XI)
+121. XII. Zysk (strata) z operacji instrumentami finansowymi dostępnymi do sprzedaży (X – XI)
 122. XIII. Pozostałe przychody operacyjne
 123. 1. Zysk ze sprzedaży rzeczowych składników aktywów trwałych i wartości niematerialnych i prawnych
 124. 2. Rozwiązanie rezerw
@@ -159,7 +158,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 131. 3. Odpisy aktualizujące należności
 132. 4. Odpisy aktualizujące wartość rzeczowych składników aktywów trwałych i wartości niematerialnych i prawnych
 133. 5. Pozostałe
-134. XV. Zysk (strata) z działalności operacyjnej (III + VI + IX + XII + XIII XIV)
+134. XV. Zysk (strata) z działalności operacyjnej (III + VI + IX + XII + XIII – XIV)
 135. XVI. Przychody finansowe
 136. 1. Odsetki od udzielonych pożyczek
 137. 2. Odsetki od lokat i depozytów
@@ -175,10 +174,10 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 147. 1) zrealizowane
 148. 2) niezrealizowane
 149. 4. Pozostałe
-150. XVIII. Zysk (strata) brutto (XV + XVI XVII)
+150. XVIII. Zysk (strata) brutto (XV + XVI – XVII)
 151. XIX. Podatek dochodowy
 152. XX. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty)
-153. XXI. Zysk (strata) netto (XVIII XIX XX)
+153. XXI. Zysk (strata) netto (XVIII – XIX – XX)
 154. I. Zobowiązania warunkowe
 155. 1. Gwarancje
 156. 2. Kaucje, poręczenia
@@ -287,7 +286,7 @@ W Dziale II nie wykazuje się wartości instrumentów zapisanych w prowadzonych 
 8. W Lp. 165 wykazuje się wartość instrumentów finansowych zapisanych na rachunkach klientów, stanowiącą sumę wartości wykazanych w Lp. 166–171.
 9. Instrumentami finansowymi w systemie obrotu są:
 1) instrumenty finansowe dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu (ASO) albo na zorganizowanej platformie obrotu (OTF) na terytorium Rzeczypospolitej Polskiej;
-2) instrumenty finansowe dopuszczone do obrotu na zagranicznym rynku regulowanym lub wprowadzone do obrotu w zagranicznym alternatywnym systemie obrotu albo na zagranicznej zorganizowanej platformie obrotu (OTF) albo w przypadku państw trzecich w systemie obrotu odpowiadającym któremukolwiek z tych systemów.
+2) instrumenty finansowe dopuszczone do obrotu na zagranicznym rynku regulowanym lub wprowadzone do obrotu w zagranicznym alternatywnym systemie obrotu albo na zagranicznej zorganizowanej platformie obrotu (OTF) albo – w przypadku państw trzecich – w systemie obrotu odpowiadającym któremukolwiek z tych systemów.
 10. W Lp. 166 wykazuje się wartość akcji i praw do akcji znajdujących się w systemie obrotu, należących do klientów i zapisanych na rachunkach papierów wartościowych.
 11. W Lp. 167 wykazuje się wartość pozostałych papierów wartościowych znajdujących się w systemie obrotu, zapisanych na rachunkach papierów wartościowych klientów, które nie zostały wykazane w Lp. 168.
 12. W Lp. 168 wykazuje się wartość papierów wartościowych, które nie znajdują się w systemie obrotu, należących do klientów.
@@ -305,7 +304,7 @@ W Lp. 172 nie wykazuje się rejestrów akcjonariuszy.
 17. W Lp. 173 wykazuje się wartość papierów wartościowych zapisanych w rejestrach i ewidencjach, o których mowa w pkt 16.
 18. W Lp. 174 wykazuje się wartość przechowywanych lub rejestrowanych instrumentów finansowych klientów, innych niż wykazane w Działach II i IV.
 W Lp. 174 nie wykazuje się instrumentów zapisanych w rejestrach akcjonariuszy.
-19. W Lp. 175 wykazuje się wartość aktywów klientów przechowywanych i rejestrowanych w ramach pełnienia funkcji depozytariusza, stanowiącą sumę wartości z Lp.176–179.
+19. W Lp. 175 wykazuje się wartość aktywów klientów przechowywanych i rejestrowanych w ramach pełnienia funkcji depozytariusza, stanowiącą sumę wartości z Lp. 176–179.
 W Dziale VI wykazuje się wartość tych instrumentów także w przypadku, gdy została ona wykazana w Działach II, IV i V.
 W Dziale VI wykazuje się wartość aktywów także w przypadku, gdy aktywa te zostały powierzone innemu podmiotowi do przechowywania (outsourcing czynności depozytariusza).
 20. W Lp. 176 wykazuje się wartość papierów wartościowych zapisanych na rachunkach papierów wartościowych prowadzonych w ramach pełnienia funkcji depozytariusza funduszu inwestycyjnego, o których mowa w art. 72b ust. 1 ustawy o funduszach inwestycyjnych.
@@ -321,7 +320,7 @@ W Lp. 180 wykazuje się wartość aktywów zarządzanych, w tym aktywów objęty
 29. W Lp. 188 wykazuje się sumę pozostałych należących do klientów środków pieniężnych, w szczególności wpłaty klientów na papiery wartościowe w ramach obrotu pierwotnego lub pierwszej oferty publicznej.
 30. W Lp. 189 wykazuje się sumę środków pieniężnych, które zostały wykazane w Lp. 190–193.
 31. W Lp. 190 wykazuje się sumę sald rachunków bankowych, na których są przechowywane środki pieniężne klientów.
-32. W Lp.191 wykazuje się stan środków pieniężnych należących do klientów, które nie zostały wykazane w Lp.190.
+32. W Lp. 191 wykazuje się stan środków pieniężnych należących do klientów, które nie zostały wykazane w Lp. 190.
 33. W Lp. 192 wykazuje się sumę sald rachunków bankowych, na których są przechowywane środki pieniężne domu maklerskiego.
 34. W Lp. 193 wykazuje się wartość środków pieniężnych, które nie zostały wykazane w Lp. 192.
 35. W Lp. 194 wykazuje się łączną wartość kryptoaktywów wykazywanych w Lp. 195 i 196.
@@ -366,7 +365,60 @@ W przypadku wskaźników jakościowych, dla których nie zostały przyjęte pozi
 1. Wartości w części N przekazywane są przez podmioty świadczące usługi w zakresie kryptoaktywów, o których mowa w art. 3 ust. 1 pkt 17–26 rozporządzenia 2023/1114.
 2. W Lp. 232 wykazuje się łączną wartość przychodów osiąganych w ramach usług w zakresie kryptoaktywów, o których mowa w art. 3 ust. 1 pkt 17–26 rozporządzenia 2023/1114.
 3. W Lp. 233–242 wykazuje się wartość przychodów osiąganych w ramach poszczególnych usług w zakresie kryptoaktywów, o których mowa w art. 3 ust. 1 pkt 17–26 rozporządzenia 2023/1114.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy:
+
+## CZĘŚĆ A – AKTYWA (według stanu na ostatni dzień okresu sprawozdawczego) Lp.
+
+## CZĘŚĆ B – PASYWA (według stanu na ostatni dzień okresu sprawozdawczego)
+
+## CZĘŚĆ C – RACHUNEK ZYSKÓW I STRAT (narastająco od początku roku obrotowego)
+
+## CZĘŚĆ D – POZYCJE POZABILANSOWE (według stanu na ostatni dzień okresu sprawozdawczego)
+
+## CZĘŚĆ E – AKTYWA KLIENTÓW (według stanu na ostatni dzień okresu sprawozdawczego)
+
+## CZĘŚĆ F – Należności przeterminowane (według stanu na ostatni dzień okresu sprawozdawczego)
+
+## CZĘŚĆ G – Zobowiązania przeterminowane (według stanu na ostatni dzień okresu sprawozdawczego)
+
+## CZĘŚĆ H – Transakcje ze stronami powiązanymi (według stanu na ostatni dzień okresu sprawozdawczego)
+
+## CZĘŚĆ I – Przewidywane naruszenia wymogów w zakresie funduszy własnych oraz wymogów płynności
+
+## CZĘŚĆ J – Kapitał wewnętrzny/założycielski
+
+## CZĘŚĆ K – Aktywa płynne/oszacowane aktywa płynne
+
+## CZĘŚĆ L – Fundusze własne i wymogi kapitałowe
+
+## CZĘŚĆ M – Wskaźniki planu naprawy
+
+## CZĘŚĆ N – Przychody wynikające ze świadczenia usług w zakresie kryptoaktywów
+
+## CZĘŚĆ A–D
+
+## CZĘŚĆ E
+
+## CZĘŚĆ F
+
+## CZĘŚĆ G
+
+## CZĘŚĆ H
+
+## CZĘŚĆ I W Lp. 217–219 podaje się informację o przewidywanym w okresie najbliższych 30 dni niespełnieniu wymogów w zakresie funduszy własnych, o których mowa w § 3 ust. 1 pkt 35, lub wymogów dotyczących płynności, o których mowa w § 3 ust. 1 pkt 51, w ujęciu jednostkowym.
+
+## CZĘŚĆ J
+
+## CZĘŚĆ K
+
+## CZĘŚĆ L
+
+## CZĘŚĆ M
+
+## CZĘŚĆ N
+
+## Załącznik nr 2 — Zakres informacji zawartych w informacji o wybranych danych finansowych z zakresu bilansu, pozycji pozabilansowych oraz rachunku zysków i strat domu maklerskiego (IDF) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy:
+
+CZĘŚĆ A – AKTYWA (według stanu na ostatni dzień okresu sprawozdawczego) Lp.
 1. I. Środki pieniężne i inne aktywa pieniężne
 2. II. Należności krótkoterminowe
 3. III. Instrumenty finansowe przeznaczone do obrotu
@@ -402,6 +454,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 33. 2. Pozostałe rozliczenia międzyokresowe
 34. XIII. Należne wpłaty na kapitał (fundusz) podstawowy
 35. XIV. Udziały (akcje) własne
+CZĘŚĆ B – PASYWA (według stanu na ostatni dzień okresu sprawozdawczego)
 36. I. Zobowiązania krótkoterminowe
 37. II. Zobowiązania długoterminowe
 38. III. Rozliczenia międzyokresowe
@@ -425,6 +478,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 56. 2) strata z lat ubiegłych (wartość ujemna)
 57. 6. Zysk (strata) netto
 58. 7. Odpisy z zysku netto w ciągu roku obrotowego (wielkość ujemna)
+CZĘŚĆ C – RACHUNEK ZYSKÓW I STRAT (narastająco od początku roku obrotowego)
 59. I. Przychody z działalności podstawowej
 60. 1. Przychody z działalności maklerskiej
 61. 1) z tytułu przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych
@@ -500,7 +554,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 131. 3. Odpisy aktualizujące należności
 132. 4. Odpisy aktualizujące wartość rzeczowych składników aktywów trwałych i wartości niematerialnych i prawnych
 133. 5. Pozostałe
-134. XV. Zysk (strata) z działalności operacyjnej (III + VI + IX + XII + XIII XIV)
+134. XV. Zysk (strata) z działalności operacyjnej (III + VI + IX + XII + XIII – XIV)
 135. XVI. Przychody finansowe
 136. 1. Odsetki od udzielonych pożyczek
 137. 2. Odsetki od lokat i depozytów
@@ -516,10 +570,11 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 147. 1) zrealizowane
 148. 2) niezrealizowane
 149. 4. Pozostałe
-150. XVIII. Zysk (strata) brutto (XV + XVI XVII)
+150. XVIII. Zysk (strata) brutto (XV + XVI – XVII)
 151. XIX. Podatek dochodowy
 152. XX. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty)
-153. XXI. Zysk (strata) netto (XVIII XIX XX)
+153. XXI. Zysk (strata) netto (XVIII – XIX – XX)
+CZĘŚĆ D – POZYCJE POZABILANSOWE (według stanu na ostatni dzień okresu sprawozdawczego)
 154. I. Zobowiązania warunkowe
 155. 1. Gwarancje
 156. 2. Kaucje, poręczenia
@@ -530,9 +585,12 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 161. IV. Inne pozycje pozabilansowe OBJAŚNIENIA
 1. Można podać wszystkie dodatkowe informacje odnoszące się do poszczególnych pozycji, których przekazanie uznaje się za kluczowe dla przedstawienia informacji o sytuacji finansowej, w szczególności niezbędne w ocenie podmiotu sprawozdającego komentarze i wyjaśnienia, które mają pomóc w prawidłowej analizie i ocenie danych przez Komisję.
 2. W Lp. 68, 69, 84, 127 i 133 podaje się opis danej pozycji, w szczególności główne rodzaje uwzględnionych przychodów lub kosztów.
+CZĘŚĆ A–D
 1. Wartości w Lp. 1–161 wykazuje się zgodnie z przepisami wydanymi na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości.
 2. W Lp. 66 wykazuje się dane, które na potrzeby przepisów wydanych na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości są wykazywane w poz. „Przychody z działalności maklerskiej z tytułu świadczenia usług w wykonywaniu zawartych umów o subemisje inwestycyjne i usługowe lub zawierania i wykonywania innych umów o podobnym charakterze, jeżeli ich przedmiotem są instrumenty finansowe.”.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: Lp.
+
+## Załącznik nr 3 — Zakres informacji zawartych w sprawozdaniu w zakresie płynności domu maklerskiego (LUKA PŁYNNOŚCI) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: Lp.
+
 1. Dział I. Luka płynności
 2. 1. Do 14 dni
 3. 2. Od 15 dni do 1 miesiąca
@@ -542,7 +600,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 7. 6. Powyżej 12 miesięcy
 8. 7. Bez terminu
 9. 8. Wartość bilansowa łącznie
-10. 9. Uwagi w podziale na Aktywa
+10. 9. Uwagi – w podziale na Aktywa
 11. I. Środki pieniężne i inne aktywa pieniężne
 12. 1. Własne w kasie i na rachunkach bankowych
 13. 2. Wynikające z zawartych umów pożyczek papierów wartościowych
@@ -592,7 +650,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 57. 1. Gwarancje
 58. 2. Kaucje, poręczenia
 59. 3. Inne Luka płynności
-60. Luka płynności (Aktywa Zobowiązania + Otrzymane zobowiązania pozabilansowe Udzielone zobowiązania pozabilansowe)
+60. Luka płynności (Aktywa – Zobowiązania + Otrzymane zobowiązania pozabilansowe – Udzielone zobowiązania pozabilansowe)
 61. Skumulowana luka płynności
 62. Dział II. Finansowanie luki płynności
 63. 1. Do 14 dni
@@ -603,7 +661,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 68. 6. Powyżej 12 miesięcy
 69. 7. Bez terminu
 70. 8. Wartość bilansowa łącznie
-71. 9. Uwagi w podziale na
+71. 9. Uwagi – w podziale na
 72. 1. Działalność operacyjną
 73. Szczegółowy opis sposobu finansowania
 74. 2. Działalność inwestycyjną
@@ -611,7 +669,8 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 76. 3. Działalność finansową
 77. Szczegółowy opis sposobu finansowania
 78. Skumulowana luka płynności po uwzględnieniu finansowania OBJAŚNIENIA W przypadku gdy przedstawiane pozycje według podmiotu sprawozdającego powinny znajdować się w innym przedziale czasowym niż wskazany w Lp. 2–8 i 63–69, podać informacje zgodnie z objaśnieniami oraz zamieścić adnotację w Lp. 10 i 79. Pozycje bilansowe w Lp. 11–52 wyraża się w wartości bilansowej i uzgadnia do odpowiednich pozycji sprawozdania miesięcznego sporządzanego na ostatni dzień kwartału.
-1. W Lp.12 wykazuje się środki zgodnie z terminami zapadalności lokat, a środki a vista wykazuje się w Lp. 2.
+Dział I. Luka płynności (wartość bilansowa według stanu na ostatni dzień miesiąca)
+1. W Lp. 12 wykazuje się środki zgodnie z terminami zapadalności lokat, a środki a vista wykazuje się w Lp. 2.
 2. W Lp. 13 wartości klasyfikuje się jako wymagalne bezterminowo i wykazuje w Lp. 8.
 3. W Lp. 14 wykazuje się pozostałe środki pieniężne, niewykazane w Lp. 12 i 13.
 Należności te klasyfikuje się jako wymagalne bezterminowo i wykazuje w Lp. 8.
@@ -643,14 +702,17 @@ Zobowiązanie przeterminowane wykazuje się w Lp. 2.
 28. W Lp. 54 dostępne do wykorzystania linie kredytowe klasyfikuje się jako wymagalne w najbliższym możliwym terminie, w którym mogą zostać uruchomione.
 29. W Lp. 55 wartości klasyfikuje się jako wymagalne bezterminowo i wykazuje w Lp. 8.
 30. Udzielone warunkowe zobowiązania klasyfikuje się jako wymagalne w najbliższym możliwym terminie, w którym mogą zostać uruchomione. W przypadku braku terminu takie zobowiązania klasyfikuje się jako wymagalne w terminie do 14 dni i wykazuje w Lp. 2.
+Dział II. Finansowanie luki płynności
 1. Informacje określone w Dziale II wykazuje się, w przypadku gdy w którymkolwiek z przedziałów czasowych określonych w Dziale I występuje skumulowana ujemna luka płynności.
 2. Sposób pokrycia skumulowanej ujemnej luki płynności wykazuje się przez wskazanie kwoty finansowania:
 1) Lp. 72 działalność operacyjna;
 2) Lp. 74 działalność inwestycyjna;
 3) Lp. 76 działalność finansowa.
 3. W przypadku wskazania kwoty finansowania w Lp. 72, 74 lub 76 jest konieczne wykazanie szczegółowego opisu danego sposobu finansowania odpowiednio w Lp. 73, 75 lub 77.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: Lp.
-1. Część A Akcje i udziały
+
+## Załącznik nr 4 — Zakres informacji zawartych w sprawozdaniu w zakresie instrumentów finansowych domu maklerskiego (PORTFEL) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: Lp.
+
+1. Część A – Akcje i udziały
 2. I. Należące do portfela handlowego
 3. 1. Pozycja (długa/krótka)
 4. 2. Rodzaj instrumentu
@@ -683,7 +745,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 31. 13. Pozycja MDF
 32. 14. Funkcja
 33. 15. Uwagi
-34. Część B Instrumenty dłużne
+34. Część B – Instrumenty dłużne
 35. I. Należące do portfela handlowego
 36. 1. Pozycja (długa/krótka)
 37. 2. Rodzaj instrumentu
@@ -724,7 +786,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 72. 17. Pozycja w MDF
 73. 18. Funkcja
 74. 19. Uwagi
-75. Część C Instrumenty, o których mowa w art. 2 ust. 1 pkt 2 lit. c–i ustawy, z wyłączeniem produktów energetycznych będących przedmiotem obrotu hurtowego na OTF, które muszą być wykonywane przez dostawę, o których mowa w art. 2 ust. 1 pkt 2 lit. e ustawy
+75. Część C – Instrumenty, o których mowa w art. 2 ust. 1 pkt 2 lit. c – i ustawy, z wyłączeniem produktów energetycznych będących przedmiotem obrotu hurtowego na OTF, które muszą być wykonywane przez dostawę, o których mowa w art. 2 ust. 1 pkt 2 lit. e ustawy
 76. I. Należące do portfela handlowego
 77. 1. Pozycja (długa/krótka)
 78. 2. Rodzaj instrumentu
@@ -765,7 +827,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 113. 17. Funkcja
 114. 18. Typ kontrahenta
 115. 19. Uwagi
-116. Część D Inne
+116. Część D – Inne
 117. I. Należące do portfela handlowego
 118. 1. Pozycja (długa/krótka)
 119. 2. Rodzaj instrumentu
@@ -796,10 +858,10 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 145. 13. Funkcja
 146. 14. Uwagi OBJAŚNIENIA
 1. Pozycje w instrumentach finansowych dzieli się na odpowiednie kategorie instrumentów i przedstawia w podziale na pozycje zaliczane do portfela handlowego oraz pozycje zaliczane do portfela niehandlowego, zgodnie z rozporządzeniem 575/2013:
-1) część A akcje i udziały;
-2) część B instrumenty dłużne;
-3) część C instrumenty, o których mowa w art. 2 ust. 1 pkt 2 lit. c–i ustawy, z wyłączeniem produktów energetycznych będących przedmiotem obrotu hurtowego na zagranicznej zorganizowanej platformie obrotu (OTF), które muszą być wykonywane przez dostawę, o których mowa w art. 2 ust. 1 pkt 2 lit. e ustawy;
-4) część D inne instrumenty.
+1) część A – akcje i udziały;
+2) część B – instrumenty dłużne;
+3) część C – instrumenty, o których mowa w art. 2 ust. 1 pkt 2 lit. c–i ustawy, z wyłączeniem produktów energetycznych będących przedmiotem obrotu hurtowego na zagranicznej zorganizowanej platformie obrotu (OTF), które muszą być wykonywane przez dostawę, o których mowa w art. 2 ust. 1 pkt 2 lit. e ustawy;
+4) część D – inne instrumenty.
 2. Wartość bilansowa oznacza wartość instrumentu ustaloną zgodnie z obowiązującymi zasadami rachunkowości, zgodną z odpowiednią pozycją bilansową sprawozdania miesięcznego (MDF).
 3. Wartość według ceny nabycia oznacza wartość danego instrumentu ustaloną zgodnie z obowiązującymi zasadami rachunkowości w momencie nabycia tego instrumentu.
 4. W Lp. 3, 19, 36, 56, 77, 97, 118 i 133 wykazuje się pozycję, jaką w instrumencie zajmuje podmiot.
@@ -810,17 +872,20 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 9. W Lp. 10, 26, 43, 63, 84, 104, 124 i 139 wykazuje się skrót waluty zgodnie z międzynarodowym standardem ISO 4217, w której jest określona wartość instrumentu.
 10. W Lp. 15, 31, 52, 72, 92, 112, 129 i 144 wykazuje się pozycję bilansu, do której zaliczono pozycję w sprawozdaniu miesięcznym (MDF).
 11. W Lp. 16, 32, 53, 73, 93, 113, 130 i 145 wykazuje się działalność, w ramach której podmiot zajął pozycję w instrumencie:
-1) animator świadczenie usług animatora emisji/emitenta;
-2) dealer działalność inwestycyjna na własny rachunek;
-3) subemisja świadczenie usług subemisji;
-4) inna działalność w pozycji Uwagi.
+1) animator – świadczenie usług animatora emisji/emitenta;
+2) dealer – działalność inwestycyjna na własny rachunek;
+3) subemisja – świadczenie usług subemisji;
+4) inna działalność – w pozycji Uwagi.
 12. W Lp. 17, 33, 54, 74, 95, 115, 131 i 146 wykazuje się w szczególności dodatkowe dane, w przypadku gdy w innych pozycjach wykazano wartości wymagające uszczegółowienia.
 13. W Lp. 37 i 57 wykazuje się odpowiednio obligacje skarbowe, obligacje korporacyjne, bony skarbowe lub inne instrumenty.
 14. W Lp. 78 i 98 podaje się opis charakteryzujący instrument, np. CFD (kontrakt na różnice kursowe), futures (kontrakt terminowy typu futures), forward (kontrakt terminowy typu forward), opcja call (opcja kupna), opcja put (opcja sprzedaży).
 15. W Lp. 80 i 100 wykazuje się rodzaj instrumentu bazowego, w szczególności walutę, instrument dłużny, akcję, indeks giełdowy, indeks inny, towar lub inną wartość, która charakteryzuje pozycję.
 16. W Lp. 94 i 114 wykazuje się typ drugiej strony transakcji, np. kontrahent centralny, przedsiębiorstwo, klient detaliczny.
 17. W Lp. 95 i 115, poza informacjami wskazanymi w pkt 11, wykazuje się jednostkę, która odnosi się do wartości przedstawionej w Lp. 83 i 103.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy:
+
+## Załącznik nr 5 — Zakres informacji zawartych w informacji o wybranych skonsolidowanych danych finansowych domu maklerskiego (SDF) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy:
+
+CZĘŚĆ A – AKTYWA (według stanu na ostatni dzień okresu sprawozdawczego, w podziale na skonsolidowane dane finansowe jednostek objętych zakresem konsolidacji rachunkowej i skonsolidowane dane finansowe dotyczące jednostek objętych zakresem konsolidacji ostrożnościowej) Lp.
 1. I. Środki pieniężne i inne aktywa pieniężne
 2. II. Należności krótkoterminowe
 3. III. Instrumenty finansowe przeznaczone do obrotu
@@ -857,6 +922,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 34. 2. Pozostałe rozliczenia międzyokresowe
 35. XIV. Należne wpłaty na kapitał (fundusz) podstawowy
 36. XV. Udziały (akcje) własne
+CZĘŚĆ B – PASYWA (według stanu na ostatni dzień okresu sprawozdawczego, w podziale na skonsolidowane dane finansowe jednostek objętych zakresem konsolidacji rachunkowej i skonsolidowane dane finansowe dotyczące jednostek objętych zakresem konsolidacji ostrożnościowej)
 37. I. Zobowiązania krótkoterminowe
 38. II. Zobowiązania długoterminowe
 39. III. Rozliczenia międzyokresowe
@@ -883,6 +949,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 60. 8. Odpisy z zysku netto w ciągu roku obrotowego (wielkość ujemna)
 61. VII. Kapitały (fundusze) mniejszości
 62. VIII. Ujemna wartość firmy jednostek podporządkowanych
+CZĘŚĆ C – RACHUNEK ZYSKÓW I STRAT (narastająco od początku roku obrotowego, w podziale na skonsolidowane dane finansowe jednostek objętych zakresem konsolidacji rachunkowej i skonsolidowane dane finansowe dotyczące jednostek objętych zakresem konsolidacji ostrożnościowej)
 63. I. Przychody z działalności podstawowej
 64. 1. Przychody z działalności maklerskiej
 65. 1) z tytułu przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych
@@ -909,7 +976,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 86. 12. Podatki i inne opłaty o charakterze publicznoprawnym
 87. 13. Prowizje i inne opłaty
 88. 14. Pozostałe
-89. III. Zysk (strata) z działalności podstawowej (I II)
+89. III. Zysk (strata) z działalności podstawowej (I – II)
 90. IV. Przychody z instrumentów finansowych przeznaczonych do obrotu
 91. 1. Dywidendy i inne udziały w zyskach
 92. 2. Odsetki
@@ -920,7 +987,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 97. 1. Korekty aktualizujące wartość
 98. 2. Strata ze sprzedaży/umorzenia
 99. 3. Pozostałe
-100. VI. Zysk (strata) z operacji instrumentami finansowymi przeznaczonymi do obrotu (IV V)
+100. VI. Zysk (strata) z operacji instrumentami finansowymi przeznaczonymi do obrotu (IV – V)
 101. VII. Przychody z instrumentów finansowych utrzymywanych do terminu zapadalności
 102. 1. Odsetki
 103. 2. Korekty aktualizujące wartość
@@ -932,7 +999,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 109. 2. Amortyzacja premii od dłużnych papierów wartościowych
 110. 3. Strata ze sprzedaży/umorzenia
 111. 4. Pozostałe
-112. IX. Zysk (strata) z operacji instrumentami finansowymi utrzymywanymi do terminu zapadalności (VII VIII)
+112. IX. Zysk (strata) z operacji instrumentami finansowymi utrzymywanymi do terminu zapadalności (VII – VIII)
 113. X. Przychody z instrumentów finansowych dostępnych do sprzedaży
 114. 1. Dywidendy i inne udziały w zyskach
 115. 2. Odsetki
@@ -945,7 +1012,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 122. 2. Strata ze sprzedaży/umorzenia
 123. 3. Amortyzacja premii od dłużnych papierów wartościowych
 124. 4. Pozostałe
-125. XII. Zysk (strata) z operacji instrumentami finansowymi dostępnymi do sprzedaży (X XI)
+125. XII. Zysk (strata) z operacji instrumentami finansowymi dostępnymi do sprzedaży (X – XI)
 126. XIII. Pozostałe przychody operacyjne
 127. 1. Zysk ze sprzedaży rzeczowych składników aktywów trwałych i wartości niematerialnych i prawnych
 128. 2. Rozwiązanie rezerw
@@ -958,7 +1025,7 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 135. 3. Odpisy aktualizujące należności
 136. 4. Odpisy aktualizujące wartość rzeczowych składników aktywów trwałych i wartości niematerialnych i prawnych
 137. 5. Pozostałe
-138. XV. Zysk (strata) z działalności operacyjnej (III + VI + IX + XII + XIII XIV)
+138. XV. Zysk (strata) z działalności operacyjnej (III + VI + IX + XII + XIII – XIV)
 139. XVI. Przychody finansowe
 140. 1. Odsetki od udzielonych pożyczek
 141. 2. Odsetki od lokat i depozytów
@@ -978,12 +1045,13 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 155. XIX. Odpis ujemnej wartości firmy jednostek podporządkowanych
 156. XX. Zysk mniejszości
 157. XXI. Strata mniejszości
-158. XXII. Zysk (strata) brutto (XV + XVI XVII XVIII + XIX XX XXI)
+158. XXII. Zysk (strata) brutto (XV + XVI – XVII – XVIII + XIX – XX – XXI)
 159. XXIII. Podatek dochodowy
 160. XXIV. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty)
 161. 1. Udział w zyskach netto jednostek podporządkowanych wycenianych metodą praw własności
 162. 2. Udział w stratach netto jednostek podporządkowanych wycenianych metodą praw własności
-163. XXV. Zysk (strata) netto (XXII XXIII XXIV)
+163. XXV. Zysk (strata) netto (XXII – XXIII – XXIV)
+CZĘŚĆ D – POZYCJE POZABILANSOWE (według stanu na ostatni dzień okresu sprawozdawczego, w podziale na skonsolidowane dane finansowe jednostek objętych zakresem konsolidacji rachunkowej i skonsolidowane dane finansowe dotyczące jednostek objętych zakresem konsolidacji ostrożnościowej)
 164. I. Zobowiązania warunkowe
 165. 1. Gwarancje
 166. 2. Kaucje, poręczenia
@@ -993,20 +1061,25 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 170. III. Kontrakty terminowe nabyte lub wystawione w imieniu i na rachunek domu maklerskiego
 171. IV. Inne pozycje pozabilansowe
 172. V. Podmioty, które wchodzą w zakres konsolidacji
+CZĘŚĆ E – TRANSAKCJE ZE STRONAMI POWIĄZANYMI
 173. 1. Data zawarcia transakcji
 174. 2. Liczba transakcji
 175. 3. NIP
 176. 4. Przedmiot i rodzaj transakcji
 177. 5. Wartość transakcji w PLN (wartość godziwa)
 178. 6. Wartość transakcji w PLN (wartość transakcyjna)
+CZĘŚĆ F – PRZEWIDYWANE NARUSZENIA WYMOGÓW W ZAKRESIE FUNDUSZY WŁASNYCH ORAZ WYMOGÓW PŁYNNOŚCI
 179. 1. Wskazanie przepisów, których naruszenie jest przewidywane
 180. 2. Przewidywany termin naruszenia
 181. 3. Przyczyny przewidywanego naruszenia
+CZĘŚĆ G – SKONSOLIDOWANY KAPITAŁ WEWNĘTRZNY (według stanu na ostatni dzień okresu sprawozdawczego)
 182. 1. Wartość kapitału wewnętrznego
 183. 2. Całkowita wartość skonsolidowanego kapitału wewnętrznego
+CZĘŚĆ H – SKONSOLIDOWANE AKTYWA PŁYNNE/AKTYWA PŁYNNE WYNIKAJĄCE Z OSZACOWANIA
 184. 1. Skonsolidowane aktywa płynne (wartość)
 185. 2. Skonsolidowane aktywa płynne na potrzeby spełniania wymogu, o którym mowa w art. 110e ust. 2 pkt 2 ustawy (wartość)
 186. 3. Zapotrzebowanie na aktywa płynne wynikające z oszacowania, o którym mowa w art. 110e ust. 1 ustawy, na zasadzie skonsolidowanej
+CZĘŚĆ I – FUNDUSZE WŁASNE I WYMOGI NA ZASADZIE SKONSOLIDOWANEJ
 187. 1. Fundusze własne
 188. 1) Kapitał podstawowy Tier I
 189. 2) Kapitał dodatkowy Tier I
@@ -1016,23 +1089,31 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 2. Skonsolidowane dane finansowe jednostek objętych zakresem konsolidacji ostrożnościowej w części A–D wykazuje się w zakresie jednostek objętych zakresem konsolidacji ostrożnościowej zgodnie z przepisami części pierwszej tytułu II rozdziału 2 rozporządzenia 2019/2033.
 3. Dane w częściach F i G wykazuje podmiot sprawozdający zobowiązany do spełniania wymogów w zakresie funduszy własnych oraz wymogów dotyczących płynności na zasadzie skonsolidowanej zgodnie z przepisami części pierwszej tytułu II rozdziału 2 rozporządzenia 2019/2033.
 4. Można podać wszystkie dodatkowe informacje odnoszące się do poszczególnych pozycji, których przekazanie uznaje się za kluczowe dla przedstawienia informacji o sytuacji finansowej, w szczególności niezbędne w ocenie podmiotu sprawozdającego komentarze i wyjaśnienia, które mają pomóc w prawidłowej analizie i ocenie danych przez Komisję.
+CZĘŚĆ A–D
 1. Pozycje w częściach A–D w Lp. 1–172 wykazuje się zgodnie z przepisami wydanymi na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości.
 2. W Lp. 70 wykazuje się dane, które na potrzeby przepisów wydanych na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości są wykazywane w poz. „Przychody z działalności maklerskiej z tytułu świadczenia usług w wykonywaniu zawartych umów o subemisje inwestycyjne i usługowe lub zawierania i wykonywania innych umów o podobnym charakterze, jeżeli ich przedmiotem są instrumenty finansowe.”.
 3. W Lp. 172 wykazuje się odrębnie pełne nazwy podmiotów objętych konsolidacją rachunkową zgodnie z obowiązującymi zasadami rachunkowości oraz pełne nazwy podmiotów objętych konsolidacją ostrożnościową zgodnie z przepisami części pierwszej tytułu II rozdziału 2 rozporządzenia 2019/2033.
+CZĘŚĆ E
 1. W Lp. 173–178 podaje się informacje o transakcjach ze stronami powiązanymi zgodnie z przepisami wydanymi na podstawie art. 81 ust. 2 pkt 2 ustawy o rachunkowości, których wartość przekracza 5 % skonsolidowanych funduszy własnych obliczonych zgodnie z rozporządzeniem 2019/2033.
 2. Dane wykazuje się w podziale na poszczególne transakcje. Wartość transakcji wykazuje się w wartości godziwej i transakcyjnej. W przypadku konieczności wykazania powyżej 50 pozycji dopuszcza się przekazanie danych w podziale na poszczególne podmioty powiązane wraz z liczbą zawartych transakcji.
 3. W Lp. 175 podaje się NIP albo jego odpowiednik stosowany poza UE (w przypadku jego braku podaje się nazwę podmiotu i kraj pochodzenia).
+CZĘŚĆ F W Lp. 179–181 podaje się informacje o przewidywanym w okresie najbliższych 30 dni niespełnieniu wymogów w zakresie funduszy własnych, o których mowa w § 3 ust. 1 pkt 35, lub wymogów dotyczących płynności, o których mowa w § 3 ust. 1 pkt 51, na zasadzie skonsolidowanej.
+CZĘŚĆ G
 1. W Lp. 182 podaje się informację o oszacowaniu skonsolidowanego kapitału wewnętrznego zgodnie z art. 110e ust. 1 ustawy, ze wskazaniem kategorii ryzyka.
 2. W Lp. 183 wykazuje się całkowitą wartość skonsolidowanego kapitału wewnętrznego.
+CZĘŚĆ H
 1. W Lp. 184 wykazuje się wartość skonsolidowanych aktywów płynnych obliczonych na potrzeby kalkulacji wymogu dotyczącego płynności zgodnie z art. 43 rozporządzenia 2019/2033.
 2. W Lp. 185 wykazuje się wartość skonsolidowanych aktywów płynnych obliczonych dla potrzeb kalkulacji wymogu określonego w art. 110e ust. 2 pkt 2 ustawy.
 3. W Lp. 186 wykazuje się całkowitą wartość zapotrzebowania na aktywa płynne na zasadzie skonsolidowanej, oszacowanego zgodnie z art. 110e ust.1 ustawy.
+CZĘŚĆ I
 1. W Lp. 187 wykazuje się wartość funduszy własnych na zasadzie skonsolidowanej zgodnie z art. 9 ust. 1 rozporządzenia 2019/2033, stanowiącą sumę Kapitału podstawowego Tier I, Kapitału dodatkowego Tier I oraz Kapitału Tier II.
 2. W Lp. 188 wykazuje się wartość Kapitału podstawowego Tier I na zasadzie skonsolidowanej zgodnie z art. 9 ust. 1 rozporządzenia 2019/2033.
 3. W Lp. 189 wykazuje się wartość Kapitału dodatkowego Tier I na zasadzie skonsolidowanej zgodnie z art. 9 ust. 1 rozporządzenia 2019/2033.
 4. W Lp. 190 wykazuje się wartość Kapitału Tier II na zasadzie skonsolidowanej zgodnie z art. 9 ust. 1 rozporządzenia 2019/2033.
 5. W Lp. 191 wykazuje się wartość wymogu w zakresie funduszy własnych, o którym mowa w art. 11 rozporządzenia 2019/2033, na zasadzie skonsolidowanej. W przypadku gdy podmiot sprawozdający korzysta z przepisów przejściowych określonych w art. 57 rozporządzenia 2019/2033, wartość wymogu wykazuje się z uwzględnieniem tych przepisów. W przypadku gdy na podmiot sprawozdający nałożono obowiązek utrzymywania dodatkowych wymogów w zakresie funduszy własnych, o których mowa w art. 110y ust. 3 ustawy lub w art. 110ya ustawy, na zasadzie skonsolidowanej, wartość wymogu w zakresie funduszy własnych, o którym mowa w art. 11 rozporządzenia 2019/2033, wykazuje się z uwzględnieniem tych dodatkowych wymogów.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: I. Informacje ogólne.
+
+## Załącznik nr 6 — Zakres informacji zawartych w półrocznym sprawozdaniu z działalności banku, o którym mowa w art. 70 ust. 2 ustawy (PRN-03) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: I. Informacje ogólne.
+
 1. Wykonywane czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4 ustawy, z przyporządkowaniem instrumentów finansowych będących przedmiotem tych czynności, według stanu na ostatni dzień okresu sprawozdawczego.
 2. Czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4 ustawy, wykonywane na terytorium innych państw członkowskich bez otwierania oddziału, z przyporządkowaniem instrumentów finansowych będących przedmiotem tych czynności, wraz z liczbą klientów detalicznych, profesjonalnych oraz uprawnionych kontrahentów dla każdego z państw, w którym jest prowadzona działalność, według stanu na ostatni dzień okresu sprawozdawczego.
 3. Liczba oddziałów banku, w których jest prowadzona działalność, o której mowa w art. 70 ust. 2 ustawy, wraz z informacją o liczbie oddziałów, w których nie jest zatrudniony pracownik autoryzowany w rozumieniu rozporządzenia w sprawie szczegółowych warunków technicznych i organizacyjnych, ze wskazaniem przyczyn, według stanu na ostatni dzień okresu sprawozdawczego.
@@ -1040,7 +1121,7 @@ II. Funkcja zgodności z przepisami:
 1. Dane dotyczące inspektora nadzoru, ze wskazaniem:
 1) danych osobowych osoby wykonującej funkcję inspektora nadzoru,
 2) numeru telefonu do osoby wykonującej funkcję inspektora nadzoru,
-3) adresu poczty elektronicznej osoby wykonującej funkcję inspektora nadzoru według stanu na ostatni dzień okresu sprawozdawczego.
+3) adresu poczty elektronicznej osoby wykonującej funkcję inspektora nadzoru – według stanu na ostatni dzień okresu sprawozdawczego.
 2. Liczba i termin kontroli, ze wskazaniem:
 1) przedmiotu przeprowadzonej kontroli,
 2) okresu objętego kontrolą,
@@ -1049,7 +1130,7 @@ II. Funkcja zgodności z przepisami:
 5) stwierdzonych naruszeń,
 6) wydanych zaleceń,
 7) terminu wykonania zaleceń,
-8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń przeprowadzonych w okresie sprawozdawczym.
+8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – przeprowadzonych w okresie sprawozdawczym.
 3. Sposób i termin wykonania zaleceń, ze wskazaniem:
 1) przedmiotu kontroli,
 2) jednostki organizacyjnej objętej kontrolą,
@@ -1059,7 +1140,7 @@ II. Funkcja zgodności z przepisami:
 6) terminu, do którego powinny zostać wykonane zalecenia,
 7) terminu wykonania zaleceń,
 8) sposobu wykonania zaleceń,
-9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń wykonanych w okresie sprawozdawczym.
+9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – wykonanych w okresie sprawozdawczym.
 4. Liczba i przedmiot kontroli, których przeprowadzenie jest planowane w następnym okresie sprawozdawczym.
 III. Komórka audytu wewnętrznego:
 1. Liczba i termin badań audytowych, ze wskazaniem:
@@ -1070,7 +1151,7 @@ III. Komórka audytu wewnętrznego:
 5) stwierdzonych naruszeń,
 6) wydanych zaleceń,
 7) terminu wykonania zaleceń,
-8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń przeprowadzonych w okresie sprawozdawczym.
+8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – przeprowadzonych w okresie sprawozdawczym.
 2. Sposób i termin wykonania zaleceń, ze wskazaniem:
 1) przedmiotu badania audytowego,
 2) jednostki organizacyjnej objętej badaniem audytowym,
@@ -1080,15 +1161,15 @@ III. Komórka audytu wewnętrznego:
 6) terminu, do którego powinny zostać wykonane zalecenia,
 7) terminu wykonania zaleceń,
 8) sposobu wykonania zaleceń,
-9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń wykonanych w okresie sprawozdawczym.
-IV. Imię i nazwisko osoby odpowiedzialnej za wykonywanie obowiązków dotyczących zabezpieczania instrumentów finansowych i środków pieniężnych klientów, ze wskazaniem jej numeru telefonu i adresu poczty elektronicznej i numeru PESEL, a w przypadku jego braku daty i miejsca urodzenia.
+9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – wykonanych w okresie sprawozdawczym.
+IV. Imię i nazwisko osoby odpowiedzialnej za wykonywanie obowiązków dotyczących zabezpieczania instrumentów finansowych i środków pieniężnych klientów, ze wskazaniem jej numeru telefonu i adresu poczty elektronicznej i numeru PESEL, a w przypadku jego braku – daty i miejsca urodzenia.
 V. Reklamacje, o których mowa w art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r.
 o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109), złożone przez klientów w zakresie działalności, o której mowa w art. 70 ust. 2 ustawy:
 1. Liczba reklamacji, które wpłynęły w okresie sprawozdawczym.
 2. Łączna liczba reklamacji rozpatrzonych w okresie sprawozdawczym, w tym:
 1) uwzględniające całkowicie roszczenia klientów,
 2) uwzględniające częściowo roszczenia klientów,
-3) nieuwzględniające roszczeń klientów przy czym informacje, o których mowa w pkt 1 i 2, obejmują:
+3) nieuwzględniające roszczeń klientów – przy czym informacje, o których mowa w pkt 1 i 2, obejmują:
 1. łączną liczbę reklamacji;
 2. liczbę reklamacji w podziale na usługi (jedna reklamacja może dotyczyć więcej niż jednej usługi i więcej niż jednego produktu inwestycyjnego;
 przedmiotem jednej reklamacji może być więcej niż jeden rodzaj zdarzenia):
@@ -1118,14 +1199,16 @@ przedmiotem jednej reklamacji może być więcej niż jeden rodzaj zdarzenia):
 3) przedmiot reklamacji (zgodnie z podziałem na przedmiot reklamacji określonym w pkt 2);
 4) kwota roszczeń, które zgłosił klient w momencie składania reklamacji (w PLN);
 5) kwota uznanych roszczeń (wypłacona lub do wypłaty w PLN).
-4. Łączna kwota uznanych roszczeń dla pozostałych reklamacji, które zostały rozpatrzone w okresie sprawozdawczym (bez uwzględnienia 5 roszczeń o największej wartościuznanych na rzecz klientów, także w przypadku gdy nie zostały one klientowi wypłacone).
+4. Łączna kwota uznanych roszczeń dla pozostałych reklamacji, które zostały rozpatrzone w okresie sprawozdawczym (bez uwzględnienia 5 roszczeń o największej wartości uznanych na rzecz klientów, także w przypadku gdy nie zostały one klientowi wypłacone).
 VI. Miejsca, adresy i rodzaje archiwów, a także imię i nazwisko oraz funkcja osoby odpowiedzialnej za prowadzenie archiwów związanych z prowadzeniem działalności, o której mowa w art. 70 ust. 2 ustawy.
 VII. Świadczenie usług doradztwa inwestycyjnego w sposób niezależny lub zależny lub świadczenie usług doradztwa inwestycyjnego na rzecz tego samego klienta, zarówno w sposób niezależny, jak i zależny.
 VIII. Umowy outsourcingu dotyczące prowadzenia działalności, o której mowa w art. 70 ust. 2 ustawy, ze wskazaniem nazwy podmiotu, z którym zawarto umowę outsourcingu, datą zawarcia, zmiany, lub rozwiązania umowy, przedmiotem umowy i rodzajem usługi, rodzajem umowy (outsourcing regulowany/nieregulowany).
 IX. Nowe lub zmienione regulacje wewnętrzne oraz regulaminy i dokumenty przekazywane klientowi przed zawarciem umowy dotyczącej wykonywania poszczególnych czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4 ustawy, ze wskazaniem daty ich przyjęcia oraz wejścia w życie.
 X. Zidentyfikowane konflikty interesów w zakresie wykonywania poszczególnych czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4 ustawy, wraz z opisem okoliczności stanowiących konflikt interesów, ze wskazaniem jednostki organizacyjnej, której dotyczy konflikt, i procedur, których należy przestrzegać w celu zapobiegania takim konfliktom lub zarządzania nimi, oraz określeniem środków, które podjęto w tym celu.
 XI. Struktura organizacyjna w zakresie wykonywania poszczególnych czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4 ustawy, ze wskazaniem imion i nazwisk osób, o których mowa w § 24 rozporządzenia o systemie zarządzania ryzykiem, według stanu na ostatni dzień okresu sprawozdawczego.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiotu sprawozdającego): Okres sprawozdawczy: I. Informacje ogólne:
+
+## Załącznik nr 7 — Zakres informacji zawartych w półrocznym sprawozdaniu z działalności zagranicznej firmy inwestycyjnej prowadzącej na terytorium Rzeczypospolitej Polskiej działalność maklerską w formie oddziału (PRN-04) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiotu sprawozdającego): Okres sprawozdawczy: I. Informacje ogólne:
+
 1. Czynności wykonywane w zakresie działalności maklerskiej z przyporządkowaniem instrumentów finansowych będących przedmiotem tych czynności, według stanu na ostatni dzień okresu sprawozdawczego.
 2. Liczba pracowników, ze wskazaniem liczby autoryzowanych pracowników w rozumieniu rozporządzenia w sprawie szczegółowych warunków technicznych i organizacyjnych, zatrudnionych na ostatni dzień okresu sprawozdawczego.
 3. Maklerzy papierów wartościowych oraz doradcy inwestycyjni zatrudnieni na początku i na końcu okresu sprawozdawczego, ze wskazaniem ich imion i nazwisk oraz numerów licencji maklera papierów wartościowych lub doradcy inwestycyjnego, wykonywanych czynności, oraz daty nawiązania lub rozwiązania stosunku pracy.
@@ -1139,7 +1222,7 @@ II. Funkcja zgodności z przepisami:
 5) stwierdzonych naruszeń,
 6) wydanych zaleceń,
 7) terminu wykonania zaleceń,
-8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń przeprowadzonych w okresie sprawozdawczym.
+8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – przeprowadzonych w okresie sprawozdawczym.
 2. Sposób i termin wykonania zaleceń, ze wskazaniem:
 1) przedmiotu kontroli,
 2) jednostki organizacyjnej objętej kontrolą,
@@ -1149,7 +1232,7 @@ II. Funkcja zgodności z przepisami:
 6) terminu, do którego powinny zostać wykonane zalecenia,
 7) terminu wykonania zaleceń,
 8) sposobu wykonania zaleceń,
-9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń wykonanych w okresie sprawozdawczym.
+9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – wykonanych w okresie sprawozdawczym.
 3. Liczba i przedmiot kontroli, których przeprowadzenie jest planowane w następnym okresie sprawozdawczym.
 III. Komórka audytu wewnętrznego:
 1. Liczba i termin badań audytowych, ze wskazaniem:
@@ -1160,7 +1243,7 @@ III. Komórka audytu wewnętrznego:
 5) stwierdzonych naruszeń,
 6) wydanych zaleceń,
 7) terminu wykonania zaleceń,
-8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń przeprowadzonych w okresie sprawozdawczym.
+8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – przeprowadzonych w okresie sprawozdawczym.
 2. Sposób i termin wykonania zaleceń, ze wskazaniem:
 1) przedmiotu badania audytowego,
 2) jednostki organizacyjnej objętej badaniem audytowym,
@@ -1170,7 +1253,7 @@ III. Komórka audytu wewnętrznego:
 6) terminu, do którego powinny zostać wykonane zalecenia,
 7) terminu wykonania zaleceń,
 8) sposobu wykonania zaleceń,
-9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń wykonanych w okresie sprawozdawczym.
+9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – wykonanych w okresie sprawozdawczym.
 3. Liczba i przedmiot badań audytowych, których przeprowadzenie jest planowane w następnym okresie sprawozdawczym.
 IV. Liczba przekazanych w okresie sprawozdawczym przez pracowników do właściwej komórki wewnętrznej zgłoszeń dotyczących utraty dokumentu, projektu dokumentu, jego kopii lub innego nośnika informacji, zawierających informację poufną lub stanowiącą tajemnicę zawodową, wraz z przedmiotem zgłoszenia, terminem postępowania wyjaśniającego oraz wynikiem postępowania wyjaśniającego.
 V. Reklamacje, o których mowa w art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r.
@@ -1186,7 +1269,9 @@ VIII. Świadczenie usług doradztwa inwestycyjnego w sposób niezależny lub zal
 IX. Nowe lub zmienione regulacje wewnętrzne oraz regulaminy świadczenia usług maklerskich i dokumenty przekazywane klientowi przed zawarciem umowy o świadczenie usług maklerskich, ze wskazaniem daty ich przyjęcia oraz wejścia w życie.
 X. Zidentyfikowane konflikty interesów, wraz z opisem okoliczności, stanowiących konflikt interesów, ze wskazaniem usługi maklerskiej i jednostki organizacyjnej, których dotyczy konflikt, i procedur, których należy przestrzegać w celu zapobiegania takim konfliktom lub zarządzania nimi, oraz określeniem środków, które podjęto w tym celu.
 XI. Struktura organizacyjna, ze wskazaniem imion i nazwisk kluczowych pracowników, o których mowa w rozporządzeniu w sprawie szczegółowych warunków technicznych i organizacyjnych, według stanu na ostatni dzień okresu sprawozdawczego.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: Lp.
+
+## Załącznik nr 8 — Zakres informacji zawartych w zestawieniu statystycznym banku powierniczego Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: Lp.
+
 1. DZIAŁ I. Liczba prowadzonych rachunków klientów (Lp. 2+3)
 2. 1. Liczba prowadzonych rachunków papierów wartościowych klientów
 3. 2. Liczba prowadzonych pozostałych rachunków instrumentów finansowych klientów
@@ -1229,12 +1314,14 @@ W Lp. 10 nie wykazuje się instrumentów zapisanych w rejestrach akcjonariuszy.
 16. W Lp. 11 wykazuje się łączną wartość kryptoaktywów wykazywanych w Lp. 12 i 13.
 17. W Lp. 12 wykazuje się wartość kryptoaktywów należących do klientów objętych usługą zapewniania przechowywania kryptoaktywów i administrowania nimi w imieniu klientów, o której mowa w art. 3 ust. 1 pkt 17 rozporządzenia 2023/1114.
 18. W Lp. 13 wykazuje się wartość kryptoaktywów posiadanych na własny rachunek.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: I. Liczba pracowników zatrudnionych w jednostce organizacyjnej banku powierniczego prowadzącej działalność powierniczą lub w zakresie uczestnictwa w zawieraniu transakcji pożyczek papierów wartościowych (jednostka banku), według stanu na ostatni dzień okresu sprawozdawczego.
+
+## Załącznik nr 9 — Zakres informacji zawartych w półrocznym sprawozdaniu z działalności banku powierniczego (PRN-02) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: I. Liczba pracowników zatrudnionych w jednostce organizacyjnej banku powierniczego prowadzącej działalność powierniczą lub w zakresie uczestnictwa w zawieraniu transakcji pożyczek papierów wartościowych (jednostka banku), według stanu na ostatni dzień okresu sprawozdawczego.
+
 II. Funkcja zgodności z przepisami.
 1. Dane dotyczące inspektora nadzoru, ze wskazaniem:
 1) danych osobowych osoby wykonującej funkcję inspektora nadzoru,
 2) numeru telefonu osoby wykonującej funkcję inspektora nadzoru,
-3) adresu poczty elektronicznej osoby wykonującej funkcję inspektora nadzoru według stanu na ostatni dzień okresu sprawozdawczego.
+3) adresu poczty elektronicznej osoby wykonującej funkcję inspektora nadzoru – według stanu na ostatni dzień okresu sprawozdawczego.
 2. Liczba i termin kontroli, ze wskazaniem:
 1) przedmiotu przeprowadzonej kontroli,
 2) okresu objętego kontrolą,
@@ -1243,7 +1330,7 @@ II. Funkcja zgodności z przepisami.
 5) stwierdzonych naruszeń,
 6) wydanych zaleceń,
 7) terminu wykonania zaleceń,
-8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń przeprowadzonych w okresie sprawozdawczym.
+8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – przeprowadzonych w okresie sprawozdawczym.
 3. Sposób i termin wykonania zaleceń ze wskazaniem:
 1) przedmiotu kontroli,
 2) jednostki organizacyjnej objętej kontrolą,
@@ -1253,7 +1340,7 @@ II. Funkcja zgodności z przepisami.
 6) terminu, do którego powinny zostać wykonane zalecenia,
 7) terminu wykonania zaleceń,
 8) sposobu wykonania zaleceń,
-9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń wykonanych w okresie sprawozdawczym.
+9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – wykonanych w okresie sprawozdawczym.
 4. Liczba i przedmiot kontroli, których przeprowadzenie jest planowane w następnym okresie sprawozdawczym.
 III. Komórka audytu wewnętrznego:
 1. Liczba i termin badań audytowych, ze wskazaniem:
@@ -1264,7 +1351,7 @@ III. Komórka audytu wewnętrznego:
 5) stwierdzonych naruszeń,
 6) wydanych zaleceń,
 7) terminu wykonania zaleceń,
-8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń przeprowadzonych w okresie sprawozdawczym.
+8) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – przeprowadzonych w okresie sprawozdawczym.
 2. Sposób i termin wykonania zaleceń, ze wskazaniem:
 1) przedmiotu badania audytowego,
 2) jednostki organizacyjnej objętej badaniem audytowym,
@@ -1274,7 +1361,7 @@ III. Komórka audytu wewnętrznego:
 6) terminu, do którego powinny zostać wykonane zalecenia,
 7) terminu wykonania zaleceń,
 8) sposobu wykonania zaleceń,
-9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń wykonanych w okresie sprawozdawczym.
+9) jednostki organizacyjnej odpowiedzialnej za wykonanie zaleceń – wykonanych w okresie sprawozdawczym.
 3. Liczba i przedmiot badań audytowych, których przeprowadzenie jest planowane w następnym okresie sprawozdawczym.
 IV. Liczba zgłoszeń przekazanych w okresie sprawozdawczym przez pracowników do właściwej komórki wewnętrznej, dotyczących faktu utraty dokumentu, projektu dokumentu, jego kopii lub innego nośnika informacji, zawierających informację poufną lub tajemnicę zawodową, wraz z przedmiotem zgłoszenia, terminem postępowania wyjaśniającego oraz wynikiem postępowania wyjaśniającego.
 V. Reklamacje, o których mowa w art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r.
@@ -1291,14 +1378,16 @@ VII. Oprogramowanie:
 3. System informatyczny objęty awarią, data awarii i czas jej trwania oraz przyczyny i skutki awarii, ze wskazaniem działalności, na której wykonywanie wpłynęła awaria, oraz działań podjętych w celu zapobieżenia takim awariom w przyszłości.
 VIII. Nowe lub zmienione regulacje wewnętrzne oraz regulaminy i dokumenty przekazywane klientowi przed zawarciem umowy w zakresie działalności powierniczej oraz w zakresie uczestnictwa w zawieraniu transakcji pożyczek papierów wartościowych, ze wskazaniem daty ich przyjęcia oraz wejścia w życie.
 IX. Nazwa jednostki banku, w ramach której jest prowadzona działalność powiernicza.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: I. Informacje ogólne.
+
+## Załącznik nr 10 — Zakres informacji zawartych w półrocznym sprawozdaniu z działalności domu maklerskiego i biura maklerskiego (PRN-01) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: I. Informacje ogólne.
+
 1. Czynności wykonywane w zakresie działalności maklerskiej, z przyporządkowaniem instrumentów finansowych będących przedmiotem tych czynności, według stanu na ostatni dzień okresu sprawozdawczego.
 2. Czynności, o których mowa w art. 69 ust. 2 pkt 1–7 i ust. 4 ustawy, wykonywane na terytorium innych państw członkowskich bez otwierania oddziału, z przyporządkowaniem instrumentów finansowych będących przedmiotem tych czynności, wraz z liczbą klientów detalicznych, profesjonalnych oraz uprawnionych kontrahentów dla każdego z państw, w którym jest prowadzona działalność, według stanu na ostatni dzień okresu sprawozdawczego.
 3. Podmioty będące agentami firmy inwestycyjnej, ze wskazaniem imion i nazwisk lub nazw tych podmiotów.
 4. Liczba pracowników, ze wskazaniem liczby autoryzowanych pracowników w rozumieniu rozporządzenia w sprawie szczegółowych warunków technicznych i organizacyjnych, według stanu na ostatni dzień okresu sprawozdawczego.
 5. Maklerzy papierów wartościowych oraz doradcy inwestycyjni zatrudnieni na pierwszy i na ostatni dzień okresu sprawozdawczego, ze wskazaniem ich imion i nazwisk oraz numerów licencji maklera papierów wartościowych lub doradcy inwestycyjnego, wykonywanych czynności oraz daty nawiązania lub rozwiązania stosunku pracy.
 6. Zgłoszenia otrzymane w ramach anonimowego zgłaszania przez pracowników naruszeń prawa oraz procedur i standardów etycznych obowiązujących w podmiocie sprawozdającym, wraz z opisem istoty zgłoszenia oraz czynności podjętych w związku z otrzymaniem zgłoszenia.
-7. Liczba oddziałów, punktów obsługi klientów i punktów wykonywania czynności, o których mowa w art. 113 ust. 1 ustawy, wraz z informacją o liczbie jednostek, w których nie jest zatrudniony pracownik autoryzowany w rozumieniu rozporządzenia w sprawie szczegółowych warunków technicznych i organizacyjnych, ze wskazaniem przyczyn braku zatrudnienia, według stanu na ostatni dzień okresu sprawozdawczego, a w przypadku domu maklerskiego adresy punktów obsługi klientów.
+7. Liczba oddziałów, punktów obsługi klientów i punktów wykonywania czynności, o których mowa w art. 113 ust. 1 ustawy, wraz z informacją o liczbie jednostek, w których nie jest zatrudniony pracownik autoryzowany w rozumieniu rozporządzenia w sprawie szczegółowych warunków technicznych i organizacyjnych, ze wskazaniem przyczyn braku zatrudnienia, według stanu na ostatni dzień okresu sprawozdawczego, a w przypadku domu maklerskiego – adresy punktów obsługi klientów.
 II. Funkcja zgodności z przepisami.
 1. Skład osobowy komórki do spraw zgodności z prawem, ze wskazaniem:
 1) danych osobowych osób wchodzących w skład komórki do spraw zgodności z prawem,
@@ -1306,7 +1395,7 @@ II. Funkcja zgodności z przepisami.
 3) numeru telefonu osoby wykonującej funkcję inspektora nadzoru,
 4) adresu poczty elektronicznej osoby wykonującej funkcję inspektora nadzoru,
 5) wymiaru czasu pracy osoby wykonującej funkcję inspektora nadzoru oraz osób, które wchodzą w skład komórki do spraw zgodności z prawem,
-6) nazwy i numeru tego podmiotu w rejestrze przedsiębiorców lub innym właściwym rejestrze oraz imienia i nazwiska osoby odpowiedzialnej za realizację funkcji inspektora nadzoru w przypadku gdy funkcję inspektora nadzoru powierzono podmiotowi trzeciemu według stanu na ostatni dzień okresu sprawozdawczego.
+6) nazwy i numeru tego podmiotu w rejestrze przedsiębiorców lub innym właściwym rejestrze oraz imienia i nazwiska osoby odpowiedzialnej za realizację funkcji inspektora nadzoru – w przypadku gdy funkcję inspektora nadzoru powierzono podmiotowi trzeciemu – według stanu na ostatni dzień okresu sprawozdawczego.
 2. Liczba i termin kontroli, ze wskazaniem:
 1) przedmiotu przeprowadzonej kontroli,
 2) okresu objętego kontrolą,
@@ -1315,7 +1404,7 @@ II. Funkcja zgodności z przepisami.
 5) stwierdzonych naruszeń,
 6) wydanych zaleceń,
 7) terminu wykonania zaleceń,
-8) jednostki organizacyjnej lub agenta firmy inwestycyjnej odpowiedzialnych za wykonanie zaleceń przeprowadzonych w okresie sprawozdawczym.
+8) jednostki organizacyjnej lub agenta firmy inwestycyjnej odpowiedzialnych za wykonanie zaleceń – przeprowadzonych w okresie sprawozdawczym.
 3. Sposób i termin wykonania zaleceń, ze wskazaniem:
 1) przedmiotu kontroli,
 2) jednostki organizacyjnej lub agenta firmy inwestycyjnej objętych kontrolą,
@@ -1325,7 +1414,7 @@ II. Funkcja zgodności z przepisami.
 6) terminu, do którego powinny zostać wykonane zalecenia,
 7) terminu wykonania zaleceń,
 8) sposobu wykonania zaleceń,
-9) jednostki organizacyjnej lub agenta firmy inwestycyjnej odpowiedzialnych za wykonanie zaleceń wykonanych w okresie sprawozdawczym.
+9) jednostki organizacyjnej lub agenta firmy inwestycyjnej odpowiedzialnych za wykonanie zaleceń – wykonanych w okresie sprawozdawczym.
 4. Liczba i przedmiot kontroli, których przeprowadzenie jest planowane w następnym okresie sprawozdawczym.
 III. Komórka audytu wewnętrznego.
 1. Liczba i termin badań audytowych, ze wskazaniem:
@@ -1336,7 +1425,7 @@ III. Komórka audytu wewnętrznego.
 5) stwierdzonych naruszeń,
 6) wydanych zaleceń,
 7) terminu wykonania zaleceń,
-8) jednostki organizacyjnej lub agenta firmy inwestycyjnej odpowiedzialnych za wykonanie zaleceń przeprowadzonych w okresie sprawozdawczym.
+8) jednostki organizacyjnej lub agenta firmy inwestycyjnej odpowiedzialnych za wykonanie zaleceń – przeprowadzonych w okresie sprawozdawczym.
 2. Sposób i termin wykonania zaleceń, ze wskazaniem:
 1) przedmiotu badania audytowego,
 2) jednostki organizacyjnej lub agenta firmy inwestycyjnej objętych badaniem audytowym,
@@ -1346,14 +1435,14 @@ III. Komórka audytu wewnętrznego.
 6) terminu, do którego powinny zostać wykonane zalecenia,
 7) terminu wykonania zaleceń,
 8) sposobu wykonania zaleceń,
-9) jednostki organizacyjnej lub agenta firmy inwestycyjnej odpowiedzialnych za wykonanie zaleceń wykonanych w okresie sprawozdawczym.
+9) jednostki organizacyjnej lub agenta firmy inwestycyjnej odpowiedzialnych za wykonanie zaleceń – wykonanych w okresie sprawozdawczym.
 3. Liczba i przedmiot badań audytowych, których przeprowadzenie jest planowane w następnym okresie sprawozdawczym.
-IV. Imię i nazwisko osoby odpowiedzialnej za wykonywanie obowiązków dotyczących zabezpieczania instrumentów finansowych i środków pieniężnych klientów, ze wskazaniem jej numeru telefonu, adresu poczty elektronicznej i numeru PESEL, a w przypadku jego braku daty i miejsca urodzenia.
+IV. Imię i nazwisko osoby odpowiedzialnej za wykonywanie obowiązków dotyczących zabezpieczania instrumentów finansowych i środków pieniężnych klientów, ze wskazaniem jej numeru telefonu, adresu poczty elektronicznej i numeru PESEL, a w przypadku jego braku – daty i miejsca urodzenia.
 V. Dodatkowe informacje dotyczące domu maklerskiego.
 1. Zakładowy plan kont obowiązujący w okresie sprawozdawczym.
 2. Rachunki bankowe, na których są przechowywane środki pieniężne klientów lub domu maklerskiego, wraz z nazwą banku, w którym jest prowadzony rachunek, według stanu na koniec okresu sprawozdawczego.
 3. Imię i nazwisko osoby odpowiedzialnej za prowadzenie ksiąg rachunkowych, według stanu na ostatni dzień okresu sprawozdawczego.
-W przypadku gdy prowadzenie ksiąg rachunkowych powierzono podmiotowi zewnętrznemu nazwa i numer tego podmiotu w rejestrze przedsiębiorców lub innym właściwym rejestrze oraz imię i nazwisko osoby odpowiedzialnej za realizację umowy, zgodnie z którą prowadzenie ksiąg rachunkowych powierzono temu podmiotowi, wraz z datą zawarcia tej umowy.
+W przypadku gdy prowadzenie ksiąg rachunkowych powierzono podmiotowi zewnętrznemu – nazwa i numer tego podmiotu w rejestrze przedsiębiorców lub innym właściwym rejestrze oraz imię i nazwisko osoby odpowiedzialnej za realizację umowy, zgodnie z którą prowadzenie ksiąg rachunkowych powierzono temu podmiotowi, wraz z datą zawarcia tej umowy.
 4. Skład osobowy jednostki realizującej funkcję zarządzania ryzykiem, ze wskazaniem:
 1) danych osobowych osób wchodzących w skład jednostki realizującej funkcję zarządzania ryzykiem,
 2) czy osoba wchodząca w skład jednostki realizującej funkcję zarządzania ryzykiem kieruje jednostką realizującą funkcję zarządzania ryzykiem czy wchodzi w skład tej jednostki,
@@ -1366,7 +1455,7 @@ W przypadku gdy prowadzenie ksiąg rachunkowych powierzono podmiotowi zewnętrzn
 3) numeru telefonu osoby wykonującej funkcję kierownika komórki audytu wewnętrznego,
 4) adresu poczty elektronicznej osoby wykonującej funkcję kierownika komórki audytu wewnętrznego,
 5) wymiaru czasu pracy osoby, która wykonuje funkcję kierownika komórki audytu wewnętrznego oraz osób, które wchodzą w skład tej komórki,
-6) nazwy i numeru podmiotu w rejestrze przedsiębiorców lub innym właściwym rejestrze oraz imienia i nazwiska osoby odpowiedzialnej za realizację funkcji audytu wewnętrznego w przypadku gdy funkcję audytu wewnętrznego powierzono podmiotowi trzeciemu według stanu na ostatni dzień okresu sprawozdawczego.
+6) nazwy i numeru podmiotu w rejestrze przedsiębiorców lub innym właściwym rejestrze oraz imienia i nazwiska osoby odpowiedzialnej za realizację funkcji audytu wewnętrznego – w przypadku gdy funkcję audytu wewnętrznego powierzono podmiotowi trzeciemu – według stanu na ostatni dzień okresu sprawozdawczego.
 VI. Liczba przekazanych w okresie sprawozdawczym przez pracowników do właściwej komórki wewnętrznej zgłoszeń dotyczących utraty dokumentu, projektu dokumentu, jego kopii lub innego nośnika informacji, zawierających informację poufną lub stanowiącą tajemnicę zawodową, wraz z przedmiotem zgłoszenia, terminem postępowania wyjaśniającego oraz wynikiem postępowania wyjaśniającego.
 VII. Reklamacje, o których mowa w art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r.
 o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej, złożone przez klientów.
@@ -1379,7 +1468,7 @@ o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finanso
 4. Liczba reklamacji rozpatrzonych w okresie sprawozdawczym, dotyczących usług świadczonych za pośrednictwem agentów firmy inwestycyjnej, w tym:
 1) uwzględniających całkowicie roszczenia klientów,
 2) uwzględniających częściowo roszczenia klientów,
-3) nieuwzględniających roszczeń klientów przy czym informacje, o których mowa w pkt 1–4, obejmują:
+3) nieuwzględniających roszczeń klientów – przy czym informacje, o których mowa w pkt 1–4, obejmują:
 1. łączną liczbę reklamacji,
 2. liczbę reklamacji w podziale na usługi (jedna reklamacja może dotyczyć więcej niż jednej usługi i więcej niż jednego produktu inwestycyjnego;
 przedmiotem jednej reklamacji może być więcej niż jeden rodzaj zdarzenia):
@@ -1416,15 +1505,17 @@ IX. Oprogramowanie:
 2. Sposoby zabezpieczenia systemów informatycznych i systemów przetwarzania danych przed dostępem do nich osób nieupoważnionych.
 3. Liczba osób zatrudnionych (w dziale IT), według stanu na ostatni dzień okresu sprawozdawczego.
 4. Przedmiot realizowanych projektów (z zakresu IT).
-5. Imię i nazwisko osoby bezpośrednio nadzorującej pracę zespołu informatyków (w dziale IT), ze wskazaniem jej numeru telefonu, adresu poczty elektronicznej i numeru PESEL, a w przypadku jego braku daty i miejsca urodzenia.
-6. Imię i nazwisko osoby wykonującej funkcję administratora sieci informatycznej, ze wskazaniem jej numeru telefonu, adresu poczty elektronicznej i numeru PESEL, a w przypadku jego braku daty i miejsca urodzenia.
+5. Imię i nazwisko osoby bezpośrednio nadzorującej pracę zespołu informatyków (w dziale IT), ze wskazaniem jej numeru telefonu, adresu poczty elektronicznej i numeru PESEL, a w przypadku jego braku – daty i miejsca urodzenia.
+6. Imię i nazwisko osoby wykonującej funkcję administratora sieci informatycznej, ze wskazaniem jej numeru telefonu, adresu poczty elektronicznej i numeru PESEL, a w przypadku jego braku – daty i miejsca urodzenia.
 7. System informatyczny objęty awarią, data awarii i czas jej trwania oraz przyczyny i skutki awarii, ze wskazaniem usług maklerskich, na których świadczenie wpłynęła awaria, oraz działań podjętych w celu zapobieżenia takim awariom w przyszłości.
 X. Świadczenie usług doradztwa inwestycyjnego w sposób niezależny lub zależny lub świadczenie usług doradztwa inwestycyjnego na rzecz tego samego klienta zarówno w sposób niezależny, jak i zależny.
 XI. Umowy outsourcingu, ze wskazaniem nazwy podmiotu, z którym zawarto umowę outsourcingu, datą zawarcia, zmiany lub rozwiązania umowy, przedmiotem umowy i rodzajem usługi oraz rodzajem umowy (outsourcing regulowany/nieregulowany).
 XII. Nowe lub zmienione regulacje wewnętrzne lub dotyczące działalności agenta firmy inwestycyjnej oraz regulaminy świadczenia usług maklerskich oraz dokumenty przekazywane klientowi przed zawarciem umowy o świadczenie usług maklerskich, ze wskazaniem daty ich przyjęcia oraz wejścia w życie.
 XIII. Zidentyfikowane konflikty interesów, wraz z opisem okoliczności stanowiących konflikt interesów, ze wskazaniem usługi maklerskiej i jednostki organizacyjnej, których dotyczy konflikt, i procedur, których należy przestrzegać w celu zapobiegania takim konfliktom lub zarządzania nimi, oraz określeniem środków, które podjęto w tym celu.
 XIV. Struktura organizacyjna, ze wskazaniem imion i nazwisk kluczowych pracowników, o których mowa w rozporządzeniu w sprawie szczegółowych warunków technicznych i organizacyjnych, według stanu na ostatni dzień okresu sprawozdawczego.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: Lp.
+
+## Załącznik nr 11 — Zakres informacji zawartych w sprawozdaniu w zakresie rachunków klientów biura maklerskiego oraz banku, o którym mowa w art. 70 ust. 2 ustawy (RACH KL) Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: Lp.
+
 1. DZIAŁ I. Liczba prowadzonych rachunków klientów (Lp.2+3)
 2. 1. Liczba prowadzonych rachunków papierów wartościowych klientów znajdujących się w obrocie na rynku regulowanym
 3. 2. Liczba prowadzonych pozostałych rachunków instrumentów finansowych klientów
@@ -1459,14 +1550,14 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 4. W Dziale I wykazuje się liczbę rachunków klientów. Rachunkiem klienta jest każdy rachunek prowadzony dla klienta na podstawie umowy, na którym są zapisane należące do niego instrumenty finansowe.
 W Dziale I nie wykazuje się rejestrów i ewidencji wykazywanych w Dziale III ani rejestrów akcjonariuszy.
 5. W Lp. 1 wykazuje się liczbę rachunków klientów stanowiącą sumę wartości wykazanych w Lp. 2 i 3.
-6. W Lp. 2 wykazuje się liczbę rachunków papierów wartościowych znajdujących się w obrocie na rynku regulowanym. W przypadku gdy na rachunku klienta znajdują się zarówno papiery wartościowe znajdujące się w obrocie na rynku regulowanym, jak i inne instrumenty finansowe, liczbę takich rachunków wykazuje się również w Lp.2.
+6. W Lp. 2 wykazuje się liczbę rachunków papierów wartościowych znajdujących się w obrocie na rynku regulowanym. W przypadku gdy na rachunku klienta znajdują się zarówno papiery wartościowe znajdujące się w obrocie na rynku regulowanym, jak i inne instrumenty finansowe, liczbę takich rachunków wykazuje się również w Lp. 2.
 7. W Lp. 3 wykazuje się liczbę pozostałych rachunków instrumentów finansowych klientów.
 8. W Dziale II wykazuje się wartość przechowywanych lub rejestrowanych instrumentów finansowych klientów w związku ze świadczeniem usługi, o której mowa w art. 69 ust. 4 pkt 1 ustawy, które są zapisane na rachunkach klientów wykazanych w Dziale I.
 W Dziale II nie wykazuje się wartości instrumentów zapisanych w prowadzonych na zlecenie emitenta rejestrach i ewidencjach wykazanych w Dziale IV ani instrumentów zapisanych w rejestrach akcjonariuszy.
 9. W Lp. 4 wykazuje się wartość instrumentów finansowych zapisanych na rachunkach klientów, stanowiącą sumę wartości wykazanych w Lp. 5–10.
 10. Instrumentami finansowymi w systemie obrotu są:
 1) instrumenty finansowe dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu (ASO) albo na zorganizowanej platformie obrotu (OTF) na terytorium Rzeczypospolitej Polskiej;
-2) instrumenty finansowe dopuszczone do obrotu na zagranicznym rynku regulowanym lub wprowadzone do obrotu w zagranicznym alternatywnym systemie obrotu albo na zagranicznej zorganizowanej platformie obrotu (OTF), albo w przypadku państw trzecich w systemie obrotu odpowiadającym któremukolwiek z tych systemów.
+2) instrumenty finansowe dopuszczone do obrotu na zagranicznym rynku regulowanym lub wprowadzone do obrotu w zagranicznym alternatywnym systemie obrotu albo na zagranicznej zorganizowanej platformie obrotu (OTF), albo – w przypadku państw trzecich – w systemie obrotu odpowiadającym któremukolwiek z tych systemów.
 11. W Lp. 5 wykazuje się wartość akcji i praw do akcji znajdujących się w systemie obrotu, należących do klientów i zapisanych na rachunkach papierów wartościowych.
 12. W Lp. 6 wykazuje się wartość pozostałych papierów wartościowych znajdujących się w systemie obrotu, zapisanych na rachunkach papierów wartościowych klientów, które nie zostały wykazane w Lp. 5.
 13. W Lp. 7 wykazuje się wartość papierów wartościowych, które nie znajdują się w systemie obrotu, należących do klientów.
@@ -1497,7 +1588,10 @@ W Lp. 13 nie wykazuje się instrumentów zapisanych w rejestrach akcjonariuszy.
 30. W Lp. 26 wykazuje się łączną wartość kryptoaktywów wykazywanych w Lp. 27 i 28.
 31. W Lp. 27 wykazuje się wartość kryptoaktywów należących do klientów objętych usługą zapewniania przechowywania kryptoaktywów i administrowania nimi w imieniu klientów, o której mowa w art. 3 ust. 1 pkt 17 rozporządzenia 2023/1114.
 32. W Lp. 28 wykazuje się kryptoaktywa posiadane na własny rachunek.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: Data przekazania: I. Nabywanie i zbywanie instrumentów finansowych (z wyłączeniem instrumentów pochodnych).
+
+## Załącznik nr 12 — Zakres informacji zawartych w kwartalnym sprawozdaniu z działalności sprzedażowej domu maklerskiego, biura maklerskiego, banku, o którym mowa w art. 70 ust. 2 ustawy, zagranicznej firmy inwestycyjnej prowadzącej na terytorium Rzeczypospolitej Polskiej działalność maklerską w formie oddziału oraz zagranicznej osoby prawnej w zakresie działalności oddziału Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy: Data przekazania: I. Nabywanie i zbywanie instrumentów finansowych (z wyłączeniem instrumentów pochodnych).
+
+CZĘŚĆ A – wartość nabytych i zbytych instrumentów finansowych oraz liczba klientów – instrumenty krajowe i zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 1. Łączna wartość nabytych instrumentów finansowych.
 2. Liczba klientów, którzy nabyli instrumenty finansowe.
 3. Łączna wartość zbytych instrumentów finansowych.
@@ -1518,12 +1612,12 @@ b) akcje poza systemem obrotu;
 4) kwity depozytowe;
 5) obligacje, w tym:
 a) obligacje skarbowe,
-b) obligacje korporacyjne, w tym: obligacje korporacyjne w systemie obrotu, obligacje korporacyjne poza systemem obrotu,
+b) obligacje korporacyjne, w tym: – obligacje korporacyjne w systemie obrotu, – obligacje korporacyjne poza systemem obrotu,
 c) obligacje komunalne,
 d) pozostałe obligacje;
 6) listy zastawne;
 7) certyfikaty inwestycyjne, w tym:
-a) certyfikaty inwestycyjne w systemie obrotu, w tym: certyfikaty inwestycyjne funduszy portfelowych, pozostałe certyfikaty inwestycyjne w systemie obrotu,
+a) certyfikaty inwestycyjne w systemie obrotu, w tym: – certyfikaty inwestycyjne funduszy portfelowych, – pozostałe certyfikaty inwestycyjne w systemie obrotu,
 b) certyfikaty inwestycyjne poza systemem obrotu;
 8) tytuły uczestnictwa zagranicznych funduszy inwestycyjnych typu Exchange Traded Fund (ETF);
 9) produkty strukturyzowane, w tym:
@@ -1535,10 +1629,11 @@ c) pozostałe produkty strukturyzowane;
 12) inne zbywalne papiery wartościowe wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego.
 2. Instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi, w tym:
 1) uprawnienia do emisji;
-2) tytuły uczestnictwa w instytucjach wspólnego inwestowania (z wyłączeniem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF)) w przypadku tej kategorii instrumentów finansowych nie wykazuje się informacji, o których mowa w CZĘŚCI A w pkt 7 i 8;
+2) tytuły uczestnictwa w instytucjach wspólnego inwestowania (z wyłączeniem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF)) – w przypadku tej kategorii instrumentów finansowych nie wykazuje się informacji, o których mowa w CZĘŚCI A w pkt 7 i 8;
 3) instrumenty rynku pieniężnego niebędące papierami wartościowymi;
 4) produkty strukturyzowane niebędące papierami wartościowymi;
 5) inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.
+CZĘŚĆ B – wartość nabytych i zbytych instrumentów finansowych – wyłącznie instrumenty zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 1. Łączna wartość nabytych instrumentów finansowych.
 2. Liczba klientów, którzy nabyli instrumenty finansowe.
 3. Łączna wartość zbytych instrumentów finansowych.
@@ -1559,12 +1654,12 @@ b) akcje poza systemem obrotu;
 4) kwity depozytowe;
 5) obligacje, w tym:
 a) obligacje skarbowe,
-b) obligacje korporacyjne, w tym: obligacje korporacyjne w systemie obrotu, obligacje korporacyjne poza systemem obrotu,
+b) obligacje korporacyjne, w tym: – obligacje korporacyjne w systemie obrotu, – obligacje korporacyjne poza systemem obrotu,
 c) obligacje komunalne,
 d) pozostałe obligacje;
 6) listy zastawne;
 7) certyfikaty inwestycyjne, w tym:
-a) certyfikaty inwestycyjne w systemie obrotu, w tym: certyfikaty inwestycyjne funduszy portfelowych, pozostałe certyfikaty inwestycyjne w systemie obrotu,
+a) certyfikaty inwestycyjne w systemie obrotu, w tym: – certyfikaty inwestycyjne funduszy portfelowych, – pozostałe certyfikaty inwestycyjne w systemie obrotu,
 b) certyfikaty inwestycyjne poza systemem obrotu;
 8) tytuły uczestnictwa zagranicznych funduszy inwestycyjnych typu Exchange Traded Fund (ETF);
 9) produkty strukturyzowane, w tym:
@@ -1576,10 +1671,11 @@ c) pozostałe produkty strukturyzowane;
 12) inne zbywalne papiery wartościowe wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego.
 2. Instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi, w tym:
 1) uprawnienia do emisji;
-2) tytuły uczestnictwa w instytucjach wspólnego inwestowania (z wyłączeniem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF)) w przypadku tej kategorii instrumentów finansowych nie wykazuje się informacji, o których mowa w CZĘŚCI B w pkt 7 i 8;
+2) tytuły uczestnictwa w instytucjach wspólnego inwestowania (z wyłączeniem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF)) – w przypadku tej kategorii instrumentów finansowych nie wykazuje się informacji, o których mowa w CZĘŚCI B w pkt 7 i 8;
 3) instrumenty rynku pieniężnego niebędące papierami wartościowymi;
 4) produkty strukturyzowane niebędące papierami wartościowymi;
 5) inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.
+CZĘŚĆ C – przyjmowanie i przekazywanie zleceń do innej firmy inwestycyjnej oraz wykonywanie zleceń w formie przekazania zlecenia do wykonania do innej firmy inwestycyjnej – instrumenty krajowe i zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 1. Łączna wartość nabytych instrumentów finansowych.
 2. Liczba klientów, którzy nabyli instrumenty finansowe.
 3. Łączna wartość zbytych instrumentów finansowych.
@@ -1596,12 +1692,12 @@ b) akcje poza systemem obrotu;
 4) kwity depozytowe;
 5) obligacje, w tym:
 a) obligacje skarbowe,
-b) obligacje korporacyjne, w tym: obligacje korporacyjne w systemie obrotu, obligacje korporacyjne poza systemem obrotu,
+b) obligacje korporacyjne, w tym: – obligacje korporacyjne w systemie obrotu, – obligacje korporacyjne poza systemem obrotu,
 c) obligacje komunalne,
 d) pozostałe obligacje;
 6) listy zastawne;
 7) certyfikaty inwestycyjne, w tym:
-a) certyfikaty inwestycyjne w systemie obrotu, w tym: certyfikaty inwestycyjne funduszy portfelowych, pozostałe certyfikaty inwestycyjne w systemie obrotu,
+a) certyfikaty inwestycyjne w systemie obrotu, w tym: – certyfikaty inwestycyjne funduszy portfelowych, – pozostałe certyfikaty inwestycyjne w systemie obrotu,
 b) certyfikaty inwestycyjne poza systemem obrotu;
 8) tytuły uczestnictwa zagranicznych funduszy inwestycyjnych typu Exchange Traded Fund (ETF);
 9) produkty strukturyzowane, w tym:
@@ -1617,6 +1713,7 @@ c) pozostałe produkty strukturyzowane;
 3) instrumenty rynku pieniężnego niebędące papierami wartościowymi;
 4) produkty strukturyzowane niebędące papierami wartościowymi;
 5) inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.
+CZĘŚĆ D – przyjmowanie i przekazywanie zleceń do innej firmy inwestycyjnej oraz wykonywanie zleceń w formie przekazania zlecenia do wykonania do innej firmy inwestycyjnej, w zakresie instrumentów niebędących instrumentami pochodnymi – wyłącznie instrumenty zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 1. Łączna wartość nabytych instrumentów finansowych.
 2. Liczba klientów, którzy nabyli instrumenty finansowe.
 3. Łączna wartość zbytych instrumentów finansowych.
@@ -1633,12 +1730,12 @@ b) akcje poza systemem obrotu;
 4) kwity depozytowe;
 5) obligacje, w tym:
 a) obligacje skarbowe,
-b) obligacje korporacyjne, w tym: obligacje korporacyjne w systemie obrotu, obligacje korporacyjne poza systemem obrotu,
+b) obligacje korporacyjne, w tym: – obligacje korporacyjne w systemie obrotu, – obligacje korporacyjne poza systemem obrotu,
 c) obligacje komunalne,
 d) pozostałe obligacje;
 6) listy zastawne;
 7) certyfikaty inwestycyjne, w tym:
-a) certyfikaty inwestycyjne w systemie obrotu, w tym: certyfikaty inwestycyjne funduszy portfelowych, pozostałe certyfikaty inwestycyjne w systemie obrotu,
+a) certyfikaty inwestycyjne w systemie obrotu, w tym: – certyfikaty inwestycyjne funduszy portfelowych, – pozostałe certyfikaty inwestycyjne w systemie obrotu,
 b) certyfikaty inwestycyjne poza systemem obrotu;
 8) tytuły uczestnictwa zagranicznych funduszy inwestycyjnych typu Exchange Traded Fund (ETF);
 9) produkty strukturyzowane, w tym:
@@ -1650,11 +1747,12 @@ c) pozostałe produkty strukturyzowane;
 12) inne zbywalne papiery wartościowe.
 2. Instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi, w tym:
 1) uprawnienia do emisji;
-2) tytuły uczestnictwa w instytucjach wspólnego inwestowania (z wyłączeniem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typuExchange Traded Fund (ETF));
+2) tytuły uczestnictwa w instytucjach wspólnego inwestowania (z wyłączeniem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF));
 3) instrumenty rynku pieniężnego niebędące papierami wartościowymi;
 4) produkty strukturyzowane niebędące papierami wartościowymi;
 5) inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi.
 II. Nabywanie i zbywanie instrumentów pochodnych.
+CZĘŚĆ A – wartość nabytych i zbytych instrumentów pochodnych oraz liczba klientów – instrumenty krajowe i zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 1. Łączna wartość (nominalna) transakcji zawartych przez klientów w okresie sprawozdawczym.
 2. Liczba klientów, którzy zawarli transakcje, o których mowa w pkt 1.
 3. Inne zdarzenia skutkujące realizacją lub ustaniem praw z instrumentu finansowego.
@@ -1672,6 +1770,7 @@ Informacje, o których mowa w pkt 1–7, obejmują:
 6) swapy;
 7) kontrakty na różnice kursowe (CFD);
 8) pozostałe pochodne instrumenty finansowe.
+CZĘŚĆ B – wartość nabytych i zbytych instrumentów pochodnych oraz liczba klientów – wyłącznie zagraniczne instrumenty pochodne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 1. Łączna wartość (nominalna) transakcji zawartych przez klientów w okresie sprawozdawczym.
 2. Liczba klientów, którzy zawarli transakcje, o których mowa w pkt 1.
 3. Inne zdarzenia skutkujące realizacją lub ustaniem praw z instrumentu finansowego.
@@ -1689,6 +1788,7 @@ Informacje, o których mowa w pkt 1–7, obejmują:
 6) swapy;
 7) kontrakty na różnice kursowe (CFD);
 8) pozostałe pochodne instrumenty finansowe.
+CZĘŚĆ C – przyjmowanie i przekazywanie zleceń do innej firmy inwestycyjnej oraz wykonywanie zleceń w formie przekazania tego zlecenia do wykonania do innej firmy inwestycyjnej, w zakresie instrumentów pochodnych – instrumenty krajowe i zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 1. Łączna wartość (nominalna) transakcji zawartych przez klientów.
 2. Liczba klientów, którzy zawarli transakcje, o których mowa w pkt 1.
 3. Łączna liczba klientów aktywnych.
@@ -1702,6 +1802,7 @@ Informacje, o których mowa w pkt 1–3, obejmują:
 6) swapy;
 7) kontrakty na różnice kursowe (CFD);
 8) pozostałe pochodne instrumenty finansowe.
+CZĘŚĆ D – przyjmowanie i przekazywanie zleceń do innej firmy inwestycyjnej oraz wykonywanie zleceń w formie przekazania tego zlecenia do wykonania do innej firmy inwestycyjnej, w zakresie instrumentów pochodnych – wyłącznie instrumenty zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 1. Łączna wartość (nominalna) transakcji zawartych przez klientów.
 2. Liczba klientów, którzy zawarli transakcje, o których mowa w pkt 1.
 3. Łączna liczba klientów aktywnych w okresie sprawozdawczym.
@@ -1716,6 +1817,7 @@ Informacje, o których mowa w pkt 1–3, obejmują:
 7) kontrakty na różnice kursowe (CFD);
 8) pozostałe pochodne instrumenty finansowe.
 III. Oferowanie i emisje instrumentów finansowych
+CZĘŚĆ A – oferowanie i emisje instrumentów finansowych.
 1. Nazwa emitenta/wystawcy.
 2. Kod LEI emitenta/wystawcy.
 3. KRS emitenta/wystawcy.
@@ -1750,6 +1852,7 @@ d) organizator konsorcjum;
 22. Wskazanie, czy w informacjach skierowanych do potencjalnych inwestorów została zawarta informacja, z której wynika, że inwestycja jest zrównoważona lub bierze się w niej pod uwagę czynniki zrównoważonego rozwoju lub uwzględnia ryzyko dla zrównoważonego rozwoju.
 23. Wynagrodzenie otrzymane od emitenta/wystawcy/oferującego.
 24. Dodatkowe objaśnienia.
+CZĘŚĆ B – oferowanie i emisje za pośrednictwem agentów.
 1. Imię i nazwisko lub nazwa agenta.
 2. PESEL/REGON agenta.
 3. Nazwa emitenta/wystawcy.
@@ -1783,7 +1886,7 @@ d) organizator konsorcjum;
 23. Wynagrodzenie otrzymane od emitenta/wystawcy/oferującego.
 24. Wynagrodzenie agenta odnoszące się do danej emisji.
 25. Dodatkowe objaśnienia.
-IV. Tytuły uczestnictwa w instytucjach wspólnego inwestowania z wyjątkiem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF).
+IV. Tytuły uczestnictwa w instytucjach wspólnego inwestowania – z wyjątkiem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF).
 1. Nazwa własna towarzystwa funduszy inwestycyjnych.
 2. Numer identyfikacyjny towarzystwa funduszy inwestycyjnych.
 3. Nazwa własna funduszu/subfunduszu.
@@ -1800,6 +1903,7 @@ IV. Tytuły uczestnictwa w instytucjach wspólnego inwestowania z wyjątkiem cer
 12. Wskazanie, czy w informacjach skierowanych do potencjalnych inwestorów została zawarta informacja, z której wynika, że inwestycja jest zrównoważona lub bierze się w niej pod uwagę czynniki zrównoważonego rozwoju lub uwzględnia ryzyko dla zrównoważonego rozwoju.
 13. Dodatkowe objaśnienia.
 V. Umowy, klienci, rachunki
+CZĘŚĆ A – umowy o świadczenie usług, o których mowa w art. 69 ustawy (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 1. Łączna liczba umów z klientami o świadczenie usług, o których mowa w art. 69 ustawy.
 2. Liczba umów o świadczenie usług, o których mowa w art. 69 ustawy, zawartych w okresie sprawozdawczym.
 3. Liczba umów o świadczenie usług, o których mowa w art. 69 ustawy, zawartych w okresie sprawozdawczym za pośrednictwem agentów.
@@ -1812,12 +1916,14 @@ Informacje, o których mowa w pkt 1–4, wykazuje się w podziale na umowy:
 4) doradztwa inwestycyjnego;
 5) przechowywania lub rejestrowania instrumentów finansowych, z wyłączeniem umów o prowadzenie rejestru akcjonariuszy (wyłącznie w zakresie pkt 1–3);
 6) pozostałe umowy (wyłącznie w zakresie pkt 2 i 3).
+CZĘŚĆ B – liczba klientów.
 1. Liczba klientów, którzy posiadali zawarte umowy, o których mowa w art. 69 ustawy, na koniec okresu sprawozdawczego (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 2. Liczba klientów pozyskanych w okresie sprawozdawczym, którzy zawarli umowy, o których mowa w art. 69 ustawy (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 3. Liczba klientów pozyskanych w okresie sprawozdawczym przez agentów (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 4. Liczba klientów pozyskanych w związku ze świadczeniem usług dotyczących lokat strukturyzowanych, o których mowa w art. 69h ust. 1 ustawy.
 5. Łączna liczba klientów aktywnych.
 6. Dodatkowe objaśnienia.
+CZĘŚĆ C – liczba prowadzonych rachunków instrumentów finansowych – z wyłączeniem rejestrów akcjonariuszy (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 1. Liczba rachunków instrumentów finansowych prowadzonych przez podmiot na koniec okresu sprawozdawczego:
 1) rachunki papierów wartościowych;
 2) pozostałe rachunki instrumentów finansowych.
@@ -1859,7 +1965,7 @@ IX. Produkty energetyczne będące przedmiotem obrotu hurtowego na OTF, o który
 5. Łączna wartość zbytych produktów energetycznych.
 6. Liczba klientów, którzy zbyli produkty energetyczne.
 7. Dodatkowe objaśnienia.
-X. PRIIP niebędące instrumentami finansowymi z wyłączeniem lokat strukturyzowanych.
+X. PRIIP niebędące instrumentami finansowymi – z wyłączeniem lokat strukturyzowanych.
 1. Wystawca produktu.
 2. Nazwa produktu.
 3. Łączna wartość nabytych produktów.
@@ -1880,7 +1986,7 @@ W przypadku wykluczenia lub wycofania instrumentu finansowego z obrotu w systemi
 6. Zagranicznymi instrumentami finansowymi są instrumenty finansowe inne niż instrumenty, o których mowa w pkt 5.
 7. Instrumentami finansowymi w systemie obrotu są:
 1) instrumenty finansowe dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu (ASO) albo na zorganizowanej platformie obrotu (OTF), na terytorium Rzeczypospolitej Polskiej;
-2) instrumenty finansowe dopuszczone do obrotu na zagranicznym rynku regulowanym lub wprowadzone do obrotu w zagranicznym alternatywnym systemie obrotu albo na zagranicznej zorganizowanej platformie obrotu (OTF), albo w przypadku państw trzecich w systemie obrotu odpowiadającym któremukolwiek z tych systemów.
+2) instrumenty finansowe dopuszczone do obrotu na zagranicznym rynku regulowanym lub wprowadzone do obrotu w zagranicznym alternatywnym systemie obrotu albo na zagranicznej zorganizowanej platformie obrotu (OTF), albo – w przypadku państw trzecich – w systemie obrotu odpowiadającym któremukolwiek z tych systemów.
 8. Instrumentami finansowymi poza systemem obrotu są instrumenty inne niż instrumenty, o których mowa w pkt 7.
 9. Instrumenty finansowe klasyfikuje się jako instrumenty finansowe w systemie obrotu, w przypadku gdy w momencie wystąpienia zdarzenia, którego dotyczy raport, były one dopuszczone do obrotu w systemie obrotu. Nie jest wystarczające, aby instrumenty finansowe tego samego emitenta lub wystawcy, o tożsamych parametrach, znajdowały się w obrocie.
 10. Instrumenty finansowe, na których objęcie dokonuje się zapisów w ramach usługi oferowania instrumentów finansowych, wykazuje się jako instrumenty w systemie obrotu, o ile oferta jest związana z ich dopuszczeniem do obrotu.
@@ -1898,17 +2004,17 @@ Do produktów strukturyzowanych nie zalicza się:
 19. Lokaty strukturyzowane wykazuje się wyłącznie w pkt VIII.
 20. Pozostałe produkty strukturyzowane, niebędące instrumentami finansowymi ani lokatami strukturyzowanymi, wykazuje się wyłącznie w pkt X.
 21. W przypadku instrumentów finansowych denominowanych w walutach obcych, instrumentów pochodnych, których aktywami bazowymi są instrumenty denominowane w walutach obcych, albo instrumentów pochodnych, których aktywami bazowymi są waluty obce, wartość tych instrumentów wykazuje się w walucie polskiej według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego:
-1) w przypadku wykazywania wartości transakcji w dniu zawarcia transakcji;
-2) w przypadku wykazywania wartości na koniec okresu sprawozdawczego w tym dniu.
+1) w przypadku wykazywania wartości transakcji – w dniu zawarcia transakcji;
+2) w przypadku wykazywania wartości na koniec okresu sprawozdawczego – w tym dniu.
 22. Klientem aktywnym jest klient, który za pośrednictwem podmiotu sprawozdającego w okresie sprawozdawczym dokonał:
-1) w przypadku instrumentów niebędących instrumentami pochodnymi nabycia lub zbycia tych instrumentów;
-2) w przypadku instrumentów pochodnych otwarcia lub zamknięcia pozycji w tych instrumentach, także w przypadku gdy nastąpiło zamknięcie jedynie części pozycji.
+1) w przypadku instrumentów niebędących instrumentami pochodnymi – nabycia lub zbycia tych instrumentów;
+2) w przypadku instrumentów pochodnych – otwarcia lub zamknięcia pozycji w tych instrumentach, także w przypadku gdy nastąpiło zamknięcie jedynie części pozycji.
 23. W przypadku wykazania wartości odnoszących się do następujących kategorii instrumentów finansowych:
 1) pozostałe obligacje,
 2) pozostałe produkty strukturyzowane,
 3) inne zbywalne papiery wartościowe wyemitowane na podstawie właściwych przepisów prawa polskiego lub prawa obcego,
 4) inne instrumenty finansowe niebędące papierami wartościowymi ani instrumentami pochodnymi,
-5) pozostałe pochodne instrumenty finansowe w dodatkowych objaśnieniach wykazuje się rodzaj instrumentu, którego te wartości dotyczą.
+5) pozostałe pochodne instrumenty finansowe – w dodatkowych objaśnieniach wykazuje się rodzaj instrumentu, którego te wartości dotyczą.
 24. W przypadku braku wymaganych wartości należy wykazać wartość zero („0”) albo podać informację, że dany zakres informacji nie dotyczy podmiotu w całości.
 25. Rolowaniem instrumentu dłużnego jest nabycie instrumentu dłużnego kolejnej emisji danego emitenta za środki pochodzące z wykupu instrumentu dłużnego poprzedniej emisji, przez potrącenie należności klienta z tytułu wykupu z należnością emitenta z tytułu objęcia instrumentu dłużnego.
 26. W odniesieniu do pkt I, II i V wykazuje się przyczyny znaczących zmian poszczególnych wartości w stosunku do poprzedniego kwartału, o ile wynikają one z przyczyn niezwiązanych z sytuacją ogólnorynkową, takich jak zwiększenie lub zmniejszenie zmienności ceny albo cen instrumentów finansowych na rynku lub silnego trendu występującego na całym rynku, przy czym znaczącą zmianą jest zmiana powyżej 20 % w stosunku do analogicznej wielkości z poprzedniego kwartału. Do przyczyn niezwiązanych z sytuacją ogólnorynkową zalicza się w szczególności:
@@ -1928,13 +2034,13 @@ Pkt I i II
 2) wykonywania zleceń nabycia lub zbycia instrumentów finansowych (art. 69 ust. 2 pkt 2 ustawy);
 3) przechowywania lub rejestrowania instrumentów finansowych (art. 69 ust. 4 pkt 1 ustawy).
 2. W pkt I części A i B oraz pkt II części A i B wykazuje się:
-1) dane dla transakcji dokonanych w związku z usługą wykonywania zleceń dla wszystkich modeli wykonywania zleceń klientów, w tym dotyczące instrumentów finansowych nabytych przez klientów w sposób, o którym mowa w art. 73 ust. 2 ustawy, tj. od podmiotu sprawozdającego, oraz dotyczące usługi, o której mowa w art. 69 ust. 2 pkt 9 ustawy w przypadku gdy firma inwestycyjna wykonuje na prowadzonej przez siebie OTF zlecenia na rzecz klientów, z wyjątkiem klientów będących firmami inwestycyjnymi, które składają na OTF zlecenia na rzecz swoich klientów;
+1) dane dla transakcji dokonanych w związku z usługą wykonywania zleceń dla wszystkich modeli wykonywania zleceń klientów, w tym dotyczące instrumentów finansowych nabytych przez klientów w sposób, o którym mowa w art. 73 ust. 2 ustawy, tj. od podmiotu sprawozdającego, oraz dotyczące usługi, o której mowa w art. 69 ust. 2 pkt 9 ustawy – w przypadku gdy firma inwestycyjna wykonuje na prowadzonej przez siebie OTF zlecenia na rzecz klientów, z wyjątkiem klientów będących firmami inwestycyjnymi, które składają na OTF zlecenia na rzecz swoich klientów;
 w pkt I części A i B oraz w pkt II części A i B nie uwzględnia się zleceń, o których mowa w pkt 3 ppkt 2;
 2) dane dla transakcji dokonanych w związku z usługą przyjmowania i przekazywania zleceń wyłącznie w zakresie:
 a) zleceń przyjętych i przekazanych do emitenta, wystawcy lub oferującego instrument finansowy, w tym zlecenia w związku z nabyciem lub zbyciem tytułów uczestnictwa w instytucjach zbiorowego inwestowania,
 b) zleceń, w których wyniku podmiot sprawozdający kojarzy dwa podmioty lub większą liczbę podmiotów w celu doprowadzenia do zawarcia transakcji między tymi podmiotami;
 w pkt I części A i B oraz pkt II części A i B sprawozdania nie uwzględnia się zleceń przekazywanych do wykonania do innej firmy inwestycyjnej lub banku, o którym mowa w art. 70 ust. 2 ustawy;
-3) w zakresie usługi przechowywanych lub rejestrowanych przez podmiot sprawozdający instrumentów finansowych należących do klientów wykazuje się wszystkie instrumenty finansowe przechowywane lub rejestrowane przez podmiot sprawozdający, według wartości na koniec ostatniego dnia okresu sprawozdawczego, bez względu na to, czy zostały nabyte za pośrednictwem podmiotu sprawozdającego, z wyjątkiem instrumentów znajdujących się na prowadzonych przez podmiot sprawozdający rejestrach akcjonariuszy.
+3) w zakresie usługi przechowywanych lub rejestrowanych przez podmiot sprawozdający instrumentów finansowych należących do klientów – wykazuje się wszystkie instrumenty finansowe przechowywane lub rejestrowane przez podmiot sprawozdający, według wartości na koniec ostatniego dnia okresu sprawozdawczego, bez względu na to, czy zostały nabyte za pośrednictwem podmiotu sprawozdającego, z wyjątkiem instrumentów znajdujących się na prowadzonych przez podmiot sprawozdający rejestrach akcjonariuszy.
 3. W pkt I części C i D oraz w pkt II części C i D wykazuje się:
 1) dane dla transakcji dokonanych w związku z usługą przyjmowania i przekazywania zleceń dla zleceń przekazywanych do wykonania do innej firmy inwestycyjnej lub banku, o którym mowa w art. 70 ust. 2 ustawy,
 2) dane dla transakcji dokonanych w związku z usługą wykonywania zleceń w formie przekazania do wykonania innej firmie inwestycyjnej, np. w przypadku gdy podmiot nie ma dostępu do danego systemu obrotu i w związku z tym przekazuje zlecenie do wykonania podmiotowi trzeciemu (który nie ma relacji kontraktowej z tym klientem). W takim przypadku jest to usługa wykonywania zleceń (przy pomocy podmiotu trzeciego), a nie usługa przyjmowania i przekazywania zleceń, jednak ze względu na wykonanie zlecenia przez podmiot trzeci transakcje wykazuje się w pkt I części C i D lub w pkt II części C i D sprawozdania, a nie w pkt I części A i B lub w pkt II części A i B sprawozdania.
@@ -1949,19 +2055,19 @@ w pkt I części A i B oraz pkt II części A i B sprawozdania nie uwzględnia s
 1) przeniesienia aktywów między rachunkami tego samego klienta, zarówno w ramach rachunków prowadzonych przez podmiot sprawozdający, jak i w ramach rachunków prowadzonych w różnych podmiotach;
 2) wejścia w posiadanie czy ustania posiadania instrumentów w wyniku umów darowizny bądź spadkobrania;
 3) zmiany posiadania instrumentów, które są rejestrowane w prowadzonych przez podmiot sprawozdający rejestrach akcjonariuszy.
-12. W pkt I w poz. Tytuły uczestnictwa w instytucjach wspólnego inwestowania (z wyjątkiem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF)) wykazuje się dane tytułów uczestnictwa w instytucjach wspólnego inwestowania, z wyłączeniem certyfikatów inwestycyjnych wykazywanych w poz. Certyfikaty inwestycyjne oraz dane tytułów uczestnictwa zagranicznych funduszy inwestycyjnych typu Exchange Traded Fund (ETF) wykazywanych poz. Tytuły uczestnictwa zagranicznych funduszy inwestycyjnych typuExchange Traded Fund (ETF).
+12. W pkt I w poz. Tytuły uczestnictwa w instytucjach wspólnego inwestowania (z wyjątkiem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF)) wykazuje się dane tytułów uczestnictwa w instytucjach wspólnego inwestowania, z wyłączeniem certyfikatów inwestycyjnych wykazywanych w poz. Certyfikaty inwestycyjne oraz dane tytułów uczestnictwa zagranicznych funduszy inwestycyjnych typu Exchange Traded Fund (ETF) wykazywanych poz. Tytuły uczestnictwa zagranicznych funduszy inwestycyjnych typu Exchange Traded Fund (ETF).
 13. W pkt I w poz. Tytuły uczestnictwa w instytucjach wspólnego inwestowania (z wyjątkiem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF)) wykazuje się w szczególności dane dotyczące:
 1) jednostek uczestnictwa funduszy typu otwartego (funduszy inwestycyjnych otwartych i specjalistycznych funduszy inwestycyjnych otwartych) oraz tytułów uczestnictwa w alternatywnych funduszach inwestycyjnych;
 2) tytułów uczestnictwa w zagranicznych przedsiębiorstwach zbiorowego inwestowania w rozumieniu dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 302 z 17.11.2009, str. 32, z późn. zm.), z wyjątkiem tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF);
 3) tytułów uczestnictwa w zagranicznych alternatywnych funduszach inwestycyjnych zgodnych z dyrektywą Parlamentu Europejskiego i Rady 2011/61/UE z 8 czerwca 2011 r. w sprawie zarządzających alternatywnymi funduszami inwestycyjnymi i zmiany dyrektyw 2003/41/WE i 2009/65/WE oraz rozporządzeń (WE) nr 1060/2009 i (UE) nr 1095/2010 (Dz. Urz. UE L 174 z 01.07.2011, str. 1, z późn. zm.).
-14. Zapis na tytuł uczestnictwa w instytucjach zbiorowego inwestowania wykazuje się jako nabycie instrumentu finansowego przez inwestora, a zlecenie umorzenia tytułu uczestnictwa jako zbycie instrumentu finansowego.
+14. Zapis na tytuł uczestnictwa w instytucjach zbiorowego inwestowania wykazuje się jako nabycie instrumentu finansowego przez inwestora, a zlecenie umorzenia tytułu uczestnictwa – jako zbycie instrumentu finansowego.
 15. Konwersję lub zamianę tytułów uczestnictwa jako transakcję złożoną, składającą się ze zbycia tytułu uczestnictwa w jednym funduszu/subfunduszu i nabycia tytułu uczestnictwa w innym funduszu/subfunduszu, wykazuje się zarówno jako nabycie, jak i zbycie instrumentu finansowego.
 16. W pkt I części A oraz w pkt II części A w poz. Łączna wartość instrumentów finansowych należących do klientów, przechowywanych/rejestrowanych przez podmiot sprawozdający, na koniec ostatniego dnia okresu sprawozdawczego wykazuje się łączną wartość instrumentów finansowych znajdujących się na prowadzonych przez podmiot sprawozdający rachunkach papierów wartościowych lub w rejestrach lub ewidencjach papierów wartościowych oraz na rachunkach i w rejestrach innych instrumentów finansowych, z wyjątkiem rejestrów akcjonariuszy.
 17. Rolowanie instrumentu dłużnego, jako stanowiące zbycie instrumentu dłużnego poprzedniej serii oraz nabycie instrumentu dłużnego nowej serii, wykazuje się w pkt I części A i B, zarówno w poz. Łączna wartość nabytych instrumentów finansowych, jak i w poz. Łączna wartość zbytych instrumentów finansowych.
 18. W zależności od tego, czy instrument rynku pieniężnego jest papierem wartościowym czy instrumentem finansowym niebędącym papierem wartościowym, dane dotyczące tego instrumentu wykazuje się w części I w poz. Instrumenty rynku pieniężnego (z wyjątkiem bankowych papierów wartościowych) lub w poz. Instrumenty rynku pieniężnego niebędące papierami wartościowymi.
 19. Przez wartość (nominalną) transakcji zawartych przez klientów na instrumentach pochodnych, wykazywaną w pkt II sprawozdania, rozumie się łączną wartość transakcji niezależnie od tego, czy była to transakcja otwarcia czy zamknięcia pozycji. W przypadku zamknięcia pozycji wykazuje się zamknięcie pozycji wynikające zarówno ze zlecenia klienta, jak i z inicjatywy podmiotu sprawozdającego, w związku z mechanizmami ochrony klientów przed stratami. Wygaśnięcie instrumentu pochodnego wykazuje się jako inne zdarzenie skutkujące realizacją lub ustaniem praw z instrumentu.
 20. Automatycznego przedłużenia pozycji w instrumencie pochodnym na kolejny dzień nie wykazuje się jako transakcji w poz. Łączna wartość (nominalna) transakcji zawartych przez klientów w okresie sprawozdawczym.
-21. W poz. Łączna wartość (nominalna) ekspozycji wynikających z otwartych pozycji na koniec ostatniego dnia okresu sprawozdawczego wykazuje się łączną wartość nominalną ekspozycji wynikających z pozycji, które pozostały otwarte na ostatni dzień okresu sprawozdawczego w odniesieniu do pozycji otwartych zarówno w okresie sprawozdawczym, jak i w okresach wcześniejszych.
+21. W poz. Łączna wartość (nominalna) ekspozycji wynikających z otwartych pozycji na koniec ostatniego dnia okresu sprawozdawczego wykazuje się łączną wartość nominalną ekspozycji wynikających z pozycji, które pozostały otwarte na ostatni dzień okresu sprawozdawczego – w odniesieniu do pozycji otwartych zarówno w okresie sprawozdawczym, jak i w okresach wcześniejszych.
 22. W poz. Łączna wartość (nominalna) transakcji zawartych przez klientów w okresie sprawozdawczym wykazuje się także zamknięcie części pozycji w instrumencie pochodnym (wyłącznie wartość zamkniętej części pozycji).
 23. Wartość tożsamych pozycji przeciwstawnych na instrumentach pochodnych nie podlega wzajemnej kompensacji (nettowaniu). Podlegają one sumowaniu i są wykazywane w wartościach brutto, przy czym:
 1) w przypadku zamykania na rachunku klienta dwóch przeciwstawnych pozycji uwzględnia się łączną wartość bezwzględną (nominalną) obu zamykanych pozycji;
@@ -1976,18 +2082,18 @@ b) gdy podmiot sprawozdający jest oferującym (właścicielem instrumentów fin
 c) emisji z prawem poboru.
 W przypadkach wskazanych w ppkt 2 należy zamieścić opis charakteru emisji w dodatkowych objaśnieniach.
 2. W częściach A i B w poz. Rola w procesie oferowania wskazuje się czynności wykonywane przez podmiot sprawozdający w procesie oferowania poszczególnych instrumentów.
-3. Dane w poz. Łączna liczba instrumentów finansowych objętych przez inwestorów, Łączna wartość instrumentów finansowych objętych przez inwestorów, Łączna liczba inwestorów, którzy objęli instrumenty finansowe, Łączna liczba inwersorów, którzy objęli instrumenty finansowe w grupie innej niż docelowa, Łączna wartość instrumentów finansowych, które zostały objęte na zasadzie rolowania, Łączna liczba inwestorów, którzy objęli instrumenty finansowe na zasadzie rolowania wykazuje się wyłącznie w przypadku przyjmowania przez podmiot sprawozdający zapisów na objęcie instrumentów finansowych, jeżeli doszło do objęcia instrumentów finansowych. Nie uwzględnia się wartości zapisów, jeżeli uległy redukcji lub zostały wycofane.
-4. Dane w poz. Łączna wartość instrumentów finansowych objętych przez inwestorów (zapisy przyjęte przez podmiot z konsorcjum inny niż organizator konsorcjum, przekazane do podmiotu sprawozdającego będącego organizatorem konsorcjum) i Łączna liczba inwestorów, którzy objęli instrumenty finansowe (zapisy przyjęte przez podmiot z konsorcjum inny niż organizator konsorcjum, przekazane do podmiotu sprawozdającego będącego organizatorem konsorcjum) wykazuje podmiot świadczący usługę oferowania tworzący konsorcjum oferujące, w przypadku gdy inni członkowie konsorcjum (biorący udział w procesie oferowania instrumentów finansowych wyłącznie przez przyjmowanie i przekazywanie zleceń) przekazali przyjęte zlecenia temu podmiotowi w celu ich dalszego przekazania emitentowi, wystawcy lub oferującemu.
+3. Dane w poz. Łączna liczba instrumentów finansowych objętych przez inwestorów, Łączna wartość instrumentów finansowych objętych przez inwestorów, Łączna liczba inwestorów, którzy objęli instrumenty finansowe, Łączna liczba inwersorów, którzy objęli instrumenty finansowe w grupie innej niż docelowa, Łączna wartość instrumentów finansowych, które zostały objęte na zasadzie rolowania, Łączna liczba inwestorów, którzy objęli instrumenty finansowe na zasadzie rolowania – wykazuje się wyłącznie w przypadku przyjmowania przez podmiot sprawozdający zapisów na objęcie instrumentów finansowych, jeżeli doszło do objęcia instrumentów finansowych. Nie uwzględnia się wartości zapisów, jeżeli uległy redukcji lub zostały wycofane.
+4. Dane w poz. Łączna wartość instrumentów finansowych objętych przez inwestorów (zapisy przyjęte przez podmiot z konsorcjum inny niż organizator konsorcjum, przekazane do podmiotu sprawozdającego będącego organizatorem konsorcjum) i Łączna liczba inwestorów, którzy objęli instrumenty finansowe (zapisy przyjęte przez podmiot z konsorcjum inny niż organizator konsorcjum, przekazane do podmiotu sprawozdającego będącego organizatorem konsorcjum) – wykazuje podmiot świadczący usługę oferowania tworzący konsorcjum oferujące, w przypadku gdy inni członkowie konsorcjum (biorący udział w procesie oferowania instrumentów finansowych wyłącznie przez przyjmowanie i przekazywanie zleceń) przekazali przyjęte zlecenia temu podmiotowi w celu ich dalszego przekazania emitentowi, wystawcy lub oferującemu.
 5. Rodzaj oferowanego instrumentu finansowego oznacza się zgodnie z kategoriami zawartymi w pkt I oraz w pkt II, przez wskazanie najwęższej kategorii, do której został zaklasyfikowany dany instrument.
 6. Każdą serię instrumentów finansowych pojedynczego emitenta lub wystawcy wykazuje się odrębnie w poz. Oznaczenie serii.
 7. W poz. Rodzaj oferty (publiczna/prywatna) wskazuje się, czy oferta była publiczna czy prywatna. Ofertą prywatną jest każda oferta, która nie jest ofertą publiczną w rozumieniu ustawy o ofercie publicznej.
-8. Liczba inwestorów, do których skierowano ofertę oznacza liczbę inwestorów, do których skierowano propozycję nabycia instrumentów finansowych w ramach oferty.
+8. Poz. Liczba inwestorów, do których skierowano ofertę oznacza liczbę inwestorów, do których skierowano propozycję nabycia instrumentów finansowych w ramach oferty.
 W przypadku gdy oferta została skierowana do nieoznaczonego adresata, wskazuje się tę okoliczność zamiast podania liczby inwestorów.
 9. W poz. Łączna wartość instrumentów finansowych, które zostały objęte na zasadzie rolowania (tylko dla instrumentów dłużnych) i Łączna liczba inwestorów, którzy objęli instrumenty finansowe na zasadzie rolowania (tylko dla instrumentów dłużnych) wykazuje się część wartości emisji, która została objęta w wyniku rolowania, wyłącznie dla instrumentów dłużnych.
 10. Wynagrodzeniem otrzymanym przez podmiot sprawozdający jest całkowite wynagrodzenie otrzymane od emitenta, wystawcy lub oferującego w związku z czynnościami wykonywanymi w procesie oferowania.
 11. W poz. Czy w informacjach skierowanych do potencjalnych inwestorów została zawarta informacja, z której wynika, że inwestycja jest zrównoważona lub bierze się w niej pod uwagę czynniki zrównoważonego rozwoju lub uwzględnia ryzyko dla zrównoważonego rozwoju wskazuje się, czy w informacjach skierowanych do potencjalnych inwestorów była udostępniana informacja, że inwestycja jest zrównoważona lub bierze się w niej pod uwagę czynniki zrównoważonego rozwoju lub uwzględnia ryzyko dla zrównoważonego rozwoju. Dane powinny dotyczyć zarówno przypadku, gdy taka informacja była udostępniana inwestorom przez podmiot sprawozdający, jak i przypadku gdy podmiot sprawozdający posiada wiedzę, że emitent lub wystawca kierowali takie informacje do potencjalnych inwestorów.
 12. W przypadku udzielenia odpowiedzi twierdzącej na pytanie, o którym mowa w pkt 11, w poz. Dodatkowe objaśnienia należy wskazać, jakie standardy zostały zastosowane w celu oceny elementów dotyczących zrównoważonego rozwoju w związku z dystrybucją poszczególnych tytułów uczestnictwa oraz źródła tych standardów.
-13. W pkt III części A wykazuje się dane dla wszystkich przyjętych zapisów zarówno bezpośrednio, jak i za pośrednictwem agentów firm inwestycyjnych.
+13. W pkt III części A wykazuje się dane dla wszystkich przyjętych zapisów – zarówno bezpośrednio, jak i za pośrednictwem agentów firm inwestycyjnych.
 14. W pkt III części B wykazuje się wyłącznie zapisy przyjęte za pośrednictwem agentów firm inwestycyjnych.
 15. W przypadku wykazywania danych dotyczących obejmowania instrumentów poza grupą docelową z wyłącznej inicjatywy klienta przez grupę docelową rozumie się grupę, o której mowa w art. 83b ust. 10 ustawy. Obejmowanie instrumentów z wyłącznej inicjatywy klienta obejmuje przypadki, o których mowa w motywie 85 preambuły do dyrektywy Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r.
 w sprawie rynków instrumentów finansowych oraz zmieniającej dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, z późn. zm.) oraz art. 83b ust. 10 ustawy.
@@ -1995,7 +2101,7 @@ Pkt IV
 1. W pkt IV wykazuje się dane dotyczące nabytych i zbytych za pośrednictwem podmiotu tytułów uczestnictwa w instytucjach wspólnego inwestowania wykazywanych w pkt I w poz. Tytuły uczestnictwa w instytucjach wspólnego inwestowania (z wyjątkiem certyfikatów inwestycyjnych i tytułów uczestnictwa funduszy typu Exchange Traded Fund (ETF)), ze wskazaniem nabytych i zbytych tytułów uczestnictwa poszczególnych funduszy/subfunduszy inwestycyjnych.
 2. W przypadku krajowych funduszy lub subfunduszy w poz. Nr identyfikacyjny TFI i poz.
 Nr identyfikacyjny funduszu/subfunduszu wykazuje się identyfikator krajowy zgodnie z rejestrem prowadzonym przez Komisję.
-3. W przypadku zagranicznych funduszy lub subfunduszy w poz. Nr identyfikacyjny TFI wskazuje się kod LEI, a w poz. Nr identyfikacyjny funduszu/subfunduszu w pierwszej kolejności wskazuje się nr ISIN funduszu lub subfunduszu zagranicznego, a w przypadku jego braku kod LEI funduszu lub subfunduszu. W przypadku braku nr ISIN i kodu LEI wskazuje się inny numer identyfikacyjny.
+3. W przypadku zagranicznych funduszy lub subfunduszy w poz. Nr identyfikacyjny TFI wskazuje się kod LEI, a w poz. Nr identyfikacyjny funduszu/subfunduszu w pierwszej kolejności wskazuje się nr ISIN funduszu lub subfunduszu zagranicznego, a w przypadku jego braku – kod LEI funduszu lub subfunduszu. W przypadku braku nr ISIN i kodu LEI wskazuje się inny numer identyfikacyjny.
 4. W przypadku tytułów uczestnictwa zagranicznych funduszy lub subfunduszy w poz.
 Dodatkowe objaśnienia wskazuje się typ numeru identyfikacyjnego wskazanego w poz.
 Nr identyfikacyjny TFI i poz. Nr identyfikacyjny funduszu/subfunduszu.
@@ -2034,7 +2140,9 @@ Pkt X W pkt X wykazuje się dane dotyczące detalicznych produktów zbiorowego i
 Pkt XI Dodatkowe wyjaśnienia obejmują w szczególności:
 1) informacje, które nie zostały podane jako dodatkowe objaśnienia do poszczególnych punktów sprawozdania, a które mogą być istotne dla analizy przekazywanych danych;
 2) wyjaśnienia uzupełniające w stosunku do danych podanych w dodatkowych objaśnieniach do poszczególnych pozycji sprawozdania.
-Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy:
+
+## Załącznik nr 13 — Zakres informacji zawartych w zestawieniu spółek, dla których był prowadzony rejestr akcjonariuszy, o którym mowa w art. 300 lub art. 328 Kodeksu spółek handlowych, lub były świadczone usługi przechowywania dokumentów obligacji kapitałowych, o których mowa w art. 27g ustawy o obligacjach, oraz prowadzenia rejestru osób uprawnionych z obligacji kapitałowych Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdający): Okres sprawozdawczy:
+
 1. Zestawienie spółek, dla których był prowadzony rejestr akcjonariuszy, o którym mowa w art. 300 lub art. 328 Kodeksu spółek handlowych:
 1) firma spółki;
 2) siedziba;
@@ -2049,124 +2157,4 @@ Dane identyfikacyjne podmiotu przekazującego sprawozdanie (podmiot sprawozdają
 4) numer KRS;
 5) data zawarcia umowy;
 6) data rozwiązania umowy.
-
-## CZĘŚĆ A AKTYWA (według stanu na ostatni dzień okresu sprawozdawczego) Lp.
-
-## CZĘŚĆ B PASYWA (według stanu na ostatni dzień okresu sprawozdawczego)
-
-## CZĘŚĆ C RACHUNEK ZYSKÓW I STRAT (narastająco od początku roku obrotowego)
-
-## CZĘŚĆ D POZYCJE POZABILANSOWE (według stanu na ostatni dzień okresu sprawozdawczego)
-
-## CZĘŚĆ E AKTYWA KLIENTÓW (według stanu na ostatni dzień okresu sprawozdawczego)
-
-## CZĘŚĆ F Należności przeterminowane (według stanu na ostatni dzień okresu sprawozdawczego)
-
-## CZĘŚĆ G Zobowiązania przeterminowane (według stanu na ostatni dzień okresu sprawozdawczego)
-
-## CZĘŚĆ H Transakcje ze stronami powiązanymi (według stanu na ostatni dzień okresu sprawozdawczego)
-
-## CZĘŚĆ I Przewidywane naruszenia wymogów w zakresie funduszy własnych oraz wymogów płynności
-
-## CZĘŚĆ J Kapitał wewnętrzny/założycielski
-
-## CZĘŚĆ K Aktywa płynne/oszacowane aktywa płynne
-
-## CZĘŚĆ L Fundusze własne i wymogi kapitałowe
-
-## CZĘŚĆ M Wskaźniki planu naprawy
-
-## CZĘŚĆ N Przychody wynikające ze świadczenia usług w zakresie kryptoaktywów
-
-## CZĘŚĆ A–D
-
-## CZĘŚĆ E
-
-## CZĘŚĆ F
-
-## CZĘŚĆ G
-
-## CZĘŚĆ H
-
-## CZĘŚĆ I W Lp. 217–219 podaje się informację o przewidywanym w okresie najbliższych 30 dni niespełnieniu wymogów w zakresie funduszy własnych, o których mowa w § 3 ust. 1 pkt 35, lub wymogów dotyczących płynności, o których mowa w § 3 ust. 1 pkt 51, w ujęciu jednostkowym.
-
-## CZĘŚĆ J
-
-## CZĘŚĆ K
-
-## CZĘŚĆ L
-
-## CZĘŚĆ M
-
-## CZĘŚĆ N
-
-## CZĘŚĆ A AKTYWA (według stanu na ostatni dzień okresu sprawozdawczego) Lp.
-
-## CZĘŚĆ B PASYWA (według stanu na ostatni dzień okresu sprawozdawczego)
-
-## CZĘŚĆ C RACHUNEK ZYSKÓW I STRAT (narastająco od początku roku obrotowego)
-
-## CZĘŚĆ D POZYCJE POZABILANSOWE (według stanu na ostatni dzień okresu sprawozdawczego)
-
-## CZĘŚĆ A–D
-
-### Dział I. Luka płynności (wartość bilansowa według stanu na ostatni dzień miesiąca)
-
-### Dział II. Finansowanie luki płynności
-
-## CZĘŚĆ A AKTYWA (według stanu na ostatni dzień okresu sprawozdawczego, w podziale na skonsolidowane dane finansowe jednostek objętych zakresem konsolidacji rachunkowej i skonsolidowane dane finansowe dotyczące jednostek objętych zakresem konsolidacji ostrożnościowej) Lp.
-
-## CZĘŚĆ B PASYWA (według stanu na ostatni dzień okresu sprawozdawczego, w podziale na skonsolidowane dane finansowe jednostek objętych zakresem konsolidacji rachunkowej i skonsolidowane dane finansowe dotyczące jednostek objętych zakresem konsolidacji ostrożnościowej)
-
-## CZĘŚĆ C RACHUNEK ZYSKÓW I STRAT (narastająco od początku roku obrotowego, w podziale na skonsolidowane dane finansowe jednostek objętych zakresem konsolidacji rachunkowej i skonsolidowane dane finansowe dotyczące jednostek objętych zakresem konsolidacji ostrożnościowej)
-
-## CZĘŚĆ D POZYCJE POZABILANSOWE (według stanu na ostatni dzień okresu sprawozdawczego,w podziale na skonsolidowane dane finansowe jednostek objętych zakresem konsolidacji rachunkowej i skonsolidowane dane finansowe dotyczące jednostek objętych zakresem konsolidacji ostrożnościowej)
-
-## CZĘŚĆ E TRANSAKCJE ZE STRONAMI POWIĄZANYMI
-
-## CZĘŚĆ F PRZEWIDYWANE NARUSZENIA WYMOGÓW W ZAKRESIE FUNDUSZY WŁASNYCH ORAZ WYMOGÓW PŁYNNOŚCI
-
-## CZĘŚĆ G SKONSOLIDOWANY KAPITAŁ WEWNĘTRZNY (według stanu na ostatni dzień okresu sprawozdawczego)
-
-## CZĘŚĆ H SKONSOLIDOWANE AKTYWA PŁYNNE/AKTYWA PŁYNNE WYNIKAJĄCE Z OSZACOWANIA
-
-## CZĘŚĆ I FUNDUSZE WŁASNE I WYMOGI NA ZASADZIE SKONSOLIDOWANEJ
-
-## CZĘŚĆ A–D
-
-## CZĘŚĆ E
-
-## CZĘŚĆ F W Lp. 179–181 podaje się informacje o przewidywanym w okresie najbliższych 30 dni niespełnieniu wymogów w zakresie funduszy własnych, o których mowa w § 3 ust. 1 pkt 35, lub wymogów dotyczących płynności, o których mowa w § 3 ust. 1 pkt 51, na zasadzie skonsolidowanej.
-
-## CZĘŚĆ G
-
-## CZĘŚĆ H
-
-## CZĘŚĆ I
-
-## CZĘŚĆ A wartość nabytych i zbytych instrumentów finansowych oraz liczba klientów instrumenty krajowe i zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
-
-## CZĘŚĆ B wartość nabytych i zbytych instrumentów finansowych wyłącznie instrumenty zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
-
-## CZĘŚĆ C przyjmowanie i przekazywanie zleceń do innej firmy inwestycyjnej oraz wykonywanie zleceń w formie przekazania zlecenia do wykonania do innej firmy inwestycyjnej instrumenty krajowe i zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
-
-## CZĘŚĆ D przyjmowanie i przekazywanie zleceń do innej firmy inwestycyjnej oraz wykonywanie zleceń w formie przekazania zlecenia do wykonania do innej firmy inwestycyjnej, w zakresie instrumentów niebędących instrumentami pochodnymi wyłącznie instrumenty zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
-
-## CZĘŚĆ A wartość nabytych i zbytych instrumentów pochodnych oraz liczba klientów instrumenty krajowe i zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
-
-## CZĘŚĆ B wartość nabytych i zbytych instrumentów pochodnych oraz liczba klientów wyłącznie zagraniczne instrumenty pochodne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
-
-## CZĘŚĆ C przyjmowanie i przekazywanie zleceń do innej firmy inwestycyjnej oraz wykonywanie zleceń w formie przekazania tego zlecenia do wykonania do innej firmy inwestycyjnej, w zakresie instrumentów pochodnych instrumenty krajowe i zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
-
-## CZĘŚĆ D przyjmowanie i przekazywanie zleceń do innej firmy inwestycyjnej oraz wykonywanie zleceń w formie przekazania tego zlecenia do wykonania do innej firmy inwestycyjnej, w zakresie instrumentów pochodnych wyłącznie instrumenty zagraniczne (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
-
-## CZĘŚĆ A oferowanie i emisje instrumentów finansowych.
-
-## CZĘŚĆ B oferowanie i emisje za pośrednictwem agentów.
-
-## CZĘŚĆ A umowy o świadczenie usług, o których mowa w art. 69 ustawy (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
-
-## CZĘŚĆ B liczba klientów.
-
-## CZĘŚĆ C liczba prowadzonych rachunków instrumentów finansowych z wyłączeniem rejestrów akcjonariuszy (z podziałem na klientów detalicznych i klientów profesjonalnych oraz uprawnionych kontrahentów).
 

@@ -8,10 +8,10 @@ pos: 1383
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lipca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11338833 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 24 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001383) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1383/text.pdf) |
 
-11338833 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 24 maja 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 23 kwietnia 2018 r. w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 802), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Infrastruktury z dnia 1 września 2021 r. zmieniającym rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 1811);
 2) rozporządzeniem Ministra Infrastruktury z dnia 20 kwietnia 2022 r. zmieniającym rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 1018).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2–6 rozporządzenia Ministra Infrastruktury z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 1811), które stanowią: „§ 2. Przepisy § 44 pkt 2a i § 57 pkt 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się również do uczniów dotychczasowych szkół ponadgimnazjalnych, którzy rozpoczęli kształcenie od roku szkolnego 2019/2020 w zawodzie technik nawigator morski albo technik mechanik okrętowy, zgodnie z podstawą programową kształcenia w zawodzie szkolnictwa branżowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2021 r. poz. 1082).
+1) § 2–6 rozporządzenia Ministra Infrastruktury z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 1811), które stanowią: „§ 2. Przepisy § 44 pkt 2a i § 57 pkt 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się również do uczniów dotychczasowych szkół ponadgimnazjalnych, którzy rozpoczęli kształcenie od roku szkolnego 2019/2020 w zawodzie technik nawigator morski albo technik mechanik okrętowy, zgodnie z podstawą programową kształcenia w zawodzie szkolnictwa branżowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082).
 § 3. Dyplomy, świadectwa, świadectwa przeszkolenia, zezwolenia i potwierdzenia uznania wydane przez dyrektorów urzędów morskich na podstawie przepisów dotychczasowych zachowują ważność na czas, na jaki zostały wydane, i mogą być wymienione na wniosek zainteresowanego.
 § 4. W sprawach o wydanie, wymianę lub odnowienie dokumentów kwalifikacyjnych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
 § 5. W sprawach o wydanie zaświadczenia o ukończeniu szkolenia, o którym mowa w § 10a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, dla osób, które rozpoczęły szkolenie przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
@@ -42,22 +41,23 @@ UE L 188 z 12.07.2019, str. 94).” „§ 2. 1. Dyplomy oficera wachtowego na st
 3. Dyplomy szypra 2 klasy żeglugi krajowej oraz szypra 1 klasy żeglugi krajowej wydane na podstawie przepisów dotychczasowych oraz dyplomy szypra 2 klasy żeglugi krajowej i szypra 1 klasy żeglugi krajowej wydane na podstawie przepisów, o których mowa w § 99 ust. 1, § 100 ust. 1 oraz § 103 ust. 1 rozporządzenia zmienianego w § 1, zachowują ważność przez okres 5 lat od dnia wejścia w życie niniejszego rozporządzenia.
 4. Dotychczasowe uprawnienia wynikające z dyplomów i świadectwa, o których mowa w ust. 1–3, zachowują ważność przez okres ważności poszczególnych dokumentów.
 5. Dyplomy i świadectwo, o których mowa w ust. 1–3, na wniosek zainteresowanego podlegają wymianie na odpowiednie dyplomy i świadectwo określone w niniejszym rozporządzeniu:
-1) d yplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej na dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej;
-2) d yplom starszego oficera na statkach o pojemności brutto od 500 do 3000 na dyplom starszego oficera na statkach o pojemności brutto od 500 do 3000;
-3) d yplom starszego oficera na statkach o pojemności brutto 3000 i powyżej na dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej;
-4) dyplom oficera wachtowego żeglugi przybrzeżnej na dyplom oficera wachtowego żeglugi przybrzeżnej;
-5) dyplom kapitana żeglugi przybrzeżnej na dyplom kapitana żeglugi przybrzeżnej;
-6) dyplom oficera mechanika wachtowego na statkach o mocy maszyn 750 kW i powyżej na dyplom oficera mechanika wachtowego na statkach o mocy maszyn 750 kW i powyżej;
-7) dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW;
-8) dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
-9) dyplom starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW na dyplom starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW;
-10) świadectwo starszego motorzysty na świadectwo starszego motorzysty;
-11) dyplom szypra 2 klasy żeglugi krajowej na dyplom szypra 2 klasy żeglugi krajowej;
-12) dyplom szypra 1 klasy żeglugi krajowej na dyplom szypra 1 klasy żeglugi krajowej;
-13) dyplom oficera mechanika w żegludze krajowej na dyplom oficera mechanika w żegludze krajowej.
+1) dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej – na dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej;
+2) dyplom starszego oficera na statkach o pojemności brutto od 500 do 3000 – na dyplom starszego oficera na statkach o pojemności brutto od 500 do 3000;
+3) dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej – na dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej;
+4) dyplom oficera wachtowego żeglugi przybrzeżnej – na dyplom oficera wachtowego żeglugi przybrzeżnej;
+5) dyplom kapitana żeglugi przybrzeżnej – na dyplom kapitana żeglugi przybrzeżnej;
+6) dyplom oficera mechanika wachtowego na statkach o mocy maszyn 750 kW i powyżej – na dyplom oficera mechanika wachtowego na statkach o mocy maszyn 750 kW i powyżej;
+7) dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW – na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW;
+8) dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej – na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
+9) dyplom starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW – na dyplom starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW;
+10) świadectwo starszego motorzysty – na świadectwo starszego motorzysty;
+11) dyplom szypra 2 klasy żeglugi krajowej – na dyplom szypra 2 klasy żeglugi krajowej;
+12) dyplom szypra 1 klasy żeglugi krajowej – na dyplom szypra 1 klasy żeglugi krajowej;
+13) dyplom oficera mechanika w żegludze krajowej – na dyplom oficera mechanika w żegludze krajowej.
 6. Wymianę i odnowienie dokumentów, o których mowa w ust. 5 pkt 1–9, przeprowadza się na zasadach określonych w § 96 rozporządzenia zmienianego w § 1.
 7. Wniosek, o którym mowa w ust. 5, zawiera dane identyfikacyjne wnioskodawcy:
 1) nazwisko i imię (imiona);
+2) datę i miejsce urodzenia;
 3) adres zamieszkania;
 4) obywatelstwo;
 5) płeć;
@@ -66,6 +66,7 @@ UE L 188 z 12.07.2019, str. 94).” „§ 2. 1. Dyplomy oficera wachtowego na st
 § 4. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”.
 Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 23 kwietnia 2018 r.
 w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich Na podstawie art. 68 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515, 1604, 2185 i 2687 oraz z 2023 r. poz. 261) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa:
 1) szczegółowe wymagania kwalifikacyjne do zajmowania stanowisk na statkach morskich, w tym również na statkach nieobjętych umowami, o których mowa w art. 62 ust. 1 pkt 1–4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwanej dalej „ustawą”;
 2) warunki przyznawania i odnawiania dyplomów, świadectw, świadectw przeszkoleń, zezwoleń oraz potwierdzeń uznania;
 3) rodzaje uprawnień zawodowych wynikających z poszczególnych dokumentów kwalifikacyjnych;
@@ -73,39 +74,39 @@ w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich Na pod
 5) sposób obliczania czasu praktyki pływania na statkach;
 6) wzory dokumentów, o których mowa w pkt 2, i sposób ich ewidencji;
 7) wzory zaświadczeń o pełnieniu wachty nawigacyjnej lub maszynowej, wzór zaświadczenia o ukończeniu szkolenia, o którym mowa w art. 64 ust. 1 pkt 3 ustawy, wzory zaświadczeń potwierdzających odbycie lub zaliczenie praktyki pływania.
-2. Kwalifikacje osób uprawnionych do obsługi urządzeń radiowych określają przepisy wydane na podstawie art. 150 ust. 4 ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581).
+2. Kwalifikacje osób uprawnionych do obsługi urządzeń radiowych określają przepisy wydane na podstawie art. 150 ust. 4 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581).
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) ARPA Radarowy Automatyczny System Śledzenia i Akwizycji Ech;
-2) dodatkowa praktyka pływania okres pływania na statku morskim, z wyłączeniem:
+1) ARPA – Radarowy Automatyczny System Śledzenia i Akwizycji Ech;
+2) dodatkowa praktyka pływania – okres pływania na statku morskim, z wyłączeniem:
 a) jednostek rekreacyjnych,
 b) statków wyłączonych z eksploatacji,
-c) statków w budowie w charakterze członka załogi na stanowisku, do którego upoważnia dany dyplom lub świadectwo, liczony od daty przyznania tego dyplomu lub świadectwa;
-3) ECDIS System Obrazowania Elektronicznych Map i Informacji Nawigacyjnych;
-4) GMDSS Światowy Morski System Łączności Alarmowej i Bezpieczeństwa;
-5) Kodeks IGF Międzynarodowy Kodeks Bezpieczeństwa dla statków używających jako paliwo gazów lub innych paliw o niskiej temperaturze zapłonu, o którym mowa w rozdziale II-1 prawidle 2 Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. oraz Protokołem przyjętym w Londynie dnia 11 listopada 1988 r. (Dz. U.
+c) statków w budowie – w charakterze członka załogi na stanowisku, do którego upoważnia dany dyplom lub świadectwo, liczony od daty przyznania tego dyplomu lub świadectwa;
+3) ECDIS – System Obrazowania Elektronicznych Map i Informacji Nawigacyjnych;
+4) GMDSS – Światowy Morski System Łączności Alarmowej i Bezpieczeństwa;
+5) Kodeks IGF – Międzynarodowy Kodeks Bezpieczeństwa dla statków używających jako paliwo gazów lub innych paliw o niskiej temperaturze zapłonu, o którym mowa w rozdziale II-1 prawidle 2 Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. oraz Protokołem przyjętym w Londynie dnia 11 listopada 1988 r. (Dz. U.
 z 2016 r. poz. 869 i 2029 oraz z 2017 r. poz. 142);
-6) Konwencja STCW Międzynarodową konwencję o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzoną w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201 i 202, z 1999 r. poz. 286 oraz z 2013 r. poz. 1092);
-7) Konwencja STCW-F Międzynarodową konwencję o wymaganiach w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht dla załóg statków rybackich, sporządzoną w Londynie dnia 7 lipca 1995 r. (Dz. U. z 2015 r.
+6) Konwencja STCW – Międzynarodową konwencję o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzoną w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201 i 202, z 1999 r. poz. 286 oraz z 2013 r. poz. 1092);
+7) Konwencja STCW-F – Międzynarodową konwencję o wymaganiach w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht dla załóg statków rybackich, sporządzoną w Londynie dnia 7 lipca 1995 r. (Dz. U. z 2015 r.
 poz. 1654 i 1655);
-8) łódź rybacka statek rybacki o długości nie większej niż 15 m, przyjętej jako 96% całkowitej długości konstrukcyjnej wodnicy na poziomie 85% najmniejszej wysokości konstrukcyjnej mierzonej od linii stępki albo jako długość od przedniej części dziobnicy do osi trzonu sterowego na tej wodnicy, jeżeli ta jest większa; na statkach zaprojektowanych z przegłębieniem konstrukcyjnym wodnica, której długość ma być mierzona, powinna być równoległa do wodnicy konstrukcyjnej;
-9) morski statek handlowy morski statek przeznaczony lub używany do prowadzenia działalności gospodarczej, a w szczególności do przewozu ładunku lub pasażerów, rybołówstwa morskiego lub pozyskiwania innych zasobów morza, holowania, ratownictwa morskiego, wydobywania mienia zatopionego w morzu, pozyskiwania zasobów mineralnych z dna morza oraz znajdujących się pod nim zasobów wnętrza Ziemi;
-10) MJE morską jednostkę edukacyjną, o której mowa w art. 74 ust. 2 ustawy;
-11) MJE typu A morską jednostkę edukacyjną, o której mowa w art. 74 ust. 2 pkt 1 ustawy;
-12) MJE typu B morską jednostkę edukacyjną, o której mowa w art. 74 ust. 2 pkt 2 ustawy;
-13) MJE typu C szkołę ponadpodstawową, o której mowa w art. 74 ust. 2 pkt 3 ustawy;
-14) MJE typu D centrum kształcenia zawodowego, w tym ośrodek prowadzący działalność szkoleniową w państwach członkowskich Unii Europejskiej lub państwach trzecich, o których mowa w art. 74 ust. 2 pkt 3 ustawy;
-15) praktyka pływania okres pływania w charakterze członka załogi na statku morskim zgodnie z wymogami rozporządzenia, z wyłączeniem:
+8) łódź rybacka – statek rybacki o długości nie większej niż 15 m, przyjętej jako 96% całkowitej długości konstrukcyjnej wodnicy na poziomie 85% najmniejszej wysokości konstrukcyjnej mierzonej od linii stępki albo jako długość od przedniej części dziobnicy do osi trzonu sterowego na tej wodnicy, jeżeli ta jest większa; na statkach zaprojektowanych z przegłębieniem konstrukcyjnym wodnica, której długość ma być mierzona, powinna być równoległa do wodnicy konstrukcyjnej;
+9) morski statek handlowy – morski statek przeznaczony lub używany do prowadzenia działalności gospodarczej, a w szczególności do przewozu ładunku lub pasażerów, rybołówstwa morskiego lub pozyskiwania innych zasobów morza, holowania, ratownictwa morskiego, wydobywania mienia zatopionego w morzu, pozyskiwania zasobów mineralnych z dna morza oraz znajdujących się pod nim zasobów wnętrza Ziemi;
+10) MJE – morską jednostkę edukacyjną, o której mowa w art. 74 ust. 2 ustawy;
+11) MJE typu A – morską jednostkę edukacyjną, o której mowa w art. 74 ust. 2 pkt 1 ustawy;
+12) MJE typu B – morską jednostkę edukacyjną, o której mowa w art. 74 ust. 2 pkt 2 ustawy;
+13) MJE typu C – szkołę ponadpodstawową, o której mowa w art. 74 ust. 2 pkt 3 ustawy;
+14) MJE typu D – centrum kształcenia zawodowego, w tym ośrodek prowadzący działalność szkoleniową w państwach członkowskich Unii Europejskiej lub państwach trzecich, o których mowa w art. 74 ust. 2 pkt 3 ustawy;
+15) praktyka pływania – okres pływania w charakterze członka załogi na statku morskim zgodnie z wymogami rozporządzenia, z wyłączeniem:
 a) jednostek rekreacyjnych,
 b) statków wyłączonych z eksploatacji,
 c) statków w budowie;
-16) Służba SAR Morską Służbę Poszukiwania i Ratownictwa;
-17) statek szkolny morski statek przeznaczony do szkolenia uczniów lub studentów MJE zgodnie z programem nauczania;
-18) wody nieograniczone akweny morskie inne niż wymienione w pkt 19, w przypadku żeglugi w rybołówstwie morskim;
-19) wody ograniczone akwen Morza Bałtyckiego i akweny przyległe do 8º długości geograficznej wschodniej, w przypadku żeglugi w rybołówstwie morskim;
-20) wody polarne wody arktyczne lub obszar Antarktydy w rozumieniu rozdziału XIV prawideł 1.2–1.4 Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. oraz Protokołem przyjętym w Londynie dnia 11 listopada 1988 r.;
-21) wody zalodzone wody morskie inne niż wody polarne, na których lód pochodzenia morskiego lub lądowego występuje sezonowo;
-22) żegluga krajowa podróże po morskich wodach wewnętrznych i morzu terytorialnym Rzeczypospolitej Polskiej;
-23) żegluga międzynarodowa podróże po obszarach morskich innych niż wymienione w pkt 22.
+16) Służba SAR – Morską Służbę Poszukiwania i Ratownictwa;
+17) statek szkolny – morski statek przeznaczony do szkolenia uczniów lub studentów MJE zgodnie z programem nauczania;
+18) wody nieograniczone – akweny morskie inne niż wymienione w pkt 19, w przypadku żeglugi w rybołówstwie morskim;
+19) wody ograniczone – akwen Morza Bałtyckiego i akweny przyległe do 8º długości geograficznej wschodniej, w przypadku żeglugi w rybołówstwie morskim;
+20) wody polarne – wody arktyczne lub obszar Antarktydy w rozumieniu rozdziału XIV prawideł 1.2–1.4 Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. oraz Protokołem przyjętym w Londynie dnia 11 listopada 1988 r.;
+21) wody zalodzone – wody morskie inne niż wody polarne, na których lód pochodzenia morskiego lub lądowego występuje sezonowo;
+22) żegluga krajowa – podróże po morskich wodach wewnętrznych i morzu terytorialnym Rzeczypospolitej Polskiej;
+23) żegluga międzynarodowa – podróże po obszarach morskich innych niż wymienione w pkt 22.
 § 3. 1. Dyplomy i świadectwa potwierdzają posiadanie kwalifikacji zawodowych uprawniających do zajmowania stanowisk zgodnie z określonymi w nich uprawnieniami.
 2. W żegludze międzynarodowej i przybrzeżnej rozróżnia się następujące poziomy odpowiedzialności:
 1) pomocniczy;
@@ -120,20 +121,21 @@ c) statków w budowie;
 § 6. 1. Osoba posiadająca zagraniczny dyplom, świadectwo lub świadectwo przeszkolenia stopnia wyższego na zbiornikowce do przewozu produktów naftowych, chemikaliów lub gazów skroplonych wydane na podstawie Konwencji STCW lub Konwencji STCW-F może, po uzyskaniu potwierdzenia uznania dyplomu, świadectwa lub świadectwa przeszkolenia, zajmować na morskich statkach handlowych o polskiej przynależności stanowiska określone w rozporządzeniu.
 2. Potwierdzenie uznania:
 1) dyplomu wydanego zgodnie z Konwencją STCW na poziomie zarządzania albo
-2) dyplomu szypra w rybołówstwie morskim wydanego zgodnie z Konwencją STCW-F wydawane jest po uzyskaniu pozytywnego wyniku z egzaminu z polskiego prawa morskiego.
+2) dyplomu szypra w rybołówstwie morskim wydanego zgodnie z Konwencją STCW-F – wydawane jest po uzyskaniu pozytywnego wyniku z egzaminu z polskiego prawa morskiego.
 3. W przypadku ponownego ubiegania się o uznanie dyplomów, o których mowa w ust. 2, po wygaśnięciu poprzednio wydanego potwierdzenia uznania konieczne jest ponowne zdanie egzaminu z polskiego prawa morskiego.
 4. Obowiązek ponownego zdania egzaminu z polskiego prawa morskiego nie dotyczy osób posiadających 12-miesięczną praktykę pływania na stanowisku w swojej specjalności, nabytą w okresie ostatnich 5 lat na statkach o polskiej przynależności.
 5. Potwierdzenie uznania dyplomu, świadectwa lub świadectwa przeszkolenia stopnia wyższego na zbiornikowce do przewozu produktów naftowych, chemikaliów lub gazów skroplonych wydaje się na wniosek armatora.
 6. Potwierdzenie uznania dyplomu, świadectwa lub świadectwa przeszkolenia, o których mowa w ust. 5, wydaje się w odniesieniu do ważnego dyplomu, świadectwa lub świadectwa przeszkolenia na okres nieprzekraczający daty ważności tego dokumentu, do którego zostało wydane, nie dłużej niż na 5 lat.
 7. Potwierdzenie uznania wydane przez inne państwo niż Rzeczpospolita Polska nie może stanowić podstawy do wydawania potwierdzenia uznania określonego przepisami rozporządzenia.
 8. Wzór potwierdzenia uznania dyplomu i świadectwa oraz wzory potwierdzenia uznania świadectwa przeszkolenia stopnia wyższego na zbiornikowce do przewozu produktów naftowych, chemikaliów lub gazów skroplonych określa załącznik nr 1 do rozporządzenia.
-§ 7. Kwalifikacje uzyskane w państwach członkowskich Unii Europejskiej oraz Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym w zawodzie regulowanym związanym z bezpieczeństwem morskim, a niewynikające bezpośrednio z Konwencji STCW lub Konwencji STCW-F uznaje się zgodnie z przepisami ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
+§ 7. Kwalifikacje uzyskane w państwach członkowskich Unii Europejskiej oraz Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym w zawodzie regulowanym związanym z bezpieczeństwem morskim, a niewynikające bezpośrednio z Konwencji STCW lub Konwencji STCW-F uznaje się zgodnie z przepisami ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
 § 8. Wydane za granicą dyplomy, świadectwa i świadectwa przeszkolenia osób, o których mowa w art. 64 ust. 6 albo 8 ustawy, nie podlegają odnowieniu ani wymianie na polskie dokumenty kwalifikacyjne.
 § 9. 1. Polska administracja morska uznaje zagraniczne świadectwa przeszkoleń wydane na podstawie Konwencji STCW lub Konwencji STCW-F przez administracje morskie państw członkowskich Unii Europejskiej i administracje morskie państw trzecich posiadające uznanie Komisji Europejskiej lub wydawane w ich imieniu przez ośrodki szkolące marynarzy uznawane i nadzorowane przez te administracje.
 2. Dokument, o którym mowa w ust. 1, uznaje się przy ubieganiu się o wydanie lub odnowienie polskiego dyplomu lub świadectwa przeszkolenia, jeżeli wymóg posiadania takiego dokumentu wynika z rozporządzenia, a wnioskujący nie posiada wymaganego polskiego dokumentu kwalifikacyjnego.
 § 10. Zezwolenie, o którym mowa w art. 66 ust. 1 ustawy, wydaje się na wniosek armatora statku o polskiej przynależności, który powinien określać dane i kwalifikacje osoby ubiegającej się o wydanie zezwolenia uprawniającego do zajmowania stanowiska, którego dotyczy wniosek, nazwę, pojemność brutto, typ i moc maszyn statku o polskiej przynależności.
 Wzór zezwolenia określa załącznik nr 2 do rozporządzenia.
 § 10a. Ukończenie odpowiedniego szkolenia niezbędnego do uzyskania dyplomów i świadectw potwierdza morska jednostka edukacyjna w systemie kontrolno-informacyjnym dla portów polskich (PHICS), wystawiając zbiorcze zaświadczenie albo indywidualne zaświadczenie o ukończeniu szkolenia, którego wzór jest określony w załączniku nr 18 do rozporządzenia.
+§ 11. W dziale pokładowym na poziomie pomocniczym ustala się stanowiska:
 1) praktykanta pokładowego;
 2) młodszego marynarza pokładowego;
 3) marynarza wachtowego;
@@ -159,15 +161,17 @@ Wzór zezwolenia określa załącznik nr 2 do rozporządzenia.
 2) ukończenie studiów w MJE typu A lub MJE typu B kształcących co najmniej na poziomie operacyjnym w dziale pokładowym w specjalności wskazanej w certyfikacie uznania, posiadanie świadectwa marynarza wachtowego oraz 12-miesięcznej dodatkowej praktyki pływania na statku morskim w dziale pokładowym, albo
 3) ukończenie nauki w MJE typu C kształcącej co najmniej na poziomie pomocniczym w dziale pokładowym w specjalności wskazanej w certyfikacie uznania lub na dyplom szypra żeglugi krajowej zgodnie z certyfikatem uznania, posiadanie świadectwa marynarza wachtowego, 12-miesięcznej dodatkowej praktyki pływania na statku morskim w dziale pokładowym oraz zdanie egzaminu na świadectwo starszego marynarza, albo
 4) ukończenie szkolenia w MJE typu D na poziomie pomocniczym w dziale pokładowym na świadectwo starszego marynarza zgodnie z certyfikatem uznania, posiadanie świadectwa marynarza wachtowego, 12-miesięcznej dodatkowej praktyki pływania na statku morskim w dziale pokładowym oraz zdanie egzaminu na świadectwo starszego marynarza.
-2. Wymóg zdania egzaminu, o którym mowa w ust. 1 pkt 1, 3 i 4, nie dotyczy osoby, która zdała egzamin na poziomie § 16. Ustala się następujące uprawnienia zawodowe posiadaczy świadectw w dziale pokładowym:
+2. Wymóg zdania egzaminu, o którym mowa w ust. 1 pkt 1, 3 i 4, nie dotyczy osoby, która zdała egzamin na poziomie operacyjnym w dziale pokładowym w żegludze międzynarodowej.
+§ 16. Ustala się następujące uprawnienia zawodowe posiadaczy świadectw w dziale pokładowym:
 1) świadectwo młodszego marynarza pokładowego uprawnia do zajmowania stanowisk praktykanta pokładowego lub młodszego marynarza pokładowego na każdym statku;
 2) świadectwo marynarza wachtowego uprawnia do zajmowania stanowisk:
-a) marynarza wachtowego na każdym statku,
-b) kierownika statku o długości do 9 m i mocy silnika do 200 kW w żegludze krajowej bez prawa przewozu pasażerów, z tym że jeżeli moc silnika przekroczy 100 kW pod warunkiem zdania egzaminu z zakresu obsługi silników spalinowych;
+a) marynarza wachtowego – na każdym statku,
+b) kierownika statku o długości do 9 m i mocy silnika do 200 kW w żegludze krajowej bez prawa przewozu pasażerów, z tym że jeżeli moc silnika przekroczy 100 kW – pod warunkiem zdania egzaminu z zakresu obsługi silników spalinowych;
 3) świadectwo starszego marynarza uprawnia do zajmowania stanowisk:
-a) marynarza wachtowego na każdym statku,
-b) starszego marynarza na każdym statku,
-c) kierownika: statku bez własnego napędu o pojemności brutto poniżej 500 w żegludze krajowej, statku o długości do 15 m i mocy silnika do 200 kW w żegludze krajowej bez prawa przewozu pasażerów, z tym że jeżeli moc silnika przekroczy 100 kW pod warunkiem zdania egzaminu z zakresu obsługi silników spalinowych.
+a) marynarza wachtowego – na każdym statku,
+b) starszego marynarza – na każdym statku,
+c) kierownika: – statku bez własnego napędu o pojemności brutto poniżej 500 w żegludze krajowej, – statku o długości do 15 m i mocy silnika do 200 kW w żegludze krajowej bez prawa przewozu pasażerów, z tym że jeżeli moc silnika przekroczy 100 kW – pod warunkiem zdania egzaminu z zakresu obsługi silników spalinowych.
+§ 17. 1. W dziale maszynowym w specjalności mechanicznej na poziomie pomocniczym ustala się stanowiska:
 1) praktykanta maszynowego;
 2) młodszego motorzysty;
 3) motorzysty wachtowego;
@@ -185,7 +189,7 @@ c) kierownika: statku bez własnego napędu o pojemności brutto poniżej 500 w 
 3) elementarnych zasad udzielania pierwszej pomocy medycznej;
 4) bezpieczeństwa własnego i odpowiedzialności wspólnej.
 § 20. 1. Do uzyskania świadectwa motorzysty wachtowego wymagane jest:
-1) ukończenie co najmniej pierwszego roku studiów w MJE typu A lub MJE typu B kształcących co najmniej na poziomie operacyjnym w dziale maszynowym w specjalności mechanicznej wskazanej w certyfikacie uznania, posiadanie zaświadczenia potwierdzającego ukończenie programu szkolenia na poziomie pomocniczym wydanego przez MJE
+1) ukończenie co najmniej pierwszego roku studiów w MJE typu A lub MJE typu B kształcących co najmniej na poziomie operacyjnym w dziale maszynowym w specjalności mechanicznej wskazanej w certyfikacie uznania, posiadanie zaświadczenia potwierdzającego ukończenie programu szkolenia na poziomie pomocniczym wydanego przez MJE oraz posiadanie 2-miesięcznej praktyki pływania na statku morskim w dziale maszynowym albo
 2) ukończenie co najmniej pierwszego roku nauki w MJE typu C kształcącej co najmniej na poziomie operacyjnym w dziale maszynowym w specjalności mechanicznej wskazanej w certyfikacie uznania lub na dyplom oficera mechanika w żegludze krajowej, posiadanie zaświadczenia potwierdzającego ukończenie programu szkolenia na poziomie pomocniczym wydanego przez MJE oraz posiadanie 2-miesięcznej praktyki pływania na statku morskim w dziale maszynowym, albo
 3) ukończenie studiów w MJE typu B lub nauki w MJE typu C kształcących co najmniej na poziomie pomocniczym w dziale maszynowym w specjalności mechanicznej wskazanej w certyfikacie uznania lub na dyplom oficera mechanika w żegludze krajowej zgodnie z certyfikatem uznania oraz posiadanie 2-miesięcznej praktyki pływania na statku morskim w dziale maszynowym, albo
 4) posiadanie dyplomu oficera elektroautomatyka okrętowego na statkach o mocy maszyn głównych 750 kW i powyżej oraz co najmniej 2-miesięcznej praktyki pływania na statku morskim w dziale maszynowym w specjalności mechanicznej, albo
@@ -199,7 +203,7 @@ c) kierownika: statku bez własnego napędu o pojemności brutto poniżej 500 w 
 4) ukończenie szkolenia w MJE typu D na poziomie pomocniczym w dziale maszynowym na świadectwo starszego motorzysty zgodnie z certyfikatem uznania, posiadanie świadectwa motorzysty wachtowego, 6-miesięcznej dodatkowej praktyki pływania na statkach morskich o mocy maszyn głównych 400 kW i powyżej w dziale maszynowym oraz zdanie egzaminu na świadectwo starszego motorzysty.
 2. Wymóg zdania egzaminu, o którym mowa w ust. 1 pkt 1, 3 i 4, nie dotyczy osoby, która zdała egzamin na poziomie operacyjnym w dziale maszynowym w żegludze międzynarodowej.
 § 22. 1. Do uzyskania świadectwa elektromontera wymagane jest:
-1) ukończenie co najmniej pierwszego roku studiów w MJE typu A lub MJE typu B kształcących na poziomie operacyjnym w dziale maszynowym w specjalności wskazanej w certyfikacie uznania, posiadanie zaświadczenia potwierdzającego ukończenie programu szkolenia na poziomie pomocniczym wydanego przez MJE oraz posiadanie 3-miesięcznej praktyki pływania na statkach morskich o mocy maszyn głównych 400 kW i powyżej w dziale maszynowym
+1) ukończenie co najmniej pierwszego roku studiów w MJE typu A lub MJE typu B kształcących na poziomie operacyjnym w dziale maszynowym w specjalności wskazanej w certyfikacie uznania, posiadanie zaświadczenia potwierdzającego ukończenie programu szkolenia na poziomie pomocniczym wydanego przez MJE oraz posiadanie 3-miesięcznej praktyki pływania na statkach morskich o mocy maszyn głównych 400 kW i powyżej w dziale maszynowym w specjalności elektrycznej albo
 2) ukończenie co najmniej pierwszego roku nauki w MJE typu C kształcącej na poziomie operacyjnym w dziale maszynowym w specjalności elektrycznej wskazanej w certyfikacie uznania, posiadanie zaświadczenia potwierdzającego ukończenie programu szkolenia na poziomie pomocniczym wydanego przez MJE oraz posiadanie 3-miesięcznej praktyki pływania na statkach morskich o mocy maszyn głównych 400 kW i powyżej w dziale maszynowym w specjalności elektrycznej, albo
 3) ukończenie studiów w MJE typu B lub nauki w MJE typu C kształcących co najmniej na poziomie pomocniczym w dziale maszynowym w specjalności elektrycznej wskazanej w certyfikacie uznania oraz posiadanie 3-miesięcznej praktyki pływania na statkach morskich o mocy maszyn głównych 400 kW i powyżej w dziale maszynowym w specjalności elektrycznej, albo
 4) posiadanie dyplomu oficera mechanika wachtowego na statkach o mocy maszyn głównych 750 kW i powyżej, albo
@@ -214,8 +218,9 @@ b) kierownika maszyn na statkach morskich o mocy maszyn głównych poniżej 400 
 a) motorzysty wachtowego na każdym statku,
 b) starszego motorzysty na każdym statku,
 c) (uchylona),
-d) oficera mechanika wachtowego lub starszego oficera mechanika na statkach morskich o mocy maszyn głównych poniżej 750 kW;
+d) oficera mechanika wachtowego lub starszego oficera mechanika – na statkach morskich o mocy maszyn głównych poniżej 750 kW;
 4) świadectwo elektromontera uprawnia do zajmowania stanowiska elektromontera na każdym statku.
+§ 24. Na statkach morskich ustala się następujące stanowiska kucharzy:
 1) młodszego kucharza okrętowego;
 2) kucharza okrętowego.
 § 25. 1. Ustala się następujące świadectwa kucharzy:
@@ -233,7 +238,8 @@ d) oficera mechanika wachtowego lub starszego oficera mechanika na statkach mors
 3) posiadanie 12-miesięcznej praktyki pływania na stanowisku młodszego kucharza okrętowego oraz zdanie egzaminu na to świadectwo.
 § 28. 1. Świadectwo młodszego kucharza okrętowego uprawnia do zajmowania stanowiska młodszego kucharza okrętowego na każdym statku.
 2. Świadectwo kucharza okrętowego uprawnia do zajmowania stanowiska kucharza okrętowego na każdym statku.
-1) na poziomie operacyjnym oficera wachtowego;
+§ 29. W dziale pokładowym w żegludze międzynarodowej ustala się stanowiska:
+1) na poziomie operacyjnym – oficera wachtowego;
 2) na poziomie zarządzania:
 a) starszego oficera,
 b) kapitana.
@@ -265,7 +271,8 @@ b) kapitana.
 2) dyplomu oficera wachtowego na statkach o pojemności brutto 500 i powyżej, 12-miesięcznej dodatkowej praktyki pływania na morskich statkach handlowych lub statkach szkolnych o pojemności brutto 3000 i powyżej na stanowisku oficera wachtowego w żegludze międzynarodowej, ukończenie szkolenia w MJE typu D na poziomie zarządzania w dziale pokładowym zgodnego z certyfikatem uznania i zdanie egzaminu na poziomie zarządzania w dziale pokładowym w żegludze międzynarodowej, albo
 3) dyplomu starszego oficera na statkach o pojemności brutto od 500 do 3000, 6-miesięcznej dodatkowej praktyki pływania na morskich statkach handlowych lub statkach szkolnych o pojemności brutto 3000 i powyżej na stanowisku co najmniej oficera wachtowego w żegludze międzynarodowej oraz ukończenie szkolenia w MJE typu D na poziomie zarządzania w dziale pokładowym zgodnego z certyfikatem uznania i zdanie egzaminu na poziomie zarządzania w dziale pokładowym w żegludze międzynarodowej.
 2. Wymóg ukończenia szkolenia, o którym mowa w ust. 1, nie dotyczy absolwentów MJE typu A i MJE typu B kształcących na poziomie zarządzania w dziale pokładowym w specjalności wskazanej w certyfikacie uznania.
-3. Wymóg ukończenia szkolenia i zdania egzaminu, o których mowa w ust. 1 pkt 3, nie dotyczy osoby, która posiada zaświadczenie o ukończeniu szkolenia w MJE i zdaniu egzaminu na poziomie zarządzania w dziale pokładowym w żeglu§ 34. 1. Do uzyskania dyplomu kapitana na statkach o pojemności brutto od 500 do 3000 wymagane jest posiadanie:
+3. Wymóg ukończenia szkolenia i zdania egzaminu, o których mowa w ust. 1 pkt 3, nie dotyczy osoby, która posiada zaświadczenie o ukończeniu szkolenia w MJE i zdaniu egzaminu na poziomie zarządzania w dziale pokładowym w żegludze międzynarodowej.
+§ 34. 1. Do uzyskania dyplomu kapitana na statkach o pojemności brutto od 500 do 3000 wymagane jest posiadanie:
 1) dyplomu starszego oficera na statkach o pojemności brutto od 500 do 3000 oraz 12-miesięcznej dodatkowej praktyki pływania na morskich statkach handlowych lub statkach szkolnych o pojemności brutto 500 i powyżej w żegludze międzynarodowej na stanowisku starszego oficera oraz ukończenie szkolenia w MJE typu D na poziomie zarządzania w dziale pokładowym w żegludze międzynarodowej zgodnego z certyfikatem uznania i zdanie egzaminu na poziomie zarządzania w dziale pokładowym w żegludze międzynarodowej albo
 2) dyplomu starszego oficera na statkach o pojemności brutto 3000 i powyżej, 12-miesięcznej dodatkowej praktyki pływania na morskich statkach handlowych lub statkach szkolnych o pojemności brutto 500 i powyżej w żegludze międzynarodowej na stanowisku starszego oficera albo dodatkowej 24-miesięcznej praktyki pływania na morskich statkach handlowych o pojemności brutto 500 i powyżej w żegludze międzynarodowej na stanowisku oficera wachtowego.
 2. Wymóg ukończenia szkolenia i zdania egzaminu, o których mowa w ust. 1 pkt 1, nie dotyczy osoby, która posiada zaświadczenie o ukończeniu szkolenia w MJE i zdaniu egzaminu na poziomie zarządzania w dziale pokładowym w żegludze międzynarodowej.
@@ -274,27 +281,28 @@ b) kapitana.
 2) dyplomu starszego oficera na statkach o pojemności brutto 3000 i powyżej i dyplomu kapitana na statkach o pojemności brutto od 500 do 3000 oraz 6-miesięcznej dodatkowej praktyki pływania na morskich statkach handlowych o pojemności brutto 3000 i powyżej w żegludze międzynarodowej na stanowisku starszego oficera nabytej po przyznaniu obu dyplomów.
 § 36. Ustala się uprawnienia zawodowe posiadaczy dyplomów w dziale pokładowym w żegludze międzynarodowej:
 1) dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej uprawnia do zajmowania stanowisk:
-a) oficera wachtowego na każdym statku,
-b) kapitana na statku bez własnego napędu;
+a) oficera wachtowego – na każdym statku,
+b) kapitana – na statku bez własnego napędu;
 2) dyplom starszego oficera na statkach o pojemności brutto od 500 do 3000 uprawnia do zajmowania stanowisk:
-a) oficera wachtowego na każdym statku,
-b) starszego oficera na każdym statku o pojemności brutto poniżej 3000,
-c) kapitana: na każdym statku o pojemności brutto poniżej 500 w żegludze przybrzeżnej, (uchylone), na każdym statku bez własnego napędu;
+a) oficera wachtowego – na każdym statku,
+b) starszego oficera – na każdym statku o pojemności brutto poniżej 3000,
+c) kapitana: – na każdym statku o pojemności brutto poniżej 500 w żegludze przybrzeżnej, – (uchylone), – na każdym statku bez własnego napędu;
 3) dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej uprawnia do zajmowania stanowisk:
-a) oficera wachtowego na każdym statku,
-b) starszego oficera na każdym statku,
-c) kapitana: na statku o pojemności brutto poniżej 500 w żegludze przybrzeżnej, (uchylone), na każdym statku bez własnego napędu;
+a) oficera wachtowego – na każdym statku,
+b) starszego oficera – na każdym statku,
+c) kapitana: – na statku o pojemności brutto poniżej 500 w żegludze przybrzeżnej, – (uchylone), – na każdym statku bez własnego napędu;
 4) dyplom kapitana na statkach o pojemności brutto od 500 do 3000 uprawnia do zajmowania stanowisk:
-a) oficera wachtowego na każdym statku,
-b) starszego oficera na każdym statku o pojemności brutto poniżej 3000,
-c) starszego oficera na każdym statku o pojemności brutto 3000 i powyżej pod warunkiem posiadania dyplomu starszego oficera na statkach o pojemności brutto 3000 i powyżej,
-d) kapitana na każdym statku o pojemności brutto poniżej 3000;
+a) oficera wachtowego – na każdym statku,
+b) starszego oficera – na każdym statku o pojemności brutto poniżej 3000,
+c) starszego oficera – na każdym statku o pojemności brutto 3000 i powyżej pod warunkiem posiadania dyplomu starszego oficera na statkach o pojemności brutto 3000 i powyżej,
+d) kapitana – na każdym statku o pojemności brutto poniżej 3000;
 5) dyplom kapitana żeglugi wielkiej na statkach o pojemności brutto 3000 i powyżej uprawnia do zajmowania stanowisk:
-a) oficera wachtowego na każdym statku,
-b) starszego oficera na każdym statku,
-c) kapitana na każdym statku.
-1) na poziomie operacyjnym oficera wachtowego;
-2) na poziomie zarządzania kapitana.
+a) oficera wachtowego – na każdym statku,
+b) starszego oficera – na każdym statku,
+c) kapitana – na każdym statku.
+§ 37. W dziale pokładowym w żegludze przybrzeżnej ustala się stanowiska:
+1) na poziomie operacyjnym – oficera wachtowego;
+2) na poziomie zarządzania – kapitana.
 § 38. 1. W dziale pokładowym w żegludze przybrzeżnej ustala się dyplomy:
 1) oficera wachtowego żeglugi przybrzeżnej;
 2) kapitana żeglugi przybrzeżnej.
@@ -316,7 +324,8 @@ a) oficera wachtowego na każdym statku o pojemności brutto poniżej 500 w żeg
 b) kapitana na statku bez własnego napędu o pojemności brutto poniżej 500 w żegludze przybrzeżnej;
 2) dyplom kapitana żeglugi przybrzeżnej uprawnia do zajmowania stanowiska:
 a) oficera wachtowego na każdym statku w żegludze przybrzeżnej,
-b) kapitana: na statku o pojemności brutto poniżej 500 w żegludze przybrzeżnej, przy czym na statku pasażerskim pod warunkiem odbycia 3-miesięcznej dodatkowej praktyki pływania na statkach pasażerskich w charakterze dublera na stanowisku kapitana na tym statku lub 6-miesięcznej praktyki pływania na statkach pasażerskich na stanowisku oficera wachtowego, na którym oficer wachtowy pełnił wachtę na mostku, na każdym statku bez własnego napędu, (uchylone).
+b) kapitana: – na statku o pojemności brutto poniżej 500 w żegludze przybrzeżnej, przy czym na statku pasażerskim – pod warunkiem odbycia 3-miesięcznej dodatkowej praktyki pływania na statkach pasażerskich w charakterze dublera na stanowisku kapitana na tym statku lub 6-miesięcznej praktyki pływania na statkach pasażerskich na stanowisku oficera wachtowego, na którym oficer wachtowy pełnił wachtę na mostku, – na każdym statku bez własnego napędu, – (uchylone).
+§ 42. W dziale pokładowym w żegludze krajowej ustala się stanowiska:
 1) szypra 2 klasy w żegludze krajowej;
 2) szypra 1 klasy w żegludze krajowej.
 § 43. 1. W dziale pokładowym w żegludze krajowej ustala się dyplomy:
@@ -338,13 +347,14 @@ b) kapitana: na statku o pojemności brutto poniżej 500 w żegludze przybrzeżn
 § 46. Ustala się uprawnienia zawodowe posiadaczy dyplomów w dziale pokładowym w żegludze krajowej:
 1) dyplom szypra 2 klasy żeglugi krajowej uprawnia do zajmowania stanowiska:
 a) oficera wachtowego na każdym statku o pojemności brutto poniżej 2000 w żegludze krajowej,
-b) kapitana: na statku bez własnego napędu o pojemności brutto poniżej 2000 w żegludze krajowej, na statku o pojemności brutto poniżej 200 w żegludze krajowej, w tym na statku pasażerskim o pojemności brutto poniżej 50, pod warunkiem odbycia 3-miesięcznej dodatkowej praktyki pływania na statkach pasażerskich w charakterze dublera na stanowisku kapitana albo 6-miesięcznej praktyki pływania jako oficer wachtowy na statkach pasażerskich, na których oficer wachtowy pełni wachtę na mostku;
+b) kapitana: – na statku bez własnego napędu o pojemności brutto poniżej 2000 w żegludze krajowej, – na statku o pojemności brutto poniżej 200 w żegludze krajowej, w tym na statku pasażerskim o pojemności brutto poniżej 50, pod warunkiem odbycia 3-miesięcznej dodatkowej praktyki pływania na statkach pasażerskich w charakterze dublera na stanowisku kapitana albo 6-miesięcznej praktyki pływania jako oficer wachtowy na statkach pasażerskich, na których oficer wachtowy pełni wachtę na mostku;
 2) dyplom szypra 1 klasy żeglugi krajowej uprawnia do zajmowania stanowiska kapitana na statku o pojemności brutto poniżej 2000 w żegludze krajowej, w tym na statku pasażerskim o pojemności brutto poniżej 1500, pod warunkiem odbycia 3-miesięcznej dodatkowej praktyki pływania na statkach pasażerskich w charakterze dublera na stanowisku kapitana albo 6-miesięcznej praktyki pływania jako oficer wachtowy na statkach pasażerskich, na których oficer wachtowy pełni wachtę na mostku.
-1) na poziomie operacyjnym oficera mechanika wachtowego;
+§ 47. 1. W dziale maszynowym w specjalności mechanicznej ustala się stanowiska:
+1) na poziomie operacyjnym – oficera mechanika wachtowego;
 2) na poziomie zarządzania:
 a) drugiego oficera mechanika,
 b) starszego oficera mechanika.
-2. W dziale maszynowym w specjalności elektrycznej ustala się na poziomie operacyjnym stanowisko oficera elektroautomatyka.
+2. W dziale maszynowym w specjalności elektrycznej ustala się na poziomie operacyjnym – stanowisko oficera elektroautomatyka.
 § 48. 1. W dziale maszynowym w specjalności mechanicznej ustala się dyplomy:
 1) oficera mechanika wachtowego na statkach o mocy maszyn głównych 750 kW i powyżej;
 2) drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW;
@@ -388,30 +398,31 @@ b) starszego oficera mechanika.
 4. Wzór zaświadczenia o zaliczeniu książek praktyk, o którym mowa w ust. 1 pkt 1, określa załącznik nr 8 do rozporządzenia.
 § 55. W dziale maszynowym ustala się uprawnienia zawodowe posiadaczy dyplomów:
 1) dyplom oficera mechanika wachtowego na statkach o mocy maszyn głównych 750 kW i powyżej uprawnia do zajmowania stanowiska:
-a) oficera mechanika wachtowego na każdym statku,
+a) oficera mechanika wachtowego – na każdym statku,
 b) starszego oficera mechanika na statkach o mocy maszyn głównych poniżej 750 kW,
 c) (uchylona);
 2) dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW uprawnia do zajmowania stanowiska:
-a) oficera mechanika wachtowego na każdym statku,
+a) oficera mechanika wachtowego – na każdym statku,
 b) drugiego oficera mechanika na statkach o mocy maszyn głównych poniżej 3000 kW,
 c) starszego oficera mechanika na statkach o mocy maszyn głównych poniżej 3000 kW w żegludze przybrzeżnej,
 d) (uchylona);
 3) dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej uprawnia do zajmowania stanowiska:
-a) oficera mechanika wachtowego na każdym statku,
-b) drugiego oficera mechanika na każdym statku,
+a) oficera mechanika wachtowego – na każdym statku,
+b) drugiego oficera mechanika – na każdym statku,
 c) starszego oficera mechanika na statkach o mocy maszyn głównych poniżej 3000 kW w żegludze przybrzeżnej,
 d) (uchylona);
 4) dyplom starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW uprawnia do zajmowania stanowiska:
-a) oficera mechanika wachtowego na każdym statku,
-b) drugiego oficera mechanika na statkach o mocy maszyn głównych poniżej 3000 kW,
-c) drugiego oficera mechanika na każdym statku, pod warunkiem posiadania dyplomu drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej,
+a) oficera mechanika wachtowego – na każdym statku,
+b) drugiego oficera mechanika – na statkach o mocy maszyn głównych poniżej 3000 kW,
+c) drugiego oficera mechanika – na każdym statku, pod warunkiem posiadania dyplomu drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej,
 d) starszego oficera mechanika na statkach o mocy maszyn głównych poniżej 3000 kW,
 e) (uchylona);
 5) dyplom starszego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej uprawnia do zajmowania stanowiska:
-a) oficera mechanika wachtowego na każdym statku,
-b) drugiego oficera mechanika na każdym statku,
-c) starszego oficera mechanika na każdym statku;
+a) oficera mechanika wachtowego – na każdym statku,
+b) drugiego oficera mechanika – na każdym statku,
+c) starszego oficera mechanika – na każdym statku;
 6) dyplom oficera elektroautomatyka okrętowego na statkach o mocy maszyn głównych 750 kW i powyżej uprawnia do zajmowania stanowiska oficera elektroautomatyka na każdym statku.
+§ 56. W dziale maszynowym w żegludze krajowej ustala się stanowisko oficera mechanika w żegludze krajowej, dla którego ustala się dyplom oficera mechanika w żegludze krajowej. Wzór dyplomu oficera mechanika w żegludze krajowej określa załącznik nr 13 do rozporządzenia.
 § 57. Do uzyskania dyplomu oficera mechanika w żegludze krajowej wymagane jest posiadanie świadectwa motorzysty wachtowego oraz:
 1) 12-miesięcznej dodatkowej praktyki pływania na statkach morskich o mocy maszyn głównych 400 kW i powyżej na stanowisku motorzysty oraz zdanie egzaminu na dyplom oficera mechanika w żegludze krajowej albo
 2) ukończenie studiów w MJE typu A lub MJE typu B kształcących co najmniej na poziomie operacyjnym w dziale maszynowym w specjalności mechanicznej wskazanej w certyfikacie uznania i posiadanie 6-miesięcznej dodatkowej praktyki pływania na statkach morskich na stanowisku motorzysty, albo
@@ -419,9 +430,10 @@ c) starszego oficera mechanika na każdym statku;
 4) ukończenie nauki w MJE typu C kształcącej co najmniej na dyplom oficera mechanika w żegludze krajowej zgodnie z certyfikatem uznania, posiadanie dyplomu zawodowego w zawodzie technik mechanik okrętowy oraz 6-miesięcznej dodatkowej praktyki pływania na statkach morskich na stanowisku motorzysty, albo
 5) posiadanie świadectwa starszego motorzysty lub dyplomu oficera mechanika wachtowego na statkach o mocy maszyn głównych 750 kW i powyżej, lub dyplomu drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW, lub dyplomu drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej, lub dyplomu starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW.
 § 58. Dyplom oficera mechanika w żegludze krajowej uprawnia do zajmowania stanowiska:
-1) motorzysty wachtowego na każdym statku w żegludze krajowej;
-2) oficera mechanika wachtowego na statkach o mocy maszyn głównych poniżej 1100 kW w żegludze krajowej;
-3) starszego mechanika na statkach o mocy maszyn głównych poniżej 1100 kW w żegludze krajowej.
+1) motorzysty wachtowego – na każdym statku w żegludze krajowej;
+2) oficera mechanika wachtowego na statkach o mocy maszyn głównych poniżej 1100 kW – w żegludze krajowej;
+3) starszego mechanika na statkach o mocy maszyn głównych poniżej 1100 kW – w żegludze krajowej.
+§ 59. Na statkach rybackich w dziale pokładowym ustala się stanowiska:
 1) młodszego rybaka;
 2) rybaka;
 3) starszego rybaka;
@@ -447,7 +459,7 @@ c) starszego oficera mechanika na każdym statku;
 3) ukończenie nauki w MJE typu C kształcącej na poziomie pomocniczym w dziale pokładowym zgodnie z certyfikatem uznania oraz posiadanie 2-miesięcznej praktyki pływania na statkach rybackich w dziale pokładowym.
 § 63. Do uzyskania świadectwa starszego rybaka rybołówstwa morskiego wymagane jest posiadanie świadectwa ratownika oraz:
 1) posiadanie świadectwa rybaka rybołówstwa morskiego, 6-miesięcznej dodatkowej praktyki pływania na statkach rybackich w dziale pokładowym albo
-2) ukończenie studiów w MJE typu A lub MJE typu B lub nauki w MJE typu C kształcących co najmniej na poziomie operacyjnym w dziale pokładowym w specjalności wskazanej w certyfikacie uznania lub w zakresie oficera wachtowego statku rybackiego o długości powyżej 24 m uprawiającego żeglugę na wodach ograniczonych oraz posiadanie
+2) ukończenie studiów w MJE typu A lub MJE typu B lub nauki w MJE typu C kształcących co najmniej na poziomie operacyjnym w dziale pokładowym w specjalności wskazanej w certyfikacie uznania lub w zakresie oficera wachtowego statku rybackiego o długości powyżej 24 m uprawiającego żeglugę na wodach ograniczonych oraz posiadanie 6-miesięcznej praktyki pływania na statkach rybackich w dziale pokładowym, albo
 3) ukończenie nauki w MJE typu C kształcącej na poziomie pomocniczym w dziale pokładowym zgodnie z certyfikatem uznania oraz posiadanie 12-miesięcznej praktyki pływania na statkach rybackich w dziale pokładowym, albo
 4) posiadanie świadectwa starszego marynarza oraz 3-miesięcznej praktyki pływania na statkach rybackich w dziale pokładowym, albo
 5) posiadanie świadectwa marynarza oraz 6-miesięcznej praktyki pływania na statkach rybackich w dziale pokładowym, albo
@@ -470,25 +482,26 @@ c) starszego oficera mechanika na każdym statku;
 § 67. 1. Ustala się uprawnienia zawodowe w rybołówstwie morskim:
 1) świadectwo młodszego rybaka rybołówstwa morskiego uprawnia do zajmowania stanowiska młodszego rybaka na każdym statku rybackim;
 2) świadectwo rybaka rybołówstwa morskiego uprawnia do zajmowania stanowiska:
-a) rybaka na każdym statku rybackim,
-b) kierownika jednostki bez prawa przewozu pasażerów na łodzi rybackiej o długości do 9 m i mocy silnika do 200 kW w żegludze krajowej pod warunkiem zdania egzaminu z zakresu obsługi silników spalinowych, o ile moc silnika przekracza 100 kW;
+a) rybaka – na każdym statku rybackim,
+b) kierownika jednostki bez prawa przewozu pasażerów – na łodzi rybackiej o długości do 9 m i mocy silnika do 200 kW w żegludze krajowej – pod warunkiem zdania egzaminu z zakresu obsługi silników spalinowych, o ile moc silnika przekracza 100 kW;
 3) świadectwo starszego rybaka rybołówstwa morskiego uprawnia do zajmowania stanowiska:
-a) rybaka na każdym statku rybackim,
-b) starszego rybaka na każdym statku rybackim,
-c) kierownika jednostki bez prawa przewozu pasażerów ‒ na łodzi rybackiej o długości do 15 m i mocy silnika do 200 kW w żegludze na wodach ograniczonych pod warunkiem zdania egzaminu z zakresu bezpieczeństwa żeglugi i wiedzy nautycznej; jeżeli moc silnika przekracza 100 kW, dodatkowym warunkiem jest zdanie egzaminu z obsługi silników spalinowych do 200 kW,
-d) oficera wachtowego na statku rybackim do 24 m w żegludze na wodach ograniczonych pod warunkiem ukończenia szkolenia w zakresie oficera wachtowego na statkach rybackich o długości do 24 m na wodach ograniczonych i zdania egzaminu z zakresu bezpieczeństwa żeglugi i wiedzy nautycznej;
+a) rybaka – na każdym statku rybackim,
+b) starszego rybaka – na każdym statku rybackim,
+c) kierownika jednostki bez prawa przewozu pasażerów ‒ na łodzi rybackiej o długości do 15 m i mocy silnika do 200 kW w żegludze na wodach ograniczonych – pod warunkiem zdania egzaminu z zakresu bezpieczeństwa żeglugi i wiedzy nautycznej; jeżeli moc silnika przekracza 100 kW, dodatkowym warunkiem jest zdanie egzaminu z obsługi silników spalinowych do 200 kW,
+d) oficera wachtowego – na statku rybackim do 24 m w żegludze na wodach ograniczonych pod warunkiem ukończenia szkolenia w zakresie oficera wachtowego na statkach rybackich o długości do 24 m na wodach ograniczonych i zdania egzaminu z zakresu bezpieczeństwa żeglugi i wiedzy nautycznej;
 4) dyplom szypra klasy 2 rybołówstwa morskiego uprawnia do zajmowania stanowiska:
 a) kapitana na statku rybackim o długości do 15 m w każdej żegludze,
-b) kapitana na statku rybackim o długości do 24 m na wodach ograniczonych,
-c) oficera wachtowego na statku rybackim o długości do 24 m w każdej żegludze,
-d) oficera wachtowego na każdym statku rybackim na wodach ograniczonych;
+b) kapitana – na statku rybackim o długości do 24 m na wodach ograniczonych,
+c) oficera wachtowego – na statku rybackim o długości do 24 m w każdej żegludze,
+d) oficera wachtowego – na każdym statku rybackim na wodach ograniczonych;
 5) dyplom szypra klasy 1 rybołówstwa morskiego uprawnia do zajmowania stanowiska:
-a) kapitana na każdym statku rybackim na wodach ograniczonych,
-b) kapitana na statkach rybackich o długości do 24 m na wodach nieograniczonych,
-c) oficera wachtowego na każdym statku rybackim, w każdej żegludze;
+a) kapitana – na każdym statku rybackim na wodach ograniczonych,
+b) kapitana – na statkach rybackich o długości do 24 m na wodach nieograniczonych,
+c) oficera wachtowego – na każdym statku rybackim, w każdej żegludze;
 6) dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego uprawnia do zajmowania stanowiska kapitana na każdym statku rybackim, w każdej żegludze.
 2. Wymóg zdania egzaminu z zakresu bezpieczeństwa żeglugi i wiedzy nautycznej, o którym mowa w ust. 1 pkt 3 lit. c, nie dotyczy absolwentów MJE typu A, MJE typu B i MJE typu C, kształcących na poziomie operacyjnym w dziale pokładowym, zgodnie z certyfikatem uznania.
 3. Wymóg ukończenia szkolenia i zdania egzaminu z zakresu bezpieczeństwa żeglugi i wiedzy nautycznej, o którym mowa w ust. 1 pkt 3 lit. d, nie dotyczy absolwentów MJE typu A, MJE typu B i MJE typu C, kształcących na poziomie operacyjnym w dziale pokładowym, zgodnie z certyfikatem uznania.
+§ 68. Każdy członek załogi statku morskiego jest obowiązany odbyć przeszkolenie zapoznawcze na statku w zakresie bezpieczeństwa obejmujące zagadnienia związane z ochroną statku, procedurami w sytuacji zagrożenia, ochroną przeciwpożarową, oznakowaniem dróg ewakuacyjnych i sygnałów alarmowych, bezpieczeństwem i higieną pracy, wyposażeniem ratunkowym.
 § 69. 1. Każdy członek załogi statku jest obowiązany posiadać świadectwa przeszkoleń w zakresie:
 1) ochrony przeciwpożarowej stopnia podstawowego;
 2) elementarnych zasad udzielania pierwszej pomocy medycznej;
@@ -517,13 +530,14 @@ c) oficera wachtowego na każdym statku rybackim, w każdej żegludze;
 3. Na statkach wyposażonych w szybkie łodzie ratownicze każdy członek załogi wyznaczony do kierowania tą łodzią jest obowiązany posiadać świadectwo starszego ratownika.
 4. Warunkiem uzyskania świadectwa starszego ratownika jest ukończenie przeszkolenia na to świadectwo oraz posiadanie ważnego świadectwa przeszkolenia w zakresie indywidualnych technik ratunkowych i ważnego świadectwa ratownika.
 5. W przypadku członków ekip ratownictwa morskiego w brzegowych stacjach ratowniczych ubiegających się o uzyskanie świadectwa ratownika lub świadectwa starszego ratownika za równorzędne z posiadaniem ważnego świadectwa przeszkolenia w zakresie indywidualnych technik ratunkowych uważa się posiadanie zaświadczenia o ukończeniu przeszkolenia w zakresie bezpieczeństwa wydanego przez dyrektora Służby SAR.
-§ 75. 1. Na statkach wyposażonych w urządzenia radiowe kapitan i oficerowie w dziale pokładowym są obowiązani posiadać odpowiednie aktualne świadectwo operatora urządzeń radiowych w służbie radiokomunikacyjnej morskiej, o którym mowa w przepisach wydanych na podstawie art. 150 ust. 4 ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne.
+§ 75. 1. Na statkach wyposażonych w urządzenia radiowe kapitan i oficerowie w dziale pokładowym są obowiązani posiadać odpowiednie aktualne świadectwo operatora urządzeń radiowych w służbie radiokomunikacyjnej morskiej, o którym mowa w przepisach wydanych na podstawie art. 150 ust. 4 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
 2. Na statkach wyposażonych w ECDIS kapitan i oficerowie w dziale pokładowym są obowiązani posiadać świadectwo przeszkolenia w zakresie obsługi i wykorzystania ECDIS.
 3. Warunkiem uzyskania świadectwa przeszkolenia w zakresie obsługi i wykorzystania ECDIS jest ukończenie przeszkolenia na to świadectwo.
 § 76. 1. Na morskich statkach handlowych w żegludze międzynarodowej kapitan i starszy oficer są obowiązani posiadać świadectwo przeszkolenia w zakresie sprawowania opieki medycznej nad chorym.
 2. Warunkiem uzyskania świadectwa przeszkolenia w zakresie sprawowania opieki medycznej nad chorym jest ukończenie przeszkolenia na to świadectwo oraz posiadanie ważnych świadectw przeszkoleń w zakresie elementarnych zasad udzielania pierwszej pomocy medycznej i udzielania pierwszej pomocy medycznej.
 § 77. 1. Oficer wyznaczony do pełnienia funkcji oficera ochrony statku na statkach w żegludze międzynarodowej obowiązany jest posiadać świadectwo przeszkolenia oficera ochrony statku.
-2. Warunkiem uzyskania świadectwa przeszkolenia oficera ochrony statku jest ukończenie przeszkolenia na to świadec§ 78. 1. Przed dopuszczeniem do pracy na statku każdy nowo zaokrętowany członek załogi powinien ukończyć nadzorowane przez wyznaczonego oficera szkolenia dotyczące zapoznania się ze statkiem w odniesieniu do wykonywanych obowiązków w zakresie zagadnień związanych z ochroną i bezpieczeństwem statku, ochroną przeciwpożarową, obsługa urządzeń i wyposażenia, szczegółowych procedur wachtowych, zapobieganiem zanieczyszczeniu morza, bezpieczeństwem i higieną pracy. Szkolenia powinny być prowadzone w taki sposób, aby nie zakłócały normalnego funkcjonowania statku.
+2. Warunkiem uzyskania świadectwa przeszkolenia oficera ochrony statku jest ukończenie przeszkolenia na to świadectwo oraz posiadanie co najmniej 12-miesięcznej praktyki pływania.
+§ 78. 1. Przed dopuszczeniem do pracy na statku każdy nowo zaokrętowany członek załogi powinien ukończyć nadzorowane przez wyznaczonego oficera szkolenia dotyczące zapoznania się ze statkiem w odniesieniu do wykonywanych obowiązków w zakresie zagadnień związanych z ochroną i bezpieczeństwem statku, ochroną przeciwpożarową, obsługa urządzeń i wyposażenia, szczegółowych procedur wachtowych, zapobieganiem zanieczyszczeniu morza, bezpieczeństwem i higieną pracy. Szkolenia powinny być prowadzone w taki sposób, aby nie zakłócały normalnego funkcjonowania statku.
 2. Każdy członek załogi realizujący program szkolenia objętego książką praktyk powinien być nadzorowany przez wyznaczonego oficera.
 § 79. 1. Przed dopuszczeniem do pracy na statku pasażerskim w żegludze międzynarodowej każdy nowo zaokrętowany członek załogi jest obowiązany odbyć na statku przeszkolenie zapoznawcze dotyczące sytuacji zagrożeń na statkach pasażerskich, odpowiednie do jego stanowiska, obowiązków i zakresu odpowiedzialności. Przeszkolenie powinno obejmować zagadnienia związane z bezpieczeństwem statku, rozmieszczeniem wyposażenia ratunkowego, zachowaniem w czasie zagrożenia, zasadami korzystania z wind podczas zagrożenia, porozumiewania się w języku roboczym obowiązującym na statku, niewerbalnego przekazywania informacji dotyczących bezpieczeństwa oraz rozumienia komunikatów nadawanych podczas alarmów lub ćwiczeń.
 2. Na statkach pasażerskich przewożących powyżej 400 pasażerów wyznaczony oficer odpowiedzialny za sprawy bezpieczeństwa i ochrony oraz stan sprzętu ratunkowego i przeciwpożarowego, a także szkolenie załogi w zakresie bezpieczeństwa życia na morzu i zapobiegania zanieczyszczeniu morza przez statki jest obowiązany posiadać dyplom na poziomie zarządzania w dziale pokładowym.
@@ -539,22 +553,23 @@ c) oficera wachtowego na każdym statku rybackim, w każdej żegludze;
 7. Warunkiem odnowienia świadectwa przeszkolenia, o którym mowa w § 76 ust. 1, jest ukończenie przeszkolenia uaktualniającego na to świadectwo oraz posiadanie ważnych świadectw przeszkoleń w zakresie elementarnych zasad udzielania pierwszej pomocy medycznej i udzielania pierwszej pomocy medycznej. W przypadku jeżeli od daty utraty ważności świadectwa przeszkolenia upłynęło więcej niż 12 miesięcy, wymagane jest ukończenie odpowiedniego przeszkolenia na to świadectwo.
 8. Jeżeli od daty utraty ważności świadectw przeszkoleń, o których mowa w § 69 ust. 1 pkt 1 i 5, § 72 ust. 1 oraz § 74 ust. 1 i 3, upłynęło więcej niż 12 miesięcy lub brak jest wymaganej praktyki pływania, o której mowa w ust. 3, wymagane jest ukończenie odpowiedniego przeszkolenia na te świadectwa.
 § 81. Wzory świadectw przeszkoleń w zakresie bezpieczeństwa i ochrony określa załącznik nr 15 do rozporządzenia.
+§ 82. 1. Na statkach przewożących ładunki niebezpieczne każdy członek załogi odpowiedzialny za operacje przeładunkowe jest obowiązany posiadać świadectwo przeszkolenia w zakresie przewozu ładunków niebezpiecznych.
 2. Warunkiem uzyskania świadectwa przeszkolenia w zakresie przewozu ładunków niebezpiecznych jest ukończenie przeszkolenia na to świadectwo.
 § 83. 1. Na zbiornikowcach do przewozu produktów naftowych i chemikaliów każdy marynarz zatrudniony na poziomie pomocniczym lub operacyjnym jest obowiązany posiadać świadectwo przeszkolenia specjalistycznego na zbiornikowiec do przewozu produktów naftowych oraz chemikaliów stopnia podstawowego.
 2. Na zbiornikowcach do przewozu gazów skroplonych każdy marynarz zatrudniony na poziomie pomocniczym lub operacyjnym jest obowiązany posiadać świadectwo przeszkolenia specjalistycznego na zbiornikowiec do przewozu gazów skroplonych stopnia podstawowego.
 3. Warunkiem uzyskania świadectw przeszkoleń, o których mowa w ust. 1 i 2, jest ukończenie odpowiedniego przeszkolenia na te świadectwa oraz posiadanie ważnych świadectw, o których mowa w § 69 ust. 1 pkt 1–3 i 5.
 4. Na zbiornikowcach osoby na stanowiskach kapitana, starszego oficera, starszego oficera mechanika i drugiego oficera mechanika są obowiązane posiadać świadectwo przeszkolenia specjalistycznego stopnia wyższego na dany typ zbiornikowca.
 5. Warunkiem uzyskania świadectwa przeszkolenia specjalistycznego stopnia wyższego na:
-1) zbiornikowce do przewozu produktów naftowych jest ukończenie przeszkolenia na to świadectwo oraz posiadanie ważnego świadectwa przeszkolenia stopnia podstawowego na zbiornikowce do przewozu produktów naftowych oraz chemikaliów, a także odbycie co najmniej 3-miesięcznej praktyki pływania na zbiornikowcu do przewozu produktów naftowych;
-2) zbiornikowce do przewozu chemikaliów jest ukończenie przeszkolenia na to świadectwo oraz posiadanie ważnego świadectwa przeszkolenia stopnia podstawowego na zbiornikowce do przewozu produktów naftowych oraz chemikaliów, a także odbycie co najmniej 3-miesięcznej praktyki pływania na zbiornikowcu do przewozu chemikaliów;
-3) zbiornikowce do przewozu gazów skroplonych jest ukończenie przeszkolenia na to świadectwo oraz posiadanie ważnego świadectwa przeszkolenia specjalistycznego stopnia podstawowego na zbiornikowce do przewozu gazów skroplonych, a także odbycie co najmniej 3-miesięcznej praktyki pływania na zbiornikowcu do przewozu gazów skroplonych.
+1) zbiornikowce do przewozu produktów naftowych – jest ukończenie przeszkolenia na to świadectwo oraz posiadanie ważnego świadectwa przeszkolenia stopnia podstawowego na zbiornikowce do przewozu produktów naftowych oraz chemikaliów, a także odbycie co najmniej 3-miesięcznej praktyki pływania na zbiornikowcu do przewozu produktów naftowych;
+2) zbiornikowce do przewozu chemikaliów – jest ukończenie przeszkolenia na to świadectwo oraz posiadanie ważnego świadectwa przeszkolenia stopnia podstawowego na zbiornikowce do przewozu produktów naftowych oraz chemikaliów, a także odbycie co najmniej 3-miesięcznej praktyki pływania na zbiornikowcu do przewozu chemikaliów;
+3) zbiornikowce do przewozu gazów skroplonych – jest ukończenie przeszkolenia na to świadectwo oraz posiadanie ważnego świadectwa przeszkolenia specjalistycznego stopnia podstawowego na zbiornikowce do przewozu gazów skroplonych, a także odbycie co najmniej 3-miesięcznej praktyki pływania na zbiornikowcu do przewozu gazów skroplonych.
 6. Warunkiem odnowienia świadectwa przeszkolenia, o którym mowa w ust. 4, jest posiadanie 3-miesięcznej praktyki pływania na danym typie zbiornikowca odbytej w okresie ostatnich 5 lat.
 7. W przypadku braku wymaganej praktyki pływania, o której mowa w ust. 6, warunkiem odnowienia świadectwa przeszkolenia, o którym mowa w ust. 4, jest ukończenie przeszkolenia stopnia wyższego na dany typ zbiornikowca oraz posiadanie 3-miesięcznej praktyki pływania na typie zbiornikowca, właściwym dla odnawianego świadectwa. Datę ważności odnawianego świadectwa ustala się na okres 5 lat, licząc od dnia ukończenia przeszkolenia.
 § 84. 1. Na statkach pasażerskich:
-1) kapitanowie, oficerowie i pozostali członkowie załogi wyznaczeni w rozkładzie alarmowym do pomocy pasażerom w sytuacji zagrożenia na pokładzie statków pasażerskich są obowiązani posiadać świadectwo przeszkolenia w zakresie kierowania tłumem;
-2) członkowie załogi zajmujący się bezpośrednią obsługą pasażerów w pomieszczeniach pasażerskich są obowiązani posiadać świadectwo przeszkolenia w zakresie bezpieczeństwa dla członków załóg bezpośrednio obsługujących pasażerów w pomieszczeniach pasażerskich; wymóg ten nie dotyczy statków pasażerskich w żegludze krajowej do 12 Mm od portu schronienia;
-3) kapitanowie, starsi mechanicy, starsi oficerowie, drudzy oficerowie mechanicy oraz wszystkie osoby wpisane na listę alarmową, ponoszące odpowiedzialność za bezpieczeństwo pasażerów w sytuacji zagrożenia na pokładzie statku pasażerskiego są obowiązani posiadać świadectwo przeszkolenia w zakresie zarządzania kryzysowego i zachowań ludzkich; wymóg ten nie dotyczy członków załóg statków pasażerskich w żegludze krajowej uprawnionych do przewozu nie więcej niż 50 pasażerów;
-4) kapitanowie, starsi oficerowie mechanicy, starsi oficerowie, drudzy oficerowie mechanicy oraz wszystkie osoby odpowiedzialne za zaokrętowanie pasażerów, załadunek, wyładunek i opiekę nad ładunkiem oraz zamykanie otworów w kadłubie zewnętrznym na statkach typu ro-ro są obowiązani posiadać świadectwo przeszkolenia w zakresie bezpieczeństwa pasażerów i ładunku oraz szczelności kadłuba na statku pasażerskim typu ro-ro; wymóg ten nie dotyczy statków pasażerskich w żegludze krajowej do 12 Mm od portu schronienia.
+1) kapitanowie, oficerowie i pozostali członkowie załogi wyznaczeni w rozkładzie alarmowym do pomocy pasażerom w sytuacji zagrożenia na pokładzie statków pasażerskich – są obowiązani posiadać świadectwo przeszkolenia w zakresie kierowania tłumem;
+2) członkowie załogi zajmujący się bezpośrednią obsługą pasażerów w pomieszczeniach pasażerskich – są obowiązani posiadać świadectwo przeszkolenia w zakresie bezpieczeństwa dla członków załóg bezpośrednio obsługujących pasażerów w pomieszczeniach pasażerskich; wymóg ten nie dotyczy statków pasażerskich w żegludze krajowej do 12 Mm od portu schronienia;
+3) kapitanowie, starsi mechanicy, starsi oficerowie, drudzy oficerowie mechanicy oraz wszystkie osoby wpisane na listę alarmową, ponoszące odpowiedzialność za bezpieczeństwo pasażerów w sytuacji zagrożenia na pokładzie statku pasażerskiego – są obowiązani posiadać świadectwo przeszkolenia w zakresie zarządzania kryzysowego i zachowań ludzkich; wymóg ten nie dotyczy członków załóg statków pasażerskich w żegludze krajowej uprawnionych do przewozu nie więcej niż 50 pasażerów;
+4) kapitanowie, starsi oficerowie mechanicy, starsi oficerowie, drudzy oficerowie mechanicy oraz wszystkie osoby odpowiedzialne za zaokrętowanie pasażerów, załadunek, wyładunek i opiekę nad ładunkiem oraz zamykanie otworów w kadłubie zewnętrznym na statkach typu ro-ro – są obowiązani posiadać świadectwo przeszkolenia w zakresie bezpieczeństwa pasażerów i ładunku oraz szczelności kadłuba na statku pasażerskim typu ro-ro; wymóg ten nie dotyczy statków pasażerskich w żegludze krajowej do 12 Mm od portu schronienia.
 2. Warunkiem uzyskania świadectw przeszkoleń, o których mowa w ust. 1, jest ukończenie odpowiednich przeszkoleń na te świadectwa.
 3. Warunkiem odnowienia świadectw przeszkoleń, o których mowa w ust. 1 pkt 1 i 3, jest posiadanie 12-miesięcznej praktyki pływania na statkach pasażerskich, odbytej w okresie ostatnich 5 lat.
 4. Warunkiem odnowienia świadectwa przeszkolenia, o którym mowa w ust. 1 pkt 4, jest posiadanie 12-miesięcznej praktyki pływania na statkach pasażerskich typu ro-ro, odbytej w okresie ostatnich 5 lat.
@@ -569,7 +584,7 @@ c) oficera wachtowego na każdym statku rybackim, w każdej żegludze;
 6. Praktyka pływania na statkach eksploatowanych na wodach polarnych, o której mowa w ust. 3 i 4, powinna być potwierdzona zaświadczeniem praktyki pływania, wystawionym przez kapitana statku lub armatora statku.
 § 86. 1. Na statkach używających jako paliwa gazów lub innych paliw o niskiej temperaturze zapłonu, podlegających Kodeksowi IGF:
 1) marynarze odpowiedzialni za bezpieczeństwo związane z przechowywaniem i stosowaniem paliwa lub działaniem w przypadku zagrożenia związanego z paliwem na statku są obowiązani posiadać świadectwo przeszkolenia stopnia podstawowego na statki podlegające Kodeksowi IGF;
-2) kapitanowie, oficerowie mechanicy oraz członkowie załogi bezpośrednio odpowiedzialni za przechowywanie i stosowanie paliwa oraz za systemy paliwowe są obowiązani posiadać świadectwo przeszkolenia stopnia wyższego na statki
+2) kapitanowie, oficerowie mechanicy oraz członkowie załogi bezpośrednio odpowiedzialni za przechowywanie i stosowanie paliwa oraz za systemy paliwowe są obowiązani posiadać świadectwo przeszkolenia stopnia wyższego na statki podlegające Kodeksowi IGF.
 2. Warunkiem uzyskania świadectwa przeszkolenia stopnia podstawowego na statek podlegający Kodeksowi IGF jest ukończenie przeszkolenia na to świadectwo.
 3. Warunkiem uzyskania świadectwa przeszkolenia stopnia wyższego na statki podlegające Kodeksowi IGF jest:
 1) ukończenie przeszkolenia na to świadectwo, posiadanie ważnego świadectwa przeszkolenia stopnia podstawowego na statki podlegające Kodeksowi IGF, co najmniej miesięcznej praktyki pływania na statku podlegającym Kodeksowi IGF, podczas której przeprowadzone zostały co najmniej 3 operacje bunkrowania poświadczone przez kapitana statku lub starszego mechanika, albo
@@ -588,7 +603,7 @@ c) statkach używających jako paliwa gazów lub innych paliw o niskiej temperat
 2. Warunkiem uzyskania świadectwa przeszkolenia w zakresie manewrowania dużymi statkami i statkami o nietypowych charakterystykach manewrowych jest ukończenie przeszkolenia na to świadectwo.
 § 88. 1. Osoby na stanowiskach starszego oficera mechanika i drugiego oficera mechanika na statkach napędzanych turbiną parową lub gazową powinny posiadać świadectwo przeszkolenia w zakresie obsługi siłowni o napędzie innym niż tłokowy silnik spalinowy.
 2. Warunkiem uzyskania świadectwa przeszkolenia w zakresie obsługi siłowni o napędzie innym niż tłokowy silnik spalinowy jest ukończenie przeszkolenia na to świadectwo oraz posiadanie 3-miesięcznej praktyki pływania na statku posiadającym siłownię tego typu co najmniej na stanowisku oficera mechanika wachtowego.
-3. Warunkiem odnowienia świadectwa przeszkolenia, o którym mowa w ust. 1, jest posiadanie 3-miesięcznej praktyki
+3. Warunkiem odnowienia świadectwa przeszkolenia, o którym mowa w ust. 1, jest posiadanie 3-miesięcznej praktyki pływania w okresie ostatnich 5 lat na statkach o napędzie innym niż tłokowy silnik spalinowy.
 4. W przypadku braku wymaganej praktyki pływania, o której mowa w ust. 3, warunkiem odnowienia świadectwa przeszkolenia, o którym mowa w ust. 1, jest ukończenie przeszkolenia na to świadectwo. W takim przypadku datę ważności odnawianego świadectwa ustala się na okres 5 lat, licząc od dnia ukończenia przeszkolenia.
 5. Praktyka pływania na statkach o napędzie innym niż tłokowy silnik spalinowy, o której mowa w ust. 2 i 3, powinna być potwierdzona zaświadczeniem wystawionym przez kapitana statku, starszego mechanika lub armatora statku.
 § 89. 1. Warunkiem uzyskania świadectw przeszkoleń w zakresie:
@@ -597,7 +612,7 @@ c) statkach używających jako paliwa gazów lub innych paliw o niskiej temperat
 3) wykorzystania radaru i ARPA na poziomie operacyjnym,
 4) wykorzystania radaru i ARPA na poziomie zarządzania,
 5) nautycznego dowodzenia statkiem,
-6) dowodzenia siłownią okrętową jest ukończenie odpowiednich przeszkoleń na te świadectwa.
+6) dowodzenia siłownią okrętową – jest ukończenie odpowiednich przeszkoleń na te świadectwa.
 2. Osoba, która ukończyła szkolenie kwalifikacyjne na poziomie operacyjnym lub zarządzania w dziale pokładowym albo dziale maszynowym w żegludze międzynarodowej, przeprowadzone w oparciu o program szkolenia określony w przepisach wydanych na podstawie art. 74 ust. 4 ustawy, spełnia warunki do uzyskania świadectwa przeszkolenia w zakresie nautycznego dowodzenia statkiem albo świadectwa przeszkolenia w zakresie dowodzenia siłownią okrętową odpowiednio do ukończonego szkolenia.
 § 90. 1. Na statkach wyposażonych w układy zasilania o napięciu przekraczającym 1 kV drugi oficer mechanik i starszy oficer mechanik są obowiązani posiadać świadectwo przeszkolenia w zakresie obsługi i konserwacji układów zasilania o napięciu przekraczającym 1 kV.
 2. Warunkiem uzyskania świadectwa przeszkolenia w zakresie obsługi i konserwacji układów zasilania o napięciu przekraczającym 1 kV jest ukończenie przeszkolenia na to świadectwo.
@@ -606,8 +621,10 @@ c) statkach używających jako paliwa gazów lub innych paliw o niskiej temperat
 2. Świadectwa przeszkoleń, o których mowa w § 83 ust. 4, § 84 ust. 1 pkt 1, 3 i 4, § 85 ust. 1, § 86 ust. 1 i § 88 ust. 1, zachowują ważność przez okres 5 lat i podlegają odnowieniu.
 3. Do ustalenia daty ważności odnawianych świadectw przeszkoleń, o których mowa w § 84 ust. 1 pkt 1, 3 i 4 oraz § 86 ust. 1, a także w przypadkach, o których mowa w § 83 ust. 6, § 85 ust. 4 i § 88 ust. 3, stosuje się odpowiednio § 95 ust. 4.
 § 92. Wzory świadectw przeszkoleń w zakresie dodatkowych przeszkoleń specjalistycznych określa załącznik nr 16 do rozporządzenia.
-2. Dla osób nieposiadających książeczki żeglarskiej lub dla potwierdzenia praktyki pływania w zakresie specjalistycznych wymagań określonych rozporządzeniem dowodem odbycia praktyki pływania jest zaświadczenie wydane przez kapitana statku lub dowódcę jednostki pływającej albo armatora. Wzór zaświadczenia potwierdzającego odbycie praktyki pły3. W uzasadnionych przypadkach w celu wyjaśnienia wpisu dokonanego do książeczki żeglarskiej lub zaświadczenia, o którym mowa w ust. 2, dyrektor urzędu morskiego może żądać dodatkowych informacji od marynarza lub armatora statku, na którym odbywała się praktyka pływania.
-§ 94. 1. Praktykę pływania na statkach morskich obsługiwanych przez kolejno wymieniające się załogi lub części załóg, jeżeli po każdym nie dłuższym niż 6 tygodni nieprzerwanym okresie pracy pracownikowi zapewnia się co najmniej równy okres wolnego od pracy pobytu na lądzie, statkach pełniących służbę państwową specjalnego przeznaczenia oraz jednostkach pływających Straży Granicznej i jednostkach pływających Marynarki Wojennej zalicza się w stosunku 3 miesiące pływania za 2 miesiące wymaganej praktyki pływania.
+§ 93. 1. Dowodem odbycia wymaganej praktyki pływania jest wpis w książeczce żeglarskiej.
+2. Dla osób nieposiadających książeczki żeglarskiej lub dla potwierdzenia praktyki pływania w zakresie specjalistycznych wymagań określonych rozporządzeniem dowodem odbycia praktyki pływania jest zaświadczenie wydane przez kapitana statku lub dowódcę jednostki pływającej albo armatora. Wzór zaświadczenia potwierdzającego odbycie praktyki pływania określa załącznik nr 17 do rozporządzenia.
+3. W uzasadnionych przypadkach w celu wyjaśnienia wpisu dokonanego do książeczki żeglarskiej lub zaświadczenia, o którym mowa w ust. 2, dyrektor urzędu morskiego może żądać dodatkowych informacji od marynarza lub armatora statku, na którym odbywała się praktyka pływania.
+§ 94. 1. Praktykę pływania na statkach morskich obsługiwanych przez kolejno wymieniające się załogi lub części załóg, jeżeli po każdym – nie dłuższym niż 6 tygodni – nieprzerwanym okresie pracy pracownikowi zapewnia się co najmniej równy okres wolnego od pracy pobytu na lądzie, statkach pełniących służbę państwową specjalnego przeznaczenia oraz jednostkach pływających Straży Granicznej i jednostkach pływających Marynarki Wojennej zalicza się w stosunku 3 miesiące pływania za 2 miesiące wymaganej praktyki pływania.
 2. Praktykę pływania, o której mowa w ust. 1 i 3, zalicza się w stosunku 1 miesiąc pływania za l miesiąc wymaganej praktyki, jeżeli wpisy w książeczce żeglarskiej albo w zaświadczeniu, o którym mowa w § 93 ust. 2, poświadczają wyłączny pobyt marynarza na statku w morzu.
 3. Praktykę pływania na ruchomych platformach z własnym napędem zalicza się w stosunku 3 miesiące pływania za 2 miesiące wymaganej praktyki.
 4. Praktykę pływania na morskim statku handlowym uznaje się, jeżeli była odbyta na statkach morskich z własnym napędem, z wyłączeniem statków rybackich, w stosunku do których uznaje się praktykę pływania zgodnie z ust. 8 i 9.
@@ -624,12 +641,12 @@ c) statkach używających jako paliwa gazów lub innych paliw o niskiej temperat
 2. Dyplomy, z wyłączeniem dyplomów:
 1) szypra 1 klasy żeglugi krajowej,
 2) szypra 2 klasy żeglugi krajowej,
-3) oficera mechanika w żegludze krajowej zachowują ważność przez okres 5 lat i podlegają odnowieniu nie wcześniej niż w ostatnim roku ważności.
+3) oficera mechanika w żegludze krajowej – zachowują ważność przez okres 5 lat i podlegają odnowieniu nie wcześniej niż w ostatnim roku ważności.
 2a. Dokumenty kwalifikacyjne wystawia się z datą przyznania, którą stanowi dzień spełnienia ostatniego warunku niezbędnego do uzyskania tego dokumentu.
-3. Datę ważności dyplomu przyznanego po raz pierwszy ustala się od dnia ostatniego wymustrowania ze statku albo od dnia zdania egzaminu na dany dyplom w zależności, które ze zdarzeń nastąpiło później.
+3. Datę ważności dyplomu przyznanego po raz pierwszy ustala się od dnia ostatniego wymustrowania ze statku albo od dnia zdania egzaminu na dany dyplom – w zależności, które ze zdarzeń nastąpiło później.
 4. Datę ważności odnawianego dyplomu ustala się:
-1) na okres 5 lat od daty wydania tego dyplomu w przypadku złożenia wniosku wcześniej niż w okresie 6 miesięcy przed datą upływu ważności dyplomu dotychczasowego;
-2) na okres 5 lat od daty utraty ważności dyplomu dotychczasowego w przypadku złożenia wniosku w okresie 6 miesięcy przed datą upływu ważności dyplomu dotychczasowego albo po upływie ważności dyplomu dotychczasowego.
+1) na okres 5 lat od daty wydania tego dyplomu – w przypadku złożenia wniosku wcześniej niż w okresie 6 miesięcy przed datą upływu ważności dyplomu dotychczasowego;
+2) na okres 5 lat od daty utraty ważności dyplomu dotychczasowego – w przypadku złożenia wniosku w okresie 6 miesięcy przed datą upływu ważności dyplomu dotychczasowego albo po upływie ważności dyplomu dotychczasowego.
 5. W przypadku gdy nie można ustalić daty ważności odnawianego dyplomu w sposób określony w ust. 4, datę tę ustala się na okres 5 lat od daty ostatniego wymustrowania, o ile spełniony został warunek określony w § 96 ust. 1 pkt 1 oraz pod warunkiem posiadania innego ważnego dyplomu uprawniającego do pracy na statkach morskich na stanowisku oficerskim w swojej specjalności.
 6. W przypadkach określonych w § 96 ust. 2 datę ważności odnawianego dyplomu ustala się na okres 5 lat od dnia zdania egzaminu. Jeżeli egzamin został zdany w okresie ostatnich 6 miesięcy przed dniem utraty ważności dyplomu, datę ważności ustala się na okres 5 lat od dnia utraty ważności dyplomu dotychczasowego.
 § 96. 1. Warunkiem odnowienia dyplomu jest:
@@ -650,28 +667,29 @@ f) jako osoba na stanowisku o charakterze nadzorczym, kontrolnym, doradczym lub 
 2) przechowywane w specjalnie do tego celu przeznaczonym archiwum.
 4. Urządzenia i systemy teleinformatyczne służące do prowadzenia ewidencji, o której mowa w ust. 2, oraz przetwarzania danych w bazie danych, spełniają warunki określone w przepisach w sprawie dokumentacji, przetwarzania danych osobowych oraz warunków technicznych i organizacyjnych, jakim powinny odpowiadać urządzenia i systemy informatyczne służące do przetwarzania danych osobowych.
 5. Dyrektorzy urzędów morskich potwierdzają w postaci papierowej lub elektronicznej dokumenty kwalifikacyjne znajdujące się w ewidencji na wniosek właściwych organów administracji morskiej innych państw, armatorów lub ich przedstawicieli.
-1) dyplom szypra III klasy żeglugi krajowej, szypra II klasy żeglugi krajowej oraz szypra II klasy rybołówstwa morskiego na dyplom szypra 2 klasy żeglugi krajowej lub dyplom szypra klasy 2 rybołówstwa morskiego;
-2) dyplom szypra I klasy żeglugi krajowej oraz szypra I klasy rybołówstwa morskiego na dyplom szypra 1 klasy żeglugi krajowej lub dyplom szypra klasy 1 rybołówstwa morskiego;
-3) dyplom oficera pokładowego III klasy, dyplom oficera pokładowego III klasy rybołówstwa morskiego, dyplom oficera pokładowego II klasy oraz dyplom oficera pokładowego II klasy rybołówstwa morskiego na dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej;
-4) dyplom oficera pokładowego I klasy oraz oficera pokładowego I klasy rybołówstwa morskiego na dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej;
-5) dyplom kapitana żeglugi wielkiej oraz kapitana żeglugi wielkiej rybołówstwa morskiego na dyplom kapitana żeglugi wielkiej na statkach o pojemności brutto 3000 i powyżej;
-6) dyplom oficera mechanika okrętowego V klasy na świadectwo starszego motorzysty lub dyplom oficera mechanika w żegludze krajowej;
-7) dyplom oficera mechanika okrętowego III i IV klasy na dyplom oficera mechanika wachtowego na statkach o mocy maszyn głównych 750 kW i powyżej;
-8) dyplom oficera mechanika okrętowego II klasy na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
-9) dyplom oficera mechanika okrętowego I klasy na dyplom starszego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
-10) dyplom oficera elektryka okrętowego I, II i III klasy na dyplom oficera elektroautomatyka okrętowego na statkach o mocy maszyn głównych 750 kW i powyżej.
+§ 98. 1. Dyplomy wydane na podstawie rozporządzenia Ministra – Kierownika Urzędu Gospodarki Morskiej z dnia 17 sierpnia 1983 r. w sprawie kwalifikacji zawodowych członków załóg polskich statków morskich (Dz. U. poz. 232 oraz z 1987 r. poz. 70), na wniosek zainteresowanego, podlegają wymianie na odpowiednie dokumenty kwalifikacyjne określone w rozporządzeniu, z zastrzeżeniem ust. 3–7:
+1) dyplom szypra III klasy żeglugi krajowej, szypra II klasy żeglugi krajowej oraz szypra II klasy rybołówstwa morskiego – na dyplom szypra 2 klasy żeglugi krajowej lub dyplom szypra klasy 2 rybołówstwa morskiego;
+2) dyplom szypra I klasy żeglugi krajowej oraz szypra I klasy rybołówstwa morskiego – na dyplom szypra 1 klasy żeglugi krajowej lub dyplom szypra klasy 1 rybołówstwa morskiego;
+3) dyplom oficera pokładowego III klasy, dyplom oficera pokładowego III klasy rybołówstwa morskiego, dyplom oficera pokładowego II klasy oraz dyplom oficera pokładowego II klasy rybołówstwa morskiego – na dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej;
+4) dyplom oficera pokładowego I klasy oraz oficera pokładowego I klasy rybołówstwa morskiego – na dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej;
+5) dyplom kapitana żeglugi wielkiej oraz kapitana żeglugi wielkiej rybołówstwa morskiego – na dyplom kapitana żeglugi wielkiej na statkach o pojemności brutto 3000 i powyżej;
+6) dyplom oficera mechanika okrętowego V klasy – na świadectwo starszego motorzysty lub dyplom oficera mechanika w żegludze krajowej;
+7) dyplom oficera mechanika okrętowego III i IV klasy – na dyplom oficera mechanika wachtowego na statkach o mocy maszyn głównych 750 kW i powyżej;
+8) dyplom oficera mechanika okrętowego II klasy – na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
+9) dyplom oficera mechanika okrętowego I klasy – na dyplom starszego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
+10) dyplom oficera elektryka okrętowego I, II i III klasy – na dyplom oficera elektroautomatyka okrętowego na statkach o mocy maszyn głównych 750 kW i powyżej.
 2. Dyplomy wydane na podstawie rozporządzenia Ministra Transportu i Gospodarki Morskiej z dnia 23 maja 1992 r.
 w sprawie kwalifikacji zawodowych i składu załóg polskich statków morskich (Dz. U. poz. 227 oraz z 1998 r. poz. 34 i 285), na wniosek zainteresowanego, podlegają wymianie na odpowiednie dokumenty kwalifikacyjne określone w rozporządzeniu, z zastrzeżeniem ust. 3–7:
-1) dyplom szypra II klasy na dyplom szypra 2 klasy żeglugi krajowej lub dyplom szypra klasy 2 rybołówstwa morskiego;
-2) dyplom szypra I klasy na dyplom szypra 1 klasy żeglugi krajowej lub dyplom szypra klasy 1 rybołówstwa morskiego;
-3) dyplom oficera pokładowego III klasy oraz dyplom oficera pokładowego II klasy na dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej;
-4) dyplom starszego oficera pokładowego na dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej;
-5) dyplom kapitana żeglugi wielkiej na dyplom kapitana żeglugi wielkiej na statkach o pojemności brutto 3000 i powyżej;
-6) dyplom oficera mechanika okrętowego V klasy na świadectwo starszego motorzysty lub dyplom oficera mechanika w żegludze krajowej;
-7) dyplom oficera mechanika okrętowego IV klasy oraz dyplom oficera mechanika okrętowego III klasy na dyplom oficera mechanika wachtowego na statkach o mocy maszyn głównych 750 kW i powyżej;
-8) dyplom oficera mechanika okrętowego II klasy na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
-9) dyplom starszego oficera mechanika okrętowego na dyplom starszego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
-10) dyplom oficera elektryka okrętowego na dyplom oficera elektroautomatyka okrętowego na statkach o mocy maszyn głównych 750 kW i powyżej.
+1) dyplom szypra II klasy – na dyplom szypra 2 klasy żeglugi krajowej lub dyplom szypra klasy 2 rybołówstwa morskiego;
+2) dyplom szypra I klasy – na dyplom szypra 1 klasy żeglugi krajowej lub dyplom szypra klasy 1 rybołówstwa morskiego;
+3) dyplom oficera pokładowego III klasy oraz dyplom oficera pokładowego II klasy na – dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej;
+4) dyplom starszego oficera pokładowego – na dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej;
+5) dyplom kapitana żeglugi wielkiej – na dyplom kapitana żeglugi wielkiej na statkach o pojemności brutto 3000 i powyżej;
+6) dyplom oficera mechanika okrętowego V klasy – na świadectwo starszego motorzysty lub dyplom oficera mechanika w żegludze krajowej;
+7) dyplom oficera mechanika okrętowego IV klasy oraz dyplom oficera mechanika okrętowego III klasy – na dyplom oficera mechanika wachtowego na statkach o mocy maszyn głównych 750 kW i powyżej;
+8) dyplom oficera mechanika okrętowego II klasy – na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
+9) dyplom starszego oficera mechanika okrętowego – na dyplom starszego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
+10) dyplom oficera elektryka okrętowego – na dyplom oficera elektroautomatyka okrętowego na statkach o mocy maszyn głównych 750 kW i powyżej.
 3. Dla dokonania wymiany dyplomów, o których mowa w ust. 1 i 2, należy:
 1) w dziale pokładowym przedłożyć ważne świadectwa:
 a) przeszkolenia w zakresie ochrony przeciwpożarowej stopnia wyższego,
@@ -694,32 +712,32 @@ d) przeszkolenia w zakresie dowodzenia siłownią okrętową;
 9. Świadectwa uzyskane na podstawie przepisów, o których mowa w ust. 1 i 2, podlegają wymianie na odpowiednie świadectwa określone w rozporządzeniu:
 1) świadectwo marynarza na:
 a) świadectwo marynarza wachtowego lub
-b) świadectwo rybaka rybołówstwa morskiego pod warunkiem zdania egzaminu ze znajomości narzędzi połowowych;
+b) świadectwo rybaka rybołówstwa morskiego – pod warunkiem zdania egzaminu ze znajomości narzędzi połowowych;
 2) świadectwo starszego marynarza na:
 a) świadectwo starszego marynarza lub
-b) starszego rybaka rybołówstwa morskiego pod warunkiem zdania egzaminu ze znajomości narzędzi połowowych;
-3) świadectwo motorzysty okrętowego na świadectwo motorzysty wachtowego;
-4) świadectwo elektromontera na świadectwo elektromontera;
-5) świadectwo kucharza okrętowego na świadectwo kucharza okrętowego;
-6) świadectwo rybaka na świadectwo rybaka rybołówstwa morskiego;
-7) świadectwo starszego rybaka na świadectwo starszego rybaka rybołówstwa morskiego.
+b) starszego rybaka rybołówstwa morskiego – pod warunkiem zdania egzaminu ze znajomości narzędzi połowowych;
+3) świadectwo motorzysty okrętowego – na świadectwo motorzysty wachtowego;
+4) świadectwo elektromontera – na świadectwo elektromontera;
+5) świadectwo kucharza okrętowego – na świadectwo kucharza okrętowego;
+6) świadectwo rybaka – na świadectwo rybaka rybołówstwa morskiego;
+7) świadectwo starszego rybaka – na świadectwo starszego rybaka rybołówstwa morskiego.
 10. Wymóg zdania egzaminu ze znajomości narzędzi połowowych, o którym mowa w ust. 9 pkt 1 lit. b i pkt 2 lit. b, nie dotyczy osób, które świadectwo marynarza lub starszego marynarza uzyskały na podstawie praktyki pływania odbytej na statkach rybackich.
 11. Do dokonania wymiany świadectw, o których mowa w ust. 9 pkt 2 i 7, wymagane jest posiadanie ważnego świadectwa ratownika.
 § 99. 1. Dokumenty kwalifikacyjne wydane na podstawie rozporządzenia Ministra Transportu i Gospodarki Morskiej z dnia 24 sierpnia 2000 r. w sprawie wyszkolenia i kwalifikacji zawodowych, pełnienia wacht oraz składu załóg statków morskich o polskiej przynależności (Dz. U. poz. 1117) oraz rozporządzenia Ministra Infrastruktury z dnia 6 lutego 2003 r.
 w sprawie wyszkolenia i kwalifikacji zawodowych marynarzy (Dz. U. poz. 734) zachowują swoją ważność na czas, na jaki zostały wydane, z zastrzeżeniem ust.2.
 2. Na wniosek zainteresowanego podlegają wymianie:
-1) dyplom kapitana żeglugi bałtyckiej na dyplom kapitana żeglugi przybrzeżnej;
-2) dyplom oficera wachtowego żeglugi bałtyckiej na dyplom oficera wachtowego żeglugi przybrzeżnej;
-3) dyplom kapitana w żegludze krajowej na dyplom szypra 1 klasy żeglugi krajowej;
-4) świadectwo starszego marynarza w żegludze krajowej oraz świadectwo starszego marynarza na świadectwo starszego marynarza, pod warunkiem posiadania ważnego świadectwa ratownika;
-5) świadectwo marynarza w żegludze krajowej na świadectwo marynarza wachtowego;
-6) dyplom szypra klasy 2 w żegludze krajowej oraz dyplom szypra 2 klasy żeglugi krajowej na dyplom szypra 2 klasy żeglugi krajowej;
-7) dyplom szypra klasy 1 w żegludze krajowej oraz dyplom szypra 1 klasy żeglugi krajowej na dyplom szypra 1 klasy
-8) dyplom oficera mechanika wachtowego na statkach o mocy maszyn głównych poniżej 750 kW oraz dyplom oficera mechanika na świadectwo starszego motorzysty lub dyplom oficera mechanika w żegludze krajowej;
-9) świadectwo obserwatora radarowego, operatora radarowego i ARPA na świadectwo przeszkolenia w zakresie wykorzystania radaru i ARPA na poziomie operacyjnym;
-10) dyplom szypra klasy 1 rybołówstwa morskiego na dyplom szypra klasy 1 rybołówstwa morskiego;
-11) dyplom szypra klasy 2 rybołówstwa morskiego na dyplom szypra klasy 2 rybołówstwa morskiego;
-12) świadectwo kucharza okrętowego na świadectwo kucharza okrętowego.
+1) dyplom kapitana żeglugi bałtyckiej – na dyplom kapitana żeglugi przybrzeżnej;
+2) dyplom oficera wachtowego żeglugi bałtyckiej – na dyplom oficera wachtowego żeglugi przybrzeżnej;
+3) dyplom kapitana w żegludze krajowej – na dyplom szypra 1 klasy żeglugi krajowej;
+4) świadectwo starszego marynarza w żegludze krajowej oraz świadectwo starszego marynarza – na świadectwo starszego marynarza, pod warunkiem posiadania ważnego świadectwa ratownika;
+5) świadectwo marynarza w żegludze krajowej – na świadectwo marynarza wachtowego;
+6) dyplom szypra klasy 2 w żegludze krajowej oraz dyplom szypra 2 klasy żeglugi krajowej – na dyplom szypra 2 klasy żeglugi krajowej;
+7) dyplom szypra klasy 1 w żegludze krajowej oraz dyplom szypra 1 klasy żeglugi krajowej – na dyplom szypra 1 klasy żeglugi krajowej;
+8) dyplom oficera mechanika wachtowego na statkach o mocy maszyn głównych poniżej 750 kW oraz dyplom oficera mechanika – na świadectwo starszego motorzysty lub dyplom oficera mechanika w żegludze krajowej;
+9) świadectwo obserwatora radarowego, operatora radarowego i ARPA – na świadectwo przeszkolenia w zakresie wykorzystania radaru i ARPA na poziomie operacyjnym;
+10) dyplom szypra klasy 1 rybołówstwa morskiego – na dyplom szypra klasy 1 rybołówstwa morskiego;
+11) dyplom szypra klasy 2 rybołówstwa morskiego – na dyplom szypra klasy 2 rybołówstwa morskiego;
+12) świadectwo kucharza okrętowego – na świadectwo kucharza okrętowego.
 3. Wymiana dyplomów, o których mowa w ust. 2, może zostać dokonana na zasadach określonych w § 96.
 4. Wymogi, o których mowa w § 96, nie dotyczą osób wymieniających posiadane dyplomy na dyplomy w żegludze krajowej.
 5. Wymiana dyplomów szypra klasy 2 rybołówstwa morskiego i szypra klasy 1 rybołówstwa morskiego może zostać dokonana pod warunkiem posiadania 6-miesięcznej praktyki pływania na stanowisku oficerskim na statku rybackim długości powyżej 12 m, nabytej w okresie ostatnich 5 lat lub zdania egzaminu na odnowienie dyplomu.
@@ -729,27 +747,27 @@ w sprawie wyszkolenia i kwalifikacji zawodowych marynarzy (Dz. U. poz. 734) zach
 1) dyplom szypra klasy 1 rybołówstwa morskiego na:
 a) dyplom szypra klasy 1 rybołówstwa morskiego albo
 b) dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego pod warunkiem posiadania 6 miesięcy praktyki pływania na stanowisku oficerskim na statkach rybackich o długości powyżej 24 m na wodach nieograniczonych, nabytej w okresie ostatnich 5 lat lub zdanie egzaminu na ten dyplom;
-2) dyplom szypra klasy 2 rybołówstwa morskiego na dyplom szypra klasy 2 rybołówstwa morskiego;
-3) dyplom oficera mechanika na świadectwo starszego motorzysty lub dyplom oficera mechanika w żegludze krajowej;
-4) świadectwo starszego marynarza na świadectwo starszego marynarza, pod warunkiem posiadania ważnego świadectwa ratownika;
-5) świadectwo młodszego kucharza okrętowego na świadectwo młodszego kucharza okrętowego;
-6) świadectwo kucharza okrętowego na świadectwo kucharza okrętowego;
+2) dyplom szypra klasy 2 rybołówstwa morskiego – na dyplom szypra klasy 2 rybołówstwa morskiego;
+3) dyplom oficera mechanika – na świadectwo starszego motorzysty lub dyplom oficera mechanika w żegludze krajowej;
+4) świadectwo starszego marynarza – na świadectwo starszego marynarza, pod warunkiem posiadania ważnego świadectwa ratownika;
+5) świadectwo młodszego kucharza okrętowego – na świadectwo młodszego kucharza okrętowego;
+6) świadectwo kucharza okrętowego – na świadectwo kucharza okrętowego;
 4. Dyplomy i świadectwa wydane na podstawie rozporządzenia, o którym mowa w ust. 1, na wniosek zainteresowanego, mogą być wymienione na odpowiednie dyplomy i świadectwa określone w rozporządzeniu:
-1) dyplom szypra 1 klasy żeglugi krajowej na dyplom szypra 1 klasy żeglugi krajowej;
-2) dyplom szypra 2 klasy żeglugi krajowej na dyplom szypra 2 klasy żeglugi krajowej;
-3) świadectwo rybaka rybołówstwa morskiego na świadectwo rybaka rybołówstwa morskiego;
-4) świadectwo starszego rybaka rybołówstwa morskiego na świadectwo starszego rybaka rybołówstwa morskiego, pod warunkiem posiadania ważnego świadectwa ratownika.
-5. Wymiana dyplomów szypra klasy 2 rybołówstwa morskiego i szypra klasy 1 rybołówstwa morskiego może zostać dokonana pod warunkiem posiadania 6-miesięcznej praktyki pływania na stanowisku oficerskim na statku rybackim długości
+1) dyplom szypra 1 klasy żeglugi krajowej – na dyplom szypra 1 klasy żeglugi krajowej;
+2) dyplom szypra 2 klasy żeglugi krajowej – na dyplom szypra 2 klasy żeglugi krajowej;
+3) świadectwo rybaka rybołówstwa morskiego – na świadectwo rybaka rybołówstwa morskiego;
+4) świadectwo starszego rybaka rybołówstwa morskiego – na świadectwo starszego rybaka rybołówstwa morskiego, pod warunkiem posiadania ważnego świadectwa ratownika.
+5. Wymiana dyplomów szypra klasy 2 rybołówstwa morskiego i szypra klasy 1 rybołówstwa morskiego może zostać dokonana pod warunkiem posiadania 6-miesięcznej praktyki pływania na stanowisku oficerskim na statku rybackim długości powyżej 15 m, nabytej w okresie ostatnich 5 lat, lub zdania egzaminu na odnowienie dyplomu.
 6. Wydane na podstawie rozporządzenia, o którym mowa w ust. 1, świadectwa przeszkolenia:
 1) na zbiornikowiec do przewozu: produktów naftowych, chemikaliów i gazów skroplonych stopień podstawowy lub produktów naftowych stopień podstawowy, lub chemikaliów stopień podstawowy zachowują swoją ważność przez okres, na jaki zostały wydane, i na wniosek zainteresowanego podlegają wymianie na świadectwo przeszkolenia specjalistycznego na zbiornikowce do przewozu produktów naftowych oraz chemikaliów stopnia podstawowego;
 2) na zbiornikowiec do przewozu: produktów naftowych, chemikaliów i gazów skroplonych stopień podstawowy lub gazów skroplonych stopień podstawowy zachowują swoją ważność przez okres, na jaki zostały wydane, i na wniosek zainteresowanego podlegają wymianie na świadectwo przeszkolenia stopnia podstawowego na zbiornikowce do przewozu gazów skroplonych;
 3) w zakresie: bezpieczeństwa, kierowania tłumem, bezpieczeństwa pasażerów dla personelu zajmującego się bezpośrednią obsługą pasażerów w pomieszczeniach pasażerskich odpowiednio na statku pasażerskim ro-ro i statku pasażerskim innym niż ro-ro, zachowują swoją ważność przez okres, na jaki zostały wydane, i na wniosek zainteresowanego podlegają wymianie na świadectwa z przeszkolenia:
 a) w zakresie bezpieczeństwa dla członków załogi bezpośrednio obsługujących pasażerów w pomieszczeniach pasażerskich lub
-b) w zakresie kierowania tłumem pod warunkiem posiadania 12-miesięcznej praktyki pływania na statkach pasażerskich, odbytej w okresie ostatnich 5 lat albo ukończenia odpowiedniego szkolenia; datę ważności świadectwa ustala się na zasadach określonych w § 95;
+b) w zakresie kierowania tłumem – pod warunkiem posiadania 12-miesięcznej praktyki pływania na statkach pasażerskich, odbytej w okresie ostatnich 5 lat albo ukończenia odpowiedniego szkolenia; datę ważności świadectwa ustala się na zasadach określonych w § 95;
 4) w zakresie: dowodzenia w sytuacjach kryzysowych, o zachowaniach ludzkich, bezpieczeństwie pasażerów i ładunku oraz szczelności kadłuba odpowiednio na statku pasażerskim ro-ro i statku pasażerskim innym niż ro-ro zachowują swoją ważność przez okres, na jaki zostały wydane, i na wniosek zainteresowanego podlegają wymianie na świadectwa z przeszkolenia:
-a) w zakresie zarządzania kryzysowego i zachowań ludzkich pod warunkiem posiadania 12-miesięcznej praktyki pływania na statkach pasażerskich, odbytej w okresie ostatnich 5 lat albo ukończenia odpowiedniego szkolenia;
+a) w zakresie zarządzania kryzysowego i zachowań ludzkich – pod warunkiem posiadania 12-miesięcznej praktyki pływania na statkach pasażerskich, odbytej w okresie ostatnich 5 lat albo ukończenia odpowiedniego szkolenia;
 datę ważności świadectwa ustala się na zasadach określonych w § 95, lub
-b) w zakresie bezpieczeństwa pasażerów, ładunku oraz szczelności kadłuba na statku pasażerskim typu ro-ro pod warunkiem posiadania 12-miesięcznej praktyki pływania na statkach pasażerskich typu ro-ro, odbytej w okresie ostatnich 5 lat albo ukończenia odpowiedniego szkolenia; datę ważności świadectwa ustala się na zasadach określonych w § 95;
+b) w zakresie bezpieczeństwa pasażerów, ładunku oraz szczelności kadłuba na statku pasażerskim typu ro-ro – pod warunkiem posiadania 12-miesięcznej praktyki pływania na statkach pasażerskich typu ro-ro, odbytej w okresie ostatnich 5 lat albo ukończenia odpowiedniego szkolenia; datę ważności świadectwa ustala się na zasadach określonych w § 95;
 5) w zakresie obsługi i wykorzystania ECDIS, na wniosek zainteresowanego, podlegają wymianie na świadectwa przeszkolenia w zakresie obsługi i wykorzystania ECDIS;
 6) w zakresie wykorzystania radaru i ARPA na poziomie operacyjnym, na wniosek zainteresowanego, podlegają wymianie na świadectwa przeszkolenia w zakresie wykorzystania radaru i ARPA na poziomie operacyjnym;
 7) w zakresie wykorzystania radaru i ARPA na poziomie zarządzania, na wniosek zainteresowanego, podlegają wymianie na świadectwa przeszkolenia w zakresie wykorzystania radaru i ARPA na poziomie zarządzania;
@@ -758,10 +776,11 @@ b) w zakresie bezpieczeństwa pasażerów, ładunku oraz szczelności kadłuba n
 § 101. Bezterminowe świadectwa i świadectwa przeszkoleń, wydane na podstawie przepisów, o których mowa w § 98 ust. 2, § 99 ust. 1 i § 100 ust. 1, mogą być wymienione na odpowiednie świadectwa i świadectwa przeszkolenia określone w rozporządzeniu.
 § 102. Przepisu § 101 nie stosuje się do świadectw przeszkoleń w zakresie ochrony przeciwpożarowej stopnia wyższego, świadectwa ratownika i świadectwa starszego ratownika wydanych na podstawie przepisów, o których mowa w § 98 ust. 2, § 99 ust. 1 i § 100 ust. 1, które utraciły ważność z dniem 31 grudnia 2016 r. Świadectwa te podlegają odnowieniu na zasadach określonych w dziale V.
 § 103. 1. Dokumenty kwalifikacyjne wydane na podstawie rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 7 sierpnia 2013 r. w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U.
+z 2017 r. poz. 167) zachowują swoją ważność przez okres, na jaki zostały wydane.
 2. Na wniosek zainteresowanego podlegają wymianie na odpowiednie dyplomy określone w rozporządzeniu:
-1) dyplom szypra klasy 2 rybołówstwa morskiego na dyplom szypra klasy 2 rybołówstwa morskiego;
-2) dyplom szypra klasy 1 rybołówstwa morskiego na dyplom szypra klasy 1 rybołówstwa morskiego;
-3) dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego na dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego.
+1) dyplom szypra klasy 2 rybołówstwa morskiego – na dyplom szypra klasy 2 rybołówstwa morskiego;
+2) dyplom szypra klasy 1 rybołówstwa morskiego – na dyplom szypra klasy 1 rybołówstwa morskiego;
+3) dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego – na dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego.
 3. Świadectwo kucharza i starszego motorzysty wydane na podstawie rozporządzenia, o którym mowa w ust. 1, podlegają wymianie odpowiednio na świadectwo kucharza okrętowego oraz świadectwo starszego motorzysty.
 § 104. Osoby ubiegające się o wydanie świadectwa elektromontera, posiadające świadectwo motorzysty wachtowego oraz co najmniej 12 miesięcy praktyki pływania w dziale maszynowym w specjalności elektrycznej na statkach o mocy maszyn głównych 750 kW i powyżej, nabytej w okresie 5 lat przed dniem 30 listopada 2015 r. są zwolnione z obowiązku ukończenia szkolenia, o którym mowa w § 22 ust. 1 pkt 5.
 § 105. 1. Dyplomy oficera elektroautomatyka okrętowego wydane na podstawie rozporządzenia Ministra Transportu i Gospodarki Morskiej z dnia 24 sierpnia 2000 r. w sprawie wyszkolenia i kwalifikacji zawodowych, pełnienia wacht oraz składu załóg statków morskich o polskiej przynależności, rozporządzenia Ministra Infrastruktury z dnia 6 lutego 2003 r.
@@ -778,25 +797,24 @@ w sprawie wyszkolenia i kwalifikacji zawodowych marynarzy oraz rozporządzenia M
 § 110. 1. Posiadanie zaświadczenia o ukończeniu programu szkolenia na poziomie pomocniczym, o którym mowa w § 14 pkt 1, § 20 ust. 1 pkt 1 i 2 oraz § 22 ust. 1 pkt 1 i 2, nie dotyczy osób, które rozpoczęły to szkolenie przed dniem 25 listopada 2015 r.
 2. Przepisy rozporządzenia odnoszące się do uczniów szkół ponadpodstawowych stosuje się również do uczniów szkół ponadgimnazjalnych i klas dotychczasowych szkół ponadgimnazjalnych do dnia ukończenia tych szkół przez uczniów rozpoczynających naukę w roku szkolnym 2019/2020.
 § 111. Rozporządzenie wchodzi w życie z dniem ogłoszenia , z wyjątkiem § 79 i § 85, które wchodzą w życie z dniem 1 lipca 2018 r.
-Morskiej i Żeglugi Śródlądowej z dnia 23 2018 r. (Dz. U. z 2023 r. poz. ) Załącznik W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 3.
-ZEZWOLENIE DISPENSATION ZEZWOLENIE DISPENSATION Załącznik nr 3 ŚWIADECTWO MŁODSZEGO MARYNARZA POKŁADOWEGO DECK HAND CERTIFICATE ŚWIADECTWO MARYNARZA WACHTOWEGO RATING FORMING PART OF NAVIGATIONAL WATCH CERTIFICATE ŚWIADECTWO STARSZEGO MARYNARZA RATING AS ABLE SEAFARER DECK CERTIFICATE ŚWIADECTWO MŁODSZEGO MOTORZYSTY WIPER CERTIFICATE Ze zmianami wprowadzonymi przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 3, oraz przez § rozporządzenia, o którym mowa w odnośniku 4.
-ŚWIADECTWO ELEKTROMONTERA ELECTRO-TECHNICAL RATING CERTIFICATE ŚWIADECTWO MŁODSZEGO KUCHARZA OKRĘTOWEGO COOK ASSISTANT CERTIFICATE Ze zmianą wprowadzoną przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 3.
-ŚWIADECTWO KUCHARZA OKRĘTOWEGO COOK CERTIFICATE Załącznik DYPLOM OFICERA WA CHTOWEGO W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną 13 rozporządzenia, o którym mowa w odnośniku 4.
-DYPLOM STARSZ EGO O FICERA CHIEF MATE DYPLOM STARSZ EGO O FICERA CHIEF MATE DYPLOM KAPITANA DYPLOM KAPITANA ŻEGLUGI WIELKIEJ ...........................................................
-Nazwa statku Ship's name data/date .................................
-Zaświadczenie o pełnieniu wachty nawigacyjnej Certificate of watchkeeping service on the bridge (Wymagane do uzyskania dyplomu oficera wachtowego - prawidłoII/1 Konwencji STCW 1978 z późniejszymi poprawkami) (Required for certification of officer in charge of navigational - regulation II/1 of the STCW Convention 1978 as amended) Zaświadcza się niniejszym, że ........................................................................................................
+Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 23 2018 r. (Dz. U. z 2023 r. poz. ) Załącznik W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 3.
+Dziennik Ustaw – 48 – Załącznik Poz. 1383 nr 2 ZEZWOLENIE DISPENSATION ZEZWOLENIE DISPENSATION Załącznik nr 3 ŚWIADECTWO MŁODSZEGO MARYNARZA POKŁADOWEGO DECK HAND CERTIFICATE ŚWIADECTWO MARYNARZA WACHTOWEGO RATING FORMING PART OF NAVIGATIONAL WATCH CERTIFICATE ŚWIADECTWO STARSZEGO MARYNARZA RATING AS ABLE SEAFARER DECK CERTIFICATE Załącznik ŚWIADECTWO MŁODSZEGO MOTORZYSTY WIPER CERTIFICATE Ze zmianami wprowadzonymi przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 3, oraz przez § rozporządzenia, o którym mowa w odnośniku 4.
+ŚWIADECTWO ELEKTROMONTERA ELECTRO-TECHNICAL RATING CERTIFICATE Załącznik ŚWIADECTWO MŁODSZEGO KUCHARZA OKRĘTOWEGO COOK ASSISTANT CERTIFICATE Ze zmianą wprowadzoną przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 3.
+ŚWIADECTWO KUCHARZA OKRĘTOWEGO COOK CERTIFICATE Załącznik DYPLOM OFICERA WACHTOWEGO W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną 13 rozporządzenia, o którym mowa w odnośniku 4.
+DYPLOM STARSZEGO OFICERA CHIEF MATE DYPLOM STARSZEGO OFICERA CHIEF MATE DYPLOM KAPITANA DYPLOM KAPITANA ŻEGLUGI WIELKIEJ Załącznik ........................................................... data/date .................................
+Nazwa statku Ship's name Zaświadczenie o pełnieniu wachty nawigacyjnej Certificate of watchkeeping service on the bridge (Wymagane do uzyskania dyplomu oficera wachtowego - prawidłoII/1 Konwencji STCW 1978 z późniejszymi poprawkami) (Required for certification of officer in charge of navigational - regulation II/1 of the STCW Convention 1978 as amended) Zaświadcza się niniejszym, że ........................................................................................................
 This is to certify that był zatrudniony na stanowisku .......................................................................................................
 served in capacity of na statku ..........................................................................................................................................
 on board .........................................................................................................................................................
-i pełnił wachtę na mostku pod nadzorem kwalifikowanego oficera wachtowego and performed bridge watchkeeping duties under supervision of a qualified officer od/from ........................................................ do/till .......................................................
+i pełnił wachtę na mostku pod nadzorem kwalifikowanego oficera wachtowego and performed bridge watchkeeping duties under supervision of a qualified officer od / from ........................................................ do / till .......................................................
 W/w marynarz był zatrudniony przez: .............................................................................................
 The a/m seafarer was employed by: ...........................................................................................................................................................
 ...........................................................................................................................................................
-Kapitan/Master Pieczątka statku / Ship's stamp .......................................................
-Załącznik Miejsce wystawienia, data …………… Zaświadczenie nr …… o zaliczeniu książki praktyk Osoba upoważniona do wystawienia zaświadczenia ………………………………………………… Załącznik DYPLOM OFICERA WACHTOWEGO W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 4.
+Kapitan/Master .......................................................
+Pieczątka statku / Ship's stamp Załącznik Miejsce wystawienia, data …………… Zaświadczenie nr …… o zaliczeniu książki praktyk Osoba upoważniona do wystawienia zaświadczenia ………………………………………………… Załącznik DYPLOM OFICERA WACHTOWEGO W brzmieniu ustalonym przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 4.
 DYPLOM KAPITANA Załącznik DYPLOM SZYPRA 2 KLASY W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 4.
 DYPLOM SZYPRA 1 KLASY Załącznik DYPLOM OFICERA MECHANIKA WACHTOWEGO W brzmieniu ustalonym przez § 1 pkt 22 rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną 16 rozporządzenia, o którym mowa w odnośniku 4.
-DYPLOM DRUGIEGO OFICERA MECHANIKA DYPLOM DRUGIEGO OFICERA MECHANIKA DYPLOM STARSZEGO OFICERA MECHANIKA DYPLOM STARSZEGO OFICERA MECHANIKA DYPLOM OFICERA ELEKT ROAUTOMATYKA OKRĘTOWEGO ........................................................... data/date .................................
+DYPLOM DRUGIEGO OFICERA MECHANIKA DYPLOM DRUGIEGO OFICERA MECHANIKA DYPLOM STARSZEGO OFICERA MECHANIKA DYPLOM STARSZEGO OFICERA MECHANIKA DYPLOM OFICERA ELEKTROAUTOMATYKA OKRĘTOWEGO Załącznik ........................................................... data/date .................................
 Zaświadczenie o pełnieniu wachty maszynowej Documentary evidence of engine-room watchkeeping duties Zaświadcza się niniejszym, że ........................................................................................................
 był zatrudniony na stanowisku .......................................................................................................
 na statku ..........................................................................................................................................
@@ -814,12 +832,12 @@ Ze zmianą wprowadzoną przez § 1 pkt 24 rozporządzenia, o którym mowa w odno
 .
 .
 .
-Załącznik .
+– 117 – Załącznik .
 .
 .
 .
-.
-Certificate of Training in operation and maintenance of power systems in excess of 1 kV Załącznik ........................................................... data/date .................................
+Certificate of Training in operation and maintenance of power systems in excess of 1 kV .
+Załącznik ........................................................... data/date .................................
 Zaświadczenie potwierdzające odbycie praktyki pływania Documentary evidence of sea service Zaświadcza się niniejszym, że ....................................................................................................
 był zatrudniony na stanowisku ...................................................................................................
 na statku .....................................................................................................................................
@@ -827,41 +845,40 @@ na statku ......................................................................
 od/from ..................................................... do/till ........................................................
 W/w marynarz był zatrudniony przez: ........................................................................................
 ......................................................................................................................................................
-Dodatkowe informacje o statku, obowiązkach lub rejonach żeglugi: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… Pieczątka statku / Ship's stamp Kapitan/Master .......................................................
-Załącznik nr w prawie kwalifikacji członków załóg statków morskich Zaświadczenie nr …… o ukończeniu szkolenia Dodany przez § 1 pkt 25 rozporządzenia, o którym mowa w odnośniku 3.
-NAZWA MORSKIEJ JEDNOSTKI EDUKACYJNEJ WYSTAWIAJĄCEJ ZAŚWIADCZENIE
+Dodatkowe informacje o statku, obowiązkach lub rejonach żeglugi: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… Kapitan/Master .......................................................
+Pieczątka statku / Ship's stamp – 143 – Załącznik do rozporządzenia zmieniającego rozporządzenie w prawie kwalifikacji członków załóg statków Załącznik nr morskich NAZWA MORSKIEJ JEDNOSTKI EDUKACYJNEJ WYSTAWIAJĄCEJ ZAŚWIADCZENIE Zaświadczenie nr …… o ukończeniu szkolenia Dodany przez § 1 pkt 25 rozporządzenia, o którym mowa w odnośniku 3.
 
-### DZIAŁ I Przepisy ogólne § 1. 1. Rozporządzenie określa:
+### DZIAŁ I Przepisy ogólne
 
 ### DZIAŁ II Kwalifikacje nieoficerskie
 
-#### Rozdział 1 Dział pokładowy statków morskich § 11. W dziale pokładowym na poziomie pomocniczym ustala się stanowiska:
+#### Rozdział 1 Dział pokładowy statków morskich
 
-#### Rozdział 2 Dział maszynowy statków morskich § 17. 1. W dziale maszynowym w specjalności mechanicznej na poziomie pomocniczym ustala się stanowiska:
+#### Rozdział 2 Dział maszynowy statków morskich
 
-#### Rozdział 3 Kucharze okrętowi § 24. Na statkach morskich ustala się następujące stanowiska kucharzy:
+#### Rozdział 3 Kucharze okrętowi
 
 ### DZIAŁ III Kwalifikacje oficerskie
 
-#### Rozdział 1 Dział pokładowy w żegludze międzynarodowej § 29. W dziale pokładowym w żegludze międzynarodowej ustala się stanowiska:
+#### Rozdział 1 Dział pokładowy w żegludze międzynarodowej
 
-#### Rozdział 2 Dział pokładowy w żegludze przybrzeżnej § 37. W dziale pokładowym w żegludze przybrzeżnej ustala się stanowiska:
+#### Rozdział 2 Dział pokładowy w żegludze przybrzeżnej
 
-#### Rozdział 3 Dział pokładowy w żegludze krajowej § 42. W dziale pokładowym w żegludze krajowej ustala się stanowiska:
+#### Rozdział 3 Dział pokładowy w żegludze krajowej
 
-#### Rozdział 4 Dział maszynowy w żegludze międzynarodowej § 47. 1. W dziale maszynowym w specjalności mechanicznej ustala się stanowiska:
+#### Rozdział 4 Dział maszynowy w żegludze międzynarodowej
 
-#### Rozdział 5 Dział maszynowy w żegludze krajowej § 56. W dziale maszynowym w żegludze krajowej ustala się stanowisko oficera mechanika w żegludze krajowej, dla którego ustala się dyplom oficera mechanika w żegludze krajowej. Wzór dyplomu oficera mechanika w żegludze krajowej określa załącznik nr 13 do rozporządzenia.
+#### Rozdział 5 Dział maszynowy w żegludze krajowej
 
-### DZIAŁ IV Kwalifikacje zawodowe w rybołówstwie morskim § 59. Na statkach rybackich w dziale pokładowym ustala się stanowiska:
+### DZIAŁ IV Kwalifikacje zawodowe w rybołówstwie morskim
 
 ### DZIAŁ V Świadectwa dodatkowych przeszkoleń i warunki ich odnawiania
 
-#### Rozdział 1 Przeszkolenia w zakresie bezpieczeństwa i ochrony § 68. Każdy członek załogi statku morskiego jest obowiązany odbyć przeszkolenie zapoznawcze na statku w zakresie bezpieczeństwa obejmujące zagadnienia związane z ochroną statku, procedurami w sytuacji zagrożenia, ochroną przeciwpożarową, oznakowaniem dróg ewakuacyjnych i sygnałów alarmowych, bezpieczeństwem i higieną pracy, wyposażeniem ratunkowym.
+#### Rozdział 1 Przeszkolenia w zakresie bezpieczeństwa i ochrony
 
-#### Rozdział 2 Dodatkowe przeszkolenia specjalistyczne § 82. 1. Na statkach przewożących ładunki niebezpieczne każdy członek załogi odpowiedzialny za operacje przeładunkowe jest obowiązany posiadać świadectwo przeszkolenia w zakresie przewozu ładunków niebezpiecznych.
+#### Rozdział 2 Dodatkowe przeszkolenia specjalistyczne
 
-### DZIAŁ VI Sposób zaliczania praktyki pływania na poszczególnych typach statków, okresy ważności i warunki odnawiania świadectw i dyplomów, sposób ewidencji dokumentów kwalifikacyjnych § 93. 1. Dowodem odbycia wymaganej praktyki pływania jest wpis w książeczce żeglarskiej.
+### DZIAŁ VI Sposób zaliczania praktyki pływania na poszczególnych typach statków, okresy ważności i warunki odnawiania świadectw i dyplomów, sposób ewidencji dokumentów kwalifikacyjnych
 
-### DZIAŁ VII Przepisy przejściowe i końcowe § 98. 1. Dyplomy wydane na podstawie rozporządzenia Ministra Kierownika Urzędu Gospodarki Morskiej z dnia 17 sierpnia 1983 r. w sprawie kwalifikacji zawodowych członków załóg polskich statków morskich (Dz. U. poz. 232 oraz z 1987 r. poz. 70), na wniosek zainteresowanego, podlegają wymianie na odpowiednie dokumenty kwalifikacyjne określone w rozporządzeniu, z zastrzeżeniem ust. 3–7:
+### DZIAŁ VII Przepisy przejściowe i końcowe
 

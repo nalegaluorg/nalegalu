@@ -8,12 +8,10 @@ pos: 574
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia sprawie zakresie wykorzystania elektronicznych stetoskopów opieki świadczeniobiorców zakażonych wirusem SARS-CoV-2
-
-*OBWIESZCZENIE MINISTRA ZDROWIA dnia 8 marca 2023 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 574 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 8 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,55 +25,85 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000574) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/574/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia dnia 31 stycznia 2022 r. sprawie zakresie wykorzystania elektronicznych stetoskopów opieki świadczeniobiorców zakażonych wirusem SARS-CoV-2 (Dz. U. poz. 257), uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia dnia 6 maja 2022 r. zmieniającym rozporządzenie sprawie zakresie wykorzystania elektronicznych stetoskopów opieki świadczeniobiorców zakażonych wirusem SARS-CoV-2 (Dz. U. poz. 1008).
-Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje i 3 rozporządzenia Ministra Zdrowia dnia 6 maja 2022 r. zmieniającego rozporządzenie sprawie zakresie wykorzystania elektronicznych stetoskopów opieki świadczeniobiorców zakażonych wirusem SARS-CoV-2 (Dz. U. poz. 1008), które stanowią: „§ Umowy, których mowa 11 ust. 4 rozporządzenia zmienianego 1, zawarte przed dniem wejścia życie niniejszego są realizowane dotychczasowych zasadach albo za zgodą realizatora programu są zmieniane zakresie przedmiotu umowy i zadań realizatora zgodnie 3 i 4 rozporządzenia zmienianego 1, nadanym niniejszym rozporządzeniem.
-3. Rozporządzenie wchodzi życie dniem następującym dniu ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski opieki świadczeniobiorców zakażonych wirusem SARS-CoV-2 Na podstawie art. 48e ust. 5 ustawy dnia 27 sierpnia 2004 r. świadczeniach opieki finansowanych ze środków publicznych (Dz. U. 2022 r. poz. 2561, 2674 i 2770) zarządza się, co następuje:
-1. Rozporządzenie określa program pilotażowy zakresie wykorzystania elektronicznych stetoskopów podstawowej opiece zdrowotnej, zwany dalej „programem pilotażowym”.
-Użyte rozporządzeniu określenia oznaczają: elektroniczny stetoskop urządzenie umożliwiające ocenę dźwięków serca i płuc przekształcenie odbieranego dźwięku akustycznego sygnały elektroniczne, wzmacniane, przetwarzane, digitalizowane i następnie zapisywane nośniku cyfrowym umożliwiającym wizualizację, analizę i transmisję sygnału;
-platforma DOM platformę cyfrową administrowaną ministra właściwego do spraw zdrowia umożliwiającą przekazywanie realizatora pilotażowego, zwanego dalej „realizatorem”, danych niezbędnych do ewaluacji pilotażowego;
-3) teleporada świadczenie opieki udzielane odległość przy użyciu systemów teleinformatycznych lub systemów łączności;
-4) program Pulsocare program Domowej Opieki Medycznej mający celu zdalne monitorowanie stanu zdrowia pacjentów wykorzystaniem pulsoksymetru jako narzędzia diagnostycznego oraz aplikacji DOM służącej do przekazywania i monitoringu danych.
-3. Celem jest ocena efektywności realizacji świadczeń opieki wykorzystaniem elektronicznego jako narzędzia umożliwiającego ocenę zmian osłuchowych układzie oddechowym pacjentów zakażonych wirusem SARS-CoV-2, ryzykiem ciężkiego przebiegu choroby COVID-19, lub pacjentów przebytym zakażeniu wirusem SARS-CoV-2, wymagających dalszej opieki i diagnostyki układu oddechowego opieki zdrowotnej.
-4. 1. Świadczenia opieki są udzielane świadczeniobiorcy rozumieniu art. ust. ustawy dnia 27 sierpnia 2004 r. świadczeniach opieki finansowanych ze środków publicznych, który ukończył 18. rok życia: zakażonemu wirusem SARS-CoV-2, ryzykiem ciężkiego przebiegu choroby COVID-19, lub przebytym zakażeniu wirusem SARS-CoV-2, wymagającemu dalszej opieki i diagnostyki układu oddechowego opieki ‒ który został poinformowany realizatora zakresie i zasadach realizacji świadczeń opieki przewidzianych programie pilotażowym i który wyraził zgodę udział programie pilotażowym, zwanemu dalej „świadczeniobiorcą”.
-Ryzyko ciężkiego przebiegu choroby COVID-19, mowa ust. 1, wynika ze zdiagnozowania u świadczeniobiorcy jednej poniższych chorób: choroby nowotworowej;
-zakwalifikowany lekarza, mowa ust. 3.
-5. Realizatorem może być świadczeniodawca, który: realizuje umowę udzielanie świadczeń opieki rodzaju podstawowa opieka zdrowotna;
-zapewnia możliwość wykorzystania realizacji elektronicznego liczbie od 10 do 50 sztuk;
-3) zapewnia zainstalowanie i poprawne wykorzystanie przeglądarki internetowej Chrome od wersji 80.x, Edge od wersji 80.x lub Firefox od wersji 72.x oraz minimalną szybkość transmisji danych poziomie Mb/s.
-6. 1. Realizacja świadczenia opieki lekarza, mowa 4 ust. 3, obejmuje: niezwłoczne zapoznanie się wynikiem odsłuchu przeprowadzonego użyciem elektronicznego stetoskopu, zamieszczonego platformie DOM;
-sporządzenie opisu odsłuchu przeprowadzonego użyciem elektronicznego oraz jego zamieszczenie platformie DOM;
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego w zakresie wykorzystania elektronicznych stetoskopów w ramach podstawowej opieki zdrowotnej przez świadczeniobiorców zakażonych wirusem SARS-CoV-2
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 31 stycznia 2022 r. w sprawie programu pilotażowego w zakresie wykorzystania elektronicznych stetoskopów w ramach podstawowej opieki zdrowotnej przez świadczeniobiorców zakażonych wirusem SARS-CoV-2 (Dz. U. poz. 257), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 6 maja 2022 r. zmieniającym rozporządzenie w sprawie programu pilotażowego w zakresie wykorzystania elektronicznych stetoskopów w ramach podstawowej opieki zdrowotnej przez świadczeniobiorców zakażonych wirusem SARS-CoV-2 (Dz. U. poz. 1008).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 6 maja 2022 r. zmieniającego rozporządzenie w sprawie programu pilotażowego w zakresie wykorzystania elektronicznych stetoskopów w ramach podstawowej opieki zdrowotnej przez świadczeniobiorców zakażonych wirusem SARS-CoV-2 (Dz. U. poz. 1008), które stanowią: „§ 2. Umowy, o których mowa w § 11 ust. 4 rozporządzenia zmienianego w § 1, zawarte przed dniem wejścia w życie niniejszego rozporządzenia, są realizowane na dotychczasowych zasadach albo za zgodą realizatora programu pilotażowego są zmieniane w zakresie przedmiotu umowy i zadań realizatora programu pilotażowego zgodnie z § 3 i § 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
+Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 31 stycznia 2022 r.
+w sprawie programu pilotażowego w zakresie wykorzystania elektronicznych stetoskopów w ramach podstawowej opieki zdrowotnej przez świadczeniobiorców zakażonych wirusem SARS-CoV-2 Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770) zarządza się, co następuje:
+§ 1. Rozporządzenie określa program pilotażowy w zakresie wykorzystania elektronicznych stetoskopów w podstawowej opiece zdrowotnej, zwany dalej „programem pilotażowym”.
+§ 2. Użyte w rozporządzeniu określenia oznaczają:
+1) elektroniczny stetoskop – urządzenie umożliwiające ocenę dźwięków serca i płuc przez przekształcenie odbieranego dźwięku akustycznego na sygnały elektroniczne, wzmacniane, przetwarzane, digitalizowane i następnie zapisywane na nośniku cyfrowym umożliwiającym wizualizację, analizę i transmisję sygnału;
+2) platforma DOM – platformę cyfrową administrowaną przez ministra właściwego do spraw zdrowia umożliwiającą przekazywanie przez realizatora programu pilotażowego, zwanego dalej „realizatorem”, danych niezbędnych do ewaluacji programu pilotażowego;
+3) teleporada – świadczenie podstawowej opieki zdrowotnej udzielane na odległość przy użyciu systemów teleinformatycznych lub systemów łączności;
+4) program Pulsocare – program w ramach Domowej Opieki Medycznej mający na celu zdalne monitorowanie stanu zdrowia pacjentów z wykorzystaniem pulsoksymetru jako narzędzia diagnostycznego oraz aplikacji DOM służącej do przekazywania i monitoringu danych.
+§ 3. Celem programu pilotażowego jest ocena efektywności realizacji świadczeń opieki zdrowotnej z wykorzystaniem elektronicznego stetoskopu jako narzędzia umożliwiającego ocenę zmian osłuchowych w układzie oddechowym pacjentów zakażonych wirusem SARS-CoV-2, z ryzykiem ciężkiego przebiegu choroby COVID-19, lub pacjentów po przebytym zakażeniu wirusem SARS-CoV-2, wymagających dalszej opieki i diagnostyki układu oddechowego w ramach podstawowej opieki zdrowotnej.
+§ 4. 1. Świadczenia opieki zdrowotnej w ramach programu pilotażowego są udzielane świadczeniobiorcy w rozumieniu art. 2 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, który ukończył 18. rok życia:
+1) zakażonemu wirusem SARS-CoV-2, z ryzykiem ciężkiego przebiegu choroby COVID-19, lub
+2) po przebytym zakażeniu wirusem SARS-CoV-2, wymagającemu dalszej opieki i diagnostyki układu oddechowego w ramach podstawowej opieki zdrowotnej ‒ który został poinformowany przez realizatora o zakresie i zasadach realizacji świadczeń opieki zdrowotnej przewidzianych w programie pilotażowym i który wyraził zgodę na udział w programie pilotażowym, zwanemu dalej „świadczeniobiorcą”.
+2. Ryzyko ciężkiego przebiegu choroby COVID-19, o którym mowa w ust. 1, wynika ze zdiagnozowania u świadczeniobiorcy jednej z poniższych chorób:
+1) choroby nowotworowej;
+2) wrodzonego lub nabytego zaburzenia odporności;
+3) przewlekłej choroby układu oddechowego;
+4) wielochorobowości, rozumianej jako stan współistnienia co najmniej dwóch chorób przewlekłych;
+5) otyłości.
+3. Kwalifikacji świadczeniobiorcy do programu pilotażowego dokonuje lekarz podstawowej opieki zdrowotnej na podstawie kryteriów określonych w ust. 1 i 2.
+4. Świadczeniobiorca, o którym mowa w ust. 1 pkt 1, który nie jest objęty programem Pulsocare, zostaje do niego zakwalifikowany przez lekarza, o którym mowa w ust. 3.
+§ 5. Realizatorem może być świadczeniodawca, który:
+1) realizuje umowę o udzielanie świadczeń opieki zdrowotnej w rodzaju podstawowa opieka zdrowotna;
+2) zapewnia możliwość wykorzystania w ramach realizacji programu pilotażowego stetoskopu elektronicznego w liczbie od 10 do 50 sztuk;
+3) zapewnia zainstalowanie i poprawne wykorzystanie przeglądarki internetowej Chrome od wersji 80.x, Edge od wersji 80.x lub Firefox od wersji 72.x oraz minimalną szybkość transmisji danych na poziomie 2 Mb/s.
+§ 6. 1. Realizacja świadczenia opieki zdrowotnej w ramach programu pilotażowego przez lekarza, o którym mowa w § 4 ust. 3, obejmuje:
+1) niezwłoczne zapoznanie się z wynikiem odsłuchu przeprowadzonego z użyciem elektronicznego stetoskopu, zamieszczonego na platformie DOM;
+2) sporządzenie opisu odsłuchu przeprowadzonego z użyciem elektronicznego stetoskopu oraz jego zamieszczenie na platformie DOM;
 3) wypełnienie za pośrednictwem platformy DOM ankiet dotyczących udzielonego świadczenia.
-Czas udziału świadczeniobiorcy programie oraz częstotliwość przeprowadzania badań, nie mniejszą niż minimum dwa badania tygodniu, określa lekarz opieki sprawujący opiekę nad świadczeniobiorcą.
-7. 1. Okres realizacji obejmuje: etap organizacji pilotażowego, który trwa do miesięcy od dnia wejścia życie rozporządzenia;
-etap realizacji pilotażowego, który trwa 6 miesięcy od dnia zakończenia etapu organizacji pilotażowego;
-3) etap ewaluacji pilotażowego, który trwa miesiące od dnia zakończenia etapu realizacji pilotażowego.
-Etap organizacji obejmuje: dokonanie ministra właściwego do spraw zdrowia, zwanego dalej „ministrem”, zakupu elektronicznych stetoskopów potrzeby realizacji pilotażowego;
-wdrożenie ministra funkcjonalności platformy DOM umożliwiającej realizację pilotażowego;
-3) przeprowadzenie ministra akcji promocyjnej dotyczącej wykorzystania elektronicznych stetoskopów udzielanych świadczeń opieki zdrowotnej;
-4) ogłoszenie ministra naboru i wybór realizatorów.
-3. Etap realizacji obejmuje: realizację wybranych realizatorów świadczeń opieki zakresu opieki przy wykorzystaniu elektronicznych stetoskopów;
-monitorowanie ministra realizacji pilotażowego;
-opieki (Dz. U. 2022 r. poz. 1194).
-Sposób realizacji obejmuje wykonanie następujących czynności: przekazanie ministra realizatorom elektronicznych stetoskopów;
-udostępnienie świadczeniobiorcom realizatorów elektronicznych stetoskopów;
-3) realizację świadczeń opieki zakresu opieki zakresie oceny zmian osłuchowych układzie oddechowym przy użyciu elektronicznego stetoskopu;
-4) wypełnianie zamieszczonych platformie DOM ankiet, świadczeniobiorców i lekarzy sprawujących opiekę nad świadczeniobiorcą, niezwłocznie zakończeniu każdego zrealizowanego świadczenia opieki wykorzystaniem elektronicznego stetoskopu.
-9. 1. Programem pilotażowym jest objętych nie mniej niż 3000 świadczeniobiorców, których mowa 4 ust. i Świadczenia opieki są udzielane realizatora wybranego świadczeniobiorcę sposób określony art. 9 ustawy dnia 27 października 2017 r. opiece (Dz. U. 2022 r. poz. 2527).
-10. 1. Rozliczanie świadczeń opieki realizowanych jest dokonywane podstawie umów udzielanie świadczeń opieki zakresu opieki zawartych realizatorów Narodowym Funduszem Zdrowia warunkach określonych tych umowach.
-Rozliczanie świadczeń, których mowa ust. 1, polegających przeprowadzeniu jednego badania wykorzystaniem elektronicznego odbywa się wykorzystaniem dodatkowej jednostki rozliczeniowej, której cena jednostkowa wynosi 100 zł brutto.
-3. Należność wykorzystaniem dodatkowej jednostki rozliczeniowej, której mowa ust. 2, jest ustalana i rozliczana podstawie umów, których mowa 11 ust. 4.
-11. 1. Realizatorzy zostają wyłonieni drodze otwartego naboru przeprowadzanego ministra.
-Informacja rozpoczęciu naboru zostanie umieszczona stronie internetowej urzędu obsługującego ministra.
-3. Nabór jest prowadzony uwzględnieniem kolejności zgłoszeń, do wyczerpania liczby elektronicznych stetoskopów przeznaczonych do wykorzystania realizacji pilotażowego, dla wszystkich podmiotów, które spełniają warunki, których mowa 5.
-4. Minister, podstawie wyników naboru, zawiera wybranymi realizatorami umowy określające przedmiot umowy, zadania realizatora i termin realizacji przedmiotu umowy.
-12. 1. Wskaźnikami realizacji są: liczba świadczeniobiorców objętych programem pilotażowym;
-liczba realizatorów, którzy zrealizowali świadczenia opieki pilotażowego;
-3) liczba porad lub teleporad zakresie opieki udzielonych następstwie wykorzystania elektronicznych stetoskopów realizatorów;
-4) poziom satysfakcji świadczeniobiorców udzielonych świadczeń opieki zdrowotnej;
-5) ocena wpływu realizacji świadczeń opieki przy wykorzystaniu elektronicznego poprawę upływie trzech miesięcy od rozpoczęcia realizacji projektu pilotażowego;
-zakończeniu realizacji projektu pilotażowego.
-4. Minister przekazuje środki realizatorowi terminie 30 dni od dnia otrzymania prawidłowo sporządzonego oraz zweryfikowanego i zaakceptowanego ministra rozliczenia.
-15. Podmiotem obowiązanym do wdrożenia, monitorowania i ewaluacji jest minister.
-16. Rozporządzenie wchodzi życie dniem następującym dniu ogłoszenia .
+2. Czas udziału świadczeniobiorcy w programie oraz częstotliwość przeprowadzania badań, nie mniejszą niż minimum dwa badania w tygodniu, określa lekarz podstawowej opieki zdrowotnej sprawujący opiekę nad świadczeniobiorcą.
+§ 7. 1. Okres realizacji programu pilotażowego obejmuje:
+1) etap organizacji programu pilotażowego, który trwa do 2 miesięcy od dnia wejścia w życie rozporządzenia;
+2) etap realizacji programu pilotażowego, który trwa 6 miesięcy od dnia zakończenia etapu organizacji programu pilotażowego;
+3) etap ewaluacji programu pilotażowego, który trwa 2 miesiące od dnia zakończenia etapu realizacji programu pilotażowego.
+2. Etap organizacji programu pilotażowego obejmuje:
+1) dokonanie przez ministra właściwego do spraw zdrowia, zwanego dalej „ministrem”, zakupu elektronicznych stetoskopów na potrzeby realizacji programu pilotażowego;
+2) wdrożenie przez ministra funkcjonalności platformy DOM umożliwiającej realizację programu pilotażowego;
+3) przeprowadzenie przez ministra akcji promocyjnej dotyczącej wykorzystania elektronicznych stetoskopów w ramach udzielanych świadczeń opieki zdrowotnej;
+4) ogłoszenie przez ministra naboru i wybór realizatorów.
+3. Etap realizacji programu pilotażowego obejmuje:
+1) realizację przez wybranych realizatorów świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej przy wykorzystaniu elektronicznych stetoskopów;
+2) monitorowanie przez ministra realizacji programu pilotażowego;
+3) gromadzenie danych służących do wyliczenia wskaźników, o których mowa w § 12.
+4. Etap ewaluacji programu pilotażowego obejmuje:
+1) analizę wskaźników, o których mowa w § 12;
+2) sporządzenie przez ministra sprawozdania z realizacji programu pilotażowego na podstawie wskaźników, o których mowa w § 12, umożliwiającego dokonanie oceny programu.
+§ 8. 1. Program pilotażowy jest realizowany zgodnie z warunkami organizacji i realizacji świadczeń opieki zdrowotnej określonymi w rozporządzeniu Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. z 2021 r. poz. 540, z 2022 r. 834, 1293, 1355 i 1965 oraz z 2023 r.
+poz. 38) i rozporządzeniu Ministra Zdrowia z dnia 12 sierpnia 2020 r. w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. z 2022 r. poz. 1194).
+2. Sposób realizacji programu pilotażowego obejmuje wykonanie następujących czynności:
+1) przekazanie przez ministra realizatorom elektronicznych stetoskopów;
+2) udostępnienie świadczeniobiorcom przez realizatorów elektronicznych stetoskopów;
+3) realizację świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej w zakresie oceny zmian osłuchowych w układzie oddechowym przy użyciu elektronicznego stetoskopu;
+4) wypełnianie zamieszczonych na platformie DOM ankiet, przez świadczeniobiorców i lekarzy sprawujących opiekę nad świadczeniobiorcą, niezwłocznie po zakończeniu każdego zrealizowanego świadczenia opieki zdrowotnej z wykorzystaniem elektronicznego stetoskopu.
+§ 9. 1. Programem pilotażowym jest objętych nie mniej niż 3000 świadczeniobiorców, o których mowa w § 4 ust. 1 i 2.
+2. Świadczenia opieki zdrowotnej w ramach programu pilotażowego są udzielane przez realizatora wybranego przez świadczeniobiorcę w sposób określony w art. 9 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz. 2527).
+§ 10. 1. Rozliczanie świadczeń opieki zdrowotnej realizowanych w ramach programu pilotażowego jest dokonywane na podstawie umów o udzielanie świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej zawartych przez realizatorów z Narodowym Funduszem Zdrowia na warunkach określonych w tych umowach.
+2. Rozliczanie świadczeń, o których mowa w ust. 1, polegających na przeprowadzeniu jednego badania z wykorzystaniem elektronicznego stetoskopu odbywa się z wykorzystaniem dodatkowej jednostki rozliczeniowej, której cena jednostkowa wynosi 100 zł brutto.
+3. Należność z wykorzystaniem dodatkowej jednostki rozliczeniowej, o której mowa w ust. 2, jest ustalana i rozliczana na podstawie umów, o których mowa w § 11 ust. 4.
+§ 11. 1. Realizatorzy zostają wyłonieni w drodze otwartego naboru przeprowadzanego przez ministra.
+2. Informacja o rozpoczęciu naboru zostanie umieszczona na stronie internetowej urzędu obsługującego ministra.
+3. Nabór jest prowadzony z uwzględnieniem kolejności zgłoszeń, do wyczerpania liczby elektronicznych stetoskopów przeznaczonych do wykorzystania w ramach realizacji programu pilotażowego, dla wszystkich podmiotów, które spełniają warunki, o których mowa w § 5.
+4. Minister, na podstawie wyników naboru, zawiera z wybranymi realizatorami umowy określające przedmiot umowy, zadania realizatora i termin realizacji przedmiotu umowy.
+§ 12. 1. Wskaźnikami realizacji programu pilotażowego są:
+1) liczba świadczeniobiorców objętych programem pilotażowym;
+2) liczba realizatorów, którzy zrealizowali świadczenia opieki zdrowotnej w ramach programu pilotażowego;
+3) liczba porad lub teleporad w zakresie podstawowej opieki zdrowotnej udzielonych w następstwie wykorzystania elektronicznych stetoskopów przez realizatorów;
+4) poziom satysfakcji świadczeniobiorców z udzielonych świadczeń opieki zdrowotnej;
+5) ocena wpływu realizacji świadczeń opieki zdrowotnej przy wykorzystaniu elektronicznego stetoskopu na poprawę opieki przedszpitalnej nad świadczeniobiorcami zakażonymi wirusem SARS-CoV-2.
+2. Pomiar wskaźników realizacji programu pilotażowego, o których mowa w ust. 1, jest dokonywany przez ministra na podstawie danych zamieszczonych na platformie DOM oraz ankiet wypełnianych przez świadczeniobiorców oraz lekarzy podstawowej opieki zdrowotnej sprawujących opiekę nad świadczeniobiorcą.
+§ 13. Ocena wyników programu pilotażowego jest dokonywana przez ministra na podstawie sprawozdania, o którym mowa w § 7 ust. 4 pkt 2.
+§ 14. 1. Podmiotem obowiązanym do finansowania w zakresie dodatkowych jednostek rozliczeniowych, o których mowa w § 10 ust. 2, jest minister.
+2. Podstawę przekazania środków wskazanych w § 10 ust. 2 stanowi rozliczenie, o którym mowa w ust. 3, określające liczbę opisanych badań, złożone przez realizatora.
+3. Rozliczenie realizator składa:
+1) po upływie trzech miesięcy od rozpoczęcia realizacji projektu w ramach programu pilotażowego;
+2) po zakończeniu realizacji projektu w ramach programu pilotażowego.
+4. Minister przekazuje środki realizatorowi w terminie 30 dni od dnia otrzymania prawidłowo sporządzonego oraz zweryfikowanego i zaakceptowanego przez ministra rozliczenia.
+§ 15. Podmiotem obowiązanym do wdrożenia, monitorowania i ewaluacji programu pilotażowego jest minister.
+§ 16. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

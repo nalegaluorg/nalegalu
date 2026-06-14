@@ -8,10 +8,10 @@ pos: 413
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 marca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 413 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 26 marca 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000413) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/413/text.pdf) |
 
-Poz. 413 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 26 marca 2013 r.
 w sprawie szczegółowych warunków realizacji rządowego programu wspierania osób uprawnionych do świadczenia pielęgnacyjnego Na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182 oraz z 2012 r.
-poz. 1544 i 1548) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki udzielania pomocy finansowej, realizowanej w ramach rządowego programu wspierania osób uprawnionych do świadczenia pielęgnacyjnego, zwanej dalej „pomocą”.
+poz. 1544 i 1548) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe warunki udzielania pomocy finansowej, realizowanej w ramach rządowego programu wspierania osób uprawnionych do świadczenia pielęgnacyjnego, zwanej dalej „pomocą”.
 § 2. 1. Prawo do pomocy przysługuje osobom mającym ustalone za miesiąc kwiecień, maj, czerwiec, lipiec, sierpień, wrzesień, październik, listopad lub grudzień 2013 r. prawo do świadczenia pielęgnacyjnego przyznane na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm. ), zwanej dalej „ustawą”, spełniającym warunki określone w art. 17 ustawy.
 2. Pomoc przysługuje w wysokości 200 zł miesięcznie.
 3. Pomoc jest przyznawana niezależnie od dochodu.

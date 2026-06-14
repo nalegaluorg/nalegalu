@@ -8,7 +8,7 @@ pos: 1353
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o podatku tonażowym
@@ -34,6 +34,28 @@ Art. 14–18. (pominięte)
 **Art. 1.** Ustawa reguluje opodatkowanie podatkiem tonażowym niektórych dochodów (przychodów) osiąganych przez przedsiębiorców żeglugowych eksploatujących morskie statki handlowe w żegludze międzynarodowej.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** konwencji SOLAS – rozumie się przez to Międzynarodową konwencję o bezpieczeństwie życia na morzu, 1974, sporządzoną w Londynie dnia 1 listopada 1974 r. wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. oraz Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2016 r. poz. 869 oraz z 2017 r. poz. 142);
+- **2)** Dokumencie Zgodności – rozumie się przez to dokument wydany zgodnie z konwencją SOLAS przedsiębiorcy żeglugowemu, który spełnia wymagania Międzynarodowego kodeksu zarządzania bezpieczną eksploatacją statków i zapobieganiem zanieczyszczaniu (Kodeks ISM), określonego w rozdziale IX konwencji SOLAS;
+- **3)** przedsiębiorcy żeglugowym – rozumie się przez to:
+    - **a)** osobę fizyczną, osobę prawną i spółkę, o której mowa w art. 1 ust. 3 pkt 1 i 1a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm. ), mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, która spełnia przynajmniej jeden z warunków: – we własnym imieniu uprawia żeglugę statkiem własnym lub cudzym oraz posiada ważny Dokument Zgodności, – jest właścicielem statku, ale nie uprawia równocześnie we własnym imieniu żeglugi statkiem własnym lub cudzym, – zarządza cudzym statkiem, w cudzym imieniu i na cudzą rzecz na podstawie umowy, oraz posiada ważny Dokument Zgodności,
+    - **b)** wspólnika spółki cywilnej i spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, która spełnia przynajmniej jeden z warunków: – we własnym imieniu uprawia żeglugę statkiem własnym lub cudzym oraz posiada ważny Dokument Zgodności, – jest właścicielem statku, ale nie uprawia równocześnie we własnym imieniu żeglugi statkiem własnym lub cudzym, – zarządza cudzym statkiem, w cudzym imieniu i na cudzą rzecz na podstawie umowy, oraz posiada ważny Dokument Zgodności,
+    - **c)** przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1252 i 2255) prowadzącego na terytorium Rzeczypospolitej Polskiej działalność, o której mowa w art. 3 ust. 1 i 2, który spełnia przynajmniej jeden z warunków: – we własnym imieniu uprawia żeglugę statkiem własnym lub cudzym oraz posiada ważny Dokument Zgodności, – jest właścicielem statku, ale nie uprawia równocześnie we własnym imieniu żeglugi statkiem własnym lub cudzym, – zarządza cudzym statkiem, w cudzym imieniu i na cudzą rzecz na podstawie umowy, oraz posiada ważny Dokument Zgodności;
+
+- **4)** żegludze międzynarodowej – rozumie się przez to żeglugę morską wykonywaną między:
+    - **a)** portami polskimi a portami zagranicznymi, w tym także między portami polskimi, pod warunkiem że żegluga między portami polskimi jest częścią podróży morskiej do portu zagranicznego, lub
+    - **b)** portami polskimi a miejscami przeznaczenia położonymi poza granicą polskiego morza terytorialnego,
+    - **c)** portami zagranicznymi;
+
+- **5)** statku – rozumie się przez to morski statek handlowy o polskiej przynależności;
+- **6)** transporcie multimodalnym – rozumie się przez to przewozy dokonywane na podstawie jednego dokumentu przewozowego różnymi środkami transportu, w tym statkiem;
+- **7)** okresie eksploatacji statku – rozumie się przez to okres, w którym statek jest wpisany do polskiego rejestru okrętowego;
+- **8)** pojemności netto (NT) albo pojemności brutto (GT) – rozumie się przez to odpowiednio pojemność netto (NT) albo pojemność brutto (GT) statku ustaloną w międzynarodowym świadectwie pomiarowym;
+- **9)** okresie opodatkowania – rozumie się przez to okres opodatkowania podatkiem tonażowym;
+- **10)** zarządzaniu cudzym statkiem – rozumie się przez to zarządzanie techniczne polegające na zapewnieniu statkowi zdatności do żeglugi i zgodności z wymaganiami technicznymi, dotyczącymi bezpieczeństwa i ochrony oraz zarządzanie załogą polegające na zapewnieniu obsady statku załogą o właściwych kwalifikacjach i wymaganym składzie, oraz prowadzeniu wszystkich spraw związanych z załogą, w szczególności: przygotowaniu listy płac, zapewnieniu członkom załogi ochrony ubezpieczeniowej od następstw nieszczęśliwych wypadków i na wypadek inwalidztwa, organizowaniu podróży na statek i ze statku, zapewnieniu wymaganych wiz, możliwości korzystania z usług opieki medycznej oraz dokonywaniu oceny pracy członków załogi i ich szkolenia;
+- **11)** przedsiębiorstwie w spadku – rozumie się przez to przedsiębiorstwo w spadku, o którym mowa w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), zwanej dalej „ustawą o zarządzie sukcesyjnym”;
+- **12)** zarządzie sukcesyjnym – rozumie się przez to zarząd sukcesyjny w rozumieniu ustawy o zarządzie sukcesyjnym;
+- **13)** zmarłym przedsiębiorcy – rozumie się przez to zmarłego przedsiębiorcę, o którym mowa w art. 1 pkt 1 ustawy o zarządzie sukcesyjnym.
 
 **Art. 3.**
 
@@ -165,6 +187,9 @@ Art. 14–18. (pominięte)
 5. Przedsiębiorstwo w spadku jest obowiązane stosować odpowiednio przepisy ust. 1, 2 i 4.
 
 **Art. 13.** Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wzory:
+
+- **1)** zeznania, o którym mowa w art. 12 ust. 2,
+- **2)** oświadczenia – wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania, uwzględniając zakres informacji niezbędnych do prawidłowego ustalenia zobowiązania podatkowego.
 
 **Art. 13a.** Wyboru opodatkowania podatkiem tonażowym można dokonać w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności podatku tonażowego z rynkiem wewnętrznym.
 

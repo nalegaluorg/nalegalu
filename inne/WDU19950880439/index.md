@@ -8,7 +8,7 @@ pos: 439
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o statystyce publicznej
@@ -31,7 +31,52 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i podstawy rzetelnego, obiektywnego, profesjonalnego i niezależnego prowadzenia badań statystycznych, których wyniki mają charakter oficjalnych danych statystycznych;
+- **2)** organizację i tryb prowadzenia badań, o których mowa w pkt 1, oraz zakres związanych z nimi obowiązków;
+- **3)** zasady i podstawy prowadzenia:
+    - **a)** krajowego rejestru urzędowego podmiotów gospodarki narodowej,
+    - **b)** krajowego rejestru urzędowego podziału terytorialnego kraju.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** statystyka publiczna – system zbierania danych statystycznych, gromadzenia, przechowywania i opracowywania zebranych danych oraz ogłaszania, udostępniania i rozpowszechniania wyników badań statystycznych jako oficjalnych danych statystycznych;
+- **1a)** dane statystyczne – dane dotyczące zjawisk, zdarzeń, obiektów i działalności podmiotów gospodarki narodowej oraz życia i sytuacji osób fizycznych, w tym dane osobowe, pozyskane bezpośrednio od respondentów albo z systemów informacyjnych administracji publicznej, rejestrów urzędowych lub niepublicznych systemów informacyjnych, od momentu ich zebrania na potrzeby wykonywania zadań statystyki publicznej;
+- **2)** badania statystyczne – zbieranie, gromadzenie i opracowywanie danych statystycznych oraz ogłaszanie i udostępnianie wyników dokonanych obliczeń, opracowań i analiz, w tym podstawowych wielkości i wskaźników;
+- **3)** podstawowe wielkości i wskaźniki – wielkości i wskaźniki, do których ogłaszania Prezes Głównego Urzędu Statystycznego jest zobowiązany każdorazowo na podstawie odrębnych przepisów;
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** opracowywanie danych statystycznych – tworzenie zbiorów danych ze zgromadzonych danych statystycznych, z odłączeniem lub zakodowaniem informacji pozwalających na zidentyfikowanie konkretnego podmiotu gospodarki narodowej albo osoby fizycznej, a następnie dokonywanie na podstawie tych zbiorów obliczeń, opracowań i analiz;
+- **7)** program badań statystycznych statystyki publicznej – ustalony przez Radę Ministrów, w trybie określonym w rozdziale 2, szczegółowy zakres podmiotowy i przedmiotowy badań statystycznych;
+- **8)** operat do badań statystycznych – wykaz objętych badaniami statystycznymi podmiotów gospodarki narodowej, osób fizycznych oraz innych podmiotów podlegających obserwacji statystycznej uporządkowany według określonych cech, zawierający dane jednostkowe wraz z ich identyfikacją teleadresową;
+- **8a)** dane jednostkowe identyfikowalne – dane statystyczne zawierające informacje dotyczące konkretnego podmiotu gospodarki narodowej albo osoby fizycznej, identyfikujące bezpośrednio ten podmiot albo osobę według nazwy, imienia i nazwiska, adresu lub publicznie dostępnego numeru identyfikacyjnego oraz pozwalające na pośrednią identyfikację tego podmiotu albo osoby z użyciem innych środków niż środki pozwalające na bezpośrednią identyfikację, z wyłączeniem środków wymagających nadmiernych kosztów, czasu lub działań;
+- **8b)** dane jednostkowe nieidentyfikowalne – dane statystyczne zawierające informacje dotyczące konkretnego podmiotu gospodarki narodowej albo osoby fizycznej, niepozwalające na bezpośrednią ani pośrednią identyfikację tego podmiotu albo osoby;
+- **9)** dane jednostkowe – dane jednostkowe identyfikowalne i dane jednostkowe nieidentyfikowalne;
+- **10)** (uchylony)
+- **11)** podmiot gospodarki narodowej – osobę prawną, jednostkę organizacyjną niemającą osobowości prawnej oraz osobę fizyczną prowadzącą działalność gospodarczą;
+- **11a)** respondent – osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, przekazującą dane dla celów statystycznych;
+- **11b)** osoba fizyczna prowadząca działalność gospodarczą – osobę fizyczną będącą przedsiębiorcą w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480), osobę fizyczną prowadzącą indywidualne gospodarstwo rolne lub inną osobę fizyczną prowadzącą działalność na własny rachunek, z wyjątkiem prowadzenia indywidualnego gospodarstwa rolnego na własne potrzeby lub działalności polegającej na produkcji wyrobów lub świadczeniu usług na własne potrzeby;
+- **12)** rejestry urzędowe – rejestry publiczne w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717) oraz inne rejestry i ewidencje prowadzone na podstawie ustaw lub wydanych na ich podstawie aktów wykonawczych, zawierające informacje o podmiotach gospodarki narodowej i ich działalności, informacje o osobach fizycznych, ich życiu i sytuacji oraz dotyczące zjawisk, zdarzeń i obiektów;
+- **12a)** rejestr REGON – krajowy rejestr urzędowy podmiotów gospodarki narodowej;
+- **12b)** rejestr TERYT – krajowy rejestr urzędowy podziału terytorialnego kraju;
+- **12c)** numer identyfikacyjny REGON – numer identyfikacyjny podmiotu w rejestrze REGON;
+- **13)** systemy informacyjne administracji publicznej – systemy zbierania, gromadzenia i przetwarzania informacji przez organy administracji publicznej, Zakład Ubezpieczeń Społecznych, Narodowy Fundusz Zdrowia, Komisję Nadzoru Finansowego, organy rejestrowe, inne państwowe lub samorządowe osoby prawne oraz inne podmioty prowadzące rejestry urzędowe;
+- **13a)** dane administracyjne – informacje i dane zgromadzone w rejestrach i systemach, o których mowa w pkt 12 i 13;
+- **14)** standardy klasyfikacyjne – hierarchicznie usystematyzowane podziały lub zbiory:
+    - **a)** działalności wykonywanej przez podmioty gospodarki narodowej,
+    - **b)** wyrobów i usług występujących w obrocie gospodarczym,
+    - **c)** obiektów budowlanych,
+    - **d)** obiektów majątku trwałego;
+
+- **15)** niepubliczne systemy informacyjne – systemy zbierania, gromadzenia i przetwarzania informacji prowadzone przez podmioty inne niż organy i podmioty, o których mowa w pkt 13, w szczególności podmioty wykonujące działalność w zakresie:
+    - **a)** sprzedaży lub dostawy energii elektrycznej,
+    - **b)** zbiorowego odprowadzania ścieków i zbiorowego zaopatrzenia w wodę,
+    - **c)** przesyłu, dystrybucji i obrotu paliwami gazowymi,
+    - **d)** obrotu, przesyłu i wytwarzania energii cieplnej,
+    - **e)** dostarczania publicznie dostępnych usług telekomunikacyjnych,
+    - **f)** ubezpieczeń,
+    - **g)** transportu i leasingu,
+    - **h)** zarządzania portami lotniczymi,
+    - **i)** zarządzania i administrowania nieruchomościami.
 
 **Art. 3.** Statystyka publiczna zapewnia rzetelne, obiektywne i systematyczne informowanie społeczeństwa, organów państwa i administracji publicznej oraz podmiotów gospodarki narodowej o sytuacji ekonomicznej, demograficznej, społecznej oraz środowiska naturalnego.
 
@@ -635,6 +680,13 @@ source: "isap-pdf"
 
 **Art. 37.** Wynikowe informacje statystyczne są:
 
+- **1)** dostępne w ramach prowadzonej przez Prezesa Głównego Urzędu Statystycznego elektronicznej platformy udostępniania wynikowych informacji statystycznych i innych zasobów informacyjnych;
+- **2)** publikowane w wydawnictwach Głównego Urzędu Statystycznego i urzędów statystycznych oraz innych organów i podmiotów prowadzących badania statystyczne;
+- **3)** ogłaszane w dziennikach urzędowych, jeżeli przepis szczególny tak stanowi;
+- **4)** podawane do wiadomości w środkach masowego przekazu;
+- **5)** opracowywane i przekazywane na potrzeby Unii Europejskiej i organizacji międzynarodowych, w formie i trybie określonych w przepisach Unii Europejskiej dotyczących statystyk oraz wiążących Rzeczpospolitą Polską umowach międzynarodowych;
+- **6)** dostępne w innych formach niż wymienione w pkt 1–5.
+
 **Art. 38.**
 
 1. Nie mogą być publikowane ani udostępniane uzyskane w badaniach statystycznych dane jednostkowe identyfikowalne.
@@ -712,6 +764,9 @@ source: "isap-pdf"
 7. Rada Ministrów wprowadza, w drodze rozporządzenia, standardy klasyfikacyjne, wzajemne relacje między dotychczasowym i nowym albo zmienianym standardem klasyfikacyjnym oraz okres równoczesnego stosowania dotychczasowego i nowego albo zmienianego standardu klasyfikacyjnego, o których mowa w ust. 1, mając na uwadze zachowanie wymagań określonych w ust. 4–6.
 
 **Art. 40a.** W przypadku Polskiej Klasyfikacji Działalności (PKD) wzajemne relacje między dotychczasową i nową albo zmienianą klasyfikacją umożliwiają:
+
+- **1)** podmiotom wykonującym działalność gospodarczą dokonanie zmiany wpisu w Krajowym Rejestrze Sądowym albo w Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub rejestrze REGON w zakresie dotyczącym zmiany przedmiotu działalności według Polskiej Klasyfikacji Działalności (PKD) przed upływem okresu równoczesnego stosowania dotychczasowej i nowej albo zmienianej klasyfikacji;
+- **2)** automatyczne przeklasyfikowanie przedmiotu działalności według Polskiej Klasyfikacji Działalności (PKD) w Krajowym Rejestrze Sądowym oraz we wpisach w Centralnej Ewidencji i Informacji o Działalności Gospodarczej i w rejestrze REGON po upływie okresu równoczesnego stosowania dotychczasowej i nowej albo zmienianej klasyfikacji.
 
 **Art. 40b.**
 
@@ -1011,6 +1066,11 @@ source: "isap-pdf"
 
 **Art. 47k.** Wójt (burmistrz, prezydent miasta) przekazuje Prezesowi Głównego Urzędu Statystycznego na potrzeby prowadzenia i aktualizacji rejestru TERYT:
 
+- **1)** informacje o nadaniu i zmianie nazw ulic;
+- **2)** informacje o zmianach numeracji porządkowej budynków mieszkalnych i niemieszkalnych, jeżeli znajduje się w nich przynajmniej jedno mieszkanie;
+- **3)** informacje o nadaniu nowych numerów porządkowych dla nowo budowanych budynków mieszkalnych i niemieszkalnych, jeżeli znajduje się w nich przynajmniej jedno mieszkanie;
+- **4)** zestawienie danych dotyczących obszarów przekazywanych w związku z dokonaną zmianą w podziale terytorialnym kraju.
+
 **Art. 47l.** Organy jednostek samorządu terytorialnego, z wyłączeniem organów samorządu województwa, oraz powiatowi inspektorzy nadzoru budowlanego współdziałają z jednostkami służb statystyki publicznej przy wyjaśnianiu wątpliwości co do poprawności informacji gromadzonych w rejestrze TERYT w zakresie systemów, o których mowa w art. 47 ust. 2 pkt 2a–4, w przypadku gdy zwrócą się o to jednostki służb statystyki publicznej.>
 
 **Art. 48.**
@@ -1025,6 +1085,10 @@ source: "isap-pdf"
 - **2)** niezawierających danych adresowych – w zakresie uwzględniającym potrzeby danego rejestru lub systemu.>
 
 **Art. 49.** Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy zakres informacji gromadzonych w systemach wchodzących w skład rejestru TERYT,
+- **2)** sposób prowadzenia i aktualizacji systemów wchodzących w skład rejestru TERYT, w tym terminy i tryb przekazywania przez organy administracji publicznej informacji i zbiorów danych niezbędnych do aktualizacji tych systemów oraz szczegółowy zakres informacji i zbiorów danych przekazywanych przez poszczególne organy,
+- **3)** zakres standaryzacji nazw ulic ujętych w systemie identyfikatorów i nazw ulic – mając na uwadze konieczność zapewnienia kompletności danych zgromadzonych w rejestrze TERYT, jednoznacznej identyfikacji jednostek terytorialnych oraz jednolitego kodowania adresów występujących w rejestrach urzędowych i systemach informacyjnych administracji publicznej oraz uwzględniając sposób i kryteria zapisu nazw ulic, zgodność tych nazw z zasadami pisowni języka polskiego oraz wykaz cech dla nazw ulic ujętych w systemie.
 
 **Art. 49a.** W zakresie nieuregulowanym w niniejszej ustawie do ponownego wykorzystywania danych z krajowych rejestrów urzędowych stosuje się przepisy ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524).
 
@@ -1099,6 +1163,15 @@ source: "isap-pdf"
 2. Zarządzenia wydane na podstawie art. 17 ust. 2 ustawy, o której mowa w ust. 1, ustalające obowiązki sprawozdawcze zachowują moc do czasu wydania zarządzeń w wykonaniu programu badań statystycznych statystyki publicznej na rok 1996, ustalonego w trybie podanym w rozdziale 2 niniejszej ustawy, a w szczególnych przypadkach do czasu zastąpienia zbierania danych liczbowych na podstawie ustawy, o której mowa w ust. 1, innymi przepisami.
 
 **Art. 61.** Wprowadzone w trybie określonym ustawą powołaną w art. 60:
+
+- **1)** Europejska Klasyfikacja Działalności (EKD),
+- **2)** Polska Scalona Nomenklatura Towarowa Handlu Zagranicznego (PCN),
+- **3)** Systematyczny Wykaz Wyrobów (SWW),
+- **4)** Klasyfikacja Wyrobów i Usług (KWiU),
+- **5)** Klasyfikacja Rodzajowa Środków Trwałych (KRŚT),
+- **6)** Klasyfikacja Obiektów Budowlanych (KOB),
+- **7)** Klasyfikacja Zawodów (KZ),
+- **8)** Systematyka Form Prawno-Organizacyjnych (SFPO) – stają się standardami klasyfikacyjnymi w rozumieniu art. 40 ust. 1 ustawy.
 
 **Art. 62.**
 

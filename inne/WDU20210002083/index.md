@@ -8,10 +8,10 @@ pos: 2083
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 listopada 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2083 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 14 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002083) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2083/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 14 października 2021 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie świadectwa dopuszczenia pojazdu ADR
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 lutego 2012 r. w sprawie świadectwa dopuszczenia pojazdu ADR (Dz. U. z 2019 r. poz. 510), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 16 czerwca 2021 r. zmieniającym rozporządzenie w sprawie świadectwa dopuszczenia pojazdu ADR (Dz. U. poz. 1091).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 16 czerwca 2021 r. zmieniającego rozporządzenie w sprawie świadectwa dopuszczenia pojazdu ADR (Dz. U. poz. 1091), które stanowią: „§ 2. 1. Świadectwa dopuszczenia pojazdu ADR i ich wtórniki wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność.
@@ -34,7 +33,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Bu
 § 3. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.”.
 Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 15 lutego 2012 r.
 w sprawie świadectwa dopuszczenia pojazdu ADR Na podstawie art. 63 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2021 r.
-poz. 756) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 756) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe warunki, tryb wydawania i przedłużania ważności świadectwa dopuszczenia pojazdu ADR oraz wydawania jego wtórnika;
 2) wzór i sposób wypełniania świadectwa dopuszczenia pojazdu ADR;
 3) wysokość opłat za wydanie świadectwa dopuszczenia pojazdu ADR, przedłużenie jego ważności oraz wydanie jego wtórnika.
@@ -51,8 +51,8 @@ poz. 756) zarządza się, co następuje: § 1. Rozporządzenie określa:
 7) w przypadku pojazdów EX/III, dla których Dyrektor Transportowego Dozoru Technicznego będzie wydawał świadectwo dopuszczenia pojazdu ADR po raz pierwszy:
 a) wyciąg ze świadectwa homologacji typu pojazdu lub świadectwa homologacji typu WE pojazdu, lub świadectwa zgodności, lub świadectwa zgodności WE, jeżeli pojazd był homologowany na podstawie dyrektywy 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiającej ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów („dyrektywa ramowa”) (Dz. Urz. UE L 263 z 09.10.2007, str. 1, z późn. zm. ), potwierdzający, że dany typ pojazdu jest przystosowany do przewozu towarów niebezpiecznych i jest pojazdem EX/III, albo
 b) poświadczenie producenta lub upoważnionego przedstawiciela producenta w kraju o spełnieniu przez pojazd wymagań części 9 ADR w zakresie pojazdu EX/III, albo
-c) kopię decyzji administracyjnej o udzieleniu dopuszczenia jednostkowego zgodnie z art. 70zo ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, 463, 694, 720, 1641 i 1997), albo
-d) kopię decyzji administracyjnej o uznaniu dopuszczenia jednostkowego pojazdu udzielonego na dany pojazd przez właściwy organ państwa członkowskiego Unii Europejskiej wydanej zgodnie z art. 70zp ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+c) kopię decyzji administracyjnej o udzieleniu dopuszczenia jednostkowego zgodnie z art. 70zo ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, 463, 694, 720, 1641 i 1997), albo
+d) kopię decyzji administracyjnej o uznaniu dopuszczenia jednostkowego pojazdu udzielonego na dany pojazd przez właściwy organ państwa członkowskiego Unii Europejskiej wydanej zgodnie z art. 70zp ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 4. W przypadku pojazdów, o których mowa w art. 61 ust. 3 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, do wniosku, o którym mowa w ust. 1, dołącza się:
 1) zaświadczenie potwierdzające spełnienie dodatkowych wymagań technicznych określonych w ADR dotyczących wyposażenia lub przystosowania pojazdów do przewozu towarów niebezpiecznych;
 2) kopię dowodu rejestracyjnego pojazdu z aktualnym wpisem terminu następnego badania technicznego;
@@ -66,7 +66,7 @@ d) kopię decyzji administracyjnej o uznaniu dopuszczenia jednostkowego pojazdu 
 3. Dyrektor Transportowego Dozoru Technicznego, wydając wtórnik, składa na każdej stronie świadectwa dopuszczenia pojazdu ADR niebieski odcisk stempla o treści „WTÓRNIK”.
 § 5a. 1. Wniosek o wydawanie świadectwa dopuszczenia pojazdu ADR, jego przedłużanie albo wydawanie jego wtórnika składa się do Transportowego Dozoru Technicznego:
 1) bezpośrednio albo
-2) za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U.
+2) za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U.
 z 2020 r. poz. 1041 i 2320), albo
 3) za pomocą środków komunikacji elektronicznej przez elektroniczną skrzynkę podawczą utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r.
 poz. 2070).
@@ -79,7 +79,7 @@ poz. 2070).
 § 8a. 1. Dla pojazdów zarejestrowanych po raz pierwszy lub dopuszczonych do ruchu przed dniem 1 kwietnia 2018 r., dopuszczonych jako pojazd OX, wystawia się świadectwo dopuszczenia pojazdu ADR.
 2. Wzór świadectwa dopuszczenia pojazdu ADR dla pojazdów dopuszczonych jako pojazd OX, o których mowa w ust. 1, określa załącznik nr 2 do rozporządzenia.
 § 9. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Objaśnienia: I. Dokument dwustronicowy, formatu A4, o wymiarach 210 x 297 mm, wykonany na papierze ze znakiem wodnym, niewykazującym luminescencji w promieniowaniu ultrafioletowym, posiadającym włókna zabezpieczające widoczne w świetle dziennym i w promieniowaniu ultrafioletowym oraz losowo rozmieszczone drobiny wykazujące luminescencję w promieniowaniu ultrafioletowym, posiadający pasek koloru różowego biegnący po przekątnej;
+Załączniki do rozporządzenia Ministra Infrastruktury z dnia …. (poz….) Załącznik nr 1 WZÓR Objaśnienia: I. Dokument dwustronicowy, formatu A4, o wymiarach 210 x 297 mm, wykonany na papierze ze znakiem wodnym, niewykazującym luminescencji w promieniowaniu ultrafioletowym, posiadającym włókna zabezpieczające widoczne w świetle dziennym i w promieniowaniu ultrafioletowym oraz losowo rozmieszczone drobiny wykazujące luminescencję w promieniowaniu ultrafioletowym, posiadający pasek koloru różowego biegnący po przekątnej;
 II. Zabezpieczenia dokumentu:
 1. tło giloszowe wykonane w technice druku irysowego,
 2. druk reliefowy,
@@ -87,7 +87,7 @@ II. Zabezpieczenia dokumentu:
 4. elementy graficzne wykonane farbą aktywną w promieniowaniu ultrafioletowym,
 5. element graficzny wykonany farb ą irydyscentn ą ,
 6. oznaczenie indywidualne.
-Objaśnienia: I. Dokument dwustronicowy, formatu A4, o wymiarach 210 x 297 mm, wykonany na papierze ze znakiem wodnym, niewykazującym luminescencji w promieniowaniu ultrafioletowym, posiadającym włókna zabezpieczające widoczne w świetle dziennym i w promieniowaniu ultrafioletowym oraz losowo rozmieszczone drobiny wykazujące luminescencję w promieniowaniu ultrafioletowym, posiadający pasek koloru różowego biegnący po przekątnej;
+Zał ą cznik nr 2 WZÓR Objaśnienia: I. Dokument dwustronicowy, formatu A4, o wymiarach 210 x 297 mm, wykonany na papierze ze znakiem wodnym, niewykazującym luminescencji w promieniowaniu ultrafioletowym, posiadającym włókna zabezpieczające widoczne w świetle dziennym i w promieniowaniu ultrafioletowym oraz losowo rozmieszczone drobiny wykazujące luminescencję w promieniowaniu ultrafioletowym, posiadający pasek koloru różowego biegnący po przekątnej;
 II. Zabezpieczenia dokumentu:
 1. tło giloszowe wykonane w technice druku irysowego,
 2. druk reliefowy,

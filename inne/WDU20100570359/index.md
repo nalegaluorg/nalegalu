@@ -8,7 +8,7 @@ pos: 359
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz ustawę –Prawo o szkolnictwie wyższym

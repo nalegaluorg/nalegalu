@@ -8,10 +8,10 @@ pos: 589
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 marca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 589 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 14 marca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/589/text.pdf) |
 
-Poz. 589 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 14 marca 2017 r.
-w sprawie nadania funkcjonariuszom Służby Celno-Skarbowej uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713 i 1948) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie nadania funkcjonariuszom Służby Celno-Skarbowej uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713 i 1948) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) uprawnienia funkcjonariuszy Służby Celno-Skarbowej, zwanych dalej „funkcjonariuszami”, do nakładania grzywien w drodze mandatu karnego;
 2) wykaz wykroczeń, za które funkcjonariusze są uprawnieni do nakładania grzywien;
 3) zasady i sposób wydawania funkcjonariuszom upoważnień do nakładania grzywien.
@@ -43,7 +43,6 @@ w sprawie nadania funkcjonariuszom Służby Celno-Skarbowej uprawnień do nakła
 5) powołanie podstawy prawnej;
 6) imię, nazwisko i stanowisko służbowe oraz numer umieszczony na znaku identyfikacji indywidualnej lub numer legitymacji służbowej upoważnionego funkcjonariusza;
 7) określenie wykroczeń, za które funkcjonariusz jest upoważniony do nakładania grzywien w drodze mandatu karnego;
-Dziennik Ustaw – 2 – Poz. 589
 8) określenie obszaru, na którym upoważnienie jest ważne;
 9) podpis oraz pieczęć organu wydającego upoważnienie.
 § 4. Naczelnik urzędu celno-skarbowego prowadzi ewidencję wydanych upoważnień.

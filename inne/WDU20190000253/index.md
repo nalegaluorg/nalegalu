@@ -8,10 +8,10 @@ pos: 253
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lutego 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 253 Zmiany do Porozumienia o Międzynarodowym Programie Energetycznym, sporządzonego w Paryżu dnia 18 listopada 1974 r., w celu uwzględnienia przystąpienia do Porozumienia Rzeczypospolitej Polskiej, Republiki Estońskiej i Meksykańskich Stanów Zjednoczonych , przyjęte w Brukseli dnia 17 lutego 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000253) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/253/text.pdf) |
 
-Zmiany do Porozumienia o Międzynarodowym Programie Energetycznym, sporządzonego w Paryżu dnia 18 listopada 1974 r., w celu uwzględnienia przystąpienia do Porozumienia Rzeczypospolitej Polskiej, Republiki Estońskiej i Meksykańskich Stanów Zjednoczonych , przyjęte w Brukseli dnia 17 lutego 2018 r.
 Przekład
 

@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.*
 
-Łącznie: **141** orzeczeń
-(pominięto 223 orzeczeń sądów rejonowych)
+Łącznie: **142** orzeczeń
+(pominięto 224 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 
@@ -11,7 +11,7 @@ Orzeczenia powołujące: *Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług d
 - 2015-02-27 | SO | [VI ACa 262/14](https://www.saos.org.pl/judgments/153682) | Wyrok
 - 2012-10-11 | SO | [VI ACa 2/12](https://www.saos.org.pl/judgments/5312) | Wyrok
 
-## art. 2 (34)
+## art. 2 (35)
 
 - 2014-01-10 | SN | [I CSK 128/13](https://www.saos.org.pl/judgments/165586) | Wyrok ★
 - 2013-01-18 | SN | [IV CSK 270/12](https://www.saos.org.pl/judgments/100391) | Wyrok ★
@@ -45,6 +45,7 @@ Orzeczenia powołujące: *Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług d
 - 2021-06-23 | SO | [I C 30/21](https://www.saos.org.pl/judgments/448422) | Wyrok
 - 2021-06-08 | SO | [I C 74/21](https://www.saos.org.pl/judgments/448443) | Wyrok
 - 2017-04-10 | SO | [VI Ga 115/17](https://www.saos.org.pl/judgments/285826) | Wyrok
+- 2024-12-05 | SO | [I C 133/24](https://www.saos.org.pl/judgments/545255) | Uzasadnienie
 - 2024-08-29 | SO | [I C 160/23](https://www.saos.org.pl/judgments/496181) | Uzasadnienie
 - 2022-07-20 | SO | [VIII Ua 30/22](https://www.saos.org.pl/judgments/470335) | Uzasadnienie
 

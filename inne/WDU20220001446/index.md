@@ -8,10 +8,10 @@ pos: 1446
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1446 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 7 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001446) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1446/text.pdf) |
 
-Poz. 1446 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 7 lipca 2022 r.
-w sprawie szczegółowego zakresu działania Ministra – Członka Rady Ministrów Agnieszki Ścigaj Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188) zarządza się, co następuje: § 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
+w sprawie szczegółowego zakresu działania Ministra – Członka Rady Ministrów Agnieszki Ścigaj Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188) zarządza się, co następuje:
+§ 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
 § 2. 1. Do zakresu działania ministra należy w szczególności:
 1) przygotowanie i koordynacja realizacji strategii i projektów dotyczących integracji społecznej, w szczególności cudzoziemców i grup społecznych wymagających wsparcia;
 2) opracowywanie i opiniowanie projektów aktów prawnych i innych dokumentów rządowych dotyczących integracji społecznej oraz mających na celu zapobieganie konfliktom społecznym;

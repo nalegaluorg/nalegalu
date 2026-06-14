@@ -8,10 +8,10 @@ pos: 665
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 kwietnia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 665 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 9 kwietnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/665/text.pdf) |
 
-Poz. 665 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 9 kwietnia 2020 r.
-zmieniające rozporządzenie w sprawie oceny zdolności fizycznej i psychicznej do służby w Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 45 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 15 kwietnia 2003 r. w sprawie oceny zdolności fizycznej i psychicznej do służby w Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2014 r. poz. 242 oraz z 2018 r. poz. 1772) w załączniku nr 1 do rozporządzenia w części I Regionalne komisje lekarskie wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie oceny zdolności fizycznej i psychicznej do służby w Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 45 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 15 kwietnia 2003 r. w sprawie oceny zdolności fizycznej i psychicznej do służby w Agencji Bezpieczeństwa Wewnętrznego (Dz. U. z 2014 r. poz. 242 oraz z 2018 r. poz. 1772) w załączniku nr 1 do rozporządzenia w części I Regionalne komisje lekarskie wprowadza się następujące zmiany:
 1) w ust. 1:
 a) pkt 2 otrzymuje brzmienie: „2) Centralnego Ośrodka Szkolenia i Edukacji Agencji Bezpieczeństwa Wewnętrznego w Emowie;”,
 b) w pkt 3 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) Poznaniu.”;

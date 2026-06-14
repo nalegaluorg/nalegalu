@@ -8,7 +8,7 @@ pos: 1238
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw
@@ -28,6 +28,125 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001238) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1238/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6 w brzmieniu: „6) dyrektywy Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwutlenku węgla oraz zmieniającej dyrektywę Rady 85/337/EWG, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz. Urz. UE L 140 z 05.06.2009, str. 114, z późn. zm.).”;
+- **2)** w art. 1: ustanawiającej kryteria i środki dotyczące finansowania komercyjnych projektów demonstracyjnych mających na celu bezpieczne dla środowiska wychwytywanie i geologiczne składowanie CO oraz projektów demonstracyjnych w zakresie innowacyjnych technologii energetyki odnawialnej realizowanych w ramach systemu handlu uprawnieniami do emisji gazów cieplarnianych we Wspólnocie, ustanowionego dyrektywą 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 290 z
+    - **a)** w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5 w brzmieniu: „5) podziemnego składowania dwutlenku węgla w celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla.”,
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Przez projekt demonstracyjny wychwytu i składowania dwutlenku węgla należy rozumieć przedsięwzięcie polegające na wychwytywaniu, przesyłaniu i podziemnym składowaniu dwutlenku węgla, spełniające kryteria dotyczące projektów demonstracyjnych określone w decyzji Komisji nr 2010/670/UE z dnia 3 listopada 2010 r.
+
+06. 11.2010, str. 39), które jest realizowane w celu sprawdzenia:
+
+- **1)** skuteczności i przydatności stosowania technologii wychwytu i składowania dwutlenku węgla w zakresie ograniczenia emisji dwutlenku węgla;
+- **2)** bezpieczeństwa stosowania technologii wychwytu i składowania dwutlenku węgla dla zdrowia i życia ludzi oraz dla środowiska;
+- **3)** potrzeby i zasadności dopuszczenia do stosowania technologii wychwytu i składowania dwutlenku węgla na skalę przemysłową.
+
+4. Warunki wykonywania i kontrolowania działalności polegającej na przesyłaniu dwutlenku węgla w celu jego podziemnego składowania w celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla określa ustawa z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059 oraz z 2013 r. poz. 984 i …).”;
+
+- **3)** w art. 6 w ust. 1:
+    - **a)** po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „1a) działaniami naprawczymi – są działania podjęte w celu:
+    - **a)** naprawienia lub usunięcia nieprawidłowości w procesie zatłaczania lub składowania dwutlenku węgla albo w kompleksie podziemnego składowania dwutlenku węgla, które wiążą się z ryzykiem wystąpienia wycieku dwutlenku węgla lub powstaniem zagrożenia zdrowia i życia ludzi oraz środowiska,
+    - **b)** zatrzymania wycieku dwutlenku węgla, aby uniemożliwić lub zatrzymać wydostanie się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla;
+
+- **1b)** formacją geologiczną – jest podstawowe wydzielenie litostratygraficzne, w ramach którego można wyodrębnić warstwy skał i przedstawić je na mapie;”,
+    - **b)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) kompleksem podziemnego składowania dwutlenku węgla – jest podziemne składowisko dwutlenku węgla i otaczające je formacje geologiczne, które mogą mieć wpływ na stabilność i bezpieczeństwo podziemnego składowania dwutlenku węgla;”,
+    - **c)** pkt 4 i 5 otrzymują brzmienie: „4) obiektem budowlanym zakładu górniczego – jest znajdujący się poza podziemnym wyrobiskiem górniczym obiekt zakładu górniczego będący obiektem budowlanym w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm. ), służący bezpośrednio do wykonywania działalności regulowanej ustawą w zakresie:
+    - **a)** wydobywania kopalin ze złóż, a w podziemnych zakładach górniczych wydobywających węgiel kamienny wraz z pozostającym w związku technologicznym z wydobyciem kopaliny przygotowaniem wydobytej kopaliny do sprzedaży, albo
+    - **b)** podziemnego bezzbiornikowego magazynowania substancji, albo
+    - **c)** podziemnego składowania odpadów, albo
+    - **d)** podziemnego składowania dwutlenku węgla;
+
+- **5)** obszarem górniczym – jest przestrzeń, w granicach której przedsiębiorca jest uprawniony do wydobywania kopaliny, podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów, podziemnego składowania dwutlenku węgla oraz prowadzenia robót górniczych niezbędnych do wykonywania koncesji;”,
+    - **d)** po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) podziemnym składowiskiem dwutlenku węgla – jest część górotworu o określonej pojemności wykorzystywana w celu trwałego przechowywania dwutlenku węgla, połączona z powierzchniową instalacją zatłaczającą;”,
+    - **e)** pkt 7 i 8 otrzymują brzmienie: „7) poszukiwaniem – jest wykonywanie prac geologicznych w celu ustalenia i wstępnego udokumentowania złoża kopaliny, wód podziemnych albo kompleksu podziemnego składowania dwutlenku węgla;
+
+- **8)** pracą geologiczną – jest projektowanie i wykonywanie badań oraz innych czynności, w celu ustalenia budowy geologicznej kraju, a w szczególności poszukiwania i rozpoznawania złóż kopalin, wód podziemnych oraz kompleksu podziemnego składowania dwutlenku węgla, określenia warunków hydrogeologicznych, geologicznoinżynierskich, a także sporządzanie map i dokumentacji geologicznych oraz projektowanie i wykonywanie badań na potrzeby wykorzystania ciepła Ziemi lub korzystania z wód podziemnych;”, 695 oraz z 2013 r. poz. …);”,
+    - **f)** pkt 13 otrzymuje brzmienie: „13) rozpoznawaniem – jest wykonywanie prac geologicznych na obszarze wstępnie udokumentowanego złoża kopaliny, wód podziemnych albo kompleksu podziemnego składowania dwutlenku węgla;”,
+    - **g)** po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) rozliczeniem emisji – jest rozliczenie wielkości emisji, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. Nr 122, poz.
+    - **h)** po pkt 16 dodaje się pkt 16a w brzmieniu: „16a) wyciekiem dwutlenku węgla – jest każde wydostanie się dwutlenku węgla poza podziemne składowisko dwutlenku węgla;”,
+    - **i)** pkt 18 otrzymuje brzmienie: „18) zakładem górniczym – jest wyodrębniony technicznie i organizacyjnie zespół środków służących bezpośrednio do wykonywania działalności regulowanej ustawą w zakresie wydobywania kopalin ze złóż, a w podziemnych zakładach górniczych wydobywających węgiel kamienny wraz z pozostającym w związku technologicznym z wydobyciem kopaliny przygotowaniem wydobytej kopaliny do sprzedaży, podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów albo podziemnego składowania dwutlenku węgla, w tym wyrobiska górnicze, obiekty budowlane, urządzenia oraz instalacje;”,
+    - **j)** po pkt 18 dodaje się pkt 18a w brzmieniu: „18a) zamknięciem podziemnego składowiska dwutlenku węgla – jest trwałe zaprzestanie zatłaczania dwutlenku węgla do podziemnego składowiska dwutlenku węgla;”;
+
+- **4)** w art. 15 ust. 1 otrzymuje brzmienie: „1. Ten, kto rozpoznał złoże kopaliny albo kompleks podziemnego składowania dwutlenku węgla, stanowiące przedmiot własności górniczej, i udokumentował je w stopniu umożliwiającym sporządzenie odpowiednio projektu zagospodarowania złoża albo planu zagospodarowania podziemnego składowiska dwutlenku węgla oraz uzyskał decyzję zatwierdzającą dokumentację geologiczną tego złoża albo kompleksu, może żądać ustanowienia na jego rzecz użytkowania górniczego z pierwszeństwem przed innymi.”;
+- **5)** w art. 16 w ust. 1 zdanie drugie otrzymuje brzmienie: „W szczególności może on odpowiednio wykonywać roboty geologiczne, wydobywać kopalinę ze złoża, wykonywać działalność w zakresie podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów lub podziemnego składowania dwutlenku węgla, a także wykonywać działalność określoną w art. 2 ust. 1.”;
+- **6)** w art. 19 ust. 1 otrzymuje brzmienie: „1. Przedsiębiorca, który uzyskał koncesję na wydobywanie węglowodorów, węgla kamiennego, węgla brunatnego, podziemne bezzbiornikowe magazynowanie węglowodorów lub podziemne składowanie dwutlenku węgla, może żądać wykupu nieruchomości lub jej części położonej w obszarze górniczym, w zakresie niezbędnym do wykonywania zamierzonej działalności.”;
+- **7)** w art. 21:
+    - **a)** w ust. 1: – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) poszukiwania lub rozpoznawania kompleksu podziemnego składowania dwutlenku węgla,”, – w pkt 4 na końcu dodaje się przecinek i dodaje pkt 5 w brzmieniu: „5) podziemnego składowania dwutlenku węgla”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zabrania się wykonywania działalności polegającej na poszukiwaniu lub rozpoznawaniu kompleksu podziemnego składowania dwutlenku węgla albo na podziemnym składowaniu dwutlenku węgla w celu innym niż przeprowadzenie projektu demonstracyjnego wychwytu i składowania dwutlenku węgla.”,
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Koncesji na podziemne składowanie dwutlenku węgla udziela się na okres uwzględniający obowiązek prowadzenia po zamknięciu podziemnego składowiska dwutlenku węgla monitoringu kompleksu podziemnego składowania dwutlenku węgla przez okres nie krótszy niż 20 lat.”;
+
+- **8)** w art. 22 w ust. 1:
+    - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla,”,
+    - **b)** w pkt 5 na końcu dodaje się przecinek i dodaje pkt 6 w brzmieniu: „6) podziemne składowanie dwutlenku węgla”;
+
+- **9)** w art. 23:
+    - **a)** w ust. 1: – pkt 3 otrzymuje brzmienie: „3) wydobywanie kopalin, o których mowa w art. 10 ust. 1, ze złóż, podziemne bezzbiornikowe magazynowanie substancji oraz podziemne składowanie dwutlenku węgla wymaga uzgodnienia z ministrem właściwym do spraw gospodarki;”, – dodaje się pkt 4 w brzmieniu: „4) podziemne składowanie dwutlenku węgla wymaga uzyskania opinii Komisji Europejskiej.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. W odniesieniu do działalności prowadzonej poza granicami obszarów morskich Rzeczypospolitej Polskiej udzielenie koncesji na:
+
+- **1)** poszukiwanie lub rozpoznawanie złoża kopaliny albo poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla wymaga opinii wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce wykonywania zamierzonej działalności;
+- **2)** wydobywanie kopalin ze złóż, podziemne bezzbiornikowe magazynowanie substancji, podziemne składowanie odpadów albo podziemne składowanie dwutlenku węgla wymaga uzgodnienia z wójtem (burmistrzem, prezydentem miasta) właściwym ze względu na miejsce wykonywania zamierzonej działalności; kryterium uzgodnienia jest zgodność zamierzonej działalności z przeznaczeniem lub sposobem korzystania z nieruchomości określonym w sposób przewidziany w art. 7.”,
+    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku, o którym mowa w ust. 1 pkt 4, organ koncesyjny przesyła do Komisji Europejskiej kopię wniosku o udzielenie koncesji na podziemne składowanie dwutlenku węgla wraz z załącznikami oraz projekt decyzji, w terminie miesiąca od dnia otrzymania wniosku.
+
+5. W przypadku, o którym mowa w ust. 1 pkt 4, organ koncesyjny wydaje decyzję:
+
+- **1)** po otrzymaniu opinii Komisji Europejskiej albo
+- **2)** po otrzymaniu od Komisji Europejskiej informacji o rezygnacji z wydawania opinii.”;
+- **10)** w art. 25 ust. 1 otrzymuje brzmienie: „1. We wniosku o udzielenie koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny oraz na poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla określa się również cel, zakres i rodzaj prac geologicznych oraz zamieszcza się informację o pracach, które mają być wykonywane dla osiągnięcia zamierzonego celu, w tym ich technologiach.”;
+- **11)** po art. 27 dodaje się art. 27a w brzmieniu: „Art. 27a. 1. We wniosku o udzielenie koncesji na podziemne składowanie dwutlenku węgla określa się również:
+- **1)** ilość oraz charakterystykę, w tym źródło pochodzenia, dwutlenku węgla, który będzie zatłaczany do podziemnego składowiska dwutlenku węgla;
+- **2)** aktualne i przewidywane warunki geologiczne, hydrogeologiczne i geologiczno-inżynierskie kompleksu podziemnego składowania dwutlenku węgla;
+- **3)** technologię składowania i przesyłania dwutlenku węgla oraz lokalizację instalacji zatłaczającej;
+- **4)** ocenę bezpieczeństwa długoterminowego składowania dwutlenku węgla;
+- **5)** wydajność i ciśnienie zatłaczania dwutlenku węgla, który będzie zatłaczany do podziemnego składowiska dwutlenku węgla;
+- **6)** wartość ciśnienia granicznego w kompleksie podziemnego składowania dwutlenku węgla;
+- **7)** projektowane położenie obszaru górniczego i terenu górniczego, przedstawione zgodnie z wymaganiami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju;
+- **8)** proponowaną formę i wysokość zabezpieczenia na realizację poszczególnych obowiązków, o których mowa w art. 28a ust. 3 i 4, oraz zadań, o których mowa w art. 28e ust. 2.
+
+2. Do wniosku, o którym mowa w ust. 1, dołącza się:
+
+- **1)** dowód istnienia prawa do korzystania z informacji geologicznej, jakie w zakresie niezbędnym do prowadzenia zamierzonej działalności przysługuje wnioskodawcy, oraz kopie decyzji zatwierdzających dokumentacje geologiczne;
+- **2)** plan zagospodarowania podziemnego składowiska dwutlenku węgla wraz z kopią decyzji o jego zatwierdzeniu;
+- **3)** oświadczenie wnioskodawcy, że wyraża zgodę na to, że w przypadku przejęcia przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a, nastąpi, z mocy prawa, bez odszkodowania, przeniesienie na rzecz Skarbu Państwa prawa do nieruchomości, o której mowa w ust. 4 pkt 4, oraz prawa własności zakładu górniczego.
+
+3. Plan zagospodarowania podziemnego składowiska dwutlenku węgla jest sporządzany na podstawie dokumentacji geologicznej, z uwzględnieniem wymagań w zakresie gospodarowania podziemnym składowiskiem dwutlenku węgla, szczegółowej charakterystyki warunków technicznych i ekonomicznych związanych z podziemnym składowaniem dwutlenku węgla oraz oceny ryzyka podziemnego składowania dwutlenku węgla.
+
+4. Plan zagospodarowania podziemnego składowiska dwutlenku węgla obejmuje w szczególności:
+
+- **1)** plan monitoringu kompleksu podziemnego składowania dwutlenku węgla;
+- **2)** plan działań naprawczych;
+- **3)** tymczasowy plan działań po zamknięciu podziemnego składowiska dwutlenku węgla;
+- **4)** wskazanie nieruchomości, na której będzie zlokalizowany zakład górniczy, w szczególności instalacja zatłaczająca oraz instalacja służąca do prowadzenia monitoringu kompleksu podziemnego składowania dwutlenku węgla.
+
+5. Plan zagospodarowania podziemnego składowiska dwutlenku węgla podlega zatwierdzeniu, w drodze decyzji, przez właściwy organ nadzoru górniczego.
+
+6. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, szczegółowe wymagania, jakim powinien odpowiadać plan zagospodarowania podziemnego składowiska dwutlenku węgla, w tym plan monitoringu kompleksu podziemnego składowania dwutlenku węgla, plan działań naprawczych i tymczasowy plan działań po zamknięciu podziemnego składowiska dwutlenku węgla, kierując się potrzebą zapewnienia bezpieczeństwa prowadzenia działalności polegającej na podziemnym składowaniu dwutlenku węgla, w tym ochrony zdrowia i życia ludzi oraz środowiska, a także potrzebą zapewnienia bezpieczeństwa powszechnego.”;
+
+- **12)** w art. 28 ust. 2 otrzymuje brzmienie: „2. Jeżeli przemawia za tym szczególnie ważny interes państwa lub szczególnie ważny interes publiczny związany w szczególności z ochroną środowiska lub gospodarką kraju, koncesja na działalność inną niż określona w ust. 1, z wyjątkiem koncesji na podziemne składowanie dwutlenku węgla, może zostać udzielona pod warunkiem ustanowienia zabezpieczenia roszczeń mogących powstać wskutek wykonywania objętej nią działalności.”;
+- **13)** po art. 28 dodaje się art. 28a–28h w brzmieniu: „Art. 28a. 1. Koncesji na podziemne składowanie dwutlenku węgla udziela się pod warunkiem:
+- **1)** wykazania się przez wnioskodawcę prawem własności lub użytkowania wieczystego nieruchomości, o której mowa w art. 27a ust. 4 pkt 4;
+- **2)** ustanowienia zabezpieczenia finansowego.
+
+2. Przedsiębiorca jest obowiązany do ustanowienia zabezpieczenia finansowego należytego wykonywania obowiązków związanych z:
+
+- **1)** eksploatacją podziemnego składowiska dwutlenku węgla;
+- **2)** likwidacją zakładu górniczego.
+
+3. Zabezpieczenie finansowe należytego wykonywania obowiązków związanych z eksploatacją podziemnego składowiska dwutlenku węgla jest ustanawiane w celu wypełnienia warunków określonych w koncesji na podziemne składowanie dwutlenku węgla, w tym finansowania kosztów monitoringu kompleksu podziemnego składowania dwutlenku węgla, kosztów działań naprawczych, rozliczenia emisji w przypadku wydostania się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla, kosztów działań naprawczych i działań zapobiegawczych w rozumieniu przepisów ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. Nr 75, poz. 493, z późn. zm. ) oraz wypłaty odszkodowań za szkody, które ujawniły się do czasu zamknięcia podziemnego składowiska dwutlenku węgla.
+
+4. Zabezpieczenie finansowe należytego wykonywania obowiązków związanych z likwidacją zakładu górniczego jest ustanawiane w celu finansowania kosztów usunięcia obiektów zakładu górniczego, likwidacji odwiertów i innych instalacji związanych z podziemnym składowiskiem dwutlenku węgla, w tym rurociągów, kabli i linii energetycznych, kosztów prowadzenia monitoringu zamkniętego podziemnego składowiska dwutlenku węgla przez okres nie krótszy niż 20 lat od dnia jego zamknięcia, kosztów działań naprawczych, rozliczenia emisji w przypadku wydostania się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla, kosztów działań naprawczych i działań zapobiegawczych w rozumieniu przepisów ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie oraz wypłaty odszkodowań za szkody, które ujawniły się po zamknięciu podziemnego składowiska dwutlenku węgla.
+
+5. Zabezpieczenie finansowe mogą stanowić środki pieniężne, gwarancja bankowa, gwarancja ubezpieczeniowa lub umowa ubezpieczenia odpowiedzialności cywilnej i może być ustanowione w jednej lub kilku formach.
+
+6. Zabezpieczenie finansowe ustanawiane w formie pieniężnej jest wpłacane na odrębny rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej. Dowód wpłaty, gwarancja bankowa, gwarancja ubezpieczeniowa lub polisa ubezpieczeniowa potwierdzająca zawarcie umowy ubezpieczenia odpowiedzialności cywilnej są składane do organu koncesyjnego i stanowią dowód ustanowienia zabezpieczenia finansowego.
+
+7. Gwarancja bankowa, gwarancja ubezpieczeniowa lub polisa ubezpieczeniowa potwierdzająca zawarcie umowy ubezpieczenia odpowiedzialności cywilnej powinny stwierdzać, że bank lub zakład ubezpieczeń w przypadku niewywiązywania się przez przedsiębiorcę z obowiązków, o których mowa w ust. 3 i 4, na wezwanie organu koncesyjnego przesłane po wydaniu postanowienia, o którym mowa w art. 28c ust. 1, dokona wypłaty na rzecz podmiotów, o których mowa w tym przepisie, kwoty w wysokości określonej w tym wezwaniu.
+
+8. Organ koncesyjny w toku postępowania o udzielenie koncesji na podziemne składowanie dwutlenku węgla określa, w drodze postanowienia, formę i wysokość zabezpieczenia finansowego na realizację poszczególnych obowiązków, o których mowa w ust. 3 i 4, oraz termin doręczenia organowi koncesyjnemu dowodu ustanowienia zabezpieczenia finansowego, a w przypadku zabezpieczenia finansowego ustanawianego w formie pieniężnej – także termin wpłaty. Na postanowienie przysługuje zażalenie.
+
+9. Wysokość zabezpieczenia finansowego określona w postanowieniu, o którym mowa w ust. 8, stanowi minimalną wysokość zabezpieczenia finansowego określoną w koncesji na podziemne składowanie dwutlenku węgla.
+
+10. Przedsiębiorca jest obowiązany utrzymywać ustanowione zabezpieczenie finansowe w wysokości określonej przez organ koncesyjny i uzupełniać je niezwłocznie do tej wysokości przez cały okres obowiązywania koncesji na podziemne składowanie dwutlenku węgla.
+
+11. Zabezpieczenie finansowe ustanowione w formie pieniężnej nie wchodzi w skład masy upadłości.
 
 **Art. 28b.**
 
@@ -108,6 +227,74 @@ source: "isap-pdf"
 3. Zabezpieczenie środków, o którym mowa w art. 28e ust. 1, ustanowione w formie opłaty gwarancyjnej, w tym uzupełniająca opłata gwarancyjna, nie wchodzi w skład masy upadłości.
 
 **Art. 28h.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
+
+- **1)** sposób ustalania wysokości zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2, wysokości zabezpieczenia środków, o którym mowa w art. 28e ust. 1, oraz kryteria wyboru formy zabezpieczenia,
+- **2)** formę, terminy przekazywania i zakres sprawozdań, o których mowa w art. 28c ust. 3 i art. 28e ust. 9 – kierując się potrzebą zapewnienia odpowiedniego i skutecznego zabezpieczenia realizacji celów, dla których jest ustanawiane zabezpieczenie, stabilnego źródła finansowania realizacji zadań Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla po przekazaniu mu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla, efektywności i racjonalności wydatkowania środków oraz mając na uwadze potrzebę zapewnienia ochrony zdrowia i życia ludzi oraz środowiska.”;
+- **14)** w art. 31:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Koncesja na poszukiwanie lub rozpoznawanie złoża kopaliny albo poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla określa również:”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Powierzchnia terenu objętego koncesją na poszukiwanie lub rozpoznawanie złoża kopaliny albo poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla nie może przekroczyć 1200 km .”;
+
+- **15)** w art. 32:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Koncesja na wydobywanie kopaliny ze złoża, podziemne bezzbiornikowe magazynowanie substancji, podziemne składowanie odpadów albo podziemne składowanie dwutlenku węgla wyznacza również granice obszaru i terenu górniczego.
+
+2. Podstawą wyznaczenia granic obszaru górniczego jest dokumentacja geologiczna i odpowiednio projekt zagospodarowania złoża albo plan zagospodarowania podziemnego składowiska dwutlenku węgla.”,
+
+- **b)** dodaje się ust. 7–9 w brzmieniu: „7. Koncesja na podziemne składowanie dwutlenku węgla określa również:
+- **1)** ilość oraz charakterystykę, w tym źródło pochodzenia, dwutlenku węgla, który będzie zatłaczany do podziemnego składowiska dwutlenku węgla;
+- **2)** dopuszczalny skład strumienia dwutlenku węgla, który będzie zatłaczany do podziemnego składowiska dwutlenku węgla;
+- **3)** informacje o jednostce hydrogeologicznej rozumianej jako fragment litosfery stanowiący przestrzennie i dynamicznie zdefiniowany system krążenia wód podziemnych, dający się opisać parametrami hydrogeologicznymi poziomów wodonośnych i rozdzielających je utworów półprzepuszczalnych;
+- **4)** wartość ciśnienia granicznego w kompleksie podziemnego składowania dwutlenku węgla;
+- **5)** maksymalną wydajność i ciśnienie zatłaczania dwutlenku węgla, który będzie zatłaczany do podziemnego składowiska dwutlenku węgla;
+- **6)** zakres i sposób monitoringu kompleksu podziemnego składowania dwutlenku węgla;
+- **7)** minimalną wysokość zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2, oraz zabezpieczenia środków, o którym mowa w art. 28e ust. 1.
+
+8. Koncesja na podziemne składowanie dwutlenku węgla zawiera informację, że w przypadku przejęcia przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a, nastąpi, z mocy prawa, bez odszkodowania, przeniesienie na rzecz Skarbu Państwa prawa do nieruchomości, o której mowa w art. 27a ust. 4 pkt 4, oraz prawa własności zakładu górniczego.
+
+9. Koncesji na podziemne składowanie dwutlenku węgla udziela się po doręczeniu organowi koncesyjnemu dowodu ustanowienia zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2.”;
+
+- **16)** w art. 35:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Obszar górniczy podlega wpisowi do rejestru obszarów górniczych i zamkniętych podziemnych składowisk dwutlenku węgla, o którym mowa w art. 152a ust. 1.”,
+    - **b)** uchyla się ust. 2–5;
+
+- **17)** w art. 36 po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Przy przeniesieniu koncesji na podziemne składowanie dwutlenku węgla podmiot, który ubiega się o przeniesienie tej koncesji, wskazuje proponowaną formę i wysokość zabezpieczenia finansowego na realizację poszczególnych obowiązków, o których mowa w art. 28a ust. 3 i 4, oraz proponowaną formę i wysokość zabezpieczenia środków na realizację poszczególnych zadań, o których mowa w art. 28e ust. 2, o ile dotychczasowe zabezpieczenie nie zostanie przeniesione na przedsiębiorcę, który ubiega się o przeniesienie koncesji na podziemne składowanie dwutlenku węgla. Przepisy art. 28a ust. 8 i art. 28e ust. 5 stosuje się odpowiednio.
+
+3b. Jeżeli przeniesienie koncesji na podziemne składowanie dwutlenku węgla nie powoduje przeniesienia dotychczasowego zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2, oraz zabezpieczenia środków, o którym mowa w art. 28e ust. 1, organ koncesyjny, w drodze postanowienia, zwalnia te zabezpieczenia.
+
+3c. Organ koncesyjny doręcza postanowienie, o którym mowa w ust. 3b, także podmiotowi, który udzielił zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2, oraz zabezpieczenia środków, o którym mowa w art. 28e ust.
+
+1. ”;
+
+- **18)** po art. 37 dodaje się art. 37a w brzmieniu: „Art. 37a. 1. Organ koncesyjny cofa koncesję na podziemne składowanie dwutlenku węgla także w przypadku:
+- **1)** niedoręczenia organowi koncesyjnemu dowodu ustanowienia zabezpieczenia środków w terminie określonym w postanowieniu, o którym mowa w art. 28e ust. 5;
+- **2)** niedokonania zwiększenia wysokości zabezpieczenia finansowego albo zabezpieczenia środków w terminie określonym w decyzji, o której mowa odpowiednio w art. 28b ust. 1 i w art. 28f ust. 1;
+- **3)** nieuzupełnienia zabezpieczenia finansowego zgodnie z art. 28a ust. 10;
+- **4)** wygaśnięcia zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2, ustanowionego w formie innej niż środki pieniężne albo zabezpieczenia środków, o którym mowa w art. 28e ust. 1, ustanowionego w formie innej niż opłata gwarancyjna.
+
+2. Organ koncesyjny może, biorąc pod uwagę ochronę zdrowia i życia ludzi oraz środowiska, a także potrzebę zapewnienia bezpieczeństwa powszechnego, zmienić albo cofnąć, bez odszkodowania, koncesję na podziemne składowanie dwutlenku węgla:
+
+- **1)** w razie istotnych zmian planu zagospodarowania podziemnego składowiska dwutlenku węgla, mających bezpośredni wpływ na warunki określone w koncesji;
+- **2)** w przypadku uzyskania informacji o wycieku dwutlenku węgla, jego wydostaniu się poza kompleks podziemnego składowania dwutlenku węgla lub uzyskania informacji o nieprawidłowościach w procesie zatłaczania lub składowania dwutlenku węgla albo w kompleksie podziemnego składowania dwutlenku węgla;
+- **3)** w przypadku gdy: 127m ust. 1 lub
+    - **a)** ze sprawozdania z prowadzonej działalności, o którym mowa w art.
+    - **b)** z wniosków z przeprowadzonej kontroli, o której mowa w art. 127n ust. 1 oraz w art. 158 pkt 2 – wynika niezgodność prowadzonej działalności z warunkami określonymi w koncesji, planie zagospodarowania podziemnego składowiska dwutlenku węgla lub planie ruchu zakładu górniczego lub ryzyko wystąpienia wycieku dwutlenku węgla;
+
+- **4)** z uwagi na zagrożenie wynikające ze stosowania technologii wychwytu i składowania dwutlenku węgla dla bezpieczeństwa zdrowia i życia ludzi oraz dla środowiska, a także małą skuteczność i przydatność stosowania tej technologii w zakresie ograniczenia emisji dwutlenku węgla;
+- **5)** gdy okaże się to konieczne w świetle najnowszych odkryć naukowych i postępu technicznego.
+
+3. Koszt zmiany koncesji obciąża przedsiębiorcę.”;
+
+- **19)** w art. 39 ust. 1 otrzymuje brzmienie: „1. Cofnięcie koncesji, jej wygaśnięcie lub utrata jej mocy, bez względu na przyczynę, nie zwalnia dotychczasowego przedsiębiorcy z wykonania obowiązków dotyczących ochrony środowiska i likwidacji zakładu górniczego, z zastrzeżeniem art. 39a ust. 1.”;
+- **20)** po art. 39 dodaje się art. 39a–39c w brzmieniu: „Art. 39a. 1. W przypadku cofnięcia koncesji na podziemne składowanie dwutlenku węgla albo jej wygaśnięcia z powodów, o których mowa w art. 38 ust. 1 pkt 3–5, Krajowy Administrator Podziemnych Składowisk Dwutlenku Węgla przejmuje odpowiedzialność za podziemne składowisko dwutlenku węgla.
+
+2. Przejęcie przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za podziemne składowisko dwutlenku węgla następuje z dniem określonym w decyzji o cofnięciu koncesji na podziemne składowanie dwutlenku węgla albo stwierdzającej jej wygaśnięcie.
+
+3. Z dniem przejęcia przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za podziemne składowisko dwutlenku węgla następuje, z mocy prawa, bez odszkodowania, przeniesienie na rzecz Skarbu Państwa prawa do nieruchomości, o której mowa w art. 27a ust. 4 pkt 4, oraz prawa własności zakładu górniczego.
+
+4. Z dniem przejęcia odpowiedzialności za podziemne składowisko dwutlenku węgla Krajowy Administrator Podziemnych Składowisk Dwutlenku Węgla wstępuje w prawa i obowiązki dotychczasowego przedsiębiorcy wynikające z decyzji dotyczących prowadzenia zakładu górniczego.
+
+5. Z dniem przejęcia przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za podziemne składowisko dwutlenku węgla dotychczasowy przedsiębiorca jest obowiązany do niezwłocznego przekazania Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla dokumentacji dotyczącej prowadzenia działalności polegającej na podziemnym składowaniu dwutlenku węgla.
+
+6. W przypadku, o którym mowa w ust. 3, organ koncesyjny potwierdza, w drodze decyzji, nabycie prawa do nieruchomości, o której mowa w art. 27a ust. 4 pkt 4, oraz prawa własności zakładu górniczego. Ostateczna decyzja stanowi podstawę do dokonania wpisów do ksiąg wieczystych oraz ewidencji gruntów i budynków.
 
 **Art. 39b.** W przypadku cofnięcia lub wygaśnięcia koncesji na podziemne składowanie dwutlenku węgla, z zastrzeżeniem art. 39c, Krajowy Administrator Podziemnych Składowisk Dwutlenku Węgla zamyka podziemne składowisko dwutlenku węgla. Przepisy art. 107a ust. 2, art. 127i ust. 2 oraz art. 129 ust. 1– 5 stosuje się odpowiednio.
 
@@ -288,6 +475,10 @@ source: "isap-pdf"
 
 **Art. 127h.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe wymagania dotyczące eksploatacji podziemnego składowiska dwutlenku węgla,
+- **2)** szczegółowe kryteria i sposób akceptacji składu strumienia dwutlenku węgla zatłaczanego do podziemnego składowiska dwutlenku węgla,
+- **3)** sposób, częstotliwość i szczegółowe warunki prowadzenia monitoringu kompleksu podziemnego składowania dwutlenku węgla – kierując się potrzebą zapewnienia bezpieczeństwa prowadzenia działalności polegającej na podziemnym składowaniu dwutlenku węgla, mając na uwadze potrzebę zapewnienia ochrony zdrowia i życia ludzi oraz środowiska, a także bezpieczeństwa powszechnego oraz uwzględniając charakterystykę kompleksu podziemnego składowania dwutlenku węgla, warunki geologiczne i przyrodnicze.
+
 **Art. 127i.**
 
 1. Zamknięcie podziemnego składowiska dwutlenku węgla następuje:
@@ -384,6 +575,40 @@ source: "isap-pdf"
 
 **Art. 127o.** Organ koncesyjny, w celu oceny zgodności prowadzonej działalności polegającej na podziemnym składowaniu dwutlenku węgla z warunkami określonymi w koncesji, dokonuje przeglądu udzielonych koncesji:
 
+- **1)** po upływie 5 lat od dnia udzielenia koncesji, a następnie – co 10 lat;
+- **2)** w przypadkach, o których mowa w art. 37a ust. 2 pkt 2–5.”;
+- **43)** w art. 133:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przedsiębiorca, który uzyskał koncesję na poszukiwanie lub rozpoznawanie złóż kopalin oraz na poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla, wnosi opłatę ustalaną w koncesji jako iloczyn stawki opłaty oraz wyrażonej w kilometrach kwadratowych powierzchni terenu objętego koncesją.”,
+    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Stawka opłaty za działalność w zakresie poszukiwania kompleksu podziemnego składowania dwutlenku węgla wynosi 105,81 zł.
+
+3b. Stawka opłaty za działalność w zakresie rozpoznawania kompleksu podziemnego składowania dwutlenku węgla lub łącznie za działalność w zakresie poszukiwania i rozpoznawania kompleksu podziemnego składowania dwutlenku węgla wynosi dwukrotność stawki określonej w ust. 3a.”;
+
+- **44)** w art. 135:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przedsiębiorca, który uzyskał koncesję na:
+
+- **1)** podziemne bezzbiornikowe magazynowanie substancji albo
+- **2)** podziemne składowanie odpadów, albo
+- **3)** podziemne składowanie dwutlenku węgla – wnosi opłatę ustaloną jako iloczyn stawki opłaty oraz ilości odpowiednio substancji, odpadów albo dwutlenku węgla, która w okresie rozliczeniowym została wprowadzona do górotworu, w tym do podziemnych wyrobisk górniczych.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Stawka opłaty z tytułu podziemnego składowania dwutlenku węgla wynosi 5,06 zł/t.”;
+
+- **45)** w art. 136 ust. 1 otrzymuje brzmienie: „1. Stawki opłat, o których mowa w art. 133 ust. 2 i 3a, art. 134 ust. 2 oraz art. 135 ust. 2–4, podlegają corocznej zmianie stosownie do średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem, planowanego w ustawie budżetowej na dany rok kalendarzowy.”;
+- **46)** w art. 137 ust. 6 i 7 otrzymują brzmienie: „6. Wymagania określone w ust. 1–5 stosuje się odpowiednio do przedsiębiorców, którzy uzyskali koncesję na podziemne bezzbiornikowe magazynowanie substancji, podziemne składowanie odpadów albo podziemne składowanie dwutlenku węgla.
+
+7. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzory druków służących przedstawieniu informacji dotyczącej opłaty za wydobytą kopalinę, podziemne bezzbiornikowe magazynowanie substancji, podziemne składowanie odpadów oraz podziemne składowanie dwutlenku węgla, kierując się potrzebą zapewnienia przejrzystości oraz wiarygodności przedkładanych informacji.”;
+
+- **47)** w art. 139:
+    - **a)** w ust. 3: – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla ustala się w wysokości pięciokrotnej stawki opłaty za działalność w zakresie poszukiwania lub rozpoznawania kompleksu podziemnego składowania dwutlenku węgla za każdy kilometr kwadratowy powierzchni terenu objętego taką działalnością, przy czym rozpoczęty kilometr kwadratowy powierzchni terenu liczy się jako cały;”, – w pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6 w brzmieniu: „6) podziemne składowanie dwutlenku węgla ustala się w wysokości pięciokrotnej stawki opłaty dla składowanego dwutlenku węgla, pomnożonej przez ilość składowanego w ten sposób dwutlenku węgla.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Opłaty dodatkowe, o których mowa w ust. 3 pkt 1, 1a i 3–6, ustala się, stosując stawki obowiązujące w dniu wszczęcia postępowania.”;
+
+- **48)** w art. 140:
+    - **a)** w ust. 2 w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje lit. d i e w brzmieniu: „d) w zakresie poszukiwania lub rozpoznawania kompleksu podziemnego składowania dwutlenku węgla,
+    - **e)** w zakresie podziemnego składowania dwutlenku węgla;”,
+    - **b)** w ust. 3: – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla ustala się w wysokości 50 000 zł za każdy kilometr kwadratowy powierzchni terenu objętego taką działalnością, przy czym rozpoczęty kilometr kwadratowy powierzchni terenu liczy się jako cały;”, – w pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6 w brzmieniu: „6) podziemne składowanie dwutlenku węgla ustala się w wysokości dwustukrotnej stawki opłaty z tytułu składowania dwutlenku węgla, pomnożonej przez ilość składowanego bez koncesji dwutlenku węgla.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Opłaty podwyższone, o których mowa w ust. 3 pkt 3–6, ustala się, stosując stawki obowiązujące w dniu wszczęcia postępowania.”;
+
+- **49)** w art. 141 ust. 2 otrzymuje brzmienie: „2. Jeżeli działalność jest prowadzona na terenie więcej niż jednej gminy, opłaty stanowią dochód gmin proporcjonalnie odpowiednio do wielkości powierzchni terenu objętego działalnością, ilości wydobytej kopaliny, ilości wprowadzonej do górotworu substancji, odpadów albo dwutlenku węgla.”;
+- **50)** po dziale VIII dodaje się dział VIIIa w brzmieniu: „DZIAŁ VIIIA Rejestr obszarów górniczych i zamkniętych podziemnych składowisk dwutlenku węgla
+
 **Art. 152a.**
 
 1. Tworzy się rejestr obszarów górniczych i zamkniętych podziemnych składowisk dwutlenku węgla.
@@ -442,6 +667,21 @@ source: "isap-pdf"
 - **59)** w art. 179 pkt 1 otrzymuje brzmienie: „1) w celach innych niż poszukiwanie lub rozpoznawanie złóż kopalin albo poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla wykonuje roboty geologiczne bez zatwierdzonego projektu robót geologicznych lub z naruszeniem określonych w nim warunków albo bez przedłożenia projektu robót geologicznych, który nie podlega zatwierdzeniu, lub z naruszeniem określonych w nim warunków,”.
 
 **Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059 oraz z 2013 r. poz. 984) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje pkt 6 w brzmieniu: „6) dyrektywy Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwutlenku węgla oraz zmieniającej dyrektywę Rady 85/337/EWG, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz. Urz. UE L 140 z 05.06.2009, str. 114, z późn. zm.).”;
+- **2)** w art. 1:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Ustawa określa także warunki wykonywania i kontrolowania działalności polegającej na przesyłaniu dwutlenku węgla w celu jego podziemnego składowania w celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla w rozumieniu art. 1 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21 i …).”,
+    - **b)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) wydobywania kopalin ze złóż oraz podziemnego bezzbiornikowego magazynowania paliw w zakresie uregulowanym ustawą z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;”;
+
+- **3)** w art. 3:
+    - **a)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) przesyłanie dwutlenku węgla – transport dwutlenku węgla w celu jego podziemnego składowania w celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla w rozumieniu art. 1 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;”,
+    - **b)** po pkt 11g dodaje się pkt 11h w brzmieniu: „11h) sieć transportowa dwutlenku węgla – sieć służącą do przesyłania dwutlenku węgla, wraz z towarzyszącymi jej tłoczniami lub stacjami redukcyjnymi, za której ruch sieciowy jest odpowiedzialny operator sieci transportowej dwutlenku węgla;”,
+    - **c)** pkt 12 otrzymuje brzmienie: „12) przedsiębiorstwo energetyczne – podmiot prowadzący działalność gospodarczą w zakresie:
+    - **a)** wytwarzania, przetwarzania, magazynowania, przesyłania, dystrybucji paliw albo energii lub obrotu nimi albo
+    - **b)** przesyłania dwutlenku węgla;”,
+    - **d)** po pkt 28 dodaje się pkt 28a w brzmieniu: „28a) operator sieci transportowej dwutlenku węgla – przedsiębiorstwo energetyczne zajmujące się przesyłaniem dwutlenku węgla, odpowiedzialne za ruch sieciowy sieci transportowej dwutlenku węgla, bieżące i długookresowe bezpieczeństwo funkcjonowania tej sieci, jej eksploatację, konserwację, remonty oraz niezbędną rozbudowę;”;
+
+- **4)** po rozdziale 2a dodaje się rozdział 2b w brzmieniu: „Rozdział 2b Przesyłanie dwutlenku węgla
 
 **Art. 11m.**
 
@@ -536,19 +776,51 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm. ) w art. 6 wprowadza się następujące zmiany:
 
+- **1)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) budowa i utrzymywanie sieci transportowej dwutlenku węgla;”;
+- **2)** po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla oraz podziemne składowanie dwutlenku węgla;”.
+
 **Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 250, poz. 150, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 401 w ust. 7:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) wpływy z opłat, o których mowa w dziale VII ustawy – Prawo geologiczne i górnicze;”,
+    - **b)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) wpływy z opłat gwarancyjnych i uzupełniających opłat gwarancyjnych, o których mowa w art. 28e ust. 4 i art. 28f ust. 1 ustawy – Prawo geologiczne i górnicze;”;
+
+- **2)** w art. 401c:
+    - **a)** w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje pkt 3 w brzmieniu: „3) finansowanie realizacji zadań Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla, z wyjątkiem zadań, o których mowa w art. 28e ust. 2 ustawy – Prawo geologiczne i górnicze.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Środki Narodowego Funduszu w wysokości nie mniejszej niż kwota przychodów, o których mowa w art. 401 ust. 7 pkt 2a, po pomniejszeniu o koszty obsługi tych przychodów, przeznacza się na finansowanie realizacji zadań Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla, o których mowa w art. 28e ust. 2 ustawy – Prawo geologiczne i górnicze.”.
 
 **Art. 5.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2012 r. poz. 1329 oraz z 2013 r. poz.
 
+- **775)** w art. 10 w ust. 2 w pkt 1 lit. c otrzymuje brzmienie: „c) podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów oraz podziemnego składowania dwutlenku węgla,”.
+
 **Art. 6.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2012 r. poz. 647, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 10 w ust. 1 pkt 11 otrzymuje brzmienie: „11) występowania udokumentowanych złóż kopalin, zasobów wód podziemnych oraz udokumentowanych kompleksów podziemnego składowania dwutlenku węgla;”;
+- **2)** w art. 39 w ust. 3 pkt 8 otrzymuje brzmienie: „8) obszary występowania udokumentowanych złóż kopalin i udokumentowanych kompleksów podziemnego składowania dwutlenku węgla.”.
+
 **Art. 7.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2013 r. poz. 672, 675 i 983) w art. 46 w ust. 1:
+
+- **1)** pkt 1 otrzymuje brzmienie: „1) poszukiwania, rozpoznawania złóż węglowodorów oraz kopalin stałych objętych własnością górniczą, poszukiwania lub rozpoznawania kompleksu podziemnego składowania dwutlenku węgla, wydobywania kopalin ze złóż, podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów oraz podziemnego składowania dwutlenku węgla;”;
+- **2)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) przesyłania dwutlenku węgla w celu jego podziemnego składowania;”.
 
 **Art. 8.** W ustawie z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. Nr 75, poz. 493, z późn. zm. ) w art. 3 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje pkt 8 w brzmieniu: „8) z zakresu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981 oraz z 2013 r. poz. 21 i …) – podziemne składowanie dwutlenku węgla.”.
 
 **Art. 9.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 28 kwietnia 2011 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. Nr 122, poz. 695) w załączniku do ustawy w części B lp. 27–29 tabeli otrzymują brzmienie: „27 Wychwytywanie dwutlenku węgla z instalacji objętej systemem handlu uprawnieniami do emisji, celem jego przesyłania i podziemnego składowania w celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla w rozumieniu art. 1 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. – CO 981, z późn. zm.) 28 Przesyłanie dwutlenku węgla – CO przeznaczonego do podziemnego składowania w celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla w rozumieniu art. 1 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze z wykorzystaniem sieci transportowej dwutlenku węgla 29 Podziemne składowanie dwutlenku węgla w celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla w rozumieniu art. 1 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo – CO geologiczne i górnicze ”
+- **1)** w art. 21 w ust. 2 w pkt 34: 127n ust. 1 tej ustawy, z wyłączeniem informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji;”;
+    - **a)** lit. a i b otrzymują brzmienie: „a) koncesjach na poszukiwanie i rozpoznawanie złóż kopalin, poszukiwanie i rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla, wydobywanie kopalin ze złóż, podziemne bezzbiornikowe magazynowanie substancji, podziemne składowanie odpadów oraz podziemne składowanie dwutlenku węgla,
+    - **b)** danych zawartych w księdze rejestrowej rejestru obszarów górniczych i zamkniętych podziemnych składowisk dwutlenku węgla,”,
+    - **b)** w lit. d średnik zastępuje się przecinkiem i dodaje lit. e w brzmieniu: „e) protokołach z przeprowadzonej kontroli działalności polegającej na podziemnym składowaniu dwutlenku węgla, o których mowa w art.
+
+- **2)** w art. 66 w ust. 1 po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) dla instalacji do spalania paliw w celu wytwarzania energii elektrycznej, o elektrycznej mocy znamionowej nie mniejszej niż 300 MW ocenę gotowości instalacji do wychwytywania dwutlenku węgla, określoną na podstawie analizy:
+    - **a)** dostępności podziemnych składowisk dwutlenku węgla,
+    - **b)** wykonalności technicznej i ekonomicznej sieci transportowych dwutlenku węgla.”;
+
+- **3)** w art. 72 w ust. 1 pkt 4 otrzymuje brzmienie: „4) koncesji na poszukiwanie lub rozpoznawanie złóż kopalin, poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla, wydobywanie kopalin ze złóż, podziemne bezzbiornikowe magazynowanie substancji, podziemne składowanie odpadów oraz podziemne składowanie dwutlenku węgla – wydawanej na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;”;
+- **4)** w art. 82 w ust. 1 w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje lit. f w brzmieniu: „f) gotowość instalacji do wychwytywania dwutlenku węgla w przypadku instalacji do spalania paliw w celu wytwarzania energii elektrycznej, o elektrycznej mocy znamionowej nie mniejszej niż 300 MW;”;
+- **5)** w art. 88 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje pkt 3 w brzmieniu: „3) w przypadku braku możliwości stwierdzenia gotowości instalacji do wychwytywania dwutlenku węgla na etapie wydawania decyzji o środowiskowych uwarunkowaniach w przypadku instalacji do spalania paliw w celu wytwarzania energii elektrycznej, o elektrycznej mocy znamionowej nie mniejszej niż 300 MW.”.
+
+**Art. 10.** W ustawie z dnia 28 kwietnia 2011 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. Nr 122, poz. 695) w załączniku do ustawy w części B lp. 27–29 tabeli otrzymują brzmienie: „27 Wychwytywanie dwutlenku węgla z – CO instalacji objętej systemem handlu uprawnieniami do emisji, celem jego przesyłania i podziemnego składowania w celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla w rozumieniu art. 1 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. Nr 163, poz. 981, z późn. zm.) 28 Przesyłanie dwutlenku węgla – CO przeznaczonego do podziemnego składowania w celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla w rozumieniu art. 1 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze z wykorzystaniem sieci transportowej dwutlenku węgla 29 Podziemne składowanie dwutlenku węgla w – CO ” celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla w rozumieniu art. 1 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze
 
 **Art. 11.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21 i 888) w art. 2 w pkt 11 kropkę zastępuje się średnikiem i dodaje pkt 12 w brzmieniu: „12) dwutlenku węgla przeznaczonego do podziemnego składowania w celu przeprowadzenia projektu demonstracyjnego wychwytu i składowania dwutlenku węgla w rozumieniu art. 1 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.”.
 

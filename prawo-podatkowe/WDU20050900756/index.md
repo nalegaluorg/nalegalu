@@ -8,7 +8,7 @@ pos: 756
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o podatku od towarów i usług oraz o zmianie niektórych innych ustaw
@@ -29,6 +29,147 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz.U. Nr 54, poz. 535 oraz z 2005 r. Nr 14, poz. 113) wprowadza się następujące zmiany:
 
+- **1)** w art. 2:
+    - **a)** pkt 8 otrzymuje brzmienie: „8) eksporcie towarów – rozumie się przez to potwierdzony przez urząd celny określony w przepisach celnych wywóz towarów z terytorium kraju poza terytorium Wspólnoty w wykonaniu czynności określonych w art. 7 ust. 1 pkt 1-4, jeżeli wywóz jest dokonany przez:
+    - **a)** dostawcę lub na jego rzecz, lub
+    - **b)** nabywcę mającego siedzibę poza terytorium kraju, lub na jego rzecz;”,
+    - **b)** pkt 20 otrzymuje brzmienie: „20) produktach rolnych - rozumie się przez to towary wymienione w załączniku nr 2 do ustawy oraz towary wytworzone z nich przez rolnika ryczałtowego z produktów pochodzących z jego własnej działalności rolniczej przy użyciu środków zwykle używanych w gospodarstwie rolnym, leśnym i rybackim;”,
+    - **c)** w pkt 28 średnik zastępuje się kropką i uchyla się pkt 29;
+
+- **2)** w art. 3: 1267 i Nr 273, poz. 2703).”,
+    - **a)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) nieposiadających stałego miejsca zamieszkania lub siedziby albo stałego miejsca prowadzenia działalności na terytorium kraju - właś ciwym organem podatkowym jest Naczelnik Drugiego Urzędu Skarbowego Warszawa - Śródmieście.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przepisy ust. 1-3 nie naruszają przepisów ustawy z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz.U. z 2004 r. Nr 121, poz.
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Jeżeli nie można ustalić właściwości miejscowej w sposób określony w ust. 1-3a, właściwym organem podatkowym jest Naczelnik Drugiego Urzędu Skarbowego Warszawa - Śródmieście.”;
+
+- **3)** w art. 7:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Przepisu ust. 2 nie stosuje się do przekazywanych drukowanych materiałów reklamowych i informacyjnych, prezentów o małej wartości i próbek.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Przez prezenty o małej wartości, o których mowa w ust. 3, rozumie się przekazywane przez podatnika jednej osobie towary:
+
+- **1)** o łącznej wartości nieprzekraczającej w roku podatkowym kwoty, o której mowa w art. 21 ust. 1 pkt 68a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 2000 r. Nr 14, poz. 176, z późn. zm. ), jeżeli podatnik prowadzi ewidencję pozwalającą na ustalenie tożsamości tych osób;
+- **2)** których przekazania nie ujęto w ewidencji, o której mowa w pkt 1, je¿eli jednostkowa cena nabycia lub jednostkowy koszt wytworzenia przekazanego towaru nie przekracza 5 zł.”,
+    - **c)** uchyla się ust. 5 i 6,
+    - **d)** ust. 7 otrzymuje brzmienie: „7. Przez próbkę, o której mowa w ust. 3, rozumie się niewielką ilość towaru reprezentującą określony rodzaj lub kategorię towarów, która zachowuje skład oraz wszystkie właściwości fizyczne, fizykochemiczne i chemiczne lub biologiczne towaru, przy czym ilość lub wartość przekazywanych (wręczanych) przez podatnika próbek nie wskazuje na działanie mające charakter handlowy.”;
+
+- **4)** w art. 10 w ust. 1:
+    - **a)** zdanie wstępne otrzymuje brzmienie: „Wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 9, nie występuje w przypadku, gdy:”,
+    - **b)** pkt 4 otrzymuje brzmienie: „4) dostawa towarów, o których mowa w art. 120 ust. 1, w wyniku której ma miejsce wewnątrzwspólnotowe nabycie towarów na terytorium kraju, jest opodatkowana podatkiem od wartości dodanej na terytorium państwa członkowskiego rozpoczęcia wysyłki lub transportu towarów na zasadach odpowiadających regulacjom zawartym w art. 120 ust. 4 i 5, a nabywca posiada dokumenty jednoznacznie potwierdzające nabycie towarów na tych zasadach;”;
+
+- **5)** w art. 13:
+    - **a)** w ust. 4 pkt 4 otrzymuje brzmienie: „4) towary mają być przedmiotem eksportu towarów przez tego podatnika, pod warunkiem że podatnik posiada dokument celny potwierdzający rozpoczęcie procedury wywozu na terytorium kraju, jeżeli wywóz z terytorium Wspólnoty jest potwierdzany przez urząd celny określony w przepisach celnych na terytorium państwa członkowskiego innym niż terytorium kraju;”,
+    - **b)** ust. 8 otrzymuje brzmienie: „8. Za wewnątrzwspólnotową dostawę towarów nie uznaje się dostawy towarów, o których mowa w art. 83 ust. 1 pkt 1, 3, 6, 10 i 18 oraz towarów opodatkowanych według zasad określonych w art. 120 ust. 4 i 5.”;
+
+- **6)** w art. 15:
+    - **a)** w ust. 3: - uchyla się pkt 2, - pkt 3 otrzymuje brzmienie: „3) z tytułu których przychody zostały wymienione w art. 13 pkt 2-9 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, jeżeli z tytułu wykonania tych czynności osoby te są związane ze zlecającym wykonanie tych czynności prawnymi więzami tworzącymi stosunek prawny pomiędzy zlecającym wykonanie czynności i wykonującym zlecane czynności co do warunków wykonywania tych czynności, wynagrodzenia i odpowiedzialności zlecającego wykonanie tych czynności wobec osób trzecich,”,
+    - **b)** po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „3a. Przepis ust. 3 pkt 3 stosuje się odpowiednio do usług twórców i artystów wykonawców w rozumieniu przepisów o prawie autorskim i prawach pokrewnych, wynagradzanych w formie honorariów za przekazanie lub udzielenie licencji do praw autorskich lub praw artystycznego wykonania albo ich wykonanie, w tym również wynagradzanych za pośrednictwem organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi.
+
+3b. Za zgodą naczelnika urzędu skarbowego, właściwego dla osoby prawnej podatnikami mogą być również jednostki organizacyjne osoby prawnej, będącej organizacją pożytku publicznego w rozumieniu przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz.U. Nr 96, poz. 873 oraz z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135) prowadzące działalność gospodarczą, jeżeli samodzielnie sporządzają sprawozdanie finansowe.
+
+3c. Sprzedażą dokonywaną przez podatników, o których mowa w ust. 3b, jest także odpłatne przekazywanie towarów oraz świadczenie usług pomiędzy jednostkami organizacyjnymi wchodzącymi w skład osoby prawnej.”;
+
+- **7)** w art. 19:
+    - **a)** ust. 6 otrzymuje brzmienie: „6. W eksporcie towarów obowiązek podatkowy powstaje z chwilą potwierdzenia przez urząd celny określony w przepisach celnych wywozu towaru poza terytorium Wspólnoty.”,
+    - **b)** ust. 12 otrzymuje brzmienie: „12. Przepis ust. 11 stosuje się odpowiednio w przypadku eksportu towarów, jeżeli wywóz towarów nastąpi w ciągu 6 miesięcy, licząc od dnia otrzymania części należności.”,
+    - **c)** w ust. 13: - pkt 3 otrzymuje brzmienie: „3) wystawienia faktury lub otrzymania całości lub części zapłaty z tytułu dostawy gazet, magazynów, czasopism (PKWiU 22.12 i
+
+22. 13) oraz książek (PKWiU ex 22.11) - z wyłączeniem książek adresowych o zasięgu krajowym, regionalnym i lokalnym, książek telefonicznych, teleksów i telefaksów (PKWiU 22.11.2060.10), nut, map i ulotek, nie później jednak niż 60. dnia, licząc od dnia wydania tych towarów; jeżeli umowa przewiduje rozliczenie zwrotów wydawnictw, obowiązek podatkowy powstaje z chwilą wystawienia faktury dokumentującej faktyczną dostawę, nie później jednak niż po upływie 120 dni, licząc od pierwszego dnia wydania tych wydawnictw;”, - pkt 11 otrzymuje brzmienie: „11) upływu terminu płatności - z tytułu czynności wykonywanych na rzecz członków spółdzielni, którym przysługują spółdzielcze prawa do lokali, członków spółdzielni będących właścicielami lokali, osób niebędących członkami spółdzielni, którym przysługują spółdzielcze własnościowe prawa do lokali, lub na rzecz właścicieli lokali, niebędących członkami spółdzielni, za które są pobierane opłaty, zgodnie z art. 4 ust. 1-2, 4 i 5 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz.U. z 2003 r. Nr 119, poz. 1116, z 2004 r. Nr 19, poz. 177 i Nr 63, poz. 591 oraz z 2005 r. Nr 72, poz. 643).”,
+
+- **d)** ust. 15 otrzymuje brzmienie: „15. W przypadkach określonych w ust. 10, 13 pkt 2-5 i 7-10 otrzymanie części zapłaty (ceny) lub części wkładu budowlanego i mieszkaniowego powoduje powstanie obowiązku podatkowego w tej części.”,
+- **e)** po ust. 16 dodaje się ust. 16a w brzmieniu: „16a. W przypadku wydania towarów przez komitenta na rzecz komisanta, o którym mowa w art. 7 ust. 1 pkt 3, obowiązek podatkowy powstaje z chwilą otrzymania przez komitenta zapłaty za wydany towar, nie później jednak niż w ciągu 30 dni od dostawy towarów dokonanej przez komisanta.”,
+- **f)** ust. 20 otrzymuje brzmienie: „20. Przepisy ust. 1-4, 11, 13 pkt 1 lit. a, pkt 3 i 5 oraz ust. 16-17 stosuje się odpowiednio do dostawy towarów, dla której podatnikiem jest ich nabywca.”;
+- **8)** w art. 20 w ust. 3 uchyla się zdanie drugie;
+- **9)** w art. 23 ust. 13 otrzymuje brzmienie: „13. Przepisów ust. 1-9 nie stosuje się również do towarów opodatkowanych według zasad określonych w art. 120 ust. 4 i 5.”;
+- **10)** w art. 24 w ust. 10 pkt 1 otrzymuje brzmienie: „1) towarów, o których mowa w art. 120 ust. 1, opodatkowanych podatkiem od wartości dodanej w państwie członkowskim rozpoczęcia transportu lub wysyłki na zasadach odpowiadającym regulacjom zawartym w art. 120 ust. 4 i 5;”;
+- **11)** w art. 27 w ust. 4 pkt 3 otrzymuje brzmienie: „3) doradztwa w zakresie sprzętu komputerowego (PKWiU 72.1); w zakresie oprogramowania (PKWiU 72.2); prawniczych, rachunkowo-księgowych, badania rynków i opinii publicznej, doradztwa w zakresie prowadzenia działalności gospodarczej i zarządzania (PKWiU 74.1); architektonicznych i in¿ynierskich (PKWiU 74.2) - z zastrze¿eniem ust. 2 pkt 1; w zakresie badań i analiz technicznych (PKWiU 74.3); przetwarzania danych i dostarczania informacji; tłumaczeń;”;
+- **12)** w art. 28 w ust. 5 w pkt 2:
+    - **a)** lit. a i b otrzymują brzmienie: „a) usługami, o których mowa w art. 27 ust. 2 pkt 3 lit. b - miejscem świadczenia tych usług jest miejsce świadczenia usług, z którymi usługi te są związane,
+    - **b)** usługami innymi niż wymienione w pkt 1 i 2 lit. a oraz w art. 27 ust. 3 - miejscem świadczenia tych usług jest miejsce świadczenia usług, z którymi usługi te są związane,”,
+    - **b)** dodaje się lit. c w brzmieniu: „c) dostawą towarów - miejscem świadczenia tych usług jest miejsce dokonania dostawy towarów”;
+
+- **13)** w art. 29:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podstawą opodatkowania jest obrót, z zastrzeżeniem ust. 2-22, art. 3032, art. 119 oraz art. 120 ust. 4 i 5. Obrotem jest kwota należna z tytułu sprzedaży, pomniejszona o kwotę należnego podatku. Kwota należna obejmuje całość świadczenia należnego od nabywcy. Obrót zwiększa się o otrzymane dotacje, subwencje i inne dopłaty o podobnym charakterze mające bezpośredni wpływ na cenę (kwotę należną) towarów dostarczanych lub usług świadczonych przez podatnika, pomniejszone o kwotę należnego podatku.”,
+    - **b)** ust. 17 otrzymuje brzmienie: „17. Podstawą opodatkowania w imporcie usług jest kwota, którą usługobiorca jest obowiązany zapłacić, z wyjątkiem gdy wartość usługi została wliczona do podstawy opodatkowania wewnątrzwspólnotowego nabycia towarów zgodnie z art. 31 ust. 2 pkt 2 lub wartość usługi - na podstawie odrębnych przepisów - zwiększa wartość celną importowanego towaru albo w przypadku gdy podatek został rozliczony przez usługodawcę.”;
+
+- **14)** w art. 31:
+    - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) podatki, cła, opłaty i inne należności o podobnym charakterze związane z nabyciem towarów, z wyjątkiem podatku;”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Przy ustalaniu podstawy opodatkowania, o której mowa w ust. 1, przepis art. 29 ust. 4 stosuje się odpowiednio.”;
+
+- **15)** w art. 41:
+    - **a)** ust. 9 otrzymuje brzmienie: „9. Otrzymanie przez podatnika dokumentu potwierdzającego wywóz towaru poza terytorium Wspólnoty w terminie późniejszym niż określony w ust. 7 upoważnia podatnika do dokonania korekty podatku należnego w rozliczeniu za okres rozliczeniowy, w którym podatnik otrzymał ten dokument.”,
+    - **b)** w ust. 11 zdanie pierwsze otrzymuje brzmienie: „Przepisy ust. 4 i 5 stosuje się odpowiednio w eksporcie towarów, o którym mowa w art. 2 pkt 8 lit. b, jeżeli podatnik przed złożeniem deklaracji podatkowej za okres rozliczeniowy, w którym dokonał dostawy towarów, posiada kopię dokumentu, w którym urząd celny określony w przepisach celnych potwierdził wywóz tych towarów poza terytorium Wspólnoty.”,
+
+- **16)** w art. 42:
+    - **a)** w ust. 3: - pkt 2 otrzymuje brzmienie: „2) kopia faktury,”, - w pkt 3 skreśla się przecinek i uchyla się pkt 4,
+    - **b)** w ust. 11 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) dowód potwierdzający przyjęcie przez nabywcę towaru na terytorium państwa członkowskiego innym niż terytorium kraju.”;
+
+- **17)** w art. 44 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) towarów, o których mowa w art. 36 ust. 1.”;
+- **18)** w art. 82:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W odniesieniu do organizacji międzynarodowych, które na terytorium kraju prowadzą działalność w zakresie zadań publicznych określonych w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, mogą być zastosowane zwolnienia od podatku na warunkach określonych w rozporządzeniu wydanym na podstawie ust.
+
+2. ”,
+
+- **b)** w ust. 2 zdanie wstępne otrzymuje brzmienie: „Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw zagranicznych, może, w drodze rozporządzenia, zwolnić od podatku organizacje międzynarodowe, które na terytorium kraju prowadzą działalność w zakresie zadań publicznych określonych w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, i są zwolnione od analogicznych podatków w innych krajach, uwzględniając:”;
+- **19)** w art. 83 ust. 9 otrzymuje brzmienie: „9. Przez usługi, o których mowa w ust. 1 pkt 24, rozumie się również usługi polegające na przerobie, uszlachetnieniu lub przetworzeniu, świadczone na zlecenie podmiotów mających siedzibę lub miejsce zamieszkania albo pobytu poza terytorium kraju, w przypadku gdy:
+- **1)** wykonywane przez podatnika usługi dotyczą towarów nabytych lub zaimportowanych w tym celu na terytorium Wspólnoty;
+- **2)** podatnik posiada dowód, że należność za usługę została zapłacona i przekazana na rachunek bankowy podatnika w banku mającym siedzibę na terytorium kraju;
+- **3)** podatnik posiada dokument potwierdzający wywóz towaru z terytorium kraju poza terytorium Wspólnoty, którego usługa dotyczy.”;
+- **20)** w art. 86:
+    - **a)** ust. 3-5 otrzymują brzmienie: „3. W przypadku nabycia samochodów osobowych oraz innych pojazdów samochodowych o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony kwotę podatku naliczonego stanowi 60% kwoty podatku określonej w fakturze lub kwoty podatku należnego z tytułu wewnątrzwspólnotowego nabycia towarów lub kwoty podatku należnego od dostawy towarów, dla której podatnikiem jest ich nabywca – nie więcej jednak niż 6 000 zł.
+
+4. Przepis ust. 3 nie dotyczy:
+
+- **1)** pojazdów samochodowych mających jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą, klasyfikowanych na podstawie przepisów prawa o ruchu drogowym do podrodzaju: wielozadaniowy, van;
+- **2)** pojazdów samochodowych mających więcej niż jeden rząd siedzeń, które oddzielone są od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą i u których długość części przeznaczonej do przewozu ładunków, mierzona po podłodze od najdalej wysuniętego punktu podłogi pozwalającego postawić pionową ścianę lub trwałą przegrodę pomiędzy podłogą a sufitem do tylnej krawędzi podłogi, przekracza 50% długości pojazdu; dla obliczenia proporcji, o której mowa w zdaniu poprzednim, długość pojazdu stanowi odległość pomiędzy dolną krawędzią przedniej szyby pojazdu a tylną krawędzią podłogi części pojazdu przeznaczonej do przewozu ładunków, mierzona w linii poziomej wzdłuż pojazdu pomiędzy dolną krawędzią przedniej szyby pojazdu a punktem wyprowadzonym w pionie od tylnej krawędzi podłogi części pojazdu przeznaczonej do przewozu ładunków;
+- **3)** pojazdów samochodowych, które mają otwartą część przeznaczoną do przewozu ładunków;
+- **4)** pojazdów samochodowych, które posiadają kabinę kierowcy i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu;
+- **5)** pojazdów samochodowych będących pojazdami specjalnymi w rozumieniu przepisów prawa o ruchu drogowym o przeznaczeniach wymienionych w załączniku nr 9 do ustawy;
+- **6)** pojazdów samochodowych konstrukcyjnie przeznaczonych do przewozu co najmniej 10 osób łącznie z kierowcą - jeżeli z dokumentów wydanych na podstawie przepisów prawa o ruchu drogowym wynika takie przeznaczenie;
+- **7)** przypadków, gdy przedmiotem działalności podatnika jest:
+    - **a)** odprzedaż tych samochodów (pojazdów) lub
+    - **b)** oddanie w odpłatne używanie tych samochodów (pojazdów) na podstawie umowy najmu, dzierżawy, leasingu lub innych umów o podobnym charakterze, i te samochody (pojazdy) są przez podatnika przeznaczone wyłącznie do wykorzystania na te cele przez okres nie krótszy niż sześć miesięcy.
+
+5. Spełnienie wymagań dla pojazdów samochodowych określonych w ust. 4 pkt 1-4 stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację oraz dowodu rejestracyjnego pojazdu, zawierającego właściwą adnotację o spełnieniu tych wymagań.”,
+
+- **b)** po ust. 5 dodaje się ust. 5a-5c w brzmieniu: „5a. Kopię zaświadczenia, o którym mowa w ust. 5, podatnik jest obowiązany dostarczyć, w terminie 14 dni od dnia jego otrzymania, do naczelnika urzędu skarbowego.
+
+5b. W przypadku, gdy w pojeździe, dla którego wydano zaświadczenie, o którym mowa w ust. 5, zostały wprowadzone zmiany, w wyniku których pojazd nie spełnia wymagań, o których mowa w ust. 4 pkt 1-4 – podatnik obowiązany jest do pisemnego zawiadomienia naczelnika urzędu skarbowego o tych okolicznościach, w terminie 7 dni od ich zaistnienia.
+
+5c. Jeżeli zmiany, o których mowa w ust. 5b, zostaną dokonane w okresie 12 miesięcy licząc od miesiąca, w którym otrzymano fakturę lub dokument celny, podatnik jest obowiązany do skorygowania kwoty podatku naliczonego w całości w rozliczeniu za okres, w którym dokonano tych zmian.”,
+
+- **c)** ust. 6 i 7 otrzymują brzmienie: „6. Przepisy ust. 3-5c stosuje się odpowiednio do importu samochodów osobowych oraz innych pojazdów samochodowych, z tym że do importu samochodów osobowych oraz innych pojazdów samochodowych, o których mowa w ust. 3, kwotę podatku naliczonego stanowi 60% kwoty wynikającej z dokumentu celnego, z uwzględnieniem kwot wynikających z decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34 - nie więcej jednak niż 6 000 zł.
+
+7. W przypadku usługobiorców użytkujących samochody osobowe oraz inne pojazdy samochodowe, o których mowa w ust. 3, na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze, kwotę podatku naliczonego stanowi 60% kwoty podatku naliczonego od czynszu (raty) lub innych płatności wynikających z zawartej umowy, udokumentowanych fakturą. Suma kwot w całym okresie użytkowania samochodów i pojazdów, o których mowa w zdaniu pierwszym, dotycząca jednego samochodu lub pojazdu, nie może jednak przekroczyć kwoty 6 000 zł.”,
+
+- **d)** dodaje się ust. 7a w brzmieniu: „7a. Przepisy ust. 3 i 4 stosuje się odpowiednio do nabytych lub importowanych części składowych zużytych do wytworzenia przez podatnika samochodów osobowych oraz innych pojazdów samochodowych, o których mowa w ust. 3, z uwzględnieniem przepisów ust. 4-5c, jeżeli te samochody i pojazdy zostały zaliczone przez tego podatnika do środków trwałych w rozumieniu przepisów o podatku dochodowym.”;
+- **21)** w art. 87:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Z zastrzeżeniem ust. 3 i 3a, zwrot różnicy podatku następuje na rachunek bankowy podatnika w banku mającym siedzibę na terytorium kraju wskazanym w zgłoszeniu identyfikacyjnym, o którym mowa w odrębnych przepisach, w terminie 60 dni od dnia złożenia rozliczenia przez podatnika. Jeżeli zasadność zwrotu wymaga dodatkowego sprawdzenia, naczelnik urzędu skarbowego może przedłużyć ten termin do czasu zakończenia postępowania wyjaśniającego. Jeżeli przeprowadzone postępowanie wykaże zasadność zwrotu, o którym mowa w zdaniu poprzednim, urząd skarbowy wypłaca podatnikowi należną kwotę wraz z odsetkami w wysokości odpowiadającej opłacie prolongacyjnej stosowanej w przypadku odroczenia płatności podatku lub jego rozłożenia na raty.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Różnica podatku podlegająca zwrotowi w kwocie przekraczającej wartość podatku naliczonego związanego z nabyciem towarów lub usług, które na podstawie przepisów o podatku dochodowym są zaliczane przez podatnika do środków trwałych oraz wartości niematerialnych i prawnych podlegających amortyzacji, oraz gruntów i praw wieczystego użytkowania gruntów, jeżeli zostały one zaliczone do środków trwałych nabywcy, powiększonej o 22% obrotu podatnika opodatkowanego stawkami niższymi niż określona w art. 41 ust. 1 oraz obrotu z tytułu dostaw towarów lub świadczenia usług, o których mowa w art. 86 ust. 8 pkt 1, podlega zwrotowi w terminie 180 dni od dnia złożenia deklaracji podatkowej.”,
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Do obrotu, o którym mowa w ust. 3, wlicza się obrót z tytułu otrzymania należności, dla którego obowiązek podatkowy powstaje zgodnie z art. 19 ust. 12 albo art. 20 ust. 3, pod warunkiem przedstawienia w urzędzie skarbowym zabezpieczenia majątkowego w kwocie odpowiadającej kwocie podatku jaka byłaby należna gdyby obrót ten dotyczył dostawy towarów na terytorium kraju, do czasu przedstawienia dokumentów potwierdzających eksport towarów albo wewnątrzwspólnotową dostawę towarów, objętych tą należnością.”,
+    - **d)** w ust. 4 uchyla się pkt 2,
+    - **e)** w ust. 6 pkt 1 otrzymuje brzmienie: „1) faktur dokumentujących kwoty nale¿ności, które zostały w całości zapłacone bezpośrednio podatnikowi będącemu wystawcą faktury, z uwzględnieniem art. 22 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz.U. Nr 173, poz. 1807 i Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289),”;
+
+- **22)** w art. 88:
+    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) paliw silnikowych, oleju napędowego oraz gazu, wykorzystywanych do napędu samochodów osobowych i innych pojazdów samochodowych, o których mowa w art. 86 ust. 3;”,
+    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Nie stanowią podstawy do obniżenia podatku należnego oraz zwrotu różnicy podatku lub zwrotu podatku naliczonego faktury i dokumenty celne w przypadku gdy:
+
+- **1)** sprzedaż została udokumentowana fakturami lub fakturami korygującymi:
+    - **a)** wystawionymi przez podmiot nieistniejący lub nieuprawniony do wystawiania faktur lub faktur korygujących,
+    - **b)** w których kwota podatku wykazana na oryginale faktury lub faktury korygującej jest różna od kwoty wykazanej na kopii;
+
+- **2)** transakcja udokumentowana fakturą nie podlega opodatkowaniu, jest zwolniona od podatku - a kwota wykazana w fakturze nie została uregulowana;
+- **3)** wystawiono więcej niż jedną fakturę dokumentującą tę samą sprzedaż;
+- **4)** wystawione faktury, faktury korygujące lub dokumenty celne:
+    - **a)** stwierdzają czynności, które nie zostały dokonane - w części dotyczącej tych czynności,
+    - **b)** podają kwoty niezgodne z rzeczywistością - w części dotyczącej tych pozycji, dla których podane zostały kwoty niezgodne z rzeczywistością,
+    - **c)** potwierdzają czynności, do których mają zastosowanie przepisy art. 58 i 83 Kodeksu cywilnego - w części dotyczącej tych czynności;
+
+- **5)** faktury, faktury korygujące wystawione przez nabywcę zgodnie z odrębnymi przepisami nie zostały zaakceptowane przez sprzedającego;
+- **6)** zaświadczenie, o którym mowa w art. 86 ust. 5, zawiera informacje niezgodne ze stanem faktycznym.
+
+3b. Przepis ust. 3a stosuje się odpowiednio do duplikatów faktur.”,
+
+- **c)** uchyla się ust. 5;
+- **23)** w dziale IX po rozdziale 1 dodaje się rozdział 1a w brzmieniu: „Rozdział 1a Rozliczenie podatku w odniesieniu do nieściągalnych wierzytelności
+
 **Art. 89a.**
 
 1. Podatnik może skorygować podatek należny z tytułu dostawy towarów lub świadczenia usług na terytorium kraju w przypadku wierzytelności odpisanych jako nieściągalne, stanowiących koszty uzyskania przychodów w rozumieniu przepisów o podatku dochodowym, z zastrzeżeniem ust. 2-7. Korekta podatku dotyczy również kwoty podatku przypadającej na część kwoty wierzytelności odpisanej jako nieściągalna.
@@ -38,7 +179,8 @@ source: "isap-pdf"
 - **1)** dostawa towaru lub świadczenie usług jest dokonana na rzecz podatnika, o którym mowa w art. 15 ust. 1, zarejestrowanego jako podatnik VAT czynny, niebędącego w trakcie postępowania upadłościowego lub w trakcie likwidacji;
 - **2)** wierzytelności zostały uprzednio wykazane w deklaracji jako obrót opodatkowany i podatek należny;
 - **3)** wierzyciel i dłużnik na dzień dokonania korekty, o której mowa w ust. 1, są podatnikami zarejestrowanymi jako podatnicy VAT czynni;
-- **4)** wierzytelności nie zostały uregulowane w jakiejkolwiek formie ani nie zostały zbyte; wierzytelności, nie upłynęło 5 lat, licząc od początku roku, w którym została wystawiona faktura;
+- **4)** wierzytelności nie zostały uregulowane w jakiejkolwiek formie ani nie zostały zbyte;
+- **5)** od daty wystawienia faktury, będącej podstawą do odpisania wierzytelności, nie upłynęło 5 lat, licząc od początku roku, w którym została wystawiona faktura;
 - **6)** wierzyciel zawiadomił dłużnika o odpisaniu wierzytelności jako nieściągalnych a dłużnik, w ciągu 28 dni od dnia otrzymania zawiadomienia nie uregulował należności w jakiejkolwiek formie.
 
 3. Korekta podatku należnego może nastąpić w rozliczeniu za okres rozliczeniowy następujący po miesiącu, w którym dłużnik otrzymał zawiadomienie, o którym mowa w ust. 2 pkt 6.
@@ -59,7 +201,7 @@ source: "isap-pdf"
 
 3. Do zaległości podatkowych wynikających z korekty podatku naliczonego, o którym mowa w ust. 1, mają zastosowanie odrębne przepisy o odpowiedzialności osób trzecich za zaległości podatkowe podatnika.
 
-4. W przypadku uregulowania należności po dokonaniu korekty, o której mowa w ust. 1, podatnik ma prawo do zwiększenia kwoty podatku naliczonego w rozliczeniu za okres, w którym należność uregulowano, o kwotę podatku, o której mowa w ust. 1. W przymoże zostać zwiększony w odniesieniu do tej części.
+4. W przypadku uregulowania należności po dokonaniu korekty, o której mowa w ust. 1, podatnik ma prawo do zwiększenia kwoty podatku naliczonego w rozliczeniu za okres, w którym należność uregulowano, o kwotę podatku, o której mowa w ust. 1. W przypadku częściowego uregulowania należności podatek naliczony może zostać zwiększony w odniesieniu do tej części.
 
 5. Do zawiadomienia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy Ordynacji podatkowej o doręczeniach.”;
 
@@ -72,7 +214,10 @@ source: "isap-pdf"
     - **b)** ust. 2 otrzymuje brzmienie: „2. W przypadku towarów i usług, które na podstawie przepisów o podatku dochodowym, są zaliczane przez podatnika do środków trwałych oraz wartości niematerialnych i prawnych podlegających amortyzacji a także gruntów i praw wieczystego użytkowania gruntów, jeżeli zostały zaliczone do środków trwałych nabywcy, z wyłączeniem tych, których wartość początkowa nie przekracza 15 000 zł, korekty, o której mowa w ust. 1, podatnik dokonuje w ciągu 5 kolejnych lat a w przypadku nieruchomości – w ciągu 10 lat, licząc począwszy od roku, w którym zostały oddane do użytkowania. Roczna korekta w przypadku, o którym mowa w zdaniu pierwszym, dotyczy jednej piątej, a w przypadku nieruchomości – jednej dziesiątej, kwoty podatku naliczonego przy ich nabyciu lub wytworzeniu. W przypadku środków trwałych oraz wartości niematerialnych i prawnych, których wartość początkowa nie przekracza 15 000 zł, przepis ust. 1 stosuje się odpowiednio.”;
 
 - **26)** w art. 92 w ust. 1 uchyla się pkt 1;
-- **27)** art. 93 otrzymuje brzmienie: „Art. 93. 1. W przypadku nabycia towarów i usług, o których mowa w art. 87 ust. 3, przed dokonaniem sprzedaży opodatkowanej lub czynno ści wymienionych w art. 86 ust. 8 pkt 1, podmiotom dokonującym nabycia przysługuje prawo do zwrotu kwoty podatku naliczonego w formie zaliczki. miotu uprawnionego, jeżeli spełnione zostały jednocześnie następujące warunki:
+- **27)** art. 93 otrzymuje brzmienie: „Art. 93. 1. W przypadku nabycia towarów i usług, o których mowa w art. 87 ust. 3, przed dokonaniem sprzedaży opodatkowanej lub czynno ści wymienionych w art. 86 ust. 8 pkt 1, podmiotom dokonującym nabycia przysługuje prawo do zwrotu kwoty podatku naliczonego w formie zaliczki.
+
+2. Zwrot kwoty podatku naliczonego przysługuje na wniosek podmiotu uprawnionego, jeżeli spełnione zostały jednocześnie następujące warunki:
+
 - **1)** podmiot został zarejestrowany jako podatnik VAT czynny i nie wykonał czynności opodatkowanych z wyjątkiem:
     - **a)** importu towarów,
     - **b)** wewnątrzwspólnotowego nabycia towarów,
@@ -91,7 +236,7 @@ source: "isap-pdf"
 
 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy sposób dokumentowania i tryb wypłaty zaliczki oraz przypadki zwrotu zaliczki wraz z oprocentowaniem, uwzględniając specyfikę wykonywania niektórych czynności oraz potrzebę ochrony interesu budżetu państwa przed nadużyciami.”;
 
-- **28)** w art. 99 ust. 8 otrzymuje brzmienie: „8. Podatnicy wymienieni w art. 15, inni niż zarejestrowani jako podatnicy VAT czynni i osoby prawne niebędące podatnikami w rozumieniu art. 15, u których wartość wewnątrzwspólnotowego nabycia towarów przekroczyła kwotę, o której mowa w art. 10 ust. 1 pkt 2, lub którzy skorzystali z możliwości deklaracje podatkowe w zakresie dokonywanych nabyć za okresy miesięczne w terminie do 25 dnia miesiąca następującego po każdym kolejnym miesiącu.”;
+- **28)** w art. 99 ust. 8 otrzymuje brzmienie: „8. Podatnicy wymienieni w art. 15, inni niż zarejestrowani jako podatnicy VAT czynni i osoby prawne niebędące podatnikami w rozumieniu art. 15, u których wartość wewnątrzwspólnotowego nabycia towarów przekroczyła kwotę, o której mowa w art. 10 ust. 1 pkt 2, lub którzy skorzystali z możliwości wymienionej w art. 10 ust. 6, są obowiązani składać w urzędzie skarbowym deklaracje podatkowe w zakresie dokonywanych nabyć za okresy miesięczne w terminie do 25 dnia miesiąca następującego po każdym kolejnym miesiącu.”;
 - **29)** uchyla się art. 107;
 - **30)** w art. 109:
     - **a)** w ust. 7 pkt 2 otrzymuje brzmienie: „2) w zakresie ustalania dodatkowego zobowiązania, w przypadku gdy zaniżenie zobowiązania podatkowego lub zawyżenie kwoty różnicy podatku lub kwoty zwrotu podatku naliczonego wiąże się z nieujęciem podatku należnego w rozliczeniu za dany okres z tytułu dostawy lub świadczenia usługi, od której podatek należny został ujęty w poprzednich okresach rozliczeniowych.”,
@@ -101,7 +246,7 @@ source: "isap-pdf"
 - **31)** art. 110 otrzymuje brzmienie: „Art. 110. W przypadku gdy osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne nie są obowiązane do prowadzenia ewidencji określonej w art. 109 ust. 3 w związku z dokonywaniem sprzedaży zwolnionej od podatku na podstawie art. 43 i 82 ust. 3, dokonają sprzedaży opodatkowanej i nie zapłacą podatku należnego, a na podstawie dokumentacji nie jest możliwe ustalenie wielkości tej sprzedaży, naczelnik urzędu skarbowego lub organ kontroli skarbowej określi, w drodze oszacowania, wartość sprzedaży opodatkowanej i ustali od niej kwotę podatku należnego. Je¿eli nie można określić przedmiotu opodatkowania, kwotę podatku ustala się przy zastosowaniu stawki 22%. Przepis art. 109 ust. 4 stosuje się odpowiednio.”;
 - **32)** w art. 111 ust. 1 otrzymuje brzmienie: „1. Podatnicy dokonujący sprzedaży na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych są obowiązani prowadzić ewidencję obrotu i kwot podatku należnego przy zastosowaniu kas rejestrujących.”;
 - **33)** w art. 120:
-    - **a)** w ust. 1 w pkt 2 lit. b otrzymuje brzmienie: „b) kolekcje oraz przedmioty kolekcjonerskie o wartości zoologicznej, botanicznej, mineralogicznej, anatomicznej, historycznej, archeologicznej, paleontologicznej, etnograficznej lub numizmatycznej (PCN 9705 00 mowa w art. 43 ust. 1 pkt 7;”,
+    - **a)** w ust. 1 w pkt 2 lit. b otrzymuje brzmienie: „b) kolekcje oraz przedmioty kolekcjonerskie o wartości zoologicznej, botanicznej, mineralogicznej, anatomicznej, historycznej, archeologicznej, paleontologicznej, etnograficznej lub numizmatycznej (PCN 9705 00 00 0), (CN 9705 00 00), a także przedmioty kolekcjonerskie, o których mowa w art. 43 ust. 1 pkt 7;”,
     - **b)** w ust. 3 w pkt 1 lit. b otrzymuje brzmienie: „b) okazjonalnie przez podatnika innego niż podatnik, o którym mowa w ust. 4 i 5, którego działalność jest opodatkowana, w przypadku gdy dzieła sztuki zostały osobiście przywiezione przez podatnika lub zostały przez niego nabyte od ich twórcy lub spadkobiercy twórcy, lub też w przypadku gdy uprawniają go one do pełnego odliczenia podatku;”,
     - **c)** ust. 10 otrzymuje brzmienie: „10. Przepisy ust. 4 i 5 dotyczą dostawy towarów używanych, dzieł sztuki, przedmiotów kolekcjonerskich lub antyków, które podatnik nabył od:
 
@@ -118,7 +263,7 @@ source: "isap-pdf"
 
 12. W przypadku dostawy towarów, o których mowa w ust. 11 pkt 1, kwotę nabycia, którą należy uwzględnić przy obliczaniu marży, o której mowa w ust. 4 i 5, przyjmuje się w wysokości równej kwocie podstawy opodatkowania zastosowanej przy imporcie towarów powiększonej o należny podatek z tytułu tego importu.
 
-13. Przepis ust. 11 stosuje się w przypadku, gdy podatnik zawiadomił na piśmie naczelnika urzędu skarbowego o przyjętym sposobie opodatkowania zgodnie z ust. 4 i 5 przed dokonaniem dostawy. Zawiadomienie nik zawiadomił naczelnika urzędu skarbowego. Po tym okresie, jeżeli podatnik chce stosować procedurę polegającą na opodatkowaniu marży, musi ponownie złożyć to zawiadomienie.”,
+13. Przepis ust. 11 stosuje się w przypadku, gdy podatnik zawiadomił na piśmie naczelnika urzędu skarbowego o przyjętym sposobie opodatkowania zgodnie z ust. 4 i 5 przed dokonaniem dostawy. Zawiadomienie jest ważne przez okres 2 lat, licząc od końca miesiąca, w którym podatnik zawiadomił naczelnika urzędu skarbowego. Po tym okresie, jeżeli podatnik chce stosować procedurę polegającą na opodatkowaniu marży, musi ponownie złożyć to zawiadomienie.”,
 
 - **e)** ust. 15 i 16 otrzymują brzmienie: „15. Jeżeli podatnik oprócz zasad, o których mowa w ust. 4 i 5, stosuje również ogólne zasady opodatkowania, to jest on obowiązany prowadzić ewidencję zgodnie z art. 109 ust. 3, z uwzględnieniem podziału w zależności od sposobu opodatkowania; w odniesieniu do dostawy, o której mowa w ust. 4 i 5, ewidencja musi zawierać w szczególności kwoty nabycia towarów niezbędne do określenia kwoty marży, o której mowa w tych przepisach.
 
@@ -133,7 +278,9 @@ source: "isap-pdf"
 
 - **34)** w art. 127 po ust. 11 dodaje się ust. 11a-11c w brzmieniu: „11a. Zaświadczenie, o którym mowa w ust. 8 pkt 6, minister właściwy do spraw finansów publicznych wydaje na okres nie dłuższy niż 1 rok.
 
-11b. Warunek, o którym mowa w ust. 8 pkt 3, uważa się za spełniony również w przypadku gdy podmioty posiadały zaległości w podatkach stanowiących dochody budżetu państwa lub zaległości z tytułu skł adek wobec Zakładu Ubezpieczeń Społecznych i uregulowały te zaległości wraz z odsetkami za zwłokę w terminie 30 dni od dnia powstania tych zaległości. uzyskały zaświadczenie, o którym mowa w ust. 8 pkt 6, i które przed upływem okresu, na który zostało ono wydane, ponownie składają wniosek o wydanie zaświadczenia na następny okres.”;
+11b. Warunek, o którym mowa w ust. 8 pkt 3, uważa się za spełniony również w przypadku gdy podmioty posiadały zaległości w podatkach stanowiących dochody budżetu państwa lub zaległości z tytułu skł adek wobec Zakładu Ubezpieczeń Społecznych i uregulowały te zaległości wraz z odsetkami za zwłokę w terminie 30 dni od dnia powstania tych zaległości.
+
+11c. Przepisy ust. 8 - 11b stosuje się odpowiednio do podmiotów, które uzyskały zaświadczenie, o którym mowa w ust. 8 pkt 6, i które przed upływem okresu, na który zostało ono wydane, ponownie składają wniosek o wydanie zaświadczenia na następny okres.”;
 
 - **35)** w art. 146 w ust. 1 w pkt 2 w lit. c tiret drugie otrzymuje brzmienie: „- sprzedaży kawy i herbaty (wraz z dodatkami), napojów bezalkoholowych gazowanych, wód mineralnych, a także sprzedaży w stanie nieprzetworzonym innych towarów opodatkowanych stawką 22%,”;
 - **36)** art. 174 otrzymuje brzmienie: „Art. 174. W przypadkach, o których mowa w art. 120, procedura polegająca na opodatkowaniu marży ma zastosowanie do dostaw towarów nabytych lub uprzednio importowanych przez podatników, o których mowa w art. 120 ust. 4 i 5, po dniu 30 kwietnia 2004 r.”;
@@ -162,6 +309,8 @@ source: "isap-pdf"
 
 3. Do prac wiertniczych
 
+4. Koparka, koparko-spycharka
+
 5. Ładowarka
 
 6. Oczyszczanie dróg
@@ -180,6 +329,10 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2003 r. Nr 58, poz. 515, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 81 w ust. 8 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) dla którego określono wymagania techniczne w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz.U. Nr 54, poz. 535 oraz z 2005 r. Nr 14, poz. 113 i Nr 90, poz. 756).”;
+- **2)** w art. 83 w ust. 1 pkt 2 otrzymuje brzmienie: „2) okręgową stację kontroli pojazdów – w zakresie badań technicznych określonych w pkt 1 lit. a oraz w zakresie badań co do zgodności z warunkami technicznymi autobusu, którego dopuszczalna prędkość na autostradzie i drodze ekspresowej wynosi 100 km/h, pojazdu przeznaczonego do przewozu towarów niebezpiecznych, pojazdu przystosowanego do zasilania gazem, pojazdu zarejestrowanego po raz pierwszy za granicą (przed rejestracją w kraju), pojazdu zabytkowego, pojazdu marki „SAM”, pojazdu w którym dokonano zmian konstrukcyjnych lub wymiany elementów powodujących zmianę danych w dowodzie rejestracyjnym, pojazdu skierowanego na badania techniczne przez organ kontroli ruchu drogowego lub starostę, pojazdu sprowadzonego z zagranicy i noszącego ślady uszkodzeń lub którego stan techniczny wskazuje na naruszenie elementów nośnych konstrukcji pojazdu, mogących stwarzać zagrożenie dla bezpieczeństwa ruchu drogowego, oraz pojazdu, dla którego określono wymagania techniczne w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.”;
+- **3)** w art. 132 dodaje się ust. 3a w brzmieniu: „3a. Odpowiednie organy Policji zawiadomią właściwego dyrektora izby skarbowej o fakcie zatrzymania dowodu rejestracyjnego w przypadku powzięcia uzasadnionego przypuszczenia, o którym mowa w ust. 1 pkt 7, w sytuacji, gdy dotyczy to spełnienia przez pojazd wymagań technicznych określonych w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.”.
+
 **Art. 5.**
 
 1. Na potrzeby art. 88 ust. 1 pkt 3 ustawy wymienionej w art. 1, w stosunku do samochodów osobowych i innych pojazdów samochodowych, o których mowa w art. 86 ust. 4 pkt 1-4 ustawy wymienionej w art. 1, nabytych przed dniem wejścia w życie niniejszej ustawy, dodatkowe badanie techniczne, o którym mowa w art. 86 ust. 5, powinno być przeprowadzone w terminie najbliższego obowiązkowego okresowego badania technicznego, nie później jednak niż przed upływem 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
@@ -190,7 +343,7 @@ source: "isap-pdf"
 
 1. Przepis art. 1 pkt 25 lit. a ma zastosowanie do środków trwałych oraz wartości niematerialnych i prawnych nabytych od dnia wejścia w życie ustawy.
 
-2. Do środków trwałych oraz wartości niematerialnych i prawnych nabytych po dniu 30 kwietnia 2004 r. lecz przed dniem wejścia w życie ustawy, mają zastotychczasowym.
+2. Do środków trwałych oraz wartości niematerialnych i prawnych nabytych po dniu 30 kwietnia 2004 r. lecz przed dniem wejścia w życie ustawy, mają zastosowanie przepisy art. 91 ust. 2 ustawy wymienionej w art. 1 w brzmieniu dotychczasowym.
 
 **Art. 7.**
 

@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.*
 
-Łącznie: **963** orzeczeń
-(pominięto 979 orzeczeń sądów rejonowych)
+Łącznie: **967** orzeczeń
+(pominięto 982 orzeczeń sądów rejonowych)
 
 ## art. 3 (139)
 
@@ -295,14 +295,17 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 - 2017-12-28 | SO | [XVIII C 895/17](https://www.saos.org.pl/judgments/329678) | Wyrok
 - 2016-04-21 | SO | [XII C 4/14](https://www.saos.org.pl/judgments/224252) | Wyrok
 
-## art. 129 (817)
+## art. 129 (821)
 
 - 2011-05-06 | SN | [II CSK 421/10](https://www.saos.org.pl/judgments/94867) | Wyrok ★
 - 2010-05-06 | SN | [II CSK 602/09](https://www.saos.org.pl/judgments/92172) | Wyrok ★
 - 2008-10-10 | SN | [II CSK 216/08](https://www.saos.org.pl/judgments/88846) | Wyrok ★
 - 2005-11-29 | SN | [III CK 250/05](https://www.saos.org.pl/judgments/163807) | Wyrok ★
 - 2024-10-17 | SO | [I ACa 2299/23](https://www.saos.org.pl/judgments/541810) | Wyrok
+- 2024-09-30 | SO | [I ACa 2743/23](https://www.saos.org.pl/judgments/545668) | Wyrok
+- 2024-08-13 | SO | [I ACa 427/23](https://www.saos.org.pl/judgments/546671) | Wyrok
 - 2024-06-27 | SO | [I ACa 75/24](https://www.saos.org.pl/judgments/494536) | Wyrok
+- 2024-02-19 | SO | [I ACa 1382/23](https://www.saos.org.pl/judgments/545977) | Wyrok
 - 2023-09-29 | SO | [I ACa 532/23](https://www.saos.org.pl/judgments/494284) | Wyrok
 - 2023-08-17 | SO | [I ACa 871/22](https://www.saos.org.pl/judgments/494672) | Wyrok
 - 2023-08-11 | SO | [I ACa 733/23](https://www.saos.org.pl/judgments/494520) | Wyrok
@@ -691,6 +694,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 - 2012-09-26 | SO | [I ACa 669/12](https://www.saos.org.pl/judgments/737) | Wyrok
 - 2012-09-13 | SO | [I ACa 644/12](https://www.saos.org.pl/judgments/8167) | Wyrok
 - 2012-09-05 | SO | [I ACa 561/12](https://www.saos.org.pl/judgments/723) | Wyrok
+- 2025-09-26 | SO | [II Ca 1260/24](https://www.saos.org.pl/judgments/545023) | Wyrok
 - 2024-11-28 | SO | [II Ca 479/24](https://www.saos.org.pl/judgments/521694) | Wyrok
 - 2023-04-14 | SO | [II Ca 1901/22](https://www.saos.org.pl/judgments/492319) | Wyrok
 - 2023-01-31 | SO | [II Ca 1407/21](https://www.saos.org.pl/judgments/485254) | Wyrok
@@ -1134,9 +1138,10 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 - 2021-10-25 | SO | [I ACa 403/20](https://www.saos.org.pl/judgments/527262) | Wyrok
 - 2020-08-26 | SO | [I ACa 623/19](https://www.saos.org.pl/judgments/435516) | Wyrok
 
-## art. 130 (255)
+## art. 130 (256)
 
 - 2008-10-10 | SN | [II CSK 216/08](https://www.saos.org.pl/judgments/88846) | Wyrok ★
+- 2024-08-13 | SO | [I ACa 427/23](https://www.saos.org.pl/judgments/546671) | Wyrok
 - 2022-09-27 | SO | [I ACa 1084/21](https://www.saos.org.pl/judgments/477843) | Wyrok
 - 2022-08-24 | SO | [I ACa 325/22](https://www.saos.org.pl/judgments/473572) | Wyrok
 - 2022-06-10 | SO | [I ACa 328/21](https://www.saos.org.pl/judgments/469524) | Wyrok
@@ -1392,8 +1397,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 - 2017-10-18 | SO | [II C 252/14](https://www.saos.org.pl/judgments/329739) | Uzasadnienie
 - 2017-04-07 | SO | [XII C 2018/16](https://www.saos.org.pl/judgments/288651) | Uzasadnienie
 
-## art. 131 (259)
+## art. 131 (260)
 
+- 2024-08-13 | SO | [I ACa 427/23](https://www.saos.org.pl/judgments/546671) | Wyrok
 - 2022-09-27 | SO | [I ACa 1084/21](https://www.saos.org.pl/judgments/477843) | Wyrok
 - 2022-08-24 | SO | [I ACa 325/22](https://www.saos.org.pl/judgments/473572) | Wyrok
 - 2022-06-10 | SO | [I ACa 328/21](https://www.saos.org.pl/judgments/469524) | Wyrok
@@ -1654,8 +1660,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 - 2017-10-18 | SO | [II C 252/14](https://www.saos.org.pl/judgments/329739) | Uzasadnienie
 - 2017-04-07 | SO | [XII C 2018/16](https://www.saos.org.pl/judgments/288651) | Uzasadnienie
 
-## art. 132 (257)
+## art. 132 (258)
 
+- 2024-08-13 | SO | [I ACa 427/23](https://www.saos.org.pl/judgments/546671) | Wyrok
 - 2022-09-27 | SO | [I ACa 1084/21](https://www.saos.org.pl/judgments/477843) | Wyrok
 - 2022-08-24 | SO | [I ACa 325/22](https://www.saos.org.pl/judgments/473572) | Wyrok
 - 2022-06-10 | SO | [I ACa 328/21](https://www.saos.org.pl/judgments/469524) | Wyrok
@@ -1914,8 +1921,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 - 2017-10-18 | SO | [II C 252/14](https://www.saos.org.pl/judgments/329739) | Uzasadnienie
 - 2017-04-07 | SO | [XII C 2018/16](https://www.saos.org.pl/judgments/288651) | Uzasadnienie
 
-## art. 133 (257)
+## art. 133 (258)
 
+- 2024-08-13 | SO | [I ACa 427/23](https://www.saos.org.pl/judgments/546671) | Wyrok
 - 2022-09-27 | SO | [I ACa 1084/21](https://www.saos.org.pl/judgments/477843) | Wyrok
 - 2022-08-24 | SO | [I ACa 325/22](https://www.saos.org.pl/judgments/473572) | Wyrok
 - 2022-06-10 | SO | [I ACa 328/21](https://www.saos.org.pl/judgments/469524) | Wyrok
@@ -2174,8 +2182,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 - 2017-10-18 | SO | [II C 252/14](https://www.saos.org.pl/judgments/329739) | Uzasadnienie
 - 2017-04-07 | SO | [XII C 2018/16](https://www.saos.org.pl/judgments/288651) | Uzasadnienie
 
-## art. 134 (257)
+## art. 134 (258)
 
+- 2024-08-13 | SO | [I ACa 427/23](https://www.saos.org.pl/judgments/546671) | Wyrok
 - 2022-09-27 | SO | [I ACa 1084/21](https://www.saos.org.pl/judgments/477843) | Wyrok
 - 2022-08-24 | SO | [I ACa 325/22](https://www.saos.org.pl/judgments/473572) | Wyrok
 - 2022-06-10 | SO | [I ACa 328/21](https://www.saos.org.pl/judgments/469524) | Wyrok
@@ -2434,9 +2443,12 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 - 2017-10-18 | SO | [II C 252/14](https://www.saos.org.pl/judgments/329739) | Uzasadnienie
 - 2017-04-07 | SO | [XII C 2018/16](https://www.saos.org.pl/judgments/288651) | Uzasadnienie
 
-## art. 135 (413)
+## art. 135 (416)
 
 - 2008-10-10 | SN | [II CSK 216/08](https://www.saos.org.pl/judgments/88846) | Wyrok ★
+- 2024-09-30 | SO | [I ACa 2743/23](https://www.saos.org.pl/judgments/545668) | Wyrok
+- 2024-08-13 | SO | [I ACa 427/23](https://www.saos.org.pl/judgments/546671) | Wyrok
+- 2024-02-19 | SO | [I ACa 1382/23](https://www.saos.org.pl/judgments/545977) | Wyrok
 - 2024-01-15 | SO | [I ACa 878/21](https://www.saos.org.pl/judgments/494680) | Wyrok
 - 2023-09-29 | SO | [I ACa 532/23](https://www.saos.org.pl/judgments/494284) | Wyrok
 - 2023-08-11 | SO | [I ACa 733/23](https://www.saos.org.pl/judgments/494520) | Wyrok
@@ -2857,11 +2869,14 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 - 2018-01-09 | SO | [I ACa 740/17](https://www.saos.org.pl/judgments/326165) | Wyrok
 - 2017-07-12 | SO | [I ACa 595/16](https://www.saos.org.pl/judgments/294607) | Wyrok
 
-## art. 136 (586)
+## art. 136 (589)
 
 - 2010-05-06 | SN | [II CSK 602/09](https://www.saos.org.pl/judgments/92172) | Wyrok ★
 - 2008-10-10 | SN | [II CSK 216/08](https://www.saos.org.pl/judgments/88846) | Wyrok ★
+- 2024-09-30 | SO | [I ACa 2743/23](https://www.saos.org.pl/judgments/545668) | Wyrok
+- 2024-08-13 | SO | [I ACa 427/23](https://www.saos.org.pl/judgments/546671) | Wyrok
 - 2024-06-27 | SO | [I ACa 75/24](https://www.saos.org.pl/judgments/494536) | Wyrok
+- 2024-02-19 | SO | [I ACa 1382/23](https://www.saos.org.pl/judgments/545977) | Wyrok
 - 2023-09-29 | SO | [I ACa 532/23](https://www.saos.org.pl/judgments/494284) | Wyrok
 - 2023-08-17 | SO | [I ACa 871/22](https://www.saos.org.pl/judgments/494672) | Wyrok
 - 2023-08-11 | SO | [I ACa 733/23](https://www.saos.org.pl/judgments/494520) | Wyrok
@@ -3594,7 +3609,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 
 - 2015-01-20 | SO | [IV Ka 1126/14](https://www.saos.org.pl/judgments/131495) | Wyrok
 
-## art. 174 (19)
+## art. 174 (20)
 
 - 2020-10-01 | SO | [I ACa 789/19](https://www.saos.org.pl/judgments/435527) | Wyrok
 - 2020-09-17 | SO | [I ACa 619/19](https://www.saos.org.pl/judgments/432647) | Wyrok
@@ -3608,6 +3623,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środo
 - 2017-04-19 | SO | [VI ACa 1508/15](https://www.saos.org.pl/judgments/322634) | Wyrok
 - 2016-04-14 | SO | [I ACa 1276/15](https://www.saos.org.pl/judgments/249097) | Wyrok
 - 2016-02-10 | SO | [I ACa 936/15](https://www.saos.org.pl/judgments/266683) | Wyrok
+- 2025-09-26 | SO | [II Ca 1260/24](https://www.saos.org.pl/judgments/545023) | Wyrok
 - 2023-01-31 | SO | [II Ca 1407/21](https://www.saos.org.pl/judgments/485254) | Wyrok
 - 2023-01-19 | SO | [II Ca 1439/21](https://www.saos.org.pl/judgments/483884) | Wyrok
 - 2020-10-16 | SO | [II Ca 1380/19](https://www.saos.org.pl/judgments/428856) | Wyrok

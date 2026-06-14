@@ -8,10 +8,10 @@ pos: 1144
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 sierpnia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1144 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 23 lipca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1144/text.pdf) |
 
-ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 23 lipca 2015 r.
-w sprawie szczegółowych warunków i sposobu dokonywania pierwszej oceny w służbie cywilnej Na podstawie art. 38 ust. 4 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111 i 1199 oraz z 2015 r. poz. 211) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki i sposób dokonywania pierwszej oceny w służbie cywilnej, zwanej dalej „pierwszą oceną”, w tym:
+w sprawie szczegółowych warunków i sposobu dokonywania pierwszej oceny w służbie cywilnej Na podstawie art. 38 ust. 4 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111 i 1199 oraz z 2015 r. poz. 211) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe warunki i sposób dokonywania pierwszej oceny w służbie cywilnej, zwanej dalej „pierwszą oceną”, w tym:
 1) sposób i tryb dokonywania pierwszej oceny;
 2) warunki przyznawania oceny pozytywnej lub negatywnej;
 3) wzór arkusza pierwszej oceny;
@@ -40,10 +40,11 @@ d) komunikacja,
 e) współpraca;
 2) wynik egzaminu ze służby przygotowawczej, jeżeli oceniany był obowiązany do przystąpienia do tego egzaminu;
 3) sprawozdanie sporządzone przez ocenianego.
-§ 3. W terminie 21 dni od dnia nawiązania z ocenianym stosunku pracy, a w przypadku ocenianego zatrudnionego w celu zastępstwa nieobecnego członka korpusu służby cywilnej w terminie 21 dni od dnia ustalenia przez strony stosunku pracy, że oceniany będzie podlegać pierwszej ocenie, bezpośredni przełożony przeprowadza z ocenianym rozmowę wstępną, podczas której:
+§ 3. W terminie 21 dni od dnia nawiązania z ocenianym stosunku pracy, a w przypadku ocenianego zatrudnionego w celu zastępstwa nieobecnego członka korpusu służby cywilnej – w terminie 21 dni od dnia ustalenia przez strony stosunku pracy, że oceniany będzie podlegać pierwszej ocenie, bezpośredni przełożony przeprowadza z ocenianym rozmowę wstępną, podczas której:
 1) zapoznaje ocenianego ze sposobem dokonywania pierwszej oceny;
 2) omawia z ocenianym główne obowiązki wynikające z opisu stanowiska pracy zajmowanego przez ocenianego oraz oczekiwania co do sposobu ich wykonywania;
 3) omawia z ocenianym oczekiwania co do jego postawy, zaangażowania i postępów w pracy, relacji ze współpracownikami oraz terminowości wykonywania zadań, biorąc pod uwagę opisy elementów oceny, które są określone w załączniku nr 1 do rozporządzenia;
+4) wyznacza termin na złożenie sprawozdania.
 § 4. 1. Termin na złożenie sprawozdania, wskazujący datę początkową i końcową wyznaczonego okresu, ustala się w taki sposób, aby przypadał on po upływie 8 miesięcy od dnia nawiązania z ocenianym stosunku pracy i aby dokonanie pierwszej oceny mogło nastąpić w terminie określonym w art. 38 ust. 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, zwanej dalej „ustawą”.
 2. Bezpośredni przełożony wpisuje do arkusza pierwszej oceny, zwanego dalej „arkuszem”, informacje o:
 1) terminie przeprowadzonej rozmowy wstępnej;
@@ -71,9 +72,9 @@ e) współpraca;
 § 8. 1. Bezpośredni przełożony przeprowadza z ocenianym rozmowę oceniającą niezwłocznie po złożeniu sprawozdania przez ocenianego albo po upływie terminu wyznaczonego na złożenie sprawozdania.
 2. W rozmowie może uczestniczyć kierujący komórką organizacyjną, w której oceniany jest zatrudniony.
 § 9. 1. Oceny, o których mowa w § 7 pkt 2, przyznaje się według skali punktowej:
-1) 3 punkty poniżej oczekiwań;
-2) 5 punktów na poziomie oczekiwań;
-3) 7 punktów powyżej oczekiwań.
+1) 3 punkty – poniżej oczekiwań;
+2) 5 punktów – na poziomie oczekiwań;
+3) 7 punktów – powyżej oczekiwań.
 2. Podczas dokonywania pierwszej oceny bierze się pod uwagę wnioski z rozmowy oceniającej.
 3. Bezpośredni przełożony wpisuje do arkusza oceny, o których mowa w § 7 pkt 2 i 3.
 § 10. 1. Warunkiem przyznania pozytywnej pierwszej oceny jest:
@@ -94,15 +95,15 @@ e) współpraca;
 § 12. Do sporządzenia pierwszej oceny ocenianego zatrudnionego przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 13. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 15 czerwca 2009 r. w sprawie szczegółowych warunków i sposobu dokonywania pierwszej oceny w służbie cywilnej (Dz. U. Nr 94, poz. 772).
 § 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: E. Kopacz ELEMENT OCENY OPIS
+Prezes Rady Ministrów: E. Kopacz Załączniki Prezesa Rady Ministrów z dnia … (poz. …) Załącznik nr 1 OPISY OPISY ELEMENTÓW ELEMENTÓW OCENY OCENY ELEMENT OCENY OPIS
 1. RZETELNOŚĆ − Wykonywanie zadań zgodnie z obowiązującymi standardami (przepisami, zasadami, procedurami) oraz dbałość o jakość rezultatów.
 − Dotrzymywanie zobowiązań (realizacja zadań) w wyznaczonym czasie.
-2. WYKORZYSTYWANIE WIEDZY I DOSKONALENIE ZAWODOWE − Wykorzystywanie wiedzy przy realizacji zadań na zajmowanym stanowisku pracy.
-− Doskonalenie wiedzy i umiejętności niezbędnych do wykonywania zadań na zajmowanym stanowisku pracy, w szczególności wyszukiwanie i pozyskiwanie wiedzy, korzystanie z dobrych praktyk i doświadczeń innych.
+2. WYKORZYSTYWANIE − Wykorzystywanie wiedzy przy realizacji zadań na zajmowanym WIEDZY stanowisku pracy.
+I DOSKONALENIE − Doskonalenie wiedzy i umiejętności niezbędnych do wykonywania ZAWODOWE zadań na zajmowanym stanowisku pracy, w szczególności wyszukiwanie i pozyskiwanie wiedzy, korzystanie z dobrych praktyk i doświadczeń innych.
 − Korzystanie z dostępnych źródeł informacji, rozwiązań i technologii.
-3. ORGANIZACJA PRACY I ORIENTACJA NA OSIĄGANIE CELÓW − Określanie sposobu realizacji zadań/celów.
-− Realizowanie zadań/celów w kolejności uwzględniającej ich wagę i pilność (ustalanie priorytetów działania).
-− Dobieranie niezbędnych zasobów umożliwiających realizację zadań/celów.
+3. ORGANIZACJA PRACY − Określanie sposobu realizacji zadań/celów.
+I ORIENTACJA − Realizowanie zadań/celów w kolejności uwzględniającej ich wagę NA OSIĄGANIE i pilność (ustalanie priorytetów działania).
+CELÓW − Dobieranie niezbędnych zasobów umożliwiających realizację zadań/celów.
 − Dostosowywanie się do zmieniających się okoliczności.
 − Wytrwałość i zaangażowanie w realizację zadań/celów.
 4. KOMUNIKACJA − Koncentrowanie się na wypowiedzi rozmówcy i dbanie o wzajemne zrozumienie.
@@ -115,5 +116,5 @@ Prezes Rady Ministrów: E. Kopacz ELEMENT OCENY OPIS
 − Dostrzeganie wkładu pracy innych osób.
 − Branie pod uwagę zdania innych osób.
 − Dzielenie się wiedzą i doświadczeniem.
-OPISY ELEMENTÓW OCENY ARKUSZ PIERWSZEJ OCENY W SŁUŻBIE CYWILNEJ WZÓR FORMULARZ SPRAWOZDANIA DOTYCZĄCEGO ZADAŃ REALIZOWANYCH PRZEZ OCENIANEGO W TRAKCIE PRZEPRACOWANEGO OKRESU Imię Nazwisko Komórka organizacyjna Stanowisko pracy Termin wyznaczony na złożenie sprawozdania dotyczącego zadań realizowanych przez ocenianego w trakcie przepracowanego okresu od (dd.mm.rrrr) do (dd.mm.rrrr) WZÓR
+WZÓR Załącznik nr 2 ARKUSZ PIERWSZEJ OCENY W SŁUŻBIE CYWILNEJ WZÓR Załącznik nr 3 FORMULARZ SPRAWOZDANIA DOTYCZĄCEGO ZADAŃ REALIZOWANYCH PRZEZ OCENIANEGO W TRAKCIE PRZEPRACOWANEGO OKRESU Imię Nazwisko Komórka organizacyjna Stanowisko pracy Termin wyznaczony na złożenie sprawozdania dotyczącego zadań realizowanych przez ocenianego w trakcie przepracowanego okresu od (dd.mm.rrrr) – do (dd.mm.rrrr)
 

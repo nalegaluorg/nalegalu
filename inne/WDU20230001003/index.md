@@ -8,7 +8,7 @@ pos: 1003
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o transporcie kolejowym oraz ustawy o publicznym transporcie zbiorowym

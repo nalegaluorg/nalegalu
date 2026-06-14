@@ -8,10 +8,10 @@ pos: 182
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 stycznia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 182 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 26 stycznia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000182) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/182/text.pdf) |
 
-Poz. 182 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 26 stycznia 2023 r.
 zmieniające rozporządzenie w sprawie szczegółowego zakresu zadań realizowanych przez Krajowy Ośrodek Wsparcia Rolnictwa związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół Na podstawie art. 38x ust. 1 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2022 r.
-poz. 185 i 1370) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 11 sierpnia 2022 r. w sprawie szczegółowego zakresu zadań realizowanych przez Krajowy Ośrodek Wsparcia Rolnictwa związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół (Dz. U. poz. 1770) wprowadza się następujące zmiany:
+poz. 185 i 1370) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 11 sierpnia 2022 r. w sprawie szczegółowego zakresu zadań realizowanych przez Krajowy Ośrodek Wsparcia Rolnictwa związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół (Dz. U. poz. 1770) wprowadza się następujące zmiany:
 1) w § 5 w ust. 3 we wprowadzeniu do wyliczenia liczbę „10” zastępuje się liczbą „24”;
 2) w § 9 w ust. 3 w pkt 2 wyrazy „27 stycznia” zastępuje się wyrazami „10 lutego”;
 3) w załączniku nr 1 do rozporządzenia:
@@ -35,7 +35,6 @@ a) ust. 1 otrzymuje brzmienie: „1. Porcje owoców i warzyw są udostępniane d
 1) 8, 9, 10, 11, 12, 13 albo 14 wybranych tygodni w przypadku udostępniania owoców i warzyw w każdym z okresów, o których mowa w § 2 pkt 1 lit. a, pkt 2 lit. a, pkt 3 lit. a i pkt 4 lit. a rozporządzenia;
 2) 7, 8, 9, 10, 11 albo 12 wybranych tygodni w przypadku udostępniania owoców i warzyw w każdym z okresów, o których mowa w § 2 pkt 1 lit. b, pkt 2 lit. b, pkt 3 lit. b i pkt 4 lit. b rozporządzenia.”,
 b) w ust. 2: – w pkt 1 we wprowadzeniu do wyliczenia wyraz „semestrze” zastępuje się wyrazami „okresie udostępniania”, – w pkt 2: – – we wprowadzeniu do wyliczenia wyraz „semestrze” zastępuje się wyrazami „okresie udostępniania”, – – w lit. a liczbę „10” zastępuje się liczbą „7”, – – w lit. b liczbę „4” zastępuje się liczbą „3”, – – w lit. d liczbę „3” zastępuje się liczbą „2”, – – w lit. f liczbę „4” zastępuje się liczbą „2”, – – w lit. g liczbę „5” zastępuje się liczbą „3”;
-Dziennik Ustaw – 2 – Poz. 182
 4) w załączniku nr 2 do rozporządzenia:
 a) ust. 1 otrzymuje brzmienie: „1. Porcje mleka są udostępniane dzieciom w dwóch okresach udostępniania obejmujących po:
 1) 8, 9, 10, 11, 12, 13 albo 14 wybranych tygodni w przypadku udostępniania mleka w każdym z okresów, o których mowa w § 2 pkt 1 lit. a, pkt 2 lit. a, pkt 3 lit. a i pkt 4 lit. a rozporządzenia;

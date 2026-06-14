@@ -8,10 +8,10 @@ pos: 1422
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 sierpnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1422 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 sierpnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1422/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 sierpnia 2021 r.
 w sprawie Dobrej Praktyki Laboratoryjnej i wykonywania badań zgodnie z zasadami Dobrej Praktyki Laboratoryjnej Na podstawie art. 16 ust. 15 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U.
-z 2020 r. poz. 2289) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2020 r. poz. 2289) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) zasady Dobrej Praktyki Laboratoryjnej;
 2) sposób dokonywania kontroli i weryfikacji spełniania przez jednostki badawcze, o których mowa w art. 16 ust. 2 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, zwanej dalej „ustawą”, lub przez certyfikowane jednostki badawcze, o których mowa w art. 16 ust. 1 ustawy, zasad Dobrej Praktyki Laboratoryjnej;
 3) procedurę uzyskiwania i cofania certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, oraz wykreślania z wykazu jednostek badawczych certyfikowanych w zakresie Dobrej Praktyki Laboratoryjnej, zwanego dalej „wykazem”.
@@ -62,7 +62,7 @@ z 2020 r. poz. 2289) zarządza się, co następuje: § 1. Rozporządzenie okreś
 1) oceny naukowej strony badań;
 2) interpretacji uzyskanych wyników pod względem bezpieczeństwa dla ludzi i środowiska.
 § 5. 1. Kontrolę i weryfikację prowadzi się w następujący sposób:
-1) w przypadku jednostek badawczych ubiegających się o przeprowadzenie kontroli i weryfikacji przeprowadza się kontrolę wstępną, mającą na celu zapoznanie się zespołu kontrolującego ze strukturą organizacyjną jednostki badawczej, personelem, infrastrukturą, wyposażeniem i zakresem wykonywanych w niej badań oraz potwierdzenie informacji zawartych we wniosku jednostki badawczej, a następnie w zakresie określonym w § 4;
+1) w przypadku jednostek badawczych ubiegających się o przeprowadzenie kontroli i weryfikacji przeprowadza się kontrolę wstępną, mającą na celu zapoznanie się zespołu kontrolującego ze strukturą organizacyjną jednostki badawczej, personelem, infrastrukturą, wyposażeniem i zakresem wykonywanych w niej badań oraz potwierdzenie informacji zawartych we wniosku jednostki badawczej, a następnie – w zakresie określonym w § 4;
 2) w przypadku certyfikowanych jednostek badawczych przeprowadza się okresowo kontrolę i weryfikację, w tym w szczególności rewizję badań wykonywanych lub zakończonych; kontrolę i weryfikację tego rodzaju przeprowadza się co najmniej raz na dwa lata;
 3) w przypadku kontroli i weryfikacji zarządzanej doraźnie przez Prezesa Biura do spraw Substancji Chemicznych, zwanego dalej „Prezesem Biura”, z własnej inicjatywy lub na wniosek jednostek właściwych do spraw kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej w państwach Organizacji Współpracy Gospodarczej i Rozwoju (OECD), w innych państwach, w których ustanowiono w porozumieniu z OECD takie jednostki, na wniosek Komisji Europejskiej, Europejskiej Agencji Chemikaliów lub OECD, przeprowadza się rewizję konkretnych badań i, jeżeli to uzasadnione, przeprowadza się również kontrolę certyfikowanej jednostki badawczej; w przypadku tej kontroli i weryfikacji nie stosuje się terminu określonego w § 6;
 4) w przypadku gdy w wyniku kontroli i weryfikacji okresowej stwierdzono odstępstwa od spełniania zasad Dobrej Praktyki Laboratoryjnej mogące mieć wpływ na wiarygodność wyników badań, po przeprowadzeniu przez certyfikowaną jednostkę badawczą właściwych działań korygujących przeprowadza się kontrolę sprawdzającą, czy odstępstwa od spełniania zasad Dobrej Praktyki Laboratoryjnej zostały usunięte.
@@ -71,41 +71,41 @@ z 2020 r. poz. 2289) zarządza się, co następuje: § 1. Rozporządzenie okreś
 § 6. Wstęp inspektorów Dobrej Praktyki Laboratoryjnej oraz innych osób biorących udział w kontroli i weryfikacji, o których mowa w art. 16 ust. 3 ustawy, na teren jednostki badawczej lub certyfikowanej jednostki badawczej, jak również na teren, gdzie są przeprowadzane badania, odbywa się po uprzednim pisemnym zawiadomieniu jednostki badawczej lub certyfikowanej jednostki badawczej przez Prezesa Biura, najpóźniej na 7 dni przed planowaną kontrolą i weryfikacją.
 § 7. 1. W terminie 14 dni od dnia zakończenia kontroli i weryfikacji jednostka badawcza lub certyfikowana jednostka badawcza otrzymuje protokół, o którym mowa w art. 16 ust. 12 ustawy.
 2. W przypadku gdy w protokole stwierdza się odstępstwa od zasad Dobrej Praktyki Laboratoryjnej, jednostka badawcza lub certyfikowana jednostka badawcza w terminie określonym w protokole przesyła Prezesowi Biura harmonogram realizacji zaleceń pokontrolnych.
-3. W przypadku stwierdzenia występowania odstępstw od zasad Dobrej Praktyki Laboratoryjnej, w szczególności ujemnie wpływających na wiarygodność wyników badań w jednostce badawczej lub w certyfikowanej jednostce badawczej, do której przesłano protokół z zaleceniami pokontrolnymi wskazującymi na konieczność podjęcia działań korygujących przeprowadza się kontrolę sprawdzającą.
+3. W przypadku stwierdzenia występowania odstępstw od zasad Dobrej Praktyki Laboratoryjnej, w szczególności ujemnie wpływających na wiarygodność wyników badań w jednostce badawczej lub w certyfikowanej jednostce badawczej, do której przesłano protokół z zaleceniami pokontrolnymi wskazującymi na konieczność podjęcia działań korygujących – przeprowadza się kontrolę sprawdzającą.
 4. Jeżeli w wyniku kontroli sprawdzającej stwierdzono, że działania prowadzące do wyeliminowania odstępstw, o których mowa w ust. 3, nie zostały podjęte lub jeżeli są one niewystarczające, Prezes Biura stwierdza niespełnianie zasad Dobrej Praktyki Laboratoryjnej i nie wydaje certyfikatu, o którym mowa w art. 16 ust. 4 ustawy. W przypadku certyfikowanej jednostki badawczej Prezes Biura cofa nadany certyfikat i wykreśla tę jednostkę z wykazu.
 5. Na wniosek inspektora Dobrej Praktyki Laboratoryjnej Prezes Biura może podjąć działania, o których mowa w ust. 4, także w przypadku nienadesłania w określonym terminie harmonogramu realizacji zaleceń pokontrolnych, o którym mowa w ust. 2.
 § 8. 1. Cofnięcie certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreślenie certyfikowanej jednostki badawczej z wykazu może nastąpić na jej wniosek.
 2. W przypadku cofnięcia certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreślenia certyfikowanej jednostki badawczej z wykazu informację o tym zamieszcza się w wykazie.
-3. O cofnięciu certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreśleniu jednostki z wykazu Prezes Biura powiadamia ministra właściwego do spraw rolnictwa oraz Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, jednostki właściwe do spraw kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej w państwach członkowskich Unii Europejskiej, państwach OECD, innych państwach, w których ustanowiono w porozumieniu z OECD takie jednostki, a także Komisję Europejską, Europejską Agencję Chemikaliów i OECD.
+3. O cofnięciu certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreśleniu jednostki z wykazu Prezes Biura powiadamia ministra właściwego do spraw rolnictwa oraz Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, jednostki właściwe do spraw kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej – w państwach członkowskich Unii Europejskiej, państwach OECD, innych państwach, w których ustanowiono w porozumieniu z OECD takie jednostki, a także Komisję Europejską, Europejską Agencję Chemikaliów i OECD.
 § 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Zdrowia: A. Niedzielski ZASADY DOBREJ PRAKTYKI LABORATORYJNEJ
 1. Użyte w załączniku określenia oznaczają:
-1) badanie krótkoterminowe badanie trwające przez krótki okres, z zastosowaniem powszechnie stosowanych, rutynowych metod badań;
-2) data rozpoczęcia badania dzień, w którym kierownik badania podpisał plan badania;
-3) data rozpoczęcia części eksperymentalnej badania dzień, w którym uzyskano pierwsze informacje specyficzne dla tego badania;
-4) data zakończenia części eksperymentalnej badania dzień, w którym uzyskano ostatnie dane dla tego badania;
-5) data zakończenia badania dzień, w którym kierownik badania podpisał sprawozdanie końcowe;
-6) główny wykonawca osobę, która w przypadku badań wykonywanych w wielu miejscach jest upoważniona przez kierownika badania do działania w jego imieniu jako osoba odpowiedzialna za wydzielony etap badania; upoważnienie głównego wykonawcy do działania w imieniu kierownika badania nie obejmuje odpowiedzialności za całokształt badań i działań, takich jak: zatwierdzanie planu badania i jego zmian, zatwierdzanie sprawozdania końcowego i zapewnienie, że wszystkie mające zastosowanie zasady Dobrej Praktyki Laboratoryjnej są przestrzegane;
-7) jednostka badawcza jednostkę badawczą, o której mowa w art. 16 ust. 2 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2020 r. poz. 2289), i certyfikowaną jednostkę badawczą, o której mowa w art. 16 ust. 1 tej ustawy;
-8) kierownik badania osobę odpowiedzialną za całość przeprowadzanego nieklinicznego badania z zakresu bezpieczeństwa dla zdrowia człowieka i środowiska;
-9) materiał badany materiał będący przedmiotem badania;
-10) materiał odniesienia każdy właściwie scharakteryzowany materiał użyty w celach porównawczych;
-11) miejsce badania miejsce, w którym jest wykonywany dany etap lub są wykonywane dane etapy badania;
-12) nośnik każdy środek zastosowany w celu wymieszania, rozproszenia lub rozpuszczenia materiału badanego lub materiału odniesienia, aby ułatwić jego wprowadzenie lub podanie do systemu badawczego;
-13) odstępstwo od planu badania niezamierzoną zmianę w planie badania po dniu rozpoczęcia badania;
-14) osoba wiodąca prowadząca program zapewnienia jakości osobę, która w przypadku badań wykonywanych w wielu miejscach została powołana przez zarządzającego jednostką badawczą do zagwarantowania, że badanie jest prowadzone zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
-15) osoba prowadząca program zapewnienia jakości w miejscu badania osobę, która w przypadku badań wykonywanych w wielu miejscach została powołana przez zarządzającego miejscem wykonywania badania do zagwarantowania, że dany etap badania jest prowadzony zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
-16) plan badania dokument wraz z wszelkimi poprawkami, określający cele i planowany przebieg badania;
-17) plan działania jednostki zbiór informacji pozwalających na ocenę obciążenia pracą w jednostce badawczej oraz na monitorowanie przebiegu badań wykonywanych w takiej jednostce;
-18) poprawka do planu badania celowo wprowadzone po dacie rozpoczęcia badania uzasadnione zmiany w planie badania;
-19) program zapewnienia jakości procedury wykonywane przez personel niezależny od przeprowadzanego badania, wprowadzone w jednostce badawczej w celu zapewnienia zarządzającemu jednostką badawczą zgodności przeprowadzanych badań z zasadami Dobrej Praktyki Laboratoryjnej;
-20) próbka każdy materiał pochodzący z systemu badawczego, pobrany w celu jego zbadania lub analizy, lub przechowania;
-21) seria określoną ilość lub partię materiału badanego lub materiału odniesienia, wytworzonego podczas określonego cyklu wytwarzania w taki sposób, że można oczekiwać, że ma ona jednolity charakter;
-22) standardowa procedura operacyjna udokumentowaną procedurę określającą sposób przeprowadzenia badania, a także określającą postępowanie nieopisane dokładnie w planach badania lub w wytycznych do badań;
-23) system badawczy system biologiczny, chemiczny lub fizyczny albo ich połączenie, zastosowane w badaniach;
-24) zarządzający jednostką badawczą osobę lub osoby formalnie odpowiedzialne za organizację i działanie jednostki badawczej zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
-25) zarządzający miejscem badania osobę lub osoby odpowiedzialne za zagwarantowanie, że dany etap lub dane etapy badania, za które ta osoba lub te osoby są odpowiedzialne, są wykonywane zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
-26) zleceniodawca podmiot zlecający niekliniczne badanie substancji chemicznych i ich mieszanin z zakresu bezpieczeństwa dla zdrowia człowieka i środowiska.
+1) badanie krótkoterminowe – badanie trwające przez krótki okres, z zastosowaniem powszechnie stosowanych, rutynowych metod badań;
+2) data rozpoczęcia badania – dzień, w którym kierownik badania podpisał plan badania;
+3) data rozpoczęcia części eksperymentalnej badania – dzień, w którym uzyskano pierwsze informacje specyficzne dla tego badania;
+4) data zakończenia części eksperymentalnej badania – dzień, w którym uzyskano ostatnie dane dla tego badania;
+5) data zakończenia badania – dzień, w którym kierownik badania podpisał sprawozdanie końcowe;
+6) główny wykonawca – osobę, która w przypadku badań wykonywanych w wielu miejscach jest upoważniona przez kierownika badania do działania w jego imieniu jako osoba odpowiedzialna za wydzielony etap badania; upoważnienie głównego wykonawcy do działania w imieniu kierownika badania nie obejmuje odpowiedzialności za całokształt badań i działań, takich jak: zatwierdzanie planu badania i jego zmian, zatwierdzanie sprawozdania końcowego i zapewnienie, że wszystkie mające zastosowanie zasady Dobrej Praktyki Laboratoryjnej są przestrzegane;
+7) jednostka badawcza – jednostkę badawczą, o której mowa w art. 16 ust. 2 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2020 r. poz. 2289), i certyfikowaną jednostkę badawczą, o której mowa w art. 16 ust. 1 tej ustawy;
+8) kierownik badania – osobę odpowiedzialną za całość przeprowadzanego nieklinicznego badania z zakresu bezpieczeństwa dla zdrowia człowieka i środowiska;
+9) materiał badany – materiał będący przedmiotem badania;
+10) materiał odniesienia – każdy właściwie scharakteryzowany materiał użyty w celach porównawczych;
+11) miejsce badania – miejsce, w którym jest wykonywany dany etap lub są wykonywane dane etapy badania;
+12) nośnik – każdy środek zastosowany w celu wymieszania, rozproszenia lub rozpuszczenia materiału badanego lub materiału odniesienia, aby ułatwić jego wprowadzenie lub podanie do systemu badawczego;
+13) odstępstwo od planu badania – niezamierzoną zmianę w planie badania po dniu rozpoczęcia badania;
+14) osoba wiodąca prowadząca program zapewnienia jakości – osobę, która w przypadku badań wykonywanych w wielu miejscach została powołana przez zarządzającego jednostką badawczą do zagwarantowania, że badanie jest prowadzone zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
+15) osoba prowadząca program zapewnienia jakości w miejscu badania – osobę, która w przypadku badań wykonywanych w wielu miejscach została powołana przez zarządzającego miejscem wykonywania badania do zagwarantowania, że dany etap badania jest prowadzony zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
+16) plan badania – dokument wraz z wszelkimi poprawkami, określający cele i planowany przebieg badania;
+17) plan działania jednostki – zbiór informacji pozwalających na ocenę obciążenia pracą w jednostce badawczej oraz na monitorowanie przebiegu badań wykonywanych w takiej jednostce;
+18) poprawka do planu badania – celowo wprowadzone po dacie rozpoczęcia badania uzasadnione zmiany w planie badania;
+19) program zapewnienia jakości – procedury wykonywane przez personel niezależny od przeprowadzanego badania, wprowadzone w jednostce badawczej w celu zapewnienia zarządzającemu jednostką badawczą zgodności przeprowadzanych badań z zasadami Dobrej Praktyki Laboratoryjnej;
+20) próbka – każdy materiał pochodzący z systemu badawczego, pobrany w celu jego zbadania lub analizy, lub przechowania;
+21) seria – określoną ilość lub partię materiału badanego lub materiału odniesienia, wytworzonego podczas określonego cyklu wytwarzania w taki sposób, że można oczekiwać, że ma ona jednolity charakter;
+22) standardowa procedura operacyjna – udokumentowaną procedurę określającą sposób przeprowadzenia badania, a także określającą postępowanie nieopisane dokładnie w planach badania lub w wytycznych do badań;
+23) system badawczy – system biologiczny, chemiczny lub fizyczny albo ich połączenie, zastosowane w badaniach;
+24) zarządzający jednostką badawczą – osobę lub osoby formalnie odpowiedzialne za organizację i działanie jednostki badawczej zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
+25) zarządzający miejscem badania – osobę lub osoby odpowiedzialne za zagwarantowanie, że dany etap lub dane etapy badania, za które ta osoba lub te osoby są odpowiedzialne, są wykonywane zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
+26) zleceniodawca – podmiot zlecający niekliniczne badanie substancji chemicznych i ich mieszanin z zakresu bezpieczeństwa dla zdrowia człowieka i środowiska.
 2. Zarządzający jednostką badawczą zapewnia w jednostce badawczej spełnianie zasad Dobrej Praktyki Laboratoryjnej.
 Zarządzający jednostką badawczą zapewnia, że:
 1) w jednostce badawczej został przyjęty dokument lub zostały przyjęte dokumenty ustanawiające osobę lub osoby ponoszące odpowiedzialność za działanie jednostki badawczej, zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
@@ -132,7 +132,7 @@ Zarządzający jednostką badawczą zapewnia, że:
 2) zapewnia przekazanie odpowiednio wcześnie kopii planu badania i wszystkich jego poprawek osobie prowadzącej lub osobom prowadzącym program zapewnienia jakości i współpracuje z tym personelem w trakcie prowadzenia badań;
 3) zapewnia udostępnienie planu badania i jego poprawek oraz standardowych procedur operacyjnych personelowi wykonującemu badanie;
 4) zapewnia, że w przypadku badań wykonywanych w wielu miejscach plan badania i sprawozdanie końcowe określają zadania dla każdego głównego wykonawcy lub głównych wykonawców oraz określają miejsca wykonywania badań;
-5) gwarantuje, że wszystkie procedury przewidziane w planie badania są przestrzegane, oraz ocenia i dokumentuje wpływ odstępstw od planu badania na jakość i prawidłowość badania, a jeżeli to konieczne podejmuje odpowiednie działania naprawcze; potwierdza odstępstwa od standardowych procedur operacyjnych podczas przeprowadzania badania;
+5) gwarantuje, że wszystkie procedury przewidziane w planie badania są przestrzegane, oraz ocenia i dokumentuje wpływ odstępstw od planu badania na jakość i prawidłowość badania, a jeżeli to konieczne – podejmuje odpowiednie działania naprawcze; potwierdza odstępstwa od standardowych procedur operacyjnych podczas przeprowadzania badania;
 6) gwarantuje, że wszystkie dane źródłowe, tj. wszystkie oryginalne zapisy prowadzone w jednostce badawczej, albo ich zweryfikowane kopie będące wynikiem obserwacji i czynności wykonywanych w trakcie badania są udokumentowane i zapisane; danymi źródłowymi są w szczególności wyniki pomiarów, fotografie, mikrofilmy, kopie mikrofiszek, rejestracje komputerowe lub zapisy dokonane za pomocą dyktafonu, dane z urządzeń zautomatyzowanych, a także zapisy na wszelkich nośnikach danych, które gwarantują bezpieczne przechowywanie informacji zgodnie z przepisami rozdziału 11;
 7) gwarantuje, że systemy komputerowe stosowane w badaniach zostały zwalidowane;
 8) podpisuje i opatruje datą sprawozdanie końcowe, aby wskazać przyjęcie odpowiedzialności za wiarygodność danych i wskazać zakres (stopień), w jakim badanie spełnia zasady Dobrej Praktyki Laboratoryjnej;
@@ -186,7 +186,7 @@ c) daty przekazania wyników inspekcji zarządzającemu jednostką badawczą, ki
 2) prawidłowość działania fizykochemicznych systemów badawczych jest zagwarantowana.
 24. W przypadku systemów biologicznych:
 1) w jednostce badawczej są odpowiednie pomieszczenia oraz ustalone i utrzymywane odpowiednie warunki przetrzymywania, obsługi i opieki nad biologicznymi systemami badawczymi w celu zagwarantowania właściwej jakości otrzymywanych danych;
-2) nowo sprowadzone zwierzęta i rośliny są poddane kwarantannie, dopóki nie zostanie oceniony stan ich zdrowia, a w przypadku wystąpienia nadmiernej śmiertelności lub chorób taka partia zwierząt lub roślin nie jest wykorzystywana do badań i, jeżeli to konieczne, w sposób humanitarny usuwana;
+2) nowo sprowadzone zwierzęta i rośliny są poddane kwarantannie, dopóki nie zostanie oceniony stan ich zdrowia, a w przypadku wystąpienia nadmiernej śmiertelności lub chorób – taka partia zwierząt lub roślin nie jest wykorzystywana do badań i, jeżeli to konieczne, w sposób humanitarny usuwana;
 3) biologiczne systemy badawcze (roślinne i zwierzęce) są aklimatyzowane w środowisku wykonywania badań przez odpowiedni okres przed pierwszym narażeniem na materiał badany lub materiał odniesienia;
 4) w dniu rozpoczęcia badania systemy biologiczne są wolne od chorób i cech, które mogłyby wpływać na przebieg lub na cele badania;
 5) systemy biologiczne, które podczas badania uległy chorobie lub zostały okaleczone, są izolowane i odpowiednio leczone, jeżeli jest to istotne dla prawidłowości badania, a zarówno przed badaniem, jak i w trakcie badania są prowadzone zapisy dotyczące każdej diagnozy i leczenia;
@@ -211,12 +211,12 @@ c) daty przekazania wyników inspekcji zarządzającemu jednostką badawczą, ki
 36. Każda oddzielna jednostka lub każdy oddzielny obszar w ramach jednostki badawczej otrzymują niezwłocznie standardowe procedury operacyjne związane z prowadzoną działalnością. Uzupełnieniem standardowych procedur mogą być opisy metod analitycznych, podręczniki i opublikowane artykuły oraz poradniki.
 37. Każde odstępstwo od standardowych procedur operacyjnych w prowadzonych badaniach jest udokumentowane i przedstawione kierownikowi badania lub głównemu wykonawcy lub głównym wykonawcom, jeżeli zostali ustanowieni.
 38. Standardowe procedury operacyjne sporządza się w szczególności:
-1) w odniesieniu do materiału badanego i materiału odniesienia przychód, identyfikacja, oznakowanie, postępowanie z materiałami, pobieranie próbek i przechowywanie;
+1) w odniesieniu do materiału badanego i materiału odniesienia – przychód, identyfikacja, oznakowanie, postępowanie z materiałami, pobieranie próbek i przechowywanie;
 2) w odniesieniu do przyrządów pomiarowych, materiałów pomocniczych i odczynników:
-a) przyrządy pomiarowe stosowanie, konserwacja, czyszczenie i wzorcowanie,
-b) systemy komputerowe walidacja, stosowanie, konserwacja, zabezpieczenie systemów, kontrola i tworzenie kopii bezpieczeństwa,
-c) materiały pomocnicze, odczynniki i roztwory sporządzanie i oznakowanie;
-3) w odniesieniu do zapisywania, sporządzania sprawozdań, przechowywania i odzyskiwania danych kodowanie badań, zbieranie danych, sporządzanie sprawozdań, systemy indeksowania i sposób posługiwania się danymi, włączając w to zastosowanie systemów komputerowych;
+a) przyrządy pomiarowe – stosowanie, konserwacja, czyszczenie i wzorcowanie,
+b) systemy komputerowe – walidacja, stosowanie, konserwacja, zabezpieczenie systemów, kontrola i tworzenie kopii bezpieczeństwa,
+c) materiały pomocnicze, odczynniki i roztwory – sporządzanie i oznakowanie;
+3) w odniesieniu do zapisywania, sporządzania sprawozdań, przechowywania i odzyskiwania danych – kodowanie badań, zbieranie danych, sporządzanie sprawozdań, systemy indeksowania i sposób posługiwania się danymi, włączając w to zastosowanie systemów komputerowych;
 4) w odniesieniu do systemów badawczych (jeżeli istnieje potrzeba):
 a) przygotowanie pomieszczeń do badań i warunki środowiskowe pomieszczeń dla danego systemu badawczego,
 b) procedury odbioru, transportu, właściwego rozmieszczenia, charakterystyki, identyfikacji i opieki nad biologicznym systemem badawczym,
@@ -224,7 +224,7 @@ c) przygotowanie systemu badawczego, obserwacje i badania przed badaniem, podcza
 d) postępowanie ze zwierzętami, które w trakcie badania padły lub znajdują się w stanie agonalnym,
 e) zbieranie próbek, ich identyfikacja i postępowanie z próbkami, łącznie z sekcją i badaniami histopatologicznymi,
 f) umiejscowienie systemów badawczych w harmonogramie badania;
-5) w odniesieniu do programu zapewnienia jakości sposób postępowania osoby lub osób prowadzących program zapewnienia jakości podczas planowania, przeprowadzania i dokumentowania inspekcji oraz przekazywania sprawozdań z inspekcji.
+5) w odniesieniu do programu zapewnienia jakości – sposób postępowania osoby lub osób prowadzących program zapewnienia jakości podczas planowania, przeprowadzania i dokumentowania inspekcji oraz przekazywania sprawozdań z inspekcji.
 39. Przed rozpoczęciem każdego badania sporządza się plan badania w postaci dokumentu, zweryfikowany pod względem zgodności z zasadami Dobrej Praktyki Laboratoryjnej przez osobę prowadzącą program zapewnienia jakości, podpisany i opatrzony datą przez kierownika badania i zarządzającego jednostką badawczą. W przypadku badań krótkoterminowych dopuszcza się stosowanie ogólnego planu badania z dołączanym suplementem precyzującym konkretne zadania.
 40. Wszelkie zmiany w planie badania uzasadnia, podpisuje i opatruje datą kierownik badania; zmiany przechowuje się wraz z planem badania.
 41. Wszelkie odstępstwa od planu badania są opisane, wyjaśnione i podane w odpowiednim czasie do wiadomości kierownika badania lub głównego wykonawcy lub głównych wykonawców, a postępowanie z nimi jest takie jak z danymi źródłowymi.
@@ -236,7 +236,7 @@ c) określenie tożsamości badanego materiału za pomocą kodu lub nazwy (międ
 d) określenie materiału odniesienia, który będzie stosowany w badaniu;
 2) daty zatwierdzenia planu badania przez kierownika i zarządzającego jednostką badawczą wraz z ich podpisami;
 3) proponowane daty rozpoczęcia i zakończenia części eksperymentalnej badania;
-4) metody badań odnośniki do metod określonych w przepisach wydanych na podstawie art. 13 ust. 3 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.) lub do metod obowiązujących w Unii Europejskiej, lub do wytycznych OECD dotyczących metod badań substancji chemicznych i ich mieszanin, ewentualnie innych wytycznych i zaleceń metodycznych, w tym stosowanych norm;
+4) metody badań – odnośniki do metod określonych w przepisach wydanych na podstawie art. 13 ust. 3 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.) lub do metod obowiązujących w Unii Europejskiej, lub do wytycznych OECD dotyczących metod badań substancji chemicznych i ich mieszanin, ewentualnie innych wytycznych i zaleceń metodycznych, w tym stosowanych norm;
 5) informacje szczegółowe (jeżeli mają zastosowanie):
 a) uzasadnienie wyboru systemu badawczego,
 b) charakterystykę systemu badawczego, w szczególności przez podanie gatunku, szczepu, podszczepu, źródła pochodzenia, liczebności, zakresu masy ciała, płci i wieku,
@@ -269,7 +269,7 @@ d) charakterystykę materiału badanego, w tym informację o jego czystości, st
 2) daty rozpoczęcia i zakończenia części eksperymentalnej badania;
 3) oświadczenie osoby lub osób prowadzących program zapewnienia jakości zawierające:
 a) rodzaje i daty przeprowadzanych inspekcji, w tym także inspekcji poszczególnych etapów badania, oraz daty przekazania raportów z inspekcji do zarządzającego jednostką badawczą i do kierownika badania,
-b) rodzaje i daty przeprowadzanych inspekcji, w tym także inspekcji poszczególnych etapów badania, oraz daty przekazania raportów z inspekcji do zarządzającego jednostką badawczą, kierownika badania, osoby wiodącej prowadzącej program zapewnienia jakości, głównego wykonawcy oraz zarządzającego miejscem badania, w przypadku badań wykonywanych w wielu miejscach takie oświadczenie służy także do potwierdzenia, że sprawozdanie końcowe odzwierciedla dane źródłowe;
+b) rodzaje i daty przeprowadzanych inspekcji, w tym także inspekcji poszczególnych etapów badania, oraz daty przekazania raportów z inspekcji do zarządzającego jednostką badawczą, kierownika badania, osoby wiodącej prowadzącej program zapewnienia jakości, głównego wykonawcy oraz zarządzającego miejscem badania, w przypadku badań wykonywanych w wielu miejscach – takie oświadczenie służy także do potwierdzenia, że sprawozdanie końcowe odzwierciedla dane źródłowe;
 4) opis materiałów i metod badań:
 a) opis stosowanych materiałów i metod badań,
 b) odnośniki do metod badań, obowiązujących w Unii Europejskiej, lub do wytycznych OECD, dotyczących metod badań substancji i mieszanin chemicznych, ewentualnie innych wytycznych i zaleceń metodycznych, w tym stosowanych norm;
@@ -278,7 +278,7 @@ a) streszczenie wyników badań,
 b) wszystkie informacje i dane wymagane przez plan badania,
 c) wyniki badań, łącznie z wyliczeniami i określeniem istotności statystycznej,
 d) ocenę i omówienie wyników badań oraz wnioski, jeżeli dotyczy,
-e) informacje dotyczące przechowywania planu badania, próbek materiału badanego i materiału odniesienia, próbek pobranych z systemów badawczych, danych źródłowych i sprawozdania końcowego w pomieszczeniu archiwum wskazanie miejsca;
+e) informacje dotyczące przechowywania planu badania, próbek materiału badanego i materiału odniesienia, próbek pobranych z systemów badawczych, danych źródłowych i sprawozdania końcowego w pomieszczeniu archiwum – wskazanie miejsca;
 6) dotyczące zleceniodawcy i jednostki badawczej.
 55. W zakresie informacji dotyczących zleceniodawcy i jednostki badawczej sprawozdanie końcowe zawiera:
 1) nazwę lub imię (imiona) i nazwisko oraz adres korespondencyjny zleceniodawcy;
@@ -402,10 +402,10 @@ SZCZEGÓŁOWY SPOSÓB DOKONYWANIA KONTROLI I WERYFIKACJI SPEŁNIANIA PRZEZ JEDNO
 4) pojemniki zawierające materiały badane i materiały odniesienia są zaopatrzone w dane identyfikujące materiał, datę ważności i instrukcje dotyczące szczególnych warunków przechowywania;
 5) każdy materiał badany i materiał odniesienia są odpowiednio oznakowane, z zastosowaniem w szczególności kodu lub nazwy, numeru CAS (numeru nadanego przez Chemical Abstract Service), parametrów biologicznych;
 6) w celu właściwej identyfikacji każdego materiału badanego lub materiału odniesienia, w każdym badaniu są znane tożsamość materiału, numer partii, jego skład, czystość oraz stężenie lub czy istnieją inne informacje definiujące każdą serię materiału;
-7) został ustanowiony we współpracy ze zleceniodawcą mechanizm weryfikacji tożsamości materiału badanego w przypadku gdy materiał badany jest dostarczany przez zleceniodawcę;
+7) został ustanowiony we współpracy ze zleceniodawcą mechanizm weryfikacji tożsamości materiału badanego – w przypadku gdy materiał badany jest dostarczany przez zleceniodawcę;
 8) jest znana stabilność materiałów badanych i materiałów odniesienia w stosowanych warunkach ich przechowywania oraz badania;
 9) w przypadku gdy materiał badany lub materiał odniesienia są podawane z nośnikiem, określono stopień ich jednorodności, stężenie i stabilność; w przypadku badań terenowych te informacje można uzyskać po przeprowadzeniu oddzielnych badań laboratoryjnych;
-10) z każdej partii materiałów badanych i materiałów odniesienia są pobierane próbki do celów analitycznych i czy są one przechowywane przez właściwy okres jeżeli badanie trwa dłużej niż cztery tygodnie;
+10) z każdej partii materiałów badanych i materiałów odniesienia są pobierane próbki do celów analitycznych i czy są one przechowywane przez właściwy okres – jeżeli badanie trwa dłużej niż cztery tygodnie;
 11) w przypadku wszystkich badań, oprócz badań krótkoterminowych, są przechowywane próbki każdej partii materiału badanego w celu ich ewentualnej analizy;
 12) istnieją procedury mieszania materiałów badanych w celu uniknięcia pomyłek i wzajemnego zanieczyszczenia.
 17. W zakresie standardowych procedur operacyjnych inspektor Dobrej Praktyki Laboratoryjnej sprawdza, czy:
@@ -417,9 +417,9 @@ SZCZEGÓŁOWY SPOSÓB DOKONYWANIA KONTROLI I WERYFIKACJI SPEŁNIANIA PRZEZ JEDNO
 6) każde odstępstwo od standardowych procedur operacyjnych w prowadzonych badaniach jest udokumentowane i przedstawiane kierownikowi badania lub głównemu wykonawcy lub głównym wykonawcom, jeżeli zostali wyznaczeni;
 7) sporządzono standardowe procedury operacyjne, w szczególności w odniesieniu do:
 a) materiału badanego i materiału odniesienia: przychód, identyfikacja, oznakowanie, praca z materiałami w trakcie badania, pobieranie próbek i przechowywanie,
-b) przyrządów pomiarowych, materiałów pomocniczych i odczynników: przyrządy pomiarowe: stosowanie, konserwacja, czyszczenie, wzorcowanie i walidacja, systemy komputerowe: walidacja, weryfikacja, stosowanie, konserwacja, zabezpieczenie systemów, kontrola, kopie bezpieczeństwa i przechowywanie kopii, materiały pomocnicze, odczynniki i roztwory: sporządzanie i oznakowanie,
+b) przyrządów pomiarowych, materiałów pomocniczych i odczynników: – przyrządy pomiarowe: stosowanie, konserwacja, czyszczenie, wzorcowanie i walidacja, – systemy komputerowe: walidacja, weryfikacja, stosowanie, konserwacja, zabezpieczenie systemów, kontrola, kopie bezpieczeństwa i przechowywanie kopii, – materiały pomocnicze, odczynniki i roztwory: sporządzanie i oznakowanie,
 c) zapisywania, sporządzania sprawozdań, przechowywania i przeglądania danych: kodowanie badań, zbieranie danych, sporządzanie sprawozdań, systemy indeksowania i sposób posługiwania się danymi, w tym z zastosowaniem systemów komputerowych,
-d) systemów badawczych (jeżeli istnieje potrzeba): przygotowanie pomieszczeń do badań i kontrola warunków środowiskowych pomieszczeń dla danego systemu badawczego, procedury odbioru, transportu, właściwego rozmieszczenia, charakterystyki, identyfikacji i opieki nad systemem badawczym, przygotowanie systemu badawczego, obserwacje i badania przed badaniem, podczas badania i w czasie jego zakończenia, postępowanie z systemami badawczymi po zakończeniu badania, zbieranie próbek, ich identyfikacja i postępowanie z próbkami, łącznie z sekcją i badaniami histopatologicznymi, umiejscowienie systemów badawczych w harmonogramie badania, stosowanie środków czyszczących i środków ochrony przed szkodnikami,
+d) systemów badawczych (jeżeli istnieje potrzeba): – przygotowanie pomieszczeń do badań i kontrola warunków środowiskowych pomieszczeń dla danego systemu badawczego, – procedury odbioru, transportu, właściwego rozmieszczenia, charakterystyki, identyfikacji i opieki nad systemem badawczym, – przygotowanie systemu badawczego, obserwacje i badania przed badaniem, podczas badania i w czasie jego zakończenia, – postępowanie z systemami badawczymi po zakończeniu badania, – zbieranie próbek, ich identyfikacja i postępowanie z próbkami, łącznie z sekcją i badaniami histopatologicznymi, – umiejscowienie systemów badawczych w harmonogramie badania, – stosowanie środków czyszczących i środków ochrony przed szkodnikami,
 e) programu zapewnienia jakości: sposób postępowania osoby lub osób prowadzących program zapewnienia jakości podczas planowania, ustalania, przeprowadzania i dokumentowania inspekcji oraz przekazywania sprawozdań z inspekcji.
 18. W zakresie przeprowadzenia badania inspektor Dobrej Praktyki Laboratoryjnej sprawdza, czy:
 1) zaplanowano i przeprowadzono badanie zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
@@ -438,7 +438,7 @@ e) programu zapewnienia jakości: sposób postępowania osoby lub osób prowadz�
 14) każde nieprzewidziane zdarzenie zapisane w danych źródłowych było sprawdzone i ocenione pod kątem wpływu na wiarygodność prowadzonego badania;
 15) wyniki przedstawione w sprawozdaniu końcowym są kompletne i prawidłowo odzwierciedlają dane źródłowe.
 19. W zakresie sprawozdania końcowego inspektor Dobrej Praktyki Laboratoryjnej sprawdza, czy:
-1) dla każdego badania zostało sporządzone sprawozdanie końcowe lub w przypadku badań krótkoterminowych standardowe sprawozdanie z dołączonym suplementem precyzującym konkretne zadania;
+1) dla każdego badania zostało sporządzone sprawozdanie końcowe lub – w przypadku badań krótkoterminowych – standardowe sprawozdanie z dołączonym suplementem precyzującym konkretne zadania;
 2) sprawozdanie końcowe zostało podpisane i opatrzone datą przez kierownika badania, który odpowiada za wiarygodność danych i potwierdza, że badanie zostało przeprowadzone zgodnie z zasadami Dobrej Praktyki Laboratoryjnej;
 3) sprawozdania sporządzone przez głównych wykonawców lub personel badawczy biorący udział w badaniu są przez nich podpisane i opatrzone datą;
 4) korekty sprawozdania końcowego dokonane po jego podpisaniu przez kierownika badania wprowadzono w formie aneksu, z wyraźnym określeniem powodu dokonania korekt, i czy są one podpisane i opatrzone datą przez kierownika badania;
@@ -466,7 +466,7 @@ a) planu badania,
 b) wykorzystanych standardowych procedur operacyjnych,
 c) dzienników pracy wyposażenia pomiarowego i badawczego, dzienników laboratoryjnych, plików i wydruków przechowywanych danych,
 d) sprawozdania końcowego,
-e) w przypadku badania prowadzonego na zwierzętach zapisów dotyczących losów określonego odsetka liczby zwierząt od momentu przyjęcia do jednostki badawczej do momentu zakończenia części eksperymentalnej badania; te zapisy obejmują w szczególności: wagę ciała zwierzęcia, spożycie wody i paszy, sposób podania materiału badanego, obserwację kliniczną, wynik sekcji zwłok, wynik badania biochemicznego i wynik oceny patologicznej.
+e) w przypadku badania prowadzonego na zwierzętach – zapisów dotyczących losów określonego odsetka liczby zwierząt od momentu przyjęcia do jednostki badawczej do momentu zakończenia części eksperymentalnej badania; te zapisy obejmują w szczególności: wagę ciała zwierzęcia, spożycie wody i paszy, sposób podania materiału badanego, obserwację kliniczną, wynik sekcji zwłok, wynik badania biochemicznego i wynik oceny patologicznej.
 22. Po zakończeniu kontroli i weryfikacji prowadzi się konferencję zamykającą, podczas której inspektor Dobrej Praktyki Laboratoryjnej:
 1) przedstawia sposób postępowania po otrzymaniu protokołu z przeprowadzonej kontroli i weryfikacji;
 2) omawia odnotowane odstępstwa od zasad Dobrej Praktyki Laboratoryjnej oraz określa termin przesłania harmonogramu realizacji zaleceń pokontrolnych;

@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 6 lipca 1982 r. o radcach prawnych.*
 
-Łącznie: **660** orzeczeń
-(pominięto 706 orzeczeń sądów rejonowych)
+Łącznie: **661** orzeczeń
+(pominięto 711 orzeczeń sądów rejonowych)
 
 ## art. 1 (5)
 
@@ -357,12 +357,13 @@ Orzeczenia powołujące: *Ustawa z dnia 6 lipca 1982 r. o radcach prawnych.*
 
 - 2015-01-23 | SO | [I ACa 855/14](https://www.saos.org.pl/judgments/129577) | Wyrok
 
-## art. 22(3) (291)
+## art. 22(3) (292)
 
 - 2025-07-30 | SO | [II AKa 206/25](https://www.saos.org.pl/judgments/542169) | Wyrok
 - 2025-06-04 | SO | [II AKa 102/25](https://www.saos.org.pl/judgments/543164) | Wyrok
 - 2025-02-20 | SO | [II AKa 461/24](https://www.saos.org.pl/judgments/531986) | Wyrok
 - 2024-12-05 | SO | [II AKa 364/24](https://www.saos.org.pl/judgments/528387) | Wyrok
+- 2024-10-11 | SO | [V ACa 1822/23](https://www.saos.org.pl/judgments/545715) | Wyrok
 - 2024-05-28 | SO | [II AKa 82/24](https://www.saos.org.pl/judgments/520027) | Wyrok
 - 2023-10-13 | SO | [II AKa 235/23](https://www.saos.org.pl/judgments/500715) | Wyrok
 - 2023-04-25 | SO | [II AKa 85/23](https://www.saos.org.pl/judgments/523719) | Wyrok
@@ -798,8 +799,9 @@ Orzeczenia powołujące: *Ustawa z dnia 6 lipca 1982 r. o radcach prawnych.*
 
 - 2017-01-13 | SO | [II Ca 2208/16](https://www.saos.org.pl/judgments/270313) | Wyrok
 
-## art. 22(3) § 14 (1)
+## art. 22(3) § 14 (2)
 
+- 2024-10-11 | SO | [V ACa 1822/23](https://www.saos.org.pl/judgments/545715) | Wyrok
 - 2017-07-27 | SO | [III C 1082/16](https://www.saos.org.pl/judgments/314524) | Wyrok
 
 ## art. 22(3) § 15 (9)
@@ -814,8 +816,9 @@ Orzeczenia powołujące: *Ustawa z dnia 6 lipca 1982 r. o radcach prawnych.*
 - 2025-07-09 | SO | [VIII Pa 73/25](https://www.saos.org.pl/judgments/530191) | Uzasadnienie
 - 2014-03-20 | SO | [VII Ua 16/14](https://www.saos.org.pl/judgments/41607) | Uzasadnienie
 
-## art. 22(3) § 16 (13)
+## art. 22(3) § 16 (14)
 
+- 2024-10-11 | SO | [V ACa 1822/23](https://www.saos.org.pl/judgments/545715) | Wyrok
 - 2019-03-19 | SO | [I ACa 676/18](https://www.saos.org.pl/judgments/390053) | Wyrok
 - 2018-09-20 | SO | [V ACa 712/17](https://www.saos.org.pl/judgments/372781) | Wyrok
 - 2018-08-28 | SO | [III AUa 30/18](https://www.saos.org.pl/judgments/438564) | Wyrok

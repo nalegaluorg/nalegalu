@@ -8,10 +8,10 @@ pos: 1689
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 października 2016 r.
+# : RZECZYPOSPOLITEJ POLSKIEJ Poz. 1689 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 6 października 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001689) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1689/text.pdf) |
 
-Poz. 1689 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 6 października 2016 r.
-w sprawie zatwierdzania metody wyznaczania składek na obowiązkowy system gwarantowania depozytów w spółdzielczych kasach oszczędnościowo-kredytowych oraz jej udostępniania Na podstawie art. 290 ust. 12 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996) zarządza się, co następuje: § 1. Rozporządzenie określa tryb zatwierdzania przez Komisję Nadzoru Finansowego, zwaną dalej „Komisją”, opracowanej przez Bankowy Fundusz Gwarancyjny, zwany dalej „Funduszem”, metody wyznaczania składek dla spółdzielczych kas oszczędnościowo-kredytowych, zwanych dalej „kasami”, oraz zakres informacji dotyczących metody wyznaczania składek udostępnianych kasom wnoszącym składki oraz tryb ich udostępniania, w szczególności:
+w sprawie zatwierdzania metody wyznaczania składek na obowiązkowy system gwarantowania depozytów w spółdzielczych kasach oszczędnościowo-kredytowych oraz jej udostępniania Na podstawie art. 290 ust. 12 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb zatwierdzania przez Komisję Nadzoru Finansowego, zwaną dalej „Komisją”, opracowanej przez Bankowy Fundusz Gwarancyjny, zwany dalej „Funduszem”, metody wyznaczania składek dla spółdzielczych kas oszczędnościowo-kredytowych, zwanych dalej „kasami”, oraz zakres informacji dotyczących metody wyznaczania składek udostępnianych kasom wnoszącym składki oraz tryb ich udostępniania, w szczególności:
 1) zakres dokumentacji dołączanej przez Fundusz do wniosku o zatwierdzenie metody wyznaczania składek;
 2) zakres dopuszczalnych zmian w metodzie, niewymagających zatwierdzenia przez Komisję.
 § 2. 1. Fundusz występuje do Komisji z pisemnym wnioskiem o zatwierdzenie opracowanej metody wyznaczania składek.
@@ -36,7 +36,7 @@ w sprawie zatwierdzania metody wyznaczania składek na obowiązkowy system gwara
 § 4. Dokonane przez Fundusz zmiany w metodzie wyznaczania składek polegające na:
 1) zmianie definicji wskaźników ryzyka, o ile wynikają one ze zmian sprawozdawczości kas,
 2) zmianie granic dla ocen wskaźników ryzyka w przypadku zmiany norm nadzorczych, na których opierają się te wskaźniki – nie wymagają zatwierdzenia przez Komisję.
-Dziennik Ustaw – 2 – Poz. 1689 § 5. 1. Fundusz zamieszcza na swojej stronie internetowej informację zawierającą opis metody wyznaczania składek zatwierdzonej przez Komisję, algorytm ich obliczania oraz parametry niezbędne do obliczenia składki, w tym:
+§ 5. 1. Fundusz zamieszcza na swojej stronie internetowej informację zawierającą opis metody wyznaczania składek zatwierdzonej przez Komisję, algorytm ich obliczania oraz parametry niezbędne do obliczenia składki, w tym:
 1) zastosowane wskaźniki ryzyka;
 2) wagi wskaźników ryzyka;
 3) sposoby określania ocen wskaźników ryzyka oraz całkowitej wagi ryzyka wraz z parametrami punktacji;

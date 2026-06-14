@@ -8,7 +8,7 @@ pos: 622
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Sądzie Najwyższym
@@ -39,7 +39,7 @@ Art. 104–110. (pominięte)
     - **b)** kontrolę nadzwyczajną prawomocnych orzeczeń sądowych w celu zapewnienia ich zgodności z zasadą demokratycznego państwa prawnego urzeczywistniającego zasady sprawiedliwości społecznej przez rozpoznawanie skarg nadzwyczajnych;
 
 - **2)** rozpatrywania spraw dyscyplinarnych w zakresie określonym w ustawie;
-- **3)** rozpoznawania protestów wyborczych oraz stwierdzania ważności wyborów do i Senatu, wyboru Prezydenta Rzeczypospolitej Polskiej, wyborów do Parlamentu Europejskiego oraz rozpoznawania protestów przeciwko ważności referendum ogólnokrajowego i referendum konstytucyjnego oraz stwierdzania ważności referendum;
+- **3)** rozpoznawania protestów wyborczych oraz stwierdzania ważności wyborów do Sejmu i Senatu, wyboru Prezydenta Rzeczypospolitej Polskiej, wyborów do Parlamentu Europejskiego oraz rozpoznawania protestów przeciwko ważności referendum ogólnokrajowego i referendum konstytucyjnego oraz stwierdzania ważności referendum;
 - **4)** opiniowania projektów ustaw i innych aktów normatywnych, na podstawie których orzekają i funkcjonują sądy, a także innych projektów ustaw w zakresie, w jakim mają one wpływ na sprawy należące do właściwości Sądu Najwyższego;
 - **4a)** prowadzenia działalności edukacyjnej, naukowej, wydawniczej oraz muzealnej w zakresie historii polskiego sądownictwa, ze szczególnym uwzględnieniem historii sądownictwa najwyższej instancji;
 - **5)** wykonywania innych czynności określonych w ustawach.
@@ -47,6 +47,13 @@ Art. 104–110. (pominięte)
 **Art. 2.** Sąd Najwyższy ma siedzibę w Warszawie.
 
 **Art. 3.** Sąd Najwyższy dzieli się na Izby:
+
+- **1)** Cywilną;
+- **2)** Karną;
+- **3)** Pracy i Ubezpieczeń Społecznych;
+- **4)** Kontroli Nadzwyczajnej i Spraw Publicznych;
+- **4a)** Odpowiedzialności Zawodowej;
+- **5)** (uchylony)
 
 **Art. 4.** Prezydent Rzeczypospolitej Polskiej, po zasięgnięciu opinii Kolegium Sądu Najwyższego, określi, w drodze rozporządzenia, regulamin Sądu Najwyższego, w którym ustali liczbę stanowisk sędziego Sądu Najwyższego w izbach, o których mowa w art. 3 pkt 1–4, nie mniejszą niż 120, w tym ich liczbę w poszczególnych izbach, o których mowa w art. 3 pkt 1–4, wewnętrzną organizację Sądu Najwyższego, zasady wewnętrznego postępowania oraz szczegółowy zakres i sposób wykonywania czynności przez asystentów sędziego, biorąc pod uwagę konieczność zapewnienia sprawnego funkcjonowania Sądu Najwyższego, jego izb i organów, specyfikę postępowań prowadzonych przed Sądem Najwyższym, w tym postępowań dyscyplinarnych, oraz liczbę i rodzaj rozpoznawanych spraw.
 
@@ -66,9 +73,15 @@ Art. 104–110. (pominięte)
 
 § 1. Projekt dochodów i wydatków Sądu Najwyższego, w brzmieniu uchwalonym przez Kolegium Sądu Najwyższego, minister właściwy do spraw finansów publicznych włącza do projektu budżetu państwa.
 
-§ 2. (uchylony) § 3. W zakresie wykonywania budżetu Sądu Najwyższego Pierwszemu Prezesowi Sądu Najwyższego przysługują uprawnienia ministra właściwego do spraw finansów publicznych.
+§ 2. (uchylony)
 
-§ 4. (uchylony) § 5. (uchylony) § 6. (uchylony)
+§ 3. W zakresie wykonywania budżetu Sądu Najwyższego Pierwszemu Prezesowi Sądu Najwyższego przysługują uprawnienia ministra właściwego do spraw finansów publicznych.
+
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
 
 **Art. 8.** Sąd Najwyższy niezwłocznie publikuje wydane przez siebie orzeczenie, a po sporządzeniu jego uzasadnienia – również uzasadnienie orzeczenia, w Biuletynie Informacji Publicznej na stronie podmiotowej Sądu Najwyższego. Z orzeczeniem lub jego uzasadnieniem publikuje się również zgłoszone zdanie odrębne wraz z jego uzasadnieniem.
 
@@ -562,9 +575,27 @@ Art. 104–110. (pominięte)
 
 § 1. Sędzia Sądu Najwyższego przechodzi w stan spoczynku z dniem ukończenia 65. roku życia.
 
-§ 1a. (uchylony) § 1b. (uchylony) § 2. (uchylony) § 3. (uchylony) § 4. (uchylony) § 5. Sędzia Sądu Najwyższego będący kobietą może przejść w stan spoczynku z dniem ukończenia 60. roku życia, składając oświadczenie Pierwszemu Prezesowi Sądu Najwyższego, który przekazuje je niezwłocznie Prezydentowi Rzeczypospolitej Polskiej. Pierwszy Prezes Sądu Najwyższego składa oświadczenie bezpośrednio Prezydentowi Rzeczypospolitej Polskiej.
+§ 1a. (uchylony)
 
-**Art. 38.** [§ 1. Sędziego Sądu Najwyższego przenosi się w stan spoczynku na jego wniosek albo na wniosek Kolegium Sądu Najwyższego, jeżeli z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków sędziego.] <§ 1. Sędziego Sądu Najwyższego przenosi się w stan spoczynku na jego wniosek albo na wniosek Kolegium Sądu Najwyższego, jeżeli z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków sędziego. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).> § 2. Z wnioskiem o zbadanie zdolności do pełnienia obowiązków może wystąpić zainteresowany sędzia oraz Kolegium Sądu Najwyższego.
+§ 1b. (uchylony)
+
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. Sędzia Sądu Najwyższego będący kobietą może przejść w stan spoczynku z dniem ukończenia 60. roku życia, składając oświadczenie Pierwszemu Prezesowi Sądu Najwyższego, który przekazuje je niezwłocznie Prezydentowi Rzeczypospolitej Polskiej. Pierwszy Prezes Sądu Najwyższego składa oświadczenie bezpośrednio Prezydentowi Rzeczypospolitej Polskiej.
+
+**Art. 38.** [§ 1. Sędziego Sądu Najwyższego przenosi się w stan spoczynku na jego wniosek albo na wniosek Kolegium Sądu Najwyższego, jeżeli z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków sędziego.] <§ 1. Sędziego Sądu Najwyższego przenosi się w stan spoczynku na jego wniosek albo na wniosek Kolegium Sądu Najwyższego, jeżeli z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków sędziego. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
+
+§ 2. Z wnioskiem o zbadanie zdolności do pełnienia obowiązków może wystąpić zainteresowany sędzia oraz Kolegium Sądu Najwyższego.
+
+§ 3. Sędzia Sądu Najwyższego może być przeniesiony w stan spoczynku, jeżeli bez uzasadnionej przyczyny nie poddał się badaniu, o którym mowa w § 2, w sytuacji gdy z wnioskiem o zbadanie wystąpiło Kolegium Sądu Najwyższego.
+
+§ 4. W sprawach przeniesienia sędziego Sądu Najwyższego w stan spoczynku, o którym mowa w § 1 i 3, uchwałę podejmuje Krajowa Rada Sądownictwa, na wniosek zainteresowanego sędziego albo Kolegium Sądu Najwyższego.
+
+§ 5. Od uchwały Krajowej Rady Sądownictwa w sprawach, o których mowa w § 4, zainteresowanemu sędziemu, a w przypadku gdy z wnioskiem o przeniesienie sędziego Sądu Najwyższego w stan spoczynku wystąpiło Kolegium Sądu Najwyższego także temu kolegium, przysługuje odwołanie do Sądu Najwyższego.
 
 **Art. 39.** Datę przejścia sędziego Sądu Najwyższego w stan spoczynku albo przeniesienia sędziego Sądu Najwyższego w stan spoczynku stwierdza Prezydent Rzeczypospolitej Polskiej.
 
@@ -624,7 +655,11 @@ Art. 104–110. (pominięte)
 
 § 6. Przez spółkę prawa handlowego rozumie się spółkę handlową, a także inną spółkę, do której stosuje się przepisy prawa handlowego, w tym spółkę według prawa obcego.
 
-§ 7. (uchylony) § 8. (uchylony) § 9. Wybór lub powołanie do władz spółki, spółdzielni lub fundacji z naruszeniem zakazów określonych w § 5 pkt 1–3 są z mocy prawa nieważne i nie podlegają wpisowi do właściwego rejestru.
+§ 7. (uchylony)
+
+§ 8. (uchylony)
+
+§ 9. Wybór lub powołanie do władz spółki, spółdzielni lub fundacji z naruszeniem zakazów określonych w § 5 pkt 1–3 są z mocy prawa nieważne i nie podlegają wpisowi do właściwego rejestru.
 
 § 10. Przepisy § 1–3, 5, 6 i 9 stosuje się odpowiednio do sędziów Sądu Najwyższego w stanie spoczynku.
 
@@ -660,7 +695,9 @@ Art. 104–110. (pominięte)
 
 § 6. W związku z pełnioną funkcją sędziemu Sądu Najwyższego przysługuje dodatek funkcyjny, którego wysokość ustala się z zastosowaniem mnożników podstawy ustalenia wynagrodzenia, o której mowa w § 2.
 
-§ 7. (uchylony) § 8. Tabelę mnożników służących do ustalenia wysokości dodatków funkcyjnych określa załącznik do ustawy.
+§ 7. (uchylony)
+
+§ 8. Tabelę mnożników służących do ustalenia wysokości dodatków funkcyjnych określa załącznik do ustawy.
 
 **Art. 49.** Sędziemu Sądu Najwyższego przysługuje dodatek za długoletnią służbę wynoszący 1 % wynagrodzenia zasadniczego, za każdy rok służby, nie więcej jednak niż 20 % tego wynagrodzenia. Do okresu służby, od którego zależy wysokość dodatku, wlicza się również przypadający przed powołaniem na stanowisko sędziego Sądu Najwyższego okres stosunku służbowego lub stosunku pracy, jak również okres wykonywania zawodu adwokata, radcy prawnego lub notariusza.
 
@@ -695,7 +732,11 @@ Art. 104–110. (pominięte)
 - **4)** choroby spowodowanej przez inną osobę w wyniku popełnienia przez nią umyślnego czynu zabronionego, w związku z wykonywaniem czynności sędziego, stwierdzonego orzeczeniem wydanym przez uprawniony organ,
 - **5)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów – sędzia zachowuje prawo do 100 % wynagrodzenia, nie dłużej jednak niż przez okres roku.
 
-§ 6. Do nieobecności sędziego z powodów, o których mowa w § 5, przepis § 4 zdanie drugie i trzecie stosuje się. [§ 7. W przypadku stwierdzenia u sędziego choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego, Pierwszy Prezes Sądu Najwyższego kieruje sędziego, z urzędu lub na wniosek sędziego, do lekarza orzecznika Zakładu Ubezpieczeń Społecznych. Od orzeczenia lekarza orzecznika sędziemu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, w terminie 14 dni od dnia doręczenia tego orzeczenia.] <§ 7. W przypadku stwierdzenia u sędziego choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego, Pierwszy Prezes Sądu Najwyższego kieruje sędziego, z urzędu lub na wniosek sędziego, do lekarza orzecznika Zakładu Ubezpieczeń Społecznych. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.> § 8. Za chorobę powstałą w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego uznaje się chorobę spowodowaną działaniem czynników szkodliwych występujących w miejscu wykonywania czynności sędziego. [§ 9. Koszty badania i wydania orzeczenia przez lekarza orzecznika oraz komisję lekarską Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Pierwszego Prezesa Sądu Najwyższego.] <§ 9. Koszty badania i wydania orzeczenia przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Pierwszego Prezesa Sądu Najwyższego.> § 10. W przypadku niemożności wykonywania obowiązków służbowych z innych przyczyn, uprawniających do uzyskania świadczeń określonych w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780), sędziemu przysługuje wynagrodzenie w wysokości świadczeń i przez okres, które są przewidziane w tej ustawie.
+§ 6. Do nieobecności sędziego z powodów, o których mowa w § 5, przepis § 4 zdanie drugie i trzecie stosuje się. [§ 7. W przypadku stwierdzenia u sędziego choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego, Pierwszy Prezes Sądu Najwyższego kieruje sędziego, z urzędu lub na wniosek sędziego, do lekarza orzecznika Zakładu Ubezpieczeń Społecznych. Od orzeczenia lekarza orzecznika sędziemu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, w terminie 14 dni od dnia doręczenia tego orzeczenia.] <§ 7. W przypadku stwierdzenia u sędziego choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego, Pierwszy Prezes Sądu Najwyższego kieruje sędziego, z urzędu lub na wniosek sędziego, do lekarza orzecznika Zakładu Ubezpieczeń Społecznych. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.>
+
+§ 8. Za chorobę powstałą w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności sędziego uznaje się chorobę spowodowaną działaniem czynników szkodliwych występujących w miejscu wykonywania czynności sędziego. [§ 9. Koszty badania i wydania orzeczenia przez lekarza orzecznika oraz komisję lekarską Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Pierwszego Prezesa Sądu Najwyższego.] <§ 9. Koszty badania i wydania orzeczenia przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Pierwszego Prezesa Sądu Najwyższego.>
+
+§ 10. W przypadku niemożności wykonywania obowiązków służbowych z innych przyczyn, uprawniających do uzyskania świadczeń określonych w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780), sędziemu przysługuje wynagrodzenie w wysokości świadczeń i przez okres, które są przewidziane w tej ustawie.
 
 § 11. Okres nieobecności z powodu choroby oraz niemożności wykonywania obowiązków służbowych, o której mowa w § 10, stwierdza zaświadczenie lekarskie wystawione zgodnie z art. 55 ust. 1 i art. 55a ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa albo wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 tej ustawy, z tym że w przypadku:
 
@@ -776,6 +817,22 @@ Art. 104–110. (pominięte)
 
 **Art. 60.** Ławnikiem Sądu Najwyższego nie może być osoba:
 
+- **1)** zatrudniona w Sądzie Najwyższym i innych sądach oraz prokuraturze;
+- **2)** wchodząca w skład organów, od których orzeczenia można żądać skierowania sprawy na drogę postępowania sądowego;
+- **3)** będąca ławnikiem w sądach powszechnych lub sądach wojskowych;
+- **4)** będąca funkcjonariuszem Policji oraz pracująca w służbach związanych ze ściganiem przestępstw i wykroczeń;
+- **5)** pracująca w urzędach obsługujących centralne organy państwa;
+- **6)** wykonująca zawód dla którego sądem właściwym w sprawach dyscyplinarnych może być Sąd Najwyższy;
+- **7)** będąca adwokatem albo aplikantem adwokackim;
+- **8)** będąca radcą prawnym albo aplikantem radcowskim;
+- **9)** będąca notariuszem, zastępcą notarialnym albo aplikantem notarialnym;
+- **10)** duchowna;
+- **11)** będąca żołnierzem w czynnej służbie wojskowej;
+- **12)** będąca funkcjonariuszem Służby Więziennej;
+- **13)** będąca posłem, senatorem, posłem do Parlamentu Europejskiego, radnym gminy, powiatu lub województwa;
+- **14)** która pełniła służbę, pracowała lub była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+- **15)** należąca do partii politycznej.
+
 **Art. 61.**
 
 § 1. Liczbę ławników Sądu Najwyższego ustala Kolegium Sądu Najwyższego.
@@ -821,6 +878,10 @@ Art. 104–110. (pominięte)
 § 2. Do ławników Sądu Najwyższego stosuje się odpowiednio przepisy art. 36 § 5–8.
 
 **Art. 65.** Nie wyznacza się ławnika Sądu Najwyższego do pełnienia obowiązków w przypadku:
+
+- **1)** ujawnienia okoliczności, które nie pozwalały na jego wybór;
+- **2)** wszczęcia postępowania o odwołanie ławnika Sądu Najwyższego – do czasu podjęcia przez Senat uchwały w przedmiocie odwołania;
+- **3)** wszczęcia przeciwko ławnikowi Sądu Najwyższego postępowania o umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe – do czasu prawomocnego rozstrzygnięcia sprawy.
 
 **Art. 66.** W razie potrzeby, zwłaszcza z powodu zmniejszenia w czasie kadencji liczby ławników Sądu Najwyższego, Senat, na wniosek Pierwszego Prezesa Sądu Najwyższego, przeprowadza wybory uzupełniające. Przepis art. 62 stosuje się odpowiednio.
 
@@ -947,6 +1008,9 @@ Art. 104–110. (pominięte)
 
 **Art. 79.** Sprawy z zakresu prawa pracy i ubezpieczeń społecznych dotyczące sędziów Sądu Najwyższego rozpoznaje:
 
+- **1)** w pierwszej instancji – Sąd Najwyższy w składzie 1 sędziego orzekającego w Izbie Odpowiedzialności Zawodowej;
+- **2)** w drugiej instancji – Sąd Najwyższy w składzie 3 sędziów orzekających w Izbie Odpowiedzialności Zawodowej.
+
 **Art. 80.**
 
 § 1. Przydziału spraw i wyznaczenia składu orzekającego dokonuje Prezes Sądu Najwyższego kierujący pracą danej izby.
@@ -1062,6 +1126,9 @@ Art. 104–110. (pominięte)
 
 **Art. 95.** W zakresie nieuregulowanym przepisami ustawy do skargi nadzwyczajnej, w tym postępowania w sprawie tej skargi, stosuje się w zakresie spraw:
 
+- **1)** cywilnych – przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dotyczące skargi kasacyjnej, z wyłączeniem art. 398 § 2 oraz art. 398 ;
+- **2)** karnych – przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego dotyczące kasacji.
+
 **Art. 96.**
 
 § 1. Sąd Najwyższy na wniosek Prokuratora Generalnego unieważnia prawomocne orzeczenie wydane w sprawie, która w chwili orzekania ze względu na osobę nie podlegała orzecznictwu sądów polskich lub w której w chwili orzekania droga sądowa była niedopuszczalna, jeżeli orzeczenie to nie może być wzruszone w trybie przewidzianym w ustawach o postępowaniach sądowych.
@@ -1149,7 +1216,9 @@ Art. 104–110. (pominięte)
 
 **Art. 103.**
 
-§ 1. (uchylony) § 2. Wynagrodzenie członków Biura Studiów i Analiz Sądu Najwyższego niebędących sędziami jest równe wynagrodzeniu zasadniczemu sędziego sądu apelacyjnego w stawce podstawowej, z tym że wynagrodzenie to podwyższa się o wartość składki obciążającej pracownika z tytułu podlegania obowiązkowi ubezpieczenia społecznego.
+§ 1. (uchylony)
+
+§ 2. Wynagrodzenie członków Biura Studiów i Analiz Sądu Najwyższego niebędących sędziami jest równe wynagrodzeniu zasadniczemu sędziego sądu apelacyjnego w stawce podstawowej, z tym że wynagrodzenie to podwyższa się o wartość składki obciążającej pracownika z tytułu podlegania obowiązkowi ubezpieczenia społecznego.
 
 § 3. Osoby, o których mowa w § 2, mogą podejmować dodatkowe zatrudnienie lub inne zajęcie lub sposób zarobkowania wyłącznie za zgodą Pierwszego Prezesa Sądu Najwyższego. Zgoda może być cofnięta w każdym czasie.
 
@@ -1163,7 +1232,13 @@ Art. 104–110. (pominięte)
 
 **Art. 111.**
 
-§ 1. (uchylony) § 1a. (uchylony) § 1b. (uchylony) § 2. W terminie sześciu miesięcy od dnia wejścia w życie niniejszej ustawy sędzia Sądu Najwyższego może przejść w stan spoczynku, składając za pośrednictwem Pierwszego Prezesa Sądu Najwyższego oświadczenie Prezydentowi Rzeczypospolitej Polskiej.
+§ 1. (uchylony)
+
+§ 1a. (uchylony)
+
+§ 1b. (uchylony)
+
+§ 2. W terminie sześciu miesięcy od dnia wejścia w życie niniejszej ustawy sędzia Sądu Najwyższego może przejść w stan spoczynku, składając za pośrednictwem Pierwszego Prezesa Sądu Najwyższego oświadczenie Prezydentowi Rzeczypospolitej Polskiej.
 
 § 3. Z dniem wejścia w życie niniejszej ustawy sędziowie orzekający w Izbie Wojskowej przechodzą w stan spoczynku.
 
@@ -1217,6 +1292,21 @@ Art. 104–110. (pominięte)
 
 **Art. 122.** Do postępowań dyscyplinarnych prowadzonych na podstawie:
 
+- **1)** ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze,
+- **2)** ustawy z dnia 6 lipca 1982 r. o radcach prawnych,
+- **3)** ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych,
+- **4)** ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie,
+- **5)** ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich,
+- **6)** ustawy zmienianej w art. 106 ,
+- **7)** ustawy zmienianej w art. 107 ,
+- **8)** ustawy z dnia 11 kwietnia 2001 r. o rzecznikach patentowych,
+- **9)** ustawy zmienianej w art. 108 ,
+- **10)** ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej,
+- **11)** ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich,
+- **12)** ustawy z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych,
+- **13)** ustawy zmienianej w art. 110 ,
+- **14)** ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty – stosuje się przepisy dotychczasowe do zakończenia postępowania wyjaśniającego lub postępowania w instancji, w której się toczy.
+
 **Art. 123.** Czynności dokonane w postępowaniach dyscyplinarnych przed dniem wejścia w życie niniejszej ustawy pozostają w mocy o ile zostały dokonane z zachowaniem przepisów dotychczasowych.
 
 **Art. 124.**
@@ -1253,7 +1343,13 @@ Art. 104–110. (pominięte)
 
 **Art. 128.** Ilekroć w przepisach odrębnych jest mowa o:
 
+- **1)** Izbie Pracy, Ubezpieczeń Społecznych i Spraw Publicznych Sądu Najwyższego – należy przez to rozumieć, odpowiednio, Izbę Pracy i Ubezpieczeń Społecznych albo Izbę Kontroli Nadzwyczajnej i Spraw Publicznych Sądu Najwyższego;
+- **2)** Izbie Wojskowej Sądu Najwyższego – należy przez to rozumieć Izbę Karną Sądu Najwyższego.
+
 **Art. 129.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 23 ustawy uchylanej w art. 135 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 niniejszej ustawy,
+- **2)** art. 70 § 5 ustawy uchylanej w art. 135 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 103 § 5 niniejszej ustawy – nie dłużej jednak niż przez okres 12 miesięcy od dnia jej wejścia w życie.
 
 **Art. 129a.**
 
@@ -1283,5 +1379,10 @@ Art. 104–110. (pominięte)
 
 **Art. 135.** Traci moc ustawa z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. z 2016 r. poz. 1254, 2103 i 2261, z 2017 r. poz. 38 i 1452 oraz z 2018 r. poz.
 
+- **3)** .
+
 **Art. 136.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 8 grudnia 2017 r. (Dz. U. z 2024 r. poz.
+
+- **622)**
+
 

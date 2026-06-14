@@ -8,10 +8,10 @@ pos: 158
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 stycznia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 158 Program WykonaWczy do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Federacyjnej Republiki Brazylii o współpracy kulturalnej na lata 2013–2015, podpisany w Brasilii dnia 26 listopada 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2013-01-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000158) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/158/text.pdf) |
-
-Program WykonaWczy do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Federacyjnej Republiki Brazylii o współpracy kulturalnej na lata 2013–2015, podpisany w Brasilii dnia 26 listopada 2012 r.
 

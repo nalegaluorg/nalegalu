@@ -8,7 +8,7 @@ pos: 211
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lutego 2016 r.
@@ -25,37 +25,38 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000211) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/211/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 17 lutego 2016 r.
-w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych Na podstawie art. 23 ust. 2 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2015 r. poz. 876 i 1918) zarządza się, co następuje: § 1. Rozporządzenie określa:
+Poz. 211 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 17 lutego 2016 r.
+w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych Na podstawie art. 23 ust. 2 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2015 r. poz. 876 i 1918) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wymagania zasadnicze dla wyrobów medycznych;
 2) procedury oceny zgodności wyrobów medycznych;
 3) wykaz procedur oceny zgodności wyrobów medycznych, które mogą być prowadzone przez autoryzowanego przedstawiciela;
 4) wysokość opłaty, o której mowa w art. 29 ust. 9 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, zwanej dalej „ustawą”.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) podkategorii wyrobów medycznych rozumie się przez to grupę wyrobów medycznych o wspólnych zakresach przewidzianego zastosowania lub o wspólnej technologii;
-2) wyrobie do jednorazowego użytku rozumie się przez to wyrób medyczny przeznaczony do użycia tylko raz u jednego pacjenta.
+1) podkategorii wyrobów medycznych – rozumie się przez to grupę wyrobów medycznych o wspólnych zakresach przewidzianego zastosowania lub o wspólnej technologii;
+2) wyrobie do jednorazowego użytku – rozumie się przez to wyrób medyczny przeznaczony do użycia tylko raz u jednego pacjenta.
 § 3. Wymagania zasadnicze dla wyrobów medycznych są określone w załączniku nr 1 do rozporządzenia.
 § 4. 1. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy III, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedur:
-1) deklaracji zgodności WE pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
+1) deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
 2) badania typu WE, określonej w załączniku nr 3 do rozporządzenia, łącznie z procedurą:
 a) weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia, albo
-b) deklaracji zgodności WE zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia.
+b) deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia.
 2. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy IIb, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedur:
-1) deklaracji zgodności WE pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, z wyłączeniem postanowień dotyczących oceny projektu, określonych w ust. 4.1–4.4 tego załącznika, albo
+1) deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, z wyłączeniem postanowień dotyczących oceny projektu, określonych w ust. 4.1–4.4 tego załącznika, albo
 2) badania typu WE, określonej w załączniku nr 3 do rozporządzenia, łącznie z jedną z następujących procedur:
 a) weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia,
-b) deklaracji zgodności WE zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia,
-c) deklaracji zgodności WE zapewnienie jakości wyrobu, określoną w załączniku nr 6 do rozporządzenia.
+b) deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia,
+c) deklaracji zgodności WE – zapewnienie jakości wyrobu, określoną w załączniku nr 6 do rozporządzenia.
 3. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy IIa, innych niż wyroby wykonane na zamówienie lub wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury deklaracji zgodności WE, określonej w załączniku nr 7 do rozporządzenia, łącznie z jedną z następujących procedur:
 1) weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia;
-2) deklaracji zgodności WE zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia;
-3) deklaracji zgodności WE zapewnienie jakości wyrobu, określoną w załączniku nr 6 do rozporządzenia.
-4. Jeżeli wytwórca wyrobów medycznych, o których mowa w ust. 3, stosuje pełny system zapewnienia jakości, to w celu oznakowania ich znakiem CE może zamiast przeprowadzania oceny zgodności w sposób określony w ust. 3 przeprowadzić ocenę zgodności z zastosowaniem procedury deklaracji zgodności WE pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, z wyłączeniem postanowień dotyczących oceny projektu, określonych w ust. 4.1–4.4 tego załącznika.
+2) deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia;
+3) deklaracji zgodności WE – zapewnienie jakości wyrobu, określoną w załączniku nr 6 do rozporządzenia.
+4. Jeżeli wytwórca wyrobów medycznych, o których mowa w ust. 3, stosuje pełny system zapewnienia jakości, to w celu oznakowania ich znakiem CE może zamiast przeprowadzania oceny zgodności w sposób określony w ust. 3 przeprowadzić ocenę zgodności z zastosowaniem procedury deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, z wyłączeniem postanowień dotyczących oceny projektu, określonych w ust. 4.1–4.4 tego załącznika.
 5. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy I, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury dotyczącej deklaracji zgodności WE, określonej w załączniku nr 7 do rozporządzenia.
 6. Podmiot, który sterylizuje system lub zestaw zabiegowy lub wyrób medyczny oznakowany znakiem CE przeznaczony przez wytwórcę do sterylizacji przed użyciem, w celu wprowadzenia ich do obrotu:
 1) przeprowadza ocenę zgodności z zastosowaniem procedur:
-a) deklaracji zgodności WE pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
-b) deklaracji zgodności WE zapewnienie jakości produkcji, określonej w załączniku nr 5 do rozporządzenia odnoszących się do uzyskania i utrzymania sterylności do momentu otwarcia lub uszkodzenia opakowania oraz do działań jednostki notyfikowanej w tym zakresie;
+a) deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
+b) deklaracji zgodności WE – zapewnienie jakości produkcji, określonej w załączniku nr 5 do rozporządzenia – odnoszących się do uzyskania i utrzymania sterylności do momentu otwarcia lub uszkodzenia opakowania oraz do działań jednostki notyfikowanej w tym zakresie;
 2) po zakończeniu procedury sporządza oświadczenie, w którym stwierdza, że sterylizacja została przeprowadzona zgodnie z instrukcjami wytwórców.
 7. Wytwórca wyrobu medycznego będącego wyrobem wykonanym na zamówienie albo wyrobem do badania klinicznego przeprowadza jego ocenę zgodności i sporządza oświadczenie zgodnie z załącznikiem nr 8 do rozporządzenia.
 § 5. 1. Ocena kliniczna wyrobów medycznych jest dokumentowana. Dokumentacja ta albo wskazanie miejsca jej przechowywania lub danych bibliograficznych są dołączane do oceny zgodności danego wyrobu.
@@ -64,22 +65,22 @@ b) deklaracji zgodności WE zapewnienie jakości produkcji, określonej w załą
 § 7. Podmiot, który wytworzył wyrób wykonany przez użytkownika, przeprowadza ocenę jego zgodności i sporządza oświadczenie określone w załączniku nr 9 do rozporządzenia.
 § 8. Autoryzowany przedstawiciel może przeprowadzić ocenę zgodności wyrobu medycznego z zastosowaniem procedur określonych w załącznikach nr 3, 4, 7 i 8 do rozporządzenia.
 § 9. Wysokość opłaty za wydanie przez Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Prezesem Urzędu”, opinii, o której mowa w art. 29 ust. 9 ustawy, w przypadku opinii dotyczącej:
-1) substancji, która stosowana oddzielnie byłaby produktem leczniczym antyseptycznym, tradycyjnym produktem leczniczym roślinnym, o którym mowa w art. 20a ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U.
-z 2008 r. Nr 45, poz. 271, z późn. zm. ), zwanej dalej „Prawem farmaceutycznym”, lub produktem leczniczym roślinnym, dla którego opracowano monografię wspólnotową wynosi 240% minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, zwanego dalej „minimalnym wynagrodzeniem”;
-2) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 1 wynosi 100% minimalnego wynagrodzenia;
-3) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 1 wynosi 120% minimalnego wynagrodzenia;
-4) substancji, która stosowana oddzielnie byłaby produktem leczniczym roślinnym innym niż te, o których mowa w art. 20a Prawa farmaceutycznego wynosi 650% minimalnego wynagrodzenia;
-5) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 4 wynosi 400% minimalnego wynagrodzenia;
-6) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 4 wynosi 325% minimalnego wynagrodzenia;
-7) substancji, która stosowana oddzielnie byłaby produktem leczniczym wytwarzanym metodami przemysłowymi zgodnie z przepisami Farmakopei Polskiej wynosi 100% minimalnego wynagrodzenia;
-8) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 7 wynosi 25% minimalnego wynagrodzenia;
-9) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 7 wynosi 50% minimalnego wynagrodzenia;
-10) substancji, która stosowana oddzielnie byłaby referencyjnym produktem leczniczym, o którym mowa w art. 2 pkt 35b Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 wynosi 2000% minimalnego wynagrodzenia;
-11) substancji, która stosowana oddzielnie byłaby produktem leczniczym, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7, którego substancje czynne mają ugruntowane zastosowanie medyczne, o którym mowa w art. 16 ust. 2 Prawa farmaceutycznego wynosi 1600% minimalnego wynagrodzenia;
-12) substancji, która stosowana oddzielnie byłaby produktem leczniczym będącym odpowiednikiem referencyjnego produktu leczniczego, o którym mowa w art. 15 ust. 8 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 wynosi 650% minimalnego wynagrodzenia;
-13) substancji, która stosowana oddzielnie byłaby produktem leczniczym, o którym mowa w art. 15 ust. 12 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 wynosi 1040% minimalnego wynagrodzenia;
-14) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 10–13 wynosi 400% minimalnego wynagrodzenia;
-15) substancji będącej dopuszczonym do obrotu produktem leczniczym innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 wynosi 500% minimalnego wynagrodzenia.
+1) substancji, która stosowana oddzielnie byłaby produktem leczniczym antyseptycznym, tradycyjnym produktem leczniczym roślinnym, o którym mowa w art. 20a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U.
+z 2008 r. Nr 45, poz. 271, z późn. zm. ), zwanej dalej „Prawem farmaceutycznym”, lub produktem leczniczym roślinnym, dla którego opracowano monografię wspólnotową – wynosi 240% minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, zwanego dalej „minimalnym wynagrodzeniem”;
+2) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 1 – wynosi 100% minimalnego wynagrodzenia;
+3) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 1 – wynosi 120% minimalnego wynagrodzenia;
+4) substancji, która stosowana oddzielnie byłaby produktem leczniczym roślinnym innym niż te, o których mowa w art. 20a Prawa farmaceutycznego – wynosi 650% minimalnego wynagrodzenia;
+5) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 4 – wynosi 400% minimalnego wynagrodzenia;
+6) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 4 – wynosi 325% minimalnego wynagrodzenia;
+7) substancji, która stosowana oddzielnie byłaby produktem leczniczym wytwarzanym metodami przemysłowymi zgodnie z przepisami Farmakopei Polskiej – wynosi 100% minimalnego wynagrodzenia;
+8) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 7 – wynosi 25% minimalnego wynagrodzenia;
+9) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 7 – wynosi 50% minimalnego wynagrodzenia;
+10) substancji, która stosowana oddzielnie byłaby referencyjnym produktem leczniczym, o którym mowa w art. 2 pkt 35b Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 2000% minimalnego wynagrodzenia;
+11) substancji, która stosowana oddzielnie byłaby produktem leczniczym, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7, którego substancje czynne mają ugruntowane zastosowanie medyczne, o którym mowa w art. 16 ust. 2 Prawa farmaceutycznego – wynosi 1600% minimalnego wynagrodzenia;
+12) substancji, która stosowana oddzielnie byłaby produktem leczniczym będącym odpowiednikiem referencyjnego produktu leczniczego, o którym mowa w art. 15 ust. 8 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 650% minimalnego wynagrodzenia;
+13) substancji, która stosowana oddzielnie byłaby produktem leczniczym, o którym mowa w art. 15 ust. 12 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 1040% minimalnego wynagrodzenia;
+14) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 10–13 – wynosi 400% minimalnego wynagrodzenia;
+15) substancji będącej dopuszczonym do obrotu produktem leczniczym innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 500% minimalnego wynagrodzenia.
 § 10. Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r.
 Minister Zdrowia: K. Radziwiłł WYMAGANIA ZASADNICZE DLA WYROBÓW MEDYCZNYCH Część I. Wymagania ogólne
 1. Wyroby medyczne muszą być zaprojektowane i wytworzone tak, aby ich stosowanie w przewidzianych warunkach i zgodnie z przewidzianym zastosowaniem nie zagrażało zdrowiu i bezpieczeństwu pacjentów, użytkowników oraz innych osób. Ryzyko związane z używaniem wyrobu medycznego zgodnie z przewidzianym zastosowaniem może być dopuszczone pod warunkiem, że przeważają korzyści wynikające z jego zastosowania u pacjenta, i że wyroby zapewniają wysoki poziom bezpieczeństwa i ochrony zdrowia. Wymagania te obejmują w szczególności:
@@ -179,8 +180,8 @@ Instrukcje używania muszą być zawarte w opakowaniu każdego wyrobu medycznego
 4) kod lub numer partii lub serii, poprzedzony wyrazem „PARTIA”, „SERIA” albo „LOT”, lub numer seryjny, jeżeli dotyczy;
 5) oznaczenie daty, przed upływem której wyrób medyczny może być używany bezpiecznie, wyrażonej jako rok i miesiąc, jeżeli dotyczy;
 6) wskazanie, że wyrób medyczny jest wyrobem do jednorazowego użytku, jeżeli dotyczy; wskazanie to musi być spójne we wszystkich państwach członkowskich;
-7) wyrazy „wyrób wykonany na zamówienie” w przypadku wyrobu wykonanego na zamówienie;
-8) wyrazy „wyłącznie do badań klinicznych” w przypadku wyrobu do badania klinicznego;
+7) wyrazy „wyrób wykonany na zamówienie” – w przypadku wyrobu wykonanego na zamówienie;
+8) wyrazy „wyłącznie do badań klinicznych” – w przypadku wyrobu do badania klinicznego;
 9) szczególne warunki przechowywania lub posługiwania się wyrobem medycznym;
 10) szczególne zalecenia eksploatacyjne;
 11) stosowne ostrzeżenia i środki ostrożności;
@@ -192,17 +193,17 @@ Instrukcje używania muszą być zawarte w opakowaniu każdego wyrobu medycznego
 13.6. Instrukcje używania muszą zawierać, jeżeli to stosowne, następujące dane szczegółowe:
 1) określone w ust. 13.3, z wyjątkiem pkt 4 i 5;
 2) parametry działania, o których mowa w ust. 3, i wszelkie działania niepożądane;
-3) jeżeli wyrób medyczny, aby działać zgodnie z przewidzianym zastosowaniem, ma być instalowany z innymi wyrobami medycznymi lub sprzętem lub być połączony z nimi szczegółowe dane o jego właściwościach, wystarczające do poprawnej identyfikacji wyrobów medycznych lub sprzętu w celu uzyskania bezpiecznego połączenia;
+3) jeżeli wyrób medyczny, aby działać zgodnie z przewidzianym zastosowaniem, ma być instalowany z innymi wyrobami medycznymi lub sprzętem lub być połączony z nimi – szczegółowe dane o jego właściwościach, wystarczające do poprawnej identyfikacji wyrobów medycznych lub sprzętu w celu uzyskania bezpiecznego połączenia;
 4) konieczne do sprawdzenia, czy wyrób medyczny jest właściwie zainstalowany, i czy działa poprawnie i bezpiecznie, oraz szczegółowe informacje o rodzaju i częstości przeprowadzania konserwacji i wzorcowań koniecznych do zapewnienia, że wyrób medyczny będzie zawsze działał poprawnie i bezpiecznie;
 5) dotyczące unikania zagrożeń związanych z wszczepieniem wyrobu medycznego, jeżeli dotyczy;
 6) informacje o ryzyku wzajemnych zakłóceń powodowanych obecnością danego wyrobu medycznego podczas określonych badań lub leczenia;
 7) instrukcje postępowania niezbędne w razie uszkodzenia opakowania sterylnego oraz szczegółowe informacje o metodach ponownej sterylizacji, jeżeli dotyczy;
 8) w przypadku wyrobów medycznych:
-a) do wielokrotnego użytku informacje o odpowiednich procesach pozwalających na ponowne użycie obejmujące czyszczenie, dezynfekcję, pakowanie oraz metodę ponownej sterylizacji wyrobu medycznego, jeżeli dotyczy, a także o ograniczeniach krotności użycia,
-b) przewidzianych do sterylizacji przed użyciem instrukcje czyszczenia i sterylizacji wskazujące sposoby działania, po których prawidłowym wykonaniu wyrób medyczny będzie nadal spełniał wymagania określone w ust. 1–6,
-c) oznakowanych jako wyroby do jednorazowego użytku informacje o znanych wytwórcy właściwościach i przyczynach technicznych powodujących, że ponowne użycie będzie ryzykowne; jeżeli zgodnie z ust. 13.1 nie dołączono do tych wyrobów instrukcji używania informacje te muszą być udostępniane na żądanie użytkownika;
+a) do wielokrotnego użytku – informacje o odpowiednich procesach pozwalających na ponowne użycie obejmujące czyszczenie, dezynfekcję, pakowanie oraz metodę ponownej sterylizacji wyrobu medycznego, jeżeli dotyczy, a także o ograniczeniach krotności użycia,
+b) przewidzianych do sterylizacji przed użyciem – instrukcje czyszczenia i sterylizacji wskazujące sposoby działania, po których prawidłowym wykonaniu wyrób medyczny będzie nadal spełniał wymagania określone w ust. 1–6,
+c) oznakowanych jako wyroby do jednorazowego użytku – informacje o znanych wytwórcy właściwościach i przyczynach technicznych powodujących, że ponowne użycie będzie ryzykowne; jeżeli zgodnie z ust. 13.1 nie dołączono do tych wyrobów instrukcji używania – informacje te muszą być udostępniane na żądanie użytkownika;
 9) szczegóły dotyczące podjęcia obróbki lub postępowań koniecznych przed użyciem wyrobu medycznego, w szczególności sterylizacji lub montażu końcowego;
-10) w przypadku wyrobów medycznych emitujących promieniowanie w celach medycznych szczegółowe informacje dotyczące rodzaju, typu, natężenia i rozkładu promieniowania;
+10) w przypadku wyrobów medycznych emitujących promieniowanie w celach medycznych – szczegółowe informacje dotyczące rodzaju, typu, natężenia i rozkładu promieniowania;
 11) wszelkie przeciwwskazania i środki ostrożności pozwalające personelowi medycznemu je podjąć i pouczyć o nich pacjenta;
 12) środki ostrożności, jakie należy podjąć w przypadku zmian działania wyrobu medycznego;
 13) środki ostrożności, jakie należy podjąć, aby w dających się przewidzieć warunkach środowiska uniknąć narażenia na działania pól magnetycznych, zewnętrznego oddziaływania elektrycznego, wyładowań elektrostatycznych, ciśnienia lub jego zmian, przyspieszenia, termicznych źródeł zapłonu i innych możliwych czynników;
@@ -211,9 +212,9 @@ c) oznakowanych jako wyroby do jednorazowego użytku informacje o znanych wytwó
 16) o substancjach leczniczych lub produktach krwiopochodnych stanowiących integralną część wyrobu medycznego, zgodnie z ust. 7.4;
 17) stopień dokładności deklarowany dla wyrobów z funkcją pomiarową;
 18) datę wydania albo ostatniej aktualizacji instrukcji używania.
-DEKLARACJA ZGODNOŚCI WE PEŁNY SYSTEM ZAPEWNIENIA JAKOŚCI
+DEKLARACJA ZGODNOŚCI WE – PEŁNY SYSTEM ZAPEWNIENIA JAKOŚCI
 1. Wytwórca zapewnia stosowanie zatwierdzonego systemu jakości, o którym mowa w ust. 3.1–3.4, obejmującego projektowanie, wytwarzanie i końcową kontrolę danych wyrobów medycznych, zgodnie z wymaganiami określonymi w ust. 3.2, i podlega audytom i ocenie, o których mowa w ust. 3.3 i 4.1–4.4, oraz nadzorowi jednostki notyfikowanej, o którym mowa w ust. 5.1–5.4.
-2. Deklaracja zgodności WE pełny system zapewnienia jakości, jest procedurą, zgodnie z którą wytwórca wypełniający zobowiązania określone w ust. 1 zapewnia i oświadcza, że dane wyroby medyczne spełniają odnoszące się do tych wyrobów wymagania.
+2. Deklaracja zgodności WE – pełny system zapewnienia jakości, jest procedurą, zgodnie z którą wytwórca wypełniający zobowiązania określone w ust. 1 zapewnia i oświadcza, że dane wyroby medyczne spełniają odnoszące się do tych wyrobów wymagania.
 Wytwórca oznakowuje te wyroby medyczne znakiem CE oraz sporządza pisemną deklarację zgodności.
 Deklaracja ta obejmuje jeden lub więcej wytworzonych wyrobów medycznych, wyraźnie zidentyfikowanych nazwą, kodem wyrobu lub w inny jednoznaczny sposób, i musi być przechowywana przez wytwórcę.
 3. System jakości
@@ -233,12 +234,12 @@ Dokumentacja systemu jakości powinna obejmować w szczególności stosowny opis
 2) organizacji przedsiębiorstwa, w szczególności:
 a) schemat organizacyjny, zakres odpowiedzialności i uprawnień personelu kierowniczego za jakość projektowania i wytwarzanie wyrobów medycznych,
 b) metody monitorowania skuteczności systemu jakości, w szczególności jego zdolności do osiągnięcia pożądanej jakości projektu i wyrobu medycznego, w tym nadzorowania wyrobów niezgodnych,
-c) jeżeli projektowanie, wytwarzanie lub końcową kontrolę i badania końcowe wyrobów medycznych lub ich elementów przeprowadza inny podmiot metody monitorowania skuteczności systemu jakości, w szczególności rodzaju i zakresu nadzoru nad tym podmiotem;
+c) jeżeli projektowanie, wytwarzanie lub końcową kontrolę i badania końcowe wyrobów medycznych lub ich elementów przeprowadza inny podmiot – metody monitorowania skuteczności systemu jakości, w szczególności rodzaju i zakresu nadzoru nad tym podmiotem;
 3) procedur monitorowania i weryfikacji projektu wyrobów medycznych, w tym odpowiedniej dokumentacji, a w szczególności:
 a) ogólny opis wyrobu medycznego, w tym wszystkich planowanych wersji, oraz przewidziane zastosowanie,
 b) wymagania techniczne dotyczące projektu, w tym normy, które zostaną zastosowane, wyniki analizy ryzyka, a także opis rozwiązań przyjętych w celu spełnienia wymagań zasadniczych odnoszących się do tych wyrobów medycznych, jeżeli normy zharmonizowane nie zostały w pełni zastosowane,
 c) techniki stosowane do nadzorowania i weryfikacji projektu i procesów oraz systematyczne środki, które będą stosowane przy projektowaniu wyrobów medycznych,
-d) jeżeli wyrób medyczny, aby działać zgodnie z przeznaczeniem ma być połączony z innym lub innymi wyrobami medycznymi dowody, że spełnia on wymagania zasadnicze po połączeniu z każdym z takich wyrobów mających właściwości określone przez wytwórcę,
+d) jeżeli wyrób medyczny, aby działać zgodnie z przeznaczeniem ma być połączony z innym lub innymi wyrobami medycznymi – dowody, że spełnia on wymagania zasadnicze po połączeniu z każdym z takich wyrobów mających właściwości określone przez wytwórcę,
 e) oświadczenie wskazujące, czy wyrób medyczny zawiera jako integralną część substancję, która używana oddzielnie może być uznana za produkt leczniczy lub produkt krwiopochodny, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, oraz, jeżeli ją zawiera, dane dotyczące przeprowadzonych badań wymaganych do oceny bezpieczeństwa, jakości i użyteczności takiej substancji, z uwzględnieniem przewidzianego zastosowania wyrobu medycznego,
 f) oświadczenie wskazujące, czy przy wytwarzaniu wyrobu medycznego wykorzystano tkanki pochodzenia zwierzęcego,
 g) przyjęte rozwiązania, o których mowa w ust. 2 załącznika nr 1 do rozporządzenia,
@@ -272,7 +273,7 @@ W przypadku wyrobów medycznych produkowanych z wykorzystaniem tkanek pochodzeni
 5.3. Jednostka notyfikowana okresowo przeprowadza inspekcje i oceny w celu upewnienia się, że wytwórca stosuje zatwierdzony system jakości, i przekazuje wytwórcy sprawozdania z oceny.
 5.4. Jednostka notyfikowana może przeprowadzać niezapowiedziane inspekcje u wytwórcy. Podczas tych inspekcji jednostka notyfikowana może, jeżeli to niezbędne, przeprowadzać badania lub żądać przeprowadzenia badań mających na celu potwierdzenie, że system jakości funkcjonuje właściwie. Jednostka notyfikowana przekazuje wytwórcy sprawozdanie z inspekcji i z badań, jeżeli takie przeprowadzono.
 6. Przepisy administracyjne
-6.1. Wytwórca lub jego autoryzowany przedstawiciel przechowuje przez okres określony w art. 32 ust. 1 lub 2 ustawy, do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej do dyspozycji Prezesa Urzędu:
+6.1. Wytwórca lub jego autoryzowany przedstawiciel przechowuje przez okres określony w art. 32 ust. 1 lub 2 ustawy, do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej – do dyspozycji Prezesa Urzędu:
 1) deklarację zgodności;
 2) dokumentację systemu jakości, o której mowa w ust. 3.1 pkt 4, a w szczególności dokumentację, dane i zapisy, o których mowa w ust. 3.2 pkt 3;
 3) dokumentację dotyczącą zmian, o których mowa w ust. 3.4;
@@ -282,7 +283,7 @@ W przypadku wyrobów medycznych produkowanych z wykorzystaniem tkanek pochodzeni
 7.1. Do wyrobów medycznych klasy IIa i IIb nie stosuje się przepisów ust. 4.1–4.4.
 7.2. Dla wyrobów medycznych klasy IIa jednostka notyfikowana, w ramach oceny, o której mowa w ust. 3.3, ocenia dokumentację techniczną określoną w ust. 3.2 pkt 3, co najmniej jednej reprezentatywnej próbki z każdej podkategorii wyrobów medycznych, aby stwierdzić zgodność z odnoszącymi się do tych wyrobów wymaganiami.
 7.3. Dla wyrobów medycznych klasy IIb jednostka notyfikowana, w ramach oceny, o której mowa w ust. 3.3, ocenia dokumentację techniczną określoną w ust. 3.2 pkt 3, co najmniej jednej reprezentatywnej próbki z każdej grupy rodzajowej wyrobów medycznych, aby stwierdzić zgodność z odnoszącymi się do tych wyrobów wymaganiami. Przez grupę rodzajową wyrobów medycznych rozumie się zbiór wyrobów medycznych o tym samym lub podobnym przewidzianym zastosowaniu lub o wspólnej technologii, co pozwala na zaliczenie ich do tego samego rodzaju, bez uwzględniania ich specyficznych właściwości.
-7.4. Przy wyborze reprezentatywnych próbek jednostka notyfikowana bierze pod uwagę innowacyjność technologii, podobieństwo projektów, technologii, metod wytwarzania i sterylizacji, przewidziane zastosowanie i wyniki wszelkich wcześniejszych ocen przeprowadzonych zgodnie z ustawą, w szczególności właściwości fizycznych, chemicznych lub biologicznych. Jednostka notyfikowana dokumentuje i przechowuje do dyspozycji właściwego organu krajowego, a w przypadku jednostki notyfikowanej autoryzowanej przez ministra właściwego do spraw zdrowia, do jego dyspozycji uzasadnienie wyboru próbki.
+7.4. Przy wyborze reprezentatywnych próbek jednostka notyfikowana bierze pod uwagę innowacyjność technologii, podobieństwo projektów, technologii, metod wytwarzania i sterylizacji, przewidziane zastosowanie i wyniki wszelkich wcześniejszych ocen przeprowadzonych zgodnie z ustawą, w szczególności właściwości fizycznych, chemicznych lub biologicznych. Jednostka notyfikowana dokumentuje i przechowuje do dyspozycji właściwego organu krajowego, a w przypadku jednostki notyfikowanej autoryzowanej przez ministra właściwego do spraw zdrowia, do jego dyspozycji – uzasadnienie wyboru próbki.
 7.5. Jednostka notyfikowana ocenia dalsze próbki w ramach nadzoru, o którym mowa w ust. 5.1–5.4.
 8. Wyroby medyczne zawierające produkt krwiopochodny Po wytworzeniu każdej partii wyrobów medycznych zawierających produkt krwiopochodny, wytwórca powiadamia jednostkę notyfikowaną o zwolnieniu partii wyrobów medycznych i przesyła jej oficjalny certyfikat dotyczący zwolnienia partii produktu krwiopochodnego użytej w wyrobie medycznym, wydany przez laboratorium państwowe państwa członkowskiego lub inne laboratorium wyznaczone do tego celu przez państwo członkowskie.
 BADANIE TYPU WE
@@ -334,7 +335,7 @@ Dla wyrobów medycznych wprowadzanych do obrotu w stanie sterylnym, w zakresie w
 6.4. Jeżeli partia zostanie przyjęta, jednostka notyfikowana oznacza lub zleca oznaczenie swoim numerem identyfikacyjnym każdego wyrobu medycznego i sporządza pisemny certyfikat zgodności odnoszący się do przeprowadzonych badań. Wszystkie wyroby medyczne z partii mogą zostać wprowadzone do obrotu, z wyjątkiem stwierdzonych w próbce wyrobów niezgodnych.
 W przypadku odrzucenia partii, jednostka notyfikowana jest obowiązana do podjęcia stosownych środków w celu zapobieżenia wprowadzeniu partii do obrotu. Jeżeli często powtarzają się odrzucenia partii, jednostka notyfikowana może zawiesić weryfikację statystyczną.
 Jednostka notyfikowana może upoważnić wytwórcę do oznaczania jej numerem identyfikacyjnym wyrobów medycznych podczas procesu wytwarzania.
-7. Przepisy administracyjne Wytwórca lub jego autoryzowany przedstawiciel przechowuje przez okres określony w art. 32 ust. 1 lub 2 ustawy, do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej do dyspozycji Prezesa Urzędu:
+7. Przepisy administracyjne Wytwórca lub jego autoryzowany przedstawiciel przechowuje przez okres określony w art. 32 ust. 1 lub 2 ustawy, do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej – do dyspozycji Prezesa Urzędu:
 1) deklarację zgodności;
 2) dokumentację, o której mowa w ust. 2;
 3) certyfikaty zgodności, o których mowa w ust. 5.2 i 6.4;
@@ -343,7 +344,7 @@ Jednostka notyfikowana może upoważnić wytwórcę do oznaczania jej numerem id
 1) przepisów ust. 1 i 2 dotyczących certyfikatu badania typu WE; wytwórca na podstawie deklaracji zgodności zapewnia i oświadcza, że wyroby medyczne klasy IIa są produkowane zgodnie z dokumentacją techniczną określoną w ust. 3 załącznika nr 7 do rozporządzenia, i spełniają odnoszące się do tych wyrobów wymagania;
 2) przepisów ust. 1, 2, 5.1 i 5.2 oraz 6.1–6.4; jednostka notyfikowana przeprowadza weryfikację wyrobów medycznych klasy IIa w celu potwierdzenia ich zgodności z dokumentacją techniczną określoną w ust. 3 załącznika nr 7 do rozporządzenia.
 9. Wyroby medyczne zawierające produkt krwiopochodny W przypadku weryfikacji przez sprawdzanie i badanie każdego wyrobu medycznego, o której mowa w ust. 5.1 i 5.2, i w przypadku weryfikacji statystycznej, o której mowa w ust. 6.1–6.4, po wyprodukowaniu każdej partii wyrobów medycznych zawierających produkt krwiopochodny wytwórca powiadamia jednostkę notyfikowaną o zwolnieniu partii wyrobów medycznych i przesyła jej oficjalny certyfikat dotyczący zwolnienia partii produktu krwiopochodnego zastosowanej w wyrobie medycznym, wydany przez laboratorium państwowe państwa członkowskiego lub inne laboratorium wyznaczone do tego celu przez państwo członkowskie.
-DEKLARACJA ZGODNOŚCI WE ZAPEWNIENIE JAKOŚCI PRODUKCJI
+DEKLARACJA ZGODNOŚCI WE – ZAPEWNIENIE JAKOŚCI PRODUKCJI
 1. Wytwórca zapewnia stosowanie zatwierdzonego systemu jakości obejmującego wytwarzanie danych wyrobów medycznych i przeprowadza ich końcową kontrolę, jak określono w ust. 3.1–3.4, oraz podlega nadzorowi jednostki notyfikowanej, o którym mowa w ust. 4.1–4.4.
 2. Deklaracja zgodności WE jest częścią procedury, zgodnie z którą wytwórca wypełniający zobowiązania określone w ust. 1, zapewnia i oświadcza, że wymienione w niej wyroby medyczne są zgodne z typem opisanym w certyfikacie badania typu WE i że spełniają odnoszące się do nich wymagania. Wytwórca oznakowuje wyroby medyczne znakiem CE i sporządza pisemną deklarację zgodności. Deklaracja obejmuje jeden lub więcej wytworzonych wyrobów medycznych, wyraźnie zidentyfikowanych nazwą, kodem lub w inny jednoznaczny sposób, i musi być przechowywana przez wytwórcę.
 3. System jakości
@@ -364,7 +365,7 @@ Dokumentacja musi w szczególności zawierać opis:
 2) organizacji przedsiębiorstwa, w szczególności:
 a) schemat organizacyjny, zakres odpowiedzialności i uprawnień personelu kierowniczego w odniesieniu do procesu wytwarzania wyrobów medycznych,
 b) metody monitorowania skuteczności systemu jakości, w szczególności jego zdolności do osiągnięcia pożądanej jakości wyrobu medycznego, w tym nadzorowania wyrobów niezgodnych,
-c) jeżeli wytwarzanie lub końcową kontrolę i badania końcowe wyrobów medycznych lub ich elementów przeprowadza inny podmiot metody monitorowania skuteczności systemu jakości, w tym rodzaj i zakres nadzoru nad tym podmiotem;
+c) jeżeli wytwarzanie lub końcową kontrolę i badania końcowe wyrobów medycznych lub ich elementów przeprowadza inny podmiot – metody monitorowania skuteczności systemu jakości, w tym rodzaj i zakres nadzoru nad tym podmiotem;
 3) kontroli i technik zapewnienia jakości na etapie wytwarzania, w szczególności:
 a) procesów i procedur, które będą stosowane, zwłaszcza w sterylizacji i w zaopatrzeniu, oraz dokumentów z tym związanych,
 b) opracowanych i aktualizowanych procedur identyfikacji wyrobu medycznego na każdym etapie wytwarzania, począwszy od rysunków, specyfikacji lub innych odpowiednich dokumentów;
@@ -383,7 +384,7 @@ Jednostka notyfikowana po końcowej inspekcji powiadamia wytwórcę o wyniku ins
 4.3. Jednostka notyfikowana okresowo przeprowadza inspekcje i oceny systemu jakości w celu upewnienia się, że wytwórca stosuje zatwierdzony system jakości, i przekazuje wytwórcy sprawozdania z oceny.
 4.4. Jednostka notyfikowana może przeprowadzać niezapowiedziane inspekcje u wytwórcy. W czasie tych inspekcji jednostka notyfikowana może, jeżeli to niezbędne, przeprowadzać lub żądać przeprowadzenia badań mających na celu potwierdzenie, że system jakości funkcjonuje właściwie. Jednostka notyfikowana przekazuje wytwórcy sprawozdania z inspekcji i badań, jeżeli takie przeprowadzono.
 5. Przepisy administracyjne
-5.1. Wytwórca lub jego autoryzowany przedstawiciel przechowuje przez okres określony w art. 32 ust. 1 lub 2 ustawy, do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej do dyspozycji Prezesa Urzędu:
+5.1. Wytwórca lub jego autoryzowany przedstawiciel przechowuje przez okres określony w art. 32 ust. 1 lub 2 ustawy, do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej – do dyspozycji Prezesa Urzędu:
 1) deklarację zgodności;
 2) dokumentację systemu jakości, o której mowa w ust. 3.1 pkt 4;
 3) dokumentację zmian, o których mowa w ust. 3.4;
@@ -393,10 +394,10 @@ Jednostka notyfikowana po końcowej inspekcji powiadamia wytwórcę o wyniku ins
 6. Wyroby medyczne klasy IIa
 6.1. Dla wyrobów medycznych klasy IIa wytwórca może stosować przepisy niniejszego załącznika, z wyłączeniem przepisów ust. 2, 3.1 i 3.2 dotyczących certyfikatu badania typu WE; wytwórca na podstawie deklaracji zgodności zapewnia i oświadcza, że wyroby medyczne klasy IIa są wytwarzane zgodnie z dokumentacją techniczną określoną w ust. 3 załącznika nr 7 do rozporządzenia, i że spełniają odnoszące się do tych wyrobów wymagania.
 6.2. Dla wyrobów medycznych klasy IIa jednostka notyfikowana, w ramach oceny, o której mowa w ust. 3.3, ocenia dokumentację techniczną określoną w ust. 3 załącznika nr 7 do rozporządzenia, co najmniej jednej reprezentatywnej próbki z każdej podkategorii wyrobów medycznych w celu potwierdzenia zgodności z odnoszącymi się do tych wyrobów wymaganiami.
-6.3. Przy wyborze reprezentatywnych próbek jednostka notyfikowana bierze pod uwagę innowacyjność technologii, podobieństwo projektów, technologii, metod wytwarzania i sterylizacji, przewidziane zastosowanie oraz wyniki wcześniej przeprowadzonych zgodnie z ustawą ocen, w szczególności własności fizycznych, chemicznych lub biologicznych. Jednostka notyfikowana dokumentuje i przechowuje do dyspozycji krajowego organu właściwego w sprawach wyrobów medycznych, a w przypadku jednostki notyfikowanej autoryzowanej przez ministra właściwego do spraw zdrowia, do jego dyspozycji uzasadnienie wyboru próbki.
+6.3. Przy wyborze reprezentatywnych próbek jednostka notyfikowana bierze pod uwagę innowacyjność technologii, podobieństwo projektów, technologii, metod wytwarzania i sterylizacji, przewidziane zastosowanie oraz wyniki wcześniej przeprowadzonych zgodnie z ustawą ocen, w szczególności własności fizycznych, chemicznych lub biologicznych. Jednostka notyfikowana dokumentuje i przechowuje do dyspozycji krajowego organu właściwego w sprawach wyrobów medycznych, a w przypadku jednostki notyfikowanej autoryzowanej przez ministra właściwego do spraw zdrowia, do jego dyspozycji – uzasadnienie wyboru próbki.
 6.4. Jednostka notyfikowana ocenia dalsze próbki w ramach nadzoru, o którym mowa w ust. 4.3.
 7. Wyroby medyczne zawierające produkt krwiopochodny Po wytworzeniu każdej partii wyrobów medycznych zawierających produkt krwiopochodny wytwórca powiadamia jednostkę notyfikowaną o zwolnieniu partii wyrobów medycznych i przesyła jej oficjalny certyfikat dotyczący zwolnienia partii produktu krwiopochodnego użytej w wyrobie medycznym, wydany przez laboratorium państwowe państwa członkowskiego lub inne laboratorium wyznaczone do tego celu przez państwo członkowskie.
-DEKLARACJA ZGODNOŚCI WE ZAPEWNIENIE JAKOŚCI WYROBU
+DEKLARACJA ZGODNOŚCI WE – ZAPEWNIENIE JAKOŚCI WYROBU
 1. Wytwórca zapewnia stosowanie zatwierdzonego systemu jakości, o którym mowa w ust. 3.1–3.4, obejmującego końcową kontrolę i badania końcowe wyrobu medycznego, i podlega nadzorowi, o którym mowa w ust. 4.1–4.4. Dla wyrobów medycznych wprowadzanych do obrotu w stanie sterylnym wytwórca stosuje wymagania, o których mowa w ust. 3.1–3.4 i 4.1–4.4 załącznika nr 5 do rozporządzenia, w zakresie tych elementów procesu wytwarzania, które mają zapewnić i utrzymać sterylność wyrobów.
 2. Deklaracja zgodności WE jest częścią procedury, w wyniku której wytwórca, wypełniając zobowiązania określone w ust. 1, zapewnia i oświadcza, że dane wyroby medyczne są zgodne z typem opisanym w certyfikacie badania typu WE i że spełniają odnoszące się do tych wyrobów wymagania.
 Wytwórca oznakowuje wyroby medyczne znakiem CE i sporządza pisemną deklarację zgodności. Deklaracja ta obejmuje jeden lub więcej wytworzonych wyrobów medycznych, wyraźnie zidentyfikowanych nazwą, kodem lub w inny jednoznaczny sposób, i musi być przechowywana przez wytwórcę. Znakowi CE towarzyszy numer identyfikacyjny jednostki notyfikowanej wykonującej zadania określone w niniejszym załączniku.
@@ -417,7 +418,7 @@ Wszystkie elementy systemu jakości, wymagania i rozwiązania przyjęte przez wy
 2) sprawdzeń i badań, które będą prowadzone po wytworzeniu wyrobu medycznego; musi być zapewniona możliwość wstecznego prześledzenia wzorcowania wyposażenia do badań;
 3) metod monitorowania skuteczności systemu jakości;
 4) zapisów dotyczących jakości, w szczególności sprawozdania z kontroli, badań, wzorcowań i dokumenty dotyczące kwalifikacji personelu;
-5) jeżeli końcową kontrolę i badania końcowe wyrobów medycznych lub ich elementów przeprowadza inny podmiot metod monitorowania skutecznego funkcjonowania systemu jakości, a w szczególności rodzaj i zakres nadzoru nad tym podmiotem.
+5) jeżeli końcową kontrolę i badania końcowe wyrobów medycznych lub ich elementów przeprowadza inny podmiot – metod monitorowania skutecznego funkcjonowania systemu jakości, a w szczególności rodzaj i zakres nadzoru nad tym podmiotem.
 Kontrola dokumentacji systemu jakości określonej w pkt 1–5 nie obejmuje tych elementów procesów wytwarzania, które dotyczą zapewnienia sterylności.
 3.3. Jednostka notyfikowana dokonuje audytów systemu jakości w celu ustalenia, czy spełnia wymagania określone w ust. 3.2, przyjmując przy tym domniemanie, że system jakości, w przypadku którego wdrożono odpowiednie normy zharmonizowane, jest zgodny z tymi wymaganiami.
 W skład zespołu oceniającego wchodzi co najmniej jedna osoba posiadająca doświadczenie w ocenie danej technologii.
@@ -434,7 +435,7 @@ Jednostka notyfikowana powiadamia wytwórcę o wyniku inspekcji oraz przedstawia
 4.4. Jednostka notyfikowana może przeprowadzać niezapowiedziane inspekcje u wytwórcy. W czasie tych inspekcji jednostka notyfikowana może, jeżeli to niezbędne, przeprowadzać badania lub żądać przeprowadzenia badań mających na celu sprawdzenie, czy system jakości funkcjonuje właściwie, a wytwarzane wyroby są zgodne z odnoszącymi się do nich wymaganiami. W tym celu odpowiednie próbki finalnych wyrobów medycznych pobrane na miejscu przez jednostkę notyfikowaną muszą być zbadane i poddane badaniom określonym w normach zharmonizowanych lub badaniom równoważnym. Jeżeli stwierdzono niezgodność jednej lub większej liczby próbek, jednostka notyfikowana podejmuje odpowiednie działania.
 Jednostka notyfikowana przekazuje wytwórcy sprawozdanie z inspekcji i z badań, jeżeli były prowadzone.
 5. Przepisy administracyjne
-5.1. Wytwórca lub jego autoryzowany przedstawiciel przechowuje przez okres określony w art. 32 ust. 1 lub 2 ustawy, do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej do dyspozycji Prezesa Urzędu:
+5.1. Wytwórca lub jego autoryzowany przedstawiciel przechowuje przez okres określony w art. 32 ust. 1 lub 2 ustawy, do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mających siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej – do dyspozycji Prezesa Urzędu:
 1) deklarację zgodności;
 2) dokumentację techniczną, o której mowa w ust. 3.1 pkt 7;
 3) dokumentację zmian, o których mowa w ust. 3.4;
@@ -443,17 +444,17 @@ Jednostka notyfikowana przekazuje wytwórcy sprawozdanie z inspekcji i z badań,
 6. Wyroby medyczne klasy IIa
 6.1. Dla wyrobów medycznych klasy IIa wytwórca może stosować przepisy niniejszego załącznika z wyłączeniem przepisów ust. 2, 3.1 i 3.2 dotyczących certyfikatu badania typu WE; wytwórca na podstawie deklaracji zgodności zapewnia i oświadcza, że wyroby medyczne klasy IIa są wytwarzane zgodnie z dokumentacją techniczną określoną w ust. 3 załącznika nr 7 do rozporządzenia i że spełniają odnoszące się do tych wyrobów wymagania.
 6.2. Dla wyrobów medycznych klasy IIa jednostka notyfikowana, w ramach oceny, o której mowa w ust. 3.3, ocenia dokumentację techniczną określoną w ust. 3 załącznika nr 7 do rozporządzenia, co najmniej jednej reprezentatywnej próbki z każdej podkategorii wyrobów medycznych w celu potwierdzenia zgodności ze odnoszącymi się do tych wyrobów wymaganiami.
-6.3. Przy wyborze reprezentatywnych próbek jednostka notyfikowana bierze pod uwagę innowacyjność technologii, podobieństwo projektów, technologii, metod wytwarzania i sterylizacji, przewidziane zastosowanie oraz wyniki wcześniej przeprowadzonych zgodnie z ustawą ocen, w szczególności własności fizycznych, chemicznych lub biologicznych. Jednostka notyfikowana dokumentuje i przechowuje do dyspozycji krajowego organu właściwego w sprawach wyrobów medycznych, a w przypadku jednostki notyfikowanej autoryzowanej przez ministra właściwego do spraw zdrowia, do jego dyspozycji uzasadnienie wyboru próbki.
+6.3. Przy wyborze reprezentatywnych próbek jednostka notyfikowana bierze pod uwagę innowacyjność technologii, podobieństwo projektów, technologii, metod wytwarzania i sterylizacji, przewidziane zastosowanie oraz wyniki wcześniej przeprowadzonych zgodnie z ustawą ocen, w szczególności własności fizycznych, chemicznych lub biologicznych. Jednostka notyfikowana dokumentuje i przechowuje do dyspozycji krajowego organu właściwego w sprawach wyrobów medycznych, a w przypadku jednostki notyfikowanej autoryzowanej przez ministra właściwego do spraw zdrowia, do jego dyspozycji – uzasadnienie wyboru próbki.
 6.4. Jednostka notyfikowana ocenia dalsze próbki podczas inspekcji, o których mowa w ust. 4.3, wykonywanych w ramach nadzoru.
 DEKLARACJA ZGODNOŚCI WE
 1. Deklaracja zgodności WE jest procedurą, w wyniku której wytwórca lub jego autoryzowany przedstawiciel, wypełniający zobowiązania, o których mowa w ust. 2, a w przypadku wprowadzanych do obrotu wyrobów medycznych w stanie sterylnym lub wyrobów z funkcją pomiarową, wymagania, o których mowa w ust. 5, zapewnia i oświadcza, że dane wyroby medyczne spełniają odnoszące się do nich wymagania.
-2. Wytwórca przygotowuje dokumentację techniczną, o której mowa w ust. 3. Wytwórca lub jego autoryzowany przedstawiciel przechowuje tę dokumentację łącznie z deklaracją zgodności w celu kontroli, do dyspozycji krajowego właściwego organu, a w przypadku wytwórcy i autoryzowanego przedstawiciela mającego siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej do dyspozycji Prezesa Urzędu, przez okres określony w art. 32 ust. 1 lub 2 ustawy.
+2. Wytwórca przygotowuje dokumentację techniczną, o której mowa w ust. 3. Wytwórca lub jego autoryzowany przedstawiciel przechowuje tę dokumentację łącznie z deklaracją zgodności w celu kontroli, do dyspozycji krajowego właściwego organu, a w przypadku wytwórcy i autoryzowanego przedstawiciela mającego siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej – do dyspozycji Prezesa Urzędu, przez okres określony w art. 32 ust. 1 lub 2 ustawy.
 3. Dokumentacja techniczna musi umożliwiać ocenę zgodności wyrobu medycznego z odnoszącymi się do tego wyrobu wymaganiami i zawiera w szczególności:
 1) ogólny opis wyrobu medycznego, łącznie z planowanymi wersjami i przewidzianym zastosowaniem;
 2) rysunki projektowe, przewidywane metody wytwarzania, schematy części składowych, podzespołów, obwodów itp.;
 3) opisy i objaśnienia niezbędne do zrozumienia rysunków i schematów, o których mowa w pkt 2, oraz działania wyrobu medycznego;
 4) wyniki analizy ryzyka i wykaz norm zharmonizowanych, zastosowanych w całości lub w części, oraz opisy rozwiązań przyjętych w celu spełnienia wymagań zasadniczych, jeżeli nie zastosowano w pełni norm zharmonizowanych;
-5) w przypadku wyrobów medycznych wprowadzanych do obrotu w stanie sterylnym opis metod sterylizacji i sprawozdanie z walidacji;
+5) w przypadku wyrobów medycznych wprowadzanych do obrotu w stanie sterylnym – opis metod sterylizacji i sprawozdanie z walidacji;
 6) wyniki obliczeń projektowych i przeprowadzonych badań; jeżeli wyrób medyczny, aby działać zgodnie z przeznaczeniem ma być połączony z innymi wyrobami medycznymi, należy wykazać, że spełnia on wymagania zasadnicze po połączeniu z każdym z takich wyrobów posiadających właściwości i parametry określone przez wytwórcę;
 7) przyjęte rozwiązania, o których mowa w ust. 2 załącznika nr 1 do rozporządzenia;
 8) ocenę przedkliniczną;
@@ -490,18 +491,18 @@ h) pozytywną opinię właściwej komisji bioetycznej,
 i) dane identyfikujące sponsora,
 j) nazwy i adresy ośrodków biorących udział w badaniu klinicznym,
 k) dla każdego ośrodka: imię i nazwisko badacza klinicznego albo, jeżeli badanie kliniczne w ośrodku jest prowadzone przez zespół badaczy klinicznych, głównego badacza klinicznego,
-l) w przypadku wieloośrodkowego badania klinicznego imię i nazwisko koordynatora badania klinicznego,
+l) w przypadku wieloośrodkowego badania klinicznego – imię i nazwisko koordynatora badania klinicznego,
 m) datę rozpoczęcia i planowany czas trwania badania klinicznego,
 n) oświadczenie, o którym mowa w art. 44 ust. 3 pkt 8 ustawy, potwierdzające, że wyrób medyczny spełnia wymagania zasadnicze, oprócz objętych zakresem badania klinicznego, oraz że uwzględniając to, podjęto wszelkie środki ostrożności w celu ochrony zdrowia i bezpieczeństwa pacjentów.
-3. Wytwórca lub jego autoryzowany przedstawiciel przechowuje do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mającego siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej do dyspozycji Prezesa Urzędu dokumentację:
-1) dla wyrobu wykonanego na zamówienie wskazującą miejsce lub miejsca wytwarzania i pozwalającą na zrozumienie projektu, procesu wytwarzania i działania wyrobu, w tym określającą przewidywane parametry działania, przygotowaną w sposób umożliwiający przeprowadzenie oceny zgodności tego wyrobu z odnoszącymi się do niego wymaganiami; wytwórca podejmuje wszelkie niezbędne środki w celu zapewnienia, że wyroby medyczne są wytwarzane zgodnie z tą dokumentacją;
+3. Wytwórca lub jego autoryzowany przedstawiciel przechowuje do dyspozycji krajowego organu właściwego, a w przypadku wytwórcy i autoryzowanego przedstawiciela mającego siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej – do dyspozycji Prezesa Urzędu dokumentację:
+1) dla wyrobu wykonanego na zamówienie – wskazującą miejsce lub miejsca wytwarzania i pozwalającą na zrozumienie projektu, procesu wytwarzania i działania wyrobu, w tym określającą przewidywane parametry działania, przygotowaną w sposób umożliwiający przeprowadzenie oceny zgodności tego wyrobu z odnoszącymi się do niego wymaganiami; wytwórca podejmuje wszelkie niezbędne środki w celu zapewnienia, że wyroby medyczne są wytwarzane zgodnie z tą dokumentacją;
 2) dla wyrobu do badania klinicznego zawierającą:
 a) ogólny opis wyrobu i jego przewidzianego zastosowania,
 b) rysunki projektowe, przewidziane metody wytwarzania, w szczególności sterylizacji, schematy części składowych, podzespołów, obwodów i podobne,
 c) opisy i objaśnienia niezbędne do zrozumienia rysunków i schematów, o których mowa w lit. b, oraz działania wyrobu medycznego,
 d) wyniki analizy ryzyka i wykaz norm zharmonizowanych zastosowanych w pełni lub częściowo, oraz opisy rozwiązań przyjętych w celu spełnienia wymagań zasadniczych, jeżeli normy zharmonizowane nie zostały zastosowane,
 e) jeżeli wyrób medyczny zawiera, jako integralną część substancję, która użyta oddzielnie może być uznana za produkt leczniczy lub produkt krwiopochodny, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dane dotyczące przeprowadzonych badań wymaganych do oceny bezpieczeństwa, jakości i użyteczności takiej substancji, z uwzględnieniem przewidzianego zastosowania wyrobu medycznego,
-f) jeżeli wyrób medyczny jest produkowany z wykorzystaniem tkanek pochodzenia zwierzęcego środki zarządzania ryzykiem zastosowane w celu zmniejszenia ryzyka infekcji,
+f) jeżeli wyrób medyczny jest produkowany z wykorzystaniem tkanek pochodzenia zwierzęcego – środki zarządzania ryzykiem zastosowane w celu zmniejszenia ryzyka infekcji,
 g) wyniki wykonanych obliczeń projektowych, kontroli, badań technicznych i podobnych.
 Wytwórca podejmuje niezbędne środki w celu zapewnienia, że wyroby wytwarzane są według dokumentacji, o której mowa w pkt 2, i zatwierdza ocenę skuteczności podjętych środków albo, jeżeli to konieczne, przeprowadza audyt skuteczności tych środków.
 4. Dokumentacja i oświadczenie wydane zgodnie z niniejszym załącznikiem są przechowywane przez okres określony w art. 32 ust. 1 lub 2 ustawy.
@@ -511,7 +512,7 @@ OŚWIADCZENIE W SPRAWIE WYROBU WYKONANEGO PRZEZ UŻYTKOWNIKA
 1) dane identyfikujące wyrób medyczny (nazwa rodzajowa, data wykonania wyrobu);
 2) dane identyfikujące użytkownika, który wytworzył wyrób medyczny i będzie go używał (nazwa lub imię i nazwisko świadczeniodawcy oraz adres siedziby lub adres miejsca zamieszkania);
 3) dane identyfikujące miejsce wytworzenia i używania wyrobu medycznego (adres);
-4) opis wyrobu medycznego, jego przewidziane zastosowanie i parametry działania oraz, jeżeli jest to potrzebne do właściwego i bezpiecznego używania wyrobu medycznego dołącza jego instrukcję używania;
+4) opis wyrobu medycznego, jego przewidziane zastosowanie i parametry działania oraz, jeżeli jest to potrzebne do właściwego i bezpiecznego używania wyrobu medycznego – dołącza jego instrukcję używania;
 5) rysunki projektowe, schematy części składowych, podzespołów, obwodów, opis zastosowanych materiałów;
 6) opisy i objaśnienia niezbędne do zrozumienia rysunków i schematów, o których mowa w pkt 5, oraz działania wyrobu medycznego;
 7) opis metody sterylizacji w przypadku wyrobu medycznego przeznaczonego do użycia w stanie sterylnym;

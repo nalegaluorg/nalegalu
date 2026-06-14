@@ -8,7 +8,7 @@ pos: 1009
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie zasad dokonywania skupu i sprzedaży walut obcych i dewiz przez inne niż banki osoby prawne oraz podmioty nie będące osobami prawnymi.
@@ -24,7 +24,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990901009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/1009/text.pdf) |
 
-Na podstawie art. 99a ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz.U. Nr 140, poz. 939, z 1998 r. Nr 160, poz. 1063 i Nr 162, poz. 1118 oraz z 1999 r. Nr 11, poz. 95 i Nr 40, poz. 399) zarządza się, co następuje: § 1.
+Na podstawie art. 99a ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz.U. Nr 140, poz. 939, z 1998 r. Nr 160, poz. 1063 i Nr 162, poz. 1118 oraz z 1999 r. Nr 11, poz. 95 i Nr 40, poz. 399) zarządza się, co następuje:
+§ 1.
 Rozporządzenie określa zasady dokonywania skupu i sprzedaży walut obcych i dewiz przez inne niż banki osoby prawne i podmioty nie będące osobami prawnymi, zwane dalej „podmiotami”.
 § 2.
 Podmioty mogą wykonywać czynności, o których mowa w § 1, na podstawie upoważnienia Prezesa Narodowego Banku Polskiego, zwanego dalej „upoważnieniem”.

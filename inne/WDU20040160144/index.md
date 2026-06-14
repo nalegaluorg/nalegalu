@@ -8,7 +8,7 @@ pos: 144
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o czasie urzędowym na obszarze Rzeczypospolitej Polskiej
@@ -27,7 +27,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040160144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/144/text.pdf) |
 
-**Art. 1.** Na obszarze Rzeczypospolitej Polskiej wprowadza się czas urzędowy.
+**Art. 1.**
+
+144. Na obszarze Rzeczypospolitej Polskiej wprowadza się czas urzędowy.
 
 **Art. 2.**
 
@@ -39,5 +41,15 @@ source: "isap-pdf"
 
 4. Uniwersalny czas koordynowany UTC(PL) jest polską realizacją międzynarodowego uniwersalnego czasu koordynowanego UTC i wyznaczany jest przez państwowy wzorzec jednostek miar czasu i częstotliwości.
 
-**Art. 3.**
+**Art. 3.** Prezes Rady Ministrów wprowadza i odwołuje czas letni środkowoeuropejski, w drodze rozporządzenia, ustalając na okres co najmniej jednego roku kalendarzowego dokładne daty, od których następuje wprowadzenie lub odwołanie czasu letniego, uwzględniając istniejące standardy międzynarodowe w tym zakresie.
+
+**Art. 4.**
+
+1. Organem uprawnionym do utrzymywania czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL) oraz do rozpowszechniania sygnałów tych czasów jest Prezes Głównego Urzędu Miar.
+
+2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposoby rozpowszechniania sygna łów czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL), uwzględniając w szczególności standardy międzynarodowe i potrzeby użytkowników.
+
+**Art. 5.** Traci moc ustawa z dnia 18 stycznia 1996 r. o czasie letnim (Dz. U. Nr 29, poz. 128).
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

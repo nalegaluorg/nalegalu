@@ -8,10 +8,10 @@ pos: 818
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 czerwca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 818 ROZPORZĄDZENIE MINISTRA ROZWOJU z dnia 3 czerwca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000818) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/818/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJU z dnia 3 czerwca 2016 r.
-w sprawie wymagań bezpieczeństwa dla wyrobów pirotechnicznych Na podstawie art. 2g ust. 2 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893 oraz z 2016 r. poz. 544) zarządza się, co następuje: § 1. Rozporządzenie określa w odniesieniu do wyrobów pirotechnicznych:
+w sprawie wymagań bezpieczeństwa dla wyrobów pirotechnicznych Na podstawie art. 2g ust. 2 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893 oraz z 2016 r. poz. 544) zarządza się, co następuje:
+§ 1. Rozporządzenie określa w odniesieniu do wyrobów pirotechnicznych:
 1) wymagania bezpieczeństwa dotyczące projektowania i wytwarzania tych wyrobów;
 2) procedury oceny zgodności tych wyrobów z zastosowaniem modułów w tych procedurach;
 3) zakres dokumentacji technicznej tych wyrobów;
@@ -59,8 +59,8 @@ h) odporność wyrobu pirotechnicznego i jego opakowania oraz innych części sk
 3. Wyroby pirotechniczne nie mogą zawierać materiałów wybuchowych detonujących innych niż proch dymny i mieszanki rozbłyskowe.
 4. Wymagania, o którym mowa w ust. 3, nie stosuje się do wyrobów pirotechnicznych klas P1, P2, T2 oraz wyrobów pirotechnicznych widowiskowych klasy F4, jeżeli:
 1) z wyrobu nie można łatwo wydobyć materiału wybuchowego detonującego;
-2) w przypadku wyrobów pirotechnicznych klasy P1 wyrób działa w sposób niedetonacyjny oraz, w formie, w jakiej został zaprojektowany i wytworzony nie może zainicjować wybuchu wtórnych materiałów wybuchowych;
-3) w przypadku wyrobów pirotechnicznych klas F4, T2 i P2 wyrób jest zaprojektowany i przeznaczony do działania w sposób niedetonacyjny albo, jeżeli jest przeznaczony do działania w sposób detonacyjny, nie może, w formie, w jakiej został zaprojektowany i wytworzony, zainicjować wybuchu wtórnych materiałów wybuchowych.
+2) w przypadku wyrobów pirotechnicznych klasy P1 – wyrób działa w sposób niedetonacyjny oraz, w formie, w jakiej został zaprojektowany i wytworzony nie może zainicjować wybuchu wtórnych materiałów wybuchowych;
+3) w przypadku wyrobów pirotechnicznych klas F4, T2 i P2 – wyrób jest zaprojektowany i przeznaczony do działania w sposób niedetonacyjny albo, jeżeli jest przeznaczony do działania w sposób detonacyjny, nie może, w formie, w jakiej został zaprojektowany i wytworzony, zainicjować wybuchu wtórnych materiałów wybuchowych.
 II. Wyroby pirotechniczne widowiskowe
 1. Wyroby pirotechniczne widowiskowe poszczególnych klas muszą spełniać wymagania określone w części I załącznika oraz wymagania określone w ust. 2–8.
 2. Wyroby pirotechniczne widowiskowe poszczególnych klas spełniają następujące wymagania:
@@ -218,7 +218,7 @@ ZAKRES DOKUMENTACJI TECHNICZNEJ WYROBÓW PIROTECHNICZNYCH
 8) sprawozdania z badań.
 WYMAGANIA DLA ETYKIET UMIESZCZANYCH NA WYROBACH PIROTECHNICZNYCH
 1. Etykiety umieszczane na wyrobach pirotechnicznych, z wyjątkiem wyrobów pirotechnicznych do pojazdów, zawierają w szczególności:
-1) nazwisko lub nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy i adres siedziby lub miejsca zamieszkania producenta oraz w przypadku gdy producent nie posiada siedziby na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, nazwisko lub nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy i adres siedziby lub miejsca zamieszkania importera;
+1) nazwisko lub nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy i adres siedziby lub miejsca zamieszkania producenta oraz w przypadku gdy producent nie posiada siedziby na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, nazwisko lub nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy i adres siedziby lub miejsca zamieszkania importera;
 2) nazwę oraz określenie typu wyrobu pirotechnicznego;
 3) numer rejestracyjny identyfikujący wyrób pirotechniczny oraz numer wyrobu, partii lub jego serii;
 4) oznaczenie klasy wyrobu pirotechnicznego;
@@ -229,7 +229,7 @@ WYMAGANIA DLA ETYKIET UMIESZCZANYCH NA WYROBACH PIROTECHNICZNYCH
 9) w stosownych przypadkach określenie minimalnej bezpiecznej dla użytkownika wyrobu pirotechnicznego odległości używania tego wyrobu;
 10) określenie ilości netto materiału pirotechnicznego.
 2. Etykiety umieszczane na wyrobach pirotechnicznych do pojazdów zawierają:
-1) nazwisko lub nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy i adres siedziby lub miejsca zamieszkania producenta oraz w przypadku gdy producent nie posiada siedziby na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, nazwisko lub nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy i adres siedziby lub miejsca zamieszkania importera;
+1) nazwisko lub nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy i adres siedziby lub miejsca zamieszkania producenta oraz w przypadku gdy producent nie posiada siedziby na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, nazwisko lub nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy i adres siedziby lub miejsca zamieszkania importera;
 2) nazwę oraz określenie typu wyrobu pirotechnicznego;
 3) numer rejestracyjny identyfikujący wyrób oraz numer wyrobu, partii lub jego serii;
 4) instrukcję bezpieczeństwa.

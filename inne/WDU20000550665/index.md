@@ -8,7 +8,7 @@ pos: 665
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 177 Konstytucji Rzeczypospolitej Polskiej, o r z e k a:

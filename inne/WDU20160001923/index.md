@@ -8,7 +8,7 @@ pos: 1923
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
@@ -28,6 +28,177 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001923) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1923/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2016 r. poz. 1727, 1823 i 1920) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 do tytułu ustawy w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9–11 w brzmieniu: „9) dyrektywy 2004/49/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie bezpieczeństwa kolei wspólnotowych oraz zmieniającej dyrektywę Rady 95/18/WE w sprawie przyznawania licencji przedsiębiorstwom kolejowym, oraz dyrektywę 2001/14/WE w sprawie alokacji zdolności przepustowej infrastruktury kolejowej i pobierania opłat za użytkowanie infrastruktury kolejowej oraz certyfikację w zakresie bezpieczeństwa (Dz. Urz. UE L 164 z 30.04.2004, str. 44, z późn. zm.);
+- **10)** dyrektywy Parlamentu Europejskiego i Rady 2008/57/WE z dnia 17 czerwca 2008 r. w sprawie interoperacyjności systemu kolei we Wspólnocie (Dz. Urz. UE L 191 z 18.07.2008, str. 1, z późn. zm.);
+- **11)** dyrektywy Parlamentu Europejskiego i Rady 2012/34/UE z dnia 21 listopada 2012 r. w sprawie utworzenia jednolitego europejskiego obszaru kolejowego (Dz. Urz. UE L 343 z 14.12.2012, str. 32);”;
+- **2)** uchyla się art. 2;
+- **3)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Przepisów ustawy nie stosuje się do:
+- **1)** linii tramwajowych;
+- **2)** transportu szynowego wykonywanego w ramach wewnątrzzakładowego procesu produkcji, przetwórstwa lub dystrybucji, jednego lub kilku sąsiadujących przedsiębiorstw, w tym na obszarze górniczym – kopalń odkrywkowych, zwałowisk odpadów, zakładów hutniczych i koksowni, w trakcie którego pojazdy w nim uczestniczące nie wyjeżdżają poza obszar przedsiębiorstw lub wyjeżdżają wyłącznie na infrastrukturę prywatną;
+- **3)** transportu linowego i linowo-terenowego, z wyjątkiem art. 10 ust. 4–6.
+
+2. Przepisów rozdziałów 2–12, z wyjątkiem art. 5 ust. 1–2b oraz art. 38a–38ba, nie stosuje się do infrastruktury nieczynnej.
+
+3. Przepisów rozdziałów 2–2b, 4a, 4b, 5b–6b, 7–8, 10 oraz art. 17a–17b, art. 18a–18f, art. 23–23j, z wyjątkiem art. 5 ust. 1–2b oraz art. 25g, nie stosuje się do infrastruktury prywatnej oraz do przedsiębiorców wykonujących na niej przewozy.
+
+4. Przepisów rozdziałów 6, 7 i 9 nie stosuje się do infrastruktury kolejowej znajdującej się na obszarze warsztatów naprawczych taboru kolejowego, wagonowni lub lokomotywowni.
+
+5. Przepisów rozdziałów 4a, 5a–8, art. 5 ust. 3–6, art. 13 ust. 1, art. 17a–17b, art. 18a–18f, art. 23–23j oraz art. 59–64 nie stosuje się do kolei wąskotorowych.
+
+6. Przepisów rozdziałów 2b, 4a, 5b, 7–8 i 10, art. 17a–17b, art. 18a–18f, art. 23–23j, z wyjątkiem art. 25g i art. 40, nie stosuje się do bocznic kolejowych i przedsiębiorców wykonujących na nich przewozy.
+
+7. Przepisów rozdziałów 2, 4a–9 i 12, art. 23–23j nie stosuje się do metra. Przepisy rozdziałów 2b i 10 stosuje się odpowiednio.
+
+8. Przepisów rozdziałów 4a i 5a oraz art. 23–23j nie stosuje się do sieci kolejowych, które są funkcjonalnie wyodrębnione z systemu kolei i przeznaczone tylko do prowadzenia przewozów wojewódzkich lub lokalnych oraz do przewoźników kolejowych prowadzących działalność wyłącznie w obrębie tych sieci kolejowych.
+
+9. Przepisów rozdziału 4a oraz art. 23–23j nie stosuje się do:
+
+- **1)** infrastruktury kolejowej przewidzianej wyłącznie do użytku lokalnego, turystycznego lub historycznego;
+- **2)** pojazdów kolejowych przeznaczonych wyłącznie do użytku lokalnego lub turystycznego oraz pojazdów historycznych nieporuszających się po sieci kolejowej.”;
+- **4)** w art. 4:
+    - **a)** pkt 1 i 1a otrzymują brzmienie: „1) infrastruktura kolejowa – elementy określone w załączniku nr 1 do ustawy;
+
+- **1a)** droga kolejowa – tor kolejowy albo tory kolejowe wraz z elementami wymienionymi w pkt 2–12 załącznika nr 1 do ustawy, o ile są z nimi funkcjonalnie połączone, niezależnie od tego, czy zarządza nimi ten sam podmiot;”,
+    - **b)** po pkt 1a dodaje się pkt 1b–1f w brzmieniu: „1b) infrastruktura nieczynna – infrastruktura kolejowa, na której zarządca infrastruktury nie dopuścił ruchu kolejowego;
+
+- **1c)** infrastruktura prywatna – infrastruktura kolejowa wykorzystywana wyłącznie do realizacji własnych potrzeb jej właściciela lub jej zarządcy innych niż przewóz osób;
+- **1d)** kolej wąskotorowa – kolej, której tory mają szerokość mniejszą niż 1435 mm;
+- **1e)** pociąg – pojazd kolejowy albo skład pojazdów kolejowych, który spełnia wymagania określone dla pociągu i któremu zarządca infrastruktury nadał status pociągu;
+- **1f)** manewr – zamierzony ruch pojazdu kolejowego albo składu pojazdów kolejowych oraz związane z nim czynności na drodze kolejowej, z wyjątkiem wjazdu, wyjazdu i przejazdu pociągu;”,
+    - **c)** pkt 2 otrzymuje brzmienie: „2) linia kolejowa – wyznaczona przez zarządcę infrastruktury droga kolejowa przystosowana do prowadzenia ruchu pociągów;”,
+    - **d)** pkt 4 otrzymuje brzmienie: „4) sieć kolejowa – układ połączonych ze sobą dróg kolejowych zarządzany przez zarządcę infrastruktury;”,
+    - **e)** pkt 7 otrzymuje brzmienie: „7) zarządca infrastruktury – podmiot odpowiedzialny za zarządzanie infrastrukturą kolejową albo, w przypadku budowy nowej infrastruktury, podmiot, który przystąpił do jej budowy w charakterze inwestora; zadania zarządcy infrastruktury mogą wykonywać różne podmioty;”,
+    - **f)** pkt 8a i 9 otrzymują brzmienie: „8a) dworzec kolejowy – obiekt budowlany lub zespół obiektów budowlanych, w którym znajdują się pomieszczenia przeznaczone do obsługi podróżnych korzystających z transportu kolejowego, położony przy linii kolejowej;
+
+- **9)** przewoźnik kolejowy – przedsiębiorca uprawniony na podstawie licencji do wykonywania przewozów kolejowych lub świadczenia usługi trakcyjnej lub podmiot wykonujący przewozy na infrastrukturze kolei wąskotorowej;”,
+    - **g)** po pkt 9a dodaje się pkt 9b w brzmieniu: „9b) aplikant – przewoźnik kolejowy, międzynarodowe ugrupowanie interesów gospodarczych obejmujące przewoźników kolejowych lub inny podmiot zainteresowany uzyskaniem zdolności przepustowej, w szczególności organizator publicznego transportu kolejowego, spedytor, nadawca ładunku lub operator transportu kombinowanego;”,
+    - **h)** pkt 10 i 10a otrzymują brzmienie: „10) bocznica kolejowa – wyznaczona przez zarządcę infrastruktury droga kolejowa, połączona bezpośrednio lub pośrednio z linią kolejową, służąca do wykonywania czynności ładunkowych, utrzymaniowych lub postoju pojazdów kolejowych albo przemieszczania i włączania pojazdów kolejowych do ruchu po sieci kolejowej;
+
+- **10a)** użytkownik bocznicy kolejowej – zarządca infrastruktury, który nie zarządza inną drogą kolejową niż bocznica kolejowa;”,
+    - **i)** pkt 11 i 12 otrzymują brzmienie: „11) zdolność przepustowa – możliwość eksploatacyjno-ruchowa drogi kolejowej do wykonania na niej przejazdów pociągów albo manewrów w określonym czasie;
+
+- **12)** trasa pociągu – zdolność przepustowa zarezerwowana dla przejazdu pociągu;”, o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm. );
+    - **j)** uchyla się pkt 19d,
+    - **k)** pkt 20a otrzymuje brzmienie: „20a) przewozy wojewódzkie – wojewódzkie przewozy pasażerskie w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;”,
+    - **l)** po pkt 20a dodaje się pkt 20b w brzmieniu: „20b) przewozy lokalne – powiatowe przewozy pasażerskie, powiatowo-gminne przewozy pasażerskie, gminne przewozy pasażerskie lub metropolitarne przewozy pasażerskie w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;”,
+    - **m)** uchyla się pkt 24 i 25,
+    - **n)** po pkt 30b dodaje się pkt 30c w brzmieniu: „30c) zaawansowany etap realizacji – etap planowania lub realizacji podsystemu, w trakcie którego zmiana w zakresie specyfikacji technicznych byłaby nie do zaakceptowania z uwagi na należycie uzasadnione przeszkody o charakterze prawnym, umownym, ekonomicznym, finansowym, społecznym lub środowiskowym;”,
+    - **o)** pkt 36c otrzymuje brzmienie: „36c) terminal towarowy – obiekt budowlany lub zespół obiektów budowlanych obejmujący drogę kolejową, wyposażony w urządzenia ładunkowe, umożliwiający załadunek lub rozładunek wagonów lub integrację różnych rodzajów transportu w zakresie przewozu towarów;”,
+    - **p)** w pkt 46 lit. a otrzymuje brzmienie: „a) z przynajmniej jedną ofiarą śmiertelną lub przynajmniej 5 ciężko rannymi osobami, lub”,
+    - **q)** pkt 47 otrzymuje brzmienie: „47) incydent – każde zdarzenie inne niż wypadek lub poważny wypadek, związane z ruchem kolejowym i mające wpływ na jego bezpieczeństwo;”,
+    - **r)** pkt 50–52 otrzymują brzmienie: „50) tajemnica przedsiębiorstwa – tajemnica przedsiębiorstwa w rozumieniu ustawy z dnia 16 kwietnia 1993 r.
+
+- **51)** obiekt infrastruktury usługowej – obiekt budowlany wraz z gruntem, na którym jest usytuowany, oraz instalacjami i urządzeniami, przeznaczony w całości lub w części do świadczenia jednej lub większej liczby usług, o których mowa w ust. 2 i 3 załącznika nr 2 do ustawy;
+- **52)** operator obiektu infrastruktury usługowej – podmiot wykonujący działalność polegającą na zarządzaniu obiektem infrastruktury usługowej lub świadczeniu na rzecz przewoźników kolejowych co najmniej jednej z usług, o których mowa w ust. 2 i 3 załącznika nr 2 do ustawy;”,
+    - **s)** po pkt 52 dodaje się pkt 53–56 w brzmieniu: „53) stacja pasażerska – obiekt infrastruktury usługowej obejmujący dworzec kolejowy lub perony wraz z infrastrukturą umożliwiającą pasażerom dotarcie do peronów, pieszo lub pojazdem, z drogi publicznej lub dworca kolejowego;
+
+- **54)** operator stacji pasażerskiej – podmiot zarządzający dworcem kolejowym lub peronem;
+- **55)** stacja rozrządowa – stacja kolejowa wyposażona w urządzenia do rozrządu wagonów, w skład której wchodzą urządzenia umożliwiające zestawianie składów pociągów i wykonywanie manewrów;
+- **56)** tory postojowe – tory przeznaczone specjalnie do tymczasowego postoju pojazdów kolejowych lub składów pojazdów kolejowych między dwoma okresami ich eksploatacji.”;
+- **5)** w art. 5:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Do zadań zarządcy infrastruktury, zwanego dalej „zarządcą”, należy:
+
+- **1)** zarządzanie infrastrukturą kolejową polegające na:
+    - **a)** nadawaniu drodze kolejowej statusu linii kolejowej przez określenie: – elementów infrastruktury kolejowej wchodzących w jej skład, – jej punktu początkowego i końcowego, – stacji kolejowych wchodzących w jej skład, – odcinków, na jakie jest podzielona, – jej numeru,
+    - **b)** nadawaniu drodze kolejowej statusu bocznicy kolejowej przez określenie jej punktu początkowego i końcowego,
+    - **c)** znoszeniu statusu linii kolejowej i bocznicy kolejowej,
+    - **d)** określaniu elementów infrastruktury kolejowej, które stanowią infrastrukturę prywatną lub nieczynną,
+    - **e)** udostępnianiu dróg kolejowych, świadczeniu usług z tym związanych i pobieraniu z tego tytułu opłat,
+    - **f)** prowadzeniu ruchu kolejowego;
+
+- **2)** utrzymywanie infrastruktury kolejowej w stanie zapewniającym bezpieczny ruch kolejowy, w tym nadzór nad funkcjonowaniem:
+    - **a)** urządzeń sterowania ruchem kolejowym,
+    - **b)** przytorowych urządzeń kontroli bezpiecznej jazdy pociągów;
+
+- **3)** zarządzanie nieruchomościami będącymi elementem infrastruktury kolejowej;
+- **4)** budowa, rozwój i modernizacja sieci kolejowej.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przepisów ust. 1 pkt 1 lit. a–d i f nie stosuje się do zarządcy, który nie zarządza torami kolejowymi.”,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Zarządca może zlecić innym podmiotom wykonywanie zadań zarządcy, o których mowa w ust. 1 pkt 1 lit. f oraz pkt 2–4.”,
+    - **d)** po ust. 2 dodaje się ust. 2a –2c w brzmieniu: „2a. Zarządca sporządza statut sieci kolejowej wskazujący linie kolejowe, bocznice kolejowe oraz inne drogi kolejowe przez niego zarządzane, a także wskazujący, które z nich stanowią infrastrukturę nieczynną lub prywatną. Zarządca umieszcza w statucie sieci kolejowej również informację o elementach infrastruktury kolejowej wchodzących w skład linii kolejowej, które są zarządzane przez innego zarządcę.
+
+2b. Brak statutu sieci kolejowej, o którym mowa w ust. 2a, jest równoznaczny z nadaniem zarządzanej infrastrukturze statusu infrastruktury nieczynnej.
+
+2c. Podmioty, o których mowa w ust. 1a, przekazują zarządcy, o którym mowa w ust. 2a, informację o elementach infrastruktury kolejowej, o których mowa w pkt 2–12 załącznika nr 1 do ustawy, funkcjonalnie połączonych z liniami kolejowymi zarządcy, o którym mowa w ust. 2a.”,
+
+- **e)** ust. 3 i 3a otrzymują brzmienie: „3. Zarządca, który udostępnia infrastrukturę kolejową, z wyjątkiem zarządcy, który udostępnia wyłącznie infrastrukturę kolejową stanowiącą element obiektu infrastruktury usługowej, nie jest uprawniony do wykonywania przewozów kolejowych, z wyjątkiem wykonywania przewozów technologicznych dla własnych potrzeb.
+
+3a. Przewoźnik kolejowy nie jest uprawniony do zarządzania infrastrukturą kolejową z wyjątkiem infrastruktury kolejowej stanowiącej element obiektu infrastruktury usługowej, którego jest operatorem, oraz infrastruktury prywatnej.”,
+
+- **f)** uchyla się ust. 5;
+- **6)** art. 5a otrzymuje brzmienie: „Art. 5a. Do wykonywania zadań zarządcy, o których mowa w art. 5 ust. 1, w odniesieniu do infrastruktury kolejowej o znaczeniu obronnym, przepisów ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2015 r. poz. 696 i 1777 oraz z 2016 r. poz. 1920) nie stosuje się.”;
+- **7)** w art. 6 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Nie jest dozwolone znoszenie statusu linii kolejowej dla linii kolejowej o znaczeniu państwowym.”;
+- **8)** art. 7 otrzymuje brzmienie: „Art. 7. Minister właściwy do spraw transportu może nałożyć na zarządców, w drodze decyzji, obowiązek połączenia dróg kolejowych, jeżeli wymagają tego względy obronne lub inne ważne względy państwa, pod warunkiem zapewnienia niezbędnych środków finansowych na budowę, eksploatację i utrzymanie tego połączenia.”;
+- **9)** uchyla się art. 9;
+- **10)** w art. 10:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Centralnym organem administracji rządowej będącym krajową władzą bezpieczeństwa i krajowym regulatorem transportu kolejowego w rozumieniu przepisów Unii Europejskiej z zakresu bezpieczeństwa, interoperacyjności i regulacji transportu kolejowego, właściwym w sprawach:
+
+- **1)** regulacji transportu kolejowego,
+- **2)** licencjonowania transportu kolejowego,
+- **3)** nadzoru technicznego nad eksploatacją i utrzymaniem infrastruktury kolejowej oraz pojazdów kolejowych,
+- **4)** bezpieczeństwa ruchu kolejowego,
+- **5)** interoperacyjności i spójności technicznej transportu kolejowego,
+- **6)** licencji i świadectw maszynistów – jest Prezes Urzędu Transportu Kolejowego, zwany dalej „Prezesem UTK”.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Prezes UTK jest organem właściwym w sprawach nadzoru nad przestrzeganiem praw pasażerów w transporcie kolejowym.”,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Właściwość Prezesa UTK w sprawach z zakresu regulacji transportu kolejowego, o której mowa w ust. 1, oraz nadzoru nad przestrzeganiem praw pasażerów, o którym mowa w ust. 1a, nie dotyczy metra.”;
+
+- **11)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Prezesa UTK powołuje Prezes Rady Ministrów spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru.
+
+2. Na stanowisko Prezesa UTK może zostać powołana osoba, która:
+
+- **1)** jest obywatelem polskim;
+- **2)** posiada tytuł zawodowy magistra lub równorzędny albo tytuł inżyniera;
+- **3)** korzysta z pełni praw publicznych;
+- **4)** nie była skazana prawomocnym wyrokiem za przestępstwo lub przestępstwo skarbowe popełnione umyślnie;
+- **5)** posiada kompetencje kierownicze;
+- **6)** posiada co najmniej 6-letni staż pracy, w tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
+- **7)** posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości Prezesa UTK lub innych organów właściwych w sektorach sieciowych.
+
+3. Nabór na stanowisko Prezesa UTK przeprowadza zespół powołany przez Szefa Kancelarii Prezesa Rady Ministrów z upoważnienia Prezesa Rady Ministrów, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. Członków zespołu powołuje się spośród osób niezależnych finansowo i organizacyjnie od ministra właściwego do spraw transportu.
+
+4. Informację o naborze na stanowisko Prezesa UTK ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Urzędu Transportu Kolejowego, w Biuletynie Informacji Publicznej Urzędu Transportu Kolejowego oraz w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie zawiera:
+
+- **1)** nazwę i adres Urzędu Transportu Kolejowego;
+- **2)** określenie stanowiska;
+- **3)** wymagania związane ze stanowiskiem wynikające z przepisów prawa;
+- **4)** zakres zadań wykonywanych na stanowisku;
+- **5)** wskazanie wymaganych dokumentów;
+- **6)** termin i miejsce składania dokumentów;
+- **7)** informację o metodach i technikach naboru.
+
+5. Termin, o którym mowa w ust. 4 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+
+6. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze. Ocena wiedzy i kompetencji kierowniczych może być dokonana na zlecenie zespołu przez osobę niebędącą członkiem zespołu, która posiada odpowiednie kwalifikacje do dokonania tej oceny.
+
+7. Członek zespołu oraz osoba, o której mowa w ust. 6, mają obowiązek zachowania w tajemnicy informacji dotyczących kandydatów ubiegających się o stanowisko, uzyskanych w trakcie naboru.
+
+8. Z przeprowadzonego naboru zespół sporządza protokół zawierający:
+
+- **1)** nazwę i adres Urzędu Transportu Kolejowego;
+- **2)** określenie stanowiska, na które był prowadzony nabór, oraz liczbę kandydatów;
+- **3)** imiona, nazwiska i adresy nie więcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
+- **4)** informację o zastosowanych metodach i technikach naboru;
+- **5)** uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata;
+- **6)** skład zespołu.
+
+9. Na wniosek Prezesa UTK Prezes Rady Ministrów powołuje 2 wiceprezesów Urzędu Transportu Kolejowego, zwanych dalej „wiceprezesami UTK”, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru.
+
+10. Nabór na stanowisko wiceprezesa UTK przeprowadza zespół powołany przez Prezesa UTK.
+
+11. Do sposobu przeprowadzania naboru na stanowisko wiceprezesa UTK stosuje się odpowiednio przepisy ust. 4–8.
+
+12. Wynik naboru na stanowisko Prezesa UTK i wiceprezesa UTK ogłasza się niezwłocznie w sposób określony w ust. 4. Informacja o wyniku naboru zawiera:
+
+- **1)** nazwę i adres Urzędu Transportu Kolejowego;
+- **2)** określenie stanowiska, na które był prowadzony nabór;
+- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.”;
+- **12)** po art. 11 dodaje się art. 11a i art. 11b w brzmieniu: „Art. 11a. 1. Prezes UTK nie może zajmować innego stanowiska, z wyjątkiem stanowiska dydaktycznego w szkole wyższej, ani wykonywać innych zajęć zarobkowych.
+
+2. Prezes UTK nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej niedającej pogodzić się z bezstronnością i niezależnością sprawowanego stanowiska.
+
+3. Prezes UTK i wiceprezesi UTK składają Prezesowi Rady Ministrów corocznie, w terminie do dnia 31 grudnia, oświadczenie o braku powiązań z podmiotami podlegającymi regulacji oraz braku konfliktu interesów. W oświadczeniu wskazuje się wszelkie bezpośrednie albo pośrednie okoliczności, które można uznać za zagrażające ich niezależności i wpływające na wykonywanie przez nich swoich funkcji.
+
+4. Osoba pełniąca funkcję Prezesa UTK lub wiceprezesa UTK podlega wyłączeniu od udziału w postępowaniu w sprawie dotyczącej przedsiębiorcy, z którym łączył ją bezpośredni albo pośredni związek w okresie roku przed wszczęciem postępowania.
 
 **Art. 11b.**
 
@@ -72,12 +243,12 @@ source: "isap-pdf"
 - **4)** opiniowanie projektów umów o świadczenie usług publicznych;
 - **5)** wydawanie decyzji o przyznaniu otwartego dostępu;
 - **6)** nadzór nad przestrzeganiem przez zarządców, przewoźników kolejowych i operatorów obiektu infrastruktury usługowej przepisów dotyczących rachunkowości określonych w ustawie.”,
-    - **b)** w ust. 1a: pkt 1 otrzymuje brzmienie: „1) wydawanie, przedłużanie ważności, zmiana i cofanie autoryzacji bezpieczeństwa, certyfikatów bezpieczeństwa i świadectw bezpieczeństwa, o których mowa w art. 17d i art. 17e, oraz prowadzenie i aktualizacja rejestrów tych dokumentów;”, pkt 7 otrzymuje brzmienie: „7) nadzór nad zachowaniem bezpieczeństwa w transporcie kolejowym oraz prawidłowym utrzymaniem i eksploatacją linii kolejowych, bocznic kolejowych oraz innych dróg kolejowych;”,
+    - **b)** w ust. 1a: – pkt 1 otrzymuje brzmienie: „1) wydawanie, przedłużanie ważności, zmiana i cofanie autoryzacji bezpieczeństwa, certyfikatów bezpieczeństwa i świadectw bezpieczeństwa, o których mowa w art. 17d i art. 17e, oraz prowadzenie i aktualizacja rejestrów tych dokumentów;”, – pkt 7 otrzymuje brzmienie: „7) nadzór nad zachowaniem bezpieczeństwa w transporcie kolejowym oraz prawidłowym utrzymaniem i eksploatacją linii kolejowych, bocznic kolejowych oraz innych dróg kolejowych;”,
     - **c)** ust. 1b otrzymuje brzmienie: „1b. Do zadań Prezesa UTK w zakresie nadzoru nad przestrzeganiem praw pasażerów w transporcie kolejowym należy nadzór nad przestrzeganiem:
 
 - **1)** przepisów rozporządzenia nr 1371/2007/WE;
 - **2)** zakazu stosowania bezprawnych praktyk naruszających zbiorowe interesy pasażerów w transporcie kolejowym.”,
-    - **d)** w ust. 2: po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) autoryzacja jednostek oceniających zgodność ubiegających się o notyfikację;”, w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) wydawanie decyzji stwierdzających, czy niezbędne jest uzyskanie nowego zezwolenia na dopuszczenie do eksploatacji dla podsystemu strukturalnego po modernizacji.”,
+    - **d)** w ust. 2: – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) autoryzacja jednostek oceniających zgodność ubiegających się o notyfikację;”, – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) wydawanie decyzji stwierdzających, czy niezbędne jest uzyskanie nowego zezwolenia na dopuszczenie do eksploatacji dla podsystemu strukturalnego po modernizacji.”,
     - **e)** po ust. 3 dodaje się ust. 3a–3e w brzmieniu: „3a. W celu realizacji zadań, o których mowa w ust. 1, Prezes UTK:
 
 - **1)** zbiera i analizuje informacje dotyczące rynku przewozów kolejowych, w tym:
@@ -124,11 +295,11 @@ source: "isap-pdf"
 
 1. W przypadku stwierdzenia naruszenia przepisów, decyzji lub postanowień z zakresu kolejnictwa Prezes UTK wydaje decyzję określającą zakres naruszenia oraz termin usunięcia nieprawidłowości.
 
-2. Od decyzji wydanych przez Prezesa UTK rozstrzygających co do istoty w sprawach, o których mowa w art. 29c ust. 2, 3 i 9, art. 29e ust. 3, art. 30d ust. 3, art. 33 ust. 15 oraz art. 66 ust. 1, 2, 2aa i 3, przysługuje odwołanie do Sądu Okręgowego w Warszawie sądu ochrony konkurencji i konsumentów, w terminie 14 dni od dnia doręczenia decyzji.
+2. Od decyzji wydanych przez Prezesa UTK rozstrzygających co do istoty w sprawach, o których mowa w art. 29c ust. 2, 3 i 9, art. 29e ust. 3, art. 30d ust. 3, art. 33 ust. 15 oraz art. 66 ust. 1, 2, 2aa i 3, przysługuje odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów, w terminie 14 dni od dnia doręczenia decyzji.
 
 3. Do postanowień wydanych przez Prezesa UTK w sprawach, o których mowa w art. 29c ust. 2, 3 i 9, art. 29e ust. 3, art. 30d ust. 3, art. 33 ust. 15 oraz art. 66 ust. 1–2aa i 3, na które służy zażalenie, przepis ust. 2 stosuje się odpowiednio, z tym że zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia.
 
-4. Postępowanie w sprawie odwołania od decyzji lub zażalenia na postanowienie Prezesa UTK, o których mowa w ust. 2 i 3, toczy się według przepisów ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, 1823 i 1860) o postępowaniu w sprawach z zakresu regulacji transportu kolejowego.
+4. Postępowanie w sprawie odwołania od decyzji lub zażalenia na postanowienie Prezesa UTK, o których mowa w ust. 2 i 3, toczy się według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, 1823 i 1860) o postępowaniu w sprawach z zakresu regulacji transportu kolejowego.
 
 **Art. 13c.**
 
@@ -142,7 +313,7 @@ source: "isap-pdf"
 - **1)** niezwłocznie po stwierdzeniu, że dalsza eksploatacja infrastruktury kolejowej wiąże się z istotnym ryzykiem dla bezpieczeństwa ruchu kolejowego lub bezpieczeństwa przewozu osób lub rzeczy, wstrzymuje ruch kolejowy lub wprowadza jego ograniczenia na drodze kolejowej, której dotyczy ryzyko;
 - **2)** wyłącza z eksploatacji pojazd kolejowy lub ogranicza jego eksploatację, w przypadku gdy:
     - **a)** nie został on dopuszczony do eksploatacji zgodnie z przepisami ustawy lub
-    - **b)** nie spełnia wymagań określonych w przepisach wydanych na podstawie art. 20 lub art. 24 ust. 5, a w przypadku wagonów towarowych w przepisach rozporządzenia (UE) nr 445/2011, a jego dalsza eksploatacja wiąże się z istotnym ryzykiem dla bezpieczeństwa ruchu kolejowego lub bezpieczeństwa przewozu osób lub rzeczy.”,
+    - **b)** nie spełnia wymagań określonych w przepisach wydanych na podstawie art. 20 lub art. 24 ust. 5, a w przypadku wagonów towarowych – w przepisach rozporządzenia (UE) nr 445/2011, a jego dalsza eksploatacja wiąże się z istotnym ryzykiem dla bezpieczeństwa ruchu kolejowego lub bezpieczeństwa przewozu osób lub rzeczy.”,
     - **b)** uchyla się ust. 4–7;
 
 - **17)** w art. 14a:
@@ -151,7 +322,7 @@ source: "isap-pdf"
 
 - **1)** kopię skargi lub reklamacji skierowanej do przewoźnika kolejowego, operatora stacji pasażerskiej, sprzedawcy biletów, organizatora turystyki lub pośrednika turystycznego w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2016 r. poz. 187 i 1334);
 - **2)** odpowiedź podmiotu, o którym mowa w pkt 1, na skargę lub reklamację, jeżeli została udzielona;
-- **3)** bilet na daną trasę, a w przypadku biletu elektronicznego dane umożliwiające identyfikację warunków zawartej umowy przewozu, w szczególności numer biletu, datę i godziny przewozu oraz rodzaj pociągu, lub potwierdzenie rezerwacji;
+- **3)** bilet na daną trasę, a w przypadku biletu elektronicznego – dane umożliwiające identyfikację warunków zawartej umowy przewozu, w szczególności numer biletu, datę i godziny przewozu oraz rodzaj pociągu, lub potwierdzenie rezerwacji;
 - **4)** inne istotne dokumenty potwierdzające naruszenie prawa pasażerów w ruchu kolejowym.”,
     - **c)** uchyla się ust. 6;
 
@@ -182,9 +353,9 @@ source: "isap-pdf"
 
 - **21)** w art. 16:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Czynności wykonywane przez Prezesa UTK określone w art. 13 ust. 1a pkt 1–3, 5 oraz ust. 2 pkt 1–3a, 7 i 8–9 są odpłatne.”,
-    - **b)** w ust. 2: pkt 7 otrzymuje brzmienie: „7) wydania decyzji, o których mowa w art. 25f ust. 5 i 6 nie może być wyższa niż równowartość w złotych 3000 euro, ustalona na zasadach określonych w pkt 1 lit. a;”, po pkt 7 dodaje się pkt 8 i 9 w brzmieniu: „8) autoryzacji jednostki oceniającej zgodność ubiegającej się o notyfikację nie może być wyższa niż równowartość w złotych 3000 euro, ustalona na zasadach określonych w pkt 1 lit. a;
+    - **b)** w ust. 2: – pkt 7 otrzymuje brzmienie: „7) wydania decyzji, o których mowa w art. 25f ust. 5 i 6 – nie może być wyższa niż równowartość w złotych 3000 euro, ustalona na zasadach określonych w pkt 1 lit. a;”, – po pkt 7 dodaje się pkt 8 i 9 w brzmieniu: „8) autoryzacji jednostki oceniającej zgodność ubiegającej się o notyfikację – nie może być wyższa niż równowartość w złotych 3000 euro, ustalona na zasadach określonych w pkt 1 lit. a;
 
-- **9)** wydania decyzji stwierdzającej, czy niezbędne jest uzyskanie nowego zezwolenia na dopuszczenie do eksploatacji dla podsystemu strukturalnego po modernizacji nie może być wyższa niż równowartość w złotych 3000 euro, ustalona na zasadach określonych w pkt 1 lit. a.”;
+- **9)** wydania decyzji stwierdzającej, czy niezbędne jest uzyskanie nowego zezwolenia na dopuszczenie do eksploatacji dla podsystemu strukturalnego po modernizacji – nie może być wyższa niż równowartość w złotych 3000 euro, ustalona na zasadach określonych w pkt 1 lit. a.”;
 - **22)** w art. 17 po ust. 1b dodaje się ust. 1c i 1d w brzmieniu: „1c. W przypadku istotnego ryzyka dla bezpieczeństwa ruchu kolejowego lub bezpieczeństwa przewozu osób lub rzeczy zarządca obowiązany jest podjąć działania zmniejszające to ryzyko, włącznie ze wstrzymaniem lub ograniczeniem ruchu kolejowego.
 
 1d. Ruch pociągów dopuszcza się wyłącznie na liniach kolejowych.”;
@@ -199,7 +370,7 @@ source: "isap-pdf"
 
 - **1)** dróg kolejowych:
     - **a)** kolei wąskotorowych,
-    - **b)** funkcjonalnie oddzielonych od reszty systemu kolei: przeznaczonych do prowadzenia przewozów wojewódzkich lub lokalnych, lub wpisanych do rejestru zabytków lub do inwentarza muzealiów,
+    - **b)** funkcjonalnie oddzielonych od reszty systemu kolei: – przeznaczonych do prowadzenia przewozów wojewódzkich lub lokalnych, lub – wpisanych do rejestru zabytków lub do inwentarza muzealiów,
     - **c)** eksploatowanych wyłącznie w celach wykonywania przewozów rekreacyjno-wypoczynkowych i okolicznościowych,
     - **d)** stanowiących infrastrukturę prywatną,
     - **e)** posiadających status bocznicy kolejowej;
@@ -225,6 +396,73 @@ source: "isap-pdf"
 6. Przedsiębiorca łączący funkcję zarządcy, o którym mowa w art. 17d ust. 3, oraz przedsiębiorcy, o którym mowa w ust. 3, po spełnieniu wymogów, o których mowa w art. 19 ust. 1 i ust. 2 pkt 4, może uzyskać jedno świadectwo bezpieczeństwa zamiast świadectw bezpieczeństwa, o których mowa w ust. 3 oraz w art. 17d ust. 3.
 
 **Art. 17f.** Warunkiem zarządzania infrastrukturą i wykonywania przewozów w metrze jest posiadanie świadectwa bezpieczeństwa przez przedsiębiorcę wykonującego te funkcje.”;
+
+- **25)** art. 18 otrzymuje brzmienie: „Art. 18. 1. Dokumentami uprawniającymi maszynistę do prowadzenia pojazdu kolejowego są licencja maszynisty oraz świadectwo maszynisty.
+
+2. Z obowiązku uzyskania licencji maszynisty i świadectwa maszynisty zwolnieni są prowadzący pojazdy kolejowe:
+
+- **1)** po drogach kolejowych, o których mowa w art. 17e ust. 2;
+- **2)** specjalne, które nie są przeznaczone do samodzielnej jazdy po czynnych torach kolejowych;
+- **3)** po liniach metra.”;
+- **26)** w art. 18c dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Prezes UTK zgłasza Agencji każde wydanie, przedłużenie, zmianę lub cofnięcie autoryzacji bezpieczeństwa i certyfikatów bezpieczeństwa w terminie 30 dni od dnia zaistnienia tego zdarzenia. Zgłoszenie zawiera nazwę i adres przewoźnika kolejowego lub zarządcy, datę wystawienia, zakres i ważność autoryzacji bezpieczeństwa lub certyfikatu bezpieczeństwa, a w przypadku cofnięcia – także jego przyczyny.”;
+- **27)** w art. 18d ust. 2 otrzymuje brzmienie: „2. Szkolenie obejmuje znajomość tras przejazdów pociągów i procedur, systemu sterowania ruchem kolejowym i sygnalizacji oraz sposobu postępowania w sytuacjach awaryjnych.”;
+- **28)** w art. 19:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prezes UTK wydaje świadectwo bezpieczeństwa dla innego niż użytkownik bocznicy kolejowej zarządcy infrastruktury kolejowej, o której mowa w art. 17d ust. 2, jeżeli przedstawi on:
+
+- **1)** wykaz eksploatowanych typów pojazdów kolejowych, typów budowli i typów urządzeń;
+- **2)** wykaz przepisów wewnętrznych, określających zasady i wymagania dotyczące bezpiecznego prowadzenia ruchu kolejowego i utrzymania infrastruktury kolejowej;
+- **3)** oświadczenie potwierdzające, że na stanowiskach bezpośrednio związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego zatrudnia pracowników spełniających warunki określone w ustawie i wydanych na jej podstawie przepisach;
+- **4)** w przypadku eksploatowania własnych pojazdów kolejowych:
+    - **a)** oświadczenie o posiadaniu aktualnych świadectw sprawności technicznej eksploatowanych pojazdów kolejowych,
+    - **b)** oświadczenie potwierdzające, że na stanowiskach bezpośrednio związanych z prowadzeniem określonych rodzajów pojazdów kolejowych zatrudnia pracowników spełniających warunki określone w ustawie i wydanych na jej podstawie przepisach.”,
+    - **b)** w ust. 2: – uchyla się pkt 2, – pkt 3 otrzymuje brzmienie: „3) oświadczenia, o których mowa w ust. 1 pkt 4;”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Prezes UTK wydaje świadectwo bezpieczeństwa użytkownikowi bocznicy kolejowej, jeżeli przedstawi on:
+
+- **1)** dokumenty, o których mowa w ust. 1 pkt 1 i 3;
+- **2)** wykaz przepisów wewnętrznych, określających warunki prowadzenia ruchu kolejowego i utrzymania infrastruktury na bocznicy kolejowej albo oświadczenie o stosowaniu przepisów wewnętrznych innego zarządcy;
+- **3)** w przypadku eksploatacji własnych pojazdów kolejowych:
+    - **a)** wykaz przepisów wewnętrznych, określających zasady i wymagania organizacyjne związane z utrzymaniem i eksploatacją pojazdów kolejowych albo oświadczenie o stosowaniu przepisów wewnętrznych przewoźnika kolejowego,
+    - **b)** oświadczenia, o których mowa w ust. 1 pkt 4;
+
+- **4)** regulamin pracy bocznicy kolejowej uzgodniony przez zarządcę infrastruktury kolejowej, z którą bocznica kolejowa jest połączona.”;
+- **29)** w art. 22d w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Pracownicy zatrudnieni na stanowiskach bezpośrednio związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego oraz z prowadzeniem określonych rodzajów pojazdów kolejowych: dyżurny ruchu, nastawniczy, kierownik pociągu, ustawiacz, manewrowy, rewident taboru, automatyk, toromistrz, dróżnik przejazdowy, prowadzący pojazdy kolejowe, o których mowa w art. 18 ust. 2 pkt 1 i 2, oraz pomocnik maszynisty pojazdów trakcyjnych, są obowiązani:”;
+- **30)** w art. 22f:
+    - **a)** ust. 11 otrzymuje brzmienie: „11. W odniesieniu do sieci kolejowych warunki, o których mowa w ust. 1 i 8, dotyczą typów urządzeń i typów budowli przeznaczonych do eksploatacji:
+
+- **1)** na infrastrukturze prywatnej;
+- **2)** w zakresie, o którym mowa w art. 3 ust. 8 i ust. 9 pkt 1;
+- **3)** w przypadkach, o których mowa w art. 25d ust. 1 pkt 2–4;
+- **4)** w przypadku przyznania przez Prezesa UTK odstępstw, o których mowa w art. 25f ust. 5 pkt 1 i 2 oraz ust. 6 pkt 1.”,
+    - **b)** w ust. 13: – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) na infrastrukturze prywatnej;”, – pkt 2 otrzymuje brzmienie: „2) na infrastrukturze kolei wąskotorowej;”, – pkt 4 otrzymuje brzmienie: „4) na sieci kolejowej, o której mowa w art. 3 ust. 8.”;
+
+- **31)** w art. 23b:
+    - **a)** ust. 7 i 8 otrzymują brzmienie: „7. Prezes UTK może żądać od podmiotu, o którym mowa w ust. 3 i 6, dostarczenia dodatkowych informacji, przeprowadzenia analiz zagrożeń lub badań na sieci kolejowej, w celu sprawdzenia zgodności technicznej pojazdu kolejowego z siecią kolejową i wymogami bezpieczeństwa. Zakres i treść wymaganych informacji, analiz i badań Prezes UTK określa po konsultacji z podmiotem, o którym mowa w ust. 3 i 6. Przepis art. 23e ust. 3 stosuje się odpowiednio.
+
+8. W przypadku konieczności przeprowadzania badań, o których mowa w ust. 7, zarządca i podmiot, o którym mowa w ust. 3 i 6, uzgadniają warunki i termin ich przeprowadzenia, nie późniejszy niż 3 miesiące od dnia doręczenia wniosku Prezesa UTK.”,
+
+- **b)** po ust. 8 dodaje się ust. 8a i 8b w brzmieniu: „8a. W przypadku gdy zarządca i podmiot, o którym mowa w ust. 3 i 6, nie dojdą do porozumienia w zakresie warunków lub terminu przeprowadzenia badań, o których mowa w ust. 7, Prezes UTK, na wniosek zarządcy lub podmiotu, o którym mowa w ust. 3 i 6, wydaje decyzję w sprawie przeprowadzenia badań na sieci kolejowej, określając warunki i termin ich przeprowadzenia. Decyzji nadaje się rygor natychmiastowej wykonalności.
+
+8b. Wniosek, o którym mowa w ust. 8a, zawiera projekt porozumienia o przeprowadzeniu badań, o których mowa w ust. 7, oraz aktualne stanowiska stron, z zaznaczeniem tych części porozumienia, których strony nie uzgodniły.”;
+
+- **32)** w art. 25a uchyla się ust. 1;
+- **33)** w art. 25ga w ust. 4 pkt 2 i 3 otrzymują brzmienie: „2) zakres danych gromadzonych w krajowym rejestrze pojazdów kolejowych oraz jego opis funkcjonalny i techniczny, w tym opis formatu danych oraz wymagania w zakresie jego funkcjonowania;
+- **3)** wzór wniosku, o którym mowa w art. 23a ust. 1 pkt 1 i pkt 1a lit. b;”;
+- **34)** uchyla się art. 25p;
+- **35)** po art. 25s dodaje się art. 25sa w brzmieniu: „Art. 25sa. Jeżeli obowiązujące specyfikacje europejskie nie spełniają zasadniczych wymagań dotyczących interoperacyjności systemu kolei, Prezes UTK informuje o tym Komisję Europejską.”;
+- **36)** art. 28o otrzymuje brzmienie: „Art. 28o. Przepisów rozdziału 5a nie stosuje się do zarządców infrastruktury kolejowej, o której mowa w art. 17d ust. 2 pkt 1 lit. b tiret 2 i lit. c, oraz przewoźników kolejowych wykonujących przewozy wyłącznie na tej infrastrukturze.”;
+- **37)** uchyla się rozdziały 5c i 5d;
+- **38)** art. 29 i art. 29a otrzymują brzmienie: „Art. 29. 1. Udostępnianie infrastruktury kolejowej polega na:
+- **1)** rozpatrywaniu wniosków aplikanta o przydzielenie zdolności przepustowej;
+- **2)** przydzielaniu aplikantowi zdolności przepustowej, w tym:
+    - **a)** przydzielaniu trasy pociągu,
+    - **b)** przydzielaniu zdolności przepustowej dla wykonania manewrów lub postoju pojazdów kolejowych;
+
+- **3)** umożliwieniu przewoźnikowi kolejowemu wskazanemu przez aplikanta wykorzystania przydzielonej zdolności przepustowej;
+- **4)** umożliwieniu przewoźnikowi kolejowemu skorzystania z pozostałych usług, o których mowa w ust. 1 załącznika nr 2 do ustawy.
+
+2. Przydzielenie zdolności przepustowej polega na określeniu przedziału czasu zarezerwowanego dla aplikanta w celu umożliwienia przejazdu lub postoju pojazdów kolejowych.
+
+3. Przydzielenie zdolności przepustowej dla wykonania manewrów może polegać na określeniu przedziału czasu, w którym zarządca umożliwi aplikantowi wykonanie manewrów.
 
 **Art. 29a.**
 
@@ -679,7 +917,7 @@ source: "isap-pdf"
 2. W przypadku gdy:
 
 - **1)** funkcje operatora wykonuje przedsiębiorca, który jest jednocześnie przewoźnikiem kolejowym mającym pozycję dominującą, w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184, 1618 i 1634 oraz z 2016 r. poz. 1823), dla którego wykorzystuje się dany obiekt, albo
-- **2)** operator jest bezpośrednio lub pośrednio kontrolowany przez przedsiębiorcę, o którym mowa w pkt 1 operator powinien być niezależny od przewoźnika kolejowego w zakresie organizacyjnym i decyzyjnym.
+- **2)** operator jest bezpośrednio lub pośrednio kontrolowany przez przedsiębiorcę, o którym mowa w pkt 1 – operator powinien być niezależny od przewoźnika kolejowego w zakresie organizacyjnym i decyzyjnym.
 
 3. W celu zapewnienia niezależności, o której mowa w ust. 2, operator:
 
@@ -824,6 +1062,31 @@ source: "isap-pdf"
 
 **Art. 38b.** Z budżetu jednostki samorządu terytorialnego może być finansowana lub dofinansowana działalność zarządcy, o której mowa w art. 38a ust. 1. Przepisy art. 38a ust. 5–8 stosuje się odpowiednio.”;
 
+- **51)** po art. 38b dodaje się art. 38ba w brzmieniu: „Art. 38ba. 1. Zarządca drogi kolejowej, dla której nie zapewniono dofinansowania, o którym mowa w art. 38a, ani finansowania lub dofinansowania, o którym mowa w art. 38b, a który po przydzieleniu jej zdolności przepustowej stwierdzi, że wpływy za udostępnianie drogi kolejowej nie pokryją kosztów jej udostępniania, może rozpocząć procedurę przygotowania likwidacji drogi kolejowej.
+
+2. Procedura przygotowania likwidacji drogi kolejowej polega na jednoczesnym poinformowaniu w formie pisemnej o zamiarze likwidacji drogi kolejowej w następnym okresie obowiązywania rocznego rozkładu jazdy:
+
+- **1)** zainteresowanych aplikantów;
+- **2)** właściwych organów jednostek samorządu terytorialnego, na obszarze których zlokalizowana jest droga kolejowa, oraz ministra właściwego do spraw transportu.
+
+3. Procedura przygotowania likwidacji drogi kolejowej zostaje wstrzymana, jeżeli organ, o którym mowa w ust. 2 pkt 2:
+
+- **1)** zapewni środki finansowe na dofinansowanie działalności zarządcy, o której mowa w art. 38a ust. 1, lub
+- **2)** zawrze z zarządcą umowę o przejęcie drogi kolejowej w zarządzanie, lub
+- **3)** przystąpi do spółki przewozów wojewódzkich lub lokalnych, która przejmie, w celu dalszej eksploatacji, przewidzianą do likwidacji drogę kolejową jako wkład niepieniężny.
+
+4. W przypadku gdy nie została wstrzymana procedura przygotowania likwidacji drogi kolejowej w trybie, o którym mowa w ust. 3, zarządca może rozpocząć likwidację drogi kolejowej w terminie 3 miesięcy od dnia przekazania pisemnej informacji, o której mowa w ust. 2.
+
+5. Na uzasadniony wniosek zarządcy minister właściwy do spraw transportu może wydać, w drodze decyzji, zgodę na likwidację drogi kolejowej w terminie wcześniejszym niż określony w ust. 4.
+
+6. Nie jest dozwolona likwidacja linii kolejowej o znaczeniu państwowym.”;
+
+- **52)** po art. 38c dodaje się art. 38d–38g w brzmieniu: „Art. 38d. 1. Minister właściwy do spraw transportu może podjąć decyzję o dofinansowaniu ulgi, o której mowa w art. 34 ust. 2.
+
+2. Dofinansowanie ulgi, o której mowa w art. 34 ust. 2, może być przekazywane zarządcy na podstawie umowy, o której mowa w art. 38a ust. 5.
+
+3. Minister właściwy do spraw transportu może udzielić pomocy dedykowanej niektórym rodzajom transportu kolejowego, przedsiębiorcom korzystającym z transportu kolejowego lub przedsiębiorcom zamierzającym z niego korzystać.
+
 **Art. 38e.** W przypadku gdy dofinansowanie, o którym mowa w art. 38d ust. 1, lub pomoc, o której mowa w art. 38d ust. 3, stanowi pomoc publiczną, minister właściwy do spraw transportu określa, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielenia pomocy, uwzględniając konieczność zapewnienia zgodności tej pomocy z rynkiem wewnętrznym w rozumieniu Traktatu o funkcjonowaniu Unii Europejskiej.
 
 **Art. 38f.**
@@ -835,6 +1098,70 @@ source: "isap-pdf"
 3. Zarządca dostosowuje plan, o którym mowa w ust. 1, do postanowień umowy, o której mowa w art. 38a ust. 5, nie później niż w terminie 3 miesięcy od dnia jej zawarcia.
 
 **Art. 38g.** Przewoźnik kolejowy opracowuje plan biznesowy uwzględniający programy inwestycyjne i plan wykorzystania instrumentów finansowych. Plan określa sposób osiągnięcia przez przewoźnika kolejowego równowagi finansowej oraz innych celów technicznych, handlowych i związanych z zarządzaniem finansowym.”;
+
+- **53)** w art. 43:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Licencjonowaniu podlega działalność gospodarcza polegająca na:
+
+- **1)** wykonywaniu przewozów kolejowych osób;
+- **2)** wykonywaniu przewozów kolejowych rzeczy;
+- **3)** świadczeniu usług trakcyjnych.”,
+    - **b)** uchyla się ust. 4 i 4a;
+
+- **54)** w art. 45 ust. 1 otrzymuje brzmienie: „1. Organem właściwym do udzielania, odmowy udzielania, zmiany, zawieszania lub cofnięcia licencji przedsiębiorcy posiadającemu siedzibę na terytorium Rzeczypospolitej Polskiej jest Prezes UTK.”;
+- **55)** art. 46–49 otrzymują brzmienie: „Art. 46. 1. Licencji udziela się na wniosek przedsiębiorcy.
+
+2. Wniosek o udzielenie licencji zawiera:
+
+- **1)** nazwę przedsiębiorcy, jego siedzibę i adres;
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada;
+- **3)** numer identyfikacji podatkowej (NIP);
+- **4)** określenie przedmiotu i zakresu wykonywania działalności, na którą ma być udzielona licencja.
+
+3. Do wniosku należy dołączyć:
+
+- **1)** informacje o dotychczasowej działalności przedsiębiorcy;
+- **2)** dokumenty potwierdzające spełnienie wymagań dotyczących:
+    - **a)** dobrej reputacji,
+    - **b)** wiarygodności finansowej,
+    - **c)** kwalifikacji zawodowych,
+    - **d)** zabezpieczenia finansowego odpowiedzialności cywilnej.
+
+4. Wymagania dotyczące dobrej reputacji uznaje się za spełnione, jeżeli:
+
+- **1)** nie została ogłoszona upadłość przedsiębiorcy;
+- **2)** przedsiębiorca nie poniósł odpowiedzialności na podstawie przepisów o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary;
+- **3)** przedsiębiorca nie został ukarany za poważne naruszenia prawa określone w przepisach szczególnych mających zastosowanie do transportu;
+- **4)** członkowie organu zarządzającego osoby prawnej, wspólnik, komplementariusz w spółce jawnej, komandytowej lub komandytowo-akcyjnej, a w przypadku innego przedsiębiorcy – osoby prowadzące działalność gospodarczą, nie zostały skazane prawomocnym wyrokiem sądu za przestępstwa, przestępstwa skarbowe popełnione umyślnie lub powtarzające się nieumyślne naruszenie praw osób wykonujących pracę zarobkową. W celu potwierdzenia spełnienia wymogów, o których mowa w zdaniu pierwszym, przedsiębiorca ubiegający się o licencję przedstawia zaświadczenia albo oświadczenia.
+
+5. Oświadczenie, o którym mowa w ust. 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+6. Wymagania dotyczące wiarygodności finansowej uznaje się za spełnione, gdy przedsiębiorca jest w stanie wykazać, że jest zdolny do wypełnienia rzeczywistych i potencjalnych zobowiązań finansowych przez okres 12 miesięcy od dnia udzielenia licencji. W tym celu:
+
+- **1)** przedsiębiorca ubiegający się o licencję przedstawia:
+    - **a)** sprawozdanie finansowe za ostatni rok obrotowy, wraz z opinią i raportem biegłego rewidenta z jego badania, albo bilans, gdy przedsiębiorca nie może okazać sprawozdania finansowego,
+    - **b)** zestawienie przepływów pieniężnych dla roku, w którym ubiega się o licencję, i planowane zestawienie przepływów dla roku kolejnego,
+    - **c)** potwierdzenie stanu rachunku bankowego oraz pozostałe zabezpieczenia majątkowe zobowiązań,
+    - **d)** dane dotyczące planowanych wydatków związanych z podjęciem licencjonowanej działalności,
+    - **e)** informację o zabezpieczonym limicie przekroczenia stanu konta rachunku bankowego;
+
+- **2)** Prezes UTK uzyskuje od właściwych organów informacje o stanie zaległości przedsiębiorcy:
+    - **a)** w podatkach,
+    - **b)** w opłacaniu składek na ubezpieczenie społeczne, zdrowotne, Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych w rozumieniu przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, 1247, 1579, 1807, 1810 i 1921).
+
+7. Wymagania dotyczące wiarygodności finansowej uznaje się za niespełnione w przypadku przedsiębiorcy, w którego działalności występują znaczne lub powtarzające się zaległości publicznoprawne.
+
+8. W razie wątpliwości co do sytuacji finansowej przedsiębiorcy, Prezes UTK może żądać innych niż określone w ust. 6 informacji i dokumentów bankowych lub księgowych przedstawiających rzetelnie aktualną sytuację finansową przedsiębiorcy.
+
+9. Wymagania dotyczące kwalifikacji zawodowych uznaje się za spełnione, gdy przedsiębiorca posiada lub zobowiąże się do posiadania organizacji zarządzania, która zapewni kontrolę bezpieczeństwa, niezawodność i nadzorowanie licencjonowanej działalności. W tym celu przedsiębiorca ubiegający się o licencję przedstawia:
+
+- **1)** dokumenty dotyczące kwalifikacji pracowników odpowiedzialnych za bezpieczeństwo przewozów kolejowych oraz szczegółowe dane dotyczące szkolenia tych pracowników lub
+- **2)** oświadczenie dotyczące planowanego zatrudnienia i przeszkolenia pracowników, o których mowa w pkt 1.
+
+10. Wymagania dotyczące zabezpieczenia finansowego odpowiedzialności cywilnej uznaje się za spełnione, gdy przedsiębiorca ubiegający się o udzielenie licencji wykaże, że zawarł umowę ubezpieczenia odpowiedzialności cywilnej lub umowę gwarancji ubezpieczeniowej.
+
+11. Zabezpieczenie finansowe odpowiedzialności cywilnej, o którym mowa w ust. 10, uwzględnia wymagania określone przepisami art. 12 rozporządzenia nr 1371/2007/WE.
+
+12. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę zakres działalności wykonywanej przez przewoźnika kolejowego.
 
 **Art. 47.**
 
@@ -885,11 +1212,87 @@ source: "isap-pdf"
 
 **Art. 49b.** O przyznaniu licencji, jej cofnięciu, zawieszeniu lub zmianie Prezes UTK niezwłocznie powiadamia Agencję.”;
 
+- **57)** art. 51 otrzymuje brzmienie: „Art. 51. 1. Prezes UTK podaje do publicznej wiadomości w Biuletynie Informacji Publicznej Urzędu Transportu Kolejowego tryb udzielania licencji.
+
+2. Prezes UTK informuje Komisję Europejską o każdej zmianie trybu udzielania licencji.”;
+
+- **58)** uchyla się art. 51a i art. 52;
+- **59)** w art. 66:
+    - **a)** ust. 1–2a otrzymują brzmienie: „1. Karze pieniężnej podlega:
+
+- **1)** przedsiębiorca, który:
+    - **a)** prowadzi działalność bez wymaganego dokumentu, o którym mowa w art. 17e lub art. 43,
+    - **b)** wykonuje przewozy na drodze kolejowej, której zarządca nadał status infrastruktury nieczynnej,
+    - **c)** nie zastosował się do postanowień decyzji Prezesa UTK w sprawie przeprowadzenia badań na sieci kolejowej, o której mowa w art. 23b ust. 8a;
+
+- **2)** zarządca, który:
+    - **a)** nie nadał drodze kolejowej wykorzystywanej wyłącznie do realizacji własnych potrzeb jej właściciela lub zarządcy statusu infrastruktury prywatnej;
+    - **b)** nie przedstawił organizatorowi publicznego transportu kolejowego informacji, o których mowa w art. 5b,
+    - **c)** eksploatuje drogę kolejową bez wymaganego dokumentu, o którym mowa w art. 17d,
+    - **d)** nie zapewnił niedyskryminacyjnego traktowania aplikantów,
+    - **e)** nie dokonał modyfikacji odmowy albo nie cofnął odmowy rozpatrzenia wniosku o przydzielenie zdolności przepustowej zgodnie z wytycznymi określonymi przez Prezesa UTK w decyzji, o której mowa w art. 30a ust. 2,
+    - **f)** nie opublikował regulaminu sieci w terminie określonym w art. 32 ust. 3 lub nie uwzględnił w nim wszystkich wymaganych elementów,
+    - **g)** nie przekazał Prezesowi UTK w terminie określonym w art. 33 ust. 14 projektu cennika, o którym mowa w art. 33 ust. 13,
+    - **h)** nie poinformował w wymaganym terminie Prezesa UTK o ustaleniach, o których mowa w art. 36p ust. 2,
+    - **i)** nie umożliwił aplikantom wyrażenia swoich poglądów dotyczących treści planu biznesowego zarządcy;
+
+- **3)** przewoźnik kolejowy, który nie poinformował w wymaganym terminie Prezesa UTK o zmianie mającej wpływ na jego sytuację prawną, o której mowa w art. 48 ust. 1;
+- **4)** zarządca lub przewoźnik kolejowy, który:
+    - **a)** nieterminowo przedłożył Prezesowi UTK raport w sprawie bezpieczeństwa, o którym mowa w art. 17a ust. 4,
+    - **b)** uniemożliwia szkolenie lub dostęp do zaplecza szkoleniowego pracownikom innego przewoźnika kolejowego lub zarządcy,
+    - **c)** nie zgłosił Komisji i Prezesowi UTK wbrew obowiązkowi, o którym mowa w art. 28g ust. 1, o zaistniałym poważnym wypadku, wypadku lub incydencie,
+    - **d)** utrudnia pracę Komisji i komisji kolejowej;
+
+- **5)** zarządca, przewoźnik kolejowy lub przedsiębiorca wykonujący przewozy w obrębie bocznicy kolejowej, którzy nie przekazali w terminie Prezesowi UTK oświadczeń, o których mowa w art. 22ca ust. 1 pkt 1;
+- **6)** zarządca, przewoźnik kolejowy, operator stacji pasażerskiej, sprzedawca biletów, organizator turystyki, pośrednik turystyczny w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych, który nie przestrzega lub narusza obowiązujące go przepisy art. 4, art. 5 i art. 7–29 rozporządzenia nr 1371/2007/WE;
+- **7)** zarządca, przewoźnik kolejowy lub operator stacji pasażerskiej, który:
+    - **a)** nie podaje rozkładu jazdy dla przewozu osób lub jego zmiany do publicznej wiadomości w terminie i na zasadach, o których mowa w art. 30e,
+    - **b)** naruszył zakaz stosowania bezprawnych praktyk naruszających zbiorowe interesy pasażerów w transporcie kolejowym, o którym mowa w art. 14b ust. 1,
+    - **c)** utrudnia Prezesowi UTK lub pisemnie upoważnionym osobom wykonywanie czynności, o których mowa w art. 15;
+
+- **8)** dysponent, który, wbrew obowiązkowi określonemu w art. 25ga ust. 3, nie poinformował Prezesa UTK o wszelkich zmianach danych dotyczących pojazdu kolejowego zarejestrowanego w krajowym rejestrze pojazdów kolejowych w zakresie danych objętych tym rejestrem, w tym o zaistnieniu okoliczności powodującej konieczność wykreślenia pojazdu kolejowego z prowadzonego przez siebie rejestru pojazdów kolejowych;
+- **9)** podmiot, który nie udzielił informacji, o których mowa w art. 13 ust. 3a pkt 3, albo udzielił tej informacji z przekroczeniem terminu, o którym mowa w art. 13 ust. 3b.
+
+2. Za naruszanie przez przedsiębiorcę każdego z przepisów ust. 1 Prezes UTK nakłada, w drodze decyzji, karę pieniężną w wysokości do 2% rocznego przychodu przedsiębiorcy, osiągniętego w poprzednim roku kalendarzowym, z uwzględnieniem ust. 2a i 2d.
+
+2a. Prezes UTK odstępuje od nałożenia kary, o której mowa w ust. 2, jeżeli skutki naruszenia przez przedsiębiorcę przepisu ust. 1 zostały przez niego usunięte niezwłocznie.”,
+
+- **b)** w ust. 2aa pkt 1 otrzymuje brzmienie: „1) decyzji, o których mowa w art. 13b ust. 1, art. 14 ust. 1–3 oraz art. 25m ust. 1 i 2, albo”,
+- **c)** uchyla się ust. 2ac,
+- **d)** ust. 2c otrzymuje brzmienie: „2c. Nie nakłada się kar, o których mowa w ust. 1 pkt 6, jeżeli przewoźnik kolejowy, zarządca, operator stacji pasażerskiej, sprzedawca biletów, organizator turystyki, pośrednik turystyczny w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych, przed dniem wydania decyzji, o której mowa w art. 13b ust. 1, dobrowolnie usunął naruszenie lub wypełnił obowiązki wynikające z rozporządzenia nr 1371/2007/WE.”,
+- **e)** po ust. 2c dodaje się ust. 2d i 2e w brzmieniu: „2d. Wysokość kary, w przypadku o którym mowa w ust. 1 pkt 9, nie może przekraczać równowartości 20 000 euro.
+
+2e. Wartość euro, o której mowa w ust. 2aa i 2d, podlega przeliczeniu na złote według przepisów wydanych na podstawie art. 35 ust. 3 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.”;
+
+- **60)** załącznik do ustawy oznacza się jako „załącznik nr 1” i nadaje mu się brzmienie określone w załączniku nr 1 do niniejszej ustawy;
+- **61)** dodaje się załącznik nr 2 do ustawy w brzmieniu określonym w załączniku nr 2 do niniejszej ustawy;
+- **62)** dodaje się załącznik nr 3 do ustawy w brzmieniu określonym w załączniku nr 3 do niniejszej ustawy.
+
 **Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2016 r. poz. 716 i 1579) w art. 7 w ust. 1 pkt 1 otrzymuje brzmienie: „1) grunty, budynki i budowle wchodzące w skład infrastruktury kolejowej w rozumieniu przepisów o transporcie kolejowym, która:
+
+- **a)** jest udostępniana przewoźnikom kolejowym lub
+- **b)** jest wykorzystywana do przewozu osób, lub
+- **c)** tworzy linie kolejowe o szerokości torów większej niż 1435 mm;”.
 
 **Art. 3.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r. poz. 543, 749, 1020, 1250 i 1579) w art. 27 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw transportu sprawuje nadzór nad Prezesem Urzędu Lotnictwa Cywilnego, Generalnym Dyrektorem Dróg Krajowych i Autostrad oraz Głównym Inspektorem Transportu Drogowego.”.
 
 **Art. 4.** W ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2015 r. poz. 2115 oraz z 2016 r. poz. 615) wprowadza się następujące zmiany:
+
+- **1)** w art. 3:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) gromadzi środki finansowe na przygotowanie oraz realizację budowy i przebudowy linii kolejowych, remonty i utrzymanie linii kolejowych, likwidację zbędnych linii kolejowych oraz wydatki bieżące PKP Polskich Linii Kolejowych Spółki Akcyjnej związane z zadaniami zarządcy infrastruktury kolejowej;”,
+    - **b)** po ust. 3d dodaje się ust. 3e i 3f w brzmieniu: „3e. Środki Funduszu mogą być przeznaczone na dofinansowanie działalności zarządców infrastruktury kolejowej, która nie może być sfinansowana z opłat za korzystanie z infrastruktury kolejowej.
+
+3f. Dofinansowanie, o którym mowa w ust. 3e, odbywa się na podstawie przepisów rozdziału 7 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym.”;
+
+- **2)** w art. 9a w ust. 2 w pkt 1 po lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „c) realizację programu wieloletniego, o którym mowa w art. 38a ust. 2 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;”;
+- **3)** w art. 10 ust. 1 otrzymuje brzmienie: „1. W umowach zawieranych przez zarządców infrastruktury kolejowej z ministrem właściwym do spraw transportu określa się warunki finansowania lub współfinansowania ze środków Funduszu, zgodnie z ustaleniami planu finansowego Funduszu, o którym mowa w art. 9a, w odniesieniu do:
+- **1)** projektów inwestycyjnych w zakresie budowy i przebudowy linii kolejowych;
+- **2)** zadań z zakresu remontów i utrzymania linii kolejowych;
+- **3)** zadań z zakresu likwidacji zbędnych linii kolejowych, przewidzianych do realizacji przez zarządców infrastruktury kolejowej;
+- **4)** wydatków bieżących PKP PLK SA związanych z zadaniami zarządcy infrastruktury kolejowej;
+- **5)** zakupu i modernizacji przez PKP PLK SA pojazdów kolejowych przeznaczonych do diagnostyki, utrzymania, naprawy lub budowy infrastruktury kolejowej oraz do prowadzenia działań ratowniczych;
+- **6)** działalności zarządców infrastruktury kolejowej, która nie może być sfinansowana z opłat za korzystanie z infrastruktury kolejowej.”;
+- **4)** w art. 12 uchyla się pkt 5.
 
 **Art. 5.**
 
@@ -969,4 +1372,9 @@ source: "isap-pdf"
 **Art. 20.** Do dnia 31 grudnia 2016 r. użytą w ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych definicję infrastruktury kolejowej należy rozumieć zgodnie z art. 4 pkt 1 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym.
 
 **Art. 21.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia z wyjątkiem:
+
+- **1)** art. 1 pkt 17 lit. b i c, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia;
+- **2)** art. 1 pkt 53–58, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **3)** art. 2, który wchodzi w życie z dniem 1 stycznia 2017 r.
+
 

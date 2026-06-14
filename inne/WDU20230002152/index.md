@@ -8,10 +8,10 @@ pos: 2152
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22115522 Załącznik nr 1 STANDARD KSZTAŁCENIA PRZYGOTOWUJĄCEGO DO WYKONYWANIA ZAWODU LEKARZA I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
 
 | Pole | Wartość |
 |---|---|
@@ -25,20 +25,20 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002152) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2152/text.pdf) |
 
-22115522 Załącznik nr 1 STANDARD KSZTAŁCENIA PRZYGOTOWUJĄCEGO DO WYKONYWANIA ZAWODU LEKARZA I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
 1. WYMAGANIA OGÓLNE
 1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu lekarza prowadzonego na studiach na kierunku lekarskim, zwanych dalej „studiami”.
 1.2. Studia są jednolitymi studiami magisterskimi.
 1.3. Studia trwają 12 semestrów.
 1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 5700.
 1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 360.
-1.6. Kierunek lekarski jest przyporządkowany do dyscypliny naukowej nauki medyczne jako dyscypliny wiodącej.
+1.6. Kierunek lekarski jest przyporządkowany do dyscypliny naukowej – nauki medyczne jako dyscypliny wiodącej.
 1.7. Studia mają profil ogólnoakademicki.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
 1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów (np. anatomia, mikrobiologia, chirurgia, okulistyka);
 2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów (np. choroby wewnętrzne i diagnostyka laboratoryjna, choroby zakaźne i mikrobiologia);
 3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom (np. mechanizm i leczenie bólu, choroby autoimmunologiczne).
+– 2 –
 2.2. Program studiów obejmuje zajęcia lub grupy zajęć umożliwiające osiągnięcie efektów uczenia się związanych ze współpracą w zespole oraz z komunikowaniem się.
 2.3. Program studiów obejmuje zajęcia lub grupy zajęć związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów, i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności.
 3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się Liczba Liczba szczegółowe efekty uczenia się godzin punktów ECTS A. Nauki morfologiczne 270 20 B. Naukowe podstawy medycyny 465 35 C. Nauki przedkliniczne 525 40 D. Nauki behawioralne i społeczne z elementami 240 18 profesjonalizmu i komunikacji, z uwzględnieniem idei humanizmu w medycynie E. Nauki kliniczne niezabiegowe 1120 70 F. Nauki kliniczne zabiegowe 940 55 G. Prawne i organizacyjne aspekty medycyny 90 6 H. Praktyczne nauczanie kliniczne na VI roku studiów 900 60 I. Praktyki zawodowe 600 20 Razem 5150 324
@@ -46,18 +46,21 @@ source: "isap-pdf"
 3.2. W trakcie kształcenia w zakresie nauk klinicznych (grupy zajęć E i F):
 1) studentom zapewnia się bezpośredni dostęp do pacjentów, w tym pacjentów leczonych ambulatoryjnie, z chorobami ostrymi i przewlekłymi, które są ujęte w treściach kształcenia przypisanych do zajęć lub grup zajęć;
 2) co najmniej 5% łącznej liczby godzin zajęć jest realizowanych w symulowanych warunkach klinicznych.
+– 3 –
 3.3. Do dyspozycji uczelni pozostawia się nie mniej niż 550 godzin zajęć (36 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające wiedzę, umiejętności lub kompetencje społeczne, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 3% liczby punktów ECTS koniecznej do ukończenia studiów.
 3.4. Nie więcej niż połowa godzin zajęć umożliwiających uzyskanie efektów uczenia się w grupie zajęć D jest przeznaczona na nauczanie języka angielskiego. Dodatkowe godziny zajęć przeznaczone na nauczanie języka angielskiego lub innego języka obcego mogą być realizowane w ramach godzin pozostawionych do dyspozycji uczelni. W przypadku gdy łączna liczba godzin zajęć z języków obcych jest większa niż 200, uczelnia zwiększa o tę nadwyżkę ogólną liczbę godzin zajęć w programie studiów.
 3.5. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
 3.6. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 20% liczby punktów ECTS koniecznej do ukończenia studiów.
 3.7. Łączna liczba godzin zajęć umożliwiających osiągnięcie efektów uczenia się w zakresie komunikowania się w grupach zajęć D, E i F wynosi 120. Zajęcia te są realizowane przez cały okres studiów.
-3.8. Zajęcia umożliwiające osiągnięcie efektów uczenia się w zakresie umiejętności komunikowania się prowadzi się w taki sposób, aby każdemu studentowi zapewnić możliwość wykonania i powtórzenia czynności umożliwiających osiągnięcie tych efektów, a osobie prowadzącej zajęcia obserwacje i udzielanie studentowi informacji zwrotnych. Zajęcia te prowadzi się w warunkach symulowanych, w tym z udziałem pacjentów symulowanych, lub w warunkach klinicznych.
+3.8. Zajęcia umożliwiające osiągnięcie efektów uczenia się w zakresie umiejętności komunikowania się prowadzi się w taki sposób, aby każdemu studentowi zapewnić możliwość wykonania i powtórzenia czynności umożliwiających osiągnięcie tych efektów, a osobie prowadzącej zajęcia – obserwacje i udzielanie studentowi informacji zwrotnych. Zajęcia te prowadzi się w warunkach symulowanych, w tym z udziałem pacjentów symulowanych, lub w warunkach klinicznych.
 3.9. Zajęcia umożliwiające osiągnięcie efektów uczenia się w zakresie umiejętności komunikowania się mogą być prowadzone dla grup studentów co najmniej dwóch kierunków studiów objętych standardami kształcenia określonymi w załącznikach do rozporządzenia, a także przez wdrażanie innowacyjnych metod rozwijania kreatywności i samodzielnego myślenia.
+– 4 –
 4. PRAKTYCZNE NAUCZANIE KLINICZNE
 4.1. Praktyczne nauczanie kliniczne obejmuje zajęcia umożliwiające osiągnięcie efektów uczenia się w kategorii umiejętności w grupach zajęć E, F i H.
 4.2. Zajęcia umożliwiające osiągnięcie efektów uczenia się w kategorii umiejętności w grupach zajęć E i F są realizowane w formie ćwiczeń.
 4.3. Zajęcia umożliwiające osiągnięcie efektów uczenia się w grupie zajęć H służą doskonaleniu w warunkach klinicznych efektów uczenia się osiągniętych w kategorii umiejętności w grupach zajęć E i F oraz są realizowane na VI roku studiów w formie ćwiczeń w wymiarze: Liczba Liczba Specjalność godzin punktów ECTS Choroby wewnętrzne 240 16 Pediatria 120 8 Chirurgia 120 8 Ginekologia i położnictwo 60 4 Psychiatria 60 4 Medycyna ratunkowa 60 4 Medycyna rodzinna 60 4 Specjalność wybrana przez studenta 180 12 Razem 900 60 Zajęcia umożliwiające osiągnięcie efektów uczenia się w grupie zajęć H mogą być realizowane w symulowanych warunkach klinicznych, jednak w wymiarze nie większym niż 10% godzin tych zajęć.
-4.4. Zajęcia umożliwiające osiągnięcie efektów uczenia się w grupie zajęć H są realizowane w grupach liczących nie więcej niż 5 studentów, a w przypadku gdy ich realizacja w takich grupach nie jest możliwa mogą być realizowane w grupach liczących nie więcej niż 8 studentów.
+4.4. Zajęcia umożliwiające osiągnięcie efektów uczenia się w grupie zajęć H są realizowane w grupach liczących nie więcej niż 5 studentów, a w przypadku gdy ich realizacja w takich grupach nie jest możliwa – mogą być realizowane w grupach liczących nie więcej niż 8 studentów.
+– 5 –
 5. PRAKTYKI ZAWODOWE
 5.1. Praktyki zawodowe obejmują doskonalenie umiejętności zawodowych i są realizowane w wymiarze: Liczba Liczba Zakres praktyk zawodowych godzin punktów ECTS Opieka nad chorym 120 4 Podstawowa opieka zdrowotna (medycyna rodzinna) 90 3 Pomoc doraźna 30 1 Choroby wewnętrzne 120 4 Intensywna terapia 60 2 Pediatria 60 2 Chirurgia 60 2 Ginekologia i położnictwo 60 2 Razem 600 20
 5.2. Praktyki zawodowe są realizowane w okresie wakacji. Praktyki zawodowe umożliwiają osiągnięcie wybranych efektów uczenia się. Program praktyk zawodowych, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
@@ -96,6 +99,7 @@ III. EFEKTY UCZENIA SIĘ
 3) przestrzegania tajemnicy lekarskiej i praw pacjenta;
 4) podejmowania działań wobec pacjenta w oparciu o zasady etyczne, ze świadomością społecznych uwarunkowań i ograniczeń wynikających z choroby;
 5) dostrzegania i rozpoznawania własnych ograniczeń, dokonywania samooceny deficytów i potrzeb edukacyjnych;
+– 8 –
 6) propagowania zachowań prozdrowotnych;
 7) korzystania z obiektywnych źródeł informacji;
 8) formułowania wniosków z własnych pomiarów lub obserwacji;
@@ -110,7 +114,7 @@ W zakresie umiejętności absolwent potrafi: A.U1. obsługiwać mikroskop optycz
 A.U2. rozpoznawać w obrazach mikroskopowych struktury odpowiadające narządom, tkankom, komórkom i strukturom komórkowym, opisywać i interpretować ich budowę oraz relacje między budową i funkcją;
 A.U3. wyjaśniać anatomiczne podstawy badania przedmiotowego;
 A.U4. wnioskować o relacjach między strukturami anatomicznymi na podstawie przyżyciowych badań diagnostycznych, w szczególności z zakresu radiologii.
-B. NAUKOWE PODSTAWY MEDYCYNY W zakresie wiedzy absolwent zna i rozumie: B.W1. gospodarkę wodno-elektrolitową w układach biologicznych;
+– 9 – B. NAUKOWE PODSTAWY MEDYCYNY W zakresie wiedzy absolwent zna i rozumie: B.W1. gospodarkę wodno-elektrolitową w układach biologicznych;
 B.W2. równowagę kwasowo-zasadową i mechanizm działania buforów oraz ich znaczenie w homeostazie ustrojowej;
 B.W3. pojęcia rozpuszczalności, ciśnienia osmotycznego, izotonii, roztworów koloidalnych i równowagi Gibbsa-Donnana;
 B.W4. prawa fizyczne opisujące przepływ cieczy i czynniki wpływające na opór naczyniowy przepływu krwi;
@@ -126,7 +130,7 @@ B.W13. podstawowe szlaki kataboliczne i anaboliczne, sposoby ich regulacji oraz 
 B.W14. podstawowe metody wykorzystywane w diagnostyce laboratoryjnej, w tym elektroforezę białek i kwasów nukleinowych;
 B.W15. przemiany metaboliczne zachodzące w narządach oraz metaboliczne, biochemiczne i molekularne podłoże chorób i terapii;
 B.W16. sposoby komunikacji między komórkami i między komórką a macierzą zewnątrzkomórkową oraz szlaki przekazywania sygnałów w komórce, a także przykłady zaburzeń w tych procesach prowadzących do rozwoju nowotworów i innych chorób;
-B.W17. procesy: cykl komórkowy, proliferacja, różnicowanie i starzenie się komórek, apoptoza i nekroza oraz ich znaczenie dla funkcjonowania organizmu;
+– 10 – B.W17. procesy: cykl komórkowy, proliferacja, różnicowanie i starzenie się komórek, apoptoza i nekroza oraz ich znaczenie dla funkcjonowania organizmu;
 B.W18. funkcje i zastosowanie komórek macierzystych w medycynie;
 B.W19. podstawy pobudzenia i przewodzenia w układzie nerwowym oraz wyższe czynności nerwowe, a także fizjologię mięśni prążkowanych i gładkich;
 B.W20. czynność i mechanizmy regulacji wszystkich narządów i układów organizmu człowieka oraz zależności między nimi;
@@ -142,7 +146,7 @@ B.U3. obliczać stężenia molowe i procentowe związków oraz stężenia substa
 B.U4. obliczać rozpuszczalność związków nieorganicznych, określać chemiczne podłoże rozpuszczalności związków organicznych lub jej braku oraz jej praktyczne znaczenie dla dietetyki i terapii;
 B.U5. określać pH roztworu i wpływ zmian pH na związki nieorganiczne i organiczne;
 B.U6. przewidywać kierunek procesów biochemicznych w zależności od stanu energetycznego komórek;
-B.U7. wykonywać proste testy czynnościowe oceniające funkcjonowanie organizmu człowieka jako układu regulacji stabilnej (testy obciążeniowe i wysiłkowe) i interpretować dane liczbowe dotyczące podstawowych zmiennych fizjologicznych;
+– 11 – B.U7. wykonywać proste testy czynnościowe oceniające funkcjonowanie organizmu człowieka jako układu regulacji stabilnej (testy obciążeniowe i wysiłkowe) i interpretować dane liczbowe dotyczące podstawowych zmiennych fizjologicznych;
 B.U8. korzystać z medycznych baz danych oraz właściwie interpretować zawarte w nich informacje potrzebne do rozwiązywania problemów z zakresu nauk podstawowych i klinicznych;
 B.U9. dobrać odpowiedni test statystyczny, przeprowadzać podstawowe analizy statystyczne i posługiwać się odpowiednimi metodami przedstawiania wyników;
 B.U10. klasyfikować metodologię badań naukowych, w tym rozróżniać badania eksperymentalne i obserwacyjne wraz z ich podtypami, szeregować je według stopnia wiarygodności dostarczanych wyników oraz prawidłowo oceniać siłę dowodów naukowych;
@@ -157,13 +161,13 @@ C.W6. czynniki wpływające na pierwotną i wtórną równowagę genetyczną pop
 C.W7. genetyczne uwarunkowania wrodzonych wad rozwojowych i wybranych chorób rzadkich oraz możliwość ich profilaktyki;
 C.W8. metody diagnostyki genetycznej oraz podstawowe wskazania do ich zastosowania;
 C.W9. genetyczne mechanizmy nabywania lekooporności przez drobnoustroje i komórki nowotworowe oraz ich związek z koniecznością indywidualizacji farmakoterapii;
-C.W10. drobnoustroje z uwzględnieniem chorobotwórczych i stanowiących mikrobiom człowieka oraz inwazyjne dla człowieka formy lub stadia rozwojowe wybranych pasożytów;
+– 12 – C.W10. drobnoustroje z uwzględnieniem chorobotwórczych i stanowiących mikrobiom człowieka oraz inwazyjne dla człowieka formy lub stadia rozwojowe wybranych pasożytów;
 C.W11. epidemiologię zakażeń wywołanych przez wirusy, bakterie, grzyby i priony oraz zarażeń pasożytami, z uwzględnieniem geograficznego zasięgu ich występowania;
 C.W12. patogenezę i patofizjologię zakażeń i zarażeń oraz wpływ czynników patogennych, takich jak wirusy, bakterie, grzyby, priony i pasożyty, na organizm człowieka i populację, w tym sposoby ich oddziaływania, konsekwencje narażenia na nie oraz zasady profilaktyki;
 C.W13. konsekwencje narażenia organizmu człowieka na czynniki chemiczne i fizyczne oraz zasady profilaktyki;
 C.W14. etiologię, patogenezę, patofizjologię, drogi transmisji, postacie i profilaktykę zakażeń jatrogennych;
 C.W15. metody stosowane w diagnostyce mikrobiologicznej i parazytologicznej (wskazania, zasady wykonywania, interpretacja wyniku);
-C.W16. zasady diagnostyki chorób zakaźnych, alergicznych, autoimmunizacyjnych i nowotworowych oraz chorób krwi, oparte na reakcji antygen przeciwciało;
+C.W16. zasady diagnostyki chorób zakaźnych, alergicznych, autoimmunizacyjnych i nowotworowych oraz chorób krwi, oparte na reakcji antygen – przeciwciało;
 C.W17. zasady dezynfekcji, sterylizacji i postępowania aseptycznego;
 C.W18. swoiste i nieswoiste mechanizmy odporności humoralnej i komórkowej;
 C.W19. główny układ zgodności tkankowej;
@@ -174,7 +178,7 @@ C.W23. przebieg kliniczny zapaleń swoistych i nieswoistych oraz procesy regener
 C.W24. etiologię, mechanizmy i konsekwencje zaburzeń hemodynamicznych;
 C.W25. patologię narządową, zmiany patomorfologiczne makro- i mikroskopowe oraz konsekwencje kliniczne wraz z nazewnictwem patomorfologicznym;
 C.W26. patogenezę chorób, w tym uwarunkowania genetyczne i środowiskowe;
-C.W27. patomechanizm i postacie kliniczne najczęstszych chorób poszczególnych układów i narządów, chorób metabolicznych oraz zaburzeń gospodarki wodno-elektrolitowej, hormonalnej i kwasowo-zasadowej;
+– 13 – C.W27. patomechanizm i postacie kliniczne najczęstszych chorób poszczególnych układów i narządów, chorób metabolicznych oraz zaburzeń gospodarki wodno-elektrolitowej, hormonalnej i kwasowo-zasadowej;
 C.W28. poszczególne grupy produktów leczniczych, ich mechanizmy i efekty działania, podstawowe wskazania i przeciwwskazania oraz podstawowe parametry farmakokinetyczne i farmakodynamiczne;
 C.W29. uwarunkowania fizjologiczne i chorobowe wchłaniania, metabolizmu i eliminacji leków przez organizm człowieka;
 C.W30. podstawowe zasady farmakoterapii z uwzględnieniem jej skuteczności i bezpieczeństwa, konieczności indywidualizacji leczenia, w tym wynikającej z farmakogenetyki;
@@ -191,7 +195,7 @@ C.W40. przyczyny i konsekwencje niewłaściwego odżywiania, w tym długotrwałe
 C.W41. podstawy radioterapii;
 C.W42. podłoże molekularne chorób nowotworowych oraz zagadnienia z zakresu immunologii nowotworów;
 C.W43. praktyczne elementy biologii molekularnej oraz immunologii, wykorzystywane w diagnostyce i terapii chorób onkologicznych.
-W zakresie umiejętności absolwent potrafi: C.U1. wykreślać i analizować rodowody oraz identyfikować cechy kliniczno-rodowodowe sugerujące genetyczne podłoże chorób;
+– 14 – W zakresie umiejętności absolwent potrafi: C.U1. wykreślać i analizować rodowody oraz identyfikować cechy kliniczno-rodowodowe sugerujące genetyczne podłoże chorób;
 C.U2. podejmować decyzje o potrzebie wykonania badań cytogenetycznych i molekularnych;
 C.U3. odczytywać podstawowe wyniki badań genetycznych, w tym kariotypy;
 C.U4. określić ryzyko genetyczne w oparciu o rodowód i wynik badania genetycznego w przypadku aberracji chromosomowych, rearanżacji genomowych, chorób jednogenowych i wieloczynnikowych;
@@ -200,13 +204,13 @@ C.U6. interpretować wyniki badań mikrobiologicznych;
 C.U7. powiązać obrazy uszkodzeń tkankowych i narządowych z objawami klinicznymi choroby, wywiadem i wynikami oznaczeń laboratoryjnych w celu ustalenia rozpoznania w najczęstszych chorobach dorosłych i dzieci;
 C.U8. wykonywać proste obliczenia farmakokinetyczne;
 C.U9. dobierać leki w odpowiednich dawkach w celu korygowania zjawisk patologicznych w organizmie człowieka i w poszczególnych narządach;
-C.U10. projektować schematy racjonalnej chemioterapii zakażeń empirycznej i celowanej;
+C.U10. projektować schematy racjonalnej chemioterapii zakażeń – empirycznej i celowanej;
 C.U11. przygotowywać zapisy form recepturowych wybranych substancji leczniczych oraz wystawiać recepty, w tym e-recepty, zgodnie z przepisami prawa;
 C.U12. poszukiwać wiarygodnych informacji o produktach leczniczych, ze szczególnym uwzględnieniem charakterystyki produktów leczniczych (ChPL) oraz baz danych;
 C.U13. szacować niebezpieczeństwo toksykologiczne w określonych grupach wiekowych i w stanach niewydolności wątroby i nerek oraz zapobiegać zatruciom lekami.
 D. NAUKI BEHAWIORALNE I SPOŁECZNE Z ELEMENTAMI PROFESJONALIZMU I KOMUNIKACJI, Z UWZGLĘDNIENIEM IDEI HUMANIZMU W MEDYCYNIE W zakresie wiedzy absolwent zna i rozumie: D.W1. psychofizyczny rozwój człowieka od narodzin do śmierci, z uwzględnieniem specyfiki rozwoju fizycznego, emocjonalnego, poznawczego i społecznego;
 D.W2. pojęcia zdrowia i choroby, wpływ środowiska społecznego (rodzina, praca, relacje społeczne) oraz uwarunkowań społeczno-kulturowych (pochodzenie, status społeczny, wyznanie, narodowość i grupa etniczna) na stan zdrowia pacjenta;
-D.W3. zachowania człowieka sprzyjające utrzymaniu zdrowia i zasady motywowania pacjenta do zachowań prozdrowotnych (model zmiany Prochaski i DiClemente, wywiad motywujący);
+– 15 – D.W3. zachowania człowieka sprzyjające utrzymaniu zdrowia i zasady motywowania pacjenta do zachowań prozdrowotnych (model zmiany Prochaski i DiClemente, wywiad motywujący);
 D.W4. pojęcie stresu, w tym eustresu i dystresu, oraz wpływ stresu na etiopatogenezę i przebieg chorób somatycznych i zaburzeń psychicznych oraz mechanizmy radzenia sobie ze stresem;
 D.W5. postawy społeczne wobec choroby, niepełnosprawności i starości oraz specyficzne oddziaływanie stereotypów, uprzedzeń i dyskryminacji;
 D.W6. pojęcie empatii oraz zwroty i zachowania służące jej wyrażaniu;
@@ -219,7 +223,7 @@ D.W12. problemowe używanie substancji psychoaktywnych i uzależnienia od nich o
 D.W13. formy przemocy, w tym przemocy w rodzinie, społeczne uwarunkowania różnych form przemocy oraz rolę lekarza w jej rozpoznawaniu, a także zasady postępowania w przypadku podejrzenia przemocy, z uwzględnieniem procedury „Niebieskiej Karty”;
 D.W14. pojęcie normy i patologii zachowań seksualnych;
 D.W15. pojęcie humanizmu w medycynie oraz główne pojęcia, teorie i zasady etyczne służące jako ogólne ramy właściwego interpretowania i analizowania zagadnień moralno-medycznych;
-D.W16. prawa pacjenta oraz pojęcie dobra pacjenta;
+– 16 – D.W16. prawa pacjenta oraz pojęcie dobra pacjenta;
 D.W17. filozofię opieki paliatywnej i jej znaczenie w kontekście opieki nad pacjentem na wszystkich etapach poważnej choroby i godnej śmierci;
 D.W18. historię medycyny, cechy medycyny nowożytnej oraz najważniejsze odkrycia i osiągnięcia czołowych przedstawicieli medycyny polskiej i światowej;
 D.W19. podstawy medycyny opartej na dowodach;
@@ -234,9 +238,9 @@ D.U7. rozwijać i udoskonalać samoświadomość, zdolność do samorefleksji i 
 D.U8. rozpoznawać własne emocje i kierować nimi w relacjach z innymi osobami w celu efektywnego wykonywania pracy mimo własnych reakcji emocjonalnych;
 D.U9. opisywać i krytycznie oceniać własne zachowanie oraz sposób komunikowania się, uwzględniając możliwość alternatywnego zachowania;
 D.U10. stosować adekwatnie do sytuacji pytania otwarte, zamknięte, parafrazę, klaryfikację, podsumowania wewnętrzne i końcowe, sygnalizowanie, aktywne słuchanie (np. wychwytywanie i rozpoznawanie sygnałów wysyłanych przez rozmówcę, techniki werbalne i niewerbalne) i facylitacje (zachęcanie rozmówcy do wypowiedzi);
-D.U11. dostosować sposób komunikacji werbalnej do potrzeb pacjenta, wyrażając się w sposób zrozumiały i unikając żargonu medycznego;
+– 17 – D.U11. dostosować sposób komunikacji werbalnej do potrzeb pacjenta, wyrażając się w sposób zrozumiały i unikając żargonu medycznego;
 D.U12. rozpoznawać i analizować sytuacje trudne i wyzwania związane z komunikowaniem się, w tym płacz, silne emocje, lęk, przerywanie wypowiedzi, kwestie kłopotliwe i drażliwe, milczenie, wycofanie, zachowania agresywne i roszczeniowe, oraz radzić sobie z nimi w sposób konstruktywny;
-D.U13. nawiązać z pacjentem i osobą towarzyszącą pacjentowi kontakt służący budowaniu właściwej relacji (np. Model 4 nawyków 4 Habits Model: Zainwestuj w początek (Invest in the beginning), Wykaż empatię (Demonstrate empathy), Rozpoznaj perspektywę pacjenta (Elicit the patient’s perspective), Zainwestuj w koniec (Invest in the end));
+D.U13. nawiązać z pacjentem i osobą towarzyszącą pacjentowi kontakt służący budowaniu właściwej relacji (np. Model 4 nawyków – 4 Habits Model: Zainwestuj w początek (Invest in the beginning), Wykaż empatię (Demonstrate empathy), Rozpoznaj perspektywę pacjenta (Elicit the patient’s perspective), Zainwestuj w koniec (Invest in the end));
 D.U14. spojrzeć na sytuację z perspektywy pacjenta, budując odpowiedni kontekst rozmowy i używając metody elicytacji, a następnie uwzględnić ją w budowaniu komunikatów werbalnych.
 E. NAUKI KLINICZNE NIEZABIEGOWE W zakresie wiedzy absolwent zna i rozumie: E.W1. zasady karmienia naturalnego, żywienia dziecka zdrowego i zapobiegania otyłości oraz modyfikacje żywieniowe wynikające z chorób;
 E.W2. zasady profilaktyki chorób występujących u dzieci, w tym badania przesiewowe, badania bilansowe i szczepienia ochronne;
@@ -244,6 +248,7 @@ E.W3. uwarunkowania środowiskowe i epidemiologiczne, przyczyny, objawy, zasady 
 1) krzywicy, tężyczki, zaburzeń gospodarki wodno-elektrolitowej i kwasowo-zasadowej;
 2) wad serca, zapalenia mięśnia sercowego, wsierdzia i osierdzia, kardiomiopatii, zaburzeń rytmu serca, niewydolności serca, nadciśnienia tętniczego, nadciśnienia płucnego, omdleń;
 3) chorób układu oddechowego oraz alergii, w tym wad wrodzonych układu oddechowego, rozstrzeni oskrzeli, zakażeń układu oddechowego, gruźlicy, mukowiscydozy, astmy, alergicznego nieżytu nosa, pokrzywki, atopowego zapalenia skóry, wstrząsu anafilaktycznego, obrzęku naczynioworuchowego;
+– 18 –
 4) niedokrwistości, skaz krwotocznych, stanów niewydolności szpiku, chorób nowotworowych wieku dziecięcego, w tym guzów litych typowych dla wieku dziecięcego, pierwotnych i wtórnych niedoborów odporności;
 5) ostrych i przewlekłych bólów brzucha, wymiotów, biegunek, zaparć, krwawień z przewodu pokarmowego, choroby wrzodowej, nieswoistych chorób jelit, chorób trzustki, cholestaz, chorób wątroby, alergii pokarmowych, wad wrodzonych przewodu pokarmowego;
 6) ostrego uszkodzenia nerek, przewlekłej choroby nerek, zakażeń układu moczowego, zaburzeń oddawania moczu, wad wrodzonych układu moczowego, choroby refluksowej pęcherzowo-moczowodowej, kamicy nerkowej, chorób kłębuszków nerkowych, chorób cewkowo-śródmiąższowych (tubulopatie, kwasice cewkowe), chorób nerek genetycznie uwarunkowanych, nadciśnienia nerkopochodnego;
@@ -256,12 +261,14 @@ E.W5. zagadnienia upośledzenia umysłowego, zaburzeń zachowania, psychoz, uzal
 E.W6. podstawowe sposoby diagnostyki i terapii płodu;
 E.W7. uwarunkowania środowiskowe i epidemiologiczne, przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w przypadku najczęstszych chorób internistycznych występujących u dorosłych oraz ich powikłań:
 1) chorób układu krążenia, w tym choroby niedokrwiennej serca, wad serca, chorób wsierdzia, mięśnia serca, osierdzia, niewydolności serca (ostrej i przewlekłej), chorób naczyń tętniczych i żylnych, nadciśnienia tętniczego (pierwotnego i wtórnego), nadciśnienia płucnego;
+– 19 –
 2) chorób układu oddechowego, w tym chorób dróg oddechowych, przewlekłej obturacyjnej choroby płuc, astmy, rozstrzeni oskrzeli, mukowiscydozy, zakażeń układu oddechowego, gruźlicy, chorób śródmiąższowych płuc, opłucnej, śródpiersia, obturacyjnego i centralnego bezdechu sennego, niewydolności oddechowej (ostrej i przewlekłej), nowotworów układu oddechowego;
 3) chorób układu pokarmowego, w tym chorób jamy ustnej, przełyku, żołądka i dwunastnicy, jelit, trzustki, wątroby, dróg żółciowych i pęcherzyka żółciowego, nowotworów układu pokarmowego;
 4) chorób układu wydzielania wewnętrznego, w tym chorób podwzgórza i przysadki, tarczycy, przytarczyc, kory i rdzenia nadnerczy, jajników i jąder, oraz guzów neuroendokrynnych, zespołów wielogruczołowych, różnych typów cukrzycy, zespołu metabolicznego, otyłości, dyslipidemii i hipoglikemii, nowotworów jajników, jąder i tarczycy, nowotworów neuroendokrynnych;
-5) chorób nerek i dróg moczowych, w tym ostrego uszkodzenia nerek i przewlekłej choroby nerek we wszystkich stadiach oraz ich powikłań, chorób kłębuszków nerkowych (pierwotnych i wtórnych, w tym nefropatii cukrzycowej i chorób układowych) i chorób śródmiąższowych nerek, nadciśnienia nerkopochodnego, torbieli nerek, kamicy nerkowej, zakażeń układu moczowego (górnego i dolnego odcinka), chorób nerek w okresie ciąży, nowotworów układu moczowego nowotworów nerek, pęcherza moczowego, gruczołu krokowego;
+5) chorób nerek i dróg moczowych, w tym ostrego uszkodzenia nerek i przewlekłej choroby nerek we wszystkich stadiach oraz ich powikłań, chorób kłębuszków nerkowych (pierwotnych i wtórnych, w tym nefropatii cukrzycowej i chorób układowych) i chorób śródmiąższowych nerek, nadciśnienia nerkopochodnego, torbieli nerek, kamicy nerkowej, zakażeń układu moczowego (górnego i dolnego odcinka), chorób nerek w okresie ciąży, nowotworów układu moczowego – nowotworów nerek, pęcherza moczowego, gruczołu krokowego;
 6) chorób układu krwiotwórczego, w tym aplazji szpiku, niedokrwistości, granulocytopenii i agranulocytozy, małopłytkowości, białaczek ostrych i przewlekłych, szpiczaków, nowotworów mielo- i limfoproliferacyjnych, zespołów mielodysplastycznych, skaz krwotocznych, trombofilii, zaburzeń krwi w chorobach innych narządów;
 7) chorób reumatycznych, w tym chorób układowych tkanki łącznej (reumatoidalnego zapalenia stawów, wczesnego zapalenia stawów, tocznia rumieniowatego układowego, zespołu Sjögrena, sarkoidozy, twardziny układowej, idiopatycznych miopatii zapalnych), spondyloartropatii, krystalopatii, rumienia guzowatego, zapaleń stawów związanych z czynnikami infekcyjnymi, zapaleń naczyń oraz niezapalnych chorób stawów i kości (choroby zwyrodnieniowej, reumatyzmu tkanek miękkich, osteoporozy, fibromialgii), mięsaków tkanek miękkich i kości;
+– 20 –
 8) chorób alergicznych, w tym anafilaksji i wstrząsu anafilaktycznego oraz obrzęku naczynioruchowego;
 9) zaburzeń wodno-elektrolitowych i kwasowo-zasadowych (stanów odwodnienia, stanów przewodnienia, zaburzeń gospodarki elektrolitowej, kwasicy i zasadowicy);
 E.W8. zasady farmakoterapii u pacjentów z niewydolnością nerek i leczenia nerkozastępczego;
@@ -283,7 +290,7 @@ E.W16. uwarunkowania środowiskowe i epidemiologiczne, przyczyny, objawy, zasady
 8) chorób układu nerwowo-mięśniowego, w szczególności stwardnienia zanikowego bocznego, rwy kulszowej, neuropatii uciskowych;
 9) urazów czaszkowo-mózgowych, w szczególności wstrząśnienia mózgu;
 10) nowotworów;
-E.W17. symptomatologię ogólną zaburzeń psychicznych i zasady ich klasyfikacji według głównych systemów klasyfikacyjnych;
+– 21 – E.W17. symptomatologię ogólną zaburzeń psychicznych i zasady ich klasyfikacji według głównych systemów klasyfikacyjnych;
 E.W18. uwarunkowania środowiskowe i epidemiologiczne, przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w przypadku najczęstszych chorób psychiatrycznych oraz ich powikłań:
 1) schizofrenii;
 2) zaburzeń afektywnych;
@@ -305,6 +312,7 @@ E.W24. zagadnienia z zakresu onkologii, w tym:
 4) możliwości i ograniczenia współczesnego leczenia nowotworów (metody chirurgiczne, radioterapia i metody systemowe, w tym immunoterapia), wskazania do terapii komórkowych i genowych oraz leczenia celowanego i spersonalizowanego;
 5) powikłania wczesne i odległe leczenia onkologicznego;
 6) rolę leczenia wspomagającego, w tym żywieniowego;
+– 22 –
 7) zasady organizacji opieki nad pacjentem onkologicznym, w tym poradnictwo genetyczne i opiekę wielodyscyplinarną;
 8) praktyczne aspekty statystyki w onkologii, w tym zasady interpretacji wyników badań klinicznych;
 9) najważniejsze skale i klasyfikacje stosowane w onkologii;
@@ -323,6 +331,7 @@ E.W31. podstawowe zagadnienia profilaktyki oraz zasady postępowania w przypadku
 E.W32. zasady postępowania w przypadku podejrzenia i wykrycia choroby zakaźnej;
 E.W33. uwarunkowania środowiskowe i epidemiologiczne, przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego oraz profilaktycznego najczęstszych chorób zakaźnych oraz ich powikłań:
 1) chorób bakteryjnych, w tym zakażeń paciorkowcowych, gronkowcowych, pneumokokowych i meningokokowych, krztuśca, gruźlicy, boreliozy i zakażeń przewodu pokarmowego;
+– 23 –
 2) chorób wirusowych, w tym zakażeń dróg oddechowych i przewodu pokarmowego, wirusowych zapaleń wątroby, zakażeń wirusami Herpesviridae, ludzkim wirusem niedoboru odporności i wirusami neurotropowymi;
 3) chorób pasożytniczych, w tym giardiozy, amebozy, toksoplazmozy, malarii, toksokarozy, włośnicy, glistnicy, tasiemczycy i owsicy;
 4) grzybic, w tym kandydozy, aspergilozy i pneumocystozy;
@@ -338,7 +347,7 @@ E.W41. wskazania do wdrożenia terapii monitorowanej;
 E.W42. wskazania do leczenia składnikami krwi oraz zasady ich podawania.
 W zakresie umiejętności absolwent potrafi: E.U1. zebrać wywiad z dorosłym, w tym osobą starszą, wykorzystując umiejętności dotyczące treści, procesu i percepcji komunikowania się, z uwzględnieniem perspektywy biomedycznej i perspektywy pacjenta;
 E.U2. zebrać wywiad z dzieckiem i jego opiekunami, wykorzystując umiejętności dotyczące treści, procesu i percepcji komunikowania się, z uwzględnieniem perspektywy biomedycznej i perspektywy pacjenta;
-E.U3. zebrać wywiad w sytuacji zagrożenia zdrowia i życia z zastosowaniem schematu SAMPLE (S Symptoms (objawy), A Allergies (alergie), M Medications (leki), P Past medical history (przebyte choroby / przeszłość medyczna), L Last meal (ostatni posiłek), E Events prior to injury/illness (zdarzenia przed wypadkiem/zachorowaniem));
+E.U3. zebrać wywiad w sytuacji zagrożenia zdrowia i życia z zastosowaniem schematu SAMPLE (S – Symptoms (objawy), A – Allergies (alergie), M – Medications (leki), P – Past medical history (przebyte choroby / przeszłość medyczna), L – Last meal (ostatni posiłek), E – Events prior to injury/illness (zdarzenia przed wypadkiem/zachorowaniem));
 E.U4. przeprowadzić ukierunkowane badanie fizykalne dorosłego w zakresie piersi i gruczołu krokowego;
 E.U5. przeprowadzić pełne i ukierunkowane badanie fizykalne dorosłego dostosowane do określonej sytuacji klinicznej, w tym badanie:
 1) ogólnointernistyczne;
@@ -360,6 +369,7 @@ E.U9. rozpoznać najczęstsze objawy choroby u dorosłych, zastosować badania d
 1) gorączka;
 2) osłabienie;
 3) utrata apetytu;
+– 25 –
 4) utrata masy ciała;
 5) wstrząs;
 6) zatrzymanie akcji serca;
@@ -395,7 +405,7 @@ E.U9. rozpoznać najczęstsze objawy choroby u dorosłych, zastosować badania d
 36) ból stawów;
 37) uraz lub oparzenie;
 38) odwodnienie i przewodnienie;
-E.U10. rozpoznać najczęstsze objawy choroby u dzieci, zastosować badania diagnostyczne i interpretować ich wyniki, przeprowadzić diagnostykę różnicową, wdrożyć terapię, monitorować efekty leczenia oraz ocenić wskazania do konsultacji specjalistycznej, w szczególności w przypadku objawów takich jak:
+– 26 – E.U10. rozpoznać najczęstsze objawy choroby u dzieci, zastosować badania diagnostyczne i interpretować ich wyniki, przeprowadzić diagnostykę różnicową, wdrożyć terapię, monitorować efekty leczenia oraz ocenić wskazania do konsultacji specjalistycznej, w szczególności w przypadku objawów takich jak:
 1) gorączka;
 2) kaszel i odkrztuszanie;
 3) duszność;
@@ -461,8 +471,8 @@ E.U31. przyjąć, wyjaśnić i analizować własną rolę i zakres odpowiedzialn
 E.U32. uzyskiwać informacje od członków zespołu z poszanowaniem ich zróżnicowanych opinii i specjalistycznych kompetencji oraz uwzględniać te informacje w planie diagnostyczno-terapeutycznym pacjenta;
 E.U33. omawiać w zespole sytuację pacjenta z wyłączeniem subiektywnych ocen, z poszanowaniem godności pacjenta;
 E.U34. stosować następujące protokoły (np. w trakcie przekazywania opieki nad pacjentem, zlecania konsultacji pacjenta lub jej udzielania):
-1) ATMIST (A (Age wiek), T (Time of injury czas powstania urazu), M (Mechanism of injury mechanizm urazu), I (Injury suspected podejrzewane skutki urazu), S (Symptoms/Signs objawy), T (Treatment/Time leczenie i czas dotarcia));
-2) RSVP/ISBAR (R (Reason przyczyna, dlaczego), S (Story historia pacjenta), V (Vital signs parametry życiowe), P (Plan plan dla pacjenta)/I (Introduction wprowadzenie), S (Situation sytuacja), B (Background tło), A (Assessment ocena), R (Recommendation rekomendacja)).
+1) ATMIST (A (Age – wiek), T (Time of injury – czas powstania urazu), M (Mechanism of injury – mechanizm urazu), I (Injury suspected – podejrzewane skutki urazu), S (Symptoms/Signs – objawy), T (Treatment/Time – leczenie i czas dotarcia));
+2) RSVP/ISBAR (R (Reason – przyczyna, dlaczego), S (Story – historia pacjenta), V (Vital signs – parametry życiowe), P (Plan – plan dla pacjenta)/I (Introduction – wprowadzenie), S (Situation – sytuacja), B (Background – tło), A (Assessment – ocena), R (Recommendation – rekomendacja)).
 F. NAUKI KLINICZNE ZABIEGOWE W zakresie wiedzy absolwent zna i rozumie: F.W1. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w przypadku najczęstszych chorób wymagających leczenia zabiegowego u dorosłych:
 1) ostrych i przewlekłych chorób jamy brzusznej;
 2) chorób klatki piersiowej;
@@ -474,7 +484,7 @@ F.W3. podstawowe techniki zabiegowe klasyczne i małoinwazyjne;
 F.W4. zasady kwalifikowania do podstawowych zabiegów operacyjnych i inwazyjnych procedur diagnostyczno-leczniczych oraz najczęstsze powikłania;
 F.W5. najczęstsze powikłania nowoczesnego leczenia onkologicznego;
 F.W6. zasady bezpieczeństwa okołooperacyjnego, przygotowania pacjenta do operacji, wykonania znieczulenia ogólnego i miejscowego oraz kontrolowanej sedacji;
-F.W7. zasady leczenia pooperacyjnego z terapią przeciwbólową i monitorowaniem pooperacyjnym;
+– 30 – F.W7. zasady leczenia pooperacyjnego z terapią przeciwbólową i monitorowaniem pooperacyjnym;
 F.W8. wskazania i zasady stosowania intensywnej terapii;
 F.W9. wytyczne w zakresie resuscytacji krążeniowo-oddechowej noworodków, dzieci i dorosłych;
 F.W10. najczęściej występujące stany zagrożenia życia u dzieci i dorosłych oraz zasady postępowania w tych stanach, w szczególności w:
@@ -541,7 +551,7 @@ F.U6. doraźnie unieruchomić kończynę, w tym wybrać rodzaj unieruchomienia w
 F.U7. unieruchomić kręgosłup szyjny i piersiowo-lędźwiowy po urazie;
 F.U8. zaopatrzyć krwawienie zewnętrzne;
 F.U9. prowadzić podstawowe zabiegi resuscytacyjne (Basic Life Support, BLS) u noworodków i dzieci zgodnie z wytycznymi Europejskiej Rady Resuscytacji (European Resuscitation Council, ERC);
-F.U10. prowadzić zaawansowane czynności resuscytacyjne u noworodków (Newborn Life Support, NLS) i dzieci (Pediatric Advanced Life Support, PALS) zgodnie z wytycznymi ERC;
+– 33 – F.U10. prowadzić zaawansowane czynności resuscytacyjne u noworodków (Newborn Life Support, NLS) i dzieci (Pediatric Advanced Life Support, PALS) zgodnie z wytycznymi ERC;
 F.U11. prowadzić podstawowe zabiegi resuscytacyjne BLS u dorosłych, w tym z użyciem automatycznego defibrylatora zewnętrznego, zgodnie z wytycznymi ERC;
 F.U12. prowadzić zaawansowane czynności resuscytacyjne (Advanced Life Support, ALS) u dorosłych zgodnie z wytycznymi ERC;
 F.U13. zastosować prawidłowe postępowanie medyczne w przypadku ciąży i połogu fizjologicznego zgodnie ze standardami opieki okołoporodowej;
@@ -553,9 +563,9 @@ F.U18. zastosować prawidłowe postępowanie medyczne w przypadku nieprawidłowe
 F.U19. zastosować prawidłowe postępowanie medyczne w zakresie regulacji urodzeń;
 F.U20. rozpoznawać stany okulistyczne wymagające pilnej pomocy specjalistycznej i udzielić wstępnej pomocy przedszpitalnej w przypadkach urazów fizycznych i chemicznych oka;
 F.U21. przekazywać niepomyślne wiadomości z wykorzystaniem wybranego protokołu, np.:
-1) SPIKES: S (Setting właściwe otoczenie), P (Perception poznanie stanu wiedzy współrozmówcy), I (Invitation/Information zaproszenie do rozmowy / informowanie), K (Knowledge przekazanie niepomyślnej informacji), E (Emotions and empathy emocje i empatia), S (Strategy and summary plan działania i podsumowanie),
-2) EMPATIA: E (Emocje), M (Miejsce), P (Perspektywa pacjenta), A (Adekwatny język), T (Treść wiadomości), I (Informacje dodatkowe), A (Adnotacja w dokumentacji),
-3) ABCDE: A (Advance preparation przygotowanie do rozmowy), B (Build therapeutic environment nawiązanie dobrego kontaktu z rodziną), C (Communicate well przekazanie złej wiadomości, uwzględniając zasady komunikacji), D (Dealing with reactions radzenie sobie z trudnymi emocjami), E (Encourage and validate emotions prawo do okazywania emocji, przekierowanie ich i adekwatne reagowanie, dążące do zakończenia spotkania) w tym wspierać rodzinę w procesie godnego umierania pacjenta i informować rodzinę o śmierci pacjenta;
+1) SPIKES: S (Setting – właściwe otoczenie), P (Perception – poznanie stanu wiedzy współrozmówcy), I (Invitation/Information – zaproszenie do rozmowy / informowanie), K (Knowledge – przekazanie niepomyślnej informacji), E (Emotions and empathy – emocje i empatia), S (Strategy and summary – plan działania i podsumowanie),
+2) EMPATIA: E (Emocje), M (Miejsce), P (Perspektywa pacjenta), A (Adekwatny język), T (Treść wiadomości), I (Informacje dodatkowe), A (Adnotacja w dokumentacji), – 34 –
+3) ABCDE: A (Advance preparation – przygotowanie do rozmowy), B (Build therapeutic environment – nawiązanie dobrego kontaktu z rodziną), C (Communicate well – przekazanie złej wiadomości, uwzględniając zasady komunikacji), D (Dealing with reactions – radzenie sobie z trudnymi emocjami), E (Encourage and validate emotions – prawo do okazywania emocji, przekierowanie ich i adekwatne reagowanie, dążące do zakończenia spotkania) – w tym wspierać rodzinę w procesie godnego umierania pacjenta i informować rodzinę o śmierci pacjenta;
 F.U22. uzyskiwać informacje od członków zespołu z poszanowaniem ich zróżnicowanych opinii i specjalistycznych kompetencji oraz uwzględniać te informacje w planie diagnostyczno-terapeutycznym pacjenta, a także stosować protokoły ATMIST, RSVP/ISBAR.
 G. PRAWNE I ORGANIZACYJNE ASPEKTY MEDYCYNY W zakresie wiedzy absolwent zna i rozumie: G.W1. metody oceny stanu zdrowia jednostki i populacji, mierniki i zasady monitorowania stanu zdrowia populacji, systemy klasyfikacji chorób i procedur medycznych;
 G.W2. uwarunkowania chorób, sposoby identyfikacji i badania czynników ryzyka chorób, wady i zalety badań epidemiologicznych oraz zasady wnioskowania przyczynowo-skutkowego w medycynie;
@@ -563,7 +573,7 @@ G.W3. epidemiologię chorób zakaźnych, w tym związanych z opieką zdrowotną,
 G.W4. pojęcie oraz funkcje zdrowia publicznego, pojęcie, zadania i metody promocji zdrowia, pojęcie jakości w ochronie zdrowia i czynniki na nią wpływające, strukturę i organizację systemu ochrony zdrowia na poziomie krajowym i światowym, a także wpływ uwarunkowań ekonomicznych na możliwości ochrony zdrowia;
 G.W5. regulacje prawne dotyczące praw pacjenta i Rzecznika Praw Pacjenta oraz istotne na gruncie działalności leczniczej regulacje prawne z zakresu prawa pracy, podstaw wykonywania zawodu lekarza i funkcjonowania samorządu lekarskiego;
 G.W6. regulacje prawne dotyczące organizacji i finansowania systemu ochrony zdrowia, udzielania świadczeń zdrowotnych finansowanych ze środków publicznych oraz zasady organizacji podmiotów leczniczych, zasady funkcjonowania narzędzi i usług informacyjnych i komunikacyjnych w ochronie zdrowia (e-zdrowie);
-G.W7. obowiązki prawne lekarza w zakresie stwierdzenia zgonu pacjenta;
+– 35 – G.W7. obowiązki prawne lekarza w zakresie stwierdzenia zgonu pacjenta;
 G.W8. regulacje prawne dotyczące eksperymentu medycznego oraz prowadzenia badań naukowych z udziałem ludzi;
 G.W9. regulacje prawne dotyczące przeszczepów, sztucznej prokreacji, przerywania ciąży, zabiegów estetycznych, opieki paliatywnej, uporczywej terapii, chorób psychicznych, chorób zakaźnych;
 G.W10. regulacje prawne dotyczące obowiązków lekarza w przypadku podejrzenia przemocy w rodzinie;
@@ -590,7 +600,7 @@ G.U8. postępować w sposób umożliwiający zapobieganie zdarzeniom niepożąda
 G.U9. pobrać krew do badań toksykologicznych i zabezpieczyć materiał do badań hemogenetycznych;
 G.U10. organizować środowisko pracy w sposób zapewniający bezpieczeństwo pacjenta i innych osób przy uwzględnieniu wpływu czynników ludzkich i zasad ergonomii;
 G.U11. ustalić możliwość zastosowania nowych sposobów leczenia w odniesieniu do danego pacjenta w oparciu o aktualne wyniki badań klinicznych.
-H. PRAKTYCZNE NAUCZANIE KLINICZNE NA VI ROKU STUDIÓW W zakresie umiejętności absolwent potrafi samodzielnie: H.U1. wykonać pomiar i ocenić podstawowe funkcje życiowe (temperatura, tętno, ciśnienie tętnicze krwi) oraz monitorować je z wykorzystaniem kardiomonitora i pulsoksymetru;
+– 37 – H. PRAKTYCZNE NAUCZANIE KLINICZNE NA VI ROKU STUDIÓW W zakresie umiejętności absolwent potrafi samodzielnie: H.U1. wykonać pomiar i ocenić podstawowe funkcje życiowe (temperatura, tętno, ciśnienie tętnicze krwi) oraz monitorować je z wykorzystaniem kardiomonitora i pulsoksymetru;
 H.U2. wykonywać bezprzyrządowe i przyrządowe udrażnianie dróg oddechowych;
 H.U3. wykonać pomiar szczytowego przepływu wydechowego;
 H.U4. pobrać i zabezpieczyć krew i inny materiał biologiczny do badań laboratoryjnych, w tym mikrobiologicznych;
@@ -612,7 +622,7 @@ H.U19. zaopatrzyć krwawienie zewnętrzne;
 H.U20. doraźnie unieruchomić kończynę, w tym wybrać rodzaj unieruchomienia w typowych sytuacjach klinicznych oraz skontrolować poprawność ukrwienia kończyny po założeniu opatrunku unieruchamiającego;
 H.U21. unieruchomić kręgosłup szyjny i piersiowo-lędźwiowy po urazie;
 H.U22. wykonać tamponadę przednią nosa;
-H.U23. wykonać badanie USG w stanach zagrożenia życia według protokołu FAST lub jego odpowiednika i zinterpretować jego wynik;
+– 38 – H.U23. wykonać badanie USG w stanach zagrożenia życia według protokołu FAST lub jego odpowiednika i zinterpretować jego wynik;
 H.U24. zastosować środki ochrony indywidualnej adekwatne do sytuacji klinicznej;
 H.U25. zebrać wywiad z dorosłym, w tym osobą starszą, wykorzystując umiejętności dotyczące treści, procesu i percepcji komunikowania się, z uwzględnieniem perspektywy biomedycznej i perspektywy pacjenta;
 H.U26. zebrać wywiad z dzieckiem i jego opiekunami, wykorzystując umiejętności dotyczące treści, procesu i percepcji komunikowania się, z uwzględnieniem perspektywy biomedycznej i perspektywy pacjenta;
@@ -629,7 +639,7 @@ H.U36. wykonywać tlenoterapię przy użyciu metod nieinwazyjnych;
 H.U37. prowadzić podstawowe zabiegi resuscytacyjne (BLS) u noworodków i dzieci zgodnie z wytycznymi ERC;
 H.U38. prowadzić zaawansowane czynności resuscytacyjne u noworodków (NLS) i dzieci (PALS) zgodnie z wytycznymi ERC;
 H.U39. prowadzić podstawowe zabiegi resuscytacyjne (BLS) u dorosłych, w tym z użyciem automatycznego defibrylatora zewnętrznego, zgodnie z wytycznymi ERC;
-H.U40. prowadzić zaawansowane czynności resuscytacyjne (ALS) u dorosłych zgodnie z wytycznymi ERC;
+– 39 – H.U40. prowadzić zaawansowane czynności resuscytacyjne (ALS) u dorosłych zgodnie z wytycznymi ERC;
 H.U41. rozpoznawać najczęściej występujące stany zagrożenia życia, w tym z wykorzystaniem różnych technik obrazowania;
 H.U42. rozpoznawać stany okulistyczne wymagające pilnej pomocy specjalistycznej i udzielić wstępnej pomocy przedszpitalnej w przypadkach urazów fizycznych i chemicznych oka;
 H.U43. dokonać detekcji i interpretacji czynności serca płodu;
@@ -641,14 +651,16 @@ IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
 4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
 5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie profesjonalnego komunikowania się z pacjentem w grupach zajęć D, E i F odbywa się w formie egzaminu praktycznego przeprowadzanego w warunkach symulowanych, w tym z udziałem pacjenta symulowanego, lub w warunkach klinicznych, z użyciem kart obserwacji lub list kontrolnych.
 6. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w grupach zajęć E, F i H wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w czasie tradycyjnego egzaminu klinicznego i egzaminu standaryzowanego (Objective Structured Clinical Examination, OSCE). Egzamin OSCE jest wymagany jako forma weryfikacji efektów uczenia się w kategorii umiejętności osiągniętych w trakcie całego okresu studiów i odbywa się na VI roku studiów.
-STANDARD KSZTAŁCENIA PRZYGOTOWUJĄCEGO DO WYKONYWANIA ZAWODU LEKARZA DENTYSTY I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
+## Załącznik nr 2 — STANDARD KSZTAŁCENIA PRZYGOTOWUJĄCEGO DO WYKONYWANIA ZAWODU LEKARZA DENTYSTY I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
 1. WYMAGANIA OGÓLNE
 1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu lekarza dentysty prowadzonego na studiach na kierunku lekarsko-dentystycznym, zwanych dalej „studiami”.
 1.2. Studia są jednolitymi studiami magisterskimi.
 1.3. Studia trwają 10 semestrów.
 1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 5000.
 1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 300.
-1.6. Kierunek lekarsko-dentystyczny jest przyporządkowany do dyscypliny naukowej nauki medyczne jako dyscypliny wiodącej.
+1.6. Kierunek lekarsko-dentystyczny jest przyporządkowany do dyscypliny naukowej – nauki medyczne jako dyscypliny wiodącej.
 1.7. Studia mają profil ogólnoakademicki.
 2. ZAJĘCIA I GRUPY ZAJĘĆ
 2.1. Proces kształcenia jest realizowany w postaci:
@@ -656,22 +668,26 @@ STANDARD KSZTAŁCENIA PRZYGOTOWUJĄCEGO DO WYKONYWANIA ZAWODU LEKARZA DENTYSTY I
 2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów, w szczególności nauk klinicznych i praktycznego nauczania klinicznego;
 3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
 2.2. Program studiów obejmuje zajęcia lub grupy zajęć umożliwiające osiągnięcie efektów uczenia się związanych ze współpracą w zespole oraz z komunikowaniem się.
+2 –
 2.3. Program studiów obejmuje zajęcia lub grupy zajęć związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów, i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności.
 3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się Liczba Liczba szczegółowe efekty uczenia się godzin punktów ECTS A. Nauki morfologiczne 225 18 B. Naukowe podstawy medycyny 300 22 C. Nauki przedkliniczne 325 24 D. Nauki behawioralne i społeczne z elementami 120 8 profesjonalizmu i komunikacji, z uwzględnieniem idei humanizmu w medycynie E. Nauki kliniczne niezabiegowe 565 32 F. Nauki kliniczne kierunkowe zabiegowe 1520 85 G. Prawne i organizacyjne aspekty medycyny 65 5 H. Praktyczne nauczanie kliniczne na V roku studiów 900 60 I. Praktyki zawodowe 480 16 Razem 4500 270
 3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 500 godzin zajęć (30 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające wiedzę, umiejętności lub kompetencje społeczne, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 2% liczby punktów ECTS koniecznej do ukończenia studiów.
 3.2. Zajęcia realizowane w symulowanych warunkach klinicznych stanowią nie mniej niż 5% i nie więcej niż 30% godzin zajęć umożliwiających osiągnięcie efektów uczenia się w grupach zajęć E i F.
 3.3. Nie mniej niż 70% godzin zajęć umożliwiających osiągnięcie efektów uczenia się w grupie zajęć F odbywa się w formie ćwiczeń do IV roku studiów włącznie.
+3 –
 3.4. Na V roku studiów mogą być realizowane zajęcia uwzględniające treści kształcenia związane z organizacją i zarządzaniem gabinetem stomatologicznym oraz przepisami prawa w zakresie medycyny.
 3.5. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
 3.6. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 25% liczby punktów ECTS koniecznej do ukończenia studiów.
 3.7. Łączna liczba godzin zajęć umożliwiających osiągnięcie efektów uczenia się w zakresie komunikowania się w grupach zajęć D, E i F wynosi 120. Zajęcia te są prowadzone przez cały okres studiów.
-3.8. Zajęcia umożliwiające osiągnięcie efektów uczenia się w zakresie umiejętności komunikowania się prowadzi się w taki sposób, aby każdemu studentowi zapewnić możliwość wykonania i powtórzenia czynności umożliwiających osiągnięcie tych efektów, a osobie prowadzącej zajęcia obserwacje i udzielanie studentowi informacji zwrotnych. Zajęcia te prowadzi się w warunkach symulowanych, w tym z udziałem pacjentów symulowanych, lub w warunkach klinicznych.
+3.8. Zajęcia umożliwiające osiągnięcie efektów uczenia się w zakresie umiejętności komunikowania się prowadzi się w taki sposób, aby każdemu studentowi zapewnić możliwość wykonania i powtórzenia czynności umożliwiających osiągnięcie tych efektów, a osobie prowadzącej zajęcia – obserwacje i udzielanie studentowi informacji zwrotnych. Zajęcia te prowadzi się w warunkach symulowanych, w tym z udziałem pacjentów symulowanych, lub w warunkach klinicznych.
 3.9. Zajęcia umożliwiające osiągnięcie efektów uczenia się w zakresie umiejętności komunikowania się mogą być prowadzone dla grup studentów co najmniej dwóch kierunków studiów objętych standardami kształcenia określonymi w załącznikach do rozporządzenia, a także przez wdrażanie innowacyjnych metod rozwijania kreatywności i samodzielnego myślenia.
 4. PRAKTYCZNE NAUCZANIE KLINICZNE
 4.1. Praktyczne nauczanie kliniczne obejmuje zajęcia umożliwiające osiągnięcie efektów uczenia się w kategorii umiejętności w grupach zajęć E, F i H.
 4.2. Zajęcia umożliwiające osiągnięcie efektów uczenia się w kategorii umiejętności w grupach zajęć E i F są realizowane w formie ćwiczeń.
+4 –
 4.3. Zajęcia umożliwiające osiągnięcie efektów uczenia się w grupie zajęć H służą doskonaleniu w warunkach klinicznych efektów uczenia się osiągniętych w kategorii umiejętności w grupach zajęć E i F oraz są realizowane na V roku studiów w formie ćwiczeń, w wymiarze: Liczba Liczba Zakres praktycznego nauczania klinicznego godzin punktów ECTS Stomatologia zachowawcza z endodoncją 140 10 Protetyka stomatologiczna 140 10 Chirurgia stomatologiczna 110 7 Stomatologia dziecięca 100 6 Choroby przyzębia i błony śluzowej jamy ustnej 95 6 Ortodoncja 90 6 Chirurgia szczękowo-twarzowa 60 4 Radiologia stomatologiczna 15 1 Stomatologia zintegrowana wieku dorosłego 65 4 Gerostomatologia 45 3 Stomatologia zintegrowana wieku rozwojowego 40 3 Razem 900 60 Zajęcia umożliwiające osiągnięcie efektów uczenia się w grupie zajęć H mogą być realizowane w symulowanych warunkach klinicznych, jednak w wymiarze nie większym niż 10% godzin tych zajęć.
 4.4. Zajęcia umożliwiające osiągnięcie efektów uczenia się w grupie zajęć H są realizowane w grupach liczących nie więcej niż 5 studentów.
+5 –
 5. PRAKTYKI ZAWODOWE
 5.1. Praktyki zawodowe obejmują doskonalenie umiejętności zawodowych i są realizowane w wymiarze: Liczba Liczba Zakres praktyk zawodowych godzin punktów ECTS Organizacja ochrony zdrowia 60 2 Chirurgia ogólna, choroby wewnętrzne lub chirurgia 60 2 szczękowo-twarzowa Asysta lekarzowi dentyście 120 4 Praktyka lekarsko-dentystyczna w gabinecie stomatologicznym 240 8 Razem 480 16
 5.2. Praktyki zawodowe są realizowane w okresie wakacji. Praktyki zawodowe umożliwiają osiągnięcie wybranych efektów uczenia się. Program praktyk zawodowych, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
@@ -679,17 +695,18 @@ STANDARD KSZTAŁCENIA PRZYGOTOWUJĄCEGO DO WYKONYWANIA ZAWODU LEKARZA DENTYSTY I
 6.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się, w skład której wchodzą w szczególności prosektorium i pracownia mikroskopowa i która umożliwia prowadzenie zajęć we wszystkich specjalnościach klinicznych. Zajęcia są prowadzone w oparciu o infrastrukturę uczelni oraz infrastrukturę podmiotów leczniczych, z którymi uczelnie zawarły umowy lub porozumienia, które ze względu na swoją specyfikę oraz liczbę udzielanych przez nie świadczeń zdrowotnych zapewniają studentom możliwość osiągnięcia efektów uczenia się przewidzianych w programie studiów.
 6.2. Zajęcia z zakresu nauk przedklinicznych (grupa zajęć C) umożliwiające osiągnięcie efektów uczenia się w kategorii umiejętności odbywają się w oparciu o infrastrukturę uczelni w symulowanych warunkach klinicznych.
 6.3. Zajęcia z zakresu nauk klinicznych (grupy zajęć E i F) umożliwiające osiągnięcie efektów uczenia się w kategorii umiejętności są prowadzone w jednostkach organizacyjnych uczelni, w których jest prowadzone leczenie pacjentów, oraz w podmiotach leczniczych lub w symulowanych warunkach klinicznych.
+6 –
 6.4. Zajęcia z zakresu praktycznego nauczania klinicznego na V roku studiów (grupa zajęć H) i praktyki zawodowe odbywają się w podmiotach leczniczych, w szczególności w klinikach i oddziałach szpitalnych, oraz mogą odbywać się w symulowanych warunkach klinicznych, jednak w wymiarze nie większym niż 10% godzin tych zajęć.
 6.5. Podmiotami leczniczymi, w których odbywają się zajęcia z zakresu praktycznego nauczania klinicznego (grupa zajęć H) i praktyki zawodowe, są:
 1) podmioty lecznicze udzielające świadczeń zdrowotnych z zakresu leczenia szpitalnego, w szczególności szpitale, których specyfika pozwala na osiągnięcie efektów uczenia się;
 2) podmioty lecznicze udzielające świadczeń zdrowotnych z zakresu ambulatoryjnej opieki specjalistycznej, podstawowej opieki zdrowotnej lub ogólnostomatologicznej.
 II. OSOBY PROWADZĄCE KSZTAŁCENIE Kształcenie umożliwiające osiągnięcie efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupach zajęć E, F i H jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających dorobek naukowy, prawo wykonywania zawodu lekarza lub lekarza dentysty oraz tytuł specjalisty lub specjalizację w dziedzinie medycyny lub stomatologii adekwatnej do prowadzonych zajęć, lub przez osoby posiadające prawo wykonywania zawodu lekarza lub lekarza dentysty, które ukończyły w trakcie szkolenia specjalizacyjnego moduł podstawowy albo ukończyły 1. rok szkolenia specjalizacyjnego w specjalizacjach jednolitych w odpowiedniej dziedzinie medycyny lub stomatologii, jeżeli uzyskały pozytywną opinię kierownika specjalizacji, a także przy współudziale innych osób posiadających dorobek naukowy lub doświadczenie kliniczne, w zakresie właściwym do prowadzonych zajęć.
 Kształcenie umożliwiające osiągnięcie efektów uczenia się w zakresie komunikowania się z pacjentem oraz współpracy i komunikowania się w zespole jest prowadzone przez nauczycieli akademickich lub inne osoby, którzy ukończyli studia, których program określał efekty uczenia się z zakresu komunikacji medycznej, lub ukończyli szkolenie z zakresu komunikacji medycznej, lub posiadają co najmniej pięcioletnie doświadczenie w nauczaniu komunikacji medycznej.
-III. EFEKTY UCZENIA SIĘ
+7 – III. EFEKTY UCZENIA SIĘ
 1. OGÓLNE EFEKTY UCZENIA SIĘ
 1.1. W zakresie wiedzy absolwent zna i rozumie:
-1) zagadnienia z zakresu medycyny i nauk przyrodniczych w podstawowym zakresie;
-2) zagadnienia z zakresu stomatologii w stopniu zaawansowanym;
+1) zagadnienia z zakresu medycyny i nauk przyrodniczych – w podstawowym zakresie;
+2) zagadnienia z zakresu stomatologii – w stopniu zaawansowanym;
 3) problematykę edukacji prozdrowotnej;
 4) zasady prowadzenia badań naukowych i upowszechniania ich wyników;
 5) organizację praktyki lekarza dentysty i zasady zarządzania w systemie ochrony zdrowia.
@@ -711,6 +728,7 @@ III. EFEKTY UCZENIA SIĘ
 5) dostrzegania i rozpoznawania własnych ograniczeń, dokonywania samooceny deficytów i potrzeb edukacyjnych;
 6) propagowania zachowań prozdrowotnych;
 7) korzystania z obiektywnych źródeł informacji;
+8 –
 8) formułowania wniosków z własnych pomiarów lub obserwacji;
 9) wdrażania zasad koleżeństwa zawodowego i współpracy w zespole, w tym z przedstawicielami innych zawodów medycznych, oraz w środowisku wielokulturowym i wielonarodowościowym;
 10) formułowania opinii dotyczących różnych aspektów działalności zawodowej;
@@ -726,7 +744,7 @@ W zakresie umiejętności absolwent potrafi: A.U1. interpretować relacje anatom
 A.U2. obsługiwać mikroskop optyczny i rozpoznawać pod mikroskopem strukturę histologiczną tkanek i narządów oraz dokonywać opisu i interpretacji budowy mikroskopowej komórek, tkanek i narządów oraz ich funkcji;
 A.U3. rozpoznawać cechy anatomiczne zębów naturalnych.
 B. NAUKOWE PODSTAWY MEDYCYNY W zakresie wiedzy absolwent zna i rozumie: B.W1. znaczenie pierwiastków głównych i śladowych w procesach zachodzących w organizmie, z uwzględnieniem ich podaży, wchłaniania i transportu;
-B.W2. znaczenie elektrolitów, układów buforowych i reakcji chemicznych w układach biologicznych;
+9 – B.W2. znaczenie elektrolitów, układów buforowych i reakcji chemicznych w układach biologicznych;
 B.W3. biochemiczne podstawy integralności organizmu ludzkiego;
 B.W4. budowę i funkcje ważnych związków chemicznych występujących w organizmie ludzkim, w szczególności właściwości, funkcje, metabolizm i energetykę reakcji białek, kwasów nukleinowych, węglowodanów, lipidów, enzymów i hormonów;
 B.W5. zasady gospodarki wapniowej i fosforanowej;
@@ -738,7 +756,7 @@ B.W10. zasady fotometrii i światłowodów oraz wykorzystania źródeł światł
 B.W11. zasady działania laserów w stomatologii;
 B.W12. podstawowe pojęcia z zakresu biologii i ekologii;
 B.W13. współzależności między organizmami w ekosystemie;
-B.W14. interakcje w układzie pasożyt żywiciel;
+B.W14. interakcje w układzie pasożyt – żywiciel;
 B.W15. wybrane zagadnienia z zakresu genetyki i biologii molekularnej;
 B.W16. kliniczne zastosowanie zasad genetyki;
 B.W17. funkcje życiowe człowieka;
@@ -749,14 +767,14 @@ B.W21. zasady metabolizmu i żywienia;
 B.W22. wartość liczbową podstawowych zmiennych fizjologicznych i zmiany tych wartości;
 B.W23. podstawowe narzędzia informatyczne i biostatystyczne wykorzystywane w medycynie, w tym medyczne bazy danych, arkusze kalkulacyjne i podstawy grafiki komputerowej;
 B.W24. podstawowe metody analizy statystycznej wykorzystywane w badaniach populacyjnych i diagnostycznych.
-W zakresie umiejętności absolwent potrafi: B.U1. interpretować zjawiska fizyczne zachodzące w narządzie żucia;
+10 – W zakresie umiejętności absolwent potrafi: B.U1. interpretować zjawiska fizyczne zachodzące w narządzie żucia;
 B.U2. wykorzystywać procesy fizyczne istotne dla pracy lekarza dentysty;
 B.U3. oceniać szkodliwość dawki promieniowania jonizującego i stosować się do zasad ochrony radiologicznej;
 B.U4. odnosić zjawiska chemiczne do procesów zachodzących w jamie ustnej;
 B.U5. określać pH roztworu i wpływ zmian pH na związki nieorganiczne i organiczne;
 B.U6. obsługiwać proste przyrządy pomiarowe i oceniać dokładność wykonywanych pomiarów;
 B.U7. wykonywać proste testy czynnościowe oceniające stan organizmu człowieka jako układu regulacji stabilnej (testy obciążeniowe i wysiłkowe) i interpretować dane liczbowe dotyczące podstawowych zmiennych fizjologicznych;
-B.U8. wykorzystywać pojęcia z zakresu biologii i ekologii w kontekście człowiek środowisko życia;
+B.U8. wykorzystywać pojęcia z zakresu biologii i ekologii w kontekście człowiek – środowisko życia;
 B.U9. stosować wiedzę z zakresu genetyki i biologii molekularnej w pracy klinicznej;
 B.U10. korzystać z baz danych, w tym internetowych, i wyszukiwać potrzebne informacje za pomocą dostępnych narzędzi;
 B.U11. krytycznie analizować piśmiennictwo medyczne, w tym w języku angielskim, i wyciągać wnioski;
@@ -767,7 +785,7 @@ C.W3. podstawy epidemiologii zakażeń wywołanych przez bakterie, wirusy, grzyb
 C.W4. gatunki bakterii, wirusów, grzybów i pasożytów, będących najczęstszymi czynnikami etiologicznymi zakażeń i zarażeń;
 C.W5. podstawy dezynfekcji, sterylizacji i postępowania aseptycznego;
 C.W6. czynniki ryzyka chorób: zewnętrzne i wewnętrzne, modyfikowalne i niemodyfikowalne;
-C.W7. budowę układu odpornościowego i jego rolę;
+11 – C.W7. budowę układu odpornościowego i jego rolę;
 C.W8. humoralne i komórkowe mechanizmy odporności wrodzonej i nabytej oraz mechanizmy reakcji nadwrażliwości i procesów autoimmunologicznych;
 C.W9. wpływ stresu oksydacyjnego na komórki i jego znaczenie w patogenezie chorób oraz w procesie starzenia się organizmu;
 C.W10. zjawisko powstawania lekooporności;
@@ -784,7 +802,7 @@ C.W20. mechanizmy działania, zasady dawkowania oraz farmakokinetykę leków;
 C.W21. wskazania oraz przeciwwskazania do stosowania leków, ich dawkowanie, działania niepożądane i toksyczne oraz interakcje między lekami;
 C.W22. zasady terapii miejscowej i ogólnej zakażeń wywoływanych przez bakterie, wirusy, grzyby i zarażeń wywołanych przez pasożyty;
 C.W23. zasady antybiotykoterapii miejscowej i ogólnej oraz rekomendacje naukowe do zapobiegania i zwalczania zakażeń, w tym stosowania antybiotyków i antyseptyków w codziennej praktyce stomatologicznej;
-C.W24. sposoby zapobiegania i zwalczania bólu u pacjentów oraz lęku i stresu w różnych sytuacjach klinicznych;
+12 – C.W24. sposoby zapobiegania i zwalczania bólu u pacjentów oraz lęku i stresu w różnych sytuacjach klinicznych;
 C.W25. farmakoterapię stosowaną w różnych stanach zagrożenia życia;
 C.W26. zasady i przepisy prawa dotyczące wystawiania recept na leki gotowe i recepturowe;
 C.W27. zasady ergonomicznej organizacji pracy w gabinecie stomatologicznym i przeprowadzania zabiegów stomatologicznych;
@@ -803,7 +821,7 @@ C.W39. podstawowe procedury kliniczne w leczeniu i profilaktyce periodontologicz
 C.W40. zasady znieczuleń miejscowych w stomatologii;
 C.W41. zasady i techniki ekstrakcji zębów;
 C.W42. podstawowe procedury kliniczne w profilaktyce ortodontycznej.
-W zakresie umiejętności absolwent potrafi: C.U1. pobrać materiał biologiczny do badania mikrobiologicznego w zależności od umiejscowienia i przebiegu zakażenia;
+13 – W zakresie umiejętności absolwent potrafi: C.U1. pobrać materiał biologiczny do badania mikrobiologicznego w zależności od umiejscowienia i przebiegu zakażenia;
 C.U2. interpretować wyniki badań mikrobiologicznych, serologicznych i antybiogramu;
 C.U3. dobierać i wykonywać testy jakościowe i ilościowe na obecność bakterii w płynach ustrojowych;
 C.U4. wyjaśnić etiopatogenezę, przedstawić obraz kliniczny, makroskopowy i mikroskopowy oraz ewolucję zmian patologicznych, a także przewidywać ich następstwa;
@@ -824,7 +842,7 @@ C.U18. wykonywać znieczulenia miejscowe i podstawowe zabiegi chirurgiczne w war
 C.U19. planować i przeprowadzać działania z zakresu promocji zdrowia i profilaktyki próchnicy;
 C.U20. planować i przeprowadzać periodontologiczne działania profilaktyczne;
 C.U21. planować działania z zakresu profilaktyki ortodontycznej.
-D. NAUKI BEHAWIORALNE I SPOŁECZNE Z ELEMENTAMI PROFESJONALIZMU I KOMUNIKACJI, Z UWZGLĘDNIENIEM IDEI HUMANIZMU W MEDYCYNIE W zakresie wiedzy absolwent zna i rozumie: D.W1. pojęcia zdrowia i choroby, wpływ środowiska społecznego (rodzina, praca, relacje społeczne) i uwarunkowań społeczno-kulturowych (pochodzenie, status społeczny, wyznanie, narodowość, grupa etniczna) na stan zdrowia pacjenta;
+14 – D. NAUKI BEHAWIORALNE I SPOŁECZNE Z ELEMENTAMI PROFESJONALIZMU I KOMUNIKACJI, Z UWZGLĘDNIENIEM IDEI HUMANIZMU W MEDYCYNIE W zakresie wiedzy absolwent zna i rozumie: D.W1. pojęcia zdrowia i choroby, wpływ środowiska społecznego (rodzina, praca, relacje społeczne) i uwarunkowań społeczno-kulturowych (pochodzenie, status społeczny, wyznanie, narodowość, grupa etniczna) na stan zdrowia pacjenta;
 D.W2. zachowania człowieka sprzyjające utrzymaniu zdrowia, zasady promocji zdrowia, profilaktyki oraz prewencji pierwotnej i wtórnej;
 D.W3. formy przemocy, w tym przemocy w rodzinie, społeczne uwarunkowania różnych form przemocy oraz rolę lekarza dentysty w jej rozpoznawaniu, a także zasady postępowania w przypadku podejrzenia przemocy, z uwzględnieniem procedury „Niebieskiej Karty”;
 D.W4. postawy społeczne wobec choroby, niepełnosprawności i starości oraz specyficzne oddziaływanie stereotypów, uprzedzeń i dyskryminacji;
@@ -836,10 +854,10 @@ D.W9. zasady motywowania pacjenta do zachowań prozdrowotnych i zachowania czło
 D.W10. pojęcia bezpieczeństwa pacjenta i kultury bezpieczeństwa oraz ich aspekty: organizacyjny, komunikacyjny i zarządczy;
 D.W11. pojęcie stresu, w tym eustresu i dystresu, oraz wpływ stresu na etiopatogenezę i przebieg chorób somatycznych i zaburzeń psychicznych oraz mechanizmy radzenia sobie ze stresem;
 D.W12. objawy zespołu wypalenia zawodowego lekarza dentysty oraz metody zapobiegania jego powstaniu;
-D.W13. problemowe używanie substancji psychoaktywnych i uzależnienia od nich oraz uzależnienia behawioralne, metody przeprowadzania krótkich interwencji wobec osób używających problemowo substancji psychoaktywnych, mechanizmy powstawania uzależnień oraz cele i sposoby leczenia osób uzależnionych oraz skuteczne strategie profilaktyczne, zaburzenia psychosomatyczne występujące u osób będących w bliskiej relacji z osobą uzależnioną oraz sposoby postępowania terapeutycznego;
+15 – D.W13. problemowe używanie substancji psychoaktywnych i uzależnienia od nich oraz uzależnienia behawioralne, metody przeprowadzania krótkich interwencji wobec osób używających problemowo substancji psychoaktywnych, mechanizmy powstawania uzależnień oraz cele i sposoby leczenia osób uzależnionych oraz skuteczne strategie profilaktyczne, zaburzenia psychosomatyczne występujące u osób będących w bliskiej relacji z osobą uzależnioną oraz sposoby postępowania terapeutycznego;
 D.W14. zasady funkcjonowania interdyscyplinarnego zespołu terapeutycznego;
 D.W15. historię medycyny, ze szczególnym uwzględnieniem historii stomatologii;
-D.W16. proces kształtowania się nowych specjalności w zakresie dyscypliny naukowej nauki medyczne i osiągnięcia czołowych przedstawicieli medycyny oraz stomatologii polskiej i światowej.
+D.W16. proces kształtowania się nowych specjalności w zakresie dyscypliny naukowej – nauki medyczne i osiągnięcia czołowych przedstawicieli medycyny oraz stomatologii polskiej i światowej.
 W zakresie umiejętności absolwent potrafi: D.U1. uwzględniać w procesie postępowania terapeutycznego subiektywne potrzeby i oczekiwania pacjenta wynikające z uwarunkowań społeczno-kulturowych;
 D.U2. wybierać takie leczenie, które minimalizuje konsekwencje społeczne dla pacjenta;
 D.U3. stosować adekwatnie do sytuacji pytania otwarte, zamknięte, parafrazę, klaryfikację, podsumowania wewnętrzne i końcowe, sygnalizowanie, aktywne słuchanie (np. wychwytywanie i rozpoznawanie sygnałów wysyłanych przez rozmówcę, techniki werbalne i niewerbalne) i facylitacje (zachęcanie rozmówcy do wypowiedzi);
@@ -849,7 +867,7 @@ D.U6. nawiązać z pacjentem i jego rodziną kontakt służący budowaniu właś
 D.U7. spojrzeć na sytuację z perspektywy pacjenta, budując odpowiedni kontekst rozmowy i używając metody elicytacji, a następnie uwzględnić ją w budowaniu komunikatów werbalnych;
 D.U8. rozpoznawać własne emocje i kierować nimi w relacjach z innymi osobami w celu efektywnego wykonywania pracy mimo własnych reakcji emocjonalnych;
 D.U9. opisywać i krytycznie oceniać własne zachowanie oraz sposób komunikowania się, uwzględniając możliwość alternatywnego zachowania;
-D.U10. podejmować działania zmierzające do poprawy jakości życia pacjenta i zapobiegania pogorszeniu się jej w przyszłości;
+16 – D.U10. podejmować działania zmierzające do poprawy jakości życia pacjenta i zapobiegania pogorszeniu się jej w przyszłości;
 D.U11. rozpoznać zespół wypalenia zawodowego lekarza dentysty oraz mu przeciwdziałać;
 D.U12. wykazywać odpowiedzialność za podnoszenie swoich kwalifikacji i przekazywanie wiedzy innym;
 D.U13. porozumiewać się z pacjentem w jednym z języków obcych na poziomie B2+ Europejskiego Systemu Opisu Kształcenia Językowego.
@@ -861,7 +879,7 @@ E.W5. podstawowe metody badania lekarskiego i rolę badań dodatkowych w rozpozn
 E.W6. etiopatogenezę i symptomatologię chorób układu oddechowego, krążenia, krwiotwórczego, moczowo-płciowego, immunologicznego, pokarmowego i ruchu oraz gruczołów dokrewnych, ze szczególnym uwzględnieniem chorób, których objawy występują w jamie ustnej;
 E.W7. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w przypadku najczęstszych chorób występujących u dzieci, wpływających na stan jamy ustnej;
 E.W8. zasady postępowania z poszkodowanymi w urazach wielonarządowych;
-E.W9. zasady organizacji akcji ratunkowej w katastrofach i awariach oraz fazy akcji ratunkowej i zakres udzielania pomocy poszkodowanym;
+17 – E.W9. zasady organizacji akcji ratunkowej w katastrofach i awariach oraz fazy akcji ratunkowej i zakres udzielania pomocy poszkodowanym;
 E.W10. zasady farmakologicznego i niefarmakologicznego leczenia bólu ostrego i przewlekłego, nowotworowego, neuropatycznego oraz specyfikę leczenia bólu u różnych grup pacjentów;
 E.W11. neurologiczne skutki przewlekłego zażywania leków;
 E.W12. objawy ostrych chorób jamy brzusznej, zatrucia, zakażenia i posocznicy;
@@ -883,14 +901,14 @@ E.W27. metody stosowane w rehabilitacji medycznej, jej cele i metodykę planowan
 E.W28. przypadki, w których pacjenta należy skierować do szpitala;
 E.W29. możliwości współczesnych terapii nowotworów oraz ich niepożądane skutki;
 E.W30. objawy kliniczne najczęstszych nowotworów oraz działania profilaktyczne w onkologii.
-W zakresie umiejętności absolwent potrafi: E.U1. przeprowadzać diagnostykę różnicową najczęstszych chorób;
+18 – W zakresie umiejętności absolwent potrafi: E.U1. przeprowadzać diagnostykę różnicową najczęstszych chorób;
 E.U2. komunikować się z pacjentem, oceniać i opisywać stan somatyczny i psychiczny pacjenta, stosując zasady profesjonalnej komunikacji;
 E.U3. planować postępowanie diagnostyczne i terapeutyczne w przypadku najczęstszych chorób;
 E.U4. interpretować wyniki badań laboratoryjnych;
-E.U5. identyfikować prawidłowe i patologiczne struktury i narządy w dodatkowych badaniach obrazowych (RTG, USG i tomografia komputerowa CT);
+E.U5. identyfikować prawidłowe i patologiczne struktury i narządy w dodatkowych badaniach obrazowych (RTG, USG i tomografia komputerowa – CT);
 E.U6. planować postępowanie w przypadku ekspozycji na zakażenie przenoszone drogą krwi;
 E.U7. dokonać kwalifikacji pacjenta do szczepień;
-E.U8. zebrać wywiad w sytuacji zagrożenia zdrowia i życia z zastosowaniem schematu SAMPLE (S Symptoms (objawy), A Allergies (alergie), M Medications (leki), P Past medical history (przebyte choroby / przeszłość medyczna), L Last meal (ostatni posiłek), E Events prior to injury/illness (zdarzenia przed wypadkiem/ zachorowaniem));
+E.U8. zebrać wywiad w sytuacji zagrożenia zdrowia i życia z zastosowaniem schematu SAMPLE (S – Symptoms (objawy), A – Allergies (alergie), M – Medications (leki), P – Past medical history (przebyte choroby / przeszłość medyczna), L – Last meal (ostatni posiłek), E – Events prior to injury/illness (zdarzenia przed wypadkiem/ zachorowaniem));
 E.U9. rozpoznać ryzyko zagrożenia życia;
 E.U10. opisywać i rozpoznawać objawy wstrząsu i ostrej niewydolności krążenia;
 E.U11. rozpoznawać objawy urazów mózgu i chorób naczyniowych mózgu, zespołów otępiennych i zaburzeń świadomości;
@@ -901,7 +919,7 @@ E.U15. diagnozować i leczyć choroby skóry (infekcyjne, alergiczne, autoimmuno
 E.U16. rozpoznawać znamiona, nowotwory i stany przedrakowe skóry;
 E.U17. rozpoznawać dermatozy i kolagenozy przebiegające z objawami w obrębie błony śluzowej jamy ustnej;
 E.U18. rozpoznawać choroby związane z paleniem tytoniu oraz problemowym używaniem alkoholu i innych substancji psychoaktywnych lub uzależnieniem od alkoholu i innych substancji psychoaktywnych;
-E.U19. diagnozować choroby przebiegające z powiększeniem węzłów chłonnych szyi i okolicy podżuchwowej oraz choroby zakaźne, ze szczególnym uwzględnieniem zmian w obrębie jamy ustnej;
+19 – E.U19. diagnozować choroby przebiegające z powiększeniem węzłów chłonnych szyi i okolicy podżuchwowej oraz choroby zakaźne, ze szczególnym uwzględnieniem zmian w obrębie jamy ustnej;
 E.U20. diagnozować wybrane choroby układu optycznego i ochronnego oka;
 E.U21. wykonywać podstawowe procedury i zabiegi medyczne, w tym pomiar temperatury, pomiar tętna, nieinwazyjny pomiar ciśnienia tętniczego krwi, leczenie tlenem, wentylację wspomaganą i zastępczą, wprowadzenie rurki ustno-gardłowej, przygotowanie pola operacyjnego, higieniczne i chirurgiczne odkażanie rąk, wstrzyknięcie dożylne, domięśniowe i podskórne, pobieranie obwodowej krwi żylnej, pobieranie wymazów z nosa, gardła i skóry, proste testy paskowe, pomiar stężenia glukozy we krwi, postępowanie w omdleniu, wstrząsie i w nagłym zatrzymaniu krążenia;
 E.U22. ocenić ryzyko rozwoju choroby nowotworowej w jamie ustnej, rozpoznać zmiany przednowotworowe i skierować pacjenta do specjalisty.
@@ -915,7 +933,7 @@ F.W7. morfologię jam zębowych i zasady leczenia endodontycznego;
 F.W8. zalety i ograniczenia leczenia stomatologicznego w powiększeniu;
 F.W9. zasady stosowania instrumentarium, materiałów i środków farmakologicznych w leczeniu stomatologicznym;
 F.W10. diagnostykę i zasady postępowania w przypadku torbieli szczęk, zmian zapalnych tkanki kostnej i miękkiej części twarzowej czaszki oraz zaburzeń nowotworowych potencjalnie złośliwych jamy ustnej;
-F.W11. objawy, przebieg i sposoby postępowania we wczesnych i zaawansowanych stadiach nowotworów głowy i szyi, ze szczególnym uwzględnieniem nowotworów złośliwych błony śluzowej jamy ustnej;
+20 – F.W11. objawy, przebieg i sposoby postępowania we wczesnych i zaawansowanych stadiach nowotworów głowy i szyi, ze szczególnym uwzględnieniem nowotworów złośliwych błony śluzowej jamy ustnej;
 F.W12. diagnostykę i metody leczenia chorób przyzębia i okołowszczepowych oraz chorób błony śluzowej jamy ustnej i ślinianek;
 F.W13. zasady postępowania w przypadku urazów zębów i kości szczęk;
 F.W14. zasady planowania leczenia implantoprotetycznego;
@@ -934,7 +952,7 @@ F.W26. patomechanizm oddziaływania chorób jamy ustnej na ogólny stan zdrowia 
 F.W27. patomechanizm oddziaływania chorób ogólnoustrojowych lub stosowanych terapii na jamę ustną;
 F.W28. specyfikę opieki stomatologicznej nad pacjentem obciążonym chorobą ogólnoustrojową i zasady współpracy z lekarzem leczącym chorobę ogólnoustrojową;
 F.W29. zagadnienie opieki stomatologicznej nad pacjentem z nowotworem głowy lub szyi przed, w trakcie i po leczeniu onkologicznym.
-W zakresie umiejętności absolwent potrafi: F.U1. zebrać wywiad lekarski i stomatologiczny z pacjentem lub jego rodziną z zachowaniem zasad profesjonalnej komunikacji;
+21 – W zakresie umiejętności absolwent potrafi: F.U1. zebrać wywiad lekarski i stomatologiczny z pacjentem lub jego rodziną z zachowaniem zasad profesjonalnej komunikacji;
 F.U2. przekazywać pacjentowi informacje, dostosowując ich liczbę i treść do potrzeb i możliwości pacjenta, uzupełniać informacje werbalne modelami i informacją pisemną, w tym wykresami i instrukcjami, oraz odpowiednio je stosować;
 F.U3. podejmować wspólnie z pacjentem decyzje diagnostyczno-terapeutyczne, w tym oceniać stopień zaangażowania pacjenta, jego potrzeby i możliwości w tym zakresie, zachęcać pacjenta do brania aktywnego udziału w procesie podejmowania decyzji, omawiać zalety i wady, spodziewane wyniki odległe i konsekwencje wynikające z tych decyzji oraz uzyskiwać świadomą zgodę pacjenta;
 F.U4. identyfikować społeczne determinanty zdrowia jamy ustnej, objawy występowania zachowań antyzdrowotnych i autodestrukcyjnych oraz omówić je z pacjentem, a także sporządzić notatkę w dokumentacji medycznej;
@@ -949,7 +967,7 @@ F.U12. postępować w przypadku wystąpienia powikłań ogólnych i miejscowych 
 F.U13. dobierać leki ze wskazań stomatologicznych z uwzględnieniem ich interakcji i działań ubocznych;
 F.U14. stosować farmakologiczne i niefarmakologiczne metody znoszenia bólu związanego z zabiegiem stomatologicznym oraz lęku i stresu stomatologicznego;
 F.U15. formułować problemy badawcze w zakresie stomatologii;
-F.U16. uzyskiwać informacje od członków zespołu interdyscyplinarnego z poszanowaniem ich zróżnicowanych opinii i specjalistycznych kompetencji oraz uwzględnić te informacje w planie diagnostyczno-terapeutycznym pacjenta;
+22 – F.U16. uzyskiwać informacje od członków zespołu interdyscyplinarnego z poszanowaniem ich zróżnicowanych opinii i specjalistycznych kompetencji oraz uwzględnić te informacje w planie diagnostyczno-terapeutycznym pacjenta;
 F.U17. przyjąć, wyjaśnić i analizować swoją rolę i zakres odpowiedzialności w zespole oraz rozpoznawać swoją rolę jako lekarza dentysty w zespole interdyscyplinarnym;
 F.U18. ustalić plan postępowania profilaktyczno-leczniczego na podstawie indywidualnej oceny ryzyka występowania chorób jamy ustnej;
 F.U19. diagnozować i leczyć w podstawowym zakresie choroby tkanek zmineralizowanych;
@@ -969,7 +987,7 @@ G. PRAWNE I ORGANIZACYJNE ASPEKTY MEDYCYNY W zakresie wiedzy absolwent zna i roz
 G.W2. koncepcje i modele promocji zdrowia;
 G.W3. podstawowe pojęcia z zakresu profilaktyki, promocji zdrowia, higieny środowiskowej oraz związane ze zdrowiem osobniczym i populacji, a także stylem życia;
 G.W4. metody określania potrzeb zdrowotnych społeczeństwa;
-G.W5. sytuację zdrowotną oraz strategię polityki zdrowotnej w Rzeczypospolitej Polskiej, Unii Europejskiej i na świecie;
+23 – G.W5. sytuację zdrowotną oraz strategię polityki zdrowotnej w Rzeczypospolitej Polskiej, Unii Europejskiej i na świecie;
 G.W6. zasady funkcjonowania, zarządzania i informatyzacji podmiotów wykonujących działalność leczniczą, w tym w ramach indywidualnej i grupowej praktyki lekarskiej;
 G.W7. regulacje prawne dotyczące organizacji i finansowania systemu ochrony zdrowia, udzielania świadczeń zdrowotnych finansowanych ze środków publicznych oraz zasady funkcjonowania narzędzi i usług informacyjnych i komunikacyjnych w ochronie zdrowia (e-zdrowie);
 G.W8. e-usługi w ochronie zdrowia, w tym ich rodzaje, znaczenie dla konkurencyjności, bariery ograniczające rozwój i zastosowania w stomatologii;
@@ -985,7 +1003,7 @@ G.W17. zasady uzyskiwania i utraty prawa wykonywania zawodu lekarza dentysty;
 G.W18. podstawowe prawa pacjenta, w tym prawo do: wyrażenia zgody na zabieg medyczny, informacji medycznej, poszanowania intymności i godności osobistej, zachowania tajemnicy medycznej, dostępu do dokumentacji medycznej;
 G.W19. regulacje prawne dotyczące eksperymentu medycznego oraz prowadzenia badań naukowych z udziałem ludzi;
 G.W20. podstawowe regulacje z zakresu prawa farmaceutycznego, w tym zasady obrotu produktami leczniczymi i medycznymi, refundacji leków, współpracy lekarza dentysty z farmaceutą oraz zgłaszania niepożądanego działania leku;
-G.W21. pojęcie i typologię zdarzeń niepożądanych, w tym błędów medycznych i zdarzeń medycznych, ich najczęstsze przyczyny, skutki, zasady zapobiegania oraz opiniowania w takich przypadkach;
+24 – G.W21. pojęcie i typologię zdarzeń niepożądanych, w tym błędów medycznych i zdarzeń medycznych, ich najczęstsze przyczyny, skutki, zasady zapobiegania oraz opiniowania w takich przypadkach;
 G.W22. zasady i przesłanki odpowiedzialności prawnej lekarza dentysty, w tym cywilnej, karnej, zawodowej i pracowniczej;
 G.W23. podstawowe zasady wykonywania zawodu lekarza dentysty w ramach stosunku pracy;
 G.W24. regulacje prawne dotyczące wykonywania działalności leczniczej;
@@ -999,9 +1017,9 @@ G.W31. regulacje prawne dotyczące obowiązków lekarza dentysty w przypadku pod
 G.W32. prawne i systemowe aspekty bezpieczeństwa pacjenta w ujęciu krajowym i międzynarodowym.
 W zakresie umiejętności absolwent potrafi: G.U1. analizować dane o stanie zdrowia populacji, dane epidemiologiczne i określać na ich podstawie stan zdrowia populacji oraz prognozować wpływ wybranych zjawisk i problemów zdrowotnych na funkcjonowanie systemu ochrony zdrowia;
 G.U2. oceniać skalę problemów zdrowotnych oraz wskazywać priorytety zdrowotne i określać ich znaczenie w polityce zdrowotnej;
-G.U3. analizować uwarunkowania sytuacji epidemiologicznej w aspekcie procesów społecznych i demograficznych oraz jakości życia ogólnej i związanej ze zdrowiem jamy ustnej;
+G.U3. analizować uwarunkowania sytuacji epidemiologicznej w aspekcie procesów społecznych i demograficznych oraz jakości życia – ogólnej i związanej ze zdrowiem jamy ustnej;
 G.U4. opracowywać proste programy z zakresu profilaktyki i promocji zdrowia jamy ustnej;
-G.U5. planować działania z zakresu profilaktyki i promocji zdrowia oraz wdrażać działania promocyjne dotyczące zdrowia populacji;
+25 – G.U5. planować działania z zakresu profilaktyki i promocji zdrowia oraz wdrażać działania promocyjne dotyczące zdrowia populacji;
 G.U6. analizować systemy finansowania świadczeń zdrowotnych w Rzeczypospolitej Polskiej, Unii Europejskiej i na świecie;
 G.U7. przygotowywać oferty konkursowe związane z udzielaniem świadczeń zdrowotnych;
 G.U8. rozpoznawać czynniki ryzyka i narażenia związane z chorobą zawodową, w szczególności lekarza dentysty;
@@ -1017,7 +1035,7 @@ G.U17. rozpoznawać przesłanki podjęcia działań lekarskich bez zgody pacjent
 G.U18. wystawiać zaświadczenia lekarskie i orzeczenia lekarskie, sporządzać opinie dla pacjenta, uprawnionych organów i podmiotów, sporządzać i prowadzić dokumentację medyczną (w postaci elektronicznej i papierowej) oraz korzystać z narzędzi i usług informacyjnych oraz komunikacyjnych w ochronie zdrowia (e-zdrowie);
 G.U19. korzystać z przepisów prawa do ochrony swoich praw;
 G.U20. organizować środowisko pracy w sposób zapewniający bezpieczeństwo pacjenta i innych osób przy uwzględnieniu wpływu czynników ludzkich i zasad ergonomii.
-H. PRAKTYCZNE NAUCZANIE KLINICZNE NA V ROKU STUDIÓW W zakresie umiejętności absolwent potrafi samodzielnie: H.U1. zebrać wywiad lekarski i stomatologiczny z zachowaniem zasad profesjonalnej komunikacji;
+26 – H. PRAKTYCZNE NAUCZANIE KLINICZNE NA V ROKU STUDIÓW W zakresie umiejętności absolwent potrafi samodzielnie: H.U1. zebrać wywiad lekarski i stomatologiczny z zachowaniem zasad profesjonalnej komunikacji;
 H.U2. przeprowadzić pełne i ukierunkowane badanie stomatologiczne;
 H.U3. komunikować się z pacjentem i jego rodziną;
 H.U4. zlecać badania dodatkowe i konsultacje specjalistyczne;
@@ -1036,7 +1054,7 @@ H.U16. diagnozować i leczyć w podstawowym zakresie choroby miazgi zębów sta�
 H.U17. diagnozować wady rozwojowe zębów i określić potrzeby leczenia specjalistycznego;
 H.U18. zdiagnozować i przeprowadzić postępowanie lecznicze w przypadku pourazowych uszkodzeń zębów stałych, w tym udzielić pierwszej pomocy, skierować do odpowiedniego lekarza specjalisty, leczyć uszkodzenia nieskomplikowane;
 H.U19. planować i wykonywać profilaktyczne zabiegi stomatologiczne, prowadzić edukację prozdrowotną, w szczególności w zakresie jamy ustnej;
-H.U20. ustalić plan postępowania profilaktyczno-leczniczego na podstawie indywidualnej oceny ryzyka występowania chorób jamy ustnej;
+27 – H.U20. ustalić plan postępowania profilaktyczno-leczniczego na podstawie indywidualnej oceny ryzyka występowania chorób jamy ustnej;
 H.U21. opracowywać proste programy z zakresu profilaktyki i promocji zdrowia jamy ustnej;
 H.U22. kształtować właściwe postawy stomatologiczne u pacjenta w wieku rozwojowym;
 H.U23. zapobiegać próchnicy zębów mlecznych oraz rozpoznawać ją i leczyć;
@@ -1061,7 +1079,7 @@ H.U41. zdiagnozować kliniczne nowotwory jamy ustnej;
 H.U42. rozpoznawać i różnicować choroby ślinianek;
 H.U43. rozpoznawać i różnicować choroby zatok szczękowych;
 H.U44. diagnozować zakażenia wirusami w stomatologii, w tym hepatotropowymi, HIV oraz przenoszonymi drogą kropelkową;
-H.U45. ocenić stan kliniczny tkanek przyzębia oraz semiotykę radiologiczną periodontopatii;
+28 – H.U45. ocenić stan kliniczny tkanek przyzębia oraz semiotykę radiologiczną periodontopatii;
 H.U46. rozpoznawać objawy chorób ogólnoustrojowych w jamie ustnej;
 H.U47. stosować profesjonalne metody profilaktyki chorób przyzębia i okołowszczepowych;
 H.U48. przeprowadzić niechirurgiczne leczenie zapalenia przyzębia i zapalenia okołowszczepowego;
@@ -1085,7 +1103,7 @@ H.U65. naprawić uszkodzone uzupełnienie protetyczne w warunkach klinicznych i 
 H.U66. rozpoznać zaburzenia czynnościowe narządu żucia i im zapobiegać;
 H.U67. zaplanować i zintegrować leczenie gerostomatologiczne;
 H.U68. przeprowadzić leczenie stomatologiczne u pacjenta z niepełnosprawnością;
-H.U69. zaplanować leczenie implantoprotetyczne;
+29 – H.U69. zaplanować leczenie implantoprotetyczne;
 H.U70. planować i przeprowadzać podstawowe zabiegi lecznicze w ramach zintegrowanego leczenia stomatologicznego pacjentów dorosłych;
 H.U71. przeprowadzać zabiegi w różnych specjalnościach lekarsko-dentystycznych;
 H.U72. planować zabiegi w stomatologii estetycznej;

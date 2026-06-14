@@ -22,6 +22,7 @@ saos_id|date|court|case_number|type|score|saos_url
 432740|2021-02-16|SO|III AUa 195/20|Wyrok|56|https://www.saos.org.pl/judgments/432740
 438673|2021-02-04|SO|V ACa 609/20|Wyrok|56|https://www.saos.org.pl/judgments/438673
 430573|2020-11-18|SO|III AUa 394/19|Wyrok|56|https://www.saos.org.pl/judgments/430573
+545300|2020-09-17|SO|I ACa 1048/19|Wyrok|56|https://www.saos.org.pl/judgments/545300
 490691|2020-07-24|SO|I ACa 1166/18|Wyrok|56|https://www.saos.org.pl/judgments/490691
 428132|2020-02-07|SO|I ACa 220/19|Wyrok|56|https://www.saos.org.pl/judgments/428132
 399680|2019-11-21|SO|III AUa 695/18|Wyrok|56|https://www.saos.org.pl/judgments/399680
@@ -173,6 +174,7 @@ saos_id|date|court|case_number|type|score|saos_url
 32246|2014-01-10|SO|III AUa 717/13|Postanowienie|47|https://www.saos.org.pl/judgments/32246
 31253|2014-01-09|SO|III AUa 716/13|Postanowienie|47|https://www.saos.org.pl/judgments/31253
 31252|2014-01-09|SO|III AUa 715/13|Postanowienie|47|https://www.saos.org.pl/judgments/31252
+547106|2024-01-25|SO|V ACa 2338/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/547106
 475921|2022-06-24|SO|VII U 1099/20|Wyrok|40|https://www.saos.org.pl/judgments/475921
 466893|2020-12-10|SO|IV U 1907/18|Wyrok|40|https://www.saos.org.pl/judgments/466893
 466922|2020-11-23|SO|IV U 815/20|Wyrok|40|https://www.saos.org.pl/judgments/466922

@@ -8,7 +8,7 @@ pos: 1089
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw oraz o zmianie niektórych innych ustaw
@@ -29,7 +29,13 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 16 lipca 1998 r. - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz.U. Nr 95, poz. 602 i Nr 160, poz. 1060, z 2001 r. Nr 45, poz. 497 i Nr 89, poz. 971 oraz z 2002 r. Nr 23, poz. 220 i Nr 113, poz. 984) wprowadza się następujące zmiany:
 
+- **1)** po art. 64 dodaje się rozdział 10a w brzmieniu: „Rozdział 10a Komitety wyborcze
+
 **Art. 64a.** Komitety wyborcze mogą być tworzone przez:
+
+- **1)** partie polityczne i koalicje partii politycznych,
+- **2)** stowarzyszenia i organizacje społeczne, zwane dalej „organizacjami”,
+- **3)** wyborców.
 
 **Art. 64b.** Komitety wyborcze w imieniu partii politycznych, organizacji i wyborców wykonują czynności wyborcze, a w szczególności zgłaszają kandydatów na radnych oraz prowadzą, na zasadzie wyłączności, kampanię wyborczą na ich rzecz.
 
@@ -46,8 +52,9 @@ source: "isap-pdf"
 
 4. Zawiadomienie, o którym mowa w ust. 3, może być dokonane w terminie od dnia ogłoszenia rozporządzenia o zarządzeniu wyborów do 50 dnia przed dniem wyborów.
 
-5. W zawiadomieniu, o którym mowa w ust. 3, podaje się: adres siedziby komitetu i numer ewidencyjny, pod którym partia polityczna jest wpisana do ewidencji partii politycznych,
+5. W zawiadomieniu, o którym mowa w ust. 3, podaje się:
 
+- **1)** nazwę komitetu wyborczego oraz skrót jego nazwy, a także adres siedziby komitetu i numer ewidencyjny, pod którym partia polityczna jest wpisana do ewidencji partii politycznych,
 - **2)** imię (imiona), nazwisko, adres zamieszkania i numer ewidencyjny PESEL pełnomocnika wyborczego,
 - **3)** imię (imiona), nazwisko, adres zamieszkania i numer ewidencyjny PESEL pełnomocnika finansowego.
 
@@ -81,7 +88,8 @@ source: "isap-pdf"
 7. Do zawiadomienia, o którym mowa w ust. 4, dołącza się:
 
 - **1)** oświadczenia pełnomocników, o których mowa w ust. 3, o przyjęciu pełnomocnictw,
-- **2)** uwierzytelnione odpisy z ewidencji partii politycznych, upoważniony do ich reprezentowania na zewnątrz,
+- **2)** uwierzytelnione odpisy z ewidencji partii politycznych,
+- **3)** wyciągi ze statutów partii politycznych wskazujące organ upoważniony do ich reprezentowania na zewnątrz,
 - **4)** tekst umowy o zawiązaniu koalicji.
 
 **Art. 64e.**
@@ -116,8 +124,9 @@ source: "isap-pdf"
 
 1. Obywatele, w liczbie co najmniej 5, mający prawo wybierania, mogą utworzyć komitet wyborczy wyborców, składając pisemne oświadczenie o utworzeniu komitetu, z podaniem swoich imion i nazwisk, adresów zamieszkania oraz numerów ewidencyjnych PESEL.
 
-2. Komitet wyborczy wyborców powołuje: uprawnionego do występowania na rzecz i w imieniu komitetu wyborczego, z zastrzeżeniem art. 82a,
+2. Komitet wyborczy wyborców powołuje:
 
+- **1)** pełnomocnika wyborczego komitetu wyborczego wyborców uprawnionego do występowania na rzecz i w imieniu komitetu wyborczego, z zastrzeżeniem art. 82a,
 - **2)** pełnomocnika finansowego, o którym mowa w art. 82a.
 
 3. Pełnomocnika wyborczego komitetu wyborczego i pełnomocnika finansowego komitetu wyborczego powołuje się spośród osób wchodzących w skład komitetu wyborczego wyborców.
@@ -141,7 +150,9 @@ source: "isap-pdf"
 
 8. Przepisów ust. 2 pkt. 2 oraz ust. 4-7 nie stosuje się do komitetu wyborczego wyborców utworzonego jedynie w celu zgłoszenia kandydatów na radnych do rady gminy w gminie liczącej do 20 000 mieszkańców.
 
-9. Komitet wyborczy wyborców, o którym mowa w ust. 8, oświadczenie, o którym mowa w ust. 1, dołącza do zgłoszenia listy kandydatów. rym mowa w ust. 8, jest jednocześnie pełnomocnikiem finansowym tego komitetu.
+9. Komitet wyborczy wyborców, o którym mowa w ust. 8, oświadczenie, o którym mowa w ust. 1, dołącza do zgłoszenia listy kandydatów.
+
+10. Pełnomocnik wyborczy komitetu wyborczego wyborców, o którym mowa w ust. 8, jest jednocześnie pełnomocnikiem finansowym tego komitetu.
 
 **Art. 64g.**
 
@@ -165,7 +176,9 @@ source: "isap-pdf"
 
 **Art. 64i.**
 
-1. Jeżeli zawiadomienie o utworzeniu komitetu wyborczego, o którym mowa w art. 64e ust. 3 i art. 64f ust. 4, spełnia warunki określone w ustawie, komisarz wyborczy w terminie 3 dni od dnia jego doręczenia postanawia o przyjęciu zawiadomienia. Postanowienie o przyjęciu zawiadomienia doręcza się niezwłocznie pełnomocnikowi wyborczemu. minie 3 dni od dnia doręczenia zawiadomienia, wzywa pełnomocnika wyborczego komitetu wyborczego do ich usunięcia w terminie 3 dni. W przypadku nieusunięcia wad w terminie komisarz wyborczy odmawia przyjęcia zawiadomienia. Postanowienie komisarza wyborczego o odmowie przyjęcia zawiadomienia, wraz z uzasadnieniem, doręcza się niezwłocznie pełnomocnikowi wyborczemu.
+1. Jeżeli zawiadomienie o utworzeniu komitetu wyborczego, o którym mowa w art. 64e ust. 3 i art. 64f ust. 4, spełnia warunki określone w ustawie, komisarz wyborczy w terminie 3 dni od dnia jego doręczenia postanawia o przyjęciu zawiadomienia. Postanowienie o przyjęciu zawiadomienia doręcza się niezwłocznie pełnomocnikowi wyborczemu.
+
+2. Jeżeli zawiadomienie wykazuje wady, komisarz wyborczy w terminie 3 dni od dnia doręczenia zawiadomienia, wzywa pełnomocnika wyborczego komitetu wyborczego do ich usunięcia w terminie 3 dni. W przypadku nieusunięcia wad w terminie komisarz wyborczy odmawia przyjęcia zawiadomienia. Postanowienie komisarza wyborczego o odmowie przyjęcia zawiadomienia, wraz z uzasadnieniem, doręcza się niezwłocznie pełnomocnikowi wyborczemu.
 
 3. Pełnomocnikowi wyborczemu służy prawo wniesienia odwołania do sądu okręgowego na postanowienie komisarza wyborczego o odmowie przyjęcia zawiadomienia. Odwołanie wnosi się w terminie 3 dni od dnia doręczenia pełnomocnikowi wyborczemu postanowienia o odmowie przyjęcia zawiadomienia.
 
@@ -179,6 +192,10 @@ source: "isap-pdf"
 
 **Art. 64k.** Odpowiedzialność za zobowiązania majątkowe:
 
+- **1)** komitetu wyborczego partii politycznej albo organizacji ponosi partia polityczna albo organizacja, która powołała komitet wyborczy,
+- **2)** koalicyjnego komitetu wyborczego partii politycznych ponoszą solidarnie partie polityczne, wchodzące w skład koalicji wyborczej,
+- **3)** komitetu wyborczego wyborców ponoszą solidarnie osoby wchodzące w skład komitetu.
+
 **Art. 64l.**
 
 1. Komitet wyborczy ulega rozwiązaniu z mocy prawa:
@@ -186,7 +203,7 @@ source: "isap-pdf"
 - **1)** po przyjęciu sprawozdania finansowego, o którym mowa w art. 84 ust. 2,
 - **2)** po bezskutecznym upływie terminu do wniesienia odwołania, o którym mowa w art. 84a ust. 5,
 - **3)** po bezskutecznym upływie terminu do wniesienia skargi, o której mowa w art. 84a ust. 6,
-- **4)** po wydaniu orzeczenia, o którym mowa w art. 84a ust. 5 albo w art. 84a ust. 6, uwzględniającego albo odrzucającego skarWyborczej albo postanowienie komisarza wyborczego w przedmiocie odrzucenia sprawozdania finansowego.
+- **4)** po wydaniu orzeczenia, o którym mowa w art. 84a ust. 5 albo w art. 84a ust. 6, uwzględniającego albo odrzucającego skargę lub odwołanie na postanowienie Państwowej Komisji Wyborczej albo postanowienie komisarza wyborczego w przedmiocie odrzucenia sprawozdania finansowego.
 
 2. Komitet wyborczy może ulec rozwiązaniu przed dniem wyborów w trybie przepisów o jego utworzeniu, o czym zawiadamia się niezwłocznie organ wyborczy, który przyjął zawiadomienie o utworzeniu komitetu, a w przypadku komitetu wyborczego, o którym mowa w art. 64f ust. 8 - komisarza wyborczego właściwego ze względu na siedzibę komitetu. Jeżeli rozwiązanie komitetu nastąpiło po zarejestrowaniu kandydatów zawiadamia się o tym także właściwą terytorialną komisję wyborczą. Pełnomocnik finansowy komitetu wyborczego składa w terminie 14 dni od dnia złożenia zawiadomienia o rozwiązaniu komitetu sprawozdanie finansowe, o którym mowa w art. 84 ust. 2.”;
 
@@ -202,7 +219,7 @@ source: "isap-pdf"
 - **4)** w art. 67 po wyrazie „pełnomocnika” dodaje się wyraz „wyborczego” oraz wyrazy „bezpłatnych infolinii” zastępuje się wyrazami „infolinii o bezpłatnym dostępie”;
 - **5)** w art. 68:
     - **a)** dotychczasową treść oznacza się jako ust. 1,
-    - **b)** dodaje się ust. 2 w brzmieniu: „2. Zabronione jest podawanie oraz dostarczanie, w ramach prowadzonej kampanii wyborczej, napojów alkoholowych nieodpłatnie lub po cenach lub kosztów wytworzenia.”;
+    - **b)** dodaje się ust. 2 w brzmieniu: „2. Zabronione jest podawanie oraz dostarczanie, w ramach prowadzonej kampanii wyborczej, napojów alkoholowych nieodpłatnie lub po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen nabycia lub kosztów wytworzenia.”;
 
 - **6)** w art. 69 wyrazy „Od 7 dnia przed dniem wyborów” zastępuje się wyrazami „W okresie od zakończenia kampanii wyborczej”;
 - **7)** art. 70 otrzymuje brzmienie: „Art. 70. 1. Materiały wyborcze powinny zawierać wyraźne oznaczenie, od kogo pochodzą.
@@ -223,7 +240,7 @@ source: "isap-pdf"
     - **c)** ust. 3 otrzymuje brzmienie: „3. W razie odmowy lub niezamieszczenia sprostowania, odpowiedzi lub przeprosin przez zobowiązanego w sposób określony w postanowieniu sądu, sąd na wniosek zainteresowanego zarządza opublikowanie sprostowania, odpowiedzi lub przeprosin w trybie egzekucyjnym na koszt zobowiązanego.”,
     - **d)** w ust. 4 wyrazy „w ust. 1-3” zastępuje się wyrazami „w ust. 1 i 3”;
 
-- **11)** po art. 81 dodaje się oznaczenie i tytuł rozdziału w brzmieniu: Finansowanie kampanii wyborczej”;
+- **11)** po art. 81 dodaje się oznaczenie i tytuł rozdziału w brzmieniu: „Rozdział 12a Finansowanie kampanii wyborczej”;
 - **12)** dodaje się art. 82a w brzmieniu: „Art. 82a. 1. Za gospodarkę finansową komitetu wyborczego odpowiedzialny jest i prowadzi ją pełnomocnik finansowy.
 
 2. Pełnomocnikiem finansowym nie może być:
@@ -257,7 +274,7 @@ source: "isap-pdf"
 3. Środki finansowe:
 
 - **1)** komitetu wyborczego organizacji,
-- **2)** komitetu wyborczego wyborców
+- **2)** komitetu wyborczego wyborców - mogą pochodzić wyłącznie z wpłat od osób fizycznych.
 
 4. Komitety wyborcze, o których mowa w ust. 3, nie mogą przyjmować środków finansowych pochodzących od:
 
@@ -286,7 +303,8 @@ source: "isap-pdf"
 
 3. Kwota przypadająca na jeden mandat radnego wynosi:
 
-- **1)** w wyborach do rady gminy w gminach do 20 000 mieszkańców - 750 złotych, mieszkańców oraz w wyborach do rad dzielnic miasta stołecznego Warszawy - 1000 złotych,
+- **1)** w wyborach do rady gminy w gminach do 20 000 mieszkańców - 750 złotych,
+- **2)** w wyborach do rady gminy w gminach powyżej 20 000 mieszkańców oraz w wyborach do rad dzielnic miasta stołecznego Warszawy - 1000 złotych,
 - **3)** w wyborach do rady powiatu - 2000 złotych,
 - **4)** w wyborach do rady miasta w miastach na prawach powiatu 3000 złotych,
 - **5)** w wyborach do sejmiku województwa - 5000 złotych.
@@ -301,11 +319,50 @@ source: "isap-pdf"
 
 **Art. 83g.** Komitety wyborcze prowadzą rachunkowość na zasadach określonych, w drodze rozporządzenia, przez ministra właściwego do spraw finansów publicznych wydanego, po zasięgnięciu opinii Państwowej Komisji Wyborczej, z tym że w stosunku do komitetu, który utworzony został wyłącznie w celu zgłoszenia kandydatów na radnych w gminie liczącej do 20 000 mieszkańców, minister właściwy do spraw finansów publicznych, określi uproszczone zasady rachunkowości. W rozporządzeniu określa się w szczególności zasady dokumentowania i ewidencji przychodów, wydatków i zobowiązań finansowych komitetu wyborczego.”;
 
+- **16)** art. 84 otrzymuje brzmienie: „Art. 84. 1. Finansowanie kampanii wyborczej jest jawne.
+
+2. Pełnomocnik finansowy komitetu wyborczego w terminie 3 miesięcy od dnia wyborów przedkłada organowi, któremu komitet złożył zawiadomienie o utworzeniu komitetu, a w przypadku komitetu, o którym mowa w art. 64f ust. 8 - komisarzowi wyborczemu właściwemu ze względu na siedzibę tego komitetu, sprawozdanie finansowe komitetu wyborczego o przychodach, wydatkach i zobowiązaniach finansowych komitetu, zwane dalej „sprawozdaniem finansowym”. Sprawozdanie finansowe powinno zawierać informacje o uzyskanych kredytach bankowych i warunkach ich uzyskania oraz imienny wykaz wpłat od osób fizycznych.
+
+3. Do wydatków komitetu wyborczego wlicza się pozyskane wartości niepieniężne.
+
+4. Wartość pozyskanych darowizn niepieniężnych oraz świadczonych na rzecz komitetu wyborczego usług podaje się w sprawozdaniu finansowym w wysokości możliwych do uzyskania cen ich sprzedaży netto, nie wyższych od cen nabycia lub kosztów wytworzenia pomniejszonych o odpisy amortyzacji.
+
+5. Przepisu ust. 4 nie stosuje się do nieodpłatnych usług polegających na rozpowszechnianiu plakatów i ulotek wyborczych przez podmioty inne niż przedsiębiorcy.
+
+6. Sprawozdanie finansowe przedkładane Państwowej Komisji Wyborczej podawane jest przez nią do wiadomości publicznej w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198), a sprawozdanie finansowe przedkładane komisarzowi wyborczemu jest udostępniane przez niego na wniosek zainteresowanych podmiotów. Komisarz wyborczy podaje do publicznej wiadomości, w formie komunikatu w dzienniku o zasięgu co najmniej wojewódzkim, informację o miejscu, czasie i sposobie ich udostępniania do wglądu.
+
+7. Pełnomocnik finansowy komitetu wyborczego jest obowiązany przechowywać dokumenty związane z finansowaniem kampanii wyborczej przez okres co najmniej 12 miesięcy od dnia wyborów.
+
+8. Minister właściwy do spraw finansów publicznych po zasięgnięciu opinii Państwowej Komisji Wyborczej określi, w drodze rozporządzenia, wzory sprawozdań finansowych dla komitetu utworzonego jedynie w celu zgłoszenia kandydatów na radnych do rady gminy w gminie liczącej do 20 000 mieszkańców i pozostałych komitetów wyborczych oraz szczegółowy zakres zawartych w nich informacji, a także wykaz rodzajów dokumentów, jakie należy załączyć do sprawozdania, tak aby umożliwiły one weryfikację podanych w sprawozdaniu informacji.”;
+
+- **17)** dodaje się art. 84a-84d w brzmieniu: „Art. 84a. 1. Organ, któremu przedłożono sprawozdanie finansowe, w terminie 6 miesięcy od dnia wyborów, z zastrzeżeniem art. 84c:
+- **1)** przyjmuje sprawozdanie bez zastrzeżeń,
+- **2)** przyjmuje sprawozdanie wskazując na jego uchybienia,
+- **3)** odrzuca sprawozdanie w przypadku stwierdzenia: 83e,
+    - **a)** pozyskania lub wydatkowania środków komitetu wyborczego z naruszeniem przepisów art. 83,
+    - **b)** przekroczenia limitu wydatków, o którym mowa w art.
+    - **c)** naruszenia zakazów, o których mowa w art. 83b,
+    - **d)** naruszenia przepisów art. 83c ust. 1-5 i art. 83d.
+
+2. W razie zaistnienia wątpliwości co do prawidłowości sprawozdania finansowego organ, któremu przedłożono sprawozdanie, wzywa komitet wyborczy do usunięcia wad sprawozdania lub udzielenia wyjaśnień w określonym terminie.
+
+3. Organ, któremu przedłożono sprawozdanie finansowe, badając sprawozdanie, może zlecać sporządzenie przez biegłego rewidenta ekspertyz lub opinii i raportów.
+
+4. Organ, któremu przedłożono sprawozdanie finansowe, badając sprawozdanie, może żądać od organów państwowych niezbędnej pomocy.
+
+5. W przypadku odrzucenia sprawozdania finansowego komitetu wyborczego przez komisarza wyborczego pełnomocnik finansowy ma prawo, w terminie 14 dni od dnia doręczenia postanowienia o odrzuceniu sprawozdania, wnieść do sądu okręgowego odwołanie od postanowienia. Rozpoznanie odwołania przez sąd okręgowy następuje w postępowaniu nieprocesowym w terminie miesiąca od dnia doręczenia odwołania. Od orzeczenia sądu okręgowego nie przysługuje środek prawny.
+
+6. W przypadku odrzucenia sprawozdania finansowego komitetu wyborczego przez Państwową Komisję Wyborczą pełnomocnik finansowy ma prawo, w terminie 14 dni od dnia doręczenia postanowienia o odrzuceniu sprawozdania, wnieść do Sądu Najwyższego skargę. Sąd Najwyższy rozpoznaje skargę w terminie 2 miesięcy od dnia doręczenia skargi. Od orzeczenia Sądu Najwyższego nie przysługuje środek prawny.
+
+7. Jeżeli Sąd Najwyższy albo sąd okręgowy uzna skargę pełnomocnika finansowego za zasadną, odpowiednio Państwowa Komisja Wyborcza albo komisarz wyborczy niezwłocznie postanawia o przyjęciu sprawozdania finansowego.
+
 **Art. 84b.**
 
 1. Partie polityczne, organizacje i komitety wyborcze wyborców, biorące udział w danych wyborach, albo stowarzyszenia i fundacje, które w swoich statutach przewidują działania związane z analizą finansowania kampanii wyborczych, mogą wnosić do organu, któremu przedłożono sprawozdanie finansowe komitetu wyborczego, umotywowane, pisemne zastrzeżenia do sprawozdania, nie później jednak niż w terminie 4 miesięcy od dnia wyborów.
 
-2. Organ, do którego wniesiono zastrzeżenie udziela pisemnej odpowiedzi na zastrzeżenie w terminie 6 miesięcy od dnia wyborów. w art. 64f ust. 8, komisarz wyborczy może odstąpić od badania sprawozdania jeżeli nie złożono w stosunku do tego sprawozdania zastrzeżenia, o którym mowa w art. 84b. W takim przypadku sprawozdanie finansowe uznaje się za przyjęte. O przyjęciu sprawozdania powiadamia się pełnomocnika wyborczego komitetu.
+2. Organ, do którego wniesiono zastrzeżenie udziela pisemnej odpowiedzi na zastrzeżenie w terminie 6 miesięcy od dnia wyborów.
+
+**Art. 84c.** W przypadku sprawozdania komitetu wyborczego, o którym mowa w art. 64f ust. 8, komisarz wyborczy może odstąpić od badania sprawozdania jeżeli nie złożono w stosunku do tego sprawozdania zastrzeżenia, o którym mowa w art. 84b. W takim przypadku sprawozdanie finansowe uznaje się za przyjęte. O przyjęciu sprawozdania powiadamia się pełnomocnika wyborczego komitetu.
 
 **Art. 84d.**
 
@@ -330,7 +387,7 @@ source: "isap-pdf"
     - **a)** w ust. 1 w zdaniu drugim skreśla się wyrazy „utworzony przez”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Nazwa, skrót nazwy i symbol graficzny komitetu wyborczego wyborców, komitetu wyborczego organizacji, komitetu wyborczego partii politycznych i koalicyjnego komitetu wyborczego partii politycznych korzystają z ochrony prawnej przewidzianej dla dóbr osobistych.”;
 
-- **22)** w art. 110 dodaje się ust. 5 w brzmieniu: mowa w art. 64l ust. 2, właściwa terytorialna komisja wyborcza unieważnia listy tego komitetu.”;
+- **22)** w art. 110 dodaje się ust. 5 w brzmieniu: „5. W przypadku rozwiązania komitetu wyborczego w trybie, o którym mowa w art. 64l ust. 2, właściwa terytorialna komisja wyborcza unieważnia listy tego komitetu.”;
 - **23)** w art. 123 w ust. 1 pkt 1 otrzymuje brzmienie: „1) liczbę głosów ważnie oddanych na każdą z list w okręgu wyborczym dzieli się kolejno przez 1; 2; 3; 4; 5 i dalsze kolejne liczby, aż do chwili, gdy z otrzymanych w ten sposób ilorazów da się uszeregować tyle kolejno największych liczb, ile wynosi liczba mandatów do rozdzielenia między listy,”;
 - **24)** w art. 144 w ust. 1 zdanie drugie otrzymuje brzmienie: „Przepis art. 95 ust. 3 stosuje się odpowiednio.”;
 - **25)** w art. 151 w ust. 1 pkt 1 otrzymuje brzmienie: „1) liczbę głosów ważnie oddanych na każdą z list w okręgu wyborczym dzieli się kolejno przez 1; 2; 3; 4; 5 i dalsze kolejne liczby, aż do chwili, gdy z otrzymanych w ten sposób ilorazów da się uszeregować tyle kolejno największych liczb, ile wynosi liczba mandatów do rozdzielenia między listy,”;
@@ -343,7 +400,7 @@ source: "isap-pdf"
 - **1)** w siedzibach urzędów administracji rządowej lub administracji samorządu terytorialnego bądź sądów,
 - **2)** na terenie zakładów pracy w sposób i w formach zakłócających ich normalne funkcjonowanie,
 - **3)** na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub oddziałów obrony cywilnej bądź skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych,
-- **4)** w lokalu wyborczym lub na terenie budynku, w którym lokal się znajduje
+- **4)** w lokalu wyborczym lub na terenie budynku, w którym lokal się znajduje - podlega karze grzywny.
 
 2. Tej samej karze podlega, kto prowadzi agitację wyborczą na terenie szkół podstawowych lub gimnazjów wobec uczniów nieposiadających prawa wybierania.”;
 
@@ -359,13 +416,23 @@ source: "isap-pdf"
 
 **Art. 199b.** Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, nie umieszcza w materiałach wyborczych oznaczenia od kogo pochodzą - podlega karze grzywny.”;
 
+- **33)** art. 200-202 otrzymują brzmienie: „Art. 200. 1. Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, zbiera podpisy osób popierających zgłoszenie kandydata lub list kandydatów, stosując groźbę, podstęp lub jakąkolwiek inną formę nacisków zmierzających do uzyskania podpisów - podlega grzywnie od 1000 do 10 000 złotych.
+
+2. Tej samej karze podlega, kto zbiera podpisy osób popierających zgłoszenie kandydata lub listy kandydatów na terenie jednostek wojskowych lub innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej albo oddziałów obrony cywilnej lub skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych.
+
+3. Kto udziela wynagrodzenia pieniężnego w zamian za zbieranie lub złożenie podpisu pod zgłoszeniem kandydata lub list kandydatów - podlega grzywnie od 10 000 do 50 000 złotych.
+
 **Art. 201.** Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw w okresie od zakończenia kampanii wyborczej aż do zakończenia głosowania, zwołuje zgromadzenia, organizuje pochody lub manifestacje, wygłasza przemówienia, rozdaje ulotki lub w jakikolwiek inny sposób prowadzi agitację na rzecz kandydatów lub list kandydatów - podlega karze grzywny.
 
 **Art. 202.** Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, bez uprzedniej zgody pełnomocnika wyborczego komitetu wyborczego prowadzi agitację wyborczą polegającą na organizowaniu wieców wyborczych kandydatów, rozpowszechnianiu programów wyborczych kandydatów albo komitetów wyborczych lub ich materiałów propagandowych o charakterze reklamy rozpowszechnianej dla celów kampanii wyborczej za pomocą środków masowego przekazu, plakatów, broszur lub ulotek o masowym nakładzie, lub za pośrednictwem infolinii o bezpłatnym dostępie - podlega karze grzywny.”;
 
+- **34)** dodaje się art. 202a-202k w brzmieniu: „Art. 202a. Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, w okresie od zakończenia kampanii wyborczej aż do zakończenia głosowania, podaje do wiadomości publicznej wyniki przedwyborczych badań (sondaży) opinii publicznej dotyczących przewidywanych zachowań wyborczych lub przewidywanych wyników wyborów, lub wyniki sondaży wyborczych przeprowadzanych w dniu głosowania - podlega grzywnie od 500 000 do 1 000 000 złotych.
+
 **Art. 202b.** Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, prowadząc agitację wyborczą na rzecz komitetów wyborczych lub kandydatów organizuje podczas kampanii wyborczej loterie fantowe lub innego rodzaju gry losowe albo konkursy, w których wygranymi są nagrody pieniężne lub przedmioty o wartości wyższej niż wartość przedmiotów zwyczajowo używanych w celach reklamowych lub promocyjnych - podlega grzywnie od 5000 do 50 000 złotych.
 
-**Art. 202c.** Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, podaje lub dostarcza, w ramach prowadzonej kampanii wyborczej, napoje alkoholowe nieodpłatnie lub po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen nabycia lub kosztów wytworzenia - podlega grzywnie od 5000 do 50 000 złotych. ków województw, przekazuje środki finansowe lub wartości niepieniężne jednego komitetu na rzecz innego komitetu wyborczego - podlega karze grzywny od 1000 do 10 000 złotych.
+**Art. 202c.** Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, podaje lub dostarcza, w ramach prowadzonej kampanii wyborczej, napoje alkoholowe nieodpłatnie lub po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen nabycia lub kosztów wytworzenia - podlega grzywnie od 5000 do 50 000 złotych.
+
+**Art. 202d.** Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, przekazuje środki finansowe lub wartości niepieniężne jednego komitetu na rzecz innego komitetu wyborczego - podlega karze grzywny od 1000 do 10 000 złotych.
 
 **Art. 202e.** Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, organizuje zbiórki publiczne na cele kampanii wyborczej - podlega grzywnie od 1000 do 100 000 złotych.
 
@@ -377,7 +444,18 @@ source: "isap-pdf"
 
 **Art. 202g.** Kto w związku z wyborami do rad gmin, rad powiatów lub sejmików województw:
 
+- **1)** pozyskuje środki finansowe lub wartości niepieniężne na rzecz komitetu wyborczego lub wydatkuje środki finansowe komitetu wyborczego na cele inne niż związane z wyborami,
+- **2)** pozyskuje środki finansowe lub wartości niepieniężne na rzecz komitetu wyborczego lub wydatkuje środki finansowe komitetu wyborczego przed dniem, od którego zezwala na to ustawa,
+- **3)** pozyskuje środki finansowe lub wartości niepieniężne na rzecz komitetu wyborczego po dniu wyborów,
+- **4)** wydatkuje środki finansowe komitetu wyborczego po dniu złożenia sprawozdania finansowego,
+- **5)** wydatkuje środki finansowe komitetu wyborczego z naruszeniem limitów wydatków określonych dla komitetów wyborczych,
+- **6)** przekazuje komitetowi wyborczemu organizacji albo komitetowi wyborczemu wyborców lub przyjmuje w imieniu tych komitetów środki finansowe lub wartości niepieniężne pochodzące z innych źródeł niż od osób fizycznych - podlega grzywnie od 1000 do 100 000 złotych.
+
 **Art. 202h.** Kto, w związku z wyborami do rad gmin, rad powiatów lub sejmików województw, po uzyskaniu informacji z jakich źródeł pochodzą, przyjmuje i przeznacza na kampanię wyborczą środki finansowe lub wartości niepieniężne pochodzące:
+
+- **1)** od osób fizycznych niemających miejsca zamieszkania na terenie Rzeczypospolitej Polskiej, z wyłączeniem obywateli polskich zamieszkałych za granicą,
+- **2)** od cudzoziemców mających miejsce zamieszkania na terenie Rzeczypospolitej Polskiej,
+- **3)** z innego źródła niż z funduszu wyborczego partii politycznej tworzącej komitet wyborczy partii politycznej lub z funduszów wyborczych partii politycznych tworzących koalicyjny komitet wyborczy partii politycznych - podlega grzywnie od 1000 do 100 000 złotych.
 
 **Art. 202i.**
 
@@ -405,9 +483,78 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 27 czerwca 1997 r. o partiach politycznych (Dz.U. z 2001 r. Nr 79, poz. 857 i Nr 154, poz. 1802) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 12 kwietnia 2001 r. - Ordynacja wyborcza do Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz.U. Nr 46, poz. 499, Nr 74, poz. 786 i Nr 154, poz. 1802 oraz z 2002 r. Nr 14, poz. 128 i Nr 113, poz. 984) wprowadza się następujące zmiany:
+- **1)** w art. 24 w ust. 8 kropkę zastępuje się przecinkiem i dodaje się wyrazy „z zastrzeżeniem art. 26a.”;
+- **2)** w art. 25 ust. 4 otrzymuje brzmienie: „4. Łączna suma wpłat od osoby fizycznej na rzecz partii politycznej, z wyłączeniem składek członkowskich w kwocie nieprzekraczającej w jednym roku najniższego miesięcznego wynagrodzenia za pracę pracowników obowiązującego w dniu poprzedzającym wpłatę oraz wpłat na Fundusz Wyborczy partii politycznej, nie może przekraczać w jednym roku 15-krotności najniższego miesięcznego wynagrodzenia za pracę pracowników obowiązującego w dniu poprzedzającym wpłatę.”;
+- **3)** dodaje się art. 26a w brzmieniu: „Art. 26a. Obowiązek gromadzenia środków pieniężnych przez partię polityczną na rachunkach bankowych nie dotyczy kwot ze składek członkowskich w wysokości nieprzekraczającej od jednego członka w jednym roku najniższego miesięcznego wynagrodzenia za pracę pracowników obowiązującego w dniu poprzedzającym wpłatę, pozostawionych w terenowych jednostkach organizacyjnych partii - z przeznaczeniem na pokrycie wydatków związanych z bieżącą działalnością.”;
+- **4)** w art. 34:
+    - **a)** w ust. 3 po wyrazach „wzór informacji” dodaje się wyrazy „ , wraz z niezbędnymi wyjaśnieniami co do sposobu jej sporządzania,”,
+    - **b)** w ust. 4 w zdaniu drugim wyrazy „przez partię polityczną” zastępuje się wyrazami „przez Krajowe Biuro Wyborcze”,
+    - **c)** dodaje się ust. 4a w brzmieniu: „4a. Informację składa się na piśmie oraz na nośniku elektronicznym, którego rodzaj i format oprogramowania określa minister właściwy do spraw finansów publicznych w rozporządzeniu, o którym mowa w ust.
+
+3. ”;
+
+- **5)** w art. 34a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Państwowa Komisja Wyborcza w terminie 4 miesięcy od dnia złożenia informacji:
+
+- **1)** przyjmuje informację bez zastrzeżeń,
+- **2)** przyjmuje informację ze wskazaniem uchybień,
+- **3)** odrzuca informację.”,
+    - **b)** dodaje się ust. 1a w brzmieniu: „1a. Odrzucenie informacji następuje w razie stwierdzenia wykorzystania przez partię polityczną środków z otrzymanej subwencji na cele niezwiązane z działalnością statutową.”;
+
+- **6)** w art. 35:
+    - **a)** w ust. 1 po wyrazie „tworzy” dodaje się wyraz „stały”,
+    - **b)** w ust. 2 dodaje się zdanie drugie w brzmieniu: „W tym celu środki pieniężne przekazywane są na odrębny rachunek bankowy odpowiedniego komitetu wyborczego lub komitetu referendalnego.”;
+
+- **7)** w art. 38:
+    - **a)** w ust. 1 po wyrazie „uzyskania” skreśla się wyrazy „ , przez partię polityczną i Fundusz Wyborczy”,
+    - **b)** w ust. 2 w zdaniu pierwszym po wyrazach „wzór sprawozdania” dodaje się wyrazy „ , wraz z niezbędnymi wyjaśnieniami co do sposobu jego sporządzenia, oraz wykaz dołączanych dokumentów”,
+    - **c)** w ust. 3 w zdaniu drugim wyrazy „przez partię polityczną” zastępuje się wyrazami „przez Krajowe Biuro Wyborcze”,
+    - **d)** dodaje się ust. 3a w brzmieniu: „3a. Sprawozdanie składa się na piśmie oraz na nośniku elektronicznym, którego rodzaj i format oprogramowania określa minister właściwy do spraw finansów publicznych w rozporządzeniu, o którym mowa w ust.
+
+2. ”;
+
+- **8)** art. 38a otrzymuje brzmienie: „Art. 38a. 1. Państwowa Komisja Wyborcza w terminie 4 miesięcy od dnia złożenia sprawozdania:
+- **1)** przyjmuje sprawozdanie bez zastrzeżeń,
+- **2)** przyjmuje sprawozdanie ze wskazaniem uchybień,
+- **3)** odrzuca sprawozdanie. Przepisy art. 34a ust. 2-6 stosuje się odpowiednio.
+
+2. Odrzucenie sprawozdania następuje w przypadku:
+
+- **1)** prowadzenia przez partię polityczną działalności gospodarczej,
+- **2)** pozyskiwania środków finansowych ze zbiórek publicznych,
+- **3)** gromadzenia środków finansowych poza rachunkiem bankowym z naruszeniem przepisów art. 24 ust. 8,
+- **4)** przyjmowania środków finansowych od osób fizycznych, o których mowa w art. 25 ust. 2, lub pozyskiwania środków z innych źródeł niedozwolonych,
+- **5)** gromadzenia lub dokonywania wydatków na kampanie wyborcze lub referendalne z pominięciem Funduszu Wyborczego z naruszeniem przepisu art. 36 ust. 1,
+- **6)** gromadzenia środków finansowych Funduszu Wyborczego poza oddzielnym rachunkiem bankowym z naruszeniem przepisu art. 36 ust. 3.”;
+- **9)** w art. 38d skreśla się zdanie drugie;
+- **10)** w art. 39a w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Korzyści majątkowe przyjęte przez partię polityczną lub Fundusz Wyborczy z naruszeniem przepisów art. 24 ust. 3, 6 i 8, art. 25 ust. 1-3 i 5, art. 36 ust. 1 i 3 lub art. 36a podlegają przepadkowi na rzecz Skarbu Państwa.”;
+- **11)** art. 41 otrzymuje brzmienie: „Art. 41. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, zasady prowadzenia rachunkowości przez partię polityczną, a w szczególności dokumentowania i ewidencji przychodów, wydatków, rozrachunków i składników majątkowych oraz sporządzania sprawozdań finansowych - w tym ewidencji i rozliczania otrzymanych środków publicznych.”.
+
+**Art. 3.** W ustawie z dnia 12 kwietnia 2001 r. - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz.U. Nr 46, poz. 499, Nr 74, poz. 786 i Nr 154, poz. 1802 oraz z 2002 r. Nr 14, poz. 128 i Nr 113, poz. 984) wprowadza się następujące zmiany:
+
+- **1)** w art. 127 w ust. 1 skreśla się wyrazy „przekazane albo” oraz wyrazy „ , art. 113, art. 114 ust. 1 albo art. 115” zastępuje się wyrazami „albo art. 113”;
+- **2)** w art. 166 w ust. 1 pkt 1 otrzymuje brzmienie: „1) liczbę głosów ważnych oddanych na każdą z tych list w okręgu wyborczym dzieli się kolejno przez: 1; 2; 3; 4 i dalsze kolejne liczby aż do chwili, gdy z otrzymanych w ten sposób ilorazów da się uszeregować tyle kolejno największych liczb, ile wynosi liczba mandatów do rozdzielenia między te listy,”;
+- **3)** w art. 223 w pkt 2 skreśla się wyrazy „ pozyskuje lub” oraz wyrazy „przepisu art. 110 ust. 4 albo”.
 
 **Art. 4.** W ustawie z dnia 20 czerwca 2002 r. o bezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz.U. Nr 113, poz. 984) wprowadza się następujące zmiany:
+
+- **1)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Wybory wójtów zarządza Prezes Rady Ministrów, w drodze rozporządzenia, łącznie z wyborami do rad gmin, w trybie określonym w art. 25 ustawy, o której mowa w art. 2 ust. 2.
+
+2. Przedterminowe wybory wójta zarządza Prezes Rady Ministrów, w drodze rozporządzenia, w trybie określonym w art. 26 ustawy, o której mowa w art. 2 ust. 2.”;
+
+- **2)** w art. 7 dodaje się ust. 5 w brzmieniu: „5. Prezes Rady Ministrów, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określa, w drodze rozporządzenia, wzór wykazu osób popierających zgłoszenie kandydata, o którym mowa w ust. 4.”;
+- **3)** w art. 23 dodaje się ust. 7 w brzmieniu: „7. Krajowa Rada Radiofonii i Telewizji określa, w drodze rozporządzenia, po zasięgnięciu opinii Państwowej Komisji Wyborczej, tryb postępowania w sprawach podziału czasu nieodpłatnego rozpowszechniania audycji wyborczych, sposób przygotowania i emisji tych audycji oraz sposób upowszechniania informacji o terminach emisji audycji wyborczych.”;
+- **4)** w art. 24:
+    - **a)** w ust. 1 kropkę na końcu zastępuje się przecinkiem i dodaje się wyrazy „z tym że limity wydatków w przypadku komitetów wyborczych, które zarejestrowały kandydata na wójta ulegają powiększeniu o kwotę ustaloną na zasadach określonych w ust. 5.”,
+    - **b)** w ust. 2 po wyrazie „Pełnomocnik” dodaje się wyraz „finansowy”,
+    - **c)** w ust. 3 po wyrazie „Pełnomocnik” dodaje się wyraz „finansowy”,
+    - **d)** dodaje się ust. 4-6 w brzmieniu: „4. Wzór łącznego sprawozdania finansowego, o którym mowa w ust. 3, ustala minister właściwy do spraw finansów publicznych w drodze rozporządzenia, po zasięgnięciu opinii Państwowej Komisji Wyborczej.
+
+5. Limit wydatków związanych z prowadzeniem kampanii wyborczej kandydata na wójta w gminach do 500 000 mieszkańców ustala się mnożąc liczbę mieszkańców danej gminy przez kwotę 50 groszy, a w gminach powyżej 500 000 mieszkańców mnożąc pierwsze 500 000 mieszkańców przez kwotę 50 groszy, a nadwyżkę ponad 500 000 mieszkańców przez kwotę 25 groszy.
+
+6. Komisarz wyborczy w terminie 7 dni od dnia ogłoszenia rozporządzenia o zarządzeniu wyborów podaje do wiadomości publicznej, w formie komunikatu w dzienniku o zasięgu wojewódzkim, liczbę mieszkańców w poszczególnych gminach według stanu na koniec roku poprzedzającego rok, w którym wybory są przeprowadzane.”;
+
+- **5)** po art. 27 dodaje się rozdział 5a w brzmieniu: „Rozdział 5a. Przepisy karne
 
 **Art. 27a.**
 
@@ -415,7 +562,7 @@ source: "isap-pdf"
 
 - **1)** w siedzibach urzędów administracji rządowej lub administracji samorządu terytorialnego bądź sądów,
 - **2)** na terenie zakładów pracy w sposób i w formach zakłócających ich normalne funkcjonowanie,
-- **3)** na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub odpodległych ministrowi właściwemu do spraw wewnętrznych,
+- **3)** na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub oddziałów obrony cywilnej bądź skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych,
 - **4)** w lokalu wyborczym lub na terenie budynku, w którym lokal się znajduje - podlega karze grzywny.
 
 2. Tej samej karze podlega, kto prowadzi agitację wyborczą na terenie szkół podstawowych lub gimnazjów wobec uczniów nieposiadających prawa wybierania.
@@ -439,7 +586,7 @@ source: "isap-pdf"
 
 1. Kto, w związku z wyborami wójta, burmistrza albo prezydenta miasta, zbiera podpisy osób popierających zgłoszenie kandydata, stosując groźbę, podstęp lub jakąkolwiek inną formę nacisków zmierzających do uzyskania podpisów - podlega grzywnie od 1000 do 10 000 złotych.
 
-2. Tej samej karze podlega, kto zbiera podpisy osób popierających zgłoszenie kandydata na terenie jednostek wojskowych lub innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej albo oddziałów obrony cywilnej lub skoszarowanych jednych.
+2. Tej samej karze podlega, kto zbiera podpisy osób popierających zgłoszenie kandydata na terenie jednostek wojskowych lub innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej albo oddziałów obrony cywilnej lub skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych.
 
 3. Kto udziela wynagrodzenia pieniężnego w zamian za zbieranie lub złożenie podpisu pod zgłoszeniem kandydata - podlega grzywnie od 10 000 do 50 000 złotych.
 
@@ -453,7 +600,9 @@ source: "isap-pdf"
 
 **Art. 27i.** Kto, w związku z wyborami wójta, burmistrza albo prezydenta miasta, podaje lub dostarcza, w ramach prowadzonej kampanii wyborczej, napoje alkoholowe nieodpłatnie lub po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen nabycia lub kosztów wytworzenia - podlega grzywnie od 5000 do 50 000 złotych.
 
-**Art. 27j.** Kto, w związku z wyborami wójta, burmistrza albo prezydenta miasta, przekazuje środki finansowe lub wartości niepieniężne jednego komitetu na rzecz innego komitetu wyborczego - podlega karze grzywny od 1000 do 10 000 złotych. miasta, organizuje zbiórki publiczne na cele kampanii wyborczej - podlega grzywnie od 1000 do 100 000 złotych.
+**Art. 27j.** Kto, w związku z wyborami wójta, burmistrza albo prezydenta miasta, przekazuje środki finansowe lub wartości niepieniężne jednego komitetu na rzecz innego komitetu wyborczego - podlega karze grzywny od 1000 do 10 000 złotych.
+
+**Art. 27k.** Kto, w związku z wyborami wójta, burmistrza albo prezydenta miasta, organizuje zbiórki publiczne na cele kampanii wyborczej - podlega grzywnie od 1000 do 100 000 złotych.
 
 **Art. 27l.**
 
@@ -463,7 +612,26 @@ source: "isap-pdf"
 
 **Art. 27m.** Kto, w związku z wyborami wójta, burmistrza albo prezydenta miasta:
 
+- **1)** pozyskuje środki finansowe lub wartości niepieniężne na rzecz komitetu wyborczego lub wydatkuje środki finansowe komitetu wyborczego na cele inne niż związane z wyborami,
+- **2)** pozyskuje środki finansowe lub wartości niepieniężne na rzecz komitetu wyborczego lub wydatkuje środki finansowe komitetu wyborczego przed dniem, od którego zezwala na to ustawa,
+- **3)** pozyskuje środki finansowe lub wartości niepieniężne na rzecz komitetu wyborczego po dniu wyborów,
+- **4)** wydatkuje środki finansowe komitetu wyborczego po dniu złożenia sprawozdania finansowego,
+- **5)** wydatkuje środki finansowe komitetu wyborczego z naruszeniem limitów wydatków określonych dla komitetów wyborczych,
+- **6)** przekazuje komitetowi wyborczemu organizacji albo komitetowi wyborczemu wyborców lub przejmuje w imieniu tych komitetów środki finansowe lub wartości niepieniężne pochodzące z innych źródeł niż od osób fizycznych - podlega grzywnie od 1000 do 100 000 złotych.
+
 **Art. 27n.** Kto, w związku z wyborami wójta, burmistrza albo prezydenta miasta, po uzyskaniu informacji z jakich źródeł pochodzą, przyjmuje i przeznacza na kampanię wyborczą środki finansowe lub wartości niepieniężne pochodzące:
+
+- **1)** od osób fizycznych niemających miejsca zamieszkania na terenie Rzeczypospolitej Polskiej, z wyłączeniem obywateli polskich zamieszkałych za granicą,
+- **2)** od cudzoziemców mających miejsce zamieszkania na terenie Rzeczypospolitej Polskiej,
+- **3)** z innego źródła niż z funduszu wyborczego partii politycznej tworzącej komitet wyborczy partii politycznej lub z funduszów wyborczych partii politycznych tworzących koalicyjny komitet wyborczy partii politycznych - podlega grzywnie od 1000 do 100 000 złotych.
+
+**Art. 27o.**
+
+1. Pełnomocnik finansowy komitetu wyborczego, który w związku z wyborami wójta, burmistrza albo prezydenta miasta, nie dopełnia w terminie obowiązku przekazania przez komitet wyborczy na rzecz instytucji charytatywnej osiągniętej przez komitet wyborczy nadwyżki pozyskanych środków finansowych nad poniesionymi wydatkami - podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+2. Tej samej karze podlega, kto nie dopuszcza do wykonania lub utrudnia dopełnienie obowiązku przekazania przez komitet wyborczy na rzecz instytucji charytatywnej nadwyżki pozyskanych środków finansowych nad poniesionymi wydatkami, o którym mowa w ust. 1.
+
+3. Jeżeli osoba, o której mowa w ust. 2, działa nieumyślnie - podlega grzywnie.
 
 **Art. 27p.**
 
@@ -483,7 +651,9 @@ source: "isap-pdf"
 
 **Art. 5.**
 
-1. Do postępowania ze złożonymi za 2001 r. sprawozdaniami, o których mowa w art. 38 ust. 1 ustawy, o której mowa w art. 2, stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 2. skała prawo do subwencji, o której mowa w art. 28 i art. 29 ustawy, o której mowa w art. 2, nie stosuje się przepisów art. 38d tejże ustawy, a przypadająca zgodnie z przepisami ustawy, o której mowa w art. 3 - subwencja na 2002 r. wypłacona zostanie w kwocie pomniejszonej o 30%.
+1. Do postępowania ze złożonymi za 2001 r. sprawozdaniami, o których mowa w art. 38 ust. 1 ustawy, o której mowa w art. 2, stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 2.
+
+2. W przypadku odrzucenia sprawozdania za 2001 r. partii politycznej, która uzyskała prawo do subwencji, o której mowa w art. 28 i art. 29 ustawy, o której mowa w art. 2, nie stosuje się przepisów art. 38d tejże ustawy, a przypadająca zgodnie z przepisami ustawy, o której mowa w art. 3 - subwencja na 2002 r. wypłacona zostanie w kwocie pomniejszonej o 30%.
 
 **Art. 6.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 1 pkt 27, który wchodzi w życie z dniem 1 stycznia 2003 r.
 

@@ -8,7 +8,7 @@ pos: 650
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Krajowej Sieci Onkologicznej
@@ -33,7 +33,39 @@ Art. 41–45. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** organizację i zasady funkcjonowania Krajowej Sieci Onkologicznej;
+- **2)** zasady i sposób monitorowania jakości opieki onkologicznej;
+- **3)** zasady funkcjonowania i zadania Krajowej Rady Onkologicznej, zwanej dalej „Radą”;
+- **4)** zasady i tryb finansowania Krajowej Sieci Onkologicznej;
+- **5)** zasady udostępniania danych w ramach Krajowej Sieci Onkologicznej;
+- **6)** zasady prowadzenia diagnostyki onkologicznej i leczenia onkologicznego na podstawie karty diagnostyki i leczenia onkologicznego.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** diagnostyka onkologiczna – świadczenia opieki zdrowotnej mające na celu rozpoznanie nowotworu i określenie stopnia jego zaawansowania, wraz z oceną stanu ogólnego mającą na celu zapewnienie informacji niezbędnych do planowania leczenia onkologicznego, w przypadku gdy lekarz stwierdził podejrzenie nowotworu;
+- **2)** jednostkowe dane medyczne – jednostkowe dane medyczne w rozumieniu art. 2 pkt 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465);
+- **3)** kluczowe wskaźniki jakości opieki onkologicznej – wskaźniki, których osiągnięcie będzie warunkowało możliwość udzielania świadczeń opieki zdrowotnej w danym obszarze w danym rozpoznaniu, wybrane spośród wskaźników jakości opieki onkologicznej określonych w przepisach wydanych na podstawie art. 17 ust. 2 i 3;
+- **4)** koordynator – osobę zatrudnioną na podstawie stosunku pracy lub innego niż stosunek pracy stosunku prawnego w Specjalistycznym Ośrodku Leczenia Onkologicznego, o którym mowa w art. 3 ust. 2 pkt 1, do której zadań należy udzielanie świadczeniobiorcy informacji o organizacji diagnostyki onkologicznej i leczenia onkologicznego oraz ich koordynacja na poszczególnych etapach opieki onkologicznej;
+- **5)** leczenie onkologiczne – świadczenia opieki zdrowotnej mające na celu wyleczenie choroby nowotworowej lub leczenie paliatywne;
+- **6)** lekarz podstawowej opieki zdrowotnej – lekarza, o którym mowa w art. 6 ust. 1 i 2 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz. 2527);
+- **7)** miernik – cechę podlegającą pomiarowi, która będzie używana do obliczania wskaźnika jakości opieki onkologicznej; informacje dotyczące miernika mogą zawierać określenie technik pomiarowych, używanych narzędzi lub sposobu i miejsca gromadzenia danych pomiarowych, w określonym miejscu i czasie;
+- **8)** monitorowanie – weryfikację skuteczności i bezpieczeństwa leczenia onkologicznego realizowaną podczas tego leczenia oraz po jego zakończeniu przez okres 5 lat, zgodnie z kluczowymi zaleceniami, o których mowa w art. 24 ust. 1;
+- **9)** opieka onkologiczna – diagnostykę onkologiczną, leczenie onkologiczne lub monitorowanie, realizowane na podstawie umowy z Narodowym Funduszem Zdrowia, zwanym dalej „Funduszem”, w zakresie świadczeń opieki zdrowotnej, o którym mowa w art. 15 ust. 2 pkt 2, 3, 15, 16 i 17a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146 i 858), z wyjątkiem:
+    - **a)** diagnostyki lub leczenia nowotworów krwi,
+    - **b)** świadczeń opieki zdrowotnej udzielanych osobom poniżej 18. roku życia,
+    - **c)** świadczeń opieki zdrowotnej udzielanych w ramach przyjęcia w trybie nagłym;
+
+- **10)** Ośrodek Kooperacyjny – podmiot wykonujący działalność leczniczą inny niż Specjalistyczny Ośrodek Leczenia Onkologicznego realizujący opiekę onkologiczną w zakresie świadczeń opieki zdrowotnej, o którym mowa w art. 15 ust. 2 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **11)** plan leczenia onkologicznego – element dokumentacji medycznej prowadzonej w postaci elektronicznej ustalany w oparciu o kluczowe zalecenia, o których mowa w art. 24 ust. 1, na potrzeby określenia indywidualnego postępowania leczniczego dla świadczeniobiorcy objętego opieką onkologiczną, zawierający dane, o których mowa w art. 40 ust. 4 pkt 1, oraz jednostkowe dane medyczne, sporządzany przez lekarza prowadzącego opiekę onkologiczną nad pacjentem na podstawie ustaleń wielodyscyplinarnego zespołu terapeutycznego;
+- **12)** podmiot wykonujący działalność leczniczą – podmiot wykonujący działalność leczniczą w rozumieniu art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799);
+- **13)** podstawowa opieka zdrowotna – podstawową opiekę zdrowotną w rozumieniu art. 2 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej;
+- **14)** program zdrowotny – program zdrowotny w rozumieniu art. 5 pkt 30 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **15)** system KSO – system Krajowej Sieci Onkologicznej w rozumieniu art. 11a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **16)** ścieżka pacjenta – algorytm postępowania w ramach opieki onkologicznej gwarantujący maksymalne zwiększenie efektywności tej opieki;
+- **17)** świadczeniobiorca – świadczeniobiorcę w rozumieniu art. 2 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **18)** świadczeniodawca – świadczeniodawcę w rozumieniu art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **19)** świadczenie opieki zdrowotnej – świadczenie opieki zdrowotnej w rozumieniu art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **20)** wskaźnik jakości opieki onkologicznej – ustaloną w oparciu o mierniki informację niezbędną do oceny poziomu jakości opieki onkologicznej, służącą podejmowaniu racjonalnych decyzji dotyczących wyboru działań ukierunkowanych na jej poprawę.
 
 #### Rozdział 2 Organizacja i zasady funkcjonowania Krajowej Sieci Onkologicznej
 
@@ -186,6 +218,9 @@ Art. 41–45. (pominięte)
 
 **Art. 12.** Do postępowania, o którym mowa w:
 
+- **1)** art. 9, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów, o których mowa w art. 24, art. 26 § 1, art. 111–113 i art. 156;
+- **2)** art. 10 ust. 1–6 i 8 oraz art. 11 ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów, o których mowa w art. 24, art. 26 § 1, art. 32, art. 33, art. 39–41, art. 45–48, art. 57 § 1–3 i 4, art. 73–74a, art. 107, art. 109, art. 111–113 i art. 156.
+
 **Art. 13.**
 
 1. Kryteriami warunkującymi przynależność podmiotu wykonującego działalność leczniczą do danego poziomu zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o którym mowa w art. 3 ust. 2 pkt 1, są:
@@ -298,6 +333,9 @@ Art. 41–45. (pominięte)
 #### Rozdział 3 Zasady i sposób monitorowania jakości opieki onkologicznej
 
 **Art. 21.** Monitorowanie jakości opieki onkologicznej w ramach Krajowej Sieci Onkologicznej prowadzą:
+
+- **1)** Krajowy Ośrodek Monitorujący, zwany dalej „KOM”;
+- **2)** WOM.
 
 **Art. 22.**
 
@@ -459,7 +497,28 @@ Art. 41–45. (pominięte)
 
 **Art. 29.** Do zadań Rady należy:
 
+- **1)** opiniowanie wytycznych postępowania diagnostyczno-leczniczego oraz standardów organizacyjnych w onkologii i przekazywanie ich wraz z rekomendacjami do ministra właściwego do spraw zdrowia;
+- **2)** opiniowanie propozycji kluczowych zaleceń, o których mowa w art. 24 ust. 1;
+- **3)** opiniowanie wyników i wniosków, o których mowa w art. 22 ust. 2 pkt 2, i przekazywanie ich wraz z rekomendacjami do ministra właściwego do spraw zdrowia;
+- **4)** opiniowanie propozycji zmian wskaźników jakości opieki onkologicznej, o których mowa w art. 22 ust. 2 pkt 3, i przekazywanie ich wraz z rekomendacjami do ministra właściwego do spraw zdrowia;
+- **5)** przygotowywanie propozycji kluczowych wskaźników jakości opieki onkologicznej, o których mowa w przepisach wydanych na podstawie art. 17 ust. 4, i przekazywanie ich wraz z rekomendacjami do ministra właściwego do spraw zdrowia;
+- **6)** opiniowanie, na wniosek Prezesa Funduszu, o którym mowa w art. 9 ust. 2, spełniania przez podmiot wykonujący działalność leczniczą kryteriów, o których mowa w art. 13 ust. 1 i 2, oraz kryteriów określonych w przepisach wydanych na podstawie art. 13 ust. 3;
+- **7)** prowadzenie analiz dotyczących funkcjonowania systemu opieki onkologicznej w celu identyfikacji problemów oraz podejmowanie inicjatyw zmierzających do jego poprawy;
+- **8)** przygotowywanie rekomendacji dla ministra właściwego do spraw zdrowia w zakresie:
+    - **a)** priorytetów dotyczących opracowywania i aktualizowania kluczowych zaleceń dotyczących organizacji i postępowania klinicznego, dla wszystkich nowotworów,
+    - **b)** promocji zdrowia oraz edukacji społecznej, w porozumieniu z KOM;
+
+- **9)** inicjowanie działań dotyczących zapobiegania chorobom nowotworowym i ich zwalczania, w porozumieniu z KOM;
+- **10)** prowadzenie oceny jakości działania Krajowej Sieci Onkologicznej oraz wskaźników jakości opieki onkologicznej, w tym kluczowych wskaźników jakości opieki onkologicznej we współpracy z WOM i Funduszem;
+- **11)** weryfikacja osiągnięcia przez podmiot wykonujący działalność leczniczą zakwalifikowany do Krajowej Sieci Onkologicznej odpowiedniego poziomu jakości opieki onkologicznej ocenianego na podstawie wskaźników jakości opieki onkologicznej, w tym kluczowych wskaźników jakości opieki onkologicznej;
+- **12)** opiniowanie planu naprawczego, o którym mowa w art. 18 ust. 3;
+- **13)** prowadzenie analiz dotyczących dostępności poszczególnych świadczeń opieki onkologicznej w poszczególnych województwach na podstawie danych z WOM;
+- **14)** wykonywanie innych zadań opiniodawczo-doradczych powierzonych przez ministra właściwego do spraw zdrowia.
+
 **Art. 30.** Członkom Rady przysługuje:
+
+- **1)** wynagrodzenie za udział w posiedzeniu Rady, nieprzekraczające 3500 zł za posiedzenie, jednak nie więcej niż 10 500 zł miesięcznie;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878).
 
 **Art. 31.**
 
@@ -477,7 +536,20 @@ Art. 41–45. (pominięte)
 
 **Art. 33.** Do zadań przewodniczącego Rady należy:
 
+- **1)** przygotowywanie projektów planów pracy i posiedzeń Rady;
+- **2)** ustalanie i przesyłanie członkom Rady terminów posiedzeń Rady i projektów porządków jej obrad;
+- **3)** przydzielanie członkom Rady prac, niezbędnych do prawidłowego wypełniania zadań Rady;
+- **4)** powoływanie spośród członków Rady stale lub doraźnie działających zespołów roboczych w celu usprawnienia prac Rady;
+- **5)** zlecanie członkom Rady lub innym osobom lub instytucjom publicznym spoza składu Rady przygotowania ekspertyz, ocen i opinii;
+- **6)** przedstawianie Radzie projektów opinii, wniosków, ocen i sprawozdań;
+- **7)** przedstawianie opinii, wniosków, ocen i sprawozdań przyjętych przez Radę ministrowi właściwemu do spraw zdrowia;
+- **8)** reprezentowanie Rady na zewnątrz;
+- **9)** składanie wniosku do ministra właściwego do spraw zdrowia o odwołanie członka Rady.
+
 **Art. 34.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, statut Rady, określający:
+
+- **1)** organizację i tryb jej działania, sposób i tryb udzielania opinii, uwzględniając konieczność sprawnego wypełniania zadań przez Radę;
+- **2)** wysokość wynagrodzenia członków Rady, uwzględniając zakres ich zadań.
 
 #### Rozdział 5 Zasady i tryb finansowania Krajowej Sieci Onkologicznej
 
@@ -588,6 +660,9 @@ Art. 41–45. (pominięte)
 
 **Art. 50.** Wskaźniki jakości opieki onkologicznej, o których mowa w art. 17, zostaną obliczone po raz pierwszy dla:
 
+- **1)** SOLO – po upływie 12 miesięcy od dnia ogłoszenia wykazu, o którym mowa w art. 9 ust. 4;
+- **2)** Ośrodków Kooperacyjnych – po upływie 24 miesięcy od dnia ogłoszenia wykazu, o którym mowa w art. 9 ust. 4.
+
 **Art. 51.** Wyniki i wnioski z analizy, o której mowa w art. 22 ust. 2 pkt 2, oraz raporty, o których mowa w art. 23 ust. 2 pkt 2, są sporządzane po raz pierwszy za 2025 r.
 
 **Art. 52.** Usługodawcy są obowiązani zamieszczać w systemie, o którym mowa w art. 5 ust. 1 pkt 1 ustawy zmienianej w art. 45, wyniki badań histopatologicznych, o których mowa w art. 11 ust. 5 pkt 2 ustawy zmienianej w art. 45 w brzmieniu nadanym niniejszą ustawą, po upływie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
@@ -622,5 +697,14 @@ Art. 41–45. (pominięte)
 
 **Art. 57.** Umowy o udzielanie świadczeń opieki zdrowotnej:
 
+- **1)** poziomu, o którym mowa w art. 95l ust. 2 pkt 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie szpitali onkologicznych,
+- **2)** realizowanych w ramach leczenia onkologicznego w zakresie leczenia szpitalnego, objętych finansowaniem poza umowami, o których mowa w pkt 1,
+- **3)** realizowanych w ramach leczenia onkologicznego w zakresie ambulatoryjnej opieki specjalistycznej – obowiązujące przed dniem wejścia w życie niniejszej ustawy zachowują ważność.
+
 **Art. 58.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 5, który wchodzi w życie z dniem 1 kwietnia 2025 r.;
+- **2)** art. 20 ust. 2, 4 i 5, które wchodzą w życie z dniem 1 lipca 2025 r.;
+- **3)** art. 41, który wchodzi w życie z dniem 1 lipca 2023 r.
+
 

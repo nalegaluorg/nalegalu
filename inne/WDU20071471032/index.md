@@ -8,7 +8,7 @@ pos: 1032
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji
@@ -31,7 +31,14 @@ source: "isap-pdf"
 
 **Art. 2.** Dotację przeznacza się na dofinansowanie prac zabezpieczających przedsięwzięcie „Ochrona Głównego Zbiornika Wód Podziemnych 330 - Gliwice, przez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
 
+- **1)** eksploatacji oczyszczalni ścieków;
+- **2)** monitoringu środowiska na terenie i w rejonie Zakładu;
+- **3)** dozorowania mienia i wykonywania prac naprawczych na terenie Zakładu objętego przedsięwzięciem.
+
 **Art. 3.** Dotację na wykonanie zadań, określonych w art. 2, przyznaje się na wniosek Zakładu, na podstawie zaakceptowanego przez Wojewodę Śląskiego:
+
+- **1)** programu likwidacji przedsiębiorstwa;
+- **2)** harmonogramu rzeczowo-finansowego prac planowanych do wykonania.
 
 **Art. 4.**
 

@@ -8,10 +8,10 @@ pos: 895
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 sierpnia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 895 RozpoRządzenie MinistRa zdRowia z dnia 30 lipca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000895) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/895/text.pdf) |
 
-Poz. 895 RozpoRządzenie MinistRa zdRowia z dnia 30 lipca 2012 r.
 w sprawie wykazu wyrobów medycznych o szczególnym znaczeniu dla zabezpieczenia potrzeb zdrowotnych oraz zakresu informacji o tych wyrobach Na podstawie art. 17 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, z późn.
-zm. ) zarządza się, co następuje: § 1. Określa się wykaz wyrobów medycznych o szczególnym znaczeniu dla zabezpieczenia potrzeb zdrowotnych, stanowiący załącznik do rozporządzenia.
+zm. ) zarządza się, co następuje:
+§ 1. Określa się wykaz wyrobów medycznych o szczególnym znaczeniu dla zabezpieczenia potrzeb zdrowotnych, stanowiący załącznik do rozporządzenia.
 § 2. Zakres informacji o wyrobach, o których mowa w § 1, obejmuje:
 1) adres przedsiębiorstwa, w którym znajduje się wyrób medyczny;
 2) rok produkcji wyrobu medycznego;

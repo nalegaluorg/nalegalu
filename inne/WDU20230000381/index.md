@@ -8,10 +8,10 @@ pos: 381
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia o wykonywanie pracy przez osobę W dniu ................................... została zawarta .................................................. reprezentowanym a podmiotem ....................................................................................................................................
+# RZECZYPOSPOLITEJ Poz.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/381/text.pdf) |
 
+o wykonywanie pracy przez osobę W dniu ................................... r. została zawarta .................................................. reprezentowanym a podmiotem ....................................................................................................................................
 ..........................................................................................................................................................
 reprezentowanym przez .................................................................................................................
 Podmiot zobowiązuje się przyjąć osobę podlegającą ........................................................................
@@ -33,7 +34,7 @@ Miejscem wykonywania pracy jest ................................................
 Niniejsza umowa ulega rozwiązaniu w przypadku:
 1) likwidacji lub upadłości podmiotu albo
 2) likwidacji stanowiska pracy, na którym wojskowej, i równoczesnym braku możliwości stanowisku;
-3) naruszenia przez podmiot obowiązków
+3) naruszenia przez podmiot obowiązków 2022 r. o obronie Ojczyzny;
 4) zawieszenia odbywania służby zastępczej
 5) zwolnienia osoby podlegającej kwalifikacji odbyciem;
 6) odbycia służby zastępczej przez osobę

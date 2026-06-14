@@ -8,12 +8,10 @@ pos: 532
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie osób i mienia
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -29,14 +27,14 @@ source: "isap-pdf"
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907),
-2) ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2025 r.
+2) ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
 1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 2) art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia;
 3) art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.;
 4) art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”;
-2) art. 33 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy Prawo lotnicze oraz niektórych innych ustaw (Dz. U.
+2) art. 33 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U.
 poz. 179), który stanowi: „Art. 33. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 1 pkt 3 lit. c, art. 7 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 2) art. 1 pkt 25 i 26, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”.
@@ -49,9 +47,35 @@ Art. 51–53. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** obszary, obiekty i urządzenia podlegające obowiązkowej ochronie;
+- **2)** zasady tworzenia i funkcjonowania wewnętrznych służb ochrony;
+- **3)** zasady prowadzenia działalności gospodarczej w zakresie usług ochrony osób i mienia;
+- **4)** wymagane kwalifikacje i uprawnienia pracowników ochrony;
+- **5)** nadzór nad funkcjonowaniem ochrony osób i mienia;
+- **6)** zasady ochrony transportowanej broni, amunicji, materiałów wybuchowych, uzbrojenia, urządzeń i sprzętu wojskowego.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** kierownik jednostki – osobę lub organ przedsiębiorcy lub innej jednostki organizacyjnej, uprawnionych, zgodnie z przepisami prawa, statutem, umową, do zarządzania nią; za kierownika jednostki uważa się również likwidatora lub syndyka;
+- **2)** (uchylony)
+- **3)** obszar podlegający obowiązkowej ochronie – obszar określony przez ministrów, kierowników urzędów centralnych i wojewodów, wydzielony i odpowiednio oznakowany;
+- **3a)** transport podlegający obowiązkowej ochronie – transport broni, amunicji, materiałów wybuchowych, uzbrojenia, urządzeń i sprzętu wojskowego, wysyłany z obszarów i obiektów podlegających obowiązkowej ochronie;
+- **4)** ochrona osób – działania mające na celu zapewnienie bezpieczeństwa życia, zdrowia i nietykalności osobistej;
+- **5)** ochrona mienia – działania zapobiegające przestępstwom i wykroczeniom przeciwko mieniu, a także przeciwdziałające powstawaniu szkody wynikającej z tych zdarzeń oraz niedopuszczające do wstępu osób nieuprawnionych na teren chroniony;
+- **6)** pracownik ochrony – osobę wpisaną na listę kwalifikowanych pracowników ochrony fizycznej lub kwalifikowanych pracowników zabezpieczenia technicznego, i wykonującą zadania ochrony w ramach wewnętrznej służby ochrony albo na rzecz przedsiębiorcy, który uzyskał koncesję na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia, lub osobę wykonującą zadania ochrony, w zakresie niewymagającym wpisu na te listy, na rzecz przedsiębiorcy, który uzyskał koncesję na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia;
+- **7)** specjalistyczne uzbrojone formacje ochronne – wewnętrzne służby ochrony oraz przedsiębiorców, którzy uzyskali koncesje na prowadzenie działalności gospodarczej w zakresie usług ochrony osób i mienia, posiadających broń na podstawie świadectwa broni, o którym mowa w art. 29 ust. 1 pkt 1 i 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2024 r. poz. 485), zwanej dalej „ustawą o broni i amunicji”;
+- **8)** wewnętrzne służby ochrony – uzbrojone i umundurowane zespoły pracowników przedsiębiorców lub jednostek organizacyjnych, powołane do ich ochrony.
+
 **Art. 3.** Ochrona osób i mienia realizowana jest w formie:
+
+- **1)** bezpośredniej ochrony fizycznej:
+    - **a)** stałej lub doraźnej,
+    - **b)** polegającej na stałym dozorze sygnałów przesyłanych, gromadzonych i przetwarzanych w elektronicznych urządzeniach i systemach alarmowych,
+    - **c)** polegającej na konwojowaniu wartości pieniężnych oraz innych przedmiotów wartościowych lub niebezpiecznych;
+
+- **2)** zabezpieczenia technicznego, polegającego na:
+    - **a)** montażu elektronicznych urządzeń i systemów alarmowych, sygnalizujących zagrożenie chronionych osób i mienia, oraz eksploatacji, konserwacji i naprawach w miejscach ich zainstalowania,
+    - **b)** montażu urządzeń i środków mechanicznego zabezpieczenia oraz ich eksploatacji, konserwacji, naprawach i awaryjnym otwieraniu w miejscach zainstalowania.
 
 **Art. 4.**
 
@@ -175,7 +199,7 @@ Art. 51–53. (pominięte)
 
 - **1)** wzory legitymacji, o których mowa w ust. 1,
 - **2)** tryb i warunki ich wydawania, wymiany lub zwrotu,
-- **3)** sposób prowadzenia ewidencji legitymacji, o której mowa w ust. 3 mając na względzie jednolitość stosowanych legitymacji, dokumentacji oraz procedur związanych z ich wydawaniem, wymianą lub zwrotem, a także możliwość odczytania przez osobę zainteresowaną danych zawartych w tych legitymacjach.
+- **3)** sposób prowadzenia ewidencji legitymacji, o której mowa w ust. 3 – mając na względzie jednolitość stosowanych legitymacji, dokumentacji oraz procedur związanych z ich wydawaniem, wymianą lub zwrotem, a także możliwość odczytania przez osobę zainteresowaną danych zawartych w tych legitymacjach.
 
 **Art. 10.**
 
@@ -206,7 +230,18 @@ Art. 51–53. (pominięte)
 
 **Art. 13.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, dla wewnętrznych służb ochrony:
 
+- **1)** szczegółowe zasady oraz tryb ich tworzenia;
+- **2)** strukturę organizacyjną, zakres działania i sposób prowadzenia dokumentacji ochronnej;
+- **3)** uzbrojenie i wyposażenie;
+- **4)** umundurowanie i odznaki służbowe oraz sposób tworzenia dla nich nazw.
+
 **Art. 14.** Minister Obrony Narodowej określi, w drodze rozporządzenia, dla wewnętrznych służb ochrony działających na terenach podległych, podporządkowanych lub nadzorowanych jednostek organizacyjnych:
+
+- **1)** warunki i tryb ich tworzenia;
+- **2)** strukturę organizacyjną i zakres działania;
+- **3)** uzbrojenie i wyposażenie;
+- **4)** warunki zatrudnienia pracowników;
+- **5)** umundurowanie i odznaki służbowe.
 
 #### Rozdział 4 Zasady prowadzenia działalności gospodarczej w zakresie usług ochrony osób i mienia oraz kontrola tej działalności
 
@@ -256,7 +291,7 @@ Art. 51–53. (pominięte)
 5. Do wniosku o udzielenie koncesji należy dołączyć następujące dokumenty:
 
 - **1)** zaświadczenie o wpisie na listę kwalifikowanych pracowników ochrony fizycznej lub kwalifikowanych pracowników zabezpieczenia technicznego;
-- **2)** oświadczenie o niekaralności przedsiębiorcy oraz osób, o których mowa w art. 17 ust. 3 pkt 6, obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz obywateli państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, które mogą korzystać ze swobody przedsiębiorczości na podstawie umów zawartych przez te państwa ze Wspólnotą Europejską i jej państwami członkowskimi;
+- **2)** oświadczenie o niekaralności przedsiębiorcy oraz osób, o których mowa w art. 17 ust. 3 pkt 6, obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz obywateli państw niebędących stronami umowy o Europejskim Obszarze Gospodarczym, które mogą korzystać ze swobody przedsiębiorczości na podstawie umów zawartych przez te państwa ze Wspólnotą Europejską i jej państwami członkowskimi;
 - **3)** poświadczone tłumaczenie zaświadczenia o niekaralności przedsiębiorców oraz osób innych niż wymienione w pkt 2.
 
 6. Oświadczenie, o którym mowa w ust. 5 pkt 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
@@ -266,6 +301,12 @@ Art. 51–53. (pominięte)
 8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór wniosku składanego do organu koncesyjnego przez przedsiębiorcę ubiegającego się o udzielenie lub zmianę koncesji na wykonywanie działalności gospodarczej w zakresie usług ochrony osób i mienia z uwzględnieniem danych zawartych w ust. 3 oraz informacji o dokumentach wymaganych przy złożeniu wniosku o udzielenie koncesji, mając na względzie ułatwienie przedsiębiorcom czynności związanych ze złożeniem wniosku oraz zapewnienie sprawności postępowania.
 
 **Art. 17a.** Organ koncesyjny może odmówić udzielenia koncesji lub ograniczyć jej zakres w stosunku do wniosku o udzielenie koncesji albo odmówić zmiany koncesji:
+
+- **1)** gdy przedsiębiorca nie spełnia określonych w ustawie warunków wykonywania działalności objętej koncesją;
+- **2)** ze względu na zagrożenie obronności i bezpieczeństwa państwa oraz bezpieczeństwa lub dóbr osobistych obywateli;
+- **3)** przedsiębiorcy, któremu w ciągu ostatnich trzech lat cofnięto koncesję na działalność określoną ustawą z przyczyn wymienionych w art. 22 ust. 1 pkt 1, ust. 2 i 3, lub przedsiębiorcę reprezentuje osoba, która była osobą uprawnioną do reprezentowania innego przedsiębiorcy lub była jej pełnomocnikiem ustanowionym do kierowania działalnością określoną w koncesji, a jej działalność spowodowała wydanie decyzji cofającej koncesję temu przedsiębiorcy;
+- **4)** przedsiębiorcy, którego w ciągu ostatnich trzech lat wykreślono z rejestru działalności regulowanej z powodu złożenia oświadczenia niezgodnego ze stanem faktycznym;
+- **5)** gdy w stosunku do przedsiębiorcy otwarto likwidację albo ogłoszono upadłość.
 
 **Art. 17b.**
 
@@ -351,7 +392,7 @@ Art. 51–53. (pominięte)
 - **8)** daty szkoleń i kursów, o których mowa w art. 26 ust. 7 pkt 3–7 i art. 38b ust. 1;
 - **9)** daty weryfikacji karalności pracowników ochrony.
 
-3. Dokumentację, o której mowa w ust. 1 pkt 2 i 3, przechowuje się przez okres 5 lat od dnia zakończenia działalności gospodarczej w zakresie usług ochrony osób i mienia, a w przypadku dokumentacji dotyczącej realizacji umowy od dnia wygaśnięcia umowy.
+3. Dokumentację, o której mowa w ust. 1 pkt 2 i 3, przechowuje się przez okres 5 lat od dnia zakończenia działalności gospodarczej w zakresie usług ochrony osób i mienia, a w przypadku dokumentacji dotyczącej realizacji umowy – od dnia wygaśnięcia umowy.
 
 4. Dane, o których mowa w ust. 2 pkt 5, 6 i 8, zamieszcza się w wykazie pracowników ochrony, w odniesieniu do pracowników ochrony, których one dotyczą.
 
@@ -384,7 +425,7 @@ Art. 51–53. (pominięte)
 
 - **1)** wzory legitymacji, o których mowa w ust. 1 pkt 3,
 - **2)** tryb i warunki ich wydawania, wymiany lub zwrotu,
-- **3)** sposób prowadzenia ewidencji, o której mowa w ust. 4 mając na względzie jednolitość stosowanych legitymacji, dokumentacji oraz procedur związanych z ich wydawaniem, wymianą lub zwrotem, a także możliwość odczytania przez osobę zainteresowaną danych zawartych w tych legitymacjach.
+- **3)** sposób prowadzenia ewidencji, o której mowa w ust. 4 – mając na względzie jednolitość stosowanych legitymacji, dokumentacji oraz procedur związanych z ich wydawaniem, wymianą lub zwrotem, a także możliwość odczytania przez osobę zainteresowaną danych zawartych w tych legitymacjach.
 
 **Art. 21.**
 
@@ -492,7 +533,7 @@ Art. 51–53. (pominięte)
 
 **Art. 23d.** Organ koncesyjny, w przypadku stwierdzenia nieprawidłowości w wykonywanej działalności gospodarczej objętej koncesją, może wezwać przedsiębiorcę do ich usunięcia, w wyznaczonym terminie.
 
-**Art. 24.** W sprawach udzielenia koncesji, odmowy udzielenia koncesji, zmiany koncesji, cofania koncesji, ograniczenia zakresu koncesji oraz kontroli działalności gospodarczej w zakresie usług ochrony osób i mienia nie stosuje się przepisu art. 32 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222).
+**Art. 24.** W sprawach udzielenia koncesji, odmowy udzielenia koncesji, zmiany koncesji, cofania koncesji, ograniczenia zakresu koncesji oraz kontroli działalności gospodarczej w zakresie usług ochrony osób i mienia nie stosuje się przepisu art. 32 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222).
 
 **Art. 24a.** Organ koncesyjny może zwracać się do sądów, prokuratury, Policji, Straży Granicznej oraz organów administracji publicznej o przekazanie informacji, materiałów i danych będących w ich posiadaniu, istotnych dla prowadzonego postępowania administracyjnego lub postępowania wyjaśniającego zmierzającego do ustalenia, czy działalność gospodarcza wykonywana w zakresie usług ochrony osób i mienia przez przedsiębiorcę, w sprawie którego prowadzone jest postępowanie, rażąco narusza warunki określone w koncesji lub inne warunki wykonywania koncesjonowanej działalności gospodarczej, określone przepisami prawa albo czy działalność tego przedsiębiorcy nie stanowi zagrożenia obronności i bezpieczeństwa państwa lub bezpieczeństwa obywateli.
 
@@ -523,18 +564,18 @@ Art. 51–53. (pominięte)
 
 3. Na listę kwalifikowanych pracowników ochrony fizycznej wpisuje się osobę, która:
 
-- **1)** posiada obywatelstwo polskie lub obywatelstwo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym;
+- **1)** posiada obywatelstwo polskie lub obywatelstwo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
 - **2)** ukończyła 21 lat;
 - **3)** ukończyła co najmniej gimnazjum lub ośmioletnią szkołę podstawową;
 - **4)** ma pełną zdolność do czynności prawnych;
 - **5)** nie była skazana prawomocnym wyrokiem za przestępstwo umyślne i nie toczy się przeciwko niej postępowanie karne o takie przestępstwo;
-- **6)** posiada nienaganną opinię wydaną przez właściwego ze względu na jej miejsce zamieszkania komendanta powiatowego (rejonowego, miejskiego) Policji, sporządzoną na podstawie aktualnie posiadanych przez Policję informacji albo w przypadku obywatela innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym oraz obywatela polskiego zamieszkałego na terenie tych państw przez organ odpowiedniego szczebla i kompetencji tych państw, właściwy ze względu na miejsce zamieszkania tej osoby;
+- **6)** posiada nienaganną opinię wydaną przez właściwego ze względu na jej miejsce zamieszkania komendanta powiatowego (rejonowego, miejskiego) Policji, sporządzoną na podstawie aktualnie posiadanych przez Policję informacji albo – w przypadku obywatela innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym oraz obywatela polskiego zamieszkałego na terenie tych państw – przez organ odpowiedniego szczebla i kompetencji tych państw, właściwy ze względu na miejsce zamieszkania tej osoby;
 - **7)** posiada zdolność fizyczną i psychiczną do wykonywania zadań, stwierdzoną orzeczeniami lekarskim i psychologicznym, których ważność nie upłynęła;
 - **8)** posiada przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomość przepisów prawa związanych z wykonywaniem ochrony osób i mienia.
 
 4. Na listę kwalifikowanych pracowników ochrony fizycznej wpisuje się również osobę, której uznano kwalifikacje do wykonywania zawodu pracownika ochrony fizycznej na podstawie ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
 
-5. Opinię, o której mowa w ust. 3 pkt 6, wydaje się nie rzadziej niż co 3 lata, w formie postanowienia, na które służy zażalenie, a w przypadku opinii dotyczącej obywatela innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym oraz obywatela polskiego zamieszkałego na terenie tych państw, w formie przyjętej w tym państwie.
+5. Opinię, o której mowa w ust. 3 pkt 6, wydaje się nie rzadziej niż co 3 lata, w formie postanowienia, na które służy zażalenie, a w przypadku opinii dotyczącej obywatela innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym oraz obywatela polskiego zamieszkałego na terenie tych państw, w formie przyjętej w tym państwie.
 
 6. Spełnienie wymogów określonych w ust. 3 pkt 4 i 5 pracownik ochrony potwierdza własnym oświadczeniem złożonym pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -544,8 +585,8 @@ Art. 51–53. (pominięte)
 - **2)** dyplomy lub świadectwa uczelni, szkół oficerskich lub podoficerskich Policji lub Straży Granicznej;
 - **3)** świadectwo szkolenia zawodowego zakończonego złożeniem egzaminu na pierwszy stopień podoficerski, chorążego lub oficerski Służby Więziennej wraz ze świadectwem szkolenia specjalistycznego w zakresie specjalizacji ochronnej w Służbie Więziennej;
 - **4)** zaświadczenia o ukończeniu kursów organizowanych przez ośrodki szkolenia Policji, Straży Granicznej, Służby Więziennej, Biura Ochrony Rządu lub Służby Ochrony Państwa, o ile kursy te spełniają wymagania określone w przepisach wykonawczych wydanych na podstawie ust. 9;
-- **5)** zaświadczenie o ukończeniu kwalifikacyjnego kursu zawodowego lub kursu umiejętności zawodowych, potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia, realizowanych zgodnie z przepisami wydanymi na podstawie art. 117 ust. 5 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933);
-- **6)** zaświadczenia o ukończeniu innych kursów potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia, prowadzonych przez publiczne i niepubliczne placówki i ośrodki zgodnie z przepisami wydanymi na podstawie art. 117 ust. 5 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe;
+- **5)** zaświadczenie o ukończeniu kwalifikacyjnego kursu zawodowego lub kursu umiejętności zawodowych, potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia, realizowanych zgodnie z przepisami wydanymi na podstawie art. 117 ust. 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933);
+- **6)** zaświadczenia o ukończeniu innych kursów potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia, prowadzonych przez publiczne i niepubliczne placówki i ośrodki zgodnie z przepisami wydanymi na podstawie art. 117 ust. 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
 - **7)** świadectwa ukończenia szkoleń lub kursów potwierdzających przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia prowadzonych przez uczelnie.
 
 8. Dyplomy uczelni kształcących w zakresie prawa, administracji publicznej, bezpieczeństwa narodowego lub bezpieczeństwa wewnętrznego potwierdzają specjalistyczne przygotowanie teoretyczne w zakresie znajomości przepisów prawa związanych z wykonywaniem ochrony osób i mienia.
@@ -560,7 +601,7 @@ Art. 51–53. (pominięte)
 
 - **1)** ukończyła 18 lat;
 - **2)** spełnia wymogi, o których mowa w art. 26 ust. 3 pkt 1 i 4–6;
-- **3)** posiada zdolność fizyczną i psychiczną do pracy stwierdzoną orzeczeniem lekarskim, wydanym przez lekarza uprawnionego do przeprowadzania badań, o którym mowa w przepisach wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277);
+- **3)** posiada zdolność fizyczną i psychiczną do pracy stwierdzoną orzeczeniem lekarskim, wydanym przez lekarza uprawnionego do przeprowadzania badań, o którym mowa w przepisach wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277);
 - **4)** posiada wykształcenie co najmniej zawodowe techniczne o specjalności elektronicznej, elektrycznej, łączności, mechanicznej, informatycznej lub ukończyła kurs pracownika zabezpieczenia technicznego albo została przyuczona do wymienionych zawodów na podstawie przepisów ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159).
 
 3. Na listę kwalifikowanych pracowników zabezpieczenia technicznego wpisuje się również osobę, której uznano kwalifikacje do wykonywania zawodu pracownika zabezpieczenia technicznego na podstawie ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej.
@@ -578,7 +619,7 @@ Art. 51–53. (pominięte)
 
 - **1)** numer porządkowy wpisu;
 - **2)** imię (imiona) i nazwisko, imię ojca i matki, datę i miejsce urodzenia, adres zamieszkania oraz numer PESEL, jeżeli osoba której wpis dotyczy go posiada;
-- **3)** informację o pełnieniu funkcji członka organu zarządzającego, prokurenta lub pełnomocnika ustanowionego do kierowania działalnością koncesjonowaną, lub prowadzeniu koncesjonowanej działalności gospodarczej jako przedsiębiorca indywidualny lub wspólnik osobowej spółki handlowej, ze wskazaniem pełnionej funkcji oraz numeru koncesji przedsiębiorcy jeżeli taki posiada.
+- **3)** informację o pełnieniu funkcji członka organu zarządzającego, prokurenta lub pełnomocnika ustanowionego do kierowania działalnością koncesjonowaną, lub prowadzeniu koncesjonowanej działalności gospodarczej jako przedsiębiorca indywidualny lub wspólnik osobowej spółki handlowej, ze wskazaniem pełnionej funkcji oraz numeru koncesji przedsiębiorcy – jeżeli taki posiada.
 
 **Art. 29.**
 
@@ -594,7 +635,7 @@ Art. 51–53. (pominięte)
 - **3)** zaświadczenie lub świadectwo potwierdzające przygotowanie teoretyczne i praktyczne w zakresie wyszkolenia strzeleckiego, samoobrony, technik interwencyjnych oraz znajomość przepisów prawa związanych z wykonywaniem ochrony osób i mienia w przypadku osób ubiegających się o wpis na listę kwalifikowanych pracowników ochrony fizycznej;
 - **4)** zaświadczenie potwierdzające odbycie kursu pracownika zabezpieczenia technicznego lub zaświadczenie o przyuczeniu do zawodu w przypadku osób ubiegających się o wpis na listę kwalifikowanych pracowników zabezpieczenia technicznego;
 - **5)** orzeczenia, o których mowa w art. 26 ust. 3 pkt 7 albo art. 27 ust. 2 pkt 3;
-- **6)** decyzję pozytywną o uznaniu kwalifikacji w zawodzie pracownika ochrony fizycznej albo w zawodzie pracownika zabezpieczenia technicznego jeżeli taka decyzja była wydana.
+- **6)** decyzję pozytywną o uznaniu kwalifikacji w zawodzie pracownika ochrony fizycznej albo w zawodzie pracownika zabezpieczenia technicznego – jeżeli taka decyzja była wydana.
 
 3. Właściwy komendant wojewódzki Policji wydaje osobie, której wpisywane dane dotyczą, zaświadczenie o dokonaniu wpisu na listę.
 
@@ -609,13 +650,13 @@ Art. 51–53. (pominięte)
 
 - **1)** pracownik ochrony fizycznej został skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego lub wszczęto w stosunku do niego postępowanie karne o takie przestępstwo;
 - **2)** nie spełnia warunków określonych w art. 26 ust. 3 pkt 1 i 4–8, w art. 30 albo w art. 38b;
-- **3)** wykonując zadania pracownika ochrony fizycznej dopuścił się czynu zabronionego określonego w art. 70 § 2 lub art. 87 § 1 ustawy z dnia 20 maja 1971 r. Kodeks wykroczeń (Dz. U. z 2023 r. poz. 2119 oraz z 2024 r. poz. 1907).
+- **3)** wykonując zadania pracownika ochrony fizycznej dopuścił się czynu zabronionego określonego w art. 70 § 2 lub art. 87 § 1 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2023 r. poz. 2119 oraz z 2024 r. poz. 1907).
 
 7. Pracownika ochrony skreśla się z listy kwalifikowanych pracowników zabezpieczenia technicznego, w przypadku gdy:
 
 - **1)** pracownik zabezpieczenia technicznego został skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego lub wszczęto w stosunku do niego postępowanie karne o takie przestępstwo;
 - **2)** nie spełnia wymogów określonych w art. 26 ust. 3 pkt 1 i 4–6, art. 27 ust. 2 pkt 3 lub w art. 30;
-- **3)** wykonując zadania pracownika zabezpieczenia technicznego dopuścił się czynu zabronionego określonego w art. 70 § 2 ustawy z dnia 20 maja 1971 r. Kodeks wykroczeń.
+- **3)** wykonując zadania pracownika zabezpieczenia technicznego dopuścił się czynu zabronionego określonego w art. 70 § 2 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń.
 
 8. Skreślenie z listy następuje w formie decyzji administracyjnej właściwego komendanta wojewódzkiego Policji.
 
@@ -631,6 +672,10 @@ Art. 51–53. (pominięte)
 
 **Art. 32.** Badania lekarskie i psychologiczne osób wpisanych na listę kwalifikowanych pracowników ochrony fizycznej przeprowadza się co 3 lata lub w okresach krótszych niż 3 lata:
 
+- **1)** jeżeli w orzeczeniu lekarskim lub psychologicznym wskazano krótszy termin następnego badania niż 3 lata;
+- **2)** po okresie niezdolności do pracy spowodowanej chorobą trwającą dłużej niż 6 miesięcy;
+- **3)** na wniosek pracodawcy lub właściwego komendanta wojewódzkiego Policji – w razie uzasadnionego podejrzenia utraty zdolności fizycznej lub psychicznej do wykonywania zadań.
+
 **Art. 33.**
 
 1. Badania lekarskie i psychologiczne osoby ubiegającej się o wpis na listę kwalifikowanych pracowników ochrony fizycznej lub posiadającej taki wpis przeprowadza się na wniosek tej osoby, z zastrzeżeniem przypadków, o których mowa w art. 32 pkt 3 i art. 33a ust. 3.
@@ -639,7 +684,7 @@ Art. 51–53. (pominięte)
 
 3. W przypadkach, o których mowa w art. 32 pkt 3 i art. 33a ust. 3, osoba poddająca się badaniu jest obowiązana złożyć lekarzowi i psychologowi przeprowadzającemu badanie oświadczenie albo dokumenty, o których mowa w ust. 2.
 
-4. Do przeprowadzania badań lekarskich osób ubiegających się o wpis na listę kwalifikowanych pracowników ochrony fizycznej lub posiadających taki wpis oraz wydawania orzeczeń lekarskich, o których mowa w art. 26 ust. 3 pkt 7, uprawniony jest lekarz upoważniony, o którym mowa w art. 15b ust. 1 ustawy o broni i amunicji, który posiada uprawnienie do wykonywania badań, o których mowa w art. 229 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy. Do kontroli wykonywania i dokumentowania badań lekarskich oraz wydawanych orzeczeń lekarskich stosuje się przepisy art. 15i oraz art. 15j ustawy o broni i amunicji.
+4. Do przeprowadzania badań lekarskich osób ubiegających się o wpis na listę kwalifikowanych pracowników ochrony fizycznej lub posiadających taki wpis oraz wydawania orzeczeń lekarskich, o których mowa w art. 26 ust. 3 pkt 7, uprawniony jest lekarz upoważniony, o którym mowa w art. 15b ust. 1 ustawy o broni i amunicji, który posiada uprawnienie do wykonywania badań, o których mowa w art. 229 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. Do kontroli wykonywania i dokumentowania badań lekarskich oraz wydawanych orzeczeń lekarskich stosuje się przepisy art. 15i oraz art. 15j ustawy o broni i amunicji.
 
 **Art. 33a.**
 
@@ -647,13 +692,13 @@ Art. 51–53. (pominięte)
 
 2. Opłaty za badania lekarskie i psychologiczne, którym jest obowiązana poddać się osoba ubiegająca się o wpis na listę kwalifikowanych pracowników ochrony fizycznej, oraz za badania lekarskie i psychologiczne, którym jest obowiązana poddać się osoba posiadająca taki wpis, a także wydane na ich podstawie orzeczenia, ponosi osoba poddana badaniu, a w odniesieniu do pracowników, pracodawca zatrudniający tę osobę.
 
-3. Badania lekarskie i psychologiczne, którym jest obowiązana poddać się osoba, ubiegająca się o wpis na listę kwalifikowanych pracowników ochrony fizycznej, oraz badania lekarskie i psychologiczne, którym jest obowiązana poddać się osoba posiadająca taki wpis, w stosunku do pracowników przeprowadza się na podstawie skierowania wydanego przez pracodawcę, a orzeczenie lekarskie wydane na podstawie badań lekarskich, w obu przypadkach, traktuje się jako orzeczenie, o którym mowa w art. 229 § 4 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+3. Badania lekarskie i psychologiczne, którym jest obowiązana poddać się osoba, ubiegająca się o wpis na listę kwalifikowanych pracowników ochrony fizycznej, oraz badania lekarskie i psychologiczne, którym jest obowiązana poddać się osoba posiadająca taki wpis, w stosunku do pracowników przeprowadza się na podstawie skierowania wydanego przez pracodawcę, a orzeczenie lekarskie wydane na podstawie badań lekarskich, w obu przypadkach, traktuje się jako orzeczenie, o którym mowa w art. 229 § 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres oraz tryb przeprowadzania badań lekarskich i psychologicznych, którym jest obowiązana poddać się osoba ubiegająca się o wpis lub posiadająca wpis na listę kwalifikowanych pracowników ochrony fizycznej, 1a) jednostki o wyższym poziomie referencyjnym, o których mowa w art. 34 ust. 3 pkt 1,
 - **2)** maksymalne stawki opłat za badania lekarskie i psychologiczne,
-- **3)** wzór oświadczenia, o którym mowa w art. 33 ust. 2, oraz druków orzeczeń uwzględniając potrzebę zapewnienia, aby wyniki badań odzwierciedlały stan zdrowia osób poddających się badaniu, potencjał wykonawczy jednostki referencyjnej, w szczególności liczbę i kwalifikacje personelu medycznego, wyposażenie w sprzęt i aparaturę medyczną oraz możliwości diagnostyczno-terapeutyczne w określonej dziedzinie medycyny, oraz aby stawki opłat, o których mowa w pkt 2, odpowiadały kosztom przeprowadzonych badań.
+- **3)** wzór oświadczenia, o którym mowa w art. 33 ust. 2, oraz druków orzeczeń – uwzględniając potrzebę zapewnienia, aby wyniki badań odzwierciedlały stan zdrowia osób poddających się badaniu, potencjał wykonawczy jednostki referencyjnej, w szczególności liczbę i kwalifikacje personelu medycznego, wyposażenie w sprzęt i aparaturę medyczną oraz możliwości diagnostyczno-terapeutyczne w określonej dziedzinie medycyny, oraz aby stawki opłat, o których mowa w pkt 2, odpowiadały kosztom przeprowadzonych badań.
 
 **Art. 34.**
 
@@ -663,7 +708,7 @@ Art. 51–53. (pominięte)
 
 3. Odwołanie wraz z jego uzasadnieniem wnosi się w terminie 30 dni od dnia doręczenia orzeczenia, za pośrednictwem lekarza lub psychologa, który wydał orzeczenie, do jednego z podmiotów odwoławczych, którymi są:
 
-- **1)** wojewódzkie ośrodki medycyny pracy, a w przypadku gdy odwołanie dotyczy orzeczenia lekarskiego wydanego w wojewódzkim ośrodku medycyny pracy jednostka o wyższym poziomie referencyjnym;
+- **1)** wojewódzkie ośrodki medycyny pracy, a w przypadku gdy odwołanie dotyczy orzeczenia lekarskiego wydanego w wojewódzkim ośrodku medycyny pracy – jednostka o wyższym poziomie referencyjnym;
 - **2)** jednostki służby medycyny pracy podmiotów leczniczych utworzonych i wyznaczonych przez ministra właściwego do spraw wewnętrznych;
 - **3)** podmioty lecznicze utworzone i wyznaczone przez Ministra Obrony Narodowej.
 
@@ -687,14 +732,14 @@ Art. 51–53. (pominięte)
 - **2)** wezwania osób do opuszczenia obszaru lub obiektu w przypadku stwierdzenia braku uprawnień do przebywania na terenie chronionego obszaru lub obiektu albo stwierdzenia zakłócania porządku;
 - **3)** ujęcia w granicach obszarów lub obiektów chronionych lub poza ich granicami osób stwarzających w sposób oczywisty bezpośrednie zagrożenie życia lub zdrowia ludzkiego, a także chronionego mienia, w celu niezwłocznego oddania tych osób Policji;
 - **4)** użycia lub wykorzystania środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1 lit. a, b i d, pkt 2 lit. a, pkt 5, 7, 9, 11, pkt 12 lit. a oraz pkt 13 i 21 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2024 r. poz. 383 i 1248 oraz z 2025 r. poz. 179):
-    - **a)** w granicach chronionych obiektów i obszarów w przypadkach, o których mowa w art. 11 pkt 2, 5, 8, 10, 13 i 15 tej ustawy,
-    - **b)** poza granicami obiektów i obszarów chronionych w przypadku, o którym mowa w art. 11 pkt 9 tej ustawy;
+    - **a)** w granicach chronionych obiektów i obszarów – w przypadkach, o których mowa w art. 11 pkt 2, 5, 8, 10, 13 i 15 tej ustawy,
+    - **b)** poza granicami obiektów i obszarów chronionych – w przypadku, o którym mowa w art. 11 pkt 9 tej ustawy;
 
 - **5)** użycia lub wykorzystania broni palnej:
-    - **a)** w granicach chronionych obiektów i obszarów w przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i pkt 2 oraz art. 47 pkt 3, 6 i 7 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, z wyłączeniem przypadków przeciwdziałania czynnościom zmierzającym bezpośrednio do zamachów, o których mowa w art. 45 pkt 1 lit. a–c tej ustawy,
-    - **b)** poza granicami obiektów i obszarów chronionych w przypadkach, o których mowa w art. 45 pkt 1 lit. e oraz art. 47 pkt 3 i 6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+    - **a)** w granicach chronionych obiektów i obszarów – w przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i pkt 2 oraz art. 47 pkt 3, 6 i 7 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, z wyłączeniem przypadków przeciwdziałania czynnościom zmierzającym bezpośrednio do zamachów, o których mowa w art. 45 pkt 1 lit. a–c tej ustawy,
+    - **b)** poza granicami obiektów i obszarów chronionych – w przypadkach, o których mowa w art. 45 pkt 1 lit. e oraz art. 47 pkt 3 i 6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
-1a. Środki przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 5 lub 11 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, mogą być wykorzystane wyłącznie zgodnie z art. 156ze ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z 2024 r. poz. 731 i 1222 oraz z 2025 r. poz. 31 i 179).
+1a. Środki przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 5 lub 11 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, mogą być wykorzystane wyłącznie zgodnie z art. 156ze ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z 2024 r. poz. 731 i 1222 oraz z 2025 r. poz. 31 i 179).
 
 2. Wewnętrzna służba ochrony lub przedsiębiorca prowadzący działalność gospodarczą w zakresie usług ochrony osób i mienia prowadzą ewidencję notatek użycia lub wykorzystania środków przymusu bezpośredniego i broni palnej przez pracowników ochrony.
 
@@ -819,7 +864,7 @@ Art. 51–53. (pominięte)
 - **1)** wstępu na teren obszarów i obiektów i dostępu do urządzeń, o których mowa w art. 4 ust. 1 pkt 1, w których jest prowadzona ochrona;
 - **2)** wstępu na teren siedziby przedsiębiorcy objętego nadzorem w takich dniach i godzinach, w jakich jest prowadzona lub powinna być prowadzona działalność;
 - **3)** żądania udostępnienia dokumentacji ochronnej lub wglądu w nią od osoby upoważnionej do prowadzenia tej dokumentacji i dysponowania nią, pobierania za pokwitowaniem oraz zabezpieczania dokumentów związanych z zakresem nadzoru;
-- **4)** sporządzania, a w razie potrzeby żądania sporządzenia niezbędnych do nadzoru kopii, odpisów lub wyciągów z dokumentów oraz zestawień lub obliczeń, uwierzytelnionych przez osobę upoważnioną do prowadzenia dokumentacji i dysponowania nią;
+- **4)** sporządzania, a w razie potrzeby – żądania sporządzenia niezbędnych do nadzoru kopii, odpisów lub wyciągów z dokumentów oraz zestawień lub obliczeń, uwierzytelnionych przez osobę upoważnioną do prowadzenia dokumentacji i dysponowania nią;
 - **5)** żądania od przedsiębiorcy objętego nadzorem i pracowników ochrony ustnych lub pisemnych wyjaśnień w sprawach będących przedmiotem nadzoru;
 - **6)** wstępu na teren ochranianych obszarów, obiektów i urządzeń, o których mowa w art. 4 ust. 1 pkt 1, poza godzinami, w jakich jest prowadzona działalność, w obecności dowódcy jednostki wojskowej ochranianej przez specjalistyczną uzbrojoną formację ochronną lub osoby przez niego upoważnionej;
 - **7)** utrwalania przebiegu tych czynności za pomocą technik audiowizualnych.
@@ -856,7 +901,7 @@ Art. 51–53. (pominięte)
 
 19. Komendant Główny Żandarmerii Wojskowej przedstawia Ministrowi Obrony Narodowej:
 
-- **1)** zbiorczy meldunek o wynikach nadzoru do dnia 31 marca danego roku za rok poprzedni;
+- **1)** zbiorczy meldunek o wynikach nadzoru – do dnia 31 marca danego roku za rok poprzedni;
 - **2)** meldunek o stwierdzonych rażących nieprawidłowościach ujawnionych w wyniku nadzoru oraz o działaniach podjętych w celu ich usunięcia.
 
 **Art. 43b.** Szef Sztabu Generalnego Wojska Polskiego, dowódcy rodzajów sił zbrojnych, Szef Inspektoratu Wsparcia Sił Zbrojnych, Dowódca Garnizonu Warszawa lub Komendant Główny Żandarmerii Wojskowej, na wniosek dowódców (dyrektorów, komendantów, szefów) podległych jednostek organizacyjnych, udzielają zgody na powierzenie ochrony obszarów, obiektów i urządzeń, o których mowa w art. 4 ust. 1 pkt 1, specjalistycznym uzbrojonym formacjom ochronnym.
@@ -892,6 +937,11 @@ Art. 51–53. (pominięte)
 - **11)** wzory plomb i odciski pieczęci każdego posterunku.
 
 **Art. 43d.** Specjalistyczne uzbrojone formacje ochronne realizują zadania z zakresu ochrony obszarów, obiektów i urządzeń, o których mowa w art. 4 ust. 1 pkt 1, w szczególności przez:
+
+- **1)** konwojowanie mienia jednostki wojskowej;
+- **2)** przekazywanie Policji, Żandarmerii Wojskowej lub wojskowym organom porządkowym osób ujętych podczas wykonywania tych zadań;
+- **3)** współpracę z Żandarmerią Wojskową, wojskowymi organami porządkowymi i Policją;
+- **4)** współpracę z wewnętrzną służbą ochrony oraz wojskową ochroną przeciwpożarową, jeżeli zostały powołane na obszarach lub w obiektach, o których mowa w art. 4 ust. 1 pkt 1.
 
 **Art. 44.** (uchylony)
 
@@ -962,6 +1012,9 @@ Art. 51–53. (pominięte)
 **Art. 56.** Wnioski o wydanie zgody na powołanie albo rozwiązanie Straży Przemysłowych (Portowych, Bankowych) oraz Straży Pocztowych lub o wydanie koncesji na świadczenie usług ochrony osób i mienia, złożone, lecz nierozpatrzone do dnia wejścia w życie ustawy, podlegają rozpatrzeniu w trybie i na zasadach określonych w niniejszej ustawie.
 
 **Art. 57.** Tracą moc:
+
+- **1)** dekret z dnia 17 października 1946 r. o Straży Pocztowej (Dz. U. poz. 323);
+- **2)** ustawa z dnia 31 stycznia 1961 r. o Straży Przemysłowej (Dz. U. poz. 42 oraz z 1989 r. poz. 192).
 
 **Art. 58.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
 

@@ -8,10 +8,10 @@ pos: 280
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 280 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 lutego 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/280/text.pdf) |
 
-Poz. 280 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 lutego 2024 r.
 w sprawie przekazywania za pomocą środków komunikacji elektronicznej oraz opatrywania podpisem elektronicznym wniosku o przekazanie 1,5% należnego podatku rolnego Na podstawie art. 6d ust. 8 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2020 r. poz. 333 oraz z 2023 r.
-poz. 1450) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 1450) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób przekazywania wniosku o przekazanie 1,5% należnego podatku rolnego, o którym mowa w art. 6d ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym, zwanego dalej „wnioskiem”, za pomocą środków komunikacji elektronicznej;
 2) rodzaje podpisu elektronicznego, którym powinien zostać opatrzony wniosek.
 § 2. Przekazywanie wniosku za pomocą środków komunikacji elektronicznej następuje na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r.

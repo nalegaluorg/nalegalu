@@ -8,10 +8,10 @@ pos: 1274
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 sierpnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1274 RozpoRządzenie MinistRa CyfRyzaCji z dnia 9 sierpnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1274/text.pdf) |
 
-Poz. 1274 RozpoRządzenie MinistRa CyfRyzaCji z dnia 9 sierpnia 2016 r.
-w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców Na podstawie art. 48a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627 i 904) zarządza się, co następuje: § 1. Rozporządzenie określa warunki i tryb przekazywania staroście przez administratora centralnej ewidencji kierowców informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców w okresie 2 lat od dnia uzyskania przez nie prawa jazdy określonej kategorii, zwanej dalej „informacją”.
+w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców Na podstawie art. 48a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627 i 904) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki i tryb przekazywania staroście przez administratora centralnej ewidencji kierowców informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców w okresie 2 lat od dnia uzyskania przez nie prawa jazdy określonej kategorii, zwanej dalej „informacją”.
 § 2. Administrator centralnej ewidencji kierowców przekazuje staroście informację poprzez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący centralną ewidencję kierowców do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z wydawaniem dokumentów stwierdzających posiadanie uprawnień do kierowania pojazdami.
 § 3. 1. Informację przekazuje się w formie statystyk zawierających liczbę osób przeszkolonych w danym ośrodku szkolenia kierowców oraz liczbę naruszeń przepisów ruchu drogowego popełnionych przez te osoby w okresie 2 lat od dnia uzyskania przez nie prawa jazdy określonej kategorii.
 2. Informacja jest sporządzana za okresy miesięczne, kwartalne, półroczne i roczne.

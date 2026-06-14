@@ -8,10 +8,10 @@ pos: 2542
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 listopada 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22554422 ROZPORZĄDZENIE MINISTRA FINANSÓW 1) z dnia 17 listopada 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-08-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002542) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2542/text.pdf) |
 
-22554422 ROZPORZĄDZENIE MINISTRA FINANSÓW 1) z dnia 17 listopada 2023 r.
 w sprawie pobierania i zwrotu podatku od czynności cywilnoprawnych Na podstawie art. 10 ust. 4 ustawy z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2023 r.
-poz. 170, 1463 i 1723) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 170, 1463 i 1723) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób pobierania i zwrotu podatku od czynności cywilnoprawnych, zwanego dalej „podatkiem”, w tym czynności związane z poborem podatku i zakres pouczeń udzielanych podatnikowi przez płatnika oraz treść rejestru podatku;
 2) zakres danych zawartych w deklaracji o wysokości pobranego i wpłaconego podatku przez płatnika;
 3) wzór deklaracji w sprawie podatku.
 § 2. Płatnicy określają w treści sporządzanych aktów notarialnych podstawę prawną pobrania podatku i sposób jego obliczenia, a w przypadku niepobrania podatku zamieszczają podstawę prawną jego niepobrania.
 § 3. Płatnicy pouczają podatników o:
-1) skutkach przewidzianych w ustawie z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2023 r. poz. 654 i 818) w razie podania nieprawdy lub zatajenia prawdy, przez co podatek narażony jest na uszczuplenie;
+1) skutkach przewidzianych w ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2023 r. poz. 654 i 818) w razie podania nieprawdy lub zatajenia prawdy, przez co podatek narażony jest na uszczuplenie;
 2) przysługującym organowi podatkowemu prawie do określenia, podwyższenia lub obniżenia wartości przedmiotu czynności cywilnoprawnej;
 3) ciążącym na podatniku obowiązku zapłaty zaległości podatkowej wraz z odsetkami za zwłokę, w przypadku określenia lub podwyższenia wartości przedmiotu czynności cywilnoprawnej przez organ podatkowy.
 § 4. 1. Rejestr podatku zawiera następujące rubryki:
@@ -43,7 +43,8 @@ poz. 170, 1463 i 1723) zarządza się, co następuje: § 1. Rozporządzenie okre
 4) datę wpisania aktu notarialnego do rejestru podatku;
 5) imię i nazwisko albo nazwę lub firmę podatnika;
 6) identyfikator podatkowy podatnika: numer identyfikacji podatkowej (NIP) lub numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli podatnik go posiada;
-Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa
+Minister Finansów kieruje działem administracji rządowej ‒ finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+7) miejsce zamieszkania (siedzibę) podatnika;
 8) zwięzłe określenie treści czynności cywilnoprawnej;
 9) wartość przedmiotu czynności cywilnoprawnej;
 10) miejsce położenia nieruchomości stanowiącej przedmiot czynności cywilnoprawnej (miejscowość, gmina, powiat, województwo);
@@ -71,129 +72,72 @@ d) kwotę podatku wpłaconego na rachunek bankowy właściwego organu podatkoweg
 a) dane identyfikujące gminę (nazwę gminy, jej identyfikator krajowego rejestru urzędowego podziału terytorialnego kraju „TERYT”, nazwę województwa i powiatu, w których gmina jest położona),
 b) łączną kwotę podatku należnego poszczególnym gminom,
 c) numery repertorium A, pod którymi wpisane są czynności prawne, z tytułu których podatek jest należny poszczególnym gminom;
+8) oświadczenie płatnika o zgodności podanej kwoty pobranego podatku z kwotami wykazanymi w prowadzonym rejestrze podatku lub w repertorium A – w przypadku, o którym mowa w § 4 ust. 3;
 9) podpis płatnika.
 § 7. Wzór deklaracji w sprawie podatku określa załącznik do rozporządzenia.
-§ 8. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. 2) Minister Finansów: wz. A. Soboń Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 listopada 2015 r. w sprawie sposobu pobierania i zwrotu podatku od czynności cywilnoprawnych (Dz. U. poz. 1999), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 26 ust. 2 ustawy z dnia 7 października 2022 r. o zmianie ustawy o podatku dochodowym od osób
-1. Identyfikator podatkowy NIP / numer PESEL podatnika 2. Nr dokumentu 3. Status PCC-3 DEKLARACJA W SPRAWIE PODATKU OD CZYNNOŚCI CYWILNOPRAWNYCH
+§ 8. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. 2) Minister Finansów: wz. A. Soboń Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 listopada 2015 r. w sprawie sposobu pobierania i zwrotu podatku od czynności cywilnoprawnych (Dz. U. poz. 1999), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 26 ust. 2 ustawy z dnia 7 października 2022 r. o zmianie ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2180 i 2707 oraz z 2023 r. poz. 1059).
+Załącznik do rozporządzenia Ministra Finansów z dnia r. (Dz. U. poz. ) Załącznik do rozporządzenia Ministra Finansów Załącznik do rozporządzenia Ministra Finansów z dnia z dnia 17 listopada r. (Dz. 2023 U. r. (Dz. poz. U. poz. 2542) )
+1. Identyfikator podatkowy NIP / numer PESEL podatnika 2. Nr dokumentu 3. Status PCC-3 1. Identyfikator podatkowy NIP / numer PESEL podatnika 2. Nr dokumentu 3. Status PCC-3 DEKLARACJA W SPRAWIE PODATKU OD CZYNNOŚCI CYWILNOPRAWNYCH DEKLARACJA W SPRAWIE 4. Data dokonania PODATKU czynności (dzień OD - miesiąc CZYNNOŚCI - rok) CYWILNOPRAWNYCH
 4. Data dokonania czynności (dzień - miesiąc - rok) Podstawa prawna: Art. 10 ust. 1 ustawy z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2023 r. poz. 170, 1463 i 1723), zwanej dalej "ustawą".
-Składający: P odatnicy podatku od czynności cywilnoprawnych.
-Termin składania: 14 dni od dnia powstania obowiązku podatkowego.
-Miejsce składania: Urząd skarbowy, przy pomocy którego swoje zadania wykonuje nac zelnik urzędu skarbowego, o którym mowa w art. 12 i 13 ustawy.
-A. MIEJSCE I CEL SKŁADANIA DEKLARACJI
-5. Urząd skarbowy, do którego jest adresowana deklaracja
-6. Cel złożenia deklaracji (zaznaczyć właściwy kwadrat): ❑
+Składający: Podstawa prawna: P Art. odatnicy 10 ust. podatku 1 ustawy od z dnia czynności 9 września cywilnoprawnych. 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2023 r. poz. 170, 1463 i 1723), zwanej Termin składania: 14 dalej dni "ustawą". od dnia powstania obowiązku podatkowego.
+Miejsce Składający: składania: Urząd P odatnicy skarbowy, podatku przy od pomocy czynności którego cywilnoprawnych. swoje zadania wykonuje nac zelnik urzędu skarbowego, o którym mowa w art. 12 i 13 Termin składania: ustawy. 14 dni od dnia powstania obowiązku podatkowego.
+Miejsce składania: Urząd skarbowy, przy pomocy którego swoje zadania wykonuje nac zelnik urzędu skarbowego, o którym mowa w art. 12 i 13 A. MIEJSCE I CEL ustawy. SKŁADANIA DEKLARACJI
+5. Urząd skarbowy, do którego jest adresowana deklaracja A. MIEJSCE I CEL SKŁADANIA DEKLARACJI
+6. 5. Cel Urząd złożenia skarbowy, deklaracji do którego (zaznaczyć jest adresowana właściwy kwadrat): deklaracja ❑
 1. złożenie deklaracji ❑
-2. korekta deklaracji B. DANE PODATNIKA DOKONUJĄCEGO ZAPŁATY ZWOLNIONEGO Z PODATKU NA PODSTAWIE ART. 9 PKT 10 LIT. B USTAWY * - dotyczy podatnika niebędącego osobą fizyczną ** - dotyczy podatnika będącego osobą fizyczną B.1. DANE IDENTYFIKACYJNE
-7. Podmiot składający deklarację (zaznaczyć właściwy kwadrat): ❑
-1. podmiot zobowiązany solidarnie do zapłaty podatku ❑
-2. strona umowy zamiany ❑
-3. wspólnik spółki cywilnej ❑
-4. podmiot, o którym mowa w art. 9 pkt 10 lit. b ustawy (pożyczkobiorca) ❑
-5. inny podmiot
-8. Rodzaj podatnika (zaznaczyć właściwy kwadrat): ❑
-1. podatnik niebędący osobą fizyczną ❑
-2. osoba fizyczna
+2. korekta deklaracji
+6. Cel złożenia deklaracji (zaznaczyć właściwy kwadrat): B. DANE PODATNIKA DOKONUJĄCEGO ❑ ZAPŁATY LUB ZWOLNIONEGO ❑ Z PODATKU
+1. złożenie deklaracji 2. korekta deklaracji NA PODSTAWIE ART. 9 PKT 10 LIT. B USTAWY B. DANE PODATNIKA - DOKONUJĄCEGO ZAPŁATY LUB ZWOLNIONEGO Z PODATKU * dotyczy podatnika niebędącego osobą fizyczną ** - dotyczy podatnika będącego osobą fizyczną NA PODSTAWIE ART. 9 PKT 10 LIT. B USTAWY B.1. DANE IDENTYFIKACYJNE * - dotyczy podatnika niebędącego osobą fizyczną ** - dotyczy podatnika będącego osobą fizyczną
+7. Podmiot składający deklarację (zaznaczyć właściwy kwadrat): B.1. DANE IDENTYFIKACYJNE ❑ ❑ ❑
+1. podmiot zobowiązany solidarnie do zapłaty podatku 2. strona umowy zamiany 3. wspólnik spółki cywilnej
+7. Podmiot składający ❑ deklarację (zaznaczyć właściwy kwadrat): ❑ ❑ 4. podmiot, o którym mowa w art. 9 pkt 10 lit. b ustawy (pożyczkobiorca) ❑ ❑ 5. inny podmiot
+1. podmiot zobowiązany solidarnie do zapłaty podatku 2. strona umowy zamiany 3. wspólnik spółki cywilnej
+8. Rodzaj podatnika (zaznaczyć właściwy kwadrat): ❑ ❑ ❑ ❑
+4. podmiot, 1. o którym podatnik mowa niebędący w art. 9 osobą pkt 10 fizyczną lit. b ustawy (pożyczkobiorca) 2. osoba fizyczna 5. inny podmiot
+9. 8. Nazwa Rodzaj pełna podatnika * / Nazwisko, (zaznaczyć pierwsze właściwy imię, kwadrat): data urodzenia ** ❑ ❑
+1. podatnik niebędący osobą fizyczną 2. osoba fizyczna
 9. Nazwa pełna * / Nazwisko, pierwsze imię, data urodzenia **
+10. Nazwa skrócona * / Imię ojca, imię matki **
 10. Nazwa skrócona * / Imię ojca, imię matki ** B.2. ADRES SIEDZIBY * / AKTUALNY ADRES ZAMIESZKANIA **
-11. Kraj 12. Województwo 13. Powiat
-14. Gmina 15. Ulica 16. Nr domu 17. Nr lokalu
-18. Miejscowość 19. Kod pocztowy C. PRZEDMIOT OPODATKOWANIA I TREŚĆ CZYNNOŚCI CYWILNOPRAWNEJ .
-20. Przedmiot opodatkowania (zaznaczyć właściwy kwadrat): ❑
-1. umowa ❑
-2. zmiana umowy ❑
-3. orzeczenie sądu lub ugoda ❑
-4. inne
-21. Miejsce położenia rzeczy lub miejsce wykonywania prawa majątkowego (zaznaczyć właściwy kwadrat): ❑
-1. terytorium RP ❑
-2. poza terytorium RP
-22. Miejsce dokonania czynności cywilnoprawnej (zaznaczyć właściwy kwadrat): ❑
-1. terytorium RP ❑
-2. poza terytorium RP
-23. Zwięzłe określenie treści i przedmiotu czynności cywilnoprawnej 1
-1. Identyfikator podatkowy NIP / numer PESEL podatnika 2. Nr dokumentu 3. Status PCC-3 DEKLARACJA W SPRAWIE PODATKU OD CZYNNOŚCI CYWILNOPRAWNYCH
-4. Data dokonania czynności (dzień - miesiąc - rok) Podstawa prawna: Art. 10 ust. 1 ustawy z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2023 r. poz. 170, 1463 i 1723), zwanej dalej "ustawą".
-Składający: P odatnicy podatku od czynności cywilnoprawnych.
-Termin składania: 14 dni od dnia powstania obowiązku podatkowego.
-Miejsce składania: Urząd skarbowy, przy pomocy którego swoje zadania wykonuje nac zelnik urzędu skarbowego, o którym mowa w art. 12 i 13 ustawy.
-A. MIEJSCE I CEL SKŁADANIA DEKLARACJI
-5. Urząd skarbowy, do którego jest adresowana deklaracja
-6. Cel złożenia deklaracji (zaznaczyć właściwy kwadrat): ❑
-1. złożenie deklaracji ❑
-2. korekta deklaracji B. DANE PODATNIKA DOKONUJĄCEGO ZAPŁATY ZWOLNIONEGO Z PODATKU NA PODSTAWIE ART. 9 PKT 10 LIT. B USTAWY * - dotyczy podatnika niebędącego osobą fizyczną ** - dotyczy podatnika będącego osobą fizyczną B.1. DANE IDENTYFIKACYJNE
-7. Podmiot składający deklarację (zaznaczyć właściwy kwadrat): ❑
-1. podmiot zobowiązany solidarnie do zapłaty podatku ❑
-2. strona umowy zamiany ❑
-3. wspólnik spółki cywilnej ❑
-4. podmiot, o którym mowa w art. 9 pkt 10 lit. b ustawy (pożyczkobiorca) ❑
-5. inny podmiot
-8. Rodzaj podatnika (zaznaczyć właściwy kwadrat): ❑
-1. podatnik niebędący osobą fizyczną ❑
-2. osoba fizyczna
-9. Nazwa pełna * / Nazwisko, pierwsze imię, data urodzenia **
-10. Nazwa skrócona * / Imię ojca, imię matki ** B.2. ADRES SIEDZIBY * / AKTUALNY ADRES ZAMIESZKANIA **
-11. Kraj 12. Województwo 13. Powiat
-14. Gmina 15. Ulica 16. Nr domu 17. Nr lokalu
-18. Miejscowość 19. Kod pocztowy C. PRZEDMIOT OPODATKOWANIA I TREŚĆ CZYNNOŚCI CYWILNOPRAWNEJ .
-20. Przedmiot opodatkowania (zaznaczyć właściwy kwadrat): ❑
-1. umowa ❑
-2. zmiana umowy ❑
-3. orzeczenie sądu lub ugoda ❑
-4. inne
-21. Miejsce położenia rzeczy lub miejsce wykonywania prawa majątkowego (zaznaczyć właściwy kwadrat): ❑
-1. terytorium RP ❑
-2. poza terytorium RP
-22. Miejsce dokonania czynności cywilnoprawnej (zaznaczyć właściwy kwadrat): ❑
-1. terytorium RP ❑
-2. poza terytorium RP
-23. Zwięzłe określenie treści i przedmiotu czynności cywilnoprawnej PCC-3 2 D. OBLICZENIE NALEŻNEGO PODATKU OD CZYNNOŚCI CYWILNOPRAWNYCH, Z WYJĄTKIEM UMOWY SPÓŁKI JEJ ZMIANY Rodzaj czynności cywilnoprawnej Podstawa opodatkowania Stawka podatku Obliczony należny podatek (w tym zmiana umowy, orzeczenie sądu lub określona zgodnie z art.6 ustawy określona zgodnie odczynności cywilnoprawnej ugoda) (po zaokrągleniu do pełnych złotych) zart.7 ustawy (po zaokrągleniu do pełnych złotych) zł zł a b c d Umowa sprzedaży
-24.
-1%
-25.
-26.
-2%
-27.
-Umowa zamiany 28. 29.
-%
-30.
-Umowa pożyczki lub depozytu nieprawidłowego, w tym zwolniona na podstawie art. 9 pkt 10 lit. b ustawy
-31. 32.
-%
-33.
-Umowa darowizny w części dotyczącej 34. 35.
-przejęcia przez obdarowanego długów iciężarów lub zobowiązań darczyńcy %
-36.
-Ustanowienie odpłatnego użytkowania, wtym 37. 38.
+11. Kraj 12. Województwo 13. Powiat B.2. ADRES SIEDZIBY * / AKTUALNY ADRES ZAMIESZKANIA **
+14. 11. Kraj Gmina 15. 12. Ulica Województwo 16. 13. Nr Powiat domu 17. Nr lokalu
+18. 14. Miejscowość Gmina 15. Ulica 19. 16. Nr Kod domu pocztowy 17. Nr lokalu
+18. Miejscowość 19. Kod pocztowy C. PRZEDMIOT OPODATKOWANIA I TREŚĆ CZYNNOŚCI CYWILNOPRAWNEJ
+20. Przedmiot opodatkowania (zaznaczyć właściwy kwadrat): C. PRZEDMIOT . ❑ OPODATKOWANIA ❑ I TREŚĆ CZYNNOŚCI ❑ CYWILNOPRAWNEJ ❑
+1. umowa 2. zmiana umowy 3. orzeczenie sądu lub ugoda 4. inne
+21. 20. Przedmiot Miejsce położenia opodatkowania rzeczy lub (zaznaczyć miejsce wykonywania właściwy kwadrat): prawa majątkowego (zaznaczyć właściwy kwadrat): . ❑ 1. umowa ❑ ❑ 2. 1. zmiana terytorium umowy RP ❑ ❑ 2. 3. poza orzeczenie terytorium sądu RP lub ugoda ❑ 4. inne
+22. 21. Miejsce Miejsce dokonania położenia rzeczy czynności lub miejsce cywilnoprawnej wykonywania (zaznaczyć prawa właściwy majątkowego kwadrat): (zaznaczyć właściwy kwadrat): ❑ ❑ ❑ ❑
+1. 1. terytorium terytorium RP RP 2. 2. poza poza terytorium terytorium RP RP
+23. 22. Zwięzłe Miejsce określenie dokonania treści czynności i przedmiotu cywilnoprawnej czynności (zaznaczyć cywilnoprawnej właściwy kwadrat): ❑ ❑
+1. terytorium RP 2. poza terytorium RP
+23. Zwięzłe określenie treści i przedmiotu czynności cywilnoprawnej PCC-3 1 PCC-3 1 D. OBLICZENIE NALEŻNEGO PODATKU OD CZYNNOŚCI CYWILNOPRAWNYCH, Z WYJĄTKIEM UMOWY SPÓŁKI LUB JEJ ZMIANY Rodzaj czynności cywilnoprawnej Podstawa opodatkowania Stawka podatku Obliczony należny podatek (w tym zmiana umowy, orzeczenie sądu lub określona zgodnie z art.6 ustawy określona zgodnie odczynności cywilnoprawnej ugoda) (po zaokrągleniu do pełnych złotych) zart.7 ustawy (po zaokrągleniu do pełnych złotych) zł zł a b c d
+24. 25.
+Umowa sprzedaży 1%
+26. 27.
+2% Umowa zamiany 28. 29. 30.
+% Umowa pożyczki lub depozytu 31. 32. 33.
+nieprawidłowego, w tym zwolniona na podstawie art. 9 pkt 10 lit. b ustawy % Umowa darowizny w części dotyczącej 34. 35. 36.
+przejęcia przez obdarowanego długów iciężarów lub zobowiązań darczyńcy % Ustanowienie odpłatnego użytkowania, wtym 37. 38. 39.
 nieprawidłowego %
-39.
-Ustanowienie hipoteki
-40.
-0,1 %
-41.
-1 19 zł
+40. 41.
+Ustanowienie hipoteki 0,1 %
 42.
-Inna(wymienić jaka): 43. 44.
-%
-45.
-Kwota należnego podatku Suma kwot z kolumny d.
-46.
+1 19 zł Inna(wymienić jaka): 43. 44. 45.
+% Kwota należnego podatku 46.
+Suma kwot z kolumny d.
 E. OBLICZENIE NALEŻNEGO PODATKU OD UMOWY SPÓŁKI / ZMIANY UMOWY SPÓŁKI E.1. OKREŚLENIE PODSTAWY OPODATKOWANIA
-47.Typ spółki(zaznaczyć właściwy kwadrat): ❑
-1.spółka osobowa ❑
-2. spółka kapitałowa
-48.Podstawa opodatkowania dotyczy (zaznaczyć właściwy kwadrat): ❑
-1.zawarciaumowy spółki ❑
-2. zwiększenia majątku spółki albo podwyższenia kapitału zakładowego ❑
-3. dopłaty ❑
-4. pożyczki udzielonej spółce osobowej przez wspólnika ❑
-5. oddania spółce rzeczy lub praw majątkowych do nieodpłatnego używania ❑
-6. przekształcenia spółek ❑
-7. łączenia spółek ❑
+47.Typ spółki(zaznaczyć właściwy kwadrat): ❑ ❑
+1.spółka osobowa 2. spółka kapitałowa
+48.Podstawa opodatkowania dotyczy (zaznaczyć właściwy kwadrat): ❑ ❑
+1.zawarciaumowy spółki 2. zwiększenia majątku spółki albo podwyższenia kapitału zakładowego ❑ ❑
+3. dopłaty 4. pożyczki udzielonej spółce osobowej przez wspólnika ❑ ❑ ❑
+5. oddania spółce rzeczy lub praw majątkowych do nieodpłatnego używania 6. przekształcenia spółek 7. łączenia spółek ❑
 8. przeniesienia na terytorium Rzeczypospolitej Polskiej rzeczywistego ośrodka zarządzania spółki kapitałowej lub jej siedziby Podstawa opodatkowania-określona zgodnie z art.6 ust.1 pkt 8 ustawy(po zaokrągleniu do pełnych złotych) 49.
 zł E.2. ODLICZENIA OD PODSTAWY OPODATKOWANIA -ART. 6 UST. 9 USTAWY Opłaty i koszty związane z zawarciem umowy spółki lub jej zmiany –na podstawie art. 6 ust. 9 ustawy 50.
 zł, gr E.3. OBLICZENIE NALEŻNEGO PODATKU Podstawa obliczenia podatku 51.
 Od kwoty z poz. 49 należy odjąć kwotę z poz. 50. Jeżeli różnica jest liczbą ujemną, należy wpisać 0. zł, gr Kwota należnego podatku (po zaokrągleniu do pełnych złotych) 52.
 Podatek obliczony według stawki określonej w art. 7 ust. 1 pkt 9 ustawy od podstawy z poz.51. zł F. PODATEK DO ZAPŁATY Kwota podatku do zapłaty 53.
-Należy wpisać kwotę z poz. 46 albo 52. zł PCC-3 3 G. INFORMACJE DODATKOWE W przypadku: - umowy spółki należy podać adres siedziby spółki (rzeczywistego ośrodka zarządzania), -umowy sprzedaży, gdy kupujący nie ma miejsca zamieszkania lub siedziby na terytorium Rzeczypospolitej Polskiej, należy podać miejsce zamieszkania lub siedzibę sprzedawcy, a jeżeli żadna ze stron nie ma miejsca zamieszkania lub siedziby na terytorium Rzeczypospolitej Polskiej, należy podać miejsce dokonania czynności, -umowy sprzedaży przedsiębiorstwa albo jego zorganizowanej części należy podać siedzibę przedsiębiorstwa albo miejsce położenia jego zorganizowanej części, -orzeczenia sądu, w tym polubownego,oraz ugody, jeżeli przedmiotem jest przeniesienie własności nieruchomości,prawa użytkowania wieczystego lub spółdzielczego własnościowego prawa do lokalu mieszkalnego albo użytkowego,należy podać miejsce położenia nieruchomości.
+Należy wpisać kwotę z poz. 46 albo 52. zł PCC-3 2 G. INFORMACJE DODATKOWE W przypadku: - umowy spółki należy podać adres siedziby spółki (rzeczywistego ośrodka zarządzania), -umowy sprzedaży, gdy kupujący nie ma miejsca zamieszkania lub siedziby na terytorium Rzeczypospolitej Polskiej, należy podać miejsce zamieszkania lub siedzibę sprzedawcy, a jeżeli żadna ze stron nie ma miejsca zamieszkania lub siedziby na terytorium Rzeczypospolitej Polskiej, należy podać miejsce dokonania czynności, -umowy sprzedaży przedsiębiorstwa albo jego zorganizowanej części należy podać siedzibę przedsiębiorstwa albo miejsce położenia jego zorganizowanej części, -orzeczenia sądu, w tym polubownego,oraz ugody, jeżeli przedmiotem jest przeniesienie własności nieruchomości,prawa użytkowania wieczystego lub spółdzielczego własnościowego prawa do lokalu mieszkalnego albo użytkowego,należy podać miejsce położenia nieruchomości.
 54. Województwo 55. Powiat
 56. Gmina 57. Ulica 58. Nr domu 59. Nr lokalu
 60. Miejscowość 61.Kod pocztowy H. INFORMACJA O ZAŁĄCZNIKACH
@@ -211,36 +155,31 @@ Należy wpisać kwotę z poz. 46 albo 52. zł PCC-3 3 G. INFORMACJE DODATKOWE W 
 5) W przypadku ustanowienia hipoteki na zabezpieczenie wierzytelności istniejących, w poz. 40 należy wpisać kwotę zabezpieczonej wierzytelności; w przypadku ustanowienia hipoteki na zabezpieczenie wierzytelności o wysokości nieustalonej, w poz. 42 należy wpisać liczbę 19.
 Pouczenia Za podanienieprawdy lub zatajenie prawdy i przez to narażenie podatku na uszczuplenie grozi odpowiedzialność przewidziana w Kodeksie karnymskarbowym.
 W przypadku niezapłacenia w obowiązującym terminie kwoty podatku od czynności cywilnoprawnych z poz. 53 lub wpłacenia jej wniepełnej wysokości, niniejsza deklaracja stanowi podstawę do wystawienia tytułu wykonawczego, zgodnie z przepisami ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505).
-PCC-3/A 1
+PCC-3 3
 1. Identyfikator podatkowy NIP / numer PESEL podatnika 2. Nr dokumentu 3. Status PCC-3/A INFORMACJA O POZOSTAŁYCH PODATNIKACH
 4. Data dokonania czynności (dzień - miesiąc - rok)
 5. Numer załącznika Załącznik do deklaracji PCC-3 A. -3. MIEJSCE I CEL SKŁADANIA INFORMACJI
 6. Urząd skarbowy, do którego jest adresowana deklaracja PCC-3
-7. Cel złożenia informacji (zaznaczyć właściwy kwadrat): ❑
-1. złożenie informacji ❑
-2. korekta informacji B. DANE PODATNIKA * - dotyczy podatnika niebędącego osobą fizyczną ** - dotyczy podatnika będącego osobą fizyczną B.1. DANE IDENTYFIKACYJNE
-8. Rodzaj podatnika (zaznaczyć właściwy kwadrat): ❑
-1. podatnik niebędący osobą fizyczną ❑
-2. osoba fizyczna
+7. Cel złożenia informacji (zaznaczyć właściwy kwadrat): ❑ ❑
+1. złożenie informacji 2. korekta informacji B. DANE PODATNIKA * - dotyczy podatnika niebędącego osobą fizyczną ** - dotyczy podatnika będącego osobą fizyczną B.1. DANE IDENTYFIKACYJNE
+8. Rodzaj podatnika (zaznaczyć właściwy kwadrat): ❑ ❑
+1. podatnik niebędący osobą fizyczną 2. osoba fizyczna
 9. Nazwa pełna * / Nazwisko, pierwsze imię, data urodzenia **
 10. Nazwa skrócona* / Imię ojca, imię matki ** B.2. ADRES SIEDZIBY * / AKTUALNY ADRES ZAMIESZKANIA **
 11. Kraj 12. Województwo 13. Powiat
 14. Gmina 15. Ulica 16. Nr domu 17. Nr lokalu
 18. Miejscowość 19. Kod pocztowy B.3. OZNACZENIE PODATNIKA
-20. Rodzaj podmiotu (zaznaczyć właściwy kwadrat): ❑
-1. podmiot zobowiązany solidarnie do zapłaty podatku ❑
-2. strona umowy zamiany ❑
-3. wspólnik spółki cywilnej C. DANE IDENTYFIKACYJNE PODATNIKA Należy podać dane identyfikacyjne podatnika wymienionego w części B deklaracji PCC-3.
+20. Rodzaj podmiotu (zaznaczyć właściwy kwadrat): ❑ ❑ ❑
+1. podmiot zobowiązany solidarnie do zapłaty podatku 2. strona umowy zamiany 3. wspólnik spółki cywilnej C. DANE IDENTYFIKACYJNE PODATNIKA Należy podać dane identyfikacyjne podatnika wymienionego w części B deklaracji PCC-3.
 * - dotyczy podatnika niebędącego osobą fizyczną ** - dotyczy podatnika będącego osobą fizyczną
-21. Identyfikator podatkowy NIP / numer PESEL 22. Rodzaj podatnika (zaznaczyć właściwy kwadrat): ❑
-1. podatnik niebędący osobą fizyczną ❑
-2. osoba fizyczna
+21. Identyfikator podatkowy NIP / numer PESEL 22. Rodzaj podatnika (zaznaczyć właściwy kwadrat): ❑ ❑
+1. podatnik niebędący osobą fizyczną 2. osoba fizyczna
 23. Nazwa pełna * / Nazwisko, pierwsze imię, data urodzenia **
 24. Nazwa skrócona * / Imię ojca, imię matki ** D. PODATEK DO ZAPŁATY Kwota podatku do zapłaty 25.
 Kwota z poz. 53 deklaracji PCC-3.
 E. PODPIS PODATNIKA I OSÓB REPREZENTUJĄCYCH PODATNIKA WYMIENIONEGO W CZĘŚCI B E.1. PODPIS PODATNIKA
 26. Imię 27. Nazwisko
-28. Data wypełnienia deklaracji (dzień - miesiąc - rok) 29. Podpis podatnika wymienionego w części B PCC-3/A 2 E.2. PODPISY OSÓB REPREZENTUJĄCYCH PODATNIKA
+28. Data wypełnienia deklaracji (dzień - miesiąc - rok) 29. Podpis podatnika wymienionego w części B PCC-3/A 1 E.2. PODPISY OSÓB REPREZENTUJĄCYCH PODATNIKA
 30. Imię 31. Nazwisko
 32. Data wypełnienia deklaracji (dzień -miesiąc -rok) 33. Podpis osoby reprezentującej podatnika wymienionego w części B
 34. Imię 35. Nazwisko
@@ -249,4 +188,5 @@ E. PODPIS PODATNIKA I OSÓB REPREZENTUJĄCYCH PODATNIKA WYMIENIONEGO W CZĘŚCI 
 2) Zgodnie z art. 81 ustawy z dnia 29 sierpnia 1997 r. -Ordynacja podatkowa (Dz. U. z 2023r. poz 2383).
 Pouczenia Za podanie nieprawdy lub zatajenie prawdy i przez to narażenie podatku na uszczuplenie grozi odpowiedzialność przewidziana w Kodeksiekarnym skarbowym.
 W przypadku niezapłacenia w obowiązującym terminie kwoty podatku od czynności cywilnoprawnych z poz. 25lub wpłacenia jej wniepełnej wysokości, niniejsza deklaracja stanowi podstawę do wystawienia tytułu wykonawczego, zgodnie z przepisami ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505).
+PCC-3/A 2
 

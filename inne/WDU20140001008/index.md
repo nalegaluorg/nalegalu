@@ -8,10 +8,10 @@ pos: 1008
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 lipca 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1008 Program wsPółPracy między ministrem Kultury i Dziedzictwa Narodowego rzeczypospolitej Polskiej a ministerstwem Kultury republiki czeskiej na lata 2014–2016, podpisany w Krakowie dnia 6 maja 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2014-07-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1008/text.pdf) |
-
-Program wsPółPracy między ministrem Kultury i Dziedzictwa Narodowego rzeczypospolitej Polskiej a ministerstwem Kultury republiki czeskiej na lata 2014–2016, podpisany w Krakowie dnia 6 maja 2014 r.
 

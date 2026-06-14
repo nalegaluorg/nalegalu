@@ -8,12 +8,12 @@ pos: 1422
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Ustawa z dnia 16 lipca 2020 r. o wsparciu rynku ubezpieczeń należności handlowych w związku z przeciwdziałaniem skutkom gospodarczym COVID-19
+# o wsparciu rynku ubezpieczeń należności handlowych w związku z przeciwdziałaniem skutkom gospodarczym COVID-19
 
-*USTAWA 16 lipca 2020 o wsparciu rynku ubezpieczeń należności handlowych związku przeciwdziałaniem skutkom gospodarczym COVID-19*
+*USTAWA z dnia 16 lipca 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -29,78 +29,104 @@ source: "isap-pdf"
 
 **Art. 1.**
 
-1. Ustawa określa zasady warunki przejmowania przez od zakładów ubezpieczeń tytułu umów ubezpieczenia należności handlowych zakresie należności handlowych powstałych okresie od 1 kwietnia 2020 do 31 grudnia 2020 r., zwanych dalej „należnościami handlowymi”, celu przeciwdziałania skutkom gospodarczym wynikającym rozprzestrzeniania zakażeń wirusem SARS-CoV-2, powodującym chorobę zakaźną, zwaną dalej „COVID-19”.
+1. Ustawa określa zasady i warunki przejmowania przez Skarb Państwa od zakładów ubezpieczeń ryzyka z tytułu umów ubezpieczenia należności handlowych w zakresie należności handlowych powstałych w okresie od dnia 1 kwietnia 2020 r. do dnia 31 grudnia 2020 r., zwanych dalej „należnościami handlowymi”, w celu przeciwdziałania skutkom gospodarczym wynikającym z rozprzestrzeniania się zakażeń wirusem SARS-CoV-2, powodującym chorobę zakaźną, zwaną dalej „COVID-19”.
 
-2. Przejęcie dotyczy należności handlowych:
+2. Przejęcie ryzyka dotyczy należności handlowych:
 
-- **1)** stanowiących kwoty pieniężne należne przedsiębiorcy tytułu transakcji handlowej od kontrahenta mającego siedzibę lub miejsce sprawowania zarządu państwie o ryzyku tymczasowo niezbywalnym, o którym mowa załączniku do komunikatu Komisji do państw członkowskich sprawie zastosowania art. 107 108 Traktatu o funkcjonowaniu Unii Europejskiej do krótkoterminowego ubezpieczenia kredytów eksportowych (Dz. C 392 19.12.2012, 1, późn. zm. );
-- **2)** potwierdzonych dokumentem księgowym wystawionym zgodnie obowiązującymi przepisami prawa lub prawomocnym wyrokiem sądu;
+- **1)** stanowiących kwoty pieniężne należne przedsiębiorcy z tytułu transakcji handlowej od kontrahenta mającego siedzibę lub miejsce sprawowania zarządu w państwie o ryzyku tymczasowo niezbywalnym, o którym mowa w załączniku do komunikatu Komisji do państw członkowskich w sprawie zastosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do krótkoterminowego ubezpieczenia kredytów eksportowych (Dz. Urz. UE C 392 z 19.12.2012, str. 1, z późn. zm. );
+- **2)** potwierdzonych dokumentem księgowym wystawionym zgodnie z obowiązującymi przepisami prawa lub prawomocnym wyrokiem sądu;
 - **3)** o terminie płatności poniżej 2 lat.
 
-3. W przypadku przedsiębiorcy, o którym mowa art. 2 pkt 1 lit. a, przejęcie dotyczy należności handlowych tytułu:
+3. W przypadku przedsiębiorcy, o którym mowa w art. 2 pkt 1 lit. a, przejęcie ryzyka dotyczy należności handlowych z tytułu:
 
 - **1)** sprzedaży towarów lub świadczenia usług na terytorium Rzeczypospolitej Polskiej lub
-- **2)** eksportu terytorium Rzeczypospolitej Polskiej.
+- **2)** eksportu z terytorium Rzeczypospolitej Polskiej.
 
-**Art. 2.** Użyte ustawie określenia oznaczają:
+**Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** przedsiębiorca – przedsiębiorcę:
+    - **a)** w rozumieniu art. 43 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495 oraz z 2020 r. poz. 875) wykonującego działalność na terytorium Rzeczypospolitej Polskiej albo
+    - **b)** zagranicznego w rozumieniu art. 3 pkt 7 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1252), nad którym inny przedsiębiorca mający siedzibę lub miejsce sprawowania zarządu na terytorium Rzeczypospolitej Polskiej sprawuje kontrolę w rozumieniu art. 3 pkt 34 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351, 1495, 1571, 1655 i 1680 oraz z 2020 r. poz. 568);
+
+- **2)** zakład ubezpieczeń – zakład ubezpieczeń prowadzący działalność na terytorium Rzeczypospolitej Polskiej w zakresie ubezpieczeń kredytu, o których mowa w dziale II w grupie 14 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2020 r. poz. 895 i 1180).
+
+**Art. 3.**
+
+1. Rada Ministrów w celu minimalizacji skutków gospodarczych rozprzestrzeniania się COVID-19 może przyjąć rządowy program wsparcia rynku ubezpieczeń należności handlowych, zwany dalej „Programem”.
+
+2. Program określa:
+
+- **1)** diagnozę sytuacji gospodarczej w sektorze ubezpieczeń należności handlowych oraz oczekiwane efekty ekonomiczno-finansowe realizacji Programu;
+- **2)** szczegółowe cele;
+- **3)** szczegółowe warunki realizacji wsparcia;
+- **4)** sposób sprawozdawania o realizacji celów oraz monitorowania i oceny stopnia ich realizacji;
+- **5)** kwotę środków przeznaczonych na finansowanie Programu.
+
+3. Realizację Programu powierza się ministrowi właściwemu do spraw gospodarki.
 
 **Art. 4.**
 
-1. Państwa, reprezentowany przez ministra właściwego do spraw gospodarki, ramach realizacji Programu, drodze umowy zawartej zakładem ubezpieczeń, może zobowiązać do przejęcia 80% ubezpieczeniowego wynikającego portfela ubezpieczeń należności handlowych.
+1. Skarb Państwa, reprezentowany przez ministra właściwego do spraw gospodarki, w ramach realizacji Programu, w drodze umowy zawartej z zakładem ubezpieczeń, może zobowiązać się do przejęcia 80% ryzyka ubezpieczeniowego wynikającego z portfela ubezpieczeń należności handlowych.
 
-2. Po przekroczeniu kwoty odszkodowań wypłaconych przez zakład ubezpieczeń tytułu objęcia ochroną ubezpieczeniową należności handlowych, pomniejszonej o kwoty uzyskane przez zakład ubezpieczeń tytułu roszczeń regresowych dotyczących tych należności handlowych, równej 243,75% składki przypisanej brutto zakładu ubezpieczeń ubezpieczenia należności handlowych 2019 r., przejmuje 100% ubezpieczeniowego.
+2. Po przekroczeniu kwoty odszkodowań wypłaconych przez zakład ubezpieczeń z tytułu objęcia ochroną ubezpieczeniową należności handlowych, pomniejszonej o kwoty uzyskane przez zakład ubezpieczeń z tytułu roszczeń regresowych dotyczących tych należności handlowych, równej 243,75% składki przypisanej brutto zakładu ubezpieczeń z ubezpieczenia należności handlowych w 2019 r., Skarb Państwa przejmuje 100% ryzyka ubezpieczeniowego.
 
-3. Zobowiązanie Skarbu nie może przekroczyć kwoty stanowiącej równowartość 375% składki przypisanej brutto zakładu ubezpieczeń ubezpieczenia należności handlowych 2019
+3. Zobowiązanie Skarbu Państwa nie może przekroczyć kwoty stanowiącej równowartość 375% składki przypisanej brutto zakładu ubezpieczeń z ubezpieczenia należności handlowych w 2019 r.
 
-4. Umowa jest techniką przenoszenia ryzyka, o której mowa art. 3 ust. 1 pkt 47 ustawy 11 września 2015 o działalności ubezpieczeniowej reasekuracyjnej.
+4. Umowa jest techniką przenoszenia ryzyka, o której mowa w art. 3 ust. 1 pkt 47 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej.
 
 5. Umowa określa co najmniej:
 
-- **1)** kwotę równą 243,75% składki przypisanej brutto zakładu ubezpieczeń ubezpieczenia należności handlowych 2019 oraz wysokość zobowiązania Skarbu wyliczonego zgodnie ust. 3;
-- **2)** szczegółowe warunki przejmowania przez Państwa;
-- **3)** szczegółowe warunki dotyczące utrzymania, obniżenia anulowania przez zakład ubezpieczeń limitów ubezpieczeniowych stanowiących maksymalną wysokość należności handlowych podlegających ochronie ubezpieczeniowej na podstawie umowy ubezpieczenia zawartej pomiędzy przedsiębiorcą a zakładem ubezpieczeń;
-- **4)** szczegółowy tryb przekazywania rozliczania środków, o których mowa art. 6;
-- **5)** zakres, formy terminy składania sprawozdań.
+- **1)** kwotę równą 243,75% składki przypisanej brutto zakładu ubezpieczeń z ubezpieczenia należności handlowych w 2019 r. oraz wysokość zobowiązania Skarbu Państwa wyliczonego zgodnie z ust. 3;
+- **2)** szczegółowe warunki przejmowania ryzyka przez Skarb Państwa;
+- **3)** szczegółowe warunki dotyczące utrzymania, obniżenia i anulowania przez zakład ubezpieczeń limitów ubezpieczeniowych stanowiących maksymalną wysokość należności handlowych podlegających ochronie ubezpieczeniowej na podstawie umowy ubezpieczenia zawartej pomiędzy przedsiębiorcą a zakładem ubezpieczeń;
+- **4)** szczegółowy tryb przekazywania i rozliczania środków, o których mowa w art. 6;
+- **5)** zakres, formy i terminy składania sprawozdań.
 
-6. Umowa może zostać zawarta zakładem ubezpieczeń, który:
+6. Umowa może zostać zawarta z zakładem ubezpieczeń, który:
 
-- **1)** dniu zawarcia umowy nie znajduje trudnej sytuacji, o której mowa art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014 17 czerwca 2014 uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu art. 107 108 Traktatu (Dz. L 187 26.06.2014, 1, późn. zm. ), zwanego dalej „rozporządzeniem 651/2014”, albo
-- **2)** dniu 31 grudnia 2019 nie znajdował trudnej sytuacji, o której mowa art. 2 pkt 18 rozporządzenia 651/2014, ale po tym dniu znalazł trudnej sytuacji powodu wystąpienia pandemii COVID-19.
+- **1)** w dniu zawarcia umowy nie znajduje się w trudnej sytuacji, o której mowa w art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 651/2014”, albo
+- **2)** w dniu 31 grudnia 2019 r. nie znajdował się w trudnej sytuacji, o której mowa w art. 2 pkt 18 rozporządzenia 651/2014, ale po tym dniu znalazł się w trudnej sytuacji z powodu wystąpienia pandemii COVID-19.
 
-7. Do umowy załącza oświadczenie o spełnieniu przez zakład ubezpieczeń warunków, o których mowa ust. 6. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
+7. Do umowy załącza się oświadczenie o spełnieniu przez zakład ubezpieczeń warunków, o których mowa w ust. 6. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
 
-8. Umowa nie może być zawarta po upływie 3 miesięcy od wejścia życie ustawy.
+8. Umowa nie może być zawarta po upływie 3 miesięcy od dnia wejścia w życie ustawy.
 
 9. Zakładowi ubezpieczeń nie przysługuje roszczenie o zawarcie umowy.
 
+10. Do działalności Skarbu Państwa nie stosuje się przepisów ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej.
+
+**Art. 5.** Beneficjentem pomocy publicznej jest zakład ubezpieczeń, z którym zawierana jest umowa, o której mowa w art. 4 ust. 1.
+
 **Art. 6.**
 
-1. W przypadku zawarcia umowy, o której mowa art. 4 ust. 1, Skarbowi przysługuje udział:
+1. W przypadku zawarcia umowy, o której mowa w art. 4 ust. 1, Skarbowi Państwa przysługuje udział:
 
-- **1)** wysokości 80% zainkasowanej składki należnej zakładowi ubezpieczeń tytułu objęcia ochroną ubezpieczeniową należności handlowych;
-- **2)** kwotach uzyskanych przez zakład ubezpieczeń wyniku postępowań regresowych dotyczących należności handlowych wysokości proporcjonalnej do udziału Skarbu wypłaconym odszkodowaniu dotyczącym danej należności handlowej.
+- **1)** w wysokości 80% zainkasowanej składki należnej zakładowi ubezpieczeń z tytułu objęcia ochroną ubezpieczeniową należności handlowych;
+- **2)** w kwotach uzyskanych przez zakład ubezpieczeń w wyniku postępowań regresowych dotyczących należności handlowych w wysokości proporcjonalnej do udziału Skarbu Państwa w wypłaconym odszkodowaniu dotyczącym danej należności handlowej.
 
-2. Z tytułu zarządzania portfelem ubezpieczeń należności handlowych, o którym mowa art. 4 ust. 1, zakładowi ubezpieczeń przysługuje od Skarbu prowizja wysokości 28% zainkasowanej składki należnej zakładowi ubezpieczeń tytułu objęcia ochroną ubezpieczeniową należności handlowych.
+2. Z tytułu zarządzania portfelem ubezpieczeń należności handlowych, o którym mowa w art. 4 ust. 1, zakładowi ubezpieczeń przysługuje od Skarbu Państwa prowizja w wysokości 28% zainkasowanej składki należnej zakładowi ubezpieczeń z tytułu objęcia ochroną ubezpieczeniową należności handlowych.
 
-3. Środki, o których mowa ust. 1, po potrąceniu przez zakład ubezpieczeń prowizji są wpłacane na rachunek dochodów budżetu państwa.
+3. Środki, o których mowa w ust. 1, po potrąceniu przez zakład ubezpieczeń prowizji są wpłacane na rachunek dochodów budżetu państwa.
 
-4. Środki na pokrycie kosztów odszkodowań tytułu przejętego, zgodnie art. 4 ust. 1 2, przez ubezpieczeniowego są przekazywane zakładom ubezpieczeń ze środków Funduszu Przeciwdziałania COVID-19, o którym mowa art. 65 ust. 1 ustawy 31 marca 2020 o zmianie ustawy o szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, 695, 1086 1262), lub budżetu państwa.
+4. Środki na pokrycie kosztów odszkodowań z tytułu przejętego, zgodnie z art. 4 ust. 1 i 2, przez Skarb Państwa ryzyka ubezpieczeniowego są przekazywane zakładom ubezpieczeń ze środków Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, 695, 1086 i 1262), lub z budżetu państwa.
 
 **Art. 7.**
 
-1. Minister właściwy do spraw gospodarki monitoruje działalność zakładów ubezpieczeń zakresie realizacji umów, o których mowa art. 4 ust. 1, obowiązków, o których mowa art. 6.
+1. Minister właściwy do spraw gospodarki monitoruje działalność zakładów ubezpieczeń w zakresie realizacji umów, o których mowa w art. 4 ust. 1, i obowiązków, o których mowa w art. 6.
 
-2. Minister właściwy do spraw gospodarki może zwrócić do Komisji Nadzoru Finansowego wnioskiem o opinię zakresie sposobu realizacji przepisów ustawy umów, o których mowa art. 4 ust. 1, przez zakłady ubezpieczeń.
+2. Minister właściwy do spraw gospodarki może zwrócić się do Komisji Nadzoru Finansowego z wnioskiem o opinię w zakresie sposobu realizacji przepisów ustawy i umów, o których mowa w art. 4 ust. 1, przez zakłady ubezpieczeń.
 
 3. We wniosku minister właściwy do spraw gospodarki przekazuje informacje niezbędne do wydania opinii.
 
-4. Przed wydaniem opinii Komisja Nadzoru Finansowego może zwrócić do ministra właściwego do spraw gospodarki o przekazanie dodatkowych informacji.
+4. Przed wydaniem opinii Komisja Nadzoru Finansowego może zwrócić się do ministra właściwego do spraw gospodarki o przekazanie dodatkowych informacji.
 
-5. Komisja Nadzoru Finansowego wydaje opinię nie później niż terminie 30 dni, licząc od zebrania niezbędnych informacji.
+5. Komisja Nadzoru Finansowego wydaje opinię nie później niż w terminie 30 dni, licząc od dnia zebrania niezbędnych informacji.
 
-**Art. 8.** Przekazanie środków, o których mowa art. 6 ust. 4, stanowi pomoc publiczną może być dokonane zgodnie postanowieniami zawartymi decyzji Komisji Europejskiej, wydanej wyniku notyfikacji, okresie obowiązywania tej decyzji.
+**Art. 8.** Przekazanie środków, o których mowa w art. 6 ust. 4, stanowi pomoc publiczną i może być dokonane zgodnie z postanowieniami zawartymi w decyzji Komisji Europejskiej, wydanej w wyniku notyfikacji, w okresie obowiązywania tej decyzji.
 
-**Art. 9.** W ustawie 7 lipca 2017 o wykonywaniu zadań zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji Handlu Spółka Akcyjna (Dz. U. 2020 poz. 994) art. 2 pkt 8 kropkę zastępuje średnikiem dodaje pkt 9 brzmieniu: „9) podejmowanie działań służących zapobieganiu skutkom sytuacji kryzysowych rozumieniu art. 3 pkt 1 ustawy 26 kwietnia 2007 o zarządzaniu kryzysowym (Dz. U. 2019 poz. 1398 oraz 2020 poz. 148, 284, 374 695) lub łagodzeniu tych skutków, tym skutków rozprzestrzeniania zakażeń wirusem SARS-CoV-2, powodującym chorobę zakaźną COVID-19.”.
+**Art. 9.** W ustawie z dnia 7 lipca 2017 r. o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna (Dz. U. z 2020 r. poz. 994) w art. 2 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) podejmowanie działań służących zapobieganiu skutkom sytuacji kryzysowych w rozumieniu art. 3 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2019 r. poz. 1398 oraz z 2020 r. poz. 148, 284, 374 i 695) lub łagodzeniu tych skutków, w tym skutków rozprzestrzeniania się zakażeń wirusem SARS-CoV-2, powodującym chorobę zakaźną COVID-19.”.
 
-**Art. 10.** W ustawie 2 marca 2020 o szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, późn. zm. ) po art. 15zzzzzzd dodaje art. 15zzzzzze brzmieniu: „Art. 15zzzzzze. Rada Ministrów może upoważnić ministra właściwego do spraw finansów publicznych do zawarcia umowy o przystąpieniu Rzeczypospolitej Polskiej do funduszy, inicjatyw, mechanizmów programów uruPrezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 10.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm. ) po art. 15zzzzzzd dodaje się art. 15zzzzzze w brzmieniu: „Art. 15zzzzzze. Rada Ministrów może upoważnić ministra właściwego do spraw finansów publicznych do zawarcia umowy o przystąpieniu Rzeczypospolitej Polskiej do funduszy, inicjatyw, mechanizmów i programów uruchamianych przez Unię Europejską i jej instytucje, w tym Grupę Europejskiego Banku Inwestycyjnego, mających na celu przeciwdziałanie COVID-19, oraz innych umów związanych z realizacją tej umowy.”.
+
+**Art. 11.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

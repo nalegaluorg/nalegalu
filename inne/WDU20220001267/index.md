@@ -8,10 +8,10 @@ pos: 1267
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 czerwca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11226677 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 6 czerwca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1267/text.pdf) |
 
-Poz. 11226677 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 6 czerwca 2022 r.
-w sprawie wzoru legitymacji służbowej inspektora Inspekcji Ochrony Środowiska Na podstawie art. 9b ust. 5 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070) zarządza się, co następuje: § 1. Określa się wzór legitymacji służbowej inspektora Inspekcji Ochrony Środowiska stanowiący załącznik do rozporządzenia.
+w sprawie wzoru legitymacji służbowej inspektora Inspekcji Ochrony Środowiska Na podstawie art. 9b ust. 5 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070) zarządza się, co następuje:
+§ 1. Określa się wzór legitymacji służbowej inspektora Inspekcji Ochrony Środowiska stanowiący załącznik do rozporządzenia.
 § 2. Traci moc rozporządzenie Ministra Środowiska z dnia 22 sierpnia 2018 r. w sprawie wzoru legitymacji służbowej inspektora Inspekcji Ochrony Środowiska (Dz. U. poz. 1644).
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa Opis wzoru legitymacji służbowej inspektora Inspekcji Ochrony Środowiska I. Okładka legitymacji Czarna okładka ze srebrnymi tłoczeniami zawierająca następujące elementy:
+Minister Klimatu i Środowiska: A. Moskwa Załącznik do rozporządzenia Ministra Klimatu i Środowiska WZÓR LEGITYMACJI SŁUŻBOWEJ INSPEKTORA INSPEKCJI OCHRONY ŚRODOWISKA WZÓR LEGITYMACJI SŁUŻBOWEJ INSPEKTORA INSPEKCJI OCHRONY ŚRODOWISKA Okładka Okładka legitymacji legitymacji Część wewnętrzna legitymacji Część wewnętrzna legitymacji Awers Awers Rewers Rewers Opis wzoru legitymacji służbowej inspektora Inspekcji Ochrony Środowiska I. Okładka legitymacji Czarna okładka ze srebrnymi tłoczeniami zawierająca następujące elementy:
 1) napis „RZECZPOSPOLITA POLSKA”;
 2) wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej – zgodny z załącznikiem nr 1 do ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r.
 poz. 1509), bez czerwonego tła;

@@ -8,10 +8,10 @@ pos: 829
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 czerwca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 829 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 10 czerwca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/829/text.pdf) |
 
-Poz. 829 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 10 czerwca 2016 r.
-w sprawie uznawania praktyki zawodowej kandydatów na aktuariuszy odbytej poza granicami Rzeczypospolitej Polskiej Na podstawie art. 8 ust. 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje: § 1. Rozporządzenie określa tryb uznawania praktyki zawodowej kandydatów na aktuariuszy odbytej w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, Konfederacji Szwajcarskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub w państwie niebędącym państwem członkowskim Unii Europejskiej, zwanym dalej „państwem innym niż Rzeczpospolita Polska”, oraz jej maksymalny uznawany okres.
+w sprawie uznawania praktyki zawodowej kandydatów na aktuariuszy odbytej poza granicami Rzeczypospolitej Polskiej Na podstawie art. 8 ust. 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb uznawania praktyki zawodowej kandydatów na aktuariuszy odbytej w państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, Konfederacji Szwajcarskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub w państwie niebędącym państwem członkowskim Unii Europejskiej, zwanym dalej „państwem innym niż Rzeczpospolita Polska”, oraz jej maksymalny uznawany okres.
 § 2. 1. Uznawanie praktyki zawodowej kandydatów na aktuariuszy odbytej w państwie innym niż Rzeczpospolita Polska następuje w toku postępowania wymaganego do uzyskania wpisu do rejestru aktuariuszy, o którym mowa w art. 68 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615).
 2. Uznanie praktyki zawodowej następuje na wniosek kandydata na aktuariusza, zwanego dalej „wnioskodawcą”.
 § 3. 1. Dokumenty potwierdzające zakres odbytej praktyki zawodowej w państwie innym niż Rzeczpospolita Polska, nabyte umiejętności, czas trwania i miejsce jej odbycia, wnioskodawca załącza do wniosku o wpis do rejestru aktuariuszy.

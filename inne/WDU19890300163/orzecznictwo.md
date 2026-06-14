@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne.*
 
 Łącznie: **220** orzeczeń
-(pominięto 390 orzeczeń sądów rejonowych)
+(pominięto 391 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

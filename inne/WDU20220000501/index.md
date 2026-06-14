@@ -8,7 +8,7 @@ pos: 501
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej
@@ -32,6 +32,12 @@ source: "isap-pdf"
 **Art. 1.** Ustawa określa zasady i tryb przyznawania oraz realizacji wsparcia gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej na DVB-T2/HEVC w postaci świadczenia na zakup odbiornika cyfrowego, które jest realizowane przy użyciu dokumentu potwierdzającego przyznanie świadczenia.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** odbiorniku cyfrowym – należy przez to rozumieć odbiornik cyfrowy zawierający wyświetlacz obrazu albo niezawierający takiego wyświetlacza, o którym mowa w art. 2 pkt 23a ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576 oraz z 2022 r. poz. 501), umożliwiający odbiór co najmniej sygnału naziemnej telewizji cyfrowej, zgodny z wymaganiami, o których mowa w przepisach wydanych na podstawie art. 132 ust. 3 tej ustawy;
+- **2)** dokumencie potwierdzającym przyznanie świadczenia – należy przez to rozumieć dokument elektroniczny potwierdzający przyznanie świadczenia na zakup odbiornika cyfrowego lub wydruk sporządzony z tego dokumentu elektronicznego;
+- **3)** gospodarstwie domowym – należy przez to rozumieć zespół osób mieszkających i utrzymujących się wspólnie albo jedną osobę utrzymującą się samodzielnie, gdy miejsce zamieszkania tych osób znajduje się na terytorium Rzeczypospolitej Polskiej;
+- **4)** płatności za pomocą dokumentu potwierdzającego przyznanie świadczenia – należy przez to rozumieć dokonanie zapłaty ceny lub jej części za odbiornik cyfrowy, do wysokości świadczenia na zakup odbiornika cyfrowego, przy wykorzystaniu dokumentu potwierdzającego przyznanie świadczenia;
+- **5)** świadczeniu na zakup odbiornika cyfrowego – należy przez to rozumieć dofinansowanie do zakupu jednego fabrycznie nowego odbiornika cyfrowego w gospodarstwie domowym.
 
 **Art. 3.** Świadczenie na zakup odbiornika cyfrowego przysługuje jednej pełnoletniej osobie, zameldowanej na terytorium Rzeczypospolitej Polskiej na pobyt stały lub czasowy powyżej 30 dni, jeżeli trudna sytuacja materialna gospodarstwa domowego tej osoby uniemożliwia samodzielne poniesienie kosztów nabycia odbiornika cyfrowego, zwanej dalej „osobą uprawnioną”, w celu zapewnienia odbioru przez to gospodarstwo domowe naziemnej telewizji cyfrowej w standardzie DVB-T2/HEVC, bez uszczerbku dla podstawowych potrzeb życiowych gospodarstwa domowego tej osoby.
 
@@ -302,6 +308,9 @@ source: "isap-pdf"
 #### Rozdział 9 Przepisy dostosowujące i przepis końcowy
 
 **Art. 31.** Minister właściwy do spraw informatyzacji, przed wdrożeniem rozwiązań technicznych, ogłasza w swoim dzienniku urzędowym oraz w Biuletynie Informacji Publicznej na swojej stronie podmiotowej komunikat, w którym określa termin uruchomienia funkcjonalności umożliwiającej:
+
+- **1)** rejestrację w systemie teleinformatycznym, o którym mowa w art. 21, przez przedsiębiorcę prowadzącego sprzedaż odbiorników cyfrowych;
+- **2)** wnioskowanie o przyznanie świadczenia na zakup odbiornika cyfrowego w systemie teleinformatycznym, o którym mowa w art. 21.
 
 **Art. 32.**
 

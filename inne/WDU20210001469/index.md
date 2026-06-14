@@ -8,7 +8,7 @@ pos: 1469
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o drogowych spółkach specjalnego przeznaczenia
@@ -115,6 +115,25 @@ source: "isap-pdf"
 6. Warunki umowy, o której mowa w ust. 1, wymagają uzgodnienia z ministrem właściwym do spraw finansów publicznych.
 
 **Art. 7.** Umowa, o której mowa w art. 6 ust. 1, odpowiednio do zakresu przedsięwzięcia drogowego, określa w szczególności:
+
+- **1)** cel i przedmiot przedsięwzięcia drogowego, z określeniem, które z zadań wymienionych w art. 4 ust. 2 zostają powierzone spółce;
+- **2)** harmonogram przygotowania lub realizacji przedsięwzięcia drogowego;
+- **3)** normy jakościowe, wymagania i standardy stosowane przy realizacji przedsięwzięcia drogowego;
+- **4)** łączną wartość środków przewidzianych na przygotowanie lub realizację przedsięwzięcia drogowego będącego przedmiotem umowy, z podaniem przewidywanych źródeł ich pochodzenia oraz warunków ich przekazywania na finansowanie przedsięwzięcia drogowego;
+- **5)** szczegółowe warunki realizacji zadań powierzonych spółce;
+- **6)** szczegółowe warunki przejęcia od Generalnego Dyrektora Dróg Krajowych i Autostrad dokumentacji dotyczącej przygotowania lub realizacji przedsięwzięcia drogowego stanowiącego przedmiot umowy;
+- **7)** tytuł prawny do korzystania z nieruchomości położonych w granicach pasa drogowego, nabytych przez spółkę lub przejętych od Generalnego Dyrektora Dróg Krajowych i Autostrad;
+- **8)** tytuł prawny do nieruchomości udostępnianych przez spółkę wykonawcom lub operatorom lub sposób korzystania przez wykonawcę lub operatora z tych nieruchomości;
+- **9)** warunki korzystania przez spółkę z budynków, budowli i innych urządzeń usytuowanych w granicach pasa drogowego;
+- **10)** warunki poboru opłat za przejazd autostradą;
+- **10a)** (uchylony)
+- **11)** wysokość i warunki wypłaty wynagrodzenia spółki;
+- **12)** warunki zwrotu przez spółkę pasa drogowego drogi objętej przedsięwzięciem drogowym oraz dokumentacji dotyczącej tego przedsięwzięcia na rzecz Generalnego Dyrektora Dróg Krajowych i Autostrad, po rozwiązaniu umowy;
+- **13)** obowiązki spółki w zakresie określania w umowach zawieranych w związku z przygotowaniem lub realizacją przedsięwzięć drogowych zakresu odpowiedzialności wykonawców za niewykonanie lub nienależyte wykonanie umowy w formie kar umownych;
+- **14)** zakres odpowiedzialności stron;
+- **15)** sposób rozstrzygania sporów wynikłych na tle realizacji umowy;
+- **16)** warunki zmiany i rozwiązania umowy;
+- **17)** zasady wzajemnych rozliczeń w razie rozwiązania umowy.
 
 **Art. 7a.**
 

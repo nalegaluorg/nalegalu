@@ -8,12 +8,10 @@ pos: 1270
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 sierpnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -31,13 +29,13 @@ source: "isap-pdf"
 poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 sierpnia 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 i art. 13 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872), które stanowią: „Art. 12. 1. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 1) art. 48d ust. 17 i art. 53 ust. 5 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 48d ust. 17 i art. 53 ust. 5 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą,
-2) art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
+2) art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 35 ust. 2, art. 48 ust. 4, art. 63 ust. 4, art. 87 ust. 3, art. 102, art. 107, art. 287 ust. 6, art. 312 ust. 11, art. 331 ust. 9 i art. 403 ust. 8 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 1) art. 78b ust. 2 i art. 78d ust. 2 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 78b ust. 2 i art. 78d ust. 2 ustawy zmienianej w art. 3,
-2) art. 127 ust. 18 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 127 ust. 18 ustawy zmienianej w art. 10 nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane.
+2) art. 127 ust. 18 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 127 ust. 18 ustawy zmienianej w art. 10 – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane.
 3. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 1) art. 49 ust. 3 i 4 oraz art. 54a ust. 5 ustawy uchylonej w art. 823 pkt 2 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 75 i art. 78 ust. 7 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą,
-2) art. 24 ust. 8, art. 102 ust. 10 i art. 137c ust. 6 ustawy uchylonej w art. 823 pkt 12 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 203 ust. 8, art. 468 ust. 10 i art. 78 ust. 7 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
+2) art. 24 ust. 8, art. 102 ust. 10 i art. 137c ust. 6 ustawy uchylonej w art. 823 pkt 12 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 203 ust. 8, art. 468 ust. 10 i art. 78 ust. 7 ustawy zmienianej w art. 10 w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 4. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6 ust. 2 pkt 1–3 oraz art. 29 ust. 8 ustawy uchylonej w art. 823 pkt 2 ustawy zmienianej w art. 10 i utrzymane przez nią w mocy nie dłużej niż przez 18 miesięcy od dnia jej wejścia w życie zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 27 ust. 2 pkt 1–3 oraz art. 86 ustawy zmienianej w art. 10, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie przepisów dotychczasowych.
 
 **Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
@@ -52,7 +50,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
     - **a)** żołnierzy i innych osób określonych w ustawie,
     - **b)** jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych,
 
-- **2)** magazynowaniu lub przechowywaniu urządzeń, uzbrojenia, środków materiałowych i sprzętu wojskowego w budynkach i lokalach oraz na gruntach będących własnością Skarbu Państwa, pozostających w trwałym zarządzie organów wojskowych lub powierzonych Agencji Mienia Wojskowego, uzyskanych czasowo na te cele od właściwych organów administracji rządowej, jednostek samorządu terytorialnego, osób prawnych lub fizycznych.
+- **2)** magazynowaniu lub przechowywaniu urządzeń, uzbrojenia, środków materiałowych i sprzętu wojskowego – w budynkach i lokalach oraz na gruntach będących własnością Skarbu Państwa, pozostających w trwałym zarządzie organów wojskowych lub powierzonych Agencji Mienia Wojskowego, uzyskanych czasowo na te cele od właściwych organów administracji rządowej, jednostek samorządu terytorialnego, osób prawnych lub fizycznych.
 
 2. Minister Obrony Narodowej, w drodze zarządzenia, określi:
 
@@ -65,24 +63,24 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** lokalu mieszkalnym należy przez to rozumieć samodzielny lokal mieszkalny w rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688) będący w dyspozycji Agencji Mienia Wojskowego, zwanej dalej „Agencją”;
-- **2)** kwaterze należy przez to rozumieć lokal mieszkalny przeznaczony do zakwaterowania żołnierza zawodowego i ujęty w wykazie kwater sporządzanym na podstawie ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2024 r. poz. 98);
-- **3)** wspólnej kwaterze stałej należy przez to rozumieć pomieszczenie mieszkalne przeznaczone do nieodpłatnego zakwaterowania zbiorowego żołnierzy, znajdujące się w budynku położonym na terenie zamkniętym lub pomieszczenia jednostek pływających Marynarki Wojennej;
-- **4)** lokalu użytkowym należy przez to rozumieć budynek lub jego część przeznaczone na cele inne niż mieszkalne;
-- **5)** zamieszkiwaniu należy przez to rozumieć przebywanie i korzystanie z lokalu mieszkalnego;
-- **6)** zajmowaniu lokalu należy przez to rozumieć posiadanie tytułu prawnego do lokalu mieszkalnego ustanowionego w drodze decyzji administracyjnej albo umowy najmu albo umowy użyczenia;
-- **7)** miejscowości pobliskiej należy przez to rozumieć miejscowość, do której najkrótszy czas dojazdu lądowym środkiem publicznego transportu zbiorowego, łącznie z przesiadkami, nie przekracza zgodnie z rozkładem jazdy 2 godzin w obie strony, licząc od stacji (przystanku) najbliższej miejsca pełnienia służby do stacji (przystanku) najbliższej miejsca zamieszkania, bez uwzględnienia czasu dojazdu do i od stacji (przystanku) w obrębie miejscowości, z której żołnierz dojeżdża, oraz miejscowości, w której wykonuje obowiązki służbowe;
-- **8)** kwaterze internatowej należy przez to rozumieć lokal mieszkalny pełniący funkcję internatu, przeznaczony do zamieszkiwania przez żołnierza lub większą liczbę żołnierzy zawodowych lub pracowników cywilnych wojska;
-- **9)** internacie należy przez to rozumieć budynek lub zespół pomieszczeń mieszkalnych stanowiących organizacyjną całość, przeznaczoną do zakwaterowania żołnierzy zawodowych lub pracowników cywilnych wojska;
-- **10)** służbowym pokoju noclegowym należy przez to rozumieć wydzielone pomieszczenie przeznaczone na stały pobyt ludzi, znajdujące się w budynku położonym na terenie zamkniętym;
-- **11)** lokalu zamiennym należy przez to rozumieć lokal mieszkalny znajdujący się w tej samej miejscowości lub w miejscowości pobliskiej, wyposażony w urządzenia techniczne co najmniej takie, w jakie był wyposażony lokal mieszkalny używany dotychczas, o powierzchni użytkowej podstawowej takiej, jak lokalu mieszkalnego dotychczas używanego z jednoczesnym zachowaniem minimalnej powierzchni użytkowej podstawowej przypadającej na członka gospodarstwa domowego nie mniejszej niż 8 m powierzchni użytkowej podstawowej, a w przypadku gospodarstwa jednoosobowego nie mniejszej niż 16 m tej powierzchni;
-- **12)** opłatach za używanie lokalu należy przez to rozumieć świadczenie pieniężne za korzystanie z lokalu mieszkalnego, które obejmuje koszty administrowania, koszty konserwacji, koszty utrzymania technicznego nieruchomości, odpis na fundusz remontowy, koszty utrzymania zieleni, koszty utrzymania pomieszczeń wspólnego użytkowania, w tym koszty związane z utrzymaniem czystości, koszty energii cieplnej, elektrycznej i wody na potrzeby części wspólnej, zwrot kosztów z tytułu podatku od nieruchomości, opłatę za antenę zbiorczą lub telewizję kablową, opłaty z tytułu legalizacji przyrządów pomiarowych zamontowanych na potrzeby lokalu mieszkalnego oraz opłaty z tytułu użytkowania dźwigu osobowego i konserwacji urządzeń domofonowych;
-- **13)** opłatach pośrednich należy przez to rozumieć opłaty za energię cieplną, elektryczną, gaz, wodę oraz za odbiór nieczystości stałych i płynnych;
-- **14)** powierzchni użytkowej lokalu mieszkalnego należy przez to rozumieć powierzchnię wszystkich pomieszczeń znajdujących się w lokalu mieszkalnym, a w szczególności pokoi, kuchni, spiżarni, przedpokoi, alków, holi, korytarzy, łazienek oraz innych pomieszczeń służących mieszkalnym i gospodarczym potrzebom lokatora, bez względu na ich przeznaczenie i sposób używania; za powierzchnię użytkową lokalu nie uważa się powierzchni balkonów, tarasów i loggii, antresoli, pralni, suszarni, wózkowni oraz pomieszczeń przynależnych;
-- **15)** powierzchni użytkowej podstawowej należy przez to rozumieć powierzchnię pokoi;
-- **16)** inwestycjach należy przez to rozumieć środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619);
-- **17)** eksploatacji kwatery należy przez to rozumieć wykorzystywanie kwatery zgodnie z jej przeznaczeniem, utrzymywanie we właściwym stanie technicznym i sanitarnohigienicznym z równoczesną dbałością o niepogorszenie jej właściwości użytkowych;
-- **18)** stawce podstawowej należy przez to rozumieć minimalną możliwą stawkę świadczenia mieszkaniowego.
+- **1)** lokalu mieszkalnym – należy przez to rozumieć samodzielny lokal mieszkalny w rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688) będący w dyspozycji Agencji Mienia Wojskowego, zwanej dalej „Agencją”;
+- **2)** kwaterze – należy przez to rozumieć lokal mieszkalny przeznaczony do zakwaterowania żołnierza zawodowego i ujęty w wykazie kwater sporządzanym na podstawie ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2024 r. poz. 98);
+- **3)** wspólnej kwaterze stałej – należy przez to rozumieć pomieszczenie mieszkalne przeznaczone do nieodpłatnego zakwaterowania zbiorowego żołnierzy, znajdujące się w budynku położonym na terenie zamkniętym lub pomieszczenia jednostek pływających Marynarki Wojennej;
+- **4)** lokalu użytkowym – należy przez to rozumieć budynek lub jego część przeznaczone na cele inne niż mieszkalne;
+- **5)** zamieszkiwaniu – należy przez to rozumieć przebywanie i korzystanie z lokalu mieszkalnego;
+- **6)** zajmowaniu lokalu – należy przez to rozumieć posiadanie tytułu prawnego do lokalu mieszkalnego ustanowionego w drodze decyzji administracyjnej albo umowy najmu albo umowy użyczenia;
+- **7)** miejscowości pobliskiej – należy przez to rozumieć miejscowość, do której najkrótszy czas dojazdu lądowym środkiem publicznego transportu zbiorowego, łącznie z przesiadkami, nie przekracza zgodnie z rozkładem jazdy 2 godzin w obie strony, licząc od stacji (przystanku) najbliższej miejsca pełnienia służby do stacji (przystanku) najbliższej miejsca zamieszkania, bez uwzględnienia czasu dojazdu do i od stacji (przystanku) w obrębie miejscowości, z której żołnierz dojeżdża, oraz miejscowości, w której wykonuje obowiązki służbowe;
+- **8)** kwaterze internatowej – należy przez to rozumieć lokal mieszkalny pełniący funkcję internatu, przeznaczony do zamieszkiwania przez żołnierza lub większą liczbę żołnierzy zawodowych lub pracowników cywilnych wojska;
+- **9)** internacie – należy przez to rozumieć budynek lub zespół pomieszczeń mieszkalnych stanowiących organizacyjną całość, przeznaczoną do zakwaterowania żołnierzy zawodowych lub pracowników cywilnych wojska;
+- **10)** służbowym pokoju noclegowym – należy przez to rozumieć wydzielone pomieszczenie przeznaczone na stały pobyt ludzi, znajdujące się w budynku położonym na terenie zamkniętym;
+- **11)** lokalu zamiennym – należy przez to rozumieć lokal mieszkalny znajdujący się w tej samej miejscowości lub w miejscowości pobliskiej, wyposażony w urządzenia techniczne co najmniej takie, w jakie był wyposażony lokal mieszkalny używany dotychczas, o powierzchni użytkowej podstawowej takiej, jak lokalu mieszkalnego dotychczas używanego z jednoczesnym zachowaniem minimalnej powierzchni użytkowej podstawowej przypadającej na członka gospodarstwa domowego nie mniejszej niż 8 m powierzchni użytkowej podstawowej, a w przypadku gospodarstwa jednoosobowego nie mniejszej niż 16 m tej powierzchni;
+- **12)** opłatach za używanie lokalu – należy przez to rozumieć świadczenie pieniężne za korzystanie z lokalu mieszkalnego, które obejmuje koszty administrowania, koszty konserwacji, koszty utrzymania technicznego nieruchomości, odpis na fundusz remontowy, koszty utrzymania zieleni, koszty utrzymania pomieszczeń wspólnego użytkowania, w tym koszty związane z utrzymaniem czystości, koszty energii cieplnej, elektrycznej i wody na potrzeby części wspólnej, zwrot kosztów z tytułu podatku od nieruchomości, opłatę za antenę zbiorczą lub telewizję kablową, opłaty z tytułu legalizacji przyrządów pomiarowych zamontowanych na potrzeby lokalu mieszkalnego oraz opłaty z tytułu użytkowania dźwigu osobowego i konserwacji urządzeń domofonowych;
+- **13)** opłatach pośrednich – należy przez to rozumieć opłaty za energię cieplną, elektryczną, gaz, wodę oraz za odbiór nieczystości stałych i płynnych;
+- **14)** powierzchni użytkowej lokalu mieszkalnego – należy przez to rozumieć powierzchnię wszystkich pomieszczeń znajdujących się w lokalu mieszkalnym, a w szczególności pokoi, kuchni, spiżarni, przedpokoi, alków, holi, korytarzy, łazienek oraz innych pomieszczeń służących mieszkalnym i gospodarczym potrzebom lokatora, bez względu na ich przeznaczenie i sposób używania; za powierzchnię użytkową lokalu nie uważa się powierzchni balkonów, tarasów i loggii, antresoli, pralni, suszarni, wózkowni oraz pomieszczeń przynależnych;
+- **15)** powierzchni użytkowej podstawowej – należy przez to rozumieć powierzchnię pokoi;
+- **16)** inwestycjach – należy przez to rozumieć środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619);
+- **17)** eksploatacji kwatery – należy przez to rozumieć wykorzystywanie kwatery zgodnie z jej przeznaczeniem, utrzymywanie we właściwym stanie technicznym i sanitarnohigienicznym z równoczesną dbałością o niepogorszenie jej właściwości użytkowych;
+- **18)** stawce podstawowej – należy przez to rozumieć minimalną możliwą stawkę świadczenia mieszkaniowego.
 
 2. Obmiaru powierzchni użytkowej lokalu mieszkalnego dokonuje się w świetle wyprawionych ścian. Powierzchnie pomieszczeń lub ich części o wysokości w świetle równej lub większej od 2,20 m należy zaliczać do obliczeń w 100 %, o wysokości równej lub większej od 1,40 m, lecz mniejszej od 2,20 m w 50 %, o wysokości mniejszej od 1,40 m pomija się całkowicie. Pozostałe zasady obliczania powierzchni należy stosować zgodnie z Polską Normą odpowiednią do określania i obliczania wskaźników powierzchniowych i kubaturowych w budownictwie.
 
@@ -131,7 +129,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 2. Możliwość zakwaterowania we wspólnej kwaterze stałej przysługuje również żołnierzom zawodowym, na ich wniosek, za zgodą dowódcy jednostki wojskowej.
 
-3. Minister Obrony Narodowej określi, w drodze rozporządzenia, normy zakwaterowania żołnierzy we wspólnych kwaterach stałych oraz tryb ich kwaterowania, z uwzględnieniem podziału wspólnych kwater stałych na powierzchnię podstawową rozumianą jako powierzchnię mieszkalną izb żołnierskich oraz powierzchnię pomocniczą rozumianą jako inne rodzaje powierzchni, niezbędnych do zakwaterowania zbiorowego żołnierzy, oraz zajmowane przez żołnierza stanowisko służbowe.
+3. Minister Obrony Narodowej określi, w drodze rozporządzenia, normy zakwaterowania żołnierzy we wspólnych kwaterach stałych oraz tryb ich kwaterowania, z uwzględnieniem podziału wspólnych kwater stałych na powierzchnię podstawową – rozumianą jako powierzchnię mieszkalną izb żołnierskich oraz powierzchnię pomocniczą – rozumianą jako inne rodzaje powierzchni, niezbędnych do zakwaterowania zbiorowego żołnierzy, oraz zajmowane przez żołnierza stanowisko służbowe.
 
 #### Rozdział 3 (uchylony)
 
@@ -194,7 +192,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 - **1)** żołnierza zawodowego, który do dnia śmierci zajmował lokal mieszkalny lub nie otrzymał decyzji o przydziale lokalu mieszkalnego, z wyłączeniem przypadków, o których mowa w art. 21 ust. 6, o ile do dnia śmierci nabył prawo do emerytury wojskowej lub jego śmierć pozostaje w związku ze służbą wojskową,
 - **2)** żołnierza, o którym mowa w art. 7 ust. 1 pkt 4a, oraz żołnierza pełniącego dobrowolną zasadniczą służbę wojskową albo terytorialną służbę wojskową, których śmierć pozostaje w związku ze służbą wojskową,
 - **3)** żołnierza, o którym mowa w pkt 1 i 2, zmarłego w ciągu 3 lat po zwolnieniu ze służby wojskowej, jeżeli śmierć nastąpiła wskutek urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie, albo w ciągu 3 lat po zwolnieniu ze służby, jeżeli śmierć nastąpiła wskutek wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej,
-- **4)** żołnierza uprawnionego do odprawy mieszkaniowej w dniu zwolnienia ze służby wojskowej, zmarłego przed dniem wypłaty tej odprawy wspólnie zamieszkałym z nim w dniu jego śmierci: małżonkowi, zstępnym, wstępnym, osobom przysposobionym i osobom przysposabiającym przysługują uprawnienia, o których mowa w ust. 4, a w przypadku żołnierza, o którym mowa w pkt 4 uprawnienie, o którym mowa w ust. 4 pkt 1.
+- **4)** żołnierza uprawnionego do odprawy mieszkaniowej w dniu zwolnienia ze służby wojskowej, zmarłego przed dniem wypłaty tej odprawy – wspólnie zamieszkałym z nim w dniu jego śmierci: małżonkowi, zstępnym, wstępnym, osobom przysposobionym i osobom przysposabiającym przysługują uprawnienia, o których mowa w ust. 4, a w przypadku żołnierza, o którym mowa w pkt 4 – uprawnienie, o którym mowa w ust. 4 pkt 1.
 
 4. Osobom, o których mowa w ust. 3, przysługują:
 
@@ -246,10 +244,10 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 2. Struktura kwatery powinna obejmować:
 
-- **1)** dla żołnierza samotnego jeden pokój z kuchnią albo aneksem kuchennym;
-- **2)** dla rodziny dwuosobowej dwa pokoje z kuchnią albo aneksem kuchennym;
-- **3)** dla rodziny trzyosobowej trzy pokoje z kuchnią albo aneksem kuchennym;
-- **4)** dla rodziny czteroosobowej lub większej trzy albo cztery pokoje z kuchnią albo aneksem kuchennym.
+- **1)** dla żołnierza samotnego – jeden pokój z kuchnią albo aneksem kuchennym;
+- **2)** dla rodziny dwuosobowej – dwa pokoje z kuchnią albo aneksem kuchennym;
+- **3)** dla rodziny trzyosobowej – trzy pokoje z kuchnią albo aneksem kuchennym;
+- **4)** dla rodziny czteroosobowej lub większej – trzy albo cztery pokoje z kuchnią albo aneksem kuchennym.
 
 3. Członkami rodziny żołnierza zawodowego, których uwzględnia się przy ustalaniu przysługującej powierzchni użytkowej podstawowej, są:
 
@@ -276,9 +274,9 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 3. W przypadku śmierci osoby, o której mowa w ust. 2, członkowie rodziny, o których mowa w art. 26 ust. 3, stale z nią zamieszkujący do chwili jej śmierci, mają prawo zajmowania lokalu mieszkalnego. W takim przypadku dyrektor oddziału regionalnego zawiera na ich wniosek umowę najmu do końca okresu obowiązywania tytułu prawnego, który przysługiwał osobie zmarłej.
 
-4. W przypadku umowy najmu zawartej z osobą prawną, jednostką samorządu terytorialnego albo państwową lub samorządową jednostką organizacyjną nieposiadającą osobowości prawnej, do opłat za używanie lokalu mieszkalnego i opłat pośrednich mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061).
+4. W przypadku umowy najmu zawartej z osobą prawną, jednostką samorządu terytorialnego albo państwową lub samorządową jednostką organizacyjną nieposiadającą osobowości prawnej, do opłat za używanie lokalu mieszkalnego i opłat pośrednich mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061).
 
-**Art. 29a.** Do osób innych niż żołnierze zawodowi, które zajmują lokale mieszkalne będące w zasobie mieszkaniowym i internatowym Agencji, w zakresie nieuregulowanym w ustawie mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny oraz ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
+**Art. 29a.** Do osób innych niż żołnierze zawodowi, które zajmują lokale mieszkalne będące w zasobie mieszkaniowym i internatowym Agencji, w zakresie nieuregulowanym w ustawie mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
 
 **Art. 29b.**
 
@@ -288,7 +286,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 3. W wezwaniu, o którym mowa w ust. 1, dyrektor oddziału regionalnego może wskazać inny lokal mieszkalny lub pomieszczenie tymczasowe, jeżeli potrzeby mieszkaniowe żołnierzy zawodowych są zaspokojone, a osoba obowiązana do opróżnienia lokalu mieszkalnego nie posiada tytułu prawnego do innego lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego lub nie jest uprawniona do takiego lokalu lub budynku mieszkalnego jednorodzinnego na podstawie odrębnych przepisów.
 
-4. Jeżeli osobie uprawnionej do zawarcia umowy najmu socjalnego lokalu na mocy wyroku sądowego gmina nie dostarczyła lokalu, Agencji przysługuje roszczenie o odszkodowanie od gminy na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+4. Jeżeli osobie uprawnionej do zawarcia umowy najmu socjalnego lokalu na mocy wyroku sądowego gmina nie dostarczyła lokalu, Agencji przysługuje roszczenie o odszkodowanie od gminy na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 **Art. 30.** (uchylony)
 
@@ -320,7 +318,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 - **2)** emerytów wojskowych,
 - **3)** rencistów wojskowych,
 - **4)** wdowy po żołnierzach zawodowych, emerytach wojskowych lub rencistach wojskowych,
-- **5)** dzieci żołnierzy zawodowych do czasu zawarcia przez nie związku małżeńskiego, nie dłużej jednak niż do dnia ukończenia 25. roku życia, chyba że przed tym dniem stały się niezdolne do pracy oraz samodzielnej egzystencji i nie zawarły związku małżeńskiego nie może przewyższać wskaźnika waloryzacji określonego na dany rok w decyzji Ministra Obrony Narodowej wydanej do końca I kwartału.
+- **5)** dzieci żołnierzy zawodowych do czasu zawarcia przez nie związku małżeńskiego, nie dłużej jednak niż do dnia ukończenia 25. roku życia, chyba że przed tym dniem stały się niezdolne do pracy oraz samodzielnej egzystencji i nie zawarły związku małżeńskiego – nie może przewyższać wskaźnika waloryzacji określonego na dany rok w decyzji Ministra Obrony Narodowej wydanej do końca I kwartału.
 
 2b. Kalkulowane koszty utrzymania lokali mieszkalnych, które są zajmowane przez osoby wymienione w ust. 2a, pomniejszone o przychody należne z tytułu opłat za używanie lokali są pokrywane z dotacji podmiotowej, o której mowa w art. 29 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego.
 
@@ -416,8 +414,8 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 - **1)** kobietę w ciąży,
 - **2)** małoletniego,
 - **3)** osobę niepełnosprawną w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i 1165) lub ubezwłasnowolnioną,
-- **4)** obłożnie chorego osobę, która dysponuje dokumentem urzędowym lub zaświadczeniem lekarskim stwierdzającym stan zdrowia, w którym chory bez narażenia życia lub zdrowia nie może prowadzić normalnej egzystencji, a w szczególności nie jest zdolny do podjęcia żadnej pracy, wydanym nie wcześniej niż miesiąc przed wykonywaniem przymusowego wykwaterowania,
-- **5)** emeryta i rencistę wraz z osobami wspólnie z nimi zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej. W takim przypadku dyrektor oddziału regionalnego kieruje do sądu powszechnego pozew o opróżnienie lokalu mieszkalnego, orzeczenie o uprawnieniu do zawarcia umowy najmu socjalnego lokalu, o wezwanie do udziału w postępowaniu gminy oraz zasądzenie odszkodowania.
+- **4)** obłożnie chorego – osobę, która dysponuje dokumentem urzędowym lub zaświadczeniem lekarskim stwierdzającym stan zdrowia, w którym chory bez narażenia życia lub zdrowia nie może prowadzić normalnej egzystencji, a w szczególności nie jest zdolny do podjęcia żadnej pracy, wydanym nie wcześniej niż miesiąc przed wykonywaniem przymusowego wykwaterowania,
+- **5)** emeryta i rencistę – wraz z osobami wspólnie z nimi zamieszkującymi, nie wydaje się decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej. W takim przypadku dyrektor oddziału regionalnego kieruje do sądu powszechnego pozew o opróżnienie lokalu mieszkalnego, orzeczenie o uprawnieniu do zawarcia umowy najmu socjalnego lokalu, o wezwanie do udziału w postępowaniu gminy oraz zasądzenie odszkodowania.
 
 **Art. 45a.**
 
@@ -427,7 +425,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 - **1)** tryb składania wniosków o przydział kwatery albo innego lokalu mieszkalnego,
 - **2)** wzór wniosku o przydział kwatery albo innego lokalu mieszkalnego,
-- **3)** wzór decyzji o przydziale kwatery albo innego lokalu mieszkalnego uwzględniając sprawność postępowania oraz uproszczony charakter wzorów tych dokumentów.
+- **3)** wzór decyzji o przydziale kwatery albo innego lokalu mieszkalnego – uwzględniając sprawność postępowania oraz uproszczony charakter wzorów tych dokumentów.
 
 **Art. 46.** (uchylony)
 
@@ -543,9 +541,9 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 2. Miejsce w internacie lub kwaterze internatowej przysługuje na czas pełnienia czynnej służby wojskowej w miejscowości, w której żołnierz zajmuje stanowisko służbowe, pozostaje w dyspozycji, nie dłużej jednak niż trzydzieści dni od dnia doręczenia decyzji o przydziale lokalu mieszkalnego albo w przypadku żołnierza:
 
-- **1)** zajmującego stanowisko służbowe zwolnienia ze stanowiska służbowego w tej miejscowości;
+- **1)** zajmującego stanowisko służbowe – zwolnienia ze stanowiska służbowego w tej miejscowości;
 - **2)** (uchylony)
-- **3)** pozostającego w dyspozycji do wyznaczenia na stanowisko służbowe lub skierowania do wykonywania zadań służbowych w innej miejscowości albo zwolnienia z zawodowej służby wojskowej. Przepisy art. 41 i art. 45 stosuje się odpowiednio.
+- **3)** pozostającego w dyspozycji – do wyznaczenia na stanowisko służbowe lub skierowania do wykonywania zadań służbowych w innej miejscowości albo zwolnienia z zawodowej służby wojskowej. Przepisy art. 41 i art. 45 stosuje się odpowiednio.
 
 3. Pracownikowi, o którym mowa w ust. 1 pkt 3, miejsce w internacie lub kwaterze internatowej przysługuje przez czas zatrudnienia, nie dłużej jednak niż trzydzieści dni od dnia zamieszkania w innym lokalu mieszkalnym lub ustania stosunku pracy. Przepisy art. 41 i art. 45 stosuje się odpowiednio.
 
@@ -572,12 +570,12 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 2. Do zakwaterowania żołnierzy zawodowych stosuje się następujące zasady:
 
 - **1)** żołnierzowi, w zależności od zajmowanego stanowiska służbowego, przysługuje norma powierzchni użytkowej podstawowej:
-    - **a)** od 7 do 10 m dla zajmujących stanowiska służbowe od stopnia etatowego szeregowego (marynarza) do stopnia etatowego starszego szeregowego specjalisty (starszego marynarza specjalisty) włącznie,
-    - **b)** od 8 do 12 m dla zajmujących stanowiska służbowe od stopnia etatowego kaprala (mata) do stopnia etatowego starszego sierżanta sztabowego (starszego bosmana sztabowego) włącznie,
-    - **c)** od 10 do 15 m dla zajmujących stanowiska służbowe od stopnia etatowego młodszego chorążego (młodszego chorążego marynarki) do stopnia etatowego starszego chorążego sztabowego (starszego chorążego sztabowego marynarki) włącznie,
-    - **d)** od 12 do 18 m dla zajmujących stanowiska służbowe od stopnia etatowego podporucznika (podporucznika marynarki) do stopnia etatowego kapitana (kapitana marynarki) włącznie,
-    - **e)** od 15 do 20 m dla zajmujących stanowiska służbowe od stopnia etatowego majora (komandora podporucznika) do stopnia etatowego pułkownika (komandora) włącznie,
-    - **f)** od 20 do 25 m dla zajmujących stanowiska służbowe od stopnia etatowego generała brygady (kontradmirała) do stopnia etatowego generała (admirała) włącznie;
+    - **a)** od 7 do 10 m – dla zajmujących stanowiska służbowe od stopnia etatowego szeregowego (marynarza) do stopnia etatowego starszego szeregowego specjalisty (starszego marynarza specjalisty) włącznie,
+    - **b)** od 8 do 12 m – dla zajmujących stanowiska służbowe od stopnia etatowego kaprala (mata) do stopnia etatowego starszego sierżanta sztabowego (starszego bosmana sztabowego) włącznie,
+    - **c)** od 10 do 15 m – dla zajmujących stanowiska służbowe od stopnia etatowego młodszego chorążego (młodszego chorążego marynarki) do stopnia etatowego starszego chorążego sztabowego (starszego chorążego sztabowego marynarki) włącznie,
+    - **d)** od 12 do 18 m – dla zajmujących stanowiska służbowe od stopnia etatowego podporucznika (podporucznika marynarki) do stopnia etatowego kapitana (kapitana marynarki) włącznie,
+    - **e)** od 15 do 20 m – dla zajmujących stanowiska służbowe od stopnia etatowego majora (komandora podporucznika) do stopnia etatowego pułkownika (komandora) włącznie,
+    - **f)** od 20 do 25 m – dla zajmujących stanowiska służbowe od stopnia etatowego generała brygady (kontradmirała) do stopnia etatowego generała (admirała) włącznie;
 
 - **2)** żołnierzowi zawodowemu, na jego wniosek, dyrektor oddziału regionalnego może przydzielić miejsce w internacie albo kwaterze internatowej o większej powierzchni użytkowej podstawowej niż powierzchnia maksymalna, o której mowa w pkt 1. Za powierzchnię użytkową podstawową większą niż jej maksymalna wielkość określona w pkt 1, żołnierz ponosi opłatę w pełnej wysokości.
 
@@ -639,7 +637,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 **Art. 62.**
 
-1. Zakwaterowanie przejściowe następuje w razie konieczności czasowego rozmieszczenia jednostek wojskowych, żołnierzy i pracowników wojska zatrudnionych w tych jednostkach oraz osób towarzyszących Siłom Zbrojnym, a także magazynowania lub przechowywania urządzeń, uzbrojenia, środków materiałowych i sprzętu wojskowego poza budynkami, lokalami i gruntami przeznaczonymi na zakwaterowanie stałe.
+1. Zakwaterowanie przejściowe następuje w razie konieczności czasowego rozmieszczenia jednostek wojskowych, żołnierzy i pracowników wojska zatrudnionych w tych jednostkach oraz osób towarzyszących Siłom Zbrojnym, a także magazynowania lub przechowywania urządzeń, uzbrojenia, środków materiałowych i sprzętu wojskowego – poza budynkami, lokalami i gruntami przeznaczonymi na zakwaterowanie stałe.
 
 2. Zakwaterowanie przejściowe następuje w szczególności w razie:
 
@@ -656,14 +654,14 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 - **1)** Policji, odpowiednio Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Krajowej Administracji Skarbowej wykorzystywane przez Służbę Celno-Skarbową, Państwowej Straży Pożarnej oraz Służby Więziennej;
 - **2)** państwowych jednostek organizacyjnych wykonujących zadania szczególnie ważne dla obronności lub bezpieczeństwa państwa;
 - **3)** objęte ochroną ogólną w rozumieniu Konwencji haskiej z dnia 14 maja 1954 r. o ochronie dóbr kulturalnych w razie konfliktu zbrojnego; zajęcie tych nieruchomości może nastąpić jedynie za zgodą właściwego organu służby konserwatorskiej;
-- **4)** oznakowane i objęte ochroną w rozumieniu Protokołu dodatkowego do Konwencji genewskich z dnia 12 sierpnia 1949 r. o ochronie ofiar międzynarodowych konfliktów zbrojnych przeznaczone do ochrony ludności cywilnej;
+- **4)** oznakowane i objęte ochroną w rozumieniu Protokołu dodatkowego do Konwencji genewskich z dnia 12 sierpnia 1949 r. o ochronie ofiar międzynarodowych konfliktów zbrojnych – przeznaczone do ochrony ludności cywilnej;
 - **5)** szkół wyższych lub jednostek badawczo-rozwojowych;
 - **6)** przeznaczone do wykonywania kultu religijnego;
 - **7)** w których mają siedzibę domy pomocy społecznej;
 - **8)** użytkowane przez:
     - **a)** obce misje dyplomatyczne i specjalne oraz urzędy konsularne,
     - **b)** członków personelu dyplomatycznego obcych misji dyplomatycznych i specjalnych oraz personelu konsularnego,
-    - **c)** członków personelu administracyjnego i technicznego oraz członków personelu służby obcych misji dyplomatycznych i specjalnych oraz urzędów konsularnych, jeżeli nie są obywatelami polskimi i nie posiadają w Rzeczypospolitej Polskiej stałego miejsca zamieszkania pod warunkiem wzajemności,
+    - **c)** członków personelu administracyjnego i technicznego oraz członków personelu służby obcych misji dyplomatycznych i specjalnych oraz urzędów konsularnych, jeżeli nie są obywatelami polskimi i nie posiadają w Rzeczypospolitej Polskiej stałego miejsca zamieszkania – pod warunkiem wzajemności,
     - **d)** inne osoby lub instytucje międzynarodowe korzystające z immunitetów lub przywilejów dyplomatycznych albo konsularnych na mocy ustaw, umów międzynarodowych, a także powszechnie uznanych zwyczajów międzynarodowych.
 
 2. Zakłady opieki zdrowotnej i weterynaryjne mogą być zajęte wyłącznie na potrzeby wojskowej służby zdrowia lub wojskowej służby weterynaryjnej.
@@ -673,6 +671,14 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 **Art. 65.** Nieruchomości zajęte na zakwaterowanie przejściowe podlegają zwolnieniu nie później niż w ciągu 6 miesięcy od dnia ich zajęcia. Ograniczenia tego nie stosuje się w razie wprowadzenia stanu wojennego, ogłoszenia mobilizacji i w czasie wojny.
 
 **Art. 66.** Zajęcie nieruchomości na zakwaterowanie przejściowe następuje na podstawie:
+
+- **1)** decyzji administracyjnej wydanej przez:
+    - **a)** starostę wykonującego zadanie z zakresu administracji rządowej – w stosunku do nieruchomości Skarbu Państwa, z zastrzeżeniem lit. c oraz d,
+    - **b)** wójta (burmistrza, prezydenta miasta), starostę, marszałka województwa – w stosunku do nieruchomości stanowiących własność odpowiedniej jednostki samorządu terytorialnego,
+    - **c)** dyrektora regionalnej dyrekcji lasów państwowych – w stosunku do obiektów i gruntów leśnych Skarbu Państwa będących w zarządzie Państwowego Gospodarstwa Leśnego „Lasy Państwowe”,
+    - **d)** Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa – w stosunku do nieruchomości rolnych Skarbu Państwa wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa;
+
+- **2)** pisemnej umowy zawartej przez organ wojskowy z osobą fizyczną lub prawną będącą właścicielem nieruchomości.
 
 **Art. 67.**
 
@@ -732,7 +738,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 1. Postępowanie o odszkodowanie wszczyna się na wniosek poszkodowanego.
 
-2. Wniosek o odszkodowanie składa się do dowódcy jednostki wojskowej, która wyrządziła szkodę, a jeżeli miejsce postoju tej jednostki nie jest znane do Szefa Inspektoratu Wsparcia Sił Zbrojnych.
+2. Wniosek o odszkodowanie składa się do dowódcy jednostki wojskowej, która wyrządziła szkodę, a jeżeli miejsce postoju tej jednostki nie jest znane – do Szefa Inspektoratu Wsparcia Sił Zbrojnych.
 
 3. Niezwłocznie po otrzymaniu wniosku o odszkodowanie dowódca jednostki wojskowej zarządza przeprowadzenie postępowania wyjaśniającego.
 
@@ -773,7 +779,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 **Art. 78a.**
 
-1. Zadania Agencji w stosunku do osób, o których mowa w art. 87 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, wykonuje państwowa jednostka budżetowa Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji podległa ministrowi właściwemu do spraw wewnętrznych.
+1. Zadania Agencji w stosunku do osób, o których mowa w art. 87 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, wykonuje państwowa jednostka budżetowa – Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji podległa ministrowi właściwemu do spraw wewnętrznych.
 
 2. (uchylony)
 
@@ -785,7 +791,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 6. Osoba fizyczna inna niż wskazana w art. 87 ust. 1 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, która zajmuje lokal mieszkalny na podstawie umowy najmu, uiszcza opłaty za używanie lokalu mieszkalnego i opłaty pośrednie na zasadach i w wysokości określonych w art. 36 ust. 1 i 3.
 
-7. W przypadku umowy najmu zawartej z osobą prawną, jednostką samorządu terytorialnego albo państwową lub samorządową jednostką organizacyjną nieposiadającą osobowości prawnej, do opłat za używanie lokalu mieszkalnego i opłat pośrednich mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+7. W przypadku umowy najmu zawartej z osobą prawną, jednostką samorządu terytorialnego albo państwową lub samorządową jednostką organizacyjną nieposiadającą osobowości prawnej, do opłat za używanie lokalu mieszkalnego i opłat pośrednich mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 **Art. 78b.**
 
@@ -822,7 +828,7 @@ poz. 1623), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 sierpnia 202
 
 - **1)** wzór wezwania do opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej,
 - **2)** wzór decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej,
-- **3)** wzór wniosku o zamianę lokalu mieszkalnego uwzględniając uproszczony charakter wzorów tych dokumentów.
+- **3)** wzór wniosku o zamianę lokalu mieszkalnego – uwzględniając uproszczony charakter wzorów tych dokumentów.
 
 **Art. 78d.**
 

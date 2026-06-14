@@ -8,10 +8,10 @@ pos: 635
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 maja 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 635 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 5 maja 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,36 +25,36 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000635) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/635/text.pdf) |
 
-Poz. 635 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ dnia 5 maja 2016 r.
-sprawie trybu przeprowadzania kontroli przestrzegania przepisów czasie pracy odpoczynku marynarzy Na podstawie art. 95 ust. 10 ustawy dnia 5 sierpnia 2015 r. pracy morzu 1569) zarządza się, co następuje: § 1. Przepisów nie stosuje do organów Państwowej Inspekcji Pracy, których mowa art. 95 ust. 1 ustawy dnia 5 sierpnia 2015 r. pracy morzu.
-§ 2. Przy przeprowadzaniu kontroli przestrzegania przepisów czasie pracy odpoczynku marynarzy, zwanej dalej „kontrolą”, dokonuje kontroli dokumentów materiałów dotyczących ewidencji czasu pracy odpoczynku marynarzy oraz rozkładów czasu pracy.
-§ 3. 1. Przed podjęciem czynności kontrolnych przeprowadzający kontrolę, zwany dalej „kontrolującym”, zgłasza swoją obecność kapitanowi statku, wyjątkiem przypadków, gdy zgłoszenie to mogłoby mieć wpływ wynik kontroli.
-2. Przystępując do kontroli, kontrolujący okazuje kapitanowi statku dokument identyfikacyjny, którym mowa art. 18 ust. 9 ustawy dnia 18 sierpnia 2011 r. bezpieczeństwie morskim 2016 r. 281), sposób umożliwiający odczytanie zanotowanie danych osobowych kontrolującego.
-§ 4. Przy przeprowadzaniu kontroli kontrolujący zachowuje tajemnicy okoliczności umożliwiające ustalenie tożsamości, tym danych osobowych, marynarza, który udzielił kontrolującemu informacji zakresie objętym kontrolą, jeżeli ujawnienie tych danych mogłoby narazić marynarza jakikolwiek uszczerbek lub zarzut powodu udzielenia tej informacji.
-§ 5. 1. Ustalenia kontroli są dokumentowane formie protokołu postaci papierowej.
+w sprawie trybu przeprowadzania kontroli przestrzegania przepisów o czasie pracy i odpoczynku marynarzy Na podstawie art. 95 ust. 10 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. poz. 1569) zarządza się, co następuje:
+§ 1. Przepisów rozporządzenia nie stosuje się do organów Państwowej Inspekcji Pracy, o których mowa w art. 95 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu.
+§ 2. Przy przeprowadzaniu kontroli przestrzegania przepisów o czasie pracy i odpoczynku marynarzy, zwanej dalej „kontrolą”, dokonuje się kontroli dokumentów i materiałów dotyczących ewidencji czasu pracy i odpoczynku marynarzy oraz rozkładów czasu pracy.
+§ 3. 1. Przed podjęciem czynności kontrolnych przeprowadzający kontrolę, zwany dalej „kontrolującym”, zgłasza swoją obecność kapitanowi statku, z wyjątkiem przypadków, gdy zgłoszenie to mogłoby mieć wpływ na wynik kontroli.
+2. Przystępując do kontroli, kontrolujący okazuje kapitanowi statku dokument identyfikacyjny, o którym mowa w art. 18 ust. 9 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281), w sposób umożliwiający odczytanie i zanotowanie danych osobowych kontrolującego.
+§ 4. Przy przeprowadzaniu kontroli kontrolujący zachowuje w tajemnicy okoliczności umożliwiające ustalenie tożsamości, w tym danych osobowych, marynarza, który udzielił kontrolującemu informacji w zakresie objętym kontrolą, jeżeli ujawnienie tych danych mogłoby narazić marynarza na jakikolwiek uszczerbek lub zarzut z powodu udzielenia tej informacji.
+§ 5. 1. Ustalenia z kontroli są dokumentowane w formie protokołu w postaci papierowej.
 2. Protokół zawiera:
-1) nazwę siedzibę armatora oraz jego numer identyfikacji podatkowej (NIP);
-2) numer IMO statku nadany przez Międzynarodową Organizację Morską (IMO), a razie jego braku, numer rejestrowy statku;
-3) imię nazwisko kapitana statku;
-4) imię nazwisko oraz stanowisko służbowe kontrolującego;
-5) oznaczenie dni, których przeprowadzano kontrolę;
+1) nazwę i siedzibę armatora oraz jego numer identyfikacji podatkowej (NIP);
+2) numer IMO statku nadany przez Międzynarodową Organizację Morską (IMO), a w razie jego braku, numer rejestrowy statku;
+3) imię i nazwisko kapitana statku;
+4) imię i nazwisko oraz stanowisko służbowe kontrolującego;
+5) oznaczenie dni, w których przeprowadzano kontrolę;
 6) opis stwierdzonych naruszeń oraz inne informacje mające istotne znaczenie dla wyników kontroli;
-7) imiona nazwiska marynarzy udzielających informacji podczas kontroli, zastrzeżeniem § 4;
-8) ustalenia sprawie przestrzegania przepisów czasie pracy odpoczynku marynarzy oraz informację realizacji postanowień nich zawartych;
-9) wyszczególnienie załączników, których mowa ust. 3;
-10) wzmiankę wniesieniu lub niewniesieniu przez kapitana statku zastrzeżeń, których mowa ust. 5, oraz ewentualnym usunięciu stwierdzonych nieprawidłowości przed zakończeniem kontroli;
-11) datę miejsce podpisania protokołu przez kontrolującego kapitana statku.
-3. Do protokołu załącza dokumenty materiały dotyczące przestrzegania przepisów czasie pracy odpoczynku marynarzy, stanowiące część składową protokołu.
+7) imiona i nazwiska marynarzy udzielających informacji podczas kontroli, z zastrzeżeniem § 4;
+8) ustalenia w sprawie przestrzegania przepisów o czasie pracy i odpoczynku marynarzy oraz informację o realizacji postanowień w nich zawartych;
+9) wyszczególnienie załączników, o których mowa w ust. 3;
+10) wzmiankę o wniesieniu lub niewniesieniu przez kapitana statku zastrzeżeń, o których mowa w ust. 5, oraz ewentualnym usunięciu stwierdzonych nieprawidłowości przed zakończeniem kontroli;
+11) datę i miejsce podpisania protokołu przez kontrolującego i kapitana statku.
+3. Do protokołu załącza się dokumenty i materiały dotyczące przestrzegania przepisów o czasie pracy i odpoczynku marynarzy, stanowiące część składową protokołu.
 4. Protokół podpisuje kontrolujący oraz kapitan statku.
-5. Kapitanowi statku przysługuje prawo zgłoszenia, przed podpisaniem protokołu, umotywowanych zastrzeżeń do ustaleń zawartych protokole. Protokół powinien zawierać pouczenie możliwości zgłoszenia zastrzeżeń.
-6. Zastrzeżenia, których mowa ust. 5, należy zgłosić piśmie terminie 7 dni od dnia przedstawienia protokołu, jednak nie później niż przed dniem opuszczenia portu przez statek.
-7. W razie zgłoszenia zastrzeżeń, których mowa ust. 5, kontrolujący bada je, a przypadku stwierdzenia zasadności zastrzeżeń – zmienia lub uzupełnia odpowiednią część protokołu.
-8. W przypadku odmowy podpisania protokołu przez kapitana statku kontrolujący wpisuje protokole adnotację braku podpisu.
-9. Odmowa podpisania protokołu przez kapitana statku nie stanowi przeszkody realizacji ustaleń zawartych protokole. Protokół powinien zawierać takie pouczenie.
-10. W protokole nie można dokonywać poprawek, skreśleń ani uzupełnień bez omówienia ich końcu protokołu, wyjątkiem sprostowania oczywistych omyłek pisarskich rachunkowych, które parafuje kontrolujący.
-11. Protokół sporządza języku polskim angielskim trzech jednobrzmiących egzemplarzach, których jeden egzemplarz otrzymuje kapitan statku, drugi – przedstawiciel załogi, a trzeci – organ inspekcyjny, którym mowa art. 2 pkt 4 ustawy dnia 5 sierpnia 2015 r. pracy morzu.
-12. Dla statków nieuprawiających żeglugi międzynarodowej protokół jest sporządzany języku polskim.
-§ 6. Do spraw wszczętych niezakończonych przed dniem wejścia życie stosuje przepisy dotychczasowe.
-§ 7. Rozporządzenie wchodzi życie po upływie 3 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej Żeglugi Śródlądowej: M. Gróbarczyk
+5. Kapitanowi statku przysługuje prawo zgłoszenia, przed podpisaniem protokołu, umotywowanych zastrzeżeń do ustaleń zawartych w protokole. Protokół powinien zawierać pouczenie o możliwości zgłoszenia zastrzeżeń.
+6. Zastrzeżenia, o których mowa w ust. 5, należy zgłosić na piśmie w terminie 7 dni od dnia przedstawienia protokołu, jednak nie później niż przed dniem opuszczenia portu przez statek.
+7. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 5, kontrolujący bada je, a w przypadku stwierdzenia zasadności zastrzeżeń – zmienia lub uzupełnia odpowiednią część protokołu.
+8. W przypadku odmowy podpisania protokołu przez kapitana statku kontrolujący wpisuje w protokole adnotację o braku podpisu.
+9. Odmowa podpisania protokołu przez kapitana statku nie stanowi przeszkody w realizacji ustaleń zawartych w protokole. Protokół powinien zawierać takie pouczenie.
+10. W protokole nie można dokonywać poprawek, skreśleń ani uzupełnień bez omówienia ich na końcu protokołu, z wyjątkiem sprostowania oczywistych omyłek pisarskich i rachunkowych, które parafuje kontrolujący.
+11. Protokół sporządza się w języku polskim i angielskim w trzech jednobrzmiących egzemplarzach, z których jeden egzemplarz otrzymuje kapitan statku, drugi – przedstawiciel załogi, a trzeci – organ inspekcyjny, o którym mowa w art. 2 pkt 4 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu.
+12. Dla statków nieuprawiających żeglugi międzynarodowej protokół jest sporządzany w języku polskim.
+§ 6. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+§ 7. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
+Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
 

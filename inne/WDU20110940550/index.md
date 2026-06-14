@@ -8,10 +8,10 @@ pos: 550
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja wyborcza do Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz ustawy – Kodeks wyborczy
+# o zmianie ustawy – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz ustawy – Kodeks wyborczy
 
 *USTAWA z dnia 1 kwietnia 2011 r.*
 
@@ -27,7 +27,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110940550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/550/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 kwietnia 2001 r. – Ordynacja wyborcza do Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. z 2007 r. Nr 190, poz. 1360 z późn. zm. ) załącznik nr 1 otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
+**Art. 1.** W ustawie z dnia 12 kwietnia 2001 r. – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. z 2007 r. Nr 190, poz. 1360 z późn. zm. ) załącznik nr 1 otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
 
 **Art. 2.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112 i Nr 26, poz. 134) załącznik nr 1 otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
 

@@ -8,7 +8,7 @@ pos: 779
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o strażach gminnych
@@ -81,6 +81,23 @@ Art. 34–37. (pominięte)
 2. Szczegółową strukturę organizacyjną straży określa regulamin straży nadawany przez radę gminy.
 
 **Art. 8a.** W straży ustanawia się stanowiska strażnicze:
+
+- **1)** aplikanta;
+- **2)** młodszego strażnika;
+- **3)** strażnika;
+- **4)** starszego strażnika;
+- **5)** młodszego specjalisty;
+- **6)** specjalisty;
+- **7)** starszego specjalisty;
+- **8)** młodszego inspektora;
+- **9)** inspektora;
+- **10)** starszego inspektora;
+- **11)** zastępcy kierownika;
+- **12)** kierownika;
+- **13)** zastępcy naczelnika;
+- **14)** naczelnika;
+- **15)** zastępcy komendanta;
+- **16)** komendanta.
 
 **Art. 9.**
 
@@ -324,6 +341,15 @@ Art. 34–37. (pominięte)
 
 **Art. 24.** Strażnikiem może być osoba, która:
 
+- **1)** posiada obywatelstwo polskie;
+- **2)** ukończyła 21 lat;
+- **3)** korzysta z pełni praw publicznych;
+- **4)** posiada co najmniej wykształcenie średnie lub średnie branżowe;
+- **5)** cieszy się nienaganną opinią;
+- **6)** jest sprawna pod względem fizycznym i psychicznym;
+- **7)** nie była skazana prawomocnym wyrokiem sądu za ścigane z oskarżenia publicznego i umyślnie popełnione przestępstwo lub przestępstwo skarbowe;
+- **8)** ma uregulowany stosunek do służby wojskowej.
+
 **Art. 24a.**
 
 1. Strażnicy oraz osoby ubiegające się o przyjęcie do pracy w charakterze strażnika podlegają obowiązkowym badaniom lekarskim i psychologicznym.
@@ -361,6 +387,14 @@ Art. 34–37. (pominięte)
 6. Przepisu ust. 5 nie stosuje się w przypadku warunkowego umorzenia postępowania karnego.
 
 **Art. 27.** Do obowiązków strażnika należy:
+
+- **1)** przestrzeganie prawa, rzetelne, bezstronne i terminowe wykonywanie poleceń przełożonych;
+- **2)** poszanowanie powagi, honoru, godności obywateli i własnej;
+- **3)** zachowanie tajemnicy prawnie chronionej;
+- **4)** podejmowanie interwencji w sytuacjach zagrożenia życia, zdrowia lub mienia, a także w przypadku naruszenia dóbr osobistych ludzi;
+- **5)** zachowanie uprzejmości i życzliwości w kontaktach z obywatelami, przełożonymi, podwładnymi oraz współpracownikami;
+- **6)** stałe podnoszenie kwalifikacji zawodowych;
+- **7)** zachowanie się z godnością w czasie pracy i poza nią.
 
 **Art. 28.** (uchylony)
 

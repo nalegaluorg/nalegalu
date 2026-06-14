@@ -30,12 +30,18 @@ saos_id|date|court|case_number|type|score|saos_url
 165821|2014-05-15|SN|III SK 75/13|Postanowienie|69|https://www.saos.org.pl/judgments/165821
 103981|2013-12-18|SN|IV CNP 43/13|Postanowienie|69|https://www.saos.org.pl/judgments/103981
 544824|2026-03-24|SO|I ACa 2992/23|Wyrok|56|https://www.saos.org.pl/judgments/544824
+546792|2026-02-20|SO|I ACa 2175/22|Wyrok|56|https://www.saos.org.pl/judgments/546792
+546253|2026-02-20|SO|I ACa 163/23|Wyrok|56|https://www.saos.org.pl/judgments/546253
+545134|2026-02-20|SO|I ACa 1500/23|Wyrok|56|https://www.saos.org.pl/judgments/545134
+546734|2026-01-19|SO|I ACa 1817/22|Wyrok|56|https://www.saos.org.pl/judgments/546734
+546737|2026-01-13|SO|I ACa 1930/22|Wyrok|56|https://www.saos.org.pl/judgments/546737
 541305|2026-01-08|SO|I ACa 1761/22|Wyrok|56|https://www.saos.org.pl/judgments/541305
 541546|2025-12-22|SO|I ACa 714/23|Wyrok|56|https://www.saos.org.pl/judgments/541546
 543142|2025-12-18|SO|I ACa 1990/23|Wyrok|56|https://www.saos.org.pl/judgments/543142
 541381|2025-12-18|SO|I ACa 1871/22|Wyrok|56|https://www.saos.org.pl/judgments/541381
 541380|2025-12-18|SO|I ACa 1860/22|Wyrok|56|https://www.saos.org.pl/judgments/541380
 538866|2025-12-18|SO|I ACa 1790/24|Wyrok|56|https://www.saos.org.pl/judgments/538866
+546681|2025-12-12|SO|I AGa 350/23|Wyrok|56|https://www.saos.org.pl/judgments/546681
 541304|2025-12-11|SO|I ACa 1744/22|Wyrok|56|https://www.saos.org.pl/judgments/541304
 541544|2025-12-10|SO|I ACa 496/23|Wyrok|56|https://www.saos.org.pl/judgments/541544
 541497|2025-12-09|SO|I ACa 739/23|Wyrok|56|https://www.saos.org.pl/judgments/541497
@@ -487,6 +493,7 @@ saos_id|date|court|case_number|type|score|saos_url
 136354|2012-11-07|SO|I C 425/12|Wyrok|40|https://www.saos.org.pl/judgments/136354
 401138|2019-09-27|SO|VI Gz 240/19|Postanowienie|31|https://www.saos.org.pl/judgments/401138
 544648|2026-02-06|SO|VII C 948/24|Zarządzenie|27|https://www.saos.org.pl/judgments/544648
+545901|2025-10-30|SO|VII C 753/24|Zarządzenie|27|https://www.saos.org.pl/judgments/545901
 516311|2024-11-15|SO|X GC 63/24|Zarządzenie|27|https://www.saos.org.pl/judgments/516311
 536490|2024-06-19|SO|III Ca 712/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/536490
 534384|2024-06-03|SO|III Ca 324/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/534384

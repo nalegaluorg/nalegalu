@@ -8,7 +8,7 @@ pos: 1490
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o transporcie drogowym
@@ -81,6 +81,100 @@ Art. 97–103. (pominięte)
 - **4)** w ramach usuwania skutków awarii lub wypadków pojazdami pomocy drogowej – stosuje się odpowiednio przepisy ustawy dotyczące niezarobkowego przewozu drogowego.
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
+
+- **1)** krajowy transport drogowy – podejmowanie i wykonywanie działalności gospodarczej w zakresie przewozu osób lub rzeczy pojazdami samochodowymi zarejestrowanymi w kraju oraz pojazdami najmowanymi, za które uważa się również zespoły pojazdów składające się z pojazdu samochodowego i przyczepy lub naczepy, na terytorium Rzeczypospolitej Polskiej, przy czym jazda pojazdu, miejsce rozpoczęcia i zakończenia podróży, a także cała trasa znajdują się na terytorium Rzeczypospolitej Polskiej;
+- **2)** międzynarodowy transport drogowy – podejmowanie i wykonywanie działalności gospodarczej w zakresie przewozu osób lub rzeczy pojazdami samochodowymi, za które uważa się również zespoły pojazdów składające się z pojazdu samochodowego i przyczepy lub naczepy, przy czym jazda pojazdu między miejscem początkowym i docelowym odbywa się z przekroczeniem granicy Rzeczypospolitej Polskiej;
+- **3)** transport drogowy – krajowy transport drogowy lub międzynarodowy transport drogowy; określenie to obejmuje również:
+    - **a)** każdy przejazd drogowy wykonywany przez przedsiębiorcę pomocniczo w stosunku do działalności gospodarczej, niespełniający warunków, o których mowa w pkt 4,
+    - **b)** działalność gospodarczą w zakresie pośrednictwa przy przewozie rzeczy,
+    - **c)** działalność gospodarczą w zakresie pośrednictwa przy przewozie osób;
+
+- **4)** niezarobkowy przewóz drogowy – przewóz na potrzeby własne – każdy przejazd pojazdu po drogach publicznych z pasażerami lub bez, załadowanego lub bez ładunku, przeznaczonego do nieodpłatnego krajowego i międzynarodowego przewozu drogowego osób lub rzeczy, wykonywany przez przedsiębiorcę pomocniczo w stosunku do jego podstawowej działalności gospodarczej, spełniający łącznie następujące warunki:
+    - **a)** pojazdy samochodowe używane do przewozu są prowadzone przez przedsiębiorcę lub jego pracowników,
+    - **b)** przedsiębiorca legitymuje się tytułem prawnym do dysponowania pojazdami samochodowymi,
+    - **c)** w przypadku przejazdu pojazdu załadowanego – rzeczy przewożone są własnością przedsiębiorcy lub zostały przez niego sprzedane, kupione, wynajęte, wydzierżawione, wyprodukowane, wydobyte, przetworzone lub naprawione albo celem przejazdu jest przewóz osób lub rzeczy z przedsiębiorstwa lub do przedsiębiorstwa na jego własne potrzeby, a także przewóz pracowników i ich rodzin,
+    - **d)** nie jest przewozem w ramach prowadzonej działalności gospodarczej w zakresie usług turystycznych;
+
+- **5)** niezarobkowy krajowy przewóz drogowy – przewóz na potrzeby własne wykonywany na terytorium Rzeczypospolitej Polskiej;
+- **6)** niezarobkowy międzynarodowy przewóz drogowy – przewóz na potrzeby własne wykonywany z przekroczeniem granicy Rzeczypospolitej Polskiej;
+- **6a)** przewóz drogowy – transport drogowy lub niezarobkowy przewóz drogowy, a także inny przewóz drogowy w rozumieniu przepisów rozporządzenia (WE) nr 561/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego oraz zmieniającego rozporządzenia Rady (EWG) nr 3821/85 i (WE) 2135/98, jak również uchylającego rozporządzenie Rady (EWG) nr 3820/85 (Dz. Urz. UE L 102 z 11.04.2006, str. 1), zwanego dalej „rozporządzeniem (WE) nr 561/2006”;
+- **7)** przewóz regularny – publiczny przewóz osób i ich bagażu w określonych odstępach czasu i określonymi trasami, na zasadach określonych w ustawie i w ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2024 r. poz. 1262);
+- **7a)** (uchylony)
+- **8)** linia komunikacyjna – połączenie komunikacyjne na określonej drodze między przystankami wskazanymi w rozkładzie jazdy, po której odbywają się regularne przewozy osób;
+- **8a)** przystanek – miejsce przeznaczone do wsiadania lub wysiadania pasażerów na danej linii komunikacyjnej, oznaczone w sposób określony w przepisach ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, z informacją o rozkładzie jazdy, z uwzględnieniem godzin odjazdów środków transportowych przewoźnika drogowego uprawnionego do korzystania z tego miejsca;
+- **9)** przewóz regularny specjalny – niepubliczny przewóz regularny określonej grupy osób, z wyłączeniem innych osób;
+- **10)** przewóz wahadłowy – wielokrotny przewóz zorganizowanych grup osób tam i z powrotem, między tym samym miejscem początkowym a tym samym miejscem docelowym, przy spełnieniu łącznie następujących warunków:
+    - **a)** każda grupa osób przewiezionych do miejsca docelowego wraca do miejsca początkowego,
+    - **b)** miejsce początkowe i miejsce docelowe oznaczają odpowiednio miejsce rozpoczęcia usługi przewozowej oraz miejsce zakończenia usługi przewozowej, z uwzględnieniem w każdym przypadku okolicznych miejscowości leżących w promieniu 50 km;
+
+- **11)** przewóz okazjonalny – przewóz osób, który nie stanowi przewozu regularnego, przewozu regularnego specjalnego albo przewozu wahadłowego;
+- **12)** przewóz kabotażowy – przewóz: dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm. ), w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm. ),
+    - **a)** kabotażowy w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r.
+    - **b)** kabotażowy w rozumieniu art. 2 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r.
+    - **c)** wykonywany między miejscami położonymi na terytorium Rzeczypospolitej Polskiej przez przedsiębiorcę zagranicznego mającego siedzibę w państwie innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym,
+    - **d)** wykonywany między miejscami położonymi na terytorium Rzeczypospolitej Polskiej pojazdem samochodowym zarejestrowanym lub dopuszczonym do ruchu za granicą, innym niż pojazd najmowany;
+
+- **13)** transport kombinowany – przewóz rzeczy, podczas którego samochód ciężarowy, przyczepa, naczepa z jednostką ciągnącą lub bez jednostki ciągnącej, nadwozie wymienne lub kontener 20-stopowy lub większy korzysta z drogi w początkowym lub końcowym odcinku przewozu, a na innym odcinku z usługi kolei, żeglugi śródlądowej lub transportu morskiego, przy czym odcinek morski przekracza 100 km w linii prostej; odcinek przewozu początkowego lub końcowego oznacza przewóz:
+    - **a)** pomiędzy punktem, gdzie rzeczy są załadowane, i najbliższą odpowiednią kolejową stacją załadunkową dla odcinka początkowego oraz pomiędzy najbliższą odpowiednią kolejową stacją wyładunkową a punktem, gdzie rzeczy są wyładowane, dla końcowego odcinka lub
+    - **b)** wewnątrz promienia nieprzekraczającego 150 km w linii prostej ze śródlądowego lub morskiego portu załadunku lub wyładunku;
+
+- **14)** międzynarodowy transport kombinowany – transport kombinowany, podczas którego następuje przekroczenie granicy Rzeczypospolitej Polskiej;
+- **14a)** operacja transportu intermodalnego – operacje:
+    - **a)** transportu kombinowanego albo międzynarodowego transportu kombinowanego,
+    - **b)** transportowe obejmujące żeglugę śródlądową lub transport morski, których częścią jest transport drogowy o długości początkowego lub końcowego odcinka drogowego nieprzekraczającego 150 km na terytorium Unii Europejskiej, przy czym gdy jest to niezbędne w celu dotarcia do najbliższego miejsca umożliwiającego obsługę pojazdu dokonującego operacji transportu intermodalnego, przewoźnik może przekroczyć długość odcinka drogowego;
+
+- **14b)** wysyłający – uczestnik operacji transportu intermodalnego będący:
+    - **a)** załadowcą wskazanym w konosamencie lub innym dokumencie, na podstawie którego odbywa się przewóz – w przypadku wykonywania operacji transportu intermodalnego obejmującej, oprócz odcinka przewozu drogowego, transport morski,
+    - **b)** nadawcą – w przypadku wykonywania operacji transportu intermodalnego obejmującej, oprócz odcinka przewozu drogowego, transport kolejowy lub żeglugę śródlądową;
+
+- **15)** przewoźnik drogowy – przedsiębiorca uprawniony do wykonywania działalności gospodarczej w zakresie transportu drogowego;
+- **16)** zagraniczny przewoźnik drogowy – zagraniczny przedsiębiorca uprawniony do wykonywania działalności gospodarczej w zakresie transportu drogowego na podstawie przepisów obowiązujących w państwie, w którym znajduje się jego siedziba;
+- **17)** licencja – decyzja administracyjna wydana przez Głównego Inspektora Transportu Drogowego lub określony w ustawie organ samorządu terytorialnego, uprawniająca do podejmowania i wykonywania działalności gospodarczej w zakresie transportu drogowego;
+- **18)** zezwolenie – decyzja administracyjna wydana przez ministra właściwego do spraw transportu, Głównego Inspektora Transportu Drogowego lub określony w ustawie organ samorządu terytorialnego, uprawniająca przewoźnika drogowego do wykonywania określonego rodzaju transportu drogowego;
+- **19)** zezwolenie zagraniczne – dokument otrzymany na podstawie umowy międzynarodowej od właściwego organu innego państwa lub organizacji międzynarodowej przez właściwy organ Rzeczypospolitej Polskiej przekazywany przewoźnikowi drogowemu i upoważniający go do wykonywania międzynarodowego transportu drogowego, jednokrotnie lub wielokrotnie, do lub z terytorium państwa określonego w zezwoleniu lub tranzytem przez jego terytorium;
+- **19a)** formularz jazdy – dokument wydawany na podstawie art. 12 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 oraz na podstawie umowy w sprawie międzynarodowych okazjonalnych przewozów pasażerów autokarami i autobusami (Umowa INTERBUS), sporządzonej w Brukseli dnia 11 grudnia 2000 r. (Dz. U. z 2003 r. poz. 1076);
+- **20)** certyfikat kompetencji zawodowych – dokument potwierdzający posiadanie kwalifikacji i wiedzy niezbędnych do podjęcia i wykonywania działalności gospodarczej w zakresie transportu drogowego;
+- **21)** (uchylony) 21a) baza eksploatacyjna – miejsce będące w dyspozycji przedsiębiorcy, przystosowane do prowadzenia działalności transportowej w sposób zorganizowany i ciągły, w skład którego wchodzi co najmniej jeden z następujących elementów: miejsce postojowe dla pojazdów wykorzystywanych w transporcie drogowym, miejsce załadunku, rozładunku lub łączenia ładunków, miejsce konserwacji lub naprawy pojazdów; przez bazę eksploatacyjną należy rozumieć także centrum operacyjne pracodawcy, o którym mowa w przepisach rozporządzenia (WE) nr 561/2006;
+- **21b)** zezwolenie na odstępstwo – zezwolenie na odstępstwo od zakazu przewozu drogowego towarów, wydane przez właściwy organ państwa członkowskiego Unii Europejskiej na podstawie art. 1zc rozporządzenia Rady (WE) nr 765/2006 z dnia 18 maja 2006 r. dotyczącego środków ograniczających w związku z sytuacją na Białorusi i udziałem Białorusi w agresji Rosji wobec Ukrainy (Dz. Urz. UE L 134 z 20.05.2006, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 765/2006”, lub art. 3l rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE L 229 z 31.07.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 833/2014”;
+- **22)** obowiązki lub warunki przewozu drogowego – obowiązki lub warunki wynikające z przepisów ustawy oraz: UE L 190 z 12.07.2006, str. 1, z późn. zm. ),
+    - **a)** rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 3 z 05.01.2005, str. 1, z późn. zm. ),
+    - **b)** rozporządzenia (WE) nr 561/2006,
+    - **c)** rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz.
+    - **d)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1071/2009 z dnia 21 października 2009 r. ustanawiającego wspólne zasady dotyczące warunków wykonywania zawodu przewoźnika drogowego i uchylającego dyrektywę Rady 96/26/WE (Dz. Urz. UE L 300 z 14.11.2009, str. 51, z późn. zm. ),
+    - **e)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych,
+    - **f)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006,
+    - **g)** rozporządzenia Komisji (UE) nr 581/2010 z dnia 1 lipca 2010 r. w sprawie maksymalnych okresów na wczytanie odpowiednich danych z jednostek pojazdowych oraz kart kierowców (Dz. Urz. UE L 168 z 02.07.2010, str. 16),
+    - **h)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz. UE L 60 z 28.02.2014, str. 1), zwanego dalej „rozporządzeniem (UE) nr 165/2014”, lub aktów wykonawczych do rozporządzenia (UE) nr 165/2014: – rozporządzenia wykonawczego Komisji (UE) 2016/799 z dnia 18 marca 2016 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 ustanawiającego wymogi dotyczące budowy, sprawdzania, instalacji, użytkowania i naprawy tachografów oraz ich elementów składowych (Dz. Urz. UE L 139 z 26.05.2016, str. 1, z późn. zm. ) , – rozporządzenia wykonawczego Komisji (UE) 2017/548 z dnia 23 marca 2017 r. ustanawiającego standardowy formularz pisemnego oświadczenia w sprawie usunięcia lub naruszenia plomby tachografu (Dz. Urz. UE L 79 z 24.03.2017, str. 1), ha) rozporządzenia 765/2006, hb) rozporządzenia 833/2014,
+    - **i)** decyzji Komisji nr 2007/230/WE z dnia 12 kwietnia 2007 r. w sprawie formularza dotyczącego przepisów socjalnych odnoszących się do działalności w transporcie drogowym (Dz. Urz. UE L 99 z 14.04.2007, str. 14, z późn. zm. ),
+    - **j)** ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe,
+    - **k)** ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2025 r. poz. 733),
+    - **l)** ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
+    - **m)** ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz.
+
+- **1580)** ,
+    - **n)** ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz.
+
+- **2063)** , poz. 1226),
+    - **o)** ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795),
+    - **p)** ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2024 r. poz. 220),
+    - **q)** ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448),
+    - **r)** ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. z 2024 r. poz. 746),
+    - **s)** ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2025 r. poz. 285 i 1173),
+    - **t)** ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2025 r.
+    - **u)** ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643),
+    - **v)** ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm. ),
+    - **w)** ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2024 r. poz. 1037),
+    - **x)** wiążących Rzeczpospolitą Polską umów międzynarodowych w zakresie przewozu drogowego,
+    - **y)** przepisów wydanych na podstawie art. 11b,
+    - **z)** ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym;
+
+- **23)** osoba niepełnosprawna i osoba o ograniczonej sprawności ruchowej – osobę niepełnosprawną i osobę o ograniczonej sprawności ruchowej w rozumieniu art. 3 lit. j rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym oraz zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 55 z 28.02.2011, str. 1);
+- **24)** pośrednictwo przy przewozie osób – działalność gospodarczą polegającą na przekazywaniu zleceń przewozu osób samochodem osobowym, pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą lub taksówką oraz:
+    - **a)** zawieraniu umowy przewozu w imieniu klienta lub przedsiębiorcy wykonującego przewóz osób lub
+    - **b)** pobieraniu opłaty za przewóz osób, lub
+    - **c)** umożliwianiu zawarcia umowy przewozu lub umożliwianiu uregulowania opłaty za przewóz osób – samochodem osobowym, pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą lub taksówką za pośrednictwem dostarczonych lub udostępnionych do tych celów środków komunikacji elektronicznej, domen internetowych, aplikacji mobilnych, programów komputerowych, systemów teleinformatycznych lub innych środków przekazu informacji;
+
+- **25)** pojazd najmowany – pojazd zarejestrowany lub dopuszczony do ruchu zgodnie z prawem innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, który za wynagrodzeniem i na czas określony jest przekazywany do dyspozycji przedsiębiorcy wykonującego krajowy transport drogowy rzeczy, międzynarodowy transport drogowy rzeczy, niezarobkowy krajowy przewóz drogowy rzeczy lub niezarobkowy międzynarodowy przewóz drogowy rzeczy, na podstawie umowy z przedsiębiorcą udostępniającym ten pojazd.
 
 #### Rozdział 2 Zasady podejmowania i wykonywania transportu drogowego
 
@@ -339,6 +433,14 @@ Art. 97–103. (pominięte)
 7. Wykonywanie transportu drogowego w przypadku, gdy przedsiębiorcy zawieszono zezwolenie na wykonywanie zawodu przewoźnika drogowego, jest równoznaczne z wykonywaniem przewozu bez zezwolenia.
 
 **Art. 7e.** Przez środki rehabilitacyjne, o których mowa w art. 6 ust. 3 rozporządzenia (WE) nr 1071/2009, należy rozumieć:
+
+- **1)** zatarcie skazania za przestępstwa określone w art. 5 ust. 2a;
+- **2)** zatarcie skazania za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. b rozporządzenia (WE) nr 1071/2009 popełnione w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym;
+- **3)** zatarcie skazania za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009 w zakresie spełniania wymogu dobrej reputacji popełnione poza terytorium Rzeczypospolitej Polskiej;
+- **4)** zatarcie skazania za wykroczenia stanowiące naruszenia określone w załączniku IV do rozporządzenia (WE) nr 1071/2009 lub załączniku I do rozporządzenia Komisji (UE) 2016/403;
+- **5)** upływ roku od dnia nałożenia grzywny w drodze mandatu karnego za wykroczenia stanowiące naruszenia określone w załączniku IV do rozporządzenia (WE) nr 1071/2009 lub załączniku I do rozporządzenia Komisji (UE) 2016/403;
+- **6)** sytuację, w której nałożone sankcje administracyjne za naruszenia określone w załączniku IV do rozporządzenia (WE) nr 1071/2009 lub załączniku I do rozporządzenia Komisji (UE) 2016/403 staną się niebyłe, zgodnie z art. 94b;
+- **7)** upływ roku od dnia orzeczenia lub nałożenia prawomocnie kary w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym za naruszenia określone w załączniku I do rozporządzenia Komisji (UE) 2016/403.
 
 **Art. 8.**
 
@@ -1204,6 +1306,11 @@ Art. 97–103. (pominięte)
 
 **Art. 29b.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
+- **1)** rodzaje zezwoleń, o których mowa w art. 28 ust. 1 i art. 29 ust. 1,
+- **2)** szczegółowe warunki wykorzystania zezwoleń, o których mowa w art. 28 ust. 1 i art. 29 ust. 1,
+- **3)** sposób wypełniania blankietów zezwoleń, o których mowa w art. 28 ust. 1 i art. 29 ust. 1,
+- **4)** wzory zezwoleń, o których mowa w art. 28 ust. 1 i art. 29 ust. 1 – uwzględniając warunki wykorzystania zezwoleń określone w dwustronnych umowach międzynarodowych o wykonywaniu przewozów drogowych oraz zakres niezbędnych danych umieszczonych w zezwoleniach.
+
 **Art. 29c.**
 
 1. Wysokość kontyngentu zezwoleń, o których mowa w art. 28 ust. 1 i art. 30 ust. 1, ustala, w drodze porozumienia z odpowiednimi władzami innych państw, minister właściwy do spraw transportu.
@@ -1985,6 +2092,11 @@ Art. 97–103. (pominięte)
 
 **Art. 40.** Przedsiębiorca podejmujący i wykonujący transport drogowy jest obowiązany do ponoszenia opłat za:
 
+- **1)** czynności administracyjne określone w ustawie;
+- **2)** przeprowadzenie egzaminu, o którym mowa w art. 37;
+- **3)** wydanie certyfikatu kompetencji zawodowych, o którym mowa w art. 38 ust. 3;
+- **4)** przeprowadzenie egzaminu, o którym mowa w art. 16b ust. 4a pkt 2.
+
 **Art. 41.**
 
 1. Opłaty za czynności administracyjne pobiera się z tytułu:
@@ -2189,6 +2301,37 @@ Art. 97–103. (pominięte)
 
 **Art. 50.** Do zadań Inspekcji należy:
 
+- **1)** kontrola: z 2014 r. poz. 409), zwana dalej „Umową AETR”, – – przewozy regularne, których trasa nie przekracza 50 km, lub publiczny transport zbiorowy w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, którego trasa nie przekracza 50 km, – osób niezatrudnionych przez przedsiębiorcę, lecz osobiście wykonujących na jego rzecz: – – przewozy drogowe, do których ma zastosowanie rozporządzenie (WE) nr 561/2006 albo Umowa AETR, – – przewozy regularne, których trasa nie przekracza 50 km, lub publiczny transport zbiorowy w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, którego trasa nie przekracza 50 km,
+    - **a)** przestrzegania obowiązków lub warunków przewozu drogowego, o których mowa w art. 4 pkt 22,
+    - **b)** (uchylona)
+    - **c)** przestrzegania przepisów ruchu drogowego w zakresie i na zasadach określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
+    - **d)** (uchylona)
+    - **e)** przestrzegania szczegółowych zasad i warunków transportu zwierząt,
+    - **f)** (uchylona)
+    - **g)** wprowadzonych do obrotu ciśnieniowych urządzeń transportowych pod względem zgodności z wymaganiami technicznymi, dokumentacją techniczną i prawidłowością ich oznakowania, w zakresie określonym w ustawie z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych,
+    - **h)** rodzaju używanego paliwa,
+    - **i)** dokumentów związanych z wykonywaniem publicznego transportu zbiorowego,
+    - **j)** prawidłowości uiszczenia opłaty elektronicznej, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, w tym w ramach kontroli związanej z transgraniczną wymianą informacji, o której mowa w art. 13mg tej ustawy,
+    - **k)** przestrzegania czasu pracy: – przedsiębiorców osobiście wykonujących: – – przewozy drogowe, do których ma zastosowanie rozporządzenie (WE) nr 561/2006 albo Umowa europejska dotycząca pracy załóg pojazdów wykonujących międzynarodowe przewozy drogowe (AETR), sporządzona w Genewie dnia 1 lipca 1970 r. (Dz. U.
+    - **l)** przestrzegania ustalonych przez radę gminy, a w przypadku miasta stołecznego Warszawy – Radę Warszawy, cen za przewozy taksówkami i stawek taryfowych obowiązujących przy przewozie osób i ładunków taksówkami, o których mowa w art. 11b,
+    - **m)** dokumentów potwierdzających uzyskanie kwalifikacji, o których mowa w art. 39a ust. 1 pkt 5 i art. 39b , oraz ukończenie szkolenia, o którym mowa w art. 39a ust. 1 pkt 6;
+
+- **2)** prowadzenie postępowania administracyjnego, w tym wydawanie decyzji administracyjnych na zasadach określonych w ustawie, a także podejmowanie innych czynności w niej przewidzianych, w sprawach:
+    - **a)** licencji wspólnotowej,
+    - **b)** zezwoleń w międzynarodowym transporcie drogowym i zezwoleń na przewóz kabotażowy,
+    - **c)** formularzy jazdy,
+    - **d)** zaświadczeń na międzynarodowy niezarobkowy przewóz drogowy,
+    - **e)** świadectw kierowcy,
+    - **f)** certyfikatów, o których mowa w art. 30 ust. 10,
+    - **g)** zezwoleń na wykonywanie zawodu przewoźnika drogowego w przypadkach, o których mowa w art. 7 ust. 2 pkt 2,
+    - **h)** dotyczących spełniania lub niespełniania wymogu dobrej reputacji, o których mowa w art. 7d ust. 1–6, w przypadkach, o których mowa w art. 7 ust. 2 pkt 2;
+
+- **3)** podejmowanie czynności dotyczących zezwoleń zagranicznych i zezwoleń ministra właściwego do spraw transportu;
+- **3a)** (uchylony) 3b) (uchylony) 3c) (uchylony)
+- **4)** wykonywanie zadań wynikających z ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi.
+- **5)** (uchylony)
+- **6)** wykonywanie zadań wynikających z ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym.
+
 **Art. 50a.** Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy tryb kontroli, o której mowa w art. 50 pkt 1 lit. h, uwzględniając sposób przeprowadzenia kontroli i badania rodzaju używanego paliwa.
 
 **Art. 50b.** Konserwacja, naprawa i bieżące utrzymanie urządzeń technicznych do ważenia pojazdów jest finansowane ze środków budżetu państwa ujmowanych w części, której dysponentem jest minister właściwy do spraw transportu.
@@ -2384,6 +2527,8 @@ Art. 97–103. (pominięte)
 **Art. 54f.** W przypadku otrzymania od innego państwa członkowskiego Unii Europejskiej albo państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym informacji o konieczności podjęcia działań zmierzających do przeprowadzenia badania technicznego pojazdu, o którym mowa w art. 54d ust. 1, zarejestrowanego na terytorium Rzeczypospolitej Polskiej Główny Inspektor Transportu Drogowego przekazuje tę informację staroście właściwemu ze względu na miejsce rejestracji tego pojazdu.
 
 **Art. 54g.** Wojewódzcy inspektorzy transportu drogowego wykonują zadania określone w ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz.
+
+- **731)** .
 
 **Art. 55.**
 
@@ -2664,6 +2809,12 @@ Art. 97–103. (pominięte)
 
 **Art. 72.** Kontrolowany jest obowiązany umożliwić inspektorowi dokonanie czynności kontrolnych, a w szczególności:
 
+- **1)** udzielić ustnych lub pisemnych wyjaśnień, okazać dokumenty lub inne nośniki informacji oraz udostępnić dane mające związek z przedmiotem kontroli;
+- **2)** udostępnić pojazd, a w uzasadnionych przypadkach wynikających z przeprowadzonej kontroli pojazdu na drodze, obiekt, siedzibę przedsiębiorcy oraz wszystkie pomieszczenia, w których przedsiębiorca prowadzi działalność gospodarczą bądź też przechowuje mienie przedsiębiorstwa;
+- **3)** umożliwić sporządzenie kopii dokumentów wskazanych przez kontrolującego;
+- **4)** umożliwić sporządzenie dokumentacji filmowej lub fotograficznej, jeżeli może ona stanowić dowód lub przyczynić się do utrwalenia dowodu w sprawie będącej przedmiotem kontroli;
+- **5)** umożliwić przekazanie, za potwierdzeniem odbioru, oryginału zapisu urządzenia samoczynnie rejestrującego prędkość jazdy, czas jazdy i postoju lub karty kierowcy, oraz gromadzonych przez kontrolowany podmiot wydruków z tachografu cyfrowego i karty kierowcy, których kontrola będzie dokonywana w siedzibie organu kontroli.
+
 **Art. 73.**
 
 1. W toku kontroli inspektor może:
@@ -2691,6 +2842,12 @@ Art. 97–103. (pominięte)
 4. Do protokołu kontroli kontrolowany może wnieść zastrzeżenia.
 
 **Art. 75.** Wyniki kontroli wykorzystywane są do formułowania wniosków o wszczęcie postępowania:
+
+- **1)** administracyjnego o cofnięcie uprawnień przewozowych przedsiębiorcy, określonych przepisami ustawy;
+- **2)** karnego lub karno-skarbowego;
+- **3)** w sprawach o wykroczenia;
+- **4)** przez organy Państwowej Inspekcji Pracy;
+- **5)** przewidzianego w umowach międzynarodowych w stosunku do przedsiębiorców zagranicznych.
 
 **Art. 76.**
 
@@ -2855,6 +3012,9 @@ Art. 97–103. (pominięte)
 
 **Art. 81.** Dane i informacje przekazują do ewidencji:
 
+- **1)** wojewódzki inspektor;
+- **2)** Komendant Główny Straży Granicznej, Szef Krajowej Administracji Skarbowej, Główny Inspektor Pracy, właściwy miejscowo komendant wojewódzki Policji, zarządcy dróg.
+
 **Art. 82.** (uchylony)
 
 #### Rozdział 9a Ochrona praw pasażerów
@@ -2898,6 +3058,9 @@ Art. 97–103. (pominięte)
 2. W przypadku gdy skarga jest składana w postaci elektronicznej, załączniki, o których mowa w art. 82b ust. 4 i art. 82c ust. 4, składa się również w postaci elektronicznej.
 
 **Art. 82e.** W przypadku wniesienia skargi na przewoźnika drogowego albo podmiot zarządzający dworcem, o którym mowa w art. 3 lit. o rozporządzenia nr 181/2011, organ właściwy do jej rozpatrzenia, określony odpowiednio w art. 82b ust. 2 i 3 oraz art. 82c ust. 3, w drodze decyzji administracyjnej, stwierdza:
+
+- **1)** brak naruszenia przepisów rozporządzenia nr 181/2011 albo
+- **2)** naruszenie przepisów rozporządzenia nr 181/2011, określając jego zakres.
 
 **Art. 82f.**
 
@@ -3283,6 +3446,11 @@ Art. 97–103. (pominięte)
 **Art. 89d.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na przebieg kontroli prowadzonych na podstawie przepisów niniejszego rozdziału ani na uprawnienie właściwego organu do nałożenia kary.
 
 **Art. 90.** W wyniku kontroli przeprowadzonej przez organ udzielający zezwolenia na wykonywanie zawodu przewoźnika drogowego, licencji lub zezwolenia, stwierdzającej niespełnienie przez przedsiębiorcę wymogów będących podstawą do wydania tych dokumentów, organ ten:
+
+- **1)** wzywa przedsiębiorcę do spełnienia tych wymogów w wyznaczonym terminie;
+- **2)** zawiesza lub cofa zezwolenie na wykonywanie zawodu przewoźnika drogowego, z zachowaniem warunków, o których mowa w art. 13 rozporządzenia (WE) nr 1071/2009;
+- **3)** cofa licencję wspólnotową, z zachowaniem warunków, o których mowa w art. 7 rozporządzenia (WE) nr 1072/2009 lub art. 21 rozporządzenia (WE) nr 1073/2009;
+- **4)** cofa licencję, o której mowa w art. 5b ust. 1 i 2, lub zezwolenie, z zachowaniem warunków, o których mowa w art. 15 i art. 24 ust. 4–6.
 
 **Art. 90a.**
 

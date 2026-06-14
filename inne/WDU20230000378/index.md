@@ -8,10 +8,10 @@ pos: 378
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 lutego 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 378 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 lutego 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000378) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/378/text.pdf) |
 
-Poz. 378 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 lutego 2023 r.
-w sprawie przechowywania w Centralnym Repozytorium Elektronicznych Wypisów Aktów Notarialnych aktów notarialnych, zarejestrowanych aktów poświadczenia dziedziczenia i zarejestrowanych europejskich poświadczeń spadkowych Na podstawie art. 84a § 6 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180 i 326) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie przechowywania w Centralnym Repozytorium Elektronicznych Wypisów Aktów Notarialnych aktów notarialnych, zarejestrowanych aktów poświadczenia dziedziczenia i zarejestrowanych europejskich poświadczeń spadkowych Na podstawie art. 84a § 6 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180 i 326) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) okres przechowywania w Centralnym Repozytorium Elektronicznych Wypisów Aktów Notarialnych, zwanym dalej „Repozytorium”, aktów notarialnych, o których mowa w art. 84a § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, zwanych dalej „aktami notarialnymi”, zarejestrowanych aktów poświadczenia dziedziczenia i zarejestrowanych europejskich poświadczeń spadkowych;
 2) sposób uiszczania i wysokość opłaty za umieszczenie elektronicznego wypisu aktu notarialnego w Repozytorium.
 § 2. Okres przechowywania w Repozytorium aktów notarialnych, zarejestrowanych aktów poświadczenia dziedziczenia i zarejestrowanych europejskich poświadczeń spadkowych wynosi 5 lat od końca roku kalendarzowego, w którym zostały one umieszczone w Repozytorium.

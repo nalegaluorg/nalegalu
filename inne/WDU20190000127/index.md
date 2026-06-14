@@ -8,10 +8,10 @@ pos: 127
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 stycznia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 127 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 17 stycznia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000127) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/127/text.pdf) |
 
-Poz. 127 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 17 stycznia 2019 r.
-w sprawie nagród za niesienie pomocy obywatelom polskim lub Polakom o innej przynależności państwowej będących ofiarami totalitaryzmów lub pielęgnowanie pamięci o nich Na podstawie art. 14 ust. 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego (Dz. U. poz. 2303 oraz z 2018 r. poz. 650 i 1567) zarządza się, co następuje: § 1. Rozporządzenie określa rodzaje oraz szczegółowe warunki i tryb przyznawania nagród dla osób, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego, zwanych dalej „nagrodami”.
+w sprawie nagród za niesienie pomocy obywatelom polskim lub Polakom o innej przynależności państwowej będących ofiarami totalitaryzmów lub pielęgnowanie pamięci o nich Na podstawie art. 14 ust. 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego (Dz. U. poz. 2303 oraz z 2018 r. poz. 650 i 1567) zarządza się, co następuje:
+§ 1. Rozporządzenie określa rodzaje oraz szczegółowe warunki i tryb przyznawania nagród dla osób, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego, zwanych dalej „nagrodami”.
 § 2. 1. Nagrodami są:
 1) nagrody finansowe przyznawane jako nagrody wypłacane jednorazowo lub w częściach przez okres nie dłuższy niż 5 lat od przyznania nagrody;
 2) nagrody rzeczowe, które mają charakter honorowy i są przyznawane w formie dyplomu, statuetki lub medalu.
@@ -43,7 +43,6 @@ b) numer telefonu lub adres poczty elektronicznej, jeżeli wnioskodawca je posia
 2) dane dotyczące kandydata do nagrody:
 a) imię, nazwisko oraz miejsce zamieszkania,
 b) numer telefonu lub adres poczty elektronicznej, jeżeli kandydat je posiada;
-Dziennik Ustaw – 2 – Poz. 127
 3) rodzaj nagrody;
 4) uzasadnienie przyznania nagrody.
 2. W przypadku gdy kandydat do nagrody nie żyje, wnioskodawca wskazuje we wniosku imię i nazwisko oraz adres do korespondencji, w tym adres poczty elektronicznej członka rodziny, który wyraził zgodę na odebranie nagrody rzeczowej.

@@ -8,10 +8,10 @@ pos: 2473
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2473 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 21 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002473) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2473/text.pdf) |
 
-Poz. 2473 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 21 grudnia 2018 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze” Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2017 r. poz. 1267) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1.
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze” Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2017 r. poz. 1267) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1.
 Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1493) wprowadza się następujące zmiany:
 1) w § 20:
 a) ust. 1 otrzymuje brzmienie: „1. Armatorzy statków rybackich, których połowy uległy uszkodzeniu przez ssaki morskie lub ptaki chronione, zgłaszają szkodę w formie pisemnej, w postaci papierowej, w Głównym Inspektoracie Rybołówstwa Morskiego lub w ośrodku zamiejscowym Głównego Inspektora Rybołówstwa Morskiego, jeżeli został utworzony, w terminie 7 dni od dnia jej stwierdzenia.”,

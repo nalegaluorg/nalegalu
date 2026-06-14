@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 6 sierpnia 2010 r. o dowodach osobistych*
 
 Łącznie: **19** orzeczeń
-(pominięto 23 orzeczeń sądów rejonowych)
+(pominięto 24 orzeczeń sądów rejonowych)
 
 ## art. 7 (1)
 

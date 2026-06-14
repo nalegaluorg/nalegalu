@@ -8,10 +8,10 @@ pos: 1423
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 lipca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11442233 Załącznik nr 1 WZÓR ……………………….
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1423/text.pdf) |
 
-……………………….
 ……………………….
 SKIEROWANIE do ……………...………………………………………………………………………………………….
 w celu: …………………………………………………………………………………………………… ……………………………………………………………………………………………………………
@@ -43,7 +42,7 @@ w celu: ………………………………………………………………
 10. Uwagi: ..…...……………………………………………………………………………………….....
 ………………………………………………………………………………………………………...
 …………………………………………………….
-(imienna pieczątka i podpis podmiotu kierującego) Treść Procent uszczerbku na zdrowiu USZKODZENIA GŁOWY 1 Uszkodzenie skóry, powłok czaszki (bez uszkodzeń kostnych)
+(imienna pieczątka i podpis podmiotu kierującego) Załącznik nr 2 WYKAZ NORM OCENY USZCZERBKU NA ZDROWIU Poz. Treść Procent uszczerbku na zdrowiu USZKODZENIA GŁOWY 1 Uszkodzenie skóry, powłok czaszki (bez uszkodzeń kostnych)
 1) blizny rozległe (powyżej 5 cm długości lub 2,5 cm²), szpecące, 1–10 ściągające w zależności od rozmiaru, widoczności, tkliwości
 2) utrata skóry owłosionej
 a) oskalpowanie poniżej 25% powierzchni skóry owłosionej 1–10
@@ -54,10 +53,10 @@ c) oskalpowanie powyżej 75% powierzchni skóry owłosionej 21–30 Uwaga W przy
 2) od 10 do 50 cm² 11–15
 3) powyżej 50 cm² 16–25 Uwaga Jeżeli powstały ubytek kości został uzupełniony operacją plastyczną z dobrym efektem, stopień uszczerbku na zdrowiu, oceniony według powyższej zasady, zmniejsza się o połowę.
 Jeżeli przy uszkodzeniach i ubytkach kości czaszki (poz. 2 i 3) występują jednocześnie uszkodzenia powłok czaszki (poz. 1), osobno ocenia się stopień uszczerbku za uszkodzenia lub ubytki kości według poz. 2 lub 3 i osobno za uszkodzenia powłok czaszki według poz. 1.
-4 Nawracający płynotok uszny lub nosowy, przewlekłe 1–15 zapalenie kości, ropowica podczepcowa leczona operacyjnie uznane jako utrwalone, utrzymujące się mimo prawidłowego leczenia, powikłania towarzyszące uszkodzeniom wymienionym w poz. 1, 2, 3 ocenia się dodatkowo w zależności od rodzaju i stopnia powikłań 5 Porażenia i niedowłady pochodzenia mózgowego lub rdzeniowego (uwzględniając skalę Lovetta lub skalę Ashwortha)
+4 Nawracający płynotok uszny lub nosowy, przewlekłe 1–15 zapalenie kości, ropowica podczepcowa leczona operacyjnie – uznane jako utrwalone, utrzymujące się mimo prawidłowego leczenia, powikłania towarzyszące uszkodzeniom wymienionym w poz. 1, 2, 3 – ocenia się dodatkowo w zależności od rodzaju i stopnia powikłań 5 Porażenia i niedowłady pochodzenia mózgowego lub rdzeniowego (uwzględniając skalę Lovetta lub skalę Ashwortha)
 1) porażenie połowicze, porażenie kończyn dolnych uniemożliwiające 100 samodzielne stanie i chodzenie (0–1° według skali Lovetta lub 4° według skali Ashwortha)
 2) głęboki niedowład połowiczy lub obu kończyn dolnych 60–80 znacznie utrudniający sprawność kończyn (2–3° według skali Lovetta lub 3° według skali Ashwortha)
-3) średniego stopnia niedowład połowiczy lub niedowład obu kończyn dolnych (3–4 40–60 według skali Lovetta lub 3–2° według skali Ashwortha)
+3) średniego stopnia niedowład połowiczy lub niedowład obu 40–60 kończyn dolnych (3–4 według skali Lovetta lub 3–2° według skali Ashwortha)
 4) nieznacznego stopnia (niewielki, dyskretny) niedowład połowiczy 5–35 lub obu kończyn dolnych (4–5° według skali Lovetta lub 1° według skali Ashwortha), dyskretny deficyt siły przy obecności zaburzeń napięcia mięśniowego, niedostatecznej precyzji ruchów
 5) porażenie kończyny górnej (0–1° według skali Lovetta lub 4° według skali Ashwortha) z niedowładem kończyny dolnej (3–4° według skali Lovetta lub 3° według skali Ashwortha)
 a) dominującej 70–90
@@ -79,18 +78,18 @@ b) niedominującej 5–20
 12) monoparezy pochodzenia ośrodkowego dotyczące kończyny 15–25 dolnej (3–4° według skali Lovetta lub 3–2° według skali Ashwortha)
 13) monoparezy pochodzenia ośrodkowego dotyczące kończyny 5–15 dolnej (4–5° według skali Lovetta lub 1+–1° według skali Ashwortha) Uwaga W przypadku współistnienia zaburzeń mowy pochodzenia ośrodkowego ocenia się dodatkowo według poz. 11, uwzględniając, że całkowity uszczerbek na zdrowiu z tytułu uszkodzenia mózgu nie może przekroczyć 100%.
 W przypadku różnicy w nasileniu niedowładu między kończynami dolnymi ocenia się według poz. 5 pkt 10–13 oddzielnie dla każdej kończyny.
-SKALA LOVETTA 0º brak czynnego skurczu mięśnia brak siły mięśniowej.
-1º ślad czynnego skurczu mięśnia 5% prawidłowej siły mięśniowej.
-2º wyraźny skurcz mięśnia i zdolność wykonania ruchu przy pomocy i odciążeniu odcinka ruchomego 20% prawidłowej siły mięśniowej.
-3º zdolność do wykonywania ruchu czynnego samodzielnego z pokonaniem ciężkości danego odcinka 50% prawidłowej siły mięśniowej.
-4º zdolność do wykonania czynnego ruchu z pewnym oporem 80% prawidłowej siły mięśniowej.
-5º prawidłowa siła, tj. zdolność wykonywania czynnego ruchu z pełnym oporem 100% prawidłowej siły mięśniowej.
-SKALA ASHWORTHA jest skalą oceniającą spastyczność według stopni 0–4, natomiast w skali rozszerzonej wprowadzono stopień 1+ 0º brak wzmożonego napięcia mięśniowego.
-1º nieznaczny/minimalny wzrost napięcia mięśniowego występujący w trakcie zgięcia lub prostowania kończyny w końcowym zakresie ruchu.
-1+º nieznaczne zwiększenie napięcia mięśniowego wyczuwalne jako opór i zwolnienie w końcowej fazie ruchu (opór o typie scyzorykowym).
-2º bardziej zaznaczony wzrost napięcia mięśniowego podczas całego ruchu, ale nieutrudniający ruchu; dotknięta część łatwo poddaje się zginaniu.
-3º wyraźny wzrost napięcia mięśniowego, ruch bierny trudny do wykonania.
-4º kończyna usztywniona w zgięciu lub w wyproście, sztywność badanego odcinka podczas zgięcia i prostowania.
+SKALA LOVETTA 0º – brak czynnego skurczu mięśnia – brak siły mięśniowej.
+1º – ślad czynnego skurczu mięśnia – 5% prawidłowej siły mięśniowej.
+2º – wyraźny skurcz mięśnia i zdolność wykonania ruchu przy pomocy i odciążeniu odcinka ruchomego – 20% prawidłowej siły mięśniowej.
+3º – zdolność do wykonywania ruchu czynnego samodzielnego z pokonaniem ciężkości danego odcinka – 50% prawidłowej siły mięśniowej.
+4º – zdolność do wykonania czynnego ruchu z pewnym oporem – 80% prawidłowej siły mięśniowej.
+5º – prawidłowa siła, tj. zdolność wykonywania czynnego ruchu z pełnym oporem – 100% prawidłowej siły mięśniowej.
+SKALA ASHWORTHA jest skalą oceniającą spastyczność według stopni 0–4, natomiast w skali rozszerzonej wprowadzono stopień 1+ 0º – brak wzmożonego napięcia mięśniowego.
+1º – nieznaczny/minimalny wzrost napięcia mięśniowego występujący w trakcie zgięcia lub prostowania kończyny w końcowym zakresie ruchu.
+1+º – nieznaczne zwiększenie napięcia mięśniowego wyczuwalne jako opór i zwolnienie w końcowej fazie ruchu (opór o typie scyzorykowym).
+2º – bardziej zaznaczony wzrost napięcia mięśniowego podczas całego ruchu, ale nieutrudniający ruchu; dotknięta część łatwo poddaje się zginaniu.
+3º – wyraźny wzrost napięcia mięśniowego, ruch bierny trudny do wykonania.
+4º – kończyna usztywniona w zgięciu lub w wyproście, sztywność badanego odcinka podczas zgięcia i prostowania.
 6 Zespoły pozapiramidowe
 1) utrwalony zespół pozapiramidowy znacznie utrudniający 100 sprawność ustroju i wymagający opieki drugiej osoby
 2) znacznego stopnia zespół pozapiramidowy utrudniający 41–80 sprawność ustroju i samoobsługę, niewymagający opieki drugiej osoby
@@ -101,15 +100,15 @@ SKALA ASHWORTHA jest skalą oceniającą spastyczność według stopni 0–4, na
 2) utrudniające w dużym stopniu chodzenie i sprawność ruchową 41–80
 3) utrudniające w miernym stopniu chodzenie i sprawność 11–40 ruchową
 4) utrudniające w niewielkim stopniu chodzenie i sprawność 1–10 ruchową, dyskretne upośledzenie zborności i precyzji ruchów 8 Padaczka jako izolowane następstwo uszkodzenia mózgu
-1) padaczka z bardzo częstymi napadami (z utratą świadomości) 31–40 3 napady w tygodniu i więcej
-2) padaczka z napadami powyżej 2 na miesiąc 21–30
-3) padaczka z napadami 2 i mniej na miesiąc 11–20
-4) padaczka z napadami o różnej morfologii bez utrat 5–15 przytomności Uwaga Podstawą rozpoznania padaczki są: powtarzające się napady padaczkowe, typowe zmiany EEG, dokumentacja ambulatoryjna względnie szpitalna potwierdzające rozpoznanie, ustalone rozpoznanie przez lekarza leczącego (podejrzenie padaczki jest niewystarczające do uznania uszczerbku z tego tytułu). Ocena częstości napadów po leczeniu. W przypadku współistnienia padaczki z innymi objawami organicznego uszkodzenia mózgu ocenia się według poz. 9.
+1) padaczka z bardzo częstymi napadami (z utratą świadomości) – 31–40 3 napady w tygodniu i więcej
+2) padaczka z napadami – powyżej 2 na miesiąc 21–30
+3) padaczka z napadami – 2 i mniej na miesiąc 11–20
+4) padaczka z napadami o różnej morfologii – bez utrat 5–15 przytomności Uwaga Podstawą rozpoznania padaczki są: powtarzające się napady padaczkowe, typowe zmiany EEG, dokumentacja ambulatoryjna względnie szpitalna potwierdzające rozpoznanie, ustalone rozpoznanie przez lekarza leczącego (podejrzenie padaczki jest niewystarczające do uznania uszczerbku z tego tytułu). Ocena częstości napadów po leczeniu. W przypadku współistnienia padaczki z innymi objawami organicznego uszkodzenia mózgu ocenia się według poz. 9.
 9 Zaburzenia neurologiczne i psychiczne spowodowane organicznym uszkodzeniem mózgu (encefalopatie) w zależności od stopnia zaburzeń neurologicznych i psychicznych
 1) ciężkie zaburzenia psychiczne i neurologiczne utrudniające 80–100 znacznie lub uniemożliwiające samodzielną egzystencję
-2) encefalopatia ze znacznymi zmianami charakterologicznymi lub dużym deficytem neurologicznym 50–80
-3) encefalopatia ze zmianami charakterologicznymi lub deficytem neurologicznym o średnim nasileniu 25–50
-4) encefalopatia z niewielkimi zmianami charakterologicznymi lub niewielkim deficytem neurologicznym 10–25 Uwaga Rozpoznanie encefalopatii potwierdza się występowaniem trwałego deficytu w stanie neurologicznym i psychicznym, udokumentowanym badaniem neurologicznym, psychiatrycznym, psychologicznym, testami psychologicznymi, np. tzw. triady psychoorganicznej i innych, oraz zmianami w obrazie EEG, TK(CT) lub RM(NMR).
+2) encefalopatia ze znacznymi zmianami charakterologicznymi 50–80 lub dużym deficytem neurologicznym
+3) encefalopatia ze zmianami charakterologicznymi lub 25–50 deficytem neurologicznym o średnim nasileniu
+4) encefalopatia z niewielkimi zmianami charakterologicznymi 10–25 lub niewielkim deficytem neurologicznym Uwaga Rozpoznanie encefalopatii potwierdza się występowaniem trwałego deficytu w stanie neurologicznym i psychicznym, udokumentowanym badaniem neurologicznym, psychiatrycznym, psychologicznym, testami psychologicznymi, np. tzw. triady psychoorganicznej i innych, oraz zmianami w obrazie EEG, TK(CT) lub RM(NMR).
 10 Zaburzenia adaptacyjne, nerwice, tzw. zespoły cerebrasteniczne i inne utrwalone skargi subiektywne powstałe w następstwie urazów czaszkowo-mózgowych
 1) utrwalone skargi subiektywne związane z urazem głowy 1–5 w zależności od stopnia zaburzeń (bóle głowy, zawroty głowy, zaburzenia pamięci i koncentracji, zaburzenia snu, drażliwość, nadpobudliwość) utrzymujące się powyżej 6 miesięcy od urazu mimo leczenia
 2) utrwalone nerwice związane z urazem czaszkowo-mózgowym 6–30 lub ciężkim uszkodzeniem ciała w zależności od stopnia zaburzeń, wymagające stałego leczenia psychiatrycznego 11 Zaburzenia mowy
@@ -160,12 +159,12 @@ W przypadku złamania żuchwy z innymi kośćmi twarzoczaszki następstwa uszkod
 23 Utrata szczęki lub żuchwy łącznie z oszpeceniem i utratą zębów w zależności od wielkości ubytków, oszpecenia i powikłań
 1) częściowa 10–35
 2) całkowita 40–50 24 Złamania żuchwy wygojone z przemieszczeniem odłamów
-1) bez zaburzeń czynności stawu żuchwowo-skroniowego w zależności od stopnia zniekształcenia i rozwarcia szczęk 1–5
+1) bez zaburzeń czynności stawu żuchwowo-skroniowego 1–5 w zależności od stopnia zniekształcenia i rozwarcia szczęk
 2) z zaburzeniami czynności stawu żuchwowo-skroniowego 6–15 w zależności od stopnia zaburzeń żucia i rozwarcia szczęk 25 Ubytek podniebienia
 1) z zaburzeniami mowy i połykania w zależności od stopnia 10–25 zaburzeń
 2) z dużymi zaburzeniami mowy i połykania w zależności od 26–40 stopnia zaburzeń 26 Ubytki i urazy języka w zależności od wielkości ubytków, zniekształceń, zaburzeń mowy, trudności w połykaniu
 1) ubytki języka, w zależności od wielkości uszkodzeń − ubytki 1–3 niewielkiego stopnia bez istotnych zaburzeń mowy
-2) ubytki języka ubytki i zniekształcenia średniego stopnia 4–15 upośledzające odżywianie i mowę w stopniu nieznacznie utrudniającym porozumiewanie się, w zależności od stopnia
+2) ubytki języka – ubytki i zniekształcenia średniego stopnia 4–15 upośledzające odżywianie i mowę w stopniu nieznacznie utrudniającym porozumiewanie się, w zależności od stopnia
 3) duże ubytki języka i znaczne zniekształcenia, upośledzające 16–40 odżywianie i mowę w stopniu umiarkowanie i znacznie utrudniającym porozumiewanie się, w zależności od stopnia
 4) całkowita utrata języka 50 USZKODZENIA NARZĄDU WZROKU 27 Obniżenie ostrości wzroku bądź utrata jednego oka lub obojga oczu
 1) przy obniżeniu ostrości wzroku lub utracie wzroku jednego oka lub obojga oczu uszczerbek ocenia się według poniższej tabeli Tabela 27 pkt 1
@@ -179,7 +178,7 @@ W przypadku złamania żuchwy z innymi kośćmi twarzoczaszki następstwa uszkod
 1) z zaburzeniami ostrości wzroku ocenia się według poz. 27 pkt 1
 2) bez zaburzeń ostrości wzroku, z widocznym defektem 1–5 kosmetycznym lub deformacją w obrębie gałki ocznej, w zależności od stopnia 31 Uszkodzenie gałki ocznej wskutek urazów chemicznych, termicznych, spowodowanych promieniowaniem elektromagnetycznym oraz energią elektryczną
 1) z zaburzeniami ostrości wzroku ocenia się według poz. 27 pkt 1
-2) bez zaburzeń ostrości wzroku, z widocznym defektem 1–5 kosmetycznym lub deformacją w obrębie gałki ocznej, w zależności od stopnia 32 Koncentryczne zwężenie pola widzenia ocenia się według poniższej tabeli Tabela 32 pkt 1 Zwężenie do Przy nienaruszonym W obojgu oczach drugim oku Przy ślepocie drugiego oka Procent uszczerbku na zdrowiu 60º 0 0 20–35% 50º 1–5% 10–15% 35–45% 40º 5–10% 15–25% 45–55% 30º 10–15% 25–50% 55–70% 20º 15–20% 50–80% 70–85% 10º 20–25% 80–90% 85–95% poniżej 10 25–35% 90–95% 95–100% 33 Połowicze i inne niedowidzenia
+2) bez zaburzeń ostrości wzroku, z widocznym defektem 1–5 kosmetycznym lub deformacją w obrębie gałki ocznej, w zależności od stopnia 32 Koncentryczne zwężenie pola widzenia ocenia się według poniższej tabeli Tabela 32 pkt 1 Przy nienaruszonym W obojgu oczach Przy ślepocie Zwężenie do drugim oku drugiego oka Procent uszczerbku na zdrowiu 60º 0 0 20–35% 50º 1–5% 10–15% 35–45% 40º 5–10% 15–25% 45–55% 30º 10–15% 25–50% 55–70% 20º 15–20% 50–80% 70–85% 10º 20–25% 80–90% 85–95% poniżej 10 25–35% 90–95% 95–100% 33 Połowicze i inne niedowidzenia
 1) dwuskroniowe 50
 2) dwunosowe 25
 3) jednoimienne 25
@@ -190,9 +189,9 @@ W przypadku złamania żuchwy z innymi kośćmi twarzoczaszki następstwa uszkod
 1) w jednym oku ocenia się według poz. 27 pkt 1 w granicach 5–10%
 2) w obojgu oczach ocenia się według poz. 27 pkt 1 w granicach 10–15% 36 Zaburzenia w drożności przewodów łzowych (łzawienie), po korekcji operacyjnej w zależności od stopnia i natężenia objawów
 1) w jednym oku 5–10
-2) w obojgu oczach 10–15 37 Odwarstwienie siatkówki jednego oka − pourazowe ocenia się według tabeli z poz. 27 pkt 1 i poz. 32 lub poz. 33 pkt 4, nie mniej niż 3% Uwaga Odwarstwienie siatkówki jednego oka, tylko jeśli występuje po urazie oka lub głowy, ocenia się, odejmując uszczerbek istniejący przed urazem.
+2) w obojgu oczach 10–15 37 Odwarstwienie siatkówki jednego oka −− pourazowe ocenia się według tabeli z poz. 27 pkt 1 i poz. 32 lub poz. 33 pkt 4, nie mniej niż 3% Uwaga Odwarstwienie siatkówki jednego oka, tylko jeśli występuje po urazie oka lub głowy, ocenia się, odejmując uszczerbek istniejący przed urazem.
 Odwarstwienia siatkówki bez potwierdzonego urazu oka lub głowy, czyli po wysiłku, dźwignięciu, pochyleniu, skoku itp., nie uznaje się za pourazowe.
-38 Jaskra wtórna pourazowa, po potwierdzonym urazie oka ocenia się według lub głowy tabeli ostrości wzroku z poz. 27 pkt 1 oraz tabeli koncentrycznego zwężenia pola widzenia z poz. 32, z zastrzeżeniem że ogólny procent uszczerbku na zdrowiu nie może wynosić więcej niż 35% za jedno oko i 100% za oboje oczu, nie mniej niż 3% 39 Wytrzeszcz tętniący w zależności od stopnia 35–100 40 Zaćma pourazowa ocenia się według tabeli ostrości wzroku z poz. 27 pkt 1 Uwaga Oceny dokonuje się po zakończeniu leczenia i optymalnej korekcji.
+38 Jaskra – wtórna pourazowa, po potwierdzonym urazie oka ocenia się według lub głowy tabeli ostrości wzroku z poz. 27 pkt 1 oraz tabeli koncentrycznego zwężenia pola widzenia z poz. 32, z zastrzeżeniem że ogólny procent uszczerbku na zdrowiu nie może wynosić więcej niż 35% za jedno oko i 100% za oboje oczu, nie mniej niż 3% 39 Wytrzeszcz tętniący w zależności od stopnia 35–100 40 Zaćma pourazowa ocenia się według tabeli ostrości wzroku z poz. 27 pkt 1 Uwaga Oceny dokonuje się po zakończeniu leczenia i optymalnej korekcji.
 41 Przewlekłe zapalenie spojówek w związku z urazem oka
 1) niewielkie zmiany 1–5
 2) duże zmiany, blizny rogówki i spojówki, zrosty powiek 6–10 Uwaga Suma procentu uszczerbku na zdrowiu z tytułu uszkodzeń poszczególnych struktur oka nie może przekroczyć procentu uszczerbku przewidzianego za całkowitą utratę wzroku w jednym oku (35%) lub w obojgu oczach (100%).
@@ -200,7 +199,7 @@ Jeżeli uraz powiek lub tkanek oczodołu wchodzi w skład uszkodzeń innych czę
 USZKODZENIA NARZĄDU SŁUCHU 42 Upośledzenie ostrości słuchu
 1) przy upośledzeniu ostrości słuchu uszczerbek ocenia się według poniższej tabeli Tabela 42 pkt 1 Obliczanie procentowego uszczerbku na zdrowiu z tytułu utraty słuchu według Rosera (w modyfikacji) Ucho 0–25 dB 26–40 dB 41–70 dB powyżej 70 dB prawe Ucho lewe Procent uszczerbku na zdrowiu 0–25 dB 0 5% 10% 20% 26–40 dB 5% 15% 20% 30% 41–70 dB 10% 20% 30% 40% powyżej 70 dB 20% 30% 40% 50% Uwaga Oblicza się oddzielnie średnią dla ucha prawego i lewego, biorąc pod uwagę częstotliwości dla 500 Hz, 1000 Hz i 2000 Hz. Jeżeli różnica między wartościami dla 500 Hz i 2000 Hz jest większa niż 40 dB, ubytek słuchu wylicza się jako średnią z czterech progów: 500 Hz, 1000 Hz, 2000 Hz i 4000 Hz.
 Jeżeli różnica między wartościami dla 500 Hz i 2000 Hz jest większa niż 40 dB, ale próg słyszalności dla 4000 Hz jest lepszy niż dla 2000 Hz, ubytek słuchu wylicza się jako średnią z trzech progów: 500 Hz, 1000 Hz, 4000 Hz.
-2) pourazowe, utrwalone szumy uszne w zależności od stopnia 1–5 nasilenia Uwaga Jeżeli szum uszny towarzyszy deficytowi słuchu − ocenia się wyłącznie według tabeli z poz. 42 pkt 1, jeżeli zaburzeniom równowagi według poz. 48.
+2) pourazowe, utrwalone szumy uszne w zależności od stopnia 1–5 nasilenia Uwaga Jeżeli szum uszny towarzyszy deficytowi słuchu − ocenia się wyłącznie według tabeli z poz. 42 pkt 1, jeżeli zaburzeniom równowagi – według poz. 48.
 43 Urazy małżowiny usznej
 1) zniekształcenie małżowiny (blizny, oparzenia i odmrożenia) 1–10 lub utrata części małżowiny w zależności od stopnia uszkodzeń
 2) całkowita utrata jednej małżowiny 15
@@ -234,8 +233,8 @@ Jeżeli różnica między wartościami dla 500 Hz i 2000 Hz jest większa niż 4
 Uszkodzenie tkanek miękkich z jednoczesnym uszkodzeniem kręgosłupa szyjnego ocenia się według poz. 89.
 USZKODZENIA KLATKI PIERSIOWEJ I ICH NASTĘPSTWA 56 Urazy części miękkich klatki piersiowej, grzbietu w zależności od stopnia zniekształcenia, rozległości blizn, ubytków mięśni i stopnia upośledzenia oddychania
 1) widoczne zniekształcenia, ubytki i blizny skórne, rozległe 1–5 (powyżej 5 cm długości), widoczne, szpecące, nieograniczające ruchomości klatki piersiowej
-2) mierne ograniczenie ruchomości klatki piersiowej blizny, 6–10 ubytki mięśniowe bez lub z niewielkim zmniejszeniem wydolności oddechowej
-3) średniego stopnia ograniczenie ruchomości klatki piersiowej 11–25 blizny, ubytki mięśniowe ze średnim zmniejszeniem wydolności oddechowej
+2) mierne ograniczenie ruchomości klatki piersiowej – blizny, 6–10 ubytki mięśniowe bez lub z niewielkim zmniejszeniem wydolności oddechowej
+3) średniego stopnia ograniczenie ruchomości klatki piersiowej – 11–25 blizny, ubytki mięśniowe ze średnim zmniejszeniem wydolności oddechowej
 4) znacznego stopnia ograniczenie ruchomości klatki piersiowej, 26–40 rozległe ściągające blizny, duże ubytki mięśniowe ze znacznym zmniejszeniem wydolności oddechowej
 5) blizny po oparzeniach powyżej stopnia IIA za każde 3% TBSA 1 (całkowitej powierzchni ciała) Uwaga Stopnie upośledzenia wydolności oddechowej są zawarte w uwadze w poz. 62.
 57 Uszkodzenie lub utrata sutka u kobiet
@@ -259,20 +258,20 @@ USZKODZENIA KLATKI PIERSIOWEJ I ICH NASTĘPSTWA 56 Urazy części miękkich klat
 2) z objawami niewydolności oddechowej niewielkiego stopnia 6–10
 3) z objawami niewydolności oddechowej średniego stopnia 11–25
 4) z niewydolnością oddechową znacznego stopnia 26–40 62 Uszkodzenie tkanki płucnej powikłane przetokami oskrzelowymi, ocenia się według ropniem płuc poz. 61, zwiększając stopień uszczerbku w zależności od stopnia powikłań o 10–20% Uwaga Przy ocenie według poz. 56, 58, 60–62 poza badaniem rentgenowskim uszkodzenia tkanki płucnej stopnie niewydolności oddechowej potwierdza się badaniem spirometrycznym lub badaniem gazometrycznym . W przypadku gdy następstwa obrażeń klatki piersiowej są oceniane z kilku pozycji tabeli, a niewydolność oddechowa towarzyszy tym następstwom, uszczerbek na zdrowiu wynikający ze stopnia niewydolności oddechowej ustala się wyłącznie w oparciu o jedną z tych pozycji (oprócz poz. 60 i 62).
-STOPNIE UPOŚLEDZENIA WYDOLNOŚCI ODDECHOWEJ: − niewielkiego stopnia zmniejszenie wydolności oddechowej VC 70–80%, FEV1 70–80%, FEV 1% VC 70–80% w odniesieniu do wartości należnych, − średniego stopnia zmniejszenie wydolności oddechowej VC 50–70%, FEV1 50–70%, FEV 1% VC 50–70% w odniesieniu do wartości należnych, − znaczne zmniejszenie wydolności oddechowej VC poniżej 50%, FEV1 poniżej 50%, FEV 1% VC poniżej 50% w odniesieniu do wartości należnych.
+STOPNIE UPOŚLEDZENIA WYDOLNOŚCI ODDECHOWEJ: − niewielkiego stopnia zmniejszenie wydolności oddechowej – VC 70–80%, FEV1 70–80%, FEV 1% VC 70–80% – w odniesieniu do wartości należnych, − średniego stopnia zmniejszenie wydolności oddechowej – VC 50–70%, FEV1 50–70%, FEV 1% VC 50–70% – w odniesieniu do wartości należnych, − znaczne zmniejszenie wydolności oddechowej – VC poniżej 50%, FEV1 poniżej 50%, FEV 1% VC poniżej 50% – w odniesieniu do wartości należnych.
 63 Uszkodzenie serca lub osierdzia
-1) wymagające leczenia operacyjnego, z wydolnym układem krążenia, EF powyżej 55%, powyżej 10 MET, bez zaburzeń 5 kurczliwości
+1) wymagające leczenia operacyjnego, z wydolnym układem 5 krążenia, EF powyżej 55%, powyżej 10 MET, bez zaburzeń kurczliwości
 2) I klasa NYHA, EF 50–55%, powyżej 10 MET, niewielkie 6–15 zaburzenia kurczliwości
 3) II klasa NYHA, EF 45%–55% 7–10 MET, umiarkowane 16–25 zaburzenia kurczliwości
 4) III klasa NYHA, EF 35%–45%, 5–7 MET, nasilone zaburzenia 26–55 kurczliwości
 5) IV klasa NYHA, EF<35%, poniżej 5 MET, znaczne zaburzenia 56–90 kurczliwości Uwaga Stopień wydolności układu krążenia ocenia się na podstawie badania klinicznego, badań obrazowych serca lub badania EKG wysiłkowego . Przy zaliczaniu następstw do poszczególnych punktów muszą być spełnione co najmniej dwa z następujących kryteriów: klasyfikacja NYHA, EF, MET i zaburzenia kurczliwości.
-KLASYFIKACJA NYHA KLASYFIKACJA NOWOJORSKIEGO TOWARZYSTWA KARDIOLOGICZNEGO WYRÓŻNIA NASTĘPUJĄCE STANY CZYNNOŚCIOWE SERCA Klasa I Choroba serca bez ograniczenia fizycznej aktywności. Podstawowa aktywność fizyczna nie powoduje zmęczenia, duszności, kołatania serca i bólów wieńcowych.
+KLASYFIKACJA NYHA – KLASYFIKACJA NOWOJORSKIEGO TOWARZYSTWA KARDIOLOGICZNEGO WYRÓŻNIA NASTĘPUJĄCE STANY CZYNNOŚCIOWE SERCA Klasa I Choroba serca bez ograniczenia fizycznej aktywności. Podstawowa aktywność fizyczna nie powoduje zmęczenia, duszności, kołatania serca i bólów wieńcowych.
 Klasa II Choroba serca powodująca niewielkie ograniczenia aktywności fizycznej. Dobre samopoczucie w spoczynku. Podstawowa aktywność powoduje zmęczenie, duszność, kołatanie serca, bóle wieńcowe.
 Klasa III Choroba serca powodująca ograniczenie aktywności fizycznej. Dobre samopoczucie w spoczynku. Mniejsza niż podstawowa aktywność fizyczna powoduje zmęczenie, duszność, kołatanie serca, bóle wieńcowe.
 Klasa IV Choroba serca, która przy jakiejkolwiek aktywności fizycznej wywołuje dyskomfort. Objawy niewydolności serca lub niewydolności wieńcowej mogą występować nawet w spoczynku. Jeśli zostanie podjęta jakakolwiek aktywność fizyczna, wzrasta dyskomfort.
-DEFINICJA EF FRAKCJA WYRZUTOWA LEWEJ KOMORY Frakcja wyrzutowa lewej komory objętość krwi wyrzucana z lewej komory w czasie skurczu serca. Frakcja wyrzutowa jest wyrażana w procentach stosunek objętości krwi wypływającej w czasie skurczu z lewej komory do całkowitej objętości lewej komory. Frakcja wyrzutowa wyraża zdolność serca do skurczu i jest wykładnikiem wydolności hemodynamicznej serca.
-DEFINICJA RÓWNOWAŻNIKA METABOLICZNEGO MET, STOSOWANEGO PRZY OCENIE PRÓBY WYSIŁKOWEJ MET-y (MET równoważnik metaboliczny jest jednostką spoczynkowego poboru tlenu, ok. 3,5 ml tlenu na kilogram masy ciała na minutę) uzyskuje się, dzieląc objętość tlenu (w ml/min) przez iloczyn: masy ciała (w kg) x 3,5. Liczbę 3,5 przyjmuje się jako wartość odpowiadającą zużyciu tlenu w spoczynku i wyraża w mililitrach tlenu na kilogram masy ciała na minutę.
-64 Uszkodzenia przepony rozerwanie przepony, przepukliny przeponowe w zależności od stopnia zaburzeń funkcji przewodu pokarmowego, oddychania i krążenia
+DEFINICJA EF – FRAKCJA WYRZUTOWA LEWEJ KOMORY Frakcja wyrzutowa lewej komory – objętość krwi wyrzucana z lewej komory w czasie skurczu serca. Frakcja wyrzutowa jest wyrażana w procentach – stosunek objętości krwi wypływającej w czasie skurczu z lewej komory do całkowitej objętości lewej komory. Frakcja wyrzutowa wyraża zdolność serca do skurczu i jest wykładnikiem wydolności hemodynamicznej serca.
+DEFINICJA RÓWNOWAŻNIKA METABOLICZNEGO – MET, STOSOWANEGO PRZY OCENIE PRÓBY WYSIŁKOWEJ MET-y (MET – równoważnik metaboliczny jest jednostką spoczynkowego poboru tlenu, ok. 3,5 ml tlenu na kilogram masy ciała na minutę) uzyskuje się, dzieląc objętość tlenu (w ml/min) przez iloczyn: masy ciała (w kg) x 3,5. Liczbę 3,5 przyjmuje się jako wartość odpowiadającą zużyciu tlenu w spoczynku i wyraża w mililitrach tlenu na kilogram masy ciała na minutę.
+64 Uszkodzenia przepony – rozerwanie przepony, przepukliny przeponowe w zależności od stopnia zaburzeń funkcji przewodu pokarmowego, oddychania i krążenia
 1) bez zaburzeń funkcji po leczeniu operacyjnym w zależności od 1–5 rozległości uszkodzeń
 2) zaburzenia niewielkiego stopnia 6–10
 3) zaburzenia średniego stopnia 11–20
@@ -285,12 +284,12 @@ Przepuklin pachwinowych, pępkowych itp. oraz wszystkich, które uwidoczniły si
 1) wymagające leczenia operacyjnego, bez zaburzeń funkcji 1–5 przewodu pokarmowego
 2) z niewielkiego stopnia zaburzeniami funkcji i dostatecznym 6–10 stanem odżywienia
 3) z zaburzeniami trawienia i niedostatecznym stanem odżywienia 11–40 w zależności od stopnia zaburzeń i stanu odżywienia
-4) z zaburzeniami trawienia i niedostatecznym stanem odżywienia 50 odżywianie jedynie pozajelitowe 67 Trwałe przetoki jelitowe, kałowe i odbyt sztuczny w zależności od możliwości zaopatrzenia sprzętem stomijnym i miejscowych powikłań przetoki
+4) z zaburzeniami trawienia i niedostatecznym stanem odżywienia – 50 odżywianie jedynie pozajelitowe 67 Trwałe przetoki jelitowe, kałowe i odbyt sztuczny w zależności od możliwości zaopatrzenia sprzętem stomijnym i miejscowych powikłań przetoki
 1) jelita cienkiego 30–80
 2) jelita grubego 20–60 68 Uszkodzenie dużych naczyń krwionośnych jamy brzusznej 1–10 i miednicy (aorty brzusznej, tętnic biodrowych wspólnych, zewnętrznych i wewnętrznych) niepowodujące upośledzenia funkcji innych narządów w zależności od rozległości uszkodzenia naczyń 69 Uszkodzenie odbytu, zwieracza odbytu
 1) blizny, zwężenia, niewielkie dolegliwości 1–5
 2) powodujące stałe, całkowite nietrzymanie kału i gazów 60 70 Uszkodzenia odbytnicy
-1) pełnościenne uszkodzenie niewielkie dolegliwości, bez 1–5 zaburzeń funkcji
+1) pełnościenne uszkodzenie – niewielkie dolegliwości, bez 1–5 zaburzeń funkcji
 2) wypadanie błony śluzowej 6–10
 3) wypadanie odbytnicy w zależności od stopnia wypadania, 11–30 utrzymujące się po leczeniu operacyjnym 71 Uszkodzenia śledziony
 1) leczone zachowawczo (krwiak, pęknięcie narządu potwierdzone 2 badaniem obrazowym)
@@ -303,7 +302,7 @@ Przepuklin pachwinowych, pępkowych itp. oraz wszystkich, które uwidoczniły si
 4) zaburzenia czynności wątroby w stopniu C według Childa- 41–60 -Pugha, ciężkie zaburzenia czynności zewnątrzwydzielniczej i wewnątrzwydzielniczej trzustki Uwaga Przetokę trzustkową ocenia się według ilości wydzielanej treści, stopnia wydolności zewnątrzwydzielniczej oraz zmian wtórnych powłok jamy brzusznej według poz. 72 pkt 2–4.
 Przetokę żółciową ocenia się według ilości wydzielanej treści oraz zmian wtórnych powłok brzusznych według poz. 72 pkt 2–4.
 Zwężenia dróg żółciowych ocenia się według częstości nawrotów zapaleń dróg żółciowych oraz zmian wtórnych w wątrobie według poz. 72 pkt 2–4.
-KLASYFIKACJA CHILDA-PUGHA w odniesieniu do wartości należnych Parametr Liczba punktów 1 2 3 Albumina (g/dl) >3,5 2,8–3,5 <2,8 w surowicy Bilirubina (umol/l) <25 25–40 >40 w surowicy Czas protrombinowy <4 4–6 >6 (sekunda ponad normę) Wodobrzusze brak niewielkie nasilone Nasilenie encefalopatii brak I–II° III–V° STOPIEŃ A 5–6 pkt STOPIEŃ B 7–9 pkt STOPIEŃ C 10–15 pkt USZKODZENIA NARZĄDÓW MOCZOWO-PŁCIOWYCH 73 Uszkodzenie jednej nerki lub obu nerek powodujące 5–25 upośledzenie ich funkcji w zależności od stopnia upośledzenia funkcji 74 Utrata jednej nerki przy drugiej zdrowej i prawidłowo 30 działającej 75 Utrata jednej nerki i upośledzenie funkcjonowania drugiej 35–75 nerki w zależności od stopnia upośledzenia funkcji pozostałej nerki 76 Uszkodzenie moczowodu powodujące zwężenie jego światła
+KLASYFIKACJA CHILDA-PUGHA – w odniesieniu do wartości należnych Parametr Liczba punktów 1 2 3 Albumina (g/dl) >3,5 2,8–3,5 <2,8 w surowicy Bilirubina (umol/l) <25 25–40 >40 w surowicy Czas protrombinowy <4 4–6 >6 (sekunda ponad normę) Wodobrzusze brak niewielkie nasilone Nasilenie encefalopatii brak I–II° III–V° STOPIEŃ A – 5–6 pkt STOPIEŃ B – 7–9 pkt STOPIEŃ C – 10–15 pkt USZKODZENIA NARZĄDÓW MOCZOWO-PŁCIOWYCH 73 Uszkodzenie jednej nerki lub obu nerek powodujące 5–25 upośledzenie ich funkcji w zależności od stopnia upośledzenia funkcji 74 Utrata jednej nerki przy drugiej zdrowej i prawidłowo 30 działającej 75 Utrata jednej nerki i upośledzenie funkcjonowania drugiej 35–75 nerki w zależności od stopnia upośledzenia funkcji pozostałej nerki 76 Uszkodzenie moczowodu powodujące zwężenie jego światła
 1) niepowodujące zaburzeń funkcji 1–5
 2) z zaburzeniem funkcji układu moczowego 6–20 77 Uszkodzenie pęcherza w zależności od stopnia zmniejszenia jego pojemności, zaburzeń w oddawaniu moczu, przewlekłych stanów zapalnych
 1) wymagające leczenia operacyjnego, bez zaburzeń funkcji 3–5
@@ -330,7 +329,7 @@ KLASYFIKACJA CHILDA-PUGHA w odniesieniu do wartości należnych Parametr Liczba 
 2) z trwałym uszkodzeniem układu krwiotwórczego 10–25 Uwaga Trwałe upośledzenie funkcji narządów lub układów w stopniu znacznym ocenia się według pozycji odpowiednich dla danego narządu lub układu.
 Oceny dokonuje się nie wcześniej niż po upływie 6 miesięcy od zdarzenia.
 88 Inne następstwa zatruć oraz ogólne następstwa działania 1–15 czynników chemicznych, fizycznych i biologicznych (porażenia prądem, porażenia piorunem, następstwa ukąszeń) w zależności od stopnia uszkodzenia powodujące trwałe upośledzenie funkcji narządów lub układów w stopniu niewielkim lub średnim Uwaga Trwałe upośledzenie funkcji narządów lub układów w stopniu znacznym ocenia się według pozycji odpowiednich dla danego narządu lub układu.
-Jeśli potwierdzono, że do zatrucia doszło w wyniku nieszczęśliwego wypadku uszkodzenie wzroku i słuchu ocenia się według odpowiednich tabel w poz. 27 pkt 1, poz. 32, poz. 42.
+Jeśli potwierdzono, że do zatrucia doszło w wyniku nieszczęśliwego wypadku – uszkodzenie wzroku i słuchu ocenia się według odpowiednich tabel w poz. 27 pkt 1, poz. 32, poz. 42.
 Miejscowe następstwa działania czynników chemicznych, fizycznych i biologicznych ocenia się według pozycji odpowiednich dla danej okolicy ciała.
 Oceny dokonuje się nie wcześniej niż po upływie 6 miesięcy od zdarzenia.
 USZKODZENIA KRĘGOSŁUPA, RDZENIA KRĘGOWEGO I ICH NASTĘPSTWA 89 Uszkodzenie kostno-więzadłowe kręgosłupa szyjnego potwierdzone badaniami dodatkowymi (RTG czynnościowe, TK, RM)
@@ -341,7 +340,7 @@ USZKODZENIA KRĘGOSŁUPA, RDZENIA KRĘGOWEGO I ICH NASTĘPSTWA 89 Uszkodzenie ko
 5) zesztywnienie w pozycji zbliżonej do fizjologicznej 30
 6) zesztywnienie w niekorzystnym ustawieniu głowy 45
 7) obniżenie wysokości trzonu o co najmniej 10% ocenia się według poz. 89 pkt 1–6, dodając w zależności od stopnia zniekształcenia 2–10%
-8) niestabilności (na podstawie czynnościowych zdjęć RTG: przemieszczenie sąsiednich trzonów lub rotacja ocenia się według ) poz. 89 pkt 1–7, zwiększając stopień uszczerbku o 1–8%
+8) niestabilności (na podstawie czynnościowych zdjęć RTG: ocenia się według przemieszczenie sąsiednich trzonów lub rotacja ) poz. 89 pkt 1–7, zwiększając stopień uszczerbku o 1–8%
 9) uszkodzenia kręgosłupa powikłane zapaleniem kręgów, ocenia się według obecnością ciała obcego itp. poz. 89 pkt 1–8, zwiększając stopień uszczerbku o 5% Uwaga Przy występowaniu objawów korzeniowych dodatkowo ocenia się według poz. 94.
 Jeżeli jedyną przyczyną ograniczenia ruchomości kręgosłupa szyjnego jest zespół bólowy korzeniowy lub uraz w mechanizmie zgięciowo-odgięciowym („whiplash”, „smagnięcia biczem”) z zespołem bólowym bez uszkodzeń korzeni nerwowych, ocenia się wyłącznie według poz. 94.
 Łączny stopień pourazowego uszczerbku kręgosłupa szyjnego nie może przekroczyć 45%.
@@ -352,7 +351,7 @@ Zakresy ruchomości: zgięcie 50 , prostowanie 60 , rotacja po 80 , pochylanie n
 3) zesztywnienie w pozycji fizjologicznej 20
 4) zesztywnienie w ustawieniu niekorzystnym 25–30
 5) obniżenie wysokości trzonu co najmniej 10% ocenia się według poz. 90 pkt 1–4, zwiększając stopień uszczerbku w zależności od stopnia zniekształcenia o 1–5%
-6) niestabilności (na podstawie czynnościowych zdjęć RTG: przemieszczenie sąsiednich trzonów kręgów lub rotacja ocenia się według ) poz. 90 pkt 1–5, zwiększając stopień uszczerbku o 1–7%
+6) niestabilności (na podstawie czynnościowych zdjęć RTG: ocenia się według przemieszczenie sąsiednich trzonów kręgów lub rotacja ) poz. 90 pkt 1–5, zwiększając stopień uszczerbku o 1–7%
 7) uszkodzenia kręgosłupa powikłane zapaleniem kręgów, ocenia się według obecnością ciała obcego itp. poz. 90 pkt 1–6, zwiększając stopień uszczerbku o 5% Uwaga Przy występowaniu objawów korzeniowych dodatkowo ocena według poz. 94. Jeżeli jedyną przyczyną ograniczenia ruchomości kręgosłupa jest zespół bólowy, ocenia się wyłącznie według poz. 94.
 Łączny stopień pourazowego uszczerbku kręgosłupa piersiowego nie może przekroczyć 30%.
 Zakresy ruchomości: zgięcie 60 , rotacja po 30 , test Schobera 10–11cm (od C7 do S1) z tego odcinek piersiowy 2–3 cm.
@@ -363,7 +362,7 @@ Zakresy ruchomości: zgięcie 60 , rotacja po 30 , test Schobera 10–11cm (od C
 4) zesztywnienie w pozycji zbliżonej do fizjologicznej 30
 5) zesztywnienie w niekorzystnym ustawieniu tułowia 40
 6) obniżenie wysokości trzonu co najmniej o 10% ocenia się według poz. 91 pkt 1–5, zwiększając stopień uszczerbku w zależności od stopnia zniekształcenia o 3–12%
-7) niestabilności (na podstawie czynnościowych zdjęć RTG: przemieszczenie sąsiednich trzonów kręgów lub rotacja ocenia się według ) poz. 91 pkt 1–6, zwiększając stopień uszczerbku o 1–9%
+7) niestabilności (na podstawie czynnościowych zdjęć RTG: ocenia się według przemieszczenie sąsiednich trzonów kręgów lub rotacja ) poz. 91 pkt 1–6, zwiększając stopień uszczerbku o 1–9%
 8) uszkodzenia kręgosłupa powikłane zapaleniem kręgów, ocenia się według obecnością ciała obcego itp. poz. 91 pkt 1–7, zwiększając stopień uszczerbku o 5% Uwaga Przy występowaniu objawów korzeniowych dodatkowo ocenia się według poz. 94.
 Jeżeli jedyną przyczyną ograniczenia ruchomości kręgosłupa jest zespół bólowy korzeniowy − ocenia się wyłącznie według poz. 94.
 Łączny stopień pourazowego uszczerbku kręgosłupa lędźwiowego nie może przekroczyć 40%.
@@ -372,16 +371,16 @@ Zakresy ruchomości: zgięcie 60 , wyprost 25 , pochylanie na boki po 25 , test 
 92 Izolowane złamanie wyrostków poprzecznych, kolczystych, ocenia się według ościstych w zależności od ograniczenia ruchomości kręgosłupa poz. 89–91 93 Uszkodzenia rdzenia kręgowego
 1) zaburzenia czucia, zespoły bólowe bez niedowładów w zależności 1–10 od stopnia zaburzeń
 2) zaburzenia ze strony zwieraczy i narządów płciowych bez 5–30 niedowładów, zespół stożka końcowego oraz objawy piramidowe bez niedowładu w zależności od stopnia zaburzeń
-3) niewielki niedowład kończyn górnych lub dolnych (4° w skali Lovetta lub 2° według skali Ashwortha), zespół Browna-Séquarda będący następstwem uszkodzenia rdzenia w odcinku szyjnym z niedowładem kończyn (4° w skali Lovetta lub 1° według skali Ashwortha) lub uszkodzenie rdzenia w odcinku piersiowym z niedowładem kończyny dolnej (3–4° w skali Lovetta lub 2–1° według skali Ashwortha) 5–30
-4) średniego stopnia niedowład kończyn górnych lub dolnych (3° w skali Lovetta lub 3° według skali Ashwortha), zespół Browna-Séquarda będący następstwem uszkodzenia rdzenia w odcinku szyjnym z niedowładem kończyn (3° w skali Lovetta lub 2 według skali Ashwortha) lub uszkodzenie rdzenia w odcinku piersiowym z niedowładem kończyny dolnej (0–2° w skali Lovetta lub 4–3 31–60 według skali Ashwortha)
+3) niewielki niedowład kończyn górnych lub dolnych 5–30 (4° w skali Lovetta lub 2° według skali Ashwortha), zespół Browna-Séquarda będący następstwem uszkodzenia rdzenia w odcinku szyjnym z niedowładem kończyn (4° w skali Lovetta lub 1° według skali Ashwortha) lub uszkodzenie rdzenia w odcinku piersiowym z niedowładem kończyny dolnej (3–4° w skali Lovetta lub 2–1° według skali Ashwortha)
+4) średniego stopnia niedowład kończyn górnych lub dolnych 31–60 (3° w skali Lovetta lub 3° według skali Ashwortha), zespół Browna-Séquarda będący następstwem uszkodzenia rdzenia w odcinku szyjnym z niedowładem kończyn (3° w skali Lovetta lub 2 według skali Ashwortha) lub uszkodzenie rdzenia w odcinku piersiowym z niedowładem kończyny dolnej (0–2° w skali Lovetta lub 4–3 według skali Ashwortha)
 5) głęboki niedowład kończyn górnych lub dolnych (2° w skali 61–90 Lovetta lub 3° według skali Ashwortha), niedowład czterokończynowy (3° w skali Lovetta lub 2° według skali Ashwortha), zespół Browna-Séquarda będący następstwem połowiczego uszkodzenia rdzenia z niedowładem kończyn (2° w skali Lovetta lub 3° według skali Ashwortha)
 6) porażenie kończyn górnych lub dolnych (0–1° w skali Lovetta 100 lub 4° według skali Ashwortha), głęboki niedowład czterokończynowy (2° w skali Lovetta lub 3° według skali Ashwortha), zespół Browna-Séquarda będący następstwem połowiczego uszkodzenia rdzenia z porażeniem kończyn (0–1° w skali Lovetta lub 4° według skali Ashwortha) 94 Urazowe zespoły korzeniowe (bólowe, ruchowe, czuciowe lub mieszane) oraz utrwalone urazowe zespoły bólowe bez uszkodzenia korzeni w zależności od stopnia
 1) szyjne bólowe 1–4
-2) szyjne bez niedowładów ból, zaburzenia czucia, osłabienie 5–15 lub brak odruchów
+2) szyjne bez niedowładów – ból, zaburzenia czucia, osłabienie 5–15 lub brak odruchów
 3) szyjne z obecnością niedowładów w zależności od stopnia 5–30 niedowładu i zaników mięśniowych (co najmniej 2 cm)
 4) piersiowe 1–10
 5) lędźwiowo-krzyżowe bólowe 1–4
-6) lędźwiowo-krzyżowe bez niedowładów ból, zaburzenia 5–15 czucia, osłabienie lub brak odruchów
+6) lędźwiowo-krzyżowe bez niedowładów – ból, zaburzenia 5–15 czucia, osłabienie lub brak odruchów
 7) lędźwiowo-krzyżowe z obecnością niedowładów w zależności 5–30 od stopnia niedowładu i zaników mięśniowych (co najmniej 2 cm)
 8) guziczne (w tym złamania kości guzicznej) 1–5 Uwaga Uszkodzenia wymienione w poz. 94 pkt 1–8 potwierdza się w obiektywnej dokumentacji medycznej z diagnostyki i leczenia następstw zdarzenia.
 Zespół bólowy po urazie w mechanizmie zgięciowo-odgięciowym („smagnięcia biczem”) ocenia się wyłącznie według poz. 94 pkt 1 lub poz. 94 pkt 2.
@@ -399,36 +398,36 @@ USZKODZENIA MIEDNICY 95 Utrwalone rozejście spojenia łonowego lub zwichnięcie
 98 Izolowane złamania kości miednicy i kości krzyżowej bez przerwania obręczy kończyny dolnej
 1) jednomiejscowe złamanie kości miednicy (np. złamanie jednej 1–3 gałęzi kości łonowej lub kulszowej), kości krzyżowej bez istotnego zniekształcenia i z niewielkimi zaburzeniami funkcji
 2) jednomiejscowe złamanie kości miednicy (np. złamanie 4–8 jednej gałęzi kości łonowej lub kulszowej), kości krzyżowej ze zniekształceniem i zaburzeniami funkcji
-3) mnogie złamania kości miednicy lub kości krzyżowej bez istotnego zniekształcenia i z niewielkimi zaburzeniami funkcji 2–7
-4) mnogie złamania kości miednicy lub kości krzyżowej ze zniekształceniem i z zaburzeniami funkcji 5–15 Uwaga Towarzyszące złamaniom uszkodzenia narządów miednicy i objawy neurologiczne ocenia się dodatkowo według pozycji dotyczących odpowiednich uszkodzeń narządów miednicy lub uszkodzeń neurologicznych.
+3) mnogie złamania kości miednicy lub kości krzyżowej bez 2–7 istotnego zniekształcenia i z niewielkimi zaburzeniami funkcji
+4) mnogie złamania kości miednicy lub kości krzyżowej ze 5–15 zniekształceniem i z zaburzeniami funkcji Uwaga Towarzyszące złamaniom uszkodzenia narządów miednicy i objawy neurologiczne ocenia się dodatkowo według pozycji dotyczących odpowiednich uszkodzeń narządów miednicy lub uszkodzeń neurologicznych.
 USZKODZENIA KOŃCZYNY GÓRNEJ ŁOPATKA 99 Złamanie łopatki
 1) wygojone złamanie łopatki z nieznacznym przemieszczeniem 1–5 1–3 i niewielkimi zaburzeniami funkcji kończyny
 2) wygojone złamanie łopatki z wyraźnym przemieszczeniem 6–12 4–9 i niewielkim upośledzeniem funkcji kończyny z ograniczeniem ruchomości do 30%
 3) wygojone złamanie łopatki z wyraźnym przemieszczeniem 13–20 10–15 i średnim upośledzeniem funkcji kończyny z ograniczeniem ruchomości w zakresie 31–50%
-4) wygojone złamanie łopatki z wyraźnym przemieszczeniem 21–40 16–30 i znacznym upośledzeniem funkcji kończyny z ograniczeniem ruchomości powyżej 50% Uwaga 99 uwzględnia również ewentualne powikłania neurologiczne.
+4) wygojone złamanie łopatki z wyraźnym przemieszczeniem 21–40 16–30 i znacznym upośledzeniem funkcji kończyny z ograniczeniem ruchomości powyżej 50% Uwaga Poz. 99 uwzględnia również ewentualne powikłania neurologiczne.
 OBOJCZYK 100 Stan po wadliwym wygojeniu złamania obojczyka w zależności od stopnia zniekształcenia i ograniczenia ruchomości
 1) niewielkiego stopnia deformacja z ograniczeniem ruchomości 1–8 1–6 stawu ramienno-łopatkowego do 20%
-2) deformacja z wyraźnym ograniczeniem ruchomości stawu ramienno-łopatkowego powyżej 20% 9–20 7–15 101 Staw rzekomy obojczyka w zależności od zniekształceń, przemieszczeń, upośledzenia funkcji kończyny
+2) deformacja z wyraźnym ograniczeniem ruchomości stawu 9–20 7–15 ramienno-łopatkowego powyżej 20% 101 Staw rzekomy obojczyka w zależności od zniekształceń, przemieszczeń, upośledzenia funkcji kończyny
 1) zmiany wtórne z ograniczeniem ruchomości w stawie 10–14 8–12 ramienno-łopatkowym do 20%
 2) zmiany wtórne z ograniczeniem ruchomości w stawie 15–25 13–20 ramienno-łopatkowym powyżej 20% Uwaga W przypadku złamania obojczyka powikłanego stawem rzekomym ocenia się wyłącznie według poz. 101.
 102 Zwichnięcie, podwichnięcie stawu obojczykowo-barkowego lub obojczykowo-mostkowego w zależności od ograniczenia ruchów, stopnia zniekształcenia i upośledzenia funkcji
-1) brak lub niewielka deformacja i ograniczenie ruchomości do 10% (I 1–5 1–3 )
-2) wyraźna deformacja i ograniczenie ruchomości do 20% (II , II /III 6–10 4–8 )
-3) wyraźna deformacja i ograniczenie ruchomości powyżej 20% (II /III , III 11–25 9–20 ) Uwaga W przypadku gdy deficyt funkcji kończyny górnej wynika z nakładania się skutków złamania obojczyka oraz uszkodzeń neurologicznych, deficyt funkcji kończyny ocenia się wyłącznie według poz. 181.
+1) brak lub niewielka deformacja i ograniczenie ruchomości do 1–5 1–3 10% (I )
+2) wyraźna deformacja i ograniczenie ruchomości do 20% 6–10 4–8 (II , II /III )
+3) wyraźna deformacja i ograniczenie ruchomości powyżej 20% 11–25 9–20 (II /III , III ) Uwaga W przypadku gdy deficyt funkcji kończyny górnej wynika z nakładania się skutków złamania obojczyka oraz uszkodzeń neurologicznych, deficyt funkcji kończyny ocenia się wyłącznie według poz. 181.
 W przypadku nienakładania się deficytów dodatkowo ocenia się według poz. 181.
-103 Uszkodzenia obojczyka powikłane przewlekłym zapaleniem ocenia się według kości poz. 100–102, zwiększając stopień uszczerbku o 5% BARK STAW RAMIENNO-ŁOPATKOWY 104 Uszkodzenia stawu ramienno-łopatkowego (zwichnięcia, złamania głowy, nasady bliższej kości ramiennej, panewki, szyjki łopatki, skręcenia) oraz uszkodzenia pozostałych struktur barku w zależności od ubytków tkanek, ograniczenia ruchów, zaników mięśni, przemieszczeń i zniekształceń złamanej głowy kości ramiennej itp.
+103 Uszkodzenia obojczyka powikłane przewlekłym zapaleniem ocenia się według kości poz. 100–102, zwiększając stopień uszczerbku o 5% BARK – STAW RAMIENNO-ŁOPATKOWY 104 Uszkodzenia stawu ramienno-łopatkowego (zwichnięcia, złamania głowy, nasady bliższej kości ramiennej, panewki, szyjki łopatki, skręcenia) oraz uszkodzenia pozostałych struktur barku w zależności od ubytków tkanek, ograniczenia ruchów, zaników mięśni, przemieszczeń i zniekształceń złamanej głowy kości ramiennej itp.
 1) niewielkie zmiany z ograniczeniem ruchomości do 30% 1–11 1–7
 2) średnie zmiany z ograniczeniem ruchomości w zakresie 31–50% 12–19 8–14
 3) znaczne zmiany z ograniczeniem ruchomości powyżej 50% 20–35 15–30 Uwaga Uszkodzenie stawu ramienno-łopatkowego wygojone sztucznym stawem ocenia się według poz. 104, nie mniej niż 10%.
-105 Zastarzałe nieodprowadzalne zwichnięcie stawu ramienno-łopatkowego w zależności od zakresu ruchów i ustawienia kończyny 20–35 15–30 106 Udokumentowane nawykowe zwichnięcie stawu ramienno- 5–25 5–20 -łopatkowego potwierdzone dokumentacją medyczną, w tym radiologiczną Uwaga Kolejnych epizodów nawykowego zwichnięcia nie traktuje się jako kolejnego nieszczęśliwego wypadku, lecz jako skutek ostatniego urazowego zwichnięcia stawu ramienno-łopatkowego. Przy ocenianiu według poz. 106 zbiera się szczegółowy wywiad w kierunku przebytych wcześniej urazowych zwichnięć w stawie oraz zapoznaje się z dodatkową dokumentacją medyczną w celu ustalenia daty ostatniego zwichnięcia urazowego oraz daty pierwszego zwichnięcia nawykowego.
+105 Zastarzałe nieodprowadzalne zwichnięcie stawu ramienno- 20–35 15–30 -łopatkowego w zależności od zakresu ruchów i ustawienia kończyny 106 Udokumentowane nawykowe zwichnięcie stawu ramienno- 5–25 5–20 -łopatkowego potwierdzone dokumentacją medyczną, w tym radiologiczną Uwaga Kolejnych epizodów nawykowego zwichnięcia nie traktuje się jako kolejnego nieszczęśliwego wypadku, lecz jako skutek ostatniego urazowego zwichnięcia stawu ramienno-łopatkowego. Przy ocenianiu według poz. 106 zbiera się szczegółowy wywiad w kierunku przebytych wcześniej urazowych zwichnięć w stawie oraz zapoznaje się z dodatkową dokumentacją medyczną w celu ustalenia daty ostatniego zwichnięcia urazowego oraz daty pierwszego zwichnięcia nawykowego.
 Konieczna analiza dokumentacji medycznej i wypadkowej wraz z analizą mechanizmu urazu celem identyfikacji przedmiotowego zdarzenia jako nieszczęśliwego wypadku.
 107 Staw wiotki, cepowy w następstwie pourazowych ubytków 25–40 20–35 kości w zależności od zaburzeń funkcji Uwaga Staw wiotki z powodu porażeń ocenia się według norm neurologicznych.
 108 Zesztywnienie stawu barkowego (całkowity brak ruchomości w stawie ramienno-łopatkowym)
 1) w ustawieniu czynnościowo korzystnym w zależności od 20–35 15–30 ustawienia i funkcji
 2) w ustawieniu czynnościowo niekorzystnym 40 35 109 Bliznowaty przykurcz stawu barkowego w zależności od ocenia się według zaburzeń czynności stawu poz. 104 lub poz. 108 110 Uszkodzenie barku powikłane przewlekłym zapaleniem kości, ocenia się według przetokami itp. poz. 104–109, zwiększając stopień uszczerbku o 5% Uwaga W przypadku gdy deficyt funkcji kończyny górnej wynika z nakładania się skutków uszkodzeń barku oraz uszkodzeń neurologicznych, deficyt funkcji kończyny ocenia się wyłącznie według poz. 181.
 W przypadku nienakładania się deficytów ocenia się dodatkowo według poz. 181.
-111 Utrata kończyny w stawie ramienno-łopatkowym 70 65 112 Utrata kończyny wraz z łopatką 75 70 ZAKRESY RUCHOMOŚCI STAWU RAMIENNO-ŁOPATKOWEGO Zgięcie 0–180 , wyprost 0–60 , odwodzenie 0–90 , unoszenie 90–180 (niekiedy odwodzenie i unoszenie określane jest jednym terminem odwodzenie i wtedy zakres ruchu wynosi 0–180 ), przywodzenie 0–50 , rotacja zewnętrzna 0–70 , rotacja wewnętrzna 0–100 (pozycja funkcjonalna, swobodna: 20–40 zgięcia, 20–50 odwiedzenia i 30–50 rotacji wewnętrznej).
-RAMIĘ 113 Złamanie trzonu kości ramiennej w zależności od przemieszczeń, ograniczeń ruchu w stawie ramienno-łopatkowym i łokciowym
+111 Utrata kończyny w stawie ramienno-łopatkowym 70 65 112 Utrata kończyny wraz z łopatką 75 70 ZAKRESY RUCHOMOŚCI STAWU RAMIENNO-ŁOPATKOWEGO Zgięcie 0–180 , wyprost 0–60 , odwodzenie 0–90 , unoszenie 90–180 (niekiedy odwodzenie i unoszenie określane jest jednym terminem – odwodzenie i wtedy zakres ruchu wynosi 0–180 ), przywodzenie 0–50 , rotacja zewnętrzna 0–70 , rotacja wewnętrzna 0–100 (pozycja funkcjonalna, swobodna: 20–40 zgięcia, 20–50 odwiedzenia i 30–50 rotacji wewnętrznej).
+RAMIĘ 113 Złamanie trzonu kości ramiennej – w zależności od przemieszczeń, ograniczeń ruchu w stawie ramienno-łopatkowym i łokciowym
 1) upośledzenie funkcji kończyny z ograniczeniem ruchomości 1–15 1–10 w stawie ramienno-łopatkowym lub łokciowym do 30%
 2) upośledzenie funkcji kończyny z ograniczeniem ruchomości 16–30 11–25 w stawie ramienno-łopatkowym lub łokciowym powyżej 30%
 3) złamania powikłane przewlekłym zapaleniem kości, brakiem ocenia się według zrostu, stawem rzekomym itp. poz. 113 pkt 1 lub 2, zwiększając stopień uszczerbku w zależności od zaburzeń funkcji o 5–15% 114 Uszkodzenia mięśni, uszkodzenia ścięgien i ich przyczepów w zależności od zmian wtórnych i upośledzenia funkcji
@@ -445,7 +444,7 @@ W przypadku współistnienia złamań kości ocenia się według poz. 113.
 1) w zgięciu zbliżonym do kąta prostego i z zachowanymi 25 20 ruchami obrotowymi przedramienia
 2) w zgięciu zbliżonym do kąta prostego i w zależności od 26–30 21–25 ograniczenia zakresu ruchów obrotowych przedramienia
 3) w ustawieniu wyprostnym lub zbliżonym do 20° 45 40
-4) w innych niekorzystnych ustawieniach w zależności od 30–45 25–40 przydatności czynnościowej kończyny 119 Uszkodzenia łokcia zwichnięcia, skręcenia, uszkodzenia tkanek miękkich w zależności od ograniczenia ruchów, zaników mięśni, przemieszczeń, zniekształceń oraz innych zmian wtórnych
+4) w innych niekorzystnych ustawieniach w zależności od 30–45 25–40 przydatności czynnościowej kończyny 119 Uszkodzenia łokcia – zwichnięcia, skręcenia, uszkodzenia tkanek miękkich w zależności od ograniczenia ruchów, zaników mięśni, przemieszczeń, zniekształceń oraz innych zmian wtórnych
 1) niewielkie zmiany z ograniczeniem ruchomości do 20% 1–5 1–4
 2) średnie zmiany z ograniczeniem ruchomości w zakresie 6–15 5–10 21–50%
 3) duże zmiany z ograniczeniem ruchomości powyżej 50% 16–30 11–25 Uwaga Według tej pozycji ocenia się jedynie uszkodzenia bez złamań kości.
@@ -469,13 +468,13 @@ PRZEDRAMIĘ 122 Złamania w obrębie dalszych nasad jednej lub obu kości przedr
 126 Brak zrostu, staw rzekomy obu kości przedramienia w zależności od zniekształceń, ubytków kości, upośledzenia funkcji, zmian wtórnych
 1) średniego stopnia 10–25 10–20
 2) dużego stopnia 26–40 21–35 Uwaga W przypadku złamania obu kości przedramienia powikłanych stawem rzekomym ocenia się wyłącznie według poz. 126.
-127 Uszkodzenie przedramienia powikłane przewlekłym zapaleniem ocenia się według kości, przetokami, ubytkiem tkanki kostnej poz. 122–126, zwiększając stopień uszczerbku o 5% 128 Utrata kończyny w obrębie przedramienia w zależności od 55–60 50–55 charakteru kikuta i jego przydatności do protezowania 129 Utrata przedramienia w okolicy nadgarstka 55 50 ZAKRESY RUCHOMOŚCI PRZEDRAMIENIA Nawracanie 0–80 , odwracanie 0–80 (pozycja funkcjonalna, swobodna 20 nawrócenia).
+127 Uszkodzenie przedramienia powikłane przewlekłym zapaleniem ocenia się według kości, przetokami, ubytkiem tkanki kostnej poz. 122–126, zwiększając stopień uszczerbku o 5% 128 Utrata kończyny w obrębie przedramienia w zależności od 55–60 50–55 charakteru kikuta i jego przydatności do protezowania 129 Utrata przedramienia w okolicy nadgarstka 55 50 ZAKRESY RUCHOMOŚCI PRZEDRAMIENIA Nawracanie 0–80 , odwracanie 0–80 (pozycja funkcjonalna, swobodna – 20 nawrócenia).
 NADGARSTEK 130 Uszkodzenia nadgarstka: skręcenia, zwichnięcia, złamania w zależności od blizn, ubytków, zniekształceń, niestabilności, upośledzenia funkcji, zmian troficznych i innych zmian wtórnych
 1) niewielkie zmiany z ograniczeniem ruchomości do 30% 1–6 1–5
 2) średnie zmiany z ograniczeniem ruchomości w zakresie 31–60% 7–15 6–10
 3) duże zmiany z ograniczeniem ruchomości powyżej 60% 16–25 11–20 131 Całkowite zesztywnienie w obrębie nadgarstka
 1) w ustawieniu czynnościowo korzystnym w zależności od 15–20 10–15 stopnia upośledzenia funkcji ręki i palców
-2) w ustawieniu czynnościowo niekorzystnym w zależności od 21–30 16–25 stopnia upośledzenia funkcji ręki i palców 132 Uszkodzenie nadgarstka powikłane trwałymi zmianami ocenia się według troficznymi, przewlekłym ropnym zapaleniem kości nadgarstka, poz. 130–131, przetokami zwiększając stopień uszczerbku o 5% 133 Utrata ręki na poziomie nadgarstka 55 60 ZAKRESY RUCHOMOŚCI NADGARSTKA Zgięcie dłoniowe 60 (czynne), 80 (bierne), zgięcie grzbietowe 60 (czynne), 80 (bierne), odchylenie promieniowe 20 , odchylenie łokciowe 30 , (pozycja funkcjonalna od 10 zgięcia dłoniowego do 10 zgięcia grzbietowego i od 0 do 10 odchylenia łokciowego).
+2) w ustawieniu czynnościowo niekorzystnym w zależności od 21–30 16–25 stopnia upośledzenia funkcji ręki i palców 132 Uszkodzenie nadgarstka powikłane trwałymi zmianami ocenia się według troficznymi, przewlekłym ropnym zapaleniem kości nadgarstka, poz. 130–131, przetokami zwiększając stopień uszczerbku o 5% 133 Utrata ręki na poziomie nadgarstka 55 60 ZAKRESY RUCHOMOŚCI NADGARSTKA Zgięcie dłoniowe 60 (czynne), 80 (bierne), zgięcie grzbietowe 60 (czynne), 80 (bierne), odchylenie promieniowe 20 , odchylenie łokciowe 30 , (pozycja funkcjonalna – od 10 zgięcia dłoniowego do 10 zgięcia grzbietowego i od 0 do 10 odchylenia łokciowego).
 ŚRÓDRĘCZE 134 Uszkodzenie śródręcza: kości, części miękkich w zależności od ubytków, zniekształceń oraz upośledzenia funkcji ręki, palców i innych zmian wtórnych
 1) I kość śródręcza (w zależności od funkcji kciuka)
 a) z ograniczeniem ruchomości kciuka do 30% 1–6 1–5
@@ -488,20 +487,20 @@ c) z ograniczeniem ruchomości powyżej 60% 10–15 7–10
 3) III kość śródręcza (w zależności od ruchomości palca III i innych zmian wtórnych)
 a) z ograniczeniem ruchomości w zakresie 20–50% 1–2 1
 b) z ograniczeniem ruchomości powyżej 50% 3–5 2–4
-4) IV, V kość śródręcza (w zależności od ruchomości odpowiednich palców i innych zmian wtórnych) ocenia się osobno dla każdej kości śródręcza
+4) IV, V kość śródręcza (w zależności od ruchomości odpowiednich palców i innych zmian wtórnych) – ocenia się osobno dla każdej kości śródręcza
 a) z ograniczeniem ruchomości w zakresie 20–50% 1–2 1
 b) z ograniczeniem ruchomości powyżej 50% 3–4 2 KCIUK 135 Utrata w zakresie kciuka w zależności od rozmiaru ubytku, jakości kikuta, zniekształceń, ograniczenia ruchomości palca oraz upośledzenia funkcji ręki i innych zmian wtórnych
 1) częściowa lub całkowita utrata opuszki 1–4 1–2
 2) częściowa lub całkowita utrata paliczka paznokciowego 5–10 3–6 w zależności od zmian wtórnych
-3) utrata paliczka paznokciowego i paliczka podstawnego (do / 11–15 7–10 długości paliczka podstawnego) w zależności od zmian wtórnych
-4) utrata paliczka paznokciowego i paliczka podstawnego poniżej / 16–20 11–15 długości lub utrata obu paliczków bez kości śródręcza
+3) utrata paliczka paznokciowego i paliczka podstawnego (do 11–15 7–10 / długości paliczka podstawnego) w zależności od zmian wtórnych
+4) utrata paliczka paznokciowego i paliczka podstawnego 16–20 11–15 poniżej / długości lub utrata obu paliczków bez kości śródręcza
 5) utrata obu paliczków z kością śródręcza 21–25 16–20 136 Inne uszkodzenia kciuka (złamania, zwichnięcia, uszkodzenia tkanek miękkich) w zależności od upośledzenia ruchomości kciuka oraz funkcji ręki i zmian wtórnych
 1) niewielkie zmiany z ograniczeniem ruchomości do 25% 1–5 1–3
 2) średnie zmiany z ograniczeniem ruchomości w zakresie 26–50% 6–10 4–8
 3) znaczne zmiany z ograniczeniem ruchomości w zakresie 51–75% 11–15 9–12
 4) bardzo duże zmiany z ograniczeniem ruchomości powyżej 75% 16–20 13–15
-5) rozległe zmiany palca i ręki, graniczące z funkcjonalną utratą palca wraz z pierwszą kością śródręcza 20–25 15–20 Uwaga Przy ocenie stopnia zaburzeń czynności kciuka bierze się pod uwagę przede wszystkim zdolność odwodzenia, przeciwstawiania i chwytu.
-ZAKRESY RUCHOMOŚCI KCIUKA staw śródręczno-paliczkowy 0–60 (pozycja funkcjonalna 20 zgięcia), staw międzypaliczkowy 0–80 (pozycja funkcjonalna 20 zgięcia), odwodzenie 0–50 , przywodzenie maksymalna odległość między kresą zgięciową stawu międzypaliczkowego kciuka a kresą zgięciową stawu śródręczno-paliczkowego palca V: pełny zakres ruchu 0 cm, brak ruchu 8 cm, opozycja (przeciwstawianie) maksymalna odległość między kresą zgięciową stawu międzypaliczkowego kciuka a kresą zgięciową stawów śródręczno-paliczkowych na wysokości III stawu śródręczno-paliczkowego: pełny zakres ruchu 8 cm, brak ruchu 0 cm.
+5) rozległe zmiany palca i ręki, graniczące z funkcjonalną utratą 20–25 15–20 palca wraz z pierwszą kością śródręcza Uwaga Przy ocenie stopnia zaburzeń czynności kciuka bierze się pod uwagę przede wszystkim zdolność odwodzenia, przeciwstawiania i chwytu.
+ZAKRESY RUCHOMOŚCI KCIUKA staw śródręczno-paliczkowy 0–60 (pozycja funkcjonalna 20 zgięcia), staw międzypaliczkowy 0–80 (pozycja funkcjonalna 20 zgięcia), odwodzenie 0–50 , przywodzenie – maksymalna odległość między kresą zgięciową stawu międzypaliczkowego kciuka a kresą zgięciową stawu śródręczno-paliczkowego palca V: pełny zakres ruchu – 0 cm, brak ruchu – 8 cm, opozycja (przeciwstawianie) – maksymalna odległość między kresą zgięciową stawu międzypaliczkowego kciuka a kresą zgięciową stawów śródręczno-paliczkowych na wysokości III stawu śródręczno-paliczkowego: pełny zakres ruchu – 8 cm, brak ruchu – 0 cm.
 PALEC WSKAZUJĄCY 137 Utrata w obrębie wskaziciela w zależności od zniekształceń, jakości kikuta, ograniczenia ruchów wskaziciela, upośledzenia funkcji ręki
 1) utrata częściowa lub całkowita opuszki 1–2 1
 2) utrata paliczka paznokciowego 3–5 2–3
@@ -514,18 +513,18 @@ PALEC WSKAZUJĄCY 137 Utrata w obrębie wskaziciela w zależności od zniekszta�
 3) zmiany dużego stopnia z ograniczeniem ruchomości 7–11 5–7 w zakresie 41–70%
 4) zmiany znacznego stopnia z ograniczeniem ruchomości 12–15 8–10 powyżej 70%
 5) rozległe zmiany palca i ręki, graniczące z funkcjonalną utratą 15–20 10–15 palca wraz z kością śródręcza PALEC TRZECI, CZWARTY I PIĄTY 139 Palec III, IV i V w zależności od poziomu utraty
-1) palec III utrata częściowa lub całkowita opuszki 1–2 1
-2) palec III utrata paliczka paznokciowego 3 2
-3) palec III utrata dwóch paliczków 7 5
-4) palec III utrata trzech paliczków 10 8
-5) palec IV utrata częściowa lub całkowita opuszki 1 0,5
-6) palec IV utrata paliczka paznokciowego 2 1
-7) palec IV utrata dwóch paliczków 4 2
-8) palec IV utrata trzech paliczków 7 3
-9) palec V za utratę każdego paliczka 1 1 140 Utrata palców III, IV lub V z kością śródręcza
+1) palec III – utrata częściowa lub całkowita opuszki 1–2 1
+2) palec III – utrata paliczka paznokciowego 3 2
+3) palec III – utrata dwóch paliczków 7 5
+4) palec III – utrata trzech paliczków 10 8
+5) palec IV – utrata częściowa lub całkowita opuszki 1 0,5
+6) palec IV – utrata paliczka paznokciowego 2 1
+7) palec IV – utrata dwóch paliczków 4 2
+8) palec IV – utrata trzech paliczków 7 3
+9) palec V – za utratę każdego paliczka 1 1 140 Utrata palców III, IV lub V z kością śródręcza
 1) palec III 12 10
 2) palec IV 9 5
-3) palec V 5 4 141 Wszelkie inne uszkodzenia w obrębie palców III, IV lub V złamania, zwichnięcia, uszkodzenia części miękkich w zależności od zniekształceń, zaburzeń czucia, ograniczenia ruchów palca, przykurczów stawów, zesztywnień, zmian troficznych i innych zmian wtórnych za każdy palec w zależności od stopnia
+3) palec V 5 4 141 Wszelkie inne uszkodzenia w obrębie palców III, IV lub V – złamania, zwichnięcia, uszkodzenia części miękkich w zależności od zniekształceń, zaburzeń czucia, ograniczenia ruchów palca, przykurczów stawów, zesztywnień, zmian troficznych i innych zmian wtórnych – za każdy palec w zależności od stopnia
 1) palec III
 a) ograniczenie ruchomości do 50% bez zmian wtórnych 1–2 1–2
 b) ograniczenie ruchomości powyżej 50% bez zmian 3–5 3–4 wtórnych
@@ -540,12 +539,12 @@ d) ograniczenie ruchomości powyżej 50% ze zmianami wtórnymi 5–7 3
 a) ograniczenie ruchomości do 50% bez zmian wtórnych 1 1
 b) ograniczenie ruchomości powyżej 50% bez zmian wtórnych 2 2
 c) ograniczenie ruchomości do 50% ze zmianami wtórnymi 2 2
-d) ograniczenie ruchomości powyżej 50% ze zmianami 3 3 wtórnymi Uwaga Łączny stopień pourazowego uszczerbku ręki nie może przekroczyć: 55% dominującej i 50% niedominującej.
+d) ograniczenie ruchomości powyżej 50% ze zmianami 3 3 wtórnymi Uwaga Łączny stopień pourazowego uszczerbku ręki nie może przekroczyć: 55% – dominującej i 50% – niedominującej.
 Przy uszkodzeniach obejmujących większą liczbę palców globalna ocena musi być niższa niż łączna całkowita utrata tych palców i odpowiadać stopniowi użyteczności ręki.
-ZAKRESY RUCHOMOŚCI PALCE II–V: staw śródręczno-paliczkowy 0–90 (pozycja funkcjonalna 30 zgięcia), staw międzypaliczkowy bliższy 0–100 (pozycja funkcjonalna 40 zgięcia), staw międzypaliczkowy dalszy 0–70 (pozycja funkcjonalna 20 zgięcia).
+ZAKRESY RUCHOMOŚCI – PALCE II–V: staw śródręczno-paliczkowy 0–90 (pozycja funkcjonalna 30 zgięcia), staw międzypaliczkowy bliższy 0–100 (pozycja funkcjonalna 40 zgięcia), staw międzypaliczkowy dalszy 0–70 (pozycja funkcjonalna 20 zgięcia).
 USZKODZENIA KOŃCZYNY DOLNEJ STAW BIODROWY 142 Utrata kończyny dolnej
 1) przez wyłuszczenie jej w stawie biodrowym 70
-2) odjęcie powyżej ½ uda 60 143 Uszkodzenia stawu biodrowego zwichnięcia, złamania panewki, złamania bliższej nasady kości udowej, złamania szyjki, złamania krętarzowe, urazowe złuszczenia głowy kości udowej oraz uszkodzenia tkanek miękkich okolicy stawu biodrowego w zależności od ubytków, stopnia ograniczenia ruchów, zniekształceń i zmian wtórnych
+2) odjęcie powyżej ½ uda 60 143 Uszkodzenia stawu biodrowego – zwichnięcia, złamania panewki, złamania bliższej nasady kości udowej, złamania szyjki, złamania krętarzowe, urazowe złuszczenia głowy kości udowej oraz uszkodzenia tkanek miękkich okolicy stawu biodrowego w zależności od ubytków, stopnia ograniczenia ruchów, zniekształceń i zmian wtórnych
 1) niewielkie zmiany z ograniczeniem ruchomości do 30% 2–12
 2) średnie zmiany z ograniczeniem ruchomości w zakresie 31–60% 13–24
 3) duże zmiany z ograniczeniem ruchomości powyżej 60% 24–50 144 Zesztywnienie stawu biodrowego w zależności od ustawienia i wtórnych zaburzeń statyki i dynamiki
@@ -595,7 +594,7 @@ PODUDZIE 158 Złamanie kości podudzia w zależności od zniekształceń, skróc
 3) znaczne zmiany z ograniczeniem ruchomości powyżej 50% 11–20 161 Utrata kończyny w obrębie podudzia w zależności od charakteru kikuta, długości, przydatności do protezowania i zmian wtórnych w obrębie kończyny
 1) przy długości kikuta do 8 cm, mierząc od szpary stawowej 50
 2) przy dłuższych kikutach 45–49 Uwaga W przypadku gdy deficyt funkcji kończyny dolnej wynika z nakładania się skutków uszkodzeń podudzia oraz uszkodzeń neurologicznych, deficyt funkcji kończyny ocenia się wyłącznie według poz. 181. W przypadku nienakładania się deficytów ocenia się dodatkowo według poz. 181.
-STAW GOLENIOWO-SKOKOWY I SKOKOWO-PIĘTOWY, STOPA 162 Uszkodzenie stawu skokowo-goleniowego i skokowo-piętowego złamania, skręcenia, zwichnięcia, uszkodzenia więzadeł, torebki stawowej itp. w zależności od zniekształceń, ograniczenia ruchomości, zmian wtórnych i utrzymujących się dolegliwości
+STAW GOLENIOWO-SKOKOWY I SKOKOWO-PIĘTOWY, STOPA 162 Uszkodzenie stawu skokowo-goleniowego i skokowo-piętowego – złamania, skręcenia, zwichnięcia, uszkodzenia więzadeł, torebki stawowej itp. w zależności od zniekształceń, ograniczenia ruchomości, zmian wtórnych i utrzymujących się dolegliwości
 1) niewielkiego stopnia z ograniczeniem ruchomości do 20% 1–5
 2) średniego stopnia z ograniczeniem ruchomości w zakresie 6–10 21–50%
 3) dużego stopnia z ograniczeniem ruchomości powyżej 50% 11–20
@@ -618,16 +617,16 @@ b) znaczne zmiany, zniekształcenie, ograniczenie ruchomości 6–10 stopy
 a) niewielkie zmiany bez zniekształceń 1–3
 b) znaczne zmiany, zniekształcenie, ograniczenie ruchomości 4–7 stopy
 3) złamania dwóch kości śródstopia w zależności od zniekształceń 2–10 i zaburzeń czynnościowych
-4) złamania trzech i więcej kości śródstopia w zależności od 3–15 zniekształceń i zaburzeń czynnościowych 168 Złamania kości śródstopia powikłane zapaleniem kości, ocenia się według poz. 167, przetokami, wtórnymi zmianami troficznymi zwiększając stopień uszczerbku o 5% 169 Inne uszkodzenia okolicy stępu i śródstopia skręcenia, stłuczenia, uszkodzenia mięśni, ścięgien w zależności od zniekształceń, zmian troficznych, zaburzeń dynamicznych stopy i innych zmian wtórnych
+4) złamania trzech i więcej kości śródstopia w zależności od 3–15 zniekształceń i zaburzeń czynnościowych 168 Złamania kości śródstopia powikłane zapaleniem kości, ocenia się według poz. 167, przetokami, wtórnymi zmianami troficznymi zwiększając stopień uszczerbku o 5% 169 Inne uszkodzenia okolicy stępu i śródstopia – skręcenia, stłuczenia, uszkodzenia mięśni, ścięgien w zależności od zniekształceń, zmian troficznych, zaburzeń dynamicznych stopy i innych zmian wtórnych
 1) zmiany niewielkie 1–5
 2) średnie zmiany 6–10
 3) duże zmiany 11–15 170 Utrata stopy w całości 45 171 Utrata stopy na poziomie stawu Choparta 40 172 Utrata stopy na poziomie stawu Lisfranka 35 173 Utrata stopy w obrębie kości śródstopia w zależności od 20–30 rozległości utraty przodostopia i jakości kikuta Uwaga W przypadku gdy deficyt funkcji kończyny dolnej wynika z nakładania się skutków uszkodzeń stopy oraz uszkodzeń neurologicznych, deficyt funkcji kończyny ocenia się wyłącznie według poz. 181. W przypadku nienakładania się deficytów ocenia się dodatkowo według poz. 181.
 ZAKRESY RUCHOMOŚCI STAWU SKOKOWEGO Zgięcie grzbietowe 0–20°, zgięcie podeszwowe 0–(40–50°), nawracanie 0–10°, odwracanie 0–40°, przywodzenie 0–10°, odwodzenie 0–10°.
 PALCE STOPY 174 Utrata w zakresie palucha w zależności od wielkości ubytków, charakteru kikuta
-1) ubytki opuszki lub częściowa utrata paliczka paznokciowego palucha 1–3
+1) ubytki opuszki lub częściowa utrata paliczka paznokciowego 1–3 palucha
 2) utrata paliczka paznokciowego palucha 4
 3) utrata w obrębie paliczka podstawnego palucha 5–7
-4) utrata paliczka podstawnego palucha 8 175 Inne uszkodzenia palucha zwichnięcia, złamania, uszkodzenia tkanek miękkich w zależności od rozległości blizn, ubytków, zniekształcenia, upośledzenia funkcji stopy, ograniczenia ruchomości
+4) utrata paliczka podstawnego palucha 8 175 Inne uszkodzenia palucha – zwichnięcia, złamania, uszkodzenia tkanek miękkich w zależności od rozległości blizn, ubytków, zniekształcenia, upośledzenia funkcji stopy, ograniczenia ruchomości
 1) niewielkie zmiany z ograniczeniem ruchomości do 30% 1–2
 2) średnie zmiany z ograniczeniem ruchomości w zakresie 31–50% 3–4
 3) duże zmiany z ograniczeniem ruchomości powyżej 50% 5–7 176 Utrata palucha
@@ -635,7 +634,7 @@ PALCE STOPY 174 Utrata w zakresie palucha w zależności od wielkości ubytków,
 2) wraz z co najmniej trzema innymi palcami stopy 15
 3) wraz ze wszystkimi innymi palcami stopy 20 177 Utrata w zakresie palców II, III, IV, V
 1) częściowa utrata 1
-2) całkowita utrata 2 178 Utrata palca V z kością śródstopia 3–8 179 Utrata palców II, III, IV z kością śródstopia w zależności od 3–5 wielkości utraty kości śródstopia, ustawienia stopy i innych zmian wtórnych 180 Uszkodzenia II, III, IV i V palca zwichnięcia, złamania, uszkodzenia tkanek miękkich w zależności od rozległości ubytków, zniekształcenia, ustawienia, stopnia upośledzenia funkcji i liczby uszkodzonych palców
+2) całkowita utrata 2 178 Utrata palca V z kością śródstopia 3–8 179 Utrata palców II, III, IV z kością śródstopia w zależności od 3–5 wielkości utraty kości śródstopia, ustawienia stopy i innych zmian wtórnych 180 Uszkodzenia II, III, IV i V palca – zwichnięcia, złamania, uszkodzenia tkanek miękkich w zależności od rozległości ubytków, zniekształcenia, ustawienia, stopnia upośledzenia funkcji i liczby uszkodzonych palców
 1) średnie i znaczne zmiany w obrębie każdego palca 1
 2) łącznie za wszystkie uszkodzone palce II–V jednej stopy 1–5 ZAKRESY RUCHOMOŚCI PALCÓW STOPY zgięcie 0–40° (czynne), 0–60° (bierne), wyprost 0–45° (czynne), 0–80° (bierne) Uwaga Łączny stopień pourazowego uszczerbku kończyny dolnej nie może przekroczyć wartości za amputację na tym poziomie.
 Wartość uszczerbku ustalona za uszkodzenie jednego palca nie może przekroczyć wartości przewidzianej za całkowitą utratę tego palca.
@@ -650,7 +649,7 @@ PORAŻENIA LUB NIEDOWŁADY POSZCZEGÓLNYCH NERWÓW OBWODOWYCH 181 Uszkodzenie cz
 8) nerwu promieniowego po wyjściu z kanału mięśnia 2–15 1–10 odwracacza przedramienia części czuciowej, ruchowej lub całego nerwu
 9) nerwu pośrodkowego w zakresie ramienia części czuciowej, 3–35 2–25 ruchowej lub całego nerwu
 10) nerwu pośrodkowego w zakresie nadgarstka części czuciowej, 3–20 2–15 ruchowej lub całego nerwu
-11) nerwu łokciowego części czuciowej, ruchowej lub całego 2–25 1–20 nerwu
+11) nerwu łokciowego – części czuciowej, ruchowej lub całego 2–25 1–20 nerwu
 12) splotu barkowego części nadobojczykowej (górnej) 10–25 5–20
 13) splotu barkowego części podobojczykowej (dolnej) 10–45 4–40
 14) pozostałych nerwów odcinka szyjno-piersiowego 1–15
@@ -666,9 +665,9 @@ PORAŻENIA LUB NIEDOWŁADY POSZCZEGÓLNYCH NERWÓW OBWODOWYCH 181 Uszkodzenie cz
 182 Kauzalgie potwierdzone obserwacją szpitalną w zależności od 10–40 stopnia Uwaga W ocenie tej zawiera się deficyt związany z uszkodzeniem typowym dla danego nerwu.
 Przy wielomiejscowych uszkodzeniach kończyny górnej lub dolnej (lub jej części) w ustaleniu stopnia uszczerbku na zdrowiu bierze się pod uwagę całkowitą funkcję kończyny (lub jej części), a nie tylko wynik matematyczny sumowania procentów trwałego uszczerbku za poszczególne uszkodzenia.
 Łączny stopień pourazowego uszczerbku kończyny dolnej nie może przekroczyć wartości za amputację na tym poziomie.
-Uszkodzenie kikuta amputowanych kończyn wymagające zmiany protezy, reamputacji lub niemożności zastosowania protezy ocenia się według amputacji na wyższym poziomie.
-Przy bliznach po oparzeniach skóry powyżej stopnia IIA zalecana jest dodatkowa ocena z tytułu utraty funkcji skóry: na twarzy za 1% TBSA 5% uszczerbku, na szyi za 1% TBSA 2% uszczerbku, na kończynach za 1% TBSA 1% uszczerbku, na rękach za 1% TBSA 4% uszczerbku, na tułowiu za 3% TBSA 1% uszczerbku.
-CHOROBY POZOSTAJĄCE W ZWIĄZKU Z PEŁNIENIEM SŁUŻBY 183 PTSD zespół stresu pourazowego 10–40 184 Zaburzenia osobowości 20–40 185 Zaburzenia lękowe
+Uszkodzenie kikuta amputowanych kończyn wymagające zmiany protezy, reamputacji lub niemożności zastosowania protezy – ocenia się według amputacji na wyższym poziomie.
+Przy bliznach po oparzeniach skóry powyżej stopnia IIA zalecana jest dodatkowa ocena z tytułu utraty funkcji skóry: na twarzy za 1% TBSA – 5% uszczerbku, na szyi za 1% TBSA – 2% uszczerbku, na kończynach za 1% TBSA – 1% uszczerbku, na rękach za 1% TBSA – 4% uszczerbku, na tułowiu za 3% TBSA – 1% uszczerbku.
+CHOROBY POZOSTAJĄCE W ZWIĄZKU Z PEŁNIENIEM SŁUŻBY 183 PTSD – zespół stresu pourazowego 10–40 184 Zaburzenia osobowości 20–40 185 Zaburzenia lękowe
 1) fobie 10–30
 2) zespół lęku uogólnionego 10–40
 3) zespół lęku panicznego 10–40
@@ -721,8 +720,7 @@ CHOROBY POZOSTAJĄCE W ZWIĄZKU Z PEŁNIENIEM SŁUŻBY 183 PTSD zespół stresu 
 4) zwyrodnienie rogówki wywołane czynnikami drażniącymi 0–30
 5) zaćma wywołana działaniem promieniowania podczerwonego 20–40 lub długofalowego nadfioletowego
 6) centralne zmiany zwyrodnieniowe siatkówki i naczyniówki 40–90 wywołane krótkofalowym promieniowaniem podczerwonym lub promieniowaniem widzialnym z obszaru widma niebieskiego Uwaga Oceny narządu wzroku dokonuje się według poz. 27–41.
-206 Choroby zakaźne lub pasożytnicze albo ich następstwa.
-Choroby powstałe w wyniku powikłań szczepień ochronnych, wykonanych w związku ze służbą na określonym stanowisku, zapalenie mięśnia sercowego, wsierdzia, osierdzia w przebiegu chorób o etiologii bakteryjnej, wirusowej lub pasożytniczej (dotyczy również gruźlicy) 0–70 207 Zaawansowana przewlekła niewydolność żylna kończyn 20–50 dolnych stadium minimum C4B według klasyfikacji CEAP 208 Choroby skóry
+206 Choroby zakaźne lub pasożytnicze albo ich następstwa. 0–70 Choroby powstałe w wyniku powikłań szczepień ochronnych, wykonanych w związku ze służbą na określonym stanowisku, zapalenie mięśnia sercowego, wsierdzia, osierdzia w przebiegu chorób o etiologii bakteryjnej, wirusowej lub pasożytniczej (dotyczy również gruźlicy) 207 Zaawansowana przewlekła niewydolność żylna kończyn 20–50 dolnych – stadium minimum C4B według klasyfikacji CEAP 208 Choroby skóry
 1) alergiczne kontaktowe zapalenie skóry 0–30
 2) kontaktowe zapalenie skóry z podrażnienia 0–30
 3) trądzik olejowy, smarowy lub chlorowy o rozległym charakterze 0–15

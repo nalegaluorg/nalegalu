@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych.*
 
-Łącznie: **1822** orzeczeń
-(pominięto 2451 orzeczeń sądów rejonowych)
+Łącznie: **1824** orzeczeń
+(pominięto 2466 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 
@@ -47,7 +47,7 @@ Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o ubezpieczeniu
 - 2016-03-17 | SO | [VIII U 1982/15](https://www.saos.org.pl/judgments/214557) | Uzasadnienie
 - 2015-11-05 | SO | [VII Pa 125/15](https://www.saos.org.pl/judgments/188192) | Uzasadnienie
 
-## art. 3 (468)
+## art. 3 (469)
 
 - 2009-04-07 | SN | [I UZP 2/09](https://www.saos.org.pl/judgments/90006) | Uchwała ★
 - 2006-03-29 | SN | [II PZP 14/05](https://www.saos.org.pl/judgments/84208) | Uchwała ★
@@ -183,6 +183,7 @@ Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o ubezpieczeniu
 - 2026-01-29 | SO | [IV U 167/25](https://www.saos.org.pl/judgments/540960) | Wyrok
 - 2025-11-17 | SO | [VI U 135/24](https://www.saos.org.pl/judgments/540876) | Wyrok
 - 2025-11-03 | SO | [VI U 155/25](https://www.saos.org.pl/judgments/540905) | Wyrok
+- 2025-07-22 | SO | [VI U 385/21](https://www.saos.org.pl/judgments/546464) | Wyrok
 - 2025-05-20 | SO | [IV U 138/24](https://www.saos.org.pl/judgments/527343) | Wyrok
 - 2025-04-07 | SO | [VII Ua 11/24](https://www.saos.org.pl/judgments/525937) | Wyrok
 - 2025-03-17 | SO | [IV U 86/24](https://www.saos.org.pl/judgments/523686) | Wyrok
@@ -559,7 +560,7 @@ Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o ubezpieczeniu
 - 2014-03-19 | SO | [I Ca 30/14](https://www.saos.org.pl/judgments/144822) | Wyrok
 - 2014-05-07 | SO | [VII Ua 42/14](https://www.saos.org.pl/judgments/45134) | Uzasadnienie
 
-## art. 6 (593)
+## art. 6 (594)
 
 - 2003-01-29 | TK | [P 18/02](https://www.saos.org.pl/judgments/106365) | Postanowienie ★
 - 2014-04-17 | SN | [I UK 372/13](https://www.saos.org.pl/judgments/104945) | Wyrok ★
@@ -865,6 +866,7 @@ Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o ubezpieczeniu
 - 2021-05-20 | SO | [III AUa 447/21](https://www.saos.org.pl/judgments/486672) | Uzasadnienie
 - 2020-09-04 | SO | [III AUa 1662/19](https://www.saos.org.pl/judgments/464768) | Uzasadnienie
 - 2016-11-23 | SO | [III AUa 486/16](https://www.saos.org.pl/judgments/257410) | Uzasadnienie
+- 2026-04-29 | SO | [VII U 1621/24](https://www.saos.org.pl/judgments/547120) | Wyrok
 - 2025-12-19 | SO | [VII U 1027/24](https://www.saos.org.pl/judgments/540978) | Wyrok
 - 2025-12-02 | SO | [VII U 475/21](https://www.saos.org.pl/judgments/540818) | Wyrok
 - 2025-11-19 | SO | [VII U 692/22](https://www.saos.org.pl/judgments/538969) | Wyrok
@@ -1155,10 +1157,11 @@ Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o ubezpieczeniu
 - 2014-05-07 | SO | [VII Ua 42/14](https://www.saos.org.pl/judgments/45134) | Uzasadnienie
 - 2014-04-22 | SO | [VII Ua 40/14](https://www.saos.org.pl/judgments/44459) | Uzasadnienie
 
-## art. 7 (21)
+## art. 7 (22)
 
 - 2008-05-13 | SN | [II PZP 8/08](https://www.saos.org.pl/judgments/88081) | Postanowienie
 - 2018-10-10 | SO | [III AUa 285/18](https://www.saos.org.pl/judgments/359052) | Wyrok
+- 2026-04-29 | SO | [VII U 1621/24](https://www.saos.org.pl/judgments/547120) | Wyrok
 - 2023-07-25 | SO | [VII U 391/21](https://www.saos.org.pl/judgments/512098) | Wyrok
 - 2020-09-15 | SO | [VI U 94/20](https://www.saos.org.pl/judgments/425535) | Wyrok
 - 2019-03-28 | SO | [VII Ua 13/19](https://www.saos.org.pl/judgments/390238) | Wyrok
@@ -1190,12 +1193,13 @@ Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o ubezpieczeniu
 - 2019-09-26 | SO | [VIII Ua 25/19](https://www.saos.org.pl/judgments/394297) | Uzasadnienie
 - 2017-11-23 | SO | [VIII U 2823/16](https://www.saos.org.pl/judgments/324395) | Zarządzenie
 
-## art. 9 (48)
+## art. 9 (49)
 
 - 2009-04-28 | SN | [II UK 342/08](https://www.saos.org.pl/judgments/90135) | Wyrok ★
 - 2007-04-18 | SN | [I UK 339/06](https://www.saos.org.pl/judgments/85683) | Wyrok ★
 - 2006-01-24 | SN | [I UK 122/05](https://www.saos.org.pl/judgments/84053) | Wyrok ★
 - 2018-05-23 | SO | [III APa 19/17](https://www.saos.org.pl/judgments/390670) | Wyrok
+- 2025-07-22 | SO | [VI U 385/21](https://www.saos.org.pl/judgments/546464) | Wyrok
 - 2022-07-11 | SO | [VI U 274/20](https://www.saos.org.pl/judgments/478206) | Wyrok
 - 2022-01-28 | SO | [VII Ua 84/21](https://www.saos.org.pl/judgments/460258) | Wyrok
 - 2021-12-28 | SO | [VI U 272/20](https://www.saos.org.pl/judgments/462508) | Wyrok

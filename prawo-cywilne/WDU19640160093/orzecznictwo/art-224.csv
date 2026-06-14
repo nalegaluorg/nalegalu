@@ -165,6 +165,8 @@ saos_id|date|court|case_number|type|score|saos_url
 87401|2008-02-21|SN|III CZP 145/07|Postanowienie|69|https://www.saos.org.pl/judgments/87401
 164614|2006-11-10|SN|I CSK 219/06|Postanowienie|69|https://www.saos.org.pl/judgments/164614
 164107|2006-02-28|SN|III CZP 3/06|Postanowienie|69|https://www.saos.org.pl/judgments/164107
+545235|2026-03-30|SO|V ACa 662/17|Wyrok|56|https://www.saos.org.pl/judgments/545235
+546256|2025-12-22|SO|I ACa 1848/22|Wyrok|56|https://www.saos.org.pl/judgments/546256
 544448|2025-11-20|SO|I ACa 951/25|Wyrok|56|https://www.saos.org.pl/judgments/544448
 538173|2025-10-29|SO|I ACa 1145/23|Wyrok|56|https://www.saos.org.pl/judgments/538173
 544003|2025-10-15|SO|I AGa 94/23|Wyrok|56|https://www.saos.org.pl/judgments/544003
@@ -172,6 +174,7 @@ saos_id|date|court|case_number|type|score|saos_url
 533646|2025-07-11|SO|I ACa 2116/24|Wyrok|56|https://www.saos.org.pl/judgments/533646
 542424|2025-06-10|SO|I ACa 647/20|Wyrok|56|https://www.saos.org.pl/judgments/542424
 525479|2025-04-01|SO|I ACa 1554/24|Wyrok|56|https://www.saos.org.pl/judgments/525479
+545979|2025-03-31|SO|I ACa 1580/24|Wyrok|56|https://www.saos.org.pl/judgments/545979
 525482|2025-03-05|SO|I ACa 2000/23|Wyrok|56|https://www.saos.org.pl/judgments/525482
 535822|2025-02-03|SO|I ACa 1833/22|Wyrok|56|https://www.saos.org.pl/judgments/535822
 536152|2025-01-31|SO|I AGa 318/24|Wyrok|56|https://www.saos.org.pl/judgments/536152
@@ -1807,6 +1810,7 @@ saos_id|date|court|case_number|type|score|saos_url
 482375|2022-06-30|SO|II Ca 120/22|Postanowienie|31|https://www.saos.org.pl/judgments/482375
 462684|2022-01-11|SO|VIII Ns 262/20|Postanowienie|31|https://www.saos.org.pl/judgments/462684
 454868|2021-12-31|SO|II Ca 789/21|Postanowienie|31|https://www.saos.org.pl/judgments/454868
+547060|2021-11-10|SO|II Ca 3192/19|Postanowienie|31|https://www.saos.org.pl/judgments/547060
 449882|2021-06-22|SO|II Ca 32/19|Postanowienie|31|https://www.saos.org.pl/judgments/449882
 449541|2021-05-28|SO|XV Ca 1156/20|Postanowienie|31|https://www.saos.org.pl/judgments/449541
 441757|2021-03-25|SO|II Ca 908/20|Postanowienie|31|https://www.saos.org.pl/judgments/441757

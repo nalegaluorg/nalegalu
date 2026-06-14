@@ -8,10 +8,10 @@ pos: 2290
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Poz. 2290 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY dnia 4 grudnia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2290 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 4 grudnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2290/text.pdf) |
 
-sprawie przekazywania informacji temat aktualnej ilości wód balastowych oraz przeprowadzonych operacji balastowych statku Na podstawie art. 20f ust. 3 ustawy dnia 16 marca 1995 r. zapobieganiu zanieczyszczaniu morza przez statki (Dz. U.
-2020 r. poz. 1955) zarządza się, co następuje: § 1. Określa się wzór formularza dotyczącego przekazywania przed zawinięciem do portu znajdującego się terytorium Rzeczypospolitej Polskiej informacji temat aktualnej ilości wód balastowych statku oraz przeprowadzonych operacji balastowych statku, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia.
-Minister Infrastruktury: A. Adamczyk M ………… W ………… …………… …………… ………… W W W W …… …… ………………………………………………………………… … … … … W … … ……………… ………… …………… … ………………………… ……… ………………………………… W W W
+w sprawie przekazywania informacji na temat aktualnej ilości wód balastowych oraz przeprowadzonych operacji balastowych na statku Na podstawie art. 20f ust. 3 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U.
+z 2020 r. poz. 1955) zarządza się, co następuje:
+§ 1. Określa się wzór formularza dotyczącego przekazywania przed zawinięciem do portu znajdującego się na terytorium Rzeczypospolitej Polskiej informacji na temat aktualnej ilości wód balastowych na statku oraz przeprowadzonych operacji balastowych na statku, stanowiący załącznik do rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+Minister Infrastruktury: A. Adamczyk m … … W M ………… m W ………… …………… W m …………… ………… W m m ……………………………………………………………………………………………… … … …………………………………… …… … … ………………………………………………………………… …………… … … ………………………………… … … W … ………… W ……… …………………………………………………… ……………… ………………………………………………… ………………………… …… W W W W W
 

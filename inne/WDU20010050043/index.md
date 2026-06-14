@@ -8,10 +8,12 @@ pos: 43
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o żegludze śródlądowej
+
+*USTAWA z dnia 21 grudnia 2000 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -22,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2000-12-21 |
 | Data wydania | 2001-01-24 |
-| Ostatnia zmiana | 2026-01-12 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010050043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/43/text.pdf) |
 
 Art. 64–68. (pominięte)
@@ -31,7 +33,7 @@ Art. 64–68. (pominięte)
 
 **Art. 1.**
 
-1. Ustawa reguluje sprawy związane z uprawianiem żeglugi na wodach śródlądowych uznanych za żeglowne na podstawie przepisów Prawa wodnego, zwanych dalej „śródlądowymi drogami wodnymi”. USTAWA
+1. Ustawa reguluje sprawy związane z uprawianiem żeglugi na wodach śródlądowych uznanych za żeglowne na podstawie przepisów Prawa wodnego, zwanych dalej „śródlądowymi drogami wodnymi”.
 
 2. Ustawa określa:
 
@@ -581,6 +583,12 @@ Art. 64–68. (pominięte)
 
 **Art. 27.** Statek może być używany w żegludze śródlądowej, jeżeli odpowiada wymaganiom bezpieczeństwa w zakresie:
 
+- **1)** budowy, jego stałych urządzeń i wyposażenia;
+- **2)** właściwości manewrowych;
+- **3)** ochrony wód, powietrza lub ochrony przed hałasem;
+- **4)** warunków sanitarnych oraz bezpieczeństwa i higieny pracy;
+- **5)** składu i kwalifikacji załogi.
+
 **Art. 27a.**
 
 1. Statki morskie zarejestrowane na podstawie ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m mogą być używane w żegludze śródlądowej pod warunkiem spełniania wymagań określonych w ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068).
@@ -774,6 +782,86 @@ Art. 64–68. (pominięte)
 2. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wzór rejestru unijnych świadectw zdolności żeglugowej, kierując się wymaganiami prawa Unii Europejskiej.
 
 **Art. 34a.** (uchylony) Art. 34aa. 1. Dyrektor urzędu żeglugi śródlądowej na wniosek osoby, która uprawdopodobni swój uzasadniony interes, zapewnia dostęp do unijnego świadectwa zdolności żeglugowej. 2. Dostęp do unijnego świadectwa zdolności żeglugowej realizowany jest przez:
+
+- **1)** wgląd do unijnego świadectwa zdolności żeglugowej;
+- **2)** sporządzenie wyciągu lub uwierzytelnionego odpisu z unijnego świadectwa zdolności żeglugowej.
+
+3. Dyrektor urzędu żeglugi śródlądowej odmawia dostępu do danego unijnego świadectwa zdolności żeglugowej, o którym mowa w ust. 1, w drodze decyzji, w przypadku gdy zapewnienie dostępu do unijnego świadectwa zdolności żeglugowej naruszałoby przepisy innych ustaw, w szczególności ograniczających i wyłączających dostęp do informacji.
+
+4. Za sporządzenie wyciągu lub odpisu, o których mowa w ust. 2 pkt 2, pobiera się opłatę w wysokości określonej w załączniku do ustawy. Art. 34ab. 1. Dyrektor urzędu żeglugi śródlądowej wprowadza do Bazy EHDB, niezwłocznie po ich uzyskaniu, informacje o:
+
+- **1)** danych identyfikujących i opisujących statki, w tym jednolity europejski numer identyfikacyjny statku (ENI);
+- **2)** wydanych, odnowionych, przedłużonych i cofniętych unijnych świadectwach zdolności żeglugowej, tymczasowych unijnych świadectwach zdolności żeglugowej, uzupełniających unijnych świadectwach zdolności żeglugowej oraz wydanych duplikatach tych dokumentów, wraz ze wskazaniem organu, który dokonał wskazanej czynności – załączając ich odwzorowanie cyfrowe;
+- **3)** złożonych wnioskach o wydanie dokumentów, o których mowa w pkt 2, w przypadku pozostawienia bez rozpoznania – załączając tę informację;
+- **4)** zmianach danych, o których mowa w pkt 1–3.
+
+2. Dyrektor urzędu żeglugi śródlądowej po uzyskaniu informacji o zezłomowaniu statku niezwłocznie usuwa jego dane z Bazy EHDB.
+
+3. Dyrektor urzędu żeglugi śródlądowej jest uprawniony do przekazania danych, o których mowa w ust. 1, stanowiących dane osobowe, organom państwa trzeciego lub organizacji międzynarodowej w indywidualnie rozpatrywanych przypadkach w celu:
+
+- **1)** stosowania dyrektywy 2016/1629;
+- **2)** stosowania dyrektywy 2005/44/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie zharmonizowanych usług informacji rzecznej (RIS) na śródlądowych drogach wodnych we Wspólnocie (Dz. Urz. UE L 255 z 30.09.2005, str. 152, z późn. zm. );
+- **3)** zapewnienia zarządzania ruchem na drogach wodnych oraz związaną z nim infrastrukturą;
+- **4)** utrzymania lub wzmacniania bezpieczeństwa żeglugi;
+- **5)** gromadzenia danych statystycznych.
+
+4. Przekazywanie danych osobowych następuje na zasadach i warunkach przewidzianych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
+
+5. Przekazywanie danych, o których mowa w ust. 1, następuje z zachowaniem przepisów o tajemnicy prawnie chronionej.
+
+6. Dane osobowe nie mogą być dalej przekazywane, chyba że dyrektor urzędu żeglugi śródlądowej wyrazi na to pisemną zgodę, określając warunki tego przekazania, w szczególności warunki wynikające z przepisów, o których mowa w ust. 4 i 5. Art. 34ac. 1. Instytucja klasyfikacyjna, mająca w Rzeczypospolitej Polskiej swoją siedzibę lub siedzibę swojego podmiotu zależnego, rozumianego jako podmiot upoważniony do wydawania decyzji w imieniu instytucji klasyfikacyjnej oraz do dokonywania wszelkich czynności, do których jest uprawniona instytucja klasyfikacyjna na podstawie przepisów dotyczących transportu śródlądowego, jeżeli ten podmiot zależny jest uprawniony do wydawania poświadczeń zgodności potwierdzających spełnienie przez statek wymagań, o których mowa w art. 34b ust. 3, może ubiegać się o uznanie przez Komisję Europejską na zasadach określonych w dyrektywie 2016/1629.
+
+2. Instytucja klasyfikacyjna może zostać uznana przez Komisję Europejską, o ile spełnia następujące wymagania:
+
+- **1)** posiada szerokie doświadczenie w ocenie projektów statków żeglugi śródlądowej oraz nadzorze nad ich budową;
+- **2)** posiada kompleksowe akty prawne regulujące kwestie projektowania, budowy i okresowych inspekcji statków żeglugi śródlądowej, w szczególności dotyczące obliczania stateczności zgodnie z częścią 9 załącznika do Umowy europejskiej dotyczącej międzynarodowego przewozu śródlądowymi drogami wodnymi towarów niebezpiecznych (ADN) (Dz. U. z 2023 r. poz. 1167), zwanej dalej „ADN”, które:
+    - **a)** są sporządzone co najmniej w języku niderlandzkim, angielskim, francuskim lub niemieckim,
+    - **b)** podlegają bieżącej aktualizacji i ulepszaniu na podstawie programów badawczo-rozwojowych oraz
+    - **c)** nie są sprzeczne z przepisami prawa powszechnie obowiązującymi, w tym z umowami międzynarodowymi;
+
+- **3)** publikuje corocznie swój rejestr statków;
+- **4)** jest niezależna od właścicieli statków i stoczni oraz od innych podmiotów prowadzących działalność komercyjną w zakresie projektowania, budowy, wyposażania, remontowania, eksploatacji lub ubezpieczania statków;
+- **5)** jej dochody nie mogą pochodzić od jednego podmiotu;
+- **6)** posiada dobrą reputację w zakresie transportu śródlądowego;
+- **7)** eksperci działający na jej odpowiedzialność mają dobrą reputację w zakresie transportu śródlądowego oraz posiadają odpowiednie kwalifikacje zawodowe;
+- **8)** zatrudnia odpowiednią liczbę pracowników, w szczególności pracowników technicznych, kadry kierowniczej, personelu pomocniczego, inspektorów i personelu badawczego, która jest dostosowana do wykonywania przez instytucję klasyfikacyjną zadań oraz możliwości rozwojowych, przy uwzględnieniu liczby i rodzaju statków podlegających ocenie przez tę instytucję;
+- **9)** dysponuje ona inspektorami przynajmniej w jednym państwie członkowskim;
+- **10)** prowadzi działalność zgodnie z kodeksem etycznym;
+- **11)** jej kierownictwo i administracja działa w sposób zapewniający poufność informacji określony w przepisach odrębnych;
+- **12)** jest przygotowana do udzielania ministrowi właściwemu do spraw żeglugi śródlądowej informacji dotyczących prowadzonej działalności związanej z wykonywaniem funkcji instytucji klasyfikacyjnej, spełnienia wymagań, o których mowa w pkt 1–11 oraz 13–16 i ust. 3, oraz informacji niezbędnych do realizacji funkcji, o której mowa w art. 6 ust. 1b;
+- **13)** jej zarząd określa i dokumentuje swoją politykę, cele i zobowiązania dotyczące jakości oraz wykonuje, aktualizuje i zapewnia dostępność i jawność tej polityki na wszystkich szczeblach swojej struktury organizacyjnej;
+- **14)** opracowuje, realizuje oraz utrzymuje efektywny wewnętrzny system jakości, oparty na odpowiednich uznanych międzynarodowych normach jakości, zapewniający zgodność z normą PN-EN ISO/IEC 17020:2012, uwzględniający zasady certyfikacji systemów jakości zintegrowanego systemu zarządzania i kontroli oraz posiadający certyfikat, o którym mowa w ust. 3;
+- **15)** zobowiązuje się do dostosowywania swoich wymagań do przepisów Unii Europejskiej oraz do przedstawienia Komisji Europejskiej we właściwym terminie wszelkich istotnych informacji;
+- **16)** zobowiązuje się okresowo konsultować z dotychczas uznanymi instytucjami klasyfikacyjnymi w celu zagwarantowania równoważności stosowanych przez nie norm technicznych i sposobów ich wdrażania oraz zezwalać na udział w opracowywaniu swoich przepisów, o których mowa w pkt 2, przedstawicielom państwa członkowskiego i innym zainteresowanym stronom.
+
+3. Do uzyskania uznania instytucji klasyfikacyjnej, o którym mowa w ust. 1, wymagane jest, aby system jakości posiadał certyfikat niezależnego organu kontrolnego uznawanego przez administrację państwa, w którym znajduje się siedziba główna instytucji klasyfikacyjnej lub jej oddział, znajdujący się w jednym z państw członkowskich. System jakości zapewnia w szczególności, że:
+
+- **1)** akty prawne, o których mowa w ust. 2 pkt 2, zostały ustanowione, były przestrzegane i systematycznie aktualizowane;
+- **2)** przestrzegane były wymagania dotyczące zadań statutowych, do których wykonywania instytucja klasyfikacyjna jest uprawniona;
+- **3)** zdefiniowane i udokumentowane zostały zakres odpowiedzialności, uprawnienia oraz wzajemne relacje pracowników, których praca wpływa na jakość usług instytucji klasyfikacyjnej;
+- **4)** całość pracy była wykonywana w kontrolowanych warunkach;
+- **5)** istniał system kontroli czynności i pracy inspektorów oraz personelu technicznego i administracyjnego zatrudnionego bezpośrednio przez instytucję klasyfikacyjną;
+- **6)** wymagania dotyczące głównych zadań statutowych, do których wykonywania instytucja klasyfikacyjna jest uprawniona, były realizowane jedynie przez inspektorów działających wyłącznie na jej potrzeby lub przez inspektorów działających wyłącznie na potrzeby innych uznanych instytucji klasyfikacyjnych albo pod bezpośrednim nadzorem takich inspektorów;
+- **7)** został wdrożony system podnoszenia kwalifikacji i kształcenia ustawicznego dla inspektorów;
+- **8)** prowadzona była dokumentacja potwierdzająca osiągnięcie wymaganych norm w zakresie pozycji objętych świadczonymi usługami, jak również skuteczne działanie systemu jakości;
+- **9)** istniał kompleksowy system planowych i udokumentowanych wewnętrznych kontroli działań związanych z jakością we wszystkich lokalizacjach instytucji.
+
+4. Instytucja klasyfikacyjna, o której mowa w ust. 1, ubiegająca się o uznanie przez Komisję Europejską składa za pośrednictwem ministra właściwego do spraw żeglugi śródlądowej do Komisji Europejskiej wniosek o uznanie. Do wniosku należy załączyć informacje i dokumenty potwierdzające spełnienie wymogów, o których mowa w ust. 2 i 3.
+
+5. Minister właściwy do spraw żeglugi śródlądowej niezwłocznie przekazuje wniosek wraz z załącznikami do Komisji Europejskiej.
+
+6. Minister właściwy do spraw żeglugi śródlądowej ogłasza, w drodze obwieszczenia, wykaz instytucji klasyfikacyjnych uznanych zgodnie z ust. 1. Art. 34ad. 1. Instytucja klasyfikacyjna uznana przez Komisję Europejską jest obowiązana do niezwłocznego, jednak nie później niż w terminie 30 dni od dnia wystąpienia zmiany, zawiadomienia ministra właściwego do spraw żeglugi śródlądowej o każdej zmianie:
+
+- **1)** jej nazwy lub adresu,
+- **2)** dotyczącej spełnienia wymagań, o których mowa w art. 34ac ust. 2 lub 3 – załączając dokumenty i informacje potwierdzające zmianę.
+
+2. Minister właściwy do spraw żeglugi śródlądowej niezwłocznie informuje Komisję Europejską o zmianach, o których mowa w ust. 1 pkt 1.
+
+3. W przypadku powzięcia przez ministra właściwego do spraw żeglugi śródlądowej informacji o niespełnianiu przez uznaną instytucję klasyfikacyjną któregokolwiek z wymagań, o których mowa w art. 34ac ust. 2 lub 3, jest on uprawniony do przeprowadzenia w tym zakresie kontroli na zasadach i w trybie określonych w przepisach rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222).
+
+4. Jeżeli w wyniku przeprowadzonej kontroli lub w przypadku zawiadomienia, o którym mowa w ust. 1 pkt 2, uprawdopodobniono niespełnienie przez uznaną instytucję klasyfikacyjną któregokolwiek z wymagań, o których mowa w art. 34ac ust. 2 lub 3, minister właściwy do spraw żeglugi śródlądowej występuje z wnioskiem do Komisji Europejskiej o cofnięcie uznania dla danej instytucji klasyfikacyjnej.
+
+5. Minister właściwy do spraw żeglugi śródlądowej wraz z wnioskiem, o którym mowa w ust. 4, przekazuje dokumenty stanowiące podstawę tego wniosku.
 
 **Art. 34b.**
 
@@ -1068,6 +1156,9 @@ Art. 64–68. (pominięte)
 5. Przepisów ust. 1–3 dotyczących kwalifikacji załóg nie stosuje się do załogi statku przeznaczonego lub używanego wyłącznie do uprawiania sportu lub rekreacji.
 
 **Art. 35a.** Do uzyskania albo przedłużenia ważności:
+
+- **1)** unijnych świadectw kwalifikacji i szczególnego zezwolenia dla kapitana – jest wymagana praktyka pływania, liczona w dniach, odbyta przez członków załogi statków żeglugi śródlądowej w służbie pokładowej na pokładzie statku żeglugi w trakcie rejsu po śródlądowych drogach wodnych państw członkowskich, a w przypadku śródlądowych dróg wodnych, które nie leżą w całości na terytorium Unii Europejskiej, również na odcinkach położonych poza tym terytorium, w tym również operacje załadunku i rozładunku wymagające czynnych działań nawigacyjnych;
+- **2)** dokumentów kwalifikacyjnych innych niż wymienione w pkt 1 – jest wymagana praktyka pływania, liczona w dniach, odbyta przez członków załogi statku żeglugi śródlądowej odpowiednio w służbie pokładowej lub mechanicznej na pokładzie statku w trakcie rejsu po wodach śródlądowych, w tym również operacje załadunku i rozładunku wymagające czynnych działań nawigacyjnych.
 
 **Art. 35b.**
 
@@ -2084,6 +2175,9 @@ Art. 64–68. (pominięte)
 
 **Art. 46.** Minister właściwy do spraw żeglugi śródlądowej, mając na względzie konieczność zapewnienia bezpieczeństwa ruchu żeglugowego, określi, w drodze rozporządzenia, szczegółowe przepisy żeglugowe normujące:
 
+- **1)** ruch i postój statków na szlaku żeglownym i w portach, sygnalizację wzrokową i dźwiękową oraz łączność radiową na śródlądowych drogach wodnych,
+- **2)** sposoby oznakowania nawigacyjnego szlaku żeglownego, budowli i urządzeń hydrotechnicznych, przeszkód nawigacyjnych oraz budowli i linii przesyłowych, wzory znaków i sygnałów żeglugowych, ich znaczenie i zakres obowiązywania, kierując się obowiązującymi w tym zakresie wymaganiami międzynarodowymi.
+
 **Art. 47.**
 
 1. Zabrania się wyrzucania ze statków przedmiotów i wylewania substancji mogących stanowić przeszkodę lub niebezpieczeństwo dla żeglugi bądź innych użytkowników śródlądowych dróg wodnych albo zanieczyszczać drogę wodną.
@@ -2206,6 +2300,10 @@ Art. 64–68. (pominięte)
 
 **Art. 52.** Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki wykonywania pilotażu i sprawowania nadzoru nad jego wykonywaniem,
+- **2)** tryb przeprowadzania egzaminów na pilota i sprawdzianów dla uzyskania świadectwa zwolnienia z obowiązku korzystania z pilotażu,
+- **3)** wzory i tryb wydawania uprawnień pilotowych oraz świadectwa zwolnienia z obowiązku korzystania z pilotażu, mając na względzie zapewnienie prawidłowej realizacji usług pilotowych.
+
 #### Rozdział 8 Wypadki żeglugowe
 
 **Art. 53.**
@@ -2232,19 +2330,51 @@ Art. 64–68. (pominięte)
 
 **Art. 56.** Członkowi załogi statku uznanemu winnym naruszenia przepisów żeglugowych lub przepisów dotyczących obsługi maszyn lub urządzeń statku dyrektor urzędu żeglugi śródlądowej może w drodze decyzji administracyjnej:
 
+- **1)** udzielić ostrzeżenia o grożącym zawieszeniu uprawnień zawodowych wynikających z posiadanego dokumentu kwalifikacyjnego, jeżeli naruszenie przepisów stworzyło zagrożenie wypadkiem żeglugowym;
+- **2)** zawiesić uprawnienia na okres do 12 miesięcy w razie spowodowania w ciągu 12 miesięcy od udzielenia ostrzeżenia ponownego naruszenia przepisów;
+- **3)** zawiesić uprawnienia na okres do 12 miesięcy za spowodowanie wypadku lub przyczynienie się do jego zaistnienia, uzależniając ich przywrócenie od złożenia egzaminu sprawdzającego;
+- **4)** pozbawić uprawnień zawodowych, jeżeli w wyniku tego wypadku nastąpiła śmierć człowieka lub znaczna szkoda.
+
 **Art. 57.** Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, szczegółowy tryb postępowania w związku z wypadkami żeglugowymi, mając na uwadze w szczególności kwalifikację wypadków, obowiązki kierownika statku po zaistnieniu wypadku, a także sposób prowadzenia postępowania przez dyrektora urzędu żeglugi śródlądowej.
 
 #### Rozdział 9 Przepisy karne
 
 **Art. 58.** Kto:
 
+- **1)** wykonuje przewóz ładunków niezgodnie z dokumentami przewozowymi,
+- **2)** wykonuje przewóz obcym statkiem niezgodnie z postanowieniami umów międzynarodowych albo pozwoleń na przewozy,
+- **3)** uprawia żeglugę statkiem obcym bez wymaganego pozwolenia,
+- **4)** nie dopełnia obowiązku złożenia formularza ewidencyjnego,
+- **5)** wykonuje zarobkowy przewóz towarów statkami o ładowności większej niż 200 t bez spełnienia wymogu zdolności zawodowej,
+- **6)** niszczy, uszkadza, przemieszcza lub wykorzystuje znaki żeglugowe do cumowania lub przeciągania statków,
+- **7)** uniemożliwia lub utrudnia uprawnionym do inspekcji pracownikom urzędów żeglugi śródlądowej wykonywanie zadań określonych w art. 9 ust. 2 pkt 2, 4–8 i 10a, podlega karze grzywny.
+
 **Art. 59.** Kto wykracza przeciw obowiązkowi:
+
+- **1)** wpisu statku do rejestru,
+- **2)** dokonania pomiaru statku,
+- **3)** niezwłocznego zawiadomienia o zaistnieniu wypadku żeglugowego,
+- **4)** udzielenia pomocy w działaniach ratowniczych, podlega karze grzywny.
 
 **Art. 60.** Kto uprawia żeglugę statkiem bez ważnego dokumentu bezpieczeństwa statku lub jednorazowego zezwolenia na określoną podróż, podlega karze grzywny.
 
 **Art. 61.** Kto:
 
+- **1)** kieruje statkiem albo zajmuje stanowisko członka załogi statku, nie posiadając do tego właściwego dokumentu kwalifikacyjnego,
+- **2)** będąc członkiem załogi statku, nie posiada dokumentu potwierdzającego warunki zdrowia odpowiednie do zajmowanego stanowiska,
+- **3)** będąc członkiem załogi statku, nie posiada żeglarskiej książeczki pracy, podlega karze grzywny.
+
 **Art. 62.** Kto wykracza przeciw przepisom w zakresie:
+
+- **1)** ruchu i sygnalizacji na śródlądowych drogach wodnych,
+- **2)** oznakowania, wyposażenia i dokumentów statków,
+- **3)** warunków ruchu i postoju statków na szlaku żeglownym i w portach,
+- **4)** składu załogi statku i norm czasu pracy,
+- **5)** przewozu statkami materiałów niebezpiecznych,
+- **6)** pilotażu na śródlądowych drogach wodnych,
+- **7)** warunków sanitarnych na statkach,
+- **8)** warunków bezpieczeństwa i higieny pracy na statkach,
+- **9)** ochrony środowiska, podlega karze grzywny.
 
 **Art. 63.** Orzekanie w sprawach określonych w art. 58–62 następuje w trybie określonym w Kodeksie postępowania w sprawach o wykroczenia.
 

@@ -8,7 +8,7 @@ pos: 576
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o samorządzie województwa
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1998-06-05 |
 | Data wydania | 1998-07-24 |
-| Ostatnia zmiana | 2026-04-08 |
+| Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980910576) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/576/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -85,7 +85,7 @@ source: "isap-pdf"
 
 2. Województwo może zawierać z innymi województwami oraz jednostkami lokalnego samorządu terytorialnego z obszaru województwa porozumienia w sprawie powierzenia prowadzenia zadań publicznych.
 
-3. Do porozumień stosuje się odpowiednio przepisy ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465, 1572, 1907 i 1940).
+3. Do porozumień stosuje się odpowiednio przepisy ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2026 r. poz. 662).
 
 4. Porozumienia, o których mowa w ust. 2, podlegają ogłoszeniu w wojewódzkim dzienniku urzędowym.
 
@@ -99,11 +99,13 @@ source: "isap-pdf"
 
 1. Województwa mogą tworzyć stowarzyszenia, w tym również z gminami i powiatami.
 
-2. Do stowarzyszeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz.
-
-- **2261)** , z tym że dla założenia stowarzyszenia wymaganych jest co najmniej 3 założycieli.
+2. Do stowarzyszeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261 oraz z 2026 r. poz. 316 i 346), z tym że dla założenia stowarzyszenia wymaganych jest co najmniej 3 założycieli.
 
 **Art. 8c.** Województwo może zapewnić wspólną obsługę, w szczególności administracyjną, finansową i organizacyjną:
+
+- **1)** wojewódzkim samorządowym jednostkom organizacyjnym zaliczanym do sektora finansów publicznych,
+- **2)** wojewódzkim instytucjom kultury, 2a) spółkom, o których mowa w art. 9 ust. 1 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 2021 r. poz. 679),
+- **3)** innym zaliczanym do sektora finansów publicznych wojewódzkim osobom prawnym utworzonym na podstawie odrębnych ustaw w celu wykonywania zadań publicznych, z wyłączeniem przedsiębiorstw, instytutów badawczych i banków – zwanym dalej „jednostkami obsługiwanymi”.
 
 **Art. 8d.**
 
@@ -160,18 +162,18 @@ source: "isap-pdf"
 
 - **1)** zarządu województwa;
 - **2)** podmiotów reprezentujących zainteresowane środowiska, w szczególności:
-    - **a)** organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), działających na terenie danego województwa,
+    - **a)** organizacji pozarządowych lub podmiotów określonych w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), działających na terenie danego województwa,
     - **b)** samorządu uczniowskiego lub samorządu studenckiego z terenu danego województwa.
 
-3. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez sejmik województwa w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
+3. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez sejmik województwa w terminie niedłuższym niż 3 miesiące od dnia jego złożenia.
 
-4. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.
+4. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot niewcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.
 
 5. Młodzieżowy sejmik województwa ma charakter konsultacyjny, doradczy i inicjatywny.
 
 6. Młodzieżowy sejmik województwa może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut województwa lub odrębna uchwała sejmiku województwa.
 
-7. W sprawach dotyczących województwa młodzieżowy sejmik województwa może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Marszałek województwa lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały.
+7. W sprawach dotyczących województwa młodzieżowy sejmik województwa może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Marszałek województwa lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, niepóźniej niż w terminie 30 dni od dnia otrzymania uchwały.
 
 8. Do zadań młodzieżowego sejmiku województwa należy w szczególności:
 
@@ -205,15 +207,15 @@ source: "isap-pdf"
 - **1)** w województwie do 2 000 000 mieszkańców – co najmniej 500 mieszkańców tego województwa, którzy ukończyli 60 lat;
 - **2)** w województwie powyżej 2 000 000 mieszkańców – co najmniej 800 mieszkańców tego województwa, którzy ukończyli 60 lat.
 
-4. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez sejmik województwa w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
+4. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez sejmik województwa w terminie niedłuższym niż 3 miesiące od dnia jego złożenia.
 
-5. Jeżeli wniosek, o którym mowa w ust. 3, spełnia wymogi, o których mowa w tym przepisie, sejmik województwa tworzy wojewódzką radę seniorów w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
+5. Jeżeli wniosek, o którym mowa w ust. 3, spełnia wymogi, o których mowa w tym przepisie, sejmik województwa tworzy wojewódzką radę seniorów w terminie niedłuższym niż 3 miesiące od dnia jego złożenia.
 
-6. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.
+6. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2, kolejny wniosek może być złożony przez ten sam podmiot niewcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.
 
 7. Wojewódzka rada seniorów ma charakter konsultacyjny, doradczy i inicjatywny.
 
-8. W sprawach dotyczących województwa wojewódzka rada seniorów może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Marszałek województwa lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały.
+8. W sprawach dotyczących województwa wojewódzka rada seniorów może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Marszałek województwa lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, niepóźniej niż w terminie 30 dni od dnia otrzymania uchwały.
 
 9. Wojewódzka rada seniorów składa się z przedstawicieli osób starszych oraz przedstawicieli podmiotów działających na rzecz osób starszych, w szczególności przedstawicieli organizacji pozarządowych oraz podmiotów prowadzących uniwersytety trzeciego wieku.
 
@@ -242,7 +244,7 @@ source: "isap-pdf"
 - **2)** pobudzanie aktywności gospodarczej;
 - **3)** podnoszenie poziomu konkurencyjności i innowacyjności gospodarki województwa;
 - **4)** zachowanie wartości środowiska kulturowego i przyrodniczego przy uwzględnieniu potrzeb przyszłych pokoleń;
-- **5)** kształtowanie i utrzymanie ładu przestrzennego; <6) rozwój umiejętności mieszkańców i promowanie idei uczenia się przez całe życie.> 1a. (uchylony) 1aa. Strategia rozwoju województwa jest spójna ze średniookresową strategią rozwoju kraju i krajową strategią rozwoju regionalnego, o której mowa w art. 14a ust. 1 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198).
+- **5)** kształtowanie i utrzymanie ładu przestrzennego; <6) rozwój umiejętności mieszkańców i promowanie idei uczenia się przez całe życie.> 1a. (uchylony) 1aa. Strategia rozwoju województwa jest spójna ze średniookresową strategią rozwoju kraju i krajową strategią rozwoju regionalnego, o której mowa w art. 14a ust. 1 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198 i 1846).
 
 1b. W strategii rozwoju województwa wydziela się okres niewykraczający poza okres objęty aktualnie obowiązującą średniookresową strategią rozwoju kraju.
 
@@ -266,7 +268,7 @@ source: "isap-pdf"
 - **2)** utrzymanie i rozbudowa infrastruktury społecznej i technicznej o znaczeniu wojewódzkim;
 - **3)** pozyskiwanie i łączenie środków finansowych: publicznych i prywatnych, w celu realizacji zadań z zakresu użyteczności publicznej; [4) wspieranie i prowadzenie działań na rzecz podnoszenia poziomu wykształcenia obywateli;] <4) wspieranie i prowadzenie działań na rzecz podnoszenia poziomu wykształcenia oraz rozwoju umiejętności mieszkańców;>
 - **5)** racjonalne korzystanie z zasobów przyrody oraz kształtowanie środowiska naturalnego, zgodnie z zasadą zrównoważonego rozwoju;
-- **5a)** tworzenie warunków do prowadzenia działań na rzecz ochrony klimatu oraz wdrażania działań adaptacyjnych do zmian klimatu, o których mowa w art. 18a ust. 5 pkt 5 lit. b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. );
+- **5a)** tworzenie warunków do prowadzenia działań na rzecz ochrony klimatu oraz wdrażania działań adaptacyjnych do zmian klimatu, o których mowa w art. 18a ust. 5 pkt 5 lit. b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, z późn. zm. );
 - **6)** wspieranie rozwoju nauki i współpracy między sferą nauki i gospodarki, popieranie postępu technologicznego oraz innowacji;
 - **7)** wspieranie rozwoju kultury oraz sprawowanie opieki nad dziedzictwem kulturowym i jego racjonalne wykorzystywanie;
 - **8)** promocja walorów i możliwości rozwojowych województwa;
@@ -353,6 +355,9 @@ source: "isap-pdf"
 
 **Art. 15.** Organami samorządu województwa są:
 
+- **1)** sejmik województwa;
+- **2)** zarząd województwa.
+
 **Art. 15a.**
 
 1. Działalność organów województwa jest jawna. Ograniczenia jawności mogą wynikać wyłącznie z ustaw.
@@ -375,6 +380,43 @@ source: "isap-pdf"
 
 **Art. 18.** Do wyłącznej właściwości sejmiku województwa należy:
 
+- **1)** stanowienie aktów prawa miejscowego, w szczególności:
+    - **a)** statutu województwa,
+    - **b)** zasad gospodarowania mieniem wojewódzkim,
+    - **c)** zasad i trybu korzystania z wojewódzkich obiektów i urządzeń użyteczności publicznej;
+
+- **2)** uchwalanie strategii rozwoju województwa;
+- **3)** uchwalanie planu zagospodarowania przestrzennego województwa;
+- **3a)** uchwalanie planu obszaru przyspieszonego rozwoju instalacji odnawialnego źródła energii, o którym mowa w art. 160g ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2026 r. poz. 68 i 516);
+- **4)** podejmowanie uchwały w sprawie trybu prac nad projektem uchwały budżetowej;
+- **5)** podejmowanie uchwały w sprawie szczegółowości układu wykonawczego budżetu województwa, z zastrzeżeniem, że szczegółowość ta nie może być mniejsza niż określona w odrębnych przepisach;
+- **6)** uchwalanie budżetu województwa;
+- **7)** określanie zasad udzielania dotacji przedmiotowych i podmiotowych z budżetu województwa;
+- **8)** (uchylony)
+- **9)** rozpatrywanie sprawozdań z wykonania budżetu województwa, sprawozdań finansowych województwa oraz sprawozdań z wykonywania wieloletnich programów województwa;
+- **10)** podejmowanie uchwały w sprawie udzielenia lub nieudzielenia absolutorium zarządowi województwa z tytułu wykonania budżetu województwa;
+- **10a)** rozpatrywanie raportu o stanie województwa oraz podejmowanie uchwały w sprawie udzielenia lub nieudzielenia zarządowi województwa wotum zaufania z tego tytułu;
+- **11)** uchwalanie, w granicach określonych ustawami, przepisów dotyczących podatków i opłat lokalnych;
+- **12)** podejmowanie uchwał w sprawie powierzenia zadań samorządu województwa innym jednostkom samorządu terytorialnego;
+- **13)** uchwalanie „Priorytetów współpracy zagranicznej województwa”;
+- **14)** podejmowanie uchwał w sprawie uczestnictwa w międzynarodowych zrzeszeniach regionalnych i innych formach współpracy regionalnej;
+- **15)** wybór i odwołanie zarządu województwa oraz ustalanie wynagrodzenia marszałka województwa;
+- **16)** rozpatrywanie sprawozdań z działalności zarządu województwa, w tym w szczególności z działalności finansowej i realizacji programów, o których mowa w pkt 2;
+- **17)** powoływanie i odwoływanie, na wniosek marszałka województwa, skarbnika województwa, który jest głównym księgowym budżetu województwa;
+- **18)** podejmowanie uchwał w sprawie tworzenia stowarzyszeń i fundacji oraz ich rozwiązywania, a także przystępowania do nich lub występowania z nich;
+- **19)** podejmowanie uchwał w sprawach majątkowych województwa dotyczących: uchwała sejmiku województwa jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony do 3 lat strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; do czasu określenia zasad zarząd może dokonywać tych czynności wyłącznie za zgodą sejmiku województwa,
+    - **a)** zasad nabywania, zbywania i obciążania nieruchomości oraz ich wydzierżawiania lub wynajmowania na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony, o ile ustawy szczególne nie stanowią inaczej;
+    - **b)** emitowania obligacji oraz określania zasad ich zbywania, nabywania i wykupu,
+    - **c)** zaciągania długoterminowych zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680),
+    - **d)** ustalania maksymalnej wysokości pożyczek i kredytów krótkoterminowych zaciąganych przez zarząd województwa oraz maksymalnej wysokości pożyczek i poręczeń udzielanych przez zarząd województwa w roku budżetowym,
+    - **e)** tworzenia spółek prawa handlowego lub spółdzielni i przystępowania do nich oraz określania zasad wnoszenia wkładów, a także obejmowania, nabywania i zbywania udziałów i akcji,
+    - **f)** tworzenia, przekształcania i likwidowania wojewódzkich samorządowych jednostek organizacyjnych oraz wyposażania ich w majątek,
+    - **g)** wyrażenia zgody na zawarcie umowy, o której mowa w art. 59a ust. 1;
+
+- **19a)** podejmowanie uchwał w sprawie zasad udzielania stypendiów dla uczniów i studentów;
+- **20)** podejmowanie uchwał w innych sprawach zastrzeżonych ustawami i statutem województwa do kompetencji sejmiku województwa;
+- **21)** uchwalanie przepisów dotyczących organizacji wewnętrznej oraz trybu pracy organów samorządu województwa.
+
 **Art. 19.**
 
 1. Uchwały sejmiku województwa zapadają zwykłą większością głosów, w obecności co najmniej połowy ustawowego składu sejmiku, w głosowaniu jawnym lub jawnym imiennym, chyba że przepisy ustawy stanowią inaczej.
@@ -391,7 +433,7 @@ source: "isap-pdf"
 
 **Art. 20.**
 
-1. Sejmik województwa wybiera ze swojego grona przewodniczącego oraz nie więcej niż 3 wiceprzewodniczących, bezwzględną większością głosów w obecności co najmniej połowy ustawowego składu sejmiku, w głosowaniu tajnym.
+1. Sejmik województwa wybiera ze swojego grona przewodniczącego oraz niewięcej niż 3 wiceprzewodniczących, bezwzględną większością głosów w obecności co najmniej połowy ustawowego składu sejmiku, w głosowaniu tajnym.
 
 2. Przewodniczący i wiceprzewodniczący sejmiku województwa nie mogą wchodzić w skład zarządu województwa.
 
@@ -399,7 +441,7 @@ source: "isap-pdf"
 
 4. Odwołanie przewodniczącego i wiceprzewodniczącego sejmiku województwa następuje na wniosek co najmniej 1/4 ustawowego składu sejmiku województwa, w trybie określonym w ust. 1.
 
-5. W przypadku rezygnacji przewodniczącego lub wiceprzewodniczącego, sejmik województwa podejmuje uchwałę w sprawie przyjęcia tej rezygnacji, nie później niż w ciągu 1 miesiąca od dnia złożenia rezygnacji.
+5. W przypadku rezygnacji przewodniczącego lub wiceprzewodniczącego, sejmik województwa podejmuje uchwałę w sprawie przyjęcia tej rezygnacji, niepóźniej niż w ciągu 1 miesiąca od dnia złożenia rezygnacji.
 
 6. Niepodjęcie uchwały, o której mowa w ust. 5, w ciągu 1 miesiąca od dnia złożenia rezygnacji przez przewodniczącego lub wiceprzewodniczącego jest równoznaczne z przyjęciem rezygnacji przez sejmik województwa z upływem ostatniego dnia miesiąca, w którym powinna być podjęta uchwała.
 
@@ -409,7 +451,7 @@ source: "isap-pdf"
 
 **Art. 21.**
 
-1. Sejmik województwa obraduje na sesjach zwoływanych przez przewodniczącego sejmiku w miarę potrzeby, nie rzadziej jednak niż raz na kwartał. Do zawiadomienia o zwołaniu sesji dołącza się porządek obrad wraz z projektami uchwał.
+1. Sejmik województwa obraduje na sesjach zwoływanych przez przewodniczącego sejmiku w miarę potrzeby, nierzadziej jednak niż raz na kwartał. Do zawiadomienia o zwołaniu sesji dołącza się porządek obrad wraz z projektami uchwał.
 
 1a. Obrady sejmiku województwa są transmitowane i utrwalane za pomocą urządzeń rejestrujących obraz i dźwięk. Nagrania obrad są udostępniane w Biuletynie Informacji Publicznej i na stronie internetowej samorządu województwa oraz w sposób zwyczajowo przyjęty.
 
@@ -429,7 +471,7 @@ source: "isap-pdf"
 
 9. Na wniosek marszałka województwa przewodniczący sejmiku województwa jest obowiązany wprowadzić do porządku obrad najbliższej sesji sejmiku projekt uchwały, jeżeli wnioskodawcą jest zarząd województwa, a projekt wpłynął do sejmiku co najmniej 7 dni przed dniem rozpoczęcia sesji sejmiku.
 
-10. Na wniosek klubu radnych przewodniczący sejmiku województwa jest obowiązany wprowadzić do porządku obrad najbliższej sesji sejmiku projekt uchwały zgłoszony przez klub radnych, jeżeli wpłynął on do sejmiku co najmniej 7 dni przed dniem rozpoczęcia sesji sejmiku. W trybie, o którym mowa w zdaniu pierwszym, każdy klub radnych może zgłosić nie więcej niż jeden projekt uchwały na każdą kolejną sesję sejmiku.
+10. Na wniosek klubu radnych przewodniczący sejmiku województwa jest obowiązany wprowadzić do porządku obrad najbliższej sesji sejmiku projekt uchwały zgłoszony przez klub radnych, jeżeli wpłynął on do sejmiku co najmniej 7 dni przed dniem rozpoczęcia sesji sejmiku. W trybie, o którym mowa w zdaniu pierwszym, każdy klub radnych może zgłosić niewięcej niż jeden projekt uchwały na każdą kolejną sesję sejmiku.
 
 **Art. 21a.** Przewodniczący sejmiku województwa w związku z realizacją swoich obowiązków może wydawać polecenia służbowe pracownikom urzędu marszałkowskiego wykonującym zadania organizacyjne, prawne oraz inne zadania związane z funkcjonowaniem sejmiku województwa, komisji i radnych. W tym przypadku przewodniczący sejmiku województwa wykonuje uprawnienia zwierzchnika służbowego w stosunku do pracowników, o których mowa w zdaniu pierwszym.
 
@@ -465,7 +507,7 @@ source: "isap-pdf"
 
 7. Zapytania składa się w sprawach aktualnych problemów województwa, a także w celu uzyskania informacji o konkretnym stanie faktycznym. Przepis ust. 6 zdanie drugie stosuje się odpowiednio.
 
-8. Interpelacje i zapytania składane są na piśmie do przewodniczącego sejmiku, który przekazuje je niezwłocznie marszałkowi województwa. Marszałek, lub osoba przez niego wyznaczona, jest zobowiązana udzielić odpowiedzi na piśmie nie później niż w terminie 14 dni od dnia otrzymania interpelacji lub zapytania.
+8. Interpelacje i zapytania składane są na piśmie do przewodniczącego sejmiku, który przekazuje je niezwłocznie marszałkowi województwa. Marszałek, lub osoba przez niego wyznaczona, jest zobowiązana udzielić odpowiedzi na piśmie niepóźniej niż w terminie 14 dni od dnia otrzymania interpelacji lub zapytania.
 
 9. Treść interpelacji i zapytań oraz udzielonych odpowiedzi podawana jest do publicznej wiadomości poprzez niezwłoczną publikację w Biuletynie Informacji Publicznej i na stronie internetowej samorządu województwa oraz w inny sposób zwyczajowo przyjęty.
 
@@ -483,7 +525,7 @@ source: "isap-pdf"
 
 6. Sejmik województwa przy ustalaniu wysokości diet radnych bierze pod uwagę funkcje pełnione przez radnego.
 
-6a. W województwie będącym jednostką zainteresowania publicznego w rozumieniu art. 2 pkt 9 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035 i 1863) za funkcję pełnioną przez radnego uważa się również członkostwo w komitecie audytu.
+6a. W województwie będącym jednostką zainteresowania publicznego w rozumieniu art. 2 pkt 9 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891 oraz z 2026 r. poz. 640 i 644) za funkcję pełnioną przez radnego uważa się również członkostwo w komitecie audytu.
 
 7. Dieta nie przysługuje radnemu pełniącemu odpłatnie funkcję członka zarządu w województwie, w którym uzyskał mandat.
 
@@ -529,7 +571,7 @@ source: "isap-pdf"
 
 1. Radni nie mogą prowadzić działalności gospodarczej na własny rachunek lub wspólnie z innymi osobami z wykorzystaniem mienia województwa, w którym radny uzyskał mandat, a także zarządzać taką działalnością lub być przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności.
 
-2. Jeżeli radny, przed rozpoczęciem wykonywania mandatu, prowadził działalność gospodarczą, o której mowa w ust. 1, jest obowiązany do zaprzestania prowadzenia tej działalności gospodarczej w ciągu 3 miesięcy od dnia złożenia ślubowania. Niewypełnienie obowiązku, o którym mowa w zdaniu pierwszym, stanowi podstawę do stwierdzenia wygaśnięcia mandatu radnego w trybie art. 383 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408 oraz z 2024 r. poz. 721, 1572 i 1907).
+2. Jeżeli radny, przed rozpoczęciem wykonywania mandatu, prowadził działalność gospodarczą, o której mowa w ust. 1, jest obowiązany do zaprzestania prowadzenia tej działalności gospodarczej w ciągu 3 miesięcy od dnia złożenia ślubowania. Niewypełnienie obowiązku, o którym mowa w zdaniu pierwszym, stanowi podstawę do stwierdzenia wygaśnięcia mandatu radnego w trybie art. 383 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365 i 1792 oraz z 2026 r. poz. 178).
 
 3. Radni i ich małżonkowie oraz małżonkowie członków zarządu województwa, skarbników województwa, sekretarzy województwa, kierowników wojewódzkich samorządowych jednostek organizacyjnych oraz osób zarządzających i członków organów zarządzających wojewódzkimi osobami prawnymi nie mogą być członkami władz zarządzających lub kontrolnych i rewizyjnych ani pełnomocnikami spółek handlowych z udziałem wojewódzkich osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Wybór lub powołanie tych osób na te funkcje są z mocy prawa nieważne.
 
@@ -570,7 +612,7 @@ source: "isap-pdf"
 
 10. (uchylony)
 
-11. Do postępowania w sprawie kontroli oświadczenia majątkowego stosuje się odpowiednio przepisy ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2024 r. poz. 184, 1222 i 1871 oraz z 2025 r. poz. 179).
+11. Do postępowania w sprawie kontroli oświadczenia majątkowego stosuje się odpowiednio przepisy ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718).
 
 12. Podmiot dokonujący analizy oświadczeń majątkowych w terminie do dnia 30 października każdego roku przedstawia sejmikowi województwa informację o:
 
@@ -578,7 +620,9 @@ source: "isap-pdf"
 - **2)** nieprawidłowościach stwierdzonych w analizowanych oświadczeniach majątkowych wraz z ich opisem i wskazaniem osób, które złożyły nieprawidłowe oświadczenia;
 - **3)** działaniach podjętych w związku z nieprawidłowościami stwierdzonymi w analizowanych oświadczeniach majątkowych.
 
-13. Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór formularza oświadczenia majątkowego radnego oraz wzór formularza oświadczenia majątkowego członka zarządu województwa, skarbnika województwa, sekretarza województwa, kierownika wojewódzkiej samorządowej jednostki organizacyjnej, osoby zarządzającej i członka organu zarządzającego wojewódzką osobą prawną oraz osoby wydającej decyzje administracyjne w imieniu marszałka województwa, uwzględniając zakazy określone w odniesieniu do tych osób w przepisach ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090 oraz z 2024 r. poz. 1840).
+13. Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór formularza oświadczenia majątkowego radnego oraz wzór formularza oświadczenia majątkowego członka zarządu województwa, skarbnika województwa, sekretarza województwa, kierownika wojewódzkiej samorządowej jednostki organizacyjnej, osoby zarządzającej i członka organu zarządzającego wojewódzką osobą prawną oraz osoby wydającej decyzje administracyjne w imieniu marszałka województwa, uwzględniając zakazy określone w odniesieniu do tych osób w przepisach ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2025 r. poz. 499 oraz z 2026 r. poz. 160 i
+
+- **177)** .
 
 **Art. 27d.**
 
@@ -586,7 +630,7 @@ source: "isap-pdf"
 
 2. Wojewoda i przewodniczący sejmiku województwa przekazują marszałkowi województwa kopie oświadczeń majątkowych, które im złożono.
 
-3. Jawne informacje zawarte w oświadczeniach majątkowych są udostępniane w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
+3. Jawne informacje zawarte w oświadczeniach majątkowych są udostępniane w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).
 
 **Art. 27e.** (uchylony)
 
@@ -665,7 +709,7 @@ source: "isap-pdf"
 
 **Art. 32.**
 
-1. Sejmik województwa wybiera zarząd województwa, w tym marszałka województwa i nie więcej niż 2 wicemarszałków, w ciągu 3 miesięcy od dnia ogłoszenia wyników wyborów przez właściwy organ wyborczy, z uwzględnieniem ust. 2 i 3.
+1. Sejmik województwa wybiera zarząd województwa, w tym marszałka województwa i niewięcej niż 2 wicemarszałków, w ciągu 3 miesięcy od dnia ogłoszenia wyników wyborów przez właściwy organ wyborczy, z uwzględnieniem ust. 2 i 3.
 
 2. Sejmik województwa wybiera marszałka województwa bezwzględną większością głosów ustawowego składu sejmiku, w głosowaniu tajnym.
 
@@ -699,7 +743,7 @@ source: "isap-pdf"
 
 1a. Uchwałę w sprawie absolutorium sejmik województwa podejmuje bezwzględną większością głosów ustawowego składu sejmiku województwa.
 
-2. Sejmik województwa rozpoznaje sprawę odwołania zarządu województwa z przyczyny określonej w ust. 1 na sesji zwołanej nie wcześniej niż po upływie 14 dni od podjęcia uchwały o nieudzieleniu zarządowi województwa absolutorium.
+2. Sejmik województwa rozpoznaje sprawę odwołania zarządu województwa z przyczyny określonej w ust. 1 na sesji zwołanej niewcześniej niż po upływie 14 dni od podjęcia uchwały o nieudzieleniu zarządowi województwa absolutorium.
 
 3. Sejmik województwa, po zapoznaniu się z wnioskiem komisji rewizyjnej i opinią regionalnej izby obrachunkowej w sprawie uchwały sejmiku województwa o nieudzieleniu zarządowi województwa absolutorium, może odwołać zarząd województwa większością co najmniej 3/5 głosów ustawowego składu sejmiku, w głosowaniu tajnym.
 
@@ -730,7 +774,7 @@ source: "isap-pdf"
 
 10. Nieudzielenie przez sejmik województwa wotum zaufania zarządowi województwa jest równoznaczne ze złożeniem wniosku o odwołanie zarządu.
 
-11. Sejmik województwa rozpoznaje sprawę odwołania zarządu województwa z przyczyny określonej w ust. 10 na sesji zwołanej nie wcześniej niż po upływie 14 dni od podjęcia uchwały w sprawie nieudzielenia zarządowi województwa wotum zaufania. Sejmik województwa może odwołać zarząd województwa większością co najmniej 3/5 głosów ustawowego składu sejmiku, w głosowaniu jawnym.
+11. Sejmik województwa rozpoznaje sprawę odwołania zarządu województwa z przyczyny określonej w ust. 10 na sesji zwołanej niewcześniej niż po upływie 14 dni od podjęcia uchwały w sprawie nieudzielenia zarządowi województwa wotum zaufania. Sejmik województwa może odwołać zarząd województwa większością co najmniej 3/5 głosów ustawowego składu sejmiku, w głosowaniu jawnym.
 
 **Art. 35.** (uchylony)
 
@@ -742,7 +786,7 @@ source: "isap-pdf"
 
 2. Wniosek, o którym mowa w ust. 1, wymaga formy pisemnej i uzasadnienia przyczyny odwołania oraz podlega zaopiniowaniu przez komisję rewizyjną.
 
-3. Odwołanie marszałka województwa następuje większością co najmniej 3/5 głosów ustawowego składu sejmiku, w głosowaniu tajnym. Głosowanie w sprawie odwołania sejmik województwa przeprowadza po zapoznaniu się z opinią komisji rewizyjnej na następnej sesji po tej, na której zgłoszono wniosek o odwołanie, nie wcześniej jednak niż po upływie 1 miesiąca od dnia zgłoszenia wniosku. Jeżeli wniosek o odwołanie marszałka województwa nie uzyskał wymaganej większości głosów, kolejny wniosek o odwołanie może być zgłoszony nie wcześniej niż po upływie 6 miesięcy od poprzedniego głosowania.
+3. Odwołanie marszałka województwa następuje większością co najmniej 3/5 głosów ustawowego składu sejmiku, w głosowaniu tajnym. Głosowanie w sprawie odwołania sejmik województwa przeprowadza po zapoznaniu się z opinią komisji rewizyjnej na następnej sesji po tej, na której zgłoszono wniosek o odwołanie, niewcześniej jednak niż po upływie 1 miesiąca od dnia zgłoszenia wniosku. Jeżeli wniosek o odwołanie marszałka województwa nie uzyskał wymaganej większości głosów, kolejny wniosek o odwołanie może być zgłoszony niewcześniej niż po upływie 6 miesięcy od poprzedniego głosowania.
 
 4. Odwołanie marszałka województwa albo złożenie przez niego rezygnacji jest, odpowiednio, równoznaczne z odwołaniem całego zarządu województwa albo złożeniem rezygnacji przez cały zarząd województwa.
 
@@ -768,7 +812,7 @@ source: "isap-pdf"
 
 **Art. 40.**
 
-1. W przypadku złożenia rezygnacji z członkostwa w zarządzie przez członka niebędącego jego przewodniczącym, sejmik województwa podejmuje uchwałę o przyjęciu rezygnacji i zwolnieniu z pełnienia obowiązków członka zarządu zwykłą większością głosów, nie później niż w ciągu 1 miesiąca od dnia złożenia rezygnacji.
+1. W przypadku złożenia rezygnacji z członkostwa w zarządzie przez członka niebędącego jego przewodniczącym, sejmik województwa podejmuje uchwałę o przyjęciu rezygnacji i zwolnieniu z pełnienia obowiązków członka zarządu zwykłą większością głosów, niepóźniej niż w ciągu 1 miesiąca od dnia złożenia rezygnacji.
 
 2. Niepodjęcie przez sejmik województwa uchwały w terminie, o którym mowa w ust. 1, jest równoznaczne z przyjęciem rezygnacji z upływem ostatniego dnia miesiąca, w którym powinna być podjęta uchwała.
 
@@ -910,7 +954,7 @@ source: "isap-pdf"
 
 **Art. 59a.**
 
-1. Województwo może zawrzeć z inwestorem umowę, na mocy której w zamian za realizację inwestycji zaspokajającej zbiorowe potrzeby wspólnoty, związanej z zajęciem przez inwestora pasa drogowego w celu umieszczenia w pasie drogowym urządzeń infrastruktury technicznej niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, ustali stawkę opłaty za zajęcie pasa drogowego w wysokości niższej niż określona w uchwale, o której mowa w art. 40 ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320 i 1222). Zawarcie umowy następuje z uwzględnieniem przepisów dotyczących pomocy publicznej.
+1. Województwo może zawrzeć z inwestorem umowę, na mocy której w zamian za realizację inwestycji zaspokajającej zbiorowe potrzeby wspólnoty, związanej z zajęciem przez inwestora pasa drogowego w celu umieszczenia w pasie drogowym urządzeń infrastruktury technicznej niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, ustali stawkę opłaty za zajęcie pasa drogowego w wysokości niższej niż określona w uchwale, o której mowa w art. 40 ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889). Zawarcie umowy następuje z uwzględnieniem przepisów dotyczących pomocy publicznej.
 
 2. Województwo ogłasza w Biuletynie Informacji Publicznej i na stronie internetowej województwa oraz w inny sposób zwyczajowo przyjęty na obszarze województwa komunikat o zamiarze zawarcia umowy. Komunikat zawiera co najmniej wskazanie rodzaju inwestycji zaspokajającej zbiorowe potrzeby wspólnoty, której realizacji przez inwestora oczekuje województwo, oraz informację o terminie, w jakim inwestorzy mogą zgłaszać zainteresowanie zawarciem umowy.
 
@@ -997,6 +1041,11 @@ source: "isap-pdf"
 
 **Art. 72.** Gospodarka środkami finansowymi znajdującymi się w dyspozycji samorządu województwa jest jawna. Wymóg jawności jest spełniany między innymi przez:
 
+- **1)** zachowanie jawności debaty budżetowej;
+- **2)** opublikowanie uchwały budżetowej oraz sprawozdań z wykonania budżetu województwa;
+- **3)** przedstawianie pełnego wykazu kwot dotacji celowych udzielanych z budżetu województwa.
+- **4)** (uchylony)
+
 **Art. 73.** (uchylony)
 
 **Art. 74.** Dyspozycja środkami pieniężnymi województwa jest oddzielona od jej kasowego wykonania.
@@ -1004,6 +1053,10 @@ source: "isap-pdf"
 #### Rozdział 6 Współpraca zagraniczna
 
 **Art. 75.** Sejmik województwa uchwala „Priorytety współpracy zagranicznej województwa”, określające:
+
+- **1)** główne cele współpracy zagranicznej;
+- **2)** priorytety geograficzne przyszłej współpracy;
+- **3)** zamierzenia co do przystępowania do międzynarodowych zrzeszeń regionalnych.
 
 **Art. 76.**
 
@@ -1035,7 +1088,7 @@ source: "isap-pdf"
 
 **Art. 80a.**
 
-1. Jeżeli prawo uzależnia ważność rozstrzygnięcia organu samorządu województwa od jego zatwierdzenia, uzgodnienia lub zaopiniowania przez inny organ, zajęcie stanowiska przez ten organ powinno nastąpić nie później niż w ciągu 14 dni od dnia doręczenia tego rozstrzygnięcia lub jego projektu, z zastrzeżeniem ust. 2.
+1. Jeżeli prawo uzależnia ważność rozstrzygnięcia organu samorządu województwa od jego zatwierdzenia, uzgodnienia lub zaopiniowania przez inny organ, zajęcie stanowiska przez ten organ powinno nastąpić niepóźniej niż w ciągu 14 dni od dnia doręczenia tego rozstrzygnięcia lub jego projektu, z zastrzeżeniem ust. 2.
 
 2. Termin, o którym mowa w ust. 1, wynosi 30 dni, jeżeli zatwierdzenie, uzgodnienie lub zaopiniowanie wymagane jest od organu stanowiącego jednostki samorządu terytorialnego.
 
@@ -1047,7 +1100,7 @@ source: "isap-pdf"
 
 **Art. 82.**
 
-1. Uchwała organu samorządu województwa sprzeczna z prawem jest nieważna. O nieważności uchwały w całości lub w części orzeka organ nadzoru w terminie nie dłuższym niż 30 dni od dnia doręczenia uchwały w trybie określonym w art. 81.
+1. Uchwała organu samorządu województwa sprzeczna z prawem jest nieważna. O nieważności uchwały w całości lub w części orzeka organ nadzoru w terminie niedłuższym niż 30 dni od dnia doręczenia uchwały w trybie określonym w art. 81.
 
 2. Organ nadzoru, wszczynając postępowanie w sprawie stwierdzenia nieważności uchwały lub w toku tego postępowania, może wstrzymać jej wykonanie.
 
@@ -1067,7 +1120,7 @@ source: "isap-pdf"
 
 **Art. 82b.**
 
-1. W przypadku złożenia przez organ samorządu województwa skargi na rozstrzygnięcie nadzorcze, sąd administracyjny wyznacza rozprawę nie później niż w ciągu 30 dni od dnia wpłynięcia skargi do sądu.
+1. W przypadku złożenia przez organ samorządu województwa skargi na rozstrzygnięcie nadzorcze, sąd administracyjny wyznacza rozprawę niepóźniej niż w ciągu 30 dni od dnia wpłynięcia skargi do sądu.
 
 2. W przypadku złożenia skargi na rozstrzygnięcie, o którym mowa w art. 84 ust. 2 oraz art. 85 ust. 1, sąd administracyjny rozpatruje tę skargę w terminie 30 dni. Skargę kasacyjną Naczelny Sąd Administracyjny rozpatruje w terminie 30 dni.
 

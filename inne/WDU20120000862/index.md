@@ -8,10 +8,10 @@ pos: 862
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lipca 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 862 RozpoRządzenie MinistRa spRaw wewnętRznych z dnia 17 lipca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000862) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/862/text.pdf) |
 
-Poz. 862 RozpoRządzenie MinistRa spRaw wewnętRznych z dnia 17 lipca 2012 r.
-w sprawie form kontroli bezpieczeństwa przeprowadzanej przez funkcjonariuszy straży Granicznej Na podstawie art. 11 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa formy kontroli bezpieczeństwa przeprowadzanej przez funkcjonariuszy Straży Granicznej w zasięgu terytorialnym przejścia granicznego oraz w środkach komunikacji międzynarodowej.
+w sprawie form kontroli bezpieczeństwa przeprowadzanej przez funkcjonariuszy straży Granicznej Na podstawie art. 11 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa formy kontroli bezpieczeństwa przeprowadzanej przez funkcjonariuszy Straży Granicznej w zasięgu terytorialnym przejścia granicznego oraz w środkach komunikacji międzynarodowej.
 § 2. Formami kontroli bezpieczeństwa przeprowadzanej w zasięgu terytorialnym morskiego przejścia granicznego oraz w środkach międzynarodowej komunikacji morskiej w stosunku do:
 1) pasażerów oraz członków załóg statków morskich, osób zatrudnionych w morskim przejściu granicznym i innych osób wchodzących na teren tego przejścia są:
 a) sprawdzenie za pomocą urządzenia do wykrywania metalu,

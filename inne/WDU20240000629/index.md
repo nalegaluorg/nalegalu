@@ -8,10 +8,10 @@ pos: 629
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia 25 kwietnia ROZPORZĄDZENIE MINISTRA AKTYWÓW PAŃSTWOWYCH z dnia 9 kwietnia 2024 w sprawie wykazu stanowisk pracy uprawniających do urlopu oraz wzoru zaświadczenia o okresie korzystania przez pracownika Na podstawie art. 13 ustawy z dnia 17 sierpnia 2023 r. o osłonach tycznego i branży górnictwa węgla brunatnego (Dz. U. poz. 1737) zarządza § 1. Określa się:
+# RZECZYPOSPOLITEJ Poz. 629 ROZPORZĄDZENIE MINISTRA AKTYWÓW PAŃSTWOWYCH z dnia 9 kwietnia 2024 w sprawie wykazu stanowisk pracy uprawniających do urlopu oraz wzoru zaświadczenia o okresie korzystania przez pracownika Na podstawie art. 13 ustawy z dnia 17 sierpnia 2023 r. o osłonach tycznego i branży górnictwa węgla brunatnego (Dz. U. poz. 1737) zarządza
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000629) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/629/text.pdf) |
 
+§ 1. Określa się:
 1) wykaz stanowisk pracy uprawniających do urlopu górniczego i rozporządzenia;
 2) wzór zaświadczenia o okresie korzystania przez pracownika z urlopu wiący załącznik nr 2 do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia WYKAZ STANOWISK PRACY UPRAWNIAJĄCYCH DO URLOPU I. Stanowiska pracy uprawniające do urlopu energetycznego w obszarze czenia usług systemowych, uczestnictwa w rynku mocy oraz wytwarzania
@@ -37,7 +38,7 @@ source: "isap-pdf"
 6) dyrektor pionu zarządzania paliwami, prawami majątkowymi
 7) dyżurny ruchu kolejowego elektrowni
 8) główny specjalista
-9) główny specjalista koordynator
+9) główny specjalista – koordynator
 10) główny specjalista do spraw gospodarki magazynowej
 11) główny specjalista do spraw logistyki
 12) główny specjalista do spraw postępowań
@@ -81,10 +82,10 @@ source: "isap-pdf"
 50) młodszy specjalista
 51) nastawniczy
 52) obchodowy odpopielania i odżużlania
-53) odprawiacz pociągów dyspozytor do spraw handlu wagowy
+53) odprawiacz pociągów dyspozytor do spraw handlu – wagowy
 54) operator nastawni nawęglania
 55) operator nastawni odpopielania i odżużlania
-56) operator sprzętu brygadzista
+56) operator sprzętu – brygadzista
 57) operator urządzeń nawęglania
 58) operator urządzeń załadowczych i rozładowczych
 59) pierwszy obchodowy gospodarki paliwowej i odpopielania
@@ -95,7 +96,7 @@ source: "isap-pdf"
 64) robotnik transportowo-magazynowy
 65) samodzielny technik do spraw kosztorysowania i rozliczeń
 66) specjalista
-67) specjalista koordynator do spraw gospodarki magazynowej
+67) specjalista – koordynator do spraw gospodarki magazynowej
 68) specjalista do spraw administracyjnych
 69) specjalista do spraw ekonomicznych
 70) specjalista do spraw gospodarki energetycznej
@@ -120,13 +121,13 @@ source: "isap-pdf"
 89) specjalista techniczny do spraw spawalnictwa
 90) starszy laborant chemiczny
 91) starszy magazynier
-92) starszy mistrz specjalista do spraw technicznych i taboru
+92) starszy mistrz – specjalista do spraw technicznych i taboru
 93) starszy mistrz do spraw ruchu kolejowego
 94) starszy mistrz transportu kolejowego
 95) starszy operator urządzeń załadowczych i rozładowczych
 96) starszy referent do spraw obsługi postępowań
 97) starszy specjalista
-98) starszy specjalista koordynator do spraw gospodarki
+98) starszy specjalista – koordynator do spraw gospodarki
 99) starszy specjalista do spraw badań nieniszczących
 100) starszy specjalista do spraw gospodarki energetycznej
 101) starszy specjalista do spraw gospodarki magazynowej
@@ -135,11 +136,11 @@ source: "isap-pdf"
 104) starszy specjalista do spraw postępowań
 105) starszy specjalista do spraw rozliczeń i zakupu paliw
 106) starszy specjalista do spraw sprzedaży
-107) starszy specjalista do spraw sprzedaży koordynator
+107) starszy specjalista do spraw sprzedaży – koordynator
 108) starszy specjalista do spraw udzielania zamówień
 109) starszy specjalista do spraw zaopatrzenia
 110) starszy technik energetyk
-111) szef biura główny inżynier
+111) szef biura – główny inżynier
 112) szef biura gospodarki magazynowej
 113) szef biura logistyki
 114) technik do spraw ewidencji analiz energetycznych
@@ -157,8 +158,8 @@ source: "isap-pdf"
 9) dyrektor pionu produkcji
 10) dyrektor zarządzający do spraw produkcji
 11) dyspozytor
-12) dyspozytor bloku mistrz
-13) dyspozytor nawęglania pierwszy obchodowy
+12) dyspozytor bloku – mistrz
+13) dyspozytor nawęglania – pierwszy obchodowy
 14) dyspozytor pierwszy obchodowy odpopielania i odsiarczania
 15) dyspozytor urządzeń ciepłowniczych
 16) dyspozytor urządzeń energetycznych
@@ -172,7 +173,7 @@ source: "isap-pdf"
 24) dyżurny elektromechanik przyrządów aparatury cieplnej
 25) dyżurny elektryk
 26) dyżurny inżynier ruchu
-27) dyżurny inżynier ruchu Kozienice
+27) dyżurny inżynier ruchu – Kozienice
 28) dyżurny inżynier ruchu elektrowni
 29) dyżurny kierownik bloku
 30) dyżurny kierownik odpopielania i odsiarczania
@@ -200,12 +201,12 @@ source: "isap-pdf"
 52) główny specjalista do spraw giełdowych i rynku hurtowego
 53) główny specjalista do spraw gospodarki wodno-ściekowej
 54) główny specjalista do spraw handlu i rozliczeń
-55) główny specjalista do spraw handlu i rynku mocy koordynator
+55) główny specjalista do spraw handlu i rynku mocy – koordynator
 56) główny specjalista do spraw informatyki i elektroniki
 57) główny specjalista do spraw koncesji
-58) główny specjalista do spraw koncesji koordynator
+58) główny specjalista do spraw koncesji – koordynator
 59) główny specjalista do spraw kontroli eksploatacji
-60) główny specjalista do spraw kontroli eksploatacji koordynator
+60) główny specjalista do spraw kontroli eksploatacji – koordynator
 61) główny specjalista do spraw oczyszczania spalin
 62) główny specjalista do spraw planowania i analiz energetycznych
 63) główny specjalista do spraw planowania i analiz energetycznych
@@ -214,7 +215,7 @@ source: "isap-pdf"
 66) główny specjalista do spraw sprzedaży i rozliczeń
 67) główny specjalista do spraw technologii produkcji i rozwoju
 68) główny specjalista do spraw teleinformatyki
-69) główny specjalista do spraw transakcji i analiz rynku
+69) główny specjalista do spraw transakcji i analiz rynku –
 70) główny specjalista do spraw układów i urządzeń bloku
 71) główny specjalista do spraw umów
 72) główny specjalista do spraw urządzeń pomocniczych
@@ -222,17 +223,17 @@ source: "isap-pdf"
 74) główny specjalista do spraw wsparcia utrzymania produkcji
 75) główny specjalista do spraw wsparcia wytwarzania energii
 76) główny specjalista energetyk
-77) główny specjalista oddziału dyżurny inżynier ruchu
+77) główny specjalista oddziału – dyżurny inżynier ruchu
 78) główny specjalista utrzymania ruchu elektrycznego
 79) hydrotechnik
 80) inżynier budowy do spraw elektrycznych
 81) inżynier do spraw awaryjności
 82) inżynier do spraw budowlanych
-83) kierowca ratownik
+83) kierowca – ratownik
 84) kierownik biura do spraw eksploatacji urządzeń
 85) kierownik biura zarządzania wytwarzaniem
 86) kierownik bloku
-87) kierownik bloku starszy mistrz
+87) kierownik bloku – starszy mistrz
 88) kierownik bloku ciepłowniczego
 89) kierownik działu dyżurnych inżynierów ruchu
 90) kierownik działu eksploatacji
@@ -255,20 +256,20 @@ source: "isap-pdf"
 107) kierownik wydziału badań technicznych
 108) kierownik wydziału ciepłownictwa i klimatyzacji
 109) kierownik wydziału elektrycznego
-110) kierownik wydziału gospodarki energetycznej główny
+110) kierownik wydziału gospodarki energetycznej – główny
 111) kierownik wydziału gospodarki paliwami
 112) kierownik wydziału gospodarki wodnej
 113) kierownik wydziału gospodarki wodnej i odsiarczania
 114) kierownik wydziału gospodarki wodno-ściekowej
 115) kierownik wydziału laboratoriów
-116) kierownik wydziału laboratoriów główny specjalista
+116) kierownik wydziału laboratoriów – główny specjalista
 117) kierownik wydziału ochrony przeciwpożarowej
 118) kierownik wydziału odpopielania
 119) kierownik wydziału ruchu bloków
 120) kierownik wydziału ruchu bloków 2–12
 121) kierownik wydziału ruchu bloku
 122) kierownik wydziału ruchu bloku 14
-123) kierownik wydziału ruchu bloku nr 7 główny specjalista
+123) kierownik wydziału ruchu bloku nr 7 – główny specjalista
 124) kierownik wydziału ruchu ciepłownictwa i instalacji pomocniczych
 125) kierownik wydziału ruchu elektrycznego
 126) kierownik wydziału ruchu gospodarki paliwowej
@@ -281,23 +282,23 @@ source: "isap-pdf"
 133) kierownik wydziału utrzymania produkcji
 134) kierownik wydziału utrzymania produkcji i ruchu elektrycznego
 135) kierownik wydziału zabezpieczeń elektrycznych, sterowań
-136) kierownik zmiany operator instalacji odsiarczania
-137) kierownik zmiany starszy mistrz
+136) kierownik zmiany – operator instalacji odsiarczania
+137) kierownik zmiany – starszy mistrz
 138) kierownik zmiany bloków
-139) kierownik zmiany bloku starszy mistrz
+139) kierownik zmiany bloku – starszy mistrz
 140) kierownik zmiany gospodarki paliwowej
-141) kierownik zmiany gospodarki wodnej starszy mistrz
-142) kierownik zmiany gospodarki wodnej i ściekowej starszy
+141) kierownik zmiany gospodarki wodnej – starszy mistrz
+142) kierownik zmiany gospodarki wodnej i ściekowej – starszy
 143) kierownik zmiany gospodarki wodno-ściekowej i odpopielania
 144) kierownik zmiany nawęglania
-145) kierownik zmiany nawęglania starszy mistrz
+145) kierownik zmiany nawęglania – starszy mistrz
 146) kierownik zmiany odpopielania
 147) kierownik zmiany odpylania i odsiarczania
 148) kierownik zmiany ruchu bloków
 149) kierownik zmiany ruchu ciepłownictwa i instalacji pomocniczych
 150) kierownik zmiany ruchu elektrycznego
-151) kierownik zmiany ruchu elektrycznego koordynator
-152) kierownik zmiany ruchu elektrycznego starszy mistrz
+151) kierownik zmiany ruchu elektrycznego – koordynator
+152) kierownik zmiany ruchu elektrycznego – starszy mistrz
 153) kierownik zmiany ruchu urządzeń gospodarki wodnej
 154) kierownik zmiany ruchu urządzeń nawęglania
 155) kierownik zmiany ruchu urządzeń odpopielania
@@ -305,7 +306,7 @@ source: "isap-pdf"
 157) kierownik zmiany urządzeń pozablokowych
 158) koordynator do spraw gospodarki wodnej, odpopielania
 159) koordynator do spraw informatyki technologicznej
-160) koordynator sekcji eksploatacji starszy mistrz
+160) koordynator sekcji eksploatacji – starszy mistrz
 161) koordynator sekcji ruchu automatyki
 162) koordynator sekcji ruchu elektrycznego
 163) koordynator sekcji ruchu, zabezpieczeń i sterowań
@@ -325,19 +326,19 @@ source: "isap-pdf"
 177) maszynista urządzeń ciepłowniczych
 178) maszynista urządzeń gospodarki olejowej
 179) maszynista urządzeń gospodarki ściekowej
-180) maszynista urządzeń gospodarki ściekowej operator
+180) maszynista urządzeń gospodarki ściekowej – operator
 181) maszynista urządzeń gospodarki wodno-ściekowej
 182) maszynista urządzeń nawęglania
 183) maszynista urządzeń uzdatniania wody
-184) maszynista urządzeń uzdatniania wody operator nastawni
+184) maszynista urządzeń uzdatniania wody – operator nastawni
 185) mechanik napraw sprzętu pomocniczego
 186) mechanik obchodowy urządzeń nawęglania
 187) mechanik obchodowy urządzeń odpopielania
 188) mechanik obchodowy urządzeń odsiarczania
 189) mechanik obchodowy urządzeń pozablokowych
 190) mistrz
-191) mistrz dyżurny ruchu kolejowego
-192) mistrz kierownik zmiany nawęglania
+191) mistrz – dyżurny ruchu kolejowego
+192) mistrz – kierownik zmiany nawęglania
 193) mistrz do spraw gospodarki wodnej
 194) mistrz do spraw gospodarki wodnej odpopielania i odżużlania
 195) mistrz do spraw laboratorium chemicznego
@@ -374,7 +375,7 @@ source: "isap-pdf"
 226) młodszy obchodowy urządzeń nawęglania
 227) młodszy obchodowy urządzeń odpopielania i odżużlania
 228) młodszy specjalista
-229) młodszy specjalista asystent głównego inżyniera
+229) młodszy specjalista – asystent głównego inżyniera
 230) młodszy specjalista do spraw aparatury kontrolno-pomiarowej
 231) młodszy specjalista do spraw automatyki przemysłowej
 232) młodszy specjalista do spraw energetycznych
@@ -385,14 +386,14 @@ source: "isap-pdf"
 237) młodszy specjalista do spraw układów i urządzeń bloku
 238) młodszy specjalista do spraw wsparcia utrzymania produkcji
 239) obchodowy
-240) obchodowy operator IOS
+240) obchodowy – operator IOS
 241) obchodowy bloków
 242) obchodowy bloku
-243) obchodowy bloku obchodowy odsiarczania
+243) obchodowy bloku – obchodowy odsiarczania
 244) obchodowy instalacji ciepłowniczych
 245) obchodowy instalacji odsiarczania spalin
 246) obchodowy kotła
-247) obchodowy kotła obchodowy odsiarczania
+247) obchodowy kotła – obchodowy odsiarczania
 248) obchodowy kotła o wydajności powyżej 300 Mg pary/h
 249) obchodowy mazutowni
 250) obchodowy odpopielania i odżużlania
@@ -404,7 +405,7 @@ source: "isap-pdf"
 256) obchodowy turbozespołu
 257) obchodowy urządzeń biomasy
 258) obchodowy urządzeń energetycznych
-259) obchodowy urządzeń energetycznych magazynier
+259) obchodowy urządzeń energetycznych – magazynier
 260) obchodowy urządzeń IOS
 261) obchodowy urządzeń nawęglania
 262) obchodowy urządzeń odpopielania i odżużlania
@@ -423,9 +424,9 @@ source: "isap-pdf"
 275) operator bloku
 276) operator instalacji mazutowni
 277) operator instalacji odsiarczania
-278) operator instalacji odsiarczania obchodowy
+278) operator instalacji odsiarczania – obchodowy
 279) operator kotła
-280) operator kotła starszy operator urządzeń energetycznych
+280) operator kotła – starszy operator urządzeń energetycznych
 281) operator kotła o wydajności powyżej 300 Mg pary/h
 282) operator kotła OKF 40
 283) operator ładowarki i zwałowarki
@@ -438,9 +439,9 @@ source: "isap-pdf"
 290) operator nastawni ciepłowniczej
 291) operator nastawni dyspozytorskiej
 292) operator nastawni elektrycznej
-293) operator nastawni elektrycznej starszy elektryk dyżurny
+293) operator nastawni elektrycznej – starszy elektryk dyżurny
 294) operator nastawni elektrycznej głównej
-295) operator nastawni głównej starszy elektryk dyżurny
+295) operator nastawni głównej – starszy elektryk dyżurny
 296) operator nastawni instalacji mokrego odsiarczania spalin
 297) operator nastawni instalacji odsiarczania spalin
 298) operator nastawni nawęglania
@@ -448,7 +449,7 @@ source: "isap-pdf"
 300) operator nastawni odpylania
 301) operator nastawni pomocniczej bloku
 302) operator nastawni pomocniczych
-303) operator nastawni pomocniczych starszy obchodowy
+303) operator nastawni pomocniczych – starszy obchodowy
 304) operator nastawni pomocniczych gospodarki wodnej
 305) operator nastawni pomocniczych nawęglania
 306) operator nastawni potrzeb ogólnych
@@ -457,7 +458,7 @@ source: "isap-pdf"
 309) operator pompowni wody powrotnej
 310) operator sprężarek
 311) operator sprężarek i turbosprężarek
-312) operator sprzętu transportu wewnętrznego operator spychaczy
+312) operator sprzętu transportu wewnętrznego – operator spychaczy
 313) operator spychacza
 314) operator stacji oczyszczania kondensatu
 315) operator stacji uzdatniania wody
@@ -465,19 +466,19 @@ source: "isap-pdf"
 317) operator turbozespołu powyżej 100 MW
 318) operator urządzeń
 319) operator urządzeń energetycznych
-320) operator urządzeń energetycznych magazynier
+320) operator urządzeń energetycznych – magazynier
 321) operator urządzeń nawęglania
 322) operator urządzeń transportowych gipsu
 323) operator wywrotnicy wagonowej
 324) pierwszy dyżurny elektroenergetyk
-325) pierwszy dyżurny elektroenergetyk brygadzista
+325) pierwszy dyżurny elektroenergetyk – brygadzista
 326) pierwszy dyżurny elektroenergetyk elektrowni
 327) pierwszy dyżurny elektroenergetyk elektrowni cieplnych
 328) pierwszy dyżurny elektryk
 329) pierwszy maszynista mazutowni
 330) pierwszy maszynista stacji uzdatniania wody
 331) pierwszy maszynista urządzeń ciepłowniczych
-332) pierwszy obchodowy dyspozytor nawęglania
+332) pierwszy obchodowy – dyspozytor nawęglania
 333) pierwszy obchodowy bloków
 334) pierwszy obchodowy bloku
 335) pierwszy obchodowy bloku 460 MW
@@ -490,13 +491,13 @@ source: "isap-pdf"
 342) rewident wagonów
 343) samodzielny elektroenergetyk elektrowni cieplnych
 344) samodzielny inżynier
-345) samodzielny inżynier automatyk sterowania ruchem
+345) samodzielny inżynier – automatyk sterowania ruchem
 346) samodzielny inżynier do spraw telekomunikacji
 347) samodzielny operator nastawni elektrycznej obsługi rozdzielni
 348) samodzielny referent do spraw ekonomiczno-administracyjnych
 349) samodzielny referent techniczny
 350) samodzielny ślusarz dyżurny
-351) samodzielny ślusarz dyżurny obchodowy urządzeń odpopielania
+351) samodzielny ślusarz dyżurny – obchodowy urządzeń odpopielania
 352) samodzielny ślusarz konserwator
 353) specjalista
 354) specjalista do spraw administracyjno-pracowniczych
@@ -508,17 +509,17 @@ source: "isap-pdf"
 360) specjalista do spraw automatyki przemysłowej
 361) specjalista do spraw awaryjności
 362) specjalista do spraw chemicznych
-363) specjalista do spraw chemicznych koordynator
+363) specjalista do spraw chemicznych – koordynator
 364) specjalista do spraw diagnostyki maszyn wirnikowych
 365) specjalista do spraw dostaw paliw i surowców
 366) specjalista do spraw ekonomiczno-administracyjnych
 367) specjalista do spraw eksploatacji składowisk
 368) specjalista do spraw eksploatacji urządzeń blokowych
 369) specjalista do spraw eksploatacji urządzeń pozablokowych
-370) specjalista do spraw elektrycznych inspektor nadzoru
+370) specjalista do spraw elektrycznych – inspektor nadzoru
 371) specjalista do spraw elektrycznych sterowań mikroprocesorowych
 372) specjalista do spraw energetycznych
-373) specjalista do spraw energetycznych koordynator
+373) specjalista do spraw energetycznych – koordynator
 374) specjalista do spraw gospodarki energetycznej
 375) specjalista do spraw informatycznych systemów w automatyce
 376) specjalista do spraw informatyki i elektroniki
@@ -530,17 +531,17 @@ source: "isap-pdf"
 382) specjalista do spraw pomiarów fizykochemicznych
 383) specjalista do spraw pomiarów i zabezpieczeń
 384) specjalista do spraw pracowniczych i organizacyjnych
-385) specjalista do spraw produkcji starszy mistrz
+385) specjalista do spraw produkcji – starszy mistrz
 386) specjalista do spraw przygotowania produkcji
 387) specjalista do spraw rozliczeń i analiz
 388) specjalista do spraw rozliczeń i raportowania
 389) specjalista do spraw rozwoju kompetencji
 390) specjalista do spraw ruchu elektrycznego
 391) specjalista do spraw ryzyka operacyjnego
-392) specjalista do spraw sterowań mikroprocesorowych
+392) specjalista do spraw sterowań mikroprocesorowych –
 393) specjalista do spraw systemów cyfrowych
 394) specjalista do spraw telekomunikacji
-395) specjalista do spraw telekomunikacji inspektor nadzoru
+395) specjalista do spraw telekomunikacji – inspektor nadzoru
 396) specjalista do spraw układów i urządzeń bloku energetycznego
 397) specjalista do spraw umów
 398) specjalista do spraw urządzeń nawęglania
@@ -550,7 +551,7 @@ source: "isap-pdf"
 402) specjalista do spraw zabezpieczeń i pomiarów elektrycznych
 403) specjalista energetyk
 404) specjalista techniczny
-405) specjalista techniczny inspektor nadzoru
+405) specjalista techniczny – inspektor nadzoru
 406) specjalista techniczny do spraw chemii energetycznej
 407) starszy dyspozytor
 408) starszy dyspozytor urządzeń ciepłowniczych
@@ -560,44 +561,44 @@ source: "isap-pdf"
 412) starszy dyżurny elektryk
 413) starszy dyżurny ruchu kolejowego
 414) starszy elektroenergetyk
-415) starszy elektroenergetyk automatyk sterowania ruchem
-416) starszy elektroenergetyk brygadzista
+415) starszy elektroenergetyk – automatyk sterowania ruchem
+416) starszy elektroenergetyk – brygadzista
 417) starszy elektroenergetyk do spraw pomiarów i zabezpieczeń
 418) starszy elektromechanik
-419) starszy elektromechanik brygadzista
+419) starszy elektromechanik – brygadzista
 420) starszy elektromechanik przyrządów aparatury cieplnej
 421) starszy elektromonter
 422) starszy elektryk dyżurny
 423) starszy inżynier do spraw pomiarów środowiska
 424) starszy laborant chemik
-425) starszy laborant chemik brygadzista
+425) starszy laborant chemik – brygadzista
 426) starszy laborant ruchowy
-427) starszy laborant ruchowy brygadzista
+427) starszy laborant ruchowy – brygadzista
 428) starszy magazynier składowiska odpadów niemetalicznych
 429) starszy maszynista urządzeń
 430) starszy maszynista urządzeń ciepłownictwa i klimatyzacji
-431) starszy maszynista urządzeń gospodarki ściekowej brygadzista
-432) starszy maszynista urządzeń gospodarki ściekowej operator
+431) starszy maszynista urządzeń gospodarki ściekowej – brygadzista
+432) starszy maszynista urządzeń gospodarki ściekowej – operator
 433) starszy maszynista urządzeń nawęglania
-434) starszy maszynista urządzeń nawęglania brygadzista
+434) starszy maszynista urządzeń nawęglania – brygadzista
 435) starszy maszynista urządzeń odsiarczania i sprężarkowni
 436) starszy maszynista urządzeń uzdatniania wody
-437) starszy maszynista urządzeń uzdatniania wody operator
+437) starszy maszynista urządzeń uzdatniania wody – operator
 438) starszy mistrz
-439) starszy mistrz kierownik bloku
-440) starszy mistrz kierownik zmiany gospodarki wodnej
-441) starszy mistrz kierownik zmiany gospodarki wodnej
-442) starszy mistrz kierownik zmiany nawęglania
-443) starszy mistrz kierownik zmiany odpopielania i odżużlania
-444) starszy mistrz kierownik zmiany ruchu elektrycznego
-445) starszy mistrz specjalista do spraw automatyki i systemów
-446) starszy mistrz specjalista do spraw informatycznych
-447) starszy mistrz specjalista do spraw pomiarów cieplnych
-448) starszy mistrz specjalista do spraw pomiarów fizyko-chemicznych
-449) starszy mistrz specjalista do spraw sterowań
-450) starszy mistrz specjalista do spraw telekomunikacji
-451) starszy mistrz specjalista zabezpieczeń i pomiarów elektrycznych
-452) starszy mistrz specjalista zabezpieczeń i pomiarów elektrycznych
+439) starszy mistrz – kierownik bloku
+440) starszy mistrz – kierownik zmiany gospodarki wodnej
+441) starszy mistrz – kierownik zmiany gospodarki wodnej
+442) starszy mistrz – kierownik zmiany nawęglania
+443) starszy mistrz – kierownik zmiany odpopielania i odżużlania
+444) starszy mistrz – kierownik zmiany ruchu elektrycznego
+445) starszy mistrz – specjalista do spraw automatyki i systemów
+446) starszy mistrz – specjalista do spraw informatycznych
+447) starszy mistrz – specjalista do spraw pomiarów cieplnych
+448) starszy mistrz – specjalista do spraw pomiarów fizyko-chemicznych
+449) starszy mistrz – specjalista do spraw sterowań
+450) starszy mistrz – specjalista do spraw telekomunikacji
+451) starszy mistrz – specjalista zabezpieczeń i pomiarów elektrycznych
+452) starszy mistrz – specjalista zabezpieczeń i pomiarów elektrycznych
 453) starszy mistrz do spraw aparatury kontrolno-pomiarowej
 454) starszy mistrz do spraw automatyki i pomiarów cieplnych
 455) starszy mistrz do spraw gospodarki ciepłowniczej
@@ -618,7 +619,7 @@ source: "isap-pdf"
 470) starszy mistrz gospodarki wodno-ściekowej
 471) starszy mistrz laboratorium
 472) starszy mistrz nawęglania
-473) starszy mistrz ruchu elektrycznego kierownik zmiany
+473) starszy mistrz ruchu elektrycznego – kierownik zmiany
 474) starszy mistrz transportu kolejowego
 475) starszy mistrz urządzeń ciepłowniczych
 476) starszy mistrz zmiany instalacji odsiarczania spalin
@@ -636,10 +637,10 @@ source: "isap-pdf"
 488) starszy operator nastawni blokowej
 489) starszy operator urządzeń energetycznych
 490) starszy specjalista
-491) starszy specjalista koordynator
+491) starszy specjalista – koordynator
 492) starszy specjalista do spraw aparatury kontrolno-pomiarowej
 493) starszy specjalista do spraw automatyki przemysłowej
-494) starszy specjalista do spraw ciepłownictwa koordynator
+494) starszy specjalista do spraw ciepłownictwa – koordynator
 495) starszy specjalista do spraw eksploatacji urządzeń blokowych
 496) starszy specjalista do spraw eksploatacji urządzeń pozablokowych
 497) starszy specjalista do spraw elektronicznej techniki cyfrowej
@@ -648,18 +649,18 @@ source: "isap-pdf"
 500) starszy specjalista do spraw informatyki i elektroniki
 501) starszy specjalista do spraw pomiarów i zabezpieczeń
 502) starszy specjalista do spraw ruchu nawęglania
-503) starszy specjalista do spraw systemów zarządzania koordynator
+503) starszy specjalista do spraw systemów zarządzania – koordynator
 504) starszy specjalista do spraw układów i urządzeń bloku
 505) starszy specjalista do spraw wsparcia utrzymania produkcji
 506) starszy specjalista do spraw zabezpieczeń elektrycznych
-507) starszy specjalista techniczny inspektor nadzoru
+507) starszy specjalista techniczny – inspektor nadzoru
 508) ślusarz dyżurny bloków
 509) ślusarz dyżurny nawęglania
 510) technik do spraw pomiarów środowiska
 511) technik dyżurny automatyki i zabezpieczeń
 512) ustawiacz wagonów
 513) wagowy
-514) zastępca dyrektora oddziału dyrektor techniczny
+514) zastępca dyrektora oddziału – dyrektor techniczny
 515) zastępca kierownik wydziału ruchu nawęglania
 516) zastępca kierownika wydziału automatyki i zabezpieczeń
 517) zastępca kierownika wydziału ruchu bloków
@@ -671,7 +672,7 @@ source: "isap-pdf"
 2) dyrektor elektrowni
 3) główny inżynier
 4) główny specjalista
-5) główny specjalista koordynator
+5) główny specjalista – koordynator
 6) główny specjalista do spraw budżetowania
 7) główny specjalista do spraw budżetowania i kontroli projektów
 8) główny specjalista do spraw ekonomiczno-finansowych
@@ -703,7 +704,7 @@ source: "isap-pdf"
 34) starszy specjalista
 35) starszy specjalista do spraw innowacji pracowniczych
 36) starszy specjalista do spraw kontroli eksploatacji i analiz
-37) szef biura główny inżynier
+37) szef biura – główny inżynier
 38) szef biura ochrony środowiska
 39) technolog eksploatacji do spraw gospodarki paliwowej
 40) technolog eksploatacji do spraw gospodarki wodno-ściekowej
@@ -724,9 +725,9 @@ source: "isap-pdf"
 11) dyżurny inżynier ruchu elektrowni
 12) główny inżynier
 13) główny specjalista
-14) główny specjalista koordynator
-15) główny specjalista makler giełd towarowych
-16) główny specjalista operator rynku
+14) główny specjalista – koordynator
+15) główny specjalista – makler giełd towarowych
+16) główny specjalista – operator rynku
 17) główny specjalista do spraw analiz
 18) główny specjalista do spraw fakturowania i rozliczeń
 19) główny specjalista do spraw handlu emisjami i świadectwami
@@ -748,7 +749,7 @@ source: "isap-pdf"
 35) kierownik działu rynku energii
 36) kierownik działu utrzymania infrastruktury teleinformatycznej
 37) kierownik zmiany ruchu elektrycznego
-38) kierownik zmiany ruchu elektrycznego starszy mistrz
+38) kierownik zmiany ruchu elektrycznego – starszy mistrz
 39) koordynator sekcji handlu energią
 40) młodszy dyżurny inżynier ruchu
 41) młodszy specjalista
@@ -765,7 +766,7 @@ source: "isap-pdf"
 52) operator nastawni elektrycznej głównej
 53) pełnomocnik do spraw bezpieczeństwa systemów informatycznych
 54) specjalista
-55) specjalista operator rynku
+55) specjalista – operator rynku
 56) specjalista do spraw analiz
 57) specjalista do spraw fakturowania i rozliczeń
 58) specjalista do spraw handlu emisjami i świadectwami
@@ -779,9 +780,9 @@ source: "isap-pdf"
 66) specjalista do spraw sprzedaży produktów ubocznych
 67) specjalista do spraw taryfikacji ciepła i sprzedaży detalicznej
 68) specjalista do spraw zarządzania portfelem
-69) starszy dyżurny inżynier ruchu elektrowni koordynator
+69) starszy dyżurny inżynier ruchu elektrowni – koordynator
 70) starszy specjalista
-71) starszy specjalista operator rynku
+71) starszy specjalista – operator rynku
 72) starszy specjalista do spraw analiz
 73) starszy specjalista do spraw bezpieczeństwa systemów
 74) starszy specjalista do spraw fakturowania i rozliczeń
@@ -801,7 +802,7 @@ source: "isap-pdf"
 88) starszy specjalista do spraw taryfikacji ciepła i sprzedaży
 89) starszy specjalista do spraw umów i koncesji
 90) starszy specjalista do spraw zarządzania portfelem
-91) szef biura główny inżynier
+91) szef biura – główny inżynier
 92) szef biura analiz
 93) szef biura operatora rynku
 94) szef biura planowania handlowego
@@ -823,7 +824,7 @@ source: "isap-pdf"
 9) elektromechanik przyrządów i aparatury elektronicznej
 10) główny inżynier
 11) główny specjalista
-12) główny specjalista koordynator
+12) główny specjalista – koordynator
 13) główny specjalista do spraw analiz
 14) główny specjalista do spraw audytu wewnętrznego
 15) główny specjalista do spraw automatyki
@@ -841,7 +842,7 @@ source: "isap-pdf"
 27) inżynier do spraw pomiarów
 28) inżynier do spraw pomiarów i zabezpieczeń elektrycznych
 29) inżynier programista systemów czasu rzeczywistego
-30) kierownik biura badań i kontroli eksploatacji główny
+30) kierownik biura badań i kontroli eksploatacji – główny
 31) kierownik bloków centralnej nastawni elektrowni
 32) kierownik działu audytu wewnętrznego
 33) kierownik działu automatyki, pomiarów i zabezpieczeń
@@ -873,13 +874,13 @@ source: "isap-pdf"
 59) maszynista mazutowni
 60) maszynista pomp wodnych
 61) maszynista pompowni wody powrotnej
-62) maszynista urządzeń próbobiorca
+62) maszynista urządzeń – próbobiorca
 63) maszynista urządzeń ciepłownictwa i klimatyzacji
 64) maszynista urządzeń ciepłowniczych
 65) maszynista urządzeń gospodarki ściekowej
-66) maszynista urządzeń gospodarki ściekowej operator
+66) maszynista urządzeń gospodarki ściekowej – operator
 67) maszynista urządzeń uzdatniania wody
-68) maszynista urządzeń uzdatniania wody operator nastawni
+68) maszynista urządzeń uzdatniania wody – operator nastawni
 69) mechanik napraw sprzętu ciężkiego i kolejowego
 70) mistrz do spraw elektrycznych
 71) mistrz do spraw laboratorium chemicznego
@@ -901,12 +902,12 @@ source: "isap-pdf"
 87) obchodowy urządzeń nawęglania
 88) obchodowy urządzeń odpylania
 89) obchodowy urządzeń przygotowania wody
-90) olejarz smarownik
-91) operator obchodowy instalacji odsiarczania spalin
-92) operator obchodowy obiektów hydrotechnicznych
-93) operator obchodowy urządzeń gospodarki paliw płynnych
-94) operator obchodowy urządzeń gospodarki paliw stałych
-95) operator obchodowy urządzeń odpopielania
+90) olejarz – smarownik
+91) operator – obchodowy instalacji odsiarczania spalin
+92) operator – obchodowy obiektów hydrotechnicznych
+93) operator – obchodowy urządzeń gospodarki paliw płynnych
+94) operator – obchodowy urządzeń gospodarki paliw stałych
+95) operator – obchodowy urządzeń odpopielania
 96) operator bloku
 97) operator głównego punktu zasilania
 98) operator instalacji odsiarczania spalin
@@ -919,8 +920,8 @@ source: "isap-pdf"
 105) operator oczyszczalni ścieków
 106) operator odsiarczania pozablokowego
 107) operator sprężarkowni centralnej
-108) operator sprzętu brygadzista
-109) operator spycharki powyżej 200 operator urządzeń nawęglania
+108) operator sprzętu – brygadzista
+109) operator spycharki powyżej 200 – operator urządzeń nawęglania
 110) operator spycharki powyżej 200 KM
 111) operator stacji przygotowania wody
 112) operator turbiny
@@ -932,7 +933,7 @@ source: "isap-pdf"
 118) samodzielny referent do spraw nadzoru produkcji
 119) specjalista
 120) specjalista do spraw administracyjnych
-121) specjalista do spraw analiz energetycznych koordynator
+121) specjalista do spraw analiz energetycznych – koordynator
 122) specjalista do spraw automatyki, pomiarów i zabezpieczeń
 123) specjalista do spraw badań i pomiarów eksploatacyjnych
 124) specjalista do spraw elektrycznych
@@ -956,17 +957,17 @@ source: "isap-pdf"
 142) starszy elektroenergetyk pomiarów i zabezpieczeń elektrycznych
 143) starszy elektromechanik przyrządów aparatury cieplnej
 144) starszy laborant chemik
-145) starszy laborant chemik brygadzista
+145) starszy laborant chemik – brygadzista
 146) starszy laborant ruchowy
-147) starszy laborant ruchowy brygadzista
+147) starszy laborant ruchowy – brygadzista
 148) starszy maszynista urządzeń
 149) starszy maszynista urządzeń ciepłownictwa i klimatyzacji
-150) starszy maszynista urządzeń gospodarki ściekowej brygadzista
-151) starszy maszynista urządzeń gospodarki ściekowej operator
-152) starszy maszynista urządzeń nawęglania brygadzista
+150) starszy maszynista urządzeń gospodarki ściekowej – brygadzista
+151) starszy maszynista urządzeń gospodarki ściekowej – operator
+152) starszy maszynista urządzeń nawęglania – brygadzista
 153) starszy maszynista urządzeń odsiarczania i sprężarkowni
 154) starszy maszynista urządzeń uzdatniania wody
-155) starszy maszynista urządzeń uzdatniania wody operator
+155) starszy maszynista urządzeń uzdatniania wody – operator
 156) starszy mechanik sprzętu ciężkiego i kolejowego
 157) starszy mistrz do spraw automatyki, pomiarów i zabezpieczeń
 158) starszy mistrz do spraw automatyki, pomiarów i zabezpieczeń
@@ -980,9 +981,9 @@ source: "isap-pdf"
 166) starszy monter remontów maszyn i urządzeń elektroenergetycznych
 167) starszy specjalista
 168) starszy specjalista do spraw elektrycznych
-169) starszy specjalista do spraw elektrycznych koordynator
+169) starszy specjalista do spraw elektrycznych – koordynator
 170) starszy specjalista do spraw informatyki
-171) starszy specjalista do spraw informatyki koordynator
+171) starszy specjalista do spraw informatyki – koordynator
 172) starszy specjalista do spraw kontroli eksploatacji
 173) starszy specjalista do spraw obsługi procesów zakupowych
 174) starszy specjalista do spraw pomiarów
@@ -993,7 +994,7 @@ source: "isap-pdf"
 179) starszy specjalista techniczny do spraw pomiarów
 180) starszy specjalista techniczny do spraw zabezpieczeń i
 181) starszy specjalista technik do spraw energetycznych
-182) szef biura główny inżynier
+182) szef biura – główny inżynier
 183) szef biura logistyki dostaw
 184) szef biura obsługi procesów zakupowych paliw
 185) szef biura zakupu paliw
@@ -1010,8 +1011,8 @@ source: "isap-pdf"
 6) główny inżynier
 7) główny inżynier ochrony środowiska
 8) główny specjalista
-9) główny specjalista koordynator
-10) główny specjalista makler giełd towarowych
+9) główny specjalista – koordynator
+10) główny specjalista – makler giełd towarowych
 11) główny specjalista do spraw handlu emisjami i świadectwami
 12) główny specjalista do spraw obsługi handlu
 13) główny specjalista do spraw ochrony środowiska
@@ -1046,30 +1047,30 @@ source: "isap-pdf"
 42) starszy specjalista do spraw handlu emisjami i świadectwami
 43) starszy specjalista do spraw obsługi handlu
 44) starszy specjalista do spraw ochrony środowiska
-45) starszy specjalista do spraw ochrony środowiska koordynator
+45) starszy specjalista do spraw ochrony środowiska – koordynator
 46) starszy specjalista do spraw planowania handlowego
 47) starszy specjalista do spraw planowania, analiz i sprawozdawczości
 48) starszy specjalista do spraw rynku mocy
 49) starszy specjalista do spraw zarządzania portfelem
 50) starszy specjalista techniczny do spraw ochrony środowiska
-51) szef biura główny inżynier
+51) szef biura – główny inżynier
 52) szef biura ochrony środowiska
 53) szef biura planowania handlowego
 54) szef biura rynku mocy
 55) szef biura tradingu
 56) szef biura zarządzania portfelem
 57) zastępca kierownika działu zarządzania środowiskiem
-58) zastępca kierownika wydziału ochrony środowiska główny
+58) zastępca kierownika wydziału ochrony środowiska – główny
 7. nadzorowania ryzyka ochrony środowiska:
 1) dyrektor departamentu
 2) dyrektor departamentu ochrony środowiska
 3) dyrektor departamentu wsparcia wytwarzania
 4) dyrektor pionu zarządzania środowiskiem
-5) dyżurny ratownik
+5) dyżurny – ratownik
 6) główny inżynier
 7) główny specjalista
 8) główny specjalista do spraw ochrony środowiska
-9) główny specjalista do spraw ochrony środowiska koordynator
+9) główny specjalista do spraw ochrony środowiska – koordynator
 10) główny specjalista do spraw zarządzania środowiskowego
 11) inspektor do spraw ochrony przeciwpożarowej i ADR
 12) kierownik biura ochrony środowiska
@@ -1105,15 +1106,15 @@ source: "isap-pdf"
 17) główny inżynier do spraw utrzymania ruchu
 18) główny inżynier do spraw zarządzania majątkiem
 19) główny mechanik
-20) główny specjalista koordynator
+20) główny specjalista – koordynator
 21) główny specjalista do spraw automatyki
-22) główny specjalista do spraw automatyki koordynator
+22) główny specjalista do spraw automatyki – koordynator
 23) główny specjalista do spraw elektrycznych
 24) główny specjalista do spraw energetycznych
 25) główny specjalista do spraw handlowych
 26) główny specjalista do spraw inwestycji
 27) główny specjalista do spraw mechanicznych
-28) główny specjalista do spraw mechanicznych kierownik
+28) główny specjalista do spraw mechanicznych – kierownik
 29) główny specjalista do spraw obsługi gwarancyjnej bloku
 30) główny specjalista do spraw obsługi gwarancyjnej i optymalizacji
 31) główny specjalista do spraw planowania i nadzoru produkcji
@@ -1121,13 +1122,13 @@ source: "isap-pdf"
 33) główny specjalista do spraw planowania operacyjnego
 34) główny specjalista do spraw przygotowania inwestycji
 35) główny specjalista do spraw realizacji kontraktów
-36) główny specjalista do spraw realizacji kontraktów kierownik
+36) główny specjalista do spraw realizacji kontraktów – kierownik
 37) główny specjalista do spraw realizacji projektów
 38) główny specjalista do spraw regulacji
 39) główny specjalista do spraw serwisu i remontów
 40) główny specjalista do spraw technicznych, transformacji
 41) główny specjalista do spraw transformacji
-42) główny specjalista do spraw transformacji koordynator
+42) główny specjalista do spraw transformacji – koordynator
 43) główny specjalista do spraw ubezpieczeń majątkowych
 44) główny specjalista do spraw umów
 45) główny specjalista do spraw urządzeń energetycznych
@@ -1156,7 +1157,7 @@ source: "isap-pdf"
 68) kierownik działu zarządzania projektami rozwojowymi
 69) kierownik montażu
 70) kierownik projektu
-71) kierownik projektu kierownik budowy
+71) kierownik projektu – kierownik budowy
 72) kierownik wydziału analiz i przygotowania inwestycji
 73) kierownik wydziału inwestycyjnego
 74) kierownik wydziału nadzoru elektrycznego automatyki
@@ -1168,7 +1169,7 @@ source: "isap-pdf"
 80) kierownik wydziału planowania operacyjnego i koordynacji
 81) kierownik wydziału planowania operacyjnego i koordynacji
 82) kierownik wydziału realizacji inwestycji
-83) kierownik wydziału rozwoju i innowacji główny specjalista
+83) kierownik wydziału rozwoju i innowacji – główny specjalista
 84) kierownik wydziału serwisowego
 85) kierownik wydziału zarządzania ryzykami
 86) kierownik zespołu do spraw nowych technologii
@@ -1201,7 +1202,7 @@ source: "isap-pdf"
 113) specjalista do spraw przygotowania produkcji
 114) specjalista do spraw realizacji projektów
 115) specjalista do spraw rozliczeń
-116) specjalista do spraw rozwoju i innowacji inspektor nadzoru
+116) specjalista do spraw rozwoju i innowacji – inspektor nadzoru
 117) specjalista do spraw ryzyk i ubezpieczeń majątkowych
 118) specjalista do spraw systemów zarządzania
 119) specjalista do spraw transformacji
@@ -1222,7 +1223,7 @@ source: "isap-pdf"
 134) starszy monter remontów maszyn i urządzeń elektroenergetycznych
 135) starszy specjalista do spraw cyberbezpieczeństwa
 136) starszy specjalista do spraw elektrycznych
-137) starszy specjalista do spraw elektrycznych koordynator
+137) starszy specjalista do spraw elektrycznych – koordynator
 138) starszy specjalista do spraw gospodarki narzędziowej
 139) starszy specjalista do spraw marketingu
 140) starszy specjalista do spraw monitorowania projektów
@@ -1244,7 +1245,7 @@ source: "isap-pdf"
 156) technik do spraw przygotowania produkcji
 157) technik do spraw transportu
 158) technik do spraw transportu i sprzętu
-159) zastępca dyrektora technicznego inżynier gwarancyjny
+159) zastępca dyrektora technicznego – inżynier gwarancyjny
 160) zastępca kierownika wydziału nadzoru elektrycznego automatyki
 161) zastępca kierownika wydziału nadzoru inwestycji i remontów
 162) zastępca kierownika wydziału nadzoru kotłowego
@@ -1281,7 +1282,7 @@ source: "isap-pdf"
 27) główny specjalista do spraw kotłów
 28) główny specjalista do spraw łączności
 29) główny specjalista do spraw modernizacji
-30) główny specjalista do spraw nadzoru budowlanego inspektor
+30) główny specjalista do spraw nadzoru budowlanego – inspektor
 31) główny specjalista do spraw nadzoru elektrycznego
 32) główny specjalista do spraw pozablokowych
 33) główny specjalista do spraw rozliczeń projektu
@@ -1307,12 +1308,12 @@ source: "isap-pdf"
 53) kierownik działu urządzeń cieplno-mechanicznych
 54) kierownik sekcji inżynierii i planowania
 55) kierownik wydziału nadzoru urządzeń odsiarczania i gospodarki
-56) kierownik wydziału cyberbezpieczeństwa koordynator
+56) kierownik wydziału cyberbezpieczeństwa – koordynator
 57) kierownik wydziału inżynierii, planowania i analiz
 58) kierownik wydziału nadzoru automatyki
 59) kierownik wydziału nadzoru automatyki i systemów cyfrowych
 60) kierownik wydziału nadzoru budowlanego
-61) kierownik wydziału nadzoru budowlanego kierownik
+61) kierownik wydziału nadzoru budowlanego – kierownik
 62) kierownik wydziału nadzoru elektrycznego
 63) kierownik wydziału nadzoru elektrycznego, teletechniki
 64) kierownik wydziału nadzoru kotłowego
@@ -1351,14 +1352,14 @@ source: "isap-pdf"
 97) pracownik do spraw infrastruktury
 98) specjalista
 99) specjalista automatyk
-100) specjalista do spraw automatyki inspektor nadzoru
-101) specjalista do spraw bezpieczeństwa systemów OT inspektor
+100) specjalista do spraw automatyki – inspektor nadzoru
+101) specjalista do spraw bezpieczeństwa systemów OT – inspektor
 102) specjalista do spraw blokowych
 103) specjalista do spraw budowlanej infrastruktury elektrycznej
 104) specjalista do spraw budowlanych
-105) specjalista do spraw budowlanych inspektor nadzoru
+105) specjalista do spraw budowlanych – inspektor nadzoru
 106) specjalista do spraw chemii
-107) specjalista do spraw cyberbezpieczeństwa OT inspektor
+107) specjalista do spraw cyberbezpieczeństwa OT – inspektor
 108) specjalista do spraw części zamiennych i urządzeń pomocniczych
 109) specjalista do spraw diagnostyki i urządzeń poddozorowych
 110) specjalista do spraw diagnostyki wibroakustycznej
@@ -1367,47 +1368,47 @@ source: "isap-pdf"
 113) specjalista do spraw generatorów i elektrofiltrów
 114) specjalista do spraw gospodarki narzędziowej
 115) specjalista do spraw gospodarki wodnej
-116) specjalista do spraw innowacji i rozwoju koordynator
+116) specjalista do spraw innowacji i rozwoju – koordynator
 117) specjalista do spraw instalacji i urządzeń transportu bliskiego
 118) specjalista do spraw instalacji przemysłowych
-119) specjalista do spraw instalacji wewnętrznych inspektor
+119) specjalista do spraw instalacji wewnętrznych – inspektor
 120) specjalista do spraw inżynierii
 121) specjalista do spraw inżynierii materiałowej i urządzeń
 122) specjalista do spraw klimatyzacji
-123) specjalista do spraw klimatyzacji inspektor nadzoru
+123) specjalista do spraw klimatyzacji – inspektor nadzoru
 124) specjalista do spraw kotłów
 125) specjalista do spraw łączności
-126) specjalista do spraw łączności inspektor nadzoru
+126) specjalista do spraw łączności – inspektor nadzoru
 127) specjalista do spraw monitorowania i analiz
 128) specjalista do spraw nadzoru i rozliczeń inwestycji
 129) specjalista do spraw odsiarczania
-130) specjalista do spraw odsiarczania koordynator
+130) specjalista do spraw odsiarczania – koordynator
 131) specjalista do spraw organizacji prac
 132) specjalista do spraw personalnych i dokumentacji
 133) specjalista do spraw pozablokowych
 134) specjalista do spraw przygotowania remontów
 135) specjalista do spraw rozwoju i inwestycji
-136) specjalista do spraw sieci przemysłowych inspektor
+136) specjalista do spraw sieci przemysłowych – inspektor
 137) specjalista do spraw spawalnictwa i diagnostyki
 138) specjalista do spraw sprawozdawczości
 139) specjalista do spraw systemów automatyki przemysłowej
-140) specjalista do spraw systemów komputerowych inspektor
-141) specjalista do spraw systemów ochrony obiektów inspektor
-142) specjalista do spraw systemów przetwarzania danych
-143) specjalista do spraw taboru kolejowego inspektor nadzoru
+140) specjalista do spraw systemów komputerowych – inspektor
+141) specjalista do spraw systemów ochrony obiektów – inspektor
+142) specjalista do spraw systemów przetwarzania danych –
+143) specjalista do spraw taboru kolejowego – inspektor nadzoru
 144) specjalista do spraw telekomunikacji
 145) specjalista do spraw turbin
 146) specjalista do spraw turbin i urządzeń pomocniczych turbiny
 147) specjalista do spraw ubezpieczeń
 148) specjalista do spraw ubezpieczeń majątkowych
-149) specjalista do spraw ubezpieczeń majątkowych koordynator
+149) specjalista do spraw ubezpieczeń majątkowych – koordynator
 150) specjalista do spraw umów
 151) specjalista do spraw umów i rozliczeń dostaw
-152) specjalista do spraw umów i rozliczeń dostaw koordynator
+152) specjalista do spraw umów i rozliczeń dostaw – koordynator
 153) specjalista do spraw urządzeń dozoru technicznego
-154) specjalista do spraw urządzeń dźwignicowych inspektor
+154) specjalista do spraw urządzeń dźwignicowych – inspektor
 155) specjalista do spraw urządzeń dźwigowych
-156) specjalista do spraw urządzeń elektrycznych inspektor
+156) specjalista do spraw urządzeń elektrycznych – inspektor
 157) specjalista do spraw urządzeń gospodarki wodnej i ściekowej
 158) specjalista do spraw urządzeń i instalacji elektroenergetycznych
 159) specjalista do spraw urządzeń i instalacji pomocniczych
@@ -1415,8 +1416,8 @@ source: "isap-pdf"
 161) specjalista do spraw urządzeń instalacji odsiarczania spalin
 162) specjalista do spraw urządzeń kotłowni
 163) specjalista do spraw urządzeń kotłowych
-164) specjalista do spraw urządzeń kotłowych inspektor nadzoru
-165) specjalista do spraw urządzeń maszynowni inspektor
+164) specjalista do spraw urządzeń kotłowych – inspektor nadzoru
+165) specjalista do spraw urządzeń maszynowni – inspektor
 166) specjalista do spraw urządzeń nawęglania i odpopielania
 167) specjalista do spraw urządzeń poddozorowych
 168) specjalista do spraw urządzeń pozablokowych
@@ -1425,7 +1426,7 @@ source: "isap-pdf"
 171) specjalista do spraw utrzymania majątku elektrycznego
 172) specjalista do spraw utrzymania majątku mechanicznego
 173) specjalista do spraw wibrodiagnostyki
-174) specjalista do spraw wsparcia systemu ERP koordynator
+174) specjalista do spraw wsparcia systemu ERP – koordynator
 175) specjalista do spraw zarządzania dokumentacją i systemem
 176) specjalista koordynator remontów
 177) specjalista nadzoru budowlanego
@@ -1442,12 +1443,12 @@ source: "isap-pdf"
 188) starszy specjalista do spraw chemii
 189) starszy specjalista do spraw elektrycznych
 190) starszy specjalista do spraw elektrycznych i aparatury
-191) starszy specjalista do spraw gospodarki wodnej koordynator
+191) starszy specjalista do spraw gospodarki wodnej – koordynator
 192) starszy specjalista do spraw łączności
 193) starszy specjalista do spraw odsiarczania
-194) starszy specjalista do spraw odsiarczania koordynator
+194) starszy specjalista do spraw odsiarczania – koordynator
 195) starszy specjalista do spraw organizacji prac
-196) starszy specjalista do spraw telekomunikacji koordynator
+196) starszy specjalista do spraw telekomunikacji – koordynator
 197) starszy specjalista do spraw turbin i urządzeń pomocniczych
 198) starszy specjalista do spraw umów
 199) starszy specjalista do spraw urządzeń dozoru technicznego
@@ -1482,7 +1483,7 @@ source: "isap-pdf"
 3) dyrektor pionu remontów
 4) dyspozytor remontów
 5) dyżurny inżynier remontów
-6) dyżurny specjalista eksploatacji inspektor nadzoru
+6) dyżurny specjalista eksploatacji – inspektor nadzoru
 7) główny inżynier do spraw inwestycji i rozwoju
 8) główny spawalnik
 9) główny specjalista do spraw analiz i monitorowania projektów
@@ -1502,7 +1503,7 @@ source: "isap-pdf"
 23) główny specjalista do spraw pozablokowych
 24) główny specjalista do spraw projektowych analiz energetycznych
 25) główny specjalista do spraw przeciwpożarowych
-26) główny specjalista do spraw przeciwpożarowych koordynator
+26) główny specjalista do spraw przeciwpożarowych – koordynator
 27) główny specjalista do spraw przygotowania inwestycji
 28) główny specjalista do spraw przygotowania remontów
 29) główny specjalista do spraw systemów OT
@@ -1515,7 +1516,7 @@ source: "isap-pdf"
 36) główny specjalista oddziału do spraw inwestycji
 37) inspektor do spraw bezpieczeństwa i higieny pracy
 38) inspektor nadzoru remontów
-39) inspektor ochrony radiologicznej inspektor nadzoru
+39) inspektor ochrony radiologicznej – inspektor nadzoru
 40) inżynier budowy
 41) inżynier do spraw automatyki
 42) inżynier do spraw przygotowania remontów
@@ -1532,7 +1533,7 @@ source: "isap-pdf"
 53) kierownik oddziału przygotowania inwestycji
 54) kierownik projektu
 55) kierownik robót
-56) kierownik robót inspektor nadzoru
+56) kierownik robót – inspektor nadzoru
 57) kierownik sekcji nadzoru i analiz
 58) kierownik wydziału
 59) kierownik wydziału kontroli technicznej
@@ -1554,7 +1555,7 @@ source: "isap-pdf"
 75) koordynator sekcji odbiorów i rozliczeń inwestycji
 76) koordynator sekcji planowania inwestycyjnego i raportowania
 77) koordynator sekcji planowania remontowego i raportowania
-78) koordynator sekcji realizacji inwestycji kierownik projektu
+78) koordynator sekcji realizacji inwestycji – kierownik projektu
 79) mistrz
 80) mistrz do spraw remontów kotłów
 81) mistrz do spraw remontów turbin
@@ -1574,43 +1575,43 @@ source: "isap-pdf"
 95) ratownik
 96) samodzielny technik do spraw monitoringu realizacji zleceń
 97) samodzielny technik do spraw rozliczeń i dokumentacji
-98) specjalista asystent projektanta
-99) specjalista operator systemu pozyskiwania danych o
-100) specjalista projektant
+98) specjalista – asystent projektanta
+99) specjalista – operator systemu pozyskiwania danych o
+100) specjalista – projektant
 101) specjalista administrator przemysłowej magistrali ethernet
 102) specjalista automatyk
 103) specjalista do spraw analiz i ekspertyz technicznych
 104) specjalista do spraw analiz i monitorowania projektów
 105) specjalista do spraw analiz i rozliczeń działalności remontowej
-106) specjalista do spraw armatury i pomp inspektor nadzoru
+106) specjalista do spraw armatury i pomp – inspektor nadzoru
 107) specjalista do spraw automatyki
 108) specjalista do spraw automatyki i pomiarów cieplnych
 109) specjalista do spraw bezpieczeństwa i higieny pracy
 110) specjalista do spraw blokowych
 111) specjalista do spraw budowlanych
-112) specjalista do spraw budowlanych inspektor nadzoru
+112) specjalista do spraw budowlanych – inspektor nadzoru
 113) specjalista do spraw chemii
 114) specjalista do spraw diagnostyki i pomiarów drgań
 115) specjalista do spraw dokumentacji technicznej
 116) specjalista do spraw elektrycznych
-117) specjalista do spraw elektrycznych inspektor nadzoru
-118) specjalista do spraw elektrycznych koordynator
-119) specjalista do spraw hydrotechnicznych inspektor nadzoru
+117) specjalista do spraw elektrycznych – inspektor nadzoru
+118) specjalista do spraw elektrycznych – koordynator
+119) specjalista do spraw hydrotechnicznych – inspektor nadzoru
 120) specjalista do spraw informatycznych systemów w automatyce
 121) specjalista do spraw instalacji przemysłowych
-122) specjalista do spraw instalacji przemysłowych koordynator
+122) specjalista do spraw instalacji przemysłowych – koordynator
 123) specjalista do spraw inwestycji
-124) specjalista do spraw inwestycji inspektor nadzoru
+124) specjalista do spraw inwestycji – inspektor nadzoru
 125) specjalista do spraw kontroli jakości
-126) specjalista do spraw koordynacji eksploatacji inspektor
-127) specjalista do spraw koordynacji i raportowania koordynator nadzoru
+126) specjalista do spraw koordynacji eksploatacji – inspektor
+127) specjalista do spraw koordynacji i raportowania – koordynator nadzoru
 128) specjalista do spraw kotłowych
-129) specjalista do spraw kotłowych inspektor nadzoru
+129) specjalista do spraw kotłowych – inspektor nadzoru
 130) specjalista do spraw kotłów
 131) specjalista do spraw nadzoru technicznego
 132) specjalista do spraw nawęglania
 133) specjalista do spraw nawęglania i odpopielania
-134) specjalista do spraw nawęglania i odpopielania inspektor
+134) specjalista do spraw nawęglania i odpopielania – inspektor
 135) specjalista do spraw oczyszczania spalin
 136) specjalista do spraw ogólnoelektrownianych
 137) specjalista do spraw organizacji prac
@@ -1623,23 +1624,23 @@ source: "isap-pdf"
 144) specjalista do spraw programowania remontów i inwestycji
 145) specjalista do spraw przeciwpożarowych
 146) specjalista do spraw przemysłowej magistrali ethernet
-147) specjalista do spraw przetwarzania danych inspektor
+147) specjalista do spraw przetwarzania danych – inspektor
 148) specjalista do spraw przygotowania i realizacji dokumentacji
 149) specjalista do spraw przygotowania remontów
-150) specjalista do spraw przygotowania remontów asystent
-151) specjalista do spraw przygotowania remontów koordynator
-152) specjalista do spraw systemów cyfrowych inspektor
+150) specjalista do spraw przygotowania remontów – asystent
+151) specjalista do spraw przygotowania remontów – koordynator
+152) specjalista do spraw systemów cyfrowych – inspektor
 153) specjalista do spraw środków trwałych
 154) specjalista do spraw telekomunikacji
-155) specjalista do spraw telekomunikacji inspektor nadzoru
-156) specjalista do spraw turbin inspektor nadzoru
+155) specjalista do spraw telekomunikacji – inspektor nadzoru
+156) specjalista do spraw turbin – inspektor nadzoru
 157) specjalista do spraw uzyskiwania pozwoleń budowlanych
-158) specjalista do spraw wentylacji i klimatyzacji inspektor
+158) specjalista do spraw wentylacji i klimatyzacji – inspektor
 159) specjalista do spraw zabezpieczeń elektrycznych
 160) specjalista do spraw zarządzania projektami i innowacjami
 161) specjalista koordynator remontów
-162) specjalista projektant koordynator
-163) specjalista remontów planowych koordynator
+162) specjalista projektant – koordynator
+163) specjalista remontów planowych – koordynator
 164) specjalista techniczny do spraw inwestycji
 165) specjalista techniczny do spraw koordynacji remontów
 166) starszy inspektor do spraw bezpieczeństwa i higieny pracy
@@ -1653,7 +1654,7 @@ source: "isap-pdf"
 174) starszy monter remontów turbin
 175) starszy specjalista automatyk
 176) starszy specjalista do spraw automatyki
-177) starszy specjalista do spraw automatyki koordynator
+177) starszy specjalista do spraw automatyki – koordynator
 178) starszy specjalista do spraw bezpieczeństwa i higieny pracy
 179) starszy specjalista do spraw blokowych
 180) starszy specjalista do spraw budowlanych
@@ -1661,13 +1662,13 @@ source: "isap-pdf"
 182) starszy specjalista do spraw diagnostyki i pomiarów drgań
 183) starszy specjalista do spraw ekonomicznych inwestycji
 184) starszy specjalista do spraw elektrycznych
-185) starszy specjalista do spraw gospodarki wodnej koordynator
-186) starszy specjalista do spraw hydrotechnicznych inspektor
+185) starszy specjalista do spraw gospodarki wodnej – koordynator
+186) starszy specjalista do spraw hydrotechnicznych – inspektor
 187) starszy specjalista do spraw informatycznych systemów
 188) starszy specjalista do spraw koordynacji i obsługi eksploatacji
 189) starszy specjalista do spraw nawęglania i odpopielania
 190) starszy specjalista do spraw ogólnoelektrownianych
-191) starszy specjalista do spraw ogólnoelektrownianych
+191) starszy specjalista do spraw ogólnoelektrownianych –
 192) starszy specjalista do spraw organizacji prac
 193) starszy specjalista do spraw planowania
 194) starszy specjalista do spraw przeciwpożarowych
@@ -1690,23 +1691,23 @@ source: "isap-pdf"
 6) dyrektor pionu remontów
 7) dyspozytor remontów
 8) główny specjalista
-9) główny specjalista koordynator sekcji rozliczeń kontraktu
+9) główny specjalista – koordynator sekcji rozliczeń kontraktu
 10) główny specjalista do spraw aparatury kontrolno-pomiarowej
 11) główny specjalista do spraw automatyki
 12) główny specjalista do spraw blokowych
 13) główny specjalista do spraw cyberbezpieczeństwa
 14) główny specjalista do spraw elektrycznych
 15) główny specjalista do spraw inwestycji
-16) główny specjalista do spraw inwestycji dyrektor projektu
-17) główny specjalista do spraw inwestycji dyrektor projektu
-18) główny specjalista do spraw inwestycji kierownik biura
-19) główny specjalista do spraw inwestycji koordynator
-20) główny specjalista do spraw inwestycji koordynator
-21) główny specjalista do spraw koordynacji remontów koordynator
+16) główny specjalista do spraw inwestycji – dyrektor projektu
+17) główny specjalista do spraw inwestycji – dyrektor projektu
+18) główny specjalista do spraw inwestycji – kierownik biura
+19) główny specjalista do spraw inwestycji – koordynator
+20) główny specjalista do spraw inwestycji – koordynator
+21) główny specjalista do spraw koordynacji remontów – koordynator
 22) główny specjalista do spraw koordynacji ubezpieczeń
 23) główny specjalista do spraw łączności i telemechaniki
 24) główny specjalista do spraw planowania i analiz
-25) główny specjalista do spraw planowania i analiz koordynator
+25) główny specjalista do spraw planowania i analiz – koordynator
 26) główny specjalista do spraw pozablokowych
 27) główny specjalista do spraw spawalnictwa
 28) główny specjalista do spraw urządzeń energetycznych
@@ -1758,8 +1759,8 @@ source: "isap-pdf"
 74) koordynator procesów remontowych
 75) koordynator sekcji do spraw cyberbezpieczeństwa
 76) koordynator sekcji inżyniera gwarancyjnego
-77) koordynator sekcji inżyniera gwarancyjnego kierownik
-78) młodszy specjalista asystentka głównego inżyniera
+77) koordynator sekcji inżyniera gwarancyjnego – kierownik
+78) młodszy specjalista – asystentka głównego inżyniera
 79) młodszy specjalista do spraw turbozespołu i urządzeń
 80) pełniący obowiązki kierownik projektu
 81) pełniący obowiązki kierownika sekcji do spraw cyberbezpieczeństwa
@@ -1773,11 +1774,11 @@ source: "isap-pdf"
 89) specjalista do spraw ciepłownictwa
 90) specjalista do spraw dokumentacji
 91) specjalista do spraw elektrycznych
-92) specjalista do spraw gospodarki odpadami inspektor
+92) specjalista do spraw gospodarki odpadami – inspektor
 93) specjalista do spraw inwestycji
-94) specjalista do spraw inwestycji inspektor nadzoru
+94) specjalista do spraw inwestycji – inspektor nadzoru
 95) specjalista do spraw kontroli jakości
-96) specjalista do spraw kotłów koordynator
+96) specjalista do spraw kotłów – koordynator
 97) specjalista do spraw logistyki sprzętu
 98) specjalista do spraw organizacji prac
 99) specjalista do spraw pozablokowych
@@ -1815,7 +1816,7 @@ source: "isap-pdf"
 131) starszy specjalista do spraw IOS
 132) starszy specjalista do spraw konstrukcyjnych i odpopielania
 133) starszy specjalista do spraw kotłów
-134) starszy specjalista do spraw kotłów koordynator
+134) starszy specjalista do spraw kotłów – koordynator
 135) starszy specjalista do spraw nadzoru technicznego
 136) starszy specjalista do spraw organizacji prac
 137) starszy specjalista do spraw planowania i rozliczeń
@@ -1825,7 +1826,7 @@ source: "isap-pdf"
 141) starszy specjalista do spraw transportu wewnętrznego
 142) starszy specjalista do spraw turbozespołu i urządzeń maszynowni
 143) starszy specjalista do spraw turbozespołu i urządzeń maszynowni
-144) starszy specjalista do spraw urządzeń dźwigowych koordynator
+144) starszy specjalista do spraw urządzeń dźwigowych – koordynator
 145) starszy specjalista do spraw urządzeń podlegających UDT
 146) starszy specjalista do spraw urządzeń pomocniczych kotła
 147) starszy specjalista koordynator remontów
@@ -1842,7 +1843,7 @@ source: "isap-pdf"
 158) zastępca kierującego wydziałem nadzoru urządzeń odsiarczania
 5. prowadzenia laboratorium chemicznego:
 1) dyrektor centrum badań jakości
-2) dyrektor departamentu analiz chemicznych laboratorium
+2) dyrektor departamentu analiz chemicznych – laboratorium
 3) główny koordynator
 4) główny specjalista
 5) główny specjalista do spraw jakości
@@ -1905,8 +1906,8 @@ source: "isap-pdf"
 2) dyrektor departamentu nieruchomości
 3) ekonomista do spraw gospodarowania gruntami
 4) główny specjalista
-5) główny specjalista koordynator
-6) główny specjalista koordynator do spraw administracji
+5) główny specjalista – koordynator
+6) główny specjalista – koordynator do spraw administracji
 7) główny specjalista do spraw administracji i nieruchomości
 8) główny specjalista do spraw administracji i transportu
 9) główny specjalista do spraw administracyjno-gospodarczych
@@ -1937,13 +1938,13 @@ source: "isap-pdf"
 34) młodszy specjalista do spraw administracyjnych
 35) młodszy specjalista do spraw kancelaryjnych
 36) specjalista
-37) specjalista koordynator
+37) specjalista – koordynator
 38) specjalista do spraw administracji i nieruchomości nieprodukcyjnych
 39) specjalista do spraw administracji i transportu
 40) specjalista do spraw administracyjno-gospodarczych
 41) specjalista do spraw administracyjnych
 42) specjalista do spraw budowlanych
-43) specjalista do spraw budowlanych koordynator
+43) specjalista do spraw budowlanych – koordynator
 44) specjalista do spraw budowlanych i hydrotechnicznych
 45) specjalista do spraw budowlanych i obmurza kotłów
 46) specjalista do spraw geodezji i nieruchomości
@@ -1998,7 +1999,7 @@ source: "isap-pdf"
 23) elektroenergetyk
 24) elektromechanik
 25) elektromonter
-26) elektromonter automatyk
+26) elektromonter – automatyk
 27) elektromonter aparatury kontrolno-pomiarowej i automatyki
 28) główny inżynier do spraw utrzymania ruchu
 29) główny spawalnik
@@ -2015,18 +2016,18 @@ source: "isap-pdf"
 40) inspektor do spraw bezpieczeństwa i higieny pracy
 41) inspektor do spraw wibroakustyki i kontroli jakości usług serwisowo-remontowych
 42) inspektor eksploatacji urządzeń elektrycznych
-43) inżynier technolog
+43) inżynier – technolog
 44) inżynier budowy
 45) inżynier do spraw diagnostyki
 46) inżynier do spraw przygotowania remontów
 47) inżynier do spraw systemu DCS
 48) inżynier do spraw urządzeń cieplno-mechanicznych
-49) inżynier do spraw urządzeń cieplno-mechanicznych inspektor
+49) inżynier do spraw urządzeń cieplno-mechanicznych – inspektor
 50) inżynier do spraw urządzeń elektrycznych i układów automatyki
 51) inżynier systemu
-52) inżynier systemu kierowca
+52) inżynier systemu – kierowca
 53) inżynier systemu OT
-54) kierowca operator
+54) kierowca – operator
 55) kierowca operator sprzętu ciężkiego
 56) kierowca zaopatrzeniowiec
 57) kierownik biura bezpieczeństwa i higieny pracy i ochrony środowiska
@@ -2084,7 +2085,7 @@ source: "isap-pdf"
 109) koordynator magazynów
 110) magazynier
 111) mechanik
-112) mechanik samochodowy spawacz
+112) mechanik samochodowy – spawacz
 113) mistrz
 114) mistrz aparatury rozdzielczej i instalacji elektrycznych
 115) mistrz do spraw automatyki
@@ -2121,10 +2122,10 @@ source: "isap-pdf"
 146) młodszy elektromonter
 147) młodszy mistrz
 148) młodszy monter
-149) młodszy monter izolarz
+149) młodszy monter – izolarz
 150) młodszy monter urządzeń przemysłowych
 151) młodszy spawacz UDT
-152) młodszy specjalista technolog
+152) młodszy specjalista – technolog
 153) młodszy specjalista do spraw informatycznego wsparcia przygotowania
 154) młodszy specjalista do spraw informatyki
 155) młodszy specjalista do spraw jakości
@@ -2134,15 +2135,15 @@ source: "isap-pdf"
 159) młodszy specjalista do spraw systemów DCS
 160) młodszy specjalista do spraw technicznych
 161) monter
-162) monter izolarz
-163) monter kierowca
-164) monter tokarz
+162) monter – izolarz
+163) monter – kierowca
+164) monter – tokarz
 165) monter urządzeń przemysłowych
 166) monter usług serwisowo-remontowych
 167) monter usług serwisowo-remontowych kotłów
 168) operator
 169) operator maszyn obróbki skrawaniem
-170) operator maszyn obróbki skrawaniem spawacz
+170) operator maszyn obróbki skrawaniem – spawacz
 171) pomocnik elektromontera
 172) pracownik do prac prostych
 173) projektant
@@ -2152,12 +2153,12 @@ source: "isap-pdf"
 177) samodzielny technik do spraw diagnostyki
 178) samodzielny technik do spraw ewidencji i rozliczeń
 179) spawacz
-180) spawacz monter
+180) spawacz – monter
 181) spawacz UDT
 182) spawacz z uprawnieniami
 183) specjalista
-184) specjalista konstruktor
-185) specjalista konstruktor koordynator
+184) specjalista – konstruktor
+185) specjalista – konstruktor – koordynator
 186) specjalista do spraw administracyjno-pracowniczych
 187) specjalista do spraw automatyki
 188) specjalista do spraw automatyki i systemów cyfrowych
@@ -2176,7 +2177,7 @@ source: "isap-pdf"
 201) specjalista do spraw konstrukcyjno-technologicznych
 202) specjalista do spraw kontroli jakości
 203) specjalista do spraw kontroli technicznej
-204) specjalista do spraw kontroli technicznej koordynator
+204) specjalista do spraw kontroli technicznej – koordynator
 205) specjalista do spraw obronnych i wojskowych
 206) specjalista do spraw ofertowania
 207) specjalista do spraw organizacyjno-techniczny
@@ -2184,7 +2185,7 @@ source: "isap-pdf"
 209) specjalista do spraw pracowniczych i organizacyjnych
 210) specjalista do spraw projektów
 211) specjalista do spraw przygotowania remontów
-212) specjalista do spraw przygotowania remontów koordynator
+212) specjalista do spraw przygotowania remontów – koordynator
 213) specjalista do spraw przygotowania remontów turbin
 214) specjalista do spraw remontów warsztatowych
 215) specjalista do spraw rozliczeń
@@ -2197,7 +2198,7 @@ source: "isap-pdf"
 222) specjalista do spraw układów automatyki
 223) specjalista do spraw układów automatyki AKPIA
 224) specjalista do spraw umów i rozliczeń
-225) specjalista do spraw urządzeń cieplno-mechanicznych inspektor
+225) specjalista do spraw urządzeń cieplno-mechanicznych – inspektor
 226) specjalista do spraw urządzeń dźwigowych
 227) specjalista do spraw urządzeń elektrycznych
 228) specjalista do spraw wsparcia
@@ -2215,7 +2216,7 @@ source: "isap-pdf"
 240) starszy kontroler jakości produkcji
 241) starszy mechanik
 242) starszy mechanik samochodowy
-243) starszy mechanik samochodowy spawacz
+243) starszy mechanik samochodowy – spawacz
 244) starszy mistrz
 245) starszy mistrz do spraw automatyki
 246) starszy mistrz do spraw automatyki i techniki cyfrowej
@@ -2238,15 +2239,15 @@ source: "isap-pdf"
 263) starszy mistrz do spraw zabezpieczeń i pomiarów elektrycznych
 264) starszy mistrz remontów maszyn i urządzeń energetycznych
 265) starszy monter
-266) starszy monter izolarz
+266) starszy monter – izolarz
 267) starszy monter maszyn i urządzeń energetycznych
 268) starszy monter urządzeń przemysłowych
 269) starszy operator maszyn obróbki skrawaniem
-270) starszy operator maszyn obróbki skrawaniem spawacz
-271) starszy spawacz monter
+270) starszy operator maszyn obróbki skrawaniem – spawacz
+271) starszy spawacz – monter
 272) starszy specjalista
-273) starszy specjalista asystent projektanta koordynator
-274) starszy specjalista technolog koordynator
+273) starszy specjalista – asystent projektanta – koordynator
+274) starszy specjalista – technolog – koordynator
 275) starszy specjalista do spraw elektroniki
 276) starszy specjalista do spraw energoelektroniki
 277) starszy specjalista do spraw gospodarki narzędziowej
@@ -2257,22 +2258,22 @@ source: "isap-pdf"
 282) starszy specjalista do spraw napędów
 283) starszy specjalista do spraw ofertowania
 284) starszy specjalista do spraw projektów
-285) starszy specjalista do spraw remontów młynów koordynator
+285) starszy specjalista do spraw remontów młynów – koordynator
 286) starszy specjalista do spraw remontów turbin
 287) starszy specjalista do spraw technicznych
 288) starszy specjalista do spraw teletechniki
-289) starszy specjalista do spraw teletechniki koordynator
+289) starszy specjalista do spraw teletechniki – koordynator
 290) starszy specjalista do spraw wsparcia
 291) starszy specjalista do spraw zabezpieczeń
 292) starszy specjalista do spraw zakupów
-293) starszy technik konstruktor
-294) starszy technik technolog
+293) starszy technik – konstruktor
+294) starszy technik – technolog
 295) starszy technik do spraw narzędzi
 296) starszy technik do spraw obsługi produkcji
 297) starszy technik do spraw przygotowania produkcji
 298) starszy technik do spraw przygotowania remontów
 299) starszy technik do spraw rozliczeń
-300) technik technolog
+300) technik – technolog
 301) technik do spraw narzędzi
 302) technik do spraw obsługi produkcji
 303) technik do spraw przygotowania remontów
@@ -2289,13 +2290,13 @@ source: "isap-pdf"
 3) administrator systemów DCS
 4) automatyk
 5) blacharz
-6) blacharz izoler
+6) blacharz – izoler
 7) blacharz dekarz
 8) cieśla
 9) diagnosta
-10) dowódca zastępu ratownik kierowca
+10) dowódca zastępu – ratownik kierowca
 11) dowódca zmiany
-12) dowódca zmiany ratownik przeciwpożarowy
+12) dowódca zmiany – ratownik przeciwpożarowy
 13) dowódca zmiany straży przeciwpożarowy
 14) dyrektor biura zarządu
 15) dyrektor departamentu bezpieczeństwa i kontroli wewnętrznej
@@ -2331,7 +2332,7 @@ source: "isap-pdf"
 45) elektromonter automatyki, pomiarów i zabezpieczeń
 46) elektromonter urządzeń elektroenergetycznych
 47) elektryk
-48) frezer wiertacz maszynowy
+48) frezer – wiertacz maszynowy
 49) główny inżynier do spraw automatyki i elektryki
 50) główny inżynier do spraw technicznych
 51) główny spawalnik
@@ -2356,7 +2357,7 @@ source: "isap-pdf"
 70) główny specjalista do spraw ochrony przeciwpożarowej
 71) główny specjalista do spraw projektów
 72) główny specjalista do spraw przeciwpożarowych
-73) główny specjalista do spraw przeciwpożarowych koordynator
+73) główny specjalista do spraw przeciwpożarowych – koordynator
 74) główny specjalista do spraw spawalnictwa
 75) główny specjalista do spraw sprzedaży
 76) główny specjalista do spraw systemów cyfrowych
@@ -2365,14 +2366,14 @@ source: "isap-pdf"
 79) główny specjalista do spraw urządzeń energetycznych
 80) główny specjalista do spraw zakupów
 81) hartownik
-82) hartownik kowal
+82) hartownik – kowal
 83) inspektor
-84) inspektor brakarz
+84) inspektor – brakarz
 85) inspektor bezpieczeństwa i higieny pracy
 86) inspektor do spraw bezpieczeństwa i higieny pracy
 87) inspektor do spraw bezpieczeństwa i higieny pracy i ochrony
 88) inspektor do spraw nadzoru przeciwpożarowego
-89) instruktor praktycznej nauki zawodu warsztatowiec
+89) instruktor praktycznej nauki zawodu – warsztatowiec
 90) inżynier bezpieczeństwa DCS
 91) inżynier bezpieczeństwa systemów DCS
 92) inżynier bezpieczeństwa systemów SCADA
@@ -2393,14 +2394,14 @@ source: "isap-pdf"
 107) inżynier metrolog pomiarów fizykochemicznych
 108) izoler
 109) izoler przemysłowy
-110) izoler przemysłowy monter
-111) izoler przemysłowy monter rusztowań
+110) izoler przemysłowy – monter
+111) izoler przemysłowy – monter rusztowań
 112) kierowca
-113) kierowca mechanik
-114) kierowca operator
-115) kierowca operator sprzętu
-116) kierowca operator sprzętu ciężkiego
-117) kierowca zaopatrzeniowiec
+113) kierowca – mechanik
+114) kierowca – operator
+115) kierowca – operator sprzętu
+116) kierowca – operator sprzętu ciężkiego
+117) kierowca – zaopatrzeniowiec
 118) kierowca samochodu ciężarowego o dopuszczalnej masie całkowitej
 119) kierowca samochodu ciężarowego o dopuszczalnej masie całkowitej transportu wewnętrznego
 120) kierowca samochodu ciężarowego o dopuszczalnej masie portu wewnętrznego
@@ -2408,15 +2409,15 @@ source: "isap-pdf"
 122) kierowca samochodu ciężarowego o dopuszczalnej masie całkowitej wewnętrznego
 123) kierowca samochodu o dopuszczalnej masie całkowitej nieprzekraczającej
 124) kierowca samochodu o dopuszczalnej masie całkowitej powyżej
-125) kierowca samochodu specjalnego ratownik przeciwpożarowy
-126) kierowca samochodu towos pogotowie techniczne
+125) kierowca samochodu specjalnego – ratownik przeciwpożarowy
+126) kierowca samochodu towos – pogotowie techniczne
 127) kierownik biura
 128) kierownik biura bezpieczeństwa
 129) kierownik biura bezpieczeństwa i higieny pracy
 130) kierownik biura bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej
 131) kierownik biura kontroli jakości i nadzoru spawalniczego
 132) kierownik biura ochrony przeciwpożarowej
-133) kierownik biura projektów strategicznych główny inżynier
+133) kierownik biura projektów strategicznych – główny inżynier
 134) kierownik biura spraw obronnych i ochrony spółki
 135) kierownik biura w obszarze bezpieczeństwa i higieny pracy
 136) kierownik biura w obszarze ochrony środowiska
@@ -2437,7 +2438,7 @@ source: "isap-pdf"
 151) kierownik działu remontów urządzeń maszynowni
 152) kierownik działu robót pomocniczych
 153) kierownik działu serwisu automatyki
-154) kierownik działu serwisu automatyki kierownik projektu
+154) kierownik działu serwisu automatyki – kierownik projektu
 155) kierownik działu sprzedaży
 156) kierownik działu utrzymania ruchu
 157) kierownik działu w obszarze gospodarki magazynowej i obsługi
@@ -2447,7 +2448,7 @@ source: "isap-pdf"
 161) kierownik działu w obszarze składowisk UPS
 162) kierownik działu w obszarze sprzętu i usług transportowych
 163) kierownik działu w obszarze zagospodarowania UPS
-164) kierownik działu zakupów zastępca dyrektora departamentu
+164) kierownik działu zakupów – zastępca dyrektora departamentu
 165) kierownik działu zarządzania jakością
 166) kierownik kancelarii niejawnej
 167) kierownik magazynu
@@ -2456,7 +2457,7 @@ source: "isap-pdf"
 170) kierownik oddziału zakupów
 171) kierownik projektu
 172) kierownik robót
-173) kierownik robót inspektor nadzoru
+173) kierownik robót – inspektor nadzoru
 174) kierownik robót do spraw instalacyjno-budowlanych
 175) kierownik robót do spraw odpopielania i nawęglania
 176) kierownik robót do spraw wysokościowych
@@ -2516,25 +2517,25 @@ source: "isap-pdf"
 230) konserwator urządzeń dźwigowych
 231) kontroler
 232) kontroler jakości
-233) koordynator główny specjalista do spraw kotłów
-234) koordynator główny specjalista do spraw budowlanych
-235) koordynator główny specjalista do spraw elektrycznych i
-236) koordynator główny specjalista do spraw nawęglania, odpopielania
-237) koordynator główny specjalista do spraw rozliczeń
-238) koordynator główny specjalista do spraw turbin
+233) koordynator – główny specjalista do spraw kotłów
+234) koordynator – główny specjalista do spraw budowlanych
+235) koordynator – główny specjalista do spraw elektrycznych i
+236) koordynator – główny specjalista do spraw nawęglania, odpopielania
+237) koordynator – główny specjalista do spraw rozliczeń
+238) koordynator – główny specjalista do spraw turbin
 239) koordynator bezpieczeństwa i higieny pracy
 240) koordynator do spraw bezpieczeństwa
 241) koordynator do spraw floty samochodowej
 242) koordynator do spraw obrony
 243) koordynator do spraw remontów urządzeń kotłowych
-244) krajacz metali robotnik transportowy
+244) krajacz metali – robotnik transportowy
 245) kwalifikowany monter remontów maszyn i urządzeń elektroenergetycznych
 246) kwalifikowany monter remontów turbin i urządzeń pomocniczych
 247) kwalifikowany monter remontów urządzeń metodą przemysłową
 248) laborant do spraw pomiarów środowiskowych
 249) magazynier
-250) magazynier kierowca
-251) magazynier wydawca
+250) magazynier – kierowca
+251) magazynier – wydawca
 252) majster
 253) malarz
 254) malarz piaskarz
@@ -2542,14 +2543,14 @@ source: "isap-pdf"
 256) maszynista
 257) maszynista lokomotyw
 258) mechanik
-259) mechanik kierowca
+259) mechanik – kierowca
 260) mechanik napraw sprzętu ciężkiego i kolejowego
 261) mechanik napraw sprzętu specjalistycznego
 262) mechanik napraw sprzętu transportu wewnętrznego, ciężkiego,
-263) mechanik obchodowy ratownik przeciwpożarowy
+263) mechanik obchodowy – ratownik przeciwpożarowy
 264) mechanik sprzętu i urządzeń przeciwpożarowych
 265) mistrz
-266) mistrz dyspozytor transportu i sprzętu
+266) mistrz – dyspozytor transportu i sprzętu
 267) mistrz do spraw automatyki
 268) mistrz do spraw generatorów, transformatorów i elektrofiltrów
 269) mistrz do spraw gospodarki magazynowej
@@ -2586,9 +2587,9 @@ source: "isap-pdf"
 300) mistrz zabezpieczeń technologicznych
 301) mistrz zmianowy
 302) młodszy elektroenergetyk
-303) młodszy inspektor brakarz
+303) młodszy inspektor – brakarz
 304) młodszy mistrz
-305) młodszy monter izolarz
+305) młodszy monter – izolarz
 306) młodszy monter spawacz
 307) młodszy monter urządzeń przemysłowych
 308) młodszy obchodowy składowisk UPS
@@ -2607,28 +2608,28 @@ source: "isap-pdf"
 321) młodszy specjalista do spraw ochrony fizycznej
 322) młodszy specjalista do spraw ochrony i zabezpieczeń technicznych
 323) monter
-324) monter izolarz
-325) monter kierowca
-326) monter spawacz
-327) monter tokarz
+324) monter – izolarz
+325) monter – kierowca
+326) monter – spawacz
+327) monter – tokarz
 328) monter gospodarki smarowniczej
 329) monter instalacji energetycznych
-330) monter instalacji energetycznych spawacz
-331) monter instalacji energetycznych tokarz
+330) monter instalacji energetycznych – spawacz
+331) monter instalacji energetycznych – tokarz
 332) monter instalacji przemysłowej
 333) monter instalacji przemysłowych
-334) monter instalacji przemysłowych spawacz
+334) monter instalacji przemysłowych – spawacz
 335) monter instalacji sanitarnych i ogrzewczych
 336) monter kotłów
-337) monter kotłów kontroler jakości
-338) monter kotłów spawacz
+337) monter kotłów – kontroler jakości
+338) monter kotłów – spawacz
 339) monter remontów instalacji
 340) monter remontów instalacji przemysłowej i gospodarki wodnej
 341) monter remontów kotłów
-342) monter remontów kotłów spawacz
-343) monter remontów kotłów spawacz z uprawnieniami
+342) monter remontów kotłów – spawacz
+343) monter remontów kotłów – spawacz z uprawnieniami
 344) monter remontów kotłów i urządzeń pomocniczych
-345) monter remontów kotłów i urządzeń pomocniczych spawacz
+345) monter remontów kotłów i urządzeń pomocniczych – spawacz
 346) monter remontów maszyn i urządzeń elektroenergetycznych
 347) monter remontów maszyn i urządzeń elektroenergetycznych
 348) monter remontów maszyn i urządzeń elektroenergetycznych cowych i transportu wewnętrznego
@@ -2641,13 +2642,13 @@ source: "isap-pdf"
 355) monter remontów urządzeń dźwignicowych i transportu wewnętrznego
 356) monter remontów urządzeń metodą przemysłową
 357) monter remontów urządzeń nawęglania
-358) monter remontów urządzeń nawęglania spawacz
+358) monter remontów urządzeń nawęglania – spawacz
 359) monter remontów urządzeń nawęglania i urządzeń pomocniczych
 360) monter remontów urządzeń nawęglania i urządzeń pomocniczych
 361) monter remontów urządzeń nawęglania i urządzeń pomocniczych
 362) monter remontów urządzeń nawęglania i urządzeń pomocniczych
 363) monter remontów urządzeń odsiarczania
-364) monter remontów urządzeń odsiarczania operator maszyn
+364) monter remontów urządzeń odsiarczania – operator maszyn
 365) monter remontu kotłów
 366) monter remontu turbin
 367) monter remontu urządzeń i instalacji technologicznych
@@ -2658,21 +2659,21 @@ source: "isap-pdf"
 372) monter ślusarz
 373) monter tokarz
 374) monter turbin
-375) monter turbin spawacz
+375) monter turbin – spawacz
 376) monter turbin i kotłów
-377) monter turbin i kotłów spawacz
+377) monter turbin i kotłów – spawacz
 378) monter urządzeń dźwigowych
 379) monter urządzeń i instalacji
-380) monter urządzeń nawęglania i odpopielania spawacz
+380) monter urządzeń nawęglania i odpopielania – spawacz
 381) monter urządzeń przemysłowych
 382) murarz
-383) murarz monter rusztowań
+383) murarz – monter rusztowań
 384) murarz kotłów energetycznych
-385) murarz kotłów energetycznych czyściciel
-386) murarz kotłów energetycznych monter remontów kotłów
+385) murarz kotłów energetycznych – czyściciel
+386) murarz kotłów energetycznych – monter remontów kotłów
 387) murarz kotłów przemysłowych
 388) narzędziowiec
-389) nastawniczy zwrotniczy
+389) nastawniczy – zwrotniczy
 390) obchodowy instalacji odpirytowania
 391) obchodowy składowisk ubocznych produktów spalania
 392) obchodowy urządzeń biomasy
@@ -2680,21 +2681,21 @@ source: "isap-pdf"
 394) obchodowy urządzeń odpopielania i odżużlania
 395) operator defektoskopów
 396) operator dźwignic
-397) operator maszyn urządzeń
+397) operator maszyn – urządzeń
 398) operator maszyn obróbki skrawaniem
-399) operator maszyn obróbki skrawaniem spawacz
+399) operator maszyn obróbki skrawaniem – spawacz
 400) operator merlo
 401) operator obróbki skrawaniem
 402) operator piaskarni
 403) operator sprzętu
-404) operator sprzętu kierowca
+404) operator sprzętu – kierowca
 405) operator sprzętu ciężkiego
 406) operator sprzętu transportu wewnętrznego
-407) operator sprzętu transportu wewnętrznego kierowca samochodu nieprzekraczającej 3,5 t
-408) operator sprzętu transportu wewnętrznego kierowca samochodu powyżej 13 t
-409) operator sprzętu transportu wewnętrznego ślusarz konstrukcyjny
-410) operator sprzętu transportu wewnętrzny operator wózków
-411) operator suwnic sprzątaczka
+407) operator sprzętu transportu wewnętrznego – kierowca samochodu nieprzekraczającej 3,5 t
+408) operator sprzętu transportu wewnętrznego – kierowca samochodu powyżej 13 t
+409) operator sprzętu transportu wewnętrznego – ślusarz konstrukcyjny
+410) operator sprzętu transportu wewnętrzny – operator wózków
+411) operator suwnic – sprzątaczka
 412) operator suwnicy
 413) operator urządzeń biomasy
 414) operator urządzeń odpopielania
@@ -2712,7 +2713,7 @@ source: "isap-pdf"
 426) pracownik do prac prostych
 427) pracownik do spraw gospodarczych i socjalnych
 428) pracownik gospodarczy
-429) pracownik gospodarczy operator ładowarki
+429) pracownik gospodarczy – operator ładowarki
 430) pracownik gospodarki olejowej
 431) pracownik pomocniczy
 432) projektant
@@ -2724,7 +2725,7 @@ source: "isap-pdf"
 438) referent w obszarze spedycji i BDO
 439) rewident taboru
 440) robotnik budowlany
-441) robotnik gospodarczy magazynier
+441) robotnik gospodarczy – magazynier
 442) robotnik gospodarczy
 443) robotnik torowy
 444) samodzielny elektroenergetyk pomiarów i zabezpieczeń elektrycznych
@@ -2752,15 +2753,15 @@ source: "isap-pdf"
 466) samodzielny referent w obszarze spedycji i BDO
 467) samodzielny technik do spraw przeciwpożarowych
 468) spawacz
-469) spawacz monter
-470) spawacz starszy robotnik transport
+469) spawacz – monter
+470) spawacz – starszy robotnik transport
 471) spawacz dozorowy
 472) spawacz specjalistyczny poddozorowy
 473) spawacz UDT
 474) spawacz z uprawnieniami
 475) spawacz z uprawnieniami specjalnymi
-476) spawacz z uprawnieniami specjalnymi monter remontów
-477) spawacz z uprawnieniami specjalnymi brygadzista
+476) spawacz z uprawnieniami specjalnymi – monter remontów
+477) spawacz z uprawnieniami specjalnymi – brygadzista
 478) specjalista do spraw bezpieczeństwa i higieny pracy
 479) specjalista DCS
 480) specjalista do spraw administracji bezpieczeństwa
@@ -2769,10 +2770,10 @@ source: "isap-pdf"
 483) specjalista do spraw analiz
 484) specjalista do spraw analiz i bezpieczeństwa
 485) specjalista do spraw automatyki
-486) specjalista do spraw badań inspektor nadzoru
+486) specjalista do spraw badań – inspektor nadzoru
 487) specjalista do spraw bezpieczeństwa
 488) specjalista do spraw bezpieczeństwa i higieny pracy
-489) specjalista do spraw bezpieczeństwa informacji koordynator
+489) specjalista do spraw bezpieczeństwa informacji – koordynator
 490) specjalista do spraw bezpieczeństwa ruchu
 491) specjalista do spraw controllingu
 492) specjalista do spraw dokumentacji technicznej
@@ -2783,7 +2784,7 @@ source: "isap-pdf"
 497) specjalista do spraw gospodarki smarowniczej
 498) specjalista do spraw handlowych
 499) specjalista do spraw informatycznego wsparcia systemów monitoringu
-500) specjalista do spraw informatyki koordynator
+500) specjalista do spraw informatyki – koordynator
 501) specjalista do spraw infrastruktury krytycznej
 502) specjalista do spraw infrastruktury pasywnej
 503) specjalista do spraw inwentaryzacji
@@ -2802,14 +2803,14 @@ source: "isap-pdf"
 516) specjalista do spraw ratownictwa i sprzętu pożarniczego
 517) specjalista do spraw remontu urządzeń pozablokowych
 518) specjalista do spraw rozliczeń
-519) specjalista do spraw spawalnictwa inspektor nadzoru
+519) specjalista do spraw spawalnictwa – inspektor nadzoru
 520) specjalista do spraw sprzedaży
 521) specjalista do spraw sterowań
 522) specjalista do spraw systemów jakości
 523) specjalista do spraw systemów wsparcia produkcji
 524) specjalista do spraw systemów zabezpieczeń obiektowych
 525) specjalista do spraw technicznych
-526) specjalista do spraw technicznych inspektor nadzoru
+526) specjalista do spraw technicznych – inspektor nadzoru
 527) specjalista do spraw technologii remontu urządzeń energetycznych
 528) specjalista do spraw telekomunikacji
 529) specjalista do spraw teletechniki
@@ -2855,9 +2856,9 @@ source: "isap-pdf"
 569) starszy elektromechanik automatyki i pomiarów
 570) starszy elektromechanik przyrządów aparatury cieplnej i automatyki
 571) starszy elektromonter
-572) starszy elektromonter kierowca
-573) starszy elektromonter spawacz
-574) starszy elektromonter wyżarzacz
+572) starszy elektromonter – kierowca
+573) starszy elektromonter – spawacz
+574) starszy elektromonter – wyżarzacz
 575) starszy elektromonter aparatury kontrolno-pomiarowej i automatyki
 576) starszy elektromonter automatyki
 577) starszy elektromonter automatyki i systemów komputerowych
@@ -2868,7 +2869,7 @@ source: "isap-pdf"
 582) starszy elektromonter urządzeń elektroenergetycznych
 583) starszy elektromonter zabezpieczeń
 584) starszy frezer
-585) starszy inspektor brakarz
+585) starszy inspektor – brakarz
 586) starszy inspektor bezpieczeństwa i higieny pracy
 587) starszy inspektor do spraw bezpieczeństwa i higieny pracy
 588) starszy konserwator utrzymania obiektów technologicznych
@@ -2897,51 +2898,51 @@ source: "isap-pdf"
 611) starszy mistrz remontu urządzeń pozablokowych
 612) starszy mistrz warsztatu mechanicznego i gospodarki narzędziowej
 613) starszy monter
-614) starszy monter izolarz
-615) starszy monter malarz
-616) starszy monter spawacz
+614) starszy monter – izolarz
+615) starszy monter – malarz
+616) starszy monter – spawacz
 617) starszy monter armatury i rurociągów
-618) starszy monter armatury i rurociągów spawacz
+618) starszy monter armatury i rurociągów – spawacz
 619) starszy monter gospodarki smarowniczej
 620) starszy monter instalacji energetycznych
-621) starszy monter instalacji energetycznych spawacz
-622) starszy monter instalacji energetycznych spawacz dozorowy
-623) starszy monter instalacji energetycznych tokarz
+621) starszy monter instalacji energetycznych – spawacz
+622) starszy monter instalacji energetycznych – spawacz dozorowy
+623) starszy monter instalacji energetycznych – tokarz
 624) starszy monter instalacji przemysłowych
-625) starszy monter instalacji przemysłowych spawacz
+625) starszy monter instalacji przemysłowych – spawacz
 626) starszy monter izolacji cieplnej
-627) starszy monter izolacji cieplnej cieśla
-628) starszy monter izolacji cieplnej murarz
+627) starszy monter izolacji cieplnej – cieśla
+628) starszy monter izolacji cieplnej – murarz
 629) starszy monter kotłów
-630) starszy monter kotłów spawacz
+630) starszy monter kotłów – spawacz
 631) starszy monter narzędziowni i remontów narzędzi
-632) starszy monter narzędziowni i remontów narzędzi brygadzista
+632) starszy monter narzędziowni i remontów narzędzi – brygadzista
 633) starszy monter obróbki mechanicznej
-634) starszy monter obróbki mechanicznej brygadzista
+634) starszy monter obróbki mechanicznej – brygadzista
 635) starszy monter remontów budowlanych
-636) starszy monter remontów budowlanych brygadzista
+636) starszy monter remontów budowlanych – brygadzista
 637) starszy monter remontów instalacji przemysłowej
 638) starszy monter remontów instalacji przemysłowej i gospodarki
 639) starszy monter remontów instalacji przemysłowej i gospodarki
 640) starszy monter remontów kotłów
-641) starszy monter remontów kotłów spawacz
-642) starszy monter remontów kotłów spawacz z uprawnieniami
+641) starszy monter remontów kotłów – spawacz
+642) starszy monter remontów kotłów – spawacz z uprawnieniami
 643) starszy monter remontów kotłów i urządzeń pomocniczych
 644) starszy monter remontów kotłów i urządzeń pomocniczych
 645) starszy monter remontów mechanicznych
-646) starszy monter remontów mechanicznych spawacz
+646) starszy monter remontów mechanicznych – spawacz
 647) starszy monter remontów młynów węglowych i podajników
 648) starszy monter remontów młynów węglowych i podajników
 649) starszy monter remontów obrabiarek i elektronarzędzi
-650) starszy monter remontów obrabiarek i elektronarzędzi brygadzista
-651) starszy monter remontów turbin spawacz
+650) starszy monter remontów obrabiarek i elektronarzędzi – brygadzista
+651) starszy monter remontów turbin – spawacz
 652) starszy monter remontów turbin i urządzeń pomocniczych
 653) starszy monter remontów urządzeń cieplno-mechanicznych
 654) starszy monter remontów urządzeń cieplno-mechanicznych
 655) starszy monter remontów urządzeń dźwignicowych i transportu
 656) starszy monter remontów urządzeń hydrotechnicznych
 657) starszy monter remontów urządzeń mechanicznych
-658) starszy monter remontów urządzeń mechanicznych brygadzista
+658) starszy monter remontów urządzeń mechanicznych – brygadzista
 659) starszy monter remontów urządzeń metodą przemysłową
 660) starszy monter remontów urządzeń nawęglania
 661) starszy monter remontów urządzeń nawęglania i urządzeń pomocniczych
@@ -2956,42 +2957,42 @@ source: "isap-pdf"
 670) starszy monter teletechnicznych linii kablowych
 671) starszy monter teletechniki
 672) starszy monter turbin
-673) starszy monter turbin spawacz
+673) starszy monter turbin – spawacz
 674) starszy monter turbin i kotłów
-675) starszy monter turbin i kotłów spawacz
-676) starszy monter turbin i kotłów wyżarzacz
-677) starszy monter urządzeń ciepłowniczych spawacz
+675) starszy monter turbin i kotłów – spawacz
+676) starszy monter turbin i kotłów – wyżarzacz
+677) starszy monter urządzeń ciepłowniczych – spawacz
 678) starszy monter urządzeń dźwigowych
 679) starszy monter urządzeń i instalacji
 680) starszy monter urządzeń nawęglania i odpopielania
-681) starszy monter urządzeń nawęglania i odpopielania spawacz
-682) starszy monter urządzeń nawęglania i odpopielania wulkanizator
+681) starszy monter urządzeń nawęglania i odpopielania – spawacz
+682) starszy monter urządzeń nawęglania i odpopielania – wulkanizator
 683) starszy monter urządzeń przemysłowych
 684) starszy monter urządzeń telełączności
 685) starszy murarz kotłów przemysłowych
-686) starszy murarz kotłów przemysłowych cieśla
-687) starszy murarz kotłów przemysłowych monter izolacji
-688) starszy murarz kotłów przemysłowych spawacz
+686) starszy murarz kotłów przemysłowych – cieśla
+687) starszy murarz kotłów przemysłowych – monter izolacji
+688) starszy murarz kotłów przemysłowych – spawacz
 689) starszy narzędziowiec
 690) starszy operator defektoskopów
 691) starszy operator maszyn
 692) starszy operator maszyn obróbki skrawaniem
-693) starszy operator maszyn obróbki skrawaniem hartownik
-694) starszy operator maszyn obróbki skrawaniem spawacz
-695) starszy operator maszyn obróbki skrawaniem monter turbin
-696) starszy operator sprzętu kierowca
+693) starszy operator maszyn obróbki skrawaniem – hartownik
+694) starszy operator maszyn obróbki skrawaniem – spawacz
+695) starszy operator maszyn obróbki skrawaniem – monter turbin
+696) starszy operator sprzętu – kierowca
 697) starszy robotnik magazynowy
 698) starszy robotnik transportowy
 699) starszy rzemieślnik wykonujący prace mechaniczne na odkrywce
 700) starszy spawacz
-701) starszy spawacz monter
+701) starszy spawacz – monter
 702) starszy spawacz monter
 703) starszy specjalista do spraw aparatury kontrolno-pomiarowej
 704) starszy specjalista do spraw administracji bezpieczeństwa
 705) starszy specjalista do spraw administracji przepustek
 706) starszy specjalista do spraw analiz i bezpieczeństwa
 707) starszy specjalista do spraw automatyki
-708) starszy specjalista do spraw automatyki koordynator
+708) starszy specjalista do spraw automatyki – koordynator
 709) starszy specjalista do spraw badań materiałowych
 710) starszy specjalista do spraw bezpieczeństwa
 711) starszy specjalista do spraw bezpieczeństwa i higieny pracy
@@ -2999,12 +3000,12 @@ source: "isap-pdf"
 713) starszy specjalista do spraw gospodarki materiałowej
 714) starszy specjalista do spraw gospodarki narzędziowej
 715) starszy specjalista do spraw informatyki
-716) starszy specjalista do spraw informatyki koordynator ICT
+716) starszy specjalista do spraw informatyki – koordynator ICT
 717) starszy specjalista do spraw infrastruktury krytycznej
 718) starszy specjalista do spraw nadzoru technicznego
 719) starszy specjalista do spraw obronnych
 720) starszy specjalista do spraw obsługi systemu kontroli dostępu
-721) starszy specjalista do spraw ochrony inspektor do spraw ochrony
+721) starszy specjalista do spraw ochrony – inspektor do spraw ochrony
 722) starszy specjalista do spraw ochrony fizycznej
 723) starszy specjalista do spraw ochrony i zabezpieczeń technicznych
 724) starszy specjalista do spraw ochrony mienia
@@ -3036,13 +3037,13 @@ source: "isap-pdf"
 750) starszy suwnicowy
 751) starszy ślusarz
 752) starszy ślusarz maszynowy
-753) starszy ślusarz maszynowy spawacz
+753) starszy ślusarz maszynowy – spawacz
 754) starszy ślusarz narzędziowy
 755) starszy ślusarz remontowy
-756) starszy ślusarz remontowy spawacz
-757) starszy ślusarz remontowy szlifierz
+756) starszy ślusarz remontowy – spawacz
+757) starszy ślusarz remontowy – szlifierz
 758) starszy technik do spraw aparatury kontrolno-pomiarowej i
-759) starszy technik do spraw badań kontroler jakości
+759) starszy technik do spraw badań – kontroler jakości
 760) starszy technik do spraw przeciwpożarowych
 761) starszy technik do spraw telekomunikacji stacjonarnej
 762) starszy technik do spraw wibroakustyki
@@ -3050,36 +3051,36 @@ source: "isap-pdf"
 764) starszy technik elektryk
 765) starszy telemonter łączności
 766) starszy tokarz
-767) starszy tokarz frezer
-768) starszy tokarz szlifierz
-769) starszy tokarz ślusarz remontowy
-770) starszy wartownik konwojent
+767) starszy tokarz – frezer
+768) starszy tokarz – szlifierz
+769) starszy tokarz – ślusarz remontowy
+770) starszy wartownik – konwojent
 771) starszy wydawca narzędzi
 772) starszy wytaczarz
-773) starszy wytaczarz frezer
-774) starszy wytaczarz tokarz
-775) strażak kierowca pojazdów uprzywilejowanych
-776) strażak kierowca pojazdów uprzywilejowanych spawacz
-777) strażak konserwator
+773) starszy wytaczarz – frezer
+774) starszy wytaczarz – tokarz
+775) strażak – kierowca pojazdów uprzywilejowanych
+776) strażak – kierowca pojazdów uprzywilejowanych – spawacz
+777) strażak – konserwator
 778) szef biura bezpieczeństwa i higieny pracy i ochrony przeciwpożarowej
 779) szef biura bezpieczeństwa, ochrony informacji i infrastruktury
 780) szef ochrony spółki
 781) szlifierz
 782) ślusarz
-783) ślusarz konserwator sprzętu przeciwpożarowego
-784) ślusarz konserwator sprzętu transportu
+783) ślusarz – konserwator sprzętu przeciwpożarowego
+784) ślusarz – konserwator sprzętu transportu
 785) ślusarz konserwator sprzętu gazowego
 786) ślusarz konstrukcyjny
-787) ślusarz konstrukcyjny spawacz
+787) ślusarz konstrukcyjny – spawacz
 788) ślusarz maszynowy
-789) ślusarz maszynowy malarz
-790) ślusarz maszynowy spawacz
-791) ślusarz maszynowy ślusarz konstrukcyjny
-792) ślusarz maszynowy ślusarz konstrukcyjny spawacz
+789) ślusarz maszynowy – malarz
+790) ślusarz maszynowy – spawacz
+791) ślusarz maszynowy – ślusarz konstrukcyjny
+792) ślusarz maszynowy – ślusarz konstrukcyjny – spawacz
 793) ślusarz narzędziowy
 794) ślusarz remontowy
-795) ślusarz remontowy robotnik transportowy
-796) technik laborant
+795) ślusarz remontowy – robotnik transportowy
+796) technik – laborant
 797) technik do spraw aparatury kontrolno-pomiarowej i automatyki
 798) technik do spraw części zamiennych
 799) technik do spraw gospodarki magazynowej
@@ -3097,9 +3098,9 @@ source: "isap-pdf"
 811) technik pomiarów
 812) technik systemów pomiarowych
 813) tokarz
-814) tokarz frezer
-815) tokarz krajacz metali
-816) tokarz wiertacz maszynowy
+814) tokarz – frezer
+815) tokarz – krajacz metali
+816) tokarz – wiertacz maszynowy
 817) toromistrz
 818) ustawiacz
 819) ustawiacz wagonów
@@ -3120,7 +3121,7 @@ source: "isap-pdf"
 834) zastępca kierownika wydziału elektrycznego
 835) zastępca kierownika wydziału remontu urządzeń pozablokowych
 836) zbrojarz
-837) zbrojarz blacharz izoler V. Stanowiska pracy uprawniające do urlopu energetycznego w odbiorców bezpośrednio przyłączonych do elektrowni:
+837) zbrojarz – blacharz – izoler V. Stanowiska pracy uprawniające do urlopu energetycznego w odbiorców bezpośrednio przyłączonych do elektrowni:
 1) dyrektor departamentu handlu
 2) główny specjalista do spraw sprzedaży ubocznych produktów
 3) główny specjalista do spraw taryfikacji ciepła i sprzedaży detalicznej
@@ -3135,7 +3136,7 @@ source: "isap-pdf"
 12) specjalista do spraw bilansów energetycznych
 13) specjalista do spraw handlu
 14) specjalista do spraw handlu energią
-15) specjalista do spraw handlu energią makler giełd towarowych
+15) specjalista do spraw handlu energią – makler giełd towarowych
 16) specjalista do spraw rozliczeń
 17) specjalista do spraw sprzedaży energii
 18) specjalista do spraw sprzedaży ubocznych produktów spalania
@@ -3152,15 +3153,15 @@ source: "isap-pdf"
 1. realizacja procesu technologicznego, obejmującego prowadzenie dowania węgla brunatnego oraz kopalin towarzyszących, towarzyszących, zwałowania oraz przeróbki kopalin:
 1) automatyk
 2) cieśla
-3) członek zarządu do spraw produkcji kierownik działu
+3) członek zarządu do spraw produkcji – kierownik działu
 4) dozorca odpowiedniej specjalności zatrudniony w oddziale maniem ruchu, remontowym, wulkanizacji taśm przenośnikowych
 5) dozorca urządzeń i robót
-6) dyrektor do spraw technicznych zastępca kierownika
+6) dyrektor do spraw technicznych – zastępca kierownika
 7) dyrektor do spraw transportu, sprzętu technologicznego
 8) dyrektor do spraw utrzymania ruchu i serwisu
-9) dyrektor kopalni do spraw produkcji zastępca kierownika
+9) dyrektor kopalni do spraw produkcji – zastępca kierownika
 10) dyrektor oddziału
-11) dyrektor przedsiębiorstwa, zakładu lub kopalni kierownik
+11) dyrektor przedsiębiorstwa, zakładu lub kopalni – kierownik
 12) dyspozytor ruchu zakładu górniczego
 13) dyspozytor ruchu zakładu górniczego (kopalni)
 14) dyspozytor ruchu zakładu górniczego (odkrywki)
@@ -3189,36 +3190,36 @@ source: "isap-pdf"
 37) główny specjalista oddziału
 38) główny zmianowy inżynier ruchu
 39) główny zmianowy inżynier ruchu lub zmianowy inżynier
-40) górnik odwadniacz złóż na odkrywce
+40) górnik – odwadniacz złóż na odkrywce
 41) górnik kopalni odkrywkowej
-42) górnik kopalni odkrywkowej przodowy
+42) górnik kopalni odkrywkowej – przodowy
 43) górnik na odkrywce
 44) górnik strzałowy kopalni odkrywkowej
 45) górnik strzałowy na odkrywce
 46) hydrogeolog
 47) inspektor
-48) inspektor (specjalista) według specjalności automatyki
-49) inspektor (specjalista) według specjalności bezpieczeństwo
-50) inspektor (specjalista) według specjalności elektrycznej
-51) inspektor (specjalista) według specjalności energetycznej
-52) inspektor (specjalista) według specjalności geofizycznej
-53) inspektor (specjalista) według specjalności geologicznej
-54) inspektor (specjalista) według specjalności górniczej
-55) inspektor (specjalista) według specjalności hydrogeologicznej
-56) inspektor (specjalista) według specjalności inżynierii
-57) inspektor (specjalista) według specjalności mechanicznej
-58) inspektor (specjalista) według specjalności mierniczej
-59) inspektor (specjalista) według specjalności nadzoru inwestycji
-60) inspektor (specjalista) według specjalności rekultywacji
-61) inspektor (specjalista) według specjalności spawalniczej
-62) inspektor (specjalista) według specjalności techniki strzałowej
-63) inspektor (specjalista) według specjalności teletechnicznej
-64) inspektor (specjalista) według specjalności wiertniczej
-65) inspektor (specjalista) według specjalności wulkanizacji
+48) inspektor (specjalista) według specjalności – automatyki
+49) inspektor (specjalista) według specjalności – bezpieczeństwo
+50) inspektor (specjalista) według specjalności – elektrycznej
+51) inspektor (specjalista) według specjalności – energetycznej
+52) inspektor (specjalista) według specjalności – geofizycznej
+53) inspektor (specjalista) według specjalności – geologicznej
+54) inspektor (specjalista) według specjalności – górniczej
+55) inspektor (specjalista) według specjalności – hydrogeologicznej
+56) inspektor (specjalista) według specjalności – inżynierii
+57) inspektor (specjalista) według specjalności – mechanicznej
+58) inspektor (specjalista) według specjalności – mierniczej
+59) inspektor (specjalista) według specjalności – nadzoru inwestycji
+60) inspektor (specjalista) według specjalności – rekultywacji
+61) inspektor (specjalista) według specjalności – spawalniczej
+62) inspektor (specjalista) według specjalności – techniki strzałowej
+63) inspektor (specjalista) według specjalności – teletechnicznej
+64) inspektor (specjalista) według specjalności – wiertniczej
+65) inspektor (specjalista) według specjalności – wulkanizacji
 66) inspektor górniczy
 67) inspektor specjalności górniczej
 68) inżynier strzałowy
-69) kierowca operator samochodowego sprzętu technicznego
+69) kierowca – operator samochodowego sprzętu technicznego
 70) kierownik działu
 71) kierownik działu ruchu
 72) kierownik działu ruchu zakładu górniczego określonej
@@ -3245,17 +3246,17 @@ source: "isap-pdf"
 93) kierownik robót górniczych zwałowania
 94) kierownik stacji ratownictwa górniczego
 95) kierownik wydziału
-96) kierownik wydziału nadsztygar
-97) kierownik wydziału nadsztygar górniczy
+96) kierownik wydziału – nadsztygar
+97) kierownik wydziału – nadsztygar górniczy
 98) konserwator tras kolei górniczych na odkrywce
 99) konserwator tras przenośnikowych na odkrywce
-100) konserwator tras przenośnikowych na odkrywce przodowy
+100) konserwator tras przenośnikowych na odkrywce – przodowy
 101) konserwator tras przenośnikowych na odkrywce (górnik
 102) koordynator
 103) maszynista kolei górniczej na odkrywce
-104) maszynista kolei górniczej na odkrywce robotnik torowy
+104) maszynista kolei górniczej na odkrywce – robotnik torowy
 105) maszynista kolei górniczych na odkrywce
-106) maszynista kolei górniczych na odkrywce robotnik torowy
+106) maszynista kolei górniczych na odkrywce – robotnik torowy
 107) maszynista pomp odwodnienia odkrywki
 108) mechanik
 109) mechanik maszyn i urządzeń górniczych na odkrywce wej na odkrywce
@@ -3265,9 +3266,9 @@ source: "isap-pdf"
 113) młodszy operator zwałowarki
 114) monter
 115) naczelny inżynier
-116) naczelny inżynier do spraw energomechanicznych
-117) naczelny inżynier do spraw górniczych
-118) naczelny inżynier do spraw inwestycji
+116) naczelny inżynier do spraw – energomechanicznych
+117) naczelny inżynier do spraw – górniczych
+118) naczelny inżynier do spraw – inwestycji
 119) naczelny inżynier do spraw inwestycji
 120) naczelny inżynier górniczy
 121) nadgórnik
@@ -3276,11 +3277,11 @@ source: "isap-pdf"
 124) nadsztygar do spraw łączności
 125) nadsztygar do spraw łączności sygnalizacji i automatyzacji
 126) nadsztygar elektryczny
-127) nadsztygar elektryczny kierownik oddziału
+127) nadsztygar elektryczny – kierownik oddziału
 128) nadsztygar górniczy
-129) nadsztygar górniczy kierownik oddziału
+129) nadsztygar górniczy – kierownik oddziału
 130) nadsztygar lub sztygar objazdowy
-131) nadsztygar lub sztygar objazdowy wiertniczy
+131) nadsztygar lub sztygar objazdowy – wiertniczy
 132) nadsztygar lub sztygar objazdowy do spraw bezpieczeństwa
 133) nadsztygar lub sztygar objazdowy do spraw górniczych
 134) nadsztygar lub sztygar objazdowy do spraw hydrogeologicznych
@@ -3294,14 +3295,14 @@ source: "isap-pdf"
 142) nadsztygar lub sztygar objazdowy do spraw urządzeń mechanicznych
 143) nadsztygar lub sztygar objazdowy do spraw wulkanizacji
 144) nadsztygar mechaniczny
-145) nadsztygar mechaniczny kierownik oddziału
-146) operator mechanik urządzeń wiertniczych i aparatury
+145) nadsztygar mechaniczny – kierownik oddziału
+146) operator – mechanik urządzeń wiertniczych i aparatury
 147) operator koparek jednonaczyniowych na odkrywce
 148) operator koparek wielonaczyniowych i zwałowarek
 149) operator koparek wielonaczyniowych i zwałowarek na
 150) operator koparki jednonaczyniowej na odkrywce
 151) operator koparki wielonaczyniowej
-152) operator koparki wielonaczyniowej przodowy
+152) operator koparki wielonaczyniowej – przodowy
 153) operator koparki wielonaczyniowej na odkrywce
 154) operator koparki wielonaczyniowej na odkrywce I
 155) operator maszyn do produkcji, sortowania i uszlachetniania
@@ -3324,7 +3325,7 @@ source: "isap-pdf"
 172) pomocnik maszynisty kolei górniczej na odkrywce
 173) pomocnik maszynisty kolei górniczych na odkrywce
 174) pomocnik maszynisty pomp odwodnienia odkrywki
-175) pomocnik operatora mechanik urządzeń wiertniczych
+175) pomocnik operatora – mechanik urządzeń wiertniczych
 176) pomocnik operatora koparki wielonaczyniowej na odkrywce
 177) pomocnik operatora koparki wielonaczyniowej na odkrywce
 178) pomocnik operatora przenośników taśmowych na odkrywce
@@ -3335,14 +3336,14 @@ source: "isap-pdf"
 183) pomocnik wulkanizatora taśm przenośnikowych na odkrywce
 184) pomocnik zwałowarki na odkrywce I
 185) prowadzący pojazdy kolejowe
-186) referent operator rozjazdów transportu szynowego na
+186) referent – operator rozjazdów transportu szynowego na
 187) robotnik robót melioracyjnych i rekultywacji górniczej
 188) robotnik torowy na odkrywce
 189) rzemieślnik wykonujący prace elektryczne na odkrywce
 190) rzemieślnik wykonujący prace elektryczne w przodku
 191) rzemieślnik wykonujący prace górnicze w przodku
-192) rzemieślnik wykonujący prace górnicze w przodku brygadzista
-193) rzemieślnik wykonujący prace górnicze w przodku starszy
+192) rzemieślnik wykonujący prace górnicze w przodku – brygadzista
+193) rzemieślnik wykonujący prace górnicze w przodku – starszy
 194) rzemieślnik wykonujący prace mechaniczne na odkrywce
 195) rzemieślnik wykonujący prace mechaniczne w przodku
 196) rzemieślnik wykonujący prace mechaniczne w przodku
@@ -3360,9 +3361,9 @@ source: "isap-pdf"
 208) starszy geolog
 209) starszy geotechnik
 210) starszy górnik kopalni odkrywkowej
-211) starszy górnik kopalni odkrywkowej przodowy
-212) starszy górnik kopalni odkrywkowej starszy brygadzista
-213) starszy górnik kopalni odkrywkowej starszy przodowy
+211) starszy górnik kopalni odkrywkowej – przodowy
+212) starszy górnik kopalni odkrywkowej – starszy brygadzista
+213) starszy górnik kopalni odkrywkowej – starszy przodowy
 214) starszy hydrogeolog
 215) starszy inspektor
 216) starszy inspektor (główny specjalista) odpowiedniej specjalności
@@ -3391,21 +3392,21 @@ source: "isap-pdf"
 239) starszy inspektor mechaniczny
 240) starszy inspektor specjalności górniczej
 241) starszy maszynista kolei górniczych na odkrywce
-242) starszy maszynista kolei górniczych na odkrywce operator
-243) starszy maszynista kolei górniczych na odkrywce starszy
-244) starszy maszynista kolei górniczych na odkrywce starszy odkrywce
-245) starszy maszynista kolei górniczych na odkrywce starszy
-246) starszy maszynista kolei górniczych na odkrywce ślusarz
+242) starszy maszynista kolei górniczych na odkrywce – operator
+243) starszy maszynista kolei górniczych na odkrywce – starszy
+244) starszy maszynista kolei górniczych na odkrywce – starszy odkrywce
+245) starszy maszynista kolei górniczych na odkrywce – starszy
+246) starszy maszynista kolei górniczych na odkrywce – ślusarz
 247) starszy mierniczy
-248) starszy mierniczy zastępca kierownika działu
+248) starszy mierniczy – zastępca kierownika działu
 249) starszy operator koparki wielonaczyniowej
-250) starszy operator koparki wielonaczyniowej przodowy
-251) starszy operator koparki wielonaczyniowej starszy przodowy
+250) starszy operator koparki wielonaczyniowej – przodowy
+251) starszy operator koparki wielonaczyniowej – starszy przodowy
 252) starszy operator rozjazdów transportu szynowego na odkrywce
 253) starszy operator zwałowarki
-254) starszy operator zwałowarki przodowy
-255) starszy operator zwałowarki starszy przodowy
-256) starszy pomiarowy górniczy brygadzista
+254) starszy operator zwałowarki – przodowy
+255) starszy operator zwałowarki – starszy przodowy
+256) starszy pomiarowy górniczy – brygadzista
 257) starszy robotnik torowy na odkrywce
 258) starszy rzemieślnik wykonujący prace elektryczne na odkrywce
 259) starszy rzemieślnik wykonujący prace elektryczne na odkrywce
@@ -3423,11 +3424,11 @@ source: "isap-pdf"
 271) starszy specjalista do spraw utrzymania taboru kolejowego
 272) starszy technolog górniczy
 273) starszy toromistrz na odkrywce
-274) starszy toromistrz na odkrywce starszy operator sprzętu
+274) starszy toromistrz na odkrywce – starszy operator sprzętu
 275) strzałowy
-276) strzałowy wydawca środków strzałowych
+276) strzałowy – wydawca środków strzałowych
 277) sztygar oddziałowy
-278) sztygar oddziałowy zastępca kierownika wydziału
+278) sztygar oddziałowy – zastępca kierownika wydziału
 279) sztygar oddziału na odkrywce i zwałach
 280) sztygar oddziału wiertniczego, wydobywczego i oddziału wulkanizacji taśm przenośnikowych oraz rekultywacji
 281) sztygar zmianowy
@@ -3436,71 +3437,71 @@ source: "isap-pdf"
 284) sztygar zmianowy na odkrywce i zwałach II
 285) sztygar zmianowy oddziału wiertniczego, wydobywczego remontowego, wulkanizacji taśm przenośnikowych oraz
 286) ślusarz
-287) ślusarz spawacz
+287) ślusarz – spawacz
 288) ślusarz na odkrywce
 289) ślusarz na odkrywce I
 290) ślusarz na odkrywce II
 291) taśmowy na odkrywce
 292) technik strzałowy
-293) technik według specjalności bezpieczeństwo i higiena
-294) technik według specjalności geofizycznej
-295) technik według specjalności geologicznej
-296) technik według specjalności górniczej
-297) technik według specjalności hydrogeologicznej
-298) technik według specjalności inżynierii górniczej
-299) technik według specjalności mechanicznej
-300) technik według specjalności mierniczej
-301) technik według specjalności nadzoru inwestycji
-302) technik według specjalności rekultywacji górniczej
-303) technik według specjalności spawalniczej
-304) technik według specjalności teletechnicznej
-305) technik według specjalności wiertniczej
+293) technik według specjalności – bezpieczeństwo i higiena
+294) technik według specjalności – geofizycznej
+295) technik według specjalności – geologicznej
+296) technik według specjalności – górniczej
+297) technik według specjalności – hydrogeologicznej
+298) technik według specjalności – inżynierii górniczej
+299) technik według specjalności – mechanicznej
+300) technik według specjalności – mierniczej
+301) technik według specjalności – nadzoru inwestycji
+302) technik według specjalności – rekultywacji górniczej
+303) technik według specjalności – spawalniczej
+304) technik według specjalności – teletechnicznej
+305) technik według specjalności – wiertniczej
 306) toromistrz i robotnik torowy na odkrywce
 307) ustawiacz pociągów
-308) wiceprezes zarządu dyrektor kopalni kierownik ruchu
+308) wiceprezes zarządu – dyrektor kopalni kierownik ruchu
 309) wiertacz na odkrywce
 310) wiertacz otworów strzałowych
 311) wulkanizator
 312) wulkanizator taśm przenośnikowych na odkrywce
-313) wulkanizator taśm przenośnikowych na odkrywce elektromonter
-314) zastępca dyrektora kopalni do spraw górniczych zastępca
-315) zastępca dyrektora kopalni do spraw inwestycji zastępca
-316) zastępca dyrektora kopalni do spraw produkcji zastępca
-317) zastępca dyrektora kopalni do spraw technicznych zastępca
-318) zastępca dyrektora oddziału dyrektor techniczny
-319) zastępca dyrektora przedsiębiorstwa zastępca kierownika
-320) zastępca dyrektora zakładu zastępca kierownika ruchu
+313) wulkanizator taśm przenośnikowych na odkrywce – elektromonter
+314) zastępca dyrektora kopalni do spraw górniczych – zastępca
+315) zastępca dyrektora kopalni do spraw inwestycji – zastępca
+316) zastępca dyrektora kopalni do spraw produkcji – zastępca
+317) zastępca dyrektora kopalni do spraw technicznych – zastępca
+318) zastępca dyrektora oddziału – dyrektor techniczny
+319) zastępca dyrektora przedsiębiorstwa – zastępca kierownika
+320) zastępca dyrektora zakładu – zastępca kierownika ruchu
 321) zastępca kierownika działu
-322) zastępca kierownika działu mierniczo-geologicznego
+322) zastępca kierownika działu mierniczo-geologicznego –
 323) zastępca kierownika robót górniczych
 324) zastępca kierownika wydziału
 325) zastępca sztygara oddziałowego
 326) zastępca zawiadowcy ruchu kopalni
-327) zastępca zawiadowcy ruchu kopalni zastępca kierownika
-328) zastępca zawiadowcy ruchu odkrywki zastępca kierownika
+327) zastępca zawiadowcy ruchu kopalni – zastępca kierownika
+328) zastępca zawiadowcy ruchu odkrywki – zastępca kierownika
 329) zawiadowca ruchu kopalni
-330) zawiadowca ruchu kopalni kierownik ruchu części zakładu
-331) zawiadowca ruchu odkrywki kierownik ruchu części
+330) zawiadowca ruchu kopalni – kierownik ruchu części zakładu
+331) zawiadowca ruchu odkrywki – kierownik ruchu części
 332) zmianowy inżynier ruchu
 333) zsypowy na odkrywce
 2. stanowiska pracy uprawniające do urlopu górniczego w na przedpolu wyrobiska odkrywkowego i zwałowiska, prowadzenia niowego, montażu, obsługi i naprawy pomp odwodnieniowych, nia poziomów roboczych, ciągów technologicznych, pochylni odwodnieniowej, elektroenergetycznej, teletechnicznej, komunikacyjnej cjonowaniem zakładu górniczego:
 1) automatyk
-2) blacharz dekarz brygadzista
+2) blacharz – dekarz – brygadzista
 3) cieśla
 4) dozorca odpowiedniej specjalności zatrudniony w oddziale maniem ruchu, remontowym, wulkanizacji taśm przenośnikowych
 5) dozorca urządzeń i robót
-6) dyrektor przedsiębiorstwa, zakładu lub kopalni kierownik
+6) dyrektor przedsiębiorstwa, zakładu lub kopalni – kierownik
 7) dyspozytor zmianowy ruchu zakładu górniczego
 8) elektromechanik
 9) elektromonter
-10) elektromonter brygadzista
-11) elektromonter dozorca urządzeń i robót brygadzista
-12) elektromonter operator koparki brygadzista
-13) elektromonter spawacz
-14) elektromonter spawacz brygadzista
-15) elektromonter spawacz operator koparki
-16) elektromonter spawacz ślusarz dozorca urządzeń
-17) elektromonter ślusarz
+10) elektromonter – brygadzista
+11) elektromonter – dozorca urządzeń i robót – brygadzista
+12) elektromonter – operator koparki – brygadzista
+13) elektromonter – spawacz
+14) elektromonter – spawacz – brygadzista
+15) elektromonter – spawacz – operator koparki
+16) elektromonter – spawacz – ślusarz – dozorca urządzeń
+17) elektromonter – ślusarz
 18) elektromonter i pomiarowy urządzeń ani automatyki i
 19) elektromonter maszyn i urządzeń górniczych na odkrywce remontowej na odkrywce
 20) elektryk
@@ -3513,15 +3514,15 @@ source: "isap-pdf"
 27) główny elektryk
 28) główny inżynier do spraw robót elektroenergetycznych
 29) główny mechanik
-30) główny specjalista główny inżynier do spraw dozoru
+30) główny specjalista – główny inżynier do spraw dozoru
 31) główny specjalista do spraw administracyjno-rozliczeniowych
-32) główny specjalista do spraw antykorozyjnych zastępca
+32) główny specjalista do spraw antykorozyjnych – zastępca
 33) główny specjalista do spraw budowlano-inżynieryjnych
 34) główny specjalista do spraw maszyn podstawowy
 35) główny specjalista do spraw technicznych
-36) główny specjalista do spraw technicznych majster
+36) główny specjalista do spraw technicznych – majster
 37) główny zmianowy inżynier ruchu lub zmianowy inżynier
-38) górnik odwadniacz złóż na odkrywce
+38) górnik – odwadniacz złóż na odkrywce
 39) górnik kopalni odkrywkowej
 40) górnik na odkrywce
 41) górnik na odkrywce I
@@ -3529,29 +3530,29 @@ source: "isap-pdf"
 43) górnik strzałowy kopalni odkrywkowej
 44) górnik strzałowy na odkrywce
 45) hydrogeolog
-46) inspektor (specjalista) według specjalności automatyki
-47) inspektor (specjalista) według specjalności bezpieczeństwo
-48) inspektor (specjalista) według specjalności elektrycznej
-49) inspektor (specjalista) według specjalności energetycznej
-50) inspektor (specjalista) według specjalności geofizycznej
-51) inspektor (specjalista) według specjalności geologicznej
-52) inspektor (specjalista) według specjalności górniczej
-53) inspektor (specjalista) według specjalności hydrogeologicznej
-54) inspektor (specjalista) według specjalności inżynierii
-55) inspektor (specjalista) według specjalności mechanicznej
-56) inspektor (specjalista) według specjalności mierniczej
-57) inspektor (specjalista) według specjalności nadzoru inwestycji
-58) inspektor (specjalista) według specjalności rekultywacji
-59) inspektor (specjalista) według specjalności spawalniczej
-60) inspektor (specjalista) według specjalności techniki strzałowej
-61) inspektor (specjalista) według specjalności teletechnicznej
-62) inspektor (specjalista) według specjalności wiertniczej
-63) inspektor (specjalista) według specjalności wulkanizacji
+46) inspektor (specjalista) według specjalności – automatyki
+47) inspektor (specjalista) według specjalności – bezpieczeństwo
+48) inspektor (specjalista) według specjalności – elektrycznej
+49) inspektor (specjalista) według specjalności – energetycznej
+50) inspektor (specjalista) według specjalności – geofizycznej
+51) inspektor (specjalista) według specjalności – geologicznej
+52) inspektor (specjalista) według specjalności – górniczej
+53) inspektor (specjalista) według specjalności – hydrogeologicznej
+54) inspektor (specjalista) według specjalności – inżynierii
+55) inspektor (specjalista) według specjalności – mechanicznej
+56) inspektor (specjalista) według specjalności – mierniczej
+57) inspektor (specjalista) według specjalności – nadzoru inwestycji
+58) inspektor (specjalista) według specjalności – rekultywacji
+59) inspektor (specjalista) według specjalności – spawalniczej
+60) inspektor (specjalista) według specjalności – techniki strzałowej
+61) inspektor (specjalista) według specjalności – teletechnicznej
+62) inspektor (specjalista) według specjalności – wiertniczej
+63) inspektor (specjalista) według specjalności – wulkanizacji
 64) inspektor techniczny
 65) kierowca
-66) kierowca operator samochodowego sprzętu technicznego
-67) kierowca robotnik budowlany
-68) kierowca robotnik budowlany spawacz
+66) kierowca – operator samochodowego sprzętu technicznego
+67) kierowca – robotnik budowlany
+68) kierowca – robotnik budowlany – spawacz
 69) kierowca posiadający uprawnienia do prowadzenia pojazdów 3,5 t, pojazdów do przewozu więcej niż 9 osób łącznie
 70) kierownik działu
 71) kierownik działu ruchu zakładu górniczego określonej
@@ -3583,26 +3584,26 @@ source: "isap-pdf"
 97) koordynator
 98) kowal
 99) majster
-100) majster dozorca urządzeń i robót
-101) majster specjalista do spraw technicznych
-102) majster technolog
-103) majster zastępca kierownika
+100) majster – dozorca urządzeń i robót
+101) majster – specjalista do spraw technicznych
+102) majster – technolog
+103) majster – zastępca kierownika
 104) majster antykorozji
-105) majster antykorozji dozorca urządzeń i robót
-106) majster antykorozji rozliczeniowiec technolog
-107) majster antykorozji technolog rozliczeniowiec
-108) majster robót budowlanych dozorca urządzeń
+105) majster antykorozji – dozorca urządzeń i robót
+106) majster antykorozji – rozliczeniowiec – technolog
+107) majster antykorozji – technolog – rozliczeniowiec
+108) majster robót budowlanych – dozorca urządzeń
 109) majster robót instalacyjnych
 110) malarz
-111) malarz piaskarz
-112) malarz piaskarz brygadzista
-113) malarz piaskarz elektromechanik operator
-114) malarz piaskarz mechanik brygadzista
-115) malarz piaskarz operator suwnicy brygadzista
-116) malarz piaskarz operator wózka
-117) malarz piaskarz spawacz ślusarz
-118) malarz piaskarz spawacz ślusarz brygadzista
-119) malarz piaskarz ślusarz brygadzista
+111) malarz – piaskarz
+112) malarz – piaskarz – brygadzista
+113) malarz – piaskarz – elektromechanik – operator
+114) malarz – piaskarz – mechanik – brygadzista
+115) malarz – piaskarz – operator suwnicy – brygadzista
+116) malarz – piaskarz – operator wózka
+117) malarz – piaskarz – spawacz – ślusarz
+118) malarz – piaskarz – spawacz – ślusarz – brygadzista
+119) malarz – piaskarz – ślusarz – brygadzista
 120) maszynista kolei górniczej na odkrywce
 121) maszynista kolei górniczych na odkrywce
 122) maszynista pomp odwodnienia odkrywki
@@ -3612,36 +3613,36 @@ source: "isap-pdf"
 126) młodszy konstruktor
 127) monter
 128) monter urządzeń i instalacji
-129) murarz robotnik budowlany brygadzista
-130) naczelny inżynier do spraw energomechanicznych
-131) naczelny inżynier do spraw górniczych
-132) naczelny inżynier do spraw inwestycji
+129) murarz – robotnik budowlany – brygadzista
+130) naczelny inżynier do spraw – energomechanicznych
+131) naczelny inżynier do spraw – górniczych
+132) naczelny inżynier do spraw – inwestycji
 133) naczelny inżynier energomechaniczny
 134) nadgórnik
 135) nadsztygar
 136) nadsztygar górniczy
-137) nadsztygar górniczy kierownik wydziału
+137) nadsztygar górniczy – kierownik wydziału
 138) nadsztygar lub sztygar objazdowy
-139) nadsztygar lub sztygar objazdowy bezpieczeństwo i
-140) nadsztygar lub sztygar objazdowy górniczy
-141) nadsztygar lub sztygar objazdowy hydrogeologiczny
-142) nadsztygar lub sztygar objazdowy łączności, sygnalizacji
-143) nadsztygar lub sztygar objazdowy remontowy
-144) nadsztygar lub sztygar objazdowy spawalnictwa
-145) nadsztygar lub sztygar objazdowy techniki strzałowej,
-146) nadsztygar lub sztygar objazdowy urządzeń elektrycznych,
-147) nadsztygar lub sztygar objazdowy urządzeń energetycznych,
-148) nadsztygar lub sztygar objazdowy urządzeń energomechanicznych
-149) nadsztygar lub sztygar objazdowy urządzeń mechanicznych,
-150) nadsztygar lub sztygar objazdowy wiertniczy
-151) nadsztygar lub sztygar objazdowy wulkanizacji taśm
+139) nadsztygar lub sztygar objazdowy – bezpieczeństwo i
+140) nadsztygar lub sztygar objazdowy – górniczy
+141) nadsztygar lub sztygar objazdowy – hydrogeologiczny
+142) nadsztygar lub sztygar objazdowy – łączności, sygnalizacji
+143) nadsztygar lub sztygar objazdowy – remontowy
+144) nadsztygar lub sztygar objazdowy – spawalnictwa
+145) nadsztygar lub sztygar objazdowy – techniki strzałowej,
+146) nadsztygar lub sztygar objazdowy – urządzeń elektrycznych,
+147) nadsztygar lub sztygar objazdowy – urządzeń energetycznych,
+148) nadsztygar lub sztygar objazdowy – urządzeń energomechanicznych
+149) nadsztygar lub sztygar objazdowy – urządzeń mechanicznych,
+150) nadsztygar lub sztygar objazdowy – wiertniczy
+151) nadsztygar lub sztygar objazdowy – wulkanizacji taśm
 152) nadsztygar mechaniczny
 153) nadsztygar wiertniczy
-154) operator mechanik urządzeń wiertniczych i aparatury
+154) operator – mechanik urządzeń wiertniczych i aparatury
 155) operator koparek jednonaczyniowych na odkrywce
 156) operator koparek wielonaczyniowych i zwałowarek na
-157) operator koparki robotnik budowlany
-158) operator koparki spawacz brygadzista
+157) operator koparki – robotnik budowlany
+158) operator koparki – spawacz – brygadzista
 159) operator koparki jednonaczyniowej na odkrywce
 160) operator koparki wielonaczyniowej na odkrywce
 161) operator pomp i sprężarek na odkrywce zatrudniony w
@@ -3652,7 +3653,7 @@ source: "isap-pdf"
 166) operator sprzętu pomocniczego i technologicznego na
 167) operator spycharek i maszyn wieloczynnościowych na
 168) operator urządzeń załadunkowych i wyładunkowych na
-169) operator wózka jezdniowego robotnik budowlany
+169) operator wózka jezdniowego – robotnik budowlany
 170) operator wysypu koparki na odkrywce
 171) operator wysypu zwałowarki na odkrywce
 172) operator zwałowarki na odkrywce
@@ -3661,7 +3662,7 @@ source: "isap-pdf"
 175) pomocnik maszynisty kolei górniczej na odkrywce
 176) pomocnik maszynisty kolei górniczych na odkrywce
 177) pomocnik maszynisty pomp odwodnienia odkrywki
-178) pomocnik operatora mechanik urządzeń wiertniczych
+178) pomocnik operatora – mechanik urządzeń wiertniczych
 179) pomocnik operatora koparki wielonaczyniowej na odkrywce
 180) pomocnik operatora przenośników taśmowych na odkrywce
 181) pomocnik operatora zwałowarki na odkrywce
@@ -3670,52 +3671,52 @@ source: "isap-pdf"
 184) pomocnik wiertacza na odkrywce
 185) pomocnik wulkanizatora taśm przenośnikowych na odkrywce
 186) robotnik budowlany
-187) robotnik budowlany betoniarz
-188) robotnik budowlany blacharz dekarz
-189) robotnik budowlany brygadzista
-190) robotnik budowlany cieśla
-191) robotnik budowlany cieśla betoniarz
-192) robotnik budowlany cieśla betoniarz brygadzista
-193) robotnik budowlany cieśla zbrojarz
-194) robotnik budowlany cieśla zbrojarz brygadzista
-195) robotnik budowlany dekarz
-196) robotnik budowlany dekarz brygadzista
-197) robotnik budowlany glazurnik
-198) robotnik budowlany glazurnik brygadzista
-199) robotnik budowlany instalator
-200) robotnik budowlany instalator brygadzista
-201) robotnik budowlany kierowca
-202) robotnik budowlany kierowca ciągnika
-203) robotnik budowlany malarz
-204) robotnik budowlany monter
-205) robotnik budowlany monter konstrukcji stalowych
-206) robotnik budowlany murarz
-207) robotnik budowlany murarz brygadzista
-208) robotnik budowlany murarz tynkarz
-209) robotnik budowlany operator wielomaszynowy
-210) robotnik budowlany operator wózka jezdniowego
-211) robotnik budowlany płytkarz
-212) robotnik budowlany spawacz
-213) robotnik budowlany spawacz ślusarz
-214) robotnik budowlany zbrojarz
-215) robotnik budowlany zbrojarz betoniarz
-216) robotnik budowlany zbrojarz spawacz
+187) robotnik budowlany – betoniarz
+188) robotnik budowlany – blacharz – dekarz
+189) robotnik budowlany – brygadzista
+190) robotnik budowlany – cieśla
+191) robotnik budowlany – cieśla – betoniarz
+192) robotnik budowlany – cieśla – betoniarz – brygadzista
+193) robotnik budowlany – cieśla – zbrojarz
+194) robotnik budowlany – cieśla – zbrojarz – brygadzista
+195) robotnik budowlany – dekarz
+196) robotnik budowlany – dekarz – brygadzista
+197) robotnik budowlany – glazurnik
+198) robotnik budowlany – glazurnik – brygadzista
+199) robotnik budowlany – instalator
+200) robotnik budowlany – instalator – brygadzista
+201) robotnik budowlany – kierowca
+202) robotnik budowlany – kierowca ciągnika
+203) robotnik budowlany – malarz
+204) robotnik budowlany – monter
+205) robotnik budowlany – monter konstrukcji stalowych
+206) robotnik budowlany – murarz
+207) robotnik budowlany – murarz – brygadzista
+208) robotnik budowlany – murarz – tynkarz
+209) robotnik budowlany – operator wielomaszynowy
+210) robotnik budowlany – operator wózka jezdniowego
+211) robotnik budowlany – płytkarz
+212) robotnik budowlany – spawacz
+213) robotnik budowlany – spawacz – ślusarz
+214) robotnik budowlany – zbrojarz
+215) robotnik budowlany – zbrojarz – betoniarz
+216) robotnik budowlany – zbrojarz – spawacz
 217) robotnik przy pracach ciężkich
 218) robotnik robót melioracyjnych i rekultywacji górniczej
 219) robotnik torowy na odkrywce
-220) robotnik zatrudniony na stale na odkrywce przy wykonywaniu nych i remontowych ślusarz na odkrywce II
+220) robotnik zatrudniony na stale na odkrywce przy wykonywaniu nych i remontowych – ślusarz na odkrywce II
 221) rzemieślnik wykonujący prace mechaniczne na odkrywce
 222) rzemieślnik wykonujący prace mechaniczne na odkrywce
 223) rzemieślnik zatrudniony na odkrywce bezpośrednio w koparkach i zwałowarkach, wykonujący prace górnicze, dze, konserwacji, montażu i demontażu tych maszyn i
-224) rzemieślnik zatrudniony na stale na odkrywce przy wykonywaniu cyjnych i remontowych ślusarz na odkrywce II
+224) rzemieślnik zatrudniony na stale na odkrywce przy wykonywaniu cyjnych i remontowych – ślusarz na odkrywce II
 225) samodzielny elektryk na odkrywce
 226) spawacz
-227) spawacz elektromonter
-228) spawacz monter
-229) spawacz robotnik budowlany
-230) spawacz robotnik budowlany brygadzista
-231) spawacz ślusarz
-232) spawacz ślusarz instalator robotnik budowlany
+227) spawacz – elektromonter
+228) spawacz – monter
+229) spawacz – robotnik budowlany
+230) spawacz – robotnik budowlany – brygadzista
+231) spawacz – ślusarz
+232) spawacz – ślusarz – instalator – robotnik budowlany
 233) spawacz maszyn i urządzeń górniczych na odkrywce
 234) spawacz zatrudniony w stałej grupie remontowej na odkrywce
 235) specjalista
@@ -3748,10 +3749,10 @@ source: "isap-pdf"
 262) starszy inspektor nadzoru
 263) starszy konstruktor
 264) starszy mierniczy
-265) starszy mierniczy zastępca kierownika działu
+265) starszy mierniczy – zastępca kierownika działu
 266) starszy operator maszyn obróbki skrawaniem
 267) starszy operator pomp na odkrywce
-268) starszy operator pomp na odkrywce spawacz
+268) starszy operator pomp na odkrywce – spawacz
 269) starszy projektant
 270) starszy referent
 271) starszy robotnik robót melioracyjnych i rekultywacji górniczej
@@ -3773,47 +3774,47 @@ source: "isap-pdf"
 287) sztygar zmianowy na odkrywce i zwałach
 288) sztygar zmianowy oddziału wiertniczego, wydobywczego remontowego, wulkanizacji taśm przenośnikowych oraz
 289) ślusarz
-290) ślusarz przodowy w produkcji pomocniczej
-291) ślusarz robotnik budowlany
-292) ślusarz spawacz
+290) ślusarz – przodowy w produkcji pomocniczej
+291) ślusarz – robotnik budowlany
+292) ślusarz – spawacz
 293) ślusarz na odkrywce
 294) ślusarz na odkrywce II
 295) taśmowy na odkrywce
 296) technik strzałowy
-297) technik według specjalności bezpieczeństwo i higiena
-298) technik według specjalności geofizycznej
-299) technik według specjalności geologicznej
-300) technik według specjalności górniczej
-301) technik według specjalności hydrogeologicznej
-302) technik według specjalności inżynierii górniczej
-303) technik według specjalności mechanicznej
-304) technik według specjalności mierniczej
-305) technik według specjalności nadzoru inwestycji
-306) technik według specjalności rekultywacji górniczej
-307) technik według specjalności spawalniczej
-308) technik według specjalności teletechnicznej
-309) technik według specjalności wiertniczej
-310) technolog rozliczeniowiec
+297) technik według specjalności – bezpieczeństwo i higiena
+298) technik według specjalności – geofizycznej
+299) technik według specjalności – geologicznej
+300) technik według specjalności – górniczej
+301) technik według specjalności – hydrogeologicznej
+302) technik według specjalności – inżynierii górniczej
+303) technik według specjalności – mechanicznej
+304) technik według specjalności – mierniczej
+305) technik według specjalności – nadzoru inwestycji
+306) technik według specjalności – rekultywacji górniczej
+307) technik według specjalności – spawalniczej
+308) technik według specjalności – teletechnicznej
+309) technik według specjalności – wiertniczej
+310) technolog – rozliczeniowiec
 311) tokarz
 312) toromistrz i robotnik torowy na odkrywce
 313) wiertacz na odkrywce
 314) wulkanizator
 315) wulkanizator taśm przenośnikowych na odkrywce
-316) wulkanizator taśm przenośnikowych na odkrywce elektromonter
-317) zastępca dyrektora przedsiębiorstwa, zakładu lub kopalni inwestycji zastępca kierownika ruchu zakładu górniczego
-318) zastępca dyrektora technicznego główny inżynier
+316) wulkanizator taśm przenośnikowych na odkrywce – elektromonter
+317) zastępca dyrektora przedsiębiorstwa, zakładu lub kopalni inwestycji – zastępca kierownika ruchu zakładu górniczego
+318) zastępca dyrektora technicznego – główny inżynier
 319) zastępca kierownika działu
 320) zastępca kierownika robót górniczych
 321) zastępca sztygara oddziałowego
-322) zastępca zawiadowcy ruchu kopalni, odkrywki zastępca
-323) zawiadowca ruchu kopalni, odkrywki kierownik ruchu
+322) zastępca zawiadowcy ruchu kopalni, odkrywki – zastępca
+323) zawiadowca ruchu kopalni, odkrywki – kierownik ruchu
 324) zsypowy na odkrywce
 3. stanowiska pracy uprawniające do urlopu górniczego w obszarze nego i realizacji kołowego transportu wewnętrznego, niezbędnego w tym transportu pracowników:
 1) dozorca urządzeń i robót
 2) dozór oddziału sprzętu technologicznego
 3) dyspozytor
 4) elektromechanik
-5) elektromechanik przodowy
+5) elektromechanik – przodowy
 6) elektromechanik pojazdów samochodowych i sprzętu
 7) elektryk
 8) elektryk samochodowy
@@ -3825,12 +3826,12 @@ source: "isap-pdf"
 14) inspektor
 15) inspektor mechaniczny
 16) kierowca
-17) kierowca operator samochodowego sprzętu technicznego
-18) kierowca operator samochodowego sprzętu technicznego
-19) kierowca operator samochodowego sprzętu technicznego
-20) kierowca operator samochodowego sprzętu technicznego
-21) kierowca operator sprzętu ciężkiego
-22) kierowca autobusu samochodu ciężarowego operator
+17) kierowca – operator samochodowego sprzętu technicznego
+18) kierowca – operator samochodowego sprzętu technicznego
+19) kierowca – operator samochodowego sprzętu technicznego
+20) kierowca – operator samochodowego sprzętu technicznego
+21) kierowca – operator sprzętu ciężkiego
+22) kierowca autobusu – samochodu ciężarowego – operator
 23) kierowca autobusu i samochodu ciężarowego
 24) kierowca ciągnika rolniczego
 25) kierowca operator autocysterny
@@ -3852,7 +3853,7 @@ source: "isap-pdf"
 41) kierownik wydziału sprzętu technologicznego i transportu
 42) kierownik wydziału transportu drogowego
 43) koordynator
-44) koordynator do spraw paliw kierowca autocysterny
+44) koordynator do spraw paliw – kierowca autocysterny
 45) koordynator oddziału dystrybucji paliw
 46) kowal
 47) mechanik
@@ -3863,8 +3864,8 @@ source: "isap-pdf"
 52) mechanik samochodowy
 53) mechanik sprzętu technologicznego
 54) mistrz
-55) mistrz kierowca operator autocysterny
-56) mistrz wydawca paliw i smarów na odkrywce
+55) mistrz – kierowca operator autocysterny
+56) mistrz – wydawca paliw i smarów na odkrywce
 57) naczelny inżynier do spraw sprzętu technologicznego
 58) naczelny inżynier górniczy do spraw sprzętu technologicznego
 59) nadsztygar
@@ -3896,8 +3897,8 @@ source: "isap-pdf"
 85) starszy kierowca
 86) starszy mechanik sprzętu technologicznego
 87) starszy mistrz
-88) starszy mistrz zastępca kierownika działu
-89) starszy mistrz zastępca kierownika oddziału
+88) starszy mistrz – zastępca kierownika działu
+89) starszy mistrz – zastępca kierownika oddziału
 90) starszy operator sprzętu pomocniczego i technologicznego
 91) starszy operator sprzętu pomocniczego i technologicznego
 92) starszy operator sprzętu technologicznego na odkrywce
@@ -3940,7 +3941,7 @@ source: "isap-pdf"
 6) główny specjalista
 7) główny specjalista do spraw analiz i monitorowania wydobycia
 8) główny specjalista do spraw informatyki
-9) główny specjalista do spraw kontroli jakości dozorca
+9) główny specjalista do spraw kontroli jakości – dozorca
 10) główny specjalista do spraw planowania wydobycia
 11) główny specjalista kierujący zespołem
 12) górnik kopalni odkrywkowej
@@ -3954,8 +3955,8 @@ source: "isap-pdf"
 20) inspektor specjalności górniczej
 21) inspektor specjalności mierniczej
 22) inspektor techniczny
-23) kierowca operator samochodowego sprzętu technicznego
-24) kierowca operator samochodowego sprzętu technicznego
+23) kierowca – operator samochodowego sprzętu technicznego
+24) kierowca – operator samochodowego sprzętu technicznego
 25) kierownik biura kontroli jakości
 26) kierownik biura planowania wydobycia
 27) kierownik działu
@@ -4019,7 +4020,7 @@ source: "isap-pdf"
 10) elektromonter rozdzielni i sieci elektroenergetycznej
 11) elektronik
 12) frezer
-13) frezer wiertacz
+13) frezer – wiertacz
 14) główny energetyk
 15) główny inżynier
 16) główny inżynier automatyki i pomiarów
@@ -4033,12 +4034,12 @@ source: "isap-pdf"
 24) główny mechanik
 25) główny spawalnik
 26) główny specjalista
-27) główny specjalista do spraw konstrukcyjnych zastępca
+27) główny specjalista do spraw konstrukcyjnych – zastępca
 28) główny specjalista do spraw maszyn podstawowych
-29) główny specjalista do spraw montażu, serwisu zastępca
+29) główny specjalista do spraw montażu, serwisu – zastępca
 30) główny specjalista do spraw produkcji konstrukcji stalowych
 31) główny specjalista do spraw przebudowy układów
-32) główny specjalista do spraw regeneracji zastępca kierownika
+32) główny specjalista do spraw regeneracji – zastępca kierownika
 33) główny specjalista do spraw technicznych
 34) główny specjalista kierujący zespołem
 35) główny specjalista oddziału
@@ -4061,20 +4062,20 @@ source: "isap-pdf"
 52) inspektor specjalności teletechnicznej
 53) inspektor specjalności wulkanizacji taśm przenośnikowych
 54) inspektor techniczny
-55) kierowca operator samochodowego sprzętu technicznego
-56) kierowca spawacz
-57) kierowca ciągnika monter ślusarz
+55) kierowca – operator samochodowego sprzętu technicznego
+56) kierowca – spawacz
+57) kierowca ciągnika – monter – ślusarz
 58) kierowca ciągnika rolniczego
 59) kierowca samochodu ciężarowego (pojazdy członowe żej 16 t
 60) kierowca samochodu ciężarowego (pojazdy członowe i kraczającej 16 t
-61) kierowca samochodu osobowego i osobowo towarowego
+61) kierowca samochodu osobowego i osobowo – towarowego
 62) kierownik działu
 63) kierownik działu kontroli jakości
 64) kierownik działu ruchu
 65) kierownik oddziału
 66) kierownik robót
 67) kierownik wydziału
-68) kierownik wydziału nadsztygar do spraw majątku produkcyjnego
+68) kierownik wydziału – nadsztygar do spraw majątku produkcyjnego
 69) kierownik wydziału remontowego kwt
 70) kierownik wydziału robót konstrukcyjnych, montażowych
 71) kierownik wydziału robót remontowych
@@ -4083,27 +4084,27 @@ source: "isap-pdf"
 74) koordynator
 75) kowal
 76) majster
-77) majster dozorca urządzeń i robót
-78) majster specjalista do spraw konstrukcji
-79) majster specjalista do spraw remontowych
-80) majster specjalista do spraw technicznych dozorca
-81) majster technolog
+77) majster – dozorca urządzeń i robót
+78) majster – specjalista do spraw konstrukcji
+79) majster – specjalista do spraw remontowych
+80) majster – specjalista do spraw technicznych – dozorca
+81) majster – technolog
 82) majster konstrukcji stalowych
-83) majster konstrukcji stalowych technolog
+83) majster konstrukcji stalowych – technolog
 84) malarz konstrukcji
 85) mechanik
 86) mechanik maszyn i urządzeń górniczych w przodku
 87) mistrz
 88) monter
-89) monter operator wózka
-90) monter spawacz
-91) monter spawacz brygadzista
-92) monter ślusarz
-93) monter ślusarz brygadzista
-94) monter ślusarz operator kierowca
-95) monter ślusarz operator wózka
-96) monter ślusarz spawacz
-97) monter ślusarz spawacz brygadzista
+89) monter – operator wózka
+90) monter – spawacz
+91) monter – spawacz – brygadzista
+92) monter – ślusarz
+93) monter – ślusarz – brygadzista
+94) monter – ślusarz – operator – kierowca
+95) monter – ślusarz – operator wózka
+96) monter – ślusarz – spawacz
+97) monter – ślusarz – spawacz – brygadzista
 98) monter instalacji
 99) monter instalacji sanitarnych, gazowych i centralnego
 100) monter konstrukcji
@@ -4123,11 +4124,11 @@ source: "isap-pdf"
 114) operator suwnicy
 115) operator suwnicy i wózka
 116) operator wielomaszynowy
-117) operator wielomaszynowy ślusarz
-118) operator wielomaszynowy ślusarz brygadzista
+117) operator wielomaszynowy – ślusarz
+118) operator wielomaszynowy – ślusarz – brygadzista
 119) operator żurawia
 120) palacz
-121) palacz spawacz
+121) palacz – spawacz
 122) pomiarowy na odkrywce
 123) pracownik gospodarczy
 124) referent do spraw administracyjnych i rozliczeniowych
@@ -4142,21 +4143,21 @@ source: "isap-pdf"
 133) samodzielny referent techniczny
 134) sekcyjny
 135) spawacz
-136) spawacz brygadzista
-137) spawacz monter
-138) spawacz monter brygadzista
-139) spawacz monter kierowca
-140) spawacz monter operator suwnicy
-141) spawacz monter operator wózka jezdniowego
-142) spawacz operator podnośnika
-143) spawacz ślusarz
-144) spawacz ślusarz brygadzista
-145) spawacz ślusarz operator wózka
+136) spawacz – brygadzista
+137) spawacz – monter
+138) spawacz – monter – brygadzista
+139) spawacz – monter – kierowca
+140) spawacz – monter – operator suwnicy
+141) spawacz – monter – operator wózka jezdniowego
+142) spawacz – operator podnośnika
+143) spawacz – ślusarz
+144) spawacz – ślusarz – brygadzista
+145) spawacz – ślusarz – operator wózka
 146) specjalista
 147) specjalista do spraw administracyjnych
 148) specjalista do spraw administracyjnych i rozliczeniowych
-149) specjalista do spraw konstrukcji inżynier technolog
-150) specjalista do spraw montażowych majster
+149) specjalista do spraw konstrukcji – inżynier technolog
+150) specjalista do spraw montażowych – majster
 151) specjalista do spraw obróbki skrawaniem
 152) specjalista do spraw realizacji projektów
 153) specjalista do spraw realizacji projektów i serwisu
@@ -4179,45 +4180,45 @@ source: "isap-pdf"
 170) starszy inspektor techniczny
 171) starszy kontroler jakości na odkrywce
 172) starszy mistrz
-173) starszy mistrz zastępca kierownika oddziału
+173) starszy mistrz – zastępca kierownika oddziału
 174) starszy operator obrabiarek skrawających
-175) starszy operator obrabiarek skrawających ślusarz
+175) starszy operator obrabiarek skrawających – ślusarz
 176) starszy operator suwnic
 177) starszy palacz
-178) starszy palacz spawacz
+178) starszy palacz – spawacz
 179) starszy referent
 180) starszy spawacz
-181) starszy spawacz ślusarz
+181) starszy spawacz – ślusarz
 182) starszy specjalista
 183) starszy ślusarz
-184) starszy ślusarz spawacz
+184) starszy ślusarz – spawacz
 185) starszy technolog
 186) suwnicowy
 187) szlifierz
 188) szlifierz narzędziowy
 189) sztygar oddziałowy
-190) sztygar oddziałowy kierownik działu kontroli jakości
+190) sztygar oddziałowy – kierownik działu kontroli jakości
 191) sztygar zmianowy
 192) ślusarz
-193) ślusarz brygadzista
-194) ślusarz monter
-195) ślusarz monter brygadzista
-196) ślusarz monter malarz piaskarz
-197) ślusarz monter spawacz operator transportera gąsienicowego
-198) ślusarz spawacz
-199) ślusarz spawacz
+193) ślusarz – brygadzista
+194) ślusarz – monter
+195) ślusarz – monter – brygadzista
+196) ślusarz – monter – malarz – piaskarz
+197) ślusarz – monter – spawacz – operator transportera gąsienicowego
+198) ślusarz – spawacz
+199) ślusarz – spawacz
 200) ślusarz narzędziowy
 201) technik specjalności górniczej
 202) technik specjalności technicznej
 203) technik specjalności teletechnicznej
 204) technolog
-205) technolog majster
-206) technolog specjalista do spraw rozliczeniowych
+205) technolog – majster
+206) technolog – specjalista do spraw rozliczeniowych
 207) tokarz
-208) tokarz brygadzista
-209) tokarz frezer
+208) tokarz – brygadzista
+209) tokarz – frezer
 210) tokarz na maszynach unikalnych
-211) wiertacz brygadzista
+211) wiertacz – brygadzista
 212) wytaczarz
 213) zastępca kierownika działu
 214) zastępca kierownika oddziału do spraw regeneracji
@@ -4241,13 +4242,13 @@ source: "isap-pdf"
 17) kierownik oddziału zakupów
 18) koordynator
 19) magazynier
-20) magazynier wydawca
+20) magazynier – wydawca
 21) mistrz do spraw magazynowych
 22) nadsztygar elektryczny
 23) nadsztygar mechaniczny
-24) operator magazynier
+24) operator – magazynier
 25) sekcyjny
-26) spawacz magazynier
+26) spawacz – magazynier
 27) specjalista
 28) specjalista do spraw administracji
 29) specjalista do spraw kontroli wewnętrznej
@@ -4288,7 +4289,7 @@ source: "isap-pdf"
 14) inspektor specjalności elektrycznej
 15) inspektor specjalności mechanicznej
 16) inspektor techniczny
-17) kierowca operator samochodowego sprzętu technicznego
+17) kierowca – operator samochodowego sprzętu technicznego
 18) kierowca samochodu uprzywilejowanego w ruchu
 19) kierownik biura bezpieczeństwa i higieny pracy
 20) kierownik działu

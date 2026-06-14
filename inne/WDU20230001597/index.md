@@ -8,7 +8,7 @@ pos: 1597
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu
@@ -45,6 +45,10 @@ source: "isap-pdf"
 - **6)** wytwarzania odpadów stosuje się przepisy ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** biogaz rolniczy – biogaz rolniczy w rozumieniu art. 2 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **2)** biogazownia rolnicza – instalację odnawialnego źródła energii w rozumieniu art. 2 pkt 13 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii służącą do wytwarzania biogazu rolniczego, energii elektrycznej z biogazu rolniczego, ciepła z biogazu rolniczego lub biometanu z biogazu rolniczego;
+- **3)** gospodarstwo rolne – gospodarstwo rolne w rozumieniu art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2025 r. poz. 1344), w skład którego wchodzi zabudowa zagrodowa w rozumieniu art. 4 pkt 31 ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82).
 
 **Art. 3.**
 
@@ -147,6 +151,20 @@ source: "isap-pdf"
 3. Do kary pieniężnej, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 175 i art. 176 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii. Art. 9–17. (pominięte)
 
 **Art. 18.** W okresie do dnia 30 czerwca 2026 r., w przypadku gdy biogazownia rolnicza ma być lokalizowana na tym samym obszarze co inwestycje, o których mowa w:
+
+- **1)** ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796), w zakresie inwestycji dotyczących infrastruktury portowej oraz infrastruktury zapewniającej dostęp do portów lub przystani morskich,
+- **2)** ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311),
+- **3)** ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2025 r. poz. 1234),
+- **4)** ustawie z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464),
+- **5)** ustawie z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2025 r. poz. 1222),
+- **6)** ustawie z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311 i 1019),
+- **7)** ustawie z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274 oraz z 2025 r. poz. 680),
+- **8)** ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1156),
+- **9)** ustawie z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199),
+- **10)** ustawie z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. z 2024 r. poz. 285),
+- **11)** ustawie z dnia 7 kwietnia 2017 r. o inwestycjach w zakresie budowy lub przebudowy toru wodnego Świnoujście – Szczecin do głębokości 12,5 metra (Dz. U. poz. 990),
+- **12)** ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531),
+- **13)** ustawie z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 1839) – inwestycje, o których mowa w pkt 1–13, mają pierwszeństwo przed taką biogazownią rolniczą.
 
 **Art. 19.**
 
@@ -294,6 +312,11 @@ source: "isap-pdf"
 6. W przypadku realizacji biogazowni rolniczej do wniosku o pozwolenie na budowę należy dołączyć uchwałę o ustaleniu lokalizacji, o której mowa w art. 19 ust. 4.
 
 **Art. 23.** Przepisy art. 18–22 stosuje się do biogazowni rolniczej spełniającej warunki określone w art. 4 ust. 1 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu, której:
+
+- **1)** łączna moc zainstalowana elektryczna jest większa niż 1 MW – w przypadku gdy przedmiotem działalności w tej biogazowni jest wytwarzanie energii elektrycznej;
+- **2)** łączna moc osiągalna cieplna w skojarzeniu jest większa niż 3 MW – w przypadku gdy przedmiotem działalności w tej biogazowni jest wytwarzanie ciepła;
+- **3)** roczna wydajność produkcji biogazu rolniczego przekracza 4 mln m – w przypadku gdy przedmiotem działalności w tej biogazowni jest wytwarzanie biogazu rolniczego;
+- **4)** roczna wydajność produkcji biometanu z biogazu rolniczego przekracza 2,4 mln m – w przypadku gdy przedmiotem działalności w tej biogazowni jest wytwarzanie biometanu.
 
 **Art. 24.**
 

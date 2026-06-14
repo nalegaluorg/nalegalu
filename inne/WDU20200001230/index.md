@@ -8,10 +8,10 @@ pos: 1230
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lipca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1230 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 9 lipca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1230/text.pdf) |
 
-ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 9 lipca 2020 r.
 w sprawie udzielania wyróżnień i przeprowadzania postępowań dyscyplinarnych wobec funkcjonariuszy Agencji Wywiadu Na podstawie art. 152 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe zasady i tryb:
 a) udzielania wyróżnień,
 b) przeprowadzania postępowań dyscyplinarnych,
@@ -45,19 +45,21 @@ d) odwoływania się od wymierzonych kar dyscyplinarnych;
 § 3. 1. Funkcjonariusz przeniesiony do pełnienia służby albo delegowany do czasowego pełnienia służby podlega władzy dyscyplinarnej kierownika jednostki organizacyjnej Agencji Wywiadu, do której został przeniesiony lub delegowany.
 2. Funkcjonariusz pozostający bez przydziału służbowego podlega władzy dyscyplinarnej przełożonego, w którego dyspozycji pozostaje.
 3. Funkcjonariusz przebywający na urlopie lub oddelegowany do wykonywania zadań służbowych poza Agencją Wywiadu podlega władzy dyscyplinarnej kierownika jednostki organizacyjnej Agencji Wywiadu, w którego dyspozycji pozostaje.
-§ 4. 1. W postępowaniu dyscyplinarnym, w sprawach nieuregulowanych rozporządzeniem, stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2020 r. poz. 30, 413, 568 i 1086) dotyczące wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz zatrzymania i doprowadzenia świadków. Do świadków nie stosuje się art. 184 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+§ 4. 1. W postępowaniu dyscyplinarnym, w sprawach nieuregulowanych rozporządzeniem, stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2020 r. poz. 30, 413, 568 i 1086) dotyczące wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz zatrzymania i doprowadzenia świadków. Do świadków nie stosuje się art. 184 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 2. O zwolnieniu od złożenia zeznania lub odpowiedzi na pytania osoby pozostającej z obwinionym w szczególnie bliskim stosunku osobistym rozstrzyga rzecznik dyscyplinarny. Na odmowę zwolnienia od złożenia zeznania lub odpowiedzi na pytania służy zażalenie w terminie 3 dni od dnia doręczenia postanowienia.
+§ 5. 1. Przełożony może udzielić funkcjonariuszowi wyróżnień, o których mowa w art. 101 pkt 1–3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”.
 2. Wyróżnienia, o którym mowa w art. 101 pkt 4 ustawy, udziela się z zachowaniem zasad i trybu określonych w art. 67–69 ustawy.
 3. Wyróżnienia, o którym mowa w art. 101 pkt 5 ustawy, udziela się z zachowaniem zasad i trybu określonych w przepisach dotyczących mianowania na stanowisko służbowe, wydanych na podstawie art. 94 ustawy.
 4. Szef Agencji Wywiadu przedstawia funkcjonariusza do orderu lub odznaczenia z zachowaniem zasad i trybu określonych w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2020 r. poz. 138).
 5. Jeżeli przełożony uzna, że funkcjonariusz zasługuje na wyższe wyróżnienie niż to, którego może udzielić, występuje z wnioskiem do uprawnionego przełożonego o udzielenie takiego wyróżnienia.
 § 6. 1. Wyróżnień udziela się w sposób uroczysty.
-2. O udzielonym funkcjonariuszowi wyróżnieniu informuje się funkcjonariuszy jednostki organizacyjnej Agencji Wywiadu, w której pełni on służbę, a na polecenie Szefa Agencji Wywiadu wszystkich funkcjonariuszy Agencji Wywiadu.
+2. O udzielonym funkcjonariuszowi wyróżnieniu informuje się funkcjonariuszy jednostki organizacyjnej Agencji Wywiadu, w której pełni on służbę, a na polecenie Szefa Agencji Wywiadu – wszystkich funkcjonariuszy Agencji Wywiadu.
 3. Informację o udzielonym wyróżnieniu włącza się do akt osobowych wyróżnionego.
 § 7. Wyróżnienia mogą być udzielone funkcjonariuszowi:
-1) przeciwko któremu nie jest prowadzone postępowanie karne lub dyscyplinarne, a w przypadku warunkowego umorzenia postępowania karnego wobec tego funkcjonariusza dopiero po okresie, w którym postępowanie to może być podjęte;
-2) który nie został ukarany karą dyscyplinarną, a w przypadku ukarania taką karą dopiero po zatarciu tej kary;
-3) który nie został skazany prawomocnym orzeczeniem sądu za przestępstwo lub wykroczenie, a w przypadku skazania takim orzeczeniem dopiero po zatarciu tego skazania.
+1) przeciwko któremu nie jest prowadzone postępowanie karne lub dyscyplinarne, a w przypadku warunkowego umorzenia postępowania karnego wobec tego funkcjonariusza – dopiero po okresie, w którym postępowanie to może być podjęte;
+2) który nie został ukarany karą dyscyplinarną, a w przypadku ukarania taką karą – dopiero po zatarciu tej kary;
+3) który nie został skazany prawomocnym orzeczeniem sądu za przestępstwo lub wykroczenie, a w przypadku skazania takim orzeczeniem – dopiero po zatarciu tego skazania.
+§ 8. Naruszeniem dyscypliny służbowej, za które funkcjonariusz ponosi odpowiedzialność dyscyplinarną, jest:
 1) niedopełnienie obowiązków służbowych;
 2) odmowa wykonania albo niewykonanie rozkazu lub polecenia służbowego, z wyjątkiem przypadku, o którym mowa w art. 79 ust. 2 ustawy, oraz gdy odmowa dotyczy wykonania polecenia służbowego, które nie pozostaje w związku z pełnieniem służby;
 3) zaniechanie wykonania czynności służbowej albo wykonanie jej w sposób niedbały lub niezgodny z rozkazem lub poleceniem służbowym;
@@ -104,7 +106,7 @@ d) odwoływania się od wymierzonych kar dyscyplinarnych;
 § 14. 1. Postępowanie dyscyplinarne oraz czynności wyjaśniające, o których mowa w § 11 ust. 1, prowadzi rzecznik dyscyplinarny wyznaczony przez kierownika jednostki organizacyjnej Agencji Wywiadu.
 2. Postępowanie dyscyplinarne oraz czynności wyjaśniające, o których mowa w § 11 ust. 1:
 1) wobec zastępcy Szefa Agencji Wywiadu, kierownika jednostki organizacyjnej Agencji Wywiadu, zastępcy kierownika jednostki organizacyjnej Agencji Wywiadu oraz rzecznika dyscyplinarnego w okresie sprawowania przez niego tej funkcji,
-2) w przypadku wszczęcia tego postępowania lub polecenia podjęcia tych czynności przez Szefa Agencji Wywiadu prowadzi rzecznik dyscyplinarny wyznaczony przez Szefa Agencji Wywiadu.
+2) w przypadku wszczęcia tego postępowania lub polecenia podjęcia tych czynności przez Szefa Agencji Wywiadu – prowadzi rzecznik dyscyplinarny wyznaczony przez Szefa Agencji Wywiadu.
 3. Władzę dyscyplinarną przełożonego w postępowaniu dyscyplinarnym prowadzonym wobec osób, o których mowa w ust. 2, posiada Szef Agencji Wywiadu.
 § 15. 1. Szef Agencji Wywiadu, na wniosek kierownika jednostki organizacyjnej Agencji Wywiadu, powołuje rzecznika dyscyplinarnego w jednostce organizacyjnej Agencji Wywiadu spośród funkcjonariuszy tej jednostki.
 2. W jednostce organizacyjnej Agencji Wywiadu powołuje się co najmniej jednego i nie więcej niż trzech rzeczników dyscyplinarnych.
@@ -135,11 +137,11 @@ d) odwoływania się od wymierzonych kar dyscyplinarnych;
 3. Przed przesłuchaniem rzecznik dyscyplinarny uprzedza świadka i biegłego o odpowiedzialności karnej za składanie fałszywych zeznań.
 4. Materiały przekazane przez organy, instytucje lub osoby określone w § 10 ust. 2 włącza się do akt postępowania dyscyplinarnego.
 § 20. 1. W toku postępowania dyscyplinarnego rzecznik dyscyplinarny wydaje postanowienia, jeżeli ich wydanie nie jest zastrzeżone do kompetencji przełożonego. Przepis § 13 ust. 2 stosuje się odpowiednio.
-2. Zażalenie na postanowienie wnosi się za pośrednictwem wydającego postanowienie, w terminie 3 dni od dnia doręczenia postanowienia, do przełożonego, a jeżeli postanowienie wydał ten przełożony do Szefa Agencji Wywiadu.
+2. Zażalenie na postanowienie wnosi się za pośrednictwem wydającego postanowienie, w terminie 3 dni od dnia doręczenia postanowienia, do przełożonego, a jeżeli postanowienie wydał ten przełożony – do Szefa Agencji Wywiadu.
 3. Jeżeli postanowienie wydał Szef Agencji Wywiadu, zażalenie nie przysługuje, a obwiniony może w terminie określonym w ust. 2 złożyć do Szefa Agencji Wywiadu wniosek o ponowne rozpatrzenie sprawy. Przepis ust. 4 stosuje się odpowiednio.
 4. Przełożony po rozpatrzeniu zażalenia wydaje postanowienie o:
 1) utrzymaniu zaskarżonego postanowienia w mocy albo
-2) uchyleniu zaskarżonego postanowienia i jego zmianie lub zwrocie do ponownego rozpatrzenia w całości lub w części.
+2) uchyleniu zaskarżonego postanowienia i jego zmianie lub zwrocie do ponownego rozpatrzenia – w całości lub w części.
 5. Postanowienia wydane w toku postępowania dyscyplinarnego doręcza się obwinionemu i jego obrońcy, jeżeli został ustanowiony w sprawie.
 § 21. W toku postępowania dyscyplinarnego obwiniony ma prawo do:
 1) odmowy składania wyjaśnień;
@@ -177,6 +179,7 @@ d) odwoływania się od wymierzonych kar dyscyplinarnych;
 4) dokładne określenie zarzucanego obwinionemu czynu, ze wskazaniem czasu, miejsca, sposobu i okoliczności oraz skutków jego popełnienia, wraz z podaniem kwalifikacji prawnej;
 5) opis ustalonego stanu faktycznego na podstawie zebranych dowodów;
 6) wnioski dotyczące orzeczenia dyscyplinarnego lub umorzenia postępowania dyscyplinarnego z uzasadnieniem i wskazaniem okoliczności łagodzących i obciążających.
+§ 28. 1. Na podstawie zebranego w sprawie materiału dowodowego przełożony orzeka o:
 1) uniewinnieniu, jeżeli przeprowadzone postępowanie nie potwierdziło zarzutów stawianych obwinionemu lub przeprowadzone postępowanie karne, postępowanie w sprawie o wykroczenie lub postępowanie w sprawie o przestępstwo albo wykroczenie skarbowe zostało zakończone orzeczeniem o uniewinnieniu lub postanowieniem o umorzeniu, a czyn nie stanowi naruszenia dyscypliny służbowej, albo
 2) uznaniu obwinionego winnym popełnienia czynu i wymierzeniu kary dyscyplinarnej, albo
 3) uznaniu obwinionego winnym popełnienia czynu i odstąpieniu od wymierzenia kary dyscyplinarnej.
@@ -215,6 +218,7 @@ Wniosek przełożonego nie wiąże Szefa Agencji Wywiadu.
 4. W przypadku gdy w uzasadnieniu orzeczenia zostały zawarte wiadomości stanowiące informacje niejawne obwinionemu doręcza się orzeczenie bez uzasadnienia, z zawiadomieniem, że uzasadnienie zostało sporządzone.
 5. Obwiniony i jego obrońca mają prawo zapoznać się z uzasadnieniem, o którym mowa w ust. 4. Przed udostępnieniem uzasadnienia przełożony lub rzecznik dyscyplinarny poucza o obowiązku zachowania w tajemnicy informacji niejawnych zawartych w uzasadnieniu i uprzedza o skutkach niedopełnienia tego obowiązku.
 6. Fakt przeprowadzenia czynności, o których mowa w ust. 5, obwiniony i obrońca potwierdzają własnoręcznym podpisem.
+§ 33. 1. Odwołanie od orzeczenia składa się na piśmie do Szefa Agencji Wywiadu, w terminie 7 dni od dnia jego doręczenia, za pośrednictwem przełożonego, który wydał orzeczenie.
 2. Wniesienie odwołania w terminie wstrzymuje wykonanie orzeczenia.
 3. Orzeczenie, od którego nie wniesiono w terminie odwołania, staje się po upływie tego terminu prawomocne i podlega wykonaniu.
 4. Jeżeli orzeczenie zostało wydane przez Szefa Agencji Wywiadu, odwołanie nie przysługuje, jednakże obwiniony, w terminie 7 dni od dnia jego doręczenia, może zwrócić się do Szefa Agencji Wywiadu z wnioskiem o ponowne rozpatrzenie sprawy. Przepis § 36 stosuje się odpowiednio.
@@ -238,16 +242,18 @@ Wniosek przełożonego nie wiąże Szefa Agencji Wywiadu.
 § 38. Przepisy dotyczące postępowania dyscyplinarnego stosuje się odpowiednio w postępowaniu odwoławczym, z wyłączeniem § 11, § 13, § 24 ust. 2 i § 26.
 § 39. W orzeczeniu, o którym mowa w § 36 ust. 1 pkt 2, nie można wymierzyć kary dyscyplinarnej surowszej niż wymierzona w orzeczeniu o ukaraniu.
 § 40. W przypadku, o którym mowa w § 36 ust. 1 pkt 3, w dalszym postępowaniu można orzec karę dyscyplinarną surowszą niż orzeczona w uchylonym orzeczeniu.
+§ 41. Po uprawomocnieniu się orzeczenia o ukaraniu przełożony niezwłocznie wykonuje orzeczoną karę dyscyplinarną.
 § 42. 1. Orzeczenie o ukaraniu włącza się do akt osobowych ukaranego.
 2. Przełożony, który wydał orzeczenie o ukaraniu, może takie orzeczenie podać do wiadomości wszystkim lub niektórym funkcjonariuszom jednostki organizacyjnej Agencji Wywiadu, w której ukarany pełni służbę, mając na uwadze względy wychowawcze lub prewencyjne wydanego orzeczenia.
 § 43. Wykonanie kar dyscyplinarnych polega na:
-1) przeprowadzeniu rozmowy i wytknięciu niewłaściwego postępowania w razie wymierzenia kar upomnienia, nagany i surowej nagany;
-2) przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i uprzedzeniu ukaranego o możliwości wymierzenia kary przeniesienia na niższe stanowisko służbowe lub kary surowszej, jeżeli ponownie popełni czyn w razie wymierzenia kary nagany z ostrzeżeniem lub kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku służbowym;
-3) wydaniu rozkazu personalnego o mianowaniu na niższe stanowisko służbowe w razie wymierzenia kary wyznaczenia na niższe stanowisko służbowe;
-4) wydaniu rozkazu o utracie posiadanego stopnia i powrocie do stopnia bezpośrednio niższego w razie wymierzenia kary obniżenia stopnia;
-5) wydaniu rozkazu o utracie przez ukaranego posiadanego stopnia oficerskiego i nadaniu stopnia szeregowego w razie wymierzenia kary pozbawienia stopnia oficerskiego;
-6) przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i ostrzeżeniu, że za ponowne popełnienie czynu ukarany może być wydalony ze służby w razie wymierzenia kary ostrzeżenia o niepełnej przydatności do służby;
-7) wydaniu rozkazu personalnego o zwolnieniu ze służby w razie wymierzenia kary wydalenia ze służby.
+1) przeprowadzeniu rozmowy i wytknięciu niewłaściwego postępowania – w razie wymierzenia kar upomnienia, nagany i surowej nagany;
+2) przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i uprzedzeniu ukaranego o możliwości wymierzenia kary przeniesienia na niższe stanowisko służbowe lub kary surowszej, jeżeli ponownie popełni czyn – w razie wymierzenia kary nagany z ostrzeżeniem lub kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku służbowym;
+3) wydaniu rozkazu personalnego o mianowaniu na niższe stanowisko służbowe – w razie wymierzenia kary wyznaczenia na niższe stanowisko służbowe;
+4) wydaniu rozkazu o utracie posiadanego stopnia i powrocie do stopnia bezpośrednio niższego – w razie wymierzenia kary obniżenia stopnia;
+5) wydaniu rozkazu o utracie przez ukaranego posiadanego stopnia oficerskiego i nadaniu stopnia szeregowego – w razie wymierzenia kary pozbawienia stopnia oficerskiego;
+6) przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i ostrzeżeniu, że za ponowne popełnienie czynu ukarany może być wydalony ze służby – w razie wymierzenia kary ostrzeżenia o niepełnej przydatności do służby;
+7) wydaniu rozkazu personalnego o zwolnieniu ze służby – w razie wymierzenia kary wydalenia ze służby.
+§ 44. 1. Zatarcie kary dyscyplinarnej oznacza uznanie kary za niebyłą.
 2. Wskutek zatarcia kary dyscyplinarnej następuje usunięcie z akt osobowych funkcjonariusza orzeczenia o ukaraniu i uczynienie informacji o ukaraniu nieczytelną.
 3. Zatarcie kary dyscyplinarnej nie usuwa skutków wykonania kary.
 4. Jeżeli funkcjonariusz popełnił czyn, za który została mu wymierzona kara dyscyplinarna, przed upływem okresu wymaganego do zatarcia poprzednio wymierzonej kary dyscyplinarnej, jest dopuszczalne tylko jednoczesne zatarcie wszystkich kar dyscyplinarnych.
@@ -266,35 +272,37 @@ Wniosek przełożonego nie wiąże Szefa Agencji Wywiadu.
 3. Zatarcie kary dyscyplinarnej powoduje usunięcie z akt osobowych funkcjonariusza orzeczenia o ukaraniu. Orzeczenie o odstąpieniu od ukarania usuwa się z akt osobowych po upływie 6 miesięcy od dnia jego uprawomocnienia się.
 § 49. 1. W przypadkach, o których mowa w § 47 i § 48 ust. 1, orzeczenie wydaje przełożony, który karę wymierzył.
 2. Orzeczenie o zatarciu kary dyscyplinarnej doręcza się funkcjonariuszowi.
+§ 50. Przełożony, który wydał orzeczenie kończące postępowanie dyscyplinarne, wznawia postępowanie z urzędu lub na wniosek obwinionego albo w przypadku jego śmierci na wniosek jego krewnego w linii prostej, przysposabiającego lub przysposobionego, rodzeństwa oraz małżonka.
 § 51. 1. Wznowienie lub odmowa wznowienia postępowania dyscyplinarnego następuje w drodze postanowienia.
 2. Postanowienie doręcza się obwinionemu albo w przypadku, o którym mowa w § 50, osobie, która złożyła wniosek o wznowienie postępowania dyscyplinarnego.
 3. Na postanowienie, o którym mowa w ust. 1, wydane przez:
-1) kierownika jednostki organizacyjnej Agencji Wywiadu przysługuje zażalenie do Szefa Agencji Wywiadu,
-2) Szefa Agencji Wywiadu przysługuje wniosek do Szefa Agencji Wywiadu o ponowne rozpatrzenie sprawy w terminie 7 dni od dnia doręczenia postanowienia osobie, o której mowa w ust. 2.
+1) kierownika jednostki organizacyjnej Agencji Wywiadu – przysługuje zażalenie do Szefa Agencji Wywiadu,
+2) Szefa Agencji Wywiadu – przysługuje wniosek do Szefa Agencji Wywiadu o ponowne rozpatrzenie sprawy – w terminie 7 dni od dnia doręczenia postanowienia osobie, o której mowa w ust. 2.
 § 52. 1. Postanowienie o wznowieniu postępowania dyscyplinarnego stanowi podstawę do przeprowadzenia postępowania co do przyczyn wznowienia oraz co do rozstrzygnięcia istoty sprawy. Postępowanie to prowadzi wyznaczony przez przełożonego rzecznik dyscyplinarny. Przepisy o postępowaniu dyscyplinarnym stosuje się odpowiednio.
 2. Po przeprowadzeniu postępowania, o którym mowa w ust. 1, przełożony wydaje orzeczenie, w którym:
 1) odmawia uchylenia dotychczasowego orzeczenia albo
 2) uchyla dotychczasowe orzeczenie i rozstrzyga o istocie sprawy.
 3. Na orzeczenie wydane w trybie wznowienia postępowania dyscyplinarnego służy odwołanie obwinionemu, a w przypadku, o którym mowa w § 50, osobie, która złożyła wniosek o wznowienie postępowania dyscyplinarnego. Przepisy o postępowaniu odwoławczym stosuje się odpowiednio.
+§ 53. Do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 54. Czynności realizowane w ramach wszczętych i niezakończonych postępowań dyscyplinarnych podjęte przed dniem wejścia w życie niniejszego rozporządzenia pozostają w mocy.
 § 55. Rzecznik dyscyplinarny powołany na podstawie przepisów dotychczasowych staje się rzecznikiem dyscyplinarnym w rozumieniu niniejszego rozporządzenia do czasu upływu dotychczasowej kadencji.
 § 56. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Zasady i tryb udzielania wyróżnień § 5. 1. Przełożony może udzielić funkcjonariuszowi wyróżnień, o których mowa w art. 101 pkt 1–3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”.
+#### Rozdział 2 Zasady i tryb udzielania wyróżnień
 
-#### Rozdział 3 Postępowanie dyscyplinarne § 8. Naruszeniem dyscypliny służbowej, za które funkcjonariusz ponosi odpowiedzialność dyscyplinarną, jest:
+#### Rozdział 3 Postępowanie dyscyplinarne
 
-#### Rozdział 4 Wymierzanie kar dyscyplinarnych § 28. 1. Na podstawie zebranego w sprawie materiału dowodowego przełożony orzeka o:
+#### Rozdział 4 Wymierzanie kar dyscyplinarnych
 
-#### Rozdział 5 Postępowanie odwoławcze § 33. 1. Odwołanie od orzeczenia składa się na piśmie do Szefa Agencji Wywiadu, w terminie 7 dni od dnia jego doręczenia, za pośrednictwem przełożonego, który wydał orzeczenie.
+#### Rozdział 5 Postępowanie odwoławcze
 
-#### Rozdział 6 Wykonywanie kar dyscyplinarnych § 41. Po uprawomocnieniu się orzeczenia o ukaraniu przełożony niezwłocznie wykonuje orzeczoną karę dyscyplinarną.
+#### Rozdział 6 Wykonywanie kar dyscyplinarnych
 
-#### Rozdział 7 Zatarcie i darowanie kar dyscyplinarnych § 44. 1. Zatarcie kary dyscyplinarnej oznacza uznanie kary za niebyłą.
+#### Rozdział 7 Zatarcie i darowanie kar dyscyplinarnych
 
-#### Rozdział 8 Wznowienie postępowania dyscyplinarnego § 50. Przełożony, który wydał orzeczenie kończące postępowanie dyscyplinarne, wznawia postępowanie z urzędu lub na wniosek obwinionego albo w przypadku jego śmierci na wniosek jego krewnego w linii prostej, przysposabiającego lub przysposobionego, rodzeństwa oraz małżonka.
+#### Rozdział 8 Wznowienie postępowania dyscyplinarnego
 
-#### Rozdział 9 Przepisy przejściowe i końcowe § 53. Do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+#### Rozdział 9 Przepisy przejściowe i końcowe
 

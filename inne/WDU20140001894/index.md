@@ -8,10 +8,10 @@ pos: 1894
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 grudnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1894 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 19 grudnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001894) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1894/text.pdf) |
 
-Poz. 1894 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 19 grudnia 2014 r.
-w sprawie komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych Na podstawie art. 17 ust. 4 ustawy z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. poz. 1822) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb działania komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych, zwanych dalej „komisjami lekarskimi”.
+w sprawie komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych Na podstawie art. 17 ust. 4 ustawy z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. poz. 1822) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb działania komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych, zwanych dalej „komisjami lekarskimi”.
 § 2. 1. Komisje lekarskie orzekają w składach orzekających komisji lekarskich. Składy orzekające komisji lekarskich i ich przewodniczących wyznaczają przewodniczący komisji lekarskiej albo zastępca przewodniczącego komisji lekarskiej.
 2. W przypadku gdy do składu orzekającego jest wyznaczony przewodniczący albo zastępca przewodniczącego komisji lekarskiej, pełni on funkcję przewodniczącego składu orzekającego.
 3. Przewodniczący składu orzekającego komisji lekarskiej zwołuje i przewodniczy posiedzeniom składu orzekającego.

@@ -8,10 +8,10 @@ pos: 957
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 sierpnia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 957 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 9 sierpnia 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000957) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/957/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 9 sierpnia 2012 r.
-w sprawie szczegółowego zakresu danych gromadzonych w bazach danych oświatowych, zakresu danych identyfikujących podmioty prowadzące bazy danych oświatowych, terminów przekazywania danych między bazami danych oświatowych oraz wzorów wydruków zestawień zbiorczych Na podstawie art. 115 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. Nr 139, poz. 814 i Nr 205, poz. 1206 oraz z 2012 r. poz. 941) zarządza się, co następuje: § 1. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie należy przez to rozumieć ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej;
-2) ustawie o systemie oświaty należy przez to rozumieć ustawę z dnia 7 września 1991 r. o systemie oświaty (Dz. U.
+w sprawie szczegółowego zakresu danych gromadzonych w bazach danych oświatowych, zakresu danych identyfikujących podmioty prowadzące bazy danych oświatowych, terminów przekazywania danych między bazami danych oświatowych oraz wzorów wydruków zestawień zbiorczych Na podstawie art. 115 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. Nr 139, poz. 814 i Nr 205, poz. 1206 oraz z 2012 r. poz. 941) zarządza się, co następuje:
+§ 1. Ilekroć w rozporządzeniu jest mowa o:
+1) ustawie – należy przez to rozumieć ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej;
+2) ustawie o systemie oświaty – należy przez to rozumieć ustawę z dnia 7 września 1991 r. o systemie oświaty (Dz. U.
 z 2004 r. Nr 256, poz. 2572, z późn. zm. );
-3) Karcie Nauczyciela należy przez to rozumieć ustawę z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2006 r.
+3) Karcie Nauczyciela – należy przez to rozumieć ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r.
 Nr 97, poz. 674, z późn. zm. );
-4) rejestrze TERYT należy przez to rozumieć krajowy rejestr urzędowy podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591).
+4) rejestrze TERYT – należy przez to rozumieć krajowy rejestr urzędowy podziału terytorialnego kraju, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591).
 § 2. Zbiór danych o powierzchni nieruchomości gruntowej i obiektach budowlanych pozostających w dyspozycji szkoły lub placówki oświatowej zawiera dane o:
 1) łącznej powierzchni nieruchomości gruntowej;
 2) powierzchni terenów sportowych, z wyszczególnieniem liczby i powierzchni:
@@ -73,7 +73,7 @@ e) sal o powierzchni mniejszej niż 162 m ,
 f) basenów olimpijskich o wymiarach 50 m x 25 m albo o powierzchni równej lub większej niż 1250 m ,
 g) basenów pływackich typu sportowego o wymiarach 25 m x 16 m albo o powierzchni równej lub większej niż 400 m i mniejszej niż 1250 m ,
 h) basenów pływackich o wymiarach 25 m x 12,5 m albo o powierzchni równej lub większej niż 312,5 m i mniejszej niż 400 m ,
-i) basenów szkoleniowo-rekreac yjnych o wymiarach 16,67 m x 8,5 m albo o powierzchni równej lub większej niż
+i) basenów szkoleniowo-rekreacyjnych o wymiarach 16,67 m x 8,5 m albo o powierzchni równej lub większej niż 141,7 m i mniejszej niż 312,5 m ;
 6) liczbie i powierzchni pomieszczeń zajmowanych przez bibliotekę szkolną i bibliotekę pedagogiczną;
 7) liczbie:
 a) szkolnych gabinetów lekarskich,
@@ -96,7 +96,7 @@ i) szkolnym schronisku młodzieżowym,
 j) domu wczasów dziecięcych.
 § 4. Zbiór danych o wyposażeniu szkoły lub placówki oświatowej zawiera dane o liczbie:
 1) komputerów, z wyszczególnieniem liczby komputerów z dostępem do Internetu oraz z szerokopasmowym dostępem do Internetu:
-a) do użytku uczniów, słuchaczy i wychowanków: w pracowniach komputerowych, w bibliotece,
+a) do użytku uczniów, słuchaczy i wychowanków: – w pracowniach komputerowych, – w bibliotece,
 b) pozostałych;
 2) kamer wideo;
 3) magnetofonów stereofonicznych do nagrań z mikrofonem stereofonicznym;
@@ -126,22 +126,22 @@ a) płci,
 b) roku urodzenia,
 c) typów lub rodzajów szkół i placówek oświatowych,
 d) klas,
-e) rodzajów oddziałów, do których uczęszczają: ogólnodostępnych, integracyjnych, specjalnych, przysposabiających do pracy, specjalnych przysposabiających do pracy, terapeutycznych, dwujęzycznych, dwujęzycznych dla mniejszości narodowej lub etnicznej albo społeczności posługującej się językiem regionalnym, z językiem nauczania mniejszości narodowej lub etnicznej albo z regionalnym językiem nauczania, z dodatkową nauką języka mniejszości narodowej lub etnicznej albo języka regionalnego, sportowych, mistrzostwa sportowego, o charakterze eksperymentalnym, wielozawodowych, międzynarodowych,
+e) rodzajów oddziałów, do których uczęszczają: – ogólnodostępnych, – integracyjnych, – specjalnych, – przysposabiających do pracy, – specjalnych przysposabiających do pracy, – terapeutycznych, – dwujęzycznych, – dwujęzycznych dla mniejszości narodowej lub etnicznej albo społeczności posługującej się językiem regionalnym, – z językiem nauczania mniejszości narodowej lub etnicznej albo z regionalnym językiem nauczania, – z dodatkową nauką języka mniejszości narodowej lub etnicznej albo języka regionalnego, – sportowych, – mistrzostwa sportowego, – o charakterze eksperymentalnym, – wielozawodowych, – międzynarodowych,
 f) profili kształcenia ogólnozawodowego w liceach profilowanych,
 g) zawodów, określonych w klasyfikacji zawodów szkolnictwa zawodowego, w szkołach i placówkach oświatowych prowadzących kształcenie zawodowe,
 h) kwalifikacji nauczanych na kwalifikacyjnych kursach zawodowych,
 i) zawodów, specjalności i specjalizacji kształcenia w szkołach artystycznych,
-j) specjalności kształcenia w nauczycielskich kolegiach języków obcych: język angielski, język francuski, język hiszpański, język niemiecki, język włoski,
-k) specjalności kształcenia w kolegiach nauczycielskich: pedagogika opiekuńczo-wychowawcza, pedagogika opiekuńczo-wychowawcza z terapią pedagogiczną, pedagogika resocjalizacyjna, resocjalizacja z wychowaniem fizycznym, pedagogika resocjalizacyjna z elementami profilaktyki, pedagogika rewalidacyjna w zakresie oligofrenopedagogiki, pedagogika rewalidacyjna w zakresie pedagogiki terapeutycznej, pedagogika specjalna, pedagogika specjalna oligofrenopedagogika, pedagogika specjalna rewalidacyjna, pedagogika specjalna z edukacją informatyczną, pedagogika społeczna, pedagogika terapeutyczna i integracyjna, pedagogika wczesnoszkolna, pedagogika wczesnoszkolna i integracyjna, pedagogika wieku dziecięcego, pedagogika z wychowaniem fizycznym i zdrowotnym, wychowanie przedszkolne, nauczanie początkowe z muzyką, nauczanie początkowe, kształcenie zintegrowane, nauczanie początkowe z wychowaniem przedszkolnym, nauczanie początkowe z rozszerzonym programem języka angielskiego, edukacja wczesnoszkolna z muzyką, edukacja wczesnoszkolna z plastyką, edukacja wczesna i przedszkolna, edukacja wczesna i technika, edukacja wczesna i przyroda, edukacja wczesna i sztuka, sztuka, edukacja artystyczna, matematyka, matematyka z informatyką, informatyka, język polski, język polski z historią, język polski z muzyką, język polski z plastyką, wychowanie fizyczne, wychowanie fizyczne z informatyką, wychowanie fizyczne i zdrowotne, inna,
-l) specjalnych potrzeb edukacyjnych, wynikających z opinii lub orzeczeń, o których mowa w art. 71b ust. 3–3b ustawy o systemie oświaty: niewidomych, słabowidzących, niesłyszących, słabosłyszących, z upośledzeniem umysłowym w stopniu lekkim, z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, z upośledzeniem umysłowym w stopniu głębokim, z niepełnosprawnością ruchową, w tym z afazją, z autyzmem, w tym z zespołem Aspergera, z niepełnosprawnościami sprzężonymi, niedostosowanych społecznie, zagrożonych niedostosowaniem społecznym, zagrożonych uzależnieniem, z zaburzeniami zachowania,
-m) wyników klasyfikowania i promowania: promowanych według stanu na koniec poprzedniego roku szkolnego, pozostawionych w tej samej klasie według stanu na koniec poprzedniego roku szkolnego, powtarzających klasę w bieżącym roku szkolnym,
-n) spełniania obowiązku rocznego przygotowania przedszkolnego: w przedszkolu, oddziale przedszkolnym zorganizowanym w szkole podstawowej lub w innej formie wychowania przedszkolnego, poza przedszkolem, oddziałem przedszkolnym zorganizowanym w szkole podstawowej lub inną formą wychowania przedszkolnego za zgodą dyrektora przedszkola lub szkoły podstawowej, przez udział w zajęciach rewalidacyjno-wychowawczych, przez uczęszczanie do przedszkola za granicą, przez uczęszczanie do przedszkola przy przedstawicielstwie dyplomatycznym innego państwa w Polsce, przez realizację w ośrodku rewalidacyjno-wychowawczym indywidualnego programu edukacyjno-terapeutycznego przez dzieci z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi,
-o) przyczyn niespełniania obowiązku rocznego przygotowania przedszkolnego: z powodu wcześniejszego przyjęcia do szkoły podstawowej, z innej przyczyny,
-p) spełniania obowiązku szkolnego: w szkole, w obwodzie której uczeń mieszka, w innej szkole, poza szkołą za zgodą dyrektora szkoły, przez udział w zajęciach rewalidacyjno-wychowawczych, przez uczęszczanie do szkoły przy przedstawicielstwie dyplomatycznym innego państwa w Polsce, przez realizację w ośrodku rewalidacyjno-wychowawczym indywidualnego programu edukacyjno-terapeutycznego przez dzieci i młodzież z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi,
-q) przyczyn niespełniania obowiązku szkolnego: z powodu odroczenia, z innej przyczyny,
-r) rodzaju miejscowości, w której zamieszkują: wieś, miasto do 5000 mieszkańców, miasto powyżej 5000 mieszkańców,
+j) specjalności kształcenia w nauczycielskich kolegiach języków obcych: – język angielski, – język francuski, – język hiszpański, – język niemiecki, – język włoski,
+k) specjalności kształcenia w kolegiach nauczycielskich: – pedagogika opiekuńczo-wychowawcza, – pedagogika opiekuńczo-wychowawcza z terapią pedagogiczną, – pedagogika resocjalizacyjna, – resocjalizacja z wychowaniem fizycznym, – pedagogika resocjalizacyjna z elementami profilaktyki, – pedagogika rewalidacyjna w zakresie oligofrenopedagogiki, – pedagogika rewalidacyjna w zakresie pedagogiki terapeutycznej, – pedagogika specjalna, – pedagogika specjalna – oligofrenopedagogika, – pedagogika specjalna – rewalidacyjna, – pedagogika specjalna z edukacją informatyczną, – pedagogika społeczna, – pedagogika terapeutyczna i integracyjna, – pedagogika wczesnoszkolna, – pedagogika wczesnoszkolna i integracyjna, – pedagogika wieku dziecięcego, – pedagogika z wychowaniem fizycznym i zdrowotnym, – wychowanie przedszkolne, – nauczanie początkowe z muzyką, – nauczanie początkowe, kształcenie zintegrowane, – nauczanie początkowe z wychowaniem przedszkolnym, – nauczanie początkowe z rozszerzonym programem języka angielskiego, – edukacja wczesnoszkolna z muzyką, – edukacja wczesnoszkolna z plastyką, – edukacja wczesna i przedszkolna, – edukacja wczesna i technika, – edukacja wczesna i przyroda, – edukacja wczesna i sztuka, – sztuka, edukacja artystyczna, – matematyka, – matematyka z informatyką, – informatyka, – język polski, – język polski z historią, – język polski z muzyką, – język polski z plastyką, – wychowanie fizyczne, – wychowanie fizyczne z informatyką, – wychowanie fizyczne i zdrowotne, – inna,
+l) specjalnych potrzeb edukacyjnych, wynikających z opinii lub orzeczeń, o których mowa w art. 71b ust. 3–3b ustawy o systemie oświaty: – niewidomych, – słabowidzących, – niesłyszących, – słabosłyszących, – z upośledzeniem umysłowym w stopniu lekkim, – z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, – z upośledzeniem umysłowym w stopniu głębokim, – z niepełnosprawnością ruchową, w tym z afazją, – z autyzmem, w tym z zespołem Aspergera, – z niepełnosprawnościami sprzężonymi, – niedostosowanych społecznie, – zagrożonych niedostosowaniem społecznym, – zagrożonych uzależnieniem, – z zaburzeniami zachowania,
+m) wyników klasyfikowania i promowania: – promowanych według stanu na koniec poprzedniego roku szkolnego, – pozostawionych w tej samej klasie według stanu na koniec poprzedniego roku szkolnego, – powtarzających klasę w bieżącym roku szkolnym,
+n) spełniania obowiązku rocznego przygotowania przedszkolnego: – w przedszkolu, oddziale przedszkolnym zorganizowanym w szkole podstawowej lub w innej formie wychowania przedszkolnego, – poza przedszkolem, oddziałem przedszkolnym zorganizowanym w szkole podstawowej lub inną formą wychowania przedszkolnego za zgodą dyrektora przedszkola lub szkoły podstawowej, – przez udział w zajęciach rewalidacyjno-wychowawczych, – przez uczęszczanie do przedszkola za granicą, – przez uczęszczanie do przedszkola przy przedstawicielstwie dyplomatycznym innego państwa w Polsce, – przez realizację w ośrodku rewalidacyjno-wychowawczym indywidualnego programu edukacyjno-terapeutycznego przez dzieci z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi,
+o) przyczyn niespełniania obowiązku rocznego przygotowania przedszkolnego: – z powodu wcześniejszego przyjęcia do szkoły podstawowej, – z innej przyczyny,
+p) spełniania obowiązku szkolnego: – w szkole, w obwodzie której uczeń mieszka, – w innej szkole, – poza szkołą za zgodą dyrektora szkoły, – przez udział w zajęciach rewalidacyjno-wychowawczych, – przez uczęszczanie do szkoły za granicą, – przez uczęszczanie do szkoły przy przedstawicielstwie dyplomatycznym innego państwa w Polsce, – przez realizację w ośrodku rewalidacyjno-wychowawczym indywidualnego programu edukacyjno-terapeutycznego przez dzieci i młodzież z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi,
+q) przyczyn niespełniania obowiązku szkolnego: – z powodu odroczenia, – z innej przyczyny,
+r) rodzaju miejscowości, w której zamieszkują: – wieś, – miasto do 5000 mieszkańców, – miasto powyżej 5000 mieszkańców,
 s) odległości miejsca zamieszkania od przedszkola lub szkoły dzieci obowiązanych do odbycia rocznego przygotowania przedszkolnego, z wyszczególnieniem liczby dzieci zamieszkałych w odległości większej niż 3 km,
-t) odległości miejsca zamieszkania od szkoły uczniów szkół podstawowych i gimnazjów o ustalonych obwodach: uczniów klas I–IV szkoły podstawowej, zamieszkałych w odległości od 3 km do 5 km od szkoły, uczniów klas V i VI szkoły podstawowej oraz uczniów gimnazjum, zamieszkałych w odległości od 4 km do 5 km od szkoły, uczniów zamieszkałych w odległości większej niż 5 km do 10 km od szkoły, uczniów zamieszkałych w odległości większej niż 10 km od szkoły;
+t) odległości miejsca zamieszkania od szkoły uczniów szkół podstawowych i gimnazjów o ustalonych obwodach: – uczniów klas I–IV szkoły podstawowej, zamieszkałych w odległości od 3 km do 5 km od szkoły, – uczniów klas V i VI szkoły podstawowej oraz uczniów gimnazjum, zamieszkałych w odległości od 4 km do 5 km od szkoły, – uczniów zamieszkałych w odległości większej niż 5 km do 10 km od szkoły, – uczniów zamieszkałych w odległości większej niż 10 km od szkoły;
 2) liczbie uczniów i wychowanków:
 a) objętych wczesnym wspomaganiem rozwoju,
 b) którym przedłużono okres nauki na etapie edukacyjnym,
@@ -154,14 +154,14 @@ a) rewalidacyjno-wychowawczych,
 b) rewalidacyjnych,
 c) resocjalizacyjnych,
 d) dydaktyczno-wyrównawczych,
-e) specjalistycznych: korekcyjno-kompensacyjnych, logopedycznych, socjoterapeutycznych, innych o charakterze terapeutycznym,
+e) specjalistycznych: – korekcyjno-kompensacyjnych, – logopedycznych, – socjoterapeutycznych, – innych o charakterze terapeutycznym,
 f) związanych z wyborem kierunku kształcenia i zawodu oraz planowaniem kształcenia i kariery zawodowej,
-g) praktycznej nauki zawodu w formie praktyk zawodowych lub zajęć praktycznych prowadzonych: w warsztatach szkolnych, w pracowniach szkolnych, w placówkach kształcenia ustawicznego i placówkach kształcenia praktycznego, u pracodawców i w indywidualnych gospodarstwach rolnych,
-h) nauki języka obcego jako obowiązkowego i jako dodatkowego: angielskiego, francuskiego, hiszpańskiego, łacińskiego, niemieckiego, rosyjskiego, włoskiego, innego,
-i) nauki języka mniejszości narodowej lub etnicznej albo języka regionalnego: białoruskiego, czeskiego, hebrajskiego, litewskiego, niemieckiego, ormiańskiego, rosyjskiego, słowackiego, ukraińskiego, łemkowskiego, romskiego, kaszubskiego, karaimskiego, tatarskiego,
+g) praktycznej nauki zawodu w formie praktyk zawodowych lub zajęć praktycznych prowadzonych: – w warsztatach szkolnych, – w pracowniach szkolnych, – w placówkach kształcenia ustawicznego i placówkach kształcenia praktycznego, – u pracodawców i w indywidualnych gospodarstwach rolnych,
+h) nauki języka obcego jako obowiązkowego i jako dodatkowego: – angielskiego, – francuskiego, – hiszpańskiego, – łacińskiego, – niemieckiego, – rosyjskiego, – włoskiego, – innego,
+i) nauki języka mniejszości narodowej lub etnicznej albo języka regionalnego: – białoruskiego, – czeskiego, – hebrajskiego, – litewskiego, – niemieckiego, – ormiańskiego, – rosyjskiego, – słowackiego, – ukraińskiego, – łemkowskiego, – romskiego, – kaszubskiego, – karaimskiego, – tatarskiego,
 j) edukacyjnych dodatkowych organizowanych dla uczniów pochodzenia romskiego,
 k) świetlicy szkolnej,
-l) rozwijających zainteresowania i uzdolnienia uczniów, o charakterze: informatycznym, technicznym, przedmiotowym, artystycznym, sportowym, turystyczno-krajoznawczym, innym,
+l) rozwijających zainteresowania i uzdolnienia uczniów, o charakterze: – informatycznym, – technicznym, – przedmiotowym, – artystycznym, – sportowym, – turystyczno-krajoznawczym, – innym,
 m) edukacyjnych z zakresu wychowania do życia w rodzinie,
 n) dodatkowych z języka polskiego, o których mowa w art. 94a ust. 4 i 4b ustawy o systemie oświaty,
 o) dodatkowych wyrównawczych w zakresie przedmiotów nauczania, o których mowa w art. 94a ust. 4c ustawy o systemie oświaty,
@@ -171,7 +171,7 @@ a) kwalifikacyjnych kursów zawodowych według kwalifikacji,
 b) kursów umiejętności zawodowych,
 c) kursów kompetencji ogólnych,
 d) turnusów dokształcania teoretycznego młodocianych pracowników,
-e) kursów języka: angielskiego, francuskiego, niemieckiego, włoskiego, hiszpańskiego, rosyjskiego, innego,
+e) kursów języka: – angielskiego, – francuskiego, – niemieckiego, – włoskiego, – hiszpańskiego, – rosyjskiego, – innego,
 f) kursów z zakresu informatyki i technologii informacyjno-komunikacyjnych,
 g) bezpieczeństwa i higieny pracy,
 h) przygotowujących do uzyskania uprawnień zawodowych,
@@ -186,7 +186,7 @@ p) innych form pozaszkolnych;
 5) liczbie absolwentów z poprzedniego roku szkolnego według:
 a) płci,
 b) roku urodzenia,
-c) rodzaju miejscowości, w której zamieszkują: wieś, miasto do 5000 mieszkańców, miasto powyżej 5000 mieszkańców,
+c) rodzaju miejscowości, w której zamieszkują: – wieś, – miasto do 5000 mieszkańców, – miasto powyżej 5000 mieszkańców,
 d) profili kształcenia ogólnozawodowego w liceach profilowanych,
 e) kwalifikacji nauczanych na kwalifikacyjnych kursach zawodowych,
 f) zawodów, określonych w klasyfikacji zawodów szkolnictwa zawodowego, w szkołach prowadzących kształcenie zawodowe,
@@ -197,55 +197,55 @@ i) specjalności kształcenia, o których mowa w pkt 1 lit. k, w kolegiach naucz
 a) przystąpili do egzaminu maturalnego,
 b) zdali egzamin maturalny, z wyszczególnieniem liczby absolwentów posiadających orzeczenie o potrzebie kształcenia specjalnego,
 c) przystąpili do egzaminu potwierdzającego kwalifikacje zawodowe,
-d) zdali egzamin potwierdzający kwalifikacje zawodowe, z wyszczególnieniem liczby absolwentów posiadających
+d) zdali egzamin potwierdzający kwalifikacje zawodowe, z wyszczególnieniem liczby absolwentów posiadających orzeczenie o potrzebie kształcenia specjalnego,
 e) zdali egzamin dyplomowy, z wyszczególnieniem liczby absolwentów posiadających orzeczenie o potrzebie kształcenia specjalnego,
 f) przystąpili do egzaminu potwierdzającego kwalifikacje w zawodzie,
-g) zdali egzamin potwierdzający kwalifikacje w zawodzie, z wyszczególnieniem liczby absolwentów posiadających orzeczenie o potrzebie kształcenia specjalnego oraz z wyszczególnieniem liczby absolwentów, którzy ukończyli szkołę w trybie eksternistycznym;
+g) zdali egzamin potwierdzający kwalifikacje w zawodzie, z wyszczególnieniem liczby absolwentów posiadających orzeczenie o potrzebie kształcenia specjalnego – oraz z wyszczególnieniem liczby absolwentów, którzy ukończyli szkołę w trybie eksternistycznym;
 7) liczbie absolwentów z poprzedniego roku szkolnego, którzy posiadają orzeczenie o potrzebie kształcenia specjalnego.
 § 7. Zbiór danych o liczbie uczniów, słuchaczy i wychowanków oraz absolwentów z poprzedniego roku szkolnego zawiera także dane o:
 1) liczbie uczniów, słuchaczy i wychowanków, którzy ulegli wypadkom, pozostając pod opieką szkoły lub placówki oświatowej, z wyszczególnieniem wypadków śmiertelnych, ciężkich i innych, według:
 a) płci,
-b) rodzaju uszkodzenia ciała: złamania, zwichnięcia, skręcenia, urazy wewnętrzne, rany zewnętrzne, rozerwania, utrata części ciała, stłuczenia, zmiażdżenia, oparzenia, zatrucia, inne,
-c) części ciała, która uległa uszkodzeniu: głowa, tułów, oczy, kończyny, inna,
-d) miejsca, w którym zdarzył się wypadek: sala lekcyjna, pracownia szkolna, korytarz, schody, sala gimnastyczna, boisko, plac zabaw, warsztaty szkolne, pracownia zajęć praktycznych, ulica, droga, inne,
-e) rodzaju zajęć, w czasie których wypadek miał miejsce: wychowanie fizyczne, zajęcia praktyczno-techniczne, praktyczna nauka zawodu, inne zajęcia edukacyjne, przerwy międzylekcyjne, wycieczki i inne formy wypoczynku,
-f) przyczyny wypadku: zły stan techniczny obiektów, zły stan techniczny maszyn i urządzeń, zły stan techniczny wyposażenia, sprzętów, niewłaściwe zabezpieczenie maszyn i urządzeń, niewłaściwe zabezpieczenie klatek schodowych i korytarzy, brak lub zły stan środków ochrony indywidualnej oraz odzieży roboczej, brak lub niedostateczny nadzór nad uczniem, prowadzenie zajęć niezgodnie z programem, niewłaściwe posługiwanie się maszynami i urządzeniami, nieznajomość lub nieprzestrzeganie przepisów bezpieczeństwa i higieny pracy, zły stan zdrowia lub niepełna zdolność do zajęć, pobicie, umyślne uderzenie, uderzenie nieumyślne, nieuwaga, inna przyczyna;
+b) rodzaju uszkodzenia ciała: – złamania, – zwichnięcia, skręcenia, – urazy wewnętrzne, – rany zewnętrzne, rozerwania, – utrata części ciała, – stłuczenia, zmiażdżenia, – oparzenia, – zatrucia, – inne,
+c) części ciała, która uległa uszkodzeniu: – głowa, – tułów, – oczy, – kończyny, – inna,
+d) miejsca, w którym zdarzył się wypadek: – sala lekcyjna, pracownia szkolna, – korytarz, schody, – sala gimnastyczna, – boisko, plac zabaw, – warsztaty szkolne, pracownia zajęć praktycznych, – ulica, droga, – inne,
+e) rodzaju zajęć, w czasie których wypadek miał miejsce: – wychowanie fizyczne, – zajęcia praktyczno-techniczne, – praktyczna nauka zawodu, – inne zajęcia edukacyjne, – przerwy międzylekcyjne, – wycieczki i inne formy wypoczynku, – inne zajęcia,
+f) przyczyny wypadku: – zły stan techniczny obiektów, – zły stan techniczny maszyn i urządzeń, – zły stan techniczny wyposażenia, sprzętów, – niewłaściwe zabezpieczenie maszyn i urządzeń, – niewłaściwe zabezpieczenie klatek schodowych i korytarzy, – brak lub zły stan środków ochrony indywidualnej oraz odzieży roboczej, – brak lub niedostateczny nadzór nad uczniem, – prowadzenie zajęć niezgodnie z programem, – niewłaściwe posługiwanie się maszynami i urządzeniami, – nieznajomość lub nieprzestrzeganie przepisów bezpieczeństwa i higieny pracy, – zły stan zdrowia lub niepełna zdolność do zajęć, – pobicie, umyślne uderzenie, – uderzenie nieumyślne, – nieuwaga, – inna przyczyna;
 2) liczbie uczniów i słuchaczy korzystających z poszczególnych form pomocy materialnej dla uczniów:
 a) otrzymujących stypendia szkolne,
 b) otrzymujących zasiłki szkolne,
-c) otrzymujących stypendia o charakterze motywacyjnym: stypendium za wyniki w nauce lub za osiągnięcia sportowe, stypendium Prezesa Rady Ministrów, stypendium ministra właściwego do spraw oświaty i wychowania, stypendium ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego,
+c) otrzymujących stypendia o charakterze motywacyjnym: – stypendium za wyniki w nauce lub za osiągnięcia sportowe, – stypendium Prezesa Rady Ministrów, – stypendium ministra właściwego do spraw oświaty i wychowania, – stypendium ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego,
 d) zwolnionych całkowicie lub częściowo z opłat za posiłki w stołówce szkoły lub placówki oświatowej,
-e) korzystających z całkowitego lub częściowego pokrycia kosztów zakwaterowania: w internacie, w bursie, na stancji,
+e) korzystających z całkowitego lub częściowego pokrycia kosztów zakwaterowania: – w internacie, – w bursie, – na stancji,
 f) przewidzianych w rządowych programach wyrównywania szans edukacyjnych dzieci i młodzieży,
-g) przewidzianych w regionalnych lub lokalnych programach: wyrównywania szans edukacyjnych dzieci i młodzieży, wspierania edukacji uzdolnionych dzieci i młodzieży,
+g) przewidzianych w regionalnych lub lokalnych programach: – wyrównywania szans edukacyjnych dzieci i młodzieży, – wspierania edukacji uzdolnionych dzieci i młodzieży,
 h) otrzymujących stypendia przyznawane przez osoby fizyczne i osoby prawne inne niż jednostki samorządu terytorialnego;
 3) liczbie uczniów w szkołach dla dzieci i młodzieży korzystających z wypoczynku w okresie ferii letnich i ferii zimowych, z wyszczególnieniem mieszkających na wsi:
-a) zorganizowanego poza miejscem zamieszkania: w kraju, za granicą,
+a) zorganizowanego poza miejscem zamieszkania: – w kraju, – za granicą,
 b) zorganizowanego w miejscu zamieszkania,
-c) niezorganizowanego poza miejscem zamieszkania: w kraju,
+c) niezorganizowanego poza miejscem zamieszkania: – w kraju, – za granicą;
 4) liczbie uczniów i wychowanków, którzy są dowożeni lub otrzymują zwrot kosztów przejazdu na podstawie art. 14a ust. 4 oraz art. 17 ust. 3 i 3a ustawy o systemie oświaty:
 a) zamieszkałych w odległości od 3 km do 5 km od szkoły,
 b) zamieszkałych w odległości większej niż 5 km od szkoły,
 c) posiadających orzeczenie o potrzebie kształcenia specjalnego;
 5) liczbie uczniów i wychowanków korzystających z pomocy poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, według form pomocy:
-a) diagnozy: psychologicznej, pedagogicznej, logopedycznej, lekarskiej, związanej z wyborem kierunku kształcenia i zawodu oraz planowaniem kształcenia i kariery zawodowej, rehabilitanta,
-b) form pomocy bezpośredniej: zajęć korekcyjno-kompensacyjnych, terapii logopedycznej, terapii psychologicznej, w tym psychoterapii, socjoterapii, zajęć z uczniami zdolnymi, terapii dla zagrożonych uzależnieniem, innych zajęć o charakterze terapeutycznym, zajęć grupowych aktywizujących do wyboru kierunku kształcenia i zawodu, zajęć grupowych prowadzonych w szkołach i placówkach oświatowych, indywidualnych porad zawodowych na podstawie badań, indywidualnych porad zawodowych bez badań, ćwiczeń rehabilitacyjnych, grup wsparcia, interwencji kryzysowej, innych form pomocy indywidualnej, innych form pomocy grupowej, mediacji i negocjacji,
+a) diagnozy: – psychologicznej, – pedagogicznej, – logopedycznej, – lekarskiej, – związanej z wyborem kierunku kształcenia i zawodu oraz planowaniem kształcenia i kariery zawodowej, – rehabilitanta,
+b) form pomocy bezpośredniej: – zajęć korekcyjno-kompensacyjnych, – terapii logopedycznej, – terapii psychologicznej, w tym psychoterapii, – socjoterapii, – zajęć z uczniami zdolnymi, – terapii dla zagrożonych uzależnieniem, – innych zajęć o charakterze terapeutycznym, – zajęć grupowych aktywizujących do wyboru kierunku kształcenia i zawodu, – zajęć grupowych prowadzonych w szkołach i placówkach oświatowych, – indywidualnych porad zawodowych na podstawie badań, – indywidualnych porad zawodowych bez badań, – ćwiczeń rehabilitacyjnych, – grup wsparcia, – interwencji kryzysowej, – innych form pomocy indywidualnej, – innych form pomocy grupowej, – mediacji i negocjacji,
 c) porad bez badań,
 d) porad po badaniach przesiewowych,
 e) badań przesiewowych słuchu w ramach programu „Słyszę”,
 f) badań przesiewowych wzroku w ramach programu „Widzę”,
 g) badań przesiewowych mowy w ramach programu „Mówię”;
 6) liczbie uczniów i wychowanków, którym poradnia psychologiczno-pedagogiczna, w tym poradnia specjalistyczna, wydała:
-a) orzeczenie o potrzebie kształcenia specjalnego, z wyszczególnieniem uczniów i wychowanków: niesłyszących, słabosłyszących, niewidomych, z niepełnosprawnością ruchową, w tym z afazją, z upośledzeniem umysłowym w stopniu lekkim, z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, z autyzmem, w tym z zespołem Aspergera, z niepełnosprawnościami sprzężonymi, zagrożonych niedostosowaniem społecznym, niedostosowanych społecznie,
+a) orzeczenie o potrzebie kształcenia specjalnego, z wyszczególnieniem uczniów i wychowanków: – niesłyszących, – słabosłyszących, – niewidomych, – słabowidzących, – z niepełnosprawnością ruchową, w tym z afazją, – z upośledzeniem umysłowym w stopniu lekkim, – z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym, – z autyzmem, w tym z zespołem Aspergera, – z niepełnosprawnościami sprzężonymi, – zagrożonych niedostosowaniem społecznym, – niedostosowanych społecznie,
 b) orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych,
 c) orzeczenie o potrzebie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego,
 d) orzeczenie o potrzebie indywidualnego nauczania,
-e) orzeczenie odmowne, stwierdzające brak potrzeby kształcenia specjalnego, potrzeby zajęć rewalidacyjno-wychowawczych, indywidualnego obowiązkowego rocznego przygotowania przedszkolnego lub indywidualnego nauczania,
+e) o rzeczenie odmowne, stwierdzające brak potrzeby kształcenia specjalnego, potrzeby zajęć rewalidacyjno-wychowawczych, indywidualnego obowiązkowego rocznego przygotowania przedszkolnego lub indywidualnego nauczania,
 f) orzeczenie uchylające orzeczenie o potrzebie kształcenia specjalnego, indywidualnego obowiązkowego rocznego przygotowania przedszkolnego lub indywidualnego nauczania,
 g) orzeczenie wydane w wyniku odwołania do kuratora oświaty,
-h) opinię: o potrzebie wczesnego wspomagania rozwoju dziecka, w sprawie wcześniejszego przyjęcia dziecka do szkoły podstawowej, w sprawie odroczenia rozpoczęcia spełniania przez dziecko obowiązku szkolnego, w sprawie zwolnienia ucznia z nauki drugiego języka obcego, w sprawie objęcia ucznia nauką w klasie terapeutycznej, w sprawie dostosowania wymagań edukacyjnych wynikających z programu nauczania do indywidualnych potrzeb edukacyjnych ucznia, o specyficznych trudnościach w uczeniu się, w sprawie udzielenia zezwolenia na indywidualny program lub tok nauki, w sprawie przyjęcia ucznia gimnazjum do oddziału przysposabiającego do pracy, w sprawie pierwszeństwa w przyjęciu ucznia z problemami zdrowotnymi do szkoły ponadgimnazjalnej, w sprawie udzielenia zezwolenia na zatrudnienie młodocianego w celu przyuczenia do wykonywania określonej pracy lub nauki zawodu, w sprawie braku przeciwwskazań do wykonywania przez dziecko pracy lub innych zajęć zarobkowych, w sprawie objęcia dziecka pomocą psychologiczno-pedagogiczną w przedszkolu, w sprawie objęcia dziecka pomocą psychologiczno-pedagogiczną w szkole lub placówce oświatowej, o której mowa w art. 16 ust. 10 pkt 2 lit. a ustawy o systemie oświaty, inną;
+h) opinię: – o potrzebie wczesnego wspomagania rozwoju dziecka, – w sprawie wcześniejszego przyjęcia dziecka do szkoły podstawowej, – w sprawie odroczenia rozpoczęcia spełniania przez dziecko obowiązku szkolnego, – w sprawie zwolnienia ucznia z nauki drugiego języka obcego, – w sprawie objęcia ucznia nauką w klasie terapeutycznej, – w sprawie dostosowania wymagań edukacyjnych wynikających z programu nauczania do indywidualnych potrzeb edukacyjnych ucznia, – o specyficznych trudnościach w uczeniu się, – w sprawie udzielenia zezwolenia na indywidualny program lub tok nauki, – w sprawie przyjęcia ucznia gimnazjum do oddziału przysposabiającego do pracy, – w sprawie pierwszeństwa w przyjęciu ucznia z problemami zdrowotnymi do szkoły ponadgimnazjalnej, – w sprawie udzielenia zezwolenia na zatrudnienie młodocianego w celu przyuczenia do wykonywania określonej pracy lub nauki zawodu, – w sprawie braku przeciwwskazań do wykonywania przez dziecko pracy lub innych zajęć zarobkowych, – w sprawie objęcia dziecka pomocą psychologiczno-pedagogiczną w przedszkolu, – w sprawie objęcia dziecka pomocą psychologiczno-pedagogiczną w szkole lub placówce oświatowej, – o której mowa w art. 16 ust. 10 pkt 2 lit. a ustawy o systemie oświaty, – inną;
 7) liczbie uczniów, słuchaczy i wychowanków, którzy nie są obywatelami polskimi, z wyszczególnieniem liczby uczniów, słuchaczy i wychowanków:
-a) posiadających obywatelstwo państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) Strony Umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej,
+a) posiadających obywatelstwo państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – Strony Umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej,
 b) korzystających z dodatkowej, bezpłatnej nauki języka polskiego na podstawie art. 94a ust. 4 i 4b ustawy o systemie oświaty,
 c) korzystających z nauki języka i kultury kraju pochodzenia na podstawie art. 94a ust. 5 ustawy o systemie oświaty,
 d) którym udzielono zezwolenia na osiedlenie się na terytorium Rzeczypospolitej Polskiej,
@@ -268,13 +268,13 @@ Nr 127, poz. 721, z późn. zm. ) uczęszczających do szkół dla dorosłych;
 1) rodziców,
 2) nauczycieli,
 3) studentów,
-4) innych osób według poszczególnych rodzajów tych usług.
+4) innych osób – według poszczególnych rodzajów tych usług.
 § 9. W zbiorze danych o nauczycielach, wychowawcach i innych pracownikach pedagogicznych, o którym mowa w art. 107 ust. 4 pkt 1 ustawy, zawarte są następujące dane tych osób:
 1) numer PESEL;
 2) płeć;
 3) rok urodzenia;
 4) forma zatrudnienia:
-a) umowa o pracę na czas określony, z wyszczególnieniem: zatrudnienia na podstawie art. 7 ust. 1a–1d ustawy o systemie oświaty, zatrudnienia na podstawie art. 10 ust. 9 Karty Nauczyciela,
+a) umowa o pracę na czas określony, z wyszczególnieniem: – zatrudnienia na podstawie art. 7 ust. 1a–1d ustawy o systemie oświaty, – zatrudnienia na podstawie art. 10 ust. 9 Karty Nauczyciela,
 b) umowa o pracę na czas nieokreślony, z wyszczególnieniem zatrudnienia na podstawie art. 7 ust. 1a–1d ustawy o systemie oświaty,
 c) mianowanie;
 5) informacja o uzupełnianiu tygodniowego obowiązkowego wymiaru zajęć w innej szkole lub placówce oświatowej;
@@ -309,7 +309,7 @@ e) nauczyciel bez stopnia awansu zawodowego zatrudniony na podstawie art. 10 ust
 f) osoba bez stopnia awansu zawodowego zatrudniona na podstawie art. 7 ust. 1a–1d ustawy o systemie oświaty,
 g) nauczyciel bez stopnia awansu zawodowego;
 13) w przypadku osoby kończącej w danym roku kalendarzowym staż na wyższy stopień awansu zawodowego informacja o zamiarze:
-a) złożenia wniosku o podjęcie postępowania na stopień awansu zawodowego w terminie do dnia 30 czerwca danego roku,
+a) z łożenia wniosku o podjęcie postępowania na stopień awansu zawodowego w terminie do dnia 30 czerwca danego roku,
 b) złożenia wniosku o podjęcie postępowania na stopień awansu zawodowego w terminie do dnia 31 października danego roku,
 c) nieskładania wniosku o podjęcie postępowania na stopień awansu zawodowego w danym roku;
 14) informacja o zamiarze złożenia wniosku o podjęcie postępowania kwalifikacyjnego lub egzaminacyjnego na wyższy stopień awansu zawodowego:
@@ -351,6 +351,7 @@ g) historia i społeczeństwo,
 h) wiedza o społeczeństwie,
 i) informatyka,
 j) technologia informacyjna,
+k) język angielski,
 l) język francuski,
 m) język hiszpański,
 n) język niemiecki,
@@ -496,7 +497,7 @@ e) z powodu stwierdzenia, że nawiązanie stosunku pracy nastąpiło na podstawi
 f) z powodu upływu sześciomiesięcznego okresu pozostawania w stanie nieczynnym,
 g) z innych przyczyn.
 § 12. Zbiór danych o pracownikach niebędących pracownikami pedagogicznymi zawiera dane o:
-1) liczbie, wymiarze czasu pracy i łącznej wysokości wynagrodzenia zatrudnionych w szkołach, placówkach oświatowych, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i jednostkach obsługi:
+1) l iczbie, wymiarze czasu pracy i łącznej wysokości wynagrodzenia zatrudnionych w szkołach, placówkach oświatowych, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i jednostkach obsługi:
 a) pracowników ekonomiczno-administracyjnych,
 b) pracowników kuchni i stołówki,
 c) pozostałych pracowników obsługi,
@@ -517,6 +518,7 @@ d) przez realizację przygotowania zawodowego u pracodawcy,
 e) przez udział w zajęciach rewalidacyjno-wychowawczych dla osób z upośledzeniem umysłowym w stopniu głębokim,
 f) przez realizację w ośrodku rewalidacyjno-wychowawczym indywidualnego programu edukacyjno-terapeutycznego przez młodzież z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi,
 g) przez uczęszczanie do szkoły przy przedstawicielstwie dyplomatycznym innego państwa,
+h) przez uczęszczanie do szkoły wyższej;
 2) spełniającej obowiązek nauki poza granicami kraju:
 a) przez uczęszczanie do szkoły przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej,
 b) przez uczęszczanie do szkoły europejskiej, działającej na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r.,
@@ -545,7 +547,7 @@ c) właściwego do wydania zezwolenia na utworzenie niepublicznego zakładu kszt
 § 16. 1. Prowadzący bazy danych oświatowych:
 1) jednostki samorządu terytorialnego oznaczane są identyfikatorem jednostki podziału terytorialnego w rejestrze TERYT oraz danymi, o których mowa w § 15 ust. 1 pkt 1, 3, 8 i 9;
 2) właściwi ministrowie oznaczani są symbolem literowym utworzonym z pierwszych liter wyrazów składających się na nazwę urzędu obsługującego ministra oraz danymi urzędu, o których mowa w § 15 ust. 1 pkt 1, 3, 8 i 9;
-3) kuratorzy oświaty oznaczani są symbolem utworzonym z liter KO i przewidzianego dla województwa identyfikatora jednostki podziału terytorialnego w rejestrze TERYT oraz danymi kuratorium oświaty, o których mowa w § 15 ust. 1
+3) kuratorzy oświaty oznaczani są symbolem utworzonym z liter KO i przewidzianego dla województwa identyfikatora jednostki podziału terytorialnego w rejestrze TERYT oraz danymi kuratorium oświaty, o których mowa w § 15 ust. 1 pkt 1, 3, 8 i 9;
 4) minister właściwy do spraw oświaty i wychowania oznaczany jest symbolem literowym utworzonym z liter CBD oraz pierwszych liter wyrazów składających się na nazwę urzędu obsługującego ministra właściwego do spraw oświaty i wychowania oraz danymi urzędu, o których mowa w § 15 ust. 1 pkt 1, 3, 8 i 9.
 2. Specjalistyczna jednostka nadzoru oraz organy sprawujące nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. c i e Karty Nauczyciela, oznaczane są danymi, o których mowa w § 15 ust. 1 pkt 1, 3, 8 i 9.
 § 17. 1. Dane z baz danych oświatowych prowadzonych przez podmioty, o których mowa w art. 108 ust. 1–4 ustawy, przekazywane są odpowiednio jednostkom samorządu terytorialnego, właściwym ministrom, kuratorom oświaty albo ministrowi właściwemu do spraw oświaty i wychowania w terminie trzech dni roboczych od dnia 30 września 2012 r. oraz 31 marca i 30 września 2013 r.
@@ -560,5 +562,5 @@ c) właściwego do wydania zezwolenia na utworzenie niepublicznego zakładu kszt
 2. Jednostki obsługi, o których mowa w art. 108 ust. 4 ustawy, sporządzają wydruk zestawienia zbiorczego według wzoru stanowiącego załącznik nr 2 do rozporządzenia.
 3. W przypadku szkół i placówek oświatowych połączonych w zespół wydruk zestawienia zbiorczego według wzoru stanowiącego załącznik nr 1 do rozporządzenia sporządza się odrębnie dla całego zespołu oraz dla każdej szkoły i placówki oświatowej.
 § 20. Rozporządzenie wchodzi w życie z dniem 1 września 2012 r.
-Minister Edukacji Narodowej: wz. T. Sławecki Identyfikator Liczba kontrolna Liczba pracowników
+Minister Edukacji Narodowej: wz. T. Sławecki WZÓR WYDRUK ZESTAWIENIA ZBIORCZEGO Identyfikator Liczba kontrolna Liczba pracowników
 

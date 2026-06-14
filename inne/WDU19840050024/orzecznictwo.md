@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 
-Łącznie: **1147** orzeczeń
-(pominięto 468 orzeczeń sądów rejonowych)
+Łącznie: **1149** orzeczeń
+(pominięto 473 orzeczeń sądów rejonowych)
 
 ## art. 1 (241)
 
@@ -819,7 +819,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 
 - 2018-10-19 | SO | [I Ns 35/18](https://www.saos.org.pl/judgments/359514) | Postanowienie
 
-## art. 12 (479)
+## art. 12 (480)
 
 - 2008-09-29 | TK | [SK 52/05](https://www.saos.org.pl/judgments/108660) | Wyrok ★
 - 2008-05-12 | TK | [SK 43/05](https://www.saos.org.pl/judgments/108652) | Wyrok ★
@@ -855,6 +855,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 - 2015-01-14 | SN | [V KK 160/14](https://www.saos.org.pl/judgments/167874) | Postanowienie
 - 2007-02-07 | SN | [III KK 243/06](https://www.saos.org.pl/judgments/85187) | Postanowienie
 - 2001-10-17 | SN | [IV KKN 165/97](https://www.saos.org.pl/judgments/80920) | Postanowienie
+- 2025-10-09 | SO | [I ACa 1260/22](https://www.saos.org.pl/judgments/545133) | Wyrok
 - 2024-10-15 | SO | [V AGa 269/22](https://www.saos.org.pl/judgments/515837) | Wyrok
 - 2024-01-31 | SO | [I ACa 1908/22](https://www.saos.org.pl/judgments/493839) | Wyrok
 - 2023-12-15 | SO | [V ACa 149/22](https://www.saos.org.pl/judgments/544073) | Wyrok
@@ -1871,7 +1872,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 
 - 2013-06-27 | SO | [I ACa 406/13](https://www.saos.org.pl/judgments/16482) | Wyrok
 
-## art. 31 (238)
+## art. 31 (239)
 
 - 2010-12-01 | TK | [K 41/07](https://www.saos.org.pl/judgments/109683) | Wyrok ★
 - 2008-09-29 | TK | [SK 52/05](https://www.saos.org.pl/judgments/108660) | Wyrok ★
@@ -1904,6 +1905,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 - 2022-10-14 | SO | [I ACa 844/22](https://www.saos.org.pl/judgments/483405) | Wyrok
 - 2022-09-29 | SO | [V ACa 523/22](https://www.saos.org.pl/judgments/480247) | Wyrok
 - 2022-09-23 | SO | [VI ACa 528/22](https://www.saos.org.pl/judgments/481599) | Wyrok
+- 2022-06-15 | SO | [V ACa 366/22](https://www.saos.org.pl/judgments/546880) | Wyrok
 - 2022-06-01 | SO | [V ACa 55/22](https://www.saos.org.pl/judgments/469498) | Wyrok
 - 2022-05-24 | SO | [I ACa 511/21](https://www.saos.org.pl/judgments/470403) | Wyrok
 - 2022-05-12 | SO | [I ACa 59/22](https://www.saos.org.pl/judgments/472698) | Wyrok
@@ -2127,7 +2129,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 - 2017-06-13 | SO | [V ACa 185/17](https://www.saos.org.pl/judgments/311847) | Wyrok
 - 2017-04-06 | SO | [V ACa 410/16](https://www.saos.org.pl/judgments/304050) | Wyrok
 
-## art. 32 (142)
+## art. 32 (143)
 
 - 2010-12-01 | TK | [K 41/07](https://www.saos.org.pl/judgments/109683) | Wyrok ★
 - 2007-02-20 | TK | [P 1/06](https://www.saos.org.pl/judgments/108093) | Wyrok ★
@@ -2147,6 +2149,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 - 2022-10-14 | SO | [I ACa 844/22](https://www.saos.org.pl/judgments/483405) | Wyrok
 - 2022-09-29 | SO | [V ACa 523/22](https://www.saos.org.pl/judgments/480247) | Wyrok
 - 2022-09-23 | SO | [VI ACa 528/22](https://www.saos.org.pl/judgments/481599) | Wyrok
+- 2022-06-15 | SO | [V ACa 366/22](https://www.saos.org.pl/judgments/546880) | Wyrok
 - 2022-05-12 | SO | [I ACa 59/22](https://www.saos.org.pl/judgments/472698) | Wyrok
 - 2021-10-07 | SO | [V ACa 565/21](https://www.saos.org.pl/judgments/457075) | Wyrok
 - 2021-03-10 | SO | [I ACa 48/21](https://www.saos.org.pl/judgments/448869) | Wyrok
@@ -2272,7 +2275,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 - 2015-06-30 | SO | [I C 221/15](https://www.saos.org.pl/judgments/234144) | Wyrok
 - 2018-10-17 | SO | [I Ns 22/18](https://www.saos.org.pl/judgments/359504) | Postanowienie
 
-## art. 33 (183)
+## art. 33 (184)
 
 - 1994-03-02 | TK | [W 3/93](https://www.saos.org.pl/judgments/205624) | Uchwała ★
 - 2010-12-01 | TK | [K 41/07](https://www.saos.org.pl/judgments/109683) | Wyrok ★
@@ -2293,6 +2296,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 - 2022-12-05 | SO | [I ACa 981/22](https://www.saos.org.pl/judgments/487723) | Wyrok
 - 2022-09-29 | SO | [V ACa 523/22](https://www.saos.org.pl/judgments/480247) | Wyrok
 - 2022-09-23 | SO | [VI ACa 528/22](https://www.saos.org.pl/judgments/481599) | Wyrok
+- 2022-06-15 | SO | [V ACa 366/22](https://www.saos.org.pl/judgments/546880) | Wyrok
 - 2022-06-01 | SO | [V ACa 55/22](https://www.saos.org.pl/judgments/469498) | Wyrok
 - 2022-05-12 | SO | [I ACa 59/22](https://www.saos.org.pl/judgments/472698) | Wyrok
 - 2022-02-17 | SO | [V ACa 818/21](https://www.saos.org.pl/judgments/464783) | Wyrok
@@ -2979,7 +2983,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 
 - 2001-10-11 | SN | [II CKN 559/99](https://www.saos.org.pl/judgments/80891) | Wyrok ★
 
-## art. 39 (157)
+## art. 39 (158)
 
 - 2011-12-14 | TK | [SK 42/09](https://www.saos.org.pl/judgments/110368) | Wyrok ★
 - 2010-12-01 | TK | [K 41/07](https://www.saos.org.pl/judgments/109683) | Wyrok ★
@@ -2999,6 +3003,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 - 2022-12-05 | SO | [I ACa 981/22](https://www.saos.org.pl/judgments/487723) | Wyrok
 - 2022-10-14 | SO | [I ACa 844/22](https://www.saos.org.pl/judgments/483405) | Wyrok
 - 2022-09-23 | SO | [VI ACa 528/22](https://www.saos.org.pl/judgments/481599) | Wyrok
+- 2022-06-15 | SO | [V ACa 366/22](https://www.saos.org.pl/judgments/546880) | Wyrok
 - 2022-05-12 | SO | [I ACa 59/22](https://www.saos.org.pl/judgments/472698) | Wyrok
 - 2022-02-17 | SO | [V ACa 818/21](https://www.saos.org.pl/judgments/464783) | Wyrok
 - 2021-10-07 | SO | [V ACa 565/21](https://www.saos.org.pl/judgments/457075) | Wyrok

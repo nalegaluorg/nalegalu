@@ -8,10 +8,10 @@ pos: 1185
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 czerwca 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1185 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 18 czerwca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1185/text.pdf) |
 
-Poz. 1185 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 18 czerwca 2019 r.
 w sprawie sposobu przesyłania informacji o nieruchomościach i obiektach budowlanych oraz deklaracji na podatek od nieruchomości za pomocą środków komunikacji elektronicznej Na podstawie art. 6 ust. 14 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2019 r.
-poz. 1170) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 1170) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób przesyłania informacji o nieruchomościach i obiektach budowlanych, zwanych dalej „informacjami”, oraz deklaracji na podatek od nieruchomości, zwanych dalej „deklaracjami”, za pomocą środków komunikacji elektronicznej;
 2) rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje oraz deklaracje.
 § 2. Informacje i deklaracje mogą być przesyłane z wykorzystaniem:

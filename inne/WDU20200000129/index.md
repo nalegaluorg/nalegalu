@@ -8,12 +8,10 @@ pos: 129
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o usługach detektywistycznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -72,11 +70,11 @@ Art. 47–49. (pominięte)
 
 2. Zleceniodawcą czynności, o których mowa w ust. 1 pkt 6, nie mogą być organy prowadzące lub nadzorujące postępowania w tych sprawach.
 
-**Art. 3.** Wykonywanie działalności gospodarczej w zakresie usług detektywistycznych jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495) i wymaga uzyskania wpisu do rejestru działalności detektywistycznej, zwanego dalej „rejestrem”.
+**Art. 3.** Wykonywanie działalności gospodarczej w zakresie usług detektywistycznych jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495) i wymaga uzyskania wpisu do rejestru działalności detektywistycznej, zwanego dalej „rejestrem”.
 
 **Art. 3a.**
 
-1. Przedsiębiorcy z innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz przedsiębiorcy z państw, które zawarły ze Wspólnotą Europejską i jej państwami członkowskimi umowy regulujące swobodę świadczenia usług, przed rozpoczęciem czasowego świadczenia usług detektywistycznych na terytorium Rzeczypospolitej Polskiej są obowiązani do złożenia zgłoszenia ministrowi właściwemu do spraw wewnętrznych zamiaru rozpoczęcia czasowego świadczenia usług detektywistycznych.
+1. Przedsiębiorcy z innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz przedsiębiorcy z państw, które zawarły ze Wspólnotą Europejską i jej państwami członkowskimi umowy regulujące swobodę świadczenia usług, przed rozpoczęciem czasowego świadczenia usług detektywistycznych na terytorium Rzeczypospolitej Polskiej są obowiązani do złożenia zgłoszenia ministrowi właściwemu do spraw wewnętrznych zamiaru rozpoczęcia czasowego świadczenia usług detektywistycznych.
 
 2. O zakończeniu czasowego świadczenia usług detektywistycznych na terytorium Rzeczypospolitej Polskiej przedsiębiorca informuje ministra właściwego do spraw wewnętrznych.
 
@@ -104,6 +102,9 @@ Art. 47–49. (pominięte)
 
 **Art. 11.** Detektyw przy wykonywaniu czynności, o których mowa w art. 2 ust. 1, jest obowiązany:
 
+- **1)** przestrzegać przepisów prawa oraz odmówić wykonania czynności niezgodnej z prawem lub nieetycznej;
+- **2)** zachować należytą staranność i rzetelność, a zwłaszcza sprawdzić zgodność z prawdą uzyskanych informacji.
+
 **Art. 11a.** Detektyw jest obowiązany zawiadomić organ prowadzący rejestr osób, którym wydano licencje, zwany dalej „rejestrem detektywów”, o zmianie danych, o których mowa w art. 40 ust. 2 pkt 1 lub 2, w terminie 7 dni od dnia zmiany tych danych.
 
 **Art. 12.**
@@ -116,11 +117,25 @@ Art. 47–49. (pominięte)
 
 **Art. 13.** Detektyw ma obowiązek sporządzić i przekazać zatrudniającemu go przedsiębiorcy końcowe pisemne sprawozdanie z wykonanych w danej sprawie czynności, o których mowa w art. 2 ust. 1, obejmujące:
 
+- **1)** opis stanu faktycznego;
+- **2)** datę rozpoczęcia czynności;
+- **3)** określenie zakresu i przebiegu przeprowadzonych czynności;
+- **4)** datę zakończenia czynności.
+
 **Art. 14.** Detektyw ponosi odpowiedzialność za szkody wyrządzone podczas wykonywania czynności, o których mowa w art. 2 ust. 1, oraz wskutek podania nieprawdziwych informacji, na zasadach określonych w Kodeksie cywilnym.
 
 #### Rozdział 3 Zasady wykonywania działalności gospodarczej w zakresie usług detektywistycznych
 
 **Art. 15.** Przedsiębiorca może wykonywać działalność, o której mowa w art. 3, jeżeli:
+
+- **1)** posiada licencję:
+    - **a)** przedsiębiorca lub ustanowiony przez niego pełnomocnik – w przypadku przedsiębiorcy będącego osobą fizyczną,
+    - **b)** co najmniej jedna osoba uprawniona do reprezentowania przedsiębiorcy lub pełnomocnik ustanowiony przez przedsiębiorcę do kierowania działalnością detektywistyczną – w przypadku przedsiębiorcy niebędącego osobą fizyczną;
+
+- **2)** nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego;
+- **2)** nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego oraz nie jest ujawniony w Krajowym Rejestrze Zadłużonych;
+- **3)** osoby nieposiadające licencji, wchodzące w skład organu zarządzającego przedsiębiorcy oraz ustanowieni przez ten organ prokurenci oraz przedsiębiorca będący osobą fizyczną nie byli karani za przestępstwa umyślne lub umyślne przestępstwa skarbowe;
+- **4)** zawarł umowę ubezpieczenia, o której mowa w art. 24 ust. 1.
 
 **Art. 16.**
 
@@ -129,9 +144,9 @@ Art. 47–49. (pominięte)
 - **1)** firmę przedsiębiorcy, jego siedzibę i adres albo adres zamieszkania;
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
 - **3)** numer identyfikacji podatkowej (NIP);
-- **4)** imię i nazwisko, datę urodzenia, adres zamieszkania oraz w przypadku posiadania licencji numer licencji:
-    - **a)** przedsiębiorcy oraz pełnomocnika, jeżeli został ustanowiony w przypadku przedsiębiorcy będącego osobą fizyczną,
-    - **b)** członków organu zarządzającego, prokurentów i pełnomocników ustanowionych do kierowania wnioskowaną działalnością przedsiębiorcy w przypadku przedsiębiorcy niebędącego osobą fizyczną;
+- **4)** imię i nazwisko, datę urodzenia, adres zamieszkania oraz w przypadku posiadania licencji – numer licencji:
+    - **a)** przedsiębiorcy oraz pełnomocnika, jeżeli został ustanowiony – w przypadku przedsiębiorcy będącego osobą fizyczną,
+    - **b)** członków organu zarządzającego, prokurentów i pełnomocników ustanowionych do kierowania wnioskowaną działalnością przedsiębiorcy – w przypadku przedsiębiorcy niebędącego osobą fizyczną;
 
 - **5)** adres stałego miejsca wykonywania działalności.
 
@@ -184,6 +199,15 @@ Art. 47–49. (pominięte)
 6. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych.
 
 **Art. 19.** Wpisowi do rejestru podlegają następujące dane:
+
+- **1)** data wniosku o wpis do rejestru;
+- **2)** firma przedsiębiorcy, jego siedziba i adres;
+- **3)** dane osób uprawnionych do reprezentacji przedsiębiorcy, ze wskazaniem osób posiadających licencje, o których mowa w art. 15 pkt 1, oraz numer licencji;
+- **4)** numer identyfikacji podatkowej (NIP) przedsiębiorcy;
+- **5)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **6)** adres stałego miejsca wykonywania działalności;
+- **7)** data dokonania wpisu do rejestru;
+- **8)** imię i nazwisko oraz stanowisko służbowe pracownika dokonującego wpisu do rejestru oraz jego czytelny podpis.
 
 **Art. 19a.**
 
@@ -296,7 +320,7 @@ Art. 47–49. (pominięte)
 
 **Art. 27c.** Organ prowadzący rejestr może zwracać się do sądów, prokuratury, Policji oraz innych organów administracji publicznej o przekazanie informacji, materiałów i danych będących w ich posiadaniu, istotnych dla prowadzonego postępowania administracyjnego lub postępowania wyjaśniającego, w celu potwierdzenia spełniania warunków wymaganych prawem do wykonywania działalności gospodarczej w zakresie usług detektywistycznych.
 
-**Art. 28.** W sprawach działalności w zakresie usług detektywistycznych nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 28.** W sprawach działalności w zakresie usług detektywistycznych nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 #### Rozdział 3a Przetwarzanie danych osobowych
 
@@ -335,7 +359,7 @@ Art. 47–49. (pominięte)
 - **5)** nie toczy się przeciwko niej postępowanie o umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **6)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **7)** nie została zwolniona dyscyplinarnie z Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Biura Ochrony Rządu, Służby Ochrony Państwa, wojska, prokuratury, sądu lub z innego urzędu administracji publicznej w Rzeczypospolitej Polskiej lub innym państwie, w okresie ostatnich 5 lat;
-- **8)** posiada pozytywną opinię komendanta powiatowego (rejonowego, miejskiego) Policji właściwego ze względu na jej miejsce zamieszkania, sporządzoną na podstawie aktualnie posiadanych informacji przez Policję albo w przypadku obywatela innego państwa przez organ odpowiedniego szczebla i kompetencji państwa, właściwego ze względu na miejsce jej zamieszkania;
+- **8)** posiada pozytywną opinię komendanta powiatowego (rejonowego, miejskiego) Policji właściwego ze względu na jej miejsce zamieszkania, sporządzoną na podstawie aktualnie posiadanych informacji przez Policję albo – w przypadku obywatela innego państwa – przez organ odpowiedniego szczebla i kompetencji państwa, właściwego ze względu na miejsce jej zamieszkania;
 - **9)** posiada zdolność psychiczną do wykonywania czynności, o których mowa w art. 2 ust. 1, stwierdzoną orzeczeniem lekarskim;
 - **10)** legitymuje się dokumentem potwierdzającym odbycie szkolenia w zakresie zagadnień ochrony danych osobowych, ochrony informacji niejawnych, przepisów regulujących prawa i obowiązki detektywa oraz zasad wykonywania działalności gospodarczej w zakresie usług detektywistycznych.
 
@@ -371,7 +395,7 @@ Art. 47–49. (pominięte)
 
 **Art. 35.**
 
-1. Licencję wydaje, odmawia jej wydania, zawiesza lub cofa, w drodze decyzji administracyjnej, komendant wojewódzki Policji właściwy ze względu na miejsce zamieszkania osoby ubiegającej się o wydanie licencji, a w przypadku osoby niemającej miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej Komendant Stołeczny Policji.
+1. Licencję wydaje, odmawia jej wydania, zawiesza lub cofa, w drodze decyzji administracyjnej, komendant wojewódzki Policji właściwy ze względu na miejsce zamieszkania osoby ubiegającej się o wydanie licencji, a w przypadku osoby niemającej miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – Komendant Stołeczny Policji.
 
 2. Licencję wydaje się na czas nieoznaczony.
 
@@ -410,7 +434,7 @@ Art. 47–49. (pominięte)
 
 **Art. 39a.**
 
-1. Komendant wojewódzki Policji właściwy ze względu na miejsce zamieszkania detektywa, a w przypadku detektywa niemającego miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej Komendant Stołeczny Policji, jest obowiązany zawiadomić niezwłocznie organ prowadzący rejestr detektywów, o którym mowa w art. 40 ust. 1, o wydaniu licencji detektywa.
+1. Komendant wojewódzki Policji właściwy ze względu na miejsce zamieszkania detektywa, a w przypadku detektywa niemającego miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – Komendant Stołeczny Policji, jest obowiązany zawiadomić niezwłocznie organ prowadzący rejestr detektywów, o którym mowa w art. 40 ust. 1, o wydaniu licencji detektywa.
 
 2. Zawiadomienie, o którym mowa w ust. 1, obejmuje dane określone w art. 40 ust. 2 pkt 1–3.
 
@@ -432,6 +456,9 @@ Art. 47–49. (pominięte)
 **Art. 41.** Osoby posiadające licencję są obowiązane poddawać się okresowym badaniom lekarskim i psychologicznym.
 
 **Art. 41a.** W stosunku do osób, wobec których zostało wydane orzeczenie:
+
+- **1)** lekarskie, o którym mowa w art. 29 ust. 1 pkt 9,
+- **2)** lekarskie i psychologiczne, na podstawie przeprowadzonych badań, o których mowa w art. 41 – nie stosuje się przepisów art. 229 § 1 i 2 Kodeksu pracy.
 
 **Art. 42.**
 

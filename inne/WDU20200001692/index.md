@@ -8,10 +8,10 @@ pos: 1692
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 października 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1692 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 28 września 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,25 +25,25 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1692/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 28 września 2020 r.
-w sprawie opłat nawigacyjnych i stref ich pobierania Na podstawie art. 130g ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r.
-poz. 284 i 1378) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie opłat nawigacyjnych i stref ich pobierania Na podstawie art. 130g ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r.
+poz. 284 i 1378) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) strefy pobierania opłat trasowych;
 2) kryteria ustalania stref pobierania opłat terminalowych;
 3) sposób konsultacji stref pobierania opłat terminalowych;
 4) sposób konsultacji stawek opłat terminalowych oraz szczegółowy zakres informacji dołączanych do wniosku o zatwierdzenie stawek opłat terminalowych;
 5) procedurę przekazywania i zakres informacji niezbędnych do zatwierdzenia stawek opłat nawigacyjnych;
-6) sposób ustalania stawek opłat terminalowych nieobjętych zakresem stosowania przepisów, o których mowa w art. 130c ust. 1 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze, w tym kosztów stanowiących podstawę ich ustalenia.
+6) sposób ustalania stawek opłat terminalowych nieobjętych zakresem stosowania przepisów, o których mowa w art. 130c ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, w tym kosztów stanowiących podstawę ich ustalenia.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) instytucji rozumie się przez to instytucję zapewniającą służby żeglugi powietrznej w rozumieniu art. 2 pkt 5 rozporządzenia nr 549/2004, wyznaczoną na podstawie art. 127 ust. 2 ustawy;
-2) okresie odniesienia rozumie się przez to okres odniesienia, w rozumieniu art. 2 pkt 16 rozporządzenia 2019/317, dla systemu skuteczności działania dla służb żeglugi powietrznej;
-3) planie skuteczności działania rozumie się przez to plan, o którym mowa w art. 11 ust. 1 lit. b rozporządzenia nr 549/2004;
-4) planowanych kosztach terminalowych rozumie się przez to planowane na dany rok kalendarzowy koszty związane z zapewnianiem terminalowych służb żeglugi powietrznej, w tym koszty realizowania przez Prezesa Urzędu zadań państwowej władzy nadzorującej związanych z nadzorem nad zapewnianiem tych służb, dla strefy pobierania opłat terminalowych nieobjętej przepisami prawa Unii Europejskiej z zakresu Jednolitej Europejskiej Przestrzeni Powietrznej;
-5) Prezesie Urzędu rozumie się przez to Prezesa Urzędu Lotnictwa Cywilnego;
-6) rozporządzeniu nr 549/2004 rozumie się przez to rozporządzenie (WE) nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiające ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Rozporządzenie ramowe) (Dz. Urz. UE L 96 z 31.03.2004, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23);
-7) rozporządzeniu 2019/317 rozumie się przez to rozporządzenie wykonawcze Komisji (UE) 2019/317 z dnia 11 lutego 2019 r. ustanawiające system skuteczności działania i opłat w jednolitej europejskiej przestrzeni powietrznej oraz uchylające rozporządzenia wykonawcze (UE) nr 390/2013 i (UE) nr 391/2013 (Dz. Urz. UE L 56 z 25.02.2019, str. 1);
-8) ustawie rozumie się przez to ustawę z dnia 3 lipca 2002 r. Prawo lotnicze;
-9) zrealizowanych kosztach terminalowych rozumie się przez to wykonane w danym roku kalendarzowym koszty związane z zapewnianiem terminalowych służb żeglugi powietrznej, w tym koszty realizowania przez Prezesa Urzędu zadań państwowej władzy nadzorującej związanych z nadzorem nad zapewnianiem tych służb, dla strefy pobierania opłat terminalowych nieobjętej przepisami prawa Unii Europejskiej z zakresu Jednolitej Europejskiej Przestrzeni Powietrznej, które są ustalane na podstawie zatwierdzonych sprawozdań finansowych instytucji.
+1) instytucji – rozumie się przez to instytucję zapewniającą służby żeglugi powietrznej w rozumieniu art. 2 pkt 5 rozporządzenia nr 549/2004, wyznaczoną na podstawie art. 127 ust. 2 ustawy;
+2) okresie odniesienia – rozumie się przez to okres odniesienia, w rozumieniu art. 2 pkt 16 rozporządzenia 2019/317, dla systemu skuteczności działania dla służb żeglugi powietrznej;
+3) planie skuteczności działania – rozumie się przez to plan, o którym mowa w art. 11 ust. 1 lit. b rozporządzenia nr 549/2004;
+4) planowanych kosztach terminalowych – rozumie się przez to planowane na dany rok kalendarzowy koszty związane z zapewnianiem terminalowych służb żeglugi powietrznej, w tym koszty realizowania przez Prezesa Urzędu zadań państwowej władzy nadzorującej związanych z nadzorem nad zapewnianiem tych służb, dla strefy pobierania opłat terminalowych nieobjętej przepisami prawa Unii Europejskiej z zakresu Jednolitej Europejskiej Przestrzeni Powietrznej;
+5) Prezesie Urzędu – rozumie się przez to Prezesa Urzędu Lotnictwa Cywilnego;
+6) rozporządzeniu nr 549/2004 – rozumie się przez to rozporządzenie (WE) nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiające ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Rozporządzenie ramowe) (Dz. Urz. UE L 96 z 31.03.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23);
+7) rozporządzeniu 2019/317 – rozumie się przez to rozporządzenie wykonawcze Komisji (UE) 2019/317 z dnia 11 lutego 2019 r. ustanawiające system skuteczności działania i opłat w jednolitej europejskiej przestrzeni powietrznej oraz uchylające rozporządzenia wykonawcze (UE) nr 390/2013 i (UE) nr 391/2013 (Dz. Urz. UE L 56 z 25.02.2019, str. 1);
+8) ustawie – rozumie się przez to ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze;
+9) zrealizowanych kosztach terminalowych – rozumie się przez to wykonane w danym roku kalendarzowym koszty związane z zapewnianiem terminalowych służb żeglugi powietrznej, w tym koszty realizowania przez Prezesa Urzędu zadań państwowej władzy nadzorującej związanych z nadzorem nad zapewnianiem tych służb, dla strefy pobierania opłat terminalowych nieobjętej przepisami prawa Unii Europejskiej z zakresu Jednolitej Europejskiej Przestrzeni Powietrznej, które są ustalane na podstawie zatwierdzonych sprawozdań finansowych instytucji.
 § 3. 1. Strefę pobierania opłat trasowych stanowi FIR Warszawa, o którym mowa w przepisach wydanych na podstawie art. 121 ust. 5 pkt 1 ustawy.
 2. Jeżeli na podstawie wiążącej Rzeczpospolitą Polską umowy międzynarodowej dotyczącej utworzenia funkcjonalnego bloku przestrzeni powietrznej, w rozumieniu art. 2 pkt 25 rozporządzenia nr 549/2004, ustalono inną niż określona w ust. 1 strefę pobierania opłat trasowych, strefa ta stanowi strefę pobierania opłat trasowych.
 § 4. Przy ustalaniu strefy pobierania opłat terminalowych, o której mowa w art. 130c ust. 1 ustawy, uwzględnia się również następujące kryteria:
@@ -51,7 +51,7 @@ poz. 284 i 1378) zarządza się, co następuje: § 1. Rozporządzenie określa:
 2) lotniska, które mają zostać objęte strefą, charakteryzują się zbliżonym rodzajem i zakresem zapewnianych służb żeglugi powietrznej;
 3) służby żeglugi powietrznej, które będą zapewniane na:
 a) lotnisku, które ma zostać objęte strefą, albo
-b) lotniskach, które mają zostać objęte strefą są uwzględnione w planie skuteczności działania albo w pracach nad projektem tego planu, obejmującego okres, na który ustala się strefę.
+b) lotniskach, które mają zostać objęte strefą – są uwzględnione w planie skuteczności działania albo w pracach nad projektem tego planu, obejmującego okres, na który ustala się strefę.
 § 5. 1. Konsultacje w sprawie strefy pobierania opłat terminalowych, o której mowa w art. 130c ust. 1 ustawy, rozpoczyna się nie później niż na miesiąc przed terminem złożenia wniosku, o którym mowa w art. 130c ust. 2 ustawy.
 2. W ramach konsultacji instytucja zapewniająca służby ruchu lotniczego, o której mowa w art. 130c ust. 2 ustawy, przekazuje przedstawicielom użytkowników przestrzeni powietrznej informacje obejmujące:
 1) wykaz lotnisk, które mają zostać objęte strefą pobierania opłat terminalowych;
@@ -65,15 +65,15 @@ b) lotniskach, które mają zostać objęte strefą są uwzględnione w planie s
 § 7. Do konsultacji w sprawie strefy pobierania opłat terminalowych, o której mowa w art. 130e ust. 1 ustawy, przepisy § 5 stosuje się odpowiednio.
 § 8. 1. W celu zatwierdzenia stawek opłat trasowych na kolejny rok kalendarzowy, instytucja przekazuje Prezesowi Urzędu:
 1) wypełnione, w zakresie swojej właściwości, dla danego roku kalendarzowego oraz poprzedzających i kolejnych lat kalendarzowych danego okresu odniesienia, tabele sprawozdawcze oraz informacje uzupełniające, o których mowa w załącznikach VII i IX do rozporządzenia 2019/317, w terminie do dnia 20 maja roku poprzedzającego rok, dla którego stawki te są ustalane;
-2) sprawozdanie finansowe obejmujące rok kalendarzowy poprzedzający rok, w którym sprawozdanie jest przekazywane, aktualne na dzień przekazania sprawozdania, wraz z informacją, czy zostało ono zatwierdzone, a w przypadku gdy rok obrotowy nie pokrywa się z rokiem kalendarzowym wyniki finansowe obejmujące rok kalendarzowy poprzedzający rok, w którym wyniki są przekazywane;
-3) sprawozdanie z badania sprawozdania finansowego, o którym mowa w pkt 2, sporządzone przez biegłego rewidenta w przypadku gdy instytucja jest zobowiązana do jego sporządzania i posiada już takie sprawozdanie z badania.
+2) sprawozdanie finansowe obejmujące rok kalendarzowy poprzedzający rok, w którym sprawozdanie jest przekazywane, aktualne na dzień przekazania sprawozdania, wraz z informacją, czy zostało ono zatwierdzone, a w przypadku gdy rok obrotowy nie pokrywa się z rokiem kalendarzowym – wyniki finansowe obejmujące rok kalendarzowy poprzedzający rok, w którym wyniki są przekazywane;
+3) sprawozdanie z badania sprawozdania finansowego, o którym mowa w pkt 2, sporządzone przez biegłego rewidenta – w przypadku gdy instytucja jest zobowiązana do jego sporządzania i posiada już takie sprawozdanie z badania.
 2. Prezes Urzędu może żądać przedstawienia przez instytucję dodatkowych informacji zgodnie z art. 4 rozporządzenia 2019/317.
 3. Prezes Urzędu przekazuje Komisji Europejskiej i Europejskiej Organizacji do Spraw Bezpieczeństwa Żeglugi Powietrznej (EUROCONTROL) podstawy kosztowe opłat trasowych, w formie tabel sprawozdawczych wraz z informacjami uzupełniającymi, zgodnie z art. 24 ust. 4 i art. 29 ust. 2 rozporządzenia 2019/317.
 4. W przypadku gdy w zatwierdzonym sprawozdaniu finansowym zmiana wartości względem wartości wskazanych w sprawozdaniu finansowym, o którym mowa w ust. 1 pkt 2, skutkuje zmianą podstaw kosztowych opłat trasowych, instytucja przekazuje Prezesowi Urzędu skorygowane tabele sprawozdawcze oraz informacje uzupełniające, o których mowa w załącznikach VII i IX do rozporządzenia 2019/317, wraz z opisem przyczyn zmian wartości i odniesieniem do odpowiednich pozycji sprawozdania finansowego, w terminie 7 dni od dnia zatwierdzenia sprawozdania finansowego.
 5. W przypadku, o którym mowa w art. 29 ust. 3 zdanie drugie rozporządzenia 2019/317, instytucja przekazuje Prezesowi Urzędu skorygowane tabele sprawozdawcze oraz informacje uzupełniające, o których mowa w załącznikach VII i IX do rozporządzenia 2019/317, w terminie 7 dni od dnia otrzymania przez instytucję informacji od Prezesa Urzędu o powiadomieniu Komisji Europejskiej. Informacje są przekazywane przez Prezesa Urzędu w formie pisemnej w postaci papierowej lub elektronicznej.
 § 9. 1. W celu zatwierdzenia stawek opłat terminalowych, o których mowa w art. 130d ust. 1 ustawy, instytucja przekazuje Prezesowi Urzędu wypełnione, w zakresie swojej właściwości, dla danego roku kalendarzowego oraz poprzedzających i kolejnych lat kalendarzowych danego okresu odniesienia, tabele sprawozdawcze oraz informacje uzupełniające, o których mowa w załącznikach VII i IX do rozporządzenia 2019/317.
 2. Tabele sprawozdawcze oraz informacje uzupełniające, o których mowa w załącznikach VII i IX do rozporządzenia 2019/317, są przekazywane Prezesowi Urzędu wraz z dokumentami i w terminach, o których mowa w § 8 ust. 1. Przepisy § 8 ust. 2, 4 i 5 stosuje się odpowiednio.
-§ 10. 1. Instytucja zapewniająca służby ruchu lotniczego, o której mowa w art. 130d ust. 2 ustawy, w terminie do dnia 15 października roku poprzedzającego rok kalendarzowy, dla którego są ustalane stawki opłat terminalowych, o których mowa w art. 130d ust. 1 ustawy, składa wniosek o zatwierdzenie tych stawek, do którego dołącza informacje, o których mowa w art. 130d ust. 3 ustawy, zgodne z tabelami sprawozdawczymi opłat terminalowych oraz informacjami uzupełniającymi przekazanymi na podstawie § 9, a w przypadku występowania rozbieżności dodatkowe wyjaśnienia oraz uzasadnienie dla wprowadzonych zmian.
+§ 10. 1. Instytucja zapewniająca służby ruchu lotniczego, o której mowa w art. 130d ust. 2 ustawy, w terminie do dnia 15 października roku poprzedzającego rok kalendarzowy, dla którego są ustalane stawki opłat terminalowych, o których mowa w art. 130d ust. 1 ustawy, składa wniosek o zatwierdzenie tych stawek, do którego dołącza informacje, o których mowa w art. 130d ust. 3 ustawy, zgodne z tabelami sprawozdawczymi opłat terminalowych oraz informacjami uzupełniającymi przekazanymi na podstawie § 9, a w przypadku występowania rozbieżności – dodatkowe wyjaśnienia oraz uzasadnienie dla wprowadzonych zmian.
 2. W celu złożenia kompletnego wniosku instytucja zapewniająca służby ruchu lotniczego, o której mowa w art. 130d ust. 2 ustawy, może występować do pozostałych podmiotów, których koszty są uwzględniane w podstawach kosztowych zatwierdzanych stawek, o których mowa w ust. 1, o dodatkowe informacje i wyjaśnienia, wskazując termin na ich przekazanie, pozwalający na przygotowanie materiałów.
 3. W przypadku odmowy zatwierdzenia stawek opłat terminalowych instytucja zapewniająca służby ruchu lotniczego, o której mowa w art. 130d ust. 2 ustawy, do ponownego wniosku o zatwierdzenie stawek opłat terminalowych, o których mowa w art. 130d ust. 1 ustawy, dołącza skorygowane informacje, o których mowa w ust. 1, w terminie 14 dni od dnia doręczenia decyzji o odmowie zatwierdzenia stawek opłat terminalowych, chyba że został złożony wniosek o ponowne rozpatrzenie sprawy.
 4. W przypadku braku zatwierdzenia stawki opłaty terminalowej w terminie określonym w art. 130d ust. 7 zdanie pierwsze ustawy, Prezes Urzędu ustala stawkę z urzędu na podstawie informacji przekazanych przez instytucję, z uwzględnieniem korekt wynikających z przepisów prawa, w szczególności z przepisów ustawy oraz rozporządzenia 2019/317.
@@ -122,7 +122,7 @@ b) lotniskach, które mają zostać objęte strefą są uwzględnione w planie s
 3. Od opłat terminalowych, o których mowa w ust. 1, nie udziela się zniżek oraz nie ustala się innych zwolnień niż określone w art. 130 ust. 6 ustawy.
 § 18. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 19. Rozporządzenie wchodzi w życie z dniem 2 października 2020 r.
-Minister Infrastruktury: A. Adamczyk Załącznik nr 1 SZCZEGÓŁOWY SZCZEGÓŁOWY ZAKRES ZAKRES KOSZTÓW KOSZTÓW TERMINALOWYCH TERMINALOWYCH WEDŁUG WEDŁUG RODZAJU RODZAJU
+Minister Infrastruktury: A. Adamczyk Załączniki do rozporządzenia Ministra Infrastruktury z dnia 28 Dziennik Ustaw – 7 – września 2020 r. (poz. Poz. …) 1692 Załącznik nr 1 SZCZEGÓŁOWY SZCZEGÓŁOWY ZAKRES ZAKRES KOSZTÓW KOSZTÓW TERMINALOWYCH TERMINALOWYCH WEDŁUG WEDŁUG RODZAJU RODZAJU
 1. Do kosztów operacyjnych zalicza się:
 1) koszty osobowe, które obejmują wynagrodzenia, składki na ubezpieczenia społeczne oraz inne świadczenia na rzecz pracowników;
 2) koszty amortyzacji, które są ustalane zgodnie z oczekiwanym okresem ekonomicznej użyteczności środka trwałego, przy zastosowaniu metody liniowej, w oparciu o metodę kosztu historycznego;
@@ -130,7 +130,7 @@ Minister Infrastruktury: A. Adamczyk Załącznik nr 1 SZCZEGÓŁOWY SZCZEGÓŁOW
 2. Koszt kapitału w danym roku oblicza się w odniesieniu do średniej księgowej wartości netto składników majątkowych, z początku i końca tego roku, wykorzystywanych przez instytucje, za które są pobierane opłaty, przy zastosowaniu średniego ważonego kosztu kapitału własnego oraz kapitału obcego.
 3. Koszty wyjątkowe obejmują jednorazowe koszty związane z zapewnieniem służb żeglugi powietrznej.
 TABELESPRAWOZDAWCZE TABELE SPRAWOZDAWCZE TABELA 1. KOSZTY CAŁKOWITE (n-4) (n-3) (n-2) (n-1) (n) Lp. Wykonanie Wykonanie Wykonanie Prognoza Prognoza wykonania 1 Koszty osobowe 2 Pozostała część kosztów operacyjnych 3 Amortyzacja 4 Koszt kapitału 5 Koszty wyjątkowe 6 Koszty całkowite (suma poz. 1–5) 7 Zarządzanie ruchem lotniczym 8 Łączność, nawigacja i dozorowanie 9 Poszukiwanie i ratownictwo 10 Informacja lotnicza 11 Służby meteorologiczne 12 Koszty nadzoru 13 Koszty pozostałych służb 14 Koszty całkowite (suma poz. 7–13) (n) R ok, na który jest ustalana stawka opłaty terminalowej.
-TABELA 2. OBLICZANIE STAWKI (n-1) (n-4) (n-3) (n-2) (n) Prognoza Wykonanie Wykonanie Wykonanie Prognoza wykonania Koszty całkowite (1) Koszty lotów objętych zwolnieniem z opłat nawigacyjnych Koszty lotów wykonywanych zgodnie z przepisami dla lotów z widocznością (VFR Visual Flight Rules) objętych zwolnieniem z opłat nawigacyjnych Koszty lotów wykonywanych zgodnie z przepisami dla lotów według wskazań przyrządów (IFR Instrument Flight Rules) objętych zwolnieniem z opłat nawigacyjnych Saldo przeniesione na dany rok (n) Koszty objęte opłatami Jednostki usługowe ogółem (IFR Instrument Flight Rules) Jednostki usługowe objęte opłatami (IFR Instrument Flight Rules) Stawka(2) (n) R ok, na który jest ustalana stawka opłaty terminalowej.
+TABELA 2. OBLICZANIE STAWKI (n-1) (n-4) (n-3) (n-2) (n) Prognoza Wykonanie Wykonanie Wykonanie Prognoza wykonania Koszty całkowite (1) Koszty lotów objętych zwolnieniem z opłat nawigacyjnych Koszty lotów wykonywanych zgodnie z przepisami dla lotów z widocznością (VFR – Visual Flight Rules) objętych zwolnieniem z opłat nawigacyjnych Koszty lotów wykonywanych zgodnie z przepisami dla lotów według wskazań przyrządów (IFR – Instrument Flight Rules) objętych zwolnieniem z opłat nawigacyjnych Saldo przeniesione na dany rok (n) Koszty objęte opłatami Jednostki usługowe ogółem (IFR – Instrument Flight Rules) Jednostki usługowe objęte opłatami (IFR – Instrument Flight Rules) Stawka(2) (n) R ok, na który jest ustalana stawka opłaty terminalowej.
 (1) Suma wszystkich kosztów całkowitych wykazanych w tabeli 1, przypisanych do danej strefy pobierania opłat terminalowych.
 (2) Iloraz planowanych kosztów objętych opłatami oraz planowanych jednostek usługowych objętych opłatami.
 TABELA 3. ROZLICZENIE KOSZTÓW (n-1) (n-4) (n-3) (n-2) (n) Prognoza Wykonanie Wykonanie Wykonanie Prognoza wykonania Saldo przeniesione z lat ubiegłych Opłaty pobrane od użytkowników Zrealizowane koszty terminalowe Zrealizowane koszty lotów objętych zwolnieniem Saldo przeniesione na kolejne lata (n) (n) R ok, na który jest ustalana stawka opłaty terminalowej.
@@ -143,12 +143,14 @@ INFORMACJE DODATKOWE DO TABELI 2 Wraz z tabelą 2 instytucja zapewniająca słu�
 2) opis i wyjaśnienie sposobu obliczania prognozowanych jednostek usługowych objętych opłatami;
 3) opis założeń przyjętych do określenia podstawy kosztowej opłat;
 4) opis alokacji kosztów między:
-a) obsługę lotów wykonywanych zgodnie z przepisami dla lotów z widocznością (VFR Visual Flight Rules),
-b) obsługę lotów wykonywanych zgodnie z przepisami dla lotów według wskazań przyrządów (IFR Instrument Flight Rules), objętych zwolnieniem z opłat nawigacyjnych,
-c) obsługę lotów wykonywanych zgodnie z przepisami dla lotów według wskazań przyrządów (IFR Instrument Flight Rules), nieobjętych zwolnieniem z opłat nawigacyjnych;
+a) obsługę lotów wykonywanych zgodnie z przepisami dla lotów z widocznością (VFR – Visual Flight Rules),
+b) obsługę lotów wykonywanych zgodnie z przepisami dla lotów według wskazań przyrządów (IFR – Instrument Flight Rules), objętych zwolnieniem z opłat nawigacyjnych,
+c) obsługę lotów wykonywanych zgodnie z przepisami dla lotów według wskazań przyrządów (IFR – Instrument Flight Rules), nieobjętych zwolnieniem z opłat nawigacyjnych;
 5) opis przeniesień na rok n.
 Uwaga: Koszty lotów objętych zwolnieniem z opłat nawigacyjnych oblicza się zgodnie z art. 22 ust. 6 rozporządzenia wykonawczego Komisji (UE) 2019/317 z dnia 11 lutego 2019 r. ustanawiającego system skuteczności działania i opłat w jednolitej europejskiej przestrzeni powietrznej oraz uchylającego rozporządzenia wykonawcze (UE) nr 390/2013 i (UE) nr 391/2013 (Dz. Urz. UE L 56 z 25.02.2019, str. 1).
-SPOSÓBOBLICZANIATERMINALOWYCH SPOSÓB OBLICZANIA TERMINALOWYCH JEDNOSTEK JEDNOSTEK USŁUGOWYCH USŁUGOWYCH
+
+## Załącznik nr 3 — SPOSÓBOBLICZANIATERMINALOWYCH SPOSÓB OBLICZANIA TERMINALOWYCH JEDNOSTEK JEDNOSTEK USŁUGOWYCH USŁUGOWYCH
+
 1. Terminalowa jednostka usługowa jest równa czynnikowi masy dla danego statku powietrznego.
 2. Czynnik masy, wyrażony z dokładnością do dwóch miejsc po przecinku, oblicza się jako iloraz uzyskany przez podzielenie przez pięćdziesiąt liczby ton metrycznych, wyrażonej z dokładnością do jednego miejsca po przecinku, stanowiącej maksymalną masę startową danego statku powietrznego podniesiony do potęgi 0,7.
 3. Przez maksymalną masę startową danego statku powietrznego należy rozumieć maksymalną masę startową wskazaną w instrukcji użytkowania w locie statku powietrznego (AFM) przedstawionej przez podmiot eksploatujący dany statek powietrzny. Jeżeli wartość ta nie jest znana, stosuje się masę najcięższych znanych statków powietrznych tego samego typu. Jeżeli dany statek powietrzny ma w certyfikacie podanych kilka maksymalnych mas startowych, stosuje się największą z nich.

@@ -8,12 +8,10 @@ pos: 114
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy zakupie preferencyjnym paliwa stałego dla gospodarstw domowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 stycznia 2024 r.*
+# w sprawie ogłoszenia jednolitego tekstu ustawy o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych
 
 | Pole | Wartość |
 |---|---|
@@ -27,315 +25,404 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000114) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/114/text.pdf) |
 
-1. Na podstawie art. 16 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 października 2022 r. zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U.
 poz. 2236), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 14 kwietnia 2023 r. zmianie ustawy obowiązkach przedsiębiorców zakresie gospodarowania niektórymi odpadami oraz opłacie produktowej oraz niektórych innych ustaw (Dz. U. poz. 877),
-2) ustawą z dnia 26 maja 2023 r. aplikacji mObywatel (Dz. U. poz. 1234) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 stycznia 2024 r.
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 23–27 ustawy z dnia 27 października 2022 r. zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236), które stanowią: „Art. 23. W ustawie z dnia 16 listopada 2006 r. opłacie skarbowej (Dz. U. z 2022 r. poz. 2142) załączniku do ustawy części II 21 kolumnie 4 „Zwolnienia” dodaje się pkt 20 brzmieniu: „20) zaświadczenie, którym mowa art. 13 1 ustawy z dnia 27 października 2022 r. zakupie preferencyjnym paliwa stałego przez gospodarstwa domowe (Dz. U. poz. 2236)”.
+1) ustawą z dnia 14 kwietnia 2023 r. o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz niektórych innych ustaw (Dz. U. poz. 877),
+2) ustawą z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 stycznia 2024 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1) art. 23–27 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236), które stanowią: „Art. 23. W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2022 r. poz. 2142) w załączniku do ustawy w części II w ust. 21 w kolumnie 4 „Zwolnienia” dodaje się pkt 20 w brzmieniu: „20) zaświadczenie, o którym mowa w art. 13 ust. 1 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego przez gospodarstwa domowe (Dz. U. poz. 2236)”.
 
-**Art. 24.** W ustawie z dnia 6 grudnia 2008 r. podatku akcyzowym (Dz. U. z 2022 r. poz. 143, 1137, 1488, 1967 i 2180) po art. 163d dodaje się art. 163e brzmieniu: „Art. 163e. W okresie od dnia 1 lipca 2022 r. do dnia 30 kwietnia 2023 r. zwalnia się od akcyzy sprzedaż gminom oraz podmiotom, których mowa art. 5 5 pkt 1, 3 i 4 ustawy z dnia 27 października 2022 r. zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236), wyrobów węglowych objętych pozycją CN 2701 na podstawie tej ustawy.”.
+**Art. 24.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2022 r. poz. 143, 1137, 1488, 1967 i 2180) po art. 163d dodaje się art. 163e w brzmieniu: „Art. 163e. W okresie od dnia 1 lipca 2022 r. do dnia 30 kwietnia 2023 r. zwalnia się od akcyzy sprzedaż gminom oraz podmiotom, o których mowa w art. 5 ust. 5 pkt 1, 3 i 4 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236), wyrobów węglowych objętych pozycją CN 2701 na podstawie tej ustawy.”.
 
-**Art. 25.** W ustawie z dnia 31 marca 2020 r. zmianie ustawy szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 25.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 26.** W ustawie z dnia 5 sierpnia 2022 r. dodatku węglowym (Dz. U. poz. 1692 i 1967) wprowadza się następujące zmiany:
+- **1)** w art. 65:
+    - **a)** w ust. 4 w pkt 5 po wyrazach „środków z” dodaje się wyrazy „zaciągniętych kredytów lub”,
+    - **b)** w ust. 5: – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) spłatę zobowiązań z tytułu zaciągniętych kredytów, o których mowa w art. 67 ust. 3, wraz z odsetkami i innymi kosztami bezpośrednio związanymi z tymi kredytami;”, – w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) wypłaty rekompensat, o których mowa w art. 15 ust. 1 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236).”,
+    - **c)** w ust. 21 w pkt 2 po wyrazach „planowanych do” dodaje się wyrazy „zaciągnięcia kredytów oraz do”,
+    - **d)** w ust. 25 po wyrazach „podstawę do” dodaje się wyrazy „zaciągnięcia kredytów oraz”;
 
-**Art. 27.** W ustawie z dnia 15 września 2022 r. szczególnych rozwiązaniach zakresie niektórych źródeł ciepła związku z sytuacją na rynku paliw (Dz. U. poz. 1967, 2127 i 2185) wprowadza się następujące zmiany:
+- **2)** w art. 67:
+    - **a)** w ust. 1 po wyrazach „zobowiązań z tytułu” dodaje się wyrazy „zaciągniętych kredytów lub”,
+    - **b)** w ust. 3 po wyrazie „może” dodaje się wyrazy „zaciągać kredyty lub”,
+    - **c)** w ust. 4 po wyrazach „z tytułu” dodaje się wyrazy „zaciągniętych kredytów lub”,
+    - **d)** ust. 6 otrzymuje brzmienie: „6. Gwarancja, o której mowa w ust. 4, może być udzielana do wysokości 100% pozostającej do spłaty kwoty kredytu objętego gwarancją lub 100% pozostających do wypłaty świadczeń pieniężnych wynikających z wyemitowanych obligacji objętych gwarancją, wraz z 100% należnych odsetek od tych kwot i innych kosztów bezpośrednio związanych odpowiednio z tym kredytem lub obligacjami, wynikających z warunków udzielenia kredytu albo emisji obligacji.”.
+
+**Art. 26.** W ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. poz. 1692 i 1967) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** po ust. 3b dodaje się ust. 3c–3e w brzmieniu: „3c. W przypadku gdy pod jednym adresem miejsca zamieszkania zamieszkuje więcej niż jedno gospodarstwo domowe i w terminie do dnia 30 listopada 2022 r. nie jest możliwe ustalenie odrębnego adresu miejsca zamieszkania dla poszczególnych gospodarstw domowych zamieszkujących pod tym adresem w odrębnych lokalach, nie stosuje się ust. 3a i 3b do gospodarstwa domowego, którego źródłem ogrzewania jest oddzielne lub współdzielone źródło ciepła.
+
+3d. W przypadku, o którym mowa w ust. 3c, gospodarstwu domowemu, które zajmuje lokal, dla którego nie było możliwe ustalenie odrębnego adresu, wójt, burmistrz albo prezydent miasta przyznaje dodatek węglowy w drodze decyzji administracyjnej, jeżeli w wyniku przeprowadzenia wywiadu środowiskowego organ ten ustalił zamieszkiwanie pod jednym adresem w odrębnych lokalach kilku gospodarstw domowych oraz wykorzystywanie przez te gospodarstwa oddzielnego lub współdzielonego źródła ogrzewania. Z przeprowadzonego wywiadu środowiskowego sporządza się notatkę służbową. Wójt, burmistrz albo prezydent miasta dokonuje wpisu źródła ciepła do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, jeżeli źródło nie było wcześniej zgłoszone do tej ewidencji, bez konieczności składania odpowiedniej deklaracji.
+
+3e. W przypadku gdy w lokalu, o którym mowa w ust. 3d, zamieszkuje więcej niż jedno gospodarstwo domowe, jeden dodatek węglowy przysługuje dla wszystkich gospodarstw domowych zamieszkujących w tym lokalu.”,
+
+- **b)** po ust. 15e dodaje się ust. 15f i 15g w brzmieniu: „15f. W przypadku posiadania informacji wskazujących, że osoba, która nie złożyła wniosku o wypłatę dodatku węglowego, spełnia warunki jego przyznania wynikające z ustawy, wójt, burmistrz albo prezydent miasta może przeprowadzić wywiad środowiskowy w celu ustalenia prawa do tego dodatku. Z przeprowadzonego wywiadu środowiskowego sporządza się notatkę służbową. W takim przypadku organ ten przyznaje dodatek w drodze decyzji administracyjnej z urzędu, bez konieczności składania wniosku oraz bez składania odpowiedniej deklaracji dokonuje wpisu źródła ciepła do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, jeżeli źródło nie było wcześniej zgłoszone do tej ewidencji. Przepis art. 3 ust. 2 stosuje się.
+
+15g. Dodatek węglowy przysługuje osobie w gospodarstwie domowym także, gdy główne źródło ogrzewania gospodarstwa domowego, o którym mowa w art. 2 ust. 1, nie zostało zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, do dnia 11 sierpnia 2022 r., a w wyniku przeprowadzenia wywiadu środowiskowego ustalono, że źródłem ogrzewania tego gospodarstwa jest źródło, o którym mowa w art. 2 ust. 1. Z przeprowadzonego wywiadu środowiskowego sporządza się notatkę służbową. Wpis do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, dokonywany jest przez wójta, burmistrza albo prezydenta miasta z urzędu bez konieczności składania odpowiedniej deklaracji.”;
+
+- **2)** w art. 27 w ust. 1 wyrazy „11 500 000 000 zł” zastępuje się wyrazami „13 500 000 000 zł”.
+
+**Art. 27.** W ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967, 2127 i 2185) wprowadza się następujące zmiany:
+
+- **1)** w art. 55 w ust. 3 w pkt 1 po wyrazach „art. 45” dodaje się wyrazy „ , oraz gminy w zakresie, o którym mowa w art. 5 ust. 4 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236)”;
+- **2)** po art. 56 dodaje się art. 56a w brzmieniu: „Art. 56a. 1. Obowiązany pośredniczący podmiot węglowy, o którym mowa w art. 2 ust. 1 pkt 23a ustawy zmienianej w art. 45, lub obowiązany podmiot, o którym mowa w art. 3 ust. 2, który:
+- **1)** nie dopełnia obowiązku wprowadzania i bieżącej aktualizacji informacji, o których mowa w art. 55 ust. 1,
+- **2)** nie tworzy konta, o którym mowa w art. 55 ust. 4 – podlega karze pieniężnej.
+
+2. Karę pieniężną, o której mowa w ust. 1, w wysokości do 1500 zł, nakłada w drodze decyzji administracyjnej, naczelnik urzędu celno-skarbowego właściwy ze względu na siedzibę podmiotu, o którym mowa w ust. 1.
+
+3. W przypadku stwierdzenia, że po wymierzeniu kary w wysokości, o której mowa w ust. 2, obowiązany podmiot, ponownie nie dopełnia obowiązku, o którym mowa w ust. 1 pkt 1 lub 2, kara, o której mowa w ust. 1, może zostać nałożona w wysokości do 15 000 zł.
+
+4. Wpływy z kar pieniężnych, o których mowa w ust. 1, stanowią dochód budżetu państwa.”.”;
+
+- **2)** art. 22 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz niektórych innych ustaw (Dz. U. poz. 877), który stanowi: „Art. 22. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 2, art. 5, art. 9–11 oraz art. 19, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 5 w zakresie art. 3b ust. 3 i pkt 18 w zakresie art. 40a pkt 3 oraz art. 7 pkt 4 w zakresie art. 14b i pkt 9, które wchodzą w życie z dniem 1 lipca 2024 r.;
+- **3)** art. 8 pkt 2, który wchodzi w życie z dniem 22 grudnia 2024 r.;
+- **4)** art. 8 pkt 1, który wchodzi w życie z dniem 30 marca 2025 r.”;
+- **3)** art. 84 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234), który stanowi: „Art. 84. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 3 ust. 1 pkt 7, art. 4 ust. 1 pkt 2 i 3 oraz ust. 2–6, art. 10 ust. 4 pkt 2 i art. 19 ust. 1 pkt 7 lit. b, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 73 ust. 1;
+- **2)** art. 23, art. 31 pkt 1 i 3–7, art. 39, art. 48, art. 51, art. 68 i art. 72, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 77 ust. 1;
+- **3)** art. 24, art. 25, art. 40 pkt 1–4, art. 52 pkt 4 w zakresie art. 113c, i art. 61–67, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 74 ust. 1;
+- **4)** art. 29, art. 36, art. 42, art. 45, art. 50, art. 52 pkt 4 w zakresie art. 113d, art. 55 i art. 59, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 76 ust. 1;
+- **5)** art. 32 pkt 1 i 2, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 78 ust. 1;
+- **6)** art. 39 pkt 4, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 80 ust. 1;
+- **7)** art. 37 pkt 1–4 i 6–11, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 75 ust. 1;
+- **8)** art. 49 pkt 1 i 2, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 81 ust. 1.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych
 
 **Art. 1.** Ustawa określa zasady, warunki i tryb:
 
-**Art. 2.** Ilekroć ustawie jest mowa o:
+- **1)** sprzedaży przez niektóre podmioty paliwa stałego z przeznaczeniem dla gospodarstw domowych;
+- **2)** zakupu preferencyjnego paliwa stałego;
+- **3)** przyznawania, ustalania wysokości i wypłacania niektórym podmiotom rekompensat z tytułu sprzedaży paliwa stałego, o której mowa w pkt 1, oraz właściwość organów w tych sprawach.
+
+**Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** gospodarstwie domowym – rozumie się przez to gospodarstwo domowe prowadzone przez:
+    - **a)** osobę fizyczną samotnie zamieszkującą i gospodarującą (gospodarstwo domowe jednoosobowe) albo
+    - **b)** osobę fizyczną oraz osoby z nią spokrewnione lub niespokrewnione pozostające w faktycznym związku, wspólnie z nią zamieszkujące i gospodarujące (gospodarstwo domowe wieloosobowe);
+
+- **2)** paliwie stałym – rozumie się przez to węgiel kamienny;
+- **3)** podmiocie wprowadzającym do obrotu – rozumie się przez to przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803, 1414 i 2029) wykonującego działalność gospodarczą w zakresie wprowadzania do obrotu paliwa stałego, określonego w przepisach wydanych na podstawie art. 3 ust. 12;
+- **4)** podmiocie wypłacającym – rozumie się przez to Zarządcę Rozliczeń S.A., o którym mowa w rozdziale 7 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311);
+- **5)** zakupie preferencyjnym – rozumie się przez to zakup paliwa stałego przez osoby fizyczne w gospodarstwie domowym na zasadach określonych w ustawie.
 
 **Art. 3.**
 
-1. W terminie do dnia 30 kwietnia 2023 r. podmiot wprowadzający do obrotu może sprzedawać gminom paliwo stałe, z przeznaczeniem do sprzedaży ramach zakupu preferencyjnego.
+1. W terminie do dnia 30 kwietnia 2023 r. podmiot wprowadzający do obrotu może sprzedawać gminom paliwo stałe, z przeznaczeniem do sprzedaży w ramach zakupu preferencyjnego.
 
-2. Podmiot wprowadzający do obrotu jest obowiązany do wystawienia faktury za sprzedaż paliwa stałego po cenie określonej umowie, której mowa 3, zgodnie z art. 106e 1 ustawy z dnia 11 marca 2004 r. podatku od towarów i usług (Dz. U. z 2023 r. poz. 1570, 1598 i 1852). Za datę sprzedaży uznaje się datę sprzedaży paliwa stałego zapisaną na fakturze.
+2. Podmiot wprowadzający do obrotu jest obowiązany do wystawienia faktury za sprzedaż paliwa stałego po cenie określonej w umowie, o której mowa w ust. 3, zgodnie z art. 106e ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2023 r. poz. 1570, 1598 i 1852). Za datę sprzedaży uznaje się datę sprzedaży paliwa stałego zapisaną na fakturze.
 
-3. Gmina, która zamierza dokonać zakupu paliwa stałego zgodnie z 1, zawiera umowę z podmiotem wprowadzającym do obrotu, po dokonaniu wstępnego ustalenia liczby gospodarstw domowych znajdujących się na terenie tej gminy zainteresowanych zakupem paliwa stałego ramach zakupu preferencyjnego.
+3. Gmina, która zamierza dokonać zakupu paliwa stałego zgodnie z ust. 1, zawiera umowę z podmiotem wprowadzającym do obrotu, po dokonaniu wstępnego ustalenia liczby gospodarstw domowych znajdujących się na terenie tej gminy zainteresowanych zakupem paliwa stałego w ramach zakupu preferencyjnego.
 
-4. Umowa, której mowa 3, zawiera co najmniej określenie:
+4. Umowa, o której mowa w ust. 3, zawiera co najmniej określenie:
 
 - **1)** stron tej umowy;
-- **2)** sortymentu paliwa stałego i jego ilości wyrażonej tonach;
+- **2)** sortymentu paliwa stałego i jego ilości wyrażonej w tonach;
 - **3)** ceny paliwa stałego za tonę;
 - **4)** terminu dokonania przez gminę płatności z tytułu zakupu paliwa stałego;
 - **5)** sposobu, warunków i terminu odbioru od podmiotu wprowadzającego do obrotu paliwa stałego przez gminę.
 
-5. Do umowy, której mowa 3, dołącza się kopię najbardziej aktualnego certyfikatu jakości potwierdzającego parametry jakościowe paliwa stałego.
+5. Do umowy, o której mowa w ust. 3, dołącza się kopię najbardziej aktualnego certyfikatu jakości potwierdzającego parametry jakościowe paliwa stałego.
 
-6. Gmina odbiera paliwo stałe będące przedmiotem umowy, której mowa 3, z położonego na terytorium Rzeczypospolitej Polskiej miejsca jego składowania przez podmiot wprowadzający do obrotu. stałego. Do ceny tej nie wlicza się kosztów transportu paliwa stałego z położonego na terytorium Rzeczypospolitej Polskiej miejsca składowania przez podmiot wprowadzający do obrotu tego paliwa stałego do miejsca jego składowania przez gminę.
+6. Gmina odbiera paliwo stałe będące przedmiotem umowy, o której mowa w ust. 3, z położonego na terytorium Rzeczypospolitej Polskiej miejsca jego składowania przez podmiot wprowadzający do obrotu.
 
-8. Termin dokonania przez gminę płatności z tytułu realizacji umowy, której mowa 3, wynosi 60 dni liczonych od dnia wydania paliwa stałego na rzecz gminy, której mowa 3.
+7. Cena paliwa stałego, o której mowa w ust. 4 pkt 3, nie może być wyższa niż 1500 złotych brutto za tonę paliwa stałego. Do ceny tej nie wlicza się kosztów transportu paliwa stałego z położonego na terytorium Rzeczypospolitej Polskiej miejsca składowania przez podmiot wprowadzający do obrotu tego paliwa stałego do miejsca jego składowania przez gminę.
 
-9. Do umowy, której mowa 3, nie stosuje się przepisów art. 8 2 i 4 ustawy z dnia 8 marca 2013 r. przeciwdziałaniu nadmiernym opóźnieniom transakcjach handlowych (Dz. U. z 2023 r. poz. 1790).
+8. Termin dokonania przez gminę płatności z tytułu realizacji umowy, o której mowa w ust. 3, wynosi 60 dni liczonych od dnia wydania paliwa stałego na rzecz gminy, o której mowa w ust. 3.
 
-10. Gminy mogą dokonywać wspólnego zakupu paliwa stałego ramach umowy zawartej między gminami.
+9. Do umowy, o której mowa w ust. 3, nie stosuje się przepisów art. 8 ust. 2 i 4 ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790).
 
-11. W umowie, której mowa 10, gminy określają szczególności:
+10. Gminy mogą dokonywać wspólnego zakupu paliwa stałego w ramach umowy zawartej między gminami.
+
+11. W umowie, o której mowa w ust. 10, gminy określają w szczególności:
 
 - **1)** która gmina jest właściwa do zakupu paliwa stałego;
 - **2)** na terenie której gminy paliwo stałe będzie składowane lub wydawane gospodarstwom domowym znajdującym się na terenie tych gmin;
 - **3)** podział zadań między organami gmin będących stroną tej umowy;
 - **4)** zasady rozliczania kosztów poniesionych przez każdą z gmin.
 
-12. Minister właściwy do spraw aktywów państwowych określi, drodze rozporządzenia, wykaz podmiotów wprowadzających do obrotu uprawnionych do prowadzenia sprzedaży, której mowa 1, biorąc pod uwagę zdolność podmiotu wprowadzającego do obrotu do zapewnienia dostaw paliwa stałego oraz zaspokojenie podstawowych potrzeb gospodarstw domowych odniesieniu do dostępności paliwa stałego.
+12. Minister właściwy do spraw aktywów państwowych określi, w drodze rozporządzenia, wykaz podmiotów wprowadzających do obrotu uprawnionych do prowadzenia sprzedaży, o której mowa w ust. 1, biorąc pod uwagę zdolność podmiotu wprowadzającego do obrotu do zapewnienia dostaw paliwa stałego oraz zaspokojenie podstawowych potrzeb gospodarstw domowych w odniesieniu do dostępności paliwa stałego.
 
 **Art. 4.**
 
-1. W przypadku gdy dana gmina nie zawrze umowy, której mowa art. 3 3, sprzedaż paliwa stałego ramach zakupu preferencyjnego na rzecz osób fizycznych gospodarstwach domowych znajdujących się na terenie tej gminy może być prowadzona przez gminę bezpośrednio sąsiadującą z gminą właściwą ze względu na miejsce zamieszkania osoby fizycznej gospodarstwie domowym, zwaną dalej „gminą sąsiednią”, lub przez inny podmiot będący pośredniczącym podmiotem węglowym, którym mowa art. 2 1 pkt 23a ustawy z dnia 6 grudnia 2008 r. podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723), zwany dalej „innym podmiotem”.
+1. W przypadku gdy dana gmina nie zawrze umowy, o której mowa w art. 3 ust. 3, sprzedaż paliwa stałego w ramach zakupu preferencyjnego na rzecz osób fizycznych w gospodarstwach domowych znajdujących się na terenie tej gminy może być prowadzona przez gminę bezpośrednio sąsiadującą z gminą właściwą ze względu na miejsce zamieszkania osoby fizycznej w gospodarstwie domowym, zwaną dalej „gminą sąsiednią”, lub przez inny podmiot będący pośredniczącym podmiotem węglowym, o którym mowa w art. 2 ust. 1 pkt 23a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723), zwany dalej „innym podmiotem”.
 
-2. Gmina sąsiednia albo inny podmiot zawierają z podmiotem wprowadzającym do obrotu umowę, której mowa art. 3 3.
+2. Gmina sąsiednia albo inny podmiot zawierają z podmiotem wprowadzającym do obrotu umowę, o której mowa w art. 3 ust. 3.
 
-3. Inny podmiot może przystąpić do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych celu jego sprzedaży ramach zakupu preferencyjnego:
+3. Inny podmiot może przystąpić do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych w celu jego sprzedaży w ramach zakupu preferencyjnego:
 
 - **1)** samodzielnie albo
 - **2)** we współpracy z drugim innym podmiotem albo kilkoma innymi podmiotami.
 
-4. W przypadku, którym mowa 3 pkt 2, umowa, której mowa art. 3 3, jest zawierana między podmiotem wprowadzającym do obrotu a współpracującymi innymi podmiotami.
+4. W przypadku, o którym mowa w ust. 3 pkt 2, umowa, o której mowa w art. 3 ust. 3, jest zawierana między podmiotem wprowadzającym do obrotu a współpracującymi innymi podmiotami.
 
-5. Do innego podmiotu albo innych współpracujących podmiotów nie stosuje się przepisów art. 3 8–10.
+5. Do innego podmiotu albo innych współpracujących podmiotów nie stosuje się przepisów art. 3 ust. 8–10.
 
-6. Podmiot wprowadzający do obrotu będący innym podmiotem lub który zawarł umowę, której mowa art. 3 3, z innym podmiotem albo współpracującymi innymi podmiotami niezwłocznie informuje wójta, burmistrza albo prezydenta miasta gminy, na której terenie inny podmiot albo współpracujące inne podmioty będą sprzedawać paliwo stałe nabyte na podstawie tej umowy na rzecz osób fizycznych gospodarstwach domowych na terenie tej gminy, innym podmiocie albo współpracujących innych podmiotach, podając ich firmy i siedziby, na piśmie utrwalonym postaci papierowej lub elektronicznej.
+6. Podmiot wprowadzający do obrotu będący innym podmiotem lub który zawarł umowę, o której mowa w art. 3 ust. 3, z innym podmiotem albo współpracującymi innymi podmiotami niezwłocznie informuje wójta, burmistrza albo prezydenta miasta gminy, na której terenie inny podmiot albo współpracujące inne podmioty będą sprzedawać paliwo stałe nabyte na podstawie tej umowy na rzecz osób fizycznych w gospodarstwach domowych na terenie tej gminy, o innym podmiocie albo współpracujących innych podmiotach, podając ich firmy i siedziby, na piśmie utrwalonym w postaci papierowej lub elektronicznej.
 
-7. Informacja firmie i siedzibie innego podmiotu albo współpracujących innych podmiotów, którzy będą sprzedawać paliwo stałe nabyte na podstawie umowy, której mowa art. 3 3, na rzecz osób fizycznych gospodarstwach domowych na terenie danej gminy jest zamieszczana na stronie podmiotowej tej gminy Biuletynie Informacji Publicznej.
+7. Informacja o firmie i siedzibie innego podmiotu albo współpracujących innych podmiotów, którzy będą sprzedawać paliwo stałe nabyte na podstawie umowy, o której mowa w art. 3 ust. 3, na rzecz osób fizycznych w gospodarstwach domowych na terenie danej gminy jest zamieszczana na stronie podmiotowej tej gminy w Biuletynie Informacji Publicznej.
 
-8. Cena paliwa stałego, po której inny podmiot sprzedaje paliwo stałe nabyte na podstawie umowy, której mowa art. 3 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego ramach zakupu preferencyjnego na podstawie umowy sprzedaży ramach zakupu preferencyjnego, na rzecz osób fizycznych gospodarstwach domowych nie może być wyższa niż 2200 złotych brutto za tonę paliwa stałego. umowy, której mowa art. 3 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego ramach zakupu preferencyjnego na podstawie umowy sprzedaży ramach zakupu preferencyjnego, na rzecz osób fizycznych gospodarstwach domowych nie może doliczać żadnych dodatkowych kosztów i opłat obciążających osobę fizyczną gospodarstwie domowym nabywającą to paliwo stałe, z wyłączeniem kosztów transportu paliwa stałego z miejsca jego składowania przez ten inny podmiot do gospodarstwa domowego przypadku, gdy osoba fizyczna gospodarstwie domowym skorzysta z usługi transportu oferowanej przez ten inny podmiot, przy czym skorzystanie z tej usługi nie może warunkować sprzedaży tego paliwa stałego i jego wydania przez inny podmiot.
+8. Cena paliwa stałego, po której inny podmiot sprzedaje paliwo stałe nabyte na podstawie umowy, o której mowa w art. 3 ust. 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego w ramach zakupu preferencyjnego – na podstawie umowy sprzedaży w ramach zakupu preferencyjnego, na rzecz osób fizycznych w gospodarstwach domowych nie może być wyższa niż 2200 złotych brutto za tonę paliwa stałego.
+
+9. Do ceny paliwa stałego, o której mowa w ust. 8, inny podmiot, który sprzedaje paliwo stałe nabyte na podstawie umowy, o której mowa w art. 3 ust. 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego w ramach zakupu preferencyjnego – na podstawie umowy sprzedaży w ramach zakupu preferencyjnego, na rzecz osób fizycznych w gospodarstwach domowych nie może doliczać żadnych dodatkowych kosztów i opłat obciążających osobę fizyczną w gospodarstwie domowym nabywającą to paliwo stałe, z wyłączeniem kosztów transportu paliwa stałego z miejsca jego składowania przez ten inny podmiot do gospodarstwa domowego w przypadku, gdy osoba fizyczna w gospodarstwie domowym skorzysta z usługi transportu oferowanej przez ten inny podmiot, przy czym skorzystanie z tej usługi nie może warunkować sprzedaży tego paliwa stałego i jego wydania przez inny podmiot.
 
 **Art. 5.**
 
-1. Paliwo stałe nabyte przez gminę na podstawie umowy, której mowa art. 3 3, podlega sprzedaży ramach zakupu preferencyjnego celu zaspokojenia potrzeb własnych gospodarstw domowych znajdujących się na terenie danej gminy, a przypadku gmin, które zawarły umowę określoną art. 3 10 celu zaspokojenia potrzeb własnych gospodarstw domowych znajdujących się na terenie gmin objętych tą umową.
+1. Paliwo stałe nabyte przez gminę na podstawie umowy, o której mowa w art. 3 ust. 3, podlega sprzedaży w ramach zakupu preferencyjnego w celu zaspokojenia potrzeb własnych gospodarstw domowych znajdujących się na terenie danej gminy, a w przypadku gmin, które zawarły umowę określoną w art. 3 ust. 10 – w celu zaspokojenia potrzeb własnych gospodarstw domowych znajdujących się na terenie gmin objętych tą umową.
 
-2. Gmina sprzedaje paliwo stałe ramach zakupu preferencyjnego po cenie nie wyższej niż 2000 złotych brutto za tonę tego paliwa stałego.
+2. Gmina sprzedaje paliwo stałe w ramach zakupu preferencyjnego po cenie nie wyższej niż 2000 złotych brutto za tonę tego paliwa stałego.
 
-3. Do ceny, której mowa 2, nie wlicza się kosztów transportu paliwa stałego z miejsca składowania gminie do gospodarstwa domowego.
+3. Do ceny, o której mowa w ust. 2, nie wlicza się kosztów transportu paliwa stałego z miejsca składowania w gminie do gospodarstwa domowego.
 
-4. Gmina wprowadza i aktualizuje systemie teleinformatycznym, którym mowa art. 55 ustawy z dnia 15 września 2022 r. szczególnych rozwiązaniach zakresie niektórych źródeł ciepła związku z sytuacją na rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760), informacje cenie, której mowa 2.
+4. Gmina wprowadza i aktualizuje w systemie teleinformatycznym, o którym mowa w art. 55 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760), informacje o cenie, o której mowa w ust. 2.
 
-5. Gmina może prowadzić sprzedaż, której mowa 1:
+5. Gmina może prowadzić sprzedaż, o której mowa w ust. 1:
 
 - **1)** za pośrednictwem jednostki organizacyjnej gminy;
-- **2)** ramach umowy, której mowa art. 3 10;
-- **3)** za pośrednictwem spółek, których mowa art. 9 1 ustawy z dnia 20 grudnia 1996 r. gospodarce komunalnej (Dz. U. z 2021 r. poz. 679), lub
-- **4)** ramach umowy z innym podmiotem, którym mowa art. 9 ustawy z dnia 8 marca 1990 r. samorządzie gminnym (Dz. U. z 2023 r. poz. 40, 572, 1463 i 1688).
+- **2)** w ramach umowy, o której mowa w art. 3 ust. 10;
+- **3)** za pośrednictwem spółek, o których mowa w art. 9 ust. 1 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 2021 r. poz. 679), lub
+- **4)** w ramach umowy z innym podmiotem, o którym mowa w art. 9 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2023 r. poz. 40, 572, 1463 i 1688).
 
-6. Do gminy oraz podmiotów, których mowa 5 pkt 1, 3 i 4, nie stosuje się przepisów:
+6. Do gminy oraz podmiotów, o których mowa w ust. 5 pkt 1, 3 i 4, nie stosuje się przepisów:
 
-- **1)** art. 16, art. 21a 1, art. 24e 1 pkt 1, art. 31a 3 pkt 1 lit. a, 3g i 3j oraz art. 138i ustawy z dnia 6 grudnia 2008 r. podatku akcyzowym zakresie paliw stałych;
-- **2)** art. 13 ustawy z dnia 13 kwietnia 2022 r. szczególnych rozwiązaniach zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. z 2023 r. poz. 1497 i 1859).
+- **1)** art. 16, art. 21a ust. 1, art. 24e ust. 1 pkt 1, art. 31a ust. 3 pkt 1 lit. a, ust. 3g i ust. 3j oraz art. 138i ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym w zakresie paliw stałych;
+- **2)** art. 13 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. z 2023 r. poz. 1497 i 1859).
 
-7. Różnica między określoną umowie, której mowa art. 3 3, ceną zakupu paliwa stałego przez gminę a ceną sprzedaży tego paliwa stałego ramach zakupu preferencyjnego stanowi dochód gminy.
+7. Różnica między określoną w umowie, o której mowa w art. 3 ust. 3, ceną zakupu paliwa stałego przez gminę a ceną sprzedaży tego paliwa stałego w ramach zakupu preferencyjnego stanowi dochód gminy.
 
-8. Prowadzenie przez gminę sprzedaży, której mowa 1, za pośrednictwem podmiotów, których mowa 5 pkt 1 i 3, nie wymaga zmian ich statutów, innych dokumentów powołujących lub regulaminów organizacyjnych.
+8. Prowadzenie przez gminę sprzedaży, o której mowa w ust. 1, za pośrednictwem podmiotów, o których mowa w ust. 5 pkt 1 i 3, nie wymaga zmian ich statutów, innych dokumentów powołujących lub regulaminów organizacyjnych.
 
 **Art. 6.**
 
-1. Do zamówień udzielanych celu realizacji zadań określonych przepisach niniejszej ustawy nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720).
+1. Do zamówień udzielanych w celu realizacji zadań określonych w przepisach niniejszej ustawy nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720).
 
-2. Zamawiający, terminie 7 dni od dnia udzielenia zamówienia, którym mowa 1, zamieszcza Biuletynie Zamówień Publicznych informację udzieleniu tego zamówienia, której podaje:
+2. Zamawiający, w terminie 7 dni od dnia udzielenia zamówienia, o którym mowa w ust. 1, zamieszcza w Biuletynie Zamówień Publicznych informację o udzieleniu tego zamówienia, w której podaje:
 
 - **1)** nazwę (firmę) i adres siedziby zamawiającego;
-- **2)** datę i miejsce zawarcia umowy lub informację zawarciu umowy drogą elektroniczną;
+- **2)** datę i miejsce zawarcia umowy lub informację o zawarciu umowy drogą elektroniczną;
 - **3)** opis przedmiotu umowy, z wyszczególnieniem odpowiednio ilości rzeczy lub innych dóbr oraz zakresu usług;
-- **4)** cenę albo cenę maksymalną, jeżeli cena nie jest znana chwili zamieszczenia ogłoszenia;
-- **5)** wskazanie okoliczności faktycznych uzasadniających udzielenie zamówienia bez zastosowania przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych;
-- **6)** nazwę (firmę) podmiotu albo imię i nazwisko osoby, z którymi została zawarta umowa. Kodeks karny (Dz. U. z 2024 r. poz. 17), osoba obowiązana do zajmowania się sprawami majątkowymi lub działalnością gospodarczą podmiotu wprowadzającego do obrotu, która podjęła lub wykonała decyzję sprzedaży gminie, podmiotowi, którym mowa art. 5 5, lub innemu podmiotowi paliwa stałego na warunkach określonych ustawie z przeznaczeniem do sprzedaży gospodarstwom domowym ramach zakupu preferencyjnego.
+- **4)** cenę albo cenę maksymalną, jeżeli cena nie jest znana w chwili zamieszczenia ogłoszenia;
+- **5)** wskazanie okoliczności faktycznych uzasadniających udzielenie zamówienia bez zastosowania przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych;
+- **6)** nazwę (firmę) podmiotu albo imię i nazwisko osoby, z którymi została zawarta umowa.
 
-2. Członek zarządu, rady nadzorczej, komisji rewizyjnej lub likwidator podmiotu wprowadzającego do obrotu, nie ponosi odpowiedzialności na podstawie art. 293 § 1 albo art. 483 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18) za szkody powstałe wyniku sprzedaży gminie, podmiotowi, którym mowa art. 5 5, lub innemu podmiotowi paliwa stałego na warunkach określonych ustawie z przeznaczeniem dla gospodarstw domowych ramach zakupu preferencyjnego.
+**Art. 7.**
+
+1. Nie popełnia przestępstwa, o którym mowa w art. 296 § 1, 1a, 3 lub 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17), osoba obowiązana do zajmowania się sprawami majątkowymi lub działalnością gospodarczą podmiotu wprowadzającego do obrotu, która podjęła lub wykonała decyzję o sprzedaży gminie, podmiotowi, o którym mowa w art. 5 ust. 5, lub innemu podmiotowi paliwa stałego na warunkach określonych w ustawie z przeznaczeniem do sprzedaży gospodarstwom domowym w ramach zakupu preferencyjnego.
+
+2. Członek zarządu, rady nadzorczej, komisji rewizyjnej lub likwidator podmiotu wprowadzającego do obrotu, nie ponosi odpowiedzialności na podstawie art. 293 § 1 albo art. 483 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18) za szkody powstałe w wyniku sprzedaży gminie, podmiotowi, o którym mowa w art. 5 ust. 5, lub innemu podmiotowi paliwa stałego na warunkach określonych w ustawie z przeznaczeniem dla gospodarstw domowych w ramach zakupu preferencyjnego.
 
 **Art. 8.**
 
-1. Do dokonania zakupu preferencyjnego jest uprawniona osoba fizyczna gospodarstwie domowym, która spełnia warunki uprawniające do dodatku węglowego, którym mowa art. 2 1 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym (Dz. U. z 2023 r. poz. 1630).
+1. Do dokonania zakupu preferencyjnego jest uprawniona osoba fizyczna w gospodarstwie domowym, która spełnia warunki uprawniające do dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2023 r. poz. 1630).
 
-2. Minister właściwy do spraw aktywów państwowych określi, drodze rozporządzenia, ilość paliwa stałego dostępną dla jednego gospodarstwa domowego ramach zakupu preferencyjnego odpowiednio okresie:
+2. Minister właściwy do spraw aktywów państwowych określi, w drodze rozporządzenia, ilość paliwa stałego dostępną dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego odpowiednio w okresie:
 
 - **1)** do dnia 31 grudnia 2022 r.,
-- **2)** od dnia 1 stycznia 2023 r. uwzględniając ilość paliwa stałego będącego posiadaniu podmiotów wprowadzających do obrotu oraz konieczność zaspokojenia podstawowych potrzeb gospodarstw domowych odniesieniu do dostępności paliwa stałego.
+- **2)** od dnia 1 stycznia 2023 r. – uwzględniając ilość paliwa stałego będącego w posiadaniu podmiotów wprowadzających do obrotu oraz konieczność zaspokojenia podstawowych potrzeb gospodarstw domowych w odniesieniu do dostępności paliwa stałego.
 
 **Art. 9.**
 
 1. W przypadku gdy zakup preferencyjny paliwa stałego następuje:
 
-- **1)** gminie właściwej ze względu na miejsce zamieszkania osoby fizycznej gospodarstwie domowym zakupu preferencyjnego dokonuje się na wniosek zakup preferencyjny, zwany dalej „wnioskiem zakup”;
-- **2)** gminie sąsiedniej albo od innego podmiotu zakupu preferencyjnego dokonuje się po przedstawieniu zaświadczenia, wystawionego przez wójta, burmistrza albo prezydenta miasta właściwego ze względu na miejsce zamieszkania osoby fizycznej gospodarstwie domowym, którym mowa art. 13.
+- **1)** w gminie właściwej ze względu na miejsce zamieszkania osoby fizycznej w gospodarstwie domowym – zakupu preferencyjnego dokonuje się na wniosek o zakup preferencyjny, zwany dalej „wnioskiem o zakup”;
+- **2)** w gminie sąsiedniej albo od innego podmiotu – zakupu preferencyjnego dokonuje się po przedstawieniu zaświadczenia, wystawionego przez wójta, burmistrza albo prezydenta miasta właściwego ze względu na miejsce zamieszkania osoby fizycznej w gospodarstwie domowym, o którym mowa w art. 13.
 
-2. Osoba fizyczna gospodarstwie domowym, której mowa art. 8 1, może złożyć wniosek zakup albo wniosek wydanie zaświadczenia, wystawionego przez wójta, burmistrza albo prezydenta miasta właściwego ze względu na miejsce zamieszkania osoby fizycznej gospodarstwie domowym, którym mowa art. 13, najpóźniej do dnia 15 kwietnia 2023 r.
+2. Osoba fizyczna w gospodarstwie domowym, o której mowa w art. 8 ust. 1, może złożyć wniosek o zakup albo wniosek o wydanie zaświadczenia, wystawionego przez wójta, burmistrza albo prezydenta miasta właściwego ze względu na miejsce zamieszkania osoby fizycznej w gospodarstwie domowym, o którym mowa w art. 13, najpóźniej do dnia 15 kwietnia 2023 r.
 
 **Art. 10.**
 
-1. Wniosek zakup zawiera:
+1. Wniosek o zakup zawiera:
 
 - **1)** imię i nazwisko wnioskodawcy;
 - **2)** adres, pod którym jest prowadzone gospodarstwo domowe, na rzecz którego jest dokonywany zakup preferencyjny;
 - **3)** adres poczty elektronicznej lub numer telefonu wnioskodawcy;
-- **4)** określenie ilości paliwa stałego, zakup której występuje wnioskodawca ramach zakupu preferencyjnego;
-- **5)** informację, czy wnioskodawca dokonał już zakupu preferencyjnego wraz z podaniem ilości paliwa stałego nabytego ramach tego zakupu preferencyjnego;
-- **6)** oświadczenie, że wnioskodawca ani żaden członek jego gospodarstwa domowego, na rzecz którego jest dokonywany zakup preferencyjny, nie nabyli paliwa stałego na sezon grzewczy przypadający na lata 2022–2023, po cenie niższej niż 2000 zł brutto za tonę ilości co najmniej takiej jak określona przepisach wydanych na podstawie art. 8 2:
-    - **a)** pkt 1 przypadku gdy wniosek dotyczy zakupu do dnia 31 grudnia 2022 r.,
-    - **b)** pkt 1 i 2 łącznie przypadku gdy wniosek dotyczy zakupu od dnia 1 stycznia 2023 r.
+- **4)** określenie ilości paliwa stałego, o zakup której występuje wnioskodawca w ramach zakupu preferencyjnego;
+- **5)** informację, czy wnioskodawca dokonał już zakupu preferencyjnego wraz z podaniem ilości paliwa stałego nabytego w ramach tego zakupu preferencyjnego;
+- **6)** oświadczenie, że wnioskodawca ani żaden członek jego gospodarstwa domowego, na rzecz którego jest dokonywany zakup preferencyjny, nie nabyli paliwa stałego na sezon grzewczy przypadający na lata 2022–2023, po cenie niższej niż 2000 zł brutto za tonę w ilości co najmniej takiej jak określona w przepisach wydanych na podstawie art. 8 ust. 2:
+    - **a)** pkt 1 – w przypadku gdy wniosek dotyczy zakupu do dnia 31 grudnia 2022 r.,
+    - **b)** pkt 1 i 2 łącznie – w przypadku gdy wniosek dotyczy zakupu od dnia 1 stycznia 2023 r.
 
-2. Informacje przedstawione we wniosku zakup składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie odpowiedzialności karnej za składanie fałszywych oświadczeń. art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
+2. Informacje przedstawione we wniosku o zakup składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-2. W przypadku złożenia wniosku zakup za pomocą środków komunikacji elektronicznej wniosek zakup opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+**Art. 11.**
 
-3. Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie wniosku zakup za jego pośrednictwem za pomocą środków komunikacji elektronicznej, tym przy użyciu aplikacji mObywatel rozumieniu ustawy z dnia 26 maja 2023 r. aplikacji mObywatel (Dz. U. poz. 1234).
+1. Wniosek o zakup składa się na piśmie lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
 
-4. Wniosek zakup złożony przy użyciu aplikacji mObywatel opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu wnioskodawcy z wykorzystaniem certyfikatu podstawowego, którym mowa art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. aplikacji mObywatel.
+2. W przypadku złożenia wniosku o zakup za pomocą środków komunikacji elektronicznej wniosek o zakup opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+3. Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie wniosku o zakup za jego pośrednictwem za pomocą środków komunikacji elektronicznej, w tym przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234).
+
+4. Wniosek o zakup złożony przy użyciu aplikacji mObywatel opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu wnioskodawcy z wykorzystaniem certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel.
 
 **Art. 12.**
 
-1. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku zakup, szczególności zakresie wypłacenia na rzecz gospodarstwa domowego, skład którego wchodzi wnioskodawca, dodatku węglowego, którym mowa art. 2 1 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym, lub pozytywnego rozpatrzenia wniosku wypłatę na rzecz tego gospodarstwa domowego dodatku węglowego.
+1. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku o zakup, w szczególności w zakresie wypłacenia na rzecz gospodarstwa domowego, w skład którego wchodzi wnioskodawca, dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym, lub pozytywnego rozpatrzenia wniosku o wypłatę na rzecz tego gospodarstwa domowego dodatku węglowego.
 
-2. W przypadku gdy wnioskodawcą jest osoba fizyczna gospodarstwie domowym spełniająca warunki uprawniające do dodatku węglowego, którym mowa art. 2 1 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym, która nie złożyła wniosku wypłatę tego dodatku, wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku zakup szczególności zakresie zgłoszenia lub wpisania głównego źródła ogrzewania centralnej ewidencji emisyjności budynków, której mowa art. 27a 1 ustawy z dnia 21 listopada 2008 r. wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496). Przepisy art. 2 3a–7 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym stosuje się odpowiednio.
+2. W przypadku gdy wnioskodawcą jest osoba fizyczna w gospodarstwie domowym spełniająca warunki uprawniające do dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym, która nie złożyła wniosku o wypłatę tego dodatku, wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku o zakup w szczególności w zakresie zgłoszenia lub wpisania głównego źródła ogrzewania w centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496). Przepisy art. 2 ust. 3a–7 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym stosuje się odpowiednio.
 
-3. Dokonując weryfikacji wniosku zakup, wójt, burmistrz albo prezydent miasta bierze pod uwagę również dane zgromadzone rejestrze PESEL oraz rejestrze mieszkańców, których mowa odpowiednio art. 6 1 i art. 6a 1 ustawy z dnia 24 września 2010 r. ewidencji ludności (Dz. U. z 2022 r. poz. 1191 oraz z 2023 r. poz. 497, 1394 i 1941).
+3. Dokonując weryfikacji wniosku o zakup, wójt, burmistrz albo prezydent miasta bierze pod uwagę również dane zgromadzone w rejestrze PESEL oraz rejestrze mieszkańców, o których mowa odpowiednio w art. 6 ust. 1 i art. 6a ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2022 r. poz. 1191 oraz z 2023 r. poz. 497, 1394 i 1941).
 
-4. Wójt, burmistrz albo prezydent miasta może, na piśmie utrwalonym postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a przypadku przekształcenia ośrodka pomocy społecznej centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań sprawach dotyczących weryfikacji wniosku zakup.
+4. Wójt, burmistrz albo prezydent miasta może, na piśmie utrwalonym w postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) – dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań w sprawach dotyczących weryfikacji wniosku o zakup.
 
 **Art. 13.**
 
-1. W przypadku gdy zakup preferencyjny paliwa stałego następuje gminie sąsiedniej albo od innego podmiotu osoba fizyczna gospodarstwie domowym, której mowa art. 8 1, składa do wójta, burmistrza albo prezydenta miasta, wniosek wydanie zaświadczenia potwierdzającego wypłacenie na rzecz gospodarstwa domowego, skład którego wchodzi ta osoba fizyczna, dodatku węglowego, którym mowa art. 2 1 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym, albo pozytywnego rozpatrzenia wniosku wypłatę na rzecz tego gospodarstwa domowego dodatku węglowego, zwanego dalej „zaświadczeniem”.
+1. W przypadku gdy zakup preferencyjny paliwa stałego następuje w gminie sąsiedniej albo od innego podmiotu osoba fizyczna w gospodarstwie domowym, o której mowa w art. 8 ust. 1, składa do wójta, burmistrza albo prezydenta miasta, wniosek o wydanie zaświadczenia potwierdzającego wypłacenie na rzecz gospodarstwa domowego, w skład którego wchodzi ta osoba fizyczna, dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym, albo pozytywnego rozpatrzenia wniosku o wypłatę na rzecz tego gospodarstwa domowego dodatku węglowego, zwanego dalej „zaświadczeniem”.
 
-2. Do wniosku dołącza się oświadczenie, że wnioskodawca ani żaden członek jego gospodarstwa domowego, na rzecz którego jest dokonywany zakup preferencyjny, nie nabyli paliwa stałego na sezon grzewczy przypadający na lata 2022–2023, po cenie niższej niż 2000 zł brutto za tonę ilości co najmniej takiej jak określona przepisach wydanych na podstawie art. 8 2:
+2. Do wniosku dołącza się oświadczenie, że wnioskodawca ani żaden członek jego gospodarstwa domowego, na rzecz którego jest dokonywany zakup preferencyjny, nie nabyli paliwa stałego na sezon grzewczy przypadający na lata 2022–2023, po cenie niższej niż 2000 zł brutto za tonę w ilości co najmniej takiej jak określona w przepisach wydanych na podstawie art. 8 ust. 2:
 
-- **1)** pkt 1 przypadku gdy wniosek dotyczy zakupu do dnia 31 grudnia 2022 r.;
-- **2)** pkt 1 i 2 łącznie przypadku gdy wniosek dotyczy zakupu od dnia 1 stycznia 2023 r.
+- **1)** pkt 1 – w przypadku gdy wniosek dotyczy zakupu do dnia 31 grudnia 2022 r.;
+- **2)** pkt 1 i 2 łącznie – w przypadku gdy wniosek dotyczy zakupu od dnia 1 stycznia 2023 r.
 
-3. Oświadczenie, którym mowa 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
+3. Oświadczenie, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-- **1)** imię i nazwisko osoby fizycznej gospodarstwie domowym, której jest wydawane zaświadczenie;
-- **2)** adres, pod którym jest prowadzone gospodarstwo domowe, skład którego wchodzi osoba fizyczna, której jest wydawane zaświadczenie;
+4. Zaświadczenie zawiera:
+
+- **1)** imię i nazwisko osoby fizycznej w gospodarstwie domowym, której jest wydawane zaświadczenie;
+- **2)** adres, pod którym jest prowadzone gospodarstwo domowe, w skład którego wchodzi osoba fizyczna, której jest wydawane zaświadczenie;
 - **3)** informację o:
-    - **a)** wypłaceniu na rzecz gospodarstwa domowego, skład którego wchodzi osoba fizyczna, której jest wydawane zaświadczenie, dodatku węglowego, którym mowa art. 2 1 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym, albo
-    - **b)** pozytywnym rozpatrzeniu wniosku wypłatę na rzecz gospodarstwa domowego, skład którego wchodzi osoba fizyczna, której jest wydawane zaświadczenie, dodatku węglowego, którym mowa art. 2 1 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym.
+    - **a)** wypłaceniu na rzecz gospodarstwa domowego, w skład którego wchodzi osoba fizyczna, której jest wydawane zaświadczenie, dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym, albo
+    - **b)** pozytywnym rozpatrzeniu wniosku o wypłatę na rzecz gospodarstwa domowego, w skład którego wchodzi osoba fizyczna, której jest wydawane zaświadczenie, dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym.
 
-5. W przypadku gdy z wnioskiem wydanie zaświadczenia wystąpiła osoba fizyczna gospodarstwie domowym spełniająca warunki uprawniające do dodatku węglowego, którym mowa art. 2 1 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym, która nie złożyła wniosku wypłatę tego dodatku, wójt, burmistrz albo prezydent miasta dokonuje weryfikacji tego wniosku zakresie zgłoszenia lub wpisania głównego źródła ogrzewania centralnej ewidencji emisyjności budynków, której mowa art. 27a 1 ustawy z dnia 21 listopada 2008 r. wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków. Przepisy art. 2 3a–7 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym oraz art. 12 3 stosuje się odpowiednio.
+5. W przypadku gdy z wnioskiem o wydanie zaświadczenia wystąpiła osoba fizyczna w gospodarstwie domowym spełniająca warunki uprawniające do dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym, która nie złożyła wniosku o wypłatę tego dodatku, wójt, burmistrz albo prezydent miasta dokonuje weryfikacji tego wniosku w zakresie zgłoszenia lub wpisania głównego źródła ogrzewania w centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków. Przepisy art. 2 ust. 3a–7 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym oraz art. 12 ust. 3 stosuje się odpowiednio.
 
-6. W przypadku, którym mowa 5, wójt, burmistrz albo prezydent miasta zaświadczeniu, miejsce informacji, której mowa 4 pkt 3, podaje informację potwierdzającą, że główne źródło ogrzewania gospodarstwa domowego, skład którego wchodzi osoba fizyczna, której jest wydawane zaświadczenie, jest zgodne z art. 2 1 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym.
+6. W przypadku, o którym mowa w ust. 5, wójt, burmistrz albo prezydent miasta w zaświadczeniu, w miejsce informacji, o której mowa w ust. 4 pkt 3, podaje informację potwierdzającą, że główne źródło ogrzewania gospodarstwa domowego, w skład którego wchodzi osoba fizyczna, której jest wydawane zaświadczenie, jest zgodne z art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym.
 
-7. Wójt, burmistrz albo prezydent miasta wydaje zaświadczenie terminie 14 dni od dnia złożenia wniosku. Wydanie zaświadczenia jest wolne od opłat.
+7. Wójt, burmistrz albo prezydent miasta wydaje zaświadczenie w terminie 14 dni od dnia złożenia wniosku. Wydanie zaświadczenia jest wolne od opłat.
 
-8. Wójt, burmistrz albo prezydent miasta może, na piśmie utrwalonym postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a przypadku przekształcenia ośrodka pomocy społecznej centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. realizowaniu usług społecznych przez centrum usług społecznych dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań sprawach dotyczących wydania zaświadczenia.
+8. Wójt, burmistrz albo prezydent miasta może, na piśmie utrwalonym w postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań w sprawach dotyczących wydania zaświadczenia.
 
-9. Zaświadczenie wydaje się jednokrotnie i jednym egzemplarzu, każdym z okresów określonych art. 8 2 oraz dla sprzedaży końcowej, której mowa art. 14a 1. Zaświadczenie jest ważne okresie, którym zostało wydane.
+9. Zaświadczenie wydaje się jednokrotnie i w jednym egzemplarzu, w każdym z okresów określonych w art. 8 ust. 2 oraz dla sprzedaży końcowej, o której mowa w art. 14a ust. 1. Zaświadczenie jest ważne w okresie, w którym zostało wydane.
 
 **Art. 14.**
 
-1. Osoba fizyczna gospodarstwie domowym, której mowa art. 8 1, zamierzająca dokonać zakupu preferencyjnego gminie sąsiedniej albo od innego podmiotu przed zawarciem umowy sprzedaży paliwa stałego składa odpowiednio tej gminie albo temu podmiotowi zaświadczenie.
+1. Osoba fizyczna w gospodarstwie domowym, o której mowa w art. 8 ust. 1, zamierzająca dokonać zakupu preferencyjnego w gminie sąsiedniej albo od innego podmiotu przed zawarciem umowy sprzedaży paliwa stałego składa odpowiednio w tej gminie albo temu podmiotowi zaświadczenie.
 
-2. Gmina sąsiednia albo inny podmiot zawiera z osobą fizyczną, której mowa 1, umowę sprzedaży paliwa stałego ramach zakupu preferencyjnego ilości nieprzekraczającej ilości tego paliwa stałego określonej dla danego okresu objętego zaświadczeniem określonej przepisach wydanych na podstawie art. 8 2.
+2. Gmina sąsiednia albo inny podmiot zawiera z osobą fizyczną, o której mowa w ust. 1, umowę sprzedaży paliwa stałego w ramach zakupu preferencyjnego w ilości nieprzekraczającej ilości tego paliwa stałego określonej dla danego okresu objętego zaświadczeniem określonej w przepisach wydanych na podstawie art. 8 ust. 2.
 
-3. Gmina sąsiednia albo inny podmiot przechowuje zaświadczenie przez 5 lat od dnia zawarcia umowy sprzedaży ramach zakupu preferencyjnego.
+3. Gmina sąsiednia albo inny podmiot przechowuje zaświadczenie przez 5 lat od dnia zawarcia umowy sprzedaży w ramach zakupu preferencyjnego.
 
-4. Po upływie okresu, którym mowa 3, zaświadczenia podlegają trwałemu zniszczeniu. stawie umowy, której mowa art. 3 3, mogą oni ogłosić, nie wcześniej niż dniu 1 maja 2023 r., sprzedaż końcową tego paliwa.
+4. Po upływie okresu, o którym mowa w ust. 3, zaświadczenia podlegają trwałemu zniszczeniu.
 
-2. Gmina zamieszcza Biuletynie Informacji Publicznej informację sprzedaży końcowej, określając szczególności:
+**Art. 14a.**
 
-- **1)** termin składania wniosków zakup;
-- **2)** szacunkową ilość paliwa stałego przeznaczonego do sprzedaży końcowej wyrażoną tonach;
-- **3)** cenę za tonę paliwa stałego nie wyższą niż cena określona art. 5 2.
+- **3)** 1. W przypadku gdy gminie albo innemu podmiotowi pozostało niesprzedane paliwo stałe nabyte na podstawie umowy, o której mowa w art. 3 ust. 3, mogą oni ogłosić, nie wcześniej niż w dniu 1 maja 2023 r., sprzedaż końcową tego paliwa.
 
-3. Gmina, na terenie której sprzedaż końcową prowadzi inny podmiot zamieszcza Biuletynie Informacji Publicznej co najmniej informacje przekazane przez ten podmiot, których mowa 2 pkt 2, oraz cenę za tonę paliwa stałego nie wyższą niż cena określona art. 4 8.
+2. Gmina zamieszcza w Biuletynie Informacji Publicznej informację o sprzedaży końcowej, określając w szczególności:
 
-4. Osoba fizyczna gospodarstwie domowym, której mowa art. 8 1, może dokonać zakupu paliwa stałego, którym mowa 1, dowolnej gminie prowadzącej sprzedaż końcową albo od dowolnego innego podmiotu, na podstawie zaświadczenia, którym mowa art. 13 1.
+- **1)** termin składania wniosków o zakup;
+- **2)** szacunkową ilość paliwa stałego przeznaczonego do sprzedaży końcowej wyrażoną w tonach;
+- **3)** cenę za tonę paliwa stałego nie wyższą niż cena określona w art. 5 ust. 2.
 
-5. Wniosek zakup złożony przed pierwszym dniem składania wniosków zakup wskazany informacji, której mowa 2, pozostawia się bez rozpoznania.
+3. Gmina, na terenie której sprzedaż końcową prowadzi inny podmiot zamieszcza w Biuletynie Informacji Publicznej co najmniej informacje przekazane przez ten podmiot, o których mowa w ust. 2 pkt 2, oraz cenę za tonę paliwa stałego nie wyższą niż cena określona w art. 4 ust. 8.
 
-6. Wnioski zakup rozpatrywane są przez gminę kolejności wpłynięcia do wyczerpania ilości paliwa stałego przeznaczonego do sprzedaży końcowej.
+4. Osoba fizyczna w gospodarstwie domowym, o której mowa w art. 8 ust. 1, może dokonać zakupu paliwa stałego, o którym mowa w ust. 1, w dowolnej gminie prowadzącej sprzedaż końcową albo od dowolnego innego podmiotu, na podstawie zaświadczenia, o którym mowa w art. 13 ust. 1.
 
-7. Osoba fizyczna gospodarstwie domowym, której mowa art. 8 1, może złożyć wniosek zakup albo wniosek wydanie zaświadczenia, wystawionego przez wójta, burmistrza albo prezydenta miasta właściwego ze względu na miejsce zamieszkania osoby fizycznej gospodarstwie domowym, którym mowa art. 13, najpóźniej do dnia 30 czerwca 2023 r.
+5. Wniosek o zakup złożony przed pierwszym dniem składania wniosków o zakup wskazany w informacji, o której mowa w ust. 2, pozostawia się bez rozpoznania.
 
-8. Do sprzedaży końcowej stosuje się odpowiednio przepisy art. 5, art. 6, art. 8 1, art. 9 1, art. 10 1 pkt 1–5, art. 11, art. 12, art. 13 1 i 4–9 oraz art. 14 1, 3 i 4.
+6. Wnioski o zakup rozpatrywane są przez gminę w kolejności wpłynięcia do wyczerpania ilości paliwa stałego przeznaczonego do sprzedaży końcowej.
 
-9. Do sprzedaży końcowej nie stosuje się ograniczeń ilości paliwa stałego dostępnej dla jednego gospodarstwa domowego ramach zakupu preferencyjnego określoną przepisach wykonawczych wydanych na podstawie art. 8 2.
+7. Osoba fizyczna w gospodarstwie domowym, o której mowa w art. 8 ust. 1, może złożyć wniosek o zakup albo wniosek o wydanie zaświadczenia, wystawionego przez wójta, burmistrza albo prezydenta miasta właściwego ze względu na miejsce zamieszkania osoby fizycznej w gospodarstwie domowym, o którym mowa w art. 13, najpóźniej do dnia 30 czerwca 2023 r.
 
-10. Sprzedaż paliwa stałego na zasadach określonych 1–9 może odbywać się najpóźniej do dnia 31 lipca 2023 r.
+8. Do sprzedaży końcowej stosuje się odpowiednio przepisy art. 5, art. 6, art. 8 ust. 1, art. 9 ust. 1, art. 10 ust. 1 pkt 1–5, art. 11, art. 12, art. 13 ust. 1 i 4–9 oraz art. 14 ust. 1, 3 i 4.
+
+9. Do sprzedaży końcowej nie stosuje się ograniczeń ilości paliwa stałego dostępnej dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego określoną w przepisach wykonawczych wydanych na podstawie art. 8 ust. 2.
+
+10. Sprzedaż paliwa stałego na zasadach określonych w ust. 1–9 może odbywać się najpóźniej do dnia 31 lipca 2023 r.
 
 **Art. 15.**
 
-1. Podmiot wprowadzający do obrotu może wystąpić do podmiotu wypłacającego z wnioskiem wypłatę rekompensaty wysokości stanowiącej iloczyn ilości paliwa stałego sprzedanego na podstawie umów, których mowa art. 3 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego ramach zakupu preferencyjnego na podstawie umów sprzedaży ramach zakupu preferencyjnego, okresie wskazanym 10, i różnicy między uzasadnionym średnim jednostkowym kosztem paliwa stałego tym okresie a średnią ceną netto sprzedaży paliwa stałego tym okresie, powiększoną podatek od towarów i usług.
+1. Podmiot wprowadzający do obrotu może wystąpić do podmiotu wypłacającego z wnioskiem o wypłatę rekompensaty w wysokości stanowiącej iloczyn ilości paliwa stałego sprzedanego na podstawie umów, o których mowa w art. 3 ust. 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego w ramach zakupu preferencyjnego – na podstawie umów sprzedaży w ramach zakupu preferencyjnego, w okresie wskazanym w ust. 10, i różnicy między uzasadnionym średnim jednostkowym kosztem paliwa stałego w tym okresie a średnią ceną netto sprzedaży paliwa stałego w tym okresie, powiększoną o podatek od towarów i usług.
 
-2. Uzasadniony średni jednostkowy koszt, którym mowa 1, oblicza się jako iloraz sumy ujętych księgach rachunkowych okresie wskazanym 10 kosztów uzasadnionych, których mowa 3, i ilości sprzedanego tym okresie paliwa stałego.
+2. Uzasadniony średni jednostkowy koszt, o którym mowa w ust. 1, oblicza się jako iloraz sumy ujętych w księgach rachunkowych w okresie wskazanym w ust. 10 kosztów uzasadnionych, o których mowa w ust. 3, i ilości sprzedanego w tym okresie paliwa stałego.
 
 3. Do uzasadnionych kosztów paliwa stałego zalicza się koszty:
 
 - **1)** paliwa stałego według ceny nabycia,
-- **2)** bezpośrednie i pośrednie związane z zakupem i przystosowaniem paliwa stałego do wprowadzenia do obrotu, tym koszty ogólnego zarządu, nieujęte cenie nabycia,
+- **2)** bezpośrednie i pośrednie związane z zakupem i przystosowaniem paliwa stałego do wprowadzenia do obrotu, w tym koszty ogólnego zarządu, nieujęte w cenie nabycia,
 - **3)** sprzedaży paliwa stałego,
-- **4)** obsługi zobowiązań zaciągniętych celu finansowania zapasu paliwa stałego okresie jego przygotowania do sprzedaży oraz celu finansowania sprzedaży paliwa stałego z zastosowaniem odroczonego terminu płatności określone zgodnie z ustawą z dnia 29 września 1994 r. rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598) lub Międzynarodowymi Standardami Sprawozdawczości Finansowej. stałego na podstawie umów, których mowa art. 3 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego ramach zakupu preferencyjnego na podstawie umów sprzedaży ramach zakupu preferencyjnego, uzyskanych okresie wskazanym 10, i ilości tego paliwa stałego sprzedanego tym okresie.
+- **4)** obsługi zobowiązań zaciągniętych w celu finansowania zapasu paliwa stałego w okresie jego przygotowania do sprzedaży oraz w celu finansowania sprzedaży paliwa stałego z zastosowaniem odroczonego terminu płatności – określone zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598) lub Międzynarodowymi Standardami Sprawozdawczości Finansowej.
 
-5. Rekompensata przysługuje za paliwo stałe sprzedane do dnia 30 kwietnia 2023 r. i jest wypłacana podmiotowi wprowadzającemu do obrotu na jego wniosek za każdy miesiąc kalendarzowy. Wysokość rekompensaty danym okresie miesięcznym oblicza podmiot wprowadzający do obrotu.
+4. Średnią cenę netto sprzedaży, o której mowa w ust. 1, oblicza się jako iloraz sumy przychodów ze sprzedaży paliwa stałego na podstawie umów, o których mowa w art. 3 ust. 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego w ramach zakupu preferencyjnego – na podstawie umów sprzedaży w ramach zakupu preferencyjnego, uzyskanych w okresie wskazanym w ust. 10, i ilości tego paliwa stałego sprzedanego w tym okresie.
 
-6. Rekompensata kwocie netto, której mowa 1, stanowi przychód podmiotu wprowadzającego do obrotu rozumieniu ustawy z dnia 15 lutego 1992 r. podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805) lub ustawy z dnia 26 lipca 1991 r. podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) miesiącu jej otrzymania.
+5. Rekompensata przysługuje za paliwo stałe sprzedane do dnia 30 kwietnia 2023 r. i jest wypłacana podmiotowi wprowadzającemu do obrotu na jego wniosek za każdy miesiąc kalendarzowy. Wysokość rekompensaty w danym okresie miesięcznym oblicza podmiot wprowadzający do obrotu.
 
-7. Podmiotem odpowiedzialnym za rozpatrywanie wniosków wypłatę rekompensaty i jej wypłatę jest podmiot wypłacający.
+6. Rekompensata w kwocie netto, o której mowa w ust. 1, stanowi przychód podmiotu wprowadzającego do obrotu w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805) lub ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) w miesiącu jej otrzymania.
 
-8. Wniosek, którym mowa 1, zawiera:
+7. Podmiotem odpowiedzialnym za rozpatrywanie wniosków o wypłatę rekompensaty i jej wypłatę jest podmiot wypłacający.
 
-- **1)** oznaczenie podmiotu wprowadzającego do obrotu jego nazwę (firmę), adres siedziby i adres poczty elektronicznej;
-- **2)** numer rejestrze przedsiębiorców Krajowym Rejestrze Sądowym albo informację wpisie Centralnej Ewidencji i Informacji Działalności Gospodarczej;
+8. Wniosek, o którym mowa w ust. 1, zawiera:
+
+- **1)** oznaczenie podmiotu wprowadzającego do obrotu – jego nazwę (firmę), adres siedziby i adres poczty elektronicznej;
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo informację o wpisie w Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
 - **3)** numer identyfikacji podatkowej (NIP);
-- **4)** wyrażoną tonach ilość paliwa stałego sprzedanego gminom, gminom sąsiednim lub innym podmiotom na podstawie umów, których mowa art. 3 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego ramach zakupu preferencyjnego na podstawie umów sprzedaży ramach zakupu preferencyjnego, okresie wskazanym 10;
+- **4)** wyrażoną w tonach ilość paliwa stałego sprzedanego gminom, gminom sąsiednim lub innym podmiotom na podstawie umów, o których mowa w art. 3 ust. 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego w ramach zakupu preferencyjnego – na podstawie umów sprzedaży w ramach zakupu preferencyjnego, w okresie wskazanym w ust. 10;
 - **5)** wnioskowaną wysokość rekompensaty;
 - **6)** oznaczenie okresu, którego dotyczy wniosek;
 - **7)** numer rachunku bankowego, na który ma zostać dokonana wypłata rekompensaty;
-- **8)** imiona, nazwiska oraz numery PESEL pełnomocników ustanowionych do dokonywania czynności prawnych imieniu podmiotu wprowadzającego do obrotu i ich adresy poczty elektronicznej;
+- **8)** imiona, nazwiska oraz numery PESEL pełnomocników ustanowionych do dokonywania czynności prawnych w imieniu podmiotu wprowadzającego do obrotu i ich adresy poczty elektronicznej;
 - **9)** inne informacje niezbędne do obliczenia i wypłaty rekompensaty.
 
-9. Do wniosku, którym mowa 1, dołącza się:
+9. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
-- **1)** szczegółową kalkulację wnioskowanej kwoty rekompensaty wraz z podaniem do każdej umowy, której mowa art. 3 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego ramach zakupu preferencyjnego każdej umowy sprzedaży ramach zakupu preferencyjnego:
-    - **a)** ilości paliwa stałego sprzedanego okresie objętym wnioskiem wypłatę rekompensaty wyrażonej tonach,
-    - **b)** uzasadnionego średniego kosztu jednostkowego paliwa stałego okresie objętym wnioskiem wypłatę rekompensaty, wyrażonego zł za tonę,
-    - **c)** sumy ujętych księgach rachunkowych okresie objętym wnioskiem wypłatę rekompensaty uzasadnionych kosztów, których mowa 3, wyrażoną zł,
-    - **d)** ceny netto sprzedaży paliwa stałego okresie objętym wnioskiem wypłatę rekompensaty, wyrażonej zł za tonę;
+- **1)** szczegółową kalkulację wnioskowanej kwoty rekompensaty wraz z podaniem do każdej umowy, o której mowa w art. 3 ust. 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego w ramach zakupu preferencyjnego – każdej umowy sprzedaży w ramach zakupu preferencyjnego:
+    - **a)** ilości paliwa stałego sprzedanego w okresie objętym wnioskiem o wypłatę rekompensaty wyrażonej w tonach,
+    - **b)** uzasadnionego średniego kosztu jednostkowego paliwa stałego w okresie objętym wnioskiem o wypłatę rekompensaty, wyrażonego w zł za tonę,
+    - **c)** sumy ujętych w księgach rachunkowych w okresie objętym wnioskiem o wypłatę rekompensaty uzasadnionych kosztów, o których mowa w ust. 3, wyrażoną w zł,
+    - **d)** ceny netto sprzedaży paliwa stałego w okresie objętym wnioskiem o wypłatę rekompensaty, wyrażonej w zł za tonę;
 
-- **2)** zestawienie numerów faktur wraz z określeniem wyrażonej tonach, odrębnie dla każdej faktury, ilości paliwa stałego sprzedanego na podstawie umów, których mowa art. 3 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego ramach zakupu preferencyjnego na podstawie umów sprzedaży ramach zakupu preferencyjnego, daty sprzedaży, nazwy gminy, gminy sąsiedniej lub podmiotu nabywającego paliwo stałe, ceny netto i wartości tego paliwa stałego; i każdym przypadku zmiany metodologii;
-- **4)** oświadczenie treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, oświadczam, że wszystkie dane i informacje, podane we wniosku wypłatę rekompensaty, której mowa art. 15 1 ustawy z dnia 27 października 2022 r. zakupie preferencyjnym paliwa stałego dla gospodarstw domowych, za miesiąc …. 202… r., są zgodne z prawdą.”; klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
+- **2)** zestawienie numerów faktur wraz z określeniem wyrażonej w tonach, odrębnie dla każdej faktury, ilości paliwa stałego sprzedanego na podstawie umów, o których mowa w art. 3 ust. 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego w ramach zakupu preferencyjnego – na podstawie umów sprzedaży w ramach zakupu preferencyjnego, daty sprzedaży, nazwy gminy, gminy sąsiedniej lub podmiotu nabywającego paliwo stałe, ceny netto i wartości tego paliwa stałego;
+- **3)** opis metodologii zastosowanej do obliczenia uzasadnionego średniego kosztu jednostkowego, o którym mowa w ust. 1, i zastosowanych do obliczeń pozycji lub grup kosztów uzasadnionych; opis dostarcza się z pierwszym wnioskiem i w każdym przypadku zmiany metodologii;
+- **4)** oświadczenie o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczam, że wszystkie dane i informacje, podane we wniosku o wypłatę rekompensaty, o której mowa w art. 15 ust. 1 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych, za miesiąc …. 202… r., są zgodne z prawdą.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-10. Wniosek, którym mowa 1, składa się za okres miesiąca kalendarzowego, terminie 60 dni od ostatniego dnia miesiąca, którego dotyczy wniosek. W przypadku złożenia wniosku wypłatę rekompensaty z niedochowaniem terminu wniosek pozostawia się bez rozpoznania. Kwota rekompensaty nieuwzględniona we wniosku za okres danego miesiąca kalendarzowego może zostać uwzględniona we wniosku rozliczenie rekompensaty, którym mowa art. 17 1.
+10. Wniosek, o którym mowa w ust. 1, składa się za okres miesiąca kalendarzowego, w terminie 60 dni od ostatniego dnia miesiąca, którego dotyczy wniosek. W przypadku złożenia wniosku o wypłatę rekompensaty z niedochowaniem terminu wniosek pozostawia się bez rozpoznania. Kwota rekompensaty nieuwzględniona we wniosku za okres danego miesiąca kalendarzowego może zostać uwzględniona we wniosku o rozliczenie rekompensaty, o którym mowa w art. 17 ust. 1.
 
-11. Składanie, weryfikacja i rozpatrywanie wniosków wypłatę rekompensaty, a także korespondencja z podmiotem wypłacającym odbywa się wyłącznie formie elektronicznej.
+11. Składanie, weryfikacja i rozpatrywanie wniosków o wypłatę rekompensaty, a także korespondencja z podmiotem wypłacającym odbywa się wyłącznie w formie elektronicznej.
 
-12. Wniosek wypłatę rekompensaty składa się do podmiotu wypłacającego przy użyciu formularza udostępnionego na stronie internetowej administrowanej przez ten podmiot i opatruje się kwalifikowanym podpisem elektronicznym lub podpisem zaufanym osób uprawnionych do reprezentacji podmiotu wprowadzającego do obrotu.
+12. Wniosek o wypłatę rekompensaty składa się do podmiotu wypłacającego przy użyciu formularza udostępnionego na stronie internetowej administrowanej przez ten podmiot i opatruje się kwalifikowanym podpisem elektronicznym lub podpisem zaufanym osób uprawnionych do reprezentacji podmiotu wprowadzającego do obrotu.
 
 **Art. 16.**
 
-1. Podmiot wypłacający weryfikuje wniosek, którym mowa art. 15 1, pod względem wysokości wnioskowanej rekompensaty, prawidłowości dokonanych obliczeń i kompletności wymaganych dokumentów oraz prawidłowego reprezentowania podmiotu wprowadzającego do obrotu, na podstawie podanych we wniosku danych i dokumentów załączonych do tego wniosku, tym dowodów potwierdzających uprawnienie do reprezentowania.
+1. Podmiot wypłacający weryfikuje wniosek, o którym mowa w art. 15 ust. 1, pod względem wysokości wnioskowanej rekompensaty, prawidłowości dokonanych obliczeń i kompletności wymaganych dokumentów oraz prawidłowego reprezentowania podmiotu wprowadzającego do obrotu, na podstawie podanych we wniosku danych i dokumentów załączonych do tego wniosku, w tym dowodów potwierdzających uprawnienie do reprezentowania.
 
-2. W przypadku pozytywnej weryfikacji wniosku, którym mowa art. 15 1, podmiot wypłacający zatwierdza wniosek i dokonuje wypłaty rekompensaty terminie 14 dni od dnia otrzymania prawidłowo sporządzonego wniosku z uwzględnieniem 3 oraz art. 18. Zatwierdzenie tego wniosku nie wymaga wydania decyzji administracyjnej.
+2. W przypadku pozytywnej weryfikacji wniosku, o którym mowa w art. 15 ust. 1, podmiot wypłacający zatwierdza wniosek i dokonuje wypłaty rekompensaty w terminie 14 dni od dnia otrzymania prawidłowo sporządzonego wniosku z uwzględnieniem ust. 3 oraz art. 18. Zatwierdzenie tego wniosku nie wymaga wydania decyzji administracyjnej.
 
-3. W przypadku gdy wniosek, którym mowa art. 15 1, zawiera braki formalne lub błędy obliczeniowe lub budzi uzasadnione wątpliwości podmiotu wypłacającego co do zgodności ze stanem rzeczywistym, podmiot wypłacający, terminie 14 dni od dnia otrzymania wniosku, wzywa podmiot wprowadzający do obrotu do usunięcia braków formalnych lub błędów obliczeniowych lub usunięcia wątpliwości podmiotu wypłacającego terminie 14 dni od dnia otrzymania wezwania do ich usunięcia. W zakresie, jakim kwota rekompensaty nie budzi wątpliwości, kwota ta jest wypłacana zgodnie z 2.
+3. W przypadku gdy wniosek, o którym mowa w art. 15 ust. 1, zawiera braki formalne lub błędy obliczeniowe lub budzi uzasadnione wątpliwości podmiotu wypłacającego co do zgodności ze stanem rzeczywistym, podmiot wypłacający, w terminie 14 dni od dnia otrzymania wniosku, wzywa podmiot wprowadzający do obrotu do usunięcia braków formalnych lub błędów obliczeniowych lub usunięcia wątpliwości podmiotu wypłacającego w terminie 14 dni od dnia otrzymania wezwania do ich usunięcia. W zakresie, w jakim kwota rekompensaty nie budzi wątpliwości, kwota ta jest wypłacana zgodnie z ust. 2.
 
-4. W przypadku negatywnej weryfikacji wniosku, którym mowa art. 15 1, podmiot wypłacający odmawia zatwierdzenia tego wniosku i informuje podmiot wprowadzający do obrotu przyczynie tej odmowy. Odmowa zatwierdzenia wniosku, którym mowa art. 15 1, nie wymaga wydania decyzji administracyjnej.
+4. W przypadku negatywnej weryfikacji wniosku, o którym mowa w art. 15 ust. 1, podmiot wypłacający odmawia zatwierdzenia tego wniosku i informuje podmiot wprowadzający do obrotu o przyczynie tej odmowy. Odmowa zatwierdzenia wniosku, o którym mowa w art. 15 ust. 1, nie wymaga wydania decyzji administracyjnej.
 
-5. W przypadku nieusunięcia braków formalnych lub błędów obliczeniowych zawartych we wniosku, którym mowa art. 15 1, lub wątpliwości podmiotu wypłacającego terminie 14 dni od dnia otrzymania wezwania do ich usunięcia podmiot wypłacający odmawia zatwierdzenia tego wniosku zakresie, jakim kwota rekompensaty budzi wątpliwości lub nie przysługuje i informuje podmiot wprowadzający do obrotu przyczynie tej odmowy. Odmowa zatwierdzenia wniosku, którym mowa art. 15 1, nie wymaga wydania decyzji administracyjnej.
+5. W przypadku nieusunięcia braków formalnych lub błędów obliczeniowych zawartych we wniosku, o którym mowa w art. 15 ust. 1, lub wątpliwości podmiotu wypłacającego w terminie 14 dni od dnia otrzymania wezwania do ich usunięcia podmiot wypłacający odmawia zatwierdzenia tego wniosku w zakresie, w jakim kwota rekompensaty budzi wątpliwości lub nie przysługuje i informuje podmiot wprowadzający do obrotu o przyczynie tej odmowy. Odmowa zatwierdzenia wniosku, o którym mowa w art. 15 ust. 1, nie wymaga wydania decyzji administracyjnej.
 
-6. Odmowy, których mowa 4 i 5, nie pozbawiają podmiotu wprowadzającego do obrotu możliwości ponownego złożenia wniosku, którym mowa art. 15 1, z wyjątkiem gdy rekompensata nie przysługuje. Przepisy 1–5 stosuje się odpowiednio.
+6. Odmowy, o których mowa w ust. 4 i 5, nie pozbawiają podmiotu wprowadzającego do obrotu możliwości ponownego złożenia wniosku, o którym mowa w art. 15 ust. 1, z wyjątkiem gdy rekompensata nie przysługuje. Przepisy ust. 1–5 stosuje się odpowiednio.
 
-7. Podmiot wprowadzający do obrotu jest obowiązany do przechowywania dokumentacji związanej z wnioskowaną rekompensatą przez 5 lat kalendarzowych począwszy od dnia, którym została wypłacona lub zwrócona kwota tej rekompensaty.
+7. Podmiot wprowadzający do obrotu jest obowiązany do przechowywania dokumentacji związanej z wnioskowaną rekompensatą przez 5 lat kalendarzowych począwszy od dnia, w którym została wypłacona lub zwrócona kwota tej rekompensaty.
 
-8. Jeżeli podmiot wprowadzający do obrotu, okresie 12 miesięcy od dnia wypłaty rekompensaty za ostatni miesiąc, zaprzestał wykonywania działalności gospodarczej zakresie wprowadzania do obrotu paliwa stałego, kwotę rekompensaty uznaje się za pobraną nienależnie i podmiot wprowadzający do obrotu jest obowiązany do jej zwrotu całości wraz z odsetkami ustawowymi za opóźnienie liczonymi od dnia otrzymania rekompensaty. W przypadku gdy nie zostanie dokonany zwrot, podmiot wypłacający wzywa podmiot wprowadzający do obrotu do zwrotu nienależnie otrzymanych środków terminie 14 dni od dnia otrzymania wezwania, a przypadku zaniechania zwrotu środków, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu.
+8. Jeżeli podmiot wprowadzający do obrotu, w okresie 12 miesięcy od dnia wypłaty rekompensaty za ostatni miesiąc, zaprzestał wykonywania działalności gospodarczej w zakresie wprowadzania do obrotu paliwa stałego, kwotę rekompensaty uznaje się za pobraną nienależnie i podmiot wprowadzający do obrotu jest obowiązany do jej zwrotu w całości wraz z odsetkami ustawowymi za opóźnienie liczonymi od dnia otrzymania rekompensaty. W przypadku gdy nie zostanie dokonany zwrot, podmiot wypłacający wzywa podmiot wprowadzający do obrotu do zwrotu nienależnie otrzymanych środków w terminie 14 dni od dnia otrzymania wezwania, a w przypadku zaniechania zwrotu środków, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu.
 
-9. Środki wypłacone z tytułu rekompensat zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, której mowa art. 342 1 pkt 2 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825, 1723, 1843 i 1860). wniosek rozliczenie rekompensaty za cały okres przysługiwania prawa do niej, który uwzględnia rzeczywiste dane, których mowa art. 15 1, tym koszty ujęte księgach rachunkowych po dniu 30 kwietnia 2023 r. dotyczące sprzedaży paliwa stałego okresie objętym wnioskami rekompensatę. Do wniosku rozliczenie rekompensaty dołącza się raport biegłego rewidenta z usługi atestacyjnej, której mowa ustawie z dnia 11 maja 2017 r. biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2023 r. poz. 1015, 1723 i 1843), potwierdzający prawidłowość obliczenia kwoty rekompensaty.
+9. Środki wypłacone z tytułu rekompensat zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825, 1723, 1843 i 1860).
 
-2. Podmiot wypłacający dokonuje weryfikacji rekompensat należnych podmiotowi wprowadzającemu do obrotu na podstawie wniosku rozliczenie rekompensaty.
+**Art. 17.**
 
-3. W przypadku niezłożenia wniosku rozliczenie rekompensaty terminie, którym mowa 1, wypłaconą rekompensatę uznaje się za otrzymaną nienależnie i podmiot wprowadzający do obrotu jest obowiązany do zwrotu otrzymanych środków całości wraz z odsetkami za opóźnienie liczonymi od dnia otrzymania rekompensaty, terminie do dnia 15 listopada 2023 r.
+1. Do dnia 31 października 2023 r. podmiot wprowadzający do obrotu składa do podmiotu wypłacającego wniosek o rozliczenie rekompensaty za cały okres przysługiwania prawa do niej, który uwzględnia rzeczywiste dane, o których mowa w art. 15 ust. 1, w tym koszty ujęte w księgach rachunkowych po dniu 30 kwietnia 2023 r. dotyczące sprzedaży paliwa stałego w okresie objętym wnioskami o rekompensatę. Do wniosku o rozliczenie rekompensaty dołącza się raport biegłego rewidenta z usługi atestacyjnej, o której mowa w ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2023 r. poz. 1015, 1723 i 1843), potwierdzający prawidłowość obliczenia kwoty rekompensaty.
 
-4. Jeżeli z wniosku rozliczenie rekompensaty wynika zwrot kwoty nadpłaconej rekompensaty, uznaje się ją za otrzymaną nienależnie i podmiot wprowadzający do obrotu zwraca ją na rachunek rekompensaty podmiotu wprowadzającego do obrotu terminie 14 dni od dnia zatwierdzenia wniosku przez podmiot wypłacający.
+2. Podmiot wypłacający dokonuje weryfikacji rekompensat należnych podmiotowi wprowadzającemu do obrotu na podstawie wniosku o rozliczenie rekompensaty.
 
-5. Zwrot rekompensaty, którym mowa 3 i 4, stanowi dla podmiotu wprowadzającego do obrotu koszt uzyskania przychodu rozumieniu przepisów odpowiednio ustawy z dnia 15 lutego 1992 r. podatku dochodowym od osób prawnych lub ustawy z dnia 26 lipca 1991 r. podatku dochodowym od osób fizycznych miesiącu dokonania zwrotu.
+3. W przypadku niezłożenia wniosku o rozliczenie rekompensaty w terminie, o którym mowa w ust. 1, wypłaconą rekompensatę uznaje się za otrzymaną nienależnie i podmiot wprowadzający do obrotu jest obowiązany do zwrotu otrzymanych środków w całości wraz z odsetkami za opóźnienie liczonymi od dnia otrzymania rekompensaty, w terminie do dnia 15 listopada 2023 r.
 
-6. W przypadku gdy podmiot wprowadzający do obrotu nie zwrócił nienależnie otrzymanej rekompensaty, podmiot wypłacający wzywa ten podmiot wprowadzający do obrotu do jej zwrotu terminie 14 dni od dnia otrzymania wezwania.
+4. Jeżeli z wniosku o rozliczenie rekompensaty wynika zwrot kwoty nadpłaconej rekompensaty, uznaje się ją za otrzymaną nienależnie i podmiot wprowadzający do obrotu zwraca ją na rachunek rekompensaty podmiotu wprowadzającego do obrotu w terminie 14 dni od dnia zatwierdzenia wniosku przez podmiot wypłacający.
 
-7. W przypadku gdy podmiot wprowadzający do obrotu nie dokona zwrotu rekompensaty zgodnie z 6, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+5. Zwrot rekompensaty, o którym mowa w ust. 3 i 4, stanowi dla podmiotu wprowadzającego do obrotu koszt uzyskania przychodu w rozumieniu przepisów odpowiednio ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych lub ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych w miesiącu dokonania zwrotu.
 
-8. Jeżeli z wniosku rozliczenie rekompensaty wynika, że rekompensata została wypłacona importerowi kwocie niższej niż należna, podmiot wypłacający dokonuje wypłaty należnej kwoty terminie 14 dni od dnia zatwierdzenia wniosku rozliczenie rekompensaty przez podmiot wypłacający.
+6. W przypadku gdy podmiot wprowadzający do obrotu nie zwrócił nienależnie otrzymanej rekompensaty, podmiot wypłacający wzywa ten podmiot wprowadzający do obrotu do jej zwrotu w terminie 14 dni od dnia otrzymania wezwania.
 
-9. Przepisy art. 15 i art. 16 stosuje się odpowiednio do wniosków rozliczenie rekompensaty.
+7. W przypadku gdy podmiot wprowadzający do obrotu nie dokona zwrotu rekompensaty zgodnie z ust. 6, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
 
-10. Podmiot wypłacający udostępnia na swojej stronie internetowej wzór wniosku wypłatę rekompensaty, wzór wniosku rozliczenie rekompensaty oraz instrukcje składania tych wniosków.
+8. Jeżeli z wniosku o rozliczenie rekompensaty wynika, że rekompensata została wypłacona importerowi w kwocie niższej niż należna, podmiot wypłacający dokonuje wypłaty należnej kwoty w terminie 14 dni od dnia zatwierdzenia wniosku o rozliczenie rekompensaty przez podmiot wypłacający.
+
+9. Przepisy art. 15 i art. 16 stosuje się odpowiednio do wniosków o rozliczenie rekompensaty.
+
+10. Podmiot wypłacający udostępnia na swojej stronie internetowej wzór wniosku o wypłatę rekompensaty, wzór wniosku o rozliczenie rekompensaty oraz instrukcje składania tych wniosków.
 
 **Art. 18.** W przypadku braku środków na wypłatę rekompensat podmiot wypłacający wstrzymuje wypłatę do czasu zapewnienia środków na ten cel.
 
@@ -343,87 +430,114 @@ poz. 2236), z uwzględnieniem zmian wprowadzonych:
 
 1. Podmiot wypłacający może żądać od podmiotu wprowadzającego do obrotu przedłożenia dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty do dnia 31 grudnia 2027 r.
 
-2. Jeżeli podmiot wprowadzający do obrotu nie przedłożył dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty lub z dokumentów i informacji wynika, że całość lub część wysokości kwoty rekompensaty została wypłacona nienależnie, podmiot wypłacający wzywa ten podmiot wprowadzający do obrotu do jej zwrotu terminie 14 dni od dnia otrzymania wezwania wraz z odsetkami ustawowymi za opóźnienie od dnia wypłaty rekompensaty.
+2. Jeżeli podmiot wprowadzający do obrotu nie przedłożył dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty lub z dokumentów i informacji wynika, że całość lub część wysokości kwoty rekompensaty została wypłacona nienależnie, podmiot wypłacający wzywa ten podmiot wprowadzający do obrotu do jej zwrotu w terminie 14 dni od dnia otrzymania wezwania wraz z odsetkami ustawowymi za opóźnienie od dnia wypłaty rekompensaty.
 
-3. W przypadku gdy podmiot wprowadzający do obrotu nie dokona zwrotu rekompensaty zgodnie z 2, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+3. W przypadku gdy podmiot wprowadzający do obrotu nie dokona zwrotu rekompensaty zgodnie z ust. 2, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
 
-4. W sprawach decyzji administracyjnych wydawanych przez podmiot wypłacający, których mowa 3, art. 16 8 i art. 17 7, organem wyższego stopnia rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) stosunku do podmiotu wypłacającego jest minister właściwy do spraw aktywów państwowych. z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ), zwanego dalej „Funduszem”, granicach kwot określonych na ten cel planie tego Funduszu.
+4. W sprawach decyzji administracyjnych wydawanych przez podmiot wypłacający, o których mowa w ust. 3, art. 16 ust. 8 i art. 17 ust. 7, organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) w stosunku do podmiotu wypłacającego jest minister właściwy do spraw aktywów państwowych.
 
-2. Środki wypłacone ramach rekompensaty, której mowa art. 15 1, które zostały pobrane nienależnie podlegają zwrotowi wraz z odsetkami na rachunek rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu, a przypadku jego likwidacji do budżetu państwa.
+**Art. 20.**
 
-3. Podmiot wypłacający terminie do dnia 31 grudnia 2023 r. przedstawia ministrowi właściwemu do spraw aktywów państwowych rozliczenie środków na realizację wypłat rekompensat, których mowa art. 15 1.
+1. Rekompensaty, o których mowa w art. 15 ust. 1, są finansowane z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ), zwanego dalej „Funduszem”, w granicach kwot określonych na ten cel w planie tego Funduszu.
+
+2. Środki wypłacone w ramach rekompensaty, o której mowa w art. 15 ust. 1, które zostały pobrane nienależnie podlegają zwrotowi wraz z odsetkami na rachunek rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu, a w przypadku jego likwidacji – do budżetu państwa.
+
+3. Podmiot wypłacający w terminie do dnia 31 grudnia 2023 r. przedstawia ministrowi właściwemu do spraw aktywów państwowych rozliczenie środków na realizację wypłat rekompensat, o których mowa w art. 15 ust. 1.
 
 **Art. 21.**
 
-1. Podmiot wypłacający otrzymuje środki na realizację wypłat rekompensat z Funduszu ramach limitu określonego na ten cel planie finansowym Funduszu na wyodrębniony rachunek bankowy, zwany dalej „rachunkiem rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu”.
+1. Podmiot wypłacający otrzymuje środki na realizację wypłat rekompensat z Funduszu w ramach limitu określonego na ten cel w planie finansowym Funduszu na wyodrębniony rachunek bankowy, zwany dalej „rachunkiem rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu”.
 
-2. Wniosek przekazanie środków na wypłaty rekompensat dla podmiotów wprowadzających do obrotu, podmiot wypłacający składa co kwartał do ministra właściwego do spraw aktywów państwowych określając łączną wysokość wnioskowanej kwoty i numer rachunku rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu.
+2. Wniosek o przekazanie środków na wypłaty rekompensat dla podmiotów wprowadzających do obrotu, podmiot wypłacający składa co kwartał do ministra właściwego do spraw aktywów państwowych określając łączną wysokość wnioskowanej kwoty i numer rachunku rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu.
 
-3. Ostatni wniosek przyznanie środków na wypłaty rekompensat dla podmiotów wprowadzających do obrotu podmiot wypłacający składa do ministra właściwego do spraw aktywów państwowych terminie do dnia 10 listopada 2023 r.
+3. Ostatni wniosek o przyznanie środków na wypłaty rekompensat dla podmiotów wprowadzających do obrotu podmiot wypłacający składa do ministra właściwego do spraw aktywów państwowych w terminie do dnia 10 listopada 2023 r.
 
-4. Minister właściwy do spraw aktywów państwowych przekazuje środki na wypłaty rekompensat podmiotowi wypłacającemu terminie do 30 dni roboczych od dnia otrzymania środków, których mowa 2.
+4. Minister właściwy do spraw aktywów państwowych przekazuje środki na wypłaty rekompensat podmiotowi wypłacającemu w terminie do 30 dni roboczych od dnia otrzymania środków, o których mowa w ust. 2.
 
-5. Podmiot wypłacający przekazuje niewykorzystane środki Funduszu do ministra właściwego do spraw aktywów państwowych terminie umożliwiającym przekazanie środków do Funduszu do dnia 29 grudnia 2023 r.
+5. Podmiot wypłacający przekazuje niewykorzystane środki Funduszu do ministra właściwego do spraw aktywów państwowych w terminie umożliwiającym przekazanie środków do Funduszu do dnia 29 grudnia 2023 r.
 
-6. Środki uzyskane z Funduszu oraz odsetki od środków zgromadzonych na rachunku rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu nie stanowią przychodu podmiotu wypłacającego rozumieniu ustawy z dnia 15 lutego 1992 r. podatku dochodowym od osób prawnych.
+6. Środki uzyskane z Funduszu oraz odsetki od środków zgromadzonych na rachunku rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu nie stanowią przychodu podmiotu wypłacającego w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
 
-7. Podmiot wypłacający przeznacza całość odsetek od środków zgromadzonych na rachunku rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu na wypłatę rekompensat, których mowa art. 15 1. Niewydatkowane środki podlegają zwrotowi do Funduszu, zgodnie z 5.
+7. Podmiot wypłacający przeznacza całość odsetek od środków zgromadzonych na rachunku rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu na wypłatę rekompensat, o których mowa w art. 15 ust. 1. Niewydatkowane środki podlegają zwrotowi do Funduszu, zgodnie z ust. 5.
 
-8. Środki przekazane przez podmiot wypłacający na rzecz podmiotu wprowadzającego do obrotu oraz wydatki i koszty finansowane ze środków, których mowa 6, nie stanowią u podmiotu wypłacającego kosztów uzyskania przychodu rozumieniu ustawy wymienionej 6.
+8. Środki przekazane przez podmiot wypłacający na rzecz podmiotu wprowadzającego do obrotu oraz wydatki i koszty finansowane ze środków, o których mowa w ust. 6, nie stanowią u podmiotu wypłacającego kosztów uzyskania przychodu w rozumieniu ustawy wymienionej w ust. 6.
 
-9. Szczegółowe zasady współpracy ministra właściwego do spraw aktywów państwowych oraz podmiotu wypłacającego zakresie przekazywania środków na rachunek rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu oraz zwrotu niewykorzystanych środków, wymiany dokumentów i informacji określa umowa.
+9. Szczegółowe zasady współpracy ministra właściwego do spraw aktywów państwowych oraz podmiotu wypłacającego w zakresie przekazywania środków na rachunek rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu oraz zwrotu niewykorzystanych środków, wymiany dokumentów i informacji określa umowa.
 
-10. Z dniem zamknięcia rachunku rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu, nieściągnięte należności i nieuregulowane zobowiązania staną się należnościami i zobowiązaniami Skarbu Państwa, imieniu którego będzie działać minister właściwy do spraw aktywów państwowych.
+10. Z dniem zamknięcia rachunku rekompensaty podmiotu wprowadzającego paliwo stałe do obrotu, nieściągnięte należności i nieuregulowane zobowiązania staną się należnościami i zobowiązaniami Skarbu Państwa, w imieniu którego będzie działać minister właściwy do spraw aktywów państwowych.
 
-11. Podmiot wypłacający nie pobiera wynagrodzenia za realizację zadań wynikających z ustawy, a koszty z tym związane pokrywa ramach kosztów działalności, której mowa art. 49 1 ustawy z dnia 29 czerwca 2007 r. zasadach pokrywania kosztów powstałych u wytwórców związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej.
+11. Podmiot wypłacający nie pobiera wynagrodzenia za realizację zadań wynikających z ustawy, a koszty z tym związane pokrywa w ramach kosztów działalności, o której mowa w art. 49 ust. 1 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej.
 
-12. Podmiot wypłacający publikuje na swojej stronie internetowej informację łącznej kwocie rekompensat wypłaconych podmiotom wprowadzającym do obrotu na koniec danego miesiąca.
+12. Podmiot wypłacający publikuje na swojej stronie internetowej informację o łącznej kwocie rekompensat wypłaconych podmiotom wprowadzającym do obrotu na koniec danego miesiąca.
 
 **Art. 22.**
 
-1. Podmiot inny niż gmina będący pośredniczącym podmiotem węglowym, którym mowa art. 2 1 pkt 23a ustawy z dnia 6 grudnia 2008 r. podatku akcyzowym, który dokonał sprzedaży paliwa stałego ramach zakupu preferencyjnego osobie fizycznej gospodarstwie domowym bez przyjęcia od tej osoby zaświadczenia lub ilości przekraczającej ilość tego paliwa stałego określoną dla danego okresu objętego zaświadczeniem przepisach wydanych na podstawie art. 8 2, podlega karze pieniężnej wysokości 5000 złotych za każdy przypadek dokonania takiej sprzedaży.
+1. Podmiot inny niż gmina będący pośredniczącym podmiotem węglowym, o którym mowa w art. 2 ust. 1 pkt 23a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, który dokonał sprzedaży paliwa stałego w ramach zakupu preferencyjnego osobie fizycznej w gospodarstwie domowym bez przyjęcia od tej osoby zaświadczenia lub w ilości przekraczającej ilość tego paliwa stałego określoną dla danego okresu objętego zaświadczeniem w przepisach wydanych na podstawie art. 8 ust. 2, podlega karze pieniężnej w wysokości 5000 złotych za każdy przypadek dokonania takiej sprzedaży.
 
-2. Karę pieniężną, której mowa 1, wymierza drodze decyzji Szef Krajowej Administracji Skarbowej.
+2. Karę pieniężną, o której mowa w ust. 1, wymierza w drodze decyzji Szef Krajowej Administracji Skarbowej.
 
-4. Kara pieniężna, której mowa 1, jest wpłacana na rachunek bankowy właściwego ze względu na miejsce dokonania sprzedaży organu podatkowego i stanowi dochód budżetu państwa. Art. 23–27. (pominięte)
+3. Termin zapłaty kary pieniężnej, o której mowa w ust. 1, wynosi 7 dni od dnia, w którym decyzja o wymierzeniu kary pieniężnej stała się ostateczna.
+
+4. Kara pieniężna, o której mowa w ust. 1, jest wpłacana na rachunek bankowy właściwego ze względu na miejsce dokonania sprzedaży organu podatkowego i stanowi dochód budżetu państwa. Art. 23–27. (pominięte)
 
 **Art. 28.** W celu zapewnienia prawidłowej realizacji zadań związanych z wykonywaniem ustawy wójt, burmistrz albo prezydent miasta może:
 
-**Art. 29.** Minister właściwy do spraw aktywów państwowych terminie 7 dni od dnia przedłożenia wniosku, którym mowa art. 21 2, występuje do Prezesa Rady Ministrów zmianę planie finansowym Funduszu i wskazuje kwotę zweryfikowaną do wypłaty.
+- **1)** wprowadzić niezbędne zmiany w planie dochodów i wydatków budżetu gminy;
+- **2)** dokonać czynności, o których mowa w art. 258 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
+
+**Art. 29.** Minister właściwy do spraw aktywów państwowych w terminie 7 dni od dnia przedłożenia wniosku, o którym mowa w art. 21 ust. 2, występuje do Prezesa Rady Ministrów o zmianę w planie finansowym Funduszu i wskazuje kwotę zweryfikowaną do wypłaty.
 
 **Art. 30.**
 
-1. Do umów oraz innych czynności prawnych i faktycznych podjętych przez podmiot wprowadzający do obrotu, gminę lub podmiot, którym mowa art. 5 5, celu realizacji sprzedaży paliwa stałego przez gminę lub podmiot, którym mowa art. 5 5, z przeznaczeniem dla gospodarstw domowych od dnia 1 lipca 2022 r. do dnia wejścia życie ustawy, przepisy ustawy stosuje się odpowiednio.
+1. Do umów oraz innych czynności prawnych i faktycznych podjętych przez podmiot wprowadzający do obrotu, gminę lub podmiot, o którym mowa w art. 5 ust. 5, w celu realizacji sprzedaży paliwa stałego przez gminę lub podmiot, o którym mowa w art. 5 ust. 5, z przeznaczeniem dla gospodarstw domowych od dnia 1 lipca 2022 r. do dnia wejścia w życie ustawy, przepisy ustawy stosuje się odpowiednio.
 
-2. Umowy i inne czynności prawne oraz faktyczne dokonane przez gminę lub podmiot, którym mowa art. 5 5, celu realizacji sprzedaży paliwa stałego z przeznaczeniem dla gospodarstw domowych od dnia 1 lipca 2022 r. do dnia wejścia życie ustawy uznaje się za dokonane zgodnie z przepisami ustawy.
+2. Umowy i inne czynności prawne oraz faktyczne dokonane przez gminę lub podmiot, o którym mowa w art. 5 ust. 5, w celu realizacji sprzedaży paliwa stałego z przeznaczeniem dla gospodarstw domowych od dnia 1 lipca 2022 r. do dnia wejścia w życie ustawy uznaje się za dokonane zgodnie z przepisami ustawy.
 
-3. Przez podmiot wprowadzający do obrotu, którym mowa 1, rozumie się podmiot wprowadzający do obrotu wskazany przepisach wydanych na podstawie art. 3 12 i obowiązujących na dzień wejścia życie ustawy.
+3. Przez podmiot wprowadzający do obrotu, o którym mowa w ust. 1, rozumie się podmiot wprowadzający do obrotu wskazany w przepisach wydanych na podstawie art. 3 ust. 12 i obowiązujących na dzień wejścia w życie ustawy.
 
 **Art. 31.**
 
-1. Do postępowań sprawie wypłaty dodatku węglowego wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, prowadzonych na podstawie ustawy zmienianej art. 26 , stosuje się przepisy brzmieniu nadanym niniejszą ustawą.
+1. Do postępowań w sprawie wypłaty dodatku węglowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, prowadzonych na podstawie ustawy zmienianej w art. 26 , stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
 
-2. W przypadku gdy wójt, burmistrz albo prezydent miasta odmówił przyznania dodatku węglowego, zgodnie z art. 2 16 ustawy zmienianej art. 26 , sytuacji, której mowa art. 2 3c i 15g tej ustawy, wnioskodawca może złożyć ponownie wniosek wypłatę tego dodatku.
+2. W przypadku gdy wójt, burmistrz albo prezydent miasta odmówił przyznania dodatku węglowego, zgodnie z art. 2 ust. 16 ustawy zmienianej w art. 26 , w sytuacji, o której mowa w art. 2 ust. 3c i 15g tej ustawy, wnioskodawca może złożyć ponownie wniosek o wypłatę tego dodatku.
 
 **Art. 32.**
 
-1. W przypadku gdy określone umowach, których mowa art. 30 1, ceny paliwa stałego przekraczają ceny określone ustawie podmiot wprowadzający do obrotu oraz gmina lub podmiot, którym mowa art. 5 5, terminie 14 od dnia wejścia życie niniejszej ustawy podejmują działania mające na celu dokonanie zmian umowach, których mowa art. 30 1, zakresie ustalenia cen paliwa stałego na poziomie nieprzekraczającym cen określonych ustawie.
+1. W przypadku gdy określone w umowach, o których mowa w art. 30 ust. 1, ceny paliwa stałego przekraczają ceny określone w ustawie podmiot wprowadzający do obrotu oraz gmina lub podmiot, o którym mowa w art. 5 ust. 5, w terminie 14 od dnia wejścia w życie niniejszej ustawy podejmują działania mające na celu dokonanie zmian w umowach, o których mowa w art. 30 ust. 1, w zakresie ustalenia cen paliwa stałego na poziomie nieprzekraczającym cen określonych w ustawie.
 
-2. W przypadku dokonania zmian zgodnie z 1 kwota stanowiąca różnicę między ceną paliwa stałego, wynikająca z umowy, której mowa art. 30 1, a ceną wynikająca z umowy zmienionej zgodnie z 1, podlega zwrotowi osobie fizycznej gospodarstwie domowym, której mowa art. 8 1.
+2. W przypadku dokonania zmian zgodnie z ust. 1 kwota stanowiąca różnicę między ceną paliwa stałego, wynikająca z umowy, o której mowa w art. 30 ust. 1, a ceną wynikająca z umowy zmienionej zgodnie z ust. 1, podlega zwrotowi osobie fizycznej w gospodarstwie domowym, o której mowa w art. 8 ust. 1.
 
-3. Podmiot wprowadzający do obrotu, który dokonał zmiany umowy, której mowa art. 30 1, zakresie, którym mowa 1, lub podmiot wprowadzający do obrotu, który zawarł umowę, której mowa art. 30 1, przewidującą cenę paliwa stałego na poziomie nieprzekraczającym cen określonych ustawie, może wystąpić z wnioskiem rekompensatę, którym mowa art. 15 1, terminie do dnia 30 kwietnia 2023 r.
+3. Podmiot wprowadzający do obrotu, który dokonał zmiany umowy, o której mowa w art. 30 ust. 1, w zakresie, o którym mowa w ust. 1, lub podmiot wprowadzający do obrotu, który zawarł umowę, o której mowa w art. 30 ust. 1, przewidującą cenę paliwa stałego na poziomie nieprzekraczającym cen określonych w ustawie, może wystąpić z wnioskiem o rekompensatę, o którym mowa w art. 15 ust. 1, w terminie do dnia 30 kwietnia 2023 r.
 
-**Art. 33.** Pierwszy wniosek rekompensatę, której mowa art. 15 1, pod rygorem pozostawienia wniosku bez rozpatrzenia, podmiot wprowadzający do obrotu składa jednorazowo terminie od dnia 23 stycznia 2023 r. do dnia 25 lutego 2023 r. za transakcje sprzedaży paliwa stałego dokonane do dnia 31 grudnia 2022 r. na podstawie umowy, której mowa art. 3 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego ramach zakupu preferencyjnego na podstawie umowy sprzedaży ramach zakupu preferencyjnego. macji Publicznej informację przystąpieniu do zakupu tego paliwa stałego do dnia 31 grudnia 2022 r. 2. W przypadku gdy gmina terminie, którym mowa 1, nie ogłosi informacji przystąpieniu do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych, gmina sąsiednia, inny podmiot albo współpracujące inne podmioty mogą przystąpić do zakupu tego paliwa stałego celu prowadzenia jego sprzedaży ramach zakupu preferencyjnego również dla osób fizycznych gospodarstwach domowych znajdujących się na terenie tej gminy. 3. Gmina sąsiednia zgłasza chęć przystąpienia do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych, znajdujących się na terenie gminy, której mowa 2, przez ogłoszenie na swojej stronie podmiotowej Biuletynie Informacji Publicznej takiej informacji oraz przekazanie jej do gminy, której mowa 2. 4. Inny podmiot oraz współpracujące inne podmioty zgłaszają chęć przystąpienia do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych, znajdujących się na terenie gminy, której mowa 2, przez wystąpienie do tej gminy z wnioskiem. 5. W przypadku gdy przystąpieniem do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych zainteresowanych jest więcej niż jedna gmina sąsiednia, więcej niż jeden inny podmiot lub współpracujące inne podmioty, do zakupu tego paliwa stałego przystępują ta gmina sąsiednia, ten inny podmiot lub te współpracujące inne podmioty, którzy pierwsi dokonali zgłoszenia. 6. W przypadku, którym zgłoszenia, których mowa 3 i 4, nastąpiły tego samego dnia, do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych przystępuje gmina sąsiednia, której mowa 3. 7. Ogłoszenia, których mowa 1 i 3, nie są wiążące. 8. Gmina sąsiednia, inny podmiot albo współpracujące inne podmioty mogą przystąpić do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych do dnia 31 grudnia 2022 r. 9. Gmina, która nie przystąpiła do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych terminie, którym mowa 1, na okres, którym mowa art. 8 2 pkt 1, może ogłosić przystąpienie do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych okresie, którym mowa art. 8 2 pkt 2, terminie do dnia 7 stycznia 2023 r. Przepisy 1–7 stosuje się odpowiednio.
+**Art. 33.** Pierwszy wniosek o rekompensatę, o której mowa w art. 15 ust. 1, pod rygorem pozostawienia wniosku bez rozpatrzenia, podmiot wprowadzający do obrotu składa jednorazowo w terminie od dnia 23 stycznia 2023 r. do dnia 25 lutego 2023 r. za transakcje sprzedaży paliwa stałego dokonane do dnia 31 grudnia 2022 r. na podstawie umowy, o której mowa w art. 3 ust. 3, a jeżeli podmiot wprowadzający do obrotu jest także innym podmiotem prowadzącym sprzedaż paliwa stałego w ramach zakupu preferencyjnego – na podstawie umowy sprzedaży w ramach zakupu preferencyjnego.
+
+**Art. 34.**
+
+1. W terminie 3 dni roboczych od dnia wejścia w życie ustawy gmina zainteresowana dokonaniem zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych ogłasza na stronie podmiotowej gminy w Biuletynie Informacji Publicznej informację o przystąpieniu do zakupu tego paliwa stałego do dnia 31 grudnia 2022 r.
+
+2. W przypadku gdy gmina w terminie, o którym mowa w ust. 1, nie ogłosi informacji o przystąpieniu do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych, gmina sąsiednia, inny podmiot albo współpracujące inne podmioty mogą przystąpić do zakupu tego paliwa stałego w celu prowadzenia jego sprzedaży w ramach zakupu preferencyjnego również dla osób fizycznych w gospodarstwach domowych znajdujących się na terenie tej gminy.
+
+3. Gmina sąsiednia zgłasza chęć przystąpienia do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych, znajdujących się na terenie gminy, o której mowa w ust. 2, przez ogłoszenie na swojej stronie podmiotowej w Biuletynie Informacji Publicznej takiej informacji oraz przekazanie jej do gminy, o której mowa w ust. 2.
+
+4. Inny podmiot oraz współpracujące inne podmioty zgłaszają chęć przystąpienia do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych, znajdujących się na terenie gminy, o której mowa w ust. 2, przez wystąpienie do tej gminy z wnioskiem.
+
+5. W przypadku gdy przystąpieniem do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych zainteresowanych jest więcej niż jedna gmina sąsiednia, więcej niż jeden inny podmiot lub współpracujące inne podmioty, do zakupu tego paliwa stałego przystępują ta gmina sąsiednia, ten inny podmiot lub te współpracujące inne podmioty, którzy pierwsi dokonali zgłoszenia.
+
+6. W przypadku, w którym zgłoszenia, o których mowa w ust. 3 i 4, nastąpiły tego samego dnia, do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych przystępuje gmina sąsiednia, o której mowa w ust. 3.
+
+7. Ogłoszenia, o których mowa w ust. 1 i 3, nie są wiążące.
+
+8. Gmina sąsiednia, inny podmiot albo współpracujące inne podmioty mogą przystąpić do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych do dnia 31 grudnia 2022 r.
+
+9. Gmina, która nie przystąpiła do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych w terminie, o którym mowa w ust. 1, na okres, o którym mowa w art. 8 ust. 2 pkt 1, może ogłosić przystąpienie do zakupu paliwa stałego z przeznaczeniem dla gospodarstw domowych w okresie, o którym mowa w art. 8 ust. 2 pkt 2, w terminie do dnia 7 stycznia 2023 r. Przepisy ust. 1–7 stosuje się odpowiednio.
 
 **Art. 35.**
 
-1. Maksymalny limit wydatków z Funduszu przeznaczonych na rekompensaty dla podmiotów wprowadzających do obrotu 2023 roku wynosi 4 920 000 000 zł.
+1. Maksymalny limit wydatków z Funduszu przeznaczonych na rekompensaty dla podmiotów wprowadzających do obrotu w 2023 roku wynosi 4 920 000 000 zł.
 
-2. Zwroty środków od podmiotów wprowadzających do obrotu na rachunek rekompensaty podmiotów wprowadzających paliwo stałe do obrotu i wpływy od zgromadzonych odsetek powiększają limit, którym mowa 1.
+2. Zwroty środków od podmiotów wprowadzających do obrotu na rachunek rekompensaty podmiotów wprowadzających paliwo stałe do obrotu i wpływy od zgromadzonych odsetek powiększają limit, o którym mowa w ust. 1.
 
-3. Minister właściwy do spraw aktywów państwowych monitoruje wykorzystanie limitu wydatków, którym mowa
+3. Minister właściwy do spraw aktywów państwowych monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1. W przypadku gdy wykorzystanie środków wyniesie więcej niż 80% środków, o których mowa w ust. 1, minister właściwy do spraw aktywów państwowych informuje o tym fakcie ministra właściwego do spraw finansów publicznych oraz Prezesa Rady Ministrów.
 
-1. W przypadku gdy wykorzystanie środków wyniesie więcej niż 80% środków, których mowa 1, minister właściwy do spraw aktywów państwowych informuje tym fakcie ministra właściwego do spraw finansów publicznych oraz Prezesa Rady Ministrów.
-
-**Art. 36.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia .
+**Art. 36.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

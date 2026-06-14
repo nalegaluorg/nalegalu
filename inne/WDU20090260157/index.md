@@ -8,7 +8,7 @@ pos: 157
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Krajowej Szkole Sądownictwa i Prokuratury
@@ -79,6 +79,9 @@ Art. 57–64. (pominięte)
 #### Rozdział 2 Organy Krajowej Szkoły
 
 **Art. 5.** Organami Krajowej Szkoły są:
+
+- **1)** Rada Programowa;
+- **2)** Dyrektor.
 
 **Art. 6.**
 
@@ -677,6 +680,11 @@ Art. 57–64. (pominięte)
 
 **Art. 39.** Do obowiązków aplikanta należy:
 
+- **1)** uczestniczenie w zajęciach i praktykach przewidzianych w programie aplikacji;
+- **2)** samodzielne pogłębianie wiedzy i umiejętności praktycznych, objętych programem aplikacji;
+- **3)** przystępowanie do sprawdzianów oraz egzaminów w terminach przewidzianych programem aplikacji;
+- **4)** przestrzeganie regulaminu organizacyjnego Krajowej Szkoły oraz zarządzeń i poleceń porządkowych Dyrektora Krajowej Szkoły.
+
 **Art. 40.**
 
 1. Dyrektor Krajowej Szkoły, w drodze decyzji, zawiesza aplikanta w jego prawach i obowiązkach, jeżeli:
@@ -881,6 +889,13 @@ Art. 57–64. (pominięte)
 
 **Art. 52.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki i tryb przeprowadzania naboru dla kandydatów na aplikację sędziowską i aplikację prokuratorską, a także tryb powoływania i działania zespołu konkursowego i komisji konkursowej, mając na względzie konieczność określenia zakresu wiedzy podlegającej sprawdzeniu w trakcie konkursu, zapewnienia sprawnego i obiektywnego przeprowadzenia naboru oraz dokonania wyboru najlepszych kandydatów;
+- **2)** organizację, tryb i sposób odbywania aplikacji sędziowskiej oraz aplikacji prokuratorskiej, sposób ustalania systemu punktowego oceny sprawdzianów i ich poprawiania oraz systemu punktowego oceny przebiegu praktyk, objętych programem aplikacji, a także wzory dyplomów ukończenia aplikacji sędziowskiej i aplikacji prokuratorskiej, mając na względzie zakres wiedzy teoretycznej i praktycznej niezbędnej do zajmowania stanowiska odpowiednio sędziego i prokuratora oraz konieczność jednolitej i obiektywnej oceny wiedzy i kwalifikacji aplikantów, a także umieszczenie na dyplomach informacji o okresie odbywania aplikacji;
+- **3)** zakres, tryb i sposób przeprowadzania egzaminów sędziowskiego i prokuratorskiego oraz tryb powoływania i działania zespołów egzaminacyjnych i komisji egzaminacyjnych, a także wzory dyplomów złożenia egzaminów sędziowskiego i prokuratorskiego, mając na uwadze zakres odbytej aplikacji, potrzebę przeprowadzenia pisemnej i ustnej części egzaminów sędziowskiego i prokuratorskiego, konieczność zagwarantowania właściwej organizacji i odpowiedniego poziomu merytorycznego tych egzaminów oraz zapewnienia jednakowych warunków ich składania przez wszystkich aplikantów, a także umieszczenie na dyplomach liczby punktów uzyskanych z egzaminu;
+- **4)** wysokość stypendium, a także tryb jego wypłacania i zwrotu, mając na uwadze rodzaj aplikacji i warunki jej odbywania, a w szczególności miejsce zamieszkania;
+- **4a)** (uchylony)
+- **5)** wysokość opłaty egzaminacyjnej za przystąpienie do egzaminu prokuratorskiego, uiszczanej przez osoby niebędące aplikantami Krajowej Szkoły – nie wyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu.
+
 #### Rozdział 4a Egzamin referendarski
 
 **Art. 52a.**
@@ -1084,6 +1099,9 @@ Art. 57–64. (pominięte)
 2. Środki finansowe z przychodów własnych oraz środki finansowe, o których mowa w art. 55d ust. 1 pkt 8, Krajowa Szkoła gromadzi na odrębnych rachunkach bankowych, których obsługę prowadzi bank mający siedzibę na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 55i.** Wykonywanie obowiązków wykładowcy Krajowej Szkoły stanowi:
+
+- **1)** działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2021 r. poz. 1062);
+- **2)** działalność, o której mowa w art. 22 ust. 9b pkt 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm. ).
 
 **Art. 55j.**
 

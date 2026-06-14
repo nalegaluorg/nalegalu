@@ -8,10 +8,10 @@ pos: 1638
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11663388 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 7 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001638) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1638/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 7 sierpnia 2023 r.
 w sprawie formularza potwierdzenia delegowania kierowcy na terytorium Rzeczypospolitej Polskiej z państwa trzeciego Na podstawie art. 12 ust. 7 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz.
-poz. 1523) zarządza się, co następuje: § 1. Określa się wzór formularza potwierdzenia delegowania kierowcy na terytorium Rzeczypospolitej Polskiej z państwa trzeciego, stanowiący załącznik do rozporządzenia.
+poz. 1523) zarządza się, co następuje:
+§ 1. Określa się wzór formularza potwierdzenia delegowania kierowcy na terytorium Rzeczypospolitej Polskiej z państwa trzeciego, stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 19 sierpnia 2023 r.
-Minister Infrastruktury: wz. A. Bittel POTWIERDZENIE DELEGOWANIA KIEROWCY NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ Z PAŃSTWA TRZECIEGO/ CONFIRMATION OF A POSTING DECLARATION OF A DRIVER POSTED TO THE REPUBLIC OF POLAND FROM A THIRD COUNTRY Należy wypełnić na komputerze lub maszynowo łacińskimi znakami i podpisać przed rozpoczęciem podróży/ To be filled in on a computer or typewriter in Latin characters and signed before a journey
+Minister Infrastruktury: wz. A. Bittel WZÓR WZÓR POTWIERDZENIE DELEGOWANIA KIEROWCY NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ Z PAŃSTWA TRZECIEGO/ CONFIRMATION OF A POSTING DECLARATION OF A DRIVER POSTED TO THE REPUBLIC OF POLAND FROM A THIRD COUNTRY Należy wypełnić na komputerze lub maszynowo łacińskimi znakami i podpisać przed rozpoczęciem podróży/ To be filled in on a computer or typewriter in Latin characters and signed before a journey
 1. Nazwa przewoźnika drogowego/Company’s name ………………………………………………………………………………………………………………………
 2. Adres siedziby przewoźnika albo jego adres zamieszkania (ulica i numer, kod pocztowy, miejscowość, państwo)/Company’s address or carrier address of residence (Street address, postal code, city, country) ……………………………………………………………………………………………………………………… ………………………………………………………………………………………………………………………
 3. Numer telefonu przewoźnika drogowego (w tym międzynarodowy numer kierunkowy)/Company’s telephone number (including international prefix) ………………………………………………………………………………………………………………………
@@ -44,7 +44,6 @@ Minister Infrastruktury: wz. A. Bittel POTWIERDZENIE DELEGOWANIA KIEROWCY NA TER
 12. Miejscowość/place: ……………………………………………………………………………………………
 13. Data (dzień/miesiąc/rok)/date (day/month/year):……………………………………………………………...
 14. Podpis kierowcy/Driver’s signature…………………………………………………………………………...
-WZÓR
 15. Podpis przewoźnika drogowego/Carrier’s signature………………………………………………………….
 Objaśnienia/Explanatory notes: Wypełnić jeśli wymagane jest zezwolenie w międzynarodowym transporcie drogowym/To be filled in if permit to perform international road transport is required
 

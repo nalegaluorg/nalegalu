@@ -8,10 +8,10 @@ pos: 1248
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 lipca 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1248 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 1 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1248/text.pdf) |
 
-Poz. 1248 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 1 lipca 2021 r.
-w sprawie szczegółowych wymagań, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie księgi hodowlanej dla zwierząt gospodarskich Na podstawie art. 10 ust. 9 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe wymagania, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie księgi hodowlanej dla zwierząt gospodarskich, o których mowa w art. 2 pkt 1 lit. b ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich, zwanej dalej „księgą”, w tym warunki i sposób prowadzenia księgi.
+w sprawie szczegółowych wymagań, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie księgi hodowlanej dla zwierząt gospodarskich Na podstawie art. 10 ust. 9 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe wymagania, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie księgi hodowlanej dla zwierząt gospodarskich, o których mowa w art. 2 pkt 1 lit. b ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich, zwanej dalej „księgą”, w tym warunki i sposób prowadzenia księgi.
 § 2. Związek hodowców lub inny podmiot ubiegający się o zezwolenie na prowadzenie księgi:
 1) zapewnia:
 a) prowadzenie księgi w postaci papierowej – książki lub kartoteki – lub na informatycznym nośniku danych,

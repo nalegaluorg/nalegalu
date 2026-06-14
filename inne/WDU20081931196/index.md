@@ -8,7 +8,7 @@ pos: 1196
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 139/8/A/2008 WYROK z dnia 21 października 2008 r.

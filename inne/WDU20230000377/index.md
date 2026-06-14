@@ -8,10 +8,10 @@ pos: 377
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 lutego 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 337777 Ministra Zdrowia z dnia 24 lutego 2023 r. (Dz. U. poz. …) Załącznik nr 1 PROGRAM STAŻU PODYPLOMOWEGO LEKARZA A. CZĘŚĆ STAŁA STAŻU PODYPLOMOWEGO Cel stażu: pogłębienie wiedzy teoretycznej oraz poznanie, utrwalenie i przyswojenie praktycznych umiejętności z zakresu zapobiegania, rozpoznawania, leczenia i rehabilitacji najczęściej występujących chorób, postępowania w stanach nagłego zagrożenia zdrowotnego, a także przyswojenie wiedzy z zakresu transfuzjologii, prawa medycznego, bioetyki, orzecznictwa lekarskiego, komunikacji z pacjentem i zespołem terapeutycznym oraz przeciwdziałania wypaleniu zawodowemu – jako przygotowanie lekarza do samodzielnego wykonywania zawodu.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000377) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/377/text.pdf) |
 
-337777 2023 r. (Dz. U. poz. …) Załącznik nr 1 PROGRAM STAŻU PODYPLOMOWEGO LEKARZA A. CZĘŚĆ STAŁA STAŻU PODYPLOMOWEGO Cel stażu: pogłębienie wiedzy teoretycznej oraz poznanie, utrwalenie i przyswojenie praktycznych umiejętności z zakresu zapobiegania, rozpoznawania, leczenia i rehabilitacji najczęściej występujących chorób, postępowania w stanach nagłego zagrożenia zdrowotnego, a także przyswojenie wiedzy z zakresu transfuzjologii, prawa medycznego, bioetyki, orzecznictwa lekarskiego, komunikacji z pacjentem i zespołem terapeutycznym oraz przeciwdziałania wypaleniu zawodowemu jako przygotowanie lekarza do samodzielnego wykonywania zawodu.
-STAŻ CZĄSTKOWY W DZIEDZINIE CHORÓB WEWNĘTRZNYCH I. Program stażu cząstkowego w zakresie chorób wewnętrznych Czas trwania stażu: 11 tygodni, w tym 10 tygodni choroby wewnętrzne i 1 tydzień krwiodawstwo i krwiolecznictwo. W trakcie odbywania stażu cząstkowego z zakresu chorób wewnętrznych lekarz stażysta odbywa dyżury medyczne w łącznym wymiarze 40 godzin i 20 minut miesięcznie.
+STAŻ CZĄSTKOWY W DZIEDZINIE CHORÓB WEWNĘTRZNYCH I. Program stażu cząstkowego w zakresie chorób wewnętrznych Czas trwania stażu: 11 tygodni, w tym 10 tygodni – choroby wewnętrzne i 1 tydzień – krwiodawstwo i krwiolecznictwo. W trakcie odbywania stażu cząstkowego z zakresu chorób wewnętrznych lekarz stażysta odbywa dyżury medyczne w łącznym wymiarze 40 godzin i 20 minut miesięcznie.
 Cel stażu: pogłębienie wiedzy teoretycznej oraz poznanie, utrwalenie i przyswojenie praktycznych umiejętności z zakresu rozpoznawania i leczenia, a także zapobiegania i rehabilitacji, najczęściej występujących lub stanowiących największe zagrożenie dla życia chorób wewnętrznych w warunkach opieki stacjonarnej i ambulatoryjnej oraz z zakresu transfuzjologii.
-Program stażu: w zakresie chorób wewnętrznych:
+Program stażu: – w zakresie chorób wewnętrznych:
 1. Zapobieganie, rozpoznawanie i leczenie najczęściej występujących chorób wewnętrznych:
 1) układu krążenia:
 a) choroby niedokrwiennej serca, zawału mięśnia sercowego,
@@ -48,7 +47,7 @@ d) astmy oskrzelowej,
 e) raka płuc,
 f) gruźlicy;
 3) układu moczowego:
-a) niewydolności nerek ostrej i przewlekłej,
+a) niewydolności nerek – ostrej i przewlekłej,
 b) ostrego i przewlekłego odmiedniczkowego zapalenia nerek,
 c) ostrego i przewlekłego kłębkowego zapalenia nerek,
 d) kamicy nerkowej,
@@ -102,7 +101,7 @@ c) osteoporozy;
 7) płukania żołądka;
 8) pomiaru i interpretacji wyników pomiaru ciśnienia tętniczego krwi, w tym pomiaru ciśnienia na kostce;
 9) pomiaru glikemii.
-w zakresie transfuzjologii klinicznej (10 godzin wykładów i ćwiczenia praktyczne)
+– w zakresie transfuzjologii klinicznej (10 godzin wykładów i ćwiczenia praktyczne)
 1. Zapoznanie się z następującymi zasadami współczesnej transfuzjologii:
 1) pobierania i przechowywania krwi oraz otrzymywania preparatów krwiopochodnych;
 2) podstawami immunologii transfuzjologicznej;
@@ -111,11 +110,11 @@ w zakresie transfuzjologii klinicznej (10 godzin wykładów i ćwiczenia praktyc
 5) powikłaniami poprzetoczeniowymi.
 2. Poznanie praktyczne następujących umiejętności:
 1) rejestrowania i kwalifikowania krwiodawców oraz zasad prowadzenia dokumentacji w tym zakresie;
-2) metod pobierania krwi i osocza konwencjonalnie i przy użyciu separatorów, poznanie zasad wytwarzania preparatów krwiopochodnych;
-3) przeprowadzania badań immunologicznych, serologicznych antygenów krwinek czerwonych i przeciwciał, próby zgodności krzyżowej;
+2) metod pobierania krwi i osocza – konwencjonalnie i przy użyciu separatorów, poznanie zasad wytwarzania preparatów krwiopochodnych;
+3) przeprowadzania badań immunologicznych, serologicznych – antygenów krwinek czerwonych i przeciwciał, próby zgodności krzyżowej;
 4) wykrywania markerów wirusowych (HBV, HCV, HIV);
 5) zasad kontroli jakości, przechowywania i dystrybucji krwi oraz jej preparatów.
-w zakresie bezpieczeństwa pacjenta, w tym profilaktyki zakażeń HIV, diagnostyki i leczenia AIDS, diagnostyki i leczenia HCV (5 godzin wykładów):
+– w zakresie bezpieczeństwa pacjenta, w tym profilaktyki zakażeń HIV, diagnostyki i leczenia AIDS, diagnostyki i leczenia HCV – (5 godzin wykładów):
 1) epidemiologia zakażeń HIV i AIDS;
 2) podstawowe wiadomości o budowie wirusa HIV i wykrywaniu zakażeń;
 3) wybrane zagadnienia HIV/AIDS w ujęciu nauk medycznych;
@@ -123,15 +122,15 @@ w zakresie bezpieczeństwa pacjenta, w tym profilaktyki zakażeń HIV, diagnosty
 5) poradnictwo przed testem i po teście;
 6) strategia leczenia antyretrowirusowego zakażonych HIV i chorych na AIDS;
 7) etyczne i prawne aspekty HIV i AIDS;
-8) elementy komunikowania się w relacjach lekarz pacjent zakażony HIV lub chory na AIDS;
+8) elementy komunikowania się w relacjach lekarz – pacjent zakażony HIV lub chory na AIDS;
 9) diagnostyka i leczenie HCV.
-STAŻ CZĄSTKOWY W DZIEDZINIE PEDIATRII II. Program stażu cząstkowego w zakresie pediatrii Czas trwania stażu: 8 tygodni, w tym pediatria 6 tygodni i neonatologia 2 tygodnie.
+STAŻ CZĄSTKOWY W DZIEDZINIE PEDIATRII II. Program stażu cząstkowego w zakresie pediatrii Czas trwania stażu: 8 tygodni, w tym pediatria – 6 tygodni i neonatologia – 2 tygodnie.
 W trakcie odbywania stażu cząstkowego z zakresu pediatrii lekarz stażysta odbywa dyżury medyczne w łącznym wymiarze 40 godzin i 20 minut miesięcznie.
 Cel stażu: pogłębienie wiedzy teoretycznej oraz poznanie, przyswojenie i utrwalenie praktycznych umiejętności z zakresu zapobiegania, rozpoznawania i leczenia chorób wieku dziecięcego oraz zaburzeń rozwojowych u dzieci w warunkach opieki stacjonarnej i ambulatoryjnej.
 Program stażu:
 1. Rozpoznawanie i postępowanie u noworodków w przypadkach wad rozwojowych, zaburzeń oddechowo-krążeniowych, wrodzonych oraz nabytych zakażeń i posocznicy noworodkowej, ostrych zaburzeń metabolicznych i neurologicznych, konfliktu serologicznego, choroby krwotocznej noworodków, chorób wymagających niezwłocznej interwencji chirurgicznej, dysplazji i zwichnięcia stawów biodrowych, niedoczynności tarczycy i zespołu alkoholowego.
 2. Rozpoznawanie i leczenie u niemowląt chorób wywołanych zakażeniami bakteryjnymi i wirusowymi, w tym wirusowego zapalenia wątroby i AIDS, ostrych biegunek i ich powikłań, biegunek przewlekłych i stanów niedoborowych, chorób układu oddechowego, niedoczynności tarczycy, dysplazji stawów biodrowych, naglących chorób jamy brzusznej (wgłobienie), chorób przebiegających z drgawkami i innych stanów napadowych.
-3. Rozpoznawanie i leczenie u dzieci powyżej 1. roku życia: skutków urazów i zatruć, zaburzeń rozwojowych, zaburzeń świadomości, chorób wywołanych czynnikami zakaźnymi w tym chorób zakaźnych wieku dziecięcego, chorób przewodu pokarmowego, nerek i nadciśnienia tętniczego, chorób nowotworowych, reumatycznych, zaburzeń immunologicznych, niedoborów białkowo-energetycznych i witaminowych oraz chorób atopowych i reakcji anafilaktycznych, chorób z uzależnienia.
+3. Rozpoznawanie i leczenie u dzieci powyżej 1. roku życia: skutków urazów i zatruć, zaburzeń rozwojowych, zaburzeń świadomości, chorób wywołanych czynnikami zakaźnymi – w tym chorób zakaźnych wieku dziecięcego, chorób przewodu pokarmowego, nerek i nadciśnienia tętniczego, chorób nowotworowych, reumatycznych, zaburzeń immunologicznych, niedoborów białkowo-energetycznych i witaminowych oraz chorób atopowych i reakcji anafilaktycznych, chorób z uzależnienia.
 4. Poznanie kalendarza szczepień, zasad stosowania szczepionek i surowic, znajomość niepożądanych reakcji poszczepiennych i przeciwwskazań do szczepień.
 5. Opanowanie następujących umiejętności i czynności:
 1) postępowania z noworodkiem bezpośrednio po porodzie:
@@ -152,27 +151,27 @@ c) resuscytacji noworodka;
 13) pobrania płynu mózgowo-rdzeniowego do badania przy podejrzeniu zapalenia opon mózgowo-rdzeniowych;
 14) pobrania materiałów do badań mikrobiologicznych;
 15) założenia zgłębnika do żołądka lub odbytnicy i cewnika do pęcherza moczowego.
-STAŻ CZĄSTKOWY W DZIEDZINIE CHIRURGII OGÓLNEJ III. Program stażu cząstkowego w zakresie chirurgii ogólnej Czas trwania stażu: 8 tygodni, w tym chirurgia ogólna 6 tygodni i chirurgia urazowa 2 tygodnie. W trakcie odbywania stażu cząstkowego z zakresu chirurgii ogólnej lekarz stażysta odbywa dyżury medyczne w łącznym wymiarze 40 godzin i 20 minut miesięcznie.
+STAŻ CZĄSTKOWY W DZIEDZINIE CHIRURGII OGÓLNEJ III. Program stażu cząstkowego w zakresie chirurgii ogólnej Czas trwania stażu: 8 tygodni, w tym chirurgia ogólna – 6 tygodni i chirurgia urazowa – 2 tygodnie. W trakcie odbywania stażu cząstkowego z zakresu chirurgii ogólnej lekarz stażysta odbywa dyżury medyczne w łącznym wymiarze 40 godzin i 20 minut miesięcznie.
 Cel stażu: pogłębienie wiedzy teoretycznej oraz poznanie, utrwalenie i przyswojenie praktycznych umiejętności z zakresu rozpoznawania, leczenia, zapobiegania i rehabilitacji najczęściej występujących chorób chirurgicznych w ramach opieki stacjonarnej i ambulatoryjnej.
 Program stażu:
 1. Rozpoznawanie i postępowanie w przypadkach:
 1) wstrząsu urazowego i hipowolemicznego;
 2) obrażeń urazowych dotyczących:
-a) ośrodkowego i obwodowego układu nerwowego: mózgu, kości czaszki i twarzoczaszki, z uwzględnieniem skali Glasgow, nerwów czaszkowych i obwodowych,
-b) klatki piersiowej, w szczególności: w zranieniach klatki piersiowej, serca, płuc i dużych naczyń, w odmie opłucnowej pourazowej i samoistnej, w uszkodzeniach ściany klatki piersiowej, żeber i mostka,
-c) jamy brzusznej, w szczególności: w ranach brzucha, w tępych obrażeniach brzucha,
+a) ośrodkowego i obwodowego układu nerwowego: – mózgu, kości czaszki i twarzoczaszki, z uwzględnieniem skali Glasgow, – nerwów czaszkowych i obwodowych,
+b) klatki piersiowej, w szczególności: – w zranieniach klatki piersiowej, serca, płuc i dużych naczyń, – w odmie opłucnowej pourazowej i samoistnej, – w uszkodzeniach ściany klatki piersiowej, żeber i mostka,
+c) jamy brzusznej, w szczególności: – w ranach brzucha, – w tępych obrażeniach brzucha,
 d) układu moczowo-płciowego,
 e) kręgosłupa, w szczególności diagnozowanie i postępowanie z chorymi ze złamaniem kręgosłupa,
-f) kończyn, w szczególności: zamkniętych i otwartych złamań kończyn, ze szczególnym uwzględnieniem najczęściej spotykanych złamań, tzn. nasady dalszej kości promieniowej, kostek, szyjki kości udowej, zwichnięć dużych stawów (barkowego, łokciowego, biodrowego), podwichnięć, skręceń i stłuczeń stawów, ze szczególnym uwzględnieniem stawu kolanowego i skokowo-goleniowego,
-g) oparzeń i odmrożeń: w oparzeniach i odmrożeniach powłok, w oparzeniach dróg oddechowych i przewodu pokarmowego;
+f) kończyn, w szczególności: – zamkniętych i otwartych złamań kończyn, ze szczególnym uwzględnieniem najczęściej spotykanych złamań, tzn. nasady dalszej kości promieniowej, kostek, szyjki kości udowej, – zwichnięć dużych stawów (barkowego, łokciowego, biodrowego), – podwichnięć, skręceń i stłuczeń stawów, ze szczególnym uwzględnieniem stawu kolanowego i skokowo-goleniowego,
+g) oparzeń i odmrożeń: – w oparzeniach i odmrożeniach powłok, – w oparzeniach dróg oddechowych i przewodu pokarmowego;
 3) zakażeń w chirurgii:
 a) we wstrząsie septycznym,
 b) w ropnym zapaleniu skóry i tkanki podskórnej (ropień, czyrak, zastrzał, zanokcica),
 c) w zakażeniach przyrannych (tężec, zgorzel gazowa, róża);
 4) najczęstszych schorzeń chirurgicznych jamy brzusznej, dotyczących:
-a) „ostrego brzucha”: przedziurawienia przewodu pokarmowego, ostrego zapalenia wyrostka robaczkowego, ostrego zapalenia pęcherzyka żółciowego, ostrego zapalenia trzustki, niedrożności jelit, ze szczególnym uwzględnieniem uwięźniętych przepuklin zewnętrznych,
+a) „ostrego brzucha”: – przedziurawienia przewodu pokarmowego, – ostrego zapalenia wyrostka robaczkowego, – ostrego zapalenia pęcherzyka żółciowego, – ostrego zapalenia trzustki, – niedrożności jelit, ze szczególnym uwzględnieniem uwięźniętych przepuklin zewnętrznych,
 b) krwawienia do przewodu pokarmowego,
-c) innych chorób przewodu pokarmowego: choroby wrzodowej żołądka i dwunastnicy, kamicy żółciowej, najczęstszych chorób odbytu i odbytnicy (ropień, przetoka, guzki krwawnicze);
+c) innych chorób przewodu pokarmowego: – choroby wrzodowej żołądka i dwunastnicy, – kamicy żółciowej, – najczęstszych chorób odbytu i odbytnicy (ropień, przetoka, guzki krwawnicze);
 5) schorzeń urologicznych:
 a) kamicy nerkowej,
 b) zatrzymania moczu,
@@ -209,11 +208,11 @@ f) w przewlekłej niewydolności układu żylnego kończyn dolnych.
 7) dożylnego przetaczania krwi i płynów infuzyjnych;
 8) postępowania w oparzeniach;
 9) badania per rectum i oceny gruczołu krokowego.
-STAŻ CZĄSTKOWY W DZIEDZINIE INTENSYWNEJ TERAPII ORAZ W DZIEDZINIE MEDYCYNY RATUNKOWEJ IV. Program stażu cząstkowego w zakresie intensywnej terapii oraz medycyny ratunkowej IVa. Program stażu cząstkowego w zakresie intensywnej terapii Czas trwania stażu: 2 tygodnie intensywna terapia. W trakcie odbywania stażu cząstkowego z zakresu intensywnej terapii lekarz stażysta odbywa dyżury medyczne w łącznym wymiarze 40 godzin i 20 minut miesięcznie.
+STAŻ CZĄSTKOWY W DZIEDZINIE INTENSYWNEJ TERAPII ORAZ W DZIEDZINIE MEDYCYNY RATUNKOWEJ IV. Program stażu cząstkowego w zakresie intensywnej terapii oraz medycyny ratunkowej IVa. Program stażu cząstkowego w zakresie intensywnej terapii Czas trwania stażu: 2 tygodnie – intensywna terapia. W trakcie odbywania stażu cząstkowego z zakresu intensywnej terapii lekarz stażysta odbywa dyżury medyczne w łącznym wymiarze 40 godzin i 20 minut miesięcznie.
 Cel stażu: zrozumienie doktryny intensywnej terapii na podstawie kryteriów przyjęć i zwolnień z oddziału, zapoznanie się z systemem organizacji oraz procedur medycznych obowiązujących w intensywnej terapii oraz zrozumienie oceny ciężkości stanu chorego na podstawie skal predykcyjnych i skal bezpośrednio oceniających stan ogólny chorego, jak również stan wybranych układów i narządów. Zapoznanie się z taktyką postępowania w intensywnej terapii związaną z wdrażaniem inwazyjnych technik postępowania leczniczego na podstawie inwazyjnych technologii monitorowania podstawowych i szczegółowych parametrów życiowych.
-Miejsce odbywania stażu: kliniki, oddziały kliniczne, oddziały i jednostki uprawnione wpisane na listę marszałka województwa.
-1. Ocena stanu chorego w okresie przedoperacyjnym w zależności od rodzaju wskazań do zabiegu operacyjnego lub diagnostycznego.
-2. Postępowanie z chorym w oddziale i na stanowisku intensywnej terapii zagadnienia ogólne:
+Miejsce odbywania stażu: kliniki, oddziały kliniczne, oddziały i jednostki uprawnione – wpisane na listę marszałka województwa.
+1. Ocena stanu chorego w okresie przedoperacyjnym – w zależności od rodzaju wskazań do zabiegu operacyjnego lub diagnostycznego.
+2. Postępowanie z chorym w oddziale i na stanowisku intensywnej terapii – zagadnienia ogólne:
 1) specyfika stanowiska intensywnej terapii;
 2) specyfika postrzegania i oceny stanu ogólnego w intensywnej terapii;
 3) specyfika diagnostyki różnicowej w intensywnej terapii;
@@ -238,7 +237,7 @@ Miejsce odbywania stażu: kliniki, oddziały kliniczne, oddziały i jednostki up
 13) rodzaje i podział wstrząsu;
 14) chory z urazem wielonarządowym;
 15) stan po nagłym zatrzymaniu krążenia, fizjopatologia oraz postępowanie lecznicze (hipotermia terapeutyczna);
-16) zakażenia na oddziale intensywnej terapii (sepsa, ciężka sepsa, wstrząs septyczny), Surviving Sepsis Compaign pakiety resuscytacyjne i pakiety terapeutyczne;
+16) zakażenia na oddziale intensywnej terapii (sepsa, ciężka sepsa, wstrząs septyczny), Surviving Sepsis Compaign – pakiety resuscytacyjne i pakiety terapeutyczne;
 17) płynoterapia;
 18) leczenie preparatami krwi i preparatami krwiopochodnymi;
 19) żywienie w intensywnej terapii;
@@ -376,8 +375,8 @@ Program kursu:
 1. Definicja i patomechanizm bólu przewlekłego.
 2. Klasyfikacja bólu.
 3. Ocena kliniczna chorego z bólem.
-4. Ocena nasilenia bólu (ilościowa) skale bólowe.
-5. Charakterystyka bólu (ocena jakościowa) kwestionariusze i inne narzędzia oceny jakościowej.
+4. Ocena nasilenia bólu (ilościowa) – skale bólowe.
+5. Charakterystyka bólu (ocena jakościowa) – kwestionariusze i inne narzędzia oceny jakościowej.
 6. Ocena skuteczności leczenia bólu przewlekłego.
 7. Ocena kliniczna chorego z bólem przewlekłym.
 8. Farmakoterapia bólu.
@@ -405,7 +404,7 @@ Program szkolenia:
 1. Zasady sprawowania opieki zdrowotnej w świetle Konstytucji Rzeczypospolitej Polskiej.
 2. Zasady wykonywania działalności leczniczej:
 1) świadczenia zdrowotne;
-2) podmioty lecznicze rejestracja, zasady działania, szpitale kliniczne, nadzór;
+2) podmioty lecznicze – rejestracja, zasady działania, szpitale kliniczne, nadzór;
 3) dokumentacja medyczna;
 4) nadzór specjalistyczny;
 5) działalność lecznicza lekarza, lekarza dentysty w formie wykonywania praktyki zawodowej.
@@ -427,8 +426,8 @@ Program szkolenia:
 1) zadania izb lekarskich;
 2) prawa i obowiązki członków samorządu lekarskiego;
 3) organizacja i działanie organów izb lekarskich i zjazdów lekarzy;
-4) odpowiedzialność zawodowa lekarzy postępowanie wyjaśniające przed rzecznikiem odpowiedzialności zawodowej, postępowanie przed sądem lekarskim;
-5) inne samorządy zawodowe funkcjonujące w ochronie zdrowia farmaceutów, pielęgniarek i położnych, diagnostów laboratoryjnych, ich zadania i struktura.
+4) odpowiedzialność zawodowa lekarzy – postępowanie wyjaśniające przed rzecznikiem odpowiedzialności zawodowej, postępowanie przed sądem lekarskim;
+5) inne samorządy zawodowe funkcjonujące w ochronie zdrowia – farmaceutów, pielęgniarek i położnych, diagnostów laboratoryjnych, ich zadania i struktura.
 6. Inne uregulowania prawne dotyczące postępowania lekarza, w szczególności dotyczące:
 1) sztucznej prokreacji;
 2) przeszczepiania narządów i tkanek;
@@ -439,20 +438,20 @@ Program szkolenia:
 7) niektórych chorób zakaźnych;
 8) przeciwdziałania i leczenia uzależnień.
 7. Zasady wypisywania recept na leki i wyroby medyczne oraz zleceń na przedmioty ortopedyczne, środki pomocnicze i lecznicze środki techniczne.
-8. Odpowiedzialność prawna lekarza karna, cywilna i zawodowa:
+8. Odpowiedzialność prawna lekarza – karna, cywilna i zawodowa:
 1) pojęcie wykroczenia zawodowego, naruszenia dóbr osobistych, szkody, winy, odszkodowania i zadośćuczynienia;
 2) ubezpieczenie odpowiedzialności cywilnej lekarza, grupowej praktyki lekarskiej, innych podmiotów wykonujących działalność leczniczą.
 IXb. Program szkolenia w zakresie bioetyki Czas trwania szkolenia: 20 godzin wykładów realizowanych w ciągu 3 dni.
 Cel szkolenia: kształtowanie postaw lekarzy w oparciu o system norm etycznych zawartych w przysiędze i przykazaniu Hipokratesa, w „Powszechnej Deklaracji Praw Człowieka”, „Deklaracji helsińskiej” i „Deklaracji tokijskiej”, „Deklaracji genewskiej”, polskim „Kodeksie etyki lekarskiej” (KEL) oraz w „Konwencji o ochronie praw człowieka i godności istoty ludzkiej w dziedzinie zastosowania biologii i medycyny”.
 Program szkolenia:
-1. Przysięga i przykazanie Hipokratesa, „Powszechna Deklaracja Praw Człowieka”, „Deklaracja helsińska” i „Deklaracja tokijska”, polskie kodeksy etyki lekarskiej przedwojenny „Kodeks izb lekarskich”, Zbiór zasad etyczno-deontologicznych polskiego lekarza, KEL.
+1. Przysięga i przykazanie Hipokratesa, „Powszechna Deklaracja Praw Człowieka”, „Deklaracja helsińska” i „Deklaracja tokijska”, polskie kodeksy etyki lekarskiej – przedwojenny „Kodeks izb lekarskich”, Zbiór zasad etyczno-deontologicznych polskiego lekarza, KEL.
 2. „Konwencja o ochronie praw człowieka i godności istoty ludzkiej w dziedzinie zastosowania biologii i medycyny”.
-3. Etyczne aspekty eksperymentów medycznych eksperyment leczniczy i badawczy, etyczne zasady prowadzenia eksperymentu medycznego. Etyczne aspekty pobierania tkanek i narządów do transplantacji.
-4. Etyczne aspekty relacji lekarz pacjent autonomia i godność pacjenta, informacja i zgoda pacjenta, tajemnica lekarska, lojalność wobec pacjenta, prawo lekarza do odmowy leczenia.
-5. Prokreacja ludzka aspekty etyczne działań lekarskich związane z ludzką prokreacją w świetle KEL. Problemy etyczne wspomaganej prokreacji. Problem klonowania ludzi w świetle KEL i „Konwencji o ochronie praw człowieka i godności istoty ludzkiej w dziedzinie zastosowania biologii i medycyny”.
+3. Etyczne aspekty eksperymentów medycznych – eksperyment leczniczy i badawczy, etyczne zasady prowadzenia eksperymentu medycznego. Etyczne aspekty pobierania tkanek i narządów do transplantacji.
+4. Etyczne aspekty relacji lekarz – pacjent – autonomia i godność pacjenta, informacja i zgoda pacjenta, tajemnica lekarska, lojalność wobec pacjenta, prawo lekarza do odmowy leczenia.
+5. Prokreacja ludzka – aspekty etyczne działań lekarskich związane z ludzką prokreacją w świetle KEL. Problemy etyczne wspomaganej prokreacji. Problem klonowania ludzi w świetle KEL i „Konwencji o ochronie praw człowieka i godności istoty ludzkiej w dziedzinie zastosowania biologii i medycyny”.
 6. Problemy etyczne dotyczące racjonowania metod leczenia i alokacji środków finansowych. Równość w dostępie do świadczeń zdrowotnych.
 7. Etyczne aspekty walki z bólem. Etyczne aspekty leczenia paliatywnego. Leczenie hospicyjne z punktu widzenia etyki.
-8. Etyczna problematyka związana z reanimacją i uporczywą terapią wartość i jakość życia ludzkiego. Wskazania do reanimacji w świetle KEL, kryteria śmierci, pojęcie stanu terminalnego. Problem moralnego prawa odstąpienia od reanimacji i uporczywej terapii.
+8. Etyczna problematyka związana z reanimacją i uporczywą terapią – wartość i jakość życia ludzkiego. Wskazania do reanimacji w świetle KEL, kryteria śmierci, pojęcie stanu terminalnego. Problem moralnego prawa odstąpienia od reanimacji i uporczywej terapii.
 9. Etyczne aspekty problemu umierania. Problem godności umierania. Problem eutanazji w świetle medycyny hipokratejskiej.
 10. Cnoty i ideały w życiu zawodowym lekarza. Pojęcie godności zawodu lekarza.
 Wzorce postaw godnych naśladowania. Wybrane dane z historii medycyny w zakresie pojęć bioetycznych. Kazusy w bioetyce.
@@ -464,7 +463,7 @@ Program szkolenia:
 2) wielosektorowość i multidyscyplinarność ochrony zdrowia, prozdrowotna polityka publiczna w państwach wysokorozwiniętych;
 3) aktualne problemy zdrowia publicznego w Rzeczypospolitej Polskiej i Unii Europejskiej.
 2. Organizacja i ekonomika zdrowia:
-1) systemy ochrony zdrowia na świecie podstawowe modele organizacji i finansowania, transformacje systemów ich przyczyny, kierunki i cele zmian;
+1) systemy ochrony zdrowia na świecie – podstawowe modele organizacji i finansowania, transformacje systemów – ich przyczyny, kierunki i cele zmian;
 2) zasady organizacji i finansowania systemu opieki zdrowotnej w Rzeczypospolitej Polskiej;
 3) instytucje zdrowia publicznego w Rzeczypospolitej Polskiej: Państwowa Inspekcja Sanitarna, Krajowe Centrum Przeciwdziałania Uzależnieniom, Krajowe Centrum do Spraw AIDS, zadania własne samorządu terytorialnego oraz administracji centralnej: organizacja, zadania, instrumenty działania;
 4) wspólnotowe i międzynarodowe regulacje prawne ochrony zdrowia;
@@ -473,7 +472,7 @@ Program szkolenia:
 7) zasady funkcjonowania systemu refundacji leków w Rzeczypospolitej Polskiej: cele i narzędzia polityki lekowej państwa a regulacje Unii Europejskiej;
 8) wskaźniki stanu zdrowia i funkcjonowania opieki zdrowotnej w krajach OECD.
 3. Zdrowie ludności i jego ocena:
-1) pojęcie zdrowia i choroby przegląd wybranych koncepcji teoretycznych;
+1) pojęcie zdrowia i choroby – przegląd wybranych koncepcji teoretycznych;
 2) społeczne i ekonomiczne determinanty zdrowia;
 3) podstawowe pojęcia epidemiologii, mierniki rozpowszechnienia zjawisk zdrowotnych w populacji;
 4) epidemiologia jako narzędzie zdrowia publicznego: źródła informacji o sytuacji zdrowotnej oraz określanie potrzeb zdrowotnych ludności;
@@ -505,7 +504,7 @@ Program szkolenia:
 SZKOLENIE Z ZAKRESU KOMUNIKACJI Z PACJENTEM I ZESPOŁEM TERAPEUTYCZNYM ORAZ PRZECIWDZIAŁANIA WYPALENIU ZAWODOWEMU XI. Program szkolenia w zakresie komunikacji z pacjentem i zespołem terapeutycznym oraz przeciwdziałania wypaleniu zawodowemu Czas trwania szkolenia: 20 godzin wykładów realizowanych w ciągu 3 dni.
 Cel szkolenia: pogłębienie wiedzy teoretycznej oraz poznanie, utrwalenie i przyswojenie technik komunikacji z pacjentem, którego rezultatem będzie polepszenie kontaktu z pacjentem i jego rodziną, zmniejszenie stresu przy komunikacji w trudnych sprawach, dobre radzenie sobie w trudnych sytuacjach zawodowych oraz zwiększenie satysfakcji z pracy.
 Program szkolenia:
-1. Komunikacja z pacjentem przepisy prawne.
+1. Komunikacja z pacjentem – przepisy prawne.
 2. Bariery komunikacyjne i ich przełamywanie.
 3. Zrozumiała komunikacja werbalna i niewerbalna oraz jej wpływ na postępy w leczeniu.
 4. Komunikacja w trudnych sytuacjach związanych z przekazywaniem niepomyślnych informacji.
@@ -629,7 +628,7 @@ Program stażu:
 3) wykonania skalingu naddziąsłowego i poddziąsłowego u osób z zapaleniem przyzębia o umiarkowanym zaawansowaniu;
 4) korekty innych miejscowych czynników etiologicznych zapaleń dziąseł i przyzębia;
 5) interpretacji wyników badań laboratoryjnych.
-4. Szkolenie z zakresu bezpieczeństwa pacjenta, w tym profilaktyki zakażeń HIV, diagnostyki i leczenia AIDS, diagnostyki i leczenia HCV (5 godzin wykładów):
+4. Szkolenie z zakresu bezpieczeństwa pacjenta, w tym profilaktyki zakażeń HIV, diagnostyki i leczenia AIDS, diagnostyki i leczenia HCV – (5 godzin wykładów):
 1) epidemiologia zakażeń HIV i AIDS;
 2) podstawowe wiadomości o budowie wirusa HIV i wykrywaniu zakażeń;
 3) wybrane zagadnienia HIV/AIDS w ujęciu nauk medycznych;
@@ -637,7 +636,7 @@ Program stażu:
 5) poradnictwo przed testem i po teście;
 6) strategia leczenia antyretrowirusowego zakażonych HIV i chorych na AIDS;
 7) etyczne i prawne aspekty HIV i AIDS;
-8) elementy komunikowania się w relacjach lekarz pacjent zakażony HIV i chory na AIDS;
+8) elementy komunikowania się w relacjach lekarz – pacjent zakażony HIV i chory na AIDS;
 9) diagnostyka i leczenie HCV.
 STAŻ CZĄSTKOWY W DZIEDZINIE ORTODONCJI VI. Program stażu cząstkowego w zakresie ortodoncji Czas trwania stażu: 4 tygodnie.
 Program stażu:
@@ -668,8 +667,8 @@ Program kursu:
 1. Definicja i patomechanizm bólu przewlekłego.
 2. Klasyfikacja bólu.
 3. Ocena kliniczna chorego z bólem.
-4. Ocena nasilenia bólu (ilościowa) skale bólowe.
-5. Charakterystyka bólu (ocena jakościowa) kwestionariusze i inne narzędzia oceny jakościowej.
+4. Ocena nasilenia bólu (ilościowa) – skale bólowe.
+5. Charakterystyka bólu (ocena jakościowa) – kwestionariusze i inne narzędzia oceny jakościowej.
 6. Ocena skuteczności leczenia bólu przewlekłego.
 7. Ocena kliniczna chorego z bólem przewlekłym.
 8. Farmakoterapia bólu.
@@ -697,10 +696,10 @@ Program szkolenia:
 1. Zasady sprawowania opieki zdrowotnej w świetle Konstytucji Rzeczypospolitej Polskiej.
 2. Zasady wykonywania działalności leczniczej:
 1) świadczenia zdrowotne;
-2) podmioty lecznicze rejestracja, zasady działania, szpitale kliniczne, nadzór;
+2) podmioty lecznicze – rejestracja, zasady działania, szpitale kliniczne, nadzór;
 3) dokumentacja medyczna;
 4) nadzór specjalistyczny;
-5) działalność lecznicza lekarza, lekarza dentysty w formie wykonywania praktyki zawodowej.
+5) działalność lecznicza lekarza, lekarza dentysty – w formie wykonywania praktyki zawodowej.
 3. Zasady wykonywania zawodu lekarza dentysty:
 1) definicja zawodu lekarza dentysty;
 2) prawo wykonywania zawodu;
@@ -719,27 +718,27 @@ Program szkolenia:
 1) zadania izb lekarskich;
 2) prawa i obowiązki członków samorządu lekarskiego;
 3) organizacja i działanie organów izb lekarskich i zjazdów lekarzy;
-4) odpowiedzialność zawodowa lekarzy dentystów postępowanie wyjaśniające przed rzecznikiem odpowiedzialności zawodowej, postępowanie przed sądem lekarskim;
-5) inne samorządy zawodowe funkcjonujące w ochronie zdrowia farmaceutów, pielęgniarek i położnych, diagnostów laboratoryjnych, ich zadania i struktura.
+4) odpowiedzialność zawodowa lekarzy dentystów – postępowanie wyjaśniające przed rzecznikiem odpowiedzialności zawodowej, postępowanie przed sądem lekarskim;
+5) inne samorządy zawodowe funkcjonujące w ochronie zdrowia – farmaceutów, pielęgniarek i położnych, diagnostów laboratoryjnych, ich zadania i struktura.
 6. Inne uregulowania prawne dotyczące postępowania lekarza dentysty, w szczególności dotyczące:
 1) przeszczepiania narządów i tkanek;
 2) zabiegów estetycznych;
 3) chorób psychicznych;
 4) niektórych chorób zakaźnych.
 7. Zasady wypisywania recept na leki i wyroby medyczne oraz zleceń na przedmioty ortopedyczne, środki pomocnicze i lecznicze środki techniczne.
-8. Odpowiedzialność prawna lekarza dentysty karna, cywilna i zawodowa:
+8. Odpowiedzialność prawna lekarza dentysty – karna, cywilna i zawodowa:
 1) pojęcie wykroczenia zawodowego, naruszenia dóbr osobistych, szkody, winy, odszkodowania i zadośćuczynienia;
 2) ubezpieczenie odpowiedzialności cywilnej lekarza dentysty, grupowej praktyki lekarskiej, innych podmiotów wykonujących działalność leczniczą.
 Xb. Program szkolenia w zakresie bioetyki Czas trwania szkolenia: 14 godzin wykładów realizowanych w ciągu 2 dni.
 Cel szkolenia: kształtowanie postaw lekarzy w oparciu o system norm etycznych zawartych w przysiędze i przykazaniu Hipokratesa, w „Powszechnej Deklaracji Praw Człowieka”, „Deklaracji helsińskiej” i „Deklaracji tokijskiej”, „Deklaracji genewskiej”, polskim „Kodeksie etyki lekarskiej” (KEL) oraz w „Konwencji o ochronie praw człowieka i godności istoty ludzkiej w dziedzinie zastosowania biologii i medycyny”.
 Program szkolenia:
-1. Przysięga i przykazanie Hipokratesa, „Powszechna Deklaracja Praw Człowieka”, „Deklaracja helsińska” i „Deklaracja tokijska”, polskie kodeksy etyki lekarskiej przedwojenny „Kodeks izb lekarskich”, Zbiór zasad etyczno-deontologicznych polskiego lekarza, KEL.
+1. Przysięga i przykazanie Hipokratesa, „Powszechna Deklaracja Praw Człowieka”, „Deklaracja helsińska” i „Deklaracja tokijska”, polskie kodeksy etyki lekarskiej – przedwojenny „Kodeks izb lekarskich”, Zbiór zasad etyczno-deontologicznych polskiego lekarza, KEL.
 2. „Konwencja o ochronie praw człowieka i godności istoty ludzkiej w dziedzinie zastosowania biologii i medycyny”.
-3. Etyczne aspekty eksperymentów medycznych eksperyment leczniczy i badawczy, etyczne zasady prowadzenia eksperymentu medycznego. Etyczne aspekty pobierania tkanek i narządów do transplantacji.
-4. Etyczne aspekty relacji lekarz dentysta pacjent autonomia i godność pacjenta, informacja i zgoda pacjenta, tajemnica lekarska, lojalność wobec pacjenta, prawo lekarza do odmowy leczenia.
+3. Etyczne aspekty eksperymentów medycznych – eksperyment leczniczy i badawczy, etyczne zasady prowadzenia eksperymentu medycznego. Etyczne aspekty pobierania tkanek i narządów do transplantacji.
+4. Etyczne aspekty relacji lekarz dentysta – pacjent – autonomia i godność pacjenta, informacja i zgoda pacjenta, tajemnica lekarska, lojalność wobec pacjenta, prawo lekarza do odmowy leczenia.
 5. Problemy etyczne dotyczące racjonowania metod leczenia i alokacji środków finansowych. Równość w dostępie do świadczeń zdrowotnych.
 6. Etyczne aspekty walki z bólem.
-7. Etyczna problematyka związana z reanimacją i uporczywą terapią wartość i jakość życia ludzkiego. Wskazania do reanimacji w świetle KEL, kryteria śmierci, pojęcie stanu terminalnego. Problem moralnego prawa odstąpienia od reanimacji i uporczywej terapii.
+7. Etyczna problematyka związana z reanimacją i uporczywą terapią – wartość i jakość życia ludzkiego. Wskazania do reanimacji w świetle KEL, kryteria śmierci, pojęcie stanu terminalnego. Problem moralnego prawa odstąpienia od reanimacji i uporczywej terapii.
 8. Etyczne aspekty problemu umierania. Problem godności umierania. Problem eutanazji w świetle medycyny hipokratejskiej.
 9. Cnoty i ideały w życiu zawodowym lekarza dentysty. Pojęcie godności zawodu lekarza dentysty. Wzorce postaw godnych naśladowania. Wybrane dane z historii medycyny w zakresie pojęć bioetycznych. Kazusy w bioetyce.
 SZKOLENIE Z ZAKRESU ZDROWIA PUBLICZNEGO I PROFILAKTYKI DOTYCZĄCEJ SZCZEPIEŃ OCHRONNYCH XI. Program szkolenia w zakresie zdrowia publicznego i profilaktyki dotyczącej szczepień ochronnych XIa. Program szkolenia w zakresie zdrowia publicznego Czas trwania szkolenia: 14 godzin wykładów realizowanych w ciągu 2 dni.
@@ -750,7 +749,7 @@ Program szkolenia:
 2) wielosektorowość i multidyscyplinarność ochrony zdrowia, prozdrowotna polityka publiczna w państwach wysokorozwiniętych;
 3) aktualne problemy zdrowia publicznego w Rzeczypospolitej Polskiej i Unii Europejskiej.
 2. Organizacja i ekonomika zdrowia:
-1) systemy ochrony zdrowia na świecie podstawowe modele organizacji i finansowania, transformacje systemów ich przyczyny, kierunki i cele zmian;
+1) systemy ochrony zdrowia na świecie – podstawowe modele organizacji i finansowania, transformacje systemów – ich przyczyny, kierunki i cele zmian;
 2) zasady organizacji i finansowania systemu opieki zdrowotnej w Rzeczypospolitej Polskiej;
 3) instytucje zdrowia publicznego w Rzeczypospolitej Polskiej: Państwowa Inspekcja Sanitarna, Krajowe Centrum Przeciwdziałania Uzależnieniom, Krajowe Centrum do Spraw AIDS, zadania własne samorządu terytorialnego oraz administracji centralnej: organizacja, zadania, instrumenty działania;
 4) wspólnotowe i międzynarodowe regulacje prawne ochrony zdrowia;
@@ -759,7 +758,7 @@ Program szkolenia:
 7) zasady funkcjonowania systemu refundacji leków w Rzeczypospolitej Polskiej, cele i narzędzia polityki lekowej państwa a regulacje wspólnotowe;
 8) wskaźniki stanu zdrowia i funkcjonowania opieki zdrowotnej w krajach OECD.
 3. Zdrowie ludności i jego ocena:
-1) pojęcie zdrowia i choroby przegląd wybranych koncepcji teoretycznych;
+1) pojęcie zdrowia i choroby – przegląd wybranych koncepcji teoretycznych;
 2) społeczne i ekonomiczne determinanty zdrowia;
 3) podstawowe pojęcia epidemiologii, mierniki rozpowszechnienia zjawisk zdrowotnych w populacji;
 4) epidemiologia jako narzędzie zdrowia publicznego: źródła informacji o sytuacji zdrowotnej oraz określanie potrzeb zdrowotnych ludności;
@@ -791,7 +790,7 @@ Program szkolenia:
 SZKOLENIE Z ZAKRESU KOMUNIKACJI Z PACJENTEM I ZESPOŁEM TERAPEUTYCZNYM ORAZ PRZECIWDZIAŁANIA WYPALENIU ZAWODOWEMU XII. Program szkolenia w zakresie komunikacji z pacjentem i zespołem terapeutycznym Czas trwania szkolenia: 14 godzin wykładów realizowanych w ciągu 2 dni.
 Cel szkolenia: pogłębienie wiedzy teoretycznej oraz poznanie, utrwalenie i przyswojenie technik komunikacji z pacjentem, którego rezultatem będzie polepszenie kontaktu z pacjentem i jego rodziną, zmniejszenie stresu przy komunikacji w trudnych sprawach, dobre radzenie sobie w trudnych sytuacjach zawodowych oraz zwiększenie satysfakcji z pracy.
 Program szkolenia:
-1. Komunikacja z pacjentem przepisy prawne.
+1. Komunikacja z pacjentem – przepisy prawne.
 2. Bariery komunikacyjne i ich przełamywanie.
 3. Zrozumiała komunikacja werbalna i niewerbalna oraz jej wpływ na postępy w leczeniu.
 4. Komunikacja w trudnych sytuacjach związanych z przekazywaniem niepomyślnych informacji.
@@ -817,7 +816,7 @@ Program kursu:
 5) farmakoterapia nagłego zatrzymania krążenia;
 6) epidemiologia i klinika nagłych zatrzymań krążenia u dzieci, odrębności anatomiczno-fizjologicznych wieku dziecięcego;
 7) specyfika zaawansowanej resuscytacji krążeniowo-oddechowej noworodków, niemowląt i dzieci: drożność dróg oddechowych, wentylacja zastępcza;
-8) współczesne zalecenia i algorytmy prowadzenia resuscytacji krążeniowo-oddechowej: zespół resuscytacyjny jego zadania i monitorowanie skuteczności;
+8) współczesne zalecenia i algorytmy prowadzenia resuscytacji krążeniowo-oddechowej: zespół resuscytacyjny – jego zadania i monitorowanie skuteczności;
 9) resuscytacja krążeniowo-oddechowa w sytuacjach szczególnych: wstrząs anafilaktyczny, wstrząs kardiogenny, wstrząs septyczny, resuscytacja ciężarnych, podtopienie, hipotermia, porażenie prądem lub piorunem, ostry zespół wieńcowy, udar mózgowy.
 3. Zestaw przeciwwstrząsowy.
 
@@ -835,5 +834,5 @@ spełnia warunki do prowadzenia stażu podyplomowego lekarza określone w art. 1
 OŚWIADCZENIE o spełnianiu warunków do prowadzenia stażu podyplomowego przez indywidualną lub grupową praktykę lekarską lub indywidualną specjalistyczną praktykę lekarską prowadzącą staż podyplomowy lekarza dentysty albo stażu cząstkowego lub części stażu cząstkowego w dziedzinie medycyny rodzinnej przez indywidualną lub grupową praktykę lekarską, lub indywidualną specjalistyczną praktykę lekarską Niniejszym oświadczam, że praktyka zawodowa: ………………………………………………………………………………………………… po dokonaniu …………………………………………………………………………………...
 oraz przyjęciu nazwy ……………………...…………………………………………………… spełnia warunki do prowadzenia stażu podyplomowego określone w art. 15c ust. 3 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2022 r. poz. 1731, z późn. zm.).
 ……………………………… …………….……………..……………………………..
-Załącznik K ……….………………………… ………….………………………… …………………………………….. ……..…………………………………
+Załącznik Załącznik nr 7 – K ……….………………………… ………….………………………… …………………………………….. ……..…………………………………
 

@@ -8,7 +8,7 @@ pos: 1589
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw

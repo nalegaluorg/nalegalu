@@ -8,7 +8,7 @@ pos: 881
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych
@@ -356,6 +356,23 @@ Art. 54–59. (pominięte)
 #### Rozdział 3 Wyspecjalizowana jednostka
 
 **Art. 16.** Tworzy się wyspecjalizowaną jednostkę, do której zadań należy:
+
+- **1)** prowadzenie Centralnego Rejestru Operatorów, o którym mowa w art. 19, w tym dokonywanie w nim zmian;
+- **2)** sporządzanie analiz i opracowań danych:
+    - **a)** przekazywanych do rejestru, o którym mowa w pkt 1,
+    - **b)** zawartych w zbiorczych zestawieniach, o których mowa w art. 14 ust. 10;
+
+- **3)** prowadzenie bazy danych, o której mowa w art. 41 ust. 1, oraz sporządzanie analiz i opracowań danych przekazywanych do tej bazy oraz danych zawartych w zbiorczych zestawieniach, o których mowa w art. 40 ust. 6 i art. 41 ust. 5;
+- **4)** wykonywanie bieżących zaleceń Unii Europejskiej w zakresie substancji kontrolowanych i fluorowanych gazów cieplarnianych, obejmujące w szczególności:
+    - **a)** analizę i opiniowanie materiałów dotyczących substancji kontrolowanych i fluorowanych gazów cieplarnianych przekazywanych i publikowanych przez Komisję Europejską lub inne organy Unii Europejskiej,
+    - **b)** pełnienie funkcji punktu kontaktowego dla podmiotów krajowych i Komisji Europejskiej w zakresie rozporządzenia (UE) nr 517/2014 oraz rozporządzenia (WE) nr 1005/2009, sporządzanie analizy danych zawartych w sprawozdaniach przekazywanych przez podmioty zgodnie z art. 19 ust. 1–4 rozporządzenia (UE) nr 517/2014 oraz art. 27 rozporządzenia (WE) nr 1005/2009,
+    - **c)** opracowywanie raportów i dokumentacji wynikających z rozporządzenia (UE) nr 517/2014, rozporządzenia (WE) nr 1005/2009 i rozporządzeń wykonawczych Komisji Europejskiej, w tym rozporządzenia Komisji (UE) nr 291/2011 z dnia 24 marca 2011 r. w sprawie nieodzownych zastosowań substancji kontrolowanych innych niż wodorochlorofluorowęglowodory do celów laboratoryjnych i analitycznych w Unii zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1005/2009 w sprawie substancji zubożających warstwę ozonową (Dz. Urz. UE L 79 z
+
+25. 03.2011, str. 4), zwanego dalej „rozporządzeniem (UE) nr 291/2011”, rozporządzenia Komisji (UE) nr 537/2011 z dnia 1 czerwca 2011 r. w sprawie mechanizmu przyznawania ilości substancji kontrolowanych dopuszczonych do celów zastosowań laboratoryjnych i analitycznych w Unii zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1005/2009 w sprawie substancji zubożających warstwę ozonową (Dz. Urz. UE L 147 z 02.06.2011, str. 4), wymaganych do przekazania do Komisji Europejskiej lub innych organów Unii Europejskiej,
+
+- **d)** opracowywanie informacji, o których mowa w art. 26 ust. 1 rozporządzenia (WE) nr 1005/2009, wymaganych do przekazania do Komisji Europejskiej;
+- **5)** opiniowanie wniosków o odstępstwa, o których mowa w art. 6;
+- **6)** weryfikacja danych zawartych w Kartach Urządzenia oraz Kartach Systemu Ochrony Przeciwpożarowej, o których mowa w art. 14, oraz w sprawozdaniach, o których mowa w art. 39 ust. 1.
 
 **Art. 17.** Wykonywanie zadań wyspecjalizowanej jednostki powierza się Sieci Badawczej Łukasiewicz – Instytutowi Chemii Przemysłowej im. prof. Ignacego Mościckiego.
 
@@ -1046,9 +1063,78 @@ Art. 54–59. (pominięte)
 
 **Art. 47.** Administracyjną karę pieniężną w wysokości od 600 zł do 4500 zł wymierza się za:
 
+- **1)** nieprzekazanie w terminie sprawozdania, o którym mowa w art. 27 rozporządzenia (WE) nr 1005/2009, albo sprawozdania, o którym mowa w art. 19 rozporządzenia (UE) nr 517/2014;
+- **2)** wprowadzenie do obrotu, wbrew art. 12 ust. 1 rozporządzenia (UE) nr 517/2014, urządzenia lub produktu albo, wbrew art. 7 ust. 2 rozporządzenia (WE) nr 1005/2009, pojemnika bez odpowiedniej etykiety;
+- **3)** wprowadzenie, wbrew art. 13, na terytorium Rzeczypospolitej Polskiej pojemnika, produktu lub urządzenia bez etykiety w języku polskim albo bez instrukcji w języku polskim albo wprowadzenie produktu lub urządzenia niezgodnie z art. 12 ust. 1, 2 lub 5 rozporządzenia (UE) nr 517/2014 albo z art. 2 rozporządzenia (UE) 2015/2068;
+- **4)** wprowadzenie, wbrew art. 13, na terytorium Rzeczypospolitej Polskiej systemu ochrony przeciwpożarowej lub gaśnicy bez etykiety w języku polskim albo bez instrukcji w języku polskim albo wprowadzenie produktu lub urządzenia niezgodnie z art. 12 ust. 1, 2 lub 5 rozporządzenia (UE) nr 517/2014 albo z art. 2 rozporządzenia (UE) 2015/2068;
+- **5)** niesporządzenie w terminie, o którym mowa w art. 14 ust. 4, Karty Urządzenia lub jej korekty w terminie, o którym mowa w art. 14 ust. 5;
+- **6)** niesporządzenie w terminie, o którym mowa w art. 14 ust. 4, Karty Systemu Ochrony Przeciwpożarowej lub jej korekty w terminie, o którym mowa w art. 14 ust. 5;
+- **7)** niezapewnienie, wbrew art. 15 ust. 1, dokonania wpisu danych do Karty Urządzenia przez osobę wykonującą czynności i posiadającą, w stosownych przypadkach, odpowiedni certyfikat dla personelu lub przez osobę posiadającą dostęp do Karty Urządzenia nadany przez operatora dokonującą wpisu na podstawie protokołu dotyczącego wykonanych czynności;
+- **8)** niezapewnienie, wbrew art. 15 ust. 1, dokonania wpisu danych do Karty Systemu Ochrony Przeciwpożarowej przez osobę wykonującą czynności i posiadającą, w stosownych przypadkach, odpowiedni certyfikat dla personelu lub przez osobę posiadającą dostęp do Karty Systemu Ochrony Przeciwpożarowej nadany przez operatora dokonującą wpisu na podstawie protokołu dotyczącego wykonanych czynności;
+- **9)** niedokonanie w terminie, o którym mowa w art. 15 ust. 2, wpisu danych do Karty Urządzenia;
+- **10)** niedokonanie w terminie, o którym mowa w art. 15 ust. 2, wpisu danych do Karty Systemu Ochrony Przeciw-pożarowej;
+- **11)** nieprzekazanie w terminie, o którym mowa w art. 40 ust. 2, wyspecjalizowanej jednostce sprawozdania, o którym mowa w art. 39 ust. 1, lub nieprzekazanie korekty tego sprawozdania w terminie, o którym mowa w art. 39 ust. 2;
+- **12)** niezłożenie, wbrew art. 9 ust. 1, wniosku o wpis do rejestru, o którym mowa w art. 7 ust. 1, przez przedsiębiorstwo produkujące, stosujące lub wprowadzające na terytorium Rzeczypospolitej Polskiej nowe substancje do zastosowania w charakterze substratów lub do celów laboratoryjnych i analitycznych, zgodnie z art. 24 rozporządzenia (WE) nr 1005/2009, albo niepoinformowanie przez takie przedsiębiorstwo, wbrew art. 9 ust. 6, o zaprzestaniu prowadzenia działalności, o której mowa w art. 9 ust. 1;
+- **13)** niezłożenie, wbrew art. 9 ust. 1, wniosku o wpis do rejestru, o którym mowa w art. 7 ust. 1, przez przedsiębiorstwo stosujące substancje kontrolowane w charakterze substratów, zgodnie z art. 7 rozporządzenia (WE) nr 1005/2009, lub przedsiębiorstwo prowadzące niszczenie substancji kontrolowanych, zgodnie z art. 22 i załącznikiem VII do rozporządzenia (WE) nr 1005/2009, albo niepoinformowanie przez takie przedsiębiorstwo, wbrew art. 9 ust. 6, o zaprzestaniu prowadzenia działalności, o której mowa w art. 9 ust. 1;
+- **14)** wykonanie czynności, o których mowa w art. 2 ust. 1 rozporządzenia (UE) 2015/2067, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 4 rozporządzenia (UE) 2015/2067, albo wykonanie czynności, o których mowa w art. 1 rozporządzenia (UE) 2015/2066, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 3 rozporządzenia (UE) 2015/2066, albo wykonanie czynności, o których mowa w art. 1 rozporządzenia (WE) nr 306/2008, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 2 rozporządzenia (WE) nr 306/2008;
+- **15)** wykonanie czynności, o których mowa w art. 2 ust. 1 rozporządzenia (WE) nr 304/2008, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 4 rozporządzenia (WE) nr 304/2008;
+- **16)** wykonanie czynności, o których mowa w art. 20 ust. 4, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 20 ust. 1 i 2, w odniesieniu do substancji kontrolowanych niebędących halonami;
+- **17)** wykonanie czynności, o których mowa w art. 20 ust. 4, bez posiadania wymaganego certyfikatu dla personelu, o którym mowa w art. 20 ust. 1 i 2, w odniesieniu do halonów;
+- **18)** niedokonanie naprawy, o której mowa w art. 36 ust. 1, przed napełnieniem systemu klimatyzacji w niektórych pojazdach silnikowych;
+- **19)** wykonanie czynności, o których mowa w art. 37 ust. 1, bez posiadania zaświadczenia o odbytym szkoleniu, o którym mowa w art. 3 rozporządzenia (WE) nr 307/2008;
+- **20)** niewypełnienie obowiązków określonych w art. 1 ust. 1 lub 2, art. 2 lub art. 4 rozporządzenia (UE) 2016/879;
+- **21)** niedokonanie audytu sprawozdania, o którym mowa w art. 19 rozporządzenia (UE) nr 517/2014, w przypadku określonym w art. 19 ust. 6 rozporządzenia (UE) nr 517/2014.
+
 **Art. 48.** Administracyjną karę pieniężną w wysokości od 4000 zł do 15 000 zł wymierza się za:
 
+- **1)** niezapewnienie, wbrew art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009, dokonania odzysku do celów recyklingu, regeneracji lub zniszczenia halonów;
+- **2)** niezapewnienie, wbrew art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009, dokonania odzysku do celów recyklingu, regeneracji lub zniszczenia substancji kontrolowanych niebędących halonami;
+- **3)** niezapewnienie, wbrew art. 22 ust. 4 rozporządzenia (WE) nr 1005/2009, dokonania odzysku lub zniszczenia substancji kontrolowanych niebędących halonami zawartych w innych produktach i urządzeniach niż określone w art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009, w zakresie, w jakim jest to osiągalne z technicznego i ekonomicznego punktu widzenia, w celu zapewnienia ich recyklingu, regeneracji lub zniszczenia;
+- **4)** niezapewnienie, wbrew art. 22 ust. 4 rozporządzenia (WE) nr 1005/2009, dokonania odzysku lub zniszczenia halonów zawartych w innych produktach i urządzeniach niż określone w art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009, w zakresie, w jakim jest to osiągalne z technicznego i ekonomicznego punktu widzenia, w celu zapewnienia ich recyklingu, regeneracji lub zniszczenia;
+- **5)** niezapewnienie sprawdzenia pod względem wycieków stacjonarnych urządzeń chłodniczych, klimatyzacyjnych i pomp ciepła zawierających substancje kontrolowane oraz ich obiegów w terminach, o których mowa w art. 23 ust. 2 rozporządzenia (WE) nr 1005/2009;
+- **6)** niezapewnienie sprawdzenia pod względem wycieków stacjonarnych systemów ochrony przeciwpożarowej zawierających substancje kontrolowane w terminach, o których mowa w art. 23 ust. 2 rozporządzenia (WE) nr 1005/2009;
+- **7)** niezapewnienie wykonania kontroli szczelności, o których mowa w art. 4 rozporządzenia (UE) nr 517/2014, albo niespełnienie wymogów kontroli, o których mowa w rozporządzeniu (WE) nr 1516/2007, z wyłączeniem stacjonarnych systemów ochrony przeciwpożarowej;
+- **8)** niezapewnienie wykonania kontroli szczelności albo niespełnienie wymogów kontroli, o których mowa w rozporządzeniu (WE) nr 1516/2007, w odniesieniu do stacjonarnych systemów ochrony przeciwpożarowej zawierających fluorowane gazy cieplarniane w terminach, o których mowa w art. 4 rozporządzenia (UE) nr 517/2014;
+- **9)** niezapewnienie, wbrew art. 5 rozporządzenia (UE) nr 517/2014, zainstalowania systemów wykrywania wycieków, z wyłączeniem stacjonarnych systemów ochrony przeciwpożarowej;
+- **10)** niezapewnienie w terminie, o którym mowa w art. 5 rozporządzenia (UE) nr 517/2014, kontroli systemów wykrywania wycieków, z wyłączeniem stacjonarnych systemów ochrony przeciwpożarowej;
+- **11)** niezapewnienie, wbrew art. 5 rozporządzenia (UE) nr 517/2014, zainstalowania w stacjonarnych systemach ochrony przeciwpożarowej zawierających fluorowane gazy cieplarniane w ilości 500 ton ekwiwalentu CO lub większej systemów wykrywania wycieków;
+- **12)** niezapewnienie w terminie, o którym mowa w art. 5 rozporządzenia (UE) nr 517/2014, kontroli systemów wykrywania wycieków zainstalowanych w stacjonarnych systemach ochrony przeciwpożarowej zawierających fluorowane gazy cieplarniane w ilości 500 ton ekwiwalentu CO lub większej;
+- **13)** niezapewnienie, wbrew art. 8 ust. 1 rozporządzenia (UE) nr 517/2014, dokonania właściwego odzysku fluorowanych gazów cieplarnianych;
+- **14)** niezapewnienie, wbrew art. 8 ust. 2 rozporządzenia (UE) nr 517/2014, dokonania odzysku fluorowanych gazów cieplarnianych;
+- **15)** niezapewnienie, wbrew art. 8 ust. 3 rozporządzenia (UE) nr 517/2014, dokonania odzysku fluorowanych gazów cieplarnianych;
+- **16)** przekazanie, wbrew art. 10 ust. 4, substancji kontrolowanych niebędących halonami osobom fizycznym na ich własne potrzeby;
+- **17)** przekazanie, wbrew art. 10 ust. 4, halonów osobom fizycznym na ich własne potrzeby;
+- **18)** przekazanie, wbrew art. 10 ust. 5, fluorowanych gazów cieplarnianych osobom fizycznym na ich własne potrzeby;
+- **19)** niezapewnienie sprawdzenia pod względem wycieków stacjonarnych urządzeń chłodniczych, klimatyzacyjnych i pomp ciepła zawierających fluorowane gazy cieplarniane oraz ich obiegów przez personel, o którym mowa w art. 20 ust. 1, albo zawierających substancje kontrolowane oraz ich obiegów przez personel, o którym mowa w art. 20 ust. 4;
+- **20)** niezapewnienie sprawdzenia pod względem wycieków stacjonarnych systemów ochrony przeciwpożarowej zawierających fluorowane gazy cieplarniane przez personel, o którym mowa w art. 20 ust. 2, albo zawierających substancje kontrolowane przez personel, o którym mowa w art. 20 ust. 4;
+- **21)** niezapewnienie, wbrew art. 20 ust. 4, dokonania odzysku substancji kontrolowanych niebędących halonami za-wartych w innych produktach i urządzeniach niż określone w art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009 przez personel posiadający odpowiedni certyfikat;
+- **22)** niezapewnienie, wbrew art. 20 ust. 4, dokonania odzysku halonów zawartych w innych produktach i urządzeniach niż określone w art. 22 ust. 1 rozporządzenia (WE) nr 1005/2009 przez personel posiadający odpowiedni certyfikat;
+- **23)** prowadzenie szkolenia dla osób fizycznych ubiegających się o certyfikat dla personelu, bez uzyskania wpisu do rejestru jednostek prowadzących szkolenia, o którym mowa w art. 27 ust. 8;
+- **24)** wydanie zaświadczenia bez uzyskania wpisu do rejestru jednostek wydających zaświadczenia o odbytym szkoleniu, o którym mowa w art. 37 ust. 11;
+- **25)** niezapewnienie, wbrew art. 10 ust. 11 rozporządzenia (UE) nr 517/2014, aby podmiot, któremu zleca się wykonanie czynności, o której mowa w art. 10 ust. 1 tego rozporządzenia, posiadał certyfikat niezbędny dla danego zastosowania i wykonywanej czynności, z wyłączeniem systemów ochrony przeciwpożarowej;
+- **26)** niezapewnienie, wbrew art. 10 ust. 11 rozporządzenia (UE) nr 517/2014, aby podmiot, któremu zleca się wykonanie czynności, o której mowa w art. 10 ust. 1 tego rozporządzenia, posiadał certyfikat w zakresie systemów ochrony przeciwpożarowej;
+- **27)** nabycie, wbrew art. 10 ust. 1, substancji kontrolowanej lub fluorowanego gazu cieplarnianego lub, wbrew art. 11 ust. 4 rozporządzenia (UE) nr 517/2014, fluorowanego gazu cieplarnianego, bez posiadania certyfikatu dla personelu odpowiedniego do wykonywanych czynności związanych z substancjami kontrolowanymi lub fluorowanymi gazami cieplarnianymi albo – w przypadku czynności serwisowych i naprawczych systemów klimatyzacji w niektórych pojazdach silnikowych – bez posiadania zaświadczenia o odbytym szkoleniu albo w obu przypadkach bez zatrudnienia osoby z takim certyfikatem lub takim zaświadczeniem albo bez posiadania certyfikatu dla przedsiębiorcy;
+- **28)** przeprowadzenie egzaminu bez uzyskania wpisu do rejestru jednostek oceniających personel, o którym mowa w art. 25 ust. 1 pkt 4;
+- **29)** prowadzenie działalności bez posiadania certyfikatu dla przedsiębiorców, o którym mowa w art. 29, z wyłączeniem systemów ochrony przeciwpożarowej;
+- **30)** prowadzenie działalności bez posiadania certyfikatu dla przedsiębiorców, o którym mowa w art. 29, w zakresie systemów ochrony przeciwpożarowej;
+- **31)** sprzedaż, wbrew art. 11 ust. 4 rozporządzenia (UE) nr 517/2014, fluorowanego gazu cieplarnianego, bez upewnienia się zgodnie z wymogiem określonym w art. 13a ust. 1, że kupujący posiada certyfikat dla personelu odpowiedni do wykonywanych czynności związanych z fluorowanymi gazami cieplarnianymi albo – w przypadku czynności serwisowych i naprawczych systemów klimatyzacji w niektórych pojazdach silnikowych – zaświadczenie o odbytym szkoleniu, albo że jest podmiotem zatrudniającym taką osobę;
+- **32)** nieprowadzenie, wbrew art. 13a ust. 3 oraz wbrew art. 6 ust. 3 rozporządzenia (UE) nr 517/2014, dokumentacji dotyczącej nabywców fluorowanych gazów cieplarnianych;
+- **33)** celowe uwalnianie fluorowanych gazów cieplarnianych wbrew art. 3 ust. 1 rozporządzenia (UE) nr 517/2014 lub niezapobieganie wyciekowi fluorowanych gazów cieplarnianych wbrew art. 3 ust. 2 rozporządzenia (UE) nr 517/2014 lub niezapewnienie naprawy bez zbędnej zwłoki wbrew art. 3 ust. 3 rozporządzenia (UE) nr 517/2014 lub niezapewnienie kontroli czy naprawa była skuteczna w ciągu 1 miesiąca zgodnie z art. 3 ust. 3 zdanie drugie rozporządzenia 517/2014, z wyłączeniem systemów ochrony przeciwpożarowej;
+- **34)** celowe uwalnianie fluorowanych gazów cieplarnianych wbrew art. 3 ust. 1 rozporządzenia (UE) nr 517/2014 lub niezapobieganie wyciekowi fluorowanych gazów cieplarnianych wbrew art. 3 ust. 2 rozporządzenia (UE) nr 517/2014 lub niezapewnienie naprawy bez zbędnej zwłoki wbrew art. 3 ust. 3 rozporządzenia (UE) nr 517/2014 lub niezapewnienie kontroli czy naprawa była skuteczna w ciągu 1 miesiąca zgodnie z art. 3 ust. 3 zdanie drugie rozporządzenia 517/2014, w zakresie systemów ochrony przeciwpożarowej.
+
 **Art. 49.** Administracyjną karę pieniężną w wysokości od 6000 zł do 45 000 zł wymierza się za:
+
+- **1)** zastosowanie, wbrew art. 13 ust. 1 i 2 rozporządzenia (UE) nr 517/2014, heksafluorku siarki;
+- **2)** wprowadzenie do obrotu, wbrew art. 11 ust. 1 rozporządzenia (UE) nr 517/2014, produktów i urządzeń wymienionych w załączniku III do tego rozporządzenia, z wyłączeniem stacjonarnych systemów ochrony przeciwpożarowej;
+- **3)** wprowadzenie do obrotu, wbrew art. 11 ust. 1 rozporządzenia (UE) nr 517/2014, produktów i urządzeń wymienionych w załączniku III do tego rozporządzenia, w odniesieniu do stacjonarnych systemów ochrony przeciwpożarowej;
+- **4)** sprzedaż, wbrew art. 11 ust. 5 rozporządzenia (UE) nr 517/2014, niehermetycznie zamkniętych urządzeń bez dowodu spełniającego wymagania określone w art. 13a ust. 1 i 2;
+- **5)** wprowadzenie, wbrew art. 16 rozporządzenia (UE) nr 517/2014, do obrotu fluorowanych gazów cieplarnianych bez uprzedniego uzyskania kontyngentu na wprowadzanie wodorofluorowęglowodorów do obrotu lub przekroczenie ilości przyznanych w kontyngencie;
+- **6)** stosowanie, wbrew art. 13 ust. 3 rozporządzenia (UE) nr 517/2014, fluorowanych gazów cieplarnianych;
+- **7)** niewypełnienie obowiązku rejestracyjnego określonego w art. 17 ust. 1 rozporządzenia (UE) nr 517/2014;
+- **8)** nieprowadzenie, wbrew art. 13a ust. 3, rejestru sprzedanych niehermetycznie zamkniętych urządzeń napełnionych fluorowanymi gazami cieplarnianymi;
+- **9)** nieprzedstawienie, wbrew art. 7 ust. 2 rozporządzenia (UE) nr 517/2014, organom celnym w chwili wprowadzania fluorowanych gazów cieplarnianych do obrotu dowodu określonego w art. 13a ust. 4;
+- **10)** wprowadzenie do obrotu, wbrew art. 14 ust. 1 rozporządzenia (UE) nr 517/2014, urządzeń chłodniczych, klimatyzacyjnych lub pomp ciepła napełnionych wodorofluorowęglowodorami bez uprzedniego uzyskania upoważnienia na wykorzystanie kontyngentu zgodnie z art. 18 ust. 2 tego rozporządzenia;
+- **11)** niesporządzenie, wbrew art. 14 ust. 2 rozporządzenia (UE) nr 517/2014, deklaracji zgodności lub niezapewnienie weryfikacji dokumentacji i deklaracji zgodności przez niezależnego audytora.
 
 **Art. 50.**
 
@@ -1108,7 +1194,22 @@ Art. 54–59. (pominięte)
 
 **Art. 66.** Przekazane na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej po dniu wejścia w życie niniejszej ustawy wpływy z tytułu:
 
+- **1)** opłat ustalonych na podstawie przepisów ustawy, o której mowa w art. 71,
+- **2)** kar pieniężnych wymierzonych na podstawie art. 37 ust. 1 i 2 ustawy, o której mowa w art. 71 – stanowią przychody tego funduszu.
+
 **Art. 67.** Środki Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w wysokości ustalonego na dzień poprzedzający dzień wejścia w życie niniejszej ustawy stanu zobowiązania określonego w art. 401c ust. 6 ustawy, o której mowa w art. 57, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, oraz przychody, o których mowa w art. 66 niniejszej ustawy, przeznacza się na:
+
+- **1)** finansowanie realizacji zadań wyspecjalizowanej jednostki;
+- **2)** utworzenie centralnych systemów gromadzenia danych w wyspecjalizowanej jednostce;
+- **3)** finansowanie zadań realizowanych przez gminy i podmioty związane:
+    - **a)** ze zbiórką odpadów zawierających substancje kontrolowane,
+    - **b)** z odzyskiwaniem substancji kontrolowanych,
+    - **c)** z gromadzeniem substancji kontrolowanych,
+    - **d)** z unieszkodliwianiem substancji zubożających warstwę ozonową lub fluorowanych gazów cieplarnianych;
+
+- **4)** finansowanie zadań związanych:
+    - **a)** ze szkoleniem pracowników Państwowej Straży Pożarnej w zakresie przygotowania do prowadzenia kontroli postępowania z substancjami kontrolowanymi, nowymi substancjami i fluorowanymi gazami cieplarnianymi wykorzystywanymi w ochronie przeciwpożarowej, a także systemami ochrony przeciwpożarowej oraz gaśnicami zawierającymi substancje kontrolowane, nowe substancje lub fluorowane gazy cieplarniane,
+    - **b)** z zakupem sprzętu do identyfikacji i pobierania próbek.
 
 **Art. 68.** Przedsiębiorstwa produkujące, stosujące lub wprowadzające na terytorium Rzeczypospolitej Polskiej nowe substancje do zastosowania w charakterze substratów lub do celów laboratoryjnych i analitycznych, prowadzące działalność do dnia wejścia w życie niniejszej ustawy, obowiązane są do złożenia wniosku o wpis do rejestru, o którym mowa w art. 7 ust. 1, w terminie 90 dni od dnia wejścia w życie niniejszej ustawy.
 
@@ -1149,4 +1250,8 @@ Art. 54–59. (pominięte)
 **Art. 71.** Traci moc ustawa z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową (Dz. U. z 2014 r. poz. 436).
 
 **Art. 72.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 10 ust. 1–3, art. 12 ust. 1 i 2, art. 20 ust. 1–5, art. 29, art. 37 ust. 1, art. 47 pkt 14–17 i 19 oraz art. 48 pkt 1, 2, 5–8, 13, 14, 16, 20–23 oraz 26–28, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **2)** art. 14 ust. 1–10, art. 15, art. 47 pkt 5–10 oraz art. 48 pkt 30 i 31, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+
 

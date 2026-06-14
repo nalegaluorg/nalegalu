@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw.*
 
 Łącznie: **158** orzeczeń
-(pominięto 241 orzeczeń sądów rejonowych)
+(pominięto 242 orzeczeń sądów rejonowych)
 
 ## art. 2 (18)
 

@@ -8,7 +8,7 @@ pos: 1585
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o odwróconym kredycie hipotecznym
@@ -170,6 +170,9 @@ Art. 34–37. (pominięte)
 
 **Art. 15.** W przypadku gdy bank nie wykonuje obowiązku, o którym mowa w art. 8, lub sporządza umowę odwróconego kredytu hipotecznego niezgodnie z wymogami, o których mowa w art. 10, kredytobiorca, po złożeniu bankowi pisemnego oświadczenia, może:
 
+- **1)** żądać od banku zapłaty dziesiątej części odsetek i innych kosztów należnych od wypłaconej części odwróconego kredytu hipotecznego albo
+- **2)** wypowiedzieć umowę odwróconego kredytu hipotecznego i spłacić całkowitą kwotę do zapłaty bez dziesiątej części odsetek i innych kosztów.
+
 **Art. 16.**
 
 1. W okresie trwania umowy odwróconego kredytu hipotecznego kredytobiorca jest zobowiązany w odniesieniu do nieruchomości lub lokalu, o których mowa w art. 6 ust. 1:
@@ -196,6 +199,9 @@ Art. 34–37. (pominięte)
 2. Okres wypowiedzenia przez bank umowy odwróconego kredytu hipotecznego wynosi 30 dni.
 
 **Art. 18.** W przypadku wypowiedzenia umowy odwróconego kredytu hipotecznego z przyczyn, o których mowa w art. 17 ust. 1:
+
+- **1)** pkt 1 lub 2 – bank wstrzymuje wypłatę odwróconego kredytu hipotecznego;
+- **2)** pkt 3 lub 4 – bank może wstrzymać wypłatę odwróconego kredytu hipotecznego.
 
 **Art. 19.**
 
@@ -259,6 +265,12 @@ Art. 34–37. (pominięte)
 5. Do przeniesienia przez kuratora własności nieruchomości lub prawa, o którym mowa w art. 4 ust. 2, stanowiących zabezpieczenie odwróconego kredytu hipotecznego, na rzecz banku nie stosuje się art. 19 ust. 6 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 1837).
 
 **Art. 27.** Umowę o przeniesienie własności nieruchomości lub prawa, o którym mowa w art. 4 ust. 2, stanowiących zabezpieczenie odwróconego kredytu hipotecznego, bank zawiera:
+
+- **1)** ze spadkobiercami kredytobiorcy;
+- **2)** z wykonawcą testamentu, jeżeli został powołany;
+- **3)** z kuratorem spadku, jeżeli został ustanowiony, a spadkobiercy nie uzyskali jeszcze stwierdzenia nabycia spadku albo poświadczenia dziedziczenia;
+- **4)** z kuratorem, jeżeli został ustanowiony;
+- **5)** z osobą trzecią, jeżeli zostały przeniesione na nią własność nieruchomości lub prawo, o którym mowa w art. 4 ust. 2, stanowiące zabezpieczenie odwróconego kredytu hipotecznego.
 
 **Art. 28.**
 

@@ -8,7 +8,7 @@ pos: 1317
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł oraz o przeciwdziałaniu finansowaniu terroryzmu oraz o zmianie niektórych innych ustaw
@@ -28,6 +28,134 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091661317) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1317/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł oraz o przeciwdziałaniu finansowaniu terroryzmu (Dz. U. z 2003 r. Nr 153, poz. 1505, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** tytuł ustawy otrzymuje brzmienie: „o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu”;
+- **2)** art. 1 otrzymuje brzmienie: „Art. 1. Ustawa określa zasady oraz tryb przeciwdziałania praniu pieniędzy, przeciwdziałania finansowaniu terroryzmu, stosowania szczególnych środków ograniczających przeciwko osobom, grupom i podmiotom oraz obowiązki podmiotów uczestniczących w obrocie finansowym w zakresie gromadzenia i przekazywania informacji.”;
+- **3)** w art. 2: 665, z późn. zm. ), Nr 169, poz. 1385, z późn. zm. ), U. Nr 183, poz. 1538, z późn. zm. ), zm. ), oraz spółki handlowe, o których mowa w art. 50a tej ustawy, 874, z 2004 r. Nr 102, poz. 1055 oraz z 2007 r. Nr 112, poz. 766) oraz przyjmujące płatności w gotówce o wartości równej lub przekraczającej równowartość 15 000 euro, również w drodze więcej niż jednej operacji,
+    - **a)** pkt 1 otrzymuje brzmienie: „1) instytucji obowiązanej – rozumie się przez to:
+    - **a)** oddziały instytucji kredytowych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz.
+    - **b)** instytucje finansowe mające siedzibę na terytorium Rzeczypospolitej Polskiej, oddziały instytucji finansowych niemających siedziby na terytorium Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe,
+    - **c)** banki krajowe, oddziały banków zagranicznych, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe,
+    - **d)** Narodowy Bank Polski – w zakresie, w jakim prowadzi rachunki bankowe dla osób prawnych, sprzedaż monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele, skup złota i wymianę zniszczonych środków płatniczych na podstawie ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm. ),
+    - **e)** instytucje pieniądza elektronicznego, oddziały zagranicznych instytucji pieniądza elektronicznego oraz agentów rozliczeniowych, prowadzących działalność na podstawie ustawy z dnia 12 września 2002 r. o elektronicznych instrumentach płatniczych (Dz. U.
+    - **f)** firmy inwestycyjne, banki powiernicze, w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz.
+    - **g)** zagraniczne osoby prawne prowadzące na terytorium Rzeczypospolitej Polskiej działalność maklerską oraz towarowe domy maklerskie w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2005 r. Nr 121, poz. 1019, z późn.
+    - **h)** Krajowy Depozyt Papierów Wartościowych S.A. – w zakresie, w jakim prowadzi rachunki papierów wartościowych,
+    - **i)** podmioty prowadzące działalność – w zakresie gier losowych, zakładów wzajemnych i gier na automatach oraz gier na automatach o niskich wygranych,
+    - **j)** zakłady ubezpieczeń w zakresie ubezpieczeń na życie, w tym ubezpieczycieli krajowych, główne oddziały ubezpieczycieli z państwa niebędącego członkiem Unii Europejskiej, oddziały ubezpieczycieli z państwa członkowskiego Unii Europejskiej, pośredników ubezpieczeniowych w zakresie ubezpieczeń na życie, chyba że za ich działania odpowiedzialność ponosi ubezpieczyciel,
+    - **k)** fundusze inwestycyjne, towarzystwa funduszy inwestycyjnych, w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm. ),
+    - **l)** spółdzielcze kasy oszczędnościowo-kredytowe,
+    - **m)** publicznego operatora w rozumieniu ustawy z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. z 2008 r. Nr 189, poz. 1159 oraz z 2009 r. Nr 18, poz. 97),
+    - **n)** notariuszy – w zakresie czynności notarialnych dotyczących obrotu wartościami majątkowymi, adwokatów wykonujących zawód, radców prawnych wykonujących zawód poza stosunkiem pracy w urzędach obsługujących organy administracji rządowej i jednostkach samorządu terytorialnego, prawników zagranicznych świadczących pomoc prawną poza stosunkiem pracy, biegłych rewidentów wykonujących zawód, doradców podatkowych wykonujących zawód,
+    - **o)** podmioty prowadzące działalność w zakresie usługowego prowadzenia ksiąg rachunkowych,
+    - **p)** podmioty prowadzące działalność kantorową,
+    - **q)** przedsiębiorców prowadzących: domy aukcyjne, antykwariaty, działalność factoringową, działalność w zakresie obrotu metalami lub kamieniami szlachetnymi i półszlachetnymi, sprzedaży komisowej lub pośrednictwa w obrocie nieruchomościami,
+    - **r)** fundacje,
+    - **s)** stowarzyszenia posiadające osobowość prawną, utworzone na podstawie ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2001 r. Nr 79, poz. 855, z 2003 r., Nr 96, poz.
+    - **t)** przedsiębiorców w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm. ), przyjmujących płatności za towary w gotówce o wartości równej lub przekraczającej równowartość 15 000 euro, również gdy należność za określony towar jest dokonywana w drodze więcej niż jednej operacji;”,
+    - **b)** po pkt 1 dodaje się pkt 1a – 1f w brzmieniu: „1a) beneficjencie rzeczywistym – rozumie się przez to:
+    - **a)** osobę fizyczną lub osoby fizyczne, które są właścicielami osoby prawnej lub sprawują kontrolę nad klientem albo mają wpływ na osobę fizyczną, w imieniu której przeprowadzana jest transakcja lub prowadzona jest działalność,
+    - **b)** osobę fizyczną lub osoby fizyczne, które są udziałowcami lub akcjonariuszami lub posiadają prawo głosu na zgromadzeniu wspólników w wysokości powyżej 25 % w tej osobie prawnej, w tym za pomocą pakietów akcji na okaziciela, z wyjątkiem spółek, których papiery wartościowe są w obrocie zorganizowanym, podlegających lub stosujących przepisy prawa Unii Europejskiej w zakresie ujawniania informacji, a także podmiotów świadczących usługi finansowe na terytorium państwa członkowskiego Unii Europejskiej albo państwa równoważnego – w przypadku osób prawnych,
+    - **c)** osobę fizyczną lub osoby fizyczne, które sprawują kontrolę nad co najmniej 25 % majątku – w przypadku podmiotów, którym powierzono administrowanie wartościami majątkowymi oraz rozdzielanie takich wartości, z wyjątkiem podmiotów wykonujących czynności, o których mowa w art. 69 ust. 2 pkt 4 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+
+- **1b)** podmiocie świadczącym usługi finansowe – rozumie się przez to instytucję obowiązaną lub inną instytucję, która posiada siedzibę poza terytorium Rzeczypospolitej Polskiej oraz prowadzi we własnym imieniu i na własny rachunek, na podstawie zezwolenia właściwego państwowego organu nadzoru nad takim podmiotem, działalność polegającą na:
+    - **a)** przyjmowaniu depozytów lub innych wartości majątkowych powierzonych pod tytułem zwrotnym,
+    - **b)** udzielaniu kredytów,
+    - **c)** zawieraniu umów leasingu finansowego,
+    - **d)** udzielaniu gwarancji i porę czeń,
+    - **e)** obrocie na własny rachunek lub na rachunek klienta instrumentami rynku pieniężnego, dewizami, opcjami i terminowymi umowami na instrumenty finansowe typu futures,
+    - **f)** uczestniczeniu w emisji instrumentów finansowych i świadczeniu usług związanych z taką emisją,
+    - **g)** doradztwie dla przedsiębiorców w zakresie struktury kapitałowej, strategii przemysłowej oraz doradztwie dotyczącym łączenia się oraz nabywania przedsiębiorstw,
+    - **h)** pośrednictwie na rynku pieniężnym,
+    - **i)** zarządzaniu portfelem lub doradztwie inwestycyjnym,
+    - **j)** przechowywaniu instrumentów finansowych lub administrowaniu nimi,
+    - **k)** udostępnianiu skrytek sejfowych;
+
+- **1c)** banku fikcyjnym – rozumie się przez to podmiot świadczący usługi finansowe lub prowadzący równoważną działalność, utworzony na terytorium państwa, w którym nie posiada siedziby, w taki sposób, aby występowało rzeczywiste zarządzanie nim i kierowanie oraz który to podmiot nie jest stowarzyszony z grupą finansową działającą w sposób prawnie uregulowany;
+- **1d)** stosunkach gospodarczych – rozumie się przez to relacje instytucji obowiązanych z klientem związane z działalnością gospodarczą, w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, które w chwili ich nawiązywania rokują długotrwałą współpracę;
+- **1e)** przeprowadzaniu transakcji – rozumie się przez to wykonanie zlecenia lub dyspozycji klienta przez instytucję obowiązaną;
+- **1f)** osobach zajmujących eksponowane stanowiska polityczne – rozumie się przez to osoby fizyczne: a, w ścisłej współpracy zawodowej lub gospodarczej lub są współwłaścicielami podmiotów prawa, a także jedynymi uprawnionymi do majątku podmiotów prawa, jeżeli zostały one założone na rzecz tych osób – mające miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej;
+    - **a)** szefów państw, szefów rządów, ministrów, wiceministrów lub zastępców ministrów, członków parlamentu, sędziów sądów najwyższych, trybunałów konstytucyjnych oraz innych organów sądowych, których orzeczenia nie podlegają zaskarżeniu, z wyjątkiem trybów nadzwyczajnych, członków trybunałów obrachunkowych, członków zarządów banków centralnych, ambasadorów, chargés d’affairs oraz wyższych oficerów sił zbrojnych, członków organów zarządzających lub nadzorczych przedsiębiorstw państwowych – którzy sprawują lub sprawowali te funkcje publiczne w okresie roku od dnia zaprzestania spełniania przesłanek określonych w tych przepisach,
+    - **b)** małżonków osób, o których mowa w lit. a, lub osoby pozostające z nimi we wspólnym pożyciu, rodziców i dzieci osób, o których mowa w lit. a, małżonków tych rodziców i dzieci lub osoby pozostające z nimi we wspólnym pożyciu,
+    - **c)** które pozostają lub pozostawały z osobami, o których mowa w lit.
+    - **c)** pkt 2 otrzymuje brzmienie: „2) transakcji – rozumie się przez to dokonywane we własnym, jak i w cudzym imieniu, na własny, jak i na cudzy rachunek:
+    - **a)** wpłaty i wypłaty w formie gotówkowej lub bezgotówkowej, w tym przekazy pieniężne w rozumieniu art. 2 pkt 7 rozporządzenia nr 1781/2006, zlecone zarówno na terytorium Rzeczypospolitej Polskiej, jak i poza nim,
+    - **b)** kupno i sprzedaż wartości dewizowych,
+    - **c)** przeniesienie własności lub posiadania wartości majątkowych, w tym oddanie w komis lub pod zastaw takich wartości, oraz przeniesienie wartości majątkowych pomiędzy rachunkami należącymi do tego samego klienta,
+    - **d)** zamianę wierzytelności na akcje lub udziały;”,
+    - **d)** pkt 4 i 5 otrzymują brzmienie: „4) rachunku – rozumie się przez to rachunek bankowy, rachunek prowadzony w instytucji finansowej, rachunek prowadzony w instytucji kredytowej, rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, rachunek papierów wartościowych i rachunek pieniężny służący do jego obsługi, rejestr uczestników funduszu, ewidencję uczestników funduszu inwestycyjnego;
+
+- **5)** wstrzymaniu transakcji – rozumie się przez to czasowe ograniczenie dysponowania i korzystania z wartości majątkowych, polegające na uniemożliwieniu przeprowadzenia określonej transakcji przez instytucję obowiązaną;”, 165a ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz.U. Nr 88, poz. 553, z późn. zm. );
+    - **e)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) zamrażaniu – rozumie się przez to zapobieganie przenoszeniu, zmianie, wykorzystaniu wartości majątkowych lub przeprowadzaniu transakcji w jakikolwiek sposób, który może spowodować zmianę ich wielkości, wartości, miejsca, własności, posiadania, charakteru, przeznaczenia lub jakąkolwiek inną zmianę, która może umożliwić korzystanie z wartości majątkowych;”,
+    - **f)** uchyla się pkt 7,
+    - **g)** pkt 9 otrzymuje brzmienie: „9) praniu pieniędzy – rozumie się przez to zamierzone postępowanie polegające na:
+    - **a)** zamianie lub przekazaniu wartości majątkowych pochodzących z działalności o charakterze przestępczym lub z udziału w takiej działalności, w celu ukrycia lub zatajenia bezprawnego pochodzenia tych wartości majątkowych albo udzieleniu pomocy osobie, która bierze udział w takiej działalności w celu uniknięcia przez nią prawnych konsekwencji tych działań,
+    - **b)** ukryciu lub zatajeniu prawdziwego charakteru wartości majątkowych lub praw związanych z nimi, ich źródła, miejsca przechowywania, rozporządzania, faktu ich przemieszczania, ze świadomością, że wartości te pochodzą z działalności o charakterze przestępczym lub udziału w takiej działalności,
+    - **c)** nabyciu, objęciu w posiadanie albo używaniu wartości majątkowych pochodzących z działalności o charakterze przestępczym lub udziału w takiej działalności,
+    - **d)** współdziałaniu, usiłowaniu popełnienia, pomocnictwie lub podżeganiu w przypadkach zachowań określonych w lit. a – c – również jeżeli działania, w ramach których uzyskano wartości majątkowe, były prowadzone na terytorium innego państwa niż Rzeczpospolita Polska;”,
+    - **h)** dodaje się pkt 10 – 12 w brzmieniu: „10) finansowaniu terroryzmu – rozumie się przez to czyn określony w art.
+
+- **11)** państwie równoważnym – rozumie się przez to państwo niebędące członkiem Unii Europejskiej, w którym stosowane są przepisy dotyczące przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu, zgodne z prawem Unii Europejskiej;
+- **12)** rozporządzeniu nr 1781/2006 – rozumie się przez to rozporządzenie (WE) nr 1781/2006 Parlamentu Europejskiego i Rady z dnia 15 listopada 2006 r. w sprawie informacji o zleceniodawcach, które towarzyszą przekazom pieniężnym (Dz. Urz. UE L 345 z 8.12.2006, str. 1)”;
+- **4)** po art. 2 dodaje się art. 2a w brzmieniu: „Art. 2a. Przy ustalaniu równowartości w euro, o której mowa w ustawie, stosuje się średni kurs Narodowego Banku Polskiego dla danej waluty, obowiązujący w dniu dokonywania transakcji lub w dniu złożenia dyspozycji, lub w dniu zlecenia przeprowadzenia transakcji. ”;
+- **5)** tytuł rozdziału 2 otrzymuje brzmienie: „Organy właściwe w sprawach przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu”;
+- **6)** w art. 3 w ust. 1 zdanie wstępne otrzymuje brzmienie: „Organami administracji rządowej właściwymi w sprawach przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu, zwanymi dalej „organami informacji finansowej”, są:”;
+- **7)** art. 4 otrzymuje brzmienie: „Art. 4. 1. Do zadań Generalnego Inspektora należy uzyskiwanie, gromadzenie, przetwarzanie i analizowanie informacji w trybie określonym w ustawie oraz podejmowanie działań w celu przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu, a w szczególności:
+- **1)** badanie przebiegu transakcji, co do których Generalny Inspektor powziął uzasadnione podejrzenia;
+- **2)** przeprowadzanie procedury wstrzymania transakcji lub blokady rachunku;
+- **3)** rozstrzyganie w przedmiocie zwolnienia zamrożenia wartości majątkowych;
+- **4)** udostępnianie i żądanie przekazania informacji o transakcjach;
+- **5)** przekazywanie uprawnionym organom dokumentów uzasadniających podejrzenie popełnienia przestępstwa;
+- **6)** inicjowanie i podejmowanie innych działań w celu przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu, w tym szkolenie pracowników instytucji obowiązanych w zakresie zadań nałożonych na te instytucje;
+- **7)** sprawowanie kontroli przestrzegania przepisów dotyczących przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu;
+- **8)** współpraca z zagranicznymi instytucjami i międzynarodowymi organizacjami zajmującymi się przeciwdziałaniem praniu pieniędzy lub finansowaniu terroryzmu;
+- **9)** nakładanie kar pieniężnych, o których mowa w ustawie.
+
+2. Zadania organu, o którym mowa w art. 15 ust. 2 i 3 rozporządzenia nr 1781/2006, wykonuje Generalny Inspektor.”;
+
+- **8)** w art. 4a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 – 4 w brzmieniu: „2. Sprawozdanie, o którym mowa w ust. 1, zawiera w szczególności liczbę zgłoszonych przez instytucje obowiązane transakcji, opis działań podjętych w odpowiedzi na te zgłoszenia oraz liczbę spraw, w których przeprowadzono postępowanie, liczbę osób, którym przedstawiono zarzut popełnienia przestępstw, o których mowa w art. 165a lub art. 299 Kodeksu karnego, i osób nieprawomocnie i prawomocnie skazanych za przestępstwa, o których mowa w art. 165a lub art. 299 Kodeksu karnego, oraz określenie wartości majątkowych, w stosunku do których dokonano zamrożenia, blokady i wstrzymania transakcji lub orzeczono zajęcie, zabezpieczenie majątkowe lub przepadek.
+
+3. Minister Sprawiedliwości przekazuje Generalnemu Inspektorowi informacje o liczbie postępowań karnych, liczbie osób, w stosunku do których wszczęto postępowanie, i osób nieprawomocnie i prawomocnie skazanych za przestępstwa, o których mowa w art. 165a lub art. 299 Kodeksu karnego, oraz o wartościach majątkowych, w stosunku do których dokonano zamrożenia, blokady i wstrzymania transakcji lub orzeczono zajęcie, zabezpieczenie majątkowe lub przepadek – w terminie 2 miesięcy od zakończenia roku, za który przekazywane są informacje.
+
+4. Sprawozdanie, o którym mowa w ust. 1, po przekazaniu Prezesowi Rady Ministrów minister właściwy do spraw instytucji finansowych udostępnia na stronie Biuletynu Informacji Publicznej Ministerstwa Finansów.”;
+
+- **9)** w art. 4b ust. 1 otrzymuje brzmienie: „1. Generalny Inspektor podlega wyłączeniu od wykonywania zadań, o których mowa w art. 18 i 18a oraz art. 21 ust. 1, jeżeli istnieje okoliczność tego rodzaju, że mogłaby wywołać wątpliwość co do jego bezstronności.”;
+- **10)** uchyla się art. 6;
+- **11)** tytuł rozdziału 3 otrzymuje brzmienie: „Obowiązki instytucji obowiązanych”;
+- **12)** w art. 8:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Instytucja obowiązana przeprowadzająca transakcję, której równowartość przekracza 15 000 euro, ma obowiązek zarejestrować taką transakcję również w przypadku, gdy jest ona przeprowadzana za pomocą więcej niż jednej operacji, których okoliczności wskazują, że są one ze sobą powiązane i zostały podzielone na operacje o mniejszej wartości z zamiarem uniknięcia obowiązku rejestracji.”,
+    - **b)** uchyla się ust. 1c i 1d,
+    - **c)** po ust. 1d dodaje się ust. 1e w brzmieniu: „1e. Obowiązek, o którym mowa w ust. 1, nie dotyczy:
+
+- **1)** przelewu z rachunku na rachunek lokaty terminowej, które należą do tego samego klienta w tej samej instytucji obowiązanej;
+- **2)** przelewu na rachunek z rachunku lokaty terminowej, które należą do tego samego klienta w tej samej instytucji obowiązanej;
+- **3)** przelewów przychodzących, z wyjątkiem przelewów przychodzących z zagranicy;
+- **4)** transakcji związanych z gospodarką własną instytucji obowiązanych;
+- **5)** transakcji zawieranych na rynku międzybankowym;
+- **6)** przypadków określonych w art. 9d ust. 1;
+- **7)** banków zrzeszających banki spółdzielcze, o ile transakcja została zarejestrowana w zrzeszonym banku spółdzielczym;
+- **8)** transakcji tymczasowego przewłaszczenia na zabezpieczenie wartości majątkowych, wykonanej na czas trwania umowy przewłaszczenia z instytucją obowiązaną.”,
+    - **d)** uchyla się ust. 2,
+    - **e)** ust. 3 otrzymuje brzmienie: „3. Instytucja obowiązana przeprowadzająca transakcję, której okoliczności wskazują, że może ona mieć związek z praniem pieniędzy lub finansowaniem terroryzmu, ma obowiązek zarejestrować taką transakcję, bez względu na jej wartość i charakter.”,
+    - **f)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. W przypadku gdy instytucja obowiązana nie przyjmuje dyspozycji lub zlecenia do przeprowadzenia transakcji, obowiązek, o którym mowa w ust. 3, stosuje się także, gdy instytucja ta wie lub przy zachowaniu należytej staranności powinna wiedzieć o takiej transakcji w związku z wykonaniem umowy z klientem.
+
+3b. Instytucje obowiązane będące adwokatami, radcami prawnymi oraz prawnikami zagranicznymi obowiązek, o którym mowa w ust. 3, wykonują, jeżeli uczestniczą w transakcjach w związku ze świadczeniem klientowi pomocy w planowaniu lub przeprowadzaniu transakcji dotyczących:
+
+- **1)** kupna i sprzedaży nieruchomości lub przedsiębiorstw;
+- **2)** zarządzania pieniędzmi, papierami wartościowymi lub innymi wartościami majątkowymi;
+- **3)** otwierania rachunków lub zarządzania nimi;
+- **4)** organizacji wpłat i dopłat na kapitał zakładowy i akcyjny, organizacji wkładu do tworzenia lub prowadzenia działalności spółek lub zarządzania nimi;
+- **5)** tworzenia, działalności przedsiębiorców w innej formie organizacyjnej, a także zarządzania nimi.”,
+    - **g)** ust. 4 otrzymuje brzmienie: „4. Rejestr transakcji, o których mowa w ust. 1 i 3, jest przechowywany przez okres 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym transakcje zostały zarejestrowane. W przypadku likwidacji, połączenia, podziału oraz przekształcenia instytucji obowiązanej, do przechowywania rejestrów i dokumentacji stosuje się odpowiednio przepisy art. 76 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2009 r. Nr 152, poz. 1223, Nr 157, poz. 1241 i Nr 165, poz.
+
+- **1316)** .”,
+    - **h)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. Informacje o transakcjach przeprowadzanych przez instytucje obowiązane oraz dokumenty dotyczące transakcji są przechowywane przez okres 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym dokonano ostatniego zapisu związanego z transakcją.
+
+4b. Przepisy ust. 4 i 4a stosuje się odpowiednio do informacji zarejestrowanych na podstawie ust. 3a i 3b.”;
+
+- **13)** po art. 8 dodaje się art. 8a i 8b w brzmieniu: „Art. 8a. 1. Instytucje obowiązane prowadzą bieżącą analizę przeprowadzanych transakcji. Wyniki analiz powinny być dokumentowane w formie papierowej lub elektronicznej.
+
+2. Wyniki analiz przechowywane są przez okres 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym zostały przeprowadzone. W przypadku likwidacji, połączenia, podziału oraz przekształcenia instytucji obowiązanej do przechowywania dokumentacji stosuje się odpowiednio przepisy art. 76 ustawy z dnia 29 września 1994 r. o rachunkowości.
 
 **Art. 8b.**
 
@@ -157,6 +285,20 @@ source: "isap-pdf"
 
 **Art. 9k.** Informacje uzyskane w wyniku stosowania środków, o których mowa w art. 8b i 9e, są przechowywane przez okres 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym przeprowadzono transakcję z klientem. W przypadku likwidacji, połączenia, podziału lub przekształcenia instytucji obowiązanej, do przechowywania dokumentacji stosuje się przepisy art. 76 ustawy z dnia 29 września 1994 r. o rachunkowości.”;
 
+- **16)** uchyla się art. 10;
+- **17)** po art. 10 dodaje się art. 10a – 10d w brzmieniu: „Art. 10a. 1. Instytucje obowiązane wprowadzają w formie pisemnej wewnętrzną procedurę w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu.
+
+2. Wewnętrzna procedura, o której mowa w ust. 1, powinna w szczególności zawierać określenie sposobu wykonania środków bezpieczeństwa finansowego, rejestracji transakcji, sposobu analizy i oceny ryzyka, przekazywania informacji o transakcjach Generalnemu Inspektorowi, procedury wstrzymania transakcji, blokady rachunku i zamrożenia wartości majątkowych, sposób przyjmowania oświadczeń, o których mowa w art. 9e ust. 5, o ile są przyjmowane, oraz sposób przechowywania informacji.
+
+3. Przy dokonywaniu analizy w celu określenia wysokości ryzyka instytucja obowiązana powinna uwzględnić w szczególności następujące kryteria:
+
+- **1)** ekonomiczne – polegające na ocenie transakcji klienta pod względem celu prowadzonej przez niego działalności gospodarczej;
+- **2)** geograficzne – polegające na dokonywaniu transakcji nieuzasadnionych charakterem działalności gospodarczej zawieranych z podmiotami z państw, w których występuje wysokie zagrożenie prania pieniędzy i finansowania terroryzmu;
+- **3)** przedmiotowe – polegające na prowadzeniu przez klienta działalności gospodarczej wysokiego ryzyka z punktu widzenia podatności na pranie pieniędzy i finansowanie terroryzmu;
+- **4)** behawioralne – polegające na nietypowym, w danej sytuacji, zachowaniu klienta.
+
+4. Instytucje obowiązane zapewniają udział pracowników, wykonujących obowiązki związane z przeciwdziałaniem praniu pieniędzy i finansowaniu terroryzmu w instytucji obowiązanej, w programach szkoleniowych dotyczących tych obowiązków.
+
 **Art. 10b.**
 
 1. Instytucje obowiązane wyznaczają osoby odpowiedzialne za wykonanie obowiązków określonych w ustawie. W przypadku instytucji obowiązanych będących kapitałowymi spółkami handlowymi, bankami spółdzielczymi lub państwowymi, osobą odpowiedzialną za wykonanie obowiązków określonych w ustawie jest członek zarządu wyznaczony przez zarząd, a w odniesieniu do oddziałów banków zagranicznych lub instytucji kredytowych taką osobą jest dyrektor oddziału.
@@ -172,6 +314,35 @@ source: "isap-pdf"
 2. Przepisu art. 5 rozporz ądzenia nr 1781/2006 nie stosuje się do dostawców usług płatniczych posiadających siedzibę na terytorium Rzeczypospolitej Polskiej w stosunku do przekazów pieniężnych na rzecz organizacji niedziałających w celu osiągnięcia zysku, prowadzących działalność charytatywną, religijną, kulturalną, edukacyjną, społeczną, naukową, jeżeli przekaz pieniężny nie przekracza równowartości 150 euro i odbywa się wyłącznie na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 10d.** Do instytucji obowiązanych będących adwokatami, radcami prawnymi lub prawnikami zagranicznymi przepisy art. 8a, art. 8b ust. 3 pkt 2-4, art. 9e ust. 1-3, art. 9f-9j, art. 10a ust. 1-3, art. 10b ust. 1 i art. 10c nie mają zastosowania.”;
+
+- **18)** w art. 11:
+    - **a)** uchyla się ust. 2,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Informacje o transakcjach, o których mowa w art. 8, mogą być przekazywane Generalnemu Inspektorowi za pośrednictwem właściwego miejscowo organu samorządu zawodowego notariuszy, adwokatów, radców prawnych i prawników zagranicznych, o ile krajowy organ tego samorządu podejmie uchwałę określającą szczegółowe zasady i tryb przekazywania takich informacji Generalnemu Inspektorowi. Krajowy organ samorządu przekazuje Generalnemu Inspektorowi wykaz osób odpowiedzialnych za przekazywanie takich informacji.”;
+
+- **19)** w art. 12:
+    - **a)** w ust. 1: – pkt 1 i 2 otrzymują brzmienie: „1) datę przeprowadzenia transakcji;
+
+- **2)** dane identyfikacyjne stron transakcji, o których mowa w art. 9 ust. 1 i 2;”, – pkt 4 otrzymuje brzmienie: „4) numery rachunków, które zostały wykorzystane do przeprowadzenia transakcji, w przypadku transakcji z udziałem takich rachunków;”, – uchyla się pkt 5 i 6, – pkt 7 otrzymuje brzmienie: „7) uzasadnienie oraz miejsce, datę i sposób złożenia dyspozycji w przypadku przekazywania informacji o transakcji, o których mowa w art. 8 ust. 3.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Przepisu ust. 1 pkt 2 nie stosuje się, w odniesieniu do danych identyfikacyjnych strony transakcji niebędącej klientem, w przypadku transakcji przeprowadzanych na rynku regulowanym w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.”;
+
+- **20)** po art. 12 dodaje się art. 12a w brzmieniu: „Art. 12a. W przypadku transakcji, o której mowa w art. 8 ust. 3, instytucja obowiązana przekazuje dodatkowe dane o stronach transakcji, będące w jej posiadaniu, w tym informacje o ich rachunkach osobistych oraz związanych z prowadzoną działalnością gospodarczą, niewykorzystanych w przedmiotowej transakcji.”;
+- **21)** art. 13 otrzymuje brzmienie: „Art. 13. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Przewodniczącego Komisji Nadzoru Finansowego oraz Prezesa Narodowego Banku Polskiego, określi, w drodze rozporządzenia:
+- **1)** wzór rejestru, o którym mowa w art. 8 ust. 4, sposób jego prowadzenia oraz tryb dostarczania danych z rejestru Generalnemu Inspektorowi;
+- **2)** tryb przekazywania Generalnemu Inspektorowi informacji o transakcjach, o których mowa w art. 8 ust. 1 i 3, przy wykorzystaniu informatycznych nośników danych;
+- **3)** wzór formularza i sposób przekazywania informacji, o których mowa w art. 8b ust. 5.”;
+- **22)** w art. 13a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Instytucja obowiązana udostępnia niezwłocznie informacje dotyczące transakcji objętych przepisami ustawy na pisemne żądanie Generalnego Inspektora. Udostępnienie polega w szczególności na przekazaniu informacji o stronach transakcji, zawartości dokumentów, w tym dotyczących sald i obrotów na rachunku, przekazaniu ich potwierdzonych kopii lub udostępnieniu odpowiednich dokumentów do wglądu upoważnionym pracownikom jednostki, o której mowa w art. 3 ust. 4, w celu sporządzenia notatek bądź kopii.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Generalny Inspektor może żądać przekazania informacji, o których mowa w ust. 1, w formie elektronicznej.”;
+
+- **23)** w art. 14:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Prokuratura, Agencja Bezpieczeństwa Wewnętrznego, Centralne Biuro Antykorupcyjne oraz jednostki podległe ministrowi właściwemu do spraw wewnętrznych i przez niego nadzorowane informują niezwłocznie, w granicach swoich ustawowych kompetencji, Generalnego Inspektora o wszystkich przypadkach:
+
+- **1)** uzyskania informacji wskazujących na podejrzenie popełnienia przestępstw, o których mowa w art. 165a lub art. 299 Kodeksu karnego, w formie zestawienia zbiorczego, nie później niż do końca miesiąca następującego po miesiącu, w którym uzyskano te informacje;
+- **2)** przedstawienia zarzutu popełnienia przestępstw, o których mowa w art. 165a lub art. 299 Kodeksu karnego;
+- **3)** wszczęcia i zakończenia postępowania w sprawie o przestępstwa, o których mowa w art. 165a lub art. 299 Kodeksu karnego.”;
+    - **b)** dodaje się ust. 4 w brzmieniu: „ 4. Generalny Inspektor niezwłocznie powiadamia podmioty, o których mowa w ust. 2, o okolicznościach wskazujących na związek między informacjami uzyskanymi w trybie określonym w tym przepisie a informacjami o transakcjach, o których mowa w art. 8 ust. 3, art. 16 ust. 1 i 1a oraz art. 17.”;
+
+- **24)** art. 15 i 15a otrzymują brzmienie: „Art. 15. Jednostki współpracujące, w granicach swoich ustawowych kompetencji, są obowiązane udostępniać, na wniosek Generalnego Inspektora, informacje niezbędne do realizacji jego zadań w zakresie zapobiegania przestępstwom, o których mowa w art. 165a lub art. 299 Kodeksu karnego.
 
 **Art. 15a.**
 
@@ -387,6 +558,14 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2006 r. Nr 97, poz. 673, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 5 w ust. 3 pkt 5 otrzymuje brzmienie: „5) organów i jednostek organizacyjnych podległych i nadzorowanych przez Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw zagranicznych, oraz w odniesieniu do komórek organizacyjnych wykonujących czynności w zakresie wywiadu skarbowego w jednostkach organizacyjnych podległych i nadzorowanych przez ministra właściwego do spraw finansów publicznych, a także w odniesieniu do komórki organizacyjnej wykonującej zadania w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu w urzędzie obsługującym ministra właściwego do spraw instytucji finansowych – ministrowie, którym podlegają oraz przez których są nadzorowane te organy i jednostki organizacyjne;”;
+- **2)** w art. 19 w ust. 1 pkt 1 otrzymuje brzmienie: „1) Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, minister właściwy do spraw zagranicznych, minister właściwy do spraw finansów publicznych i minister właściwy do spraw instytucji finansowych;”;
+- **3)** w art. 29:
+    - **a)** w ust. 1 w pkt 6 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) komórki organizacyjnej wykonującej zadania w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu w urzędzie obsługującym ministra właściwego do spraw instytucji finansowych – w zakresie tych zadań.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, minister właściwy do spraw zagranicznych, minister właściwy do spraw instytucji finansowych, minister właściwy do spraw finansów publicznych, Szef Kancelarii Prezesa Rady Ministrów, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu i Szef Centralnego Biura Antykorupcyjnego w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego określą, w drodze zarządzeń, organizację podległych im i przez nich nadzorowanych archiwów wyodrębnionych, uwzględniając w szczególności zakres ich działania.”;
+
+- **4)** w art. 31 w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) komórki organizacyjnej wykonującej zadania w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu w urzędzie obsługującym ministra właściwego do spraw instytucji finansowych.”.
+
 **Art. 5.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158 oraz z 2009 r. Nr 37, poz. 286) w art. 18 § 4 otrzymuje brzmienie: „§ 4. Obowiązek zachowania tajemnicy nie dotyczy informacji udostępnianych na podstawie przepisów ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. Nr 153, poz. 1505, z późn. zm. ) – w zakresie określonym tymi przepisami.”.
 
 **Art. 6.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm. ) w art. 34a w ust. 1 pkt 1a otrzymuje brzmienie: „1a) Generalnemu Inspektorowi Informacji Finansowej – zgodnie z przepisami o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;”.
@@ -397,9 +576,46 @@ source: "isap-pdf"
 
 **Art. 9.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz.U. Nr 88, poz. 553, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** po art. 165 dodaje się art. 165a w brzmieniu: „Art. 165a. Kto gromadzi, przekazuje lub oferuje środki płatnicze, instrumenty finansowe, papiery wartościowe, wartości dewizowe, prawa majątkowe lub inne mienie ruchome lub nieruchomości w celu sfinansowania przestępstwa o charakterze terrorystycznym, podlega karze pozbawienia wolności od lat 2 do 12.”;
+- **2)** w art. 299:
+    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Kto środki płatnicze, instrumenty finansowe, papiery wartościowe, wartości dewizowe, prawa majątkowe lub inne mienie ruchome lub nieruchomości, pochodzące z korzyści związanych z popełnieniem czynu zabronionego, przyjmuje, przekazuje lub wywozi za granicę, pomaga do przenoszenia ich własności lub posiadania albo podejmuje inne czynności, które mogą udaremnić lub znacznie utrudnić stwierdzenie ich przestępnego pochodzenia lub miejsca umieszczenia, ich wykrycie, zajęcie albo orzeczenie przepadku, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+
+§ 2. Karze określonej w § 1 podlega, kto będąc pracownikiem lub działając w imieniu lub na rzecz banku, instytucji finansowej lub kredytowej lub innego podmiotu, na którym na podstawie przepisów prawa ciąży obowiązek rejestracji transakcji i osób dokonujących transakcji, przyjmuje, wbrew przepisom, środki płatnicze, instrumenty finansowe, papiery wartościowe, wartości dewizowe, dokonuje ich transferu lub konwersji, lub przyjmuje je w innych okolicznościach wzbudzających uzasadnione podejrzenie, że stanowią one przedmiot czynu określonego w § 1, lub świadczy inne usługi mające ukryć ich przestępne pochodzenie lub usługi w zabezpieczeniu przed zajęciem.”,
+
+- **b)** uchyla się § 3 i 4,
+- **c)** § 8 otrzymuje brzmienie: „§ 8. Nie podlega karze za przestępstwo określone w § 1 lub 2, kto dobrowolnie ujawnił wobec organu powołanego do ścigania przestępstw informacje dotyczące osób uczestniczących w popełnieniu przestępstwa oraz okoliczności jego popełnienia, jeżeli zapobiegło to popełnieniu innego przestępstwa; jeżeli sprawca czynił starania zmierzające do ujawnienia tych informacji i okoliczności, sąd stosuje nadzwyczajne złagodzenie kary.”.
+
 **Art. 10.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 282c w § 1 w pkt 1 lit. e otrzymuje brzmienie: „e) ma być podjęta w oparciu o informacje uzyskane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,”;
+- **2)** w art. 297 w § 1 pkt 2a otrzymuje brzmienie: „2a) Generalnemu Inspektorowi Informacji Finansowej – zgodnie z przepisami o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;”.
+
 **Art. 11.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 63g ust. 9 otrzymuje brzmienie: „9. Odpowiedzialność banków oraz instytucji pośredniczących w wykonaniu przelewów transgranicznych za nienależyte wykonanie lub niewykonanie zlecenia, określona w ust. 2 – 8, jest wyłączona w przypadku wystąpienia siły wyższej oraz w przypadku zastosowania przez bank przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.”;
+- **2)** w art. 104 w ust. 2 w pkt 6 w lit. d kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „7) udzielenie informacji innym bankom, instytucjom kredytowym lub instytucjom finansowym należącym do tego samego holdingu finansowego jest niezbędne do należytego wykonywania, określonych w przepisach prawa, obowiązków w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu.”;
+- **3)** w art. 106 ust. 1 otrzymuje brzmienie: „1. Bank jest obowiązany przeciwdziałać wykorzystywaniu swojej działalności dla celów mających związek z przestępstwem, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz.U. Nr 88, poz. 553, z późn. zm. ), zwanej dalej „Kodeksem karnym.”;
+- **4)** w art. 106a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W razie zaistnienia uzasadnionego podejrzenia, że działalność banku jest wykorzystywana w celu ukrycia działań przestępczych lub dla celów mających związek z przestępstwem skarbowym lub innym przestępstwem niż przestępstwo, o którym mowa w art. 165a lub art. 299 Kodeksu karnego - bank zawiadamia o tym prokuratora, Policję albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego.”,
+    - **b)** dodaje się ust. 3 – 10 w brzmieniu: „3. W przypadku powzięcia uzasadnionego podejrzenia, że zgromadzone na rachunku bankowym środki, w całości lub w części pochodzą lub mają związek z przestępstwem innym niż przestępstwo, o którym mowa w art. 165a lub art. 299 Kodeksu karnego, bank jest uprawniony do dokonania blokady środków na tym rachunku. Blokada może nastąpić wyłącznie do wysokości zgromadzonych na rachunku środków, co do których zachodzi takie podejrzenie.
+
+4. Blokada środków na rachunku, dokonana w okolicznościach, o których mowa w ust. 3, nie może trwać dłużej niż 72 godziny.
+
+5. Niezwłocznie po dokonaniu blokady, o której mowa w ust. 3, bank zawiadamia prokuratora.
+
+6. W terminie określonym w ust. 4, prokurator wydaje postanowienie o wszczęciu lub odmowie wszczęcia postępowania, o którym niezwłocznie zawiadamia właściwy bank. Terminu określonego w art. 307 § 1 Kodeksu postępowania karnego nie stosuje się. W razie wszczęcia postępowania prokurator w drodze postanowienia dokonuje blokady środków na rachunku na czas oznaczony, nie dłuższy niż 3 miesiące od otrzymania zawiadomienia, o którym mowa w ust. 5. W postanowieniu określa się zakres, sposób i termin blokady rachunku.
+
+7. Na postanowienie prokuratora w przedmiocie stosowania blokady środków na rachunku przysługuje zażalenie do sądu właściwego do rozpoznania sprawy.
+
+8. Blokada środków na rachunku upada, jeżeli przed upływem 3 miesięcy od otrzymania zawiadomienia, o którym mowa w ust. 5, nie zostanie wydane postanowienie o zabezpieczeniu majątkowym.
+
+9. W kwestiach dotyczących blokady środków na rachunku, nieuregulowanych w ustawie, stosuje się przepisy Kodeksu postępowania karnego.
+
+10. Bank nie ponosi odpowiedzialno ści za szkodę, która może wyniknąć z wykonania w dobrej wierze obowiązków określonych w ust. 3 - 5. W takim przypadku, jeżeli okoliczności, o których mowa w ust. 3 - 5, nie miały związku z przestępstwem lub ukrywaniem działań przestępczych, o których mowa w ust. 1, odpowiedzialność za szkodę wynikłą z dokonania blokady środków na rachunku ponosi Skarb Państwa.”;
+
+- **5)** po art. 106c dodaje się art. 106d w brzmieniu: „Art. 106d. Banki i instytucje, o których mowa w art. 105 ust. 4, mogą przetwarzać i udostępniać innym bankom informacje objęte tajemnicą bankową, w przypadkach:
+- **1)** uzasadnionych podejrzeń, o których mowa w art. 106a ust. 3,
+- **2)** przestępstw dokonywanych na szkodę banków, instytucji kredytowych, oraz instytucji finansowych i ich klientów w celu i zakresie niezbędnym do zapobiegania tym przestępstwom.”.
 
 **Art. 12.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm. ) w art. 16 w ust. 1 pkt 12 otrzymuje brzmienie: „12) o charakterze terrorystycznym lub określone w art. 165a Kodeksu karnego;”.
 

@@ -8,7 +8,7 @@ pos: 530
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych
@@ -316,6 +316,9 @@ Art. 52–60. (pominięte)
 
 **Art. 15b.** Przepisów art. 14 ust. 1 pkt 3 i art. 15 ust. 1 pkt 3 oraz ust. 1a nie stosuje się:
 
+- **1)** w przypadku przekazania informacji gospodarczej o świadczeniach okresowych wynikających ze zobowiązania, o którym informacja została przekazana do biura, jeżeli wierzyciel w wezwaniu do zapłaty poinformował dłużnika o tym, że odrębne wezwanie do zapłaty nie jest wymagane w odniesieniu do kolejnych świadczeń okresowych, a przekazana informacja gospodarcza jest aktualna;
+- **2)** do należności skazanego lub ukaranego, o którym mowa w art. 2 ust. 2 pkt 3, których płatność została rozłożona skazanemu lub ukaranemu na raty – w odniesieniu do poszczególnych rat.
+
 **Art. 16.**
 
 1. Poza przypadkami określonymi w art. 14 i 15, wierzyciel może przekazać do biura informacje gospodarcze o zobowiązaniu dłużnika, gdy są spełnione łącznie następujące warunki:
@@ -539,7 +542,7 @@ Art. 52–60. (pominięte)
 - **2a)** Szef Służby Kontrwywiadu Wojskowego oraz Szef Służby Wywiadu Wojskowego – na zasadach i w trybie określonych w art. 38 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2024 r. poz. 1405);
 - **3)** Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, komendant wojewódzki Policji oraz Komendant Stołeczny Policji – na zasadach i w trybie określonych w art. 20 ust. 1d i 1e ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. );
 - **4)** Komendant Służby Ochrony Państwa – jeżeli jest to konieczne do wykonywania obowiązków przewidzianych w ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34 oraz z 2024 r. poz. 1871);
-- **4a)** Szef Kancelarii – jeżeli jest to konieczne do wykonywania obowiązków przewidzianych w ustawie z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2023 r. poz. 1729 oraz z 2024 r. poz. 1871);
+- **4a)** Szef Kancelarii Sejmu – jeżeli jest to konieczne do wykonywania obowiązków przewidzianych w ustawie z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2023 r. poz. 1729 oraz z 2024 r. poz. 1871);
 - **5)** organy Krajowej Administracji Skarbowej – w zakresie niezbędnym do wykonywania zadań określonych w ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. );
 - **6)** Generalny Inspektor Informacji Finansowej – w zakresie niezbędnym do wykonywania zadań określonych w przepisach o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
 - **7)** naczelnicy urzędów skarbowych i dyrektorzy izb administracji skarbowej – w związku z toczącym się przeciwko osobie fizycznej postępowaniem karnym lub karnym skarbowym albo w związku z toczącym się postępowaniem karnym lub karnym skarbowym o przestępstwo lub przestępstwo skarbowe popełnione w związku z działaniem osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej oraz w zakresie niezbędnym do prowadzenia postępowań i kontroli na podstawie przepisów prawa celnego i podatkowego;
@@ -636,6 +639,30 @@ Art. 52–60. (pominięte)
 
 **Art. 30a.** Obowiązek wierzyciela, o którym mowa w art. 30 ust. 1, oraz obowiązki biura, o których mowa w art. 21 ust. 2 pkt 2 i art. 31 ust. 1 pkt 6 i 7, dotyczące:
 
+- **1)** aktualizacji informacji gospodarczych wynikają w szczególności z uzasadnionej informacji o:
+    - **a)** zakwestionowaniu przez dłużnika istnienia zobowiązania w całości lub części, w tym o odmowie uznania długu,
+    - **b)** uznaniu długu przez dłużnika w całości,
+    - **c)** uznaniu zobowiązania przez dłużnika za przedawnione,
+    - **d)** wykonaniu zobowiązania, w tym dokonaniu zapłaty w części,
+    - **e)** oddaleniu prawomocnym wyrokiem powództwa obejmującego część zobowiązania,
+    - **f)** stwierdzeniu prawomocnym wyrokiem, że zobowiązanie w części nie istnieje lub wygasło,
+    - **g)** potrąceniu ze zobowiązania wierzytelności niższej niż objęta zobowiązaniem,
+    - **h)** zwolnieniu dłużnika z długu w części,
+    - **i)** odnowieniu zobowiązania w części,
+    - **j)** przelewie wierzytelności objętej zobowiązaniem w części na rzecz innej osoby,
+    - **k)** przejęciu części długu przez inną osobę,
+    - **l)** toczącym się postępowaniu sądowym dotyczącym zobowiązania;
+
+- **2)** usunięcia informacji gospodarczych wynikają w szczególności z uzasadnionej informacji o:
+    - **a)** wykonaniu zobowiązania, w tym dokonaniu zapłaty, w całości,
+    - **b)** oddaleniu prawomocnym wyrokiem powództwa obejmującego całość zobowiązania,
+    - **c)** stwierdzeniu prawomocnym wyrokiem, że zobowiązanie w całości nie istnieje lub wygasło,
+    - **d)** potrąceniu ze zobowiązania wierzytelności wyższej niż objęta zobowiązaniem,
+    - **e)** zwolnieniu dłużnika z długu w całości,
+    - **f)** odnowieniu zobowiązania w całości,
+    - **g)** przelewie wierzytelności objętej zobowiązaniem w całości na rzecz innej osoby,
+    - **h)** przejęciu całości długu przez inną osobę.
+
 **Art. 31.**
 
 1. Biuro usuwa informacje gospodarcze:
@@ -695,6 +722,15 @@ Art. 52–60. (pominięte)
 5. Z wnioskiem o wyłączenie kontrolującego z przeprowadzenia kontroli może wystąpić kontrolujący lub osoba upoważniona do reprezentowania biura. O wyłączeniu albo odmowie wyłączenia kontrolującego z przeprowadzenia kontroli rozstrzyga minister właściwy do spraw gospodarki.
 
 **Art. 34.** Kontrolujący jest uprawniony do:
+
+- **1)** wstępu do obiektów i pomieszczeń biura;
+- **2)** wglądu do wszelkich dokumentów, nośników informacji lub innych materiałów dowodowych związanych z działalnością gospodarczą biura;
+- **3)** przeprowadzania oględzin obiektów i składników majątkowych;
+- **4)** żądania ustnych lub pisemnych wyjaśnień od osoby upoważnionej do reprezentowania biura lub innych pracowników biura;
+- **5)** żądania od osoby upoważnionej do reprezentowania biura sporządzenia, na koszt biura, uwierzytelnionych kopii, odpisów lub wyciągów z dokumentów, jak również zestawień i obliczeń dokonanych na podstawie dokumentów;
+- **6)** korzystania z pomocy biegłych i specjalistów;
+- **7)** zabezpieczenia materiałów dowodowych;
+- **8)** dostępu do informacji prawnie chronionych, z zastrzeżeniem przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222).
 
 **Art. 35.**
 
@@ -760,6 +796,9 @@ Art. 52–60. (pominięte)
 
 **Art. 42a.** Postępowanie kontrolne kończy:
 
+- **1)** podpisanie protokołu kontroli, o którym mowa w art. 39 ust. 3, albo
+- **2)** podpisanie protokołu kontroli przez kontrolującego, w trybie art. 42 ust. 2.
+
 **Art. 43.**
 
 1. W razie powzięcia uzasadnionego podejrzenia naruszenia przez biuro przepisów ustawy lub regulaminu lub w razie stwierdzenia w wyniku kontroli takiego naruszenia, minister właściwy do spraw gospodarki wszczyna postępowanie w sprawie wydania decyzji nakazującej usunięcie nieprawidłowości. W decyzji tej określa się termin usunięcia stwierdzonych nieprawidłowości.
@@ -799,6 +838,10 @@ Art. 52–60. (pominięte)
 **Art. 46.** Kto, prowadząc działalność zarobkową, wbrew warunkom określonym w ustawie używa w swoim oznaczeniu lub w reklamie wyrazów „biuro informacji gospodarczej” lub skrótu „BIG”, podlega grzywnie do 5 000 000 złotych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
 
 **Art. 47.** Kto, będąc wierzycielem, w przypadku:
+
+- **1)** całkowitego wykonania zobowiązania albo jego wygaśnięcia,
+- **2)** stwierdzenia faktu nieistnienia zobowiązania,
+- **3)** powzięcia przez wierzyciela, który zawarł z biurem umowę, o której mowa w art. 12 ust. 1, wiadomości o odzyskaniu przez osobę utraconego dokumentu, o którym mowa w art. 17 – niezwłocznie, nie później niż w terminie 14 dni, nie zażądał aktualizacji informacji od biura, któremu przekazał dane o zobowiązaniu lub o posłużeniu się cudzym dokumentem, podlega grzywnie do 30 000 złotych.
 
 **Art. 48.**
 

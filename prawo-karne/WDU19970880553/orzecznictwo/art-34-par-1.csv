@@ -22,7 +22,9 @@ saos_id|date|court|case_number|type|score|saos_url
 82095|2003-06-26|SN|WA 18/03|Wyrok|78|https://www.saos.org.pl/judgments/82095
 105028|2014-04-30|SN|I KZP 6/14|Postanowienie|69|https://www.saos.org.pl/judgments/105028
 101151|2013-03-20|SN|III KK 11/13|Postanowienie|69|https://www.saos.org.pl/judgments/101151
+545765|2025-06-12|SO|II AKa 70/25|Wyrok|56|https://www.saos.org.pl/judgments/545765
 534982|2025-06-09|SO|II AKa 206/24|Wyrok|56|https://www.saos.org.pl/judgments/534982
+545277|2025-03-26|SO|II AKa 508/24|Wyrok|56|https://www.saos.org.pl/judgments/545277
 532647|2024-12-04|SO|II AKa 382/24|Wyrok|56|https://www.saos.org.pl/judgments/532647
 526407|2024-10-09|SO|II AKa 350/23|Wyrok|56|https://www.saos.org.pl/judgments/526407
 517668|2024-03-14|SO|II AKa 251/21|Wyrok|56|https://www.saos.org.pl/judgments/517668
@@ -102,6 +104,7 @@ saos_id|date|court|case_number|type|score|saos_url
 411254|2018-10-15|SO|II AKa 198/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/411254
 233964|2016-06-07|SO|II AKa 22/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/233964
 541163|2025-12-22|SO|IV Ka 954/25|Wyrok|40|https://www.saos.org.pl/judgments/541163
+546232|2025-12-01|SO|II K 305/25|Wyrok|40|https://www.saos.org.pl/judgments/546232
 543951|2025-11-12|SO|II K 499/25|Wyrok|40|https://www.saos.org.pl/judgments/543951
 536131|2025-10-09|SO|II K 736/25|Wyrok|40|https://www.saos.org.pl/judgments/536131
 536864|2025-09-26|SO|II K 462/25|Wyrok|40|https://www.saos.org.pl/judgments/536864
@@ -113,6 +116,7 @@ saos_id|date|court|case_number|type|score|saos_url
 526865|2025-05-08|SO|VI Ka 539/24|Wyrok|40|https://www.saos.org.pl/judgments/526865
 540931|2025-04-25|SO|II K 91/23|Wyrok|40|https://www.saos.org.pl/judgments/540931
 542688|2025-03-18|SO|II K 1528/24|Wyrok|40|https://www.saos.org.pl/judgments/542688
+547012|2025-03-05|SO|II K 42/25|Wyrok|40|https://www.saos.org.pl/judgments/547012
 540361|2025-02-25|SO|II K 10/24|Wyrok|40|https://www.saos.org.pl/judgments/540361
 519608|2024-11-28|SO|II K 353/23|Wyrok|40|https://www.saos.org.pl/judgments/519608
 523672|2024-09-23|SO|II K 1264/24|Wyrok|40|https://www.saos.org.pl/judgments/523672

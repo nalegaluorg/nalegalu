@@ -8,10 +8,10 @@ pos: 1123
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 października 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1123 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 października 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1123/text.pdf) |
 
-Poz. 1123 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 października 2012 r.
-w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy ubiegającego się o zawarcie umowy na prowadzenie działalności w zakresie ochrony lotnictwa cywilnego w portach lotniczych Na podstawie art. 22a ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy ubiegającego się o zawarcie umowy na prowadzenie działalności w zakresie, o którym mowa w art. 22a ust. 1 pkt 13 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, za szkody powstałe w związku z prowadzeniem tej działalności, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia OC oraz minimalną sumę gwarancyjną tego ubezpieczenia.
+w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy ubiegającego się o zawarcie umowy na prowadzenie działalności w zakresie ochrony lotnictwa cywilnego w portach lotniczych Na podstawie art. 22a ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2005 r. Nr 145, poz. 1221, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy ubiegającego się o zawarcie umowy na prowadzenie działalności w zakresie, o którym mowa w art. 22a ust. 1 pkt 13 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, za szkody powstałe w związku z prowadzeniem tej działalności, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia OC oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2. 1. Ubezpieczeniem OC jest objęta odpowiedzialność cywilna przedsiębiorcy ubiegającego się o zawarcie umowy na prowadzenie działalności w zakresie ochrony lotnictwa cywilnego w portach lotniczych, za szkody powstałe w związku z prowadzoną działalnością gospodarczą w zakresie ochrony lotnictwa cywilnego w portach lotniczych, wyrządzone w następstwie działania lub zaniechania ubezpieczonego w okresie ubezpieczenia.
 2. Ubezpieczeniem OC są objęte również szkody wyrządzone w następstwie działania lub zaniechania osób, przy pomocy których ubezpieczony wykonuje czynności z zakresu ochrony lotnictwa cywilnego w portach lotniczych.
 3. Ubezpieczenie OC nie obejmuje szkód:

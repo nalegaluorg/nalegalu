@@ -8,10 +8,10 @@ pos: 135
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 stycznia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 135 zmianY do załączników a i B do Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (adR), sporządzonej w Genewie dnia 30 września 1957 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/135/text.pdf) |
 
-zmianY do załączników a i B do Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (adR), sporządzonej w Genewie dnia 30 września 1957 r.
 Przekład
 

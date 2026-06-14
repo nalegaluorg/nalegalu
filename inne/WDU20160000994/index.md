@@ -8,10 +8,10 @@ pos: 994
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 lipca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 994 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 27 czerwca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000994) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/994/text.pdf) |
 
-Poz. 994 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 27 czerwca 2016 r.
-w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego popełnianych przez kierowców Na podstawie art. 105 ust. 2a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627 i 904) zarządza się, co następuje: § 1. Rozporządzenie określa warunki i tryb przekazywania staroście informacji, o których mowa w art. 92 ust. 2, art. 99 ust. 2 pkt 1 lit. b oraz w art. 103 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
+w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego popełnianych przez kierowców Na podstawie art. 105 ust. 2a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627 i 904) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki i tryb przekazywania staroście informacji, o których mowa w art. 92 ust. 2, art. 99 ust. 2 pkt 1 lit. b oraz w art. 103 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
 § 2. Administrator centralnej ewidencji kierowców, nie później niż w ciągu 24 godzin od przekazania do centralnej ewidencji kierowców danych o zastosowaniu środka karnego w postaci zakazu prowadzenia pojazdów, uchyleniu sposobu wykonywania zakazu prowadzenia pojazdów na podstawie art. 182a § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. poz. 557, z późn. zm. ) lub naruszeniu przepisów ruchu drogowego stwierdzonym mandatem karnym, prawomocnym wyrokiem sądu lub orzeczeniem organu orzekającego w sprawie o naruszenie w postępowaniu dyscyplinarnym, przekazuje staroście właściwemu do wydania decyzji administracyjnej informację o kierowcy lub osobie posiadającej pozwolenie na kierowanie tramwajem:
 1) który w okresie próbnym popełnił drugie wykroczenie przeciwko bezpieczeństwu w komunikacji;
 2) który w okresie próbnym popełnił trzecie wykroczenie przeciwko bezpieczeństwu w komunikacji lub przestępstwo przeciwko bezpieczeństwu w komunikacji;

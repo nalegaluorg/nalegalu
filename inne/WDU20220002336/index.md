@@ -8,12 +8,10 @@ pos: 2336
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach wydobywczych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 października 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -45,11 +43,11 @@ Art. 48–52. (pominięte)
 - **3)** procedury związane z uzyskiwaniem zezwoleń i pozwoleń związanych z gospodarką odpadami wydobywczymi;
 - **4)** procedury związane z zapobieganiem poważnym wypadkom w obiektach unieszkodliwiania odpadów wydobywczych kategorii A.
 
-2. W sprawach dotyczących podziemnego składowania odpadów wydobywczych stosuje się przepisy ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072, 1261 i 1504).
+2. W sprawach dotyczących podziemnego składowania odpadów wydobywczych stosuje się przepisy ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072, 1261 i 1504).
 
 3. W sprawach dotyczących postępowania z odpadami wydobywczymi w zakresie nieuregulowanym w ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, 1250 i 1726), z wyjątkiem działu II rozdziału 7 i działu VIII rozdziału 1.
 
-4. W sprawach dotyczących postępowania z odpadami wydobywczymi będącymi odpadami promieniotwórczymi stosuje się przepisy ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2021 r. poz. 1941 oraz z 2022 r. poz. 974).
+4. W sprawach dotyczących postępowania z odpadami wydobywczymi będącymi odpadami promieniotwórczymi stosuje się przepisy ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 1941 oraz z 2022 r. poz. 974).
 
 **Art. 2.**
 
@@ -57,9 +55,9 @@ Art. 48–52. (pominięte)
 
 - **1)** odpadów powstałych w wyniku poszukiwania, rozpoznawania i wydobywania kopalin ze złóż oraz ich magazynowania i przeróbki, które nie są bezpośrednio związane z tymi działaniami;
 - **2)** odpadów powstałych w wyniku poszukiwania, rozpoznawania i wydobywania kopalin ze złóż oraz ich przeróbki z obszarów morskich Rzeczypospolitej Polskiej;
-- **3)** wtłaczania wód do górotworu w rozumieniu ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze;
-- **4)** mas ziemnych lub skalnych przemieszczanych w związku z wydobywaniem kopalin ze złóż, jeżeli koncesja na wydobywanie kopalin ze złóż lub plan ruchu zakładu górniczego zatwierdzone decyzjami, o których mowa w ustawie z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, lub miejscowy plan zagospodarowania przestrzennego dla terenu górniczego określają warunki i sposób ich zagospodarowania;
-- **5)** nadkładu stanowiącego masy ziemne lub skalne usuwane znad złoża w celu umożliwienia wydobycia kopaliny użytecznej, zwałowanego na obszarze górniczym, o ile nie stanowi odpadu w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. o odpadach , a termin i sposób jego zagospodarowania zostały określone zgodnie z przepisami ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze dotyczącymi ruchu zakładu górniczego.
+- **3)** wtłaczania wód do górotworu w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
+- **4)** mas ziemnych lub skalnych przemieszczanych w związku z wydobywaniem kopalin ze złóż, jeżeli koncesja na wydobywanie kopalin ze złóż lub plan ruchu zakładu górniczego zatwierdzone decyzjami, o których mowa w ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, lub miejscowy plan zagospodarowania przestrzennego dla terenu górniczego określają warunki i sposób ich zagospodarowania;
+- **5)** nadkładu stanowiącego masy ziemne lub skalne usuwane znad złoża w celu umożliwienia wydobycia kopaliny użytecznej, zwałowanego na obszarze górniczym, o ile nie stanowi odpadu w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. o odpadach , a termin i sposób jego zagospodarowania zostały określone zgodnie z przepisami ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze dotyczącymi ruchu zakładu górniczego.
 
 2. Do odpadów wydobywczych obojętnych oraz niezanieczyszczonej gleby powstałych w wyniku poszukiwania, rozpoznawania i wydobywania kopalin ze złóż oraz ich magazynowania i przeróbki oraz do odpadów powstałych w wyniku wydobywania, przeróbki i magazynowania torfu nie mają zastosowania przepisy art. 10 ust. 4 i 5, art. 14–23, art. 27 ust. 2, art. 28–32 i art. 55, chyba że są one składowane w obiekcie unieszkodliwiania odpadów wydobywczych kategorii A.
 
@@ -69,21 +67,21 @@ Art. 48–52. (pominięte)
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** cyjanek dysocjujący w słabym kwasie cyjanek i związki cyjanku, które ulegają dysocjacji w słabym kwasie o określonym pH;
-- **2)** hałda obiekt przeznaczony do składowania stałych odpadów wydobywczych na powierzchni ziemi;
-- **3)** kopalina kopalina w rozumieniu ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, z wyłączeniem wód leczniczych, wód termalnych i solanek;
-- **4)** niezanieczyszczona gleba glebę, która została usunięta z górnej warstwy powierzchni ziemi w trakcie działalności wydobywczej i która nie przekracza dopuszczalnych zawartości w glebie oraz dopuszczalnych zawartości w ziemi substancji powodujących ryzyko, o których mowa w przepisach wydanych na podstawie art. 101a ust. 5 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm. ), dla gruntów występujących w miejscu użycia tej gleby lub ziemi;
-- **5)** obiekt unieszkodliwiania odpadów wydobywczych obiekt przeznaczony do składowania odpadów wydobywczych w formie stałej, ciekłej, w roztworze lub zawiesinie, w tym hałdy i stawy osadowe, obejmujący tamy lub inne konstrukcje służące do powstrzymywania, zatrzymywania, ograniczania lub umacniania takiego obiektu; za obiekt unieszkodliwiania odpadów wydobywczych nie uznaje się wyrobiska górniczego wypełnianego odpadami wydobywczymi w celach rekultywacyjnych i technologicznych;
-- **6)** odpady przeróbcze odpady wydobywcze w formie stałej lub szlamu, które pozostają po przeróbce kopalin, przeprowadzonej w drodze procesów mechanicznych, fizycznych, biologicznych, termicznych lub chemicznych, a także z połączenia tych procesów;
-- **7)** odpady wydobywcze odpady pochodzące z poszukiwania, rozpoznawania, wydobywania, przeróbki i magazynowania kopalin ze złóż;
-- **8)** poważny wypadek zdarzenie w miejscu prowadzenia działalności związanej z gospodarowaniem odpadami wydobywczymi, w szczególności w obiekcie unieszkodliwiania odpadów wydobywczych, prowadzące do natychmiastowego lub występującego po pewnym czasie poważnego zagrożenia dla zdrowia ludzi lub środowiska, w miejscu prowadzenia działalności lub poza nim;
-- **9)** przemysł wydobywczy dział gospodarki zajmujący się odkrywkowym, podziemnym lub otworowym wydobywaniem kopalin ze złóż lub ich przeróbką;
-- **10)** przeróbka procesy mechaniczne, fizyczne, biologiczne, termiczne i chemiczne, a także połączenie tych procesów, którym są poddane wydobyte kopaliny, prowadzone w celu przygotowania ich do wykorzystania, w tym zmiana ich objętości, klasyfikacja, rozdzielanie i ługowanie, a także ponowna przeróbka poprzednio odrzuconych odpadów, z wyłączeniem procesów wytapiania, produkcyjnych procesów termicznych (innych niż wypalanie wapienia) i procesów metalurgicznych;
-- **11)** rekultywacja terenu zagospodarowanie terenu, w tym oczyszczanie gruntu, na który miał wpływ obiekt unieszkodliwiania odpadów wydobywczych, w taki sposób, aby przywrócić go do właściwego stanu użytkowego i przyrodniczego, ze szczególnym uwzględnieniem jakości gleby, dzikiej fauny i flory, siedlisk naturalnych, systemów słodkiej wody oraz krajobrazu;
-- **12)** staw osadowy obiekt przeznaczony do składowania drobnoziarnistych odpadów wydobywczych, w tym powstałych w wyniku przeróbki, wraz ze zmieniającą się ilością wody technologicznej, która pochodzi z przeróbki kopalin ze złóż, oraz z oczyszczania wody technologicznej;
-- **13)** tama obiekt budowlany przeznaczony do zatrzymania lub zamknięcia wody technologicznej lub odpadów wydobywczych w stawie osadowym;
-- **14)** zainteresowana społeczność osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej, które są lub mogą być dotknięte skutkami wydania zezwolenia lub mają interes w procesie jego wydania lub w procesie ustalania procedur związanych z zapobieganiem poważnym wypadkom w obiektach unieszkodliwiania odpadów wydobywczych kategorii A, a także organizacja ekologiczna, o której mowa w art. 3 ust. 1 pkt 10 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2022 r. poz. 1029, 1260, 1261, 1783 i 1846);
-- **15)** przemieszczanie gospodarowanie masami ziemnymi i skalnymi związane z wydobywaniem kopalin ze złóż w obrębie wyrobiska górniczego w rozumieniu ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze.
+- **1)** cyjanek dysocjujący w słabym kwasie – cyjanek i związki cyjanku, które ulegają dysocjacji w słabym kwasie o określonym pH;
+- **2)** hałda – obiekt przeznaczony do składowania stałych odpadów wydobywczych na powierzchni ziemi;
+- **3)** kopalina – kopalina w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, z wyłączeniem wód leczniczych, wód termalnych i solanek;
+- **4)** niezanieczyszczona gleba – glebę, która została usunięta z górnej warstwy powierzchni ziemi w trakcie działalności wydobywczej i która nie przekracza dopuszczalnych zawartości w glebie oraz dopuszczalnych zawartości w ziemi substancji powodujących ryzyko, o których mowa w przepisach wydanych na podstawie art. 101a ust. 5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm. ), dla gruntów występujących w miejscu użycia tej gleby lub ziemi;
+- **5)** obiekt unieszkodliwiania odpadów wydobywczych – obiekt przeznaczony do składowania odpadów wydobywczych w formie stałej, ciekłej, w roztworze lub zawiesinie, w tym hałdy i stawy osadowe, obejmujący tamy lub inne konstrukcje służące do powstrzymywania, zatrzymywania, ograniczania lub umacniania takiego obiektu; za obiekt unieszkodliwiania odpadów wydobywczych nie uznaje się wyrobiska górniczego wypełnianego odpadami wydobywczymi w celach rekultywacyjnych i technologicznych;
+- **6)** odpady przeróbcze – odpady wydobywcze w formie stałej lub szlamu, które pozostają po przeróbce kopalin, przeprowadzonej w drodze procesów mechanicznych, fizycznych, biologicznych, termicznych lub chemicznych, a także z połączenia tych procesów;
+- **7)** odpady wydobywcze – odpady pochodzące z poszukiwania, rozpoznawania, wydobywania, przeróbki i magazynowania kopalin ze złóż;
+- **8)** poważny wypadek – zdarzenie w miejscu prowadzenia działalności związanej z gospodarowaniem odpadami wydobywczymi, w szczególności w obiekcie unieszkodliwiania odpadów wydobywczych, prowadzące do natychmiastowego lub występującego po pewnym czasie poważnego zagrożenia dla zdrowia ludzi lub środowiska, w miejscu prowadzenia działalności lub poza nim;
+- **9)** przemysł wydobywczy – dział gospodarki zajmujący się odkrywkowym, podziemnym lub otworowym wydobywaniem kopalin ze złóż lub ich przeróbką;
+- **10)** przeróbka – procesy mechaniczne, fizyczne, biologiczne, termiczne i chemiczne, a także połączenie tych procesów, którym są poddane wydobyte kopaliny, prowadzone w celu przygotowania ich do wykorzystania, w tym zmiana ich objętości, klasyfikacja, rozdzielanie i ługowanie, a także ponowna przeróbka poprzednio odrzuconych odpadów, z wyłączeniem procesów wytapiania, produkcyjnych procesów termicznych (innych niż wypalanie wapienia) i procesów metalurgicznych;
+- **11)** rekultywacja terenu – zagospodarowanie terenu, w tym oczyszczanie gruntu, na który miał wpływ obiekt unieszkodliwiania odpadów wydobywczych, w taki sposób, aby przywrócić go do właściwego stanu użytkowego i przyrodniczego, ze szczególnym uwzględnieniem jakości gleby, dzikiej fauny i flory, siedlisk naturalnych, systemów słodkiej wody oraz krajobrazu;
+- **12)** staw osadowy – obiekt przeznaczony do składowania drobnoziarnistych odpadów wydobywczych, w tym powstałych w wyniku przeróbki, wraz ze zmieniającą się ilością wody technologicznej, która pochodzi z przeróbki kopalin ze złóż, oraz z oczyszczania wody technologicznej;
+- **13)** tama – obiekt budowlany przeznaczony do zatrzymania lub zamknięcia wody technologicznej lub odpadów wydobywczych w stawie osadowym;
+- **14)** zainteresowana społeczność – osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej, które są lub mogą być dotknięte skutkami wydania zezwolenia lub mają interes w procesie jego wydania lub w procesie ustalania procedur związanych z zapobieganiem poważnym wypadkom w obiektach unieszkodliwiania odpadów wydobywczych kategorii A, a także organizacja ekologiczna, o której mowa w art. 3 ust. 1 pkt 10 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2022 r. poz. 1029, 1260, 1261, 1783 i 1846);
+- **15)** przemieszczanie – gospodarowanie masami ziemnymi i skalnymi związane z wydobywaniem kopalin ze złóż w obrębie wyrobiska górniczego w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 
 2. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw środowiska może określić, w drodze rozporządzenia, szczegółowe kryteria zaliczania odpadów wydobywczych do odpadów obojętnych, kierując się właściwościami fizycznymi, chemicznymi i biologicznymi, w szczególności rozpuszczalnością, palnością, biodegradacją, zdolnością do wymywania, zawartością zanieczyszczeń w odpadach wydobywczych oraz negatywnym oddziaływaniem na środowisko wód odciekowych z obiektu unieszkodliwiania odpadów wydobywczych, z uwzględnieniem ich potencjalnego zagrożenia dla jakości wód powierzchniowych lub podziemnych.
 
@@ -91,26 +89,26 @@ Art. 48–52. (pominięte)
 
 **Art. 4.**
 
-1. Wytwórca odpadów wydobywczych jest obowiązany do stosowania takich sposobów poszukiwania, rozpoznawania, wydobywania, przeróbki i magazynowania, które zapobiegają powstawaniu odpadów wydobywczych lub pozwalają utrzymać na możliwym najniższym poziomie ich ilość, jak również ograniczają negatywne oddziaływanie na środowisko lub zagrożenie życia i zdrowia ludzi, przy uwzględnieniu najlepszych dostępnych technik, o których mowa w art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+1. Wytwórca odpadów wydobywczych jest obowiązany do stosowania takich sposobów poszukiwania, rozpoznawania, wydobywania, przeróbki i magazynowania, które zapobiegają powstawaniu odpadów wydobywczych lub pozwalają utrzymać na możliwym najniższym poziomie ich ilość, jak również ograniczają negatywne oddziaływanie na środowisko lub zagrożenie życia i zdrowia ludzi, przy uwzględnieniu najlepszych dostępnych technik, o których mowa w art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
-2. Posiadacz odpadów wydobywczych jest obowiązany do ograniczania negatywnego oddziaływania odpadów wydobywczych na środowisko, życie i zdrowie ludzi oraz zapobiegania lub zmniejszania, w możliwie najszerszym zakresie, wszelkich niekorzystnych skutków dla środowiska i zdrowia ludzi, powstałych w wyniku gospodarowania odpadami wydobywczymi, również po zamknięciu obiektu unieszkodliwiania odpadów wydobywczych, przy uwzględnieniu najlepszych dostępnych technik, o których mowa w art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+2. Posiadacz odpadów wydobywczych jest obowiązany do ograniczania negatywnego oddziaływania odpadów wydobywczych na środowisko, życie i zdrowie ludzi oraz zapobiegania lub zmniejszania, w możliwie najszerszym zakresie, wszelkich niekorzystnych skutków dla środowiska i zdrowia ludzi, powstałych w wyniku gospodarowania odpadami wydobywczymi, również po zamknięciu obiektu unieszkodliwiania odpadów wydobywczych, przy uwzględnieniu najlepszych dostępnych technik, o których mowa w art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
-3. Posiadacz odpadów wydobywczych jest obowiązany w pierwszej kolejności do poddania ich odzyskowi, a jeżeli z przyczyn technologicznych jest on niemożliwy lub nie jest uzasadniony z przyczyn ekonomicznych, do ich unieszkodliwienia zgodnie z wymaganiami ochrony środowiska lub programem gospodarowania odpadami wydobywczymi, przy uwzględnieniu najlepszych dostępnych technik, o których mowa w art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+3. Posiadacz odpadów wydobywczych jest obowiązany w pierwszej kolejności do poddania ich odzyskowi, a jeżeli z przyczyn technologicznych jest on niemożliwy lub nie jest uzasadniony z przyczyn ekonomicznych, do ich unieszkodliwienia zgodnie z wymaganiami ochrony środowiska lub programem gospodarowania odpadami wydobywczymi, przy uwzględnieniu najlepszych dostępnych technik, o których mowa w art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
-4. Posiadacz odpadów wydobywczych jest obowiązany do przekazania odpadów wydobywczych, które z przyczyn technologicznych lub ekonomicznych nie mogą być poddane odzyskowi, do najbliżej położonych miejsc, w których mogą być poddane unieszkodliwieniu, przy uwzględnieniu najlepszych dostępnych technik, o których mowa w art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, w szczególności do obiektów unieszkodliwiania odpadów wydobywczych.
+4. Posiadacz odpadów wydobywczych jest obowiązany do przekazania odpadów wydobywczych, które z przyczyn technologicznych lub ekonomicznych nie mogą być poddane odzyskowi, do najbliżej położonych miejsc, w których mogą być poddane unieszkodliwieniu, przy uwzględnieniu najlepszych dostępnych technik, o których mowa w art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, w szczególności do obiektów unieszkodliwiania odpadów wydobywczych.
 
 5. Jeżeli są spełnione wymagania, o których mowa w ust. 1–4, marszałek województwa może, w drodze decyzji, zezwolić na odstąpienie od wymagań określonych w przepisach ustawy w odniesieniu do:
 
 - **1)** składowania odpadów wydobywczych innych niż niebezpieczne, powstałych w wyniku poszukiwania kopalin, z wyłączeniem ropy naftowej, soli kamiennej, soli potasowo-magnezowych oraz soli strontu, lub
 - **2)** składowania niezanieczyszczonej gleby i odpadów powstałych w wyniku wydobycia, przeróbki i magazynowania torfu.
 
-6. Dla przedsięwzięć i zdarzeń na terenach zamkniętych, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990 oraz z 2022 r. poz. 1846), decyzję, o której mowa w ust. 5, wydaje regionalny dyrektor ochrony środowiska.
+6. Dla przedsięwzięć i zdarzeń na terenach zamkniętych, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990 oraz z 2022 r. poz. 1846), decyzję, o której mowa w ust. 5, wydaje regionalny dyrektor ochrony środowiska.
 
 **Art. 5.**
 
 1. (uchylony)
 
-2. Do odpadów wydobywczych innych niż niebezpieczne i obojętne oraz odpadów, o których mowa w art. 2 ust. 2, nie mają zastosowania przepisy art. 270 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska i art. 109 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, chyba że są one składowane w obiekcie unieszkodliwiania odpadów wydobywczych kategorii A.
+2. Do odpadów wydobywczych innych niż niebezpieczne i obojętne oraz odpadów, o których mowa w art. 2 ust. 2, nie mają zastosowania przepisy art. 270 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska i art. 109 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, chyba że są one składowane w obiekcie unieszkodliwiania odpadów wydobywczych kategorii A.
 
 **Art. 6.**
 
@@ -254,15 +252,15 @@ Art. 48–52. (pominięte)
 - **12)** działania mające na celu zapobieganie lub zminimalizowanie pogorszenia się stanu wód oraz mające na celu zapobieganie zanieczyszczeniu powietrza i gleby lub jego minimalizację;
 - **13)** wyniki badań wód powierzchniowych, wód podziemnych i gleby, na które może wywierać wpływ obiekt unieszkodliwiania odpadów wydobywczych, w szczególności w zakresie ustalenia poziomu naturalnych stężeń substancji na danym terenie;
 - **14)** ocenę ryzyka obiektu unieszkodliwiania odpadów wydobywczych;
-- **15)** czas, na jaki została wydana decyzja w przypadku, o którym mowa w ust. 2a.
+- **15)** czas, na jaki została wydana decyzja – w przypadku, o którym mowa w ust. 2a.
 
 3a. Decyzja zatwierdzająca program gospodarowania odpadami wydobywczymi może określać:
 
-- **1)** odstępstwa od obowiązku prowadzenia pomiaru poziomu i składu wód podziemnych w przypadku, o którym mowa w art. 27 ust. 7;
-- **2)** częstotliwość badań wód powierzchniowych, odciekowych i podziemnych w przypadku, o którym mowa w art. 27 ust. 9;
-- **3)** odstępstwa od obowiązku wykonywania badań składu wód powierzchniowych, odciekowych i podziemnych, pomiaru objętości wód odciekowych oraz pomiaru poziomu wód podziemnych w przypadku, o którym mowa w art. 27 ust. 10.
+- **1)** odstępstwa od obowiązku prowadzenia pomiaru poziomu i składu wód podziemnych – w przypadku, o którym mowa w art. 27 ust. 7;
+- **2)** częstotliwość badań wód powierzchniowych, odciekowych i podziemnych – w przypadku, o którym mowa w art. 27 ust. 9;
+- **3)** odstępstwa od obowiązku wykonywania badań składu wód powierzchniowych, odciekowych i podziemnych, pomiaru objętości wód odciekowych oraz pomiaru poziomu wód podziemnych – w przypadku, o którym mowa w art. 27 ust. 10.
 
-4. Decyzję zatwierdzającą program gospodarowania odpadami wydobywczymi wydaje się po zasięgnięciu opinii właściwego dyrektora okręgowego urzędu górniczego oraz właściwego wójta, burmistrza lub prezydenta miasta, a w przypadku, o którym mowa w art. 27 ust. 9, również właściwego wojewódzkiego inspektora ochrony środowiska. W przypadku niewydania opinii w terminie, o którym mowa w art. 106 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, opinię uznaje się za pozytywną.
+4. Decyzję zatwierdzającą program gospodarowania odpadami wydobywczymi wydaje się po zasięgnięciu opinii właściwego dyrektora okręgowego urzędu górniczego oraz właściwego wójta, burmistrza lub prezydenta miasta, a w przypadku, o którym mowa w art. 27 ust. 9, również właściwego wojewódzkiego inspektora ochrony środowiska. W przypadku niewydania opinii w terminie, o którym mowa w art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, opinię uznaje się za pozytywną.
 
 5. Właściwy organ odmówi wydania decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, jeżeli zamierzony sposób gospodarowania odpadami wydobywczymi:
 
@@ -272,12 +270,12 @@ Art. 48–52. (pominięte)
 
 **Art. 11a.**
 
-- **4)** 1. Podmiot, na który została przeniesiona koncesja, o której mowa w art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, lub który wstąpił w prawa i obowiązki wynikające z tej koncesji, przejmuje prawa i obowiązki wynikające z decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi wydanej dla wykonywania działalności objętej tą koncesją.
+- **4)** 1. Podmiot, na który została przeniesiona koncesja, o której mowa w art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, lub który wstąpił w prawa i obowiązki wynikające z tej koncesji, przejmuje prawa i obowiązki wynikające z decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi wydanej dla wykonywania działalności objętej tą koncesją.
 
 2. Organ właściwy do wydania decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, o której mowa w ust. 1, wydaje na wniosek podmiotu, o którym mowa w ust. 1, zaświadczenie potwierdzające wstąpienie w prawa i obowiązki dotychczasowego przedsiębiorcy wynikające z tej decyzji. Do wniosku dołącza się kopie następujących dokumentów potwierdzających przejęcie praw i obowiązków z koncesji, o której mowa w ust. 1:
 
-- **1)** decyzji o przeniesieniu koncesji wydanej na podstawie art. 36 lub art. 49zd ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze lub
-- **2)** zaświadczenia, o którym mowa w art. 36a ust. 16 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze.
+- **1)** decyzji o przeniesieniu koncesji wydanej na podstawie art. 36 lub art. 49zd ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze lub
+- **2)** zaświadczenia, o którym mowa w art. 36a ust. 16 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 
 **Art. 12.**
 
@@ -331,7 +329,7 @@ Art. 48–52. (pominięte)
 - **3)** dokumenty potwierdzające posiadanie gwarancji finansowej lub jej ekwiwalentu, zgodnie z art. 32;
 - **4)** informację o tytule prawnym do obiektu unieszkodliwiania odpadów wydobywczych;
 - **5)** informację o stosowanych technologiach oraz charakterystykę techniczną źródeł powstawania i miejsc emisji;
-- **6)** informację niezbędną do sporządzenia zewnętrznego planu operacyjno-ratowniczego, o którym mowa w art. 37, zgodnie z art. 260 ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+- **6)** informację niezbędną do sporządzenia zewnętrznego planu operacyjno-ratowniczego, o którym mowa w art. 37, zgodnie z art. 260 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 2. Do wniosku załącza się decyzję zatwierdzającą program gospodarowania odpadami wydobywczymi oraz decyzję o środowiskowych uwarunkowaniach, o której mowa w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, wydaną dla obiektu unieszkodliwiania odpadów wydobywczych, którego dotyczy wniosek, wraz z raportem o oddziaływaniu przedsięwzięcia na środowisko, o ile był wymagany, oraz załącznikiem graficznym określającym przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapą, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
@@ -408,7 +406,7 @@ Art. 48–52. (pominięte)
 - **4)** wyszczególnienie ilości odpadów poszczególnych rodzajów przewidzianych do składowania w obiekcie unieszkodliwiania odpadów wydobywczych w ciągu roku;
 - **5)** wysokość gwarancji finansowej lub jej ekwiwalentu;
 - **6)** czas obowiązywania zezwolenia;
-- **7)** w przypadku obiektu unieszkodliwiania odpadów wydobywczych kategorii A wskazanie terminu sporządzenia polityki zapobiegania poważnym wypadkom, wprowadzającego ją w życie systemu zarządzania bezpieczeństwem oraz wewnętrznego planu operacyjno-ratowniczego.
+- **7)** w przypadku obiektu unieszkodliwiania odpadów wydobywczych kategorii A – wskazanie terminu sporządzenia polityki zapobiegania poważnym wypadkom, wprowadzającego ją w życie systemu zarządzania bezpieczeństwem oraz wewnętrznego planu operacyjno-ratowniczego.
 
 2. Załącznikiem do zezwolenia jest decyzja o środowiskowych uwarunkowaniach wraz z raportem o oddziaływaniu przedsięwzięcia na środowisko oraz decyzja zatwierdzająca program gospodarowania odpadami wydobywczymi.
 
@@ -439,7 +437,7 @@ Art. 48–52. (pominięte)
 - **1)** imienia i nazwiska oraz adresu zamieszkania lub nazwy i adresu siedziby posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych;
 - **2)** lokalizacji obiektu unieszkodliwiania odpadów wydobywczych;
 - **3)** klasyfikacji obiektu unieszkodliwiania odpadów wydobywczych;
-- **4)** informacji niezbędnych do sporządzenia zewnętrznego planu operacyjno-ratowniczego, o którym mowa w art. 37, zgodnie z art. 260 ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+- **4)** informacji niezbędnych do sporządzenia zewnętrznego planu operacyjno-ratowniczego, o którym mowa w art. 37, zgodnie z art. 260 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 19.**
 
@@ -450,6 +448,11 @@ Art. 48–52. (pominięte)
 3. Właściwy organ wydaje zezwolenie na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych lub pozwolenie na wytwarzanie odpadów po sporządzeniu przez właściwego komendanta Państwowej Straży Pożarnej zewnętrznego planu operacyjno-ratowniczego.
 
 **Art. 20.** Właściwy organ odmówi wydania zezwolenia na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych, jeżeli zamierzony sposób prowadzenia obiektu unieszkodliwiania odpadów wydobywczych:
+
+- **1)** jest sprzeczny z wymaganiami przepisów o odpadach;
+- **2)** mógłby powodować zagrożenie dla życia i zdrowia ludzi lub zagrożenie dla środowiska;
+- **3)** jest sprzeczny z programem gospodarowania odpadami wydobywczymi;
+- **4)** jest sprzeczny z planami gospodarki odpadami, o których mowa w ustawie z dnia 27 kwietnia 2001 r. o odpadach .
 
 **Art. 21.**
 
@@ -481,13 +484,19 @@ Art. 48–52. (pominięte)
 
 **Art. 25.** Lokalizacja obiektu unieszkodliwiania odpadów wydobywczych powinna uwzględniać zakazy i ograniczenia wynikające w szczególności z następujących ustaw:
 
+- **1)** ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2021 r. poz. 1326 i 2163);
+- **2)** ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **3)** ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm. );
+- **4)** ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916 i 1726);
+- **5)** ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2021 r. poz. 1301).
+
 **Art. 26.**
 
 1. Posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych jest obowiązany do sprawdzenia zgodności przyjmowanych odpadów wydobywczych z danymi o odpadach zawartymi w karcie przekazania odpadu.
 
 2. Posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych jest obowiązany do odmowy przyjęcia odpadów wydobywczych, których skład nie jest zgodny z danymi zawartymi w karcie przekazania odpadu lub zezwoleniem na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych.
 
-3. Do odpadów wydobywczych obojętnych, innych niż niebezpieczne i obojętne oraz niezanieczyszczonej gleby, składowanych w obiekcie unieszkodliwiania odpadów wydobywczych, nie stosuje się przepisów tytułu V ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, z wyłączeniem przepisów o opłatach podwyższonych oraz o administracyjnych karach pieniężnych.
+3. Do odpadów wydobywczych obojętnych, innych niż niebezpieczne i obojętne oraz niezanieczyszczonej gleby, składowanych w obiekcie unieszkodliwiania odpadów wydobywczych, nie stosuje się przepisów tytułu V ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, z wyłączeniem przepisów o opłatach podwyższonych oraz o administracyjnych karach pieniężnych.
 
 **Art. 27.**
 
@@ -515,7 +524,7 @@ Art. 48–52. (pominięte)
 
 7. Na wniosek posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych, w decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, właściwy organ może odstąpić od obowiązku prowadzenia pomiaru poziomu i składu wód podziemnych, jeżeli z załączonej do wniosku dokumentacji hydrogeologicznej, w szczególności z zawartych w niej zaleceń, wynika brak konieczności monitoringu wód podziemnych.
 
-8. Jeżeli zmieniona dokumentacja hydrogeologiczna, w przypadku, o którym mowa w art. 93 ust. 5 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, wskazuje na konieczność monitoringu wód podziemnych, posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych jest obowiązany niezwłocznie przedłożyć do zatwierdzenia nowy program gospodarowania odpadami wydobywczymi.
+8. Jeżeli zmieniona dokumentacja hydrogeologiczna, w przypadku, o którym mowa w art. 93 ust. 5 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, wskazuje na konieczność monitoringu wód podziemnych, posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych jest obowiązany niezwłocznie przedłożyć do zatwierdzenia nowy program gospodarowania odpadami wydobywczymi.
 
 9. W przypadku zamknięcia obiektu unieszkodliwiania odpadów wydobywczych, właściwy organ, na wniosek posiadacza odpadów prowadzącego obiekt unieszkodliwienia odpadów wydobywczych, w decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, może zmniejszyć częstotliwość badań wód powierzchniowych, odciekowych i podziemnych, zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie ust. 6, kierując się oddziaływaniem obiektu unieszkodliwiania odpadów wydobywczych na środowisko.
 
@@ -587,8 +596,8 @@ Art. 48–52. (pominięte)
 
 1a. Sprawozdanie o wynikach monitoringu, w przypadkach o których mowa w ust. 1, powinno być przedkładane:
 
-- **1)** w przypadku stwierdzenia braku oddziaływania obiektu unieszkodliwiania odpadów wydobywczych na środowisko nie rzadziej niż raz na 2 lata;
-- **2)** w przypadku stwierdzenia zwiększenia oddziaływania obiektu unieszkodliwiania odpadów wydobywczych na środowisko nie częściej niż raz na 6 miesięcy.
+- **1)** w przypadku stwierdzenia braku oddziaływania obiektu unieszkodliwiania odpadów wydobywczych na środowisko – nie rzadziej niż raz na 2 lata;
+- **2)** w przypadku stwierdzenia zwiększenia oddziaływania obiektu unieszkodliwiania odpadów wydobywczych na środowisko – nie częściej niż raz na 6 miesięcy.
 
 2. Posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych jest odpowiedzialny za utrzymanie, monitoring, zgodnie z art. 27 ust. 6, oraz działania po zamknięciu obiektu unieszkodliwiania odpadów wydobywczych lub jego części. Czynności te powinny być wykonywane z uwzględnieniem charakteru i czasu trwania zagrożenia.
 
@@ -651,13 +660,18 @@ Art. 48–52. (pominięte)
 
 **Art. 34.**
 
-1. Przepisy rozdziału mają zastosowanie do obiektów unieszkodliwiania odpadów wydobywczych kategorii A, z wyłączeniem obiektów unieszkodliwiania odpadów wydobywczych, dla których mają zastosowanie przepisy tytułu IV ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+1. Przepisy rozdziału mają zastosowanie do obiektów unieszkodliwiania odpadów wydobywczych kategorii A, z wyłączeniem obiektów unieszkodliwiania odpadów wydobywczych, dla których mają zastosowanie przepisy tytułu IV ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 2. Właściwość miejscową komendanta wojewódzkiego Państwowej Straży Pożarnej ustala się według miejsca prowadzenia działalności przez posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych.
 
-3. W sprawach dotyczących wewnętrznego i zewnętrznego planu operacyjno-ratowniczego w zakresie nieuregulowanym w niniejszej ustawie ma zastosowanie ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+3. W sprawach dotyczących wewnętrznego i zewnętrznego planu operacyjno-ratowniczego w zakresie nieuregulowanym w niniejszej ustawie ma zastosowanie ustawa z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 35.** Wewnętrzny plan operacyjno-ratowniczy, o którym mowa w art. 36 ust. 2, oraz zewnętrzny plan operacyjno-ratowniczy, o którym mowa w art. 37 ust. 1, ma na celu:
+
+- **1)** zapobieganie i kontrolowanie poważnych wypadków i innych niebezpiecznych zdarzeń tak, aby zmniejszyć ich skutki oraz, w szczególności, ograniczyć szkody dla zdrowia i życia ludzi oraz dla środowiska;
+- **2)** wprowadzenie środków niezbędnych do ochrony zdrowia i życia ludzi oraz środowiska przed skutkami poważnych wypadków i innych niebezpiecznych zdarzeń;
+- **3)** przekazanie niezbędnych informacji społeczeństwu oraz właściwym służbom i organom;
+- **4)** podjęcie działań i czynności zmierzających do ograniczenia oddziaływania na środowisko lub przywrócenia środowiska do właściwego stanu.
 
 **Art. 36.**
 
@@ -667,9 +681,9 @@ Art. 48–52. (pominięte)
 
 3. System zarządzania bezpieczeństwem, o którym mowa w ust. 2, jest określony w załączniku nr 1 do ustawy.
 
-4. Wewnętrzny plan operacyjno-ratowniczy powinien zawierać w szczególności dane, o których mowa w art. 260 ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+4. Wewnętrzny plan operacyjno-ratowniczy powinien zawierać w szczególności dane, o których mowa w art. 260 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
-5. Do posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych kategorii A w razie wystąpienia poważnego wypadku ma zastosowanie przepis art. 264 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+5. Do posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych kategorii A w razie wystąpienia poważnego wypadku ma zastosowanie przepis art. 264 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 6. Posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych kategorii A zatrudnia kierownika do spraw bezpieczeństwa, który jest odpowiedzialny za wdrażanie polityki zapobiegania poważnym wypadkom i wewnętrznego planu operacyjno-ratowniczego oraz za realizację zadań i obowiązków z nich wynikających.
 
@@ -703,13 +717,13 @@ Art. 48–52. (pominięte)
 - **2)** zapobiegania zanieczyszczeniu gleby, wód powierzchniowych i podziemnych;
 - **3)** zapewnienia monitoringu wyrobisk górniczych wypełnianych odpadami wydobywczymi.
 
-2. Do wypełniania wyrobisk górniczych odpadami wydobywczymi pochodzącymi z własnego zakładu górniczego stosuje się przepisy ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze.
+2. Do wypełniania wyrobisk górniczych odpadami wydobywczymi pochodzącymi z własnego zakładu górniczego stosuje się przepisy ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 
-3. Do wypełniania wyrobisk górniczych odpadami wydobywczymi innymi niż z własnego zakładu górniczego stosuje się przepisy ustawy z dnia 27 kwietnia 2001 r. o odpadach ; jeżeli wypełnianie wyrobisk górniczych odpadami wydobywczymi innymi niż z własnego zakładu górniczego jest prowadzone w ruchu zakładu górniczego, to zastosowanie mają również przepisy ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze.
+3. Do wypełniania wyrobisk górniczych odpadami wydobywczymi innymi niż z własnego zakładu górniczego stosuje się przepisy ustawy z dnia 27 kwietnia 2001 r. o odpadach ; jeżeli wypełnianie wyrobisk górniczych odpadami wydobywczymi innymi niż z własnego zakładu górniczego jest prowadzone w ruchu zakładu górniczego, to zastosowanie mają również przepisy ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 
-4. Szczegółowe warunki, o których mowa w ust. 1, dotyczące wypełniania wyrobisk górniczych w ruchu zakładu górniczego odpadami wydobywczymi określają przepisy wydane na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze.
+4. Szczegółowe warunki, o których mowa w ust. 1, dotyczące wypełniania wyrobisk górniczych w ruchu zakładu górniczego odpadami wydobywczymi określają przepisy wydane na podstawie art. 120 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 
-5. Sposób realizacji warunków, o których mowa w ust. 1, dotyczących wypełniania wyrobisk górniczych odpadami wydobywczymi określa się w planie ruchu zakładu górniczego, o którym mowa w art. 110 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze.
+5. Sposób realizacji warunków, o których mowa w ust. 1, dotyczących wypełniania wyrobisk górniczych odpadami wydobywczymi określa się w planie ruchu zakładu górniczego, o którym mowa w art. 110 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
 
 #### Rozdział 8 Obowiązki administracji publicznej
 
@@ -717,13 +731,13 @@ Art. 48–52. (pominięte)
 
 1. Organem właściwym w sprawach odpadów wydobywczych jest:
 
-- **1)** regionalny dyrektor ochrony środowiska dla przedsięwzięć i zdarzeń na terenach zamkniętych;
-- **2)** marszałek województwa dla:
+- **1)** regionalny dyrektor ochrony środowiska – dla przedsięwzięć i zdarzeń na terenach zamkniętych;
+- **2)** marszałek województwa – dla:
     - **a)** przedsięwzięć, dla których koncesji na poszukiwanie, rozpoznawanie, wydobywanie kopalin ze złóż udziela minister właściwy do spraw środowiska lub marszałek województwa, aa) przedsięwzięć mogących zawsze znacząco oddziaływać na środowisko w rozumieniu ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;
     - **b)** (uchylona)
     - **c)** (uchylona)
 
-- **3)** starosta w pozostałych przypadkach.
+- **3)** starosta – w pozostałych przypadkach.
 
 2. W przypadku prowadzenia w tym samym miejscu przedsięwzięć, o których mowa w ust. 1 pkt 2 i 3, organem właściwym jest marszałek województwa.
 
@@ -820,6 +834,10 @@ Art. 48–52. (pominięte)
 
 **Art. 55.** Posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych, który prowadził działalność w dniu poprzedzającym dzień wejścia w życie ustawy jest obowiązany wykazać w ocenie ryzyka obiektu unieszkodliwiania odpadów wydobywczych, że stężenie cyjanku dysocjującego w słabym kwasie w miejscu zrzutu odpadów przeróbczych do stawu osadowego nie przekracza:
 
+- **1)** 50 ppm – od dnia wejścia w życie ustawy;
+- **2)** 25 ppm – od dnia 1 maja 2013 r.;
+- **3)** 10 ppm – od dnia 1 maja 2018 r.
+
 **Art. 56.**
 
 1. Do składowisk odpadów, które przyjmowały do składowania odpady wydobywcze, zamkniętych na podstawie przepisu art. 54 ustawy z dnia 27 kwietnia 2001 r. o odpadach przed dniem wejścia w życie ustawy, nie stosuje się przepisów art. 53 i art. 55.
@@ -840,7 +858,7 @@ Art. 48–52. (pominięte)
 
 3. Z dniem 1 maja 2012 r. wygasają koncesje na wydobycie kopalin ze złóż oraz plany zagospodarowania przestrzennego dla terenu górniczego, w części określającej warunki oraz sposób zagospodarowania mas ziemnych lub skalnych usuwanych w związku z wydobywaniem kopalin ze złóż wraz z ich przerabianiem.
 
-4. Do dnia 1 maja 2012 r. do odpadów wydobywczych obojętnych, odpadów innych niż niebezpieczne i obojętne oraz niezanieczyszczonej gleby nie stosuje się przepisów Tytułu V ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+4. Do dnia 1 maja 2012 r. do odpadów wydobywczych obojętnych, odpadów innych niż niebezpieczne i obojętne oraz niezanieczyszczonej gleby nie stosuje się przepisów Tytułu V ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 59.**
 
@@ -848,9 +866,9 @@ Art. 48–52. (pominięte)
 
 - **1)** zaprzestał przyjmowania odpadów wydobywczych przed dniem 1 maja 2006 r.,
 - **2)** wystąpił z wnioskiem o zgodę na zamknięcie składowiska odpadów na podstawie przepisu art. 54 ustawy z dnia 27 kwietnia 2001 r. o odpadach przed dniem wejścia w życie ustawy,
-- **3)** nie dostosuje do dnia 31 grudnia 2009 r. funkcjonowania składowiska odpadów do wymagań określonych w pozwoleniu na budowę lub jego zmianie, o którym mowa w art. 33 ust. 4 ustawy z dnia 27 lipca 2001 r. o wprowadzeniu ustawy Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw (Dz. U. poz. 1085, z późn. zm. ),
+- **3)** nie dostosuje do dnia 31 grudnia 2009 r. funkcjonowania składowiska odpadów do wymagań określonych w pozwoleniu na budowę lub jego zmianie, o którym mowa w art. 33 ust. 4 ustawy z dnia 27 lipca 2001 r. o wprowadzeniu ustawy – Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw (Dz. U. poz. 1085, z późn. zm. ),
 - **4)** ma wyznaczony termin zamknięcia składowiska odpadów do dnia 31 grudnia 2010 r.,
-- **5)** został uwzględniony w harmonogramie zamykania składowisk odpadów zgodnie z rządowymi programami restrukturyzacji przemysłu wydobywczego nie stosuje przepisów art. 8–11, art. 13–20, art. 27 ust. 2, art. 30, art. 31 ust. 1–3 i 7, art. 32, art. 35, art. 36 ust. 2–6 i art. 37.
+- **5)** został uwzględniony w harmonogramie zamykania składowisk odpadów zgodnie z rządowymi programami restrukturyzacji przemysłu wydobywczego – nie stosuje przepisów art. 8–11, art. 13–20, art. 27 ust. 2, art. 30, art. 31 ust. 1–3 i 7, art. 32, art. 35, art. 36 ust. 2–6 i art. 37.
 
 2. Zarządzający składowiskiem odpadów przyjmującym do składowania odpady wydobywcze, o którym mowa w ust. 1, przedłoży marszałkowi województwa pisemne oświadczenie o stanie faktycznym składowiska odpadów którym zarządza, z podaniem przesłanek, o których mowa w ust. 1, w terminie 14 dni od dnia wejścia w życie ustawy.
 
@@ -863,4 +881,28 @@ Art. 48–52. (pominięte)
 2. Spis, o którym mowa w art. 44 ust. 3, publikuje się po raz pierwszy w Biuletynie Informacji Publicznej, na stronie podmiotowej organu, do dnia 1 maja 2012 r.
 
 **Art. 61.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem art. 2 ust. 1 pkt 4, art. 26 ust. 3 oraz art. 51, które wchodzą w życie z dniem 1 maja 2012 r. SYSTEM ZARZĄDZANIA BEZPIECZEŃSTWEM W celu wprowadzenia systemu zarządzania bezpieczeństwem wdrażającego politykę zapobiegania poważnym wypadkom należy wziąć pod uwagę następujące elementy:
+
+- **1)** politykę zapobiegania poważnym wypadkom, która powinna obejmować ogólne cele oraz zasady działania posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych kategorii A w odniesieniu do kontroli ryzyka wystąpienia poważnych wypadków;
+- **2)** system zarządzania bezpieczeństwem, który powinien obejmować część ogólnego systemu zarządzania, zawierającego strukturę organizacyjną, zakres odpowiedzialności, praktyki, procedury, procesy i zasoby konieczne do określenia i wprowadzenia w życie polityki zapobiegania poważnym wypadkom;
+- **3)** system zarządzania bezpieczeństwem uwzględniający następujące zagadnienia: INFORMACJA PRZEKAZYWANA ZAINTERESOWANEJ SPOŁECZNOŚCI Informacje opracowywane przez właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej, które mają być przekazane zainteresowanej społeczności, obejmują:
+    - **a)** rola i obowiązki personelu zarządzającego poważnym ryzykiem na wszystkich poziomach organizacji; określenie potrzeb szkoleniowych takiego personelu oraz zapewnienie takich szkoleń, oraz zaangażowanie pracowników, a w szczególnych przypadkach podwykonawców,
+    - **b)** przyjęcie i wprowadzenie w życie procedur systematycznego określenia poważnego ryzyka wynikającego z prawidłowego i nieprawidłowego działania oraz ocena prawdopodobieństwa ich wystąpienia i dotkliwości,
+    - **c)** przyjęcie i wprowadzenie w życie procedur i instrukcji bezpiecznego funkcjonowania, z uwzględnieniem utrzymania zakładu, procesów w nim zachodzących, sprzętu oraz tymczasowych przerw w jego funkcjonowaniu,
+    - **d)** przyjęcie i wprowadzanie w życie procedur dotyczących planowanych zmian lub tworzenia nowych obiektów unieszkodliwiania odpadów wydobywczych,
+    - **e)** przyjęcie i wprowadzenie w życie procedur dotyczących identyfikacji przewidywalnych sytuacji awaryjnych w drodze systematycznej analizy oraz przygotowanie, testowanie i przegląd planów awaryjnych mających na celu szybką reakcję na takie sytuacje,
+    - **f)** przyjęcie i wprowadzenie w życie procedur w celu zapewnienia stałej oceny zgodności systemu zarządzania bezpieczeństwem z polityką zapobiegania poważnym wypadkom opracowaną przez posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych kategorii A, oraz procedur badania i podejmowania odpowiednich działań w przypadku braku takiej zgodności; procedury te powinny obejmować przyjęty przez posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych kategorii A system zgłaszania poważnych wypadków lub sytuacji niebezpiecznych, szczególnie tych związanych z przypadkami braku działania środków ochronnych oraz ich badaniem i środkami podjętymi w oparciu o wcześniej wyciągnięte wnioski,
+    - **g)** przyjęcie i wprowadzenie w życie procedur systematycznej, okresowej oceny polityki zapobiegania poważnym wypadkom oraz przydatności do określonego celu systemu zarządzania bezpieczeństwem; przegląd dokumentów dotyczących działania wspomnianej polityki i systemu zarządzania bezpieczeństwem oraz ich uaktualnianie przez kierownictwo wyższego szczebla.
+
+- **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych oraz adres obiektu unieszkodliwiania odpadów wydobywczych;
+- **2)** oznaczenie osoby dostarczającej informacje, według zajmowanego stanowiska;
+- **3)** znak i datę wydania pozwolenia na wytwarzanie odpadów, pozwolenia zintegrowanego lub zezwolenia na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych;
+- **4)** proste i jasne objaśnienie działań podejmowanych w miejscu prowadzenia działalności;
+- **5)** przedstawioną językiem niespecjalistycznym ogólną klasyfikację niebezpieczeństwa substancji i preparatów występujących w obiekcie unieszkodliwiania odpadów wydobywczych, jak również odpadów wydobywczych, które mogłyby spowodować poważny wypadek, ze wskazaniem ich głównych niebezpiecznych właściwości;
+- **6)** ogólne informacje dotyczące charakteru ryzyka wystąpienia poważnych wypadków, z uwzględnieniem ich potencjalnych skutków dla zainteresowanej społeczności i środowiska;
+- **7)** informacje dotyczące ostrzegania zainteresowanej społeczności oraz informowania jej w razie poważnego wypadku;
+- **8)** informacje dotyczące działań, które zainteresowana społeczność powinna podjąć, oraz sposobu, w jaki należy się zachować w razie poważnego wypadku;
+- **9)** potwierdzenie konieczności dokonania odpowiednich ustaleń przez posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych w miejscu prowadzenia działalności, a szczególnie współpracy ze służbami ratowniczymi w celu reagowania na poważne wypadki oraz zmniejszenia ich skutków;
+- **10)** odniesienia do zewnętrznych planów operacyjno-ratowniczych, sporządzonych w celu reagowania na wszelkie skutki poważnego wypadku poza miejscem prowadzenia działalności; odniesienia te powinny zawierać wskazanie, by stosować się do wszelkich instrukcji lub wymagań służb ratowniczych podczas wypadku;
+- **11)** szczegóły dotyczące tego, gdzie można uzyskać dodatkowe informacje, z zastrzeżeniem wymogów dotyczących zachowania poufności informacji ustanowionych w przepisach odrębnych.
+
 

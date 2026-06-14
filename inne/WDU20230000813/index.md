@@ -8,10 +8,10 @@ pos: 813
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 813 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 27 kwietnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000813) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/813/text.pdf) |
 
-Poz. 813 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 27 kwietnia 2023 r.
 w sprawie wynagrodzeń i nagród dla Przewodniczącego Komisji Nadzoru Finansowego i jego Zastępców oraz wynagrodzeń dla członków tej Komisji Na podstawie art. 20 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2023 r.
-poz. 753) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 753) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób ustalania wysokości środków przeznaczonych na wynagrodzenia i nagrody dla Przewodniczącego Komisji Nadzoru Finansowego, zwanego dalej „Przewodniczącym Komisji”, i jego Zastępców;
 2) sposób ustalania wysokości wynagrodzeń i nagród, o których mowa w pkt 1;
 3) sposób ustalania wysokości środków przeznaczonych na wynagrodzenia dla członków Komisji Nadzoru Finansowego, o których mowa w art. 5 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, zwanych dalej „członkami Komisji”;
@@ -39,7 +39,7 @@ poz. 753) zarządza się, co następuje: § 1. Rozporządzenie określa:
 § 5. 1. Wysokość nagrody Przewodniczącego Komisji i jego Zastępców ustala się rocznie w grudniu roku kalendarzowego, za który przysługuje.
 2. Nagroda Przewodniczącego Komisji i jego Zastępców stanowi 120% przysługującego im wynagrodzenia miesięcznego.
 § 6. Kwoty wynagrodzenia miesięcznego oraz nagród dla Przewodniczącego Komisji i jego Zastępców zaokrągla się do 10 groszy w górę.
-Dziennik Ustaw – 2 – Poz. 813 § 7. Wysokość środków przeznaczonych na dany rok budżetowy na wynagrodzenia dla członków Komisji ustala się jako sumę rocznego wynagrodzenia każdego członka Komisji na dany rok budżetowy.
+§ 7. Wysokość środków przeznaczonych na dany rok budżetowy na wynagrodzenia dla członków Komisji ustala się jako sumę rocznego wynagrodzenia każdego członka Komisji na dany rok budżetowy.
 § 8. Wysokość miesięcznego wynagrodzenia członka Komisji ustala się według wzoru: ( ) gdzie poszczególne symbole oznaczają: W – wysokość miesięcznego wynagrodzenia członka Komisji w danym miesiącu, O – liczbę posiedzeń Komisji Nadzoru Finansowego w danym miesiącu, w których uczestniczył członek Komisji, P – liczbę posiedzeń Komisji Nadzoru Finansowego w danym miesiącu, WGN – przeciętne wynagrodzenie.
 § 9. 1. Do czasu ogłoszenia przeciętnego wynagrodzenia, do ustalenia wysokości miesięcznego wynagrodzenia członka Komisji w miesiącu styczniu danego roku stosuje się przeciętne wynagrodzenie ogłoszone w roku poprzednim.
 2. W przypadku gdy wynagrodzenie członka Komisji za miesiąc styczeń obliczone z zastosowaniem przeciętnego wynagrodzenia, o którym mowa w ust. 1, jest niższe albo wyższe niż miesięczne wynagrodzenie tego członka obliczone z zastosowaniem przeciętnego wynagrodzenia, o którym mowa w § 8, wynagrodzenie członka Komisji za miesiąc luty oblicza się z uwzględnieniem różnicy kwot tych wynagrodzeń.

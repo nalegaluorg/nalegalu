@@ -8,10 +8,12 @@ pos: 1512
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# dnia 7 lipca 2022 zmianie ustawy Porozumienia niektórych innych ustaw
+# o zmianie ustawy o Centrum Polsko-Rosyjskiego Dialogu i Porozumienia oraz niektórych innych ustaw
+
+*USTAWA z dnia 7 lipca 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,45 +27,115 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001512) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1512/text.pdf) |
 
-**Art. 1.** W ustawie dnia 25 marca 2011 Porozumienia (Dz. 2019 poz. 640) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 25 marca 2011 r. o Centrum Polsko-Rosyjskiego Dialogu i Porozumienia (Dz. U. z 2019 r. poz. 640) wprowadza się następujące zmiany:
 
-**Art. 23b.** Pracownik naukowy jest obowiązany do prowadzenia badań naukowych uczestniczenia pracach organizacyjnych związanych prowadzonymi badaniami naukowymi, a także stałego podnoszenia swoich kompetencji zawodowych.
+- **1)** w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „o Centrum Dialogu im. Juliusza Mieroszewskiego”;
+- **2)** w art. 1 wyrazy „Centrum Polsko-Rosyjskiego Dialogu i Porozumienia” zastępuje się wyrazami „Centrum Dialogu im. Juliusza Mieroszewskiego”;
+- **3)** w art. 2:
+    - **a)** w ust. 1 wyrazy „Centrum Polsko-Rosyjskiego Dialogu i Porozumienia” zastępuje się wyrazami „Centrum Dialogu im. Juliusza Mieroszewskiego”,
+    - **b)** w ust. 4 po wyrazach „w kraju” dodaje się wyrazy „i za granicą”;
+
+- **4)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Celem działalności Centrum jest inicjowanie, wspieranie i podejmowanie działań na rzecz dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami.
+
+2. Do zadań Centrum należy:
+
+- **1)** prowadzenie badań naukowych;
+- **2)** prowadzenie działalności wydawniczej;
+- **3)** upowszechnianie w Polsce i poza jej granicami wiedzy o sytuacji politycznej, historii, kulturze i dziedzictwie narodów Europy Środkowej i Wschodniej;
+- **4)** prowadzenie i wspieranie działalności edukacyjnej;
+- **5)** zwalczanie stereotypów;
+- **6)** przeciwdziałanie dezinformacji;
+- **7)** organizowanie konferencji, seminariów, wykładów oraz debat publicznych;
+- **8)** dofinansowywanie przedsięwzięć podejmowanych na rzecz dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami;
+- **9)** prowadzenie programów stypendialnych;
+- **10)** utrzymywanie kontaktów z ośrodkami akademickimi, eksperckimi, naukowymi, kulturalnymi i politycznymi.”;
+- **5)** w art. 6 uchyla się pkt 2;
+- **6)** w art. 8 w ust. 2 w pkt 4 wyrazy „języka rosyjskiego” zastępuje się wyrazami „języka angielskiego oraz ukraińskiego lub rosyjskiego”;
+- **7)** uchyla się art. 12–14;
+- **8)** w art. 19 ust. 6 otrzymuje brzmienie: „6. W posiedzeniach Rady Centrum mogą uczestniczyć, bez prawa głosu, Dyrektor Centrum, zastępcy Dyrektora Centrum oraz osoby zaproszone przez przewodniczącego Rady Centrum.”;
+- **9)** w art. 20 w ust. 4 wyrazy „zadań, o których mowa” zastępuje się wyrazami „zadania, o którym mowa”;
+- **10)** w art. 22 w ust. 6 wyrazy „nie wyższej niż 3%” zastępuje się wyrazami „nie wyższej niż 15%”;
+- **11)** po art. 23 dodaje się art. 23a–23e w brzmieniu: „Art. 23a. Pracownikami Centrum są pracownicy naukowi posiadający co najmniej stopień naukowy doktora lub uznany dorobek naukowy w dziedzinie związanej z zakresem działalności Centrum oraz pracownicy niebędący pracownikami naukowymi.
+
+**Art. 23b.** Pracownik naukowy jest obowiązany do prowadzenia badań naukowych oraz uczestniczenia w pracach organizacyjnych związanych z prowadzonymi badaniami naukowymi, a także stałego podnoszenia swoich kompetencji zawodowych.
 
 **Art. 23c.** Wykonywanie obowiązków pracownika naukowego stanowi:
 
-**Art. 23d.** Pracownikom naukowym przysługuje urlop wypoczynkowy wymiarze 36 dni danym roku kalendarzowym.
+- **1)** działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2021 r. poz. 1062 oraz z 2022 r. poz. 655);
+- **2)** działalność, o której mowa w art. 22 ust. 9b pkt 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm. ).
 
-**Art. 23e.** W sprawach dotyczących stosunku pracy pracowników Centrum, nieuregulowanych ustawie, stosuje się przepisy ustawy dnia 26 czerwca 1974 – Kodeks pracy.”;
+**Art. 23d.** Pracownikom naukowym Centrum przysługuje urlop wypoczynkowy w wymiarze 36 dni w danym roku kalendarzowym.
 
-**Art. 3.** W ustawie dnia 26 lipca 1991 dochodowym od osób fizycznych (Dz. 2021 poz. 1128, późn. zm. ) 21 ust. po pkt 39e dodaje się pkt 39ea brzmieniu: „39ea) stypendia otrzymywane ramach programów stypendialnych Mieroszewskiego;”.
+**Art. 23e.** W sprawach dotyczących stosunku pracy pracowników Centrum, nieuregulowanych w ustawie, stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.”;
 
-**Art. 4.** W ustawie dnia 18 października 2006 ujawnianiu informacji dokumentach organów bezpieczeństwa państwa lat 1944–1990 treści tych dokumentów (Dz. 2021 poz. 1633 2022 poz. 1459) 4 pkt 57 wyrazy „dyrektor Porozumienia” zastępuje się wyrazami „dyrektor Mieroszewskiego”.
+- **12)** uchyla się art. 24;
+- **13)** po art. 24 dodaje się art. 24a w brzmieniu: „Art. 24a. 1. Dyrektor Centrum ustanawia programy stypendialne Centrum w zakresie zadań, o których mowa w art. 3 ust. 2.
 
-**Art. 5.** W ustawie dnia 16 grudnia 2016 zasadach zarządzania mieniem państwowym (Dz. 2021 poz. 1933 2022 poz. 807, 872 1459) 3 ust. pkt 28 wyrazy „Centrum Porozumienia” zastępuje się wyrazami „Centrum Mieroszewskiego”.
+2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania stypendiów, w ramach programów stypendialnych Centrum, o których mowa w ust. 1, w szczególności:
 
-**Art. 6.** Zadania Porozumienia, których mowa 3 ust. 2 ustawy zmienianej 1, brzmieniu dotychczasowym, niebędące zadaniami Mieroszewskiego, których mowa 3 ust. 2 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, podjęte niezakończone do dnia wejścia życie niniejszej ustawy, mogą być realizowane przez Mieroszewskiego nie dłużej niż 2 lata od dnia wejścia życie niniejszej ustawy.
+- **1)** rodzaje stypendiów,
+- **2)** osoby uprawnione do ubiegania się o przyznanie stypendium,
+- **3)** maksymalną wysokość stypendium, o którą można się ubiegać,
+- **4)** tryb przeprowadzania naboru wniosków o przyznanie stypendium,
+- **5)** kryteria oceny wniosków o przyznanie stypendium – uwzględniając znaczenie osiągnięć i inicjatyw dla dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami, a także z innymi narodami Federacji Rosyjskiej.
+
+3. Wysokość stypendium nie może być niższa niż jednokrotność i wyższa niż dwunastokrotność przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych.
+
+4. Miesięczna wysokość stypendium wypłacanego w formie świadczenia okresowego nie może być wyższa niż trzykrotność wynagrodzenia, o którym mowa w ust. 3.
+
+5. Do przyznawania stypendiów przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301) nie stosuje się.
+
+6. Centrum finansuje stypendia ze środków z funduszu stypendialnego, o którym mowa w art. 22 ust. 1 pkt 3.
+
+7. Centrum przekazuje środki finansowe w ramach programów stypendialnych na podstawie zawartej ze stypendystą umowy o przyznanie stypendium.
+
+8. Dyrektor Centrum ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Centrum regulamin programu stypendialnego Centrum.”;
+
+- **14)** w art. 25 ust. 1 otrzymuje brzmienie: „1. Z wnioskiem o dofinansowanie przedsięwzięcia na rzecz dialogu i porozumienia Polaków z narodami Europy Wschodniej, zwanego dalej „dofinansowaniem przedsięwzięcia”, może wystąpić każdy podmiot w sprawach objętych zakresem działania Centrum prowadzący niezarobkową działalność na terytorium Rzeczypospolitej Polskiej, państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub państwa, które jest stroną układów o stowarzyszeniu z Unią Europejską i umów z Unią Europejską o pogłębionej i kompleksowej strefie wolnego handlu.”.
+
+**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2022 r. poz. 1452) w art. 7 w ust. 2 w pkt 5b kropkę zastępuje się średnikiem i dodaje się pkt 5c w brzmieniu: „5c) Centrum Dialogu im. Juliusza Mieroszewskiego, z wyjątkiem przedmiotów opodatkowania zajętych na działalność gospodarczą.”.
+
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm. ) w art. 21 w ust. 1 po pkt 39e dodaje się pkt 39ea w brzmieniu: „39ea) stypendia otrzymywane w ramach programów stypendialnych Centrum Dialogu im. Juliusza Mieroszewskiego;”.
+
+**Art. 4.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2021 r. poz. 1633 oraz z 2022 r. poz. 1459) w art. 4 w pkt 57 wyrazy „dyrektor Centrum Polsko-Rosyjskiego Dialogu i Porozumienia” zastępuje się wyrazami „dyrektor Centrum Dialogu im. Juliusza Mieroszewskiego”.
+
+**Art. 5.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2021 r. poz. 1933 oraz z 2022 r. poz. 807, 872 i 1459) w art. 3 w ust. 1 w pkt 28 wyrazy „Centrum Polsko-Rosyjskiego Dialogu i Porozumienia” zastępuje się wyrazami „Centrum Dialogu im. Juliusza Mieroszewskiego”.
+
+**Art. 6.** Zadania Centrum Polsko-Rosyjskiego Dialogu i Porozumienia, o których mowa w art. 3 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, niebędące zadaniami Centrum Dialogu im. Juliusza Mieroszewskiego, o których mowa w art. 3 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, podjęte i niezakończone do dnia wejścia w życie niniejszej ustawy, mogą być realizowane przez Centrum Dialogu im. Juliusza Mieroszewskiego nie dłużej niż 2 lata od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 7.**
 
-1. Postępowania sprawie przyznania stypendiów, których mowa 24 ust. ustawy zmienianej 1, brzmieniu dotychczasowym, wszczęte niezakończone zawarciem umowy przyznanie tego stypendium przed dniem wejścia życie niniejszej ustawy, ulegają zakończeniu tym dniem. Do umów przyznanie stypendium, których mowa 24 ust. ustawy zmienianej 1, brzmieniu dotychczasowym, zawartych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+1. Postępowania w sprawie przyznania stypendiów, o których mowa w art. 24 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wszczęte i niezakończone zawarciem umowy o przyznanie tego stypendium przed dniem wejścia w życie niniejszej ustawy, ulegają zakończeniu z tym dniem.
 
-3. Wypłaty stypendiów, których mowa 24 ust. ustawy zmienianej 1, brzmieniu dotychczasowym, przyznanych na podstawie umów, których mowa ust. 2, dokonuje się ze środków Mieroszewskiego.
+2. Do umów o przyznanie stypendium, o których mowa w art. 24 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zawartych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+3. Wypłaty stypendiów, o których mowa w art. 24 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, przyznanych na podstawie umów, o których mowa w ust. 2, dokonuje się ze środków Centrum Dialogu im. Juliusza Mieroszewskiego.
 
 **Art. 8.**
 
-1. Postępowania sprawie udzielenia dofinansowania przedsięwzięcia na rzecz dialogu porozumienia stosunkach polsko-rosyjskich, których mowa 25 ust. ustawy zmienianej 1, brzmieniu dotychczasowym, wszczęte niezakończone zawarciem umowy dofinansowanie tego przedsięwzięcia przed dniem wejścia życie niniejszej ustawy, ulegają zakończeniu tym dniem. Do umów dofinansowanie przedsięwzięcia na rzecz dialogu porozumienia stosunkach polsko-rosyjskich, których mowa 25 ust. ustawy zmienianej 1, brzmieniu dotychczasowym, zawartych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe. innymi podmiotami przed dniem wejścia życie niniejszej ustawy, na Mieroszewskiego przechodzą prawa obowiązki wynikające decyzji, postanowień innych aktów administracyjnych dotyczących Porozumienia.
+1. Postępowania w sprawie udzielenia dofinansowania przedsięwzięcia na rzecz dialogu i porozumienia w stosunkach polsko-rosyjskich, o których mowa w art. 25 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wszczęte i niezakończone zawarciem umowy o dofinansowanie tego przedsięwzięcia przed dniem wejścia w życie niniejszej ustawy, ulegają zakończeniu z tym dniem.
 
-- **b)** postępowań administracyjnych, postępowań sądowych postępowań egzekucyjnych, których stroną było Porozumienia;
+2. Do umów o dofinansowanie przedsięwzięcia na rzecz dialogu i porozumienia w stosunkach polsko-rosyjskich, o których mowa w art. 25 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zawartych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 10.** Pracownicy zatrudnieni Porozumienia przed dniem wejścia życie niniejszej ustawy stają się pracownikami Mieroszewskiego.
+3. Wypłaty dofinansowania przedsięwzięcia na rzecz dialogu i porozumienia w stosunkach polsko-rosyjskich, o których mowa w art. 25 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, na podstawie umów, o których mowa w ust. 2, dokonuje ze środków Centrum Dialogu im. Juliusza Mieroszewskiego.
 
-**Art. 11.** Osoba powołana na stanowisko Dyrektora Porozumienia, którym mowa 8 ust. ustawy zmienianej 1, przed dniem wejścia życie niniejszej ustawy, zajmuje stanowisko Dyrektora Mieroszewskiego do końca okresu, na który została powołana.
+**Art. 9.** Z dniem wejścia w życie niniejszej ustawy:
 
-**Art. 12.** Osoby zatrudnione na stanowisku zastępcy Dyrektora Porozumienia, których mowa 9 ust. 2 ustawy zmienianej 1, przed dniem wejścia życie niniejszej ustawy, zajmują stanowisko zastępcy Dyrektora Mieroszewskiego na okres, na który zostały zatrudnione.
+- **1)** Centrum Dialogu im. Juliusza Mieroszewskiego wstępuje w prawa i obowiązki Centrum Polsko-Rosyjskiego Dialogu i Porozumienia oraz staje się odpowiednio stroną lub uczestnikiem:
+    - **a)** umów i porozumień zawartych przez Centrum Polsko-Rosyjskiego Dialogu i Porozumienia z przedsiębiorcami oraz innymi podmiotami przed dniem wejścia w życie niniejszej ustawy,
+    - **b)** postępowań administracyjnych, postępowań sądowych oraz postępowań egzekucyjnych, których stroną było Centrum Polsko-Rosyjskiego Dialogu i Porozumienia;
 
-**Art. 13.** Rada Porozumienia, której mowa 6 pkt 3 ustawy zmienianej 1, staje się Radą Mieroszewskiego działa, dotychczasowym składzie, do końca kadencji rozpoczętej przed dniem wejścia życie niniejszej ustawy.
+- **2)** na Centrum Dialogu im. Juliusza Mieroszewskiego przechodzą prawa i obowiązki wynikające z decyzji, postanowień i innych aktów administracyjnych dotyczących Centrum Polsko-Rosyjskiego Dialogu i Porozumienia.
 
-**Art. 14.** Znosi się Międzynarodową Radę Porozumienia.
+**Art. 10.** Pracownicy zatrudnieni w Centrum Polsko-Rosyjskiego Dialogu i Porozumienia przed dniem wejścia w życie niniejszej ustawy stają się pracownikami Centrum Dialogu im. Juliusza Mieroszewskiego.
 
-**Art. 15.** Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia.
+**Art. 11.** Osoba powołana na stanowisko Dyrektora Centrum Polsko-Rosyjskiego Dialogu i Porozumienia, o którym mowa w art. 8 ust. 1 ustawy zmienianej w art. 1, przed dniem wejścia w życie niniejszej ustawy, zajmuje stanowisko Dyrektora Centrum Dialogu im. Juliusza Mieroszewskiego do końca okresu, na który została powołana.
+
+**Art. 12.** Osoby zatrudnione na stanowisku zastępcy Dyrektora Centrum Polsko-Rosyjskiego Dialogu i Porozumienia, o których mowa w art. 9 ust. 2 ustawy zmienianej w art. 1, przed dniem wejścia w życie niniejszej ustawy, zajmują stanowisko zastępcy Dyrektora Centrum Dialogu im. Juliusza Mieroszewskiego na okres, na który zostały zatrudnione.
+
+**Art. 13.** Rada Centrum Polsko-Rosyjskiego Dialogu i Porozumienia, o której mowa w art. 6 pkt 3 ustawy zmienianej w art. 1, staje się Radą Centrum Dialogu im. Juliusza Mieroszewskiego i działa, w dotychczasowym składzie, do końca kadencji rozpoczętej przed dniem wejścia w życie niniejszej ustawy.
+
+**Art. 14.** Znosi się Międzynarodową Radę Centrum Polsko-Rosyjskiego Dialogu i Porozumienia.
+
+**Art. 15.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 

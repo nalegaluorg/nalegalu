@@ -8,7 +8,7 @@ pos: 930
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
@@ -30,6 +30,11 @@ source: "isap-pdf"
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje opodatkowanie zryczałtowanym podatkiem dochodowym niektórych przychodów (dochodów) osiąganych przez osoby fizyczne:
+
+- **1)** prowadzące pozarolniczą działalność gospodarczą;
+- **2)** osiągające przychody, o których mowa w art. 10 ust. 1 pkt 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340, 368, 620 i 680), zwanej dalej „ustawą o podatku dochodowym”;
+- **3)** będące osobami duchownymi;
+- **4)** osiągające przychody ze sprzedaży, o której mowa w art. 20 ust. 1c ustawy o podatku dochodowym.
 
 **Art. 1a.**
 
@@ -499,6 +504,10 @@ source: "isap-pdf"
 - **2)** grupy podmiotów zwolnionych z obowiązku prowadzenia ewidencji i wykazu środków trwałych oraz wartości niematerialnych i prawnych przy użyciu programów komputerowych lub przesyłania ewidencji lub tego wykazu na podstawie ust. 12 – uwzględniając konieczność zapewnienia prawidłowości rozliczeń podatników oraz kontroli obowiązków podatników przez organ podatkowy, identyfikowania obszarów, w których występują nadużycia w podatku lub narażonych na te nadużycia, oraz możliwości techniczno-organizacyjne prowadzenia przez podatników ewidencji i wykazu środków trwałych oraz wartości niematerialnych i prawnych.>
 
 **Art. 16.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** sposób prowadzenia ewidencji, szczegółowe warunki jakim powinna odpowiadać ewidencja, aby stanowiła dowód w postępowaniu podatkowym, sposób dokumentowania przychodów oraz obliczania należnego ryczałtu od przychodów ewidencjonowanych;
+- **2)** sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych, o którym mowa w art. 15 ust. 1.
+- **3)** (uchylony)
 
 **Art. 17.**
 
@@ -1061,6 +1070,24 @@ source: "isap-pdf"
 **Art. 57.** (pominięty)
 
 **Art. 57a.** Zwalnia się od podatku kwoty umorzenia zaległości oraz zwrotu wynikające z ustawy z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla podatników uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 894 oraz z 2012 r. poz. 1529). Art. 57aa. 1. Podatnik może od przychodu z pozarolniczej działalności gospodarczej obliczonego za 2021 r. na podstawie art. 11, odliczyć poniesione w tym roku:
+
+- **1)** wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
+- **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2021 r. poz. 1376 i 1595),
+- **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania – pomniejszone o podatek od towarów i usług.
+
+2. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu do wysokości kwoty stanowiącej iloczyn 500 zł oraz liczby zewnętrznych systemów lokalizacyjnych lub urządzeń pokładowych, przy czym liczba tych systemów lub urządzeń nie może być większa niż liczba pojazdów, które wykonały w 2021 r. co najmniej jeden przejazd, za który podatnik, a w przypadku podatników będących wspólnikami spółki niebędącej osobą prawną – ta spółka, uiścili opłatę elektroniczną z wykorzystaniem tego zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego.
+
+3. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie ani nie zostały odliczone od dochodu na podstawie ustawy o podatku dochodowym.
+
+4. Odliczenia dokonuje się w zeznaniu składanym za 2021 r.
+
+5. W zakresie nieuregulowanym w niniejszym artykule do odliczenia wydatków i opłat, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 11 i art. 21 ust. 2a.
+
+6. Użyte w niniejszym artykule określenie:
+
+- **1)** opłata elektroniczna – oznacza opłatę elektroniczną, o której mowa w art. 13ha ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+- **2)** urządzenie pokładowe – oznacza urządzenie pokładowe, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywane do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS;
+- **3)** zewnętrzny system lokalizacyjny – oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS. Art. 57ab. Zwalnia się od podatku kwotę jednorazowego świadczenia pieniężnego za określony miesiąc przeznaczonego na ograniczenie niektórych skutków ekonomicznych związanych z sytuacją ekologiczną na rzece Odrze, o którym mowa w ustawie z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014 i 2015).
 
 **Art. 57b.**
 

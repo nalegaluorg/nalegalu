@@ -8,12 +8,10 @@ pos: 1362
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie konsumenckim
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +29,7 @@ source: "isap-pdf"
 z 2025 r. poz. 146) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 71, art. 72 i art. 76 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146), które stanowią: „Art. 71. 1. Do:
 1) przeniesienia praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt,
-2) nabycia wierzytelności z tytułu nieobsługiwanej umowy o kredyt które nastąpiło przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
+2) nabycia wierzytelności z tytułu nieobsługiwanej umowy o kredyt – które nastąpiło przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
 2. Do obsługi praw kredytodawcy wynikających z nieobsługiwanej umowy o kredyt lub wierzytelności z tytułu nieobsługiwanej umowy o kredyt, o których mowa w ust. 1, stosuje się przepisy dotychczasowe.
 Art. 59da. 1. Pośrednik kredytowy może podjąć wykonywanie działalności pośrednictwa w zakresie kredytów konsumenckich po uzyskaniu wpisu w dziale drugim rejestru pośredników kredytowych, o którym mowa w art. 62 ust. 4 pkt 2 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U.
 z 2025 r. poz. 720), zwanego dalej „rejestrem”.
@@ -44,8 +42,8 @@ Art. 59db. 1. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru na wniosek 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 1) firmę przedsiębiorcy;
 2) siedzibę (miejsce zamieszkania) i adres przedsiębiorcy;
-3) imiona i nazwiska oraz numery PESEL członków zarządu w przypadku przedsiębiorcy będącego osobą prawną;
-4) imiona i nazwiska oraz numery PESEL członków zarządu albo wspólników w przypadku przedsiębiorcy będącego spółką nieposiadającą osobowości prawnej;
+3) imiona i nazwiska oraz numery PESEL członków zarządu – w przypadku przedsiębiorcy będącego osobą prawną;
+4) imiona i nazwiska oraz numery PESEL członków zarządu albo wspólników – w przypadku przedsiębiorcy będącego spółką nieposiadającą osobowości prawnej;
 5) numer w rejestrze przedsiębiorców albo w ewidencji działalności gospodarczej ;
 6) NIP przedsiębiorcy.
 3. Do wniosku, o którym mowa w ust. 1, dołącza się zaświadczenie z Krajowego Rejestru Karnego o niekaralności w zakresie przestępstw, o których mowa w art. 59da ust. 2 pkt 1.
@@ -76,12 +74,12 @@ Art. 59di. 1. W razie stwierdzenia, że instytucja pożyczkowa nie wykonuje obow
 2) nałożyć na instytucję pożyczkową administracyjną karę pieniężną w wysokości do 15 000 000 zł;
 3) wystąpić do właściwego organu instytucji pożyczkowej z wnioskiem o odwołanie członka zarządu, o którym mowa w pkt 1;
 4) zawiesić w czynnościach członka zarządu, o którym mowa w pkt 1, do czasu podjęcia rozstrzygnięcia w sprawie wniosku, o którym mowa w pkt 3; zawieszenie w czynnościach polega na wyłączeniu z podejmowania decyzji w zakresie praw i obowiązków majątkowych tego podmiotu;
-5) wykreślić instytucję pożyczkową z rejestru instytucji pożyczkowych, a jeżeli jest wpisana jednocześnie do rejestru pośredników kredytowych także z tego rejestru.
+5) wykreślić instytucję pożyczkową z rejestru instytucji pożyczkowych, a jeżeli jest wpisana jednocześnie do rejestru pośredników kredytowych – także z tego rejestru.
 2. Zastosowanie sankcji, o których mowa w ust. 1, następuje w drodze decyzji administracyjnej.
 3. Decyzje administracyjne w sprawach, o których mowa w ust. 1 pkt 3–5, są natychmiast wykonalne.
 4. Administracyjna kara pieniężna, o której mowa w ust. 1 pkt 1, może zostać nałożona również po zakończeniu pełnienia funkcji członka zarządu, jeżeli naruszenie miało miejsce w trakcie pełnienia tej funkcji.
 5. Administracyjna kara pieniężna, o której mowa w ust. 1 pkt 2, może być nałożona również w przypadku, gdy podmiot jest wykreślony z rejestru instytucji pożyczkowych.
-6. Do administracyjnych kar pieniężnych, o których mowa w ust. 1 pkt 1 i 2, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
+6. Do administracyjnych kar pieniężnych, o których mowa w ust. 1 pkt 1 i 2, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
 7. Komisja Nadzoru Finansowego przekazuje do publicznej wiadomości informację o zastosowaniu sankcji, o których mowa w ust. 1, chyba że ujawnienie takiej informacji mogłoby w sposób niewspółmierny zaszkodzić interesowi prawnemu zainteresowanych stron. Imię i nazwisko osoby, na którą została nałożona sankcja, o której mowa w ust. 1 pkt 1 lub 4, podaje się do publicznej wiadomości, gdy decyzja w tym przedmiocie jest ostateczna.
 8. Informacje, o których mowa w ust. 7, są dostępne na stronie internetowej Komisji Nadzoru Finansowego przez 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, dostępne są na tej stronie przez rok.
 Art. 59dj. 1. Informacje uzyskane lub wytworzone w związku ze sprawowaniem nadzoru, których udzielenie, ujawnienie lub potwierdzenie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą, lub utrudnić sprawowanie nadzoru nad instytucjami pożyczkowymi, stanowią tajemnicę zawodową chronioną zgodnie z przepisem art. 16 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r.
@@ -112,7 +110,7 @@ Art. 59do. 1. Instytucje pożyczkowe są obowiązane do wnoszenia rocznych wpła
 3. Prezes Rady Ministrów określi, w drodze rozporządzenia:
 1) terminy wnoszenia, wysokość i sposób obliczania wpłat, o których mowa w ust. 1,
 2) sposób i terminy rozliczania należności z tytułu wpłat, o których mowa w ust. 1,
-3) wzór deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru mając na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, konieczność zapewnienia skuteczności sprawowanego nadzoru oraz możliwość składania deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+3) wzór deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru – mając na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, konieczność zapewnienia skuteczności sprawowanego nadzoru oraz możliwość składania deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 Art. 59dp. 1. Instytucja pożyczkowa, która nie wykonała obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, wnosi na rzecz Urzędu Komisji Nadzoru Finansowego opłatę sankcyjną w kwocie stanowiącej równowartość w złotych 5000 euro.
 Wniesienie opłaty sankcyjnej nie zwalnia z wykonania obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4.
 2. Równowartość w złotych wyrażonej w euro kwoty, o której mowa w ust. 1, przelicza się przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na ostatni dzień roboczy roku poprzedzającego rok kalendarzowy, w którym powstało zobowiązanie.
@@ -134,6 +132,11 @@ Art. 60–65. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady i tryb zawierania umów o kredyt konsumencki;
+- **2)** obowiązki kredytodawcy i pośrednika kredytowego w zakresie informacji udzielanych przed zawarciem umowy o kredyt konsumencki oraz obowiązki konsumenta, kredytodawcy i pośrednika kredytowego w związku z zawartą umową o kredyt konsumencki;
+- **3)** (uchylony)
+- **4)** skutki uchybienia obowiązkom kredytodawcy.
 
 **Art. 2.**
 
@@ -179,11 +182,44 @@ Art. 60–65. (pominięte)
 - **5)** umów przewidujących odroczenie płatności lub zmianę sposobu spłaty w przypadku gdy konsument jest w zwłoce w związku ze spłatą zadłużenia wynikającego z umowy o kredyt, o ile postanowienia tej umowy nie są dla konsumenta mniej korzystne od postanowień zawartych w umowie, do której odnosi się umowa przewidująca odroczenie płatności lub sposobu spłaty, stosuje się art. 7, art. 8, art. 10, art. 12, art. 18, art. 19, art. 21, art. 25, art. 28, art. 29, art. 30 ust. 2, art. 33, art. 33a, art. 34, art. 36, art. 36a–36c, art. 39, art. 42, art. 43, art. 45, art. 47 i rozdział 4 oraz odpowiednio stosuje się art. 28a;
 - **6)** umów określonych w pkt 5, będących umowami o kredyt w rachunku oszczędnościowo-rozliczeniowym konsumenta, który jest spłacany przez konsumenta w terminie do trzech miesięcy lub na żądanie stosuje się art. 7 ust. 1 pkt 1 i 2, art. 8–10, art. 17 ust. 2, 3 i 5, art. 19, art. 20, art. 25, art. 28, art. 29, art. 30 ust. 2, art. 31, art. 32, art. 38, art. 40, art. 44, art. 45 i art. 57.
 
-3. Do umów o kredyt konsumencki nie stosuje się przepisów rozdziału I działu IV tytułu XI księgi trzeciej ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172).
+3. Do umów o kredyt konsumencki nie stosuje się przepisów rozdziału I działu IV tytułu XI księgi trzeciej ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172).
 
 4. Ustawę stosuje się do umów leasingu i najmu, jeżeli umowa odrębna od tych umów przewiduje obowiązek nabycia przedmiotu umowy, uzależniając go od żądania kredytodawcy.
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
+
+- **1)** konsument – konsument w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
+- **2)** kredytodawca – przedsiębiorca w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, który w zakresie swojej działalności gospodarczej lub zawodowej, udziela lub daje przyrzeczenie udzielenia konsumentowi kredytu;
+- **2a)** instytucja pożyczkowa – kredytodawca inny niż: o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069) w zakresie, w jakim udziela kredytu płatniczego, o którym mowa w art. 74 ust. 3 tej ustawy;
+    - **a)** bank krajowy, bank zagraniczny, oddział banku zagranicznego, instytucja kredytowa lub oddział instytucji kredytowej w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ),
+    - **b)** spółdzielcza kasa oszczędnościowo-kredytowa oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa,
+    - **c)** podmiot, którego działalność polega na udzielaniu kredytów konsumenckich w postaci odroczenia zapłaty ceny lub wynagrodzenia na zakup oferowanych przez niego towarów i usług,
+    - **d)** krajowa instytucja płatnicza, mała instytucja płatnicza, krajowa instytucja pieniądza elektronicznego, unijna instytucja płatnicza lub unijna instytucja pieniądza elektronicznego, w rozumieniu ustawy z dnia 19 sierpnia 2011 r.
+
+- **3)** pośrednik kredytowy – przedsiębiorca w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, inny niż kredytodawca, który w zakresie swojej działalności gospodarczej lub zawodowej uzyskuje korzyści majątkowe, w szczególności wynagrodzenie od konsumenta, dokonując czynności faktycznych lub prawnych związanych z przygotowaniem, oferowaniem lub zawieraniem umowy o kredyt;
+- **3a)** podmiot powiązany – podmiot powiązany w rozumieniu przepisów rozporządzenia Komisji (WE) nr 1126/2008 z dnia 3 listopada 2008 r. przyjmującego określone międzynarodowe standardy rachunkowości zgodnie z rozporządzeniem (WE) nr 1606/2002 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 320 z 29.11.2008, str. 1, z późn. zm. );
+- **4)** kredyt w rachunku oszczędnościowo-rozliczeniowym – umowa o kredyt, który kredytodawca udostępnia konsumentowi umożliwiając dysponowanie środkami pieniężnymi w wysokości przekraczającej środki pieniężne zgromadzone na rachunku oszczędnościowo-rozliczeniowym konsumenta;
+- **5)** przekroczenie – każde, inne niż kredyt w rachunku oszczędnościowo-rozliczeniowym, akceptowane przez kredytodawcę przekroczenie kwoty środków pieniężnych zgromadzonych na rachunku oszczędnościowo-rozliczeniowym lub kwoty udzielonego kredytu w rachunku oszczędnościowo-rozliczeniowym;
+- **6)** całkowity koszt kredytu – wszelkie koszty, które konsument jest zobowiązany ponieść w związku z umową o kredyt, w szczególności:
+    - **a)** odsetki, opłaty, prowizje, podatki i marże jeżeli są znane kredytodawcy oraz
+    - **b)** koszty usług dodatkowych, w szczególności ubezpieczeń, w przypadku gdy ich poniesienie jest niezbędne do uzyskania kredytu lub do uzyskania go na oferowanych warunkach – z wyjątkiem kosztów opłat notarialnych ponoszonych przez konsumenta;
+
+- **6a)** pozaodsetkowe koszty kredytu – wszystkie koszty, które konsument ponosi w związku z umową o kredyt konsumencki, z wyłączeniem odsetek;
+- **7)** całkowita kwota kredytu – maksymalna kwota wszystkich środków pieniężnych nieobejmujących kredytowanych kosztów kredytu, które kredytodawca udostępnia konsumentowi na podstawie umowy o kredyt, a w przypadku umów, dla których nie przewidziano tej maksymalnej kwoty, suma wszystkich środków pieniężnych nieobejmujących kredytowanych kosztów kredytu, które kredytodawca udostępnia konsumentowi na podstawie umowy o kredyt;
+- **8)** całkowita kwota do zapłaty przez konsumenta – suma całkowitego kosztu kredytu i całkowitej kwoty kredytu;
+- **9)** stopa referencyjna – stopa oprocentowania służąca za podstawę ustalenia oprocentowania kredytu odnosząca się do minimalnego oprocentowania podstawowych operacji otwartego rynku prowadzonych przez Narodowy Bank Polski, ustalana przez Radę Polityki Pieniężnej, ogłaszana w Dzienniku Urzędowym Narodowego Banku Polskiego;
+- **10)** stopa oprocentowania kredytu – stopa oprocentowania wyrażona jako stałe lub zmienne oprocentowanie stosowane do wypłaconej kwoty na podstawie umowy o kredyt w stosunku rocznym;
+- **11)** stała stopa oprocentowania kredytu – stopa oprocentowania określona wyłącznie w umowie o kredyt, przy wykorzystaniu określonej stałej wartości procentowej wyrażonej na cały czas obowiązywania umowy lub w danych okresach obowiązywania umowy;
+- **12)** rzeczywista roczna stopa oprocentowania – całkowity koszt kredytu ponoszony przez konsumenta, wyrażony jako wartość procentowa całkowitej kwoty kredytu w stosunku rocznym;
+- **13)** umowa o kredyt konsumencki zawierana na odległość – umowa o kredyt konsumencki zawierana z konsumentem bez jednoczesnej obecności obu stron, przy wykorzystaniu środków porozumiewania się na odległość, o której mowa w ustawie z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny (Dz. U. z 2012 r. poz. 1225) ;
+- **14)** umowa o kredyt wiązany – umowa o kredyt, z którego jest wyłącznie finansowane nabycie towaru lub usługi na podstawie innej umowy, a obie te umowy są ze sobą powiązane, zgodnie z którymi:
+    - **a)** sprzedawca lub usługodawca udziela kredytu konsumentowi na nabycie towaru lub usługi od tego sprzedawcy lub usługodawcy, albo
+    - **b)** nabycie towaru lub usługi jest finansowane przez kredytodawcę, który współpracuje ze sprzedawcą lub usługodawcą w związku z przygotowaniem lub zawarciem umowy o kredyt, albo
+    - **c)** nabycie towaru lub usługi jest finansowane przez kredytodawcę, a towar lub usługa są szczegółowo określone w umowie o kredyt;
+
+- **15)** bazy danych – zbiory danych prowadzone dla celów oceny zdolności kredytowej przez instytucje, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz biura informacji gospodarczej, o których mowa w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2025 r. poz. 85);
+- **16)** ocena zdolności kredytowej – ocena zdolności konsumenta do spłaty zaciągniętego kredytu wraz z odsetkami, w terminach określonych w umowie o kredyt konsumencki, dokonywana przez kredytodawcę;
+- **17)** trwały nośnik – materiał lub urządzenie służące do przechowywania i odczytywania informacji przekazywanych konsumentowi w związku z umową o kredyt, przez czas odpowiedni do celów jakim informacje te służą oraz pozwalające na odtworzenie tych informacji w niezmienionej postaci.
 
 **Art. 6.** Wartość kwoty kredytu konsumenckiego udzielanego w walucie innej niż waluta polska, stanowi równowartość kwoty kredytu wyrażonej w walucie polskiej ustaloną przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski z ostatniego dnia kwartału poprzedzającego dzień zawarcia umowy.
 
@@ -236,7 +272,7 @@ Art. 60–65. (pominięte)
 
 3. Konsument jest zobowiązany do przedstawienia, na żądanie kredytodawcy, dokumentów i informacji niezbędnych do dokonania oceny zdolności kredytowej.
 
-4. Jeżeli kredytodawcą jest bank, albo inna instytucja ustawowo upoważniona do udzielania kredytów ocena zdolności kredytowej dokonywana jest zgodnie z art. 70 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe oraz innymi regulacjami obowiązującymi te podmioty, z uwzględnieniem ust. 1–3.
+4. Jeżeli kredytodawcą jest bank, albo inna instytucja ustawowo upoważniona do udzielania kredytów ocena zdolności kredytowej dokonywana jest zgodnie z art. 70 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz innymi regulacjami obowiązującymi te podmioty, z uwzględnieniem ust. 1–3.
 
 **Art. 9a.**
 
@@ -244,7 +280,7 @@ Art. 60–65. (pominięte)
 
 2. Oceny zdolności kredytowej dokonuje się na podstawie analizy danych udostępnianych przez zaufanych dostawców gromadzących i przetwarzających dane niezbędne do takiej oceny, w szczególności przez:
 
-- **1)** instytucje, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, lub
+- **1)** instytucje, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, lub
 - **2)** biura informacji gospodarczej, o których mowa w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych.
 
 3. Jeżeli analiza danych, o których mowa w ust. 2, nie pozwala na dokonanie oceny zdolności kredytowej, a instytucja pożyczkowa nie dysponuje innymi wiarygodnymi danymi pozwalającymi na dokonanie tej oceny, w celu jej dokonania odbiera się od konsumenta oświadczenie o jego dochodach i stałych wydatkach gospodarstwa domowego, wraz z dokumentami potwierdzającymi wysokość dochodów konsumenta. Oświadczenie wraz z dokumentami, o których mowa w zdaniu pierwszym, odbiera się od konsumenta w każdym przypadku, w którym całkowita kwota kredytu przekracza dwukrotność wysokości minimalnego wynagrodzenia za pracę, ustalanego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
@@ -254,13 +290,13 @@ Art. 60–65. (pominięte)
 5. Jeżeli instytucja pożyczkowa udzieliła konsumentowi kredytu konsumenckiego z naruszeniem przepisów ust. 1 i 2 lub gdy z treści oświadczenia konsumenta i uzyskanych przez instytucję pożyczkową informacji wynikało, że na dzień zawarcia umowy kredytu konsumenckiego konsument miał zaległości w spłacie innego zobowiązania pieniężnego wynoszące powyżej 6 miesięcy, a kredyt konsumencki nie był przeznaczony na spłatę tej zaległości, to:
 
 - **1)** zbycie wierzytelności z tej umowy w drodze przelewu lub w inny sposób jest nieważne;
-- **2)** dochodzenie wierzytelności jest dopuszczalne dopiero po dniu całkowitej spłaty wcześniejszego zobowiązania, jego wygaśnięcia lub po prawomocnym stwierdzeniu przez sąd nieistnienia tego zobowiązania przy czym zakaz zbywania wierzytelności i jej dochodzenia nie wstrzymuje biegu przedawnienia, a za okres zakazu zbywania wierzytelności i jej dochodzenia nie można doliczać odsetek lub pozaodsetkowych kosztów kredytu, a także innych opłat związanych z tą wierzytelnością.
+- **2)** dochodzenie wierzytelności jest dopuszczalne dopiero po dniu całkowitej spłaty wcześniejszego zobowiązania, jego wygaśnięcia lub po prawomocnym stwierdzeniu przez sąd nieistnienia tego zobowiązania – przy czym zakaz zbywania wierzytelności i jej dochodzenia nie wstrzymuje biegu przedawnienia, a za okres zakazu zbywania wierzytelności i jej dochodzenia nie można doliczać odsetek lub pozaodsetkowych kosztów kredytu, a także innych opłat związanych z tą wierzytelnością.
 
 6. Okoliczności, o których mowa w ust. 5 pkt 2, sąd bada na zarzut konsumenta.
 
-7. Przepisów ust. 3 i 5 nie stosuje się, jeżeli łączna wysokość ustalonych w umowie pozaodsetkowych kosztów kredytu i odsetek jest niższa od połowy sumy maksymalnej wysokości pozaodsetkowych kosztów kredytu, o której mowa w art. 36a ust. 1, oraz odsetek maksymalnych, o których mowa w art. 359 § 2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+7. Przepisów ust. 3 i 5 nie stosuje się, jeżeli łączna wysokość ustalonych w umowie pozaodsetkowych kosztów kredytu i odsetek jest niższa od połowy sumy maksymalnej wysokości pozaodsetkowych kosztów kredytu, o której mowa w art. 36a ust. 1, oraz odsetek maksymalnych, o których mowa w art. 359 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
-8. Instytucja pożyczkowa, która udzieliła kredytu konsumenckiego, niezwłocznie przekazuje informację o jego udzieleniu instytucjom, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe. Informację o zaległościach w spłacie kredytu przekazuje się tym instytucjom lub biuru informacji gospodarczej, o którym mowa w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych. Za przekazanie informacji nie pobiera się żadnych opłat.
+8. Instytucja pożyczkowa, która udzieliła kredytu konsumenckiego, niezwłocznie przekazuje informację o jego udzieleniu instytucjom, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe. Informację o zaległościach w spłacie kredytu przekazuje się tym instytucjom lub biuru informacji gospodarczej, o którym mowa w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych. Za przekazanie informacji nie pobiera się żadnych opłat.
 
 **Art. 9b.**
 
@@ -274,9 +310,9 @@ Art. 60–65. (pominięte)
 - **2)** udzielenie kredytu konsumenckiego następuje na odległość z wykorzystaniem przez kredytobiorcę środków komunikacji elektronicznej, a konsument został uwierzytelniony z wykorzystaniem indywidualnych danych uwierzytelniających;
 - **3)** kredyt konsumencki udzielany jest w związku z umową o charakterze ciągłym, regulującą zasady jego udzielania, oraz:
     - **a)** łączna wartość wszystkich zobowiązań do zapłaty z tytułu udzielonych kredytów konsumenckich w związku z umową o charakterze ciągłym w żadnym momencie nie przekracza wysokości minimalnego wynagrodzenia za pracę, ustalanego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, oraz
-    - **b)** przed zawarciem umowy o charakterze ciągłym następuje weryfikacja: zastrzeżenia numeru PESEL w rejestrze zastrzeżeń numerów PESEL i poinformowanie konsumenta o braku weryfikacji tego zastrzeżenia przed udzielaniem poszczególnych kredytów konsumenckich w ramach tej umowy, tożsamości konsumenta z wykorzystaniem rozwiązań umożliwiających jego identyfikację.
+    - **b)** przed zawarciem umowy o charakterze ciągłym następuje weryfikacja: – zastrzeżenia numeru PESEL w rejestrze zastrzeżeń numerów PESEL i poinformowanie konsumenta o braku weryfikacji tego zastrzeżenia przed udzielaniem poszczególnych kredytów konsumenckich w ramach tej umowy, – tożsamości konsumenta z wykorzystaniem rozwiązań umożliwiających jego identyfikację.
 
-4. Weryfikacja zastrzeżenia numeru PESEL może być dokonywana za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+4. Weryfikacja zastrzeżenia numeru PESEL może być dokonywana za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 5. W przypadku niedostępności systemu teleinformatycznego, w którym prowadzony jest rejestr zastrzeżeń numerów PESEL, kredytodawca po ponownej nieudanej próbie dokonania weryfikacji może:
 
@@ -289,7 +325,7 @@ Art. 60–65. (pominięte)
 
 1. Jeżeli kredytodawca odmówi konsumentowi udzielenia kredytu konsumenckiego na podstawie informacji zawartych w bazie danych lub zbiorze danych kredytodawcy, kredytodawca niezwłocznie przekazuje konsumentowi bezpłatną informację o wynikach tego sprawdzenia oraz wskazuje bazę danych, w której tego sprawdzenia dokonano.
 
-2. Jeżeli kredytodawca odmówi konsumentowi udzielenia kredytu konsumenckiego, przepisy art. 70a ust. 1–2 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe stosuje się odpowiednio.
+2. Jeżeli kredytodawca odmówi konsumentowi udzielenia kredytu konsumenckiego, przepisy art. 70a ust. 1–2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe stosuje się odpowiednio.
 
 **Art. 11.** Kredytodawca lub pośrednik kredytowy zobowiązany jest przed zawarciem umowy o kredyt konsumencki udzielić konsumentowi wyjaśnień dotyczących treści informacji przekazanych przed zawarciem umowy oraz postanowień zawartych w umowie, która ma zostać zawarta, w sposób umożliwiający konsumentowi podjęcie decyzji dotyczącej umowy o kredyt konsumencki.
 
@@ -307,7 +343,7 @@ Art. 60–65. (pominięte)
 - **6)** terminy i sposób wypłaty kredytu;
 - **7)** całkowitą kwotę do zapłaty przez konsumenta;
 - **7a)** rzeczywistą roczną stopę oprocentowania przedstawioną za pomocą reprezentatywnego przykładu, który obejmuje wszystkie założenia przyjęte do obliczenia tej stopy; w przypadku gdy konsument poinformował kredytodawcę o co najmniej jednym ze składników preferowanego przez siebie kredytu, takim jak okres obowiązywania umowy o kredyt lub całkowita kwota kredytu, składniki te powinny być uwzględnione w reprezentatywnym przykładzie;
-- **7b)** informację, że inne mechanizmy dokonywania wypłat mogą spowodować zastosowanie wyższej rocznej stopy oprocentowania jeżeli umowa o kredyt przewiduje różne sposoby dokonywania wypłat, w odniesieniu do których obowiązują różne opłaty i stopy oprocentowania, a kredytodawca korzysta z założenia, o którym mowa w ust. 4 pkt 2 załącznika nr 4 do ustawy;
+- **7b)** informację, że inne mechanizmy dokonywania wypłat mogą spowodować zastosowanie wyższej rocznej stopy oprocentowania – jeżeli umowa o kredyt przewiduje różne sposoby dokonywania wypłat, w odniesieniu do których obowiązują różne opłaty i stopy oprocentowania, a kredytodawca korzysta z założenia, o którym mowa w ust. 4 pkt 2 załącznika nr 4 do ustawy;
 - **8)** zasady i terminy spłaty kredytu oraz, w odpowiednich przypadkach, kolejność zaliczania rat kredytu konsumenckiego na poczet należności kredytodawcy; jeżeli w ramach kredytu stosuje się różne stopy oprocentowania dla różnych należności kredytodawcy, należy także podać kolejność zaliczania rat kredytu konsumenckiego na poczet różnych należnych sald, dla których stosuje się różne stopy oprocentowania;
 - **9)** informację dotyczącą obowiązku zawarcia umowy dodatkowej, w szczególności umowy ubezpieczenia, w przypadku gdy zawarcie takiej umowy jest niezbędne do uzyskania kredytu lub do uzyskania go na oferowanych warunkach;
 - **10)** w odpowiednich przypadkach, informację o innych kosztach, które konsument jest zobowiązany ponieść w związku z umową o kredyt konsumencki, w szczególności o odsetkach, prowizjach, marżach, opłatach, w tym opłatach za prowadzenie jednego lub kilku rachunków, na których są zapisywane zarówno transakcje płatności, jak i wypłaty, łącznie z opłatami za korzystanie z instrumentów płatniczych zarówno dla transakcji płatności, jak i dla wypłat, oraz kosztach usług dodatkowych, w szczególności ubezpieczeń, jeżeli są znane kredytodawcy, oraz warunki, na jakich koszty te mogą ulec zmianie;
@@ -451,7 +487,7 @@ Art. 60–65. (pominięte)
 - **1)** całkowity koszt kredytu ponoszony przez konsumenta, z wyłączeniem opłat z tytułu niewykonania swoich zobowiązań wynikających z umowy o kredyt oraz opłat innych niż cena nabycia towaru lub usługi, które konsument jest zobowiązany ponieść bez względu na sposób finansowania tego nabycia, oraz
 - **2)** koszty prowadzenia rachunku, z którego realizowane są spłaty, koszty przelewów i wpłat na ten rachunek, oraz inne koszty związane z tymi transakcjami, chyba że otwarcie rachunku nie jest obowiązkowe, a koszty rachunku zostały w sposób jasny, zrozumiały i widoczny podane w umowie o kredyt lub w innej umowie zawartej z konsumentem.
 
-2. Jeżeli z postanowień umowy o kredyt wynika możliwość zmiany stopy oprocentowania kredytu i opłat uwzględnianych przy ustalaniu rzeczywistej rocznej stopy oprocentowania, których nie można określić w chwili jej ustalenia rzeczywistą roczną stopę oprocentowania ustala się w oparciu o założenie, że stopa oprocentowania kredytu i opłaty te pozostaną niezmienione przez cały czas obowiązywania umowy o kredyt.
+2. Jeżeli z postanowień umowy o kredyt wynika możliwość zmiany stopy oprocentowania kredytu i opłat uwzględnianych przy ustalaniu rzeczywistej rocznej stopy oprocentowania, których nie można określić w chwili jej ustalenia – rzeczywistą roczną stopę oprocentowania ustala się w oparciu o założenie, że stopa oprocentowania kredytu i opłaty te pozostaną niezmienione przez cały czas obowiązywania umowy o kredyt.
 
 3. Sposób obliczania rzeczywistej rocznej stopy oprocentowania określa załącznik nr 4 do ustawy.
 
@@ -513,7 +549,7 @@ Art. 60–65. (pominięte)
 
 - **7)** 1. Kredytodawca lub pośrednik kredytowy nie później niż na 30 dni przed zmianą postanowień umowy o kredyt konsumencki przekazuje konsumentowi:
 - **1)** przejrzysty opis proponowanych zmian, w tym zmian wymagających uzyskania zgody konsumenta, lub zmian wprowadzonych z mocy prawa, wraz z harmonogramem ich wdrożenia;
-- **2)** informację o przysługującej konsumentowi możliwości złożenia reklamacji do kredytodawcy, a w przypadku nieuwzględnienia jego roszczeń złożenia wniosku o rozpatrzenie sprawy do Rzecznika Finansowego zgodnie z ustawą z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146 i 1069), wraz ze wskazaniem adresu, na który należy złożyć ten wniosek, a także informację o możliwości skierowania roszczeń na drogę sądową lub możliwości pozasądowego rozwiązywania sporów.
+- **2)** informację o przysługującej konsumentowi możliwości złożenia reklamacji do kredytodawcy, a w przypadku nieuwzględnienia jego roszczeń – złożenia wniosku o rozpatrzenie sprawy do Rzecznika Finansowego zgodnie z ustawą z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146 i 1069), wraz ze wskazaniem adresu, na który należy złożyć ten wniosek, a także informację o możliwości skierowania roszczeń na drogę sądową lub możliwości pozasądowego rozwiązywania sporów.
 
 2. Termin, o którym mowa w ust. 1, nie musi być zachowany, jeżeli zmiany postanowień umowy o kredyt konsumencki wprowadzane są na wniosek konsumenta lub konsument wyraził zgodę na przekazanie informacji, o których mowa w ust. 1, bez zachowania tego terminu.
 
@@ -532,7 +568,17 @@ Art. 60–65. (pominięte)
 
 **Art. 32.** Umowa o kredyt konsumencki w rachunku oszczędnościowo-rozliczeniowym podlegający spłacie na żądanie lub w terminie do trzech miesięcy powinna zawierać co najmniej:
 
+- **1)** dane określone w art. 30 ust. 1 pkt 1–3, 5, 6 i 15;
+- **2)** limit kredytu;
+- **3)** całkowity koszt kredytu;
+- **4)** informację o możliwości żądania w dowolnym momencie spłaty pełnej kwoty kredytu przez konsumenta;
+- **5)** informację o opłatach stosowanych od chwili zawarcia umowy oraz warunkach ich zmiany.
+
 **Art. 33.** Umowa o kredyt konsumencki przewidująca odroczenie płatności lub zmianę sposobu spłaty w przypadku gdy konsument jest w zwłoce w związku ze spłatą zadłużenia wynikającego z umowy o kredyt, powinna zawierać co najmniej:
+
+- **1)** dane określone w art. 30 ust. 1 pkt 1–8, 11, 16 i 17;
+- **2)** opis towaru lub usługi;
+- **3)** cenę nabycia towaru lub usługi.
 
 **Art. 33a.** W przypadku gdy łączna wysokość opłat z tytułu zaległości w spłacie kredytu, o których mowa w art. 30 ust. 1 pkt 11, oraz odsetek za opóźnienie naliczonych konsumentowi przekracza kwotę odpowiadającą kwocie odsetek maksymalnych za opóźnienie, o których mowa w art. 481 § 2 Kodeksu cywilnego, obliczonych od kwoty zaległości w spłacie kredytu, należnych na dzień pobrania tych opłat lub odsetek, należy się tylko kwota opłat i odsetek odpowiadająca kwocie tych odsetek maksymalnych za opóźnienie.
 
@@ -562,9 +608,9 @@ Art. 60–65. (pominięte)
 
 **Art. 36a.**
 
-1. Maksymalną wysokość pozaodsetkowych kosztów kredytu dla kredytów o okresie spłaty nie krótszym niż 30 dni oblicza się według wzoru: MPKK = (K × 10 %) + (K × n/R × 10 %) w którym poszczególne symbole oznaczają: MPKK maksymalną wysokość pozaodsetkowych kosztów kredytu, K całkowitą kwotę kredytu, n okres spłaty wyrażony w dniach, R liczbę dni w roku.
+1. Maksymalną wysokość pozaodsetkowych kosztów kredytu dla kredytów o okresie spłaty nie krótszym niż 30 dni oblicza się według wzoru: MPKK = (K × 10 %) + (K × n/R × 10 %) w którym poszczególne symbole oznaczają: MPKK – maksymalną wysokość pozaodsetkowych kosztów kredytu, K – całkowitą kwotę kredytu, n – okres spłaty wyrażony w dniach, R – liczbę dni w roku.
 
-1a. Maksymalną wysokość pozaodsetkowych kosztów kredytu dla kredytów o okresie spłaty krótszym niż 30 dni oblicza się według wzoru: MPKK = K x 5 % w którym poszczególne symbole oznaczają: MPKK maksymalną wysokość pozaodsetkowych kosztów kredytu, K całkowitą kwotę kredytu.
+1a. Maksymalną wysokość pozaodsetkowych kosztów kredytu dla kredytów o okresie spłaty krótszym niż 30 dni oblicza się według wzoru: MPKK = K x 5 % w którym poszczególne symbole oznaczają: MPKK – maksymalną wysokość pozaodsetkowych kosztów kredytu, K – całkowitą kwotę kredytu.
 
 2. Pozaodsetkowe koszty kredytu nie mogą być wyższe od 45 % całkowitej kwoty kredytu.
 
@@ -574,9 +620,18 @@ Art. 60–65. (pominięte)
 
 **Art. 36b.** W przypadku odroczenia spłaty zadłużenia wynikającego z umowy o kredyt konsumencki w okresie 120 dni od dnia wypłaty tego kredytu:
 
+- **1)** całkowitą kwotę kredytu dla celów ustalenia maksymalnej wysokości pozaodsetkowych kosztów kredytu, o której mowa w art. 36a, stanowi kwota udzielonego i wypłaconego kredytu, którego spłata została następnie odroczona;
+- **2)** do pozaodsetkowych kosztów kredytu dolicza się wszystkie koszty i opłaty, które kredytobiorca jest obowiązany ponieść w związku z odroczeniem spłaty kredytu, naliczone w okresie 120 dni od dnia wypłaty kredytu.
+
 **Art. 36c.** W przypadku udzielenia przez kredytodawcę lub podmiot z nim powiązany konsumentowi, który nie dokonał pełnej spłaty kredytu, kolejnych kredytów w okresie 120 dni od dnia wypłaty pierwszego z kredytów:
 
+- **1)** całkowitą kwotę kredytu, dla celów ustalenia maksymalnej wysokości pozaodsetkowych kosztów kredytu, o której mowa w art. 36a, stanowi kwota pierwszego z kredytów;
+- **2)** pozaodsetkowe koszty kredytu obejmują sumę pozaodsetkowych kosztów wszystkich kredytów udzielonych w tym okresie.
+
 **Art. 36d.** Przepisów art. 36a–36c nie stosuje się do:
+
+- **1)** kredytu w rachunku oszczędnościowo-rozliczeniowym konsumenta, prowadzonym przez kredytodawcę, o którym mowa w art. 5 pkt 2a lit. a i b;
+- **2)** umowy o kartę kredytową, o której mowa w art. 2 pkt 34 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2015/751 z dnia 29 kwietnia 2015 r. w sprawie opłat interchange w odniesieniu do transakcji płatniczych realizowanych w oparciu o kartę (Dz. Urz. UE L 123 z 19.05.2015, str. 1), o ile kredytodawca jest jednocześnie wydawcą karty kredytowej.
 
 **Art. 37.**
 
@@ -585,7 +640,7 @@ Art. 60–65. (pominięte)
 2. Harmonogram, o którym mowa w ust. 1, zawiera:
 
 - **1)** określenie terminu, wysokości raty kredytu z wyodrębnieniem jej poszczególnych składników, w szczególności kapitału, odsetek oraz wszelkich innych kosztów kredytu, które konsument jest zobowiązany ponieść;
-- **2)** w przypadku umów o kredyt konsumencki, które przewidują możliwość zmiany stopy oprocentowania lub wszelkich innych kosztów kredytu informacje, że dane zawarte w harmonogramie obowiązują do momentu zmiany stopy oprocentowania lub wszelkich innych kosztów kredytu składających się na wysokość raty kredytu.
+- **2)** w przypadku umów o kredyt konsumencki, które przewidują możliwość zmiany stopy oprocentowania lub wszelkich innych kosztów kredytu – informacje, że dane zawarte w harmonogramie obowiązują do momentu zmiany stopy oprocentowania lub wszelkich innych kosztów kredytu składających się na wysokość raty kredytu.
 
 **Art. 38.**
 
@@ -651,8 +706,8 @@ Art. 60–65. (pominięte)
 
 3. Jeżeli umowa o kredyt konsumencki nie przewiduje terminu spłaty kredytu, konsument zwraca kredyt w terminie:
 
-- **1)** pięciu lat w przypadku kredytów konsumenckich do wysokości 80 000 zł;
-- **2)** dziesięciu lat w przypadku kredytów konsumenckich powyżej 80 000 zł.
+- **1)** pięciu lat – w przypadku kredytów konsumenckich do wysokości 80 000 zł;
+- **2)** dziesięciu lat – w przypadku kredytów konsumenckich powyżej 80 000 zł.
 
 4. W przypadkach, o których mowa w ust. 1, konsument ponosi koszty ustanowienia zabezpieczenia kredytu przewidziane w umowie.
 
@@ -688,6 +743,9 @@ Art. 60–65. (pominięte)
 
 **Art. 51.** Prowizja za spłatę kredytu przed terminem nie przysługuje kredytodawcy w przypadku umów:
 
+- **1)** kredytu w rachunku oszczędnościowo-rozliczeniowym;
+- **2)** w których spłata została dokonana zgodnie z umową ubezpieczenia zawartą w celu zabezpieczenia spłaty kredytu.
+
 **Art. 52.** Kredytodawca jest zobowiązany do rozliczenia z konsumentem kredytu w terminie 14 dni od dnia dokonania wcześniejszej spłaty kredytu w całości.
 
 #### Rozdział 5 Odstąpienie od umowy przez konsumenta
@@ -714,7 +772,7 @@ Art. 60–65. (pominięte)
 
 4. W przypadku odstąpienia od umowy, o którym mowa w art. 53, kredytodawcy nie przysługują żadne inne opłaty, z wyjątkiem bezzwrotnych kosztów poniesionych przez niego na rzecz organów administracji publicznej.
 
-**Art. 55.** Jeżeli z umową o kredyt związana jest usługa dodatkowa świadczona przez kredytodawcę lub osobę trzecią na podstawie umowy między tą osobą a kredytodawcą w przypadku skorzystania przez konsumenta z prawa do odstąpienia od umowy o kredyt odstąpienie to jest skuteczne także wobec umowy o usługę dodatkową.
+**Art. 55.** Jeżeli z umową o kredyt związana jest usługa dodatkowa świadczona przez kredytodawcę lub osobę trzecią – na podstawie umowy między tą osobą a kredytodawcą – w przypadku skorzystania przez konsumenta z prawa do odstąpienia od umowy o kredyt – odstąpienie to jest skuteczne także wobec umowy o usługę dodatkową.
 
 **Art. 56.**
 
@@ -762,8 +820,8 @@ Art. 60–65. (pominięte)
 
 5. Do wniosku o wpis do Krajowego Rejestru Sądowego dołącza się:
 
-- **1)** zaświadczenie z Krajowego Rejestru Karnego o niekaralności za przestępstwo skarbowe dotyczące członków zarządu i rady nadzorczej lub ich oświadczenia następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że nie byłem skazany za przestępstwo skarbowe.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
-- **2)** zaświadczenie z Krajowego Rejestru Karnego o niekaralności za przestępstwa określone w ust. 4 dotyczące prokurenta lub jego oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że nie byłem skazany za przestępstwa, o których mowa w art. 59a ust. 4 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
+- **1)** zaświadczenie z Krajowego Rejestru Karnego o niekaralności za przestępstwo skarbowe dotyczące członków zarządu i rady nadzorczej lub ich oświadczenia następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że nie byłem skazany za przestępstwo skarbowe.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
+- **2)** zaświadczenie z Krajowego Rejestru Karnego o niekaralności za przestępstwa określone w ust. 4 dotyczące prokurenta lub jego oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że nie byłem skazany za przestępstwa, o których mowa w art. 59a ust. 4 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
 - **3)** oświadczenie, że spółka zamierza prowadzić działalność gospodarczą w zakresie udzielania kredytów konsumenckich jako instytucja pożyczkowa. Art. 59aa. 1. Instytucja pożyczkowa może podjąć wykonywanie działalności po uzyskaniu wpisu do rejestru instytucji pożyczkowych.
 
 2. Za dzień rozpoczęcia działalności przez instytucję pożyczkową uważa się dzień dokonania wpisu do rejestru instytucji pożyczkowych. Art. 59ab. 1. Rejestr instytucji pożyczkowych jest prowadzony przez Komisję Nadzoru Finansowego.
@@ -799,15 +857,15 @@ Art. 60–65. (pominięte)
 
 **Art. 59b.**
 
-1. Instytucja pożyczkowa może udostępniać instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe informacje w zakresie niezbędnym do oceny zdolności kredytowej konsumenta, o której mowa w art. 9, i analizy ryzyka kredytowego.
+1. Instytucja pożyczkowa może udostępniać instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe informacje w zakresie niezbędnym do oceny zdolności kredytowej konsumenta, o której mowa w art. 9, i analizy ryzyka kredytowego.
 
 2. Udostępnianie informacji na podstawie ust. 1 może nastąpić, jeżeli instytucja pożyczkowa uzyskała upoważnienie konsumenta, którego dotyczą te dane, na piśmie w postaci papierowej lub w postaci elektronicznej, przesłane na adres do doręczeń elektronicznych, lub utrwalonej na informatycznym nośniku danych w rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019 i 1158). Upoważnienie określa zakres danych przeznaczonych do udostępnienia.
 
-3. Po udostępnieniu danych konsumenta instytucja pożyczkowa obowiązana jest do informowania instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, która otrzymała te dane, o całkowitej spłacie zobowiązań, ich wygaśnięciu, o stwierdzeniu nieistnienia zobowiązania lub korekcie jego wysokości oraz o nowo powstałych zobowiązaniach i ich aktualizacji, w terminie 7 dni od wystąpienia okoliczności uzasadniających przekazanie informacji. Instytucja utworzona na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe obowiązana jest wprowadzić informacje, o których mowa w zdaniu poprzedzającym, do zbioru, w którym są one przetwarzane, w terminie nie dłuższym niż 7 dni od dnia ich otrzymania.
+3. Po udostępnieniu danych konsumenta instytucja pożyczkowa obowiązana jest do informowania instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, która otrzymała te dane, o całkowitej spłacie zobowiązań, ich wygaśnięciu, o stwierdzeniu nieistnienia zobowiązania lub korekcie jego wysokości oraz o nowo powstałych zobowiązaniach i ich aktualizacji, w terminie 7 dni od wystąpienia okoliczności uzasadniających przekazanie informacji. Instytucja utworzona na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe obowiązana jest wprowadzić informacje, o których mowa w zdaniu poprzedzającym, do zbioru, w którym są one przetwarzane, w terminie nie dłuższym niż 7 dni od dnia ich otrzymania.
 
 **Art. 59c.**
 
-1. Instytucja pożyczkowa i podmiot, o którym mowa w art. 59d, oraz osoby w nich zatrudnione, w tym na podstawie umowy o dzieło, umowy zlecenia lub innej umowy o podobnym charakterze, są obowiązane zachować w tajemnicy informacje stanowiące tajemnicę bankową, udostępnione zgodnie z art. 105 ust. 4 pkt 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe. Przetwarzanie tych informacji przez instytucję pożyczkową i podmiot, o którym mowa w art. 59d, może być wykonywane wyłącznie w celu oceny zdolności kredytowej konsumenta, o której mowa w art. 9, i analizy ryzyka kredytowego.
+1. Instytucja pożyczkowa i podmiot, o którym mowa w art. 59d, oraz osoby w nich zatrudnione, w tym na podstawie umowy o dzieło, umowy zlecenia lub innej umowy o podobnym charakterze, są obowiązane zachować w tajemnicy informacje stanowiące tajemnicę bankową, udostępnione zgodnie z art. 105 ust. 4 pkt 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe. Przetwarzanie tych informacji przez instytucję pożyczkową i podmiot, o którym mowa w art. 59d, może być wykonywane wyłącznie w celu oceny zdolności kredytowej konsumenta, o której mowa w art. 9, i analizy ryzyka kredytowego.
 
 2. Obowiązek, o którym mowa w ust. 1, trwa również po zaprzestaniu prowadzenia działalności jako instytucja pożyczkowa oraz po ustaniu stosunków prawnych, o których mowa w ust. 1. Art. 59ca. 1. Środki przeznaczane na udzielanie kredytów konsumenckich przez instytucje pożyczkowe nie mogą pochodzić z działalności polegającej na gromadzeniu środków pieniężnych innych osób fizycznych, osób prawnych lub jednostek organizacyjnych niemających osobowości prawnej, w tym z emisji obligacji lub innych instrumentów dłużnych oraz ze źródeł nieudokumentowanych.
 
@@ -817,7 +875,7 @@ Art. 60–65. (pominięte)
 
 **Art. 59d.**
 
-1. Podmiot mający siedzibę na terytorium państwa będącego członkiem Unii Europejskiej innego niż Rzeczpospolita Polska, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym może, na zasadach przewidzianych w ustawie, prowadzić na terytorium Rzeczypospolitej Polskiej działalność w zakresie udzielania kredytu konsumenckiego, jeżeli spełnia warunki, o których mowa w art. 59a ust. 2–4.
+1. Podmiot mający siedzibę na terytorium państwa będącego członkiem Unii Europejskiej innego niż Rzeczpospolita Polska, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym może, na zasadach przewidzianych w ustawie, prowadzić na terytorium Rzeczypospolitej Polskiej działalność w zakresie udzielania kredytu konsumenckiego, jeżeli spełnia warunki, o których mowa w art. 59a ust. 2–4.
 
 1a. O zamiarze podjęcia na terytorium Rzeczypospolitej Polskiej działalności w zakresie udzielania kredytu konsumenckiego podmiot, o którym mowa w ust. 1, zawiadamia Komisję Nadzoru Finansowego nie później niż na dwa miesiące przed podjęciem tej działalności.
 
@@ -841,7 +899,7 @@ Art. 60–65. (pominięte)
 
 **Art. 59g.**
 
-1. Kto, będąc do tego obowiązanym, nie przekazuje do instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe informacji o całkowitym wykonaniu zobowiązania albo jego wygaśnięciu, stwierdzeniu nieistnienia zobowiązania albo korekcie jego wysokości oraz o nowo powstałych zobowiązaniach w terminie 7 dni od wystąpienia zdarzenia uzasadniającego przekazanie informacji, podlega grzywnie do 30 000 złotych.
+1. Kto, będąc do tego obowiązanym, nie przekazuje do instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe informacji o całkowitym wykonaniu zobowiązania albo jego wygaśnięciu, stwierdzeniu nieistnienia zobowiązania albo korekcie jego wysokości oraz o nowo powstałych zobowiązaniach w terminie 7 dni od wystąpienia zdarzenia uzasadniającego przekazanie informacji, podlega grzywnie do 30 000 złotych.
 
 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, będąc członkiem zarządu podmiotu będącego kredytodawcą w rozumieniu art. 5 pkt 2a lub osobą uprawnioną do jego reprezentacji.
 
@@ -867,5 +925,37 @@ Art. 60–65. (pominięte)
 
 **Art. 67.** Traci moc ustawa z dnia 20 lipca 2001 r. o kredycie konsumenckim (Dz. U. poz. 1081, z późn. zm. ).
 
-**Art. 68.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia . FORMULARZ INFORMACYJNY DOTYCZĄCY KREDYTU KONSUMENCKIEGO FORMULARZ INFORMACYJNY DOTYCZĄCY KREDYTU KONSUMENCKIEGO W RACHUNKU OSZCZĘDNOŚCIOWO-ROZLICZENIOWYM SPOSÓB OBLICZANIA RZECZYWISTEJ ROCZNEJ STOPY OPROCENTOWANIA 1. Rzeczywistą roczną stopę oprocentowania, stanowiącą całkowity koszt kredytu ponoszony przez konsumenta, wyrażony jako wartość procentowa całkowitej kwoty kredytu w stosunku rocznym, kredytodawca lub pośrednik kredytowy oblicza zgodnie z następującym wzorem matematycznym: ∑C (1+X) = ∑D (1+X) 2. Poszczególne litery i symbole użyte we wzorze oznaczają: X rzeczywistą roczną stopę oprocentowania, m numer kolejny ostatniej wypłaty raty kredytu, k numer kolejny wypłaty, zatem 1 ≤ k ≤ m, C kwotę wypłaty k, t okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t = 0, m' numer kolejny ostatniej spłaty lub wnoszonych opłat, l numer kolejny spłaty lub wnoszonych opłat, D kwotę spłaty lub wnoszonych opłat, S okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat. 3. W celu obliczenia rzeczywistej rocznej stopy oprocentowania przyjmuje się następujące założenia:
+**Art. 68.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia . FORMULARZ INFORMACYJNY DOTYCZĄCY KREDYTU KONSUMENCKIEGO FORMULARZ INFORMACYJNY DOTYCZĄCY KREDYTU KONSUMENCKIEGO W RACHUNKU OSZCZĘDNOŚCIOWO-ROZLICZENIOWYM SPOSÓB OBLICZANIA RZECZYWISTEJ ROCZNEJ STOPY OPROCENTOWANIA 1. Rzeczywistą roczną stopę oprocentowania, stanowiącą całkowity koszt kredytu ponoszony przez konsumenta, wyrażony jako wartość procentowa całkowitej kwoty kredytu w stosunku rocznym, kredytodawca lub pośrednik kredytowy oblicza zgodnie z następującym wzorem matematycznym: ∑C (1+X) = ∑D (1+X) 2. Poszczególne litery i symbole użyte we wzorze oznaczają: X – rzeczywistą roczną stopę oprocentowania, m – numer kolejny ostatniej wypłaty raty kredytu, k – numer kolejny wypłaty, zatem 1 ≤ k ≤ m, C – kwotę wypłaty k, t – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t = 0, m' – numer kolejny ostatniej spłaty lub wnoszonych opłat, l – numer kolejny spłaty lub wnoszonych opłat, D – kwotę spłaty lub wnoszonych opłat, S – okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat. 3. W celu obliczenia rzeczywistej rocznej stopy oprocentowania przyjmuje się następujące założenia:
+
+- **1)** umowa o kredyt będzie obowiązywać przez czas, na który została zawarta, a kredytodawca i konsument wypełnią zobowiązania wynikające z umowy o kredyt w terminach określonych w tej umowie;
+- **2)** kwoty wypłacane i spłacane przez strony umowy o kredyt konsumencki nie muszą być równe ani nie muszą być płacone w równych odstępach czasu;
+- **3)** datą początkową będzie data pierwszej wypłaty raty kredytu;
+- **4)** odstępy czasu między datami używanymi w obliczeniach wyrażone będą w latach lub w ułamkach roku, przy czym rok liczy 365 dni, a w przypadku lat przestępnych 366 dni, 52 tygodnie lub dwanaście równych miesięcy. Przyjmuje się, że równy miesiąc ma 30,41666 dni (tj. 365/12), bez względu na to, czy przypada w roku przestępnym, czy nie ;
+- **5)** wynik obliczeń podaje się z dokładnością do co najmniej jednego miejsca po przecinku, przy czym jeżeli cyfra występująca po wybranym przez obliczającego miejscu po przecinku jest mniejsza niż 5, cyfrę tę pomija się, gdy zaś jest większa albo równa 5, cyfrę poprzedzającą zwiększa się o 1;
+- **6)** równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (A ), które mogą być dodatnie lub ujemne – zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach: S = ∑ A (1+ X ) , gdzie: S – oznacza bieżące saldo przepływów; jeżeli celem jest zachowanie równoważności przepływów, wartość ta będzie równa 0.
+
+4. W celu obliczania rzeczywistej rocznej stopy oprocentowania przyjmuje się następujące założenia dodatkowe:
+
+- **1)** jeżeli umowa o kredyt daje konsumentowi swobodę dokonywania wypłat, przyjmuje się, że całkowita kwota kredytu została wypłacona od razu i w całości;
+- **2)** jeżeli umowa o kredyt daje konsumentowi zasadniczo swobodę dokonywania wypłat, ale przewidując różne sposoby dokonywania tych wypłat, wprowadza ograniczenia kwotowe lub czasowe dotyczące kredytu, przyjmuje się, że kwota kredytu została wypłacona w najwcześniejszym przewidzianym w umowie terminie i zgodnie z tymi limitami wypłat;
+- **3)** jeżeli umowa o kredyt przewiduje różne sposoby dokonywania wypłat z zastosowaniem różnych opłat lub różnych stóp oprocentowania kredytu, przyjmuje się, że całkowita kwota kredytu jest wypłacana z zastosowaniem najwyższej możliwej opłaty i stopy oprocentowania kredytu, mających zastosowanie do najbardziej rozpowszechnionych mechanizmów dokonywania wypłat w danym rodzaju umowy o kredyt;
+- **4)** w przypadku kredytu w rachunku oszczędnościowo-rozliczeniowym przyjmuje się, że całkowita kwota kredytu została wypłacona w całości i na cały okres obowiązywania umowy o kredyt. Jeżeli okres, na jaki udzielono kredytu w rachunku oszczędnościowo-rozliczeniowym, nie jest znany, obliczenia rzeczywistej rocznej stopy oprocentowania dokonuje się przy założeniu, że czas trwania kredytu wynosi trzy miesiące;
+- **5)** w przypadku kredytu, innego niż w rachunku oszczędnościowo-rozliczeniowym, podlegającego pełnej spłacie w ciągu jakiegoś okresu lub po jego zakończeniu i w ramach którego, po dokonaniu spłaty, istnieje możliwość dokonania ponownej wypłaty, gdy umowa o kredyt ten zawarta została na czas nieokreślony, zakłada się, że:
+    - **a)** kredytu udziela się na okres jednego roku, począwszy od dnia pierwszej wypłaty, i płatność końcowa dokonana przez konsumenta pokrywa ewentualny kapitał pozostający do spłaty, ewentualne odsetki i inne opłaty,
+    - **b)** kapitał jest spłacany przez konsumenta w równych płatnościach miesięcznych, przy czym pierwsza płatność jest dokonywana po upływie miesiąca od daty pierwszej wypłaty. Jednakże w przypadkach gdy spłata kapitału musi nastąpić w całości, w jednej płatności, w ramach każdorazowego okresu płatności, zakłada się, że kolejne wypłaty i spłaty całego kapitału przez konsumenta następują w okresie jednego roku. Odsetki i inne opłaty stosuje się odpowiednio do tych wypłat i spłat kapitału oraz zgodnie z ustaleniami umowy o kredyt;
+
+- **6)** w przypadku umowy o kredyt inny niż kredyty, o których mowa w pkt 4 i 5:
+    - **a)** jeżeli nie można ustalić terminu lub kwoty spłaty kapitału, do której jest zobowiązany konsument, zakłada się, że spłaty dokonano w najwcześniejszym terminie przewidzianym w umowie o kredyt z zastosowaniem najniższej kwoty przewidzianej w umowie o kredyt,
+    - **b)** jeżeli data zawarcia umowy o kredyt nie jest znana, zakłada się, że dzień pierwszej wypłaty to dzień ustalony na podstawie najkrótszego odstępu czasu między tym dniem a dniem pierwszej płatności, do której jest zobowiązany konsument;
+
+- **7)** jeżeli na podstawie umowy o kredyt lub założeń określonych w pkt 4–6 nie można ustalić terminu lub kwoty płatności, do której jest zobowiązany konsument, zakłada się, że płatności dokonano zgodnie z terminami i warunkami wymaganymi przez kredytodawcę, a jeżeli te nie są znane, zakłada się, że:
+    - **a)** odsetki podlegają zapłacie wraz ze spłatą kapitału,
+    - **b)** opłata inna niż odsetki wyrażona w pojedynczej kwocie podlega zapłacie w dniu zawarcia umowy o kredyt,
+    - **c)** opłaty inne niż odsetki wyrażone jako szereg płatności podlegają zapłacie w regularnych odstępach czasu, począwszy od dnia pierwszej spłaty kapitału, przy czym w przypadku gdy kwoty takich płatności nie są znane, zakłada się, że kwoty te są jednakowe,
+    - **d)** płatność końcowa pokrywa ewentualny kapitał pozostający do spłaty, ewentualne odsetki i inne opłaty;
+
+- **8)** jeżeli maksymalny pułap kredytu nie został ustalony, przyjmuje się, że wynosi on w walucie polskiej równowartość 1500 euro ustaloną z zastosowaniem średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski z dnia obliczania rzeczywistej rocznej stopy oprocentowania;
+- **9)** jeżeli dla danego okresu lub dla danej kwoty oferuje się różne stopy oprocentowania kredytu i różną wysokość opłat, za stopę oprocentowania kredytu i opłaty w całym okresie obowiązywania umowy o kredyt przyjmuje się najwyższą stopę i najwyższe opłaty;
+- **10)** w przypadku umów o kredyt konsumencki, w których ustalono stałą stopę oprocentowania kredytu w odniesieniu do początkowego okresu, na koniec którego ustala się nową stopę oprocentowania, która następnie jest okresowo zmieniana zgodnie z uzgodnionym wskaźnikiem, rzeczywistą roczną stopę oprocentowania oblicza się na podstawie założenia, że po zakończeniu okresu, w którym obowiązuje stała stopa oprocentowania kredytu, stopa oprocentowania kredytu jest taka sama jak w chwili obliczania rzeczywistej rocznej stopy oprocentowania i opiera się na obowiązującej w tym czasie wartości uzgodnionego wskaźnika.
+
 

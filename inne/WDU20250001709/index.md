@@ -8,7 +8,7 @@ pos: 1709
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ochronie roślin przed agrofagami oraz niektórych innych ustaw
@@ -28,6 +28,29 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001709) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1709/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 13 lutego 2020 r. o ochronie roślin przed agrofagami (Dz. U. z 2023 r. poz. 301) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 w ust. 1 w pkt 1 wyraz „trzeci” zastępuje się wyrazem „drugi”;
+- **2)** w art. 33:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Właściwym organem do:
+
+- **1)** wyznaczenia punktów kontroli granicznej, o których mowa w art. 59 rozporządzenia 2017/625, w których przeprowadza się kontrolę urzędową określonych roślin, produktów roślinnych lub innych przedmiotów wprowadzanych z państw trzecich w obszarze, o którym mowa w art. 1 ust. 2 lit. g rozporządzenia 2017/625, zwanych dalej „punktami kontroli granicznej”, wycofania tego wyznaczenia, zawieszenia tego wyznaczenia i nakazania wstrzymania działalności tych punktów oraz odwołania tego zawieszenia jest minister właściwy do spraw rolnictwa;
+- **2)** przeprowadzenia kontroli spełnienia minimalnych wymogów dotyczących punktów kontroli granicznej, o których mowa w art. 64 ust. 3 rozporządzenia 2017/625 i rozporządzeniu wykonawczym Komisji (UE) 2019/1014 z dnia 12 czerwca 2019 r. ustanawiającym szczegółowe przepisy w zakresie minimalnych wymogów dotyczących punktów kontroli granicznej, w tym ośrodków inspekcyjnych, oraz formatu, kategorii i skrótów stosowanych w wykazach punktów kontroli granicznej i punktów kontroli (Dz. Urz. UE L 165 z 21.06.2019, str. 10), zwanym dalej „rozporządzeniem 2019/1014”, jest wojewódzki inspektor właściwy ze względu na lokalizację tych punktów.”,
+    - **b)** uchyla się ust. 3,
+    - **c)** w ust. 4 uchyla się zdanie drugie,
+    - **d)** ust. 5 otrzymuje brzmienie: „5. Zawieszenie punktu kontroli granicznej i nakaz wstrzymania działalności tego punktu kontroli granicznej są dokonywane na wniosek Głównego Inspektora.”,
+    - **e)** w ust. 6 skreśla się wyrazy „lub punktu kontroli, innego niż punkt kontroli granicznej”,
+    - **f)** ust. 7 otrzymuje brzmienie: „7. Zawieszenie punktu kontroli granicznej i nakaz wstrzymania działalności tego punktu kontroli granicznej są skuteczne od dnia następującego po dniu, w którym zostało ogłoszone obwieszczenie, o którym mowa w ust. 6.”,
+    - **g)** w ust. 8 skreśla się wyrazy „lub punktu kontroli, innego niż punkt kontroli granicznej”,
+    - **h)** ust. 9 otrzymuje brzmienie: „9. Główny Inspektor wykonuje obowiązki państwa członkowskiego Unii Europejskiej w zakresie przekazywania informacji, o których mowa w art. 63 ust. 2 i ust. 4 lit. b rozporządzenia 2017/625, dotyczących punktów kontroli granicznej.”;
+
+- **3)** po art. 33 dodaje się art. 33a–33c w brzmieniu: „Art. 33a. 1. Właściwym organem do:
+- **1)** wyznaczenia punktów kontroli innych niż punkty kontroli granicznej, o których mowa w art. 53 ust. 1 lit. a rozporządzenia 2017/625, w których mogą być przeprowadzane kontrole identyfikacyjne i kontrole bezpośrednie przesyłek określonych roślin, produktów roślinnych lub innych przedmiotów wprowadzanych z państw trzecich w obszarze, o którym mowa w art. 1 ust. 2 lit. g rozporządzenia 2017/625, zwanych dalej „punktami kontroli innymi niż punkty kontroli granicznej”, wycofania tego wyznaczenia, zawieszenia tego wyznaczenia i nakazania wstrzymania ich działalności oraz odwołania tego zawieszenia,
+- **2)** przeprowadzenia kontroli spełnienia minimalnych wymogów dotyczących punktów kontroli granicznej, o których mowa w art. 64 ust. 3 rozporządzenia 2017/625 i w rozporządzeniu 2019/1014, mających zastosowanie do punktów kontroli innych niż punkty kontroli granicznej, zgodnie z art. 53 ust. 1 lit. a rozporządzenia 2017/625 – jest wojewódzki inspektor właściwy ze względu na ich lokalizację.
+
+2. Jako punkt kontroli inny niż punkt kontroli granicznej może zostać wyznaczony:
+
+- **1)** obiekt Inspekcji;
+- **2)** obiekt podmiotu innego niż Inspekcja.
 
 **Art. 33b.**
 
@@ -188,6 +211,15 @@ source: "isap-pdf"
 - **2)** co 20 wysyłanej przesyłki – jeżeli eksporter jest wpisany do rejestru zaufanych eksporterów dłużej niż przez rok.
 
 **Art. 51b.** Do rejestru zaufanych eksporterów może zostać wpisany eksporter, który:
+
+- **1)** przez co najmniej 2 lata jest wpisany do urzędowego rejestru podmiotów profesjonalnych prowadzonego przez wojewódzkiego inspektora;
+- **2)** w okresie, o którym mowa w pkt 1:
+    - **a)** składał co roku do wojewódzkiego inspektora wniosek o wydanie fitosanitarnego świadectwa eksportowego lub fitosanitarnego świadectwa reeksportowego dla co najmniej 10 przesyłek,
+    - **b)** nie był karany i nie została na niego nałożona administracyjna kara pieniężna za naruszenie przepisów, o których mowa w art. 1 pkt 1, lub przepisów ustawy;
+
+- **3)** wdrożył zatwierdzoną przez wojewódzkiego inspektora procedurę samodzielnej kontroli roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do określonych państw trzecich przeprowadzanej przez osoby, które:
+    - **a)** posiadają wykształcenie zapewniające wiedzę w zakresie ochrony roślin przed agrofagami niezbędną do prawidłowego przeprowadzania tej kontroli lub
+    - **b)** zdały egzamin potwierdzający posiadanie wiedzy w zakresie ochrony roślin przed agrofagami niezbędnej do prawidłowego przeprowadzania tej kontroli – zwaną dalej „procedurą kontroli”.
 
 **Art. 51c.**
 
@@ -408,9 +440,101 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2021 r. poz. 213) wprowadza się następujące zmiany:
 
+- **1)** w art. 11:
+    - **a)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Wniosek o przyznanie wyłącznego prawa, upoważnienie, o którym mowa w ust. 3 pkt 1, i kwestionariusz techniczny składa się na formularzach udostępnionych na stronie internetowej administrowanej przez Centralny Ośrodek.
+
+3b. Wniosek o przyznanie wyłącznego prawa i załączniki, o których mowa w ust. 3, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 11a ust. 1.”,
+
+- **b)** uchyla się ust. 4;
+- **2)** po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. 1. Dyrektor Centralnego Ośrodka buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosku o przyznanie wyłącznego prawa i załączników, o których mowa w art. 11 ust. 3, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa w ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych w art. 11 ust. 2 i 3, w tym następujących danych osobowych:
+
+- **1)** imienia i nazwiska albo nazwy hodowcy oraz jego adresu i miejsca zamieszkania albo adresu siedziby;
+- **2)** imienia i nazwiska albo nazwy pełnomocnika hodowcy oraz jego adresu i miejsca zamieszkania albo adresu siedziby – w przypadku gdy wniosek o przyznanie wyłącznego prawa składa pełnomocnik hodowcy.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa w ust. 2, w systemie teleinformatycznym, o którym mowa w ust. 1, następuje po uwierzytelnieniu w tym systemie w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703).”;
+
+- **3)** w art. 37 pkt 1 otrzymuje brzmienie: „1) narusza wyłączne prawo do odmiany lub wspólnotowe prawo do ochrony odmian roślin przyznane zgodnie z rozporządzeniem Rady (WE) nr 2100/94 z dnia 27 lipca 1994 r. w sprawie wspólnotowego systemu ochrony odmian roślin (Dz. Urz. WE L 227 z 01.09.1994, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 16, str. 390),”;
+- **4)** w art. 37a pkt 4 otrzymuje brzmienie: „4) nie udziela w wymaganym terminie, na wniosek hodowcy, którego odmiana jest chroniona wyłącznym prawem do odmiany lub wspólnotowym prawem do ochrony odmian roślin, o którym mowa w rozporządzeniu Rady (WE) nr 2100/94 z dnia 27 lipca 1994 r. w sprawie wspólnotowego systemu ochrony odmian roślin, albo na wniosek organizacji hodowców, informacji, o której mowa w art. 23b ust. 1, lub udziela informacji fałszywej,”.
+
 **Art. 3.** W ustawie z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) wprowadza się następujące zmiany:
 
+- **1)** w art. 13 po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Wniosek o wpis odmiany do krajowego rejestru i załączniki, o których mowa w ust. 2 i 3, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 32b ust. 1.”;
+- **2)** w art. 20 dodaje się ust. 9 w brzmieniu: „9. Wniosek o przedłużenie okresu wpisu odmiany w krajowym rejestrze i kopię dowodu uiszczenia opłaty za złożenie tego wniosku, o której mowa w art. 24 ust. 1, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 32b ust. 1.”;
+- **3)** w art. 22 po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Wniosek, o którym mowa w ust. 2, i kopię dowodu uiszczenia opłaty za złożenie wniosku, o której mowa w art. 24 ust. 2, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 32b ust. 1.”;
+- **4)** w art. 30 po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Wniosek o wpis odmiany regionalnej albo odmiany amatorskiej do krajowego rejestru i załączniki, o których mowa w ust. 3 i 4, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 32b ust. 1.”;
+- **5)** po art. 32a dodaje się art. 32b w brzmieniu: „Art. 32b. 1. Dyrektor Centralnego Ośrodka buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosków, o których mowa w art. 13 ust. 1, art. 20 ust. 2, art. 22 ust. 2 i art. 30 ust. 1, i załączników, o których mowa w art. 13 ust. 2 i 3, art. 20 ust. 5, art. 22 ust. 4 i art. 30 ust. 3 i 4, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa w ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych w art. 13 ust. 1–3, art. 20 ust. 2 i 5, art. 22 ust. 3 i 4 oraz art. 30 ust. 2–4, w tym następujących danych osobowych – imienia i nazwiska oraz adresu i miejsca zamieszkania albo nazwy oraz adresu i siedziby wnioskodawcy, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsca i adresu wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa w ust. 2, w systemie teleinformatycznym, o którym mowa w ust. 1, następuje po uwierzytelnieniu w tym systemie w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703).”;
+
+- **6)** w art. 36:
+    - **a)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Wniosek o dokonanie oceny polowej materiału siewnego składa się na formularzu udostępnionym na stronie internetowej administrowanej przez wojewódzki inspektorat ochrony roślin i nasiennictwa.”,
+    - **b)** po ust. 12 dodaje się ust. 12a w brzmieniu: „12a. Wniosek o dokonanie oceny polowej materiału siewnego, upoważnienie zachowującego odmianę do złożenia wniosku w jego imieniu i załączniki, o których mowa w ust. 8, 10 i 11, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 36b ust. 1.”;
+
+- **7)** po art. 36a dodaje się art. 36b w brzmieniu: „Art. 36b. 1. Główny Inspektor buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosków, o których mowa w art. 36 ust. 2, i załączników, o których mowa w art. 36 ust. 8, 10 i 11, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa w ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych w art. 36 ust. 7, 8, 10 i 11 i informacji zawartych w upoważnieniu zachowującego odmianę do złożenia wniosku w jego imieniu, w tym następujących danych osobowych – imienia i nazwiska oraz adresu i miejsca zamieszkania albo nazwy oraz adresu i siedziby wnioskodawcy, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsca i adresu wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby, oraz numeru identyfikacji podatkowej (NIP) prowadzącego obrót, jeżeli został nadany.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa w ust. 2, w systemie teleinformatycznym, o którym mowa w ust. 1, następuje po uwierzytelnieniu w tym systemie w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
+
+- **8)** w art. 57 w ust. 3 uchyla się zdanie drugie;
+- **9)** w art. 71 po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Wniosek o dokonanie oceny polowej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany składa się na formularzu udostępnionym na stronie internetowej administrowanej przez wojewódzki inspektorat ochrony roślin i nasiennictwa.
+
+2b. Wniosek o dokonanie oceny polowej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany i załączniki, o których mowa w ust. 4, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 71a ust. 1.”;
+
+- **10)** po art. 71 dodaje się art. 71a w brzmieniu: „Art. 71a. 1. Główny Inspektor buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosku, o którym mowa w art. 71 ust. 1, i załączników, o których mowa w art. 71 ust. 4, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa w ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych w art. 71 ust. 3 i 4 i informacji zawartych w upoważnieniu zachowującego odmianę do złożenia wniosku w jego imieniu, w tym następujących danych osobowych – imienia i nazwiska oraz adresu i miejsca zamieszkania albo nazwy oraz adresu i siedziby wnioskodawcy, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsca i adresu wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby, oraz numeru identyfikacji podatkowej (NIP) prowadzącego obrót, jeżeli został nadany.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa w ust. 2, w systemie teleinformatycznym, o którym mowa w ust. 1, następuje po uwierzytelnieniu w tym systemie w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
+
 **Art. 4.** W ustawie z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630 oraz z 2025 r. poz. 1168 i 1697) wprowadza się następujące zmiany:
+
+- **1)** po art. 8 dodaje się art. 8a w brzmieniu: „Art. 8a. 1. Przedłużenie okresu ważności zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy w przypadku, o którym mowa w art. 17 i art. 43 ust. 6 rozporządzenia nr 1107/2009, wymaga zgłoszenia ministrowi właściwemu do spraw rolnictwa zamiaru uzyskania takiego przedłużenia przez posiadacza zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy.
+
+2. Zamiar, o którym mowa w ust. 1, zgłasza się ministrowi właściwemu do spraw rolnictwa w terminie co najmniej 30 dni przed upływem okresu ważności zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy.
+
+3. Zgłoszenie, o którym mowa w ust. 1, zawiera:
+
+- **1)** nazwę, siedzibę i adres posiadacza zezwolenia na wprowadzanie środka ochrony roślin do obrotu albo imię, nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę posiadacza pozwolenia na handel równoległy, z tym że w przypadku gdy tym posiadaczem jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **2)** wskazanie nazwy handlowej środka ochrony roślin i numeru oraz daty wydania zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy;
+- **3)** uzasadnienie przedłużenia okresu ważności zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy;
+- **4)** datę i podpis wnioskodawcy.
+
+4. Minister właściwy do spraw rolnictwa potwierdza na piśmie utrwalonym w postaci papierowej lub w postaci elektronicznej okres ważności zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy i udostępnia na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rolnictwa informacje o okresie ważności zezwolenia na wprowadzanie środka ochrony roślin do obrotu lub pozwolenia na handel równoległy i o okresie na zużycie istniejących zapasów środka ochrony roślin.”;
+
+- **2)** w art. 9 w ust. 1 pkt 1 otrzymuje brzmienie: „1) podmiotu upoważnionego na podstawie art. 10 lub organu, o którym mowa w art. 75 ust. 1 lub 2 rozporządzenia nr 1107/2009, o opracowanie oceny, o której mowa w art. 11 ust. 2 lub art. 36 ust. 1 rozporządzenia nr 1107/2009, lub uwag, które należy uwzględnić w tej ocenie, zwanych dalej „oceną lub uwagami”,”;
+- **3)** w art. 10:
+    - **a)** w ust. 3 w pkt 1 w lit. a po wyrazach „lub uwag” dodaje się wyrazy „ , a w przypadku braku doświadczenia, że będą nadzorowane przez osoby posiadające odpowiednie kwalifikacje w zakresie opracowywanej oceny lub uwag”,
+    - **b)** w ust. 5 w pkt 2 po wyrazach „lub uwag” dodaje się wyrazy „ , a w przypadku osób nieposiadających doświadczenia – kopie dokumentów potwierdzających ich wykształcenie”;
+
+- **4)** w art. 13:
+    - **a)** uchyla się ust. 12,
+    - **b)** ust. 14 otrzymuje brzmienie: „14. Zwrot kosztów podróży i zakwaterowania członków Komisji do spraw Środków Ochrony Roślin jest pokrywany z budżetu państwa z części, której dysponentem jest minister właściwy do spraw rolnictwa.”;
+
+- **5)** art. 23 otrzymuje brzmienie: „Art. 23. Środek ochrony roślin, który został wprowadzony do obrotu przed upływem okresu ważności zezwolenia na jego wprowadzanie do obrotu lub pozwolenia na handel równoległy, może pozostawać w obrocie i być unieszkodliwiany, składowany i stosowany do dnia upływu okresu ważności tego zezwolenia na wprowadzanie do obrotu albo tego pozwolenia na handel równoległy, chyba że w zezwoleniu na wprowadzanie środka ochrony roślin do obrotu lub pozwoleniu na handel równoległy, lub w decyzji w sprawie cofnięcia tego zezwolenia na wprowadzanie do obrotu lub tego pozwolenia na handel równoległy określono inaczej.”;
+- **6)** w art. 25:
+    - **a)** w ust. 3: – po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „4a) potwierdzać sprzedaż środków ochrony roślin przeznaczonych do fumigacji zawierających substancje czynne, które mogą stwarzać szczególne zagrożenie dla zdrowia ludzi, zwierząt lub dla środowiska, ostatecznym nabywcom środków ochrony roślin, fakturą w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203 i 1541), zwaną dalej „fakturą”, zawierającą imię, nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę ostatecznego nabywcy tych środków ochrony roślin i dane o ilości sprzedanych temu nabywcy środków ochrony roślin;
+
+- **4b)** prowadzić ewidencję ostatecznych nabywców środków ochrony roślin, o których mowa w pkt 4a, zawierającą następujące informacje:
+    - **a)** dane ostatecznego nabywcy środków ochrony roślin obejmujące: – imię i nazwisko oraz numer zaświadczenia o ukończeniu szkolenia w zakresie stosowania środków ochrony roślin metodą fumigacji albo numer zaświadczenia, o którym mowa w art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin i nazwę podmiotu albo wojewódzkiego inspektora, który wydał to zaświadczenie – jeżeli ostatecznym nabywcą środków ochrony roślin jest osoba fizyczna, – nazwę, siedzibę i adres oraz imię i nazwisko osoby dokonującej ich nabycia i numer zaświadczenia o ukończeniu szkolenia w zakresie stosowania środków ochrony roślin metodą fumigacji albo numer zaświadczenia, o którym mowa w art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin i nazwę podmiotu albo wojewódzkiego inspektora, który wydał to zaświadczenie – jeżeli ostatecznym nabywcą środków ochrony roślin nie jest osoba fizyczna,
+    - **b)** nazwę handlową zbytych środków ochrony roślin i ich ilość,
+    - **c)** datę zbycia środków ochrony roślin;”, – pkt 5 otrzymuje brzmienie: „5) w przypadku składania oferty zbycia środka ochrony roślin ostatecznemu nabywcy w ramach umowy zawartej na odległość w rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172), zwanej dalej „umową na odległość”:
+    - **a)** umieścić w ofercie zbycia tego środka ochrony roślin: – numer wpisu do rejestru, o którym mowa w ust. 1, i kopię zaświadczenia o dokonaniu wpisu do tego rejestru, – informację, że nabycia środków ochrony roślin mogą dokonać jedynie osoby pełnoletnie, które spełniają warunki wymagane od osób nabywających środki ochrony roślin określone w art. 28,
+    - **b)** wymagać podania przez osobę dokonującą nabycia na terytorium Rzeczypospolitej Polskiej środków ochrony roślin przeznaczonych dla użytkowników profesjonalnych: – imienia i nazwiska, – numeru zaświadczenia o ukończeniu szkolenia w zakresie środków ochrony roślin albo numeru zaświadczenia, o którym mowa w art. 64 ust. 10, potwierdzającego posiadanie uprawnień do nabycia tych środków ochrony roślin, – nazwy podmiotu, który wydał zaświadczenie o ukończeniu szkolenia w zakresie środków ochrony roślin, albo wojewódzkiego inspektora, który wydał zaświadczenie, o którym mowa w art. 64 ust. 10, – terminu ważności zaświadczenia o ukończeniu szkolenia w zakresie środków ochrony roślin albo zaświadczenia, o którym mowa w art. 64 ust. 10.”,
+    - **b)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. Ewidencja, o której mowa w ust. 3 pkt 4b, jest prowadzona w celu realizacji przez Państwową Inspekcję Ochrony Roślin i Nasiennictwa jej ustawowych zadań, a informacji w niej zawartych nie wykorzystuje się w innym celu.
+
+4b. Informacje zawarte w ewidencji, o której mowa w ust. 3 pkt 4b, przechowuje się przez 5 lat.”,
+
+- **c)** dodaje się ust. 7 w brzmieniu: „7. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wykaz substancji czynnych zawartych w środkach ochrony roślin przeznaczonych do fumigacji, które mogą stwarzać szczególne zagrożenie dla zdrowia ludzi, zwierząt lub dla środowiska, w odniesieniu do których jest wymagane potwierdzenie fakturą ich sprzedaży ostatecznym nabywcom środków ochrony roślin i prowadzenie ewidencji ostatecznych nabywców tych środków ochrony roślin, mając na względzie ograniczenie ryzyka dla zdrowia ludzi, zwierząt lub dla środowiska wynikającego ze stosowania do fumigacji środków ochrony roślin zawierających te substancje czynne.”;
+- **7)** w art. 28:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Środki ochrony roślin przeznaczone dla użytkowników profesjonalnych inne niż środki ochrony roślin, o których mowa w art. 25 ust. 3 pkt 4a, mogą być zbywane osobom, które spełniają następujące warunki:”,
+    - **b)** w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) posiadają pisemne upoważnienie do nabycia środków ochrony roślin udzielone przez osobę spełniającą warunki określone w pkt 1, 2, 3 lub 4.”;
+
+- **8)** po art. 28 dodaje się art. 28a i art. 28b w brzmieniu: „Art. 28a. Środki ochrony roślin, o których mowa w art. 25 ust. 3 pkt 4a, mogą być zbywane osobom, które ukończyły szkolenie w zakresie stosowania środków ochrony roślin metodą fumigacji w Rzeczypospolitej Polskiej potwierdzone zaświadczeniem o ukończeniu tego szkolenia. Wymagania tego nie stosuje się wobec osób, o których mowa w art. 64 ust. 7, przez okres, o którym mowa w art. 64 ust. 8.
 
 **Art. 28b.**
 
@@ -605,7 +729,44 @@ source: "isap-pdf"
 
 **Art. 5.** W ustawie z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. z 2021 r. poz. 24) wprowadza się następujące zmiany:
 
+- **1)** w art. 6 dodaje się ust. 3 w brzmieniu: „3. Produkty biobójcze, na które wydano pozwolenie, zezwolenie na handel równoległy albo pozwolenie na obrót, są udostępniane na rynku do stosowania:
+- **1)** profesjonalnego – przez użytkownika będącego osobą fizyczną, która stosuje produkt biobójczy w celach innych niż własne niezarobkowe potrzeby, w tym w ramach działalności gospodarczej lub zawodowej;
+- **2)** powszechnego – przez użytkownika będącego osobą fizyczną, która stosuje produkt biobójczy w celach związanych z własnymi niezarobkowymi potrzebami.”;
+- **2)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. 1. Produkty biobójcze przeznaczone do fumigacji, zawierające substancje czynne, które mogą stwarzać szczególne zagrożenie dla zdrowia ludzi, zwierząt lub dla środowiska, wymienione w wykazie określonym w przepisach wydanych na podstawie art. 25 ust. 7 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630 oraz z 2025 r. poz. 1168, 1697 i 1709):
+- **1)** są udostępniane na rynku do stosowania profesjonalnego wyłącznie osobom, które:
+    - **a)** ukończyły szkolenie, o którym mowa w art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin,
+    - **b)** posiadają zaświadczenie o ukończeniu szkolenia, o którym mowa w art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin, i okażą to zaświadczenie podczas zakupu tych produktów;
+
+- **2)** mogą być stosowane wyłącznie przez osoby spełniające warunki określone w pkt 1.
+
+2. Przedsiębiorca wykonujący działalność gospodarczą polegającą na udostępnianiu na rynku produktów biobójczych określonych w ust. 1 jest obowiązany:
+
+- **1)** potwierdzać sprzedaż tych produktów biobójczych fakturą w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203 i 1541) zawierającą imię, nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę nabywcy tych produktów biobójczych, dane o ilości sprzedanych produktów biobójczych i numer ich partii;
+- **2)** prowadzić ewidencję nabywców tych produktów biobójczych zawierającą:
+    - **a)** następujące dane nabywcy produktów biobójczych: – imię i nazwisko oraz numer zaświadczenia potwierdzającego ukończenie przez tego nabywcę szkolenia, o którym mowa w art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin – jeżeli tym nabywcą jest osoba fizyczna, – nazwę, siedzibę i adres, a w przypadku gdy nabycia tych produktów biobójczych dokonuje na rzecz nabywcy inna osoba – imię i nazwisko osoby dokonującej zakupu produktu biobójczego na rzecz tego nabywcy i numer zaświadczenia potwierdzającego ukończenie przez tę osobę szkolenia, o którym mowa w art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin – jeżeli tym nabywcą nie jest osoba fizyczna,
+    - **b)** nazwę produktu biobójczego i numer pozwolenia, zezwolenia na handel równoległy albo pozwolenia na obrót,
+    - **c)** ilość produktu biobójczego, numer jego partii i datę produkcji,
+    - **d)** datę sprzedaży produktu biobójczego.
+
+3. Ewidencja, o której mowa w ust. 2 pkt 2, jest prowadzona w celu wykonywania zadań ustawowych przez organy wymienione w art. 39 ust. 1. Informacje zawarte w ewidencji przechowuje się przez 5 lat.
+
+4. Produkty biobójcze określone w ust. 1 nie mogą być udostępniane na rynku w ramach umowy zawartej na odległość w rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172).”;
+
+- **3)** po art. 45 dodaje się art. 45a w brzmieniu: „Art. 45a. 1. Kto:
+- **1)** udostępnia produkty biobójcze określone w art. 6a ust. 1 z naruszeniem warunków określonych w tym przepisie, lub
+- **2)** nie potwierdza sprzedaży produktów biobójczych określonych w art. 6a ust. 1 fakturą zawierającą informacje i dane określone w art. 6a ust. 2 pkt 1 lub nie prowadzi ewidencji nabywców produktów biobójczych zgodnie z art. 6a ust. 2 lub 3, lub
+- **3)** udostępnia na rynku produkty biobójcze określone w art. 6a ust. 1 w ramach umowy zawartej na odległość w rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta – podlega karze grzywny w wysokości do 30 000 zł.
+
+2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).”.
+
 **Art. 6.** W ustawie z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. z 2023 r. poz. 1992) w art. 32:
+
+- **1)** ust. 5 otrzymuje brzmienie: „5. Organy Krajowej Administracji Skarbowej współpracują z Inspekcją i dokonują wymiany informacji, w tym danych objętych tajemnicą skarbową, oraz udostępniają nieodpłatnie te informacje w zakresie niezbędnym do wykonywania zadań Inspekcji, w tym do:
+- **1)** przeprowadzania kontroli i wydawania decyzji;
+- **2)** przeprowadzania oceny ryzyka, o której mowa w art. 24 ust. 2 rozporządzenia 2017/625.”;
+- **2)** w ust. 6 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „3) nazwę, ilość, termin i miejsce wprowadzania roślin, produktów roślinnych lub innych przedmiotów z państw trzecich lub miejsce ich składowania na terytorium Rzeczypospolitej Polskiej, a także inne informacje i dane niezbędne do wykonywania zadań Inspekcji związanych z ochroną roślin przed agrofagami lub z nadzorem nad obrotem materiałem siewnym;
+- **4)** nazwę lub opis nawozów lub środków wspomagających uprawę roślin, o których mowa w ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2024 r. poz. 105), lub nazwę lub kategorię funkcji produktów nawozowych UE, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2019/1009 z dnia 5 czerwca 2019 r. ustanawiającym przepisy dotyczące udostępniania na rynku produktów nawozowych UE, zmieniającym rozporządzenia (WE) nr 1069/2009 i (WE) nr 1107/2009 oraz uchylającym rozporządzenie (WE) nr 2003/2003 (Dz. Urz. UE L 170 z 25.06.2019, str. 1, z późn. zm. ), oraz termin i miejsce ich wprowadzania z państw trzecich lub miejsce ich składowania na terytorium Rzeczypospolitej Polskiej, a także inne informacje i dane niezbędne do wykonywania zadań Inspekcji związanych z nadzorem nad wprowadzaniem do obrotu nawozów, środków wspomagających uprawę roślin i produktów nawozowych UE, o których mowa w ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu.”;
+- **3)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Informacje, o których mowa w ust. 5, mogą być przekazywane za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) lub na informatycznym nośniku danych w rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703), zapisane w edytowalnej postaci elektronicznej.”.
 
 **Art. 7.**
 

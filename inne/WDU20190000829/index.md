@@ -8,10 +8,10 @@ pos: 829
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 maja 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 829 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/829/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 kwietnia 2019 r.
-w sprawie wzoru wniosku o zmianę zezwolenia na wytwarzanie lub import produktów leczniczych Na podstawie art. 39 ust. 5 pkt 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499 i 399) zarządza się, co następuje: § 1. Wzór wniosku o zmianę zezwolenia na wytwarzanie lub import produktów leczniczych jest określony w załączniku do rozporządzenia.
+w sprawie wzoru wniosku o zmianę zezwolenia na wytwarzanie lub import produktów leczniczych Na podstawie art. 39 ust. 5 pkt 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499 i 399) zarządza się, co następuje:
+§ 1. Wzór wniosku o zmianę zezwolenia na wytwarzanie lub import produktów leczniczych jest określony w załączniku do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko Załącznik do rozporządzenia Ministra Zdrowia z dnia 29 kwietnia 2019 r. (poz. …) WZÓR WNIOSEK □ O ZMIANĘ ZEZWOLENIA NA WYTWARZANIE PRODUKTÓW LECZNICZYCH □ O ZMIANĘ ZEZWOLENIA NA IMPORT PRODUKTÓW LECZNICZYCH
+Minister Zdrowia: wz. J. Szczurek-Żelazko Załącznik do rozporządzenia Ministra Zdrowia z dnia 29 kwietnia 2019 r. (poz. …) WZÓR WZÓR WNIOSEK □ O ZMIANĘ ZEZWOLENIA NA WYTWARZANIE PRODUKTÓW LECZNICZYCH □ O ZMIANĘ ZEZWOLENIA NA IMPORT PRODUKTÓW LECZNICZYCH
 1. DANE DOTYCZĄCE WNIOSKODAWCY:
-1) firma oraz adres i miejsce zamieszkania albo firma oraz adres i siedziba podmiotu ubiegającego się o zezwolenie, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ………………...............................................................................................................................................………..
+1) firma oraz adres i miejsce zamieszkania albo firma oraz adres i siedziba podmiotu ubiegającego się o zezwolenie, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ………………...............................................................................................................................................………..
 ………...............................................................................................................................................………………..
 .....................................................................................................................................................................................
 2) numer identyfikacji podatkowej (NIP): ……………………………………………………………………………………………………………………….
@@ -42,7 +42,6 @@ albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Dzia
 ….............................................................................................................................................…………………….
 …….............................................................................................................................................………………….
 ….............................................................................................................................................…………………….
-WZÓR
 3. INFORMACJA O ZAKRESIE WYTWARZANIA LUB IMPORTU PRODUKTÓW LECZNICZYCH (wypełnić i podpisać odrębnie dla każdego miejsca wytwarzania i importu, nie dotyczy przypadku, gdy obie działalności wykonywane są w jednym miejscu) Nazwa i adres miejsca wytwarzania lub importu (Name and address of the site): (wypełnić odrębnie w przypadku wytwarzania produktów leczniczych przeznaczonych dla ludzi i wytwarzania produktów leczniczych weterynaryjnych, jeżeli dotyczy) ……………………………………………………………………………………………………………………….
 ……………………………………………………………………………………………………………………….
 □ Produkty lecznicze przeznaczone dla ludzi (Human Medicinal Products) □ Produkty lecznicze weterynaryjne (Veterinary Medicinal Products) ZAKRES OBJĘTY ZEZWOLENIEM (AUTHORISED OPERATIONS) (wskazać zakres będący przedmiotem wytwarzania lub importu produktu leczniczego) □ Wytwarzanie produktu leczniczego (Manufacturing Operations) □ Import produktu leczniczego (Importation of Medicinal Products)
@@ -288,13 +287,13 @@ Badane produkty lecznicze przeznaczone dla ludzi (Human Investigational Medicina
 2.3.4 Inne: wymienić (Other <free text>) Zastrzeżenia lub uwagi wyjaśniające dotyczące operacji importowych (Any restrictions or clarifying remarks related to the scope of these Importing operations) ……………………………………………………………………………………………………………………….
 ……………………………………………………………………………………………………………………….
 5. LISTA PRODUKTÓW LECZNICZYCH WYTWARZANYCH W DANYM MIEJSCU WYTWARZANIA (wypełnić odrębnie w przypadku wytwarzania produktów leczniczych przeznaczonych dla ludzi i produktów leczniczych weterynaryjnych, jeżeli dotyczy) Nazwa i adres miejsca wytwarzania (Name and address of the site): ………………………………………………..……………………………………………………………………...
-………………………………………………………………….…………………………………………………… ………………………………………………………………………….…………………………………………… Lp. Nazwa produktu leczniczego: □ przeznaczonego dla ludzi □ weterynaryjnego Dawka i nazwa Postać farmaceutyczna Uwagi substancji czynnej produktu 1 2 3 4 5
+………………………………………………………………….…………………………………………………… ………………………………………………………………………….…………………………………………… Lp. Nazwa produktu Dawka i nazwa Postać farmaceutyczna Uwagi leczniczego: substancji czynnej produktu □ przeznaczonego dla ludzi □ weterynaryjnego 1 2 3 4 5
 6. LISTA PRODUKTÓW LECZNICZYCH IMPORTOWANYCH DO DANEGO MIEJSCA IMPORTU (wypełnić odrębnie w przypadku importu produktów leczniczych przeznaczonych dla ludzi i produktów leczniczych weterynaryjnych, jeżeli dotyczy) Nazwa i adres miejsca importu (Name and address of the site): …………………………………………….…………..………………………………………………..…..……….
-…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa produktu leczniczego: □ przeznaczonego dla ludzi □ weterynaryjnego Dawka Postać Produkt: i nazwa farmaceutyczna □ końcowy substancji produktu czynnej □ pośredni □ luzem □ w opakowaniu bezpośrednim Uwagi 1 2 3 4 5 6
+…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa produktu Dawka Postać Produkt: Uwagi leczniczego: i nazwa farmaceutyczna □ końcowy □ przeznaczonego dla substancji produktu □ pośredni ludzi czynnej □ luzem □ weterynaryjnego □ w opakowaniu bezpośrednim 1 2 3 4 5 6
 7. LISTA BADANYCH PRODUKTÓW LECZNICZYCH WYTWARZANYCH W DANYM MIEJSCU WYTWARZANIA Nazwa i adres miejsca importu (Name and address of the site): …………………………………………….…………..………………………………………………..…..……….
-…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa: □ badanego produktu leczniczego □ produktu referencyjnego □ placebo Dawka Postać Pozostałe miejsca Uwagi i nazwa farmaceutyczna wytwarzania badanego substancji badanego produktu produktu leczniczego czynnej, oraz realizowane jeżeli w danym miejscu etapy dotyczy wytwarzania 1 2 3 4 5 6
+…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa: Dawka Postać Pozostałe miejsca Uwagi □ badanego i nazwa farmaceutyczna wytwarzania badanego produktu leczniczego substancji badanego produktu produktu leczniczego □ produktu czynnej, oraz realizowane referencyjnego jeżeli w danym miejscu etapy □ placebo dotyczy wytwarzania 1 2 3 4 5 6
 8. LISTA BADANYCH PRODUKTÓW LECZNICZYCH IMPORTOWANYCH DO DANEGO MIEJSCA IMPORTU Nazwa i adres miejsca importu (Name and address of the site): …………………………………………….…………..………………………………………………..…..……….
-…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa Dawka Postać Produkt: badanego i nazwa farmaceutyczna □ końcowy produktu substancji badanego leczniczego czynnej produktu leczniczego □ pośredni □ luzem □ w opakowaniu bezpośrednim Pozostałe miejsca importu badanego produktu leczniczego oraz realizowane w danym miejscu czynności Uwagi 1 2 3 4 5 6 7
+…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa Dawka Postać Produkt: Pozostałe miejsca Uwagi badanego i nazwa farmaceutyczna □ końcowy importu badanego produktu substancji badanego □ pośredni produktu leczniczego czynnej produktu □ luzem leczniczego oraz leczniczego □ w opakowaniu realizowane bezpośrednim w danym miejscu czynności 1 2 3 4 5 6 7
 9. PODPIS WNIOSKODAWCY Data, nazwisko i imię przedsiębiorcy albo pełnomocnika .....................................................................................................................................................................................
 .....................................................................................................................................................................................
 ———————————

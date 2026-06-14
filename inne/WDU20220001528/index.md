@@ -1,0 +1,37 @@
+---
+title: "Rozporządzenie Prezesa Rady Ministrów z dnia 13 lipca 2022 r. zmieniające rozporządzenie w sprawie wykazu stanowisk, wymaganych kwalifikacji oraz zasad wynagradzania pracowników Instytutu Europy Środkowej"
+address: WDU20220001528
+eli: DU/2022/1528
+publisher: DU
+year: 2022
+pos: 1528
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1528 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 13 lipca 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1528 |
+| ISAP | WDU20220001528 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2022-07-13 |
+| Data wydania | 2022-07-21 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001528) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1528/text.pdf) |
+
+zmieniające rozporządzenie w sprawie wykazu stanowisk, wymaganych kwalifikacji oraz zasad wynagradzania pracowników Instytutu Europy Środkowej Na podstawie art. 9 ust. 4 ustawy z dnia 9 listopada 2018 r. o Instytucie Europy Środkowej (Dz. U. poz. 2270) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 6 lutego 2019 r. w sprawie wykazu stanowisk, wymaganych kwalifikacji oraz zasad wynagradzania pracowników Instytutu Europy Środkowej (Dz. U. poz. 234) wprowadza się następujące zmiany:
+1) w § 3 ust. 2 otrzymuje brzmienie: „2. Z tytułu okresowego zwiększenia zakresu obowiązków służbowych lub powierzenia dodatkowych zadań albo ze względu na charakter pracy lub warunki wykonywania pracy Dyrektor Instytutu może przyznać pracownikowi, z wyłączeniem głównego księgowego, dodatek specjalny.”;
+2) § 4 otrzymuje brzmienie: „§ 4. W ramach posiadanych środków na wynagrodzenia Dyrektor Instytutu może przyznawać pracownikom, o których mowa w § 1 pkt 2, z wyłączeniem głównego księgowego, nagrody za szczególne osiągnięcia w pracy zawodowej.”;
+3) w załączniku do rozporządzenia część II. Tabela kwalifikacji i wynagrodzenia zasadniczego pracowników Instytutu Europy Środkowej otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. Przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do ustalania wysokości wynagrodzenia od dnia 1 stycznia 2022 r.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Prezes Rady Ministrów: M. Morawiecki II. TABELA KWALIFIKACJI I WYNAGRODZENIA ZASADNICZEGO PRACOWNIKÓW INSTYTUTU EUROPY ŚRODKOWEJ Lp. A. B. C.
+Stanowisko Wymagane kwalifikacje Wynagrodzenie zasadnicze w złotych PRACOWNICY ZARZĄDZAJĄCY 1 Dyrektor oddziału wykształcenie wyższe, 3-letnie doświadczenie 8000 – 10 500 zamiejscowego Instytutu w zarządzaniu zespołami pracowniczymi 2 Główny księgowy według odrębnych przepisów 5500 – 10 000 PRACOWNICY ZATRUDNIENI NA STANOWISKACH BADAWCZO-ANALITYCZNYCH 3 Kierownik komórki wykształcenie wyższe, 3 lata stażu pracy, 5500 – 10 000 organizacyjnej znajomość języka obcego 4 Koordynator projektu wykształcenie wyższe, 3 lata stażu pracy, 4500–8500 znajomość języka obcego 5 Główny analityk wykształcenie wyższe, 3 lata stażu pracy, 4000–7500 znajomość języka obcego 6 Starszy analityk wykształcenie wyższe, 2 lata stażu pracy, od wysokości minimalnego znajomość języka obcego wynagrodzenia za pracę –6000 7 Analityk wykształcenie wyższe, znajomość języka obcego od wysokości minimalnego wynagrodzenia za pracę –5500 PRACOWNICY ZATRUDNIENI NA STANOWISKACH ADMINISTRACYJNO-FINANSOWYCH 8 Główny specjalista wykształcenie wyższe, 3 lata stażu pracy 3500–6500 9 Starszy specjalista wykształcenie wyższe, 3 lata stażu pracy od wysokości minimalnego wynagrodzenia za pracę –6000 10 Specjalista wykształcenie wyższe od wysokości minimalnego wynagrodzenia za pracę –5500 11 Starszy referent wykształcenie średnie od wysokości minimalnego wynagrodzenia za pracę –5000 12 Referent wykształcenie średnie od wysokości minimalnego wynagrodzenia za pracę –4500 13 Pracownik obsługi wykształcenie podstawowe od wysokości minimalnego wynagrodzenia za pracę –4000
+

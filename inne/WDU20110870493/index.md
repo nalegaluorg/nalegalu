@@ -8,7 +8,7 @@ pos: 493
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 21/3/A/2011 WYROK z dnia 12 kwietnia 2011 r.

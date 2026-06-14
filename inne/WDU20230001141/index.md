@@ -8,10 +8,10 @@ pos: 1141
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Poz. 11114411 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 31 maja 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11114411 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 31 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1141/text.pdf) |
 
-sprawie równorzędności stopni policyjnych, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Więziennej stopni wojskowych ze stopniami służbowymi Straży Granicznej Na podstawie art. 61 ust. 4 ustawy z dnia 12 października 1990 r. Straży Granicznej (Dz. U. z 2023 r. poz. 1080
-1088) zarządza się, co następuje: § 1. Równorzędność stopni policyjnych, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Więziennej stopni wojskowych ze stopniami służbowymi Straży Granicznej jest określona załączniku do rozporządzenia.
-§ 2. Traci moc rozporządzenie Rady Ministrów z dnia 23 stycznia 2019 r. sprawie równorzędności stopni policyjnych, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Więziennej stopni wojskowych ze stopniami służbowymi Straży Granicznej (Dz. U. poz. 228).
-§ 3. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+w sprawie równorzędności stopni policyjnych, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Więziennej i stopni wojskowych ze stopniami służbowymi Straży Granicznej Na podstawie art. 61 ust. 4 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080 i 1088) zarządza się, co następuje:
+§ 1. Równorzędność stopni policyjnych, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Więziennej i stopni wojskowych ze stopniami służbowymi Straży Granicznej jest określona w załączniku do rozporządzenia.
+§ 2. Traci moc rozporządzenie Rady Ministrów z dnia 23 stycznia 2019 r. w sprawie równorzędności stopni policyjnych, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Więziennej i stopni wojskowych ze stopniami służbowymi Straży Granicznej (Dz. U. poz. 228).
+§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Prezes Rady Ministrów: M. Morawiecki
 

@@ -8,10 +8,10 @@ pos: 805
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 czerwca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 805 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 10 czerwca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000805) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/805/text.pdf) |
 
-Poz. 805 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 10 czerwca 2015 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Zwiększanie wartości dodanej podstawowej produkcji rolnej i leśnej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 173 oraz z 2015 r. poz. 349) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Zwiększanie wartości dodanej podstawowej produkcji rolnej i leśnej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2014 r.
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Zwiększanie wartości dodanej podstawowej produkcji rolnej i leśnej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 173 oraz z 2015 r. poz. 349) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Zwiększanie wartości dodanej podstawowej produkcji rolnej i leśnej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2014 r.
 poz. 261) wprowadza się następujące zmiany:
 1) w § 3:
 a) w ust. 3 w pkt 3 część wspólna otrzymuje brzmienie: „– lecz nie później niż do dnia 30 września 2015 r.;”,

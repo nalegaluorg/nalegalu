@@ -8,7 +8,7 @@ pos: 214
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin
@@ -33,7 +33,7 @@ o utworzeniu Wojewódzkich Kolegiów Skarbowych oraz o zmianie niektórych ustaw
 2) kontroli, szczególnego nadzoru podatkowego, wymiaru i poboru podatku akcyzowego, lub
 3) kontroli przestrzegania legalności wykonywania pracy przez cudzoziemców – którego stosunek pracy przekształcił się w stosunek służbowy na podstawie art. 22b ustawy z dnia 24 lipca 1999 r. o Służbie Celnej albo art. 99 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej.
 2. Jako okres równorzędny ze służbą w Służbie Celno-Skarbowej traktuje się okres zatrudnienia w jednostkach organizacyjnych Krajowej Administracji Skarbowej od dnia przekształcenia stosunku służby w stosunek pracy na podstawie art. 171 ust. 1 pkt 2 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej do dnia przekształcenia tego stosunku pracy w stosunek służbowy na podstawie art. 150 ustawy z dnia 16 listopada 2016 r.
-o Krajowej Administracji Skarbowej, w wymiarze niewiększym niż 8 lat i 7 miesięcy, 1 stycznia 2026 r.
+o Krajowej Administracji Skarbowej, w wymiarze niewiększym niż 8 lat i 7 miesięcy, jeżeli przekształcenie stosunku pracy w stosunek służbowy nastąpiło przed dniem 1 stycznia 2026 r.
 3. Podstawą zaliczenia do wysługi emerytalnej okresów, o których mowa w ust. 1 i 2, jest wydane przez kierownika jednostki organizacyjnej Krajowej Administracji Skarbowej zaświadczenie potwierdzające prawo do zaliczenia wskazanych w tym zaświadczeniu okresów zatrudnienia do okresów równorzędnych ze służbą w Służbie Celnej lub Służbie Celno-Skarbowej.
 4. Zaświadczenie, o którym mowa w ust. 3, jest wydawane na wniosek złożony przez funkcjonariusza albo emeryta w terminie do dnia 30 czerwca 2026 r. do kierownika jednostki organizacyjnej Krajowej Administracji Skarbowej:
 1) w której funkcjonariusz pełni służbę w dniu składania wniosku;
@@ -46,7 +46,7 @@ Art. 52–56. (pominięte)
 
 1. Funkcjonariuszom Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej, zwanym dalej „funkcjonariuszami”, zwolnionym ze służby, przysługuje z budżetu państwa, na zasadach określonych w ustawie, zaopatrzenie emerytalne z tytułu wysługi lat lub w razie całkowitej niezdolności do służby, a członkom ich rodzin – w razie śmierci żywiciela.
 
-2. Zaopatrzenie emerytalne, o którym mowa w ust. 1, przysługuje również funkcjonariuszom Służby Celnej, którzy zostali mianowani do Służby Celnej po dniu 14 września 1999 r. lub których stosunek pracy został przekształcony w stosunek służbowy na podstawie art. 22b ustawy z dnia 24 lipca 1999 r. o Służbie Celnej (Dz. Służbie Celnej (Dz. U. z 2016 r. poz. 1799 i 1948).
+2. Zaopatrzenie emerytalne, o którym mowa w ust. 1, przysługuje również funkcjonariuszom Służby Celnej, którzy zostali mianowani do Służby Celnej po dniu 14 września 1999 r. lub których stosunek pracy został przekształcony w stosunek służbowy na podstawie art. 22b ustawy z dnia 24 lipca 1999 r. o Służbie Celnej (Dz. U. z 2004 r. poz. 1641, z późn. zm. ) lub art. 99 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2016 r. poz. 1799 i 1948).
 
 **Art. 2.**
 
@@ -76,7 +76,7 @@ Art. 52–56. (pominięte)
 - **4)** renta rodzinna – policyjną rentę rodzinną;
 - **5)** rencista – rencistę policyjnego;
 - **6)** renta – policyjną rentę inwalidzką i policyjną rentę rodzinną;
-- **7)** wysługa emerytalna – okresy służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej lub Służbie także okresy im równorzędne, łącznie z okresami, o których mowa w art. 14 i art. 16;
+- **7)** wysługa emerytalna – okresy służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej lub Służbie Więziennej, z wyjątkiem okresów zawieszenia w czynnościach służbowych, a także okresy im równorzędne, łącznie z okresami, o których mowa w art. 14 i art. 16;
 - **8)** uposażenie – uposażenie zasadnicze wraz z dodatkami o charakterze stałym i nagrodą roczną, należne funkcjonariuszowi stosownie do przepisów o uposażeniu i nagrodach funkcjonariuszy;
 - **9)** najniższa emerytura lub renta – kwotę najniższej emerytury lub renty w rozumieniu ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672 oraz z 2024 r. poz. 834 i 858), zwanej dalej „ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”;
 - **10)** okresy składkowe i nieskładkowe – okresy uregulowane ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
@@ -87,9 +87,42 @@ Art. 52–56. (pominięte)
 
 3. Rencistą policyjnym jest funkcjonariusz zwolniony ze służby w Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej lub w Służbie Więziennej, który ma ustalone prawo do policyjnej renty inwalidzkiej.
 
-**Art. 4.** Okresy służby funkcjonariuszy, którzy nie nabywają prawa do zaopatrzenia emerytalnego na podstawie ustawy, oraz służby określonej w art. 13 ust. 2 uważa się za okres składkowy w myśl przepisów ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. uposażenie należne funkcjonariuszowi na ostatnio zajmowanym stanowisku, z zastrzeżeniem ust. 2–4 i art. 33b. 1a. Podstawę wymiaru emerytury funkcjonariusza Straży Marszałkowskiej, Służby Celnej lub Służby Celno-Skarbowej stanowi średnie uposażenie lub wynagrodzenie należne przez okres kolejnych 10 lat kalendarzowych wybranych przez funkcjonariusza, z zastrzeżeniem ust. 3 i 4 i art. 33b. Przepisy art. 18f ust. 2–3 i 5 stosuje się odpowiednio. 1b. Świadczenia teleinformatycznego, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2023 r. poz. 667 oraz z 2024 r. poz. 834), nie wlicza się do podstawy wymiaru emerytury lub renty inwalidzkiej, o której mowa w ust. 1 lub 1a. 1c. Świadczenie za długoletnią służbę, o którym mowa w:
+**Art. 4.** Okresy służby funkcjonariuszy, którzy nie nabywają prawa do zaopatrzenia emerytalnego na podstawie ustawy, oraz służby określonej w art. 13 ust. 2 uważa się za okres składkowy w myśl przepisów ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
+**Art. 5.**
+
+1. Podstawę wymiaru emerytury lub renty inwalidzkiej stanowi uposażenie należne funkcjonariuszowi na ostatnio zajmowanym stanowisku, z zastrzeżeniem ust. 2–4 i art. 33b.
+
+1a. Podstawę wymiaru emerytury funkcjonariusza Straży Marszałkowskiej, Służby Celnej lub Służby Celno-Skarbowej stanowi średnie uposażenie lub wynagrodzenie należne przez okres kolejnych 10 lat kalendarzowych wybranych przez funkcjonariusza, z zastrzeżeniem ust. 3 i 4 i art. 33b. Przepisy art. 18f ust. 2–3 i 5 stosuje się odpowiednio.
+
+1b. Świadczenia teleinformatycznego, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2023 r. poz. 667 oraz z 2024 r. poz. 834), nie wlicza się do podstawy wymiaru emerytury lub renty inwalidzkiej, o której mowa w ust. 1 lub 1a.
+
+1c. Świadczenie za długoletnią służbę, o którym mowa w:
+
+- **1)** art. 120d ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145),
+- **2)** art. 117f ust. 1 i 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915),
+- **3)** art. 97f ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 127),
+- **4)** art. 125b ust. 1 i 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812),
+- **5)** art. 99c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2024 r. poz. 184),
+- **6)** art. 83c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 2098),
+- **7)** art. 208g ust. 1 i 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860),
+- **8)** art. 226a ust. 1 i 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ),
+- **9)** art. 172d ust. 1 i 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2024 r. poz. 325),
+- **10)** art. 81b ust. 1 i 2 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2023 r. poz. 1729) – wlicza się do podstawy wymiaru emerytury lub renty inwalidzkiej po osiągnięciu 32 lat wysługi emerytalnej.
+
+2. Podstawę wymiaru renty inwalidzkiej dla funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej w służbie kandydackiej stanowi odpowiednie uposażenie zasadnicze przewidziane dla najniższego stanowiska służbowego wraz z dodatkiem za posiadany stopień, z miesiąca, w którym nastąpiło zwolnienie funkcjonariusza ze służby.
+
+3. Jeżeli w okresie między zwolnieniem ze służby funkcjonariusza a ustaleniem prawa do emerytury lub renty inwalidzkiej przypadały waloryzacje emerytur i rent inwalidzkich, podstawę wymiaru tych świadczeń podwyższa się wskaźnikami wszystkich kolejnych waloryzacji przypadających w tym okresie.
+
+4. Przy ustalaniu podstawy wymiaru emerytury lub renty inwalidzkiej nie uwzględnia się zmniejszenia wysokości uposażenia, o którym mowa w ust. 1 i 1a, w związku z przebywaniem na zwolnieniu lekarskim, urlopie macierzyńskim, urlopie na warunkach urlopu macierzyńskiego, uzupełniającym urlopie macierzyńskim, urlopie ojcowskim, urlopie rodzicielskim, urlopie opiekuńczym oraz urlopie wychowawczym.
 
 **Art. 6.** Emerytury i renty oraz podstawy ich wymiaru podlegają waloryzacji na zasadach i w terminach przewidzianych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z tym że:
+
+- **1)** waloryzacja, o której mowa w art. 88 tej ustawy, obejmuje emerytury i renty osób:
+    - **a)** którym prawo do świadczenia ustalono przed dniem 1 marca,
+    - **b)** które nabyły prawo do renty rodzinnej po funkcjonariuszach zmarłych nie później niż w ostatnim dniu lutego.
+
+- **2)** (uchylony)
 
 **Art. 7.**
 
@@ -97,7 +130,7 @@ Art. 52–56. (pominięte)
 
 - **1)** emerytury lub renty przewidzianych w odrębnych przepisach albo
 - **2)** uposażenia w stanie spoczynku lub uposażenia rodzinnego przewidzianych w odrębnych przepisach, albo
-- **3)** świadczenia pieniężnego, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658) – wypłaca się świadczenie wyższe albo wybrane przez osobę uprawnioną, jeżeli przepisy szczególne nie stanowią inaczej.
+- **3)** świadczenia pieniężnego, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658) – wypłaca się świadczenie wyższe albo wybrane przez osobę uprawnioną, jeżeli przepisy szczególne nie stanowią inaczej.
 
 2. Wybór świadczenia przewidzianego w odrębnych przepisach nie pozbawia osoby uprawnionej innych świadczeń i uprawnień przysługujących emerytom i rencistom policyjnym.
 
@@ -117,7 +150,8 @@ Art. 52–56. (pominięte)
 
 1. Minister właściwy do spraw wewnętrznych, w drodze decyzji, w szczególnie uzasadnionych przypadkach, może wyłączyć stosowanie art. 15c, art. 22a i art. 24a w stosunku do osób pełniących służbę, o której mowa w art. 13b, ze względu na:
 
-- **1)** krótkotrwałą służbę przed dniem 31 lipca 1990 r. oraz szczególności z narażeniem zdrowia i życia.
+- **1)** krótkotrwałą służbę przed dniem 31 lipca 1990 r. oraz
+- **2)** rzetelne wykonywanie zadań i obowiązków po dniu 12 września 1989 r., w szczególności z narażeniem zdrowia i życia.
 
 2. Do osób, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 15, art. 22 i art. 24.
 
@@ -133,7 +167,7 @@ Art. 52–56. (pominięte)
 
 4. W przypadku, o którym mowa w ust. 2, emeryt albo rencista nabywa prawo do świadczeń pieniężnych z ubezpieczenia emerytalnego i rentowych, jeżeli spełnia warunki określone w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-5. Przy ustalaniu prawa do świadczeń pieniężnych z ubezpieczenia emerytalnego i rentowych osoby, o której mowa w ust. 1 lub 2, która osiągnęła wiek emerytalny wynoszący co najmniej 60 lat dla kobiet i co najmniej 65 lat dla mężczyzn, uwzględnia składkowe i nieskładkowe ustalone na zasadach określonych w art. 5–7 i 10 ustawy, o której mowa w ust. 4, są krótsze od okresu wymaganego do przyznania tych świadczeń.
+5. Przy ustalaniu prawa do świadczeń pieniężnych z ubezpieczenia emerytalnego i rentowych osoby, o której mowa w ust. 1 lub 2, która osiągnęła wiek emerytalny wynoszący co najmniej 60 lat dla kobiet i co najmniej 65 lat dla mężczyzn, uwzględnia się również okresy pobierania emerytury lub renty inwalidzkiej, jeżeli okresy składkowe i nieskładkowe ustalone na zasadach określonych w art. 5–7 i 10 ustawy, o której mowa w ust. 4, są krótsze od okresu wymaganego do przyznania tych świadczeń.
 
 **Art. 10a.**
 
@@ -153,7 +187,7 @@ Art. 52–56. (pominięte)
 
 2. Funkcjonariusze Biura Ochrony Rządu nabywają prawo do świadczeń pieniężnych z zaopatrzenia emerytalnego na warunkach określonych w przepisach obowiązujących w dniu zwolnienia ze służby.
 
-**Art. 11.** W sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, Kodeksu ministracji.
+**Art. 11.** W sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, Kodeksu postępowania administracyjnego oraz przepisy o postępowaniu egzekucyjnym w administracji.
 
 ### DZIAŁ II Świadczenia pieniężne
 
@@ -173,7 +207,8 @@ Art. 52–56. (pominięte)
 
 - **1)** okresy służby w charakterze funkcjonariusza Urzędu Ochrony Państwa lub Biura Ochrony Rządu;
 - **1a)** okresy służby w charakterze funkcjonariusza Policji państwowej, Milicji Obywatelskiej, z wyjątkiem służby określonej w ust. 2;
-- **1b)** (uchylony) 1c) okresy służby na rzecz totalitarnego państwa, o której mowa w art. 13b, na zasadach określonych w art. 15c, z wyjątkiem służby określonej w ust. 2; przekształcenia stosunku pracy w stosunek służby w przypadku, gdy osoba, która wykonywała zadania przypisane dla Służby Celnej, otrzymała akt mianowania skutkujący tym przekształceniem;
+- **1b)** (uchylony) 1c) okresy służby na rzecz totalitarnego państwa, o której mowa w art. 13b, na zasadach określonych w art. 15c, z wyjątkiem służby określonej w ust. 2;
+- **1d)** okresy zatrudnienia funkcjonariuszy od dnia 15 września 1999 r. do dnia przekształcenia stosunku pracy w stosunek służby w przypadku, gdy osoba, która wykonywała zadania przypisane dla Służby Celnej, otrzymała akt mianowania skutkujący tym przekształceniem;
 - **2)** służbę wojskową uwzględnianą przy ustalaniu prawa do emerytury wojskowej;
 - **3)** okresy służby w charakterze funkcjonariusza Służby Ochrony Kolei, jeżeli funkcjonariusz przeszedł bezpośrednio do służby w Milicji Obywatelskiej lub w Służbie Więziennej w terminie do dnia 1 kwietnia 1955 r.;
 - **4)** okresy zatrudnienia lub służby w zawodowych jednostkach ochrony przeciwpożarowej i nauki w szkołach pożarniczych, w charakterze członka Korpusu Technicznego Pożarnictwa, a także funkcjonariusza pożarnictwa w terminie do dnia 31 stycznia 1992 r.;
@@ -185,7 +220,9 @@ Art. 52–56. (pominięte)
 - **7)** okresy zatrudnienia w Inspekcji Celnej;
 - **8)** okresy zatrudnienia, o których mowa w art. 18ga ust. 1 i 2, wskazane w zaświadczeniu, o którym mowa w art. 18ga ust. 3.
 
-2. Przepisu ust. 1 nie stosuje się do służby w latach 1944–1956 w charakterze funkcjonariusza organów bezpieczeństwa państwa, porządku i bezpieczeństwa publicznego, jeżeli przy wykonywaniu czynności służbowych funkcjonariusz popełnił przestępstwo przeciwko wymiarowi sprawiedliwości lub naruszające dobra osobiste obywatela i za to został zwolniony dyscyplinarnie, umorzono wobec niego postępowanie karne ze względu na znikomy lub nieznaczny stopień społecznego niebezpieczeństwa czynu lub został skazany z winy umyślnej prawomocnym wyrokiem sądu. rozdziału okresów, o których mowa w ust. 1 pkt 5, nie traktuje się jako okresów równorzędnych ze służbą osobie, która przed dniem 1 stycznia 2013 r. nie pełniła służby w Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej, Służbie Więziennej lub zawodowej lub kandydackiej służbie wojskowej lub służby, o której mowa w ust. 1 pkt 1a, 1c, 3 i 4, lub nie posiada okresów zatrudnienia, o których mowa w ust. 1 pkt 4.
+2. Przepisu ust. 1 nie stosuje się do służby w latach 1944–1956 w charakterze funkcjonariusza organów bezpieczeństwa państwa, porządku i bezpieczeństwa publicznego, jeżeli przy wykonywaniu czynności służbowych funkcjonariusz popełnił przestępstwo przeciwko wymiarowi sprawiedliwości lub naruszające dobra osobiste obywatela i za to został zwolniony dyscyplinarnie, umorzono wobec niego postępowanie karne ze względu na znikomy lub nieznaczny stopień społecznego niebezpieczeństwa czynu lub został skazany z winy umyślnej prawomocnym wyrokiem sądu.
+
+3. Przy ustalaniu prawa do emerytury i jej wysokości na podstawie niniejszego rozdziału okresów, o których mowa w ust. 1 pkt 5, nie traktuje się jako okresów równorzędnych ze służbą osobie, która przed dniem 1 stycznia 2013 r. nie pełniła służby w Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej, Służbie Więziennej lub zawodowej lub kandydackiej służbie wojskowej lub służby, o której mowa w ust. 1 pkt 1a, 1c, 3 i 4, lub nie posiada okresów zatrudnienia, o których mowa w ust. 1 pkt 4.
 
 **Art. 13a.**
 
@@ -203,7 +240,11 @@ Art. 52–56. (pominięte)
 
 5. Informacja o przebiegu służby, o której mowa w ust. 1, jest równoważna z zaświadczeniem o przebiegu służby sporządzanym na podstawie akt osobowych przez właściwe organy służb, o których mowa w art. 12.
 
-6. Do informacji, o której mowa w ust. 1, nie stosuje się przepisów Kodeksu postępowania administracyjnego. 22 lipca 1944 r. do dnia 31 lipca 1990 r. w niżej wymienionych cywilnych i wojskowych instytucjach i formacjach:
+6. Do informacji, o której mowa w ust. 1, nie stosuje się przepisów Kodeksu postępowania administracyjnego.
+
+**Art. 13b.**
+
+1. Za służbę na rzecz totalitarnego państwa uznaje się służbę od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. w niżej wymienionych cywilnych i wojskowych instytucjach i formacjach:
 
 - **1)** Resort Bezpieczeństwa Publicznego Polskiego Komitetu Wyzwolenia Narodowego;
 - **2)** Ministerstwo Bezpieczeństwa Publicznego;
@@ -211,18 +252,20 @@ Art. 52–56. (pominięte)
 - **4)** jednostki organizacyjne podległe organom, o których mowa w pkt 1–3, a w szczególności jednostki Milicji Obywatelskiej w okresie do dnia 14 grudnia 1954 r.;
 - **5)** służby i jednostki organizacyjne Ministerstwa Spraw Wewnętrznych, i ich poprzedniczki, oraz ich odpowiedniki terenowe:
     - **a)** nadzorujące prace jednostek wypełniających zadania: wywiadowcze, kontrwywiadowcze, Służby Bezpieczeństwa, czynności operacyjnotechniczne niezbędne w działalności Służby Bezpieczeństwa, odpowiedzialne za szkolnictwo, dyscyplinę, kadry i ideowo-wychowawcze aspekty pracy w służbie bezpieczeństwa: – Gabinet Ministra Spraw Wewnętrznych, – Główny Inspektorat Ministra Spraw Wewnętrznych, z wyłączeniem Zespołu do spraw Milicji Obywatelskiej w wojewódzkich komendach Milicji Obywatelskiej oraz w wojewódzkich urzędach spraw wewnętrznych, – Wojskowa Służba Wewnętrzna Jednostek Wojskowych MSW, – Zarząd Ochrony Funkcjonariuszy,
-    - **b)** wypełniające zadania wywiadowcze i kontrwywiadowcze: – Departament I, – Departament II, – Biuro Paszportów, od dnia 1 kwietnia 1964 r., – Biuro „A”, – Biuro Szyfrów, – Biuro Radiokontrwywiadu, – wydziały paszportów, od dnia 15 lipca 1964 r., – Zwiad Wojsk Ochrony Pogranicza, – Inspektorat I, – samodzielne grupy specjalne, – Departament Ochrony Konstytucyjnego Porządku Państwa, – Departament Ochrony Gospodarki, – Departament Studiów i Analiz, – Departament III, – Departament IV, – Departament V, – Departament VI, – Główny Inspektorat Ochrony Przemysłu, od dnia 27 listopada 1981 r., – Biuro Śledcze, – Departament Społeczno-Administracyjny, – Biuro Studiów Służby Bezpieczeństwa, – Biuro Rejestracji Cudzoziemców, – Zarząd Kontroli Ruchu Granicznego, – Biuro Ochrony Rządu, – Samodzielna Sekcja Operacyjno-Ochronna, – Inspektorat Operacyjnej Ochrony Elektrowni Jądrowej w Żarnowcu,
+    - **b)** wypełniające zadania wywiadowcze i kontrwywiadowcze: – Departament I, – Departament II, – Biuro Paszportów, od dnia 1 kwietnia 1964 r., – Biuro „A”, – Biuro Szyfrów, – Biuro Radiokontrwywiadu, – wydziały paszportów, od dnia 15 lipca 1964 r., – Zwiad Wojsk Ochrony Pogranicza, – Inspektorat I, – samodzielne grupy specjalne,
+    - **c)** wypełniające zadania Służby Bezpieczeństwa: – Departament Ochrony Konstytucyjnego Porządku Państwa, – Departament Ochrony Gospodarki, – Departament Studiów i Analiz, – Departament III, – Departament IV, – Departament V, – Departament VI, – Główny Inspektorat Ochrony Przemysłu, od dnia 27 listopada 1981 r., – Biuro Śledcze, – Departament Społeczno-Administracyjny, – Biuro Studiów Służby Bezpieczeństwa, – Biuro Rejestracji Cudzoziemców, – Zarząd Kontroli Ruchu Granicznego, – Biuro Ochrony Rządu, – Samodzielna Sekcja Operacyjno-Ochronna, – Inspektorat Operacyjnej Ochrony Elektrowni Jądrowej w Żarnowcu,
     - **d)** wykonujące czynności operacyjno-techniczne niezbędne w działalności Służby Bezpieczeństwa: – Biuro „B”, – Biuro Informatyki, – Biuro „C”, – Biuro „T”, w tym Zakład Techniki Operacyjnej, – Departament Techniki, w tym Zakład Konstrukcji Sprzętu Operacyjnego, – Biuro „W”, – Departament PESEL, – Zarząd Łączności, od dnia 1 stycznia 1984 r., – Wydział Zabezpieczenia Operacyjnego, – Samodzielna Stacja „P”, – Inspektorat Analityczno-Informacyjny,
-    - **e)** odpowiedzialne za szkolnictwo, dyscyplinę, kadry i ideowo-wychowawcze aspekty pracy w Służbie Bezpieczeństwa: – Departament Kadr, z wyłączeniem terenowych odpowiedników jako całości w wojewódzkich, powiatowych i równorzędnych komendach równorzędnych urzędach spraw wewnętrznych, – Departament Szkolenia i Wychowania, z wyłączeniem terenowych odpowiedników jako całości w wojewódzkich, powiatowych i równorzędnych komendach Milicji Obywatelskiej oraz w wojewódzkich, rejonowych i równorzędnych urzędach spraw wewnętrznych, – Zarząd Polityczno-Wychowawczy, – Biuro Historyczne, – Akademia Spraw Wewnętrznych, a w jej ramach kadra naukowodydaktyczna, naukowa i naukowo-techniczna pełniąca służbę w Wydziale Bezpieczeństwa Państwa Akademii Spraw Wewnętrznych oraz na etatach Służby Bezpieczeństwa, a także słuchacze i studenci, którzy przed skierowaniem do Akademii Spraw Wewnętrznych pełnili służbę, o której mowa w pkt 5 i 6 oraz ust. 2 pkt 1, – Centrum Wyszkolenia Ministerstwa Spraw Wewnętrznych w Legionowie, a w jego ramach kadra naukowo-dydaktyczna, naukowa, naukowo-techniczna oraz słuchacze i studenci, – Wyższa Szkoła Oficerska Ministerstwa Spraw Wewnętrznych w Legionowie, a w jej ramach kadra naukowo-dydaktyczna, naukowa, naukowo-techniczna oraz słuchacze i studenci, – Szkoła Chorążych Biura „B”, a w jej ramach kadra naukowodydaktyczna, naukowa, naukowo-techniczna oraz słuchacze i studenci, – Szkoła Chorążych Milicji Obywatelskiej z siedzibą w Warszawie, a w jej ramach kadra naukowo-dydaktyczna, naukowa, naukowotechniczna oraz słuchacze i studenci, – Wydział Pracy Operacyjnej w Ośrodku Doskonalenia Kadry Kierowniczej MSW w Łodzi, a w jego ramach kadra naukowodydaktyczna, naukowa oraz naukowo-techniczna, – Samodzielna Sekcja Kadr, – Samodzielna Sekcja Kadr i Szkolenia, – Samodzielna Sekcja Informacji i Sprawozdawczości, – Samodzielna Sekcja Ogólno-Organizacyjna;
+    - **e)** odpowiedzialne za szkolnictwo, dyscyplinę, kadry i ideowo-wychowawcze aspekty pracy w Służbie Bezpieczeństwa: – Departament Kadr, z wyłączeniem terenowych odpowiedników jako całości w wojewódzkich, powiatowych i równorzędnych komendach Milicji Obywatelskiej oraz w wojewódzkich, rejonowych i równorzędnych urzędach spraw wewnętrznych, – Departament Szkolenia i Wychowania, z wyłączeniem terenowych odpowiedników jako całości w wojewódzkich, powiatowych i równorzędnych komendach Milicji Obywatelskiej oraz w wojewódzkich, rejonowych i równorzędnych urzędach spraw wewnętrznych, – Zarząd Polityczno-Wychowawczy, – Biuro Historyczne, – Akademia Spraw Wewnętrznych, a w jej ramach kadra naukowodydaktyczna, naukowa i naukowo-techniczna pełniąca służbę w Wydziale Bezpieczeństwa Państwa Akademii Spraw Wewnętrznych oraz na etatach Służby Bezpieczeństwa, a także słuchacze i studenci, którzy przed skierowaniem do Akademii Spraw Wewnętrznych pełnili służbę, o której mowa w pkt 5 i 6 oraz ust. 2 pkt 1, – Centrum Wyszkolenia Ministerstwa Spraw Wewnętrznych w Legionowie, a w jego ramach kadra naukowo-dydaktyczna, naukowa, naukowo-techniczna oraz słuchacze i studenci, – Wyższa Szkoła Oficerska Ministerstwa Spraw Wewnętrznych w Legionowie, a w jej ramach kadra naukowo-dydaktyczna, naukowa, naukowo-techniczna oraz słuchacze i studenci, – Szkoła Chorążych Biura „B”, a w jej ramach kadra naukowodydaktyczna, naukowa, naukowo-techniczna oraz słuchacze i studenci, – Szkoła Chorążych Milicji Obywatelskiej z siedzibą w Warszawie, a w jej ramach kadra naukowo-dydaktyczna, naukowa, naukowotechniczna oraz słuchacze i studenci, – Wydział Pracy Operacyjnej w Ośrodku Doskonalenia Kadry Kierowniczej MSW w Łodzi, a w jego ramach kadra naukowodydaktyczna, naukowa oraz naukowo-techniczna, – Samodzielna Sekcja Kadr, – Samodzielna Sekcja Kadr i Szkolenia, – Samodzielna Sekcja Informacji i Sprawozdawczości, – Samodzielna Sekcja Ogólno-Organizacyjna;
 
-- **6)** jednostki organizacyjne Ministerstwa Obrony Narodowej i ich poprzedniczki: informacji Powszechnej Organizacji „Służba Polsce” oraz Organa informacji Wojskowego Korpusu Górniczego,
+- **6)** jednostki organizacyjne Ministerstwa Obrony Narodowej i ich poprzedniczki:
+    - **a)** Informacja Wojskowa oraz podległe jej jednostki terenowe, w tym Organa informacji Powszechnej Organizacji „Służba Polsce” oraz Organa informacji Wojskowego Korpusu Górniczego,
     - **b)** Wojskowa Służba Wewnętrzna, w tym Zarząd Wojskowej Służby Wewnętrznej Korpusu Bezpieczeństwa Wewnętrznego i Wojsk Ochrony Pogranicza i jego poprzedniczki,
     - **c)** Zarząd II Sztabu Generalnego Wojska Polskiego,
     - **d)** inne służby Sił Zbrojnych prowadzące działania operacyjno-rozpoznawcze lub dochodzeniowo-śledcze, w tym w rodzajach broni oraz w okręgach wojskowych.
 
 2. Za służbę na rzecz totalitarnego państwa uznaje się również:
 
-- **1)** służbę na etacie: Bezpieczeństwa przez funkcjonariuszy pełniących służbę, o której mowa w pkt 1 i ust. 1;
+- **1)** służbę na etacie:
     - **a)** Ministra Spraw Wewnętrznych,
     - **b)** funkcjonariusza nadzorującego służby i jednostki organizacyjne wymienione w ust. 1 pkt 5,
     - **c)** komendanta wojewódzkiego, zastępcy komendanta wojewódzkiego, powiatowego, miejskiego lub dzielnicowego do spraw bezpieczeństwa, zastępcy komendanta wojewódzkiego, powiatowego, miejskiego lub dzielnicowego do spraw Służby Bezpieczeństwa, zastępcy szefa wojewódzkiego, rejonowego, miejskiego lub dzielnicowego urzędu spraw wewnętrznych do spraw Służby Bezpieczeństwa,
@@ -232,9 +275,13 @@ Art. 52–56. (pominięte)
     - **g)** starszego inspektora przy zastępcy komendanta wojewódzkiego do spraw Służby Bezpieczeństwa,
     - **h)** słuchacza na kursach Służby Bezpieczeństwa, organizowanych przez jednostki i szkoły wchodzące w skład Ministerstwa Spraw Wewnętrznych;
 
+- **2)** okres odbywania szkolenia zawodowego w szkołach i na kursach Służby Bezpieczeństwa przez funkcjonariuszy pełniących służbę, o której mowa w pkt 1 i ust. 1;
 - **3)** okres oddelegowania funkcjonariuszy pełniących służbę, o której mowa w pkt 1 i ust. 1, do innych instytucji państwowych, w tym przeniesienia na etaty niejawne w kraju lub poza granicami Polskiej Rzeczypospolitej Ludowej.
 
 **Art. 13c.** Za służbę na rzecz totalitarnego państwa nie uznaje się służby w rozumieniu art. 13b:
+
+- **1)** która rozpoczęła się po raz pierwszy nie wcześniej niż w dniu 12 września 1989 r.;
+- **2)** której obowiązek wynikał z przepisów o powszechnym obowiązku obrony.
 
 **Art. 14.**
 
@@ -250,7 +297,9 @@ Art. 52–56. (pominięte)
 2. Okresy, o których mowa w ust. 1, dolicza się do wysługi emerytalnej, jeżeli:
 
 - **1)** emerytura wynosi mniej niż 75 % podstawy jej wymiaru oraz
-- **2)** emeryt ukończył 55 lat życia – mężczyzna i 50 lat życia – kobieta albo stał się inwalidą. emerytalnej po ich przeliczeniu na okres zatrudnienia w pełnym wymiarze czasu pracy.
+- **2)** emeryt ukończył 55 lat życia – mężczyzna i 50 lat życia – kobieta albo stał się inwalidą.
+
+3. Okresy zatrudnienia, o których mowa w ust. 1 pkt 1, dolicza się do wysługi emerytalnej po ich przeliczeniu na okres zatrudnienia w pełnym wymiarze czasu pracy.
 
 4. Za każdy rok okresów, o których mowa w ust. 1, doliczanych do wysługi emerytalnej w myśl ust. 1–3 emeryturę obliczoną na podstawie art. 15 lub art. 15e zwiększa się o 1,3 % podstawy jej wymiaru.
 
@@ -276,6 +325,7 @@ Art. 52–56. (pominięte)
     - **a)** w składzie personelu latającego na samolotach i śmigłowcach,
     - **b)** w składzie załóg nawodnych jednostek pływających,
     - **c)** w charakterze skoczków spadochronowych i saperów,
+    - **d)** w służbie wywiadowczej za granicą;
 
 - **3)** 0,5 % podstawy za każdy rok służby pełnionej w warunkach szczególnie zagrażających życiu i zdrowiu.
 
@@ -294,11 +344,9 @@ Art. 52–56. (pominięte)
 6. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki podwyższania emerytury, o których mowa w ust. 2 i 3, uwzględniając dla poszczególnych grup normy roczne: przebywania pod wodą i w podwyższonym ciśnieniu dla nurków i płetwonurków, wykonywania lotu w składzie personelu latającego na samolotach tłokowych i śmigłowcach, wykonania skoków spadochronowych, okres pełnienia służby na jednostkach pływających; liczbę dni w roku:
 
 - **1)** w rozminowaniu i oczyszczaniu terenu z przedmiotów wybuchowych, w służbie wywiadowczej za granicą z wykonywaniem czynności operacyjno-rozpoznawczych lub kierowaniem takimi czynnościami, działaniach ratowniczych, w fizycznej ochronie osób i mienia w warunkach zagrożenia,
-- **2)** bezpośredniej ochrony i opieki nad osadzonymi w oddziałach dla nosicieli wirusa HIV, dla osadzonych wymagających stosowania szczególnych środków leczniczo-wychowawczych i osadzonych szczególnie niebezpiecznych w okresie do dnia 31 sierpnia 1998 r. oraz w oddziałach dla osadzonych niebezpiecznych i w oddziałach terapeutycznych dla skazanych z zaburzeniami psychicznymi lub upośledzonych umysłowo po dniu 1 września 1998 r., oraz okresy pełnienia służby na froncie w czasie wojny i w strefie działań wojennych. pierwszy po dniu 1 stycznia 1999 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta na zasadach określonych w art. 15 ust. 1 pkt 1 i ust. 2–5. Art. 15aa. 1. Emerytura dla funkcjonariusza, który został przyjęty do służby po raz pierwszy w okresie po dniu 1 stycznia 1999 r. i przed dniem 1 października 2003 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta o 2,6 % podstawy wymiaru za każdy dalszy rok tej służby.
+- **2)** bezpośredniej ochrony i opieki nad osadzonymi w oddziałach dla nosicieli wirusa HIV, dla osadzonych wymagających stosowania szczególnych środków leczniczo-wychowawczych i osadzonych szczególnie niebezpiecznych w okresie do dnia 31 sierpnia 1998 r. oraz w oddziałach dla osadzonych niebezpiecznych i w oddziałach terapeutycznych dla skazanych z zaburzeniami psychicznymi lub upośledzonych umysłowo po dniu 1 września 1998 r., oraz okresy pełnienia służby na froncie w czasie wojny i w strefie działań wojennych.
 
-2. Emeryturę podwyższa się na zasadach określonych w art. 15 ust. 2–5.
-
-3. Emerytura dla funkcjonariusza, o którym mowa w ust. 1, który w dniu zwolnienia ze służby posiada co najmniej 25 lat służby i okresów z nią równorzędnych, o których mowa w art. 13 ust. 1 pkt 1, 1d, 2 lub 5–8, wzrasta również o 1,3 % podstawy wymiaru za każdy rok poprzedzających służbę:
+**Art. 15a.** Emerytura dla funkcjonariusza, który został przyjęty do służby po raz pierwszy po dniu 1 stycznia 1999 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta na zasadach określonych w art. 15 ust. 1 pkt 1 i ust. 2–5. Art. 15aa. 1. Emerytura dla funkcjonariusza, który został przyjęty do służby po raz pierwszy w okresie po dniu 1 stycznia 1999 r. i przed dniem 1 października 2003 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta o 2,6 % podstawy wymiaru za każdy dalszy rok tej służby. 2. Emeryturę podwyższa się na zasadach określonych w art. 15 ust. 2–5. 3. Emerytura dla funkcjonariusza, o którym mowa w ust. 1, który w dniu zwolnienia ze służby posiada co najmniej 25 lat służby i okresów z nią równorzędnych, o których mowa w art. 13 ust. 1 pkt 1, 1d, 2 lub 5–8, wzrasta również o 1,3 % podstawy wymiaru za każdy rok poprzedzających służbę:
 
 - **1)** okresów składkowych;
 - **2)** okresów opłacania składek na ubezpieczenia emerytalne i rentowe po dniu 31 grudnia 1998 r. lub okresów nieopłacania składek z powodu przekroczenia w trakcie roku kalendarzowego kwoty rocznej podstawy wymiaru składek na te ubezpieczenia.
@@ -311,7 +359,7 @@ Art. 52–56. (pominięte)
 
 7. Ponowne ustalenie wysokości emerytury przez doliczenie nieuwzględnionych dotychczas w wymiarze świadczenia okresów, o których mowa w ust. 4, następuje z uwzględnieniem pełnych miesięcy na wniosek zgłoszony nie wcześniej niż po zakończeniu kwartału kalendarzowego, jeżeli emeryt pozostaje w ubezpieczeniu, chyba że ubezpieczenie ustało w kwartale kalendarzowym.
 
-8. W razie przyznania podwyższenia, o którym mowa w ust. 3, lub zwiększenia, o którym mowa w ust. 6, umowa między członkiem otwartego funduszu emerytalnego otwartym funduszu emerytalnym są niezwłocznie przekazywane na dochody budżetu państwa.
+8. W razie przyznania podwyższenia, o którym mowa w ust. 3, lub zwiększenia, o którym mowa w ust. 6, umowa między członkiem otwartego funduszu emerytalnego a tym funduszem ulega rozwiązaniu, a środki zgromadzone na rachunku członka w otwartym funduszu emerytalnym są niezwłocznie przekazywane na dochody budżetu państwa.
 
 9. Przekazanie środków, o których mowa w ust. 8, na dochody budżetu państwa następuje na podstawie zawiadomienia organu emerytalnego. Art. 15ab. 1. Funkcjonariusz, o którym mowa w art. 15aa, ma prawo wyboru sposobu ustalenia emerytury na zasadach i w wysokości określonych w art. 15a albo w art. 15aa, albo w art. 15d.
 
@@ -332,7 +380,9 @@ Art. 52–56. (pominięte)
 
 3. Wysokość emerytury ustalonej zgodnie z ust. 1 i 2 nie może być wyższa niż miesięczna kwota przeciętnej emerytury wypłaconej przez Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych, ogłoszonej przez Prezesa Zakładu Ubezpieczeń Społecznych.
 
-4. W celu ustalenia wysokości emerytury, zgodnie z ust. 1–3, organ emerytalny występuje do Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu z wnioskiem o sporządzenie informacji, o której mowa w art. 13a ust. 1. przepisach, udowodni, że przed rokiem 1990, bez wiedzy przełożonych, podjęła współpracę i czynnie wspierała osoby lub organizacje działające na rzecz niepodległości Państwa Polskiego.
+4. W celu ustalenia wysokości emerytury, zgodnie z ust. 1–3, organ emerytalny występuje do Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu z wnioskiem o sporządzenie informacji, o której mowa w art. 13a ust. 1.
+
+5. Przepisów ust. 1–3 nie stosuje się, jeżeli osoba, o której mowa w tych przepisach, udowodni, że przed rokiem 1990, bez wiedzy przełożonych, podjęła współpracę i czynnie wspierała osoby lub organizacje działające na rzecz niepodległości Państwa Polskiego.
 
 6. W przypadku, o którym mowa w ust. 5, środkiem dowodowym może być zarówno informacja, o której mowa w art. 13a ust. 1, jak i inne dowody, w szczególności wyrok skazujący, choćby nieprawomocny, za działalność polegającą na podjęciu, bez wiedzy przełożonych, czynnej współpracy z osobami lub organizacjami działającymi na rzecz niepodległości Państwa Polskiego w okresie służby na rzecz totalitarnego państwa, o której mowa w art. 13b.
 
@@ -340,7 +390,7 @@ Art. 52–56. (pominięte)
 
 8. Do obliczenia miesięcznej kwoty przeciętnej emerytury, o której mowa w ust. 3, przyjmuje się kwoty wszystkich jednostkowych emerytur, wypłacanych przez Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych, przed odliczeniem składki na ubezpieczenie zdrowotne oraz zaliczki i innych należności z tytułu podatku dochodowego od osób fizycznych, a także przed dokonaniem zmniejszeń z tytułu zawieszalności oraz przed dokonaniem potrąceń i egzekucji. Kwoty, o których mowa w zdaniu pierwszym, oblicza się bez kwot wyrównań oraz dodatków i innych świadczeń pieniężnych przysługujących do emerytury.
 
-9. Miesięczna kwota przeciętnej emerytury wypłaconej przez Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych, ogłoszona przez zasadach i w terminach przewidzianych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+9. Miesięczna kwota przeciętnej emerytury wypłaconej przez Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych, ogłoszona przez Prezesa Zakładu Ubezpieczeń Społecznych zgodnie z ust. 7, podlega waloryzacji na zasadach i w terminach przewidzianych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 10. Prezes Zakładu Ubezpieczeń Społecznych ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji obowiązującą od tego terminu kwotę, o której mowa w ust. 9.
 
@@ -358,7 +408,7 @@ Art. 52–56. (pominięte)
 
 4. Zasady określone w ust. 1 i 2 dotyczą odpowiednio funkcjonariuszy Służby Celno-Skarbowej, których stosunek pracy przekształcił się w stosunek służby na podstawie art. 171 ust. 1 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948, z późn. zm. ) albo na podstawie art. 150 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
-**Art. 15e.** Emeryturę dla funkcjonariuszy, o których mowa w art. 12 ust. 3, którzy zostali mianowani do Służby Celnej po dniu 14 września 1999 r. lub których stosunek pracy został przekształcony w stosunek służbowy na podstawie art. 22b ustawy z dnia 24 lipca 1999 r. o Służbie Celnej lub art. 99 ustawy z dnia 27 sierpnia 2009 r. o Służbie ust. 2, lub byli zatrudnieni w jednostkach, o których mowa w art. 13 ust. 1 pkt 4, oblicza się na zasadach określonych odpowiednio w art. 15 lub art. 15c.
+**Art. 15e.** Emeryturę dla funkcjonariuszy, o których mowa w art. 12 ust. 3, którzy zostali mianowani do Służby Celnej po dniu 14 września 1999 r. lub których stosunek pracy został przekształcony w stosunek służbowy na podstawie art. 22b ustawy z dnia 24 lipca 1999 r. o Służbie Celnej lub art. 99 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej i którzy przed dniem 2 stycznia 1999 r. pełnili służbę, o której mowa w art. 15d ust. 2, lub byli zatrudnieni w jednostkach, o których mowa w art. 13 ust. 1 pkt 4, oblicza się na zasadach określonych odpowiednio w art. 15 lub art. 15c.
 
 **Art. 16.**
 
@@ -378,7 +428,9 @@ Art. 52–56. (pominięte)
 
 3. W przypadku gdy suma emerytury obliczonej na podstawie art. 15a albo art. 15d przysługującej łącznie z emeryturą z Funduszu Ubezpieczeń Społecznych jest niższa od kwoty najniższej emerytury, emeryturę policyjną podwyższa się w taki sposób, aby suma tych emerytur nie była niższa od kwoty najniższej emerytury.
 
-4. Przepisy ust. 3 stosuje się odpowiednio do renty rodzinnej. Emerytura funkcjonariusza przyjętego do służby po raz pierwszy po dniu 31 grudnia 2012 r.
+4. Przepisy ust. 3 stosuje się odpowiednio do renty rodzinnej.
+
+#### Rozdział 1a Emerytura funkcjonariusza przyjętego do służby po raz pierwszy po dniu 31 grudnia 2012 r.
 
 **Art. 18a.**
 
@@ -398,6 +450,7 @@ Art. 52–56. (pominięte)
 - **1)** służby w Biurze Ochrony Rządu;
 - **2)** służby wojskowej uwzględniane przy ustalaniu prawa do emerytury wojskowej;
 - **3)** zatrudnienia w Straży Marszałkowskiej na stanowiskach pracy: strażnik, strażnik specjalista do spraw logistyki, strażnik specjalista do spraw planowania i organizacji, strażnik specjalista do spraw zabezpieczenia technicznego, strażak, strażak specjalista do spraw zabezpieczenia przeciwpożarowego, komendant Straży Marszałkowskiej i zastępca komendanta Straży Marszałkowskiej;
+- **4)** zatrudnienia:
     - **a)** w komórkach organizacyjnych, o których mowa w art. 11g ust. 1 i 2 oraz art. 36,
     - **b)** jako inspektorzy prowadzący czynności dochodzeniowo-śledcze, o których mowa w art. 38 ust. 4 i 5 – ustawy z dnia 28 września 1991 r. o kontroli skarbowej;
 
@@ -425,7 +478,7 @@ Art. 52–56. (pominięte)
 
 2. W przypadku niewskazania przez funkcjonariusza kolejnych lat kalendarzowych podstawę wymiaru emerytury stanowi średnie uposażenie funkcjonariusza należne przez okres kolejnych 10 lat kalendarzowych, poprzedzających rok zwolnienia ze służby.
 
-2a. W przypadku gdy do okresu kolejnych 10 lat kalendarzowych, o których mowa w ust. 1 i 2, zalicza się okresy wskazane w art. 18b ust. 2 pkt 3, do ustalenia podstawy wymiaru emerytury przyjmuje się również wynagrodzenie stanowiące podstawę wymiaru składek na ubezpieczenie emerytalne i rentowe lub na tych okresach, obliczone odpowiednio na zasadach określonych w ust. 3. W tym przypadku za roczną kwotę przeciętnego uposażenia funkcjonariusza przyjmuje się roczną kwotę przeciętnego wynagrodzenia w gospodarce narodowej ogłoszoną za dany rok kalendarzowy, o której mowa w art. 20 pkt 1 lit. a ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. W stosunku do okresów przypadających przed dniem 1 stycznia 2003 r. za roczną kwotę przeciętnego uposażenia przyjmuje się roczną kwotę przeciętnego wynagrodzenia w danym roku ogłaszaną corocznie przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+2a. W przypadku gdy do okresu kolejnych 10 lat kalendarzowych, o których mowa w ust. 1 i 2, zalicza się okresy wskazane w art. 18b ust. 2 pkt 3, do ustalenia podstawy wymiaru emerytury przyjmuje się również wynagrodzenie stanowiące podstawę wymiaru składek na ubezpieczenie emerytalne i rentowe lub na ubezpieczenie społeczne, na podstawie przepisów prawa polskiego, przysługujące w tych okresach, obliczone odpowiednio na zasadach określonych w ust. 3. W tym przypadku za roczną kwotę przeciętnego uposażenia funkcjonariusza przyjmuje się roczną kwotę przeciętnego wynagrodzenia w gospodarce narodowej ogłoszoną za dany rok kalendarzowy, o której mowa w art. 20 pkt 1 lit. a ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. W stosunku do okresów przypadających przed dniem 1 stycznia 2003 r. za roczną kwotę przeciętnego uposażenia przyjmuje się roczną kwotę przeciętnego wynagrodzenia w danym roku ogłaszaną corocznie przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 2b. Do podstawy wymiaru emerytury, o której mowa w ust. 1, przy obliczaniu której przyjmowane jest wynagrodzenie, o którym mowa w ust. 2a, dolicza się kwoty przysługujących w danym roku kalendarzowym wynagrodzeń za czas niezdolności do pracy oraz kwoty zasiłków: chorobowego, macierzyńskiego, opiekuńczego, świadczenia rehabilitacyjnego, zasiłku wyrównawczego, świadczenia wyrównawczego lub dodatku wyrównawczego, a także wartość rekompensaty pieniężnej ustaloną zgodnie z pkt 3 załącznika do ustawy z dnia 6 marca 1997 r. o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent (Dz. U. z 2000 r. poz. 294 oraz z 2008 r. poz. 1056).
 
@@ -436,6 +489,7 @@ Art. 52–56. (pominięte)
 2e. Świadczenie za długoletnią służbę, o którym mowa w:
 
 - **1)** art. 120d ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji,
+- **2)** art. 117f ust. 1 i 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej,
 - **3)** art. 97f ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej,
 - **4)** art. 125b ust. 1 i 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu,
 - **5)** art. 99c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym,
@@ -455,7 +509,11 @@ Art. 52–56. (pominięte)
 
 4. (uchylony)
 
-5. W przypadku gdy funkcjonariusz w ciągu roku, o którym mowa w ust. 3 pkt 1, pełnił również inną służbę uwzględnianą przy ustalaniu prawa do emerytury lub emerytury wojskowej lub wskazał okresy zatrudnienia, o których mowa w art. 18b ust. 2 pkt 3, stosunek, o którym mowa w ust. 3 pkt 2, oblicza się proporcjonalnie do poszczególnych okresów służby lub zatrudnienia. i świadczeń pieniężnych, o których mowa w art. 25, nie może przekroczyć 75 % podstawy jej wymiaru.
+5. W przypadku gdy funkcjonariusz w ciągu roku, o którym mowa w ust. 3 pkt 1, pełnił również inną służbę uwzględnianą przy ustalaniu prawa do emerytury lub emerytury wojskowej lub wskazał okresy zatrudnienia, o których mowa w art. 18b ust. 2 pkt 3, stosunek, o którym mowa w ust. 3 pkt 2, oblicza się proporcjonalnie do poszczególnych okresów służby lub zatrudnienia.
+
+**Art. 18g.**
+
+1. Kwota emerytury bez uwzględnienia dodatków, zasiłków i świadczeń pieniężnych, o których mowa w art. 25, nie może przekroczyć 75 % podstawy jej wymiaru.
 
 1a. Kwota emerytury bez uwzględnienia dodatków, zasiłków i świadczeń pieniężnych, o których mowa w art. 25, obliczona z uwzględnieniem podwyższenia, o którym mowa w art. 18e ust. 2a, nie może przekroczyć 76 % podstawy jej wymiaru.
 
@@ -473,9 +531,15 @@ Art. 52–56. (pominięte)
 
 3. W przypadku osoby, która pełniła służbę w organach bezpieczeństwa państwa, o których mowa w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, przepis art. 15b ust. 1 pkt 1 stosuje się.
 
-4. Oświadczenie o wyborze składa się do organu emerytalnego najpóźniej w dniu złożenia wniosku o ustalenie prawa do zaopatrzenia emerytalnego. Renta inwalidzka
+4. Oświadczenie o wyborze składa się do organu emerytalnego najpóźniej w dniu złożenia wniosku o ustalenie prawa do zaopatrzenia emerytalnego.
+
+#### Rozdział 2 Renta inwalidzka
 
 **Art. 19.** Renta inwalidzka przysługuje funkcjonariuszowi zwolnionemu ze służby, który stał się inwalidą wskutek stałego lub długotrwałego naruszenia sprawności organizmu:
+
+- **1)** w czasie pełnienia służby albo
+- **2)** w ciągu 18 miesięcy po zwolnieniu ze służby, jeżeli inwalidztwo jest następstwem urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie;
+- **3)** w ciągu 3 lat po zwolnieniu ze służby, jeżeli inwalidztwo jest następstwem wypadku pozostającego w związku z pełnieniem służby albo choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby.
 
 **Art. 20.**
 
@@ -495,7 +559,7 @@ Art. 52–56. (pominięte)
 - **4)** chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby;
 - **5)** chorób i schorzeń, które istniały przed przyjęciem do służby, lecz uległy pogorszeniu lub ujawniły się w czasie trwania służby wskutek szczególnych właściwości lub warunków służby na określonych stanowiskach.
 
-4. Minister właściwy do spraw wewnętrznych, minister właściwy do spraw finansów publicznych, Minister Obrony Narodowej oraz Minister Sprawiedliwości, każdy w zakresie swojego działania, w porozumieniu z ministrem właściwym do spraw zdrowia i ministrem właściwym do spraw zabezpieczenia społecznego określą, w drodze rozporządzenia, wykazy chorób i schorzeń, o których mowa w ust. 3 pkt 4 i zdrowia, uwzględniając w szczególności choroby i schorzenia, które powstały w związku ze szczególnymi właściwościami lub warunkami służby oraz te, które istniały przed przyjęciem do służby, lecz uległy nasileniu lub ujawniły się w czasie trwania służby, z zastrzeżeniem ust. 4a.
+4. Minister właściwy do spraw wewnętrznych, minister właściwy do spraw finansów publicznych, Minister Obrony Narodowej oraz Minister Sprawiedliwości, każdy w zakresie swojego działania, w porozumieniu z ministrem właściwym do spraw zdrowia i ministrem właściwym do spraw zabezpieczenia społecznego określą, w drodze rozporządzenia, wykazy chorób i schorzeń, o których mowa w ust. 3 pkt 4 i 5, oraz właściwości i warunki służby powodujące ich ujawnienie lub pogorszenie stanu zdrowia, uwzględniając w szczególności choroby i schorzenia, które powstały w związku ze szczególnymi właściwościami lub warunkami służby oraz te, które istniały przed przyjęciem do służby, lecz uległy nasileniu lub ujawniły się w czasie trwania służby, z zastrzeżeniem ust. 4a.
 
 4a. Prezes Rady Ministrów określi, w drodze rozporządzenia, wykaz schorzeń i chorób, o których mowa w ust. 3 pkt 4 i 5, a także właściwość i warunki służby w Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu powodujące ich ujawnienie lub pogorszenie stanu zdrowia, z uwzględnieniem tych chorób i schorzeń, które powstały w związku ze szczególnymi właściwościami lub warunkami służby w Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu, oraz tych, które istniały przed przyjęciem do służby w Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu, lecz uległy nasileniu lub ujawniły się w czasie trwania służby w tej formacji.
 
@@ -505,7 +569,8 @@ Art. 52–56. (pominięte)
 
 - **1)** powstało z innych przyczyn niż określone w ust. 3;
 - **2)** jest następstwem wypadku lub choroby, których wyłączną przyczyną było udowodnione przez jednostkę organizacyjną właściwego resortu umyślne lub rażąco niedbałe działanie albo zaniechanie funkcjonariusza naruszające obowiązujące przepisy lub rozkazy, jeżeli jego przełożeni zapewnili warunki odpowiadające tym przepisom i rozkazom i sprawowali we właściwy sposób nadzór nad ich przestrzeganiem, a funkcjonariusz posiadał potrzebne umiejętności do wykonywania określonych czynności i rozkazów i był należycie przeszkolony w zakresie ich znajomości;
-- **3)** jest następstwem wypadku, którego wyłączną przyczyną było zachowanie się funkcjonariusza spowodowane nadużyciem alkoholu; funkcjonariusza rozmyślnie.
+- **3)** jest następstwem wypadku, którego wyłączną przyczyną było zachowanie się funkcjonariusza spowodowane nadużyciem alkoholu;
+- **4)** zranienie, kontuzja, obrażenia lub choroba zostały spowodowane przez funkcjonariusza rozmyślnie.
 
 **Art. 21.**
 
@@ -527,7 +592,9 @@ Art. 52–56. (pominięte)
 
 **Art. 21a.**
 
-1. Komisje lekarskie, o których mowa w art. 21, przeprowadzają badania kontrolne inwalidów i wyznaczają terminy tych badań, kierując się przewidywanym przebiegiem chorób powodujących inwalidztwo. kobiety 55 lat życia, przez mężczyzn 60 lat życia lub gdy inwalidztwo trwa nieprzerwanie dłużej niż 10 lat.
+1. Komisje lekarskie, o których mowa w art. 21, przeprowadzają badania kontrolne inwalidów i wyznaczają terminy tych badań, kierując się przewidywanym przebiegiem chorób powodujących inwalidztwo.
+
+2. Nie przeprowadza się badań kontrolnych inwalidów po ukończeniu przez kobiety 55 lat życia, przez mężczyzn 60 lat życia lub gdy inwalidztwo trwa nieprzerwanie dłużej niż 10 lat.
 
 3. Komisja lekarska może orzec, że badanie kontrolne jest zbędne, jeżeli przebieg choroby powodującej inwalidztwo wskazuje, że zmiana grupy inwalidzkiej ustalonej w orzeczeniu nie nastąpi w ogóle.
 
@@ -551,7 +618,7 @@ Art. 52–56. (pominięte)
 
 3. Wysokość renty inwalidzkiej, ustalonej zgodnie z ust. 1, nie może być wyższa niż miesięczna kwota przeciętnej renty z tytułu niezdolności do pracy wypłaconej przez Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych, ogłoszonej przez Prezesa Zakładu Ubezpieczeń Społecznych.
 
-4. W celu ustalenia wysokości renty inwalidzkiej, zgodnie z ust. 1 i 3, organ emerytalny występuje do Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni mowa w art. 13a ust. 1. Przepisy art. 13a stosuje się odpowiednio.
+4. W celu ustalenia wysokości renty inwalidzkiej, zgodnie z ust. 1 i 3, organ emerytalny występuje do Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu z wnioskiem o sporządzenie informacji, o której mowa w art. 13a ust. 1. Przepisy art. 13a stosuje się odpowiednio.
 
 5. Przepisów ust. 1 i 3 nie stosuje się, jeżeli osoba, o której mowa w tych przepisach, udowodni, że przed rokiem 1990, bez wiedzy przełożonych, podjęła współpracę i czynnie wspierała osoby lub organizacje działające na rzecz niepodległości Państwa Polskiego.
 
@@ -561,7 +628,9 @@ Art. 52–56. (pominięte)
 
 8. Miesięczna kwota przeciętnej renty z tytułu niezdolności do pracy wypłaconej przez Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych, ogłoszona przez Prezesa Zakładu Ubezpieczeń Społecznych zgodnie z ust. 7, podlega waloryzacji na zasadach i w terminach przewidzianych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-9. Prezes Zakładu Ubezpieczeń Społecznych ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji obowiązującą od tego terminu kwotę, o której mowa w ust. 8. Renta rodzinna
+9. Prezes Zakładu Ubezpieczeń Społecznych ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji obowiązującą od tego terminu kwotę, o której mowa w ust. 8.
+
+#### Rozdział 3 Renta rodzinna
 
 **Art. 23.**
 
@@ -575,6 +644,25 @@ Art. 52–56. (pominięte)
 2. Za uprawnionych członków rodziny zmarłego emeryta lub rencisty policyjnego uważa się również członków rodziny funkcjonariusza zmarłego po zwolnieniu ze służby, jeżeli w dniu śmierci spełniał on warunki wymagane do uzyskania emerytury lub renty inwalidzkiej, chociażby jego prawo do zaopatrzenia nie zostało jeszcze ustalone.
 
 **Art. 24.** <1.> Renta rodzinna przysługuje na zasadach i w wysokości określonych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z tym że:
+
+- **1)** w razie śmierci albo zaginięcia funkcjonariusza rentę rodzinną wymierza się od renty inwalidzkiej I grupy, jaka przysługiwałaby temu funkcjonariuszowi w dniu śmierci albo zaginięcia, bez uwzględnienia dodatku pielęgnacyjnego, z zastrzeżeniem art. 22a; przepis art. 22 ust. 2 stosuje się odpowiednio;
+- **1a)** w razie śmierci albo zaginięcia funkcjonariusza: o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu albo czynności operacyjno-rozpoznawcze, o których mowa w art. 25 pkt 1 albo w art. 26 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 81, 1834 i 1860), lub kierował wykonywaniem takich czynności, o Państwowej Straży Pożarnej,
+    - **a)** w czasie pełnienia służby w kontyngencie policyjnym wydzielonym do realizacji zadań, o których mowa w art. 145a ust. 1 pkt 1–3 ustawy z dnia 6 kwietnia 1990 r. o Policji,
+    - **b)** w czasie pełnienia służby poza granicami państwa, na terytorium państw w całości lub części uznanych za strefę działań wojennych, jeżeli funkcjonariusz wykonywał czynności operacyjno-rozpoznawcze, o których mowa w art. 21 ust. 1 pkt 1 albo w art. 22 ustawy z dnia 24 maja 2002 r.
+    - **c)** w czasie pełnienia służby w kontyngencie Straży Granicznej wydzielonym do realizacji zadań, o których mowa w art. 147c pkt 1–3a ustawy z dnia 12 października 1990 r. o Straży Granicznej,
+    - **d)** w czasie pełnienia służby poza granicami państwa, jeżeli funkcjonariusz wykonywał zadania w warunkach, o których mowa w art. 60a ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu,
+    - **e)** w czasie pełnienia służby poza granicami państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r.
+    - **f)** w czasie pełnienia służby poza granicami państwa, jeżeli funkcjonariusz wykonywał zadania w warunkach, o których mowa w art. 145 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa – renta rodzinna przysługuje małżonkowi bez względu na wiek i stan zdrowia;
+
+- **1b)** w razie śmierci funkcjonariusza Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego po zwolnieniu ze służby, jeżeli śmierć nastąpiła wskutek urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie, albo jeżeli śmierć nastąpiła wskutek wypadku pozostającego w związku z pełnieniem służby albo choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby, rentę rodzinną wymierza się od renty inwalidzkiej I grupy, jaka przysługiwałaby temu funkcjonariuszowi w dniu śmierci, bez uwzględnienia dodatku pielęgnacyjnego; przepis art. 22 ust. 2 stosuje się odpowiednio;
+- **1c)** w razie śmierci funkcjonariusza Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego po zwolnieniu ze służby, jeżeli śmierć nastąpiła wskutek wypadku albo choroby powstałej w czasie wykonywania zadań służbowych, o których mowa w art. 25 pkt 1 lub w art. 26 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, lub kierowania wykonywaniem takich czynności, renta rodzinna przysługuje małżonkowi bez względu na wiek i stan zdrowia;
+- **2)** rentę rodzinną po zmarłym emerycie lub renciście wymierza się od kwoty świadczenia, które przysługiwało zmarłemu, jednakże od kwoty nie niższej niż kwota renty inwalidzkiej II grupy, która przysługiwałaby zmarłemu, z zastrzeżeniem pkt 1b i art. 22a;
+- **3)** w razie niedoliczenia do wysługi emerytalnej zmarłego emeryta, o którym mowa w art. 15 albo w art. 15aa ust. 3, albo w art. 15e, okresów, o których mowa odpowiednio w art. 14 ust. 1 albo w art. 15aa ust. 4, okresy te dolicza się na wniosek osoby uprawnionej do renty rodzinnej do wysługi emerytalnej zmarłego, na zasadach określonych odpowiednio w art. 14 albo w art. 15aa;
+- **3a)** w razie nieuwzględnienia w wysłudze emerytalnej zmarłego emeryta podwyższenia, o którym mowa w art. 15 ust. 3b lub w art. 18e ust. 2a, podwyższenie to uwzględnia się, na wniosek osoby uprawnionej do renty rodzinnej, w wysłudze emerytalnej zmarłego, na zasadach określonych w art. 15 ust. 3b lub w art. 18e ust. 2a;
+- **4)** o niezdolności do pracy i stopniu tej niezdolności oraz niezdolności do samodzielnej egzystencji, w rozumieniu ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, uprawnionych członków rodziny orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych;
+- **5)** jeżeli śmierć funkcjonariusza pozostająca w związku ze służbą jest następstwem czynu karalnego, przy wypłacaniu renty rodzinnej nie stosuje się przewidzianego w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych zawieszania lub zmniejszania tego świadczenia w razie osiągania przychodu z tytułu działalności podlegającej obowiązkowi ubezpieczenia społecznego. W tym wypadku renta rodzinna przysługuje małżonkowi bez względu na wiek i stan zdrowia;
+- **6)** jeżeli śmierć funkcjonariusza Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego po zwolnieniu ze służby, pozostająca w związku z tą służbą, jest następstwem czynu karalnego, przy wypłacaniu renty rodzinnej nie stosuje się przewidzianego w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych zawieszania lub zmniejszania tego świadczenia w razie osiągania przychodu z tytułu działalności podlegającej obowiązkowi ubezpieczenia społecznego. W tym wypadku renta rodzinna przysługuje małżonkowi bez względu na wiek i stan zdrowia;
+- **7)** w razie śmierci albo zaginięcia funkcjonariusza w związku z pełnieniem służby, o której mowa w pkt 1a, renta rodzinna przysługuje w wysokości uposażenia; w tym wypadku do wysokości uposażenia nie jest wliczane świadczenie teleinformatyczne, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa. <2. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w ust. 1 pkt 4, jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.>
 
 **Art. 24a.**
 
@@ -591,7 +679,9 @@ Art. 52–56. (pominięte)
 - **1)** zaginął w związku z pełnieniem służby;
 - **2)** poniósł śmierć w wypadku pozostającym w związku z pełnieniem służby.
 
-6. W przypadku, o którym mowa w ust. 4, przepis art. 15c ust. 6 stosuje się odpowiednio. Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, obowiązującą od dnia ogłoszenia ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin miesięczną kwotę przeciętnej renty rodzinnej wypłaconej przez Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych, obliczoną za ostatni miesiąc kwartału poprzedzającego datę ogłoszenia ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin. Przepis art. 15c ust. 8 stosuje się odpowiednio.
+6. W przypadku, o którym mowa w ust. 4, przepis art. 15c ust. 6 stosuje się odpowiednio.
+
+7. Prezes Zakładu Ubezpieczeń Społecznych ogłosi, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, obowiązującą od dnia ogłoszenia ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin miesięczną kwotę przeciętnej renty rodzinnej wypłaconej przez Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych, obliczoną za ostatni miesiąc kwartału poprzedzającego datę ogłoszenia ustawy z dnia 16 grudnia 2016 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin. Przepis art. 15c ust. 8 stosuje się odpowiednio.
 
 8. Miesięczna kwota przeciętnej renty rodzinnej wypłaconej przez Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych, ogłoszona przez Prezesa Zakładu Ubezpieczeń Społecznych zgodnie z ust. 7, podlega waloryzacji na zasadach i w terminach przewidzianych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
@@ -603,7 +693,9 @@ Art. 52–56. (pominięte)
 
 1. Do emerytury lub renty przysługuje dodatek pielęgnacyjny i dodatek dla sierot zupełnych na zasadach i w wysokości określonych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-2. Dodatki oraz zasiłki i świadczenia pieniężne inne niż wymienione w ust. 1 przysługują do emerytury lub renty, o ile zostały przyznane na podstawie odrębnych przepisów. określonych w przepisach ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+2. Dodatki oraz zasiłki i świadczenia pieniężne inne niż wymienione w ust. 1 przysługują do emerytury lub renty, o ile zostały przyznane na podstawie odrębnych przepisów.
+
+**Art. 26.** Zasiłek pogrzebowy przysługuje w wysokości i na zasadach określonych w przepisach ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 ### DZIAŁ III Inne świadczenia i uprawnienia
 
@@ -622,7 +714,7 @@ Art. 52–56. (pominięte)
 
 2. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw finansów publicznych, Minister Obrony Narodowej i Minister Sprawiedliwości określą, każdy w zakresie swojego działania, w drodze rozporządzenia, sposób podziału środków funduszu socjalnego pomiędzy jego dysponentów oraz zakres i sposoby korzystania ze świadczeń z tego funduszu, uwzględniając rodzaje świadczeń, dysponentów środków funduszu oraz tryb przyznawania świadczeń.
 
-3. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób podziału środków funduszu socjalnego pomiędzy jego dysponentów oraz zakres i sposoby korzystania ze świadczeń z tego funduszu w odniesieniu do emerytów i rencistów Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego oraz członków ich rodzin, przyznawania świadczeń.
+3. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób podziału środków funduszu socjalnego pomiędzy jego dysponentów oraz zakres i sposoby korzystania ze świadczeń z tego funduszu w odniesieniu do emerytów i rencistów Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego oraz członków ich rodzin, uwzględniając rodzaje świadczeń, dysponentów środków funduszu oraz tryb przyznawania świadczeń.
 
 **Art. 28.**
 
@@ -640,7 +732,7 @@ Art. 52–56. (pominięte)
 
 3. Prawo do lokalu mieszkalnego, o którym mowa w ust. 1, przysługuje osobom wymienionym w ust. 2, do czasu przydzielenia zastępczego lokalu mieszkalnego, nie krócej jednak niż na czas posiadania uprawnień do policyjnej renty rodzinnej.
 
-4. Przepisów ust. 1–3 nie stosuje się do funkcjonariuszy Straży Marszałkowskiej, funkcjonariuszy Służby Celnej, funkcjonariuszy Służby Celno-Skarbowej, Straży Pożarnej, funkcjonariuszy Służby Ochrony Państwa, funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, funkcjonariuszy Agencji Wywiadu, funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz funkcjonariuszy Służby Wywiadu Wojskowego.
+4. Przepisów ust. 1–3 nie stosuje się do funkcjonariuszy Straży Marszałkowskiej, funkcjonariuszy Służby Celnej, funkcjonariuszy Służby Celno-Skarbowej, funkcjonariuszy Policji, funkcjonariuszy Straży Granicznej, strażaków Państwowej Straży Pożarnej, funkcjonariuszy Służby Ochrony Państwa, funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, funkcjonariuszy Agencji Wywiadu, funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz funkcjonariuszy Służby Wywiadu Wojskowego.
 
 **Art. 30.** (uchylony)
 
@@ -660,7 +752,7 @@ Art. 52–56. (pominięte)
 
 2. Decyzję, o której mowa w ust. 1, doręcza się zainteresowanemu na piśmie wraz z uzasadnieniem oraz pouczeniem.
 
-2a. Minister właściwy do spraw wewnętrznych po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych, Szefa Agencji Bezpieczeństwa Wewnętrznego i Szefa Agencji Wywiadu oraz Minister Sprawiedliwości, każdy mowa w ust. 1 pkt 1 i 2, zakres ich działania, stopień dysponenta środków, siedzibę organu, strukturę organizacyjną oraz sposób powoływania i odwoływania organu oraz jego zastępców, mając na uwadze zapewnienie prawidłowego wykonywania czynności związanych z ustalaniem prawa do zaopatrzenia emerytalnego i wysokości świadczeń pieniężnych z tytułu tego zaopatrzenia oraz innych świadczeń.
+2a. Minister właściwy do spraw wewnętrznych po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych, Szefa Agencji Bezpieczeństwa Wewnętrznego i Szefa Agencji Wywiadu oraz Minister Sprawiedliwości, każdy w zakresie swojego działania, określą, w drodze rozporządzenia, organy, o których mowa w ust. 1 pkt 1 i 2, zakres ich działania, stopień dysponenta środków, siedzibę organu, strukturę organizacyjną oraz sposób powoływania i odwoływania organu oraz jego zastępców, mając na uwadze zapewnienie prawidłowego wykonywania czynności związanych z ustalaniem prawa do zaopatrzenia emerytalnego i wysokości świadczeń pieniężnych z tytułu tego zaopatrzenia oraz innych świadczeń.
 
 3. Postępowanie w sprawie ustalenia prawa do zaopatrzenia emerytalnego wszczyna się na wniosek zainteresowanego.
 
@@ -680,7 +772,8 @@ Art. 52–56. (pominięte)
 
 1b. Organ emerytalny określony przez ministra właściwego do spraw wewnętrznych, wojskowy organ emerytalny, o którym mowa w art. 32 ust. 1 pkt 1a, oraz organ emerytalny określony przez Ministra Sprawiedliwości może doręczać pisma w postaci papierowej z wyłączeniem publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych:
 
-- **1)** do podmiotu niepublicznego, o którym mowa w art. 2 pkt 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych: adresów elektronicznych,
+- **1)** do podmiotu niepublicznego, o którym mowa w art. 2 pkt 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych:
+    - **a)** nieposiadającego adresu do doręczeń elektronicznych wpisanego do bazy adresów elektronicznych,
     - **b)** który nie wszczął postępowania administracyjnego przed tym organem emerytalnym przy użyciu adresu do doręczeń elektronicznych;
 
 - **2)** do podmiotu publicznego, o którym mowa w art. 2 pkt 6 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, w przypadku braku możliwości doręczenia na adres do doręczeń elektronicznych tego podmiotu.
@@ -700,7 +793,9 @@ Art. 52–56. (pominięte)
 - **5)** decyzja została wydana w oparciu o inną decyzję lub orzeczenie, które zostało następnie uchylone, zmienione albo stwierdzono jego nieważność;
 - **6)** przyznanie świadczeń lub nieprawidłowe obliczenie ich wysokości nastąpiło na skutek błędu organu emerytalnego.
 
-2. Z przyczyn określonych w ust. 1 pkt 2 i 3 decyzja może zostać uchylona lub zmieniona również przed stwierdzeniem sfałszowania dowodu lub popełnienia przestępstwa orzeczeniem sądu lub innego organu, jeżeli sfałszowanie dowodu lub popełnienie przestępstwa jest oczywiste, a uchylenie lub zmiana decyzji są niezbędne do zapobieżenia poważnej szkodzie dla interesu publicznego. także w przypadku, gdy postępowanie przed sądem lub innym organem nie może być wszczęte na skutek upływu czasu lub z innych przyczyn określonych w przepisach Kodeksu postępowania karnego.
+2. Z przyczyn określonych w ust. 1 pkt 2 i 3 decyzja może zostać uchylona lub zmieniona również przed stwierdzeniem sfałszowania dowodu lub popełnienia przestępstwa orzeczeniem sądu lub innego organu, jeżeli sfałszowanie dowodu lub popełnienie przestępstwa jest oczywiste, a uchylenie lub zmiana decyzji są niezbędne do zapobieżenia poważnej szkodzie dla interesu publicznego.
+
+3. Z przyczyn określonych w ust. 1 pkt 2 i 3 można uchylić lub zmienić decyzję także w przypadku, gdy postępowanie przed sądem lub innym organem nie może być wszczęte na skutek upływu czasu lub z innych przyczyn określonych w przepisach Kodeksu postępowania karnego.
 
 4. Uchylenie lub zmiana decyzji, o której mowa w ust. 1, nie może nastąpić, jeżeli od dnia jej wydania upłynął okres:
 
@@ -720,7 +815,7 @@ Art. 52–56. (pominięte)
 
 **Art. 33b.**
 
-1. W przypadku ponownego przyjęcia emeryta do służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej służby nieprzerwanie przez okres co najmniej 12 miesięcy, na wniosek emeryta ustala się nową podstawę wymiaru emerytury, w sposób określony odpowiednio w art. 5 ust. 1 albo ust. 1a albo w art. 18f.
+1. W przypadku ponownego przyjęcia emeryta do służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celno-Skarbowej lub Służbie Więziennej i pełnienia tej służby nieprzerwanie przez okres co najmniej 12 miesięcy, na wniosek emeryta ustala się nową podstawę wymiaru emerytury, w sposób określony odpowiednio w art. 5 ust. 1 albo ust. 1a albo w art. 18f.
 
 2. Ponowne ustalenie podstawy wymiaru następuje nie wcześniej niż po zakończeniu służby.
 
@@ -739,7 +834,7 @@ Art. 52–56. (pominięte)
 - **1)** wzywać i przesłuchiwać zainteresowanych, świadków oraz zwracać się do biegłych o wydanie opinii i do innych organów o dokonanie czynności związanych z toczącym się postępowaniem;
 - **2)** żądać od osób zgłaszających wnioski o świadczenia przedstawiania dowodów uzasadniających prawo do świadczeń i ich wysokość;
 - **3)** żądać od osób uprawnionych do świadczeń przedstawiania dowodów uzasadniających dalsze istnienie prawa do tych świadczeń oraz zawiadamiania o okolicznościach mających wpływ na prawo do świadczeń lub ich wysokość albo na wstrzymanie wypłaty tych świadczeń;
-- **4)** kierować osoby wymienione w pkt 2 i 3 do komisji lekarskich w celu stwierdzenia stopnia ich niezdolności do pracy i służby oraz ustalenia niezdolności do samodzielnej egzystencji, w rozumieniu ustawy o emeryturach do lekarza orzecznika Zakładu Ubezpieczeń Społecznych.
+- **4)** kierować osoby wymienione w pkt 2 i 3 do komisji lekarskich w celu stwierdzenia stopnia ich niezdolności do pracy i służby oraz ustalenia niezdolności do samodzielnej egzystencji, w rozumieniu ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, a w sprawach rent rodzinnych – do lekarza orzecznika Zakładu Ubezpieczeń Społecznych.
 
 2. Osoby, o których mowa w ust. 1, są obowiązane uczynić zadość żądaniu organu emerytalnego przez zgłoszenie się na wezwanie, złożenie zeznań, przedstawienie wymaganych dowodów lub poddanie się badaniom lekarskim.
 
@@ -759,7 +854,7 @@ Art. 52–56. (pominięte)
 
 1. Organy administracji publicznej, pracodawcy, organy emerytalne i rentowe oraz szkoły i uczelnie wyższe są obowiązane udzielać organom emerytalnym pomocy i informacji, w tym udostępniać dane osobowe, w sprawach świadczeń przewidzianych w ustawie oraz wydawać bezpłatnie, na ich żądanie, wszelkie dokumenty, w tym zaświadczenia, niezbędne do ustalenia prawa do świadczeń lub ich wysokości albo potwierdzenia istnienia prawa do świadczeń.
 
-2. Organy emerytalne są uprawnione do bezpłatnego pozyskiwania drogą elektroniczną informacji niezbędnych do ustalenia prawa do świadczeń lub ich emerytalnych lub rentowych oraz z rejestrów publicznych, w szczególności z:
+2. Organy emerytalne są uprawnione do bezpłatnego pozyskiwania drogą elektroniczną informacji niezbędnych do ustalenia prawa do świadczeń lub ich wysokości albo do potwierdzenia istnienia prawa do świadczeń od organów emerytalnych lub rentowych oraz z rejestrów publicznych, w szczególności z:
 
 - **1)** rejestru PESEL,
 - **2)** systemu informacji oświatowej,
@@ -774,7 +869,8 @@ Art. 52–56. (pominięte)
 
 2. Organ emerytalny określony w przepisach wydanych na podstawie art. 32 ust. 2a przez ministra właściwego do spraw wewnętrznych jest instytucją łącznikową, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącego wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego, w odniesieniu do świadczeń podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przysługujących z budżetu państwa na podstawie przepisów niniejszej ustawy oraz:
 
-- **1)** przepisów ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin; (Dz. U. z 2024 r. poz. 334) dotyczących uposażeń sędziów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku;
+- **1)** przepisów ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin;
+- **2)** przepisów ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334) dotyczących uposażeń sędziów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku;
 - **3)** przepisów ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390) dotyczących uposażeń prokuratorów w stanie spoczynku oraz uposażeń rodzinnych członków rodzin prokuratorów i prokuratorów w stanie spoczynku.
 
 3. Instytucją właściwą, instytucją miejsca zamieszkania, instytucją miejsca pobytu, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. WE L 166 z 30.04.2004, str. 1, z późn. zm. ), w odniesieniu do świadczeń z zaopatrzenia emerytalnego, podlegających przepisom o koordynacji systemów zabezpieczenia społecznego, przyznanych na podstawie przepisów niniejszej ustawy zwolnionym ze służby funkcjonariuszom:
@@ -783,7 +879,7 @@ Art. 52–56. (pominięte)
 - **2)** Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego – jest wojskowy organ emerytalny określony w przepisach wydanych na podstawie art. 37 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin;
 - **3)** Służby Więziennej oraz członkom ich rodzin – jest organ emerytalny określony w przepisach wydanych na podstawie art. 32 ust. 2a przez Ministra Sprawiedliwości.
 
-**Art. 36b.** Organy emerytalne są uprawnione do otrzymywania i przetwarzania danych otrzymanych od właściwych organów rentowych lub organów emerytalnych ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+**Art. 36b.** Organy emerytalne są uprawnione do otrzymywania i przetwarzania danych otrzymanych od właściwych organów rentowych lub organów emerytalnych w zakresie niezbędnym do ustalania zbiegu świadczeń, o których mowa w art. 95a ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 **Art. 36c.**
 
@@ -794,6 +890,10 @@ Art. 52–56. (pominięte)
 **Art. 37.** W sprawach świadczeń przewidzianych w ustawie osoby zainteresowane i organy emerytalne są zwolnione od wszelkich opłat.
 
 **Art. 38.** Minister właściwy do spraw wewnętrznych po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego i Szefa Kancelarii Sejmu, Minister Obrony Narodowej po zasięgnięciu opinii Szefa Służby Kontrwywiadu Wojskowego i Szefa Służby Wywiadu Wojskowego oraz Minister Sprawiedliwości, każdy w zakresie swojego działania, określą, w drodze rozporządzenia:
+
+- **1)** tryb postępowania i właściwość organów w sprawach zaopatrzenia emerytalnego funkcjonariuszy oraz uprawnionych członków ich rodzin, wskazując elementy wniosku o ustalenie prawa do zaopatrzenia, dowody niezbędne do ustalenia prawa do świadczenia oraz sposób i terminy wypłaty świadczeń,
+- **2)** podmioty uprawnione do wypłaty zasiłku pogrzebowego i tryb jego refundacji,
+- **3)** wzór i tryb wydawania legitymacji emeryta−rencisty policyjnego, uwzględniając organ uprawniony do wydawania, wymiany i dokonywania wpisów, w tym wpisu o niezdolności do samodzielnej egzystencji, oraz przypadki wymiany legitymacji, mając na względzie zapewnienie realizacji prawa emeryta i rencisty do zaopatrzenia emerytalnego oraz zapewnienie sprawności postępowania w tym zakresie. <Art. 38a. Legitymacja emeryta-rencisty policyjnego wydawana przez organ określony w przepisach wydanych przez ministra właściwego do spraw wewnętrznych na podstawie art. 38 może mieć postać spersonalizowanej dwustronnej karty identyfikacyjnej lub być udostępniona w postaci dokumentu mobilnego w rozumieniu art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275).>
 
 ### DZIAŁ V Ustanie i zawieszanie prawa do świadczeń oraz zmniejszanie ich wysokości
 
@@ -811,7 +911,7 @@ Art. 52–56. (pominięte)
 
 **Art. 40.** W razie ustania prawa do renty inwalidzkiej z powodu ustania inwalidztwa albo do renty rodzinnej z powodu ustania niezdolności do pracy, prawo do tych rent powstaje ponownie, jeżeli ponowne inwalidztwo lub niezdolność do pracy, z zastrzeżeniem art. 19 pkt 2 i 3 oraz art. 23 ust. 1 pkt 2 i 3, powstało wskutek pogorszenia się stanu zdrowia w następstwie urazów lub chorób, które poprzednio uzasadniały prawo do renty.
 
-**Art. 40a.** Prawo do emerytury ulega zawieszeniu w razie ponownego przyjęcia emeryta do służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celno-Skarbowej lub Służbie Więziennej albo powołania emeryta do zawodowej służby wojskowej.
+**Art. 40a.** Prawo do emerytury ulega zawieszeniu w razie ponownego przyjęcia emeryta do służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celno-Skarbowej lub Służbie Więziennej albo powołania emeryta do zawodowej służby wojskowej.
 
 **Art. 40b.** Prawo do emerytury lub renty może ulec zawieszeniu również na wniosek emeryta lub rencisty.
 
@@ -831,7 +931,11 @@ Art. 52–56. (pominięte)
 
 3a. W przypadku wypłacania emerytury lub renty inwalidzkiej w 50 % pełnej wysokości świadczenia albo w wysokości pomniejszonej zgodnie z art. 95a ust. 7 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, kwota emerytury lub renty inwalidzkiej, o której mowa w ust. 1 albo 3 ulega zmniejszeniu, o kwotę nie większą niż 25 % zmniejszonej wysokości tej emerytury lub renty inwalidzkiej.
 
-4. Przepisów ust. 1 i 3 nie stosuje się wobec osób, których emerytura stanowi co najmniej 75 % podstawy jej wymiaru bez uwzględnienia podwyższenia z tytułu inwalidztwa pozostającego w związku ze służbą oraz wobec osób pobierających rentę inwalidzką z tytułu inwalidztwa powstałego wskutek wypadku pozostającego w związku ze służbą lub wskutek choroby powstałej w związku ze szczególnymi właściwościami bądź warunkami służby, z tytułu których przysługują świadczenia odszkodowawcze. zawiadomić właściwy organ emerytalny o podjęciu działalności, o której mowa w art. 104 ust. 1–4 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, o wysokości osiąganego z tego tytułu przychodu oraz o każdorazowej zmianie wysokości tego przychodu i innych okolicznościach powodujących ustanie lub zawieszenie prawa do świadczeń albo zmniejszenie ich wysokości.
+4. Przepisów ust. 1 i 3 nie stosuje się wobec osób, których emerytura stanowi co najmniej 75 % podstawy jej wymiaru bez uwzględnienia podwyższenia z tytułu inwalidztwa pozostającego w związku ze służbą oraz wobec osób pobierających rentę inwalidzką z tytułu inwalidztwa powstałego wskutek wypadku pozostającego w związku ze służbą lub wskutek choroby powstałej w związku ze szczególnymi właściwościami bądź warunkami służby, z tytułu których przysługują świadczenia odszkodowawcze.
+
+**Art. 41a.**
+
+1. Osoba uprawniona do zaopatrzenia emerytalnego jest obowiązana zawiadomić właściwy organ emerytalny o podjęciu działalności, o której mowa w art. 104 ust. 1–4 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, o wysokości osiąganego z tego tytułu przychodu oraz o każdorazowej zmianie wysokości tego przychodu i innych okolicznościach powodujących ustanie lub zawieszenie prawa do świadczeń albo zmniejszenie ich wysokości.
 
 2. Obowiązki określone w ust. 1 spoczywają odpowiednio na pracodawcy i zleceniodawcy.
 
@@ -853,7 +957,9 @@ Art. 52–56. (pominięte)
 
 **Art. 42.**
 
-1. Świadczenia pieniężne wypłaca się od dnia powstania prawa do tych świadczeń, nie wcześniej jednak niż od miesiąca, w którym złożono wniosek, o którym mowa w art. 32 ust. 3, lub w którym wydano decyzję z urzędu. bezpośrednio po miesiącu, w którym nastąpiła śmierć lub zaginięcie funkcjonariusza albo w którym nastąpiła śmierć emeryta lub rencisty, rentę rodzinną wypłaca się od dnia śmierci lub zaginięcia, nie wcześniej jednak niż od dnia spełnienia warunków do renty przez uprawnionych członków rodziny.
+1. Świadczenia pieniężne wypłaca się od dnia powstania prawa do tych świadczeń, nie wcześniej jednak niż od miesiąca, w którym złożono wniosek, o którym mowa w art. 32 ust. 3, lub w którym wydano decyzję z urzędu.
+
+2. W razie zgłoszenia wniosku o rentę rodzinną w miesiącu przypadającym bezpośrednio po miesiącu, w którym nastąpiła śmierć lub zaginięcie funkcjonariusza albo w którym nastąpiła śmierć emeryta lub rencisty, rentę rodzinną wypłaca się od dnia śmierci lub zaginięcia, nie wcześniej jednak niż od dnia spełnienia warunków do renty przez uprawnionych członków rodziny.
 
 3. Emerytury lub renty inwalidzkiej oraz dodatków nie wypłaca się za okres, za który funkcjonariusz otrzymał uposażenie lub świadczenie pieniężne przysługujące po zwolnieniu ze służby, określone odpowiednio w przepisach o uposażeniu funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej lub Służby Więziennej, chyba że emerytura lub renta inwalidzka byłaby korzystniejsza. W tym przypadku organ emerytalny potrąca z należnej emerytury lub renty inwalidzkiej oraz dodatków kwoty wypłacone z tytułu uposażenia lub świadczenia pieniężnego przysługującego po zwolnieniu ze służby.
 
@@ -868,8 +974,9 @@ Art. 52–56. (pominięte)
 
 **Art. 44.**
 
-1. Emerytury i renty wraz z dodatkami, zasiłkami i świadczeniami pieniężnymi, o których mowa w art. 25, wypłacają organy emerytalne, określone w art. 32 ust. 1. Wypłaty dokonuje się miesięcznie w dniu ustalonym jako termin płatności: oszczędnościowo-kredytowej;
+1. Emerytury i renty wraz z dodatkami, zasiłkami i świadczeniami pieniężnymi, o których mowa w art. 25, wypłacają organy emerytalne, określone w art. 32 ust. 1. Wypłaty dokonuje się miesięcznie w dniu ustalonym jako termin płatności:
 
+- **1)** na wniosek osoby uprawnionej na jej rachunek w banku lub w spółdzielczej kasie oszczędnościowo-kredytowej;
 - **2)** do rąk osoby uprawnionej za pośrednictwem:
     - **a)** poczty,
     - **b)** innych osób prawnych upoważnionych do prowadzenia działalności w zakresie doręczenia świadczeń.
@@ -895,7 +1002,11 @@ Art. 52–56. (pominięte)
 - **1)** przypadającego po miesiącu, w którym organ emerytalny wydał decyzję w przypadkach, o których mowa w ust. 1 pkt 1, pkt 2 lit. a i c oraz pkt 3;
 - **2)** za który przysługiwało świadczenie niedoręczone w przypadku, o którym mowa w ust. 1 pkt 2 lit. b.
 
-3. Przepis ust. 2 pkt 1 stosuje się odpowiednio, jeżeli powstaną okoliczności uzasadniające zmniejszenie wysokości świadczeń. świadczeń wypłatę wznawia się od miesiąca, w którym przyczyna ta ustała, nie wcześniej jednak niż od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty lub wydano decyzję z urzędu.
+3. Przepis ust. 2 pkt 1 stosuje się odpowiednio, jeżeli powstaną okoliczności uzasadniające zmniejszenie wysokości świadczeń.
+
+**Art. 46.**
+
+1. W razie ustania przyczyny powodującej wstrzymanie wypłaty świadczeń wypłatę wznawia się od miesiąca, w którym przyczyna ta ustała, nie wcześniej jednak niż od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty lub wydano decyzję z urzędu.
 
 1a. W przypadkach określonych w art. 45 ust. 1 pkt 2 lit. b wypłatę świadczeń wznawia się od miesiąca, w którym ją wstrzymano, jednak za okres nie dłuższy niż trzy lata wstecz, licząc od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty.
 
@@ -916,7 +1027,9 @@ Art. 52–56. (pominięte)
 
 **Art. 48.** (uchylony)
 
-**Art. 48a.** (uchylony) Zwrot świadczeń nienależnych, potrącenia i egzekucje ze świadczeń oraz odsetki za opóźnienie w wypłacie świadczeń
+**Art. 48a.** (uchylony)
+
+### DZIAŁ VII Zwrot świadczeń nienależnych, potrącenia i egzekucje ze świadczeń oraz odsetki za opóźnienie w wypłacie świadczeń
 
 **Art. 49.**
 
@@ -933,7 +1046,9 @@ Art. 52–56. (pominięte)
 
 3a. Kwoty nienależnie pobranych świadczeń pieniężnych w związku z osiągnięciem przychodów, o których mowa w art. 41, podlegają zwrotowi za okres nie dłuższy niż jeden rok kalendarzowy poprzedzający rok, w którym wydano decyzję o rozliczeniu świadczenia, jeżeli osoba pobierająca to świadczenie powiadomiła organ emerytalny o osiągnięciu przychodu, w pozostałych zaś przypadkach – za okres nie dłuższy niż trzy lata kalendarzowe poprzedzające rok wydania tej decyzji.
 
-4. Organ emerytalny może odstąpić od żądania zwrotu nienależnie pobranych świadczeń pieniężnych w całości lub w części, zmniejszyć wysokość potrąceń z tego tytułu ustaloną na podstawie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych lub zawiesić dokonywanie tych potrąceń na okres nie dłuższy niż 12 miesięcy, jeżeli zachodzą szczególnie uzasadnione okoliczności. wypłacił tego świadczenia w terminach określonych w ustawie, jest zobowiązany do wypłaty odsetek od tego świadczenia na zasadach określonych w art. 85 ust. 1, 1a i 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+4. Organ emerytalny może odstąpić od żądania zwrotu nienależnie pobranych świadczeń pieniężnych w całości lub w części, zmniejszyć wysokość potrąceń z tego tytułu ustaloną na podstawie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych lub zawiesić dokonywanie tych potrąceń na okres nie dłuższy niż 12 miesięcy, jeżeli zachodzą szczególnie uzasadnione okoliczności.
+
+**Art. 49a.** Jeżeli organ emerytalny nie ustalił prawa do świadczenia lub nie wypłacił tego świadczenia w terminach określonych w ustawie, jest zobowiązany do wypłaty odsetek od tego świadczenia na zasadach określonych w art. 85 ust. 1, 1a i 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 **Art. 50.** Organ emerytalny dokonuje potrąceń ze świadczeń pieniężnych w wysokości i na zasadach określonych w przepisach ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
@@ -952,7 +1067,8 @@ Art. 52–56. (pominięte)
 - **1)** emerytury i renty, do których prawo ustalono na podstawie przepisów dotychczasowych, stają się emeryturami i rentami w rozumieniu ustawy;
 - **2)** wysługa emerytalna funkcjonariuszy, zwolnionych ze służby do dnia poprzedzającego dzień wejścia w życie ustawy, podlega zachowaniu i traktuje się ją jako okres służby, z zastrzeżeniem przepisu art. 13 ust. 2;
 - **3)** dotychczasowa podstawa wymiaru świadczeń pieniężnych podlega przeliczeniu na stawki uposażenia obowiązujące w dniu wejścia w życie ustawy w następujący sposób:
-    - **a)** stawki uposażenia zasadniczego oraz dodatku za stopień z dnia zwolnienia ze służby funkcjonariusza zastępuje się stawkami uposażenia zasadniczego i dodatku za stopień z dnia wejścia w życie ustawy, o charakterze stałym (z wyjątkiem dodatku za stopień) i miesięcznej równowartości nagrody rocznej do uposażenia zasadniczego i dodatku za stopień z dnia zwolnienia ze służby; wskaźnik ten wyraża się w procentach z zaokrągleniem do setnych części procentu; do ustalenia powyższego wskaźnika przyjmuje się dodatki o charakterze stałym, które stosownie do przepisów o uposażeniu funkcjonariuszy obowiązują w dniu wejścia w życie ustawy,
+    - **a)** stawki uposażenia zasadniczego oraz dodatku za stopień z dnia zwolnienia ze służby funkcjonariusza zastępuje się stawkami uposażenia zasadniczego i dodatku za stopień z dnia wejścia w życie ustawy,
+    - **b)** ustala się wskaźnik relacji: sumy miesięcznej kwoty dodatków o charakterze stałym (z wyjątkiem dodatku za stopień) i miesięcznej równowartości nagrody rocznej do uposażenia zasadniczego i dodatku za stopień z dnia zwolnienia ze służby; wskaźnik ten wyraża się w procentach z zaokrągleniem do setnych części procentu; do ustalenia powyższego wskaźnika przyjmuje się dodatki o charakterze stałym, które stosownie do przepisów o uposażeniu funkcjonariuszy obowiązują w dniu wejścia w życie ustawy,
     - **c)** odtworzoną kwotę dodatków o charakterze stałym, nagrody rocznej lub premii oblicza się mnożąc przeliczone na dzień wejścia w życie ustawy uposażenie zasadnicze i dodatek za stopień przez wskaźnik wysokości dodatków;
 
 - **4)** nie uwzględnia się podwyższeń, o których mowa w art. 15 ust. 2 i 3.
@@ -971,7 +1087,7 @@ Art. 52–56. (pominięte)
 
 **Art. 58a.**
 
-1. Emeryci i renciści Urzędu Ochrony Państwa oraz osoby uprawnione do renty rodzinnej po funkcjonariuszach, emerytach i rencistach Urzędu Ochrony ustalonych na podstawie przepisów ustawy.
+1. Emeryci i renciści Urzędu Ochrony Państwa oraz osoby uprawnione do renty rodzinnej po funkcjonariuszach, emerytach i rencistach Urzędu Ochrony Państwa, z zastrzeżeniem art. 39, zachowują prawo do świadczeń pieniężnych ustalonych na podstawie przepisów ustawy.
 
 2. Funkcjonariusze Urzędu Ochrony Państwa nabywają prawo do świadczeń pieniężnych z zaopatrzenia emerytalnego na warunkach określonych w przepisach obowiązujących w dniu zwolnienia ze służby.
 
@@ -989,7 +1105,9 @@ Art. 52–56. (pominięte)
 
 4. Funkcjonariusze inni niż wymienieni w ust. 1, zwolnieni ze służby przed dniem wejścia w życie ustawy, którym na podstawie dotychczasowych przepisów prawo do zaopatrzenia emerytalnego nie przysługiwało, prawa tego nie nabywają również na podstawie niniejszej ustawy.
 
-**Art. 62.** Uznaje się ustalenia zawarte w orzeczeniach komisji do spraw inwalidztwa i zatrudnienia Zakładu Ubezpieczeń Społecznych w stosunku do funkcjonariuszy wymienionych w art. 13 ust. 1 pkt 4, odnosząc je odpowiednio do jednej z grup inwalidzkich wymienionych w art. 20 ust. 1. ustawy, przebywającym na stałe za granicą, przekazuje się świadczenia pieniężne do państw, z którymi zostały zawarte umowy międzynarodowe o wzajemnym przekazywaniu pracowniczych świadczeń emerytalno-rentowych.
+**Art. 62.** Uznaje się ustalenia zawarte w orzeczeniach komisji do spraw inwalidztwa i zatrudnienia Zakładu Ubezpieczeń Społecznych w stosunku do funkcjonariuszy wymienionych w art. 13 ust. 1 pkt 4, odnosząc je odpowiednio do jednej z grup inwalidzkich wymienionych w art. 20 ust. 1.
+
+**Art. 63.** Osobom uprawnionym do zaopatrzenia emerytalnego na podstawie ustawy, przebywającym na stałe za granicą, przekazuje się świadczenia pieniężne do państw, z którymi zostały zawarte umowy międzynarodowe o wzajemnym przekazywaniu pracowniczych świadczeń emerytalno-rentowych.
 
 **Art. 64.** (pominięty)
 

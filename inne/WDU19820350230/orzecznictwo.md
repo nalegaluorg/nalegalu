@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi.*
 
 Łącznie: **179** orzeczeń
-(pominięto 460 orzeczeń sądów rejonowych)
+(pominięto 461 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

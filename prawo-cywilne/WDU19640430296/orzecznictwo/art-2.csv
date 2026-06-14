@@ -181,11 +181,14 @@ saos_id|date|court|case_number|type|score|saos_url
 79569|2000-03-16|SN|I PKN 723/99|Postanowienie|69|https://www.saos.org.pl/judgments/79569
 77406|1997-01-17|SN|I PKN 66/96|Postanowienie|69|https://www.saos.org.pl/judgments/77406
 76597|1994-07-14|SN|I PRN 47/94|Postanowienie|69|https://www.saos.org.pl/judgments/76597
+545140|2026-01-15|SO|I AGa 184/23|Wyrok|56|https://www.saos.org.pl/judgments/545140
 541496|2025-12-19|SO|I ACa 55/23|Wyrok|56|https://www.saos.org.pl/judgments/541496
 543910|2025-10-10|SO|I ACa 1864/22|Wyrok|56|https://www.saos.org.pl/judgments/543910
+546656|2025-05-16|SO|I ACa 2853/23|Wyrok|56|https://www.saos.org.pl/judgments/546656
 542515|2025-05-14|SO|I AGa 11/22|Wyrok|56|https://www.saos.org.pl/judgments/542515
 540341|2025-04-17|SO|I ACa 2752/23|Wyrok|56|https://www.saos.org.pl/judgments/540341
 540128|2025-03-28|SO|I ACa 1588/22|Wyrok|56|https://www.saos.org.pl/judgments/540128
+545981|2025-03-24|SO|I ACa 1702/24|Wyrok|56|https://www.saos.org.pl/judgments/545981
 527296|2025-03-10|SO|I ACa 1207/22|Wyrok|56|https://www.saos.org.pl/judgments/527296
 537435|2025-02-27|SO|I ACa 2093/22|Wyrok|56|https://www.saos.org.pl/judgments/537435
 536595|2025-02-26|SO|I ACa 1251/22|Wyrok|56|https://www.saos.org.pl/judgments/536595
@@ -778,6 +781,8 @@ saos_id|date|court|case_number|type|score|saos_url
 406639|2019-12-13|SO|III AUa 1479/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/406639
 372182|2016-11-08|SO|I ACa 102/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/372182
 540980|2025-12-02|SO|VII U 1564/23|Wyrok|40|https://www.saos.org.pl/judgments/540980
+545034|2025-11-05|SO|II Ca 606/25|Wyrok|40|https://www.saos.org.pl/judgments/545034
+545035|2025-11-04|SO|II Ca 624/25|Wyrok|40|https://www.saos.org.pl/judgments/545035
 538119|2025-10-21|SO|VII U 1626/24|Wyrok|40|https://www.saos.org.pl/judgments/538119
 536643|2025-10-03|SO|XIV C 1496/24|Wyrok|40|https://www.saos.org.pl/judgments/536643
 536066|2025-08-19|SO|VII Ua 14/25|Wyrok|40|https://www.saos.org.pl/judgments/536066

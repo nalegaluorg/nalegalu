@@ -8,10 +8,12 @@ pos: 1556
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# zmianie ustawy zasadach finansowania nauki oraz niektórych innych ustaw
+# o zmianie ustawy o zasadach finansowania nauki oraz niektórych innych ustaw
+
+*USTAWA z dnia 20 lipca 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +27,157 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001556) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1556/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 30 kwietnia 2010 r. zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, 1933 i 2260 oraz z 2017 r. poz. 859, 1475 i 1530) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2016 r. poz. 2045, 1933 i 2260 oraz z 2017 r. poz. 859, 1475 i 1530) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 30 kwietnia 2010 r. Narodowym Centrum Badań i Rozwoju (Dz. U. z 2017 r. poz. 1447) wprowadza się następujące zmiany:
+- **1)** uchyla się art. 4b;
+- **2)** w art. 9 pkt 2 otrzymuje brzmienie: „2) uczelniom – na realizację zadań, o których mowa w art. 5 pkt 10, na działalność, o której mowa w art. 18 ust. 1 pkt 4, oraz na rozbudowę i utrzymanie infrastruktury informatycznej nauki, o której mowa w art. 18 ust. 1 pkt 2a i art. 20 pkt 1 lit. b, a także na działalność upowszechniającą naukę, o której mowa w art. 25 ust. 1 pkt 2 i ust. 4a, oraz w przypadku gdy zgodnie ze statutem w strukturze uczelni nie wyodrębniono podstawowych jednostek organizacyjnych, na realizację zadań określonych w art. 5 pkt 10b, na działalność, o której mowa w art. 18 ust. 1 i 2 oraz art. 20;”;
+- **3)** w art. 13 w ust. 1a po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) finansowania działalności upowszechniającej naukę w zakresie, o którym mowa w art. 25 ust. 5;”;
+- **4)** w art. 13a pkt 1 otrzymuje brzmienie: „1) art. 23 ust. 1 pkt 1, 2 i 5, art. 24, art. 25 ust. 1, 3 i 4a oraz art. 26 – są przekazywane uprawnionym podmiotom na podstawie umowy określającej warunki jej realizacji i finansowania, a także rozliczania przyznanych środków finansowych;”;
+- **5)** w art. 18 ust. 6 otrzymuje brzmienie: „6. W przypadku szczególnych potrzeb jednostki naukowej, wynikających z prowadzonych przez nią badań naukowych lub prac rozwojowych, lub działań związanych z komercjalizacją ich wyników, Minister może zwiększyć dotację, o której mowa w ust. 1 pkt 1, biorąc pod uwagę:
+- **1)** kategorię naukową posiadaną przez tę jednostkę;
+- **2)** specyfikę i uwarunkowania działalności naukowej lub badawczo-rozwojowej prowadzonej przez tę jednostkę;
+- **3)** znaczenie zadań realizowanych przez tę jednostkę dla rozwoju nauki, postępu cywilizacyjnego, wzrostu innowacyjności gospodarki i rozwoju kulturalnego państwa.”;
+- **6)** w art. 25:
+    - **a)** ust. 4a otrzymuje brzmienie: „4a. Środki finansowe przeznaczone na finansowanie działalności upowszechniającej naukę przyznaje się na realizację zadań związanych z wydawaniem czasopism i monografii naukowych o wysokim poziomie merytorycznym i istotnym znaczeniu dla rozwoju nauki lub wzrostu innowacyjności polskiej gospodarki, mających na celu upowszechnianie wyników najnowszych badań naukowych lub prac rozwojowych, w celu wprowadzenia tych wyników do obiegu międzynarodowego oraz zapewnienia do nich otwartego dostępu przez sieć Internet.”,
+    - **b)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw nauki określi, w drodze rozporządzenia:
 
-**Art. 3.** W ustawie z dnia 30 kwietnia 2010 r. Narodowym Centrum Nauki (Dz. U. z 2016 r. poz. 1071 oraz z 2017 r. poz. 1089) wprowadza się następujące zmiany:
+- **1)** szczegółowe kryteria i tryb przyznawania środków finansowych na cele określone w ust. 1, 3, 4a i 5 w zakresie finansowania zadań związanych ze sporządzaniem ekspertyz, opinii i ocen naukowych, oraz rozliczania tych środków, w tym tryb oceny:
+    - **a)** wniosków o finansowanie zadań z zakresu działalności upowszechniającej naukę,
+    - **b)** realizacji finansowanych zadań z zakresu działalności upowszechniającej naukę,
 
-**Art. 4.** Jednostka naukowa lub uczelnia, którym przed dniem wejścia życie niniejszej ustawy została przyznana dotacja, której mowa art. 18 ust. 1 pkt 1 ustawy zmienianej art. 1, może złożyć do ministra właściwego do spraw nauki wniosek zwiększenie tej dotacji oparciu przesłanki określone art. 18 ust. 6 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+- **2)** szczegółowy zakres informacji zawartych:
+    - **a)** we wnioskach o finansowanie zadań z zakresu działalności upowszechniającej naukę,
+    - **b)** w raporcie rocznym i raporcie końcowym z wykorzystania środków finansowych przyznanych na cele określone w ust. 1, 3, 4a i 5 w zakresie finansowania zadań związanych ze sporządzaniem ekspertyz, opinii i ocen naukowych – mając na uwadze znaczenie zadań przewidzianych do finansowania i ich wpływ na realizację celów polityki naukowej, naukowo-technicznej i innowacyjnej państwa, potrzebę i znaczenie upowszechniania informacji o roli nauki w rozwoju gospodarczym i społecznym kraju, promowanie polskiej nauki za granicą, prawidłowość wykorzystania wcześniej przyznanych środków finansowych na naukę oraz potrzebę uzyskiwania informacji niezbędnych do prawidłowego przyznawania środków finansowych oraz ich rozliczania.”;
 
-**Art. 5.** Do umarzania, odraczania terminu spłaty i rozkładania raty należności wynikających z rozliczenia przyznanych:
+- **7)** w art. 27:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister może przyznać środki finansowe na organizowanie i finansowanie ustanowionego programu lub przedsięwzięcia jednostce naukowej, podmiotowi działającemu na rzecz nauki lub uczelni, wybranym w drodze konkursu.”,
+    - **b)** w ust. 3: – pkt 3 otrzymuje brzmienie: „3) wymagania, jakie muszą spełniać jednostki naukowe, podmioty działające na rzecz nauki lub uczelnie, przystępujące do konkursu,”, – część wspólna otrzymuje brzmienie: „– mając na uwadze sprawną organizację i cele ustanowionego programu lub przedsięwzięcia.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Środki finansowe przeznaczone na organizowanie i finansowanie ustanowionego przez Ministra programu lub przedsięwzięcia są przekazywane jednostce naukowej, podmiotowi działającemu na rzecz nauki lub uczelni na podstawie umowy.”;
+
+- **8)** w art. 30:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Minister ogłasza w Dzienniku Urzędowym Ministra komunikaty o środkach finansowych na naukę przyznanych w formie dotacji zawierające nazwy jednostek naukowych lub innych jednostek organizacyjnych oraz wysokość środków finansowych przyznanych przez Ministra.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Minister udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej komunikaty o:
+
+- **1)** przedsięwzięciach w zakresie strategicznej infrastruktury badawczej wpisanych na Polską Mapę Drogową Infrastruktury Badawczej;
+- **2)** środkach finansowych na naukę przyznanych na podstawie umowy zawierające nazwy jednostek naukowych lub innych jednostek organizacyjnych oraz wysokość środków finansowych przyznanych przez Ministra;
+- **3)** kategoriach naukowych przyznanych jednostkom naukowym i uczelniom, w których zgodnie z ich statutami nie wyodrębniono podstawowych jednostek organizacyjnych.”;
+- **9)** art. 47 otrzymuje brzmienie: „Art. 47. 1. Minister przyznaje kategorię naukową jednostce naukowej lub uczelni, o której mowa w art. 42 ust. 7, w drodze decyzji, na okres do dnia przyznania kategorii naukowej na podstawie kolejnej kompleksowej oceny jakości ich działalności naukowej lub badawczo-rozwojowej. Minister określa termin przeprowadzenia kolejnej kompleksowej oceny jakości ich działalności naukowej lub badawczo-rozwojowej i podaje go do wiadomości w drodze komunikatu udostępnionego w Biuletynie Informacji Publicznej na swojej stronie podmiotowej.
+
+2. Nieubieganie się jednostki naukowej lub uczelni, o której mowa w art. 42 ust. 7, o przyznanie kategorii naukowej w ramach kolejnej kompleksowej oceny jakości ich działalności naukowej lub badawczo-rozwojowej, w terminie określonym zgodnie z ust. 1, skutkuje wygaśnięciem decyzji o przyznaniu kategorii naukowej.
+
+3. Jednostka naukowa lub uczelnia, o której mowa w art. 42 ust. 7, niezadowolona z decyzji w sprawie przyznanej kategorii naukowej może zwrócić się do Ministra z wnioskiem o ponowne rozpatrzenie sprawy, w terminie 30 dni od dnia doręczenia decyzji.
+
+4. Wniosek, o którym mowa w ust. 3, jest opiniowany na posiedzeniu plenarnym Komitetu Ewaluacji Jednostek Naukowych w terminie 2 miesięcy od dnia otrzymania wniosku.
+
+5. Do postępowań w sprawach przyznania kategorii naukowej jednostce naukowej lub uczelni, o której mowa w art. 42 ust. 7, nie stosuje się art. 10 i art. 81 ustawy z dnia 14 czerwca 1960 r. ‒ Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257).”;
+
+- **10)** w art. 52 w ust. 1 pkt 1 otrzymuje brzmienie: „1) zespoły specjalistyczne lub interdyscyplinarne, złożone z właściwych ekspertów – w celu oceny:
+    - **a)** wniosków o przyznanie środków finansowych na naukę,
+    - **b)** wniosków o zmianę warunków umów, o których mowa w art. 13a,
+    - **c)** raportów rocznych i raportów końcowych z wykorzystania środków finansowych na naukę;”.
+
+**Art. 2.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2017 r. poz. 1447) wprowadza się następujące zmiany:
+
+- **1)** w art. 12 ust. 3 otrzymuje brzmienie: „3. W pracach Rady może uczestniczyć, z głosem doradczym, przedstawiciel Prezydenta Rzeczypospolitej Polskiej oraz po jednym przedstawicielu wyznaczonym przez ministrów właściwych do spraw:
+- **1)** budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa,
+- **2)** energii,
+- **3)** finansów publicznych,
+- **4)** gospodarki złożami kopalin,
+- **5)** pracy,
+- **6)** rodziny,
+- **7)** rozwoju regionalnego,
+- **8)** rybołówstwa,
+- **9)** zabezpieczenia społecznego,
+- **10)** żeglugi śródlądowej – spośród osób będących pracownikami administracji rządowej, do których kompetencji należą sprawy nauki.”;
+- **2)** w art. 20 ust. 2 otrzymuje brzmienie: „2. Ogłoszenie o naborze udostępnia się na stronie podmiotowej Centrum w Biuletynie Informacji Publicznej.”;
+- **3)** art. 40 otrzymuje brzmienie: „Art. 40. 1. Rozstrzygnięcia w sprawie przyznania środków finansowych na wykonanie projektów, w tym promesy finansowania, o której mowa w art. 37 ust. 2, są podejmowane przez Dyrektora w drodze decyzji, na podstawie listy rankingowej pozytywnie zaopiniowanych wniosków.
+
+2. W przypadku naruszenia procedury konkursowej lub innych naruszeń formalnych wnioskodawcy przysługuje odwołanie do komisji odwoławczej Rady, a w przypadku konkursów, o których mowa w art. 17 pkt 6 – do Komitetu Sterującego, w terminie 14 dni od dnia doręczenia decyzji Dyrektora.
+
+3. Komisja odwoławcza Rady lub Komitet Sterujący rozstrzyga w sprawie odwołania nie później niż w terminie 3 miesięcy od dnia złożenia odwołania.
+
+4. Jeżeli przepisy ustawy albo przepisy odrębne nie stanowią inaczej, do postępowań w sprawach przyznania środków finansowych na wykonanie projektów stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. ‒ Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257), z wyłączeniem art. 10, art. 13, art. 14, art. 28, art. 31, art. 56, art. 61 § 4, art. 63, art. 64, art. 75‒103, art. 107, art. 114‒122 oraz art. 123.
+
+5. Na rozstrzygnięcie komisji odwoławczej Rady albo Komitetu Sterującego przysługuje skarga do sądu administracyjnego.”;
+
+- **4)** w art. 41 w ust. 2:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „W umowie określa się w szczególności:”,
+    - **b)** w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) warunki rozwiązania umowy.”;
+
+- **5)** po art. 44 dodaje się art. 44a w brzmieniu: „Art. 44a. 1. Należności finansowe wynikające z rozliczenia środków finansowych przyznanych na wykonanie projektów Dyrektor może umorzyć z urzędu albo na wniosek dłużnika, jeżeli:
+- **1)** dłużnik został wykreślony z właściwego rejestru, a odpowiedzialność za długi nie przeszła na osoby trzecie;
+- **2)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się sumy wyższej od kosztów egzekucyjnych albo postępowanie egzekucyjne okazało się nieskuteczne;
+- **3)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika z przyczyn, o których mowa w art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2016 r. poz. 2171, 2260 i 2261 oraz z 2017 r. poz. 791), albo umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 361 ust. 1 tej ustawy.
+
+2. Dyrektor, na uzasadniony wniosek dłużnika albo z urzędu, może odroczyć termin spłaty lub rozłożyć na raty płatność należności finansowej wynikającej z rozliczenia środków finansowych przyznanych na wykonanie projektów, albo umorzyć w całości albo w części należność finansową wynikającą z rozliczenia środków finansowych przyznanych na wykonanie projektów, o ile umorzenie nie będzie stanowiło pomocy publicznej lub pomocy de minimis, jeżeli:
+
+- **1)** wystąpiła nadzwyczajna zmiana stosunków gospodarczych, której strony nie mogły przewidzieć w dniu otrzymania środków finansowych, z powodu której zapłata należności przez dłużnika groziłaby znacznym pogorszeniem jego sytuacji ekonomicznej;
+- **2)** wystąpiły ważne zdarzenia losowe niezależne od dłużnika;
+- **3)** jest to uzasadnione ryzykiem naukowym wynikającym z charakteru wykonywanego projektu;
+- **4)** jest to uzasadnione ważnymi względami społecznymi lub gospodarczymi oraz uzasadnionym interesem Skarbu Państwa.
+
+3. Umorzenie należności finansowej wynikającej z rozliczenia środków finansowych przyznanych na wykonanie projektów wymaga zgody Ministra w przypadku, o którym mowa:
+
+- **1)** w ust. 1 pkt 3 i ust. 2 pkt 1‒3, jeżeli wartość należności finansowej przekracza 150 000 zł;
+- **2)** w ust. 2 pkt 4.
+
+4. Spłata należności finansowej odroczonej albo rozłożonej na raty następuje na podstawie umowy zawartej z dłużnikiem.
+
+5. Do umorzenia należności finansowych wynikających z rozliczenia środków finansowych przyznanych na wykonanie projektów w przypadkach, o których mowa w ust. 1, stosuje się odpowiednio przepisy o pomocy publicznej lub pomocy de minimis.
+
+6. Dyrektor zamieszcza, na stronie podmiotowej Centrum w Biuletynie Informacji Publicznej, kwartalną informację o umorzeniach należności finansowych wynikających z rozliczenia środków finansowych przyznanych na wykonanie projektów, zawierającą wykaz podmiotów wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia, do końca miesiąca następującego po zakończeniu kwartału.”.
+
+**Art. 3.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2016 r. poz. 1071 oraz z 2017 r. poz. 1089) wprowadza się następujące zmiany:
+
+- **1)** art. 33 otrzymuje brzmienie: „Art. 33. 1. Rozstrzygnięcia w sprawie przyznania środków finansowych na badania zakwalifikowane do finansowania w drodze konkursów, o których mowa w art. 20 ust. 2, w tym promesy finansowania, o której mowa w art. 27 ust. 3, są podejmowane przez Dyrektora w drodze decyzji w terminie 6 miesięcy od upływu terminu składania wniosków.
+
+2. W przypadku naruszenia procedury konkursowej lub innych naruszeń formalnych wnioskodawcy przysługuje odwołanie do Komisji Odwoławczej Rady w terminie 14 dni od dnia doręczenia decyzji Dyrektora.
+
+3. Komisja Odwoławcza Rady rozstrzyga w sprawie odwołania nie później niż w terminie 3 miesięcy od dnia złożenia odwołania.
+
+4. Jeżeli przepisy ustawy albo przepisy odrębne nie stanowią inaczej, do postępowań w sprawie przyznania środków finansowych na badania zakwalifikowane do finansowania w drodze konkursów, o których mowa w art. 20 ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. ‒ Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257), z wyłączeniem art. 10, art. 13, art. 14, art. 28, art. 31, art. 56, art. 61 § 4, art. 63, art. 64, art. 75‒ 103, art. 107, art. 114‒122 oraz art. 123.
+
+5. Na decyzję Komisji Odwoławczej Rady przysługuje skarga do sądu administracyjnego.”;
+
+- **2)** w art. 34 w ust. 2:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „W umowie określa się w szczególności:”,
+    - **b)** w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) warunki rozwiązania umowy.”;
+
+- **3)** po art. 35 dodaje się art. 35a w brzmieniu: „Art. 35a. 1. Należności finansowe wynikające z rozliczenia środków finansowych przyznanych na podstawie art. 33 ust. 1 Dyrektor może umorzyć z urzędu albo na wniosek dłużnika, jeżeli:
+- **1)** dłużnik został wykreślony z właściwego rejestru, a odpowiedzialność za długi nie przeszła na osoby trzecie;
+- **2)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się sumy wyższej od kosztów egzekucyjnych albo postępowanie egzekucyjne okazało się nieskuteczne;
+- **3)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika z przyczyn, o których mowa w art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2016 r. poz. 2171, 2260 i 2261 oraz z 2017 r. poz. 791), albo umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 361 ust. 1 tej ustawy.
+
+2. Dyrektor, na uzasadniony wniosek dłużnika albo z urzędu, może umorzyć, w całości albo w części, należność finansową wynikającą z rozliczenia środków finansowych przyznanych na podstawie art. 33 ust. 1, odroczyć termin spłaty tej należności lub rozłożyć ją na raty, o ile nie będzie to stanowiło pomocy publicznej lub pomocy de minimis, jeżeli:
+
+- **1)** wystąpiła nadzwyczajna zmiana stosunków gospodarczych, której strony nie mogły przewidzieć w dniu otrzymania środków finansowych, z powodu której zapłata należności przez dłużnika groziłaby znacznym pogorszeniem jego sytuacji ekonomicznej;
+- **2)** wystąpiły ważne zdarzenia losowe niezależne od dłużnika;
+- **3)** jest to uzasadnione ryzykiem naukowym wynikającym z charakteru wykonywanego projektu;
+- **4)** jest to uzasadnione ważnymi względami społecznymi lub gospodarczymi oraz uzasadnionym interesem Skarbu Państwa.
+
+3. Umorzenie należności finansowej wynikającej z rozliczenia środków finansowych przyznanych na podstawie art. 33 ust. 1 wymaga zgody Ministra w przypadku, o którym mowa:
+
+- **1)** w ust. 1 pkt 3 i ust. 2 pkt 1‒3, jeżeli wartość należności finansowej przekracza 150 000 zł;
+- **2)** w ust. 2 pkt 4.
+
+4. Spłata należności finansowej odroczonej albo rozłożonej na raty następuje na podstawie umowy zawartej z dłużnikiem.
+
+5. Do umorzenia należności finansowych wynikających z rozliczenia środków finansowych przyznanych na podstawie art. 33 ust. 1, w przypadkach, o których mowa w ust. 1, stosuje się odpowiednio przepisy o pomocy publicznej lub pomocy de minimis.
+
+6. Dyrektor zamieszcza, na stronie podmiotowej Centrum w Biuletynie Informacji Publicznej, kwartalną informację o umorzeniach należności finansowych wynikających z rozliczenia środków finansowych przyznanych na podstawie art. 33 ust. 1, zawierającą wykaz podmiotów wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia, do końca miesiąca następującego po zakończeniu kwartału.”.
+
+**Art. 4.** Jednostka naukowa lub uczelnia, którym przed dniem wejścia w życie niniejszej ustawy została przyznana dotacja, o której mowa w art. 18 ust. 1 pkt 1 ustawy zmienianej w art. 1, może złożyć do ministra właściwego do spraw nauki wniosek o zwiększenie tej dotacji w oparciu o przesłanki określone w art. 18 ust. 6 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 5.** Do umarzania, odraczania terminu spłaty i rozkładania na raty należności finansowych wynikających z rozliczenia środków finansowych przyznanych:
+
+- **1)** na wykonanie projektów zgodnie z przepisami ustawy zmienianej w art. 2, przed dniem wejścia w życie niniejszej ustawy – stosuje się art. 44a ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą;
+- **2)** na podstawie art. 33 ust. 1 ustawy zmienianej w art. 3, przed dniem wejścia w życie niniejszej ustawy – stosuje się art. 35a ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 6.**
+
+1. Do umowy o wykonanie i finansowanie projektu zawartej przed dniem wejścia w życie niniejszej ustawy, na podstawie ustawy zmienianej w art. 2, stosuje się art. 41 ust. 2 tej ustawy, w brzmieniu dotychczasowym.
+
+2. Do umowy o realizację i finansowanie projektu badawczego zawartej przed dniem wejścia w życie niniejszej ustawy, na podstawie ustawy zmienianej w art. 3, stosuje się art. 34 ust. 2 tej ustawy, w brzmieniu dotychczasowym.
+
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6, który wchodzi w życie z dniem 1 stycznia 2018 r.
 

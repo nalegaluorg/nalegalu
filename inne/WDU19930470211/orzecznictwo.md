@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.*
 
-Łącznie: **888** orzeczeń
-(pominięto 554 orzeczeń sądów rejonowych)
+Łącznie: **890** orzeczeń
+(pominięto 557 orzeczeń sądów rejonowych)
 
 ## art. 1 (20)
 
@@ -39,7 +39,7 @@ Orzeczenia powołujące: *Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczc
 - 2014-01-22 | SO | [VI ACa 774/13](https://www.saos.org.pl/judgments/62417) | Wyrok
 - 2021-10-14 | SO | [VII U 1132/21](https://www.saos.org.pl/judgments/452871) | Wyrok
 
-## art. 3 (260)
+## art. 3 (261)
 
 - 2013-11-08 | SN | [I CSK 712/12](https://www.saos.org.pl/judgments/165551) | Wyrok ★
 - 2013-09-27 | SN | [I CSK 739/12](https://www.saos.org.pl/judgments/102934) | Wyrok ★
@@ -57,6 +57,7 @@ Orzeczenia powołujące: *Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczc
 - 2002-01-08 | SN | [I PKN 782/00](https://www.saos.org.pl/judgments/81112) | Wyrok ★
 - 2001-02-02 | SN | [IV CKN 255/00](https://www.saos.org.pl/judgments/80300) | Wyrok ★
 - 1996-12-10 | SN | [III RN 50/96](https://www.saos.org.pl/judgments/77365) | Wyrok ★
+- 2025-12-04 | SO | [I AGa 84/23](https://www.saos.org.pl/judgments/545074) | Wyrok
 - 2025-03-25 | SO | [I AGa 88/23](https://www.saos.org.pl/judgments/528787) | Wyrok
 - 2024-10-21 | SO | [I AGa 279/22](https://www.saos.org.pl/judgments/520782) | Wyrok
 - 2024-04-04 | SO | [I AGa 302/22](https://www.saos.org.pl/judgments/495029) | Wyrok
@@ -664,13 +665,14 @@ Orzeczenia powołujące: *Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczc
 
 - 2013-11-21 | SO | [I ACa 374/13](https://www.saos.org.pl/judgments/30286) | Wyrok
 
-## art. 15 (341)
+## art. 15 (342)
 
 - 1999-04-26 | TK | [K 33/98](https://www.saos.org.pl/judgments/205946) | Wyrok ★
 - 2003-06-23 | TK | [Tw 73/02](https://www.saos.org.pl/judgments/106678) | Postanowienie ★
 - 2003-03-19 | TK | [Tw 73/02](https://www.saos.org.pl/judgments/206177) | Postanowienie ★
 - 2006-03-09 | SN | [I CZ 12/06](https://www.saos.org.pl/judgments/84133) | Postanowienie
 - 2025-05-28 | SO | [I AGa 197/24](https://www.saos.org.pl/judgments/533653) | Wyrok
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
 - 2023-10-17 | SO | [I AGa 52/23](https://www.saos.org.pl/judgments/495106) | Wyrok
 - 2021-07-15 | SO | [I AGa 108/20](https://www.saos.org.pl/judgments/448540) | Wyrok
 - 2021-06-29 | SO | [I AGa 112/21](https://www.saos.org.pl/judgments/460020) | Wyrok
@@ -1042,7 +1044,7 @@ Orzeczenia powołujące: *Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczc
 - 2003-06-23 | TK | [Tw 73/02](https://www.saos.org.pl/judgments/106678) | Postanowienie ★
 - 2003-03-19 | TK | [Tw 73/02](https://www.saos.org.pl/judgments/206177) | Postanowienie ★
 
-## art. 18 (178)
+## art. 18 (179)
 
 - 2013-11-08 | SN | [I CSK 712/12](https://www.saos.org.pl/judgments/165551) | Wyrok ★
 - 2013-09-27 | SN | [I CSK 739/12](https://www.saos.org.pl/judgments/102934) | Wyrok ★
@@ -1052,6 +1054,7 @@ Orzeczenia powołujące: *Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczc
 - 2002-10-22 | SN | [III CKN 271/01](https://www.saos.org.pl/judgments/81663) | Wyrok ★
 - 2002-03-26 | SN | [III CKN 777/00](https://www.saos.org.pl/judgments/81312) | Wyrok ★
 - 2001-02-02 | SN | [IV CKN 255/00](https://www.saos.org.pl/judgments/80300) | Wyrok ★
+- 2025-12-04 | SO | [I AGa 84/23](https://www.saos.org.pl/judgments/545074) | Wyrok
 - 2024-06-26 | SO | [III APa 2/23](https://www.saos.org.pl/judgments/528580) | Wyrok
 - 2023-11-23 | SO | [I AGa 336/22](https://www.saos.org.pl/judgments/495060) | Wyrok
 - 2023-10-17 | SO | [I AGa 52/23](https://www.saos.org.pl/judgments/495106) | Wyrok

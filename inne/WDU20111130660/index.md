@@ -8,7 +8,7 @@ pos: 660
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
@@ -28,6 +28,16 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111130660) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/660/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2009 r. Nr 52, poz. 417 i Nr 76, poz. 641, z 2010 r. Nr 96, poz. 620 oraz z 2011 r. Nr 113, poz. 660) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6 w brzmieniu: „6) zasady i tryb ustalania odszkodowania i zadośćuczynienia w przypadku zdarzeń medycznych.”;
+- **2)** w art. 14:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przepisu ust. 1 nie stosuje się także do postępowania przed wojewódzką komisją do spraw orzekania o zdarzeniach medycznych, o której mowa w art. 67e ust. 1.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Osoby wykonujące zawód medyczny, z wyjątkiem przypadków, o których mowa w ust. 2 pkt 1–3 i ust. 2a, są związane tajemnicą również po śmierci pacjenta.”;
+
+- **3)** w art. 26 w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 i 10 w brzmieniu: „9) wojewódzkiej komisji do spraw orzekania o zdarzeniach medycznych, o której mowa w art. 67e ust. 1, w zakresie prowadzonego postępowania;
+- **10)** spadkobiercom w zakresie prowadzonego postępowania przed wojewódzką komisją do spraw orzekania o zdarzeniach medycznych, o której mowa w art. 67e ust. 1.”;
+- **4)** w art. 28 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Opł aty, o której mowa w ust. 1, nie pobiera się w przypadku udostępniania dokumentacji medycznej w związku z postępowaniem przed wojewódzką komisją do spraw orzekania o zdarzeniach medycznych, o której mowa w art. 67e ust. 1.”;
+- **5)** po rozdziale 13 dodaje się rozdział 13a w brzmieniu: „Rozdział 13a Zasady i tryb ustalania odszkodowania i zadośćuczynienia w przypadku zdarzeń medycznych
 
 **Art. 67a.**
 
@@ -57,7 +67,7 @@ source: "isap-pdf"
 
 1. Wniosek o ustalenie zdarzenia medycznego, zwany dalej „wnioskiem”, wnosi się do wojewódzkiej komisji do spraw orzekania o zdarzeniach medycznych właściwej ze względu na siedzibę szpitala.
 
-2. Wniosek wnosi się w terminie 1 roku od dnia, w którym podmiot składający wniosek dowiedział się o zakażeniu, uszkodzeniu ciała lub rozstroju zdrowia albo nastąpiła śmierć pacjenta, o których mowa w art. 67a ust. 1, jednakże termin ten nie może być dłuższy żeniem, uszkodzeniem ciała lub rozstrojem zdrowia albo śmiercią pacjenta.
+2. Wniosek wnosi się w terminie 1 roku od dnia, w którym podmiot składający wniosek dowiedział się o zakażeniu, uszkodzeniu ciała lub rozstroju zdrowia albo nastąpiła śmierć pacjenta, o których mowa w art. 67a ust. 1, jednakże termin ten nie może być dłuższy niż 3 lata od dnia, w którym nastąpiło zdarzenie skutkujące zakażeniem, uszkodzeniem ciała lub rozstrojem zdrowia albo śmiercią pacjenta.
 
 3. Złożenie wniosku, w wyniku którego wojewódzka komisja do spraw orzekania o zdarzeniach medycznych, o której mowa w art. 67e ust. 1, wydała orzeczenie o zdarzeniu medycznym, przerywa bieg terminu przedawnienia roszczeń określony w przepisach Kodeksu cywilnego wynikający ze zdarzeń objętych wnioskiem.
 
@@ -88,7 +98,7 @@ source: "isap-pdf"
 
 - **1)** dowody uprawdopodabniające okoliczności wskazane we wniosku;
 - **2)** potwierdzenie uiszczenia opłaty, o której mowa w ust. 3;
-- **3)** postanowienie o stwierdzeniu nabycia spadku w przypadku, o którym mowa w art. 67b ust. 1 pkt 2, oraz pełnomocnictwo ku złożenia wniosku przez co najmniej jednego z nich.
+- **3)** postanowienie o stwierdzeniu nabycia spadku w przypadku, o którym mowa w art. 67b ust. 1 pkt 2, oraz pełnomocnictwo do reprezentowania pozostałych spadkobierców, w przypadku złożenia wniosku przez co najmniej jednego z nich.
 
 3. Złożenie wniosku podlega opłacie w wysokości 200 zł. Opłata podlega zaliczeniu na poczet kosztów postępowania przed wojewódzką komisją do spraw orzekania o zdarzeniach medycznych.
 
@@ -112,7 +122,8 @@ source: "isap-pdf"
 4. Członkiem wojewódzkiej komisji nie może być osoba:
 
 - **1)** prawomocnie skazana za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **2)** prawomocnie ukarana karą z tytułu odpowiedzialności dyscyplinarnej albo zawodowej; ny w art. 39 pkt 2 lub 2a Kodeksu karnego.
+- **2)** prawomocnie ukarana karą z tytułu odpowiedzialności dyscyplinarnej albo zawodowej;
+- **3)** wobec której prawomocnie orzeczono środek karny określony w art. 39 pkt 2 lub 2a Kodeksu karnego.
 
 5. Spośród członków wojewódzkiej komisji:
 
@@ -140,7 +151,7 @@ source: "isap-pdf"
 
 10. O powołaniu na członka wojewódzkiej komisji oraz o terminach jej posiedzeń informuje się pracodawcę tej osoby.
 
-11. Pracami wojewódzkiej komisji kieruje przewodniczący wybrany spośród jej członków na pierwszym posiedzeniu większością głotajnym.
+11. Pracami wojewódzkiej komisji kieruje przewodniczący wybrany spośród jej członków na pierwszym posiedzeniu większością głosów przy obecności co najmniej 3/4 jej członków, w głosowaniu tajnym.
 
 12. Termin pierwszego posiedzenia wojewódzkiej komisji wyznacza wojewoda. Pierwszemu posiedzeniu, do czasu wyboru przewodniczącego, o którym mowa w ust. 11, przewodniczy członek wojewódzkiej komisji wyznaczony przez wojewodę.
 
@@ -165,7 +176,10 @@ source: "isap-pdf"
 
 - **1)** właścicielami, osobami zatrudnionymi lub współpracującymi z podmiotem leczniczym prowadzącym szpital lub z ubezpieczycielem, o których mowa w art. 67i ust. 2, oraz członkami organów tego podmiotu lub ubezpieczyciela;
 - **2)** członkami organów oraz osobami zatrudnionymi w podmiocie tworzącym w rozumieniu przepisów o działalności leczniczej, jeżeli podmiot ten utworzył podmiot leczniczy niebędący przedsiębiorcą, który prowadzi szpital, o którym mowa w art. 67i ust. 2 pkt 1;
-- **3)** posiadaczami akcji lub udziałów przedstawiających więcej niż 10 % kapitału zakładowego w spółkach handlowych będących podmiotami leczniczymi prowadzącymi szpital, o którym mowa w art. 67i ust. 2 pkt 1, oraz ubezpieczyciela, o którym mowa w art. 67i ust. 2 pkt 2. niu w sprawach, w których:
+- **3)** posiadaczami akcji lub udziałów przedstawiających więcej niż 10 % kapitału zakładowego w spółkach handlowych będących podmiotami leczniczymi prowadzącymi szpital, o którym mowa w art. 67i ust. 2 pkt 1, oraz ubezpieczyciela, o którym mowa w art. 67i ust. 2 pkt 2.
+
+2. Członek składu orzekającego podlega wyłączeniu w postępowaniu w sprawach, w których:
+
 - **1)** jest podmiotem składającym wniosek lub pozostaje z tym podmiotem w takim stosunku prawnym, że wynik postępowania przed wojewódzką komisją ma wpływ na jego prawa i obowiązki;
 - **2)** pozostaje z podmiotem składającym wniosek w takim stosunku osobistym, że wywołuje to wątpliwości co do jego bezstronności;
 - **3)** podmiotem składającym wniosek jest jego małżonek, krewny lub powinowaty w linii prostej, krewny boczny do czwartego stopnia i powinowaty boczny do drugiego stopnia;
@@ -190,7 +204,9 @@ source: "isap-pdf"
 - **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy;
 - **3)** zwolnienie od pracy w dniu posiedzenia komisji, bez zachowania prawa do wynagrodzenia.
 
-2. Kwota, o której mowa w ust. 1 pkt 1, podlega waloryzacji z uwzględnieniem średniorocznego wskaźnika wzrostu wynagrodzeń w państwowej sferze budżetowej, przyjętego w ustawie budżetowej. państwa, z części pozostającej w dyspozycji właściwego wojewody. Wysokość wynagrodzenia, o którym mowa w ust. 1 pkt 1, ustala właściwy wojewoda.
+2. Kwota, o której mowa w ust. 1 pkt 1, podlega waloryzacji z uwzględnieniem średniorocznego wskaźnika wzrostu wynagrodzeń w państwowej sferze budżetowej, przyjętego w ustawie budżetowej.
+
+3. Działalność wojewódzkiej komisji jest finansowana z budżetu państwa, z części pozostającej w dyspozycji właściwego wojewody. Wysokość wynagrodzenia, o którym mowa w ust. 1 pkt 1, ustala właściwy wojewoda.
 
 **Art. 67i.**
 
@@ -214,6 +230,7 @@ source: "isap-pdf"
 
 - **1)** żądać dokumentacji prowadzonej przez podmiot leczniczy prowadzący szpital, w tym dokumentacji medycznej;
 - **2)** przeprowadzać postępowanie wyjaśniające w podmiocie leczniczym prowadzącym szpital;
+- **3)** dokonywać wizytacji pomieszczeń i urządzeń szpitala.
 
 6. Z czynności, o których mowa w ust. 5 pkt 2 i 3, sporządza się protokół, który podpisują członkowie wojewódzkiej komisji oraz osoby uczestniczące w tych czynnościach. Odmowę lub niemożność podpisania stwierdza się w protokole.
 
@@ -238,7 +255,9 @@ source: "isap-pdf"
 
 7. W terminie 14 dni od dnia doręczenia orzeczenia wraz z uzasadnieniem podmiotowi składającemu wniosek, kierownikowi podmiotu leczniczego prowadzącego szpital oraz ubezpieczycielowi, o których mowa w art. 67i ust. 2, przysługuje prawo złożenia do wojewódzkiej komisji umotywowanego wniosku o ponowne rozpatrzenie sprawy.
 
-8. Wniosek o ponowne rozpatrzenie sprawy wojewódzka komisja rozpatruje w terminie 30 dni od dnia jego otrzymania. W rozpatrywaniu tego wniosku nie może uczestniczyć członek składu orzekającego, który brał udział w wydaniu zaskarżonego orzeczenia. Przepisy ust. 1, 3–6 oraz art. 67g–67i stosuje się. żenia wniosku o ponowne rozpatrzenie sprawy o bezskutecznym upływie terminu, o którym mowa w ust. 7.
+8. Wniosek o ponowne rozpatrzenie sprawy wojewódzka komisja rozpatruje w terminie 30 dni od dnia jego otrzymania. W rozpatrywaniu tego wniosku nie może uczestniczyć członek składu orzekającego, który brał udział w wydaniu zaskarżonego orzeczenia. Przepisy ust. 1, 3–6 oraz art. 67g–67i stosuje się.
+
+9. Wojewódzka komisja zawiadamia podmioty uprawnione do złożenia wniosku o ponowne rozpatrzenie sprawy o bezskutecznym upływie terminu, o którym mowa w ust. 7.
 
 **Art. 67k.**
 
@@ -260,7 +279,9 @@ source: "isap-pdf"
 7. Maksymalna wysokość świadczenia (odszkodowania i zadośćuczynienia) w 12 miesięcznym okresie ubezpieczenia, w odniesieniu do wszystkich zdarzeń medycznych objętych ochroną ubezpieczeniową, wynosi 1 200 000 zł, z tym że w przypadku:
 
 - **1)** zakażenia, uszkodzenia ciała lub rozstroju zdrowia pacjenta – wynosi 100 000 zł,
-- **2)** śmierci pacjenta – wynosi 300 000 zł – w odniesieniu do jednego pacjenta. nia i zadośćuczynienia przedstawiona przez ubezpieczyciela stanowi tytuł wykonawczy. Przepisy działu II tytułu I części trzeciej Kodeksu postępowania cywilnego stosuje się.
+- **2)** śmierci pacjenta – wynosi 300 000 zł – w odniesieniu do jednego pacjenta.
+
+8. W przypadku, o którym mowa w ust. 6, propozycja odszkodowania i zadośćuczynienia przedstawiona przez ubezpieczyciela stanowi tytuł wykonawczy. Przepisy działu II tytułu I części trzeciej Kodeksu postępowania cywilnego stosuje się.
 
 9. Przedstawienie przez ubezpieczyciela propozycji, o której mowa w ust. 2, lub wypłata przez niego odszkodowania lub zadośćuczynienia, nie oznacza uznania roszczenia dla celów jego dochodzenia w postępowaniu cywilnym.
 
@@ -288,7 +309,8 @@ source: "isap-pdf"
 
 5. Koszty postępowania przed wojewódzką komisją stanowią:
 
-- **1)** opłata, o której mowa w art. 67d ust. 3; lub dochodów osób wezwanych przez wojewódzką komisję;
+- **1)** opłata, o której mowa w art. 67d ust. 3;
+- **2)** zwrot kosztów podróży i noclegu oraz utraconych zarobków lub dochodów osób wezwanych przez wojewódzką komisję;
 - **3)** wynagrodzenie za sporządzenie opinii. Wpływy z kosztów stanowią dochód budżetu państwa.
 
 6. Wydatki związane z doręczaniem wezwań i innych pism wojewódzkiej komisji oraz ze zwrotem opłat nie obciążają podmiotu składającego wniosek, podmiotu leczniczego prowadzącego szpital oraz ubezpieczyciela.
@@ -308,7 +330,7 @@ source: "isap-pdf"
 
 **Art. 67o.** W zakresie nieuregulowanym przepisami art. 67a–67m do postępowania przed wojewódzką komisją stosuje się odpowiednio przepisy art. 50, 51, 53 , 102, 131, 133–143, 150, 156, 157–158, 162, 164 –172, 173–174, art. 180 § 1 pkt 1 i 3, art. 181 pkt 2, art. 206 § 1, art. 207 § 1, art. 210–213, 216, 217, 224, 225, 227–237, 240–242, 244–257, 258 – 273, 277, 280–289, 299–300, 316, 350, 353, 424 i 424 –424 Kodeksu postępowania cywilnego.”.
 
-**Art. 2.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm. ) w art. 13 ust. 1 otrzymuje brzmienie: pieczenia obowiązkowego na podstawie uznania roszczenia uprawnionego z umowy ubezpieczenia w wyniku ustaleń, zawartej z nim ugody, prawomocnego orzeczenia sądu lub w sposób określony w przepisach ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2009 r. Nr 52, poz. 417, z późn. zm. ).”.
+**Art. 2.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm. ) w art. 13 ust. 1 otrzymuje brzmienie: „1. Zakład ubezpieczeń wypłaca odszkodowanie lub świadczenie z tytułu ubezpieczenia obowiązkowego na podstawie uznania roszczenia uprawnionego z umowy ubezpieczenia w wyniku ustaleń, zawartej z nim ugody, prawomocnego orzeczenia sądu lub w sposób określony w przepisach ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2009 r. Nr 52, poz. 417, z późn. zm. ).”.
 
 **Art. 3.**
 

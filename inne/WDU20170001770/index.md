@@ -8,12 +8,10 @@ pos: 1770
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2017 1523) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia 30 marca 2010 wzoru o dopłatach grach liczbowych, loteriach pieniężnych grze telebingo 313), uwzględnieniem zmiany wprowadzonej rozporządzeniem Rozwoju 25 kwietnia 2017 zmieniającym rozporządzenie wzoru o dopłatach grach liczbowych, loteriach pieniężnych grze telebingo 866).
-
-*OBWIESZCZENIE MINISTRA ROZWOJU I FINANSÓW 8 września 2017 ogłoszenia jednolitego tekstu wzoru o dopłatach grach liczbowych, loteriach pieniężnych grze telebingo*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1770 OBWIESZCZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 8 września 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,11 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1770/text.pdf) |
 
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje 2 25 kwietnia 2017 zmieniającego rozporządzenie wzoru o dopłatach grach liczbowych, loteriach pieniężnych grze telebingo 866), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem maja 2017 r.”.
-Minister Finansów: wz. W. Janczyk wzoru o dopłatach grach liczbowych, loteriach pieniężnych grze telebingo Na podstawie art. 84 ustawy 19 listopada 2009 o grach hazardowych 2016 471, 1948 2260 oraz 2017 88, 379 1089) zarządza się, co następuje:
-1. Określa się wzór o dopłatach grach liczbowych, loteriach pieniężnych grze telebingo, stanowiący załącznik rozporządzenia.
-2. 1. Wzór, o którym mowa 1, ma zastosowanie podmiotów urządzających gry liczbowe, loterie pieniężne grę telebingo, począwszy od stycznia 2010
-2. Informację o dopłatach grach liczbowych, loteriach pieniężnych grze telebingo za miesiące styczeń luty 2010 składa się według wzoru określonego 10 kwietnia 2010
-3. Rozporządzenie wchodzi życie po upływie 3 dni od ogłoszenia .
-GHD-1 INFORMACJA O DOPŁATACH W GRACH LICZBOWYCH, LOTERIACH PIENIĘŻNYCH I GRZE TELEBINGO za A. MIEJSCE I CEL SKŁADANIA INFORMACJI   B. DANE PODMIOTU REALIZUJĄCEGO MONOPOL PAŃSTWA W ZAKRESIE GIER HAZARDOWYCH B.1. DANE IDENTYFIKACYJNE PODMIOTU B.2. ADRES SIEDZIBY C. OBLICZENIE KWOTY DOPŁAT 25% 10% 10% GHD-1 GHD-1 2 E. PODPIS OSOBY UPRAWNIONEJ DO ZŁOŻENIA INFORMACJI - F. ADNOTACJE ORGANU
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wzoru informacji o dopłatach w grach liczbowych, loteriach pieniężnych i grze telebingo
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 30 marca 2010 r. w sprawie wzoru informacji o dopłatach w grach liczbowych, loteriach pieniężnych i grze telebingo (Dz. U. poz. 313), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 25 kwietnia 2017 r. zmieniającym rozporządzenie w sprawie wzoru informacji o dopłatach w grach liczbowych, loteriach pieniężnych i grze telebingo (Dz. U. poz. 866).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 25 kwietnia 2017 r. zmieniającego rozporządzenie w sprawie wzoru informacji o dopłatach w grach liczbowych, loteriach pieniężnych i grze telebingo (Dz. U. poz. 866), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 maja 2017 r.”.
+Minister Rozwoju i Finansów: wz. W. Janczyk ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 30 marca 2010 r.
+w sprawie wzoru informacji o dopłatach w grach liczbowych, loteriach pieniężnych i grze telebingo Na podstawie art. 84 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471, 1948 i 2260 oraz z 2017 r. poz. 88, 379 i 1089) zarządza się, co następuje:
+§ 1. Określa się wzór informacji o dopłatach w grach liczbowych, loteriach pieniężnych i grze telebingo, stanowiący załącznik do rozporządzenia.
+§ 2. 1. Wzór, o którym mowa w § 1, ma zastosowanie do podmiotów urządzających gry liczbowe, loterie pieniężne i grę telebingo, począwszy od stycznia 2010 r.
+2. Informację o dopłatach w grach liczbowych, loteriach pieniężnych i grze telebingo za miesiące styczeń i luty 2010 r.
+składa się według wzoru określonego w § 1 do dnia 10 kwietnia 2010 r.
+§ 3. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
+GHD-1 INFORMACJA O DOPŁATACH W GRACH LICZBOWYCH, LOTERIACH PIENIĘŻNYCH I GRZE TELEBINGO za A. MIEJSCE I CEL SKŁADANIA INFORMACJI   B. DANE PODMIOTU REALIZUJĄCEGO MONOPOL PAŃSTWA W ZAKRESIE GIER HAZARDOWYCH B.1. DANE IDENTYFIKACYJNE PODMIOTU B.2. ADRES SIEDZIBY C. OBLICZENIE KWOTY DOPŁAT 25% 10% 10% GHD-1 1 D. ROZLICZENIE DOPŁAT E. PODPIS OSOBY UPRAWNIONEJ DO ZŁOŻENIA INFORMACJI - F. ADNOTACJE ORGANU GHD-1 2
 

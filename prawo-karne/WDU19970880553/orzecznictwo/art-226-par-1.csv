@@ -104,6 +104,7 @@ saos_id|date|court|case_number|type|score|saos_url
 81720|2002-11-26|SN|III KZ 47/02|Postanowienie|69|https://www.saos.org.pl/judgments/81720
 79891|2000-09-07|SN|I KZP 26/00|Postanowienie|69|https://www.saos.org.pl/judgments/79891
 544498|2026-02-11|SO|II AKa 257/25|Wyrok|56|https://www.saos.org.pl/judgments/544498
+545836|2025-10-15|SO|II AKa 259/25|Wyrok|56|https://www.saos.org.pl/judgments/545836
 531981|2025-04-16|SO|II AKa 37/25|Wyrok|56|https://www.saos.org.pl/judgments/531981
 523716|2024-12-11|SO|II AKa 166/24|Wyrok|56|https://www.saos.org.pl/judgments/523716
 519672|2024-11-27|SO|II AKa 122/24|Wyrok|56|https://www.saos.org.pl/judgments/519672
@@ -296,6 +297,7 @@ saos_id|date|court|case_number|type|score|saos_url
 359667|2016-07-06|SO|II AKa 87/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/359667
 312833|2016-04-19|SO|II AKa 35/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/312833
 65027|2014-09-23|SO|II AKa 83/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/65027
+546028|2026-04-17|SO|II K 552/25|Wyrok|40|https://www.saos.org.pl/judgments/546028
 543955|2026-02-11|SO|II K 7/26|Wyrok|40|https://www.saos.org.pl/judgments/543955
 540746|2026-01-13|SO|VI Ka 1187/25|Wyrok|40|https://www.saos.org.pl/judgments/540746
 543181|2025-11-21|SO|II K 637/25|Wyrok|40|https://www.saos.org.pl/judgments/543181
@@ -754,6 +756,7 @@ saos_id|date|court|case_number|type|score|saos_url
 129539|2015-02-16|SO|III K 12/15|Postanowienie|31|https://www.saos.org.pl/judgments/129539
 36693|2014-02-28|SO|V Kz 47/14|Postanowienie|31|https://www.saos.org.pl/judgments/36693
 28902|2013-12-19|SO|VI Kz 867/13|Postanowienie|31|https://www.saos.org.pl/judgments/28902
+546235|2026-05-08|SO|II K 552/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/546235
 543182|2025-11-21|SO|II K 637/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/543182
 532793|2025-05-28|SO|VI Ka 1352/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/532793
 533051|2025-03-13|SO|IV Ka 624/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/533051

@@ -8,10 +8,10 @@ pos: 275
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 marca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 275 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 12 lutego 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,24 +25,25 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000275) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/275/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 12 lutego 2016 r.
-w sprawie gospodarowania lokalami mieszkalnymi przez Agencję Mienia Wojskowego Na podstawie art. 75 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. poz. 1322 i 1830) zarządza się, co następuje: § 1. 1. Rozporządzenie określa sposób gospodarowania lokalami mieszkalnymi przez Agencję Mienia Wojskowego, w tym:
+w sprawie gospodarowania lokalami mieszkalnymi przez Agencję Mienia Wojskowego Na podstawie art. 75 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. poz. 1322 i 1830) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa sposób gospodarowania lokalami mieszkalnymi przez Agencję Mienia Wojskowego, w tym:
 1) zakres remontów, konserwacji i napraw lokali mieszkalnych, które obciążają Agencję, oraz zakres konserwacji, napraw i wymiany, których Agencja nie wykonuje w lokalach mieszkalnych;
 2) sposób i tryb dokonywania remontów i ich odbioru;
 3) sposób ustalania zużycia wyposażenia i urządzeń technicznych w lokalu mieszkalnym oraz normy tego zużycia, kwalifikujące do naprawy lub wymiany;
 4) sposób ustalania kosztów remontów kwater albo lokali mieszkalnych nieprzeznaczonych na kwatery internatowe;
 5) wzór protokołu przekazania i przyjęcia oraz opróżnienia lokalu mieszkalnego.
 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie należy przez to rozumieć ustawę z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego;
-2) Agencji należy przez to rozumieć Agencję Mienia Wojskowego;
-3) dyrektorze oddziału regionalnego należy przez to rozumieć dyrektora oddziału regionalnego Agencji Mienia Wojskowego, właściwego ze względu na miejscowość, w której jest położony lokal mieszkalny;
-4) lokalu mieszkalnym należy przez to rozumieć kwaterę, kwaterę internatową albo inny lokal mieszkalny.
+1) ustawie – należy przez to rozumieć ustawę z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego;
+2) Agencji – należy przez to rozumieć Agencję Mienia Wojskowego;
+3) dyrektorze oddziału regionalnego – należy przez to rozumieć dyrektora oddziału regionalnego Agencji Mienia Wojskowego, właściwego ze względu na miejscowość, w której jest położony lokal mieszkalny;
+4) lokalu mieszkalnym – należy przez to rozumieć kwaterę, kwaterę internatową albo inny lokal mieszkalny.
 § 2. 1. Agencja wykonuje naprawy zużytych w trakcie normalnej eksploatacji elementów budynku znajdujących się w lokalach mieszkalnych stanowiących własność Skarbu Państwa, przekazanych Agencji przez Ministra Obrony Narodowej, pozyskanych w drodze realizacji inwestycji własnych oraz umów sprzedaży, a także pozyskanych w drodze darowizny, spadku albo zapisu, a jeżeli zachodzi taka potrzeba, także wymiany:
 1) stolarki okiennej;
 2) stolarki drzwiowej wewnętrznej i zewnętrznej;
 3) podłóg i posadzek oraz okładzin ściennych;
 4) tynków ścian i sufitów, z malowaniem;
 5) balkonów i loggii, z malowaniem;
+6) instalacji ogrzewczych;
 7) instalacji wodociągowych zimnej i ciepłej wody;
 8) instalacji kanalizacyjnej z wyłączeniem przewodów odpływowych urządzeń sanitarnych do pionów zbiorczych;
 9) instalacji elektrycznej wraz z osprzętem;
@@ -64,16 +65,16 @@ w sprawie gospodarowania lokalami mieszkalnymi przez Agencję Mienia Wojskowego 
 2. Agencja nie wykonuje w lokalach mieszkalnych:
 1) malowania i tapetowania tynków ścian i sufitów,
 2) obustronnego malowania okien i drzwi wewnętrznych oraz malowania od strony wewnętrznej drzwi wejściowych do lokalu mieszkalnego,
-3) malowania wbudowanych mebli oraz instalacji sanitarnych i grzewczych z wyjątkiem przypadku, o którym mowa w art. 69 ust. 1 ustawy.
+3) malowania wbudowanych mebli oraz instalacji sanitarnych i grzewczych – z wyjątkiem przypadku, o którym mowa w art. 69 ust. 1 ustawy.
 § 8. 1. Jeżeli w wyniku kontroli, o których mowa w art. 73 ust. 1 ustawy, stwierdzono wprowadzenie zmian, o których mowa w art. 69 ust. 6 ustawy, lub istnienie uszkodzeń lokalu mieszkalnego, o których mowa w art. 69 ust. 7 ustawy, dyrektor oddziału regionalnego Agencji nakazuje pisemnie osobie posiadającej tytuł prawny do zamieszkiwania w lokalu mieszkalnym przywrócenie stanu poprzedniego albo naprawienie uszkodzeń, w ustalonym terminie. Nakaz doręcza się osobie posiadającej tytuł prawny do zamieszkiwania w lokalu mieszkalnym za pisemnym potwierdzeniem odbioru.
 2. Po upływie terminu, o którym mowa w ust. 1, dyrektor oddziału regionalnego Agencji dokonuje sprawdzenia wykonania nakazu.
 3. Jeżeli pomimo upływu terminu, o którym mowa w ust. 1, osoba posiadająca tytuł prawny do zamieszkiwania w lokalu mieszkalnym nie wykonała nakazu, dyrektor oddziału regionalnego Agencji, na koszt tej osoby, zleca wykonanie lub we własnym zakresie wykonuje roboty, o których mowa w ust. 1.
 § 9. 1. Przed przystąpieniem do wykonania remontu obejmującego naprawę albo wymianę zużytych w trakcie normalnej eksploatacji elementów budynku znajdujących się w lokalach mieszkalnych, o których mowa w § 2 ust. 1, wyznaczony przez dyrektora oddziału regionalnego Agencji przedstawiciel Agencji spełniający warunki, o których mowa w art. 73 ust. 3 ustawy, określa stan techniczny lokalu wraz z opisem wyposażenia i urządzeń technicznych przez sporządzenie protokołu.
-2. Termin wykonania remontu oraz sposób rozliczenia nakładów z tego tytułu określa się w umowie zawartej przed rozpoczęciem prac pomiędzy dyrektorem oddziału regionalnego Agencji a żołnierzem zawodowym albo wykonawcą wyłonionym w trybie przepisów ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164).
+2. Termin wykonania remontu oraz sposób rozliczenia nakładów z tego tytułu określa się w umowie zawartej przed rozpoczęciem prac pomiędzy dyrektorem oddziału regionalnego Agencji a żołnierzem zawodowym albo wykonawcą wyłonionym w trybie przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164).
 3. W przypadku, o którym mowa w art. 69 ust. 2 zdanie drugie ustawy, po wykonaniu remontu zgodnie z ust. 2, żołnierz zawodowy posiadający tytuł prawny do zamieszkiwania w kwaterze zgłasza pisemnie jego wykonanie we właściwym miejscowo oddziale regionalnym Agencji.
-4. Odbioru remontu wykonanego w lokalu mieszkalnym dokonuje wyznaczony przez dyrektora oddziału regionalnego Agencji przedstawiciel Agencji spełniający warunki określone w ust. 1, a w przypadkach uzasadnionych zakresem remontu lub właściwościami budynku, w którym znajduje się lokal mieszkalny komisja składająca się z przedstawicieli Agencji wyznaczonych przez dyrektora oddziału regionalnego Agencji, spełniających warunki określone w ust. 1.
+4. Odbioru remontu wykonanego w lokalu mieszkalnym dokonuje wyznaczony przez dyrektora oddziału regionalnego Agencji przedstawiciel Agencji spełniający warunki określone w ust. 1, a w przypadkach uzasadnionych zakresem remontu lub właściwościami budynku, w którym znajduje się lokal mieszkalny – komisja składająca się z przedstawicieli Agencji wyznaczonych przez dyrektora oddziału regionalnego Agencji, spełniających warunki określone w ust. 1.
 5. Odbioru remontu kwatery dokonanego przez żołnierza zawodowego dokonuje osoba lub komisja, o której mowa w ust. 4, w obecności żołnierza zawodowego posiadającego tytuł prawny do zamieszkiwania w kwaterze, w terminie obustronnie uzgodnionym, nie później niż w ciągu 3 dni roboczych od dnia zgłoszenia wykonania remontu.
-6. Jeżeli remont został wykonany z naruszeniem przepisów ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U.
+6. Jeżeli remont został wykonany z naruszeniem przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U.
 z 2013 r. poz. 1409, z późn. zm. ) albo stwierdzono usterki w wykonanym remoncie, dyrektor oddziału regionalnego Agencji wyznacza termin do usunięcia wad i usterek, nie dłuższy niż 7 dni roboczych. Po tym terminie dokonuje się ponownego odbioru remontu.
 7. Po dokonaniu odbioru remontu sporządza się protokół, o którym mowa w art. 69 ust. 4 ustawy.
 8. Wzór protokołu jest określony w załączniku nr 1 do rozporządzenia.
@@ -84,16 +85,17 @@ z 2013 r. poz. 1409, z późn. zm. ) albo stwierdzono usterki w wykonanym remonc
 5. Zgodę na wymianę oraz wartość wyposażenia i urządzeń technicznych wymienianych w lokalu mieszkalnym wyraża i ustala dyrektor oddziału regionalnego Agencji w formie pisemnej.
 6. Agencja dokonuje wymiany wyposażenia i urządzeń technicznych w lokalu mieszkalnym po upływie okresu trwałości użytkowej określonego w załączniku nr 2 do rozporządzenia jedynie podczas przygotowania lokalu mieszkalnego do ponownego zasiedlenia.
 7. Jeżeli Agencja nie dokonała wymiany zużytego wyposażenia lub urządzeń technicznych w lokalu mieszkalnym po upływie okresu trwałości użytkowej, żołnierzowi zawodowemu, który dokonał takiej wymiany, Agencja zwraca koszty obliczone zgodnie z ust. 3, po przekazaniu lokalu mieszkalnego do dyspozycji Agencji, najpóźniej w ostatnim dniu pełnienia zawodowej służby wojskowej. Decyzję w tej sprawie wydaje dyrektor oddziału regionalnego Agencji.
-§ 11. 1. Koszt remontu lokalu mieszkalnego nieprzeznaczonego na kwaterę internatową, o którym mowa w art. 69 ust. 2 i 3 ustawy, uwzględniający podatek od towarów i usług, ustala dyrektor oddziału regionalnego Agencji w formie pisemnej, na podstawie kosztorysu inwestorskiego sporządzonego zgodnie z przepisami wydanymi na podstawie art. 33 ust. 3 ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych.
+§ 11. 1. Koszt remontu lokalu mieszkalnego nieprzeznaczonego na kwaterę internatową, o którym mowa w art. 69 ust. 2 i 3 ustawy, uwzględniający podatek od towarów i usług, ustala dyrektor oddziału regionalnego Agencji w formie pisemnej, na podstawie kosztorysu inwestorskiego sporządzonego zgodnie z przepisami wydanymi na podstawie art. 33 ust. 3 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.
 2. Do kosztorysu, o którym mowa w ust. 1, przyjmuje się stosowane w kwartale poprzedzającym średnie krajowe ceny rynkowe publikowane w powszechnie stosowanych cennikach.
 § 12. Opróżnienie lokalu mieszkalnego potwierdza się protokołem sporządzonym według wzoru określonego w załączniku nr 1 do rozporządzenia.
 § 13. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: A. Macierewicz PROTOKÓŁ Spisany w dniu .................................... w sprawie przyjęcia/zdania* kwatery/lokalu mieszkalnego*, znajdującej/ego* się w budynku położonym w ................................. przy ul. ...............................................
+Minister Obrony Narodowej: A. Macierewicz Załączniki do rozporządzenia Dziennik Ustaw – 5 – Ministra Obrony Narodowej Poz. z 275 dnia 12 lutego 2016 r. (poz.
+…) Załącznik nr 1 WZÓR WZÓR PROTOKÓŁ Spisany w dniu .................................... w sprawie przyjęcia/zdania* kwatery/lokalu mieszkalnego*, znajdującej/ego* się w budynku położonym w ................................. przy ul. ...............................................
 nr ........ m. ....., przez Pana/Panią* ............................................., na podstawie decyzji nr ..............................
 Dyrektora Oddziału Regionalnego Agencji Mienia Wojskowego w ............................ z dnia ......................
 1. Zdający ............................................................
 2. Przyjmujący .....................................................
-Powierzchnia użytkowa: ............ m w tym: kuchnia ............ m łazienka ............ m WC ............ m przedpokój ............ m inne (jakie) ............ m Powierzchnia użytkowa podstawowa: ............ m w tym: pokój 1 ............ m pokój 2 ............ m pokój 3 ............ m pokój 4 ............ m Powierzchnia pomieszczeń przynależnych: piwnica ........... m schowek ............ m inne (jakie) ............ m WZÓR Ocena techniczna Nr Stan Lp. Instalacje Osprzęt licznika licznika naprawa** wymiana*** 1 wodociągowa A kuchnia zimnej wody B łazienka C WC 2 kanalizacyjna A kuchnia B łazienka C WC 3 elektryczna A kuchnia B łazienka C WC D przedpokój E pokój 1 F pokój 2 G pokój 3 H pokój 4 I 4 gazowa A kuchnia B łazienka 5 wodociągowa A kuchnia ciepłej wody B łazienka C WC 6 ogrzewcza A kuchnia B łazienka C WC D pokój 1 E pokój 2 F pokój 3 G pokój 4 H 7 telekomunikacyjna 8 domofonowa 9 inne A ........................... B ........................... C UWAGI: ……...............................................................................................................................................
+Powierzchnia użytkowa: ............ m w tym: kuchnia ............ m łazienka ............ m WC ............ m przedpokój ............ m inne (jakie) ............ m Powierzchnia użytkowa podstawowa: ............ m w tym: pokój 1 ............ m pokój 2 ............ m pokój 3 ............ m pokój 4 ............ m Powierzchnia pomieszczeń przynależnych: piwnica ........... m schowek ............ m inne (jakie) ............ m Ocena techniczna Nr Stan Lp. Instalacje Osprzęt licznika licznika naprawa** wymiana*** 1 wodociągowa A kuchnia zimnej wody B łazienka C WC 2 kanalizacyjna A kuchnia B łazienka C WC 3 elektryczna A kuchnia B łazienka C WC D przedpokój E pokój 1 F pokój 2 G pokój 3 H pokój 4 I 4 gazowa A kuchnia B łazienka 5 wodociągowa A kuchnia ciepłej wody B łazienka C WC 6 ogrzewcza A kuchnia B łazienka C WC D pokój 1 E pokój 2 F pokój 3 G pokój 4 H 7 telekomunikacyjna 8 domofonowa 9 inne A ........................... B ........................... C UWAGI: ……...............................................................................................................................................
 .......................................................................................................................................................................
 .......................................................................................................................................................................
 .......................................................................................................................................................................
@@ -124,5 +126,6 @@ Podpisy:
 ____________________ * Niepotrzebne skreślić.
 ** Daną pozycję protokołu zakreśla się „X”, jeżeli została zakwalifikowana do naprawy.
 *** W kolumnie należy wpisać „TAK” lub „NIE”, w zależności od tego, czy dana pozycja protokołu kwalifikuje się do wymiany.
-Okres trwałości Element wyposażenia lokalu mieszkalnego użytkowej w latach Kuchnie gazowe 10 Kuchnie elektryczne 15 Gazowe grzejniki wody przepływowej i urządzenia dwufunkcyjne 10 Elektryczne podgrzewacze wody 15 Baterie i zawory czerpalne 15 Wanny i brodziki emaliowane 15 Wanny i brodziki z tworzyw sztucznych 10 Kabiny natryskowe 10 Zlewozmywaki emaliowane 15 Zlewozmywaki stalowe 20 Misy klozetowe, umywalki i bidety fajansowe 15 Zbiorniki płuczące 15 Szafki zlewozmywakowe 10 Meble wbudowane 15 NORMATYWY ZUŻYCIA WYPOSAŻENIA I URZĄDZEŃ TECHNICZNYCH W LOKALU MIESZKALNYM, KWATERZE I KWATERZE INTERNATOWEJ
+
+## Załącznik nr 2 — NORMATYWY NORMATYWY ZUŻYCIA ZUŻYCIA WYPOSAŻENIA WYPOSAŻENIA I URZĄDZEŃ I URZĄDZEŃ TECHNICZNYCH TECHNICZNYCH W LOKALU MIESZKALNYM, W LOKALU MIESZKALNYM, KWATERZE KWATERZE I KWATERZE I KWATERZE INTERNATOWEJ INTERNATOWEJ Okres trwałości Element wyposażenia lokalu mieszkalnego użytkowej w latach Kuchnie gazowe 10 Kuchnie elektryczne 15 Gazowe grzejniki wody przepływowej i urządzenia dwufunkcyjne 10 Elektryczne podgrzewacze wody 15 Baterie i zawory czerpalne 15 Wanny i brodziki emaliowane 15 Wanny i brodziki z tworzyw sztucznych 10 Kabiny natryskowe 10 Zlewozmywaki emaliowane 15 Zlewozmywaki stalowe 20 Misy klozetowe, umywalki i bidety fajansowe 15 Zbiorniki płuczące 15 Szafki zlewozmywakowe 10 Meble wbudowane 15
 

@@ -8,10 +8,10 @@ pos: 534
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 kwietnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 534 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 18 kwietnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000534) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/534/text.pdf) |
 
-Poz. 534 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 18 kwietnia 2014 r.
-w sprawie obecności przedstawicieli organizacji pozarządowych w toku działań związanych z doprowadzeniem cudzoziemca do granicy albo do portu lotniczego albo morskiego państwa, do którego zostaje doprowadzony Na podstawie art. 333 ust. 7 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie obecności przedstawicieli organizacji pozarządowych w toku działań związanych z doprowadzeniem cudzoziemca do granicy albo do portu lotniczego albo morskiego państwa, do którego zostaje doprowadzony Na podstawie art. 333 ust. 7 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób i termin informowania przedstawicieli organizacji pozarządowych zajmujących się udzielaniem pomocy cudzoziemcom o przygotowywanym doprowadzeniu cudzoziemca do granicy albo do portu lotniczego albo morskiego państwa, do którego zostaje doprowadzony, oraz sposób i termin potwierdzania udziału tych przedstawicieli w doprowadzeniu;
 2) sposób dokumentowania przez przedstawicieli organizacji pozarządowych, o których mowa w pkt 1, przebiegu doprowadzenia cudzoziemca do granicy albo do portu lotniczego albo morskiego państwa, do którego zostaje doprowadzony, oraz termin przekazywania tej dokumentacji Komendantowi Głównemu Straży Granicznej.
 § 2. 1. Organ Straży Granicznej właściwy w sprawie przymusowego wykonania decyzji o zobowiązaniu cudzoziemca do powrotu, zwany dalej „organem Straży Granicznej”, informuje przedstawicieli organizacji pozarządowych zajmujących się udzieleniem pomocy cudzoziemcom, zwanych dalej „przedstawicielami organizacji pozarządowych”, o planowanym doprowadzeniu cudzoziemca do granicy albo do portu lotniczego albo morskiego państwa, do którego zostaje doprowadzony, zwanym dalej „doprowadzeniem cudzoziemca”, nie później niż w terminie:

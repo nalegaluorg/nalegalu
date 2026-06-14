@@ -8,12 +8,10 @@ pos: 2406
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sprawie informacji złożonych wnioskach dopuszczenie do udziału postępowaniu lub ofertach przekazywanej Prezesowi Urzędu Zamówień Publicznych Na podstawie art. 81 ust. 2 ustawy dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. poz. 2019 oraz 2020 r. poz. 288, 1492, 1517, 2275 2320) zarządza się, co następuje: § 1. Rozporządzenie określa:
-
-*ROZPORZĄDZENIE MINISTRA ROZWOJU, PRACY I TECHNOLOGII dnia 21 grudnia 2020 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2406 ROZPORZĄDZENIE MINISTRA ROZWOJU, PRACY I TECHNOLOGII z dnia 21 grudnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,32 +25,39 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002406) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2406/text.pdf) |
 
-1) zakres danych zawartych informacji złożonych wnioskach dopuszczenie do udziału postępowaniu udzielenie zamówienia publicznego, zwanego dalej „postępowaniem”, lub ofertach, zwanej dalej „informacją”;
+w sprawie informacji o złożonych wnioskach o dopuszczenie do udziału w postępowaniu lub ofertach przekazywanej Prezesowi Urzędu Zamówień Publicznych Na podstawie art. 81 ust. 2 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019 oraz z 2020 r. poz. 288, 1492, 1517, 2275 i 2320) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) zakres danych zawartych w informacji o złożonych wnioskach o dopuszczenie do udziału w postępowaniu o udzielenie zamówienia publicznego, zwanego dalej „postępowaniem”, lub ofertach, zwanej dalej „informacją”;
 2) wzór informacji;
 3) sposób sporządzania informacji;
-4) sposób tryb przekazywania informacji, tym sposób liczenia terminu, którym mowa art. 81 ust. 1 ustawy dnia 11 września 2019 r. Prawo zamówień publicznych, zwanej dalej „ustawą”.
+4) sposób i tryb przekazywania informacji, w tym sposób liczenia terminu, o którym mowa w art. 81 ust. 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, zwanej dalej „ustawą”.
 § 2. Informacja zawiera dane dotyczące:
-1) zamawiającego lub zamawiających wspólnie prowadzących postępowanie, przypadku powierzenia przez zamawiającego lub zamawiających przeprowadzenia postępowania, dane podmiotu, któremu powierzono przeprowadzenie postępowania;
-2) postępowania udzielenie zamówienia publicznego lub postępowania zawarcie umowy ramowej, tym dane dotyczące rodzaju zamówienia lub umowy ramowej, przedmiotu zamówienia lub umowy ramowej, trybu udzielenia zamówienia lub zawarcia umowy ramowej, wszczęcia postępowania, współfinansowania zamówienia lub umowy ramowej ze środków Unii Europejskiej;
+1) zamawiającego lub zamawiających wspólnie prowadzących postępowanie, a w przypadku powierzenia przez zamawiającego lub zamawiających przeprowadzenia postępowania, dane podmiotu, któremu powierzono przeprowadzenie postępowania;
+2) postępowania o udzielenie zamówienia publicznego lub postępowania o zawarcie umowy ramowej, w tym dane dotyczące rodzaju zamówienia lub umowy ramowej, przedmiotu zamówienia lub umowy ramowej, trybu udzielenia zamówienia lub zawarcia umowy ramowej, wszczęcia postępowania, współfinansowania zamówienia lub umowy ramowej ze środków Unii Europejskiej;
 3) kwoty, jaką zamawiający zamierza przeznaczyć na sfinansowanie zamówienia lub umowy ramowej;
-4) wniosków dopuszczenie do udziału postępowaniu, przypadku trybu przetargu ograniczonego, negocjacji ogłoszeniem, sektorowych negocjacji ogłoszeniem, dialogu konkurencyjnego, partnerstwa innowacyjnego;
-5) ofert wstępnych, przypadku trybu negocjacji ogłoszeniem lub partnerstwa innowacyjnego;
-6) ofert, przypadku trybu przetargu nieograniczonego, przetargu ograniczonego, dialogu konkurencyjnego, negocjacji bez ogłoszenia, trybu podstawowego lub sektorowych negocjacji ogłoszeniem;
-7) ofert ostatecznych, przypadku trybu negocjacji ogłoszeniem, trybu podstawowego, którym mowa art. 275 § 4. Zamawiający przekazuje informację terminie, którym mowa art. 81 ust. 1 ustawy, liczonym:
-1) przypadku trybu przetargu nieograniczonego lub negocjacji bez ogłoszenia od dnia otwarcia ofert, ile złożona została co najmniej jedna oferta;
-2) przypadku trybu przetargu ograniczonego, dialogu konkurencyjnego lub sektorowych negocjacji ogłoszeniem od dnia otwarcia ofert albo od dnia unieważnienia postępowania, ile unieważnienie nastąpiło przed upływem terminu składania ofert został złożony co najmniej jeden wniosek dopuszczenie do udziału postępowaniu;
-3) przypadku trybu negocjacji ogłoszeniem od dnia otwarcia:
-a) ofert wstępnych albo od dnia unieważnienia postępowania, ile unieważnienie nastąpiło przed upływem terminu składania ofert wstępnych został złożony co najmniej jeden wniosek dopuszczenie do udziału postępowaniu,
-b) ofert ostatecznych, ile została złożona co najmniej jedna oferta ostateczna;
-4) przypadku trybu negocjacji ogłoszeniem wszczętych okolicznościach, których mowa art. 153 pkt 5 art. 154 ust. 1 ustawy od dnia otwarcia ofert ostatecznych, ile została złożona co najmniej jedna oferta ostateczna;
-5) przypadku trybu partnerstwa innowacyjnego od dnia otwarcia:
-a) ofert wstępnych albo od dnia unieważnienia postępowania, ile unieważnienie nastąpiło przed upływem terminu składania ofert wstępnych został złożony co najmniej jeden wniosek dopuszczenie do udziału postępowaniu,
-b) ofert obejmujących prace badawczo-rozwojowe, składanych po zakończeniu negocjacji, ile została złożona co najmniej jedna taka oferta;
-6) przypadku trybu podstawowego, którym mowa art. 275 pkt 1 ustawy od dnia otwarcia ofert złożonych odpowiedzi na ogłoszenie zamówieniu, ile została złożona co najmniej jedna taka oferta;
-7) przypadku trybu podstawowego, którym mowa art. 275 pkt 2 ustawy:
-a) od dnia otwarcia ofert złożonych odpowiedzi na ogłoszenie zamówieniu, ile została złożona co najmniej jedna taka oferta,
-b) jeżeli zamawiający zapraszał do składania ofert dodatkowych, od dnia otwarcia ofert dodatkowych, ile została złożona co najmniej jedna taka oferta;
-8) przypadku trybu podstawowego, którym mowa art. 275 pkt 3 ustawy od dnia otwarcia ofert ostatecznych albo od dnia unieważnienia postępowania, ile unieważnienie nastąpiło po upływie terminu składania ofert składanych odpowiedzi na ogłoszenie zamówieniu została złożona co najmniej jedna taka oferta.
-§ 5. Rozporządzenie wchodzi życie dniem 1 stycznia 2021 r.
-Minister Rozwoju, Pracy Technologii: J. Gowin
+4) wniosków o dopuszczenie do udziału w postępowaniu, w przypadku trybu przetargu ograniczonego, negocjacji z ogłoszeniem, sektorowych negocjacji z ogłoszeniem, dialogu konkurencyjnego, partnerstwa innowacyjnego;
+5) ofert wstępnych, w przypadku trybu negocjacji z ogłoszeniem lub partnerstwa innowacyjnego;
+6) ofert, w przypadku trybu przetargu nieograniczonego, przetargu ograniczonego, dialogu konkurencyjnego, negocjacji bez ogłoszenia, trybu podstawowego lub sektorowych negocjacji z ogłoszeniem;
+7) ofert ostatecznych, w przypadku trybu negocjacji z ogłoszeniem, trybu podstawowego, o którym mowa w art. 275 pkt 3 ustawy;
+8) ofert dodatkowych, w przypadku trybu podstawowego, o którym mowa w art. 275 pkt 2 ustawy;
+9) ofert obejmujących prace badawczo-rozwojowe, składanych po zakończeniu negocjacji, w przypadku trybu partnerstwa innowacyjnego;
+10) wykonawców, którzy złożyli odpowiednio wnioski o dopuszczenie do udziału w postępowaniu, oferty, oferty wstępne, oferty ostateczne, oferty dodatkowe lub oferty obejmujące prace badawczo-rozwojowe oraz dane dotyczące cen lub kosztów zawartych w złożonych przez nich ofertach.
+§ 3. Zamawiający sporządza informację w postaci elektronicznej i przekazuje ją Prezesowi Urzędu Zamówień Publicznych przy użyciu formularza umieszczonego i udostępnionego na stronach portalu internetowego Urzędu Zamówień Publicznych, zgodnego ze wzorem informacji stanowiącym załącznik do rozporządzenia.
+§ 4. Zamawiający przekazuje informację w terminie, o którym mowa w art. 81 ust. 1 ustawy, liczonym:
+1) w przypadku trybu przetargu nieograniczonego lub negocjacji bez ogłoszenia – od dnia otwarcia ofert, o ile złożona została co najmniej jedna oferta;
+2) w przypadku trybu przetargu ograniczonego, dialogu konkurencyjnego lub sektorowych negocjacji z ogłoszeniem – od dnia otwarcia ofert albo od dnia unieważnienia postępowania, o ile unieważnienie nastąpiło przed upływem terminu składania ofert i został złożony co najmniej jeden wniosek o dopuszczenie do udziału w postępowaniu;
+3) w przypadku trybu negocjacji z ogłoszeniem od dnia otwarcia:
+a) ofert wstępnych albo od dnia unieważnienia postępowania, o ile unieważnienie nastąpiło przed upływem terminu składania ofert wstępnych i został złożony co najmniej jeden wniosek o dopuszczenie do udziału w postępowaniu,
+b) ofert ostatecznych, o ile została złożona co najmniej jedna oferta ostateczna;
+4) w przypadku trybu negocjacji z ogłoszeniem wszczętych w okolicznościach, o których mowa w art. 153 pkt 5 i art. 154 ust. 1 ustawy – od dnia otwarcia ofert ostatecznych, o ile została złożona co najmniej jedna oferta ostateczna;
+5) w przypadku trybu partnerstwa innowacyjnego od dnia otwarcia:
+a) ofert wstępnych albo od dnia unieważnienia postępowania, o ile unieważnienie nastąpiło przed upływem terminu składania ofert wstępnych i został złożony co najmniej jeden wniosek o dopuszczenie do udziału w postępowaniu,
+b) ofert obejmujących prace badawczo-rozwojowe, składanych po zakończeniu negocjacji, o ile została złożona co najmniej jedna taka oferta;
+6) w przypadku trybu podstawowego, o którym mowa w art. 275 pkt 1 ustawy – od dnia otwarcia ofert złożonych w odpowiedzi na ogłoszenie o zamówieniu, o ile została złożona co najmniej jedna taka oferta;
+7) w przypadku trybu podstawowego, o którym mowa w art. 275 pkt 2 ustawy:
+a) od dnia otwarcia ofert złożonych w odpowiedzi na ogłoszenie o zamówieniu, o ile została złożona co najmniej jedna taka oferta,
+b) jeżeli zamawiający zapraszał do składania ofert dodatkowych, od dnia otwarcia ofert dodatkowych, o ile została złożona co najmniej jedna taka oferta;
+8) w przypadku trybu podstawowego, o którym mowa w art. 275 pkt 3 ustawy – od dnia otwarcia ofert ostatecznych albo od dnia unieważnienia postępowania, o ile unieważnienie nastąpiło po upływie terminu składania ofert składanych w odpowiedzi na ogłoszenie o zamówieniu i została złożona co najmniej jedna taka oferta.
+§ 5. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
+Minister Rozwoju, Pracy i Technologii: J. Gowin M W W M W W M W W M W W M W
 

@@ -8,10 +8,10 @@ pos: 2342
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Rozporządzenie Ministra Infrastruktury i Budownictwaz dnia 23 grudnia 2015 r. w sprawie sposobu prowadzenia Krajowego Wykazu Zakwestionowanych Wyrobów Budowlanych
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2342 Załącznik do rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 23 grudnia 2015 r.(Dz. U. poz. …) WZÓR KRAJOWY WYKAZ ZAKWESTIONOWANYCH WYROBÓW BUDOWLANYCH INFORMACJE OGÓLNE Nr karty wyrobu Nazwa wyrobu Producent Data decyzji Kod decyzji budowlanego budowlanego (nazwa i adres) 1 2 3 4 5 Objaśnienia: Wpisuje się następujące kody decyzji: „1”- zakaz dalszego udostępniania wyrobu budowlanego przez sprzedawcę oraz nakaz wycofania z obrotu wyrobu budowlanego przez producenta lub importera (art. 30 ust. 1 pkt 2 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U.
 
 | Pole | Wartość |
 |---|---|
@@ -25,50 +25,24 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002342) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2342/text.pdf) |
 
-Treść rozporządzenia
-Załącznik – Krajowy Wykaz Zakwestionowanych Wyrobów Budowlanych (wzór)
-Treść rozporządzenia
-Na podstawie art. 15 ust. 6 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. z 2014 r. poz. 883 oraz z 2015 r. poz. 1165) zarządza się, co następuje:
-§ 1.
-Rozporządzenie określa sposób prowadzenia Krajowego Wykazu Zakwestionowanych Wyrobów Budowlanych, zwanego dalej „Wykazem”, w tym:
-1)
-wzór Wykazu;
-2)
-sposób dokonywania i usuwania wpisów w Wykazie;
-3)
-niezbędne informacje o decyzjach, o których mowa w art. 30 ust. 1 pkt 2 i 3 i ust. 2 oraz w art. 31 ust. 1 pkt 2 i ust. 2 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych, zwanej dalej „ustawą”.
-§ 2.
-1.
-Wykaz jest prowadzony w systemie teleinformatycznym.
-2.
-Wzór Wykazu jest określony w załączniku do rozporządzenia.
-§ 3.
-Dane zawarte w Wykazie są udostępniane na stronie podmiotowej Biuletynu Informacji Publicznej Głównego Urzędu Nadzoru Budowlanego w formie tabeli zawierającej informacje ogólne o zakwestionowanych wyrobach budowlanych oraz kart wyrobów budowlanych zawierających informacje szczegółowe o tych wyrobach.
-§ 4.
-1.
-Główny Inspektor Nadzoru Budowlanego dokonuje wpisu w Wykazie wyrobu budowlanego objętego ostateczną decyzją, o której mowa w art. 30 ust. 1 pkt 2 i 3 i ust. 2 oraz w art. 31 ust. 1 pkt 2 i ust. 2 ustawy, niezwłocznie po otrzymaniu informacji przekazanej przez organ, który taką decyzję wydał.
-2.
-Informację, o której mowa w ust. 1, właściwy organ sporządza w formie karty wyrobu budowlanego (część A), niezwłocznie po tym, jak decyzja stała się ostateczna.
-3.
-Do informacji, o której mowa w ust. 1, przekazywanej przez wojewódzkiego inspektora nadzoru budowlanego dołącza się kopię decyzji, której ta informacja dotyczy.
-§ 5.
-1.
-Usunięcie wpisu w Wykazie przez Głównego Inspektora Nadzoru Budowlanego polega na usunięciu właściwej pozycji dotyczącej wyrobu budowlanego z tabeli zawierającej informacje ogólne o zakwestionowanych wyrobach budowlanych oraz związanej z tą pozycją karty wyrobu budowlanego.
-2.
-Jeżeli wystąpienie okoliczności, o których mowa w art. 15 ust. 3 pkt 1 lub 2 ustawy, zostało stwierdzone przez wojewódzkiego inspektora nadzoru budowlanego, organ ten przekazuje niezwłocznie Głównemu Inspektorowi Nadzoru Budowlanego informację o wystąpieniu tych okoliczności, zawierającą dane dotyczące zakwestionowanego wyrobu budowlanego, sporządzoną w formie karty wyrobu budowlanego (część B), wraz z wnioskiem o usunięcie wpisu w Wykazie.
-3.
-Do informacji o wystąpieniu okoliczności, o których mowa w art. 15 ust. 3 pkt 1 ustawy, wojewódzki inspektor nadzoru budowlanego dołącza kopię ostatecznej decyzji stwierdzającej wystąpienie tych okoliczności, jeżeli została wydana.
-§ 6.
-1.
-Karty wyrobów budowlanych, wnioski oraz kopie decyzji przekazuje się w postaci papierowej lub elektronicznej.
-2.
-Wnioski, o których mowa w ust. 1, przekazywane w postaci elektronicznej opatruje się bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu, zgodnie z ustawą z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262, z 2014 r. poz. 1662 oraz z 2015 r. poz. 1893) lub podpisem potwierdzonym profilem zaufanym ePUAP w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114).
-3.
-Informacje przekazywane za pomocą środków komunikacji elektronicznej zabezpiecza się przed dostępem osób nieuprawnionych.
-§ 7.
-Wykaz prowadzony zgodnie ze wzorem określonym na podstawie dotychczasowych przepisów jest publicznie dostępny na stronie internetowej Głównego Urzędu Nadzoru Budowlanego do czasu usunięcia z niego wszystkich wpisów.
-§ 8.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
-Załącznik – Krajowy Wykaz Zakwestionowanych Wyrobów Budowlanych (wzór)
-patrz oryginał
+z 2014 r. poz. 883, z późn. zm.), zwanej dalej „ustawą”), „2”- nakaz wycofania z obrotu wyrobu budowlanego przez sprzedawcę (art. 30 ust. 1 pkt 3 ustawy), „3”- zakaz obrotu wyrobem budowlanym (art. 30 ust. 2 ustawy), „4”- nakaz wycofania z obrotu wyrobu budowlanego (art. 31 ust. 1 pkt 2 ustawy), „5”- nakaz wycofania z obrotu wyrobu budowlanego (art. 31 ust. 2 ustawy), uzupełnione, jeżeli jest taka potrzeba, następującymi indeksami dolnymi: „O”- nakaz wycofania z obrotu wyrobu budowlanego wraz z obowiązkiem producenta, importera lub sprzedawcy odkupienia wyrobu budowlanego na żądanie osób, które faktycznie nim władają (art. 31a ust. 1 ustawy), „Z”- nakaz zniszczenia wyrobu budowlanego (art. 31a ust. 3 ustawy).
+INFORMACJE SZCZEGÓŁOWE KARTA WYROBU BUDOWLANEGO NR ......
+1) nazwa
+2) adres siedziby lub miejsca zamieszkania, jeżeli jest tożsame z miejscem wykonywania działalności gospodarczej
+3) NIP (EURONIP) Dane upoważnionego przedstawiciela producenta wyrobu budowlanego
+1) nazwa
+2) adres siedziby lub miejsca zamieszkania, jeżeli jest tożsame z miejscem wykonywania działalności gospodarczej
+3) NIP (EURONIP) Dane importera wyrobu budowlanego
+1) nazwa
+2) adres siedziby lub miejsca zamieszkania, jeżeli jest tożsame z miejscem wykonywania działalności gospodarczej
+3) NIP (EURONIP) Dane sprzedawcy wyrobu budowlanego
+1) nazwa
+2) adres siedziby lub miejsca zamieszkania, jeżeli jest tożsame z miejscem wykonywania działalności gospodarczej
+3) NIP (EURONIP) Rodzaj i zakres niezgodności wyrobu budowlanego Zagrożenia, jakie może spowodować wyrób budowlany Informacja o nakazie odkupienia wyrobu budowlanego Informacja o nakazie zniszczenia wyrobu budowlanego Inne informacje niezbędne do identyfikacji wyrobu budowlanego KARTA WYROBU BUDOWLANEGO NR ......
+Wypełnić, jeżeli ma to zastosowanie.
+Dane udostępniane wyłącznie właściwemu organowi.
+
+## Część A Typ i nazwa wyrobu budowlanego Specyfikacja techniczna zastosowana przez producenta wyrobu budowlanego Numer i data wpisu Kod decyzji* Organ wydający decyzję Data wydania i znak decyzji Data, z jaką decyzja stała się ostateczna Określenie partii wyrobu budowlanego pozwalające na jej identyfikację Kod taryfy celnej Opis wyrobu budowlanego pozwalający na jego identyfikację Kraj wytworzenia wyrobu budowlanego Dane producenta wyrobu budowlanego
+
+## Część B Informacja o wycofaniu wszystkich egzemplarzy zakwestionowanego wyrobu budowlanego z obrotu Informacja o usunięciu niezgodności zakwestionowanego wyrobu budowlanego z wymaganiami określonymi w ustawie Informacja o wydaniu ostatecznej decyzji potwierdzającej wystąpienie okoliczności, o których mowa w art. 15 ust. 3 pkt 1 ustawy Organ wydający decyzję Data wydania i znak decyzji Informacja o zaprzestaniu prowadzenia działalności gospodarczej przez producenta, importera lub sprzedawcę Objaśnienia: Wpisuje się następujące kody decyzji: „1”- zakaz dalszego udostępniania wyrobu budowlanego przez sprzedawcę oraz nakaz wycofania z obrotu wyrobu budowlanego przez producenta lub importera (art. 30 ust. 1 pkt 2 ustawy), „2”- nakaz wycofania z obrotu wyrobu budowlanego przez sprzedawcę (art. 30 ust. 1 pkt 3 ustawy), „3”- zakaz obrotu wyrobem budowlanym (art. 30 ust. 2 ustawy), „4”- nakaz wycofania z obrotu wyrobu budowlanego (art. 31 ust. 1 pkt 2 ustawy), „5”- nakaz wycofania z obrotu wyrobu budowlanego (art. 31 ust. 2 ustawy), uzupełnione, jeżeli jest taka potrzeba, następującymi indeksami dolnymi: „O”- nakaz wycofania z obrotu wyrobu budowlanego wraz z obowiązkiem producenta, importera lub sprzedawcy odkupienia wyrobu budowlanego na żądanie osób, które faktycznie nim władają (art. 31a ust. 1 ustawy), „Z”- nakaz zniszczenia wyrobu budowlanego (art. 31a ust. 3 ustawy).
 

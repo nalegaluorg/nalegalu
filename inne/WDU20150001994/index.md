@@ -8,7 +8,7 @@ pos: 1994
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zawodzie fizjoterapeuty
@@ -127,6 +127,11 @@ source: "isap-pdf"
 2. W przypadku gdy działanie, o którym mowa w ust. 1, okaże się nieskuteczne, a dalsze naruszanie zasad wykonywania zawodu fizjoterapeuty może prowadzić do zagrożenia życia lub zdrowia pacjenta, osoba wykonująca zawód medyczny niezwłocznie zawiadamia o tym bezpośredniego przełożonego oraz Rzecznika Dyscyplinarnego, zwanego dalej „Rzecznikiem”.
 
 **Art. 9.** Fizjoterapeuta jest obowiązany:
+
+- **1)** informować pacjenta o jego prawach określonych w przepisach ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **2)** udzielać informacji pacjentowi lub jego przedstawicielowi ustawowemu albo osobie bliskiej lub opiekunowi faktycznemu w rozumieniu przepisów ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, w zakresie niezbędnym do udzielanych przez siebie świadczeń zdrowotnych;
+- **3)** zachowywać w tajemnicy informacje związane z pacjentem, uzyskane w związku z wykonywaniem zawodu zgodnie z przepisami ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **4)** prowadzić i udostępniać dokumentację medyczną na zasadach określonych w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
 
 **Art. 10.**
 
@@ -370,6 +375,11 @@ source: "isap-pdf"
 3. W sprawach określonych w ust. 1, w których skargę do sądu administracyjnego wniósł inny uprawniony podmiot, minister właściwy do spraw zdrowia może wziąć udział w postępowaniu sądowym na prawach przysługujących prokuratorowi. Przepis art. 8 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143) stosuje się odpowiednio.
 
 **Art. 26.** Prawo wykonywania zawodu fizjoterapeuty wygasa w przypadku:
+
+- **1)** śmierci;
+- **2)** zrzeczenia się prawa wykonywania zawodu;
+- **3)** prawomocnego orzeczenia przez sąd dyscyplinarny zakazu wykonywania zawodu;
+- **4)** utraty pełnej zdolności do czynności prawnych.
 
 **Art. 27.**
 
@@ -1096,6 +1106,10 @@ source: "isap-pdf"
 
 **Art. 53.** Do zadań Zespołu Egzaminacyjnego przeprowadzającego dany PESFZ należy:
 
+- **1)** przeprowadzenie PESFZ zgodnie z regulaminem porządkowym, o którym mowa w art. 54 ust. 8;
+- **2)** przekazanie do CEM kart odpowiedzi, niezwłocznie po zakończonym egzaminie testowym, w sposób uniemożliwiający dokonywanie zmian w ich treści;
+- **3)** przekazanie do CEM ocen z egzaminu ustnego i praktycznego oraz dokumentacji związanej z przeprowadzonym PESFZ, niezwłocznie po zakończonym PESFZ, niepóźniej jednak niż w terminie 14 dni od dnia zakończenia PESFZ.
+
 **Art. 54.**
 
 1. Zakres PESFZ jest zgodny z programem specjalizacji.
@@ -1236,6 +1250,17 @@ source: "isap-pdf"
 7. Za powtórzony PESFZ albo jego część nie pobiera się opłaty egzaminacyjnej.
 
 **Art. 60.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** wzór KS,
+- **2)** kod specjalizacji w dziedzinie fizjoterapii – uwzględniając konieczność zapewnienia pełnej informacji niezbędnej do prowadzenia specjalizacji;
+- **3)** wzór dyplomu specjalisty, uwzględniając konieczność zapewnienia przejrzystości dokumentu,
+- **4)** wysokość wynagrodzenia za wykonanie czynności kontrolnych, o których mowa w art. 37 ust. 12 pkt 1, uwzględniając nakład pracy związany z przeprowadzaniem czynności kontrolnych,
+- **5)** szczegółowy tryb działania PKE oraz wysokość wynagrodzenia przewodniczącego i członków PKE,
+- **6)** wzór oświadczenia, o którym mowa w art. 52 ust. 4,
+- **7)** szczegółowy sposób i tryb składania PESFZ oraz ustalania jego wyników – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia PESFZ oraz zapewnienia bezstronności pracy PKE, a także nakład pracy przewodniczącego i członków PKE;
+- **8)** tryb wydawania przez dyrektora CEM duplikatu lub odpisu dyplomu PESFZ oraz sposób uiszczania opłaty za wydanie duplikatu lub odpisu dyplomu PESFZ,
+- **9)** tryb dokonywania przez dyrektora CEM korekty dyplomu PESFZ oraz sposób uiszczania opłaty za dokonanie korekty dyplomu – uwzględniając konieczność prawidłowego i sprawnego wydania dokumentu potwierdzającego uzyskanie tytułu specjalisty;
+- **10)** wysokość opłaty za PESFZ, uwzględniając koszty przeprowadzenia PESFZ oraz wydania dyplomu potwierdzającego tytuł specjalisty.
 
 #### Rozdział 6 Samorząd fizjoterapeutów
 
@@ -1432,6 +1457,14 @@ source: "isap-pdf"
 
 **Art. 75.** Do zadań Krajowego Zjazdu Fizjoterapeutów należy:
 
+- **1)** wybór Prezesa;
+- **2)** wybór Krajowej Rady Fizjoterapeutów, Komisji Rewizyjnej, Sądu Dyscyplinarnego, Wyższego Sądu Dyscyplinarnego oraz Rzecznika i jego zastępców;
+- **3)** uchwalanie wytycznych działania samorządu i jego organów;
+- **4)** określenie zasad przeprowadzania wyborów do organów samorządu, liczby członków tych organów oraz trybu ich odwoływania, a także zasad podejmowania uchwał przez organy samorządu;
+- **5)** rozpatrywanie i zatwierdzanie sprawozdań Krajowej Rady Fizjoterapeutów, Komisji Rewizyjnej, Sądu Dyscyplinarnego, Wyższego Sądu Dyscyplinarnego i Rzecznika;
+- **6)** kodyfikowanie zasad etyki fizjoterapeutów;
+- **7)** ustalanie podstawowych zasad gospodarki finansowej samorządu.
+
 **Art. 76.**
 
 1. Nadzwyczajny Krajowy Zjazd Fizjoterapeutów zwołuje Krajowa Rada Fizjoterapeutów:
@@ -1447,17 +1480,38 @@ source: "isap-pdf"
 
 **Art. 77.** Do zakresu działania Krajowej Rady Fizjoterapeutów należy:
 
+- **1)** reprezentowanie samorządu wobec organów państwowych i samorządowych, sądów, organów Narodowego Funduszu Zdrowia, instytucji i organizacji;
+- **2)** wykonywanie uchwał Krajowego Zjazdu Fizjoterapeutów;
+- **3)** udzielanie opinii o projektach aktów prawnych oraz przedstawianie wniosków dotyczących unormowań prawnych z zakresu ochrony zdrowia;
+- **4)** opiniowanie programu studiów wyższych oraz programów specjalizacji z zakresu fizjoterapii;
+- **5)** uchwalanie budżetu Krajowej Rady Fizjoterapeutów i zatwierdzanie sprawozdań z jego wykonania oraz rozpatrywanie wniosków Komisji Rewizyjnej;
+- **6)** wybór Prezesa oraz Rzecznika, jeżeli ich mandat wygasł w okresie pomiędzy Krajowymi Zjazdami Fizjoterapeutów;
+- **7)** koordynowanie doskonalenia zawodowego fizjoterapeutów;
+- **8)** ustalanie zasad gospodarki finansowej samorządu;
+- **9)** określanie wysokości składki członkowskiej i zasad jej podziału oraz wysokości opłat manipulacyjnych;
+- **10)** wykonywanie innych zadań określonych w ustawie oraz przepisach odrębnych.
+
 **Art. 78.** Do zakresu działania Komisji Rewizyjnej należy kontrola działalności finansowej i gospodarczej Krajowej Rady Fizjoterapeutów.
 
 **Art. 79.** Sąd Dyscyplinarny rozpatruje sprawy dyscyplinarne fizjoterapeutów, wniesione przez Rzecznika.
 
 **Art. 80.** Wyższy Sąd Dyscyplinarny:
 
+- **1)** uchwala regulaminy wewnętrzne Sądu Dyscyplinarnego i Wyższego Sądu Dyscyplinarnego;
+- **2)** rozpatruje odwołania od orzeczeń Sądu Dyscyplinarnego.
+
 **Art. 81.** Rzecznik:
+
+- **1)** przygotowuje postępowanie dyscyplinarne i wykonuje czynności oskarżyciela przed Sądem Dyscyplinarnym i Wyższym Sądem Dyscyplinarnym;
+- **2)** prowadzi działalność prewencyjną w zakresie wykroczeń zawodowych i postępowania sprzecznego z zasadami etyki zawodowej.
 
 **Art. 82.** Samorząd może prowadzić działalność gospodarczą.
 
 **Art. 83.** Działalność samorządu jest finansowana:
+
+- **1)** ze składek członkowskich;
+- **2)** z innych źródeł, a w szczególności z dotacji, subwencji, darowizn i spadków;
+- **3)** z działalności gospodarczej.
 
 **Art. 84.** Nieopłacone w terminie składki członkowskie i koszty postępowania w przedmiocie odpowiedzialności dyscyplinarnej podlegają egzekucji w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268 i 516).
 
@@ -1794,6 +1848,11 @@ source: "isap-pdf"
 
 **Art. 121.** Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem sądu dyscyplinarnego wznawia się, jeżeli:
 
+- **1)** w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;
+- **2)** po wydaniu orzeczenia ujawnią się nowe fakty lub dowody nieznane przedtem temu sądowi, wskazujące na to, że:
+    - **a)** osoba obwiniona nie popełniła czynu albo jej czyn nie stanowił przewinienia zawodowego lub nie podlegał karze,
+    - **b)** sąd ten umorzył postępowanie, błędnie przyjmując popełnienie przez osobę obwinioną zarzucanego jej czynu.
+
 **Art. 122.** Postępowanie w przedmiocie odpowiedzialności zawodowej zakończone prawomocnym orzeczeniem sądu dyscyplinarnego można wznowić w przypadku uchylenia lub istotnej zmiany treści prawomocnego orzeczenia, z powodu którego zostało ono umorzone w trybie art. 107 ust. 1.
 
 **Art. 123.** Czyn, o którym mowa w art. 121 pkt 1, musi być ustalony prawomocnym wyrokiem skazującym, chyba że orzeczenie takie nie może zapaść z przyczyn wymienionych w art. 17 § 1 pkt 3–11 lub w art. 22 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
@@ -1879,7 +1938,13 @@ source: "isap-pdf"
 
 **Art. 134.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Fizjoterapeutów, określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb prowadzenia rejestru ukaranych fizjoterapeutów,
+- **2)** sposób i tryb wykonania prawomocnych orzeczeń sądów dyscyplinarnych – kierując się potrzebą respektowania praw uczestników postępowania oraz specyfiką i złożonością postępowań w przedmiocie odpowiedzialności zawodowej.
+
 **Art. 135.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
+
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 #### Rozdział 8 Przepisy karne
 
@@ -1932,6 +1997,12 @@ source: "isap-pdf"
 **Art. 146.** Osoby, które przed dniem wejścia w życie niniejszej ustawy uzyskały I stopień specjalizacji, mogą uzupełnić kwalifikacje i uzyskać tytuł specjalisty w trybie określonym w niniejszej ustawie, według uzupełniającego programu szkolenia specjalizacyjnego w dziedzinie fizjoterapii.
 
 **Art. 147.** Osoba, której minister właściwy do spraw zdrowia, przed dniem wejścia w życie niniejszej ustawy, powierzył obowiązki specjalisty w dziedzinie fizjoterapii zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, może:
+
+- **1)** wchodzić w skład zespołu ekspertów, o którym mowa w art. 36 ust. 8;
+- **2)** pełnić funkcję kierownika specjalizacji w danej dziedzinie ochrony zdrowia;
+- **3)** wchodzić w skład zespołu kontrolnego, o którym mowa w art. 37 ust. 4;
+- **4)** wchodzić w skład zespołu ekspertów, o którym mowa w art. 38 ust. 3;
+- **5)** przystąpić do PESFZ.
 
 **Art. 148.**
 

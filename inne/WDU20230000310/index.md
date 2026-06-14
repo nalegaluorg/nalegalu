@@ -8,10 +8,10 @@ pos: 310
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 lutego 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 331100 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 8 lutego 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000310) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/310/text.pdf) |
 
-Poz. 331100 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 8 lutego 2023 r.
-w sprawie odznaki „Za zasługi dla więziennictwa” Na podstawie art. 36 ust. 8 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470 oraz z 2023 r. poz. 240) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie odznaki „Za zasługi dla więziennictwa” Na podstawie art. 36 ust. 8 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470 oraz z 2023 r. poz. 240) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy sposób i tryb nadawania odznaki „Za zasługi dla więziennictwa”, zwanej dalej „odznaką”;
 2) wzór odznaki;
 3) podział odznaki na stopnie;
@@ -56,5 +56,5 @@ w sprawie odznaki „Za zasługi dla więziennictwa” Na podstawie art. 36 ust.
 § 8. 1. Osobom, którym nadano brązową lub srebrną odznakę „W Służbie Penitencjarnej” lub odznakę „Za zasługi w pracy penitencjarnej” na podstawie dotychczas obowiązujących przepisów, może być nadana odpowiednio odznaka II lub I stopnia z uwzględnieniem terminów przewidzianych w § 4 ust. 2.
 2. Osoby, którym nadano odznakę, o której mowa w ust. 1, zachowują prawo do jej noszenia.
 § 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+Minister Sprawiedliwości: Z. Ziobro Załącznik do rozporządzenia Ministra Sprawiedliwości z dnia 8 lutego 2023 r. (poz. …….) WZÓR ODZNAKI „ZA ZASŁUGI DLA WIĘZIENNICTWA” ZE WSTĄŻKĄ WZÓR ODZNAKI „ZA ZASŁUGI DLA WIĘZIENNICTWA” ZE WSTĄŻKĄ
 

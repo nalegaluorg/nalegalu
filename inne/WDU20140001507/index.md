@@ -8,10 +8,10 @@ pos: 1507
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 listopada 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1507 OBWIESZCZENIE MINISTRA OBRONY NARODOWEJ z dnia 24 września 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001507) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1507/text.pdf) |
 
-OBWIESZCZENIE MINISTRA OBRONY NARODOWEJ z dnia 24 września 2014 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 14 grudnia 2001 r. w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. Nr 157, poz. 1847), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Obrony Narodowej z dnia 26 sierpnia 2008 r. zmieniającym rozporządzenie w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. Nr 162, poz. 1006);
@@ -34,7 +33,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodow
 1) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 26 sierpnia 2008 r. zmieniającego rozporządzenie w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. Nr 162, poz. 1006), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 2) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 3 grudnia 2013 r. zmieniającego rozporządzenie w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej (Dz. U. poz. 1546), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Obrony Narodowej: T. Siemoniak ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 14 grudnia 2001 r.
-w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej Na podstawie art. 9 ust. 3 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2013 r. poz. 568 i 628 oraz z 2014 r. poz. 1055) zarządza się, co następuje: § 1. Rozporządzenie określa dodatkowe umundurowanie, uzbrojenie i wyposażenie żołnierzy Żandarmerii Wojskowej niezbędne do wykonywania zadań służbowych.
+w sprawie dodatkowego umundurowania, uzbrojenia i wyposażenia żołnierzy Żandarmerii Wojskowej Na podstawie art. 9 ust. 3 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2013 r. poz. 568 i 628 oraz z 2014 r. poz. 1055) zarządza się, co następuje:
+§ 1. Rozporządzenie określa dodatkowe umundurowanie, uzbrojenie i wyposażenie żołnierzy Żandarmerii Wojskowej niezbędne do wykonywania zadań służbowych.
 § 2. Żołnierze Żandarmerii Wojskowej otrzymują dodatkowe:
 1) przedmioty umundurowania:
 a) pasy białe,

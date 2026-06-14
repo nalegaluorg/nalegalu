@@ -8,10 +8,10 @@ pos: 1347
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 września 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1347 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 10 września 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-09-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001347) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1347/text.pdf) |
 
-Poz. 1347 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 10 września 2024 r.
-w sprawie wykazu Wojewódzkich Ośrodków Monitorujących Na podstawie art. 23 ust. 3 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. z 2024 r. poz. 1208) zarządza się, co następuje: § 1. Wojewódzkimi Ośrodkami Monitorującymi są:
+w sprawie wykazu Wojewódzkich Ośrodków Monitorujących Na podstawie art. 23 ust. 3 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. z 2024 r. poz. 1208) zarządza się, co następuje:
+§ 1. Wojewódzkimi Ośrodkami Monitorującymi są:
 1) Dolnośląskie Centrum Onkologii, Pulmonologii i Hematologii we Wrocławiu – dla województwa dolnośląskiego;
 2) Centrum Onkologii im. prof. Franciszka Łukaszczyka w Bydgoszczy – dla województwa kujawsko-pomorskiego;
 3) Centrum Onkologii Ziemi Lubelskiej im. św. Jana z Dukli w Lublinie – dla województwa lubelskiego;

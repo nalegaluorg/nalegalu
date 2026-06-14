@@ -8,7 +8,7 @@ pos: 398
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ubezpieczeniach gwarantowanych przez Skarb Państwa
@@ -43,6 +43,7 @@ source: "isap-pdf"
     - **e)** wykupu wierzytelności,
     - **f)** leasingu;
 
+- **2)** kontraktów eksportowych;
 - **3)** inwestycji bezpośrednich za granicą lub inwestycji podejmowanych w celu realizacji kontraktów eksportowych;
 - **4)** umów przedsiębiorców zależnych;
 - **5)** umów lub inwestycji realizowanych na terytorium Rzeczypospolitej Polskiej, umożliwiających rozpoczynanie, kontynuowanie lub rozwijanie działalności gospodarczej wnoszącej istotny wkład w łagodzenie zmian klimatu, o której mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088 (Dz. Urz. UE L 198 z 22.06.2020, str. 13, z późn. zm. ), zwanego dalej „rozporządzeniem 2020/852”;
@@ -55,7 +56,7 @@ source: "isap-pdf"
 - **1)** ubezpieczenia bezpośredniego;
 - **2)** ubezpieczenia pośredniego (reasekuracji);
 - **3)** udzielenia gwarancji ubezpieczeniowej;
-- **4)** udziału w ubezpieczeniu udzielonym przez agencję kredytów eksportowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 1233/2011 z dnia 16 listopada 2011 r. w sprawie zastosowania niektórych wytycznych w dziedzinie oficjalnie wspieranych kredytów eksportowych oraz uchylającego str. 45, z późn. zm. ), zwaną dalej „agencją kredytów eksportowych”.
+- **4)** udziału w ubezpieczeniu udzielonym przez agencję kredytów eksportowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 1233/2011 z dnia 16 listopada 2011 r. w sprawie zastosowania niektórych wytycznych w dziedzinie oficjalnie wspieranych kredytów eksportowych oraz uchylającego decyzje Rady 2001/76/WE i 2001/77/WE (Dz. Urz. UE L 326 z 08.12.2011, str. 45, z późn. zm. ), zwaną dalej „agencją kredytów eksportowych”.
 
 4. Ubezpieczenie gwarantowane dotyczące ryzyk pokrywanych ubezpieczeniami, o których mowa w dziale II w grupach 3–7 i 9–16 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, może być realizowane wyłącznie w formie ubezpieczenia pośredniego (reasekuracji) lub udziału w ubezpieczeniu udzielonym przez agencję kredytów eksportowych.
 
@@ -67,7 +68,8 @@ source: "isap-pdf"
 
 - **1)** instrumentów finansujących – ochrona jednostek finansujących na wypadek strat poniesionych w związku z finansowaniem, w całości albo części, kontraktu eksportowego, umowy lub inwestycji, o których mowa w art. 1 ust. 2 pkt 2–5, lub podmiotów, o których mowa w art. 6 ust. 1 pkt 1 lit. a, pkt 2 lub pkt 5 lit. a;
 - **2)** kontraktów eksportowych – ochrona krajowych przedsiębiorców na wypadek strat poniesionych, w związku z realizacją kontraktu eksportowego, przed wysyłką towarów bądź realizacją usług (ryzyko produkcji) oraz po wysyłce towarów bądź realizacji usług (ryzyko kredytu);
-- **3)** inwestycji bezpośrednich za granicą lub inwestycji podejmowanych w celu realizacji kontraktów eksportowych – ochrona krajowych przedsiębiorców na wypadek strat poniesionych w związku z realizacją inwestycji bezpośredniej za granicą lub inwestycji podejmowanej w celu realizacji kontraktu eksportowego, a także przedsiębiorców zależnych na wypadek strat poniesionych w związku z realizacją inwestycji za granicą, podejmowanej w celu sprzedaży za granicą towarów i usług; na wypadek strat poniesionych w związku ze sprzedażą za granicą towarów i usług, które stanowiły towary lub usługi krajowe;
+- **3)** inwestycji bezpośrednich za granicą lub inwestycji podejmowanych w celu realizacji kontraktów eksportowych – ochrona krajowych przedsiębiorców na wypadek strat poniesionych w związku z realizacją inwestycji bezpośredniej za granicą lub inwestycji podejmowanej w celu realizacji kontraktu eksportowego, a także przedsiębiorców zależnych na wypadek strat poniesionych w związku z realizacją inwestycji za granicą, podejmowanej w celu sprzedaży za granicą towarów i usług;
+- **4)** umów przedsiębiorców zależnych – ochrona przedsiębiorców zależnych na wypadek strat poniesionych w związku ze sprzedażą za granicą towarów i usług, które stanowiły towary lub usługi krajowe;
 - **5)** umów lub inwestycji realizowanych na terytorium Rzeczypospolitej Polskiej, umożliwiających rozpoczynanie, kontynuowanie lub rozwijanie działalności gospodarczej wnoszącej istotny wkład w łagodzenie zmian klimatu, o której mowa w art. 10 rozporządzenia 2020/852 – ochrona podmiotów prywatnych i publicznych na wypadek strat poniesionych w związku z realizacją takiej umowy lub inwestycji;
 - **6)** ryzyk pokrywanych ubezpieczeniami, o których mowa w dziale II w grupach 3– 7 i 9–16 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej – ochrona zakładów ubezpieczeń i agencji kredytów eksportowych, udzielających ochrony ubezpieczeniowej na wypadek strat poniesionych w związku z ubezpieczaniem ryzyk poza terytorium Rzeczypospolitej Polskiej.
 
@@ -83,6 +85,7 @@ source: "isap-pdf"
 
 5. Ubezpieczenie kontraktów eksportowych obejmuje szkody poniesione przez ubezpieczającego w wyniku niemożności wykonania kontraktu eksportowego bądź w wyniku niewykonania lub nienależytego wykonania kontraktu eksportowego przez kontrahenta zagranicznego, jeżeli szkody te są następstwem zdarzeń określonych jako:
 
+- **1)** ryzyko handlowe;
 - **2)** ryzyko polityczne;
 - **3)** ryzyko nierynkowe.
 
@@ -103,7 +106,7 @@ source: "isap-pdf"
 - **1)** w wyniku niewykonania lub nienależytego wykonania umowy przez kontrahenta albo
 - **2)** w wyniku realizacji inwestycji – pod warunkiem że szkody te są następstwem zdarzeń określonych jako ryzyko handlowe, polityczne lub nierynkowe.
 
-8b. W ramach ubezpieczeń gwarantowanych, o których mowa w art. 1 ust. 2 pkt 6, podmiot, o którym mowa w art. 5 ust. 1, zgodnie z art. 1 ust. 4 przejmuje ryzyko cedowane przez zakład ubezpieczeń albo agencję kredytów eksportowych, wynikające z zawartych przez te podmioty umów ubezpieczenia, pod warunkiem że szkody są następstwem zdarzeń określonych jako ryzyko nadzwyczajne, zgodnie z przepisami wydanymi na podstawie ust. 10, w zakresie, w jakim zaistniały w toku wykonywania działalności gospodarczej przez na terytorium Rzeczypospolitej Polskiej lub przedsiębiorców zależnych, również w przypadku gdy podmiot w ramach tej działalności korzysta z instrumentów, o których mowa w art. 1 ust. 2 pkt 1.
+8b. W ramach ubezpieczeń gwarantowanych, o których mowa w art. 1 ust. 2 pkt 6, podmiot, o którym mowa w art. 5 ust. 1, zgodnie z art. 1 ust. 4 przejmuje ryzyko cedowane przez zakład ubezpieczeń albo agencję kredytów eksportowych, wynikające z zawartych przez te podmioty umów ubezpieczenia, pod warunkiem że szkody są następstwem zdarzeń określonych jako ryzyko nadzwyczajne, zgodnie z przepisami wydanymi na podstawie ust. 10, w zakresie, w jakim zaistniały w toku wykonywania działalności gospodarczej przez przedsiębiorców krajowych, oddziały przedsiębiorców zagranicznych mające siedzibę na terytorium Rzeczypospolitej Polskiej lub przedsiębiorców zależnych, również w przypadku gdy podmiot w ramach tej działalności korzysta z instrumentów, o których mowa w art. 1 ust. 2 pkt 1.
 
 8c. Przepisów ust. 4–8a nie stosuje się do ubezpieczenia gwarantowanego realizowanego w formie udzielenia gwarancji ubezpieczeniowej.
 
@@ -131,6 +134,8 @@ source: "isap-pdf"
 
 - **9)** .
 
+2. Korporacja prowadzi działalność, o której mowa w ust. 1, w imieniu własnym.
+
 2a. Zarząd Korporacji składa się z niewięcej niż 4 członków.
 
 3. Członków Zarządu Korporacji powołuje i odwołuje Walne Zgromadzenie Korporacji, w tym jednego na wniosek ministra właściwego do spraw finansów publicznych.
@@ -156,6 +161,7 @@ source: "isap-pdf"
     - **a)** zawierające umowy lub
     - **b)** dokonujące inwestycji – które mają być realizowane na terytorium Rzeczypospolitej Polskiej i umożliwiają rozpoczynanie, kontynuowanie lub rozwijanie działalności gospodarczej wnoszącej istotny wkład w łagodzenie zmian klimatu, o której mowa w art. 10 rozporządzenia 2020/852;
 
+- **4)** podmioty udzielające instrumentów finansujących;
 - **5)** przedsiębiorcy zależni:
     - **a)** w zakresie, w jakim ubezpieczenie gwarantowane będzie dotyczyć towarów i usług, które stanowiły towary lub usługi krajowe, z uwzględnieniem ust. 2,
     - **b)** dokonujący inwestycji bezpośrednich za granicą;
@@ -181,7 +187,9 @@ source: "isap-pdf"
 
 **Art. 6a.**
 
-1. Produkt lub usługę, eksportowane w ramach kontraktu eksportowego, uznaje się za krajowe, jeżeli udział składników pochodzenia zagranicznego, w zależności od rodzaju eksportowanych produktów i usług lub okresu kredytu, w przychodzie netto z realizacji kontraktu eksportowego wynosi maksymalnie od 50 % do 90 %. w przychodzie netto z realizacji kontraktu eksportowego oblicza się w stosunku do części kontraktu eksportowego realizowanej przez krajowego przedsiębiorcę.
+1. Produkt lub usługę, eksportowane w ramach kontraktu eksportowego, uznaje się za krajowe, jeżeli udział składników pochodzenia zagranicznego, w zależności od rodzaju eksportowanych produktów i usług lub okresu kredytu, w przychodzie netto z realizacji kontraktu eksportowego wynosi maksymalnie od 50 % do 90 %.
+
+2. W przypadku reasekuracji, udział składników pochodzenia zagranicznego w przychodzie netto z realizacji kontraktu eksportowego oblicza się w stosunku do części kontraktu eksportowego realizowanej przez krajowego przedsiębiorcę.
 
 **Art. 6b.**
 
@@ -201,7 +209,8 @@ source: "isap-pdf"
 
 2. Składnikami pochodzenia krajowego produktu lub usługi są:
 
-- **1)** inne niż wymienione w ust. 1 koszty wytworzenia lub cena nabycia w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości, wytwarzane na terytorium Rzeczypospolitej Polskiej lub których odpowiedniki wydobywane lub wytwarzane na terytorium Rzeczypospolitej Polskiej nie posiadają parametrów określonych w kontrakcie eksportowym – poniesione przez przedsiębiorcę w związku z realizacją kontraktu eksportowego.
+- **1)** inne niż wymienione w ust. 1 koszty wytworzenia lub cena nabycia w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości,
+- **2)** koszty zakupu surowców lub półfabrykatów, które nie są wydobywane ani wytwarzane na terytorium Rzeczypospolitej Polskiej lub których odpowiedniki wydobywane lub wytwarzane na terytorium Rzeczypospolitej Polskiej nie posiadają parametrów określonych w kontrakcie eksportowym – poniesione przez przedsiębiorcę w związku z realizacją kontraktu eksportowego.
 
 3. Składnikiem pochodzenia krajowego jest również marża na realizację kontraktu eksportowego wyliczona jako różnica przychodu netto z realizacji kontraktu eksportowego oraz ogółu kosztów wytworzenia produktu lub usługi poniesionych w związku z realizacją kontraktu eksportowego.
 
@@ -215,9 +224,12 @@ source: "isap-pdf"
 
 **Art. 6e.** Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw finansów publicznych określa, w drodze rozporządzenia:
 
+- **1)** maksymalny procentowy udział składników pochodzenia zagranicznego w przychodzie netto z realizacji kontraktu eksportowego, uwzględniając rodzaj eksportowanych produktów i usług lub okres kredytu, oraz
+- **2)** rodzaje dowodów, na podstawie których ustala się pochodzenie produktu lub usługi, uwzględniając możliwość ustalenia na ich podstawie udziału procentowego składników pochodzenia krajowego lub składników pochodzenia zagranicznego w przychodzie netto z realizacji kontraktu eksportowego.
+
 **Art. 6f.**
 
-1. Jeżeli uprawnionym z tytułu ubezpieczenia gwarantowanego jest jednostka finansująca, Korporacja może zawrzeć z przedsiębiorcą krajowym lub z ma uzyskać ubezpieczenie gwarantowane, umowę określającą co najmniej:
+1. Jeżeli uprawnionym z tytułu ubezpieczenia gwarantowanego jest jednostka finansująca, Korporacja może zawrzeć z przedsiębiorcą krajowym lub z przedsiębiorcą zależnym, w związku z działalnością którego ta jednostka finansująca ma uzyskać ubezpieczenie gwarantowane, umowę określającą co najmniej:
 
 - **1)** maksymalny procentowy udział składników pochodzenia zagranicznego w przychodzie netto, umożliwiający uznanie towaru lub usługi za krajowe, a także określenie sposobu udokumentowania tego udziału, umożliwiającego uznanie towaru lub usługi za krajowe;
 - **2)** obowiązek udzielania przez przedsiębiorcę krajowego lub przedsiębiorcę zależnego informacji, związanych z realizacją kontraktu eksportowego lub umowy przedsiębiorcy zależnego;
@@ -234,8 +246,9 @@ source: "isap-pdf"
 
 1. Tworzy się Komitet Polityki Ubezpieczeń Gwarantowanych przez Skarb Państwa, zwany dalej „Komitetem”.
 
-2. Do zadań Komitetu należy: gwarantowanych, z uwzględnieniem standardów obowiązujących w państwach członkowskich Unii Europejskiej;
+2. Do zadań Komitetu należy:
 
+- **1)** określanie szczegółowych zasad działalności Korporacji w zakresie ubezpieczeń gwarantowanych, z uwzględnieniem standardów obowiązujących w państwach członkowskich Unii Europejskiej;
 - **2)** określanie zasad ustalania stawek ubezpieczeniowych oraz wynagrodzeń z tytułu udzielonych gwarancji ubezpieczeniowych;
 - **3)** określanie szczegółowych kryteriów branych przez Komitet pod uwagę przy ocenie zaistnienia interesu Rzeczypospolitej Polskiej, o którym mowa w art. 6 ust. 3;
 - **4)** opiniowanie wniosków o ubezpieczenie gwarantowane oraz zleceń udzielenia gwarancji ubezpieczeniowej w ramach limitu, o którym mowa w art. 5a;
@@ -252,6 +265,13 @@ source: "isap-pdf"
 3. Komitet przedstawia Radzie Ministrów roczne sprawozdanie ze swojej działalności w terminie do dnia 31 maja następnego roku.
 
 **Art. 7a.** W skład Komitetu wchodzą, powołani przez Prezesa Rady Ministrów, po jednym przedstawicielu:
+
+- **1)** ministra właściwego do spraw aktywów państwowych,
+- **2)** ministra właściwego do spraw finansów publicznych,
+- **3)** ministra właściwego do spraw gospodarki,
+- **4)** ministra właściwego do spraw klimatu,
+- **5)** ministra właściwego do spraw rynków rolnych,
+- **6)** ministra właściwego do spraw zagranicznych – w randze sekretarza albo podsekretarza stanu.
 
 **Art. 7b.**
 
@@ -286,6 +306,7 @@ source: "isap-pdf"
 - **7)** środki przekazane przez ministra właściwego do spraw finansów publicznych, określone w art. 19;
 - **8)** środki przekazane przez ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej, określone w art. 20 ust. 1;
 - **9)** składki zwrotne;
+- **10)** dodatnie różnice kursowe;
 - **11)** pozostałe wpływy.
 
 2a. Z rachunku, o którym mowa w ust. 1, są pokrywane:
@@ -313,7 +334,11 @@ source: "isap-pdf"
 
 6. W przypadku ogłoszenia upadłości Korporacji, środki pieniężne zgromadzone na rachunku, o którym mowa w ust. 1, nie wchodzą do masy upadłościowej. Środki te minister właściwy do spraw gospodarki przeznacza na zaspokojenie zawartych przez Korporację umów ubezpieczeń gwarantowanych, nadwyżkę zaś przekazuje do budżetu państwa.
 
-7. Czynności, o których mowa w ust. 5 i 6, dokonywane są po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych. zobowiązany jest bez nieuzasadnionej zwłoki udzielić Korporacji wszelkich wiadomości oraz przedstawia dokumenty i inne dowody niezbędne do ustalenia okoliczności powstania szkody i jej rozmiarów.
+7. Czynności, o których mowa w ust. 5 i 6, dokonywane są po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych.
+
+**Art. 11.**
+
+1. W razie powstania szkody objętej ubezpieczeniem, ubezpieczający zobowiązany jest bez nieuzasadnionej zwłoki udzielić Korporacji wszelkich wiadomości oraz przedstawia dokumenty i inne dowody niezbędne do ustalenia okoliczności powstania szkody i jej rozmiarów.
 
 2. W razie wątpliwości, czy powstała szkoda jest następstwem ryzyka określonego w art. 2–4, ciężar udowodnienia tego faktu spoczywa na ubezpieczającym.
 
@@ -337,7 +362,11 @@ source: "isap-pdf"
 
 2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki może w szczególnie uzasadnionych wypadkach umorzyć pożyczki, o których mowa w ust. 1.
 
-3. Rada Ministrów może określić, w drodze rozporządzenia, warunki i tryb udzielania i umarzania pożyczek, o których mowa w ust. 1, mając na względzie zapewnienie w odpowiednim czasie środków na pokrycie wydatków, o których mowa w ust. 1, oraz stan i prognozowane zasilenia rachunku, o którym mowa w art. 10 ust. 1. przysługuje wynagrodzenie pokrywające koszty i wydatki ponoszone przez nią w związku z wykonywaniem tej działalności, z wyjątkiem wydatków określonych w art. 10 ust. 2a, oraz wynagrodzenie dodatkowe.
+3. Rada Ministrów może określić, w drodze rozporządzenia, warunki i tryb udzielania i umarzania pożyczek, o których mowa w ust. 1, mając na względzie zapewnienie w odpowiednim czasie środków na pokrycie wydatków, o których mowa w ust. 1, oraz stan i prognozowane zasilenia rachunku, o którym mowa w art. 10 ust. 1.
+
+**Art. 14.**
+
+1. Za prowadzenie działalności określonej niniejszą ustawą Korporacji przysługuje wynagrodzenie pokrywające koszty i wydatki ponoszone przez nią w związku z wykonywaniem tej działalności, z wyjątkiem wydatków określonych w art. 10 ust. 2a, oraz wynagrodzenie dodatkowe.
 
 2. Wysokość wynagrodzenia i wynagrodzenia dodatkowego oraz sposób ich finansowania określa umowa zawarta między ministrem właściwym do spraw gospodarki a Korporacją.
 
@@ -347,7 +376,7 @@ source: "isap-pdf"
 
 1. Nadzór nad działalnością Korporacji, z wyjątkiem nadzoru, o którym mowa w ust. 1a, sprawuje minister właściwy do spraw gospodarki na zasadach określonych w niniejszej ustawie.
 
-1a. Nadzór nad działalnością Korporacji w zakresie przewidzianym przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniającego rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ) sprawuje Komisja Nadzoru Finansowego na zasadach określonych w ustawie z dnia lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069).
+1a. Nadzór nad działalnością Korporacji w zakresie przewidzianym przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniającego rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ) sprawuje Komisja Nadzoru Finansowego na zasadach określonych w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069).
 
 2. Nadzór ministra właściwego do spraw gospodarki w zakresie ubezpieczeń gwarantowanych obejmuje:
 
@@ -355,7 +384,7 @@ source: "isap-pdf"
 - **2)** występowanie do Korporacji z żądaniem przekazania w wyznaczonym terminie pisemnych informacji i wyjaśnień, w tym dotyczących poszczególnych umów ubezpieczenia;
 - **3)** żądanie usunięcia w wyznaczonym terminie stwierdzonych nieprawidłowości.
 
-3. Kontrolę przeprowadzają co najmniej raz w roku pracownicy urzędu obsługującego ministra właściwego do spraw gospodarki, zwani dalej „kontrolerami”, na podstawie upoważnienia ministra właściwego do spraw gospodarki do przeprowadzenia kontroli.
+3. Kontrolę przeprowadzają co najmniej raz w roku pracownicy urzędu obsługującego ministra właściwego do spraw gospodarki, zwani dalej „kontrolerami”, na podstawie upoważnienia ministra właściwego do spraw gospodarki do przeprowadzenia kontroli oraz po okazaniu legitymacji służbowej upoważniającej do przeprowadzenia kontroli.
 
 4. Upoważnienie, o którym mowa w ust. 3, zawiera:
 
@@ -378,7 +407,9 @@ source: "isap-pdf"
 
 9. Do czasu wydania postanowienia, o którym mowa w ust. 8, kontroler podejmuje jedynie czynności niecierpiące zwłoki.
 
-10. Minister właściwy do spraw gospodarki może w toku przeprowadzania kontroli wydłużyć czas trwania, zmienić zakres lub miejsce przeprowadzenia kontroli, a także upoważnić do podjęcia dodatkowych czynności kontrolnych. W tym celu dokonuje odpowiednich zmian w upoważnieniu do przeprowadzenia kontroli, załączając uzasadnienie na piśmie, i niezwłocznie informuje o tym Korporację. Łączny czas trwania kontroli nie może przekraczać 4 tygodni w roku. przeprowadzić w danym roku kalendarzowym powtórną kontrolę w tym samym zakresie przedmiotowym, a czasu jej trwania nie wlicza się do czasu, o którym mowa w ust. 10.
+10. Minister właściwy do spraw gospodarki może w toku przeprowadzania kontroli wydłużyć czas trwania, zmienić zakres lub miejsce przeprowadzenia kontroli, a także upoważnić do podjęcia dodatkowych czynności kontrolnych. W tym celu dokonuje odpowiednich zmian w upoważnieniu do przeprowadzenia kontroli, załączając uzasadnienie na piśmie, i niezwłocznie informuje o tym Korporację. Łączny czas trwania kontroli nie może przekraczać 4 tygodni w roku.
+
+11. Jeżeli wyniki kontroli wykazały naruszenie prawa przez Korporację, można przeprowadzić w danym roku kalendarzowym powtórną kontrolę w tym samym zakresie przedmiotowym, a czasu jej trwania nie wlicza się do czasu, o którym mowa w ust. 10.
 
 12. Członkowie Zarządu Korporacji oraz pracownicy Korporacji są obowiązani:
 
@@ -397,7 +428,9 @@ source: "isap-pdf"
 
 15. Na podstawie ustaleń kontroli, w przypadku stwierdzenia nieprawidłowości, minister właściwy do spraw gospodarki żąda ich usunięcia w wyznaczonym terminie niedłuższym niż 6 miesięcy. Żądanie doręcza się Prezesowi Zarządu Korporacji.
 
-16. Bieg terminu do usunięcia przez Korporację nieprawidłowości wskazanych w żądaniu, o których mowa w ust. 15, rozpoczyna się w dniu następującym po dniu doręczenia tego żądania. następującym po upływie terminu do usunięcia nieprawidłowości wskazanych w żądaniu, przekazuje ministrowi właściwemu do spraw gospodarki informację o ich usunięciu, wskazując szczegółowy sposób usunięcia stwierdzonych nieprawidłowości.
+16. Bieg terminu do usunięcia przez Korporację nieprawidłowości wskazanych w żądaniu, o których mowa w ust. 15, rozpoczyna się w dniu następującym po dniu doręczenia tego żądania.
+
+17. Prezes Zarządu Korporacji niezwłocznie, niepóźniej niż w dniu następującym po upływie terminu do usunięcia nieprawidłowości wskazanych w żądaniu, przekazuje ministrowi właściwemu do spraw gospodarki informację o ich usunięciu, wskazując szczegółowy sposób usunięcia stwierdzonych nieprawidłowości.
 
 18. Odmowa podpisania protokołu kontroli nie zwalnia Korporacji z obowiązku spełnienia żądań ministra właściwego do spraw gospodarki, o czym przewodniczący kontroli informuje Prezesa Zarządu Korporacji.
 
@@ -423,7 +456,8 @@ source: "isap-pdf"
 
 1. Do umów zawieranych w zakresie uregulowanym niniejszą ustawą nie stosuje się przepisów:
 
-- **1)** art. 807 § 1, art. 810 oraz art. 811 Kodeksu cywilnego; poz. 1206, 1273 i 1348) .
+- **1)** art. 807 § 1, art. 810 oraz art. 811 Kodeksu cywilnego;
+- **2)** ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2015 r. poz. 1206, 1273 i 1348) .
 
 2. Do firmy Korporacji nie stosuje się art. 6 ust. 3 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej.
 
@@ -448,4 +482,5 @@ source: "isap-pdf"
 
 3. Środki, wykazane na wydzielonych rachunkach z tytułów wymienionych w ust. 1 i 2, nie stanowią przychodu Korporacji w rozumieniu przepisów o podatku dochodowym od osób prawnych.
 
+**Art. 21.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

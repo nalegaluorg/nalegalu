@@ -8,10 +8,10 @@ pos: 2767
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22776677 Załącznik nr 1 SPOSÓB USTALANIA WYSOKOŚCI JEDNORAZOWEGO DODATKU UZUPEŁNIAJĄCEGO
 
 | Pole | Wartość |
 |---|---|
@@ -25,77 +25,52 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002767) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2767/text.pdf) |
 
-22776677 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 15 grudnia 2022 r.
-w sprawie sposobu opracowywania sprawozdania z wysokości średnich wynagrodzeń nauczycieli Na podstawie art. 30a ust. 7 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762 oraz z 2022 r. poz. 935, 1116, 1700 i 1730) zarządza się, co następuje: § 1. Rozporządzenie określa sposób opracowywania sprawozdania, o którym mowa w art. 30a ust. 4 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela, zwanej dalej „ustawą”, w szczególności:
-1) sposób wyliczania średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3 ustawy;
-2) sposób ustalania średniorocznej struktury zatrudnienia nauczycieli;
-3) sposób ustalania kwoty różnicy, o której mowa w art. 30a ust. 2 ustawy, zwanej dalej „kwotą różnicy”;
-4) sposób ustalania wysokości jednorazowego dodatku uzupełniającego;
-5) wzór formularza sprawozdania.
-§ 2. Średnie wynagrodzenia nauczycieli, o których mowa w art. 30 ust. 3 ustawy, w okresie obowiązywania kwoty bazowej określonej dla nauczycieli w ustawie budżetowej na dany rok, zwanej dalej „kwotą bazową”, wylicza się jako iloczyn kwoty bazowej i wskaźników, o których mowa w art. 30 ust. 3 ustawy.
-§ 3. 1. Średnioroczną strukturę zatrudnienia nauczycieli ustala się odrębnie dla nauczycieli nieposiadających stopnia awansu zawodowego, zwanych dalej „nauczycielami początkującymi”, nauczycieli mianowanych i nauczycieli dyplomowanych, uwzględniając średnią liczbę etatów odpowiednio nauczycieli początkujących, nauczycieli mianowanych i nauczycieli dyplomowanych w okresie obowiązywania kwoty bazowej.
-2. Średnią liczbę etatów, o której mowa w ust. 1, oblicza się dzieląc sumę liczby etatów odpowiednio nauczycieli początkujących, nauczycieli mianowanych i nauczycieli dyplomowanych zatrudnionych w poszczególnych miesiącach obowiązywania kwoty bazowej przez liczbę miesięcy obowiązywania kwoty bazowej.
-3. Nauczyciela, który w danym roku uzyskał stopień nauczyciela mianowanego lub stopień nauczyciela dyplomowanego, uwzględnia się przy ustalaniu średniorocznej struktury zatrudnienia nauczycieli jako odpowiednio nauczyciela początkującego, nauczyciela mianowanego lub nauczyciela dyplomowanego, proporcjonalnie do okresu pobierania wynagrodzenia jako odpowiednio nauczyciel początkujący, nauczyciel mianowany lub nauczyciel dyplomowany.
-4. Nauczyciela zatrudnionego w pełnym wymiarze zajęć na podstawie jednej umowy o pracę lub aktu mianowania uwzględnia się przy ustalaniu średniorocznej struktury zatrudnienia nauczycieli jako jeden etat. Przydzielone temu nauczycielowi godziny ponad tygodniowy obowiązkowy wymiar godzin zajęć określony w art. 42 ust. 3 ustawy lub ustalony na podstawie art. 42 ust. 4a albo 7 ustawy nie są przeliczane na etaty.
-5. Przy ustalaniu średniorocznej struktury zatrudnienia nauczycieli:
-1) uwzględnia się liczbę etatów nauczycieli w okresach, za które wypłacono im wynagrodzenie, zgodnie z wymiarem zatrudnienia określonym w umowie o pracę lub w akcie mianowania;
-2) nie uwzględnia się liczby etatów nauczycieli, proporcjonalnie do okresów, w których pobierali świadczenia pieniężne, o których mowa w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
-§ 4. 1. Kwotę różnicy ustala się odrębnie dla wszystkich nauczycieli początkujących, nauczycieli mianowanych i nauczycieli dyplomowanych zatrudnionych w szkołach prowadzonych przez daną jednostkę samorządu terytorialnego.
-2. Kwotę różnicy ustala się jako różnicę między wydatkami poniesionymi w danym roku na wynagrodzenia odpowiednio nauczycieli początkujących, nauczycieli mianowanych i nauczycieli dyplomowanych w składnikach, o których mowa w art. 30 ust. 1 ustawy, a iloczynem średniej liczby etatów odpowiednio nauczycieli początkujących, nauczycieli mianowanych i nauczycieli dyplomowanych oraz średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3 ustawy, ustalonych w okresie obowiązywania kwoty bazowej.
-3. W przypadku gdy w ustawie budżetowej na dany rok określono więcej niż jedną kwotę bazową kwotę różnicy ustala się jako różnicę między wydatkami poniesionymi w danym roku na wynagrodzenia odpowiednio nauczycieli początkujących, nauczycieli mianowanych i nauczycieli dyplomowanych w składnikach, o których mowa w art. 30 ust. 1 ustawy, a sumą iloczynów średniej liczby etatów odpowiednio nauczycieli początkujących, nauczycieli mianowanych i nauczycieli dyplomowanych oraz średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3 ustawy, ustalonych dla okresów obowiązywania poszczególnych kwot bazowych.
-§ 5. Wysokość jednorazowego dodatku uzupełniającego, o którym mowa w art. 30a ust. 3 ustawy, zwanego dalej „jednorazowym dodatkiem uzupełniającym”, ustala się proporcjonalnie do:
-1) okresu zatrudnienia, w którym nauczyciel pobierał wynagrodzenie, oraz
-2) osobistej stawki wynagrodzenia zasadniczego nauczyciela w sposób określony w załączniku nr 1 do rozporządzenia.
-§ 6. 1. Sprawozdanie z wysokości średnich wynagrodzeń nauczycieli początkujących, mianowanych i dyplomowanych w szkołach prowadzonych przez jednostkę samorządu terytorialnego sporządza się na formularzu sprawozdania, którego wzór jest określony w załączniku nr 2 do rozporządzenia.
-2. Sprawozdanie, o którym mowa w ust. 1, przedkłada się podmiotom, o których mowa w art. 30a ust. 5 ustawy, w postaci papierowej, a regionalnej izbie obrachunkowej również w postaci elektronicznej.
-§ 7. 1. Średnie wynagrodzenia nauczycieli w 2022 r. oraz średnioroczną strukturę zatrudnienia nauczycieli w 2022 r.
-ustala się z uwzględnieniem okresów:
-1) od dnia 1 stycznia do dnia 30 kwietnia;
-2) od dnia 1 maja do dnia 31 sierpnia;
-3) od dnia 1 września do dnia 31 grudnia.
-2. Średnie wynagrodzenia nauczycieli oraz średnioroczną strukturę zatrudnienia nauczycieli ustala się:
-1) w okresach, o których mowa w ust. 1 pkt 1 i 2, odrębnie dla nauczycieli na poszczególnych stopniach awansu zawodowego, o których mowa w art. 9a ust. 1 ustawy, w brzmieniu obowiązującym do dnia 31 sierpnia 2022 r.;
-2) w okresie, o którym mowa w ust. 1 pkt 3, odrębnie dla nauczycieli początkujących, nauczycieli mianowanych i nauczycieli dyplomowanych.
-3. Nauczyciela, który do dnia 31 sierpnia 2022 r. był nauczycielem stażystą lub nauczycielem kontraktowym, przy ustalaniu średniorocznej struktury zatrudnienia nauczycieli:
-1) w okresach, o których mowa w ust. 1 pkt 1 i 2, uwzględnia się jako odpowiednio nauczyciela stażystę lub nauczyciela kontraktowego,
-2) w okresie, o którym mowa w ust. 1 pkt 3, uwzględnia się jako nauczyciela początkującego proporcjonalnie do okresu pobierania wynagrodzenia jako odpowiednio nauczyciel stażysta, nauczyciel kontraktowy lub nauczyciel początkujący.
-4. Nauczyciela, który w okresie od dnia 1 stycznia 2022 r. do dnia 31 sierpnia 2022 r. uzyskał stopień nauczyciela mianowanego, przy ustalaniu średniorocznej struktury zatrudnienia nauczycieli:
-1) w okresach, o których mowa w ust. 1 pkt 1 i 2, uwzględnia się jako nauczyciela kontraktowego,
-2) w okresie, o którym mowa w ust. 1 pkt 3, uwzględnia się jako nauczyciela mianowanego proporcjonalnie do okresu pobierania wynagrodzenia jako odpowiednio nauczyciel kontraktowy lub nauczyciel mianowany.
-5. Średnie wynagrodzenia nauczycieli w okresie, o którym mowa w ust. 1:
-1) pkt 1 wylicza się jako iloczyn kwoty bazowej określonej dla nauczycieli w ustawie budżetowej na rok 2022 z dnia 17 grudnia 2021 r. (Dz. U. z 2022 r. poz. 270) i wskaźników, o których mowa w art. 30 ust. 3 ustawy, w brzmieniu obowiązującym do dnia 31 sierpnia 2022 r.;
-2) pkt 2 określa się, zwiększając średnie wynagrodzenie wyliczone w sposób, o którym mowa w pkt 1, o 4,4% zgodnie z art. 93a ust. 1 ustawy;
-3) pkt 3 wylicza się jako iloczyn kwoty bazowej określonej dla nauczycieli w ustawie budżetowej na rok 2022 z dnia 17 grudnia 2021 r. i wskaźników, o których mowa w art. 30 ust. 3 ustawy, w brzmieniu obowiązującym od dnia 1 września 2022 r., zwiększony o 4,4% zgodnie z art. 93a ust. 1 ustawy.
-6. Kwotę różnicy za 2022 r. ustala się odrębnie dla wszystkich:
-1) nauczycieli początkujących i nauczycieli, którzy do dnia 31 sierpnia 2022 r. byli nauczycielami stażystami i nauczycielami kontraktowymi,
-2) nauczycieli mianowanych,
-3) nauczycieli dyplomowanych zatrudnionych w szkołach prowadzonych przez daną jednostkę samorządu terytorialnego.
-7. Kwotę różnicy za 2022 r. dla:
-1) nauczycieli początkujących i nauczycieli, którzy do dnia 31 sierpnia 2022 r. byli nauczycielami stażystami i nauczycielami kontraktowymi, ustala się jako różnicę między wydatkami poniesionymi w 2022 r. na wynagrodzenia tych nauczycieli w składnikach, o których mowa w art. 30 ust. 1 ustawy, a sumą ustalonych dla okresu, o którym mowa w ust. 1:
-a) pkt 1 iloczynów średniej liczby etatów nauczycieli stażystów i średnich wynagrodzeń nauczycieli stażystów oraz iloczynów średniej liczby etatów nauczycieli kontraktowych i średnich wynagrodzeń nauczycieli kontraktowych,
-b) pkt 2 iloczynów średniej liczby etatów nauczycieli stażystów i średnich wynagrodzeń nauczycieli stażystów oraz iloczynów średniej liczby etatów nauczycieli kontraktowych i średnich wynagrodzeń nauczycieli kontraktowych,
-c) pkt 3 iloczynów średniej liczby etatów nauczycieli początkujących i średnich wynagrodzeń nauczycieli początkujących;
-2) nauczycieli mianowanych ustala się jako różnicę między wydatkami poniesionymi w 2022 r. na wynagrodzenia nauczycieli mianowanych w składnikach, o których mowa w art. 30 ust. 1 ustawy, a sumą ustalonych dla okresów, o których mowa w ust. 1, iloczynów średniej liczby etatów nauczycieli mianowanych oraz średnich wynagrodzeń nauczycieli mianowanych;
-3) nauczycieli dyplomowanych ustala się jako różnicę między wydatkami poniesionymi w 2022 r. na wynagrodzenia nauczycieli dyplomowanych w składnikach, o których mowa w art. 30 ust. 1 ustawy, a sumą ustalonych dla okresów, o których mowa w ust. 1, iloczynów średniej liczby etatów nauczycieli dyplomowanych oraz średnich wynagrodzeń
-8. Wysokość jednorazowego dodatku uzupełniającego za 2022 r. ustala się proporcjonalnie do:
-1) okresu zatrudnienia, w którym nauczyciel pobierał wynagrodzenie, oraz
-2) osobistej stawki wynagrodzenia zasadniczego nauczyciela w sposób określony w załączniku nr 3 do rozporządzenia.
-9. Sprawozdanie z wysokości średnich wynagrodzeń nauczycieli w szkołach prowadzonych przez jednostkę samorządu terytorialnego za 2022 r. sporządza się na formularzu sprawozdania, którego wzór jest określony w załączniku nr 4 do rozporządzenia. Przepis § 6 ust. 2 stosuje się odpowiednio.
-§ 8. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek W W Objaśnienia I. Pola w poszczególnych kolumnach uzupełnia się po dokonaniu obliczeń według podanej niżej metodologii. Wszystkie dane i wyniki obliczeń wpisuje się z dokładnością do dwóch miejsc po przecinku. Obliczenia wykonuje się na danych z taką samą dokładnością.
+1. Ustalanie osobistej stawki wynagrodzenia zasadniczego nauczyciela proporcjonalnie do okresu zatrudnienia, w którym nauczyciel pobierał wynagrodzenie Dla każdego nauczyciela wylicza się oddzielnie osobistą stawkę wynagrodzenia zasadniczego proporcjonalnie do okresu zatrudnienia, w którym nauczyciel pobierał wynagrodzenie, według wzoru: gdzie znaczenie poszczególnych 𝐒𝐒 symboli = 𝐀𝐀 jest × następujące: 𝐁𝐁 × 𝐂𝐂 S osobista stawka wynagrodzenia zasadniczego nauczyciela, z uwzględnieniem okresu zatrudnienia C jako nauczyciel początkujący, nauczyciel mianowany lub nauczyciel dyplomowany, A stawka wynagrodzenia zasadniczego nauczyciela zatrudnionego w pełnym wymiarze zajęć, B tygodniowy obowiązkowy wymiar godzin zajęć nauczyciela w przeliczeniu na pełny wymiar zajęć, C okres zatrudnienia nauczyciela rozumiany jako okres, w którym nauczyciel był zatrudniony jako nauczyciel początkujący, nauczyciel mianowany lub nauczyciel dyplomowany, i pobierał wynagrodzenie w roku podlegającym analizie (np. jeżeli nauczyciel był zatrudniony i pobierał wynagrodzenie przez 5 miesięcy, to C wynosi 5/12).
+Ustalając okres zatrudnienia nauczyciela, który przez część miesiąca pobierał świadczenie pieniężne, o którym mowa w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, za miesiąc przyjmuje się 30 dni.
+W przypadku zmiany osobistej stawki wynagrodzenia zasadniczego nauczyciela S , wynikającej ze zmiany:
+1) wysokości stawki wynagrodzenia zasadniczego określonej w przepisach wydanych na podstawie art. 30 ust. 5 ustawy, lub ustalonej zgodnie z art. 30 ust. 10 ustawy, lub
+2) posiadanych kwalifikacji, lub
+3) tygodniowego obowiązkowego wymiaru godzin zajęć do dalszych obliczeń jako S uwzględnia się sumę osobistych stawek wynagrodzenia zasadniczego nauczyciela obowiązujących w okresach wyznaczonych przez te zmiany.
+2. Ustalanie wysokości jednorazowego dodatku uzupełniającego Wysokość jednorazowego dodatku uzupełniającego dla danego nauczyciela ustala się według wzoru: 𝐒𝐒 𝐃𝐃 = |𝐑𝐑| × gdzie znaczenie poszczególnych symboli jest następujące: ∑ 𝐒𝐒 D wysokość jednorazowego dodatku uzupełniającego dla danego nauczyciela, R kwota różnicy ustalona odrębnie dla nauczycieli początkujących, nauczycieli mianowanych i nauczycieli dyplomowanych, S osobista stawka wynagrodzenia zasadniczego ustalona proporcjonalnie do okresu zatrudnienia danego nauczyciela, suma osobistych stawek wynagrodzenia zasadniczego odpowiednio nauczycieli początkujących, nauczycieli mianowanych i nauczycieli ∑ 𝐒𝐒 dyplomowanych, ustalonych proporcjonalnie do okresu ich zatrudnienia, n liczba nauczycieli odpowiednio początkujących, mianowanych lub dyplomowanych zatrudnionych i pobierających wynagrodzenie w roku podlegającym analizie.
+W przypadku uzyskania przez nauczyciela stopnia nauczyciela mianowanego lub stopnia nauczyciela dyplomowanego w roku podlegającym analizie wysokość jednorazowego dodatku uzupełniającego ustala się odrębnie dla okresu zatrudnienia tego nauczyciela jako odpowiednio nauczyciela początkującego, nauczyciela mianowanego lub nauczyciela dyplomowanego.
+Objaśnienia I. Pola w poszczególnych kolumnach uzupełnia się po dokonaniu obliczeń według podanej niżej metodologii. Wszystkie dane i wyniki obliczeń wpisuje się z dokładnością do dwóch miejsc po przecinku. Obliczenia wykonuje się na danych z taką samą dokładnością.
 1. Średnie wynagrodzenia nauczycieli, o których mowa w art. 30 ust. 3 ustawy (kolumny 4 i 5) Średnie wynagrodzenie nauczyciela obowiązujące od dnia 1 stycznia do ostatniego dnia obowiązywania kwoty bazowej B1 (kolumna 4) wylicza się jako iloczyn kwoty bazowej B1 i wskaźnika, o którym mowa w art. 30 ust. 3 ustawy (kolumna 3), według wzoru: kolumna 4 = kolumna 3 × B1 Średnie wynagrodzenie nauczyciela obowiązujące od pierwszego dnia obowiązywania kwoty bazowej B2 do dnia 31 grudnia (kolumna 5) wylicza się jako iloczyn kwoty bazowej B2 i wskaźnika, o którym mowa w art. 30 ust. 3 ustawy (kolumna 3), według wzoru: kolumna 5 = kolumna 3 × B2
 2. Średnia liczba etatów nauczycieli (kolumny 6 i 7) Średnią liczbę etatów nauczycieli oblicza się z uwzględnieniem okresów obowiązywania poszczególnych kwot bazowych:
 1) od dnia 1 stycznia do ostatniego dnia obowiązywania kwoty bazowej B1 (kolumna 6);
 2) od pierwszego dnia obowiązywania kwoty bazowej B2 do dnia 31 grudnia (kolumna 7).
 W przypadku nauczyciela, który przez część miesiąca pobierał świadczenie pieniężne, o którym mowa w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, za miesiąc przyjmuje się 30 dni.
-3. Suma iloczynów średniej liczby etatów nauczycieli i średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3 ustawy, ustalonych dla okresów obowiązywania poszczególnych kwot bazowych (kolumna 8) Sumę iloczynów średniej liczby etatów nauczycieli i średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3 ustawy, ustalonych dla okresów obowiązywania poszczególnych kwot bazowych oblicza się według wzoru: kolumna 8 = n × (kolumna 4 × kolumna 6) + (12-n) × (kolumna 5 × kolumna 7) gdzie: n oznacza liczbę miesięcy obowiązywania kwoty bazowej B1 w roku podlegającym analizie, 12-n oznacza liczbę miesięcy obowiązywania kwoty bazowej B2 w roku podlegającym analizie.
+3. Suma iloczynów średniej liczby etatów nauczycieli i średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3 ustawy, ustalonych dla okresów obowiązywania poszczególnych kwot bazowych (kolumna 8) Sumę iloczynów średniej liczby etatów nauczycieli i średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3 ustawy, ustalonych dla okresów obowiązywania poszczególnych kwot bazowych oblicza się według wzoru: kolumna 8 = n × (kolumna 4 × kolumna 6) + (12-n) × (kolumna 5 × kolumna 7) gdzie: n – oznacza liczbę miesięcy obowiązywania kwoty bazowej B1 w roku podlegającym analizie, 12-n – oznacza liczbę miesięcy obowiązywania kwoty bazowej B2 w roku podlegającym analizie.
 4. Wydatki poniesione w roku podlegającym analizie na wynagrodzenia nauczycieli w składnikach, o których mowa w art. 30 ust. 1 ustawy (kolumna 9) Wydatki poniesione w roku podlegającym analizie na wynagrodzenia nauczycieli w składnikach, o których mowa w art. 30 ust. 1 ustawy, obejmują wyłącznie wydatki poniesione w roku podlegającym analizie z budżetu jednostki samorządu terytorialnego na wynagrodzenia nauczycieli w składnikach, o których mowa w art. 30 ust. 1 ustawy, bez pochodnych od wynagrodzeń.
 5. Kwota różnicy (kolumna 10) Kwotę różnicy oblicza się jako różnicę wydatków poniesionych w roku podlegającym analizie na wynagrodzenia nauczycieli w składnikach, o których mowa w art. 30 ust. 1 ustawy (kolumna 9), i sumy iloczynów średniej liczby etatów nauczycieli oraz średnich wynagrodzeń nauczycieli, o których mowa w art. 30 ust. 3 ustawy, ustalonych dla okresów obowiązywania poszczególnych kwot bazowych (kolumna 8), według wzoru: kolumna 10 = kolumna 9-kolumna 8.
 Liczba ujemna stanowi kwotę różnicy, jaką należy podzielić i wypłacić w formie jednorazowego dodatku uzupełniającego.
 II. W przypadku gdy w ustawie budżetowej na rok podlegający analizie ustalono jedną kwotę bazową, w formularzu:
-1) nad polem B1, w tytule kolumny 4 i w tytule kolumny 6 w miejscu przeznaczonym na wpisanie daty wpisuje się datę końcową „31 grudnia”;
+1) nad polem B1, w tytule kolumny 4 i w tytule kolumny 6 w miejscu przeznaczonym na wpisanie daty wpisuje się datę końcową Ń31 grudnia”;
 2) w polu B1 wpisuje się kwotę bazową;
-3) w polu B2 i w kolumnie 7 w rubrykach od 1 do 3 wpisuje się liczbę „0”.
+3) w polu B2 i w kolumnie 7 w rubrykach od 1 do 3 wpisuje się liczbę Ń0”.
+
+## Załącznik nr 3 — SPOSÓB USTALANIA WYSOKOŚCI JEDNORAZOWEGO DODATKU UZUPEŁNIAJĄCEGO W 2022 R.
+
+1. Ustalanie osobistej stawki wynagrodzenia zasadniczego nauczyciela proporcjonalnie do okresu zatrudnienia, w którym nauczyciel pobierał wynagrodzenie Dla każdego nauczyciela wylicza się oddzielnie osobistą stawkę wynagrodzenia zasadniczego proporcjonalnie do okresu zatrudnienia, w którym nauczyciel pobierał wynagrodzenie, według wzoru: gdzie znaczenie poszczególnych 𝐒𝐒 symboli = 𝐀𝐀 jest × następujące: 𝐁𝐁 × 𝐂𝐂 S – osobista stawka wynagrodzenia zasadniczego nauczyciela, z uwzględnieniem okresu zatrudnienia C jako nauczyciel:
+1) stażysta, kontraktowy, mianowany lub dyplomowany w okresach:
+a) od dnia 1 stycznia do dnia 30 kwietnia,
+b) od dnia 1 maja do dnia 31 sierpnia,
+2) początkujący, mianowany lub dyplomowany w okresie od dnia 1 września do dnia 31 grudnia, A – stawka wynagrodzenia zasadniczego nauczyciela zatrudnionego w pełnym wymiarze zajęć, B – tygodniowy obowiązkowy wymiar godzin zajęć nauczyciela w przeliczeniu na pełny wymiar zajęć, C – okres zatrudnienia nauczyciela rozumiany jako okres, w którym nauczyciel był zatrudniony jako nauczyciel:
+1) stażysta, kontraktowy, mianowany lub dyplomowany w okresach:
+a) od dnia 1 stycznia do dnia 30 kwietnia,
+b) od dnia 1 maja do dnia 31 sierpnia,
+2) początkujący, mianowany lub dyplomowany w okresie od dnia 1 września do dnia 31 grudnia – i pobierał wynagrodzenie w 2022 r. (np. jeżeli nauczyciel był zatrudniony i pobierał wynagrodzenie przez 5 miesięcy to C wynosi 5/12).
+Ustalając okres zatrudnienia nauczyciela, który przez część miesiąca pobierał świadczenie pieniężne, o którym mowa w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, za miesiąc przyjmuje się 30 dni.
+W przypadku zmiany osobistej stawki wynagrodzenia zasadniczego nauczyciela S , wynikającej ze zmiany:
+1) wysokości stawki wynagrodzenia zasadniczego określonej w przepisach wydanych na podstawie art. 30 ust. 5 ustawy lub ustalonej zgodnie z art. 30 ust. 10 ustawy, lub
+2) posiadanych kwalifikacji, lub
+3) tygodniowego obowiązkowego wymiaru godzin zajęć – do dalszych obliczeń jako S uwzględnia się sumę osobistych stawek wynagrodzenia zasadniczego nauczyciela obowiązujących w okresach wyznaczonych przez te zmiany.
+2. Ustalanie wysokości jednorazowego dodatku uzupełniającego Wysokość jednorazowego dodatku uzupełniającego dla danego nauczyciela ustala się według wzoru: 𝐒𝐒 𝐃𝐃 = |𝐑𝐑| × gdzie znaczenie poszczególnych symboli jest następujące: ∑ 𝐒𝐒 D – wysokość jednorazowego dodatku uzupełniającego dla danego nauczyciela, R – kwota różnicy ustalona odrębnie dla:
+1) nauczycieli początkujących i nauczycieli, którzy do dnia 31 sierpnia 2022 r.
+byli nauczycielami stażystami i nauczycielami kontraktowymi,
+2) nauczycieli mianowanych,
+3) nauczycieli dyplomowanych, S – osobista stawka wynagrodzenia zasadniczego ustalona proporcjonalnie do okresu zatrudnienia danego nauczyciela, – suma osobistych stawek wynagrodzenia zasadniczego odpowiednio nauczycieli początkujących i nauczycieli, którzy do dnia 31 sierpnia ∑ 𝐒𝐒 2022 r. byli nauczycielami stażystami i nauczycielami kontraktowymi, nauczycieli mianowanych oraz nauczycieli dyplomowanych, ustalonych proporcjonalnie do okresu ich zatrudnienia, n – liczba odpowiednio nauczycieli początkujących i nauczycieli, którzy do dnia 31 sierpnia 2022 r. byli nauczycielami stażystami i nauczycielami kontraktowymi, nauczycieli mianowanych oraz nauczycieli dyplomowanych, zatrudnionych i pobierających wynagrodzenie w 2022 r.
+W przypadku nauczyciela, który do dnia 31 sierpnia 2022 r. był nauczycielem stażystą lub nauczycielem kontraktowym i do tego dnia nie uzyskał stopnia nauczyciela mianowanego, wysokość jednorazowego dodatku uzupełniającego ustala się odrębnie dla okresu zatrudnienia tego nauczyciela jako odpowiednio nauczyciela stażysty, nauczyciela kontraktowego lub nauczyciela początkującego.
+W przypadku uzyskania przez nauczyciela w 2022 r. stopnia nauczyciela mianowanego lub stopnia nauczyciela dyplomowanego wysokość jednorazowego dodatku uzupełniającego ustala się odrębnie dla okresu zatrudnienia tego nauczyciela jako odpowiednio nauczyciela kontraktowego, nauczyciela mianowanego lub nauczyciela dyplomowanego.
 Objaśnienia Pola w poszczególnych kolumnach uzupełnia się po dokonaniu obliczeń według podanej niżej metodologii. Wszystkie dane i wyniki obliczeń wpisuje się z dokładnością do dwóch miejsc po przecinku. Obliczenia wykonuje się na danych z taką samą dokładnością.
 1. Średnia liczba etatów nauczycieli (kolumny od 7 do 9) Średnią liczbę etatów nauczycieli oblicza się z uwzględnieniem okresów:
 1) od dnia 1 stycznia do dnia 30 kwietnia (kolumna 7),

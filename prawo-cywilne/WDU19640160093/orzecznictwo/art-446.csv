@@ -45,11 +45,16 @@ saos_id|date|court|case_number|type|score|saos_url
 88819|2008-10-02|SN|II CZ 71/08|Postanowienie|69|https://www.saos.org.pl/judgments/88819
 87970|2008-04-28|SN|I KZP 6/08|Postanowienie|69|https://www.saos.org.pl/judgments/87970
 162915|2005-01-19|SN|I CK 641/04|Postanowienie|69|https://www.saos.org.pl/judgments/162915
+31345|3013-12-04|SO|I ACa 772/13|Wyrok|56|https://www.saos.org.pl/judgments/31345
+545829|2026-03-12|SO|I ACa 2072/25|Wyrok|56|https://www.saos.org.pl/judgments/545829
+545138|2025-12-10|SO|I ACa 488/23|Wyrok|56|https://www.saos.org.pl/judgments/545138
+546625|2025-11-05|SO|I ACa 390/23|Wyrok|56|https://www.saos.org.pl/judgments/546625
 537063|2025-09-18|SO|I ACa 2040/22|Wyrok|56|https://www.saos.org.pl/judgments/537063
 542615|2025-07-09|SO|I ACa 1576/22|Wyrok|56|https://www.saos.org.pl/judgments/542615
 541969|2025-07-09|SO|I ACa 382/23|Wyrok|56|https://www.saos.org.pl/judgments/541969
 543139|2025-06-25|SO|I ACa 1807/23|Wyrok|56|https://www.saos.org.pl/judgments/543139
 532167|2025-06-24|SO|I ACa 152/23|Wyrok|56|https://www.saos.org.pl/judgments/532167
+545092|2025-05-22|SO|II AKa 76/25|Wyrok|56|https://www.saos.org.pl/judgments/545092
 527648|2025-04-24|SO|I ACa 1712/23|Wyrok|56|https://www.saos.org.pl/judgments/527648
 540311|2025-04-22|SO|I ACa 2236/23|Wyrok|56|https://www.saos.org.pl/judgments/540311
 541178|2025-04-10|SO|I ACa 797/22|Wyrok|56|https://www.saos.org.pl/judgments/541178
@@ -2998,6 +3003,7 @@ saos_id|date|court|case_number|type|score|saos_url
 544235|2026-02-19|SO|II AKa 279/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/544235
 540002|2025-12-05|SO|II AKa 156/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/540002
 538357|2025-11-14|SO|II AKa 246/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/538357
+545896|2024-10-25|SO|V ACa 2691/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/545896
 500933|2024-06-14|SO|II AKa 314/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/500933
 500634|2024-05-06|SO|II AKa 20/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/500634
 501234|2023-06-06|SO|II AKa 62/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/501234

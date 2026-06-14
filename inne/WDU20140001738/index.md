@@ -8,10 +8,10 @@ pos: 1738
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 grudnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1738 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 28 listopada 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001738) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1738/text.pdf) |
 
-Poz. 1738 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 28 listopada 2014 r.
-w sprawie uzbrojenia Policji Na podstawie art. 12 ust. 1 pkt 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, zm. ) zarządza się, co następuje: § 1. Na uzbrojenie Policji składają się:
+w sprawie uzbrojenia Policji Na podstawie art. 12 ust. 1 pkt 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, zm. ) zarządza się, co następuje:
+§ 1. Na uzbrojenie Policji składają się:
 1) broń palna bojowa: pistolety, rewolwery, strzelby, pistolety maszynowe, karabinki, karabiny, karabiny maszynowe, granatniki;
 2) broń palna alarmowa i sygnałowa lub inne urządzenia przeznaczone do miotania amunicji alarmowej i sygnałowej;
 3) broń palna i inne urządzenia przeznaczone do miotania pocisków treningowych;
@@ -43,7 +43,7 @@ d) innych urządzeń przeznaczonych do miotania środków obezwładniających;
 7) noże: ratunkowe, szturmowe i wieloczynnościowe;
 8) pałki służbowe: zwykłe, wielofunkcyjne, teleskopowe i szturmowe;
 9) amunicja do broni palnej oraz pociski lub ładunki miotające do urządzeń, o których mowa w pkt 2–4 oraz 5 lit. d;
-10) środki pirotechniczne o właściwościach ogłuszających lub olśniewających, w tym petardy i granaty hukowe lub błyskowe;
+10) środki pirotechniczne o właściwościach ogłuszających lub olśniewających, w tym petardy i granaty hukowe lub skowe;
 11) środki przeznaczone do pokonywania zamknięć budowlanych i innych przeszkód, w tym materiały wybuchowe;
 12) kaftany bezpieczeństwa;
 13) pasy i siatki obezwładniające;

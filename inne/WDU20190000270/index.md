@@ -8,7 +8,7 @@ pos: 270
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o gospodarce nieruchomościami oraz ustawy o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów
@@ -30,6 +30,13 @@ source: "isap-pdf"
 **Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 2204 i 2348) w art. 72 w ust. 3 po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) za nieruchomości gruntowe, na których położone są garaże lub stanowiska postojowe niewykorzystywane do prowadzenia działalności gospodarczej albo nieruchomości przeznaczone na te cele – 1% ceny;”.
 
 **Art. 2.** W ustawie z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów (Dz. U. poz. 1716 i 2540) w art. 9:
+
+- **1)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Jeżeli na obszarze danej gminy obowiązuje uchwała rady gminy podjęta na podstawie ust. 4, określająca stawki procentowe bonifikaty od opłaty jednorazowej wyższe niż określone w ust. 3, wojewoda niezwłocznie, w drodze zarządzenia, podwyższa stawki procentowe bonifikaty, o których mowa w ust. 3, uwzględniając warunki udzielania bonifikat i wysokość stawek procentowych wynikające z tej uchwały.
+
+3b. W przypadkach, o których mowa w ust. 1 pkt 1 i ust. 3, bonifikaty obejmują również opłaty i opłaty jednorazowe wnoszone za stanowiska postojowe i garaże, o których mowa w art. 1 ust. 2 pkt 3.”;
+
+- **2)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadkach, o których mowa w ust. 1 pkt 2 i ust. 4, bonifikaty mogą obejmować również opłaty i opłaty jednorazowe wnoszone za stanowiska postojowe i garaże, o których mowa w art. 1 ust. 2 pkt 3.”;
+- **3)** ust. 6 otrzymuje brzmienie: „6. Spółdzielnia mieszkaniowa uwzględnia wysokość opłaty i opłaty jednorazowej oraz wartość udzielonej bonifikaty, o której mowa w ust. 1, 3, 3a i 4, przy ustalaniu wysokości kosztów związanych z eksploatacją i utrzymaniem nieruchomości, obciążających osoby, którym przysługują spółdzielcze prawa do lokali.”.
 
 **Art. 3.**
 

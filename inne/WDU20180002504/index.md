@@ -8,10 +8,10 @@ pos: 2504
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2504 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2504/text.pdf) |
 
-Poz. 2504 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 grudnia 2018 r.
 w sprawie sposobu przesyłania wniosku o zwrot podatku dochodowego od osób prawnych za pomocą środków komunikacji elektronicznej Na podstawie art. 28b ust. 17 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U.
-z 2018 r. poz. 1036, z późn. zm. ) zarządza się, co następuje: § 1. 1. Wniosek, o którym mowa w art. 28b ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, zwany dalej „wnioskiem”, jest przesyłany za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych.
+z 2018 r. poz. 1036, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Wniosek, o którym mowa w art. 28b ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, zwany dalej „wnioskiem”, jest przesyłany za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych.
 2. Wniosek przesyłany w sposób, o którym mowa w ust. 1, jest opatrzony kwalifikowanym podpisem elektronicznym.
 3. Struktura logiczna urzędowego poświadczenia odbioru wniosku jest udostępniana w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych.
 4. Urzędowe poświadczenie odbioru wydane przez elektroniczną skrzynkę podawczą systemu teleinformatycznego administracji skarbowej, po przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych i podpisu elektronicznego:

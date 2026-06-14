@@ -8,7 +8,7 @@ pos: 804
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zniesieniu Generalnego Inspektora Celnego, o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw
@@ -48,7 +48,84 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz.U. z 1999 r. Nr 54, poz. 572 i Nr 83, poz. 931, z 2000 r. Nr 70, poz. 816, Nr 104, poz. 1103 i Nr 116, poz. 1216, z 2001 r. Nr 14, poz. 143, Nr 81, poz. 877 i Nr 110, poz. 1189 oraz z 2002 r. Nr 41, poz. 365 i Nr 74, poz. 676) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 ust. 2 otrzymuje brzmienie: „2. Celem kontroli skarbowej jest również badanie zgodności z prawem gospodarowania mieniem innych państwowych osób prawnych, przeciwdziałanie i zwalczanie naruszeń prawa obowiązującego w zakresie obrotu towarowego z zagranicą i obrotu towarami przywożonymi z zagranicy oraz zapobieganie i ujawnianie przestępstw określonych w art. 228-231 Kodeksu karnego wśród osób zatrudnionych lub pełniących służbę w jednostkach organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych.”;
+- **2)** w art. 2:
+    - **a)** w ust. 1: - pkt 2 otrzymuje brzmienie: „2) kontrola celowości i zgodności z prawem gospodarowania środkami publicznymi oraz środkami pochodzącymi z Unii Europejskiej i międzynarodowych instytucji finansowych, podlegającymi zwrotowi, z wyłączeniem środków zaliczanych do dochodów własnych jednostek samorządu terytorialnego,”, - po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) kontrola zgodności z prawem przywozu towarów dopuszczonych do obrotu na polskim obszarze celnym lub mających inne przeznaczenie celne oraz wywozu za granicę, a także kontrola i ujawnianie towarów nielegalnie wprowadzonych na polski obszar celny,”, - dodaje się pkt 6-8 w brzmieniu: „6) prowadzenie działalności analitycznej i prognostycznej w odniesieniu do negatywnych zjawisk występujących w obszarze właściwości kontroli skarbowej oraz przedstawianie w tym zakresie informacji i analiz organom administracji rządowej,
+
+- **7)** ujawnianie składników majątkowych podmiotów zobowiązanych do uiszczenia należności publicznych lub podejrzanych o czyny zagrożone karą grzywny lub karami pieniężnymi, w celu zapewnienia skuteczności poboru tych należności oraz wykonania orzeczeń lub mandatów karnych,
+- **8)** kontrola oświadczeń o stanie majątkowym osób - obowiązanych, na podstawie odrębnych przepisów, do ich składania - zatrudnionych lub pełniących służbę w jednostkach organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych.”,
+    - **b)** w ust. 2 wyraz „gminy” zastępuje się wyrazami „jednostek samorządu terytorialnego”;
+
+- **3)** w art. 3:
+    - **a)** pkt 3 otrzymuje brzmienie: „3) kontrolę dewizową,”,
+    - **b)** dodaje się pkt 4 i 5 w brzmieniu: „4) rozpoznawanie, zapobieganie i zwalczanie przestępstw i wykroczeń związanych z obrotem z zagranicą towarami i technologiami objętymi kontrolą międzynarodową, naruszających prawa ochrony dóbr kultury narodowej, narodowego zasobu archiwalnego i ochrony własności intelektualnej, wprowadzania na polski obszar celny i wyprowadzania z tego obszaru środków płatniczych pochodzących z przestępstw, a także ściganych na mocy umów i porozumień międzynarodowych,
+
+- **5)** zapobieganie i ujawnianie przestępstw, o których mowa w art. 228-231 Kodeksu karnego, popełnianych przez osoby zatrudnione lub pełniące służbę w jednostkach organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych.”;
+- **4)** w art. 4 w ust. 1:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) wydatkujący, przekazujący i otrzymujący środki, o których mowa w art. 2 ust. 1 pkt 2,”,
+    - **b)** dodaje się pkt 4 w brzmieniu: „4) osoby zatrudnione lub pełniące służbę w jednostkach organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych, zobowiązane, na podstawie odrębnych przepisów, do składania oświadczeń o stanie majątkowym.”;
+
+- **5)** w art. 6:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Czynności związane z realizacją zadań ustawowych wykonują inspektorzy kontroli skarbowej i pracownicy jednostek organizacyjnych kontroli skarbowej, zwani dalej odpowiednio „inspektorami” i „pracownikami”. Inspektorzy i pracownicy, wykonując czynności służbowe, posługują się legitymacjami służbowymi i znakami identyfikacyjnymi.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Inspektorzy prowadzą postępowanie przygotowawcze, w trybie i na zasadach określonych w przepisach Kodeksu postępowania karnego, Kodeksu postępowania w sprawach o wykroczenia i Kodeksu karnego skarbowego, w sprawach z zakresu kontroli skarbowej.”,
+    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. Inspektorów powołuje i odwołuje Generalny Inspektor Kontroli Skarbowej.
+
+5. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, wzory legitymacji służbowych i znaków identyfikacyjnych, organy właściwe do ich wydawania, sposób ich wydawania, wymiany, składania do depozytu i zwrotu oraz posługiwania się nimi, uwzględniając w szczególności zapewnienie właściwej ich ochrony.”;
+
+- **6)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Organy administracji rządowej i samorządowej oraz inne państwowe, gminne, powiatowe i wojewódzkie jednostki organizacyjne są obowiązane współdziałać, nieodpłatnie udostępniać informacje oraz udzielać pomocy organom kontroli skarbowej oraz inspektorom i pracownikom przy wykonywaniu zadań określonych w ustawie.
+
+2. Organy kontroli skarbowej są uprawnione do korzystania z informacji gromadzonych przez organy celne i podatkowe, w tym również z danych w formie zapisu informatycznego, z zastrzeżeniem zachowania zasad określonych w przepisach o ochronie informacji niejawnych.
+
+3. Organy kontroli skarbowej współpracują z Szefem Krajowego Centrum Informacji Kryminalnej w zakresie niezbędnym do realizacji jego zadań ustawowych.
+
+4. Rada Ministrów określa, w drodze rozporządzenia, sposób i tryb współdziałania organów kontroli skarbowej oraz inspektorów i pracowników z organami i jednostkami, o których mowa w ust. 1 i 2, uwzględniając konieczność zapewnienia skuteczności kontroli skarbowej.”;
+
+- **7)** po art. 7 dodaje się art. 7a i 7b w brzmieniu: „Art. 7a. Organy kontroli skarbowej współpracują i współdziałają z innymi organami i instytucjami państwowymi oraz zagranicznymi, w tym z organami odpowiedzialnymi za ochronę interesów finansowych Unii Europejskiej, a także z organizacjami międzynarodowymi w zakresie niezbędnym dla realizacji zadań ustawowych.
+
 **Art. 7b.** Organy kontroli skarbowej mogą zbierać i wykorzystywać w celu realizacji ustawowych zadań informacje, w tym dane osobowe, oraz przetwarzać je w rozumieniu przepisów o ochronie danych osobowych, także bez wiedzy i zgody osoby, której dane te dotyczą. Administrator danych jest obowiązany udostępnić dane osobowe na podstawie imiennego upoważnienia organu kontroli skarbowej, okazanego przez inspektora lub pracownika wraz z legitymacją służbową. Informacja o udostępnieniu tych danych podlega ochronie zgodnie z przepisami o ochronie informacji niejawnych.”;
+
+- **8)** w art. 8:
+    - **a)** w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) Generalny Inspektor Kontroli Skarbowej jako organ wyższego stopnia nad dyrektorami urzędów kontroli skarbowej,
+
+- **3)** dyrektor urzędu kontroli skarbowej.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wyłączenie organu kontroli skarbowej następuje z przyczyn określonych w art. 130 §1 pkt 1-4, 6 i 7 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315 oraz z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452).”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Dyrektorów urzędów kontroli skarbowej, powołuje spośród inspektorów oraz odwołuje minister właściwy do spraw finansów publicznych na wniosek Generalnego Inspektora Kontroli Skarbowej.”;
+
+- **9)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Jednostkami organizacyjnymi kontroli skarbowej są urzędy kontroli skarbowej i urząd obsługujący ministra właściwego do spraw finansów publicznych.
+
+2. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, siedziby i terytorialny zasięg działania urzędów kontroli skarbowej, biorąc pod uwagę administracyjny podział kraju.
+
+3. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, organizację urzędów kontroli skarbowej, zapewniając sprawne wykonywanie zadań kontroli skarbowej.
+
+4. Minister właściwy do spraw finansów publicznych, w drodze zarządzenia, nadaje statut urzędom kontroli skarbowej.”;
+
+- **10)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. 1. Właściwość miejscową dyrektorów urzędów kontroli skarbowej określa się według terytorialnego zasięgu działania urzędu kontroli skarbowej.
+
+2. Właściwość miejscowa i zakres zadań organów kontroli skarbowej jest ustalana z uwzględnieniem również zadań i terytorialnego zasięgu działania organów kontroli skarbowej określonych w przepisach odrębnych, w szczególności przepisach o wprowadzeniu programów pilotażowych, określonych w art. 5 ust. 1a i 1b ustawy z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz.U. Nr 106, poz. 489, z 1997 r. Nr 121, poz. 770 i Nr 141, poz. 943, z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189 oraz z 2002 r. Nr 89, poz. 804).
+
+3. Jeżeli podmiot posiada oddziały (zakłady) na terenie działania innego urzędu kontroli skarbowej niż właściwy dla siedziby tego podmiotu, do przeprowadzenia czynności kontrolnych w tym oddziale (zakładzie) uprawniony jest również inspektor upoważniony przez dyrektora urzędu kontroli skarbowej, właściwego ze względu na miejsce położenia tego oddziału (zakładu).
+
+4. Organ kontroli skarbowej właściwy miejscowo w dniu wszczęcia postępowania kontrolnego pozostaje właściwy aż do dnia jego zakończenia, chociażby w toku postępowania zmieniły się podstawy właściwości.
+
+5. Jeżeli kontrola dotyczy okresu, w którym właściwym miejscowo był inny organ kontroli skarbowej niż w dniu wszczęcia postępowania kontrolnego, właściwym do prowadzenia postępowania za cały okres objęty kontrolą jest dyrektor urzędu kontroli skarbowej właściwy miejscowo w dniu wszczęcia tego postępowania.
+
+6. Inspektorzy prowadzą czynności kontrolne według terytorialnego zasięgu działania urzędów kontroli skarbowej, w których są zatrudnieni.
+
+7. Inspektorzy zatrudnieni w urzędzie obsługującym ministra właściwego do spraw finansów publicznych są upoważnieni do prowadzenia czynności kontrolnych na całym terytorium Rzeczypospolitej Polskiej.
+
+8. Generalny Inspektor Kontroli Skarbowej może upoważnić inspektora zatrudnionego w urzędzie kontroli skarbowej do przeprowadzenia czynności kontrolnych poza obszarem terytorialnego zasięgu działania tego urzędu.”;
+
+- **11)** w art. 10:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Generalny Inspektor Kontroli Skarbowej sprawuje nadzór na działalnością dyrektorów urzędów kontroli skarbowej, inspektorów zatrudnionych w urzędzie obsługującym ministra właściwego do spraw finansów publicznych oraz pracowników operacyjnych w zakresie realizacji zadań określonych w ustawie.”,
+    - **b)** w ust. 2: - pkt 5 otrzymuje brzmienie: „5) upoważnia inspektorów i pracowników zatrudnionych w urzędzie obsługującym ministra właściwego do spraw finansów publicznych do przeprowadzania czynności kontrolnych, a także, w uzasadnionych przypadkach, decyduje o zmianie inspektora lub pracownika prowadzącego czynności kontrolne,”, - po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) wydaje decyzje i wyniki kontroli w sprawach określonych w ustawie, oraz może upoważnić inspektora do wydania decyzji lub wyniku kontroli w jego imieniu,”, - pkt 7 otrzymuje brzmienie: „7) upoważnia inspektorów i pracowników zatrudnionych w urzędach kontroli skarbowej do przeprowadzania czynności kontrolnych poza obszarem terytorialnego zasięgu działania danego urzędu,” , - dodaje się pkt 10 w brzmieniu: „10) ustala zasady i kryteria dokonywania ocen kwalifikacyjnych, o których mowa w art. 39 ust. 2a.”’,
+    - **c)** w ust. 3 wyrazy „jednostki organizacyjnej wyodrębnionej w tym celu w strukturze Ministerstwa Finansów” zastępuje się wyrazami „komórki organizacyjnej wyodrębnionej w tym celu w strukturze urzędu obsługującego ministra właściwego do spraw finansów publicznych”;
+
+- **12)** w art. 11:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Dyrektor urzędu kontroli skarbowej kieruje pracą urzędu kontroli skarbowej.”,
+    - **b)** w ust. 2: - pkt 3 otrzymuje brzmienie: „3) upoważnia inspektorów i pracowników do przeprowadzenia czynności kontrolnych,”, - po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) wydaje decyzje i wyniki kontroli w sprawach określonych w ustawie, a w szczególnie uzasadnionych przypadkach może upoważnić inspektora do wydawania decyzji lub wyniku kontroli w jego imieniu,”,
+    - **c)** pkt 4 otrzymuje brzmienie: „4) dokonuje, w szczególnie uzasadnionych przypadkach, zmiany inspektora lub pracownika prowadzącego czynności kontrolne,”;
+
+- **13)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „Rozdział 2a Uprawnienia kontroli skarbowej oraz zasady użycia środków przymusu bezpośredniego i broni palnej
 
 **Art. 11a.**
 
@@ -61,7 +138,9 @@ source: "isap-pdf"
 
 2. Jeżeli przy dokonywaniu czynności służbowych zaistniała konieczność zdjęcia nałożonych uprzednio zamknięć celnych, inspektorzy i pracownicy mają obowiązek ponownego nałożenia zamknięć celnych i odnotowania tego faktu w treści odpowiedniego dokumentu.
 
-3. Osoba posiadająca towary jest zobowiązana, na jej koszt, do wykonywania czynności umożliwiających przeprowadzenie kontroli, o której mowa w ust. 1 pkt 3, a w szczególności do rozładowania, okazania oraz załadowania towaru po zakończeniu czynności. Skarbowej na zasadność lub sposób dokonania czynności, o której mowa w ust. 3.
+3. Osoba posiadająca towary jest zobowiązana, na jej koszt, do wykonywania czynności umożliwiających przeprowadzenie kontroli, o której mowa w ust. 1 pkt 3, a w szczególności do rozładowania, okazania oraz załadowania towaru po zakończeniu czynności.
+
+4. Osobie przysługuje zażalenie do Generalnego Inspektora Kontroli Skarbowej na zasadność lub sposób dokonania czynności, o której mowa w ust. 3.
 
 **Art. 11b.**
 
@@ -91,7 +170,7 @@ source: "isap-pdf"
 
 2. Środki przymusu bezpośredniego mogą być użyte jedynie w zakresie niezbędnym do osiągnięcia podporządkowania się poleceniom, o których mowa w ust. 1, lub do skutecznego odparcia bezpośredniego i bezprawnego zamachu na inspektora lub inną osobę.
 
-3. Dopuszczalne jest stosowanie tylko takich środków przymusu bezpośredniego, jakie odpowiadają potrzebom wynikającym z sytuacji sposób nie można skutecznie oraz bezpiecznie wykonać czynności służbowych.
+3. Dopuszczalne jest stosowanie tylko takich środków przymusu bezpośredniego, jakie odpowiadają potrzebom wynikającym z istniejącej sytuacji, i pod warunkiem, że w inny dostępny w tej sytuacji sposób nie można skutecznie oraz bezpiecznie wykonać czynności służbowych.
 
 **Art. 11e.**
 
@@ -120,7 +199,7 @@ source: "isap-pdf"
 
 **Art. 11g.**
 
-1. Uprawnienia, o których mowa w art. 11a ust. 1 pkt 2 i 3 oraz art. 11d ust. 1, art. 11e ust. 1 i art. 11f ust. 1, przysługują inspektorom i pracownikom zatrudnionym w wyodrębnionych komórkach orokreślonych w art. 2 ust. 1 pkt 1a, 2a, 4 i 7 oraz art. 3 pkt 4. Inspektorom i pracownikom tym przysługuje umundurowanie służbowe i broń służbowa.
+1. Uprawnienia, o których mowa w art. 11a ust. 1 pkt 2 i 3 oraz art. 11d ust. 1, art. 11e ust. 1 i art. 11f ust. 1, przysługują inspektorom i pracownikom zatrudnionym w wyodrębnionych komórkach organizacyjnych kontroli skarbowej wyłącznie przy realizacji zadań określonych w art. 2 ust. 1 pkt 1a, 2a, 4 i 7 oraz art. 3 pkt 4. Inspektorom i pracownikom tym przysługuje umundurowanie służbowe i broń służbowa.
 
 2. Osoby zatrudnione w wyodrębnionych komórkach kontroli skarbowej, o których mowa w ust. 1, muszą odpowiadać kryteriom określonym w art. 25 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz.U. z 2002 r. Nr 7, poz. 58, Nr 19, poz. 185, Nr 74, poz. 676 i Nr 81, poz. 731).
 
@@ -138,7 +217,9 @@ source: "isap-pdf"
 
 3. Czynności kontrolne przeprowadza inspektor wraz z upoważnionymi pracownikami po doręczeniu kontrolowanemu upoważnienia do przeprowadzenia czynności kontrolnych oraz okazaniu legitymacji służbowych i znaków identyfikacyjnych.
 
-4. W czynnościach, o których mowa w ust. 3, mogą uczestniczyć osoby uprawnione na podstawie ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a w przypadku dokonywania kontroli środków przekazanych Rzeczypospolitej Polskiej przez instytucje Unii Europejskiej - przedstawiciele organów Unii Europejskiej. cyjna niemająca osobowości prawnej doręcza się upoważnienie oraz okazuje legitymację i znak identyfikacyjny członkowi zarządu, wspólnikowi lub innej osobie upoważnionej do reprezentowania lub prowadzenia spraw kontrolowanego.
+4. W czynnościach, o których mowa w ust. 3, mogą uczestniczyć osoby uprawnione na podstawie ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a w przypadku dokonywania kontroli środków przekazanych Rzeczypospolitej Polskiej przez instytucje Unii Europejskiej - przedstawiciele organów Unii Europejskiej.
+
+5. Jeżeli kontrolowanym jest osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej doręcza się upoważnienie oraz okazuje legitymację i znak identyfikacyjny członkowi zarządu, wspólnikowi lub innej osobie upoważnionej do reprezentowania lub prowadzenia spraw kontrolowanego.
 
 6. W razie nieobecności kontrolowanego lub osób, o których mowa w ust. 5, doręcza się upoważnienie oraz okazuje się legitymacje służbowe i znaki identyfikacyjne - pracownikowi lub innej osobie wykonującej czynności na rzecz kontrolowanego w miejscu wszczęcia postępowania lub czynności kontrolnych; z czynności tej sporządza się protokół i przedstawia się niezwłocznie kontrolowanemu.
 
@@ -157,7 +238,7 @@ source: "isap-pdf"
 
 - **b)** w ust. 3 wyrazy „ust. 2” zastępuje się wyrazami „ust. 6”,
 - **c)** w ust. 5 użyty dwukrotnie wyraz „inspektor” zastępuje się wyrazami „organ kontroli skarbowej”;
-- **17)** po art. 14 dodaje się art. 14a w brzmieniu: „Art. 14a. 1. Na żądanie organu kontroli skarbowej podmiot uprawniony, na podstawie odrębnych przepisów, do odebrania oświadczenia o stanie majątkowym jest obowiązany przekazać temu organowi - w terminie 14 dni od dnia otrzymania żądania.
+- **17)** po art. 14 dodaje się art. 14a w brzmieniu: „Art. 14a. 1. Na żądanie organu kontroli skarbowej podmiot uprawniony, na podstawie odrębnych przepisów, do odebrania oświadczenia o stanie majątkowym jest obowiązany przekazać temu organowi poświadczoną za zgodność z oryginałem kopię tego oświadczenia - w terminie 14 dni od dnia otrzymania żądania.
 
 2. W postępowaniu w zakresie, o którym mowa w art. 2 ust. 1 pkt 8, nie stosuje się art. 13 ust. 6, art. 14, art. 20 ust. 2 i art. 27 ust. 1 pkt 7.”;
 
@@ -178,7 +259,8 @@ source: "isap-pdf"
     - **b)** w ust. 4 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1-3”;
 
 - **24)** w art. 22 w ust. 2 po wyrazach „podpisania protokołu” dodaje się wyrazy „ , a w przypadku protokołu badania dokumentów i ewidencji w terminie 14 dni,”;
-- **25)** w art. 24 ust. 2 otrzymuje brzmienie: „2. Po rozpatrzeniu przez inspektora zastrzeżeń, o których mowa w ust. 1, organ kontroli skarbowej wydaje: ustalenia dotyczą podatków i innych należności budżetowych, których określanie lub ustalanie należy do właściwości urzędów skarbowych,
+- **25)** w art. 24 ust. 2 otrzymuje brzmienie: „2. Po rozpatrzeniu przez inspektora zastrzeżeń, o których mowa w ust. 1, organ kontroli skarbowej wydaje:
+- **1)** decyzję lub decyzje w rozumieniu ustawy - Ordynacja podatkowa - gdy ustalenia dotyczą podatków i innych należności budżetowych, których określanie lub ustalanie należy do właściwości urzędów skarbowych,
 - **2)** wynik kontroli - gdy ustalenia dotyczą nieprawidłowości innych niż wymienione w pkt 1, w szczególności w zakresie oświadczeń o stanie majątkowym lub gdy nieprawidłowości nie stwierdzono, albo gdy ustalenia dotyczą należności celnych.”;
 - **26)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Od decyzji, o której mowa w art. 24 ust. 2 pkt 1, służy odwołanie do właściwej izby skarbowej - jeżeli decyzję wydał dyrektor urzędu kontroli skarbowej.
 
@@ -200,7 +282,7 @@ source: "isap-pdf"
 - **28)** w art. 31 po wyrazach „stosuje się” dodaje się wyraz „odpowiednio”;
 - **29)** w art. 33:
     - **a)** w ust. 1 w zdaniu wstępnym wyrazy „w sprawie karnej skarbowej” zastępuje się wyrazami „w sprawie o przestępstwa i wykroczenia oraz przestępstwa skarbowe lub wykroczenia skarbowe”,
-    - **b)** w ust. 4 wyrazy „wiadomości stanowiące tajemnicę służbową w rozumieniu przepisów o ochronie tajemnicy państwowej i służbowej” zastępuje się wyprzepisów o ochronie informacji niejawnych”;
+    - **b)** w ust. 4 wyrazy „wiadomości stanowiące tajemnicę służbową w rozumieniu przepisów o ochronie tajemnicy państwowej i służbowej” zastępuje się wyrazami „informacje niejawne stanowiące tajemnicę służbową w rozumieniu przepisów o ochronie informacji niejawnych”;
 
 - **30)** w art. 33 a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Z żądaniem sporządzenia i przekazania informacji w zakresie, o którym mowa w art. 33 ust. 1-3, Generalny Inspektor Kontroli Skarbowej lub dyrektor urzędu kontroli skarbowej może wystąpić również w związku z postępowaniem kontrolnym, po uprzednim wezwaniu kontrolowanego do udzielenia informacji z tego zakresu albo do upoważnienia instytucji finansowych do przekazania tych informacji, jeżeli kontrolowany uprzednio:
@@ -221,7 +303,7 @@ source: "isap-pdf"
 - **32)** w art. 34a w ust. 1:
     - **a)** w pkt 1 wyrazy „karnego skarbowego” zastępuje się wyrazami „postępowania w sprawach o przestępstwa skarbowe i wykroczenia skarbowe”,
     - **b)** w pkt 2 wyrazy „karnym skarbowym” zastępuje się wyrazami „postępowaniem w sprawach o przestępstwa i wykroczenia oraz o przestępstwa skarbowe i wykroczenia skarbowe”,
-    - **c)** pkt 3 otrzymuje brzmienie:
+    - **c)** pkt 3 otrzymuje brzmienie: „3) sądowi administracyjnemu - w razie złożenia przez stronę skargi,”,
     - **d)** w pkt 4 wyrazy „ministrowi właściwemu do spraw sprawiedliwości” zastępuje się wyrazami „Ministrowi Sprawiedliwości”,
     - **e)** w pkt 5 w lit. b) wyrazy „Naczelnym Sądem Administracyjnym” zastępuje się wyrazami „sądem administracyjnym”;
 
@@ -249,7 +331,9 @@ source: "isap-pdf"
 
 1. Szczególny nadzór podatkowy wykonują jednostki organizacyjne kontroli skarbowej przez swoich pracowników, zwanych dalej „pracownikami szczególnego nadzoru podatkowego”.
 
-2. Czynności kontrolne, o których mowa w art. 35b ust. 2, są wykonywane na podstawie upoważnień wydawanych przez dyrektora urzędu kontroli skarbowej lub Generalnego Inspektora Kontroli Skarbowej. zór stały.
+2. Czynności kontrolne, o których mowa w art. 35b ust. 2, są wykonywane na podstawie upoważnień wydawanych przez dyrektora urzędu kontroli skarbowej lub Generalnego Inspektora Kontroli Skarbowej.
+
+3. Szczególny nadzór podatkowy może być wykonywany jako nadzór stały.
 
 4. Sprawowanie stałego nadzoru polega na wykonywaniu czynności kontrolnych, o których mowa w art. 35b ust. 2, przez komórkę organizacyjną jednostki organizacyjnej kontroli skarbowej utworzoną w tym celu na terenie podmiotu podlegającego szczególnemu nadzorowi podatkowemu, zwaną dalej „komórką stałego nadzoru”.
 
@@ -271,7 +355,8 @@ source: "isap-pdf"
 
 1. Podmioty podlegające szczególnemu nadzorowi podatkowemu są obowiązane zapewnić warunki i środki do sprawnego przeprowadzania kontroli, w tym :
 
-- **1)** przesłać do urzędu kontroli skarbowej, co najmniej na 14 dni przed rozpoczęciem działalności w zakresie, o którym mowa w art. 35b ust. 1, zgłoszenie oraz dokumentację dotyczącą tej działalności, a w przypadku wznowienia działalności, po przerwie trwającej dłużej niż 3 miesiące - zgłoszenie dotyczące wznowienia tej działalności, dzenia podmiotu,
+- **1)** przesłać do urzędu kontroli skarbowej, co najmniej na 14 dni przed rozpoczęciem działalności w zakresie, o którym mowa w art. 35b ust. 1, zgłoszenie oraz dokumentację dotyczącą tej działalności, a w przypadku wznowienia działalności, po przerwie trwającej dłużej niż 3 miesiące - zgłoszenie dotyczące wznowienia tej działalności,
+- **2)** zapewnić warunki do przeprowadzenia urzędowego sprawdzenia podmiotu,
 - **3)** przygotować i oznaczyć urządzenia, pomieszczenia i naczynia służące do działalności objętej szczególnym nadzorem podatkowym,
 - **4)** przechowywać w oddzielnych naczyniach i pomieszczeniach wyroby objęte szczególnym nadzorem podatkowym,
 - **5)** dostosować urządzenia, pomieszczenia i naczynia, o których mowa w pkt 3, do nakładania zabezpieczeń urzędowych, a ponadto dostarczyć potrzebną ilość plomb, laku lub masy plastycznej do pieczęci oraz inne materiały do nałożenia zabezpieczeń urzędowych,
@@ -285,7 +370,11 @@ source: "isap-pdf"
 
 2. Za stan pomieszczeń, urządzeń i naczyń służących do wykonywania dział alności w zakresie, o którym mowa w art. 35b ust. 1, oraz za stan nałożonych na nie zabezpieczeń urzędowych odpowiedzialny jest podmiot podlegający szczególnemu nadzorowi podatkowemu.
 
-3. Koszty związane z realizacją obowiązków określonych w ust. 1 obciążają podmioty podlegające szczególnemu nadzorowi podatkowemu. art. 35b ust. 1, podlegają przed rozpoczęciem jej prowadzenia urzędowemu sprawdzeniu przez pracowników szczególnego nadzoru podatkowego.
+3. Koszty związane z realizacją obowiązków określonych w ust. 1 obciążają podmioty podlegające szczególnemu nadzorowi podatkowemu.
+
+**Art. 35f.**
+
+1. Podmioty podejmujące działalność w zakresie, o którym mowa w art. 35b ust. 1, podlegają przed rozpoczęciem jej prowadzenia urzędowemu sprawdzeniu przez pracowników szczególnego nadzoru podatkowego.
 
 2. Urzędowemu sprawdzeniu podlegają również podmioty prowadzące działalność w zakresie, o którym mowa w art. 35b ust. 1, po przerwie w tej działalności trwającej dłużej niż 3 miesiące, a także na żądanie urzędu kontroli skarbowej.
 
@@ -310,7 +399,8 @@ source: "isap-pdf"
 - **7)** szczegółowe zasady i tryb pobierania próbek, o których mowa w art. 35d ust. 1 pkt 2,
 - **8)** szczegółowe zasady i tryb nakładania zabezpieczeń urzędowych, o których mowa w art. 35d ust. 1 pkt 3, oraz rodzaje lub formy tych zabezpieczeń,
 - **9)** tryb dokonywania i zakres zgłoszeń, o których mowa w art. 35e ust. 1 pkt 1, 7, 11 i 12,
-- **10)** szczegółowy zakres przygotowywania i oznaczania pomieszczeń, urządzeń i naczyń, o których mowa w art. 35e ust. 1 pkt 3, rym mowa w art. 35f ust. 1 i 2.
+- **10)** szczegółowy zakres przygotowywania i oznaczania pomieszczeń, urządzeń i naczyń, o których mowa w art. 35e ust. 1 pkt 3,
+- **11)** zakres i szczegółowe zasady urzędowego sprawdzenia, o którym mowa w art. 35f ust. 1 i 2.
 
 2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw finansów publicznych powinien uwzględnić w szczególności:
 
@@ -328,7 +418,8 @@ source: "isap-pdf"
     - **b)** ust. 3 otrzymuje brzmienie: „3. W celu wykrycia przestępstw:
 
 - **1)** skarbowych, jeżeli wartość przedmiotu czynu lub uszczuplenie należności publicznoprawnej przekraczają pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów,
-- **2)** przeciwko obrotowi gospodarczemu, określonych w art. 297-306 Kodeksu karnego, powodujących szkodę majątkową lub skierowanych przeciwko mieniu, jeżeli wysokość szkody lub wartość mienia przekracza pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów, pełnioną funkcją publiczną lub funkcją związaną ze szczególną odpowiedzialnością,
+- **2)** przeciwko obrotowi gospodarczemu, określonych w art. 297-306 Kodeksu karnego, powodujących szkodę majątkową lub skierowanych przeciwko mieniu, jeżeli wysokość szkody lub wartość mienia przekracza pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów,
+- **3)** przyjmowania lub wręczania korzyści majątkowej w związku z pełnioną funkcją publiczną lub funkcją związaną ze szczególną odpowiedzialnością,
 - **4)** ściganych na mocy umów i porozumień międzynarodowych - sąd okręgowy na pisemny wniosek Generalnego Inspektora Kontroli Skarbowej złożony po uzyskaniu zgody Prokuratora Generalnego może, w drodze postanowienia, zarządzić, na okres nie dłuższy niż 3 miesiące, stosowanie środków technicznych umożliwiających w sposób niejawny uzyskiwanie informacji oraz utrwalanie śladów i dowodów.”,
     - **c)** w ust. 6 po wyrazach „operacyjno-rozpoznawczych” dodaje się wyrazy „ , określonych w ust. 3,”;
 
@@ -344,7 +435,7 @@ source: "isap-pdf"
 
 - **39)** po art. 37 dodaje się art. 37a w brzmieniu: „Art. 37a. 1. Generalny Inspektor Kontroli Skarbowej zapewnia ochronę form i metod wykonywania czynności operacyjno-rozpoznawczych, własnych obiektów i danych identyfikujących pracowników i inspektorów. Udzielenie informacji dotyczących czynności operacyjno-rozpoznawczych może nastąpić wy łącznie na żądanie sądu lub prokuratora, skierowane z powodu uzasadnionego podejrzenia popełnienia, w związku z prowadzonymi czynnościami operacyjno-rozpoznawczymi, przestępstwa ściganego z oskarżenia publicznego, z zastrzeżeniem zachowania zasad określonych w przepisach o ochronie informacji niejawnych lub o ochronie informacji stanowiących tajemnicę skarbową.
 
-2. Przy wykonywaniu czynności operacyjno-rozpoznawczych pracownicy operacyjni mogą posługiwać się dokumentami, które uniemożliwiają ustalenie danych ich identyfikujących oraz środwych.
+2. Przy wykonywaniu czynności operacyjno-rozpoznawczych pracownicy operacyjni mogą posługiwać się dokumentami, które uniemożliwiają ustalenie danych ich identyfikujących oraz środków, którymi posługują się przy wykonywaniu zadań służbowych.
 
 3. Organy administracji publicznej obowiązane są do udzielania wywiadowi skarbowemu, w granicach swojej właściwości, niezbędnej pomocy w zakresie wydawania i zabezpieczania dokumentów, o których mowa w ust. 2.
 
@@ -362,6 +453,9 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz.U. z 1991 r. Nr 36, poz. 161, z 1992 r. Nr 20, poz. 78, z 1993 r. Nr 28, poz. 127, z 1995 r Nr 85, poz. 426, z 1996 r. Nr 43, poz. 189 i Nr 146, poz. 680, z 1997 r. Nr 137, poz. 926 i Nr 141, poz. 943 i 944, z 1998 r. Nr 162, poz.1126, z 2000 r. Nr 114, poz. 1193, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 76, poz. 809, Nr 96, poz. 1068, Nr 123, poz. 1353 i Nr 125, poz. 1368 oraz z 2002 r. Nr 41, poz. 365 i Nr 74, poz. 676) wprowadza się następujące zmiany:
 
+- **1)** w art. 23 dodaje się § 3a w brzmieniu: „§ 3a. W stosunku do dyrektora izby celnej nadzór nad egzekucją należności pieniężnych sprawuje dyrektor izby skarbowej, właściwej ze względu na siedzibę tego dyrektora izby celnej.”,
+- **2)** w art. 155a w § 2 pkt 1 otrzymuje brzmienie: „1) organ kontroli skarbowej”.
+
 **Art. 5.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz.U. z 2000 r. Nr 71, poz. 838 i Nr 86, poz. 958, z 2001 r. Nr 125, poz. 1371 oraz z 2002 r. Nr 25, poz. 253 i Nr 41, poz. 365 i Nr 74, poz. 676) w art. 13 w ust. 3 w pkt 1 po wyrazach „urzędów celnych i izb celnych” dodaje się wyrazy „ , jednostek organizacyjnych kontroli skarbowej”.
 
 **Art. 6.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz.U. Nr 78, poz. 462, z 1991 r. Nr 94, poz. 422, z 1992 r. Nr 54, poz. 254, z 1993 r. Nr 12, poz. 52, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz. 163 i Nr 104, poz. 515, z 1996 r. Nr 106, poz. 496 i Nr 124, poz. 583, z 1997 r. Nr 28, poz. 153, Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 110, poz. 1255, z 2001 r. Nr 45, poz. 498, Nr 106, poz. 1149 i Nr 110, poz. 1189 oraz z 2002 r. Nr 74, poz. 676) w art. 11a w ust. 3 wyrazy „Inspekcji Celnej” zastępuje się wyrazami „pracowników kontroli skarbowej”.
@@ -370,7 +464,27 @@ source: "isap-pdf"
 
 **Art. 8.** W ustawie z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz.U. Nr 106, poz. 489, z 1997 r. Nr 121, poz. 770 i Nr 141, poz. 943, z 2000 r. Nr 120, poz. 1268 oraz z 2001 r. Nr 110, poz. 1189) w art. 5:
 
+- **1)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. W ramach programów pilotażowych wprowadzonych w celu potwierdzenia przydatności rozwiązań organizacyjnych usprawniających działanie administracji skarbowej i celnej, organy podległe ministrowi właściwemu do spraw finansów publicznych wykonują zadania należące do właściwości rzeczowej i miejscowej innych organów podległych temu ministrowi.
+
+1b. Minister właściwy do spraw finansów publicznych może wprowadzić, w drodze rozporządzenia, na czas określony program pilotażowy, o którym mowa w ust. 1a, określając rodzaje zadań wykonywanych przez organy objęte programem, a także miejsce ich wykonywania lub terytorialny zasięg działania tych organów oraz czas trwania pilotażu, biorąc w szczególności pod uwagę sprawdzenie możliwości usprawnienia pracy urzędów i obsługi podatników.”;
+
+- **2)** ust. 9 otrzymuje brzmienie: „9. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw administracji publicznej określa, w drodze rozporządzenia, terytorialny zakres działania oraz siedziby urzędów i izb skarbowych. W rozporządzeniu tym może zostać ustalony terytorialny zasięg działania określonego urzędu skarbowego - wyłącznie w sprawach niektórych kategorii podatników - obejmujący terytorialny zasięg działania innego urzędu skarbowego, uwzględniając potrzeby właściwego zorganizowania wykonywania zadań, zwłaszcza z zakresu poboru podatków oraz sprawnej obsługi podatnika.”
+
 **Art. 9.** W ustawie z dnia z dnia 9 stycznia 1997 r. - Kodeks celny (Dz.U. z 2001 r. Nr 75, poz. 82, Nr 89, poz. 927, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 128, poz. 1403 oraz z 2002 r. Nr 41, poz. 365) wprowadza się następujące zmiany:
+
+- **1)** w art. 7 § 4 otrzymuje brzmienie: „§4. Organy celne mogą zbierać i wykorzystywać w celu realizacji ustawowych zadań informacje, w tym dane osobowe, oraz przetwarzać je w rozumieniu przepisów o ochronie danych osobowych, także bez wiedzy i zgody osoby, której dane dotyczą. Administrator danych jest obowiązany udostępnić dane na podstawie imiennego upoważnienia organu celnego, okazanego przez funkcjonariusza celnego wraz z legitymacją służbową. Informacja o udostępnieniu tych danych podlega ochronie zgodnie z przepisami o ochronie informacji niejawnych.”;
+- **2)** w art. 190 w § 2 pkt 2 otrzymuje brzmienie: „2) za strefę nadgraniczną - uważa się obszar przylegający po obydwu stronach granicy Rzeczypospolitej Polskiej o szerokości 15 kilometrów oraz cały obszar gmin, których chociażby część położona jest w tym obszarze,”;
+- **3)** w art. 262 w § 1 po wyrazach „dyrektora izby celnej” dodaje się wyrazy „z zastrzeżeniem art. 278 § 3,”;
+- **4)** po art. 263 dodaje się art. 263 w brzmieniu: „Art. 263 . §1. Organy celne przestrzegają z urzędu swojej właściwości miejscowej i rzeczowej.
+
+§ 2. Właściwość miejscowa i rzeczowa organów celnych jest ustalana z uwzględnieniem również zakresu zadań i terytorialnego zasięgu działania tych organów określonych na podstawie przepisów odrębnych, a w szczególności przepisów o wprowadzeniu programów pilotażowych, o których mowa w art. 5 ust. 1a i 1b ustawy z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz.U. Nr 106, poz. 489, z 1997 r. Nr 121, poz. 770 i Nr 141, poz. 943, z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189 oraz z 2002 r. Nr 89, poz. 804).”;
+
+- **5)** w art. 277 :
+    - **a)** dotychczasowa treść otrzymuje oznaczenie § 1,
+    - **b)** dodaje się § 2 w brzmieniu: „2. Ponadto organ celny może zatrzymać pojazd lub inny środek przewozowy i dokonać kontroli rodzaju paliwa, poprzez pobranie próbek paliwa ze zbiornika pojazdu lub innego środka przewozowego. W razie stwierdzenia nieprawidłowości organ celny sporządza protokół i przekazuje go właściwym organom.”;
+
+- **6)** w art. 277 §2 otrzymuje brzmienie: „§2. Zatrzymanie środków transportu może być dokonane tylko przez umundurowanych funkcjonariuszy celnych znajdujących się w pobliżu oznakowanego pojazdu służbowego.”;
+- **7)** po art. 277 dodaje się nowe tytuły IXb i IXc w brzmieniu: „TYTUŁ IXb Czynności operacyjno-rozpoznawcze.
 
 **Art. 277¹⁹.** W celu ustalenia zgodności z przepisami prawa przywozu towarów na polski obszar celny oraz wywozu towarów z tego obszaru organy celne organizują i realizują czynności operacyjnorozpoznawcze.
 
@@ -382,7 +496,9 @@ source: "isap-pdf"
 
 § 3. Zabronione jest udzielanie informacji uzyskanych w wyniku czynności operacyjno-rozpoznawczych osobom i instytucjom innym niż sąd i prokurator lub organy uprawnione na mocy odrębnych ustaw do wykonywania czynności operacyjnorozpoznawczych albo wykorzystywanie tych informacji w celu innym niż ściganie przestępstw i wykroczeń lub przeprowadzenie kontroli celnej.
 
-§ 4. Przepisu § 3 nie stosuje się, jeżeli zatajenie informacji prowadziłoby do zagrożenia życia, zdrowia lub wolności człowieka albo gdy ustawa lub zawarta przez Rzeczpospolitą Polską umowa międzynarodowa nakłada obowiązek udzielenia takich informacji okreś lonemu organowi. ochronę form i metod wykonywania czynności operacyjnorozpoznawczych.
+§ 4. Przepisu § 3 nie stosuje się, jeżeli zatajenie informacji prowadziłoby do zagrożenia życia, zdrowia lub wolności człowieka albo gdy ustawa lub zawarta przez Rzeczpospolitą Polską umowa międzynarodowa nakłada obowiązek udzielenia takich informacji okreś lonemu organowi.
+
+§ 5. Minister właściwy do spraw finansów publicznych zapewnia ochronę form i metod wykonywania czynności operacyjnorozpoznawczych.
 
 **Art. 277²¹.**
 
@@ -404,7 +520,7 @@ source: "isap-pdf"
 
 § 2. Dane o osobach, o których mowa w §1, mogą być ujawnione wyłącznie na żądanie sądu w wypadku uzasadnionego podejrzenia popełnienia przez te osoby przestępstwa ściganego z oskarżenia publicznego.
 
-§ 3. Tworzy się fundusz operacyjny, którym dysponuje minister właściwy do spraw finansów publicznych. Środki na ten funktórej dysponentem jest minister właściwy do spraw finansów publicznych.
+§ 3. Tworzy się fundusz operacyjny, którym dysponuje minister właściwy do spraw finansów publicznych. Środki na ten fundusz są corocznie zapewniane w budżecie państwa w części, której dysponentem jest minister właściwy do spraw finansów publicznych.
 
 § 4. Za udzielenie pomocy, o której mowa w §1, może być przyznane wynagrodzenie z funduszu, o którym mowa w §3.
 
@@ -433,7 +549,7 @@ source: "isap-pdf"
 - **1)** użycia siły fizycznej,
 - **2)** użycia indywidualnych technicznych i chemicznych środków lub urządzeń przeznaczonych do obezwładniania i konwojowania osób albo do zatrzymywania oraz unieruchamiania pojazdów mechanicznych i innych środków przewozowych.
 
-§ 2. Rada Ministrów określi, w drodze rozporządzenia, rodzaje oraz warunki i sposoby użycia środków przymusu bezponych w środki, o których mowa w §1 pkt 2, uwzględniając zapewnienie możliwie najmniejszej dolegliwości dla osób.”;
+§ 2. Rada Ministrów określi, w drodze rozporządzenia, rodzaje oraz warunki i sposoby użycia środków przymusu bezpośredniego, a także sposób wyposażania funkcjonariuszy celnych w środki, o których mowa w §1 pkt 2, uwzględniając zapewnienie możliwie najmniejszej dolegliwości dla osób.”;
 
 - **8)** w art. 278:
     - **a)** dotychczasowa treść otrzymuje oznaczenie § 1,
@@ -443,9 +559,25 @@ source: "isap-pdf"
 
 **Art. 10.** W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. Nr 98, poz. 602, Nr 123, poz. 779 i Nr 160, poz. 1086, z 1998 r. Nr 106, poz. 668 i Nr 133, poz. 872, z 1999 r. Nr 106, poz. 1216, z 2000 r. Nr 12, poz. 136, Nr 43, poz. 483 i Nr 53, poz. 649, z 2001 r. Nr 27, poz. 298, Nr 106, poz. 1149, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 123, poz. 1353, Nr 125, poz. 1371, Nr 129, poz. 1444 i Nr 130, poz. 1452 oraz z 2002 r. Nr 25, poz. 253 i Nr 74, poz. 676) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 w pkt 37 po wyrazach „Straż Graniczną” dodaje się wyrazy „ , kontrolę skarbową, Służbę Celną”;
+- **2)** w art. 6 w ust. 1 po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) umundurowany inspektor kontroli skarbowej lub funkcjonariusz celny,”;
+- **3)** w art. 39 w ust. 2 w pkt 5 po wyrazach „Straży Granicznej” dodaje się wyrazy „ , inspektora kontroli skarbowej, funkcjonariusza celnego”;
+- **4)** w art. 53 w ust. 1 po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „5a) kontroli skarbowej, 5b) Służby Celnej,”;
+- **5)** w art. 66 ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw wewnętrznych, Minister Obrony Narodowej, minister właściwy do spraw finansów publicznych oraz Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw transportu określą, w drodze rozporządzenia, warunki techniczne pojazdów specjalnych i używanych do celów specjalnych Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, kontroli skarbowej, Służby Celnej, Służby Więziennej i straży pożarnej.”;
+- **6)** w art. 68 w ust. 11 w pkt 3 po wyrazach „Straży Granicznej” dodaje się przecinek i wyrazy „kontroli skarbowej, Służby Celnej”;
+- **7)** w art. 76 w ust. 3 po wyrazach „Straży Granicznej” dodaje się przecinek i wyrazy „kontroli skarbowej, Służby Celnej”;
+- **8)** w art. 80c w ust. 1 pkt 8 otrzymuje brzmienie: „8) organom kontroli skarbowej i organom celnym,”;
+- **9)** w art. 100c w ust. 1 dodaje się pkt 10 w brzmieniu: „10) organom celnym.”.
+
 **Art. 11.** W ustawie z dnia 25 czerwca 1997 r. o cudzoziemcach (Dz.U. z 2001 r. N 127, poz. 1400 oraz z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676 i Nr 81, poz. 731) w art. 75d w ust. 2 skreśla się pkt 6.
 
 **Art. 12.** W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315 oraz z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452) wprowadza się następujące zmiany:
+
+- **1)** w art. 15: Nr 110, poz. 1189 oraz z 2002 r. Nr 89, poz. 804).”;
+    - **a)** dotychczasowa treść otrzymuje oznaczenie § 1,
+    - **c)** dodaje się § 2 w brzmieniu: „§2. Właściwość rzeczowa i miejscowa jest ustalana z uwzględnieniem również zakresu zadań i terytorialnego zasięgu działania organów podatkowych, określonych na podstawie odrębnych przepisów, w szczególności przepisów o wprowadzeniu programów pilotażowych, o których mowa w art. 5 ust. 1a i 1b w ustawie z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz.U. Nr 106, poz. 489, z 1997 r. Nr 121, poz. 770 i Nr 141, poz. 943, z 2000 r. Nr 120, poz. 1268, z 2001 r.
+
+- **2)** w art. 299 w § 3 skreśla się pkt 2.
 
 **Art. 13.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz.U. z 1999 r. Nr 82, poz. 928, z 2000 r. Nr 12, poz. 136, Nr 43, poz. 489, Nr 48, poz. 550, Nr 62, poz. 718, Nr 70, poz. 816, Nr 73, poz. 852, Nr 109, poz. 1158 i Nr 122, poz. 1314 oraz z 2001 r. Nr 3, poz. 18, Nr 5, poz. 43 i 44, Nr 42, poz. 475, Nr 63, poz. 634, Nr 73, poz. 761, Nr 76, poz. 811, Nr 87, poz. 954, Nr 102, poz. 1116, Nr 113, poz. 1207, Nr 115, poz. 1229, Nr 123, poz. 1353, Nr 125, poz. 1371, Nr 126, poz. 1382, Nr 129, poz. 1441, Nr 130, poz. 1450 i Nr 154, poz. 1800 oraz z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 71, poz. 655 i Nr 74, poz. 676) w art. 8 skreśla się ust. 3.
 
@@ -455,23 +587,59 @@ source: "isap-pdf"
 
 **Art. 16.** W ustawie z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz.U. Nr 11, poz. 95, z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462, z 2001 r. Nr 22, poz. 247, Nr 27, poz. 298, Nr 56, poz. 580, Nr 110, poz. 1189, Nr 123, poz. 1353 i Nr 154, poz. 1800 oraz z 2002 r. Nr 74, poz. 676) w art. 14:
 
+- **1)** w ust. 2 skreśla się wyrazy „inspekcji celnej i”;
+- **2)** w ust. 5 w pkt 2 skreśla się wyrazy „inspekcji celnej i”.
+
 **Art. 17.** W ustawie z dnia 24 lipca 1999 r. o Służbie Celnej (Dz.U. Nr 72, poz. 802 i Nr 110, poz. 1255 oraz z 2002 r. Nr 41, poz. 365) w art. 1:
 
+- **1)** w ust. 2 pkt 5 otrzymuje brzmienie: „5) rozpoznawanie, wykrywanie, zwalczanie i zapobieganie przestępstw i wykroczeń związanych z wprowadzaniem na polski obszar celny oraz wyprowadzaniem z polskiego obszaru celnego towarów objętych ograniczeniami lub zakazami, w szczególności takich jak: odpady szkodliwe, substancje chemiczne, materiały jądrowe i promieniotwórcze, środki odurzające i substancje psychotropowe oraz broń, amunicja, materiały wybuchowe i technologie objęte kontrolą międzynarodową, a także przestępstw naruszających prawa ochrony dóbr kultury i własności intelektualnej,”;
+- **2)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Czynności związane z realizacj ą zadań określonych w art. 1 ust. 2 wykonuje się, podejmując czynności operacyjno-rozpoznawcze i kontrolne zgodnie z przepisami Kodeksu celnego oraz prowadząc postępowanie przygotowawcze zgodnie z przepisami Kodeksu postępowania karnego i Kodeksu karnego skarbowego.”.
+
 **Art. 18.** W ustawie z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz.U. Nr 83, poz. 930, z 2000 r. Nr 60, poz. 703 i Nr 62, poz. 717, z 2001 r. Nr 11, poz. 82 i Nr 106, poz. 1149 oraz z 2002 r. Nr 41, poz. 365 i Nr 74, poz. 676) wprowadza się następujące zmiany:
+
+- **1)** w art. 53:
+    - **a)** w § 37 skreśla się pkt 4,
+    - **b)** w § 39: - w pkt 1 skreśla się wyrazy „a jeżeli dochodzenie prowadzi funkcjonariusz Inspekcji Celnej - Generalny Inspektor Celny,”, - w pkt 3 skreśla się wyrazy „Generalny Inspektor Celny albo”;
+
+- **2)** w art. 118:
+    - **a)** w § 1 skreśla się pkt 4,
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. Czynności procesowe organu, o którym mowa w § 1 pkt 3, mogą wykonywać również upoważnieni funkcjonariusze celni pełniący służbę w izbie celnej, której podlega urząd celny.”;
+
+- **3)** w art. 133 w § 1:
+    - **a)** w pkt 1 skreśla się wyrazy „a w sprawach ujawnionych w zakresie swego działania przez Inspekcję Celną - funkcjonariusz tej Inspekcji,”,
+    - **b)** w pkt 2 skreśla się wyrazy „a w tych sprawach ujawnionych w zakresie swego działania przez urząd kontroli skarbowej - inspektor kontroli skarbowej,”,
+    - **c)** dodaje się pkt 3 w brzmieniu: „3) inspektor kontroli skarbowej - w sprawach, ujawnionych w zakresie działania kontroli skarbowej, o których mowa w pkt 1 i 2”;
+
+- **4)** w art. 150:
+    - **a)** § 3 otrzymuje brzmienie: „§3. Czynność, o której mowa w art. 75 § 2 Kodeksu postępowania karnego, jest dokonywana przez Policję, Straż Graniczną, Agencję Bezpieczeństwa Wewnętrznego, inspektora kontroli skarbowej lub Żandarmerię Wojskową, a gdy dochodzenie jest prowadzone przez inny, niż inspektor kontroli skarbowej, finansowy organ dochodzenia – przez Policję na żądanie tego organu.” ,
+    - **b)** w § 4 po wyrazach „Agencja Bezpieczeństwa Wewnętrznego” dodaje się przecinek i wyrazy „inspektora kontroli skarbowej”;
+
+- **5)** w art. 179:
+    - **a)** w § 1 skreśla się wyrazy „lub organ Inspekcji Celnej”,
+    - **b)** w § 3 skreśla się użyte dwukrotnie w różnych przypadkach wyrazy „lub organ Inspekcji Celnej”,
+    - **c)** w § 4 skreśla się wyrazy „lub organ Inspekcji Celnej”.
 
 **Art. 19.** W ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł (Dz.U. Nr 116, poz. 1216, z 2001 r. Nr 63, poz. 641 oraz z 2002 r. Nr 25, poz. 253, Nr 32, poz. 299, Nr 41, poz. 365 i Nr 74, poz. 676) w art. 14 w ust. 1 skreśla się wyrazy „a także organy Inspekcji Celnej”.
 
 **Art. 20.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw (Dz. U. Nr 119, poz. 1250, z 2001 r. Nr 154, poz. 1789 oraz z 2002 r. Nr 41, poz. 365 i Nr 74, poz. 676) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 w pkt 11 skreśla się wyrazy „oraz Generalnego Inspektora Celnego”;
+- **2)** w art. 29 w ust. 2 skreśla się wyrazy „oraz Generalny Inspektor Celny”.
+
 **Art. 21.** W ustawie z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych (Dz. U. Nr 110, poz. 1189 i Nr 154, poz. 1800 oraz z 2002 r. Nr 81, poz. 831) w art. 19 skreśla się pkt 4.
 
 **Art. 22.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz.U. Nr 123, poz. 1353 i Nr 154, poz. 1800) w art. 14:
+
+- **1)** w ust. 1 w pkt 2 wyrazy „Inspekcją Celną” zastępuje się wyrazami „organami celnymi”;
+- **2)** w ust. 2 wyrazy „Inspekcją Celną” zastępuje się wyrazami „organami celnymi”.
 
 **Art. 23.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz.U. Nr 125, poz. 1371 oraz z 2002 r. Nr 25, poz. 253) w art. 67 w ust. 1 wyrazy „Inspekcją Celną” zastępuje się wyrazami „inspektorami kontroli skarbowej”.
 
 **Art. 24.**
 
-1. Postępowania kontrolne wszczęte i niezakończone przez organy Inspekcji Celnej oraz inspektorów kontroli skarbowej jako organy kontroli skarbowej przed dniem wejścia w życie ustawy, przejmują organy kontroli skarbowej, właściwe miejscowo dla siedziby likwidowanego organu, z tym że do postępowań wszczętych przez organy Inspekcji Celnej stosuje się przepisy ustawy, o której mowa w art. 31. Wszystkie już podjęte w postępowaniu czynności pozostają w mocy. wach, w których w dniu wejścia w życie ustawy przysługuje lub została wniesiona skarga do sądu administracyjnego, przejmuje Generalny Inspektor Kontroli Skarbowej.
+1. Postępowania kontrolne wszczęte i niezakończone przez organy Inspekcji Celnej oraz inspektorów kontroli skarbowej jako organy kontroli skarbowej przed dniem wejścia w życie ustawy, przejmują organy kontroli skarbowej, właściwe miejscowo dla siedziby likwidowanego organu, z tym że do postępowań wszczętych przez organy Inspekcji Celnej stosuje się przepisy ustawy, o której mowa w art. 31. Wszystkie już podjęte w postępowaniu czynności pozostają w mocy.
+
+2. Obowiązki i uprawnienia Generalnego Inspektora Celnego jako strony w sprawach, w których w dniu wejścia w życie ustawy przysługuje lub została wniesiona skarga do sądu administracyjnego, przejmuje Generalny Inspektor Kontroli Skarbowej.
 
 3. Postępowania w sprawach o przestępstwa skarbowe i wykroczenia skarbowe wszczęte i niezakończone przez funkcjonariuszy Inspekcji Celnej przed dniem wejścia w życie ustawy przejmowane są przez inspektorów kontroli skarbowej.
 
@@ -498,7 +666,9 @@ source: "isap-pdf"
 
 1. Nieruchomości pozostające w trwałym zarządzie Inspekcji Celnej przechodzą nieodpłatnie w trwały zarząd urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
-2. Przepis ust. 1 stosuje się odpowiednio do innego mienia pozostającego w zarządzie i używaniu Inspekcji Celnej. niami ministra właściwego do spraw finansów publicznych.
+2. Przepis ust. 1 stosuje się odpowiednio do innego mienia pozostającego w zarządzie i używaniu Inspekcji Celnej.
+
+3. Należności i zobowiązania Inspekcji Celnej stają się należnościami i zobowiązaniami ministra właściwego do spraw finansów publicznych.
 
 **Art. 27.**
 
@@ -522,7 +692,7 @@ source: "isap-pdf"
 
 10. Inspektorzy, o których mowa w ust. 8, są zobowiązani w terminie roku od dnia wejścia w życie rozporządzenia, o którym mowa w ust. 11, do złożenia uzupełniającego egzaminu kwalifikacyjnego. Przepis art. 42 ust. 1 pkt 3 ustawy, o której mowa w art. 3, stosuje się odpowiednio.
 
-11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zakres i tryb składania uzupełniającego egzaminu kwalifikacyjnego dla skarbowej.
+11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zakres i tryb składania uzupełniającego egzaminu kwalifikacyjnego dla inspektorów, o których mowa w ust. 8, uwzględniając zakres zadań kontroli skarbowej.
 
 **Art. 28.**
 
@@ -539,4 +709,9 @@ source: "isap-pdf"
 **Art. 31.** Traci moc ustawa z dnia 6 czerwca 1997 r. o Inspekcji Celnej (Dz.U. Nr 71, poz. 449, z 1998 r. Nr 137, poz. 886, z 1999 r. Nr 49, poz. 483, Nr 83, poz. 931 i Nr 101, poz. 1178, z 2000 r. Nr 104, poz. 1103, z 2001 r. Nr 81, poz. 877, Nr 110, poz. 1189 i Nr 123, poz. 1353 oraz z 2002 r. Nr 41, poz. 365 i Nr 74, poz. 676).
 
 **Art. 32.** Ustawa wchodzi w życie z dniem 1 lipca 2002 r., z wyjątkiem:
+
+- **1)** art. 27 ust. 2, który wchodzi w życie z dniem ogłoszenia,
+- **2)** art. 2, który wchodzi w życie z dniem 30 czerwca 2002 r.,
+- **3)** art. 9 pkt 7 i art. 21, które wchodzą w życie z dniem 1 stycznia 2003 r.
+
 

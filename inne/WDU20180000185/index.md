@@ -8,10 +8,10 @@ pos: 185
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 stycznia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 185 Program realizacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Rumunii o współpracy w zakresie nauki, szkolnictwa i kultury, podpisany w Warszawie dnia 20 grudnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2018-01-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/185/text.pdf) |
-
-Program realizacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Rumunii o współpracy w zakresie nauki, szkolnictwa i kultury, podpisany w Warszawie dnia 20 grudnia 2017 r.
 

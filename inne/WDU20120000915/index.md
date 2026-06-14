@@ -8,7 +8,7 @@ pos: 915
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Akademii Medycznej im. Piastów Śląskich we Wrocławiu nazwy „Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu”

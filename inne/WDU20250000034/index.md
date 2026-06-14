@@ -8,7 +8,7 @@ pos: 34
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Służbie Ochrony Państwa
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-06 |
 | Data wydania | 2025-01-10 |
-| Ostatnia zmiana | 2026-02-05 |
+| Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/34/text.pdf) |
 
 Art. 251–346. (pominięte)
@@ -32,6 +32,11 @@ Art. 251–346. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania i uprawnienia Służby Ochrony Państwa, zwanej dalej „SOP”, oraz zasady jej organizacji;
+- **2)** obowiązki osób ochranianych;
+- **3)** zakres oraz sposób ochrony obiektów służących Prezydentowi Rzeczypospolitej Polskiej oraz członkom Rady Ministrów, a także placówek zagranicznych Rzeczypospolitej Polskiej.
+- **4)** (uchylony)
 
 **Art. 2.**
 
@@ -42,6 +47,18 @@ Art. 251–346. (pominięte)
 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór znaku graficznego SOP, mając na względzie stworzenie spójnego systemu identyfikacji wizualnej SOP.
 
 **Art. 3.** Do zadań SOP należy:
+
+- **1)** ochrona:
+    - **a)** Prezydenta Rzeczypospolitej Polskiej, Marszałka Sejmu, Marszałka Senatu, Prezesa Rady Ministrów, wiceprezesa Rady Ministrów, ministra właściwego do spraw wewnętrznych oraz ministra właściwego do spraw zagranicznych,
+    - **b)** byłych prezydentów Rzeczypospolitej Polskiej na podstawie ustawy z dnia 30 maja 1996 r. o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 207),
+    - **c)** osób posiadających status głowy państwa, szefa rządu oraz ich zastępców, przewodniczącego parlamentu lub izby parlamentu lub ministra spraw zagranicznych, wchodzących w skład delegacji państw obcych przebywających na terytorium Rzeczypospolitej Polskiej,
+    - **d)** innych osób ze względu na dobro państwa,
+    - **e)** obiektów służących Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw zagranicznych oraz wskazanych w decyzji ministra właściwego do spraw wewnętrznych innych obiektów stanowiących siedziby członków Rady Ministrów, zwanych dalej „siedzibami członków Rady Ministrów”, z wyłączeniem obiektów służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości,
+    - **f)** placówek zagranicznych Rzeczypospolitej Polskiej wskazanych w decyzji, o której mowa w art. 4 ust. 8;
+
+- **2)** rozpoznawanie i zapobieganie przestępstwom przeciwko Rzeczypospolitej Polskiej, przestępstwom przeciwko życiu lub zdrowiu, przestępstwom przeciwko bezpieczeństwu powszechnemu, przestępstwom przeciwko bezpieczeństwu w komunikacji, przestępstwom przeciwko wolności, przestępstwom przeciwko czci i nietykalności cielesnej, przestępstwom przeciwko porządkowi publicznemu, zamachom i czynnej napaści skierowanym przeciwko osobom, o których mowa w pkt 1 lit. a–d, oraz przeciwko bezpieczeństwu obiektów, o których mowa w pkt 1 lit. e, z wyłączeniem dotyczących tych obiektów przestępstw przeciwko ochronie informacji;
+- **3)** rozpoznawanie, zapobieganie i wykrywanie popełnianych przez funkcjonariuszy SOP, zwanych dalej „funkcjonariuszami”, i pracowników SOP przestępstw określonych w art. 228, art. 229, art. 231, art. 265 i art. 266 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17 i 1228), zwanej dalej „Kodeksem karnym”, w związku z wykonywaniem obowiązków służbowych, a także, w zakresie wynikającym z art. 11j ust. 1 pkt 1–3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2024 r. poz. 309 i 1222), funkcjonariuszy i pracowników SOP, Policji i Straży Granicznej lub strażaków i pracowników Państwowej Straży Pożarnej.
+- **4)** (uchylony)
 
 **Art. 4.**
 
@@ -166,6 +183,15 @@ Art. 251–346. (pominięte)
 
 **Art. 14.** Komendant SOP kieruje SOP i zapewnia sprawne oraz efektywne wykonywanie jej zadań przez:
 
+- **1)** organizowanie ochrony oraz działań, o których mowa w art. 3;
+- **2)** prowadzenie polityki kadrowej;
+- **3)** określanie oraz zapewnienie realizacji programu szkolenia funkcjonariuszy i doskonalenia zawodowego pracowników, a także zapewnianie właściwych warunków i sposobu szkolenia;
+- **3a)** określenie kryteriów zdrowotnych i użytkowych doboru psów do realizacji zadań SOP, sposobu szkolenia przewodników psów służbowych, kandydatów na przewodników psów służbowych i szkolenia psów służbowych oraz sposób prowadzenia ewidencji psów służbowych;
+- **4)** współdziałanie z centralnymi organami administracji rządowej podległymi ministrowi właściwemu do spraw wewnętrznych, jednostkami organizacyjnymi podporządkowanymi, podległymi lub nadzorowanymi przez ministra właściwego do spraw wewnętrznych lub Ministra Obrony Narodowej, Szefa Kancelarii Sejmu oraz innymi organami administracji rządowej i samorządu terytorialnego w zakresie zadań realizowanych przez SOP i te organy;
+- **5)** współdziałanie z organami i służbami innych państw oraz organizacjami międzynarodowymi na podstawie umów i porozumień oraz odrębnych przepisów;
+- **6)** zapewnienie przestrzegania dyscypliny służbowej przez funkcjonariuszy;
+- **7)** określanie oraz zapewnienie przestrzegania zasad etyki zawodowej funkcjonariuszy.
+
 **Art. 15.**
 
 1. Komendant SOP może upoważnić swoich zastępców, a także innych funkcjonariuszy oraz pracowników do załatwiania w jego imieniu spraw w określonym zakresie.
@@ -202,7 +228,37 @@ Art. 251–346. (pominięte)
 
 **Art. 20.** W celu zapewnienia ochrony osób i obiektów, o których mowa w art. 3 pkt 1, SOP w szczególności:
 
+- **1)** planuje sposoby zabezpieczenia osób oraz możliwości ich ewakuacji w przypadku powstania zagrożenia;
+- **2)** planuje sposoby zabezpieczenia obiektów oraz uzgadnia z ich administratorami niezbędny zakres działań dostosowawczych w odniesieniu do tych obiektów;
+- **3)** rozpoznaje i analizuje potencjalne zagrożenia;
+- **4)** zapobiega powstawaniu zagrożeń;
+- **5)** organizuje działania ochronne;
+- **6)** wykonuje bezpośrednią ochronę;
+- **7)** zabezpiecza obiekty;
+- **8)** koordynuje realizację działań ochronnych w przypadku, o którym mowa w art. 38.
+
 **Art. 21.** Funkcjonariusz, wykonując zadania, o których mowa w art. 3, ma prawo:
+
+- **1)** wydawać polecenia osobom, których zachowanie stwarza lub może stworzyć zagrożenie dla bezpieczeństwa osób lub obiektów podlegających ochronie SOP, a w szczególności wydawać polecenia:
+    - **a)** opuszczenia przez takie osoby określonego miejsca,
+    - **b)** zatrzymania pojazdu,
+    - **c)** usunięcia pojazdu z miejsca postoju,
+    - **d)** usunięcia innych urządzeń lub oddania ich do depozytu;
+
+- **2)** legitymować osoby w celu ustalenia ich tożsamości, a w szczególności identyfikacji osób, które mogą stworzyć bezpośrednie zagrożenie dla osób lub obiektów, o których mowa w art. 3 pkt 1, podlegających ochronie SOP;
+- **3)** dokonywać kontroli osobistej polegającej na sprawdzeniu zawartości odzieży i obuwia osoby kontrolowanej oraz przedmiotów, które znajdują się na jej ciele, włącznie z żądaniem zdjęcia odzieży i obuwia oraz sprawdzeniu jamy ustnej, nosa, uszu i włosów osoby kontrolowanej, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób i obiektów, o których mowa w art. 3 pkt 1;
+- **3a)** przeglądać zawartość bagaży i sprawdzać ładunki poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób i obiektów, o których mowa w art. 3 pkt 1;
+- **3b)** sprawdzać pomieszczenia oraz środki transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób lub obiektów, o których mowa w art. 3 pkt 1;
+- **4)** dokonywać kontroli bezpieczeństwa osób wchodzących na teren obiektów i placówek, o których mowa w art. 3 pkt 1 lit. e i f, a także na teren innych wydzielonych przez SOP stref bezpieczeństwa, oraz środków transportu lądowego, powietrznego lub wodnego służących do przewozu osób ochranianych, tras ich przejazdu, pojazdów, bagaży, przesyłek, obiektów lub obszaru w formie:
+    - **a)** kontroli manualnej lub
+    - **b)** sprawdzenia za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub
+    - **c)** sprawdzenia biochemicznego lub
+    - **d)** sprawdzenia z wykorzystaniem psa służbowego – w zakresie niezbędnym do realizacji zadań, o których mowa w art. 3 pkt 1 lit. a–e;
+
+- **5)** ujmować osoby stwarzające bezpośrednie zagrożenie życia lub zdrowia ludzkiego, a także zagrożenie dla chronionego mienia w celu niezwłocznego oddania tych osób Policji lub innym właściwym organom;
+- **6)** żądać niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej; wymienione instytucje, organy i jednostki są obowiązane, w zakresie swojego działania, do udzielenia tej pomocy;
+- **7)** zwracać się o niezbędną pomoc do innych jednostek gospodarczych i organizacji społecznych, jak również zwracać się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy;
+- **8)** obserwować i rejestrować przy użyciu środków technicznych obraz zdarzeń w miejscach publicznych, a w przypadku czynności operacyjno-rozpoznawczych i administracyjno-porządkowych wykonywanych na podstawie ustawy – również rejestrować dźwięk towarzyszący tym zdarzeniom, a także obserwować i rejestrować przy użyciu środków technicznych obraz zdarzeń w obiektach ochranianych lub wokół tych obiektów, w uzgodnieniu z ich administratorami, oraz w miejscach zamieszkania osób ochranianych w zakresie uzgodnionym z tymi osobami i niezbędnym do realizacji zadań, o których mowa w art. 3 pkt 1–3.
 
 **Art. 21a.**
 
@@ -225,7 +281,7 @@ Art. 251–346. (pominięte)
 
 2. Przepis ust. 1 nie dotyczy działań podejmowanych w obronie koniecznej lub stanie wyższej konieczności.
 
-3. O podjęciu działań, o których mowa w ust. 2, wobec osób, o których mowa w ust. 1 pkt 1 i 2, należy niezwłocznie powiadomić urząd obsługujący ministra właściwego do spraw zagranicznych, a wobec osób, o których mowa w ust. 1 pkt 3, odpowiednio Marszałka i Marszałka Senatu, Pierwszego Prezesa Sądu Najwyższego lub Prokuratora Generalnego.
+3. O podjęciu działań, o których mowa w ust. 2, wobec osób, o których mowa w ust. 1 pkt 1 i 2, należy niezwłocznie powiadomić urząd obsługujący ministra właściwego do spraw zagranicznych, a wobec osób, o których mowa w ust. 1 pkt 3, odpowiednio Marszałka Sejmu i Marszałka Senatu, Pierwszego Prezesa Sądu Najwyższego lub Prokuratora Generalnego.
 
 **Art. 23.**
 
@@ -489,6 +545,12 @@ Art. 251–346. (pominięte)
 
 **Art. 43.** Kontrola operacyjna jest prowadzona niejawnie i polega na:
 
+- **1)** uzyskiwaniu i utrwalaniu treści rozmów prowadzonych przy użyciu środków technicznych, w tym za pomocą sieci telekomunikacyjnych;
+- **2)** uzyskiwaniu i utrwalaniu obrazu lub dźwięku osób z pomieszczeń, środków transportu lub miejsc innych niż miejsca publiczne;
+- **3)** uzyskiwaniu i utrwalaniu treści korespondencji, w tym korespondencji prowadzonej za pomocą środków komunikacji elektronicznej;
+- **4)** uzyskiwaniu i utrwalaniu danych zawartych na informatycznych nośnikach danych, telekomunikacyjnych urządzeniach końcowych, systemach informatycznych i teleinformatycznych;
+- **5)** uzyskiwaniu dostępu i kontroli zawartości przesyłek.
+
 **Art. 44.**
 
 1. Kontrolę operacyjną zarządza się na okres nie dłuższy niż 3 miesiące. Sąd Okręgowy w Warszawie może na pisemny wniosek Komendanta SOP złożony po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego wydać, na okres nie dłuższy niż kolejne 3 miesiące, postanowienie o jednorazowym przedłużeniu kontroli operacyjnej, jeżeli nie ustały przyczyny tej kontroli.
@@ -678,6 +740,18 @@ Art. 251–346. (pominięte)
 **Art. 61.** Administratorem danych osobowych przetwarzanych przez SOP jest Komendant SOP.
 
 **Art. 62.** Kierownicy komórek organizacyjnych SOP są obowiązani współdziałać z Biurem Nadzoru Wewnętrznego, o którym mowa w ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, w zakresie realizacji jego zadań, a w szczególności:
+
+- **1)** udostępniać na wniosek Inspektora Nadzoru Wewnętrznego niezbędne uzbrojenie, wyposażenie, urządzenia i środki techniczne;
+- **2)** zapewniać warunki niezbędne do sprawnej realizacji zadań przez inspektorów Biura Nadzoru Wewnętrznego, w szczególności przez zapewnienie swobodnego wstępu na teren komórki organizacyjnej SOP, niezwłocznie przedstawiać żądane informacje i dokumenty, terminowo udzielać ustnych i pisemnych wyjaśnień, a także udostępniać niezbędne urządzenia techniczne i zapewniać dostęp do Internetu oraz, w miarę możliwości, do oddzielnego pomieszczenia z odpowiednim wyposażeniem;
+- **3)** przekazywać dane funkcjonariuszy objętych weryfikacją, o której mowa w art. 11a ust. 3 pkt 2 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, najpóźniej w terminie 14 dni przed planowanym: poz. 2053),
+    - **a)** powołaniem na stanowiska Komendanta SOP i jego zastępców, dyrektorów i zastępców dyrektorów komórek organizacyjnych SOP oraz naczelników,
+    - **b)** oddelegowaniem do pełnienia służby lub wykonywaniem zadań poza granicami państwa na okres przekraczający 14 dni, z wyłączeniem przypadku, o którym mowa w art. 3 pkt 1 lit. f,
+    - **c)** wystąpieniem o mianowanie na stopnie generała brygady i generała dywizji w SOP,
+    - **d)** wystąpieniem o przedterminowe mianowanie w korpusie oficerów SOP,
+    - **e)** wystąpieniem o wyróżnienie, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2023 r.
+    - **f)** oddelegowaniem do wykonywania zadań w Biurze Nadzoru Wewnętrznego;
+
+- **4)** udostępniać dokumentację z kontroli, o której mowa w art. 12 ust. 3 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222).
 
 **Art. 63.**
 
@@ -1066,7 +1140,20 @@ Art. 251–346. (pominięte)
 
 **Art. 85.** Do ochrony placówki zagranicznej może być skierowany funkcjonariusz, który posiada:
 
+- **1)** zaświadczenie lekarskie o stanie zdrowia umożliwiającym pełnienie służby w wyznaczonej placówce zagranicznej;
+- **2)** zaświadczenie potwierdzające odbycie szkolenia specjalistycznego umożliwiające pełnienie służby w wyznaczonej placówce zagranicznej;
+- **3)** szczepienia ochronne w przypadkach określonych wymogami sanitarnymi;
+- **4)** sprawność fizyczną umożliwiającą pełnienie służby w wyznaczonej placówce;
+- **5)** poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych o klauzuli umożliwiającej wykonywanie zadań w placówce zagranicznej, w tym wytwarzanych przez urząd obsługujący ministra właściwego do spraw zagranicznych.
+
 **Art. 86.** Komendant SOP odwołuje funkcjonariusza skierowanego do ochrony placówki zagranicznej w przypadku:
+
+- **1)** wszczęcia kontrolnego postępowania sprawdzającego prowadzonego na podstawie przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych;
+- **2)** uzasadnionego podejrzenia popełnienia przestępstwa lub czynu, za który funkcjonariusz ponosi odpowiedzialność dyscyplinarną;
+- **3)** zachowania niezgodnego z zasadami etyki zawodowej funkcjonariuszy;
+- **4)** stanu zdrowia uniemożliwiającego dalszą realizację zadań;
+- **5)** mianowania na inne stanowisko służbowe;
+- **6)** innych uzasadnionych potrzeb SOP.
 
 **Art. 87.**
 
@@ -1108,6 +1195,10 @@ Art. 251–346. (pominięte)
 
 **Art. 94.** Rozkaz personalny o oddelegowaniu funkcjonariusza zawiera:
 
+- **1)** datę oddelegowania funkcjonariusza oraz wysokość przysługującego funkcjonariuszowi uposażenia przyznanego przez Komendanta SOP;
+- **2)** nazwę urzędu, jednostki organizacyjnej lub służby, do których następuje oddelegowanie;
+- **3)** określenie stanowiska przeznaczonego dla funkcjonariusza ze wskazaniem składników uposażenia.
+
 **Art. 95.**
 
 1. Oddelegowanego funkcjonariusza wyznacza na stanowisko służbowe, zgodnie z wnioskiem, kierownik urzędu, jednostki organizacyjnej lub służby.
@@ -1137,6 +1228,8 @@ Art. 251–346. (pominięte)
 - **3)** należności z tytułu doznania uszczerbku na zdrowiu i należności pośmiertne;
 - **4)** należności z tytułu zwolnienia ze służby;
 - **5)** wyrównanie z tytułu wypłaty dodatkowego wynagrodzenia rocznego w wysokości niższej niż wysokość nagrody rocznej, obliczonej na podstawie niniejszej ustawy.
+
+3. W przypadku funkcjonariusza oddelegowanego do wykonywania zadań służbowych w urzędzie obsługującym ministra właściwego do spraw wewnętrznych albo w jednostce podległej lub nadzorowanej przez ministra właściwego do spraw wewnętrznych, należności, o których mowa w ust. 1, wypłaca komórka organizacyjna SOP właściwa w sprawach finansowych w uzgodnieniu z kierownikiem urzędu albo jednostki, do której funkcjonariusz został oddelegowany.
 
 **Art. 98a.** Kierownik lub dyrektor generalny urzędu, jednostki organizacyjnej lub służby, do których oddelegowano funkcjonariusza, na wniosek Komendanta SOP lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez funkcjonariusza zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
 
@@ -1203,6 +1296,9 @@ Art. 251–346. (pominięte)
 - **4)** śmierci funkcjonariusza.
 
 **Art. 104.** Funkcjonariusz może być skierowany do komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych:
+
+- **1)** z urzędu lub na jego wniosek – w celu określenia stanu zdrowia oraz ustalenia zdolności fizycznej i psychicznej do służby, jak również związku poszczególnych chorób ze służbą;
+- **2)** z urzędu – w celu sprawdzenia prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby lub prawidłowości wykorzystania zwolnienia lekarskiego.
 
 **Art. 105.**
 
@@ -1318,6 +1414,31 @@ Art. 251–346. (pominięte)
 #### Rozdział 5 Korpusy i stopnie funkcjonariuszy
 
 **Art. 116.** W SOP obowiązują następujące korpusy i stopnie służbowe:
+
+- **1)** korpus szeregowych:
+    - **a)** szeregowy SOP,
+    - **b)** starszy szeregowy SOP;
+
+- **2)** korpus podoficerów:
+    - **a)** kapral SOP,
+    - **b)** plutonowy SOP,
+    - **c)** sierżant SOP,
+    - **d)** starszy sierżant SOP;
+
+- **3)** korpus chorążych:
+    - **a)** młodszy chorąży SOP,
+    - **b)** chorąży SOP,
+    - **c)** starszy chorąży SOP;
+
+- **4)** korpus oficerów:
+    - **a)** podporucznik SOP,
+    - **b)** porucznik SOP,
+    - **c)** kapitan SOP,
+    - **d)** major SOP,
+    - **e)** podpułkownik SOP,
+    - **f)** pułkownik SOP,
+    - **g)** generał brygady SOP,
+    - **h)** generał dywizji SOP.
 
 **Art. 117.**
 
@@ -1445,6 +1566,10 @@ Art. 251–346. (pominięte)
 3. Rada Ministrów określi, w drodze rozporządzenia, równorzędność stopni w formacjach, o których mowa w ust. 1, mając na względzie zapewnienie adekwatności tych stopni w służbach, o których mowa w ust. 1, oraz w odniesieniu do żołnierzy zawodowych.
 
 **Art. 128.** Wnioski w sprawie mianowania funkcjonariuszy:
+
+- **1)** na stopnie szeregowych, podoficerskie oraz chorążych SOP przedstawiają Komendantowi SOP drogą służbową bezpośredni przełożeni tych funkcjonariuszy;
+- **2)** na stopnie oficerskie SOP przedstawiają drogą służbową bezpośredni przełożeni tych funkcjonariuszy Komendantowi SOP, który w przypadku pozytywnego zaopiniowania przedstawia je ministrowi właściwemu do spraw wewnętrznych;
+- **3)** na pierwszy stopień oficerski SOP i stopnie generalskie SOP przedstawia Komendant SOP ministrowi właściwemu do spraw wewnętrznych, który w przypadku pozytywnego zaopiniowania przedstawia je Prezydentowi Rzeczypospolitej Polskiej.
 
 **Art. 129.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób mianowania funkcjonariuszy na stopnie SOP, osoby uprawnione do występowania z wnioskami o mianowanie oraz sposób sporządzania i wręczania aktów mianowania, mając na względzie zapewnienie prawidłowego dokumentowania mianowania na stopnie.
 
@@ -2051,6 +2176,14 @@ Art. 251–346. (pominięte)
 
 **Art. 156.** Wymiar urlopu szkoleniowego wynosi:
 
+- **1)** w celu przygotowania się do egzaminu wstępnego i jego złożenia – 7 dni;
+- **2)** w szkołach wyższych, w każdym roku studiów wyższych – 21 dni;
+- **3)** dla funkcjonariuszy pobierających naukę w szkołach pomaturalnych i na studiach podyplomowych w celu przygotowania się do egzaminu końcowego i jego złożenia – 14 dni;
+- **4)** w celu przygotowania się do złożenia egzaminów doktorskich, obrony rozprawy doktorskiej lub kolokwium habilitacyjnego – 28 dni;
+- **5)** w celu przygotowania się i złożenia egzaminu radcowskiego – 30 dni;
+- **6)** w celu przygotowania się i złożenia egzaminu po zakończeniu aplikacji legislacyjnej – 14 dni;
+- **7)** w celu przygotowania się i złożenia egzaminu kończącego specjalizację medyczną – 30 dni.
+
 **Art. 157.** Urlop szkoleniowy może być udzielony funkcjonariuszowi jednorazowo albo w częściach w okresie danego roku szkolnego lub akademickiego.
 
 **Art. 158.**
@@ -2120,6 +2253,10 @@ Art. 251–346. (pominięte)
 4. Jeżeli prawo do uposażenia powstało lub zmiana wysokości uposażenia nastąpiła w określonym dniu miesiąca kalendarzowego, uposażenie za każdy następny dzień do końca tego miesiąca oblicza się w wysokości 1/30 części miesięcznego uposażenia.
 
 **Art. 161.** Prawo do uposażenia ustaje z ostatnim dniem miesiąca, w którym funkcjonariusz:
+
+- **1)** został zwolniony ze służby;
+- **2)** zmarł lub zaginął;
+- **3)** otrzymał urlop bez prawa do uposażenia.
 
 **Art. 162.**
 
@@ -2204,6 +2341,10 @@ Art. 251–346. (pominięte)
 - **4)** wskutek obniżenia stopnia.
 
 **Art. 167.** Funkcjonariuszowi przeniesionemu na inne stanowisko służbowe może być zachowane uposażenie według grupy przysługującej na poprzednio zajmowanym stanowisku służbowym w przypadku:
+
+- **1)** orzeczenia komisji lekarskiej o niezdolności do pełnienia służby na dotychczas zajmowanym stanowisku;
+- **2)** szczególnie uzasadnionym, na podstawie decyzji ministra właściwego do spraw wewnętrznych;
+- **3)** powrotu z oddelegowania.
 
 **Art. 168.** Funkcjonariusze odbywający studia wyższe lub naukę w szkołach albo na kursach otrzymują uposażenie według stanowiska służbowego zajmowanego przed skierowaniem do szkoły lub na kurs, z uwzględnieniem powstałych w tym okresie zmian mających wpływ na wysokość uposażenia zasadniczego i innych należności pieniężnych.
 
@@ -2484,6 +2625,9 @@ Art. 251–346. (pominięte)
 
 **Art. 178b.** Prawo do zakwaterowania nie przysługuje funkcjonariuszowi:
 
+- **1)** który nabył lokal mieszkalny od Skarbu Państwa lub jednostki samorządu terytorialnego, z bonifikatą lub pomniejszeniem w cenie nabycia, przydzielony w trybie administracyjnym w związku z pełnioną służbą;
+- **2)** od dnia przyjęcia do służby do dnia ukończenia szkolenia przygotowującego do służby w SOP.
+
 **Art. 178c.**
 
 1. Podmiotami właściwymi w sprawach zakwaterowania są:
@@ -2494,6 +2638,11 @@ Art. 251–346. (pominięte)
 2. W przypadku funkcjonariusza zwolnionego ze służby, który nabył prawo do lokalu mieszkalnego albo kwatery tymczasowej na podstawie decyzji podmiotu wskazanego w ust. 1 pkt 1, właściwym w sprawie wydania decyzji o opróżnieniu lokalu mieszkalnego albo kwatery tymczasowej jest podmiot wskazany w ust. 1 pkt 2.
 
 **Art. 178d.** Członkami rodziny funkcjonariusza, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z funkcjonariuszem we wspólnym gospodarstwie domowym:
+
+- **1)** małżonek;
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej, pozostające na jego utrzymaniu, nie dłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
+    - **a)** nie ukończyły 18. roku życia, a w przypadku uczęszczania do szkoły lub odbywania studiów w uczelni – 26. roku życia, albo
+    - **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w lit. a.
 
 **Art. 178e.**
 
@@ -2830,6 +2979,12 @@ Art. 251–346. (pominięte)
 
 **Art. 196.** Okres przebywania na zwolnieniu lekarskim stwierdza zaświadczenie lekarskie wystawione zgodnie z art. 55 ust. 1 i art. 55a ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa albo wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 tej ustawy, z tym że:
 
+- **1)** przyczynę niezdolności do służby wskutek poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz niezdolności do służby wskutek poddania się zabiegowi pobrania komórek, tkanek i narządów – zaświadczenie wystawione przez lekarza na zwykłym druku zgodnie z przepisem art. 53 ust. 3 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
+- **2)** w przypadku, o którym mowa w art. 194 ust. 2 pkt 2 – zaświadczenie jednostki organizacyjnej publicznej służby krwi;
+- **3)** przyczynę niezdolności, o której mowa w art. 194 ust. 2 pkt 5 lit. a – oświadczenie funkcjonariusza;
+- **4)** w przypadkach, o których mowa w art. 194 ust. 2 pkt 5 lit. b i c – zaświadczenie lekarskie wystawione przez lekarza na zwykłym druku;
+- **5)** w przypadku, o którym mowa w art. 6 ust. 2 pkt 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa – decyzja wydana przez właściwy organ albo uprawniony podmiot na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
+
 **Art. 197.**
 
 1. Doręczenie zaświadczenia lekarskiego odbywa się z wykorzystaniem profilu informacyjnego, o którym mowa w art. 58 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, na zasadach określonych w tej ustawie. Komendant SOP wykorzystuje lub tworzy profil informacyjny płatnika składek, o którym mowa w art. 58 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
@@ -3018,6 +3173,9 @@ Art. 251–346. (pominięte)
 
 **Art. 210.** Przewinienie dyscyplinarne jest zawinione wtedy, gdy funkcjonariusz:
 
+- **1)** ma zamiar jego popełnienia, to jest chce je popełnić albo przewidując możliwość jego popełnienia, na to się godzi;
+- **2)** nie mając zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał albo mógł i powinien przewidzieć.
+
 **Art. 211.**
 
 1. Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego albo poleca jego popełnienie.
@@ -3061,6 +3219,15 @@ Art. 251–346. (pominięte)
 **Art. 214.** O popełnieniu przez funkcjonariusza wykroczenia, w tym także o odmowie przyjęcia mandatu karnego lub nieuiszczeniu w terminie grzywny nałożonej w drodze mandatu zaocznego, właściwy organ zawiadamia Komendanta SOP.
 
 **Art. 215.** Funkcjonariuszowi mogą być wymierzane następujące kary dyscyplinarne:
+
+- **1)** upomnienie;
+- **2)** nagana;
+- **3)** ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;
+- **4)** wyznaczenie na niższe stanowisko służbowe;
+- **5)** obniżenie stopnia;
+- **5a)** ostrzeżenie o niepełnej przydatności do służby;
+- **6)** (uchylony)
+- **7)** wydalenie ze służby.
 
 **Art. 216.** Kara upomnienia polega na zwróceniu uwagi na niewłaściwe postępowanie.
 
@@ -3635,6 +3802,9 @@ Art. 251–346. (pominięte)
 
 **Art. 245b.** Opiekunem psa służbowego jest odpowiednio:
 
+- **1)** przewodnik – funkcjonariusz, któremu przydzielono pod opiekę psa służbowego i który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 14 pkt 3a;
+- **2)** kandydat na przewodnika – funkcjonariusz, któremu przydzielono pod opiekę psa służbowego i którego wytypowano lub skierowano po raz pierwszy na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 14 pkt 3a.
+
 **Art. 245c.**
 
 1. Opiekunem psa służbowego wycofanego z użycia w pierwszej kolejności może być dotychczasowy opiekun tego psa, jeżeli złoży pisemną deklarację woli sprawowania opieki.
@@ -3656,6 +3826,11 @@ Art. 251–346. (pominięte)
 9. Opiekunem psa służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa w art. 245k ust. 1 pkt 1 lub 2. Do organizacji, o której mowa w ust. 7, zdanie pierwsze stosuje się.
 
 **Art. 245d.** Opiekun psa służbowego oraz opiekun psa służbowego wycofanego z użycia, zwani dalej „opiekunem”, oraz organizacja, o której mowa w art. 245c ust. 7, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
+
+- **1)** racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
 
 **Art. 245e.**
 
@@ -3695,6 +3870,10 @@ Art. 251–346. (pominięte)
 6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest Komendant SOP.
 
 **Art. 245g.** Opiekunowi oraz organizacji, o której mowa w art. 245c ust. 7, zabrania się:
+
+- **1)** zbywania zwierzęcia;
+- **2)** rozmnażania zwierzęcia;
+- **3)** wykorzystywania zwierzęcia w celach zarobkowych.
 
 **Art. 245h.**
 
@@ -3738,6 +3917,17 @@ Art. 251–346. (pominięte)
 4. W przypadku czasowego braku możliwości sprawowania opieki nad psem służbowym przez opiekuna Komendant SOP może wyznaczyć czasowego opiekuna psa służbowego. Do czasowego opiekuna stosuje się odpowiednio przepisy dotyczące opiekuna psa służbowego, z zastrzeżeniem, że ryczałt na pokrycie kosztów wyżywienia zwierzęcia wypłaca się co miesiąc z góry, proporcjonalnie do okresu sprawowania opieki nad psem służbowym.
 
 **Art. 245l.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** tryb przydzielania opiekunowi psa służbowego,
+- **2)** tryb rekrutacji kandydatów, którzy mogą zostać opiekunami psów służbowych wycofanych z użycia,
+- **3)** tryb wycofywania z użycia psa służbowego,
+- **4)** sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych oraz psów służbowych wycofanych z użycia,
+- **5)** sposób wyżywienia, wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia,
+- **6)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia,
+- **7)** tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego lub psa służbowego wycofanego z użycia,
+- **8)** sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi oraz psami służbowymi wycofanymi z użycia,
+- **9)** tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 245c ust. 7,
+- **10)** wzory dokumentów stosowanych w tych sprawach – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem psa służbowego, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych, prawidłowego dokumentowania realizowanych czynności oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia jest uzależniona od wagi, okresu roku i zadań wykonywanych przez psa służbowego, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
 
 #### Rozdział 10
 
@@ -3886,6 +4076,10 @@ Art. 251–346. (pominięte)
 **Art. 363.** Funkcjonariusze BOR, którzy z dniem wejścia w życie niniejszej ustawy stali się funkcjonariuszami SOP, są uprawnieni do wykonywania i realizacji zadań na podstawie art. 3.
 
 **Art. 364.** Funkcjonariuszom SOP, którzy przyjęli propozycję, o której mowa w art. 359 ust. 2 pkt 1:
+
+- **1)** czas pełnienia służby w BOR lub w Jednostce Wojskowej nr 1004 – Biuro Ochrony Rządu wlicza się do okresu służby w SOP w zakresie wszystkich uprawnień związanych z tą służbą, a w szczególności nabytych praw do zaopatrzenia emerytalnego, na zasadach obowiązujących w dniu powołania do służby w BOR lub w Jednostce Wojskowej nr 1004 – Biuro Ochrony Rządu;
+- **2)** zachowuje się uprawnienie do niewykorzystanych w naturze urlopów wypoczynkowych oraz do czasu wolnego w zamian za czas służby przekraczający normę określoną w art. 27 ust. 2 ustawy uchylanej w art. 391;
+- **3)** nie przysługują należności w związku ze zwolnieniem ze służby w BOR.
 
 **Art. 365.**
 

@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 21 sierpnia 1997 r. o ochronie zwierząt.*
 
-Łącznie: **195** orzeczeń
-(pominięto 650 orzeczeń sądów rejonowych)
+Łącznie: **197** orzeczeń
+(pominięto 741 orzeczeń sądów rejonowych)
 
 ## art. 1 (27)
 
@@ -231,10 +231,11 @@ Orzeczenia powołujące: *Ustawa z dnia 21 sierpnia 1997 r. o ochronie zwierząt
 - 2019-05-29 | SO | [II K 199/19](https://www.saos.org.pl/judgments/525454) | Wyrok
 - 2025-02-13 | SO | [II K 183/24](https://www.saos.org.pl/judgments/532738) | Zarządzenie
 
-## art. 35 (130)
+## art. 35 (132)
 
 - 2011-10-20 | SN | [III KK 159/11](https://www.saos.org.pl/judgments/96059) | Wyrok ★
 - 2011-01-19 | SN | [IV KK 312/10](https://www.saos.org.pl/judgments/93967) | Postanowienie
+- 2025-12-11 | SO | [II AKa 187/25](https://www.saos.org.pl/judgments/545376) | Wyrok
 - 2024-12-16 | SO | [II AKa 301/24](https://www.saos.org.pl/judgments/523359) | Wyrok
 - 2022-11-22 | SO | [II AKa 51/22](https://www.saos.org.pl/judgments/482303) | Wyrok
 - 2021-07-07 | SO | [II AKa 297/20](https://www.saos.org.pl/judgments/449984) | Wyrok
@@ -259,6 +260,7 @@ Orzeczenia powołujące: *Ustawa z dnia 21 sierpnia 1997 r. o ochronie zwierząt
 - 2021-06-28 | SO | [II AKa 34/21](https://www.saos.org.pl/judgments/441785) | Uzasadnienie
 - 2021-05-13 | SO | [II AKa 4/21](https://www.saos.org.pl/judgments/437564) | Uzasadnienie
 - 2017-05-08 | SO | [II AKa 32/17](https://www.saos.org.pl/judgments/313551) | Uzasadnienie
+- 2026-06-08 | SO | [VI Ka 1518/25](https://www.saos.org.pl/judgments/547116) | Wyrok
 - 2025-05-16 | SO | [II K 71/25](https://www.saos.org.pl/judgments/528833) | Wyrok
 - 2025-03-10 | SO | [II K 360/22](https://www.saos.org.pl/judgments/528116) | Wyrok
 - 2025-02-13 | SO | [II K 183/24](https://www.saos.org.pl/judgments/532737) | Wyrok

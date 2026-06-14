@@ -8,10 +8,10 @@ pos: 72
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 stycznia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 72 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 4 stycznia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000072) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/72/text.pdf) |
 
-Poz. 72 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 4 stycznia 2023 r.
 w sprawie zabezpieczenia upraw konopi innych niż włókniste oraz przechowywania zbiorów ziela lub żywicy tych konopi Na podstawie art. 49a ust. 13 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r.
-poz. 2050, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki i sposób:
+poz. 2050, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe warunki i sposób:
 1) zabezpieczenia upraw konopi innych niż włókniste prowadzonych w celu wytwarzania surowca farmaceutycznego, o którym mowa w art. 33a ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, zwanej dalej „ustawą”;
 2) przechowywania zbiorów ziela lub żywicy konopi innych niż włókniste z upraw prowadzonych w celu wytwarzania surowca farmaceutycznego, o którym mowa w art. 33a ust. 1 ustawy.
 § 2. Szczegółowymi warunkami zabezpieczenia upraw konopi innych niż włókniste gwarantującymi należytą ochronę tych upraw przed dostępem osób nieuprawnionych są:
@@ -39,7 +39,7 @@ poz. 2050, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie 
 6) oznakowanie w postaci tablic ostrzegawczych zawierających informację o zakazie wstępu osób nieuprawnionych na miejsce upraw;
 7) stosowanie RFID – technologii zdalnego nadzoru roślin (Radio-frequency identification), która wykorzystuje fale radiowe do odczytu i przesyłania danych zawartych na etykiecie naniesionej na każdą z uprawianych roślin, umożliwiającej identyfikację każdej z roślin znajdujących się w polu odczytu;
 8) monitorowanie miejsca upraw.
-Dziennik Ustaw – 2 – Poz. 72 § 3. Warunki określone w § 2 pkt 1 i 2 realizuje się przez posiadanie i prowadzenie w formie papierowej lub elektronicznej wykazów, o których mowa w art. 49a ust. 4 pkt 1 lit. a i b ustawy, oraz bieżące rejestrowanie i weryfikowanie zawartych w nich danych – w zakresie określonym w art. 49a ust. 4 pkt 1 lit. c ustawy.
+§ 3. Warunki określone w § 2 pkt 1 i 2 realizuje się przez posiadanie i prowadzenie w formie papierowej lub elektronicznej wykazów, o których mowa w art. 49a ust. 4 pkt 1 lit. a i b ustawy, oraz bieżące rejestrowanie i weryfikowanie zawartych w nich danych – w zakresie określonym w art. 49a ust. 4 pkt 1 lit. c ustawy.
 § 4. Warunek określony w § 2 pkt 3 realizuje się przez posiadanie i zastosowanie instalacji alarmowej sygnalizującej każdorazową próbę przełamania lub przełamanie zabezpieczeń technicznych miejsca upraw lub próbę nieuprawnionego wstępu na miejsce upraw.
 § 5. 1. Warunek określony w § 2 pkt 4 realizuje się przez posiadanie i zastosowanie urządzeń monitorujących, w tym służących do obserwowania i rejestrowania obrazu, działających w systemie całodobowym.
 2. Do przekazywania, odtwarzania i utrwalania obrazu miejsca upraw służy system telewizji przemysłowej składający się z:

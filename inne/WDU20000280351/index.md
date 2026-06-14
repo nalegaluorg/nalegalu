@@ -8,7 +8,7 @@ pos: 351
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. K. 15/98 Trybunał Konstytucyjny w składzie: Wiesław Johann – przewodniczący Krzysztof Kolasiński – sprawozdawca Andrzej Mączyński Ferdynand Rymarz Jadwiga Skórzewska-Łosiak Joanna Szymczak – protokolant po rozpoznaniu 11 kwietnia 2000 r. na rozprawie sprawy z wniosku Rzecznika Praw Obywatelskich z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego o stwierdzenie niezgodności:

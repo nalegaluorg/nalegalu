@@ -8,7 +8,7 @@ pos: 1436
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 11 października 2011 r.

@@ -8,12 +8,10 @@ pos: 2138
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia 27 września 2018 stanie zdrowia akademickiego potrzeby udzielenia urlopu dla poratowania zdrowia 1868), uwzględnieniem zmian wprowadzonych:
-
-*OBWIESZCZENIE MINISTRA ZDROWIA 28 2021 ogłoszenia jednolitego tekstu rozporządzenia stanie zdrowia akademickiego potrzeby udzielenia urlopu dla poratowania zdrowia*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2138 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 28 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,50 +25,64 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002138) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2138/text.pdf) |
 
-1) rozporządzeniem 15 2019 zmieniającym rozporządzenie stanie zdrowia akademickiego potrzeby udzielenia urlopu dla poratowania zdrowia 2117);
-2) rozporządzeniem 28 stycznia 2020 zmieniającym rozporządzenie stanie zdrowia akademickiego potrzeby udzielenia urlopu dla poratowania zdrowia 214).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia 15 2019 zmieniającego rozporządzenie orzekania stanie zdrowia akademickiego potrzeby udzielenia urlopu dla poratowania zdrowia
-2117), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”;
-2) § 2 rozporządzenia 28 stycznia 2020 zmieniającego rozporządzenie stanie zdrowia akademickiego potrzeby udzielenia urlopu dla poratowania zdrowia 214), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Minister Zdrowia: wz. W. Kraska stanie zdrowia akademickiego potrzeby udzielenia urlopu dla poratowania zdrowia Na podstawie art. 134 ustawy 20 lipca 2018 Prawo szkolnictwie wyższym i nauce 2021 478, 619 i 1630) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) zakres oraz tryb przeprowadzania badania lekarskiego mającego celu stwierdzenie, czy stan zdrowia akademickiego wymaga powstrzymania się od pracy, oraz określenie zaleconego leczenia i czasu potrzebnego jego przeprowadzenie, zwanego dalej „badaniem lekarskim”;
-2) wzór skierowania badanie lekarskie, zwanego dalej „skierowaniem”;
-3) wzór orzeczenia lekarskiego wydawanego wyniku badania lekarskiego, zwanego dalej „orzeczeniem lekarskim”.
-§ 2. 1. Nauczyciel akademicki zgłasza się badanie lekarskie nie później niż terminie 30 dni od otrzymania skierowania.
-2. Nauczyciel akademicki wraz ze skierowaniem przedstawia lekarzowi, którym mowa art. 131 ust. 6 ustawy 20 lipca 2018 Prawo szkolnictwie wyższym i nauce, zwanemu dalej „lekarzem”, dokumentację medyczną przebiegu dotychczasowego leczenia, jeżeli ją posiada.
-3. Wzór skierowania określa załącznik nr rozporządzenia.
-§ 3. Badanie lekarskie przeprowadza się po sprawdzeniu tożsamości akademickiego.
-§ 4. 1. Badanie lekarskie obejmuje badanie podmiotowe oraz przedmiotowe, uwzględnieniem ogólnego stanu zdrowia, oceny układu krążenia, układu ruchu, układu nerwowego, układu oddechowego oraz narządu mowy.
-2. W przypadku gdy lekarz uzna za niezbędne wykonanie badań pomocniczych lub konsultacji specjalistycznych, wystawia nauczycielowi akademickiemu skierowanie te badania lub konsultacje.
-3. Badanie lekarskie, tym badania pomocnicze lub konsultacje specjalistyczne, przeprowadza się uwzględnieniem specyfiki wykonywanej przez akademickiego i konieczności powstrzymania się od wykonywania tej uwagi jego stan zdrowia.
-§ 5. 1. Wzór orzeczenia lekarskiego określa załącznik nr 2 rozporządzenia.
-2. Orzeczenie lekarskie wydaje się trzech egzemplarzach, których jeden otrzymuje nauczyciel akademicki, drugi rektor, który skierował akademickiego badanie lekarskie, a trzeci jest dołączany dokumentacji medycznej akademickiego.
-§ 6. Rozporządzenie wchodzi życie następującym po dniu ogłoszenia .
-Skierowanie badanie lekarskie Działając podstawie art. 131 ust. 7 ustawy 20 lipca 2018 Prawo szkolnictwie wyższym i nauce 2021 478, 619 i 1630), kieruję: Pana/Panią ................................................................................................................................................................
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 27 września 2018 r. w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U. poz. 1868), z uwzględnieniem zmian wprowadzonych:
+1) rozporządzeniem Ministra Zdrowia z dnia 15 października 2019 r. zmieniającym rozporządzenie w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U. poz. 2117);
+2) rozporządzeniem Ministra Zdrowia z dnia 28 stycznia 2020 r. zmieniającym rozporządzenie w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U. poz. 214).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1) § 2 rozporządzenia Ministra Zdrowia z dnia 15 października 2019 r. zmieniającego rozporządzenie w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U.
+poz. 2117), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Zdrowia z dnia 28 stycznia 2020 r. zmieniającego rozporządzenie w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U. poz. 214), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 września 2018 r.
+w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia Na podstawie art. 134 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619 i 1630) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) zakres oraz tryb przeprowadzania badania lekarskiego mającego na celu stwierdzenie, czy stan zdrowia nauczyciela akademickiego wymaga powstrzymania się od pracy, oraz określenie zaleconego leczenia i czasu potrzebnego na jego przeprowadzenie, zwanego dalej „badaniem lekarskim”;
+2) wzór skierowania na badanie lekarskie, zwanego dalej „skierowaniem”;
+3) wzór orzeczenia lekarskiego wydawanego w wyniku badania lekarskiego, zwanego dalej „orzeczeniem lekarskim”.
+§ 2. 1. Nauczyciel akademicki zgłasza się na badanie lekarskie nie później niż w terminie 30 dni od dnia otrzymania skierowania.
+2. Nauczyciel akademicki wraz ze skierowaniem przedstawia lekarzowi, o którym mowa w art. 131 ust. 6 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanemu dalej „lekarzem”, dokumentację medyczną z przebiegu dotychczasowego leczenia, jeżeli ją posiada.
+3. Wzór skierowania określa załącznik nr 1 do rozporządzenia.
+§ 3. Badanie lekarskie przeprowadza się po sprawdzeniu tożsamości nauczyciela akademickiego.
+§ 4. 1. Badanie lekarskie obejmuje badanie podmiotowe oraz przedmiotowe, z uwzględnieniem ogólnego stanu zdrowia, oceny układu krążenia, układu ruchu, układu nerwowego, układu oddechowego oraz narządu mowy.
+2. W przypadku gdy lekarz uzna za niezbędne wykonanie badań pomocniczych lub konsultacji specjalistycznych, wystawia nauczycielowi akademickiemu skierowanie na te badania lub konsultacje.
+3. Badanie lekarskie, w tym badania pomocnicze lub konsultacje specjalistyczne, przeprowadza się z uwzględnieniem specyfiki pracy wykonywanej przez nauczyciela akademickiego i konieczności powstrzymania się od wykonywania tej pracy z uwagi na jego stan zdrowia.
+§ 5. 1. Wzór orzeczenia lekarskiego określa załącznik nr 2 do rozporządzenia.
+2. Orzeczenie lekarskie wydaje się w trzech egzemplarzach, z których jeden otrzymuje nauczyciel akademicki, drugi rektor, który skierował nauczyciela akademickiego na badanie lekarskie, a trzeci jest dołączany do dokumentacji medycznej nauczyciela akademickiego.
+§ 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+Załączniki do rozporządzenia września 2018 r.
+
+## Załącznik nr 1 — WZÓR WZÓR ............................................ ................................
+
+Skierowanie na badanie lekarskie Działając na podstawie art. 131 ust. 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619 i 1630), kieruję: Pana/Panią ................................................................................................................................................................
 numer PESEL ...........................................................................................................................................................
 zamieszkałego/zamieszkałą ......................................................................................................................................
-zatrudnionego/zatrudnioną stanowisku ...............................................................................................................
-badanie lekarskie celu wydania orzeczenia lekarskiego stanie zdrowia potrzeby udzielenia urlopu dla poratowania zdrowia.
-Informacja czynnikach szkodliwych i uciążliwych dla zdrowia stanowisku: ....................................................
+zatrudnionego/zatrudnioną na stanowisku ...............................................................................................................
+na badanie lekarskie w celu wydania orzeczenia lekarskiego o stanie zdrowia na potrzeby udzielenia urlopu dla poratowania zdrowia.
+Informacja o czynnikach szkodliwych i uciążliwych dla zdrowia na stanowisku: ....................................................
 .....................................................................................................................................................................................
 .....................................................................................................................................................................................
 .....................................................................................................................................................................................
-………………………………………………… Pouczenie: Na badanie lekarskie należy zgłosić się terminie nie dłuższym niż 30 dni od otrzymania skierowania.
+………………………………………………… Pouczenie: Na badanie lekarskie należy zgłosić się w terminie nie dłuższym niż 30 dni od dnia otrzymania skierowania.
 Objaśnienia: Niepotrzebne skreślić.
-W przypadku osoby, której nie nadano numeru PESEL rodzaj i numer dokumentu stwierdzającego ORZECZENIE LEKARSKIE nr .......... /.......... rok Na podstawie art. 131 ust. 6 ustawy 20 lipca 2018 Prawo szkolnictwie wyższym i nauce 2021 478, 619 i 1630) po przeprowadzeniu badania lekarskiego stwierdzam, że stan zdrowia: Pana/Pani ..................................................................................................................................................................
+W przypadku osoby, której nie nadano numeru PESEL – rodzaj i numer dokumentu stwierdzającego tożsamość.
+
+## Załącznik nr 2 — WZÓR WZÓR ORZECZENIE LEKARSKIE nr .......... /.......... rok Na podstawie art. 131 ust. 6 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
+
+z 2021 r. poz. 478, 619 i 1630) po przeprowadzeniu badania lekarskiego stwierdzam, że stan zdrowia: Pana/Pani ..................................................................................................................................................................
 numer PESEL ...........................................................................................................................................................
 zamieszkałego/zamieszkałej .....................................................................................................................................
-zatrudnionego/zatrudnionej stanowisku ..............................................................................................................
-wymaga/nie wymaga powstrzymania się od celu przeprowadzenia zaleconego leczenia okresie od ......................................................................... .................................................................................
+zatrudnionego/zatrudnionej na stanowisku ..............................................................................................................
+wymaga/nie wymaga powstrzymania się od pracy w celu przeprowadzenia zaleconego leczenia w okresie od ......................................................................... do .................................................................................
 ....................................... ...................................................................
 Pouczenie:
-1) Od orzeczenia lekarskiego nauczycielowi akademickiemu oraz uczelni przysługuje odwołanie wojewódzkiego ośrodka medycyny właściwego ze względu miejsce zamieszkania akademickiego. W przypadku gdy orzeczenie lekarskie zostało wydane przez lekarza zatrudnionego wojewódzkim ośrodku medycyny pracy, odwołanie przysługuje instytutu badawczego działającego zakresie medycyny położonego najbliżej miejsca zamieszkania akademickiego:
-a) Instytutu Medycyny Pracy im. prof. dra med. Jerzego Nofera Łodzi,
+1) Od orzeczenia lekarskiego nauczycielowi akademickiemu oraz uczelni przysługuje odwołanie do wojewódzkiego ośrodka medycyny pracy właściwego ze względu na miejsce zamieszkania nauczyciela akademickiego. W przypadku gdy orzeczenie lekarskie zostało wydane przez lekarza zatrudnionego w wojewódzkim ośrodku medycyny pracy, odwołanie przysługuje do instytutu badawczego działającego w zakresie medycyny pracy położonego najbliżej miejsca zamieszkania nauczyciela akademickiego:
+a) Instytutu Medycyny Pracy im. prof. dra med. Jerzego Nofera w Łodzi,
 b) (uchylona),
-c) Instytutu Medycyny Wsi im. Witolda Chodźki Lublinie.
-Odwołanie wraz uzasadnieniem wnosi się piśmie terminie 14 dni od otrzymania orzeczenia lekarskiego, za pośrednictwem lekarza, który je wydał.
-2) Orzeczenie lekarskie wydane trybie odwoławczym jest ostateczne.
+c) Instytutu Medycyny Wsi im. Witolda Chodźki w Lublinie.
+Odwołanie wraz z uzasadnieniem wnosi się na piśmie w terminie 14 dni od dnia otrzymania orzeczenia lekarskiego, za pośrednictwem lekarza, który je wydał.
+2) Orzeczenie lekarskie wydane w trybie odwoławczym jest ostateczne.
 Objaśnienia: Niepotrzebne skreślić.
-W przypadku osoby, której nie nadano numeru PESEL rodzaj i numer dokumentu stwierdzającego tożsamość.
+W przypadku osoby, której nie nadano numeru PESEL – rodzaj i numer dokumentu stwierdzającego tożsamość.
+Ze zmianami wprowadzonymi przez § 1 rozporządzenia Ministra Zdrowia z dnia 15 października 2019 r.
+zmieniającego rozporządzenie w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U. poz. 2117), które weszło w życie z dniem 19 listopada 2019 r., oraz przez § 1 rozporządzenia Ministra Zdrowia z dnia 28 stycznia 2020 r. zmieniającego rozporządzenie w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U. poz. 214), które weszło w życie z dniem 26 lutego 2020 r.
 

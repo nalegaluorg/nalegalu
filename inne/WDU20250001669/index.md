@@ -8,10 +8,12 @@ pos: 1669
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# dnia 17 października 2025 r.
+# o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw
+
+*USTAWA z dnia 17 października 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,121 +27,217 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001669) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1669/text.pdf) |
 
-zmianie ustawy ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695 oraz z 2025 r. poz. 758, 1077 i 1167) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 20 maja 2021 r. ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. 2024 r. poz. 695 oraz 2025 r. poz. 758, 1077 i 1167) wprowadza się następujące zmiany:
+- **1)** w art. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) zasady działania Portalu Danych o Obrocie Mieszkaniami i udostępniania z niego informacji oraz sposób pozyskiwania danych i informacji do tego portalu.”;
+- **2)** w art. 48 po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Ze środków Funduszu pokrywa się koszty związane z prowadzeniem Portalu Danych o Obrocie Mieszkaniami, o którym mowa w rozdziale 8a, zwanego dalej „Portalem DOM”.”;
+- **3)** w art. 50 w ust. 2:
+    - **a)** w pkt 1 w lit. l średnik zastępuje się przecinkiem i dodaje się lit. m w brzmieniu: „m) nazwa grupy kapitałowej w rozumieniu art. 4 pkt 14 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, do której przynależy deweloper realizujący przedsięwzięcie deweloperskie lub zadanie inwestycyjne, oraz numer identyfikacji podatkowej (NIP), o ile taki został tej grupie kapitałowej nadany, i numer identyfikacyjny REGON, o ile ta grupa kapitałowa taki posiada;”,
+    - **b)** w pkt 4 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g–j w brzmieniu: „g) planowany termin rozpoczęcia robót budowlanych,
+    - **h)** planowany termin zakończenia robót budowlanych,
+    - **i)** liczba lokali mieszkalnych planowanych w ramach przedsięwzięcia deweloperskiego lub zadania inwestycyjnego,
+    - **j)** nazwa, pod którą jest prowadzone przedsięwzięcie deweloperskie lub zadanie inwestycyjne, o ile została nadana;”,
+    - **c)** w pkt 5 w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i–o w brzmieniu: „i) rodzaj obiektu będącego przedmiotem umowy przez wskazanie lokalu mieszkalnego albo domu jednorodzinnego,
+    - **j)** cena lokalu mieszkalnego albo domu jednorodzinnego objętego umową,
+    - **k)** powierzchnia użytkowa lokalu mieszkalnego albo domu jednorodzinnego objętego umową oraz powierzchnia nieruchomości zabudowanej domem jednorodzinnym objętym umową,
+    - **l)** liczba pokoi w lokalu mieszkalnym albo domu jednorodzinnym objętym umową,
+    - **m)** kondygnacja nadziemna budynku, na której znajduje się lokal mieszkalny objęty umową,
+    - **n)** liczba kondygnacji nadziemnych i liczba kondygnacji podziemnych budynku, w którym znajduje się lokal mieszkalny objęty umową,
+    - **o)** dane o akcie notarialnym zawierającym przeniesienie na nabywcę własności nieruchomości, której dotyczy umowa, o której mowa w art. 2 ust. 1: – numer, pod którym akt został wpisany do repertorium A, – data aktu, – imię i nazwisko notariusza, który sporządził akt, a w przypadku gdy akt sporządziła osoba wyznaczona do zastępstwa notariusza lub upoważniona do dokonywania czynności notarialnych – również imię i nazwisko tej osoby;”;
+
+- **4)** w art. 51:
+    - **a)** w ust. 1: – w pkt 1 wyrazy „d oraz g” zastępuje się wyrazami „d, g oraz o”, – pkt 3 otrzymuje brzmienie: „3) dewelopera – w zakresie określonym w art. 50 ust. 2 pkt 1 lit. m, pkt 4 lit. c–e oraz g–j oraz pkt 5 lit. b, e, f oraz h–n”,
+    - **b)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „W celu realizacji zadań określonych w niniejszym rozdziale Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony do:”;
+
+- **5)** art. 52 otrzymuje brzmienie: „Art. 52. 1. Ubezpieczeniowy Fundusz Gwarancyjny gromadzi i przetwarza dane i informacje zawarte w Ewidencji w celu:
+- **1)** weryfikacji prawidłowości wysokości odprowadzanych składek, o których mowa w art. 49, prowadzenia analiz, oceny ryzyka i adekwatności posiadanych środków oraz realizacji obowiązku sprawozdawczego, o którym mowa w art. 56;
+- **2)** opracowywania analiz statystycznych w postaci uniemożliwiającej identyfikację podmiotów, o których mowa w art. 50 ust. 2 pkt 1–3, oraz udostępniania tych analiz podmiotom, o których mowa w art. 51 ust. 1 pkt 1 i 3 oraz art. 56e ust. 1;
+- **3)** prowadzenia Portalu DOM.
+
+2. Ubezpieczeniowy Fundusz Gwarancyjny udostępnia analizy statystyczne, o których mowa w ust. 1 pkt 2, podmiotom, o których mowa w art. 56e ust. 1, w celu realizacji ustawowych zadań tych podmiotów, przyczyniających się do prowadzenia polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli.
+
+3. Do analiz statystycznych, o których mowa w ust. 1 pkt 2, przepisy art. 56e ust. 3–5 stosuje się odpowiednio.”;
+
+- **6)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „Rozdział 8a Portal DOM
 
 **Art. 56a.**
 
-1. Ubezpieczeniowy Fundusz Gwarancyjny prowadzi, systemie teleinformatycznym, który spełnia minimalne wymagania dla systemów teleinformatycznych oraz zapewnia interoperacyjność systemu na zasadach określonych Krajowych Ramach Interoperacyjności, Portal DOM.
+1. Ubezpieczeniowy Fundusz Gwarancyjny prowadzi, w systemie teleinformatycznym, który spełnia minimalne wymagania dla systemów teleinformatycznych oraz zapewnia interoperacyjność systemu na zasadach określonych w Krajowych Ramach Interoperacyjności, Portal DOM.
 
 2. Prowadzenie Portalu DOM obejmuje gromadzenie i przetwarzanie danych i informacji dotyczących obrotu lokalami mieszkalnymi i domami jednorodzinnymi położonymi na terytorium Rzeczypospolitej Polskiej oraz:
 
-- **1)** utworzenie, utrzymywanie i rozwijanie oparciu nie punktu dostępu informacji statystycznych dotyczących cen transakcyjnych odnoszących się lokali mieszkalnych i domów jednorodzinnych;
-- **2)** generowanie lub opracowywanie oparciu nie informacji statystycznych służących prowadzeniu polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli, tym informacji statystycznych dotyczących uczestników tego obrotu.
+- **1)** utworzenie, utrzymywanie i rozwijanie w oparciu o nie punktu dostępu do informacji statystycznych dotyczących cen transakcyjnych odnoszących się do lokali mieszkalnych i domów jednorodzinnych;
+- **2)** generowanie lub opracowywanie w oparciu o nie informacji statystycznych służących prowadzeniu polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli, w tym informacji statystycznych dotyczących uczestników tego obrotu.
 
 **Art. 56b.**
 
-1. W ramach prowadzenia Portalu DOM są gromadzone i przetwarzane dane i informacje: rodzinnego wyłączeniem umowy dożywocie i umowy zamiany, gromadzone na podstawie 84a § ustawy dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 2025 r. poz. 111, późn. zm. ) i udostępniane przez Szefa Krajowej Administracji Skarbowej.
+1. W ramach prowadzenia Portalu DOM są gromadzone i przetwarzane dane i informacje:
 
-2. W przypadku, którym mowa w:
+- **1)** w zakresie umów, o których mowa w art. 2 ust. 1, przekazywane z Ewidencji;
+- **2)** o umowach, o których mowa w art. 3 pkt 1;
+- **3)** o umowach, o których mowa w art. 4 pkt 1;
+- **4)** o umowach odpłatnych, których przedmiotem jest:
+    - **a)** przeniesienie na nabywcę własności lokalu mieszkalnego oraz praw niezbędnych do korzystania z tego lokalu,
+    - **b)** przeniesienie na nabywcę własności nieruchomości zabudowanej domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego stanowiącego odrębną nieruchomość lub przeniesienie ułamkowej części własności tej nieruchomości wraz z prawem do wyłącznego korzystania z części nieruchomości służącej zaspokajaniu potrzeb mieszkaniowych,
+    - **c)** przeniesienie na nabywcę spółdzielczego własnościowego prawa do lokalu mieszkalnego albo do domu jednorodzinnego – z wyłączeniem umowy o dożywocie i umowy zamiany, gromadzone na podstawie art. 84a § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) i udostępniane przez Szefa Krajowej Administracji Skarbowej.
 
-- **1)** ust. pkt 2 przez nabywcę rozumie się każdy podmiot, który zawiera deweloperem umowę, której mowa 3 pkt 1, po podaniu przez tego dewelopera publicznej wiadomości informacji na temat rozpoczęcia procesu oferowania lokali mieszkalnych lub domów jednorodzinnych na sprzedaż;
-- **2)** ust. pkt 3 przez nabywcę rozumie się każdy podmiot, który zawiera przedsiębiorcą innym niż deweloper umowę, której mowa 4 pkt 1;
-- **3)** ust. pkt 4 przez nabywcę rozumie się każdy podmiot, na który jest przenoszone prawo, którym mowa ust. pkt 4.
+2. W przypadku, o którym mowa w:
+
+- **1)** ust. 1 pkt 2 – przez nabywcę rozumie się każdy podmiot, który zawiera z deweloperem umowę, o której mowa w art. 3 pkt 1, po podaniu przez tego dewelopera do publicznej wiadomości informacji na temat rozpoczęcia procesu oferowania lokali mieszkalnych lub domów jednorodzinnych na sprzedaż;
+- **2)** ust. 1 pkt 3 – przez nabywcę rozumie się każdy podmiot, który zawiera z przedsiębiorcą innym niż deweloper umowę, o której mowa w art. 4 pkt 1;
+- **3)** ust. 1 pkt 4 – przez nabywcę rozumie się każdy podmiot, na który jest przenoszone prawo, o którym mowa w ust. 1 pkt 4.
 
 3. W ramach prowadzenia Portalu DOM są gromadzone i przetwarzane:
 
-- **1)** przypadku umów, których mowa 2 ust. dane i informacje, których mowa 50 ust. 2 pkt 2 lit. b, pkt 4 lit. h, pkt 5 lit. a zakresie daty zawarcia umowy, lit. e oraz i–o;
-- **2)** przypadku umów, których mowa 3 pkt i 4 pkt dane i informacje obejmujące:
+- **1)** w przypadku umów, o których mowa w art. 2 ust. 1 – dane i informacje, o których mowa w art. 50 ust. 2 pkt 2 lit. b, pkt 4 lit. h, pkt 5 lit. a w zakresie daty zawarcia umowy, lit. e oraz i–o;
+- **2)** w przypadku umów, o których mowa w art. 3 pkt 1 i art. 4 pkt 1 – dane i informacje obejmujące:
     - **a)** datę zawarcia umowy,
-    - **b)** dane akcie notarialnym: numer, pod którym akt został wpisany repertorium A, imię i nazwisko notariusza, który sporządził akt, a przypadku gdy akt sporządziła osoba wyznaczona zastępstwa notariusza lub upoważniona dokonywania czynności notarialnych również imię i nazwisko tej osoby,
+    - **b)** dane o akcie notarialnym: – numer, pod którym akt został wpisany do repertorium A, – imię i nazwisko notariusza, który sporządził akt, a w przypadku gdy akt sporządziła osoba wyznaczona do zastępstwa notariusza lub upoważniona do dokonywania czynności notarialnych – również imię i nazwisko tej osoby,
     - **c)** numer księgi wieczystej nieruchomości objętej umową i adres tej nieruchomości,
     - **d)** rodzaj obiektu będącego przedmiotem umowy przez wskazanie lokalu mieszkalnego albo domu jednorodzinnego,
     - **e)** cenę lokalu mieszkalnego albo domu jednorodzinnego objętego umową,
     - **f)** powierzchnię użytkową lokalu mieszkalnego albo domu jednorodzinnego objętego umową oraz powierzchnię nieruchomości zabudowanej domem jednorodzinnym objętym umową,
-    - **g)** liczbę pokoi lokalu mieszkalnym albo domu jednorodzinnym objętym umową,
+    - **g)** liczbę pokoi w lokalu mieszkalnym albo domu jednorodzinnym objętym umową,
     - **h)** kondygnację nadziemną budynku, na której znajduje się lokal mieszkalny objęty umową,
-    - **i)** liczbę kondygnacji nadziemnych i liczbę kondygnacji podziemnych budynku, którym znajduje się lokal mieszkalny objęty umową,
-    - **j)** termin zakończenia robót budowlanych dotyczących budynku, którym znajduje się lokal mieszkalny objęty umową, albo domu jednorodzinnego objętego umową,
-    - **k)** dane identyfikujące nabywcę: przypadku osoby fizycznej, która zawiera umowę celu niezwiązanym bezpośrednio jej działalnością gospodarczą lub zawodową numer PESEL nabywcy, a jeżeli taki numer nie został nadany datę i numerze dokumentu potwierdzającego tożsamość osoby będącej nabywcą.
+    - **i)** liczbę kondygnacji nadziemnych i liczbę kondygnacji podziemnych budynku, w którym znajduje się lokal mieszkalny objęty umową,
+    - **j)** termin zakończenia robót budowlanych dotyczących budynku, w którym znajduje się lokal mieszkalny objęty umową, albo domu jednorodzinnego objętego umową,
+    - **k)** dane identyfikujące nabywcę: – w przypadku osoby fizycznej, która zawiera umowę w celu niezwiązanym bezpośrednio z jej działalnością gospodarczą lub zawodową – numer PESEL nabywcy, a jeżeli taki numer nie został nadany – datę urodzenia, serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument, – w przypadkach innych niż przypadek wskazany w tiret pierwszym – numer identyfikacji podatkowej (NIP) nabywcy, a jeżeli taki numer nie został nadany – nazwę państwa rejestracji i właściwego rejestru oraz numer i datę rejestracji;
 
-4. W przypadku umowy, której mowa ust. pkt 4, jeżeli nabywcy została udzielona bonifikata, której mowa 68 ust. albo 3 albo 198k ust. albo 2 ustawy dnia 21 sierpnia 1997 r. gospodarce nieruchomościami (Dz. U. 2024 r. poz. 1145, 1222, 1717 i 1881 oraz 2025 r. poz. 1077 i 1080), przez cenę lokalu mieszkalnego albo domu jednorodzinnego objętego umową rozumie się cenę niepomniejszoną wysokość bonifikaty.
+- **3)** w przypadku umów, o których mowa w ust. 1 pkt 4 – dane i informacje w zakresie określonym w pkt 2 lit. a–h oraz k, przy czym w przypadku tych umów, jeżeli nabywcy nie został nadany numer PESEL, zamiast tego numeru są gromadzone i przetwarzane dane i informacje o dacie urodzenia i państwie urodzenia nabywcy oraz o serii i numerze dokumentu potwierdzającego tożsamość osoby będącej nabywcą.
+
+4. W przypadku umowy, o której mowa w ust. 1 pkt 4, jeżeli nabywcy została udzielona bonifikata, o której mowa w art. 68 ust. 1 albo 3 albo art. 198k ust. 1 albo 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080), przez cenę lokalu mieszkalnego albo domu jednorodzinnego objętego umową rozumie się cenę niepomniejszoną o wysokość bonifikaty.
 
 **Art. 56c.** Dane i informacje:
 
+- **1)** w zakresie umów, o których mowa w art. 2 ust. 1, są przekazywane do Portalu DOM przez Ubezpieczeniowy Fundusz Gwarancyjny niezwłocznie, nie później niż w terminie 7 dni od dnia przekazania tych danych lub informacji do Ewidencji;
+- **2)** o umowach, o których mowa w art. 3 pkt 1 i art. 4 pkt 1, są przekazywane do Portalu DOM za pośrednictwem prowadzonego przez Ubezpieczeniowy Fundusz Gwarancyjny systemu teleinformatycznego przez dewelopera albo przedsiębiorcę innego niż deweloper niezwłocznie, nie później niż w terminie 7 dni od dnia zawarcia umowy, której te dane lub informacje dotyczą;
+- **3)** o umowach, o których mowa w art. 56b ust. 1 pkt 4, są udostępniane do prowadzonego przez Ubezpieczeniowy Fundusz Gwarancyjny systemu teleinformatycznego przez Szefa Krajowej Administracji Skarbowej.
+
 **Art. 56d.**
 
-1. Ubezpieczeniowy Fundusz Gwarancyjny gromadzi i przetwarza dane i informacje ramach prowadzenia Portalu DOM celu:
+1. Ubezpieczeniowy Fundusz Gwarancyjny gromadzi i przetwarza dane i informacje w ramach prowadzenia Portalu DOM w celu:
 
-- **1)** upubliczniania informacji statystycznych dotyczących cen transakcyjnych odnoszących się lokali mieszkalnych i domów jednorodzinnych, którym mowa 56f ust. 1;
-- **2)** udostępniania informacji statystycznych służących prowadzeniu polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli, którym mowa 56e ust. 1;
-- **3)** zapewnienia poprawności informacji statystycznych przeznaczonych upublicznienia lub udostępnienia;
+- **1)** upubliczniania informacji statystycznych dotyczących cen transakcyjnych odnoszących się do lokali mieszkalnych i domów jednorodzinnych, o którym mowa w art. 56f ust. 1;
+- **2)** udostępniania informacji statystycznych służących prowadzeniu polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli, o którym mowa w art. 56e ust. 1;
+- **3)** zapewnienia poprawności informacji statystycznych przeznaczonych do upublicznienia lub udostępnienia;
 - **4)** opracowywania na ich podstawie analiz statystycznych oraz upubliczniania tych analiz.
 
-2. W celu ustalenia numeru działki i identyfikatora działki na potrzeby upubliczniania informacji statystycznych dotyczących cen transakcyjnych odnoszących się lokali mieszkalnych i domów jednorodzinnych Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony wyszukiwania ksiąg wieczystych centralnej bazie danych ksiąg wieczystych na zasadach określonych 36 ustawy dnia 6 lipca 1982 r. księgach wieczystych i hipotece.
+2. W celu ustalenia numeru działki i identyfikatora działki na potrzeby upubliczniania informacji statystycznych dotyczących cen transakcyjnych odnoszących się do lokali mieszkalnych i domów jednorodzinnych Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony do wyszukiwania ksiąg wieczystych w centralnej bazie danych ksiąg wieczystych na zasadach określonych w art. 36 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece.
 
-3. Ubezpieczeniowy Fundusz Gwarancyjny oraz osoby nim zatrudnione, którym związku prowadzeniem Portalu DOM udzielono danych i informacji objętych ochroną danych osobowych lub tajemnicą skarbową lub je ujawniono, mogą wykorzystać te dane i informacje wyłącznie celu realizacji zadań określonych niniejszym rozdziale.
+3. Ubezpieczeniowy Fundusz Gwarancyjny oraz osoby w nim zatrudnione, którym w związku z prowadzeniem Portalu DOM udzielono danych i informacji objętych ochroną danych osobowych lub tajemnicą skarbową lub je ujawniono, mogą wykorzystać te dane i informacje wyłącznie w celu realizacji zadań określonych w niniejszym rozdziale.
 
-4. Ubezpieczeniowy Fundusz Gwarancyjny usuwa dane i informacje gromadzone i przetwarzane ramach prowadzenia Portalu DOM najpóźniej:
+4. Ubezpieczeniowy Fundusz Gwarancyjny usuwa dane i informacje gromadzone i przetwarzane w ramach prowadzenia Portalu DOM najpóźniej:
 
-- **1)** po upływie 3 lat od dnia przekazania lub udostępnienia danych i informacji Portalu DOM przypadku:
-    - **a)** numeru PESEL nabywcy, wyjątkiem informacji roku urodzenia i płci nabywcy ustalonych na podstawie tego numeru,
+- **1)** po upływie 3 lat od dnia przekazania lub udostępnienia danych i informacji do Portalu DOM – w przypadku:
+    - **a)** numeru PESEL nabywcy, z wyjątkiem informacji o roku urodzenia i płci nabywcy ustalonych na podstawie tego numeru,
     - **b)** dnia i miesiąca urodzenia oraz serii, numeru i nazwy dokumentu potwierdzającego tożsamość nabywcy;
 
-- **2)** po upływie 6 lat od dnia przekazania lub udostępnienia danych i informacji Portalu DOM przypadku:
+- **2)** po upływie 6 lat od dnia przekazania lub udostępnienia danych i informacji do Portalu DOM – w przypadku:
     - **a)** numeru identyfikacji podatkowej (NIP) nabywcy,
     - **b)** właściwego rejestru oraz numeru i daty rejestracji nabywcy,
     - **c)** numeru księgi wieczystej nieruchomości objętej umową,
-    - **d)** danych i informacji, których mowa 50 ust. 2 pkt 5 lit. oraz 56b ust. 3 pkt 2 lit. b;
+    - **d)** danych i informacji, o których mowa w art. 50 ust. 2 pkt 5 lit. o oraz art. 56b ust. 3 pkt 2 lit. b;
 
+- **3)** z dniem zakończenia działania Portalu DOM – w przypadku pozostałych danych i informacji.
+
+**Art. 56e.**
+
+1. Ubezpieczeniowy Fundusz Gwarancyjny generuje lub opracowuje informacje statystyczne, o których mowa w art. 56a ust. 2 pkt 2, i udostępnia je:
+
+- **1)** Prezesowi Rady Ministrów,
+- **2)** ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa,
+- **3)** ministrowi właściwemu do spraw wewnętrznych,
+- **4)** ministrowi właściwemu do spraw finansów publicznych,
 - **5)** Szefowi Krajowej Administracji Skarbowej, dyrektorowi izby administracji skarbowej, naczelnikowi urzędu skarbowego lub naczelnikowi urzędu celno-skarbowego,
 - **6)** Prezesowi Urzędu Ochrony Konkurencji i Konsumentów,
 - **7)** Prezesowi Narodowego Banku Polskiego,
-- **8)** Prezesowi Głównego Urzędu Statystycznego celu realizacji ustawowych zadań tych podmiotów, przyczyniających się prowadzenia polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli.
+- **8)** Prezesowi Głównego Urzędu Statystycznego – w celu realizacji ustawowych zadań tych podmiotów, przyczyniających się do prowadzenia polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli.
 
-2. Informacje statystyczne, których mowa 56a ust. 2 pkt 2, są generowane lub opracowywane i udostępniane postaci, która uniemożliwia identyfikację nabywcy i nieruchomości.
+2. Informacje statystyczne, o których mowa w art. 56a ust. 2 pkt 2, są generowane lub opracowywane i udostępniane w postaci, która uniemożliwia identyfikację nabywcy i nieruchomości.
 
-3. Informacje statystyczne, których mowa 56a ust. 2 pkt 2, są generowane lub opracowywane i udostępniane podmiotowi, którym mowa ust. 1, na jego wniosek złożony postaci elektronicznej opatrzony kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+3. Informacje statystyczne, o których mowa w art. 56a ust. 2 pkt 2, są generowane lub opracowywane i udostępniane podmiotowi, o którym mowa w ust. 1, na jego wniosek złożony w postaci elektronicznej opatrzony kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
-4. Informacje statystyczne, których mowa 56a ust. 2 pkt 2, są udostępniane podmiotowi, którym mowa ust. pkt 1–7, postaci elektronicznej za pomocą środków komunikacji elektronicznej na zasadach określonych ustawie dnia 17 lutego 2005 r. informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. 2024 r. poz. 1557 i 1717 oraz 2025 r. poz. 1006, 1019, 1158 i 1301).
+4. Informacje statystyczne, o których mowa w art. 56a ust. 2 pkt 2, są udostępniane podmiotowi, o którym mowa w ust. 1 pkt 1–7, w postaci elektronicznej za pomocą środków komunikacji elektronicznej na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019, 1158 i 1301).
 
-5. Udostępnianie informacji statystycznych, których mowa 56a ust. 2 pkt 2, podmiotowi, którym mowa ust. pkt 8, odbywa się na zasadach określonych 13 ust. ustawy dnia 29 czerwca 1995 r. statystyce publicznej (Dz. U. 2024 r. poz. 1799).
+5. Udostępnianie informacji statystycznych, o których mowa w art. 56a ust. 2 pkt 2, podmiotowi, o którym mowa w ust. 1 pkt 8, odbywa się na zasadach określonych w art. 13 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799).
 
 **Art. 56f.**
 
-1. Ubezpieczeniowy Fundusz Gwarancyjny upublicznia Portalu DOM, tym na mapie, następujące informacje statystyczne:
+1. Ubezpieczeniowy Fundusz Gwarancyjny upublicznia w Portalu DOM, w tym na mapie, następujące informacje statystyczne:
 
-- **1)** średnich cenach transakcyjnych lokali mieszkalnych albo domów jednorodzinnych lub średnich cenach transakcyjnych m powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych, lub medianach tych cen transakcyjnych oraz
-- **2)** liczbie transakcji, których pochodzą ceny transakcyjne uwzględnione przy generowaniu informacji, których mowa pkt możliwością dokonania przez użytkownika Portalu DOM dyspozycji ich zawężenia wybranej lokalizacji, charakterystyki nieruchomości lub transakcji oraz okresu nie dłuższego niż dwa lata poprzedzające dokonanie dyspozycji takiego zawężenia.
+- **1)** o średnich cenach transakcyjnych lokali mieszkalnych albo domów jednorodzinnych lub średnich cenach transakcyjnych m powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych, lub medianach tych cen transakcyjnych oraz
+- **2)** o liczbie transakcji, z których pochodzą ceny transakcyjne uwzględnione przy generowaniu informacji, o których mowa w pkt 1 – z możliwością dokonania przez użytkownika Portalu DOM dyspozycji ich zawężenia do wybranej lokalizacji, charakterystyki nieruchomości lub transakcji oraz okresu nie dłuższego niż dwa lata poprzedzające dokonanie dyspozycji takiego zawężenia.
 
-2. Położenie nieruchomości celu upublicznienia na mapie informacji statystycznych, których mowa ust. 1, jest ustalane przez Ubezpieczeniowy Fundusz Gwarancyjny szczególności na podstawie numeru działki i identyfikatora działki.
+2. Położenie nieruchomości w celu upublicznienia na mapie informacji statystycznych, o których mowa w ust. 1, jest ustalane przez Ubezpieczeniowy Fundusz Gwarancyjny w szczególności na podstawie numeru działki i identyfikatora działki.
 
-3. Przy generowaniu informacji statystycznych, których mowa ust. 1, nie uwzględnia się danych i informacji umowach przenoszących na nabywcę własność nieruchomości, jeżeli te umowy zostały zawarte celu realizacji roszczeń wynikających umów, których mowa 2 ust. 1.
+3. Przy generowaniu informacji statystycznych, o których mowa w ust. 1, nie uwzględnia się danych i informacji o umowach przenoszących na nabywcę własność nieruchomości, jeżeli te umowy zostały zawarte w celu realizacji roszczeń wynikających z umów, o których mowa w art. 2 ust. 1.
 
-4. Informacje statystyczne, których mowa ust. 1, są upubliczniane, jeżeli dla łącznie wybranych przez użytkownika Portalu DOM lokalizacji, okresu i charakterystyki nieruchomości lub transakcji są spełnione łącznie następujące warunki:
+4. Informacje statystyczne, o których mowa w ust. 1, są upubliczniane, jeżeli dla łącznie wybranych przez użytkownika Portalu DOM lokalizacji, okresu i charakterystyki nieruchomości lub transakcji są spełnione łącznie następujące warunki:
 
 - **1)** liczba lokali mieszkalnych albo domów jednorodzinnych jest nie niższa niż sześć;
-- **2)** liczba różnych nabywców jest nie niższa niż sześć. 3 pkt lub 4 pkt 1, przekazuje dane lub informacje po upływie terminu, którym mowa 56c pkt 2, podlega karze grzywny.”;
-- **8)** 61 otrzymuje brzmienie: „Art. 61. 1. Jeżeli deweloperem jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą 57–60c ponosi osoba fizyczna działająca imieniu lub interesie dewelopera ramach uprawnienia lub obowiązku jego reprezentowania lub podejmowania jego imieniu decyzji.
+- **2)** liczba różnych nabywców jest nie niższa niż sześć.
 
-2. Jeżeli przedsiębiorcą innym niż deweloper jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą 60a–60c ponosi osoba fizyczna działająca imieniu lub interesie przedsiębiorcy innego niż deweloper ramach uprawnienia lub obowiązku jego reprezentowania lub podejmowania jego imieniu decyzji.”;
+5. Upublicznianie informacji statystycznych zgodnie z ust. 1 następuje w sposób, który uniemożliwia identyfikację nabywców i nieruchomości.”;
 
-- **9)** 63 po wyrazach „o których mowa 58” dodaje się wyrazy „i 60c”.
+- **7)** po art. 60 dodaje się art. 60a–60c w brzmieniu: „Art. 60a. Kto, będąc obowiązanym do przekazania do Portalu DOM danych i informacji o umowach, o których mowa w art. 3 pkt 1 lub art. 4 pkt 1, przekazuje dane lub informacje niezgodne ze stanem faktycznym, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
-**Art. 2.** W ustawie dnia 6 lipca 1982 r. księgach wieczystych i hipotece (Dz. U. 2025 r. poz. 341) 36 ust. 8 pkt 25 otrzymuje brzmienie: „25) Ubezpieczeniowy Fundusz Gwarancyjny celach, których mowa 51 ust. 4 pkt 2 i 56d ust. 2 ustawy dnia 20 maja 2021 r. ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;”.
+**Art. 60b.** Kto, będąc obowiązanym do przekazania do Portalu DOM danych i informacji o umowach, o których mowa w art. 3 pkt 1 lub art. 4 pkt 1, nie spełnia tego obowiązku, podlega grzywnie.
 
-**Art. 3.** W ustawie dnia 14 lutego 1991 r. Prawo notariacie (Dz. U. 2024 r. poz. 1001 oraz 2025 r. poz. 479) wprowadza się następujące zmiany:
+**Art. 60c.** Kto, będąc obowiązanym do przekazania do Portalu DOM danych i informacji o umowach, o których mowa w art. 3 pkt 1 lub art. 4 pkt 1, przekazuje dane lub informacje po upływie terminu, o którym mowa w art. 56c pkt 2, podlega karze grzywny.”;
 
-**Art. 6.** W ustawie dnia marca 2018 r. przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. 2025 r. poz. 644) 72:
+- **8)** art. 61 otrzymuje brzmienie: „Art. 61. 1. Jeżeli deweloperem jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w art. 57–60c ponosi osoba fizyczna działająca w imieniu lub w interesie dewelopera w ramach uprawnienia lub obowiązku do jego reprezentowania lub podejmowania w jego imieniu decyzji.
+
+2. Jeżeli przedsiębiorcą innym niż deweloper jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w art. 60a–60c ponosi osoba fizyczna działająca w imieniu lub w interesie przedsiębiorcy innego niż deweloper w ramach uprawnienia lub obowiązku do jego reprezentowania lub podejmowania w jego imieniu decyzji.”;
+
+- **9)** w art. 63 po wyrazach „o których mowa w art. 58” dodaje się wyrazy „i art. 60c”.
+
+**Art. 2.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341) w art. 36 w ust. 8 pkt 25 otrzymuje brzmienie: „25) Ubezpieczeniowy Fundusz Gwarancyjny w celach, o których mowa w art. 51 ust. 4 pkt 2 i art. 56d ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;”.
+
+**Art. 3.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001 oraz z 2025 r. poz. 479) wprowadza się następujące zmiany:
+
+- **1)** art. 37a otrzymuje brzmienie: „Art. 37a. Rada izby notarialnej przekazuje niezwłocznie Krajowej Radzie Notarialnej aktualne informacje o notariuszach, zastępcach notarialnych oraz notariuszach emerytowanych, o ile zostali wyznaczeni do zastępstwa notariusza. Informacja obejmuje imię i nazwisko notariusza, zastępcy notarialnego lub notariusza emerytowanego, numer PESEL, numer identyfikacji podatkowej (NIP), o ile posiada, właściwą izbę notarialną, datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu, datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu, datę wyznaczenia notariusza emerytowanego do zastępstwa notariusza lub datę zakończenia zastępstwa, a także informacje o zawieszeniu w czynnościach zawodowych.”;
+- **2)** w art. 41a:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Krajowa Rada Notarialna na podstawie informacji przekazywanych przez rady izb notarialnych prowadzi w systemie teleinformatycznym listę notariuszy, zastępców notarialnych oraz notariuszy emerytowanych, jeżeli zostali wyznaczeni do zastępstwa notariusza, która zawiera:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL;
+- **3)** numer identyfikacji podatkowej (NIP), o ile posiada;
+- **4)** właściwą izbę notarialną;
+- **5)** datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu;
+- **6)** datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu;
+- **7)** datę wyznaczenia notariusza emerytowanego do zastępstwa notariusza lub datę zakończenia zastępstwa;
+- **8)** informacje o zawieszeniu w czynnościach zawodowych.”,
+    - **b)** w § 2 wyrazy „weryfikacji notariuszy i zastępców notarialnych” zastępuje się wyrazami „weryfikacji notariuszy, zastępców notarialnych oraz notariuszy emerytowanych, jeżeli zostali wyznaczeni do zastępstwa notariusza”,
+    - **c)** w § 3a wyrazy „weryfikacji notariuszy i zastępców notarialnych” zastępuje się wyrazami „weryfikacji notariuszy, zastępców notarialnych oraz notariuszy emerytowanych, jeżeli zostali wyznaczeni do zastępstwa notariusza”.
+
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) w art. 297e w § 1 w pkt 8 po wyrazach „rynkiem finansowym” dodaje się przecinek i dodaje się pkt 9 w brzmieniu: „9) Ubezpieczeniowemu Funduszowi Gwarancyjnemu – w zakresie i na zasadach określonych w rozdziale 8a ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695 oraz z 2025 r. poz. 758, 1077, 1167 i 1669)”.
+
+**Art. 5.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2025 r. poz. 367, 1019, 1174, 1175 i 1176) w art. 98a w ust. 1 wyrazy „w rozdziale 8” zastępuje się wyrazami „w rozdziałach 8 i 8a”.
+
+**Art. 6.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2025 r. poz. 644) w art. 72:
+
+- **1)** w ust. 6 pkt 7a otrzymuje brzmienie: „7a) przedmiot transakcji, a jeżeli przedmiotem transakcji jest nieruchomość także:
+    - **a)** adres lub miejsce położenia oraz numer księgi wieczystej nieruchomości,
+    - **b)** powierzchnię nieruchomości,
+    - **c)** powierzchnię użytkową lokalu mieszkalnego albo domu jednorodzinnego,
+    - **d)** liczbę pokoi w lokalu mieszkalnym albo domu jednorodzinnym,
+    - **e)** kondygnację nadziemną budynku, na której znajduje się lokal mieszkalny – w przypadku informacji przekazywanych przez instytucje obowiązane, o których mowa w art. 2 ust. 1 pkt 13;”;
+
+- **2)** dodaje się ust. 7 w brzmieniu: „7. Jeżeli informacja, o której mowa w ust. 6 pkt 7a lit. b–e, nie jest znana instytucji obowiązanej lub możliwa do ustalenia przez instytucję obowiązaną, instytucja obowiązana przekazuje tę informację na podstawie oświadczenia strony dokonującej przeniesienia własności lub innego prawa do nieruchomości na nabywcę.”.
 
 **Art. 7.**
 
-1. W przypadku danych i informacji, których mowa 56b ust. 3 pkt ustawy zmienianej 1, przekazaniu Portalu Danych Obrocie Mieszkaniami, zwanego dalej „Portalem DOM”, podlegają dane i informacje zakresie umów, których mowa 2 ust. ustawy zmienianej 1, zawartych od dnia wejścia życie pkt 3 i 4 niniejszej ustawy.
+1. W przypadku danych i informacji, o których mowa w art. 56b ust. 3 pkt 1 ustawy zmienianej w art. 1, przekazaniu do Portalu Danych o Obrocie Mieszkaniami, zwanego dalej „Portalem DOM”, podlegają dane i informacje w zakresie umów, o których mowa w art. 2 ust. 1 ustawy zmienianej w art. 1, zawartych od dnia wejścia w życie art. 1 pkt 3 i 4 niniejszej ustawy.
 
-2. Dane i informacje zakresie umów, których mowa ust. 1, podlegające obowiązkowi przekazania Ewidencji Deweloperskiego Funduszu Gwarancyjnego przed dniem wejścia życie niniejszej ustawy podlegają przekazaniu Portalu DOM terminie 14 dni od dnia wejścia życie niniejszej ustawy.
+2. Dane i informacje w zakresie umów, o których mowa w ust. 1, podlegające obowiązkowi przekazania do Ewidencji Deweloperskiego Funduszu Gwarancyjnego przed dniem wejścia w życie niniejszej ustawy podlegają przekazaniu do Portalu DOM w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 8.** W przypadku danych i informacji umowach, których mowa 3 pkt 1, 4 pkt oraz 56b ust. pkt 4 ustawy zmienianej 1, przekazaniu Portalu DOM podlegają dane i informacje umowach zawartych od dnia wejścia życie niniejszej ustawy.
+**Art. 8.** W przypadku danych i informacji o umowach, o których mowa w art. 3 pkt 1, art. 4 pkt 1 oraz art. 56b ust. 1 pkt 4 ustawy zmienianej w art. 1, przekazaniu do Portalu DOM podlegają dane i informacje o umowach zawartych od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 9.** Ustawa wchodzi życie po upływie 16 miesięcy od dnia ogłoszenia, wyjątkiem:
+**Art. 9.** Ustawa wchodzi w życie po upływie 16 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 1, 2 i pkt 6 w zakresie art. 56a ust. 1 i ust. 2 pkt 1 oraz art. 5, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 3 i 4, które wchodzą w życie po upływie 10 miesięcy od dnia ogłoszenia;
+- **3)** art. 3, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia;
+- **4)** art. 6, który wchodzi w życie z dniem 30 czerwca 2026 r.
+
 

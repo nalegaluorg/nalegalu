@@ -8,10 +8,10 @@ pos: 1439
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie ustawy o godle, barwach i hymnie
+# o zmianie ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 28 lipca 2005 r.*
 
@@ -27,27 +27,42 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051721439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1439/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie (Dz.U. Nr 7, poz. 18, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej (Dz.U. Nr 7, poz. 18, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** na końcu tytułu ustawy dodaje się wyrazy „oraz o pieczęciach państwowych”;
+- **2)** w art. 3:
+    - **a)** dodaje się ust. 1a i 1b w brzmieniu: „1a. Na budynkach siedzib podmiotów, o których mowa w art. 2a, umieszcza się urzędowe tablice z godłem Rzeczypospolitej Polskiej oraz urzędowe tablice z napisem nazwy tego podmiotu.
+
+1b. Urzędowa tablica z godłem ma kształt owalny w układzie pionowym, obwódkę biało-czerwoną i tło szare, na którym znajduje się godło Rzeczypospolitej Polskiej. Urzędowa tablica z napisem jest prostokątna w układzie poziomym, ma tło czerwone, a litery napisu białe.”,
+
+- **b)** dodaje się ust. 4 w brzmieniu: „4. Rada Ministrów określi, w drodze rozporządzenia, wzory oraz wymiary urzędowych tablic z godłem Rzeczypospolitej Polskiej i napisem, a także sposób ich umieszczania na budynkach siedzib podmiotów, o których mowa w art. 2a, biorąc pod uwagę czytelność i estetykę tablic oraz funkcjonalność ich umieszczania.”;
+- **3)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Prezydent Rzeczypospolitej Polskiej może, w drodze rozporządzenia, wprowadzić żałobę narodową na terytorium Rzeczypospolitej Polskiej. Rozporządzenie w szczególności powinno określać przyczyny wprowadzenia oraz czas trwania żałoby narodowej, uwzględniając uwarunkowania kulturowe i historyczne oraz przyjęte w tym zakresie zwyczaje.
+
+2. W czasie trwania żałoby narodowej flagę państwową opuszcza się do połowy masztu.”;
+
+- **4)** dodaje się art. 16a–16d w brzmieniu: „Art. 16a. Pieczęcią Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 77 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Rzeczpospolita Polska”.
 
 **Art. 16b.**
 
-1. Pieczęcią jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Polskiej, a otoku napis „Sejm Polskiej”.
+1. Pieczęcią Sejmu Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Sejm Rzeczypospolitej Polskiej”.
 
-2. Pieczęcią Senatu jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Polskiej, a otoku napis „Senat Polskiej”.
+2. Pieczęcią Senatu Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Senat Rzeczypospolitej Polskiej”.
 
-3. Pieczęcią Prezydenta jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Polskiej, a otoku napis „Prezydent Polskiej”.
+3. Pieczęcią Prezydenta Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Prezydent Rzeczypospolitej Polskiej”.
 
 **Art. 16c.**
 
-1. Urzędową pieczęcią jest metalowa, tłoczona pieczęć okrągła zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a otoku napis odpowiadający nazwie podmiotu uprawnionego do używania urzędowej pieczęci.
+1. Urzędową pieczęcią jest metalowa, tłoczona pieczęć okrągła zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis odpowiadający nazwie podmiotu uprawnionego do używania urzędowej pieczęci.
 
-2. Urzędową pieczęcią gminy, powiatu, samorządu województwa lub związku jednostek samorządu terytorialnego może być również pieczęć, o której mowa ust. 1, zawierająca pośrodku, zamiast wizerunku orła ustalonego dla godła Polskiej, odpowiednio herb gminy, powiatu lub województwa. Odcisk pieczęci z herbem nie może być umieszczany na dokumentach urzędowych sprawach z zakresu administracji rządowej.
+2. Urzędową pieczęcią gminy, powiatu, samorządu województwa lub związku jednostek samorządu terytorialnego może być również pieczęć, o której mowa w ust. 1, zawierająca pośrodku, zamiast wizerunku orła ustalonego dla godła Rzeczypospolitej Polskiej, odpowiednio herb gminy, powiatu lub województwa. Odcisk pieczęci z herbem nie może być umieszczany na dokumentach urzędowych w sprawach z zakresu administracji rządowej.
 
-3. Urzędowej pieczęci używają podmioty, o których mowa art. 2a.
+3. Urzędowej pieczęci używają podmioty, o których mowa w art. 2a.
 
-**Art. 16d.** Rada Ministrów określi, drodze rozporządzenia, wymiary oraz sposób używania i strzeżenia urzędowych pieczęci, a także tryb zamawiania i sposób wyrobu urzędowych pieczęci oraz nadzór nad ich wyrobem, uwzględniając szczególności konieczność zapobieżenia utracie urzędowych pieczęci przez uprawnione podmioty.”.
+**Art. 16d.** Rada Ministrów określi, w drodze rozporządzenia, wymiary oraz sposób używania i strzeżenia urzędowych pieczęci, a także tryb zamawiania i sposób wyrobu urzędowych pieczęci oraz nadzór nad ich wyrobem, uwzględniając w szczególności konieczność zapobieżenia utracie urzędowych pieczęci przez uprawnione podmioty.”.
 
-**Art. 2.** Akty prawne wydane celu wykonania dekretu, o którym mowa art. 3, zachowują moc do czasu wydania rozporządzeń wymaganych przez ustawę, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą.
+**Art. 2.** Akty prawne wydane w celu wykonania dekretu, o którym mowa w art. 3, zachowują moc do czasu wydania rozporządzeń wymaganych przez ustawę, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Traci moc dekret z dnia 7 grudnia 1955 r. o godle i barwach Rzeczypospolitej Ludowej oraz o pieczęciach państwowych (Dz.U. Nr 47, poz. 314, z 1956 r. Nr 7, poz. 43, z 1957 r. Nr 10, poz. 42, z 1980 r. Nr 7, poz. 18, z 1985 r. Nr 23, poz. 100, z 1989 r. Nr 34, poz. 178, z 1990 r. Nr 34, poz. 199 oraz z 1998 r. Nr 162, poz. 1126). Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** Traci moc dekret z dnia 7 grudnia 1955 r. o godle i barwach Polskiej Rzeczypospolitej Ludowej oraz o pieczęciach państwowych (Dz.U. Nr 47, poz. 314, z 1956 r. Nr 7, poz. 43, z 1957 r. Nr 10, poz. 42, z 1980 r. Nr 7, poz. 18, z 1985 r. Nr 23, poz. 100, z 1989 r. Nr 34, poz. 178, z 1990 r. Nr 34, poz. 199 oraz z 1998 r. Nr 162, poz. 1126).
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

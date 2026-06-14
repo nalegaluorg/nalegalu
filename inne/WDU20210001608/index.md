@@ -8,10 +8,10 @@ pos: 1608
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 września 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1608 ROZPORZĄDZENIE MINISTRA KULTURY, DZIEDZICTWA NARODOWEGO I SPORTU z dnia 27 sierpnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,39 +25,38 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001608) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1608/text.pdf) |
 
-Poz. 1608 ROZPORZĄDZENIE MINISTRA KULTURY, DZIEDZICTWA NARODOWEGO I SPORTU z dnia 27 sierpnia 2021 r.
-zmieniające rozporządzenie sprawie odznak, wyróżnień oraz nagród pieniężnych za osiągnięcia działalności zakresie sportu Na podstawie art. 35 ust. 4 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2020 r. poz. 1133) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Sportu i Turystyki z dnia 16 listopada 2017 r. sprawie odznak, wyróżnień oraz nagród pieniężnych za osiągnięcia działalności zakresie sportu (Dz. U. poz. 2171, z 2018 r. poz. 2338 oraz z 2020 r.
+zmieniające rozporządzenie w sprawie odznak, wyróżnień oraz nagród pieniężnych za osiągnięcia w działalności w zakresie sportu Na podstawie art. 35 ust. 4 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2020 r. poz. 1133) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Sportu i Turystyki z dnia 16 listopada 2017 r. w sprawie odznak, wyróżnień oraz nagród pieniężnych za osiągnięcia w działalności w zakresie sportu (Dz. U. poz. 2171, z 2018 r. poz. 2338 oraz z 2020 r.
 poz. 2394) wprowadza się następujące zmiany:
-1) § 2 pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 brzmieniu: „5) osiągnięcia sportowe.”;
-2) § 3:
+1) w § 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) osiągnięcia sportowe.”;
+2) w § 3:
 a) ust. 1 otrzymuje brzmienie: „1. Odznaka posiada trzy stopnie:
 1) I stopień – złoto;
 2) II stopień – srebro;
 3) III stopień – brąz.”,
-b) dodaje się ust. 3 i 4 brzmieniu: „3. Odznakę wyższego stopnia można otrzymać po upływie co najmniej 5 lat od nadania odznaki bezpośrednio niższego stopnia.
-4. Przepisu ust. 3 nie stosuje się do zawodnika, który zajął pierwsze, drugie albo trzecie miejsce na igrzyskach olimpijskich, igrzyskach paraolimpijskich, igrzyskach głuchych, mistrzostwach świata, Europy lub Polski, ani do trenera tego zawodnika.”;
+b) dodaje się ust. 3 i 4 w brzmieniu: „3. Odznakę wyższego stopnia można otrzymać po upływie co najmniej 5 lat od nadania odznaki bezpośrednio niższego stopnia.
+4. Przepisu ust. 3 nie stosuje się do zawodnika, który zajął pierwsze, drugie albo trzecie miejsce na igrzyskach olimpijskich, igrzyskach paraolimpijskich, igrzyskach głuchych, w mistrzostwach świata, Europy lub Polski, ani do trenera tego zawodnika.”;
 3) uchyla się § 4;
 4) § 5 otrzymuje brzmienie: „§ 5. 1. Wniosek o przyznanie odznaki, zwany dalej „wnioskiem”, składa się do ministra właściwego do spraw kultury fizycznej nie później niż 90 dni przed terminem wręczenia odznaki proponowanym przez wnioskodawcę, z zastrzeżeniem § 3 ust. 3 i 4.
-Dziennik Ustaw – 2 – Poz. 1608
 2. Wniosek kandydata do przyznania odznaki, zwanego dalej „kandydatem”, zawiera:
 1) dane osobowe:
 a) imiona i nazwisko,
 b) datę urodzenia;
 2) informacje o okresach:
 a) aktywności sportowej,
-b) pracy zawodowej sporcie lub
-c) działalności społecznej sporcie;
+b) pracy zawodowej w sporcie lub
+c) działalności społecznej w sporcie;
 3) informacje o odznaczeniach i odznakach posiadanych przez kandydata (rodzaj, stopień i rok przyznania);
-4) uzasadnienie przedstawiające wybitne osiągnięcia kandydata działalności zakresie sportu oraz znaczenie tych osiągnięć i podjętej aktywności dla rozwoju danej dyscypliny sportu, a przypadku wniosku o przyznanie odznaki wyższego stopnia opis osiągnięć kandydata z ostatnich 5 lat;
+4) uzasadnienie przedstawiające wybitne osiągnięcia kandydata w działalności w zakresie sportu oraz znaczenie tych osiągnięć i podjętej aktywności dla rozwoju danej dyscypliny sportu, a w przypadku wniosku o przyznanie odznaki wyższego stopnia opis osiągnięć kandydata z ostatnich 5 lat;
 5) proponowany termin wręczenia odznaki;
 6) wskazanie wnioskodawcy, jego adres, datę sporządzenia wniosku i podpis wnioskodawcy.
-3. Jeżeli wniosek nie spełnia wymagań, o których mowa ust. 2, wnioskodawcę wzywa się do usunięcia braków formalnych wyznaczonym terminie, nie krótszym niż 7 dni od dnia otrzymania wezwania, z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie wniosku bez rozpatrzenia.
+3. Jeżeli wniosek nie spełnia wymagań, o których mowa w ust. 2, wnioskodawcę wzywa się do usunięcia braków formalnych w wyznaczonym terminie, nie krótszym niż 7 dni od dnia otrzymania wezwania, z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie wniosku bez rozpatrzenia.
 4. Wniosek pozostawia się bez rozpatrzenia, jeżeli:
 1) we wniosku nie wskazano adresu wnioskodawcy i nie ma możliwości ustalenia tego adresu na podstawie posiadanych danych albo
-2) wnioskodawca nie usunie braków formalnych terminie, o którym mowa ust. 3.
-5. Minister właściwy do spraw kultury fizycznej rozstrzyga o przyznaniu odznaki, biorąc pod uwagę treść wniosku, szczególności uzasadnienie, o którym mowa ust. 2 pkt 4.”;
-5) § 6 ust. 1 wyrazy „z metalu” zastępuje się wyrazami „z tombaku”;
+2) wnioskodawca nie usunie braków formalnych w terminie, o którym mowa w ust. 3.
+5. Minister właściwy do spraw kultury fizycznej rozstrzyga o przyznaniu odznaki, biorąc pod uwagę treść wniosku, w szczególności uzasadnienie, o którym mowa w ust. 2 pkt 4.”;
+5) w § 6 w ust. 1 wyrazy „z metalu” zastępuje się wyrazami „z tombaku”;
 6) uchyla się § 8.
-§ 2. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Kultury, Dziedzictwa Narodowego i Sportu: wz. J. Sellin
 

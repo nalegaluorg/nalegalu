@@ -8,7 +8,7 @@ pos: 1060
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o samorządzie województwa oraz ustawy - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw

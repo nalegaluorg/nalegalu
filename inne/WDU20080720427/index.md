@@ -8,7 +8,7 @@ pos: 427
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 44/3/A/2008 WYROK z dnia 16 kwietnia 2008 r.

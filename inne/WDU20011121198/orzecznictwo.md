@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej.*
 
 Łącznie: **139** orzeczeń
-(pominięto 87 orzeczeń sądów rejonowych)
+(pominięto 88 orzeczeń sądów rejonowych)
 
 ## art. 1 (23)
 

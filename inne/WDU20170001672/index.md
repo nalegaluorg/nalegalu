@@ -8,10 +8,10 @@ pos: 1672
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 września 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1672 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 25 sierpnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1672/text.pdf) |
 
-Poz. 1672 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 25 sierpnia 2017 r.
 zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z zakazem ich przywozu z Unii Europejskiej do Federacji Rosyjskiej Na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
-z 2016 r. poz. 1512 i 2048 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 23 października 2014 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z zakazem ich przywozu z Unii Europejskiej do Federacji Rosyjskiej (Dz. U.
+z 2016 r. poz. 1512 i 2048 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 23 października 2014 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z zakazem ich przywozu z Unii Europejskiej do Federacji Rosyjskiej (Dz. U.
 poz. 1468 oraz z 2015 r. poz. 209 i 1677) wprowadza się następujące zmiany:
 1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z zakazem ich przywozu z Unii Europejskiej do Federacji Rosyjskiej”;
 2) w § 1 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Agencję Restrukturyzacji i Modernizacji Rolnictwa”;

@@ -4384,9 +4384,12 @@ saos_id|date|court|case_number|type|score|saos_url
 76635|1994-09-21|SN|III ARN 43/94|Postanowienie|69|https://www.saos.org.pl/judgments/76635
 76591|1994-07-07|SN|III ARN 42/94|Postanowienie|69|https://www.saos.org.pl/judgments/76591
 76590|1994-07-07|SN|III ARN 41/94|Postanowienie|69|https://www.saos.org.pl/judgments/76590
+545235|2026-03-30|SO|V ACa 662/17|Wyrok|56|https://www.saos.org.pl/judgments/545235
+546782|2026-02-20|SO|I ACa 1216/24|Wyrok|56|https://www.saos.org.pl/judgments/546782
 541993|2026-02-05|SO|III AUa 311/25|Wyrok|56|https://www.saos.org.pl/judgments/541993
 543913|2026-01-21|SO|I ACa 732/24|Wyrok|56|https://www.saos.org.pl/judgments/543913
 543381|2026-01-21|SO|I ACa 813/24|Wyrok|56|https://www.saos.org.pl/judgments/543381
+546679|2025-12-01|SO|I AGa 173/23|Wyrok|56|https://www.saos.org.pl/judgments/546679
 544880|2025-11-28|SO|I ACa 740/23|Wyrok|56|https://www.saos.org.pl/judgments/544880
 543915|2025-11-07|SO|I AGa 74/24|Wyrok|56|https://www.saos.org.pl/judgments/543915
 538173|2025-10-29|SO|I ACa 1145/23|Wyrok|56|https://www.saos.org.pl/judgments/538173
@@ -4395,6 +4398,7 @@ saos_id|date|court|case_number|type|score|saos_url
 535190|2025-09-12|SO|VII AGa 7/25|Wyrok|56|https://www.saos.org.pl/judgments/535190
 542238|2025-06-03|SO|I ACa 1048/21|Wyrok|56|https://www.saos.org.pl/judgments/542238
 541177|2025-06-02|SO|I ACa 587/23|Wyrok|56|https://www.saos.org.pl/judgments/541177
+546659|2025-05-28|SO|I ACa 3051/23|Wyrok|56|https://www.saos.org.pl/judgments/546659
 542239|2025-05-22|SO|I ACa 3024/24|Wyrok|56|https://www.saos.org.pl/judgments/542239
 541084|2025-05-22|SO|I ACa 1611/24|Wyrok|56|https://www.saos.org.pl/judgments/541084
 542515|2025-05-14|SO|I AGa 11/22|Wyrok|56|https://www.saos.org.pl/judgments/542515
@@ -4405,6 +4409,7 @@ saos_id|date|court|case_number|type|score|saos_url
 537986|2025-03-18|SO|I ACa 1365/22|Wyrok|56|https://www.saos.org.pl/judgments/537986
 525483|2025-03-18|SO|I ACa 2308/24|Wyrok|56|https://www.saos.org.pl/judgments/525483
 525487|2025-03-13|SO|I ACa 615/24|Wyrok|56|https://www.saos.org.pl/judgments/525487
+546738|2025-03-12|SO|I ACa 2013/23|Wyrok|56|https://www.saos.org.pl/judgments/546738
 536595|2025-02-26|SO|I ACa 1251/22|Wyrok|56|https://www.saos.org.pl/judgments/536595
 534706|2025-02-26|SO|III AUa 231/24|Wyrok|56|https://www.saos.org.pl/judgments/534706
 531373|2025-02-26|SO|III AUa 246/23|Wyrok|56|https://www.saos.org.pl/judgments/531373
@@ -4440,6 +4445,7 @@ saos_id|date|court|case_number|type|score|saos_url
 521102|2024-07-24|SO|I ACa 2533/23|Wyrok|56|https://www.saos.org.pl/judgments/521102
 521096|2024-07-24|SO|I ACa 1724/22|Wyrok|56|https://www.saos.org.pl/judgments/521096
 539251|2024-07-19|SO|I ACa 1748/23|Wyrok|56|https://www.saos.org.pl/judgments/539251
+546746|2024-07-10|SO|I ACa 392/23|Wyrok|56|https://www.saos.org.pl/judgments/546746
 494730|2024-07-10|SO|I ACa 918/22|Wyrok|56|https://www.saos.org.pl/judgments/494730
 522609|2024-07-08|SO|I ACa 551/24|Wyrok|56|https://www.saos.org.pl/judgments/522609
 504993|2024-07-03|SO|III AUa 443/23|Wyrok|56|https://www.saos.org.pl/judgments/504993
@@ -17931,6 +17937,7 @@ saos_id|date|court|case_number|type|score|saos_url
 7391|2012-12-05|SO|II Ca 549/12|Wyrok|40|https://www.saos.org.pl/judgments/7391
 7381|2012-11-22|SO|II Ca 513/12|Wyrok|40|https://www.saos.org.pl/judgments/7381
 117807|2011-03-29|KIO|KIO 578/11|Postanowienie|36|https://www.saos.org.pl/judgments/117807
+546590|2026-04-29|SO|IV Ca 248/17|Postanowienie|31|https://www.saos.org.pl/judgments/546590
 538646|2025-04-24|SO|XV Ca 2721/24|Postanowienie|31|https://www.saos.org.pl/judgments/538646
 520336|2024-10-29|SO|II Ca 860/22|Postanowienie|31|https://www.saos.org.pl/judgments/520336
 501608|2023-12-19|SO|II Ca 1164/23|Postanowienie|31|https://www.saos.org.pl/judgments/501608
@@ -17944,6 +17951,7 @@ saos_id|date|court|case_number|type|score|saos_url
 492328|2022-04-14|SO|II Ca 2150/21|Postanowienie|31|https://www.saos.org.pl/judgments/492328
 457570|2022-01-20|SO|II Ca 1234/21|Postanowienie|31|https://www.saos.org.pl/judgments/457570
 454868|2021-12-31|SO|II Ca 789/21|Postanowienie|31|https://www.saos.org.pl/judgments/454868
+547060|2021-11-10|SO|II Ca 3192/19|Postanowienie|31|https://www.saos.org.pl/judgments/547060
 448850|2021-07-20|SO|II Ca 1574/19|Postanowienie|31|https://www.saos.org.pl/judgments/448850
 455694|2021-06-30|SO|XV Ca 130/19|Postanowienie|31|https://www.saos.org.pl/judgments/455694
 448867|2021-06-29|SO|II Ca 900/20|Postanowienie|31|https://www.saos.org.pl/judgments/448867

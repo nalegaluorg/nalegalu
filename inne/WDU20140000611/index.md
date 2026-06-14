@@ -1,0 +1,51 @@
+---
+title: Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 lutego 2014 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie rejonów wrażliwych pod względem gospodarczym lub środowiskowym
+address: WDU20140000611
+eli: DU/2014/611
+publisher: DU
+year: 2014
+pos: 611
+act_type: Obwieszczenie
+status: "nieobowiązujący - uchylona podstawa prawna"
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 611 OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 28 lutego 2014 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2014 poz. 611 |
+| ISAP | WDU20140000611 |
+| Typ aktu | Obwieszczenie |
+| Status | nieobowiązujący - uchylona podstawa prawna |
+| W mocy | tak |
+| Data ogłoszenia | 2014-02-28 |
+| Data wydania | 2014-05-14 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000611) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/611/text.pdf) |
+
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie rejonów wrażliwych pod względem gospodarczym lub środowiskowym
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie rejonów wrażliwych pod względem gospodarczym lub środowiskowym (Dz. U. Nr 39, poz. 212), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2012 r. zmieniającym rozporządzenie w sprawie rejonów wrażliwych pod względem gospodarczym lub środowiskowym (Dz. U. poz. 283).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2012 r. zmieniającego rozporządzenie w sprawie rejonów wrażliwych pod względem gospodarczym lub środowiskowym (Dz. U. poz. 283), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”.
+Minister Rolnictwa i Rozwoju Wsi: wz. K. Gurbiel ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 11 marca 2010 r.
+w sprawie rejonów wrażliwych pod względem gospodarczym lub środowiskowym Na podstawie art. 17 ust. 1 pkt 2 lit. d ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2012 r. poz. 1164, z późn. zm. ) zarządza się, co następuje:
+§ 1. Ustala się rejony wrażliwe pod względem gospodarczym lub środowiskowym, o których mowa w art. 7 ust. 2b pkt 2 lit. b i ust. 2c ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego, na terenie których znajduje się siedziba stada samic z gatunków:
+1) bydło domowe (Bos taurus) – określone w załączniku nr 1 do rozporządzenia;
+2) owca domowa (Ovis aries) – określone w załączniku nr 2 do rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem 15 marca 2010 r.
+REJONY WRAŻLIWE POD WZGLĘDEM GOSPODARCZYM LUB ŚRODOWISKOWYM, NA TERENIE KTÓRYCH ZNAJDUJE SIĘ SIEDZIBA STADA SAMIC Z GATUNKU BYDŁO DOMOWE (BOS TAURUS)
+1) województwo lubelskie;
+2) województwo małopolskie;
+3) województwo podkarpackie;
+4) województwo śląskie;
+5) województwo świętokrzyskie.
+REJONY WRAŻLIWE POD WZGLĘDEM GOSPODARCZYM LUB ŚRODOWISKOWYM, NA TERENIE KTÓRYCH ZNAJDUJE SIĘ SIEDZIBA STADA SAMIC Z GATUNKU OWCA DOMOWA (OVIS ARIES)
+1) województwo dolnośląskie;
+2) województwo łódzkie;
+3) województwo małopolskie;
+4) województwo opolskie;
+5) województwo podkarpackie;
+6) województwo śląskie;
+7) województwo świętokrzyskie.
+

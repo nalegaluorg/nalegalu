@@ -8,10 +8,10 @@ pos: 2472
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 grudnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2472 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 19 grudnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002472) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2472/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 19 grudnia 2019 r.
-w sprawie wykonywania niektórych uprawnień przez żołnierzy Żandarmerii Wojskowej Na podstawie art. 22 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2019 r. poz. 518 i 730) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wykonywania niektórych uprawnień przez żołnierzy Żandarmerii Wojskowej Na podstawie art. 22 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2019 r. poz. 518 i 730) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób wykonywania przez żołnierzy Żandarmerii Wojskowej:
 a) legitymowania w celu ustalenia tożsamości,
 b) sprawdzania posiadania uprawnień określonych w odrębnych przepisach,
@@ -39,8 +39,9 @@ g) zwracania się o niezbędną pomoc do innych jednostek organizacyjnych niż w
 3) wzory dokumentów wykorzystywanych w ramach wykonywania uprawnień, o których mowa w pkt 1.
 § 2. 1. Żołnierz Żandarmerii Wojskowej, przystępując do wykonania czynności służbowych związanych z realizacją uprawnień, o których mowa w § 1 pkt 1, podaje przyczynę podjęcia czynności służbowych, a na żądanie podaje podstawę prawną podjęcia czynności.
 2. Uprawnienia, o których mowa w § 1 pkt 1, wykonywane w zależności od stopnia wojskowego, przysługują w toku wykonywania czynności służbowych w odniesieniu do:
-1) wszystkich żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierzy sił zbrojnych państw obcych, przebywających na terytorium Rzeczypospolitej Polskiej, oraz członków ich personelu cywilnego, w związku z pełnieniem obowiązków służbowych, o ile ratyfikowana umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, nie stanowi inaczej żołnierzom Żandarmerii Wojskowej w korpusie oficerów zawodowych;
-2) żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierzy sił zbrojnych państw obcych, przebywających na terytorium Rzeczypospolitej Polskiej, oraz członków ich personelu cywilnego, w związku z pełnieniem obowiązków służbowych, o ile ratyfikowana umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, nie stanowi inaczej, do stopnia wojskowego kapitana (kapitana marynarki) włącznie żołnierzom Żandarmerii Wojskowej w korpusie pod3. Ograniczeń, o których mowa w ust. 2, nie stosuje się:
+1) wszystkich żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierzy sił zbrojnych państw obcych, przebywających na terytorium Rzeczypospolitej Polskiej, oraz członków ich personelu cywilnego, w związku z pełnieniem obowiązków służbowych, o ile ratyfikowana umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, nie stanowi inaczej – żołnierzom Żandarmerii Wojskowej w korpusie oficerów zawodowych;
+2) żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierzy sił zbrojnych państw obcych, przebywających na terytorium Rzeczypospolitej Polskiej, oraz członków ich personelu cywilnego, w związku z pełnieniem obowiązków służbowych, o ile ratyfikowana umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, nie stanowi inaczej, do stopnia wojskowego kapitana (kapitana marynarki) włącznie – żołnierzom Żandarmerii Wojskowej w korpusie podoficerów zawodowych i szeregowych zawodowych.
+3. Ograniczeń, o których mowa w ust. 2, nie stosuje się:
 1) wobec żołnierza, którego zachowanie wskazuje w sposób oczywisty, że jest pod wpływem alkoholu, środka odurzającego lub substancji psychotropowej albo innego podobnie działającego środka;
 2) podczas kontroli ruchu drogowego;
 3) podczas sprawdzania uprawnień do posiadania broni prywatnej oraz jej przechowywania;
@@ -62,7 +63,7 @@ g) zwracania się o niezbędną pomoc do innych jednostek organizacyjnych niż w
 § 4. Żołnierz Żandarmerii Wojskowej dokumentuje w książce dowódcy patrolu lub notatce służbowej datę, godzinę, miejsce i przyczynę legitymowania lub sprawdzania posiadania uprawnień oraz imię, nazwisko, numer PESEL, datę urodzenia, miejsce zamieszkania osoby legitymowanej lub sprawdzanej, a w przypadku żołnierza podaje się dodatkowo jego stopień i jednostkę wojskową.
 § 5. 1. Żołnierz Żandarmerii Wojskowej albo oficer dyżurny jednostki organizacyjnej Żandarmerii Wojskowej albo oficer inspekcyjny garnizonu albo oficer dyżurny jednostki wojskowej, podejmując decyzję o zatrzymaniu w przypadkach określonych w art. 18 ustawy i w przepisach innych ustaw:
 1) wykonują sprawdzenie prewencyjne;
-2) pouczają zatrzymanego żołnierza o przysługujących mu uprawnieniach, zgodnie z przepisami rozporządzenia wydanego na podstawie art. 244 § 5 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2018 r.
+2) pouczają zatrzymanego żołnierza o przysługujących mu uprawnieniach, zgodnie z przepisami rozporządzenia wydanego na podstawie art. 244 § 5 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2018 r.
 poz. 1987 i 2399 oraz z 2019 r. poz. 150, 679, 1255 i 1694);
 3) sporządzają protokół zatrzymania;
 4) doręczają zatrzymanemu kopię protokołu zatrzymania.
@@ -98,8 +99,8 @@ poz. 1987 i 2399 oraz z 2019 r. poz. 150, 679, 1255 i 1694);
 6) podpis żołnierza i właściciela rzeczy lub jego reprezentanta.
 3. W przypadkach uzasadnionych koniecznością niezwłocznego działania, w szczególności dla ratowania życia lub zdrowia ludzkiego albo mienia lub prowadzenia pościgu za sprawcą przestępstwa, można odstąpić od wydania pokwitowania.
 § 13. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Obrony Narodowej: wz. T. Zdzikot z dnia 19 grudnia 2019 r. (poz.
-....) Załącznik nr 1 WZÓR MELDUNEK O DOPROWADZENIU Na podstawie art. 17 ust. 1 pkt 5 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2019 r. poz. 518 i 730) w dniu .........................................................., o godz. ..................................................................
+Minister Obrony Narodowej: wz. T. Zdzikot Załączniki do rozporządzenia z dnia 19 grudnia 2019 r. (poz.
+....) Załącznik nr 1 WZÓR WZÓR MELDUNEK O DOPROWADZENIU Na podstawie art. 17 ust. 1 pkt 5 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2019 r. poz. 518 i 730) w dniu .........................................................., o godz. ..................................................................
 .......................................................................................................................................................
 doprowadził ..................................................................................................................................
 z ....................................................................................................................................................
@@ -113,7 +114,7 @@ Poszkodowani i świadkowie zdarzenia, które było przyczyną zatrzymania: .....
 .......................................................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
-WZÓR Doprowadzanemu odebrano wojskowy dokument osobisty, inny dokument .......................................................................................................................................................
+Doprowadzanemu odebrano wojskowy dokument osobisty, inny dokument .......................................................................................................................................................
 oraz przedmioty: ..........................................................................................................................
 .......................................................................................................................................................
 .......................................................................................................................................................
@@ -136,7 +137,7 @@ Uwagi organu, do którego nastąpiło doprowadzenie: ...........................
 ...................................................................... ...............................................
 (podpis osoby, do której nastąpiło doprowadzenie) (podpis doprowadzającego) ––––––––––––––––– * Niepotrzebne skreślić.
 
-## Załącznik nr 2 — WZÓR …………………… ……………………, dnia ……………...
+## Załącznik nr 2 — WZÓR WZÓR …………………… ……………………, dnia ……………...
 
 (pieczęć nagłówkowa) PROTOKÓŁ ZATRZYMANIA ………………………………………………………………………………………………… (stopień, imię, nazwisko oraz funkcja pełniona przez osobę dokonującą zatrzymania) na podstawie art. 17 ust. 1 pkt 4 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2019 r. poz. 518 i 730) podjął decyzję o zatrzymaniu / zwolnieniu zatrzymanego / osadzeniu w izbie zatrzymań* …………………………………………………………………………………………………..
 …………………………………………………………………………………………………...
@@ -152,14 +153,14 @@ Zatrzymanemu odebrano następujące przedmioty: …………………………�
 Ze względu na niemożliwy/utrudniony* kontakt z zatrzymanym z powodu …………………..
 …………………………………………………………………………………………………...
 przedmioty wymienione wyżej odebrano zatrzymanemu w obecności osoby przybranej: ………………………………………………………………………………………………… .
-WZÓR Zatrzymanego poinformowano o podstawie prawnej i przyczynie zatrzymania oraz pouczono o prawie do:
+Zatrzymanego poinformowano o podstawie prawnej i przyczynie zatrzymania oraz pouczono o prawie do:
 1) informacji o przyczynie zatrzymania i do bycia wysłuchanym (art. 244 § 2 Kpk);
 2) złożenia lub odmowy złożenia oświadczenia w swojej sprawie (art. 244 § 3 Kpk);
 3) niezwłocznego kontaktu z adwokatem lub radcą prawnym i bezpośredniej z nim rozmowy (art. 245 § 1 Kpk);
-4) jeżeli zatrzymany nie zna wystarczająco języka polskiego prawie do korzystania z bezpłatnej pomocy tłumacza (art. 72 § 1 Kpk);
+4) jeżeli zatrzymany nie zna wystarczająco języka polskiego – prawie do korzystania z bezpłatnej pomocy tłumacza (art. 72 § 1 Kpk);
 5) otrzymania odpisu protokołu zatrzymania (art. 244 § 3 Kpk);
 6) do zawiadomienia osoby najbliższej lub innej wskazanej osoby, jak również pracodawcy, szkoły, uczelni, dowódcy oraz osoby zarządzającej przedsiębiorstwem zatrzymanego albo przedsiębiorstwem, za które jest on odpowiedzialny, o zatrzymaniu (art. 245 § 2, art. 261 § 1, § 2 i § 3 Kpk). O zatrzymaniu żołnierz Żandarmerii Wojskowej zawiadamia organ prowadzący przeciwko oskarżonemu postępowanie w innej sprawie, o ile o nim wie (art. 261 § 2a Kpk);
-7) jeżeli zatrzymany nie jest obywatelem polskim prawie do kontaktu z urzędem konsularnym lub z przedstawicielstwem dyplomatycznym państwa, którego jest obywatelem. Jeżeli nie posiada żadnego obywatelstwa prawo do kontaktu z przedstawicielem państwa, w którym zatrzymany mieszka na stałe (art. 612 § 2 Kpk). Jeżeli przewiduje to umowa konsularna między Polską a państwem, którego zatrzymany jest obywatelem, właściwy urząd konsularny lub przedstawicielstwo dyplomatyczne zostaną poinformowane o zatrzymaniu również bez jego prośby;
+7) jeżeli zatrzymany nie jest obywatelem polskim – prawie do kontaktu z urzędem konsularnym lub z przedstawicielstwem dyplomatycznym państwa, którego jest obywatelem. Jeżeli nie posiada żadnego obywatelstwa – prawo do kontaktu z przedstawicielem państwa, w którym zatrzymany mieszka na stałe (art. 612 § 2 Kpk). Jeżeli przewiduje to umowa konsularna między Polską a państwem, którego zatrzymany jest obywatelem, właściwy urząd konsularny lub przedstawicielstwo dyplomatyczne zostaną poinformowane o zatrzymaniu również bez jego prośby;
 8) wniesienia do sądu zażalenia na zatrzymanie w terminie 7 dni od dnia zatrzymania.
 W zażaleniu można się domagać zbadania zasadności, legalności oraz prawidłowości zatrzymania (art. 246 § 1 Kpk);
 9) natychmiastowego zwolnienia, jeżeli przyczyny zatrzymania przestały istnieć albo po upływie 48 godzin od chwili zatrzymania, o ile zatrzymany nie zostanie w tym czasie przekazany do sądu z wnioskiem o zastosowanie tymczasowego aresztowania.
@@ -169,33 +170,19 @@ W wypadku przekazania do sądu zatrzymany zostanie zwolniony, jeżeli w ciągu 2
 Zatrzymany oświadczył: ………………………………………………………………………..
 …………………………………………………………………………………………………...
 …………………………………………………………………………………………………. .
-………………………………….. …………………………………… O zatrzymaniu powiadomiono osoby wskazane przez zatrzymanego: ………………………....
-…………………………………………………………………………………………………...
-…………………………………………………………………………………………………...
-O zatrzymaniu zawiadomiono dowódcę jednostki wojskowej (dyrektora, szefa, komendanta, kierownika, prezesa): …………………………………………………………………………………………………...
-oraz prokuratora do spraw wojskowych …………………………………………………………………………………………………*.
-Zatrzymanego skierowano na badania lekarskie do ……………………………………………, który stwierdził brak przeciwwskazań zdrowotnych do zatrzymania i osadzenia w izbie zatrzymań.
-Zatrzymanemu udzielono pomocy lekarskiej polegającej na …………………………………….
-…………………………………………………………………………………………………… …………………………………………………………………………………………………. .
-Zatrzymanemu doręczono kopię protokołu zatrzymania w dniu …………….., o godz. ……….
-…………………………………………… …………………………………………… (podpis zatrzymanego) (podpis osoby dokonującej zatrzymania) Zatrzymany ………………………………………………….. w dniu ………………………… o godz. …………. został przyjęty do ……………………………………. w dniu ………… .
-Zatrzymanego zwolniono z ……………………………………………………… /przekazano konwojowi* ……………………………………………………………………………………..
-w dniu ……………………., o godz. ………….. oraz wydano przedmioty odebrane w toku zatrzymania / bez wydania przedmiotów odebranych w toku zatrzymania*.
-O zwolnieniu zatrzymanego powiadomiono ...............................................................................
-..................................................................................................................................................... .
-…………………………………… (podpis komendanta-profosa) –––––––––––––––––– O zatrzymaniu powiadomiono osoby wskazane przez zatrzymanego: ………………………....
-…………………………………………………………………………………………………...
-…………………………………………………………………………………………………...
-O zatrzymaniu zawiadomiono dowódcę jednostki wojskowej (dyrektora, szefa, komendanta, kierownika, prezesa): …………………………………………………………………………………………………...
-oraz prokuratora do spraw wojskowych …………………………………………………………………………………………………*.
-Zatrzymanego skierowano na badania lekarskie do ……………………………………………, który stwierdził brak przeciwwskazań zdrowotnych do zatrzymania i osadzenia w izbie zatrzymań.
-Zatrzymanemu udzielono pomocy lekarskiej polegającej na …………………………………….
-…………………………………………………………………………………………………… …………………………………………………………………………………………………. .
-Zatrzymanemu doręczono kopię protokołu zatrzymania w dniu …………….., o godz. ……….
-…………………………………………… …………………………………………… (podpis zatrzymanego) (podpis osoby dokonującej zatrzymania) Zatrzymany ………………………………………………….. w dniu ………………………… o godz. …………. został przyjęty do ……………………………………. w dniu ………… .
-Zatrzymanego zwolniono z ……………………………………………………… /przekazano konwojowi* ……………………………………………………………………………………..
-w dniu ……………………., o godz. ………….. oraz wydano przedmioty odebrane w toku zatrzymania / bez wydania przedmiotów odebranych w toku zatrzymania*.
-O zwolnieniu zatrzymanego powiadomiono ...............................................................................
-..................................................................................................................................................... .
-…………………………………… (podpis komendanta-profosa) ––––––––––––––––––
+………………………………….. …………………………………… O O zatrzymaniu zatrzymaniu powiadomiono powiadomiono osoby osoby wskazane wskazane przez przez zatrzymanego: zatrzymanego: ……………………….... ………………………....
+…………………………………………………………………………………………………... …………………………………………………………………………………………………...
+…………………………………………………………………………………………………... …………………………………………………………………………………………………...
+O O zatrzymaniu zatrzymaniu zawiadomiono zawiadomiono dowódcę dowódcę jednostki jednostki wojskowej wojskowej (dyrektora, (dyrektora, szefa, szefa, komendanta, komendanta, kierownika, kierownika, prezesa): prezesa): …………………………………………………………………………………………………... …………………………………………………………………………………………………...
+oraz oraz prokuratora prokuratora do do spraw spraw wojskowych wojskowych …………………………………………………………………………………………………*. …………………………………………………………………………………………………*.
+Zatrzymanego Zatrzymanego skierowano skierowano na na badania badania lekarskie lekarskie do do ……………………………………………, ……………………………………………, który który stwierdził stwierdził brak brak przeciwwskazań przeciwwskazań zdrowotnych zdrowotnych do do zatrzymania zatrzymania i i osadzenia osadzenia w w izbie izbie zatrzymań. zatrzymań.
+Zatrzymanemu Zatrzymanemu udzielono udzielono pomocy pomocy lekarskiej lekarskiej polegającej polegającej na na ……………………………………. …………………………………….
+…………………………………………………………………………………………………… …………………………………………………………………………………………………… …………………………………………………………………………………………………. …………………………………………………………………………………………………. . .
+Zatrzymanemu Zatrzymanemu doręczono doręczono kopię kopię protokołu protokołu zatrzymania zatrzymania w w dniu dniu …………….., …………….., o o godz. godz. ………. ……….
+…………………………………………… …………………………………………… …………………………………………… …………………………………………… (podpis (podpis zatrzymanego) zatrzymanego) (podpis (podpis osoby osoby dokonującej dokonującej zatrzymania) zatrzymania) Zatrzymany Zatrzymany ………………………………………………….. ………………………………………………….. w w dniu dniu ………………………… ………………………… o o godz. godz. …………. …………. został został przyjęty przyjęty do do ……………………………………. ……………………………………. w w dniu dniu ………… ………… . .
+Zatrzymanego Zatrzymanego zwolniono zwolniono z z ……………………………………………………… ……………………………………………………… /przekazano /przekazano konwojowi* konwojowi* …………………………………………………………………………………….. ……………………………………………………………………………………..
+w w dniu dniu ……………………., ……………………., o o godz. godz. ………….. ………….. oraz oraz wydano wydano przedmioty przedmioty odebrane odebrane w w toku toku zatrzymania zatrzymania / / bez bez wydania wydania przedmiotów przedmiotów odebranych odebranych w w toku toku zatrzymania*. zatrzymania*.
+O O zwolnieniu zwolnieniu zatrzymanego zatrzymanego powiadomiono powiadomiono ............................................................................... ...............................................................................
+..................................................................................................................................................... ..................................................................................................................................................... . .
+…………………………………… …………………………………… (podpis (podpis komendanta-profosa) komendanta-profosa) –––––––––––––––––– –––––––––––––––––– * * Niepotrzebne Niepotrzebne skreślić. skreślić.
 

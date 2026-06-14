@@ -8,10 +8,10 @@ pos: 575
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 maja 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 575 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 22 kwietnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000575) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/575/text.pdf) |
 
-Poz. 575 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 22 kwietnia 2013 r.
 w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn.
-zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa sposób ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego, zwanej dalej „Agencją”, podlegających wpłacie do budżetu państwa.
+zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego, zwanej dalej „Agencją”, podlegających wpłacie do budżetu państwa.
 § 2. 1. Przy ustalaniu nadwyżki finansowej Agencji uwzględnia się uzyskane dochody pochodzące ze źródeł innych niż budżet państwa i wydatki poniesione przez Agencję.
 2. Przy ustalaniu nadwyżki finansowej Agencji uwzględnia się środki finansowe Agencji zgromadzone na rachunkach bankowych na koniec danego roku budżetowego, z wyjątkiem środków pochodzących z budżetu państwa, dywidend i przychodów, o których mowa w art. 8 ust. 5 ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. Nr 163, poz. 1711, z późn. zm. ), zwanej dalej „ustawą”, oraz środków o ograniczonej możliwości dysponowania, które pochodzą z:
 1) zakładowego funduszu świadczeń socjalnych;

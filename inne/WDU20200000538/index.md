@@ -8,10 +8,10 @@ pos: 538
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 marca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 538 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 26 marca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000538) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/538/text.pdf) |
 
-Poz. 538 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 26 marca 2020 r.
 zmieniające rozporządzenie w sprawie podstaw programowych kształcenia w zawodach szkolnictwa artystycznego Na podstawie art. 46a ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, z późn.
-zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 14 sierpnia 2019 r. w sprawie podstaw programowych kształcenia w zawodach szkolnictwa artystycznego (Dz. U. poz. 1637) wprowadza się następujące zmiany:
+zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 14 sierpnia 2019 r. w sprawie podstaw programowych kształcenia w zawodach szkolnictwa artystycznego (Dz. U. poz. 1637) wprowadza się następujące zmiany:
 1) w załączniku nr 3 „Podstawa programowa kształcenia w zawodzie aktor cyrkowy” dodaje się zdanie wstępne wraz z wyliczeniem w brzmieniu: „Zawód aktor cyrkowy obejmuje następujące specjalności:
 1) akrobatyka;
 2) ekwilibrystyka;
@@ -43,7 +43,7 @@ c) gra na fagocie,
 d) gra na flecie,
 e) gra na fortepianie,
 f) gra na gitarze,
-g) gra na harfie pedałowej, Dziennik Ustaw – 2 – Poz. 538
+g) gra na harfie pedałowej,
 h) gra na klarnecie,
 i) gra na klawesynie,
 j) gra na kontrabasie,

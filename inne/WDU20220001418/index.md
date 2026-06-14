@@ -8,10 +8,10 @@ pos: 1418
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11441188 OBWIESZCZENIE MINISTRA AKTYWÓW PAŃSTWOWYCH z dnia 30 maja 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001418) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1418/text.pdf) |
 
-11441188 OBWIESZCZENIE MINISTRA AKTYWÓW PAŃSTWOWYCH z dnia 30 maja 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w sprawie ratownictwa górniczego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Energii z dnia 16 marca 2017 r. w sprawie ratownictwa górniczego (Dz. U. poz. 1052), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Aktywów Państwowych z dnia 19 czerwca 2020 r. zmieniającym rozporządzenie w sprawie ratownictwa górniczego (Dz. U. poz. 1091).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Aktywów Państwowych z dnia 19 czerwca 2020 r. zmieniającego rozporządzenie w sprawie ratownictwa górniczego (Dz. U. poz. 1091), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 13 marca 2020 r.”.
 Minister Aktywów Państwowych: J. Sasin ROZPORZĄDZENIE MINISTRA ENERGII z dnia 16 marca 2017 r.
-w sprawie ratownictwa górniczego Na podstawie art. 124 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072 i 1261) zarządza się, co następuje:
+w sprawie ratownictwa górniczego Na podstawie art. 124 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072 i 1261) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) organizację, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym;
 2) szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których szkolenia te są przeprowadzane przez przedsiębiorcę;
 3) szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego;
-4) sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym, w przypadku zawarcia umowy, o której mowa w art. 122 ust. 15 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, zwanej dalej „ustawą”;
+4) sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym, w przypadku zawarcia umowy, o której mowa w art. 122 ust. 15 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, zwanej dalej „ustawą”;
 5) przypadki, w których wykonuje się prace profilaktyczne;
 6) sposób prowadzenia akcji ratowniczych w zależności od rodzaju i natężenia zagrożeń występujących w zakładach górniczych.
 § 2. Przepisy rozporządzenia stosuje się do wszystkich rodzajów zakładów górniczych, z wyjątkiem przepisów rozdziałów 2–5, których nie stosuje się do zakładów górniczych wydobywających kopaliny metodą odkrywkową.
@@ -42,11 +42,12 @@ w sprawie ratownictwa górniczego Na podstawie art. 124 ustawy z dnia 9 czerwca 
 1) jednostka ratownictwa:
 a) podmiot zawodowo trudniący się ratownictwem górniczym, posiadający osobowość prawną oraz siedzibę na terytorium Rzeczypospolitej Polskiej albo
 b) służby ratownictwa górniczego przedsiębiorcy, wyodrębnione w strukturach przedsiębiorcy dla jego własnych potrzeb, spełniające wymagania niezbędne do wykonywania czynności w zakresie ratownictwa górniczego, w szczególności dysponujące zastępami ratowniczymi i pogotowiami specjalistycznymi oraz sprzętem niezbędnym do wykonywania zadań;
-2) ćwiczenia sprawdzające teoretyczne i praktyczne sprawdzenie posiadanych przez ratowników umiejętności w posługiwaniu się sprzętem ratowniczym lub w wykonywaniu prac ratowniczych;
-3) system łączności ratowniczej zestaw urządzeń i łączy przeznaczonych do szybkiej organizacji łączności pomiędzy bazą ratowniczą i zastępem ratowniczym, posiadający możliwość podłączenia do systemu łączności kierownika akcji ratowniczej;
-4) system niezwłocznego powiadamiania zestaw urządzeń i łączy służący do niezwłocznego wysyłania, do określonych w planie ratownictwa górniczego osób kierownictwa i dozoru ruchu zakładu górniczego, informacji o zaistnieniu określonego rodzaju zdarzeń za pomocą technicznych środków łączności;
-5) dyżurujący zastęp ratowniczy wyznaczony przez kierownika kopalnianej stacji ratownictwa górniczego lub kierownika jednostki ratownictwa zastęp ratowniczy, wyposażony w sprzęt umożliwiający natychmiastowy udział w akcji ratowniczej.
+2) ćwiczenia sprawdzające – teoretyczne i praktyczne sprawdzenie posiadanych przez ratowników umiejętności w posługiwaniu się sprzętem ratowniczym lub w wykonywaniu prac ratowniczych;
+3) system łączności ratowniczej – zestaw urządzeń i łączy przeznaczonych do szybkiej organizacji łączności pomiędzy bazą ratowniczą i zastępem ratowniczym, posiadający możliwość podłączenia do systemu łączności kierownika akcji ratowniczej;
+4) system niezwłocznego powiadamiania – zestaw urządzeń i łączy służący do niezwłocznego wysyłania, do określonych w planie ratownictwa górniczego osób kierownictwa i dozoru ruchu zakładu górniczego, informacji o zaistnieniu określonego rodzaju zdarzeń za pomocą technicznych środków łączności;
+5) dyżurujący zastęp ratowniczy – wyznaczony przez kierownika kopalnianej stacji ratownictwa górniczego lub kierownika jednostki ratownictwa zastęp ratowniczy, wyposażony w sprzęt umożliwiający natychmiastowy udział w akcji ratowniczej.
 § 4. Przedsiębiorca może zasięgać opinii związków zawodowych ratowników górniczych w przypadku organizowania stałej współpracy służb ratownictwa ze służbami ratownictwa innego przedsiębiorcy.
+§ 5. 1. Jednostką organizacyjną służby ratownictwa górniczego przedsiębiorcy jest drużyna ratownicza.
 2. W skład drużyny ratowniczej wchodzą:
 1) kierownik kopalnianej stacji ratownictwa górniczego;
 2) zastępcy kierownika kopalnianej stacji ratownictwa górniczego;
@@ -56,17 +57,17 @@ b) służby ratownictwa górniczego przedsiębiorcy, wyodrębnione w strukturach
 § 6. 1. Kierownik ruchu zakładu górniczego ustala liczbę osób wchodzących w skład drużyny ratowniczej i jej skład, uwzględniając zagrożenia występujące w zakładzie górniczym.
 2. W przypadkach uzasadnionych potrzebą zapewnienia bezpieczeństwa pracy w drużynie ratowniczej utrzymuje się specjalistyczne zastępy ratownicze do wykonywania w trakcie akcji ratowniczej oraz prac profilaktycznych czynności, które wymagają szczególnych umiejętności.
 § 7. 1. Liczba ratowników górniczych w drużynie ratowniczej podziemnego zakładu górniczego jest uzależniona od liczby osób przebywających w ciągu doby pod ziemią i wynosi nie mniej niż:
-1) 15 ratowników górniczych w przypadku zatrudnienia nie więcej niż 500 pracowników;
-2) 50 ratowników górniczych w przypadku zatrudnienia co najmniej 501 pracowników i nie więcej niż 2000 pracowników;
-3) 80 ratowników górniczych w przypadku zatrudnienia co najmniej 2001 pracowników.
+1) 15 ratowników górniczych – w przypadku zatrudnienia nie więcej niż 500 pracowników;
+2) 50 ratowników górniczych – w przypadku zatrudnienia co najmniej 501 pracowników i nie więcej niż 2000 pracowników;
+3) 80 ratowników górniczych – w przypadku zatrudnienia co najmniej 2001 pracowników.
 2. W zakładzie górniczym prowadzącym więcej niż jeden ruch zakładu górniczego liczba ratowników górniczych w każdym z tych ruchów musi spełniać wymagania określone w ust. 1.
 § 8. W zakładach górniczych wydobywających węglowodory albo w zakładach poszukujących węglowodorów utrzymuje się:
-1) w granicach lądu stałego co najmniej 2 zastępy ratownicze, a w przypadku występowania zagrożenia siarkowodorowego 4 zastępy ratownicze;
-2) w granicach obszarów morskich Rzeczypospolitej Polskiej co najmniej 2 zastępy ratownicze w każdym z obiektów wydobywczych zakładu górniczego albo zakładu poszukującego węglowodorów.
+1) w granicach lądu stałego – co najmniej 2 zastępy ratownicze, a w przypadku występowania zagrożenia siarkowodorowego – 4 zastępy ratownicze;
+2) w granicach obszarów morskich Rzeczypospolitej Polskiej – co najmniej 2 zastępy ratownicze w każdym z obiektów wydobywczych zakładu górniczego albo zakładu poszukującego węglowodorów.
 § 9. W zakładach górniczych wydobywających siarkę otworami wiertniczymi metodą wytapiania utrzymuje się nie mniej niż:
-1) 2 zastępy ratownicze w przypadku zatrudnienia do 100 pracowników;
-2) 4 zastępy ratownicze w przypadku zatrudnienia od 101 do 500 pracowników;
-3) 8 zastępów ratowniczych w przypadku zatrudnienia powyżej 500 pracowników.
+1) 2 zastępy ratownicze – w przypadku zatrudnienia do 100 pracowników;
+2) 4 zastępy ratownicze – w przypadku zatrudnienia od 101 do 500 pracowników;
+3) 8 zastępów ratowniczych – w przypadku zatrudnienia powyżej 500 pracowników.
 § 10. 1. Kierownik ruchu zakładu górniczego wyznacza kierownika kopalnianej lub zakładowej stacji ratownictwa górniczego i jego zastępców spośród osób kierownictwa ruchu zakładu górniczego lub wyższego dozoru ruchu tego zakładu, które odbyły kursy i szkolenia, o których mowa w § 55 ust. 1 pkt 1 i 4.
 2. Kierownikiem kopalnianej stacji ratownictwa górniczego albo kierownikiem zakładowej stacji ratownictwa górniczego w zakładach, o których mowa w § 8 i § 9, jest osoba kierownictwa lub wyższego dozoru ruchu zakładu górniczego:
 1) mająca doświadczenie w zakresie opanowywania zagrożeń w danej specjalności albo
@@ -84,8 +85,9 @@ b) sprawne działanie sprzętu stanowiącego wyposażenie kopalnianej lub zakła
 8) prowadzenie ewidencji:
 a) członków drużyny ratowniczej i dokumentowanie w niej badań lekarskich, ćwiczeń, dyżurów, szkoleń oraz udziału w akcjach ratowniczych,
 b) osób przeszkolonych w zakresie ratownictwa górniczego: kierowników akcji, kierowników akcji w obiekcie, kierowników sztabu akcji, a także osób niebędących ratownikami górniczymi.
+2. Kierownik ruchu zakładu górniczego potwierdza zapoznanie się z wynikami kontroli, o której mowa w ust. 1 pkt 6.
 3. W zakładach górniczych wydobywających kopaliny otworami wiertniczymi kierownik ruchu zakładu górniczego ustala sposób przeprowadzania kontroli na podstawie instrukcji producenta.
-§ 12. 1. Drużyną ratowniczą w podziemnym zakładzie górniczym kieruje kierownik kopalnianej stacji ratownictwa górniczego z co najmniej dwoma zastępcami, a w pozostałych rodzajach zakładów górniczych z co najmniej jednym zastępcą.
+§ 12. 1. Drużyną ratowniczą w podziemnym zakładzie górniczym kieruje kierownik kopalnianej stacji ratownictwa górniczego z co najmniej dwoma zastępcami, a w pozostałych rodzajach zakładów górniczych – z co najmniej jednym zastępcą.
 2. Kierownik kopalnianej stacji ratownictwa górniczego lub jeden z jego zastępców są ratownikami górniczymi.
 3. Funkcję kierownika kopalnianej stacji ratownictwa górniczego lub co najmniej jednego z jego zastępców pełni osoba, która:
 1) ma co najmniej pięcioletni staż ratownika górniczego;
@@ -95,7 +97,7 @@ b) osób przeszkolonych w zakresie ratownictwa górniczego: kierowników akcji, 
 2. W skład zastępu ratowniczego wchodzą:
 1) zastępowy;
 2) czterech ratowników górniczych, z których jeden wyznaczony przez zastępowego pełni dodatkowo funkcję zastępcy zastępowego;
-3) w podziemnych zakładach górniczych co najmniej jeden ratownik górniczy mający uprawnienia ratownika, o którym mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2021 r. poz. 2053 i 2459 oraz z 2022 r. poz. 974).
+3) w podziemnych zakładach górniczych – co najmniej jeden ratownik górniczy mający uprawnienia ratownika, o którym mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2021 r. poz. 2053 i 2459 oraz z 2022 r. poz. 974).
 3. Dokonywanie podziału zastępu ratowniczego biorącego udział w akcji ratowniczej jest niedozwolone.
 4. Zastępowego wyznacza kierownik ruchu zakładu górniczego na wniosek kierownika kopalnianej stacji ratownictwa górniczego.
 5. Zastępowy kieruje pracą zastępu ratowniczego. Jeżeli w trakcie prac profilaktycznych lub akcji ratowniczej zastępowy nie może pełnić swojej funkcji, obowiązki zastępowego przejmuje zastępca zastępowego.
@@ -155,7 +157,7 @@ b) osób przeszkolonych w zakresie ratownictwa górniczego: kierowników akcji, 
 § 23. 1. Osoby, o których mowa w § 18 ust. 1 pkt 1–3, biorą udział w ćwiczeniach specjalistycznych, szkoleniach i zgrupowaniach kondycyjno-szkoleniowych.
 2. Programy ćwiczeń specjalistycznych oraz programy kursów, o których mowa w § 19, w § 20 pkt 3 i w § 21 ust. 1 pkt 2 i 3, ustala kierownik jednostki ratownictwa górniczego.
 § 24. 1. Podziemny zakład górniczy posiada kopalnianą stację ratownictwa górniczego wyposażoną w sprzęt. W zakładach górniczych wydobywających kopaliny otworami wiertniczymi wyposażenie w sprzęt uzgadnia się z jednostką ratownictwa.
-2. Do projektowania, budowy lub przebudowy kopalnianej stacji ratownictwa górniczego stosuje się wymagania określone w Polskiej Normie PN-G-02010:1993 Kopalniane stacje ratownictwa górniczego zasady projektowania.
+2. Do projektowania, budowy lub przebudowy kopalnianej stacji ratownictwa górniczego stosuje się wymagania określone w Polskiej Normie PN-G-02010:1993 Kopalniane stacje ratownictwa górniczego – zasady projektowania.
 3. Do zakładowej stacji ratownictwa górniczego w zakładach górniczych wydobywających kopaliny otworami wiertniczymi stosuje się przepisy dotyczące kopalnianej stacji ratownictwa górniczego.
 § 25. 1. W kopalnianej stacji ratownictwa górniczego w podziemnym zakładzie górniczym znajdują się pomieszczenia przeznaczone do przechowywania, konserwacji i naprawy sprzętu ratowniczego, przeprowadzania szkolenia teoretycznego i praktycznego ratowników górniczych oraz grupowania ratowników górniczych zmobilizowanych do akcji ratowniczej.
 2. Kopalnianą stację ratownictwa górniczego sytuuje się w pobliżu szybu zjazdowego.
@@ -168,13 +170,13 @@ b) osób przeszkolonych w zakresie ratownictwa górniczego: kierowników akcji, 
 2. Sprzęt i przyrządy, o których mowa w ust. 1, oraz inne urządzenia niezbędne do prowadzenia akcji ratowniczej utrzymuje się w takim stanie, aby zapewniały w szczególności:
 1) skuteczne prowadzenie prac ratowniczych;
 2) bezpieczeństwo ludzi w trakcie likwidacji zagrożenia, zwłaszcza w trakcie wykonywania prac niebezpiecznych wymagających użycia sprzętu specjalistycznego.
-3. Szczegółowe wymagania w zakresie wyposażenia kopalnianej stacji ratownictwa górniczego i służby ratownictwa górniczego w zakładzie górniczym określa się w planie ratownictwa, uwzględniając rodzaj zagrożeń występujących w zakładzie górniczym, a w podziemnym zakładzie górniczym także liczbę pracowników zatrudnionych w ciągu doby pod ziemią.
+3. Szczegółowe wymagania w zakresie wyposażenia kopalnianej stacji ratownictwa górniczego i służby ratownictwa górniczego w zakładzie górniczym określa się w planie ratownictwa, uwzględniając rodzaj zagrożeń występujących w zakładzie górniczym, a w podziemnym zakładzie górniczym – także liczbę pracowników zatrudnionych w ciągu doby pod ziemią.
 4. Jeżeli zawarto umowę z podmiotem zawodowo trudniącym się ratownictwem górniczym, szczegółowe wymagania, o których mowa w ust. 3, określa się w uzgodnieniu z tym podmiotem.
 § 28. 1. Sprzęt ratowniczy przechowuje się i konserwuje w sposób określony w instrukcji producenta sprzętu ratowniczego, zapewniając możliwość natychmiastowego jego użycia.
-2. Aparaty regeneracyjne lub powietrzne butlowe oraz sprzęt ochrony układu oddechowego przystosowane do ewakuacji
+2. Aparaty regeneracyjne lub powietrzne butlowe oraz sprzęt ochrony układu oddechowego przystosowane do ewakuacji poszkodowanych przechowuje się w kopalnianych stacjach ratownictwa albo w punktach ratownictwa górniczego.
 3. Aparaty regeneracyjne lub powietrzne butlowe wydawane są przez mechaników sprzętu ratowniczego na polecenie kierownika kopalnianej stacji ratownictwa górniczego, jego zastępców albo kierownika akcji ratowniczej.
 4. Kierownik kopalnianej stacji ratownictwa górniczego powiadamia kierownika ruchu zakładu górniczego o każdym przypadku użycia aparatów regeneracyjnych lub powietrznych butlowych, a także o wypadku zaistniałym w trakcie ich użycia.
-5. W razie zaistnienia wypadku podczas używania aparatu regeneracyjnego lub powietrznego butlowego oraz sprzętu ochrony układu oddechowego, kierownik kopalnianej stacji ratownictwa górniczego zabezpiecza używane aparaty w szczelnym opakowaniu, a w przypadku użycia aparatu regeneracyjnego zabezpiecza trzy sztuki nieużywanych i zaplombowanych pochłaniaczy CO tej samej partii, serii i daty produkcji, jakich użyto w aparacie używanym podczas wypadku.
+5. W razie zaistnienia wypadku podczas używania aparatu regeneracyjnego lub powietrznego butlowego oraz sprzętu ochrony układu oddechowego, kierownik kopalnianej stacji ratownictwa górniczego zabezpiecza używane aparaty w szczelnym opakowaniu, a w przypadku użycia aparatu regeneracyjnego – zabezpiecza trzy sztuki nieużywanych i zaplombowanych pochłaniaczy CO tej samej partii, serii i daty produkcji, jakich użyto w aparacie używanym podczas wypadku.
 6. W zakładach górniczych, o których mowa w § 8 i § 9, używających filtropochłaniaczy, zabezpiecza się filtropochłaniacz wraz z maską.
 § 29. Konserwację sprzętu ratowniczego przeprowadza mechanik sprzętu ratowniczego po każdorazowym jego użyciu, a także z częstotliwością określoną w instrukcji producenta.
 § 30. 1. Sprzęt i przyrządy, o których mowa w § 27 ust. 1, oznakowuje się symbolem zakładu górniczego i kolejnym numerem zgodnym z numerem zamieszczonym w ewidencji sprzętu ratowniczego.
@@ -189,7 +191,7 @@ b) osób przeszkolonych w zakresie ratownictwa górniczego: kierowników akcji, 
 3. Utrzymywanie dyżurujących zastępów ratowniczych w podziemnym zakładzie górniczym innym niż wymieniony w ust. 1 jest wymagane, jeżeli wynika to z planu ratownictwa górniczego.
 4. Dyżurującym zastępom ratowniczym w podziemnych zakładach górniczych kierownik ruchu zakładu górniczego zapewnia opiekę lekarską.
 5. Na zmianach niewydobywczych dla co najmniej dwóch podziemnych zakładów górniczych lub zakładów górniczych prowadzących więcej niż jeden ruch mogą być utrzymywane dyżury nie mniej niż dwóch zastępów ratowniczych, na warunkach ustalonych w planie ratownictwa górniczego, dla których:
-1) zatrudnia się na każdej zmianie co najmniej jednego ratownika górniczego przewodnika posiadającego wiedzę o zakładzie górniczym lub ruchu w zakładzie górniczym prowadzącym więcej niż jeden ruch, mechanika sprzętu ratowniczego i osobę dozoru ruchu będącą ratownikiem górniczym;
+1) zatrudnia się na każdej zmianie co najmniej jednego ratownika górniczego – przewodnika posiadającego wiedzę o zakładzie górniczym lub ruchu w zakładzie górniczym prowadzącym więcej niż jeden ruch, mechanika sprzętu ratowniczego i osobę dozoru ruchu będącą ratownikiem górniczym;
 2) utrzymuje się, w trakcie dyżuru, środek transportu wraz z kierowcą, przystosowany do przewozu ludzi i sprzętu ratowniczego.
 6. Dyżurujące na zmianach niewydobywczych zastępy ratownicze dla co najmniej dwóch podziemnych zakładów górniczych lub zakładu górniczego prowadzącego więcej niż jeden ruch przebywają w kopalnianej stacji ratownictwa górniczego.
 7. O warunkach ustalonych w planie ratownictwa górniczego powiadamia się właściwy organ nadzoru górniczego.
@@ -213,6 +215,7 @@ b) osób przeszkolonych w zakresie ratownictwa górniczego: kierowników akcji, 
 § 36. 1. Dyżurujący zastęp ratowniczy w podziemnym zakładzie górniczym wyposaża się w odpowiedni sprzęt określony w planie ratownictwa górniczego, w szczególności:
 1) tlenomierz o pomiarze ciągłym i sygnalizacji zadanego progu zawartości tlenu;
 2) przyrządy do ciągłego pomiaru zawartości gazów, zwłaszcza CO, CO , CH ;
+3) przyrządy do pomiaru wilgotności i temperatury.
 2. Wyposażenie dyżurującego zastępu ratowniczego, o którym mowa w ust. 1, przechowuje się w jak najmniejszej odległości od miejsca pracy tego zastępu.
 3. Ratowników górniczych w dyżurującym zastępie ratowniczym oraz ratowników górniczych biorących udział w akcji ratowniczej wyposaża się w sygnalizatory optyczne i akustyczne przez nich uruchamiane, a także w czujniki bezruchu.
 4. Dyżurujące zastępy ratownicze, zatrudnione dłużej niż jedną zmianę w tym samym rejonie podziemnego zakładu górniczego, mogą przekazywać sobie na każdej zmianie w wyrobiskach górniczych wyposażenie, w tym aparaty regeneracyjne i aparaty powietrzne butlowe.
@@ -259,6 +262,7 @@ l) kierownik dyżurujących zastępów ratowniczych dla grup podziemnych zakład
 5. Dyżurujące zawodowe zastępy ratownicze oraz dyżurujące zastępy ratownicze dla grup podziemnych zakładów górniczych pełnią dyżur nieprzerwanie przez całą dobę.
 § 44. Do zadań jednostki ratownictwa należy w szczególności:
 1) organizowanie i prowadzenie kursów szkoleniowych z zakresu ratownictwa górniczego;
+2) przeprowadzanie ćwiczeń z zakresu ratownictwa górniczego;
 3) organizowanie i przeprowadzanie badań lekarskich ratowników górniczych w specjalistycznym ośrodku badań lekarskich;
 4) badanie i opiniowanie sprzętu ratowniczego;
 5) wykonywanie specjalistycznych analiz chemicznych prób powietrza.
@@ -287,6 +291,7 @@ l) kierownik dyżurujących zastępów ratowniczych dla grup podziemnych zakład
 5) przeprowadzają szkolenia medyczne ratowników górniczych.
 § 49. W jednostce ratownictwa dla zakładów górniczych wydobywających kopaliny otworami wiertniczymi pomoc medyczna ratownictwa górniczego może być zorganizowana w porozumieniu ze służbą medyczną zakładu górniczego lub z inną jednostką opieki zdrowotnej.
 § 50. Przepisy § 46, § 47 oraz § 49 stosuje się do jednostek ratownictwa dla zakładów górniczych prowadzących podziemne bezzbiornikowe magazynowanie substancji lub podziemne składowanie odpadów metodą otworową.
+§ 51. 1. Przedsiębiorca zapewnia kandydatom na ratowników górniczych i ratownikom górniczym oraz ratownikom górniczym zespołów specjalistycznych przeprowadzanie specjalistycznych badań lekarskich i psychologicznych w celu stwierdzenia ich przydatności do służby w ratownictwie górniczym.
 2. Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich i specjalistycznych badań psychologicznych określa załącznik nr 1 do rozporządzenia.
 3. Dla każdego ratownika górniczego prowadzi się dokumentację lekarską o jego stanie zdrowia, zawierającą informacje wynikające z wykonanych badań.
 § 52. Jednostka ratownictwa zapewnia ratownikom górniczym:
@@ -304,7 +309,7 @@ b) sprawdzanie stanu zdrowia bezpośrednio przed przystąpieniem do akcji ratown
 1) kursy dla kandydatów na kierowników kopalnianych stacji ratownictwa górniczego, ratowników górniczych i mechaników sprzętu ratowniczego;
 2) kursy dla kierowników akcji pod ziemią lub w obiekcie, kierowników baz ratowniczych oraz kierowników sztabu akcji;
 3) seminaria dla kierowników ruchu zakładu górniczego oraz dyspozytorów ruchu w podziemnych zakładach górniczych;
-4) szkolenia okresowe dla kierowników kopalnianych stacji ratownictwa górniczego, ratowników górniczych i mechaników sprzętu ratowniczego oraz osób kierownictwa i dozoru ruchu zakładu górniczego, niewchodzących w skład drużyny
+4) szkolenia okresowe dla kierowników kopalnianych stacji ratownictwa górniczego, ratowników górniczych i mechaników sprzętu ratowniczego oraz osób kierownictwa i dozoru ruchu zakładu górniczego, niewchodzących w skład drużyny ratowniczej;
 5) kursy z zakresu opanowania erupcji płynu złożowego dla osób dozoru o specjalności wiertniczej w zakładzie poszukującym węglowodorów oraz w zakładzie górniczym wydobywającym kopaliny otworami wiertniczymi;
 6) szkolenia dla ratowników górniczych, o których mowa w § 13 ust. 2 pkt 3 oraz § 35 ust. 3, z zakresu kwalifikowanej pierwszej pomocy, realizowane zgodnie z ustawą z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym;
 7) inne kursy z zakresu ratownictwa górniczego, w zależności od potrzeb.
@@ -331,7 +336,7 @@ b) sprawdzanie stanu zdrowia bezpośrednio przed przystąpieniem do akcji ratown
 2) przepracowanie co najmniej 24 miesięcy w ruchu zakładu górniczego lub jednostce ratownictwa.
 2. Warunkiem uczestnictwa w kursie dla kandydatów na mechaników sprzętu ratowniczego jest posiadanie:
 1) świadectwa ukończenia co najmniej zasadniczej szkoły zawodowej;
-2) co najmniej pięcioletniego stażu pracy jako ratownik górniczy w podziemnych zakładach górniczych lub w podmiotach zawodowo trudniących się ratownictwem górniczym wykonujących czynności dla podziemnych zakładów górniczych, a w zakładach poszukujących węglowodorów oraz zakładach górniczych wydobywających kopaliny otworami wiertniczymi nie mniej niż trzyletniego stażu w ratownictwie górniczym.
+2) co najmniej pięcioletniego stażu pracy jako ratownik górniczy w podziemnych zakładach górniczych lub w podmiotach zawodowo trudniących się ratownictwem górniczym wykonujących czynności dla podziemnych zakładów górniczych, a w zakładach poszukujących węglowodorów oraz zakładach górniczych wydobywających kopaliny otworami wiertniczymi – nie mniej niż trzyletniego stażu w ratownictwie górniczym.
 § 58. 1. Kursy, o których mowa w § 56 ust. 1, kończą się egzaminem sprawdzającym wiedzę w zakresie objętym kursem.
 2. Egzamin przeprowadza komisja egzaminacyjna powołana przez kierownika jednostki ratownictwa. W skład komisji egzaminacyjnej wchodzą przewodniczący, sekretarz oraz członkowie.
 3. Komisja egzaminacyjna przeprowadza egzamin w zespołach egzaminacyjnych, których skład ustala przewodniczący komisji spośród jej członków, z tym że przynajmniej jeden członek tej komisji jest osobą kierownictwa lub specjalistą jednostki ratownictwa.
@@ -366,9 +371,9 @@ e) posługiwanie się sprzętem ratownictwa technicznego oraz zapoznanie z podst
 § 60. 1. Kierownik ruchu zakładu górniczego, jego zastępcy oraz dyspozytorzy ruchu zakładu górniczego uczestniczą co 2 lata w seminariach, o których mowa w § 55 ust. 1 pkt 3.
 2. Osoby kierownictwa i dozoru ruchu zakładu górniczego, które nie wchodzą w skład drużyny ratowniczej zakładu górniczego, uczestniczą, nie rzadziej niż co pięć lat, w kursach specjalistycznych z zakresu ratownictwa górniczego organizowanych przez jednostki ratownictwa.
 3. Kierownik akcji ratowniczej pod ziemią lub w obiekcie oraz kierownik bazy ratowniczej uczestniczą co 3 lata w kursach specjalistycznych, a w okresach pomiędzy tymi kursami uczestniczą, odpowiednio do rodzaju zakładu górniczego, w jednostkach ratownictwa w rozłożonych równomiernie w czasie ćwiczeniach praktycznych, obejmujących tematykę:
-1) prowadzenia akcji ratowniczej w podziemnych wyrobiskach zakładu górniczego w dwóch ćwiczeniach;
-2) likwidacji zagrożeń w zakładach górniczych wydobywających siarkę metodą otworową w dwóch ćwiczeniach;
-3) likwidacji zagrożeń występujących w zakładach górniczych wydobywających inne niż siarka kopaliny otworami wiertniczymi w jednym ćwiczeniu.
+1) prowadzenia akcji ratowniczej w podziemnych wyrobiskach zakładu górniczego – w dwóch ćwiczeniach;
+2) likwidacji zagrożeń w zakładach górniczych wydobywających siarkę metodą otworową – w dwóch ćwiczeniach;
+3) likwidacji zagrożeń występujących w zakładach górniczych wydobywających inne niż siarka kopaliny otworami wiertniczymi – w jednym ćwiczeniu.
 4. Kierownik kopalnianej stacji ratownictwa górniczego oraz jego zastępcy uczestniczą co pięć lat w kursie specjalistycznym okresowym dla kierowników tych stacji.
 5. Kursy specjalistyczne obejmują część teoretyczną i praktyczną. Kursy te kończą się egzaminem sprawdzającym przyswojenie przez uczestników kursu wiedzy objętej tematem kursu.
 6. W programach kursów specjalistycznych uwzględnia się w szczególności zagadnienia dotyczące:
@@ -394,7 +399,7 @@ e) posługiwanie się sprzętem ratownictwa technicznego oraz zapoznanie z podst
 2) baz ratowniczych,
 3) kopalnianej stacji ratownictwa górniczego,
 4) akcji ratowniczej i dyspozytorów ruchu,
-5) sztabu akcji nie uczestniczą w kursach dla osób dozoru niewchodzących w skład drużyn ratowniczych.
+5) sztabu akcji – nie uczestniczą w kursach dla osób dozoru niewchodzących w skład drużyn ratowniczych.
 § 61. W zakładach poszukujących węglowodorów oraz w zakładach górniczych wydobywających kopaliny otworami wiertniczymi osoby kierownictwa i dozoru ruchu o specjalności wiertniczej odbywają co dwa lata szkolenia z zakresu opanowywania erupcji płynu złożowego.
 § 62. 1. Kierownik kopalnianej stacji ratownictwa górniczego organizuje seminaria dla zastępowych zastępów ratowniczych. Seminaria te odbywają się co najmniej raz w roku w wymiarze nie mniejszym niż 6 godzin.
 2. Kierownik kopalnianej stacji ratownictwa górniczego dla zakładów, o których mowa w § 8 i § 9, organizuje seminaria dla zastępowych zastępów ratowniczych. Seminaria te odbywają się w jednostce ratownictwa co najmniej raz w roku w wymiarze nie mniejszym niż 6 godzin.
@@ -415,10 +420,10 @@ b) czterech ćwiczeniach okresowych w zakładzie górniczym, w tym w dwóch ćwi
 4. Na każde ćwiczenie okresowe przeznacza się jeden dzień roboczy.
 5. W uzasadnionych przypadkach ćwiczenia okresowe przewidziane do przeprowadzenia w kopalnianej stacji ratownictwa górniczego mogą być przeprowadzane w jednostce ratownictwa.
 6. Ratownik górniczy biorący udział w ćwiczeniach okresowych posiada aktualne świadectwo lekarskie, stwierdzające jego zdolność do pełnienia obowiązków ratownika górniczego, oraz ukończony kurs dla ratowników górniczych.
-7. Ćwiczenia okresowe w zakładzie górniczym prowadzi kierownik kopalnianej stacji ratownictwa górniczego, a w przypadku jego nieobecności zastępca kierownika kopalnianej stacji ratownictwa górniczego. W razie potrzeby zajęcia teoretyczne prowadzą osoby kierownictwa ruchu zakładu górniczego oraz specjaliści spoza zakładu górniczego. Ćwiczenia okresowe prowadzi się na pierwszej zmianie.
+7. Ćwiczenia okresowe w zakładzie górniczym prowadzi kierownik kopalnianej stacji ratownictwa górniczego, a w przypadku jego nieobecności – zastępca kierownika kopalnianej stacji ratownictwa górniczego. W razie potrzeby zajęcia teoretyczne prowadzą osoby kierownictwa ruchu zakładu górniczego oraz specjaliści spoza zakładu górniczego. Ćwiczenia okresowe prowadzi się na pierwszej zmianie.
 8. Kierownik kopalnianej stacji ratownictwa górniczego zapewnia zwolnienie ratownika górniczego z obowiązku świadczenia pracy, z zachowaniem prawa do wynagrodzenia, w dniu ćwiczeń okresowych oraz niezatrudnianie go na zmianie poprzedzającej ćwiczenia i następującej po ich zakończeniu.
 9. Kierownik kopalnianej stacji ratownictwa górniczego ustala każdorazowo liczbę ratowników górniczych biorących udział w ćwiczeniach okresowych. W podziemnych zakładach górniczych liczba ratowników górniczych biorących udział w ćwiczeniach okresowych wynosi od 10 do 20.
-10. Ćwiczenia okresowe w zakładzie górniczym przeprowadza się na podstawie szczegółowych programów opracowanych przez kierownika kopalnianej stacji ratownictwa górniczego, a ćwiczenia okresowe sprawdzające na podstawie programu zatwierdzonego przez kierownika jednostki ratownictwa.
+10. Ćwiczenia okresowe w zakładzie górniczym przeprowadza się na podstawie szczegółowych programów opracowanych przez kierownika kopalnianej stacji ratownictwa górniczego, a ćwiczenia okresowe sprawdzające – na podstawie programu zatwierdzonego przez kierownika jednostki ratownictwa.
 11. Program ćwiczeń okresowych składa się z części teoretycznej oraz zajęć praktycznych przeprowadzanych:
 1) w komorze ćwiczeń albo w wyrobisku ćwiczebnym;
 2) pod ziemią w zakładzie górniczym;
@@ -436,7 +441,8 @@ b) czterech ćwiczeniach okresowych w zakładzie górniczym, w tym w dwóch ćwi
 8) kierowników ruchu zakładu górniczego i ich zastępców,
 9) osoby kierownictwa i dozoru ruchu zakładu górniczego i w zakładzie poszukującym węglowodorów, niewchodzące w skład drużyny ratowniczej zakładu górniczego,
 10) zastępowych zastępów ratowniczych,
-11) osoby dozoru o specjalności wiertniczej w zakładzie poszukującym węglowodorów oraz w zakładzie górniczym wydobywającym kopaliny otworami wiertniczymi których ważność upływa podczas występowania któregokolwiek z tych stanów, przedłuża się do 90 dni od dnia zniesienia stanu nadzwyczajnego, odwołania stanu zagrożenia epidemicznego albo stanu epidemii.
+11) osoby dozoru o specjalności wiertniczej w zakładzie poszukującym węglowodorów oraz w zakładzie górniczym wydobywającym kopaliny otworami wiertniczymi – których ważność upływa podczas występowania któregokolwiek z tych stanów, przedłuża się do 90 dni od dnia zniesienia stanu nadzwyczajnego, odwołania stanu zagrożenia epidemicznego albo stanu epidemii.
+§ 65. Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego określa załącznik nr 2 do rozporządzenia.
 § 66. W planie ratownictwa górniczego ustala się:
 1) organizację służb ratownictwa górniczego i służb pogotowia w zakładzie górniczym, określając:
 a) numery telefonów osób kierownictwa i dozoru ruchu zakładu górniczego przewidzianych do kierowania pracami ratowniczymi i pomocniczymi w trakcie prowadzenia akcji ratowniczej oraz kolejność ich powiadamiania,
@@ -451,13 +457,14 @@ h) plan wzajemnej pomocy zakładów górniczych, o której mowa w art. 119 ust. 
 a) możliwości stałego udziału w akcji ratowniczej zawodowych specjalistycznych służb jednostek ratownictwa,
 b) sposobie koordynowania działań służb ratownictwa górniczego przedsiębiorcy przez jednostkę ratownictwa;
 3) wyposażenie w sprzęt ratowniczy, zamieszczając informacje o miejscu składowania sprzętu ratowniczego, sposobie jego transportu i osobach odpowiedzialnych za terminowe wyposażenie stacji ratownictwa górniczego w ten sprzęt;
-4) sposób zabezpieczenia opieki psychologicznej dla ratowników górniczych i osób poszkodowanych, zamieszczając informacje dotyczące organizacji pomocy psychologicznej w trakcie akcji ratowniczej oraz po jej zakończeniu, z uwzględnieniem imion i nazwisk psychologów, psychoterapeutów i lekarzy psychiatrów, ich miejsca pracy oraz
+4) sposób zabezpieczenia opieki psychologicznej dla ratowników górniczych i osób poszkodowanych, zamieszczając informacje dotyczące organizacji pomocy psychologicznej w trakcie akcji ratowniczej oraz po jej zakończeniu, z uwzględnieniem imion i nazwisk psychologów, psychoterapeutów i lekarzy psychiatrów, ich miejsca pracy oraz numerów telefonów;
 5) sposób prowadzenia akcji ratowniczej, zamieszczając informacje dotyczące:
-a) organizacji pomocy medycznej w trakcie akcji ratowniczej, z uwzględnieniem: imion i nazwisk osób personelu medycznego, ich miejsc pracy oraz numerów telefonów, sposobu organizowania pomocy medycznej i doboru środków w zależności od rodzajów zagrożeń,
-b) sposobu zwalczania zagrożenia pożarowego, z uwzględnieniem: miejsc szczególnie zagrożonych powstaniem pożaru, zaznaczonych na mapach miejsc stosowania materiałów chemicznych, z wyłączeniem ładunków klejowych kotew, parametrów wentylacyjnych, map i schematów niezbędnych przy prowadzeniu akcji pożarowej,
+a) organizacji pomocy medycznej w trakcie akcji ratowniczej, z uwzględnieniem: – imion i nazwisk osób personelu medycznego, ich miejsc pracy oraz numerów telefonów, – sposobu organizowania pomocy medycznej i doboru środków w zależności od rodzajów zagrożeń,
+b) sposobu zwalczania zagrożenia pożarowego, z uwzględnieniem: – miejsc szczególnie zagrożonych powstaniem pożaru, – zaznaczonych na mapach miejsc stosowania materiałów chemicznych, z wyłączeniem ładunków klejowych kotew, – parametrów wentylacyjnych, map i schematów niezbędnych przy prowadzeniu akcji pożarowej,
 c) sposobu prowadzenia akcji ratowniczej w przypadku wystąpienia zagrożenia życia i zdrowia pracowników zakładu górniczego, bezpieczeństwa ruchu zakładu górniczego lub zagrożenia bezpieczeństwa powszechnego, w związku z ruchem zakładu górniczego, spowodowanego: pożarem, tąpnięciem, wybuchem gazów lub pyłu węglowego, wyrzutem gazów i skał, zawałem wyrobiska, wdarciem się wody do wyrobisk górniczych, otwieraniem wyrobisk izolowanych, penetracją nieczynnych wyrobisk, przebić do nieczynnych wyrobisk, erupcją płynu złożowego, wydzielaniem się siarkowodoru oraz awarią energomechaniczną,
 d) dokumentacji prowadzenia akcji ratowniczej.
 § 67. Kierownik ruchu zakładu górniczego ustala sposób i zakres zapoznawania osób kierownictwa i dozoru ruchu zakładu górniczego z planem ratownictwa górniczego oraz wprowadzonymi w nim zmianami.
+§ 68. 1. Jeżeli zawarto umowę, o której mowa w art. 122 ust. 15 ustawy, zwaną dalej „umową”, z podmiotem zawodowo trudniącym się ratownictwem górniczym:
 1) przedsiębiorca deleguje, zgodnie z harmonogramem określonym w tej umowie, ratowników górniczych do zastępów dyżurujących w jednostce ratownictwa lub zapewnia, w sposób w niej określony, gotowość zastępów ratowniczych w jednostce ratownictwa utrzymującej tylko zawodowe pogotowie specjalistyczne;
 2) strony tej umowy współpracują w zakresie zapewnienia możliwości korzystania ze sprzętu i wyposażenia;
 3) jednostka ratownictwa koordynuje działania służb ratownictwa górniczego przedsiębiorcy w sposób określony w planie ratownictwa górniczego;
@@ -477,6 +484,7 @@ c) opracowuje, dla zakładów górniczych poszukujących węglowodorów oraz wyd
 1) współpracuje z kierownikiem akcji ratowniczej i członkami sztabu akcji ratowniczej w zakresie sposobu jej organizacji;
 2) doradza w zakresie zabezpieczenia medycznego akcji ratowniczej;
 3) koordynuje pracę pracowników jednostki ratownictwa biorących udział w akcji ratowniczej.
+§ 71. 1. Prace profilaktyczne wykonuje się w przypadku:
 1) likwidacji stanu zagrożenia pożarowego, gdy 10 < VCO < 25 dm /min przy CO < 0,0026%, w szczególności w przypadku budowy tam o konstrukcji przeciwwybuchowej lub uszczelniania tam i zrobów;
 2) bezpośredniego zagrożenia wystąpienia atmosfery niezdatnej do oddychania i trudnych warunków mikroklimatu;
 3) dowiercania do poziomów zbiornikowych w warunkach zagrożenia siarkowodorowego, niezależnie od klasy zagrożenia erupcyjnego;
@@ -614,7 +622,8 @@ c) wykonywaniu rozkazów i poleceń kierującego akcją ratowniczą.
 6. Kierownik akcji ratowniczej pod ziemią lub w obiekcie, oprócz zadań, o których mowa w ust. 4:
 1) dokonuje wyboru miejsca, w którym usytuowana będzie baza ratownicza;
 2) odpowiada za bieżące rozpoznanie stanu zagrożenia i sytuacji wentylacyjnej w strefie zagrożenia i w jej sąsiedztwie;
-3) organizuje pomiary kontrolne w strefie zagrożenia i innych miejscach wyznaczonych przez kierownika akcji ratowni4) odpowiada za prowadzenie książki meldunków i poleceń, w której odnotowuje się otrzymane polecenia i meldunki przekazywane kierownikowi akcji ratowniczej oraz informacje otrzymane od ratowników górniczych i pracowników biorących udział w akcji ratowniczej.
+3) organizuje pomiary kontrolne w strefie zagrożenia i innych miejscach wyznaczonych przez kierownika akcji ratowniczej;
+4) odpowiada za prowadzenie książki meldunków i poleceń, w której odnotowuje się otrzymane polecenia i meldunki przekazywane kierownikowi akcji ratowniczej oraz informacje otrzymane od ratowników górniczych i pracowników biorących udział w akcji ratowniczej.
 § 84. 1. W celu zgrupowania w jednym miejscu ratowników górniczych i innych osób oraz środków materialno-technicznych niezbędnych do wykonywania prac ratowniczych, prawidłowego wykorzystania tych środków, a także zapewnienia ciągłości kierowania pracami ratowniczymi i ich nadzorowania oraz zapewnienia możliwie największego bezpieczeństwa zespołom ratowniczym wykonującym prace ratownicze, każdorazowo zakłada się i odpowiednio wyposaża bazę ratowniczą.
 2. Jeżeli prace ratownicze są prowadzone w kilku odległych miejscach, kierownik akcji ratowniczej może wyznaczyć dla każdego miejsca oddzielną bazę ratowniczą. Dla każdego miejsca i dla każdej bazy ratowniczej wyznacza odpowiednio kierownika akcji ratowniczej pod ziemią oraz kierownika tej bazy.
 § 85. 1. W zakładzie górniczym bazę ratowniczą lokalizuje się w miejscu:
@@ -677,13 +686,13 @@ b) niesprawnych lub zużytych w trakcie wykonywania prac ratowniczych;
 6) środki transportu do przewozu sprzętu i ratowników górniczych, we współdziałaniu z innymi służbami zakładu górniczego;
 7) dodatkową obsadę mechaników sprzętu ratowniczego, przewidzianych do pracy w kopalnianej stacji ratownictwa, jak i w bazie ratowniczej;
 8) zastępom ratowniczym z innych zakładów górniczych i jednostek ratownictwa górniczego pomoc w trakcie transportu sprzętu i urządzeń na terenie zakładu górniczego w drodze do bazy.
-§ 93. Kierownik ruchu zakładu górniczego zapewnia niezbędne zabezpieczenie medyczne oraz pomoc psychologiczną ratownikom górniczym i poszkodowanym w trakcie akcji ratowniczej, a w odniesieniu do pomocy psychologicznej również po jej zakończeniu.
+§ 93. Kierownik ruchu zakładu górniczego zapewnia niezbędne zabezpieczenie medyczne oraz pomoc psychologiczną ratownikom górniczym i poszkodowanym w trakcie akcji ratowniczej, a w odniesieniu do pomocy psychologicznej – również po jej zakończeniu.
 § 94. 1. W trakcie akcji ratowniczych prowadzonych w atmosferze niezdatnej do oddychania lekarza nie kieruje się do strefy zagrożenia.
 2. Uczestniczący w akcjach ratowniczych lekarz, w uzgodnieniu z kierownikiem akcji ratowniczej, może udzielić pomocy poszkodowanym przebywającym jeszcze w strefie zagrożenia, jeżeli stwierdzi, że może pracować w warunkach istniejącego zagrożenia.
 3. Za akcję ratowniczą w atmosferze niezdatnej do oddychania uważa się wszelkie prace prowadzone przez ratowników górniczych w atmosferze, w której w wyniku nagromadzenia się wody, pożaru, wybuchu gazów lub pyłów, wyrzutu gazów i skał, wypływu gazów z górotworu lub zrobów, braku przepływu powietrza, erupcji płynu złożowego, awarii instalacji technologicznej występuje przekroczenie dopuszczalnych stężeń gazów lub par szkodliwych albo niedostateczna zawartość tlenu.
 § 95. W podziemnym zakładzie górniczym w przypadku powstania zagrożenia i konieczności podjęcia akcji ratowniczej:
 1) zastęp dyżurujący lub zastępy zabezpieczające kilka zakładów górniczych udają się niezwłocznie do miejsca wskazanego przez dyspozytora ruchu zakładu górniczego lub osobę kierującą akcją ratowniczą;
-2) zastępowy zastępu dyżurującego w drodze do miejsca akcji ratowniczej utrzymuje łączność z dyspozytorem ruchu
+2) zastępowy zastępu dyżurującego w drodze do miejsca akcji ratowniczej utrzymuje łączność z dyspozytorem ruchu zakładu górniczego;
 3) po przybyciu na wskazane miejsce zastęp dyżurujący zgłasza się do kierownika akcji ratowniczej, a następnie przystępuje do wykonywania prac ratowniczych zgodnie z jego poleceniem;
 4) ubezpieczenie jednego zastępu dyżurującego, w razie utrzymywania tylko tego zastępu, stanowią zastępy znajdujące się w drodze do bazy ratowniczej.
 § 96. 1. Liczbę osób uczestniczących w akcji ratowniczej ogranicza się tylko do pracowników zatrudnionych przy wykonywaniu i nadzorowaniu prac ratowniczych i pomocniczych.
@@ -704,7 +713,7 @@ b) niesprawnych lub zużytych w trakcie wykonywania prac ratowniczych;
 4. Zastępowy wykonuje prace w ramach zadań zleconych zastępowi ratowniczemu, jeżeli nie spowodują ograniczenia możliwości czuwania nad bezpieczeństwem ratowników górniczych w zastępie.
 5. Po przybyciu do bazy ratowniczej zastępowy zgłasza kierownikowi akcji ratowniczej pod ziemią lub w obiekcie powrót zastępu ratowniczego i sposób wykonania zadania.
 § 98. 1. W podziemnym zakładzie górniczym zastępy ratownicze będące w akcji ubezpiecza co najmniej jeden zastęp ratowniczy przebywający w bazie ratowniczej. Liczbę zastępów ratowniczych ubezpieczających ustala kierownik akcji ratowniczej.
-2. W trudnych warunkach mikroklimatu każdy zastęp ratowniczy wykonujący prace jest ubezpieczany w bazie ratowniczej przez dwa zastępy ratownicze zdolne do akcji ratowniczej. W razie ratowania życia ludzkiego drugi zastęp ubezpieczający
+2. W trudnych warunkach mikroklimatu każdy zastęp ratowniczy wykonujący prace jest ubezpieczany w bazie ratowniczej przez dwa zastępy ratownicze zdolne do akcji ratowniczej. W razie ratowania życia ludzkiego drugi zastęp ubezpieczający może znajdować się pod ziemią, w drodze do bazy.
 3. Każdy zastęp ratowniczy wykonujący prace w atmosferze niezdatnej do oddychania ubezpiecza co najmniej jeden zastęp ratowniczy.
 4. Jeżeli baza ratownicza jest znacznie oddalona od miejsca pracy zastępu ratowniczego, jeden zastęp ratowniczy ubezpieczający może wykonywać swoje obowiązki w bezpośrednim sąsiedztwie tego miejsca, wyznaczonym przez kierownika akcji ratowniczej pod ziemią, utrzymując łączność z bazą ratowniczą.
 5. Dopuszcza się niestosowanie przepisów ust. 1, 3 i 4 w przypadku konieczności ratowania ludzi pod warunkiem, że zastęp ratowniczy ubezpieczający znajduje się w drodze do bazy ratowniczej.
@@ -713,34 +722,34 @@ b) niesprawnych lub zużytych w trakcie wykonywania prac ratowniczych;
 2. Kierowanie do prac w strefie zagrożenia odbywa się na podstawie polecenia, wydanego zastępowemu przez kierownika akcji ratowniczej pod ziemią lub w obiekcie.
 3. Wyjście zastępu ratowniczego z bazy ratowniczej do strefy zagrożenia może nastąpić tylko po zgłoszeniu kierownikowi tej bazy.
 § 100. 1. W trakcie przeprowadzania rozpoznania zagrożenia w składzie zastępu ratowniczego wysyłanego z bazy ratowniczej do strefy zagrożenia znajduje się ratownik górniczy znający rejon, w którym jest przeprowadzana akcja ratownicza.
-2. Zastęp ratowniczy, któremu zlecono zadanie ewakuacji osób zagrożonych, udzielania pierwszej pomocy poszkodowanym oraz przetransportowania ich do bazy ratowniczej, wyposaża się w sprzęt do udzielania pierwszej pomocy i transportu poszkodowanych, a w przypadku występowania atmosfery niezdatnej do oddychania w sprzęt ochrony układu oddechowego przystosowany do ewakuacji poszkodowanych.
+2. Zastęp ratowniczy, któremu zlecono zadanie ewakuacji osób zagrożonych, udzielania pierwszej pomocy poszkodowanym oraz przetransportowania ich do bazy ratowniczej, wyposaża się w sprzęt do udzielania pierwszej pomocy i transportu poszkodowanych, a w przypadku występowania atmosfery niezdatnej do oddychania – w sprzęt ochrony układu oddechowego przystosowany do ewakuacji poszkodowanych.
 3. Zastęp ratowniczy w drodze do miejsca wykonywania prac ratowniczych w strefie zagrożenia, w trakcie ich wykonywania oraz w drodze powrotnej utrzymuje łączność z bazą ratowniczą w odstępach czasu i w sposób ustalony przez kierownika akcji ratowniczej, natomiast w trakcie przebywania w atmosferze niezdatnej do oddychania albo w trudnych warunkach mikroklimatu utrzymuje stałą łączność z bazą. W przypadku braku widoczności oznakowuje drogę powrotną do bazy.
 4. Jeżeli łączność z bazą ratowniczą zostanie przerwana, zastęp ratowniczy wycofuje się do bazy ratowniczej. W trakcie wycofywania się podejmuje działania w celu nawiązania łączności za pomocą sygnałów.
 5. W podziemnych zakładach górniczych stosuje się następujące sygnały akustyczne lub optyczne poprzedzone nadaniem kilku po sobie następujących sygnałów:
 1) sygnał bazy do zastępu:
-a) 2 sygnały „czy wszystko w porządku”,
-b) 3 sygnały „pomoc idzie”,
-c) 4 sygnały „wracać”;
+a) 2 sygnały – „czy wszystko w porządku”,
+b) 3 sygnały – „pomoc idzie”,
+c) 4 sygnały – „wracać”;
 2) sygnały zastępu do bazy:
-a) 2 sygnały „wszystko w porządku”,
-b) 3 sygnały „żądamy pomocy”,
-c) 4 sygnały „wracamy”;
+a) 2 sygnały – „wszystko w porządku”,
+b) 3 sygnały – „żądamy pomocy”,
+c) 4 sygnały – „wracamy”;
 3) sygnały zastępu do odciętej załogi:
-a) 1 sygnał „rozkręcić rurociąg”,
-b) 3 sygnały „podać liczbę ludzi”,
-c) 2 + 2 sygnały „puszczamy powietrze”;
+a) 1 sygnał – „rozkręcić rurociąg”,
+b) 3 sygnały – „podać liczbę ludzi”,
+c) 2 + 2 sygnały – „puszczamy powietrze”;
 4) sygnały odciętej załogi do zastępu:
-a) 1 sygnał „rurociąg rozkręcony”,
-b) 2 sygnały „rurociągu nie można rozkręcić”,
-c) 2 + 2 sygnały „brak nam powietrza”,
-d) 3 sygnały „podaję liczbę ludzi” + tyle sygnałów, ilu jest ludzi;
+a) 1 sygnał – „rurociąg rozkręcony”,
+b) 2 sygnały – „rurociągu nie można rozkręcić”,
+c) 2 + 2 sygnały – „brak nam powietrza”,
+d) 3 sygnały – „podaję liczbę ludzi” + tyle sygnałów, ilu jest ludzi;
 5) sygnały nadawane lampą górniczą w trakcie transportu podczas prowadzenia akcji ratowniczych:
-a) „stój” zataczanie światłem okręgu,
-b) „jedź do mnie” poruszanie światłem w linii poziomej,
-c) „jedź ode mnie” poruszanie światłem w linii pionowej;
+a) „stój” – zataczanie światłem okręgu,
+b) „jedź do mnie” – poruszanie światłem w linii poziomej,
+c) „jedź ode mnie” – poruszanie światłem w linii pionowej;
 6) sygnały określające kierunek wycofania załogi w przypadku pożaru:
-a) szereg krótkich sygnałów + 4 długie „pod prąd powietrza”,
-b) szereg krótkich sygnałów + 6 długich „z prądem powietrza”.
+a) szereg krótkich sygnałów + 4 długie – „pod prąd powietrza”,
+b) szereg krótkich sygnałów + 6 długich – „z prądem powietrza”.
 § 101. 1. W trakcie wykonywania prac ratowniczych każdy ratownik górniczy obserwuje miejsca wykonywania tych prac, a w przypadku stwierdzenia zagrożenia ostrzega pozostałych ratowników górniczych i powiadamia zastępowego.
 2. Niedopuszczalne jest samowolne oddalanie się ratowników górniczych z miejsca pracy zastępu ratowniczego lub wykonywanie jakichkolwiek prac bez ich uprzedniego uzgodnienia z zastępowym.
 3. Zastępowy zastępu ratowniczego jest zobowiązany do samodzielnego działania w sytuacji zagrożenia zdrowia lub życia ratowników lub osób ratowanych przy jednoczesnym braku możliwości przekazania kierownikowi akcji ratowniczej informacji o zaistniałej sytuacji. O zaistniałym fakcie zastępowy zastępu ratowniczego informuje kierownika akcji ratowniczej pod ziemią najszybciej, jak to jest możliwe.
@@ -758,7 +767,7 @@ b) szereg krótkich sygnałów + 6 długich „z prądem powietrza”.
 1) wydobywającym kopaliny otworami wiertniczymi,
 2) prowadzącym podziemne bezzbiornikowe magazynowanie substancji,
 3) prowadzącym podziemne składowanie odpadów metodą otworową,
-4) prowadzącym podziemne składowanie dwutlenku węgla kierownik akcji ratowniczej może ustalić sprzęt ochrony układu oddechowego stosowany w trakcie wykonywania prac ratowniczych inny niż wymieniony w ust. 1.
+4) prowadzącym podziemne składowanie dwutlenku węgla – kierownik akcji ratowniczej może ustalić sprzęt ochrony układu oddechowego stosowany w trakcie wykonywania prac ratowniczych inny niż wymieniony w ust. 1.
 § 106. 1. W podziemnym zakładzie górniczym zastęp ratowniczy wyruszający z bazy ratowniczej do miejsca wykonywania prac ratowniczych w atmosferze niezdatnej do oddychania wyposaża się, oprócz sprzętu, o którym mowa w § 105, także w:
 1) butlę zapasową z tlenem o ciśnieniu określonym w instrukcji użycia tej butli oraz urządzenie do podawania tlenu pod maskę lub urządzenie umożliwiające podłączenie do obiegu drugiego aparatu;
 2) przyrządy do pomiarów gazów, ustalone przez kierownika akcji ratowniczej, w szczególności tlenomierz o pomiarze ciągłym i sygnalizacji zadanego progu zawartości tlenu, w przyrządy do ciągłego pomiaru zawartości CO, CO , CH oraz w przyrządy do pomiaru wilgotności i temperatury;
@@ -768,14 +777,15 @@ b) szereg krótkich sygnałów + 6 długich „z prądem powietrza”.
 1) wydobywających kopaliny otworami wiertniczymi,
 2) prowadzących podziemne bezzbiornikowe magazynowanie substancji,
 3) prowadzących podziemne składowanie odpadów metodą otworową,
-4) prowadzących podziemne składowanie dwutlenku węgla zastęp ratowniczy wyruszający z bazy ratowniczej do miejsca wykonywania prac ratowniczych w aparatach powietrznych butlowych lub aparatach regeneracyjnych wyposaża się także w odzież ochronną, sprzęt kontrolno-pomiarowy, narzędzia i inne środki potrzebne do wykonania zadania, ustalone przez kierownika akcji ratowniczej.
+4) prowadzących podziemne składowanie dwutlenku węgla – zastęp ratowniczy wyruszający z bazy ratowniczej do miejsca wykonywania prac ratowniczych w aparatach powietrznych butlowych lub aparatach regeneracyjnych wyposaża się także w odzież ochronną, sprzęt kontrolno-pomiarowy, narzędzia i inne środki potrzebne do wykonania zadania, ustalone przez kierownika akcji ratowniczej.
 § 107. 1. Ratownicy górniczy przed wyjściem z bazy ratowniczej do strefy zagrożenia kontrolują sprawność aparatów regeneracyjnych lub powietrznych butlowych, zgodnie z instrukcją ich używania.
 2. Przed wejściem do strefy zagrożenia, w której występuje atmosfera niezdatna do oddychania, zastępowy poleca użycie aparatów regeneracyjnych lub powietrznych butlowych i przeprowadza kontrolę ich działania oraz prawidłowego nałożenia masek twarzowych. Kontrolę aparatu zastępowego przeprowadza jego zastępca.
 3. W drodze z bazy ratowniczej do miejsca wykonywania prac ratowniczych zastępowy idzie na czele zastępu i przeprowadza pomiary składu atmosfery podręcznymi przyrządami do pomiaru gazów w okresach ustalonych przez kierownika akcji ratowniczej.
 4. W trakcie powrotu zastępu ratowniczego do bazy ratowniczej zastęp ten idzie w następującej kolejności: zastępca zastępowego, ratownicy górniczy oraz zastępowy.
 5. W przypadku gdy zastępowy i ratownicy górniczy jego zastępu ratowniczego nie znają rejonu zakładu górniczego, w którym są wykonywane prace ratownicze, na czele zastępu idzie przewodnik, o którym mowa w § 104 ust. 1.
 § 108. 1. Zastępowy przestrzega zasady, zgodnie z którą każdy ratownik górniczy posiada zapas tlenu lub powietrza w ilości dwukrotnie większej od tej, jaką zużył w drodze z bazy ratowniczej do miejsca docelowego, powiększony o 1 MPa, w ilości zabezpieczającej powrót do tej bazy.
-2. Każde użycie zaworu dodawczego w aparacie regeneracyjnym albo dodatkowe dodanie powietrza w aparacie powietrznym butlowym ratownik górniczy zgłasza zastępowemu, który kontroluje zapas tlenu lub powietrza w aparacie tego § 109. 1. Ratownik górniczy zdejmuje maskę twarzową na polecenie zastępowego, gdy zastępowy upewni się, że zastęp ratowniczy znajduje się w atmosferze zdatnej do oddychania.
+2. Każde użycie zaworu dodawczego w aparacie regeneracyjnym albo dodatkowe dodanie powietrza w aparacie powietrznym butlowym ratownik górniczy zgłasza zastępowemu, który kontroluje zapas tlenu lub powietrza w aparacie tego ratownika.
+§ 109. 1. Ratownik górniczy zdejmuje maskę twarzową na polecenie zastępowego, gdy zastępowy upewni się, że zastęp ratowniczy znajduje się w atmosferze zdatnej do oddychania.
 2. Czas pracy ratownika górniczego w aparacie regeneracyjnym jest ograniczony do 2 godzin.
 3. Ratownik górniczy może pracować w aparacie regeneracyjnym dłużej niż 2 godziny w przypadku ratowania ludzi lub wykonywania ważnych czynności na polecenie kierownika akcji ratowniczej.
 4. Czas pracy ratownika górniczego używającego aparatu powietrznego butlowego jest dostosowany do czasu ochronnego działania tego aparatu, z uwzględnieniem zasady, o której mowa w § 108 ust. 1.
@@ -785,7 +795,8 @@ b) szereg krótkich sygnałów + 6 długich „z prądem powietrza”.
 § 112. W przypadku gdy wypadkowi uległ ratownik górniczy używający aparatu regeneracyjnego lub powietrznego butlowego:
 1) zastępowy, po wyjściu zastępu ratowniczego ze strefy zagrożenia i po zdjęciu maski twarzowej poszkodowanemu, odczytuje wskazanie manometru, zamyka dopływ tlenu albo powietrza w aparacie poszkodowanego oraz oddaje poszkodowanego pod opiekę lekarską;
 2) kierownik bazy ratowniczej zabezpiecza i przekazuje do kopalnianej stacji ratownictwa górniczego lub jednostki ratownictwa aparat regeneracyjny lub powietrzny butlowy poszkodowanego, wraz z przyłączoną do niego maską twarzową używaną w trakcie wypadku;
-3) aparat, wraz z maską twarzową, a w przypadku aparatu regeneracyjnego również z pochłaniaczem CO , do czasu przekazania specjalistycznej jednostce jest zabezpieczony przez kierownika kopalnianej stacji ratownictwa górniczego lub jednostki ratownictwa w zamkniętym pomieszczeniu.
+3) aparat, wraz z maską twarzową, a w przypadku aparatu regeneracyjnego – również z pochłaniaczem CO , do czasu przekazania specjalistycznej jednostce jest zabezpieczony przez kierownika kopalnianej stacji ratownictwa górniczego lub jednostki ratownictwa w zamkniętym pomieszczeniu.
+§ 113. 1. Opracowane na podstawie dotychczasowych przepisów dokumenty dotyczące ratownictwa górniczego, takie jak:
 1) plan ratownictwa górniczego,
 2) dziennik:
 a) kopalnianej stacji ratownictwa górniczego,
@@ -819,11 +830,11 @@ j) prowadzenia prac profilaktycznych,
 a) akcji ratowniczej,
 b) pracach profilaktycznych,
 7) karta ratownika górniczego,
-8) zobowiązanie kandydata na ratownika górniczego zachowują moc, nie dłużej jednak niż przez okres 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+8) zobowiązanie kandydata na ratownika górniczego – zachowują moc, nie dłużej jednak niż przez okres 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 2. Świadectwa odbycia specjalistycznych szkoleń i kursów, wydane na podstawie przepisów dotychczasowych, zachowują moc przez okres w nich oznaczony.
 3. Zaświadczenia lekarskie potwierdzające zdolność do wykonywania pracy ratownika górniczego, wydane na podstawie przepisów dotychczasowych, zachowują moc przez okres w nich oznaczony.
 § 114. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
-SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE SPECJALISTYCZNYCH BADAŃ LEKARSKICH I SPECJALISTYCZNYCH BADAŃ PSYCHOLOGICZNYCH Załącznik nr 1 SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE SPECJALISTYCZNYCH BADAŃ LEKARSKICH I SPECJALISTYCZNYCH BADAŃ PSYCHOLOGICZNYCH
+Załączniki do rozporządzenia Ministra Energii z dnia……… (poz…..) Załącznik nr 1 SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE SPECJALISTYCZNYCH BADAŃ SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE SPECJALISTYCZNYCH BADAŃ LEKARSKICH LEKARSKICH I SPECJALISTYCZNYCH I SPECJALISTYCZNYCH BADAŃ PSYCHOLOGICZNYCH BADAŃ PSYCHOLOGICZNYCH
 1. W ratownictwie górniczym przeprowadza się specjalistyczne badania lekarskie i specjalistyczne badania psychologiczne kandydatów na ratowników górniczych i ratowników górniczych oraz ratowników górniczych zastępów specjalistycznych.
 2. Specjalistyczne badania lekarskie obejmują:
 1) badanie wstępne;
@@ -860,8 +871,26 @@ SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE SPECJALISTYCZNYCH BADAŃ LEKARSKICH I SPECJAL
 17. Badanie psychologiczne kontrolne dla ratowników górniczych obejmuje badania ustalane indywidualnie przez psychologa.
 18. Metodologię specjalistycznych badań lekarskich i specjalistycznych badań psychologicznych określa podmiot zawodowo trudniący się ratownictwem górniczym organizujący i przeprowadzający specjalistyczne badania lekarskie i specjalistyczne badania psychologiczne w specjalistycznym ośrodku badań lekarskich ratowników górniczych.
 19. Podmiot zawodowo trudniący się ratownictwem górniczym organizujący i przeprowadzający specjalistyczne badania lekarskie i specjalistyczne badania psychologiczne w specjalistycznym ośrodku badań lekarskich ratowników górniczych jest zobowiązany do aktualizacji metodologii, o której mowa w pkt 18, zgodnie z aktualnym stanem wiedzy medycznej, nie rzadziej niż co 3 lata.
-SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE DOKUMENTACJI W ZAKRESIE RATOWNICTWA GÓRNICZEGO
-1. kopalnianej stacji ratownictwa górniczego.
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Organizacja, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym
+
+#### Rozdział 3 Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których te szkolenia są przeprowadzane przez przedsiębiorcę
+
+## Część zajęć praktycznych dla kandydatów na ratowników górniczych w drużynach ratowniczych dla podziemnych zakładów górniczych odbywa się w warunkach pełnego zadymienia i ograniczonej widoczności.
+
+#### Rozdział 4 Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego
+
+#### Rozdział 5 Sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym
+
+#### Rozdział 6 Przypadki, w których wykonuje się prace profilaktyczne. Sposób prowadzenia akcji ratowniczych w zależności od rodzaju i natężeń zagrożeń występujących w zakładzie górniczym
+
+#### Rozdział 7 Przepisy przejściowe i przepis końcowy
+
+## Załącznik nr 2 — SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE DOKUMENTACJI W ZAKRESIE SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE RATOWNICTWA DOKUMENTACJI GÓRNICZEGO W ZAKRESIE RATOWNICTWA GÓRNICZEGO
+
+1. Dziennik kopalnianej stacji ratownictwa górniczego.
 1.1. Na stronie 1 umieścić należy nazwę zakładu górniczego, dla którego prowadzony jest dziennik kopalnianej stacji ratownictwa górniczego, oraz okres, którego dotyczy dziennik.
 1.2. Do zapewnienia prowadzenia na bieżąco dziennika obowiązany jest kierownik kopalnianej stacji ratownictwa górniczego lub jego zastępca.
 1.3. Na stronie 2 i dalszych stronach parzystych dziennika umieścić należy:
@@ -875,11 +904,10 @@ SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE DOKUMENTACJI W ZAKRESIE RATOWNICTWA GÓRNICZE
 4) rodzaj i numer aparatu oddechowego oraz maski;
 5) nazwisko ratownika dyżurnego, numer jego telefonu, godzinę zgłoszenia, godziny kontroli łączności przez mechanika, godzinę odmeldowania zastępu dyżurującego;
 6) podpis kierownika kopalnianej stacji ratownictwa górniczego lub innej osoby uprawnionej i kontrolującej.
-2. ćwiczeń drużyny ratowniczej zakładu górniczego.
+2. Dziennik ćwiczeń drużyny ratowniczej zakładu górniczego.
 2.1. Na stronie 1 umieścić należy nazwę zakładu górniczego, dla którego prowadzony jest dziennik ćwiczeń członków drużyny ratowniczej, oraz okres, którego dotyczy dziennik.
 2.2. Na stronie 2 i dalszych stronach umieścić należy:
 1) datę przeprowadzenia ćwiczeń;
-SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE DOKUMENTACJI W ZAKRESIE RATOWNICTWA GÓRNICZEGO
 2) rodzaj ćwiczeń;
 3) temat ćwiczeń;
 4) podpis kierownika kopalnianej stacji ratownictwa prowadzącego ćwiczenia;
@@ -887,7 +915,7 @@ SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE DOKUMENTACJI W ZAKRESIE RATOWNICTWA GÓRNICZE
 6) rodzaj i numer aparatu oddechowego oraz maski;
 7) ocenę ratownika oraz inne uwagi;
 8) podpis kierownika kopalnianej stacji ratownictwa lub innej osoby uprawnionej i kontrolującej.
-3. zastępów specjalistycznych.
+3. Dziennik zastępów specjalistycznych.
 3.1. Na stronie 1 umieścić należy nazwę zakładu górniczego, dla którego prowadzony jest dziennik zastępów specjalistycznych, oraz okres, którego dotyczy dziennik.
 3.2. W dzienniku zastępów specjalistycznych umieścić należy:
 1) datę ćwiczenia lub prac podwodnych;
@@ -1089,7 +1117,7 @@ SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE DOKUMENTACJI W ZAKRESIE RATOWNICTWA GÓRNICZE
 11) lokalizację bazy ratowniczej;
 12) ustalenie miejsc, z których prowadzona będzie kontrola stanu zagrożenia, a w szczególności kontrola parametrów fizykochemicznych powietrza i gazów pożarowych, a także warunków mikroklimatu.
 16.3. W książce prowadzenia akcji ratowniczej umieścić należy operacyjny plan akcji ratowniczej z wyszczególnieniem prac przewidywanych do wykonania oraz schemat dyżurów kierownictwa akcji na poszczególnych zmianach (kierownika akcji ratowniczej, kierownika akcji ratowniczej pod ziemią, kierownika bazy ratowniczej, sekretarza technicznego akcji ratowniczej).
-16.4. Przebieg akcji ratowniczej jest dokumentowany poprzez wpisanie wydanych poleceń i otrzymanych meldunków z podaniem daty i godziny.
+16.4. Przebieg akcji ratowniczej jest dokumentowany poprzez wpisanie wydanych poleceń i otrzymanych meldunków – z podaniem daty i godziny.
 17. Karta udziału zastępu w akcji ratowniczej.
 17.1. Kartę udziału zastępu w akcji ratowniczej sporządza się w co najmniej 2 egzemplarzach.
 17.2. Karta udziału zastępu w akcji ratowniczej podzielona jest na 9 części.
@@ -1115,7 +1143,7 @@ SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE DOKUMENTACJI W ZAKRESIE RATOWNICTWA GÓRNICZE
 2) datę rozpoczęcia prac profilaktycznych oraz numer zmiany, na której zostały one rozpoczęte;
 3) wskazanie miejsca prowadzenia prac profilaktycznych (pokład, poziom, oddział, wyrobisko);
 4) datę zakończenia prac profilaktycznych oraz numer zmiany, na której zostały one zakończone;
-5) dane dotyczące przebiegu prac profilaktycznych (wydane polecenia z podaniem daty i godziny, otrzymane meldunki z podaniem daty i godziny).
+5) dane dotyczące przebiegu prac profilaktycznych (wydane polecenia – z podaniem daty i godziny, otrzymane meldunki – z podaniem daty i godziny).
 19. Karta udziału zastępu w pracach profilaktycznych.
 19.1. W karcie udziału zastępu w pracach profilaktycznych umieścić należy:
 1) nazwę zakładu górniczego prowadzącego prace profilaktyczne;
@@ -1154,23 +1182,7 @@ O obowiązkach i zadaniach ratownika górniczego zostałem pouczony, co stwierdz
 5) wykształcenie;
 6) oraz krótką charakterystykę kandydata i potwierdzoną podpisem przełożonego opinię o kandydacie.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
-
-#### Rozdział 2 Organizacja, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym § 5. 1. Jednostką organizacyjną służby ratownictwa górniczego przedsiębiorcy jest drużyna ratownicza.
-
-#### Rozdział 3 Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których te szkolenia są przeprowadzane przez przedsiębiorcę § 51. 1. Przedsiębiorca zapewnia kandydatom na ratowników górniczych i ratownikom górniczym oraz ratownikom górniczym zespołów specjalistycznych przeprowadzanie specjalistycznych badań lekarskich i psychologicznych w celu stwierdzenia ich przydatności do służby w ratownictwie górniczym.
-
-## Część zajęć praktycznych dla kandydatów na ratowników górniczych w drużynach ratowniczych dla podziemnych zakładów górniczych odbywa się w warunkach pełnego zadymienia i ograniczonej widoczności.
-
-#### Rozdział 4 Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego § 65. Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego określa załącznik nr 2 do rozporządzenia.
-
-#### Rozdział 5 Sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym § 68. 1. Jeżeli zawarto umowę, o której mowa w art. 122 ust. 15 ustawy, zwaną dalej „umową”, z podmiotem zawodowo trudniącym się ratownictwem górniczym:
-
-#### Rozdział 6 Przypadki, w których wykonuje się prace profilaktyczne. Sposób prowadzenia akcji ratowniczych w zależności od rodzaju i natężeń zagrożeń występujących w zakładzie górniczym § 71. 1. Prace profilaktyczne wykonuje się w przypadku:
-
-#### Rozdział 7 Przepisy przejściowe i przepis końcowy § 113. 1. Opracowane na podstawie dotychczasowych przepisów dokumenty dotyczące ratownictwa górniczego, takie jak:
-
-## Załącznik nr 3 — SZCZEGÓŁOWY SPOSÓB PROWADZENIA AKCJI RATOWNICZYCH W ZAKŁADACH GÓRNICZYCH
+## Załącznik nr 3 — SZCZEGÓŁOWY SPOSÓB PROWADZENIA AKCJI RATOWNICZYCH SZCZEGÓŁOWY SPOSÓB PROWADZENIA AKCJI RATOWNICZYCH W ZAKŁADACH GÓRNICZYCH W ZAKŁADACH GÓRNICZYCH
 
 1. Akcja ratownicza w przypadku pożarów podziemnych w polach niemetanowych.
 1.1. Za akcję ratowniczą przeciwpożarową, zwaną dalej „akcją przeciwpożarową”, uznaje się wszelkie prace prowadzone w celu:
@@ -1190,7 +1202,6 @@ O obowiązkach i zadaniach ratownika górniczego zostałem pouczony, co stwierdz
 5) sposób kontroli zaplanowanych zadań;
 6) przypuszczalny czas realizacji zadań.
 1.3.2. Plan akcji przeciwpożarowej powinien być na bieżąco korygowany i uwzględniać zmiany mogące powstać podczas jej trwania.
-SZCZEGÓŁOWY SPOSÓB PROWADZENIA AKCJI RATOWNICZYCH W ZAKŁADACH GÓRNICZYCH
 1.4. W celu bieżącego rozpoznania stanu pożaru oraz występujących w strefie zagrożenia zmian w składzie gazów oraz ich parametrów stanu, a także oceny zagrożenia wybuchowego kierownik akcji ratowniczej powinien niezwłocznie zorganizować pomiar parametrów fizykochemicznych powietrza i gazów pożarowych (skład chemiczny, temperatura, wilgotność, prędkość, ilość). Dla zwiększenia kontroli stanu zagrożenia pożarowego, a zwłaszcza dla oceny temperatury i masy zagrzanego węgla należy pobierać próby powietrza do precyzyjnych analiz chromatograficznych.
 1.5. Do pomiarów składu chemicznego powietrza i gazów pożarowych powinny być przede wszystkim stosowane urządzenia do zdalnego pobierania prób, z wykorzystaniem stanowiska pomiarowego wyposażonego w szczególności w:
 1) zestaw chromatograficzny umożliwiający szybkie wykonanie analizy chemicznej powietrza i gazów pożarowych;
@@ -1247,12 +1258,12 @@ SZCZEGÓŁOWY SPOSÓB PROWADZENIA AKCJI RATOWNICZYCH W ZAKŁADACH GÓRNICZYCH
 4) tamy ze spoiw szybkowiążących;
 5) tamy o konstrukcji innej niż wyżej wymienione, odpowiednio udokumentowanej i pozytywnie zaopiniowanej przez jednostkę ratownictwa górniczego.
 2.10.3. Tamy o konstrukcji przeciwwybuchowej, z wyjątkiem korków wodnych i podsadzkowych, wyposaża się w:
-1) przepust tamowy Ø min. 800 mm umożliwiający przewietrzanie i komunikację z przestrzenią izolowaną, wyposażony w obudowę przeciwwybuchową o konstrukcji umożliwiającej zamknięcie od strony izolowanego pola lub od strony dojścia do pola i zapewniającej odporność na ciśnienie fali wybuchu o wartości 1 MPa;
-2) rury kontrolne Ø min. ½", umożliwiające sprawdzanie parametrów atmosfery w izolowanej przestrzeni, zabudowane na ¾ wysokości wyrobiska;
-3) rurociąg odwadniający Ø min. 80 mm wraz z syfonem i koszem;
-4) rury tłoczne Ø min. 50 mm do podsadzania korka;
-5) rurę Ø min. 50 mm odpowietrzającą podsadzaną przestrzeń;
-6) jednostronnie zaślepione rurociągi technologiczne Ø min. 80 mm, w tym do podawania gazów inertnych.
+1) przepust tamowy Ø min. – 800 mm umożliwiający przewietrzanie i komunikację z przestrzenią izolowaną, wyposażony w obudowę przeciwwybuchową o konstrukcji umożliwiającej zamknięcie od strony izolowanego pola lub od strony dojścia do pola i zapewniającej odporność na ciśnienie fali wybuchu o wartości 1 MPa;
+2) rury kontrolne Ø min. – ½", umożliwiające sprawdzanie parametrów atmosfery w izolowanej przestrzeni, zabudowane na ¾ wysokości wyrobiska;
+3) rurociąg odwadniający Ø min. – 80 mm wraz z syfonem i koszem;
+4) rury tłoczne Ø min. – 50 mm do podsadzania korka;
+5) rurę Ø min. – 50 mm odpowietrzającą podsadzaną przestrzeń;
+6) jednostronnie zaślepione rurociągi technologiczne Ø min. – 80 mm, w tym do podawania gazów inertnych.
 2.10.4. Podczas akcji ratowniczej sposób zabezpieczenia wyrobisk tamami o konstrukcji przeciwwybuchowej ustala kierownik akcji ratowniczej.
 2.10.5. W ramach profilaktyki pożarowej decyzję w zakresie określonym w pkt 2.10.4 podejmuje kierownik ruchu zakładu górniczego.
 2.11. Lokalizacja tam o konstrukcji przeciwwybuchowej, warunki ich doboru oraz kontroli.
@@ -1303,7 +1314,7 @@ SZCZEGÓŁOWY SPOSÓB PROWADZENIA AKCJI RATOWNICZYCH W ZAKŁADACH GÓRNICZYCH
 3. Akcja ratownicza prowadzona w trudnych warunkach mikroklimatu w podziemnych zakładach górniczych.
 3.1. Prace wykonywane przez ratowników górniczych w aparatach regeneracyjnych albo powietrznych butlowych podczas akcji ratowniczych w temperaturze powyżej:
 1) 25 C mierzonej termometrem suchym i wilgotności względnej powyżej 50%, w ubraniach z włókien chemicznych,
-2) 30 C mierzonej termometrem suchym i wilgotności względnej powyżej 60%, w ubraniach z włókien naturalnych należy traktować jako akcje ratownicze prowadzone w trudnych warunkach mikroklimatu.
+2) 30 C mierzonej termometrem suchym i wilgotności względnej powyżej 60%, w ubraniach z włókien naturalnych – należy traktować jako akcje ratownicze prowadzone w trudnych warunkach mikroklimatu.
 3.2. Podczas akcji ratowniczej prowadzonej w trudnych warunkach mikroklimatu kierownik akcji ratowniczej jest zobowiązany podjąć działania poprawiające zarówno komfort oddychania w aparatach regeneracyjnych, jak i warunki mikroklimatu w miejscu pracy ratowników. Zakres tych działań i środki techniczne do ich realizacji kierownik akcji ratowniczej powinien skonsultować z przedstawicielem właściwej jednostki ratownictwa pracującym w sztabie akcji ratowniczej i polecić ich odnotowanie w książce prowadzenia akcji ratowniczej.
 3.3. Prace wykonywane przez ratowników górniczych w akcjach ratowniczych w aparatach regeneracyjnych, bez stosowania środków poprawiających komfort oddychania i warunki mikroklimatu w miejscu pracy ratowników, można prowadzić wyłącznie w atmosferze, w której temperatura mierzona termometrem suchym nie przekracza 35ºC i wilgotność względna nie przekracza 60%.
 3.4. Od zasady stosowania środków poprawiających zarówno komfort oddychania, jak i warunki mikroklimatu w miejscu pracy ratowników można odstąpić:
@@ -1323,10 +1334,10 @@ SZCZEGÓŁOWY SPOSÓB PROWADZENIA AKCJI RATOWNICZYCH W ZAKŁADACH GÓRNICZYCH
 3.16. W przypadku prowadzenia akcji ratowniczej w temperaturze powyżej 33ºC, mierzonej termometrem suchym, bez użycia aparatów regeneracyjnych lub powietrznych butlowych czasy pracy podane w tabelach nr 2, 3 i 4 można wydłużyć do 25%.
 3.17. W planie akcji ratowniczej należy wziąć pod uwagę zastosowanie środków zapobiegawczych na wypadek konieczności prowadzenia akcji ratowniczej w trudnych warunkach mikroklimatu.
 3.18. W akcjach ratowniczych prowadzonych w trudnych warunkach mikroklimatu mogą być stosowane aparaty regeneracyjne i powietrzne butlowe, nieujęte w tabelach nr 2, 3 i 4 posiadające ocenę typu WE oraz oznakowanie znakiem CE wydanym przez jednostkę notyfikowaną.
-Tabela nr 1 Tabela określająca wartości wydatków energetycznych u ratowników górniczych podczas wykonywania typowych czynności ratowniczych (praca w aparacie regeneracyjnym) Lp. Rodzaj czynności Wydatek energetyczny w (W/m ) przy wilgotności względnej w % 50 60 70 80 90 100 1 Budowa tamy murowej 180 195 210 226 241 256 Penetracja wyrobiska kąt 50 2 203 218 233 249 264 279 z prędkością 4 km/h Penetracja niskiego i stromego 3 272 287 303 318 333 348 wyrobiska 4 Transport kostki 278 293 308 324 339 354 5 Cięcie drewna 296 312 327 342 357 372 6 Transport na noszach 317 333 348 363 378 393 praca lekka: 100 ÷ 165 W/m praca umiarkowana: 165 ÷ 230 W/m praca ciężka: 230 ÷ 290 W/m praca bardzo ciężka: > 290 W/m Tabela nr 2 Tabela bezpiecznego czasu pracy przy obciążeniu pracą umiarkowaną w ubraniu z włókien naturalnych wilgotność względna Temperatura [°C] 95% 85% 70% 23 24 25 26 27 120 28 101 120 120 29 84 120 106 90 117 30 72 103 92 89 99 120 31 63 88 80 79 85 120 112 90 120 120 32 56 76 70 68 72 110 100 86 112 112 120 33 50 66 62 57 64 98 87 75 98 105 105 90 34 45 57 55 53 57 88 71 66 85 92 90 89 35 40 50 48 44 51 76 62 59 75 82 78 79 36 36 44 43 40 46 66 55 52 66 72 70 71 37 32 38 37 35 41 58 49 47 58 64 62 62 38 29 34 33 32 37 51 44 42 51 58 53 57 39 26 30 31 29 34 45 40 38 46 52 50 53 Maksymalny czas przebywania w akcji dla aparatów tlenowych 120 min, a dla aparatu powietrznego 90 min.
-40 24 27 28 27 31 39 36 34 41 47 43 49 41 22 24 25 23 28 35 32 31 36 42 40 43 42 20 21 23 21 25 31 29 28 33 38 38 40 43 18 19 21 19 23 28 27 25 29 35 33 38 44 17 17 19 17 21 26 24 23 26 32 30 35 45 15 15 17 15 20 23 23 21 24 28 26 31 46 14 14 16 14 18 21 21 19 22 26 24 28 47 13 13 15 13 17 19 18 17 20 23 21 25 48 12 12 13 12 15 17 17 16 18 21 19 24 49 11 11 12 11 14 16 16 15 16 20 17 22 50 10 10 11 10 13 15 15 14 15 18 16 20 Tabela nr 3 Tabela bezpiecznego czasu pracy przy obciążeniu pracą ciężką w ubraniu z włókien naturalnych wilgotność względna Temperatura 95% 85% 70% [°C] 23 24 25 26 120 27 107 28 93 120 120 90 120 29 82 111 105 87 105 120 120 30 70 93 91 80 92 117 115 120 31 59 79 79 75 81 103 104 90 106 120 120 32 50 68 68 63 70 91 91 85 91 111 104 90 33 43 58 60 54 62 80 84 74 77 91 90 85 34 37 50 52 50 54 71 70 65 67 81 78 78 35 32 43 46 42 47 63 61 57 58 74 68 72 36 27 38 41 39 41 56 52 51 51 66 60 67 37 24 33 36 33 36 50 46 45 44 62 53 61 38 21 29 32 30 31 45 40 40 40 56 47 54 Maksymalny czas przebywania w akcji dla aparatów tlenowych 120 min, a dla aparatu powietrznego 90 min.
-39 18 25 29 27 28 40 37 36 34 50 44 50 40 16 22 27 21 24 36 33 32 32 46 41 45 41 14 20 24 19 22 33 30 29 27 41 39 41 42 12 17 22 16 19 30 28 26 24 36 37 38 43 11 16 20 14 17 27 26 23 22 34 31 33 44 10 14 18 12 15 24 23 21 19 31 27 32 45 9 12 16 10 14 22 22 19 17 26 24 30 46 8 11 15 10 12 20 20 17 16 21 22 27 47 7 10 14 9 11 18 17 16 15 19 19 23 48 6 9 12 8 10 16 14 14 13 17 16 22 49 6 8 11 7 9 15 13 13 12 16 15 20 50 5 7 10 6 8 13 11 12 11 14 14 17 Tabela nr 4 Tabela bezpiecznego czasu pracy przy obciążeniu pracą ciężką w ubraniu z włókien chemicznych wilgotność względna Temperatura [°C] 95% 90% 85% 23 24 25 120 26 115 27 105 120 120 90 28 89 118 114 87 120 120 120 90 120 29 73 105 96 77 103 114 110 89 120 120 118 30 61 86 80 71 87 99 97 87 117 119 106 31 51 72 68 68 73 86 86 81 101 107 97 90 32 43 60 58 59 62 75 76 76 87 91 88 89 33 37 51 52 50 53 66 68 61 75 82 80 81 34 31 43 47 41 45 58 61 55 65 76 75 73 35 27 36 43 34 39 51 55 49 57 68 67 67 36 23 31 38 28 34 45 49 42 50 60 59 63 37 20 27 34 25 29 41 45 38 43 58 51 58 Maksymalny czas przebywania w akcji dla aparatów tlenowych 120 min, a dla aparatu powietrznego 90 min.
-38 17 23 31 22 26 36 38 35 39 52 42 51 39 15 20 28 18 22 32 33 30 33 49 40 49 40 13 17 26 16 20 29 29 28 31 45 39 42 41 11 15 23 14 17 26 25 25 26 40 36 39 42 10 13 21 12 15 24 22 22 23 35 33 37 43 9 11 19 11 14 21 20 20 21 33 30 31 44 8 10 17 10 12 19 18 17 18 30 26 28 45 7 9 15 9 11 18 16 15 16 24 19 25 46 6 8 14 8 10 16 15 12 15 20 18 21 47 5 7 13 7 9 15 14 11 14 18 16 20 48 5 6 10 6 8 13 12 10 12 15 13 19 49 4 5 9 5 7 12 10 10 11 13 11 17 50 4 5 8 5 6 10 9 8 9 11 10 16 * Dotyczy aparatów BR-4EP ze schładzaczem powietrza z wkładem lodowym.
+Tabela nr 1 Tabela określająca wartości wydatków energetycznych u ratowników górniczych podczas wykonywania typowych czynności ratowniczych (praca w aparacie regeneracyjnym) Wydatek energetyczny w (W/m ) Lp. Rodzaj czynności przy wilgotności względnej w % 50 60 70 80 90 100 1 Budowa tamy murowej 180 195 210 226 241 256 Penetracja wyrobiska kąt 50 2 203 218 233 249 264 279 z prędkością 4 km/h Penetracja niskiego i stromego 3 272 287 303 318 333 348 wyrobiska 4 Transport kostki 278 293 308 324 339 354 5 Cięcie drewna 296 312 327 342 357 372 6 Transport na noszach 317 333 348 363 378 393 praca lekka: 100 ÷ 165 W/m praca umiarkowana: 165 ÷ 230 W/m praca ciężka: 230 ÷ 290 W/m praca bardzo ciężka: > 290 W/m Tabela nr 2 Tabela bezpiecznego czasu pracy przy obciążeniu pracą umiarkowaną w ubraniu z włókien naturalnych wilgotność względna Temperatura 95% 85% 70% [°C] 23 24 Maksymalny czas przebywania w akcji dla aparatów tlenowych 120 min, 25 a dla aparatu powietrznego 90 min.
+26 27 120 28 101 120 120 29 84 120 106 90 117 30 72 103 92 89 99 120 31 63 88 80 79 85 120 112 90 120 120 32 56 76 70 68 72 110 100 86 112 112 120 33 50 66 62 57 64 98 87 75 98 105 105 90 34 45 57 55 53 57 88 71 66 85 92 90 89 35 40 50 48 44 51 76 62 59 75 82 78 79 36 36 44 43 40 46 66 55 52 66 72 70 71 37 32 38 37 35 41 58 49 47 58 64 62 62 38 29 34 33 32 37 51 44 42 51 58 53 57 39 26 30 31 29 34 45 40 38 46 52 50 53 40 24 27 28 27 31 39 36 34 41 47 43 49 41 22 24 25 23 28 35 32 31 36 42 40 43 42 20 21 23 21 25 31 29 28 33 38 38 40 43 18 19 21 19 23 28 27 25 29 35 33 38 44 17 17 19 17 21 26 24 23 26 32 30 35 45 15 15 17 15 20 23 23 21 24 28 26 31 46 14 14 16 14 18 21 21 19 22 26 24 28 47 13 13 15 13 17 19 18 17 20 23 21 25 48 12 12 13 12 15 17 17 16 18 21 19 24 49 11 11 12 11 14 16 16 15 16 20 17 22 50 10 10 11 10 13 15 15 14 15 18 16 20 Tabela nr 3 Tabela bezpiecznego czasu pracy przy obciążeniu pracą ciężką w ubraniu z włókien naturalnych wilgotność względna Temperatura 95% 85% 70% [°C] 23 24 Maksymalny czas przebywania w akcji dla aparatów tlenowych 120 min, a dla aparatu powietrznego 90 min.
+25 26 120 27 107 28 93 120 120 90 120 29 82 111 105 87 105 120 120 30 70 93 91 80 92 117 115 120 31 59 79 79 75 81 103 104 90 106 120 120 32 50 68 68 63 70 91 91 85 91 111 104 90 33 43 58 60 54 62 80 84 74 77 91 90 85 34 37 50 52 50 54 71 70 65 67 81 78 78 35 32 43 46 42 47 63 61 57 58 74 68 72 36 27 38 41 39 41 56 52 51 51 66 60 67 37 24 33 36 33 36 50 46 45 44 62 53 61 38 21 29 32 30 31 45 40 40 40 56 47 54 39 18 25 29 27 28 40 37 36 34 50 44 50 40 16 22 27 21 24 36 33 32 32 46 41 45 41 14 20 24 19 22 33 30 29 27 41 39 41 42 12 17 22 16 19 30 28 26 24 36 37 38 43 11 16 20 14 17 27 26 23 22 34 31 33 44 10 14 18 12 15 24 23 21 19 31 27 32 45 9 12 16 10 14 22 22 19 17 26 24 30 46 8 11 15 10 12 20 20 17 16 21 22 27 47 7 10 14 9 11 18 17 16 15 19 19 23 48 6 9 12 8 10 16 14 14 13 17 16 22 49 6 8 11 7 9 15 13 13 12 16 15 20 50 5 7 10 6 8 13 11 12 11 14 14 17 Tabela nr 4 Tabela bezpiecznego czasu pracy przy obciążeniu pracą ciężką w ubraniu z włókien chemicznych wilgotność względna Temperatura 95% 90% 85% [°C] 23 24 Maksymalny czas przebywania w akcji dla aparatów tlenowych 120 min, 25 120 a dla aparatu powietrznego 90 min.
+26 115 27 105 120 120 90 28 89 118 114 87 120 120 120 90 120 29 73 105 96 77 103 114 110 89 120 120 118 30 61 86 80 71 87 99 97 87 117 119 106 31 51 72 68 68 73 86 86 81 101 107 97 90 32 43 60 58 59 62 75 76 76 87 91 88 89 33 37 51 52 50 53 66 68 61 75 82 80 81 34 31 43 47 41 45 58 61 55 65 76 75 73 35 27 36 43 34 39 51 55 49 57 68 67 67 36 23 31 38 28 34 45 49 42 50 60 59 63 37 20 27 34 25 29 41 45 38 43 58 51 58 38 17 23 31 22 26 36 38 35 39 52 42 51 39 15 20 28 18 22 32 33 30 33 49 40 49 40 13 17 26 16 20 29 29 28 31 45 39 42 41 11 15 23 14 17 26 25 25 26 40 36 39 42 10 13 21 12 15 24 22 22 23 35 33 37 43 9 11 19 11 14 21 20 20 21 33 30 31 44 8 10 17 10 12 19 18 17 18 30 26 28 45 7 9 15 9 11 18 16 15 16 24 19 25 46 6 8 14 8 10 16 15 12 15 20 18 21 47 5 7 13 7 9 15 14 11 14 18 16 20 48 5 6 10 6 8 13 12 10 12 15 13 19 49 4 5 9 5 7 12 10 10 11 13 11 17 50 4 5 8 5 6 10 9 8 9 11 10 16 * Dotyczy aparatów BR-4EP ze schładzaczem powietrza z wkładem lodowym.
 ** Aparat powietrzny z zapasem powietrza minimum 4000 dm .
 4. Akcja ratownicza prowadzona w sytuacji jednoczesnego występowania kilku zagrożeń.
 4.1. Przez akcję ratowniczą prowadzoną w sytuacji jednoczesnego występowania kilku zagrożeń należy rozumieć prowadzenie akcji ratowniczej w przypadku wystąpienia równocześnie co najmniej dwóch zagrożeń górniczych, w szczególności: tąpaniami, zawałowego, pożarowego, metanowego, wyrzutami gazów i skał, przekroczenia dopuszczalnych stężeń gazów w przekrojach wyrobisk, wodnego, wybuchem pyłu węglowego, klimatycznego, erupcyjnego, siarkowodorowego.
@@ -1360,7 +1371,7 @@ Tabela nr 1 Tabela określająca wartości wydatków energetycznych u ratownikó
 6.4.2. W temperaturze powyżej 60°C ratownik powinien być zabezpieczony ubraniem gazoszczelnym i kwasoodpornym oraz powinien być wyposażony w aparat powietrzny butlowy pod ubranie; o potrzebie zastosowania urządzenia klimatyzacyjnego decyduje kierownik akcji ratowniczej.
 6.5. Ratownicy górniczy podczas akcji przeprowadzanej w trudnych warunkach cieplnych powinni zgłaszać zastępowemu każdy objaw przegrzania organizmu, w szczególności zawroty i bóle głowy, bóle kończyn, zaburzenia wzroku lub słuchu oraz mdłości. Po otrzymaniu takiego zgłoszenia od ratowników zastępowy natychmiast wycofuje cały zastęp do bazy.
 6.6. Dla ratowników górniczych powracających do bazy po wykonaniu prac w trudnych warunkach cieplnych powinny być przygotowane w bazie: odzież na wymianę, koce i ciepłe napoje.
-6.7. W celu zwiększenia bezpieczeństwa pracy zastępu w trudnych warunkach cieplnych powinno się wykorzystać wszelkie możliwe środki do obniżenia temperatury, a w razie bardzo silnego promieniowania cieplnego korzystać ze środków ochrony, takich jak ekrany, tarcze osłonowe, ubrania żaroodporne lub przeciwpłomienne.
+6.7. W celu zwiększenia bezpieczeństwa pracy zastępu w trudnych warunkach cieplnych powinno się wykorzystać wszelkie możliwe środki do obniżenia temperatury, a w razie bardzo silnego promieniowania cieplnego – korzystać ze środków ochrony, takich jak ekrany, tarcze osłonowe, ubrania żaroodporne lub przeciwpłomienne.
 6.8. Ratownicy górniczy kierowani do prac w trudnych warunkach cieplnych wyposażeni w ochronne kombinezony gazoszczelne powinni być każdorazowo pouczeni przez kierownika bazy o sposobie pracy w kombinezonie.
 7. Akcja ratownicza prowadzona w sytuacji zalania wodą, zatopienia oraz powstania zapadlisk.
 7.1. Za akcję ratowniczą prowadzoną w sytuacji zalania wodą, zatopienia oraz powstania zapadlisk uznaje się wszelkie prace wykonywane przez ratowników lub pracowników zakładu górniczego w celu ratowania ludzi, zabezpieczenia urządzeń i wyposażenia zakładu.
@@ -1405,7 +1416,7 @@ Tabela nr 1 Tabela określająca wartości wydatków energetycznych u ratownikó
 3) wykonuje się obwałowania, wykorzystując istniejące zagłębienia terenu;
 4) organizuje się środki do transportu ropy z miejsca jej gromadzenia;
 5) przygotowuje się sprzęt i narzędzia służące do zamknięcia wylotu otworu;
-6) podczas prowadzenia prac ratunkowych w obrębie rozlewisk ropy naftowej w obrębie miejsc pracy powinna być położona piana gaśnicza;
+6) podczas prowadzenia prac ratunkowych w obrębie rozlewisk ropy naftowej – w obrębie miejsc pracy powinna być położona piana gaśnicza;
 7) prowadzi się ciągłą kontrolę wybuchowości.
 8.4. Podczas erupcji otwartej płynu złożowego z zawartością siarkowodoru:
 1) wykonuje się zadania określone w pkt 7.2 lub 7.3;
@@ -1483,7 +1494,7 @@ b) ustalić zasady ewakuacji ludzi z terenu akcji i ludności z okolicznych tere
 10.7. W przypadku gdy w strefie wybuchu lub wyrzutu znajdują się izolowane pola pożarowe, zroby stanowiące zbiornik metanu lub tamy zabezpieczające zbiorniki wodne, powinien być w pierwszej fazie akcji ratowniczej szczegółowo skontrolowany stan tam i wyrobisk w tym rejonie.
 10.8. Podczas prowadzenia akcji ratowniczych związanych z likwidacją zagrożenia powstałego w wyniku wypływu gazów do wyrobisk, wybuchu gazów i pyłu węglowego oraz wyrzutu gazów i skał stosuje się odpowiednio wymagania określone w pkt 1–4 niniejszego załącznika.
 
-## Załącznik nr 4 — SZCZEGÓŁOWY SPOSÓB STOSOWANIA GAZÓW INERTNYCH
+## Załącznik nr 4 — SZCZEGÓŁOWY SZCZEGÓŁOWY SPOSÓB SPOSÓB STOSOWANIA STOSOWANIA GAZÓW GAZÓW INERTNYCH INERTNYCH
 
 1. Postanowienia ogólne.
 1.1. Zasady stosowania gazów inertnych, zwane dalej „zasadami”, określają stosowanie gazów inertnych podczas prowadzenia akcji ratowniczych lub prac profilaktycznych mających na celu likwidację pożaru, zagrożenia pożarowego, zagrożenia wybuchem gazu lub pyłu węglowego w podziemnych zakładach górniczych.
@@ -1499,23 +1510,22 @@ b) występujących zagrożeń tąpaniami i metanowego oraz zagrożenia pożarowe
 5) technologię podawania gazu inertnego;
 6) sposób wykonywania pomiarów i kontrolowania stężeń gazów w powietrzu w miejscach, o których mowa w ppkt 3;
 7) rodzaj indywidualnego sprzętu ochrony układu oddechowego stanowiącego wyposażenie osób przebywających w miejscach, o których mowa w ppkt 3;
-SZCZEGÓŁOWY SPOSÓB STOSOWANIA GAZÓW INERTNYCH
 8) sposób kontroli szczelności rurociągów w czasie podawania gazu inertnego;
 9) sposób postępowania w przypadku wystąpienia zaburzeń w przewietrzaniu (przerwy w pracy wentylatorów głównych, uszkodzenie urządzeń wentylacyjnych, tąpnięcie) w czasie wtłaczania gazów inertnych;
 10) zakres i częstotliwość kontroli podawania gazów inertnych, z uwzględnieniem w szczególności bieżących kontroli przeprowadzonych co najmniej raz na dobę i obejmujących:
-a) pomiary zawartości tlenu w podawanym rurociągiem gazie inertnym w przypadku stosowania azotu pozyskiwanego bezpośrednio z powietrza atmosferycznego,
+a) pomiary zawartości tlenu w podawanym rurociągiem gazie inertnym – w przypadku stosowania azotu pozyskiwanego bezpośrednio z powietrza atmosferycznego,
 b) kontrolę ogólnego stanu rurociągów przesyłowych i prawidłowości ich zawieszenia;
 11) sposób postępowania w przypadku powstania niebezpiecznego nadciśnienia powyżej 3 hPa w otamowanej przestrzeni;
 12) sposób i warunki zabudowy wytwornicy gazów obojętnych;
 13) sposób zabezpieczenia przeciwpożarowego wytwornicy gazów obojętnych oraz pomiar składu gazów obojętnych.
 1.4. Dokumentację techniczną:
-1) w przypadku prowadzenia akcji ratowniczej opracowuje sztab akcji ratowniczej, a następnie zatwierdza kierownik akcji ratowniczej po uzgodnieniu z kierownikiem jednostki ratownictwa górniczego;
-2) w przypadku likwidacji zagrożenia pożarowego opracowuje kierownik działu wentylacji, a zatwierdza kierownik ruchu zakładu górniczego.
+1) w przypadku prowadzenia akcji ratowniczej – opracowuje sztab akcji ratowniczej, a następnie zatwierdza kierownik akcji ratowniczej po uzgodnieniu z kierownikiem jednostki ratownictwa górniczego;
+2) w przypadku likwidacji zagrożenia pożarowego – opracowuje kierownik działu wentylacji, a zatwierdza kierownik ruchu zakładu górniczego.
 1.5. Integralną część dokumentacji technicznej stanowią szczegółowe fabryczne instrukcje obsługi, kontroli, konserwacji i naprawy urządzeń stosowanych do wytwarzania gazów inertnych.
 2. Urządzenia stosowane do wytwarzania gazów inertnych mogą być zabudowane na powierzchni podziemnego zakładu górniczego albo w jego wyrobiskach.
 3. Prace związane z podawaniem gazów inertnych do podziemnych wyrobisk zakładu górniczego są prowadzone pod nadzorem osoby dozoru ruchu wyznaczonej przez:
-1) w przypadku prowadzenia akcji ratowniczej kierownika akcji ratowniczej;
-2) w przypadku likwidacji zagrożenia pożarowego kierownika ruchu zakładu górniczego.
+1) w przypadku prowadzenia akcji ratowniczej – kierownika akcji ratowniczej;
+2) w przypadku likwidacji zagrożenia pożarowego – kierownika ruchu zakładu górniczego.
 4. Stosowanie gazów inertnych w akcjach ratowniczych.
 4.1. Decyzję o konieczności stosowania gazów inertnych w czasie akcji ratowniczej podejmuje kierownik akcji ratowniczej, w uzgodnieniu z kierownikiem jednostki ratownictwa górniczego.
 4.2. Prace związane ze stosowaniem w akcjach ratowniczych gazów inertnych w wyrobiskach podziemnych zakładu górniczego powinny być prowadzone z udziałem pogotowia specjalistycznego do inertyzacji powietrza kopalnianego jednostki ratownictwa górniczego.
@@ -1547,6 +1557,6 @@ Ilość ta może być mniejsza w przypadku zastosowania:
 4) przerwą w pracy wentylatora głównego (wentylatorów głównych).
 5.9. Stanowisko obsługi urządzenia podającego gaz inertny musi być wyposażone w łączność telefoniczną.
 5.10. W celu zapewnienia bezpieczeństwa pracy w wyrobiskach z zabudowaną instalacją do podawania gazów inertnych, minimalną ilość powietrza płynącą tymi wyrobiskami należy określać według wzorów:
-1) dla technologii stosowania azotu jako gazu inertnego: V mino minimalna ilość powietrza umożliwiająca utrzymanie O > 19% [m /min] So dop So rur V o Va So wyr So dop − min = − Va wydajność, z jaką podawany jest gaz inertny [m /min] So dop stężenie O dopuszczalne w powietrzu kopalnianym 19,0 [%] So rur stężenie O w rurociągu [%] So wyr stężenie O w wyrobiskach [%];
-2) dla technologii stosowania dwutlenku węgla jako gazu inertnego: V minco minimalna ilość powietrza umożliwiająca utrzymanie CO < 1% [m /min] Sco rur Sco dop V co Va Sco dop Sco wyr − min = − Va wydajność, z jaką podawany jest gaz inertny [m /min] Sco rur stężenie CO w rurociągu [%] Sco dop stężenie CO dopuszczalne w powietrzu kopalnianym 1,0 [%] Sco wyr stężenie CO w wyrobiskach [%].
+1) dla technologii stosowania azotu jako gazu inertnego: V mino – minimalna ilość powietrza umożliwiająca utrzymanie O > 19% [m /min] So dop − So rur V min o = Va So wyr − So dop Va – wydajność, z jaką podawany jest gaz inertny [m /min] So dop – stężenie O dopuszczalne w powietrzu kopalnianym 19,0 [%] So rur – stężenie O w rurociągu [%] So wyr – stężenie O w wyrobiskach [%];
+2) dla technologii stosowania dwutlenku węgla jako gazu inertnego: V minco – minimalna ilość powietrza umożliwiająca utrzymanie CO < 1% [m /min] Sco rur − Sco dop V min co = Va Sco dop − Sco wyr Va – wydajność, z jaką podawany jest gaz inertny [m /min] Sco rur – stężenie CO w rurociągu [%] Sco dop – stężenie CO dopuszczalne w powietrzu kopalnianym 1,0 [%] Sco wyr – stężenie CO w wyrobiskach [%].
 

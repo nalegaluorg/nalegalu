@@ -8,10 +8,10 @@ pos: 1333
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, 6 września 2024 ROZPORZĄDZENIE MINISTRA FINANSÓW 2 września 2024 sprawie warunków, jakie muszą spełniać alternatywny system lub zorganizowana platforma Na podstawie art. 94 1 pkt 3 ustawy 29 lipca 2005 obrocie instrumentami finansowymi (Dz. U. 2024 poz. 722) zarządza się, co następuje: § 1. Rozporządzenie określa warunki, jakie muszą spełniać prowadzone przez firmę inwestycyjną lub prowadzący działalność maklerską alternatywny system (ASO) lub zorganizowana platforma (OTF).
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1333 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 2 września 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,58 +25,73 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001333) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1333/text.pdf) |
 
-§ 2. 1. lub OTF posiadają zatwierdzony przez firmę inwestycyjną lub prowadzący działalność maklerską regulamin określający szczególności:
+w sprawie warunków, jakie muszą spełniać alternatywny system obrotu lub zorganizowana platforma obrotu Na podstawie art. 94 ust. 1 pkt 3 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r.
+poz. 722) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki, jakie muszą spełniać prowadzone przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską alternatywny system obrotu (ASO) lub zorganizowana platforma obrotu (OTF).
+§ 2. 1. ASO lub OTF posiadają zatwierdzony przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską regulamin określający w szczególności:
 1) rodzaj instrumentów finansowych, które mogą być przedmiotem obrotu;
-2) kryteria warunki wprowadzania instrumentów finansowych do obrotu;
-3) rodzaj, zakres sposób udostępniania informacji dotyczących instrumentów finansowych wprowadzanych do obrotu;
-4) tryb warunki zawierania transakcji;
-5) porządek instrumentami finansowymi;
-6) sposób tryb rozstrzygania sporów dotyczących przebiegu rozliczania transakcji;
-7) tryb warunki notowania, zawieszania zaprzestania notowania instrumentów finansowych;
-8) dni otwarcia godziny obrotu;
-9) sposób ustalania ogłaszania kursów lub cen notowanych instrumentów finansowych;
+2) kryteria i warunki wprowadzania instrumentów finansowych do obrotu;
+3) rodzaj, zakres i sposób udostępniania informacji dotyczących instrumentów finansowych wprowadzanych do obrotu;
+4) tryb i warunki zawierania transakcji;
+5) porządek obrotu instrumentami finansowymi;
+6) sposób i tryb rozstrzygania sporów dotyczących przebiegu i rozliczania transakcji;
+7) tryb i warunki notowania, zawieszania i zaprzestania notowania instrumentów finansowych;
+8) dni otwarcia i godziny obrotu;
+9) sposób ustalania i ogłaszania kursów lub cen notowanych instrumentów finansowych;
 10) sposób klasyfikowania instrumentów finansowych, jeżeli taka klasyfikacja ma miejsce;
-11) tryb warunki upowszechniania informacji dotyczących składanych ofert zawieranych transakcji;
-12) wysokość opłat za korzystanie systemów informatycznych urządzeń technicznych firmy inwestycyjnej lub banku państwowego prowadzącego działalność maklerską zapewniających dostęp do prowadzonych przez nie albo OTF;
-przedmiotem ubiegania wprowadzenie do albo na OTF lub zostały do tego wprowadzone;
-17) kryteria przyznawania statusu członka, uczestnika lub klienta OTF, przypadku regulaminu OTF;
-18) sposób postępowania przypadku naruszenia przez członka lub uczestnika ASO, a przypadku OTF także klienta, obowiązków określonych regulaminie;
-19) sposób postępowania przypadku naruszenia obowiązków informacyjnych określonych regulaminie;
-20) środki służące przeciwdziałaniu ujawnianiu przypadków manipulacji na rynku, której mowa art. 12 rozporządzenia Parlamentu Europejskiego Rady (UE) nr 596/2014 16 kwietnia 2014 sprawie nadużyć na rynku (rozporządzenia sprawie nadużyć na rynku) uchylającego dyrektywę 2003/6/WE Parlamentu Europejskiego Rady dyrektywy Komisji 2003/124/WE, 2003/125/WE 2004/72/WE (Dz. 173 12.06.2014, 1, późn.
+11) tryb i warunki upowszechniania informacji dotyczących składanych ofert oraz zawieranych transakcji;
+12) wysokość opłat za korzystanie z systemów informatycznych oraz urządzeń technicznych firmy inwestycyjnej lub banku państwowego prowadzącego działalność maklerską zapewniających dostęp do prowadzonych przez nie ASO albo OTF;
+13) wysokość opłat transakcyjnych oraz sposób ich naliczania;
+14) opis systemu gwarantującego rozliczanie i rozrachunek transakcji zawieranych w ASO albo na OTF;
+15) obowiązki informacyjne w zakresie dotyczącym emitentów, których instrumenty finansowe są przedmiotem ubiegania się o wprowadzenie do ASO albo na OTF lub zostały do tego obrotu wprowadzone;
+16) wskazanie miejsca i sposobu udostępniania informacji dotyczących emitentów instrumentów finansowych, które są przedmiotem ubiegania się o wprowadzenie do ASO albo na OTF lub zostały do tego obrotu wprowadzone;
+17) kryteria przyznawania statusu członka, uczestnika lub klienta OTF, w przypadku regulaminu OTF;
+18) sposób postępowania w przypadku naruszenia przez członka lub uczestnika ASO, a w przypadku OTF – także klienta, obowiązków określonych w regulaminie;
+19) sposób postępowania w przypadku naruszenia obowiązków informacyjnych określonych w regulaminie;
+20) środki służące przeciwdziałaniu i ujawnianiu przypadków manipulacji na rynku, o której mowa w art. 12 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenia w sprawie nadużyć na rynku) oraz uchylającego dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, z późn.
 zm. ), zwanego dalej „rozporządzeniem 596/2014”.
-2. W przypadku gdy ramach OTF przewiduje możliwość produktami energetycznymi będącymi przedmiotem hurtowego, które muszą być wykonywane przez dostawę, postanowienia regulaminu, którym mowa 1, odnoszą również do takich produktów, a także określają środki służące przeciwdziałaniu ujawnianiu manipulacji na rynku lub próby manipulacji na rynku, których mowa art. 2 pkt 2 3 rozporządzenia Parlamentu Europejskiego Rady (UE) nr 1227/2011 25 października 2011 sprawie integralności przejrzystości hurtowego rynku energii (Dz. 326 08.12.2011, 1, późn. zm. ), zwanego dalej „rozporządzeniem 1227/2011”.
-3. Informacje, których mowa 1 pkt 3, umożliwiają inwestorom ocenę sytuacji finansowej, majątkowej gospodarczej emitenta lub wystawcy instrumentu finansowego, jak również praw obowiązków ryzyka związanego nabywaniem tych instrumentów finansowych. Rodzaj zakres informacji uwzględnia charakter inwestorów rodzaj instrumentów finansowych wprowadzanych do lub na OTF.
-4. Informacje, których mowa 1 pkt 3, mogą nie być udostępniane:
-1) jeżeli zostały podane do publicznej wiadomości sposób określony odrębnych przepisach spełniają warunki określone 3;
-2) przypadku papierów wartościowych, których mowa art. 1 2 lit. b d rozporządzenia Parlamentu Europejskiego Rady (UE) 2017/1129 14 czerwca 2017 sprawie prospektu, który ma być publikowany związku ofertą publiczną papierów wartościowych lub dopuszczeniem ich do na rynku regulowanym uchylenia dyrektywy 2003/71/WE (Dz. 168 30.06.2017, 12, późn. zm. ).
-5. Zakres rodzaj obowiązków, których mowa 1 pkt 15, uwzględnia charakter inwestorów rodzaj instrumentów finansowych. Obowiązki te nie mogą dotyczyć emitenta papierów wartościowych dopuszczonych do na rynku regulowanym, którego papiery wartościowe zostały wprowadzone do lub na OTF bez jego zgody.
-§ 3. zapewnia, aby jego członkiem lub uczestnikiem byli wyłącznie:
+2. W przypadku gdy w ramach OTF przewiduje się możliwość obrotu produktami energetycznymi będącymi przedmiotem obrotu hurtowego, które muszą być wykonywane przez dostawę, postanowienia regulaminu, o którym mowa w ust. 1, odnoszą się również do takich produktów, a także określają środki służące przeciwdziałaniu i ujawnianiu manipulacji na rynku lub próby manipulacji na rynku, o których mowa w art. 2 pkt 2 i 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii (Dz. Urz. UE L 326 z 08.12.2011, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 1227/2011”.
+3. Informacje, o których mowa w ust. 1 pkt 3, umożliwiają inwestorom ocenę sytuacji finansowej, majątkowej i gospodarczej emitenta lub wystawcy instrumentu finansowego, jak również praw i obowiązków oraz ryzyka związanego z nabywaniem tych instrumentów finansowych. Rodzaj i zakres informacji uwzględnia charakter inwestorów oraz rodzaj instrumentów finansowych wprowadzanych do obrotu w ASO lub na OTF.
+4. Informacje, o których mowa w ust. 1 pkt 3, mogą nie być udostępniane:
+1) jeżeli zostały podane do publicznej wiadomości w sposób określony w odrębnych przepisach oraz spełniają warunki określone w ust. 3;
+2) w przypadku papierów wartościowych, o których mowa w art. 1 ust. 2 lit. b i d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12, z późn. zm. ).
+5. Zakres i rodzaj obowiązków, o których mowa w ust. 1 pkt 15, uwzględnia charakter inwestorów oraz rodzaj instrumentów finansowych. Obowiązki te nie mogą dotyczyć emitenta papierów wartościowych dopuszczonych do obrotu na rynku regulowanym, którego papiery wartościowe zostały wprowadzone do obrotu w ASO lub na OTF bez jego zgody.
+§ 3. ASO zapewnia, aby jego członkiem lub uczestnikiem byli wyłącznie:
 1) firma inwestycyjna;
-2) prowadzący działalność maklerską;
+2) bank państwowy prowadzący działalność maklerską;
 3) zagraniczna firma inwestycyjna nieprowadząca działalności maklerskiej na terytorium Rzeczypospolitej Polskiej;
-4) instytucja kredytowa rozumieniu art. 4 1 pkt 17 ustawy 29 sierpnia 1997 Prawo bankowe (Dz. U.
-2023 poz. 2488 2024 poz. 879);
-5) krajowy rozumieniu art. 4 1 pkt 1 ustawy 29 sierpnia 1997 Prawo bankowe;
-danym ASO,
-d) posiada zasoby finansowe niezbędne dla danego typu uczestnictwa obrocie spełnia rozwiązania finansowe wymagane przez firmę inwestycyjną lub prowadzący działalność maklerską prowadzące celu zagwarantowania prawidłowego rozrachunku transakcji zawieranych tym ASO.
-§ 4. 1. lub OTF posiadają ustalone wdrożone przez firmę inwestycyjną lub prowadzący działalność maklerską skuteczne mechanizmy procedury dotyczące regularnego monitorowania przestrzegania przez członków, uczestników, a przypadku OTF także klientów, regulacji dotyczących dokonywanego tym lub na tym OTF.
-2. lub OTF posiadają rozwiązania zapewniające monitorowanie przez firmę inwestycyjną lub prowadzący działalność maklerską składanych zleceń, tym zleceń anulowanych, transakcji zawieranych tych systemach przez ich członków, uczestników, a przypadku OTF także klientów, celu identyfikacji wszelkich przypadków naruszeń regulacji, których mowa 1, zasad uczciwego obrotu, przypadków uzasadniających podejrzenie usiłowania dokonania lub wystąpienia manipulacji na rynku, której mowa art. 12 rozporządzenia 596/2014, usiłowania wykorzystania, wykorzystania lub ujawniania informacji poufnej, której mowa art. 7 tego rozporządzenia, a także zakłóceń funkcjonowania systemu instrumentami finansowymi.
-3. W przypadku gdy ramach OTF przewiduje możliwość produktami energetycznymi będącymi przedmiotem hurtowego, które muszą być wykonywane przez dostawę, OTF posiada również rozwiązania zapewniające monitorowanie przez firmę inwestycyjną lub prowadzący działalność maklerską składanych zleceń, tym zleceń anulowanych, transakcji zawieranych tym systemie przez jej członków, uczestników lub klientów celu identyfikowania wszelkich przypadków uzasadniających podejrzenie wystąpienia manipulacji na rynku lub próby manipulacji na rynku, których mowa art. 2 pkt 2 3 rozporządzenia 1227/2011, lub wykorzystania informacji wewnętrznej, której mowa art. 2 pkt 1 tego rozporządzenia.
-4. Rozwiązania, których mowa 2 3, uwzględniają odpowiednie zasoby kadrowe, technologiczne finansowe niezbędne do skutecznego monitorowania zleceń transakcji, których mowa 2 3.
-§ 5. 1. lub OTF zarządzają ryzykiem, na które narażone. Zarządzanie ryzykiem obejmuje szczególności:
-1) opracowanie zasad identyfikacji rodzajów istotnego ryzyka szacowania jego poziomu;
+4) instytucja kredytowa w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U.
+z 2023 r. poz. 2488 oraz z 2024 r. poz. 879);
+5) bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
+6) podmiot, który:
+a) posiada odpowiednią wiedzę i doświadczenie oraz daje rękojmię prawidłowego i bezpiecznego uczestnictwa w obrocie,
+b) wykazuje się niezbędnym poziomem możliwości transakcyjnych i kompetencji,
+c) dysponuje odpowiednimi rozwiązaniami organizacyjnymi, o ile takie rozwiązania są niezbędne dla uczestnictwa w danym ASO,
+d) posiada zasoby finansowe niezbędne dla danego typu uczestnictwa w obrocie oraz spełnia rozwiązania finansowe wymagane przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską prowadzące ASO w celu zagwarantowania prawidłowego rozrachunku transakcji zawieranych w tym ASO.
+§ 4. 1. ASO lub OTF posiadają ustalone i wdrożone przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską skuteczne mechanizmy i procedury dotyczące regularnego monitorowania przestrzegania przez członków, uczestników, a w przypadku OTF – także klientów, regulacji dotyczących obrotu dokonywanego w tym ASO lub na tym OTF.
+2. ASO lub OTF posiadają rozwiązania zapewniające monitorowanie przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską składanych zleceń, w tym zleceń anulowanych, oraz transakcji zawieranych w tych systemach przez ich członków, uczestników, a w przypadku OTF – także klientów, w celu identyfikacji wszelkich przypadków naruszeń regulacji, o których mowa w ust. 1, zasad uczciwego obrotu, przypadków uzasadniających podejrzenie usiłowania dokonania lub wystąpienia manipulacji na rynku, o której mowa w art. 12 rozporządzenia 596/2014, oraz usiłowania wykorzystania, wykorzystania lub ujawniania informacji poufnej, o której mowa w art. 7 tego rozporządzenia, a także zakłóceń funkcjonowania systemu obrotu instrumentami finansowymi.
+3. W przypadku gdy w ramach OTF przewiduje się możliwość obrotu produktami energetycznymi będącymi przedmiotem obrotu hurtowego, które muszą być wykonywane przez dostawę, OTF posiada również rozwiązania zapewniające monitorowanie przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską składanych zleceń, w tym zleceń anulowanych, oraz transakcji zawieranych w tym systemie przez jej członków, uczestników lub klientów w celu identyfikowania wszelkich przypadków uzasadniających podejrzenie wystąpienia manipulacji na rynku lub próby manipulacji na rynku, o których mowa w art. 2 pkt 2 i 3 rozporządzenia 1227/2011, lub wykorzystania informacji wewnętrznej, o której mowa w art. 2 pkt 1 tego rozporządzenia.
+4. Rozwiązania, o których mowa w ust. 2 i 3, uwzględniają odpowiednie zasoby kadrowe, technologiczne i finansowe niezbędne do skutecznego monitorowania zleceń i transakcji, o których mowa w ust. 2 i 3.
+§ 5. 1. ASO lub OTF zarządzają ryzykiem, na które są narażone. Zarządzanie ryzykiem obejmuje w szczególności:
+1) opracowanie zasad identyfikacji rodzajów istotnego ryzyka i szacowania jego poziomu;
 2) stosowanie środków ograniczających to ryzyko.
-2. W celu właściwego zarządzania ryzykiem, którym mowa 1, lub OTF posiadają ustalone wdrożone pisemne procedury dotyczące szczególności:
-1) zarządzania technicznym funkcjonowaniem systemów informatycznych urządzeń technicznych tym lub na tym OTF;
-2) bezpieczeństwa dostępu do systemów informatycznych urządzeń technicznych lub OTF przez członków, uczestników, a przypadku OTF także klientów, zasad nadzoru sprawowanego przez firmę inwestycyjną lub prowadzący działalność maklerską prowadzące lub OTF nad ich przestrzeganiem;
-3) systemów zarządzania ciągłością działania przypadku wystąpienia sytuacji nadzwyczajnych.
-3. lub OTF posiadają rozwiązania techniczne organizacyjne zapewniające:
-1) odporność operacyjną zgodnie wymogami określonymi rozdziale II rozporządzenia Parlamentu Europejskiego Rady (UE) 2022/2554 14 grudnia 2022 sprawie operacyjnej odporności cyfrowej sektora finansowego zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 (UE) 2016/1011 (Dz. 333 27.12.2022, 1, późn. zm. ), zwanego dalej „rozporządzeniem 2022/2554”, (ICT) plany reagowania przywracania sprawności ICT ustanowione zgodnie art. 11 rozporządzenia 2022/2554, zapewniające ciągłość świadczenia usług przypadku awarii systemów tych systemów obrotu.
-4. lub OTF posiadają rozwiązania zapewniające utrzymywanie przez firmę inwestycyjną lub prowadzący działalność maklerską kapitałów na poziomie umożliwiającym zapewnienie prawidłowego funkcjonowania prowadzonego lub OTF uwzględniającym charakter zakres transakcji zawieranych tym lub na tym OTF zakres poziom ryzyka, na które jest ono narażone.
-§ 6. lub OTF, które umożliwiają składanie zleceń wykorzystaniem handlu algorytmicznego, posiadają rozwiązania procedury, zgodne wymogami rozporządzenia delegowanego Komisji (UE) 2017/584 14 lipca 2016 uzupełniającego dyrektywę Parlamentu Europejskiego Rady 2014/65/UE odniesieniu do regulacyjnych standardów technicznych określających wymogi organizacyjne zakresie systemów (Dz. 87 31.03.2017, 350), zapewniające, że handel algorytmiczny nie będzie prowadził lub przyczyniał do powstania na lub OTF zakłóceń instrumentami finansowymi zapewniające zarządzanie zakłóceniami instrumentami finansowymi, które wynikają takiego handlu algorytmicznego, tym:
-1) zobowiązujące członka lub uczestnika systemu obrotu, a przypadku OTF także klienta, do przeprowadzania odpowiednich testów algorytmów zapewniające warunki ułatwiające przeprowadzenie takich testów, zgodnie wymogami określonymi rozdziałach II IV rozporządzenia 2022/2554;
-2) umożliwiające ograniczenie liczby niewykonanych zleceń stosunku do liczby transakcji, które członek lub uczestnik systemu obrotu, a przypadku OTF także klient, może wprowadzić danym systemie obrotu;
-3) umożliwiające spowolnienie przekazywania zleceń przypadku ryzyka osiągnięcia przez system transakcyjny maksymalnej wydajności ograniczenia minimalnej wielkości zmiany ceny, jakiej można dokonywać ramach danego systemu obrotu.
-§ 7. lub OTF synchronizują zegary, których używają do rejestrowania daty godziny wszystkich zdarzeń podlegających sprawozdawczości, zapewniają, aby synchronizację taką przeprowadzali członkowie, uczestnicy, a przypadku OTF także klienci tych systemów obrotu.
-§ 8. Rozporządzenie wchodzi życie dniem 29 września 2024 r., wyjątkiem § 5 3 § 6, które wchodzą życie dniem 17 stycznia 2025 Minister Finansów: A. Domański
+2. W celu właściwego zarządzania ryzykiem, o którym mowa w ust. 1, ASO lub OTF posiadają ustalone i wdrożone pisemne procedury dotyczące w szczególności:
+1) zarządzania technicznym funkcjonowaniem systemów informatycznych oraz urządzeń technicznych w tym ASO lub na tym OTF;
+2) bezpieczeństwa dostępu do systemów informatycznych i urządzeń technicznych ASO lub OTF przez członków, uczestników, a w przypadku OTF – także klientów, oraz zasad nadzoru sprawowanego przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską prowadzące ASO lub OTF nad ich przestrzeganiem;
+3) systemów zarządzania ciągłością działania w przypadku wystąpienia sytuacji nadzwyczajnych.
+3. ASO lub OTF posiadają rozwiązania techniczne i organizacyjne zapewniające:
+1) odporność operacyjną zgodnie z wymogami określonymi w rozdziale II rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2022/2554”, w tym:
+a) odporność systemów transakcyjnych tych systemów obrotu,
+b) wydajność systemów transakcyjnych tych systemów obrotu pozwalającą na obsłużenie znacznego wolumenu zleceń lub komunikatów,
+c) prawidłowy obrót instrumentami finansowymi w przypadku zaistnienia warunków dużych napięć rynkowych,
+d) przeprowadzanie pełnych testów spełniania warunków, o których mowa w lit. a–c;
+2) ciągłość działania, w tym strategię na rzecz ciągłości działania w zakresie technologii informacyjno-komunikacyjnych (ICT) i plany reagowania i przywracania sprawności ICT ustanowione zgodnie z art. 11 rozporządzenia 2022/2554, zapewniające ciągłość świadczenia usług w przypadku awarii systemów transakcyjnych tych systemów obrotu.
+4. ASO lub OTF posiadają rozwiązania zapewniające utrzymywanie przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską kapitałów na poziomie umożliwiającym zapewnienie prawidłowego funkcjonowania prowadzonego ASO lub OTF oraz uwzględniającym charakter i zakres transakcji zawieranych w tym ASO lub na tym OTF oraz zakres i poziom ryzyka, na które jest ono narażone.
+§ 6. ASO lub OTF, które umożliwiają składanie zleceń z wykorzystaniem handlu algorytmicznego, posiadają rozwiązania i procedury, zgodne z wymogami rozporządzenia delegowanego Komisji (UE) 2017/584 z dnia 14 lipca 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do regulacyjnych standardów technicznych określających wymogi organizacyjne w zakresie systemów obrotu (Dz. Urz. UE L 87 z 31.03.2017, str. 350), zapewniające, że handel algorytmiczny nie będzie prowadził lub przyczyniał się do powstania na ASO lub OTF zakłóceń obrotu instrumentami finansowymi oraz zapewniające zarządzanie zakłóceniami obrotu instrumentami finansowymi, które wynikają z takiego handlu algorytmicznego, w tym:
+1) zobowiązujące członka lub uczestnika systemu obrotu, a w przypadku OTF – także klienta, do przeprowadzania odpowiednich testów algorytmów oraz zapewniające warunki ułatwiające przeprowadzenie takich testów, zgodnie z wymogami określonymi w rozdziałach II i IV rozporządzenia 2022/2554;
+2) umożliwiające ograniczenie liczby niewykonanych zleceń w stosunku do liczby transakcji, które członek lub uczestnik systemu obrotu, a w przypadku OTF – także klient, może wprowadzić w danym systemie obrotu;
+3) umożliwiające spowolnienie przekazywania zleceń w przypadku ryzyka osiągnięcia przez system transakcyjny maksymalnej wydajności oraz ograniczenia minimalnej wielkości zmiany ceny, jakiej można dokonywać w ramach danego systemu obrotu.
+§ 7. ASO lub OTF synchronizują zegary, których używają do rejestrowania daty i godziny wszystkich zdarzeń podlegających sprawozdawczości, oraz zapewniają, aby synchronizację taką przeprowadzali członkowie, uczestnicy, a w przypadku OTF – także klienci tych systemów obrotu.
+§ 8. Rozporządzenie wchodzi w życie z dniem 29 września 2024 r., z wyjątkiem § 5 ust. 3 i § 6, które wchodzą w życie z dniem 17 stycznia 2025 r.
+Minister Finansów: A. Domański
 

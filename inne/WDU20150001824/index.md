@@ -8,10 +8,12 @@ pos: 1824
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 11 września 2015 r. o uprawnieniach do mienia Funduszu Wczasów Pracowniczych
+# o uprawnieniach do mienia Funduszu Wczasów Pracowniczych
+
+*USTAWA z dnia 11 września 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +29,12 @@ source: "eli-html"
 
 **Art. 1.** Ustawa określa uprawnienia do mienia Funduszu Wczasów Pracowniczych, utworzonego na podstawie ustawy z dnia 21 kwietnia 1988 r. o Funduszu Wczasów Pracowniczych (Dz. U. Nr 11, poz. 84 oraz z 1992 r. Nr 21, poz. 85), zwanego dalej „Funduszem”, oraz zasady ich realizacji.
 
-**Art. 2.** Ilekroć w ustawie jest mowa o:
+**Art. 2.** Ilekroć w ustawie jest mowa o :
+
+- **1)** mieniu Funduszu – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm. ) należące do Funduszu według stanu na dzień 31 sierpnia 1997 r.;
+- **2)** Spółce – należy przez to rozumieć spółkę działającą pod firmą „Fundusz Wczasów Pracowniczych spółka z ograniczoną odpowiedzialnością”, wpisaną do rejestru przedsiębiorców przez Sąd Rejonowy dla m.st. Warszawy w Warszawie XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem 0000041798;
+- **3)** udziałach w Spółce – należy przez to rozumieć udziały w spółce działającej pod firmą „Fundusz Wczasów Pracowniczych spółka z ograniczoną odpowiedzialnością”, wpisanej do rejestru przedsiębiorców przez Sąd Rejonowy dla m.st. Warszawy w Warszawie XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem 0000041798, pokryte wkładem niepieniężnym w postaci mienia Funduszu;
+- **4)** reprezentatywnych organizacjach związkowych – należy przez to rozumieć utworzone przed dniem wejścia w życie ustawy ogólnokrajowe związki zawodowe, ogólnokrajowe zrzeszenia związków zawodowych i ogólnokrajowe organizacje międzyzwiązkowe, spełniające kryteria, o których mowa w art. 23 ust. 2 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. poz. 1240).
 
 **Art. 3.**
 
@@ -36,7 +43,7 @@ source: "eli-html"
 2. Uprawnienia, o których mowa w ust. 1, przysługują od dnia:
 
 - **1)** 31 sierpnia 1997 r. – w przypadku reprezentatywnych organizacji związkowych istniejących w tym dniu;
-- **2)** stwierdzenia reprezentatywności na podstawie ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.) lub ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego – w przypadku reprezentatywnych organizacji związkowych powstałych po dniu 31 sierpnia 1997 r.
+- **2)** stwierdzenia reprezentatywności na podstawie ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm. ) lub ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego – w przypadku reprezentatywnych organizacji związkowych powstałych po dniu 31 sierpnia 1997 r.
 
 3. Przepisy ust. 1 i 2 nie wpływają na istniejące w dniu 31 sierpnia 1997 r. prawa osób trzecich do składników mienia Funduszu.
 
@@ -80,7 +87,7 @@ source: "eli-html"
 
 **Art. 7.**
 
-1. Do likwidacji Spółki z przyczyny określonej w art. 6 ust. 2, stosuje się przepisy rozdziału 6 w dziale I w tytule III ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm.), z wyjątkiem przepisu art. 276 § 1.
+1. Do likwidacji Spółki z przyczyny określonej w art. 6 ust. 2, stosuje się przepisy rozdziału 6 w dziale I w tytule III ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm. ), z wyjątkiem przepisu art. 276 § 1.
 
 2. Likwidatorami Spółki są osoby fizyczne lub osoba prawna ustanowieni przez reprezentatywne organizacje związkowe, w drodze porozumienia, najpóźniej w dniu bezskutecznego upływu terminu, o którym mowa w art. 6 ust. 1.
 

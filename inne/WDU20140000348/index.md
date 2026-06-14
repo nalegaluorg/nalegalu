@@ -8,7 +8,7 @@ pos: 348
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 4 marca 2014 r.

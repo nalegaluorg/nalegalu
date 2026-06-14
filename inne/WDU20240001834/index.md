@@ -8,10 +8,10 @@ pos: 1834
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie o odpadach oraz o zmianie o odpadach oraz niektórych innych ustaw
+# o zmianie ustawy o odpadach oraz ustawy o zmianie ustawy o odpadach oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 listopada 2024 r.*
 
@@ -29,7 +29,9 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029) po art. 226a dodaje się art. 226b w brzmieniu: „Art. 226b. Do dnia 31 grudnia 2027 r. właściwy organ, o którym mowa w art. 26a ust. 2, może otrzymać środki z budżetu państwa z przeznaczeniem na wykonanie działań, o których mowa w art. 26a ust. 1. W przypadku gdy właściwym organem jest organ jednostki samorządu terytorialnego, kwota dofinansowania może stanowić więcej niż 80 % kosztów wykonania tych działań. Kwota dofinansowania nie może być wyższa niż 99 % kosztów wykonania tych działań.”.
 
-**Art. 2.** W ustawie z dnia 17 listopada 2021 r. o zmianie o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151 oraz z 2022 r. poz. 2687) w art. 1:
+**Art. 2.** W ustawie z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151 oraz z 2022 r. poz. 2687) w art. 1:
+
+- **1)** pkt 35 otrzymuje brzmienie: „35) w dziale VII po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „Rozdział 6a Odpady budowlane i rozbiórkowe
 
 **Art. 101a.**
 
@@ -47,13 +49,13 @@ source: "isap-pdf"
 
 **Art. 3.**
 
-1. W latach 2025–2027 maksymalny limit wydatków z budżetu państwa będący skutkiem finansowym wejścia w życie wynosi w:
+1. W latach 2025–2027 maksymalny limit wydatków z budżetu państwa będący skutkiem finansowym wejścia w życie ustawy wynosi w:
 
 - **1)** 2025 r. – 300 000 tys. zł;
 - **2)** 2026 r. – 300 000 tys. zł;
 - **3)** 2027 r. – 300 000 tys. zł.
 
-2. W przypadku przekroczenia 80 % wysokości środków, które są zaplanowane na przedmiotowe zadanie w ustawie budżetowej na dany rok, wprowadza się mechanizm korygujący polegający na ograniczeniu dofinansowania działań, o których mowa w art. 26a ust. 1 zmienianej w art. 1.
+2. W przypadku przekroczenia 80 % wysokości środków, które są zaplanowane na przedmiotowe zadanie w ustawie budżetowej na dany rok, wprowadza się mechanizm korygujący polegający na ograniczeniu dofinansowania działań, o których mowa w art. 26a ust. 1 ustawy zmienianej w art. 1.
 
 3. Minister właściwy do spraw klimatu monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz w razie potrzeby wdraża mechanizm korygujący, o którym mowa w ust. 2.
 

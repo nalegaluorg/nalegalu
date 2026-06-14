@@ -8,7 +8,7 @@ pos: 805
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw
@@ -32,6 +32,8 @@ source: "isap-pdf"
 **Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2014 r. poz. 518 i 659) w art. 3 uchyla się ust. 2 i 3.
 
 **Art. 3.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414 oraz z 2014 r. poz.
+
+- **486)** w art. 46 ust. 3 otrzymuje brzmienie: „3. Generalny Dyrektor Dróg Krajowych i Autostrad przekazuje kwoty pobranych opłat, o których mowa w ust. 1 i ust. 1a pkt 1, w terminie pierwszych dwóch dni roboczych po zakończeniu tygodnia, w którym wpłynęły, na rachunek Krajowego Funduszu Drogowego, z przeznaczeniem na budowę i utrzymanie dróg krajowych oraz na potrzeby gromadzenia danych o drogach publicznych i sporządzania informacji o sieci dróg publicznych, jak również na poprawę bezpieczeństwa ruchu drogowego i budowy autostrad.”.
 
 **Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, 628 i 842) w art. 80 uchyla się ust. 2.
 

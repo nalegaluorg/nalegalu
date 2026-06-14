@@ -8,10 +8,10 @@ pos: 1434
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lipca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11443344 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 25 lipca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001434) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1434/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 25 lipca 2023 r.
-w sprawie trybu i sposobu przydzielania, zmiany i cofania uprawnień do dostępu do krajowego zbioru rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych Na podstawie art. 458 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie trybu i sposobu przydzielania, zmiany i cofania uprawnień do dostępu do krajowego zbioru rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych Na podstawie art. 458 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb i sposób przydzielania, zmiany i cofania uprawnień do dostępu do krajowego zbioru rejestrów, ewidencji i wykazu w sprawach cudzoziemców, zwanego dalej „krajowym zbiorem rejestrów”, za pomocą urządzeń telekomunikacyjnych oraz warunki techniczne tego dostępu;
 2) wzór upoważnienia do dostępu do krajowego zbioru rejestrów oraz wykorzystywania danych z tego rejestru;
 3) wzór wniosku o wyrażenie zgody na udostępnienie danych przetwarzanych w krajowym zbiorze rejestrów za pomocą urządzeń telekomunikacyjnych;
@@ -55,7 +55,7 @@ b) informuje Szefa Urzędu o wyznaczeniu lokalnego administratora, wskazując je
 § 8. 1. W celu przydzielenia uprawnień do dostępu do krajowego zbioru rejestrów z wykorzystaniem systemu teleinformatycznego służącego do komunikowania się z krajowym zbiorem rejestrów, podmiot, o którym mowa w art. 453 ust. 1 ustawy, lub podmiot, który złożył wniosek w trybie art. 453 ust. 2 ustawy, po uzyskaniu zgody Szefa Urzędu na udostępnienie danych przetwarzanych w krajowym zbiorze rejestrów:
 1) występuje pisemnie do Szefa Urzędu o przekazanie opisu interfejsu;
 2) przygotowuje własny system teleinformatyczny do komunikowania się z krajowym zbiorem rejestrów, w oparciu o przekazany opis interfejsu;
-3) zestawia bezpieczne połączenie własnego systemu teleinformatycznego z krajowym zbiorem rejestrów przy współpracy z Szefem Urzędu.
+3) zestawia bezpieczne połączenie własnego systemu teleinformatycznego z krajowym zbiorem rejestrów – przy współpracy z Szefem Urzędu.
 2. Po sprawdzeniu spełnienia wymagań, o których mowa w ust. 1, Szef Urzędu przydziela podmiotowi, o którym mowa w ust. 1, uprawnienia do dostępu do krajowego zbioru rejestrów.
 3. Upoważnienie do dostępu do krajowego zbioru rejestrów oraz wykorzystywania danych z tego rejestru dla osoby fizycznej, która wykonuje uprawnienia do dostępu do krajowego zbioru rejestrów w imieniu podmiotu, który uzyskał dostęp do krajowego zbioru rejestrów z wykorzystaniem systemu teleinformatycznego służącego do komunikowania się z tym krajowym zbiorem rejestrów, sporządza się zgodnie ze wzorem upoważnienia określonym w załączniku nr 4 do rozporządzenia.
 § 9. 1. W przypadku zmiany przydzielonych uprawnień do dostępu do krajowego zbioru rejestrów bez wykorzystania systemu teleinformatycznego służącego do komunikowania się z krajowym zbiorem rejestrów lokalny administrator w danym podmiocie występuje w systemie teleinformatycznym, w którym jest prowadzony krajowy zbiór rejestrów, z wnioskiem o zmianę przydzielonych uprawnień danemu użytkownikowi indywidualnemu w ramach tego podmiotu.
@@ -71,21 +71,31 @@ b) informuje Szefa Urzędu o wyznaczeniu lokalnego administratora, wskazując je
 § 12. 1. W przypadku cofnięcia przydzielonych uprawnień do dostępu do krajowego zbioru rejestrów z wykorzystaniem systemu teleinformatycznego służącego do komunikowania się z krajowym zbiorem rejestrów, podmiot występuje pisemnie do Szefa Urzędu z wnioskiem w tej sprawie.
 2. Na podstawie wniosku, o którym mowa w ust. 1, Szef Urzędu cofa uprawnienia do dostępu do krajowego zbioru rejestrów, którego wniosek dotyczył.
 § 13. Rozporządzenie wchodzi w życie z dniem 28 lipca 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński WNIOSEK O WYRAŻENIE ZGODY NA UDOSTĘPNIENIE DANYCH PRZETWARZANYCH W KRAJOWYM ZBIORZE REJESTRÓW, EWIDENCJI I WYKAZU W SPRAWACH CUDZOZIEMCÓW ZA POMOCĄ URZĄDZEŃ TELEKOMUNIKACYJNYCH Oznaczenie podmiotu SZEF URZĘDU DO SPRAW CUDZOZIEMCÓW Na podstawie art. 453 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r.
-poz. 519, 185 i 547) wnoszę o wyrażenie zgody na udostępnienie danych przetwarzanych w krajowym zbiorze rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych dla: …………………………………..………………………… (oznaczenie podmiotu) w zakresie : UZASADNIENIE WZÓR WNIOSEK O WYRAŻENIE ZGODY NA UDOSTĘPNIENIE DANYCH PRZETWARZANYCH W KRAJOWYM ZBIORZE REJESTRÓW, EWIDENCJI I WYKAZU W SPRAWACH CUDZOZIEMCÓW ZA POMOCĄ URZĄDZEŃ TELEKOMUNIKACYJNYCH, SKŁADANY W TRYBIE ART. 453 UST. 2 USTAWY Z DNIA 12 GRUDNIA 2013 R. O CUDZOZIEMCACH Oznaczenie podmiotu SZEF URZĘDU DO SPRAW CUDZOZIEMCÓW Na podstawie art. 453 ust. 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r.
+Minister Spraw Wewnętrznych i Administracji: M. Kamiński Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 25 lipca 2023 r. (Dz. U. poz. ...) Załącznik nr 1 WZÓR WZÓR WNIOSEK O WYRAŻENIE ZGODY NA UDOSTĘPNIENIE DANYCH PRZETWARZANYCH W KRAJOWYM ZBIORZE REJESTRÓW, EWIDENCJI I WYKAZU W SPRAWACH CUDZOZIEMCÓW ZA POMOCĄ URZĄDZEŃ TELEKOMUNIKACYJNYCH Oznaczenie podmiotu SZEF URZĘDU DO SPRAW CUDZOZIEMCÓW Na podstawie art. 453 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r.
+poz. 519, 185 i 547) wnoszę o wyrażenie zgody na udostępnienie danych przetwarzanych w krajowym zbiorze rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych dla: …………………………………..………………………… (oznaczenie podmiotu) w zakresie : UZASADNIENIE ____________________________ __________________________________ Należy wskazać właściwy rejestr/właściwe rejestry, ewidencję zaproszeń lub wykaz cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, o których mowa w art. 449 ust. 2 pkt 1–7, 8–12, 16, 17 i 19 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
+
+## Załącznik nr 2 — WZÓR WZÓR WNIOSEK O WYRAŻENIE ZGODY NA UDOSTĘPNIENIE DANYCH PRZETWARZANYCH W KRAJOWYM ZBIORZE REJESTRÓW, EWIDENCJI I WYKAZU W SPRAWACH CUDZOZIEMCÓW ZA POMOCĄ URZĄDZEŃ TELEKOMUNIKACYJNYCH, SKŁADANY W TRYBIE ART. 453 UST. 2 USTAWY Z DNIA 12 GRUDNIA 2013 R. O CUDZOZIEMCACH Oznaczenie podmiotu SZEF URZĘDU DO SPRAW CUDZOZIEMCÓW Na podstawie art. 453 ust. 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r.
+
 poz. 519, 185 i 547) wnoszę o wyrażenie zgody na udostępnienie danych przetwarzanych w krajowym zbiorze rejestrów, ewidencji i wykazu w sprawach cudzoziemców za pomocą urządzeń telekomunikacyjnych dla:
 1) …………………………………..………………………… (oznaczenie podmiotu) w zakresie :
 2) …………………………………..………………………… (oznaczenie podmiotu) w zakresie :
-3) …………………………………..………………………… (oznaczenie podmiotu) w zakresie : WZÓR
+3) …………………………………..………………………… (oznaczenie podmiotu) w zakresie :
 4) …………………………………..………………………… (oznaczenie podmiotu) w zakresie :
 5) …………………………………..………………………… (oznaczenie podmiotu) w zakresie :
 6) …………………………………..………………………… (oznaczenie podmiotu) w zakresie :
 7) …………………………………..………………………… (oznaczenie podmiotu) w zakresie :
 8) …………………………………..………………………… (oznaczenie podmiotu) w zakresie :
-9) …………………………………..………………………… (oznaczenie podmiotu) w zakresie : OŚWIADCZENIE PODMIOTU, O KTÓRYM MOWA W ART. 453 UST. 3 USTAWY Z DNIA 12 GRUDNIA 2013 R. O CUDZOZIEMCACH Oznaczenie podmiotu ................................................................................................................ : (oznaczenie podmiotu)
+9) …………………………………..………………………… (oznaczenie podmiotu) w zakresie :
+10) …………………………………..………………………… (oznaczenie podmiotu) w zakresie : UZASADNIENIE ____________________________ __________________________________ Załączniki: - oświadczenie podmiotu/podmiotów, o którym mowa w art. 453 ust. 3 ustawy z dnia 12 grudnia 2013 r.
+o cudzoziemcach Należy wskazać właściwy rejestr/właściwe rejestry, ewidencję zaproszeń lub wykaz cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, o których mowa w art. 449 ust. 2 pkt 1–7, 8–12, 16, 17 i 19 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
+Jeżeli wniosek dotyczy większej liczby podmiotów niż 10, oznaczenie kolejnych podmiotów, których wniosek dotyczy, wraz z uzasadnieniem wniosku, należy podać na osobnym arkuszu formatu A4 i dołączyć do wniosku.
+
+## Załącznik nr 3 — WZÓR WZÓR OŚWIADCZENIE PODMIOTU, O KTÓRYM MOWA W ART. 453 UST. 3 USTAWY Z DNIA 12 GRUDNIA 2013 R. O CUDZOZIEMCACH Oznaczenie podmiotu ................................................................................................................ : (oznaczenie podmiotu)
+
 1) posiada odpowiednio zabezpieczone urządzenia telekomunikacyjne lub systemy teleinformatyczne przeznaczone do komunikowania się z krajowym zbiorem rejestrów, ewidencji i wykazu w sprawach cudzoziemców lub jest uprawniony do korzystania z takich systemów teleinformatycznych;
 2) posiada zabezpieczenia techniczne i organizacyjne odpowiednie do przetwarzania danych osobowych, w szczególności uniemożliwiające dostęp osób nieuprawnionych do przetwarzania danych osobowych i wykorzystanie danych niezgodnie z celem ich uzyskania;
 3) wykonuje zadania, których specyfika lub zakres uzasadniają uzyskanie danych tą drogą/prowadzi działalność, której specyfika lub zakres uzasadniają uzyskanie danych tą drogą .
 ____________________________ __________________________________ Niewłaściwe skreślić.
-WZÓR UPOWAŻNIENIE DO DOSTĘPU DO KRAJOWEGO ZBIORU REJESTRÓW, EWIDENCJI I WYKAZU W SPRAWACH CUDZOZIEMCÓW ORAZ WYKORZYSTYWANIA DANYCH Z TEGO REJESTRU Oznaczenie podmiotu Upoważnia się do dostępu do krajowego zbioru rejestrów, ewidencji i wykazu w sprawach cudzoziemców oraz wykorzystywania danych z tego rejestru: na czas zatrudnienia w …………………………………..…………………………………… ____________________________ __________________________________ WZÓR
+
+## Załącznik nr 4 — WZÓR WZÓR UPOWAŻNIENIE DO DOSTĘPU DO KRAJOWEGO ZBIORU REJESTRÓW, EWIDENCJI I WYKAZU W SPRAWACH CUDZOZIEMCÓW ORAZ WYKORZYSTYWANIA DANYCH Z TEGO REJESTRU Oznaczenie podmiotu Upoważnia się do dostępu do krajowego zbioru rejestrów, ewidencji i wykazu w sprawach cudzoziemców oraz wykorzystywania danych z tego rejestru: na czas zatrudnienia w …………………………………..…………………………………… ____________________________ __________________________________
 

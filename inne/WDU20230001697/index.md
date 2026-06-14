@@ -8,10 +8,10 @@ pos: 1697
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1697 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 17 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001697) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1697/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 17 sierpnia 2023 r.
 w sprawie wykazu stanowisk na statkach, minimalnego składu załogi statków na śródlądowych drogach wodnych, przeprowadzania egzaminu i sposobu działania komisji egzaminacyjnych Na podstawie art. 37 ust. 1 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2022 r. poz. 1097 i 2642 oraz z 2023 r. poz. 1588) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wykaz stanowisk na statkach;
 2) minimalny skład załogi na śródlądowych drogach wodnych:
 a) statku bez napędu mechanicznego wchodzącego w skład zestawu holowanego,
@@ -34,9 +34,10 @@ b) statku towarowego o napędzie mechanicznym,
 c) holownika,
 d) lodołamacza,
 e) statku pasażerskiego,
-f) pchacza, zestawu pchanego oraz zestawu sprzężonego w zależności od rodzaju statku i czasu jego pracy;
+f) pchacza, zestawu pchanego oraz zestawu sprzężonego – w zależności od rodzaju statku i czasu jego pracy;
 3) zakres wymagań egzaminacyjnych niezbędnych do uzyskania dokumentów kwalifikacyjnych;
 4) szczegółowy tryb przeprowadzania egzaminu, sposób działania komisji egzaminacyjnych i szczegółowe warunki wynagradzania członków tych komisji.
+§ 2. Ustala się następujące stanowiska na statkach:
 1) w służbie pokładowej:
 a) praktykant,
 b) młodszy marynarz,
@@ -50,31 +51,32 @@ h) ekspert w dziedzinie żeglugi pasażerskiej;
 a) motorzysta,
 b) mechanik.
 § 3. Ustala się następujące systemy eksploatacji statku, od których zależy ustalenie minimalnego składu załogi statków na śródlądowych drogach wodnych:
-1) system A1 oznaczający żeglugę statku przez okres nieprzekraczający 14 godzin w ciągu doby, przy czym statek powinien zatrzymać się na nieprzerwany, co najmniej 8-godzinny postój;
-2) system A2 oznaczający żeglugę statku przez okres nieprzekraczający 18 godzin w ciągu doby, przy czym statek powinien zatrzymać się na nieprzerwany, co najmniej 6-godzinny postój;
-3) system B oznaczający całodobową żeglugę statku.
-§ 4. 1. Ustala się następujący minimalny skład załogi statków bez napędu mechanicznego wchodzących w skład zestawów holowanych na śródlądowych drogach wodnych: System eksploatacji statku Lp. Nośność statku Załoga statku A1 A2 B 1 od 15 do 200 ton kierownik statku 1 2 2 starszy marynarz marynarz młodszy marynarz 2 od 201 do 750 ton kierownik statku 1 2 2 starszy marynarz marynarz młodszy marynarz 1 1 1 3 powyżej 750 ton kierownik statku 1 2 2 starszy marynarz marynarz 1 1 młodszy marynarz 1
+1) system A1 – oznaczający żeglugę statku przez okres nieprzekraczający 14 godzin w ciągu doby, przy czym statek powinien zatrzymać się na nieprzerwany, co najmniej 8-godzinny postój;
+2) system A2 – oznaczający żeglugę statku przez okres nieprzekraczający 18 godzin w ciągu doby, przy czym statek powinien zatrzymać się na nieprzerwany, co najmniej 6-godzinny postój;
+3) system B – oznaczający całodobową żeglugę statku.
+§ 4. 1. Ustala się następujący minimalny skład załogi statków bez napędu mechanicznego wchodzących w skład zestawów holowanych na śródlądowych drogach wodnych: System eksploatacji statku Lp. Nośność statku Załoga statku A1 A2 B 1 od 15 do 200 ton kierownik statku 1 2 2 starszy marynarz – – – marynarz – – – młodszy marynarz – – – 2 od 201 do 750 ton kierownik statku 1 2 2 starszy marynarz – – – marynarz – – – młodszy marynarz 1 1 1 3 powyżej 750 ton kierownik statku 1 2 2 starszy marynarz – – – marynarz 1 – 1 młodszy marynarz – 1 –
 2. W przypadku statków, o których mowa w ust. 1:
 1) nieposiadających urządzeń sterowych, które mogą być obsługiwane przez jedną osobę,
 2) niemających łączności radiotelefonicznej lub przewodowej między stanowiskiem sternika a stanowiskami manewrowymi,
 3) nieposiadających wciągarek o napędzie mechanicznym,
-4) niemających możliwości dawania podczas żeglugi sygnałów wizualnych i akustycznych ze stanowiska sternika skład załogi zwiększa się o 1 młodszego marynarza.
+4) niemających możliwości dawania podczas żeglugi sygnałów wizualnych i akustycznych ze stanowiska sternika – skład załogi zwiększa się o 1 młodszego marynarza.
 § 5. 1. Ustala się następujący minimalny skład załogi statków o napędzie mechanicznym, zestawów pchanych i zestawów sprzężonych na śródlądowych drogach wodnych:
-1) statki towarowe o napędzie mechanicznym: Lp. Długość statku (L) Załoga statku System eksploatacji statku w m A1 A2 B 1 L ≤ 70 kierownik statku 1 2 2 sternik starszy marynarz 1 marynarz 1 młodszy marynarz 1 2 70 < L ≤ 86 kierownik statku 1 2 2 sternik starszy marynarz 1 1 marynarz 1 młodszy marynarz 1 1 3 L > 86 kierownik statku 1 2 2 sternik 1 1 starszy marynarz 1 marynarz 1 młodszy marynarz 1
-2) holowniki i lodołamacze: Lp. Moc mechanicznego napędowego w urządzenia kW Załoga statku System eksploatacji statku A1 A2 B 1 do 150 włącznie kierownik statku 1 2 2 sternik starszy marynarz 1 marynarz 1 1 młodszy marynarz 2 powyżej 150 do 300 włącznie kierownik statku 1 2 2 sternik starszy marynarz marynarz 1 1 1 młodszy marynarz 1 1 3 powyżej 300 do 450 włącznie kierownik statku 1 2 2 sternik 1 starszy marynarz 1 marynarz 1 młodszy marynarz 1 mechanik 1 1 1 4 powyżej 450 kierownik statku 1 2 2 sternik 1 1 starszy marynarz 1 marynarz 1 1 młodszy marynarz 1 mechanik 1 1 1
-3) statki pasażerskie bez miejsc sypialnych: System eksploatacji statku Lp. Dopuszczalna liczba pasażerów Załoga statku A1 A2 B 1 do 75 pasażerów kierownik statku 1 2 2 sternik starszy marynarz 1 1 1 marynarz młodszy marynarz mechanik 2 od 76 do 250 pasażerów kierownik statku 1 2 2 sternik starszy marynarz 1 marynarz 1 młodszy marynarz 1 1 1 mechanik 3 od 251 do 600 pasażerów kierownik statku 1 2 2 sternik 1 1 starszy marynarz 1 marynarz 1 1 młodszy marynarz 1 1 mechanik 4 powyżej 601 pasażerów kierownik statku 1 2 2 sternik 1 1 starszy marynarz 1 1 marynarz 1 1 1 młodszy marynarz 1 mechanik 1 1 1
-4) statki pasażerskie z miejscami sypialnymi: System eksploatacji statku Lp. Dopuszczalna liczba pasażerów Załoga statku A1 A2 B 1 do 50 miejsc sypialnych kierownik statku 1 2 2 sternik 1 starszy marynarz 1 1 marynarz 1 młodszy marynarz 1 1 mechanik 2 od 51 do 100 miejsc sypialnych kierownik statku 1 2 2 sternik 1 1 starszy marynarz 1 marynarz 1 1 młodszy marynarz 1 mechanik 1 1 1 3 powyżej 100 miejsc sypialnych kierownik statku 1 2 2 sternik 1 1 starszy marynarz 1 1 1 marynarz 1 1 1 młodszy marynarz 1 1 mechanik 1 1 1
-5) pchacze oraz zestawy pchane i sprzężone: System eksploatacji statku Lp. Rodzaj formacji Załoga statku A1 A2 B 1 pchacz lub zestaw pchany kierownik statku 1 2 2 z jedną barką L ≤ 86 m sternik starszy marynarz 1 1 marynarz 1 młodszy marynarz 1 mechanik 2 zestaw pchany lub sprzężony kierownik statku 1 2 2 o L ≤ 125 m i B < 12 m sternik 1 1 starszy marynarz 1 marynarz 1 1 1 młodszy marynarz 1 1 mechanik 3 zestaw pchany lub sprzężony kierownik statku 1 2 2 o L ≤ 125 m i B > 12 m oraz sternik 1 1 L > 125 m starszy marynarz 1 i B ≤ 12 m marynarz 1 1 młodszy marynarz 1 1 mechanik 4 zestaw pchany lub sprzężony kierownik statku 1 2 2 o L > 125 m i B > 12 m sternik 1 1 starszy marynarz 1 marynarz 1 1 1 młodszy marynarz 1 1 1 mechanik 1 1 1
+1) statki towarowe o napędzie mechanicznym: Lp. Długość statku (L) Załoga statku System eksploatacji statku w m A1 A2 B 1 L ≤ 70 kierownik statku 1 2 2 sternik – – – starszy marynarz – – 1 marynarz 1 – – młodszy marynarz – 1 – 2 70 < L ≤ 86 kierownik statku 1 2 2 sternik – – – starszy marynarz 1 – 1 marynarz – 1 – młodszy marynarz – 1 1 3 L > 86 kierownik statku 1 2 2 sternik 1 – 1 starszy marynarz – 1 – marynarz – – 1 młodszy marynarz 1 – –
+2) holowniki i lodołamacze: Lp. Moc mechanicznego urządzenia Załoga statku System eksploatacji statku napędowego w kW A1 A2 B 1 do 150 włącznie kierownik statku 1 2 2 sternik – – – starszy marynarz – – 1 marynarz 1 1 – młodszy marynarz – – – 2 powyżej 150 do 300 włącznie kierownik statku 1 2 2 sternik – – – starszy marynarz – – – marynarz 1 1 1 młodszy marynarz 1 – 1 3 powyżej 300 do 450 włącznie kierownik statku 1 2 2 sternik 1 – – starszy marynarz – 1 – marynarz – – 1 młodszy marynarz – – 1 mechanik 1 1 1 4 powyżej 450 kierownik statku 1 2 2 sternik 1 – 1 starszy marynarz – – 1 marynarz 1 1 – młodszy marynarz – 1 – mechanik 1 1 1
+3) statki pasażerskie bez miejsc sypialnych: System eksploatacji statku Lp. Dopuszczalna liczba pasażerów Załoga statku A1 A2 B 1 do 75 pasażerów kierownik statku 1 2 2 sternik – – – starszy marynarz 1 1 1 marynarz – – – młodszy marynarz – – – mechanik – – – 2 od 76 do 250 pasażerów kierownik statku 1 2 2 sternik – – – starszy marynarz 1 – – marynarz – 1 – młodszy marynarz 1 1 1 mechanik – – – 3 od 251 do 600 pasażerów kierownik statku 1 2 2 sternik 1 – 1 starszy marynarz – 1 – marynarz 1 – 1 młodszy marynarz – 1 1 mechanik – – – 4 powyżej 601 pasażerów kierownik statku 1 2 2 sternik 1 – 1 starszy marynarz – 1 1 marynarz 1 1 1 młodszy marynarz 1 – – mechanik 1 1 1
+4) statki pasażerskie z miejscami sypialnymi: System eksploatacji statku Lp. Dopuszczalna liczba pasażerów Załoga statku A1 A2 B 1 do 50 miejsc sypialnych kierownik statku 1 2 2 sternik – – 1 starszy marynarz 1 1 – marynarz – – 1 młodszy marynarz 1 1 – mechanik – – – 2 od 51 do 100 miejsc sypialnych kierownik statku 1 2 2 sternik 1 – 1 starszy marynarz – 1 – marynarz 1 – 1 młodszy marynarz – 1 – mechanik 1 1 1 3 powyżej 100 miejsc sypialnych kierownik statku 1 2 2 sternik 1 – 1 starszy marynarz 1 1 1 marynarz 1 1 1 młodszy marynarz – 1 1 mechanik 1 1 1
+5) pchacze oraz zestawy pchane i sprzężone: System eksploatacji statku Lp. Rodzaj formacji Załoga statku A1 A2 B 1 pchacz lub zestaw pchany kierownik statku 1 2 2 z jedną barką L ≤ 86 m sternik – – – starszy marynarz – 1 1 marynarz 1 – – młodszy marynarz – – 1 mechanik – – – 2 zestaw pchany lub sprzężony kierownik statku 1 2 2 o L ≤ 125 m i B < 12 m sternik 1 – 1 starszy marynarz – – 1 marynarz 1 1 1 młodszy marynarz – 1 1 mechanik – – – 3 zestaw pchany lub sprzężony kierownik statku 1 2 2 o L ≤ 125 m i B > 12 m oraz sternik 1 – 1 L > 125 m starszy marynarz – 1 – i B ≤ 12 m marynarz 1 – 1 młodszy marynarz – 1 1 mechanik – – – 4 zestaw pchany lub sprzężony kierownik statku 1 2 2 o L > 125 m i B > 12 m sternik 1 – 1 starszy marynarz – 1 – marynarz 1 1 1 młodszy marynarz 1 1 1 mechanik 1 1 1
 2. W przypadku statków, o których mowa w ust. 1, niespełniających warunków określonych w § 4 ust. 2 lub nieposiadających:
 1) urządzeń napędowych, które można obsługiwać ze stanowiska sternika,
-2) na stanowisku sternika przyrządów kontrolnych urządzeń napędowych sygnalizujących nieprawidłowości w pracy tych urządzeń skład załogi zwiększa się o 1 młodszego marynarza.
+2) na stanowisku sternika przyrządów kontrolnych urządzeń napędowych sygnalizujących nieprawidłowości w pracy tych urządzeń – skład załogi zwiększa się o 1 młodszego marynarza.
 § 6. 1. Na statkach o napędzie mechanicznym wymienionych w § 5 ust. 1 pkt 1, 2 i 5 jeden z członków załogi posiada uprawnienia do obsługi mechanicznych urządzeń napędowych statku.
 2. Na statkach pasażerskich wymienionych w § 5 ust. 1 pkt 3 i 4 jeden z członków załogi posiada:
 1) uprawnienia do obsługi mechanicznych urządzeń napędowych statku, z wyłączeniem kierownika statku;
 2) unijne świadectwo kwalifikacji eksperta w dziedzinie żeglugi pasażerskiej.
 3. Na statkach napędzanych skroplonym gazem ziemnym w trakcie:
-1) rejsu kierownik statku posiada unijne świadectwo kwalifikacji eksperta w dziedzinie skroplonego gazu ziemnego;
-2) bunkrowania, przygotowania do konserwacji, przeprowadzania kontroli systemu członek załogi odpowiedzialny za te czynności posiada unijne świadectwo kwalifikacji eksperta w dziedzinie skroplonego gazu ziemnego.
+1) rejsu – kierownik statku posiada unijne świadectwo kwalifikacji eksperta w dziedzinie skroplonego gazu ziemnego;
+2) bunkrowania, przygotowania do konserwacji, przeprowadzania kontroli systemu – członek załogi odpowiedzialny za te czynności posiada unijne świadectwo kwalifikacji eksperta w dziedzinie skroplonego gazu ziemnego.
+§ 7. Egzamin przeprowadza się zgodnie z wymaganiami egzaminacyjnymi, których zakres jest określony w załączniku do rozporządzenia.
 § 8. 1. Osoby zdające egzamin w czasie trwania egzaminu mogą korzystać wyłącznie z przyrządów, tablic i innych pomocy dopuszczonych przez przewodniczącego komisji egzaminacyjnej.
 2. W czasie trwania egzaminu osoba zdająca egzamin nie może:
 1) korzystać z pomocy innych niż określone w ust. 1 oraz z pomocy innych osób;
@@ -103,7 +105,7 @@ b) mechanik.
 2) szczególne zezwolenie dla kapitana na uprawianie żeglugi z pomocą radaru,
 3) unijne świadectwo kwalifikacji eksperta w dziedzinie:
 a) żeglugi pasażerskiej,
-b) skroplonego gazu ziemnego stosuje się zasady punktacji oraz dotyczące sposobu przeprowadzania tego egzaminu określone w częściach I‒V załącznika II do dyrektywy delegowanej Komisji (UE) 2020/12 z dnia 2 sierpnia 2019 r. uzupełniającej dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 w odniesieniu do standardów dotyczących: kompetencji oraz odpowiadających im wiedzy i umiejętności, egzaminów praktycznych, zatwierdzania symulatorów oraz stanu zdrowia (Dz. Urz. UE L 6 z 10.01.2020, str. 15).
+b) skroplonego gazu ziemnego – stosuje się zasady punktacji oraz dotyczące sposobu przeprowadzania tego egzaminu określone w częściach I‒V załącznika II do dyrektywy delegowanej Komisji (UE) 2020/12 z dnia 2 sierpnia 2019 r. uzupełniającej dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 w odniesieniu do standardów dotyczących: kompetencji oraz odpowiadających im wiedzy i umiejętności, egzaminów praktycznych, zatwierdzania symulatorów oraz stanu zdrowia (Dz. Urz. UE L 6 z 10.01.2020, str. 15).
 3. Ocenę z egzaminu z części praktycznej wystawia egzaminator wyznaczony przez przewodniczącego komisji egzaminacyjnej.
 § 15. 1. Po zakończeniu egzaminu z części praktycznej komisja egzaminacyjna ustala ostateczną ocenę z egzaminu obejmującego część teoretyczną i praktyczną.
 2. Przewodniczący komisji egzaminacyjnej przekazuje osobie zdającej egzamin informację o uzyskanej ocenie, o której mowa w ust. 1, w formie ustnej.
@@ -117,7 +119,8 @@ b) skroplonego gazu ziemnego stosuje się zasady punktacji oraz dotyczące sposo
 3. Osobie zdającej egzamin przysługuje wgląd do części protokołu dotyczącego jego osoby oraz do jego pisemnego testu egzaminacyjnego.
 § 17. 1. Dokumenty dotyczące prac komisji egzaminacyjnej pozostają w archiwum urzędu obsługującego dyrektora urzędu żeglugi śródlądowej, przy którym działa komisja egzaminacyjna.
 2. Pisemne testy egzaminacyjne niszczy się po upływie 1 roku, licząc od dnia zakończenia egzaminu.
-§ 18. Przewodniczącemu, zastępcy przewodniczącego, członkom i sekretarzowi komisji egzaminacyjnej przysługuje wynagrodzenie w wysokości 120 zł za jedno posiedzenie komisji, a egzaminatorom w wysokości 30 zł za przeegzaminowanie jednej osoby z jednego przedmiotu objętego zakresem wymagań.
+§ 18. Przewodniczącemu, zastępcy przewodniczącego, członkom i sekretarzowi komisji egzaminacyjnej przysługuje wynagrodzenie w wysokości 120 zł za jedno posiedzenie komisji, a egzaminatorom – w wysokości 30 zł za przeegzaminowanie jednej osoby z jednego przedmiotu objętego zakresem wymagań.
+§ 19. Statki żeglugi śródlądowej mogą uprawiać żeglugę przy minimalnym składzie załogi statku określonym w dokumencie bezpieczeństwa statku wydanym przed dniem wejścia w życie rozporządzenia do dnia upływu terminu ważności tego dokumentu.
 § 20. Rozporządzenie wchodzi w życie z dniem 25 sierpnia 2023 r.
 Minister Infrastruktury: A. Adamczyk ZAKRES WYMAGAŃ EGZAMINACYJNYCH I. Zakres wiedzy i umiejętności wymaganych na poziomie operacyjnym (unijne świadectwo kwalifikacji: marynarza, starszego marynarza, sternika żeglugi śródlądowej) Wymagana wiedza teoretyczna Kompetencje wymagane na poziomie operacyjnym oraz przypadającą im wiedzę i umiejętności określa część I załącznika I do dyrektywy delegowanej Komisji (UE) 2020/12 z dnia 2 sierpnia 2019 r. uzupełniającej dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2397 w odniesieniu do standardów dotyczących: kompetencji oraz odpowiadających im wiedzy i umiejętności, egzaminów praktycznych, zatwierdzania symulatorów oraz stanu zdrowia (Dz. Urz. UE L 6 z 10.01.2020, str. 15), zwanej dalej „dyrektywą”.
 II. Zakres wiedzy i umiejętności wymaganych do uzyskania patentu żeglarskiego przewoźnika żeglugi śródlądowej A. Wymagana wiedza teoretyczna
@@ -212,11 +215,11 @@ B. Wymagane wiedza i umiejętności praktyczne
 3. Przygotowanie statku do remontu; odbiór wykonanych prac remontowych.
 4. Obsługa wyposażenia ratunkowego i przeciwpożarowego.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Wykaz stanowisk na statkach i minimalny skład załogi statków na śródlądowych drogach wodnych § 2. Ustala się następujące stanowiska na statkach:
+#### Rozdział 2 Wykaz stanowisk na statkach i minimalny skład załogi statków na śródlądowych drogach wodnych
 
-#### Rozdział 3 Zakres wymagań egzaminacyjnych niezbędnych do uzyskania dokumentów kwalifikacyjnych, szczegółowy tryb przeprowadzania egzaminu, sposób działania komisji egzaminacyjnych oraz warunki wynagradzania członków tych komisji § 7. Egzamin przeprowadza się zgodnie z wymaganiami egzaminacyjnymi, których zakres jest określony w załączniku do rozporządzenia.
+#### Rozdział 3 Zakres wymagań egzaminacyjnych niezbędnych do uzyskania dokumentów kwalifikacyjnych, szczegółowy tryb przeprowadzania egzaminu, sposób działania komisji egzaminacyjnych oraz warunki wynagradzania członków tych komisji
 
-#### Rozdział 4 Przepisy przejściowy i końcowy § 19. Statki żeglugi śródlądowej mogą uprawiać żeglugę przy minimalnym składzie załogi statku określonym w dokumencie bezpieczeństwa statku wydanym przed dniem wejścia w życie rozporządzenia do dnia upływu terminu ważności tego dokumentu.
+#### Rozdział 4 Przepisy przejściowy i końcowy
 

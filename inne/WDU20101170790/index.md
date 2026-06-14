@@ -8,7 +8,7 @@ pos: 790
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 9 czerwca 2010 r.

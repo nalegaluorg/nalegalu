@@ -8,10 +8,10 @@ pos: 1739
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11773399 Załączniki do rozporządzenia Rady Ministrów z dnia 30 sierpnia 2011 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001739) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1739/text.pdf) |
 
-erpnia 2 1 r 2023 r poz ) znik nr 1 TY SZKOLENIA D A KIEROWNIKA D SPRAW BEZPIECZEŃS Temat I. Bezpieczeństwo imprez masowych, zasady ogólne ‒ czas realizacji 2 godziny Zagadnienia:
+(Dz. U. z 2023 r. poz. ) Załącznik nr 1 TEMATY SZKOLENIA DLA KIEROWNIKA DO SPRAW BEZPIECZEŃSTWA Temat I. Bezpieczeństwo imprez masowych, zasady ogólne ‒ czas realizacji 2 godziny Zagadnienia:
 1. Zabezpieczenie imprezy masowej.
 2. Przepisy dotyczące bezpieczeństwa imprez masowych.
 3. Rola i obowiązki organizatora imprezy masowej.
@@ -87,7 +87,7 @@ Temat IX. Zasady wykonywania zadań członka służby porządkowej ‒ czas real
 1. Zasady organizacji i działania służb porządkowych podczas imprez masowych.
 2. Uprawnienia członków służby porządkowej.
 3. Obowiązki członków służby porządkowej.
-Temat X. Zasady wykonywania zadań członka służby informacyjnej czas realizacji 1 godzina Zagadnienia:
+Temat X. Zasady wykonywania zadań członka służby informacyjnej – czas realizacji 1 godzina Zagadnienia:
 1. Zasady organizacji i działania służby informacyjnej podczas imprezy masowej.
 2. Uprawnienia członków służby informacyjnej.
 3. Obowiązki członków służby informacyjnej.
@@ -188,7 +188,9 @@ Temat XXIV. Ćwiczenia praktyczne ‒ czas realizacji 4 godziny Zagadnienia:
 5. Ćwiczenia praktyczne w czasie imprezy masowej.
 6. Odprawa (instruktaż) po imprezie.
 Realizacja tematów w ramach szkolenia stacjonarnego w łącznym wymiarze 50 godzin zajęć dydaktycznych.
-Temat I. Bezpieczeństwo imprez masowych, zasady ogólne ‒ czas realizacji 2 godziny Zagadnienia:
+
+## Załącznik nr 2 — TEMATY SZKOLENIA DLA CZŁONKÓW SŁUŻBY PORZĄDKOWEJ ORAZ SŁUŻBY INFORMACYJNEJ Temat I. Bezpieczeństwo imprez masowych, zasady ogólne ‒ czas realizacji 2 godziny Zagadnienia:
+
 1. Zabezpieczenie imprezy masowej.
 2. Przepisy dotyczące bezpieczeństwa imprez masowych.
 3. Rola i obowiązki organizatora imprezy masowej.
@@ -273,4 +275,5 @@ f) drogi dostępu,
 g) kontrola przepływu tłumu,
 h) zasada aktywnego działania członków służb organizatora imprezy masowej.
 Realizacja tematów w ramach szkolenia stacjonarnego w łącznym wymiarze 24 godzin zajęć dydaktycznych.
+– 19 – Załącznik nr 3 WZÓR
 

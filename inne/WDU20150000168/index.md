@@ -8,10 +8,10 @@ pos: 168
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 stycznia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 168
 
 | Pole | Wartość |
 |---|---|
@@ -33,12 +33,12 @@ III. Liczba wszystkich zatrudnionych pracowników………………… IV. Okre�
 2) oświadczenie, że wybrana do realizacji oferta instytucji szkoleniowej będzie konkurencyjna w stosunku do ofert innych instytucji szkoleniowych oferujących podobne szkolenia;
 3) oświadczenie, że szkolenie jest uzasadnione obecnymi lub przyszłymi potrzebami przedsiębiorcy;
 4) oświadczenie o rodzaju i wysokości pomocy de minimis otrzymanej w okresie ostatnich trzech lat kalendarzowych.
-Równocześnie oświadczam, że jestem świadomy (świadoma) odpowiedzialności karnej wynikającej z art. 233 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) za złożenie fałszywego oświadczenia.
+Równocześnie oświadczam, że jestem świadomy (świadoma) odpowiedzialności karnej wynikającej z art. 233 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) za złożenie fałszywego oświadczenia.
 ........................................................................
 środki, o których mowa w § 1 ust. 1, przekazane Przedsiębiorcy na podstawie umowy i rozliczone przez Przedsiębiorcę, stanowią więcej niż 80% kosztów szkolenia na jedną osobę lub więcej niż 300% przeciętnego wynagrodzenia w poprzednim kwartale ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych i obowiązującego w dniu zawarcia umowy, Przedsiębiorca jest zobowiązany zwrócić staroście (prezydentowi miasta na prawach powiatu) kwotę stanowiącą nadwyżkę w terminie 14 dni od dnia otrzymania wezwania.
 § 5.
 1. Przedsiębiorca zobowiązuje się do zwrotu w terminie 14 dni od dnia otrzymania wezwania starosty (prezydenta miasta na prawach powiatu):
-1) kwoty dofinansowania określonej w § 1 ust.1, w przypadku nieukończenia szkolenia z winy pracownika lub rozwiązania z pracownikiem stosunku pracy w trybie art. 52 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2014 r. poz. 1502 i 1662);
+1) kwoty dofinansowania określonej w § 1 ust.1, w przypadku nieukończenia szkolenia z winy pracownika lub rozwiązania z pracownikiem stosunku pracy w trybie art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502 i 1662);
 2) niewykorzystanej kwoty dofinansowania określonej w § 1 ust. 1, w przypadku wystąpienia różnicy między kwotą środków otrzymanych a kwotą środków wydatkowanych na szkolenia.
 2. W przypadku gdy Przedsiębiorca nie spełnił warunków zawartych w umowie lub nie poddał się kontroli, o której mowa w § 6, jest obowiązany do zwrotu na rachunek bankowy starosty (prezydenta miasta na prawach powiatu), z którego otrzymał środki, całości otrzymanej pomocy wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6), naliczonymi od dnia następującego po dniu przekazania przez starostę (prezydenta miasta na prawach powiatu) środków na podstawie umowy o dofinansowanie kosztów szkolenia na rachunek Przedsiębiorcy.
 3. Jeżeli niespełnienie warunków zawartych w umowie o dofinansowanie kosztów szkolenia polega na wykorzystaniu pomocy niezgodnie z przeznaczeniem, Przedsiębiorca jest obowiązany do natychmiastowego zwrotu, na rachunek bankowy starosty (prezydenta miasta na prawach powiatu), z którego otrzymał środki, kwoty pomocy wykorzystanej niezgodnie z przeznaczeniem wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych, naliczonymi od dnia następującego po dniu przekazania przez starostę (prezydenta miasta na prawach powiatu) środków na podstawie umowy o dofinansowanie kosztów szkolenia na rachunek Przedsiębiorcy.
@@ -49,7 +49,7 @@ Umowa obowiązuje od dnia jej podpisania do dnia, w którym dokonano końcowego 
 § 8.
 Wszelkie zmiany i uzupełnienia umowy wymagają formy pisemnej pod rygorem nieważności w drodze aneksu do umowy, podpisanego przez Strony.
 § 9.
-W sprawach, których nie reguluje niniejsza umowa, mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2014 r. poz. 121 i 827 oraz z 2015 r.
+W sprawach, których nie reguluje niniejsza umowa, mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121 i 827 oraz z 2015 r.
 poz. 4) oraz ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. poz. 1291 oraz z 2015 r. poz. 150).
 § 10.
 Wszelkie spory powstałe w wyniku realizacji umowy Strony zobowiązują się rozwiązywać polubownie, a w sytuacji gdy nie będzie to możliwe, Strony poddadzą spór rozpoznaniu przez sąd właściwy miejscowo dla siedziby starosty (prezydenta miasta na prawach powiatu).
@@ -61,5 +61,5 @@ Wszelką korespondencję związaną z realizacją umowy Przedsiębiorca kieruje 
 Umowa została sporządzona w dwóch jednobrzmiących egzemplarzach, po jednym dla starosty (prezydenta miasta na prawach powiatu) i Przedsiębiorcy.
 .......................................................................... ..........................................................................
 
-## Załącznik nr 3 — WZÓR ………………………… ………………………………………… Zapotrzebowanie na środki na dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy Nazwa Liczba pracowników Lp. przedsiębiorcy skierowanych na szkolenia Kwota dofinansowania kosztów szkoleń pracowników (w zł) z: Funduszu Pracy Funduszu Gwarantowanych Świadczeń Pracowniczych 1 2 3 4 5 6 7 8 9 10 Razem Nr rachunku bankowego samorządu powiatu, na który należy przekazać środki …………………………………………………… Sporządził: Zatwierdził:
+## Załącznik nr 3 — WZÓR ………………………… ………………………………………… Zapotrzebowanie na środki na dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy Kwota dofinansowania kosztów Liczba pracowników szkoleń pracowników (w zł) z: Lp. Nazwa skierowanych na przedsiębiorcy szkolenia Funduszu Funduszu Gwarantowanych Pracy Świadczeń Pracowniczych 1 2 3 4 5 6 7 8 9 10 Razem Nr rachunku bankowego samorządu powiatu, na który należy przekazać środki …………………………………………………… Sporządził: Zatwierdził:
 

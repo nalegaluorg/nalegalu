@@ -8,10 +8,10 @@ pos: 2345
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 2345 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ dnia 14 listopada 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2345 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 14 listopada 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002345) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2345/text.pdf) |
 
-sprawie Sektorowej Ramy Kwalifikacji sektorze usługi rozwojowe Na podstawie art. 11 ust. 5 ustawy dnia 22 grudnia 2015 r. Zintegrowanym Systemie Kwalifikacji (Dz. U.
-2018 r. poz. 2153 2245 oraz 2019 r. poz. 534 1287) zarządza się, co następuje: § 1. Do Zintegrowanego Systemu Kwalifikacji włącza się Sektorową Ramę Kwalifikacji sektorze usługi rozwojowe.
-§ 2. Kwalifikacje, do których odnosi się Sektorowa Rama Kwalifikacji, której mowa § 1, przygotowują do wykonywania działalności usługowej, tym zarządczej, koordynacyjnej, specjalistycznej, doradczej oraz pomocniczej sektorze usługi rozwojowe, która ma na celu rozwój jednostek, grup lub organizacji, szczególności poprzez nabycie, potwierdzenie lub wzrost wiedzy, umiejętności lub kompetencji społecznych. Działalność ta jest wykonywana szczególności ramach zawodów specjalności wskazanych przepisach wydanych na podstawie art. 36 ust. 8 ustawy dnia 20 kwietnia 2004 r. promocji zatrudnienia instytucjach rynku pracy (Dz. U. 2019 r. poz. 1482, 1622 1818).
-§ 3. Charakterystyki efektów uczenia się dla poziomów Sektorowej Ramy Kwalifikacji sektorze usługi rozwojowe ujęte kategoriach wiedzy, umiejętności oraz kompetencji społecznych są określone załączniku do rozporządzenia.
-§ 4. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+w sprawie Sektorowej Ramy Kwalifikacji w sektorze usługi rozwojowe Na podstawie art. 11 ust. 4 i 5 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U.
+z 2018 r. poz. 2153 i 2245 oraz z 2019 r. poz. 534 i 1287) zarządza się, co następuje:
+§ 1. Do Zintegrowanego Systemu Kwalifikacji włącza się Sektorową Ramę Kwalifikacji w sektorze usługi rozwojowe.
+§ 2. Kwalifikacje, do których odnosi się Sektorowa Rama Kwalifikacji, o której mowa w § 1, przygotowują do wykonywania działalności usługowej, w tym zarządczej, koordynacyjnej, specjalistycznej, doradczej oraz pomocniczej w sektorze usługi rozwojowe, która ma na celu rozwój jednostek, grup lub organizacji, w szczególności poprzez nabycie, potwierdzenie lub wzrost wiedzy, umiejętności lub kompetencji społecznych. Działalność ta jest wykonywana w szczególności w ramach zawodów i specjalności wskazanych w przepisach wydanych na podstawie art. 36 ust. 8 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2019 r. poz. 1482, 1622 i 1818).
+§ 3. Charakterystyki efektów uczenia się dla poziomów Sektorowej Ramy Kwalifikacji w sektorze usługi rozwojowe ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych są określone w załączniku do rozporządzenia.
+§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Edukacji Narodowej: D. Piontkowski
 

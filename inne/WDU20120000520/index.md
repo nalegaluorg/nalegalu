@@ -8,10 +8,10 @@ pos: 520
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 maja 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 520 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 8 maja 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000520) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/520/text.pdf) |
 
-Poz. 520 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 8 maja 2012 r.
 w sprawie nadania pracownikom zatrudnionym w urzędach górniczych, wykonującym czynności inspekcyjno-techniczne w zakładach górniczych, uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
-z 2008 r. Nr 133, poz. 848, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2008 r. Nr 133, poz. 848, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) uprawnienia pracowników zatrudnionych w urzędach górniczych, wykonujących czynności inspekcyjno-techniczne w zakładach górniczych, zwanych dalej „inspektorami”, do nakładania grzywien w drodze mandatu karnego;
 2) wykaz wykroczeń, za które inspektorzy są uprawnieni do nakładania grzywien;
 3) zasady i sposób wydawania inspektorom upoważnień do nakładania grzywien.

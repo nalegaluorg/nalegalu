@@ -8,10 +8,10 @@ pos: 681
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 marca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 681 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 25 marca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/681/text.pdf) |
 
-Poz. 681 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 25 marca 2022 r.
-w sprawie metody zapobiegania zakażeniu lub chorobie zakaźnej stanowiącej szczególne zagrożenie dla zdrowia publicznego w związku z konfliktem zbrojnym na terytorium Ukrainy Na podstawie art. 3 ust. 4 pkt 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64 i 655) zarządza się, co następuje: § 1. 1. Wprowadza się metodę zapobiegania zakażeniu lub chorobie zakaźnej stanowiącej szczególne zagrożenie dla zdrowia publicznego w związku z konfliktem zbrojnym na terytorium Ukrainy polegającą na przeprowadzaniu szczepień ochronnych przeciw:
+w sprawie metody zapobiegania zakażeniu lub chorobie zakaźnej stanowiącej szczególne zagrożenie dla zdrowia publicznego w związku z konfliktem zbrojnym na terytorium Ukrainy Na podstawie art. 3 ust. 4 pkt 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64 i 655) zarządza się, co następuje:
+§ 1. 1. Wprowadza się metodę zapobiegania zakażeniu lub chorobie zakaźnej stanowiącej szczególne zagrożenie dla zdrowia publicznego w związku z konfliktem zbrojnym na terytorium Ukrainy polegającą na przeprowadzaniu szczepień ochronnych przeciw:
 1) błonicy,
 2) krztuścowi,
 3) odrze,
@@ -40,7 +40,7 @@ poz. 195 oraz z 2022 r. poz. 655).
 § 2. Szczepienia akcyjne są przeprowadzane z użyciem szczepionek:
 1) znajdujących się w rezerwie szczepionek oraz innych immunologicznych produktów leczniczych, o której mowa w art. 18a ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi,
 2) otrzymanych od innych państw lub organizacji międzynarodowych – zwanych dalej „rezerwą szczepionek”.
-Dziennik Ustaw – 2 – Poz. 681 § 3. 1. W przypadku wystąpienia zagrożenia dla zdrowia publicznego związanego z szerzeniem się zakażenia lub choroby zakaźnej, o których mowa w § 1 ust. 1, właściwy państwowy powiatowy inspektor sanitarny:
+§ 3. 1. W przypadku wystąpienia zagrożenia dla zdrowia publicznego związanego z szerzeniem się zakażenia lub choroby zakaźnej, o których mowa w § 1 ust. 1, właściwy państwowy powiatowy inspektor sanitarny:
 1) przeprowadza dochodzenie epidemiologiczne lub dokonuje oceny ryzyka epidemiologicznego, następnie – w przypadku potrzeby – ustala zapotrzebowanie na szczepionki z uwzględnieniem liczby osób, które powinny zostać objęte szczepieniem akcyjnym;
 2) niezwłocznie informuje państwowego wojewódzkiego inspektora sanitarnego oraz Głównego Inspektora Sanitarnego o planowanym przeprowadzeniu szczepień akcyjnych, w tym przekazuje mu informację o sytuacji epidemiologicznej, wynikach przeprowadzonego dochodzenia epidemiologicznego lub oceny ryzyka stanowiących przesłanki uzasadniające realizację szczepień akcyjnych oraz oszacowanej na tej podstawie liczbie przeznaczonych do użycia szczepionek.
 2. Jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia, na podstawie jednostkowych danych medycznych zawartych w dokumentacji medycznej, o której mowa w § 5, sporządza i przekazuje Głównemu Inspektorowi Sanitarnemu raporty liczbowe zawierające w szczególności informacje o liczbie zaszczepionych osób oraz szczepionek podanych w ramach szczepień akcyjnych. Główny Inspektor Sanitarny określa zakres danych i terminy sporządzania raportów liczbowych niezbędnych do sprawowania efektywnego nadzoru nad realizacją szczepień akcyjnych.

@@ -8,10 +8,10 @@ pos: 341
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 marca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 341 Akt poprAwki do Konstytucji Międzynarodowej Organizacji Pracy, przyjęty w Genewie dnia 19 czerwca 1997 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/341/text.pdf) |
 
-Akt poprAwki do Konstytucji Międzynarodowej Organizacji Pracy, przyjęty w Genewie dnia 19 czerwca 1997 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 19 czerwca 1997 r. w Genewie został przyjęty Akt poprawki do konstytucji Międzynarodowej organizacji Pracy, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym aktem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęty, ratyfikowany i potwierdzony, będzie niezmiennie zachowywany.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 19 czerwca 1997 r. w Genewie został przyjęty Akt poprawki do konstytucji Międzynarodowej organizacji Pracy, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym aktem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęty, ratyfikowany i potwierdzony, – będzie niezmiennie zachowywany.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 10 lipca 2007 r.
 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński l.s.

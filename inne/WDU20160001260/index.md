@@ -8,10 +8,10 @@ pos: 1260
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 sierpnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1260 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 sierpnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001260) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1260/text.pdf) |
 
-Poz. 1260 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 sierpnia 2016 r.
-w sprawie szczegółowego zakresu i sposobu wykonywania czynności przez asystentów i starszych asystentów prokuratorów Na podstawie art. 178 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177) zarządza się, co następuje: § 1. Asystenci i starsi asystenci prokuratorów, zwani dalej „asystentami”, wykonują czynności w Prokuraturze Krajowej oraz w prokuraturach regionalnych, okręgowych i rejonowych.
+w sprawie szczegółowego zakresu i sposobu wykonywania czynności przez asystentów i starszych asystentów prokuratorów Na podstawie art. 178 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177) zarządza się, co następuje:
+§ 1. Asystenci i starsi asystenci prokuratorów, zwani dalej „asystentami”, wykonują czynności w Prokuraturze Krajowej oraz w prokuraturach regionalnych, okręgowych i rejonowych.
 § 2. 1. Asystent w prokuraturze regionalnej, okręgowej lub rejonowej wykonuje bieżące czynności nadzoru nad dochodzeniem, do których należy:
 1) systematyczne zapoznawanie się z aktami sprawy i zwracanie szczególnej uwagi na:
 a) zakres przedmiotowy i podmiotowy postępowania,
@@ -44,7 +44,7 @@ l) przestrzeganie zasad biurowości, w szczególności poprawności ułożenia m
 2) badanie terminowości nadsyłania przez Policję lub inne uprawnione organy akt dochodzenia z wnioskiem o przedłużenie czasu jego trwania;
 3) badanie poziomu czynności procesowych oraz wydanych w toku dochodzenia zarządzeń i postanowień.
 2. Spostrzeżenia i uwagi dotyczące pracy dochodzeniowej, wynikające z nadzoru, asystent przekazuje prokuratorowi w formie notatki urzędowej, a następnie wykonuje czynności wynikające z polecenia prokuratora.
-Dziennik Ustaw – 2 – Poz. 1260 § 3. 1. Do samodzielnych czynności administracyjnych asystenta w Prokuraturze Krajowej, prokuraturze regionalnej, okręgowej lub rejonowej należy:
+§ 3. 1. Do samodzielnych czynności administracyjnych asystenta w Prokuraturze Krajowej, prokuraturze regionalnej, okręgowej lub rejonowej należy:
 1) kontrola terminowości sporządzania opinii przez biegłych;
 2) wstępna kontrola pod względem formalnym i merytorycznym dokumentów dotyczących wypłat wynagrodzeń biegłych i innych kosztów postępowania;
 3) sprawdzanie terminowości i prawidłowości wykonywania zarządzeń prokuratora przez sekretariat;

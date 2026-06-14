@@ -8,10 +8,10 @@ pos: 1730
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 listopada 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11773300 PROGRAM WSPÓŁPRACY między Ministrem Nauki Rzeczypospolitej Polskiej a Ministerstwem Edukacji i Nauki Republiki Bułgarii w dziedzinie nauki i szkolnictwa wyższego na lata 2024–2027, podpisany w Warszawie dnia 6 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2024-11-26 |
 | Ostatnia zmiana | 2024-11-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1730/text.pdf) |
-
-PROGRAM WSPÓŁPRACY między Ministrem Nauki Rzeczypospolitej Polskiej a Ministerstwem Edukacji i Nauki Republiki Bułgarii w dziedzinie nauki i szkolnictwa wyższego na lata 2024–2027, podpisany w Warszawie dnia 6 czerwca 2024 r.
 

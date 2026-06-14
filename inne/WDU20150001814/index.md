@@ -8,10 +8,12 @@ pos: 1814
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 25 września 2015 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy
+# o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy
+
+*USTAWA z dnia 25 września 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +27,10 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001814) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1814/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2015 r. poz. 149, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 150f.**
-
-1. Starosta może zawrzeć umowę, na podstawie której refunduje pracodawcy lub przedsiębiorcy przez okres 12 miesięcy część kosztów poniesionych na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne skierowanych bezrobotnych do 30 roku życia, w wysokości uprzednio uzgodnionej, nieprzekraczającej jednak kwoty ustalonej jako iloczyn liczby zatrudnionych skierowanych bezrobotnych w miesiącu oraz kwoty minimalnego wynagrodzenia za pracę obowiązującej w ostatnim dniu zatrudnienia każdego rozliczanego miesiąca i składek na ubezpieczenia społeczne od refundowanego wynagrodzenia.
+- **1)** w art. 108 po ust. 1i dodaje się ust. 1j w brzmieniu: „1j. Ze środków Funduszu Pracy w latach 2016–2017 są finansowane koszty, o których mowa w art. 150f i art. 150g.”;
+- **2)** po art. 150e dodaje się art. 150f i art. 150g w brzmieniu: „Art. 150f. 1. Starosta może zawrzeć umowę, na podstawie której refunduje pracodawcy lub przedsiębiorcy przez okres 12 miesięcy część kosztów poniesionych na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne skierowanych bezrobotnych do 30 roku życia, w wysokości uprzednio uzgodnionej, nieprzekraczającej jednak kwoty ustalonej jako iloczyn liczby zatrudnionych skierowanych bezrobotnych w miesiącu oraz kwoty minimalnego wynagrodzenia za pracę obowiązującej w ostatnim dniu zatrudnienia każdego rozliczanego miesiąca i składek na ubezpieczenia społeczne od refundowanego wynagrodzenia.
 
 2. Starosta nie może zawrzeć umowy, o której mowa w ust. 1, z pracodawcą, u którego w okresie ostatnich 6 miesięcy przed złożeniem wniosku nastąpiło zmniejszenie zatrudnienia z przyczyn dotyczących zakładu pracy.
 
@@ -43,6 +44,8 @@ source: "eli-html"
 
 7. Refundacja, o której mowa w ust. 1, jest udzielana zgodnie z warunkami dopuszczalności pomocy de minimis.
 
+**Art. 150g.**
+
 1. Umowy, o których mowa w art. 150f, mogą być zawierane w okresie od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2017 r.
 
 2. Koszty wynikające z zawartych umów, o których mowa w ust. 1, są finansowane przez starostę w ramach Funduszu Pracy w latach 2016–2018.
@@ -55,9 +58,7 @@ source: "eli-html"
 
 6. Jeżeli kwota środków przewidzianych w planie finansowym Funduszu Pracy na rok 2016, 2017 lub 2018 nie pokrywa kwot na finansowanie zadania, o którym mowa w art. 150f, minister właściwy do spraw pracy dokonuje odpowiedniej zmiany w planie finansowym Funduszu Pracy, polegającej na zwiększeniu kwoty na finansowanie zadania i odpowiednim zmniejszeniu stanu Funduszu Pracy na koniec danego roku budżetowego, z zastrzeżeniem ust. 3, zgodnie z art. 29 ust. 12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-7. Podziału środków, o których mowa w ust. 3, dla województw, na rok 2016, 2017 i 2018, dokonuje, w terminie miesiąca od dnia wejścia w życie ustawy, minister właściwy do spraw pracy według następującego algorytmu: \( Lw_{jn} = Lkj \times {{Bw_n } \over {Bk}} \) gdzie znaczenie poszczególnych symboli jest następujące: Lwjn- kwota kosztów (limit wydatków), jaka może być poniesiona w j-tym roku budżetowym w n-tym województwie na finansowanie zadania, o którym mowa w art. 150f, Lkj- kwota kosztów (limit wydatków) Funduszu Pracy, o której mowa w ust. 3, w j-tym roku budżetowym, Bwn- średnia miesięczna liczba bezrobotnych do 30 roku życia, według stanu na koniec miesiąca, zarejestrowanych w danym województwie w okresie 9 miesięcy poprzedzających dzień 1 października 2015 r., Bk – średnia miesięczna liczba bezrobotnych do 30 roku życia, według stanu na koniec miesiąca, zarejestrowanych w kraju w okresie 9 miesięcy poprzedzających dzień 1 października 2015 r., j – dany rok budżetowy, n – dane województwo.
-
-8. Minister właściwy do spraw pracy zawiadamia marszałków województw o kwocie limitów, o których mowa w ust. 7, na realizację w województwie zadania, o którym mowa w art. 150f.
+7. Podziału środków, o których mowa w ust. 3, dla województw, na rok 2016, 2017 i 2018, dokonuje, w terminie miesiąca od dnia wejścia w życie ustawy, minister właściwy do spraw pracy według następującego algorytmu: 𝐵𝐿 gdzie znaczenie poszczególnych symboli jest 𝐿𝐿 następujące: =𝐿𝐿𝐿× 𝐵𝐿 – kwota kosztów (limit wydatków), jaka może być poniesiona w j-tym roku budżetowym w n-tym województwie na finansowanie zadania, o którym mowa w art. 150f, 𝐿𝐿 – kwota kosztów (limit wydatków) Funduszu Pracy, o której mowa w ust. 3, w j-tym roku budżetowym, 𝐿𝐿𝐿 – średnia miesięczna liczba bezrobotnych do 30 roku życia, według stanu na koniec miesiąca, zarejestrowanych w danym województwie w okresie 9 miesięcy poprzedzających dzień 1 października 2015 r., 𝐵𝐿 – średnia miesięczna liczba bezrobotnych do 30 roku życia, według stanu na koniec miesiąca, zarejestrowanych w kraju w okresie 9 miesięcy poprzedzających dzień 1 października 2015 r., 𝐵𝐿 − dany rok budżetowy, 𝐿 – dane województwo. 𝑛 8. Minister właściwy do spraw pracy zawiadamia marszałków województw o kwocie limitów, o których mowa w ust. 7, na realizację w województwie zadania, o którym mowa w art. 150f.
 
 9. Kwoty środków Funduszu Pracy na finansowanie w powiecie zadania, o którym mowa w art. 150f, są ustalane przez zarząd województwa w terminie miesiąca od dnia zawiadomienia, o którym mowa w ust. 8, w oparciu o następujące kryteria dotyczące roku 2015:
 
@@ -78,7 +79,7 @@ source: "eli-html"
 
 15. Zobowiązania wynikające z umów, o których mowa w ust. 1, przechodzące na rok 2017 i 2018, są finansowane w ramach limitów, o których mowa odpowiednio w ust. 11, 13 i 14.
 
-16. Kwoty z tytułu zwrotu uzyskanej pomocy, o której mowa w art. 150f, dokonywanego przez pracodawców od roku 2018 powiększają przychody Funduszu Pracy. ” .
+16. Kwoty z tytułu zwrotu uzyskanej pomocy, o której mowa w art. 150f, dokonywanego przez pracodawców od roku 2018 powiększają przychody Funduszu Pracy.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

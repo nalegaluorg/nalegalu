@@ -91,8 +91,7 @@ Międzynarodowej Federacji Koni Huculskich (HIF),
 n)
 Międzynarodowej Konfederacji Koni Angloarabskich (CIAA),
 o)
-Międzynarodowej Federacji Związków Pszczelarskich (APIMONDIA)
-zwanego dalej „dofinansowaniem”, składa się na formularzu opracowanym przez ministra właściwego do spraw rolnictwa i udostępnionym na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rolnictwa w terminie do dnia 31 stycznia roku, którego dotyczy wniosek.
+Międzynarodowej Federacji Związków Pszczelarskich (APIMONDIA) – zwanego dalej „dofinansowaniem”, składa się na formularzu opracowanym przez ministra właściwego do spraw rolnictwa i udostępnionym na stronie internetowej administrowanej przez urząd obsługujący ministra właściwego do spraw rolnictwa w terminie do dnia 31 stycznia roku, którego dotyczy wniosek.
 2.
 Do wniosku o dofinansowanie dołącza się kalkulację kosztów sporządzoną przez Krajową Radę Izb Rolniczych na podstawie kalkulacji jej kosztów i kalkulacji kosztów związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych, zwanych dalej „organizacjami rolniczymi”, przekazanych przez organizacje rolnicze w terminie do dnia 31 grudnia roku poprzedzającego rok, którego dotyczy wniosek.
 § 3.
@@ -132,8 +131,7 @@ Krajowa Rada Izb Rolniczych dokonuje refundacji wydatków poniesionych przez org
 1)
 składek członkowskich w ponadnarodowych organizacjach rolniczych, innych niż Komitet Rolniczych Organizacji Zawodowych (COPA) i Główny Komitet Spółdzielczości Rolniczej (COGECA), oraz kosztów obsługi w języku polskim prac w tych organizacjach – w ramach pierwszej transzy,
 2)
-kosztów, o których mowa w § 3 ust. 1 pkt 3 – w ramach drugiej transzy
-w wysokości i w terminie określonych w umowie, o której mowa w art. 35b ust. 2c ustawy.
+kosztów, o których mowa w § 3 ust. 1 pkt 3 – w ramach drugiej transzy – w wysokości i w terminie określonych w umowie, o której mowa w art. 35b ust. 2c ustawy.
 3.
 Krajowa Rada Izb Rolniczych w ramach transz, o których mowa w ust. 2, dokonuje refundacji poniesionych wydatków na podstawie przedłożonych przez organizacje rolnicze, o których mowa w ust. 1, opisanych kopii dowodów księgowych i wyciągów bankowych, potwierdzających zapłatę całości zobowiązań, po ich zweryfikowaniu i zaakceptowaniu przez Krajową Radę Izb Rolniczych.
 4.

@@ -8,10 +8,10 @@ pos: 252
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Poz. 225522 ROZPORZĄDZENIE RADY MINISTRÓW dnia 17 stycznia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 225522 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 17 stycznia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/252/text.pdf) |
 
-zmieniające rozporządzenie sprawie równorzędności stopni wojskowych oraz uzyskanych Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa Na podstawie art. 127 ust. 3 ustawy dnia grudnia 2017 r. Służbie Ochrony Państwa (Dz. U. 2023 r. poz. 66, 2022 r. poz. 2600 oraz 2023 r. poz. 240) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów dnia 7 listopada 2018 r. sprawie równorzędności stopni wojskowych oraz uzyskanych Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa (Dz. U.
-poz. 2178 oraz 2022 r. poz. 2074) załącznik do rozporządzenia otrzymuje brzmienie określone załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+zmieniające rozporządzenie w sprawie równorzędności stopni wojskowych oraz uzyskanych w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej i Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa Na podstawie art. 127 ust. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 7 listopada 2018 r. w sprawie równorzędności stopni wojskowych oraz uzyskanych w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej i Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa (Dz. U.
+poz. 2178 oraz z 2022 r. poz. 2074) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Prezes Rady Ministrów: M. Morawiecki M
 

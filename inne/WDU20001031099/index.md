@@ -8,7 +8,7 @@ pos: 1099
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o giełdach towarowych
@@ -36,6 +36,53 @@ Art. 67–69. (pominięte)
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** giełdzie towarowej – rozumie się przez to zespół osób, urządzeń i środków technicznych zapewniający wszystkim uczestnikom obrotu jednakowe warunki zawierania transakcji giełdowych oraz jednakowy dostęp w tym samym czasie do informacji rynkowych, a w szczególności do informacji o kursach i cenach towarów giełdowych oraz o obrotach towarami giełdowymi;
+- **1a)** instrumentach finansowych – rozumie się przez to instrumenty finansowe, o których mowa w art. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146, 820, 923 i 1014);
+- **2)** towarach giełdowych – rozumie się przez to dopuszczone do obrotu na danej giełdzie towarowej lub do obrotu organizowanego zgodnie z odrębnymi przepisami: z 2024 r. poz. 1361, 1847 i 1881 oraz z 2025 r. poz. 303 i 759),
+    - **a)** oznaczone co do gatunku rzeczy,
+    - **b)** różne rodzaje energii, paliwa gazowe lub wodór, o których mowa w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ),
+    - **c)** (uchylona)
+    - **d)** prawa majątkowe wynikające ze świadectw, o których mowa w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz ze świadectw pochodzenia i świadectw pochodzenia biogazu rolniczego, o których mowa w ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U.
+    - **e)** (uchylona)
+    - **f)** prawa majątkowe wynikające ze świadectwa efektywności energetycznej, o których mowa w przepisach dotyczących efektywności energetycznej;
+
+- **2a)** hurtowych produktach energetycznych – rozumie się przez to produkty energetyczne będące przedmiotem obrotu hurtowego na zorganizowanej platformie obrotu, które muszą być wykonywane przez dostawę, o których mowa w art. 2 ust. 1 pkt 2 lit. e ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **3)** transakcji giełdowej – rozumie się przez to umowę dotyczącą towarów giełdowych zawartą na giełdzie towarowej, w tym umowę zawartą w celu realizacji obrotu transgranicznego w ramach łączenia rynków, przez:
+    - **a)** członków giełdy,
+    - **b)** zleceniodawców, którzy zawarli umowę ze spółkami handlowymi prowadzącymi działalność maklerską, o której mowa w art. 38 ust. 2 pkt 2, w zakresie obrotu towarami giełdowymi, o których mowa w pkt 2 lit. a,
+    - **c)** inne podmioty uprawnione do uczestniczenia w obrocie transgranicznym w ramach łączenia rynków;
+
+- **4)** giełdowej izbie rozrachunkowej – rozumie się przez to zespół osób, urządzeń i środków technicznych utworzony w celu organizacji i prowadzenia rozliczeń transakcji giełdowych;
+- **5)** członku giełdy – rozumie się przez to podmiot, który zawarł ze spółką prowadzącą giełdę umowę o członkostwo i na podstawie regulaminu giełdy jest dopuszczony do zawierania transakcji giełdowych;
+- **6)** działalności maklerskiej – rozumie się przez to działalność w zakresie obrotu towarami giełdowymi, realizowaną na giełdzie towarowej;
+- **7)** (uchylony)
+- **8)** towarowym domu maklerskim – rozumie się przez to spółkę akcyjną albo spółkę z ograniczoną odpowiedzialnością z siedzibą na terytorium Rzeczypospolitej Polskiej, prowadzącą działalność maklerską w zakresie obrotu towarami giełdowymi;
+- **9)** domu maklerskim – rozumie się przez to:
+    - **a)** domy maklerskie,
+    - **b)** banki prowadzące działalność maklerską,
+    - **c)** zagraniczne firmy inwestycyjne lub zagraniczne osoby prawne, o których mowa w przepisach ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, prowadzące działalność maklerską na terytorium Rzeczypospolitej Polskiej – jeżeli dokonują czynności w zakresie obrotu towarami giełdowymi;
+
+- **10)** tajemnicy zawodowej – rozumie się przez to informację uzyskaną przez osobę wymienioną w art. 53 ust. 1 w związku z czynnościami służbowymi, zatrudnieniem, stosunkiem zlecenia lub innym stosunkiem prawnym o podobnym charakterze, dotyczącą giełdowego obrotu towarami giełdowymi lub czynności wynikających z uczestnictwa w tym obrocie, albo działalności podmiotów podlegających nadzorowi Komisji Nadzoru Finansowego, zwanej dalej „Komisją”, jeżeli nieuprawnione ujawnienie takiej informacji mogłoby narazić na szkodę interes państwa, interes publiczny lub prawnie chroniony interes osoby fizycznej lub prawnej, bądź jednostki organizacyjnej, której ta informacja dotyczy, a w szczególności informację zawierającą:
+    - **a)** dane osobowe klienta, inwestora, strony umowy, czynności lub transakcji,
+    - **b)** treść umowy i przedmiot czynności lub transakcji,
+    - **c)** dane o sytuacji majątkowej osób, o których mowa w lit. a, w tym oznaczenie rachunku lub rejestru towarów giełdowych lub rachunku pieniężnego oraz stany tych rachunków;
+
+- **11)** podmiocie dominującym – rozumie się przez to podmiot dominujący w rozumieniu art. 4 pkt 14 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592);
+- **12)** (uchylony)
+- **13)** instytucjach rynku towarów giełdowych – rozumie się przez to giełdy towarowe, giełdowe izby rozrachunkowe oraz towarowe domy maklerskie;
+- **14)** radzie nadzorczej giełdy – rozumie się przez to radę nadzorczą spółki prowadzącej giełdę towarową;
+- **15)** (uchylony)
+- **16)** gwarantowaniu – rozumie się przez to nieodwołalne zobowiązanie do wykonania każdego zobowiązania wynikającego z transakcji towarami giełdowymi;
+- **17)** łączeniu rynków – rozumie się przez to tworzony przez operatora systemu przesyłowego elektroenergetycznego, operatora systemu przesyłowego gazowego lub operatora systemu przesyłowego wodorowego i podmiot prowadzący giełdę towarową transgraniczny mechanizm łączenia rynków krajowych oparty o wspólny algorytm ustalania cen i udostępnione uczestnikom połączonych rynków zdolności przesyłowe na połączeniach z innymi systemami przesyłowymi elektroenergetycznymi, gazowymi lub wodorowymi;
+- **18)** obrocie transgranicznym – rozumie się przez to obrót energią elektryczną, paliwami gazowymi lub wodorem dokonywany przez użytkowników systemu z użytkownikami innych systemów przesyłowych elektroenergetycznych, gazowych lub wodorowych na podstawie umów dwustronnych lub transakcji zawieranych w ramach łączenia rynków;
+- **19)** derywacie elektroenergetycznym – rozumie się przez to instrument finansowy w rozumieniu art. 2 ust. 1 pkt 2 lit. d i e ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, który odnosi się do energii elektrycznej;
+- **20)** derywacie gazowym – rozumie się przez to instrument finansowy w rozumieniu art. 2 ust. 1 pkt 2 lit. d i e ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, który odnosi się do gazu ziemnego;
+- **21)** rozporządzeniu 1031/2010 – rozumie się przez to rozporządzenie Komisji (UE) nr 1031/2010 z dnia 12 listopada 2010 r. w sprawie harmonogramu, kwestii administracyjnych oraz pozostałych aspektów sprzedaży na aukcji uprawnień do emisji gazów cieplarnianych na mocy dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady ustanawiającej system handlu przydziałami emisji gazów cieplarnianych we Wspólnocie (Dz. Urz. UE L 302 z 18.11.2010, str. 1, z późn. zm.);
+- **21)** informacji wewnętrznej – rozumie się przez to informację wewnętrzną, o której mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii (Dz. Urz. UE L 326 z 08.12.2011, str. 1);
+- **22)** platformie aukcyjnej – rozumie się przez to platformę aukcyjną, o której mowa w art. 3 pkt 10a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **22)** manipulacji na rynku – rozumie się przez to manipulację na rynku, o której mowa w art. 2 pkt 2 rozporządzenia wymienionego w pkt 21;
+- **23)** próbie manipulacji na rynku – rozumie się przez to próbę manipulacji na rynku, o której mowa w art. 2 pkt 3 rozporządzenia wymienionego w pkt 21.
+
 **Art. 3.** (uchylony)
 
 **Art. 3a.**
@@ -51,6 +98,10 @@ Art. 67–69. (pominięte)
 #### Rozdział 2 Tworzenie i ustrój organizacyjny giełdy towarowej
 
 **Art. 4.** Celem działania spółki prowadzącej giełdę jest:
+
+- **1)** koncentracja podaży i popytu na towary giełdowe;
+- **2)** zapewnienie bezpiecznego i sprawnego przebiegu transakcji giełdowych i rozliczeń;
+- **3)** upowszechnianie jednolitych informacji umożliwiających ocenę aktualnej wartości towarów giełdowych.
 
 **Art. 5.**
 
@@ -579,6 +630,10 @@ Art. 67–69. (pominięte)
 
 **Art. 41.** Komisja wydaje decyzję odmawiającą zezwolenia w przypadku, gdy:
 
+- **1)** wniosek o wydanie zezwolenia nie spełnia wymagań określonych w art. 39 ust. 1 i 2;
+- **2)** wnioskodawca nie przedstawi, na żądanie Komisji, informacji, o których mowa w art. 39 ust. 3;
+- **3)** z analizy wniosku i załączonych do niego dokumentów wynika, że spółka nie zapewnia przestrzegania zasad uczciwego obrotu lub prowadzenia działalności w sposób należycie zabezpieczający interesy klientów.
+
 **Art. 41a.**
 
 1. Towarowy dom maklerski posiadający zezwolenie na prowadzenie działalności maklerskiej jest obowiązany zatrudniać do wykonywania czynności, o których mowa w art. 38 ust. 2 i art. 38e, osoby, które:
@@ -641,6 +696,11 @@ Art. 67–69. (pominięte)
 3. Na pisemne żądanie Komisji lub jej upoważnionego przedstawiciela podmiot przechowujący dokumenty jest obowiązany do niezwłocznego sporządzenia i przekazania kopii tych dokumentów.
 
 **Art. 46.** Towarowy dom maklerski jest obowiązany niezwłocznie informować Komisję o:
+
+- **1)** wszelkich zmianach danych zawartych we wniosku o udzielenie zezwolenia i w załącznikach do niego, z zastrzeżeniem pkt 2;
+- **2)** zmianach w składzie wspólników albo akcjonariuszy posiadających co najmniej 5 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu;
+- **3)** nabyciu lub objęciu akcji lub udziałów w innych spółkach w liczbie, która zapewnia prawo do co najmniej 5 % głosów na walnym zgromadzeniu.
+- **4)** (uchylony)
 
 **Art. 47.** (uchylony)
 
@@ -825,7 +885,17 @@ Art. 67–69. (pominięte)
 
 **Art. 55a.** Nie narusza obowiązku zachowania tajemnicy zawodowej przekazywanie informacji stanowiących taką tajemnicę:
 
+- **1)** w zawiadomieniu o przestępstwie lub w załączonych do niego dokumentach;
+- **2)** Generalnemu Inspektorowi Informacji Finansowej, Szefowi Krajowego Centrum Informacji Kryminalnych, organom podatkowym lub organom celnym – w zakresie, trybie i na warunkach określonych w odrębnych ustawach;
+- **3)** przez Komisję lub jej upoważnionego przedstawiciela do publicznej wiadomości w zakresie dotyczącym treści podjętych uchwał i decyzji, także w sprawach indywidualnych, na podstawie których są wydawane decyzje administracyjne – jeżeli ze względu na interes rynku towarowego Komisja uznała przekazanie takiej informacji za uzasadnione;
+- **4)** w wykonaniu obowiązków informacyjnych, publikacyjnych lub sprawozdawczych określonych w ustawie lub przepisach wydanych na jej podstawie;
+- **4a)** operatorowi systemu przesyłowego elektroenergetycznego lub operatorowi systemu przesyłowego gazowego przez spółkę prowadzącą giełdę towarową lub spółkę prowadzącą giełdową izbę rozrachunkową, jeżeli ze względu na interes rynku towarowego spółka uznała przekazanie takiej informacji za uzasadnione;
+- **5)** za zgodą osoby, której ta informacja dotyczy.
+
 **Art. 55b.** Komisja może przekazać będące w jej posiadaniu informacje stanowiące tajemnicę zawodową:
+
+- **1)** (uchylony)
+- **2)** rzecznikowi sądu lub sądowi izby, wyłącznie w zakresie niezbędnym do ustalenia, na potrzeby prowadzonego postępowania, naruszenia przez członka izby zasad etyki lub zasad rzetelnego wykonywania działalności gospodarczej.
 
 **Art. 55c.** Obowiązek zachowania tajemnicy zawodowej rozciąga się również na osoby, którym informacje stanowiące taką tajemnicę zostały ujawnione na podstawie art. 54–55b.
 
@@ -952,4 +1022,8 @@ Art. 67–69. (pominięte)
 #### Rozdział 11 Przepisy przejściowe i końcowe
 
 **Art. 70.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 26 ust. 2, który wchodzi w życie po upływie 18 miesięcy od dnia ogłoszenia;
+- **2)** art. 29, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+
 

@@ -8,10 +8,10 @@ pos: 123
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 stycznia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 123 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 26 stycznia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/123/text.pdf) |
 
-Poz. 123 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 26 stycznia 2016 r.
-w sprawie szczegółowych warunków stosowania procedur sprawdzających oraz przypadków, w których możliwy jest wybór określonych sposobów postępowania na podstawie Umowy FATCA Na podstawie art. 4 ust. 9 ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA (Dz. U. poz. 1712) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie szczegółowych warunków stosowania procedur sprawdzających oraz przypadków, w których możliwy jest wybór określonych sposobów postępowania na podstawie Umowy FATCA Na podstawie art. 4 ust. 9 ustawy z dnia 9 października 2015 r. o wykonywaniu Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA (Dz. U. poz. 1712) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe warunki stosowania procedur sprawdzających określonych w załączniku I do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszących Uzgodnień Końcowych, podpisanych w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647), zwanych dalej „Umową FATCA”, stosowanych na potrzeby identyfikacji opisanych w nim kategorii rachunków;
 2) przypadki, w których możliwy jest wybór określonych sposobów postępowania stosownie do postanowień załącznika I do Umowy FATCA.
 § 2. Na potrzeby stosowania zasad przewalutowania określonych w części VI ust. C pkt 4 załącznika I do Umowy FATCA raportujące polskie instytucje finansowe korzystają z kursów średnich ogłoszonych przez Narodowy Bank Polski.

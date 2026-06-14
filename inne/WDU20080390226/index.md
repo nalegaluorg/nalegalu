@@ -8,7 +8,7 @@ pos: 226
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Akademii Medycznej w Warszawie nazwy „Warszawski Uniwersytet Medyczny”

@@ -8,7 +8,7 @@ pos: 202
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o recyklingu pojazdów wycofanych z eksploatacji
@@ -50,6 +50,41 @@ Art. 54–59. (pominięte)
 2. Przepisów ustawy nie stosuje się do pojazdów historycznych.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** imporcie – rozumie się przez to przywóz pojazdu z terytorium państwa niebędącego członkiem Unii Europejskiej w celu wprowadzenia na terytorium kraju;
+- **2)** masie pojazdu – rozumie się przez to masę własną w rozumieniu przepisów ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, 284, 568, 695, 1087 i 1517), pomniejszoną o masę paliwa w ilości nominalnej;
+- **2a)** masie pojazdu wycofanego z eksploatacji – rozumie się przez to masę pojazdu zważonego przy przyjmowaniu pojazdu do stacji demontażu lub punktu zbierania pojazdów, po uprzednim usunięciu z niego innych odpadów, które nie pochodzą z tego pojazdu;
+- **3)** odzysku – rozumie się przez to odzysk w rozumieniu przepisów o odpadach;
+- **4)** pojeździe – rozumie się przez to pojazdy samochodowe zaliczone do kategorii M1 lub N1, określonych w przepisach o ruchu drogowym, oraz motorowery trójkołowe zaliczone do kategorii L2e, określonych w przepisach o ruchu drogowym;
+- **5)** pojeździe historycznym – rozumie się przez to:
+    - **a)** pojazd zabytkowy w rozumieniu przepisów ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
+    - **b)** pojazd mający co najmniej 25 lat, uznany przez rzeczoznawcę samochodowego za unikatowy lub mający szczególne znaczenie dla udokumentowania historii motoryzacji;
+
+- **6)** pojeździe wycofanym z eksploatacji – rozumie się przez to pojazd stanowiący odpad w rozumieniu przepisów o odpadach;
+- **7)** ponownym użyciu – rozumie się przez to zastosowanie przedmiotów wyposażenia i części, wymontowanych z pojazdów wycofanych z eksploatacji, w tym samym celu, dla którego zostały pierwotnie zaprojektowane i wykonane;
+- **8)** przetwarzaniu – rozumie się przez to czynności podejmowane po przekazaniu pojazdu wycofanego z eksploatacji do stacji demontażu w celu demontażu, odzysku lub przygotowania do unieszkodliwiania;
+- **9)** recyklingu – rozumie się przez to recykling w rozumieniu przepisów o odpadach;
+- **10)** stacji demontażu – rozumie się przez to zakład prowadzący przetwarzanie, w tym demontaż obejmujący następujące czynności:
+    - **a)** usunięcie z pojazdów wycofanych z eksploatacji elementów i substancji niebezpiecznych, w tym płynów,
+    - **b)** wymontowanie z pojazdów wycofanych z eksploatacji przedmiotów wyposażenia i części nadających się do ponownego użycia,
+    - **c)** wymontowanie z pojazdów wycofanych z eksploatacji elementów nadających się do odzysku lub recyklingu;
+
+- **11)** strzępiarce – rozumie się przez to instalację służącą do rozdrabniania odpadów powstałych w trakcie demontażu pojazdów wycofanych z eksploatacji;
+- **12)** terytorium kraju – rozumie się przez to terytorium Rzeczypospolitej Polskiej;
+- **13)** wewnątrzwspólnotowym nabyciu – rozumie się przez to przywóz pojazdu z terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej w celu wprowadzenia na terytorium kraju;
+- **14)** wprowadzającym pojazd – rozumie się przez to przedsiębiorcę będącego producentem pojazdu lub przedsiębiorcę prowadzącego działalność gospodarczą w zakresie wewnątrzwspólnotowego nabycia lub importu;
+- **15)** substancji niebezpiecznej – rozumie się przez to każdą substancję spełniającą kryteria klasyfikacji dla którejkolwiek z klas lub kategorii zagrożenia wymienionych w:
+    - **a)** części 2 w pkt 2.1–2.4, 2.6, 2.7, 2.8 (Typ A i B), 2.9, 2.10, 2.12,
+
+2. 13 (kategoria 1 i 2), 2.14 (kategoria 1 i 2) oraz 2.15 (Typ A–F),
+
+- **b)** części 3 w pkt 3.1–3.6, 3.7 (działanie szkodliwe na funkcje płciowe i płodność lub na rozwój potomstwa), 3.8 (z wyjątkiem substancji spełniających kryteria klasyfikacji ze względu na działanie narkotyczne),
+
+3. 9 i 3.10,
+
+- **c)** części 4 w pkt 4.1,
+- **d)** części 5 w pkt 5.1 – załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1);
+- **16)** wprowadzeniu na terytorium kraju – rozumie się przez to wprowadzenie pojazdu po raz pierwszy na terytorium kraju w celu używania lub dystrybucji.
 
 **Art. 3a.** (uchylony)
 
@@ -196,6 +231,10 @@ Art. 54–59. (pominięte)
 
 **Art. 19.** Właściciel pojazdu wycofanego z eksploatacji lub upoważniona przez niego osoba, przekazując pojazd do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów, jest obowiązany okazać:
 
+- **1)** dowód osobisty lub inny dokument potwierdzający tożsamość;
+- **2)** dowód rejestracyjny pojazdu lub inny dokument potwierdzający dane zawarte w dowodzie rejestracyjnym;
+- **3)** dokument potwierdzający własność w przypadku właściciela pojazdu innego niż wpisany w dowodzie rejestracyjnym. [Art. 20. Właściciel pojazdu wycofanego z eksploatacji jest obowiązany w terminie 30 dni od dnia otrzymania zaświadczenia o demontażu pojazdu lub zaświadczenia o przyjęciu niekompletnego pojazdu złożyć wniosek o wyrejestrowanie pojazdu.]
+
 #### Rozdział 4 Obowiązki przedsiębiorców prowadzących stacje demontażu
 
 **Art. 21.**
@@ -257,6 +296,11 @@ Art. 54–59. (pominięte)
 **Art. 26.** Przedsiębiorca prowadzący stację demontażu prowadzi ewidencję zaświadczeń o demontażu pojazdu oraz zaświadczeń o przyjęciu niekompletnego pojazdu, wydanych przez niego i przez przedsiębiorców prowadzących punkty zbierania pojazdów, z którymi zawarł umowę.
 
 **Art. 27.** Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw klimatu, określi, w drodze rozporządzenia: [1) sposób unieważniania dowodu rejestracyjnego oraz tablic rejestracyjnych,] <1) sposób unieważniania dowodu rejestracyjnego,>
+
+- **2)** wzór zaświadczenia o demontażu pojazdu,
+- **3)** wzór zaświadczenia o przyjęciu niekompletnego pojazdu,
+- **4)** sposób przechowywania zaświadczeń, o których mowa w pkt 2 i 3,
+- **5)** sposób prowadzenia ewidencji, o której mowa w art. 26 – kierując się potrzebami identyfikacji pojazdu, zapobiegania nieuprawnionemu używaniu dokumentów pojazdów wycofanych z eksploatacji, zapewnienia wiarygodności zaświadczeń dla wyrejestrowania pojazdu oraz ujednolicenia treści zaświadczeń, a także potwierdzenia masy pojazdu wycofanego z eksploatacji.
 
 **Art. 28.**
 
@@ -333,6 +377,9 @@ Art. 54–59. (pominięte)
 1. Przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany do przyjęcia każdego pojazdu wycofanego z eksploatacji, który posiada cechy identyfikacyjne pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. [2. Do przedsiębiorcy prowadzącego punkt zbierania pojazdów stosuje się odpowiednio przepisy art. 23–25, z zastrzeżeniem ust. 3.] <2. Do przedsiębiorcy prowadzącego punkt zbierania pojazdów stosuje się odpowiednio przepisy art. 23–25, z zastrzeżeniem ust. 3–5.> [3. Przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu lub zaświadczenie o przyjęciu niekompletnego pojazdu, w czterech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi i trzeci są przekazywane w terminie 7 dni do przedsiębiorcy prowadzącego stację demontażu, w którego imieniu zaświadczenie zostało wydane, a czwarty pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów.] <3. Przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi przekazuje w terminie 7 dni przedsiębiorcy prowadzącemu stację demontażu, w którego imieniu zaświadczenie zostało wydane, a trzeci pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów. W przypadku pojazdu niezarejestrowanego na terytorium kraju przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu w czterech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, dwa przekazuje w terminie 7 dni przedsiębiorcy prowadzącemu stację demontażu, w którego imieniu zaświadczenie zostało wydane, a czwarty pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów.> <4. Przedsiębiorca prowadzący punkt zbierania pojazdów przekazuje przedsiębiorcy prowadzącemu stację demontażu wraz z zaświadczeniami, o których mowa w ust. 3, tablice rejestracyjne przyjętego pojazdu wycofanego z eksploatacji.> <5. Zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu wydane przez przedsiębiorcę prowadzącego punkt zbierania pojazdów zawierają oświadczenie przedsiębiorcy o unieważnieniu dowodu rejestracyjnego oraz o przekazaniu tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji przedsiębiorcy prowadzącemu stację demontażu.>
 
 **Art. 34.** Przedsiębiorca prowadzący punkt zbierania pojazdów może wydawać zaświadczenia o demontażu pojazdu oraz zaświadczenia o przyjęciu niekompletnego pojazdu, wyłącznie w imieniu przedsiębiorcy prowadzącego stację demontażu, jeżeli spełnia łącznie następujące warunki:
+
+- **1)** zawarł umowę z przedsiębiorcą prowadzącym stację demontażu, jeżeli nie jest to ten sam przedsiębiorca;
+- **2)** przekazuje przyjęte pojazdy wycofane z eksploatacji do stacji demontażu.
 
 **Art. 35.**
 
@@ -457,6 +504,9 @@ Art. 54–59. (pominięte)
 
 **Art. 46.** Kto wbrew przepisom art. 9:
 
+- **1)** nie przekazuje przedsiębiorcy prowadzącemu stację demontażu informacji dotyczących sposobu demontażu nowego typu pojazdu,
+- **2)** nie udostępnia wprowadzającemu pojazd lub przedsiębiorcy prowadzącemu stację demontażu informacji dotyczących sposobu demontażu, magazynowania lub testowania przedmiotów wyposażenia lub części pojazdu, które mogą być przeznaczone do ponownego użycia – podlega karze grzywny.
+
 **Art. 47.** (uchylony)
 
 **Art. 48.** Kto wbrew przepisowi art. 18 nie przekazuje pojazdu wycofanego z eksploatacji do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów, podlega karze grzywny.
@@ -522,4 +572,10 @@ Art. 54–59. (pominięte)
 **Art. 62.** Przepisy art. 7 ust. 1 stosuje się do materiałów, przedmiotów wyposażenia i części pojazdów wprowadzonych do obrotu po dniu wejścia w życie ustawy, przeznaczonych do stosowania w pojazdach wyprodukowanych po dniu 1 lipca 2003 r.
 
 **Art. 63.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z tym że przepisy:
+
+- **1)** art. 7, art. 8, art. 44, art. 45, art. 57 pkt 2 i art. 62 wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+- **2)** art. 11–17, art. 28, art. 47, art. 55, art. 56, art. 57 pkt 3, art. 58 pkt 1 i 3 w zakresie dotyczącym art. 401 ust. 11 i 12 i art. 415 ust. 5a i 5b, w brzmieniu nadanym niniejszą ustawą, i art. 60 wchodzą w życie z dniem 1 stycznia 2006 r.;
+- **3)** art. 23 ust. 3 w stosunku do pojazdów wprowadzonych na terytorium kraju przed dniem 1 lipca 2002 r. stosuje się od dnia 1 stycznia 2007 r.;
+- **4)** art. 58 pkt 1 w zakresie dotyczącym art. 401 ust. 1–10 i 13–16, w brzmieniu nadanym niniejszą ustawą, wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+
 

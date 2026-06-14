@@ -8,10 +8,10 @@ pos: 1756
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 sierpnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1756 OBWIESZCZENIE MINISTRA FUNDUSZY I POLITYKI REGIONALNEJ z dnia 20 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1756/text.pdf) |
 
-OBWIESZCZENIE MINISTRA FUNDUSZY I POLITYKI REGIONALNEJ z dnia 20 lipca 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. z 2020 r. poz. 126), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 12 maja 2021 r. zmieniającym rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. poz. 958);
@@ -37,6 +36,7 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury
 § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.”.
 Minister Funduszy i Polityki Regionalnej: G. Puda ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 13 lipca 2015 r.
 w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2020 r. poz. 299 oraz z 2022 r. poz. 807 i 1079) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia dla następujących działań i poddziałań Programu Operacyjnego Polska Wschodnia 2014–2020:
 1) 1.1 Platformy startowe dla nowych pomysłów:
 a) 1.1.1 Platformy startowe dla nowych pomysłów,
 b) 1.1.2 Rozwój startupów w Polsce Wschodniej;
@@ -60,22 +60,22 @@ b) 1.3.2 Tworzenie sieciowych produktów przez MŚP;
 5. Pomoc finansowa nie może być udzielona ani wypłacona przedsiębiorcom, na których ciąży obowiązek zwrotu pomocy publicznej, wynikający z decyzji Komisji Europejskiej uznającej taką pomoc przyznaną przez Rzeczpospolitą Polską za niezgodną z prawem oraz rynkiem wewnętrznym.
 6. Pomoc finansowa nie może być udzielona przedsiębiorcy znajdującemu się w trudnej sytuacji w rozumieniu art. 2 pkt 18 rozporządzenia nr 651/2014.
 § 5. Ilekroć w rozporządzeniu jest mowa o:
-1) inkubacji należy przez to rozumieć wsparcie rozwoju pomysłu biznesowego od chwili rejestracji przedsiębiorcy do czasu rozpoczęcia pierwszej sprzedaży produktów;
-2) intensywności pomocy należy przez to rozumieć intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia nr 651/2014;
-3) inwestycji początkowej należy przez to rozumieć inwestycję początkową w rozumieniu art. 2 pkt 49 rozporządzenia nr 651/2014;
-4) jednym przedsiębiorcy należy przez to rozumieć jedno przedsiębiorstwo w rozumieniu art. 2 ust. 2 rozporządzenia nr 1407/2013;
+1) inkubacji – należy przez to rozumieć wsparcie rozwoju pomysłu biznesowego od chwili rejestracji przedsiębiorcy do czasu rozpoczęcia pierwszej sprzedaży produktów;
+2) intensywności pomocy – należy przez to rozumieć intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia nr 651/2014;
+3) inwestycji początkowej – należy przez to rozumieć inwestycję początkową w rozumieniu art. 2 pkt 49 rozporządzenia nr 651/2014;
+4) jednym przedsiębiorcy – należy przez to rozumieć jedno przedsiębiorstwo w rozumieniu art. 2 ust. 2 rozporządzenia nr 1407/2013;
 5) (uchylony);
-6) MŚP należy przez to rozumieć mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia nr 651/2014;
-7) ośrodkach innowacji należy przez to rozumieć osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej, której odrębne przepisy przyznają zdolność prawną, lub jednostkę organizacyjną samorządu terytorialnego, prowadzące działalność w celu zapewnienia korzystnych warunków dla powstawania lub rozwoju przedsiębiorców prowadzących działalność badawczą, rozwojową lub innowacyjną, które nie działają w celu osiągnięcia zysku lub przeznaczają zysk na cele związane z zapewnieniem korzystnych warunków dla powstawania lub rozwoju przedsiębiorców prowadzących działalność badawczą, rozwojową lub innowacyjną; działalność ośrodka innowacji polega na świadczeniu usług badawczo-rozwojowych, szkoleniowych lub doradczych w zakresie badań naukowych, prac rozwojowych, działalności innowacyjnej, transferu technologii lub praw własności intelektualnej, a także usług dzierżawy, najmu nieruchomości lub infrastruktury technicznej do celów prowadzenia badań naukowych, prac rozwojowych lub działalności innowacyjnej;
-8) Polsce Wschodniej należy przez to rozumieć obszar obejmujący województwa: lubelskie, podkarpackie, podlaskie, świętokrzyskie i warmińsko-mazurskie;
-9) produkcie należy przez to rozumieć wyrób lub usługę;
-10) projekcie należy przez to rozumieć projekt, o którym mowa w art. 2 pkt 18 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U.
+6) MŚP – należy przez to rozumieć mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia nr 651/2014;
+7) ośrodkach innowacji – należy przez to rozumieć osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej, której odrębne przepisy przyznają zdolność prawną, lub jednostkę organizacyjną samorządu terytorialnego, prowadzące działalność w celu zapewnienia korzystnych warunków dla powstawania lub rozwoju przedsiębiorców prowadzących działalność badawczą, rozwojową lub innowacyjną, które nie działają w celu osiągnięcia zysku lub przeznaczają zysk na cele związane z zapewnieniem korzystnych warunków dla powstawania lub rozwoju przedsiębiorców prowadzących działalność badawczą, rozwojową lub innowacyjną; działalność ośrodka innowacji polega na świadczeniu usług badawczo-rozwojowych, szkoleniowych lub doradczych w zakresie badań naukowych, prac rozwojowych, działalności innowacyjnej, transferu technologii lub praw własności intelektualnej, a także usług dzierżawy, najmu nieruchomości lub infrastruktury technicznej do celów prowadzenia badań naukowych, prac rozwojowych lub działalności innowacyjnej;
+8) Polsce Wschodniej – należy przez to rozumieć obszar obejmujący województwa: lubelskie, podkarpackie, podlaskie, świętokrzyskie i warmińsko-mazurskie;
+9) produkcie – należy przez to rozumieć wyrób lub usługę;
+10) projekcie – należy przez to rozumieć projekt, o którym mowa w art. 2 pkt 18 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U.
 z 2020 r. poz. 818), zwaną dalej „ustawą o zasadach realizacji programów”;
-11) przedsiębiorcy należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014;
-12) przedsiębiorstwie typu startup należy przez to rozumieć przedsiębiorstwo stworzone w celu poszukiwania powtarzalnego, skalowalnego i rentownego modelu biznesowego;
-13) rozpoczęciu prac należy przez to rozumieć rozpoczęcie prac w rozumieniu art. 2 pkt 23 rozporządzenia nr 651/2014;
-14) usługach doradczych w zakresie innowacji należy przez to rozumieć usługi doradcze w zakresie innowacji w rozumieniu art. 2 pkt 94 rozporządzenia nr 651/2014;
-15) usługach wsparcia innowacji należy przez to rozumieć usługi wsparcia innowacji w rozumieniu art. 2 pkt 95 rozporządzenia nr 651/2014.
+11) przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014;
+12) przedsiębiorstwie typu startup – należy przez to rozumieć przedsiębiorstwo stworzone w celu poszukiwania powtarzalnego, skalowalnego i rentownego modelu biznesowego;
+13) rozpoczęciu prac – należy przez to rozumieć rozpoczęcie prac w rozumieniu art. 2 pkt 23 rozporządzenia nr 651/2014;
+14) usługach doradczych w zakresie innowacji – należy przez to rozumieć usługi doradcze w zakresie innowacji w rozumieniu art. 2 pkt 94 rozporządzenia nr 651/2014;
+15) usługach wsparcia innowacji – należy przez to rozumieć usługi wsparcia innowacji w rozumieniu art. 2 pkt 95 rozporządzenia nr 651/2014.
 § 6. 1. Pomoc finansowa może być udzielona na projekt realizowany na obszarze Polski Wschodniej.
 2. Pomoc finansowa jest udzielana na podstawie umowy.
 § 7. 1. Pomoc finansowa wywołuje efekt zachęty, co oznacza, że jest udzielana przedsiębiorcy pod warunkiem złożenia wniosku o udzielenie pomocy finansowej, zwanego dalej „wnioskiem”, przed rozpoczęciem prac nad projektem, z zastrzeżeniem ust. 2–3a.
@@ -99,8 +99,9 @@ z 2020 r. poz. 818), zwaną dalej „ustawą o zasadach realizacji programów”
 § 11. Pomoc publiczna podlega indywidualnej notyfikacji Komisji Europejskiej, jeżeli jej wartość przekroczy progi określone w art. 4 rozporządzenia nr 651/2014.
 § 12. 1. Pomoc finansowa, o której mowa w rozdziale 2, pomoc de minimis oraz pomoc publiczna są udzielane do dnia 31 grudnia 2023 r.
 2. Regionalna pomoc inwestycyjna jest udzielana zgodnie z mapą pomocy regionalnej na lata 2022–2027, określoną w przepisach wydanych na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
+§ 13. 1. Pomoc finansowa udzielana jest ośrodkom innowacji z przeznaczeniem na przeprowadzenie oceny pomysłów biznesowych i programu inkubacji innowacyjnych przedsiębiorstw typu startup w Polsce Wschodniej.
 2. Pomoc finansowa, o której mowa w ust. 1, udzielana jest ośrodkowi innowacji, który zobowiązał się do:
-1) wykorzystania w okresie realizacji projektu objętego pomocą finansową towarów, wartości niematerialnych i prawnych oraz usług zakupionych w ramach projektu wyłącznie w celach związanych z jego realizacją;
+1) wykorzystania – w okresie realizacji projektu objętego pomocą finansową – towarów, wartości niematerialnych i prawnych oraz usług zakupionych w ramach projektu wyłącznie w celach związanych z jego realizacją;
 2) prowadzenia wyodrębnionej ewidencji księgowej dla projektu objętego pomocą finansową.
 3. Do kosztów kwalifikowalnych w ramach pomocy finansowej, o której mowa w ust. 1, zalicza się koszty poniesione na:
 1) organizację programu inkubacji;
@@ -108,9 +109,11 @@ z 2020 r. poz. 818), zwaną dalej „ustawą o zasadach realizacji programów”
 3) indywidualne wsparcie rozwoju innowacyjnych pomysłów biznesowych przedsiębiorstw typu startup.
 § 14. Pomoc finansowa, o której mowa w § 13 ust. 1, może być udzielona na pokrycie do 100% kosztów kwalifikowalnych.
 § 15. Wsparcie, o którym mowa w § 13 ust. 3 pkt 3, stanowi pomoc de minimis dla tych przedsiębiorstw.
+§ 16. Pomoc dla przedsiębiorców rozpoczynających działalność udzielana jest przedsiębiorcom z przeznaczeniem na wdrożenie innowacyjnych pomysłów biznesowych oraz rozwój działalności gospodarczej tych przedsiębiorców, pod warunkiem skorzystania ze wsparcia, o którym mowa w § 13 ust. 3 pkt 3, oraz uzyskania rekomendacji ośrodka innowacji.
 § 17. Za przedsiębiorców kwalifikujących się do otrzymania pomocy uznaje się przedsiębiorców, o których mowa w art. 22 ust. 2 rozporządzenia nr 651/2014.
 § 18. 1. Pomoc udzielana jest w formie dotacji do wysokości 800 000 euro.
 2. Maksymalna intensywność pomocy wynosi 85% kosztów kwalifikowalnych.
+§ 19. Regionalna pomoc inwestycyjna udzielana jest na inwestycję początkową.
 § 20. 1. Regionalna pomoc inwestycyjna nie może być udzielana w przypadkach określonych w art. 13 rozporządzenia nr 651/2014.
 2. Regionalna pomoc inwestycyjna jest udzielana przedsiębiorcy po spełnieniu warunków określonych w art. 14 ust. 16 rozporządzenia nr 651/2014.
 § 21. 1. Do kosztów kwalifikowalnych na realizację inwestycji początkowej zalicza się koszty:
@@ -130,6 +133,7 @@ d) będą stanowić aktywa przedsiębiorcy otrzymującego pomoc i pozostaną zwi
 § 22. 1. Maksymalną intensywność regionalnej pomocy inwestycyjnej na pokrycie kosztów kwalifikowalnych określa się zgodnie z maksymalną intensywnością pomocy regionalnej dla małych lub średnich przedsiębiorców wskazaną w mapie pomocy regionalnej na lata 2022–2027, określonej w przepisach wydanych na podstawie art. 10 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
 2. Maksymalną wielkość regionalnej pomocy inwestycyjnej oblicza się, uwzględniając warunki określone w art. 14 ust. 12–14 rozporządzenia nr 651/2014.
 § 23. Przedsiębiorca, zawierając umowę, zobowiązuje się do utrzymania inwestycji na zasadach określonych w art. 14 ust. 5 rozporządzenia nr 651/2014.
+§ 23a. Pomoc na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną jest udzielana na inwestycje w zakresie:
 1) infrastruktury sportowej, jeżeli są spełnione warunki określone w art. 55 ust. 2 i 4–6 rozporządzenia nr 651/2014, lub
 2) wielofunkcyjnej infrastruktury rekreacyjnej, o której mowa w art. 55 ust. 3 rozporządzenia nr 651/2014, jeżeli są spełnione warunki określone w art. 55 ust. 4 i 6 rozporządzenia nr 651/2014.
 § 23b. 1. Do kosztów kwalifikowalnych w ramach pomocy, o której mowa w § 23a, zalicza się koszty:
@@ -144,20 +148,25 @@ d) będą stanowić aktywa przedsiębiorcy otrzymującego pomoc i pozostaną zwi
 2. Wartość kosztów kwalifikowalnych, o których mowa w ust. 1 pkt 1, nie może przekraczać 10% kosztów kwalifikowalnych, o których mowa w ust. 1.
 § 23c. 1. Wartość dopuszczalnej pomocy ustala się zgodnie z art. 55 ust. 10 rozporządzenia nr 651/2014.
 2. W przypadku pomocy nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 55 ust. 12 rozporządzenia nr 651/2014.
+§ 24. 1. Do kosztów kwalifikowalnych w ramach pomocy na usługi doradcze na rzecz MŚP zalicza się koszty usług doradczych świadczonych przez doradców zewnętrznych.
 2. Usługi, o których mowa w ust. 1, nie mogą mieć charakteru ciągłego ani okresowego oraz nie mogą być związane z bieżącą działalnością operacyjną MŚP, w szczególności w zakresie doradztwa podatkowego, stałej obsługi prawnej lub reklamy.
 § 25. Maksymalna intensywność pomocy wynosi 50% kosztów kwalifikowalnych.
+§ 26. Do kosztów kwalifikowalnych w ramach pomocy dla MŚP na wspieranie innowacyjności zalicza się koszty:
 1) uzyskania, walidacji i obrony patentów i innych wartości niematerialnych i prawnych;
 2) usług doradczych w zakresie innowacji i usług wsparcia innowacji.
 § 27. 1. Maksymalna intensywność pomocy wynosi 50% kosztów kwalifikowalnych.
 2. W przypadku usług, o których mowa w § 26 pkt 2, intensywność pomocy może być zwiększona do 85% kosztów kwalifikowalnych, pod warunkiem że całkowita kwota pomocy na te usługi nie przekracza 200 000 euro na przedsiębiorcę w dowolnym trzyletnim okresie.
+§ 28. Do kosztów kwalifikowalnych w ramach pomocy na udział MŚP w targach zalicza się koszty wynajmu, budowy i obsługi stoiska wystawowego podczas uczestnictwa MŚP w danych targach lub danej wystawie.
 § 29. Maksymalna intensywność pomocy wynosi 50% kosztów kwalifikowalnych.
+§ 30. Pomoc szkoleniowa nie może być udzielana na szkolenia, których obowiązek przeprowadzenia wynika z przepisów prawa.
 § 31. Do kosztów kwalifikowalnych w ramach pomocy szkoleniowej zalicza się koszty:
 1) zatrudnienia wykładowców poniesione za godziny, podczas których wykładowcy uczestniczą w szkoleniu;
 2) operacyjne wykładowców i uczestników szkolenia bezpośrednio związane z danym szkoleniem, takie jak koszty podróży, zakwaterowania oraz materiałów bezpośrednio związanych z tematyką prowadzonego szkolenia.
 § 32. 1. Maksymalna intensywność pomocy wynosi 50% kosztów kwalifikowalnych.
 2. Intensywność pomocy, o której mowa w ust. 1, zwiększa się o:
 1) 10 punktów procentowych w przypadku pomocy na rzecz średniego przedsiębiorcy i 20 punktów procentowych w przypadku pomocy na rzecz mikroprzedsiębiorcy i małego przedsiębiorcy,
-2) 10 punktów procentowych w przypadku usług szkoleniowych dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia nr 651/2014, lub pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia nr 651/2014 przy czym łącznie intensywność pomocy nie może przekroczyć 70% kosztów kwalifikowalnych.
+2) 10 punktów procentowych w przypadku usług szkoleniowych dla pracowników znajdujących się w szczególnie niekorzystnej sytuacji, o których mowa w art. 2 pkt 4 rozporządzenia nr 651/2014, lub pracowników niepełnosprawnych, o których mowa w art. 2 pkt 3 rozporządzenia nr 651/2014 – przy czym łącznie intensywność pomocy nie może przekroczyć 70% kosztów kwalifikowalnych.
+§ 33. Do kosztów kwalifikowalnych w ramach pomocy de minimis zalicza się koszty:
 1) usług wspierających rozwój przedsiębiorczości, w tym:
 a) usług doradczych,
 b) usług szkoleniowych,
@@ -169,33 +178,35 @@ c) usług związanych z opracowaniem nowego lub znacząco ulepszonego produktu;
 6) ustanowienia i utrzymania zabezpieczenia w formie, o której mowa w art. 131 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ), dla zaliczki wypłaconej na rzecz MŚP;
 7) rezerwacji miejsca wystawowego na targach, opłaty rejestracyjnej za udział w targach oraz wpisu do katalogu targowego.
 § 34. Pomoc de minimis może być udzielona na pokrycie do 100% kosztów kwalifikowalnych.
+§ 35. Agencja udziela pomocy finansowej w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy o zasadach realizacji programów, z tym że w ogłoszeniu o konkursie Agencja dodatkowo określa:
 1) podmioty, które mogą uzyskać pomoc,
 2) kategorie pomocy,
 3) rodzaje i wysokość kosztów kwalifikowalnych,
 4) intensywność pomocy,
-5) formę pomocy w ramach warunków określonych w rozporządzeniu.
+5) formę pomocy – w ramach warunków określonych w rozporządzeniu.
+§ 36. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia dla następujących działań i poddziałań Programu Operacyjnego Polska Wschodnia 2014–2020:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Pomoc finansowa na przeprowadzenie programu inkubacji innowacyjnych przedsiębiorstw typu startup § 13. 1. Pomoc finansowa udzielana jest ośrodkom innowacji z przeznaczeniem na przeprowadzenie oceny pomysłów biznesowych i programu inkubacji innowacyjnych przedsiębiorstw typu startup w Polsce Wschodniej.
+#### Rozdział 2 Pomoc finansowa na przeprowadzenie programu inkubacji innowacyjnych przedsiębiorstw typu startup
 
-#### Rozdział 3 Pomoc dla przedsiębiorców rozpoczynających działalność § 16. Pomoc dla przedsiębiorców rozpoczynających działalność udzielana jest przedsiębiorcom z przeznaczeniem na wdrożenie innowacyjnych pomysłów biznesowych oraz rozwój działalności gospodarczej tych przedsiębiorców, pod warunkiem skorzystania ze wsparcia, o którym mowa w § 13 ust. 3 pkt 3, oraz uzyskania rekomendacji ośrodka innowacji.
+#### Rozdział 3 Pomoc dla przedsiębiorców rozpoczynających działalność
 
-#### Rozdział 4 Regionalna pomoc inwestycyjna § 19. Regionalna pomoc inwestycyjna udzielana jest na inwestycję początkową.
+#### Rozdział 4 Regionalna pomoc inwestycyjna
 
-#### Rozdział 4a Pomoc na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną § 23a. Pomoc na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną jest udzielana na inwestycje w zakresie:
+#### Rozdział 4a Pomoc na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną
 
-#### Rozdział 5 Pomoc na usługi doradcze na rzecz MŚP § 24. 1. Do kosztów kwalifikowalnych w ramach pomocy na usługi doradcze na rzecz MŚP zalicza się koszty usług doradczych świadczonych przez doradców zewnętrznych.
+#### Rozdział 5 Pomoc na usługi doradcze na rzecz MŚP
 
-#### Rozdział 6 Pomoc dla MŚP na wspieranie innowacyjności § 26. Do kosztów kwalifikowalnych w ramach pomocy dla MŚP na wspieranie innowacyjności zalicza się koszty:
+#### Rozdział 6 Pomoc dla MŚP na wspieranie innowacyjności
 
-#### Rozdział 7 Pomoc na udział MŚP w targach § 28. Do kosztów kwalifikowalnych w ramach pomocy na udział MŚP w targach zalicza się koszty wynajmu, budowy i obsługi stoiska wystawowego podczas uczestnictwa MŚP w danych targach lub danej wystawie.
+#### Rozdział 7 Pomoc na udział MŚP w targach
 
-#### Rozdział 8 Pomoc szkoleniowa § 30. Pomoc szkoleniowa nie może być udzielana na szkolenia, których obowiązek przeprowadzenia wynika z przepisów prawa.
+#### Rozdział 8 Pomoc szkoleniowa
 
-#### Rozdział 9 Pomoc de minimis § 33. Do kosztów kwalifikowalnych w ramach pomocy de minimis zalicza się koszty:
+#### Rozdział 9 Pomoc de minimis
 
-#### Rozdział 10 Tryb udzielania pomocy finansowej § 35. Agencja udziela pomocy finansowej w trybie konkursowym, o którym mowa w art. 38 ust. 1 pkt 1 ustawy o zasadach realizacji programów, z tym że w ogłoszeniu o konkursie Agencja dodatkowo określa:
+#### Rozdział 10 Tryb udzielania pomocy finansowej
 
-#### Rozdział 11 Przepis końcowy § 36. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+#### Rozdział 11 Przepis końcowy
 

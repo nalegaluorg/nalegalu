@@ -8,10 +8,10 @@ pos: 1632
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 września 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1632 INSTRUKCJA WYPEŁNIANIA WNIOSKU General instructions Instrukcje ogólne • This form has to be filled in English.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001632) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1632/text.pdf) |
 
-INSTRUKCJA WYPEŁNIANIA WNIOSKU General instructions Instrukcje ogólne • This form has to be filled in English.
 Ten formularz wypełnia się w języku angielskim.
 • Use capital letters.
 Należy pisać DUŻYMI literami.

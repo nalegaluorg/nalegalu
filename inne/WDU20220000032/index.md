@@ -8,10 +8,12 @@ pos: 32
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# zmianie scalaniu wymianie gruntów, utracie mocy prawnej niektórych ksiąg wieczystych drogach publicznych W ustawie dnia 26 marca 1982 r. scalaniu wymianie (Dz. U. 2021 r. poz. 1912) wprowadza następujące zmiany:
+# o zmianie ustawy o scalaniu i wymianie gruntów, ustawy o utracie mocy prawnej niektórych ksiąg wieczystych oraz ustawy o drogach publicznych
+
+*USTAWA z dnia 2 grudnia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,53 +27,96 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/32/text.pdf) |
 
-1) 1 ust. 2 po dodaje 3a brzmieniu: „3a) gospodarstwie rolnym – rozumie przez to gospodarstwo rolne rozumieniu 55 dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. 2020 r. poz. 1740 2320 2021 r. poz. 1509 2459), powierzchnia rolnych lub leśnych jest nie mniejsza niż 1 ha;”;
-2) 7 ust. 4 otrzymują brzmienie: „3. Postanowienie wszczęciu postępowania scaleniowego postanowienie organu wyższego stopnia wydane skutek złożenia zażalenia postanowienie wszczęciu postępowania scaleniowego podaje publicznej wiadomości przez wywieszenie okres 14 dni tablicy ogłoszeń urzędu gminy, której terenie są położone grunty objęte scaleniem, tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, zamieszczenie Biuletynie Informacji Publicznej stronie podmiotowej starostwa powiatowego, a przypadku postanowienia organu wyższego stopnia – także Biuletynie Informacji Publicznej stronie podmiotowej urzędu obsługującego ten organ.
-4. Z dniem upływu terminu, mowa ust. 3, postanowienie wszczęciu postępowania scaleniowego postanowienie organu wyższego stopnia, których mowa ust. 3, uważa za doręczone wszystkim uczestnikom scalenia.”;
-3) po 7 dodaje 7a 7b brzmieniu: „Art. 7a. Po wszczęciu postępowania scaleniowego lub wymiennego określa przebieg granic obszaru lub wymiany gruntów. Do określania przebiegu granic obszaru lub wymiany stosuje przepisy prawa geodezyjnego kartograficznego dotyczące określania przebiegu granic.
-Starosta zawiadamia właścicieli przyległych granic obszaru miejscu terminie wykonywania czynności, których mowa ust. 1, formie obwieszczenia, które wywiesza tablicy ogłoszeń urzędu gminy, której terenie są położone grunty objęte scaleniem, tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, zamieszcza Biuletynie Informacji Publicznej stronie podmiotowej starostwa powiatowego, co najmniej 7 dni przed tym terminem.
-7b. Przed okazaniem projektu uczestnik może złożyć geodecie-projektantowi propozycje co sposobu wydzielenia zamian za grunty dotychczas posiadane, szczególności zakresie ich lokalizacji.
-Przepis ust. 1 stosuje odpowiednio wymiany gruntów.”;
-4) 10 ust. 1 zdaniu drugim 5 kropkę zastępuje średnikiem dodaje 6 7 brzmieniu: „6) przedstawiciel gminy, której terenie są położone grunty objęte scaleniem;
-7) sołtys lub członek rady sołeckiej wsi, której grunty tworzą obszar scalenia.”;
-5) 27 ust. 4 1 otrzymuje brzmienie: „1) granice powierzchnię obszaru lub wymiany gruntów;”;
-6) 28 ust. 1 2 otrzymują brzmienie: „1. Decyzję zatwierdzeniu projektu gruntów, decyzję odmawiającą wszczęcia postępowania scaleniowego, decyzję umorzeniu postępowania scaleniowego decyzję organu wyższego stopnia tych sprawach podaje publicznej wiadomości przez wywieszenie okres 14 dni tablicy ogłoszeń urzędu gminy, której terenie są położone grunty objęte scaleniem, tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, mowa 21 ust. Jeżeli nieruchomość nie ma urządzonej księgi wieczystej, wniosek składa istniejącego zbioru dokumentów.
-1b. Do wniosku, mowa ust. 1a, dołącza odpis ostatecznej decyzji zatwierdzeniu projektu lub wymiany gruntów, wypisy wyrysy operatu ewidencyjnego dla poszczególnych działek ewidencyjnych, a gdy jest to niezbędne – inne dokumenty stanowiące podstawę ujawnienia tych zmian.
-1c. Za dokonanie wpisów podstawie ust. 1a nie uiszcza opłat sądowych.”;
-8) 31 otrzymuje brzmienie: „Art. 31. Starosta zawiadamia miejscu terminie:
-1) zebrań scalenia,
-2) wyłożenia publicznego wglądu wyników oszacowania gruntów, lasów sadów, ogrodów, chmielników innych upraw specjalnych,
-3) których można składać propozycje co sposobu wydzielenia zamian za grunty dotychczas posiadane, szczególności zakresie ich lokalizacji,
-4) okazania projektu gruntów,
-5) okazania stabilizacji punktów granicznych projektu – przypadku jej wykonania – formie obwieszczenia, które wywiesza tablicy ogłoszeń urzędu gminy, której terenie są położone grunty objęte scaleniem, tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, zamieszcza Biuletynie Informacji Publicznej stronie podmiotowej starostwa powiatowego, co najmniej 7 dni przed tym terminem.”;
-9) po 31 dodaje 31a brzmieniu: „Art. 31a. Zebranie wykonywanie prawa głosu może odbywać wykorzystaniem środków komunikacji elektronicznej.
-W przypadku, mowa ust. 1, zawiadomienie zebraniu zawiera dodatkowo informacje sposobie uczestnictwa wykonywania prawa głosu.”;
-10) 33:
-a) po ust. 1 dodaje ust. 1a–1d brzmieniu: „1a. Nieuregulowany lub nieujawniony stan prawny tworzących obszar nie stanowi przeszkody wszczęcia prowadzenia postępowania scaleniowego wydania decyzji zatwierdzeniu projektu gruntów.
-1b. Przez nieuregulowany stan prawny tworzących obszar należy rozumieć sytuację, której:
-1) dotychczasowy właściciel nie żyje nie przeprowadzono postępowania spadkowego lub nie zostało ono zakończone;
-2) nie można ustalić osób, przysługują prawa rzeczowe gruntów, ze względu brak księgi wieczystej, zbioru dokumentów albo innych dokumentów.
-1c. Przez nieujawniony stan prawny tworzących obszar należy rozumieć sytuację, której rejestry lub ewidencje właściwe dla ustalenia nie zawierają danych umożliwiających ich ustalenie, szczególności danych osobowych, tym adresu, właściciela gruntów.
-1d. Przepisy ust. 1a–1c stosuje odpowiednio przyległych granic obszaru scalenia.”,
-b) ust. 2 otrzymuje brzmienie: „2. Nie stwierdza nieważności decyzji zatwierdzeniu projektu lub wymiany gruntów, jeżeli wymiany terminie 2 miesięcy od dnia otrzymania skargi przez właściwy sąd. Jeżeli skarga nie może otrzymać prawidłowego biegu wskutek niezachowania warunków formalnych lub jej nieopłacenia, bieg terminu, mowa zdaniu pierwszym, rozpoczyna dniem jej opłacenia usunięcia braków formalnych.
-6. Sąd administracyjny, przypadku uwzględnienia skargi przedmiocie zatwierdzenia projektu lub wymiany po upływie terminu, mowa ust. 5, stwierdza wydanie decyzji zatwierdzeniu projektu lub wymiany naruszeniem prawa.”;
-11) po 33 dodaje 33a brzmieniu: „Art. 33a. W okresie obowiązywania terytorium Rzeczypospolitej Polskiej lub jego części stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych podstawie dnia 5 grudnia 2008 r. zapobieganiu zwalczaniu zakażeń chorób zakaźnych u ludzi (Dz. U. 2021 r. poz. 2069 2120) lub okresie obowiązywania stanu nadzwyczajnego okresie 30 dni od dnia odwołania tych stanów:
-1) nie wybiera rady nie powołuje zespołu, mowa 9 ust. 3, a funkcje tej rady sprawuje powołany przez starostę drodze postanowienia zespół spraw scaleń; skład zespołu spraw scaleń wchodzi sołtys wsi, której grunty tworzą obszar scalenia, dwóch albo trzech członków rady sołeckiej wsi, której grunty tworzą obszar scalenia, przedstawiciel Krajowego Ośrodka będącego uczestnikiem scalenia, przedstawiciel gminy, której terenie są położone grunty objęte scaleniem, dwóch albo trzech właścicieli gospodarstw rolnych wybranych przez starostę, których grunty znajdują obszarze objętym scaleniem;
-postanowienia sprawie powołania zespołu spraw scaleń stosuje odpowiednio przepisy 7 ust. 4;
-2) jeżeli liczba jest większa niż 10 osób, rada albo zespół, mowa 9 ust. – przypadku ich wybrania przed wprowadzeniem stanu zagrożenia epidemicznego albo stanu epidemii lub stanu nadzwyczajnego, albo zespół spraw scaleń, zebraniu zwołanym przez starostę, określa formie uchwały zasady szacunku gruntów, których mowa 11 ust. 1, wyraża formie uchwały zgodę, której mowa 13 ust. 1; uchwały zapadają większością trzech czwartych głosów obecności co najmniej połowy liczby członków rady albo zespołu, mowa 9 ust. 3, albo zespołu spraw scaleń; przepisy 13 ust. 3–5 stosuje odpowiednio;
-3) wyniki oszacowania gruntów, lasów sadów, ogrodów, chmielników innych upraw specjalnych, których mowa 12 ust. 1, udostępnia publicznego wglądu okres 7 dni wyznaczonym przez starostę miejscu; miejscu terminie wyłożenia publicznego wglądu wyników oszacowania starosta zawiadamia formie obwieszczenia, które wywiesza tablicy ogłoszeń urzędu gminy, której terenie są położone grunty objęte scaleniem, tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, zamieszcza Biuletynie Informacji Publicznej stronie podmiotowej starostwa powiatowego, co najmniej 7 dni przed tym terminem;
-4) uczestnicy mogą wnosić zastrzeżenia dokonanego szacunku okresie wyłożenia wyników oszacowania publicznego wglądu;
-5) zapoznania wynikami ustaleń komisji rozpatrującej zastrzeżenia szacunku gruntów stosuje odpowiednio 3;
-6) starosta zawiadamia terminie objęcia posiadanie przez nowo wydzielonych formie obwieszczenia, które wywiesza tablicy ogłoszeń urzędu gminy, której terenie są położone grunty objęte scaleniem, tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, zamieszcza Biuletynie Informacji Publicznej stronie podmiotowej starostwa powiatowego, co najmniej 7 dni przed terminem objęcia posiadanie; za datę objęcia posiadanie uważa termin wskazany zawiadomieniu.”.
-których mowa ust. 2 2 3, zakresie ustanowionej tej decyzji wysokości opłaty za zajęcie pasa drogowego, jeżeli decyzja dotyczy obiektów urządzeń infrastruktury telekomunikacyjnej, przepisu 155 dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. 2021 r. poz. 735, 1491 2052) nie stosuje się.”.
-4. Do postępowań scaleniowych lub wymiennych wszczętych niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej stosuje przepisy zmienianej 1 brzmieniu nadanym niniejszą ustawą, tym że:
-1) przepisy 7 ust. 4 31 zmienianej 1 stosuje brzmieniu dotychczasowym;
-2) nie stosuje przepisów 7a, 7b 10 ust. 1 6 7 zmienianej Do postępowań administracyjnych sprawach stwierdzenia nieważności decyzji zatwierdzeniu projektu lub wymiany wszczętych niezakończonych przed dniem wejścia życie niniejszej stosuje przepis 33 ust. 2 zmienianej 1 brzmieniu nadanym niniejszą ustawą.
-3. Do postępowań scaleniowych lub wymiennych wznowionych przyczyn określonych 145–145b dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. 2021 r. poz. 735, 1491 2052) niezakończonych przed dniem wejścia życie niniejszej ustawy:
-1) stosuje przepis 33 ust. 2 zmienianej 1 brzmieniu dotychczasowym;
-2) nie stosuje przepisu 33 ust. zmienianej
-4. Do postępowań administracyjnych sprawach uchylenia lub zmiany decyzji zatwierdzeniu projektu lub wymiany wszczętych podstawie 154 lub 155 dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego niezakończonych przed dniem wejścia życie niniejszej stosuje przepis 33 ust. 2 zmienianej 1 brzmieniu dotychczasowym.
-5. Do postępowań wszczętych niezakończonych przed dniem wejścia życie niniejszej prowadzonych podstawie 155 dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, przypadkach, których mowa 40 ust. 6d zmienianej 3, stosuje przepisy zmienianej brzmieniu nadanym niniejszą ustawą.
-6. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, wyjątkiem 5, które wchodzą życie po upływie 7 dni od dnia ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 1.** W ustawie z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2021 r. poz. 1912) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) gospodarstwie rolnym – rozumie się przez to gospodarstwo rolne w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2020 r. poz. 1740 i 2320 oraz z 2021 r. poz. 1509 i 2459), w którym powierzchnia gruntów rolnych lub leśnych jest nie mniejsza niż 1 ha;”;
+- **2)** w art. 7 ust. 3 i 4 otrzymują brzmienie: „3. Postanowienie o wszczęciu postępowania scaleniowego oraz postanowienie organu wyższego stopnia wydane na skutek złożenia zażalenia na postanowienie o wszczęciu postępowania scaleniowego podaje się do publicznej wiadomości przez wywieszenie na okres 14 dni na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszczenie w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, a w przypadku postanowienia organu wyższego stopnia – także w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ.
+
+4. Z dniem upływu terminu, o którym mowa w ust. 3, postanowienie o wszczęciu postępowania scaleniowego oraz postanowienie organu wyższego stopnia, o których mowa w ust. 3, uważa się za doręczone wszystkim uczestnikom scalenia.”;
+
+- **3)** po art. 7 dodaje się art. 7a i art. 7b w brzmieniu: „Art. 7a. 1. Po wszczęciu postępowania scaleniowego lub wymiennego określa się przebieg granic obszaru scalenia lub wymiany gruntów. Do określania przebiegu granic obszaru scalenia lub wymiany gruntów stosuje się przepisy prawa geodezyjnego i kartograficznego dotyczące określania przebiegu granic.
+
+2. Starosta zawiadamia właścicieli gruntów przyległych do granic obszaru scalenia o miejscu i terminie wykonywania czynności, o których mowa w ust. 1, w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed tym terminem.
+
+**Art. 7b.**
+
+1. Przed okazaniem projektu scalenia gruntów uczestnik scalenia może złożyć geodecie-projektantowi scalenia propozycje co do sposobu wydzielenia gruntów w zamian za grunty dotychczas posiadane, w szczególności w zakresie ich lokalizacji.
+
+2. Przepis ust. 1 stosuje się odpowiednio do wymiany gruntów.”;
+
+- **4)** w art. 10 w ust. 1 w zdaniu drugim w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „6) przedstawiciel gminy, na której terenie są położone grunty objęte scaleniem;
+- **7)** sołtys lub członek rady sołeckiej wsi, której grunty tworzą obszar scalenia.”;
+- **5)** w art. 27 w ust. 4 pkt 1 otrzymuje brzmienie: „1) granice i powierzchnię obszaru scalenia lub wymiany gruntów;”;
+- **6)** w art. 28 ust. 1 i 2 otrzymują brzmienie: „1. Decyzję o zatwierdzeniu projektu scalenia gruntów, decyzję odmawiającą wszczęcia postępowania scaleniowego, decyzję o umorzeniu postępowania scaleniowego oraz decyzję organu wyższego stopnia w tych sprawach podaje się do publicznej wiadomości przez wywieszenie na okres 14 dni na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszczenie w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, a w przypadku decyzji organu wyższego stopnia w tych sprawach – także w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ.
+
+2. Z dniem upływu terminu, o którym mowa w ust. 1, decyzje wymienione w ust. 1, uważa się za doręczone wszystkim uczestnikom scalenia.”;
+
+- **7)** w art. 29 po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Po ujawnieniu w ewidencji gruntów i budynków nowych danych wynikających z ostatecznej decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów sąd właściwy do prowadzenia ksiąg wieczystych, na wniosek starosty, dokonuje wpisów w księgach wieczystych w zakresie, o którym mowa w ust. 1, oraz wykreśla wzmiankę, o której mowa w art. 21 ust. 1. Jeżeli nieruchomość nie ma urządzonej księgi wieczystej, wniosek składa się do istniejącego zbioru dokumentów.
+
+1b. Do wniosku, o którym mowa w ust. 1a, dołącza się odpis ostatecznej decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów, wypisy i wyrysy z operatu ewidencyjnego dla poszczególnych działek ewidencyjnych, a gdy jest to niezbędne – inne dokumenty stanowiące podstawę do ujawnienia tych zmian.
+
+1c. Za dokonanie wpisów na podstawie ust. 1a nie uiszcza się opłat sądowych.”;
+
+- **8)** art. 31 otrzymuje brzmienie: „Art. 31. Starosta zawiadamia o miejscu i terminie:
+- **1)** zebrań uczestników scalenia,
+- **2)** wyłożenia do publicznego wglądu wyników oszacowania gruntów, lasów oraz sadów, ogrodów, chmielników i innych upraw specjalnych,
+- **3)** w których można składać propozycje co do sposobu wydzielenia gruntów w zamian za grunty dotychczas posiadane, w szczególności w zakresie ich lokalizacji,
+- **4)** okazania projektu scalenia gruntów,
+- **5)** okazania stabilizacji punktów granicznych projektu scalenia gruntów – w przypadku jej wykonania – w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed tym terminem.”;
+- **9)** po art. 31 dodaje się art. 31a w brzmieniu: „Art. 31a. 1. Zebranie uczestników scalenia oraz wykonywanie prawa głosu może odbywać się z wykorzystaniem środków komunikacji elektronicznej.
+
+2. W przypadku, o którym mowa w ust. 1, zawiadomienie o zebraniu uczestników scalenia zawiera dodatkowo informacje o sposobie uczestnictwa i wykonywania prawa głosu.”;
+
+- **10)** w art. 33:
+    - **a)** po ust. 1 dodaje się ust. 1a–1d w brzmieniu: „1a. Nieuregulowany lub nieujawniony stan prawny gruntów tworzących obszar scalenia nie stanowi przeszkody do wszczęcia i prowadzenia postępowania scaleniowego oraz wydania decyzji o zatwierdzeniu projektu scalenia gruntów.
+
+1b. Przez nieuregulowany stan prawny gruntów tworzących obszar scalenia należy rozumieć sytuację, w której:
+
+- **1)** dotychczasowy właściciel gruntów nie żyje i nie przeprowadzono postępowania spadkowego lub nie zostało ono zakończone;
+- **2)** nie można ustalić osób, którym przysługują prawa rzeczowe do gruntów, ze względu na brak księgi wieczystej, zbioru dokumentów albo innych dokumentów.
+
+1c. Przez nieujawniony stan prawny gruntów tworzących obszar scalenia należy rozumieć sytuację, w której rejestry lub ewidencje właściwe dla ustalenia uczestników scalenia nie zawierają danych umożliwiających ich ustalenie, w szczególności danych osobowych, w tym adresu, właściciela gruntów.
+
+1d. Przepisy ust. 1a–1c stosuje się odpowiednio do gruntów przyległych do granic obszaru scalenia.”, poz. 735, 1491 i 2052), jeżeli od dnia, w którym decyzja stała się ostateczna, upłynęły 2 lata.
+
+- **b)** ust. 2 otrzymuje brzmienie: „2. Nie stwierdza się nieważności decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów, jeżeli od dnia, w którym decyzja stała się ostateczna, upłynęło 5 lat.”,
+- **c)** dodaje się ust. 3–6 w brzmieniu: „3. Nie uchyla się decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów z przyczyn określonych w art. 145–145b ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r.
+
+4. Odwołanie od decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów rozpatruje się w terminie 3 miesięcy od dnia otrzymania odwołania przez organ właściwy do rozpatrzenia odwołania.
+
+5. Wojewódzki sąd administracyjny rozpatruje skargę w przedmiocie zatwierdzenia projektu scalenia lub wymiany gruntów w terminie 2 miesięcy od dnia otrzymania skargi przez właściwy sąd. Jeżeli skarga nie może otrzymać prawidłowego biegu wskutek niezachowania warunków formalnych lub jej nieopłacenia, bieg terminu, o którym mowa w zdaniu pierwszym, rozpoczyna się z dniem jej opłacenia i usunięcia braków formalnych.
+
+6. Sąd administracyjny, w przypadku uwzględnienia skargi w przedmiocie zatwierdzenia projektu scalenia lub wymiany gruntów po upływie terminu, o którym mowa w ust. 5, stwierdza wydanie decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów z naruszeniem prawa.”;
+
+- **11)** po art. 33 dodaje się art. 33a w brzmieniu: „Art. 33a. W okresie obowiązywania na terytorium Rzeczypospolitej Polskiej lub jego części stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120) lub w okresie obowiązywania stanu nadzwyczajnego oraz w okresie 30 dni od dnia odwołania tych stanów:
+- **1)** nie wybiera się rady uczestników scalenia oraz nie powołuje się zespołu, o którym mowa w art. 9 ust. 3, a funkcje tej rady sprawuje powołany przez starostę w drodze postanowienia zespół do spraw scaleń; w skład zespołu do spraw scaleń wchodzi sołtys wsi, której grunty tworzą obszar scalenia, dwóch albo trzech członków rady sołeckiej wsi, której grunty tworzą obszar scalenia, przedstawiciel Krajowego Ośrodka będącego uczestnikiem scalenia, przedstawiciel gminy, na której terenie są położone grunty objęte scaleniem, oraz dwóch albo trzech właścicieli gospodarstw rolnych wybranych przez starostę, których grunty znajdują się na obszarze objętym scaleniem; do postanowienia w sprawie powołania zespołu do spraw scaleń stosuje się odpowiednio przepisy art. 7 ust. 3 i 4;
+- **2)** jeżeli liczba uczestników scalenia jest większa niż 10 osób, rada uczestników scalenia albo zespół, o którym mowa w art. 9 ust. 3 – w przypadku ich wybrania przed wprowadzeniem stanu zagrożenia epidemicznego albo stanu epidemii lub stanu nadzwyczajnego, albo zespół do spraw scaleń, na zebraniu zwołanym przez starostę, określa w formie uchwały zasady szacunku gruntów, o których mowa w art. 11 ust. 1, oraz wyraża w formie uchwały zgodę, o której mowa w art. 13 ust. 1; uchwały zapadają większością trzech czwartych głosów w obecności co najmniej połowy liczby członków rady uczestników scalenia albo zespołu, o którym mowa w art. 9 ust. 3, albo zespołu do spraw scaleń; przepisy art. 13 ust. 3–5 stosuje się odpowiednio;
+- **3)** wyniki oszacowania gruntów, lasów oraz sadów, ogrodów, chmielników i innych upraw specjalnych, o których mowa w art. 12 ust. 1, udostępnia się do publicznego wglądu na okres 7 dni w wyznaczonym przez starostę miejscu; o miejscu i terminie wyłożenia do publicznego wglądu wyników oszacowania gruntów starosta zawiadamia w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed tym terminem;
+- **4)** uczestnicy scalenia mogą wnosić zastrzeżenia do dokonanego szacunku w okresie wyłożenia wyników oszacowania gruntów do publicznego wglądu;
+- **5)** do zapoznania się uczestników scalenia z wynikami ustaleń komisji rozpatrującej zastrzeżenia do szacunku gruntów stosuje się odpowiednio pkt 3;
+- **6)** starosta zawiadamia o terminie objęcia w posiadanie przez uczestników scalenia nowo wydzielonych gruntów w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed terminem objęcia w posiadanie; za datę objęcia w posiadanie uważa się termin wskazany w zawiadomieniu.”.
+
+**Art. 2.** W ustawie z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych ksiąg wieczystych (Dz. U. poz. 67, z późn. zm. ) w art. 2 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Sąd prowadzący księgi wieczyste dokonuje zamknięcia ksiąg wieczystych określonych w art. 1 na skutek zawiadomienia właściwego starosty.”.
+
+**Art. 3.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2021 r. poz. 1376 i 1595) w art. 40 po ust. 6c dodaje się ust. 6d w brzmieniu: „6d. Do decyzji administracyjnej wydanej na podstawie ust. 1, dotyczącej zajęcia pasa drogowego w przypadkach, o których mowa w ust. 2 pkt 2 i 3, w zakresie ustanowionej w tej decyzji wysokości opłaty za zajęcie pasa drogowego, jeżeli decyzja dotyczy obiektów i urządzeń infrastruktury telekomunikacyjnej, przepisu art. 155 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052) nie stosuje się.”.
+
+**Art. 4.**
+
+1. Do postępowań scaleniowych lub wymiennych wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, z tym że:
+
+- **1)** przepisy art. 7 ust. 3 i 4 oraz art. 31 ustawy zmienianej w art. 1 stosuje się w brzmieniu dotychczasowym;
+- **2)** nie stosuje się przepisów art. 7a, art. 7b oraz art. 10 ust. 1 pkt 6 i 7 ustawy zmienianej w art. 1.
+
+2. Do postępowań administracyjnych w sprawach stwierdzenia nieważności decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 33 ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+3. Do postępowań scaleniowych lub wymiennych wznowionych z przyczyn określonych w art. 145–145b ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052) i niezakończonych przed dniem wejścia w życie niniejszej ustawy:
+
+- **1)** stosuje się przepis art. 33 ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym;
+- **2)** nie stosuje się przepisu art. 33 ust. 3 ustawy zmienianej w art. 1.
+
+4. Do postępowań administracyjnych w sprawach uchylenia lub zmiany decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów wszczętych na podstawie art. 154 lub art. 155 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 33 ust. 2 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
+
+**Art. 5.** Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy prowadzonych na podstawie art. 155 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, w przypadkach, o których mowa w art. 40 ust. 6d ustawy zmienianej w art. 3, stosuje się przepisy ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 3 i art. 5, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 1501
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 października 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1501 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 7 października 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1501/text.pdf) |
 
-Poz. 1501 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 7 października 2024 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2023 r. poz. 2298) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 1609) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2023 r. poz. 2298) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Współpraca” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 1609) wprowadza się następujące zmiany:
 1) w § 4 w ust. 2 w pkt 3 wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „30 kwietnia 2025 r.”;
 2) § 21 otrzymuje brzmienie: „§ 21. 1. Agencja może, na uzasadnioną prośbę beneficjenta, wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność końcową po upływie terminów określonych w § 4 ust. 2 pkt 3, w terminie nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 kwietnia 2025 r.
 2. Wyrażenie przez Agencję zgody, o której mowa w ust. 1, nie powoduje konieczności zmiany umowy.”.

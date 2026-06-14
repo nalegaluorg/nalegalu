@@ -8,7 +8,7 @@ pos: 531
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. K. 37/98 Trybunał Konstytucyjny w składzie: Teresa Dębowska-Romanowska – przewodnicząca Zdzisław Czeszejko-Sochacki Stefan J. Jaworski - sprawozdawca Jadwiga Skórzewska-Łosiak Marian Zdyb Joanna Szymczak – protokolant po rozpoznaniu na rozprawie 30 maja 2000 r. sprawy z wniosku Rzecznika Praw Obywatelskich z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego o stwierdzenie, że przepisy:

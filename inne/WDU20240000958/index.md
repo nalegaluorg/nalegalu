@@ -8,10 +8,10 @@ pos: 958
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 czerwca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 958 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000958) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/958/text.pdf) |
 
-Poz. 958 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 czerwca 2024 r.
-w sprawie kaucji gwarancyjnej składanej przez operatorów platform Na podstawie art. 75y ust. 7 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241 oraz z 2024 r. poz. 879) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb przyjmowania i zwrotu kaucji gwarancyjnej składanej przez operatorów platform.
+w sprawie kaucji gwarancyjnej składanej przez operatorów platform Na podstawie art. 75y ust. 7 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241 oraz z 2024 r. poz. 879) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb przyjmowania i zwrotu kaucji gwarancyjnej składanej przez operatorów platform.
 § 2. Kaucję gwarancyjną przyjmuje się:
 1) na rachunek urzędu obsługującego:
 a) Szefa Krajowej Administracji Skarbowej albo
@@ -36,7 +36,7 @@ b) inny organ Krajowej Administracji Skarbowej upoważniony na podstawie art. 11
 a) Szefa Krajowej Administracji Skarbowej albo
 b) innego organu Krajowej Administracji Skarbowej upoważnionego na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej – w przypadku upoważnienia tego organu do wykonywania zadań związanych z przyjmowaniem kaucji gwarancyjnej – w przypadku gdy kaucja gwarancyjna jest składana w formie obligacji Skarbu Państwa co najmniej o trzyletnim terminie wykupu.
 § 3. Organ, który przyjmuje kaucję gwarancyjną, wydaje składającemu tę kaucję na piśmie potwierdzenie jej przyjęcia, przy czym w przypadku kaucji gwarancyjnej składanej w formie depozytu pieniężnego potwierdzenie jest wydawane po przedstawieniu polecenia przelewu depozytu pieniężnego na rachunek jednostki KAS i po otrzymaniu dowodu potwierdzającego wpływ depozytu na ten rachunek.
-Dziennik Ustaw – 2 – Poz. 958 § 4. 1. Zwrotu kaucji gwarancyjnej dokonuje organ, który ją przyjął, na wniosek podmiotu, który ją złożył, po przedstawieniu dowodu wystąpienia przesłanki określonej w art. 75y ust. 5 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami.
+§ 4. 1. Zwrotu kaucji gwarancyjnej dokonuje organ, który ją przyjął, na wniosek podmiotu, który ją złożył, po przedstawieniu dowodu wystąpienia przesłanki określonej w art. 75y ust. 5 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami.
 2. Zwrot kaucji gwarancyjnej następuje:
 1) przelewem na rachunek wnioskodawcy wskazany we wniosku – w przypadku kaucji gwarancyjnej złożonej w formie depozytu pieniężnego;
 2) przez zwrot dokumentu poświadczającego udzielenie gwarancji bankowych, za pokwitowaniem – w przypadku kaucji gwarancyjnej złożonej w formie gwarancji bankowych;

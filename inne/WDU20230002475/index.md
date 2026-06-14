@@ -8,10 +8,10 @@ pos: 2475
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2475 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 listopada 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2475/text.pdf) |
 
-Poz. 2475 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 listopada 2023 r.
-w sprawie części munduru Straży Granicznej, których używanie jest dozwolone Na podstawie art. 12 ust. 2 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2023 r. poz. 76) rządza się, co następuje: § 1. Dozwolone jest używanie części munduru Straży Granicznej:
+w sprawie części munduru Straży Granicznej, których używanie jest dozwolone Na podstawie art. 12 ust. 2 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2023 r. poz. 76) rządza się, co następuje:
+§ 1. Dozwolone jest używanie części munduru Straży Granicznej:
 1) będących przedmiotami umundurowania służbowego, polowego, wyjściowego i galowego:
 a) półbuty służbowe,
 b) trzewiki służbowe,

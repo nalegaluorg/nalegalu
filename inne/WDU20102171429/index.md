@@ -8,7 +8,7 @@ pos: 1429
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo o adwokaturze oraz ustawy o radcach prawnych
@@ -30,6 +30,9 @@ source: "isap-pdf"
 **Art. 1.** W ustawie z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2009 r. Nr 146, poz. 1188, z późn. zm. ) w art. 95c pkt 1 otrzymuje brzmienie: „1) dochodzenie;”.
 
 **Art. 2.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, z 2009 r. Nr 216, poz. 1676 oraz z 2010 r. Nr 47, poz. 278 i Nr 200, poz. 1326) wprowadza się następujące zmiany:
+
+- **1)** w art. 67 pkt 1 otrzymuje brzmienie: „1) dochodzenie;”;
+- **2)** w art. 68 ust. 1a otrzymuje brzmienie: „1a. Minister Sprawiedliwości może polecić wszczęcie dochodzenia przeciwko radcy prawnemu lub aplikantowi radcowskiemu.”.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

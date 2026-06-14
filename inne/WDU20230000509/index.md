@@ -8,12 +8,10 @@ pos: 509
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -51,7 +49,7 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 
 2. Utworzenie lub zniesienie jednostki organizacyjnej Kościoła za granicą Rzeczypospolitej Polskiej może nastąpić przy zachowaniu przepisów prawa państwa, na którego terytorium ma ona swoją siedzibę.
 
-3. Kościół zawiadamia Ministra Szefa Urzędu Rady Ministrów o utworzeniu lub zniesieniu jednostki organizacyjnej za granicą.
+3. Kościół zawiadamia Ministra – Szefa Urzędu Rady Ministrów o utworzeniu lub zniesieniu jednostki organizacyjnej za granicą.
 
 **Art. 5.**
 
@@ -67,7 +65,7 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 
 1. Kościół jako całość oraz jego jednostki organizacyjne: diecezje, parafie i diakonaty posiadają osobowość prawną.
 
-2. Inne jednostki organizacyjne Kościoła mogą, na wniosek Konsystorza, uzyskać osobowość prawną w drodze rozporządzenia Ministra Szefa Urzędu Rady Ministrów .
+2. Inne jednostki organizacyjne Kościoła mogą, na wniosek Konsystorza, uzyskać osobowość prawną w drodze rozporządzenia Ministra – Szefa Urzędu Rady Ministrów .
 
 **Art. 8.**
 
@@ -77,14 +75,14 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 
 3. Właściwym organem jest:
 
-- **1)** odnośnie do diecezji minister właściwy do spraw wyznań religijnych ;
-- **2)** odnośnie do parafii i diakonatów wojewoda.
+- **1)** odnośnie do diecezji – minister właściwy do spraw wyznań religijnych ;
+- **2)** odnośnie do parafii i diakonatów – wojewoda.
 
 4. Powiadomienie powinno zawierać:
 
 - **1)** nazwę kościelnej osoby prawnej;
 - **2)** jej siedzibę;
-- **3)** w odniesieniu do diecezji i parafii ich zasięg terytorialny.
+- **3)** w odniesieniu do diecezji i parafii – ich zasięg terytorialny.
 
 5. Właściwa władza kościelna powiadamia niezwłocznie organ administracji rządowej, wymieniony w ust. 3, o:
 
@@ -94,6 +92,11 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 6. Odpis powiadomienia z umieszczonym na nim potwierdzeniem odbioru jest dowodem uzyskania osobowości prawnej.
 
 **Art. 9.** Organami osób prawnych wymienionych w art. 7 są:
+
+- **1)** dla Kościoła jako całości – Synod Kościoła, Rada Synodalna, Konsystorz, Biskup Kościoła;
+- **2)** dla diecezji – Synod Diecezjalny, Rada Diecezjalna, Biskup Diecezjalny;
+- **3)** dla parafii – Zgromadzenie Parafialne, Rada Parafialna, Proboszcz;
+- **4)** dla diakonatu – Zarząd, Rada Sióstr, Rada Opiekuńcza.
 
 **Art. 10.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
 
@@ -112,6 +115,10 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 **Art. 13.** Religijne uroczystości pogrzebowe i nabożeństwa dla uczczenia pamięci zmarłych mogą odbywać się także na cmentarzach komunalnych, przy zachowaniu obowiązujących przepisów porządkowych.
 
 **Art. 14.** Osobom należącym do Kościoła przysługuje prawo zwolnienia od nauki lub pracy w następujące święta ewangelickie niebędące dniami ustawowo wolnymi od pracy:
+
+- **1)** Wielki Piątek – Pamiątka Śmierci Chrystusa Pana,
+- **2)** Święto Wniebowstąpienia Chrystusa Pana,
+- **3)** 31 października – Święto Reformacji, na warunkach określonych w ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania.
 
 **Art. 15.**
 
@@ -201,7 +208,7 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 
 **Art. 29.**
 
-1. Żołnierzom wyznania ewangelicko-augsburskiego pełniącym czynną służbę wojskową zapewnia się możliwość uczestniczenia poza terenem jednostek wojskowych w nabożeństwach i czynnościach religijnych w niedziele i święta ewangelickie, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się kościół lub kaplica i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
+1. Żołnierzom wyznania ewangelicko-augsburskiego pełniącym czynną służbę wojskową zapewnia się możliwość uczestniczenia – poza terenem jednostek wojskowych – w nabożeństwach i czynnościach religijnych w niedziele i święta ewangelickie, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się kościół lub kaplica i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
 
 2. Opiekę duszpasterską dla żołnierzy, o których mowa w ust. 1, zapewniają kapelani wojskowi.
 
@@ -209,7 +216,7 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 
 1. Kapelani wojskowi stanowią wyodrębniony korpus osobowy żołnierzy zawodowych w ramach Ewangelickiego Duszpasterstwa Wojskowego.
 
-2. Kapelani wojskowi podlegają w zakresie służby wojskowej organom wojskowym, a w zakresie duszpasterstwa władzy kościelnej.
+2. Kapelani wojskowi podlegają w zakresie służby wojskowej organom wojskowym, a w zakresie duszpasterstwa – władzy kościelnej.
 
 **Art. 31.**
 
@@ -233,7 +240,7 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 
 1. Majątek i przychody kościelnych osób prawnych podlegają ogólnym przepisom podatkowym, a w szczególności art. 17 ust. 1 pkt 4a i 4b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, 2640 i 2745 oraz z 2023 r. poz. 185).
 
-2. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz w okresie dwóch lat od dnia przekazania darowizny sprawozdanie o przeznaczeniu jej na tę działalność.
+2. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz – w okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność.
 
 3. Kościelne osoby prawne są zwolnione od podatku od nieruchomości lub ich części stanowiących własność tych osób albo używanych przez nie, na podstawie innego tytułu prawnego, na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
 
@@ -300,11 +307,11 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 
 2. Przepis art. 40 ust. 4 stosuje się odpowiednio.
 
-**Art. 42.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 40 i 41.
+**Art. 42.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 40 i 41.
 
 **Art. 43.**
 
-1. Postępowanie regulacyjne, o którym mowa w art. 40 i 41, przeprowadza Komisja Regulacyjna, zwana dalej „Komisją”, złożona z przedstawicieli wyznaczonych w równej liczbie przez Ministra Szefa Urzędu Rady Ministrów i Konsystorz Kościoła.
+1. Postępowanie regulacyjne, o którym mowa w art. 40 i 41, przeprowadza Komisja Regulacyjna, zwana dalej „Komisją”, złożona z przedstawicieli wyznaczonych w równej liczbie przez Ministra – Szefa Urzędu Rady Ministrów i Konsystorz Kościoła.
 
 2. Uczestnikami postępowania regulacyjnego są oprócz wnioskodawcy wszystkie zainteresowane jednostki państwowe, samorządowe i kościelne.
 
@@ -312,11 +319,11 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 
 4. Postępowanie sądowe lub administracyjne dotyczące nieruchomości, o których mowa w art. 40 i 41, ulega zawieszeniu, a sądy i organy administracji państwowej przekazują ich akta do Komisji Regulacyjnej.
 
-5. Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez Ministra Szefa Urzędu Rady Ministrów i Konsystorz Kościoła.
+5. Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez Ministra – Szefa Urzędu Rady Ministrów i Konsystorz Kościoła.
 
 6. Postępowanie regulacyjne jest wolne od opłat.
 
-7. Liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego określi Minister Szef Urzędu Rady Ministrów w porozumieniu z Konsystorzem Kościoła.
+7. Liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego określi Minister – Szef Urzędu Rady Ministrów w porozumieniu z Konsystorzem Kościoła.
 
 **Art. 44.**
 
@@ -340,11 +347,11 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 
 1. Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
 
-2. Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 40 i 41.
+2. Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte – wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 40 i 41.
 
 **Art. 45a.**
 
-1. Na wniosek Kościoła lub jego osób prawnych wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy gmin w zakresie swoich właściwości mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
+1. Na wniosek Kościoła lub jego osób prawnych wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy gmin w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
 
 - **1)** jeżeli są one niezbędne do sprawowania kultu religijnego lub działalności kościelnych osób prawnych w zakresie charytatywno-opiekuńczym lub oświatowo-wychowawczym;
 - **2)** w celu utworzenia lub powiększenia gospodarstwa rolnego parafii działających na Ziemiach Zachodnich i Północnych, o powierzchni do 15 ha użytków rolnych łącznie dla jednej parafii.
@@ -359,5 +366,8 @@ o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej P
 
 **Art. 47.** Tracą moc:
 
-**Art. 48.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WYKAZ DIECEZJI, PARAFII I DIAKONATÓW KOŚCIOŁA EWANGELICKO-AUGSBURSKIEGO W RZECZYPOSPOLITEJ POLSKIEJ I. Diecezja Cieszyńska Parafia Biała Parafia Bielsko Parafia Brenna–Górki Parafia Cieszyn Parafia Cisownica Parafia Czechowice-Dziedzice Parafia Drogomyśl Parafia Goleszów Parafia Istebna Parafia Jaworze Parafia Wieszczęta-Kowale Parafia Międzyrzecze Parafia Skoczów Parafia Stare Bielsko Parafia Ustroń Parafia Wisła II. Diecezja Katowicka Parafia Brzeg Parafia Bytom Parafia Chorzów Parafia Czerwionka Parafia Częstochowa Parafia Gliwice Parafia Golasowice Parafia Gołkowice Parafia Hołdunów Parafia Jastrzębie Zdrój Parafia Katowice Parafia Kluczbork Parafia Kraków Parafia Laryszów Parafia Lasowice Wielkie Parafia Lubienie Parafia Miechowice Parafia Mikołów Parafia Mysłowice Parafia Nowy Sącz–Stadło Parafia Opole Parafia Orzesze Parafia Pokój Parafia Pszczyna Parafia Pyskowice Parafia Racibórz Parafia Rybnik Parafia Siemianowice Parafia Sosnowiec Parafia Studzionka Parafia Szopienice Parafia Ściborzyce Wielkie Parafia Świętochłowice Parafia Tarnowskie Góry Parafia Warszowice Parafia Wirek Parafia Wodzisław Śląski Parafia Wołczyn Parafia Zabrze Parafia Żory III. Diecezja Mazurska Parafia Działdowo Parafia Giżycko Parafia Kętrzyn Parafia Mikołajki Parafia Mrągowo Parafia Nidzica Parafia Olsztyn Parafia Ostróda Parafia Pasym Parafia Pisz Parafia Ryn Parafia Sorkwity Parafia Suwałki Parafia Szczytno IV. Diecezja Pomorsko-Wielkopolska Parafia Bydgoszcz Parafia Elbląg Parafia Gdańsk–Gdynia–Sopot Parafia Grudziądz Parafia Kalisz Parafia Kępno Parafia Konin Parafia Koszalin Parafia Lipno Parafia Ostrów Wielkopolski Parafia Poznań Parafia Rypin Parafia Słupsk Parafia Stawiszyn Parafia Toruń Parafia Turek Parafia Włocławek V. Diecezja Warszawska Parafia Aleksandrów Łódzki Parafia Kutno Parafia Lublin Parafia Łask Parafia Łowicz Parafia Łódź Parafia Ozorków Parafia Pabianice Parafia Piotrków Trybunalski Parafia Płock Parafia Poddębice Parafia Radom Parafia Rawa Mazowiecka Parafia Tomaszów Mazowiecki Parafia Warszawa Parafia św. Trójcy Parafia Warszawa Parafia Wniebowstąpienia Pańskiego Parafia Węgrów Parafia Wieluń Parafia Zduńska Wola Parafia Zelów–Bełchatów Parafia Zgierz Parafia Żyrardów VI. Diecezja Wrocławska Parafia Jelenia Góra–Cieplice Parafia Gorzów Wielkopolski Parafia Jawor Parafia Karpacz Parafia Kłodzko Parafia Legnica Parafia Międzybórz Parafia Syców Parafia Szczecin Parafia Świdnica Parafia Wałbrzych Parafia Wrocław Parafia Opatrzności Bożej Parafia Wrocław Parafia Świętego Krzysztofa Parafia Zielona Góra Parafia Żary VII. Ewangelicki Diakonat Żeński „Eben-Ezer” Dzięgielów
+- **1)** dekret Prezydenta Rzeczypospolitej z dnia 25 listopada 1936 r. o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej (Dz. U. poz. 613, z 1945 r. poz. 271 oraz z 1947 r. poz. 272);
+- **2)** ustawa z dnia 4 lipca 1947 r. w sprawie zmiany dekretu Prezydenta Rzeczypospolitej z dnia 25 listopada 1936 r. o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej (Dz. U. poz. 272 oraz z 1985 r. poz. 99).
+
+**Art. 48.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WYKAZ DIECEZJI, PARAFII I DIAKONATÓW KOŚCIOŁA EWANGELICKO-AUGSBURSKIEGO W RZECZYPOSPOLITEJ POLSKIEJ I. Diecezja Cieszyńska Parafia Biała Parafia Bielsko Parafia Brenna–Górki Parafia Cieszyn Parafia Cisownica Parafia Czechowice-Dziedzice Parafia Drogomyśl Parafia Goleszów Parafia Istebna Parafia Jaworze Parafia Wieszczęta-Kowale Parafia Międzyrzecze Parafia Skoczów Parafia Stare Bielsko Parafia Ustroń Parafia Wisła II. Diecezja Katowicka Parafia Brzeg Parafia Bytom Parafia Chorzów Parafia Czerwionka Parafia Częstochowa Parafia Gliwice Parafia Golasowice Parafia Gołkowice Parafia Hołdunów Parafia Jastrzębie Zdrój Parafia Katowice Parafia Kluczbork Parafia Kraków Parafia Laryszów Parafia Lasowice Wielkie Parafia Lubienie Parafia Miechowice Parafia Mikołów Parafia Mysłowice Parafia Nowy Sącz–Stadło Parafia Opole Parafia Orzesze Parafia Pokój Parafia Pszczyna Parafia Pyskowice Parafia Racibórz Parafia Rybnik Parafia Siemianowice Parafia Sosnowiec Parafia Studzionka Parafia Szopienice Parafia Ściborzyce Wielkie Parafia Świętochłowice Parafia Tarnowskie Góry Parafia Warszowice Parafia Wirek Parafia Wodzisław Śląski Parafia Wołczyn Parafia Zabrze Parafia Żory III. Diecezja Mazurska Parafia Działdowo Parafia Giżycko Parafia Kętrzyn Parafia Mikołajki Parafia Mrągowo Parafia Nidzica Parafia Olsztyn Parafia Ostróda Parafia Pasym Parafia Pisz Parafia Ryn Parafia Sorkwity Parafia Suwałki Parafia Szczytno IV. Diecezja Pomorsko-Wielkopolska Parafia Bydgoszcz Parafia Elbląg Parafia Gdańsk–Gdynia–Sopot Parafia Grudziądz Parafia Kalisz Parafia Kępno Parafia Konin Parafia Koszalin Parafia Lipno Parafia Ostrów Wielkopolski Parafia Poznań Parafia Rypin Parafia Słupsk Parafia Stawiszyn Parafia Toruń Parafia Turek Parafia Włocławek V. Diecezja Warszawska Parafia Aleksandrów Łódzki Parafia Kutno Parafia Lublin Parafia Łask Parafia Łowicz Parafia Łódź Parafia Ozorków Parafia Pabianice Parafia Piotrków Trybunalski Parafia Płock Parafia Poddębice Parafia Radom Parafia Rawa Mazowiecka Parafia Tomaszów Mazowiecki Parafia Warszawa – Parafia św. Trójcy Parafia Warszawa – Parafia Wniebowstąpienia Pańskiego Parafia Węgrów Parafia Wieluń Parafia Zduńska Wola Parafia Zelów–Bełchatów Parafia Zgierz Parafia Żyrardów VI. Diecezja Wrocławska Parafia Jelenia Góra–Cieplice Parafia Gorzów Wielkopolski Parafia Jawor Parafia Karpacz Parafia Kłodzko Parafia Legnica Parafia Międzybórz Parafia Syców Parafia Szczecin Parafia Świdnica Parafia Wałbrzych Parafia Wrocław – Parafia Opatrzności Bożej Parafia Wrocław – Parafia Świętego Krzysztofa Parafia Zielona Góra Parafia Żary VII. Ewangelicki Diakonat Żeński „Eben-Ezer” Dzięgielów
 

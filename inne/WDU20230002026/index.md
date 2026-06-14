@@ -8,10 +8,10 @@ pos: 2026
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22002266 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 22 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,20 +25,21 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002026) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2026/text.pdf) |
 
-22002266 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 22 września 2023 r.
-w sprawie spisu wyborców przebywających na polskich statkach morskich Na podstawie art. 34 § 4 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277 i 2418 oraz z 2023 r. poz. 497) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie spisu wyborców przebywających na polskich statkach morskich Na podstawie art. 34 § 4 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277 i 2418 oraz z 2023 r. poz. 497) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór spisu wyborców przebywających na polskich statkach morskich znajdujących się w podróży w dniu wyborów oraz sposób jego sporządzania i aktualizacji;
 2) wzór powiadomienia o ujęciu wyborcy w spisie wyborców burmistrza dzielnicy Śródmieście miasta stołecznego Warszawy;
 3) wzór zaświadczenia o prawie do głosowania oraz sposób wydawania i ewidencjonowania tych zaświadczeń.
-§ 2. 1. Do spisu wyborców przebywających na polskich statkach morskich znajdujących się w podróży w dniu wyborów, zwanym dalej „spisem wyborców”, kapitan statku wpisuje wyborców, którzy złożyli wnioski spełniające warunki określone w art. 34 § 2 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy, z zachowaniem przepisów dotyczących ochrony danych osobowych.
+§ 2. 1. Do spisu wyborców przebywających na polskich statkach morskich znajdujących się w podróży w dniu wyborów, zwanym dalej „spisem wyborców”, kapitan statku wpisuje wyborców, którzy złożyli wnioski spełniające warunki określone w art. 34 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, z zachowaniem przepisów dotyczących ochrony danych osobowych.
 2. Spis wyborców składa się z:
-1) części A w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz w wyborach Prezydenta Rzeczypospolitej Polskiej;
-2) części A i części B w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej.
+1) części A – w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz w wyborach Prezydenta Rzeczypospolitej Polskiej;
+2) części A i części B – w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej.
 3. Część A spisu wyborców obejmuje wyborców będących obywatelami polskimi.
 4. Część B spisu wyborców obejmuje obywateli Unii Europejskiej niebędących obywatelami polskimi, wpisanych do stałych obwodów głosowania w gminach położonych na terytorium Rzeczypospolitej Polskiej.
 5. Część B spisu wyborców sporządza się tylko wtedy, gdy na statku przebywają obywatele Unii Europejskiej niebędący obywatelami polskimi.
-§ 3. 1. Wzór części A spisu wyborców jest określony w załączniku 1 do rozporządzenia.
-2. Wzór części B spisu wyborców jest określony w załączniku 2 do rozporządzenia.
+§ 3. 1. Wzór części A spisu wyborców jest określony w załączniku nr 1 do rozporządzenia.
+2. Wzór części B spisu wyborców jest określony w załączniku nr 2 do rozporządzenia.
+§ 4. 1. Spis wyborców sporządza się w:
 1) kolejności alfabetycznej nazwisk wyborców;
 2) dwóch egzemplarzach w formie wydruku komputerowego.
 2. Kapitan statku może zweryfikować dane zgłoszone przez wyborcę we właściwych organach Rzeczypospolitej Polskiej przy wykorzystaniu środków komunikacji zapewniających bezpieczeństwo informacji i ochronę danych osobowych.
@@ -63,10 +64,12 @@ w sprawie spisu wyborców przebywających na polskich statkach morskich Na podst
 7. Przepisy § 4 ust. 1 pkt 2 i ust. 3 oraz § 7 stosuje się odpowiednio.
 § 6. 1. W wyborach Prezydenta Rzeczypospolitej Polskiej, w których przeprowadza się ponowne głosowanie, w okresie między dniem pierwszego głosowania a dniem ponownego głosowania, spis wyborców jest aktualizowany w sposób określony w § 5 ust. 1‒3 i 6.
 2. W przypadku, o którym mowa w ust. 1, adnotacje, o których mowa w § 5 ust. 5, uzupełnia się o wyrazy „ponowne głosowanie”.
+§ 7. Wzór powiadomienia o ujęciu wyborcy w spisie wyborców burmistrza dzielnicy Śródmieście miasta stołecznego Warszawy jest określony w załączniku nr 3 do rozporządzenia.
 § 8. 1. Zaświadczenie o prawie do głosowania opatruje się numerem, podpisem, z podaniem imienia i nazwiska, oraz pieczęcią kapitana statku.
 2. Zaświadczenie o prawie do głosowania sporządza się w formie wydruku komputerowego.
 § 9. Zaświadczenie o prawie do głosowania wyborca odbiera osobiście za pokwitowaniem lub przez osobę pisemnie upoważnioną, pod warunkiem podania w upoważnieniu swojego numeru PESEL.
-§ 10. Wzór zaświadczenia o prawie do głosowania jest określony w załączniku 4 do rozporządzenia § 11. 1. Kapitan statku prowadzi ewidencję wydanych zaświadczeń o prawie do głosowania, zwaną dalej „ewidencją”.
+§ 10. Wzór zaświadczenia o prawie do głosowania jest określony w załączniku nr 4 do rozporządzenia
+§ 11. 1. Kapitan statku prowadzi ewidencję wydanych zaświadczeń o prawie do głosowania, zwaną dalej „ewidencją”.
 2. Kapitan statku prowadzi ewidencję w postaci papierowej albo w systemie informatycznym zapewniającym bezpieczeństwo informacji i ochronę danych osobowych.
 3. Ewidencja prowadzona w postaci papierowej jest przechowywana w miejscu niedostępnym dla osób nieuprawnionych.
 4. Do ewidencji wpisuje się:
@@ -80,30 +83,30 @@ d) imię (imiona) i nazwisko,
 e) numer PESEL, jeżeli został nadany.
 § 12. Ewidencja prowadzona w postaci papierowej oraz upoważnienia do odbioru zaświadczeń o prawie do głosowania stanowią część dokumentów z wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, wyborów Prezydenta Rzeczypospolitej Polskiej, wyborów do Parlamentu Europejskiego w Rzeczypospolitej Polskiej.
 § 13. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury: wz. A. Bittel WZÓR 1 WZÓR
+Minister Infrastruktury: wz. A. Bittel Załączniki do rozporządzenia Ministra Infrastruktury z dnia 22 września 2023 r. (Dz. U. poz. …) Załącznik nr 1 WZÓR Załącznik nr 2 WZÓR WZÓR
 Wybory .........................................................., zarządzone na dzień .......................
 SPIS WYBORCÓW Część B .........................................................................................................
-______ WZÓR WZÓR POWIADOMIENIE O UJĘCIU WYBORCÓW W SPISIE WYBORCÓW BURMISTRZA DZIELNICY ŚRÓDMIEŚCIE MIASTA STOŁECZNEGO WARSZAWY dnia ..............................
+______ Załącznik nr 3 WZÓR WZÓR POWIADOMIENIE O UJĘCIU WYBORCÓW W SPISIE WYBORCÓW BURMISTRZA DZIELNICY ŚRÓDMIEŚCIE MIASTA STOŁECZNEGO WARSZAWY dnia ..............................
 Do .............................................
 Burmistrza dzielnicy Śródmieście miasta stołecznego Warszawy Zawiadamia się, że .................................................................................................
 ............................................................................................................................
 został(-ła) wpisany(-na) do spisu wyborców sporządzonego przez kapitana statku morskiego ..........................................................................................................
 Powyższe przekazuję w celu zamieszczenia w Centralnym Rejestrze Wyborców informacji o ujęciu wyborcy w spisie wyborców sporządzonym przez kapitana statku w wyborach ........................................... zarządzonych na dzień ..........................................
-………………………..……………………………… WZÓR WZÓR ZAŚWIADCZENIE O PRAWIE DO GŁOSOWANIA dnia ..............................
+………………………..……………………………… Załącznik nr 4 WZÓR WZÓR ZAŚWIADCZENIE O PRAWIE DO GŁOSOWANIA dnia ..............................
 ZAŚWIADCZENIE O PRAWIE DO GŁOSOWANIA NR .........
 Pan/Pani*
 1) imię (imiona) .........................................................................
 2) nazwisko .........................................................................
-3) PESEL .........................................................................
+3) nr PESEL .........................................................................
 4) adres zamieszkania:
 a) gmina (miasto, dzielnica) .........................................................................
 b) miejscowość .........................................................................
 c) ulica .........................................................................
-d) budynku .........................................................................
-e) lokalu .........................................................................
+d) nr budynku .........................................................................
+e) nr lokalu .........................................................................
 5) obywatelstwo** .........................................................................
 jest uprawniony(-na) do głosowania w dniu .............................................., w obwodzie miejsca pobytu w wyborach: Prezydenta Rzeczypospolitej Polskiej w dniu pierwszego głosowania / Prezydenta Rzeczypospolitej Polskiej w dniu ponownego głosowania / do Sejmu i Senatu / do Parlamentu Europejskiego*.
-…………………………………………………… ______ WZÓR
+…………………………………………………… ______
 
-## CZĘŚĆ B SPISU WYBORCÓW (pieczęć Obwód głosowania ...... na statku ..................................
+## CZĘŚĆ B SPISU WYBORCÓW (pieczęć Obwód głosowania nr ...... na statku ..................................
 

@@ -8,7 +8,7 @@ pos: 1798
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o zawodzie psychologa i samorządzie zawodowym psychologów oraz ustawy o zmianie ustawy - Prawo o ruchu drogowym

@@ -8,10 +8,10 @@ pos: 789
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 czerwca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 789 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 25 maja 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000789) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/789/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 25 maja 2016 r.
-w sprawie rocznych i półrocznych sprawozdań ubezpieczeniowego funduszu kapitałowego Na podstawie art. 23 ust. 8 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie rocznych i półrocznych sprawozdań ubezpieczeniowego funduszu kapitałowego Na podstawie art. 23 ust. 8 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy zakres danych wykazywanych w rocznych i półrocznych sprawozdaniach ubezpieczeniowego funduszu kapitałowego, zwanego dalej „funduszem”, w zakresie umów ubezpieczenia na życie, jeżeli są związane z funduszem, o których mowa w dziale I grupa 3 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, zwanej dalej „ustawą”;
 2) formę i sposób sporządzania oraz termin i sposób publikowania sprawozdań, o których mowa w pkt 1.
 § 2. 1. Zakład ubezpieczeń sporządza roczne i półroczne sprawozdanie funduszu w zakresie:
@@ -77,31 +77,32 @@ WARTOŚĆ AKTYWÓW NETTO FUNDUSZU Koniec analogicznego (w zł) okresu sprawozdaw
 3.1. z tytułu transakcji zawartych na rynku finansowym
 3.2. pozostałe II. Zobowiązania
 1. z tytułu transakcji zawartych na rynku finansowym
-2. wobec nionych ubezpieczających, z umów ubezpieczenia ubezpieczonych lub upraw3. pozostałe III. Aktywa netto (I–II) II.
-ZMIANY WARTOŚCI AKTYWÓW NETTO FUNDUSZU Analogiczny okres (w zł) sprawozdawczy Bieżący okres poprzedniego roku sprawozdawczy obrotowego A. Aktywa zdawczego netto funduszu na początek okresu sprawoB. Wynik netto z działalności operacyjnej (I–II) I. Zwiększenia funduszu
+2. wobec ubezpieczających, ubezpieczonych lub uprawnionych z umów ubezpieczenia
+3. pozostałe III. Aktywa netto (I–II) II.
+ZMIANY WARTOŚCI AKTYWÓW NETTO FUNDUSZU Analogiczny okres (w zł) sprawozdawczy Bieżący okres poprzedniego roku sprawozdawczy obrotowego A. Aktywa netto funduszu na początek okresu sprawozdawczego B. Wynik netto z działalności operacyjnej (I–II) I. Zwiększenia funduszu
 1. tytułem składek zwiększających wartość funduszu
 2. pozostałe przychody
 3. pozostałe zwiększenia II. Zmniejszenia funduszu
 1. tytułem wykupu
-2. tytułem niowych wypłat pozostałych świadczeń ubezpiecze3. tytułem nych opłat opłat potrącanych za ryzyko z funduszu ubezpieczeniowe oraz in4. tytułem zwrotu składek ubezpieczeniowych
-5. tytułem opłat tytułem opłat administrowania za zarządzanie funduszem funduszem oraz innych
+2. tytułem wypłat pozostałych świadczeń ubezpieczeniowych
+3. tytułem opłat za ryzyko ubezpieczeniowe oraz innych opłat potrącanych z funduszu
+4. tytułem zwrotu składek ubezpieczeniowych
+5. tytułem opłat za zarządzanie funduszem oraz innych opłat tytułem administrowania funduszem
 6. pozostałe koszty
-7. pozostałe zmniejszenia C. Wynik netto z działalności inwestycyjnej D. Aktywa zdawczego netto funduszu na koniec okresu sprawoIII.
+7. pozostałe zmniejszenia C. Wynik netto z działalności inwestycyjnej D. Aktywa netto funduszu na koniec okresu sprawozdawczego III.
 LICZBA I WARTOŚĆ JEDNOSTEK uczestnictwa funduszu Analogiczny okres Pozycja sprawozdawczy Bieżący okres poprzedniego roku sprawozdawczy obrotowego I. Liczba jednostek uczestnictwa funduszu:
 1. na początek okresu sprawozdawczego
 2. na koniec okresu sprawozdawczego II. Wartość jednostki uczestnictwa funduszu:
 1. na początek okresu sprawozdawczego
-2. minimalna w okresie sprawozdawczym wartość jednostki uczestnictwa funduszu
-3. maksymalna szu w okresie wartość sprawozdawczym jednostki uczestnictwa fundu4. na koniec okresu sprawozdawczego IV.
-ZESTAWIENIE AKTYWÓW NETTO FUNDUSZU półroczne Wartość bilansowa Udział w aktywach (w zł) netto funduszu (w %) 1 2 3 I. Lokaty (suma 1–12)
-1.
-papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa lub organizacje międzynarodowe, których członkiem jest Rzeczpospolita Polska
-2.
-obligacje emitowane lub poręczone przez jednostki samorządu terytorialnego lub związki jednostek samorządu terytorialnego
+2. minimalna wartość jednostki uczestnictwa funduszu w okresie sprawozdawczym
+3. maksymalna wartość jednostki uczestnictwa funduszu w okresie sprawozdawczym
+4. na koniec okresu sprawozdawczego IV.
+ZESTAWIENIE AKTYWÓW NETTO FUNDUSZU – półroczne Wartość bilansowa Udział w aktywach (w zł) netto funduszu (w %) 1 2 3 I. Lokaty (suma 1–12) papiery wartościowe emitowane, poręczone lub gwaran1. towane przez Skarb Państwa lub organizacje międzynarodowe, których członkiem jest Rzeczpospolita Polska obligacje emitowane lub poręczone przez jednostki
+2. samorządu terytorialnego lub związki jednostek samorządu terytorialnego
 3. inne dłużne papiery wartościowe o stałej stopie dochodu
 4. akcje
 5. udziały
-6. jednostki w funduszach uczestnictwa inwestycyjnych i certyfikaty inwestycyjne
+6. jednostki uczestnictwa i certyfikaty inwestycyjne w funduszach inwestycyjnych
 7. instrumenty pochodne
 8. inne papiery wartościowe o zmiennej kwocie dochodu
 9. pożyczki
@@ -109,16 +110,13 @@ obligacje emitowane lub poręczone przez jednostki samorządu terytorialnego lub
 11. depozyty bankowe
 12. pozostałe lokaty II. Środki pieniężne III. Należności IV. Zobowiązania V. Aktywa netto (w tym)
 1. krajowe
-2. zagraniczne państwa UE
-3. zagraniczne państwa poza UE V.
-ZESTAWIENIE AKTYWÓW NETTO FUNDUSZU roczne Wartość bilansowa Udział w aktywach (w zł) netto funduszu (w %) 1 2 3 I. Lokaty (suma 1–12)
-1.
-papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa lub organizacje międzynarodowe, których członkiem jest Rzeczpospolita Polska
+2. zagraniczne – państwa UE
+3. zagraniczne – państwa poza UE V.
+ZESTAWIENIE AKTYWÓW NETTO FUNDUSZU – roczne Wartość bilansowa Udział w aktywach (w zł) netto funduszu (w %) 1 2 3 I. Lokaty (suma 1–12) papiery wartościowe emitowane, poręczone lub gwaran1. towane przez Skarb Państwa lub organizacje międzynarodowe, których członkiem jest Rzeczpospolita Polska
 1.1. obligacje
 1.2. bony skarbowe
-1.3. inne
-2.
-obligacje emitowane lub poręczone przez jednostki samorządu terytorialnego lub związki jednostek samorządu terytorialnego
+1.3. inne obligacje emitowane lub poręczone przez jednostki
+2. samorządu terytorialnego lub związki jednostek samorządu terytorialnego
 3. inne dłużne papiery wartościowe o stałej stopie dochodu
 3.1. notowane na rynku regulowanym
 3.2. pozostałe
@@ -126,10 +124,10 @@ obligacje emitowane lub poręczone przez jednostki samorządu terytorialnego lub
 4.1. notowane na rynku regulowanym
 4.2. pozostałe
 5. udziały
-6. jednostki w funduszach uczestnictwa inwestycyjnych i certyfikaty inwestycyjne
+6. jednostki uczestnictwa i certyfikaty inwestycyjne w funduszach inwestycyjnych
 6.1. jednostki uczestnictwa
 6.2. certyfikaty inwestycyjne
-6.2.1. funduszy w nieruchomości inwestycyjnych dokonujących lokat wyłącznie
+6.2.1. funduszy inwestycyjnych dokonujących lokat wyłącznie w nieruchomości
 6.2.2. innych funduszy inwestycyjnych
 7. instrumenty pochodne
 7.1. opcje
@@ -141,21 +139,21 @@ obligacje emitowane lub poręczone przez jednostki samorządu terytorialnego lub
 9. pożyczki
 9.1. zabezpieczone hipotecznie
 9.2. zabezpieczone gwarancjami instytucji finansowej
-9.3. pod na życie zastaw praw wynikających z umów ubezpieczenia
+9.3. pod zastaw praw wynikających z umów ubezpieczenia na życie
 9.4. inne pożyczki
 10. nieruchomości
 11. depozyty bankowe
-12. pozostałe lokaty II. Środki pieniężne III. Należności IV. Zobowiązania V. Aktywa netto (w tym) 1 krajowe 2 zagraniczne państwa UE 3 zagraniczne państwa poza UE Objaśnienia: I. Objaśnienia do tabeli I „Wartość aktywów netto funduszu”
-1. Wartość wykazana w pozycji I.1. „lokaty” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną w pozycji I. „Lokaty (suma 1–12)” w kolumnie „Wartość bilansowa (w zł)” tabeli IV „Zestawienie aktywów netto funduszu półroczne” oraz z wartością wykazaną w pozycji I. „Lokaty (suma 1–12)” w kolumnie „Wartość bilansowa (w zł)” tabeli V „Zestawienie aktywów netto funduszu roczne”.
+12. pozostałe lokaty II. Środki pieniężne III. Należności IV. Zobowiązania V. Aktywa netto (w tym) 1 krajowe 2 zagraniczne – państwa UE 3 zagraniczne – państwa poza UE Objaśnienia: I. Objaśnienia do tabeli I „Wartość aktywów netto funduszu”
+1. Wartość wykazana w pozycji I.1. „lokaty” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną w pozycji I. „Lokaty (suma 1–12)” w kolumnie „Wartość bilansowa (w zł)” tabeli IV „Zestawienie aktywów netto funduszu – półroczne” oraz z wartością wykazaną w pozycji I. „Lokaty (suma 1–12)” w kolumnie „Wartość bilansowa (w zł)” tabeli V „Zestawienie aktywów netto funduszu – roczne”.
 2. Wartość wykazana w pozycji I.2. „środki pieniężne” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną dla kategorii aktywów i zobowiązań „Środki pieniężne” w kolumnie G „Wartość bilansowa” formularza nr 10 „Aktywa netto ubezpieczeniowych funduszy kapitałowych” załącznika nr 1 do rozporządzenia Ministra Finansów z dnia 29 kwietnia 2016 r. w sprawie dodatkowych sprawozdań finansowych i statystycznych zakładów ubezpieczeń i zakładów reasekuracji (Dz. U. poz. 634), zwanego dalej „załącznikiem nr 1 do rozporządzenia z dnia 29 kwietnia 2016 r.”.
 3. Wartość wykazana w pozycji I.3. „należności” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną dla kategorii aktywów i zobowiązań „Należności” w kolumnie G „Wartość bilansowa” formularza nr 10 „Aktywa netto ubezpieczeniowych funduszy kapitałowych” załącznika nr 1 do rozporządzenia z dnia 29 kwietnia 2016 r.
 4. Wartość wykazana w pozycji II. „Zobowiązania” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną dla kategorii aktywów i zobowiązań „Zobowiązania” w kolumnie G „Wartość bilansowa” formularza nr 10 „Aktywa netto ubezpieczeniowych funduszy kapitałowych” załącznika nr 1 do rozporządzenia z dnia 29 kwietnia 2016 r.
-5. Wartość wykazana w pozycji I.2. „środki pieniężne” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną w pozycji II. „Środki pieniężne” w kolumnie „Wartość bilansowa (w zł)” tabeli IV „Zestawienie aktywów netto funduszu półroczne” oraz z wartością wykazaną w pozycji II. „Środki pieniężne” w kolumnie „Wartość bilansowa (w zł)” tabeli V „Zestawienie aktywów netto funduszu roczne”.
-6. Wartość wykazana w pozycji I.3. „należności” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną w pozycji III. „Należności” w kolumnie „Wartość bilansowa (w zł)” tabeli IV „Zestawienie aktywów netto funduszu półroczne” oraz z wartością wykazaną w pozycji III. „Należności” w kolumnie „Wartość bilansowa (w zł)” tabeli V „Zestawienie aktywów netto funduszu roczne”.
-7. Wartość wykazana w pozycji II. „Zobowiązania” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną w pozycji IV. „Zobowiązania” w kolumnie „Wartość bilansowa (w zł)” tabeli IV „Zestawienie aktywów netto funduszu półroczne” oraz z wartością wykazaną w pozycji IV. „Zobowiązania” w kolumnie „Wartość bilansowa (w zł)” tabeli V „Zestawienie aktywów netto funduszu roczne”.
+5. Wartość wykazana w pozycji I.2. „środki pieniężne” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną w pozycji II. „Środki pieniężne” w kolumnie „Wartość bilansowa (w zł)” tabeli IV „Zestawienie aktywów netto funduszu – półroczne” oraz z wartością wykazaną w pozycji II. „Środki pieniężne” w kolumnie „Wartość bilansowa (w zł)” tabeli V „Zestawienie aktywów netto funduszu – roczne”.
+6. Wartość wykazana w pozycji I.3. „należności” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną w pozycji III. „Należności” w kolumnie „Wartość bilansowa (w zł)” tabeli IV „Zestawienie aktywów netto funduszu – półroczne” oraz z wartością wykazaną w pozycji III. „Należności” w kolumnie „Wartość bilansowa (w zł)” tabeli V „Zestawienie aktywów netto funduszu – roczne”.
+7. Wartość wykazana w pozycji II. „Zobowiązania” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną w pozycji IV. „Zobowiązania” w kolumnie „Wartość bilansowa (w zł)” tabeli IV „Zestawienie aktywów netto funduszu – półroczne” oraz z wartością wykazaną w pozycji IV. „Zobowiązania” w kolumnie „Wartość bilansowa (w zł)” tabeli V „Zestawienie aktywów netto funduszu – roczne”.
 8. Wartości wykazane w pozycji III. „Aktywa netto (I–II)” powinny być zgodne z wartościami wykazanymi w pozycji D.
 „Aktywa netto funduszu na koniec okresu sprawozdawczego” tabeli II „Zmiany wartości aktywów netto funduszu”.
-9. Wartość wykazana w pozycji III. „Aktywa netto (I–II)” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną w pozycji V. „Aktywa netto (w tym)” w kolumnie „Wartość bilansowa (w zł)” tabeli IV „Zestawienie aktywów netto funduszu półroczne” i w pozycji V. „Aktywa netto (w tym)” w kolumnie „Wartość bilansowa (w zł)” tabeli V „Zestawienie aktywów netto funduszu roczne”.
+9. Wartość wykazana w pozycji III. „Aktywa netto (I–II)” w kolumnie „Koniec bieżącego okresu sprawozdawczego” powinna być zgodna z wartością wykazaną w pozycji V. „Aktywa netto (w tym)” w kolumnie „Wartość bilansowa (w zł)” tabeli IV „Zestawienie aktywów netto funduszu – półroczne” i w pozycji V. „Aktywa netto (w tym)” w kolumnie „Wartość bilansowa (w zł)” tabeli V „Zestawienie aktywów netto funduszu – roczne”.
 II. Objaśnienia do tabeli II „Zmiany wartości aktywów netto funduszu”
 1. W pozycji B.I.1. „Zwiększenia funduszu tytułem składek zwiększających wartość funduszu” wykazuje się wartość składek zaalokowanych, za które zostały nabyte jednostki danego ubezpieczeniowego funduszu kapitałowego w okresie sprawozdawczym. Składki wykazuje się po pomniejszeniu o wszelkie opłaty i potrącenia pobierane od składek (np. prowizje od wpłaty składek, opłaty za ryzyko), a także po pomniejszeniu o opłaty alokacyjne dokonane przed rejestracją składek na rachunku jednostek prowadzonym na rzecz ubezpieczającego lub ubezpieczonego.
 2. W pozycji B.I.2. „pozostałe przychody” wykazuje się inne przychody funduszu; w tym wartość jednostek dodatkowych przyznanych ubezpieczającym lub ubezpieczonym, jeżeli umowa ubezpieczenia je przewiduje.
@@ -167,10 +165,10 @@ II. Objaśnienia do tabeli II „Zmiany wartości aktywów netto funduszu”
 8. W pozycji B.II.5. „Zmniejszenia funduszu tytułem opłat za zarządzanie funduszem oraz innych opłat tytułem administrowania funduszem” wykazuje się wartość pobranych przez zakład ubezpieczeń w okresie sprawozdawczym opłat za zarządzanie i administrowanie funduszem zgodnie z regulaminem danego ubezpieczeniowego funduszu kapitałowego.
 9. W pozycji B.II.6. „pozostałe koszty” wykazuje się koszty przechowywania aktywów, koszty transakcyjne oraz inne koszty, które obciążają fundusz, zgodnie z regulaminem danego ubezpieczeniowego funduszu kapitałowego oprócz opłat za zarządzanie i administrowanie funduszem.
 10. W pozycji B.II.7. „pozostałe zmniejszenia” wykazuje się w szczególności zmniejszenia z tytułu transferu środków do innych ubezpieczeniowych funduszy kapitałowych, zmniejszenia z tytułu udzielonych gwarancji oraz wartość umorzonych jednostek funduszu z tytułu rozwiązania umów ubezpieczenia nieposiadających wartości wykupu.
-III. Objaśnienia do tabeli IV „Zestawienie aktywów netto funduszu półroczne” oraz tabeli V „Zestawienie aktywów netto funduszu roczne”
+III. Objaśnienia do tabeli IV „Zestawienie aktywów netto funduszu – półroczne” oraz tabeli V „Zestawienie aktywów netto funduszu – roczne”
 1. Wartość wykazana w tabelach IV i V w pozycji I.1. „papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa lub organizacje międzynarodowe, których członkiem jest Rzeczpospolita Polska” w kolumnie „Wartość bilansowa (w zł)” powinna być zgodna z sumą wartości wykazanych w następujących pozycjach z rodzaju aktywów i zobowiązań „Dłużne papiery wartościowe i inne papiery wartościowe o stałej kwocie dochodu” z kategorii aktywów i zobowiązań „Inne lokaty finansowe” w kolumnie G „Wartość bilansowa” formularza nr 10 „Aktywa netto ubezpieczeniowych funduszy kapitałowych” załącznika nr 1 do rozporządzenia z dnia 29 kwietnia 2016 r.: ▪ „Papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa lub organizacje międzynarodowe, których członkiem jest Rzeczpospolita Polska ‒ obligacje”, ▪ „Papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa lub organizacje międzynarodowe, których członkiem jest Rzeczpospolita Polska ‒ bony skarbowe”, ▪ „Papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa lub organizacje międzynarodowe, których członkiem jest Rzeczpospolita Polska ‒ inne”.
 2. Wartość wykazana w tabelach IV i V w pozycji I.2. „obligacje emitowane lub poręczone przez jednostki samorządu terytorialnego lub związki jednostek samorządu terytorialnego” w kolumnie „Wartość bilansowa (w zł)” powinna być zgodna z wartością wykazaną w pozycji „Obligacje emitowane lub poręczone przez jednostki samorządu terytorialnego lub związki jednostek samorządu terytorialnego” z rodzaju aktywów i zobowiązań „Dłużne papiery wartościowe i inne papiery wartościowe o stałej kwocie dochodu” z kategorii aktywów i zobowiązań „Inne lokaty finansowe” w kolumnie G „Wartość bilansowa” formularza nr 10 „Aktywa netto ubezpieczeniowych funduszy kapitałowych” załącznika nr 1 do rozporządzenia z dnia 29 kwietnia 2016 r.
-3. Wartość wykazana w tabelach IV i V w pozycji I.3. „inne dłużne papiery wartościowe o stałej stopie dochodu” w kolumnie „Wartość bilansowa (w zł)” powinna być zgodna z sumą wartości wykazanych w pozycjach „Inne dłużne papiery o stałej stopie dochodu notowane na rynku regulowanym” i „Inne dłużne papiery o stałej stopie dochodu pozostałe” z rodzaju aktywów i zobowiązań „Dłużne papiery wartościowe i inne papiery wartościowe o stałej kwocie dochodu” z kategorii aktywów i zobowiązań „Inne lokaty finansowe” w kolumnie G „Wartość bilansowa” formularza nr 10 „Aktywa netto ubezpieczeniowych funduszy kapitałowych” załącznika nr 1 do rozporządzenia z dnia 29 kwietnia 2016 r.
+3. Wartość wykazana w tabelach IV i V w pozycji I.3. „inne dłużne papiery wartościowe o stałej stopie dochodu” w kolumnie „Wartość bilansowa (w zł)” powinna być zgodna z sumą wartości wykazanych w pozycjach „Inne dłużne papiery o stałej stopie dochodu – notowane na rynku regulowanym” i „Inne dłużne papiery o stałej stopie dochodu – pozostałe” z rodzaju aktywów i zobowiązań „Dłużne papiery wartościowe i inne papiery wartościowe o stałej kwocie dochodu” z kategorii aktywów i zobowiązań „Inne lokaty finansowe” w kolumnie G „Wartość bilansowa” formularza nr 10 „Aktywa netto ubezpieczeniowych funduszy kapitałowych” załącznika nr 1 do rozporządzenia z dnia 29 kwietnia 2016 r.
 4. Suma wartości wykazanych w tabelach IV i V w pozycjach I.4. „akcje” i I.5. „udziały” w kolumnie „Wartość bilansowa (w zł)” powinna być zgodna z wartością wykazaną dla rodzaju aktywów i zobowiązań „Akcje i udziały” z kategorii aktywów i zobowiązań „Inne lokaty finansowe” w kolumnie G „Wartość bilansowa” formularza nr 10 „Aktywa netto ubezpieczeniowych funduszy kapitałowych” załącznika nr 1 do rozporządzenia z dnia 29 kwietnia 2016 r.
 5. Wartość wykazana w tabelach IV i V w pozycji I.6. „jednostki uczestnictwa i certyfikaty inwestycyjne w funduszach inwestycyjnych” w kolumnie „Wartość bilansowa (w zł)” powinna być zgodna z wartością wykazaną dla rodzaju aktywów i zobowiązań „Jednostki uczestnictwa i certyfikaty inwestycyjne w funduszach inwestycyjnych” z kategorii aktywów i zobowiązań „Inne lokaty finansowe” w kolumnie G „Wartość bilansowa” formularza nr 10 „Aktywa netto ubezpieczeniowych funduszy kapitałowych” załącznika nr 1 do rozporządzenia z dnia 29 kwietnia 2016 r.
 6. Wartość wykazana w tabelach IV i V w pozycji I.7. „instrumenty pochodne” w kolumnie „Wartość bilansowa (w zł)” powinna być zgodna z wartością wykazaną dla rodzaju aktywów i zobowiązań „Instrumenty pochodne” z kategorii aktywów i zobowiązań „Inne lokaty finansowe” w kolumnie G „Wartość bilansowa” formularza nr 10 „Aktywa netto ubezpieczeniowych funduszy kapitałowych” załącznika nr 1 do rozporządzenia z dnia 29 kwietnia 2016 r.

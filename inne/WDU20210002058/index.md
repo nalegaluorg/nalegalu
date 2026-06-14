@@ -8,10 +8,10 @@ pos: 2058
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 listopada 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2058 ROZPORZĄDZENIE KRAJOWEJ RADY RADIOFONII I TELEWIZJI z dnia 21 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2058/text.pdf) |
 
-Poz. 2058 ROZPORZĄDZENIE KRAJOWEJ RADY RADIOFONII I TELEWIZJI z dnia 21 października 2021 r.
-w sprawie prowadzenia ewidencji czasu nadawania audycji wytworzonych pierwotnie w języku polskim i audycji europejskich Na podstawie art. 15a ust. 6 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805 oraz z 2021 r. poz. 1676) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie prowadzenia ewidencji czasu nadawania audycji wytworzonych pierwotnie w języku polskim i audycji europejskich Na podstawie art. 15a ust. 6 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805 oraz z 2021 r. poz. 1676) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób prowadzenia przez nadawców programów telewizyjnych ewidencji:
 a) czasu nadawania audycji wytworzonych pierwotnie w języku polskim, o których mowa w art. 15 ust. 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji, zwanej dalej „ustawą”,
 b) czasu nadawania audycji europejskich, o których mowa w art. 15 ust. 3 ustawy,
@@ -39,5 +39,6 @@ d) czasu nadawania audycji europejskich wytworzonych przez producentów niezale�
 3. Nadawca, podając w ewidencji rzeczywisty czas trwania audycji, wskazuje czas od rozpoczęcia do zakończenia rozpowszechniania audycji, z wyłączeniem czasu nadanych w trakcie audycji przekazów niebędących częścią tej audycji.
 § 3. Ewidencja jest przechowywana przez okres 2 lat.
 § 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski
+Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski Załącznik nr 2 WZÓR WZÓR Ewidencja łącznego czasu nadawania audycji wytworzonych pierwotnie w języku polskim oraz audycji europejskich, o których mowa w art. 15 ust. 3 i art. 15a ust. 1 i 2 ustawy z dnia 29 grudnia 1992 r.
+o radiofonii i telewizji Nadawca Nazwa programu Okres sprawozdawczy (nr kwartału, rok) Udział w kwartalnym Łączny czas czasie nadawania Wyszczególnienie (gg:mm:ss) programu (%) Kwartalny czas nadawania programu obliczony zgodnie z art. 15 ust. 1 i 3 oraz art. 15a ust. 1 i 2 ustawy o radiofonii 00:00:00 i telewizji Audycje europejskie 00:00:00 0,0% Audycje wytworzone pierwotnie w języku polskim 00:00:00 0,0% Audycje europejskie wytworzone przez producentów 00:00:00 0,0% niezależnych Audycje europejskie wytworzone przez producentów niezależnych w okresie 5 lat przed rozpowszechnieniem 00:00:00 0,0% w programie
 

@@ -8,10 +8,10 @@ pos: 2804
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22880044 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 13 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,49 +25,50 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-02-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002804) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2804/text.pdf) |
 
-22880044 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 13 grudnia 2022 r.
 w sprawie szczególnych zasad rachunkowości oraz sprawozdań z działalności Ubezpieczeniowego Funduszu Gwarancyjnego Na podstawie art. 119 ust. 4 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2022 r. poz. 2277 i 2640) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczególne zasady rachunkowości Ubezpieczeniowego Funduszu Gwarancyjnego, w tym zakres informacji wykazywanych w informacji dodatkowej;
 2) szczegółowe warunki i tryb składania:
 a) rocznego sprawozdania z działalności, o którym mowa w art. 119 ust. 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, zwanej dalej „ustawą”,
-b) kwartalnych sprawozdań z działalności, o których mowa w art. 98 ust. 5 ustawy w tym terminy ich składania oraz niezbędne dane, jakie powinny zawierać te sprawozdania.
+b) kwartalnych sprawozdań z działalności, o których mowa w art. 98 ust. 5 ustawy – w tym terminy ich składania oraz niezbędne dane, jakie powinny zawierać te sprawozdania.
 § 2. Określenia użyte w rozporządzeniu oznaczają:
-1) Deweloperski Fundusz Gwarancyjny wyodrębniony rachunek w Ubezpieczeniowym Funduszu Gwarancyjnym, o którym mowa w art. 46 ust. 1 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. poz. 1177), zwanej dalej „ustawą o Deweloperskim Funduszu Gwarancyjnym”;
-2) Fundusz Ubezpieczeniowy Fundusz Gwarancyjny;
-3) fundusz pomocowy fundusz tworzony w celu zapewnienia środków na finansowanie zadań Funduszu związanych z udzielaniem zwrotnej pomocy finansowej zakładowi ubezpieczeń, o której mowa w art. 99 ust. 1 ustawy, tworzony w szczególności ze środków wpłacanych przez członków Funduszu, o których mowa w art. 97 ust. 1 i 2 ustawy;
-4) fundusz statutowy fundusz tworzony z aktywów netto Funduszu z wyłączeniem funduszu pomocowego i funduszy wyodrębnionych; fundusz statutowy jest korygowany o kwoty wynikające z rozliczenia wyniku finansowego Funduszu;
-5) fundusz wyodrębniony wyodrębniony rachunek tworzony w Funduszu na podstawie:
+1) Deweloperski Fundusz Gwarancyjny – wyodrębniony rachunek w Ubezpieczeniowym Funduszu Gwarancyjnym, o którym mowa w art. 46 ust. 1 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. poz. 1177), zwanej dalej „ustawą o Deweloperskim Funduszu Gwarancyjnym”;
+2) Fundusz – Ubezpieczeniowy Fundusz Gwarancyjny;
+3) fundusz pomocowy – fundusz tworzony w celu zapewnienia środków na finansowanie zadań Funduszu związanych z udzielaniem zwrotnej pomocy finansowej zakładowi ubezpieczeń, o której mowa w art. 99 ust. 1 ustawy, tworzony w szczególności ze środków wpłacanych przez członków Funduszu, o których mowa w art. 97 ust. 1 i 2 ustawy;
+4) fundusz statutowy – fundusz tworzony z aktywów netto Funduszu z wyłączeniem funduszu pomocowego i funduszy wyodrębnionych; fundusz statutowy jest korygowany o kwoty wynikające z rozliczenia wyniku finansowego Funduszu;
+5) fundusz wyodrębniony – wyodrębniony rachunek tworzony w Funduszu na podstawie:
 a) ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U.
 z 2022 r. poz. 511 i 2185), zwanej dalej „ustawą o imprezach turystycznych i powiązanych usługach turystycznych”,
 b) ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U.
 z 2021 r. poz. 2095, z późn, zm. ), zwanej dalej „ustawą COVID-19”,
 c) ustawy o Deweloperskim Funduszu Gwarancyjnym;
-6) koszty informatycznej bazy danych koszty związane bezpośrednio z realizacją zadań określonych w art. 102a ust. 1 ustawy, obejmujące w szczególności koszty wynagrodzeń pracowników bezpośrednio zajmujących się obsługą bazy wraz z narzutami, koszty związane z rozwojem i utrzymaniem bazy w szczególności amortyzację, koszty utrzymania systemów informatycznych, koszty usług doradczych, prawnych oraz audytu bezpieczeństwa informacji;
-7) koszty likwidacji szkód koszty związane bezpośrednio z wykonywaniem czynności, o których mowa w art. 4 ust. 7 pkt 3, ust. 8 pkt 2 i 3 oraz ust. 9 pkt 1 i 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2022 r. poz. 2283 i 2640), zwanej dalej „ustawą o działalności ubezpieczeniowej i reasekuracyjnej”, obejmujące w szczególności koszty usług obcych, w tym wynagrodzenia zakładów ubezpieczeń z tytułu likwidacji szkód, koszty opinii i ekspertyz dotyczących oceny szkody, usług prawnych, obsługi likwidacji szkody i wypłaty odszkodowania oraz koszty postępowań sądowych i egzekucyjnych dotyczących spraw spornych;
-8) koszty ośrodka informacji koszty związane bezpośrednio z realizacją zadań Funduszu, o których mowa w art. 102 ust. 2–4, art. 103 ust. 1 i art. 104 ust. 1–5 ustawy, obejmujące koszty bezpośrednie wynagrodzeń pracowników zajmujących się obsługą ośrodka informacji, wraz z narzutami, koszty związane z rozwojem i utrzymaniem systemów informatycznych ośrodka informacji w szczególności amortyzację, koszty utrzymania systemów informatycznych oraz koszty usług doradczych, prawnych i usługi audytu bezpieczeństwa informacji;
-9) koszty windykacji opłat koszty związane bezpośrednio z dochodzeniem opłat, o których mowa w art. 88 ust. 7 ustawy, obejmujące w szczególności koszty postępowań sądowych i egzekucyjnych oraz koszty usług pocztowych i bankowych;
-10) koszty windykacji regresów koszty związane bezpośrednio z prowadzeniem postępowań regresowych obejmujące w szczególności koszty postępowań sądowych i egzekucyjnych oraz koszty usług pocztowych i bankowych;
-11) opłata opłatę, o której mowa w art. 88 ust. 1 ustawy, wnoszoną na rzecz Funduszu z tytułu niespełnienia obowiązku zawarcia umowy ubezpieczenia obowiązkowego, z uwzględnieniem gradacji w zakresie określonym w art. 88 ust. 3 ustawy;
-12) organ nadzoru Komisję Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2022 r. poz. 660, z późn. zm. );
-13) regres roszczenie wobec osoby zobowiązanej do zwrotu wypłaconego przez Fundusz odszkodowania lub świadczenia, powiększone o koszty likwidacji szkody, z wyłączeniem zwrotów od syndyków oraz kwot, o których mowa w art. 14 ust. 4a i art. 98 ust. 4 ustawy, zaliczanych do zwrotów odszkodowań;
-14) rezerwy ubezpieczeniowe rezerwy tworzone przez Fundusz na pokrycie szacowanych zobowiązań Funduszu wynikających:
+6) koszty informatycznej bazy danych – koszty związane bezpośrednio z realizacją zadań określonych w art. 102a ust. 1 ustawy, obejmujące w szczególności koszty wynagrodzeń pracowników bezpośrednio zajmujących się obsługą bazy wraz z narzutami, koszty związane z rozwojem i utrzymaniem bazy – w szczególności amortyzację, koszty utrzymania systemów informatycznych, koszty usług doradczych, prawnych oraz audytu bezpieczeństwa informacji;
+7) koszty likwidacji szkód – koszty związane bezpośrednio z wykonywaniem czynności, o których mowa w art. 4 ust. 7 pkt 3, ust. 8 pkt 2 i 3 oraz ust. 9 pkt 1 i 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2022 r. poz. 2283 i 2640), zwanej dalej „ustawą o działalności ubezpieczeniowej i reasekuracyjnej”, obejmujące w szczególności koszty usług obcych, w tym wynagrodzenia zakładów ubezpieczeń z tytułu likwidacji szkód, koszty opinii i ekspertyz dotyczących oceny szkody, usług prawnych, obsługi likwidacji szkody i wypłaty odszkodowania oraz koszty postępowań sądowych i egzekucyjnych dotyczących spraw spornych;
+8) koszty ośrodka informacji – koszty związane bezpośrednio z realizacją zadań Funduszu, o których mowa w art. 102 ust. 2–4, art. 103 ust. 1 i art. 104 ust. 1–5 ustawy, obejmujące koszty bezpośrednie wynagrodzeń pracowników zajmujących się obsługą ośrodka informacji, wraz z narzutami, koszty związane z rozwojem i utrzymaniem systemów informatycznych ośrodka informacji – w szczególności amortyzację, koszty utrzymania systemów informatycznych oraz koszty usług doradczych, prawnych i usługi audytu bezpieczeństwa informacji;
+9) koszty windykacji opłat – koszty związane bezpośrednio z dochodzeniem opłat, o których mowa w art. 88 ust. 7 ustawy, obejmujące w szczególności koszty postępowań sądowych i egzekucyjnych oraz koszty usług pocztowych i bankowych;
+10) koszty windykacji regresów – koszty związane bezpośrednio z prowadzeniem postępowań regresowych obejmujące w szczególności koszty postępowań sądowych i egzekucyjnych oraz koszty usług pocztowych i bankowych;
+11) opłata – opłatę, o której mowa w art. 88 ust. 1 ustawy, wnoszoną na rzecz Funduszu z tytułu niespełnienia obowiązku zawarcia umowy ubezpieczenia obowiązkowego, z uwzględnieniem gradacji w zakresie określonym w art. 88 ust. 3 ustawy;
+12) organ nadzoru – Komisję Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2022 r. poz. 660, z późn. zm. );
+13) regres – roszczenie wobec osoby zobowiązanej do zwrotu wypłaconego przez Fundusz odszkodowania lub świadczenia, powiększone o koszty likwidacji szkody, z wyłączeniem zwrotów od syndyków oraz kwot, o których mowa w art. 14 ust. 4a i art. 98 ust. 4 ustawy, zaliczanych do zwrotów odszkodowań;
+14) rezerwy ubezpieczeniowe – rezerwy tworzone przez Fundusz na pokrycie szacowanych zobowiązań Funduszu wynikających:
 a) ze szkód z tytułu ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 1 i 2 ustawy, dla których ustalono odpowiedzialność Funduszu, obejmujących szkody zaistniałe i zgłoszone do Funduszu, a niezlikwidowane do dnia bilansowego, uwzględniające szacowaną wartość zwrotów odszkodowań, regresów oraz szacowane koszty likwidacji szkód, stanowiące rezerwy na szkody zgłoszone do Funduszu,
 b) ze szkód z tytułu ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 1 i 2 ustawy, obejmujących szkody zaistniałe i niezgłoszone do Funduszu do dnia bilansowego, uwzględniające szacowaną wartość zwrotów odszkodowań, regresów oraz szacowane koszty likwidacji szkód, stanowiące rezerwy na szkody niezgłoszone do Funduszu,
 c) z wierzytelności przejętych przez Fundusz w przypadku upadłości lub likwidacji zakładu ubezpieczeń prowadzącego działalność, o której mowa w dziale I albo II załącznika do ustawy o działalności ubezpieczeniowej i reasekuracyjnej, w postaci rezerw techniczno-ubezpieczeniowych przejętych przez Fundusz w przypadku upadłości lub likwidacji zakładu ubezpieczeń, utworzonych na podstawie ustawy o działalności ubezpieczeniowej i reasekuracyjnej,
 d) z obsługi roszczeń o wypłatę rent na podstawie ustawy z dnia 19 lipca 2019 r. o szczególnych uprawnieniach osób poszkodowanych w przypadku wyczerpania sumy gwarancyjnej ustalonej na podstawie przepisów obowiązujących przed dniem 1 stycznia 2006 r. (Dz. U. poz. 1631), zwanej dalej „ustawą o szczególnych uprawnieniach poszkodowanych w przypadku wyczerpania sumy gwarancyjnej”;
-15) rezerwy na niewypłacone odszkodowania i świadczenia rezerwy, o których mowa w pkt 14 lit. a, b i d;
-16) szczególne roszczenie o świadczenie rentowe roszczenie o wypłatę renty w rozumieniu art. 2 ustawy o szczególnych uprawnieniach osób poszkodowanych w przypadku wyczerpania sumy gwarancyjnej;
-17) Turystyczny Fundusz Gwarancyjny wyodrębniony rachunek w Funduszu, o którym mowa w art. 33 ustawy o imprezach turystycznych i powiązanych usługach turystycznych, zapewniający odrębność jego aktywów i zobowiązań;
-18) Turystyczny Fundusz Pomocowy wyodrębniony rachunek w Funduszu, o którym mowa w art. 15kc ust. 1 ustawy COVID-19;
-19) Turystyczny Fundusz Zwrotów wyodrębniony rachunek w Banku Gospodarstwa Krajowego, o którym mowa w art. 15kb ust. 1 ustawy COVID-19;
-20) udziały, aktywa finansowe, skorygowana cena nabycia, wartość godziwa pojęcia określone odpowiednio w art. 3 ust. 1 pkt 4 i 24, art. 28 ust. 6 i 8a ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106 oraz z 2022 r. poz. 1488), zwanej dalej „ustawą o rachunkowości”;
-21) udzielone pożyczki zwrotną pomoc finansową, o której mowa w art. 99 ust. 1 ustawy, udzieloną przez Fundusz zakładowi ubezpieczeń przejmującemu portfel ubezpieczeń obowiązkowych z funduszu pomocowego.
+872, 1488, 1692, 2185, 2339 i 2640.
+15) rezerwy na niewypłacone odszkodowania i świadczenia – rezerwy, o których mowa w pkt 14 lit. a, b i d;
+16) szczególne roszczenie o świadczenie rentowe – roszczenie o wypłatę renty w rozumieniu art. 2 ustawy o szczególnych uprawnieniach osób poszkodowanych w przypadku wyczerpania sumy gwarancyjnej;
+17) Turystyczny Fundusz Gwarancyjny – wyodrębniony rachunek w Funduszu, o którym mowa w art. 33 ustawy o imprezach turystycznych i powiązanych usługach turystycznych, zapewniający odrębność jego aktywów i zobowiązań;
+18) Turystyczny Fundusz Pomocowy – wyodrębniony rachunek w Funduszu, o którym mowa w art. 15kc ust. 1 ustawy COVID-19;
+19) Turystyczny Fundusz Zwrotów – wyodrębniony rachunek w Banku Gospodarstwa Krajowego, o którym mowa w art. 15kb ust. 1 ustawy COVID-19;
+20) udziały, aktywa finansowe, skorygowana cena nabycia, wartość godziwa – pojęcia określone odpowiednio w art. 3 ust. 1 pkt 4 i 24, art. 28 ust. 6 i 8a ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106 oraz z 2022 r. poz. 1488), zwanej dalej „ustawą o rachunkowości”;
+21) udzielone pożyczki – zwrotną pomoc finansową, o której mowa w art. 99 ust. 1 ustawy, udzieloną przez Fundusz zakładowi ubezpieczeń przejmującemu portfel ubezpieczeń obowiązkowych z funduszu pomocowego.
 § 3. 1. Fundusz prowadzi wyodrębnioną ewidencję:
 1) szkód, dla których ustalono odpowiedzialność Funduszu, oraz odszkodowań wypłaconych zgodnie z art. 98 ust. 1 i 1a ustawy;
 2) szkód, o których mowa w art. 98 ust. 2 ustawy;
 3) regresów;
 4) zwrotów odszkodowań;
-5) wierzytelności Funduszu w przypadku ogłoszenia upadłości lub likwidacji zakładu ubezpieczeń, odrębnie dla każdego zakładu;
+5) wierzytelności Funduszu – w przypadku ogłoszenia upadłości lub likwidacji zakładu ubezpieczeń, odrębnie dla każdego zakładu;
 6) opłat;
 7) udzielonych pożyczek oraz przychodów i kosztów z nimi związanych;
 8) składek należnych od zakładów ubezpieczeń z tytułu ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 1 i 2 ustawy;
@@ -75,10 +76,11 @@ d) z obsługi roszczeń o wypłatę rent na podstawie ustawy z dnia 19 lipca 201
 10) składek na rzecz Funduszu, stanowiących dochód wynikający z art. 117 ust. 2 pkt 3a ustawy;
 11) szczególnych roszczeń o świadczenie rentowe.
 2. Ewidencja, o której mowa w ust. 1:
-1) pkt 1, 2, 4, 5, 7, 8, 10 i 11 jest prowadzona w podziale na zakłady ubezpieczeń;
-2) pkt 1–4 i 11 jest prowadzona indywidualnie dla każdej szkody;
-3) pkt 7 jest prowadzona dla każdego przypadku udzielonej pomocy zwrotnej;
-4) pkt 3 i 6 jest prowadzona indywidualnie dla każdego kontrahenta.
+1) pkt 1, 2, 4, 5, 7, 8, 10 i 11 – jest prowadzona w podziale na zakłady ubezpieczeń;
+2) pkt 1–4 i 11 – jest prowadzona indywidualnie dla każdej szkody;
+3) pkt 7 – jest prowadzona dla każdego przypadku udzielonej pomocy zwrotnej;
+4) pkt 3 i 6 – jest prowadzona indywidualnie dla każdego kontrahenta.
+§ 4. Księgi rachunkowe są prowadzone w siedzibie Funduszu.
 § 5. 1. W księgach rachunkowych są ujmowane osiągnięte przez Fundusz przychody i związane z nimi koszty dotyczące danego roku obrotowego, niezależnie od terminu ich zapłaty.
 2. Przychody obejmują w szczególności przychody ze źródeł określonych w art. 117 ust. 2 ustawy.
 3. W przypadku, o którym mowa w art. 14 ust. 4 oraz w art. 98 ust. 1 i 2 ustawy, odszkodowania są ujmowane jako zobowiązania z chwilą ich zatwierdzenia do wypłaty przez Fundusz.
@@ -148,11 +150,12 @@ Przepis ust. 2 stosuje się odpowiednio.
 2) szkód przejętych przez Fundusz w przypadku upadłości lub likwidacji zakładu ubezpieczeń prowadzącego działalność w zakresie ubezpieczeń obowiązkowych;
 3) szkód przejętych przez Fundusz w przypadku upadłości lub likwidacji zakładu ubezpieczeń prowadzącego działalność, o której mowa w dziale I załącznika do ustawy o działalności ubezpieczeniowej i reasekuracyjnej;
 4) szczególnych roszczeń o świadczenie rentowe.
+§ 18. 1. Fundusz dokonuje klasyfikacji aktywów finansowych i zobowiązań finansowych w dniu ich nabycia według następujących kategorii:
 1) rodzaj lokaty;
 2) źródła pochodzenia: lokaty funduszu statutowego, lokaty funduszu pomocowego oraz lokaty poszczególnych funduszy wyodrębnionych.
 2. Aktywa finansowe i zobowiązania finansowe są ujmowane w księgach rachunkowych bez uwzględnienia kosztów transakcji, które:
-1) obciążają wynik finansowy Funduszu w przypadku funduszy własnych;
-2) pomniejszają dany fundusz w przypadku funduszy wyodrębnionych.
+1) obciążają wynik finansowy Funduszu – w przypadku funduszy własnych;
+2) pomniejszają dany fundusz – w przypadku funduszy wyodrębnionych.
 § 19. 1. Fundusz dokonuje na dzień bilansowy wyceny aktywów finansowych i zobowiązań finansowych według wartości godziwej, z uwzględnieniem ust. 2.
 2. Dłużne papiery wartościowe oraz inne instrumenty finansowe o charakterze dłużnym, jak również udzielone pożyczki, depozyty bankowe oraz zwrotna pomoc finansowa są wyceniane według skorygowanej ceny nabycia, z uwzględnieniem odpisów z tytułu trwałej utraty wartości.
 3. Akcje nienotowane na rynku regulowanym są wyceniane według ceny nabycia z uwzględnieniem trwałej utraty wartości.
@@ -173,6 +176,7 @@ Przepis ust. 2 stosuje się odpowiednio.
 4. Przychody z lokat, o których mowa w ust. 1, odpowiednio zwiększają wartość wyodrębnionego funduszu.
 5. Różnice z tytułu aktualizacji wyceny lokat funduszy wyodrębnionych bezpośrednio korygują te fundusze.
 6. Koszty prowadzenia działalności lokacyjnej funduszy wyodrębnionych pomniejszają odpowiednio te fundusze.
+§ 24. 1. Wynik finansowy Funduszu na dzień bilansowy stanowi różnicę między jego przychodami a kosztami działalności, z uwzględnieniem pozostałych przychodów i kosztów operacyjnych.
 2. W wyniku finansowym Funduszu nie uwzględnia się przychodów i kosztów funduszu pomocowego, z uwzględnieniem § 22 ust. 5 i § 26 ust. 1 pkt 3, oraz funduszy wyodrębnionych, które bezpośrednio korygują dany fundusz.
 § 25. 1. Do celów ewidencyjnych w funduszu pomocowym wyodrębnia się fundusz pomocowy do wykorzystania i fundusz pomocowy wykorzystany.
 2. Udzielone przez Fundusz pożyczki zmniejszają stan funduszu pomocowego do wykorzystania, powiększając jego część wykorzystaną.
@@ -187,6 +191,7 @@ Przepis ust. 2 stosuje się odpowiednio.
 3) kosztów obsługi rachunku funduszu pomocowego.
 § 27. 1. Po zatwierdzeniu rocznego sprawozdania z działalności Funduszu dodatni wynik finansowy w postaci nadwyżki przychodów nad kosztami (nadwyżka bilansowa) powiększa fundusz statutowy. Ujemny wynik finansowy (niedobór bilansowy) jest pokrywany z funduszu statutowego na podstawie uchwały Zgromadzenia Członków Funduszu.
 2. Nadwyżki bilansowe albo niedobory bilansowe do czasu zatwierdzenia sprawozdania są ujmowane jako nierozliczony wynik z lat ubiegłych.
+§ 28. 1. Roczne sprawozdanie z działalności Funduszu obejmuje:
 1) roczne sprawozdanie finansowe Funduszu;
 2) roczną informację dotyczącą działalności Turystycznego Funduszu Gwarancyjnego;
 3) roczną informację dotyczącą działalności Turystycznego Funduszu Pomocowego;
@@ -205,9 +210,11 @@ d) rachunek przepływów pieniężnych Deweloperskiego Funduszu Gwarancyjnego;
 3. Szczegółowy zakres informacji wykazywanych w rocznym sprawozdaniu z działalności Funduszu określa załącznik nr 1 do rozporządzenia.
 4. Objaśnienia do rocznego sprawozdania z działalności Funduszu określa załącznik nr 2 do rozporządzenia.
 § 29. Roczne sprawozdanie z działalności Funduszu po zatwierdzeniu przez Zgromadzenie Członków Funduszu jest przedstawiane ministrowi właściwemu do spraw instytucji finansowych, ministrowi właściwemu do spraw turystyki i organowi nadzoru, w terminie 15 dni od dnia jego zatwierdzenia.
+§ 30. 1. Kwartalne sprawozdanie z działalności Funduszu jest sporządzane za kwartał, w którym nastąpiły wypłaty odszkodowań i świadczeń zakładów ubezpieczeń w upadłości lub w likwidacji.
 2. Sprawozdanie jest sporządzane na koniec kwartału i przedstawiane organowi nadzoru w terminie 60 dni od dnia zakończenia kwartału.
 3. Informacje zawarte w sprawozdaniu są prezentowane narastająco.
 4. Szczegółowy zakres informacji wykazywanych w kwartalnym sprawozdaniu z działalności Funduszu określa załącznik nr 3 do rozporządzenia.
+§ 31. 1. Zdarzenia gospodarcze dotyczące Turystycznego Funduszu Gwarancyjnego są ujmowane odrębnie od operacji Funduszu oraz odrębnie od innych funduszy wyodrębnionych.
 2. Roszczenia i zobowiązania, jak również spłata kredytów i pożyczek udzielonych na rzecz Turystycznego Funduszu Gwarancyjnego, są pokrywane wyłącznie ze środków Turystycznego Funduszu Gwarancyjnego.
 3. Udzielenie zwrotnego finansowania na rzecz Turystycznego Funduszu Pomocowego jest dokonywane wyłącznie ze środków Turystycznego Funduszu Gwarancyjnego.
 § 32. Przychody zasilające Turystyczny Fundusz Gwarancyjny stanowią:
@@ -246,6 +253,7 @@ j) koszty stałe utrzymania Funduszu w części przypadającej na obsługę Tury
 1) składek na rzecz Turystycznego Funduszu Gwarancyjnego wynikających ze złożonych deklaracji w podziale na okresy, których deklaracje dotyczą;
 2) roszczeń o pokrycie kosztów kontynuacji imprezy turystycznej lub kosztów powrotu klientów z imprezy turystycznej;
 3) roszczeń o zwrot wpłat lub części wpłat wniesionych tytułem zapłaty za imprezę turystyczną.
+§ 37. 1. Aktywa i zobowiązania Turystycznego Funduszu Pomocowego są ujmowane w księgach rachunkowych Funduszu oddzielnie od funduszy własnych oraz innych funduszy wyodrębnionych.
 2. Zdarzenia gospodarcze dotyczące Turystycznego Funduszu Pomocowego są ujmowane odrębnie od operacji Funduszu oraz odrębnie od innych funduszy wyodrębnionych.
 3. Roszczenia i zobowiązania, jak również spłata kredytów i pożyczek udzielonych na rzecz Turystycznego Funduszu Pomocowego, są pokrywane wyłącznie ze środków Turystycznego Funduszu Pomocowego.
 § 38. Przychody zasilające Turystyczny Fundusz Pomocowy stanowią:
@@ -277,7 +285,7 @@ i) koszty stałe utrzymania Funduszu w części przypadającej na obsługę Tury
 4) koszty zwrotnego finansowania udzielonego ze środków Turystycznego Funduszu Gwarancyjnego;
 5) koszty odsetek od otrzymanych kredytów i pożyczek;
 6) wpłaty i opłaty zwrócone do organizatora turystyki, o których mowa w art. 15ka ust. 5 ustawy COVID-19, w przypadku negatywnej weryfikacji wniosku lub pozostawienia wniosku bez rozpoznania;
-7) kwoty przekazane na Fundusz Przeciwdziałania COVID-19, o których mowa w art. 15kc ust. 22 ustawy COVID-19, a w przypadku jego likwidacji przekazane bezpośrednio do budżetu państwa;
+7) kwoty przekazane na Fundusz Przeciwdziałania COVID-19, o których mowa w art. 15kc ust. 22 ustawy COVID-19, a w przypadku jego likwidacji – przekazane bezpośrednio do budżetu państwa;
 8) pozostałe koszty.
 § 41. 1. Koszty obsługi Turystycznego Funduszu Pomocowego za dany miesiąc kalendarzowy są ujmowane przez Fundusz na koniec tego miesiąca jako należność od Turystycznego Funduszu Pomocowego.
 2. W rachunku zysków i strat koszty administracyjne Funduszu są prezentowane po pomniejszeniu o ujęte w nich koszty obsługi Turystycznego Funduszu Pomocowego.
@@ -291,6 +299,7 @@ i) koszty stałe utrzymania Funduszu w części przypadającej na obsługę Tury
 2. Udzielone zwrotne finansowanie zwiększa środki pieniężne na rachunku bankowym Turystycznego Funduszu Pomocowego i jednocześnie zmniejsza środki na rachunku bankowym Turystycznego Funduszu Gwarancyjnego.
 3. Naliczone odsetki od zwrotnego finansowania zwiększają zobowiązania Turystycznego Funduszu Pomocowego wobec Turystycznego Funduszu Gwarancyjnego.
 4. Spłata zwrotnego finansowania wraz z odsetkami zmniejsza środki na rachunku Turystycznego Funduszu Pomocowego i jednocześnie zwiększa środki na rachunku Turystycznego Funduszu Gwarancyjnego.
+§ 44. 1. Fundusz zapewnia obsługę Turystycznego Funduszu Zwrotów w zakresie realizowanych wypłat dla podróżnych z wyodrębnionego rachunku w Banku Gospodarstwa Krajowego.
 2. Fundusz realizuje wypłaty, o których mowa w ust. 1, na podstawie składanych przez podróżnych za pośrednictwem systemu teleinformatycznego wniosków, o których mowa w art. 15ka ust. 10 ustawy COVID-19.
 3. Wypłaty, o których mowa w ust. 1, podlegają ewidencji wyłącznie w rejestrze wypłat, o którym mowa w § 46, z którego informacje są przekazywane bezpośrednio do Banku Gospodarstwa Krajowego.
 4. Wypłaty, o których mowa w ust. 1, są realizowane nie wcześniej niż przed uzyskaniem od organizatora turystyki wpłat i opłat na rzecz Turystycznego Funduszu Pomocowego, o których mowa w art. 15ka ust. 4 ustawy COVID-19.
@@ -315,11 +324,12 @@ g) pozostałe koszty.
 § 46. 1. Fundusz prowadzi rejestr wypłat z Turystycznego Funduszu Zwrotów na rzecz podróżnych, o których mowa w art. 15ka ust. 1 ustawy COVID-19.
 2. Wypłaty, o których mowa w ust. 1, są rejestrowane indywidualnie dla każdego podróżnego na podstawie złożonego przez niego wniosku.
 3. Rejestr wypłat, o którym mowa w ust. 1, jest prowadzony w podziale na organizatorów turystyki.
+§ 47. 1. Aktywa i zobowiązania Deweloperskiego Funduszu Gwarancyjnego są ujmowane w księgach rachunkowych Funduszu oddzielnie od funduszy własnych oraz innych funduszy wyodrębnionych.
 2. Zdarzenia gospodarcze dotyczące Deweloperskiego Funduszu Gwarancyjnego są ujmowane odrębnie od operacji Funduszu oraz odrębnie od innych funduszy wyodrębnionych.
 3. Roszczenia i zobowiązania, jak również spłata zwrotnego finansowania udzielonego przez Fundusz oraz kredytów i pożyczek udzielonych na rzecz Deweloperskiego Funduszu Gwarancyjnego, są pokrywane wyłącznie ze środków Deweloperskiego Funduszu Gwarancyjnego.
 § 48. Przychody zasilające Deweloperski Fundusz Gwarancyjny stanowią:
 1) składki należne od deweloperów odprowadzane zgodnie z art. 49 ustawy o Deweloperskim Funduszu Gwarancyjnym;
-2) odsetki od środków pieniężnych gromadzonych na rachunku bankowym Deweloperskiego Funduszu Gwarancyjnego
+2) odsetki od środków pieniężnych gromadzonych na rachunku bankowym Deweloperskiego Funduszu Gwarancyjnego oraz przychody z lokat środków Deweloperskiego Funduszu Gwarancyjnego;
 3) uzyskane kwoty roszczeń, o których mowa w art. 48 ust. 8 ustawy o Deweloperskim Funduszu Gwarancyjnym;
 4) wpływy z tytułu zaspokojenia się z masy upadłościowej w przypadku upadłości dewelopera;
 5) środki uzyskane przez Fundusz z pożyczek i kredytów na rzecz Deweloperskiego Funduszu Gwarancyjnego;
@@ -351,15 +361,16 @@ j) koszty stałe utrzymania Funduszu w części przypadającej na obsługę Dewe
 1) składek należnych od deweloperów odprowadzanych zgodnie z art. 49 ustawy o Deweloperskim Funduszu Gwarancyjnym;
 2) zgłoszonych wniosków nabywców o wypłatę środków z Deweloperskiego Funduszu Gwarancyjnego;
 3) roszczeń Deweloperskiego Funduszu Gwarancyjnego wynikających ze zwrotu nabywcom wpłat lub kwot, o których mowa w art. 48 ust. 1 lub 2 ustawy o Deweloperskim Funduszu Gwarancyjnym.
+§ 53. Przepisy rozporządzenia stosuje się po raz pierwszy do sprawozdania z działalności Funduszu sporządzanego za IV kwartał 2022 r.
 § 54. Szacowane kwoty zobowiązań z tytułu szczególnych roszczeń o świadczenie rentowe są ujmowane w postaci rezerwy na niewypłacone odszkodowania i świadczenia, w formie rezerwy na skapitalizowaną wartość rent, na dzień:
-1) 31 grudnia 2019 r. i na koniec pierwszego, drugiego oraz trzeciego kwartału 2020 r. w wysokości odpowiadającej 20%,
-2) 31 grudnia 2020 r. i na koniec pierwszego, drugiego oraz trzeciego kwartału 2021 r. w wysokości odpowiadającej 40%,
-3) 31 grudnia 2021 r. i na koniec pierwszego, drugiego oraz trzeciego kwartału 2022 r. w wysokości odpowiadającej 60%,
-4) 31 grudnia 2022 r. i na koniec pierwszego, drugiego oraz trzeciego kwartału 2023 r. w wysokości odpowiadającej 80% oszacowanej wartości przyszłych wypłat z tytułu szczególnych roszczeń o świadczenie rentowe.
+1) 31 grudnia 2019 r. i na koniec pierwszego, drugiego oraz trzeciego kwartału 2020 r. – w wysokości odpowiadającej 20%,
+2) 31 grudnia 2020 r. i na koniec pierwszego, drugiego oraz trzeciego kwartału 2021 r. – w wysokości odpowiadającej 40%,
+3) 31 grudnia 2021 r. i na koniec pierwszego, drugiego oraz trzeciego kwartału 2022 r. – w wysokości odpowiadającej 60%,
+4) 31 grudnia 2022 r. i na koniec pierwszego, drugiego oraz trzeciego kwartału 2023 r. – w wysokości odpowiadającej 80% – oszacowanej wartości przyszłych wypłat z tytułu szczególnych roszczeń o świadczenie rentowe.
 § 55. Traci moc rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 16 marca 2021 r. w sprawie szczególnych zasad rachunkowości oraz sprawozdań z działalności Ubezpieczeniowego Funduszu Gwarancyjnego (Dz. U.
 poz. 588).
 § 56. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Finansów z dnia 13 grudnia 2022 r. (Dz. U. poz. .......) Załącznik nr 1 SZCZEGÓŁOWY ZAKRES INFORMACJI WYKAZYWANYCH W ROCZNYM SPRAWOZDANIU Z DZIAŁALNOŚCI FUNDUSZU I. Roczne sprawozdanie finansowe Funduszu
+Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Finansów z dnia 13 grudnia 2022 r. (Dz. U. poz. .......) Załącznik nr 1 SZCZEGÓŁOWY SZCZEGÓŁOWY ZAKRES ZAKRES INFORMACJI INFORMACJI WYKAZYWANYCH WYKAZYWANYCH W W ROCZNYM ROCZNYM SPRAWOZDANIU SPRAWOZDANIU Z Z DZIAŁALNOŚCI DZIAŁALNOŚCI FUNDUSZU FUNDUSZU I. Roczne sprawozdanie finansowe Funduszu
 1. Wprowadzenie do rocznego sprawozdania Funduszu Zakres danych zawartych we wprowadzeniu do rocznego sprawozdania Funduszu obejmuje w szczególności:
 1) nazwę i siedzibę Funduszu oraz podstawę prawną prowadzenia działalności;
 2) informację, czy sprawozdanie zostało sporządzone przy założeniu kontynuowania przez Fundusz działalności w dającej się przewidzieć przyszłości oraz czy nie istnieją okoliczności wskazujące na zagrożenie jej kontynuowania;
@@ -390,7 +401,7 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 5. Należności z tytułu rozliczeń wewnętrznych pomiędzy Funduszem a funduszami wyodrębnionymi
 6. Pozostałe należności z tytułu prowadzonej działalności statutowej
 7. Należności publicznoprawne
-8. Pozostałe należności SZCZEGÓŁOWY ZAKRES INFORMACJI WYKAZYWANYCH W ROCZNYM SPRAWOZDANIU Z DZIAŁALNOŚCI FUNDUSZU E. Rzeczowe składniki aktywów F. Krótkoterminowe aktywa finansowe
+8. Pozostałe należności E. Rzeczowe składniki aktywów F. Krótkoterminowe aktywa finansowe
 1. Środki pieniężne:
 1.1. funduszy wyodrębnionych
 1.2. pozostałe
@@ -446,7 +457,7 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 4. Koszty windykacji regresów i opłat
 5. Koszty ośrodka informacji
 6. Koszty informatycznej bazy danych
-7. Pozostałe koszty działalności statutowej C. Wynik z działalności statutowej (A B) D. Koszty administracyjne działalności Funduszu
+7. Pozostałe koszty działalności statutowej C. Wynik z działalności statutowej (A – B) D. Koszty administracyjne działalności Funduszu
 1. Amortyzacja
 2. Zużycie materiałów i energii
 3. Usługi obce
@@ -478,7 +489,7 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 5. Wydatki na obsługę informatycznej bazy danych
 6. Wydatki na administrację Funduszu
 7. Wydatki na obsługę wyodrębnionych funduszy
-8. Pozostałe wydatki na działalność statutową A.3. Przepływy netto z działalności statutowej Funduszu (A.1 A.2) B. Przepływy z działalności inwestycyjnej Funduszu B.1. Wpływy z działalności inwestycyjnej Funduszu
+8. Pozostałe wydatki na działalność statutową A.3. Przepływy netto z działalności statutowej Funduszu (A.1 – A.2) B. Przepływy z działalności inwestycyjnej Funduszu B.1. Wpływy z działalności inwestycyjnej Funduszu
 1. Wpływy ze sprzedaży rzeczowych składników majątku oraz wartości niematerialnych i prawnych
 2. Wpływy z odsetek lokat funduszu statutowego
 3. Wpływy ze sprzedaży lokat funduszu statutowego
@@ -494,11 +505,11 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 4. Pozostałe wydatki na lokaty funduszu statutowego
 5. Pożyczki udzielone z funduszu pomocowego
 6. Wydatki na nabycie lokat funduszu pomocowego
-7. Pozostałe wydatki na lokaty funduszu pomocowego B.3. Przepływy netto z działalności inwestycyjnej Funduszu (B.1 B.2) C. Przepływy z działalności finansowej Funduszu C.1. Wpływy z działalności finansowej Funduszu
+7. Pozostałe wydatki na lokaty funduszu pomocowego B.3. Przepływy netto z działalności inwestycyjnej Funduszu (B.1 – B.2) C. Przepływy z działalności finansowej Funduszu C.1. Wpływy z działalności finansowej Funduszu
 1. Wpływy ze składek przeznaczonych na fundusz pomocowy
 2. Pozostałe wpływy z działalności finansowej C.2. Wydatki z działalności finansowej Funduszu
 1. Zwrócone składki z funduszu pomocowego
-2. Pozostałe wydatki na działalność finansową C.3. Przepływy netto z działalności finansowej (C.1 C.2) D. Przepływy pieniężne netto (A.3 + B.3 + C.3) E. Bilansowa zmiana stanu środków pieniężnych Funduszu, w tym: zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne Funduszu na początek okresu G. Środki pieniężne Funduszu na koniec okresu, w tym: o ograniczonej możliwości dysponowania
+2. Pozostałe wydatki na działalność finansową C.3. Przepływy netto z działalności finansowej (C.1 – C.2) D. Przepływy pieniężne netto (A.3 + B.3 + C.3) E. Bilansowa zmiana stanu środków pieniężnych Funduszu, w tym: – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne Funduszu na początek okresu G. Środki pieniężne Funduszu na koniec okresu, w tym: – o ograniczonej możliwości dysponowania
 5. Rachunek przepływów pieniężnych Turystycznego Funduszu Gwarancyjnego A. Przepływy netto z działalności operacyjnej Turystycznego Funduszu Gwarancyjnego A.1. Wpływy z działalności operacyjnej Turystycznego Funduszu Gwarancyjnego
 1. Składki przedsiębiorców na rzecz Turystycznego Funduszu Gwarancyjnego
 2. Kwoty przekazane przez marszałka województwa tytułem zwrotu niewykorzystanych środków na pokrycie kosztów kontynuacji imprezy turystycznej lub kosztów powrotu klientów z imprezy turystycznej
@@ -508,7 +519,7 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 1. Wydatki na pokrycie kosztów kontynuacji imprezy turystycznej lub kosztów powrotu klientów z imprezy turystycznej
 2. Zwroty wpłat lub części wpłat wniesionych przez klientów tytułem zapłaty za imprezę turystyczną
 3. Wydatki na pokrycie kosztów obsługi Turystycznego Funduszu Gwarancyjnego przez Fundusz
-4. Pozostałe wydatki na działalność operacyjną A.3. Przepływy netto z działalności operacyjnej Turystycznego Funduszu Gwarancyjnego (A.1 A.2) B. Przepływy z działalności inwestycyjnej Turystycznego Funduszu Gwarancyjnego B.1. Wpływy z działalności inwestycyjnej Turystycznego Funduszu Gwarancyjnego
+4. Pozostałe wydatki na działalność operacyjną A.3. Przepływy netto z działalności operacyjnej Turystycznego Funduszu Gwarancyjnego (A.1 – A.2) B. Przepływy z działalności inwestycyjnej Turystycznego Funduszu Gwarancyjnego B.1. Wpływy z działalności inwestycyjnej Turystycznego Funduszu Gwarancyjnego
 1. Otrzymane odsetki od lokat nabytych ze środków Turystycznego Funduszu Gwarancyjnego
 2. Otrzymane odsetki od zwrotnej pomocy finansowej udzielonej Turystycznemu Funduszowi Pomocowemu
 3. Kwoty otrzymane tytułem spłaty zwrotnej pomocy finansowej udzielonej Turystycznemu Funduszowi Pomocowemu
@@ -516,7 +527,7 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 5. Pozostałe wpływy z działalności inwestycyjnej środków Turystycznego Funduszu Gwarancyjnego B.2. Wydatki z działalności inwestycyjnej Turystycznego Funduszu Gwarancyjnego
 1. Wydatki na nabycie lokat ze środków Turystycznego Funduszu Gwarancyjnego
 2. Kwoty przekazane tytułem udzielonej Turystycznemu Funduszowi Pomocowemu zwrotnej pomocy finansowej ze środków Turystycznego Funduszu Gwarancyjnego
-3. Pozostałe wydatki z działalności inwestycyjnej Turystycznego Funduszu Gwarancyjnego B.3. Przepływy netto z działalności inwestycyjnej Turystycznego Funduszu Gwarancyjnego (B.1 B.2) C. Przepływy z działalności finansowej Turystycznego Funduszu Gwarancyjnego C.1. Wpływy z działalności finansowej Turystycznego Funduszu Gwarancyjnego
+3. Pozostałe wydatki z działalności inwestycyjnej Turystycznego Funduszu Gwarancyjnego B.3. Przepływy netto z działalności inwestycyjnej Turystycznego Funduszu Gwarancyjnego (B.1 – B.2) C. Przepływy z działalności finansowej Turystycznego Funduszu Gwarancyjnego C.1. Wpływy z działalności finansowej Turystycznego Funduszu Gwarancyjnego
 1. Środki uzyskane z pożyczek i kredytów udzielonych na rzecz Turystycznego Funduszu Gwarancyjnego
 2. Środki uzyskane z tytułu zwrotnego finansowania udzielonego przez Fundusz
 3. Pozostałe wpływy z działalności finansowej C.2. Wydatki z działalności finansowej Turystycznego Funduszu Gwarancyjnego
@@ -524,7 +535,7 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 2. Zapłacone odsetki od pożyczek i kredytów udzielonych na rzecz Turystycznego Funduszu Gwarancyjnego
 3. Spłata zwrotnego finansowania udzielonego przez Fundusz
 4. Zapłacone odsetki od zwrotnego finansowania udzielonego przez Fundusz
-5. Pozostałe wydatki na działalność finansową C.3. Przepływy netto z działalności finansowej Turystycznego Funduszu Gwarancyjnego (C.1 C.2) D. Przepływy pieniężne netto Turystycznego Funduszu Gwarancyjnego (A.3 + B.3 + C.3) E. Bilansowa zmiana stanu środków pieniężnych na Turystycznym Funduszu Gwarancyjnym, w tym: zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na Turystycznym Funduszu Gwarancyjnym na początek okresu G. Środki pieniężne na Turystycznym Funduszu Gwarancyjnym na koniec okresu, w tym: o ograniczonej możliwości dysponowania
+5. Pozostałe wydatki na działalność finansową C.3. Przepływy netto z działalności finansowej Turystycznego Funduszu Gwarancyjnego (C.1 – C.2) D. Przepływy pieniężne netto Turystycznego Funduszu Gwarancyjnego (A.3 + B.3 + C.3) E. Bilansowa zmiana stanu środków pieniężnych na Turystycznym Funduszu Gwarancyjnym, w tym: – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na Turystycznym Funduszu Gwarancyjnym na początek okresu G. Środki pieniężne na Turystycznym Funduszu Gwarancyjnym na koniec okresu, w tym: – o ograniczonej możliwości dysponowania
 6. Rachunek przepływów pieniężnych Turystycznego Funduszu Pomocowego A. Przepływy netto z działalności operacyjnej Turystycznego Funduszu Pomocowego A.1. Wpływy z działalności operacyjnej Turystycznego Funduszu Pomocowego
 1. Wniesione wpłaty organizatorów turystyki
 2. Wniesione opłaty organizatorów turystyki
@@ -537,12 +548,12 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 3. Wydatki na pokrycie kosztów obsługi Turystycznego Funduszu Pomocowego
 4. Wydatki na koszty realizacji wypłat ze środków Turystycznego Funduszu Zwrotów
 5. Kwoty przekazane do Funduszu Przeciwdziałania COVID-19 lub bezpośrednio do Skarbu Państwa
-6. Pozostałe wydatki na działalność operacyjną A.3. Przepływy netto z działalności operacyjnej Turystycznego Funduszu Pomocowego (A.1 A.2) B. Przepływy z działalności inwestycyjnej Turystycznego Funduszu Pomocowego B.1. Wpływy z działalności inwestycyjnej Turystycznego Funduszu Pomocowego
+6. Pozostałe wydatki na działalność operacyjną A.3. Przepływy netto z działalności operacyjnej Turystycznego Funduszu Pomocowego (A.1 – A.2) B. Przepływy z działalności inwestycyjnej Turystycznego Funduszu Pomocowego B.1. Wpływy z działalności inwestycyjnej Turystycznego Funduszu Pomocowego
 1. Otrzymane odsetki od lokat nabytych ze środków Turystycznego Funduszu Pomocowego
 2. Wpływy z realizacji lokat Turystycznego Funduszu Pomocowego
 3. Pozostałe wpływy z działalności inwestycyjnej środków Turystycznego Funduszu Pomocowego B.2. Wydatki z działalności inwestycyjnej Turystycznego Funduszu Pomocowego
 1. Wydatki na nabycie lokat ze środków Turystycznego Funduszu Pomocowego
-2. Pozostałe wydatki z działalności inwestycyjnej Turystycznego Funduszu Pomocowego B.3. Przepływy netto z działalności inwestycyjnej Turystycznego Funduszu Pomocowego (B.1 B.2) C. Przepływy z działalności finansowej Turystycznego Funduszu Pomocowego C.1. Wpływy z działalności finansowej Turystycznego Funduszu Pomocowego
+2. Pozostałe wydatki z działalności inwestycyjnej Turystycznego Funduszu Pomocowego B.3. Przepływy netto z działalności inwestycyjnej Turystycznego Funduszu Pomocowego (B.1 – B.2) C. Przepływy z działalności finansowej Turystycznego Funduszu Pomocowego C.1. Wpływy z działalności finansowej Turystycznego Funduszu Pomocowego
 1. Środki uzyskane z pożyczek i kredytów
 2. Środki uzyskane z tytułu zwrotnego finansowania udzielonego ze środków Turystycznego Funduszu Gwarancyjnego
 3. Pozostałe wpływy z działalności finansowej C.2. Wydatki z działalności finansowej Turystycznego Funduszu Pomocowego
@@ -550,7 +561,7 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 2. Zapłacone odsetki od pożyczek i kredytów udzielonych na rzecz Turystycznego Funduszu Pomocowego
 3. Kwoty przekazane tytułem spłaty zwrotnego finansowania udzielonego ze środków Turystycznego Funduszu Gwarancyjnego
 4. Zapłacone odsetki od zwrotnego finansowania udzielonego ze środków Turystycznego Funduszu Gwarancyjnego
-5. Pozostałe wydatki na działalność finansową C.3. Przepływy netto z działalności finansowej Turystycznego Funduszu Pomocowego (C.1 C.2) D. Przepływy pieniężne netto Turystycznego Funduszu Pomocowego (A.3 + B.3 + C.3) E. Bilansowa zmiana stanu środków pieniężnych na Turystycznym Funduszu Pomocowym, w tym: zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na Turystycznym Funduszu Pomocowym na początek okresu G. Środki pieniężne na Turystycznym Funduszu Pomocowym na koniec okresu, w tym: o ograniczonej możliwości dysponowania
+5. Pozostałe wydatki na działalność finansową C.3. Przepływy netto z działalności finansowej Turystycznego Funduszu Pomocowego (C.1 – C.2) D. Przepływy pieniężne netto Turystycznego Funduszu Pomocowego (A.3 + B.3 + C.3) E. Bilansowa zmiana stanu środków pieniężnych na Turystycznym Funduszu Pomocowym, w tym: – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne na Turystycznym Funduszu Pomocowym na początek okresu G. Środki pieniężne na Turystycznym Funduszu Pomocowym na koniec okresu, w tym: – o ograniczonej możliwości dysponowania
 7. Rachunek przepływów pieniężnych Deweloperskiego Funduszu Gwarancyjnego A. Przepływy netto z działalności operacyjnej Deweloperskiego Funduszu Gwarancyjnego A.1. Wpływy z działalności operacyjnej Deweloperskiego Funduszu Gwarancyjnego
 1. Składki na rzecz Deweloperskiego Funduszu Gwarancyjnego
 2. Wpływy uzyskane od deweloperów lub banków z roszczeń, o których mowa w art. 48 ust. 8 ustawy o Deweloperskim Funduszu Gwarancyjnym
@@ -559,12 +570,12 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 1. Zwroty wpłat nabywców dokonanych na rachunek powierniczy
 2. Wydatki związane z realizacją wypłat zwrotów wpłat nabywców
 3. Wydatki na pokrycie kosztów obsługi Deweloperskiego Funduszu Gwarancyjnego przez Fundusz
-4. Pozostałe wydatki na działalność operacyjną A.3. Przepływy netto z działalności operacyjnej Deweloperskiego Funduszu Gwarancyjnego (A.1 A.2) B. Przepływy z działalności inwestycyjnej Deweloperskiego Funduszu Gwarancyjnego B.1. Wpływy z działalności inwestycyjnej Deweloperskiego Funduszu Gwarancyjnego
+4. Pozostałe wydatki na działalność operacyjną A.3. Przepływy netto z działalności operacyjnej Deweloperskiego Funduszu Gwarancyjnego (A.1 – A.2) B. Przepływy z działalności inwestycyjnej Deweloperskiego Funduszu Gwarancyjnego B.1. Wpływy z działalności inwestycyjnej Deweloperskiego Funduszu Gwarancyjnego
 1. Otrzymane odsetki od lokat nabytych ze środków Deweloperskiego Funduszu Gwarancyjnego
 2. Wpływy z realizacji lokat Deweloperskiego Funduszu Gwarancyjnego
 3. Pozostałe wpływy z działalności inwestycyjnej Deweloperskiego Funduszu Gwarancyjnego B.2. Wydatki z działalności inwestycyjnej Deweloperskiego Funduszu Gwarancyjnego
 1. Wydatki na nabycie lokat ze środków Deweloperskiego Funduszu Gwarancyjnego
-2. Pozostałe wydatki z działalności inwestycyjnej Deweloperskiego Funduszu Gwarancyjnego B.3. Przepływy netto z działalności inwestycyjnej Deweloperskiego Funduszu Gwarancyjnego (B.1 B.2) C. Przepływy z działalności finansowej Deweloperskiego Funduszu Gwarancyjnego C.1. Wpływy z działalności finansowej Deweloperskiego Funduszu Gwarancyjnego
+2. Pozostałe wydatki z działalności inwestycyjnej Deweloperskiego Funduszu Gwarancyjnego B.3. Przepływy netto z działalności inwestycyjnej Deweloperskiego Funduszu Gwarancyjnego (B.1 – B.2) C. Przepływy z działalności finansowej Deweloperskiego Funduszu Gwarancyjnego C.1. Wpływy z działalności finansowej Deweloperskiego Funduszu Gwarancyjnego
 1. Środki uzyskane z pożyczek i kredytów udzielonych na rzecz Deweloperskiego Funduszu Gwarancyjnego
 2. Środki uzyskane z tytułu zwrotnego finansowania udzielonego przez Fundusz
 3. Pozostałe wpływy z działalności finansowej C.2. Wydatki z działalności finansowej Deweloperskiego Funduszu Gwarancyjnego
@@ -572,7 +583,7 @@ Minister Finansów: M. Rzeczkowska Załączniki do rozporządzenia Ministra Fina
 2. Zapłacone odsetki od pożyczek i kredytów udzielonych na rzecz Deweloperskiego Funduszu Gwarancyjnego
 3. Spłata zwrotnego finansowania udzielonego przez Fundusz
 4. Zapłacone odsetki od zwrotnego finansowania udzielonego przez Fundusz
-5. Pozostałe wydatki na działalność finansową C.3. Przepływy netto z działalności finansowej Deweloperskiego Funduszu Gwarancyjnego (C.1 C.2) D. Przepływy pieniężne netto Deweloperskiego Funduszu Gwarancyjnego (A.3 + B.3 + C.3) E. Bilansowa zmiana stanu środków pieniężnych Deweloperskiego Funduszu Gwarancyjnego, w tym: zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne Deweloperskiego Funduszu Gwarancyjnego na początek okresu G. Środki pieniężne Deweloperskiego Funduszu Gwarancyjnego na koniec okresu, w tym: o ograniczonej możliwości dysponowania
+5. Pozostałe wydatki na działalność finansową C.3. Przepływy netto z działalności finansowej Deweloperskiego Funduszu Gwarancyjnego (C.1 – C.2) D. Przepływy pieniężne netto Deweloperskiego Funduszu Gwarancyjnego (A.3 + B.3 + C.3) E. Bilansowa zmiana stanu środków pieniężnych Deweloperskiego Funduszu Gwarancyjnego, w tym: – zmiana stanu środków pieniężnych z tytułu różnic kursowych F. Środki pieniężne Deweloperskiego Funduszu Gwarancyjnego na początek okresu G. Środki pieniężne Deweloperskiego Funduszu Gwarancyjnego na koniec okresu, w tym: – o ograniczonej możliwości dysponowania
 8. Informacja dodatkowa dotycząca działalności Funduszu Informacje dotyczące działalności Funduszu obejmują w szczególności:
 1. Informacje:
 1) o znaczących zdarzeniach:
@@ -598,10 +609,10 @@ d) w odniesieniu do należności wykazywanych w pozycji D.1 w podziale na dział
 4) informacje o rzeczowych składnikach aktywów:
 a) w podziale na wartość brutto i umorzenie, z wydzieleniem rzeczowych składników przypadających na poszczególne fundusze wyodrębnione,
 b) zwiększenia i zmniejszenia dokonane w okresie sprawozdawczym, z wydzieleniem rzeczowych składników ośrodka informacji, informatycznej bazy danych oraz rzeczowych składników przypadających na poszczególne fundusze wyodrębnione;
-5) w zakresie funduszy własnych dane o źródłach zwiększenia i sposobie wykorzystania funduszu statutowego, funduszu pomocowego i funduszu z aktualizacji wyceny oraz o sposobie rozliczenia wyniku finansowego;
-6) w odniesieniu do pozycji B pasywów bilansu dane w podziale na działy ubezpieczeń;
-7) w odniesieniu do pozycji B.1.1–B.1.3 wyodrębnienie wartości rezerw na skapitalizowaną wartość rent;
-8) informacje dotyczące struktury zobowiązań wykazanych w pozycji D pasywów bilansu, w tym w odniesieniu do pozycji D.1 pasywów bilansu dane w podziale na działy ubezpieczeń;
+5) w zakresie funduszy własnych – dane o źródłach zwiększenia i sposobie wykorzystania funduszu statutowego, funduszu pomocowego i funduszu z aktualizacji wyceny oraz o sposobie rozliczenia wyniku finansowego;
+6) w odniesieniu do pozycji B pasywów bilansu – dane w podziale na działy ubezpieczeń;
+7) w odniesieniu do pozycji B.1.1–B.1.3 – wyodrębnienie wartości rezerw na skapitalizowaną wartość rent;
+8) informacje dotyczące struktury zobowiązań wykazanych w pozycji D pasywów bilansu, w tym w odniesieniu do pozycji D.1 pasywów bilansu – dane w podziale na działy ubezpieczeń;
 9) strukturę zrealizowanych przychodów ze wskazaniem ich źródeł:
 a) przychody wykazane w pozycji A.1.1 rachunku zysków i strat Funduszu w podziale na ubezpieczenia obowiązkowe, o których mowa w art. 4 pkt 1 i 2 ustawy,
 b) przychody wykazane w pozycji A.1 oraz A.2 rachunku zysków i strat Funduszu w podziale na działy ubezpieczeń zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej oraz zakłady ubezpieczeń;
@@ -612,11 +623,11 @@ b) przychody wykazane w pozycji A.1 oraz A.2 rachunku zysków i strat Funduszu w
 14) wartość wypłaconych odszkodowań i świadczeń wykazanych w pozycji B.1 rachunku zysków i strat Funduszu w podziale na działy ubezpieczeń zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej, z uwzględnieniem:
 a) odszkodowań wypłaconych jednorazowo, w tym odrębnie wypłatę jednorazowego świadczenia w wartości skapitalizowanej renty,
 b) świadczeń okresowych (renty),
-c) kosztów likwidacji szkód z wyodrębnieniem kwot odsetek za opóźnienie w wypłacie odszkodowania i świadczenia;
+c) kosztów likwidacji szkód – z wyodrębnieniem kwot odsetek za opóźnienie w wypłacie odszkodowania i świadczenia;
 15) liczbę oraz wartość likwidowanych szkód oraz wypłaconych odszkodowań i świadczeń wykazanych w pozycji B.1 rachunku zysków i strat Funduszu, w podziale na lata kalendarzowe zgłoszenia szkody lub jej przejęcia przez Fundusz w przypadku upadłości lub likwidacji zakładu ubezpieczeń;
 16) liczbę oraz wartość obsługiwanych świadczeń rentowych wykazanych w pozycji B.1.2 rachunku zysków i strat Funduszu, w podziale na lata kalendarzowe zgłoszenia roszczenia o wypłatę renty;
 17) strukturę rodzajową kosztów likwidacji szkód;
-18) liczbę prowadzonych i zakończonych postępowań regresowych, w podziale na ubezpieczenia obowiązkowe, o których mowa w art. 4 pkt 1 i 2 ustawy, a w przypadku regresów z tytułu szkód przejętych przez Fundusz w wyniku upadłości lub likwidacji zakładu ubezpieczeń w podziale na zakłady ubezpieczeń;
+18) liczbę prowadzonych i zakończonych postępowań regresowych, w podziale na ubezpieczenia obowiązkowe, o których mowa w art. 4 pkt 1 i 2 ustawy, a w przypadku regresów z tytułu szkód przejętych przez Fundusz w wyniku upadłości lub likwidacji zakładu ubezpieczeń – w podziale na zakłady ubezpieczeń;
 19) strukturę rodzajową kosztów windykacji regresów i kosztów windykacji opłat;
 20) liczbę stwierdzonych przez podmioty do tego obowiązane i uprawnione przypadków niespełnienia obowiązku zawarcia umowy ubezpieczenia obowiązkowego oraz wysokość szacowanych roszczeń z tego tytułu;
 21) informacje o liczbie spraw sądowych wszczętych przeciwko Funduszowi i spraw z powództwa Funduszu oraz wielkości zgłoszonych roszczeń;
@@ -635,18 +646,18 @@ d) zwrotnej pomocy finansowej udzielonej przez Fundusz;
 6) informacje o liczbie podmiotów, które zalegają z zapłatą składek na dzień bilansowy z tytułu złożonych deklaracji;
 7) informacje o łącznym stanie należności wobec Turystycznego Funduszu Gwarancyjnego z tytułu kwot zadeklarowanych, lecz niewpłaconych do dnia bilansowego oraz w podziale na terminy wymagalności do 3 miesięcy, powyżej 3 miesięcy do 6 miesięcy, powyżej 6 miesięcy do 12 miesięcy, powyżej 1 roku;
 8) informacje o liczbie podmiotów, które posiadają nadpłatę składek na dzień bilansowy z tytułu złożonych deklaracji, oraz o łącznym stanie zobowiązań Turystycznego Funduszu Gwarancyjnego na dzień bilansowy z tytułu kwot nadpłaconych;
-9) informacje o liczbie dyspozycji wypłat złożonych w roku obrotowym oraz o wartości środków wypłaconych z Turystycznego Funduszu Gwarancyjnego, przypadających na poszczególnych organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych, których niewypłacalności dotyczyły w podziale na następujące tytuły:
+9) informacje o liczbie dyspozycji wypłat złożonych w roku obrotowym oraz o wartości środków wypłaconych z Turystycznego Funduszu Gwarancyjnego, przypadających na poszczególnych organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych, których niewypłacalności dotyczyły – w podziale na następujące tytuły:
 a) pokrycie kosztów kontynuacji imprezy turystycznej lub kosztów powrotu klientów z imprezy turystycznej do miejsca wyjazdu lub planowanego powrotu z imprezy turystycznej, w przypadku gdy organizator turystyki lub przedsiębiorca ułatwiający nabywanie powiązanych usług turystycznych wbrew obowiązkowi nie zapewnia tego powrotu,
 b) zwrot wpłat wniesionych tytułem zapłaty za imprezę turystyczną, w przypadku gdy z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych oraz osób, które działają w ich imieniu, impreza turystyczna nie została lub nie zostanie zrealizowana,
 c) zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną, odpowiadających części imprezy turystycznej, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych oraz osób, które działają w ich imieniu;
-10) informacje o wysokości roszczeń przekazanych w roku obrotowym Funduszowi przez marszałków województw lub wskazane przez nich jednostki, przypadających na poszczególnych organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych, których niewypłacalności dotyczyły w podziale na następujące tytuły:
+10) informacje o wysokości roszczeń przekazanych w roku obrotowym Funduszowi przez marszałków województw lub wskazane przez nich jednostki, przypadających na poszczególnych organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych, których niewypłacalności dotyczyły – w podziale na następujące tytuły:
 a) pokrycie kosztów kontynuacji imprezy turystycznej lub kosztów powrotu klientów z imprezy turystycznej do miejsca wyjazdu lub planowanego powrotu z imprezy turystycznej, w przypadku gdy organizator turystyki lub przedsiębiorca ułatwiający nabywanie powiązanych usług turystycznych wbrew obowiązkowi nie zapewnia tego powrotu,
 b) zwrot wpłat wniesionych tytułem zapłaty za imprezę turystyczną, w przypadku gdy z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych oraz osób, które działają w ich imieniu, impreza turystyczna nie została lub nie zostanie zrealizowana,
-c) zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną, odpowiadających części imprezy turystycznej, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych oraz osób, które działają w ich imieniu ze wskazaniem, które zostały zaspokojone, a które nie zostały zaspokojone do dnia bilansowego;
-11) informacje o łącznej wysokości roszczeń przekazanych w roku obrotowym Funduszowi i niezaspokojonych do dnia bilansowego przez marszałków województw lub wskazane przez nich jednostki, przypadających na poszczególnych organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych, których niewypłacalności dotyczyły w podziale na następujące tytuły:
+c) zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną, odpowiadających części imprezy turystycznej, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych oraz osób, które działają w ich imieniu – ze wskazaniem, które zostały zaspokojone, a które nie zostały zaspokojone do dnia bilansowego;
+11) informacje o łącznej wysokości roszczeń przekazanych w roku obrotowym Funduszowi i niezaspokojonych do dnia bilansowego przez marszałków województw lub wskazane przez nich jednostki, przypadających na poszczególnych organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych, których niewypłacalności dotyczyły – w podziale na następujące tytuły:
 a) pokrycie kosztów kontynuacji imprezy turystycznej lub kosztów powrotu klientów z imprezy turystycznej do miejsca wyjazdu lub planowanego powrotu z imprezy turystycznej, w przypadku gdy organizator turystyki lub przedsiębiorca ułatwiający nabywanie powiązanych usług turystycznych wbrew obowiązkowi nie zapewnia tego powrotu,
 b) zwrot wpłat wniesionych tytułem zapłaty za imprezę turystyczną, w przypadku gdy z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych oraz osób, które działają w ich imieniu, impreza turystyczna nie została lub nie zostanie zrealizowana,
-c) zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną, odpowiadających części imprezy turystycznej, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych oraz osób, które działają w ich imieniu w podziale na lata zgłoszenia roszczeń;
+c) zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną, odpowiadających części imprezy turystycznej, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych oraz osób, które działają w ich imieniu – w podziale na lata zgłoszenia roszczeń;
 12) informacje o udzielonym w roku obrotowym przez Fundusz zwrotnym finansowaniu Funduszu oraz innych pożyczkach i kredytach udzielonych na rzecz Turystycznego Funduszu Gwarancyjnego, ich wysokości i terminie, na który zostały udzielone, jak również o stanie zobowiązań na dzień bilansowy, w tym z tytułu zwrotnego finansowania wraz ze wskazaniem, jaki stanowi procent lokat funduszu statutowego, w podziale na nominał i odsetki;
 13) informacje o udzielonym w roku obrotowym zwrotnym finansowaniu ze środków Turystycznego Funduszu Gwarancyjnego, jego wysokości i terminie, na który zostało udzielone, jak również o aktualnej wartości na dzień bilansowy zwrotnego finansowania wraz ze wskazaniem, jaki stanowi procent lokat Turystycznego Funduszu Gwarancyjnego, w podziale na nominał i odsetki;
 14) informacje o stanie rozrachunków na ostatni dzień okresu sprawozdawczego (należności / zobowiązania wewnętrzne) pomiędzy Funduszem a Turystycznym Funduszem Gwarancyjnym;
@@ -718,8 +729,8 @@ b) informacja o wysokości składek wpłaconych na Deweloperski Fundusz Gwarancy
 c) informacja o wysokości składek zaległych na dzień bilansowy;
 13) informacje o pozostałych aktywach i zobowiązaniach Deweloperskiego Funduszu Gwarancyjnego;
 14) informacja o wypłatach z Deweloperskiego Funduszu Gwarancyjnego, w tym:
-a) informacje o liczbie wniosków o wypłatę środków z Deweloperskiego Funduszu Gwarancyjnego złożonych w roku obrotowym, o liczbie wniosków rozpatrzonych pozytywnie w roku obrotowym i odrzuconych w roku obrotowym, a także o liczbie wniosków pozostających w toku na dzień bilansowy w podziale na poszczególne przesłanki określone w art. 48 ust. 1 i 2 ustawy o Deweloperskim Funduszu Gwarancyjnym,
-b) informacje o wartości środków wypłaconych z Deweloperskiego Funduszu Gwarancyjnego w roku obrotowym, a także o wartości wniosków pozostających w toku na dzień bilansowy w podziale na poszczególne przesłanki określone w art. 48 ust. 1 i 2 ustawy o Deweloperskim Funduszu Gwarancyjnym;
+a) informacje o liczbie wniosków o wypłatę środków z Deweloperskiego Funduszu Gwarancyjnego złożonych w roku obrotowym, o liczbie wniosków rozpatrzonych pozytywnie w roku obrotowym i odrzuconych w roku obrotowym, a także o liczbie wniosków pozostających w toku na dzień bilansowy – w podziale na poszczególne przesłanki określone w art. 48 ust. 1 i 2 ustawy o Deweloperskim Funduszu Gwarancyjnym,
+b) informacje o wartości środków wypłaconych z Deweloperskiego Funduszu Gwarancyjnego w roku obrotowym, a także o wartości wniosków pozostających w toku na dzień bilansowy – w podziale na poszczególne przesłanki określone w art. 48 ust. 1 i 2 ustawy o Deweloperskim Funduszu Gwarancyjnym;
 15) informacje o udzielonym w roku obrotowym przez Fundusz zwrotnym finansowaniu Deweloperskiego Funduszu Gwarancyjnego oraz innych pożyczkach i kredytach udzielonych na rzecz Deweloperskiego Funduszu Gwarancyjnego, ich wysokości i terminie, na który zostały udzielone, jak również o stanie zobowiązań na dzień bilansowy, w tym z tytułu zwrotnego finansowania wraz ze wskazaniem, jaki stanowi procent lokat funduszu statutowego, w podziale na nominał i odsetki;
 16) informacje o stanie rozrachunków na ostatni dzień okresu sprawozdawczego (należności / zobowiązania wewnętrzne) pomiędzy Funduszem a Deweloperskim Funduszem Gwarancyjnym;
 17) informacje o strukturze rodzajowej kosztów obsługi Deweloperskiego Funduszu Gwarancyjnego poniesionych w roku obrotowym przez Fundusz, w tym koszty wynagrodzeń wraz z narzutami, koszty szkoleń, koszty usług obcych (w tym związanych z utrzymaniem systemów informatycznych, usług doradczych i prawnych, audytu bezpieczeństwa informacji) oraz koszty stałe utrzymania Deweloperskiego Funduszu Gwarancyjnego;
@@ -729,29 +740,29 @@ b) informacje o wartości środków wypłaconych z Deweloperskiego Funduszu Gwar
 a) zwiększenia z tytułu: składek należnych, przychodów z lokat oraz pozostałych zwiększeń,
 b) zmniejszenia z tytułu: poniesionych kosztów zwrotów wpłat wniesionych przez nabywców na mieszkaniowe rachunki powiernicze, poniesionych kosztów obsługi Deweloperskiego Funduszu Gwarancyjnego przez Fundusz, kosztów odsetek od udzielonych kredytów i pożyczek oraz zwrotnego finansowania udzielonego przez Fundusz, kosztów obsługi kredytów i pożyczek, pozostałych kosztów.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Prowadzenie ksiąg rachunkowych § 4. Księgi rachunkowe są prowadzone w siedzibie Funduszu.
+#### Rozdział 2 Prowadzenie ksiąg rachunkowych
 
-#### Rozdział 3 Ewidencja i wycena lokat § 18. 1. Fundusz dokonuje klasyfikacji aktywów finansowych i zobowiązań finansowych w dniu ich nabycia według następujących kategorii:
+#### Rozdział 3 Ewidencja i wycena lokat
 
-#### Rozdział 4 Ustalenie wyniku finansowego oraz wycena niektórych aktywów i pasywów § 24. 1. Wynik finansowy Funduszu na dzień bilansowy stanowi różnicę między jego przychodami a kosztami działalności, z uwzględnieniem pozostałych przychodów i kosztów operacyjnych.
+#### Rozdział 4 Ustalenie wyniku finansowego oraz wycena niektórych aktywów i pasywów
 
-#### Rozdział 5 Roczne sprawozdanie z działalności Funduszu § 28. 1. Roczne sprawozdanie z działalności Funduszu obejmuje:
+#### Rozdział 5 Roczne sprawozdanie z działalności Funduszu
 
-#### Rozdział 6 Kwartalne sprawozdanie z działalności Funduszu § 30. 1. Kwartalne sprawozdanie z działalności Funduszu jest sporządzane za kwartał, w którym nastąpiły wypłaty odszkodowań i świadczeń zakładów ubezpieczeń w upadłości lub w likwidacji.
+#### Rozdział 6 Kwartalne sprawozdanie z działalności Funduszu
 
-#### Rozdział 7 Turystyczny Fundusz Gwarancyjny § 31. 1. Zdarzenia gospodarcze dotyczące Turystycznego Funduszu Gwarancyjnego są ujmowane odrębnie od operacji Funduszu oraz odrębnie od innych funduszy wyodrębnionych.
+#### Rozdział 7 Turystyczny Fundusz Gwarancyjny
 
-#### Rozdział 8 Turystyczny Fundusz Pomocowy § 37. 1. Aktywa i zobowiązania Turystycznego Funduszu Pomocowego są ujmowane w księgach rachunkowych Funduszu oddzielnie od funduszy własnych oraz innych funduszy wyodrębnionych.
+#### Rozdział 8 Turystyczny Fundusz Pomocowy
 
-#### Rozdział 9 Turystyczny Fundusz Zwrotów § 44. 1. Fundusz zapewnia obsługę Turystycznego Funduszu Zwrotów w zakresie realizowanych wypłat dla podróżnych z wyodrębnionego rachunku w Banku Gospodarstwa Krajowego.
+#### Rozdział 9 Turystyczny Fundusz Zwrotów
 
-#### Rozdział 10 Deweloperski Fundusz Gwarancyjny § 47. 1. Aktywa i zobowiązania Deweloperskiego Funduszu Gwarancyjnego są ujmowane w księgach rachunkowych Funduszu oddzielnie od funduszy własnych oraz innych funduszy wyodrębnionych.
+#### Rozdział 10 Deweloperski Fundusz Gwarancyjny
 
-#### Rozdział 11 Przepisy przejściowe i końcowe § 53. Przepisy rozporządzenia stosuje się po raz pierwszy do sprawozdania z działalności Funduszu sporządzanego za IV kwartał 2022 r.
+#### Rozdział 11 Przepisy przejściowe i końcowe
 
-## Załącznik nr 2 — OBJAŚNIENIA DO ROCZNEGO SPRAWOZDANIA Z DZIAŁALNOŚCI FUNDUSZU A. Objaśnienia do bilansu
+## Załącznik nr 2 — OBJAŚNIENIA OBJAŚNIENIA DO DO ROCZNEGO ROCZNEGO SPRAWOZDANIA SPRAWOZDANIA Z Z DZIAŁALNOŚCI DZIAŁALNOŚCI FUNDUSZU FUNDUSZU A. Objaśnienia do bilansu
 
 1. W pozycji A aktywów bilansu ujmuje się wartości niematerialne i prawne, po uwzględnieniu naliczonego umorzenia oraz ewentualnych odpisów aktualizujących. Pozycja obejmuje wartości niematerialne i prawne nabyte ze środków Funduszu, jak i funduszy wyodrębnionych.
 2. W pozycji B.1 aktywów bilansu ujmuje się lokaty Funduszu, z wyjątkiem lokat funduszu pomocowego, które ujmuje się w pozycji B.2 aktywów bilansu.
@@ -779,7 +790,6 @@ Nieruchomości wykorzystywane na własne potrzeby wykazuje się w pozycji E. Rze
 20. W pozycji A.1.4 pasywów bilansu ujmuje się zatwierdzone nadwyżki bilansowe oraz straty bilansowe do czasu ich podziału lub pokrycia zgodnie z uchwałą zgromadzenia członków Funduszu.
 21. W pozycji A.2 pasywów bilansu ujmuje się wartość poszczególnych funduszy wyodrębnionych stanowiącą różnicę między aktywami i zobowiązaniami tegoż funduszu.
 22. W pozycji B.1 pasywów bilansu ujmuje się szacowane koszty zobowiązań (rezerwy ubezpieczeniowe), o których mowa w § 8 ust. 2 rozporządzenia, powiększone o koszty likwidacji szkód związane z szacowanymi zobowiązaniami, z uwzględnieniem związanych z nimi zwrotów odszkodowań, regresów oraz kosztów ich windykacji, ustalone w wysokości możliwej do uzyskania na dzień bilansowy.
-OBJAŚNIENIA DO ROCZNEGO SPRAWOZDANIA Z DZIAŁALNOŚCI FUNDUSZU
 23. W pozycji B.2 pasywów bilansu ujmuje się rezerwy ubezpieczeniowe inne niż rezerwy na niewypłacone odszkodowania i świadczenia.
 24. W pozycji D.1 pasywów bilansu ujmuje się w szczególności kwoty odszkodowań zatwierdzonych przez Fundusz do wypłaty.
 25. W pozycji D.2 pasywów ujmuje się w szczególności kwoty należne zakładom ubezpieczeń z tytułu likwidacji szkód i zobowiązania z tytułu ponoszonych przez Fundusz innych kosztów likwidacji szkód oraz zobowiązania wobec innych podmiotów z tytułu kosztów windykacji regresów oraz kosztów windykacji opłat.
@@ -805,7 +815,7 @@ B. Objaśnienia do rachunku zysków i strat
 1) umowach ubezpieczeń komunikacyjnych odpowiedzialności cywilnej i casco;
 2) zdarzeniach zgłoszonych do zakładów ubezpieczeń z tytułu ubezpieczeń komunikacyjnych, w tym wypadkach lub kolizjach;
 3) odszkodowaniach wypłaconych z tytułu ubezpieczeń komunikacyjnych;
-4) reprezentantach do spraw roszczeń poszczególnych zakładów ubezpieczeń członków Funduszu.
+4) reprezentantach do spraw roszczeń poszczególnych zakładów ubezpieczeń – członków Funduszu.
 W pozycji tej wykazuje się również koszty związane bezpośrednio z rozwojem i utrzymaniem systemu informatycznego, w którym przechowywane są powyższe dane.
 44. W pozycji B.6 rachunku zysków i strat są ujmowane koszty związane z realizacją zadań określonych w art. 102a ust. 1 ustawy.
 45. W pozycji B.7 rachunku zysków i strat wykazuje się pozostałe koszty działalności statutowej, w tym koszty zarządzania lokatami funduszu pomocowego i inne koszty działalności lokacyjnej, które nie pomniejszają funduszu pomocowego.
@@ -820,7 +830,7 @@ W pozycji tej wykazuje się również koszty związane bezpośrednio z rozwojem 
 1) przychody z nieruchomości przeznaczonych na cele inwestycyjne;
 2) przychody z dywidend;
 3) przychody z dłużnych papierów wartościowych, obejmujące otrzymane odsetki oraz dodatnią różnicę między skorygowaną ceną nabycia a ceną nabycia lub ceną uprzednio przeszacowaną;
-4) w przypadku aktywów innych niż aktywa dostępne do sprzedaży dodatnie różnice między wartością godziwą a ceną nabycia lub skorygowaną ceną nabycia w przypadku dłużnych papierów wartościowych, ustaloną na dzień bilansowy;
+4) w przypadku aktywów innych niż aktywa dostępne do sprzedaży – dodatnie różnice między wartością godziwą a ceną nabycia lub skorygowaną ceną nabycia w przypadku dłużnych papierów wartościowych, ustaloną na dzień bilansowy;
 5) rozwiązane odpisy aktualizujące od lokat funduszu statutowego;
 6) nadwyżkę dodatnich różnic kursowych nad ujemnymi z tytułu prowadzonej działalności lokacyjnej;
 7) pozostałe przychody z działalności lokacyjnej.
@@ -924,7 +934,7 @@ F. Objaśnienia do rachunku przepływów pieniężnych Deweloperskiego Funduszu 
 128. W pozycji C.1.2 sprawozdania z przepływów pieniężnych Deweloperskiego Funduszu Gwarancyjnego wykazuje się kwoty zasilenia rachunku Deweloperskiego Funduszu Gwarancyjnego ze środków Funduszu tytułem zwrotnego finansowania.
 129. W pozycji C.2.3 sprawozdania z przepływów pieniężnych Deweloperskiego Funduszu Gwarancyjnego wykazuje się spłatę zwrotnego finansowania udzielonego na rzecz Deweloperskiego Funduszu Gwarancyjnego ze środków Funduszu. W pozycji tej nie wykazuje się zapłaconych odsetek oraz kosztów obsługi zwrotnego finansowania, które wykazuje się w pozycji C.2.4.
 130. W pozycji C.2.4 sprawozdania z przepływów pieniężnych Deweloperskiego Funduszu Gwarancyjnego wykazuje się kwoty zapłaconych odsetek oraz koszty obsługi zwrotnego finansowania udzielonego na rzecz Deweloperskiego Funduszu Gwarancyjnego ze środków Funduszu.
-SZCZEGÓŁOWY ZAKRES INFORMACJI WYKAZYWANYCH W KWARTALNYM SPRAWOZDANIU Z DZIAŁALNOŚCI FUNDUSZU Informacje zawarte w kwartalnym sprawozdaniu z działalności Funduszu obejmują dane dotyczące działalności statutowej, gospodarki finansowej, charakterystyki oraz organizacji Funduszu:
+SZCZEGÓŁOWY SZCZEGÓŁOWY ZAKRES ZAKRES INFORMACJI INFORMACJI WYKAZYWANYCH WYKAZYWANYCH W W KWARTALNYM KWARTALNYM SPRAWOZDANIU SPRAWOZDANIU Z Z DZIAŁALNOŚCI DZIAŁALNOŚCI FUNDUSZU FUNDUSZU Informacje zawarte w kwartalnym sprawozdaniu z działalności Funduszu obejmują dane dotyczące działalności statutowej, gospodarki finansowej, charakterystyki oraz organizacji Funduszu:
 1) strukturę przychodów Funduszu z działalności statutowej, w podziale na:
 a) przychody ze składek zakładów ubezpieczeń i zagranicznych zakładów ubezpieczeń prowadzących działalność w zakresie ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 1 i 2 ustawy, w podziale na te ubezpieczenia i w podziale na zakłady ubezpieczeń,
 b) przychody ze składek zakładów ubezpieczeń i zagranicznych zakładów ubezpieczeń prowadzących działalność w zakresie ubezpieczeń określonych w dziale I załącznika do ustawy o działalności ubezpieczeniowej i reasekuracyjnej, w przypadku ogłoszenia upadłości zakładu ubezpieczeń prowadzącego działalność w tym zakresie, oddalenia wniosku o ogłoszenie upadłości zakładu ubezpieczeń, umorzenia postępowania upadłościowego lub zarządzenia likwidacji przymusowej takiego zakładu ubezpieczeń, w podziale na zakłady ubezpieczeń,
@@ -950,7 +960,7 @@ i) koszty prowadzenia informatycznej bazy danych;
 a) liczbę zlikwidowanych szkód oraz odszkodowań i świadczeń wypłaconych w związku z upadłością zakładu ubezpieczeń lub w związku z niespełnieniem przez podmioty do tego obowiązane obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 4 pkt 1 i 2 ustawy, albo świadczeń wypłaconych z tytułu szkód wyrządzonych przez posiadacza pojazdu mechanicznego lub kierującego pojazdem mechanicznym, których tożsamości nie ustalono,
 b) liczbę stwierdzonych przez podmioty obowiązane i uprawnione przypadków niespełnienia obowiązku zawarcia umowy ubezpieczenia obowiązkowego, o którym mowa w art. 4 pkt 1 i 2 ustawy,
 c) liczbę prowadzonych i zakończonych postępowań regresowych,
-d) liczbę prowadzonych postępowań w sprawie szczególnych roszczeń o świadczenia rentowe w podziale na sprawy: SZCZEGÓŁOWY ZAKRES INFORMACJI WYKAZYWANYCH W KWARTALNYM SPRAWOZDANIU Z DZIAŁALNOŚCI FUNDUSZU zgłoszone w okresie sprawozdawczym, zakończone przyznaniem przez Fundusz roszczenia, zakończone odmową przyznania roszczenia przez Fundusz, w toku na koniec okresu;
+d) liczbę prowadzonych postępowań w sprawie szczególnych roszczeń o świadczenia rentowe w podziale na sprawy: – zgłoszone w okresie sprawozdawczym, – zakończone przyznaniem przez Fundusz roszczenia, – zakończone odmową przyznania roszczenia przez Fundusz, – w toku na koniec okresu;
 8) zagadnienia organizacyjne i kadrowe:
 a) władze Funduszu,
 b) strukturę organizacyjną Funduszu,

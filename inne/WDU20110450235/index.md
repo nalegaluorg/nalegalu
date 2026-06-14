@@ -8,7 +8,7 @@ pos: 235
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o opiece nad dziećmi w wieku do lat 3
@@ -30,6 +30,12 @@ source: "isap-pdf"
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady organizowania i funkcjonowania opieki nad dziećmi w wieku do lat 3;
+- **2)** warunki świadczonych usług;
+- **3)** kwalifikacje osób sprawujących opiekę;
+- **4)** zasady finansowania opieki;
+- **5)** nadzór nad warunkami i jakością sprawowanej opieki.
 
 **Art. 2.**
 
@@ -62,6 +68,12 @@ source: "isap-pdf"
 **Art. 4.** Osoby sprawujące, na podstawie ustawy, opiekę nad dziećmi w wieku do lat 3 podlegają obowiązkowym badaniom sanitarno-epidemiologicznym zgodnie z ustawą z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897).
 
 **Art. 5.** Minister właściwy do spraw rodziny:
+
+- **1)** monitoruje proces realizacji ustawy;
+- **2)** upowszechnia informacje o formach opieki nad dzieckiem w wieku do lat 3;
+- **2a)** podejmuje działania zmierzające do zapewnienia właściwych warunków i jakości świadczonej opieki nad dziećmi w wieku do lat 3, w szczególności mające na celu wsparcie wójta, burmistrza lub prezydenta miasta w sprawowaniu w tym zakresie nadzoru nad żłobkiem, klubem dziecięcym oraz dziennym opiekunem;
+- **3)** inspiruje badania, ekspertyzy i analizy dotyczące systemu opieki nad dzieckiem w wieku do lat 3.
+- **4)** (uchylony)
 
 **Art. 6.** Rada Ministrów składa corocznie Sejmowi i Senatowi, w terminie do dnia 30 września, sprawozdanie z realizacji ustawy.
 
@@ -118,6 +130,10 @@ source: "isap-pdf"
 **Art. 9b.** Formy opieki nad dziećmi w wieku do lat 3 mogą mieścić się w jednym budynku z przedszkolami w rozumieniu ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, także w przypadku, gdy znajdują się w jednej strefie pożarowej, bez względu na kategorię zagrożenia ludzi, do której jest zaliczona dana strefa pożarowa.
 
 **Art. 10.** Do zadań żłobka i klubu dziecięcego należy w szczególności:
+
+- **1)** zapewnienie dziecku opieki w warunkach bytowych zbliżonych do warunków domowych;
+- **2)** zagwarantowanie dziecku właściwej opieki pielęgnacyjnej oraz edukacyjnej, przez prowadzenie zajęć zabawowych z elementami edukacji, z uwzględnieniem indywidualnych potrzeb dziecka;
+- **3)** prowadzenie zajęć opiekuńczo-wychowawczych i edukacyjnych, uwzględniających rozwój psychomotoryczny dziecka, właściwych do wieku dziecka.
 
 **Art. 11.**
 
@@ -222,6 +238,11 @@ source: "isap-pdf"
 3. W przypadku gdy wolontariusz posiada kwalifikacje, o których mowa w art. 16, przepisów ust. 2 nie stosuje się.
 
 **Art. 18.** Dyrektorem żłobka, osobą kierującą pracą klubu dziecięcego oraz osobą, o której mowa w art. 8 ust. 1 pkt 2, opiekunem, pielęgniarką, położną oraz wolontariuszem w żłobku lub klubie dziecięcym może być osoba, która:
+
+- **1)** daje rękojmię należytego sprawowania opieki nad dziećmi;
+- **2)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie została jej zawieszona ani ograniczona;
+- **3)** wypełnia obowiązek alimentacyjny, w przypadku gdy taki obowiązek został nałożony na podstawie tytułu wykonawczego pochodzącego lub zatwierdzonego przez sąd;
+- **4)** nie została skazana prawomocnym wyrokiem za przestępstwo umyślne.
 
 **Art. 18a.**
 
@@ -386,7 +407,18 @@ source: "isap-pdf"
 
 **Art. 31.** Wójt, burmistrz lub prezydent miasta odmawia wpisu do rejestru, w przypadku gdy:
 
+- **1)** podmiot nie spełnia warunków wymaganych do utworzenia i prowadzenia żłobka lub klubu dziecięcego;
+- **2)** wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywania działalności gospodarczej objętej wpisem;
+- **3)** w stosunku do przedsiębiorcy wydano decyzję o zakazie wykonywania działalności objętej wpisem, w okresie 3 lat poprzedzających złożenie wniosku.
+
 **Art. 32.** Wykreślenie z rejestru następuje w przypadku:
+
+- **1)** złożenia przez podmiot wpisany do rejestru wniosku o wykreślenie;
+- **2)** nieusunięcia przez podmiot, w wyznaczonym terminie, nieprawidłowości w zakresie prowadzenia żłobka lub klubu dziecięcego;
+- **3)** przekazania we wniosku oraz dołączonych do niego dokumentach, o których mowa w art. 28, informacji niezgodnych ze stanem faktycznym;
+- **4)** wydania prawomocnego orzeczenia zakazującego przedsiębiorcy wykonywania działalności gospodarczej objętej wpisem;
+- **5)** (uchylony)
+- **6)** uzyskania przez organ prowadzący rejestr informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
 
 **Art. 32a.** Wraz z wykreśleniem z rejestru z przyczyn, o których mowa w art. 32 pkt 2 lub 3, wójt, burmistrz lub prezydent miasta może wydać decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, mając na uwadze skalę, zakres oraz powtarzalność naruszeń.
 
@@ -464,6 +496,10 @@ source: "isap-pdf"
 - **8)** warunki i sposób zmiany, a także rozwiązania umowy.
 
 **Art. 37.** Do zadań dziennego opiekuna należy w szczególności:
+
+- **1)** zapewnienie dziecku opieki w warunkach bytowych zbliżonych do warunków domowych;
+- **2)** zagwarantowanie dziecku właściwej opieki pielęgnacyjnej oraz edukacyjnej, z uwzględnieniem indywidualnych potrzeb dziecka;
+- **3)** prowadzenie zajęć opiekuńczo-wychowawczych i edukacyjnych, uwzględniających rozwój psychomotoryczny dziecka, właściwych do wieku dziecka.
 
 **Art. 38.**
 
@@ -631,6 +667,11 @@ source: "isap-pdf"
 **Art. 47.** W przypadku rozwiązania lub wygaśnięcia umowy z dziennym opiekunem następuje wykreślenie dziennego opiekuna z wykazu.
 
 **Art. 47a.** W przypadku zmiany danych lub informacji zawartych w wykazie, podmiot zatrudniający dziennego opiekuna oraz osoba, o której mowa w art. 36 ust. 1 pkt 1, zobowiązani są do:
+
+- **1)** wystąpienia, w terminie 14 dni od dnia zaistnienia zmian, do organu prowadzącego wykaz z wnioskiem o zmianę danych lub informacji – w przypadku danych lub informacji, o których mowa w art. 46 ust. 2 pkt 1–5;
+- **2)** dokonania zmian, za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 62a, w terminie:
+    - **a)** 3 dni od dnia zaistnienia zmian – w przypadku danych lub informacji, o których mowa w art. 46 ust. 2 pkt 6–8,
+    - **b)** 5 dni roboczych liczonych od pierwszego dnia danego miesiąca, według stanu na ostatni dzień poprzedzającego miesiąca – w przypadku danych lub informacji, o których mowa w art. 46 ust. 2 pkt 9–12.
 
 **Art. 47b.**
 
@@ -1062,4 +1103,10 @@ source: "isap-pdf"
 #### Rozdział 11 Przepis końcowy
 
 **Art. 79.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 6, który wchodzi w życie z dniem 1 stycznia 2013 r.;
+- **2)** art. 50–53 i 70–73, które wchodzą w życie pierwszego dnia miesiąca następującego po upływie 6 miesięcy od dnia ogłoszenia;
+- **3)** art. 62 i 63, które wchodzą w życie z dniem ogłoszenia;
+- **4)** art. 64 ust. 2, który wchodzi w życie po upływie 12 miesięcy od dnia wejścia w życie ustawy.
+
 

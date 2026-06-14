@@ -8,10 +8,10 @@ pos: 1072
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 czerwca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1072 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 10 czerwca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001072) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1072/text.pdf) |
 
-Poz. 1072 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 10 czerwca 2020 r.
 w sprawie wyznaczenia organu do prowadzenia systemu teleinformatycznego przeznaczonego do przekazywania naczelnikowi urzędu skarbowego wniosków egzekucyjnych i tytułów wykonawczych lub wymaganych informacji Na podstawie art. 26aa § 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
-z 2019 r. poz. 1438, z późn. zm. ) zarządza się, co następuje: § 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Szczecinie do prowadzenia systemu teleinformatycznego, przy wykorzystaniu którego przekazuje się do organu egzekucyjnego będącego naczelnikiem urzędu skarbowego wnioski egzekucyjne, tytuły wykonawcze lub informacje, o których mowa w art. 26 § 1e ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
+z 2019 r. poz. 1438, z późn. zm. ) zarządza się, co następuje:
+§ 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Szczecinie do prowadzenia systemu teleinformatycznego, przy wykorzystaniu którego przekazuje się do organu egzekucyjnego będącego naczelnikiem urzędu skarbowego wnioski egzekucyjne, tytuły wykonawcze lub informacje, o których mowa w art. 26 § 1e ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 § 2. Rozporządzenie wchodzi w życie z dniem 30 lipca 2020 r.
 Minister Finansów: T. Kościński
 

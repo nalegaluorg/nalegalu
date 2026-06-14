@@ -8,10 +8,10 @@ pos: 2316
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22331166 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 14 października 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2316/text.pdf) |
 
-Poz. 22331166 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 14 października 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej”
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 listopada 2008 r. w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. z 2014 r. poz. 787), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Spraw Wewnętrznych z dnia 16 czerwca 2014 r. zmieniającym rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. poz. 887);
@@ -37,7 +36,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 3) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2022 r. zmieniającego rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. poz. 1347), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 13 listopada 2008 r.
 w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” Na podstawie art. 73 ust. 2 pkt 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r.
-poz. 1969) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 1969) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób nadawania,
 2) tryb przedstawiania wniosków o nadanie,
 3) wzór,
@@ -83,4 +83,8 @@ b) służby, pracy zawodowej lub działalności społecznej na rzecz ochrony prz
 § 12. Koszty związane z nadaniem odznaki są pokrywane z budżetu państwa, z części dotyczącej Państwowej Straży Pożarnej.
 § 13. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 października 1997 r. w sprawie szczegółowych zasad i trybu nadawania odznaki „Zasłużony dla Ochrony Przeciwpożarowej” oraz ustalenia jej wzoru i sposobu noszenia (Dz. U. poz. 875 oraz z 2006 r. poz. 842).
 § 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+## Załącznik nr 1 — WZÓR WZÓR Załącznik nr 1 WNIOSEK O NADANIE WZÓR ……………………… ODZNAKI WNIOSEK O NADANIE „ZASŁUŻONY ……………………… DLA OCHRONY PRZECIWPOŻAROWEJ” ODZNAKI „ZASŁUŻONY DLA OCHRONY PRZECIWPOŻAROWEJ” –8 –8 – – –8 – Załącznik Załącznik nr nr 2 2 Załącznik nr 2 WZÓR WZÓR WZÓR WZÓR RZECZPOSPOLITA RZECZPOSPOLITA RZECZPOSPOLITA POLSKA POLSKA POLSKA str. str. 4 4 i i 1 1 str. str. 4 4 i 1 i 1 Postanowieniem Postanowieniem MINISTER MINISTER nr nr Postanowieniem SPRAW SPRAW WEWNĘTRZNYCH WEWNĘTRZNYCH MINISTER nr SPRAW I I ADMINISTRACJI ADMINISTRACJI WEWNĘTRZNYCH I ADMINISTRACJI z z dnia dnia z dnia odznaczony(-na) odznaczony(-na) został(a) został(a) odznaczony(-na) został(a) LEGITYMACJA LEGITYMACJA LEGITYMACJA …………………….….. ………………………..
+
+ODZNAKĄ ODZNAKĄ NR NR …………………….….. „ZASŁUŻONY „ZASŁUŻONY DLA DLA OCHRONY OCHRONY ODZNAKĄ NR „ZASŁUŻONY PRZECIWPOŻAROWEJ” PRZECIWPOŻAROWEJ” DLA OCHRONY PRZECIWPOŻAROWEJ” Warszawa, Warszawa, dnia dnia mp. Minister Minister Warszawa, dnia Minister str. str. str. 2 2 2 i 3 i i 3 3 str. 2 i 3 Załącznik nr 3 WZÓR ODZNAKI „ZASŁUŻONY DLA OCHRONY PRZECIWPOŻAROWEJ” w trzech stopniach Załącznik nr 3 WZÓR WZÓR ODZNAKI ODZNAKI „ZASŁUŻONY „ZASŁUŻONY DLA DLA OCHRONY OCHRONY PRZECIWPOŻAROWEJ” PRZECIWPOŻAROWEJ” w trzech w trzech stopniach stopniach awers rewers awers awers rewers rewers BARETKI ODZNAKI w trzech stopniach BARETKI ODZNAKI w trzech stopniach BARETKI ODZNAKI w trzech stopniach –10 –10 – – –10 – Załącznik Załącznik nr nr 4 4 Załącznik nr 4 WZÓR WZÓR WZÓR WZÓR RZECZPOSPOLITA RZECZPOSPOLITA RZECZPOSPOLITA POLSKA POLSKA POLSKA str. str. 4 4 i i 1 1 str. str. 4 4 i 1 i 1 Postanowieniem Postanowieniem MINISTER MINISTER nr nr Postanowieniem SPRAW SPRAW WEWNĘTRZNYCH WEWNĘTRZNYCH MINISTER nr SPRAW I I ADMINISTRACJI ADMINISTRACJI WEWNĘTRZNYCH I ADMINISTRACJI z z dnia dnia z dnia odznaczony(-na) odznaczony(-na) został(a) został(a) odznaczony(-na) został(a) LEGITYMACJA LEGITYMACJA LEGITYMACJA WTÓRNIK WTÓRNIK WTÓRNIK ……............................. ……............................. ODZNAKĄ ODZNAKĄ NR NR „ZASŁUŻONY „ZASŁUŻONY ……............................. DLA DLA OCHRONY OCHRONY ODZNAKĄ NR „ZASŁUŻONY PRZECIWPOŻAROWEJ” PRZECIWPOŻAROWEJ” DLA OCHRONY PRZECIWPOŻAROWEJ” Warszawa, Warszawa, dnia dnia mp. Dyrektor Dyrektor komórki komórki Warszawa, dnia kadrowej kadrowej Dyrektor komórki MSWiA MSWiA kadrowej MSWiA str. str. str. 2 2 2 i 3 i i 3 3 str. 2 i 3
 

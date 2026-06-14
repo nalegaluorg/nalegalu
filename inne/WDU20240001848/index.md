@@ -8,12 +8,10 @@ pos: 1848
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Solidarnościowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 grudnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -58,7 +56,7 @@ o Funduszu Solidarnościowym
 
 3. Fundusz jest państwowym funduszem celowym, którego dysponentem jest minister właściwy do spraw zabezpieczenia społecznego.
 
-**Art. 2.** Ilekroć w ustawie jest mowa o osobie niepełnosprawnej oznacza to osobę niepełnosprawną w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165 i 1494).
+**Art. 2.** Ilekroć w ustawie jest mowa o osobie niepełnosprawnej – oznacza to osobę niepełnosprawną w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165 i 1494).
 
 **Art. 3.**
 
@@ -82,8 +80,8 @@ o Funduszu Solidarnościowym
 
 2. Wpłaconą na rachunek urzędu skarbowego daninę solidarnościową naczelnik urzędu skarbowego przekazuje na rachunek bankowy Funduszu w terminie:
 
-- **1)** trzech dni roboczych licząc od dnia 1 sierpnia roku, w którym jest składana deklaracja o wysokości daniny solidarnościowej w przypadku daniny solidarnościowej zapłaconej w terminie jej zapłaty;
-- **2)** dwóch miesięcy od dnia wpływu daniny solidarnościowej na rachunek urzędu skarbowego, nie wcześniej jednak niż dnia 1 sierpnia roku, w którym powinna zostać złożona deklaracja o wysokości daniny solidarnościowej w przypadku daniny solidarnościowej zapłaconej po upływie terminu jej zapłaty.
+- **1)** trzech dni roboczych licząc od dnia 1 sierpnia roku, w którym jest składana deklaracja o wysokości daniny solidarnościowej – w przypadku daniny solidarnościowej zapłaconej w terminie jej zapłaty;
+- **2)** dwóch miesięcy od dnia wpływu daniny solidarnościowej na rachunek urzędu skarbowego, nie wcześniej jednak niż dnia 1 sierpnia roku, w którym powinna zostać złożona deklaracja o wysokości daniny solidarnościowej – w przypadku daniny solidarnościowej zapłaconej po upływie terminu jej zapłaty.
 
 3. Dotacja celowa, o której mowa w ust. 1 pkt 5a, nie może być wyższa niż planowana na dany rok budżetowy kwota wpływu do budżetu państwa podatku od sprzedaży detalicznej, o którym mowa w ustawie z dnia 6 lipca 2016 r. o podatku od sprzedaży detalicznej (Dz. U. z 2023 r. poz. 148).
 
@@ -115,6 +113,10 @@ o Funduszu Solidarnościowym
 7. W przypadku nieprzekazania w terminach określonych w ust. 6 składek, pobranych odsetek oraz dodatkowej opłaty na rachunek bankowy Funduszu, należne są od Zakładu Ubezpieczeń Społecznych odsetki ustawowe za opóźnienie.
 
 **Art. 6.** Środki Funduszu przeznacza się na realizację:
+
+- **1)** programów rządowych i resortowych, o których mowa w art. 7 ust. 1 i 5, w tym obejmujących realizację zadań własnych jednostek samorządu terytorialnego w zakresie wsparcia osób niepełnosprawnych;
+- **2)** zadań związanych z promowaniem i wspieraniem systemu wsparcia osób niepełnosprawnych;
+- **3)** zadań z zakresu innowacyjnych rozwiązań w zakresie wsparcia osób niepełnosprawnych.
 
 **Art. 6a.**
 
@@ -214,7 +216,7 @@ o Funduszu Solidarnościowym
 - **3)** zasadność wysokości wnioskowanych środków w stosunku do celu, rezultatów i zakresu zadań, które obejmuje wniosek;
 - **4)** zdolność organizacyjną wnioskodawcy oraz przygotowanie instytucjonalne do realizacji zadań.
 
-7. Minister właściwy do spraw zabezpieczenia społecznego, właściwy minister lub Narodowy Fundusz Zdrowia, a w przypadku określonym w ust. 2 wojewoda, zamieszcza listę podmiotów, których wnioski zostały zatwierdzone, wraz z kwotą przyznanych środków z Funduszu na swojej stronie podmiotowej w Biuletynie Informacji Publicznej.
+7. Minister właściwy do spraw zabezpieczenia społecznego, właściwy minister lub Narodowy Fundusz Zdrowia, a w przypadku określonym w ust. 2 – wojewoda, zamieszcza listę podmiotów, których wnioski zostały zatwierdzone, wraz z kwotą przyznanych środków z Funduszu na swojej stronie podmiotowej w Biuletynie Informacji Publicznej.
 
 8. W przypadku, o którym mowa w ust. 1, podmiotom, których wnioski zostały zatwierdzone, minister właściwy do spraw zabezpieczenia społecznego, właściwy minister lub Narodowy Fundusz Zdrowia przekazuje środki z Funduszu, na podstawie umowy.
 
@@ -268,7 +270,7 @@ o Funduszu Solidarnościowym
 
 5. W celu przeprowadzenia otwartego konkursu ofert i dokonania wyboru najkorzystniejszych ofert minister właściwy do spraw zabezpieczenia społecznego, właściwy minister lub Narodowy Fundusz Zdrowia powołuje komisję konkursową, zwaną dalej „komisją”, w składzie co najmniej trzech osób oraz wyznacza jej przewodniczącego.
 
-6. Do członków komisji biorących udział w przeprowadzeniu otwartego konkursu ofert oraz dokonywaniu wyboru najkorzystniejszych ofert stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), dotyczące wyłączenia pracownika.
+6. Do członków komisji biorących udział w przeprowadzeniu otwartego konkursu ofert oraz dokonywaniu wyboru najkorzystniejszych ofert stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), dotyczące wyłączenia pracownika.
 
 7. Komisja może korzystać z pomocy ekspertów zewnętrznych posiadających specjalistyczną wiedzę z dziedziny obejmującej zakres zadań publicznych, których konkurs dotyczy.
 
@@ -331,7 +333,7 @@ o Funduszu Solidarnościowym
 
 2. W roku 2019 Fundusz przekazuje środki na refundację świadczenia, o którym mowa w ust. 1, do Funduszu Ubezpieczeń Społecznych.
 
-3. W roku 2019 minister właściwy do spraw finansów publicznych dokonuje wpłaty środków z budżetu państwa do Funduszu Rezerwy Demograficznej, zablokowanych w części 73 Zakład Ubezpieczeń Społecznych na podstawie art. 177 ust. 1 pkt 3 i ust. 3 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. Przepisu art. 177 ust. 6 i 7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się.
+3. W roku 2019 minister właściwy do spraw finansów publicznych dokonuje wpłaty środków z budżetu państwa do Funduszu Rezerwy Demograficznej, zablokowanych w części 73 – Zakład Ubezpieczeń Społecznych na podstawie art. 177 ust. 1 pkt 3 i ust. 3 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. Przepisu art. 177 ust. 6 i 7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się.
 
 4. W roku 2019 Funduszowi zostanie udzielona nieoprocentowana pożyczka w kwocie do 9 000 000 tys. zł ze środków Funduszu Rezerwy Demograficznej zgodnie z art. 59 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Zgoda ministra właściwego do spraw finansów publicznych, o której mowa w art. 3 ust. 1a, nie jest wymagana.
 
@@ -346,7 +348,7 @@ o Funduszu Solidarnościowym
 3. Przy ustalaniu wysokości podstawy obliczenia daniny solidarnościowej podlegającej zapłacie w terminie, o którym mowa w ust. 2, uwzględnia się dochody uzyskane od dnia 1 stycznia 2019 r. i kwoty pomniejszające te dochody zgodnie z art. 30h ust. 2 ustawy zmienianej w art. 21 , wykazywane w:
 
 - **1)** rocznym obliczeniu podatku, o którym mowa w art. 34 ust. 7 ustawy zmienianej w art. 21 ,
-- **2)** zeznaniach wymienionych w art. 45 ust. 1, ust. 1a pkt 1 i 2 oraz ust. 1aa ustawy zmienianej w art. 21 których termin złożenia upływa w okresie od dnia 1 stycznia 2019 r. do dnia 30 kwietnia 2020 r.
+- **2)** zeznaniach wymienionych w art. 45 ust. 1, ust. 1a pkt 1 i 2 oraz ust. 1aa ustawy zmienianej w art. 21 – których termin złożenia upływa w okresie od dnia 1 stycznia 2019 r. do dnia 30 kwietnia 2020 r.
 
 **Art. 34.** Minister właściwy do spraw zabezpieczenia społecznego opracuje roczny plan działania na rzecz wsparcia osób niepełnosprawnych na rok 2019 i umieści go na swojej stronie podmiotowej w Biuletynie Informacji Publicznej do dnia 31 stycznia 2019 r.
 
@@ -356,35 +358,35 @@ o Funduszu Solidarnościowym
 
 1. W latach 2019–2028 maksymalny limit wydatków będących skutkiem finansowym ustawy wynosi łącznie 32 244 tys. zł, z tego:
 
-- **1)** w części 44 Zabezpieczenie społeczne w:
-    - **a)** 2019 r. 750 tys. zł,
-    - **b)** 2020 r. 1750 tys. zł,
-    - **c)** 2021 r. 1750 tys. zł,
-    - **d)** 2022 r. 1750 tys. zł,
-    - **e)** 2023 r. 1750 tys. zł,
-    - **f)** 2024 r. 1750 tys. zł,
-    - **g)** 2025 r. 1750 tys. zł,
-    - **h)** 2026 r. 1750 tys. zł,
-    - **i)** 2027 r. 1750 tys. zł,
-    - **j)** 2028 r. 1750 tys. zł;
+- **1)** w części 44 – Zabezpieczenie społeczne w:
+    - **a)** 2019 r. – 750 tys. zł,
+    - **b)** 2020 r. – 1750 tys. zł,
+    - **c)** 2021 r. – 1750 tys. zł,
+    - **d)** 2022 r. – 1750 tys. zł,
+    - **e)** 2023 r. – 1750 tys. zł,
+    - **f)** 2024 r. – 1750 tys. zł,
+    - **g)** 2025 r. – 1750 tys. zł,
+    - **h)** 2026 r. – 1750 tys. zł,
+    - **i)** 2027 r. – 1750 tys. zł,
+    - **j)** 2028 r. – 1750 tys. zł;
 
-- **2)** w części 85 Województwa w:
-    - **a)** 2019 r. 1488 tys. zł,
-    - **b)** 2020 r. 1584 tys. zł,
-    - **c)** 2021 r. 1584 tys. zł,
-    - **d)** 2022 r. 1584 tys. zł,
-    - **e)** 2023 r. 1584 tys. zł,
-    - **f)** 2024 r. 1584 tys. zł,
-    - **g)** 2025 r. 1584 tys. zł,
-    - **h)** 2026 r. 1584 tys. zł,
-    - **i)** 2027 r. 1584 tys. zł,
-    - **j)** 2028 r. 1584 tys. zł.
+- **2)** w części 85 – Województwa w:
+    - **a)** 2019 r. – 1488 tys. zł,
+    - **b)** 2020 r. – 1584 tys. zł,
+    - **c)** 2021 r. – 1584 tys. zł,
+    - **d)** 2022 r. – 1584 tys. zł,
+    - **e)** 2023 r. – 1584 tys. zł,
+    - **f)** 2024 r. – 1584 tys. zł,
+    - **g)** 2025 r. – 1584 tys. zł,
+    - **h)** 2026 r. – 1584 tys. zł,
+    - **i)** 2027 r. – 1584 tys. zł,
+    - **j)** 2028 r. – 1584 tys. zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków zostanie zastosowany mechanizm korygujący, polegający na zmniejszeniu kosztów rzeczowych, związanych z obsługą realizacji zadań wynikających z ustawy.
 
 3. Organem właściwym do monitorowania wykorzystania limitów wydatków jest minister właściwy do spraw zabezpieczenia społecznego.
 
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, w zakresie części budżetowej 44 Zabezpieczenie społeczne jest minister właściwy do spraw zabezpieczenia społecznego, a wojewodowie w zakresie części budżetowej 85 Województwa.
+4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, w zakresie części budżetowej 44 – Zabezpieczenie społeczne jest minister właściwy do spraw zabezpieczenia społecznego, a wojewodowie w zakresie części budżetowej 85 – Województwa.
 
 **Art. 37.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r.
 

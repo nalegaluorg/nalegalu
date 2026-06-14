@@ -8,7 +8,7 @@ pos: 971
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Na podstawie art. 89 ust. 4 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz.U. Nr 102, poz. 643) w związku z orzeczeniem Trybunału Konstytucyjnego z dnia 8 kwietnia 1997 r. sygn. akt K. 14/96 ogłaszam utratę mocy obowiązującej art. 8 ustawy z dnia 21 lipca 1995 r.

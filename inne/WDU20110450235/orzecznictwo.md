@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3*
 
 Łącznie: **76** orzeczeń
-(pominięto 58 orzeczeń sądów rejonowych)
+(pominięto 59 orzeczeń sądów rejonowych)
 
 ## art. 2 (2)
 

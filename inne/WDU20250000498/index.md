@@ -8,7 +8,7 @@ pos: 498
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych
@@ -33,9 +33,28 @@ Art. 92–103. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i warunki udzielania wsparcia dla energii elektrycznej wytwarzanej w morskich farmach wiatrowych;
+- **2)** zasady i warunki przygotowania oraz realizacji inwestycji w zakresie budowy morskich farm wiatrowych;
+- **3)** zasady rozporządzania zespołem urządzeń służących do wyprowadzenia mocy oraz morską farmą wiatrową;
+- **4)** wymagania w zakresie budowy, eksploatacji i likwidacji morskich farm wiatrowych.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o cenie będącej podstawą do rozliczenia ujemnego salda, o którym mowa w art. 40 ust. 1 pkt 3, zwanego dalej „ujemnym saldem”, cenie skorygowanej lub cenie wynikającej z wniosku lub oferty, należy przez to rozumieć cenę niezawierającą kwoty podatku od towarów i usług.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** jednolite łączenie rynków dnia następnego – jednolite łączenie rynków dnia następnego w rozumieniu art. 2 pkt 26 rozporządzenia Komisji (UE) 2015/1222 z dnia 24 lipca 2015 r. ustanawiającego wytyczne dotyczące alokacji zdolności przesyłowych i zarządzania ograniczeniami przesyłowymi (Dz. Urz. UE L 197 z 27.07.2015, str. 24, z późn. zm. );
+- **2)** moc zainstalowana elektryczna morskiej farmy wiatrowej – sumę określonych przez producenta mocy znamionowych morskich turbin wiatrowych składających się na morską farmę wiatrową, nie większą niż moc przyłączeniowa;
+- **3)** morska farma wiatrowa – instalację stanowiącą wyodrębniony zespół urządzeń służących do wytwarzania energii, w skład którego wchodzi jedna lub więcej morskich turbin wiatrowych, sieć średniego lub wysokiego napięcia wraz ze stacjami elektroenergetycznymi zlokalizowanymi na morzu, z wyłączeniem urządzeń po stronie górnego napięcia transformatora lub transformatorów znajdujących się na tej stacji;
+- **4)** morska turbina wiatrowa – pojedynczy, samodzielny zespół urządzeń służących do wytwarzania energii elektrycznej wyłącznie z energii wiatru na morzu;
+- **5)** okres rozliczania niezbilansowania – okres rozliczania niezbilansowania w rozumieniu art. 2 pkt 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54);
+- **6)** operator rozliczeń energii odnawialnej – operatora rozliczeń energii odnawialnej, o którym mowa w art. 106 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361, 1847 i 1881), zwanej dalej „ustawą o odnawialnych źródłach energii”;
+- **7)** operator systemu dystrybucyjnego – operatora systemu dystrybucyjnego w rozumieniu art. 3 pkt 25 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834, 859, 1847 i 1881), zwanej dalej „ustawą – Prawo energetyczne”;
+- **8)** operator systemu przesyłowego – operatora systemu przesyłowego w rozumieniu art. 3 pkt 24 ustawy – Prawo energetyczne;
+- **9)** redysponowanie – redysponowanie w rozumieniu art. 2 pkt 26 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej;
+- **10)** właściciel zespołu urządzeń – podmiot, któremu przysługuje własność zespołu urządzeń służących do wyprowadzenia mocy, w tym zespołu takich urządzeń w budowie realizowanej zgodnie z uzyskanym pozwoleniem na wznoszenie lub wykorzystywanie sztucznych wysp, konstrukcji i urządzeń lub uzgodnieniem lub pozwoleniem na układanie kabli lub rurociągów na potrzeby tego zespołu, wydanym na podstawie przepisów ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125), zwanej dalej „ustawą o obszarach morskich”;
+- **11)** wyłączna strefa ekonomiczna – wyłączną strefę ekonomiczną Rzeczypospolitej Polskiej, o której mowa w ustawie o obszarach morskich;
+- **12)** wytwórca – podmiot, który ma siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, wytwarzający lub zamierzający wytwarzać energię elektryczną z energii wiatru na morzu w morskiej farmie wiatrowej;
+- **13)** zespół urządzeń służących do wyprowadzenia mocy – wyodrębniony zespół urządzeń i budowli związanych, jak i niezwiązanych trwale z gruntem, w tym dnem morskim, służących do wyprowadzenia mocy z morskiej farmy wiatrowej od zacisków strony górnego napięcia transformatora lub transformatorów znajdujących się na stacji albo stacjach elektroenergetycznych zlokalizowanych w polskich obszarach morskich do miejsca rozgraniczenia własności określonego we wstępnych warunkach przyłączenia lub warunkach przyłączenia.
 
 **Art. 3a.**
 
@@ -160,11 +179,11 @@ Art. 92–103. (pominięte)
 
 3. Wartość pomocy inwestycyjnej oblicza się na dzień złożenia wniosku, o którym mowa w ust. 5, według następującego wzoru: PI = ∑ (PI ∗∏(1+r ))Pk gdzie poszczególne symbole oznaczają: PI – sumę zwaloryzowanej wartości pomocy inwestycyjnej, wyrażoną w złotych, PI – wartość w roku „i” pomocy inwestycyjnej, wyrażoną w złotych, udzieloną w danym roku „i”, j – rok kalendarzowy, w którym wytwórca złożył wniosek, o którym mowa w ust. 5, i – kolejne lata kalendarzowe liczone od roku kalendarzowego „u” do roku kalendarzowego „j”, u – rok kalendarzowy, w którym po raz pierwszy udzielono pomocy inwestycyjnej oznaczonej symbolem PI , przeznaczonej na realizację inwestycji w zakresie danej morskiej farmy wiatrowej, wraz z zespołem urządzeń służących do wyprowadzenia mocy, r – stopę referencyjną wyrażoną w ułamku dziesiętnym, będącą spadkiem lub wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem w roku „i” określonym w komunikacie Prezesa Głównego Urzędu Statystycznego, ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przy czym wartość r dla roku kalendarzowego „j” wynosi 0; w przypadku gdy do dnia złożenia wniosku, o którym mowa w ust. 5, stopa referencyjna w roku „i” nie została ogłoszona, należy przyjąć spadek lub wzrost wskaźnika cen towarów i usług konsumpcyjnych z listopada roku „i” w ujęciu rok do roku, Pk – stosunek mocy zainstalowanej elektrycznej objętej wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej do mocy zainstalowanej elektrycznej morskiej farmy wiatrowej, o której mowa w art. 18 ust. 4 albo art. 31 ust. 4 pkt 2, z uwzględnieniem art. 22 albo art. 32.
 
-4. Wytwórcy, o których mowa w art. 13 ust. 1 albo art. 26 ust. 1, dokonują obliczenia ceny skorygowanej stanowiącej podstawę wypłaty ujemnego salda według następującego wzoru: C = C PI − I gdzie poszczególne symbole oznaczają: C – cenę skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość C jest równa wartości C , C – cenę wskazaną w decyzji, o której mowa w art. 18 ust. 1, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3, z uwzględnieniem waloryzacji, o której mowa w art. 38 ust. 5, z uwzględnieniem art. 38 ust. 5a i 5b, na dzień złożenia wniosku, o którym mowa w ust. 5, PI – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 3, I – ilość energii elektrycznej, wyrażoną w MWh, obliczoną zgodnie z art. 7, w oparciu o moc zainstalowaną elektryczną morskiej farmy wiatrowej, objętą wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej.
+4. Wytwórcy, o których mowa w art. 13 ust. 1 albo art. 26 ust. 1, dokonują obliczenia ceny skorygowanej stanowiącej podstawę wypłaty ujemnego salda według następującego wzoru: PI C = C − I gdzie poszczególne symbole oznaczają: C – cenę skorygowaną, wyrażoną w zł/MWh; w przypadku nieudzielenia pomocy inwestycyjnej, o której mowa w ust. 1, wartość C jest równa wartości C , C – cenę wskazaną w decyzji, o której mowa w art. 18 ust. 1, albo wynikającą z oferty, o której mowa w art. 31 ust. 1, albo cenę skorygowaną, o której mowa w art. 11 ust. 3, z uwzględnieniem waloryzacji, o której mowa w art. 38 ust. 5, z uwzględnieniem art. 38 ust. 5a i 5b, na dzień złożenia wniosku, o którym mowa w ust. 5, PI – sumę zwaloryzowanej wartości pomocy inwestycyjnej, o której mowa w ust. 1, wyrażoną w złotych, obliczoną zgodnie z ust. 3, I – ilość energii elektrycznej, wyrażoną w MWh, obliczoną zgodnie z art. 7, w oparciu o moc zainstalowaną elektryczną morskiej farmy wiatrowej, objętą wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej.
 
 5. Do wniosku o udzielenie koncesji na wykonywanie działalności gospodarczej w zakresie wytwarzania energii elektrycznej w morskiej farmie wiatrowej lub do wniosku o zmianę tej koncesji w zakresie mocy zainstalowanej elektrycznej morskiej farmy wiatrowej wytwórca ubiegający się o przyznanie prawa do pokrycia ujemnego salda na zasadach określonych w rozdziale 3 albo w rozdziale 4 załącza oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że wartość pomocy inwestycyjnej, o której mowa w art. 10 ust. 1 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, obliczona zgodnie z art. 10 ust. 2 i 3 tej ustawy, wynosi (...) złotych. Cena skorygowana obliczona zgodnie z art. 10 ust. 4 tej ustawy wynosi (...) złotych za 1 MWh.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
 
-6. W przypadku gdy po dniu złożenia oświadczenia zostanie udzielona pomoc inwestycyjna lub nastąpi zmiana wartości tej pomocy, wytwórca przekazuje Prezesowi URE, najpóźniej w dziesiątym dniu miesiąca następującego po miesiącu, w którym nastąpiło udzielenie lub zmiana wartości takiej pomocy, oświadczenie zawierające jej wartość obliczoną zgodnie z ust. 2, datę jej udzielenia lub zmiany, wskazanie podmiotu udzielającego pomocy oraz cenę skorygowaną. Cenę skorygowaną oblicza się według następującego wzoru: C = C P − I P + I gdzie poszczególne symbole oznaczają: C – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (C ) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3, C – cenę skorygowaną, wyrażoną w zł/MWh, z uwzględnieniem art. 38 ust. 5, z uwzględnieniem art. 38 ust. 5a i 5b, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3, P – wysokość udzielonej pomocy inwestycyjnej lub wzrost jej wartości, wyrażone w złotych, udzielonej po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczone zgodnie z ust. 2, P – spadek wartości udzielonej pomocy inwestycyjnej, wyrażony w złotych, po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczony zgodnie z ust. 2, I – ilość energii elektrycznej, wyrażonej w MWh, obliczoną zgodnie z art. 7, w oparciu o moc zainstalowaną elektryczną morskiej farmy wiatrowej, objętą wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej, pomniejszoną o ilość energii elektrycznej, w odniesieniu do której wytwórca otrzymał kwotę przeznaczoną na pokrycie ujemnego salda do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy P , stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3.
+6. W przypadku gdy po dniu złożenia oświadczenia zostanie udzielona pomoc inwestycyjna lub nastąpi zmiana wartości tej pomocy, wytwórca przekazuje Prezesowi URE, najpóźniej w dziesiątym dniu miesiąca następującego po miesiącu, w którym nastąpiło udzielenie lub zmiana wartości takiej pomocy, oświadczenie zawierające jej wartość obliczoną zgodnie z ust. 2, datę jej udzielenia lub zmiany, wskazanie podmiotu udzielającego pomocy oraz cenę skorygowaną. Cenę skorygowaną oblicza się według następującego wzoru: P P C = C − + I I gdzie poszczególne symbole oznaczają: C – nową cenę skorygowaną, wyrażoną w zł/MWh, która staje się ceną skorygowaną (C ) obowiązującą od miesiąca następującego po miesiącu złożenia oświadczenia, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3, C – cenę skorygowaną, wyrażoną w zł/MWh, z uwzględnieniem art. 38 ust. 5, z uwzględnieniem art. 38 ust. 5a i 5b, obowiązującą do końca miesiąca, w którym złożono oświadczenie, o którym mowa w zdaniu pierwszym, stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3, P – wysokość udzielonej pomocy inwestycyjnej lub wzrost jej wartości, wyrażone w złotych, udzielonej po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczone zgodnie z ust. 2, P – spadek wartości udzielonej pomocy inwestycyjnej, wyrażony w złotych, po dniu złożenia oświadczenia, o którym mowa w ust. 5, obliczony zgodnie z ust. 2, I – ilość energii elektrycznej, wyrażonej w MWh, obliczoną zgodnie z art. 7, w oparciu o moc zainstalowaną elektryczną morskiej farmy wiatrowej, objętą wnioskiem o udzielenie lub zmianę koncesji na wytwarzanie energii elektrycznej, pomniejszoną o ilość energii elektrycznej, w odniesieniu do której wytwórca otrzymał kwotę przeznaczoną na pokrycie ujemnego salda do końca miesiąca poprzedzającego miesiąc, w którym udzielono pomocy P , stanowiącą podstawę wypłaty ujemnego salda zgodnie z art. 40 ust. 1 pkt 3.
 
 6a. W przypadku, o którym mowa w art. 3a, gdy pomoc inwestycyjna została przeznaczona na realizację inwestycji w zakresie morskiej stacji transformatorowej lub zespołu urządzeń służących do wyprowadzenia mocy lub jego elementów, wykorzystywanych przez więcej niż jedną morską farmę wiatrową, zwaną dalej „inwestycją wspólną”:
 
@@ -437,6 +456,9 @@ Art. 92–103. (pominięte)
 
 **Art. 25a.** Minister właściwy do spraw klimatu ogłasza w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
+- **1)** kurs wymiany euro, przyjęty do obliczenia ceny maksymalnej określonej w przepisach wykonawczych wydanych na podstawie art. 25 ust. 2;
+- **2)** cenę maksymalną, określoną w przepisach wykonawczych wydanych na podstawie art. 25 ust. 2, w przeliczeniu na euro zgodnie z kursem, o którym mowa w pkt 1.
+
 #### Rozdział 4 Zasady uczestnictwa w aukcji dla morskich farm wiatrowych
 
 **Art. 26.**
@@ -641,6 +663,9 @@ Art. 92–103. (pominięte)
 - **3)** uzasadniony zwrot z kapitału zaangażowanego w wykonywaną działalność gospodarczą w zakresie przygotowania, budowy i eksploatacji morskiej farmy wiatrowej.
 
 **Art. 31a.** Minister właściwy do spraw klimatu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
+
+- **1)** kurs wymiany euro, przyjęty do obliczenia maksymalnej ceny określonej w przepisach wydanych na podstawie art. 31 ust. 11;
+- **2)** maksymalną cenę, określoną w przepisach wydanych na podstawie art. 31 ust. 11, w przeliczeniu na euro zgodnie z kursem, o którym mowa w pkt 1.
 
 **Art. 32.**
 
@@ -1177,6 +1202,9 @@ Art. 92–103. (pominięte)
 
 **Art. 68.** Osoby upoważnione do przeprowadzenia kontroli są uprawnione do:
 
+- **1)** wstępu na teren nieruchomości, obiektów, lokali lub ich części należących do wytwórców, którzy uzyskali decyzję, o której mowa w art. 18 ust. 1, albo wygrali aukcję, o której mowa w art. 26 ust. 1;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub danych zawartych na innych nośnikach informacji, mających związek z przedmiotem kontroli, oraz udostępnienia ich.
+
 **Art. 69.** Z przeprowadzonej kontroli sporządza się protokół zawierający ocenę zgodności ze stanem faktycznym złożonych oświadczeń, o których mowa w art. 10 ust. 5, 6 i 8, art. 12 ust. 2, art. 26 ust. 5 pkt 10 i art. 31 ust. 4 pkt 7 i 8, oraz przekazanych informacji, o których mowa w art. 15 ust. 2 pkt 2 i art. 31 ust. 4 pkt 2, oraz prawidłowości ceny skorygowanej, o której mowa w art. 10 ust. 4 i 6. Termin do złożenia zastrzeżeń przez wytwórcę nie może być krótszy niż 21 dni od dnia doręczenia protokołu.
 
 **Art. 70.**
@@ -1315,6 +1343,16 @@ Art. 92–103. (pominięte)
 6. Wytwórca każdorazowo ustala z operatorem systemu przesyłowego zakres dokumentów, o których mowa w ust. 5.
 
 **Art. 83.** Minister właściwy do spraw klimatu, po zasięgnięciu opinii ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, określi, w drodze rozporządzenia, szczegółowe wymagania dla elementów zespołu urządzeń służących do wyprowadzenia mocy oraz dla elementów stacji elektroenergetycznych zlokalizowanych na morzu, w szczególności:
+
+- **1)** minimalny operacyjny czas życia zespołu urządzeń służących do wyprowadzenia mocy,
+- **2)** minimalną dostępność i maksymalną utratę mocy zespołu urządzeń służących do wyprowadzenia mocy oraz szczegółowy sposób wyznaczania tej minimalnej dostępności,
+- **3)** wymagania dla elementów stacji elektroenergetycznych, w tym wymagania budowlane,
+- **4)** wymagania dla kablowej linii eksportowej służącej do wyprowadzenia mocy z morskich farm wiatrowych,
+- **5)** wymagania dla urządzeń i układów obwodów wtórnych oraz urządzeń i układów współpracujących z nimi,
+- **6)** wymagania dla urządzeń i systemów telekomunikacyjnych,
+- **7)** wymagania w zakresie ochrony urządzeń obwodów wtórnych, urządzeń współpracujących z nimi oraz urządzeń telekomunikacyjnych przed czynnikami środowiskowymi,
+- **8)** minimalny zakres ocen, analiz i raportów, o których mowa w art. 82 ust. 5, oraz terminy ich sporządzania i przekazywania operatorowi systemu przesyłowego,
+- **9)** wymagania w zakresie zabiegów eksploatacyjnych i przeglądów – biorąc pod uwagę bezpieczeństwo i niezawodność funkcjonowania zespołu urządzeń służących do wyprowadzenia mocy i stacji elektroenergetycznych zlokalizowanych na morzu.
 
 **Art. 84.** (uchylony)
 

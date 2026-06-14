@@ -8,7 +8,7 @@ pos: 706
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Pile.
@@ -26,7 +26,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000610706) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/706/text.pdf) |
 
-Na podstawie art. 10 ust. 1 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590 i z 1998 r. Nr 106, poz. 668) zarządza się, co następuje: § 1. 1. Tworzy się z dniem 1 sierpnia 2000 r. państwową wyższą szkołę zawodową pod nazwą „Państwowa Wyższa Szkoła Zawodowa w Pile”, zwaną dalej „Uczelnią”.
+Na podstawie art. 10 ust. 1 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590 i z 1998 r. Nr 106, poz. 668) zarządza się, co następuje:
+§ 1. 1. Tworzy się z dniem 1 sierpnia 2000 r. państwową wyższą szkołę zawodową pod nazwą „Państwowa Wyższa Szkoła Zawodowa w Pile”, zwaną dalej „Uczelnią”.
 2. Siedzibą Uczelni jest miasto Piła.
 § 2. Uczelnia prowadzi następujące specjalności zawodowe:
 1) edukacja społeczno-obywatelska,

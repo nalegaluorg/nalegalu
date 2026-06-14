@@ -8,7 +8,7 @@ pos: 969
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Politechnice Radomskiej im. Kazimierza Pułaskiego nazwy „Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu”

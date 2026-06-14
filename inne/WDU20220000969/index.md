@@ -8,10 +8,10 @@ pos: 969
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 maja 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 996699 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 25 marca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,22 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000969) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/969/text.pdf) |
 
-996699 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 25 marca 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 12 marca 2008 r. w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych (Dz. U. poz. 347), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 11 października 2019 r. zmieniającym rozporządzenie w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych (Dz. U. poz. 2094).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych (Dz. U. poz. 2094), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 marca 2008 r.
-w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych Na podstawie art. 121 ust. 5 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830) zarządza się, co następuje: § 1. 1. Zgłoszenia podejrzenia, że produkt leczniczy nie odpowiada ustalonym dla niego wymaganiom jakościowym, dokonuje się do wojewódzkiego inspektora farmaceutycznego, zwanego dalej „wojewódzkim inspektorem”.
+w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych Na podstawie art. 121 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830) zarządza się, co następuje:
+§ 1. 1. Zgłoszenia podejrzenia, że produkt leczniczy nie odpowiada ustalonym dla niego wymaganiom jakościowym, dokonuje się do wojewódzkiego inspektora farmaceutycznego, zwanego dalej „wojewódzkim inspektorem”.
 2. Zgłoszenie podejrzenia, o którym mowa w ust. 1, przez:
 1) kierownika zakładu opieki zdrowotnej , lekarza lub lekarza dentystę zatrudnionego w zakładzie opieki zdrowotnej ,
-2) kierownika zakładu leczniczego dla zwierząt z wyłączeniem zgłoszenia dotyczącego produktu leczniczego weterynaryjnego,
+2) kierownika zakładu leczniczego dla zwierząt – z wyłączeniem zgłoszenia dotyczącego produktu leczniczego weterynaryjnego,
 3) kierownika apteki lub punktu aptecznego,
 4) podmiot uprawniony do obrotu produktami leczniczymi,
 5) podmiot odpowiedzialny, wytwórcę lub importera,
 6) lekarza prowadzącego indywidualną praktykę lekarską, indywidualną specjalistyczną praktykę lekarską lub grupową praktykę lekarską,
 7) pielęgniarkę i położną udzielającą świadczeń w ramach indywidualnej praktyki pielęgniarek i położnych, indywidualnej specjalistycznej praktyki pielęgniarek i położnych lub grupowej praktyki pielęgniarek i położnych,
-8) felczera, ratownika medycznego oraz inne osoby wykonujące zawód medyczny uprawnione do podawania pacjentowi produktów leczniczych następuje w formie pisemnej na formularzu, którego wzór stanowi załącznik nr 1 do rozporządzenia.
-3. Zgłaszający, o którym mowa w ust. 2, zabezpiecza produkt leczniczy, co do którego zachodzi podejrzenie, że nie odpowiada ustalonym dla niego wymaganiom jakościowym, w ten sposób, że umieszcza produkt leczniczy lub jego pozostałości, w tym opakowania, w trwale zamkniętym opakowaniu z napisem „produkt leczniczy zabezpieczony podejrzenie braku spełnienia wymagań jakościowych”. W przypadku gdy produkt leczniczy nie znajduje się w posiadaniu zgłaszającego, składa on pisemne oświadczenia o przyczynach braku posiadania produktu leczniczego lub jego pozostałości, w tym opakowania.
+8) felczera, ratownika medycznego oraz inne osoby wykonujące zawód medyczny uprawnione do podawania pacjentowi produktów leczniczych – następuje w formie pisemnej na formularzu, którego wzór stanowi załącznik nr 1 do rozporządzenia.
+3. Zgłaszający, o którym mowa w ust. 2, zabezpiecza produkt leczniczy, co do którego zachodzi podejrzenie, że nie odpowiada ustalonym dla niego wymaganiom jakościowym, w ten sposób, że umieszcza produkt leczniczy lub jego pozostałości, w tym opakowania, w trwale zamkniętym opakowaniu z napisem „produkt leczniczy zabezpieczony – podejrzenie braku spełnienia wymagań jakościowych”. W przypadku gdy produkt leczniczy nie znajduje się w posiadaniu zgłaszającego, składa on pisemne oświadczenia o przyczynach braku posiadania produktu leczniczego lub jego pozostałości, w tym opakowania.
 § 2. 1. Po otrzymaniu zgłoszenia, że zachodzi podejrzenie, że dany produkt leczniczy nie odpowiada ustalonym dla niego wymaganiom jakościowym, wojewódzki inspektor niezwłocznie:
 1) zabezpiecza produkt leczniczy będący przedmiotem zgłoszenia lub jego pozostałości, w tym opakowania;
 2) powiadamia inspektora do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, właściwego dla miejsca wytwarzania lub importu danego produktu leczniczego, że zachodzi podejrzenie, że dany produkt leczniczy nie odpowiada ustalonym dla niego wymaganiom jakościowym, w przypadku produktu leczniczego wytwarzanego lub importowanego na terytorium Rzeczypospolitej Polskiej;
@@ -49,7 +49,7 @@ a) przeprowadzeniu wywiadu i zebraniu informacji dotyczących możliwych przyczy
 b) zebraniu szczegółowych informacji dotyczących wprowadzenia do obrotu produktu leczniczego,
 c) sprawdzeniu drogi dystrybucji produktu leczniczego w zakresie wystąpienia nieprawidłowości mających wpływ na zaistnienie podejrzenia, że produkt leczniczy nie odpowiada ustalonym dla niego wymaganiom jakościowym.
 2. Po otrzymaniu zgłoszenia, że zachodzi podejrzenie, że dany produkt leczniczy, o którym mowa w ust. 1 pkt 2, nie odpowiada ustalonym dla niego wymaganiom jakościowym, inspektor do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego niezwłocznie przeprowadza wywiad i zbiera informacje dotyczące możliwych przyczyn niespełnienia wymagań jakościowych przez produkt leczniczy.
-3. Zabezpieczenie, o którym mowa w ust. 1 pkt 1, polega na umieszczeniu produktu leczniczego lub jego pozostałości, w tym opakowania, w trwale zamkniętym opakowaniu oznaczonym napisem „produkt leczniczy do badań podejrzenie braku spełnienia wymagań jakościowych” oraz sporządzeniu protokołu zawierającego:
+3. Zabezpieczenie, o którym mowa w ust. 1 pkt 1, polega na umieszczeniu produktu leczniczego lub jego pozostałości, w tym opakowania, w trwale zamkniętym opakowaniu oznaczonym napisem „produkt leczniczy do badań – podejrzenie braku spełnienia wymagań jakościowych” oraz sporządzeniu protokołu zawierającego:
 1) nazwę i adres podmiotu, u którego został zabezpieczony produkt leczniczy;
 2) nazwę produktu leczniczego;
 3) liczbę, dawkę, postać farmaceutyczną i wielkość opakowania;
@@ -58,7 +58,7 @@ c) sprawdzeniu drogi dystrybucji produktu leczniczego w zakresie wystąpienia ni
 6) datę oraz nadruk lub pieczątkę obejmujące imię i nazwisko wojewódzkiego inspektora oraz wskazanie pełnionej funkcji, oraz jego podpis.
 4. Protokół, o którym mowa w ust. 3, sporządza się w dwóch egzemplarzach, z których jeden dołącza się do zabezpieczonego produktu leczniczego, a drugi zatrzymuje wojewódzki inspektor.
 5. Jeżeli z treści zgłoszenia wynika, że w opisanym przypadku może zaistnieć bezpośrednie zagrożenie życia lub zdrowia, wojewódzki inspektor niezwłocznie po otrzymaniu zgłoszenia wydaje decyzję o wstrzymaniu na terenie swojego działania obrotu określonych serii produktu leczniczego; wydanie decyzji nie wstrzymuje wszczęcia postępowania, o którym mowa w ust. 1 pkt 3.
-6. Po przeprowadzeniu postępowania wyjaśniającego wojewódzki inspektor może wydać decyzję o skierowaniu produktu leczniczego do badań w jednostkach zajmujących się badaniami produktów leczniczych, określonych w przepisach wydanych na podstawie art. 22 ust. 3 pkt 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne.
+6. Po przeprowadzeniu postępowania wyjaśniającego wojewódzki inspektor może wydać decyzję o skierowaniu produktu leczniczego do badań w jednostkach zajmujących się badaniami produktów leczniczych, określonych w przepisach wydanych na podstawie art. 22 ust. 3 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 7. W przypadku gdy postępowanie wyjaśniające i badania, o których mowa w ust. 6, potwierdzą, że produkt leczniczy nie odpowiada ustalonym dla niego wymaganiom jakościowym, wojewódzki inspektor niezwłocznie po zakończeniu postępowania wyjaśniającego i otrzymaniu wyników badań wydaje decyzję o wycofaniu na obszarze jego działania produktu leczniczego z obrotu.
 8. Decyzje, o których mowa w ust. 5 i 7, otrzymują:
 1) podmiot odpowiedzialny, wytwórca lub importer;
@@ -69,7 +69,7 @@ c) sprawdzeniu drogi dystrybucji produktu leczniczego w zakresie wystąpienia ni
 6) Naczelny Inspektor Farmaceutyczny Wojska Polskiego;
 7) wojewódzki inspektor, na którego terenie działania znajduje się siedziba podmiotu odpowiedzialnego, wytwórcy lub importera.
 9. Decyzję, o której mowa w ust. 7, otrzymuje również jednostka, która przeprowadziła badania, o których mowa w ust. 6.
-10. O wydaniu decyzji, o których mowa w ust. 5 i 7, wojewódzki inspektor niezwłocznie zawiadamia Głównego Inspektora Farmaceutycznego, a Główny Inspektor Farmaceutyczny ministra właściwego do spraw zdrowia. Minister właściwy do spraw zdrowia może poinformować opinię publiczną o wstrzymaniu w obrocie lub wycofaniu z obrotu produktu leczniczego.
+10. O wydaniu decyzji, o których mowa w ust. 5 i 7, wojewódzki inspektor niezwłocznie zawiadamia Głównego Inspektora Farmaceutycznego, a Główny Inspektor Farmaceutyczny – ministra właściwego do spraw zdrowia. Minister właściwy do spraw zdrowia może poinformować opinię publiczną o wstrzymaniu w obrocie lub wycofaniu z obrotu produktu leczniczego.
 § 3. 1. Wojewódzki inspektor po powzięciu uzasadnionego podejrzenia lub otrzymaniu zgłoszenia o podejrzeniu, że dany wyrób medyczny nie odpowiada ustalonym dla niego wymaganiom określonym w ustawie z dnia 20 kwietnia 2004 r.
 o wyrobach medycznych (Dz. U. poz. 896, z 2005 r. poz. 565 oraz z 2007 r. poz. 1238) , zabezpiecza wyrób medyczny.
 W przypadku otrzymania zgłoszenia, że zachodzi podejrzenie, że dany wyrób medyczny nie odpowiada ustalonym dla niego wymaganiom zasadniczym, wojewódzki inspektor niezwłocznie przeprowadza postępowanie wyjaśniające, polegające w szczególności na:
@@ -103,30 +103,30 @@ W przypadku otrzymania zgłoszenia, że zachodzi podejrzenie, że dany wyrób me
 3) niezwłocznego przekazania decyzji o wstrzymaniu lub wycofaniu z obrotu produktu leczniczego, w szczególności za pomocą telefaksu lub poczty elektronicznej wszystkim bezpośrednim odbiorcom, bądź informacji o treści wydanej decyzji za pomocą telefonu bezpośrednim odbiorcom, którzy nie posiadają telefaksu lub poczty elektronicznej;
 4) przekazania do organów Państwowej Inspekcji Farmaceutycznej raportu o podjętych działaniach zabezpieczających;
 5) przyjęcia raportów o podjętych działaniach zabezpieczających od bezpośrednich odbiorców produktów leczniczych;
-6) przyjęcia od bezpośrednich odbiorców zwrotów produktu leczniczego w przypadku procedury wycofania z obrotu.
+6) przyjęcia od bezpośrednich odbiorców zwrotów produktu leczniczego – w przypadku procedury wycofania z obrotu.
 2. Kierownik hurtowni farmaceutycznej po otrzymaniu decyzji o wstrzymaniu lub wycofaniu z obrotu produktu leczniczego albo decyzji lub powiadomienia o wstrzymaniu wprowadzania do obrotu i do używania, wycofaniu z obrotu albo wycofaniu z obrotu i z używania wyrobu medycznego, na podstawie odrębnych przepisów, jest obowiązany do:
 1) niezwłocznego zabezpieczenia posiadanego zapasu produktu leczniczego lub wyrobu medycznego przed dalszym wprowadzaniem do obrotu;
 2) niezwłocznego sporządzenia protokołu, którego wzór stanowi załącznik nr 2 do rozporządzenia;
 3) niezwłocznego przekazania decyzji o wstrzymaniu lub wycofaniu z obrotu produktu leczniczego albo decyzji lub powiadomienia o wstrzymaniu wprowadzania do obrotu i do używania, wycofaniu z obrotu albo wycofaniu z obrotu i z używania wyrobu medycznego, w szczególności za pomocą telefaksu lub poczty elektronicznej wszystkim bezpośrednim odbiorcom, bądź informacji o treści wydanej decyzji za pomocą telefonu bezpośrednim odbiorcom, którzy nie posiadają telefaksu lub poczty elektronicznej;
-4) przekazania raportów o podjętych działaniach zabezpieczających do podmiotu odpowiedzialnego lub wytwórcy w przypadku produktu leczniczego, do wytwórcy lub Prezesa Urzędu, lub autoryzowanego przedstawiciela, jeżeli dotyczy w przypadku wyrobu medycznego;
+4) przekazania raportów o podjętych działaniach zabezpieczających do podmiotu odpowiedzialnego lub wytwórcy – w przypadku produktu leczniczego, do wytwórcy lub Prezesa Urzędu, lub autoryzowanego przedstawiciela, jeżeli dotyczy – w przypadku wyrobu medycznego;
 5) przyjęcia raportów o podjętych działaniach zabezpieczających od bezpośrednich odbiorców produktów leczniczych lub wyrobów medycznych;
-6) przyjęcia od bezpośrednich odbiorców zwrotów produktu leczniczego w przypadku procedury wycofania z obrotu;
+6) przyjęcia od bezpośrednich odbiorców zwrotów produktu leczniczego – w przypadku procedury wycofania z obrotu;
 7) zwrotu zgromadzonego zapasu produktu leczniczego do podmiotu odpowiedzialnego lub wytwórcy nie później niż w ciągu 90 dni od dnia uzyskania przez hurtownię farmaceutyczną decyzji o wycofaniu produktu leczniczego z obrotu.
 3. Kierownik apteki, punktu aptecznego lub placówki obrotu pozaaptecznego po otrzymaniu decyzji o wstrzymaniu lub wycofaniu z obrotu produktu leczniczego albo decyzji lub powiadomienia o wstrzymaniu wprowadzania do obrotu i do używania, wycofaniu z obrotu albo wycofaniu z obrotu i z używania wyrobu medycznego, na podstawie odrębnych przepisów, jest obowiązany do:
 1) niezwłocznego zabezpieczenia posiadanego zapasu produktu leczniczego lub wyrobu medycznego przed dalszym wprowadzaniem do obrotu;
-2) niezwłocznego przekazania decyzji o wstrzymaniu lub wycofaniu z obrotu produktu leczniczego albo decyzji lub powiadomienia o wstrzymaniu wprowadzania do obrotu i do używania, wycofaniu z obrotu albo wycofaniu z obrotu i z używania wyrobu medycznego, w szczególności za pomocą telefaksu lub poczty elektronicznej wszystkim bezpośrednim odbiorcom, bądź informacji o treści wydanej decyzji za pomocą telefonu bezpośrednim odbiorcom, którzy nie posiadają telefaksu lub poczty elektronicznej, z wyłączeniem odbiorców indywidualnych pacjentów;
+2) niezwłocznego przekazania decyzji o wstrzymaniu lub wycofaniu z obrotu produktu leczniczego albo decyzji lub powiadomienia o wstrzymaniu wprowadzania do obrotu i do używania, wycofaniu z obrotu albo wycofaniu z obrotu i z używania wyrobu medycznego, w szczególności za pomocą telefaksu lub poczty elektronicznej wszystkim bezpośrednim odbiorcom, bądź informacji o treści wydanej decyzji za pomocą telefonu bezpośrednim odbiorcom, którzy nie posiadają telefaksu lub poczty elektronicznej, z wyłączeniem odbiorców indywidualnych – pacjentów;
 3) przekazania do hurtowni farmaceutycznej, w której został nabyty produkt leczniczy lub wyrób medyczny, raportu o podjętych działaniach zabezpieczających;
-4) przyjęcia od bezpośrednich odbiorców zwrotów produktów leczniczych w przypadku procedury wycofania z obrotu;
-5) zwrotu zgromadzonego zapasu produktu leczniczego do hurtowni farmaceutycznej w przypadku procedury wycofania z obrotu nie później niż w ciągu 60 dni od dnia uzyskania przez aptekę decyzji o wycofaniu produktu leczniczego z obrotu.
+4) przyjęcia od bezpośrednich odbiorców zwrotów produktów leczniczych – w przypadku procedury wycofania z obrotu;
+5) zwrotu zgromadzonego zapasu produktu leczniczego do hurtowni farmaceutycznej – w przypadku procedury wycofania z obrotu nie później niż w ciągu 60 dni od dnia uzyskania przez aptekę decyzji o wycofaniu produktu leczniczego z obrotu.
 4. Wzór raportu, o którym mowa w ust. 1 pkt 4, ust. 2 pkt 4 i ust. 3 pkt 3, stanowi załącznik nr 3 do rozporządzenia.
 5. Podmiot odpowiedzialny, wytwórca lub importer produktu leczniczego:
 1) w przypadku otrzymania decyzji o wstrzymaniu obrotu produktem leczniczym, po otrzymaniu od bezpośrednich odbiorców raportów, o których mowa w ust. 1 pkt 5, niezwłocznie sporządza raport końcowy o zakończeniu procedury wstrzymania produktu leczniczego i przesyła go do właściwego organu Państwowej Inspekcji Farmaceutycznej,
-2) w przypadku otrzymania decyzji o wycofaniu z obrotu produktu leczniczego, po otrzymaniu od bezpośrednich odbiorców raportów, o których mowa w ust. 1 pkt 5, oraz po zakończeniu przyjmowania zwrotów produktów leczniczych niezwłocznie sporządza raport końcowy o zakończeniu procedury wycofania produktu leczniczego i przesyła go do właściwego organu Państwowej Inspekcji Farmaceutycznej zgodnie z wzorem stanowiącym załącznik nr 4 do rozporządzenia.
+2) w przypadku otrzymania decyzji o wycofaniu z obrotu produktu leczniczego, po otrzymaniu od bezpośrednich odbiorców raportów, o których mowa w ust. 1 pkt 5, oraz po zakończeniu przyjmowania zwrotów produktów leczniczych niezwłocznie sporządza raport końcowy o zakończeniu procedury wycofania produktu leczniczego i przesyła go do właściwego organu Państwowej Inspekcji Farmaceutycznej – zgodnie z wzorem stanowiącym załącznik nr 4 do rozporządzenia.
 6. Raport końcowy podmiot odpowiedzialny, wytwórca lub importer produktu leczniczego przesyła do organów Państwowej Inspekcji Farmaceutycznej w terminie 7 dni od dnia jego sporządzenia.
 § 6. Dla celów kontroli przez Państwową Inspekcję Farmaceutyczną protokół, o którym mowa w § 5 ust. 1 pkt 2, podmiot odpowiedzialny, wytwórca lub importer produktu leczniczego, oraz kopie raportów, o których mowa w § 5 ust. 1 pkt 4, ust. 2 pkt 4, ust. 3 pkt 3 i ust. 5, podmioty prowadzące obrót produktami leczniczymi lub wyrobami medycznymi, przechowują przez okres 3 lat, licząc od pierwszego dnia roku kalendarzowego następującego po roku, w którym zostały sporządzone.
 § 7. Traci moc rozporządzenie Ministra Zdrowia z dnia 22 listopada 2002 r. w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych (Dz. U. poz. 1729).
 § 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WZÓR Załączniki do rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. (poz. ………..) Załącznik nr 1 WZÓR ......................................................................... .............................................
+Załączniki do rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. (poz. ………..) Załącznik nr 1 WZÓR WZÓR ......................................................................... .............................................
 Wojewódzki Inspektor Farmaceutyczny w ..........................................
 Zgłoszenie podejrzenia braku spełnienia wymagań jakościowych produktu leczniczego/ wymagań zasadniczych wyrobu medycznego (czytelnie wypełnia osoba upoważniona)
 1. Pełna nazwa placówki oraz nazwa komórki organizacyjnej: ...............................................................................................................................................................
@@ -148,7 +148,7 @@ f) autoryzowany przedstawiciel : ...............................................
 ........................................................................
 ........................................................................
 
-## Załącznik nr 2 — WZÓR ...........................................................
+## Załącznik nr 2 — WZÓR WZÓR ...........................................................
 
 Protokół wstrzymania/wycofania z obrotu produktu leczniczego lub wyrobu medycznego
 1. Podstawa wstrzymania/wycofania z obrotu: ...............................................................................................................................................................
@@ -159,7 +159,6 @@ c) termin ważności : .........................................................
 d) wytwórca/importer: ........................................................................................................................................................
 e) podmiot odpowiedzialny : ........................................................................................................................................................
 f) autoryzowany przedstawiciel : ........................................................................................................................................................
-WZÓR
 g) stan magazynowy (na dzień otrzymania, podjęcia decyzji o wstrzymaniu/wycofaniu z obrotu ): ........................................................................................................................................................
 3. Dane dotyczące dostawcy produktu leczniczego/ wyrobu medycznego :
 a) nazwa: ........................................................................................................................................................
@@ -174,7 +173,7 @@ c) z dnia: .....................................................................
 d) zwrócona ilość: ........................................................................................................................................................
 ................................................................................................
 
-## Załącznik nr 3 — WZÓR ...........................................................
+## Załącznik nr 3 — WZÓR WZÓR ...........................................................
 
 Raport o podjętych działaniach zabezpieczających w sprawie wstrzymania/wycofania z obrotu produktu leczniczego/ wyrobu medycznego
 1. Podstawa wstrzymania/wycofania z obrotu produktu leczniczego/ wyrobu medycznego : ...............................................................................................................................................................
@@ -185,7 +184,6 @@ c) termin ważności : .........................................................
 d) wytwórca/importer: ........................................................................................................................................................
 e) podmiot odpowiedzialny : ........................................................................................................................................................
 f) autoryzowany przedstawiciel : ........................................................................................................................................................
-WZÓR
 3. Wielkość produkcji/zakupu : ...............................................................................................................................................................
 4. Stan magazynowy (na dzień otrzymania decyzji): ...............................................................................................................................................................
 5. Wielkość sprzedaży (na dzień otrzymania decyzji): ...............................................................................................................................................................
@@ -195,7 +193,7 @@ WZÓR
 8. Data sporządzenia: ...............................................................................................................................................................
 ................................................................................................
 
-## Załącznik nr 4 — WZÓR ...........................................................
+## Załącznik nr 4 — WZÓR WZÓR ...........................................................
 
 Raport końcowy o zakończeniu procedury wstrzymania/wycofania z obrotu produktu leczniczego
 1. Podstawa wstrzymania/wycofania z obrotu produktu leczniczego: ...............................................................................................................................................................
@@ -206,7 +204,6 @@ c) termin ważności : .........................................................
 d) nazwa podmiotu odpowiedzialnego, wytwórcy, importera : .......................................................................................................................................................
 3. Wielkość produkcji/zakupu : ...............................................................................................................................................................
 4. Wielkość wstrzymana/wycofana z obrotu produktu leczniczego (na dzień zakończenia procedury wstrzymania/wycofania ): ...............................................................................................................................................................
-WZÓR
 5. Data zakończenia procedury wstrzymania/wycofania z obrotu produktu leczniczego: ...............................................................................................................................................................
 6. Data sporządzenia raportu końcowego: ...............................................................................................................................................................
 ................................................................................................

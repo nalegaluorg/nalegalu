@@ -8,7 +8,7 @@ pos: 1141
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 105/9/A/2012 WYROK z dnia 11 października 2012 r.

@@ -8,7 +8,7 @@ pos: 18
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych
@@ -44,6 +44,23 @@ Wstęp (uchylony)
 2. Wzór godła Rzeczypospolitej Polskiej zawiera załącznik nr 1.
 
 **Art. 2a.** Wizerunku orła ustalonego dla godła używają:
+
+- **1)** organy władzy państwowej;
+- **2)** organy administracji rządowej;
+- **3)** gminy, związki międzygminne oraz ich organy;
+- **4)** powiaty, związki powiatów oraz ich organy;
+- **4a)** związki powiatowo-gminne oraz ich organy;
+- **4b)** związki metropolitalne i ich organy;
+- **5)** samorządy województw oraz ich organy;
+- **6)** sądy, prokuratury i komornicy sądowi;
+- **7)** samorządowe kolegia odwoławcze;
+- **8)** regionalne izby obrachunkowe;
+- **9)** jednostki organizacyjne Sił Zbrojnych Rzeczypospolitej Polskiej;
+- **10)** jednostki organizacyjne Policji, Straży Granicznej, Krajowej Administracji Skarbowej i Państwowej Straży Pożarnej;
+- **10a)** Służba Ochrony Państwa;
+- **11)** jednostki organizacyjne Służby Więziennej;
+- **12)** szkoły publiczne, szkoły niepubliczne i niepubliczne szkoły artystyczne o uprawnieniach publicznej szkoły artystycznej, uczelnie publiczne, uczelnie niepubliczne oraz federacje podmiotów systemu szkolnictwa wyższego i nauki;
+- **13)** inne podmioty, jeżeli przepisy szczególne uprawniają je do używania wizerunku orła.
 
 **Art. 3.**
 
@@ -98,7 +115,7 @@ Wstęp (uchylony)
 
 1. Flagę państwową Rzeczypospolitej Polskiej podnosi się na budynkach lub przed budynkami stanowiącymi siedziby urzędowe albo miejsce obrad:
 
-- **1)** Rzeczypospolitej Polskiej;
+- **1)** Sejmu Rzeczypospolitej Polskiej;
 - **2)** Senatu Rzeczypospolitej Polskiej;
 - **3)** Prezydenta Rzeczypospolitej Polskiej;
 - **4)** Rady Ministrów oraz Prezesa Rady Ministrów;
@@ -176,7 +193,7 @@ Wstęp (uchylony)
 
 **Art. 16b.**
 
-1. Pieczęcią Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Sejm Rzeczypospolitej Polskiej”.
+1. Pieczęcią Sejmu Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Sejm Rzeczypospolitej Polskiej”.
 
 2. Pieczęcią Senatu Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Senat Rzeczypospolitej Polskiej”.
 

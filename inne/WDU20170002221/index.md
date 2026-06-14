@@ -8,10 +8,10 @@ pos: 2221
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 listopada 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2221 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 24 listopada 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2221/text.pdf) |
 
-Poz. 2221 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 24 listopada 2017 r.
 w sprawie maksymalnych sum ubezpieczenia dla poszczególnych upraw rolnych i zwierząt gospodarskich na 2018 r.
-Na podstawie art. 5 ust. 9 ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. z 2017 r. poz. 2047) zarządza się, co następuje: § 1. W 2018 r. maksymalne sumy ubezpieczenia:
+Na podstawie art. 5 ust. 9 ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. z 2017 r. poz. 2047) zarządza się, co następuje:
+§ 1. W 2018 r. maksymalne sumy ubezpieczenia:
 1) 1 ha upraw rolnych wynoszą:
 a) 10 650 zł – dla zbóż,
 b) 8450 zł – dla kukurydzy,
@@ -46,7 +46,7 @@ b) 10 200 zł – dla koni,
 c) 700 zł – dla owiec,
 d) 700 zł – dla kóz,
 e) 1740 zł – dla świń,
-f) 53 zł – dla kur, perlic i przepiórek, Dziennik Ustaw – 2 – Poz. 2221
+f) 53 zł – dla kur, perlic i przepiórek,
 g) 65 zł – dla kaczek,
 h) 250 zł – dla gęsi,
 i) 133 zł – dla indyków,

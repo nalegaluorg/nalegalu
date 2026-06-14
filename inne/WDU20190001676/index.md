@@ -8,10 +8,10 @@ pos: 1676
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 września 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1676 OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 9 sierpnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001676) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1676/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 9 sierpnia 2019 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie przeprowadzania szkolenia myśliwych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 listopada 2010 r. w sprawie przeprowadzania szkolenia myśliwych (Dz. U. z 2012 r. poz. 1092), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 20 marca 2019 r. zmieniającym rozporządzenie w sprawie przeprowadzania szkolenia myśliwych (Dz. U. poz. 590).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 marca 2019 r. zmieniającego rozporządzenie w sprawie przeprowadzania szkolenia myśliwych (Dz. U. poz. 590), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 26 listopada 2010 r.
 w sprawie przeprowadzania szkolenia myśliwych Na podstawie art. 18 ust. 7 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2019 r.
-poz. 824) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) szczegółowy zakres tematów, jaki powinien zawierać program szkolenia osób, o których mowa w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotycząc e higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14), zwanym dalej „rozporządzeniem nr 853/2004”, w za łączniku III w sekcji IV w rozdziale I w ust. 1, które polują na zwierzęta łowne z zamiarem wprowadzenia na rynek produktów pochodzenia zwierzęcego pozyskanych z tych zwierząt, zwanych dalej „myśliwymi”;
+poz. 824) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) szczegółowy zakres tematów, jaki powinien zawierać program szkolenia osób, o których mowa w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotycząc e higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14), zwanym dalej „rozporządzeniem nr 853/2004”, w za łączniku III w sekcji IV w rozdziale I w ust. 1, które polują na zwierzęta łowne z zamiarem wprowadzenia na rynek produktów pochodzenia zwierzęcego pozyskanych z tych zwierząt, zwanych dalej „myśliwymi”;
 2) szczegółowe warunki i sposób przeprowadzania szkolenia myśliwych, w tym minimalne kwalifikacje osób przeprowa dzających to szkolenie;
 3) wzór zaświadczenia potwierdzającego ukończenie szkolenia myśliwych;
 4) wzór oświadczenia, o którym mowa w rozporządzeniu nr 853/2004 w załączniku III w sekcji IV w rozdziale II w ust. 4 w lit. a, zwanego dalej „oświadczeniem o przeprowadzeniu oględzin tuszy i narządów wewnętrznych odstrzelonego zwierzęcia”;
@@ -65,7 +65,7 @@ poz. 824) zarządza się, co następuje: § 1. Rozporządzenie określa:
 2) po odstrzale zwierzęcia dokonał oględzin tuszy i narządów wewnętrznych, podczas których stwierdził występowanie nietypowych cech, lub
 3) zwierzę zostało odstrzelone w miejscu, co do którego istnieje podejrzenie o skażenie środowiska.
 § 8. 1. W przypadku, o którym mowa w § 7 ust. 1, oświadczenie o przeprowadzeniu oględzin tuszy i narządów we wnętrznych odstrzelonego zwierzęcia dołącza się do tuszy odstrzelonego zwierzęcia albo jednej z tusz, jeżeli jest ono wy pełnione dla większej liczby tusz zwierząt łownych, w celu umożliwienia uwzględnienia informacji w nim zawartych urzę dowemu lekarzowi weterynarii podczas przeprowadzania badania i oceny mięsa.
-2. Kopię oświadczenia, o którym mowa w ust. 1, pozostawia się w dokumentacji właściwego ze względu na miejsce
+2. Kopię oświadczenia, o którym mowa w ust. 1, pozostawia się w dokumentacji właściwego ze względu na miejsce odstrzelenia zwierzęcia dzierżawcy albo zarządcy obwodu łowieckiego.
 3. W przypadku, o którym mowa w § 7 ust. 2, kopię oświadczenia, o którym mowa w ust. 1, przekazuje się również do przedsiębiorstwa lub zakładu, zatwierdzonego zgodnie z przepisami rozporządzenia nr 1069/2009.
 4. W przypadku, o którym mowa w § 7 ust. 3, oświadczenie o przeprowadzeniu oględzin tuszy i narządów wewnętrz nych odstrzelonego zwierzęcia sporządza się oddzielnie dla każdego odstrzelonego zwierzęcia i dołącza się do tuszy tego zwierzęcia w celu umożliwienia uwzględnienia informacji w nim zawartych urzędowemu lekarzowi weterynarii podczas przeprowadzania badania i oceny mięsa.
 5. Kopię oświadczenia, o którym mowa w ust. 4:
@@ -77,7 +77,7 @@ poz. 824) zarządza się, co następuje: § 1. Rozporządzenie określa:
 2) liczbę odstrzelonych zwierząt;
 3) miejsce, datę i godzinę odstrzału;
 4) inne szczegółowe informacje dotyczące rodzaju stwierdzonych przez przeszkolonego myśliwego albo myśliwego, o którym mowa w § 3 ust. 3, nietypowych zmian podczas przeprowadzania oględzin tuszy drobnej zwierzyny łownej.
-§ 10. Zaświadczenia potwierdzające ukończenie szkolenia myśliwych, wydane zgodnie ze wzorem określonym w za łączniku nr 2 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2006 r. w sprawie przeprowadzania szkolenia myśliwych (Dz. U. z 2007 r. poz. 39), zachowują ważność przez okres 10 lat od dnia wejścia w życie niniej szego rozporządzenia.
+§ 10. Zaświadczenia potwierdzające ukończenie szkolenia myśliwych, wydane zgodnie ze wzorem określonym w za łączniku nr 2 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2006 r. w sprawie przeprowadzania szkolenia myśliwych (Dz. U. z 2007 r. poz. 39), zachowują ważność przez okres 10 lat od dnia wejścia w życie niniejs zego rozporządzenia.
 § 11. Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2006 r. w sprawie przeprowadza nia szkolenia myśliwych (Dz. U. z 2007 r. poz. 39).
 § 12. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 SZCZEGÓŁOWY ZAKRES TEMATÓW, JAKI POWINIEN ZAWIERAĆ PROGRAM SZKOLENIA MYŚLIWYCH
@@ -125,7 +125,7 @@ odstrzelone w dniu ........................................., o godzinie .......
 w obwodzie łowieckim nr ...................... w województwie ................................................................., którego tusza i narządy wewnętrzne zostały oznaczone znakiem o numerze ......................................:
 1) bezpośrednio przed odstrzałem :
 a) zachowywało się w sposób wskazujący podejrzenie wystąpienia choroby zakaźnej zwierząt,
-b) wykazywało następujące zaburzenia w zachowaniu lub poruszaniu się: apatię, pobudzenie, brak bojaźliwości lub inne nietypowe dla gatunku zachowanie, sztywność kończyn, chwiejny chód;
+b) wykazywało następujące zaburzenia w zachowaniu lub poruszaniu się: – apatię, – pobudzenie, – brak bojaźliwości lub inne nietypowe dla gatunku zachowanie, – sztywność kończyn, – chwiejny chód;
 2) po odstrzale zostało poddane oględzinom, podczas których stwierdzono :
 a) obecność ciał obcych w żołądku lub jelitach,
 b) znaczną ilość gazu w żołądku lub jelitach (wzdęcie żołądka lub jelit),

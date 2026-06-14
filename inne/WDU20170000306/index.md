@@ -8,10 +8,10 @@ pos: 306
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lutego 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 306 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 14 lutego 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000306) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/306/text.pdf) |
 
-Poz. 306 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 14 lutego 2017 r.
-w sprawie sztandaru Krajowej Administracji Skarbowej oraz sztandaru izb administracji skarbowej Na podstawie art. 4 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947 i 2255 oraz z 2017 r. poz. 88 i 244) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie sztandaru Krajowej Administracji Skarbowej oraz sztandaru izb administracji skarbowej Na podstawie art. 4 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947 i 2255 oraz z 2017 r. poz. 88 i 244) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór sztandaru Krajowej Administracji Skarbowej;
 2) podstawowe elementy wzoru sztandaru nadawanego izbom administracji skarbowej, którym ten sztandar jest nadawany;
 3) tryb nadawania sztandaru Krajowej Administracji Skarbowej oraz izbom administracji skarbowej.
@@ -49,5 +49,5 @@ w sprawie sztandaru Krajowej Administracji Skarbowej oraz sztandaru izb administ
 2. Wręczenie sztandaru odbywa się w uroczystej formie określonej w ceremoniale Krajowej Administracji Skarbowej.
 § 11. W przypadku ufundowania sztandaru Krajowej Administracji Skarbowej oraz sztandaru nadawanego izbie administracji skarbowej w akcie nadania wymienia się fundatora.
 § 12. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk ZÓR STR W R S NDARU WZÓR STRONY ODW EJP S TA nr Z R W Ó O DW W T ÓR EJPŁ TA Z N R WZÓR GŁOWICY SZTANDARU 5 WZ R A
+Minister Rozwoju i Finansów: wz. W. Janczyk Załączniki do rozporządzenia z dnia 14 lutego 2017 r. (poz. ) Załącznik nr 1 STRONA GŁÓWNA PŁATA SZTANDARU WZÓR STRONY GŁÓWNEJ WZÓR PŁATA SZTANDARU Dziennik Ustaw – 4 – Załącznik nr Poz. 2 306 STRONA GŁÓWNA PŁATA SZTANDARU WZÓR STRONY GŁÓWNEJ WZÓR PŁATA SZTANDARU Dziennik Ustaw – 5 – Załącznik nr Poz. 3 306 STRONA ODWROTNA PŁATA SZTANDARU WZÓR WZÓR STRONY ODWROTNEJ PŁATA SZTANDARU Dziennik Ustaw – 6 – Załącznik nr Poz. 4 306 STRONA ODWROTNA PŁATA SZTANDARU WZÓR STRONY ODWROTNEJ WZÓR PŁATA SZTANDARU Załącznik nr 5 GŁOWICA SZTANDARU WZÓR GŁOWICY WZÓR SZTANDARU Załącznik nr 6 GWÓŹDŹ HONOROWY WZÓR WZÓR GWOŹDZIA HONOROWEGO
 

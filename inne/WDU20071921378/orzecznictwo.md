@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów*
 
 Łącznie: **47** orzeczeń
-(pominięto 170 orzeczeń sądów rejonowych)
+(pominięto 171 orzeczeń sądów rejonowych)
 
 ## art. 2 (1)
 

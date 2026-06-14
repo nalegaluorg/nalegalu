@@ -8,10 +8,10 @@ pos: 1484
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 września 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1484 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 1 września 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1484/text.pdf) |
 
-Poz. 1484 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 1 września 2016 r.
-w sprawie określenia właściwości Prokuratury Okręgowej w Warszawie w sprawach o poszczególne rodzaje przestępstw niezależnie od miejsca ich popełnienia Na podstawie art. 35 § 3 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177) zarządza się, co następuje: § 1. Ustala się właściwość Prokuratury Okręgowej w Warszawie w sprawach o przestępstwa, niezależnie od miejsca ich popełnienia, określone w:
+w sprawie określenia właściwości Prokuratury Okręgowej w Warszawie w sprawach o poszczególne rodzaje przestępstw niezależnie od miejsca ich popełnienia Na podstawie art. 35 § 3 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. poz. 177) zarządza się, co następuje:
+§ 1. Ustala się właściwość Prokuratury Okręgowej w Warszawie w sprawach o przestępstwa, niezależnie od miejsca ich popełnienia, określone w:
 1) rozdziale 9 ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2016 r. poz. 719, 831 i 904);
 2) dziale XIV ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzanie alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2014 r. poz. 157, z późn. zm. );
 3) dziale X ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm. );

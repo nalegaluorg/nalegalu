@@ -8,7 +8,7 @@ pos: 1560
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Trybunale Stanu

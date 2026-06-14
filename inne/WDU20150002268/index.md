@@ -8,10 +8,10 @@ pos: 2268
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Rozporządzenie Prezesa Rady Ministrówz dnia 28 grudnia 2015 r. w sprawie dokonania przeniesień niektórych planowanych wydatków budżetu państwa, wydatków budżetu środków europejskich oraz kwot wynagrodzeń określonych w ustawie budżetowej na rok 2015
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2268 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 28 grudnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,57 +25,18 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002268) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2268/text.pdf) |
 
-Treść rozporządzenia
-
-## Załącznik nr 1 — – Przeniesienia planowanych wydatków budżetowych
-
-## Załącznik nr 2 — – Przeniesienia planowanych wydatków budżetowych
-
-## Załącznik nr 3 — – Przeniesienia planowanych wydatków budżetu środków europejskich
-
-## Załącznik nr 4 — – Przeniesienia kwot wynagrodzeń
-
-Treść rozporządzenia
-Na podstawie art. 172 ust. 1 i 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.) zarządza się, co następuje:
-§ 1.
-Rozporządzenie określa przeniesienie niektórych planowanych wydatków budżetu państwa i wydatków budżetu środków europejskich oraz kwot wynagrodzeń między częściami budżetu państwa w zakresie dotyczącym Ministerstwa Cyfryzacji, Ministerstwa Infrastruktury i Budownictwa oraz Ministerstwa Spraw Wewnętrznych i Administracji, w podziale na części, działy i rozdziały budżetu państwa.
-§ 2.
-1.
-Przenosi się planowane wydatki budżetu państwa, w tym wynagrodzenia, w łącznej kwocie 4 947 836 zł:
-1)
-z części 17 – Administracja publiczna w kwocie 4 145 280 zł do części 27 – Informatyzacja;
-2)
-z części 43 – Wyznania religijne oraz mniejszości narodowe i etniczne w kwocie 802 556 zł do części 27 – Informatyzacja.
-2.
-Szczegółowy podział planowanych wydatków, o których mowa w ust. 1, jest określony w załączniku nr 1 do rozporządzenia.
-§ 3.
-1.
-Przenosi się planowane wydatki budżetu państwa w kwocie 1 985 836,58 zł z części 26 – Łączność do części 27 – Informatyzacja.
-2.
-Szczegółowy podział planowanych wydatków, o których mowa w ust. 1, jest określony w załączniku nr 2 do rozporządzenia.
-§ 4.
-1.
-Przenosi się planowane wydatki budżetu środków europejskich z części 26 – Łączność do części 27 – Informatyzacja w kwocie 2 752 406,51 zł.
-2.
-Szczegółowy podział planowanych wydatków, o których mowa w ust. 1, jest określony w załączniku nr 3 do rozporządzenia.
-§ 5.
-W ramach przeniesień, o których mowa w § 2 ust. 1, przenosi się także kwoty wynagrodzeń z części 17 – Administracja publiczna do części 27 – Informatyzacja oraz z części 43 – Wyznania religijne oraz mniejszości narodowe i etniczne do części 27 – Informatyzacja, zgodnie z załącznikiem nr 4 do rozporządzenia.
-§ 6.
-Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 16 listopada 2015 r., a w zakresie § 3 i § 4 – z mocą od dnia 9 grudnia 2015 r.
-
-## Załącznik nr 1 — – Przeniesienia planowanych wydatków budżetowych
-
-patrz oryginał
-
-## Załącznik nr 2 — – Przeniesienia planowanych wydatków budżetowych
-
-patrz oryginał
-
-## Załącznik nr 3 — – Przeniesienia planowanych wydatków budżetu środków europejskich
-
-patrz oryginał
-
-## Załącznik nr 4 — – Przeniesienia kwot wynagrodzeń
-
-patrz oryginał
+w sprawie dokonania przeniesień niektórych planowanych wydatków budżetu państwa, wydatków budżetu środków europejskich oraz kwot wynagrodzeń określonych w ustawie budżetowej na rok 2015 Na podstawie art. 172 ust. 1 i 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. 1) ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa przeniesienie niektórych planowanych wydatków budżetu państwa i wydatków budżetu środków europejskich oraz kwot wynagrodzeń między częściami budżetu państwa w zakresie dotyczącym Ministerstwa Cyfryzacji, Ministerstwa Infrastruktury i Budownictwa oraz Ministerstwa Spraw Wewnętrznych i Administracji, w podziale na części, działy i rozdziały budżetu państwa.
+§ 2. 1. Przenosi się planowane wydatki budżetu państwa, w tym wynagrodzenia, w łącznej kwocie 4 947 836 zł:
+1) z części 17 – Administracja publiczna w kwocie 4 145 280 zł do części 27 – Informatyzacja;
+2) z części 43 – Wyznania religijne oraz mniejszości narodowe i etniczne w kwocie 802 556 zł do części 27 – Informatyzacja.
+2. Szczegółowy podział planowanych wydatków, o których mowa w ust. 1, jest określony w załączniku nr 1 do rozporządzenia.
+§ 3. 1. Przenosi się planowane wydatki budżetu państwa w kwocie 1 985 836,58 zł z części 26 – Łączność do części 27 – Informatyzacja.
+2. Szczegółowy podział planowanych wydatków, o których mowa w ust. 1, jest określony w załączniku nr 2 do rozporządzenia.
+§ 4. 1. Przenosi się planowane wydatki budżetu środków europejskich z części 26 – Łączność do części 27 – Informatyzacja w kwocie 2 752 406,51 zł.
+2. Szczegółowy podział planowanych wydatków, o których mowa w ust. 1, jest określony w załączniku nr 3 do rozporządzenia.
+§ 5. W ramach przeniesień, o których mowa w § 2 ust. 1, przenosi się także kwoty wynagrodzeń z części 17 – Administracja publiczna do części 27 – Informatyzacja oraz z części 43 – Wyznania religijne oraz mniejszości narodowe i etniczne do części 27 – Informatyzacja, zgodnie z załącznikiem nr 4 do rozporządzenia.
+§ 6. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 16 listopada 2015 r., a w zakresie § 3 i § 4 – z mocą od dnia 9 grudnia 2015 r.
+Prezes Rady Ministrów: B. Szydło Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358,1513, 1830, 1854, 1890 i 2150.
+Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia 28 grudnia 2015 r. (poz. 2268) Załącznik nr 1 Załącznik nr 1 PRZENIESIENIA PLANOWANYCH WYDATKÓW BUDŻETOWYCH PRZENIESIENIA PLANOWANYCH WYDATKÓW BUDŻETOWYCH Część Dział Rozdział Paragraf Wyszczególnienie Zmniejszenia Zwiększenia 17 Administracja publiczna 4 145 280,00 750 Administracja publiczna 4 145 280,00 75001 Urzędy naczelnych i centralnych organów administracji 4 145 280,00 rządowej 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 400 000,00 4110 Składki na ubezpieczenia społeczne 68 000,00 4120 Składki na Fundusz Pracy 9 800,00 4170 Wynagrodzenia bezosobowe 9 000,00 4210 Zakup materiałów i wyposażenia 55 000,00 4220 Zakup środków żywności 17 000,00 4260 Zakup energii 50 000,00 4270 Zakup usług remontowych 8 500,00 4300 Zakup usług pozostałych 43 000,00 4360 Opłaty z tytułu zakupu usług telekomunikacyjnych 90 000,00 4410 Podróże służbowe krajowe 50 000,00 4420 Podróże służbowe zagraniczne 100 000,00 4480 Podatek od nieruchomości 24 000,00 6050 Wydatki inwestycyjne jednostek budżetowych 2 850 980,00 43 6060 WWyydznatakni inaa r zealkiguipjny ein owraeszt mycnyjineejs jzeodśncois nteakr obduodwżeeto iw eytnchiczne 830720 5 05060,,0000 750 Administracja publiczna 802 556,00 75001 Urzędy naczelnych i centralnych organów administracji 802 556,00 rządowej 4010 Wynagrodzenia osobowe pracowników 49 350,00 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 193 500,00 4110 Składki na ubezpieczenia społeczne 42 000,00 4120 Składki na Fundusz Pracy 6 560,00 4210 Zakup materiałów i wyposażenia 26 746,00 4220 Zakup środków żywności 11 000,00 4240 Zakup pomocy naukowych, dydaktycznych i książek 2 000,00 4260 Zakup energii 40 000,00 4270 Zakup usług remontowych 2 400,00 4300 Zakup usług pozostałych 95 000,00 4360 Opłaty z tytułu zakupu usług telekomunikacyjnych 20 000,00 4410 Podróże służbowe krajowe 10 000,00 4420 Podróże służbowe zagraniczne 30 000,00 4480 Podatek od nieruchomości 24 000,00 27 6060 Informatyzacja Wydatki na zakupy inwestycyjne jednostek budżetowych 250 000,00 4 947 836,00 750 Administracja publiczna 4 947 836,00 75001 Urzędy naczelnych i centralnych organów administracji 4 947 836,00 rządowej 4010 Wynagrodzenia osobowe pracowników 49 350,00 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 593 500,00 4110 Składki na ubezpieczenia społeczne 110 000,00 4120 Składki na Fundusz Pracy 16 360,00 4170 Wynagrodzenia bezosobowe 9 000,00 4210 Zakup materiałów i wyposażenia 81 746,00 4220 Zakup środków żywności 28 000,00 4240 Zakup pomocy naukowych, dydaktycznych i książek 2 000,00 4260 Zakup energii 90 000,00 4270 Zakup usług remontowych 10 900,00 4300 Zakup usług pozostałych 138 000,00 4360 Opłaty z tytułu zakupu usług telekomunikacyjnych 110 000,00 4410 Podróże służbowe krajowe 60 000,00 4420 Podróże służbowe zagraniczne 130 000,00 4480 Podatek od nieruchomości 48 000,00 6050 Wydatki inwestycyjne jednostek budżetowych 2 850 980,00 6060 Wydatki na zakupy inwestycyjne jednostek budżetowych 620 000,00 Załącznik nr 2 Załącznik nr 2 PRZENIESIENIA PLANOWANYCH WYDATKÓW BUDŻETOWYCH PRZENIESIENIA PLANOWANYCH WYDATKÓW BUDŻETOWYCH Część Dział Rozdział Paragraf Wyszczególnienie Zmniejszenia Zwiększenia 26 Łączność 1 985 836,58 0,00 600 Transport i łączność 1 985 836,58 0,00 60052 Zadania w zakresie telekomunikacji 1 985 836,58 0,00 4170 Wynagrodzenia bezosobowe 47 400,00 4178 Wynagrodzenia bezosobowe 42 000,00 4179 Wynagrodzenia bezosobowe 15 000,00 4218 Zakup materiałów i wyposażenia 4 000,00 4219 Zakup materiałów i wyposażenia 2 000,00 4300 Zakup usług pozostałych 304 027,78 4308 Zakup usług pozostałych 85 000,00 4309 Zakup usług pozostałych 351 580,11 4368 Opłaty z tytułu zakupu usług telekomunikacyjnych 5 000,00 4369 Opłaty z tytułu zakupu usług telekomunikacyjnych 2 919,61 4390 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii 730 000,00 4398 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii 170 000,00 4399 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii 150 358,89 4418 Podróże służbowe krajowe 13 000,00 4419 Podróże służbowe krajowe 6 638,97 4428 Podróże służbowe zagraniczne 13 000,00 4429 Podróże służbowe zagraniczne 13 608,70 4550 Szkolenia członków korpusu służby cywilnej 16 501,92 4558 Szkolenia członków korpusu służby cywilnej 8 000,00 27 4559 Szkolenia Informatyzacja członków korpusu służby cywilnej 5 800,60 0,00 1 985 836,58 600 Transport i łączność 0,00 1 985 836,58 60052 Zadania w zakresie telekomunikacji 0,00 1 985 836,58 4170 Wynagrodzenia bezosobowe 47 400,00 4178 Wynagrodzenia bezosobowe 42 000,00 4179 Wynagrodzenia bezosobowe 15 000,00 4218 Zakup materiałów i wyposażenia 4 000,00 4219 Zakup materiałów i wyposażenia 2 000,00 4300 Zakup usług pozostałych 304 027,78 4308 Zakup usług pozostałych 85 000,00 4309 Zakup usług pozostałych 351 580,11 4368 Opłaty z tytułu zakupu usług telekomunikacyjnych 5 000,00 4369 Opłaty z tytułu zakupu usług telekomunikacyjnych 2 919,61 4390 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii 730 000,00 4398 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii 170 000,00 4399 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii 150 358,89 4418 Podróże służbowe krajowe 13 000,00 4419 Podróże służbowe krajowe 6 638,97 4428 Podróże służbowe zagraniczne 13 000,00 4429 Podróże służbowe zagraniczne 13 608,70 4550 Szkolenia członków korpusu służby cywilnej 16 501,92 4558 Szkolenia członków korpusu służby cywilnej 8 000,00 4559 Szkolenia członków korpusu służby cywilnej 5 800,60 Załącznik Załącznik nr nr 3 3 PRZENIESIENIA PLANOWANYCH WYDATKÓW BUDŻETU ŚRODKÓW EUROPEJSKICH PRZENIESIENIA PLANOWANYCH WYDATKÓW BUDŻETU ŚRODKÓW EUROPEJSKICH w zł 1 2 3 4 5 Zmniejszenia 6 Zwiększenia Część Dział Rozdział Paragraf Wyszczególnienie 7 26 Łączność 2 752 406,51 0,00 600 Transport i łączność 2 752 406,51 0,00 60052 Zadania w zakresie telekomunikacji 2 752 406,51 0,00 Program Operacyjny Innowacyjna Gospodarka 2 752 406,51 0,00 4177 Wynagrodzenia bezosobowe 43 000,00 4217 Zakup materiałów i wyposażenia 4 000,00 4307 Zakup usług pozostałych 1 893 501,57 4367 Opłaty z tytułu zakupu usług telekomunikacyjnych 5 214,10 4397 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii 689 367,27 4417 Podróże służbowe krajowe 30 655,39 4427 Podróże służbowe zagraniczne 67 464,78 27 Informatyzacja 0,00 2 752 406,51 4557 Szkolenia członków korpusu służby cywilnej 19 203,40 600 Transport i łączność 2 752 406,51 60052 Zadania w zakresie telekomunikacji 2 752 406,51 Program Operacyjny Innowacyjna Gospodarka 2 752 406,51 4177 Wynagrodzenia bezosobowe 43 000,00 4217 Zakup materiałów i wyposażenia 4 000,00 4307 Zakup usług pozostałych 1 893 501,57 4367 Opłaty z tytułu zakupu usług telekomunikacyjnych 5 214,10 4397 Zakup usług obejmujących wykonanie ekspertyz, analiz i opinii 689 367,27 4417 Podróże służbowe krajowe 30 655,39 4427 Podróże służbowe zagraniczne 67 464,78 4557 Szkolenia członków korpusu służby cywilnej 19 203,40 Załącznik Załącznik nr nr 4 4 PRZENIESIENIA KWOT WYNAGRODZEŃ PRZENIESIENIA KWOT WYNAGRODZEŃ Zmniejszenia Zwiększenia Część Dział Rozdział Wyszczególnienie 1 2 3 4 5 6 17 Administracja publiczna 400 000,00 0,00 750 Administracja publiczna 400 000,00 0,00 75001 Urzędy naczelnych i centralnych organów administracji rządowej 400 000,00 0,00 43 Wyznania religijne oraz mniejszości narodowe i etniczne 242 850,00 0,00 Członkowie korpusu służby cywilnej 400 000,00 750 Administracja publiczna 242 850,00 0,00 75001 Urzędy naczelnych i centralnych organów administracji rządowej 242 850,00 0,00 Osoby nieobjęte mnożnikowymi systemami wynagrodzeń 27 350,00 Osoby zajmujące kierownicze stanowiska państwowe 22 000,00 27 Informatyzacja 0,00 642 850,00 Członkowie korpusu służby cywilnej 193 500,00 750 Administracja publiczna 0,00 642 850,00 75001 Urzędy naczelnych i centralnych organów administracji rządowej 0,00 642 850,00 Osoby nieobjęte mnożnikowymi systemami wynagrodzeń 27 350,00 Osoby zajmujące kierownicze stanowiska państwowe 22 000,00 Członkowie korpusu służby cywilnej 593 500,00
 

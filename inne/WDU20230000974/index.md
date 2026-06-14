@@ -8,10 +8,10 @@ pos: 974
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 maja 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 997744 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 18 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,24 +25,24 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000974) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/974/text.pdf) |
 
-997744 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 18 maja 2023 r.
-w sprawie określenia wzorów urzędowych formularzy wniosków o wpis do rejestru fundacji rodzinnych oraz sposobu i miejsca ich udostępniania Na podstawie art. 119 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825) zarządza się, co następuje: § 1. Ustala się następujące wzory urzędowych formularzy:
+w sprawie określenia wzorów urzędowych formularzy wniosków o wpis do rejestru fundacji rodzinnych oraz sposobu i miejsca ich udostępniania Na podstawie art. 119 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825) zarządza się, co następuje:
+§ 1. Ustala się następujące wzory urzędowych formularzy:
 1) wzór formularza wniosku o rejestrację fundacji rodzinnej w rejestrze fundacji rodzinnych, oznaczonego symbolem RFR-W, stanowiący załącznik nr 1 do rozporządzenia;
 2) wzór formularza wniosku o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych, oznaczonego symbolem RFR-Z, stanowiący załącznik nr 2 do rozporządzenia;
-3) wzór formularza wniosku o zmianę danych w rejestrze fundacji rodzinnych sprawozdania finansowe i inne dokumenty, oznaczonego symbolem RFR-Z30, stanowiący załącznik nr 3 do rozporządzenia;
+3) wzór formularza wniosku o zmianę danych w rejestrze fundacji rodzinnych – sprawozdania finansowe i inne dokumenty, oznaczonego symbolem RFR-Z30, stanowiący załącznik nr 3 do rozporządzenia;
 4) wzór formularza wniosku o zmianę danych w rejestrze fundacji rodzinnych ‒ likwidacja, rozwiązanie/unieważnienie, oznaczonego symbolem RFR-Z61, stanowiący załącznik nr 4 do rozporządzenia;
 5) wzór formularza wniosku o zmianę danych w rejestrze fundacji rodzinnych ‒ zarząd komisaryczny / zarząd przymusowy, oznaczonego symbolem RFR-Z63, stanowiący załącznik nr 5 do rozporządzenia;
 6) wzór formularza wniosku o zmianę danych w rejestrze fundacji rodzinnych ‒ postępowanie restrukturyzacyjne, oznaczonego symbolem RFR-Z67, stanowiący załącznik nr 6 do rozporządzenia;
 7) wzór formularza wniosku o zmianę wpisu w rejestrze fundacji rodzinnych ‒ postępowanie upadłościowe, oznaczonego symbolem RFR-Z68, stanowiący załącznik nr 7 do rozporządzenia;
 8) wzór formularza wniosku o wykreślenie fundacji rodzinnej z rejestru fundacji rodzinnych, oznaczonego symbolem RFR-X, stanowiący załącznik nr 8 do rozporządzenia;
 9) wzór formularza załącznika do wniosku o rejestrację fundacji rodzinnej w rejestrze fundacji rodzinnych ‒ jednostki terenowe fundacji rodzinnej, oznaczonego symbolem RFR-WA, stanowiący załącznik nr 9 do rozporządzenia;
-10) wzór formularza załącznika do wniosku o rejestrację fundacji rodzinnej w rejestrze fundacji rodzinnych członkowie zgromadzenia beneficjentów, oznaczonego symbolem RFR-WB, stanowiący załącznik nr 10 do rozporządzenia;
-11) wzór formularza załącznika do wniosku o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych pełnomocnik fundacji rodzinnej, oznaczonego symbolem RFR-WL, stanowiący załącznik nr 11 do rozporządzenia;
+10) wzór formularza załącznika do wniosku o rejestrację fundacji rodzinnej w rejestrze fundacji rodzinnych – członkowie zgromadzenia beneficjentów, oznaczonego symbolem RFR-WB, stanowiący załącznik nr 10 do rozporządzenia;
+11) wzór formularza załącznika do wniosku o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych – pełnomocnik fundacji rodzinnej, oznaczonego symbolem RFR-WL, stanowiący załącznik nr 11 do rozporządzenia;
 12) wzór formularza załącznika do wniosku o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych ‒ zarząd / rada nadzorcza fundacji rodzinnej, oznaczonego symbolem RFR-WK, stanowiący załącznik nr 12 do rozporządzenia;
-13) wzór formularza załącznika do wniosku o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną, oznaczonego symbolem RFR-WM, stanowiący załącznik nr 13 do rozporządzenia;
+13) wzór formularza załącznika do wniosku o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych – przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną, oznaczonego symbolem RFR-WM, stanowiący załącznik nr 13 do rozporządzenia;
 14) wzór formularza załącznika do wniosku o zmianę danych w rejestrze fundacji rodzinnych ‒ zmiana ‒ jednostki terenowe fundacji rodzinnej, oznaczonego symbolem RFR-ZA, stanowiący załącznik nr 14 do rozporządzenia;
 15) wzór formularza załącznika do wniosku o zmianę danych w rejestrze fundacji rodzinnych ‒ zmiana ‒ członkowie zgromadzenia beneficjentów, oznaczonego symbolem RFR-ZB, stanowiący załącznik nr 15 do rozporządzenia;
-16) wzór formularza załącznika do wniosku o zmianę danych w rejestrze fundacji rodzinnych ‒ zmiana zarząd / rada nadzorcza fundacji rodzinnej, oznaczonego symbolem RFR-ZK, stanowiący załącznik nr 16 do rozporządzenia;
+16) wzór formularza załącznika do wniosku o zmianę danych w rejestrze fundacji rodzinnych ‒ zmiana – zarząd / rada nadzorcza fundacji rodzinnej, oznaczonego symbolem RFR-ZK, stanowiący załącznik nr 16 do rozporządzenia;
 17) wzór formularza załącznika do wniosku o zmianę danych w rejestrze fundacji rodzinnych ‒ zmiana ‒ pełnomocnik fundacji rodzinnej, oznaczonego symbolem RFR-ZL, stanowiący załącznik nr 17 do rozporządzenia;
 18) wzór formularza załącznika do wniosku o zmianę danych w rejestrze fundacji rodzinnych ‒ sprawozdania finansowe i inne dokumenty, oznaczonego symbolem RFR-ZN, stanowiący załącznik nr 18 do rozporządzenia;
 19) wzór formularza załącznika do wniosku o zmianę danych w rejestrze fundacji rodzinnych ‒ likwidator, zarządca, syndyk, osoba powołana w toku postępowania upadłościowego do reprezentowania upadłego, oznaczonego symbolem RFR-ZR, stanowiący załącznik nr 19 do rozporządzenia;
@@ -54,7 +54,7 @@ w sprawie określenia wzorów urzędowych formularzy wniosków o wpis do rejestr
 2. Dopuszcza się zgłaszanie wniosków w postępowaniu rejestrowym na wydrukach urzędowych formularzy udostępnionych za pośrednictwem Internetu w Biuletynie Informacji Publicznej na stronie podmiotowej Ministra Sprawiedliwości.
 Przepisu § 2 nie stosuje się.
 § 5. Rozporządzenie wchodzi w życie z dniem 22 maja 2023 r.
-Minister Sprawiedliwości: Z. Ziobro Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 18 maja 2023 r. (Dz. U. poz. ……..) Załącznik nr 1 WZÓR RFR-W Sygnatura akt (wypełnia sąd) Rejestr Fundacji Rodzinnych Wniosek o rejestrację fundacji rodzinnej w rejestrze fundacji rodzinnych • Formularz należy wypełnić w języku polskim, czytelnie, na maszynie, komputerowo lub ręcznie, wielkimi drukowanymi literami.
+Minister Sprawiedliwości: Z. Ziobro Załączniki do rozporządzenia Ministra Sprawiedliwości Załączniki do rozporządzenia z dnia 18 Ministra maja 2023 r. Sprawiedliwości (Dz. U. poz. 974) z dnia 18 maja 2023 r. (Dz. U. poz. ……..) Załącznik nr 1 Załącznik nr 1 WZÓR WZÓR Sygnatura akt (wypełnia sąd) RFR-W Wniosek o rejestrację Rejestr Fundacji fundacji rodzinnej Rodzinnych w rejestrze fundacji rodzinnych • Formularz należy wypełnić w języku polskim, czytelnie, na maszynie, komputerowo lub ręcznie, wielkimi drukowanymi literami.
 • Wnioskodawca wypełnia pola jasne.
 • We wszystkich wypełnianych polach, w których występuje możliwość wyboru, należy wstawić X w jednym odpowiednim kwadracie.
 • Wszystkie pola, w których nie będą wpisane odpowiednie informacje, należy przekreślić.
@@ -68,7 +68,7 @@ Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SK
 7. Wnioskodawca:
 1. Fundator 2. Zarząd A.2 DANE ADRESATA KORESPONDENCJI A.2.1 Oznaczenie adresata korespondencji
 8. Nazwa/firma lub nazwa organu, lub nazwisko
-9. Imię Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 18 maja 2023 r. (Dz. U. poz. 974) Załącznik nr 1 WZÓR A.2.2 Adres do korespondencji
+9. Imię RFR-W 1/4 A.2.2 Adres do korespondencji
 10. Ulica 11. Nr domu 12. Nr lokalu 13. Miejscowość
 14. Kod pocztowy 15. Poczta 16. Kraj A.3 DANE PEŁNOMOCNIKA PROCESOWEGO A.3.1 Oznaczenie pełnomocnika
 17. Nazwa/firma lub nazwisko
@@ -84,20 +84,20 @@ Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SK
 37. Kod pocztowy 38. Poczta
 39. Adres poczty elektronicznej
 40. Adres strony internetowej
-41. Adres dla doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych C.3 INFORMACJA O STATUCIE FUNDACJI RODZINNEJ
+41. Adres dla doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych RFR-W 2/4 C.3 INFORMACJA O STATUCIE FUNDACJI RODZINNEJ
 42. Data sporządzenia aktu notarialnego zawierającego statut fundacji rodzinnej, tj. (dzień–miesiąc–rok), oznaczenie notariusza i kancelarii notarialnej, wskazanie oznaczenia i numeru repertorium, w przypadku zmiany statutu fundacji rodzinnej przed zgłoszeniem wniosku o wpis, także numery zmienionych, dodanych, usuniętych paragrafów (innych jednostek redakcyjnych) oraz informacja o tekście jednolitym statutu fundacji rodzinnej, jeżeli został sporządzony.
 C.4 INFORMACJA O CZASIE, NA JAKI JEST UTWORZONA FUNDACJA RODZINNA
 43. Podmiot jest utworzony na czas: Oznaczony, jaki?
 Nieoznaczony C.5 INFORMACJA O FUNDUSZU ZAŁOŻYCIELSKIM
 44. Wysokość funduszu założycielskiego 45. Waluta Słownie: C.6 INFORMACJA O DNIU KOŃCZĄCYM ROK OBROTOWY
-46. Dzień kończący pierwszy rok obrotowy, za który należy złożyć sprawozdanie finansowe, (dzień–miesiąc–rok): Część D D.1 INFORMACJA O ZAŁĄCZNIKACH:
+46. Dzień kończący pierwszy rok obrotowy, za który należy złożyć sprawozdanie finansowe, (dzień–miesiąc–rok): – – Część D D.1 INFORMACJA O ZAŁĄCZNIKACH:
 1. Jeśli podmiot posiada terenowe jednostki organizacyjne, należy wypełnić załącznik RFR-WA jednostki terenowe.
 2. W celu wpisania informacji o osobach wchodzących w skład zgromadzenia beneficjentów należy wypełnić załącznik RFR-WB członkowie zgromadzenia beneficjentów.
 3. W celu wpisania informacji na temat organu uprawnionego do reprezentacji fundacji rodzinnej i osób wchodzących w jego skład oraz sposobu reprezentacji należy wypełnić załącznik RFR-WK zarząd/rada nadzorcza fundacji rodzinnej.
 4. W celu wpisania informacji na temat organu nadzoru fundacji rodzinnej i osób wchodzących w jego skład należy wypełnić załącznik RFR-WK zarząd/rada nadzorcza fundacji rodzinnej.
 5. W celu wpisana informacji na temat wykonywanej działalności gospodarczej przez fundację rodzinną należy wypełnić załącznik RFRWM.
-6. W celu wpisania informacji o pełnomocniku fundacji rodzinnej należy wypełnić załącznik RFR-WL pełnomocnik fundacji rodzinnej.
-D.1.1 Lista załączonych formularzy uzupełniających Lp. Symbol i nazwa załącznika Liczba załączników 1 RFR-WA jednostki terenowe fundacji rodzinnej 2 RFR-WB członkowie zgromadzenia beneficjentów 3 RFR-WK zarząd/rada nadzorcza 4 RFR-WL pełnomocnik fundacji rodzinnej 5 RFR-WM przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną 6 7 8 RFR-W 4/4 D.1.2 Lista załączonych dokumentów Lp. Nazwa załączonego dokumentu Liczba egzemplarzy 1 Akt założycielski / Testament, w którym ustanowiono fundację rodzinną 2 Statut fundacji rodzinnej Oświadczenie fundatora o wniesieniu mienia na pokrycie funduszu założycielskiego / Oświadczenie 3 członków zarządu dotyczące wniesienia mienia na pokrycie funduszu założycielskiego 4 Dowód ustanowienia organów fundacji rodzinnej 5 6 7 8 9 10 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis Załącznik nr 2 WZÓR RFR-Z Sygnatura akt (wypełnia sąd) Rejestr Fundacji Rodzinnych Wniosek o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych • Formularz należy wypełnić w języku polskim, czytelnie, na maszynie, komputerowo lub ręcznie, wielkimi, drukowanymi literami.
+6. W celu wpisania informacji o pełnomocniku fundacji rodzinnej należy wypełnić załącznik RFR-WL – pełnomocnik fundacji rodzinnej.
+D.1.1 Lista załączonych formularzy uzupełniających Lp. Symbol i nazwa załącznika Liczba załączników 1 RFR-WA jednostki terenowe fundacji rodzinnej 2 RFR-WB członkowie zgromadzenia beneficjentów 3 RFR-WK zarząd/rada nadzorcza 4 RFR-WL pełnomocnik fundacji rodzinnej 5 RFR-WM przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną 6 7 8 RFR-W 3/4 D.1.2 Lista załączonych dokumentów Lp. Nazwa załączonego dokumentu Liczba egzemplarzy 1 Akt założycielski / Testament, w którym ustanowiono fundację rodzinną 2 Statut fundacji rodzinnej Oświadczenie fundatora o wniesieniu mienia na pokrycie funduszu założycielskiego / Oświadczenie 3 członków zarządu dotyczące wniesienia mienia na pokrycie funduszu założycielskiego 4 Dowód ustanowienia organów fundacji rodzinnej 5 6 7 8 9 10 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis RFR-W 4/4 Załącznik nr 2 Załącznik nr 2 WZÓR WZÓR Sygnatura akt (wypełnia sąd) RFR-Z Wniosek o zmianę danych Rejestr Fundacji fundacji rodzinnej Rodzinnych w rejestrze fundacji rodzinnych • Formularz należy wypełnić w języku polskim, czytelnie, na maszynie, komputerowo lub ręcznie, wielkimi, drukowanymi literami.
 • Wnioskodawca wypełnia pola jasne.
 • We wszystkich wypełnianych polach, w których występuje możliwość wyboru, należy wstawić X w jednym odpowiednim kwadracie.
 • Wszystkie pola, w których nie będą wpisane odpowiednie informacje, należy przekreślić.
@@ -113,7 +113,7 @@ Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SK
 10. Wnioskodawca:
 1. Fundacja rodzinna 2. Inny wnioskodawca
 11. Nazwa/firma lub nazwisko
-12. Imię Załącznik nr 2 WZÓR B.2 DANE ADRESATA KORESPONDENCJI B.2.1 Oznaczenie adresata korespondencji
+12. Imię RFR-Z 1/4 B.2 DANE ADRESATA KORESPONDENCJI B.2.1 Oznaczenie adresata korespondencji
 13. Nazwa/firma lub nazwisko
 14. Imię B.2.2 Adres do korespondencji
 15. Ulica 16. Nr domu 17. Nr lokalu 18. Miejscowość
@@ -126,7 +126,7 @@ Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SK
 32. Województwo 33. Powiat
 34. Gmina 35. Miejscowość
 36. Ulica 37. Nr domu 38. Nr lokalu
-39. Kod pocztowy 40. Poczta C.3 ZMIANA ADRESU STRONY INTERNETOWEJ I/LUB ADRESU POCZTY ELEKTRONICZNEJ I/LUB ADRESU DLA DORĘCZEŃ ELEKTRONICZNYCH
+39. Kod pocztowy 40. Poczta RFR-Z 2/4 C.3 ZMIANA ADRESU STRONY INTERNETOWEJ I/LUB ADRESU POCZTY ELEKTRONICZNEJ I/LUB ADRESU DLA DORĘCZEŃ ELEKTRONICZNYCH
 41. Nowy adres strony internetowej
 42. Nowy adres poczty elektronicznej
 43. Nowy adres dla doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych C.4 ZMIANA STATUTU FUNDACJI RODZINNEJ
@@ -136,32 +136,31 @@ C.5 ZMIANA INFORMACJI O CZASIE, NA JAKI JEST UTWORZONA FUNDACJA RODZINNA
 1. Oznaczony, jaki?
 2. Nieoznaczony
 3. Bez zmian C.6 ZMIANA INFORMACJI O DNIU KOŃCZĄCYM ROK OBROTOWY
-46. Dzień kończący pierwszy rok obrotowy, za który należy złożyć sprawozdanie finansowe, (dzień–miesiąc–rok): RFR-Z 4/4 Część D D.1 INFORMACJA O ZAŁĄCZNIKACH:
-1. W celu wpisania nowej jednostki terenowej lub wykreślenia jednostki terenowej, lub zmiany informacji o jednostce terenowej fundacji rodzinnej należy wypełnić załącznik RFR-ZA „Zmiana jednostki terenowe fundacji rodzinnej”.
-2. W celu wpisania organu nadzoru należy wypełnić załącznik RFR-WK „Zarząd/rada nadzorcza fundacji rodzinnej ”. W celu wykreślenia organu uprawnionego do reprezentacji lub organu nadzoru, zmiany jego składu lub zmiany danych osób wchodzących w jego skład, lub zmiany sposobu reprezentacji należy wypełnić załącznik RFR-ZK „Zmiana zarząd/rada nadzorcza fundacji rodzinnej”.
+46. Dzień kończący pierwszy rok obrotowy, za który należy złożyć sprawozdanie finansowe, (dzień–miesiąc–rok): – – RFR-Z 3/4 Część D D.1 INFORMACJA O ZAŁĄCZNIKACH:
+1. W celu wpisania nowej jednostki terenowej lub wykreślenia jednostki terenowej, lub zmiany informacji o jednostce terenowej fundacji rodzinnej należy wypełnić załącznik RFR-ZA „Zmiana – jednostki terenowe fundacji rodzinnej”.
+2. W celu wpisania organu nadzoru należy wypełnić załącznik RFR-WK „Zarząd/rada nadzorcza fundacji rodzinnej ”. W celu wykreślenia organu uprawnionego do reprezentacji lub organu nadzoru, zmiany jego składu lub zmiany danych osób wchodzących w jego skład, lub zmiany sposobu reprezentacji należy wypełnić załącznik RFR-ZK „Zmiana – zarząd/rada nadzorcza fundacji rodzinnej”.
 3. W celu wpisania wzmianki o złożonych sprawozdaniach finansowych i innych dokumentach należy wypełnić załącznik RFR-ZN „Sprawozdania finansowe i inne dokumenty”.
 4. W celu wpisania informacji (jeśli wcześniej nie była zgłaszana) o wykonywanej działalności gospodarczej przez fundację rodzinną należy wypełnić załącznik RFR-WM „Przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną”.
-5. W celu wpisania zmiany informacji o wykonywanej działalności gospodarczej przez fundację rodzinną należy wypełnić załącznik RFR-ZM „Zmiana przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną”.
+5. W celu wpisania zmiany informacji o wykonywanej działalności gospodarczej przez fundację rodzinną należy wypełnić załącznik RFR-ZM „Zmiana – przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną”.
 6. W celu wpisania informacji (jeśli wcześniej nie była zgłaszana) o posiadanym przez podmiot numerze REGON lub o numerze NIP należy wypełnić załącznik RFR-ZY „Numer identyfikacyjny REGON, numer identyfikacji podatkowej NIP”.
-7. W celu wpisania informacji (jeśli wcześniej nie była zgłaszana) o pełnomocniku fundacji rodzinnej należy wypełnić załącznik RFR-WL Pełnomocnik fundacji rodzinnej.
-8. W celu wykreślenia pełnomocnika fundacji rodzinnej, wpisania nowego pełnomocnika fundacji rodzinnej lub zmiany danych pełnomocnika fundacji rodzinnej należy wypełnić załącznik RFR-ZL „Zmiana pełnomocnik fundacji rodzinnej”.
-D.1.1 Lista załączonych formularzy uzupełniających Lp. Nazwa załącznika Liczba załączników 1 RFR-ZA Zmiana jednostki terenowe fundacji rodzinnej 2 RFR-WK Zarząd/rada nadzorcza fundacji rodzinnej 3 RFR-ZK Zmiana zarząd/rada nadzorcza fundacji rodzinnej 4 RFR-ZB Zmiana członkowie zgromadzenia beneficjentów 5 RFR-ZN Sprawozdania finansowe i inne dokumenty 6 RFR-ZY Numer identyfikacyjny REGON, numer identyfikacji podatkowej NIP 7 RFR-WM Przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną 8 RFR-ZM Zmiana przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną 9 RFR-WL Pełnomocnik fundacji rodzinnej 10 RFR- ZL Zmiana pełnomocnik fundacji rodzinnej 11 12 D.1.2 Lista załączonych dokumentów Lp. Nazwa załączonego dokumentu Liczba egzemplarzy 1 2 3 4 5 6 7 8 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis Załącznik nr 3 WZÓR RFR-Z30 Sygnatura akt (wypełnia sąd) Rejestr Fundacji Rodzinnych Wniosek o zmianę danych w rejestrze fundacji rodzinnych SPRAWOZDANIA FINANSOWE I INNE DOKUMENTY SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK Sąd Okręgowy w Piotrkowie Trybunalskim SIEDZIBA FUNDACJI, KTÓREJ DOTYCZY WPIS Część A A.1 DANE FUNDACJI RODZINNEJ, KTÓREGO DOTYCZY WPIS FUNDACJA RODZINNA Część B B.1 OZNACZENIE WNIOSKODAWCY FUNDACJA RODZINNA B.2 DANE ADRESATA KORESPONDENCJI Załącznik nr 3 WZÓR RFR-Z30 2/3 B.3 DANE PEŁNOMOCNIKA PROCESOWEGO Część C Wnoszę o dokonanie wpisu zgodnie z informacjami zamieszczonymi we wniosku i w załącznikach: C.1 INFORMACJA O ZŁOŻONYCH SPRAWOZDANIACH FINANSOWYCH I INNYCH DOKUMENTACH - - - - - - - - - - C.2 INFORMACJA O SKONSOLIDOWANYM ROCZNYM SPRAWOZDANIU FINANSOWYM I INNYCH DOKUMENTACH - - - - - - - - - - - RFR-Z30 3/3 Część D D.1 INFORMACJA O ZAŁĄCZNIKACH: Lp. Nazwa załącznika Liczba załączników Lp. Nazwa załączonego dokumentu Liczba egzemplarzy D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis Załącznik nr 4 WZÓR RFR-Z61 Rejestr Fundacji Rodzinnych Wniosek o zmianę danych w rejestrze fundacji rodzinnych LIKWIDACJA, ROZWIĄZANIE/UNIEWAŻNIENIE SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK Sąd Okręgowy w Piotrkowie Trybunalskim SIEDZIBA FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS
+7. W celu wpisania informacji (jeśli wcześniej nie była zgłaszana) o pełnomocniku fundacji rodzinnej należy wypełnić załącznik RFR-WL – Pełnomocnik fundacji rodzinnej.
+8. W celu wykreślenia pełnomocnika fundacji rodzinnej, wpisania nowego pełnomocnika fundacji rodzinnej lub zmiany danych pełnomocnika fundacji rodzinnej należy wypełnić załącznik RFR-ZL „Zmiana – pełnomocnik fundacji rodzinnej”.
+D.1.1 Lista załączonych formularzy uzupełniających Lp. Nazwa załącznika Liczba załączników 1 RFR-ZA Zmiana – jednostki terenowe fundacji rodzinnej 2 RFR-WK Zarząd/rada nadzorcza fundacji rodzinnej 3 RFR-ZK Zmiana – zarząd/rada nadzorcza fundacji rodzinnej 4 RFR-ZB Zmiana – członkowie zgromadzenia beneficjentów 5 RFR-ZN Sprawozdania finansowe i inne dokumenty 6 RFR-ZY Numer identyfikacyjny REGON, numer identyfikacji podatkowej NIP 7 RFR-WM Przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną 8 RFR-ZM Zmiana – przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną 9 RFR-WL Pełnomocnik fundacji rodzinnej 10 RFR- ZL Zmiana – pełnomocnik fundacji rodzinnej 11 12 D.1.2 Lista załączonych dokumentów Lp. Nazwa załączonego dokumentu Liczba egzemplarzy 1 2 3 4 5 6 7 8 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis RFR-Z 4/4 Załącznik nr 3 Załącznik nr 3 WZÓR WZÓR Sygnatura akt (wypełnia sąd) RFR-Z30 Wniosek o zmianę danych Rejestr w rejestrze fundacji rodzinnych Fundacji Rodzinnych SPRAWOZDANIA FINANSOWE I INNE DOKUMENTY SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK Sąd Okręgowy w Piotrkowie Trybunalskim SIEDZIBA FUNDACJI, KTÓREJ DOTYCZY WPIS Część A A.1 DANE FUNDACJI RODZINNEJ, KTÓREGO DOTYCZY WPIS FUNDACJA RODZINNA Część B B.1 OZNACZENIE WNIOSKODAWCY FUNDACJA RODZINNA B.2 DANE ADRESATA KORESPONDENCJI RFR-Z30 1/3 B.3 DANE PEŁNOMOCNIKA PROCESOWEGO Część C Wnoszę o dokonanie wpisu zgodnie z informacjami zamieszczonymi we wniosku i w załącznikach: C.1 INFORMACJA O ZŁOŻONYCH SPRAWOZDANIACH FINANSOWYCH I INNYCH DOKUMENTACH - - - - - - - - - - C.2 INFORMACJA O SKONSOLIDOWANYM ROCZNYM SPRAWOZDANIU FINANSOWYM I INNYCH DOKUMENTACH - - - - - - - - - - - RFR-Z30 2/3 Część D D.1 INFORMACJA O ZAŁĄCZNIKACH: Lp. Nazwa załącznika Liczba załączników Lp. Nazwa załączonego dokumentu Liczba egzemplarzy D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis RFR-Z30 3/3 Załącznik nr 4 Załącznik nr 4 WZÓR WZÓR RFR-Z61 Wniosek o zmianę danych Rejestr w rejestrze fundacji rodzinnych Fundacji Rodzinnych LIKWIDACJA, ROZWIĄZANIE/UNIEWAŻNIENIE SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK Sąd Okręgowy w Piotrkowie Trybunalskim SIEDZIBA FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS
 3. Powiat
 5. Miejscowość Część A A.1 DANE FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ FUNDACJA RODZINNA └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ └─┴─┴─┴─┴─┴─┴─┴─┴─┘ Część B B.1 DANE WNIOSKODAWCY
 11. :
-1. Fundacja rodzinna 2. Inny wnioskodawca Załącznik nr 4 WZÓR B.2 DANE ADRESATA KORESPONDENCJI B.2.1 Oznaczenie adresata korespondencji B.2.2 Adres do korespondencji B.3 DANE PEŁNOMOCNIKA PROCESOWEGO B.3.1 Oznaczenie pełnomocnika B.3.2 Adres pełnomocnika Część C Wnoszę o dokonanie wpisu zgodnie z informacjami zamieszczonymi we wniosku i w załącznikach: C.1 ROZWIĄZANIE / UNIEWAŻNIENIE - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ dzień miesiąc rok C.2 OTWARCIE LIKWIDACJI FUNDACJI RODZINNEJ - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ dzień miesiąc rok TAK NIE - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ C.3 ZMIANA INFORMACJI O LIKWIDATORACH I/LUB SPOSOBIE REPREZENTACJI FUNDACJI RODZINNEJ PRZEZ LIKWIDATORÓW i - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ C.4 ZAKOŃCZENIE / UCHYLENIE LIKWIDACJI - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ Część D D.1 INFORMACJA O ZAŁĄCZNIKACH: D.1.1 Lista załączonych formularzy uzupełniających D.1.2. Lista załączonych dokumentów Nazwa załączonego dokumentu Liczba egzemplarzy D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis Załącznik nr 5 WZÓR RFR-Z63 Sygnatura akt (wypełnia sąd) Rejestr Fundacji Rodzinnych Wniosek o zmianę danych w rejestrze fundacji rodzinnych ZARZĄD KOMISARYCZNY / ZARZĄD PRZYMUSOWY Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK
+1. Fundacja rodzinna 2. Inny wnioskodawca RFR-Z61 1/4 B.2 DANE ADRESATA KORESPONDENCJI B.2.1 Oznaczenie adresata korespondencji B.2.2 Adres do korespondencji B.3 DANE PEŁNOMOCNIKA PROCESOWEGO B.3.1 Oznaczenie pełnomocnika B.3.2 Adres pełnomocnika Część C Wnoszę o dokonanie wpisu zgodnie z informacjami zamieszczonymi we wniosku i w załącznikach: C.1 ROZWIĄZANIE / UNIEWAŻNIENIE - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ dzień miesiąc rok RFR-Z61 2/4 C.2 OTWARCIE LIKWIDACJI FUNDACJI RODZINNEJ - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ dzień miesiąc rok TAK NIE - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ C.3 ZMIANA INFORMACJI O LIKWIDATORACH I/LUB SPOSOBIE REPREZENTACJI FUNDACJI RODZINNEJ PRZEZ LIKWIDATORÓW i - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ C.4 ZAKOŃCZENIE / UCHYLENIE LIKWIDACJI - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ RFR-Z61 3/4 Część D D.1 INFORMACJA O ZAŁĄCZNIKACH: D.1.1 Lista załączonych formularzy uzupełniających D.1.2. Lista załączonych dokumentów Nazwa załączonego dokumentu Liczba egzemplarzy D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis RFR-Z61 4/4 Załącznik nr 5 Załącznik nr 5 WZÓR WZÓR Sygnatura akt (wypełnia sąd) RFR-Z63 Wniosek o zmianę danych Rejestr w rejestrze fundacji rodzinnych Fundacji Rodzinnych ZARZĄD KOMISARYCZNY / ZARZĄD PRZYMUSOWY Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK
 1. Nazwa sądu Sąd Okręgowy w Piotrkowie Trybunalskim SIEDZIBA FUNDACJI RODZINNEJ, KTÓREGO DOTYCZY WPIS
 2. Województwo 3. Powiat
 4. Gmina 5. Miejscowość Część A A.1 DANE FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS
 6. Numer RFR └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
 7. FUNDACJA RODZINNA
-8. Nazwa └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
-9. Numer identyfikacji podatkowej NIP └─┴─┴─┴─┴─┴─┴─┴─┴─┘
-10. Numer identyfikacyjny REGON Część B B.1 DANE WNIOSKODAWCY
+8. Nazwa └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ └─┴─┴─┴─┴─┴─┴─┴─┴─┘
+9. Numer identyfikacji podatkowej NIP 10. Numer identyfikacyjny REGON Część B B.1 DANE WNIOSKODAWCY
 11. Wnioskodawca:
 1. Fundacja rodzinna 2. Inny wnioskodawca
 12. Nazwa/firma lub nazwa organu, lub nazwisko
-13. Imię Załącznik nr 5 WZÓR RFR-Z63 2/4 B.2 DANE ADRESATA KORESPONDENCJI B.2.1 Oznaczenie adresata korespondencji
+13. Imię RFR-Z63 1/4 B.2 DANE ADRESATA KORESPONDENCJI B.2.1 Oznaczenie adresata korespondencji
 14. Nazwa/firma lub nazwa organu, lub nazwisko
 15. Imię B.2.2 Adres do korespondencji
 16. Ulica 17. Nr domu 18. Nr lokalu 19. Miejscowość
@@ -172,41 +171,37 @@ D.1.1 Lista załączonych formularzy uzupełniających Lp. Nazwa załącznika Li
 29. Kod pocztowy 30. Poczta 31. Kraj Część C Wnoszę o dokonanie wpisu zgodnie z informacjami zamieszczonymi we wniosku i w załącznikach: C.1 USTANOWIENIE ZARZĄDU KOMISARYCZNEGO LUB ZARZĄDU PRZYMUSOWEGO, LUB OSOBY POWOŁANEJ W TOKU POSTĘPOWANIA UPADŁOŚCIOWEGO
 32. Czas, na jaki zarząd został ustanowiony
 33. Rodzaj zarządu lub zarządzania
-34. Sposób reprezentacji fundacji rodzinnej przez zarządcę lub osobę powołaną w toku postępowania upadłościowego do reprezentowania upadłego RFR-Z63 3/4 C.2 DANE ZARZĄDCY LUB OSOBY POWOŁANEJ W TOKU POSTĘPOWANIA UPADŁOŚCIOWEGO DO REPREZENTOWANIA UPADŁEGO
-35. Numer wpisu w rejestrze dotyczącego ustanowienia zarządu
-36. Data dokonania wpisu dotyczącego ustanowienia zarządu (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
+34. Sposób reprezentacji fundacji rodzinnej przez zarządcę lub osobę powołaną w toku postępowania upadłościowego do reprezentowania upadłego RFR-Z63 2/4 C.2 DANE ZARZĄDCY LUB OSOBY POWOŁANEJ W TOKU POSTĘPOWANIA UPADŁOŚCIOWEGO DO REPREZENTOWANIA UPADŁEGO
+35. Numer wpisu w rejestrze dotyczącego 36. Data dokonania wpisu dotyczącego ustanowienia zarządu ustanowienia zarządu (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
 37. Wpis dotyczy:
 1. Wykreślenia jednej osoby i wpisania nowej osoby 3. Wykreślenia osoby
 2. Zmiany danych osoby 4. Wpisania nowej osoby
 38. Czy zarządca jest osobą fizyczną?
 TAK NIE
 39. Nazwisko, nazwa lub firma 40. Imiona
-41. Numer PESEL / Data urodzenia / Numer REGON* └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
-43. Funkcja
+41. Numer PESEL / Data urodzenia / Numer REGON* └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
+43. Funkcja └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
 42. Numer KRS
 44. Czy zarządca jest osobą fizyczną?
 TAK NIE
 45. Nazwisko, nazwa lub firma 46. Imiona
-47. Numer PESEL / Data urodzenia / Numer REGON* └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
-48. Numer KRS
-49. Funkcja C.3 ZMIANA CZASU, NA JAKI ZARZĄD ZOSTAŁ USTANOWIONY
-50. Numer wpisu w rejestrze dotyczącego ustanowienia zarządu
-51. Data dokonania wpisu dotyczącego ustanowienia zarządu (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
+47. Numer PESEL / Data urodzenia / Numer REGON* └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
+49. Funkcja └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
+48. Numer KRS C.3 ZMIANA CZASU, NA JAKI ZARZĄD ZOSTAŁ USTANOWIONY
+50. Numer wpisu w rejestrze dotyczącego 51. Data dokonania wpisu dotyczącego ustanowienia zarządu ustanowienia zarządu (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
 52. Nowy czas * Niepotrzebne skreślić.
-RFR-Z63 4/4 C.4 WYKREŚLENIE INFORMACJI O ZARZĄDZIE KOMISARYCZNYM LUB ZARZĄDZIE PRZYMUSOWYM LUB O OSOBIE
-53. Numer wpisu w rejestrze dotyczącego ustanowienia zarządu
-54. Data dokonania wpisu dotyczącego ustanowienia zarządu (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ Część D D.1 INFORMACJA O ZAŁĄCZNIKACH: D.1.1 Lista załączonych formularzy uzupełniających 1 RFR–ZK Zmiana zarząd/rada nadzorcza fundacji rodzinnej 2 RFR–WK Zarząd/rada nadzorcza fundacji rodzinnej RFR–ZR Likwidator, zarządca, osoba powołanej w toku postępowania upadłościowego do 3 reprezentowania upadłego 4 RFR–ZY Numer identyfikacyjny REGON, numer identyfikacji podatkowej NIP 5 6 7 D.1.2. Lista załączonych dokumentów Liczba Nazwa załączonego dokumentu egzemplarzy 1 2 3 4 5 6 7 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis Załącznik nr 6 WZÓR RFR-Z67 Sygnatura akt (wypełnia sąd) Rejestr Fundacji Rodzinnych Wniosek o zmianę danych w rejestrze fundacji rodzinnych POSTĘPOWANIE RESTRUKTURYZACYJNE SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK
+RFR-Z63 3/4 C.4 WYKREŚLENIE INFORMACJI O ZARZĄDZIE KOMISARYCZNYM LUB ZARZĄDZIE PRZYMUSOWYM LUB O OSOBIE
+53. Numer wpisu w rejestrze dotyczącego 54. Data dokonania wpisu dotyczącego ustanowienia zarządu ustanowienia zarządu (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ Część D D.1 INFORMACJA O ZAŁĄCZNIKACH: D.1.1 Lista załączonych formularzy uzupełniających 1 RFR–ZK Zmiana – zarząd/rada nadzorcza fundacji rodzinnej 2 RFR–WK Zarząd/rada nadzorcza fundacji rodzinnej RFR–ZR Likwidator, zarządca, osoba powołanej w toku postępowania upadłościowego do 3 reprezentowania upadłego 4 RFR–ZY Numer identyfikacyjny REGON, numer identyfikacji podatkowej NIP 5 6 7 D.1.2. Lista załączonych dokumentów Liczba Nazwa załączonego dokumentu egzemplarzy 1 2 3 4 5 6 7 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis RFR-Z63 4/4 Załącznik nr 6 Załącznik nr 6 WZÓR WZÓR RFR-Z67 Sygnatura akt (wypełnia sąd) Wniosek o zmianę danych w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych POSTĘPOWANIE RESTRUKTURYZACYJNE SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK
 1. Nazwa sądu Sąd Okręgowy w Piotrkowie Trybunalskim SIEDZIBA FUNDACJI RODZINNEJ, KTÓREGO DOTYCZY WPIS
 2. Województwo 3. Powiat
 4. Gmina 5. Miejscowość Część A A.1 DANE FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS
 6. Numer RFR └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ Oznaczenie 7. Fundacja formy rodzinna prawnej:
-8. Nazwa └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
-9. Numer identyfikacji podatkowej NIP └─┴─┴─┴─┴─┴─┴─┴─┴─┘
-10. Numer identyfikacyjny REGON Część B B.1 DANE WNIOSKODAWCY
+8. Nazwa └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ └─┴─┴─┴─┴─┴─┴─┴─┴─┘
+9. Numer identyfikacji podatkowej NIP 10. Numer identyfikacyjny REGON Część B B.1 DANE WNIOSKODAWCY
 11. Wnioskodawca:
 1. Fundacja rodzinna 2. Inny wnioskodawca
 12. Nazwa/firma lub nazwa organu, lub nazwisko
-13. Imię Załącznik nr 6 WZÓR RFR-Z67 2/3 B.2 DANE ADRESATA KORESPONDENCJI B.2.1 Oznaczenie adresata korespondencji
+13. Imię RFR-Z67 1/3 B.2 DANE ADRESATA KORESPONDENCJI B.2.1 Oznaczenie adresata korespondencji
 14. Nazwa/firma lub nazwa organu, lub nazwisko
 15. Imię B.2.2 Adres do korespondencji
 16. Ulica 17. Nr domu 18. Nr lokalu 19. Miejscowość
@@ -218,14 +213,12 @@ RFR-Z63 4/4 C.4 WYKREŚLENIE INFORMACJI O ZARZĄDZIE KOMISARYCZNYM LUB ZARZĄDZI
 32. Nazwa sądu prowadzącego postępowanie
 33. Sygnatura sprawy 34. Data orzeczenia (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
 35. Rodzaj postępowania ` C.2 WPIS DOTYCZY ZAKOŃCZENIA POSTĘPOWANIA RESTRUKTURYZACYJNEGO
-36. Numer wpisu w rejestrze dotyczący otwarcia postępowania restrukturyzacyjnego
-37. Data dokonania wpisu otwarcia postępowania układowego (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
+36. Numer wpisu w rejestrze dotyczący otwarcia 37. Data dokonania wpisu otwarcia postępowania układowego postępowania restrukturyzacyjnego (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
 38. Sposób zakończenia postępowania restrukturyzacyjnego
-39. Data zakończenia postępowania (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ RFR-Z67 3/3 ` C.3 WPIS DOTYCZY UCHYLENIA UKŁADU
+39. Data zakończenia postępowania (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ RFR-Z67 2/3 ` C.3 WPIS DOTYCZY UCHYLENIA UKŁADU
 40. Numer wpisu w rejestrze dotyczącego układu 41. Data dokonania wpisu dotyczącego układu (dzień–miesiąc–rok) - 42. Nazwa sądu
-43. Sygnatura sprawy 44. Data orzeczenia o uchyleniu układu (dzień–miesiąc–rok) - Część D D.1 INFORMACJA O ZAŁĄCZNIKACH: D.1.1 Lista załączonych formularzy uzupełniających 1 RFR-ZY Numer identyfikacyjny REGON, numer identyfikacji podatkowej NIP 2 3 4 5 D.1.2. Lista załączonych dokumentów Liczba Nazwa dokumentu egzemplarzy 1 2 3 4 5 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis RFR-Z68 1/3 Załącznik nr 7 WZÓR RFR-Z68 Sygnatura akt (wypełnia sąd) Rejestr Fundacji Rodzinnych Wniosek o zmianę danych w rejestrze fundacji rodzinnych POSTĘPOWANIE UPADŁOŚCIOWE Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK Sąd Okręgowy w Piotrkowie Trybunalskim SIEDZIBA FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS Część A A.1 DANE FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS FUNDACJA RODZINNA └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
-9. Numer identyfikacji podatkowej NIP └─┴─┴─┴─┴─┴─┴─┴─┴─┘
-10. Numer identyfikacyjny REGON Załącznik nr 7 WZÓR RFR-Z68 2/3 Część B B.1 DANE WNIOSKODAWCY
+43. Sygnatura sprawy 44. Data orzeczenia o uchyleniu układu (dzień–miesiąc–rok) - Część D D.1 INFORMACJA O ZAŁĄCZNIKACH: D.1.1 Lista załączonych formularzy uzupełniających 1 RFR-ZY Numer identyfikacyjny REGON, numer identyfikacji podatkowej NIP 2 3 4 5 D.1.2. Lista załączonych dokumentów Liczba Nazwa dokumentu egzemplarzy 1 2 3 4 5 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis RFR-Z67 3/3 Załącznik nr 7 Załącznik nr 7 WZÓR WZÓR Sygnatura akt (wypełnia sąd) RFR-Z68 Wniosek o zmianę danych Rejestr w rejestrze fundacji rodzinnych Fundacji Rodzinnych POSTĘPOWANIE UPADŁOŚCIOWE Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK Sąd Okręgowy w Piotrkowie Trybunalskim SIEDZIBA FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS Część A A.1 DANE FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS FUNDACJA RODZINNA └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ └─┴─┴─┴─┴─┴─┴─┴─┴─┘
+9. Numer identyfikacji podatkowej NIP 10. Numer identyfikacyjny REGON RFR-Z68 1/3 Część B B.1 DANE WNIOSKODAWCY
 11. Wnioskodawca:
 1. Fundacja rodzinna 2. Inny wnioskodawca
 12. Nazwa/firma lub nazwa organu, lub nazwisko
@@ -239,28 +232,26 @@ RFR-Z63 4/4 C.4 WYKREŚLENIE INFORMACJI O ZARZĄDZIE KOMISARYCZNYM LUB ZARZĄDZI
 25. Ulica 26. Nr domu 27. Nr lokalu 28. Miejscowość
 29. Kod pocztowy 30. Poczta 31. Kraj Część C Wnoszę o dokonanie wpisu zgodnie z informacjami zamieszczonymi we wniosku: C.1 WPIS DOTYCZY OGŁOSZENIA UPADŁOŚCI
 32. Nazwa sądu prowadzącego postępowanie
-33. Sygnatura sprawy 34. Data orzeczenia (dzień–miesiąc–rok) - RFR-Z68 3/3 C.2 WPIS DOTYCZY ZAKOŃCZENIA POSTĘPOWANIA UPADŁOŚCIOWEGO
-35. Numer wpisu w rejestrze dotyczącego postępowania upadłościowego
-36. Data dokonania wpisu dotyczącego postępowania upadłościowego (dzień–miesiąc–rok) - 37. Sposób zakończenia postępowania upadłościowego
+33. Sygnatura sprawy 34. Data orzeczenia (dzień–miesiąc–rok) - RFR-Z68 2/3 C.2 WPIS DOTYCZY ZAKOŃCZENIA POSTĘPOWANIA UPADŁOŚCIOWEGO
+35. Numer wpisu w rejestrze dotyczącego 36. Data dokonania wpisu dotyczącego postępowania upadłościowego postępowania upadłościowego (dzień–miesiąc–rok) - 37. Sposób zakończenia postępowania upadłościowego
 38. Data zakończenia postępowania (dzień–miesiąc–rok) - C.3 WPIS DOTYCZY UCHYLENIA UKŁADU
 39. Numer wpisu w rejestrze dotyczącego układu 40. Data dokonania wpisu dotyczącego układu (dzień–miesiąc–rok) - 41. Nazwa sądu
-42. Sygnatura sprawy 43. Data orzeczenia o uchyleniu układu (dzień–miesiąc–rok) - Część D D.1 INFORMACJA O ZAŁĄCZNIKACH: D.1.1 Lista załączonych formularzy uzupełniających Lp. Nazwa załącznika Liczba załączników 1 RFR-ZY Numer identyfikacyjny REGON, numer identyfikacji podatkowej NIP RFR-ZR Likwidator, zarządca, syndyk, osoba powołana w toku postępowania upadłościowego 2 do reprezentowania upadłego 3 4 5 D.1.2 Lista załączonych dokumentów Nazwa załączonego dokumentu Liczba egzemplarzy 1 2 3 4 5 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis Załącznik nr 8 WZÓR RFR-X Sygnatura akt (wypełnia sąd) Rejestr Fundacji Rodzinnych Wniosek o wykreślenie fundacji rodzinnej z rejestru fundacji rodzinnych • Formularz należy wypełnić w języku polskim, czytelnie, na maszynie, komputerowo lub ręcznie, wielkimi drukowanymi literami.
+42. Sygnatura sprawy 43. Data orzeczenia o uchyleniu układu (dzień–miesiąc–rok) - Część D D.1 INFORMACJA O ZAŁĄCZNIKACH: D.1.1 Lista załączonych formularzy uzupełniających Lp. Nazwa załącznika Liczba załączników 1 RFR-ZY Numer identyfikacyjny REGON, numer identyfikacji podatkowej NIP RFR-ZR Likwidator, zarządca, syndyk, osoba powołana w toku postępowania upadłościowego 2 do reprezentowania upadłego 3 4 5 D.1.2 Lista załączonych dokumentów Nazwa załączonego dokumentu Liczba egzemplarzy 1 2 3 4 5 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis RFR-Z68 3/3 Załącznik nr 8 Załącznik nr 8 WZÓR WZÓR Sygnatura akt (wypełnia sąd) RFR-X Wniosek Rejestr o wykreślenie fundacji rodzinnej Fundacji Rodzinnych z rejestru fundacji rodzinnych • Formularz należy wypełnić w języku polskim, czytelnie, na maszynie, komputerowo lub ręcznie, wielkimi drukowanymi literami.
 • Wnioskodawca wypełnia pola jasne.
 • We wszystkich wypełnianych polach, w których występuje możliwość wyboru, należy wstawić X w jednym odpowiednim kwadracie.
 • Wszystkie pola, w których nie będą wpisane odpowiednie informacje, należy przekreślić.
 • Wniosek składa się do Sądu Okręgowego w Piotrkowie Trybunalskim (sądu rejestrowego). Wniosek można złożyć w biurze podawczym właściwego sądu lub nadać w urzędzie pocztowym na adres sądu.
 • Nieprawidłowe wypełnienie formularza, które uniemożliwia nadanie mu dalszego biegu, spowoduje wezwanie do uzupełnienia braków w terminie tygodniowym. Jeżeli braki nie zostaną w tym terminie uzupełnione, wniosek podlega zwrotowi.
-Wzmianka o nieprawomocności TAK NIE Podpis sędziego Data wpływu (wypełnia sąd) Miejsce na notatki sądu SĄD, DO KTÓREGO JEST KIEROWANY WNIOSEK
+Wzmianka o nieprawomocności Podpis sędziego Data wpływu (wypełnia sąd) TAK NIE Miejsce na notatki sądu SĄD, DO KTÓREGO JEST KIEROWANY WNIOSEK
 1. Nazwa sądu Sąd Okręgowy w Piotrkowie Trybunalskim SIEDZIBA FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS
 2. Województwo 3. Powiat
 4. Gmina 5. Miejscowość Część A A.1 DANE FUNDACJI RODZINNEJ, KTÓREJ DOTYCZY WPIS
 6. Numer RFR └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
 7. Fundacja rodzinna
-8. Nazwa └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
-9. Numer identyfikacji podatkowej NIP └─┴─┴─┴─┴─┴─┴─┴─┴─┘
-10. Numer identyfikacyjny REGON Część B B.1 DANE WNIOSKODAWCY
+8. Nazwa └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ └─┴─┴─┴─┴─┴─┴─┴─┴─┘
+9. Numer identyfikacji podatkowej NIP 10. Numer identyfikacyjny REGON Część B B.1 DANE WNIOSKODAWCY
 11. Wnioskodawca:
-1. Fundacja rodzinna 2. Inny wnioskodawca Załącznik nr 8 WZÓR RFR-X 2/4 Pola o numerach 12 i 13 należy wypełnić tylko wówczas, gdy w polu o numerze 11 zaznaczono „Inny wnioskodawca”. W pozostałych przypadkach pola te należy przekreślić.
+1. Fundacja rodzinna 2. Inny wnioskodawca RFR-X 1/4 Pola o numerach 12 i 13 należy wypełnić tylko wówczas, gdy w polu o numerze 11 zaznaczono „Inny wnioskodawca”. W pozostałych przypadkach pola te należy przekreślić.
 12. Nazwa/firma lub nazwa organu, lub nazwisko
 13. Imię B.2 DANE ADRESATA KORESPONDENCJI B.2.1 Oznaczenie adresata korespondencji
 14. Nazwa/firma lub nazwa organu, lub nazwisko
@@ -271,17 +262,15 @@ Wzmianka o nieprawomocności TAK NIE Podpis sędziego Data wpływu (wypełnia s�
 24. Imię B.3.2 Adres pełnomocnika
 25. Ulica 26. Nr domu 27. Nr lokalu 28. Miejscowość
 29. Kod pocztowy 30. Poczta 31. Kraj Część C Wnoszę o wykreślenie fundacji rodzinnej z rejestru fundacji rodzinnych: C.1 WYKREŚLENIE W WYNIKU ZAKOŃCZENIA LIKWIDACJI
-32. Numer wpisu w rejestrze dotyczący otwarcia likwidacji
-33. Data dokonania wpisu dotycząca otwarcia likwidacji (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
-34. Data zakończenia likwidacji (dzień–miesiąc–rok) oraz informacja o sposobie zakończenia likwidacji - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ RFR-X 3/4 C.2 WYKREŚLENIE W WYNIKU ZAKOŃCZENIA POSTĘPOWANIA UPADŁOŚCIOWEGO
-35. Numer wpisu w rejestrze dotyczący ogłoszenia upadłości
-36. Data dokonania wpisu dotycząca ogłoszenia upadłości (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
+32. Numer wpisu w rejestrze dotyczący 33. Data dokonania wpisu dotycząca otwarcia likwidacji otwarcia likwidacji (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
+34. Data zakończenia likwidacji (dzień–miesiąc–rok) oraz informacja o sposobie zakończenia likwidacji - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ RFR-X 2/4 C.2 WYKREŚLENIE W WYNIKU ZAKOŃCZENIA POSTĘPOWANIA UPADŁOŚCIOWEGO
+35. Numer wpisu w rejestrze dotyczący ogłoszenia 36. Data dokonania wpisu dotycząca ogłoszenia upadłości upadłości (dzień–miesiąc–rok) - └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
 37. Data zakończenia postępowania upadłościowego - (dzień–miesiąc–rok) └─┴─┘ └─┴─┘ └─┴─┴─┴─┘
 38. Sposób zakończenia C.3 WYKREŚLENIE W WYNIKU ROZWIĄZANIA / UNIEWAŻNIENIA
 39. Wpis dotyczy:
 1. Rozwiązania 2. Unieważnienia
-40. Przyczyna rozwiązania / unieważnienia, czyli: informacja o uchwale, data podjęcia uchwały oraz numer uchwały, lub nazwa sądu prowadzącego postępowanie, data wydania prawomocnego orzeczenia oraz sygnatura akt, lub jeśli uchwała jest w postaci aktu notarialnego oznaczenie notariusza i kancelarii notarialnej, data sporządzenia aktu oraz wskazanie oznaczenia i numeru repertorium, lub nazwa organu wydającego decyzję, data wydania decyzji oraz jej numer.
-- └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ dzień miesiąc rok Część D D.1 INFORMACJA O ZAŁĄCZNIKACH : D.1.1 Lista załączonych formularzy uzupełniających Lp. Nazwa załącznika Liczba załączników 1 2 3 4 D.1.2 Lista załączonych dokumentów Nazwa załączonego dokumentu Liczba egzemplarzy 1 2 3 4 5 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis Załącznik nr 9 WZÓR RFR-WA Załącznik do wniosku o rejestrację fundacji rodzinnej w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych JEDNOSTKI TERENOWE FUNDACJI RODZINNEJ DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa fundacji rodzinnej Część I I.1 DANE JEDNOSTKI TERENOWE FUNDACJI RODZINNEJ
+40. Przyczyna rozwiązania / unieważnienia, czyli: informacja o uchwale, data podjęcia uchwały oraz numer uchwały, lub nazwa sądu prowadzącego postępowanie, data wydania prawomocnego orzeczenia oraz sygnatura akt, lub jeśli uchwała jest w postaci aktu notarialnego – oznaczenie notariusza i kancelarii notarialnej, data sporządzenia aktu oraz wskazanie oznaczenia i numeru repertorium, lub nazwa organu wydającego decyzję, data wydania decyzji oraz jej numer.
+- └─┴─┘ └─┴─┘ └─┴─┴─┴─┘ dzień miesiąc rok Część D D.1 INFORMACJA O ZAŁĄCZNIKACH : D.1.1 Lista załączonych formularzy uzupełniających Lp. Nazwa załącznika Liczba załączników 1 2 3 4 RFR-X 3/4 D.1.2 Lista załączonych dokumentów Nazwa załączonego dokumentu Liczba egzemplarzy 1 2 3 4 5 D.2 OSOBY SKŁADAJĄCE WNIOSEK Imię i nazwisko Data Podpis RFR-X 4/4 Załącznik nr 9 Załącznik nr 9 WZÓR WZÓR Załącznik do wniosku RFR-WA o rejestrację fundacji rodzinnej w rejestrze fundacji rodzinnych Rejestr Fundacji JEDNOSTKI TERENOWE FUNDACJI RODZINNEJ Rodzinnych DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa fundacji rodzinnej Część I I.1 DANE JEDNOSTKI TERENOWE FUNDACJI RODZINNEJ
 1. Nazwa Siedziba i adres
 2. Kraj 3. Województwo
 4. Powiat 5. Gmina
@@ -293,7 +282,7 @@ Wzmianka o nieprawomocności TAK NIE Podpis sędziego Data wpływu (wypełnia s�
 4. Powiat 5. Gmina
 6. Miejscowość
 7. Ulica 8. Nr domu 9. Nr lokalu
-10. Kod pocztowy 11. Poczta Załącznik nr 9 WZÓR RFR-WA 2/2 I.3 DANE JEDNOSTKI TERENOWEJ FUNDACJI RODZINNEJ
+10. Kod pocztowy 11. Poczta RFR-WA 1/2 I.3 DANE JEDNOSTKI TERENOWEJ FUNDACJI RODZINNEJ
 1. Nazwa Siedziba i adres
 2. Kraj 3. Województwo
 4. Powiat 5. Gmina
@@ -305,10 +294,8 @@ Wzmianka o nieprawomocności TAK NIE Podpis sędziego Data wpływu (wypełnia s�
 4. Powiat 5. Gmina
 6. Miejscowość
 7. Ulica 8. Nr domu 9. Nr lokalu
-10. Kod pocztowy 11. Poczta Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK Załącznik nr 10 WZÓR RFR-WB Załącznik do wniosku o rejestrację fundacji rodzinnej w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych CZŁONKOWIE ZGROMADZENIA BENEFICJENTÓW DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Część I I.1 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW * I.2 ADRES DLA KORESPONDENCJI CZŁONKA ZGROMADZENIA BENEFICJENTÓW II.1 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW * II.2 ADRES DLA KORESPONDENCJI CZŁONKA ZGROMADZENIA BENEFICJENTÓW Załącznik nr 10 WZÓR RFR-WB 2/2 III.1 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW * III.2 ADRES DLA KORESPONDENCJI CZŁONKA ZGROMADZENIA BENEFICJENTÓW IV.1 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW * IV.2 ADRES DLA KORESPONDENCJI CZŁONKA ZGROMADZENIA BENEFICJENTÓW Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK * Niepotrzebne skreślić.
-
-## Załącznik nr 11 — WZÓR RFR-WL Załącznik do wniosku o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych PEŁNOMOCNIK FUNDACJI RODZINNEJ DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 DANE PEŁNOMOCNIKA FUNDACJI RODZINNEJ
-
+10. Kod pocztowy 11. Poczta Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK RFR-WA 2/2 Załącznik nr 10 Załącznik nr 10 WZÓR WZÓR Załącznik do wniosku RFR-WB o rejestrację fundacji rodzinnej w rejestrze fundacji rodzinnych Rejestr Fundacji CZŁONKOWIE ZGROMADZENIA BENEFICJENTÓW Rodzinnych DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Część I I.1 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW * I.2 ADRES DLA KORESPONDENCJI CZŁONKA ZGROMADZENIA BENEFICJENTÓW II.1 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW * II.2 ADRES DLA KORESPONDENCJI CZŁONKA ZGROMADZENIA BENEFICJENTÓW RFR-WB 1/2 III.1 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW * III.2 ADRES DLA KORESPONDENCJI CZŁONKA ZGROMADZENIA BENEFICJENTÓW IV.1 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW * IV.2 ADRES DLA KORESPONDENCJI CZŁONKA ZGROMADZENIA BENEFICJENTÓW Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK * Niepotrzebne skreślić.
+RFR-WB 2/2 Załącznik nr 11 Załącznik nr 11 WZÓR WZÓR Załącznik do wniosku RFR-WL o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych Rejestr Fundacji PEŁNOMOCNIK FUNDACJI RODZINNEJ Rodzinnych DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 DANE PEŁNOMOCNIKA FUNDACJI RODZINNEJ
 1. Określenie pełnomocnictwa: Pełnomocnictwo ogólne
 2. Nazwisko 3. Imiona
 4. Numer PESEL / Data urodzenia * I.2 ADRES DLA KORESPONDENCJI PEŁNOMOCNIKA FUNDACJI RODZINNEJ
@@ -319,7 +306,7 @@ Wzmianka o nieprawomocności TAK NIE Podpis sędziego Data wpływu (wypełnia s�
 1. Określenie pełnomocnictwa: Pełnomocnictwo ogólne
 2. Nazwisko 3. Imiona
 4. Numer PESEL / Data urodzenia * II.2 ADRES DLA KORESPONDENCJI PEŁNOMOCNIKA FUNDACJI RODZINNEJ
-5. Województwo 6. Powiat Załącznik nr 11 WZÓR
+5. Województwo 6. Powiat RFR-WL 1/2
 7. Gmina 8. Miejscowość
 9. Ulica 10. Nr domu 11. Nr lokalu
 12. Kod pocztowy 13. Poczta III.1 DANE PEŁNOMOCNIKA FUNDACJI RODZINNEJ
@@ -330,16 +317,13 @@ Wzmianka o nieprawomocności TAK NIE Podpis sędziego Data wpływu (wypełnia s�
 7. Gmina 8. Miejscowość
 9. Ulica 10. Nr domu 11. Nr lokalu
 12. Kod pocztowy 13. Poczta Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK * Niepotrzebne skreślić.
-
-## Załącznik nr 12 — WZÓR RFR-WK Załącznik do wniosku o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych ZARZĄD / RADA NADZORCZA FUNDACJI RODZINNEJ DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Jeśli w skład organu wchodzą więcej niż dwie osoby, informacje o nich należy wpisać w kolejnych egzemplarzach załącznikach RFR-WK Zarząd / rada nadzorcza fundacji rodzinnej.
-
+RFR-WL 2/2 Załącznik nr 12 Załącznik nr 12 WZÓR WZÓR Załącznik do wniosku RFR-WK o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych Rejestr Fundacji ZARZĄD / RADA NADZORCZA FUNDACJI RODZINNEJ Rodzinnych DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Jeśli w skład organu wchodzą więcej niż dwie osoby, informacje o nich należy wpisać w kolejnych egzemplarzach załącznikach RFR-WK Zarząd / rada nadzorcza fundacji rodzinnej.
 W przypadku gdy wpis dotyczy organu reprezentacji, informację o sposobie reprezentacji należy wpisać tylko w pierwszym egzemplarzu załącznika, a w pozostałych pole oznaczone numerem 3 należy przekreślić.
-Część I I.1 OKREŚLENIE ORGANU FUNDACJI RODZINNEJ
 1. Zgłoszenie dotyczy:
 1. Zarząd 2. Rada nadzorcza W przypadku zaznaczenia kwadratu 2 pole oznaczone numerem 3 w części I.2 należy przekreślić.
 2. Nazwa organu I.2 INFORMACJA O SPOSOBIE REPREZENTACJI FUNDACJI RODZINNEJ (Informacja obejmuje sposób reprezentowania fundacji rodzinnej przez zarząd).
 Jeśli zgłoszenie dotyczy rady nadzorczej, pole oznaczone numerem 3 należy przekreślić.
-3. Sposób reprezentacji Załącznik nr 12 WZÓR RFR-WK 2/2 Część II II.1 DANE OSOBY WCHODZĄCEJ W SKŁAD ORGANU
+3. Sposób reprezentacji RFR-WK 1/2 Część II II.1 DANE OSOBY WCHODZĄCEJ W SKŁAD ORGANU
 1. Nazwisko 2. Imiona
 3. Numer PESEL / Data urodzenia * Informacje dotyczące osoby wchodzącej w skład organu reprezentacji
 4. Funkcja osoby w organie reprezentacji II.2 ADRES DLA KORESPONDECJI CZŁONKA ORGANU
@@ -354,13 +338,9 @@ Jeśli zgłoszenie dotyczy rady nadzorczej, pole oznaczone numerem 3 należy prz
 7. Gmina 8. Miejscowość
 9. Ulica 10. Nr domu 11. Nr lokalu
 12. Kod pocztowy 13. Poczta Część III III.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK * Niepotrzebne skreślić.
-
-## Załącznik nr 13 — WZÓR RFR-WM Załącznik do wniosku o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych PRZEDMIOT WYKONYWANEJ DZIAŁALNOŚCI GOSPODARCZEJ PRZEZ FUNDACJĘ RODZINNĄ DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa fundacji rodzinnej Część I I.1 OPIS PRZEDMIOTU DZIAŁALNOŚCI WEDŁUG POLSKIEJ KLASYFIKACJI DZIAŁALNOŚCI (PKD) l.1.1 Przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną Kod PKD Opis przedmiotu działalności └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ Załącznik nr 13 WZÓR Kod PKD Opis przedmiotu działalności └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ Część II PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK Załącznik nr 14 WZÓR RFR-ZA Załącznik do wniosku o zmianę danych w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych ZMIANA JEDNOSTKI TERENOWE FUNDACJI RODZINNEJ DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa fundacji rodzinnej Część I I.1 DANE JEDNOSTKI TERENOWEJ FUNDACJI RODZINNEJ
-
-1. Wpis dotyczy:
-1.
-Wykreślenia jednej jednostki terenowej i wpisania nowej jednostki terenowej
-3. Wykreślenia jednostki terenowej
+RFR-WK 2/2 Załącznik nr 13 Załącznik nr 13 WZÓR WZÓR Załącznik do wniosku RFR-WM o rejestrację lub o zmianę danych fundacji rodzinnej w rejestrze fundacji rodzinnych PRZEDMIOT Rejestr Fundacji WYKONYWANEJ DZIAŁALNOŚCI GOSPODARCZEJ Rodzinnych PRZEZ FUNDACJĘ RODZINNĄ DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa fundacji rodzinnej Część I I.1 OPIS PRZEDMIOTU DZIAŁALNOŚCI WEDŁUG POLSKIEJ KLASYFIKACJI DZIAŁALNOŚCI (PKD) l.1.1 Przedmiot wykonywanej działalności gospodarczej przez fundację rodzinną Kod PKD Opis przedmiotu działalności └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ RFR-WM 1/2 Kod PKD Opis przedmiotu działalności └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ Część II PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK RFR-WM 2/2 Załącznik nr 14 Załącznik nr 14 WZÓR WZÓR Załącznik do wniosku RFR-ZA o zmianę danych w rejestrze fundacji rodzinnych Rejestr ZMIANA – JEDNOSTKI TERENOWE Fundacji FUNDACJI RODZINNEJ Rodzinnych DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa fundacji rodzinnej Część I I.1 DANE JEDNOSTKI TERENOWEJ FUNDACJI RODZINNEJ
+1. Wpis dotyczy: Wykreślenia jednej jednostki terenowej i wpisania nowej
+1. 3. Wykreślenia jednostki terenowej jednostki terenowej
 2. Zmiany danych jednostki terenowej 4. Wpisania nowej jednostki terenowej Dane jednostki terenowej, której dotyczy zmiana lub wykreślenie
 2. Nazwa
 3. Kraj 4. Województwo stan, departament)
@@ -371,11 +351,9 @@ Wykreślenia jednej jednostki terenowej i wpisania nowej jednostki terenowej
 11. Powiat 12. Gmina
 13. Miejscowość
 14. Ulica 15. Nr domu 16. Nr lokalu
-17. Kod pocztowy 18. Poczta Załącznik nr 14 WZÓR I.2 DANE JEDNOSTKI TERENOWEJ FUNDACJI RODZINNEJ
-1. Wpis dotyczy:
-1.
-Wykreślenia jednej jednostki terenowej i wpisania nowej jednostki terenowej
-3. Wykreślenia jednostki terenowej
+17. Kod pocztowy 18. Poczta RFR-ZA 1/2 I.2 DANE JEDNOSTKI TERENOWEJ FUNDACJI RODZINNEJ
+1. Wpis dotyczy: Wykreślenia jednej jednostki terenowej i wpisania
+1. 3. Wykreślenia jednostki terenowej nowej jednostki terenowej
 2. Zmiany danych jednostki terenowej 4. Wpisania nowej jednostki terenowej Dane jednostki terenowej, której dotyczy zmiana lub wykreślenie
 2. Nazwa
 3. Kraj 4. Województwo (stan, departament)
@@ -386,13 +364,10 @@ Wykreślenia jednej jednostki terenowej i wpisania nowej jednostki terenowej
 11. Powiat 12. Gmina
 13. Miejscowość
 14. Ulica 15. Nr domu 16. Nr lokalu
-17. Kod pocztowy 18. Poczta Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK Załącznik nr 15 WZÓR Załącznik do wniosku RFR-ZB o zmianę danych w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych ZMIANA ‒ CZŁONKOWIE ZGROMADZENIA BENEFICJENTÓW DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW
-1. Wpis dotyczy:
-1.
-Wykreślenia jednego członka zgromadzenia beneficjentów i wpisania nowego członka zgromadzenia beneficjentów
-3. Wykreślenia członka zgromadzenia beneficjentów
-2. Zmiany danych członka zgromadzenia beneficjentów 4.
-Wpisania nowego członka zgromadzenia beneficjentów Dane członka zgromadzenia beneficjentów, którego dotyczy zmiana lub wykreślenie
+17. Kod pocztowy 18. Poczta Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK RFR-ZA 2/2 Załącznik nr 15 Załącznik nr 15 WZÓR WZÓR Załącznik do wniosku RFR-ZB o zmianę danych w rejestrze fundacji rodzinnych Rejestr ZMIANA ‒ Fundacji Rodzinnych CZŁONKOWIE ZGROMADZENIA BENEFICJENTÓW DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW
+1. Wpis dotyczy: Wykreślenia jednego członka zgromadzenia
+1. beneficjentów i wpisania nowego 3. Wykreślenia członka zgromadzenia beneficjentów członka zgromadzenia beneficjentów
+2. Zmiany danych członka zgromadzenia beneficjentów 4. Wpisania beneficjentów nowego członka zgromadzenia Dane członka zgromadzenia beneficjentów, którego dotyczy zmiana lub wykreślenie
 2. Określenie osoby: Członek zgromadzenia beneficjentów
 3. Nazwisko, nazwa lub firma 4. Imiona
 5. Numer PESEL / Data urodzenia / Numer REGON * 6. Numer KRS Dane nowego członka zgromadzenia beneficjentów lub nowe dane członka zgromadzenia beneficjentów w przypadku zmiany danych
@@ -402,13 +377,10 @@ Wpisania nowego członka zgromadzenia beneficjentów Dane członka zgromadzenia 
 12. Województwo 13. Powiat
 14. Gmina 15. Miejscowość
 16. Ulica 17. Nr domu 18. Nr lokalu
-19. Kod pocztowy 20. Poczta Załącznik nr 15 WZÓR RFR-ZB 2/2 I.3 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW
-1. Wpis dotyczy:
-1.
-Wykreślenia jednego członka zgromadzenia beneficjentów i wpisania nowego członka zgromadzenia beneficjentów
-3. Wykreślenia członka zgromadzenia beneficjentów
-2. Zmiany danych członka zgromadzenia beneficjentów 4.
-Wpisania nowego członka zgromadzenia beneficjentów Dane członka zgromadzenia beneficjentów, którego dotyczy zmiana lub wykreślenie
+19. Kod pocztowy 20. Poczta RFR-ZB 1/2 I.3 DANE CZŁONKA ZGROMADZENIA BENEFICJENTÓW
+1. Wpis dotyczy: Wykreślenia jednego członka zgromadzenia
+1. beneficjentów i wpisania nowego 3. Wykreślenia członka zgromadzenia beneficjentów członka zgromadzenia beneficjentów
+2. Zmiany danych członka zgromadzenia beneficjentów 4. Wpisania beneficjentów nowego członka zgromadzenia Dane członka zgromadzenia beneficjentów, którego dotyczy zmiana lub wykreślenie
 2. Określenie osoby: Członek zgromadzenia beneficjentów
 3. Nazwisko, nazwa lub firma 4. Imiona
 5. Numer PESEL / Data urodzenia / Numer REGON * 6. Numer KRS Dane nowego członka zgromadzenia beneficjentów lub nowe dane członka zgromadzenia beneficjentów w przypadku zmiany danych
@@ -419,17 +391,16 @@ Wpisania nowego członka zgromadzenia beneficjentów Dane członka zgromadzenia 
 14. Gmina 15. Miejscowość
 16. Ulica 17. Nr domu 18. Nr lokalu
 19. Kod pocztowy 20. Poczta Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK * Niepotrzebne skreślić.
-RFR-ZK 1/2 Załącznik nr 16 WZÓR RFR-ZK Załącznik do wniosku o zmianę danych w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych ZMIANA ZARZĄD / RADA NADZORCZA FUNDACJI RODZINNEJ DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 OKREŚLENIE ORGANU, KTÓREGO DOTYCZY WPIS
+RFR-ZB 2/2 Załącznik nr 16 Załącznik nr 16 WZÓR WZÓR Załącznik do wniosku RFR-ZK o zmianę danych w rejestrze fundacji rodzinnych Rejestr ZMIANA – ZARZĄD / RADA NADZORCZA Fundacji FUNDACJI RODZINNEJ Rodzinnych DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 OKREŚLENIE ORGANU, KTÓREGO DOTYCZY WPIS
 1. Zgłoszenie dotyczy:
-1. Zarząd
-2. Rada nadzorcza I.2 OKREŚLENIE RODZAJU WPISU
+2. Rada nadzorcza
+1. Zarząd I.2 OKREŚLENIE RODZAJU WPISU
 2. Wpis dotyczy:
 1. 3.
 2. 4.
 5.
-Część II II.1 DANE ORGANU FUNDACJI RODZINNEJ
 3. Nazwa organu II.2 ZMIANA SPOSOBU REPREZENTACJI FUNDACJI RODZINNEJ
-4. Nowy sposób reprezentacji fundacji rodzinnej Załącznik nr 16 WZÓR RFR-ZK 2/2 Część III III.1 DANE OSOBY WCHODZĄCEJ W SKŁAD ORGANU
+4. Nowy sposób reprezentacji fundacji rodzinnej RFR-ZK 1/2 Część III III.1 DANE OSOBY WCHODZĄCEJ W SKŁAD ORGANU
 1. Wpis dotyczy:
 1. Wykreślenia jednej osoby i wpisania nowej osoby 3. Wykreślenia osoby
 2. Zmiany danych osoby 4. Wpisania nowej osoby Dane osoby, której dotyczy zmiana lub wykreślenie
@@ -442,12 +413,9 @@ Część II II.1 DANE ORGANU FUNDACJI RODZINNEJ
 11. Gmina 11. Miejscowość
 12. Ulica 14. Nr domu 15. Nr lokalu
 16. Kod pocztowy 17. Poczta Część IV IV.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK * Niepotrzebne skreślić.
-
-## Załącznik nr 17 — WZÓR Załącznik do wniosku RFR-ZL o zmianę danych w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnej ZMIANA PEŁNOMOCNIK FUNDACJI RODZINNEJ DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 DANE PEŁNOMOCNIKA FUNDACJI RODZINNEJ
-
-1. Wpis dotyczy:
-1.
-Wykreślenia jednego pełnomocnika i wpisania nowego pełnomocnika 3. Wykreślenia pełnomocnika
+RFR-ZK 2/2 Załącznik nr 17 Załącznik nr 17 WZÓR WZÓR Załącznik do wniosku RFR-ZL o zmianę danych w rejestrze fundacji rodzinnych Rejestr ZMIANA – Fundacji PEŁNOMOCNIK FUNDACJI RODZINNEJ Rodzinnej DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 DANE PEŁNOMOCNIKA FUNDACJI RODZINNEJ
+1. Wpis dotyczy: Wykreślenia jednego pełnomocnika i wpisania Wykreślenia pełnomocnika
+1. nowego pełnomocnika 3.
 2. Zmiany danych pełnomocnika 4. Wpisania ustanowionego pełnomocnika Dane pełnomocnika, którego dotyczy zmiana lub wykreślenie
 2. Określenie pełnomocnictwa: Pełnomocnictwo ogólne
 3. Nazwisko 4. Imiona
@@ -458,10 +426,9 @@ Wykreślenia jednego pełnomocnika i wpisania nowego pełnomocnika 3. Wykreślen
 10. Województwo 11. Powiat
 12. Gmina 13. Miejscowość
 14. Ulica 15. Nr domu 16. Nr lokalu
-17. Kod pocztowy 18. Poczta Załącznik nr 17 WZÓR I.3 DANE PEŁNOMOCNIKA FUNDACJI RODZINNEJ
-1. Wpis dotyczy:
-1.
-Wykreślenia jednego pełnomocnika i wpisania nowego pełnomocnika 3. Wykreślenia pełnomocnika
+17. Kod pocztowy 18. Poczta RFR-ZL 1/2 I.3 DANE PEŁNOMOCNIKA FUNDACJI RODZINNEJ
+1. Wpis dotyczy: Wykreślenia jednego pełnomocnika i wpisania Wykreślenia pełnomocnika
+1. nowego pełnomocnika 3.
 2. Zmiany danych pełnomocnika 4. Wpisania ustanowionego pełnomocnika Dane pełnomocnika, którego dotyczy zmiana lub wykreślenie
 2. Określenie pełnomocnictwa: Pełnomocnictwo ogólne
 3. Nazwisko 4. Imiona
@@ -473,30 +440,28 @@ Wykreślenia jednego pełnomocnika i wpisania nowego pełnomocnika 3. Wykreślen
 12. Gmina 13 Miejscowość
 14. Ulica 15. Nr domu 16. Nr lokalu
 17. Kod pocztowy 18. Poczta Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK * Niepotrzebne skreślić.
-
-## Załącznik nr 18 — WZÓR RFR-ZN Załącznik do wniosku o zmianę danych w rejestrze fundacji rodzinnych SPRAWOZDANIA FINANSOWE I INNE DOKUMENTY Rejestr Fundacji Rodzinnych DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 ROCZNE SPRAWOZDANIE FINANSOWE - - - - - I.2 SPRAWOZDANIE Z BADANIA - - - I.3 UCHWAŁA O ZATWIERDZENIU SPRAWOZDANIA FINANSOWEGO - - - Część II II.1 SKONSOLIDOWANE ROCZNE SPRAWOZDANIE - - - - - II.2 SPRAWOZDANIE Z BADANIA - - - Załącznik nr 18 WZÓR RFR-ZN 2/2 II.3 UCHWAŁA O ZATWIERDZENIU SKONSOLIDOWANEGO ROCZNEGO SPRAWOZDANIA - - - Część III PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK Załącznik nr 19 WZÓR RFR-ZR Załącznik do wniosku o zmianę danych w rejestrze fundacji rodzinnej Rejestr Fundacji Rodzinnych LIKWIDATOR, ZARZĄDCA, SYNDYK, OSOBA POWOŁANA W TOKU POSTĘPOWANIA UPADŁOŚCIOWEGO DO REPREZENTOWANIA UPADŁEGO DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 OKREŚLENIE OSOBY, KTÓREJ DOTYCZY WPIS
-
-1. Zgłoszenie dotyczy:
-1. LIKWIDATORA 2. ZARZĄDCA 3.
-SYNDYK / OSOBA POWOŁANA W TOKU POSTĘPOWANIA UPADŁOŚCIOWEGO DO REPREZENTOWANIA UPADŁEGO I.2 OKREŚLENIE RODZAJU WPISU
-2. Wpis dotyczy:
-1.
-Zmiany informacji o osobie likwidatora, zarządcy, syndyka, osobie powołanej w toku postępowania upadłościowego do reprezentowania upadłego
-2.
-Wykreślenia wszystkich likwidatorów, zarządców, syndyka, osób powołanych w toku postępowania upadłościowego do reprezentowania upadłego Część II II.1 DANE LIKWIDATORA, ZARZĄDCY, SYNDYKA, OSOBY POWOŁANEJ W TOKU POSTĘPOWANIA UPADŁOŚCIOWEGO DO REPREZENTOWANIA UPADŁEGO
+RFR-ZL 2/2 Załącznik nr 18 Załącznik nr 18 WZÓR WZÓR RFR-ZN Załącznik do wniosku o zmianę danych w rejestrze fundacji rodzinnych Rejestr Fundacji SPRAWOZDANIA FINANSOWE I INNE DOKUMENTY Rodzinnych DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 ROCZNE SPRAWOZDANIE FINANSOWE - - - - - I.2 SPRAWOZDANIE Z BADANIA - - - I.3 UCHWAŁA O ZATWIERDZENIU SPRAWOZDANIA FINANSOWEGO - - - Część II II.1 SKONSOLIDOWANE ROCZNE SPRAWOZDANIE - - - - - II.2 SPRAWOZDANIE Z BADANIA - - - RFR-ZN 1/2 II.3 UCHWAŁA O ZATWIERDZENIU SKONSOLIDOWANEGO ROCZNEGO SPRAWOZDANIA - - - Część III PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK RFR-ZN 2/2 Załącznik nr 19 Załącznik nr 19 WZÓR WZÓR Załącznik do wniosku RFR-ZR o zmianę danych w rejestrze fundacji rodzinnej LIKWIDATOR, ZARZĄDCA, SYNDYK, Rejestr Fundacji OSOBA POWOŁANA W TOKU POSTĘPOWANIA Rodzinnych UPADŁOŚCIOWEGO DO REPREZENTOWANIA UPADŁEGO DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 OKREŚLENIE OSOBY, KTÓREJ DOTYCZY WPIS
+1. Zgłoszenie dotyczy: SYNDYK / OSOBA POWOŁANA W TOKU POSTĘPOWANIA
+1. LIKWIDATORA 2. ZARZĄDCA 3. UPADŁOŚCIOWEGO DO REPREZENTOWANIA UPADŁEGO I.2 OKREŚLENIE RODZAJU WPISU
+2. Wpis dotyczy: Zmiany informacji o osobie likwidatora, zarządcy, Wykreślenia wszystkich likwidatorów, zarządców, syndyka, osobie powołanej w toku postępowania syndyka, osób powołanych w toku postępowania
+1. 2. upadłościowego do reprezentowania upadłego upadłościowego do reprezentowania upadłego Część II II.1 DANE LIKWIDATORA, ZARZĄDCY, SYNDYKA, OSOBY POWOŁANEJ W TOKU POSTĘPOWANIA UPADŁOŚCIOWEGO DO REPREZENTOWANIA UPADŁEGO
 3. Wpis dotyczy: Wykreślenia jednej osoby i wpisania nowej
 1. osoby 3. Wykreślenia osoby
 2. Zmiany danych osoby 4. Wpisania nowej osoby Dane osoby, której dotyczy zmiana lub wykreślenie
-4. Czy osoba, której dotyczy wpis jest osobą fizyczną? TAK NIE Załącznik nr 19 WZÓR RFR-ZR 2/2
+4. Czy osoba, której dotyczy wpis jest osobą fizyczną? TAK NIE RFR-ZR 1/2
 5. Nazwisko, nazwa lub firma 6. Imiona
-7. Numer PESEL / Data urodzenia / Numer REGON* └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
-9. Funkcja
+7. Numer PESEL / Data urodzenia / Numer REGON* └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
+9. Funkcja └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
 8. Numer KRS Dane nowej osoby lub nowe dane osoby, której dotyczy zmiana
 10. Czy osoba, której dotyczy wpis jest osobą fizyczną? TAK NIE
 11. Nazwisko, nazwa lub firma 12. Imiona
-13. Numer PESEL / Data urodzenia / Numer REGON* └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
-14. Numer KRS
-15. Funkcja Część III III.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK * Niepotrzebne skreślić RFR-ZM 1/2 Załącznik nr 20 WZÓR RFR-ZM Załącznik do wniosku o zmianę danych w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych ZMIANA PRZEDMIOT WYKONYWANEJ DZIAŁALNOŚCI GOSPODARCZEJ PRZEZ FUNDACJĘ RODZINNĄ DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa fundacji rodzinnej Część I I.1 OKREŚLENIE SPOSOBU ZMIANY INFORMACJI O PRZEDMIOCIE DZIAŁALNOŚCI GOSPDARCZEJ I.2 OPIS PRZEDMIOTU DZIAŁALNOŚCI GOSPODARCZEJ WG POLSKIEJ KLASYFIKACJI DZIAŁALNOŚCI (PKD) └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ Załącznik nr 20 WZÓR RFR-ZM 2/2 └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ Część II PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK Załącznik nr 21 WZÓR RFR-ZY Załącznik do wniosku o zmianę danych w rejestrze fundacji rodzinnych Rejestr Fundacji Rodzinnych NUMER IDENTYFIKACYJNY REGON, NUMER IDENTYFIKACJI PODATKOWEJ NIP DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 WPISANIE LUB ZMIANA NUMERU IDENTYFIKACYJNEGO REGON (W przypadku zmiany należy podać nowy numer.)
+13. Numer PESEL / Data urodzenia / Numer REGON* └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
+15. Funkcja └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
+14. Numer KRS Część III III.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK * Niepotrzebne skreślić RFR-ZR 2/2 Załącznik nr 20 Załącznik nr 20 WZÓR WZÓR Załącznik do wniosku RFR-ZM o zmianę danych w rejestrze fundacji rodzinnych Rejestr ZMIANA – PRZEDMIOT WYKONYWANEJ DZIAŁALNOŚCI Fundacji GOSPODARCZEJ PRZEZ FUNDACJĘ RODZINNĄ Rodzinnych DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa fundacji rodzinnej Część I I.1 OKREŚLENIE SPOSOBU ZMIANY INFORMACJI O PRZEDMIOCIE DZIAŁALNOŚCI GOSPDARCZEJ I.2 OPIS PRZEDMIOTU DZIAŁALNOŚCI GOSPODARCZEJ WG POLSKIEJ KLASYFIKACJI DZIAŁALNOŚCI (PKD) └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ RFR-ZM 1/2 └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ Część II PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK RFR-ZM 2/2 Załącznik nr 21 Załącznik nr 21 WZÓR WZÓR Załącznik do wniosku RFR-ZY o zmianę danych w rejestrze fundacji rodzinnych Rejestr NUMER IDENTYFIKACYJNY REGON, Fundacji NUMER IDENTYFIKACJI PODATKOWEJ NIP Rodzinnych DANE FUNDACJI RODZINNEJ (zgodne z podanymi we wniosku) Nazwa Część I I.1 WPISANIE LUB ZMIANA NUMERU IDENTYFIKACYJNEGO REGON (W przypadku zmiany należy podać nowy numer.)
 1. Numer identyfikacyjny REGON └─┴─┴─┴─┴─┴─┴─┴─┴─┘ I.2 WPISANIE LUB ZMIANA NUMERU IDENTYFIKACJI PODATKOWEJ NIP (W przypadku zmiany należy podać nowy numer.)
-2. Numer identyfikacji podatkowej NIP └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK Załącznik nr 21 WZÓR
+2. Numer identyfikacji podatkowej NIP └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ Część II II.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK RFR-ZY 1/1
+
+## Część I I.1 OKREŚLENIE ORGANU FUNDACJI RODZINNEJ
+
+## Część II II.1 DANE ORGANU FUNDACJI RODZINNEJ
 

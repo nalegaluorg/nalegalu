@@ -8,10 +8,10 @@ pos: 2215
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Rozporządzenie Ministra Sprawiedliwościz dnia 17 grudnia 2015 r. w sprawie określenia wzoru karty do głosowania w postępowaniu o zatwierdzenie układu
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2215 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 17 grudnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-07-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2215/text.pdf) |
 
-Treść rozporządzenia
-Załącznik – Karta do głosowania w postępowaniu o zatwierdzenie układu (wzór)
-Treść rozporządzenia
-Na podstawie art. 213 ust. 4 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, z późn. zm.) zarządza się, co następuje:
-§ 1.
-Wzór karty do głosowania w postępowaniu o zatwierdzenie układu jest określony w załączniku do rozporządzenia.
-§ 2.
-Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
-Załącznik – Karta do głosowania w postępowaniu o zatwierdzenie układu (wzór)
-patrz oryginał
+w sprawie określenia wzoru karty do głosowania w postępowaniu o zatwierdzenie układu Na podstawie art. 213 ust. 4 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, z późn. zm. ) zarządza się, co następuje:
+§ 1. Wzór karty do głosowania w postępowaniu o zatwierdzenie układu jest określony w załączniku do rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+Minister Sprawiedliwości: Z. Ziobro Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1259, 1513, 1830 i 1844.
+Załącznik do rozporządzenia Ministra Sprawiedliwości z dnia 17 grudnia 2015 r. (poz. ……………….) Załącznik do rozporządzenia Ministra WZÓR Sprawiedliwości z dnia 17 grudnia 2015 r. (poz. strona ……………….) 1 WZÓR WZÓR strona 1 KARTA DO GŁOSOWANIA W POSTĘPOWANIU O ZATWIERDZENIE UKŁADU A. DŁUŻNIK A.1. Imię i nazwisko, KARTA numer DO PESEL GŁOSOWANIA albo rodzaj i numer W POSTĘPOWANIU dokumentu potwierdzającego O ZATWIERDZENIE tożsamość dłużnika UKŁADU nieposiadającego numeru PESEL/nazwa ze wskazaniem numeru w Krajowym A. Rejestrze DŁUŻNIK Sądowym albo numeru w rejestrze zagranicznym; w przypadku A.1. Imię braku i nazwisko, wskazanych numer danych PESEL należy albo rodzaj podać i inne numer dane dokumentu umożliwiające potwierdzającego jednoznaczną tożsamość identyfikację dłużnika dłużnika nieposiadającego numeru PESEL/nazwa ze wskazaniem numeru w Krajowym Rejestrze Sądowym albo numeru w rejestrze zagranicznym; w przypadku braku wskazanych danych należy podać inne dane umożliwiające jednoznaczną identyfikację dłużnika A.2. Miejsce zamieszkania albo siedziba A.3. A.2. Adres Miejsce (nazwa zamieszkania ulicy, nr domu, albo siedziba numer lokalu, kod pocztowy, poczta) A.3. Adres (nazwa ulicy, nr domu, A.4. numer W przypadku, lokalu, kod gdy pocztowy, dłużnikiem poczta) jest osoba prawna, spółka osobowa albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną - imiona i nazwiska reprezentantów, w tym likwidatorów, A.4. W przypadku, jeżeli są gdy ustanowieni dłużnikiem jest osoba prawna, spółka osobowa albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną - imiona i nazwiska reprezentantów, w tym likwidatorów, Imię jeżeli i nazwisko są ustanowieni Funkcja Sposób reprezentacji Imię i nazwisko Funkcja Sposób reprezentacji A.5. W przypadku spółki osobowej – imiona i nazwiska oraz miejsce zamieszkania wspólników odpowiadających za zobowiązanie spółki bez ograniczenia całym swoim majątkiem A.5. W przypadku spółki osobowej – imiona i nazwiska oraz miejsce zamieszkania wspólników odpowiadających za zobowiązanie spółki bez ograniczenia całym swoim majątkiem B. WIERZYCIEL B.1. Imię i nazwisko głosującego wierzyciela, numer PESEL, a w przypadku jego braku – inne dane umożliwiające jego jednoznaczną identyfikację albo nazwa głosującego wierzyciela, B. WIERZYCIEL numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku B.1. – Imię inne i dane nazwisko umożliwiające głosującego jego wierzyciela, identyfikację numer PESEL, a w przypadku jego braku – inne dane umożliwiające jego jednoznaczną identyfikację albo nazwa głosującego wierzyciela, numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku – inne dane umożliwiające jego identyfikację B. 2. Treść głosu (zakreślić właściwy kwadrat)  ZA UKŁADEM B. 2. Treść głosu (zakreślić właściwy  kwadrat) PRZECIW UKŁADOWI  ZA UKŁADEM B.3. Kwota wierzytelności głosującego  wierzyciela PRZECIW UKŁADOWI B.3. Kwota wierzytelności głosującego wierzyciela B.4. Miejsce zamieszkania albo siedziba B.5. B.4. Adres Miejsce wierzyciela zamieszkania (nazwa albo ulicy, siedziba nr domu, numer lokalu, kod pocztowy, poczta) B.6. B.5. W Adres przypadku, wierzyciela gdy (nazwa wierzyciel ulicy, jest nr domu, spółką osobową albo inną jednostką organizacyjną nieposiadającą osobowości prawnej, numer której lokalu, odrębna kod pocztowy, ustawa poczta) przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są B.6. ustanowieni W przypadku, gdy wierzyciel jest spółką osobową albo inną jednostką organizacyjną nieposiadającą osobowości prawnej, której Imię odrębna i nazwisko ustawa przyznaje zdolność prawną Funkcja – imiona i nazwiska reprezentantów, Sposób w reprezentacji tym likwidatorów, jeżeli są ustanowieni Imię i nazwisko Funkcja Sposób reprezentacji strona 2 B.7. Grupa obejmująca kategorię interesu, jeżeli zostały przewidziane, do której został zaliczony głosujący wierzyciel B.7.1. Numer B.7.2. Opis Grupy Grupy B.8. Kwota wierzytelności, co do której wymagana jest zgoda wierzyciela na objęcie układem na podstawie art. 151 ust. 2 i 3 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. poz. 978, z późn. zm.) B.9. Czy wierzyciel wyraża zgodę na objęcie  TAK wierzytelności układem (zakreślić właściwy kwadrat)  NIE B.10. Suma wierzytelności objętych układem B.11. Dzień układowy C. Pełna treść propozycji układowych z jednoznacznym wskazaniem, które z propozycji dotyczą głosującego wierzyciela D. NADZORCA UKŁADU D.1. Imię i nazwisko/nazwa D.2. Numer licencji albo numer w Krajowym Rejestrze Sądowym spółki pełniącej funkcję nadzorcy układu D.3. Adres do korespondencji (nazwa ulicy, nr domu, numer lokalu, kod pocztowy, poczta) D.4. Numer telefonu D.5. Adres poczty elektronicznej E. Podpis wierzyciela/osób uprawnionych do jego reprezentowania/pełnomocnika F. Data oddania głosu POUCZENIA:
+1. W przypadku gdy informacje nie mieszczą się w odpowiednich rubrykach, należy je umieścić na kolejnych ponumerowanych kartach formatu A4 ze wskazaniem uzupełnianej rubryki, a jeżeli dokument wypełniany jest elektronicznie, należy dodać niezbędną liczbę wierszy w danej rubryce.
+2. Niewypełnione pola należy zakreślić.
+3. Kwoty wierzytelności w walucie obcej, na potrzeby postępowania restrukturyzacyjnego, podawane są w walucie polskiej po przeliczeniu według średniego kursu walut obcych w Narodowym Banku Polskim.
+4. W przypadku gdy kartę do głosowania podpisał pełnomocnik, do karty dołącza się pełnomocnictwo.
+Uprawnienie do podpisania karty do głosowania albo do udzielenia pełnomocnictwa wykazuje się odpisem lub wydrukiem z odpowiedniego rejestru. W przypadku gdy wierzyciel nie dołączył odpisu lub wydruku, dłużnik może pozyskać odpis lub wydruk z odpowiedniego rejestru.
 

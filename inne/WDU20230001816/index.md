@@ -8,10 +8,10 @@ pos: 1816
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1816 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001816) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1816/text.pdf) |
 
-Poz. 1816 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 sierpnia 2023 r.
-zmieniające rozporządzenie w sprawie sposobu i trybu współdziałania okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich z Policją Na podstawie art. 357 ust. 4 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700 oraz z 2023 r. poz. 289) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 9 listopada 2022 r. w sprawie sposobu i trybu współdziałania okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich z Policją (Dz. U. poz. 2376) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie sposobu i trybu współdziałania okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich z Policją Na podstawie art. 357 ust. 4 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700 oraz z 2023 r. poz. 289) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 9 listopada 2022 r. w sprawie sposobu i trybu współdziałania okręgowych ośrodków wychowawczych, zakładów poprawczych i schronisk dla nieletnich z Policją (Dz. U. poz. 2376) wprowadza się następujące zmiany:
 1) w § 8:
 a) ust. 3 otrzymuje brzmienie: „3. Po uzyskaniu opinii właściwego komendanta wojewódzkiego Policji dyrektor wraz z komendantem Policji wprowadzają, w razie potrzeby, zmiany do projektu planu zabezpieczenia.”,
 b) uchyla się ust. 4–6;

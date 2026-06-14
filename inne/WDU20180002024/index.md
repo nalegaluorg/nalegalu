@@ -8,7 +8,7 @@ pos: 2024
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Centrum Medycznego Kształcenia Podyplomowego
@@ -66,6 +66,9 @@ source: "isap-pdf"
 #### Rozdział 2 Organy CMKP
 
 **Art. 6.** Organami CMKP są:
+
+- **1)** dyrektor;
+- **2)** Rada Naukowa.
 
 **Art. 6a.**
 

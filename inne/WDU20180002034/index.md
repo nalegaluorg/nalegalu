@@ -8,10 +8,10 @@ pos: 2034
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 października 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2034 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 17 października 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2034/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 17 października 2018 r.
-w sprawie odznak „Dawca Przeszczepu” i „Zasłużony Dawca Przeszczepu” Na podstawie art. 22 ust. 6 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2017 r. poz. 1000 oraz z 2018 r. poz. 1669) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie odznak „Dawca Przeszczepu” i „Zasłużony Dawca Przeszczepu” Na podstawie art. 22 ust. 6 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2017 r. poz. 1000 oraz z 2018 r. poz. 1669) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzory legitymacji i odznak „Dawca Przeszczepu” i „Zasłużony Dawca Przeszczepu”;
 2) sposób i tryb nadawania odznak, o których mowa w pkt 1;
 3) sposób dokumentowania ilości pobrań dla celów nadania odznaki „Zasłużony Dawca Przeszczepu”.
@@ -55,9 +55,15 @@ w sprawie odznak „Dawca Przeszczepu” i „Zasłużony Dawca Przeszczepu” N
 2. Przepis ust. 1 stosuje się odpowiednio w przypadku zgubienia lub zniszczenia legitymacji stwierdzającej nadanie odznaki, z tym że wydanie wtórnego egzemplarza legitymacji następuje nieodpłatnie.
 § 8. Do postępowań w sprawie nadania odznaki „Dawca Przeszczepu” wraz z legitymacją oraz odznaki „Zasłużony Dawca Przeszczepu” wraz z legitymacją wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 9. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko WZÓR ODZNAKI „DAWCA PRZESZCZEPU” Opis wyglądu odznaki: odznaka „Dawca Przeszczepu” ma kształt koła o średnicy 20 mm i jest wykonana z metalu, w kolorze srebrnym. Na awersie odznaki znajduje się symboliczny wizerunek serca otoczony kolistym napisem „Dawca Przeszczepu”. Symboliczny wizerunek serca jest wypukły Na rewersie odznaki jest umocowane zapięcie umożliwiające wpięcie do ubrania.
-. .) ODZNAKA „DAWCA PRZESZCZEP je y na l l b N uj ę b ic y w unek s rca otoczony ko s ym napis m Dawc Przeszcz pu” Symboli zny wizerunek WZÓR ODZNAKI „ZASŁUŻONY DAWCA PRZESZCZEPU” Opis wyglądu odznaki: odznaka „Zasłużony Dawca Przeszczepu” ma kształt koła o średnicy 20 mm i jest wykonana z metalu, w kolorze złotym. Na awersie odznaki znajduje się symboliczny wizerunek serca otoczony kolistym napisem „Zasłużony Dawca Przeszczepu”. Symboliczny wizerunek serca jest wypukły. Na rewersie odznaki jest umocowane zapięcie umożliwiające wpięcie do ubrania.
-WZÓR LEGITYMACJI „ZASŁUŻONY DAWCA PRZESZCZEPU”
-1. Wkładka do legitymacji Zasł żony awca rz szcze ” . Wkła k do legi y
+Minister Zdrowia: wz. J. Szczurek-Żelazko Załączniki do rozporządzenia Ministra Zdrowia Dziennik Ustaw – 3 – z dnia 17 października 2018 Poz. r. 2034 (poz. .....) Załącznik nr 1 WZÓR WZÓR ODZNAKA ODZNAKI „DAWCA „DAWCA PRZESZCZEPU” PRZESZCZEPU” Opis wyglądu odznaki: Odznaka „Dawca Przeszczepu” ma kształt koła o średnicy 20 mm i Opis wyglądu jest wykonana odznaki: z odznaka metalu, „Dawca w kolorze Przeszczepu” srebrnym. ma kształt Na awersie koła o średnicy odznaki 20 znajduje mm i jest się wykonana symboliczny z metalu, w kolorze srebrnym. Na awersie odznaki znajduje się symboliczny wizerunek serca otoczony kolistym napisem „Dawca Przeszczepu”. wizerunek Symboliczny serca wizerunek otoczony serca kolistym jest wypukły. napisem Na „Dawca rewersie odznaki Przeszczepu”. jest umocowane Symboliczny zapięcie umożliwiające wizerunek wpięcie do ubrania.
+serca jest wypukły. Na rewersie odznaki jest umocowane zapięcie umożliwiające wpięcie do ubrania.
+WZÓR Legitymacja WZÓR „Dawca LEGITYMACJI Przeszczepu” „DAWCA PRZESZCZEPU”
+1. Wkładka do legitymacji
+1. Wkładka do legitymacji – 7 –
 2. Okładka legitymacji
+2. Okładka legitymacji Załącznik nr 2 Dziennik Ustaw – 5 WZÓR – Poz. 2034 ODZNAKA „ZASŁUŻONY DAWCA PRZESZCZEPU” WZÓR ODZNAKI „ZASŁUŻONY DAWCA PRZESZCZEPU” Opis wyglądu odznaki: Odznaka „Zasłużony Dawca Przeszczepu” ma kształt koła o średnicy Opis wyglądu odznaki: odznaka „Zasłużony Dawca Przeszczepu” ma kształt koła o średnicy 20 mm i jest wykonana z metalu, 20 w kolorze mm złotym. i jest Na wykonana awersie odznaki z metalu, znajduje w się kolorze symboliczny złotym. wizerunek Na serca awersie otoczony odznaki kolistym znajduje napisem „Za- się służony Dawca Przeszczepu”. Symboliczny wizerunek serca jest wypukły. Na rewersie odznaki jest umocowane zapięcie umożliwiające symboliczny wpięcie do wizerunek ubrania. serca otoczony kolistym napisem „Zasłużony Dawca Przeszczepu”.
+Symboliczny wizerunek serca jest wypukły. Na rewersie odznaki jest umocowane zapięcie umożliwiające wpięcie do ubrania.
+WZÓR Legitymacja WZÓR „Zasłużony LEGITYMACJI Dawca Przeszczepu” „ZASŁUŻONY DAWCA PRZESZCZEPU”
+1. 1. Wkładka Wkładka do legitymacji do legitymacji – 10 –
+2. 2. Okładka Okładka legitymacji legitymacji
 

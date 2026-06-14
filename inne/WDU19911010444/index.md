@@ -8,7 +8,7 @@ pos: 444
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o lasach
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1991-09-28 |
 | Data wydania | 1991-11-08 |
-| Ostatnia zmiana | 2026-03-31 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911010444) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/444/text.pdf) |
 
 Art. 67–73. (pominięte)
@@ -33,11 +33,26 @@ Art. 67–73. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady zachowania, ochrony i powiększania zasobów leśnych oraz zasady gospodarki leśnej w powiązaniu z innymi elementami środowiska i z gospodarką narodową;
+- **2)** zasady odpowiedzialności za naruszenie przepisów:
+    - **a)** rozporządzenia Rady (WE) nr 2173/2005 z dnia 20 grudnia 2005 r. w sprawie ustanowienia systemu zezwoleń na przywóz drewna do Wspólnoty Europejskiej FLEGT (Dz. Urz. UE L 347 z 30.12.2005, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 2173/2005”,
+    - **b)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 995/2010 z dnia 20 października 2010 r. ustanawiającego obowiązki podmiotów wprowadzających do obrotu drewno i produkty z drewna (Dz. Urz. UE L 295 z 12.11.2010, str. 23), zwanego dalej „rozporządzeniem nr 995/2010”.
+
 **Art. 1a.** Sprawy dotyczące:
+
+- **1)** przywozu drewna do Unii Europejskiej określają przepisy rozporządzenia nr 2173/2005;
+- **2)** wprowadzania do obrotu drewna i produktów z drewna oraz zbywania i nabywania drewna i produktów z drewna wprowadzonych do obrotu, w tym przez jednostki organizacyjne nieposiadające osobowości prawnej, określają przepisy rozporządzenia nr 995/2010.
 
 **Art. 2.** Przepisy ustawy stosuje się do lasów, bez względu na formę ich własności.
 
 **Art. 3.** Lasem w rozumieniu ustawy jest grunt:
+
+- **1)** o zwartej powierzchni co najmniej 0,10 ha, pokryty roślinnością leśną (uprawami leśnymi) – drzewami i krzewami oraz runem leśnym – lub przejściowo jej pozbawiony:
+    - **a)** przeznaczony do produkcji leśnej lub
+    - **b)** stanowiący rezerwat przyrody lub wchodzący w skład parku narodowego albo
+    - **c)** wpisany do rejestru zabytków;
+
+- **2)** związany z gospodarką leśną, zajęty pod wykorzystywane dla potrzeb gospodarki leśnej: budynki i budowle, urządzenia melioracji wodnych, linie podziału przestrzennego lasu, drogi leśne, tereny pod liniami energetycznymi, szkółki leśne, miejsca składowania drewna, a także wykorzystywany na parkingi leśne i urządzenia turystyczne.
 
 **Art. 4.**
 
@@ -118,13 +133,18 @@ Art. 67–73. (pominięte)
 
 3. Gospodarka leśna w lasach wpisanych do rejestru zabytków i w lasach, na terenie których znajdują się zabytki archeologiczne wpisane do rejestru zabytków, prowadzona jest w uzgodnieniu z wojewódzkim konserwatorem zabytków, z uwzględnieniem przepisów o ochronie zabytków i opiece nad zabytkami.
 
-4. Udzielanie zamówień publicznych na usługi z zakresu leśnictwa, o których mowa w art. 11 ust. 5 pkt 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320) odbywa się w sposób gwarantujący zachowanie uczciwej konkurencji oraz przestrzeganie zasad przejrzystości i równego traktowania.
+4. Udzielanie zamówień publicznych na usługi z zakresu leśnictwa, o których mowa w art. 11 ust. 5 pkt 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ) odbywa się w sposób gwarantujący zachowanie uczciwej konkurencji oraz przestrzeganie zasad przejrzystości i równego traktowania.
 
 5. Podmiot prowadzący gospodarkę leśną, udzielając zamówienia, o którym mowa w ust. 4, zamieszcza informację o udzielanym zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej.
 
 6. Podmiot prowadzący gospodarkę leśną zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informację o udzieleniu zamówienia, o którym mowa w ust. 4, podając nazwę albo imię i nazwisko wykonawcy, z którym zawarł umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia.
 
 **Art. 8.** Gospodarkę leśną prowadzi się według następujących zasad:
+
+- **1)** powszechnej ochrony lasów;
+- **2)** trwałości utrzymania lasów;
+- **3)** ciągłości i zrównoważonego wykorzystania wszystkich funkcji lasów;
+- **4)** powiększania zasobów leśnych.
 
 **Art. 9.**
 
@@ -179,7 +199,7 @@ Art. 67–73. (pominięte)
 - **1)** w stosunku do lasów stanowiących własność Skarbu Państwa decyzję wydaje dyrektor regionalnej dyrekcji Lasów Państwowych, na wniosek nadleśniczego;
 - **2)** w stosunku do lasów niestanowiących własności Skarbu Państwa decyzję wydaje starosta na wniosek właściciela lasu.
 
-4. Do wniosku o wydanie decyzji w sprawach, o których mowa w ust. 2, poprzedzonych decyzją o środowiskowych uwarunkowaniach wydaną w postępowaniu wymagającym udziału społeczeństwa, dołącza się załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940).
+4. Do wniosku o wydanie decyzji w sprawach, o których mowa w ust. 2, poprzedzonych decyzją o środowiskowych uwarunkowaniach wydaną w postępowaniu wymagającym udziału społeczeństwa, dołącza się załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940 oraz z 2025 r. poz. 1535).
 
 5. Do decyzji w sprawach, o których mowa w ust. 2, poprzedzonych decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
@@ -246,6 +266,17 @@ Art. 67–73. (pominięte)
 
 **Art. 15.** Za lasy szczególnie chronione, zwane dalej „lasami ochronnymi”, mogą być uznane lasy, które:
 
+- **1)** chronią glebę przed zmywaniem lub wyjałowieniem, powstrzymują usuwanie się ziemi, obrywanie się skał lub lawin;
+- **2)** chronią zasoby wód powierzchniowych i podziemnych, regulują stosunki hydrologiczne w zlewni oraz na obszarach wododziałów;
+- **3)** ograniczają powstawanie lub rozprzestrzenianie się lotnych piasków;
+- **4)** są trwale uszkodzone na skutek działalności przemysłu;
+- **5)** stanowią drzewostany nasienne lub ostoje zwierząt i stanowiska roślin podlegających ochronie gatunkowej;
+- **6)** mają szczególne znaczenie przyrodniczo-naukowe lub dla obronności i bezpieczeństwa Państwa;
+- **7)** są położone:
+    - **a)** w granicach administracyjnych miast i w odległości do 10 km od granic administracyjnych miast liczących ponad 50 tys. mieszkańców,
+    - **b)** w strefach ochronnych uzdrowisk i obszarów ochrony uzdrowiskowej w rozumieniu ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz. 1135),
+    - **c)** w strefie górnej granicy lasów.
+
 **Art. 16.**
 
 1. Minister właściwy do spraw środowiska, w drodze decyzji, uznaje las za ochronny lub pozbawia go tego charakteru, na wniosek Dyrektora Generalnego, zaopiniowany przez radę gminy – w odniesieniu do lasów stanowiących własność Skarbu Państwa.
@@ -300,7 +331,7 @@ Art. 67–73. (pominięte)
 
 **Art. 19b.** (uchylony)
 
-**Art. 19c.** Wykonywanie planów urządzenia lasu może być prowadzone przez przedsiębiorcę, w tym usługodawcę z państwa członkowskiego w rozumieniu art. 3 pkt 10 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89), który dysponuje wyposażeniem technicznym oraz zatrudnia osoby posiadające odpowiednie kwalifikacje niezbędne do terminowego i prawidłowego sporządzania planów urządzenia lasu.
+**Art. 19c.** Wykonywanie planów urządzenia lasu może być prowadzone przez przedsiębiorcę, w tym usługodawcę z państwa członkowskiego w rozumieniu art. 3 pkt 10 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794 oraz z 2026 r. poz. 507), który dysponuje wyposażeniem technicznym oraz zatrudnia osoby posiadające odpowiednie kwalifikacje niezbędne do terminowego i prawidłowego sporządzania planów urządzenia lasu.
 
 **Art. 20.**
 
@@ -333,7 +364,7 @@ Art. 67–73. (pominięte)
 - **3)** prowadzenia banku danych o zasobach leśnych i stanie lasów
 - **4)** (utracił moc) – powierza się przedsiębiorstwu państwowemu pod nazwą Biuro Urządzania Lasu i Geodezji Leśnej.
 
-2. Do przedsiębiorstwa państwowego pod nazwą Biuro Urządzania Lasu i Geodezji Leśnej z siedzibą w Warszawie nie stosuje się przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2024 r. poz. 1198 i 1925).
+2. Do przedsiębiorstwa państwowego pod nazwą Biuro Urządzania Lasu i Geodezji Leśnej z siedzibą w Warszawie nie stosuje się przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2025 r. poz. 1478 i 1840).
 
 **Art. 22.**
 
@@ -359,7 +390,17 @@ Art. 67–73. (pominięte)
 
 **Art. 24.** Jeżeli właściciel lasu niestanowiącego własności Skarbu Państwa nie wykonuje obowiązków określonych w art. 13 albo nie wykonuje zadań zawartych w uproszczonym planie urządzenia lasu lub decyzji, o której mowa w art. 19 ust. 3, w szczególności w zakresie:
 
+- **1)** ponownego wprowadzenia roślinności leśnej (upraw leśnych),
+- **2)** przebudowy drzewostanu,
+- **3)** pielęgnowania i ochrony lasu, w tym:
+    - **a)** usuwania drzew opanowanych przez organizmy szkodliwe, a także złomów i wywrotów,
+    - **b)** zabiegów pielęgnacyjnych roślinności leśnej (upraw leśnych) w wieku do 10 lat,
+    - **c)** zabiegów w zakresie ochrony przeciwpożarowej – starosta nakazuje wykonanie tych obowiązków i zadań w drodze decyzji.
+
 **Art. 25.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki i tryb sporządzania planu urządzenia lasu, uproszczonego planu urządzenia lasu oraz inwentaryzacji stanu lasu, o której mowa w art. 19 ust. 3,
+- **2)** szczegółowe wymagania w zakresie wyposażenia technicznego i wielkości potencjału kadrowego niezbędnego do należytego i terminowego wykonywania prac urządzeniowych, z uwzględnieniem wykształcenia, stażu pracy i wykonywanych czynności – mając na uwadze zapewnienie terminowego i prawidłowego sporządzania planów urządzenia lasu.
 
 #### Rozdział 5 Zasady udostępniania lasów
 
@@ -421,7 +462,7 @@ Art. 67–73. (pominięte)
 - **5)** osób wykonujących czynności z zakresu gospodarki łowieckiej oraz właścicieli pasiek zlokalizowanych na obszarach leśnych;
 - **6)** właścicieli lasów we własnych lasach;
 - **7)** osób użytkujących grunty rolne położone wśród lasów;
-- **8)** pracowników podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897), w związku z wykonywaniem badań naukowych i doświadczeń z zakresu leśnictwa i ochrony przyrody;
+- **8)** pracowników podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), w związku z wykonywaniem badań naukowych i doświadczeń z zakresu leśnictwa i ochrony przyrody;
 - **8a)** osób biorących udział w kształceniu kadr dla leśnictwa, w związku z prowadzeniem zajęć szkoleniowych;
 - **9)** wojewódzkich konserwatorów przyrody oraz pracowników Służb Parków Krajobrazowych;
 - **10)** osób sporządzających plany urządzenia lasu, uproszczone plany urządzenia lasu lub inwentaryzację stanu lasu, o której mowa w art. 19 ust. 3.
@@ -451,12 +492,13 @@ Art. 67–73. (pominięte)
 
 - **1)** pkt 3 i 5 – nie dotyczą czynności związanych z gospodarką leśną;
 - **2)** pkt 12–14 – nie dotyczą polowań;
-- **3)** pkt 13 – nie dotyczy: o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580) ani ich udziału w akcji ratowniczej, w działaniach poszukiwawczych lub w działaniach związanych z ochroną granicy państwowej lub zapewnieniem bezpieczeństwa i porządku publicznego,
+- **3)** pkt 13 – nie dotyczy: o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i
     - **a)** szkolenia psów będących zwierzętami wykorzystywanymi do celów specjalnych w rozumieniu art. 4 pkt 20 ustawy z dnia 21 sierpnia 1997 r.
+
+- **1795)** ani ich udziału w akcji ratowniczej, w działaniach poszukiwawczych lub w działaniach związanych z ochroną granicy państwowej lub zapewnieniem bezpieczeństwa i porządku publicznego,
     - **b)** szkolenia psów ratowniczych ani ich udziału w akcji ratowniczej prowadzonej przez podmioty uprawnione do wykonywania ratownictwa na podstawie przepisów odrębnych;
 
-- **4)** pkt 3–5, 8, 10, 13 i 14 – nie dotyczą zadań realizowanych na podstawie ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz.
-- **1907)** .
+- **4)** pkt 3–5, 8, 10, 13 i 14 – nie dotyczą zadań realizowanych na podstawie ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907, z 2025 r. poz. 1705 oraz z 2026 r. poz. 646).
 
 2a. Organizowanie i prowadzenie szkolenia psów, o których mowa w ust. 2 pkt 3, na obszarze lasu poza terenami, na których obowiązuje zakaz wstępu na podstawie art. 26 ust. 2 i 3 oraz art. 28, wymaga uzgodnienia z właścicielem lasu lub nadleśniczym terminu i miejsca tego szkolenia.
 
@@ -469,6 +511,9 @@ Art. 67–73. (pominięte)
 4. Przepisy ust. 3 nie dotyczą działań i czynności związanych z gospodarką leśną pod warunkiem, że czynności te nie stanowią zagrożenia pożarowego.
 
 **Art. 31.** W przypadku lasu będącego w użytkowaniu wieczystym na podstawie odrębnych przepisów lub wchodzącego w skład Zasobu Własności Rolnej Skarbu Państwa zadania i kompetencje określone w art. 10 ust. 1 pkt 1, art. 13 ust. 3 pkt 1, art. 26 ust. 3 i 4 oraz art. 30 ust. 1 pkt 10 i ust. 3 pkt 1 wykonują odpowiednio użytkownik wieczysty albo Krajowy Ośrodek Wsparcia Rolnictwa. Ilekroć w tych przepisach jest mowa o:
+
+- **1)** nadleśnictwie – należy przez to rozumieć jednostkę organizacyjną użytkownika wieczystego albo Krajowego Ośrodka Wsparcia Rolnictwa powołaną do prowadzenia gospodarki leśnej;
+- **2)** nadleśniczym – należy przez to rozumieć kierownika jednostki organizacyjnej, o której mowa w pkt 1.
 
 #### Rozdział 6 Państwowe Gospodarstwo Leśne Lasy Państwowe
 
@@ -515,6 +560,23 @@ Art. 67–73. (pominięte)
     - **d)** kierowników jednostek organizacyjnych, o których mowa w pkt 2.
 
 **Art. 34.** Dyrektor regionalnej dyrekcji Lasów Państwowych w szczególności:
+
+- **1)** reprezentuje Skarb Państwa w stosunkach cywilnoprawnych, w zakresie swojego działania;
+- **2)** tworzy, za zgodą Dyrektora Generalnego, a także łączy, dzieli i likwiduje jednostki organizacyjne o zasięgu regionalnym, o których mowa w art. 32 ust. 2 pkt 4;
+- **2a)** zarządza gruntami i innymi nieruchomościami nabytymi lub wydzielonymi z bezpośredniego zarządu nadleśnictwa, na potrzeby regionalnej dyrekcji Lasów Państwowych;
+- **2b)** powołuje i odwołuje:
+    - **a)** zastępców dyrektora regionalnej dyrekcji Lasów Państwowych, w uzgodnieniu z Dyrektorem Generalnym,
+    - **b)** nadleśniczych,
+    - **c)** kierowników jednostek organizacyjnych, o których mowa w pkt 2;
+
+- **2c)** inicjuje, koordynuje oraz nadzoruje działalność nadleśniczych i kierowników jednostek organizacyjnych o zasięgu regionalnym;
+- **3)** organizuje wspólne przedsięwzięcia nadzorowanych jednostek organizacyjnych w zakresie ochrony lasu i racjonalnej gospodarki leśnej;
+- **4)** dysponuje środkami finansowymi, wydzielonymi na wyrównywanie niedoborów środków w poszczególnych nadleśnictwach, wynikających ze zróżnicowanych warunków gospodarki leśnej;
+- **5)** prowadzi szkolenie i doradztwo zawodowe w zakresie leśnictwa;
+- **6)** (uchylony)
+- **7)** prowadzi działalność usługową w zakresie leśnictwa na rzecz nadzorowanych jednostek i innych przedsiębiorców;
+- **8)** reprezentuje Skarb Państwa w sprawach wynikających z postępowania regulacyjnego określonego w ustawach o stosunku Państwa do kościołów i innych związków wyznaniowych w Rzeczypospolitej Polskiej;
+- **9)** wykonuje zadania związane z zapobieganiem rozprzestrzenianiu się w środowisku inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii lub inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, lub inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii, w zakresie określonym w ustawie z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. z 2023 r. poz. 1589 oraz z 2025 r. poz. 1795).
 
 **Art. 35.**
 
@@ -587,7 +649,7 @@ Art. 67–73. (pominięte)
 - **5)** informację o częściach składowych oraz przynależnościach;
 - **6)** informację o przeznaczeniu gruntu lub nieruchomości w miejscowym planie zagospodarowania przestrzennego lub informację o braku takiego planu.
 
-5. Las, grunt przeznaczony do zalesienia lub inny grunt lub nieruchomość mogą być nabyte za cenę nie wyższą od wartości określonej przez rzeczoznawcę majątkowego.
+5. Las, grunt przeznaczony do zalesienia lub inny grunt lub nieruchomość mogą być nabyte za cenę niewyższą od wartości określonej przez rzeczoznawcę majątkowego.
 
 **Art. 37a.**
 
@@ -617,7 +679,7 @@ Art. 67–73. (pominięte)
 
 - **2)** w przypadku dziedziczenia;
 - **3)** (uchylony)
-- **4)** w przypadku zbycia gruntów objętych zalesieniem dokonywanym na podstawie przepisów o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej lub na podstawie przepisów o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, lub na podstawie przepisów o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, lub na podstawie przepisów o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, w czasie trwania zobowiązania beneficjenta wynikającego z wykonania zalesienia.
+- **4)** w przypadku zbycia gruntów objętych zalesieniem dokonywanym na podstawie przepisów o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej lub na podstawie przepisów o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007– 2013, lub na podstawie przepisów o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, lub na podstawie przepisów o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027, w czasie trwania zobowiązania beneficjenta wynikającego z wykonania zalesienia.
 
 5. W przypadku gdy prawo pierwokupu gruntu, o którym mowa w ust. 1, z mocy prawa przysługuje kilku podmiotom, pierwszeństwo w wykonaniu prawa pierwokupu przysługuje Lasom Państwowym.
 
@@ -708,8 +770,7 @@ Art. 67–73. (pominięte)
 4. Przepisy ust. 1–3 stosuje się odpowiednio do nieruchomości objętej decyzją o:
 
 - **1)** zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464) wydaną na rzecz podmiotu, o którym mowa w art. 28 ust. 1 tej ustawy z tym, że ustanowienie trwałego zarządu stwierdza wojewoda w drodze decyzji;
-- **2)** pozwoleniu na realizację inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz.
-- **274)** wydaną na rzecz podmiotu, o którym mowa w art. 2 pkt 2 tej ustawy z tym, że ustanowienie trwałego zarządu stwierdza wojewoda w drodze decyzji.
+- **2)** pozwoleniu na realizację inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2026 r. poz. 104 i 436) wydaną na rzecz podmiotu, o którym mowa w art. 2 pkt 2 tej ustawy z tym, że ustanowienie trwałego zarządu stwierdza wojewoda w drodze decyzji.
 
 **Art. 38b.** Lasy Państwowe mogą, w drodze umowy zawartej z Krajowym Ośrodkiem Wsparcia Rolnictwa, przekazywać nieodpłatnie Krajowemu Ośrodkowi Wsparcia Rolnictwa lasy i grunty, na których nie jest możliwe prowadzenie racjonalnej gospodarki, stanowiące w szczególności enklawy i półenklawy wśród gruntów wchodzących do Zasobu Własności Rolnej Skarbu Państwa.
 
@@ -749,7 +810,7 @@ Art. 67–73. (pominięte)
 
 **Art. 39b.**
 
-1. Nadleśniczy określa warunki zapewnienia dostępu, o którym mowa w art. 30 ust. 1 i 3 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311), oraz umieszczania na nieruchomości obiektów i urządzeń, o którym mowa w art. 33 ust. 1 tej ustawy, zwane dalej „warunkami dostępu”, z uwzględnieniem zasad gospodarki leśnej.
+1. Nadleśniczy określa warunki zapewnienia dostępu, o którym mowa w art. 30 ust. 1 i 3 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2026 r. poz. 562), oraz umieszczania na nieruchomości obiektów i urządzeń, o którym mowa w art. 33 ust. 1 tej ustawy, zwane dalej „warunkami dostępu”, z uwzględnieniem zasad gospodarki leśnej.
 
 2. W warunkach dostępu określa się co najmniej:
 
@@ -770,7 +831,7 @@ Art. 67–73. (pominięte)
 
 6. Nie pobiera się opłaty, o której mowa w ust. 4, w przypadku gdy strony postanowią na podstawie art. 33 ust. 2 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych o nieodpłatnym udostępnieniu nieruchomości, a także wtedy gdy przedsiębiorca telekomunikacyjny w związku z umieszczeniem na nieruchomości obiektów i urządzeń infrastruktury telekomunikacyjnej zapewnia dostęp do usług szerokopasmowego dostępu do Internetu o przepustowości co najmniej 30 Mb/s w budynkach lub obiektach pozostających w zarządzie Lasów Państwowych.
 
-7. Nadleśniczy jest obowiązany do zawierania umów o dostęp, o którym mowa w art. 30 ust. 1 i 3 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, oraz umów w sprawie umieszczenia na nieruchomości obiektów i urządzeń, o którym mowa w art. 33 ust. 1 tej ustawy, na warunkach nie gorszych niż określone w warunkach dostępu.
+7. Nadleśniczy jest obowiązany do zawierania umów o dostęp, o którym mowa w art. 30 ust. 1 i 3 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, oraz umów w sprawie umieszczenia na nieruchomości obiektów i urządzeń, o którym mowa w art. 33 ust. 1 tej ustawy, na warunkach niegorszych niż określone w warunkach dostępu.
 
 8. Nadleśniczy przekazuje warunki dostępu oraz projekty umów dyrektorowi regionalnej dyrekcji Lasów Państwowych.
 
@@ -778,7 +839,7 @@ Art. 67–73. (pominięte)
 
 10. Dyrektor regionalnej dyrekcji Lasów Państwowych przekazuje Prezesowi Urzędu Komunikacji Elektronicznej informację o adresie swojej strony internetowej w terminie 7 dni od dnia zamieszczenia na niej warunków dostępu. Informacja jest udostępniana przez punkt informacyjny, o którym mowa w art. 29a ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych.
 
-11. W przypadku gdy warunki dostępu zostały określone w decyzji, o której mowa w art. 35a ust. 3 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, nadleśniczy jest obowiązany do zawierania umów o dostęp, o którym mowa w art. 30 ust. 1 i 3 tej ustawy, oraz umów w sprawie umieszczenia na nieruchomości obiektów i urządzeń, o którym mowa w art. 33 ust. 1 tej ustawy, na warunkach nie gorszych niż określone w decyzji.
+11. W przypadku gdy warunki dostępu zostały określone w decyzji, o której mowa w art. 35a ust. 3 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, nadleśniczy jest obowiązany do zawierania umów o dostęp, o którym mowa w art. 30 ust. 1 i 3 tej ustawy, oraz umów w sprawie umieszczenia na nieruchomości obiektów i urządzeń, o którym mowa w art. 33 ust. 1 tej ustawy, na warunkach niegorszych niż określone w decyzji.
 
 **Art. 40.**
 
@@ -809,7 +870,7 @@ Art. 67–73. (pominięte)
 
 3. Łącznie z lokalami sprzedaje się grunty wraz z przynależnościami, niezbędne do korzystania z lokali. Grunty pod budynkami oraz grunty z budynkami związane, będące przedmiotem sprzedaży, uważa się za grunty wyłączone z produkcji rolnej i leśnej w rozumieniu przepisów o ochronie gruntów rolnych i leśnych. Grunty te podlegają z urzędu ujawnieniu w miejscowym planie zagospodarowania przestrzennego oraz ewidencji gruntów i budynków jako grunty zabudowane.
 
-4. Pracownicy i byli pracownicy Lasów Państwowych mający co najmniej trzyletni okres zatrudnienia w Lasach Państwowych, z wyjątkiem osób, z którymi stosunek pracy rozwiązany został bez wypowiedzenia z winy pracownika, posiadają pierwszeństwo nabycia lokali, których są najemcami i w których mieszkają. Cena sprzedaży lokalu podlega łącznemu obniżeniu o 6 % za każdy rok zatrudnienia w jednostkach organizacyjnych Lasów Państwowych i o 3 % za każdy rok najmu tego lokalu, nie więcej jednak niż o 95 %, a spłata należności może zostać rozłożona na 60 rat miesięcznych, przy czym oprocentowanie nie może przekraczać w stosunku rocznym stopy referencyjnej, określającej minimalne oprocentowanie podstawowych operacji otwartego rynku prowadzonych przez Narodowy Bank Polski, powiększonej o 2 punkty procentowe. Jeżeli osobą uprawnioną jest emeryt lub rencista, cena nabycia lokalu ustalona jest na 5 % jego wartości.
+4. Pracownicy i byli pracownicy Lasów Państwowych mający co najmniej trzyletni okres zatrudnienia w Lasach Państwowych, z wyjątkiem osób, z którymi stosunek pracy rozwiązany został bez wypowiedzenia z winy pracownika, posiadają pierwszeństwo nabycia lokali, których są najemcami i w których mieszkają. Cena sprzedaży lokalu podlega łącznemu obniżeniu o 6 % za każdy rok zatrudnienia w jednostkach organizacyjnych Lasów Państwowych i o 3 % za każdy rok najmu tego lokalu, niewięcej jednak niż o 95 %, a spłata należności może zostać rozłożona na 60 rat miesięcznych, przy czym oprocentowanie nie może przekraczać w stosunku rocznym stopy referencyjnej, określającej minimalne oprocentowanie podstawowych operacji otwartego rynku prowadzonych przez Narodowy Bank Polski, powiększonej o 2 punkty procentowe. Jeżeli osobą uprawnioną jest emeryt lub rencista, cena nabycia lokalu ustalona jest na 5 % jego wartości.
 
 5. Przepis ust. 4 stosuje się również do osób bliskich, pozostałych po pracownikach, które w dniu ich śmierci zamieszkiwały razem z nimi. Przez osoby bliskie rozumie się małżonków oraz wstępnych i zstępnych, a także osoby przysposobione. W razie zbiegu uprawnień do obniżenia należności osób prowadzących wspólne gospodarstwo domowe, okresy zatrudnienia tych osób mogą być sumowane, przy czym łączna obniżka nie może przekraczać 95 % ceny sprzedaży lokalu. Uprawnienie to przysługuje tylko przy nabyciu jednego lokalu.
 
@@ -821,7 +882,7 @@ Art. 67–73. (pominięte)
 
 6. Przepisy ust. 4–5b stosuje się odpowiednio do osób, które są lub były zatrudnione w szkołach leśnych, zakładowych przychodniach i poradniach lekarskich oraz innych jednostkach organizacyjnych leśnictwa.
 
-7. Najemcy nieposiadający uprawnień, o których mowa w ust. 4, 5 i 6, mogą nabywać przeznaczone do sprzedaży lokale, które zajmują co najmniej od trzech lat, na podstawie umowy najmu, zawartej na czas nieoznaczony, za cenę obniżoną za każdy rok najmu o 3 %, nie więcej jednak niż o 45 %. Wymogu zajmowania lokalu przez okres co najmniej trzech lat nie stosuje się do najemców będących organizacjami pozarządowymi, które uzyskały status organizacji pożytku publicznego i prowadzą działalność zgodnie z ustawą z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940).
+7. Najemcy nieposiadający uprawnień, o których mowa w ust. 4, 5 i 6, mogą nabywać przeznaczone do sprzedaży lokale, które zajmują co najmniej od trzech lat, na podstawie umowy najmu, zawartej na czas nieoznaczony, za cenę obniżoną za każdy rok najmu o 3 %, niewięcej jednak niż o 45 %. Wymogu zajmowania lokalu przez okres co najmniej trzech lat nie stosuje się do najemców będących organizacjami pozarządowymi, które uzyskały status organizacji pożytku publicznego i prowadzą działalność zgodnie z ustawą z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338).
 
 8. Wykazy lokali oraz gruntów z budynkami mieszkalnymi w budowie przeznaczonych do sprzedaży sporządzają dyrektorzy regionalnych dyrekcji Lasów Państwowych. Wykazy są przedmiotem opinii związków zawodowych. Sprzedaż może być dokonana po zatwierdzeniu wykazu przez Dyrektora Generalnego i ogłoszeniu wykazu w Biuletynie Informacyjnym Lasów Państwowych oraz w prasie. Ogłoszeniu w prasie nie podlega wykaz lokali zasiedlonych. O przeznaczeniu do sprzedaży lokali oraz o terminie do skorzystania z pierwszeństwa nabycia zawiadamia się najemców, o których mowa w ust. 4–5a, 6 i 7.
 
@@ -879,7 +940,7 @@ Art. 67–73. (pominięte)
 
 - **1)** otrzymywania bezpłatnego umundurowania i oznak służbowych, z obowiązkiem ich noszenia w czasie pełnienia obowiązków służbowych;
 - **2)** bezpłatnego mieszkania, jeżeli stanowisko oraz charakter pracy związane są z koniecznością zamieszkania w miejscu jej wykonywania;
-- **3)** płatnego urlopu dla poratowania zdrowia w wymiarze nieprzekraczającym jednorazowo sześciu miesięcy, jeżeli przepracowali w Lasach Państwowych w pełnym wymiarze czasu pracy przez okres nie krótszy niż trzy lata;
+- **3)** płatnego urlopu dla poratowania zdrowia w wymiarze nieprzekraczającym jednorazowo sześciu miesięcy, jeżeli przepracowali w Lasach Państwowych w pełnym wymiarze czasu pracy przez okres niekrótszy niż trzy lata;
 - **4)** (uchylony)
 - **5)** jednorazowej odprawy, przy przejściu na emeryturę lub rentę inwalidzką , w wysokości trzykrotnego, a powyżej 20 lat pracy w Lasach Państwowych – sześciokrotnego wynagrodzenia otrzymywanego za ostatni miesiąc zatrudnienia.
 
@@ -926,7 +987,7 @@ Art. 67–73. (pominięte)
 
 2c. Administratorem danych osobowych przetwarzanych w celu, o którym mowa w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206), jest minister właściwy do spraw środowiska lub Główny Inspektor Straży Leśnej.
 
-3. W przypadkach, o których mowa w art. 11 pkt 1–3, 8 i 10–15 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2024 r. poz. 383 i 1248 oraz z 2025 r. poz. 179), strażnik leśny może użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, pkt 2 lit. a, pkt 5, 7, 9, 11, pkt 12 lit. a, pkt 13 i 21 tej ustawy, lub wykorzystać te środki.
+3. W przypadkach, o których mowa w art. 11 pkt 1–3, 8 i 10–15 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2026 r. poz. 244), strażnik leśny może użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, pkt 2 lit. a, pkt 5, 7, 9, 11, pkt 12 lit. a, pkt 13 i 21 tej ustawy, lub wykorzystać te środki.
 
 3a. (uchylony) 3b. Na sposób przeprowadzenia czynności, o których mowa w ust. 3, przysługuje zażalenie do prokuratora.
 
@@ -956,6 +1017,12 @@ Art. 67–73. (pominięte)
 
 **Art. 48c.** Straż Leśna współpracuje z organami i podmiotami ochrony ludności i obrony cywilnej w zakresie podejmowania działań ochronnych i zabezpieczających w przypadku wystąpienia pożaru lasu, klęski żywiołowej lub innego miejscowego zagrożenia, w szczególności w zakresie:
 
+- **1)** wymiany informacji o zagrożeniach w zakresie bezpieczeństwa osób i mienia oraz zakłócania spokoju i porządku publicznego oraz o powstałych zagrożeniach;
+- **2)** kierowania na terenie lasu przejazdem jednostek ratowniczych;
+- **3)** współdziałania przy ewakuacji ludzi i mienia;
+- **4)** zabezpieczania miejsc po pożarze, klęsce żywiołowej lub innym miejscowym zagrożeniu;
+- **5)** wzajemnych konsultacji doskonalących metody współpracy.
+
 **Art. 49.**
 
 1. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
@@ -978,7 +1045,9 @@ Art. 67–73. (pominięte)
 
 2. Dyrektor Generalny Lasów Państwowych ustala dla wszystkich jednostek organizacyjnych Lasów Państwowych zasady (politykę) rachunkowości.
 
-3. Lasy Państwowe prowadzą rachunkowość według zasad określonych w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863).
+3. Lasy Państwowe prowadzą rachunkowość według zasad określonych w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2026 r. poz. 522 i
+
+- **640)** .
 
 **Art. 51.** Rokiem obrachunkowym w Lasach Państwowych jest rok kalendarzowy.
 
@@ -995,6 +1064,15 @@ Art. 67–73. (pominięte)
 2. Minister właściwy do spraw środowiska określa, w drodze decyzji, wysokość obciążeń, o których mowa w ust. 1.
 
 **Art. 54.** Lasy Państwowe otrzymują dotacje celowe z budżetu państwa na zadania zlecone przez administrację rządową, a w szczególności na:
+
+- **1)** wykup lasów i gruntów do zalesień oraz ich rekultywację, a także wykup innych gruntów w celu zachowania ich przyrodniczego charakteru;
+- **2)** wykonywanie krajowego programu zwiększania lesistości, o którym mowa w art. 14 ust. 2a, oraz pielęgnację i ochronę upraw i młodników powstałych w ramach realizacji tego programu;
+- **3)** zagospodarowanie i ochronę lasów w przypadku zagrożenia ich trwałości, o którym mowa w art. 12 ust. 1;
+- **4)** sporządzanie okresowych, wielkoobszarowych inwentaryzacji stanu lasów, aktualizacji stanu zasobów leśnych oraz prowadzenie banku danych o zasobach leśnych i stanie lasów, o których mowa w art. 13a ust. 1 pkt 2 i 3;
+- **5)** opracowanie planów ochrony dla rezerwatów przyrody znajdujących się w zarządzie Lasów Państwowych, ich realizację, ochronę gatunkową roślin i zwierząt oraz sprawowanie nadzoru nad obszarami wchodzącymi w skład sieci Natura 2000;
+- **6)** finansowanie edukacji leśnej społeczeństwa, w szczególności poprzez tworzenie i prowadzenie leśnych kompleksów promocyjnych, zakładanie ścieżek przyrodniczo-leśnych;
+- **7)** sporządzanie planów zalesienia lub inwestycji, o których mowa w art. 35 ust. 5;
+- **8)** pełnienie zadań związanych z realizacją programów współfinansowanych ze źródeł zagranicznych.
 
 **Art. 55.** Dyrektor Generalny, dyrektorzy regionalnych dyrekcji Lasów Państwowych i nadleśniczowie są dysponentami środków budżetowych w zakresie dotacji celowych na zadania zlecone, o których mowa w art. 54, zgodnie z przepisami o finansach publicznych.
 
@@ -1041,7 +1119,7 @@ Art. 67–73. (pominięte)
 - **5)** prace związane z oceną i prognozowaniem stanu lasów i zasobów leśnych;
 - **5a)** ochronę przyrody w lasach realizowaną metodami gospodarki leśnej;
 - **5b)** nabywanie przez Skarb Państwa gruntów, o których mowa w art. 37a, oraz lasów lub gruntów przeznaczonych do zalesiania, o których mowa w art. 37;
-- **5c)** organizację szkoleń w zakresie szacowania szkód łowieckich, o których mowa w art. 46g ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2023 r. poz. 1082 oraz z 2024 r. poz. 1907);
+- **5c)** organizację szkoleń w zakresie szacowania szkód łowieckich, o których mowa w art. 46g ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2025 r. poz. 539 i 1795);
 - **6)** inne zadania z zakresu gospodarki leśnej w lasach.
 
 3. Środki funduszu leśnego, o których mowa w art. 57 ust. 2, przeznacza się na:
@@ -1071,7 +1149,7 @@ Art. 67–73. (pominięte)
 
 **Art. 58a.** (uchylony)
 
-**Art. 58b.** Dyrekcja Generalna Lasów Państwowych dokonuje corocznie wpłat na rzecz Rządowego Funduszu Rozwoju Dróg z przychodów uzyskanych przez Lasy Państwowe ze sprzedaży drewna w wysokości i na zasadach określonych w przepisach ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2025 r. poz. 94).
+**Art. 58b.** Dyrekcja Generalna Lasów Państwowych dokonuje corocznie wpłat na rzecz Rządowego Funduszu Rozwoju Dróg z przychodów uzyskanych przez Lasy Państwowe ze sprzedaży drewna w wysokości i na zasadach określonych w przepisach ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2025 r. poz. 94 oraz z 2026 r. poz. 635).
 
 **Art. 59.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej w Lasach Państwowych.
 
@@ -1085,7 +1163,15 @@ Art. 67–73. (pominięte)
 
 **Art. 66c.** Kto, wbrew przepisowi art. 4 ust. 2 rozporządzenia nr 995/2010, wprowadzając do obrotu drewno lub produkty z drewna, nie stosuje:
 
+- **1)** środków i procedur zapewniających dostęp do informacji, o których mowa w art. 6 ust. 1 lit. a rozporządzenia nr 995/2010, lub
+- **2)** procedur oceny ryzyka, o których mowa w art. 6 ust. 1 lit. b rozporządzenia nr 995/2010, lub
+- **3)** procedur ograniczania ryzyka, o których mowa w art. 6 ust. 1 lit. c rozporządzenia nr 995/2010 – podlega administracyjnej karze pieniężnej w wysokości od 5000 zł do 500 000 zł.
+
 **Art. 66d.** Kto, wbrew przepisowi art. 4 ust. 3 rozporządzenia nr 995/2010, nie utrzymuje lub nie ocenia regularnie stosowanych przez siebie:
+
+- **1)** środków i procedur zapewniających dostęp do informacji, o których mowa w art. 6 ust. 1 lit. a rozporządzenia nr 995/2010, lub
+- **2)** procedur oceny ryzyka, o których mowa w art. 6 ust. 1 lit. b rozporządzenia nr 995/2010, lub
+- **3)** procedur ograniczania ryzyka, o których mowa w art. 6 ust. 1 lit. c rozporządzenia nr 995/2010 – podlega administracyjnej karze pieniężnej w wysokości od 5000 zł do 500 000 zł.
 
 **Art. 66e.**
 
@@ -1115,7 +1201,7 @@ Art. 67–73. (pominięte)
 
 2. Wpływy z tytułu administracyjnych kar pieniężnych stanowią dochód budżetu państwa.
 
-**Art. 66h.** W sprawach dotyczących administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111), z tym że uprawnienia organu podatkowego przysługują organom wymierzającym administracyjne kary pieniężne.
+**Art. 66h.** W sprawach dotyczących administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2026 r. poz. 622), z tym że uprawnienia organu podatkowego przysługują organom wymierzającym administracyjne kary pieniężne.
 
 **Art. 66i.**
 
@@ -1160,6 +1246,10 @@ Art. 67–73. (pominięte)
 **Art. 80.** (uchylony)
 
 **Art. 81.** Tracą moc:
+
+- **1)** dekret z dnia 5 lipca 1946 r. o Straży Leśnej (Dz. U. poz. 238 oraz z 1949 r. poz. 110);
+- **2)** ustawa z dnia 20 grudnia 1949 r. o państwowym gospodarstwie leśnym (Dz. U. poz. 494, z 1950 r. poz. 448, z 1971 r. poz. 249, z 1974 r. poz. 142, z 1982 r. poz. 54 oraz z 1989 r. poz. 192);
+- **3)** ustawa z dnia 22 listopada 1973 r. o zagospodarowaniu lasów niestanowiących własności Państwa (Dz. U. poz. 283, z 1982 r. poz. 79 oraz z 1990 r. poz. 198 i 321).
 
 **Art. 82.** Ustawa wchodzi w życie z dniem 1 stycznia 1992 r.
 

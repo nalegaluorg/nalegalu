@@ -8,7 +8,7 @@ pos: 814
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o systemie informacji oświatowej
@@ -205,23 +205,198 @@ source: "isap-pdf"
 
 **Art. 8.** W bazie danych SIO, w zbiorach danych szkół i placówek oświatowych, są gromadzone następujące dane dziedzinowe:
 
+- **1)** dane dotyczące warunków dydaktycznych, materialnych i finansowych prowadzenia szkół i placówek oświatowych, w szczególności:
+    - **a)** powierzchni gruntów oraz obiektów budowlanych,
+    - **b)** pomieszczeń szkoły i placówki oświatowej,
+    - **c)** wyposażenia szkoły i placówki oświatowej,
+    - **d)** (uchylona)
+    - **e)** liczby osób niebędących uczniami danej szkoły lub placówki oświatowej lub szkoły wchodzącej w skład zespołu korzystających z internatu, w tym liczby osób posiadających orzeczenie o potrzebie kształcenia specjalnego,
+    - **f)** danych o wysokości przeciętnego wynagrodzenia nauczyciela przypadającego na 1 etat, z uwzględnieniem nieperiodycznych składników wynagrodzenia – w przypadku publicznych szkół i placówek oświatowych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego i przez osoby fizyczne oraz niepublicznych szkół i placówek oświatowych,
+    - **g)** kosztów wynagrodzeń pracowników niebędących nauczycielami, wraz z pochodnymi pracownika, bez pochodnych pracodawcy, zatrudnionych w szkołach i placówkach oświatowych,
+    - **h)** wydatków na prowadzenie szkół i placówek oświatowych,
+    - **i)** liczby korzystających z biblioteki szkolnej według kategorii korzystających,
+    - **j)** danych o wysokości wynagrodzenia osób, o których mowa w art. 3 ust. 2 pkt 4, w publicznych szkołach i placówkach oświatowych prowadzonych przez jednostki samorządu terytorialnego i ministrów,
+    - **k)** danych o wysokości przeciętnego wynagrodzenia przypadającego na 1 etat, z uwzględnieniem nieperiodycznych składników wynagrodzenia nauczycieli mianowanych i dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2 ustawy – Prawo oświatowe;
+
+- **2)** dane dotyczące organizacji i działalności poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych:
+    - **a)** liczba uczniów, nauczycieli i rodziców korzystających z pomocy poradni oraz liczba form tej pomocy – według form pomocy,
+    - **b)** liczba diagnoz sporządzonych przez poradnię oraz liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – dla których sporządzono diagnozy, według rodzajów tych diagnoz,
+    - **c)** liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – uczestniczących w zajęciach organizowanych przez poradnię, według rodzajów tych zajęć,
+    - **d)** liczba opinii innych niż opinia o potrzebie wczesnego wspomagania rozwoju wydanych przez poradnię oraz liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – dla których wydano opinie, według rodzajów tych opinii,
+    - **e)** numer i data wydania opinii o potrzebie wczesnego wspomagania rozwoju, orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych oraz orzeczenia o potrzebie kształcenia specjalnego, wraz z informacją, czy opinia lub orzeczenie zostało wydane dziecku do 3 roku życia, dziecku w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętemu rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniowi, według typu szkoły i klasy, do której uczeń uczęszcza, oraz informacją o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu niedostosowaniem społecznym,
+    - **f)** liczba uczniów, według etapu edukacyjnego, wobec których stwierdzono, na podstawie orzeczenia, brak potrzeby kształcenia specjalnego, indywidualnego przygotowania przedszkolnego, indywidualnego nauczania albo zajęć rewalidacyjno-wychowawczych;
+
+- **2a)** dane dotyczące liczby uczniów objętych pomocą psychologiczno-pedagogiczną, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, udzieloną przez przedszkole, szkołę podstawową, w której zorganizowano oddział przedszkolny, lub inną formę wychowania przedszkolnego – według form tej pomocy;
+- **2b)** dane dotyczące liczby uczniów objętych pomocą psychologiczno-pedagogiczną udzieloną przez szkołę, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego – według klas, do których uczniowie uczęszczają, i form tej pomocy; 2ba) dane dotyczące liczby uczniów uczestniczących w zajęciach edukacji zdrowotnej – według klas, do których uczniowie uczęszczają, oraz płci; 2bb) dane dotyczące liczby uczniów korzystających ze świetlicy szkolnej – według klas, do których uczniowie uczęszczają;
+- **2c)** dane dotyczące organizacji i działalności:
+    - **a)** placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania: – bursa – liczba osób niebędących uczniami, korzystających z bursy, – dom wczasów dziecięcych – liczba turnusów,
+    - **b)** placówek oświatowo-wychowawczych – liczba uczestników zajęć, według rodzajów i form zajęć,
+    - **c)** placówek kształcenia ustawicznego, centrów kształcenia zawodowego oraz branżowych centrów umiejętności – liczba form pozaszkolnych kształcenia ustawicznego, z wyłączeniem kwalifikacyjnych kursów zawodowych, kursów umiejętności zawodowych, turnusów dokształcania teoretycznego oraz branżowych szkoleń zawodowych, według rodzajów tych form, oraz liczba uczestników tych form,
+    - **d)** placówek doskonalenia nauczycieli – liczba nauczycieli korzystających z innych niż kursy kwalifikacyjne form doskonalenia, według rodzajów tych form;
+
+- **3)** dane dotyczące liczby nauczycieli szkół i placówek oświatowych, z którymi w danym roku kalendarzowym rozwiązano stosunek pracy albo planowane jest jego rozwiązanie albo których stosunek pracy wygasł albo wygaśnie, według przyczyn rozwiązania albo wygaśnięcia stosunku pracy;
+- **4)** dane dotyczące pracowników niebędących nauczycielami w szkołach i placówkach oświatowych:
+    - **a)** liczba pracowników,
+    - **b)** wymiar zatrudnienia, według rodzaju zajmowanych stanowisk.
+
 **Art. 9.** W bazie danych SIO, w zbiorach danych jednostek, są gromadzone następujące dane:
+
+- **1)** dane identyfikacyjne:
+    - **a)** nazwa,
+    - **b)** nazwa skrócona,
+    - **c)** typ jednostki, zgodnie z art. 3 ust. 1 pkt 2,
+    - **d)** numer identyfikacyjny REGON,
+    - **e)** numer identyfikacji podatkowej (NIP), jeżeli numer taki został nadany,
+    - **f)** adres siedziby jednostki oraz numer telefonu, numer faksu, adres poczty elektronicznej i strony internetowej;
+
+- **2)** dane dziedzinowe dotyczące: o systemie oświaty, oraz udzielanej w ramach programów przyjętych na podstawie art. 90t ust. 1 i art. 90u ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty wraz z określeniem świadczeń tej pomocy.
+    - **a)** nauczycieli mianowanych lub dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w urzędach obsługujących ministrów, kuratoriach oświaty, specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe, organach sprawujących nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych – dane o wysokości przeciętnego wynagrodzenia przypadającego na 1 etat, z uwzględnieniem nieperiodycznych składników wynagrodzenia,
+    - **b)** pracowników odpowiedzialnych za zarządzanie i administrowanie oświatą zatrudnionych w komórkach merytorycznych w urzędach gmin, starostwach powiatowych, urzędach marszałkowskich, jednostkach obsługujących, urzędach obsługujących ministrów prowadzących szkoły i placówki oświatowe, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe: – liczba pracowników, – łączna wysokość ich wynagrodzeń, – wymiar zatrudnienia, według rodzaju zajmowanych stanowisk,
+    - **c)** liczby uczniów korzystających z pomocy materialnej o charakterze socjalnym, o której mowa w art. 90c ust. 2 ustawy z dnia 7 września 1991 r.
 
 **Art. 10.** W bazie danych SIO, w zbiorach danych uczniów, są gromadzone dane identyfikacyjne i dane dziedzinowe uczniów.
 
 **Art. 11.** Dane identyfikacyjne ucznia w bazie danych SIO obejmują imię, nazwisko i numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL – imię (imiona), nazwisko, płeć, datę urodzenia, serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz – jeżeli uczeń nie jest obywatelem polskim – kraj pochodzenia i dane dotyczące statusu ucznia:
 
+- **1)** obywatel państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Stowarzyszenia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej albo członek rodziny takiej osoby posiadający prawo pobytu lub prawo stałego pobytu;
+- **2)** osoba pochodzenia polskiego w rozumieniu przepisów o repatriacji;
+- **3)** osoba, której udzielono zezwolenia na pobyt stały na terytorium Rzeczypospolitej Polskiej;
+- **4)** osoba posiadająca ważną Kartę Polaka;
+- **5)** osoba, której nadano status uchodźcy, albo członek rodziny takiej osoby;
+- **6)** osoba posiadająca zgodę na pobyt tolerowany;
+- **6a)** osoba, której udzielono zgody na pobyt ze względów humanitarnych, albo członek rodziny takiej osoby;
+- **7)** osoba, której udzielono ochrony uzupełniającej, albo członek rodziny takiej osoby;
+- **8)** osoba korzystająca z ochrony czasowej na terytorium Rzeczypospolitej Polskiej;
+- **9)** osoba, której na terytorium Rzeczypospolitej Polskiej udzielono zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej;
+- **10)** osoba, której na terytorium Rzeczypospolitej Polskiej udzielono zezwolenia na pobyt czasowy w związku z okolicznością, o której mowa w art. 127, art. 159 ust. 1, art. 176 lub art. 186 ust. 1 pkt 3 lub 4 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547);
+- **11)** członek rodziny osoby ubiegającej się o udzielenie ochrony międzynarodowej;
+- **11a)** osoba, która posiada kartę pobytu z adnotacją „dostęp do rynku pracy”, wizę Schengen lub wizę krajową wydaną w celu wykonywania pracy na terytorium Rzeczypospolitej Polskiej;
+- **12)** osoba, której uprawnienie do nauki wynika z umowy międzynarodowej;
+- **13)** inny.
+
 **Art. 12.** Dane dziedzinowe ucznia w związku z wczesnym wspomaganiem rozwoju, zajęciami rewalidacyjno-wychowawczymi oraz kształceniem specjalnym obejmują:
+
+- **1)** numer opinii o potrzebie wczesnego wspomagania rozwoju dziecka, orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych lub orzeczenia o potrzebie kształcenia specjalnego;
+- **2)** datę wydania odpowiednio opinii lub orzeczenia, o których mowa w pkt 1;
+- **3)** datę przedłożenia w szkole lub placówce oświatowej odpowiednio opinii lub orzeczenia, o których mowa w pkt 1;
+- **4)** datę zakończenia realizacji wczesnego wspomagania rozwoju dziecka, zajęć rewalidacyjno-wychowawczych lub kształcenia specjalnego, zorganizowanych na podstawie odpowiednio opinii lub orzeczenia, o których mowa w pkt 1;
+- **5)** informację o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu niedostosowaniem społecznym;
+- **6)** liczbę godzin zajęć w ramach wczesnego wspomagania rozwoju dziecka, o których mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 1 ustawy – Prawo oświatowe, oraz liczbę godzin zajęć z zakresu pomocy psychologiczno-pedagogicznej, realizujących zalecenia zawarte w opinii o potrzebie wczesnego wspomagania rozwoju dziecka, ze wskazaniem formy tych zajęć: indywidualne lub w grupie oraz daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
+- **7)** liczbę godzin zajęć wychowania przedszkolnego lub zajęć edukacyjnych realizowanych indywidualnie z uczniem lub w grupie liczącej do 5 uczniów, o których mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy – Prawo oświatowe, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
+- **8)** liczbę godzin zajęć rewalidacyjno-wychowawczych, o których mowa w przepisach wydanych na podstawie art. 7 ust. 3 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917), ze wskazaniem formy tych zajęć: indywidualne lub zespołowe oraz daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
+- **9)** liczbę godzin zajęć odpowiednio rewalidacyjnych, socjoterapeutycznych, resocjalizacyjnych oraz zajęć z zakresu pomocy psychologiczno-pedagogicznej, realizujących zalecenia zawarte w orzeczeniu o potrzebie kształcenia specjalnego, orzeczeniu o potrzebie zajęć rewalidacyjno-wychowawczych, w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy – Prawo oświatowe, i w indywidualnym programie zajęć, o którym mowa w przepisach wydanych na podstawie art. 7 ust. 3 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ze wskazaniem formy tych zajęć: indywidualne lub zespołowe oraz daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
+- **10)** liczbę przypadających na ucznia godzin zajęć i innych zadań realizowanych przez nauczycieli posiadających kwalifikacje z zakresu pedagogiki specjalnej zatrudnionych dodatkowo w celu współorganizowania kształcenia specjalnego uczniów niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć i innych zadań;
+- **11)** liczbę przypadających na ucznia godzin zajęć i innych zadań realizowanych przez specjalistów zatrudnionych dodatkowo w ramach współorganizowania kształcenia specjalnego, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć i innych zadań;
+- **12)** liczbę przypadających na ucznia godzin zajęć i innych zadań realizowanych przez pomoc nauczyciela, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć i innych zadań.
 
 **Art. 13.** Dane dziedzinowe w związku z uczęszczaniem ucznia do przedszkola, oddziału przedszkolnego zorganizowanego w szkole podstawowej lub innej formy wychowania przedszkolnego obejmują:
 
+- **1)** miejsce zamieszkania ucznia;
+- **2)** spełnianie obowiązku rocznego przygotowania przedszkolnego;
+- **3)** indywidualne spełnianie obowiązku rocznego przygotowania przedszkolnego;
+- **4)** spełnianie obowiązku rocznego przygotowania przedszkolnego poza przedszkolem, oddziałem przedszkolnym zorganizowanym w szkole podstawowej albo inną formą wychowania przedszkolnego;
+- **4a)** liczbę godzin zajęć wychowania przedszkolnego realizowanych indywidualnie z uczniem objętym zindywidualizowaną ścieżką realizacji obowiązkowego rocznego przygotowania przedszkolnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 5 ustawy – Prawo oświatowe;
+- **5)** korzystanie z nauczania, wychowania i opieki w wymiarze wyższym niż określony w art. 13 ust. 1 pkt 2 ustawy – Prawo oświatowe;
+- **6)** rodzaj oddziału, do którego uczeń uczęszcza: ogólnodostępny, integracyjny albo specjalny;
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** informację, jakiego języka obcego uczeń się uczy;
+- **10)** uczestniczenie w nauce języka mniejszości narodowej, etnicznej lub języka regionalnego, z określeniem nazwy tego języka;
+- **11)** korzystanie z bezpłatnego transportu lub zwrotu kosztów przejazdu ucznia i opiekuna, o których mowa w art. 32 ust. 5 albo 6 ustawy – Prawo oświatowe;
+- **12)** wypadki, którym uległ uczeń, będąc pod opieką przedszkola, szkoły podstawowej, w której zorganizowano oddział przedszkolny, lub innej formy wychowania przedszkolnego, z określeniem rodzaju wypadku, miejsca, w którym zdarzył się wypadek, rodzaju zajęć, w czasie których wypadek miał miejsce, oraz przyczyny wypadku;
+- **13)** datę rozpoczęcia i datę zakończenia uczęszczania do przedszkola, oddziału przedszkolnego zorganizowanego w szkole podstawowej lub innej formy wychowania przedszkolnego.
+
 **Art. 14.** Dane dziedzinowe w związku z nauką ucznia w szkole obejmują:
+
+- **1)** miejsce zamieszkania ucznia, z wyjątkiem uczniów szkół specjalnych zorganizowanych w podmiotach leczniczych;
+- **2)** klasę, semestr i oddział, do którego uczeń uczęszcza;
+- **3)** rodzaj oddziału: ogólnodostępny, integracyjny, specjalny, przysposabiający do pracy, sportowy, dwujęzyczny, międzynarodowy lub inny rodzaj oddziału, w szczególności, o którym mowa w przepisach wydanych na podstawie art. 13 ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty oraz art. 47 ust. 1 pkt 5, art. 111, art. 112 ust. 2, art. 113 i art. 165 ust. 16 ustawy – Prawo oświatowe;
+- **4)** (uchylony)
+- **5)** zawód oraz zajęcia realizowane w ramach godzin, o których mowa w art. 47 ust. 1 pkt 3 lit. e ustawy – Prawo oświatowe, których przeznaczenie określają przepisy wydane na podstawie art. 47 ust. 1 pkt 3 tej ustawy – w przypadku ucznia szkoły ponadpodstawowej prowadzącej kształcenie zawodowe;
+- **5a)** uczestniczenie w kwalifikacyjnym kursie zawodowym z określeniem kwalifikacji;
+- **5b)** uczestniczenie w kursie umiejętności zawodowych;
+- **5c)** uczestniczenie w turnusie dokształcania teoretycznego młodocianych pracowników;
+- **6)** miejsce odbywania praktycznej nauki zawodu – w przypadku ucznia szkoły ponadpodstawowej prowadzącej kształcenie zawodowe;
+- **7)** zawód, specjalność i specjalizację – w przypadku ucznia szkoły artystycznej;
+- **8)** formę kształcenia stacjonarną lub zaoczną – w przypadku ucznia szkoły dla dorosłych;
+- **8a)** formę kształcenia dzienną, stacjonarną lub zaoczną – w przypadku ucznia odpowiednio branżowej szkoły II stopnia, szkoły policealnej lub policealnej szkoły artystycznej;
+- **9)** status młodocianego pracownika, w tym miejsce odbywania jego dokształcania teoretycznego;
+- **10)** korzystanie z indywidualnego nauczania;
+- **11)** realizowanie indywidualnego programu lub toku nauki;
+- **11a)** liczbę godzin zajęć edukacyjnych realizowanych indywidualnie z uczniem objętym zindywidualizowaną ścieżką kształcenia, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 5 ustawy – Prawo oświatowe;
+- **12)** korzystanie z dodatkowej bezpłatnej nauki języka polskiego oraz nauki języka i kultury kraju pochodzenia, o których mowa w art. 165 ust. 7, 9 i 15 ustawy – Prawo oświatowe;
+- **13)** spełnianie obowiązku szkolnego lub obowiązku nauki poza szkołą;
+- **14)** (uchylony)
+- **15)** informację, jakiego języka obcego uczeń się uczy, a w przypadku ucznia oddziału dwujęzycznego – informację, jaki język obcy jest drugim językiem nauczania;
+- **16)** uczestniczenie w nauce języka mniejszości narodowej, etnicznej lub języka regionalnego, z określeniem nazwy tego języka;
+- **17)** (uchylony)
+- **18)** uzyskanie tytułu laureata albo finalisty olimpiady przedmiotowej oraz laureata konkursu lub zawodów na szczeblu co najmniej powiatu;
+- **19)** uzyskanie albo nieuzyskanie promocji;
+- **20)** korzystanie z przedłużonego okresu nauki na etapie edukacyjnym;
+- **21)** ukończenie albo nieukończenie szkoły;
+- **22)** uzyskanie albo nieuzyskanie dyplomu ukończenia szkoły – w przypadku ucznia szkoły artystycznej;
+- **23)** informację o ukończeniu szkoły artystycznej na podstawie egzaminów eksternistycznych;
+- **24)** (uchylony)
+- **25)** uczestniczenie w zajęciach rozwijających zainteresowania i uzdolnienia, o których mowa w art. 109 ust. 1 pkt 6 ustawy – Prawo oświatowe, według rodzajów tych zajęć, oraz innych niż wymienione w art. 109 ust. 1 ustawy – Prawo oświatowe formach działalności dydaktyczno-wychowawczej, w tym dodatkowych działaniach mających na celu podtrzymywanie i rozwijanie poczucia tożsamości etnicznej uczniów romskich oraz wspomagających edukację tych uczniów;
+- **26)** uzyskanie karty rowerowej;
+- **27)** korzystanie z bezpłatnego transportu lub zwrotu kosztów przejazdu, o których mowa w art. 39 ust. 3, 4 i 4a ustawy – Prawo oświatowe;
+- **28)** wypadki, którym uległ uczeń, będąc pod opieką szkoły, z określeniem rodzaju wypadku, miejsca, w którym zdarzył się wypadek, rodzaju zajęć, w czasie których wypadek miał miejsce, oraz przyczyny wypadku;
+- **29)** korzystanie przez ucznia z pomocy materialnej o charakterze motywacyjnym, o której mowa w art. 90c ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty, z określeniem rodzaju świadczeń;
+- **30)** informację o korzystaniu z internatu;
+- **31)** datę rozpoczęcia i datę zakończenia nauki w szkole;
+- **32)** informację o spełnianiu obowiązku szkolnego w szkole obwodowej;
+- **33)** dane zawarte w legitymacji szkolnej, o której mowa w art. 11 ust. 1a i 1b ustawy z dnia 7 września 1991 r. o systemie oświaty, obejmujące:
+    - **a)** numer legitymacji szkolnej,
+    - **b)** typ legitymacji szkolnej,
+    - **c)** datę wydania legitymacji szkolnej,
+    - **d)** datę ważności legitymacji szkolnej;
+
+- **34)** dane zawarte w mLegitymacji szkolnej, o której mowa w art. 11 ust. 1d ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz dane jej dotyczące, obejmujące:
+    - **a)** numer mLegitymacji szkolnej,
+    - **b)** datę wydania mLegitymacji szkolnej,
+    - **c)** datę ważności mLegitymacji szkolnej,
+    - **d)** datę i przyczynę unieważnienia mLegitymacji szkolnej,
+    - **e)** kod QR służący do wydania mLegitymacji szkolnej,
+    - **f)** fotografię kolorową zawierającą wizerunek twarzy ucznia.
 
 **Art. 15.** Dane dziedzinowe w związku z nauką ucznia w kolegium pracowników służb społecznych obejmują:
 
+- **1)** miejsce zamieszkania ucznia;
+- **2)** semestr, na który uczeń uczęszcza;
+- **3)** specjalność kształcenia;
+- **4)** system kształcenia: dzienny, wieczorowy lub zaoczny;
+- **5)** informację, jakiego języka obcego uczeń się uczy;
+- **6)** realizowanie indywidualnego toku nauki;
+- **7)** odbywanie nauki według indywidualnych planów lub programów nauczania;
+- **8)** zaliczenie albo niezaliczenie semestru;
+- **9)** ukończenie albo nieukończenie kolegium;
+- **10)** korzystanie przez ucznia z pomocy materialnej o charakterze motywacyjnym, o której mowa w art. 90c ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty, z określeniem rodzaju świadczeń;
+- **11)** informację o korzystaniu z internatu;
+- **12)** datę rozpoczęcia i datę zakończenia nauki w kolegium.
+
 **Art. 16.** Dane dziedzinowe w związku z objęciem ucznia opieką w młodzieżowym ośrodku wychowawczym, młodzieżowym ośrodku socjoterapii, specjalnym ośrodku szkolno-wychowawczym, specjalnym ośrodku wychowawczym oraz ośrodku rewalidacyjno-wychowawczym obejmują:
 
+- **1)** podstawę pobytu w ośrodku:
+    - **a)** odpowiednio orzeczenie o potrzebie kształcenia specjalnego albo orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych,
+    - **b)** orzeczenie sądu,
+    - **c)** wniosek rodziców;
+
+- **2)** działania wynikające ze specjalnej organizacji nauki, metod pracy i wychowania, w tym w zakresie pomocy psychologiczno-pedagogicznej, z określeniem form tej pomocy;
+- **3)** wypadki, którym uległ uczeń, będąc pod opieką ośrodka, z określeniem rodzaju wypadku, miejsca, w którym zdarzył się wypadek, rodzaju zajęć, w czasie których wypadek miał miejsce, oraz przyczyny wypadku;
+- **4)** datę rozpoczęcia i datę zakończenia pobytu w ośrodku, a w przypadku wychowanka młodzieżowego ośrodka socjoterapii – również datę rozpoczęcia i datę zakończenia korzystania z zakwaterowania w tym ośrodku;
+- **5)** w przypadku wychowanka młodzieżowego ośrodka wychowawczego datę: poz. 1700 oraz z 2023 r. poz. 289 i 1860) oraz art. 123 ust. 1 pkt 1 i ust. 2 ustawy – Prawo oświatowe;
+    - **a)** otrzymania przez dyrektora ośrodka, za pośrednictwem poczty, skierowania wychowanka do ośrodka,
+    - **b)** przekazania informacji o niedoprowadzeniu wychowanka do ośrodka – zgodnie z przepisami wydanymi odpowiednio na podstawie art. 185 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U.
+
+- **6)** w przypadku nieletniej matki umieszczonej w młodzieżowym ośrodku wychowawczym:
+    - **a)** informację o umieszczeniu dziecka w domu dla matki i dziecka,
+    - **b)** datę urodzenia dziecka,
+    - **c)** datę rozpoczęcia i datę zakończenia przebywania dziecka w domu dla matki i dziecka – zgodnie z przepisami wydanymi odpowiednio na podstawie art. 185 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich oraz art. 123 ust. 1 pkt 1 i ust. 2 ustawy – Prawo oświatowe.
+
 **Art. 17.** Dane dziedzinowe w związku z objęciem ucznia opieką w placówce zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania obejmują:
+
+- **1)** wypadki, którym uległ uczeń, będąc pod opieką placówki, z określeniem rodzaju wypadku, miejsca, w którym zdarzył się wypadek, rodzaju zajęć, w czasie których wypadek miał miejsce, oraz przyczyny wypadku;
+- **2)** datę rozpoczęcia i datę zakończenia pobytu w placówce.
 
 **Art. 18.** (uchylony)
 
@@ -229,15 +404,49 @@ source: "isap-pdf"
 
 **Art. 19a.** Dane dziedzinowe w związku z kształceniem ustawicznym ucznia w placówce kształcenia ustawicznego lub centrum kształcenia zawodowego obejmują:
 
+- **1)** uczestniczenie w kwalifikacyjnym kursie zawodowym z określeniem kwalifikacji;
+- **2)** datę rozpoczęcia i datę zakończenia kwalifikacyjnego kursu zawodowego;
+- **2a)** uczestniczenie w kursie umiejętności zawodowych;
+- **2b)** datę rozpoczęcia i datę zakończenia kursu umiejętności zawodowych;
+- **2c)** uczestniczenie w turnusie dokształcania teoretycznego młodocianych pracowników;
+- **2d)** datę rozpoczęcia i datę zakończenia turnusu dokształcania teoretycznego młodocianych pracowników;
+- **3)** wypadki, którym uległ uczeń, będąc pod opieką placówki lub ośrodka, z określeniem rodzaju wypadku, miejsca, w którym zdarzył się wypadek, rodzaju zajęć, w czasie których wypadek miał miejsce, oraz przyczyny wypadku.
+
 **Art. 19b.** Dane dziedzinowe w związku z kształceniem ustawicznym ucznia szkoły ponadpodstawowej prowadzącej kształcenie zawodowe w branżowym centrum umiejętności obejmują:
+
+- **1)** uczestniczenie w turnusie dokształcania teoretycznego młodocianych pracowników;
+- **2)** datę rozpoczęcia i datę zakończenia turnusu dokształcania teoretycznego młodocianych pracowników;
+- **3)** uczestniczenie w branżowym szkoleniu zawodowym;
+- **4)** datę rozpoczęcia i datę zakończenia branżowego szkolenia zawodowego;
+- **5)** wypadki, którym uległ uczeń, będąc pod opieką branżowego centrum umiejętności, z określeniem rodzaju wypadku, miejsca, w którym zdarzył się wypadek, rodzaju zajęć, w czasie których wypadek miał miejsce, oraz przyczyny wypadku.
 
 **Art. 20.** Dane dziedzinowe ucznia w związku z egzaminami przeprowadzanymi przez okręgowe komisje egzaminacyjne obejmują:
 
+- **1)** wyniki egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego;
+- **2)** wyniki egzaminów eksternistycznych:
+    - **a)** typ szkoły ukończonej na podstawie egzaminów eksternistycznych,
+    - **b)** uzyskanie certyfikatu kwalifikacji zawodowej po zdaniu egzaminu eksternistycznego zawodowego, z określeniem kwalifikacji,
+    - **c)** zdanie egzaminu eksternistycznego z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia;
+
+- **3)** informację o uzyskaniu dyplomu zawodowego.
+
 **Art. 21.** Dane dziedzinowe ucznia w związku z kontrolowaniem przez dyrektora szkoły podstawowej spełniania obowiązku rocznego przygotowania przedszkolnego obejmują:
+
+- **1)** informację o spełnianiu obowiązku rocznego przygotowania przedszkolnego przez uczęszczanie do przedszkola za granicą lub przy przedstawicielstwie dyplomatycznym innego państwa w Polsce;
+- **2)** informację o przyczynie niespełniania tego obowiązku.
 
 **Art. 22.** Dane dziedzinowe ucznia w związku z kontrolowaniem przez dyrektora szkoły podstawowej spełniania obowiązku szkolnego obejmują:
 
+- **1)** informację o spełnianiu obowiązku szkolnego przez uczęszczanie do szkoły za granicą lub przy przedstawicielstwie dyplomatycznym innego państwa w Polsce;
+- **2)** informację o przyczynie niespełniania tego obowiązku.
+
 **Art. 23.** Dane dziedzinowe ucznia w związku z kontrolowaniem przez gminę spełniania obowiązku nauki obejmują:
+
+- **1)** informację o spełnianiu obowiązku nauki w formie, o której mowa w art. 36 ust. 9 pkt 2 i ust. 12 ustawy – Prawo oświatowe;
+- **2)** informację o spełnianiu obowiązku nauki przez uczęszczanie do szkoły za granicą lub przy przedstawicielstwie dyplomatycznym innego państwa w Polsce;
+- **3)** informację o przyczynie niespełniania tego obowiązku;
+- **3a)** informację, o której mowa w art. 36 ust. 15 ustawy – Prawo oświatowe, przekazaną wójtowi gminy (burmistrzowi, prezydentowi miasta) przez osoby kierujące podmiotami prowadzącymi kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 pkt 3 i 4 tej ustawy.
+- **4)** (uchylony)
 
 **Art. 24.** Dane dziedzinowe ucznia w związku z podjęciem studiów wyższych obejmują nazwę uczelni i kierunek studiów, na który absolwent został przyjęty, oraz formę studiów, z zastrzeżeniem art. 62 ust. 5.
 
@@ -369,6 +578,26 @@ source: "isap-pdf"
 
 **Art. 33.** Dane identyfikacyjne szkół i placówek oświatowych oraz ich zespołów do RSPO są obowiązane przekazywać:
 
+- **1)** jednostki samorządu terytorialnego przekazują dane identyfikacyjne:
+    - **a)** publicznych szkół i placówek oświatowych oraz ich zespołów prowadzonych przez te jednostki,
+    - **b)** publicznych szkół i placówek oświatowych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego oraz przez osoby fizyczne, dla których te jednostki samorządu terytorialnego są organem właściwym do wydania zezwolenia na założenie publicznej szkoły lub placówki oświatowej, oraz zespołów tych szkół i placówek oświatowych,
+    - **c)** niepublicznych szkół i placówek oświatowych, wpisanych do prowadzonej przez tę jednostkę samorządu terytorialnego ewidencji niepublicznych szkół i placówek oświatowych, oraz ich zespołów,
+    - **d)** niepublicznych kolegiów pracowników służb społecznych oraz niepublicznych placówek doskonalenia nauczycieli wpisanych do prowadzonej przez samorząd województwa ewidencji – w przypadku samorządów województw;
+
+- **2)** minister właściwy do spraw oświaty i wychowania przekazuje dane prowadzonych przez tego ministra:
+    - **a)** publicznych placówek doskonalenia nauczycieli o zasięgu ogólnokrajowym,
+    - **b)** publicznych szkół i placówek o charakterze eksperymentalnym,
+    - **c)** publicznych placówek kształcenia ustawicznego o zasięgu ogólnokrajowym,
+    - **d)** zespołów szkół lub placówek oświatowych;
+
+- **3)** minister właściwy do spraw kultury i ochrony dziedzictwa narodowego przekazuje dane:
+    - **a)** publicznych szkół lub placówek artystycznych oraz ich zespołów prowadzonych przez tego ministra,
+    - **b)** publicznych szkół i placówek artystycznych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego oraz przez osoby fizyczne, którym minister ten wydał zezwolenie na założenie publicznej szkoły lub placówki artystycznej, oraz zespołów tych szkół i placówek artystycznych,
+    - **c)** niepublicznych szkół i placówek artystycznych, wpisanych do prowadzonej przez tego ministra ewidencji niepublicznych szkół i placówek artystycznych, oraz ich zespołów;
+
+- **4)** inni niż wymienieni w pkt 2 i 3 ministrowie przekazują dane prowadzonych przez tych ministrów szkół i placówek oświatowych oraz ich zespołów;
+- **5)** okręgowe komisje egzaminacyjne przekazują numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy z dnia 7 września 1991 r. o systemie oświaty.
+
 **Art. 34.**
 
 1. Podmiot zobowiązany do przekazywania danych do RSPO, z wyjątkiem okręgowej komisji egzaminacyjnej, przekazuje dane identyfikacyjne szkoły lub placówki oświatowej w terminie 7 dni od dnia założenia szkoły lub placówki publicznej, a w przypadku publicznej szkoły lub placówki oświatowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną oraz niepublicznej szkoły lub placówki oświatowej – w terminie 7 dni odpowiednio od dnia wydania zezwolenia na założenie szkoły lub placówki oświatowej albo dokonania wpisu do ewidencji niepublicznych szkół i placówek oświatowych.
@@ -454,6 +683,23 @@ source: "isap-pdf"
 3. Jednostki organizacyjne, o których mowa w art. 1 ust. 1 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, oraz izby rzemieślnicze przekazują do zbioru danych ich dotyczących dane identyfikacyjne.
 
 **Art. 42.** Dane identyfikacyjne i dane dziedzinowe do zbioru danych ucznia przekazują:
+
+- **1)** dane w związku z wczesnym wspomaganiem rozwoju, zajęciami rewalidacyjno-wychowawczymi oraz kształceniem specjalnym – szkoła lub placówka oświatowa organizująca wczesne wspomaganie rozwoju, zajęcia rewalidacyjno-wychowawcze oraz kształcenie specjalne;
+- **2)** dane w związku z objęciem ucznia wychowaniem przedszkolnym – przedszkole, szkoła podstawowa, w której został zorganizowany oddział przedszkolny, lub inna forma wychowania przedszkolnego, do których uczeń uczęszcza;
+- **3)** dane w związku z nauką ucznia – szkoła albo kolegium pracowników służb społecznych, do którego uczeń uczęszcza;
+- **4)** dane w związku z objęciem ucznia opieką w placówce, o których mowa w art. 16 i 17 – odpowiednio młodzieżowy ośrodek wychowawczy, młodzieżowy ośrodek socjoterapii, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy, ośrodek rewalidacyjno-wychowawczy oraz placówka zapewniająca opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania;
+- **5)** (uchylony)
+- **6)** dane, o których mowa w art. 19 – placówki oświatowo-wychowawcze oraz placówki artystyczne – ogniska artystyczne;
+- **6a)** dane, o których mowa w art. 19a – placówki kształcenia ustawicznego, centra kształcenia zawodowego;
+- **6b)** dane, o których mowa w art. 19b – branżowe centra umiejętności;
+- **7)** dane w związku z kontrolowaniem spełniania obowiązku rocznego przygotowania przedszkolnego – szkoły podstawowe z wyznaczonym obwodem;
+- **8)** dane w związku z kontrolowaniem spełniania obowiązku szkolnego – szkoły podstawowe z wyznaczonym obwodem;
+- **9)** dane w związku z kontrolowaniem spełniania obowiązku nauki przez absolwentów szkoły podstawowej – gminy;
+- **10)** dane w związku z egzaminem ósmoklasisty, egzaminem maturalnym i egzaminem zawodowym oraz egzaminami eksternistycznymi przeprowadzanymi przez okręgowe komisje egzaminacyjne – okręgowe komisje egzaminacyjne;
+- **11)** dane dotyczące ukończenia szkoły artystycznej w trybie eksternistycznym – szkoła artystyczna lub zespół szkół artystycznych, przy którym została powołana państwowa komisja egzaminacyjna przeprowadzająca egzaminy eksternistyczne z zakresu szkół artystycznych;
+- **12)** dane dotyczące uzyskania tytułu czeladnika, o których mowa w art. 25 – izby rzemieślnicze;
+- **13)** (uchylony)
+- **14)** dane w związku z podjęciem studiów wyższych – uczelnie, z zastrzeżeniem art. 62 ust. 5.
 
 **Art. 43.**
 
@@ -606,6 +852,14 @@ source: "isap-pdf"
 
 **Art. 53.** Szkoły i placówki oświatowe mogą pozyskiwać następujące dane ucznia:
 
+- **1)** w związku z prowadzeniem dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej:
+    - **a)** z rejestru PESEL za pośrednictwem bazy danych SIO – drugie imię (imiona), płeć, datę i miejsce urodzenia oraz obywatelstwo, a w przypadku zgonu ucznia – również datę zgonu albo datę znalezienia zwłok,
+    - **b)** z bazy danych SIO – miejscowość, w której uczeń mieszka, a w przypadku ucznia niebędącego obywatelem polskim – także kraj pochodzenia;
+
+- **2)** z bazy danych SIO:
+    - **a)** w zakresie zapewnienia kontynuacji nauczania języka obcego – informację o języku obcym, którego uczeń uczył się na poprzednim etapie edukacyjnym.
+    - **b)** (uchylona)
+
 **Art. 53a.**
 
 1. W związku z kontrolą spełniania obowiązku rocznego przygotowania przedszkolnego przeprowadzaną na podstawie art. 33 ust. 2 ustawy – Prawo oświatowe, dyrektor publicznej szkoły podstawowej może pozyskiwać z bazy danych SIO informacje o spełnianiu przez dzieci zamieszkałe w obwodzie tej szkoły obowiązku, o którym mowa w art. 31 ust. 4 ustawy – Prawo oświatowe.
@@ -656,6 +910,9 @@ source: "isap-pdf"
 4. (uchylony)
 
 **Art. 59.** Jednostki samorządu terytorialnego i jednostki obsługujące w związku z prowadzeniem obsługi szkół i placówek oświatowych mogą pozyskiwać następujące dane nauczyciela:
+
+- **1)** z rejestru PESEL – drugie imię (imiona), płeć, datę i miejsce urodzenia oraz obywatelstwo, a w przypadku zgonu nauczyciela – również datę zgonu albo datę znalezienia zwłok;
+- **2)** z bazy danych SIO – wykształcenie, przygotowanie pedagogiczne, posiadane kwalifikacje do nauczania, stopień awansu zawodowego, ukończone formy dokształcania i doskonalenia zawodowego.
 
 **Art. 60.**
 
@@ -757,9 +1014,28 @@ source: "isap-pdf"
 
 **Art. 66a.** Minister właściwy do spraw rodziny, w celu umożliwienia wójtom, burmistrzom, prezydentom miast oraz wojewodom weryfikacji prawa odpowiednio do świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego oraz Karty Dużej Rodziny, a także w celu monitorowania przez ministra właściwego do spraw rodziny oraz wojewodę realizacji świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego oraz Karty Dużej Rodziny odpowiednio przez wójtów, burmistrzów, prezydentów miast oraz wojewodów, pozyskuje z bazy danych SIO dane identyfikacyjne ucznia obejmujące imię (imiona), nazwisko i numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL – imię (imiona), nazwisko, datę urodzenia, serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz dane dziedzinowe ucznia obejmujące informacje o:
 
+- **1)** uczęszczaniu ucznia do szkoły lub placówki oświatowej;
+- **2)** okresie uczęszczania ucznia do szkoły lub placówki oświatowej;
+- **3)** typie szkoły lub rodzaju placówki oświatowej oraz nazwie i adresie siedziby szkoły lub placówki oświatowej, do której uczeń uczęszcza lub uczęszczał;
+- **4)** klasie, do której uczeń uczęszcza lub uczęszczał.
+
 **Art. 66b.** Zakład Ubezpieczeń Społecznych, w celu weryfikacji prawa do świadczenia „aktywni rodzice w pracy” i świadczenia „aktywnie w żłobku”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), świadczenia wychowawczego oraz świadczenia dobry start, pozyskuje z bazy danych SIO dane identyfikacyjne ucznia obejmujące imię (imiona), nazwisko i numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL – imię (imiona), nazwisko, datę urodzenia, serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz dane dziedzinowe ucznia obejmujące informacje o:
 
+- **1)** uczęszczaniu ucznia do szkoły lub placówki oświatowej;
+- **2)** okresie uczęszczania ucznia do szkoły lub placówki oświatowej;
+- **3)** typie szkoły lub rodzaju placówki oświatowej oraz nazwie i adresie siedziby szkoły lub placówki oświatowej, do której uczeń uczęszcza lub uczęszczał;
+- **4)** klasie, do której uczeń uczęszcza lub uczęszczał.
+
 **Art. 66c.** Minister właściwy do spraw kultury fizycznej, w celu prowadzenia ewidencji „Sportowe Talenty”, o której mowa w art. 36a ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2023 r. poz. 2048), pozyskuje z bazy danych SIO:
+
+- **1)** dane identyfikacyjne ucznia obejmujące:
+    - **a)** imię i nazwisko oraz numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL – imię (imiona), nazwisko, datę urodzenia, serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
+    - **b)** płeć,
+    - **c)** rok urodzenia;
+
+- **2)** dane dziedzinowe ucznia obejmujące informacje o:
+    - **a)** typie szkoły, nazwie i adresie siedziby szkoły, do której uczeń uczęszcza lub uczęszczał,
+    - **b)** klasie i oddziale, do których uczeń uczęszcza lub uczęszczał.
 
 **Art. 66d.**
 
@@ -1106,6 +1382,10 @@ source: "isap-pdf"
 
 **Art. 106.** Ilekroć w art. 107–118 jest mowa o:
 
+- **1)** organach prowadzących szkoły lub placówki oświatowe – należy przez to rozumieć ministra, jednostkę samorządu terytorialnego, inną osobę prawną oraz osobę fizyczną, prowadzących szkoły i placówki oświatowe;
+- **2)** właściwych ministrach – należy przez to rozumieć ministrów, o których mowa w art. 8 ust. 4–8 ustawy – Prawo oświatowe, prowadzących szkoły i placówki oświatowe;
+- **3)** jednostkach obsługi – należy przez to rozumieć jednostki obsługujące, w rozumieniu art. 10b ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym, art. 6b ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym lub art. 8d ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa, które obejmują wspólną obsługą szkoły i placówki oświatowe założone i prowadzone przez jednostki samorządu terytorialnego.
+
 **Art. 107.**
 
 1. System informacji oświatowej obejmuje bazy danych oświatowych, w skład których wchodzą następujące zbiory danych o:
@@ -1422,6 +1702,9 @@ source: "isap-pdf"
 
 **Art. 126.** Główny Geodeta Kraju może pozyskiwać z bazy danych SIO dane, o których mowa w art. 64 ust. 1:
 
+- **1)** pkt 1 – od dnia 1 listopada 2012 r.;
+- **2)** pkt 2 – od dnia 10 kwietnia 2013 r.
+
 **Art. 127.**
 
 1. Uczelnie mogą pozyskiwać z bazy danych SIO dane do celów rekrutacji na studia wyższe, począwszy od rekrutacji na rok akademicki 2017/2018.
@@ -1460,4 +1743,8 @@ source: "isap-pdf"
 **Art. 133.** Traci moc ustawa z dnia 19 lutego 2004 r. o systemie informacji oświatowej (Dz. U. poz. 463, z 2005 r. poz. 565 oraz z 2007 r. poz. 273).
 
 **Art. 134.** Ustawa wchodzi w życie z dniem 30 kwietnia 2012 r., z wyjątkiem:
+
+- **1)** art. 128 ust. 1, który wchodzi w życie z dniem ogłoszenia ;
+- **2)** art. 102, 103 i 121, które wchodzą w życie z dniem 1 sierpnia 2012 r.
+
 

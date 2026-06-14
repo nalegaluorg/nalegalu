@@ -1,0 +1,85 @@
+---
+title: Rozporządzenie Ministra Zdrowia z dnia 11 września 2018 r. zmieniające rozporządzenie w sprawie programu pilotażowego w centrach zdrowia psychicznego
+address: WDU20180001786
+eli: DU/2018/1786
+publisher: DU
+year: 2018
+pos: 1786
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1786 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 11 września 2018 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 1786 |
+| ISAP | WDU20180001786 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2018-09-11 |
+| Data wydania | 2018-09-18 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001786) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1786/text.pdf) |
+
+zmieniające rozporządzenie w sprawie programu pilotażowego w centrach zdrowia psychicznego Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, 1515, 1532, 1544, 1552 i 1669) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 27 kwietnia 2018 r. w sprawie programu pilotażowego w centrach zdrowia psychicznego (Dz. U. poz. 852) wprowadza się następujące zmiany:
+1) § 6 otrzymuje brzmienie: „§ 6. Świadczeniodawca prowadzący centrum udziela konsultacji i porad w niezbędnym zakresie świadczeniobiorcom z podejrzeniem lub rozpoznaniem choroby otępiennej.”;
+2) w § 17 ust. 2 otrzymuje brzmienie: „2. Koordynatorem opieki może być każda osoba wchodząca w skład personelu udzielającego świadczeń opieki zdrowotnej określonego w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych dotyczących świadczeń opieki zdrowotnej z zakresu opieki psychiatrycznej i leczenia uzależnień lub osoba, która uzyskała tytuł specjalisty w dziedzinie zdrowia publicznego lub uzyskała tytuł licencjata lub magistra na kierunku studiów w zakresie zdrowia publicznego.”;
+3) w § 20:
+a) ust. 1 i 2 otrzymują brzmienie: „1. Wysokość ryczałtu na populację ustala się na półroczne okresy rozliczeniowe. Pierwszy okres rozliczeniowy może być krótszy, odpowiednio do okresu obowiązywania umowy o realizację programu pilotażowego.
+2. Wysokość ryczałtu na populację stanowi iloczyn liczby osób powyżej 18. roku życia oraz stawki półrocznej na świadczeniobiorcę w półrocznych okresach rozliczeniowych. Stawka ta wynosi co najmniej 37,50 zł.”,
+b) po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wartość ryczałtu na populację, o którym mowa w ust. 2, jest proporcjonalna do czasu obowiązywania umowy w pierwszym okresie rozliczeniowym, a dla umów z okresem rozliczeniowym wynoszącym 6 miesięcy wynosi co najmniej 37,50 zł.”;
+4) § 21 otrzymuje brzmienie: „§ 21. 1. Wartość umowy o realizację pilotażu ulega pomniejszeniu przez Fundusz o wartość świadczeń sfinansowanych przez Fundusz, udzielonych świadczeniobiorcom z tej populacji przez innych świadczeniodawców realizujących świadczenia w oparciu o umowę o udzielanie świadczeń opieki zdrowotnej w zakresie opieka psychiatryczna i leczenie uzależnień lub umowę o realizację programu pilotażowego.
+2. Przez świadczenia, o których mowa w ust. 1, rozumie się świadczenia opieki zdrowotnej w zakresie opieka psychiatryczna i leczenie uzależnień w zakresach świadczeń:
+1) świadczenia psychiatryczne dla dorosłych,
+2) świadczenia dzienne psychiatryczne dla dorosłych, na podstawie skierowania lekarza centrum,
+3) świadczenia psychiatryczne ambulatoryjne dla dorosłych,
+4) świadczenia opiekuńczo-lecznicze psychiatryczne dla dorosłych,
+5) świadczenia pielęgnacyjno-opiekuńcze psychiatryczne dla dorosłych,
+6) leczenie środowiskowe (domowe) – z tym że w zakresach wymienionych w pkt 4 i 5 pomniejszeniu ulega kwota ryczałtu na populację, w przypadku gdy udzielanie świadczeń w tych zakresach rozpoczęło się na podstawie skierowania lekarza centrum właściwego dla świadczeniobiorcy, wystawionego w okresie obowiązywania umowy o realizację programu pilotażowego.
+3. Pomniejszenia, o którym mowa w ust. 1, dokonuje się w kolejnym okresie rozliczeniowym, po przekazaniu świadczeniodawcy przez dyrektora oddziału Funduszu informacji o kwocie pomniejszenia wynikającej z poprzedniego okresu rozliczeniowego z wyjątkiem ostatniego okresu rozliczeniowego, w przypadku którego pomniejszenie obejmuje także koszty świadczeń planowanych na ten okres.
+4. Dyrektor oddziału Funduszu przekazuje świadczeniodawcy informację o wysokości kosztów planowanych w ostatnim okresie rozliczeniowym przewidywanych na podstawie danych o realizacji świadczeń z ostatniego zamkniętego okresu rozliczeniowego przed rozpoczęciem ostatniego okresu rozliczeniowego.
+5. Ostateczne rozliczenie zawartej umowy o realizację programu pilotażowego z tytułu pomniejszeń, o których mowa w ust. 1, następuje w terminie do 90 dni od zakończenia jej realizacji.”;
+5) w § 22:
+a) w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9–12 w brzmieniu: „9) świadczeń psychiatrycznych dla chorych somatycznie;
+10) świadczeń psychiatrycznych dla przewlekle chorych;
+11) świadczeń psychogeriatrycznych;
+12) świadczeń rehabilitacji psychiatrycznej.”,
+b) uchyla się ust. 2;
+6) w § 23:
+a) ust. 1 otrzymuje brzmienie: „1. Kwota wartości umowy zawiera kwotę przeznaczoną na koszty świadczeń udzielonych przez centrum świadczeniobiorcom zamieszkującym poza obszarem działania centrum, przy rozliczaniu których za cenę przyjmuje się średnią cenę jednostkową w danym województwie.”,
+b) uchyla się ust. 2,
+c) w ust. 3 wyrazy „zgodnie z obowiązującą jednostkową ceną jednostki rozliczeniowej” zastępuje się wyrazami „na podstawie średniej ceny jednostkowej w danym województwie”;
+7) w § 24:
+a) ust. 2 otrzymuje brzmienie: „2. W przypadku wykazania w rozliczeniu kwoty niewykorzystanej na cele, o których mowa w ust. 1, podmiot prowadzący centrum zwraca Funduszowi środki w wysokości przekraczającej różnicę 3% między środkami przekazanymi przez Fundusz a kosztami związanymi z udzielaniem świadczeń opieki zdrowotnej, o których mowa w ust. 1, w terminie określonym w umowie, nie później niż w terminie 6 miesięcy od zakończenia pilotażu.”,
+b) dodaje się ust. 3 w brzmieniu: „3. Rozliczenie, o którym mowa w ust. 1 i 2, następuje po zakończeniu realizacji pilotażu.”;
+8) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+9) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+§ 2. Do pomniejszeń wartości umowy, o których mowa w § 21 rozporządzenia zmienianego w § 1, oraz pomniejszeń, o których mowa w § 22 rozporządzenia zmienianego w § 1, w związku z udzielaniem świadczeń opieki zdrowotnej, przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Zdrowia: Ł. Szumowski REALIZATORZY PILOTAŻU ORAZ OBSZAR DZIAŁANIA CENTRUM ZDROWIA PSYCHICZNEGO Obszar działania centrów Lp. Nazwa podmiotu Województwo wraz z kodem jednostki podziału terytorialnego 1 2 3 4 osiedla administracyjne m. Łodzi: (dawna dzielnica Widzew) Samodzielny Publiczny Zakład Opieki Andrzejów, Dolina Łódki, Mileszki, 1 Zdrowotnej Centralny Szpital Kliniczny łódzkie Nowosolna, Olechów-Janów, Stary Uniwersytetu Medycznego w Łodzi Widzew, Stoki, Widzew-Wschód, Zarzew, Osiedle nr 33 Kody TERYT: 1061069 2 Samodzielny Publiczny Zespół Zakładów podkarpackie powiat tarnobrzeski, m. Tarnobrzeg Opieki Zdrowotnej w Nowej Dębie Kody TERYT: 1820, 1864 3 Regionalny Szpital w Kołobrzegu zachodniopomorskie powiat kołobrzeski Kod TERYT: 3208 4 Samodzielny Publiczny Zakład Opieki lubelskie powiat radzyński Zdrowotnej w Radzyniu Podlaskim Kod TERYT: 0615 5 Szpital Wojewódzki im. Kardynała Stefana podlaskie m. Łomża, powiat łomżyński Wyszyńskiego w Łomży Kody TERYT: 2062, 2007 6 Szpital Miejski św. Jana Pawła II warmińsko-mazurskie m. Elbląg, powiat elbląski w Elblągu Kody TERYT: 2861, 2804 7 Szpital Specjalistyczny Ducha Świętego świętokrzyskie powiat sandomierski w Sandomierzu Kod TERYT: 2609 Szpital Wolski im. dr Anny Gostyńskiej dzielnica m.st. Warszawy: Wola 8 Samodzielny Publiczny Zakład Opieki mazowieckie Kod TERYT: 1465188 Zdrowotnej (Warszawa) Wielospecjalistyczny Szpital Wojewódzki m. Gorzów Wielkopolski 9 w Gorzowie Wlkp. spółka z ograniczoną lubuskie Kod TERYT: 0861 odpowiedzialnością 10 Instytut Psychiatrii i Neurologii mazowieckie dzielnica m.st. Warszawy: Mokotów (Warszawa) Kod TERYT: 1465058 11 „MEDISON” Spółka z ograniczoną zachodniopomorskie m. Koszalin odpowiedzialnością (Koszalin) Kod TERYT: 3261 Specjalistyczny Psychiatryczny m. Suwałki, powiat suwalski 12 Samodzielny Publiczny Zakład Opieki podlaskie Kody TERYT: 2063, 2012 Zdrowotnej w Suwałkach Specjalistyczny Psychiatryczny Zespół powiat jarosławski 13 Opieki Zdrowotnej im. prof. Antoniego podkarpackie Kod TERYT: 1804 Kępińskiego w Jarosławiu 14 Szpital Specjalistyczny im. Henryka małopolskie powiat gorlicki Klimontowicza w Gorlicach Kod TERYT: 1205 1 2 3 4 m. Pruszków, powiat pruszkowski, Mazowieckie Specjalistyczne Centrum gmina Podkowa Leśna, dzielnica 15 Zdrowia im. prof. Jana Mazurkiewicza mazowieckie Ursus m.st. Warszawy w Pruszkowie Kody TERYT: 1421021, 1421, 1405021, 1465128 Szpital Wojewódzki im. św. Łukasza m. Tarnów 16 Samodzielny Publiczny Zakład Opieki małopolskie Kod TERYT: 1263 Zdrowotnej w Tarnowie 17 Wojewódzki Szpital Zespolony kujawsko-pomorskie m. Toruń im. L. Rydygiera w Toruniu Kod TERYT: 0463 18 Specjalistyczny Psychiatryczny Zespół śląskie m. Bielsko-Biała Opieki Zdrowotnej w Bielsku-Białej Kod TERYT: 2461 19 Szpital Specjalistyczny w Kościerzynie pomorskie powiat kościerski Spółka z ograniczoną odpowiedzialnością Kod TERYT: 2206 20 Zespół Zakładów Opieki Zdrowotnej śląskie powiat cieszyński w Cieszynie Kod TERYT: 2403 21 Szpital Ogólny im. dr. Witolda Ginela podlaskie powiat grajewski, w Grajewie Kod TERYT: 2004 gminy: Bledzew, Przytoczna, Samodzielny Publiczny Szpital dla Pszczew, Międzyrzecz, Skwierzyna, 22 Nerwowo i Psychicznie Chorych lubuskie Trzciel w Międzyrzeczu Kody TERYT: 0803012, 0803032, 0803042, 0803023, 0803053, 0803063 Mazowiecki Szpital Bródnowski dzielnica m.st. Warszawy: Targówek 23 w Warszawie Spółka z ograniczoną mazowieckie kod TERYT: 1465118 odpowiedzialnością Specjalistyczny Psychiatryczny Zespół Łódź-Bałuty 24 Opieki Zdrowotnej w Łodzi Szpital łódzkie Kod TERYT: 1061029 im. dr. J. Babińskiego 25 Wojewódzki Szpital dla Nerwowo dolnośląskie powiat bolesławiecki i Psychicznie Chorych w Bolesławcu Kod TERYT: 0201 26 Samodzielny Publiczny Wojewódzki lubelskie m. Chełm; powiat chełmski Szpital Specjalistyczny w Chełmie Kody TERYT: 0662, 0603 Samodzielny Publiczny Zakład Opieki powiaty: hajnowski, bielski 27 Zdrowotnej w Hajnówce podlaskie i siemiatycki Kody TERYT: 2005, 2003, 2010 28 Szpital Uniwersytecki w Krakowie małopolskie Kraków-Śródmieście Kod TERYT: 1261059 WYKAZ OŚRODKÓW UDZIELAJĄCYCH ŚWIADCZEŃ SPECJALISTYCZNYCH ŚWIADCZENIOBIORCOM Z POPULACJI OBJĘTEJ PILOTAŻEM REALIZOWANYCH ZGODNIE Z PROFILEM DZIAŁALNOŚCI KOMÓRKI ORGANIZACYJNEJ NIESKUTKUJĄCY POMNIEJSZANIEM KWOTY RYCZAŁTU U ŚWIADCZENIODAWCY PROWADZĄCEGO CENTRUM Lp. Nazwa podmiotu Województwo 1 2 3 1 Dolnośląskie Centrum Zdrowia Psychicznego sp. z o.o. dolnośląskie
+
+##### Oddział Leczenia Nerwic 2 EMC Szpital Bukowiec – NZOZ Powiatowe Centrum Zdrowia w Kowarach dolnośląskie
+
+##### Oddział Leczenia Nerwic 3 SP ZOZ Szpital Specjalistyczny MSWiA Oddział Leczenia Nerwic dolnośląskie 4 Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu dolnośląskie Klinika Psychiatrii 5 Uniwersytet Mikołaja Kopernika Collegium Medium II Klinika Psychiatrii, kujawsko-pomorskie Wojewódzki Szpital Zespolony im. L. Rydygiera w Toruniu 6 Szpital Uniwersytecki nr 1 im. A. Jurasza kujawsko-pomorskie Klinika Psychiatrii – Oddział Nerwic 7 Uniwersytet Mikołaja Kopernika Collegium Medicum kujawsko-pomorskie I Klinika Psychiatrii, Uniwersyteckie Centrum Kliniczne Samodzielny Publiczny Szpital Kliniczny nr 1 8 I Klinika Psychiatrii, Psychoterapii i Wczesnej Interwencji – Oddział lubelskie Leczenia Nerwic i Terapii Zaburzeń Odżywiania Uniwersytet Medyczny w Lublinie 9 I Klinika Psychiatrii, Psychoterapii i Wczesnej Interwencji lubelskie II Klinika Psychiatrii i Rehabilitacji Psychiatrycznej 10 SP Szpital dla Nerwowo i Psychicznie Chorych lubuskie
+
+##### Oddział Leczenia Nerwic i Zaburzeń Osobowości Uniwersytet Medyczny w Łodzi 11 Klinika Zaburzeń Psychotycznych i Afektywnych, łódzkie Klinika Psychiatrii Dorosłych Szpital Uniwersytecki w Krakowie 12 Oddział Kliniczny Psychiatrii Dorosłych, Dzieci i Młodzieży, Zakład małopolskie Psychoterapii 13 Szpital Specjalistyczny im. dr. Józefa Babińskiego SPZOZ w Krakowie małopolskie
+
+##### Oddział Leczenia Zaburzeń Osobowości i Nerwic Instytut Psychiatrii i Neurologii I Klinika Psychiatryczna, Centrum Leczenia Zaburzeń Psychotycznych, 14 II Klinika Psychiatryczna, mazowieckie III Klinika Psychiatryczna, Klinika Leczenia Nerwic, Zaburzeń Osobowości i Odżywiania Klinika Psychiatryczna Wydziału Nauki o Zdrowiu WUM 15 przy Mazowieckim Specjalistycznym Centrum Zdrowia im. prof. Jana mazowieckie Mazurkiewicza w Pruszkowie Samodzielny Wojewódzki Publiczny Zespół Zakładów Psychiatrycznej 16 Opieki Zdrowotnej im. dr Barbary Borzym mazowieckie
+
+##### Oddział Leczenia Zaburzeń Nerwicowych 1 2 3 17 SP ZOZ Szpital Specjalistyczny MSWiA Oddział Leczenia Zaburzeń mazowieckie Nerwicowych 18 Warszawski Uniwersytet Medyczny mazowieckie Klinika Psychiatryczna, Szpital Nowowiejski Warszawski Uniwersytet Medyczny 19 II Klinika Psychiatryczna mazowieckie Szpital Bródnowski, Szpital Wolski 20 Oddział Leczenia Zaburzeń Nerwicowych podlaskie Samodzielny Publiczny Psychiatryczny ZOZ im. dr. Stanisława Deresza 21 Specjalistyczny Psychiatryczny SP ZOZ Pododdział Leczenia Zaburzeń podlaskie Nerwicowych 22 Uniwersytet Medyczny w Białymstoku podlaskie Klinika Psychiatrii Gdański Uniwersytet Medyczny 23 Klinika Psychiatrii Dorosłych, pomorskie Klinika Psychiatrii Rozwojowej, Zaburzeń Psychotycznych i Wieku Podeszłego 24 Szpital dla Nerwowo i Psychicznie Chorych im. Stanisława Kryzana pomorskie
+
+##### Oddział Leczenia Zaburzeń Nerwicowych i Osobowości 25 Uniwersyteckie Centrum Kliniczne Klinika Psychiatrii Dorosłych pomorskie Samodzielny Publiczny Szpital Kliniczny nr 1 26 Śląski Uniwersytet Medyczny śląskie Klinika Psychiatrii i Psychoterapii 27 Śląski Uniwersytet Medyczny śląskie
+
+##### Oddział Kliniczny Psychiatrii 28 SP ZOZ MSWiA im. G. Załogi śląskie
+
+##### Oddział Leczenia Nerwic 29 Świętokrzyskie Centrum Psychiatrii Oddział Leczenia Zaburzeń świętokrzyskie Nerwicowych 30 Szpital Psychiatryczny SPZOZ warmińsko-mazurskie
+
+##### Oddział Leczenia Zaburzeń Nerwicowych 31 Uniwersytet Medyczny im. Karola Marcinkowskiego wielkopolskie Klinika Psychiatrii Dorosłych 32 Pomorski Uniwersytet Medyczny w Szczecinie zachodniopomorskie Klinika Psychiatrii 33 SP ZOZ MSWiA, zachodniopomorskie
+
+##### Oddział Leczenia Zaburzeń Nerwicowych
+

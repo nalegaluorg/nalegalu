@@ -1,0 +1,60 @@
+---
+title: "Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2018 r. zmieniające rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji"
+address: WDU20180001842
+eli: DU/2018/1842
+publisher: DU
+year: 2018
+pos: 1842
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1842 ROZPORZĄDZENIE KRAJOWEJ RADY RADIOFONII I TELEWIZJI z dnia 13 września 2018 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 1842 |
+| ISAP | WDU20180001842 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2018-09-13 |
+| Data wydania | 2018-09-28 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001842) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1842/text.pdf) |
+
+zmieniające rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji Na podstawie art. 117 § 6 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349) zarządza się, co następuje:
+§ 1. W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 12 lipca 2011 r. w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji (Dz. U. poz. 915 i 1146, z 2013 r. poz. 1285, z 2014 r. poz. 476 i 1416 oraz z 2015 r. poz. 1444) wprowadza się następujące zmiany:
+1) w § 2 pkt 2 otrzymuje brzmienie: „2) radzie – należy przez to rozumieć odpowiednio rady gmin, rady dzielnic – dla m.st. Warszawy, rady powiatów i sejmiki województw;”;
+2) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski Załącznik do rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2018 r. (poz. ) Załącznik do rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2018 r. (poz. 1842) OBSZARY EMITOWANIA PROGRAMÓW SPÓŁEK RADIOFONII REGIONALNEJ OBSZARY EMITOWANIA PROGRAMÓW SPÓŁEK RADIOFONII REGIONALNEJ WOJEWÓDZTWO DOLNOŚLĄSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Jelenia Góra, Legnica, Wałbrzych, Wrocław, powiaty: bolesławiecki, Radio Wrocław S.A.
+dzierżoniowski, głogowski, jaworski, jeleniogórski, kamiennogórski, kłodzki, legnicki, lubański, lubiński, lwówecki, oleśnicki, oławski, polkowicki, strzeliński, średzki, świdnicki, trzebnicki, wałbrzyski, wołowski, wrocławski, ząbkowicki, zgorzelecki, złotoryjski powiat: milicki, górowski Radio Poznań S.A.
+WOJEWÓDZTWO KUJAWSKO-POMORSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Bydgoszcz, Grudziądz, Toruń, Włocławek, powiaty: aleksandrowski, Radio Pomorza i Kujaw S.A.
+brodnicki, bydgoski, chełmiński, golubsko-dobrzyński, grudziądzki, inowrocławski, nakielski, rypiński, sępoleński, świecki, toruński, tucholski, wąbrzeski, włocławski, żniński powiaty: mogileński, radziejowski Radio Poznań S.A.
+powiat: lipnowski Radio dla Ciebie S.A.
+WOJEWÓDZTWO LUBELSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Biała Podlaska, Chełm, Lublin, Zamość, powiaty: bialski, chełmski, Radio Lublin S.A.
+hrubieszowski, janowski, krasnostawski, kraśnicki, lubartowski, lubelski, łęczyński, opolski, parczewski, puławski, radzyński, rycki, świdnicki, tomaszowski, włodawski, zamojski powiat: łukowski Radio dla Ciebie S.A.
+powiat: biłgorajski Radio Rzeszów S.A.
+WOJEWÓDZTWO LUBUSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Gorzów Wielkopolski, Zielona Góra, powiaty: gorzowski, krośnieński, Radio Zachód S.A.
+międzyrzecki, nowosolski, słubicki, strzelecko-drezdenecki, sulęciński, świebodziński, wschowski, zielonogórski, żagański, żarski WOJEWÓDZTWO ŁÓDZKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Łódź, Piotrków Trybunalski, Skierniewice, powiaty: bełchatowski, Radio Łódź S.A.
+brzeziński, kutnowski, łowicki, łaski, łęczycki, łódzki wschodni, opoczyński, pabianicki, pajęczański, piotrkowski, poddębicki, radomszczański, rawski, sieradzki, skierniewicki, tomaszowski, wieluński, wieruszowski, zduńskowolski, zgierski 1 WOJEWÓDZTWO MAŁOPOLSKIE 1 2 Kraków, Nowy Sącz, Tarnów, powiaty: bocheński, brzeski, dąbrowski, Radio Kraków S.A.
+gorlicki, krakowski, limanowski, miechowski, myślenicki, nowosądecki, nowotarski, oświęcimski, proszowicki, suski, tarnowski, tatrzański, wadowicki, wielicki powiaty: chrzanowski, olkuski Radio Katowice S.A.
+WOJEWÓDZTWO MAZOWIECKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Ostrołęka, Płock, Radom, Siedlce, m.st. Warszawa, powiaty: białobrzeski, Radio dla Ciebie S.A.
+ciechanowski, garwoliński, gostyniński, grodziski, grójecki, kozienicki, legionowski, łosicki, makowski, miński, mławski, nowodworski, ostrołęcki, ostrowski, otwocki, piaseczyński, płocki, płoński, pruszkowski, przasnyski, przysuski, pułtuski, radomski, siedlecki, sierpecki, sochaczewski, sokołowski, szydłowiecki, warszawski zachodni, węgrowski, wołomiński, wyszkowski, żuromiński, żyrardowski powiaty: lipski, zwoleński Radio Kielce S.A.
+WOJEWÓDZTWO OPOLSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Opole, powiaty: brzeski, głubczycki, kędzierzyńsko-kozielski, kluczborski, Radio Opole S.A.
+krapkowicki, namysłowski, nyski, oleski, opolski, prudnicki, strzelecki WOJEWÓDZTWO PODKARPACKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Krosno, Przemyśl, Rzeszów, Tarnobrzeg, powiaty: bieszczadzki, Radio Rzeszów S.A.
+brzozowski, dębicki, jarosławski, jasielski, kolbuszowski, krośnieński, leski, leżajski, lubaczowski, łańcucki, mielecki, niżański, przemyski, przeworski, ropczycko-sędziszowski, rzeszowski, sanocki, stalowowolski, strzyżowski, tarnobrzeski WOJEWÓDZTWO PODLASKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Białystok, Łomża, Suwałki, powiaty: augustowski, białostocki, bielski, Radio Białystok S.A.
+grajewski, hajnowski, kolneński, łomżyński, moniecki, sejneński, siemiatycki, sokólski, suwalski, wysokomazowiecki, zambrowski WOJEWÓDZTWO POMORSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Gdańsk, Gdynia, Słupsk, Sopot, powiaty: bytowski, chojnicki, gdański, Radio Gdańsk S.A.
+kartuski, kościerski, kwidzyński, lęborski, malborski, nowodworski, pucki, słupski, starogardzki, sztumski, tczewski, wejherowski powiat: człuchowski Radio Koszalin S.A.
+2 WOJEWÓDZTWO ŚLĄSKIE 1 2 Bielsko-Biała, Bytom, Chorzów, Częstochowa, Dąbrowa Górnicza, Gliwice, Radio Katowice S.A.
+Jastrzębie-Zdrój, Jaworzno, Katowice, Mysłowice, Piekary Śląskie, Ruda Śląska, Rybnik, Siemianowice Śląskie, Sosnowiec, Świętochłowice, Tychy, Zabrze, Żory, powiaty: będziński, bielski, bieruńsko-lędziński, cieszyński, częstochowski, gliwicki, kłobucki, lubliniecki, mikołowski, myszkowski, pszczyński, raciborski, rybnicki, tarnogórski, wodzisławski, zawierciański, żywiecki WOJEWÓDZTWO ŚWIĘTOKRZYSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Kielce, powiaty: buski, jędrzejowski, kielecki, konecki, opatowski, Radio Kielce S.A.
+ostrowiecki, pińczowski, sandomierski, skarżyski, starachowicki, staszowski, włoszczowski powiat: kazimierski Radio Kraków S.A.
+WOJEWÓDZTWO WARMIŃSKO-MAZURSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Elbląg, Olsztyn, powiaty: bartoszycki, braniewski, działdowski, elbląski, Radio Olsztyn S.A.
+ełcki, giżycki, gołdapski, iławski, kętrzyński, lidzbarski, mrągowski, nidzicki, nowomiejski, olecki, olsztyński, ostródzki, piski, szczycieński, węgorzewski WOJEWÓDZTWO WIELKOPOLSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Kalisz, Konin, Leszno, Poznań, powiaty: chodzieski, czarnkowsko- Radio Poznań S.A.
+-trzcianecki, gnieźnieński, gostyński, grodziski, jarociński, kaliski, kępiński, kolski, koniński, kościański, krotoszyński, leszczyński, międzychodzki, nowotomyski, obornicki, ostrowski, ostrzeszowski, pilski, pleszewski, poznański, rawicki, słupecki, szamotulski, średzki, śremski, turecki, wągrowiecki, wolsztyński, wrzesiński, złotowski WOJEWÓDZTWO ZACHODNIOPOMORSKIE Powiaty w granicach administracyjnych Nazwa rozgłośni 1 2 Koszalin, powiaty: białogardzki, drawski, kołobrzeski, koszaliński, Radio Koszalin S.A.
+sławieński, szczecinecki, świdwiński, wałecki Szczecin, Świnoujście, powiaty: choszczeński, goleniowski, gryficki, Radio Szczecin S.A.
+gryfiński, kamieński, łobeski, myśliborski, policki, pyrzycki, stargardzki 3
+

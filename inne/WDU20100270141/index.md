@@ -8,7 +8,7 @@ pos: 141
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 11 lutego 2010 r.

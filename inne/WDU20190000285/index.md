@@ -8,10 +8,10 @@ pos: 285
 act_type: Protokół
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 lutego 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 285 ProtokÓł o zrównoważonym transporcie do ramowej konwencji o ochronie i zrównoważonym rozwoju karpat, sporządzony w Mikulovie dnia 26 września 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/285/text.pdf) |
 
-ProtokÓł o zrównoważonym transporcie do ramowej konwencji o ochronie i zrównoważonym rozwoju karpat, sporządzony w Mikulovie dnia 26 września 2014 r.
 Przekład
 

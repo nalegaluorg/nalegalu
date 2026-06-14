@@ -8,10 +8,10 @@ pos: 1707
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 października 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1707 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 28 września 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001707) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1707/text.pdf) |
 
-Poz. 1707 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 28 września 2020 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2020 r. poz. 251 i 875) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 listopada 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U.
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2020 r. poz. 251 i 875) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 listopada 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach Priorytetu 5. Wspieranie obrotu i przetwarzania, zawartego w Programie Operacyjnym „Rybactwo i Morze” (Dz. U.
 z 2016 r. poz. 1965, z 2017 r. poz. 2189, z 2018 r. poz. 2452 oraz z 2020 r. poz. 1241) wprowadza się następujące zmiany:
 1) w § 39 w ust. 4 pkt 2 i 3 otrzymują brzmienie: „2) 48 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w kilku etapach w ramach działań, o których mowa w art. 67, art. 68 i art. 69 ust. 1 rozporządzenia nr 508/2014,
 3) 36 miesięcy od dnia zawarcia umowy o dofinansowanie – w przypadku operacji realizowanych w jednym etapie w ramach działań, o których mowa w art. 67, art. 68 i art. 69 ust. 1 rozporządzenia nr 508/2014”;

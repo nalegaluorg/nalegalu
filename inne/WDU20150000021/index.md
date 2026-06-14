@@ -8,7 +8,7 @@ pos: 21
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie i pomocy dla pokrzywdzonego i świadka
@@ -262,6 +262,52 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 **Art. 20.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 w § 1 pkt 3 otrzymuje brzmienie: „3) zostały uwzględnione prawnie chronione interesy pokrzywdzonego przy jednoczesnym poszanowaniu jego godności,”;
+- **2)** art. 52 otrzymuje brzmienie: „Art. 52. § 1. W razie śmierci pokrzywdzonego prawa, które by mu przysługiwały, mogą wykonywać osoby najbliższe lub osoby pozostające na jego utrzymaniu, a w wypadku ich braku lub nieujawnienia – prokurator, działając z urzędu.
+
+§ 2. W przypadku gdy organ prowadzący postępowanie dysponuje informacjami o osobach najbliższych dla pokrzywdzonego lub osobach pozostających na jego utrzymaniu, poucza o przysługujących uprawnieniach co najmniej jedną z nich.”;
+
+- **3)** po art. 56 dodaje się art. 56a w brzmieniu: „Art. 56a. Oskarżycielowi posiłkowemu, który nie włada w wystarczającym stopniu językiem polskim, orzeczenie podlegające zaskarżeniu lub kończące postępowanie doręcza się wraz z tłumaczeniem; za zgodą oskarżyciela posiłkowego można poprzestać na ogłoszeniu przetłumaczonego orzeczenia kończącego postępowanie, jeżeli nie podlega ono zaskarżeniu.”;
+- **4)** w art. 58 § 1 otrzymuje brzmienie: „§ 1. Śmierć oskarżyciela posiłkowego nie tamuje biegu postępowania; osoby najbliższe lub osoby pozostające na jego utrzymaniu mogą przystąpić do postępowania w charakterze oskarżyciela posiłkowego w każdym stadium postępowania.”;
+- **5)** po art. 60 dodaje się art. 60a w brzmieniu: „Art. 60a. Oskarżycielowi prywatnemu, który nie włada w wystarczającym stopniu językiem polskim, orzeczenie podlegające zaskarżeniu lub kończące postępowanie doręcza się wraz z tłumaczeniem; za zgodą oskarżyciela prywatnego można poprzestać na ogłoszeniu przetłumaczonego orzeczenia kończącego postępowanie, jeżeli nie podlega ono zaskarżeniu.”;
+- **6)** w art. 61 § 1 otrzymuje brzmienie: „§ 1. W razie śmierci oskarżyciela prywatnego postępowanie zawiesza się, a osoby najbliższe lub osoby pozostające na utrzymaniu zmarłego mogą wstąpić w jego prawa.”;
+- **7)** w art. 148 po § 2 dodaje się § 2a–2c w brzmieniu: „§ 2a. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy pokrzywdzonych i świadków uczestniczących w czynności. Dane te zamieszcza się w załączniku do protokołu. Nie dotyczy to miejsca pracy świadka, będącego funkcjonariuszem publicznym składającego zeznania w związku z pełnioną funkcją, chyba że dla dobra postępowania karnego nie powinno ono zostać ujawnione w protokole.
+
+§ 2b. Załącznik do protokołu, o którym mowa w § 2a, oraz inne dokumenty w całości lub w części, w jakiej zawierają dane dotyczące miejsca zamieszkania i miejsca pracy pokrzywdzonych i świadków, przechowuje się w odrębnym załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.
+
+§ 2c. Sąd lub prokurator może ujawnić w niezbędnym zakresie dane, o których mowa w § 2a lub oryginały dokumentów, o których mowa w § 2b, jeżeli mają one znaczenie dla rozstrzygnięcia sprawy.”;
+
+- **8)** po art. 156 dodaje się art. 156a w brzmieniu: „Art. 156a. Dane lub oryginały dokumentów znajdujące się w załączniku adresowym udostępnia się wyłącznie organom państwowym oraz organom samorządu terytorialnego na ich żądanie. Można je udostępnić także na wniosek innych instytucji lub osób, jeżeli przemawia za tym ich ważny interes.”;
+- **9)** w art. 191:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Przesłuchanie rozpoczyna się od zapytania świadka o imię, nazwisko, wiek, zajęcie, karalność za fałszywe zeznanie lub oskarżenie oraz stosunek do stron.”,
+    - **b)** po § 1 dodaje się § 1a i 1b w brzmieniu: „§ 1a. Miejsce zamieszkania świadka ustala się na podstawie dokumentu tożsamości lub pisemnego oświadczenia świadka.
+
+§ 1b. Pytania zadawane świadkowi nie mogą zmierzać do ujawnienia jego miejsca zamieszkania ani miejsca pracy, chyba że ma to znaczenie dla rozstrzygnięcia sprawy.”,
+
+- **c)** uchyla się § 3;
+- **10)** w art. 197:
+    - **a)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Jeżeli zachodzi uzasadniona obawa użycia przemocy lub groźby bezprawnej wobec biegłego lub osoby najbliższej w związku z jego czynnościami, może on zastrzec dane dotyczące miejsca zamieszkania do wyłącznej wiadomości prokuratora lub sądu. Pisma procesowe doręcza się wówczas do instytucji, w której biegły jest zatrudniony, lub na inny wskazany przez niego adres.”,
+    - **b)** § 3 otrzymuje brzmienie: „§ 3. Do biegłego stosuje się odpowiednio przepisy art. 177, art. 179– 181, art. 187, art. 188 § 2 i 4, art. 190 oraz art. 191 § 1.”;
+
+- **11)** w art. 253:
+    - **a)** § 3 otrzymuje brzmienie: „§ 3. Sąd lub prokurator niezwłocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, o uchyleniu, nieprzedłużeniu lub zmianie tymczasowego aresztowania na inny środek zapobiegawczy, jak również o ucieczce oskarżonego z aresztu śledczego, chyba że pokrzywdzony oświadczy, iż z takiego uprawnienia rezygnuje.”,
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. W uzasadnionych przypadkach zawiadomienie, o którym mowa w § 3, przekazuje się również świadkowi.”;
+
+- **12)** po art. 299 dodaje się art. 299a w brzmieniu: „Art. 299a. § 1. Podczas czynności z udziałem pokrzywdzonego w postępowaniu przygotowawczym może być obecna osoba przez niego wskazana, jeżeli nie uniemożliwia to przeprowadzenia czynności albo nie utrudnia jej w istotny sposób.
+
+§ 2. Na wniosek pokrzywdzonego zgłoszony w postępowaniu przygotowawczym, sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, przesłanym na wskazany przez pokrzywdzonego adres, wraz z odpisem prawomocnego orzeczenia kończącego postępowanie w sprawie lub jego wyciągiem.”;
+
+- **13)** w art. 300:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Przed pierwszym przesłuchaniem poucza się pokrzywdzonego o posiadaniu statusu strony procesowej w postępowaniu przygotowawczym oraz o wynikających z tego uprawnieniach, w szczególności: do składania wniosków o dokonanie czynności śledztwa lub dochodzenia i warunkach uczestniczenia w tych czynnościach, określonych w art. 51, art. 52 i art. 315–318, do korzystania z pomocy pełnomocnika, w tym do złożenia wniosku o wyznaczenie pełnomocnika z urzędu w okolicznościach wskazanych w art. 78, do końcowego zapoznania się z materiałami postępowania, jak również o uprawnieniach określonych w art. 23a § 1, art. 87a, art. 204 i art. 306 oraz o obowiązkach i konsekwencjach wskazanych w art. 138 i art. 139. Pouczenie obejmuje również informację o: możliwościach naprawienia szkody przez oskarżonego lub uzyskania kompensaty państwowej, dostępie do pomocy prawnej, dostępnych środkach ochrony i pomocy, możliwości wydania europejskiego nakazu ochrony, organizacjach wsparcia pokrzywdzonych oraz możliwości zwrotu kosztów poniesionych w związku z udziałem w postępowaniu. Pouczenie należy wręczyć pokrzywdzonemu na piśmie; pokrzywdzony otrzymanie pouczenia potwierdza podpisem.”,
+    - **b)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Przed pierwszym przesłuchaniem poucza się świadka o jego uprawnieniach i obowiązkach określonych w art. 177–192a oraz dostępnych środkach ochrony i pomocy.”,
+    - **c)** § 3 otrzymuje brzmienie: „§ 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory pisemnych pouczeń, o których mowa w § 1–2a, mając na względzie takie poinformowanie o treści obowiązujących przepisów, które umożliwi ich zrozumienie także osobie niekorzystającej z pomocy obrońcy lub pełnomocnika.”;
+
+- **14)** w art. 304 § 1 otrzymuje brzmienie: „§ 1. Każdy dowiedziawszy się o popełnieniu przestępstwa ściganego z urzędu ma społeczny obowiązek zawiadomić o tym prokuratora lub Policję. Przepisy art. 148 § 2a–2c oraz art. 156a stosuje się odpowiednio.”;
+- **15)** w art. 325e § 1 otrzymuje brzmienie: „§ 1. Postanowienia o wszczęciu dochodzenia, odmowie wszczęcia dochodzenia, umorzeniu dochodzenia i wpisaniu sprawy do rejestru przestępstw, umorzeniu dochodzenia oraz o jego zawieszeniu wydaje prowadzący postępowanie. Mogą one zostać zamieszczone w protokole, o którym mowa w art. 304a, i nie wymagają uzasadnienia. Na wniosek strony organ prowadzący dochodzenie podaje ustnie najważniejsze powody rozstrzygnięcia.”;
+- **16)** w art. 390 dodaje się § 3 w brzmieniu: „§ 3. W wypadkach przewidzianych w § 2 przewodniczący może również przeprowadzić przesłuchanie przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku. W miejscu składania wyjaśnień lub zeznań w czynności bierze udział referendarz sądowy, asystent sędziego lub urzędnik sądowy.”;
+- **17)** w art. 607zh w § 1 część wspólna otrzymuje brzmienie: „– orzeczenie to podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na legalne stałe miejsce pobytu tej osoby.”;
+- **18)** po rozdziale 66i dodaje się rozdziały 66j i 66k w brzmieniu: „Rozdział 66j Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie europejskiego nakazu ochrony
+
 **Art. 611w.**
 
 § 1. W razie orzeczenia lub wykonywania przez polski sąd lub prokuratora środka zapobiegawczego, środka karnego lub obowiązku związanego z poddaniem sprawcy próbie, polegającego na powstrzymaniu się od przebywania w określonych środowiskach lub miejscach lub kontaktowania się z określonymi osobami, lub zbliżania się do określonych osób, oraz gdy jest to niezbędne dla ochrony praw pokrzywdzonego, sąd lub prokurator może, na wniosek pokrzywdzonego, wystąpić o wykonanie tego środka lub obowiązku do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania nakazu”, w którym pokrzywdzony przebywa lub oświadczy, że zamierza tam przebywać, wydając europejski nakaz ochrony.
@@ -276,7 +322,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 § 6. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania nakazu sąd lub prokurator może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej lub Eurojust.
 
-§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór europejskiego nakazu ochrony, mając na uwadze konieczność udostępnienia państwu wykonania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania nakazu. Art. 611wa. Wystąpienie o wykonanie europejskiego nakazu ochrony nie wstrzymuje wykonywania środka lub obowiązku, o którym mowa w art. 611w § 1. Art. 611wb. § 1. W razie zmiany lub uchylenia środka lub obowiązku, o którym mowa w art. 611w § 1, sąd lub prokurator niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania nakazu.
+§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór europejskiego nakazu ochrony, mając na uwadze konieczność udostępnienia państwu wykonania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania nakazu. Art. 611wa. Wystąpienie o wykonanie europejskiego nakazu ochrony nie wstrzymuje wykonywania środka lub obowiązku, o którym mowa w art. 611w
+
+§ 1. Art. 611wb. § 1. W razie zmiany lub uchylenia środka lub obowiązku, o którym mowa w art. 611w § 1, sąd lub prokurator niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania nakazu.
 
 § 2. Zawiadomienie, o którym mowa w § 1, może zostać przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów. Art. 611wc. Na postanowienie sądu lub prokuratora w przedmiocie europejskiego nakazu ochrony zażalenie nie przysługuje.
 
@@ -284,15 +332,46 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 **Art. 21.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 43:
+    - **a)** w § 8: – pkt 1 otrzymuje brzmienie: „1) pomoc osobom pokrzywdzonym przestępstwem oraz osobom im najbliższym, zwłaszcza pomoc medyczną, psychologiczną, rehabilitacyjną, prawną oraz materialną, udzielaną przez jednostki niezaliczane do sektora finansów publicznych i niedziałające w celu osiągnięcia zysku, w tym stowarzyszenia, fundacje, organizacje i instytucje,”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) pomoc prawną i psychologiczną świadkom i osobom im najbliższym,”,
+    - **b)** § 9 otrzymuje brzmienie: „§ 9. Powierzenie realizacji zadań, o których mowa w § 8 pkt 1, 2a–4, odbywa się w trybie otwartego konkursu ofert.”,
+    - **c)** po § 9 dodaje się § 9a w brzmieniu: „§ 9a. Do realizacji pomocy prawnej i psychologicznej pokrzywdzonym i świadkom na terenie sądu, jednostki organizacyjnej prokuratury lub jednostki organizacyjnej Policji wymagana jest zgoda prezesa sądu, kierownika jednostki organizacyjnej prokuratury bądź komendanta jednostki organizacyjnej Policji. Podmiot przystępujący do otwartego konkursu ofert dołącza do oferty dokument potwierdzający tę zgodę.”,
+    - **d)** § 10 i 11 otrzymują brzmienie: „§ 10. Dysponent Funduszu, udzielając dotacji celowej, zwanej dalej „dotacją”, na realizację zadań, o których mowa w § 8 pkt 1, 2a–4, zawiera z podmiotem umowę.
+
+§ 11. Podmioty, z którymi została zawarta umowa, są obowiązane do prowadzenia wyodrębnionej ewidencji księgowej otrzymanych środków i dokonywanych z tych środków wydatków oraz posiadania odrębnego rachunku bankowego przeznaczonego tylko do obsługi tych środków.”,
+
+- **e)** po § 11 dodaje się § 11a w brzmieniu: „§ 11a. Podmiot, który otrzymał dotację w celu świadczenia pomocy psychologicznej osobom pokrzywdzonym przestępstwem lub świadkom, jest obowiązany udzielić pomocy psychologicznej na wezwanie organu prowadzącego czynności operacyjno-rozpoznawcze albo sprawdzające lub postępowanie przygotowawcze albo sądu w terminie 14 dni od wezwania, chyba że określone w umowie środki przeznaczone na pomoc psychologiczną zostały wykorzystane lub pokrzywdzony lub świadek nie kwalifikuje się do udzielenia takiej pomocy.”,
+- **f)** po § 15 dodaje się § 15a w brzmieniu: „§ 15a. Podmioty, o których mowa w § 15, nie mogą brać udziału w otwartym konkursie ofert, o którym mowa w § 9, do dnia zwrotu środków wraz z odsetkami i przez następne 12 miesięcy od tego dnia.”,
+- **g)** w § 19 pkt 1 otrzymuje brzmienie: „1) tryb udzielania pomocy osobom pokrzywdzonym przestępstwem, świadkom oraz osobom im najbliższym,”;
+- **2)** w art. 168a dodaje się § 6 w brzmieniu: „§ 6. W uzasadnionych przypadkach zawiadomienie, o którym mowa w § 1, przekazuje się również świadkowi.”;
+- **3)** art. 180 otrzymuje brzmienie: „Art. 180. W razie orzeczenia zakazu zajmowania określonego stanowiska lub wykonywania określonego zawodu, sąd przesyła odpis wyroku właściwemu organowi administracji rządowej lub samorządu terytorialnego oraz pracodawcy albo instytucji, w której skazany zajmuje objęte zakazem stanowisko lub wykonuje objęty zakazem zawód. Jeżeli skazany zajmuje stanowisko kierownicze lub inne odpowiedzialne stanowisko, sąd przesyła odpis wyroku również właściwej jednostce nadrzędnej. W odpisie wyroku nie ujawnia się danych pokrzywdzonego.”.
+
 **Art. 22.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 37:
+    - **a)** w § 11 pkt 1 otrzymuje brzmienie: „1) protokołu pisemnego innego niż ten, o którym mowa w § 2 pkt 2, stosuje się odpowiednio także przepisy art. 145, art. 148 § 1, 2, 3 i 4 i art. 149 § 2 Kodeksu postępowania karnego;”,
+    - **b)** dodaje się § 13 w brzmieniu: „§ 13. Na wniosek pokrzywdzonego lub świadka stosuje się odpowiednio przepisy art. 148 § 2a–2c oraz art. 156a Kodeksu postępowania karnego, chyba że utrudni to postępowanie lub sprzeciwia się temu ważny interes jego uczestnika. O prawie tym należy pokrzywdzonego i świadka pouczyć.”;
+
+- **2)** w art. 41 § 1 otrzymuje brzmienie: „§ 1. Przy przeprowadzaniu dowodu z zeznań świadka stosuje się odpowiednio przepisy art. 177, art. 178, art. 182, art. 183, art. 185–190, art. 191 § 1–2 oraz art. 192 Kodeksu postępowania karnego.”.
 
 **Art. 23.** W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228) w art. 5 w ust. 1 pkt 7 otrzymuje brzmienie: „7) zagrozi lub może zagrozić życiu lub zdrowiu świadków koronnych lub osób dla nich najbliższych, osób, którym udzielono środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21), albo świadków, o których mowa w art. 184 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, lub osób dla nich najbliższych.”.
 
 **Art. 24.** W ustawie z dnia 27 września 2013 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1247 oraz z 2014 r. poz. 1556 i 1778) wprowadza się następujące zmiany:
 
+- **1)** w art. 1: Postanowienie o zawieszeniu postępowania może wydać także referendarz sądowy.
+    - **a)** pkt 16 otrzymuje brzmienie: „16) art. 61 otrzymuje brzmienie: „Art. 61. § 1. W razie śmierci oskarżyciela prywatnego postępowanie zawiesza się, a osoby najbliższe lub osoby pozostające na utrzymaniu zmarłego mogą wstąpić w jego prawa.
+
+§ 2. Jeżeli w terminie zawitym 3 miesięcy od dnia śmierci oskarżyciela prywatnego osoba uprawniona nie wstąpi w prawa zmarłego, sąd lub referendarz sądowy umarza postępowanie.”;”,
+
+- **b)** w pkt 115: – w art. 349 w § 7 zdanie drugie otrzymuje brzmienie: „Przepisy art. 350 § 2–4 stosuje się odpowiednio.”, – w art. 350 dodaje się § 4 w brzmieniu: „§ 4. O terminie i miejscu rozprawy głównej zawiadamia się pokrzywdzonego.”;
+- **2)** w art. 18 pkt 13 otrzymuje brzmienie: „13) w art. 41 § 1 otrzymuje brzmienie: „§ 1. Przy przeprowadzaniu dowodu z zeznań świadka stosuje się odpowiednio przepisy art. 177, art. 178, art. 178a, art. 182, art. 183, art. 185–190, art. 191 § 1–2 oraz art. 192 Kodeksu postępowania karnego.”;”.
+
 **Art. 25.** Przepisy art. 148 § 2a–2c i art. 156a ustawy, o której mowa w art. 20 niniejszej ustawy, oraz art. 37 § 13 ustawy, o której mowa w art. 22 niniejszej ustawy, stosuje się do spraw wszczętych po dniu wejścia w życie niniejszej ustawy.
 
 **Art. 26.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 300 § 3 ustawy, o której mowa w art. 20 niniejszej ustawy, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 300 § 3 ustawy, o której mowa w art. 20 w brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 43 § 19 ustawy, o której mowa w art. 21 niniejszej ustawy, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 43 § 19 ustawy, o której mowa w art. 21 w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 27.**
 

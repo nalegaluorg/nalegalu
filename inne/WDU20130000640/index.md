@@ -8,10 +8,10 @@ pos: 640
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 czerwca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 640 ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 26 kwietnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000640) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/640/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 26 kwietnia 2013 r.
-w sprawie warunków technicznych, jakim powinny odpowiadać sieci gazowe i ich usytuowanie Na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm. ) zarządza się, co następuje:
+w sprawie warunków technicznych, jakim powinny odpowiadać sieci gazowe i ich usytuowanie Na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Przepisy rozporządzenia stosuje się przy projektowaniu, budowie, przebudowie sieci gazowej służącej do transportu gazu ziemnego.
 2. Przepisów rozporządzenia nie stosuje się do:
 1) sieci gazowych służących do transportu gazów technicznych i skroplonych gazów węglowodorowych (C3-C4);
 2) sieci gazowych w kanałach zbiorczych;
@@ -35,62 +35,63 @@ w sprawie warunków technicznych, jakim powinny odpowiadać sieci gazowe i ich u
 5) gazociągów podmorskich;
 6) sieci gazowych znajdujących się na terenach wojskowych.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) agregat sprężarkowy zespół silnika i sprężarki gazu ziemnego wraz z układem sterowania agregatem;
-2) ciśnienie nadciśnienie gazu wewnątrz sieci gazowej mierzone w warunkach statycznych;
-3) ciśnienie krytyczne szybkiej propagacji pęknięć ciśnienie w rurach z polietylenu, przy którym w temperaturze 273,15 K (0°C) następuje szybkie rozprzestrzenianie się w kierunku wzdłużnym pęknięć ścianki rury, wywołane przez czynniki zewnętrzne;
-4) ciśnienie robocze (OP) ciśnienie występujące w sieci gazowej w normalnych warunkach roboczych;
-5) gaz ziemny gaz palny wydobywany ze złóż podziemnych, którego głównym składnikiem palnym jest metan;
-6) gazociąg rurociąg wraz z wyposażeniem, ułożony na zewnątrz stacji gazowych, obiektów wydobywających, wytwarzających, magazynujących lub użytkujących gaz ziemny, służący do transportu gazu ziemnego;
-7) gazociąg zasilający gazociąg o maksymalnym ciśnieniu roboczym (MOP) do 1,6 MPa włącznie, do którego są podłączone przyłącza gazowe;
-8) instalacja technologiczna tłoczni gazu gazociągi wraz z armaturą i urządzeniami oraz orurowaniem agregatów sprężarkowych doprowadzające i odprowadzające gaz ziemny, znajdujące się między układami odcinającymi na wejściu i wyjściu z tłoczni gazu;
-9) klasa lokalizacji klasyfikację terenu, w którym jest lokalizowany gazociąg, ocenianą według stopnia urbanizacji terenu, przez który gazociąg ten przebiega;
-10) magazyn gazu ziemnego zbiornik ciśnieniowy, zbiornik kriogeniczny gazu ziemnego lub podziemny bezzbiornikowy magazyn, wraz z urządzeniami do zatłaczania i odbioru gazu ziemnego, redukcji ciśnienia, pomiarów oraz osuszania i podgrzewania gazu ziemnego;
-11) maksymalne ciśnienie przypadkowe (MIP) maksymalne ciśnienie, na jakie sieć gazowa może być narażona w ciągu krótkiego okresu czasu, jednak nie większe niż ciśnienie próby wytrzymałości sieci gazowej, ograniczone przez system ciśnieniowego bezpieczeństwa;
-12) maksymalne ciśnienie robocze (MOP) maksymalne ciśnienie, przy którym sieć gazowa może pracować w sposób ciągły przy braku zakłóceń w urządzeniach i przepływie gazu ziemnego;
-13) minimalna żądana wytrzymałość (MRS) prognozowaną wytrzymałość hydrostatyczną rur z polietylenu po 50 latach ich użytkowania w temperaturze 293,15 K (20°C);
-14) obiekty sieci gazowej gazociągi, przyłącza gazowe, stacje gazowe, tłocznie gazu oraz magazyny gazu wraz z układami rurowymi, a także wejścia, wyjścia lub obejścia i inne instalacje towarzyszące;
-15) ochrona katodowa ochronę elektrochemiczną uzyskaną przez obniżenie potencjału korozyjnego do poziomu, przy którym szybkość korozji metalu ulega znacznemu zmniejszeniu;
-16) orurowanie agregatów sprężarkowych rurociągi wraz z armaturą, łączące sprężarkę z gazociągiem ssącym i tłocznym oraz z jej poszczególnymi stopniami sprężania;
-17) próba ciśnieniowa poddanie sieci gazowej ciśnieniu próbnemu, większemu od maksymalnego ciśnienia roboczego (MOP) w celu sprawdzenia jej bezpiecznego funkcjonowania;
-18) próba łączona wytrzymałości i szczelności próbę ciśnieniową przeprowadzaną w celu sprawdzenia, czy sieć gazowa spełnia wymagania wytrzymałości mechanicznej i szczelności;
-19) próba specjalna wytrzymałości próbę ciśnieniową hydrostatyczną obciążania gazociągów stalowych, w dolnej granicy plastyczności R materiału rur i armatury, przeprowadzoną w celu sprawdzenia i poprawienia jego właściwości wytrzymałościowych;
-20) próba szczelności próbę ciśnieniową hydrostatyczną lub pneumatyczną przeprowadzaną w celu sprawdzenia, czy sieć gazowa spełnia wymagania szczelności;
-21) próba wytrzymałości próbę ciśnieniową hydrostatyczną lub pneumatyczną przeprowadzaną w celu sprawdzenia, czy dana sieć gazowa spełnia wymagania wytrzymałości mechanicznej;
-22) przewód wejściowy stacji gazowej odcinek rurociągu łączący armaturę odcinającą na wejściu do stacji gazowej z zespołem zaporowo-upustowym;
-23) przewód wyjściowy stacji gazowej odcinek rurociągu łączący armaturę odcinającą na wyjściu ze stacji gazowej z zespołem zaporowo-upustowym;
-24) przyłącze gazowe odcinek gazociągu od gazociągu zasilającego do kurka głównego służący do przyłączania instalacji gazowej, którego częścią może być zespół gazowy, w tym punkt gazowy lub stacja gazowa;
-25) punkt gazowy zespół gazowy na przyłączu służący do redukcji ciśnienia, pomiaru ilości gazu ziemnego o strumieniu przepływającego gazu do 60 m /h włącznie i o maksymalnym ciśnieniu roboczym (MOP) na wejściu do 0,5 MPa włącznie;
-26) rura osłonowa rurę zamontowaną w celu ochrony umieszczonego w niej gazociągu przed uszkodzeniem mechanicznym;
-27) sieć gazowa obiekty sieci gazowej połączone i współpracujące ze sobą, służące do transportu gazu ziemnego;
-28) skrzyżowanie miejsce, w którym gazociąg przebiega pod lub nad obiektami budowlanymi, takimi jak: droga, linia kolejowa, lub obiektami terenowymi, takimi jak: rzeka, kanał, grobla;
-29) stacja gazowa zespół urządzeń lub obiekt budowlany wchodzący w skład sieci gazowej, spełniający co najmniej jedną z funkcji: redukcji, uzdatnienia, pomiarów lub rozdziału gazu ziemnego, z wyłączeniem zespołu gazowego na przyłączu;
-30) strefa kontrolowana obszar wyznaczony po obu stronach osi gazociągu, którego linia środkowa pokrywa się z osią gazociągu, w którym przedsiębiorstwo energetyczne zajmujące się transportem gazu ziemnego podejmuje czynności w celu zapobieżenia działalności mogącej mieć negatywny wpływ na trwałość i prawidłowe użytkowanie gazociągu;
-31) system ciśnieniowego bezpieczeństwa układ, który niezależnie od systemu redukcji ciśnienia zapewnia, że ciśnienie na wyjściu z systemu redukcji ciśnienia nie przekroczy maksymalnego ciśnienia przypadkowego (MIP);
-32) system sterowania ciśnieniem wraz z układem telemetrii układ zawierający reduktory ciśnienia, system ciśnieniowego bezpieczeństwa, urządzenia rejestrujące ciśnienie oraz systemy alarmowe i telemetryczne;
-33) system redukcji ciśnienia układ zawierający reduktor lub zespół reduktorów zapewniający utrzymanie ciśnienia w wymaganych granicach;
-34) system sterowania ciśnieniem układ obejmujący systemy redukcji ciśnienia, system ciśnieniowego bezpieczeństwa oraz układ zdalnego monitorowania i sterowania systemem sieci gazowej;
-35) tłocznia gazu zespół urządzeń do sprężania, regulacji i bezpieczeństwa wraz z instalacjami zasilającymi i pomocniczymi, spełniający oddzielnie lub równocześnie funkcje: przetłaczania gazu ziemnego, podwyższania ciśnienia gazu ziemnego ze złóż i magazynów gazu oraz zatłaczania gazu ziemnego do tych magazynów;
-36) układ sterowania agregatem układ uruchamiania, wyłączania, kontrolowania pracy i zabezpieczenia agregatu sprężarkowego;
-37) układ sterowania tłocznią gazu układ nadzorowania, kontrolowania pracy i zabezpieczenia tłoczni gazu wraz z układami sterowania agregatem;
-38) urządzenie regulujące ciśnienie reduktor lub regulator ciśnienia, zapewniający utrzymanie ciśnienia na określonym poziomie;
-39) współczynnik projektowy współczynnik charakteryzujący stopień zredukowania naprężeń obwodowych w gazociągach w stosunku do normatywnej granicy plastyczności R stali, stanowiący odwrotność współczynnika bezpieczeństwa;
-40) w ydmuchowy zawór upustowy zawór używany w systemie ciśnieniowego bezpieczeństwa, mający na celu upuszczenie gazu ziemnego z układu będącego pod ciśnieniem, w przypadku wystąpienia w nim ciśnienia przekraczającego wartość dopuszczalną;
-41) z akład górniczy wydobywający gaz ziemny wyodrębniony technicznie i organizacyjnie zespół obiektów, w tym: odwiertów, urządzeń i instalacji technicznych służących bezpośrednio do wydobywania gazu ziemnego ze złoża, a także obiekty budowlane i technologiczne oraz związane z nimi obiekty i urządzenia przeróbcze służące bezpośrednio do wydobywania gazu ziemnego ze złoża i jego uzdatniania;
-42) z espół gazowy na przyłączu instalację stanowiącą zespół urządzeń służących do redukcji ciśnienia oraz pomiaru ilości gazu ziemnego o strumieniu gazu do 200 m /h włącznie, o maksymalnym ciśnieniu roboczym (MOP) na wejściu powyżej 0,5 MPa do 1,6 MPa włącznie lub o strumieniu gazu do 300 m /h o maksymalnym ciśnieniu roboczym (MOP) na wejściu do 0,5 MPa włącznie.
+1) agregat sprężarkowy – zespół silnika i sprężarki gazu ziemnego wraz z układem sterowania agregatem;
+2) ciśnienie – nadciśnienie gazu wewnątrz sieci gazowej mierzone w warunkach statycznych;
+3) ciśnienie krytyczne szybkiej propagacji pęknięć – ciśnienie w rurach z polietylenu, przy którym w temperaturze 273,15 K (0°C) następuje szybkie rozprzestrzenianie się w kierunku wzdłużnym pęknięć ścianki rury, wywołane przez czynniki zewnętrzne;
+4) ciśnienie robocze (OP) – ciśnienie występujące w sieci gazowej w normalnych warunkach roboczych;
+5) gaz ziemny – gaz palny wydobywany ze złóż podziemnych, którego głównym składnikiem palnym jest metan;
+6) gazociąg – rurociąg wraz z wyposażeniem, ułożony na zewnątrz stacji gazowych, obiektów wydobywających, wytwarzających, magazynujących lub użytkujących gaz ziemny, służący do transportu gazu ziemnego;
+7) gazociąg zasilający – gazociąg o maksymalnym ciśnieniu roboczym (MOP) do 1,6 MPa włącznie, do którego są podłączone przyłącza gazowe;
+8) instalacja technologiczna tłoczni gazu – gazociągi wraz z armaturą i urządzeniami oraz orurowaniem agregatów sprężarkowych doprowadzające i odprowadzające gaz ziemny, znajdujące się między układami odcinającymi na wejściu i wyjściu z tłoczni gazu;
+9) klasa lokalizacji – klasyfikację terenu, w którym jest lokalizowany gazociąg, ocenianą według stopnia urbanizacji terenu, przez który gazociąg ten przebiega;
+10) magazyn gazu ziemnego – zbiornik ciśnieniowy, zbiornik kriogeniczny gazu ziemnego lub podziemny bezzbiornikowy magazyn, wraz z urządzeniami do zatłaczania i odbioru gazu ziemnego, redukcji ciśnienia, pomiarów oraz osuszania i podgrzewania gazu ziemnego;
+11) maksymalne ciśnienie przypadkowe (MIP) – maksymalne ciśnienie, na jakie sieć gazowa może być narażona w ciągu krótkiego okresu czasu, jednak nie większe niż ciśnienie próby wytrzymałości sieci gazowej, ograniczone przez system ciśnieniowego bezpieczeństwa;
+12) maksymalne ciśnienie robocze (MOP) – maksymalne ciśnienie, przy którym sieć gazowa może pracować w sposób ciągły przy braku zakłóceń w urządzeniach i przepływie gazu ziemnego;
+13) minimalna żądana wytrzymałość (MRS) – prognozowaną wytrzymałość hydrostatyczną rur z polietylenu po 50 latach ich użytkowania w temperaturze 293,15 K (20°C);
+14) obiekty sieci gazowej – gazociągi, przyłącza gazowe, stacje gazowe, tłocznie gazu oraz magazyny gazu wraz z układami rurowymi, a także wejścia, wyjścia lub obejścia i inne instalacje towarzyszące;
+15) ochrona katodowa – ochronę elektrochemiczną uzyskaną przez obniżenie potencjału korozyjnego do poziomu, przy którym szybkość korozji metalu ulega znacznemu zmniejszeniu;
+16) orurowanie agregatów sprężarkowych – rurociągi wraz z armaturą, łączące sprężarkę z gazociągiem ssącym i tłocznym oraz z jej poszczególnymi stopniami sprężania;
+17) próba ciśnieniowa – poddanie sieci gazowej ciśnieniu próbnemu, większemu od maksymalnego ciśnienia roboczego (MOP) w celu sprawdzenia jej bezpiecznego funkcjonowania;
+18) próba łączona wytrzymałości i szczelności – próbę ciśnieniową przeprowadzaną w celu sprawdzenia, czy sieć gazowa spełnia wymagania wytrzymałości mechanicznej i szczelności;
+19) próba specjalna wytrzymałości – próbę ciśnieniową hydrostatyczną obciążania gazociągów stalowych, w dolnej granicy plastyczności R materiału rur i armatury, przeprowadzoną w celu sprawdzenia i poprawienia jego właściwości wytrzymałościowych;
+20) próba szczelności – próbę ciśnieniową hydrostatyczną lub pneumatyczną przeprowadzaną w celu sprawdzenia, czy sieć gazowa spełnia wymagania szczelności;
+21) próba wytrzymałości – próbę ciśnieniową hydrostatyczną lub pneumatyczną przeprowadzaną w celu sprawdzenia, czy dana sieć gazowa spełnia wymagania wytrzymałości mechanicznej;
+22) przewód wejściowy stacji gazowej – odcinek rurociągu łączący armaturę odcinającą na wejściu do stacji gazowej z zespołem zaporowo-upustowym;
+23) przewód wyjściowy stacji gazowej – odcinek rurociągu łączący armaturę odcinającą na wyjściu ze stacji gazowej z zespołem zaporowo-upustowym;
+24) przyłącze gazowe – odcinek gazociągu od gazociągu zasilającego do kurka głównego służący do przyłączania instalacji gazowej, którego częścią może być zespół gazowy, w tym punkt gazowy lub stacja gazowa;
+25) punkt gazowy – zespół gazowy na przyłączu służący do redukcji ciśnienia, pomiaru ilości gazu ziemnego o strumieniu przepływającego gazu do 60 m /h włącznie i o maksymalnym ciśnieniu roboczym (MOP) na wejściu do 0,5 MPa włącznie;
+26) rura osłonowa – rurę zamontowaną w celu ochrony umieszczonego w niej gazociągu przed uszkodzeniem mechanicznym;
+27) sieć gazowa – obiekty sieci gazowej połączone i współpracujące ze sobą, służące do transportu gazu ziemnego;
+28) skrzyżowanie – miejsce, w którym gazociąg przebiega pod lub nad obiektami budowlanymi, takimi jak: droga, linia kolejowa, lub obiektami terenowymi, takimi jak: rzeka, kanał, grobla;
+29) stacja gazowa – zespół urządzeń lub obiekt budowlany wchodzący w skład sieci gazowej, spełniający co najmniej jedną z funkcji: redukcji, uzdatnienia, pomiarów lub rozdziału gazu ziemnego, z wyłączeniem zespołu gazowego na przyłączu;
+30) strefa kontrolowana – obszar wyznaczony po obu stronach osi gazociągu, którego linia środkowa pokrywa się z osią gazociągu, w którym przedsiębiorstwo energetyczne zajmujące się transportem gazu ziemnego podejmuje czynności w celu zapobieżenia działalności mogącej mieć negatywny wpływ na trwałość i prawidłowe użytkowanie gazociągu;
+31) system ciśnieniowego bezpieczeństwa – układ, który niezależnie od systemu redukcji ciśnienia zapewnia, że ciśnienie na wyjściu z systemu redukcji ciśnienia nie przekroczy maksymalnego ciśnienia przypadkowego (MIP);
+32) system sterowania ciśnieniem wraz z układem telemetrii – układ zawierający reduktory ciśnienia, system ciśnieniowego bezpieczeństwa, urządzenia rejestrujące ciśnienie oraz systemy alarmowe i telemetryczne;
+33) system redukcji ciśnienia – układ zawierający reduktor lub zespół reduktorów zapewniający utrzymanie ciśnienia w wymaganych granicach;
+34) system sterowania ciśnieniem – układ obejmujący systemy redukcji ciśnienia, system ciśnieniowego bezpieczeństwa oraz układ zdalnego monitorowania i sterowania systemem sieci gazowej;
+35) tłocznia gazu – zespół urządzeń do sprężania, regulacji i bezpieczeństwa wraz z instalacjami zasilającymi i pomocniczymi, spełniający oddzielnie lub równocześnie funkcje: przetłaczania gazu ziemnego, podwyższania ciśnienia gazu ziemnego ze złóż i magazynów gazu oraz zatłaczania gazu ziemnego do tych magazynów;
+36) układ sterowania agregatem – układ uruchamiania, wyłączania, kontrolowania pracy i zabezpieczenia agregatu sprężarkowego;
+37) układ sterowania tłocznią gazu – układ nadzorowania, kontrolowania pracy i zabezpieczenia tłoczni gazu wraz z układami sterowania agregatem;
+38) urządzenie regulujące ciśnienie – reduktor lub regulator ciśnienia, zapewniający utrzymanie ciśnienia na określonym poziomie;
+39) współczynnik projektowy – współczynnik charakteryzujący stopień zredukowania naprężeń obwodowych w gazociągach w stosunku do normatywnej granicy plastyczności R stali, stanowiący odwrotność współczynnika bezpieczeństwa;
+40) wydmuchowy zawór upustowy – zawór używany w systemie ciśnieniowego bezpieczeństwa, mający na celu upuszczenie gazu ziemnego z układu będącego pod ciśnieniem, w przypadku wystąpienia w nim ciśnienia przekraczającego wartość dopuszczalną;
+41) zakład górniczy wydobywający gaz ziemny – wyodrębniony technicznie i organizacyjnie zespół obiektów, w tym: odwiertów, urządzeń i instalacji technicznych służących bezpośrednio do wydobywania gazu ziemnego ze złoża, a także obiekty budowlane i technologiczne oraz związane z nimi obiekty i urządzenia przeróbcze służące bezpośrednio do wydobywania gazu ziemnego ze złoża i jego uzdatniania;
+42) zespół gazowy na przyłączu – instalację stanowiącą zespół urządzeń służących do redukcji ciśnienia oraz pomiaru ilości gazu ziemnego o strumieniu gazu do 200 m /h włącznie, o maksymalnym ciśnieniu roboczym (MOP) na wejściu powyżej 0,5 MPa do 1,6 MPa włącznie lub o strumieniu gazu do 300 m /h o maksymalnym ciśnieniu roboczym (MOP) na wejściu do 0,5 MPa włącznie.
 § 3. Przy projektowaniu, budowie sieci gazowej, a także jej przebudowie należy uwzględniać warunki geologiczne, hydrologiczne, wymagania bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej, ochrony środowiska i ochrony zabytków oraz infrastrukturę i zabudowę terenu.
 § 4. Sieć gazową projektuje się, buduje, a także dokonuje jej przebudowy w sposób zapewniający jej bezpieczne użytkowanie i utrzymanie oraz transport gazu ziemnego w ilościach wynikających z bieżącego i planowanego zapotrzebowania na gaz ziemny.
 § 5. 1. Wykaz Polskich Norm powołanych w rozporządzeniu określa załącznik nr 1 do rozporządzenia.
 2. Wymagań określonych w Polskich Normach i powołanych w rozporządzeniu nie stosuje się do:
-1) elementów stosowanych do budowy sieci gazowej, wyprodukowanych lub wprowadzonych do obrotu w innym państwie członkowskim Unii Europejskiej, w Turcji lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym zgodnie z przepisami obowiązującymi w tych państwach, oraz
-2) robót wykonywanych podczas projektowania, budowy lub przebudowy sieci gazowej zgodnie z przepisami obowiązującymi w innym państwie członkowskim Unii Europejskiej, w Turcji lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym pod warunkiem że przepisy te zapewniają ochronę zdrowia oraz życia ludzi i zwierząt, ochronę środowiska, w stopniu odpowiadającym przepisom niniejszego rozporządzenia.
-1) m aksymalnego ciśnienia roboczego (MOP) na:
-a) g azociągi niskiego ciśnienia do 10,0 kPa włącznie,
-b) g azociągi średniego ciśnienia powyżej 10,0 kPa do 0,5 MPa włącznie,
-c) g azociągi podwyższonego średniego ciśnienia powyżej 0,5 MPa do 1,6 MPa włącznie,
-d) g azociągi wysokiego ciśnienia powyżej 1,6 MPa;
-2) s tosowanych materiałów na:
-a) g azociągi stalowe,
-b) g azociągi z polietylenu.
+1) elementów stosowanych do budowy sieci gazowej, wyprodukowanych lub wprowadzonych do obrotu w innym państwie członkowskim Unii Europejskiej, w Turcji lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym zgodnie z przepisami obowiązującymi w tych państwach, oraz
+2) robót wykonywanych podczas projektowania, budowy lub przebudowy sieci gazowej zgodnie z przepisami obowiązującymi w innym państwie członkowskim Unii Europejskiej, w Turcji lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym – pod warunkiem że przepisy te zapewniają ochronę zdrowia oraz życia ludzi i zwierząt, ochronę środowiska, w stopniu odpowiadającym przepisom niniejszego rozporządzenia.
+§ 6. Gazociągi dzieli się według:
+1) maksymalnego ciśnienia roboczego (MOP) na:
+a) gazociągi niskiego ciśnienia do 10,0 kPa włącznie,
+b) gazociągi średniego ciśnienia powyżej 10,0 kPa do 0,5 MPa włącznie,
+c) gazociągi podwyższonego średniego ciśnienia powyżej 0,5 MPa do 1,6 MPa włącznie,
+d) gazociągi wysokiego ciśnienia powyżej 1,6 MPa;
+2) stosowanych materiałów na:
+a) gazociągi stalowe,
+b) gazociągi z polietylenu.
 § 7. 1. Teren o zabudowie budynkami zamieszkania zbiorowego oraz obiektami użyteczności publicznej, o zabudowie jedno- lub wielorodzinnej, intensywnym ruchu kołowym, rozwiniętej infrastrukturze podziemnej, takiej jak sieci wodociągowe, kanalizacyjne, cieplne, gazowe, energetyczne i telekomunikacyjne, oraz ulice, drogi i tereny górnicze zalicza się do pierwszej klasy lokalizacji.
 2. Teren o zabudowie jednorodzinnej i zagrodowej, zabudowie budynkami rekreacji indywidualnej, a także niezbędnej dla nich infrastrukturze zalicza się do drugiej klasy lokalizacji.
 3. Teren niezabudowany oraz teren, na którym mogą się znajdować tylko pojedyncze budynki jednorodzinne, gospodarcze i inwentarskie oraz niezbędna dla nich infrastruktura, zalicza się do trzeciej klasy lokalizacji.
@@ -98,7 +99,7 @@ b) g azociągi z polietylenu.
 § 8. 1. Dopuszcza się lokalizowanie gazociągów:
 1) w drogowych obiektach inżynierskich, w tym:
 a) w tunelach o długości nieprzekraczającej 500 m, z zastrzeżeniem pkt 2,
-b) na obiektach mostowych w sposób określony w przepisach dotyczących warunków technicznych, jakim powinny odpowiadać obiekty inżynierskie i ich usytuowanie;
+b) na obiektach mostowych – w sposób określony w przepisach dotyczących warunków technicznych, jakim powinny odpowiadać obiekty inżynierskie i ich usytuowanie;
 2) w kanałach i innych obudowanych przestrzeniach, pod warunkiem że są one wentylowane lub wypełnione piaskiem albo innym materiałem niepalnym lub zamontowano na gazociągu rurę osłonową;
 3) na terenach leśnych, górzystych, podmokłych lub bagnistych, pokrytych wodami powierzchniowymi oraz nad innymi przeszkodami terenowymi.
 2. Gazociągi układane w miejscach narażonych na ryzyko ich przemieszczania należy odpowiednio zabezpieczyć.
@@ -107,9 +108,9 @@ Na terenach górniczych gazociągi należy zabezpieczyć przed szkodliwym oddzia
 4. Projektując gazociąg układany na podporach lub zawieszeniach, należy uwzględnić naprężenia wywołane wzajemnym oddziaływaniem oraz zmianami długości spowodowanymi wpływem temperatury otoczenia.
 5. Trasę gazociągu i armaturę należy trwale oznakować w terenie.
 § 9. 1. Naprężenia obwodowe gazociągu stalowego, w warunkach statycznych, wywoływane maksymalnym ciśnieniem roboczym (MOP) powyżej 0,5 MPa nie powinny przekraczać iloczynu rzeczywistej minimalnej wartości granicy plastyczności R i współczynnika projektowego wynoszącego dla:
-1) pierwszej klasy lokalizacji 0,40;
-2) drugiej klasy lokalizacji 0,60;
-3) trzeciej klasy lokalizacji 0,72.
+1) pierwszej klasy lokalizacji – 0,40;
+2) drugiej klasy lokalizacji – 0,60;
+3) trzeciej klasy lokalizacji – 0,72.
 2. Naprężenia obwodowe gazociągu stalowego, w warunkach statycznych, wywoływane maksymalnym ciśnieniem roboczym (MOP) mniejszym lub równym 0,5 MPa nie powinny przekraczać iloczynu rzeczywistej minimalnej wartości granicy plastyczności R i współczynnika projektowego wynoszącego 0,4.
 3. Dopuszcza się, na terenach zaliczanych do pierwszej i drugiej klasy lokalizacji, lokalizowanie gazociągu stalowego o maksymalnym ciśnieniu roboczym (MOP) równym lub większym niż 4,0 MPa, zmianę parametrów jego pracy, w tym zmianę maksymalnego ciśnienia roboczego (MOP), jeżeli naprężenia obwodowe w warunkach statycznych wywołane maksymalnym ciśnieniem roboczym (MOP) nie przekroczą iloczynu normatywnej wartości granicy plastyczności R i współczynnika projektowego wynoszącego 0,6 oraz została przeprowadzona próba specjalna wytrzymałości gazociągu.
 § 10. 1. Dla gazociągów należy wyznaczyć, na okres ich użytkowania, strefy kontrolowane.
@@ -118,13 +119,13 @@ Na terenach górniczych gazociągi należy zabezpieczyć przed szkodliwym oddzia
 4. W strefach kontrolowanych nie mogą rosnąć drzewa w odległości mniejszej niż 2,0 m od gazociągów o średnicy do DN 300 włącznie i 3,0 m od gazociągów o średnicy większej niż DN 300, licząc od osi gazociągu do pni drzew. Wszelkie prace w strefach kontrolowanych mogą być prowadzone tylko po wcześniejszym uzgodnieniu sposobu ich wykonania z właściwym operatorem sieci gazowej.
 5. Jeżeli w planach uzbrojenia podziemnego nie przewidziano stref kontrolowanych dla gazociągów budowanych w pasach drogowych na terenach miejskich i wiejskich, lokalizację strefy kontrolowanej należy ustalić w dokumentacji projektowej gazociągu, po uzgodnieniu z zarządcą drogi.
 6. Szerokość stref kontrolowanych, o których mowa w ust. 1, powinna wynosić dla gazociągów o maksymalnym ciśnieniu roboczym (MOP):
-1) do 0,5 MPa włącznie 1,0 m;
-2) powyżej 0,5 MPa do 1,6 MPa włącznie 2,0 m;
+1) do 0,5 MPa włącznie – 1,0 m;
+2) powyżej 0,5 MPa do 1,6 MPa włącznie – 2,0 m;
 3) powyżej 1,6 MPa oraz o średnicy:
-a) d o DN 150 włącznie 4,0 m,
-b) p owyżej DN 150 do DN 300 włącznie 6,0 m,
-c) p owyżej DN 300 do DN 500 włącznie 8,0 m,
-d) p owyżej DN 500 12,0 m.
+a) do DN 150 włącznie – 4,0 m,
+b) powyżej DN 150 do DN 300 włącznie – 6,0 m,
+c) powyżej DN 300 do DN 500 włącznie – 8,0 m,
+d) powyżej DN 500 – 12,0 m.
 § 11. Naprężenia obwodowe gazociągu z polietylenu, w warunkach statycznych, wywoływane maksymalnym ciśnieniem roboczym (MOP), nie powinny przekraczać iloczynu wartości minimalnej żądanej wytrzymałości (MRS) i współczynnika projektowego wynoszącego 0,5.
 § 12. 1. Sposób dokonywania obliczeń wytrzymałościowych gazociągów, o których mowa w § 9 i § 11, w warunkach obciążeń statycznych i dynamicznych, określają Polskie Normy dotyczące systemów dostaw gazu.
 2. Dla projektowanego gazociągu stalowego o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie lub z polietylenu o maksymalnym ciśnieniu roboczym (MOP) do 1,0 MPa włącznie nie jest wymagane wykonywanie obliczeń wytrzymałościowych, a dobór rur i armatury dla przyjętego maksymalnego ciśnienia roboczego (MOP) i obliczeniowej średnicy odbywa się zgodnie z Polskimi Normami dotyczącymi systemów dostaw gazu.
@@ -132,80 +133,81 @@ d) p owyżej DN 500 12,0 m.
 2. Projektując elementy i obiekty sieci gazowej, należy uwzględniać wzajemne oddziaływanie sił między łączonymi elementami i urządzeniami.
 3. Gazociąg powinien być projektowany i budowany z uwzględnieniem wymagań określonych w przepisach dotyczących warunków technicznych dla innych obiektów budowlanych.
 § 14. 1. Gazociągi budowane wzdłuż:
-1) dróg publicznych powinny być usytuowane zgodnie z przepisami o drogach publicznych;
-2) torów kolejowych powinny być usytuowane zgodnie z przepisami o transporcie kolejowym;
-3) ogrodzeń lotnisk powinny być usytuowane zgodnie z przepisami dotyczącymi wymagań technicznych i eksploatacyjnych w stosunku do lotnisk.
-2. Projekty skrzyżowania gazociągu z drogą lub ułożenia gazociągu wzdłuż drogi należy uzgodnić z właściwym zarządcą drogi, a w przypadku skrzyżowania gazociągu z torami linii kolejowej lub ułożenia gazociągu wzdłuż linii kolejowej z zarządcą infrastruktury kolejowej.
+1) dróg publicznych – powinny być usytuowane zgodnie z przepisami o drogach publicznych;
+2) torów kolejowych – powinny być usytuowane zgodnie z przepisami o transporcie kolejowym;
+3) ogrodzeń lotnisk – powinny być usytuowane zgodnie z przepisami dotyczącymi wymagań technicznych i eksploatacyjnych w stosunku do lotnisk.
+2. Projekty skrzyżowania gazociągu z drogą lub ułożenia gazociągu wzdłuż drogi należy uzgodnić z właściwym zarządcą drogi, a w przypadku skrzyżowania gazociągu z torami linii kolejowej lub ułożenia gazociągu wzdłuż linii kolejowej – z zarządcą infrastruktury kolejowej.
 3. Odległość pionowa mierzona od górnej zewnętrznej ścianki gazociągu lub górnej zewnętrznej ścianki rury osłonowej powinna wynosić nie mniej niż:
-1) 1 ,0 m do powierzchni jezdni, przy czym nie miej niż 0,5 m od spodu konstrukcji nawierzchni;
-2) 1 ,5 m do płaszczyzny przechodzącej przez główki szyn toru kolejowego;
-3) 0 ,5 m do rzędnej dna rowu przydrożnego, a w przypadku linii kolejowej do rzędnej dna rowu odwadniającego tory kolejowe naniesionych na mapach geodezyjnych.
+1) 1,0 m do powierzchni jezdni, przy czym nie miej niż 0,5 m od spodu konstrukcji nawierzchni;
+2) 1,5 m do płaszczyzny przechodzącej przez główki szyn toru kolejowego;
+3) 0,5 m do rzędnej dna rowu przydrożnego, a w przypadku linii kolejowej do rzędnej dna rowu odwadniającego tory kolejowe naniesionych na mapach geodezyjnych.
 4. Kąt skrzyżowania gazociągu z torami kolejowymi lub drogami krajowymi powinien być zbliżony do 90°, lecz nie mniejszy niż 60°.
 § 15. 1. Projekt skrzyżowania gazociągu z przeszkodami wodnymi należy uzgodnić z właściwym zarządcą.
 2. Odległość pionowa mierzona od górnej zewnętrznej ścianki gazociągu nie może być mniejsza niż:
-1) 1 ,0 m do dolnej granicy warstwy ruchomej dna rzeki, kanału wodnego, jeziora i innej przeszkody wodnej;
-2) 0 ,5 m do dna skalistego.
-3. Dla gazociągu ułożonego nad powierzchnią wody odległość pionowa od dolnej zewnętrznej ścianki gazociągu do powierzchni maksymalnego poziomu wody nie może być mniejsza niż 1,0 m, a dla szlaków żeglownych dodatkowo 1,5 m ponad skrajnię żeglugową.
+1) 1,0 m – do dolnej granicy warstwy ruchomej dna rzeki, kanału wodnego, jeziora i innej przeszkody wodnej;
+2) 0,5 m – do dna skalistego.
+3. Dla gazociągu ułożonego nad powierzchnią wody odległość pionowa od dolnej zewnętrznej ścianki gazociągu do powierzchni maksymalnego poziomu wody nie może być mniejsza niż 1,0 m, a dla szlaków żeglownych – dodatkowo 1,5 m ponad skrajnię żeglugową.
 4. Miejsca skrzyżowania gazociągu z żeglownymi szlakami wodnymi, po obu brzegach przeszkody wodnej, należy oznakować zakazem kotwiczenia oraz zakazem postoju dla jednostek pływających na szerokości odpowiadającej co najmniej szerokości strefy kontrolowanej.
 § 16. Przy skrzyżowaniach gazociągu, o których mowa w § 14 ust. 2 i § 15 ust. 1, naprężenia obwodowe gazociągu stalowego w warunkach statycznych wywołane maksymalnym ciśnieniem roboczym (MOP) nie powinny przekraczać iloczynu minimalnej wartości granicy plastyczności R i współczynnika projektowego 0,4 na długości co najmniej 10,0 m od krawędzi utwardzonej powierzchni drogi, linii kolejowej lub granicy przeszkody wodnej.
 § 17. 1. Przy skrzyżowaniu lub zbliżeniu gazociągu stalowego z elektroenergetyczną linią napowietrzną odległość pozioma rzutu fundamentu słupa linii elektroenergetycznej o napięciu do 15,0 kV włącznie do ścianki gazociągu nie może być mniejsza niż:
-1) 0 ,5 m dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie;
-2) 3 ,0 m dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa.
+1) 0,5 m – dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie;
+2) 3,0 m – dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa.
 2. Odległość pozioma rzutu fundamentu słupa linii elektroenergetycznej o napięciu powyżej 15,0 kV do ścianki gazociągu stalowego nie może być mniejsza niż:
-1) 5 ,0 m dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie;
-2) 1 0,0 m dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa.
+1) 5,0 m – dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie;
+2) 10,0 m – dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa.
 3. Odległość uziemienia słupa linii elektroenergetycznej od ścianki gazociągu stalowego, niezależnie od występującego w nim maksymalnego ciśnienia roboczego (MOP), nie może być mniejsza niż 2,0 m.
 4. Przy skrzyżowaniu lub zbliżeniu gazociągu polietylenowego z linią elektroenergetyczną napowietrzną odległość pozioma rzutu fundamentu słupa linii elektroenergetycznej o napięciu do 15,0 kV włącznie od gazociągu nie może być mniejsza niż:
-1) 0 ,5 m dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie;
-2) 2 ,0 m dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa do 1,0 MPa włącznie.
+1) 0,5 m – dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie;
+2) 2,0 m – dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa do 1,0 MPa włącznie.
 5. Kąt skrzyżowania gazociągu stalowego z linią elektroenergetyczną napowietrzną dla gazociągu ułożonego w gruncie nie może być mniejszy niż 30º.
 6. Odległość pionowa ścianki gazociągu układanego nad gruntem od przewodów linii elektroenergetycznej w skrajnych warunkach zwisu dla linii elektroenergetycznej nie może być mniejsza niż:
-1) 3 ,0 m dla linii elektroenergetycznej o napięciu do 15,0 kV włącznie;
-2) 5 ,0 m dla linii elektroenergetycznej o napięciu powyżej 15,0 kV.
+1) 3,0 m – dla linii elektroenergetycznej o napięciu do 15,0 kV włącznie;
+2) 5,0 m – dla linii elektroenergetycznej o napięciu powyżej 15,0 kV.
 7. Odległość gazociągu stalowego od obrysu zewnętrznego uziemienia elektroenergetycznej stacji transformatorów nie może być mniejsza niż:
-1) 5 ,0 m od granicy strefy kontrolowanej wyznaczonej dla tego gazociągu dla elektroenergetycznych stacji transformatorów o napięciu do 15,0 kV włącznie;
-2) 8 ,0 m od granicy strefy kontrolowanej wyznaczonej dla tego gazociągu dla elektroenergetycznych stacji transformatorów o napięciu powyżej 15,0 kV.
+1) 5,0 m – od granicy strefy kontrolowanej wyznaczonej dla tego gazociągu dla elektroenergetycznych stacji transformatorów o napięciu do 15,0 kV włącznie;
+2) 8,0 m – od granicy strefy kontrolowanej wyznaczonej dla tego gazociągu dla elektroenergetycznych stacji transformatorów o napięciu powyżej 15,0 kV.
 8. Odległość granicy strefy kontrolowanej gazociągu stalowego od rzutu skrajnego przewodu linii elektroenergetycznej napowietrznej nie może być mniejsza niż:
-1) s zerokość strefy kontrolowanej dla linii elektroenergetycznej o napięciu do 1,0 kV włącznie;
-2) 3 ,0 m dla linii elektroenergetycznej o napięciu do 15,0 kV włącznie;
+1) szerokość strefy kontrolowanej – dla linii elektroenergetycznej o napięciu do 1,0 kV włącznie;
+2) 3,0 m – dla linii elektroenergetycznej o napięciu do 15,0 kV włącznie;
+3) 5,0 m – dla linii elektroenergetycznej o napięciu powyżej 15,0 kV.
 § 18. 1. Przy skrzyżowaniu lub zbliżeniu gazociągu z linią telekomunikacyjną napowietrzną odległość pozioma ścianki gazociągu do rzutu fundamentu słupa linii telekomunikacyjnej oraz do rzutu fundamentu innych słupów, podpór i masztów nie może być mniejsza niż:
-1) 0,5 m dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie;
-2) 2,0 m dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa.
+1) 0,5 m – dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie;
+2) 2,0 m – dla gazociągu o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa.
 2. Odległość pozioma gazociągu stalowego od rzutu skrajnego przewodu linii telekomunikacyjnej napowietrznej nie może być mniejsza niż 0,5 m od granicy strefy kontrolowanej wyznaczonej dla tego gazociągu.
 3. Odległość gazociągu stalowego od kanalizacji kablowej i kabla ziemnego nie może być mniejsza niż połowa strefy kontrolowanej wymaganej dla tego gazociągu.
 § 19. 1. Przy skrzyżowaniu gazociągu z linią kablową telekomunikacyjną podziemną, jak i linią kablową elektroenergetyczną podziemną, odległość pionowa od ścianki gazociągu nie może być mniejsza niż 0,2 m.
-2. Kąt skrzyżowania gazociągu z kanalizacją kablową powinien być nie mniejszy niż 60º, a z linią kablową podziemną nie mniejszy niż 20º.
+2. Kąt skrzyżowania gazociągu z kanalizacją kablową powinien być nie mniejszy niż 60º, a z linią kablową podziemną – nie mniejszy niż 20º.
 3. Przy zbliżeniu gazociągu do zbiornika lub rurociągu technologicznego w stacji paliw płynnych należy zachować odległości nie mniejsze niż:
-1) 20,0 m dla gazociągu wysokiego ciśnienia;
-2) 2,0 m dla pozostałych gazociągów.
+1) 20,0 m – dla gazociągu wysokiego ciśnienia;
+2) 2,0 m – dla pozostałych gazociągów.
 § 20. 1. Dla gazociągu układanego w przecinkach leśnych powinien być wydzielony pas gruntu bez drzew i krzewów o szerokości minimum po 2,0 m z obu stron osi gazociągu, licząc od osi gazociągu do pni drzew lub do krzewów.
 2. Jeżeli gazociąg na terenach leśnych jest budowany za pomocą przewiertu sterowanego, nie jest wymagane wycinanie drzew i krzewów. W takim przypadku gazociąg należy ułożyć poniżej poziomu systemu korzeniowego drzew.
 § 21. 1. Gazociągi stalowe i z polietylenu o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie należy projektować i budować w taki sposób, aby inne obiekty budowlane znajdowały się w odległości od osi gazociągu nie mniejszej niż połowa szerokości strefy kontrolowanej, o której mowa w § 10 ust. 6 pkt 1, niezależnie od zaliczenia terenu do odpowiedniej klasy lokalizacji.
 2. Gazociągi z polietylenu o maksymalnym ciśnieniu roboczym powyżej 0,5 MPa do 1,0 MPa włącznie należy projektować i budować w taki sposób, aby inne obiekty budowlane znajdowały się w odległości od osi gazociągu nie mniejszej niż połowa szerokości strefy kontrolowanej, o której mowa w § 10 ust. 6 pkt 2, niezależnie od zaliczenia terenu do odpowiedniej klasy lokalizacji.
-3. Gazociągi stalowe o maksymalnym ciśnieniu roboczym (MOP) większym niż 0,5 MPa należy projektować i budo wać w taki sposób, aby inne obiekty budowlane znajdowały się w odległości od osi gazociągu nie mniejszej niż:
-1) połowa szerokości stref kontrolowanych na terenie zaliczonym do pierwszej klasy lokalizacji,
-2) dwukrotność połowy szerokości stref kontrolowanych na terenie zaliczonym do drugiej klasy lokalizacji,
-3) trzykrotność połowy szerokości stref kontrolowanych na terenie zaliczonym do trzeciej klasy lokalizacji na którym usytuowane są te obiekty budowlane.
+3. Gazociągi stalowe o maksymalnym ciśnieniu roboczym (MOP) większym niż 0,5 MPa należy projektować i budować w taki sposób, aby inne obiekty budowlane znajdowały się w odległości od osi gazociągu nie mniejszej niż:
+1) połowa szerokości stref kontrolowanych – na terenie zaliczonym do pierwszej klasy lokalizacji,
+2) dwukrotność połowy szerokości stref kontrolowanych – na terenie zaliczonym do drugiej klasy lokalizacji,
+3) trzykrotność połowy szerokości stref kontrolowanych – na terenie zaliczonym do trzeciej klasy lokalizacji – na którym usytuowane są te obiekty budowlane.
 4. Inne obiekty budowlane powinny być lokalizowane w stosunku do gazociągów w odległościach nie mniejszych niż te, o których mowa w ust. 1–3.
-§ 22. 1. Przy zbliżeniach gazociągów do elementów uzbrojenia terenu odległość między powierzchnią zewnętrzną ścianki gazociągu i skrajnymi elementami uzbrojenia terenu powinna wynosić nie mniej niż 0,4 m, a przy skrzyżowaniach nie mniej niż 0,2 m.
+§ 22. 1. Przy zbliżeniach gazociągów do elementów uzbrojenia terenu odległość między powierzchnią zewnętrzną ścianki gazociągu i skrajnymi elementami uzbrojenia terenu powinna wynosić nie mniej niż 0,4 m, a przy skrzyżowaniach – nie mniej niż 0,2 m.
 2. Układając gazociąg równolegle do istniejącego gazociągu, w przypadku gazociągu o maksymalnym ciśnieniu roboczym (MOP) do 1,6 MPa włącznie, odległość między powierzchniami zewnętrznymi ścianek gazociągu nie powinna być mniejsza niż:
-1) 0,2 m w przypadku gazociągu o średnicy do DN 150 włącznie;
-2) 0,4 m w przypadku gazociągu o średnicy powyżej DN 150.
+1) 0,2 m – w przypadku gazociągu o średnicy do DN 150 włącznie;
+2) 0,4 m – w przypadku gazociągu o średnicy powyżej DN 150.
 3. Układając gazociąg równolegle do istniejącego gazociągu, w przypadku gdy maksymalne ciśnienie robocze (MOP) jednego z nich jest większe niż 1,6 MPa, odległość między powierzchniami zewnętrznymi ścianek gazociągu nie powinna być mniejsza niż:
-1) 0,2 m dla gazociągu o średnicy do DN 80 włącznie;
-2) 0,5 m dla gazociągu o średnicy powyżej DN 80 do DN 150 włącznie;
-3) 1,0 m dla gazociągu o średnicy powyżej DN 150 do DN 300 włącznie;
-4) 1,5 m dla gazociągu o średnicy powyżej DN 300 do DN 500 włącznie;
-5) 2,0 m dla gazociągu o średnicy powyżej DN 500 do DN 900 włącznie;
-6) 2,5 m dla gazociągu o średnicy powyżej DN 900.
+1) 0,2 m – dla gazociągu o średnicy do DN 80 włącznie;
+2) 0,5 m – dla gazociągu o średnicy powyżej DN 80 do DN 150 włącznie;
+3) 1,0 m – dla gazociągu o średnicy powyżej DN 150 do DN 300 włącznie;
+4) 1,5 m – dla gazociągu o średnicy powyżej DN 300 do DN 500 włącznie;
+5) 2,0 m – dla gazociągu o średnicy powyżej DN 500 do DN 900 włącznie;
+6) 2,5 m – dla gazociągu o średnicy powyżej DN 900.
 4. W szczególnie uzasadnionych przypadkach dopuszcza się zmniejszenie odległości, o których mowa w ust. 3, o ile zastosowano rozwiązania techniczne zapewniające bezpieczeństwo użytkowania gazociągu.
 5. Jeżeli gazociągi o różnych średnicach są układane równolegle, odległość między nimi ustala się zgodnie z ust. 3, biorąc pod uwagę większą ze średnic.
 6. Dopuszcza się układanie we wspólnym wykopie z gazociągiem linii telekomunikacyjnej służącej do jego obsługi i innych rurociągów oraz instalacji będących własnością jednego przedsiębiorstwa lub operatora. W takim przypadku wzajemne odległości ustala operator gazociągu.
 § 23. 1. Gazociąg stalowy należy wykonywać z rur przewodowych stalowych dla mediów palnych, ze stali całkowicie uspokojonej lub dla średnic mniejszych niż 33,7 mm z rur do zastosowań ciśnieniowych, zgodnie z wymaganiami określonymi w Polskich Normach dotyczących rur stalowych przewodowych dla mediów palnych.
 2. Rury i inne elementy stalowe stosowane do budowy gazociągu powinny charakteryzować się wymaganymi wartościami udarności określonymi w Polskich Normach dotyczących rur stalowych przewodowych dla mediów palnych i potwierdzonymi badaniami tych udarności, w przewidywanych temperaturach roboczych gazociągu.
 3. Dla rur stalowych maksymalny równoważnik węgla CEV powinien być zgodny z wymaganiami określonymi w Polskich Normach dotyczących rur stalowych przewodowych dla mediów palnych. Dla innych stalowych elementów gazociągu maksymalny równoważnik węgla CEV powinien być nie większy niż:
-1) 0,45 dla gatunków stali z minimalną granicą plastyczności R nie większą niż 360 N/mm ;
-2) 0 ,48 dla gatunków stali z minimalną granicą plastyczności R równą lub większą niż 360 N/mm .
+1) 0,45 – dla gatunków stali z minimalną granicą plastyczności R nie większą niż 360 N/mm ;
+2) 0,48 – dla gatunków stali z minimalną granicą plastyczności R równą lub większą niż 360 N/mm .
 4. Maksymalna zawartość węgla, dla wszystkich gatunków stali, nie powinna przekraczać 0,21%, a maksymalne gwarantowane zawartości siarki i fosforu nie powinny przekraczać 0,035% dla każdego pierwiastka lub 0,05% łącznie w analizach wytopowych.
 § 24. 1. Gazociąg z polietylenu należy wykonywać z rur i armatury przeznaczonych do transportu gazu ziemnego, zgodnie z wymaganiami określonymi w Polskich Normach dotyczących systemów dostaw gazu oraz systemów przewodów rurowych z tworzyw sztucznych do przesyłania paliw gazowych.
 2. W gazociągu wykonanym z polietylenu maksymalne ciśnienie robocze (MOP) nie może przekraczać 1,0 MPa, a ciśnienie krytyczne szybkiej propagacji pęknięć, uwzględniając minimalną temperaturę ich pracy, powinno być nie mniejsze niż 1,67 maksymalnego ciśnienia roboczego (MOP).
@@ -226,12 +228,12 @@ W uzasadnionych przypadkach dopuszcza się zastosowanie połączeń kołnierzowy
 § 26. 1. Gazociąg o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa należy podzielić na odcinki za pomocą armatury zaporowej i upustowej.
 2. Określając odległość między zespołami armatury zaporowej i upustowej, należy brać pod uwagę średnicę gazociągu, maksymalne ciśnienie robocze (MOP) i czas opróżnienia z gazu ziemnego.
 3. Odległość między zespołami armatury zaporowej i upustowej nie powinna być większa niż:
-1) 18,0 km dla gazociągów usytuowanych w pierwszej klasie lokalizacji;
-2) 36,0 km dla gazociągów usytuowanych w drugiej i trzeciej klasie lokalizacji.
+1) 18,0 km – dla gazociągów usytuowanych w pierwszej klasie lokalizacji;
+2) 36,0 km – dla gazociągów usytuowanych w drugiej i trzeciej klasie lokalizacji.
 § 27. 1. Do łączenia rur stalowych przewodowych z armaturą mogą być stosowane złącza spawane lub połączenia kołnierzowe. W przypadku rur stalowych o średnicy do DN 50 i ciśnieniu do 0,5 MPa włącznie, stosowanych w naziemnych elementach sieci gazowej, mogą być stosowane połączenia gwintowe.
 2. Dla maksymalnego ciśnienia roboczego (MOP) do 0,5 MPa włącznie dopuszcza się połączenia gwintowe o średnicy:
-1) d o DN 25 włącznie ze szczelnością uzyskiwaną na gwincie;
-2) o d DN 25 do DN 50 włącznie bez szczelności uzyskiwanej na gwincie, uszczelniane środkami uszczelniającymi.
+1) do DN 25 włącznie – ze szczelnością uzyskiwaną na gwincie;
+2) od DN 25 do DN 50 włącznie – bez szczelności uzyskiwanej na gwincie, uszczelniane środkami uszczelniającymi.
 3. Technologia łączenia rur oraz użyte materiały dodatkowe do spawania powinny zapewnić wytrzymałość połączeń co najmniej równą wytrzymałości materiałów podstawowych. Dobór materiałów dodatkowych do spawania sieci gazowych określają Polskie Normy dotyczące systemów dostaw gazu oraz wymagań jakościowych spawania materiałów metalowych.
 4. Wykonanie połączeń elementów ochrony katodowej ze ścianką gazociągu należy wykonać zgodnie z Polskimi Normami dotyczącymi ochrony katodowej konstrukcji metalowych.
 § 28. 1. Złącza spawane należy wykonać za pomocą spawania elektrycznego.
@@ -251,7 +253,7 @@ W uzasadnionych przypadkach dopuszcza się zastosowanie połączeń kołnierzowy
 5. Naprężenia obwodowe w ściance łuku, o którym mowa w ust. 3, nie mogą być większe od naprężeń obwodowych wywołanych maksymalnym ciśnieniem roboczym (MOP) gazociągu.
 6. Wykonując włączenia do czynnego gazociągu o maksymalnym ciśnieniu roboczym (MOP) powyżej 1,6 MPa oraz o średnicy powyżej DN 50, dopuszcza się stosowanie trójników i nakładek rozciętych pełnoobwodowych ze stali o minimalnej granicy plastyczności R równej lub większej od 355 N/mm , z miejscowymi wzmocnieniami.
 7. Wykonując włączenia do czynnego gazociągu o maksymalnym ciśnieniu roboczym (MOP) poniżej 1,6 MPa, dopuszcza się stosowanie trójników i nakładek rozciętych pełnoobwodowych ze stali o minimalnej granicy plastyczności R równej lub większej od 245 N/mm , lecz nie mniejszej niż granica plastyczności gazociągu, do którego ma być włączona.
-§ 30. 1. Rury i kształtki polietylenowe łączy się za pomocą połączeń zgrzewanych czołowo dla średnic większych od DN 63 lub elektrooporowo, a z rurami stalowymi za pomocą kształtek polietylenowo-stalowych. Połączenia zgrzewane powinny spełniać wymagania określone w Polskich Normach dotyczących systemów przewodów rurowych z tworzyw sztucznych do przesyłania paliw gazowych oraz systemów dostaw gazu.
+§ 30. 1. Rury i kształtki polietylenowe łączy się za pomocą połączeń zgrzewanych czołowo dla średnic większych od DN 63 lub elektrooporowo, a z rurami stalowymi – za pomocą kształtek polietylenowo-stalowych. Połączenia zgrzewane powinny spełniać wymagania określone w Polskich Normach dotyczących systemów przewodów rurowych z tworzyw sztucznych do przesyłania paliw gazowych oraz systemów dostaw gazu.
 2. Odgałęzienia przy wykonywaniu włączeń do czynnego gazociągu z polietylenu powinny być wykonane z zastosowaniem odpowiednich kształtek łączonych za pomocą połączeń zgrzewanych elektrooporowo.
 § 31. 1. Gazociąg stalowy powinien być zabezpieczony przed korozją zewnętrzną za pomocą powłok izolacyjnych z tworzyw sztucznych i ochrony katodowej, a gdzie jest to niezbędne, także przed oddziaływaniami prądów błądzących ze źródeł prądu stałego.
 2. W obszarach zagrożenia korozją powodowaną przez prąd przemienny gazociąg należy przed nią zabezpieczyć za pomocą odpowiednich środków, w tym dokonując selekcjonowania gazociągu za pomocą złączy izolujących.
@@ -277,15 +279,15 @@ W uzasadnionych przypadkach dopuszcza się zastosowanie połączeń kołnierzowy
 § 34. 1. Gazociąg, przed oddaniem do użytkowania, należy poddać próbie wytrzymałości i próbie szczelności.
 2. Gazociąg stalowy o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa, który będzie użytkowany przy naprężeniach obwodowych o wartości równej lub większej od 30% wartości dolnej granicy plastyczności R materiału rur i armatury, należy poddać:
 1) w pierwszej i drugiej klasie lokalizacji:
-a) p róbie wytrzymałości pneumatycznej lub hydrostatycznej gazociąg o średnicy do DN 200 włącznie,
-b) p róbie wytrzymałości hydrostatycznej gazociąg o średnicy większej od DN 200 do ciśnienia nie niższego od iloczynu współczynnika 1,5 i maksymalnego ciśnienia roboczego (MOP);
-2) w trzeciej klasie lokalizacji próbie wytrzymałości hydrostatycznej lub pneumatycznej do ciśnienia nie niższego od iloczynu współczynnika 1,3 i maksymalnego ciśnienia roboczego (MOP);
-3) n iezależnie od klasy lokalizacji próbie szczelności hydrostatycznej lub pneumatycznej do ciśnienia równego iloczynowi współczynnika 1,1 i maksymalnego ciśnienia roboczego (MOP).
+a) próbie wytrzymałości pneumatycznej lub hydrostatycznej – gazociąg o średnicy do DN 200 włącznie,
+b) próbie wytrzymałości hydrostatycznej – gazociąg o średnicy większej od DN 200 – do ciśnienia nie niższego od iloczynu współczynnika 1,5 i maksymalnego ciśnienia roboczego (MOP);
+2) w trzeciej klasie lokalizacji – próbie wytrzymałości hydrostatycznej lub pneumatycznej do ciśnienia nie niższego od iloczynu współczynnika 1,3 i maksymalnego ciśnienia roboczego (MOP);
+3) niezależnie od klasy lokalizacji – próbie szczelności hydrostatycznej lub pneumatycznej do ciśnienia równego iloczynowi współczynnika 1,1 i maksymalnego ciśnienia roboczego (MOP).
 3. Gazociąg stalowy o maksymalnym ciśnieniu roboczym (MOP) powyżej 0,5 MPa, który będzie użytkowany przy naprężeniach obwodowych mniejszych niż 30% wartości dolnej granicy plastyczności R materiału rur i armatury, może być poddany tylko próbie szczelności przy ciśnieniu równym iloczynowi współczynnika 1,1 i maksymalnego ciśnienia roboczego (MOP).
 4. Naprężenia obwodowe wywołane w trakcie przeprowadzania prób, o których mowa w ust. 2 pkt 1 i 2, nie powinny przekroczyć 95% minimalnej wartości granicy plastyczności R , a w trakcie przeprowadzenia prób specjalnych wytrzymałości 110% minimalnej wartości granicy plastyczności R .
 5. Gazociąg stalowy o maksymalnym ciśnieniu roboczym (MOP) do 0,5 MPa włącznie i gazociąg z polietylenu o maksymalnym ciśnieniu roboczym (MOP) do 1,0 MPa włącznie należy poddać próbie łączonej wytrzymałości i szczelności pneumatycznej pod ciśnieniem nie mniejszym niż iloczyn współczynnika 1,5 i maksymalnego ciśnienia roboczego (MOP), lecz większym co najmniej o 0,2 MPa od maksymalnego ciśnienia roboczego (MOP).
 6. Dla gazociągów z polietylenu ciśnienie próby łączonej wytrzymałości i szczelności nie powinno przekroczyć iloczynu współczynnika 0,9 i ciśnienia krytycznego szybkiej propagacji pęknięć.
-7. Dopuszcza się, aby odcinki gazociągu stalowego o średnicy równej lub mniejszej od DN 150 i długości do 300,0 m lub o średnicy większej od DN 150 oraz długości do 200,0 m nie były poddane próbie szczelności, pod warunkiem że gazociąg ten poddano próbie wytrzymałości hydrostatycznej lub pneumatycznej, o której mowa w ust. 2 pkt 1 i 2, oraz próbie łączonej wytrzymałości i szczeln ości pneumatycznej, o której mowa w ust. 5, a wszystkie spoiny tych odcinków były skontrolowane za pomocą badań nieniszczących, o których mowa w § 28 ust. 4.
+7. Dopuszcza się, aby odcinki gazociągu stalowego o średnicy równej lub mniejszej od DN 150 i długości do 300,0 m lub o średnicy większej od DN 150 oraz długości do 200,0 m nie były poddane próbie szczelności, pod warunkiem że gazociąg ten poddano próbie wytrzymałości hydrostatycznej lub pneumatycznej, o której mowa w ust. 2 pkt 1 i 2, oraz próbie łączonej wytrzymałości i szczelności pneumatycznej, o której mowa w ust. 5, a wszystkie spoiny tych odcinków były skontrolowane za pomocą badań nieniszczących, o których mowa w § 28 ust. 4.
 8. Spoiny obwodowe, łączące poszczególne odcinki gazociągu stalowego, po przeprowadzonej próbie ciśnieniowej należy poddać badaniom nieniszczącym, o których mowa w § 28 ust. 5, oraz dodatkowo badaniom powierzchniowym magnetyczno-proszkowym (MT) lub penetracyjnym (PT).
 § 35. 1. Po ustabilizowaniu się temperatury i ciśnienia w gazociągu czas trwania próby:
 1) wytrzymałości hydrostatycznej lub pneumatycznej dla gazociągu stalowego powinien być nie krótszy niż 15 minut;
@@ -303,14 +305,15 @@ b) p róbie wytrzymałości hydrostatycznej gazociąg o średnicy większej od D
 § 38. 1. Dopuszcza się podwyższenie ciśnienia roboczego (OP) w użytkowanych gazociągach stalowych i z polietylenu, o ile określone zostało dla tych gazociągów dopuszczalne maksymalne ciśnienie robocze (MOP) oraz wykonano próby wytrzymałości i szczelności lub próby specjalne wytrzymałości. Próby wytrzymałości i szczelności lub próby specjalne wytrzymałości należy wykonać w sposób, o którym mowa w § 34 i § 35.
 2. Dopuszczalne maksymalne ciśnienie robocze (MOP) gazociągu określa się na podstawie obliczeń wytrzymałościowych, z uwzględnieniem najsłabszego elementu gazociągu.
 3. W przypadku gazociągu o nieznanych właściwościach wytrzymałościowych należy, na podstawie badań, określić:
-1) granicę plastyczności R w przypadku gazociągu stalowego;
-2) wartość minimalnej żądanej wytrzymałości (MRS) w przypadku gazociągu z polietylenu.
+1) granicę plastyczności R – w przypadku gazociągu stalowego;
+2) wartość minimalnej żądanej wytrzymałości (MRS) – w przypadku gazociągu z polietylenu.
 4. W przypadku gazociągu o maksymalnym ciśnieniu roboczym (MOP):
 1) wyższym od 0,5 MPa dopuszczalne maksymalne ciśnienie robocze (MOP) po podwyższeniu ciśnienia roboczego (OP) powinno być niższe od iloczynu wartości ciśnienia, pod jakim została przeprowadzona próba wytrzymałości, i współczynnika projektowego, o którym mowa w § 9 ust. 1;
-2) n iższym lub równym 0,5 MPa dopuszczalne maksymalne ciśnienie robocze (MOP) po podwyższeniu ciśnienia roboczego (OP) powinno być niższe od iloczynu wartości ciśnienia, pod jakim została przeprowadzona próba wytrzymałości, i współczynnika projektowego 0,67.
-1) średniego ciśnienia dla ciśnienia do 0,5 MPa włącznie;
-2) podwyższonego średniego ciśnienia dla ciśnienia powyżej 0,5 MPa do 1,6 MPa włącznie;
-3) wysokiego ciśnienia dla ciśnienia większego od 1,6 MPa.
+2) niższym lub równym 0,5 MPa dopuszczalne maksymalne ciśnienie robocze (MOP) po podwyższeniu ciśnienia roboczego (OP) powinno być niższe od iloczynu wartości ciśnienia, pod jakim została przeprowadzona próba wytrzymałości, i współczynnika projektowego 0,67.
+§ 39. Stacje gazowe dzieli się według maksymalnego ciśnienia roboczego (MOP) na wejściu do stacji na:
+1) średniego ciśnienia – dla ciśnienia do 0,5 MPa włącznie;
+2) podwyższonego średniego ciśnienia – dla ciśnienia powyżej 0,5 MPa do 1,6 MPa włącznie;
+3) wysokiego ciśnienia – dla ciśnienia większego od 1,6 MPa.
 § 40. Dla stacji gazowych odległości od budynków powinny być większe od poziomego zasięgu stref zagrożenia wybuchem ustalonych dla tych stacji, o ile przepisy odrębne nie stanowią inaczej.
 § 41. 1. Poszczególne elementy ciągów redukcyjnych, urządzenia zabezpieczające i redukcyjne oraz aparatura kontrolno-pomiarowa mogą być instalowane w obudowie, pod zadaszeniem lub na otwartej przestrzeni.
 2. Stacje gazowe mogą być zlokalizowane na powierzchni terenu, pod powierzchnią terenu lub na dachach budynków, w odpowiednich obudowach zabezpieczonych przed dostępem osób nieuprawnionych.
@@ -329,17 +332,17 @@ b) p róbie wytrzymałości hydrostatycznej gazociąg o średnicy większej od D
 § 46. 1. W stacjach redukcyjnych z wielostopniową redukcją ciśnienia gazu ziemnego każdy stopień redukcji ciśnienia gazu powinien być wyposażony w odrębny system ciśnieniowego bezpieczeństwa.
 2. Dopuszcza się wyposażenie kilku szeregowo pracujących stopni redukcji ciśnienia gazu ziemnego w jeden system ciśnieniowego bezpieczeństwa, pod warunkiem że maksymalne ciśnienie robocze (MOP) urządzeń i rurociągów poszczególnych stopni redukcji ciśnienia gazu ziemnego nie będzie niższe od maksymalnego ciśnienia roboczego (MOP), jakie może wystąpić w układzie.
 § 47. System redukcji ciśnienia powinien uniemożliwiać przekroczenie ciśnienia roboczego (OP) wyjściowego stanowiącego iloczyn maksymalnego ciśnienia roboczego (MOP) i współczynnika:
-1) 1,025 gdy ciśnienie robocze (OP) jest większe od 1,6 MPa;
-2) 1,050 gdy ciśnienie robocze (OP) jest równe lub mniejsze od 1,6 MPa i większe od 0,5 MPa;
-3) 1,075 gdy ciśnienie robocze (OP) jest równe lub mniejsze od 0,5 MPa i większe od 0,2 MPa;
-4) 1,125 gdy ciśnienie robocze (OP) jest równe lub mniejsze od 0,2 MPa.
+1) 1,025 – gdy ciśnienie robocze (OP) jest większe od 1,6 MPa;
+2) 1,050 – gdy ciśnienie robocze (OP) jest równe lub mniejsze od 1,6 MPa i większe od 0,5 MPa;
+3) 1,075 – gdy ciśnienie robocze (OP) jest równe lub mniejsze od 0,5 MPa i większe od 0,2 MPa;
+4) 1,125 – gdy ciśnienie robocze (OP) jest równe lub mniejsze od 0,2 MPa.
 § 48. 1. System ciśnieniowego bezpieczeństwa powinien uniemożliwiać przekroczenie maksymalnego ciśnienia przypadkowego (MIP) stanowiącego iloczyn maksymalnego ciśnienia roboczego (MOP) i współczynnika:
-1) 1,15 gdy maksymalne ciśnienie robocze (MOP) jest większe od 4,0 MPa;
-2) 1,20 gdy maksymalne ciśnienie robocze (MOP) jest równe lub mniejsze od 4,0 MPa i większe od 1,6 MPa;
-3) 1,30 gdy maksymalne ciśnienie robocze (MOP) jest równe lub mniejsze od 1,6 MPa i większe od 0,5 MPa;
-4) 1,40 gdy maksymalne ciśnienie robocze (MOP) jest równe lub mniejsze od 0,5 MPa i większe od 0,2 MPa;
-5) 1,75 gdy maksymalne ciśnienie robocze (MOP) jest równe lub mniejsze od 0,2 MPa i większe od 0,01 MPa;
-6) 2,50 gdy maksymalne ciśnienie robocze (MOP) jest równe lub mniejsze od 0,01 MPa.
+1) 1,15 – gdy maksymalne ciśnienie robocze (MOP) jest większe od 4,0 MPa;
+2) 1,20 – gdy maksymalne ciśnienie robocze (MOP) jest równe lub mniejsze od 4,0 MPa i większe od 1,6 MPa;
+3) 1,30 – gdy maksymalne ciśnienie robocze (MOP) jest równe lub mniejsze od 1,6 MPa i większe od 0,5 MPa;
+4) 1,40 – gdy maksymalne ciśnienie robocze (MOP) jest równe lub mniejsze od 0,5 MPa i większe od 0,2 MPa;
+5) 1,75 – gdy maksymalne ciśnienie robocze (MOP) jest równe lub mniejsze od 0,2 MPa i większe od 0,01 MPa;
+6) 2,50 – gdy maksymalne ciśnienie robocze (MOP) jest równe lub mniejsze od 0,01 MPa.
 2. Maksymalne ciśnienie przypadkowe (MIP), jakie może wystąpić na wyjściu ze stacji redukcyjnej, powinno być niższe od ciśnienia próby wytrzymałości, jakiemu była poddana sieć gazowa zasilana z tej stacji.
 3. Wartości ciśnień, przy których powinny działać urządzenia zabezpieczające, należy każdorazowo określić w dokumentacji stacji redukcyjnej.
 § 49. 1. W stacji redukcyjnej należy:
@@ -371,7 +374,8 @@ W uzasadnionych przypadkach, uzgodnionych między dostawcą i odbiorcą gazu zie
 2. Rury upustowe odprowadzające gaz ziemny do atmosfery powinny:
 1) umożliwiać wypływ gazu ziemnego do góry;
 2) posiadać zabezpieczenie przed negatywnym oddziaływaniem opadów atmosferycznych;
-3) znajdować się na wysokości co najmniej 3,0 m nad poziomem, z którego są obsługiwane, i co najmniej metr ponad da§ 60. Dla wydmuchowego zaworu upustowego należy stosować oddzielne rury upustowe.
+3) znajdować się na wysokości co najmniej 3,0 m nad poziomem, z którego są obsługiwane, i co najmniej metr ponad dachem stacji gazowej.
+§ 60. Dla wydmuchowego zaworu upustowego należy stosować oddzielne rury upustowe.
 § 61. Urządzenia i aparatura kontrolno-pomiarowa powinny być tak umieszczone, aby był zapewniony dostęp dla osób obsługujących stację gazową.
 § 62. Ściany oddzielające pomieszczenia zagrożone wybuchem od pomieszczeń niezagrożonych wybuchem powinny być gazoszczelne, wykonane z materiałów niepalnych, bez otworów lub z otworami zabezpieczonymi przed możliwością przenikania gazu ziemnego.
 § 63. 1. Drzwi wejściowe i okna otwierane w pomieszczeniach, w których są zlokalizowane urządzenia technologiczne i urządzenia do nawaniania gazu ziemnego, nie powinny być umieszczone po tej samej stronie obudowy lub budynku stacji gazowej co drzwi i okna innych pomieszczeń. Drzwi wejściowe powinny otwierać się na zewnątrz i być wyposażone od wewnątrz w zamki antypaniczne oraz w blokadę zabezpieczającą przed ich zamknięciem, uniemożliwiającym wyjście z pomieszczenia.
@@ -400,6 +404,7 @@ W uzasadnionych przypadkach, uzgodnionych między dostawcą i odbiorcą gazu zie
 4. W uzasadnionych przypadkach armatura zaporowa po stronie wejściowej do stacji pomiarowej powinna być wyposażona w obejścia służące do wyrównania ciśnienia przed i za armaturą oraz niedopuszczające do powstania różnicy ciśnienia na gazomierzu mogącej spowodować jego uszkodzenie.
 § 69. Gazomierze wraz z dodatkowym wyposażeniem stacji pomiarowej, takim jak elektroniczne przeliczniki, przetworniki ciśnienia i temperatury oraz urządzenia do określania jakości gazu ziemnego stosowane w obrocie gazem ziemnym, powinny spełniać wymagania określone w przepisach o miarach.
 § 70. Stacja pomiarowa może stanowić niezależny obiekt sieci gazowej lub całość ze stacją redukcyjną.
+§ 71. 1. Zespół gazowy na przyłączu składa się z:
 1) ciągów redukcyjnych, pomiarowych lub redukcyjno-pomiarowych;
 2) armatury zaporowej na wejściu i wyjściu;
 3) filtrów;
@@ -418,7 +423,7 @@ W uzasadnionych przypadkach, uzgodnionych między dostawcą i odbiorcą gazu zie
 3. Maksymalne ciśnienie przypadkowe (MIP), jakie może wystąpić na wyjściu z zespołu gazowego na przyłączu, powinno być mniejsze od ciśnienia próby wytrzymałości, jakiemu poddane były instalacje gazowe w budynku zasilane z tego zespołu.
 4. Nastawy wartości ciśnień, przy których powinny działać urządzenia redukcyjne i systemu ciśnieniowego bezpieczeństwa, dla nominalnego ciśnienia wylotowego podanego na reduktorze powinny być wykonane przez producenta.
 § 75. 1. Rury stalowe stosowane do wykonania zespołu gazowego na przyłączu powinny spełniać wymagania określone w Polskich Normach dotyczących rur stalowych przewodowych dla mediów palnych oraz rur stalowych bez szwu do zastosowań ciśnieniowych, zgodnie z wymaganiami określonymi w § 23.
-2. W przypadku gdy minimalna grubość ścianki (T) rur stalowych zespołu gazowego na przyłączu, w zależności od średnicy zewnętrznej rury (D), jest nie mniejsza niż: D (mm) ≤ 48,3 ≤ 76,1 ≤ 114,3 ≤ 139,7 ≤ 168,3 T (mm) 2,6 2,9 3,2 3,6 4,0 nie jest wymagane wykonywanie obliczeń naprężeń pochodzących od ciśnienia wewnętrznego.
+2. W przypadku gdy minimalna grubość ścianki (T) rur stalowych zespołu gazowego na przyłączu, w zależności od średnicy zewnętrznej rury (D), jest nie mniejsza niż: D (mm) ≤ 48,3 ≤ 76,1 ≤ 114,3 ≤ 139,7 ≤ 168,3 T (mm) 2,6 2,9 3,2 3,6 4,0 – nie jest wymagane wykonywanie obliczeń naprężeń pochodzących od ciśnienia wewnętrznego.
 3. Złącza spawane układów rurowych w zespołach gazowych na przyłączu poddaje się badaniom nieniszczącym radiograficznym (RT) według występującego maksymalnego ciśnienia roboczego (MOP) zgodnie z § 66 ust. 2.
 4. W zespołach gazowych na przyłączu dopuszcza się stosowanie elastycznych przewodów impulsowych z materiałów niezapalnych.
 5. Układy rurowe zespołów gazowych na przyłączu poddaje się pneumatycznym próbom wytrzymałości i szczelności lub łącznej pneumatycznej próbie wytrzymałości i szczelności.
@@ -427,10 +432,10 @@ W uzasadnionych przypadkach, uzgodnionych między dostawcą i odbiorcą gazu zie
 2) szczelności pneumatycznej powinna stanowić iloczyn współczynnika 1,1 i maksymalnego ciśnienia roboczego (MOP).
 7. Układy rurowe, które będą pracować przy maksymalnym ciśnieniu roboczym (MOP) wejściowym mniejszym lub równym 0,5 MPa, mogą być poddane łączonej próbie wytrzymałości i szczelności pneumatycznej o ciśnieniu równym maksymalnemu ciśnieniu roboczemu (MOP) powiększonemu o 0,2 MPa.
 8. Czas trwania próby, po ustabilizowaniu się wartości ciśnienia i temperatury, powinien być nie krótszy niż:
-1) 15 minut dla próby wytrzymałości pneumatycznej;
+1) 15 minut – dla próby wytrzymałości pneumatycznej;
 2) 60 minut dla:
-a) p róby szczelności pneumatycznej,
-b) ł ączonej próby wytrzymałości i szczelności pneumatycznej.
+a) próby szczelności pneumatycznej,
+b) łączonej próby wytrzymałości i szczelności pneumatycznej.
 § 76. 1. Przy projektowaniu i budowie punktów gazowych dopuszcza się:
 1) umieszczenie wkładu filtracyjnego w korpusie reduktora;
 2) stosowanie połączeń gwintowych dla średnic nominalnych nie większych niż DN 50;
@@ -443,6 +448,7 @@ b) ł ączonej próby wytrzymałości i szczelności pneumatycznej.
 5. Przewody gazowe i złącza wchodzące w skład punktu gazowego, po ich napełnieniu gazem ziemnym, sprawdza się pod względem szczelności ciśnieniem odpowiadającym ciśnieniu roboczemu (OP), jakie występuje w części wejściowej i wyjściowej punktu gazowego.
 6. W punktach gazowych nie dopuszcza się stosowania wydmuchowych zaworów upustowych o przepustowości ciągu redukcyjnego.
 § 77. Przepisy § 71–75 stosuje się przy projektowaniu i budowie punktów gazowych.
+§ 78. Tłocznie gazu powinny spełniać wymagania dotyczące ich budowy i eksploatacji określone w Polskiej Normie dotyczącej tłoczni gazu jako elementu systemu dostaw gazu.
 § 79. 1. Tłocznie gazu lokalizuje się na terenie ogrodzonym i zabezpieczonym przed dostępem osób nieuprawnionych.
 W ogrodzeniu należy zapewnić możliwość wyjścia z terenu tłoczni gazu co najmniej dwiema furtkami oraz dwoma wjazdami w przypadku pożaru.
 2. Poszczególne instalacje na terenie tłoczni gazu należy tak rozmieścić, aby w przypadku pożaru nie zagrażały innym instalacjom.
@@ -468,18 +474,19 @@ W ogrodzeniu należy zapewnić możliwość wyjścia z terenu tłoczni gazu co n
 § 87. Gazociągi o różnych maksymalnych ciśnieniach roboczych (MOP), w miejscu ich połączenia, wyposaża się w armaturę zaporową i ciśnieniowy system bezpieczeństwa, uniemożliwiający przekroczenie maksymalnego ciśnienia roboczego (MOP) w gazociągu o niższym ciśnieniu.
 § 88. Tłocznie gazu wyposaża się w:
 1) instalację gazu obojętnego do przepłukiwania gazociągów przed pierwszym napełnieniem i podczas remontów;
+2) system bezpieczeństwa tłoczni gazu zawierający układ wyłączenia awaryjnego (ESD).
 § 89. Tłocznia gazu powinna być wyposażona w przyrządy do pomiaru parametrów technologicznych z odczytem lokalnym lub zdalnym.
 § 90. W tłoczni gazu wyznacza się wewnętrzne i zewnętrzne strefy zagrożenia wybuchem, a zainstalowane w nich urządzenia i systemy ochronne powinny spełniać wymagania określone w rozporządzeniu Ministra Gospodarki z dnia 22 grudnia 2005 r. w sprawie zasadniczych wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w przestrzeniach zagrożonych wybuchem (Dz. U. Nr 263, poz. 2203).
 § 91. 1. Pomieszczenia, w których znajdują się sprężarki gazu ziemnego, powinny być wyposażone w systemy wentylacji naturalnej i wentylacji mechanicznej awaryjnej, zapewniającej wymianę powietrza w ilości uniemożliwiającej przekroczenie dolnej granicy wybuchowości, o której mowa w ust. 2 pkt 1. System awaryjnej wentylacji mechanicznej powinien być sprzężony z automatycznym systemem wykrywania metanu.
 2. Automatyczny systemem wykrywania metanu powinien, przy przekroczeniu:
-1) 10% dolnej granicy wybuchowości włączyć alarm i awaryjną wentylację mechaniczną;
-2) 40% dolnej granicy wybuchowości wyłączyć napęd sprężarki gazu ziemnego, odciąć i odgazować układy technologiczne.
+1) 10% dolnej granicy wybuchowości – włączyć alarm i awaryjną wentylację mechaniczną;
+2) 40% dolnej granicy wybuchowości – wyłączyć napęd sprężarki gazu ziemnego, odciąć i odgazować układy technologiczne.
 § 92. Otwory wentylacyjne dla wlotów powietrza oraz czerpnie powietrza dla silników spalinowych, turbin gazowych i silników elektrycznych o konstrukcji przewietrzanej powinny być usytuowane poza strefami zagrożenia wybuchem.
 § 93. 1. Pomieszczenia, w których znajdują się sprężarki gazu ziemnego, należy wyposażyć w stałe urządzenia gaśnicze, których uruchomienie powinno być poprzedzone sygnałem akustycznym i optycznym.
 2. Pomieszczenia, w których znajdują się sprężarki gazu ziemnego, należy wyposażyć w system sygnalizacji pożarowej, którego działanie jest sprzężone z:
 1) automatycznym uruchamianiem stałych urządzeń gaśniczych;
 2) automatycznym zatrzymaniem sprężarek gazu ziemnego, odcięciem dopływu gazu ziemnego do tłoczni wraz z odgazowaniem układu technologicznego;
-3) w yłączeniem awaryjnej wentylacji mechanicznej.
+3) wyłączeniem awaryjnej wentylacji mechanicznej.
 § 94. 1. Pomieszczenia, w których znajdują się sprężarki gazu ziemnego, powinny posiadać na każdym poziomie obsługowym co najmniej dwa wyjścia ewakuacyjne.
 2. W pomieszczeniach, w których znajdują się sprężarki gazu ziemnego, poziomy obsługi powinny być rozdzielone ażurowymi podestami.
 3. Fundamenty i posadowienie sprężarek gazu ziemnego powinny przejmować obciążenia dynamiczne i statyczne pochodzące od sprężarek gazu ziemnego i napędu oraz obciążenia pochodzące z orurowania agregatów sprężarkowych.
@@ -508,37 +515,39 @@ W ogrodzeniu należy zapewnić możliwość wyjścia z terenu tłoczni gazu co n
 4) posiadać:
 a) system nadzoru i wizualizacji tłoczni gazu wraz z instalacjami i obiektami pomocniczymi,
 b) system informatyczny przechowywania i analizy parametrów pracy tłoczni gazu wraz z instalacjami i obiektami pomocniczymi,
-c) s ystem sygnalizacji pożarowej obejmujący ochroną wszystkie budynki na terenie tłoczni, połączony z komendą Państwowej Straży Pożarnej lub innym obiektem wskazanym przez właściwego miejscowo komendanta powiatowego Państwowej Straży Pożarnej.
+c) system sygnalizacji pożarowej obejmujący ochroną wszystkie budynki na terenie tłoczni, połączony z komendą Państwowej Straży Pożarnej lub innym obiektem wskazanym przez właściwego miejscowo komendanta powiatowego Państwowej Straży Pożarnej.
 3. W przypadku awarii zasilania w energię elektryczną awaryjne układy zasilania powinny zapewnić co najmniej dwugodzinne zasilanie systemów sterowania, nadzoru i wizualizacji.
 4. Kanalizację techniczną na terenie tłoczni gazu należy odseparować od budynków oraz zapewnić przewietrzanie studzienek.
 § 100. Tłocznie gazu powinny być wyposażone w:
 1) filtry lub filtroseparatory na wejściu gazu ziemnego do tłoczni gazu, połączone ze zbiornikiem do okresowego usuwania kondensatu;
-2) c hłodnice obniżające temperaturę gazu ziemnego po sprężeniu;
-3) u rządzenia ograniczające emisję szkodliwych zanieczyszczeń, spalin oraz hałasu do wartości dopuszczalnych, określonych w przepisach ochrony środowiska;
-4) u rządzenia pozwalające na centralne prowadzenie gospodarki olejowej, wodnej i ściekowej oraz służące do ogrzewania i wentylacji;
-5) i nstalację ochrony odgromowej i przeciwporażeniowej.
+2) chłodnice obniżające temperaturę gazu ziemnego po sprężeniu;
+3) urządzenia ograniczające emisję szkodliwych zanieczyszczeń, spalin oraz hałasu do wartości dopuszczalnych, określonych w przepisach ochrony środowiska;
+4) urządzenia pozwalające na centralne prowadzenie gospodarki olejowej, wodnej i ściekowej oraz służące do ogrzewania i wentylacji;
+5) instalację ochrony odgromowej i przeciwporażeniowej.
 § 101. Gazociągi wewnętrzne tłoczni gazu i orurowanie agregatów sprężarkowych:
 1) oddziela się elektrycznie za pomocą złączy izolujących od gazociągów przesyłowych wejściowych i wyjściowych tłoczni gazu;
 2) zabezpiecza przed:
-a) k orozją zewnętrzną, jednocześnie stosując powłoki ochronne i ochronę katodową w sposób określony w Polskich Normach dotyczących rur stalowych i łączników na rurociągi przybrzeżne i morskie oraz ochrony katodowej,
+a) korozją zewnętrzną, jednocześnie stosując powłoki ochronne i ochronę katodową w sposób określony w Polskich Normach dotyczących rur stalowych i łączników na rurociągi przybrzeżne i morskie oraz ochrony katodowej,
 b) korozją naprężeniową.
 § 102. 1. Tłocznie gazu ze sprężarkami napędzanymi silnikami elektrycznymi powinny być zasilane w energię elektryczną z dwóch niezależnych, samoczynnie załączających się źródeł energii elektrycznej.
 2. W tłoczniach gazu z turbinami gazowymi i sprężarkami napędzanymi silnikami spalinowymi dopuszcza się, aby drugie zasilanie w energię elektryczną było zastąpione przez agregat prądotwórczy włączany automatycznie.
 § 103. Złącza spawane instalacji zasilających i pomocniczych tłoczni gazu i orurowania agregatów sprężarkowych należy wykonać i poddać badaniom, o których mowa w § 28 ust. 3–5, w tym badaniom radiograficznym (RT) lub ultradźwiękowym (UT).
 § 104. Instalacje zasilające i technologiczne tłoczni gazu i orurowanie agregatów sprężarkowych poddaje się próbie wytrzymałości hydrostatycznej o ciśnieniu równym co najmniej iloczynowi współczynnika 1,5 i maksymalnego ciśnienia roboczego (MOP) poszczególnych instalacji.
+§ 105. 1. Do gazociągów połączonych z instalacją magazynów gazu ziemnego w górotworze oraz zakładami górniczymi wydobywającymi gaz ziemny w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy rozdziału 2.
 2. Lokalizując instalacje magazynu gazu ziemnego, należy uwzględnić:
 1) warunki geologiczne;
 2) obecne i planowane granice zabudowy;
 3) odległość od sieci gazowej;
 4) minimalizację emisji szkodliwych substancji stałych, ciekłych i gazowych;
 5) usytuowanie linii kolejowych, dróg oraz budynków użyteczności publicznej i zamieszkania zbiorowego w stosunku do instalacji magazynu gazu ziemnego.
-§ 106. Stacje gazowe wchodzące w skład urządzeń powierzchniowych magazynów gazu ziemnego budowanych w górotworze oraz zakładów górniczych wydobywających gaz ziemny powinny być wykonane w sposób określony w rozdziale 3, a tłocznie gazu w sposób określony w rozdziale 5.
+§ 106. Stacje gazowe wchodzące w skład urządzeń powierzchniowych magazynów gazu ziemnego budowanych w górotworze oraz zakładów górniczych wydobywających gaz ziemny powinny być wykonane w sposób określony w rozdziale 3, a tłocznie gazu – w sposób określony w rozdziale 5.
 § 107. 1. Magazyny gazu ziemnego w górotworze współpracujące z siecią gazową należy wyposażyć w urządzenia naziemne zawierające stacje pomiarowe, w których jest mierzony strumień objętości przepływającego gazu ziemnego z sieci gazowej do magazynu gazu ziemnego i z magazynu gazu ziemnego do sieci gazowej.
 2. Zakłady górnicze wydobywające gaz ziemny współpracujące z siecią gazową należy wyposażyć w urządzenia naziemne zawierające stacje pomiarowe, w których jest mierzony strumień objętości przepływającego gazu ziemnego z tych zakładów górniczych do sieci gazowej.
 3. Urządzenia do pomiaru strumienia objętości gazu ziemnego powinny spełniać wymagania określone w odrębnych przepisach dotyczących pomiarów i rozliczeń przeprowadzonych w obrocie handlowym.
 § 108. 1. Przed podjęciem prac nad projektem kriogenicznego magazynu gazu ziemnego należy przeprowadzić szczegółową analizę:
 1) gruntów;
 2) warunków klimatycznych;
+3) warunków sejsmicznych;
 4) wpływu oddziaływania zbiornika gazu ziemnego na środowisko;
 5) gospodarki gazami zrzutowymi;
 6) dostępności do tras komunikacyjnych;
@@ -547,13 +556,14 @@ b) korozją naprężeniową.
 2. Projekt i wykonanie kriogenicznego magazynu gazu ziemnego powinno zapewnić wyeliminowanie niekontrolowanych wycieków skroplonego gazu ziemnego mogących spowodować powstawanie palnych oparów.
 3. Urządzenia i gazociągi przeznaczone do pracy w temperaturach skroplonego gazu ziemnego powinny być wykonane w sposób określony w Polskich Normach dotyczących instalacji i urządzeń do skroplonego gazu ziemnego oraz armatury przemysłowej.
 § 109. W magazynach gazu ziemnego lub zakładach górniczych wydobywających gaz ziemny powinny być instalowane urządzenia telemetryczne służące do przekazywania parametrów charakteryzujących pracę magazynu gazu ziemnego lub kopalni gazu ziemnego oraz stanów awaryjnych.
+§ 110. Dla gazociągów wybudowanych:
 1) przed dniem 12 grudnia 2001 r. lub dla których przed tym dniem wydano pozwolenie na budowę,
-2) w okresie od dnia 12 grudnia 2001 r. do dnia wejścia w życie niniejszego rozporządzenia lub dla których w tym okresie wydano pozwolenie na budowę stosuje się szerokość stref kontrolowanych określoną w załączniku nr 2 do rozporządzenia.
+2) w okresie od dnia 12 grudnia 2001 r. do dnia wejścia w życie niniejszego rozporządzenia lub dla których w tym okresie wydano pozwolenie na budowę – stosuje się szerokość stref kontrolowanych określoną w załączniku nr 2 do rozporządzenia.
 § 111. Traci moc rozporządzenie Ministra Gospodarki z dnia 30 lipca 2001 r. w sprawie warunków technicznych, jakim powinny odpowiadać sieci gazowe (Dz. U. Nr 97, poz. 1055).
 § 112. Rozporządzenie wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
-Minister Gospodarki: wz. J. Pietrewicz WyKAZ POLSKICH NORM POWOŁANyCH W ROZPORZąDZENIU Lp. Przepis Numer normy Tytuł normy Zakres rozporządzenia powołania normy 1 § 12 ust. 1 PN-EN 1594:2011 Systemy dostawy gazu Rurociągi pkt 7; zał. B;
+Minister Gospodarki: wz. J. Pietrewicz Załączniki do rozporządzenia Ministra Gospodarki z dnia ……… (poz…..) Załącznik nr 1 WyKAZ POLSKICH NORM POWOŁANyCH W ROZPORZąDZENIU Wykaz Polskich Norm powołanych w rozporządzeniu Lp. Przepis Numer normy Tytuł normy Zakres rozporządzenia powołania normy 1 § 12 ust. 1 PN-EN 1594:2011 Systemy dostawy gazu – Rurociągi pkt 7; zał. B;
 o maksymalnym ciśnieniu roboczym zał. G; zał. L;
-powyżej 16 bar Wymagania zał. M funkcjonalne PN-EN 12007-3:2004 Systemy dostawy gazu Rurociągi całość normy o maksymalnym ciśnieniu roboczym do 16 bar włącznie - Część 3: Szczegółowe zalecenia funkcjonalne dotyczące stali 2 § 12 ust. 2 PN-EN 12007-2:2004 PN-EN 12007-3:2004 PN-EN 1555-2:2004 PN-EN 1555-3:2004 PN-EN 15553:2004/A1:2006 PN-EN 1555-4:2004 Systemy dostawy gazu Rurociągi o maksymalnym ciśnieniu roboczym do 16 bar włącznie - Część 2: Szczegółowe zalecenia funkcjonalne dotyczące polietylenu (MOP do 10 bar włącznie) Systemy dostawy gazu Rurociągi o maksymalnym ciśnieniu roboczym do 16 bar włącznie - Część 3: Szczegółowe zalecenia funkcjonalne dotyczące stali Systemy przewodów rurowych z tworzyw sztucznych do przesyłania paliw gazowych Polietylen (PE) Część 2: Rury Systemy przewodów rurowych z tworzyw sztucznych do przesyłania paliw gazowych Polietylen (PE) Część 3: Kształtki Systemy przewodów rurowych z tworzyw sztucznych do przesyłania paliw gazowych Polietylen (PE) Część 3: Kształtki Systemy przewodów rurowych z tworzyw sztucznych do przesyłania paliw gazowych Polietylen (PE) Część 4: Armatura całość normy całość normy całość normy całość normy całość normy całość normy 3 § 23 ust. 1 PN-EN 10208-2:2011 PN-EN 10208-1:2011 Rury stalowe przewodowe dla mediów palnych Rury o klasie wymagań B Rury stalowe przewodowe dla mediów palnych Rury o klasie wymagań A całość normy całość normy Tabela 1. Szerokość stref kontrolowanych gazociągów układanych w ziemi o ciśnieniu gazu powyżej 0,4 MPa do 10,0 MPa wybudowanych przed dniem 12 grudnia 2001 r. lub dla których przed tym dniem wydano pozwolenie na budowę SZEROKOŚć STREF KONTROLOWANyCH DLA GAZOCIąGóW WybUDOWANyCH PRZED DNIEM WEJŚCIA W żyCIE ROZPORZąDZENIA LUb DLA KTóRyCH PRZED TyM DNIEM WyDANO POZWOLENIE NA bUDOWę
+powyżej 16 bar – Wymagania zał. M funkcjonalne PN-EN 12007-3:2004 Systemy dostawy gazu – Rurociągi całość normy o maksymalnym ciśnieniu roboczym do 16 bar włącznie - Część 3: Szczegółowe zalecenia funkcjonalne dotyczące stali 2 § 12 ust. 2 PN-EN 12007-2:2004 Systemy dostawy gazu – Rurociągi całość normy o maksymalnym ciśnieniu roboczym do 16 bar włącznie - Część 2: Szczegółowe zalecenia funkcjonalne dotyczące polietylenu (MOP do 10 bar włącznie) PN-EN 12007-3:2004 Systemy dostawy gazu – Rurociągi całość normy o maksymalnym ciśnieniu roboczym do 16 bar włącznie - Część 3: Szczegółowe zalecenia funkcjonalne dotyczące stali PN-EN 1555-2:2004 Systemy przewodów rurowych z tworzyw całość normy sztucznych do przesyłania paliw gazowych – Polietylen (PE) Część 2: Rury PN-EN 1555-3:2004 Systemy przewodów rurowych z tworzyw całość normy sztucznych do przesyłania paliw gazowych – Polietylen (PE) Część 3: Kształtki PN-EN 1555- Systemy przewodów rurowych z tworzyw całość normy 3:2004/A1:2006 sztucznych do przesyłania paliw gazowych – Polietylen (PE) Część 3: Kształtki PN-EN 1555-4:2004 Systemy przewodów rurowych z tworzyw całość normy sztucznych do przesyłania paliw gazowych – Polietylen (PE) Część 4: Armatura 3 § 23 ust. 1 PN-EN 10208-2:2011 Rury stalowe przewodowe dla mediów całość normy palnych – Rury o klasie wymagań B PN-EN 10208-1:2011 Rury stalowe przewodowe dla mediów całość normy palnych – Rury o klasie wymagań A 1 2 3 4 5 SZEROKOŚć STREF KONTROLOWANyCH DLA GAZOCIąGóW WybUDOWANyCH Załącznik PRZED DNIEM nr 2 WEJŚCIA W żyCIE ROZPORZąDZENIA LUb DLA KTóRyCH PRZED TyM DNIEM WyDANO Szerokość stref kontrolowanych POZWOLENIE dla gazociągów NA bUDOWę wybudowanych przed dniem wejścia w życie rozporządzenia lub dla których przed tym dniem wydano pozwolenie na budowę Tabela 1. Szerokość stref kontrolowanych gazociągów układanych w ziemi o ciśnieniu gazu powyżej 0,4 MPa do 10,0 MPa wybudowanych przed dniem 12 grudnia 2001 r. lub dla których przed tym dniem wydano pozwolenie na budowę 6
 1. Szerokość zmniejszoną w stosunku do szerokości stref kontrolowanych można przyjąć, stosując zmniejszenie naprężenia zredukowanego w ściance rury. Jeżeli odległość gazociągu do obiektu terenowego wynosi co najmniej:
 1) 75% połowy szerokości strefy kontrolowanej, naprężenie zredukowane należy zmniejszyć o 10%;
 2) 50% połowy szerokości strefy kontrolowanej, naprężenie zredukowane należy zmniejszyć o 20%;
@@ -566,20 +576,20 @@ powyżej 16 bar Wymagania zał. M funkcjonalne PN-EN 12007-3:2004 Systemy dostaw
 2) sprawdzi się metodami nieniszczącymi wszystkie połączenia spawane;
 3) zastosuje się sączek węchowy liniowy.
 4. Odległości zmniejszonych nie należy stosować w odniesieniu do napowietrznych linii elektroenergetycznych o napięciu większym niż 1,0 kV i elektroenergetycznych stacji transformatorowych. Na terenach zabudowanych dopuszcza się przyjęcie odległości zmniejszonej, wynoszącej 25% połowy szerokości strefy kontrolowanej między skrajnym przewodem linii elektroenergetycznej lub elektroenergetycznej stacji transformatorowej a projektowanym gazociągiem, pod warunkiem zastosowania zmniejszonego naprężenia zredukowanego w ściance rury o 30%.
-Tabela 2. Szerokość stref kontrolowanych dla gazociągów układanych w ziemi o ciśnieniu gazu nie większym niż 0,4 MPa* wybudowanych przed dniem 12 grudnia 2001 r. lub dla których przed tym dniem wydano pozwolenie na budowę Lp. Rodzaje obiektów terenowych Szerokość strefy kontrolowanej [m] 1 budynki 3,0 2 tory kolejowe magistralne pierwszo- i drugorzędne 10,0 3 tory kolejowe znaczenia miejscowego 6,0 4 tory tramwajowe 2,0 przewody kanalizacyjne, kanały sieci cieplnej, wodociągi, kanalizacja 5 kablowa i inne kanały mające połączenie z pomieszczeniami dla ludzi i 3,0 zwierząt przewody kanalizacyjne, kanały sieci cieplnej, wodociągi, kanalizacja 6 kablowa i inne kanały niemające połączenia z pomieszczeniami dla ludzi i zwierząt 2,0 kable ziemne elektroenergetyczne o napięciu: 1,0 7 - do 15,0 kV - powyżej 15,0 kV 2,0 8 słupy linii elektroenergetycznych o napięciu do 1,0 kV, 1,0 telekomunikacyjnych i trakcyjnych tramwajowych oraz inne podpory napowietrzna linia elektroenergetyczna o napięciu: 1,0 - do 1,0 kV 9 - powyżej 1,0 kV do 30,0 kV 8,0 - powyżej 30,0 kV do 110,0 kV 16,0 - powyżej 110,0 kV 30,0 stacje transformatorów elektroenergetycznych o napięciu: 8,0 - do 15,0 kV, zasilane liniami napowietrznymi 10 - do 15,0 kV, zasilane kablami 10,0 - powyżej 15,0 kV 20,0 11 drzewa 3,0 * Dopuszczalne zmniejszenie odległości podstawowych pomiędzy gazociągiem i telekomunikacyjną kanalizacją kablową określają odrębne przepisy.
-Tabela 3. Szerokość stref kontrolowanych dla gazociągów wybudowanych w okresie od dnia 12 grudnia 2001 r. do dnia wejścia w życie rozporządzenia lub dla których w tym okresie wydano pozwolenie na budowę
+7 Tabela 2. Szerokość stref kontrolowanych dla gazociągów układanych w ziemi o ciśnieniu gazu nie większym niż 0,4 MPa* wybudowanych przed dniem 12 grudnia 2001 r. lub dla których przed tym dniem wydano pozwolenie na budowę Lp. Rodzaje obiektów terenowych Szerokość strefy kontrolowanej [m] 1 budynki 3,0 2 tory kolejowe magistralne pierwszo- i drugorzędne 10,0 3 tory kolejowe znaczenia miejscowego 6,0 4 tory tramwajowe 2,0 przewody kanalizacyjne, kanały sieci cieplnej, wodociągi, kanalizacja 5 kablowa i inne kanały mające połączenie z pomieszczeniami dla ludzi i 3,0 zwierząt przewody kanalizacyjne, kanały sieci cieplnej, wodociągi, kanalizacja 6 kablowa i inne kanały niemające połączenia z pomieszczeniami dla ludzi i 2,0 zwierząt kable ziemne elektroenergetyczne o napięciu: 1,0 7 - do 15,0 kV - powyżej 15,0 kV 2,0 8 słupy linii elektroenergetycznych o napięciu do 1,0 kV, 1,0 telekomunikacyjnych i trakcyjnych tramwajowych oraz inne podpory napowietrzna linia elektroenergetyczna o napięciu: 1,0 - do 1,0 kV 9 - powyżej 1,0 kV do 30,0 kV 8,0 - powyżej 30,0 kV do 110,0 kV 16,0 - powyżej 110,0 kV 30,0 stacje transformatorów elektroenergetycznych o napięciu: 8,0 - do 15,0 kV, zasilane liniami napowietrznymi 10 - do 15,0 kV, zasilane kablami 10,0 - powyżej 15,0 kV 20,0 11 drzewa 3,0 * Dopuszczalne zmniejszenie odległości podstawowych pomiędzy gazociągiem i telekomunikacyjną kanalizacją kablową określają odrębne przepisy.
+8 Tabela 3. Szerokość stref kontrolowanych dla gazociągów wybudowanych w okresie od dnia 12 grudnia 2001 r. do dnia wejścia w życie rozporządzenia lub dla których w tym okresie wydano pozwolenie na budowę 9
 
-#### Rozdział 1 Przepisy ogólne § 1. 1. Przepisy rozporządzenia stosuje się przy projektowaniu, budowie, przebudowie sieci gazowej służącej do transportu gazu ziemnego.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Gazociągi § 6. Gazociągi dzieli się według:
+#### Rozdział 2 Gazociągi
 
-#### Rozdział 3 Stacje gazowe § 39. Stacje gazowe dzieli się według maksymalnego ciśnienia roboczego (MOP) na wejściu do stacji na:
+#### Rozdział 3 Stacje gazowe
 
-#### Rozdział 4 Zespół gazowy na przyłączu § 71. 1. Zespół gazowy na przyłączu składa się z:
+#### Rozdział 4 Zespół gazowy na przyłączu
 
-#### Rozdział 5 Tłocznie gazu § 78. Tłocznie gazu powinny spełniać wymagania dotyczące ich budowy i eksploatacji określone w Polskiej Normie dotyczącej tłoczni gazu jako elementu systemu dostaw gazu.
+#### Rozdział 5 Tłocznie gazu
 
-#### Rozdział 6 Magazyny gazu ziemnego oraz zakłady górnicze wydobywające gaz ziemny § 105. 1. Do gazociągów połączonych z instalacją magazynów gazu ziemnego w górotworze oraz zakładami górniczymi wydobywającymi gaz ziemny w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy rozdziału 2.
+#### Rozdział 6 Magazyny gazu ziemnego oraz zakłady górnicze wydobywające gaz ziemny
 
-#### Rozdział 7 Przepisy przejściowe i końcowe § 110. Dla gazociągów wybudowanych:
+#### Rozdział 7 Przepisy przejściowe i końcowe
 

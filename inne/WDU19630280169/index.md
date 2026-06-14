@@ -8,7 +8,7 @@ pos: 169
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zagospodarowaniu wspólnot gruntowych
@@ -38,7 +38,7 @@ source: "isap-pdf"
 - **3)** powstałe w wyniku podziału pomiędzy zespoły mieszkańców poszczególnych wsi gruntów, które nadane zostały przy uwłaszczeniu włościan i mieszczan-rolników mieszkańcom kilku wsi na wspólną własność, we wspólne posiadanie lub do wspólnego użytkowania;
 - **4)** użytkowane wspólnie przez mieszkańców dawnych okolic i zaścianków oraz należące do wspólnot urbarialnych i spółek szałaśniczych;
 - **5)** otrzymane przez grupę mieszkańców jednej lub kilku wsi na wspólną własność i do wspólnego użytkowania w drodze przywilejów i darowizn bądź nabyte w takim celu;
-- **6)** zapisane w księgach wieczystych (gruntowych) jako własność gminy (gromady), jeżeli w księgach tych istnieje wpis o uprawnieniu określonych grup pożytków z tych nieruchomości;
+- **6)** zapisane w księgach wieczystych (gruntowych) jako własność gminy (gromady), jeżeli w księgach tych istnieje wpis o uprawnieniu określonych grup mieszkańców gminy (gromady) do wieczystego użytkowania i pobierania pożytków z tych nieruchomości;
 - **7)** stanowiące dobro gromadzkie (gminne) będące we wspólnym użytkowaniu na terenach województw rzeszowskiego, krakowskiego oraz powiatu cieszyńskiego województwa katowickiego.
 
 2. Oprócz wspólnot gruntowych (ust. 1) podlegają zagospodarowaniu w trybie i na zasadach określonych w niniejszej ustawie także nieruchomości rolne, leśne i obszary wodne, stanowiące mienie gromadzkie w rozumieniu przepisów o zarządzie takim mieniem, jeżeli przed dniem wejścia w życie tej ustawy były faktycznie użytkowane wspólnie przez mieszkańców wsi.
@@ -51,13 +51,20 @@ source: "isap-pdf"
 
 **Art. 3.** Nie zalicza się do wspólnot gruntowych nieruchomości lub ich części określonych w art. 1 ust. 1, jeżeli:
 
+- **1)** do dnia 31 grudnia 1962 r., a w przypadku lasów i gruntów leśnych do dnia 30 września 1960 r. zostały podzielone na działki indywidualne pomiędzy współuprawnionych albo uległy zasiedzeniu;
+- **2)** przed dniem 1 stycznia 2011 r. zostały prawnie lub faktycznie przekazane na cele publiczne lub społeczne.
+
 **Art. 4.** Jeżeli na części obszaru stanowiącego wspólnotę gruntową wzniesione zostały przed dniem wejścia w życie ustawy budynki pozostające w indywidualnym władaniu, właścicielowi budynku przysługuje prawo nabycia gruntów znajdujących się pod budynkiem mieszkalnym i zabudowaniami gospodarczymi wraz z podwórzem.
 
 **Art. 5.**
 
 1. Wspólnoty gruntowe nie mogą być dzielone pomiędzy uprawnionych do udziału w tych wspólnotach.
 
-2. Podział wspólnoty gruntowej następuje wyłącznie w razie objęcia jej gruntów scaleniem, za zgodą bezwzględnej większości osób uprawnionych do udziału w tej wspólnocie. lub prawne posiadające gospodarstwa rolne, jeżeli w ciągu ostatniego roku przed dniem wejścia w życie ustawy faktycznie korzystały z tej wspólnoty.
+2. Podział wspólnoty gruntowej następuje wyłącznie w razie objęcia jej gruntów scaleniem, za zgodą bezwzględnej większości osób uprawnionych do udziału w tej wspólnocie.
+
+**Art. 6.**
+
+1. Uprawnionymi do udziału we wspólnocie gruntowej są osoby fizyczne lub prawne posiadające gospodarstwa rolne, jeżeli w ciągu ostatniego roku przed dniem wejścia w życie ustawy faktycznie korzystały z tej wspólnoty.
 
 2. Jeżeli wspólnotą gruntową są lasy, grunty leśne albo nieużytki przeznaczone do zalesienia, uprawnionymi do udziału w takiej wspólnocie są osoby fizyczne mające miejsce zamieszkania lub osoby prawne mające siedzibę na terenie miejscowości, w której znajdują się grunty stanowiące wspólnotę, lub osoby mające miejsce zamieszkania na terenie innej miejscowości, a prowadzące gospodarstwo rolne, chyba że w okresie 5 lat przed dniem wejścia w życie ustawy osoby te faktycznie ze wspólnoty nie korzystały.
 
@@ -81,6 +88,8 @@ source: "isap-pdf"
 2. (uchylony)
 
 3. (uchylony)
+
+4. (uchylony)
 
 5. (uchylony)
 
@@ -110,7 +119,7 @@ source: "isap-pdf"
 
 6. Obszary gospodarstw rolnych osób uprawnionych do udziału we wspólnocie gruntowej określa się według danych zawartych w ewidencji gruntów i budynków.
 
-7. W przypadku gdy nie jest możliwe ustalenie uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6 ust. 1 lub 2, starosta wydaje decyzję ust. 1 lub 2.
+7. W przypadku gdy nie jest możliwe ustalenie uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6 ust. 1 lub 2, starosta wydaje decyzję o nieustaleniu wykazu uprawnionych do udziału we wspólnocie na podstawie art. 6 ust. 1 lub 2.
 
 **Art. 8b.** Decyzje, postanowienia oraz inne pisma w sprawach, o których mowa w art. 8a ust. 4, 5 i 7, doręcza się poprzez ogłoszenie w sposób zwyczajowo przyjęty w danej miejscowości, wywieszenie w urzędzie gminy oraz starostwa na okres 14 dni. Po upływie tego okresu pismo uważa się za doręczone.
 
@@ -133,7 +142,8 @@ source: "isap-pdf"
 
 6. We wniosku, o którym mowa w ust. 1, wskazuje się dowody, które świadczą:
 
-- **1)** że nieruchomość stanowi wspólnotę gruntową; gruntowej.
+- **1)** że nieruchomość stanowi wspólnotę gruntową;
+- **2)** o spełnieniu warunków do nabycia uprawnień do udziału we wspólnocie gruntowej.
 
 **Art. 8d.** Starosta wydaje decyzję o ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej, o których mowa w art. 6a, oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie.
 
@@ -157,7 +167,7 @@ source: "isap-pdf"
 
 **Art. 8i.**
 
-1. Wojewoda wydaje decyzję w sprawie nieodpłatnego nabycia przez gminę własności nieruchomości, o których mowa w art. 8g ust. 1, w przypadku własności następuje z dniem, w którym decyzja stała się ostateczna.
+1. Wojewoda wydaje decyzję w sprawie nieodpłatnego nabycia przez gminę własności nieruchomości, o których mowa w art. 8g ust. 1, w przypadku złożenia przez gminę wniosku, o którym mowa w art. 8g ust. 2. Nabycie prawa własności następuje z dniem, w którym decyzja stała się ostateczna.
 
 2. Wojewoda wydaje decyzję o odmowie nabycia przez gminę własności nieruchomości, o których mowa w ust. 1, jeżeli we wniosku o nabycie nie określono jednego z celów, o których mowa w art. 24 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, związanych z realizacją zadań własnych gminy.
 
@@ -167,6 +177,9 @@ source: "isap-pdf"
 
 **Art. 8k.** Wojewoda wydaje decyzję o nieodpłatnym nabyciu przez Skarb Państwa nieruchomości oznaczonych w ewidencji gruntów i budynków jako wspólnota gruntowa w przypadku, gdy:
 
+- **1)** w terminie, o którym mowa w art. 8h ust. 2, gmina nie złożyła wniosku albo
+- **2)** decyzja, o której mowa w art. 8i ust. 2, stała się ostateczna.
+
 **Art. 8l.** Ostateczna decyzja o nieodpłatnym nabyciu przez Skarb Państwa własności nieruchomości, o której mowa w art. 8k, stanowi podstawę do dokonania wpisu w księdze wieczystej.
 
 **Art. 8m.** W postępowaniu administracyjnym organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) w stosunku do starosty jest wojewoda.
@@ -175,7 +188,9 @@ source: "isap-pdf"
 
 **Art. 8o.**
 
-1. Do postępowań dotyczących wzruszenia decyzji ostatecznych wydanych na podstawie niniejszej ustawy nie stosuje się art. 145–145b, art. 154 oraz art. 155 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, jeżeli upłynęło 5 lat od dnia, w którym stała się ostateczna, decyzja o ustaleniu, które nieruchomości stanowią wspólnotę gruntową, ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie. stanowią wspólnotę gruntową, ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie, jeżeli od dnia, w którym decyzja stała się ostateczna, upłynęło 5 lat. Art. 158 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
+1. Do postępowań dotyczących wzruszenia decyzji ostatecznych wydanych na podstawie niniejszej ustawy nie stosuje się art. 145–145b, art. 154 oraz art. 155 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, jeżeli upłynęło 5 lat od dnia, w którym stała się ostateczna, decyzja o ustaleniu, które nieruchomości stanowią wspólnotę gruntową, ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie.
+
+2. Nie stwierdza się nieważności decyzji o ustaleniu, które nieruchomości stanowią wspólnotę gruntową, ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie, jeżeli od dnia, w którym decyzja stała się ostateczna, upłynęło 5 lat. Art. 158 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 **Art. 9.**
 
@@ -197,7 +212,9 @@ source: "isap-pdf"
 
 **Art. 13.**
 
-1. Zagospodarowanie wspólnot gruntowych użytkowanych rolniczo oraz nadających się do zagospodarowania rolniczego przeprowadza się w sposób przewidziany w niniejszej ustawie. określone w ust. 1 (lasy, grunty leśne i nieużytki przeznaczone do zalesienia oraz obszary wodne i grunty kopalne, jak żwiry, piaski, gliny, torfy) przeprowadza się stosownie do obowiązujących w tym zakresie przepisów, a w braku takich przepisów – zgodnie z charakterem użytku.
+1. Zagospodarowanie wspólnot gruntowych użytkowanych rolniczo oraz nadających się do zagospodarowania rolniczego przeprowadza się w sposób przewidziany w niniejszej ustawie.
+
+2. Zagospodarowanie wspólnot gruntowych stanowiących grunty inne niż określone w ust. 1 (lasy, grunty leśne i nieużytki przeznaczone do zalesienia oraz obszary wodne i grunty kopalne, jak żwiry, piaski, gliny, torfy) przeprowadza się stosownie do obowiązujących w tym zakresie przepisów, a w braku takich przepisów – zgodnie z charakterem użytku.
 
 **Art. 14.**
 
@@ -220,6 +237,22 @@ source: "isap-pdf"
 2. Członkami spółki mogą być również posiadacze gruntów przyległych do wspólnoty gruntowej na warunkach określonych w statucie.
 
 **Art. 17.** Statut spółki powinien określać:
+
+- **1)** nazwę i siedzibę spółki oraz przedmiot jej działalności;
+- **2)** prawa i obowiązki członków spółki;
+- **3)** organy spółki, sposób ich powoływania i zakres działania;
+- **3a)** rodzaje czynności prawnych dokonywanych przez spółkę, których podjęcie wymaga uchwały zebrania członków;
+- **3b)** warunki reprezentowania spółki oraz zaciągania zobowiązań majątkowych;
+- **4)** warunki dopuszczenia do spółki posiadaczy gruntów przyległych do wspólnoty gruntowej;
+- **5)** warunki dopuszczenia do użytkowania gruntów i urządzeń spółki osób niebędących członkami spółki;
+- **6)** podział dochodów i strat;
+- **7)** sposób rozwiązywania i likwidacji spółki.
+
+**Art. 18.**
+
+1. Statut spółki, jego zmiany, zatwierdza starosta w drodze decyzji. Z dniem, w którym decyzja o zatwierdzeniu statutu spółki stała się ostateczna, spółka nabywa osobowość prawną.
+
+2. Nazwa spółki i skład zarządu spółki oraz obszar wspólnoty gruntowej i wykazy uprawnionych do korzystania z tej wspólnoty podlegają z urzędu wpisowi do ewidencji gruntów. Wszelkie późniejsze zmiany w obszarze wspólnoty gruntowej i w wykazie osób uprawnionych, jak również zmiana statutu i zmiany w składzie osobowym zarządu, zgłasza do ewidencji zarząd spółki.
 
 **Art. 19.** Przy podejmowaniu uchwały na zebraniach członków spółki każdy członek ma prawo tylko do jednego głosu bez względu na wielkość jego udziału w tej wspólnocie (art. 9).
 
@@ -244,7 +277,7 @@ source: "isap-pdf"
 
 1. Za zobowiązania spółki odpowiada spółka całym swoim majątkiem.
 
-2. Członkowie spółki odpowiadają za zobowiązania spółki tylko do wysokości wartości ich udziałów w tej wspólnocie, jeżeli chodzi jednak o zobowiązania spółki do wysokości udziału w korzyściach osiąganych z tych gruntów.
+2. Członkowie spółki odpowiadają za zobowiązania spółki tylko do wysokości wartości ich udziałów w tej wspólnocie, jeżeli chodzi jednak o zobowiązania spółki utworzonej do zagospodarowania gruntów określonych w art. 1 ust. 2 – odpowiednio do wysokości udziału w korzyściach osiąganych z tych gruntów.
 
 **Art. 21.**
 
@@ -268,7 +301,11 @@ source: "isap-pdf"
 
 1. W terminie oznaczonym w statucie spółki organy spółki są obowiązane przedstawić właściwemu wójtowi (burmistrzowi, prezydentowi miasta) do zatwierdzenia plan zagospodarowania i regulamin użytkowania gruntów i urządzeń spółki. Jeżeli zagospodarowanie dotyczy gruntów określonych w art. 6 ust. 2 – organy spółki przedstawiają staroście do zatwierdzenia uproszczony plan zagospodarowania takich gruntów, po wcześniejszym uzyskaniu opinii właściwego terytorialnie nadleśniczego.
 
-2. Wójtowie (burmistrzowie, prezydenci miast) oraz starostowie są uprawnieni do wprowadzenia w przedstawionych planach oraz w regulaminie zmian i uzupełnień uzasadnionych względami gospodarczymi. trzech miesięcy od dnia ustalenia wykazu uprawnionych nie przedstawią do zatwierdzenia właściwemu wójtowi (burmistrzowi, prezydentowi miasta) statutu spółki, organ ten utworzy spółkę przymusową, nada jej statut oraz wyznaczy organy spółki spośród osób uprawnionych do udziału we wspólnocie gruntowej.
+2. Wójtowie (burmistrzowie, prezydenci miast) oraz starostowie są uprawnieni do wprowadzenia w przedstawionych planach oraz w regulaminie zmian i uzupełnień uzasadnionych względami gospodarczymi.
+
+**Art. 25.**
+
+1. Jeżeli uprawnieni do udziału we wspólnocie gruntowej w terminie trzech miesięcy od dnia ustalenia wykazu uprawnionych nie przedstawią do zatwierdzenia właściwemu wójtowi (burmistrzowi, prezydentowi miasta) statutu spółki, organ ten utworzy spółkę przymusową, nada jej statut oraz wyznaczy organy spółki spośród osób uprawnionych do udziału we wspólnocie gruntowej.
 
 2. Jeżeli osoby wybrane lub wyznaczone do organów spółki odmówią uczestniczenia w tych organach lub jeżeli działalność tych organów nie będzie osiągała celu, w którym spółka została utworzona, a w szczególności w razie nienależytego zagospodarowania gruntów wchodzących w skład wspólnoty, właściwy wójt (burmistrz, prezydent miasta) może powołać organy spółki spośród osób niebędących członkami spółki.
 
@@ -296,7 +333,9 @@ source: "isap-pdf"
 
 **Art. 28.**
 
-1. W razie zbycia wszystkich gruntów gospodarstwa rolnego przez uprawnionego do udziału we wspólnocie gruntowej udział w tej wspólnocie przechodzi na nabywcę tego gospodarstwa. gruntowej zachowuje dotychczasowy właściciel, chyba że na podstawie umowy odstąpi swe uprawnienia nabywcy. Jeżeli jednak zbywca pozostawia sobie obszar użytków rolnych nie większy niż 0,1 ha, udział we wspólnocie gruntowej przechodzi na nabywcę.
+1. W razie zbycia wszystkich gruntów gospodarstwa rolnego przez uprawnionego do udziału we wspólnocie gruntowej udział w tej wspólnocie przechodzi na nabywcę tego gospodarstwa.
+
+2. W razie zbycia części gruntów określonych w ust. 1, udział we wspólnocie gruntowej zachowuje dotychczasowy właściciel, chyba że na podstawie umowy odstąpi swe uprawnienia nabywcy. Jeżeli jednak zbywca pozostawia sobie obszar użytków rolnych nie większy niż 0,1 ha, udział we wspólnocie gruntowej przechodzi na nabywcę.
 
 **Art. 29.** Jeżeli gospodarstwo rolne, z którego posiadaniem był związany udział we wspólnocie gruntowej, zostało podzielone na części w drodze działu spadku lub wyjścia ze współwłasności, udział we wspólnocie ulega podziałowi proporcjonalnie do obszaru tych części.
 
@@ -316,7 +355,9 @@ source: "isap-pdf"
 
 **Art. 30b.** Z dniem podjęcia uchwały, o której mowa w art. 30a ust. 1, następuje otwarcie likwidacji spółki, o której mowa w art. 14.
 
-**Art. 30c.** Uchwała, o której mowa w art. 30a ust. 1, albo prawomocne orzeczenie sądu w przypadku, o którym mowa w art. 30a ust. 2, stanowi podstawę do dokonania wpisu w księdze wieczystej oraz ewidencji gruntów i budynków. Przepisy przejściowe i końcowe
+**Art. 30c.** Uchwała, o której mowa w art. 30a ust. 1, albo prawomocne orzeczenie sądu w przypadku, o którym mowa w art. 30a ust. 2, stanowi podstawę do dokonania wpisu w księdze wieczystej oraz ewidencji gruntów i budynków.
+
+#### Rozdział 4 Przepisy przejściowe i końcowe
 
 **Art. 31.** (pominięty)
 
@@ -325,6 +366,9 @@ source: "isap-pdf"
 **Art. 33.** Postępowanie w zakresie uporządkowania wspólnot gruntowych wszczęte przed dniem wejścia w życie niniejszej ustawy powinno być zakończone w trybie przepisów dotychczasowych.
 
 **Art. 34.** Traci moc:
+
+- **1)** art. 7 ust. 1 lit. b oraz art. 22 ust. 2 lit. a i art. 24 ustawy z dnia 31 lipca 1923 r. o scalaniu gruntów (Dz. U. z 1927 r. poz. 833, z późn. zm.) ;
+- **2)** ustawa z dnia 4 maja 1938 r. o uporządkowaniu wspólnot gruntowych (Dz. U. poz. 290).
 
 **Art. 35.** Ustawa wchodzi w życie z dniem ogłoszenia .
 

@@ -8,10 +8,10 @@ pos: 418
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# U S T A W A z dnia 26 maja 1995 r.
+# o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,6 @@ source: "isap-pdf"
 | Data wydania | 1995-07-19 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950830418) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/418/text.pdf) |
-
-o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych
 
 **Art. 1.** W ustawie z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych (Dz.U. 13, poz. 60) w art. 6 w ust. 7 wyrazy "0,2 %" zastępuje się wyrazem "0,2".
 

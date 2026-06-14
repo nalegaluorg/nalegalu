@@ -8,10 +8,10 @@ pos: 538
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 kwietnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 538 KonstytucjA Międzynarodowej Organizacji do Spraw Migracji, przyjęta w Genewie dnia 19 października 1953 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000538) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/538/text.pdf) |
 
-KonstytucjA Międzynarodowej Organizacji do Spraw Migracji, przyjęta w Genewie dnia 19 października 1953 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 19 października 1953 r. w Genewie została przyjęta Konstytucja Międzynarodowej Organizacji do Spraw Migracji, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższą konstytucją, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, Rzeczpospolita Polska postanawia przystąpić do tej konstytucji, postanowienia konstytucji są ratyfikowane, przyjęte, potwierdzone i będą niezmiennie zachowywane.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 19 października 1953 r. w Genewie została przyjęta Konstytucja Międzynarodowej Organizacji do Spraw Migracji, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższą konstytucją, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – Rzeczpospolita Polska postanawia przystąpić do tej konstytucji, – postanowienia konstytucji są ratyfikowane, przyjęte, potwierdzone i będą niezmiennie zachowywane.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 28 grudnia 2015 r.
 Prezydent Rzeczypospolitej Polskiej: A. Duda l.s.
+Prezes Rady Ministrów: B. Szydło
 

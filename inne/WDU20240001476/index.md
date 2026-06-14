@@ -8,10 +8,10 @@ pos: 1476
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 października 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1476 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 30 września 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,21 +25,21 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1476/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 30 września 2024 r.
-w sprawie określenia wymagań, jakim powinny odpowiadać zakłady i urządzenia lecznictwa uzdrowiskowego Na podstawie art. 5 ust. 3 oraz art. 19 ust. 2 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie określenia wymagań, jakim powinny odpowiadać zakłady i urządzenia lecznictwa uzdrowiskowego Na podstawie art. 5 ust. 3 oraz art. 19 ust. 2 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wymagania, jakim powinny odpowiadać zakłady lecznictwa uzdrowiskowego i urządzenia lecznictwa uzdrowiskowego;
 2) wymagania eksploatacyjne, funkcjonalne i techniczne, jakim powinny odpowiadać urządzenia lecznictwa uzdrowiskowego.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) gabinet diagnostyczno-zabiegowy pomieszczenie służące do wykonywania zabiegów diagnostycznych lub terapeutycznych o charakterze zabiegowym, wyposażone w leki pierwszej pomocy, zestaw do udzielania pierwszej pomocy oraz w co najmniej umywalkę z baterią z ciepłą i zimną wodą, dozownik z mydłem w płynie, dozownik ze środkiem dezynfekcyjnym, pojemnik z ręcznikami jednorazowego użycia i pojemnik na odpady, zlew z baterią z ciepłą i zimną wodą w przypadku konieczności mycia i sterylizacji narzędzi i sprzętu wielokrotnego użycia;
-2) gabinet lekarski pomieszczenie służące do udzielania porad lekarskich, wyposażone w co najmniej umywalkę z baterią z ciepłą i zimną wodą, dozownik z mydłem w płynie, dozownik ze środkiem dezynfekcyjnym, pojemnik z ręcznikami jednorazowego użycia i pojemnik na odpady;
-3) pokój łóżkowy pomieszczenie dla pacjentów wyposażone w łóżko lub łóżka jednoosobowe, umywalkę z baterią z ciepłą i zimną wodą, pojemnik na odpady, szafkę przyłóżkową, jeden stół na pokój, jedno krzesło na osobę i szafę ubraniową;
-4) pomieszczenie higieniczno-sanitarne pomieszczenie wyposażone co najmniej w miskę ustępową, umywalkę, natrysk i pojemnik na odpady;
-5) pomieszczenie higieniczno-sanitarne zbiorowe pomieszczenie wyposażone co najmniej w miskę ustępową, uchwyty zapewniające bezpieczeństwo przy korzystaniu z toalety, umywalkę, dozownik z mydłem w płynie, dozownik z płynem antyseptycznym, pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki;
-6) pomieszczenie porządkowe pomieszczenie służące do przechowywania sprzętu stosowanego do utrzymania czystości, środków czystości, preparatów myjąco-dezynfekcyjnych, a także do przygotowywania roztworów roboczych oraz mycia i dezynfekcji sprzętu stosowanego do utrzymywania czystości, wyposażone w zlew z baterią i dozownik ze środkiem dezynfekcyjnym.
+1) gabinet diagnostyczno-zabiegowy – pomieszczenie służące do wykonywania zabiegów diagnostycznych lub terapeutycznych o charakterze zabiegowym, wyposażone w leki pierwszej pomocy, zestaw do udzielania pierwszej pomocy oraz w co najmniej umywalkę z baterią z ciepłą i zimną wodą, dozownik z mydłem w płynie, dozownik ze środkiem dezynfekcyjnym, pojemnik z ręcznikami jednorazowego użycia i pojemnik na odpady, zlew z baterią z ciepłą i zimną wodą w przypadku konieczności mycia i sterylizacji narzędzi i sprzętu wielokrotnego użycia;
+2) gabinet lekarski – pomieszczenie służące do udzielania porad lekarskich, wyposażone w co najmniej umywalkę z baterią z ciepłą i zimną wodą, dozownik z mydłem w płynie, dozownik ze środkiem dezynfekcyjnym, pojemnik z ręcznikami jednorazowego użycia i pojemnik na odpady;
+3) pokój łóżkowy – pomieszczenie dla pacjentów wyposażone w łóżko lub łóżka jednoosobowe, umywalkę z baterią z ciepłą i zimną wodą, pojemnik na odpady, szafkę przyłóżkową, jeden stół na pokój, jedno krzesło na osobę i szafę ubraniową;
+4) pomieszczenie higieniczno-sanitarne – pomieszczenie wyposażone co najmniej w miskę ustępową, umywalkę, natrysk i pojemnik na odpady;
+5) pomieszczenie higieniczno-sanitarne zbiorowe – pomieszczenie wyposażone co najmniej w miskę ustępową, uchwyty zapewniające bezpieczeństwo przy korzystaniu z toalety, umywalkę, dozownik z mydłem w płynie, dozownik z płynem antyseptycznym, pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki;
+6) pomieszczenie porządkowe – pomieszczenie służące do przechowywania sprzętu stosowanego do utrzymania czystości, środków czystości, preparatów myjąco-dezynfekcyjnych, a także do przygotowywania roztworów roboczych oraz mycia i dezynfekcji sprzętu stosowanego do utrzymywania czystości, wyposażone w zlew z baterią i dozownik ze środkiem dezynfekcyjnym.
 § 3. 1. Pomieszczenia zakładu lecznictwa uzdrowiskowego lokalizuje się w strefie „A” ochrony uzdrowiskowej, w samodzielnym budynku albo w zespole budynków.
 2. Dopuszcza się lokalizowanie pomieszczeń:
-1) szpitala uzdrowiskowego lub innego niż szpital zakładu leczniczego, w którym są udzielane stacjonarne i całodobowe świadczenia zdrowotne inne niż szpitalne lub świadczenia zdrowotne zakładu przyrodoleczniczego w budynku o innym przeznaczeniu pod warunkiem całkowitego wyodrębnienia od pomieszczeń tego budynku;
-2) przychodni uzdrowiskowej w budynku o innym przeznaczeniu pod warunkiem całkowitego wyodrębnienia od pomieszczeń tego budynku, z wyłączeniem węzłów komunikacji pionowej i poziomej, w tym budynku, wspólnych dla wszystkich użytkowników, które nie są komunikacją wewnętrzną tego zakładu leczniczego.
+1) szpitala uzdrowiskowego lub innego niż szpital zakładu leczniczego, w którym są udzielane stacjonarne i całodobowe świadczenia zdrowotne inne niż szpitalne lub świadczenia zdrowotne zakładu przyrodoleczniczego w budynku o innym przeznaczeniu – pod warunkiem całkowitego wyodrębnienia od pomieszczeń tego budynku;
+2) przychodni uzdrowiskowej w budynku o innym przeznaczeniu – pod warunkiem całkowitego wyodrębnienia od pomieszczeń tego budynku, z wyłączeniem węzłów komunikacji pionowej i poziomej, w tym budynku, wspólnych dla wszystkich użytkowników, które nie są komunikacją wewnętrzną tego zakładu leczniczego.
 3. Pokoje łóżkowe nie mogą znajdować się poniżej poziomu terenu urządzonego przy budynku.
 4. Dopuszcza się lokalizowanie poniżej poziomu terenu urządzonego przy budynku pomieszczeń o charakterze diagnostycznym, terapeutycznym, magazynowym i pomieszczenia o funkcjach pomocniczych, przeznaczonych na pobyt ludzi, pod warunkiem uzyskania zgody właściwego państwowego wojewódzkiego inspektora sanitarnego.
 § 4. Kształt i powierzchnia pomieszczeń zakładu lecznictwa uzdrowiskowego umożliwiają prawidłowe rozmieszczenie, zainstalowanie i użytkowanie urządzeń, aparatury i sprzętu, które stanowią jego niezbędne funkcjonalne wyposażenie.
@@ -53,7 +53,7 @@ w sprawie określenia wymagań, jakim powinny odpowiadać zakłady i urządzenia
 § 7. W pokojach łóżkowych zakładu lecznictwa uzdrowiskowego zapewnia się bezpośredni dostęp światła dziennego.
 § 8. W zakładzie lecznictwa uzdrowiskowego, w którym są udzielane stacjonarne i całodobowe świadczenia zdrowotne:
 1) co najmniej 2 % pokoi łóżkowych i pomieszczeń higieniczno-sanitarnych jest dostępnych dla osób z niepełnosprawnościami, w tym poruszających się na wózkach inwalidzkich;
-2) znajduje się co najmniej izolatka będąca pomieszczeniem przeznaczonym do odosobnienia pacjenta lub grupy pacjentów, chorych albo podejrzanych o chorobę zakaźną w celu uniemożliwienia przeniesienia czynnika chorobotwórczego na inne osoby.
+2) znajduje się co najmniej izolatka będąca pomieszczeniem przeznaczonym do odosobnienia pacjenta lub grupy pacjentów, chorych albo podejrzanych o chorobę zakaźną – w celu uniemożliwienia przeniesienia czynnika chorobotwórczego na inne osoby.
 § 9. 1. Szpital uzdrowiskowy odpowiada następującym wymaganiom:
 1) oddział szpitalny składa się z zespołu pomieszczeń pielęgnacyjnych i ogólnych, przy czym pomieszczenia ogólne mogą być wspólne dla całego szpitala uzdrowiskowego;
 2) w skład zespołu pomieszczeń pielęgnacyjnych wchodzą co najmniej:
@@ -99,21 +99,21 @@ d) pokój dla nauczycieli;
 2) w skład zakładu przyrodoleczniczego wchodzą co najmniej:
 a) gabinet diagnostyczno-zabiegowy,
 b) punkt pielęgniarski z dostępem do umywalki wyposażonej w baterię z ciepłą i zimną wodą, dozownik z płynem na mydło, dozownik ze środkiem dezynfekującym, pojemnik z ręcznikami jednorazowego użytku i pojemnik na zużyte ręczniki,
-c) dział balneoterapii lub peloidoterapii, który w zależności od prowadzonego kierunku leczniczego oraz dostępnych naturalnych surowców leczniczych jest wyposażony w: wanny do kąpieli leczniczych lub basen leczniczy, lub inhalatoria do inhalacji z leczniczych wód mineralnych, lub urządzenia do wykorzystywania gazów leczniczych, lub wanny do kąpieli peloidowych, lub stanowiska do zawijań lub okładów lub fasonów peloidowych;
+c) dział balneoterapii lub peloidoterapii, który w zależności od prowadzonego kierunku leczniczego oraz dostępnych naturalnych surowców leczniczych jest wyposażony w: – wanny do kąpieli leczniczych lub – basen leczniczy, lub – inhalatoria do inhalacji z leczniczych wód mineralnych, lub – urządzenia do wykorzystywania gazów leczniczych, lub – wanny do kąpieli peloidowych, lub – stanowiska do zawijań lub okładów lub fasonów peloidowych;
 3) w przypadku gdy zakład przyrodoleczniczy jest zlokalizowany w budynku albo w zespole budynków, w których są zlokalizowane różne zakłady lecznictwa uzdrowiskowego, to gabinety lekarskie, punkty pielęgniarskie i gabinety diagnostyczno-zabiegowe oraz pomieszczenia ogólne mogą być wspólne dla tych zakładów;
 4) w zależności od prowadzonego kierunku leczniczego i zakresu udzielanych świadczeń opieki zdrowotnej w zakładzie przyrodoleczniczym znajdują się:
-a) dział hydroterapii wyposażony w: wanny lub natryski, lub basen rehabilitacyjny,
-b) dział kinezyterapii wyposażony co najmniej w: drabinki rehabilitacyjne, maty lub materace do ćwiczeń, rotory do ćwiczeń kończyn górnych i kończyn dolnych, cykloergometr lub bieżnię rehabilitacyjną, uniwersalny gabinet usprawniania leczniczego (UGUL) lub inny system spełniający jego rolę, stół rehabilitacyjny, stół lub tablicę do ćwiczeń manualnych,
-c) dział termoterapii wyposażony w: zestaw do kriostymulacji parami ciekłego azotu lub dwutlenkiem węgla (C O₂) lub nadmuchem zimnego powietrza lub urządzenie do niskotemperaturowej krioterapii ogólnoustrojowej z zakresem uzyskiwanych temperatur od −120 ° do −160 ° i z możliwością obserwacji pacjenta w trakcie zabiegu,
-d) dział światłolecznictwa wyposażony w: lampę do naświetlań promieniowaniem podczerwonym lub ultrafioletowym lub zestaw do laseroterapii,
-e) dział fizykoterapii wyposażony w: zestaw do elektroterapii z osprzętem lub zestaw do magnetoterapii, lub zestaw do ultradźwięków, z wyłączeniem zakładu przyrodoleczniczego dla dzieci do ukończenia 18. roku życia,
+a) dział hydroterapii wyposażony w: – wanny lub – natryski, lub – basen rehabilitacyjny,
+b) dział kinezyterapii wyposażony co najmniej w: – drabinki rehabilitacyjne, – maty lub materace do ćwiczeń, – rotory do ćwiczeń kończyn górnych i kończyn dolnych, – cykloergometr lub bieżnię rehabilitacyjną, – uniwersalny gabinet usprawniania leczniczego (UGUL) lub inny system spełniający jego rolę, – stół rehabilitacyjny, – stół lub tablicę do ćwiczeń manualnych,
+c) dział termoterapii wyposażony w: – zestaw do kriostymulacji parami ciekłego azotu lub dwutlenkiem węgla (CO₂) lub nadmuchem zimnego powietrza lub – urządzenie do niskotemperaturowej krioterapii ogólnoustrojowej z zakresem uzyskiwanych temperatur od −120 ° do −160 ° i z możliwością obserwacji pacjenta w trakcie zabiegu,
+d) dział światłolecznictwa wyposażony w: – lampę do naświetlań promieniowaniem podczerwonym lub ultrafioletowym lub – zestaw do laseroterapii,
+e) dział fizykoterapii wyposażony w: – zestaw do elektroterapii z osprzętem lub – zestaw do magnetoterapii, lub – zestaw do ultradźwięków, z wyłączeniem zakładu przyrodoleczniczego dla dzieci do ukończenia 18. roku życia,
 f) dział masażu leczniczego;
 5) sale kinezyterapii indywidualnej lub grupowej oraz gabinety masażu manualnego stanowią odrębne pomieszczenia;
 6) urządzenia do światłolecznictwa i elektroterapii są instalowane w oddzielnych pomieszczeniach lub boksach;
 7) urządzenia do magnetoterapii oraz urządzenia do laseroterapii są instalowane w oddzielnych pomieszczeniach lub boksach zgodnie z Polskimi Normami;
 8) urządzenia emitujące fale elektromagnetyczne wielkiej częstotliwości są instalowane w pomieszczeniach lub boksach odpowiednio zabezpieczonych przed szkodliwym oddziaływaniem promieniowania elektromagnetycznego na otoczenie;
 9) posiada miejsca, w których można w pozycji siedzącej oczekiwać na zabiegi i wypoczywać po nich, odpowiednio do rodzajów i liczby stanowisk zabiegowych;
-10) posiada co najmniej salę wypoczynkową, w której zgodnie ze wskazaniami medycznymi można po zabiegach wypoczywać w pozycji leżącej lub siedzącej, przy kąpielach mineralnych oraz kąpielach i zawijaniach peloidowych, z wyłączeniem zakładów przyrodoleczniczych funkcjonalnie powiązanych z innymi zakładami lecznictwa uzdrowiskowego, w których są udzielane stacjonarne i całodobowe świadczenia zdrowotne jeżeli w zakładzie przyrodoleczniczym są wykonywane zabiegi wyłącznie pacjentom tego zakładu;
+10) posiada co najmniej salę wypoczynkową, w której zgodnie ze wskazaniami medycznymi można po zabiegach wypoczywać w pozycji leżącej lub siedzącej, przy kąpielach mineralnych oraz kąpielach i zawijaniach peloidowych, z wyłączeniem zakładów przyrodoleczniczych funkcjonalnie powiązanych z innymi zakładami lecznictwa uzdrowiskowego, w których są udzielane stacjonarne i całodobowe świadczenia zdrowotne – jeżeli w zakładzie przyrodoleczniczym są wykonywane zabiegi wyłącznie pacjentom tego zakładu;
 11) posiada co najmniej dwa pomieszczenia higieniczno-sanitarne zbiorowe, licząc łącznie na 60 osób równocześnie przebywających w zakładzie przyrodoleczniczym, przy czym przynajmniej jedno pomieszczenie powinno być dostępne dla osób z niepełnosprawnościami, w tym poruszających się na wózkach inwalidzkich;
 12) ściany i podłogi pomieszczeń, w których odbywają się zabiegi balneoterapii, hydroterapii oraz kąpieli i zawijań peloidowych, są wyłożone materiałem wodoszczelnym, pozwalającym na ich łatwe mycie i dezynfekcję, zabezpieczającym przed poślizgiem;
 13) do stanowisk zabiegowych w pomieszczeniach, w których odbywają się zabiegi balneoterapii, hydroterapii oraz kąpieli i zawijań peloidowych, jest doprowadzona woda ciepła i zimna;
@@ -214,15 +214,15 @@ b) częściowo zamkniętym, który polega na określonym dopływie wody z ujęci
 5) sposób eksploatacji basenu oraz sposób monitorowania jakości wody i jakości powietrza hali basenowej określa instrukcja funkcjonalna, która jest opracowana dla każdego basenu;
 6) w skład instalacji basenu wchodzi:
 a) instalacja zasilająca wodą leczniczą,
-b) instalacja przelewowa wraz ze zbieraczem zanieczyszczeń kanalikiem przelewowym wokół basenu,
+b) instalacja przelewowa wraz ze zbieraczem zanieczyszczeń – kanalikiem przelewowym wokół basenu,
 c) instalacja spustowa odprowadzająca wodę do kanalizacji,
 d) instalacja zwykłej wody ciepłej i zimnej;
 7) instalacje i urządzenia basenowe są wykonane z materiałów niereagujących chemicznie z używaną wodą leczniczą;
 8) posadzka, dno i ściany niecki basenu są wyłożone materiałem wodoszczelnym o powierzchni zabezpieczającej przed poślizgiem i pozwalającym na ich łatwe mycie i dezynfekcję; posadzka jest wyposażona we wpusty ściekowe ze spadkiem posadzki w kierunku wpustów w celu zabezpieczenia przed spływem wody przelewającej się z basenu;
 9) wloty i wyloty wody oraz jej spust są usytuowane w sposób zapewniający równy przepływ wody we wszystkich przekrojach niecki basenowej; co najmniej jeden spust denny umożliwia całkowite opróżnienie basenu;
 10) przy basenie, w którym stosuje się dezynfekcję wody środkami chemicznymi, znajdują się pomieszczenia, które są przeznaczone na stację uzdatniania, oraz magazyny środków chemicznych, które są wyposażone w wentylację i urządzenia pomiarowo-kontrolne do oznaczania środków chemicznych pozostających w wodzie wypełniającej basen;
-11) pomieszczenia przybasenowe są podzielone na dwie strefy przeznaczoną dla pacjentów w obuwiu i przeznaczoną dla pacjentów bez obuwia; poszczególne pomieszczenia, z których mogą korzystać osoby z niepełnosprawnościami, w tym poruszające się na wózkach inwalidzkich, są usytuowane w następującej kolejności:
-a) szatnie wyposażone w szafki na ubrania i indywidualne przebieralnie w liczbie odpowiedniej dla osób korzystających z basenu,
+11) pomieszczenia przybasenowe są podzielone na dwie strefy – przeznaczoną dla pacjentów w obuwiu i przeznaczoną dla pacjentów bez obuwia; poszczególne pomieszczenia, z których mogą korzystać osoby z niepełnosprawnościami, w tym poruszające się na wózkach inwalidzkich, są usytuowane w następującej kolejności:
+a) szatnie wyposażone w szafki na ubrania i indywidualne przebieralnie – w liczbie odpowiedniej dla osób korzystających z basenu,
 b) pomieszczenia higieniczno-sanitarne zbiorowe,
 c) natryski,
 d) brodzik lub urządzenia do natryskiwania stóp środkiem dezynfekującym;
@@ -237,7 +237,7 @@ schody są wyposażone co najmniej w jedną poręcz;
 1) jest wypełniany wodą spełniającą wymagania jakościowe pod względem mikrobiologicznym i fizykochemicznym, zgodnie z przepisami wydanymi na podstawie art. 11 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych;
 2) w skład instalacji basenu wchodzi:
 a) instalacja wody ciepłej i zimnej,
-b) instalacja przelewowa wraz ze zbieraczem zanieczyszczeń kanalikiem przelewowym wokół basenu,
+b) instalacja przelewowa wraz ze zbieraczem zanieczyszczeń – kanalikiem przelewowym wokół basenu,
 c) instalacja spustowa odprowadzająca wodę do kanalizacji;
 3) na jedną osobę korzystającą z basenu przypada powierzchnia wody umożliwiająca właściwe prowadzenie rehabilitacji;
 4) jest wyposażony w sprzęt do ćwiczeń; w szczególności na brzegach niecki umieszcza się uchwyty do ćwiczeń; poręcze do ćwiczeń rehabilitacyjnych powinny zajmować minimum 50 % obwodu basenu, przy czym mogą one stanowić oddzielny element konstrukcyjny, jak też stanowić stałe części niecki basenowej.
@@ -266,8 +266,8 @@ d) badań próbek pobranych z miejsc, w których są wykonywane iniekcje skał;
 1) zakład przyrodoleczniczy dostosuje swoją działalność do wymagań określonych w § 14 pkt 16;
 2) tężnię dostosuje swoją działalność do wymagań określonych w § 18 pkt 2 i 4;
 3) leczniczy basen uzdrowiskowy lub rehabilitacyjny basen uzdrowiskowy dostosuje swoją działalność do wymagań określonych w:
-a) § 21 pkt 4–11 w przypadku leczniczego basenu uzdrowiskowego,
-b) § 21 pkt 4, 5 i 8–11 w przypadku rehabilitacyjnego basenu uzdrowiskowego.
+a) § 21 pkt 4–11 – w przypadku leczniczego basenu uzdrowiskowego,
+b) § 21 pkt 4, 5 i 8–11 – w przypadku rehabilitacyjnego basenu uzdrowiskowego.
 § 26. Traci moc rozporządzenie Ministra Zdrowia z dnia 2 kwietnia 2012 r. w sprawie określenia wymagań, jakim powinny odpowiadać zakłady i urządzenia lecznictwa uzdrowiskowego (Dz. U. z 2023 r. poz. 161).
 § 27. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
 Minister Zdrowia: wz. W. Konieczny

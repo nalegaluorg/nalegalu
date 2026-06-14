@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 8 marca 1990 r. o samorządzie gminnym*
 
 Łącznie: **676** orzeczeń
-(pominięto 701 orzeczeń sądów rejonowych)
+(pominięto 703 orzeczeń sądów rejonowych)
 
 ## art. 1 (13)
 

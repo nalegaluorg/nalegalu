@@ -8,10 +8,10 @@ pos: 1020
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lipca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1020 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 5 lipca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1020/text.pdf) |
 
-Poz. 1020 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 5 lipca 2024 r.
-w sprawie danych udostępnianych właścicielowi budynku lub lokalu z centralnej ewidencji emisyjności budynków oraz informacji, których podanie jest wymagane w celu uzyskania dostępu do tych danych Na podstawie art. 27e ust. 2 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy zakres danych udostępnianych właścicielowi budynku lub lokalu z centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, zwanej dalej „ewidencją”, oraz informacje, których podanie przez właściciela budynku lub lokalu jest wymagane w celu uzyskania dostępu do tych danych.
+w sprawie danych udostępnianych właścicielowi budynku lub lokalu z centralnej ewidencji emisyjności budynków oraz informacji, których podanie jest wymagane w celu uzyskania dostępu do tych danych Na podstawie art. 27e ust. 2 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy zakres danych udostępnianych właścicielowi budynku lub lokalu z centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, zwanej dalej „ewidencją”, oraz informacje, których podanie przez właściciela budynku lub lokalu jest wymagane w celu uzyskania dostępu do tych danych.
 § 2. Udostępnienie właścicielowi danych dotyczących jego budynku lub lokalu następuje po podaniu przez właściciela w procesie uwierzytelnienia:
 1) w systemie teleinformatycznym obsługującym ewidencję:
 a) unikalnego identyfikatora dokumentu zawartego w elektronicznym formularzu inwentaryzacyjnym, o którym mowa w art. 27c ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, oraz
@@ -40,7 +40,7 @@ c) obwód budynku,
 d) funkcję ogólną,
 e) rok budowy,
 f) wysokość kondygnacji ogrzewanych,
-g) powierzchnię pomieszczeń ogrzewanych, Dziennik Ustaw – 2 – Poz. 1020
+g) powierzchnię pomieszczeń ogrzewanych,
 h) stopień ocieplenia ścian zewnętrznych,
 i) obliczony współczynnik przenikania ciepła U,
 j) średnią temperaturę pomieszczeń ogrzewanych w sezonie grzewczym,

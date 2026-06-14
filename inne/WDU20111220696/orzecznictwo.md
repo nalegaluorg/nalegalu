@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych*
 
-Łącznie: **42** orzeczeń
+Łącznie: **43** orzeczeń
 (pominięto 42 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
@@ -101,11 +101,12 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o refundacji leków, śr
 - 2013-06-06 | TK | [Ts 18/12](https://www.saos.org.pl/judgments/111713) | Postanowienie ★
 - 2012-11-19 | TK | [Ts 18/12](https://www.saos.org.pl/judgments/111051) | Postanowienie ★
 
-## art. 43 (4)
+## art. 43 (5)
 
 - 2013-06-06 | TK | [Ts 18/12](https://www.saos.org.pl/judgments/111713) | Postanowienie ★
 - 2012-11-19 | TK | [Ts 18/12](https://www.saos.org.pl/judgments/111051) | Postanowienie ★
 - 2019-01-29 | SO | [I ACa 335/18](https://www.saos.org.pl/judgments/376411) | Wyrok
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
 - 2023-06-29 | SO | [III Ca 2173/21](https://www.saos.org.pl/judgments/506125) | Uzasadnienie
 
 ## art. 44 (1)

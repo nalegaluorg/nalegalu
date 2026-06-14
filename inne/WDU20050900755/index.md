@@ -8,7 +8,7 @@ pos: 755
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o utworzeniu Uniwersytetu Kazimierza Wielkiego w Bydgoszczy

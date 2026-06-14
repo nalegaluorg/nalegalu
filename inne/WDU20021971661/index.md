@@ -8,7 +8,7 @@ pos: 1661
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
@@ -37,11 +37,19 @@ source: "isap-pdf"
 
 **Art. 3.** Podmiot zbiorowy podlega odpowiedzialności za czyn zabroniony, którym jest zachowanie osoby fizycznej:
 
+- **1)** działającej w imieniu lub w interesie podmiotu zbiorowego w ramach uprawnienia lub obowiązku do jego reprezentowania, podejmowania w jego imieniu decyzji lub wykonywania kontroli wewnętrznej albo przy przekroczeniu tego uprawnienia lub niedopełnieniu tego obowiązku,
+- **2)** dopuszczonej do działania w wyniku przekroczenia uprawnień lub niedopełnienia obowiązków przez osobę, o której mowa w pkt 1,
+- **3)** działającej w imieniu lub w interesie podmiotu zbiorowego, za zgodą lub wiedzą osoby, o której mowa w pkt 1, 3a) będącej przedsiębiorcą, który bezpośrednio współdziała z podmiotem zbiorowym w realizacji celu prawnie dopuszczalnego
+- **4)** (uchylony) – jeżeli zachowanie to przyniosło lub mogło przynieść podmiotowi zbiorowemu korzyść, chociażby niemajątkową.
+
 **Art. 4.** Podmiot zbiorowy podlega odpowiedzialności, jeżeli fakt popełnienia czynu zabronionego, wymienionego w art. 16, przez osobę, o której mowa w art. 3, został potwierdzony prawomocnym wyrokiem skazującym tę osobę, wyrokiem warunkowo umarzającym wobec niej postępowanie karne albo postępowanie w sprawie o przestępstwo skarbowe, orzeczeniem o udzielenie tej osobie zezwolenia na dobrowolne poddanie się odpowiedzialności albo orzeczeniem sądu o umorzeniu przeciwko niej postępowania z powodu okoliczności wyłączającej ukaranie sprawcy.
 
 **Art. 4a.** W przypadku popełnienia czynu zabronionego, wymienionego w art. 16 ust. 1 pkt 8, przez osobę, o której mowa w art. 3, podmiot zbiorowy podlega odpowiedzialności niezależnie od wydania wyroku albo orzeczenia, o których mowa w art. 4.
 
 **Art. 5.** Podmiot zbiorowy podlega odpowiedzialności, jeżeli do popełnienia czynu zabronionego doszło w następstwie:
+
+- **1)** co najmniej braku należytej staranności w wyborze osoby fizycznej, o której mowa w art. 3 pkt 2 lub 3, lub co najmniej braku należytego nadzoru nad tą osobą – ze strony organu lub przedstawiciela podmiotu zbiorowego;
+- **2)** organizacji działalności podmiotu zbiorowego, która nie zapewniała uniknięcia popełnienia czynu zabronionego przez osobę, o której mowa w art. 3 pkt 1 lub 3a, podczas gdy mogło je zapewnić zachowanie należytej staranności, wymaganej w danych okolicznościach, przez organ lub przedstawiciela podmiotu zbiorowego.
 
 **Art. 6.** Odpowiedzialność albo brak odpowiedzialności podmiotu zbiorowego na zasadach określonych w niniejszej ustawie nie wyłącza odpowiedzialności cywilnej za wyrządzoną szkodę, odpowiedzialności administracyjnej ani indywidualnej odpowiedzialności prawnej sprawcy czynu zabronionego.
 
@@ -223,6 +231,14 @@ source: "isap-pdf"
 **Art. 28.** Wniosek złożony przez pokrzywdzonego powinien być sporządzony i podpisany przez osobę uprawnioną do obrony według przepisów o ustroju adwokatury lub ustawy o radcach prawnych.
 
 **Art. 29.** Wniosek powinien zawierać:
+
+- **1)** oznaczenie wnioskodawcy oraz jego adres dla doręczeń;
+- **2)** oznaczenie podmiotu zbiorowego oraz jego adres dla doręczeń;
+- **3)** dokładne określenie czynu zabronionego stanowiącego podstawę odpowiedzialności podmiotu zbiorowego, z uwzględnieniem okoliczności, o których mowa w art. 3 i 5;
+- **4)** wskazanie prawomocnego wyroku lub innego orzeczenia, o którym mowa w art. 4, wraz z oznaczeniem sądu lub organu, który wydał to orzeczenie;
+- **5)** wskazanie sądu właściwego do rozpoznania sprawy;
+- **6)** uzasadnienie;
+- **7)** wykaz dowodów, których przeprowadzenia na rozprawie głównej domaga się wnioskodawca.
 
 **Art. 30.** Z wnioskiem przesyła się sądowi odpis orzeczenia, o którym mowa w art. 4, wraz z uzasadnieniem, jeżeli je sporządzono.
 

@@ -8,10 +8,10 @@ pos: 319
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -39,7 +39,8 @@ poz. 1463), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem na
 poz. 1984), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.”.
 Prezes Rady Ministrów: B. Szydło ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 listopada 2011 r.
 w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi Na podstawie art. 77 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. poz. 1131, z 2011 r.
-poz. 768, z 2012 r. poz. 1407, z 2014 r. poz. 1741 i 1888 oraz z 2015 r. poz. 2281) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 768, z 2012 r. poz. 1407, z 2014 r. poz. 1741 i 1888 oraz z 2015 r. poz. 2281) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wysokość opłaty za udostępnianie danych zgromadzonych w Rejestrze Dowodów Osobistych w trybie jednostkowym;
 2) wysokość opłaty za udostępnianie danych zgromadzonych w Rejestrze Dowodów Osobistych w trybie ograniczonej teletransmisji danych;
 3) wysokość opłaty za udostępnianie dokumentacji związanej z dowodami osobistymi;

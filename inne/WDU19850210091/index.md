@@ -8,7 +8,7 @@ pos: 91
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rybactwie śródlądowym
@@ -45,7 +45,7 @@ source: "isap-pdf"
 
 **Art. 1a.**
 
-1. Zadania i uprawnienia państwa członkowskiego albo właściwego organu, określone w przepisach wymienionych w art. 1 ust. 1 pkt 2, wykonuje pisach nie należy do właściwości innych organów administracji publicznej.
+1. Zadania i uprawnienia państwa członkowskiego albo właściwego organu, określone w przepisach wymienionych w art. 1 ust. 1 pkt 2, wykonuje minister właściwy do spraw rybołówstwa, jeżeli zakres spraw określony w tych przepisach nie należy do właściwości innych organów administracji publicznej.
 
 2. Zadania samorządu województwa, o których mowa w art. 6 ust. 2a, 2c i 3, art. 6a ust. 4, art. 6b ust. 1, art. 15 ust. 2, 2b i 2c, art. 17 ust. 1, 3 i 5, art. 18 ust. 1 oraz art. 27 ust. 4, są zadaniami z zakresu administracji rządowej.
 
@@ -64,10 +64,11 @@ source: "isap-pdf"
 2. W programie ochrony i odbudowy zasobów ryb określa się w szczególności:
 
 - **1)** cel ogólny i cele szczegółowe ochrony i odbudowy zasobów określonych gatunków ryb, z uwzględnieniem priorytetów krótko- i długoterminowych;
-- **2)** rodzaj, zakres i harmonogram działań: działań wspomagających, w tym organy administracji publicznej i użytkowników wód;
+- **2)** rodzaj, zakres i harmonogram działań:
     - **a)** podstawowych – obejmujących w szczególności zalecane środki prawne, ekonomiczne, kontrolne i monitorujące,
     - **b)** wspomagających – obejmujących w szczególności działania badawczo-rozwojowe, promocyjne, edukacyjne i szkoleniowe, zapewniające prawidłową realizację działań podstawowych;
 
+- **3)** podmioty uprawnione lub obowiązane do podjęcia działań podstawowych oraz działań wspomagających, w tym organy administracji publicznej i użytkowników wód;
 - **4)** możliwe źródła i sposoby finansowania działań podstawowych oraz działań wspomagających.
 
 3. Minister właściwy do spraw rybołówstwa może, w drodze rozporządzenia, wprowadzić program ochrony i odbudowy zasobów ryb na terytorium Rzeczypospolitej Polskiej lub jego części, mając na względzie utrzymanie, odtworzenie lub poprawę stanu zasobów określonych gatunków ryb w wodach, racjonalne korzystanie z zasobów tych ryb oraz zachowanie różnorodności biologicznej w wodach.
@@ -82,7 +83,11 @@ source: "isap-pdf"
 
 3. Minister właściwy do spraw rybołówstwa, w drodze rozporządzenia, wprowadza program ochrony i odbudowy zasobów ryb na terytorium Rzeczypospolitej Polskiej lub jego części, po jego zatwierdzeniu przez właściwy organ Unii Europejskiej, mając na względzie utrzymanie, odtworzenie lub poprawę stanu zasobów określonych gatunków ryb w wodach, racjonalne korzystanie z zasobów tych ryb oraz zachowanie różnorodności biologicznej w wodach.
 
-4. Realizacja programu ochrony i odbudowy zasobów ryb jest finansowana albo współfinansowana ze środków budżetu państwa, w szczególności stanowiących środki pochodzące z budżetu Unii Europejskiej. z ministrem właściwym do spraw środowiska oraz ministrem właściwym do spraw gospodarki wodnej, w przypadku wprowadzenia programu ochrony i odbudowy zasobów ryb, o którym mowa w art. 2b, dokonuje okresowej analizy wyników realizacji działań przewidzianych w tym programie oraz przedstawia w tym zakresie sprawozdanie Radzie Ministrów.
+4. Realizacja programu ochrony i odbudowy zasobów ryb jest finansowana albo współfinansowana ze środków budżetu państwa, w szczególności stanowiących środki pochodzące z budżetu Unii Europejskiej.
+
+**Art. 2d.**
+
+1. Minister właściwy do spraw rybołówstwa w porozumieniu z ministrem właściwym do spraw środowiska oraz ministrem właściwym do spraw gospodarki wodnej, w przypadku wprowadzenia programu ochrony i odbudowy zasobów ryb, o którym mowa w art. 2b, dokonuje okresowej analizy wyników realizacji działań przewidzianych w tym programie oraz przedstawia w tym zakresie sprawozdanie Radzie Ministrów.
 
 2. Jeżeli przepisy Unii Europejskiej nakładają obowiązek okresowej analizy wyników realizacji działań przewidzianych w programie ochrony i odbudowy zasobów ryb, o którym mowa w art. 2c, i przedstawiania w tym zakresie sprawozdania odpowiednim organom Unii Europejskiej, czynności te są dokonywane przez ministra właściwego do spraw rybołówstwa, przy czym czynności związane z okresową analizą wyników realizacji tych działań są dokonywane w porozumieniu z ministrem właściwym do spraw środowiska oraz ministrem właściwym do spraw gospodarki wodnej.
 
@@ -98,14 +103,15 @@ source: "isap-pdf"
 2. Zezwoleń, o których mowa w ust. 1, nie wymagają następujące działania:
 
 - **1)** wprowadzenie ryb gatunku obcego wymienionego w wykazie gatunków ryb uznanych za nierodzime określonym w przepisach wydanych na podstawie art. 3f pkt 1 lit. a, polegające na zarybieniu wód, dokonywane zgodnie z warunkami określonymi w tych przepisach;
-- **2)** wprowadzenie w rozumieniu art. 3 pkt 10 rozporządzenia nr 708/2007 ryb gatunku obcego wymienionego w wykazie gatunków ryb uznanych za dokonywane zgodnie z warunkami określonymi w tych przepisach.
+- **2)** wprowadzenie w rozumieniu art. 3 pkt 10 rozporządzenia nr 708/2007 ryb gatunku obcego wymienionego w wykazie gatunków ryb uznanych za nierodzime określonym w przepisach wydanych na podstawie art. 3f pkt 1 lit. b, dokonywane zgodnie z warunkami określonymi w tych przepisach.
 
 2a. Chów, hodowla lub działanie z wykorzystaniem ryb gatunku uznanego za nierodzimy, należącego do inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii w rozumieniu art. 3 pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm. ) lub do inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, umieszczonych na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. poz. 1718) są możliwe tylko w zamkniętym zakładzie akwakultury, w przypadku spełniania warunków określonych w przepisach wydanych na podstawie art. 3f oraz po uzyskaniu zezwolenia na odstępstwo od zakazów, o których mowa w art. 7 ust. 1 rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych, lub odstępstwo od zakazów, o których mowa w art. 7 ust. 2 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych.
 
 3. Minister właściwy do spraw rybołówstwa może określić, w drodze rozporządzenia, warunki, w szczególności techniczne, organizacyjne lub gospodarcze, przeniesienia ryb gatunku niewystępującego miejscowo w rozumieniu art. 3 pkt 7 rozporządzenia nr 708/2007, polegającego na zarybieniu wód, lub przeniesienia w rozumieniu art. 3 pkt 11 tego rozporządzenia ryb znajdujących się w wykazie gatunków ryb uznanych za rodzime określonym w przepisach wydanych na podstawie art. 3f pkt 2, mając na względzie rodzaj prowadzonej działalności rybackiej, znaczenie gospodarcze poszczególnych gatunków ryb oraz przewidywany wpływ takiego przeniesienia na środowisko.
 
-4. W przypadku wystąpienia negatywnego wpływu na środowisko związanego z wprowadzaniem gatunków ryb, na które nie są wymagane zezwolenia, o których mowa w ust. 1, lub przenoszeniem ryb gatunków, dla których nie określono warunków ich przenoszenia na podstawie ust. 3, minister właściwy do spraw rybołówstwa może, w drodze rozporządzenia: wprowadzania lub przenoszenia tych ryb,
+4. W przypadku wystąpienia negatywnego wpływu na środowisko związanego z wprowadzaniem gatunków ryb, na które nie są wymagane zezwolenia, o których mowa w ust. 1, lub przenoszeniem ryb gatunków, dla których nie określono warunków ich przenoszenia na podstawie ust. 3, minister właściwy do spraw rybołówstwa może, w drodze rozporządzenia:
 
+- **1)** wprowadzić na terytorium Rzeczypospolitej Polskiej albo jego części zakaz wprowadzania lub przenoszenia tych ryb,
 - **2)** określić działania mające na celu wyeliminowanie zaistniałych negatywnych skutków – uwzględniając ochronę różnorodności biologicznej.
 
 **Art. 3a.**
@@ -128,7 +134,9 @@ source: "isap-pdf"
 
 5. W zezwoleniu, o którym mowa w art. 3 ust. 1, zatwierdza się plan awaryjny, jeżeli ustalono potrzebę jego sporządzenia.
 
-6. W uzasadnionych przypadkach, w zezwoleniu, o którym mowa w art. 3 ust. 1, określa się, że działanie z wykorzystaniem ryb gatunku uznanego za nierodzimy jest działaniem o charakterze pilotażowego uwolnienia ryb. administracyjnej, odmawia wydania zezwolenia, o którym mowa w art. 3 ust. 1, jeżeli:
+6. W uzasadnionych przypadkach, w zezwoleniu, o którym mowa w art. 3 ust. 1, określa się, że działanie z wykorzystaniem ryb gatunku uznanego za nierodzimy jest działaniem o charakterze pilotażowego uwolnienia ryb.
+
+**Art. 3b.** Minister właściwy do spraw rybołówstwa, w drodze decyzji administracyjnej, odmawia wydania zezwolenia, o którym mowa w art. 3 ust. 1, jeżeli:
 
 - **1)** wnioskodawca:
     - **a)** w okresie 3 lat przed złożeniem wniosku o wydanie zezwolenia naruszył zakaz, o którym mowa w art. 3i, powodując istotne zagrożenie ekologiczne, lub
@@ -147,7 +155,7 @@ source: "isap-pdf"
 
 2. W decyzji, o której mowa w ust. 1, określa się termin i warunki podjęcia czynności mających na celu eliminację zagrożeń wynikających z prowadzonej działalności. Decyzja podlega natychmiastowemu wykonaniu.
 
-3. W przypadku gdy gatunek ryby został umieszczony w wykazie inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, o którym mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych, określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych, minister właściwy do spraw rybołówstwa cofa, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 3 ust. 1, na wprowadzenie ryb tego gatunku i określa w tej decyzji termin, do którego może być prowadzona działalność objęta cofniętym zezwoleniem, nie dłuższy niż 2 lata.
+3. W przypadku gdy gatunek ryby został umieszczony w wykazie inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, o którym mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych, albo na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych, minister właściwy do spraw rybołówstwa cofa, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 3 ust. 1, na wprowadzenie ryb tego gatunku i określa w tej decyzji termin, do którego może być prowadzona działalność objęta cofniętym zezwoleniem, nie dłuższy niż 2 lata.
 
 4. Minister właściwy do spraw rybołówstwa informuje Generalnego Dyrektora Ochrony Środowiska o cofnięciu zezwolenia, o którym mowa w art. 3 ust. 1, w terminie 30 dni od dnia cofnięcia zezwolenia.
 
@@ -161,11 +169,38 @@ source: "isap-pdf"
 
 **Art. 3f.** Minister właściwy do spraw rybołówstwa w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
 
+- **1)** wykaz gatunków ryb uznanych za nierodzime oraz warunki, w szczególności techniczne, organizacyjne lub gospodarcze, wprowadzania ryb tych gatunków, dla których nie jest wymagane zezwolenie, o którym mowa w art. 3 ust. 1:
+    - **a)** pkt 1,
+    - **b)** pkt 2,
+
+- **2)** wykaz gatunków ryb uznanych za rodzime – mając na względzie potrzebę ochrony i utrzymania różnorodności biologicznej oraz konieczność zapobiegania negatywnemu wpływowi działań związanych z wprowadzeniem ryb gatunku obcego na środowisko, a także wyniki badań i dostępną wiedzę w zakresie stosowanych w rybactwie śródlądowym praktyk gospodarczych i ich potencjalnego wpływu na środowisko.
+
+**Art. 3g.**
+
+1. Tworzy się zespół ekspertów do spraw związanych z wydawaniem zezwoleń, o których mowa w art. 3 ust. 1, oraz innych spraw w zakresie wykorzystania ryb gatunków obcych oraz ryb gatunków niewystępujących miejscowo, zwany dalej „zespołem ekspertów”.
+
+2. Zespół ekspertów jest organem opiniodawczo-doradczym ministra właściwego do spraw rybołówstwa.
+
+3. Do zadań zespołu ekspertów należy w szczególności:
+
+- **1)** wykonywanie obowiązków i uprawnień komitetu doradczego, o którym mowa w rozporządzeniu nr 708/2007;
+- **2)** przeprowadzanie analiz, dokonywanie ocen, wydawanie opinii, przedstawianie stanowisk, w tym dotyczących konieczności przeprowadzenia oceny ryzyka ekologicznego i określenia jej wyniku, jeżeli ustalono konieczność jej przeprowadzenia, oraz dotyczących naukowego uzasadnienia odmowy, cofnięcia lub zmiany zezwolenia, o którym mowa w art. 3 ust. 1.
+
+4. W skład zespołu ekspertów wchodzą osoby posiadające stopień lub tytuł naukowy oraz wiedzę specjalistyczną i udokumentowane doświadczenie w zakresie wykorzystania ryb gatunków obcych oraz ryb gatunków niewystępujących miejscowo.
+
+5. Członków zespołu ekspertów powołuje i odwołuje minister właściwy do spraw rybołówstwa, uwzględniając w składzie zespołu ekspertów przedstawiciela wskazanego przez ministra właściwego do spraw środowiska.
+
+6. Zespół ekspertów wybiera ze swojego grona przewodniczącego i zastępców oraz ustala regulamin jego działania określający w szczególności kompetencje przewodniczącego oraz tryb podejmowania rozstrzygnięć przez zespół ekspertów. Regulamin wymaga zatwierdzenia przez ministra właściwego do spraw rybołówstwa.
+
+7. Wydatki związane z działalnością zespołu ekspertów są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw rybołówstwa.
+
+8. Obsługę prac zespołu ekspertów zapewnia urząd obsługujący ministra właściwego do spraw rybołówstwa.
+
 **Art. 3h.**
 
 1. Za wydanie zezwolenia, o którym mowa w art. 3 ust. 1, pobiera się opłatę w wysokości:
 
-- **1)** jednej drugiej przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku kalendarzowym ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanego dalej „przeciętnym o wydanie tego zezwolenia – w przypadku konieczności przeprowadzenia oceny ryzyka ekologicznego;
+- **1)** jednej drugiej przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku kalendarzowym ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanego dalej „przeciętnym wynagrodzeniem”, ustalonego według stanu na dzień złożenia wniosku o wydanie tego zezwolenia – w przypadku konieczności przeprowadzenia oceny ryzyka ekologicznego;
 - **2)** jednej czwartej przeciętnego wynagrodzenia, ustalonego według stanu na dzień złożenia wniosku o wydanie tego zezwolenia – w przypadku wydania przez zespół ekspertów opinii o braku konieczności przeprowadzenia oceny ryzyka ekologicznego.
 
 2. Za przedłużenie okresu ważności zezwolenia, o którym mowa w art. 3 ust. 1, pobiera się opłatę w wysokości jednej ósmej przeciętnego wynagrodzenia, ustalonego według stanu na dzień złożenia wniosku o przedłużenie okresu ważności tego zezwolenia.
@@ -176,13 +211,17 @@ source: "isap-pdf"
 
 **Art. 3i.** Zabrania się:
 
+- **1)** wprowadzania ryb gatunku obcego, na których wprowadzenie jest wymagane zezwolenie, o którym mowa w art. 3 ust. 1, bez wymaganego zezwolenia albo wbrew warunkom określonym w tym zezwoleniu;
+- **2)** wprowadzania ryb z gatunków wymienionych w wykazie określonym w przepisach wydanych na podstawie art. 3f pkt 1 niezgodnie z warunkami określonymi w tych przepisach, w przypadkach gdy zezwolenie, o którym mowa w art. 3 ust. 1, nie jest wymagane;
+- **3)** przenoszenia ryb określonych gatunków niezgodnie z warunkami ich przenoszenia określonymi w przepisach wydanych na podstawie art. 3 ust. 3, jeżeli warunki te zostały określone w tych przepisach.
+
 **Art. 4.**
 
 1. Do chowu, hodowli lub połowu ryb:
 
 - **1)** uprawniony jest:
     - **a)** władający wodami w sztucznym zbiorniku wodnym przeznaczonym do chowu lub hodowli ryb i usytuowanym na publicznych śródlądowych wodach płynących,
-    - **b)** właściciel albo posiadacz gruntów pod wodami stojącymi lub gruntów pod wodami, do których stosuje się odpowiednio art. 23 ust. 2 ustawy z dnia z 2022 r. poz. 88 i 258), zwanej dalej „ustawą – Prawo wodne”,
+    - **b)** właściciel albo posiadacz gruntów pod wodami stojącymi lub gruntów pod wodami, do których stosuje się odpowiednio art. 23 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233 i 2368 oraz z 2022 r. poz. 88 i 258), zwanej dalej „ustawą – Prawo wodne”,
     - **c)** właściciel albo posiadacz gruntów pod stawami rybnymi lub innymi urządzeniami w gospodarstwie rolnym przeznaczonymi do chowu lub hodowli ryb;
 
 - **2)** w obwodzie rybackim uprawniony jest podmiot wykonujący uprawnienia właściciela wód w zakresie rybactwa śródlądowego albo osoba władająca obwodem rybackim na podstawie umowy zawartej z:
@@ -200,7 +239,8 @@ source: "isap-pdf"
 
 6. W przypadku gdy dotychczasowa umowa została zawarta z Agencją Nieruchomości Rolnych, określone w umowie, o której mowa w ust. 4:
 
-- **1)** stawka opłaty rocznej za użytkowanie obwodu rybackiego jest ustalana w wysokości równej maksymalnej stawce opłaty rocznej za 1 ha powierzchni obwodu rybackiego, uwzględniającej rybacki typ wody i jej położenie; dzierżawnego oraz nakładów rzeczowych określonych w dotychczasowej umowie, wyliczonych na podstawie średniej rocznej z ostatnich 3 lat trwania tej umowy, pomniejszonych o opłatę roczną.
+- **1)** stawka opłaty rocznej za użytkowanie obwodu rybackiego jest ustalana w wysokości równej maksymalnej stawce opłaty rocznej za 1 ha powierzchni obwodu rybackiego, uwzględniającej rybacki typ wody i jej położenie;
+- **2)** nakłady rzeczowo-finansowe na zarybienia odpowiadają równowartości czynszu dzierżawnego oraz nakładów rzeczowych określonych w dotychczasowej umowie, wyliczonych na podstawie średniej rocznej z ostatnich 3 lat trwania tej umowy, pomniejszonych o opłatę roczną.
 
 **Art. 4a.**
 
@@ -222,7 +262,7 @@ source: "isap-pdf"
 
 2. Zarybienia wód nie mogą powodować zmniejszenia lub utraty różnorodności biologicznej żywych zasobów wód.
 
-3. Minister właściwy do spraw rybołówstwa może określić, w drodze rozporządzenia, warunki, w szczególności techniczne, organizacyjne lub gospodarcze, zarybiania wód, kierując się potrzebą zapewnienia ochrony różnorodności zrównoważonego korzystania z żywych zasobów wód na poziomie umożliwiającym gospodarcze korzystanie z nich przyszłym uprawnionym do rybactwa.
+3. Minister właściwy do spraw rybołówstwa może określić, w drodze rozporządzenia, warunki, w szczególności techniczne, organizacyjne lub gospodarcze, zarybiania wód, kierując się potrzebą zapewnienia ochrony różnorodności biologicznej, zgodnie z zasadami lub zaleceniami dobrej praktyki w zakresie zrównoważonego korzystania z żywych zasobów wód na poziomie umożliwiającym gospodarcze korzystanie z nich przyszłym uprawnionym do rybactwa.
 
 **Art. 5.** Osoba dokonująca połowu ryb na rzecz uprawnionego do rybactwa jest obowiązana posiadać i okazywać na żądanie dokument stwierdzający upoważnienie uprawnionego do połowu ryb.
 
@@ -243,7 +283,7 @@ source: "isap-pdf"
 
 2d. Do udostępniania informacji o wynikach oceny, o której mowa w ust. 2a, stosuje się odpowiednio przepisy o dostępie do informacji publicznej.
 
-3. Marszałek województwa w wyjątkowo uzasadnionych przypadkach, a zwłaszcza w razie zanieczyszczenia znacząco pogarszającego warunki bytowania wydanej po zasięgnięciu opinii dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie, zwolnić od obowiązku, o którym mowa w ust. 1, lub uznać zbiornik wodny za nieprzydatny do prowadzenia racjonalnej gospodarki rybackiej na czas określony.
+3. Marszałek województwa w wyjątkowo uzasadnionych przypadkach, a zwłaszcza w razie zanieczyszczenia znacząco pogarszającego warunki bytowania ryb albo masowego wystąpienia chorób ryb, może, w drodze decyzji administracyjnej wydanej po zasięgnięciu opinii dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie, zwolnić od obowiązku, o którym mowa w ust. 1, lub uznać zbiornik wodny za nieprzydatny do prowadzenia racjonalnej gospodarki rybackiej na czas określony.
 
 4. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, zakres i sposób postępowania przy dokonywaniu oceny wypełniania przez uprawnionego do rybactwa obowiązku prowadzenia racjonalnej gospodarki rybackiej, kierując się potrzebą dokonania specjalistycznej i obiektywnej oceny gospodarki rybackiej prowadzonej przez uprawnionego do rybactwa w obwodzie rybackim.
 
@@ -265,7 +305,7 @@ source: "isap-pdf"
 
 - **1)** strategii, polityki, planów lub programów w dziedzinie rybactwa śródlądowego, w tym programu ochrony i odbudowy zasobów ryb, opracowanych przez organy administracji publicznej,
 - **2)** nowych okoliczności, niewynikających z przyczyn leżących po stronie uprawnionego do rybactwa, których nie mógł on przewidzieć przed złożeniem operatu rybackiego do zaopiniowania, w szczególności klęsk żywiołowych, zmiany przebiegu granic obwodu rybackiego lub realizacji inwestycji znacząco oddziałującej na środowisko wodne w obwodzie rybackim,
-- **3)** warunków korzystania z wód regionu wodnego lub zlewni, o których mowa w przepisach ustawy – Prawo wodne dokonania zmiany w operacie rybackim, organ administracji publicznej, przed wydaniem zgody, zwraca się o zajęcie stanowiska, odpowiednio, do organu administracji publicznej, który opracował projekt programu, planu, polityki lub strategii, w przypadku, o którym mowa w pkt 1, albo właściwego marszałka województwa, w przypadku, o którym mowa w pkt 2.
+- **3)** warunków korzystania z wód regionu wodnego lub zlewni, o których mowa w przepisach ustawy – Prawo wodne – przy czym, w przypadku uzasadnionych wątpliwości dotyczących celowości dokonania zmiany w operacie rybackim, organ administracji publicznej, przed wydaniem zgody, zwraca się o zajęcie stanowiska, odpowiednio, do organu administracji publicznej, który opracował projekt programu, planu, polityki lub strategii, w przypadku, o którym mowa w pkt 1, albo właściwego marszałka województwa, w przypadku, o którym mowa w pkt 2.
 
 5. Operat rybacki oraz jego zmiany wymagają uzyskania pozytywnej opinii uprawnionej jednostki.
 
@@ -281,7 +321,7 @@ source: "isap-pdf"
 
 **Art. 6b.**
 
-1. W uzasadnionych przypadkach, w szczególności gdy opinia do operatu rybackiego jest wadliwa, nierzetelna lub obciążona błędem, który uniemożliwia dokonanie oceny prowadzenia gospodarki rybackiej w obwodzie rybackim, na wniosek marszałka województwa, minister właściwy do spraw rybactwa przekazanie operatu rybackiego do ponownego zaopiniowania, określając termin przekazania operatu do ponownego zaopiniowania.
+1. W uzasadnionych przypadkach, w szczególności gdy opinia do operatu rybackiego jest wadliwa, nierzetelna lub obciążona błędem, który uniemożliwia dokonanie oceny prowadzenia gospodarki rybackiej w obwodzie rybackim, na wniosek marszałka województwa, minister właściwy do spraw rybołówstwa może, w drodze decyzji administracyjnej, nakazać uprawnionemu do rybactwa przekazanie operatu rybackiego do ponownego zaopiniowania, określając termin przekazania operatu do ponownego zaopiniowania.
 
 2. We wniosku, o którym mowa w ust. 1, podaje się szczegółowo okoliczności przemawiające za koniecznością ponownego zaopiniowania operatu rybackiego.
 
@@ -303,7 +343,7 @@ source: "isap-pdf"
 
 3. Warunkiem oddania w użytkowanie obwodu rybackiego jest przedłożenie pozytywnie zaopiniowanego operatu rybackiego.
 
-4. Oddanie w użytkowanie obwodu rybackiego następuje w drodze konkursu ofert, przy czym maksymalna oferowana stawka opłaty rocznej za 1 ha powierzchni obwodu rybackiego nie może być wyższa niż równowartość pieniężna 0,5 dt żyta, ustalona według średniej ceny skupu żyta, o której mowa w przepisach ustawy z dnia rybackiego typu wody i jej położenia.
+4. Oddanie w użytkowanie obwodu rybackiego następuje w drodze konkursu ofert, przy czym maksymalna oferowana stawka opłaty rocznej za 1 ha powierzchni obwodu rybackiego nie może być wyższa niż równowartość pieniężna 0,5 dt żyta, ustalona według średniej ceny skupu żyta, o której mowa w przepisach ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2020 r. poz. 333), w zależności od rybackiego typu wody i jej położenia.
 
 5. Nie pobiera się opłat za oddanie w użytkowanie następujących części obwodu rybackiego:
 
@@ -326,7 +366,8 @@ source: "isap-pdf"
 12. Członkiem komisji nie może być osoba, która:
 
 - **1)** jest małżonkiem oferenta lub jego krewnym albo powinowatym do drugiego stopnia włącznie albo jest związana z tytułu przysposobienia, opieki lub kurateli z oferentem;
-- **2)** jest lub była w ostatnich 3 latach pracownikiem, przedstawicielem, pełnomocnikiem, udziałowcem albo akcjonariuszem oferenta bądź członkiem organizacji społecznej występującej jako oferent; budzić uzasadnione wątpliwości co do jej bezstronności.
+- **2)** jest lub była w ostatnich 3 latach pracownikiem, przedstawicielem, pełnomocnikiem, udziałowcem albo akcjonariuszem oferenta bądź członkiem organizacji społecznej występującej jako oferent;
+- **3)** pozostaje z oferentem w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do jej bezstronności.
 
 13. W przypadku ujawnienia okoliczności, o których mowa w ust. 12, dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie dokonuje zmiany w składzie komisji i zarządza powtórzenie czynności dokonanych przez komisję.
 
@@ -349,7 +390,7 @@ source: "isap-pdf"
 
 18. Przewodniczący komisji w terminie 3 dni od dnia podjęcia przez komisję uchwały o wyniku konkursu przekazuje dyrektorowi regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie protokół, o którym mowa w ust. 17.
 
-19. Po przekazaniu dyrektorowi regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie protokołu z przebiegu konkursu każdy z oferentów może zapoznać się w siedzibie dyrektora regionalnego zarządu protokołem.
+19. Po przekazaniu dyrektorowi regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie protokołu z przebiegu konkursu każdy z oferentów może zapoznać się w siedzibie dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie z tym protokołem.
 
 20. W terminie 7 dni od dnia otrzymania wyniku konkursu oraz protokołu z jego przebiegu dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie zawiadamia oferentów na piśmie, za potwierdzeniem odbioru, o wyniku konkursu i o otrzymanej przez nich liczbie punktów albo o odrzuceniu oferty.
 
@@ -372,6 +413,8 @@ source: "isap-pdf"
 
 26. Minister właściwy do spraw rybołówstwa w porozumieniu z ministrem właściwym do spraw gospodarki wodnej określi, w drodze rozporządzenia, wymogi dotyczące ogłoszenia o konkursie ofert, o którym mowa w ust. 8, elementy ofert i sposób ich oceny, czynności komisji, a także maksymalną stawkę opłaty rocznej za 1 ha powierzchni obwodu rybackiego.
 
+27. Minister, wydając rozporządzenie, o którym mowa w ust. 26:
+
 - **1)** kieruje się potrzebą sprawnego przeprowadzenia konkursu, potrzebą wyłonienia oferenta, którego przygotowanie i doświadczenie zawodowe zapewni realizację zasad racjonalnej gospodarki rybackiej zgodnie z przedłożonym operatem rybackim, w celu utrzymania lub uzyskania dobrego stanu wód obwodu rybackiego;
 - **2)** określając tryb i warunki przeprowadzania konkursu ofert, uwzględni w szczególności konieczność udostępnienia oferentom informacji w zakresie:
     - **a)** rozliczenia obciążeń publicznoprawnych związanych z przedmiotem użytkowania oraz nakładów rzeczowych określonych w operacie rybackim,
@@ -388,7 +431,9 @@ source: "isap-pdf"
 
 **Art. 7.**
 
-1. Za amatorski połów ryb uważa się pozyskiwanie ryb wędką lub kuszą, przy czym dopuszcza się, w miejscu i w czasie prowadzenia połowu ryb wędką, pozyskiwanie ryb na przynętę przy użyciu podrywki wędkarskiej. z których zostały pozyskane.
+1. Za amatorski połów ryb uważa się pozyskiwanie ryb wędką lub kuszą, przy czym dopuszcza się, w miejscu i w czasie prowadzenia połowu ryb wędką, pozyskiwanie ryb na przynętę przy użyciu podrywki wędkarskiej.
+
+1a. Ryby przeznaczone na przynętę mogą być wprowadzone wyłącznie do wód, z których zostały pozyskane.
 
 2. Amatorski połów ryb może uprawiać osoba posiadająca dokument uprawniający do takiego połowu, zwany dalej „kartą wędkarską” lub „kartą łowiectwa podwodnego”, a jeżeli połów ryb odbywa się w wodach uprawnionego do rybactwa – posiadająca ponadto jego zezwolenie.
 
@@ -402,7 +447,9 @@ source: "isap-pdf"
 
 6. Kartę wędkarską wydaje się osobie, która ukończyła 14 lat. Kartę łowiectwa podwodnego wydaje się osobie, która ukończyła 18 lat.
 
-7. Za wydanie karty wędkarskiej i karty łowiectwa podwodnego pobiera się opłatę, której wysokość powinna odpowiadać kosztom jej wydania. społeczna, której statutowym celem jest działanie na rzecz ochrony ryb oraz rozwoju amatorskiego połowu ryb, określona w przepisach wydanych na podstawie art. 21 pkt 2. Za przeprowadzenie egzaminu organizacja społeczna może pobrać opłatę w celu pokrycia kosztów jego przeprowadzenia.
+7. Za wydanie karty wędkarskiej i karty łowiectwa podwodnego pobiera się opłatę, której wysokość powinna odpowiadać kosztom jej wydania.
+
+7a. Uprawniona do powołania komisji egzaminacyjnej jest organizacja społeczna, której statutowym celem jest działanie na rzecz ochrony ryb oraz rozwoju amatorskiego połowu ryb, określona w przepisach wydanych na podstawie art. 21 pkt 2. Za przeprowadzenie egzaminu organizacja społeczna może pobrać opłatę w celu pokrycia kosztów jego przeprowadzenia.
 
 7b. Członkiem komisji egzaminacyjnej może być osoba, która:
 
@@ -427,7 +474,8 @@ source: "isap-pdf"
 - **9)** materiałami wybuchowymi;
 - **10)** przez ich głuszenie;
 - **11)** więcej niż dwiema wędkami jednocześnie, a w wypadku ryb łososiowatych i lipieni – więcej niż jedną wędką;
-- **12)** wędką: połowowych uprawnionego do rybactwa oraz oznakowanych przez uprawnionego do rybactwa krześlisk,
+- **12)** wędką:
+    - **a)** w odległości mniejszej niż 50 m od rozstawionych w wodzie narzędzi połowowych uprawnionego do rybactwa oraz oznakowanych przez uprawnionego do rybactwa krześlisk,
     - **b)** w odległości mniejszej niż 75 m od znaku oznaczającego dokonywanie podwodnego połowu ryb kuszą,
     - **c)** przez podnoszenie i opuszczanie przynęty w sposób ciągły, z wyjątkiem łowienia ryb pod lodem,
     - **d)** wytwarzającą w wodzie pole elektryczne;
@@ -456,7 +504,24 @@ source: "isap-pdf"
 
 2. Osoba fizyczna lub prawna przetwarzająca lub wprowadzająca ryby do obrotu jest obowiązana posiadać dokument stwierdzający pochodzenie ryb.
 
-**Art. 11.** Zabrania się połowu ryb i raków przez wyciąganie ich z nor oraz naruszania nor. obwody rybackie. 1a. Do obwodu rybackiego nie włącza się wód znajdujących się w granicach parku narodowego lub rezerwatu przyrody, w których jest zabronione wykonywanie rybactwa, oraz wód w sztucznych zbiornikach wodnych przeznaczonych do chowu lub hodowli ryb i innych organizmów wodnych, usytuowanych na publicznych śródlądowych wodach powierzchniowych płynących, jeżeli wody w tych zbiornikach sztucznie zajęły grunty, które nie stanowią własności publicznej. 2. Obwód rybacki składa się z:
+**Art. 11.** Zabrania się połowu ryb i raków przez wyciąganie ich z nor oraz naruszania nor.
+
+**Art. 12.**
+
+1. Publiczne śródlądowe wody powierzchniowe płynące dzieli się na obwody rybackie.
+
+1a. Do obwodu rybackiego nie włącza się wód znajdujących się w granicach parku narodowego lub rezerwatu przyrody, w których jest zabronione wykonywanie rybactwa, oraz wód w sztucznych zbiornikach wodnych przeznaczonych do chowu lub hodowli ryb i innych organizmów wodnych, usytuowanych na publicznych śródlądowych wodach powierzchniowych płynących, jeżeli wody w tych zbiornikach sztucznie zajęły grunty, które nie stanowią własności publicznej.
+
+2. Obwód rybacki składa się z:
+
+- **1)** zasadniczego obwodu rybackiego oraz
+- **2)** uzupełniającego obwodu rybackiego.
+
+3. Zasadniczy obwód rybacki obejmuje wody jezior, zbiorników wodnych, rzek, kanałów lub cieków naturalnych niezbędnych do prowadzenia przez uprawnionego do rybactwa racjonalnej gospodarki rybackiej.
+
+4. Uzupełniający obwód rybacki obejmuje wody płynące dopływów zasadniczego obwodu rybackiego, na których uprawniony do rybactwa okresowo wykonuje czynności związane z prowadzeniem racjonalnej gospodarki rybackiej, określone w operacie rybackim, a w szczególności połowy tarlaków, zarybiania oraz zabiegi ochronne.
+
+5. W obwodzie rybackim uprawnioną do rybactwa może być tylko jedna osoba fizyczna albo prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej.
 
 **Art. 13.**
 
@@ -470,7 +535,9 @@ source: "isap-pdf"
 
 **Art. 14.**
 
-1. W ramach obwodu rybackiego, w wodach, w których znajdują się miejsca stałego tarła oraz rozwoju narybku gromadnego zimowania, bytowania i przepływu ryb, mogą być ustanawiane obręby ochronne. ryb, a w szczególności naruszania urządzeń tarliskowych, dna zbiornika i roślinności wodnej, uprawiania sportów motorowodnych i urządzania kąpielisk.
+1. W ramach obwodu rybackiego, w wodach, w których znajdują się miejsca stałego tarła oraz rozwoju narybku gromadnego zimowania, bytowania i przepływu ryb, mogą być ustanawiane obręby ochronne.
+
+2. W obrębach ochronnych zabrania się połowu oraz czynności szkodliwych dla ryb, a w szczególności naruszania urządzeń tarliskowych, dna zbiornika i roślinności wodnej, uprawiania sportów motorowodnych i urządzania kąpielisk.
 
 **Art. 15.**
 
@@ -490,6 +557,14 @@ source: "isap-pdf"
 
 **Art. 15a.** Minister właściwy do spraw rybołówstwa otrzymuje do dnia 31 stycznia roku następnego informacje z zakresu rybactwa śródlądowego za rok poprzedni, przekazywane przez następujące organy albo podmioty:
 
+- **1)** w zakresie liczby i powierzchni ustanowionych obwodów rybackich i ich zmiany w ciągu roku – wojewodowie;
+- **2)** w zakresie liczby obwodów rybackich nieoddanych w użytkowanie, przyczyn nieoddania w użytkowanie oraz okresu, w którym obwody rybackie nie są użytkowane rybacko – dyrektorzy regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie;
+- **3)** w zakresie liczby umów o oddanie w użytkowanie obwodów rybackich zawartych i rozwiązanych w ciągu roku – dyrektorzy regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie;
+- **4)** w zakresie negatywnych ocen użytkowników rybackich dotyczących prowadzenia racjonalnej gospodarki rybackiej w obwodach rybackich i działań podjętych w tych sprawach – marszałkowie województw;
+- **5)** w zakresie wysokości przychodów z tytułu oddania w użytkowanie obwodów rybackich – dyrektorzy regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie;
+- **6)** w zakresie liczby ogłoszonych i rozstrzygniętych konkursów ofert – dyrektorzy regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie;
+- **7)** w zakresie liczby protestów zgłoszonych w konkursach ofert, treści tych protestów i sposobu ich rozstrzygnięcia – dyrektorzy regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
+
 **Art. 16.** Uprawniony do rybactwa jest obowiązany oznakować obręby hodowlane i ochronne.
 
 **Art. 17.**
@@ -501,7 +576,8 @@ source: "isap-pdf"
 3. W szczególnie uzasadnionych przypadkach, w celu ochrony ryb i zapewnienia rybom możliwości odbycia tarła:
 
 - **1)** marszałek województwa może, w drodze decyzji administracyjnej, zobowiązać:
-    - **a)** użytkownika wód do umożliwienia swobodnego przepływu ryb, jeżeli przepływ taki nie jest możliwy z przyczyn zależnych od tego użytkownika, ryb niektórych gatunków, z użyciem wybranych rybackich narzędzi i urządzeń połowowych – w określonych wodach i na czas niezbędny do zapewnienia rybom ochrony i możliwości odbycia tarła;
+    - **a)** użytkownika wód do umożliwienia swobodnego przepływu ryb, jeżeli przepływ taki nie jest możliwy z przyczyn zależnych od tego użytkownika,
+    - **b)** uprawnionego do rybactwa w obwodzie rybackim do zawieszenia połowu ryb niektórych gatunków, z użyciem wybranych rybackich narzędzi i urządzeń połowowych – w określonych wodach i na czas niezbędny do zapewnienia rybom ochrony i możliwości odbycia tarła;
 
 - **2)** zarząd województwa może, w drodze uchwały, wskazać miejsce i czas, w którym obowiązuje całkowity albo częściowy zakaz uprawiania amatorskiego połowu ryb.
 
@@ -523,7 +599,9 @@ source: "isap-pdf"
 
 **Art. 18.**
 
-1. W obwodach rybackich, przez które przebiega granica województw, w sprawach dotyczących rybactwa właściwy jest marszałek województwa, na którego terenie znajduje się większa część powierzchni obwodu rybackiego. dotyczących rybactwa właściwy jest starosta powiatu, na którego terenie znajduje się większa część powierzchni obwodu rybackiego.
+1. W obwodach rybackich, przez które przebiega granica województw, w sprawach dotyczących rybactwa właściwy jest marszałek województwa, na którego terenie znajduje się większa część powierzchni obwodu rybackiego.
+
+2. W obwodach rybackich, przez które przebiega granica powiatów, w sprawach dotyczących rybactwa właściwy jest starosta powiatu, na którego terenie znajduje się większa część powierzchni obwodu rybackiego.
 
 **Art. 19.**
 
@@ -552,9 +630,14 @@ source: "isap-pdf"
 
 5. Zabrania się osobom nieuprawnionym podejmowania z wody narzędzi rybackich i urządzeń połowowych.
 
-6. Amatorski połów ryb przy użyciu jednostki pływającej odbywa się z zachowaniem wymogów w zakresie bezpieczeństwa uprawiania żeglugi dotyczących budowy, wyposażenia oraz kwalifikacji, określonych w przepisach uprawiania sportu lub rekreacji.
+6. Amatorski połów ryb przy użyciu jednostki pływającej odbywa się z zachowaniem wymogów w zakresie bezpieczeństwa uprawiania żeglugi dotyczących budowy, wyposażenia oraz kwalifikacji, określonych w przepisach o żegludze śródlądowej dla statków przeznaczonych lub używanych wyłącznie do uprawiania sportu lub rekreacji.
 
 **Art. 21.** Minister właściwy do spraw rybołówstwa, w porozumieniu z ministrem właściwym do spraw środowiska, w drodze rozporządzenia, określa:
+
+- **1)** szczegółowe warunki uprawiania amatorskiego połowu ryb;
+- **2)** organizację społeczną uprawnioną do przeprowadzania egzaminów w zakresie ochrony i połowu ryb;
+- **3)** wzór karty wędkarskiej i karty łowiectwa podwodnego oraz wysokość opłat pobieranych za ich wydanie;
+- **4)** szczegółowe warunki ochrony i połowu ryb, rybackie narzędzia i urządzenia połowowe, zasady ustanawiania obwodów rybackich, obrębów hodowlanych i ochronnych oraz oznakowania tych obrębów.
 
 **Art. 22.**
 
@@ -572,7 +655,11 @@ source: "isap-pdf"
 
 6. W wypadkach szczególnie uzasadnionych komendant wojewódzki Państwowej Straży Rybackiej może zezwolić na używanie ubioru cywilnego w czasie wykonywania obowiązków służbowych.
 
-7. Wojewoda, w drodze zarządzenia, nadaje regulamin Państwowej Straży Rybackiej, określający szczegółową organizację i sposób działania tej straży. uprawniona do przetwarzania informacji, w tym danych osobowych, z wyłączeniem danych ujawniających pochodzenie rasowe lub etniczne, poglądy polityczne, przekonania religijne lub światopoglądowe lub przynależność do związków zawodowych oraz przetwarzania danych genetycznych lub danych biometrycznych w celu jednoznacznego zidentyfikowania osoby fizycznej, danych dotyczących zdrowia lub danych dotyczących seksualności i orientacji seksualnej osoby fizycznej.
+7. Wojewoda, w drodze zarządzenia, nadaje regulamin Państwowej Straży Rybackiej, określający szczegółową organizację i sposób działania tej straży.
+
+**Art. 22a.**
+
+1. Państwowa Straż Rybacka w celu realizacji ustawowych zadań jest uprawniona do przetwarzania informacji, w tym danych osobowych, z wyłączeniem danych ujawniających pochodzenie rasowe lub etniczne, poglądy polityczne, przekonania religijne lub światopoglądowe lub przynależność do związków zawodowych oraz przetwarzania danych genetycznych lub danych biometrycznych w celu jednoznacznego zidentyfikowania osoby fizycznej, danych dotyczących zdrowia lub danych dotyczących seksualności i orientacji seksualnej osoby fizycznej.
 
 2. Państwowa Straż Rybacka może przetwarzać dane osobowe bez wiedzy i zgody osoby, której dane dotyczą, w celu realizacji swoich ustawowych zadań.
 
@@ -587,7 +674,8 @@ source: "isap-pdf"
 
 6. Służby, instytucje państwowe oraz organy władzy publicznej administrujące zbiorami danych lub rejestrami, o których mowa w ust. 4 pkt 1, mogą wyrazić zgodę na udostępnianie za pomocą urządzeń telekomunikacyjnych (teletransmisji) informacji zgromadzonych w tych zbiorach lub rejestrach jednostkom organizacyjnym Państwowej Straży Rybackiej bez konieczności składania pisemnych wniosków w postaci papierowej lub elektronicznej, jeżeli jednostki te spełniają łącznie następujące warunki:
 
-- **1)** posiadają urządzenia umożliwiające odnotowanie w systemie kto, kiedy, w jakim celu oraz jakie dane uzyskał; wykorzystanie informacji, w tym danych osobowych, niezgodnie z celem ich uzyskania;
+- **1)** posiadają urządzenia umożliwiające odnotowanie w systemie kto, kiedy, w jakim celu oraz jakie dane uzyskał;
+- **2)** posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie informacji, w tym danych osobowych, niezgodnie z celem ich uzyskania;
 - **3)** jest to uzasadnione specyfiką lub zakresem wykonywania zadań albo prowadzonej działalności.
 
 **Art. 22b.**
@@ -597,6 +685,29 @@ source: "isap-pdf"
 2. Do przetwarzania danych osobowych, o których mowa w ust. 1, nie stosuje się art. 13 ust. 1 lit. d i e oraz art. 16 rozporządzenia (UE) 2016/679 w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania. Zabezpieczenie przetwarzania danych osobowych polega co najmniej na dopuszczeniu do ich przetwarzania wyłącznie pracowników posiadających pisemne upoważnienie wydane przez administratora danych oraz pisemnym zobowiązaniu pracowników do zachowania przetwarzanych danych w poufności.
 
 **Art. 23.** W czasie wykonywania czynności służbowych strażnik Państwowej Straży Rybackiej jest uprawniony do:
+
+- **1)** kontroli dokumentów uprawniających do połowu ryb u osób dokonujących połowu oraz dokumentów stwierdzających pochodzenie ryb u osób przetwarzających lub wprowadzających ryby do obrotu;
+- **2)** kontroli ilości masy i gatunków odłowionych ryb, przetwarzanych lub wprowadzanych do obrotu oraz przedmiotów służących do ich połowu;
+- **3)** zabezpieczenia porzuconych ryb i przedmiotów służących do ich połowu w wypadku niemożności ustalenia ich posiadacza;
+- **4)** żądania wyjaśnień i wykonywania czynności niezbędnych do przeprowadzania kontroli, a w wypadku uzasadnionego podejrzenia popełnienia przestępstwa lub wykroczenia:
+    - **a)** legitymowania osób podejrzanych w celu ustalenia ich tożsamości,
+    - **b)** odebrania za pokwitowaniem ryb i przedmiotów służących do ich połowu, z tym że ryby należy przekazać za pokwitowaniem uprawnionemu do rybactwa, a przedmioty zabezpieczyć,
+    - **c)** zatrzymywania za pokwitowaniem dokumentów, o których mowa w pkt 1, z tym że dokumenty te wraz z wnioskiem o ukaranie przekazuje się w terminie 7 dni do sądu,
+    - **d)** kontroli środków transportowych w celu sprawdzenia zawartości ich ładunku w miejscach związanych z połowem ryb,
+    - **e)** przeszukiwania osób i pomieszczeń na zasadach określonych w Kodeksie postępowania karnego w celu znalezienia przedmiotów mogących stanowić dowód w sprawie lub podlegających przepadkowi,
+    - **f)** doprowadzenia do najbliższego komisariatu lub posterunku Policji osób, w stosunku do których zachodzi uzasadniona potrzeba podjęcia dalszych czynności wyjaśniających;
+
+- **5)** dokonywania czynności wyjaśniających w postępowaniu w sprawach o wykroczenia, które zostały określone w przepisach ustawy, udziału w tych sprawach w charakterze oskarżyciela publicznego oraz wnoszenia środków zaskarżenia od rozstrzygnięć zapadłych w tych sprawach;
+- **6)** nakładania grzywien w drodze mandatu karnego za wykroczenia określone w ustawie;
+- **7)** żądania niezbędnej pomocy od instytucji państwowych, zwracania się o taką pomoc do jednostek gospodarczych, organizacji społecznych, jak również w nagłych przypadkach do każdego obywatela o udzielenie doraźnej pomocy na zasadach określonych w przepisach o Policji, określających szczegółowo zasady żądania takiej pomocy;
+- **8)** wstępu i wjazdu:
+    - **a)** do pomieszczeń magazynowych i miejsc składowania ryb oraz na tereny obrębów hodowlanych,
+    - **b)** na tereny pozostające w administracji urzędów morskich, na tereny lasów, zakładów przemysłowych, ośrodków turystyczno-wypoczynkowych, gospodarstw rolnych w zakresie niezbędnym do prowadzenia kontroli na wodach przyległych do tych terenów,
+    - **c)** na wały przeciwpowodziowe, śluzy, tamy, na teren elektrowni, młynów i tartaków wodnych, przepompowni oraz innych urządzeń piętrzących wodę, z wyjątkiem terenów i obiektów Sił Zbrojnych, Straży Granicznej i Policji oraz innych, których szczególne przeznaczenie stanowi informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne”;
+
+- **9)** prowadzenia działań kontrolnych w miejscach wymienionych w pkt 8 bez konieczności uzyskania zgody ich właściciela lub użytkownika;
+- **10)** noszenia broni palnej krótkiej i broni sygnałowej;
+- **11)** noszenia kajdanek zakładanych na ręce, ręcznych miotaczy substancji obezwładniających, pałki służbowej i przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej.
 
 **Art. 23a.**
 
@@ -620,7 +731,9 @@ source: "isap-pdf"
 
 8. Na sposób przeprowadzania czynności, o których mowa w art. 23, przysługuje zażalenie do prokuratora.
 
-9. Strażnicy Państwowej Straży Rybackiej przy wykonywaniu czynności służbowych korzystają z ochrony prawnej przewidzianej w przepisach Kodeksu karnego dla funkcjonariusza publicznego. właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe zasady i warunki:
+9. Strażnicy Państwowej Straży Rybackiej przy wykonywaniu czynności służbowych korzystają z ochrony prawnej przewidzianej w przepisach Kodeksu karnego dla funkcjonariusza publicznego.
+
+10. Minister właściwy do spraw rybołówstwa w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe zasady i warunki:
 
 - **1)** współdziałania Państwowej Straży Rybackiej z Policją – mając na względzie ustawowe zadania tych podmiotów oraz konieczność zapewnienia poprawnej i skutecznej współpracy;
 - **2)** posiadania, przechowywania i ewidencjonowania broni palnej i sygnałowej oraz amunicji do niej oraz środków przymusu bezpośredniego, a także sprawowania przez Policję nadzoru w tym zakresie nad Strażą – mając na względzie konieczność uniemożliwienia dostępu do broni, amunicji i środków przymusu bezpośredniego osobom trzecim, potrzebę ochrony ewidencji przed uszkodzeniem, zniszczeniem lub utratą, a także zapewnienie efektywnego nadzoru nad Strażą.
@@ -644,7 +757,7 @@ source: "isap-pdf"
 
 **Art. 24a.**
 
-1. Społeczna Straż Rybacka w celu realizacji ustawowych zadań jest uprawniona do przetwarzania informacji, w tym danych osobowych, z wyłączeniem danych ujawniających pochodzenie rasowe, etniczne, poglądy polityczne, przekonania religijne, światopoglądowe, przynależność do związków zawodowych oraz przetwarzania danych genetycznych lub danych biometrycznych w celu danych dotyczących seksualności i orientacji seksualnej osoby fizycznej.
+1. Społeczna Straż Rybacka w celu realizacji ustawowych zadań jest uprawniona do przetwarzania informacji, w tym danych osobowych, z wyłączeniem danych ujawniających pochodzenie rasowe, etniczne, poglądy polityczne, przekonania religijne, światopoglądowe, przynależność do związków zawodowych oraz przetwarzania danych genetycznych lub danych biometrycznych w celu jednoznacznego zidentyfikowania osoby fizycznej, danych dotyczących zdrowia lub danych dotyczących seksualności i orientacji seksualnej osoby fizycznej.
 
 2. Społeczna Straż Rybacka może przetwarzać dane osobowe bez wiedzy i zgody osoby, której dane dotyczą, w celu realizacji swoich ustawowych zadań.
 
@@ -670,7 +783,9 @@ source: "isap-pdf"
 1. Uprawniony do rybactwa, który:
 
 - **1)** nie wykonuje obowiązków, o których mowa w art. 4a ust. 1 lub w przepisach wykonawczych wydanych na podstawie art. 4a ust. 2,
-- **2)** korzysta z wód obwodu rybackiego bez wymaganego operatu rybackiego lub wbrew założeniom tego operatu lub prowadzi gospodarkę rybacką z naruszeniem przepisu art. 6c – podlega karze grzywny nie niższej niż 100 zł. orzeczenia o ukaraniu do publicznej wiadomości, na koszt ukaranego.
+- **2)** korzysta z wód obwodu rybackiego bez wymaganego operatu rybackiego lub wbrew założeniom tego operatu lub prowadzi gospodarkę rybacką z naruszeniem przepisu art. 6c – podlega karze grzywny nie niższej niż 100 zł.
+
+2. W razie ukarania za wykroczenia określone w ust. 1, sąd orzeka o podaniu orzeczenia o ukaraniu do publicznej wiadomości, na koszt ukaranego.
 
 3. W szczególnie rażących przypadkach, sąd może dodatkowo orzec zakaz składania oferty do konkursu ofert na oddanie w użytkowanie obwodu rybackiego, na okres od roku do 3 lat.
 
@@ -693,7 +808,9 @@ source: "isap-pdf"
 
 2. Karę, o której mowa w ust. 1, wymierza się odpowiednio za usiłowanie, podżeganie i pomocnictwo w popełnieniu czynu, o którym mowa w ust. 1 pkt 3–7.
 
-3. W razie ukarania za wykroczenia określone w ust. 1, sąd może orzec o podaniu orzeczenia o ukaraniu do publicznej wiadomości, na koszt ukaranego. orzec, odpowiednio:
+3. W razie ukarania za wykroczenia określone w ust. 1, sąd może orzec o podaniu orzeczenia o ukaraniu do publicznej wiadomości, na koszt ukaranego.
+
+4. W razie ukarania za wykroczenia określone w ust. 1, sąd może dodatkowo orzec, odpowiednio:
 
 - **1)** na rzecz pokrzywdzonego:
     - **a)** obowiązek naprawienia szkody, na wniosek tego pokrzywdzonego, lub
@@ -721,7 +838,8 @@ source: "isap-pdf"
 - **3)** narusza określone w art. 2 ust. 1 lub w przepisach wydanych na podstawie art. 2 ust. 2 warunki chowu, hodowli lub połowu organizmów żyjących w wodzie innych niż ryby,
 - **4)** dokonuje zarybień niezgodnie z art. 4b ust. 1,
 - **5)** nie stosuje się do nakazu, o którym mowa w art. 9 ust. 1 lub 2,
-- **6)** dokonuje połowu ryb na rzecz uprawnionego do rybactwa, nie posiadając dokumentu stwierdzającego upoważnienie, o którym mowa w art. 5, – podlega karze ograniczenia wolności albo karze grzywny nie niższej niż 200 zł.
+- **6)** dokonuje połowu ryb na rzecz uprawnionego do rybactwa, nie posiadając dokumentu stwierdzającego upoważnienie, o którym mowa w art. 5,
+- **7)** narusza przepis art. 20 ust. 1, 4 lub 5 – podlega karze ograniczenia wolności albo karze grzywny nie niższej niż 200 zł.
 
 2. Karę, o której mowa w ust. 1, wymierza się odpowiednio za usiłowanie, podżeganie i pomocnictwo w popełnieniu czynu, o którym mowa w ust. 1.
 
@@ -750,7 +868,8 @@ source: "isap-pdf"
 - **2)** nie będąc uprawnionym do rybactwa albo osobą poławiającą na jego rzecz, poławia ryby rybackimi narzędziami lub urządzeniami połowowymi,
 - **3)** narusza zakaz określony w przepisach wydanych na podstawie art. 3 ust. 4 pkt 1,
 - **4)** narusza zakaz określony w art. 3i, art. 8 ust. 1 pkt 6–10 i ust. 2, art. 10 ust. 1 pkt 1, art. 11, art. 14 ust. 2 lub art. 19 ust. 1,
-- **5)** nie stosuje się do nakazu, o którym mowa w art. 10 ust. 2, w art. 17 ust. 1 lub 2,
+- **5)** nie stosuje się do nakazu, o którym mowa w art. 10 ust. 2,
+- **6)** dokonuje połowu ryb niezgodnie z otrzymanym zezwoleniem, o którym mowa w art. 17 ust. 1 lub 2,
 - **7)** przegradza łożysko wody płynącej sieciowymi rybackimi narzędziami połowowymi bez zezwolenia, o którym mowa w art. 17a ust. 1 lub 2, albo przegradza to łożysko niezgodnie z tym zezwoleniem – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 2. W razie skazania za przestępstwa określone w ust. 1, sąd orzeka o podaniu orzeczenia o skazaniu do publicznej wiadomości, na koszt skazanego.

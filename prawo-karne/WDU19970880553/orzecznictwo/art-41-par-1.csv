@@ -48,6 +48,7 @@ saos_id|date|court|case_number|type|score|saos_url
 82748|2004-06-25|SN|V KK 74/04|Postanowienie|69|https://www.saos.org.pl/judgments/82748
 81737|2002-12-03|SN|II KKN 208/01|Postanowienie|69|https://www.saos.org.pl/judgments/81737
 543175|2025-06-30|SO|II AKa 347/24|Wyrok|56|https://www.saos.org.pl/judgments/543175
+545279|2025-03-20|SO|II AKa 588/24|Wyrok|56|https://www.saos.org.pl/judgments/545279
 519680|2024-11-29|SO|II AKa 395/24|Wyrok|56|https://www.saos.org.pl/judgments/519680
 528805|2024-11-14|SO|II AKa 305/24|Wyrok|56|https://www.saos.org.pl/judgments/528805
 531769|2024-10-25|SO|II AKa 15/24|Wyrok|56|https://www.saos.org.pl/judgments/531769
@@ -389,6 +390,7 @@ saos_id|date|court|case_number|type|score|saos_url
 479300|2022-03-03|SO|VI Ka 11/22|Wyrok|40|https://www.saos.org.pl/judgments/479300
 480760|2022-01-31|SO|II K 142/21|Wyrok|40|https://www.saos.org.pl/judgments/480760
 502963|2021-10-27|SO|II K 31/20|Wyrok|40|https://www.saos.org.pl/judgments/502963
+547015|2021-05-11|SO|III K 47/12|Wyrok|40|https://www.saos.org.pl/judgments/547015
 433472|2021-03-01|SO|IV K 122/20|Wyrok|40|https://www.saos.org.pl/judgments/433472
 438704|2021-02-25|SO|VI K 954/18|Wyrok|40|https://www.saos.org.pl/judgments/438704
 440510|2021-02-09|SO|VII K 172/20|Wyrok|40|https://www.saos.org.pl/judgments/440510
@@ -494,6 +496,7 @@ saos_id|date|court|case_number|type|score|saos_url
 533176|2025-03-17|SO|IV Ka 1269/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/533176
 518956|2024-04-08|SO|II K 347/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/518956
 511229|2024-03-27|SO|VI Ka 640/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/511229
+547016|2023-01-26|SO|III K 47/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/547016
 526152|2021-12-06|SO|IV Ka 827/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/526152
 445375|2021-09-02|SO|IV K 107/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/445375
 445374|2021-07-13|SO|IV K 107/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/445374

@@ -8,7 +8,7 @@ pos: 59
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo oświatowe Oświata w Rzeczypospolitej Polskiej stanowi wspólne dobro całego społeczeństwa; kieruje się zasadami zawartymi w Konstytucji Rzeczypospolitej Polskiej, a także wskazaniami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych oraz Konwencji o Prawach Dziecka. Nauczanie i wychowanie – respektując chrześcijański system wartości – za podstawę przyjmuje uniwersalne zasady etyki. Kształcenie i wychowanie służy rozwijaniu u młodzieży poczucia odpowiedzialności, miłości Ojczyzny oraz poszanowania dla polskiego dziedzictwa kulturowego, przy jednoczesnym otwarciu się na wartości kultur Europy i świata. Szkoła winna zapewnić każdemu uczniowi warunki niezbędne do jego rozwoju, przygotować go do wypełniania obowiązków rodzinnych i obywatelskich w oparciu o zasady solidarności, demokracji, tolerancji, sprawiedliwości i wolności.
@@ -24,14 +24,55 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-14 |
 | Data wydania | 2017-01-11 |
-| Ostatnia zmiana | 2026-05-05 |
+| Ostatnia zmiana | 2026-05-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000059) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/59/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** System oświaty zapewnia w szczególności:
 
+- **1)** realizację prawa każdego obywatela Rzeczypospolitej Polskiej do kształcenia się oraz prawa dzieci i młodzieży do wychowania i opieki, odpowiednich do wieku i osiągniętego rozwoju;
+- **2)** wspomaganie przez szkołę wychowawczej roli rodziny;
+- **3)** wychowanie rozumiane jako wspieranie dziecka w rozwoju ku pełnej dojrzałości w sferze fizycznej, emocjonalnej, intelektualnej, duchowej i społecznej, wzmacniane i uzupełniane przez działania z zakresu profilaktyki problemów dzieci i młodzieży;
+- **4)** możliwość zakładania i prowadzenia szkół i placówek przez różne podmioty;
+- **5)** dostosowanie treści, metod i organizacji nauczania do możliwości psychofizycznych uczniów, a także możliwość korzystania z pomocy psychologiczno-pedagogicznej i specjalnych form pracy dydaktycznej;
+- **6)** możliwość pobierania nauki we wszystkich typach szkół przez dzieci i młodzież niepełnosprawną, niedostosowaną społecznie i zagrożoną niedostosowaniem społecznym, zgodnie z indywidualnymi potrzebami rozwojowymi i edukacyjnymi oraz predyspozycjami;
+- **7)** opiekę nad uczniami niepełnosprawnymi przez umożliwianie realizowania zindywidualizowanego procesu kształcenia, form i programów nauczania oraz zajęć rewalidacyjnych;
+- **8)** opiekę nad uczniami szczególnie uzdolnionymi poprzez umożliwianie realizowania indywidualnych programów nauczania oraz ukończenia szkoły każdego typu w skróconym czasie;
+- **9)** upowszechnianie dostępu do szkół, których ukończenie umożliwia dalsze kształcenie w szkołach wyższych;
+- **10)** możliwość uzupełniania przez osoby dorosłe wykształcenia ogólnego, zdobywania lub zmiany kwalifikacji zawodowych i specjalistycznych;
+- **11)** zmniejszanie różnic w warunkach kształcenia, wychowania i opieki między poszczególnymi regionami kraju, a zwłaszcza ośrodkami wielkomiejskimi i wiejskimi;
+- **12)** kształtowanie u uczniów postaw prospołecznych, w tym poprzez możliwość udziału w działaniach z zakresu wolontariatu, sprzyjających aktywnemu uczestnictwu uczniów w życiu społecznym;
+- **13)** upowszechnianie wśród dzieci i młodzieży wiedzy i umiejętności niezbędnych do aktywnego uczestnictwa w kulturze i sztuce narodowej i światowej;
+- **14)** utrzymywanie bezpiecznych i higienicznych warunków nauki, wychowania i opieki w szkołach i placówkach;
+- **15)** upowszechnianie wśród dzieci i młodzieży wiedzy o zasadach zrównoważonego rozwoju oraz kształtowanie postaw sprzyjających jego wdrażaniu w skali lokalnej, krajowej i globalnej;
+- **15a)** upowszechnianie wśród dzieci i młodzieży wiedzy o zasadach racjonalnego odżywiania oraz przeciwdziałaniu marnowaniu żywności;
+- **16)** opiekę uczniom pozostającym w trudnej sytuacji materialnej i życiowej;
+- **17)** dostosowywanie kierunków i treści kształcenia do wymogów rynku pracy;
+- **18)** kształtowanie u uczniów postaw przedsiębiorczości i kreatywności sprzyjających aktywnemu uczestnictwu w życiu gospodarczym, w tym poprzez stosowanie w procesie kształcenia innowacyjnych rozwiązań programowych, organizacyjnych lub metodycznych;
+- **19)** przygotowywanie uczniów do wyboru zawodu i kierunku kształcenia;
+- **20)** warunki do rozwoju zainteresowań i uzdolnień uczniów przez organizowanie zajęć pozalekcyjnych i pozaszkolnych oraz kształtowanie aktywności społecznej i umiejętności spędzania czasu wolnego;
+- **21)** upowszechnianie wśród dzieci i młodzieży wiedzy o bezpieczeństwie oraz kształtowanie właściwych postaw wobec zagrożeń, w tym związanych z korzystaniem z technologii informacyjno-komunikacyjnych, i sytuacji nadzwyczajnych;
+- **22)** kształtowanie u uczniów umiejętności sprawnego posługiwania się technologiami informacyjno-komunikacyjnymi;
+- **23)** wspomaganie nauczania języka polskiego i w języku polskim wśród Polonii i Polaków zamieszkałych za granicą oraz dzieci pracowników migrujących.
+
 **Art. 2.** System oświaty obejmuje:
+
+- **1)** przedszkola, w tym: specjalne, integracyjne, z oddziałami specjalnymi lub integracyjnymi, a także inne formy wychowania przedszkolnego;
+- **2)** szkoły:
+    - **a)** podstawowe, w tym: specjalne, integracyjne, dwujęzyczne, z oddziałami przedszkolnymi, integracyjnymi, specjalnymi, przysposabiającymi do pracy, dwujęzycznymi, sportowymi i mistrzostwa sportowego, sportowe i mistrzostwa sportowego,
+    - **b)** ponadpodstawowe, w tym: specjalne, integracyjne, dwujęzyczne, z oddziałami integracyjnymi, specjalnymi, dwujęzycznymi, przygotowania wojskowego, o profilu mundurowym, sportowymi i mistrzostwa sportowego, sportowe, mistrzostwa sportowego, rolnicze, leśne, morskie, żeglugi śródlądowej oraz rybołówstwa,
+    - **c)** artystyczne;
+
+- **3)** placówki oświatowo-wychowawcze, w tym szkolne schroniska młodzieżowe, umożliwiające rozwijanie zainteresowań i uzdolnień oraz korzystanie z różnych form wypoczynku i organizacji czasu wolnego;
+- **4)** placówki kształcenia ustawicznego, centra kształcenia zawodowego oraz branżowe centra umiejętności, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych;
+- **5)** placówki artystyczne – ogniska artystyczne umożliwiające rozwijanie zainteresowań i uzdolnień artystycznych;
+- **6)** poradnie psychologiczno-pedagogiczne, w tym poradnie specjalistyczne udzielające dzieciom, młodzieży, rodzicom i nauczycielom pomocy psychologiczno-pedagogicznej, a także pomocy uczniom w wyborze kierunku kształcenia i zawodu;
+- **7)** młodzieżowe ośrodki wychowawcze, młodzieżowe ośrodki socjoterapii, specjalne ośrodki szkolno-wychowawcze oraz specjalne ośrodki wychowawcze dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, a także ośrodki rewalidacyjno-wychowawcze umożliwiające dzieciom i młodzieży, o których mowa w art. 36 ust. 17, a także dzieciom i młodzieży z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna, realizację odpowiednio obowiązku, o którym mowa w art. 31 ust. 4, obowiązku szkolnego i obowiązku nauki;
+- **8)** placówki zapewniające opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania;
+- **9)** placówki doskonalenia nauczycieli;
+- **10)** biblioteki pedagogiczne;
+- **11)** kolegia pracowników służb społecznych.
 
 **Art. 3.**
 
@@ -51,6 +92,89 @@ source: "isap-pdf"
 4. Organy administracji publicznej, w tym organy prowadzące szkoły i placówki, współdziałają z podmiotami, o których mowa w ust. 3, w zapewnieniu właściwych warunków realizacji zadań wymienionych w ust. 3, w szczególności w prowadzeniu zajęć edukacyjnych z zakresu podnoszenia bezpieczeństwa dzieci i młodzieży, w tym bezpieczeństwa przeciwpożarowego.
 
 **Art. 4.** Ilekroć w dalszych przepisach jest mowa bez bliższego określenia o:
+
+- **1)** szkole – należy przez to rozumieć także przedszkole;
+- **2)** szkole specjalnej lub oddziale specjalnym – należy przez to rozumieć odpowiednio:
+    - **a)** szkołę lub oddział dla uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, zorganizowane zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2,
+    - **b)** szkołę lub oddział zorganizowane w podmiocie leczniczym, o którym mowa w przepisach o działalności leczniczej, oraz w jednostce pomocy społecznej, w celu kształcenia dzieci i młodzieży przebywających w tym podmiocie lub jednostce, w których stosuje się odpowiednią organizację kształcenia oraz specjalne działania opiekuńczo-wychowawcze, zorganizowane zgodnie z przepisami wydanymi na podstawie art. 128 ust. 3;
+
+- **3)** oddziale integracyjnym – należy przez to rozumieć oddział szkolny, w którym uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego uczą się i wychowują razem z pozostałymi uczniami, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2;
+- **4)** oddziale dwujęzycznym – należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone w dwóch językach: polskim oraz obcym nowożytnym będącym drugim językiem nauczania, przy czym prowadzone w dwóch językach są co najmniej dwa zajęcia edukacyjne, z wyjątkiem zajęć obejmujących język polski, część historii dotyczącą historii Polski i część geografii dotyczącą geografii Polski, w tym co najmniej jedne zajęcia edukacyjne wybrane spośród zajęć obejmujących: biologię, chemię, fizykę, część geografii odnoszącą się do geografii ogólnej, część historii odnoszącą się do historii powszechnej lub matematykę;
+- **4a)** oddziale przygotowania wojskowego – należy przez to rozumieć oddział szkolny, w którym nauczanie jest zorganizowane zgodnie z przepisami wydanymi na podstawie art. 18 ust. 6;
+- **4b)** oddziale o profilu mundurowym – należy przez to rozumieć oddział szkolny, w którym w ramach nauczania uwzględnia się program szkolenia mający na celu przygotowanie do podjęcia służby w Policji i Straży Granicznej zgodnie z przepisami wydanymi na podstawie art. 18 ust. 7;
+- **5)** szkole integracyjnej – należy przez to rozumieć szkołę, w której wszystkie oddziały są oddziałami integracyjnymi;
+- **6)** szkole dwujęzycznej – należy przez to rozumieć szkołę, w której wszystkie oddziały są oddziałami dwujęzycznymi, z wyjątkiem szkoły podstawowej dwujęzycznej, o której mowa w pkt 6a;
+- **6a)** szkole podstawowej dwujęzycznej – należy przez to rozumieć publiczną szkołę podstawową dla dzieci i młodzieży obejmującą strukturą organizacyjną wyłącznie klasy VII i VIII, w której wszystkie oddziały są oddziałami dwujęzycznymi, połączoną w zespół z:
+    - **a)** publicznym liceum ogólnokształcącym dwujęzycznym, lub z publicznym liceum ogólnokształcącym z oddziałami dwujęzycznymi, lub z publicznym technikum dwujęzycznym, lub z publicznym technikum z oddziałami dwujęzycznymi, dla dzieci i młodzieży, w którego oddziałach dwujęzycznych nauczanie jest prowadzone w języku obcym nowożytnym będącym drugim językiem nauczania w tej szkole podstawowej,
+    - **b)** publicznym liceum ogólnokształcącym z oddziałami międzynarodowymi lub z publicznym technikum z oddziałami międzynarodowymi, dla dzieci i młodzieży, w którego oddziałach międzynarodowych nauczanie jest prowadzone w języku obcym nowożytnym będącym drugim językiem nauczania w tej szkole podstawowej;
+
+- **7)** szkole rolniczej – należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach dla rolnictwa, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
+- **8)** szkole leśnej – należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach dla leśnictwa, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw środowiska;
+- **9)** szkole morskiej – należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach podstawowych dla żeglugi morskiej, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw gospodarki morskiej;
+- **10)** szkole żeglugi śródlądowej – należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach podstawowych dla żeglugi śródlądowej, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw żeglugi śródlądowej;
+- **11)** szkole rybołówstwa – należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach podstawowych dla rybołówstwa, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rybołówstwa;
+- **12)** oddziale międzynarodowym – należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone zgodnie z programem nauczania ustalonym przez zagraniczną instytucję edukacyjną;
+- **13)** oddziale przygotowawczym – należy przez to rozumieć oddział szkolny dla osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, podlegających obowiązkowi szkolnemu lub obowiązkowi nauki, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw, które nie znają języka polskiego albo znają go na poziomie niewystarczającym do korzystania z nauki, jak również wykazują zaburzenia w komunikacji oraz trudności adaptacyjne związane z różnicami kulturowymi lub ze zmianą środowiska edukacyjnego, co wymaga dostosowania procesu i organizacji kształcenia do ich potrzeb i możliwości edukacyjnych, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 165 ust. 16 pkt 2;
+- **14)** placówce – należy przez to rozumieć jednostki organizacyjne wymienione w art. 2 pkt 3–8 i 10;
+- **15)** placówce rolniczej – należy przez to rozumieć placówki kształcenia ustawicznego i centra kształcenia zawodowego, o których mowa w art. 2 pkt 4, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności oraz kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych wyłącznie w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
+- **16)** organie prowadzącym szkołę lub placówkę – należy przez to rozumieć ministra, jednostkę samorządu terytorialnego, inne osoby prawne i fizyczne;
+- **17)** kuratorze oświaty – należy przez to rozumieć kierownika kuratorium oświaty jako jednostki organizacyjnej wchodzącej w skład zespolonej administracji rządowej w województwie;
+- **18)** nauczycielu – należy przez to rozumieć także wychowawcę i innego pracownika pedagogicznego szkoły, placówki i placówki doskonalenia nauczycieli;
+- **19)** rodzicach – należy przez to rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem;
+- **20)** uczniach – należy przez to rozumieć także słuchaczy i wychowanków;
+- **21)** ustawie o systemie oświaty – należy przez to rozumieć ustawę z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881);
+- **22)** oddziale sportowym lub oddziale mistrzostwa sportowego – należy przez to rozumieć oddział szkolny, w którym są prowadzone zajęcia sportowe obejmujące szkolenie sportowe, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 18 ust. 5;
+- **23)** (uchylony)
+- **24)** podstawie programowej wychowania przedszkolnego lub podstawie programowej kształcenia ogólnego – należy przez to rozumieć obowiązkowe zestawy celów kształcenia i treści nauczania, w tym umiejętności, opisane w formie ogólnych i szczegółowych wymagań dotyczących wiedzy i umiejętności, które powinien posiadać uczeń po zakończeniu określonego etapu edukacyjnego, oraz zadania wychowawczo-profilaktyczne szkoły, uwzględniane odpowiednio w programach wychowania przedszkolnego, programach nauczania i podczas realizacji zajęć z wychowawcą oraz umożliwiające ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych, a także warunki i sposób realizacji tych podstaw programowych;
+- **24a)** klasyfikacji zawodów szkolnictwa branżowego – należy przez to rozumieć klasyfikację zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1;
+- **24b)** klasyfikacji zawodów szkolnictwa artystycznego – należy przez to rozumieć klasyfikację zawodów szkolnictwa artystycznego, o której mowa w przepisach wydanych na podstawie art. 46a ust. 1;
+- **25)** podstawie programowej kształcenia w zawodzie szkolnictwa branżowego – należy przez to rozumieć obowiązkowy zestaw celów kształcenia i treści nauczania opisanych w formie oczekiwanych efektów kształcenia: wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społecznych, niezbędnych dla zawodu lub kwalifikacji wyodrębnionej w zawodzie, uwzględnianych w programach nauczania, oraz kryteria weryfikacji tych efektów, umożliwiające ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych, a także warunki realizacji kształcenia w zawodzie, w tym wyposażenie i sprzęt niezbędne do realizacji tego kształcenia oraz minimalną liczbę godzin kształcenia w zawodzie;
+- **25a)** podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego – należy przez to rozumieć obowiązkowy zestaw celów kształcenia i treści nauczania opisanych w formie oczekiwanych efektów kształcenia: wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społecznych, niezbędnych dla zawodu, uwzględnianych w programach nauczania i umożliwiających ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych, oraz warunki realizacji kształcenia w zawodzie, w tym wyposażenie w pomoce dydaktyczne i sprzęt oraz minimalną liczbę godzin kształcenia w zawodzie;
+- **26)** programie wychowania przedszkolnego lub programie nauczania do danych zajęć edukacyjnych z zakresu kształcenia ogólnego – należy przez to rozumieć program, o którym mowa w art. 3 pkt 13b ustawy o systemie oświaty;
+- **27)** programie nauczania zawodu – należy przez to rozumieć program, o którym mowa w art. 3 pkt 13c ustawy o systemie oświaty;
+- **28)** zadaniach oświatowych jednostek samorządu terytorialnego – należy przez to rozumieć zadania w zakresie kształcenia, wychowania i opieki, w tym profilaktyki społecznej;
+- **28a)** szkole prowadzącej kształcenie zawodowe – należy przez to rozumieć:
+    - **a)** szkoły, o których mowa w art. 18 ust. 1 pkt 2 lit. b, c, e i f, prowadzące kształcenie w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, do których są przyjmowane: – w przypadku szkół, o których mowa w art. 18 ust. 1 pkt 2 lit. b i c – osoby niepełnoletnie oraz niepełnoletnie i pełnoletnie osoby objęte kształceniem specjalnym zorganizowanym zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2, – w przypadku szkół, o których mowa w art. 18 ust. 1 pkt 2 lit. e i f – niepełnoletnie i pełnoletnie osoby, oraz
+    - **b)** szkoły artystyczne;
+
+- **29)** szkole dla dorosłych – należy przez to rozumieć szkołę, o której mowa w art. 18 ust. 1 pkt 1 i 2 lit. a, w której stosuje się odrębną organizację kształcenia i do której są przyjmowane osoby pełnoletnie oraz kończące 18 lat w roku kalendarzowym, w którym są przyjmowane do szkoły;
+- **29a)** kształceniu w formie dziennej – należy przez to rozumieć kształcenie, które odbywa się przez 5 dni w tygodniu albo przez 6 dni w tygodniu w przypadkach określonych w przepisach wydanych odpowiednio na podstawie art. 111 pkt 14 lub art. 113 pkt 9;
+- **29b)** kształceniu w formie stacjonarnej – należy przez to rozumieć kształcenie, które odbywa się przez 3 lub 4 dni w tygodniu, zgodnie z przepisami wydanymi na podstawie art. 111 pkt 14;
+- **29c)** kształceniu w formie zaocznej – należy przez to rozumieć kształcenie, które odbywa się co 2 tygodnie przez 2 dni, a w uzasadnionych przypadkach – co tydzień przez 2 dni, zgodnie z przepisami wydanymi na podstawie art. 111 pkt 14;
+- **29d)** szkole polskiej – należy przez to rozumieć szkołę przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, która umożliwia uczniom uczęszczającym do szkół funkcjonujących w systemach oświaty innych państw uzupełnianie wykształcenia w zakresie szkoły podstawowej i liceum ogólnokształcącego, zgodnie z ramami programowymi kształcenia uzupełniającego i planami nauczania dla szkół polskich;
+- **30)** kształceniu ustawicznym – należy przez to rozumieć kształcenie w szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych, a także uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych w formach pozaszkolnych przez osoby, które spełniły obowiązek szkolny;
+- **30a)** branżowym centrum umiejętności – należy przez to rozumieć placówkę kształcenia, szkolenia i egzaminowania o zasięgu ogólnokrajowym, ukierunkowaną branżowo w zakresie jednej z dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, integrującą szkoły prowadzące kształcenie zawodowe, placówki kształcenia ustawicznego, centra kształcenia zawodowego, uczelnie oraz podmioty, o których mowa w art. 3 ust. 1a, które prowadzą działalność w zakresie tej dziedziny zawodowej, oraz prowadzącą działalność:
+    - **a)** edukacyjno-szkoleniową,
+    - **b)** wspierającą współpracę szkół, placówek i uczelni z pracodawcami,
+    - **c)** innowacyjno-rozwojową upowszechniającą wiedzę i nowe technologie oraz transformację ekologiczną i cyfrową,
+    - **d)** wspierającą realizację doradztwa zawodowego dla uczniów i aktywizację zawodową studentów, doktorantów i absolwentów studiów – skierowaną w szczególności do uczniów, studentów, doktorantów, nauczycieli, nauczycieli akademickich oraz pracowników, w zakresie tej dziedziny zawodowej;
+
+- **30b)** organizacji branżowej właściwej dla danej dziedziny zawodowej – należy przez to rozumieć organizację o zasięgu ogólnokrajowym, posiadającą osobowość prawną, prowadzącą działalność statutową w zakresie jednej z dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, zrzeszającą: o organizacjach pracodawców (Dz. U. z 2025 r. poz. 423), ustawy z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2019 r. poz. 579), ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159 oraz z 2025 r. poz. 769), ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261) lub ustawy regulującej funkcjonowanie samorządu zawodowego, w tym samorządu zawodu zaufania publicznego oraz samorządu zawodu służby publicznej, z tym że w przypadku stowarzyszenia działającego na podstawie ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach stowarzyszenie to musi być wpisane do Krajowego Rejestru Sądowego;
+    - **a)** osoby prawne prowadzące działalność w zakresie tej dziedziny zawodowej lub
+    - **b)** osoby fizyczne posiadające wykształcenie związane z tą dziedziną zawodową lub wykonujące zawód związany z tą dziedziną zawodową lub zawód pokrewny do tego zawodu – działającą odpowiednio na podstawie ustawy z dnia 23 maja 1991 r.
+
+- **31)** formach pozaszkolnych – należy przez to rozumieć formy uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych lub zmiany kwalifikacji zawodowych, o których mowa w art. 117 ust. 1a;
+- **32)** niepełnosprawnościach sprzężonych – należy przez to rozumieć występowanie u dziecka niesłyszącego lub słabosłyszącego, niewidomego lub słabowidzącego, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną albo z autyzmem, w tym z zespołem Aspergera, co najmniej jeszcze jednej z wymienionych niepełnosprawności;
+- **33)** specyficznych trudnościach w uczeniu się – należy przez to rozumieć trudności w uczeniu się odnoszące się do uczniów w normie intelektualnej, którzy mają trudności w przyswajaniu treści nauczania, wynikające ze specyfiki ich funkcjonowania percepcyjno-motorycznego i poznawczego, nieuwarunkowane schorzeniami neurologicznymi;
+- **33a)** zawodzie – należy przez to rozumieć również zawód o charakterze pomocniczym określony w klasyfikacji zawodów szkolnictwa branżowego;
+- **34)** kwalifikacji wyodrębnionej w zawodzie – należy przez to rozumieć wyodrębniony w zawodzie zestaw oczekiwanych efektów kształcenia, których osiągnięcie potwierdza certyfikat kwalifikacji zawodowej wydany przez okręgową komisję egzaminacyjną, po zdaniu egzaminu zawodowego w zakresie jednej kwalifikacji;
+- **35)** kwalifikacyjnym kursie zawodowym – należy przez to rozumieć kurs, którego program nauczania uwzględnia podstawę programową kształcenia w zawodzie szkolnictwa branżowego w zakresie jednej kwalifikacji, którego ukończenie umożliwia przystąpienie do egzaminu zawodowego w zakresie tej kwalifikacji;
+- **35a)** kursie umiejętności zawodowych – należy przez to rozumieć kurs, którego program nauczania uwzględnia:
+    - **a)** podstawę programową kształcenia w zawodzie szkolnictwa branżowego w zakresie jednej z części efektów kształcenia wyodrębnionych w ramach danej kwalifikacji albo
+    - **b)** efekty kształcenia właściwe dla dodatkowych umiejętności zawodowych określone w przepisach wydanych na podstawie art. 46 ust. 1;
+
+- **35b)** kursie kompetencji ogólnych – należy przez to rozumieć kurs, którego program nauczania uwzględnia dowolnie wybraną część podstawy programowej kształcenia ogólnego;
+- **35c)** turnusie dokształcania teoretycznego młodocianych pracowników – należy przez to rozumieć formę kształcenia zawodowego teoretycznego młodocianych pracowników w zakresie zawodu nauczanego w branżowej szkole I stopnia, którego program nauczania uwzględnia podstawę programową kształcenia w tym zawodzie;
+- **35d)** branżowym szkoleniu zawodowym – należy przez to rozumieć specjalistyczne szkolenie, którego łączny wymiar w odniesieniu do uczniów wynosi co najmniej 15 godzin i którego program nauczania uwzględnia wiedzę lub umiejętności zawodowe w zakresie jednej z dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, przydatne do wykonywania zawodu, w tym kształtujące umiejętności cyfrowe i umiejętności związane z transformacją ekologiczną;
+- **36)** egzaminie zawodowym – należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21 ustawy o systemie oświaty;
+- **37)** egzaminie maturalnym – należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21c ustawy o systemie oświaty;
+- **38)** egzaminie ósmoklasisty – należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21d ustawy o systemie oświaty;
+- **39)** podręczniku – należy przez to rozumieć podręcznik, o którym mowa w art. 3 pkt 23 ustawy o systemie oświaty;
+- **40)** materiale edukacyjnym – należy przez to rozumieć materiał edukacyjny, o którym mowa w art. 3 pkt 24 ustawy o systemie oświaty;
+- **41)** materiale ćwiczeniowym – należy przez to rozumieć materiał ćwiczeniowy, o którym mowa w art. 3 pkt 25 ustawy o systemie oświaty;
+- **42)** wielodzietności rodziny – należy przez to rozumieć rodzinę wychowującą troje i więcej dzieci;
+- **43)** samotnym wychowywaniu dziecka – należy przez to rozumieć wychowywanie dziecka przez pannę, kawalera, wdowę, wdowca, osobę pozostającą w separacji orzeczonej prawomocnym wyrokiem sądu, osobę rozwiedzioną, chyba że osoba taka wychowuje wspólnie co najmniej jedno dziecko z jego rodzicem;
+- **44)** ustawie o finansowaniu zadań oświatowych – należy przez to rozumieć ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2025 r. poz. 439).
 
 **Art. 5.** Nauczyciel w swoich działaniach dydaktycznych, wychowawczych i opiekuńczych ma obowiązek kierowania się dobrem uczniów, troską o ich zdrowie, postawę moralną i obywatelską, z poszanowaniem godności osobistej ucznia.
 
@@ -2245,6 +2369,9 @@ source: "isap-pdf"
 
 **Art. 79.** Organ, o którym mowa w art. 78 ust. 1, ustala:
 
+- **1)** skład i zasady wyboru członków rady oświatowej;
+- **2)** regulamin działania rady oświatowej.
+
 **Art. 80.**
 
 1. W szkołach i placówkach mogą działać rady szkół i placówek.
@@ -2772,6 +2899,12 @@ source: "isap-pdf"
 
 **Art. 99.** Obowiązki ucznia określa się w statucie szkoły z uwzględnieniem obowiązków w zakresie:
 
+- **1)** właściwego zachowania podczas zajęć edukacyjnych;
+- **2)** usprawiedliwiania, w określonym terminie i formie, nieobecności na zajęciach edukacyjnych, w tym formy usprawiedliwiania nieobecności przez osoby pełnoletnie;
+- **3)** przestrzegania zasad ubierania się uczniów na terenie szkoły lub noszenia na terenie szkoły jednolitego stroju – w przypadku, o którym mowa w art. 100;
+- **4)** przestrzegania warunków wnoszenia i korzystania z telefonów komórkowych i innych urządzeń elektronicznych na terenie szkoły;
+- **5)** właściwego zachowania wobec nauczycieli i innych pracowników szkoły oraz pozostałych uczniów.
+
 **Art. 100.**
 
 1. Dyrektor szkoły podstawowej, szkoły ponadpodstawowej oraz szkoły artystycznej może z własnej inicjatywy lub na wniosek rady szkoły, rady rodziców, rady pedagogicznej lub samorządu uczniowskiego, za zgodą odpowiednio rady rodziców i rady pedagogicznej oraz w przypadku, gdy z inicjatywą wystąpił dyrektor szkoły lub wniosku złożonego przez inny podmiot niż samorząd uczniowski – także po uzyskaniu opinii samorządu uczniowskiego, wprowadzić obowiązek noszenia przez uczniów na terenie szkoły jednolitego stroju.
@@ -2845,6 +2978,12 @@ source: "isap-pdf"
 
 **Art. 104.** Organizacja biblioteki uwzględnia w szczególności zadania w zakresie:
 
+- **1)** gromadzenia i udostępniania podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych oraz innych materiałów bibliotecznych, zgodnie z art. 22aj ustawy o systemie oświaty;
+- **2)** tworzenia warunków do efektywnego posługiwania się technologiami informacyjno-komunikacyjnymi;
+- **3)** rozbudzania i rozwijania indywidualnych zainteresowań uczniów oraz wyrabiania i pogłębiania u uczniów nawyku czytania i uczenia się;
+- **4)** organizowania różnorodnych działań rozwijających wrażliwość kulturową i społeczną uczniów, w tym w zakresie podtrzymywania tożsamości narodowej i językowej uczniów należących do mniejszości narodowych, mniejszości etnicznych oraz społeczności posługującej się językiem regionalnym;
+- **5)** przeprowadzania inwentaryzacji księgozbioru biblioteki szkolnej, z uwzględnieniem przepisów wydanych na podstawie art. 27 ust. 6 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393).
+
 **Art. 105.**
 
 1. Szkoła podstawowa oraz szkoła prowadząca kształcenie specjalne, o której mowa w art. 127 ust. 1, jest obowiązana zapewnić zajęcia świetlicowe dla uczniów, którzy pozostają w szkole dłużej ze względu na:
@@ -2913,6 +3052,11 @@ source: "isap-pdf"
 10. Przepisów ust. 1–9a nie stosuje się do szkół prowadzących kształcenie wyłącznie w formie stacjonarnej lub zaocznej.
 
 **Art. 108.** Przedszkole w zakresie realizacji zadań statutowych zapewnia dzieciom możliwość korzystania z:
+
+- **1)** pomieszczeń do nauczania, wychowania i opieki;
+- **2)** placu zabaw;
+- **3)** pomieszczeń sanitarno-higienicznych i szatni;
+- **4)** posiłków.
 
 **Art. 108a.**
 
@@ -2983,6 +3127,21 @@ source: "isap-pdf"
 
 **Art. 111.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółową organizację publicznych szkół i publicznych przedszkoli, uwzględniając prawidłową realizację celów i zadań szkół i przedszkoli, w tym:
 
+- **1)** elementy tworzące nazwę szkoły i przedszkola;
+- **2)** tryb nadawania imienia szkole i przedszkolu;
+- **3)** warunki i sposób używania nazwy szkoły i przedszkola, w tym szkoły wchodzącej w skład zespołu szkół i szkoły wchodzącej w skład ośrodków, o których mowa w art. 2 pkt 7, na pieczęciach, tablicy urzędowej i sztandarze;
+- **4)** zasady tworzenia i używania nazwy szkoły podstawowej filialnej;
+- **5)** warunki i tryb tworzenia zespołów nauczycieli do realizacji zadań szkoły określonych w statucie;
+- **6)** liczbę uczniów w oddziale klas I–III szkoły podstawowej ogólnodostępnej, w oddziale szkoły specjalnej, oddziale szkoły integracyjnej, oddziale specjalnym i oddziale integracyjnym w szkole ogólnodostępnej oraz liczbę uczniów pod opieką nauczyciela wychowawcy w świetlicy;
+- **7)** czas trwania zajęć edukacyjnych oraz zajęć rewalidacyjnych;
+- **8)** formy organizacji obowiązkowych zajęć edukacyjnych oraz organizację zajęć w oddziałach;
+- **9)** szczegółowe warunki i tryb tworzenia klas łączonych oraz szczegółowe warunki organizacji nauczania w tych klasach, z uwzględnieniem danego etapu edukacyjnego, obowiązkowych zajęć edukacyjnych prowadzonych oddzielnie oraz organizacji nauczania części zajęć edukacyjnych w klasach łączonych;
+- **10)** warunki tworzenia w szkole podstawowej oddziału przysposabiającego do pracy;
+- **11)** zadania internatu, organizację pracy w internacie ze szczególnym uwzględnieniem form organizacyjnych pracy z wychowankami, liczbę uczniów w grupie wychowawczej, tygodniowy wymiar zajęć opiekuńczych i wychowawczych w internacie z jedną grupą wychowawczą;
+- **12)** szczegółową organizację pracy przedszkola, w tym w szczególności organizację oddziału i liczbę uczniów w oddziale;
+- **13)** zakres informacji, jakie w szczególności powinny być zawarte w arkuszu organizacji szkoły i przedszkola oraz terminy jego opracowywania, opiniowania i zatwierdzania, mając na uwadze liczbę pracowników szkoły i przedszkola, liczbę oddziałów poszczególnych klas, liczbę uczniów w poszczególnych oddziałach, tygodniowy wymiar godzin zajęć obowiązkowych w poszczególnych oddziałach oraz tygodniowy wymiar godzin zajęć dodatkowych;
+- **14)** organizację tygodnia pracy szkoły, z uwzględnieniem kształcenia w formie dziennej, stacjonarnej lub zaocznej, w tym przypadki, w których kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.
+
 **Art. 111a.**
 
 1. W skład publicznej placówki kształcenia ustawicznego mogą wchodzić szkoły dla dorosłych, branżowe szkoły II stopnia lub szkoły policealne.
@@ -3002,6 +3161,16 @@ source: "isap-pdf"
 2. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, ramowe statuty placówek publicznych, o których mowa w art. 2 pkt 3, 4, 6–8 i 10, uwzględniając w szczególności ogólne zasady organizacji placówki, a także zakresy spraw, które powinny być ustalone w statucie placówki.
 
 **Art. 113.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółową organizację publicznych szkół i placówek artystycznych, uwzględniając prawidłową realizację celów i zadań szkół i placówek artystycznych, w tym:
+
+- **1)** elementy tworzące nazwę szkoły i placówki artystycznej;
+- **2)** tryb nadawania imienia szkole i placówce artystycznej;
+- **3)** warunki i sposób używania nazwy szkoły i placówki artystycznej, w tym szkoły wchodzącej w skład zespołu szkół, na pieczęciach, tablicy urzędowej i sztandarze;
+- **4)** warunki tworzenia stanowiska wicedyrektora i innych stanowisk kierowniczych w szkole i placówce artystycznej;
+- **5)** liczbę uczniów w oddziale szkoły artystycznej realizującej kształcenie ogólne w zakresie klas I–III szkoły podstawowej oraz liczbę uczniów pod opieką nauczyciela wychowawcy w świetlicy;
+- **6)** formy organizacji obowiązkowych zajęć edukacyjnych;
+- **7)** zadania internatu, organizację pracy w internacie ze szczególnym uwzględnieniem form organizacyjnych pracy z wychowankami, liczbę uczniów w grupie wychowawczej, warunki korzystania z internatu, tygodniowy wymiar zajęć opiekuńczych i wychowawczych w internacie z jedną grupą wychowawczą;
+- **8)** zakres informacji, jakie w szczególności powinny być zawarte w arkuszu organizacji szkoły i placówki artystycznej oraz terminy jego opracowywania i zatwierdzania;
+- **9)** organizację tygodnia pracy szkoły artystycznej, w tym przypadki, w których kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.
 
 **Art. 114.** Kurator oświaty, a w przypadku szkół i placówek artystycznych – dyrektor specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1, może uchylić statut publicznego przedszkola, publicznej szkoły lub placówki albo niektóre jego postanowienia, jeżeli są sprzeczne z prawem. Organowi, który nadał lub uchwalił statut, od decyzji kuratora oświaty, a w przypadku szkół i placówek artystycznych – dyrektora specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1, przysługuje odwołanie odpowiednio do ministra właściwego do spraw oświaty i wychowania albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
 
@@ -3500,6 +3669,10 @@ source: "isap-pdf"
 
 **Art. 132.** Laureat lub finalista ogólnopolskiej olimpiady przedmiotowej oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8 ustawy o systemie oświaty, lub laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6 ustawy o systemie oświaty, których organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1, są przyjmowani w pierwszej kolejności do:
 
+- **1)** publicznej szkoły ponadpodstawowej, publicznej szkoły ponadpodstawowej integracyjnej lub oddziału integracyjnego w publicznej szkole ponadpodstawowej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1;
+- **2)** publicznej szkoły ponadpodstawowej, o której mowa w art. 143 ust. 1, publicznej szkoły ponadpodstawowej sportowej, publicznej szkoły ponadpodstawowej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału mistrzostwa sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1, art. 137 ust. 1 i 4 oraz art. 143 ust. 1;
+- **3)** publicznej szkoły ponadpodstawowej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału międzynarodowego w publicznej szkole ponadpodstawowej ogólnodostępnej oraz klasy wstępnej, o której mowa w art. 25 ust. 3, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1, art. 138 ust. 4 i art. 140 ust. 1 i 2, z tym że warunek uzyskania odpowiednio pozytywnego wyniku sprawdzianu kompetencji językowych, o którym mowa w art. 140 ust. 1, albo pozytywnego wyniku sprawdzianu predyspozycji językowych, o którym mowa w art. 140 ust. 2, nie dotyczy laureata lub finalisty olimpiady przedmiotowej oraz laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim z języka obcego nowożytnego, który będzie drugim językiem nauczania w szkole, oddziale albo klasie, o przyjęcie do których ubiega się laureat lub finalista.
+
 **Art. 133.**
 
 1. Do klasy I publicznej szkoły podstawowej, której ustalono obwód, przyjmuje się na podstawie zgłoszenia rodziców dzieci i młodzież zamieszkałe w tym obwodzie.
@@ -3832,6 +4005,13 @@ source: "isap-pdf"
 
 **Art. 149.** Wniosek o przyjęcie do publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub kwalifikacyjny kurs zawodowy, składa się odpowiednio do dyrektora:
 
+- **1)** wybranego publicznego przedszkola lub wybranej publicznej szkoły, a w przypadku wyboru oddziału przedszkolnego w publicznej szkole podstawowej lub publicznej innej formy wychowania przedszkolnego – odpowiednio do dyrektora publicznego przedszkola lub publicznej szkoły podstawowej;
+- **2)** publicznej placówki oświatowo-wychowawczej – na wybrane zajęcia w tej placówce;
+- **3)** publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania;
+- **4)** publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kształcenie ustawiczne w formach pozaszkolnych – na wybraną formę pozaszkolną kształcenia ustawicznego;
+- **5)** publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kwalifikacyjne kursy zawodowe – na wybrany kwalifikacyjny kurs zawodowy;
+- **6)** wybranej publicznej szkoły lub publicznej placówki artystycznej.
+
 **Art. 150.**
 
 1. Wniosek, o którym mowa w art. 149, zawiera:
@@ -4016,6 +4196,10 @@ source: "isap-pdf"
 3. Do postępowania uzupełniającego przepisy niniejszego rozdziału stosuje się odpowiednio.
 
 **Art. 162.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+- **1)** sposób przeliczania na punkty poszczególnych kryteriów, o których mowa w art. 134 ust. 2 pkt 1–4, art. 135 ust. 4 pkt 1 i 2, art. 137 ust. 6, art. 138 ust. 4, art. 139 ust. 2 pkt 2 i 3, art. 140 ust. 3 pkt 1 i 3–5 i art. 143 ust. 2, uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych szkół na równych i przejrzystych zasadach oceny ich wiedzy, umiejętności i osiągnięć;
+- **2)** sposób ustalania punktacji w przypadku osób zwolnionych z obowiązku przystąpienia odpowiednio do egzaminu ósmoklasisty lub do danego przedmiotu objętego egzaminem ósmoklasisty, uwzględniając rodzaje obowiązkowych zajęć edukacyjnych, z których oceny są przeliczane na punkty;
+- **3)** skład i szczegółowe zadania komisji rekrutacyjnej, o której mowa w art. 157, oraz szczegółowy tryb przeprowadzania postępowania rekrutacyjnego i postępowania uzupełniającego, uwzględniając konieczność zapewnienia bezstronnego wykonywania zadań przez komisję rekrutacyjną, dokonania weryfikacji spełniania przez kandydata warunków lub kryteriów branych pod uwagę w postępowaniu rekrutacyjnym i postępowaniu uzupełniającym oraz właściwego dokumentowania postępowania rekrutacyjnego i postępowania uzupełniającego.
 
 **Art. 163.**
 

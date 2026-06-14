@@ -8,7 +8,7 @@ pos: 928
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie sygnalistów
@@ -31,7 +31,33 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** warunki objęcia ochroną sygnalistów zgłaszających lub ujawniających publicznie informacje o naruszeniach prawa;
+- **2)** środki ochrony sygnalistów zgłaszających lub ujawniających publicznie informacje o naruszeniach prawa;
+- **3)** zasady ustalania wewnętrznej procedury zgłaszania informacji o naruszeniach prawa i podejmowania działań następczych;
+- **4)** zasady zgłaszania informacji o naruszeniach prawa organowi publicznemu;
+- **5)** zasady ujawnienia publicznego informacji o naruszeniach prawa;
+- **6)** zadania Rzecznika Praw Obywatelskich związane ze zgłaszaniem informacji o naruszeniach prawa;
+- **7)** zadania organów publicznych związane ze zgłaszaniem informacji o naruszeniach prawa i z podejmowaniem działań następczych.
+
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** działaniu następczym – należy przez to rozumieć działanie podjęte przez podmiot prawny lub organ publiczny w celu oceny prawdziwości informacji zawartych w zgłoszeniu oraz w celu przeciwdziałania naruszeniu prawa będącemu przedmiotem zgłoszenia, w szczególności przez postępowanie wyjaśniające, wszczęcie kontroli lub postępowania administracyjnego, wniesienie oskarżenia, działanie podjęte w celu odzyskania środków finansowych lub zamknięcie procedury realizowanej w ramach wewnętrznej procedury dokonywania zgłoszeń naruszeń prawa i podejmowania działań następczych lub procedury przyjmowania zgłoszeń zewnętrznych i podejmowania działań następczych;
+- **2)** działaniu odwetowym – należy przez to rozumieć bezpośrednie lub pośrednie działanie lub zaniechanie w kontekście związanym z pracą, które jest spowodowane zgłoszeniem lub ujawnieniem publicznym i które narusza lub może naruszyć prawa sygnalisty lub wyrządza lub może wyrządzić nieuzasadnioną szkodę sygnaliście, w tym bezpodstawne inicjowanie postępowań przeciwko sygnaliście;
+- **3)** informacji o naruszeniu prawa – należy przez to rozumieć informację, w tym uzasadnione podejrzenie dotyczące zaistniałego lub potencjalnego naruszenia prawa, do którego doszło lub prawdopodobnie dojdzie w podmiocie prawnym, w którym sygnalista uczestniczył w procesie rekrutacji lub innych negocjacji poprzedzających zawarcie umowy, pracuje lub pracował, lub w innym podmiocie prawnym, z którym sygnalista utrzymuje lub utrzymywał kontakt w kontekście związanym z pracą, lub informację dotyczącą próby ukrycia takiego naruszenia prawa;
+- **4)** informacji zwrotnej – należy przez to rozumieć przekazaną sygnaliście informację na temat planowanych lub podjętych działań następczych i powodów takich działań;
+- **5)** kontekście związanym z pracą – należy przez to rozumieć przeszłe, obecne lub przyszłe działania związane z wykonywaniem pracy na podstawie stosunku pracy lub innego stosunku prawnego stanowiącego podstawę świadczenia pracy lub usług lub pełnienia funkcji w podmiocie prawnym lub na rzecz tego podmiotu, lub pełnienia służby w podmiocie prawnym, w ramach których uzyskano informację o naruszeniu prawa oraz istnieje możliwość doświadczenia działań odwetowych;
+- **6)** organie publicznym – należy przez to rozumieć naczelne i centralne organy administracji rządowej, terenowe organy administracji rządowej, organy jednostek samorządu terytorialnego, inne organy państwowe oraz inne podmioty wykonujące z mocy prawa zadania z zakresu administracji publicznej, właściwe do podejmowania działań następczych w dziedzinach wskazanych w art. 3 ust. 1;
+- **7)** osobie, której dotyczy zgłoszenie – należy przez to rozumieć osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną, wskazaną w zgłoszeniu lub ujawnieniu publicznym jako osoba, która dopuściła się naruszenia prawa, lub jako osoba, z którą osoba, która dopuściła się naruszenia prawa, jest powiązana;
+- **8)** osobie pomagającej w dokonaniu zgłoszenia – należy przez to rozumieć osobę fizyczną, która pomaga sygnaliście w zgłoszeniu lub ujawnieniu publicznym w kontekście związanym z pracą i której pomoc nie powinna zostać ujawniona;
+- **9)** osobie powiązanej z sygnalistą – należy przez to rozumieć osobę fizyczną, która może doświadczyć działań odwetowych, w tym współpracownika lub osobę najbliższą sygnalisty w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17);
+- **10)** podmiocie prawnym – należy przez to rozumieć podmiot prywatny lub podmiot publiczny;
+- **11)** podmiocie prywatnym – należy przez to rozumieć osobę fizyczną prowadzącą działalność gospodarczą, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną, lub pracodawcę, jeżeli nie są podmiotami publicznymi;
+- **12)** podmiocie publicznym – należy przez to rozumieć podmiot wskazany w art. 3 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524);
+- **13)** postępowaniu prawnym – należy przez to rozumieć postępowanie toczące się na podstawie przepisów prawa powszechnie obowiązującego, w szczególności postępowanie karne, cywilne, administracyjne, dyscyplinarne lub o naruszenie dyscypliny finansów publicznych, albo postępowanie toczące się na podstawie regulacji wewnętrznych wydanych w celu wykonania przepisów prawa powszechnie obowiązującego, w szczególności antymobbingowych;
+- **14)** ujawnieniu publicznym – należy przez to rozumieć podanie informacji o naruszeniu prawa do wiadomości publicznej;
+- **15)** zgłoszeniu – należy przez to rozumieć ustne lub pisemne zgłoszenie wewnętrzne lub zgłoszenie zewnętrzne, przekazane zgodnie z wymogami określonymi w ustawie;
+- **16)** zgłoszeniu wewnętrznym – należy przez to rozumieć ustne lub pisemne przekazanie podmiotowi prawnemu informacji o naruszeniu prawa;
+- **17)** zgłoszeniu zewnętrznym – należy przez to rozumieć ustne lub pisemne przekazanie Rzecznikowi Praw Obywatelskich albo organowi publicznemu informacji o naruszeniu prawa.
 
 **Art. 3.**
 
@@ -612,6 +638,9 @@ source: "isap-pdf"
 #### Rozdział 7 Przepisy zmieniające, dostosowujące i przepis końcowy
 
 **Art. 60.** W ustawie z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich (Dz. U. z 2023 r. poz. 1058) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dodaje się ust. 5 w brzmieniu: „5. Rzecznik wykonuje zadania określone w ustawie z dnia 14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. poz. 928).”;
+- **2)** w art. 19 dodaje się ust. 5 w brzmieniu: „5. Rzecznik raz na dwa lata przekazuje Sejmowi i Senatowi sprawozdanie z wykonania ustawy, o której mowa w art. 1 ust. 5.”.
 
 **Art. 61.** W ustawie z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2021 r. poz. 945) po art. 4 dodaje się art. 4 w brzmieniu: „Art. 4 . Nieodpłatna pomoc prawna i nieodpłatne poradnictwo obywatelskie przysługują osobie chcącej dokonać zgłoszenia naruszenia prawa w rozumieniu ustawy z dnia 14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. poz. 928). Przepisów art. 4 nie stosuje się.”.
 

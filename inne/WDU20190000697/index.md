@@ -8,10 +8,10 @@ pos: 697
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 kwietnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 697 ROZPORZĄDZENIE RaDy MINIstRów z dnia 20 marca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000697) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/697/text.pdf) |
 
-Poz. 697 ROZPORZĄDZENIE RaDy MINIstRów z dnia 20 marca 2019 r.
-w sprawie wzoru legitymacji służbowej pracownika Urzędu Ochrony Danych Osobowych Na podstawie art. 47 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000 i 1669) zarządza się, co następuje: § 1. Legitymacja służbowa pracownika Urzędu Ochrony Danych Osobowych zawiera następujący zakres danych: numer legitymacji, imię i nazwisko pracownika, datę ważności legitymacji, fotografię pracownika, podpis wystawcy, podpis posiadacza, hologram oraz stanowisko służbowe.
+w sprawie wzoru legitymacji służbowej pracownika Urzędu Ochrony Danych Osobowych Na podstawie art. 47 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000 i 1669) zarządza się, co następuje:
+§ 1. Legitymacja służbowa pracownika Urzędu Ochrony Danych Osobowych zawiera następujący zakres danych: numer legitymacji, imię i nazwisko pracownika, datę ważności legitymacji, fotografię pracownika, podpis wystawcy, podpis posiadacza, hologram oraz stanowisko służbowe.
 § 2. Wzór legitymacji służbowej pracownika Urzędu Ochrony Danych Osobowych określa załącznik do rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+Prezes Rady Ministrów: M. Morawiecki WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA URZĘDU OCHRONY DANYCH OSOBOWYCH Opis: Awers legitymacji: – legitymacja koloru niebieskiego (RGB 0, 185, 250; CMYK 67, 9, 0, 0), – napisy w kolorze czarnym: „RZECZPOSPOLITA POLSKA”, „Urząd Ochrony Danych Osobowych”, – napis „Numer legitymacji”, – wizerunek Orła Białego na czerwonej tarczy herbowej według wzoru ustalonego dla godła Rzeczypospolitej Polskiej.
+RZECZPOSPOLITA POLSKA Rewers legitymacji: – legitymacja koloru niebieskiego (RGB 0, 185, 250; CMYK 67, 9, 0, 0), – napisy w kolorze czarnym: „LEGITYMACJA SŁUŻBOWA Pracownika”, „data ważności legitymacji”, „Nazwisko”, „Imię”, „Stanowisko służbowe”, „podpis wystawcy”, „podpis posiadacza”, „miejsce na fotografię”, „miejsce na pieczęć Urzędu Ochrony Danych Osobowych”, – w prawym dolnym rogu hologram godła państwowego.
+LEGITYMACJA SŁUŻBOWA Pracownika Wymiary legitymacji: – wysokość legitymacji 100 mm, – szerokość legitymacji 75 mm, – wysokość fotografii 45 mm, – szerokość fotografii 35 mm.
+Rodzaj papieru i zabezpieczeń: – gramatura papieru 200, – papier kredowany dwustronnie – matowy, – hologram godła państwowego, – w miejscach wpisu nazwiska i imienia nadruk cienkich linii zabezpieczających.
 

@@ -15,6 +15,7 @@ saos_id|date|court|case_number|type|score|saos_url
 101083|2013-03-15|SN|V CSK 168/12|Postanowienie|69|https://www.saos.org.pl/judgments/101083
 76343|2010-04-09|SN|III CSK 336/09|Postanowienie|69|https://www.saos.org.pl/judgments/76343
 90352|2009-06-03|SN|IV CSK 107/09|Postanowienie|69|https://www.saos.org.pl/judgments/90352
+547008|2026-02-27|SO|I ACa 961/24|Wyrok|56|https://www.saos.org.pl/judgments/547008
 540622|2025-12-05|SO|I ACa 887/24|Wyrok|56|https://www.saos.org.pl/judgments/540622
 543995|2025-10-24|SO|I ACa 1780/22|Wyrok|56|https://www.saos.org.pl/judgments/543995
 537072|2025-09-08|SO|I ACa 2412/22|Wyrok|56|https://www.saos.org.pl/judgments/537072
@@ -23,11 +24,16 @@ saos_id|date|court|case_number|type|score|saos_url
 537056|2025-07-23|SO|I ACa 1746/22|Wyrok|56|https://www.saos.org.pl/judgments/537056
 532873|2025-06-26|SO|I ACa 1697/22|Wyrok|56|https://www.saos.org.pl/judgments/532873
 541174|2025-06-13|SO|I ACa 2536/23|Wyrok|56|https://www.saos.org.pl/judgments/541174
+546663|2025-06-12|SO|I ACa 3309/23|Wyrok|56|https://www.saos.org.pl/judgments/546663
+546649|2025-06-12|SO|I ACa 1929/24|Wyrok|56|https://www.saos.org.pl/judgments/546649
+546647|2025-06-04|SO|I ACa 147/24|Wyrok|56|https://www.saos.org.pl/judgments/546647
+546618|2025-04-11|SO|I ACa 2445/23|Wyrok|56|https://www.saos.org.pl/judgments/546618
 537059|2025-02-17|SO|I ACa 1903/24|Wyrok|56|https://www.saos.org.pl/judgments/537059
 533431|2024-11-28|SO|I ACa 2427/23|Wyrok|56|https://www.saos.org.pl/judgments/533431
 532055|2024-10-23|SO|I ACa 602/24|Wyrok|56|https://www.saos.org.pl/judgments/532055
 521985|2024-10-15|SO|I ACa 635/23|Wyrok|56|https://www.saos.org.pl/judgments/521985
 541826|2024-09-19|SO|I ACa 963/23|Wyrok|56|https://www.saos.org.pl/judgments/541826
+546740|2024-07-18|SO|I ACa 2897/22|Wyrok|56|https://www.saos.org.pl/judgments/546740
 493827|2024-07-03|SO|I ACa 1863/22|Wyrok|56|https://www.saos.org.pl/judgments/493827
 528766|2024-05-09|SO|I ACa 2192/22|Wyrok|56|https://www.saos.org.pl/judgments/528766
 521588|2024-05-08|SO|I ACa 1525/24|Wyrok|56|https://www.saos.org.pl/judgments/521588

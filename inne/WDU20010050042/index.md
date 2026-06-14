@@ -8,7 +8,7 @@ pos: 42
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o samorządach zawodowych architektów oraz inżynierów budownictwa
@@ -103,6 +103,21 @@ source: "isap-pdf"
 
 **Art. 8.** Do zadań samorządów zawodowych należy w szczególności:
 
+- **1)** sprawowanie nadzoru nad należytym i sumiennym wykonywaniem zawodu przez członków izb;
+- **2)** reprezentowanie i ochrona interesów zawodowych swoich członków;
+- **3)** ustalanie zasad etyki zawodowej i nadzór nad jej przestrzeganiem;
+- **4)** nadawanie i pozbawianie uprawnień budowlanych w specjalnościach, o których mowa w art. 14 ust. 1 ustawy – Prawo budowlane, zwanych dalej „uprawnieniami budowlanymi”, uznawanie kwalifikacji zawodowych oraz nadawanie i pozbawianie tytułu rzeczoznawcy budowlanego;
+- **5)** (uchylony)
+- **6)** współdziałanie z organami administracji rządowej i organami samorządu terytorialnego oraz z innymi samorządami zawodowymi i stowarzyszeniami zawodowymi;
+- **7)** (uchylony)
+- **8)** współdziałanie w doskonaleniu kwalifikacji zawodowych architektów lub inżynierów budownictwa;
+- **9)** zarządzanie majątkiem i działalnością gospodarczą samorządu zawodowego;
+- **10)** prowadzenie postępowań w zakresie odpowiedzialności zawodowej i dyscyplinarnej członków samorządów zawodowych;
+- **11)** opiniowanie projektów aktów normatywnych dotyczących architektury lub budownictwa;
+- **12)** organizowanie i prowadzenie instytucji samopomocowych oraz innych form pomocy materialnej członkom samorządów zawodowych;
+- **13)** prowadzenie list członków samorządów zawodowych;
+- **14)** realizacja zadań statutowych.
+
 **Art. 8a.** (uchylony)
 
 **Art. 8b.**
@@ -166,6 +181,12 @@ source: "isap-pdf"
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
 
 **Art. 8e.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), nie wpływa na:
+
+- **1)** prowadzenie postępowań kontrolnych;
+- **2)** prowadzenie list oraz rejestru, o których mowa w art. 8c, art. 19 ust. 1 pkt 10 oraz art. 39, w tym ich tworzenie, ewidencjonowanie i utrzymywanie oraz aktualizację i udostępnianie danych;
+- **3)** postępowania w sprawach świadczenia usług transgranicznych, o których mowa w art. 20a;
+- **4)** uznawanie kwalifikacji zawodowych, o których mowa w art. 33a, art. 33d i art. 33e;
+- **5)** prowadzenie postępowań dyscyplinarnych, o których mowa w rozdziale 5.
 
 **Art. 9.**
 
@@ -241,6 +262,15 @@ source: "isap-pdf"
 
 **Art. 18.** Okręgowy zjazd izby:
 
+- **1)** ustala zasady gospodarki finansowej okręgowej izby oraz uchwala budżet okręgowej izby;
+- **2)** rozpatruje i zatwierdza sprawozdania z działalności okręgowej rady izby, okręgowej komisji rewizyjnej, okręgowej komisji kwalifikacyjnej, okręgowego sądu dyscyplinarnego i okręgowego rzecznika odpowiedzialności zawodowej;
+- **3)** udziela absolutorium okręgowej radzie izby;
+- **4)** ustala liczbę członków organów oraz szczegółowe zasady organizacji organów okręgowej izby i tryb ich działania;
+- **5)** wybiera przewodniczących i członków organów okręgowej izby, o których mowa w art. 14 ust. 1 pkt 2–5, oraz okręgowego rzecznika odpowiedzialności zawodowej;
+- **6)** wybiera delegatów na Krajowy Zjazd Izby;
+- **7)** odwołuje członków organów izby przed upływem kadencji;
+- **8)** podejmuje uchwały w innych sprawach objętych zakresem działania izby.
+
 **Art. 19.**
 
 1. Okręgowa rada izby wykonuje zadania samorządu zawodowego na obszarze działania izby, w okresie między zjazdami, w szczególności:
@@ -265,6 +295,11 @@ source: "isap-pdf"
 5. Od uchwały, o której mowa w ust. 2, oraz w wypadku niepodjęcia uchwały przez radę okręgową izby w ciągu 2 miesięcy od dnia złożenia wniosku o wpis lub niepodjęcia uchwały przez Krajową Radę Izby w ciągu 2 miesięcy od dnia doręczenia odwołania, zainteresowanemu służy skarga do sądu administracyjnego.
 
 **Art. 19a.** Właściwa okręgowa rada izby architektów lub inżynierów budownictwa wydaje członkom izby:
+
+- **1)** zaświadczenie o członkostwie w izbie;
+- **2)** zaświadczenie potwierdzające posiadanie kwalifikacji zgodnych z wymaganiami wynikającymi z przepisów prawa Unii Europejskiej oraz że posiadany dyplom ukończenia studiów wyższych odpowiada dokumentom poświadczającym posiadanie kwalifikacji zawodowych architekta, wynikających z przepisów prawa Unii Europejskiej;
+- **3)** zaświadczenie potwierdzające posiadanie kwalifikacji do wykonywania zawodu inżyniera budownictwa na terytorium Rzeczypospolitej Polskiej;
+- **4)** inne zaświadczenia wymagane przez właściwe organy państw członkowskich, zgodnie z przepisami prawa Unii Europejskiej.
 
 **Art. 20.** (uchylony)
 
@@ -318,7 +353,19 @@ source: "isap-pdf"
 
 **Art. 22.** W posiedzeniach okręgowej rady izby i prezydium mogą brać udział z głosem doradczym:
 
+- **1)** przewodniczący:
+    - **a)** okręgowej komisji rewizyjnej,
+    - **b)** okręgowej komisji kwalifikacyjnej,
+    - **c)** okręgowego sądu dyscyplinarnego;
+
+- **2)** okręgowy rzecznik odpowiedzialności zawodowej;
+- **3)** inne zaproszone osoby, a w szczególności przedstawiciele stowarzyszeń zawodowych.
+
 **Art. 23.** Okręgowa komisja rewizyjna:
+
+- **1)** kontroluje działalność statutową, finansową i gospodarczą okręgowej izby;
+- **2)** składa sprawozdania okręgowemu zjazdowi izby i Krajowej Komisji Rewizyjnej;
+- **3)** występuje z wnioskiem o udzielenie absolutorium okręgowej radzie izby.
 
 **Art. 24.**
 
@@ -348,6 +395,10 @@ source: "isap-pdf"
 4. Okręgowy sąd dyscyplinarny dokonuje, co najmniej raz w roku, analizy przeprowadzonych postępowań w sprawach odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa i dyscyplinarnej członków izby oraz składa okręgowemu zjazdowi izby i Krajowemu Sądowi Dyscyplinarnemu roczne i kadencyjne sprawozdania ze swojej działalności.
 
 **Art. 26.** Okręgowy rzecznik odpowiedzialności zawodowej:
+
+- **1)** prowadzi postępowania wyjaśniające oraz sprawuje funkcje oskarżyciela w sprawach z zakresu odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa i dyscyplinarnej członków okręgowej izby;
+- **2)** składa odwołania od orzeczeń okręgowego sądu dyscyplinarnego w sprawach, o których mowa w pkt 1, do Krajowego Sądu Dyscyplinarnego, a od orzeczeń Krajowego Sądu Dyscyplinarnego składa odwołania do właściwego sądu apelacyjnego w zakresie odpowiedzialności dyscyplinarnej albo skargę do sądu administracyjnego w zakresie odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa;
+- **3)** składa okręgowemu zjazdowi izby i Krajowemu Rzecznikowi Odpowiedzialności Zawodowej roczne i kadencyjne sprawozdania ze swojej działalności.
 
 #### Rozdział 3 Krajowe Izby
 
@@ -392,6 +443,19 @@ source: "isap-pdf"
 
 **Art. 31.** Krajowy Zjazd Izby:
 
+- **1)** ustala liczbę członków organów Krajowej Izby;
+- **2)** wybiera Prezesa i członków Krajowej Rady Izby;
+- **3)** wybiera przewodniczącego i członków organów Krajowej Izby, o których mowa w art. 28 ust. 1 pkt 3–5, oraz Krajowego Rzecznika Odpowiedzialności Zawodowej;
+- **4)** ustala zasady gospodarki finansowej Krajowej Izby oraz uchwala jej budżet;
+- **5)** uchwala statut i regulaminy określające organizację organów izby i tryb ich działania;
+- **6)** uchwala regulamin wyborów do organów izby;
+- **7)** ustala wysokość i sposób uiszczania składek członkowskich i innych opłat na rzecz izby oraz zasady ich podziału;
+- **8)** ustala zasady prowadzenia listy członków izby;
+- **9)** udziela absolutorium Krajowej Radzie Izby;
+- **10)** uchwala, po zasięgnięciu opinii stowarzyszeń zawodowych, zasady etyki zawodowej;
+- **11)** ustala program działania samorządu zawodowego;
+- **12)** rozpatruje i zatwierdza sprawozdania z działalności Krajowej Rady Izby, Krajowej Komisji Rewizyjnej, Krajowej Komisji Kwalifikacyjnej, Krajowego Sądu Dyscyplinarnego i Krajowego Rzecznika Odpowiedzialności Zawodowej.
+
 **Art. 32.**
 
 1. W skład Krajowej Rady Izby wchodzą Prezes i członkowie wybrani przez Krajowy Zjazd Izby.
@@ -403,6 +467,26 @@ source: "isap-pdf"
 4. Oświadczenia woli w imieniu Krajowej Rady Izby składają przynajmniej dwaj członkowie prezydium, w tym Prezes lub wiceprezes.
 
 **Art. 33.** Krajowa Rada Izby kieruje działalnością samorządu zawodowego między Krajowymi Zjazdami, a w szczególności:
+
+- **1)** wykonuje uchwały Krajowego Zjazdu Izby;
+- **2)** koordynuje i nadzoruje działalność okręgowych rad izb;
+- **3)** reprezentuje członków izby;
+- **4)** wspiera podnoszenie kwalifikacji zawodowych członków izb;
+- **4a)** zawiera z uczelniami umowy, o których mowa w art. 61 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **5)** opracowuje projekt regulaminu wyborów do organów izby;
+- **6)** uchwala regulamin postępowania kwalifikacyjnego w sprawach nadawania uprawnień budowlanych i tytułu rzeczoznawcy budowlanego;
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** wydaje, po przeprowadzeniu postępowania weryfikacyjnego, decyzję w sprawie uprawnień budowlanych, w stosunku do osób, o których mowa w art. 12a ustawy – Prawo budowlane, a w wypadku nadania uprawnień budowlanych zobowiązuje okręgową izbę, wskazaną przez zainteresowanego, do dokonania wpisu na listę członków;
+- **10)** dokonuje kontroli uchwał okręgowych rad izb w zakresie zgodności z prawem, uchwałami i regulaminami wydanymi na podstawie ustawy;
+- **11)** opiniuje projekty aktów normatywnych dotyczących architektury lub budownictwa;
+- **12)** składa sprawozdanie ze swojej działalności Krajowemu Zjazdowi Izby;
+- **13)** reprezentuje samorząd wobec organów władzy publicznej oraz organizacji społecznych, zawodowych, samorządowych i innych;
+- **14)** prowadzi bieżące sprawy Krajowej Izby;
+- **15)** uchyla uchwały okręgowych rad izb sprzeczne z prawem lub uchwałami i regulaminami wydanymi na podstawie ustawy;
+- **16)** zobowiązuje okręgową radę izby do podjęcia uchwały w określonej sprawie należącej do zakresu działania tej rady, w terminie 30 dni od dnia doręczenia uchwały Krajowej Rady Izby; niepodjęcie przez okręgową radę izby w powyższym terminie stosownej uchwały upoważnia do jej podjęcia Krajową Radę Izby;
+- **17)** przedstawia odpowiednio ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa coroczne informacje o działalności Krajowej Izby;
+- **18)** ustala wzory pieczęci organów samorządu zawodowego.
 
 **Art. 33a.**
 
@@ -530,6 +614,11 @@ source: "isap-pdf"
 
 **Art. 38.** Krajowy Rzecznik Odpowiedzialności Zawodowej:
 
+- **1)** prowadzi postępowanie wyjaśniające oraz sprawuje funkcje oskarżyciela w sprawach z zakresu odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa i dyscyplinarnej członków organów Krajowej Izby;
+- **2)** składa odwołania od orzeczeń Krajowego Sądu Dyscyplinarnego w sprawach, o których mowa w pkt 1, do właściwego sądu apelacyjnego w zakresie odpowiedzialności dyscyplinarnej lub skargę do sądu administracyjnego w zakresie odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa;
+- **3)** sprawuje nadzór nad działalnością okręgowych rzeczników odpowiedzialności zawodowej;
+- **4)** składa Krajowemu Zjazdowi Izby roczne i kadencyjne sprawozdanie ze swojej działalności.
+
 #### Rozdział 4 Członkostwo w okręgowych izbach
 
 **Art. 39.** Osoby, o których mowa w art. 12a ustawy – Prawo budowlane, podlegają na ich wniosek wpisowi na listę członków wskazanej przez nich okręgowej izby i podlegają przepisom ustawy, z zastrzeżeniem art. 33 pkt 9.
@@ -545,6 +634,11 @@ source: "isap-pdf"
 2. Członek samorządu zawodowego może zaskarżyć uchwałę okręgowej izby do właściwych organów Krajowej Izby, a uchwałę Krajowej Izby do sądu administracyjnego.
 
 **Art. 41.** Członek izby jest obowiązany:
+
+- **1)** przestrzegać przy wykonywaniu czynności zawodowych obowiązujących przepisów oraz zasad wiedzy technicznej;
+- **2)** przestrzegać zasad etyki zawodowej;
+- **3)** stosować się do uchwał organów izby;
+- **4)** regularnie opłacać składki członkowskie.
 
 **Art. 42.**
 
@@ -586,6 +680,10 @@ source: "isap-pdf"
 
 **Art. 46.** Postępowanie dyscyplinarne obejmuje:
 
+- **1)** postępowanie wyjaśniające;
+- **2)** postępowanie przed sądem dyscyplinarnym;
+- **3)** postępowanie wykonawcze.
+
 **Art. 47.**
 
 1. Postępowanie dyscyplinarne wszczyna się na wniosek okręgowej rady izby, okręgowego rzecznika odpowiedzialności zawodowej lub Krajowego Rzecznika Odpowiedzialności Zawodowej.
@@ -593,6 +691,10 @@ source: "isap-pdf"
 2. Oskarżycielem w postępowaniu dyscyplinarnym przed okręgowym sądem dyscyplinarnym jest okręgowy rzecznik odpowiedzialności zawodowej, a przed Krajowym Sądem Dyscyplinarnym w sprawach członków organów Krajowej Izby – Krajowy Rzecznik Odpowiedzialności Zawodowej.
 
 **Art. 48.** Stronami w postępowaniu dyscyplinarnym są:
+
+- **1)** oskarżyciel;
+- **2)** obwiniony;
+- **3)** pokrzywdzony.
 
 **Art. 49.**
 
@@ -671,6 +773,13 @@ source: "isap-pdf"
 
 **Art. 56.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, po zasięgnięciu opinii Krajowych Izb, określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania dyscyplinarnego, z uwzględnieniem zagadnień dotyczących:
 
+- **1)** stron i obrońców;
+- **2)** postępowania wyjaśniającego;
+- **3)** postępowania odwoławczego;
+- **4)** wykonania orzeczeń;
+- **5)** wznowienia postępowania;
+- **6)** kosztów postępowania.
+
 #### Rozdział 6 Polubowne rozstrzyganie sporów
 
 **Art. 57.**
@@ -735,5 +844,12 @@ source: "isap-pdf"
 
 **Art. 62.** Do dnia zwołania pierwszych zjazdów okręgowych izb i Krajowych Zjazdów Izb oraz przez okres 3 miesięcy od tego dnia:
 
+- **1)** prawo wykonywania samodzielnych funkcji technicznych w budownictwie oraz samodzielnego projektowania przestrzeni w skali regionalnej i lokalnej lub kierowania zespołem prowadzącym takie projektowanie przysługuje na zasadach dotychczasowych;
+- **2)** zadania określone w art. 8 pkt 4 wykonują oraz nadają uprawnienia urbanistyczne, a także prowadzą postępowania w sprawie odpowiedzialności zawodowej właściwe organy na podstawie przepisów dotychczasowych.
+
 **Art. 63.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 61, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 5 ust. 3 pkt 6 oraz art. 59 pkt 3, które wchodzą w życie z dniem przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej .
+
 

@@ -8,10 +8,10 @@ pos: 1890
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1890 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 17 grudnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001890) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1890/text.pdf) |
 
-Poz. 1890 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 17 grudnia 2024 r.
-w sprawie wynagrodzeń oraz zwrotu kosztów podróży i noclegów członków Rady do spraw Opodatkowania Wyrównawczego Na podstawie art. 14zw § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879, 1685 i 1831) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wynagrodzeń oraz zwrotu kosztów podróży i noclegów członków Rady do spraw Opodatkowania Wyrównawczego Na podstawie art. 14zw § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879, 1685 i 1831) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wysokość wynagrodzeń, o których mowa w art. 14zw § 1 i § 2 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, zwanej dalej „ustawą”;
 2) warunki i tryb zwrotu kosztów podróży i noclegów przysługującego członkom Rady do spraw Opodatkowania Wyrównawczego, zwanej dalej „Radą GLOBE”, w związku z poniesieniem tych kosztów w ramach udziału w pracach Rady GLOBE oraz sposób obliczania wysokości albo maksymalną wysokość tego zwrotu.
 § 2. 1. Wysokość wynagrodzenia, o którym mowa w art. 14zw § 1 ustawy, wynosi:

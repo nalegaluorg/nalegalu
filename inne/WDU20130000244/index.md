@@ -8,7 +8,7 @@ pos: 244
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 16/2/A/2013 WYROK z dnia 12 lutego 2013 r.

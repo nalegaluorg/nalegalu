@@ -8,7 +8,7 @@ pos: 1291
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych rozwiązaniach związanych z ochroną miejsc pracy
@@ -29,7 +29,17 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** przyznawania i wypłaty świadczeń na rzecz ochrony miejsc pracy finansowanych z Funduszu Gwarantowanych Świadczeń Pracowniczych, zwanego dalej „Funduszem”, przysługujących w okresie przestoju ekonomicznego lub obniżonego wymiaru czasu pracy;
+- **2)** dofinansowywania z Funduszu Pracy kosztów szkolenia pracowników, objętych przestojem ekonomicznym lub obniżonym wymiarem czasu pracy, zatrudnionych u przedsiębiorcy, o którym mowa w art. 3 ust. 1;
+- **2a)** dofinansowywania z Funduszu kosztów szkolenia pracowników, objętych przestojem ekonomicznym lub obniżonym wymiarem czasu pracy, zatrudnionych u przedsiębiorcy, o którym mowa w art. 3 ust. 1a;
+- **3)** zwrotu świadczeń na rzecz ochrony miejsc pracy w przypadku niespełnienia warunków umowy o wypłatę świadczeń na rzecz ochrony miejsc pracy, zawartej przez przedsiębiorcę z marszałkiem województwa, zwanej dalej „umową o wypłatę świadczeń”;
+- **4)** zwrotu dofinansowania z Funduszu albo Funduszu Pracy kosztów szkolenia pracowników objętych przestojem ekonomicznym lub obniżonym wymiarem czasu pracy w przypadku niespełnienia warunków umowy o dofinansowanie kosztów szkolenia.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** przestój ekonomiczny – okres niewykonywania pracy przez pracownika z przyczyn niedotyczących pracownika pozostającego w gotowości do pracy;
+- **2)** obniżony wymiar czasu pracy – obniżony przez przedsiębiorcę wymiar czasu pracy pracownika z przyczyn niedotyczących pracownika, jednak nie więcej niż do połowy wymiaru czasu pracy;
+- **3)** pomoc de minimis – pomoc udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis lub pomocy w ramach zasady de minimis w rolnictwie lub rybołówstwie.
 
 **Art. 3.**
 
@@ -38,7 +48,7 @@ source: "isap-pdf"
 - **1)** u którego wystąpił spadek obrotów gospodarczych, rozumianych jako sprzedaż towarów lub usług, liczony w ujęciu ilościowym lub wartościowym, łącznie nie mniej niż o 15 %, obliczony jako stosunek łącznych obrotów w ciągu 6 kolejnych miesięcy w okresie 12 miesięcy poprzedzających dzień złożenia wniosku o przyznanie świadczeń na rzecz ochrony miejsc pracy finansowanych z Funduszu, zwanego dalej „wnioskiem o przyznanie świadczeń”, do łącznych obrotów z analogicznych 6 miesięcy w okresie 12 miesięcy przed okresem 12 miesięcy poprzedzających dzień złożenia wniosku;
 - **2)** który nie zalega w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, z wyjątkiem przypadku gdy:
     - **a)** zadłużony przedsiębiorca zawarł umowę z Zakładem Ubezpieczeń Społecznych lub otrzymał decyzję urzędu skarbowego w sprawie spłaty zadłużenia i terminowo opłaca raty lub korzysta z odroczenia terminu płatności albo
-    - **b)** zaleganie w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy powstało w okresie spadku obrotów gospodarczych, o którym mowa w pkt 1, a przedsiębiorca dołączył do wniosku o przyznanie świadczeń plan spłaty zadłużenia uprawdopodabniający poprawę kondycji finansowej przedsiębiorcy i pełną spłatę zaległości w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, wraz z kopią wniosku do Zakładu Ubezpieczeń o odroczenie płatności tych składek;
+    - **b)** zaleganie w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy powstało w okresie spadku obrotów gospodarczych, o którym mowa w pkt 1, a przedsiębiorca dołączył do wniosku o przyznanie świadczeń plan spłaty zadłużenia uprawdopodabniający poprawę kondycji finansowej przedsiębiorcy i pełną spłatę zaległości w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, wraz z kopią wniosku do Zakładu Ubezpieczeń Społecznych o rozłożenie na raty należności z tytułu tych składek lub o odroczenie płatności tych składek;
 
 - **3)** wobec którego nie zachodzą przesłanki do ogłoszenia upadłości, o których mowa w art. 11 lub art. 13 ust. 3 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172).
 
@@ -46,7 +56,7 @@ source: "isap-pdf"
 
 - **398)** :
 - **1)** którego przeważający rodzaj wykonywanej działalności gospodarczej według Polskiej Klasyfikacji Działalności, wynikający z wpisu do krajowego rejestru urzędowego podmiotów gospodarki narodowej, określony na podstawie przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799), wskazuje na jej udział w handlu, przetwórstwie, transporcie, uprawach rolnych lub chowie i hodowli zwierząt, a także w wynikających z nich usługach, na krajowych lub zagranicznych rynkach towarowych, a produkt tej działalności doznał ograniczeń ilościowych lub wartościowych w obrocie handlowym na krajowych lub zagranicznych rynkach towarowych, w następstwie wystąpienia czasowych ograniczeń, z przyczyn niezależnych od przedsiębiorcy, wwozu towarów na terytoria innych krajów;
-- **2)** u którego ograniczenia w obrocie handlowym, o których mowa w pkt 1, spowodowały spadek obrotów gospodarczych, rozumianych jako sprzedaż towarów lub usług, liczony w ujęciu ilościowym lub wartościowym, łącznie nie mniej niż o 15 %, obliczony jako stosunek łącznych obrotów w ciągu dowolnie wskazanych 3 kolejnych miesięcy kalendarzowych, przypadających w okresie po dniu 6 sierpnia 2014 r. do dnia poprzedzającego dzień złożenia wniosku o przyznanie świadczeń, w porównaniu do łącznych obrotów z tych samych 3 miesięcy kalendarzowych roku poprzedniego; za miesiąc uważa się także 30 kolejno po sobie następujących dni kalendarzowych, w przypadku gdy kalendarzowego, to jest w dniu innym niż pierwszy dzień danego miesiąca kalendarzowego;
+- **2)** u którego ograniczenia w obrocie handlowym, o których mowa w pkt 1, spowodowały spadek obrotów gospodarczych, rozumianych jako sprzedaż towarów lub usług, liczony w ujęciu ilościowym lub wartościowym, łącznie nie mniej niż o 15 %, obliczony jako stosunek łącznych obrotów w ciągu dowolnie wskazanych 3 kolejnych miesięcy kalendarzowych, przypadających w okresie po dniu 6 sierpnia 2014 r. do dnia poprzedzającego dzień złożenia wniosku o przyznanie świadczeń, w porównaniu do łącznych obrotów z tych samych 3 miesięcy kalendarzowych roku poprzedniego; za miesiąc uważa się także 30 kolejno po sobie następujących dni kalendarzowych, w przypadku gdy trzymiesięczny okres porównawczy rozpoczyna się w trakcie miesiąca kalendarzowego, to jest w dniu innym niż pierwszy dzień danego miesiąca kalendarzowego;
 - **3)** który nie zalega w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, z wyjątkiem przypadku, gdy:
     - **a)** zadłużony przedsiębiorca zawarł umowę z Zakładem Ubezpieczeń Społecznych lub otrzymał decyzję urzędu skarbowego w sprawie spłaty zadłużenia i terminowo opłaca raty lub korzysta z odroczenia terminu płatności albo
     - **b)** zaleganie w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy powstało w okresie spadku obrotów gospodarczych, o którym mowa w pkt 2, a przedsiębiorca dołączył do wniosku o przyznanie świadczeń plan spłaty zadłużenia uprawdopodabniający pełną spłatę zaległości w regulowaniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, wraz z kopią wniosku do Zakładu Ubezpieczeń Społecznych o rozłożenie na raty należności z tytułu tych składek lub o odroczenie płatności tych składek;
@@ -56,7 +66,7 @@ source: "isap-pdf"
 2. Pomoc, o której mowa w ustawie, stanowi pomoc de minimis, którą przedsiębiorca może otrzymać na świadczenia na rzecz ochrony miejsc pracy pracowników, z wyłączeniem pracowników, dla których otrzymał pomoc de minimis:
 
 - **1)** na wyposażenie lub doposażenie stanowiska pracy dla skierowanego bezrobotnego ze środków Funduszu Pracy w okresie obowiązywania umowy o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o której mowa w art. 156 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub
-- **2)** na wyposażenie lub doposażenie stanowiska pracy dla osoby niepełnosprawnej ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych w okresie obowiązywania umowy zawartej z pracownikiem na podstawie ustawy z dnia 27 sierpnia 1997 r. niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301).
+- **2)** na wyposażenie lub doposażenie stanowiska pracy dla osoby niepełnosprawnej ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych w okresie obowiązywania umowy zawartej z pracownikiem na podstawie ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301).
 
 3. W przypadku gdy przedsiębiorca spełnia jednocześnie warunki, o których mowa w ust. 1 i 1a, przedsiębiorcy przysługuje prawo do uzyskania pomocy wyłącznie po spełnieniu warunków, o których mowa w ust. 1 albo 1a.
 
@@ -78,7 +88,7 @@ source: "isap-pdf"
 
 1. Pracownikowi objętemu przestojem ekonomicznym przysługuje od przedsiębiorcy:
 
-- **1)** finansowane ze środków Funduszu świadczenie na częściowe zaspokojenie wynagrodzenia za czas przestoju ekonomicznego, do wysokości 100 % zasiłku, o którym mowa w art. 224 ust. 1 pkt 1 ustawy z dnia 20 marca składek na ubezpieczenia społeczne należnych od pracownika, w wysokości proporcjonalnej do przestoju ekonomicznego, z uwzględnieniem wymiaru czasu pracy pracownika,
+- **1)** finansowane ze środków Funduszu świadczenie na częściowe zaspokojenie wynagrodzenia za czas przestoju ekonomicznego, do wysokości 100 % zasiłku, o którym mowa w art. 224 ust. 1 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, zwiększonego o wysokość składek na ubezpieczenia społeczne należnych od pracownika, w wysokości proporcjonalnej do przestoju ekonomicznego, z uwzględnieniem wymiaru czasu pracy pracownika,
 - **2)** finansowane ze środków przedsiębiorcy wynagrodzenie – w łącznej wysokości co najmniej minimalnego wynagrodzenia za pracę, ustalonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, z uwzględnieniem wymiaru czasu pracy pracownika.
 
 2. Pracownikowi objętemu obniżonym wymiarem czasu pracy przysługuje od przedsiębiorcy:
@@ -90,7 +100,7 @@ source: "isap-pdf"
 
 **Art. 6.** Świadczenia, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1, przysługują pracownikowi zatrudnionemu u przedsiębiorcy spełniającego warunki, o których mowa w art. 3 ust. 1 albo 1a, przez łączny okres nie dłuższy niż 6 miesięcy w okresie 12 miesięcy od dnia podpisania umowy o wypłatę świadczeń.
 
-**Art. 7.** Świadczenia, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1, nie przysługują pracownikowi, z wyjątkiem pracownika, któremu przedsiębiorca wymiaru czasu pracy pobiera wynagrodzenie za czas choroby określone w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy lub w ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 257, 620 i 1083) lub zasiłek z ubezpieczenia chorobowego określony w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083).
+**Art. 7.** Świadczenia, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1, nie przysługują pracownikowi, z wyjątkiem pracownika, któremu przedsiębiorca obniżył wymiar czasu pracy na podstawie art. 4, jeżeli w okresie obniżonego wymiaru czasu pracy pobiera wynagrodzenie za czas choroby określone w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy lub w ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 257, 620 i 1083) lub zasiłek z ubezpieczenia chorobowego określony w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083).
 
 **Art. 8.**
 
@@ -107,7 +117,8 @@ source: "isap-pdf"
 
 - **1)** posiadaniu statusu przedsiębiorcy w rozumieniu art. 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
 - **2)** wystąpieniu u przedsiębiorcy spadku obrotów gospodarczych, o którym mowa w art. 3 ust. 1 pkt 1 albo ust. 1a pkt 2 w związku z zaistnieniem okoliczności, o których mowa w art. 3 ust. 1a pkt 1;
-- **3)** braku przesłanek do ogłoszenia upadłości przedsiębiorcy, o których mowa w art. 11 lub art. 13 ust. 3 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe; składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, o którym mowa w art. 3 ust. 1 pkt 2 albo ust. 1a pkt 3;
+- **3)** braku przesłanek do ogłoszenia upadłości przedsiębiorcy, o których mowa w art. 11 lub art. 13 ust. 3 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe;
+- **4)** niezaleganiu albo zaleganiu w regulowaniu zobowiązań podatkowych, składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz lub Fundusz Pracy, o którym mowa w art. 3 ust. 1 pkt 2 albo ust. 1a pkt 3;
 - **5)** nieprzeznaczeniu świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 oraz środków, o których mowa w art. 5 ust. 3, dla pracowników zatrudnionych na podstawie umów, o których mowa w art. 3 ust. 2;
 - **6)** liczbie zatrudnianych pracowników;
 - **7)** numerze rachunku bankowego albo numerze rachunku prowadzonego w spółdzielczej kasie oszczędnościowo-kredytowej właściwego dla prowadzonej działalności gospodarczej;
@@ -117,7 +128,7 @@ source: "isap-pdf"
 
 4. Oświadczenia, o których mowa w ust. 3, przedsiębiorca składa pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
-5. W razie stwierdzenia braków formalnych wniosku o przyznanie świadczeń marszałek województwa w terminie 7 dni roboczych od dnia wpływu roboczych od dnia otrzymania wezwania. Po bezskutecznym upływie terminu wniosek o przyznanie świadczeń pozostawia się bez rozpoznania.
+5. W razie stwierdzenia braków formalnych wniosku o przyznanie świadczeń marszałek województwa w terminie 7 dni roboczych od dnia wpływu wniosku wzywa przedsiębiorcę do uzupełnienia wniosku w terminie 7 dni roboczych od dnia otrzymania wezwania. Po bezskutecznym upływie terminu wniosek o przyznanie świadczeń pozostawia się bez rozpoznania.
 
 **Art. 9.**
 
@@ -131,6 +142,9 @@ source: "isap-pdf"
 
 **Art. 10.** Dysponent Funduszu przekazuje marszałkowi województwa, na podstawie umowy o wypłatę świadczeń zawartej między marszałkiem województwa a przedsiębiorcą oraz zapotrzebowań złożonych przez marszałka województwa, uwzględniających terminy wynikające z harmonogramu, o którym mowa w art. 9 ust. 3, środki Funduszu na:
 
+- **1)** wypłatę pracownikom przedsiębiorcy świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1;
+- **2)** opłacenie składek na ubezpieczenia społeczne pracowników należnych od pracodawcy na podstawie przepisów o systemie ubezpieczeń społecznych od przyznanych świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1.
+
 **Art. 11.** Na podstawie umowy o wypłatę świadczeń oraz wykazu pracowników uprawnionych do świadczeń wypłacanych z Funduszu, zwanego dalej „wykazem”, składanego przez przedsiębiorcę za okres od pierwszego dnia, za który świadczenie jest należne, do ostatniego dnia miesiąca, oraz co miesiąc do końca każdego miesiąca, za który świadczenie jest należne, marszałek województwa przekazuje na rachunek przedsiębiorcy miesięcznie z dołu środki na wypłatę świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 oraz środki, o których mowa w art. 5 ust. 3, zgodnie z harmonogramem, o którym mowa w art. 9 ust. 3.
 
 **Art. 12.**
@@ -142,6 +156,9 @@ source: "isap-pdf"
 3. Środki, o których mowa w art. 11, przekazane na wypłatę świadczeń na rzecz ochrony miejsc pracy mogą podlegać egzekucji prowadzonej jedynie na rzecz osób, dla których zostały przekazane.
 
 **Art. 13.** Przedsiębiorca, który na podstawie umowy o wypłatę świadczeń otrzymał z Funduszu środki na wypłatę świadczeń, o których mowa w art. 5 ust. 1 pkt 1, ust. 2 pkt 1 oraz środki, o których mowa w art. 5 ust. 3, nie może wypowiedzieć umowy o pracę z przyczyn niedotyczących pracownika:
+
+- **1)** w okresie lub w okresach pobierania przez pracownika świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1, oraz
+- **2)** w okresie lub w okresach przypadających bezpośrednio po okresie lub okresach pobierania świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 – nie dłużej jednak niż przez łączny okres 3 miesięcy.
 
 **Art. 14.**
 
@@ -155,15 +172,23 @@ source: "isap-pdf"
 
 1. W przypadku gdy przedsiębiorca, który zawarł z marszałkiem województwa umowę o wypłatę świadczeń, nie spełnił warunków w niej zawartych lub nie poddał się kontroli, o której mowa w art. 14 ust. 3, jest obowiązany do zwrotu na rachunek bankowy marszałka województwa, z którego otrzymał środki, całości otrzymanej pomocy wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6), naliczonymi od dnia następującego po dniu przekazania przez marszałka województwa środków na wypłatę świadczeń na rzecz ochrony miejsc pracy na rachunek przedsiębiorcy.
 
-2. Jeżeli niespełnienie warunków zawartych w umowie o wypłatę świadczeń polega na wykorzystaniu pomocy, o której mowa w art. 10, niezgodnie z przeznaczeniem, przedsiębiorca jest obowiązany do zwrotu na rachunek bankowy marszałka województwa, z którego otrzymał środki, kwoty równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych, naliczonymi od dnia następującego po dniu przekazania przez marszałka województwa środków na wypłatę świadczeń na rzecz ochrony miejsc pracy na rachunek przedsiębiorcy.
+2. Jeżeli niespełnienie warunków zawartych w umowie o wypłatę świadczeń polega na wykorzystaniu pomocy, o której mowa w art. 10, niezgodnie z przeznaczeniem, przedsiębiorca jest obowiązany do zwrotu na rachunek bankowy marszałka województwa, z którego otrzymał środki, kwoty pomocy wykorzystanej niezgodnie z przeznaczeniem wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych, naliczonymi od dnia następującego po dniu przekazania przez marszałka województwa środków na wypłatę świadczeń na rzecz ochrony miejsc pracy na rachunek przedsiębiorcy.
 
 **Art. 16.** Marszałek województwa przekazuje ministrowi właściwemu do spraw pracy – dysponentowi Funduszu miesięczną informację dotyczącą wykorzystania środków Funduszu na wypłatę świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 oraz środków, o których mowa w art. 5 ust. 3.
 
 **Art. 17.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia:
 
+- **1)** wzór wniosku o przyznanie świadczeń,
+- **2)** wzór umowy o wypłatę świadczeń,
+- **3)** wzór wykazu,
+- **4)** wzór zapotrzebowania, o którym mowa w art. 9 ust. 4,
+- **5)** wzór zapotrzebowania, o którym mowa w art. 30b, oraz termin jego przekazania dysponentowi Funduszu,
+- **6)** termin i sposób rozliczenia się przedsiębiorcy z otrzymanych środków Funduszu na wypłatę świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 oraz środków, o których mowa w art. 5 ust. 3,
+- **7)** termin i sposób przekazywania ministrowi właściwemu do spraw pracy przez marszałka województwa informacji o wykorzystaniu środków na wypłatę świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 oraz środków, o których mowa w art. 5 ust. 3, oraz wzór tej informacji – mając na uwadze prawidłowość dysponowania środkami Funduszu, o których mowa w art. 10, w związku z potrzebami krajowego rynku pracy oraz zapewnieniem właściwej organizacji wypłaty świadczeń na rzecz ochrony miejsc pracy z tytułu przestoju ekonomicznego lub obniżonego wymiaru czasu pracy.
+
 **Art. 18.**
 
-1. Przedsiębiorca, który zawarł umowę o wypłatę świadczeń, może wystąpić do starosty (prezydenta miasta na prawach powiatu) właściwego ze względu na siedzibę przedsiębiorcy z wnioskiem o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony przyszłymi potrzebami przedsiębiorcy.
+1. Przedsiębiorca, który zawarł umowę o wypłatę świadczeń, może wystąpić do starosty (prezydenta miasta na prawach powiatu) właściwego ze względu na siedzibę przedsiębiorcy z wnioskiem o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy, pod warunkiem że szkolenie jest uzasadnione obecnymi lub przyszłymi potrzebami przedsiębiorcy.
 
 2. Wniosek o dofinansowanie kosztów szkolenia pracowników, o którym mowa w ust. 1, zawiera:
 
@@ -183,7 +208,7 @@ source: "isap-pdf"
 
 4. Oświadczenia, o których mowa w ust. 3 pkt 2–4, przedsiębiorca składa pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
-5. W razie stwierdzenia braków formalnych wniosku o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy lub niespełniania warunków, o których mowa w ust. 1, starosta (prezydent miasta na prawach powiatu), w terminie 7 dni roboczych od wniosku w terminie 7 dni roboczych od dnia otrzymania wezwania. Po bezskutecznym upływie terminu wniosek o dofinansowanie kosztów szkolenia pracowników pozostawia się bez rozpoznania.
+5. W razie stwierdzenia braków formalnych wniosku o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy lub niespełniania warunków, o których mowa w ust. 1, starosta (prezydent miasta na prawach powiatu), w terminie 7 dni roboczych od dnia wpływu wniosku, wzywa przedsiębiorcę do uzupełnienia lub poprawienia wniosku w terminie 7 dni roboczych od dnia otrzymania wezwania. Po bezskutecznym upływie terminu wniosek o dofinansowanie kosztów szkolenia pracowników pozostawia się bez rozpoznania.
 
 6. Szkolenia inicjuje, organizuje i finansuje ze środków własnych i uzyskanego dofinansowania kosztów szkolenia przedsiębiorca.
 
@@ -195,7 +220,9 @@ source: "isap-pdf"
 
 1. Starosta (prezydent miasta na prawach powiatu), w terminie 7 dni roboczych od dnia wpływu kompletnego wniosku o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy, występuje do dysponenta Funduszu Pracy w przypadku przedsiębiorcy, o którym mowa w art. 3 ust. 1, albo do dysponenta Funduszu w przypadku przedsiębiorcy, o którym mowa w art. 3 ust. 1a, o przyznanie limitu wydatków na dofinansowanie kosztów szkolenia finansowanych na podstawie ustawy oraz w terminie 7 dni roboczych od dnia uzyskania limitu podpisuje z przedsiębiorcą umowę o dofinansowanie kosztów szkolenia. W przypadku nieuzyskania limitu wydatków starosta (prezydent miasta na prawach powiatu) odmawia w formie pisemnej zawarcia z przedsiębiorcą umowy o dofinansowanie kosztów szkolenia.
 
-2. W przypadku stwierdzenia, że przedsiębiorca nie zawarł umowy o wypłatę świadczeń, starosta (prezydent miasta na prawach powiatu), w terminie 7 dni roboczych od dnia wpływu kompletnego wniosku o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy, odmawia w formie pisemnej zawarcia z przedsiębiorcą umowy o dofinansowanie kosztów szkolenia. Funduszu Pracy albo dysponentowi Funduszu zapotrzebowanie na środki na dofinansowanie kosztów szkolenia pracowników.
+2. W przypadku stwierdzenia, że przedsiębiorca nie zawarł umowy o wypłatę świadczeń, starosta (prezydent miasta na prawach powiatu), w terminie 7 dni roboczych od dnia wpływu kompletnego wniosku o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy, odmawia w formie pisemnej zawarcia z przedsiębiorcą umowy o dofinansowanie kosztów szkolenia.
+
+2a. Starosta (prezydent miasta na prawach powiatu) składa dysponentowi Funduszu Pracy albo dysponentowi Funduszu zapotrzebowanie na środki na dofinansowanie kosztów szkolenia pracowników.
 
 3. Środki na realizację umowy o dofinansowanie kosztów szkolenia starosta (prezydent miasta na prawach powiatu) przekazuje jednorazowo przedsiębiorcy w terminie 7 dni roboczych od dnia zawarcia umowy o dofinansowanie kosztów szkolenia.
 
@@ -216,7 +243,9 @@ source: "isap-pdf"
 
 1. Przedsiębiorca jest obowiązany do powiadamiania na piśmie starosty (prezydenta miasta na prawach powiatu) o każdej zmianie okoliczności mających wpływ na realizację umowy o dofinansowanie kosztów szkolenia w terminie 7 dni roboczych od dnia uzyskania informacji o jej wystąpieniu.
 
-2. Przedsiębiorca jest obowiązany do rozliczenia środków otrzymanych na podstawie umowy o dofinansowanie kosztów szkolenia. kontrolę u przedsiębiorcy w zakresie przestrzegania postanowień umowy o dofinansowanie kosztów szkolenia, wydatkowania środków Funduszu Pracy albo Funduszu, otrzymanych na podstawie umowy o dofinansowanie kosztów szkolenia zgodnie z przeznaczeniem, właściwego dokumentowania oraz rozliczania otrzymanych i wydatkowanych środków Funduszu Pracy albo Funduszu i w tym celu może żądać okazania wszelkiej dokumentacji z tym związanej oraz żądać złożenia stosownych wyjaśnień.
+2. Przedsiębiorca jest obowiązany do rozliczenia środków otrzymanych na podstawie umowy o dofinansowanie kosztów szkolenia.
+
+3. Starosta (prezydent miasta na prawach powiatu) może przeprowadzać kontrolę u przedsiębiorcy w zakresie przestrzegania postanowień umowy o dofinansowanie kosztów szkolenia, wydatkowania środków Funduszu Pracy albo Funduszu, otrzymanych na podstawie umowy o dofinansowanie kosztów szkolenia zgodnie z przeznaczeniem, właściwego dokumentowania oraz rozliczania otrzymanych i wydatkowanych środków Funduszu Pracy albo Funduszu i w tym celu może żądać okazania wszelkiej dokumentacji z tym związanej oraz żądać złożenia stosownych wyjaśnień.
 
 **Art. 22.**
 
@@ -224,7 +253,7 @@ source: "isap-pdf"
 
 2. W przypadku gdy przedsiębiorca, który zawarł ze starostą (prezydentem miasta na prawach powiatu) umowę o dofinansowanie kosztów szkolenia, nie spełnił warunków w niej zawartych lub nie poddał się kontroli, o której mowa w art. 21 ust. 3, jest obowiązany do zwrotu na rachunek bankowy starosty (prezydenta miasta na prawach powiatu), z którego otrzymał środki, całości otrzymanej pomocy wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych, naliczonymi od dnia następującego po dniu przekazania przez starostę (prezydenta miasta na prawach powiatu) środków na podstawie umowy o dofinansowanie kosztów szkolenia na rachunek przedsiębiorcy.
 
-3. Jeżeli niespełnienie warunków zawartych w umowie o dofinansowanie kosztów szkolenia polega na wykorzystaniu pomocy, o której mowa w art. 18 ust. 1, niezgodnie z przeznaczeniem, przedsiębiorca jest obowiązany do natychmiastowego zwrotu na rachunek bankowy starosty (prezydenta miasta na prawach powiatu), z którego otrzymał środki, kwoty pomocy wykorzystanej niezgodnie z przeznaczeniem wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych, naliczonymi od dnia następującego po dniu przekazania przez starostę (prezydenta miasta na szkolenia na rachunek przedsiębiorcy.
+3. Jeżeli niespełnienie warunków zawartych w umowie o dofinansowanie kosztów szkolenia polega na wykorzystaniu pomocy, o której mowa w art. 18 ust. 1, niezgodnie z przeznaczeniem, przedsiębiorca jest obowiązany do natychmiastowego zwrotu na rachunek bankowy starosty (prezydenta miasta na prawach powiatu), z którego otrzymał środki, kwoty pomocy wykorzystanej niezgodnie z przeznaczeniem wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych, naliczonymi od dnia następującego po dniu przekazania przez starostę (prezydenta miasta na prawach powiatu) środków na podstawie umowy o dofinansowanie kosztów szkolenia na rachunek przedsiębiorcy.
 
 **Art. 23.**
 
@@ -234,9 +263,17 @@ source: "isap-pdf"
 
 **Art. 24.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia:
 
+- **1)** wzór wniosku o dofinansowanie kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy,
+- **2)** wzór umowy o dofinansowanie kosztów szkolenia,
+- **3)** wzór zapotrzebowania, o którym mowa w art. 19 ust. 2a,
+- **4)** terminy i sposób przekazywania marszałkowi województwa przez starostów (prezydentów miast na prawach powiatu) oraz ministrowi właściwemu do spraw pracy – dysponentowi Funduszu Pracy w przypadku przedsiębiorcy, o którym mowa w art. 3 ust. 1, albo dysponentowi Funduszu w przypadku przedsiębiorcy, o którym mowa w art. 3 ust. 1a, przez marszałków województw informacji dotyczącej wykorzystania środków przeznaczonych na dofinansowanie kosztów szkolenia,
+- **5)** wzory informacji dotyczących wykorzystania środków przeznaczonych na dofinansowanie kosztów szkolenia pracowników – mając na uwadze prawidłowość wydatkowania tych środków w związku z potrzebami krajowego rynku pracy oraz zapewnieniem właściwej organizacji wypłaty środków przeznaczonych na dofinansowanie kosztów szkolenia.
+
 **Art. 25.**
 
-1. Określone w ustawie zadania realizują minister właściwy do spraw pracy, marszałkowie województw przy pomocy właściwych miejscowo wojewódzkich urzędów pracy oraz starostowie (prezydenci miast na prawach powiatu) przy pomocy właściwych miejscowo powiatowych urzędów pracy. dyrektora wojewódzkiego urzędu pracy oraz, na jego wniosek, zastępcę dyrektora wojewódzkiego urzędu pracy do wykonywania czynności, o których mowa w art. 8 ust. 5, art. 9, art. 11, art. 14 ust. 3, art. 16 oraz art. 23 ust. 2.
+1. Określone w ustawie zadania realizują minister właściwy do spraw pracy, marszałkowie województw przy pomocy właściwych miejscowo wojewódzkich urzędów pracy oraz starostowie (prezydenci miast na prawach powiatu) przy pomocy właściwych miejscowo powiatowych urzędów pracy.
+
+2. Marszałek województwa może upoważnić właściwego miejscowo dyrektora wojewódzkiego urzędu pracy oraz, na jego wniosek, zastępcę dyrektora wojewódzkiego urzędu pracy do wykonywania czynności, o których mowa w art. 8 ust. 5, art. 9, art. 11, art. 14 ust. 3, art. 16 oraz art. 23 ust. 2.
 
 2a. Marszałek województwa może upoważnić, na wniosek dyrektora wojewódzkiego urzędu pracy, pracownika tego urzędu do wykonywania czynności, o których mowa w art. 14 ust. 3.
 
@@ -252,7 +289,7 @@ source: "isap-pdf"
 
 2. W 2014 r. minister właściwy do spraw pracy – dysponent Funduszu i dysponent Funduszu Pracy przeznacza na wypłaty z tytułów, o których mowa w ustawie – 204,6 mln zł na wypłatę z Funduszu świadczeń na rzecz ochrony miejsc pracy oraz 51,2 mln zł na dofinansowanie z Funduszu Pracy kosztów szkolenia pracowników.
 
-3. W celu umożliwienia zastosowania szczególnych rozwiązań określonych ustawą, minister właściwy do spraw pracy – dysponent Funduszu i dysponent Funduszu Pracy dokona zmiany planu finansowego Funduszu i Funduszu Pracy w 2013 r. przez zwiększenie kosztów Funduszu i Funduszu Pracy z przeznaczeniem na wypłatę świadczeń określonych w ustawie i dofinansowanie kosztów szkolenia pracowników, o których mowa w ustawie, i Funduszu Pracy z okresów poprzednich zapisanych w planie finansowym Funduszu i Funduszu Pracy jako stan na początek 2013 r. oraz ujmie planowane koszty Funduszu i Funduszu Pracy w 2014 r. w projekcie planów finansowych Funduszu i Funduszu Pracy, stanowiących załączniki do projektu ustawy budżetowej na 2014 r., przedłożonego Sejmowi przez Radę Ministrów, do wysokości maksymalnych limitów wydatków, o których mowa w ust. 2.
+3. W celu umożliwienia zastosowania szczególnych rozwiązań określonych ustawą, minister właściwy do spraw pracy – dysponent Funduszu i dysponent Funduszu Pracy dokona zmiany planu finansowego Funduszu i Funduszu Pracy w 2013 r. przez zwiększenie kosztów Funduszu i Funduszu Pracy z przeznaczeniem na wypłatę świadczeń określonych w ustawie i dofinansowanie kosztów szkolenia pracowników, o których mowa w ustawie, do kwoty określonej w ust. 1, w ciężar pozostałości środków Funduszu i Funduszu Pracy z okresów poprzednich zapisanych w planie finansowym Funduszu i Funduszu Pracy jako stan na początek 2013 r. oraz ujmie planowane koszty Funduszu i Funduszu Pracy w 2014 r. w projekcie planów finansowych Funduszu i Funduszu Pracy, stanowiących załączniki do projektu ustawy budżetowej na 2014 r., przedłożonego Sejmowi przez Radę Ministrów, do wysokości maksymalnych limitów wydatków, o których mowa w ust. 2.
 
 4. O dokonanych zmianach w planach finansowych Funduszu i Funduszu Pracy minister właściwy do spraw pracy – dysponent Funduszu i dysponent Funduszu Pracy zawiadomi ministra właściwego do spraw finansów publicznych w terminie 7 dni od dnia wejścia w życie ustawy.
 
@@ -269,7 +306,7 @@ source: "isap-pdf"
 - **1)** kwotę pomocy, która może być udzielona na podstawie ustawy ze środków Funduszu i Funduszu Pracy,
 - **2)** okres stosowania tej pomocy,
 - **3)** terminy na dokonanie czynności polegających na:
-    - **a)** zmianie planu finansowego Funduszu i Funduszu Pracy na dany rok w zakresie zwiększenia wydatków o kwoty pomocy, o których mowa w pkt 1 lub zgłoszeniu zmiany do projektu planu finansowego Funduszu i Funduszu Pracy w toku prac nad budżetem państwa w pkt 1,
+    - **a)** zmianie planu finansowego Funduszu i Funduszu Pracy na dany rok w zakresie zwiększenia wydatków o kwoty pomocy, o których mowa w pkt 1 lub zgłoszeniu zmiany do projektu planu finansowego Funduszu i Funduszu Pracy w toku prac nad budżetem państwa w zakresie zwiększenia wydatków o kwoty pomocy, o których mowa w pkt 1,
     - **b)** powiadomieniu marszałków województw o kwocie limitu wydatków ujętych w planie finansowym Funduszu oraz starostów (prezydentów miast na prawach powiatu) o kwocie limitu wydatków ujętych w planie finansowym Funduszu Pracy na dany rok lub o kwotach limitów wydatków ujętych w projekcie planu finansowego Funduszu i Funduszu Pracy na dany rok – kierując się przewidywanymi potrzebami dotyczącymi tej pomocy oraz uwzględniając stan środków Funduszu i Funduszu Pracy.
 
 4. Rada Ministrów nie wydaje rozporządzenia, o którym mowa w ust. 3, jeżeli jego wydanie ograniczyłoby wykonywanie bieżących zadań w zakresie ochrony roszczeń pracowniczych finansowanych z Funduszu oraz w zakresie aktywności zawodowej, wspierania zatrudnienia oraz rynku pracy finansowanych z Funduszu Pracy.
@@ -280,7 +317,7 @@ source: "isap-pdf"
 
 1. W celu umożliwienia zastosowania szczególnych rozwiązań określonych w ustawie po dniu 30 czerwca 2014 r., minister właściwy do spraw pracy – dysponent Funduszu i dysponent Funduszu Pracy może dokonywać zmiany planu finansowego Funduszu i Funduszu Pracy przez zwiększenie kosztów Funduszu i Funduszu Pracy z przeznaczeniem na wypłatę świadczeń określonych w ustawie i dofinansowanie kosztów szkolenia pracowników, o których mowa w ustawie, do kwoty określonej w rozporządzeniu, o którym mowa w art. 28 ust. 3, w ciężar pozostałości środków Funduszu i Funduszu Pracy z okresów poprzednich zapisanych w planie finansowym Funduszu i Funduszu Pracy jako stan na początek roku, w którym wydano rozporządzenie, o którym mowa w art. 28 ust. 3.
 
-2. Zobowiązania z tytułu umów o wypłatę świadczeń i umów o dofinansowanie kosztów szkolenia pracowników zaciągnięte w roku, w którym wydano rozporządzenie, o którym mowa w art. 28 ust. 3, mieszczące się w limicie wydatków danego roku są realizowane w okresach wynikających szkolenia pracowników w ramach limitów wydatków danego roku lub przechodzą na kolejny rok i będą finansowane w ramach planów finansowych Funduszu i Funduszu Pracy z limitu wydatków na kolejny rok.
+2. Zobowiązania z tytułu umów o wypłatę świadczeń i umów o dofinansowanie kosztów szkolenia pracowników zaciągnięte w roku, w którym wydano rozporządzenie, o którym mowa w art. 28 ust. 3, mieszczące się w limicie wydatków danego roku są realizowane w okresach wynikających z zawartych umów o wypłatę świadczeń i umów o dofinansowanie kosztów szkolenia pracowników w ramach limitów wydatków danego roku lub przechodzą na kolejny rok i będą finansowane w ramach planów finansowych Funduszu i Funduszu Pracy z limitu wydatków na kolejny rok.
 
 3. O dokonanych zmianach w planach finansowych Funduszu i Funduszu Pracy minister właściwy do spraw pracy – dysponent Funduszu i dysponent Funduszu Pracy zawiadomi ministra właściwego do spraw finansów publicznych w terminie 7 dni roboczych od dnia wejścia w życie rozporządzenia, o którym mowa w art. 28 ust. 3.
 
@@ -312,6 +349,7 @@ source: "isap-pdf"
     - **g)** 2019 – 57,8 mln zł,
     - **h)** 2020 – 59,1 mln zł,
     - **i)** 2021 – 60,6 mln zł,
+    - **j)** 2022 – 62,0 mln zł.
 
 2. W przypadku wyczerpania przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostanie zastosowany mechanizm korygujący, polegający na odmowie udzielenia marszałkowi województwa limitu wydatków, o którym mowa w art. 9 ust. 1, a staroście (prezydentowi miasta na prawach powiatu) limitu wydatków, o którym mowa w art. 19 ust. 1.
 
@@ -325,7 +363,7 @@ source: "isap-pdf"
 
 3. W celu umożliwienia zastosowania rozwiązań przewidzianych dla przedsiębiorców, o których mowa w art. 3 ust. 1a, minister właściwy do spraw pracy – dysponent Funduszu dokona zmiany w projekcie planu finansowego Funduszu lub w planie finansowym Funduszu na 2015 r. przez zwiększenie kosztów Funduszu z przeznaczeniem na wypłatę świadczeń na rzecz ochrony miejsc pracy i dofinansowanie kosztów szkolenia pracowników, do wysokości kwoty określonej w ust. 2, w ciężar pozostałości środków Funduszu z okresów poprzednich zapisanych w projekcie planu finansowego Funduszu lub w planie finansowym Funduszu jako stan na początek 2015 r. oraz ujmie planowane koszty Funduszu w 2016 r. w projekcie planu finansowego Funduszu, stanowiącego załącznik do projektu ustawy budżetowej na 2016 r., przedłożonego Sejmowi przez Radę Ministrów, do wysokości maksymalnych limitów wydatków, określonych w ust. 2.
 
-4. W przypadku wykorzystania limitu wydatków na 2015 r. przed upływem roku budżetowego, limit ten może zostać powiększony, po wyrażeniu zgody przez ministra właściwego do spraw finansów publicznych, do niezbędnej mowa w ust. 6, kosztem limitu na 2016 r., poprzez zmianę planu finansowego Funduszu, dokonaną przez ministra właściwego do spraw pracy – dysponenta Funduszu, na zasadach określonych w ust. 3, nie później niż do końca roku budżetowego. Środki niewykorzystane w 2015 r. powiększają limit wydatków określony na 2016 r. i planowane koszty Funduszu poprzez zmianę planu finansowego Funduszu przez ministra właściwego do spraw pracy – dysponenta Funduszu, po wyrażeniu zgody przez ministra właściwego do spraw finansów publicznych, na zasadach określonych w ust. 3.
+4. W przypadku wykorzystania limitu wydatków na 2015 r. przed upływem roku budżetowego, limit ten może zostać powiększony, po wyrażeniu zgody przez ministra właściwego do spraw finansów publicznych, do niezbędnej wysokości, wynikającej z podpisanych z przedsiębiorcami umów, o których mowa w ust. 6, kosztem limitu na 2016 r., poprzez zmianę planu finansowego Funduszu, dokonaną przez ministra właściwego do spraw pracy – dysponenta Funduszu, na zasadach określonych w ust. 3, nie później niż do końca roku budżetowego. Środki niewykorzystane w 2015 r. powiększają limit wydatków określony na 2016 r. i planowane koszty Funduszu poprzez zmianę planu finansowego Funduszu przez ministra właściwego do spraw pracy – dysponenta Funduszu, po wyrażeniu zgody przez ministra właściwego do spraw finansów publicznych, na zasadach określonych w ust. 3.
 
 5. O dokonanych zmianach, o których mowa w ust. 3 i 4, w projekcie planu finansowego Funduszu lub w planie finansowym Funduszu minister właściwy do spraw pracy – dysponent Funduszu zawiadomi ministra właściwego do spraw finansów publicznych w terminie 7 dni od dnia wejścia w życie niniejszej ustawy oraz w terminie 7 dni od dnia dokonania zmian.
 
@@ -338,7 +376,9 @@ source: "isap-pdf"
 9. W przypadku wyczerpania przyjętego dwuletniego maksymalnego limitu wydatków, o którym mowa w ust. 2, zostanie zastosowany mechanizm korygujący, polegający na odmowie udzielenia limitu wydatków:
 
 - **1)** marszałkowi województwa – na wypłatę świadczeń na rzecz ochrony miejsc pracy;
-- **2)** staroście (prezydentowi miasta na prawach powiatu) – na dofinansowanie kosztów szkolenia pracowników. bankowy samorządu województwa środki Funduszu na finansowanie kosztów obsługi zadań wynikających z ustawy na podstawie zapotrzebowania złożonego przez marszałka województwa.
+- **2)** staroście (prezydentowi miasta na prawach powiatu) – na dofinansowanie kosztów szkolenia pracowników.
+
+**Art. 30b.** Dysponent Funduszu przekazuje na wyodrębniony rachunek bankowy samorządu województwa środki Funduszu na finansowanie kosztów obsługi zadań wynikających z ustawy na podstawie zapotrzebowania złożonego przez marszałka województwa.
 
 **Art. 31.** (pominięty)
 

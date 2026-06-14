@@ -8,7 +8,7 @@ pos: 1875
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 119/11/A/2014 WYROK z dnia 16 grudnia 2014 r.

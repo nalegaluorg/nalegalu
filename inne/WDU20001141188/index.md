@@ -8,7 +8,7 @@ pos: 1188
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o sposobie obliczania wartości rocznego produktu krajowego brutto
@@ -30,6 +30,10 @@ source: "isap-pdf"
 **Art. 1.** Ustawa określa sposób obliczania wartości rocznego produktu krajowego brutto.
 
 **Art. 2.** Sposób obliczania wartości rocznego produktu krajowego brutto, zwanego dalej „PKB”, polega na oszacowaniu trzech równych co do wartości kategorii makroekonomicznych, określających PKB poprzez:
+
+- **1)** rozmiary działalności produkcyjnej;
+- **2)** końcowy rezultat działalności produkcyjnej;
+- **3)** sumę dochodów pierwotnych.
 
 **Art. 3.**
 

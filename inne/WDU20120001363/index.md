@@ -8,10 +8,10 @@ pos: 1363
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 grudnia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1363 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 21 listopada 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1363/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 21 listopada 2012 r.
-w sprawie Centralnej Ewidencji Badań Klinicznych w zakresie badanych produktów leczniczych weterynaryjnych Na podstawie art. 37aj pkt 1, 3 i 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie Centralnej Ewidencji Badań Klinicznych w zakresie badanych produktów leczniczych weterynaryjnych Na podstawie art. 37aj pkt 1, 3 i 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór wniosku o wydanie pozwolenia na przeprowadzenie badania klinicznego weterynaryjnego, zwanego dalej „wnioskiem”;
 2) sposób i tryb prowadzenia Centralnej Ewidencji Badań Klinicznych w zakresie badanych produktów leczniczych weterynaryjnych, zwanej dalej „Ewidencją”;
 3) wysokość opłat za złożenie wniosku oraz sposób ich uiszczania.
@@ -40,7 +40,7 @@ w sprawie Centralnej Ewidencji Badań Klinicznych w zakresie badanych produktów
 5) datę podpisania i numer protokołu badania klinicznego weterynaryjnego;
 6) imię, nazwisko (firmę) i adres zamieszkania albo nazwę (firmę) i adres siedziby sponsora;
 7) imię, nazwisko i adres zatrudnienia badacza;
-8) adnotację o wydaniu decyzji, o której mowa w art. 37ah ust. 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, zwanej dalej „ustawą”, oraz o dacie jej wydania;
+8) adnotację o wydaniu decyzji, o której mowa w art. 37ah ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zwanej dalej „ustawą”, oraz o dacie jej wydania;
 9) adnotację o wydaniu decyzji, o której mowa w art. 37ai ust. 5 ustawy, oraz o dacie jej wydania;
 10) przewidywany okres prowadzenia badania klinicznego weterynaryjnego;
 11) adnotację o rozpoczęciu i zakończeniu badania klinicznego weterynaryjnego;
@@ -50,7 +50,7 @@ w sprawie Centralnej Ewidencji Badań Klinicznych w zakresie badanych produktów
 1) z urzędu, na podstawie decyzji Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych;
 2) na wniosek sponsora lub badacza, w terminie 7 dni od dnia złożenia go Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 2. Zmiany w Ewidencji, o których mowa w ust. 1 pkt 2, obejmują wyłącznie zmiany:
-1) niemające wpływu na przebieg badania klinicznego weterynaryjnego lub zmiany, których natychmiastowe wprowadzenie jest konieczne, aby wyeliminować ryzyko zagrażające zwierzętom lub osobom uczestniczącym w badaniu klinicz nym weterynaryjnym lub środowisku albo
+1) niemające wpływu na przebieg badania klinicznego weterynaryjnego lub zmiany, których natychmiastowe wprowadzenie jest konieczne, aby wyeliminować ryzyko zagrażające zwierzętom lub osobom uczestniczącym w badaniu klinicznym weterynaryjnym lub środowisku albo
 2) dotyczące danych, o których mowa w § 3 ust. 2 pkt 6 i 7.
 § 5. 1. Wpisów do Ewidencji dokonuje się pod kolejnym numerem.
 2. Jeżeli dane, o których mowa w § 3 ust. 2, nie mogą być ze względu na swoją objętość ujęte w Ewidencji, stanowią one załącznik do Ewidencji. W Ewidencji sporządza się adnotację o dołączeniu załącznika.
@@ -64,10 +64,10 @@ w sprawie Centralnej Ewidencji Badań Klinicznych w zakresie badanych produktów
 § 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Zdrowia: B.A. Arłukowicz WZÓR WNIOSEK O WYDANIE POZWOLENIA NA PRZEPROWADZENIE BADANIA KLINICZNEGO WETERYNARYJNEGO Objaśnienia: Wniosek należy wypełnić, wpisując wymagane dane oraz zaznaczając właściwe pola.
 Użyte skróty:
-1) państwo członkowskie państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym handlu (EFTA) strona umowy o Europejskim Obszarze Gospodarczym;
-2) produkt kontrolny produkt leczniczy weterynaryjny lub substancja chemiczna, użyta w badaniu klinicznym weterynaryjnym jako odniesienie do badanego produktu leczniczego weterynaryjnego;
-3) ustawa ustawa z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.);
-4) monitor osoba spełniająca wymagania określone w przepisach wydanych na podstawie art. 37aj pkt 5 ustawy.
+1) państwo członkowskie – państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym;
+2) produkt kontrolny – produkt leczniczy weterynaryjny lub substancja chemiczna, użyta w badaniu klinicznym weterynaryjnym jako odniesienie do badanego produktu leczniczego weterynaryjnego;
+3) ustawa – ustawa z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.);
+4) monitor – osoba spełniająca wymagania określone w przepisach wydanych na podstawie art. 37aj pkt 5 ustawy.
 I. Tytuł badania klinicznego weterynaryjnego.
 ...........................................................................................................................................................................................
 II. Dane sponsora.
@@ -77,8 +77,8 @@ II. Dane sponsora.
 3. Telefon, faks, adres poczty elektronicznej: .......................................................................................................................................................................................
 III. Dane badacza.
 Należy:
-1) w przypadku badania wieloośrodkowego w pierwszej kolejności wymienić koordynatora badania;
-2) jeżeli badanie kliniczne weterynaryjne jest prowadzone przez zespół osób wymienić kierownika zespołu odpowiedzialnego za prowadzenie tego badania w danym ośrodku badawczym.
+1) w przypadku badania wieloośrodkowego – w pierwszej kolejności wymienić koordynatora badania;
+2) jeżeli badanie kliniczne weterynaryjne jest prowadzone przez zespół osób – wymienić kierownika zespołu odpowiedzialnego za prowadzenie tego badania w danym ośrodku badawczym.
 1. Imię i nazwisko: .......................................................................................................................................................................................
 2. Stanowisko: .......................................................................................................................................................................................
 3. Nazwa ośrodka badawczego zatrudniającego osobę: .......................................................................................................................................................................................
@@ -106,6 +106,7 @@ VI. Dane ośrodków badawczych, w których będzie prowadzone badanie kliniczne 
 4. Adres miejsca prowadzenia badania (jeżeli jest inny niż adres siedziby): .......................................................................................................................................................................................
 5. Telefon, faks, adres poczty elektronicznej: .......................................................................................................................................................................................
 .......................................................................................................................................................................................
+6. Imię i nazwisko kierownika ośrodka badawczego: ......................................................................................................
 VII. Dane monitorów badania klinicznego weterynaryjnego.
 1. Imię i nazwisko: ...........................................................................................................................................................
 2. Telefon, faks, adres poczty elektronicznej: ..................................................................................................................
@@ -127,6 +128,7 @@ nie jest, ale był dopuszczony do obrotu poza terytorium Rzeczypospolitej Polski
 Państwo dopuszczenia: .....................................................................................................................................................
 XII. Dane badanego produktu leczniczego weterynaryjnego.
 1. Nazwa produktu: ..........................................................................................................................................................
+2. Postać, moc lub dawka: ................................................................................................................................................
 3. Numer pozwolenia*: ....................................................................................................................................................
 4. Podmiot odpowiedzialny*: ...........................................................................................................................................
 .......................................................................................................................................................................................
@@ -171,10 +173,10 @@ ___________________________________________ Załączniki do wniosku:
 1) potwierdzenie wniesienia opłaty za złożenie wniosku;
 2) pełnomocnictwo albo pełnomocnictwo do doręczeń*;
 Pouczenie:
-1) zgodnie z art. 33 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2000 r.
+1) zgodnie z art. 33 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r.
 Nr 98, poz. 1071, z późn. zm.), zwanej dalej „Kpa”, pełnomocnikiem strony może być osoba fizyczna posiadająca zdolność do czynności prawnych;
 2) zgodnie z art. 40 § 4 Kpa strona zamieszkała za granicą lub mająca siedzibę za granicą, jeżeli nie ustanowiła pełnomocnika do prowadzenia sprawy zamieszkałego w Rzeczypospolitej Polskiej, jest obowiązana wskazać w kraju pełnomocnika do doręczeń. W razie niewskazania pełnomocnika do doręczeń, na mocy art. 40 § 5 Kpa, przeznaczone dla tej strony pisma pozostawia się w aktach sprawy ze skutkiem doręczenia.
-3) dokument potwierdzający wpis do właściwego rejestru przedsiębiorców w przypadku podmiotów posiadających miejsce zamieszkania albo siedzibę poza terytorium Rzeczpospolitej Polskiej;
+3) dokument potwierdzający wpis do właściwego rejestru przedsiębiorców – w przypadku podmiotów posiadających miejsce zamieszkania albo siedzibę poza terytorium Rzeczpospolitej Polskiej;
 4) formularz zgody właściciela zwierzęcia na udział zwierzęcia w badaniu klinicznym weterynaryjnym zgodny z formularzem stanowiącym załącznik nr 1 do wniosku;
 5) projekt broszury informacyjnej dla właściciela zwierzęcia biorącego udział w badaniu zgodny z załącznikiem nr 2 do wniosku;
 6) projekt broszury informacyjnej dla badacza zawierającej informacje określone w załączniku nr 3 do wniosku;
@@ -183,10 +185,10 @@ Nr 98, poz. 1071, z późn. zm.), zwanej dalej „Kpa”, pełnomocnikiem strony
 9) projekty proponowanych oznakowań opakowań w formie opisowej i graficznej;
 10) projekt Karty Obserwacji Klinicznej Weterynaryjnej;
 11) schemat zawierający informacje na temat poszczególnych ośrodków badawczych biorących udział w badaniu klinicznym weterynaryjnym wraz z przyporządkowaniem czynności w nich wykonywanych;
-12) wyniki, streszczenia, sprawozdania z badań oraz metody badań farmaceutycznych: fizykochemicznych, biologicznych lub mikrobiologicznych jeżeli badany produkt leczniczy weterynaryjny nie jest dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej;
-13) zezwolenie na wytwarzanie wydane na podstawie art. 38 ustawy albo jego odpowiednik w przypadku wytwarzania poza terytorium państw członkowskich, w których nie ma zastosowania Mutual Recognition Agreement Porozumienie o wzajemnym uznawaniu inspekcji pomiędzy Wspólnotą a Australią, Japonią, Kanadą, Nową Zelandią i Szwajcarią (MRA) albo zezwolenie na wytwarzanie z państwa innego niż członkowskie;
-14) certyfikat zgodności z Dobrą Praktyką Wytwarzania wydany przez inspektora organu kompetentnego państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, wydany nie wcześniej niż 3 lata przed złożeniem niniejszego wniosku;
-15) certyfikat zgodności z Farmakopeą w zakresie zakaźnych encefalopatii gąbczastych (Transmissible spongiform encephalopaties TSE)*;
+12) wyniki, streszczenia, sprawozdania z badań oraz metody badań farmaceutycznych: fizykochemicznych, biologicznych lub mikrobiologicznych – jeżeli badany produkt leczniczy weterynaryjny nie jest dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej;
+13) zezwolenie na wytwarzanie wydane na podstawie art. 38 ustawy albo jego odpowiednik – w przypadku wytwarzania poza terytorium państw członkowskich, w których nie ma zastosowania Mutual Recognition Agreement – Porozumienie o wzajemnym uznawaniu inspekcji pomiędzy Wspólnotą a Australią, Japonią, Kanadą, Nową Zelandią i Szwajcarią (MRA) albo zezwolenie na wytwarzanie z państwa innego niż członkowskie;
+14) certyfikat zgodności z Dobrą Praktyką Wytwarzania wydany przez inspektora organu kompetentnego państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, wydany nie wcześniej niż 3 lata przed złożeniem niniejszego wniosku;
+15) certyfikat zgodności z Farmakopeą w zakresie zakaźnych encefalopatii gąbczastych (Transmissible spongiform encephalopaties – TSE)*;
 16) kopia zezwolenia na zamierzone uwalnianie organizmów zmodyfikowanych genetycznie do środowiska w rozumieniu ustawy z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. Nr 36, poz. 233, z późn. zm.)*;
 17) kopia pozwolenia na dopuszczenie do obrotu (lub jego odpowiednika) na terytorium państwa innego niż Rzeczpospolita Polska*;
 18) kopia wniosku o wydanie zaświadczenia Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych na podstawie art. 37ah ust. 6 ustawy, z podaniem przewidywanej ilości produktów leczniczych weterynaryjnych*.
@@ -219,7 +221,7 @@ Wyszczególnienie skutków ubocznych: ..........................................
 Oświadczenie osoby uzyskującej zgodę na udział zwierzęcia w badaniu Oświadczam, że omówiłem przedstawione badanie kliniczne weterynaryjne z właścicielem, używając zrozumiałych, możliwie prostych sformułowań, oraz udzieliłem informacji dotyczących natury i znaczenia badania klinicznego weterynaryjnego.
 ....................................................... ...............................................................................................................
 Obowiązkowe elementy informacji dla właściciela zwierzęcia Informacja dla właściciela zwierzęcia zawiera dane dotyczące badania klinicznego weterynaryjnego. Jest napisana prostym i zrozumiałym językiem. Składa się z następujących punktów:
-1. Wprowadzenie: informacje wprowadzające dotyczące badania klinicznego weterynaryjnego, badanego produktu leczniczego weterynaryjnego w szczególności, czy jest to nowy produkt leczniczy weterynaryjny czy produkt leczniczy weterynaryjny już dopuszczony do obrotu, oraz ośrodka badawczego, który będzie to badanie kliniczne weterynaryjne przeprowadzać.
+1. Wprowadzenie: informacje wprowadzające dotyczące badania klinicznego weterynaryjnego, badanego produktu leczniczego weterynaryjnego – w szczególności, czy jest to nowy produkt leczniczy weterynaryjny czy produkt leczniczy weterynaryjny już dopuszczony do obrotu, oraz ośrodka badawczego, który będzie to badanie kliniczne weterynaryjne przeprowadzać.
 2. Cele badania klinicznego weterynaryjnego i procedury: informacje na temat celu badania klinicznego weterynaryjnego, wskazówki dotyczące uczestnictwa w wizytach kontrolnych, czasu trwania terapii oraz przeprowadzanych w trakcie wizyt czynności, miejsca przebywania zwierzęcia.
 3. Zalecenia dotyczące przechowywania oraz podawania badanego produktu leczniczego weterynaryjnego.
 4. Działanie krótko- i długookresowe badanego produktu leczniczego weterynaryjnego na zdrowie zwierzęcia, przewidywany los zwierzęcia wyłączonego z badania klinicznego weterynaryjnego w jego trakcie oraz przewidywany los zwierzęcia uczestniczącego w badaniu klinicznym weterynaryjnym po jego zakończeniu.

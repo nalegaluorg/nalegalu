@@ -8,7 +8,7 @@ pos: 974
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wyrobach medycznych
@@ -48,6 +48,44 @@ Art. 105–136. (pominięte)
 - **3)** zasady prowadzenia reklamy wyrobów i nadzoru nad nią.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** badaczu – rozumie się przez to badacza w rozumieniu art. 2 pkt 54 rozporządzenia 2017/745 lub art. 2 pkt 48 rozporządzenia 2017/746;
+- **2)** badanym wyrobie – rozumie się przez to badany wyrób w rozumieniu art. 2 pkt 46 rozporządzenia 2017/745;
+- **3)** defekcie wyrobu – rozumie się przez to defekt wyrobu w rozumieniu art. 2 pkt 59 rozporządzenia 2017/745 lub art. 2 pkt 62 rozporządzenia 2017/746;
+- **4)** dystrybutorze – rozumie się przez to dystrybutora w rozumieniu art. 2 pkt 34 rozporządzenia 2017/745 lub art. 2 pkt 27 rozporządzenia 2017/746;
+- **5)** działaniu – rozumie się przez to działanie w rozumieniu art. 2 pkt 22 rozporządzenia 2017/745;
+- **6)** działaniu korygującym – rozumie się przez to działanie korygujące w rozumieniu art. 2 pkt 67 rozporządzenia 2017/745 lub art. 2 pkt 70 rozporządzenia 2017/746;
+- **7)** grupie rodzajowej wyrobów – rozumie się przez to grupę rodzajową wyrobów w rozumieniu art. 2 pkt 7 rozporządzenia 2017/745 lub art. 2 pkt 8 rozporządzenia 2017/746;
+- **8)** importerze – rozumie się przez to importera w rozumieniu art. 2 pkt 33 rozporządzenia 2017/745 lub art. 2 pkt 26 rozporządzenia 2017/746;
+- **9)** incydencie – rozumie się przez to incydent w rozumieniu art. 2 pkt 64 rozporządzenia 2017/745 lub art. 2 pkt 67 rozporządzenia 2017/746;
+- **10)** instrukcji używania – rozumie się przez to instrukcję używania w rozumieniu art. 2 pkt 14 rozporządzenia 2017/745 lub art. 2 pkt 14 rozporządzenia 2017/746;
+- **11)** instytucji zdrowia publicznego – rozumie się przez to instytucję zdrowia publicznego w rozumieniu art. 2 pkt 36 rozporządzenia 2017/745 lub art. 2 pkt 29 rozporządzenia 2017/746;
+- **12)** jednostce notyfikowanej – rozumie się przez to jednostkę notyfikowaną w rozumieniu art. 2 pkt 42 rozporządzenia 2017/745 lub art. 2 pkt 34 rozporządzenia 2017/746;
+- **13)** jednostce oceniającej zgodność – rozumie się przez to jednostkę oceniającą zgodność w rozumieniu art. 2 pkt 41 rozporządzenia 2017/745 lub art. 2 pkt 33 rozporządzenia 2017/746;
+- **14)** kodzie UDI – rozumie się przez to niepowtarzalny kod identyfikacyjny wyrobu („kod UDI”) w rozumieniu art. 2 pkt 15 rozporządzenia 2017/745 lub art. 2 pkt 15 rozporządzenia 2017/746;
+- **15)** komisji bioetycznej – rozumie się przez to komisję etyczną w rozumieniu art. 2 pkt 56 rozporządzenia 2017/745 lub art. 2 pkt 59 rozporządzenia 2017/746, której zadania na terytorium Rzeczypospolitej Polskiej wykonuje komisja bioetyczna i Odwoławcza Komisja Bioetyczna, o których mowa w art. 29 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r. poz. 1287);
+- **16)** laiku – rozumie się przez to laika w rozumieniu art. 2 pkt 38 rozporządzenia 2017/745 lub art. 2 pkt 31 rozporządzenia 2017/746;
+- **17)** notatce bezpieczeństwa – rozumie się przez to notatkę bezpieczeństwa w rozumieniu art. 2 pkt 69 rozporządzenia 2017/745 lub art. 2 pkt 72 rozporządzenia 2017/746;
+- **18)** ocenie klinicznej – rozumie się przez to ocenę kliniczną w rozumieniu art. 2 pkt 44 rozporządzenia 2017/745;
+- **19)** ocenie zgodności – rozumie się przez to ocenę zgodności w rozumieniu art. 2 pkt 40 rozporządzenia 2017/745 lub art. 2 pkt 32 rozporządzenia 2017/746;
+- **20)** osobie wykonującej zawód medyczny – rozumie się przez to osobę wykonującą zawód medyczny w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799);
+- **21)** państwie członkowskim – rozumie się przez to państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym oraz Republikę Turcji;
+- **22)** podmiocie gospodarczym – rozumie się przez to podmiot gospodarczy w rozumieniu art. 2 pkt 35 rozporządzenia 2017/745 lub art. 2 pkt 28 rozporządzenia 2017/746;
+- **23)** podmiocie wykonującym działalność leczniczą – rozumie się przez to podmiot wykonujący działalność leczniczą w rozumieniu art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **24)** poważnym incydencie – rozumie się przez to poważny incydent w rozumieniu art. 2 pkt 65 rozporządzenia 2017/745 lub art. 2 pkt 68 rozporządzenia 2017/746;
+- **25)** poważnym zdarzeniu niepożądanym – rozumie się przez to poważne zdarzenie niepożądane w rozumieniu art. 2 pkt 58 rozporządzenia 2017/745 lub art. 2 pkt 61 rozporządzenia 2017/746;
+- **26)** Prezesie Urzędu – rozumie się przez to Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych;
+- **27)** producencie – rozumie się przez to producenta w rozumieniu art. 2 pkt 30 rozporządzenia 2017/745 lub art. 2 pkt 23 rozporządzenia 2017/746;
+- **28)** przewidzianym zastosowaniu – rozumie się przez to przewidziane zastosowanie w rozumieniu art. 2 pkt 12 rozporządzenia 2017/745 lub art. 2 pkt 12 rozporządzenia 2017/746;
+- **29)** regeneracji – rozumie się przez to regenerację w rozumieniu art. 2 pkt 39 rozporządzenia 2017/745;
+- **30)** ryzyku – rozumie się przez to ryzyko w rozumieniu art. 2 pkt 23 rozporządzenia 2017/745 lub art. 2 pkt 16 rozporządzenia 2017/746;
+- **31)** skuteczności klinicznej – rozumie się przez to skuteczność kliniczną w rozumieniu art. 2 pkt 52 rozporządzenia 2017/745 lub art. 2 pkt 41 rozporządzenia 2017/746;
+- **32)** sponsorze – rozumie się przez to sponsora w rozumieniu art. 2 pkt 49 rozporządzenia 2017/745 lub art. 2 pkt 57 rozporządzenia 2017/746;
+- **33)** systemie – rozumie się przez to system w rozumieniu art. 2 pkt 11 rozporządzenia 2017/745;
+- **34)** świadomej zgodzie – rozumie się przez to świadomą zgodę w rozumieniu art. 2 pkt 55 rozporządzenia 2017/745 lub art. 2 pkt 58 rozporządzenia 2017/746;
+- **35)** użytkowniku – rozumie się przez to użytkownika w rozumieniu art. 2 pkt 37 rozporządzenia 2017/745 lub art. 2 pkt 30 rozporządzenia 2017/746;
+- **36)** wyrobie wykonanym na zamówienie – rozumie się przez to wyrób wykonany na zamówienie w rozumieniu art. 2 pkt 3 rozporządzenia 2017/745;
+- **37)** zestawie zabiegowym – rozumie się przez to zestaw zabiegowy w rozumieniu art. 2 pkt 10 rozporządzenia 2017/745.
 
 **Art. 3.**
 
@@ -809,6 +847,9 @@ Art. 105–136. (pominięte)
 
 **Art. 59.** Za reklamę wyrobu nie uważa się:
 
+- **1)** katalogów handlowych lub list cenowych, zawierających wyłącznie nazwę handlową, cenę wyrobu lub specyfikację techniczną;
+- **2)** informacji umieszczonych na opakowaniach oraz załączonych do opakowań wyrobów, wymaganych przepisami ustawy i rozporządzenia 2017/745 lub rozporządzenia 2017/746.
+
 **Art. 60.**
 
 1. Reklamę wyrobu prowadzi się w formie audiowizualnej, dźwiękowej lub wizualnej.
@@ -883,6 +924,12 @@ Art. 105–136. (pominięte)
 3. Podmioty, o których mowa w ust. 1, są zwane dalej „kontrolowanym”.
 
 **Art. 65.** Osoby upoważnione przez Prezesa Urzędu do dokonywania kontroli są uprawnione do:
+
+- **1)** wizytowania wszelkich obiektów, lokali, terenów lub środków transportu, które dany kontrolowany wykorzystuje do swojej działalności handlowej, gospodarczej lub zawodowej, w celu wykrycia niezgodności i uzyskania dowodów; uprawnienie to obejmuje również wizytowanie obiektów, lokali, terenów lub środków transportu dostawców i podwykonawców kontrolowanego;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych mających związek z przedmiotem kontroli;
+- **3)** badania dokumentów oraz wyrobów i sprzętów odnoszących się do przedmiotu kontroli;
+- **4)** pobierania, w ramach kontroli, próbek wyrobów w celu ich przebadania;
+- **5)** sprawdzania wykonania zaleceń pokontrolnych.
 
 **Art. 66.**
 
@@ -1302,7 +1349,16 @@ Art. 105–136. (pominięte)
 
 **Art. 146.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 20 ust. 2 i art. 23 ust. 2–4 ustawy uchylanej w art. 147 zachowują moc do dnia 26 maja 2040 r. i mogą być zmieniane na podstawie tych przepisów;
+- **2)** art. 40 ust. 5 ustawy uchylanej w art. 147 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32 ust. 3, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy;
+- **3)** art. 41 ust. 4 ustawy uchylanej w art. 147 zachowują moc do dnia 26 maja 2030 r. i mogą być zmieniane na podstawie tych przepisów;
+- **4)** art. 67 ust. 7 ustawy uchylanej w art. 147 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 73, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy.
+
 **Art. 147.** Traci moc ustawa z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565).
 
 **Art. 148.** Ustawa wchodzi w życie z dniem 26 maja 2022 r., z wyjątkiem:
+
+- **1)** art. 54–61, które wchodzą w życie z dniem 1 stycznia 2023 r.;
+- **2)** art. 21–25, które wchodzą w życie z dniem 1 lipca 2023 r.
+
 

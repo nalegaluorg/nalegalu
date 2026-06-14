@@ -8,10 +8,10 @@ pos: 883
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 maja 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 883 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 7 maja 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000883) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/883/text.pdf) |
 
-Poz. 883 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 7 maja 2018 r.
 w sprawie szczegółowego zakresu zadań komitetu do spraw nominacji w bankach istotnych Na podstawie art. 9cd ust. 5 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, z późn.
-zm. ) zarządza się, co następuje: § 1. Komitet do spraw nominacji:
+zm. ) zarządza się, co następuje:
+§ 1. Komitet do spraw nominacji:
 1) rekomenduje kandydatów do zarządu banku istotnego, z uwzględnieniem niezbędnej wiedzy, kompetencji i doświadczenia zarządu jako całości, koniecznych do zarządzania bankiem istotnym, oraz z uwzględnieniem różnorodności w składzie zarządu banku istotnego;
 2) określa zakres obowiązków dla kandydata do zarządu banku istotnego, a także wymagań w zakresie wiedzy i kompetencji oraz przewidywanego zaangażowania pod względem poświęcanego czasu, niezbędnych do pełnienia funkcji;
 3) określa wartość docelową reprezentacji niedostatecznie reprezentowanej w zarządzie banku istotnego płci oraz opracowuje politykę różnorodności w składzie zarządu banku istotnego zmierzającą do osiągnięcia tej wartości docelowej;

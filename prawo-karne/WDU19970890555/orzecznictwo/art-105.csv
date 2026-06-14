@@ -38,7 +38,10 @@ saos_id|date|court|case_number|type|score|saos_url
 93803|2010-12-29|SN|WZ 58/10|Postanowienie|69|https://www.saos.org.pl/judgments/93803
 89012|2008-10-31|SN|II KK 64/08|Postanowienie|69|https://www.saos.org.pl/judgments/89012
 85322|2007-02-20|SN|SNO 4/07|Postanowienie|69|https://www.saos.org.pl/judgments/85322
+546710|2025-09-30|SO|II AKa 218/25|Wyrok|56|https://www.saos.org.pl/judgments/546710
 536946|2025-09-09|SO|II AKo 84/25|Wyrok|56|https://www.saos.org.pl/judgments/536946
+545749|2025-06-11|SO|II AKa 147/25|Wyrok|56|https://www.saos.org.pl/judgments/545749
+545746|2025-06-11|SO|II AKa 109/25|Wyrok|56|https://www.saos.org.pl/judgments/545746
 533123|2025-06-05|SO|II AKa 65/25|Wyrok|56|https://www.saos.org.pl/judgments/533123
 528921|2025-05-15|SO|II AKa 37/25|Wyrok|56|https://www.saos.org.pl/judgments/528921
 525449|2025-03-05|SO|II AKa 264/24|Wyrok|56|https://www.saos.org.pl/judgments/525449
@@ -537,6 +540,8 @@ saos_id|date|court|case_number|type|score|saos_url
 316864|2017-11-02|SO|VII Kz 484/17|Postanowienie|31|https://www.saos.org.pl/judgments/316864
 287730|2017-06-07|SO|V Kz 445/17|Postanowienie|31|https://www.saos.org.pl/judgments/287730
 190048|2015-11-26|SO|IV Kz 669/15|Postanowienie|31|https://www.saos.org.pl/judgments/190048
+546594|2026-05-11|SO|VI Ka 859/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/546594
+545649|2026-03-17|SO|VI Ka 1369/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/545649
 541357|2025-11-21|SO|VI Ka 104/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/541357
 542354|2025-09-30|SO|II K 232/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/542354
 542371|2025-07-29|SO|II K 891/24|Zarządzenie|27|https://www.saos.org.pl/judgments/542371

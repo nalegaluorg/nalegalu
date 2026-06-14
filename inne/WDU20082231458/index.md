@@ -8,7 +8,7 @@ pos: 1458
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pracownikach samorządowych
@@ -34,6 +34,12 @@ Art. 44–52. (pominięte)
 **Art. 1.** W celu zapewnienia zawodowego, rzetelnego i bezstronnego wykonywania zadań publicznych przez samorząd terytorialny ustanawia się przepisy prawa pracy określające status prawny pracowników samorządowych.
 
 **Art. 2.** Przepisy ustawy stosuje się do pracowników samorządowych zatrudnionych w:
+
+- **1)** urzędach marszałkowskich oraz wojewódzkich samorządowych jednostkach organizacyjnych;
+- **2)** starostwach powiatowych oraz powiatowych jednostkach organizacyjnych;
+- **3)** urzędach gmin, jednostkach pomocniczych gmin, gminnych jednostkach budżetowych i samorządowych zakładach budżetowych;
+- **4)** biurach (ich odpowiednikach) związków jednostek samorządu terytorialnego oraz samorządowych zakładów budżetowych utworzonych przez te związki;
+- **5)** biurach (ich odpowiednikach) jednostek administracyjnych jednostek samorządu terytorialnego.
 
 **Art. 3.** Przepisów ustawy nie stosuje się do pracowników zatrudnionych w jednostkach wymienionych w art. 2, których status prawny określają odrębne przepisy.
 
@@ -101,6 +107,11 @@ Art. 44–52. (pominięte)
 **Art. 6a.** W przypadku skazania prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe zastępcy wójta (burmistrza, prezydenta miasta), starosty, wicestarosty, członka zarządu powiatu, marszałka województwa, wicemarszałka województwa, członka zarządu województwa, skarbnika gminy, skarbnika powiatu, skarbnika województwa, sekretarza gminy, sekretarza powiatu, sekretarza województwa, przewodniczącego zarządu związku jednostek samorządu terytorialnego, członka zarządu związku jednostek samorządu terytorialnego, burmistrza dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy, członka zarządu dzielnicy m.st. Warszawy lub pracownika samorządowego zatrudnionego na podstawie umowy o pracę na stanowisku urzędniczym właściwy organ jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego albo podmiot wykonujący czynności z zakresu prawa pracy wobec pracownika samorządowego odwołuje go lub rozwiązuje z nim umowę o pracę za wypowiedzeniem najpóźniej po upływie miesiąca od dnia, w którym uzyskał informację o fakcie prawomocnego skazania.
 
 **Art. 7.** Czynności w sprawach z zakresu prawa pracy za jednostki, o których mowa w art. 2, z zastrzeżeniem art. 8 ust. 2, art. 9 ust. 2 i 3 oraz art. 10 ust. 2 i 3, wykonują:
+
+- **1)** wójt (burmistrz, prezydent miasta) – wobec zastępcy wójta (burmistrza, prezydenta miasta), sekretarza gminy, skarbnika gminy oraz kierowników gminnych jednostek organizacyjnych;
+- **2)** przewodniczący zgromadzenia związku jednostek samorządu terytorialnego – wobec członków zarządu tego związku;
+- **3)** wójt (burmistrz, prezydent miasta), starosta, marszałek województwa w urzędzie jednostki samorządu terytorialnego – wobec pozostałych pracowników urzędu oraz wobec kierowników samorządowych jednostek organizacyjnych innych niż wymienione w pkt 1 i 2;
+- **4)** kierownik jednostki organizacyjnej – za inne niż wymienione w pkt 1– 3 jednostki.
 
 **Art. 8.**
 

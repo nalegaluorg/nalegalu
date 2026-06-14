@@ -8,7 +8,7 @@ pos: 2660
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # DZIENNIK USTAW RZECZYPOSPOLITEJ  POLSKIEJ Warszawa, dnia 8 grudnia 2023 r.
@@ -27,7 +27,8 @@ source: "isap-pdf"
 
 Poz. 2660 2660 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA1) z dnia 21 listopada 2023 r.
 w sprawie ustanowienia planu ochrony dla Parku Narodowego Gór Stołowych Na podstawie art. 19 ust. 5 w związku z art. 20 ust. 5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
-z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje: § 1. Ustanawia się plan ochrony dla Parku Narodowego Gór Stołowych, który staje się planem ochrony dla obszaru specjalnej ochrony ptaków Góry Stołowe (PLB0200062)) oraz dla specjalnego obszaru ochrony siedlisk Góry Stołowe (PLH0200043)), w częściach pokrywających się z obszarem Parku Narodowego Gór Stołowych, stanowiący załącznik do rozporządzenia.
+z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
+§ 1. Ustanawia się plan ochrony dla Parku Narodowego Gór Stołowych, który staje się planem ochrony dla obszaru specjalnej ochrony ptaków Góry Stołowe (PLB0200062)) oraz dla specjalnego obszaru ochrony siedlisk Góry Stołowe (PLH0200043)), w częściach pokrywających się z obszarem Parku Narodowego Gór Stołowych, stanowiący załącznik do rozporządzenia.
 § 2. 1. Do:
 1) projektów:
 a) studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin,

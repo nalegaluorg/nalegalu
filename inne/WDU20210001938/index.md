@@ -8,10 +8,10 @@ pos: 1938
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 października 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1938 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 12 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001938) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1938/text.pdf) |
 
-Poz. 1938 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 12 października 2021 r.
-w sprawie opłaty koncesyjnej Na podstawie art. 34 ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, 868, 1093, 1505 i 1642) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie opłaty koncesyjnej Na podstawie art. 34 ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, 868, 1093, 1505 i 1642) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy zakres informacji w sprawie opłaty, o której mowa w art. 34 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zwanej dalej „opłatą koncesyjną”, której może żądać Prezes Urzędu Regulacji Energetyki, zwany dalej „Prezesem URE”, oraz sposób jej przekazania;
 2) sposób pobierania przez Prezesa URE opłaty koncesyjnej, w tym termin jej zapłaty;
 3) współczynniki opłaty koncesyjnej dla poszczególnych rodzajów działalności koncesjonowanej;
@@ -40,11 +40,14 @@ w sprawie opłaty koncesyjnej Na podstawie art. 34 ust. 6 ustawy z dnia 10 kwiet
 Przepis § 2 ust. 2 stosuje się odpowiednio.
 2. Współczynniki opłaty koncesyjnej dla poszczególnych rodzajów działalności koncesjonowanej określa tabela współczynników opłaty koncesyjnej, która stanowi część A załącznika nr 2 do rozporządzenia.
 3. Współczynnik, o którym mowa w art. 34 ust. 2a pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, dla morskich farm wiatrowych określa część B załącznika nr 2 do rozporządzenia.
-§ 4. Opłatę koncesyjną wnosi się na rachunek bankowy Urzędu Regulacji Energetyki, oddzielnie dla każdego rodzaju działalności objętej koncesją, w terminie do dnia 15 kwietnia roku następującego po roku powstania obowiązku wniesienia § 5. Prezes URE:
+§ 4. Opłatę koncesyjną wnosi się na rachunek bankowy Urzędu Regulacji Energetyki, oddzielnie dla każdego rodzaju działalności objętej koncesją, w terminie do dnia 15 kwietnia roku następującego po roku powstania obowiązku wniesienia opłaty.
+§ 5. Prezes URE:
 1) wzywa przedsiębiorstwo energetyczne, w przypadku gdy:
 a) w terminie określonym w § 4 opłata koncesyjna nie została obliczona i wniesiona – do obliczenia i wniesienia opłaty koncesyjnej,
 b) opłata koncesyjna została obliczona w sposób nieprawidłowy – do ponownego obliczenia opłaty koncesyjnej i wniesienia jej w prawidłowej wysokości – w terminie 14 dni od dnia otrzymania tego wezwania;
 2) niezwłocznie dokonuje obliczenia wysokości opłaty koncesyjnej i wzywa przedsiębiorstwo energetyczne do jej wniesienia w prawidłowej wysokości, w terminie 14 dni od dnia otrzymania tego wezwania, w przypadku gdy przedsiębiorstwo energetyczne nie dokonało prawidłowego obliczenia wysokości opłaty koncesyjnej i jej wniesienia, zgodnie z wezwaniem, o którym mowa w pkt 1.
 § 6. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki 2 Część B Współczynnik, o którym mowa w art. 34 ust. 2a pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne WSPÓŁCZYNNIK 23 000 zł
+Prezes Rady Ministrów: M. Morawiecki Załączniki do rozporządzenia Rady Ministrów z dnia 12 października 2021 r.
+(poz. …) Załącznik nr 1 WZÓR WZÓR FORMULARZ W SPRAWIE OPŁATY KONCESYJNEJ DANE IDENTYFIKACYJNE KONCESJONARIUSZA ROZLICZENIE PRZYCHODU OSIĄGNIĘTEGO W ROKU …………………… ROZLICZENIE MOCY ZAINSTALOWANEJ ELEKTRYCZNEJ MORSKIEJ FARMY WIATROWEJ W ROKU……….
+OPŁATA KONCESYJNA Z ODSETKAMI Załącznik nr 2 WSPÓŁCZYNNIKI WSPÓŁCZYNNIKI DO DO WYLICZENIA WYLICZENIA OPŁATY OPŁATY KONCESYJNEJ KONCESYJNEJ Część A Tabela współczynników opłaty koncesyjnej LP. RODZAJ DZIAŁALNOŚCI OBJĘTEJ KONCESJĄ WSPÓŁCZYNNIK 1 Wytwarzanie ciepła 2 Przesyłanie lub dystrybucja ciepła 3 Obrót ciepłem 4 Wytwarzanie energii elektrycznej 5 Magazynowanie energii elektrycznej 6 Przesyłanie energii elektrycznej 7 Dystrybucja energii elektrycznej 0,0005 8 Obrót energią elektryczną 9 Magazynowanie paliw gazowych 10 Przesyłanie paliw gazowych 11 Dystrybucja paliw gazowych 12 Obrót paliwami gazowymi 13 Obrót gazem ziemnym z zagranicą 14 Skraplanie i regazyfikacja gazu ziemnego 15 Wytwarzanie paliw ciekłych 16 Magazynowanie lub przeładunek paliw ciekłych 17 Przesyłanie lub dystrybucja paliw ciekłych 0,0003 18 Obrót paliwami ciekłymi 19 Obrót paliwami ciekłymi z zagranicą 20 Przesyłanie dwutlenku węgla Część B Współczynnik, o którym mowa w art. 34 ust. 2a pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne WSPÓŁCZYNNIK 23 000 zł
 

@@ -8,10 +8,10 @@ pos: 2477
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2477 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 17 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002477) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2477/text.pdf) |
 
-Poz. 2477 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 17 grudnia 2018 r.
-w sprawie sposobu podziału środków Funduszu Dróg Samorządowych na dofinansowanie budowy, przebudowy lub remontu dróg powiatowych i dróg gminnych na poszczególne województwa Na podstawie art. 8 ustawy z dnia 23 października 2018 r. o Funduszu Dróg Samorządowych (Dz. U. poz. 2161 i 2383) zarządza się, co następuje: § 1. 1. Przy podziale środków Funduszu Dróg Samorządowych na dofinansowanie budowy, przebudowy lub remontu dróg powiatowych i dróg gminnych na poszczególne województwa uwzględnia się następujące czynniki:
+w sprawie sposobu podziału środków Funduszu Dróg Samorządowych na dofinansowanie budowy, przebudowy lub remontu dróg powiatowych i dróg gminnych na poszczególne województwa Na podstawie art. 8 ustawy z dnia 23 października 2018 r. o Funduszu Dróg Samorządowych (Dz. U. poz. 2161 i 2383) zarządza się, co następuje:
+§ 1. 1. Przy podziale środków Funduszu Dróg Samorządowych na dofinansowanie budowy, przebudowy lub remontu dróg powiatowych i dróg gminnych na poszczególne województwa uwzględnia się następujące czynniki:
 1) czynnik drogowy rozumiany jako wyrażony w procentach stosunek łącznej długości dróg powiatowych i dróg gminnych na obszarze województwa do łącznej długości dróg powiatowych i dróg gminnych na obszarze kraju;
 2) czynnik ludnościowy rozumiany jako wyrażony w procentach udział liczby ludności województwa w liczbie ludności kraju;
 3) czynnik powierzchniowy rozumiany jako wyrażony w procentach udział powierzchni ogólnej województwa w powierzchni ogólnej kraju;
@@ -40,7 +40,6 @@ w sprawie sposobu podziału środków Funduszu Dróg Samorządowych na dofinanso
 4) czynnik wyrównawczy – 2%.
 § 3. Środki Funduszu Dróg Samorządowych na dofinansowanie budowy, przebudowy lub remontu dróg powiatowych i dróg gminnych dzieli się na poszczególne województwa w następujący sposób:
 1) 91,5% między wszystkie województwa, przy czym kwota na każde województwo jest ustalana proporcjonalnie do średniej arytmetycznej czynników, o których mowa w § 1 ust. 1, z uwzględnieniem przypisanych im wag, o których mowa w § 2;
-Dziennik Ustaw – 2 – Poz. 2477
 2) 8,5% między pięć województw, których wartość produktu krajowego brutto na mieszkańca w województwie jest najniższa, przy czym każde z tych województw otrzymuje taką samą kwotę.
 § 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Prezes Rady Ministrów: M. Morawiecki

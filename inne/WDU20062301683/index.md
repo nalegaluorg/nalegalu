@@ -8,10 +8,10 @@ pos: 1683
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Na podstawie art. 184 ust. 1 ustawy zdnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r.
+# Dziennik Ustaw Nr 230 — 11387 OBWIESZCZENIE PA¡STWOWEJ z dnia 11 grudnia uzupełniające obwieszczenie z dnia 27 listopada 2006 burmistrzów i prezydentów miast na obszarze kraju, oraz w dniu 26 listopada Na podstawie art. 184 ust. 1 ustawy zdnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,5 +27,5 @@ source: "isap-pdf"
 
 Nr159, poz. 1547, zpóên. zm. ) oraz art. 2 ust. 2 ustawy zdnia 20 czerwca 2002 r. obezpośrednim wyborze wójta, burmistrza i prezydenta miasta (Dz. U. Nr 113, poz. 984, zpóên. zm. ) Państwowa Komisja Wyborcza podaje do publicznej wiadomości zbiorcze wyniki wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 10 grudnia 2006 r. w ponownym głosowaniu odroczonym ze względu na zmianę jednego z kandydatów.
 I. Dane ogólne dotyczące wyborów wójtów, burmistrzów i prezydentów miast w ponownym głosowaniu w dniu 10 grudnia 2006 r. na obszarze kraju Ponowne głosowanie w dniu 10 grudnia 2006 r.
-1. Wybierano łącznie 16 wójtów, burmistrzów i prezydentów miast spośród 31 zgłoszonych kandyDziennik Ustaw Nr 230 — 11387 1683 OBWIESZCZENIE PA¡STWOWEJ z dnia 11 grudnia uzupełniające obwieszczenie z dnia 27 listopada 2006 burmistrzów i prezydentów miast na obszarze kraju, oraz w dniu 26 listopada ——————— Przewodniczący Państwowej Komisji Wyborczej: Ferdynand Rymarz Zastępcy Przewodniczącego Państwowej Komisji Wyborczej: Jan Kacprzak Stanisław Kosmal Członkowie Państwowej Komisji Wyborczej: Stefan Jaworski Andrzej Kisielewicz Andrzej Mączyński Antoni Włodzimierz Ryms Tadeusz ˚yznowski
+1. Wybierano łącznie 16 wójtów, burmistrzów i prezydentów miast spośród 31 zgłoszonych kandy——————— Przewodniczący Państwowej Komisji Wyborczej: Ferdynand Rymarz Zastępcy Przewodniczącego Państwowej Komisji Wyborczej: Jan Kacprzak Stanisław Kosmal Członkowie Państwowej Komisji Wyborczej: Stefan Jaworski Andrzej Kisielewicz Andrzej Mączyński Antoni Włodzimierz Ryms Tadeusz ˚yznowski
 

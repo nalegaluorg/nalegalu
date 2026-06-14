@@ -64,7 +64,9 @@ saos_id|date|court|case_number|type|score|saos_url
 3322|2012-10-30|SO|III APa 21/12|Wyrok|56|https://www.saos.org.pl/judgments/3322
 1984|2012-07-26|SO|III APa 14/12|Wyrok|56|https://www.saos.org.pl/judgments/1984
 523219|2019-12-03|SO|III AUa 2026/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/523219
+545342|2026-03-18|SO|VII U 1538/24|Wyrok|40|https://www.saos.org.pl/judgments/545342
 544932|2025-12-01|SO|VI P 82/22|Wyrok|40|https://www.saos.org.pl/judgments/544932
+547017|2025-09-02|SO|IV P 331/24|Wyrok|40|https://www.saos.org.pl/judgments/547017
 528746|2025-05-22|SO|VII U 139/23|Wyrok|40|https://www.saos.org.pl/judgments/528746
 525340|2025-03-06|SO|VII Pa 256/24|Wyrok|40|https://www.saos.org.pl/judgments/525340
 525343|2025-02-21|SO|VII Pa 93/24|Wyrok|40|https://www.saos.org.pl/judgments/525343
@@ -122,6 +124,7 @@ saos_id|date|court|case_number|type|score|saos_url
 379000|2019-02-22|SO|III P 2/18|Wyrok|40|https://www.saos.org.pl/judgments/379000
 404107|2019-01-24|SO|VI P 124/18|Wyrok|40|https://www.saos.org.pl/judgments/404107
 371770|2018-12-19|SO|VI P 343/18|Wyrok|40|https://www.saos.org.pl/judgments/371770
+546467|2018-12-04|SO|VII P 22/18|Wyrok|40|https://www.saos.org.pl/judgments/546467
 405906|2018-12-03|SO|IV P 95/18|Wyrok|40|https://www.saos.org.pl/judgments/405906
 393441|2018-11-30|SO|VI P 268/16|Wyrok|40|https://www.saos.org.pl/judgments/393441
 375775|2018-11-14|SO|VII Pa 122/18|Wyrok|40|https://www.saos.org.pl/judgments/375775

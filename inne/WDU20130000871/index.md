@@ -8,10 +8,10 @@ pos: 871
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 sierpnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 871 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 20 czerwca 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000871) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/871/text.pdf) |
 
-Poz. 871 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 20 czerwca 2013 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie szczegółowych warunków realizacji rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 9 maja 2012 r. w sprawie szczegółowych warunków realizacji rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne (Dz. U. poz. 551), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 29 maja 2012 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków realizacji rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne (Dz. U. poz. 641).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 29 maja 2012 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków realizacji rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne (Dz. U. poz. 641), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”.
 Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE RADY MINISTRÓW z dnia 9 maja 2012 r.
-w sprawie szczegółowych warunków realizacji rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne Na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki udzielania pomocy finansowej, realizowanej w ramach rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne, zwanej dalej „pomocą”.
+w sprawie szczegółowych warunków realizacji rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne Na podstawie art. 24 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe warunki udzielania pomocy finansowej, realizowanej w ramach rządowego programu wspierania niektórych osób pobierających świadczenie pielęgnacyjne, zwanej dalej „pomocą”.
 § 2. 1. Prawo do pomocy przysługuje matce, ojcu lub opiekunowi faktycznemu dziecka mającym ustalone za miesiąc kwiecień, maj lub czerwiec 2012 r. prawo do świadczenia pielęgnacyjnego przyznane na podstawie ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm. ).
 2. Pomoc przysługuje w wysokości 100 zł miesięcznie.
 3. Pomoc jest przyznawana niezależnie od dochodu.

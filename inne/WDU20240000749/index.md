@@ -8,7 +8,7 @@ pos: 749
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rzecznikach patentowych
@@ -423,6 +423,10 @@ Art. 69–72. (pominięte)
 
 **Art. 26.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
+- **1)** wzór i sposób prowadzenia listy rzeczników patentowych, kierując się koniecznością zapewnienia przejrzystości danych ujętych na liście;
+- **2)** wzór legitymacji rzecznika patentowego, kierując się koniecznością zapewnienia identyfikacji osoby uprawnionej do wykonywania zawodu oraz używającej tytułu zawodowego „rzecznik patentowy”;
+- **3)** wysokość opłat pobieranych przez Urząd Patentowy od wniosku o wpis oraz wniosku o zmianę wpisu na liście rzeczników patentowych, uwzględniając rzeczywistą wysokość kosztów związanych z dokonaniem lub ze zmianą wpisu.
+
 #### Rozdział 4 Aplikacja rzecznikowska i egzamin kwalifikacyjny
 
 **Art. 27.**
@@ -571,6 +575,17 @@ Art. 69–72. (pominięte)
 
 **Art. 37.** Aplikanta skreśla się z listy aplikantów w drodze uchwały Krajowej Rady Rzeczników Patentowych:
 
+- **1)** w przypadku wpisu na listę rzeczników patentowych;
+- **1a)** w przypadku niezłożenia wniosku o wpis na listę rzeczników patentowych w terminie, o którym mowa w art. 20 ust. 1;
+- **2)** odpowiednio w przypadkach, o których mowa w art. 24 ust. 2 pkt 1–3, 5 i 6;
+- **2a)** w przypadku nieuiszczania, bez usprawiedliwionej przyczyny, opłaty za aplikację dłużej niż trzy miesiące;
+- **3)** w razie prawomocnego orzeczenia dyscyplinarnego o ukaraniu aplikanta karą wydalenia z aplikacji;
+- **4)** w razie nieukończenia przez niego, bez usprawiedliwionej przyczyny, aplikacji w terminie, o którym mowa w art. 27 ust. 2;
+- **4a)** w razie nieprzystąpienia do egzaminu kwalifikacyjnego w terminie wyznaczonym przez Krajową Radę Rzeczników Patentowych;
+- **4b)** w razie złożenia egzaminu kwalifikacyjnego z wynikiem negatywnym.
+- **5)** (uchylony)
+- **6)** (uchylony)
+
 **Art. 38.** Na uchwałę o odmowie wpisu na listę aplikantów oraz o skreśleniu z listy, służy skarga do sądu administracyjnego.
 
 **Art. 39.** Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Rady Rzeczników Patentowych, określi, w drodze rozporządzenia, przedmiot szkolenia aplikantów, z uwzględnieniem interdyscyplinarnego charakteru zawodu rzecznika patentowego, szczegółowy tryb i sposób przeprowadzania egzaminu konkursowego i egzaminu kwalifikacyjnego, z uwzględnieniem konieczności prawidłowego i efektywnego przeprowadzenia naboru na aplikację, egzaminu konkursowego, egzaminu kwalifikacyjnego oraz zapewnienia bezstronności pracy członków Komisji Egzaminacyjnej.
@@ -711,6 +726,24 @@ Art. 69–72. (pominięte)
 
 **Art. 51.** Do Krajowej Rady Rzeczników Patentowych należy:
 
+- **1)** (uchylony)
+- **2)** opiniowanie projektów aktów prawnych oraz przedstawianie wniosków dotyczących unormowań prawnych w sprawach własności przemysłowej i rzeczników patentowych;
+- **3)** uchwalanie budżetu Krajowej Rady i zatwierdzanie sprawozdań z jego wykonania;
+- **4)** prowadzenie gospodarki finansowej samorządu;
+- **4a)** zatwierdzanie sprawozdań finansowych;
+- **5)** rozpatrywanie wniosków Komisji Rewizyjnej;
+- **6)** określanie wysokości składki członkowskiej i zasad zwalniania w całości lub części z obowiązku opłacania składki, a także przypadków, w jakich osoby przechodzące na emeryturę lub rentę nie są obowiązane do jej opłacania;
+- **7)** organizowanie aplikacji, w tym uchwalanie programu oraz regulaminu aplikacji i egzaminu kwalifikacyjnego, a także wyznaczanie aplikantom patrona;
+- **8)** organizowanie szkoleń i innych form doskonalenia zawodowego rzeczników patentowych;
+- **9)** ustanawianie tymczasowego zastępcy rzecznika patentowego i tymczasowego zarządcy kancelarii patentowej, w przypadkach określonych ustawą;
+- **10)** wybór Prezesa Polskiej Izby Rzeczników Patentowych oraz Rzecznika Dyscyplinarnego – w razie wygaśnięcia ich mandatów w okresie pomiędzy Krajowymi Zjazdami;
+- **11)** prowadzenie i aktualizacja ogólnie dostępnych ewidencji:
+    - **a)** miejsc zatrudnienia rzeczników patentowych,
+    - **b)** kancelarii patentowych;
+
+- **12)** występowanie do organów rejestrowych lub ewidencyjnych z wnioskiem o wszczęcie postępowania o wykreślenie z rejestru lub ewidencji jednostki organizacyjnej prowadzącej działalność w zakresie świadczenia pomocy w sprawach własności przemysłowej niezgodnie z przepisami ustawy;
+- **13)** realizacja innych zadań samorządu, niezastrzeżonych dla pozostałych jego organów.
+
 **Art. 51a.**
 
 1. Prezes Polskiej Izby Rzeczników Patentowych:
@@ -764,6 +797,10 @@ Art. 69–72. (pominięte)
 - **5)** wykonywanie innych zadań przewidzianych w statucie.
 
 **Art. 55.** Działalność samorządu jest finansowana:
+
+- **1)** ze składek rzeczników patentowych i aplikantów oraz kar pieniężnych, o których mowa w art. 58 ust. 1 pkt 3;
+- **2)** z prowadzonej działalności gospodarczej, z wyłączeniem spraw, o których mowa w art. 4 ust. 1;
+- **3)** z dochodów z innych źródeł, w tym spadków i darowizn.
 
 **Art. 56.**
 
@@ -824,6 +861,11 @@ Art. 69–72. (pominięte)
 4. Zawieszenie prawa wykonywania zawodu, o którym mowa w ust. 2, pociąga za sobą utratę biernego i czynnego prawa wyborczego do organów samorządu na czas zawieszenia.
 
 **Art. 59a.** Postępowanie dyscyplinarne obejmuje:
+
+- **1)** postępowanie wyjaśniające;
+- **2)** postępowanie przed Sądem Dyscyplinarnym;
+- **3)** postępowanie przed Odwoławczym Sądem Dyscyplinarnym;
+- **4)** postępowanie wykonawcze.
 
 **Art. 60.**
 

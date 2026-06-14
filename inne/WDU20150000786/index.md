@@ -8,10 +8,10 @@ pos: 786
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 czerwca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 786 OBWIESZCZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 13 maja 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000786) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/786/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 13 maja 2015 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju Regionalnego w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na promocję gospodarczą Polski Wschodniej, stworzenie sieci współpracy centrów obsługi inwestora, tworzenie i rozwój klastrów, tworzenie polityki rozwoju regionalnego w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju Regionalnego z dnia 1 kwietnia 2009 r.
 w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na promocję gospodarczą Polski Wschodniej, stworzenie sieci współpracy centrów obsługi inwestora, tworzenie i rozwój klastrów, tworzenie polityki rozwoju regionalnego w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 (Dz. U. z 2013 r. poz. 708), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 16 czerwca 2014 r. zmieniającym rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na promocję gospodarczą Polski Wschodniej, stworzenie sieci współpracy centrów obsługi inwestora, tworzenie i rozwój klastrów, tworzenie polityki rozwoju regionalnego w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 (Dz. U. poz. 834).
@@ -34,6 +33,7 @@ Narodowe Strategiczne Ramy Odniesienia 2007–2013. Zmiany w Programie Operacyjn
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Infrastruktury i Rozwoju: M. Wasiak ROZPORZĄDZENIE MINISTRA ROZWOJU REGIONALNEGO z dnia 1 kwietnia 2009 r.
 w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na promocję gospodarczą Polski Wschodniej, stworzenie sieci współpracy centrów obsługi inwestora, tworzenie i rozwój klastrów, tworzenie polityki rozwoju regionalnego w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2014 r. poz. 1804) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach działania I.4 Promocja i Współpraca Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013, zwanego dalej „Programem”.
 2. Pomoc finansowa może być udzielona:
 1) jednostkom samorządu terytorialnego;
 2) podmiotom działającym na rzecz rozwoju gospodarczego;
@@ -44,21 +44,21 @@ w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy 
 5. Wydatki kwalifikujące się do objęcia wsparciem poniesione w walucie obcej przelicza się na walutę polską po kursie sprzedaży zastosowanym przez bank dokonujący płatności w dniu jej dokonania.
 6. Wsparcie może być udzielone na realizację projektów, których rezultaty dotyczą wyłącznie województw: lubelskiego, świętokrzyskiego, podkarpackiego, podlaskiego, warmińsko-mazurskiego.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) centrum obsługi inwestora należy przez to rozumieć podmiot działający na rzecz rozwoju gospodarczego lub podmiot działający na rzecz innowacyjności, którego głównym celem działalności jest pozyskiwanie inwestorów i zapewnienie im kompleksowych usług związanych z uruchomieniem inwestycji;
-2) dniu rozpoczęcia realizacji projektu należy przez to rozumieć dzień pierwszego zobowiązania do zamówienia usług związanych z realizacją projektu;
-3) dniu zakończenia realizacji projektu należy przez to rozumieć dzień złożenia wniosku o płatność końcową;
-4) działaniu I.4 należy przez to rozumieć działanie I.4 Promocja i Współpraca w ramach Programu;
-5) Polsce Wschodniej należy przez to rozumieć obszar obejmujący województwa: lubelskie, podlaskie, podkarpackie, świętokrzyskie i warmińsko-mazurskie;
-6) projekcie należy przez to rozumieć przedsięwzięcie realizowane na podstawie umowy o udzielenie wsparcia w ramach działania I.4;
-7) sieci współpracy należy przez to rozumieć formę powiązań między podmiotami uczestniczącymi w projektach realizowanych w ramach działania I.4, opartą na umowie współpracy;
-8) klastrze należy przez to rozumieć przestrzenną i sektorową koncentrację podmiotów działających na rzecz rozwoju gospodarczego lub podmiotów działających na rzecz innowacyjności, jednostek naukowych, o których mowa w § 1 ust. 2 pkt 3, oraz przedsiębiorców wykonujących działalność gospodarczą na terenie jednego lub kilku sąsiadujących województw Polski Wschodniej, konkurujących i współpracujących w tych samych lub pokrewnych branżach oraz powiązanych siecią współpracy;
-9) umowie o udzielenie wsparcia należy przez to rozumieć umowę dotyczącą udzielenia pomocy finansowej na realizację projektu przez podmiot otrzymujący wsparcie w ramach Programu, zawartą między Agencją a podmiotem;
-10) wniosku o udzielenie wsparcia należy przez to rozumieć wniosek o przyznanie środków na realizację projektu w ramach Programu;
-11) środkach trwałych należy przez to rozumieć środki trwałe, o których mowa w art. 3 ust. 1 pkt 15 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm. );
-12) wartościach niematerialnych i prawnych należy przez to rozumieć wartości niematerialne i prawne, o których mowa w art. 3 ust. 1 pkt 14 ustawy wymienionej w pkt 11.
+1) centrum obsługi inwestora – należy przez to rozumieć podmiot działający na rzecz rozwoju gospodarczego lub podmiot działający na rzecz innowacyjności, którego głównym celem działalności jest pozyskiwanie inwestorów i zapewnienie im kompleksowych usług związanych z uruchomieniem inwestycji;
+2) dniu rozpoczęcia realizacji projektu – należy przez to rozumieć dzień pierwszego zobowiązania do zamówienia usług związanych z realizacją projektu;
+3) dniu zakończenia realizacji projektu – należy przez to rozumieć dzień złożenia wniosku o płatność końcową;
+4) działaniu I.4 – należy przez to rozumieć działanie I.4 Promocja i Współpraca w ramach Programu;
+5) Polsce Wschodniej – należy przez to rozumieć obszar obejmujący województwa: lubelskie, podlaskie, podkarpackie, świętokrzyskie i warmińsko-mazurskie;
+6) projekcie – należy przez to rozumieć przedsięwzięcie realizowane na podstawie umowy o udzielenie wsparcia w ramach działania I.4;
+7) sieci współpracy – należy przez to rozumieć formę powiązań między podmiotami uczestniczącymi w projektach realizowanych w ramach działania I.4, opartą na umowie współpracy;
+8) klastrze – należy przez to rozumieć przestrzenną i sektorową koncentrację podmiotów działających na rzecz rozwoju gospodarczego lub podmiotów działających na rzecz innowacyjności, jednostek naukowych, o których mowa w § 1 ust. 2 pkt 3, oraz przedsiębiorców wykonujących działalność gospodarczą na terenie jednego lub kilku sąsiadujących województw Polski Wschodniej, konkurujących i współpracujących w tych samych lub pokrewnych branżach oraz powiązanych siecią współpracy;
+9) umowie o udzielenie wsparcia – należy przez to rozumieć umowę dotyczącą udzielenia pomocy finansowej na realizację projektu przez podmiot otrzymujący wsparcie w ramach Programu, zawartą między Agencją a podmiotem;
+10) wniosku o udzielenie wsparcia – należy przez to rozumieć wniosek o przyznanie środków na realizację projektu w ramach Programu;
+11) środkach trwałych – należy przez to rozumieć środki trwałe, o których mowa w art. 3 ust. 1 pkt 15 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm. );
+12) wartościach niematerialnych i prawnych – należy przez to rozumieć wartości niematerialne i prawne, o których mowa w art. 3 ust. 1 pkt 14 ustawy wymienionej w pkt 11.
 § 3. 1. Pomoc udzielona przedsiębiorcom, polegająca na korzystaniu z usług, materiałów, wartości niematerialnych i prawnych oraz środków trwałych nabytych lub wytworzonych przez podmioty otrzymujące wsparcie, w ramach projektów, o których mowa w § 4 i 6, stanowi pomoc de minimis i jest udzielana zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1), zwanym dalej „rozporządzeniem Komisji nr 1407/2013”.
 2. Pomoc de minimis podlega kumulacji zgodnie z art. 5 rozporządzenia Komisji nr 1407/2013.
-3. Pomoc de minimis może być udzielona jednemu przedsiębiorcy, w rozumieniu art. 2 ust. 2 rozporządzenia Komisji nr 1407/2013, uczestniczącemu w realizacji projektów, o których mowa w § 4 i 6, pod warunkiem, że łącznie z inną pomocą de minimis otrzymaną w bieżącym roku podatkowym oraz w ciągu dwóch poprzedzających lat podatkowych z różnych źródeł i w różnych formach, nie przekroczy kwoty 200 000 euro, a w przypadku jednego przedsiębiorcy prowadzącego działalność w sektorze transportu drogowego towarów 100 000 euro.
+3. Pomoc de minimis może być udzielona jednemu przedsiębiorcy, w rozumieniu art. 2 ust. 2 rozporządzenia Komisji nr 1407/2013, uczestniczącemu w realizacji projektów, o których mowa w § 4 i 6, pod warunkiem, że łącznie z inną pomocą de minimis otrzymaną w bieżącym roku podatkowym oraz w ciągu dwóch poprzedzających lat podatkowych z różnych źródeł i w różnych formach, nie przekroczy kwoty 200 000 euro, a w przypadku jednego przedsiębiorcy prowadzącego działalność w sektorze transportu drogowego towarów – 100 000 euro.
 4. W przypadku gdy przedsiębiorca prowadzi działalność w sektorze transportu drogowego towarów oraz inną działalność, do której stosuje się pułap pomocy de minimis wynoszący 200 000 euro, oraz zapewnił rozdzielenie obu działalności lub wyodrębnienie kosztów w ramach prowadzonej działalności, wówczas pułap 100 000 euro stosowany jest wyłącznie do działalności dotyczącej transportu drogowego towarów.
 5. Wartość usług, materiałów, wartości niematerialnych i prawnych oraz środków trwałych nabytych lub wytworzonych przez podmioty otrzymujące wsparcie przekazana przedsiębiorcom uczestniczącym w projektach, o których mowa w § 4 i 6, powyżej limitu pomocy de minimis, o którym mowa w ust. 3 i 4, stanowi koszt bezpośrednio ponoszony przez przedsiębiorcę. Opłaty ponoszone przez przedsiębiorców na rzecz podmiotów otrzymujących wsparcie, o których mowa w § 4 i 6, w związku z przekroczeniem limitu pomocy de minimis, o którym mowa w ust. 3 i 4, obniżają kwotę wsparcia przekazywanego przez Agencję tym podmiotom.
 6. Pomoc de minimis nie może być udzielona na działalność gospodarczą:
@@ -70,6 +70,7 @@ b) udzielenie pomocy byłoby uzależnione od przekazania jej w części lub w ca
 4) związaną z wywozem, tj. bezpośrednio związaną z ilością wywożonych produktów, tworzeniem i funkcjonowaniem sieci dystrybucyjnej lub innymi wydatkami bieżącymi związanymi z prowadzeniem działalności wywozowej, przy czym pomoc obejmująca pokrycie kosztów uczestnictwa w targach i wystawach, badań lub usług doradczych z zakresu wprowadzenia nowego lub istniejącego produktu na nowy rynek nie stanowi pomocy publicznej na działalność związaną z wywozem;
 5) uwarunkowaną pierwszeństwem użycia towarów produkcji krajowej w stosunku do towarów sprowadzanych z zagranicy.
 7. Pomoc de minimis w ramach projektów, o których mowa w § 4 i 6, nie może być udzielona przedsiębiorcy prowadzącemu działalność gospodarczą w zakresie towarowego transportu drogowego na nabycie pojazdów przeznaczonych do takiego transportu.
+§ 4. 1. Agencja może udzielić wsparcia na promocję gospodarczą Polski Wschodniej podmiotowi działającemu na rzecz rozwoju gospodarczego, który spełnia łącznie następujące warunki:
 1) posiada osobowość prawną;
 2) ma siedzibę na terytorium Rzeczypospolitej Polskiej;
 3) nie działa w celu osiągnięcia zysku lub przeznacza zysk na cele statutowe zgodne z zadaniami realizowanymi przez Agencję, o których mowa w ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, zwanej dalej „ustawą”;
@@ -78,7 +79,7 @@ b) udzielenie pomocy byłoby uzależnione od przekazania jej w części lub w ca
 6) zobowiąże się do:
 a) wykorzystania, w okresie realizacji projektu objętego wsparciem, towarów, wartości niematerialnych i prawnych oraz usług zakupionych ze środków wsparcia wyłącznie w celach związanych z realizacją projektu,
 b) prowadzenia odrębnej ewidencji księgowej dla projektu objętego wsparciem,
-c) zapewnienia wszystkim podmiotom uczestniczącym w realizacji projektu równego, bezpłatnego dostępu do usług, materiałów, wartości niematerialnych i prawnych oraz środków trwałych nabytych lub wytworzonych przez podmiot otrzymujący wsparcie, a w przypadku gdy podmiotem uczestniczącym w realizacji projektu jest przedsiębiorca do zapewnienia temu przedsiębiorcy bezpłatnego dostępu w granicach limitów pomocy de minimis, o których mowa w § 3 ust. 3,
+c) zapewnienia wszystkim podmiotom uczestniczącym w realizacji projektu równego, bezpłatnego dostępu do usług, materiałów, wartości niematerialnych i prawnych oraz środków trwałych nabytych lub wytworzonych przez podmiot otrzymujący wsparcie, a w przypadku gdy podmiotem uczestniczącym w realizacji projektu jest przedsiębiorca – do zapewnienia temu przedsiębiorcy bezpłatnego dostępu w granicach limitów pomocy de minimis, o których mowa w § 3 ust. 3,
 d) zwrotu do Agencji, w terminie 6 miesięcy, licząc od dnia zakończenia realizacji projektu, kwoty stanowiącej różnicę między otrzymaną kwotą wsparcia na promocję gospodarczą a sumą pomocy de minimis udzielonej przedsiębiorcom uczestniczącym w realizacji projektu oraz kwoty wsparcia przekazanej pozostałym podmiotom uczestniczącym w realizacji projektu,
 e) zapewnienia utrzymania rezultatów projektu przez okres 2 lat od dnia zakończenia realizacji projektu.
 2. Wsparcie na promocję gospodarczą Polski Wschodniej może być udzielone z przeznaczeniem na:
@@ -89,6 +90,7 @@ e) zapewnienia utrzymania rezultatów projektu przez okres 2 lat od dnia zakońc
 5) projektowanie, tworzenie i obsługę baz danych, portali, wortali, serwisów i stron internetowych ukierunkowanych na promocję gospodarczą Polski Wschodniej;
 6) organizację i obsługę imprez targowo-wystawienniczych, konferencyjno-kongresowych, forów ekonomicznych, misji branżowych i wizyt studyjnych.
 3. Wielkość wsparcia na promocję gospodarczą Polski Wschodniej może wynosić do 100% wydatków kwalifikujących się do objęcia wsparciem.
+§ 5. 1. Agencja może udzielić wsparcia na stworzenie sieci współpracy istniejących centrów obsługi inwestora, obejmującej co najmniej po jednym centrum obsługi inwestora z każdego województwa Polski Wschodniej, które spełniają łącznie następujące warunki:
 1) posiadają osobowość prawną;
 2) mają siedziby na terytorium Rzeczypospolitej Polskiej;
 3) prowadzą działalność na obszarze Polski Wschodniej;
@@ -110,6 +112,7 @@ d) zapewnienia utrzymania rezultatów projektu przez okres 2 lat od dnia zakońc
 4. Centrum obsługi inwestora, które otrzymało wsparcie na stworzenie sieci współpracy centrów obsługi inwestora, realizuje projekt wspólnie z innymi centrami obsługi inwestora wskazanymi we wniosku o udzielenie wsparcia. Wydatki ponoszone przez te podmioty w ramach realizowanego projektu kwalifikują się do objęcia wsparciem na stworzenie sieci współpracy centrów obsługi inwestora.
 5. Wielkość wsparcia na stworzenie sieci współpracy centrów obsługi inwestora może wynosić do 90% wydatków kwalifikujących się do objęcia wsparciem.
 6. Minimalna wartość całkowitych wydatków kwalifikujących się do objęcia wsparciem na stworzenie sieci współpracy centrów obsługi inwestora w ramach projektu wynosi 2 000 000 zł.
+§ 6. 1. Agencja może udzielić wsparcia na tworzenie i rozwój klastra podmiotowi, o którym mowa w § 1 ust. 2 pkt 2, 3 lub 4, prowadzącemu działalność w zakresie realizacji przedsięwzięć na rzecz przedsiębiorców oraz na rzecz współpracy przedsiębiorców z podmiotami działającymi na rzecz rozwoju gospodarczego oraz podmiotami działającymi na rzecz innowacyjności, a także z jednostkami naukowymi, zwanemu dalej „koordynatorem klastra”, który spełnia łącznie następujące warunki:
 1) ma siedzibę na terytorium Rzeczypospolitej Polskiej;
 2) nie działa w celu osiągnięcia zysku lub przeznacza zysk na cele statutowe związane z zadaniami realizowanymi przez Agencję, o których mowa w ustawie;
 3) dysponuje personelem posiadającym kwalifikacje niezbędne do świadczenia usług na rzecz podmiotów funkcjonujących w ramach klastra;
@@ -117,11 +120,11 @@ d) zapewnienia utrzymania rezultatów projektu przez okres 2 lat od dnia zakońc
 5) udokumentuje pełnienie roli koordynatora klastra objętego wnioskiem o udzielenie wsparcia na tworzenie i rozwój klastra;
 6) zobowiąże się do:
 a) wykorzystywania, w okresie realizacji projektu, towarów, wartości niematerialnych i prawnych oraz usług zakupionych ze środków wsparcia wyłącznie w celach związanych z jego realizacją,
-b) zapewnienia wszystkim uczestnikom klastra równego, bezpłatnego dostępu do usług, materiałów, wartości niematerialnych i prawnych oraz środków trwałych nabytych lub wytworzonych przez podmioty otrzymujące wsparcie, a w przypadku gdy podmiotem uczestniczącym w realizacji projektu jest przedsiębiorca do zapewnienia temu przedsiębiorcy bezpłatnego dostępu w granicach limitów pomocy de minimis, o których mowa w § 3 ust. 3,
+b) zapewnienia wszystkim uczestnikom klastra równego, bezpłatnego dostępu do usług, materiałów, wartości niematerialnych i prawnych oraz środków trwałych nabytych lub wytworzonych przez podmioty otrzymujące wsparcie, a w przypadku gdy podmiotem uczestniczącym w realizacji projektu jest przedsiębiorca – do zapewnienia temu przedsiębiorcy bezpłatnego dostępu w granicach limitów pomocy de minimis, o których mowa w § 3 ust. 3,
 c) prowadzenia odrębnej ewidencji księgowej dla projektu,
 d) zwrotu do Agencji, w terminie 6 miesięcy, licząc od dnia zakończenia realizacji projektu, kwoty stanowiącej różnicę między otrzymaną kwotą wsparcia na tworzenie i rozwój klastra a sumą pomocy de minimis udzielonej przedsiębiorcom uczestniczącym w realizacji projektu oraz kwoty wsparcia przekazanej pozostałym podmiotom uczestniczącym w realizacji projektu,
 e) zapewnienia utrzymania rezultatów projektu przez okres 2 lat od dnia zakończenia realizacji projektu.
-2. Wsparcie na tworzenie i rozwój klastra może być udzielone na tworzenie i rozwój klastra, obejmującego łącznie co najmniej 5 przedsiębiorców, co najmniej 1 jednostkę naukową, o której mowa w § 1 ust. 2 pkt 3, i co najmniej 1 podmiot działający na rzecz rozwoju gospodarczego lub podmiot działający na rzecz innowacyjności, mających siedzibę, a w przypadku osób fizycznych miejsce zamieszkania, na terenie co najmniej 2 województw Polski Wschodniej.
+2. Wsparcie na tworzenie i rozwój klastra może być udzielone na tworzenie i rozwój klastra, obejmującego łącznie co najmniej 5 przedsiębiorców, co najmniej 1 jednostkę naukową, o której mowa w § 1 ust. 2 pkt 3, i co najmniej 1 podmiot działający na rzecz rozwoju gospodarczego lub podmiot działający na rzecz innowacyjności, mających siedzibę, a w przypadku osób fizycznych – miejsce zamieszkania, na terenie co najmniej 2 województw Polski Wschodniej.
 3. Wsparcie na tworzenie i rozwój klastra może być udzielone na realizację przez koordynatora klastra działań związanych z:
 1) organizacją i funkcjonowaniem biura klastra;
 2) opracowywaniem dokumentów operacyjnych klastra, w tym strategii rozwoju, strategii marketingowych, zasad współpracy i komunikacji wewnętrznej klastra;
@@ -134,6 +137,7 @@ e) zapewnienia utrzymania rezultatów projektu przez okres 2 lat od dnia zakońc
 9) opracowaniem, wykonaniem i dystrybucją materiałów promocyjnych i informacyjnych dotyczących klastra oraz rozwoju idei klasteringu w Polsce Wschodniej.
 4. Wielkość wsparcia na tworzenie i rozwój klastra może wynosić do 90% wydatków kwalifikujących się do objęcia wsparciem.
 5. Minimalna wartość całkowitych wydatków kwalifikujących się do objęcia wsparciem na tworzenie i rozwój klastra w ramach projektu wynosi 2 000 000 zł.
+§ 7. 1. Agencja może udzielić wsparcia na tworzenie polityki rozwoju regionalnego co najmniej 2 jednostkom samorządu terytorialnego z minimum 2 województw Polski Wschodniej, działającym wspólnie, z których każda posiada potencjał finansowy, techniczny, kadrowy i organizacyjny niezbędny do realizacji projektu.
 2. Koordynatorem projektu tworzenia polityki rozwoju regionalnego może być jednostka samorządu terytorialnego, która:
 1) złożyła wniosek o udzielenie wsparcia przed dniem rozpoczęcia realizacji projektu;
 2) przedstawiła umowę współpracy między jednostkami samorządu terytorialnego, uczestniczącymi w projekcie, z której wynika, że w ramach projektu będzie koordynowała i wspólnie realizowała działania na ich rzecz i za ich zgodą;
@@ -152,6 +156,7 @@ d) zapewnienia utrzymania rezultatów projektu przez okres 2 lat od dnia zakońc
 Wydatki ponoszone przez te jednostki samorządu terytorialnego w ramach realizowanego projektu kwalifikują się do objęcia wsparciem na tworzenie polityki rozwoju regionalnego.
 5. Wielkość wsparcia na tworzenie polityki rozwoju regionalnego może wynosić do 90% wydatków kwalifikujących się do objęcia wsparciem.
 6. Minimalna wartość całkowitych wydatków kwalifikujących się do objęcia wsparciem na tworzenie polityki rozwoju regionalnego w ramach projektu wynosi 200 000 zł.
+§ 8. 1. Agencja udziela wsparcia:
 1) w przypadku, o którym mowa w § 4, na realizację projektu indywidualnego, o którym mowa w art. 28 ust. 1 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649 oraz z 2015 r. poz. 349), w trybie, o którym mowa w ust. 2 oraz ust. 5–7;
 2) w przypadkach, o których mowa w § 5–7, na realizację projektów w trybie konkursu, o którym mowa w art. 28 ust. 1 pkt 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
 2. W przypadku projektu wskazanego w ust. 1 pkt 1, ogłoszonego stosownie do art. 28 ust. 1a ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, Agencja powiadamia pisemnie podmiot odpowiedzialny za opracowanie tego projektu o konieczności złożenia, w terminie przez nią wskazanym, wniosku o udzielenie wsparcia.
@@ -174,18 +179,19 @@ Ogłoszenie o konkursie określa:
 8. W przypadku zatwierdzenia projektu, o którym mowa w ust. 7, Agencja zawiera z podmiotem umowę o udzielenie wsparcia na realizację projektu.
 § 9. Do postępowania w sprawie udzielenia wsparcia stosuje się art. 29 ust. 4, art. 30a–30g oraz art. 37 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
 § 9a. Pomoc de minimis może być udzielana przedsiębiorcom do dnia 31 grudnia 2015 r.
+§ 10. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 
-#### Rozdział 1 Przepisy ogólne § 1. 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach działania I.4 Promocja i Współpraca Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013, zwanego dalej „Programem”.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe przeznaczenie i warunki udzielania wsparcia na promocję gospodarczą Polski Wschodniej § 4. 1. Agencja może udzielić wsparcia na promocję gospodarczą Polski Wschodniej podmiotowi działającemu na rzecz rozwoju gospodarczego, który spełnia łącznie następujące warunki:
+#### Rozdział 2 Szczegółowe przeznaczenie i warunki udzielania wsparcia na promocję gospodarczą Polski Wschodniej
 
-#### Rozdział 3 Szczegółowe przeznaczenie i warunki udzielania wsparcia na stworzenie sieci współpracy centrów obsługi inwestora § 5. 1. Agencja może udzielić wsparcia na stworzenie sieci współpracy istniejących centrów obsługi inwestora, obejmującej co najmniej po jednym centrum obsługi inwestora z każdego województwa Polski Wschodniej, które spełniają łącznie następujące warunki:
+#### Rozdział 3 Szczegółowe przeznaczenie i warunki udzielania wsparcia na stworzenie sieci współpracy centrów obsługi inwestora
 
-#### Rozdział 4 Szczegółowe przeznaczenie i warunki udzielania wsparcia na tworzenie i rozwój klastrów § 6. 1. Agencja może udzielić wsparcia na tworzenie i rozwój klastra podmiotowi, o którym mowa w § 1 ust. 2 pkt 2, 3 lub 4, prowadzącemu działalność w zakresie realizacji przedsięwzięć na rzecz przedsiębiorców oraz na rzecz współpracy przedsiębiorców z podmiotami działającymi na rzecz rozwoju gospodarczego oraz podmiotami działającymi na rzecz innowacyjności, a także z jednostkami naukowymi, zwanemu dalej „koordynatorem klastra”, który spełnia łącznie następujące warunki:
+#### Rozdział 4 Szczegółowe przeznaczenie i warunki udzielania wsparcia na tworzenie i rozwój klastrów
 
-#### Rozdział 5 Szczegółowe przeznaczenie i warunki udzielania wsparcia na tworzenie polityki rozwoju regionalnego § 7. 1. Agencja może udzielić wsparcia na tworzenie polityki rozwoju regionalnego co najmniej 2 jednostkom samorządu terytorialnego z minimum 2 województw Polski Wschodniej, działającym wspólnie, z których każda posiada potencjał finansowy, techniczny, kadrowy i organizacyjny niezbędny do realizacji projektu.
+#### Rozdział 5 Szczegółowe przeznaczenie i warunki udzielania wsparcia na tworzenie polityki rozwoju regionalnego
 
-#### Rozdział 6 Tryb udzielania wsparcia w ramach Programu § 8. 1. Agencja udziela wsparcia:
+#### Rozdział 6 Tryb udzielania wsparcia w ramach Programu
 
-#### Rozdział 7 Przepis końcowy § 10. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
+#### Rozdział 7 Przepis końcowy
 

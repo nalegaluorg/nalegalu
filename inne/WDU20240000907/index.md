@@ -8,7 +8,7 @@ pos: 907
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wykonywaniu mandatu posła i senatora
@@ -39,21 +39,21 @@ Art. 48–55. (pominięte)
 
 **Art. 2.**
 
-1. Przed przystąpieniem do wykonywania mandatu poseł składa na posiedzeniu ślubowanie następującej treści: „Ślubuję uroczyście jako poseł na Sejm Rzeczypospolitej Polskiej rzetelnie i sumiennie wykonywać obowiązki wobec Narodu, strzec suwerenności Ojczyzny i dobra obywateli, przestrzegać porządku prawnego Rzeczypospolitej Polskiej.” Ślubowanie może być złożone z dodaniem słów „Tak mi dopomóż Bóg”.
+1. Przed przystąpieniem do wykonywania mandatu poseł składa na posiedzeniu Sejmu ślubowanie następującej treści: „Ślubuję uroczyście jako poseł na Sejm Rzeczypospolitej Polskiej rzetelnie i sumiennie wykonywać obowiązki wobec Narodu, strzec suwerenności Ojczyzny i dobra obywateli, przestrzegać porządku prawnego Rzeczypospolitej Polskiej.” Ślubowanie może być złożone z dodaniem słów „Tak mi dopomóż Bóg”.
 
 2. Przed przystąpieniem do wykonywania mandatu senator składa na posiedzeniu Senatu ślubowanie następującej treści: „Ślubuję uroczyście jako senator Rzeczypospolitej Polskiej rzetelnie i sumiennie wykonywać obowiązki wobec Narodu, strzec suwerenności Ojczyzny i dobra obywateli, przestrzegać porządku prawnego Rzeczypospolitej Polskiej.” Ślubowanie może być złożone z dodaniem słów „Tak mi dopomóż Bóg”.
 
 3. Odmowa złożenia ślubowania powoduje wygaśnięcie mandatu posła lub senatora.
 
-4. Uchylanie się od złożenia ślubowania w terminie trzech miesięcy od pierwszego posiedzenia lub Senatu jest równoznaczne ze zrzeczeniem się mandatu posła lub senatora.
+4. Uchylanie się od złożenia ślubowania w terminie trzech miesięcy od pierwszego posiedzenia Sejmu lub Senatu jest równoznaczne ze zrzeczeniem się mandatu posła lub senatora.
 
-5. Sposób złożenia ślubowania oraz tryb rozpatrywania spraw posłów i senatorów, którzy nie złożyli ślubowania w terminie trzech miesięcy od uzyskania mandatu, określają regulaminy i Senatu.
+5. Sposób złożenia ślubowania oraz tryb rozpatrywania spraw posłów i senatorów, którzy nie złożyli ślubowania w terminie trzech miesięcy od uzyskania mandatu, określają regulaminy Sejmu i Senatu.
 
-**Art. 3.** Podstawowym prawem i obowiązkiem posła i senatora jest czynne uczestnictwo w pracach lub Senatu oraz Zgromadzenia Narodowego, a także ich organów.
+**Art. 3.** Podstawowym prawem i obowiązkiem posła i senatora jest czynne uczestnictwo w pracach Sejmu lub Senatu oraz Zgromadzenia Narodowego, a także ich organów.
 
 **Art. 4.** Posłom i senatorom zapewnia się warunki niezbędne do skutecznej realizacji ich obowiązków oraz ochronę praw wynikających ze sprawowania mandatu.
 
-**Art. 5.** Tryb rozpatrywania spraw posłów lub senatorów niewykonujących obowiązków poselskich lub senatorskich, jak również zasady odpowiedzialności regulaminowej posłów lub senatorów określają regulaminy lub Senatu.
+**Art. 5.** Tryb rozpatrywania spraw posłów lub senatorów niewykonujących obowiązków poselskich lub senatorskich, jak również zasady odpowiedzialności regulaminowej posłów lub senatorów określają regulaminy Sejmu lub Senatu.
 
 **Art. 5a.** Poseł lub senator w czasie pozbawienia wolności nie wykonuje praw i obowiązków wynikających z niniejszej ustawy.
 
@@ -65,19 +65,19 @@ Art. 48–55. (pominięte)
 
 2. Działalność, o której mowa w ust. 1, obejmuje zgłaszanie wniosków, wystąpienia lub głosowania na posiedzeniach Sejmu, Senatu lub Zgromadzenia Narodowego oraz ich organów, na posiedzeniach klubów, kół i zespołów poselskich, senackich lub parlamentarnych, a także inną działalność związaną nieodłącznie ze sprawowaniem mandatu.
 
-3. Za działalność, o której mowa w ust. 1, poseł lub senator ponosi odpowiedzialność dyscyplinarną lub finansową na zasadach określonych w ustawie oraz w regulaminach lub Senatu.
+3. Za działalność, o której mowa w ust. 1, poseł lub senator ponosi odpowiedzialność dyscyplinarną lub finansową na zasadach określonych w ustawie oraz w regulaminach Sejmu lub Senatu.
 
-**Art. 6a.** Poseł lub senator, który, podejmując działania wchodzące w zakres sprawowania mandatu, narusza prawa osób trzecich, może być pociągnięty do odpowiedzialności sądowej tylko za zgodą lub Senatu.
+**Art. 6a.** Poseł lub senator, który, podejmując działania wchodzące w zakres sprawowania mandatu, narusza prawa osób trzecich, może być pociągnięty do odpowiedzialności sądowej tylko za zgodą Sejmu lub Senatu.
 
 **Art. 7.**
 
-1. Od dnia ogłoszenia wyników wyborów do dnia wygaśnięcia mandatu poseł lub senator nie może być pociągnięty do odpowiedzialności karnej bez zgody lub Senatu, z zastrzeżeniem art. 8 oraz art. 10b ust. 2.
+1. Od dnia ogłoszenia wyników wyborów do dnia wygaśnięcia mandatu poseł lub senator nie może być pociągnięty do odpowiedzialności karnej bez zgody Sejmu lub Senatu, z zastrzeżeniem art. 8 oraz art. 10b ust. 2.
 
 2. Zakaz, o którym mowa w ust. 1, dotyczy czynów popełnionych do dnia wygaśnięcia mandatu, w tym czynów popełnionych przed dniem ogłoszenia wyników wyborów.
 
 3. Przepis ust. 1 nie ma zastosowania w postępowaniu karnym, wszczętym przed dniem ogłoszenia wyników wyborów, wobec osoby, która została wybrana na posła lub senatora.
 
-4. Pociągnięcie do odpowiedzialności karnej może nastąpić tylko za czyn wskazany we wniosku, który był podstawą wyrażenia zgody przez Sejm lub Senat. Pociągnięcie posła lub senatora do odpowiedzialności za inny czyn wymaga odrębnej zgody lub Senatu.
+4. Pociągnięcie do odpowiedzialności karnej może nastąpić tylko za czyn wskazany we wniosku, który był podstawą wyrażenia zgody przez Sejm lub Senat. Pociągnięcie posła lub senatora do odpowiedzialności za inny czyn wymaga odrębnej zgody Sejmu lub Senatu.
 
 **Art. 7a.** Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
 
@@ -101,11 +101,11 @@ Art. 48–55. (pominięte)
 
 **Art. 7c.**
 
-1. Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej składa się Marszałkowi lub Marszałkowi Senatu.
+1. Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej składa się Marszałkowi Sejmu lub Marszałkowi Senatu.
 
-1a. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7b ust. 3 lub 4, Marszałek lub Marszałek Senatu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek lub Marszałek Senatu postanawia o pozostawieniu wniosku bez biegu.
+1a. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7b ust. 3 lub 4, Marszałek Sejmu lub Marszałek Senatu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu lub Marszałek Senatu postanawia o pozostawieniu wniosku bez biegu.
 
-1b. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7b ust. 3 i 4, Marszałek lub Marszałek Senatu kieruje go do organu właściwego do rozpatrzenia wniosku na podstawie regulaminów lub Senatu, zawiadamiając jednocześnie posła lub senatora o treści wniosku.
+1b. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7b ust. 3 i 4, Marszałek Sejmu lub Marszałek Senatu kieruje go do organu właściwego do rozpatrzenia wniosku na podstawie regulaminów Sejmu lub Senatu, zawiadamiając jednocześnie posła lub senatora o treści wniosku.
 
 2. Organ właściwy do rozpatrzenia wniosku, o którym mowa w ust. 1, powiadamia posła lub senatora, którego wniosek dotyczy, o terminie rozpatrzenia wniosku.
 
@@ -121,19 +121,19 @@ Art. 48–55. (pominięte)
 
 **Art. 8.**
 
-1. W zawiadomieniu, o którym mowa w art. 7c ust. 1, Marszałek lub Marszałek Senatu wyznacza termin na złożenie przez posła lub senatora oświadczenia o wyrażeniu zgody na pociągnięcie do odpowiedzialności karnej.
+1. W zawiadomieniu, o którym mowa w art. 7c ust. 1, Marszałek Sejmu lub Marszałek Senatu wyznacza termin na złożenie przez posła lub senatora oświadczenia o wyrażeniu zgody na pociągnięcie do odpowiedzialności karnej.
 
 2. Jeżeli poseł lub senator złoży oświadczenie, o którym mowa w ust. 1, przepisów art. 7c ust. 2–6 nie stosuje się.
 
-3. Oświadczenie, o którym mowa w ust. 1, poseł lub senator kieruje, w formie pisemnej, do Marszałka lub Marszałka Senatu, który zwraca się do organu właściwego do rozpatrzenia wniosku, o którym mowa w art. 7c ust. 1, o przedstawienie opinii co do formalnej poprawności tego oświadczenia.
+3. Oświadczenie, o którym mowa w ust. 1, poseł lub senator kieruje, w formie pisemnej, do Marszałka Sejmu lub Marszałka Senatu, który zwraca się do organu właściwego do rozpatrzenia wniosku, o którym mowa w art. 7c ust. 1, o przedstawienie opinii co do formalnej poprawności tego oświadczenia.
 
-4. Marszałek lub Marszałek Senatu może zwrócić się do posła lub senatora o uściślenie treści oświadczenia w wyznaczonym terminie. Nieuściślenie treści w tym terminie powoduje pozostawienie oświadczenia bez biegu; w takim przypadku mają zastosowanie przepisy art. 7c ust. 2–6.
+4. Marszałek Sejmu lub Marszałek Senatu może zwrócić się do posła lub senatora o uściślenie treści oświadczenia w wyznaczonym terminie. Nieuściślenie treści w tym terminie powoduje pozostawienie oświadczenia bez biegu; w takim przypadku mają zastosowanie przepisy art. 7c ust. 2–6.
 
 5. Pociągnięcie do odpowiedzialności karnej może nastąpić tylko za czyn wskazany we wniosku, co do którego poseł lub senator wyraził zgodę w trybie określonym w ust. 1–4. Pociągnięcie do odpowiedzialności za inny czyn wymaga odrębnej zgody, wyrażonej w trybie określonym w ust. 1–4 albo w trybie określonym w art. 7c.
 
 6. W przypadku gdy poseł lub senator wyrazi zgodę na pociągnięcie go do odpowiedzialności karnej za część czynów wskazanych we wniosku, w pozostałym zakresie wniosek jest rozpatrywany w trybie określonym w art. 7c.
 
-7. O złożeniu przez posła lub senatora oświadczenia, o którym mowa w ust. 1, Marszałek lub Marszałek Senatu niezwłocznie informuje Sejm lub Senat.
+7. O złożeniu przez posła lub senatora oświadczenia, o którym mowa w ust. 1, Marszałek Sejmu lub Marszałek Senatu niezwłocznie informuje Sejm lub Senat.
 
 8. Wycofanie zgody, o której mowa w ust. 1, jest prawnie bezskuteczne.
 
@@ -141,33 +141,33 @@ Art. 48–55. (pominięte)
 
 **Art. 9.**
 
-1. Prokurator Generalny w terminie 60 dni od dnia ogłoszenia wyników wyborów informuje Marszałka lub Marszałka Senatu o toczących się przeciwko posłom lub senatorom postępowaniach karnych wszczętych przed dniem ogłoszenia wyników wyborów.
+1. Prokurator Generalny w terminie 60 dni od dnia ogłoszenia wyników wyborów informuje Marszałka Sejmu lub Marszałka Senatu o toczących się przeciwko posłom lub senatorom postępowaniach karnych wszczętych przed dniem ogłoszenia wyników wyborów.
 
-2. W przypadku uzyskania przez posła lub senatora mandatu w trakcie kadencji lub Senatu przepis ust. 1 stosuje się odpowiednio.
+2. W przypadku uzyskania przez posła lub senatora mandatu w trakcie kadencji Sejmu lub Senatu przepis ust. 1 stosuje się odpowiednio.
 
-3. Poseł lub senator, przeciwko któremu toczy się postępowanie karne wszczęte przed dniem wyboru, może wystąpić do lub Senatu z wnioskiem o zażądanie przez Sejm lub Senat zawieszenia postępowania karnego do czasu wygaśnięcia mandatu. Wniosek nie może dotyczyć wykonania kary orzeczonej prawomocnym wyrokiem sądu.
+3. Poseł lub senator, przeciwko któremu toczy się postępowanie karne wszczęte przed dniem wyboru, może wystąpić do Sejmu lub Senatu z wnioskiem o zażądanie przez Sejm lub Senat zawieszenia postępowania karnego do czasu wygaśnięcia mandatu. Wniosek nie może dotyczyć wykonania kary orzeczonej prawomocnym wyrokiem sądu.
 
-4. Wniosek, o którym mowa w ust. 3, składa się do Marszałka lub Marszałka Senatu.
+4. Wniosek, o którym mowa w ust. 3, składa się do Marszałka Sejmu lub Marszałka Senatu.
 
 5. Wniosek, o którym mowa w ust. 3, zawiera w szczególności: dokładne oznaczenie sprawy karnej, ze wskazaniem organu, przed którym toczy się postępowanie, uzasadnienie wniosku oraz podpis wnioskodawcy.
 
-6. Jeżeli wniosek, o którym mowa w ust. 3, nie odpowiada warunkom określonym w ust. 3 i 5, Marszałek lub Marszałek Senatu, po zasięgnięciu opinii Prezydium lub Prezydium Senatu, zwraca go wnioskodawcy w celu uzupełnienia.
+6. Jeżeli wniosek, o którym mowa w ust. 3, nie odpowiada warunkom określonym w ust. 3 i 5, Marszałek Sejmu lub Marszałek Senatu, po zasięgnięciu opinii Prezydium Sejmu lub Prezydium Senatu, zwraca go wnioskodawcy w celu uzupełnienia.
 
-7. Jeżeli wniosek, o którym mowa w ust. 3, odpowiada warunkom określonym w ust. 3 i 5, Marszałek lub Marszałek Senatu kieruje ten wniosek do rozpatrzenia przez organ właściwy na podstawie regulaminów lub Senatu.
+7. Jeżeli wniosek, o którym mowa w ust. 3, odpowiada warunkom określonym w ust. 3 i 5, Marszałek Sejmu lub Marszałek Senatu kieruje ten wniosek do rozpatrzenia przez organ właściwy na podstawie regulaminów Sejmu lub Senatu.
 
 8. Do postępowania z wnioskiem, o którym mowa w ust. 3, stosuje się odpowiednio przepisy art. 7c ust. 2–5.
 
 9. Sejm lub Senat żąda zawieszenia postępowania karnego, o którym mowa w ust. 3, w drodze uchwały podjętej większością 3/5 głosów ustawowej liczby posłów lub senatorów.
 
-10. Poseł lub senator może złożyć Marszałkowi lub Marszałkowi Senatu oświadczenie, że nie będzie występował z wnioskiem, o którym mowa w ust. 3. Przepisy ust. 5 i 6 oraz art. 8 ust. 7 stosuje się odpowiednio.
+10. Poseł lub senator może złożyć Marszałkowi Sejmu lub Marszałkowi Senatu oświadczenie, że nie będzie występował z wnioskiem, o którym mowa w ust. 3. Przepisy ust. 5 i 6 oraz art. 8 ust. 7 stosuje się odpowiednio.
 
 **Art. 10.**
 
-1. Poseł lub senator nie może być zatrzymany lub aresztowany bez zgody lub Senatu, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania.
+1. Poseł lub senator nie może być zatrzymany lub aresztowany bez zgody Sejmu lub Senatu, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania.
 
 2. Zakaz zatrzymania, o którym mowa w ust. 1, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej posła lub senatora przez organy stosujące przymus.
 
-3. O zatrzymaniu posła lub senatora, o którym mowa w ust. 1, należy niezwłocznie powiadomić Marszałka lub Marszałka Senatu. Na żądanie Marszałka lub Marszałka Senatu poseł lub senator musi być natychmiast zwolniony.
+3. O zatrzymaniu posła lub senatora, o którym mowa w ust. 1, należy niezwłocznie powiadomić Marszałka Sejmu lub Marszałka Senatu. Na żądanie Marszałka Sejmu lub Marszałka Senatu poseł lub senator musi być natychmiast zwolniony.
 
 4. Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie posła lub senatora składa się za pośrednictwem Prokuratora Generalnego.
 
@@ -183,11 +183,11 @@ Art. 48–55. (pominięte)
 
 7. Sejm lub Senat wyraża zgodę na zatrzymanie lub aresztowanie posła lub senatora w drodze uchwały podjętej bezwzględną większością głosów ustawowej liczby posłów lub senatorów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie posła lub senatora.
 
-8. Wymóg uzyskania zgody lub Senatu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+8. Wymóg uzyskania zgody Sejmu lub Senatu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
 
 **Art. 10a.**
 
-1. Marszałek lub Marszałek Senatu przesyła niezwłocznie uchwałę, o której mowa w art. 7c ust. 6, art. 9 ust. 9 i art. 10 ust. 7, albo oświadczenie posła lub senatora, o którym mowa w art. 8 ust. 1, wnioskodawcy.
+1. Marszałek Sejmu lub Marszałek Senatu przesyła niezwłocznie uchwałę, o której mowa w art. 7c ust. 6, art. 9 ust. 9 i art. 10 ust. 7, albo oświadczenie posła lub senatora, o którym mowa w art. 8 ust. 1, wnioskodawcy.
 
 2. Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
@@ -199,31 +199,31 @@ Art. 48–55. (pominięte)
 
 **Art. 11.**
 
-1. W odniesieniu do posłów uzyskujących mandat w trakcie kadencji Sejmu, przepisy niniejszego rozdziału mają odpowiednie zastosowanie od dnia obsadzenia mandatu w trybie określonym w przepisach ustawy z dnia 12 kwietnia 2001 r. – Ordynacja wyborcza do Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. z 2007 r. poz. 1360, z 2008 r. poz. 1056, z 2009 r. poz. 999 oraz z 2010 r. poz. 1385) .
+1. W odniesieniu do posłów uzyskujących mandat w trakcie kadencji Sejmu, przepisy niniejszego rozdziału mają odpowiednie zastosowanie od dnia obsadzenia mandatu w trybie określonym w przepisach ustawy z dnia 12 kwietnia 2001 r. – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. z 2007 r. poz. 1360, z 2008 r. poz. 1056, z 2009 r. poz. 999 oraz z 2010 r. poz. 1385) .
 
 2. W odniesieniu do senatorów uzyskujących mandat w wyniku wyborów uzupełniających do Senatu przepisy niniejszego rozdziału stosuje się od dnia ogłoszenia wyników tych wyborów.
 
-3. Uchwała wyrażająca zgodę na pociągnięcie posła lub senatora do odpowiedzialności karnej, uchwała wyrażająca zgodę na pociągnięcie posła lub senatora do cywilnej odpowiedzialności sądowej za działalność wchodzącą w zakres sprawowania mandatu, która narusza prawa osób trzecich, oraz oświadczenie posła lub senatora o wyrażeniu zgody na pociągnięcie do odpowiedzialności karnej są skuteczne także w przypadku, gdy poseł lub senator zostanie wybrany do lub Senatu następnej kadencji.
+3. Uchwała wyrażająca zgodę na pociągnięcie posła lub senatora do odpowiedzialności karnej, uchwała wyrażająca zgodę na pociągnięcie posła lub senatora do cywilnej odpowiedzialności sądowej za działalność wchodzącą w zakres sprawowania mandatu, która narusza prawa osób trzecich, oraz oświadczenie posła lub senatora o wyrażeniu zgody na pociągnięcie do odpowiedzialności karnej są skuteczne także w przypadku, gdy poseł lub senator zostanie wybrany do Sejmu lub Senatu następnej kadencji.
 
 4. Jeżeli po nadaniu biegu wnioskowi, o którym mowa w art. 7b ust. 1, 2 albo 5 lub w art. 10 ust. 4, a przed podjęciem przez Sejm lub Senat rozstrzygnięcia w tych sprawach, upłynie kadencja Sejmu, postępowanie w danej sprawie toczy się nadal w Sejmie lub w Senacie następnej kadencji, o ile poseł lub senator, którego wniosek dotyczy, został wybrany na tę kadencję.
 
-**Art. 12.** Szczegółowy tryb postępowania w sprawach uregulowanych w niniejszym rozdziale określają regulaminy i Senatu.
+**Art. 12.** Szczegółowy tryb postępowania w sprawach uregulowanych w niniejszym rozdziale określają regulaminy Sejmu i Senatu.
 
 #### Rozdział 3 Prawa i obowiązki posłów i senatorów w Sejmie i w Senacie
 
 **Art. 13.**
 
-1. Posła i senatora obowiązuje obecność oraz czynny udział w posiedzeniach lub Senatu oraz Zgromadzenia Narodowego, a także ich organów, do których zostali wybrani.
+1. Posła i senatora obowiązuje obecność oraz czynny udział w posiedzeniach Sejmu lub Senatu oraz Zgromadzenia Narodowego, a także ich organów, do których zostali wybrani.
 
-2. Zasady usprawiedliwiania nieobecności posłów lub senatorów nieuczestniczących w posiedzeniach lub Senatu oraz Zgromadzenia Narodowego, a także ich organów, określają regulaminy lub Senatu.
+2. Zasady usprawiedliwiania nieobecności posłów lub senatorów nieuczestniczących w posiedzeniach Sejmu lub Senatu oraz Zgromadzenia Narodowego, a także ich organów, określają regulaminy Sejmu lub Senatu.
 
 **Art. 14.**
 
 1. W wykonywaniu obowiązków poselskich poseł w szczególności ma prawo:
 
-- **1)** wyrażać swoje stanowisko oraz zgłaszać wnioski w sprawach rozpatrywanych na posiedzeniach i jego organów;
+- **1)** wyrażać swoje stanowisko oraz zgłaszać wnioski w sprawach rozpatrywanych na posiedzeniach Sejmu i jego organów;
 - **2)** wybierać i być wybieranym do organów Sejmu;
-- **3)** zwracać się do Prezydium o rozpatrzenie określonej sprawy przez Sejm lub komisję sejmową;
+- **3)** zwracać się do Prezydium Sejmu o rozpatrzenie określonej sprawy przez Sejm lub komisję sejmową;
 - **4)** zwracać się do komisji sejmowej o rozpatrzenie określonej sprawy;
 - **5)** uczestniczyć w podejmowaniu poselskich inicjatyw ustawodawczych i uchwałodawczych oraz w rozpatrywaniu projektów ustaw i uchwał Sejmu;
 - **6)** uczestniczyć w dyskusji nad sprawami rozpatrywanymi przez Sejm lub komisje sejmowe;
@@ -252,7 +252,7 @@ Art. 48–55. (pominięte)
 
 **Art. 17.**
 
-1. Na zasadach określonych w regulaminie posłowie mogą tworzyć w Sejmie kluby lub koła poselskie.
+1. Na zasadach określonych w regulaminie Sejmu posłowie mogą tworzyć w Sejmie kluby lub koła poselskie.
 
 2. Na zasadach określonych w regulaminie Senatu senatorowie mogą tworzyć w Senacie kluby lub koła senackie.
 
@@ -264,11 +264,11 @@ Art. 48–55. (pominięte)
 
 1. Do obsługi swojej działalności parlamentarnej kluby i koła, o których mowa w art. 17, mogą tworzyć biura klubów i kół.
 
-2. Kluby i koła otrzymują środki finansowe na pokrycie kosztów swojej działalności, w tym na pokrycie kosztów działalności biur klubów i kół, w wysokości i na zasadach określonych wspólnie przez Marszałka i Marszałka Senatu. Środki te nie mogą być wykorzystywane na inne cele niż określone w zdaniu pierwszym.
+2. Kluby i koła otrzymują środki finansowe na pokrycie kosztów swojej działalności, w tym na pokrycie kosztów działalności biur klubów i kół, w wysokości i na zasadach określonych wspólnie przez Marszałka Sejmu i Marszałka Senatu. Środki te nie mogą być wykorzystywane na inne cele niż określone w zdaniu pierwszym.
 
 3. Przewodniczący klubu lub koła może zatrudniać w biurze pracowników na czas określony, nie dłuższy niż okres działalności klubu lub koła. Działalność klubów, kół i ich biur może być wspierana przez społecznych współpracowników.
 
-3a. Przewodniczący klubu lub koła jest obowiązany podać odpowiednio Marszałkowi albo Marszałkowi Senatu następujące dane dotyczące pracowników biura klubu lub koła oraz społecznych współpracowników:
+3a. Przewodniczący klubu lub koła jest obowiązany podać odpowiednio Marszałkowi Sejmu albo Marszałkowi Senatu następujące dane dotyczące pracowników biura klubu lub koła oraz społecznych współpracowników:
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** datę urodzenia;
@@ -276,11 +276,11 @@ Art. 48–55. (pominięte)
 - **4)** źródła dochodów w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura klubu lub koła albo społecznym współpracownikiem;
 - **5)** informację o wykonywanej działalności gospodarczej w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura klubu lub koła albo społecznym współpracownikiem.
 
-3b. Dane, o których mowa w ust. 3a, są jawne i są podawane do wiadomości publicznej odpowiednio przez Marszałka albo Marszałka Senatu w formie zapisu elektronicznego.
+3b. Dane, o których mowa w ust. 3a, są jawne i są podawane do wiadomości publicznej odpowiednio przez Marszałka Sejmu albo Marszałka Senatu w formie zapisu elektronicznego.
 
 4. Przewodniczący klubu lub koła, w ramach środków, o których mowa w ust. 2, ustala sposób wynagradzania pracowników biur klubów i kół.
 
-5. Pracownikom, o których mowa w ust. 3, zatrudnionym na podstawie umowy o pracę, przysługuje dodatkowe wynagrodzenie roczne na zasadach określonych w odrębnej ustawie. Tryb wypłacania tego wynagrodzenia określają odpowiednio Marszałek i Marszałek Senatu.
+5. Pracownikom, o których mowa w ust. 3, zatrudnionym na podstawie umowy o pracę, przysługuje dodatkowe wynagrodzenie roczne na zasadach określonych w odrębnej ustawie. Tryb wypłacania tego wynagrodzenia określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
 
 6. Pracownikom zatrudnionym w biurach klubów i kół na podstawie umowy o pracę przysługuje nagroda za wieloletnią pracę w wysokości:
 
@@ -291,30 +291,30 @@ Art. 48–55. (pominięte)
 - **5)** po 40 latach pracy – 300 % wynagrodzenia miesięcznego;
 - **6)** po 45 latach pracy – 400 % wynagrodzenia miesięcznego.
 
-7. Pracownikom biur klubów i kół, zatrudnionym w dniu zakończenia kadencji i Senatu, przysługuje odprawa w związku z zakończeniem kadencji i Senatu:
+7. Pracownikom biur klubów i kół, zatrudnionym w dniu zakończenia kadencji Sejmu i Senatu, przysługuje odprawa w związku z zakończeniem kadencji Sejmu i Senatu:
 
 - **1)** jeżeli pracownik był zatrudniony w biurze co najmniej połowę okresu trwania kadencji – w wysokości jednomiesięcznego wynagrodzenia;
 - **2)** jeżeli pracownik był zatrudniony w biurze krócej niż połowę okresu trwania kadencji – w wysokości odpowiadającej części jednomiesięcznego wynagrodzenia obliczonego za każdy przepracowany miesiąc, proporcjonalnie do przepracowanego okresu.
 
-8. Tryb obliczania oraz wypłacania nagród za wieloletnią pracę oraz odpraw w związku z zakończeniem kadencji i Senatu pracownikom, o których mowa w ust. 3, określają odpowiednio Marszałek i Marszałek Senatu.
+8. Tryb obliczania oraz wypłacania nagród za wieloletnią pracę oraz odpraw w związku z zakończeniem kadencji Sejmu i Senatu pracownikom, o których mowa w ust. 3, określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
 
-9. Środki na cele, o których mowa w ust. 5–7, zapewnia się w budżetach odpowiednio Kancelarii i Kancelarii Senatu.
+9. Środki na cele, o których mowa w ust. 5–7, zapewnia się w budżetach odpowiednio Kancelarii Sejmu i Kancelarii Senatu.
 
-10. Przewodniczący klubów i kół są obowiązani złożyć odpowiednio w Kancelarii i Kancelarii Senatu w okresach rocznych oraz na zakończenie działalności klubu i koła rozliczenie środków przeznaczonych na pokrycie kosztów działalności klubów i kół, w tym na pokrycie kosztów działalności biur klubów i kół.
+10. Przewodniczący klubów i kół są obowiązani złożyć odpowiednio w Kancelarii Sejmu i Kancelarii Senatu w okresach rocznych oraz na zakończenie działalności klubu i koła rozliczenie środków przeznaczonych na pokrycie kosztów działalności klubów i kół, w tym na pokrycie kosztów działalności biur klubów i kół.
 
-11. Warunki organizacyjno-techniczne tworzenia, funkcjonowania i znoszenia biur, o których mowa w ust. 1, określają odpowiednio Marszałek i Marszałek Senatu.
+11. Warunki organizacyjno-techniczne tworzenia, funkcjonowania i znoszenia biur, o których mowa w ust. 1, określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
 
 **Art. 18a.**
 
-1. Na zasadach określonych w regulaminie posłowie mogą tworzyć zespoły poselskie.
+1. Na zasadach określonych w regulaminie Sejmu posłowie mogą tworzyć zespoły poselskie.
 
 2. Na zasadach określonych w regulaminie Senatu senatorowie mogą tworzyć zespoły senackie.
 
-3. Na zasadach określonych w regulaminie posłowie i senatorowie mogą tworzyć zespoły parlamentarne działające w Sejmie.
+3. Na zasadach określonych w regulaminie Sejmu posłowie i senatorowie mogą tworzyć zespoły parlamentarne działające w Sejmie.
 
 4. Na zasadach określonych w regulaminie Senatu senatorowie i posłowie mogą tworzyć zespoły parlamentarne działające w Senacie.
 
-5. Warunki organizacyjno-techniczne funkcjonowania zespołów, o których mowa w ust. 1–4, określają odpowiednio Prezydium albo Prezydium Senatu.
+5. Warunki organizacyjno-techniczne funkcjonowania zespołów, o których mowa w ust. 1–4, określają odpowiednio Prezydium Sejmu albo Prezydium Senatu.
 
 #### Rozdział 4 Inne prawa i obowiązki posłów i senatorów
 
@@ -360,11 +360,11 @@ Art. 48–55. (pominięte)
 
 2. Poseł i senator mogą realizować swoją działalność terenową w wybranym okręgu lub okręgach wyborczych.
 
-3. Posłowi i senatorowi przysługuje ryczałt na pokrycie kosztów związanych z funkcjonowaniem biur, na zasadach i w wysokości określonych wspólnie przez Marszałka i Marszałka Senatu. Środki te nie mogą być wykorzystywane na inne cele niż określone w zdaniu pierwszym.
+3. Posłowi i senatorowi przysługuje ryczałt na pokrycie kosztów związanych z funkcjonowaniem biur, na zasadach i w wysokości określonych wspólnie przez Marszałka Sejmu i Marszałka Senatu. Środki te nie mogą być wykorzystywane na inne cele niż określone w zdaniu pierwszym.
 
 4. Poseł lub senator może zatrudniać pracowników w biurze we własnym imieniu na czas określony, nie dłuższy niż czas sprawowania mandatu. Działalność posła lub senatora może być wspierana przez społecznych współpracowników.
 
-4a. Poseł lub senator jest obowiązany podać odpowiednio Marszałkowi albo Marszałkowi Senatu następujące dane dotyczące pracowników biura oraz społecznych współpracowników:
+4a. Poseł lub senator jest obowiązany podać odpowiednio Marszałkowi Sejmu albo Marszałkowi Senatu następujące dane dotyczące pracowników biura oraz społecznych współpracowników:
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** datę urodzenia;
@@ -372,23 +372,23 @@ Art. 48–55. (pominięte)
 - **4)** źródła dochodów w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura albo społecznym współpracownikiem;
 - **5)** informację o wykonywanej działalności gospodarczej w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura albo społecznym współpracownikiem.
 
-4b. Dane, o których mowa w ust. 4a, są jawne i są podawane do wiadomości publicznej odpowiednio przez Marszałka albo Marszałka Senatu w formie zapisu elektronicznego.
+4b. Dane, o których mowa w ust. 4a, są jawne i są podawane do wiadomości publicznej odpowiednio przez Marszałka Sejmu albo Marszałka Senatu w formie zapisu elektronicznego.
 
 5. Poseł lub senator, w ramach środków, o których mowa w ust. 3, ustala wynagrodzenie pracowników biur.
 
-6. Pracownikom biur przysługuje dodatkowe wynagrodzenie roczne na zasadach określonych w odrębnej ustawie. Tryb wypłacania tego wynagrodzenia określają odpowiednio Marszałek i Marszałek Senatu.
+6. Pracownikom biur przysługuje dodatkowe wynagrodzenie roczne na zasadach określonych w odrębnej ustawie. Tryb wypłacania tego wynagrodzenia określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
 
-7. Pracownikom, o których mowa w ust. 4, zatrudnionym na podstawie umowy o pracę, przysługuje nagroda za wieloletnią pracę oraz odprawa w związku z zakończeniem kadencji i Senatu na zasadach określonych w art. 18 ust. 6 i 7.
+7. Pracownikom, o których mowa w ust. 4, zatrudnionym na podstawie umowy o pracę, przysługuje nagroda za wieloletnią pracę oraz odprawa w związku z zakończeniem kadencji Sejmu i Senatu na zasadach określonych w art. 18 ust. 6 i 7.
 
-8. Tryb obliczania oraz wypłacania pracownikom biur nagród za wieloletnią pracę oraz odpraw w związku z zakończeniem kadencji i Senatu określają odpowiednio Marszałek i Marszałek Senatu.
+8. Tryb obliczania oraz wypłacania pracownikom biur nagród za wieloletnią pracę oraz odpraw w związku z zakończeniem kadencji Sejmu i Senatu określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
 
-9. Środki na cele, o których mowa w ust. 6 i 7, zapewnia się w budżetach odpowiednio Kancelarii i Kancelarii Senatu.
+9. Środki na cele, o których mowa w ust. 6 i 7, zapewnia się w budżetach odpowiednio Kancelarii Sejmu i Kancelarii Senatu.
 
-10. Poseł i senator są obowiązani złożyć odpowiednio w Kancelarii i Kancelarii Senatu w okresach rocznych, w związku z wygaśnięciem mandatu oraz na koniec kadencji, rozliczenie kwot ryczałtów przeznaczonych na prowadzenie biura.
+10. Poseł i senator są obowiązani złożyć odpowiednio w Kancelarii Sejmu i Kancelarii Senatu w okresach rocznych, w związku z wygaśnięciem mandatu oraz na koniec kadencji, rozliczenie kwot ryczałtów przeznaczonych na prowadzenie biura.
 
-10a. W razie śmierci posła lub senatora oraz w przypadku, o którym mowa w art. 5a, prawa i obowiązki posła i senatora wynikające z funkcjonowania i znoszenia biura przechodzą odpowiednio na Marszałka lub Marszałka Senatu.
+10a. W razie śmierci posła lub senatora oraz w przypadku, o którym mowa w art. 5a, prawa i obowiązki posła i senatora wynikające z funkcjonowania i znoszenia biura przechodzą odpowiednio na Marszałka Sejmu lub Marszałka Senatu.
 
-11. Warunki organizacyjno-techniczne tworzenia, funkcjonowania i znoszenia biur, o których mowa w ust. 1, określają odpowiednio Marszałek i Marszałek Senatu.
+11. Warunki organizacyjno-techniczne tworzenia, funkcjonowania i znoszenia biur, o których mowa w ust. 1, określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
 
 **Art. 24.**
 
@@ -400,7 +400,7 @@ Art. 48–55. (pominięte)
 
 **Art. 25.**
 
-1. Posłom i senatorom w okresie sprawowania mandatu, licząc od pierwszego posiedzenia lub Senatu, przysługuje uposażenie poselskie lub senatorskie, zwane dalej „uposażeniem”, wypłacane miesięcznie, także za niepełne miesiące sprawowania mandatu.
+1. Posłom i senatorom w okresie sprawowania mandatu, licząc od pierwszego posiedzenia Sejmu lub Senatu, przysługuje uposażenie poselskie lub senatorskie, zwane dalej „uposażeniem”, wypłacane miesięcznie, także za niepełne miesiące sprawowania mandatu.
 
 2. Uposażenie odpowiada 80 % wysokości wynagrodzenia podsekretarza stanu, ustalonego na podstawie przepisów o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, z wyłączeniem dodatku z tytułu wysługi lat.
 
@@ -411,19 +411,19 @@ Art. 48–55. (pominięte)
 - **1)** ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672) lub ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90), który osiągnął wiek emerytalny wynoszący 60 lat dla kobiet i 65 lat dla mężczyzn,
 - **2)** ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2024 r. poz. 242) albo ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280, 1429 i 1834), którego emerytura stanowi 75 % podstawy jej wymiaru bez uwzględnienia podwyższenia z tytułu inwalidztwa pozostającego w związku ze służbą – uposażenie, o którym mowa w ust. 1 i 2, przysługuje również w razie pobierania emerytury.
 
-4. W uzasadnionych przypadkach Prezydium lub Prezydium Senatu może podjąć decyzję o przyznaniu, na wniosek posła lub senatora, o którym mowa w ust. 3, uposażenia w całości lub w części.
+4. W uzasadnionych przypadkach Prezydium Sejmu lub Prezydium Senatu może podjąć decyzję o przyznaniu, na wniosek posła lub senatora, o którym mowa w ust. 3, uposażenia w całości lub w części.
 
 5. Zasady obniżania uposażenia posłów i senatorów:
 
 - **1)** uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
 - **2)** nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
 - **3)** naruszających swoim zachowaniem powagę Sejmu, Senatu albo Zgromadzenia Narodowego na ich posiedzeniach lub posiedzeniach ich organów,
-- **4)** naruszających w rażący sposób spokój lub porządek na terenie będącym w zarządzie Kancelarii lub Kancelarii Senatu – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.
+- **4)** naruszających w rażący sposób spokój lub porządek na terenie będącym w zarządzie Kancelarii Sejmu lub Kancelarii Senatu – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.
 
 6. Szczegółowe zasady wypłacania uposażenia posłom lub senatorom, w tym:
 
 - **1)** obejmującym mandat w trakcie trwania kadencji,
-- **2)** którzy nie złożyli ślubowania na pierwszym posiedzeniu lub Senatu – określa Prezydium i Prezydium Senatu.
+- **2)** którzy nie złożyli ślubowania na pierwszym posiedzeniu Sejmu lub Senatu – określa Prezydium Sejmu i Prezydium Senatu.
 
 **Art. 26.**
 
@@ -433,7 +433,7 @@ Art. 48–55. (pominięte)
 - **2)** 15 % uposażenia – dla pełniących funkcję zastępcy przewodniczącego komisji;
 - **3)** 10 % uposażenia – dla pełniących funkcję przewodniczących stałych podkomisji.
 
-2. Prezydium oraz Prezydium Senatu mogą:
+2. Prezydium Sejmu oraz Prezydium Senatu mogą:
 
 - **1)** określać inne, niż przewidziane w ust. 1, okoliczności uzasadniające wypłacanie dodatków do uposażenia oraz ustalać ich wysokość;
 - **2)** określać komisje poselskie lub senackie, których członkowie otrzymują także inne, niż wymienione w ust. 1, dodatki do uposażenia, oraz ustalać ich wysokość;
@@ -453,10 +453,10 @@ Art. 48–55. (pominięte)
 
 3. (uchylony)
 
-4. Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw pracy, po zasięgnięciu opinii Marszałka i Marszałka Senatu, określa, w drodze rozporządzenia:
+4. Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw pracy, po zasięgnięciu opinii Marszałka Sejmu i Marszałka Senatu, określa, w drodze rozporządzenia:
 
 - **1)** wzór dokumentu potwierdzającego okres i wysokość pobieranego uposażenia, dodatków do uposażenia i składek od tych świadczeń;
-- **2)** skład zespołu powypadkowego badającego okoliczności i przyczyny wypadku przy sprawowaniu mandatu oraz zakres zadań Kancelarii i Kancelarii Senatu w stosunku do poszkodowanych w tych wypadkach posłów i senatorów, uwzględniając w szczególności czynności niezbędne do ustalenia uprawnienia do świadczeń należnych z tytułu wypadku.
+- **2)** skład zespołu powypadkowego badającego okoliczności i przyczyny wypadku przy sprawowaniu mandatu oraz zakres zadań Kancelarii Sejmu i Kancelarii Senatu w stosunku do poszkodowanych w tych wypadkach posłów i senatorów, uwzględniając w szczególności czynności niezbędne do ustalenia uprawnienia do świadczeń należnych z tytułu wypadku.
 
 **Art. 29.**
 
@@ -480,7 +480,7 @@ Art. 48–55. (pominięte)
 
 1. Pracodawca, u którego poseł lub senator otrzymał urlop bezpłatny, jest obowiązany zatrudnić go po zakończeniu urlopu bezpłatnego lub – w razie jego gotowości do pracy – po wygaśnięciu mandatu, na tym samym lub równorzędnym pod względem płacowym stanowisku pracy, z wynagrodzeniem, jakie otrzymywałby poseł lub senator, gdyby nie skorzystał z urlopu bezpłatnego.
 
-2. Rozwiązanie przez pracodawcę stosunku pracy z posłem lub senatorem, o którym mowa w ust. 1, z wyjątkiem stosunku pracy z wyboru, oraz zmiana warunków jego pracy lub płacy w ciągu dwóch lat po wygaśnięciu mandatu może nastąpić tylko za zgodą Prezydium lub Prezydium Senatu.
+2. Rozwiązanie przez pracodawcę stosunku pracy z posłem lub senatorem, o którym mowa w ust. 1, z wyjątkiem stosunku pracy z wyboru, oraz zmiana warunków jego pracy lub płacy w ciągu dwóch lat po wygaśnięciu mandatu może nastąpić tylko za zgodą Prezydium Sejmu lub Prezydium Senatu.
 
 3. Stosunek pracy z nauczycielem lub nauczycielem akademickim nie może wygasnąć wcześniej niż z końcem roku szkolnego lub akademickiego, następującym po upływie okresu, o którym mowa w art. 29 ust. 1.
 
@@ -492,7 +492,7 @@ Art. 48–55. (pominięte)
 
 **Art. 33.**
 
-1. Poseł lub senator jest obowiązany powiadomić odpowiednio Marszałka lub Marszałka Senatu o zamiarze podjęcia dodatkowych zajęć, z wyjątkiem działalności podlegającej prawu autorskiemu i prawom pokrewnym.
+1. Poseł lub senator jest obowiązany powiadomić odpowiednio Marszałka Sejmu lub Marszałka Senatu o zamiarze podjęcia dodatkowych zajęć, z wyjątkiem działalności podlegającej prawu autorskiemu i prawom pokrewnym.
 
 2. Posłowie i senatorowie nie mogą podejmować dodatkowych zajęć ani otrzymywać darowizn, mogących podważyć zaufanie wyborców do wykonywania mandatu zgodnie z art. 1 ust. 1.
 
@@ -508,7 +508,7 @@ Art. 48–55. (pominięte)
 
 3. Jeżeli wybór lub powołanie, o którym mowa w ust. 2, miało miejsce przed rozpoczęciem wykonywania mandatu, poseł i senator jest obowiązany zrzec się stanowiska lub funkcji. W razie niezrzeczenia się stanowiska lub funkcji, poseł i senator traci je z mocy prawa po upływie trzech miesięcy od dnia złożenia ślubowania, o którym mowa w art. 2.
 
-4. Posłowie i senatorowie nie mogą posiadać pakietu większego niż 10 % udziałów lub akcji w spółkach prawa handlowego z udziałem państwowych lub komunalnych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Udziały lub akcje przekraczające ten pakiet powinny być zbyte przez posła lub senatora przed pierwszym posiedzeniem lub Senatu, a w razie niezbycia ich nie uczestniczą one przez okres sprawowania mandatu i dwu lat po jego wygaśnięciu w wykonywaniu przysługujących im uprawnień (prawa głosu, prawa do dywidendy, prawa do podziału majątku, prawa poboru).
+4. Posłowie i senatorowie nie mogą posiadać pakietu większego niż 10 % udziałów lub akcji w spółkach prawa handlowego z udziałem państwowych lub komunalnych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Udziały lub akcje przekraczające ten pakiet powinny być zbyte przez posła lub senatora przed pierwszym posiedzeniem Sejmu lub Senatu, a w razie niezbycia ich nie uczestniczą one przez okres sprawowania mandatu i dwu lat po jego wygaśnięciu w wykonywaniu przysługujących im uprawnień (prawa głosu, prawa do dywidendy, prawa do podziału majątku, prawa poboru).
 
 5. Naruszenie przez posła lub senatora przepisów ust. 1–3 powoduje odpowiedzialność regulaminową.
 
@@ -523,17 +523,17 @@ Art. 48–55. (pominięte)
 
 2. Wzór oświadczenia o stanie majątkowym stanowi załącznik do ustawy.
 
-3. Oświadczenie o stanie majątkowym składa się w dwóch egzemplarzach odpowiednio Marszałkowi albo Marszałkowi Senatu w następujących terminach:
+3. Oświadczenie o stanie majątkowym składa się w dwóch egzemplarzach odpowiednio Marszałkowi Sejmu albo Marszałkowi Senatu w następujących terminach:
 
 - **1)** do dnia złożenia ślubowania, wraz z informacją o sposobie i terminach zaprzestania prowadzenia działalności gospodarczej z wykorzystaniem majątku Skarbu Państwa lub samorządu terytorialnego w związku z wyborem na posła albo senatora oraz z informacją o posiadaniu majątku Skarbu Państwa lub samorządu terytorialnego;
 - **2)** do dnia 30 kwietnia każdego roku, według stanu na dzień 31 grudnia roku poprzedniego, dołączając kopię rocznego zeznania podatkowego (PIT);
-- **3)** w terminie miesiąca od dnia zarządzenia nowych wyborów do i Senatu.
+- **3)** w terminie miesiąca od dnia zarządzenia nowych wyborów do Sejmu i Senatu.
 
-4. Jeden egzemplarz oświadczenia o stanie majątkowym Marszałek albo Marszałek Senatu przekazuje do urzędu skarbowego właściwego ze względu na miejsce zamieszkania posła lub senatora.
+4. Jeden egzemplarz oświadczenia o stanie majątkowym Marszałek Sejmu albo Marszałek Senatu przekazuje do urzędu skarbowego właściwego ze względu na miejsce zamieszkania posła lub senatora.
 
-5. Informacje zawarte w oświadczeniu o stanie majątkowym są jawne, z wyłączeniem informacji o adresie zamieszkania posła albo senatora oraz o miejscu położenia nieruchomości. Jawne informacje zawarte w oświadczeniu o stanie majątkowym są podawane do wiadomości publicznej odpowiednio przez Marszałka albo Marszałka Senatu w formie zapisu elektronicznego.
+5. Informacje zawarte w oświadczeniu o stanie majątkowym są jawne, z wyłączeniem informacji o adresie zamieszkania posła albo senatora oraz o miejscu położenia nieruchomości. Jawne informacje zawarte w oświadczeniu o stanie majątkowym są podawane do wiadomości publicznej odpowiednio przez Marszałka Sejmu albo Marszałka Senatu w formie zapisu elektronicznego.
 
-6. Analizy danych zawartych w oświadczeniach o stanie majątkowym dokonują właściwe komisje powołane odpowiednio przez Sejm albo Senat w trybie określonym w regulaminach odpowiednio albo Senatu oraz właściwe urzędy skarbowe. Podmiot dokonujący analizy danych zawartych w oświadczeniu jest uprawniony do porównania treści analizowanego oświadczenia z treścią uprzednio złożonych oświadczeń oraz z dołączoną kopią rocznego zeznania podatkowego (PIT). Wyniki analizy przedstawia się odpowiednio Prezydium albo Prezydium Senatu.
+6. Analizy danych zawartych w oświadczeniach o stanie majątkowym dokonują właściwe komisje powołane odpowiednio przez Sejm albo Senat w trybie określonym w regulaminach odpowiednio Sejmu albo Senatu oraz właściwe urzędy skarbowe. Podmiot dokonujący analizy danych zawartych w oświadczeniu jest uprawniony do porównania treści analizowanego oświadczenia z treścią uprzednio złożonych oświadczeń oraz z dołączoną kopią rocznego zeznania podatkowego (PIT). Wyniki analizy przedstawia się odpowiednio Prezydium Sejmu albo Prezydium Senatu.
 
 6a. Kontroli rzetelności i prawdziwości oświadczeń o stanie majątkowym, o których mowa w ust. 1, dokonuje Centralne Biuro Antykorupcyjne w trybie i na zasadach określonych w rozdz. 4 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2024 r. poz. 184).
 
@@ -593,7 +593,7 @@ Art. 48–55. (pominięte)
 
 2. Byli posłowie i senatorowie oraz członkowie ich rodzin korzystają z funduszu świadczeń socjalnych na zasadach określonych w przepisach o zakładowym funduszu świadczeń socjalnych.
 
-3. Zasady przeznaczania środków z funduszu, o którym mowa w ust. 1, na poszczególne cele i rodzaje działalności socjalnej oraz zasady i warunki korzystania z usług i świadczeń finansowanych z tego funduszu określają odpowiednio Marszałek i Marszałek Senatu.
+3. Zasady przeznaczania środków z funduszu, o którym mowa w ust. 1, na poszczególne cele i rodzaje działalności socjalnej oraz zasady i warunki korzystania z usług i świadczeń finansowanych z tego funduszu określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
 
 **Art. 42.**
 
@@ -608,15 +608,15 @@ Art. 48–55. (pominięte)
 - **1)** uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
 - **2)** nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
 - **3)** naruszających swoim zachowaniem powagę Sejmu, Senatu albo Zgromadzenia Narodowego na ich posiedzeniach lub posiedzeniach ich organów,
-- **4)** naruszających w rażący sposób spokój lub porządek na terenie będącym w zarządzie Kancelarii lub Kancelarii Senatu – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.
+- **4)** naruszających w rażący sposób spokój lub porządek na terenie będącym w zarządzie Kancelarii Sejmu lub Kancelarii Senatu – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.
 
-5. Szczegółowe zasady i tryb wypłaty diet parlamentarnych oraz należności posłów i senatorów delegowanych przez Sejm i Senat poza granice kraju określają wspólnie Prezydium i Prezydium Senatu.
+5. Szczegółowe zasady i tryb wypłaty diet parlamentarnych oraz należności posłów i senatorów delegowanych przez Sejm i Senat poza granice kraju określają wspólnie Prezydium Sejmu i Prezydium Senatu.
 
 **Art. 43.**
 
 1. Poseł i senator ma prawo, na terenie kraju, do bezpłatnego przejazdu środkami publicznego transportu zbiorowego oraz przelotów w krajowym przewozie lotniczym, a także do bezpłatnych przejazdów środkami publicznej komunikacji miejskiej.
 
-2. Minister właściwy do spraw transportu, po zasięgnięciu opinii Prezydium i Prezydium Senatu, określa, w drodze rozporządzenia, tryb korzystania z uprawnień, o których mowa w ust. 1, z wyłączeniem przejazdów publicznymi środkami komunikacji miejskiej.
+2. Minister właściwy do spraw transportu, po zasięgnięciu opinii Prezydium Sejmu i Prezydium Senatu, określa, w drodze rozporządzenia, tryb korzystania z uprawnień, o których mowa w ust. 1, z wyłączeniem przejazdów publicznymi środkami komunikacji miejskiej.
 
 **Art. 44.**
 
@@ -624,7 +624,7 @@ Art. 48–55. (pominięte)
 
 2. Posłowie i senatorowie otrzymują koperty z papierem listowym, oznaczone odpowiednim nadrukiem, do prowadzenia korespondencji związanej z wykonywaniem mandatu bez uiszczania przez nich opłat pocztowych.
 
-3. Szczegółowe zasady realizacji uprawnień, o których mowa w ust. 1 i 2, określają Prezydium i Prezydium Senatu.
+3. Szczegółowe zasady realizacji uprawnień, o których mowa w ust. 1 i 2, określają Prezydium Sejmu i Prezydium Senatu.
 
 **Art. 45.**
 
@@ -634,19 +634,19 @@ Art. 48–55. (pominięte)
 
 2. Posłom i senatorom wydaje się karty do głosowania.
 
-3. Wzór legitymacji i karty do głosowania, a także tryb postępowania oraz warunki wydawania ich duplikatów w razie zniszczenia lub zagubienia określają odpowiednio Marszałek i Marszałek Senatu.
+3. Wzór legitymacji i karty do głosowania, a także tryb postępowania oraz warunki wydawania ich duplikatów w razie zniszczenia lub zagubienia określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
 
 **Art. 46.**
 
-1. Prezydium i Prezydium Senatu udzielają posłom i senatorom pomocy w wykonywaniu przez nich mandatów, czuwają nad wykonywaniem przez nich obowiązków parlamentarnych, jak również nad wykonywaniem wobec nich obowiązków określonych w ustawie przez organy państwowe i samorządu terytorialnego oraz podporządkowane im jednostki.
+1. Prezydium Sejmu i Prezydium Senatu udzielają posłom i senatorom pomocy w wykonywaniu przez nich mandatów, czuwają nad wykonywaniem przez nich obowiązków parlamentarnych, jak również nad wykonywaniem wobec nich obowiązków określonych w ustawie przez organy państwowe i samorządu terytorialnego oraz podporządkowane im jednostki.
 
-2. Kancelaria i Kancelaria Senatu, każda według swej właściwości, zapewniają i organizują obsługę posłów i senatorów niezbędną do wykonywania przez nich obowiązków oraz pomoc merytoryczną, zwłaszcza w zakresie dostępu do opracowań specjalistycznych, literatury i ekspertyz.
+2. Kancelaria Sejmu i Kancelaria Senatu, każda według swej właściwości, zapewniają i organizują obsługę posłów i senatorów niezbędną do wykonywania przez nich obowiązków oraz pomoc merytoryczną, zwłaszcza w zakresie dostępu do opracowań specjalistycznych, literatury i ekspertyz.
 
-3. Zadania Prezydium i Prezydium Senatu, o których mowa w ust. 1, określają szczegółowo regulaminy i Senatu, a zadania Kancelarii i Kancelarii Senatu, o których mowa w ust. 2, określają szczegółowo regulaminy i Senatu oraz uchwały Prezydium i Prezydium Senatu.
+3. Zadania Prezydium Sejmu i Prezydium Senatu, o których mowa w ust. 1, określają szczegółowo regulaminy Sejmu i Senatu, a zadania Kancelarii Sejmu i Kancelarii Senatu, o których mowa w ust. 2, określają szczegółowo regulaminy Sejmu i Senatu oraz uchwały Prezydium Sejmu i Prezydium Senatu.
 
-**Art. 47.** Wydatki wynikające z uprawnień posłów i senatorów pokrywa się z budżetu państwa, w części dotyczącej odpowiednio Kancelarii lub Kancelarii Senatu.
+**Art. 47.** Wydatki wynikające z uprawnień posłów i senatorów pokrywa się z budżetu państwa, w części dotyczącej odpowiednio Kancelarii Sejmu lub Kancelarii Senatu.
 
-**Art. 47a.** Nie podlegają ogłoszeniu przepisy wydane na podstawie art. 18 ust. 2, 5, 8 i 11, art. 23 ust. 3, 6, 8 i 11, art. 25 ust. 6, art. 26 ust. 2, art. 37 ust. 3, art. 41 ust. 3, art. 42 ust. 5, art. 44 ust. 3 i art. 45 ust. 3 w zakresie, w jakim nie dotyczy wzoru legitymacji poselskiej i senatorskiej, i na podstawie art. 46 ust. 3 w zakresie uchwał Prezydium i Prezydium Senatu.
+**Art. 47a.** Nie podlegają ogłoszeniu przepisy wydane na podstawie art. 18 ust. 2, 5, 8 i 11, art. 23 ust. 3, 6, 8 i 11, art. 25 ust. 6, art. 26 ust. 2, art. 37 ust. 3, art. 41 ust. 3, art. 42 ust. 5, art. 44 ust. 3 i art. 45 ust. 3 w zakresie, w jakim nie dotyczy wzoru legitymacji poselskiej i senatorskiej, i na podstawie art. 46 ust. 3 w zakresie uchwał Prezydium Sejmu i Prezydium Senatu.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
@@ -657,4 +657,41 @@ Art. 48–55. (pominięte)
 2. Do posłów i senatorów kadencji, w czasie której niniejsza ustawa weszła w życie, niekorzystających z urlopów bezpłatnych na okres sprawowania mandatu, stosuje się przepis art. 26 ustawy, o której mowa w ust. 1.
 
 **Art. 57.** Ustawa wchodzi w życie z dniem 1 lipca 1996 r., z wyjątkiem:
+
+- **1)** rozdziału 2 i art. 51, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
+- **2)** art. 34 ust. 3 i 4 oraz art. 42 ust. 3, które wchodzą w życie po upływie 4 miesięcy od dnia ogłoszenia. Załącznik do ustawy z dnia 9 maja 1996 r. (Dz. U. z 2024 r. poz.
+- **907)** Uwaga!
+
+1. Osoba składająca oświadczenie o stanie majątkowym obowiązana jest do zgodnego z prawdą, starannego i zupełnego wypełnienia każdej z rubryk.
+
+2. Jeżeli poszczególne rubryki nie znajdują w konkretnym przypadku zastosowania, należy wpisać „nie dotyczy”.
+
+3. Oświadczenie o stanie majątkowym dotyczy majątku w kraju i za granicą.
+
+4. Oświadczenie o stanie majątkowym obejmuje również wierzytelności pieniężne. Oświadczenie o stanie majątkowym Ja, niżej podpisany(a), ................................................................................................... urodzony(a) ................................................ w .............................................................. ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ zamieszkały(a) .............................................................................................................. ........................................................................................................................................ po zapoznaniu się z przepisami ustawy z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. z 2024 r. poz. 907), zgodnie z art. 35 tej ustawy oświadczam, że posiadam wchodzące w skład małżeńskiej wspólności majątkowej lub stanowiące mój majątek odrębny: I. Zasoby pieniężne: – środki pieniężne zgromadzone w walucie polskiej: ................................................... ..................................................................................................................................... ..................................................................................................................................... – środki pieniężne zgromadzone w walucie obcej: ....................................................... ..................................................................................................................................... ..................................................................................................................................... – papiery wartościowe: ................................................................................................. ..................................................................................................................................... ............................................................................................ na kwotę: ........................ II.
+
+1. Dom o powierzchni: .............................. m , adres: .................................................. .......................................................... o wartości: ....................................................... tytuł prawny: ..............................................................................................................
+
+2. Mieszkanie o powierzchni: ............................................ m , adres: ............................................................................................................... ............................................................ o wartości: ..................................................... tytuł prawny: ..............................................................................................................
+
+3. Gospodarstwo rolne: rodzaj gospodarstwa: .............................................. powierzchnia: ........................... adres: .......................................................................................................................... o wartości: .................................................................................................................. rodzaj zabudowy: ....................................................................................................... tytuł prawny: .............................................................................................................. Z tego tytułu osiągnąłem(ęłam) w roku ubiegłym przychód i dochód w wysokości: ....................................................................................................................................
+
+4. Inne nieruchomości: powierzchnia: ............................................................................................................. ..................................................................................................................................... adres: .......................................................................................................................... ..................................................................................................................................... o wartości: .................................................................................................................. ..................................................................................................................................... tytuł prawny: .............................................................................................................. ..................................................................................................................................... III. Uczestniczę w spółce cywilnej lub w osobowej spółce handlowej (jawnej, partnerskiej, komandytowej, komandytowo-akcyjnej) – należy podać wysokość wniesionych wkładów: ....................................................................................................................... ........................................................................................................................................ ........................................................................................................................................ Z tego tytułu osiągnąłem(ęłam) w roku ubiegłym przychód i dochód w wysokości: .. ........................................................................................................................................ IV.
+
+1. Posiadam udziały w spółce handlowej z udziałem państwowych lub komunalnych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby – należy podać liczbę i emitenta udziałów: .............................................................................. ..................................................................................................................................... ..................................................................................................................................... ..................................................................................................................................... udziały te stanowią pakiet większy niż 10 % udziałów w spółce: ............................ ..................................................................................................................................... Z tego tytułu osiągnąłem(ęłam) w roku ubiegłym dochód w wysokości: ................. .....................................................................................................................................
+
+2. Posiadam udziały w innych spółkach handlowych – należy podać liczbę i emitenta udziałów: .................................................................................................................... ..................................................................................................................................... ..................................................................................................................................... Z tego tytułu osiągnąłem(ęłam) w roku ubiegłym dochód w wysokości: ................. ..................................................................................................................................... V.
+
+1. Posiadam akcje w spółkach handlowych z udziałem państwowych lub komunalnych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby – należy podać liczbę i emitenta akcji: .................................................................................... ..................................................................................................................................... ..................................................................................................................................... akcje te stanowią pakiet większy niż 10 % akcji w spółce: ....................................... ..................................................................................................................................... Z tego tytułu osiągnąłem(ęłam) w roku ubiegłym dochód w wysokości: ................. .....................................................................................................................................
+
+2. Posiadam akcje w innych spółkach handlowych – należy podać liczbę i emitenta akcji: .............................................................................................................................. ..................................................................................................................................... ..................................................................................................................................... Z tego tytułu osiągnąłem(ęłam) w roku ubiegłym dochód w wysokości: ................. ..................................................................................................................................... VI. Nabyłem(am) (nabył mój małżonek) od Skarbu Państwa, innej państwowej osoby prawnej, jednostek samorządu terytorialnego, ich związków lub komunalnej osoby prawnej następujące mienie, które podlegało zbyciu w drodze przetargu – należy podać opis mienia i datę nabycia, od kogo: ............................................................................. ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ VII.
+
+1. Prowadzę działalność gospodarczą (należy podać formę prawną i przedmiot działalności): ................................................................................................................. ..................................................................................................................................... ..................................................................................................................................... – osobiście .................................................................................................................. .................................................................................................................................. – wspólnie z innymi osobami ..................................................................................... .................................................................................................................................. Z tego tytułu osiągnąłem(ęłam) w roku ubiegłym przychód i dochód w wysokości: .....................................................................................................................................
+
+2. Zarządzam działalnością gospodarczą lub jestem przedstawicielem, pełnomocnikiem takiej działalności (należy podać formę prawną i przedmiot działalności): ........................................................................................... ..................................................................................................................................... ..................................................................................................................................... – osobiście ................................................................................................................. .................................................................................................................................... – wspólnie z innymi osobami .................................................................................... .................................................................................................................................. Z tego tytułu osiągnąłem(ęłam) w roku ubiegłym dochód w wysokości: ................. ..................................................................................................................................... VIII.
+
+1. W spółce handlowej (nazwa, siedziba spółki): ......................................................... .................................................................................................................................... – jestem członkiem zarządu (od kiedy): .................................................................... .................................................................................................................................. – jestem członkiem rady nadzorczej (od kiedy): ....................................................... .................................................................................................................................. – jestem członkiem komisji rewizyjnej (od kiedy): .................................................. .................................................................................................................................. Z tego tytułu osiągnąłem(ęłam) w roku ubiegłym dochód w wysokości: ................. ....................................................................................................................................
+
+2. W fundacjach i stowarzyszeniach prowadzących działalność gospodarczą: ............ .................................................................................................................................... – jestem członkiem zarządu (od kiedy): ................................................................... .................................................................................................................................. – jestem członkiem rady nadzorczej (od kiedy): . ..................................................... .................................................................................................................................. – jestem członkiem komisji rewizyjnej (od kiedy): .................................................. .................................................................................................................................. Z tego tytułu osiągnąłem(ęłam) w roku ubiegłym dochód w wysokości: ................ .................................................................................................................................... IX. Inne dochody osiągane z tytułu zatrudnienia lub innej działalności zarobkowej lub zajęć, z podaniem kwot uzyskiwanych z każdego tytułu: ............................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ X. Składniki mienia ruchomego o wartości powyżej 10 000 złotych (w przypadku pojazdów mechanicznych należy podać markę, model i rok produkcji): ..................... ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ XI. Zobowiązania pieniężne o wartości powyżej 10 000 złotych, w tym zaciągnięte kredyty i pożyczki oraz warunki, na jakich zostały udzielone (wobec kogo, w związku z jakim zdarzeniem, w jakiej wysokości): .................................................................... ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ ........................................................................................................................................ Powyższe oświadczenie składam świadomy(a), iż na podstawie art. 233 § 1 Kodeksu karnego za podanie nieprawdy lub zatajenie prawdy grozi kara pozbawienia wolności. ...................................................................... ...............................................
+
 

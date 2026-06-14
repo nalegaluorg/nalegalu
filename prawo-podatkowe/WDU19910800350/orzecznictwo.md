@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.*
 
-Łącznie: **2172** orzeczeń
-(pominięto 1213 orzeczeń sądów rejonowych)
+Łącznie: **2177** orzeczeń
+(pominięto 1216 orzeczeń sądów rejonowych)
 
 ## art. 1 (5)
 
@@ -771,10 +771,11 @@ Orzeczenia powołujące: *Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od
 - 2015-10-30 | SO | [VII Pa 230/15](https://www.saos.org.pl/judgments/188219) | Uzasadnienie
 - 2014-11-27 | SO | [VII Ka 830/14](https://www.saos.org.pl/judgments/70023) | Uzasadnienie
 
-## art. 12 (1057)
+## art. 12 (1060)
 
 - 2000-07-06 | SN | [III ZP 9/00](https://www.saos.org.pl/judgments/79831) | Uchwała ★
 - 2013-01-14 | SN | [I PK 171/12](https://www.saos.org.pl/judgments/165511) | Wyrok ★
+- 2025-11-04 | SO | [III AUa 1418/25](https://www.saos.org.pl/judgments/545508) | Wyrok
 - 2025-07-09 | SO | [III AUa 1226/24](https://www.saos.org.pl/judgments/537900) | Wyrok
 - 2025-06-25 | SO | [III AUa 1104/24](https://www.saos.org.pl/judgments/537896) | Wyrok
 - 2025-05-07 | SO | [III AUa 606/24](https://www.saos.org.pl/judgments/531040) | Wyrok
@@ -1536,6 +1537,8 @@ Orzeczenia powołujące: *Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od
 - 2017-02-23 | SO | [III AUa 371/16](https://www.saos.org.pl/judgments/409738) | Postanowienie
 - 2013-01-21 | SO | [III AUa 1091/12](https://www.saos.org.pl/judgments/5932) | Postanowienie
 - 2020-03-05 | SO | [III AUa 360/19](https://www.saos.org.pl/judgments/417299) | Uzasadnienie
+- 2026-03-18 | SO | [VII U 1538/24](https://www.saos.org.pl/judgments/545342) | Wyrok
+- 2026-03-10 | SO | [VII U 1534/24](https://www.saos.org.pl/judgments/545651) | Wyrok
 - 2025-11-26 | SO | [VII U 192/25](https://www.saos.org.pl/judgments/539758) | Wyrok
 - 2025-11-18 | SO | [VII U 874/21](https://www.saos.org.pl/judgments/538971) | Wyrok
 - 2025-11-12 | SO | [VII U 972/24](https://www.saos.org.pl/judgments/538608) | Wyrok
@@ -2117,7 +2120,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od
 - 2018-04-06 | SO | [I C 4013/17](https://www.saos.org.pl/judgments/358725) | Wyrok
 - 2016-10-11 | SO | [III Ca 370/16](https://www.saos.org.pl/judgments/255199) | Uzasadnienie
 
-## art. 21 (235)
+## art. 21 (236)
 
 - 1994-05-24 | TK | [K 1/94](https://www.saos.org.pl/judgments/205592) | Wyrok ★
 - 2014-07-23 | TK | [Ts 129/14](https://www.saos.org.pl/judgments/159966) | Postanowienie ★
@@ -2295,6 +2298,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od
 - 2024-12-30 | SO | [VII U 157/23](https://www.saos.org.pl/judgments/522328) | Wyrok
 - 2024-12-18 | SO | [VII U 990/23](https://www.saos.org.pl/judgments/520242) | Wyrok
 - 2024-12-11 | SO | [VII U 357/24](https://www.saos.org.pl/judgments/520239) | Wyrok
+- 2024-11-22 | SO | [VI P 182/20](https://www.saos.org.pl/judgments/545973) | Wyrok
 - 2024-10-30 | SO | [VII U 429/23](https://www.saos.org.pl/judgments/518010) | Wyrok
 - 2024-10-09 | SO | [VII U 1676/23](https://www.saos.org.pl/judgments/518715) | Wyrok
 - 2024-09-25 | SO | [VII U 1718/23](https://www.saos.org.pl/judgments/517433) | Wyrok
@@ -2539,9 +2543,10 @@ Orzeczenia powołujące: *Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od
 - 2017-05-29 | SO | [VIII U 2464/16](https://www.saos.org.pl/judgments/289464) | Zarządzenie
 - 2017-01-09 | SO | [VIII Ua 92/16](https://www.saos.org.pl/judgments/266934) | Uzasadnienie
 
-## art. 27 (93)
+## art. 27 (94)
 
 - 1994-03-29 | TK | [K 13/93](https://www.saos.org.pl/judgments/205602) | Wyrok ★
+- 2026-04-01 | SO | [III AUa 114/24](https://www.saos.org.pl/judgments/545455) | Wyrok
 - 2025-08-06 | SO | [III AUa 99/25](https://www.saos.org.pl/judgments/537948) | Wyrok
 - 2025-06-12 | SO | [III AUa 631/24](https://www.saos.org.pl/judgments/537929) | Wyrok
 - 2025-04-30 | SO | [III AUa 709/24](https://www.saos.org.pl/judgments/537936) | Wyrok
@@ -2651,9 +2656,10 @@ Orzeczenia powołujące: *Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od
 - 2024-04-05 | SO | [VII U 1329/23](https://www.saos.org.pl/judgments/511960) | Wyrok
 - 2024-01-10 | SO | [VII U 819/23](https://www.saos.org.pl/judgments/512217) | Wyrok
 
-## art. 30 (84)
+## art. 30 (85)
 
 - 2002-04-18 | SN | [III RN 55/01](https://www.saos.org.pl/judgments/81351) | Wyrok ★
+- 2026-04-01 | SO | [III AUa 114/24](https://www.saos.org.pl/judgments/545455) | Wyrok
 - 2025-08-06 | SO | [III AUa 99/25](https://www.saos.org.pl/judgments/537948) | Wyrok
 - 2025-06-12 | SO | [III AUa 631/24](https://www.saos.org.pl/judgments/537929) | Wyrok
 - 2025-04-30 | SO | [III AUa 709/24](https://www.saos.org.pl/judgments/537936) | Wyrok

@@ -8,7 +8,7 @@ pos: 748
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o systemie powiadamiania ratunkowego
@@ -30,6 +30,15 @@ source: "isap-pdf"
 **Art. 1.** Ustawa określa zadania i zasady działania w ramach systemu powiadamiania ratunkowego, zasady jego finansowania oraz organy właściwe w sprawach powiadamiania ratunkowego.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** zgłoszeniu alarmowym – należy przez to rozumieć informację o wystąpieniu lub podejrzeniu wystąpienia nagłego zagrożenia życia lub zdrowia, w tym aktu przemocy, a także nagłego zagrożenia środowiska lub mienia oraz zagrożeń bezpieczeństwa i porządku publicznego, kierowaną do numerów obsługiwanych w ramach systemu powiadamiania ratunkowego, przez dostawcę publicznie dostępnych usług komunikacji interpersonalnej wykorzystujących numery z planu numeracji krajowej lub międzynarodowych planów numeracji i umożliwiających nawiązywanie połączeń z numerami z tych planów, z zewnętrznych systemów monitoringu albo z wykorzystaniem środków komunikacji, które umożliwiają niezwłoczne przekazanie tej informacji do centrum powiadamiania ratunkowego;
+- **2)** obsłudze zgłoszeń alarmowych – należy przez to rozumieć zespół czynności mających na celu odbiór zgłoszenia alarmowego, zakwalifikowanie tego zgłoszenia, przekazanie go drogą elektroniczną z wykorzystaniem systemu teleinformatycznego do właściwego merytorycznie ze względu na rodzaj zgłoszenia podmiotu ratowniczego, a w przypadku gdy zachodzi taka potrzeba – przekierowanie połączenia głosowego do podmiotu ratowniczego lub podmiotu pomocniczego, a także monitorowanie statusu tego zgłoszenia w systemie teleinformatycznym;
+- **3)** zasobach ratowniczych – należy przez to rozumieć siły i środki, w tym ludzi, infrastrukturę, materiały i środki finansowe oraz bazy danych i systemy wymiany informacji, które mogą być zadysponowane w związku ze zgłoszeniem alarmowym;
+- **4)** systemie teleinformatycznym – należy przez to rozumieć zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania zapewniający przetwarzanie, przechowywanie, a także wysyłanie i odbieranie danych przez sieci telekomunikacyjne za pomocą właściwego dla danego rodzaju sieci telekomunikacyjnego urządzenia końcowego w rozumieniu art. 2 pkt 71 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221), wykorzystywany do wykonywania zadań centrum powiadamiania ratunkowego;
+- **5)** sieci teleinformatycznej na potrzeby obsługi numerów alarmowych – należy przez to rozumieć sieć teleinformatyczną łączącą centra powiadamiania ratunkowego, Krajowe Centrum Monitorowania Systemu Powiadamiania Ratunkowego, jednostki organizacyjne Policji, Państwowej Straży Pożarnej i urzędu obsługującego ministra właściwego do spraw zdrowia, dyspozytornie medyczne oraz dysponentów zespołów ratownictwa medycznego, służącą do wymiany danych dotyczących zgłoszenia alarmowego przez interfejs komunikacyjny systemów teleinformatycznych i umożliwiającą dostęp do danych przestrzennych, informacji dotyczących lokalizacji zakończenia sieci, z którego zostało wykonane połączenie na numer alarmowy, oraz danych dotyczących abonenta;
+- **6)** podmiocie ratowniczym – należy przez to rozumieć jednostkę organizacyjną Policji i Państwowej Straży Pożarnej, dyspozytornię medyczną oraz podmiot, do którego zadań należy ochrona życia, zdrowia, bezpieczeństwa i porządku publicznego, mienia lub środowiska, zarejestrowany w systemie teleinformatycznym, którego numer telefoniczny jest obsługiwany w ramach systemu powiadamiania ratunkowego;
+- **7)** podmiocie pomocniczym – należy przez to rozumieć podmiot, do którego zadań należy ochrona życia, zdrowia, bezpieczeństwa i porządku publicznego, mienia lub środowiska, zarejestrowany w systemie teleinformatycznym, którego numer telefoniczny nie jest obsługiwany w ramach systemu powiadamiania ratunkowego;
+- **8)** aplikacji mobilnej – należy przez to rozumieć aplikację będącą częścią systemu teleinformatycznego umożliwiającą wysyłanie zgłoszeń alarmowych za pośrednictwem krótkich wiadomości tekstowych (sms) do centrum powiadamiania ratunkowego.
 
 **Art. 3.**
 
@@ -145,6 +154,12 @@ source: "isap-pdf"
 3. Pierwsza umowa o pracę zawierana z osobą zatrudnianą na stanowisku operatora numerów alarmowych jest zawierana na okres próbny 6 miesięcy.
 
 **Art. 9.** Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia:
+
+- **1)** organizację centrum oraz oddziałów centrum, o których mowa w art. 6 ust. 3,
+- **2)** sposób funkcjonowania centrum i sposób realizacji jego zadań przez operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów oraz koordynatorów-trenerów,
+- **3)** procedury obsługi zgłoszeń alarmowych oraz sposób ich opracowywania i aktualizacji,
+- **4)** procedury obsługi zgłoszeń alarmowych w przypadku, o którym mowa w art. 8 ust. 2, oraz sposób ich opracowywania i aktualizacji,
+- **5)** maksymalną liczbę operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów i koordynatorów-trenerów oraz sposób jej podziału na poszczególne centra – uwzględniając konieczność ujednolicenia struktury organizacyjnej i realizacji zadań przez centrum oraz jego oddziały, zapewnienia właściwego funkcjonowania centrum i jego oddziałów i sprawnej obsługi zgłoszeń alarmowych oraz unifikacji procedur ich obsługi.
 
 **Art. 10.**
 
@@ -377,6 +392,21 @@ source: "isap-pdf"
 **Art. 18.** (uchylony)
 
 **Art. 18a.** Do zadań KCMSPR należą:
+
+- **1)** utrzymanie i rozwój systemu teleinformatycznego;
+- **2)** zachowanie ciągłości funkcjonowania systemu teleinformatycznego;
+- **3)** przygotowywanie i prowadzenie szkoleń podstawowych dla operatorów numerów alarmowych;
+- **4)** przygotowywanie i prowadzenie szkoleń w ramach doskonalenia zawodowego dla operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów oraz koordynatorów-trenerów;
+- **5)** przygotowywanie i prowadzenie szkoleń dla kierowników centrum;
+- **6)** opracowywanie szczegółowego programu szkoleń:
+    - **a)** podstawowych dla operatorów numerów alarmowych,
+    - **b)** w ramach doskonalenia zawodowego dla operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów oraz koordynatorów-trenerów;
+
+- **7)** prowadzenie platformy szkoleniowej (e-learning) dla pracowników centrum;
+- **8)** nadzór nad przestrzeganiem procedur obsługi zgłoszeń alarmowych, w szczególności przez sporządzanie kwartalnej karty oceny pracy centrum;
+- **9)** współpraca międzynarodowa w zakresie funkcjonowania systemu;
+- **10)** działania związane z upowszechnianiem wiedzy o numerach alarmowych;
+- **11)** wykonywanie innych czynności mających na celu zapewnienie jednolitych standardów obsługi zgłoszeń alarmowych.
 
 **Art. 19.**
 

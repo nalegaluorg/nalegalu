@@ -8,7 +8,7 @@ pos: 3
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw
@@ -28,6 +28,63 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940010003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw (Dz.U. Nr 107, poz. 464 oraz z 1993 r. Nr 5, poz. 23 i Nr 6 poz. 29) wprowadza się następujące zmiany:
+
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. Ustawa reguluje zasady gospodarowania mieniem Skarbu Państwa w odniesieniu do:
+- **1)** nieruchomości rolnych w rozumieniu Kodeksu cywilnego i innych nieruchomości położonych na obszarach przeznaczonych w planach zagospodarowania przestrzennego na cele gospodarki rolnej, z wyłączeniem gruntów znajdujących się w zarządzie Lasów Państwowych i parków narodowych,
+- **2)** innych nieruchomości i składników mienia pozostałych po likwidacji państwowych przedsiębiorstw gospodarki rolnej oraz ich zjednoczeń i zrzeszeń,
+- **3)** lasów nie wydzielonych geodezyjnie z nieruchomości, określonych w pkt 1 i 2.”;
+- **2)** w art. 2:
+    - **a)** ust. 1 otrzymuje brzmienie: "1. Zasady gospodarowania obejmują mienie, o którym mowa w art. 1, znajdujące się:
+
+- **1)** w zarządzie państwowych jednostek organizacyjnych,
+- **2)** w użytkowaniu wieczystym osób fizycznych i prawnych,
+- **3)** w użytkowaniu lub faktycznym władaniu osób fizycznych, osób prawnych oraz innych jednostek organizacyjnych,
+- **4)** w Państwowym Funduszu Ziemi.",
+    - **b)** w ust. 2 po wyrazie "nieruchomości" dodaje się wyraz "rolne";
+
+- **3)** po art. 2 dodaje się art. 2a w brzmieniu: "Art. 2a. Ilekroć w ustawie jest mowa o "państwowych przedsiębiorstwach gospodarki rolnej", rozumie się przez to przedsiębiorstwa państwowe:
+- **1)** których podstawowym przedmiotem działalności - zgodnie z aktem o utworzeniu - jest produkcja roślinna i zwierzęca, w tym również produkcja materiału siewnego, szkółkarskiego, hodowlanego oraz reprodukcyjnego, produkcja warzywnicza gruntowa, szklarniowa i pod folią, produkcja roślin ozdobnych, grzybów uprawnych i sadownicza, hodowla i produkcja materiału zarodowego zwierząt, ptactwa i owadów użytkowych, produkcja zwierzęca typu przemysłowego, fermowego oraz chów i hodowla ryb, a także świadczenie usług w zakresie rozrodu koni,
+- **2)** utworzone po dniu 31 grudnia 1989 r. w wyniku podziału przedsiębiorstw państwowych, określonych w pkt 1, jeżeli na podstawie wydanej przez Główny Urząd Statystyczny klasyfikacji rodzaju działalności zaliczone zostały do przedsiębiorstw prowadzących działalność w dziale rolnictwo.";
+- **4)** art. 5 otrzymuje brzmienie: "Art. 5. 1. Skarb Państwa powierza Agencji wykonywanie prawa własności i innych praw rzeczowych na jego rzecz w stosunku do mienia, o którym mowa w art. 1 i 2.
+
+2. Agencja, obejmując we władanie składniki mienia Skarbu Państwa, wstępuje w prawa i obowiązki z nimi związane w stosunku do Skarbu Państwa oraz osób trzecich.
+
+3. Agencja wstępuje w prawa i obowiązki po zlikwidowanym państwowym przedsiębiorstwie gospodarki rolnej, w tym również wynikające z decyzji administracyjnych.
+
+4. Mienie nabyte przez Agencję w celu zapewnienia funkcjonowania Biura Prezesa i oddziałów terenowych Agencji, stanowi jej własność.";
+
+- **5)** w art. 6 w pkt 5 po wyrazie "rolnych" dodaje się wyrazy "a zwłaszcza powiększanie już istniejących gospodarstw rodzinnych,";
+- **6)** w art. 12:
+    - **a)** ust. 2 otrzymuje brzmienie: "2. Zasób tworzy także mienie nabyte przez Agencję, z zastrzeżeniem art. 5 ust. 4.",
+    - **b)** w ust. 3 na końcu kropkę zastępuje się przecinkiem i dodaje się wyrazy "z zastrzeżeniem ust. 4-6.",
+    - **c)** po ust. 3 dodaje się ust. 4-6 w brzmieniu: "4. Nieruchomością przeznaczoną w planach zagospodarowania przestrzennego na cele nie związane z prowadzeniem gospodarki rolnej i leśnej oraz nieruchomością, która nie jest nieruchomością rolną w rozumieniu Kodeksu cywilnego, Agencja dysponuje stosując odpowiednio przepisy o gospodarce gruntami i wywłaszczaniu nieruchomości, uwzględniając przepisy art. 24 ust. 1 pkt 4, ust. 5 i ust. 6, art. 38a oraz art. 42-50.
+
+5. Jeżeli dysponowanie nieruchomością rolną następuje łącznie z innymi nieruchomościami, Agencja stosuje zasady określone w ustawie.
+
+6. Agencja, dysponując nieruchomością rolną łącznie z obiektem wpisanym do rejestru zabytków, stosuje przepisy o gospodarce gruntami i wywłaszczaniu nieruchomości w zakresie pierwszeństwa nabycia, a w stosunku do tego obiektu, także w zakresie obniżki ceny sprzedaży.";
+
+- **7)** w art. 13:
+    - **a)** w ust. 1 wyrazy "2 lat" zastępuje się wyrazami "trzech lat",
+    - **b)** skreśla się ust. 2 i ust. 3;
+
+- **8)** w art. 14:
+    - **a)** w ust. 2: - na końcu kropkę zastępuje się przecinkiem i dodaje wyrazy "a także ustaje obowiązek wpłaty dywidendy.", - dodaje się drugie zdanie w brzmieniu: "Agencja wyznacza tymczasowego zarządcę majątku po zlikwidowanym przedsiębiorstwie.",
+    - **b)** ust. 3 otrzymuje brzmienie: "3. Organ założycielski przekazuje Agencji mienie oraz wierzytelności i zobowiązania po zlikwidowanym przedsiębiorstwie - według stanu na dzień wykreślenia przedsiębiorstwa z rejestru, z wyjątkiem zobowiązań przedsiębiorstwa wobec Skarbu Państwa, które wygasają z dniem podjęcia decyzji o likwidacji.",
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: "3a. Egzekucja należności, przypadających od Agencji z tytułu przyjętego zobowiązania, może być prowadzona tylko z mienia i pożytków z niego uzyskiwanych, przekazanego Agencji po tym zlikwidowanym przedsiębiorstwie, które zaciągnęło zobowiązanie.";
+
+- **9)** art. 17 otrzymuje brzmienie: "Art. 17. 1. Nieruchomości, określone w art. 1 i 2, nie stanowiące składników majątku państwowych przedsiębiorstw gospodarki rolnej, podlegają przekazaniu Agencji w drodze decyzji wojewody właściwego ze względu na położenie nieruchomości, z zastrzeżeniem art. 16, art. 18 i art. 33.
+
+2. O wydaniu decyzji, o której mowa w ust. 1, zawiadamia się niezwłocznie osoby i jednostki organizacyjne, władające nieruchomościami.";
+
+- **10)** po art. 17 dodaje się art. 17a i 17b w brzmieniu: "Art. 17a. 1. Z zastrzeżeniem art. 16, mienie Skarbu Państwa, które w dniu przejęcia przez Agencję znajduje się na podstawie umów lub decyzji administracyjnych we władaniu osób fizycznych i prawnych, pozostaje nadal w ich władaniu na dotychczasowych warunkach do chwili zawarcia z Agencją umów, o których mowa w rozdziale 6 albo 8 ustawy.
+
+2. Jeżeli zmiana warunków dotychczasowego władania nie nastąpi w terminie roku od dnia przejęcia mienia przez Agencję, umowy i decyzje, o których mowa w ust. 1, wygasają, nie wcześniej jednak niż z dniem 31 grudnia 1994 r.
+
+3. Przepisy ust. 1 i 2 stosuje się również do zarządu nieruchomościami rolnymi Skarbu Państwa wykonywanego przez państwowe osoby prawne inne niż określone w art. 14.
+
+4. Nieruchomości rolne, pozostające w dniu przejęcia przez Agencję w zarządzie państwowych jednostek organizacyjnych nie posiadających osobowości prawnej, pozostają nadal w ich zarządzie. Do zarządu tego stosuje się przepisy art. 35 ust. 2-5 i art. 36 oraz przepisy wydane na podstawie art. 37.
+
+5. Przepisy ust. 1 i 2 nie dotyczą prawa wieczystego użytkowania oraz prawa służebności i użytkowania, określonych w przepisach o ubezpieczeniu społecznym rolników.
 
 **Art. 17b.**
 
@@ -202,9 +259,16 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz.U. z 1993 r. Nr 94, poz.
 
+- **431)** w art. 12 w ust. 1 w pkt 4 po wyrazach "Państwowego Funduszu Ziemi" dodaje się wyrazy "i grunty przejęte z tego Funduszu do Zasobu Własności Rolnej Skarbu Państwa".
+
 **Art. 4.** W ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz.U. z 1991 r. Nr 44, poz. 194 i Nr 107, poz. 464 oraz z 1992 r. Nr 54, poz. 254) w art. 64 w ust. 1 w pkt 1 skreśla się wyraz "nierolne".
 
 **Art. 5.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz.U. Nr 29, poz. 154, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459 oraz z 1993 r. Nr 7, poz. 34) wprowadza się następujące zmiany:
+
+- **1)** w art. 63 po ust. 1 dodaje się ust. 2 w brzmieniu: "2. Regulacja dotycząca nieruchomości rolnych może następować także przez wydzielenie odpowiednich nieruchomości z Zasobu Własności Rolnej Skarbu Państwa.";
+- **2)** w art. 70a:
+    - **a)** w ust. 1 w zdaniu pierwszym po wyrazach "Państwowego Funduszu Ziemi" dodaje się wyrazy "albo w Zasobie Własności Rolnej Skarbu Państwa",
+    - **b)** w ust. 3 w pierwszym zdaniu kropkę zastępuje się przecinkiem i dodaje wyrazy "wydanej za zgodą Prezesa Agencji Własności Rolnej Skarbu Państwa."
 
 **Art. 6.** W ustawie z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz.U. Nr 32, poz. 191, Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20 oraz z 1993 r. Nr 40, poz. 180) skreśla się art. 15.
 
@@ -218,9 +282,19 @@ source: "isap-pdf"
 
 **Art. 11.** W ustawie z dnia 28 września 1991 r. o lasach (Dz.U. Nr 101, poz. 444 oraz z 1992 r. Nr 21, poz. 85 i Nr 54, poz. 254) wprowadza się następujące zmiany:
 
+- **1)** w art. 4 ust. 4 otrzymuje brzmienie: "4. Przepis ust. 1 nie dotyczy lasów w parkach narodowych oraz lasów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa.";
+- **2)** w art. 5 w ust. 1 po wyrazach "w lasach" dodaje się wyrazy "wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa oraz";
+- **3)** w art. 6 w pkt 3 dodaje się wyrazy "a także Agencję Własności Rolnej Skarbu Państwa";
+- **4)** w art. 22 w ust. 1 pkt 2 po wyrazach "w odniesieniu do lasów" dodaje się wyrazy "wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa oraz";
+- **5)** w art. 39 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 w brzmieniu: "2. Dzierżawa lasu wchodzącego w skład Zasobu Własności Rolnej Skarbu Państwa nie wymaga zgody, o której mowa w ust. 1.";
+- **6)** w art. 61 w ust. 2 kropkę zastępuje się przecinkiem i dodaje wyrazy "a lasów wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa na Agencji Własności Rolnej Skarbu Państwa."
+
 **Art. 12.** Lasy podlegające zarządowi Lasów Państwowych, nie wydzielone geodezyjnie z nieruchomości Państwowego Funduszu Ziemi oraz z nieruchomości pozostałych po zlikwidowanych państwowych przedsiębiorstwach gospodarki rolnej, z dniem wejścia w życie ustawy przechodzą do Zasobu Własności Rolnej Skarbu Państwa.
 
 **Art. 13.** Z dniem wejścia w życie ustawy:
+
+- **1)** grunty rolne Skarbu Państwa pozostające w zarządzie Polskiej Akademii Nauk stają się przedmiotem użytkowania wieczystego Polskiej Akademii Nauk,
+- **2)** budynki i urządzenia związane trwale z gruntami, o których mowa w pkt 1, stają się własnością Polskiej Akademii Nauk.
 
 **Art. 14.** Nieruchomości oraz inne składniki mienia pozostałe po likwidacji zjednoczeń, zrzeszeń państwowych przedsiębiorstw gospodarki rolnej, podlegają przekazaniu do Zasobu Własności Rolnej Skarbu Państwa, jeżeli w dniu wejścia w życie ustawy stanowiły własność Skarbu Państwa. Przekazanie nieruchomości następuje w drodze decyzji wojewody właściwego ze względu na miejsce jej położenia, w terminie trzech miesięcy od dnia wejścia w życie ustawy. Z przekazania nieruchomości sporządza się protokół zdawczo-odbiorczy.
 

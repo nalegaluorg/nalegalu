@@ -8,10 +8,10 @@ pos: 115
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 stycznia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 115 UmowA o przywilejach i immunitetach Międzynarodowej Agencji Energii Odnawialnej, sporządzona w Abu Zabi dnia 13 stycznia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/115/text.pdf) |
 
-UmowA o przywilejach i immunitetach Międzynarodowej Agencji Energii Odnawialnej, sporządzona w Abu Zabi dnia 13 stycznia 2013 r.
-W imieniu Rzeczypospolitej Polskiej PReZydent RZecZyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 13 stycznia 2013 r. w Abu Zabi została sporządzona Umowa o przywilejach i immunitetach Międzynarodowej Agencji energii odnawialnej, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PReZydent RZecZyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 13 stycznia 2013 r. w Abu Zabi została sporządzona Umowa o przywilejach i immunitetach Międzynarodowej Agencji energii odnawialnej, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 10 listopada 2014 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.
+Prezes Rady Ministrów: E. Kopacz
 

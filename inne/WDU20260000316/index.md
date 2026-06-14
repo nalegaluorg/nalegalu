@@ -8,7 +8,7 @@ pos: 316
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o fundacjach oraz ustawy – Prawo o stowarzyszeniach

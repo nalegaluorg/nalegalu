@@ -8,7 +8,7 @@ pos: 1785
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Wyższej Szkole Morskiej w Gdyni nazwy Akademia Morska w Gdyni

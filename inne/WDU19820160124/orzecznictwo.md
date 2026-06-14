@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 26 maja 1982 r. Prawo o adwokaturze.*
 
-Łącznie: **3884** orzeczeń w **133** artykułach
-(pominięto 5169 orzeczeń sądów rejonowych)
+Łącznie: **3897** orzeczeń w **133** artykułach
+(pominięto 5180 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -51,7 +51,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 28 § 2 | 3 | 1 | 2 | 0 | 1 | 0 | [art-28-par-2.csv](orzecznictwo/art-28-par-2.csv) |
 | art. 28 § 6 | 1 | 0 | 1 | 0 | 0 | 0 | [art-28-par-6.csv](orzecznictwo/art-28-par-6.csv) |
 | art. 28 § 13 | 1 | 0 | 1 | 0 | 0 | 0 | [art-28-par-13.csv](orzecznictwo/art-28-par-13.csv) |
-| art. 29 | 3423 | 4 | 1859 | 1560 | 8 | 3 | [art-29.csv](orzecznictwo/art-29.csv) |
+| art. 29 | 3433 | 4 | 1862 | 1567 | 8 | 3 | [art-29.csv](orzecznictwo/art-29.csv) |
 | art. 29 § 1 | 85 | 0 | 17 | 68 | 0 | 0 | [art-29-par-1.csv](orzecznictwo/art-29-par-1.csv) |
 | art. 29 § 2 | 157 | 0 | 47 | 110 | 0 | 0 | [art-29-par-2.csv](orzecznictwo/art-29-par-2.csv) |
 | art. 29 § 3 | 9 | 0 | 4 | 5 | 0 | 0 | [art-29-par-3.csv](orzecznictwo/art-29-par-3.csv) |
@@ -76,7 +76,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 29 § 25 | 1 | 0 | 1 | 0 | 0 | 0 | [art-29-par-25.csv](orzecznictwo/art-29-par-25.csv) |
 | art. 30 | 1 | 1 | 0 | 0 | 1 | 0 | [art-30.csv](orzecznictwo/art-30.csv) |
 | art. 32 | 1 | 0 | 1 | 0 | 0 | 0 | [art-32.csv](orzecznictwo/art-32.csv) |
-| art. 37 | 31 | 12 | 10 | 9 | 10 | 2 | [art-37.csv](orzecznictwo/art-37.csv) |
+| art. 37 | 33 | 12 | 10 | 11 | 10 | 2 | [art-37.csv](orzecznictwo/art-37.csv) |
 | art. 38 | 2 | 2 | 0 | 0 | 2 | 0 | [art-38.csv](orzecznictwo/art-38.csv) |
 | art. 39 | 4 | 2 | 2 | 0 | 2 | 0 | [art-39.csv](orzecznictwo/art-39.csv) |
 | art. 40 | 1 | 1 | 0 | 0 | 0 | 1 | [art-40.csv](orzecznictwo/art-40.csv) |
@@ -103,7 +103,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 74 | 4 | 4 | 0 | 0 | 2 | 2 | [art-74.csv](orzecznictwo/art-74.csv) |
 | art. 75 | 4 | 2 | 1 | 1 | 0 | 2 | [art-75.csv](orzecznictwo/art-75.csv) |
 | art. 76 | 4 | 1 | 3 | 0 | 0 | 1 | [art-76.csv](orzecznictwo/art-76.csv) |
-| art. 77 | 8 | 1 | 4 | 3 | 0 | 1 | [art-77.csv](orzecznictwo/art-77.csv) |
+| art. 77 | 11 | 1 | 4 | 6 | 0 | 1 | [art-77.csv](orzecznictwo/art-77.csv) |
 | art. 80 | 17 | 5 | 9 | 3 | 7 | 2 | [art-80.csv](orzecznictwo/art-80.csv) |
 | art. 80 § 8 | 1 | 0 | 1 | 0 | 0 | 0 | [art-80-par-8.csv](orzecznictwo/art-80-par-8.csv) |
 | art. 80 § 30 | 1 | 0 | 1 | 0 | 0 | 0 | [art-80-par-30.csv](orzecznictwo/art-80-par-30.csv) |
@@ -453,6 +453,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2014-05-07 | SN | [II KK 85/14](https://www.saos.org.pl/judgments/105054) | Postanowienie (score: 69)
 - ★★ 2014-03-12 | SN | [II KK 28/14](https://www.saos.org.pl/judgments/104660) | Postanowienie (score: 69)
 - ★★ 2014-01-22 | SN | [III KK 451/13](https://www.saos.org.pl/judgments/104157) | Postanowienie (score: 69)
+- ★★ 2025-10-02 | SO | [II AKa 256/25](https://www.saos.org.pl/judgments/545935) | Wyrok (score: 56)
 - ★★ 2025-09-23 | SO | [II AKa 205/25](https://www.saos.org.pl/judgments/538352) | Wyrok (score: 56)
 - ★★ 2025-09-04 | SO | [II AKa 98/25](https://www.saos.org.pl/judgments/543180) | Wyrok (score: 56)
 - ★★ 2025-07-30 | SO | [II AKa 206/25](https://www.saos.org.pl/judgments/542169) | Wyrok (score: 56)
@@ -461,7 +462,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2025-07-03 | SO | [I ACa 2462/23](https://www.saos.org.pl/judgments/541967) | Wyrok (score: 56)
 - ★★ 2025-06-26 | SO | [II AKa 166/25](https://www.saos.org.pl/judgments/542463) | Wyrok (score: 56)
 - ★★ 2025-06-25 | SO | [III APa 24/24](https://www.saos.org.pl/judgments/540933) | Wyrok (score: 56)
-- ★★ 2025-04-30 | SO | [II AKa 93/25](https://www.saos.org.pl/judgments/542183) | Wyrok (score: 56)
 
 ### art. 29 § 1 (17 wiodących)
 

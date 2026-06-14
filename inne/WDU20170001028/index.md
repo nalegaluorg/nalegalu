@@ -8,10 +8,10 @@ pos: 1028
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 maja 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1028 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 13 maja 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,19 +25,19 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1028/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ZDROWIA z dnia 13 maja 2017 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie pobierania i badania próbek substancji chemicznych i ich mieszanin oraz wyrobów w ramach nadzoru wykonywanego przez Państwową Inspekcję Sanitarną
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 4 kwietnia 2012 r. w sprawie pobierania i badania próbek substancji chemicznych i ich mieszanin oraz wyrobów w ramach nadzoru wykonywanego przez Państwową Inspekcję Sanitarną (Dz. U. poz. 379), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 5 kwietnia 2016 r. zmieniającym rozporządzenie w sprawie pobierania i badania próbek substancji chemicznych i ich mieszanin oraz wyrobów w ramach nadzoru wykonywanego przez Państwową Inspekcję Sanitarną (Dz. U. poz. 503).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 5 kwietnia 2016 r. zmieniającego rozporządzenie w sprawie pobierania i badania próbek substancji chemicznych i ich mieszanin oraz wyrobów w ramach nadzoru wykonywanego przez Państwową Inspekcję Sanitarną (Dz. U. poz. 503), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Zdrowia: K. Radziwiłł ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 4 kwietnia 2012 r.
 w sprawie pobierania i badania próbek substancji chemicznych i ich mieszanin oraz wyrobów w ramach nadzoru wykonywanego przez Państwową Inspekcję Sanitarną Na podstawie art. 27b ust. 6 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2015 r.
-poz. 1412 oraz z 2016 r. poz. 1165 i 2003) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 1412 oraz z 2016 r. poz. 1165 i 2003) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb pobierania i badania próbek substancji chemicznych, ich mieszanin oraz wyrobów, zwanych dalej „próbkami”;
 2) wzór protokołu pobrania próbki;
 3) sposób zabezpieczenia próbek;
 4) wzór sprawozdania z badań;
 5) sposób postępowania z pozostałościami po próbkach.
-§ 2. Ilekroć w rozporządzeniu jest mowa o próbce kontrolnej rozumie się przez to próbkę pobieraną do celów badań w postępowaniu odwoławczym.
+§ 2. Ilekroć w rozporządzeniu jest mowa o próbce kontrolnej – rozumie się przez to próbkę pobieraną do celów badań w postępowaniu odwoławczym.
 § 3. 1. Próbki pobiera się w ilościach niezbędnych do przeprowadzenia badań daną metodą, przy zapewnieniu reprezentatywności dla całej partii, z której pobrano próbki.
 2. Pobranie próbki i próbki kontrolnej potwierdza się w protokole pobrania próbki, zwanym dalej „protokołem”, którego wzór określa załącznik nr 1 do rozporządzenia.
 3. Protokół jest opatrzony kolejnym numerem z rejestru sporządzonych protokołów pobrania próbki prowadzonego przez właściwego państwowego inspektora sanitarnego oraz odciskiem urzędowej pieczęci właściwego państwowego inspektora sanitarnego, który protokół sporządził.
@@ -60,7 +60,7 @@ poz. 1412 oraz z 2016 r. poz. 1165 i 2003) zarządza się, co następuje: § 1. 
 3) w sposób uniemożliwiający zamianę próbki;
 4) w sposób zabezpieczający próbkę przed wpływem czynników zewnętrznych.
 2. Próbkę przekazuje się do badań wraz z protokołem.
-3. Właściwy państwowy inspektor sanitarny, który dokonał pobrania próbki, przekazuje próbkę do badań osobiście albo za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2016 r. poz. 1113, 1250, 1823 i 1948) przesyłką rejestrowaną, nadaną w sposób umożliwiający uzyskanie przez nadawcę dokumentu potwierdzającego odbiór tej przesyłki.
+3. Właściwy państwowy inspektor sanitarny, który dokonał pobrania próbki, przekazuje próbkę do badań osobiście albo za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2016 r. poz. 1113, 1250, 1823 i 1948) przesyłką rejestrowaną, nadaną w sposób umożliwiający uzyskanie przez nadawcę dokumentu potwierdzającego odbiór tej przesyłki.
 § 7. 1. Badania pobranych próbek, z wyłączeniem próbek kontrolnych, przeprowadzają laboratoria Państwowej Inspekcji Sanitarnej z wdrożonym i udokumentowanym systemem zarządzania na zgodność z normą w zakresie ogólnych wymagań dotyczących kompetencji laboratoriów badawczych i wzorcujących.
 2. W przypadku gdy laboratoria Państwowej Inspekcji Sanitarnej nie mogą wykonać badań próbki, właściwy państwowy inspektor sanitarny zawiera umowę o wykonanie badań pobranej próbki z innym laboratorium akredytowanym w zakresie danej lub danych metod badawczych zgodnie z normą odnoszącą się do ogólnych wymagań dotyczących kompetencji laboratoriów badawczych i wzorcujących.
 § 8. 1. Laboratorium, o którym mowa w § 7, dokumentuje przyjęcie lub odmowę przyjęcia próbki do badań przez dokonanie stosownej adnotacji na protokole.
@@ -68,7 +68,7 @@ poz. 1412 oraz z 2016 r. poz. 1165 i 2003) zarządza się, co następuje: § 1. 
 1) informacji zawartych w protokole;
 2) oględzin próbki dostarczonej do badań.
 3. Adnotację, o której mowa w ust. 1, sporządza się na dwóch egzemplarzach protokołu, z których jeden przekazuje się, za pokwitowaniem, dostarczającemu próbkę do badań do akt sprawy, a drugi pozostawia się w aktach laboratorium.
-4. W przypadku przekazania próbki do badań za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe potwierdzenie odbioru albo zwrotne pokwitowanie odbioru próbki stanowi dowód przyjęcia przez laboratorium próbki do badań.
+4. W przypadku przekazania próbki do badań za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe potwierdzenie odbioru albo zwrotne pokwitowanie odbioru próbki stanowi dowód przyjęcia przez laboratorium próbki do badań.
 5. Jeżeli próbka jest przekazywana do badań w sposób określony w ust. 4, protokół z adnotacją, o której mowa w ust. 1, dołącza się do sprawozdania z badań, o którym mowa w § 9 ust. 1.
 § 9. 1. Po przeprowadzeniu badań laboratorium, o którym mowa w § 7, sporządza sprawozdanie z badań, którego wzór określa załącznik nr 2 do rozporządzenia.
 2. Sprawozdanie z badań sporządza się w dwóch egzemplarzach, dla zlecającego badania oraz do akt laboratorium.
@@ -85,7 +85,7 @@ poz. 1412 oraz z 2016 r. poz. 1165 i 2003) zarządza się, co następuje: § 1. 
 5. O sposobie postępowania z próbką, próbką kontrolną albo ich pozostałościami, które utraciły użyteczność, decyduje kontrolowany.
 6. Jeżeli kontrolowany odmawia przyjęcia podlegającej zwrotowi próbki, próbki kontrolnej albo ich pozostałości, które utraciły użyteczność, bądź ich zwrot jest niemożliwy z innych przyczyn, podlegają one komisyjnemu zniszczeniu.
 § 13. Rozporządzenie wchodzi w życie z dniem 9 kwietnia 2012 r.
-WZÓR d p ą str o z d i 4 k i tnia 2012 ( 37 ) ł cznik nr 1 WZÓR Protokół pobrania próbki nr …….
+Załączniki do rozporządzenia Ministra Zdrowia z dnia 4 kwietnia 2012 r. (poz. 379) Załącznik nr 1 WZÓR WZÓR Protokół pobrania próbki nr …….
 .................................................
 Formularz kontroli sanitarnej nr ...................................... z dnia ……...…......................................
 W dniu ......................................... r. w ...............................................................................................
@@ -93,6 +93,5 @@ o godz. ........................................... w ..........................
 Pobierający próbki ………....................................................................................................................
 działający na podstawie upoważnienia nr ……………………. z dnia .................…………………… r.
 Państwowego ………………………….. Inspektora Sanitarnego w .....................................................
-pobrał do badań próbki następującej substancji chemicznej, mieszaniny, wyrobu ………………………………………………………. ……………………………………………… ………….……………….. ...………………………….. ……………..
-WZÓR
+pobrał do badań próbki następującej substancji chemicznej, mieszaniny, wyrobu ………………………………………………………. ……………………………………………… Załącznik nr 2 WZÓR WZÓR ………….……………….. ...………………………….. ……………..
 

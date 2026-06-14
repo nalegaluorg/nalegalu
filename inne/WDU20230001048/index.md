@@ -8,10 +8,10 @@ pos: 1048
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1048 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 26 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001048) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1048/text.pdf) |
 
-Poz. 1048 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 26 maja 2023 r.
 zmieniające rozporządzenie w sprawie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz potencjału badawczego znajdujących się w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki oraz na zadania związane z utrzymaniem powietrznych statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr powietrznych Na podstawie art. 402 pkt 1, 2 i 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
-z 2023 r. poz. 742) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2019 r. w sprawie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz potencjału badawczego znajdujących się w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki oraz na zadania związane z utrzymaniem powietrznych statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr powietrznych (Dz. U. z 2022 r. poz. 305) wprowadza się następujące zmiany:
+z 2023 r. poz. 742) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2019 r. w sprawie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz potencjału badawczego znajdujących się w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki oraz na zadania związane z utrzymaniem powietrznych statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr powietrznych (Dz. U. z 2022 r. poz. 305) wprowadza się następujące zmiany:
 1) w § 6 w ust. 2 skreśla się wyrazy „niepublicznej uczelni akademickiej,”;
 2) po § 14 dodaje się § 14a w brzmieniu: „§ 14a. 1. W roku 2023 wysokość subwencji obliczona według algorytmu określonego w załącznikach nr 1, 2 albo 3 do rozporządzenia nie może być:
 1) niższa niż 101%,

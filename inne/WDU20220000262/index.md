@@ -8,10 +8,10 @@ pos: 262
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 lutego 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 262 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 17 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/262/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ZDROWIA z dnia 17 grudnia 2021 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 29 października 2013 r. w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. z 2018 r. poz. 742), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Zdrowia z dnia 12 czerwca 2018 r. zmieniającym rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. poz. 1185);
@@ -39,7 +38,8 @@ poz. 421) i złożył z wynikiem pozytywnym część pisemną PES, nie dłużej 
 w sprawie specjalizacji lekarzy i lekarzy dentystów.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 października 2013 r.
-w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wykaz oraz warunki realizacji świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, zwanych dalej „świadczeniami gwarantowanymi”;
 2) poziom finansowania przejazdu środkami transportu sanitarnego w przypadkach niewymienionych w art. 41 ust. 1 i 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
@@ -47,7 +47,7 @@ w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej 
 2) lekarz w trakcie specjalizacji − lekarza, który rozpoczął specjalizację zgodnie z programem specjalizacji oraz uzyskał potwierdzenie przez kierownika specjalizacji wiedzy i umiejętności umożliwiających samodzielną pracę;
 3) perinatalna opieka paliatywna − zapewnienie:
 a) wsparcia rodzicom dziecka, w tym będącego w fazie prenatalnej,
-b) opieki nastawionej na zapewnienie komfortu i ochronę przed uporczywą terapią noworodkom z ciężkim i nieodwracalnym upośledzeniem albo nieuleczalną chorobą zagrażającą życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu.
+b) opieki nastawionej na zapewnienie komfortu i ochronę przed uporczywą terapią noworodkom – z ciężkim i nieodwracalnym upośledzeniem albo nieuleczalną chorobą zagrażającą życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu.
 § 3. 1. Świadczenia opieki paliatywnej i hospicyjnej to wszechstronna, całościowa opieka i leczenie objawowe świadczeniobiorców chorujących na nieuleczalne, niepoddające się leczeniu przyczynowemu, postępujące, ograniczające życie choroby. Opieka ta jest ukierunkowana na poprawę jakości życia, ma na celu zapobieganie bólowi i innym objawom somatycznym oraz ich uśmierzanie, łagodzenie cierpień psychicznych, duchowych i socjalnych.
 2. Świadczenia gwarantowane przysługują świadczeniobiorcom chorującym na nieuleczalne, postępujące, ograniczające życie choroby nowotworowe i nienowotworowe, których wykaz określa załącznik nr 1 do rozporządzenia.
 3. Świadczenia gwarantowane są udzielane zgodnie ze wskazaniami aktualnej wiedzy medycznej, z wykorzystaniem metod diagnostyczno-terapeutycznych innych niż stosowane w medycynie niekonwencjonalnej, ludowej lub orientalnej.
@@ -113,7 +113,7 @@ f) zapewnienie ciągłości leczenia stosownie do stanu zdrowia, po zakończeniu
 13) chorób układu wydzielania wewnętrznego,
 14) chorób zakaźnych i pasożytniczych,
 15) urazów i zatruć,
-16) wad rozwojowych wrodzonych, zniekształceń i aberracji chromosomowych gdy ze zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego wynika, że świadczeniobiorca jest zdolny do samodzielnego poruszania się bez stałej pomocy innej osoby, ale wymaga przy korzystaniu ze środków transportu publicznego pomocy innej osoby lub środka transportu publicznego dostosowanego do potrzeb osób niepełnosprawnych.
+16) wad rozwojowych wrodzonych, zniekształceń i aberracji chromosomowych – gdy ze zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego wynika, że świadczeniobiorca jest zdolny do samodzielnego poruszania się bez stałej pomocy innej osoby, ale wymaga przy korzystaniu ze środków transportu publicznego pomocy innej osoby lub środka transportu publicznego dostosowanego do potrzeb osób niepełnosprawnych.
 3. Świadczeniobiorcom korzystającym ze świadczeń gwarantowanych realizowanych w hospicjum domowym dla dorosłych albo hospicjum domowym dla dzieci do ukończenia 18. roku życia nie przysługują świadczenia gwarantowane z zakresu świadczeń pielęgnacyjnych i opiekuńczych w ramach opieki długoterminowej udzielane w warunkach domowych oraz świadczenia z zakresu rehabilitacji leczniczej udzielane w warunkach domowych.
 § 9. Warunkami realizacji świadczeń gwarantowanych są:
 1) przedstawienie skierowania wystawionego przez lekarza ubezpieczenia zdrowotnego;
@@ -128,7 +128,7 @@ WYKAZ NIEULECZALNYCH, POSTĘPUJĄCYCH, OGRANICZAJĄCYCH ŻYCIE CHORÓB NOWOTWORO
 2) pielęgniarka, która:
 a) ukończyła specjalizację w dziedzinie pielęgniarstwa opieki paliatywnej albo jest w trakcie tej specjalizacji lub
 b) ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa opieki paliatywnej albo jest w trakcie tego kursu, lub
-c) ukończyła kurs specjalistyczny w zakresie podstaw opieki paliatywnej albo jest w trakcie tego kursu co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy;
+c) ukończyła kurs specjalistyczny w zakresie podstaw opieki paliatywnej albo jest w trakcie tego kursu – co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy;
 3) psycholog lub psycholog posiadający tytuł specjalisty w dziedzinie psychologii klinicznej, lub psychoonkolog, którym jest osoba z wykształceniem psychologicznym lub medycznym, która ukończyła studia wyższe i uzyskała tytuł magistra lub równorzędny oraz ukończyła studia podyplomowe z psychoonkologii − równoważnik 1/2 etatu przeliczeniowego na 20 łóżek;
 4) osoba, która:
 a) rozpoczęła po dniu 30 września 2012 r. studia wyższe z zakresu fizjoterapii obejmujące co najmniej 2435 godzin kształcenia w zakresie fizjoterapii i uzyskała tytuł licencjata lub dodatkowo co najmniej 1440 godzin kształcenia w zakresie fizjoterapii i uzyskała tytuł magistra lub
@@ -137,7 +137,7 @@ c) rozpoczęła przed dniem 1 stycznia 1998 r. studia wyższe na kierunku rehabi
 d) rozpoczęła przed dniem 1 stycznia 1998 r. studia wyższe w Akademii Wychowania Fizycznego i uzyskała tytuł magistra oraz ukończyła specjalizację I lub II stopnia w dziedzinie rehabilitacji ruchowej, lub
 e) rozpoczęła przed dniem 1 stycznia 1980 r. studia wyższe na kierunku wychowanie fizyczne i uzyskała tytuł magistra na tym kierunku oraz ukończyła w ramach studiów dwuletnią specjalizację z zakresu gimnastyki leczniczej lub rehabilitacji ruchowej potwierdzoną legitymacją instruktora rehabilitacji ruchowej lub gimnastyki leczniczej, lub
 f) rozpoczęła przed dniem 1 stycznia 1980 r. studia wyższe na kierunku wychowanie fizyczne i uzyskała tytuł magistra na tym kierunku oraz ukończyła 3-miesięczny kurs specjalizacyjny z rehabilitacji, lub
-g) ukończyła szkołę policealną publiczną lub niepubliczną o uprawnieniach szkoły publicznej i uzyskała tytuł zawodowy technik fizjoterapii równoważnik 1/4 etatu przeliczeniowego na 10 łóżek;
+g) ukończyła szkołę policealną publiczną lub niepubliczną o uprawnieniach szkoły publicznej i uzyskała tytuł zawodowy technik fizjoterapii – równoważnik 1/4 etatu przeliczeniowego na 10 łóżek;
 5) osoba, która:
 a) rozpoczęła przed dniem 1 września 2012 r. i ukończyła zasadniczą szkołę zawodową publiczną lub niepubliczną o uprawnieniach szkoły publicznej oraz uzyskała dyplom potwierdzający kwalifikacje zawodowe w zawodzie opiekun medyczny lub
 b) rozpoczęła po dniu 31 sierpnia 2012 r. i ukończyła kwalifikacyjny kurs zawodowy oraz uzyskała świadectwo lub dyplom potwierdzający kwalifikacje w zawodzie opiekun medyczny lub ukończyła szkołę policealną publiczną lub niepubliczną o uprawnieniach szkoły publicznej oraz uzyskała dyplom potwierdzający kwalifikacje zawodowe w zawodzie opiekun medyczny.
@@ -153,7 +153,7 @@ b) rozpoczęła po dniu 31 sierpnia 2012 r. i ukończyła kwalifikacyjny kurs za
 9) aparaty do pomiaru ciśnienia tętniczego krwi,
 10) zestaw do udzielania pierwszej pomocy lekarskiej,
 11) pompy infuzyjne w liczbie co najmniej 1 szt. na każde rozpoczęte 15 łóżek,
-12) kule, laski, balkoniki, chodziki, wózki inwalidzkie znajdujące się w miejscu udzielania świadczeń;
+12) kule, laski, balkoniki, chodziki, wózki inwalidzkie – znajdujące się w miejscu udzielania świadczeń;
 13) aparat EKG, który znajduje się w budynku lub zespole budynków oznaczonych tym samym adresem, w którym lub w których jest zlokalizowane miejsce udzielania świadczeń.
 3. Inne warunki:
 1) całodobowy dostęp przez 7 dni w tygodniu do świadczeń opieki zdrowotnej udzielanych przez lekarza, o którym mowa w ust. 1 pkt 1;
@@ -164,7 +164,7 @@ II. Świadczenia gwarantowane realizowane w warunkach domowych
 2) pielęgniarka, która:
 a) ukończyła specjalizację w dziedzinie pielęgniarstwa opieki paliatywnej albo jest w trakcie tej specjalizacji lub
 b) ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa opieki paliatywnej albo jest w trakcie tego kursu, lub
-c) ukończyła kurs specjalistyczny w zakresie podstaw opieki paliatywnej albo jest w trakcie tego kursu co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy; równoważnik 1 etatu przeliczeniowego na 15 świadczeniobiorców;
+c) ukończyła kurs specjalistyczny w zakresie podstaw opieki paliatywnej albo jest w trakcie tego kursu – co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy; równoważnik 1 etatu przeliczeniowego na 15 świadczeniobiorców;
 3) psycholog lub psycholog posiadający tytuł specjalisty w dziedzinie psychologii klinicznej, lub psychoonkolog, którym jest osoba z wykształceniem psychologicznym lub medycznym, która ukończyła studia wyższe i uzyskała tytuł magistra lub równorzędny oraz ukończyła studia podyplomowe z psychoonkologii − równoważnik 1/2 etatu przeliczeniowego na 30 świadczeniobiorców;
 4) osoba, o której mowa w części I ust. 1 pkt 4 − równoważnik 1/4 etatu przeliczeniowego na 15 świadczeniobiorców.
 2. Wymagania dotyczące personelu w hospicjum domowym dla dzieci do ukończenia 18. roku życia:
@@ -174,7 +174,7 @@ a) ukończyła specjalizację w dziedzinie pielęgniarstwa opieki paliatywnej al
 b) ukończyła specjalizację w dziedzinie pielęgniarstwa pediatrycznego i kurs specjalistyczny w zakresie pediatrycznej domowej opieki paliatywnej albo ukończyła specjalizację w dziedzinie pielęgniarstwa pediatrycznego i jest w trakcie kursu specjalistycznego w zakresie pediatrycznej domowej opieki paliatywnej, lub
 c) ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa opieki paliatywnej albo jest w trakcie tego kursu, lub
 d) ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa pediatrycznego i kurs specjalistyczny w zakresie pediatrycznej domowej opieki paliatywnej albo ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa pediatrycznego i jest w trakcie kursu specjalistycznego w zakresie pediatrycznej domowej opieki paliatywnej, lub
-e) ukończyła kurs specjalistyczny w zakresie opieki paliatywnej albo jest w trakcie tego kursu lub ukończyła kurs specjalistyczny w zakresie pediatrycznej domowej opieki paliatywnej albo jest w trakcie tego kursu co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy; równoważnik 1 etatu przeliczeniowego na 12 świadczeniobiorców;
+e) ukończyła kurs specjalistyczny w zakresie opieki paliatywnej albo jest w trakcie tego kursu lub ukończyła kurs specjalistyczny w zakresie pediatrycznej domowej opieki paliatywnej albo jest w trakcie tego kursu – co najmniej 25% czasu pracy ogółu pielęgniarek udzielających świadczeń u danego świadczeniodawcy; równoważnik 1 etatu przeliczeniowego na 12 świadczeniobiorców;
 3) psycholog lub psycholog posiadający tytuł specjalisty w dziedzinie psychologii klinicznej, lub psychoonkolog, którym jest osoba z wykształceniem psychologicznym lub medycznym, która ukończyła studia wyższe i uzyskała tytuł magistra lub równorzędny oraz ukończyła studia podyplomowe z psychoonkologii − równoważnik 1/2 etatu przeliczeniowego na 12 świadczeniobiorców;
 4) osoba, o której mowa w części I ust. 1 pkt 4 − równoważnik 1/4 etatu przeliczeniowego na 15 świadczeniobiorców.
 3. Sprzęt medyczny i pomocniczy:
@@ -186,7 +186,7 @@ e) ukończyła kurs specjalistyczny w zakresie opieki paliatywnej albo jest w tr
 6) pompy infuzyjne w liczbie co najmniej 1 szt. na 20 świadczeniobiorców;
 7) kule, laski, balkoniki, chodziki, wózki inwalidzkie;
 8) neseser pielęgniarski dla każdej pielęgniarki wyposażony w:
-a) podstawowy sprzęt i materiały jednorazowego użytku: do wykonania iniekcji: − − igły, strzykawki, wenflony, − − zestaw niezbędnych płynów dezynfekcyjnych i odkażających, do przetaczania płynów: − − aparat do kroplowych wlewów dożylnych, − − zestaw gazików, plastry, − − stazę, do wykonania opatrunków: − − serwety, pakiety opatrunkowe, − − podstawowy zestaw narzędzi chirurgicznych, nożyczki, miskę nerkową, pakiet ochronny przed zakażeniem: maseczki, rękawice, fartuch, sprzęt do płukania pęcherza moczowego lub przetoki: − − strzykawkę jednorazowego użytku 50 ml, − − strzykawkę specjalistyczną 50/60 K z końcówką cewnikową, sprzęt do karmienia przez zgłębnik: − − sondę żołądkową, − − strzykawkę jednorazowego użytku 20 ml,
+a) podstawowy sprzęt i materiały jednorazowego użytku: – do wykonania iniekcji: − − igły, strzykawki, wenflony, − − zestaw niezbędnych płynów dezynfekcyjnych i odkażających, – do przetaczania płynów: − − aparat do kroplowych wlewów dożylnych, − − zestaw gazików, plastry, − − stazę, – do wykonania opatrunków: − − serwety, pakiety opatrunkowe, − − podstawowy zestaw narzędzi chirurgicznych, nożyczki, miskę nerkową, – pakiet ochronny przed zakażeniem: maseczki, rękawice, fartuch, – sprzęt do płukania pęcherza moczowego lub przetoki: − − strzykawkę jednorazowego użytku 50 ml, − − strzykawkę specjalistyczną 50/60 K z końcówką cewnikową, – sprzęt do karmienia przez zgłębnik: − − sondę żołądkową, − − strzykawkę jednorazowego użytku 20 ml,
 b) zestaw przeciwwstrząsowy: leki, rurkę ustno-gardłową, maseczkę do reanimacji z filtrem,
 c) sprzęt do pomiaru ciśnienia krwi,
 d) testy do obrazowego oznaczania wartości cukru we krwi i w moczu,

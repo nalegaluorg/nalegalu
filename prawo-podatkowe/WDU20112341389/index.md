@@ -8,7 +8,7 @@ pos: 1389
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o podatku dochodowym od osób prawnych
@@ -28,6 +28,94 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112341389) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1389/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546 z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** po pkt 22a dodaje się pkt 22b w brzmieniu: „22b) alternatywnym systemie obrotu – rozumie się przez to alternatywny system obrotu, o którym mowa w art. 3 pkt 2 ustawy o obrocie instrumentami finansowymi;”,
+    - **b)** uchyla się pkt 36 i 37,
+    - **c)** dodaje się pkt 38 – 40 w brzmieniu: „38) ofercie publicznej – rozumie się przez to ofertę publiczną, o której mowa w art. 3 ustawy o ofercie publicznej;
+
+- **39)** publicznym funduszu inwestycyjnym zamkniętym – rozumie się przez to fundusz inwestycyjny zamknięty, którego certyfikaty inwestycyjne zostały objęte lub nabyte w drodze oferty publicznej, lub dopuszczone do obrotu na rynku regulowanym, lub wprowadzone do alternatywnego systemu obrotu;
+- **40)** dniu roboczym – rozumie się przez to każdy dzień od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy.”;
+- **2)** w art. 6 ust. 1 otrzymuje brzmienie: „1. Uczestnikami funduszu inwestycyjnego są osoby fizyczne, osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej:
+- **1)** na rzecz których w rejestrze uczestników funduszu są zapisane jednostki uczestnictwa lub ich ułamkowe części albo
+- **2)** będące posiadaczami rachunku papierów wartościowych, na którym są zapisane certyfikaty inwestycyjne, albo
+- **3)** uprawnione z certyfikatów inwestycyjnych w formie dokumentu, albo
+- **4)** wskazane w ewidencji uczestników funduszu jako posiadacze certyfikatów inwestycyjnych, które nie mają formy dokumentu.”;
+- **3)** w art. 14 ust. 1 otrzymuje brzmienie: „1. Fundusz inwestycyjny może być utworzony wyłącznie przez towarzystwo.”;
+- **4)** w art. 15:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Utworzenie funduszu inwestycyjnego zamkniętego emitującego wyłącznie certyfikaty inwestycyjne, które zgodnie ze statutem funduszu nie będą oferowane w drodze oferty publicznej ani dopuszczone do obrotu na rynku regulowanym, ani wprowadzone do alternatywnego systemu obrotu, nie wymaga wydania zezwolenia przez Komisję.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. W przypadku funduszu inwestycyjnego zamkniętego, o którym mowa w ust. 1a, łączną minimalną wysokość wpłat do funduszu oraz sposób zbierania wpłat określa statut tego funduszu.”,
+    - **c)** dodaje się ust. 7 w brzmieniu: „7. Towarzystwo zawiadamia Komisję o utworzeniu funduszu inwestycyjnego, o którym mowa w ust. 1a, niezwłocznie po jego wpisaniu do rejestru funduszy inwestycyjnych, załączając statut funduszu inwestycyjnego oraz informację o dacie wpisu do rejestru funduszy inwestycyjnych i łącznej wysokości wpłat zebranych do funduszu.”;
+
+- **5)** w art. 22:
+    - **a)** pkt 5 otrzymuje brzmienie: „5) dane osobowe członków zarządu depozytariusza odpowiedzialnych za wykonywanie funkcji depozytariusza przez jednostkę organizacyjną banku wraz z opisem ich kwalifikacji i doświadczeń zawodowych;”,
+    - **b)** pkt 8 otrzymuje brzmienie: „8) informacje o kwalifikacjach i doświadczeniu zawodowym osób, o których mowa w pkt 6, w szczególności w zakresie lokowania w papiery wartościowe i inne prawa majątkowe stanowiące przedmiot lokat funduszu, oraz informacje z Krajowego Rejestru Karnego;”;
+
+- **6)** w art. 24:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Z zastrzeżeniem art. 117a, zmiana statutu funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, nie wymaga uzyskania zezwolenia, o którym mowa w ust. 2.”,
+    - **b)** w ust. 8 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) z dniem ogłoszenia lub innym określonym przez zgromadzenie inwestorów – w przypadku zmiany statutu funduszu inwestycyjnego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, na którą zgromadzenie inwestorów wyraziło zgodę;”,
+    - **c)** ust. 9 otrzymuje brzmienie: „9. Fundusz inwestycyjny zawiadamia Komisję o terminach dokonanych ogłoszeń oraz o treści ogłoszeń, załączając do zawiadomienia jednolity tekst statutu oraz wypis aktu notarialnego zawierającego zmiany statutu, a także składa wniosek do sądu rejestrowego o wpisanie do rejestru zmiany statutu, załączając do wniosku jego jednolity tekst wraz z informacją o dokonaniu ogłoszeń i o terminach ich dokonania, a w przypadku, o którym mowa w ust. 8 pkt 1a – wraz z uchwałą zgromadzenia inwestorów.”;
+
+- **7)** w art. 26 ust. 1 otrzymuje brzmienie: „1. Przyjmowanie zapisów na jednostki uczestnictwa albo na certyfikaty inwestycyjne funduszu inwestycyjnego rozpoczyna się nie wcześniej niż w dniu następującym po dniu doręczenia zezwolenia na utworzenie funduszu, a w przypadku funduszu, o którym mowa w art. 15 ust. 1a – w terminie określonym w statucie funduszu. Termin przyjmowania zapisów nie może być dłuższy niż 2 miesiące.”;
+- **8)** w art. 27:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Towarzystwo prowadzi zapisy na certyfikaty inwestycyjne funduszu, o którym mowa w art. 15 ust. 1a, bezpośrednio lub za pośrednictwem firmy inwestycyjnej w trybie ustawy o obrocie instrumentami finansowymi, a na jednostki uczestnictwa – bezpośrednio lub za pośrednictwem podmiotu prowadzącego działalność maklerską w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych, banku krajowego wykonującego działalność, o której mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, lub krajowego oddziału instytucji kredytowej uprawnionego do wykonywania działalności w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych.”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Za zgodą Komisji towarzystwo może prowadzić zapisy na jednostki uczestnictwa za pośrednictwem podmiotu, o którym mowa w art. 32 ust. 2. W takim przypadku do wniosku, o którym mowa w art. 22, towarzystwo załącza umowę zawartą z tym podmiotem oraz dokumenty, o których mowa w art. 32 ust. 4, dotyczące tego podmiotu.
+
+4. Komisja odmawia zgody, o której mowa w ust. 3, jeżeli podmiot pośredniczący w prowadzeniu zapisów nie zapewnia wykonywania tych czynności z zachowaniem zasad uczciwego obrotu lub w sposób należycie zabezpieczający interesy osób zapisujących się na jednostki uczestnictwa.”;
+
+- **9)** w art. 29 ust. 7 otrzymuje brzmienie: „7. Do wniosku, o którym mowa w ust. 6, należy dołączyć:
+- **1)** zezwolenie Komisji na utworzenie funduszu inwestycyjnego – w przypadku funduszu inwestycyjnego, którego utworzenie wymaga wydania przez Komisję zezwolenia;
+- **2)** statut funduszu inwestycyjnego;
+- **3)** statut towarzystwa tworzącego fundusz inwestycyjny oraz zaświadczenie albo oświadczenie o wpisie do rejestru przedsiębiorców;
+- **4)** listę członków zarządu towarzystwa zawierającą ich imiona i nazwiska oraz pełnioną funkcję;
+- **5)** oświadczenie depozytariusza o zebraniu wymaganych statutem wpłat oraz o zgodności sposobu ich zebrania z ustawą, statutem funduszu inwestycyjnego oraz – w przypadku funduszu inwestycyjnego, którego utworzenie wymaga wydania przez Komisję zezwolenia – z tym zezwoleniem.”;
+- **10)** w art. 30 ust. 3 otrzymuje brzmienie: „3. Towarzystwo, w terminie 14 dni od dnia:
+- **1)** w którym postanowienie sądu o odmowie wpisu funduszu inwestycyjnego do rejestru funduszy inwestycyjnych stało się prawomocne lub
+- **2)** w którym decyzja Komisji o cofnięciu zezwolenia na utworzenie funduszu inwestycyjnego stała się ostateczna, lub
+- **3)** upływu terminu, o którym mowa w ust. 2 pkt 1 lub 2, lub
+- **4)** upływu 3 miesięcy od zakończenia terminu określonego w statucie funduszu inwestycyjnego, o którym mowa w art. 15 ust. 1a, na dokonanie zapisów na certyfikaty inwestycyjne, jeżeli towarzystwo zebrało wpłaty w wysokości określonej w statucie i nie złożyło wniosku o wpisanie funduszu inwestycyjnego do rejestru funduszy inwestycyjnych, lub
+- **5)** upływu terminu określonego w statucie funduszu inwestycyjnego, o którym mowa w art. 15 ust. 1a, na zebranie wpłat na certyfikaty inwestycyjne, jeżeli towarzystwo nie zebrało wpłat w wysokości i terminie określonych w statucie – zwraca wpłaty do funduszu inwestycyjnego, w tym przenosi prawa z papierów wartościowych, udziałów w spółkach z ograniczoną odpowiedzialnością oraz przenosi prawa, o których mowa w art. 147 ust. 1 pkt 1 lit. a i b oraz pkt 2, wraz z wartością otrzymanych pożytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wpłaty na rachunek prowadzony przez depozytariusza do dnia wystąpienia jednej z przesłanek wymienionych w pkt 1 – 5, oraz pobrane opłaty manipulacyjne.”;
+- **11)** w art. 38 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przepisu ust. 2 nie stosuje się w przypadku spółki, która zamierza utworzyć wyłącznie fundusz inwestycyjny, o którym mowa w art. 15 ust. 1a.”;
+- **12)** w art. 47:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Umowa o zarządzanie portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych, powinna być zawarta w formie pisemnej, a w przypadku umowy zawieranej z klientem detalicznym, w rozumieniu ustawy o obrocie instrumentami finansowymi – w formie pisemnej pod rygorem nieważności.”,
+    - **b)** po ust. 6 dodaje się ust. 6a – 6c w brzmieniu: „6a. Towarzystwo nie przyjmuje lub nie przekazuje w związku z prowadzeniem działalności w zakresie doradztwa inwestycyjnego lub zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, opłat, prowizji lub świadczeń niepieniężnych, z wyłączeniem:
+
+- **1)** opłat, prowizji i świadczeń niepieniężnych przyjmowanych od klienta lub osoby działającej w jego imieniu albo przekazywanych klientowi lub osobie działającej w jego imieniu;
+- **2)** opłat lub prowizji niezbędnych dla świadczenia danej usługi na rzecz klienta;
+- **3)** opłat, prowizji i świadczeń niepieniężnych innych niż wskazane w pkt 1 i 2, pod warunkiem że:
+    - **a)** informacja o tych opłatach, prowizjach lub świadczeniach niepieniężnych, w tym o ich istocie i wysokości lub sposobie ustalania ich wysokości, została przekazana klientowi przed zawarciem umowy o świadczenie danej usługi,
+    - **b)** są one przyjmowane albo przekazywane w celu poprawienia jakości usługi świadczonej przez towarzystwo na rzecz klienta.
+
+6b. Przepisu ust. 6a pkt 3 lit. a nie stosuje się do towarzystwa, które przed zawarciem umowy o świadczenie usługi przekazuje klientowi ogólne zasady przyjmowania lub przekazywania opłat, prowizji i świadczeń niepieniężnych innych niż wskazane w ust. 6a pkt 1 i 2, pod warunkiem że informuje klienta o możliwości przekazania na jego żądanie danych, o których mowa w ust. 6a pkt 3 lit. a.
+
+6c. Przepisy ust. 6a pkt 3 oraz ust. 6b stosuje się odpowiednio do opłat, prowizji i świadczeń niepieniężnych, których możliwość przyjęcia lub przekazania zaistniała po zawarciu umowy o świadczenie danej usługi.”;
+
+- **13)** w art. 48 ust. 1 otrzymuje brzmienie: „1. W towarzystwie, z wyjątkiem towarzystwa zarządzającego wyłącznie funduszami, o których mowa w art. 196, które nie są publicznymi funduszami inwestycyjnymi zamkniętymi, działa kontrola wewnętrzna. Kontrola wewnętrzna sprawdza legalność i prawidłowość wykonywanej przez towarzystwo działalności w zakresie zarządzania funduszami inwestycyjnymi, pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub tytułów uczestnictwa funduszy zagranicznych, zarządzania zbiorczym portfelem papierów wartościowych, zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, doradztwa inwestycyjnego lub pełnienia funkcji przedstawiciela funduszy zagranicznych, oraz prawidłowość sprawozdań i informacji sporządzanych przez towarzystwo i zarządzane przez nie fundusze inwestycyjne.”;
+- **14)** w art. 50 ust. 9 otrzymuje brzmienie: „9. Przepisu ust. 3 nie stosuje się do towarzystwa zarządzającego wyłącznie funduszami, o których mowa w art. 183 lub art. 196, które nie są publicznymi funduszami inwestycyjnymi zamkniętymi.”;
+- **15)** w art. 58:
+    - **a)** w ust. 1: – pkt 5 otrzymuje brzmienie: „5) dane osobowe członków zarządu depozytariusza odpowiedzialnych za wykonywanie funkcji depozytariusza przez jednostkę organizacyjną banku wraz z opisem ich kwalifikacji i doświadczeń zawodowych;”, – pkt 15 otrzymuje brzmienie: „15) dane osobowe osób wyznaczonych przez depozytariusza do wykonywania obowiązków określonych w umowie;”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku spółki, która zamierza utworzyć fundusz inwestycyjny, o którym mowa w art. 15 ust. 1a, do wniosku o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo załącza się dokumenty wskazane w ust. 1 pkt 1 – 4 oraz 6 – 12.”;
+
+- **16)** w art. 61 uchyla się ust. 3;
+- **17)** w art. 65a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Towarzystwo jest obowiązane opracować i wdrożyć:
+
+- **1)** szczegółowe procedury podejmowania decyzji inwestycyjnych w procesie zarządzania portfelem inwestycyjnym funduszu – z wyjątkiem funduszu, o którym mowa w art. 183 lub art. 196, który nie jest publicznym funduszem inwestycyjnym zamkniętym, oraz
+- **2)** procedury umożliwiające monitorowanie i mierzenie w każdym czasie ryzyka związanego z poszczególnymi przedmiotami lokat oraz ryzyka portfela inwestycyjnego funduszu, ze szczególnym uwzględnieniem umów mających za przedmiot instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, a także prawa majątkowe, o których mowa w art. 145 ust. 1 pkt 6 – z wyjątkiem funduszu, o którym mowa w art. 183 lub art. 196, który nie jest publicznym funduszem inwestycyjnym zamkniętym.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. W przypadku gdy towarzystwo zleca zarządzanie całością portfeli inwestycyjnych wszystkich zarządzanych przez siebie funduszy inwestycyjnych innych niż fundusze, o których mowa w art. 183 lub art. 196, niebędące publicznymi funduszami inwestycyjnymi zamkniętymi, podmiotowi, o którym mowa w art. 46 ust. 1, podmiot ten może opracować procedury, o których mowa w ust. 1 pkt 1, wdrożyć je po uprzedniej akceptacji towarzystwa i przekazać depozytariuszowi funduszu inwestycyjnego.”;
+
+- **18)** w art. 73 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Osoby wyznaczone przez depozytariusza do wykonywania obowiązków określonych w umowie o prowadzenie rejestru aktywów funduszu inwestycyjnego powinny posiadać kwalifikacje i doświadczenie zawodowe w tym zakresie oraz nie mogą być karane za umyślne przestępstwo lub przestępstwo skarbowe.”;
+- **19)** w art. 80 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. W przypadku funduszu inwestycyjnego zamkniętego, który nie jest publicznym funduszem inwestycyjnym zamkniętym, zgoda, o której mowa w ust. 1, nie jest wymagana.”;
+- **20)** w art. 107 w ust. 1 pkt 2 otrzymuje brzmienie: „2) dokonywać krótkiej sprzedaży rozumianej jako technika inwestycyjna, która opiera się na założeniu osiągnięcia zysku w wyniku spadku cen określonych instrumentów finansowych od momentu realizacji zlecenia ich sprzedaży, jeżeli zostały pożyczone w celu rozliczenia transakcji przez inwestora lub przez podmiot realizujący na rachunek inwestora zlecenie sprzedaży, albo nabyte w tym celu przez jeden z tych podmiotów na podstawie umowy lub umów zobowiązujących zbywcę do dokonania w przyszłości odkupu od nabywcy takich samych instrumentów finansowych, do momentu wymagalności roszczenia o zwrot sprzedanych w ten sposób instrumentów finansowych, albo zostały spełnione odpowiednie warunki, o których mowa w art. 7 ust. 5a ustawy o obrocie instrumentami finansowymi;”;
+- **21)** art. 117 otrzymuje brzmienie: „Art. 117. 1. Fundusz inwestycyjny zamknięty emituje certyfikaty inwestycyjne.
+
+2. Certyfikaty inwestycyjne mogą być przedmiotem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym, lub wprowadzenia do alternatywnego systemu obrotu, jeżeli statut funduszu inwestycyjnego tak stanowi.
+
+3. Osoby fizyczne mogą nabyć certyfikaty inwestycyjne funduszu, o którym mowa w art. 15 ust. 1a, jeżeli dokonają jednorazowo zapisu na certyfikaty o wartości nie mniejszej niż równowartość w złotych 40 000 euro. Równowartość w złotych kwoty wyrażonej w euro ustala się przy zastosowaniu średniego kursu euro ogłoszonego przez Narodowy Bank Polski w dniu dokonywania zapisu.”;
+
+- **22)** po art. 117 dodaje się art. 117a i art. 117b w brzmieniu: „Art. 117a. 1. W przypadku funduszu, o którym mowa w art. 15 ust. 1a, zmiana statutu funduszu inwestycyjnego w zakresie określenia, że certyfikaty inwestycyjne funduszu będą oferowane w drodze oferty publicznej lub dopuszczone do obrotu na rynku regulowanym, lub wprowadzane do alternatywnego systemu obrotu, wymaga uzyskania zezwolenia Komisji.
+
+2. Zmiana statutu funduszu inwestycyjnego, o której mowa w ust. 1, wymaga również zatwierdzenia prospektu emisyjnego lub memorandum informacyjnego zgodnie z przepisami rozdziału 2 ustawy o ofercie publicznej, jeżeli obowiązek ich sporządzenia i zatwierdzenia wynika z przepisów tej ustawy.
 
 **Art. 117b.**
 
@@ -198,6 +286,12 @@ source: "isap-pdf"
 - **56)** w art. 280 w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) członkowie zgromadzenia inwestorów będący osobami fizycznymi, osoby uprawnione do reprezentowania członków niebędących osobami fizycznymi w zgromadzeniu inwestorów, a także pełnomocnicy członków zgromadzenia inwestorów w przypadku przyznania zgromadzeniu inwestorów uprawnień rady inwestorów zgodnie z art. 144 ust. 7;”.
 
 **Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm. ) w art. 6 w ust. 1 w pkt 10a:
+
+- **1)** lit. b–d otrzymują brzmienie: „b) wyłącznym przedmiotem ich działalności jest zbiorowe lokowanie środków pieniężnych, zebranych w drodze publicznego lub niepublicznego proponowania nabycia ich tytułów uczestnictwa, w papiery wartościowe, instrumenty rynku pieniężnego i inne prawa majątkowe,
+    - **c)** prowadzą swoją działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę, albo prowadzenie przez nie działalności wymaga zawiadomienia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę, w przypadku gdy: – prowadzą swoją działalność w formie instytucji wspólnego inwestowania typu zamkniętego oraz – zgodnie z dokumentami założycielskimi ich tytuły uczestnictwa nie są oferowane w drodze oferty publicznej ani dopuszczone do obrotu na rynku regulowanym, ani wprowadzone do alternatywnego systemu obrotu oraz mogą być nabywane także przez osoby fizyczne wyłącznie gdy osoby te dokonają jednorazowego nabycia tytułów uczestnictwa o wartości nie mniejszej niż 40 000 euro,
+    - **d)** ich działalność podlega bezpośredniemu nadzorowi właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę,”;
+
+- **2)** w lit. e na końcu średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „f) zarządzane są przez podmioty, które prowadzą swoją działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym podmioty te mają siedzibę;”.
 
 **Art. 3.**
 

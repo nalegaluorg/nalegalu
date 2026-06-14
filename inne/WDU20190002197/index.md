@@ -8,7 +8,7 @@ pos: 2197
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pracy na statkach rybackich
@@ -52,6 +52,20 @@ Art. 65–68. (pominięte)
 6. Prace wykonywane przez rybaków uważa się za prace, o których mowa w pkt 22 załącznika nr 1 do ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2024 r. poz. 1696).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** agencja zatrudnienia – agencję zatrudnienia, o której mowa w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);
+- **2)** armator – armatora w rozumieniu art. 7 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2023 r. poz. 1309), w tym właściciela statku rybackiego, oraz inną organizację lub osobę, taką jak zarządzający statkiem rybackim, agent lub podmiot czarterujący statek rybacki bez załogi, która przejęła od właściciela odpowiedzialność za eksploatację statku rybackiego i która zobowiązała się tym samym do przejęcia wszystkich obowiązków oraz odpowiedzialności nałożonych na właścicieli statków rybackich zgodnie z niniejszą ustawą, bez względu na to, czy niektóre z obowiązków pełni w imieniu właściciela statku rybackiego jakakolwiek inna organizacja lub osoba;
+- **3)** długość – 96 % długości całkowitej kadłuba mierzonej w płaszczyźnie wodnicy na wysokości równej 85 % najmniejszej wysokości bocznej mierzonej od górnej krawędzi stępki lub jako długość mierzona w płaszczyźnie wodnicy od przedniej krawędzi dziobnicy do osi trzonu sterowego na wodnicy, jeżeli ta wartość jest większa; na statkach z przegłębieniem konstrukcyjnym długość tę mierzy się w płaszczyźnie równoległej do wodnicy konstrukcyjnej;
+- **4)** Konwencja nr 188 – Konwencję nr 188 dotyczącą pracy w sektorze rybołówstwa, przyjętą przez Konferencję Ogólną Międzynarodowej Organizacji Pracy w Genewie dnia 14 czerwca 2007 r.;
+- **5)** połowy komercyjne – rybołówstwo komercyjne w rozumieniu przepisów ustawy o rybołówstwie morskim lub przetwórstwo na statku rybackim ryb lub innych organizmów morskich;
+- **6)** praktykant: o bezpieczeństwie morskim (Dz. U. z 2025 r. poz. 883), zwaną dalej „ustawą o bezpieczeństwie morskim”, odbywającego praktykę zawodową na szkolnym statku rybackim, którego ta szkoła lub uczelnia jest armatorem, albo na statku rybackim innego armatora na podstawie umowy zawartej między szkołą lub uczelnią a tym armatorem lub na podstawie umowy zawartej bezpośrednio między praktykantem a tym armatorem,
+    - **a)** ucznia szkoły ponadpodstawowej oraz kandydata i studenta uczelni, o których mowa w art. 74 ust. 2 ustawy z dnia 18 sierpnia 2011 r.
+    - **b)** każdego innego ucznia oraz kandydata i studenta, odbywającego praktykę zawodową na statku rybackim armatora na podstawie umowy zawartej między szkołą lub uczelnią a tym armatorem lub na podstawie umowy zawartej bezpośrednio między praktykantem a tym armatorem;
+
+- **7)** repatriacja – zapewnienie rybakowi możliwości powrotu z zagranicznego portu do miejsca jego zamieszkania lub miejsca wskazanego w rybackiej umowie o pracę po wygaśnięciu rybackiej umowy o pracę albo po wypowiedzeniu lub rozwiązaniu przez rybaka lub armatora rybackiej umowy o pracę z uzasadnionych powodów;
+- **8)** rybacka umowa o pracę – umowę o pracę zawartą między armatorem a rybakiem, regulującą warunki pracy i życia rybaka na statku rybackim;
+- **9)** rybak – każdego członka załogi statku rybackiego, z wyjątkiem osoby okazjonalnie wykonującej na statku rybackim pracę niezwiązaną z połowem organizmów morskich;
+- **10)** statek rybacki – statek wpisany do rejestru statków rybackich, o którym mowa w art. 13 ust. 1 ustawy o rybołówstwie morskim.
 
 #### Rozdział 2 Minimalne wymagania dla rybaków do pracy na statku rybackim
 
@@ -376,6 +390,10 @@ Art. 65–68. (pominięte)
 
 **Art. 26.** Armator nie może:
 
+- **1)** wymagać od rybaka wpłacenia zaliczki w związku z kosztami repatriacji;
+- **2)** potrącać kosztów repatriacji z wynagrodzenia za pracę rybaka, w tym innych dodatkowych świadczeń pieniężnych, wynikających z rybackiej umowy o pracę, z wyjątkiem przypadku, o którym mowa w art. 24 ust. 3;
+- **3)** obciążać rybaka kosztami repatriacji w przypadku wystąpienia okoliczności, o których mowa w art. 11 ust. 3.
+
 **Art. 27.**
 
 1. Dyrektor urzędu morskiego właściwy dla portu macierzystego statku rybackiego we współpracy z konsulem Rzeczypospolitej Polskiej organizuje repatriację, w przypadku gdy armator statku rybackiego o polskiej przynależności nie podjął działań zmierzających do repatriacji rybaka lub gdy nie pokrył kosztów repatriacji.
@@ -550,7 +568,14 @@ Art. 65–68. (pominięte)
 
 **Art. 42.** Jeżeli niezdolność do pracy rybaka powstała na skutek choroby lub uszkodzenia ciała, armator wypłaca wynagrodzenie za pracę, o którym mowa w art. 14 ust. 2:
 
+- **1)** do czasu gdy chory lub ranny rybak przebywa na statku rybackim albo do czasu repatriacji rybaka;
+- **2)** od dnia repatriacji rybaka albo zejścia ze statku rybackiego do czasu jego powrotu do zdrowia lub nabycia uprawnień do świadczeń na zasadach określonych w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083) albo w ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 257, 620 i 1083).
+
 **Art. 43.** Armator jest zwolniony z obowiązku pokrywania kosztów opieki medycznej, w przypadku gdy:
+
+- **1)** uszkodzenie ciała rybaka nastąpiło w sytuacji niezwiązanej z wykonywaniem pracy na statku rybackim;
+- **2)** uszkodzenie ciała lub choroba wynika z nieprawidłowego świadomego postępowania chorego lub rannego rybaka;
+- **3)** choroba lub niepełnosprawność rybaka istniała przed dniem zawarcia rybackiej umowy o pracę i została przez rybaka ukryta przed armatorem.
 
 **Art. 44.**
 
@@ -769,6 +794,12 @@ Art. 65–68. (pominięte)
 
 **Art. 60.** Kto, będąc armatorem:
 
+- **1)** wbrew obowiązkowi, o którym mowa w art. 4 ust. 13, nie pokrywa kosztów badania lekarskiego przeprowadzanego w celu wydania rybakowi świadectwa zdrowia,
+- **2)** nie pokrywa kosztów poniesionych przez rybaka, pozostających w bezpośrednim związku z przesunięciem terminu urlopu wypoczynkowego lub odwołaniem z urlopu wypoczynkowego,
+- **3)** nie zapewnia, aby pomieszczenia pracy i pomieszczenia mieszkalne, rekreacyjne i higieniczno-sanitarne oraz mesy na statku rybackim spełniały wymagania określone w Konwencji nr 188 w zakresie powierzchni, oświetlenia, czystości powietrza oraz dopuszczalnego hałasu i drgań,
+- **4)** nie pokrywa kosztów związanych z chorobą lub uszkodzeniem ciała rybaka oraz kosztów opieki medycznej, o których mowa w art. 40 ust. 1, lub kosztów sprowadzenia zwłok w przypadku śmierci rybaka, o których mowa w art. 40 ust. 3,
+- **5)** nie posiada wymaganego zabezpieczenia finansowego odpowiedzialności armatora – podlega karze grzywny od 1000 zł do 30 000 zł.
+
 **Art. 61.**
 
 1. Kto, będąc armatorem lub działając w jego imieniu:
@@ -795,6 +826,14 @@ Art. 65–68. (pominięte)
 - **5)** nie udziela przysługującego rybakowi urlopu wypoczynkowego lub bezpodstawnie obniża wymiar tego urlopu.
 
 **Art. 63.** Kto, będąc armatorem lub działając w jego imieniu:
+
+- **1)** nie dokonuje repatriacji rybaka w przypadkach, o których mowa w art. 23 ust. 1,
+- **2)** nie zapewnia, aby stanowiska pracy, maszyny, instalacje i urządzenia na statku rybackim zapewniały bezpieczne i higieniczne warunki pracy i życia rybaków oraz innych osób znajdujących się na statku rybackim, w szczególności nie stwarzały zagrożeń wypadkami lub zagrożeń dla zdrowia w wyniku narażenia na czynniki niebezpieczne, szkodliwe lub uciążliwe w środowisku pracy,
+- **3)** nie zapewnia rybakowi bezpłatnie wyżywienia o odpowiedniej wartości odżywczej, jakości i ilości lub wody pitnej odpowiedniej jakości i ilości,
+- **4)** nie dostarcza członkom załogi statku rybackiego bezpłatnie środków ochrony indywidualnej oraz odzieży i obuwia roboczego, zabezpieczających przed działaniem niebezpiecznych i szkodliwych dla zdrowia czynników występujących w środowisku pracy na morzu lub nie informuje ich o sposobach posługiwania się tymi środkami,
+- **5)** nie zapewnia rybakowi dostępu do opieki medycznej w zakresie, o którym mowa w art. 37 ust. 1 i 2,
+- **6)** wbrew obowiązkowi, o którym mowa w art. 38 ust. 3, nie zapewnia, aby w składzie załogi statku rybackiego znajdował się co najmniej jeden rybak przeszkolony w zakresie sprawowania opieki medycznej nad chorym,
+- **7)** nakłania rybaka, osobę przez niego upoważnioną lub uprawnionego w rozumieniu art. 93 § 4 Kodeksu pracy członka rodziny rybaka do przyjęcia świadczenia niższego niż wynikające z art. 40 ust. 2 lub art. 45 ust. 1 – podlega karze grzywny od 1000 zł do 30 000 zł.
 
 **Art. 64.**
 
@@ -868,4 +907,8 @@ Art. 65–68. (pominięte)
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz odpowiedzialnym za wdrożenie mechanizmów korygujących, o których mowa w ust. 2, jest minister właściwy do spraw gospodarki morskiej.
 
 **Art. 81.** Ustawa wchodzi w życie z dniem 15 listopada 2019 r., z wyjątkiem:
+
+- **1)** art. 4 ust. 2 i art. 67 pkt 4 i 5, które wchodzą w życie po upływie 2 lat od dnia ogłoszenia ;
+- **2)** art. 68 pkt 6, który wchodzi w życie z dniem 2 stycznia 2020 r.
+
 

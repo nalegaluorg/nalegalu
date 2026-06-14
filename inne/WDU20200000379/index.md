@@ -8,7 +8,7 @@ pos: 379
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw

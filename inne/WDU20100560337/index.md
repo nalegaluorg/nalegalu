@@ -8,7 +8,7 @@ pos: 337
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zasadach obsadzenia w kadencji trwającej w latach 2009–2014 dodatkowego mandatu posła do Parlamentu Europejskiego
@@ -52,7 +52,7 @@ source: "isap-pdf"
 
 1. Państwowa Komisja Wyborcza wręcza posłowi do Parlamentu Europejskiego, o którym mowa w art. 5, zaświadczenie o obsadzeniu mandatu posła do Parlamentu Europejskiego nie później niż 7 dnia po ogłoszeniu obwieszczenia, o którym mowa w art. 5.
 
-2. Marszałek niezwłocznie po ogłoszeniu obwieszczenia, o którym mowa w art. 5, przesyła Przewodniczącemu Parlamentu Europejskiego zawiadomienie o obsadzeniu mandatu posła do Parlamentu Europejskiego i inne wymagane przez Parlament Europejski dokumenty.
+2. Marszałek Sejmu niezwłocznie po ogłoszeniu obwieszczenia, o którym mowa w art. 5, przesyła Przewodniczącemu Parlamentu Europejskiego zawiadomienie o obsadzeniu mandatu posła do Parlamentu Europejskiego i inne wymagane przez Parlament Europejski dokumenty.
 
 **Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

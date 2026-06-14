@@ -8,10 +8,10 @@ pos: 1806
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1806 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 11 sierpnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1806/text.pdf) |
 
-Poz. 1806 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 11 sierpnia 2022 r.
 w sprawie upoważnienia Sieci Badawczej Łukasiewicz – Łódzkiego Instytutu Technologicznego do wykonywania czynności administracyjnych w sprawach warunków technicznych i badań opakowań towarów niebezpiecznych Na podstawie art. 9 ust. 2a ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2021 r.
-poz. 756 oraz z 2022 r. poz. 209) zarządza się, co następuje: § 1. Upoważnia się Sieć Badawczą Łukasiewicz – Łódzki Instytut Technologiczny do wykonywania czynności administracyjnych w sprawach warunków technicznych i badań opakowań towarów niebezpiecznych klas 1, 3, 4.1, 4.2, 4.3,
+poz. 756 oraz z 2022 r. poz. 209) zarządza się, co następuje:
+§ 1. Upoważnia się Sieć Badawczą Łukasiewicz – Łódzki Instytut Technologiczny do wykonywania czynności administracyjnych w sprawach warunków technicznych i badań opakowań towarów niebezpiecznych klas 1, 3, 4.1, 4.2, 4.3,
 5.1, 5.2, 6.1, 6.2, 8 i 9.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Rozwoju i Technologii: W. Buda

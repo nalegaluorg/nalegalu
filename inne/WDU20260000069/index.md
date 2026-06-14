@@ -8,12 +8,10 @@ pos: 69
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo geologiczne i górnicze
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.*
+# w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo geologiczne i górnicze
 
 | Pole | Wartość |
 |---|---|
@@ -27,15 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000069) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/69/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290), z uwzględnieniem zmian wprowadzonych:
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769),
-2) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy Prawo geologiczne i górnicze (Dz. U. poz. 1023),
+2) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy – Prawo geologiczne i górnicze (Dz. U. poz. 1023),
 3) ustawą z dnia 5 listopada 2025 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1668) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 stycznia 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje:
 1) art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), który stanowi: „Art. 48. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą w życie z dniem 1 stycznia 2026 r.;
 2) art. 28 oraz art. 44, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”;
-2) art. 2 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy Prawo geologiczne i górnicze (Dz. U. poz. 1023), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) art. 2 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy – Prawo geologiczne i górnicze (Dz. U. poz. 1023), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
 3) art. 9 ustawy z dnia 5 listopada 2025 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1668), który stanowi: „Art. 9. Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 5 pkt 2, który wchodzi w życie z dniem 1 stycznia 2026 r.”.
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 9 czerwca 2011 r.
@@ -58,8 +56,7 @@ Art. 49zm. 1. W zakresie wykonywania działalności objętej umową o współpra
 7. (uchylony)
 Art. 49zn. (uchylony)
 Art. 49zo. (uchylony)
-Art. 49zp. 1. Dla działalności objętej umową o współpracy oraz koncesją na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesją na wydobywanie węglowodorów ze złoża operator zakłada dla wszystkich stron umowy rachunek wspólny, o którym mowa w art. 51 ustawy z dnia 29 sierpnia 1997 r.
-Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ).
+Art. 49zp. 1. Dla działalności objętej umową o współpracy oraz koncesją na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesją na wydobywanie węglowodorów ze złoża operator zakłada dla wszystkich stron umowy rachunek wspólny, o którym mowa w art. 51 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ).
 2. Wszelkie płatności i rozliczenia związane z wykonywaniem umowy o współpracy oraz koncesji mogą być dokonywane wyłącznie przez rachunek wspólny.
 Art. 49zq. 1. Za zobowiązania powstałe w związku z działalnością objętą umową o współpracy oraz koncesją na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesją na wydobywanie węglowodorów ze złoża, w tym uiszczenie wynagrodzenia z tytułu umowy o ustanowieniu użytkowania górniczego i umowy na korzystanie z informacji geologicznej, do której prawa przysługują Skarbowi Państwa oraz opłat, o których mowa w dziale VII, odpowiedzialność ponosi operator.
 2. Za zobowiązania wobec osób trzecich powstałe w związku z działalnością objętą umową o współpracy oraz koncesją odpowiedzialność ponosi operator.
@@ -77,7 +74,7 @@ Art. 49zt. 1. Strona umowy o współpracy niebędąca operatorem może wypowiedz
 Pozostałe strony umowy o współpracy są obowiązane do przejęcia praw i obowiązków dotychczasowej strony tej umowy.
 6. Prawa i obowiązki dotychczasowej strony umowy o współpracy przechodzą na pozostałe strony tej umowy w:
 1) częściach uzgodnionych przez strony;
-2) przypadku niedokonania uzgodnienia, o którym mowa w pkt 1, w terminie wskazanym w art. 49zg ust. 6 proporcjonalnie do udziałów w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych.
+2) przypadku niedokonania uzgodnienia, o którym mowa w pkt 1, w terminie wskazanym w art. 49zg ust. 6 – proporcjonalnie do udziałów w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych.
 7. (uchylony)
 8. (uchylony)
 Art. 49zu. Rozliczenie dokonane między stronami umowy o współpracy w przypadkach, o których mowa w art. 49zr oraz art. 49zt, wywołuje skutki wyłącznie między tymi stronami i nie zwalnia ich ze zobowiązań wobec osób trzecich.
@@ -105,7 +102,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 3. (uchylony)
 
-4. Warunki wykonywania i kontrolowania działalności polegającej na przesyłaniu dwutlenku węgla w celu jego podziemnego składowania określa ustawa z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ).
+4. Warunki wykonywania i kontrolowania działalności polegającej na przesyłaniu dwutlenku węgla w celu jego podziemnego składowania określa ustawa z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ).
 
 **Art. 2.**
 
@@ -125,6 +122,15 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 **Art. 2a.** Przepisy dotyczące węglowodorów stosuje się do gazów szlachetnych oraz do wodoru.
 
 **Art. 3.** Ustawy nie stosuje się do:
+
+- **1)** korzystania z wód w zakresie uregulowanym odrębnymi przepisami;
+- **2)** wykonywania wkopów oraz otworów wiertniczych o głębokości do 30 m w celu wykorzystania ciepła Ziemi, poza obszarami górniczymi;
+- **2a)** wykonywania wkopów oraz otworów wiertniczych o głębokości do 30 m w celu wykonywania ujęć wód podziemnych na potrzeby poboru wód podziemnych w ilości nieprzekraczającej 5 m na dobę poza obszarami górniczymi utworzonymi w celu wydobywania wód leczniczych lub solanek;
+- **3)** badań naukowych i działalności dydaktycznej, prowadzonych bez wykonywania robót geologicznych;
+- **4)** pozyskiwania okazów minerałów, skał i skamielin w celach naukowych, kolekcjonerskich i dydaktycznych, prowadzonego bez wykonywania robót górniczych;
+- **5)** wykonywania robót związanych ze sztucznym zasilaniem strefy brzegowej piaskiem, pochodzącym z osadów dennych obszarów morskich Rzeczypospolitej Polskiej;
+- **6)** wydobywania kruszywa w zakresie niezbędnym do wykonania pilnych prac zabezpieczających przed powodzią w czasie obowiązywania stanu klęski żywiołowej;
+- **7)** ustalania geotechnicznych warunków posadawiania obiektów budowlanych bez wykonywania robót geologicznych.
 
 **Art. 4.**
 
@@ -147,14 +153,14 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 2. Wodą:
 
 - **1)** leczniczą jest woda podziemna, która pod względem chemicznym i mikrobiologicznym nie jest zanieczyszczona, cechuje się naturalną zmiennością cech fizycznych i chemicznych, o zawartości:
-    - **a)** rozpuszczonych składników mineralnych stałych niemniej niż 1000 mg/dm lub
-    - **b)** jonu żelazawego niemniej niż 10 mg/dm (wody żelaziste), lub
-    - **c)** jonu fluorkowego niemniej niż 2 mg/dm (wody fluorkowe), lub
-    - **d)** jonu jodkowego niemniej niż 1 mg/dm (wody jodkowe), lub
-    - **e)** siarki dwuwartościowej niemniej niż 1 mg/dm (wody siarczkowe), lub
-    - **f)** kwasu metakrzemowego niemniej niż 70 mg/dm (wody krzemowe), lub
-    - **g)** radonu niemniej niż 74 Bq/dm (wody radonowe), lub
-    - **h)** dwutlenku węgla niezwiązanego niemniej niż 250 mg/dm , z tym że od 250 do 1000 mg/dm to wody kwasowęglowe, a powyżej 1000 mg/dm to szczawa;
+    - **a)** rozpuszczonych składników mineralnych stałych – niemniej niż 1000 mg/dm lub
+    - **b)** jonu żelazawego – niemniej niż 10 mg/dm (wody żelaziste), lub
+    - **c)** jonu fluorkowego – niemniej niż 2 mg/dm (wody fluorkowe), lub
+    - **d)** jonu jodkowego – niemniej niż 1 mg/dm (wody jodkowe), lub
+    - **e)** siarki dwuwartościowej – niemniej niż 1 mg/dm (wody siarczkowe), lub
+    - **f)** kwasu metakrzemowego – niemniej niż 70 mg/dm (wody krzemowe), lub
+    - **g)** radonu – niemniej niż 74 Bq/dm (wody radonowe), lub
+    - **h)** dwutlenku węgla niezwiązanego – niemniej niż 250 mg/dm , z tym że od 250 do 1000 mg/dm to wody kwasowęglowe, a powyżej 1000 mg/dm to szczawa;
 
 - **2)** termalną jest woda podziemna, która na wypływie z ujęcia ma temperaturę niemniejszą niż 20 C.
 
@@ -166,53 +172,53 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 1. W rozumieniu ustawy:
 
-- **1)** danymi geologicznymi są wyniki bezpośrednich obserwacji i pomiarów uzyskanych w toku prowadzenia prac geologicznych;
-- **1a)** działaniami naprawczymi są działania podjęte w celu:
+- **1)** danymi geologicznymi – są wyniki bezpośrednich obserwacji i pomiarów uzyskanych w toku prowadzenia prac geologicznych;
+- **1a)** działaniami naprawczymi – są działania podjęte w celu:
     - **a)** naprawienia lub usunięcia nieprawidłowości w procesie zatłaczania lub składowania dwutlenku węgla albo w kompleksie podziemnego składowania dwutlenku węgla, które wiążą się z ryzykiem wystąpienia wycieku dwutlenku węgla lub powstaniem zagrożenia zdrowia i życia ludzi oraz środowiska,
     - **b)** zatrzymania wycieku dwutlenku węgla, aby uniemożliwić lub zatrzymać wydostanie się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla;
 
-- **1b)** formacją geologiczną jest podstawowe wydzielenie litostratygraficzne, w ramach którego można wyodrębnić warstwy skał i przedstawić je na mapie;
-- **1c)** badaniami geofizycznymi w celu zbadania struktur geologicznych związanych z występowaniem złóż węglowodorów jest wykonywanie prac geologicznych z zastosowaniem metod geofizycznych, w tym połączonych z robotami geologicznymi z wyłączeniem robót polegających na wykonywaniu otworów wiertniczych o głębokości przekraczającej 100 m lub robót z użyciem środków strzałowych;
-- **2)** informacją geologiczną są dane i próbki geologiczne wraz z wynikami ich przetworzenia i interpretacji, w szczególności przedstawione w dokumentacjach geologicznych oraz zapisane na informatycznych nośnikach danych;
-- **2a)** kompleksem podziemnego składowania dwutlenku węgla jest podziemne składowisko dwutlenku węgla i otaczające je formacje geologiczne, które mogą mieć wpływ na stabilność i bezpieczeństwo podziemnego składowania dwutlenku węgla;
-- **2b)** intensyfikacją wydobycia węglowodorów są metody wspomagania wydobywania węglowodorów ze złoża mające na celu zwiększenie stopnia zamierzonego wykorzystania zasobów złoża;
-- **3)** kopaliną wydobytą jest całość kopaliny odłączonej od złoża;
-- **4)** obiektem budowlanym zakładu górniczego jest znajdujący się poza podziemnym wyrobiskiem górniczym obiekt zakładu górniczego będący obiektem budowlanym w rozumieniu ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847), służący bezpośrednio do wykonywania działalności regulowanej ustawą w zakresie:
+- **1b)** formacją geologiczną – jest podstawowe wydzielenie litostratygraficzne, w ramach którego można wyodrębnić warstwy skał i przedstawić je na mapie;
+- **1c)** badaniami geofizycznymi w celu zbadania struktur geologicznych związanych z występowaniem złóż węglowodorów – jest wykonywanie prac geologicznych z zastosowaniem metod geofizycznych, w tym połączonych z robotami geologicznymi z wyłączeniem robót polegających na wykonywaniu otworów wiertniczych o głębokości przekraczającej 100 m lub robót z użyciem środków strzałowych;
+- **2)** informacją geologiczną – są dane i próbki geologiczne wraz z wynikami ich przetworzenia i interpretacji, w szczególności przedstawione w dokumentacjach geologicznych oraz zapisane na informatycznych nośnikach danych;
+- **2a)** kompleksem podziemnego składowania dwutlenku węgla – jest podziemne składowisko dwutlenku węgla i otaczające je formacje geologiczne, które mogą mieć wpływ na stabilność i bezpieczeństwo podziemnego składowania dwutlenku węgla;
+- **2b)** intensyfikacją wydobycia węglowodorów – są metody wspomagania wydobywania węglowodorów ze złoża mające na celu zwiększenie stopnia zamierzonego wykorzystania zasobów złoża;
+- **3)** kopaliną wydobytą – jest całość kopaliny odłączonej od złoża;
+- **4)** obiektem budowlanym zakładu górniczego – jest znajdujący się poza podziemnym wyrobiskiem górniczym obiekt zakładu górniczego będący obiektem budowlanym w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847), służący bezpośrednio do wykonywania działalności regulowanej ustawą w zakresie:
     - **a)** wydobywania kopalin ze złóż, a w podziemnych zakładach górniczych wydobywających węgiel kamienny wraz z pozostającym w związku technologicznym z wydobyciem kopaliny przygotowaniem wydobytej kopaliny do sprzedaży, albo
     - **b)** podziemnego bezzbiornikowego magazynowania substancji, albo
     - **c)** podziemnego składowania odpadów, albo
     - **d)** podziemnego składowania dwutlenku węgla;
 
-- **5)** obszarem górniczym jest przestrzeń, w granicach której przedsiębiorca jest uprawniony do wydobywania kopaliny, podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów, podziemnego składowania dwutlenku węgla oraz prowadzenia robót górniczych niezbędnych do wykonywania koncesji;
-- **5a)** podziemnym składowiskiem dwutlenku węgla jest część górotworu o określonej pojemności wykorzystywana w celu trwałego przechowywania dwutlenku węgla, połączona z powierzchniową instalacją zatłaczającą;
-- **5b)** podziemnym składowaniem dwutlenku węgla jest zatłaczanie strumieni dwutlenku węgla do podziemnych formacji geologicznych w celu jego trwałego przechowywania oraz jego przechowywanie w taki sposób, aby uniemożliwić lub w przypadku gdy nie jest to możliwe w jak największym stopniu wyeliminować negatywne oddziaływanie na zdrowie ludzi i środowisko oraz zagrożenia dla nich;
-- **6)** podziemnym składowiskiem odpadów jest część górotworu, w tym podziemne wyrobisko górnicze, wykorzystywana w celu unieszkodliwiania odpadów przez ich składowanie;
-- **7)** poszukiwaniem jest wykonywanie prac geologicznych w celu ustalenia i wstępnego udokumentowania złoża kopaliny, wód podziemnych albo kompleksu podziemnego składowania dwutlenku węgla;
-- **8)** pracą geologiczną jest projektowanie i wykonywanie badań oraz innych czynności, w celu ustalenia budowy geologicznej kraju, a w szczególności poszukiwania i rozpoznawania złóż kopalin, wód podziemnych oraz kompleksu podziemnego składowania dwutlenku węgla, określenia warunków hydrogeologicznych, geologiczno-inżynierskich, a także sporządzanie map i dokumentacji geologicznych oraz projektowanie i wykonywanie badań na potrzeby wykorzystania ciepła Ziemi lub korzystania z wód podziemnych;
-- **9)** przedsiębiorcą jest ten, kto posiada koncesję na prowadzenie działalności regulowanej ustawą;
-- **10)** przywróceniem stanu poprzedniego jest odtworzenie stanu sprzed powstania szkody, w szczególności przez zapewnienie obiektom budowlanym, urządzeniom oraz instalacjom niepogorszonej odporności, ciepłochłonności, szczelności i użyteczności techniczno-funkcjonalnej;
-- **11)** robotą geologiczną jest wykonywanie w ramach prac geologicznych wszelkich czynności poniżej powierzchni terenu, w tym przy użyciu środków strzałowych, a także likwidacja wyrobisk po tych czynnościach, wykonywanie badań sejsmicznych w celu zbadania struktur geologicznych związanych z występowaniem złóż kopalin, o których mowa w art. 10 ust. 1 i 2, oraz w celu wykonania regionalnych badań budowy geologicznej kraju;
-- **12)** robotą górniczą jest wykonywanie, utrzymywanie, zabezpieczanie lub likwidowanie wyrobisk górniczych oraz zwałowanie nadkładu w odkrywkowych zakładach górniczych w związku z działalnością regulowaną ustawą;
-- **13)** rozpoznawaniem jest wykonywanie prac geologicznych na obszarze wstępnie udokumentowanego złoża kopaliny, wód podziemnych albo kompleksu podziemnego składowania dwutlenku węgla;
-- **13a)** rozliczeniem emisji jest rozliczenie wielkości emisji, o którym mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2025 r. poz. 1685 i 1863);
-- **14)** środkami strzałowymi są materiały wybuchowe w rozumieniu ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz. 2378);
-- **15)** terenem górniczym jest przestrzeń objęta przewidywanymi szkodliwymi wpływami robót górniczych zakładu górniczego;
-- **16)** węglowodorami są ropa naftowa, gaz ziemny oraz ich naturalne pochodne, a także metan występujący w złożach węgla kamiennego, z wyjątkiem metanu występującego jako kopalina towarzysząca;
-- **16a)** wyciekiem dwutlenku węgla jest każde wydostanie się dwutlenku węgla poza podziemne składowisko dwutlenku węgla, z wyłączeniem uwalniania z instalacji powierzchniowych w procesie intensyfikacji wydobycia węglowodorów połączonej z podziemnym składowaniem dwutlenku węgla ilości dwutlenku węgla niewiększej niż ilość konieczna w normalnym procesie wydobywania węglowodorów ze złoża, która nie osłabia bezpieczeństwa podziemnego składowania dwutlenku węgla ani nie wpływa negatywnie na środowisko;
-- **16b)** wtłaczaniem wód do górotworu jest pozbycie się wód pochodzących z odwodnień wyrobisk górniczych, wykorzystanych wód leczniczych, wód termalnych, solanek, a także wód złożowych, w tym wód z podziemnych magazynów węglowodorów, z wyłączeniem wód technologicznych wykorzystywanych w magazynach węglowodorów zlokalizowanych w złożach soli kamiennej, polegające na ich wprowadzaniu otworami wiertniczymi do formacji geologicznych izolowanych od użytkowych poziomów wodonośnych;
-- **16c)** wydobywaniem węglowodorów ze złóż jest prowadzenie wydobycia węglowodorów, w tym przygotowanie wydobytych węglowodorów do transportu oraz ich transport w obrębie zakładu górniczego;
-- **17)** wyrobiskiem górniczym jest przestrzeń w nieruchomości gruntowej lub górotworze powstała w wyniku robót górniczych;
-- **17a)** zakładem jest wyodrębniony technicznie i organizacyjnie zespół środków służących bezpośrednio do wykonywania działalności określonej w art. 2 ust. 1 albo art. 86, w tym wyrobiska górnicze, obiekty budowlane, urządzenia oraz instalacje;
-- **18)** zakładem górniczym jest wyodrębniony technicznie i organizacyjnie zespół środków służących bezpośrednio do wykonywania działalności regulowanej ustawą w zakresie wydobywania kopalin ze złóż, a w podziemnych zakładach górniczych wydobywających węgiel kamienny wraz z pozostającym w związku technologicznym z wydobyciem kopaliny przygotowaniem wydobytej kopaliny do sprzedaży, podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów albo podziemnego składowania dwutlenku węgla, w tym wyrobiska górnicze, obiekty budowlane, urządzenia oraz instalacje;
-- **18a)** zamknięciem podziemnego składowiska dwutlenku węgla jest trwałe zaprzestanie zatłaczania dwutlenku węgla do podziemnego składowiska dwutlenku węgla;
-- **19)** złożem kopaliny jest naturalne nagromadzenie minerałów, skał oraz innych substancji, których wydobywanie może przynieść korzyść gospodarczą;
-- **19a)** złożem strategicznym jest złoże kopaliny, które ze względu na jego znaczenie dla gospodarki lub bezpieczeństwa kraju podlega szczególnej ochronie prawnej;
-- **20)** zwałowaniem nadkładu jest zespół czynności prowadzonych w odkrywkowych zakładach górniczych, nierozerwalnie związanych technicznie i organizacyjnie z przemieszczeniem i składowaniem mas ziemnych i skalnych usuwanych znad złoża, w celu umożliwienia wydobycia kopaliny użytecznej.
+- **5)** obszarem górniczym – jest przestrzeń, w granicach której przedsiębiorca jest uprawniony do wydobywania kopaliny, podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów, podziemnego składowania dwutlenku węgla oraz prowadzenia robót górniczych niezbędnych do wykonywania koncesji;
+- **5a)** podziemnym składowiskiem dwutlenku węgla – jest część górotworu o określonej pojemności wykorzystywana w celu trwałego przechowywania dwutlenku węgla, połączona z powierzchniową instalacją zatłaczającą;
+- **5b)** podziemnym składowaniem dwutlenku węgla – jest zatłaczanie strumieni dwutlenku węgla do podziemnych formacji geologicznych w celu jego trwałego przechowywania oraz jego przechowywanie w taki sposób, aby uniemożliwić lub – w przypadku gdy nie jest to możliwe – w jak największym stopniu wyeliminować negatywne oddziaływanie na zdrowie ludzi i środowisko oraz zagrożenia dla nich;
+- **6)** podziemnym składowiskiem odpadów – jest część górotworu, w tym podziemne wyrobisko górnicze, wykorzystywana w celu unieszkodliwiania odpadów przez ich składowanie;
+- **7)** poszukiwaniem – jest wykonywanie prac geologicznych w celu ustalenia i wstępnego udokumentowania złoża kopaliny, wód podziemnych albo kompleksu podziemnego składowania dwutlenku węgla;
+- **8)** pracą geologiczną – jest projektowanie i wykonywanie badań oraz innych czynności, w celu ustalenia budowy geologicznej kraju, a w szczególności poszukiwania i rozpoznawania złóż kopalin, wód podziemnych oraz kompleksu podziemnego składowania dwutlenku węgla, określenia warunków hydrogeologicznych, geologiczno-inżynierskich, a także sporządzanie map i dokumentacji geologicznych oraz projektowanie i wykonywanie badań na potrzeby wykorzystania ciepła Ziemi lub korzystania z wód podziemnych;
+- **9)** przedsiębiorcą – jest ten, kto posiada koncesję na prowadzenie działalności regulowanej ustawą;
+- **10)** przywróceniem stanu poprzedniego – jest odtworzenie stanu sprzed powstania szkody, w szczególności przez zapewnienie obiektom budowlanym, urządzeniom oraz instalacjom niepogorszonej odporności, ciepłochłonności, szczelności i użyteczności techniczno-funkcjonalnej;
+- **11)** robotą geologiczną – jest wykonywanie w ramach prac geologicznych wszelkich czynności poniżej powierzchni terenu, w tym przy użyciu środków strzałowych, a także likwidacja wyrobisk po tych czynnościach, wykonywanie badań sejsmicznych w celu zbadania struktur geologicznych związanych z występowaniem złóż kopalin, o których mowa w art. 10 ust. 1 i 2, oraz w celu wykonania regionalnych badań budowy geologicznej kraju;
+- **12)** robotą górniczą – jest wykonywanie, utrzymywanie, zabezpieczanie lub likwidowanie wyrobisk górniczych oraz zwałowanie nadkładu w odkrywkowych zakładach górniczych w związku z działalnością regulowaną ustawą;
+- **13)** rozpoznawaniem – jest wykonywanie prac geologicznych na obszarze wstępnie udokumentowanego złoża kopaliny, wód podziemnych albo kompleksu podziemnego składowania dwutlenku węgla;
+- **13a)** rozliczeniem emisji – jest rozliczenie wielkości emisji, o którym mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2025 r. poz. 1685 i 1863);
+- **14)** środkami strzałowymi – są materiały wybuchowe w rozumieniu ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz. 2378);
+- **15)** terenem górniczym – jest przestrzeń objęta przewidywanymi szkodliwymi wpływami robót górniczych zakładu górniczego;
+- **16)** węglowodorami – są ropa naftowa, gaz ziemny oraz ich naturalne pochodne, a także metan występujący w złożach węgla kamiennego, z wyjątkiem metanu występującego jako kopalina towarzysząca;
+- **16a)** wyciekiem dwutlenku węgla – jest każde wydostanie się dwutlenku węgla poza podziemne składowisko dwutlenku węgla, z wyłączeniem uwalniania z instalacji powierzchniowych w procesie intensyfikacji wydobycia węglowodorów połączonej z podziemnym składowaniem dwutlenku węgla ilości dwutlenku węgla niewiększej niż ilość konieczna w normalnym procesie wydobywania węglowodorów ze złoża, która nie osłabia bezpieczeństwa podziemnego składowania dwutlenku węgla ani nie wpływa negatywnie na środowisko;
+- **16b)** wtłaczaniem wód do górotworu – jest pozbycie się wód pochodzących z odwodnień wyrobisk górniczych, wykorzystanych wód leczniczych, wód termalnych, solanek, a także wód złożowych, w tym wód z podziemnych magazynów węglowodorów, z wyłączeniem wód technologicznych wykorzystywanych w magazynach węglowodorów zlokalizowanych w złożach soli kamiennej, polegające na ich wprowadzaniu otworami wiertniczymi do formacji geologicznych izolowanych od użytkowych poziomów wodonośnych;
+- **16c)** wydobywaniem węglowodorów ze złóż – jest prowadzenie wydobycia węglowodorów, w tym przygotowanie wydobytych węglowodorów do transportu oraz ich transport w obrębie zakładu górniczego;
+- **17)** wyrobiskiem górniczym – jest przestrzeń w nieruchomości gruntowej lub górotworze powstała w wyniku robót górniczych;
+- **17a)** zakładem – jest wyodrębniony technicznie i organizacyjnie zespół środków służących bezpośrednio do wykonywania działalności określonej w art. 2 ust. 1 albo art. 86, w tym wyrobiska górnicze, obiekty budowlane, urządzenia oraz instalacje;
+- **18)** zakładem górniczym – jest wyodrębniony technicznie i organizacyjnie zespół środków służących bezpośrednio do wykonywania działalności regulowanej ustawą w zakresie wydobywania kopalin ze złóż, a w podziemnych zakładach górniczych wydobywających węgiel kamienny wraz z pozostającym w związku technologicznym z wydobyciem kopaliny przygotowaniem wydobytej kopaliny do sprzedaży, podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów albo podziemnego składowania dwutlenku węgla, w tym wyrobiska górnicze, obiekty budowlane, urządzenia oraz instalacje;
+- **18a)** zamknięciem podziemnego składowiska dwutlenku węgla – jest trwałe zaprzestanie zatłaczania dwutlenku węgla do podziemnego składowiska dwutlenku węgla;
+- **19)** złożem kopaliny – jest naturalne nagromadzenie minerałów, skał oraz innych substancji, których wydobywanie może przynieść korzyść gospodarczą;
+- **19a)** złożem strategicznym – jest złoże kopaliny, które ze względu na jego znaczenie dla gospodarki lub bezpieczeństwa kraju podlega szczególnej ochronie prawnej;
+- **20)** zwałowaniem nadkładu – jest zespół czynności prowadzonych w odkrywkowych zakładach górniczych, nierozerwalnie związanych technicznie i organizacyjnie z przemieszczeniem i składowaniem mas ziemnych i skalnych usuwanych znad złoża, w celu umożliwienia wydobycia kopaliny użytecznej.
 
 2. Ilekroć w ustawie jest mowa o:
 
-- **1)** starostach rozumie się przez to również prezydentów miast na prawach powiatu;
-- **2)** powiatach rozumie się przez to również miasta na prawach powiatu.
+- **1)** starostach – rozumie się przez to również prezydentów miast na prawach powiatu;
+- **2)** powiatach – rozumie się przez to również miasta na prawach powiatu.
 
 **Art. 7.**
 
@@ -292,8 +298,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **1)** (uchylony)
 - **2)** udokumentował złoże kopaliny, stanowiące przedmiot własności górniczej, z wyłączeniem złoża węglowodorów, w stopniu umożliwiającym sporządzenie projektu zagospodarowania złoża oraz uzyskał decyzję zatwierdzającą dokumentację geologiczną tego złoża na podstawie koncesji na:
     - **a)** poszukiwanie złóż kopalin w zakresie obejmującym całe nowo udokumentowane złoże,
-    - **b)** poszukiwanie i rozpoznawanie złóż kopalin, w zakresie: całości udokumentowanego złoża w wyniku prac poszukiwawczych, części udokumentowanego złoża w wyniku prac rozpoznawczych, w której podniósł jej kategorię rozpoznania w stopniu umożliwiającym sporządzenie projektu zagospodarowania złoża,
-    - **c)** rozpoznawanie złóż kopalin, tylko w tej części złoża, w której podniósł jej kategorię rozpoznania w stopniu umożliwiającym sporządzenie projektu zagospodarowania złoża jest uprawniony do wnioskowania o ustanowienie na jego rzecz użytkowania górniczego z pierwszeństwem przed innymi.
+    - **b)** poszukiwanie i rozpoznawanie złóż kopalin, w zakresie: – całości udokumentowanego złoża w wyniku prac poszukiwawczych, – części udokumentowanego złoża w wyniku prac rozpoznawczych, w której podniósł jej kategorię rozpoznania w stopniu umożliwiającym sporządzenie projektu zagospodarowania złoża,
+    - **c)** rozpoznawanie złóż kopalin, tylko w tej części złoża, w której podniósł jej kategorię rozpoznania w stopniu umożliwiającym sporządzenie projektu zagospodarowania złoża – jest uprawniony do wnioskowania o ustanowienie na jego rzecz użytkowania górniczego z pierwszeństwem przed innymi.
 
 2. Uprawnienie, o którym mowa w ust. 1, wygasa z upływem 5 lat od dnia doręczenia decyzji zatwierdzającej dokumentację geologiczną złoża kopaliny.
 
@@ -325,11 +331,11 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 1. Przedsiębiorca, który uzyskał koncesję na:
 
-- **1)** wydobywanie węglowodorów ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża uzyskał decyzję inwestycyjną,
+- **1)** wydobywanie węglowodorów ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – uzyskał decyzję inwestycyjną,
 - **2)** wydobywanie węgla kamiennego,
 - **3)** wydobywanie węgla brunatnego, 3a) wydobywanie siarki rodzimej,
 - **4)** podziemne bezzbiornikowe magazynowanie węglowodorów, 4a) podziemne bezzbiornikowe magazynowanie wodoru,
-- **5)** podziemne składowanie dwutlenku węgla może żądać wykupu nieruchomości lub jej części położonej w obszarze górniczym, w zakresie niezbędnym do wykonywania zamierzonej działalności.
+- **5)** podziemne składowanie dwutlenku węgla – może żądać wykupu nieruchomości lub jej części położonej w obszarze górniczym, w zakresie niezbędnym do wykonywania zamierzonej działalności.
 
 2. W sprawach spornych rozstrzygają sądy powszechne.
 
@@ -347,11 +353,11 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **2)** wydobywania kopalin ze złóż, 2a) poszukiwania i rozpoznawania złóż węglowodorów oraz wydobywania węglowodorów ze złóż,
 - **3)** podziemnego bezzbiornikowego magazynowania substancji,
 - **4)** podziemnego składowania odpadów,
-- **5)** podziemnego składowania dwutlenku węgla może być wykonywana po uzyskaniu koncesji.
+- **5)** podziemnego składowania dwutlenku węgla – może być wykonywana po uzyskaniu koncesji.
 
 1a. (uchylony)
 
-2. W sprawach nieuregulowanych w niniejszej ustawie do koncesjonowania działalności, o której mowa w ust. 1, stosuje się przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826), z wyjątkiem art. 32 tej ustawy.
+2. W sprawach nieuregulowanych w niniejszej ustawie do koncesjonowania działalności, o której mowa w ust. 1, stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826), z wyjątkiem art. 32 tej ustawy.
 
 3. Do koncesjonowania działalności dotyczącej poszukiwania i rozpoznawania złóż węglowodorów lub wydobywania węglowodorów ze złóż stosuje się przepisy niniejszego rozdziału, z zastrzeżeniem przepisów rozdziału 3.
 
@@ -374,7 +380,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 1. Podmiot, który:
 
 - **1)** w wyniku wykonywania robót geologicznych rozpoznał kompleks podziemnego składowania dwutlenku węgla i udokumentował go w stopniu umożliwiającym sporządzenie planu zagospodarowania podziemnego składowiska dwutlenku węgla, a także uzyskał decyzję zatwierdzającą dokumentację hydrogeologiczną sporządzoną w celu określonym w art. 90 ust. 1 pkt 2 lit. i oraz decyzję zatwierdzającą dokumentację geologiczno-inżynierską sporządzoną w celu określonym w art. 91 ust. 1 pkt 5 albo
-- **2)** zakończył eksploatację złoża węglowodorów albo jego części prowadzoną na podstawie koncesji na wydobywanie węglowodorów ze złoża albo decyzji inwestycyjnej i w dodatku do dokumentacji geologiczno-inwestycyjnej złoża węglowodorów sporządzonym w związku z zakończeniem eksploatacji złoża albo jego części i rozliczeniem ich zasobów przewidział wykorzystanie złoża albo jego części do podziemnego składowania dwutlenku węgla, z zastrzeżeniem uzyskania decyzji zatwierdzającej dokumentację hydrogeologiczną sporządzoną w celu określonym w art. 90 ust. 1 pkt 2 lit. i oraz decyzji zatwierdzającej dokumentację geologiczno-inżynierską sporządzoną w celu określonym w art. 91 ust. 1 pkt 5 ma wyłączne prawo wystąpić z wnioskiem o udzielenie koncesji na podziemne składowanie dwutlenku węgla w przestrzeni, o której mowa w pkt 1 albo 2.
+- **2)** zakończył eksploatację złoża węglowodorów albo jego części prowadzoną na podstawie koncesji na wydobywanie węglowodorów ze złoża albo decyzji inwestycyjnej i w dodatku do dokumentacji geologiczno-inwestycyjnej złoża węglowodorów sporządzonym w związku z zakończeniem eksploatacji złoża albo jego części i rozliczeniem ich zasobów przewidział wykorzystanie złoża albo jego części do podziemnego składowania dwutlenku węgla, z zastrzeżeniem uzyskania decyzji zatwierdzającej dokumentację hydrogeologiczną sporządzoną w celu określonym w art. 90 ust. 1 pkt 2 lit. i oraz decyzji zatwierdzającej dokumentację geologiczno-inżynierską sporządzoną w celu określonym w art. 91 ust. 1 pkt 5 – ma wyłączne prawo wystąpić z wnioskiem o udzielenie koncesji na podziemne składowanie dwutlenku węgla w przestrzeni, o której mowa w pkt 1 albo 2.
 
 2. Uprawnienie, o którym mowa w ust. 1, wygasa z upływem 5 lat od dnia:
 
@@ -402,13 +408,13 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **3)** wydobywanie kopalin ze złóż znajdujących się w granicach obszarów morskich Rzeczypospolitej Polskiej,
 - **4)** podziemne bezzbiornikowe magazynowanie substancji,
 - **5)** podziemne składowanie odpadów,
-- **6)** podziemne składowanie dwutlenku węgla udziela minister właściwy do spraw środowiska.
+- **6)** podziemne składowanie dwutlenku węgla – udziela minister właściwy do spraw środowiska.
 
 2. Koncesji na wydobywanie kopalin ze złóż, jeżeli jednocześnie są spełnione następujące wymagania:
 
 - **1)** obszar udokumentowanego złoża nieobjętego własnością górniczą nie przekracza 2 ha,
 - **2)** wydobycie kopaliny ze złoża w roku kalendarzowym nie przekroczy 20 000 m ,
-- **3)** działalność będzie prowadzona metodą odkrywkową oraz bez użycia środków strzałowych udziela starosta.
+- **3)** działalność będzie prowadzona metodą odkrywkową oraz bez użycia środków strzałowych – udziela starosta.
 
 3. Przedsiębiorca, który otrzymał od starosty koncesję na wydobywanie kopaliny ze złoża przylegającego do złoża już objętego koncesją udzieloną temu samemu przedsiębiorcy na ten sam rodzaj działalności, może rozpocząć wydobywanie kopaliny niewcześniej niż w dniu, w którym decyzja stwierdzająca wygaśnięcie koncesji wcześniejszej stanie się ostateczna.
 
@@ -421,7 +427,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **1)** poszukiwanie lub rozpoznawanie rud pierwiastków promieniotwórczych oraz wydobywanie tych rud ze złóż wymaga opinii Prezesa Państwowej Agencji Atomistyki;
 - **1a)** poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej albo wydobywanie węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej wymaga opinii Prezesa Wyższego Urzędu Górniczego w zakresie technicznych możliwości wykonywania działalności oraz zapewnienia jej bezpieczeństwa;
 - **1b)** poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej albo wydobywanie węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej wymaga opinii Ministra Obrony Narodowej i ministra właściwego do spraw rybołówstwa, w zakresie lokalizacji obszaru prowadzenia zamierzonej działalności;
-- **2)** wydobywanie z gruntów pod wodami śródlądowymi oraz z obszarów, o których mowa w art. 169 ust. 2 ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535), wymaga uzgodnienia z organem odpowiedzialnym za utrzymanie wód oraz opinii organu właściwego do wydania pozwolenia wodnoprawnego;
+- **2)** wydobywanie z gruntów pod wodami śródlądowymi oraz z obszarów, o których mowa w art. 169 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535), wymaga uzgodnienia z organem odpowiedzialnym za utrzymanie wód oraz opinii organu właściwego do wydania pozwolenia wodnoprawnego;
 - **3)** wydobywanie kopalin, o których mowa w art. 10 ust. 1, ze złóż, podziemne bezzbiornikowe magazynowanie substancji oraz podziemne składowanie dwutlenku węgla wymaga uzgodnienia z ministrem właściwym do spraw gospodarki surowcami energetycznymi;
 - **4)** podziemne składowanie dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton wymaga uzyskania opinii Komisji Europejskiej.
 
@@ -432,12 +438,12 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 2. W odniesieniu do działalności prowadzonej poza granicami obszarów morskich Rzeczypospolitej Polskiej udzielenie koncesji na:
 
 - **1)** poszukiwanie lub rozpoznawanie złóż kopalin, z wyłączeniem złóż węglowodorów,
-- **2)** poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż wymaga opinii wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce wykonywania zamierzonej działalności.
+- **2)** poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż – wymaga opinii wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce wykonywania zamierzonej działalności.
 
 2a. W odniesieniu do działalności prowadzonej poza granicami obszarów morskich Rzeczypospolitej Polskiej:
 
 - **1)** udzielenie koncesji na wydobywanie kopalin ze złóż, podziemne bezzbiornikowe magazynowanie substancji, podziemne składowanie odpadów albo podziemne składowanie dwutlenku węgla,
-- **2)** wydanie decyzji inwestycyjnej, o której mowa w art. 49z ust. 1 wymaga uzgodnienia z wójtem (burmistrzem, prezydentem miasta) właściwym ze względu na miejsce wykonywania zamierzonej działalności; kryterium uzgodnienia jest nienaruszanie zamierzoną działalnością przeznaczenia lub sposobu korzystania z nieruchomości określonego w sposób przewidziany w art. 7.
+- **2)** wydanie decyzji inwestycyjnej, o której mowa w art. 49z ust. 1 – wymaga uzgodnienia z wójtem (burmistrzem, prezydentem miasta) właściwym ze względu na miejsce wykonywania zamierzonej działalności; kryterium uzgodnienia jest nienaruszanie zamierzoną działalnością przeznaczenia lub sposobu korzystania z nieruchomości określonego w sposób przewidziany w art. 7.
 
 2b. Udzielenie koncesji na wydobywanie kopalin ze złóż, z wyłączeniem złóż węglowodorów, wymaga opinii właściwego organu nadzoru górniczego w zakresie projektu zagospodarowania złoża.
 
@@ -468,7 +474,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **8)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP);
 - **9)** rodzaj i zakres wykonywania zamierzonej działalności.
 
-2. Do wniosku o udzielenie koncesji dołącza się dowody istnienia określonych w nim okoliczności, a w przypadku potwierdzenia danych, o których mowa w ust. 1 pkt 1 wypis z ewidencji gruntów i budynków wydany niewcześniej niż 3 miesiące przed dniem złożenia wniosku.
+2. Do wniosku o udzielenie koncesji dołącza się dowody istnienia określonych w nim okoliczności, a w przypadku potwierdzenia danych, o których mowa w ust. 1 pkt 1 – wypis z ewidencji gruntów i budynków wydany niewcześniej niż 3 miesiące przed dniem złożenia wniosku.
 
 3. Załączniki graficzne sporządza się zgodnie z wymaganiami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju.
 
@@ -492,7 +498,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** złoże kopaliny lub jego część, która ma być przedmiotem wydobycia;
 - **2)** wielkość i sposób zamierzonego wydobycia kopaliny;
-- **3)** stopień zamierzonego wykorzystania zasobów złoża kopaliny, w tym kopalin towarzyszących i współwystępujących użytecznych pierwiastków śladowych, jak również środki umożliwiające osiągnięcie tego celu, a w przypadku wód leczniczych, wód termalnych i solanek zasoby eksploatacyjne ujęcia;
+- **3)** stopień zamierzonego wykorzystania zasobów złoża kopaliny, w tym kopalin towarzyszących i współwystępujących użytecznych pierwiastków śladowych, jak również środki umożliwiające osiągnięcie tego celu, a w przypadku wód leczniczych, wód termalnych i solanek – zasoby eksploatacyjne ujęcia;
 - **4)** projektowane położenie obszaru górniczego i terenu górniczego, przedstawione zgodnie z wymaganiami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju;
 - **5)** geologiczne i hydrogeologiczne warunki wydobycia, a w razie potrzeby warunki wtłaczania wód do górotworu oraz sposoby intensyfikacji wydobycia węglowodorów.
 
@@ -568,7 +574,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 3. Zabezpieczenie może w szczególności przyjąć formę ubezpieczenia od odpowiedzialności cywilnej przedsiębiorcy, gwarancji bankowej albo poręczenia bankowego.
 
-4. O formie, zakresie oraz sposobie zabezpieczenia, a w przypadku działalności innej niż określona w ust. 1 także o potrzebie ustanowienia zabezpieczenia, rozstrzyga organ koncesyjny, działając w drodze postanowienia, na które przysługuje zażalenie.
+4. O formie, zakresie oraz sposobie zabezpieczenia, a w przypadku działalności innej niż określona w ust. 1 – także o potrzebie ustanowienia zabezpieczenia, rozstrzyga organ koncesyjny, działając w drodze postanowienia, na które przysługuje zażalenie.
 
 5. W przypadkach ustanowienia zabezpieczenia udzielenie koncesji może nastąpić dopiero po przedstawieniu dowodu jego ustanowienia.
 
@@ -596,7 +602,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 7. Gwarancja bankowa, gwarancja ubezpieczeniowa lub polisa ubezpieczeniowa potwierdzająca zawarcie umowy ubezpieczenia odpowiedzialności cywilnej powinny stwierdzać, że bank lub zakład ubezpieczeń w przypadku niewywiązywania się przez przedsiębiorcę z obowiązków, o których mowa w ust. 3 i 4, na wezwanie organu koncesyjnego przesłane po wydaniu postanowienia, o którym mowa w art. 28c ust. 1, dokona wypłaty na rzecz podmiotów, o których mowa w tym przepisie, kwoty w wysokości określonej w tym wezwaniu.
 
-8. Organ koncesyjny w toku postępowania o udzielenie koncesji na podziemne składowanie dwutlenku węgla określa, w drodze postanowienia, formę i wysokość zabezpieczenia finansowego na realizację poszczególnych obowiązków, o których mowa w ust. 3 i 4, oraz termin doręczenia organowi koncesyjnemu dowodu ustanowienia zabezpieczenia finansowego, a w przypadku zabezpieczenia finansowego ustanawianego w formie pieniężnej także termin wpłaty. Na postanowienie przysługuje zażalenie.
+8. Organ koncesyjny w toku postępowania o udzielenie koncesji na podziemne składowanie dwutlenku węgla określa, w drodze postanowienia, formę i wysokość zabezpieczenia finansowego na realizację poszczególnych obowiązków, o których mowa w ust. 3 i 4, oraz termin doręczenia organowi koncesyjnemu dowodu ustanowienia zabezpieczenia finansowego, a w przypadku zabezpieczenia finansowego ustanawianego w formie pieniężnej – także termin wpłaty. Na postanowienie przysługuje zażalenie.
 
 9. Wysokość zabezpieczenia finansowego określona w postanowieniu, o którym mowa w ust. 8, stanowi minimalną wysokość zabezpieczenia finansowego określoną w koncesji na podziemne składowanie dwutlenku węgla.
 
@@ -610,7 +616,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** ze sprawozdania z prowadzonej działalności, o którym mowa w art. 127m ust. 1,
 - **2)** z dodatku do planu zagospodarowania podziemnego składowiska dwutlenku węgla, o którym mowa w art. 107a,
-- **3)** z wniosków z przeprowadzonej kontroli, o której mowa w art. 127n ust. 1 oraz w art. 158 pkt 2 wynika, że nastąpiła zmiana poziomu ryzyka związanego odpowiednio z eksploatacją podziemnego składowiska dwutlenku węgla albo z likwidacją zakładu górniczego, organ koncesyjny orzeka, w drodze decyzji, o zmianie wysokości zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2. Przepis art. 28a ust. 8 stosuje się odpowiednio.
+- **3)** z wniosków z przeprowadzonej kontroli, o której mowa w art. 127n ust. 1 oraz w art. 158 pkt 2 – wynika, że nastąpiła zmiana poziomu ryzyka związanego odpowiednio z eksploatacją podziemnego składowiska dwutlenku węgla albo z likwidacją zakładu górniczego, organ koncesyjny orzeka, w drodze decyzji, o zmianie wysokości zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2. Przepis art. 28a ust. 8 stosuje się odpowiednio.
 
 2. Przedsiębiorca jest obowiązany dokonać zwiększenia wysokości zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2, w terminie określonym w decyzji, o której mowa w ust. 1.
 
@@ -619,18 +625,18 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 1. Organ koncesyjny orzeka, w drodze postanowienia, o uruchomieniu środków pochodzących z zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2, ustanowionego w celu należytego wykonywania obowiązków związanych z:
 
 - **1)** eksploatacją podziemnego składowiska dwutlenku węgla:
-    - **a)** na rzecz przedsiębiorcy na finansowanie kosztów monitoringu kompleksu podziemnego składowania dwutlenku węgla, kosztów działań naprawczych, rozliczenia emisji w przypadku wydostania się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla oraz kosztów działań naprawczych i działań zapobiegawczych w rozumieniu przepisów ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie,
-    - **b)** na rzecz Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla w przypadku przejęcia przez niego odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a na finansowanie kosztów i rozliczenia wymienionych w lit. a,
+    - **a)** na rzecz przedsiębiorcy – na finansowanie kosztów monitoringu kompleksu podziemnego składowania dwutlenku węgla, kosztów działań naprawczych, rozliczenia emisji w przypadku wydostania się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla oraz kosztów działań naprawczych i działań zapobiegawczych w rozumieniu przepisów ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie,
+    - **b)** na rzecz Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla w przypadku przejęcia przez niego odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a – na finansowanie kosztów i rozliczenia wymienionych w lit. a,
     - **c)** na rzecz podmiotu, któremu prawomocnym wyrokiem sądu przyznane zostało odszkodowanie za szkody, które ujawniły się do czasu zamknięcia podziemnego składowiska dwutlenku węgla;
 
 - **2)** likwidacją zakładu górniczego:
-    - **a)** na rzecz przedsiębiorcy na finansowanie kosztów usunięcia obiektów zakładu górniczego, likwidacji odwiertów i innych instalacji związanych z podziemnym składowiskiem dwutlenku węgla, w tym rurociągów, kabli i linii energetycznych, kosztów prowadzenia monitoringu zamkniętego podziemnego składowiska dwutlenku węgla, kosztów działań naprawczych, rozliczenia emisji w przypadku wydostania się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla oraz kosztów działań naprawczych i działań zapobiegawczych w rozumieniu przepisów ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie,
-    - **b)** na rzecz Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla w przypadku przejęcia przez niego odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a na finansowanie kosztów i rozliczenia wymienionych w lit. a,
+    - **a)** na rzecz przedsiębiorcy – na finansowanie kosztów usunięcia obiektów zakładu górniczego, likwidacji odwiertów i innych instalacji związanych z podziemnym składowiskiem dwutlenku węgla, w tym rurociągów, kabli i linii energetycznych, kosztów prowadzenia monitoringu zamkniętego podziemnego składowiska dwutlenku węgla, kosztów działań naprawczych, rozliczenia emisji w przypadku wydostania się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla oraz kosztów działań naprawczych i działań zapobiegawczych w rozumieniu przepisów ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie,
+    - **b)** na rzecz Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla w przypadku przejęcia przez niego odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a – na finansowanie kosztów i rozliczenia wymienionych w lit. a,
     - **c)** na rzecz podmiotu, któremu prawomocnym wyrokiem sądu przyznano odszkodowanie za szkody, które ujawniły się po zamknięciu podziemnego składowiska dwutlenku węgla.
 
 2. Organ koncesyjny wydaje postanowienie o uruchomieniu środków pochodzących z zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2:
 
-- **1)** w przypadku gdy przedsiębiorca nie może pokryć z własnych środków kosztów realizacji obowiązków, o których mowa w art. 28a ust. 3 i 4 na jego wniosek;
+- **1)** w przypadku gdy przedsiębiorca nie może pokryć z własnych środków kosztów realizacji obowiązków, o których mowa w art. 28a ust. 3 i 4 – na jego wniosek;
 - **2)** na wniosek pozostałych podmiotów, o których mowa w ust. 1.
 
 3. Przedsiębiorca i Krajowy Administrator Podziemnych Składowisk Dwutlenku Węgla przekazują organowi koncesyjnemu, po zakończeniu wydatkowania środków pochodzących z zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2, sprawozdanie z wydatkowania tych środków w formie, terminie i zakresie określonych w przepisach wydanych na podstawie art. 28h pkt 2.
@@ -639,8 +645,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 1. Zabezpieczenie finansowe, o którym mowa w art. 28a ust. 2, na wniosek przedsiębiorcy, który ustanowił to zabezpieczenie, jest zwalniane przez organ koncesyjny, w drodze postanowienia, w terminie 2 miesięcy od dnia wydania:
 
-- **1)** decyzji o przekazaniu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla w przypadku podziemnego składowania dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton albo
-- **2)** decyzji stwierdzającej wygaśnięcie koncesji z powodu, o którym mowa w art. 38 ust. 1 pkt 1 w przypadku podziemnego składowania dwutlenku węgla w łącznej ilości mniejszej niż 100 kiloton.
+- **1)** decyzji o przekazaniu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla – w przypadku podziemnego składowania dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton albo
+- **2)** decyzji stwierdzającej wygaśnięcie koncesji z powodu, o którym mowa w art. 38 ust. 1 pkt 1 – w przypadku podziemnego składowania dwutlenku węgla w łącznej ilości mniejszej niż 100 kiloton.
 
 1a. W przypadku wygaśnięcia koncesji na podziemne składowanie dwutlenku węgla w łącznej ilości mniejszej niż 100 kiloton z powodów, o których mowa w art. 38 ust. 1 pkt 4 i 5, organ koncesyjny, w drodze postanowienia, przekazuje zabezpieczenie finansowe, o którym mowa w art. 28a ust. 2, na rzecz Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla, który przejmuje odpowiedzialność za podziemne składowisko dwutlenku węgla w trybie określonym w art. 39a.
 
@@ -656,7 +662,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 4. Zabezpieczenie środków ustanawiane w formie opłaty gwarancyjnej jest wpłacane na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej. Dowód wpłaty, gwarancja bankowa, gwarancja ubezpieczeniowa lub polisa ubezpieczeniowa potwierdzająca zawarcie umowy ubezpieczenia odpowiedzialności cywilnej są składane do organu koncesyjnego i stanowią dowód ustanowienia zabezpieczenia środków. Przepis art. 28a ust. 7 stosuje się odpowiednio.
 
-5. Organ koncesyjny w toku postępowania o udzielenie koncesji na podziemne składowanie dwutlenku węgla określa, w drodze postanowienia, formę i wysokość zabezpieczenia środków na realizację poszczególnych zadań, o których mowa w ust. 2, termin ustanowienia tego zabezpieczenia oraz termin doręczenia organowi koncesyjnemu dowodu ustanowienia zabezpieczenia środków, a w przypadku opłaty gwarancyjnej także termin jej wpłaty. Na postanowienie przysługuje zażalenie.
+5. Organ koncesyjny w toku postępowania o udzielenie koncesji na podziemne składowanie dwutlenku węgla określa, w drodze postanowienia, formę i wysokość zabezpieczenia środków na realizację poszczególnych zadań, o których mowa w ust. 2, termin ustanowienia tego zabezpieczenia oraz termin doręczenia organowi koncesyjnemu dowodu ustanowienia zabezpieczenia środków, a w przypadku opłaty gwarancyjnej – także termin jej wpłaty. Na postanowienie przysługuje zażalenie.
 
 6. Wysokość zabezpieczenia środków określona w postanowieniu, o którym mowa w ust. 5, stanowi minimalną wysokość zabezpieczenia środków określoną w koncesji na podziemne składowanie dwutlenku węgla.
 
@@ -675,7 +681,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** ze sprawozdania z prowadzonej działalności, o którym mowa w art. 127m ust. 1,
 - **2)** z dodatku do planu zagospodarowania podziemnego składowiska dwutlenku węgla, o którym mowa w art. 107a,
-- **3)** z wniosków z przeprowadzonej kontroli, o której mowa w art. 127n ust. 1 oraz w art. 158 pkt 2 wynika, że zwiększyło się ryzyko związane z podziemnym składowaniem dwutlenku węgla po przekazaniu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla, organ koncesyjny może orzec, w drodze decyzji, o zwiększeniu wysokości zabezpieczenia środków, o którym mowa w art. 28e ust. 1. W przypadku opłaty gwarancyjnej zwiększenie wysokości zabezpieczenia środków następuje przez wniesienie uzupełniającej opłaty gwarancyjnej.
+- **3)** z wniosków z przeprowadzonej kontroli, o której mowa w art. 127n ust. 1 oraz w art. 158 pkt 2 – wynika, że zwiększyło się ryzyko związane z podziemnym składowaniem dwutlenku węgla po przekazaniu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla, organ koncesyjny może orzec, w drodze decyzji, o zwiększeniu wysokości zabezpieczenia środków, o którym mowa w art. 28e ust. 1. W przypadku opłaty gwarancyjnej zwiększenie wysokości zabezpieczenia środków następuje przez wniesienie uzupełniającej opłaty gwarancyjnej.
 
 2. Przedsiębiorca jest obowiązany dokonać zwiększenia wysokości zabezpieczenia środków, o którym mowa w art. 28e ust. 1, w tym wnieść uzupełniającą opłatę gwarancyjną, w terminie określonym w decyzji, o której mowa w ust. 1. Przepis art. 28e ust. 5 stosuje się odpowiednio.
 
@@ -688,6 +694,16 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 3. Zabezpieczenie środków, o którym mowa w art. 28e ust. 1, ustanowione w formie opłaty gwarancyjnej, w tym uzupełniająca opłata gwarancyjna, nie wchodzi w skład masy upadłości.
 
 **Art. 28h.** Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
+
+- **1)** sposób ustalania wysokości zabezpieczenia finansowego, o którym mowa w art. 28a ust. 2, wysokości zabezpieczenia środków, o którym mowa w art. 28e ust. 1, oraz kryteria wyboru formy zabezpieczenia,
+- **2)** formę, terminy przekazywania i zakres sprawozdań, o których mowa w art. 28c ust. 3 i art. 28e ust. 9 – kierując się potrzebą zapewnienia odpowiedniego i skutecznego zabezpieczenia realizacji celów, dla których jest ustanawiane zabezpieczenie, stabilnego źródła finansowania realizacji zadań Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla po przekazaniu mu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla, efektywności i racjonalności wydatkowania środków oraz mając na uwadze potrzebę zapewnienia ochrony zdrowia i życia ludzi oraz środowiska. Art. 28ha. 1. Przedsiębiorca przekazujący podczas postępowania o udzielenie koncesji informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji może zgłosić wniosek, aby informacjom tym była nadana klauzula poufności.
+
+2. Informacjom nadaje się klauzulę poufności, pod warunkiem że przedsiębiorca:
+
+- **1)** przekazując informacje, uzasadni swoje żądanie;
+- **2)** z przekazanych informacji sporządzi streszczenie, które może zostać udostępnione innym uczestnikom postępowania.
+
+3. Informacje, którym nadano klauzulę poufności, nie mogą być udostępniane innym uczestnikom postępowania bez zgody przedsiębiorcy przekazującego informacje.
 
 **Art. 28i.**
 
@@ -728,9 +744,9 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
     - **c)** ochroną środowiska, w tym z racjonalną gospodarką złożami kopalin, lub
     - **d)** realizacją transformacji energetycznej, w tym możliwością pozyskania środków finansowych na potrzeby realizacji tej transformacji, lub
 
-- **2)** uniemożliwiłaby wykorzystanie nieruchomości lub obszarów morskich Rzeczypospolitej Polskiej zgodnie z ich przeznaczeniem określonym odpowiednio w miejscowym planie zagospodarowania przestrzennego, w planach zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej lub w przepisach odrębnych, a w przypadku braku tych planów uniemożliwiłaby wykorzystanie nieruchomości lub obszarów morskich Rzeczypospolitej Polskiej w sposób wynikający z planu ogólnego gminy lub z przepisów odrębnych organ koncesyjny odmawia udzielenia koncesji.
+- **2)** uniemożliwiłaby wykorzystanie nieruchomości lub obszarów morskich Rzeczypospolitej Polskiej zgodnie z ich przeznaczeniem określonym odpowiednio w miejscowym planie zagospodarowania przestrzennego, w planach zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej lub w przepisach odrębnych, a w przypadku braku tych planów – uniemożliwiłaby wykorzystanie nieruchomości lub obszarów morskich Rzeczypospolitej Polskiej w sposób wynikający z planu ogólnego gminy lub z przepisów odrębnych – organ koncesyjny odmawia udzielenia koncesji.
 
-1a. Organ koncesyjny odmawia udzielenia koncesji, jeżeli wniosek o udzielenie koncesji obejmuje tę samą przestrzeń oraz rodzaj działalności, a w przypadku wniosku o udzielenie koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny lub koncesji na wydobywanie kopaliny ze złoża również rodzaj kopaliny, objęte już koncesją udzieloną innemu podmiotowi.
+1a. Organ koncesyjny odmawia udzielenia koncesji, jeżeli wniosek o udzielenie koncesji obejmuje tę samą przestrzeń oraz rodzaj działalności, a w przypadku wniosku o udzielenie koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny lub koncesji na wydobywanie kopaliny ze złoża – również rodzaj kopaliny, objęte już koncesją udzieloną innemu podmiotowi.
 
 2. Odmowa udzielenia koncesji na podziemne składowanie odpadów następuje również, jeżeli istnieje uzasadniona technicznie, ekologicznie lub ekonomicznie możliwość odzysku lub możliwość unieszkodliwiania odpadów w inny sposób niż przez ich składowanie.
 
@@ -748,7 +764,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 5. Podmiot, którego interes prawny lub uprawnienie zostały naruszone w wyniku czasowego wstrzymania udzielania koncesji, o którym mowa w ust. 2, może zaskarżyć obwieszczenie, o którym mowa w tym przepisie, do sądu administracyjnego.
 
-6. W postępowaniu toczącym się wskutek wniesienia skargi, o której mowa w ust. 5, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769, 1427 i 1882), jeżeli przepisy ust. 7–9 nie stanowią inaczej.
+6. W postępowaniu toczącym się wskutek wniesienia skargi, o której mowa w ust. 5, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769, 1427 i 1882), jeżeli przepisy ust. 7–9 nie stanowią inaczej.
 
 7. Skargę wnosi się w terminie 30 dni od dnia opublikowania w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” obwieszczenia, o którym mowa w ust. 2.
 
@@ -765,7 +781,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **1)** rodzaj i sposób wykonywania zamierzonej działalności;
 - **2)** przestrzeń, w granicach której ma być wykonywana zamierzona działalność;
 - **3)** czas obowiązywania koncesji;
-- **4)** termin rozpoczęcia działalności określonej koncesją, a w razie potrzeby przesłanki, których spełnienie oznacza rozpoczęcie działalności.
+- **4)** termin rozpoczęcia działalności określonej koncesją, a w razie potrzeby – przesłanki, których spełnienie oznacza rozpoczęcie działalności.
 
 2. Koncesja może określać inne wymagania dotyczące wykonywania działalności objętej koncesją, w szczególności w zakresie bezpieczeństwa powszechnego i ochrony środowiska.
 
@@ -900,7 +916,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 11. Koncesje dotyczące kopalin, o których mowa w art. 10 ust. 1, nie przechodzą na:
 
 - **1)** (uchylony)
-- **2)** nabywcę przedsiębiorstwa upadłego na podstawie art. 317 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172).
+- **2)** nabywcę przedsiębiorstwa upadłego na podstawie art. 317 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172).
 - **3)** (uchylony)
 
 **Art. 36a.**
@@ -908,7 +924,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 1. Podmiot, który zamierza wstąpić w prawa i obowiązki przedsiębiorcy, któremu została udzielona koncesja, zwany dalej „podmiotem przejmującym”, w zakresie przejścia koncesji, o których mowa w art. 22 ust. 1, w związku z planowanym:
 
 - **1)** połączeniem albo podziałem spółki, o których mowa odpowiednio w art. 492 i art. 529 Kodeksu spółek handlowych, z wyłączeniem przypadku łączenia się przez zawiązanie nowej spółki albo podziału przez zawiązanie nowych spółek lub przez przeniesienie całego lub części majątku spółki dzielonej na nowo zawiązaną spółkę lub spółki,
-- **2)** nabyciem przedsiębiorstwa albo jego zorganizowanej części na podstawie art. 55 Kodeksu cywilnego w terminie co najmniej 60 dni przed planowanym połączeniem, podziałem albo nabyciem zgłasza organowi koncesyjnemu zamiar dokonania tej czynności, wskazując planowany termin jego realizacji, niedłuższy niż 6 miesięcy.
+- **2)** nabyciem przedsiębiorstwa albo jego zorganizowanej części na podstawie art. 55 Kodeksu cywilnego – w terminie co najmniej 60 dni przed planowanym połączeniem, podziałem albo nabyciem zgłasza organowi koncesyjnemu zamiar dokonania tej czynności, wskazując planowany termin jego realizacji, niedłuższy niż 6 miesięcy.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 1, do terminu realizacji zamiaru, o którym mowa w ust. 1, nie wlicza się okresu niezbędnego do rozpoznania przez właściwy sąd rejestrowy wniosku o wpis do rejestru przedsiębiorców, z zastrzeżeniem że okres ten nie będzie trwać dłużej niż 6 miesięcy. Podmiot przejmujący informuje organ koncesyjny o złożeniu wniosku o wpis do rejestru przedsiębiorców w terminie 7 dni od dnia dokonania tej czynności.
 
@@ -920,7 +936,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
     - **b)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP);
 
 - **3)** wykaz koncesji, które mają przejść na podmiot przejmujący w wyniku dokonania czynności, o których mowa w ust. 1;
-- **4)** dowody, że podmiot przejmujący spełnia warunki, o których mowa w art. 36 ust. 1 i 6, a w przypadku koncesji na podziemne składowanie dwutlenku węgla również warunki, o których mowa w art. 36 ust. 3a.
+- **4)** dowody, że podmiot przejmujący spełnia warunki, o których mowa w art. 36 ust. 1 i 6, a w przypadku koncesji na podziemne składowanie dwutlenku węgla – również warunki, o których mowa w art. 36 ust. 3a.
 
 4. W przypadku gdy zgłoszenie nie spełnia wymogów, o których mowa w ust. 1 lub 3, organ koncesyjny wzywa podmiot przejmujący do uzupełnienia braków formalnych w wyznaczonym terminie, niekrótszym niż 7 dni.
 
@@ -938,7 +954,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 9. Za dzień wniesienia sprzeciwu, o którym mowa w ust. 8, uznaje się dzień:
 
-- **1)** nadania decyzji, o której mowa w ust. 8, za pokwitowaniem przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) albo
+- **1)** nadania decyzji, o której mowa w ust. 8, za pokwitowaniem przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) albo
 - **2)** doręczenia za pokwitowaniem decyzji, o której mowa w ust. 8, przez pracowników organu koncesyjnego, albo
 - **3)** wprowadzenia decyzji, o której mowa w ust. 8, do systemu teleinformatycznego w przypadku, o którym mowa w art. 39 Kodeksu postępowania administracyjnego.
 
@@ -953,7 +969,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **1)** bez dokonania zgłoszenia, o którym mowa w ust. 1, albo
 - **2)** mimo zgłoszenia sprzeciwu, o którym mowa w ust. 8, albo
 - **3)** przed upływem terminu do zgłoszenia sprzeciwu, o którym mowa w ust. 8, albo
-- **4)** po upływie 6 miesięcy od dokonania zgłoszenia, o którym mowa w ust. 1, z uwzględnieniem ust. 2 koncesja nie przechodzi na podmiot przejmujący.
+- **4)** po upływie 6 miesięcy od dokonania zgłoszenia, o którym mowa w ust. 1, z uwzględnieniem ust. 2 – koncesja nie przechodzi na podmiot przejmujący.
 
 14. Jeżeli organ koncesyjny nie zgłosił sprzeciwu, o którym mowa w ust. 8, podmiot przejmujący w wyniku dokonania czynności, o której mowa w ust. 1, wstępuje w prawa i obowiązki dotychczasowego przedsiębiorcy wynikające z koncesji objętych zgłoszeniem, o którym mowa w ust. 1. Podmiot przejmujący jest obowiązany w terminie 14 dni od dnia wstąpienia w prawa i obowiązki wynikające z koncesji przedstawić organowi koncesyjnemu oraz właściwemu organowi nadzoru górniczego dowody potwierdzające następstwo prawne.
 
@@ -974,7 +990,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 2. W przypadku gdy przedsiębiorca nie wykonał postanowienia, o którym mowa w ust. 1, organ koncesyjny może, bez odszkodowania:
 
 - **1)** cofnąć koncesję;
-- **2)** w przypadku stwierdzenia wykonywania robót geologicznych z naruszeniem harmonogramu określonego w projekcie robót geologicznych cofnąć koncesję albo ograniczyć jej zakres.
+- **2)** w przypadku stwierdzenia wykonywania robót geologicznych z naruszeniem harmonogramu określonego w projekcie robót geologicznych – cofnąć koncesję albo ograniczyć jej zakres.
 
 3. Organ koncesyjny umarza postępowanie w przypadku, gdy stwierdzi, że przedsiębiorca:
 
@@ -1005,7 +1021,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **2)** w przypadku uzyskania informacji o wycieku dwutlenku węgla, jego wydostaniu się poza kompleks podziemnego składowania dwutlenku węgla lub uzyskania informacji o nieprawidłowościach w procesie zatłaczania lub składowania dwutlenku węgla albo w kompleksie podziemnego składowania dwutlenku węgla;
 - **3)** w przypadku gdy:
     - **a)** ze sprawozdania z prowadzonej działalności, o którym mowa w art. 127m ust. 1, lub
-    - **b)** z wniosków z przeprowadzonej kontroli, o której mowa w art. 127n ust. 1 oraz w art. 158 pkt 2 wynika niezgodność prowadzonej działalności z warunkami określonymi w koncesji, planie zagospodarowania podziemnego składowiska dwutlenku węgla lub planie ruchu zakładu górniczego lub ryzyko wystąpienia wycieku dwutlenku węgla;
+    - **b)** z wniosków z przeprowadzonej kontroli, o której mowa w art. 127n ust. 1 oraz w art. 158 pkt 2 – wynika niezgodność prowadzonej działalności z warunkami określonymi w koncesji, planie zagospodarowania podziemnego składowiska dwutlenku węgla lub planie ruchu zakładu górniczego lub ryzyko wystąpienia wycieku dwutlenku węgla;
 
 - **4)** z uwagi na zagrożenie wynikające ze stosowania technologii wychwytu i składowania dwutlenku węgla dla bezpieczeństwa zdrowia i życia ludzi oraz dla środowiska, a także małą skuteczność i przydatność stosowania tej technologii w zakresie ograniczenia emisji dwutlenku węgla;
 - **5)** gdy okaże się to konieczne w świetle najnowszych odkryć naukowych i postępu technicznego.
@@ -1038,7 +1054,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 2. Zakres i sposób wykonania obowiązków określonych w ust. 1 ustala się w planie ruchu likwidowanego zakładu górniczego albo w planie ruchu zakładu wykonującego roboty geologiczne. Jeżeli nie stosuje się przepisów o planach ruchu, zakres i sposób wykonania obowiązków określonych w ust. 1 ustala organ koncesyjny w decyzji stwierdzającej wygaśnięcie koncesji, po uzgodnieniu z wójtem (burmistrzem, prezydentem miasta), a w przypadku koncesji, o których mowa w art. 22 ust. 2, również z właściwym organem nadzoru górniczego.
 
-3. Jeżeli nie istnieje przedsiębiorca, obowiązki określone w ust. 1 wykonuje jego następca prawny, a jeżeli nie istnieje przedsiębiorca oraz jego następca prawny obowiązki określone w ust. 1 wykonuje właściciel lub osoba posiadająca inny niż własność tytuł prawny do nieruchomości. W przypadku potrzeby osobę obowiązaną oraz zakres i sposób wykonania obowiązków określonych w ust. 1 ustala, w drodze decyzji, organ koncesyjny.
+3. Jeżeli nie istnieje przedsiębiorca, obowiązki określone w ust. 1 wykonuje jego następca prawny, a jeżeli nie istnieje przedsiębiorca oraz jego następca prawny – obowiązki określone w ust. 1 wykonuje właściciel lub osoba posiadająca inny niż własność tytuł prawny do nieruchomości. W przypadku potrzeby osobę obowiązaną oraz zakres i sposób wykonania obowiązków określonych w ust. 1 ustala, w drodze decyzji, organ koncesyjny.
 
 4. Do podmiotu, na który nałożono obowiązki określone w ust. 1 i 3, stosuje się odpowiednio przepisy dotyczące przedsiębiorcy.
 
@@ -1072,8 +1088,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 5. Do kosztów ponoszonych przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla w związku z przejęciem przez niego odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a zalicza się:
 
-- **1)** w przypadku nieruchomości, o której mowa w art. 27a ust. 4 pkt 4 podatek od nieruchomości i opłaty z tytułu użytkowania wieczystego;
-- **2)** w przypadku zakładu górniczego koszty utrzymania zakładu górniczego w gotowości, w tym koszty:
+- **1)** w przypadku nieruchomości, o której mowa w art. 27a ust. 4 pkt 4 – podatek od nieruchomości i opłaty z tytułu użytkowania wieczystego;
+- **2)** w przypadku zakładu górniczego – koszty utrzymania zakładu górniczego w gotowości, w tym koszty:
     - **a)** zabezpieczenia odwiertów i instalacji przez zamknięcie zasuw na głowicach odwiertów, z wyjątkiem awaryjnych, oraz rozpięcie połączeń rurociągów z odwiertami lub zastąpienie dwutlenku węgla w rurociągach gazem inertnym,
     - **b)** zabezpieczenia odwiertów i instalacji przed dostępem osób nieuprawnionych oraz zapewnienia stałego ich nadzorowania,
     - **c)** kontroli zagłowiczenia odwiertów i instalacji,
@@ -1149,8 +1165,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **3)** dane o źródłach pochodzenia środków finansowych i sytuacji finansowej podmiotu;
 - **4)** dane o strukturze organizacyjnej podmiotu;
 - **5)** dane wszystkich osób wchodzących w skład organów zarządzających i kontrolnych oraz dane osób działających z ich upoważnienia, obejmujące, w przypadku:
-    - **a)** obywateli polskich lub cudzoziemców posiadających numer PESEL imię, nazwisko, numer PESEL oraz stanowisko lub funkcję pełnioną w danym podmiocie,
-    - **b)** cudzoziemców nieposiadających numeru PESEL imię, nazwisko, datę i miejsce urodzenia, imiona rodziców, obywatelstwo, aktualny adres zamieszkania, numer paszportu lub innego dokumentu potwierdzającego tożsamość, a także stanowisko lub funkcję pełnioną w danym podmiocie;
+    - **a)** obywateli polskich lub cudzoziemców posiadających numer PESEL – imię, nazwisko, numer PESEL oraz stanowisko lub funkcję pełnioną w danym podmiocie,
+    - **b)** cudzoziemców nieposiadających numeru PESEL – imię, nazwisko, datę i miejsce urodzenia, imiona rodziców, obywatelstwo, aktualny adres zamieszkania, numer paszportu lub innego dokumentu potwierdzającego tożsamość, a także stanowisko lub funkcję pełnioną w danym podmiocie;
 
 - **6)** (uchylony)
 - **7)** podpis osoby upoważnionej do składania oświadczeń woli w imieniu podmiotu.
@@ -1184,7 +1200,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 18. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** wzór wniosku o przeprowadzenie postępowania kwalifikacyjnego,
-- **2)** wymagania dotyczące dokumentów dołączanych do wniosku o przeprowadzenie postępowania kwalifikacyjnego mając na uwadze status podmiotu składającego wniosek o przeprowadzenie postępowania kwalifikacyjnego oraz potrzebę zapewnienia kompletności informacji objętych wnioskiem.
+- **2)** wymagania dotyczące dokumentów dołączanych do wniosku o przeprowadzenie postępowania kwalifikacyjnego – mając na uwadze status podmiotu składającego wniosek o przeprowadzenie postępowania kwalifikacyjnego oraz potrzebę zapewnienia kompletności informacji objętych wnioskiem.
 
 **Art. 49b.**
 
@@ -1198,10 +1214,10 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 5. Minister właściwy do spraw środowiska, po ponownym przeprowadzeniu postępowania kwalifikacyjnego, w drodze decyzji:
 
-- **1)** w przypadku gdy podmiot, na rzecz którego została wydana decyzja o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, spełnia warunki, o których mowa w art. 49a ust. 11 przedłuża ważność tej decyzji na kolejne 5 lat;
+- **1)** w przypadku gdy podmiot, na rzecz którego została wydana decyzja o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, spełnia warunki, o których mowa w art. 49a ust. 11 – przedłuża ważność tej decyzji na kolejne 5 lat;
 - **2)** w przypadku gdy podmiot, na rzecz którego została wydana decyzja o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, przestał spełniać warunki, o których mowa w art. 49a ust. 11:
-    - **a)** odmawia przedłużenia ważności tej decyzji i uchyla ją w przypadku złożenia wniosku, o którym mowa w ust. 2,
-    - **b)** uchyla tę decyzję w przypadku wszczęcia postępowania z urzędu.
+    - **a)** odmawia przedłużenia ważności tej decyzji i uchyla ją – w przypadku złożenia wniosku, o którym mowa w ust. 2,
+    - **b)** uchyla tę decyzję – w przypadku wszczęcia postępowania z urzędu.
 
 **Art. 49c.**
 
@@ -1217,7 +1233,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 4. Wykaz podmiotów kwalifikowanych obejmuje odrębnie dla każdego podmiotu wpisanego do wykazu następujące dane:
 
 - **1)** kolejny numer wpisu;
-- **2)** nazwę (firmę) podmiotu, jego siedzibę oraz oznaczenie formy prawnej, a w przypadku osoby fizycznej prowadzącej działalność gospodarczą imię i nazwisko oraz miejsce prowadzenia tej działalności;
+- **2)** nazwę (firmę) podmiotu, jego siedzibę oraz oznaczenie formy prawnej, a w przypadku osoby fizycznej prowadzącej działalność gospodarczą – imię i nazwisko oraz miejsce prowadzenia tej działalności;
 - **3)** numer w rejestrze przedsiębiorców albo ewidencji działalności gospodarczej lub innym właściwym rejestrze prowadzonym w innym niż Rzeczpospolita Polska państwie;
 - **4)** datę uzyskania decyzji o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego oraz datę uzyskania decyzji o przedłużeniu ważności tej decyzji.
 
@@ -1233,6 +1249,84 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 49e.** Udzielenie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż lub koncesji na wydobywanie węglowodorów ze złóż następuje w wyniku przeprowadzenia postępowania przetargowego albo na wniosek zainteresowanego podmiotu. Art. 49ea. Udzielenie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż lub koncesji na wydobywanie węglowodorów ze złóż może nastąpić na wniosek zainteresowanego podmiotu, jeżeli obszar, którego wniosek dotyczy, nie jest objęty aktualnym ogłoszeniem, o którym mowa w art. 49f ust. 1, albo nie zostało wszczęte postępowanie przetargowe dotyczące tego obszaru. Art. 49eb. 1. We wniosku o udzielenie koncesji, poza wymaganiami przewidzianymi przepisami z zakresu ochrony środowiska i działalności gospodarczej, określa się:
 
+- **1)** właścicieli (użytkowników wieczystych) nieruchomości, w granicach których ma być wykonywana zamierzona działalność, oraz oznaczenie tych nieruchomości zgodnie z ewidencją gruntów i budynków;
+- **2)** prawa wnioskodawcy do przestrzeni, w granicach której ma być wykonywana zamierzona działalność, lub prawo, o ustanowienie którego ubiega się wnioskodawca;
+- **3)** czas, na jaki koncesja ma być udzielona, ze wskazaniem terminu rozpoczęcia działalności, a w przypadku wniosku o udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – dodatkowo czas trwania fazy poszukiwania i rozpoznawania oraz fazy wydobywania;
+- **4)** w przypadku wniosku o udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża:
+    - **a)** cel, zakres i rodzaj prac geologicznych, w tym robót geologicznych, lub robót górniczych oraz informację o pracach, które mają być wykonywane dla osiągnięcia zamierzonego celu, w tym ich technologiach, a także wskazuje się minimalną kategorię rozpoznania złoża,
+    - **b)** harmonogram realizacji prac geologicznych, w tym robót geologicznych, oraz ich zakres,
+    - **c)** zakres i harmonogram obowiązkowego poboru próbek uzyskanych w wyniku robót geologicznych, w tym rdzeni wiertniczych;
+
+- **5)** w przypadku wniosku o udzielenie koncesji na wydobywanie węglowodorów ze złoża:
+    - **a)** złoże kopaliny lub jego część, która ma być przedmiotem wydobycia,
+    - **b)** wielkość i sposób zamierzonego wydobycia kopaliny oraz stopień zamierzonego wykorzystania zasobów złoża kopaliny, w tym kopalin towarzyszących i współwystępujących użytecznych pierwiastków śladowych, a także środki umożliwiające osiągnięcie tego celu,
+    - **c)** projektowane położenie obszaru górniczego i terenu górniczego, przedstawione zgodnie z wymaganiami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju,
+    - **d)** geologiczne i hydrogeologiczne warunki wydobycia, a w razie potrzeby warunki wtłaczania wód do górotworu oraz sposoby intensyfikacji wydobycia węglowodorów,
+    - **e)** podstawę prawną nabycia prawa do korzystania z informacji geologicznej oraz decyzję lub projekt robót geologicznych, o którym mowa w art. 85a ust. 1, będące podstawą wykonania robót geologicznych, w wyniku których uzyskano informację geologiczną – w przypadku gdy do nabycia prawa do korzystania z informacji geologicznej doszło z mocy prawa w związku ze sfinansowaniem prac geologicznych przez wnioskodawcę oraz przyjęciem dokumentacji geologicznej bez zastrzeżeń albo zatwierdzeniem na jego rzecz dokumentacji geologicznej, albo złożeniem jej w organie administracji geologicznej;
+
+- **6)** wykaz obszarów objętych formami ochrony przyrody; wymóg ten nie dotyczy przedsięwzięć, dla których jest wymagana decyzja o środowiskowych uwarunkowaniach;
+- **7)** sposób przeciwdziałania ujemnym wpływom zamierzonej działalności na środowisko;
+- **8)** doświadczenie w wykonywaniu działalności w zakresie poszukiwania i rozpoznawania złoża węglowodorów lub wydobywania węglowodorów ze złoża, w tym zapewniające bezpieczeństwo prowadzonej działalności, ochronę życia i zdrowia ludzi i zwierząt oraz ochronę środowiska;
+- **9)** techniczne możliwości wykonywania działalności w zakresie, odpowiednio, poszukiwania i rozpoznawania złoża węglowodorów oraz wydobywania węglowodorów ze złoża albo wydobywania węglowodorów ze złoża, w szczególności dysponowanie odpowiednim potencjałem technicznym, organizacyjnym, logistycznym oraz kadrowym;
+- **10)** finansowe możliwości dające należytą rękojmię wykonywania działalności w zakresie, odpowiednio, poszukiwania i rozpoznawania złoża węglowodorów oraz wydobywania węglowodorów ze złoża albo wydobywania węglowodorów ze złoża, w szczególności źródła i sposoby finansowania zamierzonej działalności, w tym udział środków własnych oraz środków pochodzących z kapitału obcego;
+- **11)** proponowaną technologię prowadzenia prac geologicznych, w tym robót geologicznych, lub robót górniczych;
+- **12)** proponowaną wysokość wynagrodzenia z tytułu ustanowienia użytkowania górniczego;
+- **13)** w przypadku gdy wniosek składa wspólnie kilka podmiotów, wniosek określa dodatkowo elementy, o których mowa w art. 49j ust. 2.
+
+2. Do wniosku o udzielenie koncesji dołącza się:
+
+- **1)** dowody istnienia określonych w nich okoliczności, w szczególności wyciągi z odpowiednich rejestrów;
+- **2)** kopię decyzji o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, o której mowa w art. 49a ust. 17;
+- **3)** załączniki graficzne sporządzone zgodnie z wymaganiami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju, a w przypadku wniosku o udzielenie koncesji na wydobywanie węglowodorów ze złoża – załączniki graficzne określające projektowane położenie obszaru górniczego i terenu górniczego zgodnie z wymaganiami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju;
+- **4)** w przypadku, o którym mowa w art. 49k ust. 2 – pisemne zobowiązanie, o którym mowa w tym przepisie;
+- **5)** w przypadku wniosku o udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – 2 egzemplarze projektu robót geologicznych, o którym mowa w art. 79;
+- **6)** w przypadku wniosku o udzielenie koncesji na wydobywanie węglowodorów ze złoża – dowody istnienia prawa do korzystania z informacji geologicznej, jakie w zakresie niezbędnym do prowadzenia zamierzonej działalności przysługuje wnioskodawcy, oraz kopię decyzji zatwierdzającej dokumentację geologiczną.
+
+2a. Do wniosku o udzielenie koncesji na wydobywanie węglowodorów ze złoża połączone z podziemnym składowaniem dwutlenku węgla stosuje się również przepisy art. 27a ust. 1 i 2.
+
+2b. Do planu zagospodarowania podziemnego składowiska dwutlenku węgla dołączonego do wniosku, o którym mowa w ust. 2a, stosuje się przepisy art. 27a ust. 3–5.
+
+3. Dokumenty sporządzone w języku obcym składa się wraz z tłumaczeniem na język polski dokonanym przez tłumacza przysięgłego.
+
+4. Organ koncesyjny może żądać złożenia kopii wniosku o udzielenie koncesji wraz z załącznikami, w postaci elektronicznej na informatycznych nośnikach danych, celem przedłożenia go organom, o których mowa w art. 8 i w art. 23 ust. 1–3. Art. 49ec. 1. Informację o złożeniu pierwszego wniosku o udzielenie koncesji przez zainteresowany podmiot, o którym mowa w art. 49ea, organ koncesyjny ogłasza w Dzienniku Urzędowym Unii Europejskiej. Informację o opublikowaniu ogłoszenia w Dzienniku Urzędowym Unii Europejskiej zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego organ koncesyjny.
+
+2. Ogłoszenie zawiera:
+
+- **1)** informację o złożeniu wniosku o udzielenie koncesji;
+- **2)** informację o rodzaju działalności, na którą ma być udzielona koncesja;
+- **3)** określenie przestrzeni, w granicach której ma być wykonywana działalność;
+- **4)** termin składania wniosków o udzielenie koncesji przez pozostałe podmioty zainteresowane działalnością, na którą ma być udzielona koncesja, niekrótszy niż 90 dni od daty opublikowania ogłoszenia w Dzienniku Urzędowym Unii Europejskiej;
+- **5)** kryteria oceny wniosków o udzielenie koncesji wraz z określeniem ich znaczenia, ustalone z uwzględnieniem art. 49k ust. 1 oraz 3.
+
+3. W przypadku gdy w okresie od dnia złożenia wniosku o udzielenie koncesji, o którym mowa w art. 49ea, do dnia zamieszczenia ogłoszenia został złożony wniosek o udzielenie koncesji obejmujący w całości lub w części tę samą przestrzeń oraz rodzaj działalności, podstawą do zamieszczenia ogłoszenia jest pierwszy złożony wniosek.
+
+4. Od dnia zamieszczenia ogłoszenia w Dzienniku Urzędowym Unii Europejskiej nie wszczyna się innych postępowań dotyczących całości lub części tej samej przestrzeni oraz rodzaju działalności objętych tym ogłoszeniem, a wszczęte umarza się.
+
+5. W przypadku gdy w terminie, o którym mowa w ust. 2 pkt 4, nie wpłynie wniosek innego podmiotu o udzielenie koncesji na wykonywanie działalności, której dotyczy postępowanie, organ koncesyjny prowadzi to postępowanie wobec podmiotu, który złożył wniosek o udzielenie koncesji, o którym mowa w art. 49ea.
+
+6. W przypadku gdy w terminie, o którym mowa w ust. 2 pkt 4, zostanie złożony wniosek o udzielenie koncesji na wykonywanie działalności, której dotyczy postępowanie, organ koncesyjny ocenia złożone wnioski o udzielenie koncesji według kryteriów wskazanych w ogłoszeniu, o którym mowa w ust. 1.
+
+7. Złożone wnioski o udzielenie koncesji nie podlegają zmianom mogącym wpłynąć na ocenę kryteriów, o których mowa w ust. 2 pkt 5.
+
+8. Do porównania wniosków o udzielenie koncesji przepisy art. 49m ust. 1a–4 stosuje się odpowiednio. Art. 49ed. 1. W przypadku gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji, o którym mowa w art. 49ea, złożony wspólnie przez kilka podmiotów, organ koncesyjny niezwłocznie wzywa operatora do przekazania temu organowi, w terminie 30 dni od dnia otrzymania wezwania, projektu umowy o współpracy.
+
+2. W przypadku stwierdzenia przez organ koncesyjny niezgodności projektu umowy o współpracy ze złożonym wnioskiem o udzielenie koncesji lub ustawą organ koncesyjny wyznacza dodatkowy termin 14 dni na usunięcie niezgodności.
+
+3. W przypadku stwierdzenia przez organ koncesyjny zgodności projektu umowy o współpracy ze złożonym wnioskiem o udzielenie koncesji oraz ustawą organ koncesyjny niezwłocznie informuje o tym operatora.
+
+4. Po otrzymaniu informacji, o której mowa w ust. 3, operator przesyła niezwłocznie organowi koncesyjnemu umowę o współpracy.
+
+5. Organ koncesyjny umarza postępowanie, w przypadku gdy:
+
+- **1)** nie zostanie przekazana organowi koncesyjnemu umowa o współpracy;
+- **2)** w terminie, o którym mowa w ust. 2, nie usunięto niezgodności. Art. 49ee. 1. Organ koncesyjny, po uzyskaniu wymaganych ustawą opinii lub uzgodnień, udziela koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża:
+- **1)** na rzecz podmiotu, którego wniosek o udzielenie koncesji uzyskał najwyższą ocenę, a w przypadku, o którym mowa w art. 49ec ust. 5, na rzecz podmiotu, który złożył wniosek o udzielenie koncesji, albo
+- **2)** w przypadku gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji złożony wspólnie przez kilka podmiotów – po przekazaniu organowi koncesyjnemu umowy o współpracy – na rzecz stron tej umowy – i jednocześnie odmawia udzielenia koncesji innym podmiotom.
+
+2. Organ koncesyjny zawiera umowę o ustanowieniu użytkowania górniczego z podmiotem, którego wniosek o udzielenie koncesji uzyskał najwyższą ocenę, a w przypadku gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji złożony wspólnie przez kilka podmiotów – ze wszystkimi tymi podmiotami.
+
+3. Organ koncesyjny odmawia udzielenia koncesji, o której mowa w ust. 1, w przypadkach, o których mowa w art. 29, a także w przypadku gdy przed udzieleniem koncesji podmiotowi, a gdy najwyższą ocenę uzyskał wniosek o udzielenie koncesji złożony wspólnie przez kilka podmiotów – co najmniej jednemu z podmiotów, uchylono decyzję o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, decyzja ta wygasła albo utraciła moc bez względu na przyczynę.
+
 **Art. 49f.**
 
 1. Organ koncesyjny ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ informację o przestrzeniach, w tym ich granicach, dla których planuje wszczęcie postępowania przetargowego.
@@ -1245,13 +1339,13 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 1. Przed wszczęciem postępowania przetargowego organ koncesyjny, w przypadku gdy przedmiotem tego postępowania jest udzielenie koncesji na:
 
-- **1)** poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż dokonuje uzgodnienia, o którym mowa w art. 8 oraz w art. 23 ust. 1a, a także uzyskuje opinię, o której mowa w art. 23 ust. 1 pkt 1b, albo opinię, o której mowa w art. 23 ust. 2 pkt 2;
+- **1)** poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż – dokonuje uzgodnienia, o którym mowa w art. 8 oraz w art. 23 ust. 1a, a także uzyskuje opinię, o której mowa w art. 23 ust. 1 pkt 1b, albo opinię, o której mowa w art. 23 ust. 2 pkt 2;
 - **2)** wydobywanie węglowodorów ze złóż:
     - **a)** dokonuje uzgodnienia, o którym mowa w art. 8 oraz w art. 23 ust. 1 pkt 3, a także uzyskuje opinię, o której mowa w art. 23 ust. 1 pkt 1b, albo dokonuje uzgodnienia, o którym mowa w art. 23 ust. 2a pkt 1,
     - **b)** uzyskuje decyzję zatwierdzającą dokumentację geologiczno-inwestycyjną złoża węglowodorów,
     - **c)** uzyskuje decyzję o środowiskowych uwarunkowaniach;
 
-- **3)** poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej albo wydobywanie węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej uzyskuje także opinię Prezesa Wyższego Urzędu Górniczego w zakresie bezpieczeństwa wykonywania tej działalności.
+- **3)** poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej albo wydobywanie węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej – uzyskuje także opinię Prezesa Wyższego Urzędu Górniczego w zakresie bezpieczeństwa wykonywania tej działalności.
 
 2. W sprawach, o których mowa w ust. 1, organowi koncesyjnemu przysługują prawa strony postępowania.
 
@@ -1338,7 +1432,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 1a. W przypadku działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, komisja przetargowa, dokonując oceny ofert w zakresie kryteriów, o których mowa w art. 49k ust. 1 pkt 2 i 3, bierze pod uwagę w szczególności:
 
-- **1)** ryzyko i zagrożenia dotyczące wykonywania działalności w przestrzeni, w granicach której ma być ona wykonywana, w szczególności koszty degradacji środowiska wód morskich, o których mowa w art. 150 ust. 1 pkt 3 ustawy z dnia 20 lipca 2017 r. Prawo wodne;
+- **1)** ryzyko i zagrożenia dotyczące wykonywania działalności w przestrzeni, w granicach której ma być ona wykonywana, w szczególności koszty degradacji środowiska wód morskich, o których mowa w art. 150 ust. 1 pkt 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
 - **2)** zdolności finansowe podmiotu uczestniczącego w przetargu do pokrycia zobowiązań, jakie mogą potencjalnie wyniknąć z wykonywania działalności, w tym wszelkie rodzaje zabezpieczenia finansowego;
 - **3)** dostępne informacje dotyczące działania podmiotu uczestniczącego w przetargu w zakresie bezpieczeństwa i ochrony środowiska, w tym w odniesieniu do niebezpiecznych zdarzeń, w zakresie, w jakim mogą mieć one wpływ na wykonywanie działalności.
 
@@ -1374,6 +1468,10 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 49o.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** wymagania, jakim powinna odpowiadać oferta oraz dokumenty wymagane od składającego ofertę, z uwzględnieniem rodzaju działalności,
+- **2)** wymagania, jakim powinni odpowiadać członkowie komisji przetargowej, niezbędne do przeprowadzenia przetargu oraz tryb pracy tej komisji, z uwzględnieniem zapewnienia sprawności wykonywanych czynności,
+- **3)** tryb przeprowadzenia przetargu, w tym sposób dokonania oceny ofert, z uwzględnieniem potrzeby zapewnienia sprawiedliwej oceny ofert zgodnie z zasadami przejrzystości i niedyskryminacji – mając na uwadze zasady ochrony konkurencji, ochrony środowiska oraz racjonalnej gospodarki złożem.
+
 **Art. 49p.**
 
 1. W przypadku gdy w przetargu została wybrana oferta złożona wspólnie przez kilka podmiotów, organ koncesyjny, po otrzymaniu protokołu z przetargu, niezwłocznie wzywa operatora do przekazania temu organowi, w terminie 30 dni od dnia otrzymania wezwania, projektu umowy o współpracy.
@@ -1394,19 +1492,24 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 49r.** Organ koncesyjny umarza postępowanie przetargowe, w przypadku gdy:
 
+- **1)** w terminie, o którym mowa w art. 49h ust. 3 pkt 3, żaden podmiot nie złożył oferty;
+- **2)** wszystkie złożone w przetargu oferty zostały wycofane lub nie spełniają wymagań określonych w ogłoszeniu, o którym mowa w art. 49h ust. 2;
+- **3)** zwycięzcą przetargu są podmioty, które wspólnie złożyły ofertę i nie przekazały organowi koncesyjnemu umowy o współpracy;
+- **4)** w terminie, o którym mowa w art. 49p ust. 2, nie usunięto niezgodności w projekcie umowy o współpracy.
+
 **Art. 49s.**
 
 1. Organ koncesyjny udziela koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża niezwłocznie:
 
-- **1)** po otrzymaniu protokołu z przetargu na rzecz zwycięzcy przetargu albo
-- **2)** w przypadku gdy zwycięzcą przetargu są podmioty, które wspólnie złożyły ofertę po przekazaniu organowi koncesyjnemu umowy o współpracy na rzecz stron tej umowy i jednocześnie odmawia udzielenia koncesji podmiotom uczestniczącym w postępowaniu przetargowym, które nie są zwycięzcą przetargu.
+- **1)** po otrzymaniu protokołu z przetargu – na rzecz zwycięzcy przetargu albo
+- **2)** w przypadku gdy zwycięzcą przetargu są podmioty, które wspólnie złożyły ofertę – po przekazaniu organowi koncesyjnemu umowy o współpracy – na rzecz stron tej umowy – i jednocześnie odmawia udzielenia koncesji podmiotom uczestniczącym w postępowaniu przetargowym, które nie są zwycięzcą przetargu.
 
-2. Organ koncesyjny zawiera umowę o ustanowieniu użytkowania górniczego ze zwycięzcą przetargu, a w przypadku gdy zwycięzcą przetargu są podmioty, które wspólnie złożyły ofertę ze wszystkimi tymi podmiotami.
+2. Organ koncesyjny zawiera umowę o ustanowieniu użytkowania górniczego ze zwycięzcą przetargu, a w przypadku gdy zwycięzcą przetargu są podmioty, które wspólnie złożyły ofertę – ze wszystkimi tymi podmiotami.
 
 3. Organ koncesyjny odmawia udzielenia koncesji, o której mowa w ust. 1, w przypadkach, o których mowa w art. 29 ust. 1, a także w przypadku gdy:
 
 - **1)** żadna z ofert nie spełnia kryteriów, o których mowa w art. 49h ust. 3 pkt 4;
-- **2)** przed udzieleniem koncesji zwycięzcy przetargu, a w przypadku gdy zwycięzcą przetargu są podmioty, które wspólnie złożyły ofertę operatorowi albo wszystkim podmiotom, uchylono decyzję o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, decyzja ta wygasła albo utraciła moc bez względu na przyczynę.
+- **2)** przed udzieleniem koncesji zwycięzcy przetargu, a w przypadku gdy zwycięzcą przetargu są podmioty, które wspólnie złożyły ofertę – operatorowi albo wszystkim podmiotom, uchylono decyzję o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, decyzja ta wygasła albo utraciła moc bez względu na przyczynę.
 
 **Art. 49t.**
 
@@ -1423,7 +1526,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 3. Koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesja na wydobywanie węglowodorów ze złoża:
 
 - **1)** przyznaje przedsiębiorcy wyłączne prawo do wykonywania działalności objętej koncesją w określonej w niej przestrzeni;
-- **2)** w przypadku gdy jest udzielona na rzecz stron umowy o współpracy jest wykonywana w sposób i na warunkach określonych w tej umowie.
+- **2)** w przypadku gdy jest udzielona na rzecz stron umowy o współpracy – jest wykonywana w sposób i na warunkach określonych w tej umowie.
 
 **Art. 49u.**
 
@@ -1431,9 +1534,9 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** rodzaj i sposób wykonywania zamierzonej działalności;
 - **2)** przestrzeń, w granicach której ma być wykonywana zamierzona działalność;
-- **3)** w przypadku gdy jest udzielana na rzecz stron umowy o współpracy operatora oraz wskazuje zgodnie z umową o współpracy udziały stron umowy w zysku i kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych;
+- **3)** w przypadku gdy jest udzielana na rzecz stron umowy o współpracy – operatora oraz wskazuje zgodnie z umową o współpracy udziały stron umowy w zysku i kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych;
 - **4)** czas obowiązywania koncesji;
-- **5)** termin rozpoczęcia zamierzonej działalności, a w razie potrzeby przesłanki, których spełnienie oznacza rozpoczęcie zamierzonej działalności;
+- **5)** termin rozpoczęcia zamierzonej działalności, a w razie potrzeby – przesłanki, których spełnienie oznacza rozpoczęcie zamierzonej działalności;
 - **6)** szczególne warunki wykonywania zamierzonej działalności, w szczególności w zakresie zapewnienia bezpieczeństwa powszechnego, zdrowia publicznego, ochrony środowiska lub racjonalnego gospodarowania złożem;
 - **7)** warunki zabezpieczenia, o których mowa w art. 49x ust. 2, o ile je przewidziano w ogłoszeniu, o którym mowa w art. 49h ust. 2, w szczególności wysokość, zakres i sposób ustanowienia tego zabezpieczenia;
 - **8)** wysokość, zakres i sposób ustanowienia zabezpieczenia, o którym mowa w art. 49x ust. 2a, w przypadku koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, a także koncesji na wydobywanie węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej.
@@ -1441,6 +1544,17 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 2. Koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesja na wydobywanie węglowodorów ze złoża, może określać warunki wtłaczania wód do górotworu.
 
 **Art. 49v.** Koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża określa również:
+
+- **1)** cel, zakres i rodzaj zamierzonych prac geologicznych, w tym robót geologicznych, oraz minimalną kategorię rozpoznania złoża;
+- **2)** czas trwania fazy:
+    - **a)** poszukiwania i rozpoznawania rozumianej jako wykonywanie tej koncesji w okresie od dnia jej udzielenia do dnia zakończenia dokumentowania złoża w przestrzeni wyznaczonej koncesją albo przekazania właściwemu organowi dokumentacji, o której mowa w art. 88 ust. 2 pkt 4; zatwierdzenie dokumentacji geologiczno-inwestycyjnej złoża węglowodorów przed upływem czasu trwania tej fazy nie stanowi jej zakończenia,
+    - **b)** wydobywania rozumianej jako wykonywanie tej koncesji w okresie od dnia wydania decyzji inwestycyjnej, o której mowa w art. 49z ust. 1, do dnia cofnięcia, wygaśnięcia lub utraty mocy tej koncesji; rozpoczęcie fazy wydobywania może nastąpić w czasie trwania fazy poszukiwania i rozpoznawania;
+
+- **3)** harmonogram realizacji obowiązków wynikających z tej koncesji;
+- **4)** częstotliwość, tryb i format przekazywania organowi koncesyjnemu informacji o wynikach realizacji obowiązków określonych w harmonogramach, o których mowa w pkt 3;
+- **5)** wysokość opłaty za działalność w zakresie poszukiwania i rozpoznawania złoża węglowodorów;
+- **6)** (uchylony)
+- **7)** zakres i harmonogram obowiązkowego poboru próbek uzyskanych w wyniku robót geologicznych, w tym rdzeni wiertniczych.
 
 **Art. 49w.**
 
@@ -1476,13 +1590,13 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 5a. W przypadku, o którym mowa w ust. 2a, zabezpieczenie wnoszone w pieniądzu wpłaca się przelewem na odrębny rachunek bankowy urzędu obsługującego organ koncesyjny, w terminie 30 dni od dnia doręczenia decyzji zatwierdzającej plan ruchu zakładu górniczego, niepóźniej niż przed dniem rozpoczęcia prowadzenia ruchu zakładu górniczego.
 
-6. Jeżeli zabezpieczenie, o którym mowa w ust. 2 i 2a, wniesiono w pieniądzu, organ koncesyjny przechowuje je na oprocentowanym rachunku bankowym. Organ koncesyjny zwraca zabezpieczenie wniesione w pieniądzu z odsetkami wynikającymi z umowy rachunku bankowego, na którym było ono przechowywane, pomniejszone o koszt prowadzenia tego rachunku oraz prowizji bankowej za przelew pieniędzy na rachunek przedsiębiorcy, a w przypadku udzielenia koncesji na rzecz stron umowy o współpracy na rachunek wspólny, o którym mowa w art. 49zp ust. 1.
+6. Jeżeli zabezpieczenie, o którym mowa w ust. 2 i 2a, wniesiono w pieniądzu, organ koncesyjny przechowuje je na oprocentowanym rachunku bankowym. Organ koncesyjny zwraca zabezpieczenie wniesione w pieniądzu z odsetkami wynikającymi z umowy rachunku bankowego, na którym było ono przechowywane, pomniejszone o koszt prowadzenia tego rachunku oraz prowizji bankowej za przelew pieniędzy na rachunek przedsiębiorcy, a w przypadku udzielenia koncesji na rzecz stron umowy o współpracy – na rachunek wspólny, o którym mowa w art. 49zp ust. 1.
 
 7. Dowód ustanowienia zabezpieczenia, o którym mowa w:
 
 - **1)** (uchylony)
-- **2)** ust. 2 przedstawia się organowi koncesyjnemu w terminie 30 dni od dnia udzielenia koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża;
-- **3)** ust. 2a przedstawia się organowi koncesyjnemu w terminie 30 dni od dnia doręczenia decyzji zatwierdzającej plan ruchu zakładu górniczego.
+- **2)** ust. 2 – przedstawia się organowi koncesyjnemu w terminie 30 dni od dnia udzielenia koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża;
+- **3)** ust. 2a – przedstawia się organowi koncesyjnemu w terminie 30 dni od dnia doręczenia decyzji zatwierdzającej plan ruchu zakładu górniczego.
 
 8. Corocznie, w terminie do dnia 31 stycznia, przedkłada się organowi koncesyjnemu aktualny dowód istnienia zabezpieczenia, o którym mowa w ust. 2 i 2a.
 
@@ -1508,8 +1622,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 6b. W przypadku działalności polegającej na wydobywaniu węglowodorów ze złoża połączonym z podziemnym składowaniem dwutlenku węgla:
 
-- **1)** w łącznej ilości poniżej 100 kiloton wniosek o przedłużenie czasu trwania fazy wydobywania przedkłada się niepóźniej niż 200 dni przed upływem czasu trwania tej fazy;
-- **2)** w łącznej ilości równej lub większej niż 100 kiloton wniosek o przedłużenie czasu trwania fazy wydobywania przedkłada się niepóźniej niż 300 dni przed upływem czasu trwania tej fazy.
+- **1)** w łącznej ilości poniżej 100 kiloton – wniosek o przedłużenie czasu trwania fazy wydobywania przedkłada się niepóźniej niż 200 dni przed upływem czasu trwania tej fazy;
+- **2)** w łącznej ilości równej lub większej niż 100 kiloton – wniosek o przedłużenie czasu trwania fazy wydobywania przedkłada się niepóźniej niż 300 dni przed upływem czasu trwania tej fazy.
 
 7. (uchylony)
 
@@ -1517,8 +1631,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 9. Organ koncesyjny, w przypadku gdy przedmiotem postępowania jest przedłużenie:
 
-- **1)** fazy poszukiwania i rozpoznawania dokonuje uzgodnienia, o którym mowa w art. 8 oraz w art. 23 ust. 1a, oraz uzyskuje opinię, o której mowa w art. 23 ust. 1 pkt 1a i 1b, albo opinię, o której mowa w art. 23 ust. 2 pkt 2;
-- **2)** fazy wydobywania dokonuje uzgodnienia, o którym mowa w art. 8 oraz w art. 23 ust. 1 pkt 3, oraz uzyskuje opinię, o której mowa w art. 23 ust. 1 pkt 1a i 1b, albo dokonuje uzgodnienia, o którym mowa w art. 23 ust. 2a pkt 1, a w przypadku wydobywania węglowodorów ze złoża połączonego z podziemnym składowaniem dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton uzyskuje także opinię, o której mowa w art. 23 ust. 1 pkt 4.
+- **1)** fazy poszukiwania i rozpoznawania – dokonuje uzgodnienia, o którym mowa w art. 8 oraz w art. 23 ust. 1a, oraz uzyskuje opinię, o której mowa w art. 23 ust. 1 pkt 1a i 1b, albo opinię, o której mowa w art. 23 ust. 2 pkt 2;
+- **2)** fazy wydobywania – dokonuje uzgodnienia, o którym mowa w art. 8 oraz w art. 23 ust. 1 pkt 3, oraz uzyskuje opinię, o której mowa w art. 23 ust. 1 pkt 1a i 1b, albo dokonuje uzgodnienia, o którym mowa w art. 23 ust. 2a pkt 1, a w przypadku wydobywania węglowodorów ze złoża połączonego z podziemnym składowaniem dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton uzyskuje także opinię, o której mowa w art. 23 ust. 1 pkt 4.
 
 **Art. 49z.**
 
@@ -1563,7 +1677,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 6. Uzyskanie decyzji inwestycyjnych albo ich zmian zobowiązuje do zmiany umowy o ustanowieniu użytkowania górniczego najpóźniej w terminie 30 dni od dnia uzyskania albo zmiany decyzji inwestycyjnej.
 
-7. W przypadku udokumentowania złoża węglowodorów położonego w przestrzeni co najmniej dwóch przylegających do siebie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż, udzielonych na rzecz jednego przedsiębiorcy lub stron umowy o współpracy, organ koncesyjny wydaje jedną decyzję inwestycyjną dla tego złoża, która określa warunki wykonywania fazy wydobywania dla wszystkich koncesji, w przestrzeni których położone jest udokumentowane złoże. Art. 49zb. Przedsiębiorca, a w przypadku gdy koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża lub koncesja na wydobywanie węglowodorów ze złoża jest udzielona na rzecz stron umowy o współpracy operator, przez czas obowiązywania koncesji, jest obowiązany do prowadzenia strony internetowej zapewniającej nieodpłatny dostęp do danych teleadresowych stron umowy o współpracy, do kopii koncesji oraz decyzji ją zmieniających, decyzji o środowiskowych uwarunkowaniach, decyzji inwestycyjnej, decyzji zatwierdzającej plan ruchu zakładu górniczego oraz decyzji zatwierdzającej dokumentację geologiczno-inwestycyjną złoża węglowodorów. Strona internetowa zapewnia także dostęp do mapy w skali co najmniej 1:50 000 z naniesionymi granicami przestrzeni wyznaczonej koncesją i lokalizacji wierceń prowadzonych w fazie poszukiwania i rozpoznawania, a w przypadku wydobywania węglowodorów ze złoża z naniesionymi granicami obszaru górniczego i terenu górniczego, wraz ze współrzędnymi płaskimi prostokątnymi punktów załamania tych granic w państwowym systemie odniesień przestrzennych. Art. 49zc. 1. Przedsiębiorca od dnia uzyskania koncesji na wydobywanie węglowodorów ze złóż, a w przypadku koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż od dnia uzyskania decyzji inwestycyjnej, jest obowiązany do przekazywania państwowej służbie geologicznej bieżących parametrów wydobywania węglowodorów ze złoża.
+7. W przypadku udokumentowania złoża węglowodorów położonego w przestrzeni co najmniej dwóch przylegających do siebie koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż, udzielonych na rzecz jednego przedsiębiorcy lub stron umowy o współpracy, organ koncesyjny wydaje jedną decyzję inwestycyjną dla tego złoża, która określa warunki wykonywania fazy wydobywania dla wszystkich koncesji, w przestrzeni których położone jest udokumentowane złoże. Art. 49zb. Przedsiębiorca, a w przypadku gdy koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża lub koncesja na wydobywanie węglowodorów ze złoża jest udzielona na rzecz stron umowy o współpracy – operator, przez czas obowiązywania koncesji, jest obowiązany do prowadzenia strony internetowej zapewniającej nieodpłatny dostęp do danych teleadresowych stron umowy o współpracy, do kopii koncesji oraz decyzji ją zmieniających, decyzji o środowiskowych uwarunkowaniach, decyzji inwestycyjnej, decyzji zatwierdzającej plan ruchu zakładu górniczego oraz decyzji zatwierdzającej dokumentację geologiczno-inwestycyjną złoża węglowodorów. Strona internetowa zapewnia także dostęp do mapy w skali co najmniej 1:50 000 z naniesionymi granicami przestrzeni wyznaczonej koncesją i lokalizacji wierceń prowadzonych w fazie poszukiwania i rozpoznawania, a w przypadku wydobywania węglowodorów ze złoża – z naniesionymi granicami obszaru górniczego i terenu górniczego, wraz ze współrzędnymi płaskimi prostokątnymi punktów załamania tych granic w państwowym systemie odniesień przestrzennych. Art. 49zc. 1. Przedsiębiorca od dnia uzyskania koncesji na wydobywanie węglowodorów ze złóż, a w przypadku koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż – od dnia uzyskania decyzji inwestycyjnej, jest obowiązany do przekazywania państwowej służbie geologicznej bieżących parametrów wydobywania węglowodorów ze złoża.
 
 2. Przekazywanie parametrów następuje na piśmie utrwalonym w postaci papierowej lub elektronicznej, opatrzonym odpowiednio do sposobu utrwalenia podpisem własnoręcznym, kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, za okresy półroczne, liczone odpowiednio od dnia 1 stycznia do dnia 30 czerwca i od dnia 1 lipca do dnia 31 grudnia, w terminie miesiąca liczonego po upływie danego półrocza oraz w zakresie, formatach i trybie określonych w przepisach wydanych na podstawie art. 82a ust. 1 pkt 3. Art. 49zd. 1. Jeżeli nie sprzeciwia się temu interes publiczny, w szczególności związany z bezpieczeństwem państwa, budową konkurencyjnego i przejrzystego rynku energii, zapewnieniem bezpieczeństwa energetycznego lub ochroną środowiska, w tym z racjonalną gospodarką złożem, na wniosek przedsiębiorcy będącego dotychczasową stroną umowy o współpracy, w przypadkach określonych w art. 49zr ust. 2 oraz art. 49zt ust. 3 i 4, organ koncesyjny przenosi koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesję na wydobywanie węglowodorów ze złoża, w drodze decyzji, na nowe strony umowy o współpracy.
 
@@ -1584,8 +1698,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 7. W przypadku, o którym mowa w ust. 6, dowód ustanowienia zabezpieczenia, o którym mowa w:
 
-- **1)** art. 49x ust. 2 doręcza się organowi koncesyjnemu w terminie 30 dni od dnia doręczenia lub ogłoszenia decyzji przenoszącej koncesję;
-- **2)** art. 49x ust. 2a doręcza się organowi koncesyjnemu w terminie określonym w decyzji przenoszącej koncesję.
+- **1)** art. 49x ust. 2 – doręcza się organowi koncesyjnemu w terminie 30 dni od dnia doręczenia lub ogłoszenia decyzji przenoszącej koncesję;
+- **2)** art. 49x ust. 2a – doręcza się organowi koncesyjnemu w terminie określonym w decyzji przenoszącej koncesję.
 
 7a. Do przeniesienia koncesji, o których mowa w ust. 1, na działalność w zakresie wydobywania węglowodorów ze złoża połączonego z podziemnym składowaniem dwutlenku węgla stosuje się również przepisy art. 36 ust. 3a–3c.
 
@@ -1595,7 +1709,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** do zgłoszenia, o którym mowa w art. 36a ust. 1, dołącza się również:
     - **a)** kopię decyzji o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, o której mowa w art. 49a ust. 17,
-    - **b)** nową umowę o współpracy w przypadku koncesji udzielonych na rzecz stron umowy o współpracy;
+    - **b)** nową umowę o współpracy – w przypadku koncesji udzielonych na rzecz stron umowy o współpracy;
 
 - **2)** organ koncesyjny zgłasza sprzeciw, o którym mowa w art. 36a ust. 8, również w przypadku, gdy podmiot przejmujący nie przedstawi dokumentów, o których mowa w pkt 1. Art. 49zdb. Podmiot, o którym mowa w art. 49zd, na który została przeniesiona koncesja, albo podmiot, o którym mowa w art. 49zda, który wstąpił w prawa i obowiązki wynikające z decyzji wydanych na podstawie ustawy, staje się stroną wszczętych i niezakończonych postępowań administracyjnych, o których mowa w art. 34, art. 37, art. 49y, art. 49z, art. 49za ust. 4a, art. 49ze, art. 49zg, art. 80a ust. 2b, art. 101 ust. 2, art. 107, art. 108 i art. 109 ust. 1 pkt 1, oraz postępowań sądowoadministracyjnych, których stroną był dotychczasowy przedsiębiorca. Art. 49ze. 1. Organ koncesyjny może cofnąć koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesję na wydobywanie węglowodorów ze złoża, w przypadkach określonych w art. 37, a także w przypadku gdy:
 - **1)** (uchylony)
@@ -1606,7 +1720,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 3. Organ koncesyjny cofa koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesję na wydobywanie węglowodorów ze złoża, w przypadku gdy:
 
-- **1)** przedsiębiorcy, któremu samodzielnie udzielono koncesji, a w przypadku gdy koncesja została udzielona na rzecz stron umowy o współpracy operatorowi albo wszystkim stronom umowy o współpracy, uchylono decyzję o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, decyzja ta wygasła albo utraciła moc bez względu na przyczynę;
+- **1)** przedsiębiorcy, któremu samodzielnie udzielono koncesji, a w przypadku gdy koncesja została udzielona na rzecz stron umowy o współpracy – operatorowi albo wszystkim stronom umowy o współpracy, uchylono decyzję o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, decyzja ta wygasła albo utraciła moc bez względu na przyczynę;
 - **2)** (uchylony)
 - **3)** zaistniały okoliczności, o których mowa w art. 37a ust. 1, w odniesieniu do koncesji na działalność w zakresie wydobywania węglowodorów ze złoża połączonego z podziemnym składowaniem dwutlenku węgla. Art. 49zf. 1. Do wygaśnięcia koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesji na wydobywanie węglowodorów ze złoża, stosuje się art. 38, z zastrzeżeniem, że koncesja, która została udzielona na rzecz stron umowy o współpracy wygasa, gdy przesłanki określone w art. 38 ust. 1 pkt 4 i 5 dotyczą operatora.
 
@@ -1648,19 +1762,19 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 2. Ustala się następujące kategorie kwalifikacji w zawodzie geolog w zakresie czynności polegających na wykonywaniu, dozorowaniu i kierowaniu pracami geologicznymi:
 
-- **1)** kategoria I poszukiwanie i rozpoznawanie złóż węglowodorów;
-- **2)** kategoria II poszukiwanie i rozpoznawanie złóż kopalin objętych własnością górniczą, z wyjątkiem złóż ropy naftowej i gazu ziemnego, wód leczniczych, wód termalnych i solanek, a także poszukiwanie i rozpoznawanie złóż kopalin objętych prawem własności nieruchomości gruntowej;
-- **3)** kategoria III poszukiwanie i rozpoznawanie złóż kopalin objętych prawem własności nieruchomości gruntowej;
-- **4)** kategoria IV poszukiwanie i rozpoznawanie zasobów wód podziemnych, w tym wód leczniczych, wód termalnych i solanek, określanie warunków hydrogeologicznych związanych z zamierzonym: wykonywaniem odwodnień w celu wydobywania kopalin, wtłaczaniem wód do górotworu, wykonywaniem odwodnień budowlanych otworami wiertniczymi, wykonywaniem przedsięwzięć mogących negatywnie oddziaływać na wody podziemne, w tym powodować ich zanieczyszczenie, podziemnym bezzbiornikowym magazynowaniem substancji lub podziemnym składowaniem odpadów, składowaniem odpadów na powierzchni, poszukiwaniem i rozpoznawaniem kompleksu podziemnego składowania dwutlenku węgla, podziemnym składowaniem dwutlenku węgla, ustanawianiem obszarów ochronnych zbiorników wód podziemnych, zakończeniem lub zmianą poziomu odwadniania likwidowanych zakładów górniczych oraz wykonywanie i dokumentowanie prac geologicznych w celu wykorzystania ciepła Ziemi, a także projektowanie i wykonywanie otworów obserwacyjnych;
-- **5)** kategoria V poszukiwanie i rozpoznawanie zasobów wód podziemnych, z wyjątkiem wód leczniczych, wód termalnych i solanek, określanie warunków hydrogeologicznych związanych z zamierzonym: wykonywaniem odwodnień budowlanych otworami wiertniczymi, wykonywaniem przedsięwzięć mogących negatywnie oddziaływać na wody podziemne, w tym powodować ich zanieczyszczenie, podziemnym bezzbiornikowym magazynowaniem substancji lub podziemnym składowaniem odpadów, składowaniem odpadów na powierzchni, ustanawianiem obszarów ochronnych zbiorników wód podziemnych, oraz wykonywanie i dokumentowanie prac geologicznych w celu wykorzystania ciepła Ziemi, a także projektowanie i wykonywanie otworów obserwacyjnych;
-- **6)** kategoria VI określanie warunków geologiczno-inżynierskich na potrzeby: zagospodarowania przestrzennego, posadawiania obiektów budowlanych, w tym posadawiania obiektów budowlanych zakładów górniczych i budownictwa wodnego, podziemnego bezzbiornikowego magazynowania substancji lub podziemnego składowania odpadów, składowania odpadów na powierzchni, poszukiwania i rozpoznawania kompleksu podziemnego składowania dwutlenku węgla, a także podziemnego składowania dwutlenku węgla;
-- **7)** kategoria VII określanie warunków geologiczno-inżynierskich na potrzeby: zagospodarowania przestrzennego, posadawiania obiektów budowlanych, z wyjątkiem posadawiania obiektów budowlanych zakładów górniczych oraz budownictwa wodnego;
-- **8)** kategoria VIII wykonywanie prac kartografii geologicznej wraz z projektowaniem i dokumentowaniem tych prac, z wyjątkiem map sporządzanych w ramach pozostałych kategorii kwalifikacji;
-- **9)** kategoria IX kierowanie i wykonywanie w terenie badań sejsmicznych i geofizyki wiertniczej, także przy użyciu środków strzałowych, wraz z projektowaniem i dokumentowaniem tych badań;
+- **1)** kategoria I – poszukiwanie i rozpoznawanie złóż węglowodorów;
+- **2)** kategoria II – poszukiwanie i rozpoznawanie złóż kopalin objętych własnością górniczą, z wyjątkiem złóż ropy naftowej i gazu ziemnego, wód leczniczych, wód termalnych i solanek, a także poszukiwanie i rozpoznawanie złóż kopalin objętych prawem własności nieruchomości gruntowej;
+- **3)** kategoria III – poszukiwanie i rozpoznawanie złóż kopalin objętych prawem własności nieruchomości gruntowej;
+- **4)** kategoria IV – poszukiwanie i rozpoznawanie zasobów wód podziemnych, w tym wód leczniczych, wód termalnych i solanek, określanie warunków hydrogeologicznych związanych z zamierzonym: wykonywaniem odwodnień w celu wydobywania kopalin, wtłaczaniem wód do górotworu, wykonywaniem odwodnień budowlanych otworami wiertniczymi, wykonywaniem przedsięwzięć mogących negatywnie oddziaływać na wody podziemne, w tym powodować ich zanieczyszczenie, podziemnym bezzbiornikowym magazynowaniem substancji lub podziemnym składowaniem odpadów, składowaniem odpadów na powierzchni, poszukiwaniem i rozpoznawaniem kompleksu podziemnego składowania dwutlenku węgla, podziemnym składowaniem dwutlenku węgla, ustanawianiem obszarów ochronnych zbiorników wód podziemnych, zakończeniem lub zmianą poziomu odwadniania likwidowanych zakładów górniczych oraz wykonywanie i dokumentowanie prac geologicznych w celu wykorzystania ciepła Ziemi, a także projektowanie i wykonywanie otworów obserwacyjnych;
+- **5)** kategoria V – poszukiwanie i rozpoznawanie zasobów wód podziemnych, z wyjątkiem wód leczniczych, wód termalnych i solanek, określanie warunków hydrogeologicznych związanych z zamierzonym: wykonywaniem odwodnień budowlanych otworami wiertniczymi, wykonywaniem przedsięwzięć mogących negatywnie oddziaływać na wody podziemne, w tym powodować ich zanieczyszczenie, podziemnym bezzbiornikowym magazynowaniem substancji lub podziemnym składowaniem odpadów, składowaniem odpadów na powierzchni, ustanawianiem obszarów ochronnych zbiorników wód podziemnych, oraz wykonywanie i dokumentowanie prac geologicznych w celu wykorzystania ciepła Ziemi, a także projektowanie i wykonywanie otworów obserwacyjnych;
+- **6)** kategoria VI – określanie warunków geologiczno-inżynierskich na potrzeby: zagospodarowania przestrzennego, posadawiania obiektów budowlanych, w tym posadawiania obiektów budowlanych zakładów górniczych i budownictwa wodnego, podziemnego bezzbiornikowego magazynowania substancji lub podziemnego składowania odpadów, składowania odpadów na powierzchni, poszukiwania i rozpoznawania kompleksu podziemnego składowania dwutlenku węgla, a także podziemnego składowania dwutlenku węgla;
+- **7)** kategoria VII – określanie warunków geologiczno-inżynierskich na potrzeby: zagospodarowania przestrzennego, posadawiania obiektów budowlanych, z wyjątkiem posadawiania obiektów budowlanych zakładów górniczych oraz budownictwa wodnego;
+- **8)** kategoria VIII – wykonywanie prac kartografii geologicznej wraz z projektowaniem i dokumentowaniem tych prac, z wyjątkiem map sporządzanych w ramach pozostałych kategorii kwalifikacji;
+- **9)** kategoria IX – kierowanie i wykonywanie w terenie badań sejsmicznych i geofizyki wiertniczej, także przy użyciu środków strzałowych, wraz z projektowaniem i dokumentowaniem tych badań;
 - **10)** (uchylony)
 - **11)** (uchylony)
 - **12)** (uchylony)
-- **13)** kategoria XIII wykonywanie czynności dozoru geologicznego nad pracami geologicznymi, z wyjątkiem badań wymienionych w pkt 9, a także kierowanie w terenie robotami geologicznymi wykonywanymi poza granicami obszaru górniczego, wykonywanymi bez użycia środków strzałowych albo gdy projektowana głębokość wyrobiska nie przekracza 100 m.
+- **13)** kategoria XIII – wykonywanie czynności dozoru geologicznego nad pracami geologicznymi, z wyjątkiem badań wymienionych w pkt 9, a także kierowanie w terenie robotami geologicznymi wykonywanymi poza granicami obszaru górniczego, wykonywanymi bez użycia środków strzałowych albo gdy projektowana głębokość wyrobiska nie przekracza 100 m.
 
 3. Kwalifikacje określone w ust. 2 pkt 1–8 upoważniają do wykonywania i kierowania pracami geologicznymi dotyczącymi regionalnych badań budowy geologicznej kraju oraz otworów wiertniczych do rozpoznawania budowy głębokiego podłoża, niezwiązanych z dokumentowaniem złóż kopalin.
 
@@ -1668,11 +1782,18 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 51.** Stwierdzenie posiadania kwalifikacji w zawodzie geolog w zakresie wykonywania, dozorowania i kierowania pracami geologicznymi w:
 
+- **1)** kategoriach I–IX następuje w drodze świadectwa wydanego przez ministra właściwego do spraw środowiska;
+- **2)** kategorii XIII następuje w drodze świadectwa wydanego przez marszałka województwa:
+    - **a)** dolnośląskiego – dla osób zamieszkałych lub wykonujących czynności, o których mowa w art. 50 ust. 2 pkt 13, na terenie województw: dolnośląskiego, lubuskiego, opolskiego i wielkopolskiego,
+    - **b)** małopolskiego – dla osób zamieszkałych lub wykonujących czynności, o których mowa w art. 50 ust. 2 pkt 13, na terenie województw: małopolskiego, podkarpackiego, śląskiego i świętokrzyskiego,
+    - **c)** mazowieckiego – dla osób zamieszkałych lub wykonujących czynności, o których mowa w art. 50 ust. 2 pkt 13, na terenie województw: lubelskiego, łódzkiego, mazowieckiego i podlaskiego,
+    - **d)** pomorskiego – dla osób zamieszkałych lub wykonujących czynności, o których mowa w art. 50 ust. 2 pkt 13, na terenie województw: kujawsko-pomorskiego, pomorskiego, warmińsko-mazurskiego i zachodniopomorskiego.
+
 **Art. 52.**
 
-1. O stwierdzenie posiadania kwalifikacji w zawodzie geolog w kategorii I–IX może ubiegać się osoba, która posiada dyplom ukończenia studiów pierwszego lub drugiego stopnia lub jednolitych studiów magisterskich na kierunku związanym z kształceniem w zakresie geologii oraz odbyła praktykę zawodową odpowiednią do poziomu i kierunku ukończonych studiów, zwaną dalej „praktyką”, określone w przepisach wydanych na podstawie art. ust. 1 pkt 1.
+1. O stwierdzenie posiadania kwalifikacji w zawodzie geolog w kategorii I–IX może ubiegać się osoba, która posiada dyplom ukończenia studiów pierwszego lub drugiego stopnia lub jednolitych studiów magisterskich na kierunku związanym z kształceniem w zakresie geologii oraz odbyła praktykę zawodową odpowiednią do poziomu i kierunku ukończonych studiów, zwaną dalej „praktyką”, określone w przepisach wydanych na podstawie art. 69 ust. 1 pkt 1.
 
-2. O stwierdzenie posiadania kwalifikacji w zawodzie geolog w kategorii XIII może ubiegać się osoba, która posiada co najmniej świadectwo dojrzałości oraz świadectwo ukończenia szkoły nadające prawo używania tytułu zawodowego lub dyplom uzyskania tytułu zawodowego, dyplom potwierdzający kwalifikacje zawodowe albo dyplom zawodowy, w zawodach określonych w przepisach wydanych na podstawie art. ust. 1 pkt 1, lub dyplom ukończenia studiów pierwszego lub drugiego stopnia lub jednolitych studiów magisterskich na kierunku związanym z kształceniem w zakresie geologii, oraz odbyła praktykę, określone w tych przepisach.
+2. O stwierdzenie posiadania kwalifikacji w zawodzie geolog w kategorii XIII może ubiegać się osoba, która posiada co najmniej świadectwo dojrzałości oraz świadectwo ukończenia szkoły nadające prawo używania tytułu zawodowego lub dyplom uzyskania tytułu zawodowego, dyplom potwierdzający kwalifikacje zawodowe albo dyplom zawodowy, w zawodach określonych w przepisach wydanych na podstawie art. 69 ust. 1 pkt 1, lub dyplom ukończenia studiów pierwszego lub drugiego stopnia lub jednolitych studiów magisterskich na kierunku związanym z kształceniem w zakresie geologii, oraz odbyła praktykę, określone w tych przepisach.
 
 3. Zakres ukończonych studiów, o których mowa w ust. 1 i 2, potwierdza się na podstawie:
 
@@ -1687,8 +1808,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 5. Praktykę można rozpocząć w przypadku osób ubiegających się o stwierdzenie posiadania kwalifikacji w zawodzie geolog w:
 
-- **1)** kategorii I–IX po zaliczeniu czwartego semestru studiów pierwszego stopnia lub jednolitych studiów magisterskich, o których mowa w ust. 1, lub po rozpoczęciu studiów drugiego stopnia, o których mowa w ust. 1;
-- **2)** kategorii XIII po uzyskaniu świadectwa ukończenia szkoły nadającego prawo używania tytułu zawodowego lub dyplomu uzyskania tytułu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe albo dyplomu zawodowego, w zawodach określonych w przepisach wydanych na podstawie art. ust. 1 pkt 1, lub po zaliczeniu czwartego semestru studiów pierwszego stopnia lub jednolitych studiów magisterskich, o których mowa w ust. 2, lub po rozpoczęciu studiów drugiego stopnia, o których mowa w ust. 2.
+- **1)** kategorii I–IX – po zaliczeniu czwartego semestru studiów pierwszego stopnia lub jednolitych studiów magisterskich, o których mowa w ust. 1, lub po rozpoczęciu studiów drugiego stopnia, o których mowa w ust. 1;
+- **2)** kategorii XIII – po uzyskaniu świadectwa ukończenia szkoły nadającego prawo używania tytułu zawodowego lub dyplomu uzyskania tytułu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe albo dyplomu zawodowego, w zawodach określonych w przepisach wydanych na podstawie art. 69 ust. 1 pkt 1, lub po zaliczeniu czwartego semestru studiów pierwszego stopnia lub jednolitych studiów magisterskich, o których mowa w ust. 2, lub po rozpoczęciu studiów drugiego stopnia, o których mowa w ust. 2.
 
 6. Do okresu praktyki zalicza się praktykę objętą programem studiów na studiach, o których mowa w ust. 1 i 2, pod warunkiem że jest prowadzona na podstawie umowy dotyczącej praktyki, zawartej między uczelnią a przedsiębiorstwem geologicznym lub górniczym.
 
@@ -1699,7 +1820,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **1)** urzędzie obsługującym organ administracji geologicznej w sprawdzaniu, ocenie, przyjmowaniu lub zatwierdzaniu projektów robót geologicznych i dokumentacji geologicznych;
 - **2)** podmiocie pełniącym państwową służbę geologiczną w:
     - **a)** sporządzaniu projektów robót geologicznych i dokumentacji geologicznych przy realizacji zadań zmierzających do rozpoznania budowy geologicznej kraju, w tym dla ustalania zasobów złóż kopalin, oraz
-    - **b)** sprawdzaniu dokumentacji geologicznych, z uwzględnieniem aspektów geologicznych, przed ich zatwierdzeniem na podstawie powierzenia realizacji tego zadania przez ministra właściwego do spraw środowiska.
+    - **b)** sprawdzaniu dokumentacji geologicznych, z uwzględnieniem aspektów geologicznych, przed ich zatwierdzeniem – na podstawie powierzenia realizacji tego zadania przez ministra właściwego do spraw środowiska.
 
 9. W stosunku do osób, o których mowa w ust. 8 pkt 1, przepisu ust. 7 nie stosuje się.
 
@@ -1716,7 +1837,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **5)** geologa górniczego,
 - **6)** geofizyka górniczego,
 - **7)** kierownictwa w podmiotach zawodowo trudniących się ratownictwem górniczym,
-- **8)** specjalistyczne w ruchu zakładu górniczego są obowiązane posiadać kwalifikacje określone ustawą.
+- **8)** specjalistyczne w ruchu zakładu górniczego – są obowiązane posiadać kwalifikacje określone ustawą.
 
 2. (uchylony)
 
@@ -1724,8 +1845,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 4. Osobami wykonującymi czynności kierownictwa w podmiotach zawodowo trudniących się ratownictwem górniczym są:
 
-- **1)** kierownik jednostki ratownictwa górniczego i jego zastępca, kierownik okręgowej stacji ratownictwa górniczego i jego zastępca, kierownik dyżurujących zawodowych zastępów ratowniczych oraz kierownik zawodowych pogotowi specjalistycznych w podmiotach wykonujących czynności dla podziemnych zakładów górniczych;
-- **2)** kierownik jednostki ratownictwa górniczego i jego zastępca, kierownik oddziału terenowego jednostki ratownictwa górniczego oraz kierownik zawodowych pogotowi specjalistycznych w podmiotach wykonujących czynności dla zakładów górniczych innych niż podziemne zakłady górnicze.
+- **1)** kierownik jednostki ratownictwa górniczego i jego zastępca, kierownik okręgowej stacji ratownictwa górniczego i jego zastępca, kierownik dyżurujących zawodowych zastępów ratowniczych oraz kierownik zawodowych pogotowi specjalistycznych – w podmiotach wykonujących czynności dla podziemnych zakładów górniczych;
+- **2)** kierownik jednostki ratownictwa górniczego i jego zastępca, kierownik oddziału terenowego jednostki ratownictwa górniczego oraz kierownik zawodowych pogotowi specjalistycznych – w podmiotach wykonujących czynności dla zakładów górniczych innych niż podziemne zakłady górnicze.
 
 5. Osobami wykonującymi czynności specjalistyczne w ruchu zakładu górniczego są:
 
@@ -1754,6 +1875,26 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 54.** Wykonywanie czynności, o których mowa w art. 53 ust. 1 pkt 1 i 4–7, wymaga posiadania następujących kwalifikacji w zakresie przygotowania zawodowego:
 
+- **1)** w przypadku czynności, o których mowa w art. 53 ust. 1 pkt 1 i 4–6 – znajomości, w stopniu niezbędnym do wykonywania tych czynności, przepisów prawa geologicznego i górniczego oraz innych przepisów stosowanych w ruchu zakładu górniczego albo zakładu oraz w przypadku:
+    - **a)** czynności, o których mowa w art. 53 ust. 1 pkt 1 – zagadnień związanych z prowadzeniem ruchu określonego rodzaju zakładów górniczych albo zakładów oraz występujących w nich zagrożeń,
+    - **b)** czynności, o których mowa w art. 53 ust. 1 pkt 4 – zagadnień związanych z wykonywaniem czynności mierniczego górniczego, czynności kierownika ruchu w odkrywkowych zakładach górniczych wydobywających kopaliny bez użycia środków strzałowych, czynności kierownika działu mierniczego w zakładach górniczych albo zakładach oraz czynności w wyższym dozorze ruchu w specjalności mierniczej w zakładach górniczych albo zakładach,
+    - **c)** czynności, o których mowa w art. 53 ust. 1 pkt 5 – zagadnień związanych z wykonywaniem czynności geologa górniczego, czynności kierownika ruchu w odkrywkowych zakładach górniczych wydobywających kopaliny bez użycia środków strzałowych, czynności kierownika ruchu w zakładach górniczych wydobywających wody lecznicze, wody termalne i solanki, czynności kierownika działu geologicznego w zakładach górniczych albo zakładach oraz czynności w wyższym dozorze ruchu w specjalności geologicznej w zakładach górniczych albo zakładach,
+    - **d)** czynności, o których mowa w art. 53 ust. 1 pkt 6 – zagadnień niezbędnych do wykonywania czynności geofizyka górniczego, czynności kierownika ruchu w odkrywkowych zakładach górniczych wydobywających kopaliny bez użycia środków strzałowych, czynności kierownika ruchu w zakładach górniczych wydobywających wody lecznicze, wody termalne i solanki, czynności kierownika ruchu w zakładach wykonujących roboty geologiczne bez użycia środków strzałowych na głębokości do 100 m, czynności kierownika działu tąpań w podziemnych zakładach górniczych oraz czynności w wyższym dozorze ruchu w specjalności geofizycznej w zakładach górniczych, a także czynności kierownika działu geofizyka i technika strzałowa w zakładach wykonujących roboty geologiczne służące poszukiwaniu lub rozpoznawaniu złóż węglowodorów lub służące poszukiwaniu lub rozpoznawaniu złóż kopalin innych niż węglowodory oraz wody podziemne będące kopalinami oraz czynności w wyższym dozorze ruchu w specjalności geofizyka i technika strzałowa w zakładach wykonujących roboty geologiczne służące poszukiwaniu lub rozpoznawaniu złóż węglowodorów lub służące poszukiwaniu lub rozpoznawaniu złóż kopalin innych niż węglowodory oraz wody podziemne będące kopalinami;
+
+- **2)** w przypadku czynności, o których mowa w art. 53 ust. 1 pkt 7, znajomości:
+    - **a)** przepisów określających zasady prowadzenia ruchu zakładu górniczego oraz prowadzenia akcji ratowniczych i wykonywania prac profilaktycznych w zakładzie górniczym,
+    - **b)** organizacji i zadań ratownictwa górniczego,
+    - **c)** wyposażenia jednostek ratownictwa górniczego,
+    - **d)** metod prowadzenia akcji ratowniczych i wykonywania prac profilaktycznych,
+    - **e)** metod prowadzenia szkoleń i ćwiczeń ratowniczych,
+    - **f)** zasad udzielania pomocy przedmedycznej,
+    - **g)** działalności pogotowi specjalistycznych;
+
+- **3)** tytułu zawodowego lub kwalifikacji zawodowych w zawodach wymienionych w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. a, ukończenia studiów określonych w tych przepisach lub ukończenia studiów podyplomowych określonych w tych przepisach;
+- **4)** w przypadkach określonych w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. a:
+    - **a)** posiadania odpowiednich kwalifikacji w zawodzie lub odpowiednich uprawnień zawodowych,
+    - **b)** złożenia określonych w tych przepisach egzaminów uzupełniających.
+
 **Art. 55.**
 
 1. Wykonywanie czynności, o których mowa w art. 53 ust. 1 pkt 1 i 4–7, wymaga posiadania kwalifikacji w zakresie doświadczenia zawodowego, którymi jest odbycie, również przed uzyskaniem kwalifikacji w zakresie przygotowania zawodowego, o których mowa w art. 54 pkt 3 lub 4, praktyki:
@@ -1762,7 +1903,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **2)** mierniczej,
 - **3)** geologicznej,
 - **4)** geofizycznej,
-- **5)** ratowniczej określonej w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. a, czasem jej trwania oraz rodzajem wykonywanych czynności.
+- **5)** ratowniczej – określonej w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. a, czasem jej trwania oraz rodzajem wykonywanych czynności.
 
 2. Praktyką w zakresie obejmującym czynności, o których mowa w art. 53 ust. 1 pkt 1, lub w ruchu zakładu górniczego albo zakładu jest wykonywanie czynności na podstawie umowy o pracę lub umowy cywilnoprawnej w dziale ruchu lub specjalności w:
 
@@ -1799,6 +1940,28 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 56.** Wykonywanie czynności, o których mowa w art. 53 ust. 5, wymaga:
 
+- **1)** ukończenia szkoły:
+    - **a)** ponadpodstawowej lub ponadgimnazjalnej dającej wykształcenie średnie lub średnie branżowe albo
+    - **b)** ponadpodstawowej i posiadania tytułu zawodowego, albo
+    - **c)** ponadgimnazjalnej lub ponadpodstawowej i posiadania kwalifikacji w zawodzie;
+
+- **2)** odbycia praktyki, określonej, w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. b, stażem pracy lub okresem szkolenia praktycznego na stanowisku oraz rodzajem wykonywanych czynności;
+- **3)** posiadania aktualnego zaświadczenia o odbyciu kursu specjalistycznego lub aktualnych zaświadczeń o odbyciu kursów specjalistycznych określonych w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. b;
+- **4)** posiadania dodatkowych kwalifikacji określonych w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. b – w przypadku osób wykonujących czynności wymienione w art. 53 ust. 5:
+    - **a)** pkt 1 lit. i oraz j,
+    - **b)** pkt 3 lit. d oraz e;
+
+- **5)** posiadania aktualnego orzeczenia psychologicznego wydawanego na podstawie wyniku badań psychologicznych prowadzonych w ramach służby medycyny pracy, obejmujących zagadnienia określone w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. b – w przypadku osób wykonujących czynności wymienione w art. 53 ust. 5:
+    - **a)** pkt 1 lit. c–j,
+    - **b)** pkt 3 lit. c–e;
+
+- **6)** posiadania aktualnych orzeczeń lekarskiego i psychologicznego stwierdzających brak zaburzeń, o których mowa w art. 11 ust. 1 pkt 1 lit. c ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego – w przypadku osób wykonujących czynności wymienione w art. 53 ust. 5:
+    - **a)** pkt 1 lit. a oraz b,
+    - **b)** pkt 2,
+    - **c)** pkt 3 lit. a oraz b;
+
+- **7)** posiadania minimalnego wieku określonego w przepisach wydanych na podstawie art. 69a ust. 1 pkt 1 lit. b.
+
 **Art. 57.**
 
 1. Zakres ukończonych studiów potwierdza się na podstawie:
@@ -1813,7 +1976,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 1. Wykonywanie czynności:
 
-- **1)** kierowników działów ruchu: górniczego, techniki strzałowej, tąpań, wentylacji, energomechanicznego, energomechanicznego do spraw obiektów podstawowych oraz bezpieczeństwa i higieny pracy, a także czynności w wyższym dozorze ruchu i w dozorze ruchu w specjalności: górniczej, wiertniczej, geofizycznej, górnicze wyciągi szybowe, mechanicznej maszyn i urządzeń dołowych, mechanicznej maszyn i urządzeń na powierzchni, elektrycznej maszyn i urządzeń na powierzchni, elektrycznej maszyn i urządzeń dołowych, elektrycznej teletechnicznej i automatyki, mierniczej, geologicznej oraz bezpieczeństwa i higieny pracy w:
+- **1)** kierowników działów ruchu: górniczego, techniki strzałowej, tąpań, wentylacji, energomechanicznego, energomechanicznego do spraw obiektów podstawowych oraz bezpieczeństwa i higieny pracy, a także czynności w wyższym dozorze ruchu i w dozorze ruchu w specjalności: górniczej, wiertniczej, geofizycznej, górnicze wyciągi szybowe, mechanicznej – maszyn i urządzeń dołowych, mechanicznej – maszyn i urządzeń na powierzchni, elektrycznej – maszyn i urządzeń na powierzchni, elektrycznej – maszyn i urządzeń dołowych, elektrycznej – teletechnicznej i automatyki, mierniczej, geologicznej oraz bezpieczeństwa i higieny pracy w:
     - **a)** podziemnych zakładach górniczych wydobywających węgiel kamienny,
     - **b)** podziemnych zakładach górniczych wydobywających kopaliny inne niż węgiel kamienny,
     - **c)** zakładach górniczych prowadzących podziemne bezzbiornikowe magazynowanie substancji metodą podziemną,
@@ -1854,18 +2017,18 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
     - **h)** zakładach wykonujących roboty geologiczne, o których mowa w art. 86
 
 - **11)** (uchylony)
-- **12)** (uchylony) wymaga stwierdzenia posiadania kwalifikacji do wykonywania tych czynności, w drodze świadectwa wydanego przez dyrektora okręgowego urzędu górniczego.
+- **12)** (uchylony) – wymaga stwierdzenia posiadania kwalifikacji do wykonywania tych czynności, w drodze świadectwa wydanego przez dyrektora okręgowego urzędu górniczego.
 
 2. Wykonywanie czynności:
 
 - **1)** kierownika ruchu w:
-    - **a)** podziemnych zakładach górniczych wydobywających: węgiel kamienny lub (uchylone) kopaliny inne niż węgiel kamienny, lub
+    - **a)** podziemnych zakładach górniczych wydobywających: – węgiel kamienny lub – (uchylone) – kopaliny inne niż węgiel kamienny, lub
     - **b)** zakładach górniczych prowadzących podziemne bezzbiornikowe magazynowanie substancji metodą podziemną, lub
     - **c)** zakładach górniczych prowadzących podziemne składowanie odpadów metodą podziemną, lub
-    - **d)** zakładach prowadzących działalność określoną w art. 2 ust. 1: pkt 1 lub 5 lub pkt 2 lub 5, lub pkt 3 lub 5, lub pkt 4 lub 5,
+    - **d)** zakładach prowadzących działalność określoną w art. 2 ust. 1: – pkt 1 lub 5 lub – pkt 2 lub 5, lub – pkt 3 lub 5, lub – pkt 4 lub 5,
     - **e)** zakładach górniczych prowadzących podziemne składowanie dwutlenku węgla,
 
-- **2)** kierowników działu ruchu: górniczego, energomechanicznego, ochrona środowiska oraz bezpieczeństwa i higieny pracy, w wyższym dozorze ruchu oraz w dozorze ruchu w specjalności: górniczej, energomechanicznej, mierniczej, geologicznej, budowlanej, ochrona środowiska oraz bezpieczeństwa i higieny pracy w zakładach górniczych prowadzących podziemne składowanie dwutlenku węgla,
+- **2)** kierowników działu ruchu: górniczego, energomechanicznego, ochrona środowiska oraz bezpieczeństwa i higieny pracy, w wyższym dozorze ruchu oraz w dozorze ruchu w specjalności: górniczej, energomechanicznej, mierniczej, geologicznej, budowlanej, ochrona środowiska oraz bezpieczeństwa i higieny pracy – w zakładach górniczych prowadzących podziemne składowanie dwutlenku węgla,
 - **3)** mierniczego górniczego w:
     - **a)** zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86, albo
     - **b)** zakładach górniczych innych niż podziemne zakłady górnicze oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86,
@@ -1875,15 +2038,15 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
     - **b)** zakładach górniczych innych niż podziemne zakłady górnicze oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86,
 
 - **5)** geofizyka górniczego,
-- **6)** kierownika: jednostki ratownictwa górniczego, okręgowej stacji ratownictwa górniczego, dyżurujących zawodowych zastępów ratowniczych oraz zawodowych pogotowi specjalistycznych w podmiotach zawodowo trudniących się ratownictwem górniczym, wykonujących czynności dla podziemnych zakładów górniczych,
-- **7)** kierownika: jednostki ratownictwa górniczego, oddziału terenowego jednostki ratownictwa górniczego oraz zawodowych pogotowi specjalistycznych w podmiotach zawodowo trudniących się ratownictwem górniczym, wykonujących czynności dla zakładów górniczych innych niż podziemne zakłady górnicze wymaga stwierdzenia posiadania kwalifikacji do wykonywania tych czynności, w drodze świadectwa wydanego przez Prezesa Wyższego Urzędu Górniczego.
+- **6)** kierownika: jednostki ratownictwa górniczego, okręgowej stacji ratownictwa górniczego, dyżurujących zawodowych zastępów ratowniczych oraz zawodowych pogotowi specjalistycznych – w podmiotach zawodowo trudniących się ratownictwem górniczym, wykonujących czynności dla podziemnych zakładów górniczych,
+- **7)** kierownika: jednostki ratownictwa górniczego, oddziału terenowego jednostki ratownictwa górniczego oraz zawodowych pogotowi specjalistycznych – w podmiotach zawodowo trudniących się ratownictwem górniczym, wykonujących czynności dla zakładów górniczych innych niż podziemne zakłady górnicze – wymaga stwierdzenia posiadania kwalifikacji do wykonywania tych czynności, w drodze świadectwa wydanego przez Prezesa Wyższego Urzędu Górniczego.
 
 3. Wykonywanie czynności kierownika działu mierniczego i jego zastępcy w:
 
 - **1)** podziemnych zakładach górniczych lub
 - **2)** zakładach górniczych prowadzących podziemne bezzbiornikowe magazynowanie substancji metodą podziemną, lub
 - **3)** zakładach górniczych prowadzących podziemne składowanie odpadów metodą podziemną, lub
-- **4)** zakładach prowadzących działalność określoną w art. 2 ust. 1 wymaga stwierdzenia posiadania kwalifikacji do wykonywania czynności mierniczego górniczego w zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86.
+- **4)** zakładach prowadzących działalność określoną w art. 2 ust. 1 – wymaga stwierdzenia posiadania kwalifikacji do wykonywania czynności mierniczego górniczego w zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86.
 
 4. Wykonywanie czynności kierownika działu mierniczego i jego zastępcy w:
 
@@ -1892,14 +2055,14 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **3)** zakładach górniczych prowadzących podziemne bezzbiornikowe magazynowanie substancji metodą otworową, lub
 - **4)** zakładach górniczych prowadzących podziemne składowanie odpadów metodą otworową, lub
 - **5)** zakładach górniczych prowadzących podziemne składowanie dwutlenku węgla, lub
-- **6)** zakładach wykonujących roboty geologiczne, o których mowa w art. 86 wymaga stwierdzenia posiadania kwalifikacji do wykonywania czynności mierniczego górniczego w zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86, lub mierniczego górniczego w zakładach górniczych innych niż podziemne zakłady górnicze oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86.
+- **6)** zakładach wykonujących roboty geologiczne, o których mowa w art. 86 – wymaga stwierdzenia posiadania kwalifikacji do wykonywania czynności mierniczego górniczego w zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86, lub mierniczego górniczego w zakładach górniczych innych niż podziemne zakłady górnicze oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86.
 
 5. Wykonywanie czynności kierownika działu geologicznego i jego zastępcy w:
 
 - **1)** podziemnych zakładach górniczych lub
 - **2)** zakładach górniczych prowadzących podziemne bezzbiornikowe magazynowanie substancji metodą podziemną, lub
 - **3)** zakładach górniczych prowadzących podziemne składowanie odpadów metodą podziemną, lub
-- **4)** zakładach prowadzących działalność określoną w art. 2 ust. 1 wymaga stwierdzenia posiadania kwalifikacji do wykonywania czynności geologa górniczego w zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86.
+- **4)** zakładach prowadzących działalność określoną w art. 2 ust. 1 – wymaga stwierdzenia posiadania kwalifikacji do wykonywania czynności geologa górniczego w zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86.
 
 6. Wykonywanie czynności kierownika działu geologicznego i jego zastępcy w:
 
@@ -1908,7 +2071,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **3)** zakładach górniczych prowadzących podziemne bezzbiornikowe magazynowanie substancji metodą otworową, lub
 - **4)** zakładach górniczych prowadzących podziemne składowanie odpadów metodą otworową, lub
 - **5)** zakładach górniczych prowadzących podziemne składowanie dwutlenku węgla, lub
-- **6)** zakładach wykonujących roboty geologiczne, o których mowa w art. 86 wymaga stwierdzenia posiadania kwalifikacji do wykonywania czynności geologa górniczego w zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86, lub geologa górniczego w zakładach górniczych innych niż podziemne zakłady górnicze oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86.
+- **6)** zakładach wykonujących roboty geologiczne, o których mowa w art. 86 – wymaga stwierdzenia posiadania kwalifikacji do wykonywania czynności geologa górniczego w zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86, lub geologa górniczego w zakładach górniczych innych niż podziemne zakłady górnicze oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86.
 
 7. (uchylony)
 
@@ -1926,8 +2089,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** kierownika ruchu zakładu górniczego albo zakładu,
 - **2)** kierowników działów ruchu zakładu górniczego albo zakładu,
-- **3)** kierownika jednostki ratownictwa górniczego oraz kierownika okręgowej stacji ratownictwa górniczego w podmiotach zawodowo trudniących się ratownictwem górniczym, wykonujących czynności dla podziemnych zakładów górniczych,
-- **4)** kierownika jednostki ratownictwa górniczego w podmiotach zawodowo trudniących się ratownictwem górniczym, wykonujących czynności dla zakładów górniczych innych niż podziemne zakłady górnicze stanowi równocześnie stwierdzenie posiadania kwalifikacji do wykonywania czynności zastępców tych osób.
+- **3)** kierownika jednostki ratownictwa górniczego oraz kierownika okręgowej stacji ratownictwa górniczego – w podmiotach zawodowo trudniących się ratownictwem górniczym, wykonujących czynności dla podziemnych zakładów górniczych,
+- **4)** kierownika jednostki ratownictwa górniczego – w podmiotach zawodowo trudniących się ratownictwem górniczym, wykonujących czynności dla zakładów górniczych innych niż podziemne zakłady górnicze – stanowi równocześnie stwierdzenie posiadania kwalifikacji do wykonywania czynności zastępców tych osób.
 
 2. Stwierdzenie posiadania kwalifikacji do wykonywania czynności mierniczego górniczego w:
 
@@ -1944,12 +2107,12 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 3. Stwierdzenie posiadania kwalifikacji do wykonywania czynności geologa górniczego w:
 
 - **1)** zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86, stanowi równocześnie stwierdzenie posiadania kwalifikacji do wykonywania czynności:
-    - **a)** kierownika oraz zastępcy kierownika ruchu w: odkrywkowych zakładach górniczych wydobywających kopaliny bez użycia środków strzałowych, zakładach górniczych wydobywających wody lecznicze, wody termalne i solanki,
+    - **a)** kierownika oraz zastępcy kierownika ruchu w: – odkrywkowych zakładach górniczych wydobywających kopaliny bez użycia środków strzałowych, – zakładach górniczych wydobywających wody lecznicze, wody termalne i solanki,
     - **b)** kierownika oraz zastępcy kierownika działu geologicznego w zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86,
     - **c)** w wyższym dozorze ruchu w specjalności geologicznej w zakładach górniczych, zakładach prowadzących działalność określoną w art. 2 ust. 1 oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86;
 
 - **2)** zakładach górniczych innych niż podziemne zakłady górnicze oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86, stanowi równocześnie stwierdzenie posiadania kwalifikacji do wykonywania czynności:
-    - **a)** kierownika oraz zastępcy kierownika ruchu w: odkrywkowych zakładach górniczych wydobywających kopaliny bez użycia środków strzałowych, zakładach górniczych wydobywających wody lecznicze, wody termalne i solanki,
+    - **a)** kierownika oraz zastępcy kierownika ruchu w: – odkrywkowych zakładach górniczych wydobywających kopaliny bez użycia środków strzałowych, – zakładach górniczych wydobywających wody lecznicze, wody termalne i solanki,
     - **b)** kierownika oraz zastępcy kierownika działu geologicznego w zakładach górniczych innych niż podziemne zakłady górnicze oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86,
     - **c)** w wyższym dozorze ruchu w specjalności geologicznej w zakładach górniczych innych niż podziemne zakłady górnicze oraz zakładach wykonujących roboty geologiczne, o których mowa w art. 86.
 
@@ -1967,13 +2130,13 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** węgiel brunatny lub
 - **2)** kopaliny z użyciem środków strzałowych, lub
-- **3)** kopaliny bez użycia środków strzałowych może wykonywać czynności kierownika oraz zastępcy kierownika ruchu zakładu górniczego w odkrywkowych zakładach górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez starostę.
+- **3)** kopaliny bez użycia środków strzałowych – może wykonywać czynności kierownika oraz zastępcy kierownika ruchu zakładu górniczego w odkrywkowych zakładach górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez starostę.
 
 5. Osoba posiadająca stwierdzone kwalifikacje do wykonywania czynności w wyższym dozorze ruchu w odkrywkowych zakładach górniczych wydobywających:
 
 - **1)** węgiel brunatny lub
 - **2)** kopaliny z użyciem środków strzałowych, lub
-- **3)** kopaliny bez użycia środków strzałowych może wykonywać czynności kierownika i zastępcy kierownika ruchu zakładu górniczego oraz kierownika i zastępcy kierownika działu ruchu zakładu górniczego w odkrywkowych zakładach górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez starostę.
+- **3)** kopaliny bez użycia środków strzałowych – może wykonywać czynności kierownika i zastępcy kierownika ruchu zakładu górniczego oraz kierownika i zastępcy kierownika działu ruchu zakładu górniczego w odkrywkowych zakładach górniczych wydobywających kopaliny na podstawie koncesji udzielonej przez starostę.
 
 6. Osoba posiadająca stwierdzone kwalifikacje do wykonywania czynności geofizyka górniczego w podziemnych zakładach górniczych może wykonywać czynności:
 
@@ -1990,7 +2153,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 2. Wniosek o stwierdzenie kwalifikacji określa:
 
 - **1)** imię i nazwisko kandydata;
-- **2)** numer PESEL jeżeli kandydat posiada;
+- **2)** numer PESEL – jeżeli kandydat posiada;
 - **3)** numer i serię dowodu osobistego lub innego dokumentu stwierdzającego tożsamość kandydata;
 - **4)** adres zamieszkania kandydata;
 - **5)** kwalifikacje, o których stwierdzenie ubiega się kandydat;
@@ -2008,12 +2171,15 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** odpis albo uwierzytelnioną kopię dokumentu potwierdzającego wykształcenie niezbędne do stwierdzenia kwalifikacji;
 - **1a)** odpis albo uwierzytelnioną kopię dokumentów potwierdzających dane określone w ust. 2 pkt 6a;
-- **2)** dowody odbycia praktyki, w szczególności świadectwo pracy, zaświadczenie o zatrudnieniu, opinię o przebiegu pracy zawodowej, a w przypadku kwalifikacji do wykonywania, dozorowania i kierowania pracami geologicznymi także wykaz opracowań sporządzonych z udziałem kandydata, potwierdzony przez podmiot, na rzecz którego sporządzono te opracowania, lub archiwum geologiczne, w którym przechowuje się te opracowania, albo wykaz opracowań, w których sprawdzaniu, ocenie, przyjmowaniu lub zatwierdzaniu kandydat brał udział, potwierdzony przez właściwy organ administracji geologicznej;
+- **2)** dowody odbycia praktyki, w szczególności świadectwo pracy, zaświadczenie o zatrudnieniu, opinię o przebiegu pracy zawodowej, a w przypadku kwalifikacji do wykonywania, dozorowania i kierowania pracami geologicznymi – także wykaz opracowań sporządzonych z udziałem kandydata, potwierdzony przez podmiot, na rzecz którego sporządzono te opracowania, lub archiwum geologiczne, w którym przechowuje się te opracowania, albo wykaz opracowań, w których sprawdzaniu, ocenie, przyjmowaniu lub zatwierdzaniu kandydat brał udział, potwierdzony przez właściwy organ administracji geologicznej;
 - **3)** w przypadku kandydatów, o których mowa w art. 52 ust. 8 pkt 2, wykaz opracowań sporządzonych z udziałem kandydata przy realizacji zadań, o których mowa w art. 52 ust. 8 pkt 2 lit. a, potwierdzony przez podmiot, na rzecz którego sporządzono te opracowania, i wykaz dokumentacji geologicznych, o których mowa w art. 52 ust. 8 pkt 2 lit. b, w których sprawdzeniu kandydat uczestniczył, potwierdzony przez podmiot pełniący państwową służbę geologiczną.
 
-4. Jeżeli kandydat posiada inne kwalifikacje wymagane przepisami wydanymi na podstawie art. ust. 1 pkt 2, we wniosku o stwierdzenie kwalifikacji określa się ich rodzaj oraz datę uzyskania.
+4. Jeżeli kandydat posiada inne kwalifikacje wymagane przepisami wydanymi na podstawie art. 69 ust. 1 pkt 2, we wniosku o stwierdzenie kwalifikacji określa się ich rodzaj oraz datę uzyskania.
 
 **Art. 62.** Organ właściwy do stwierdzenia posiadania kwalifikacji:
+
+- **1)** dopuszcza kandydata do egzaminu po ustaleniu, że kandydat spełnia wymagania dla określonej we wniosku kategorii kwalifikacji do wykonywania, dozorowania i kierowania pracami geologicznymi albo posiada wymagane kwalifikacje w zakresie przygotowania zawodowego, o którym mowa w art. 54 pkt 3 i 4, oraz kwalifikacje w zakresie doświadczenia zawodowego, o którym mowa w art. 55;
+- **2)** odmawia, w drodze decyzji, dopuszczenia do egzaminu, w przypadku ustalenia, że kandydat nie spełnia wymagań dla określonej we wniosku kategorii kwalifikacji do wykonywania, dozorowania i kierowania pracami geologicznymi albo nie posiada wymaganych kwalifikacji w zakresie przygotowania zawodowego, o którym mowa w art. 54 pkt 3 i 4, oraz kwalifikacji w zakresie doświadczenia zawodowego, o którym mowa w art. 55.
 
 **Art. 63.**
 
@@ -2026,6 +2192,10 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 4. Kandydat przed przystąpieniem do egzaminu przekazuje komisji egzaminacyjnej dowód uiszczenia opłaty egzaminacyjnej.
 
 **Art. 64.** Podczas egzaminu sprawdzeniu podlega w przypadku:
+
+- **1)** kwalifikacji do wykonywania, dozorowania i kierowania pracami geologicznymi – znajomość przez kandydata przepisów prawa geologicznego i górniczego w kategorii I–IX oraz XIII, prawa wodnego w kategorii IV i V, prawa budowlanego w kategorii VI i VII oraz prawa ochrony środowiska w kategorii I–IX, a także posiadanie przez kandydata umiejętności praktycznego zastosowania wiedzy zawodowej – w zakresie niezbędnym do wykonywania czynności objętych kwalifikacjami;
+- **2)** kwalifikacji w zakresie górnictwa – posiadanie przez kandydata wymaganych kwalifikacji w zakresie przygotowania zawodowego, o którym mowa w art. 54 pkt 1;
+- **3)** kwalifikacji w zakresie ratownictwa górniczego – posiadanie przez kandydata wymaganych kwalifikacji w zakresie przygotowania zawodowego, o którym mowa w art. 54 pkt 2.
 
 **Art. 65.**
 
@@ -2045,8 +2215,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 8. Kandydat, który uzyskał negatywny wynik egzaminu, może przystąpić do ponownego egzaminu w przypadku:
 
-- **1)** kwalifikacji w zakresie górnictwa i ratownictwa górniczego niewcześniej niż po upływie 6 miesięcy od dnia, w którym przeprowadzono egzamin;
-- **2)** kwalifikacji w zakresie geologii w najbliższym możliwym terminie ustalonym przez organ administracji geologicznej.
+- **1)** kwalifikacji w zakresie górnictwa i ratownictwa górniczego – niewcześniej niż po upływie 6 miesięcy od dnia, w którym przeprowadzono egzamin;
+- **2)** kwalifikacji w zakresie geologii – w najbliższym możliwym terminie ustalonym przez organ administracji geologicznej.
 
 9. Wniosek o przeprowadzenie ponownego egzaminu składa się niepóźniej niż przed upływem roku od dnia egzaminu, z którego kandydat uzyskał wynik negatywny. Wniosek ten zawiera:
 
@@ -2063,7 +2233,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 66.**
 
-1. Opłata egzaminacyjna wynosi 250 zł , a opłata za wydanie świadectwa stwierdzającego kwalifikacje 30 zł .
+1. Opłata egzaminacyjna wynosi 250 zł , a opłata za wydanie świadectwa stwierdzającego kwalifikacje – 30 zł .
 
 2. Opłaty, o których mowa w ust. 1, wnosi się na rachunek bankowy lub gotówką do kasy urzędu organu, przy którym działa komisja egzaminacyjna.
 
@@ -2077,7 +2247,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 1. Osoby wchodzące w skład komisji egzaminacyjnej otrzymują wynagrodzenie za udział w przeprowadzeniu egzaminu.
 
-2. Członkom komisji egzaminacyjnej, biorącym udział w egzaminie o stwierdzenie kwalifikacji w zakresie geologii, odbywającym się poza miejscowością ich zamieszkania, przysługuje zwrot kosztów podróży i noclegów na zasadach określonych w przepisach dotyczących wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661). Czynności pracodawcy określone w tych przepisach w odniesieniu do tych osób wykonuje minister właściwy do spraw środowiska.
+2. Członkom komisji egzaminacyjnej, biorącym udział w egzaminie o stwierdzenie kwalifikacji w zakresie geologii, odbywającym się poza miejscowością ich zamieszkania, przysługuje zwrot kosztów podróży i noclegów na zasadach określonych w przepisach dotyczących wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661). Czynności pracodawcy określone w tych przepisach w odniesieniu do tych osób wykonuje minister właściwy do spraw środowiska.
 
 **Art. 68.** Koszty związane z przeprowadzeniem egzaminów, w tym koszty, o których mowa w art. 67, pokrywa się ze środków zaplanowanych w budżecie państwa, w częściach właściwych dysponentów.
 
@@ -2121,7 +2291,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **1)** korzysta z pełni praw publicznych;
 - **2)** posiada:
     - **a)** dyplom ukończenia studiów wyższych w zakresie nauk technicznych,
-    - **b)** w zakresie czynności, w których mają być wykonywane zadania rzeczoznawcy stwierdzenie kwalifikacji co najmniej osoby wyższego dozoru ruchu i po uzyskaniu tego stwierdzenia niemniej niż 5 lat praktyki w kierownictwie ruchu lub w wyższym dozorze ruchu odpowiedniego rodzaju zakładu górniczego albo co najmniej stopień naukowy doktora w dyscyplinie naukowej i niemniej niż 5 lat praktyki naukowej.
+    - **b)** w zakresie czynności, w których mają być wykonywane zadania rzeczoznawcy – stwierdzenie kwalifikacji co najmniej osoby wyższego dozoru ruchu i po uzyskaniu tego stwierdzenia niemniej niż 5 lat praktyki w kierownictwie ruchu lub w wyższym dozorze ruchu odpowiedniego rodzaju zakładu górniczego albo co najmniej stopień naukowy doktora w dyscyplinie naukowej i niemniej niż 5 lat praktyki naukowej.
 
 2. O nadanie uprawnień rzeczoznawcy do spraw ruchu zakładu górniczego może ubiegać się osoba prawna, która:
 
@@ -2129,6 +2299,40 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **2)** zatrudnia co najmniej jedną osobę fizyczną, spełniającą wymagania określone w ust. 1, która będzie wykonywała badania i sporządzała opinie w sprawach dotyczących ruchu zakładu górniczego.
 
 **Art. 72.** Uprawnienia rzeczoznawcy do spraw ruchu zakładu górniczego nadaje się w następujących grupach:
+
+- **1)** grupa I – maszyny wyciągowe:
+    - **a)** część mechaniczna,
+    - **b)** część elektryczna,
+
+- **2)** grupa II – naczynia wyciągowe,
+- **3)** grupa III – zawieszenia naczyń wyciągowych i lin wyciągowych,
+- **4)** grupa IV – liny wyciągowe,
+- **5)** grupa V – wieże szybowe,
+- **6)** grupa VI – koła linowe,
+- **7)** grupa VII – zbrojenie szybowe, w tym sztywne prowadzenie naczyń wyciągowych,
+- **8)** grupa VIII – urządzenia do użytku w przestrzeniach zagrożonych wybuchem,
+- **9)** grupa IX – urządzenia i sprzęt elektryczny:
+    - **a)** kable i przewody,
+    - **b)** elektronarzędzia,
+    - **c)** sieci elektroenergetyczne,
+
+- **10)** grupa X – urządzenia techniczne:
+    - **a)** urządzenia ciśnieniowe,
+    - **b)** urządzenia dźwignicowe,
+    - **c)** urządzenia transportowe specjalne,
+
+- **11)** grupa XI – obudowy zmechanizowane,
+- **12)** grupa XII – roboty strzałowe,
+- **13)** grupa XIII – obudowy kotwowe,
+- **14)** grupa XIV – obudowy szybów,
+- **15)** grupa XV – zagrożenie metanowe i pyłowe,
+- **16)** grupa XVI – zagrożenie pożarowe,
+- **17)** grupa XVII – zagrożenie wodne,
+- **18)** grupa XVIII – zagrożenie wyrzutem gazów i skał,
+- **19)** grupa XIX – zagrożenie tąpaniami,
+- **20)** grupa XX – zagrożenie klimatyczne,
+- **21)** grupa XXI – badanie rozwiązań technicznych poprzedzających wprowadzanie nowych systemów eksploatacji rud miedzi, cynku i ołowiu lub odmian tych systemów,
+- **22)** grupa XXII – badanie rozwiązań technicznych i organizacyjnych dotyczących poszukiwania, rozpoznawania lub wydobywania węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej – wskazując zakresy czynności, w których mają być wykonywane zadania rzeczoznawcy do spraw ruchu zakładu górniczego, zgodnie z przepisami wydanymi na podstawie art. 118 ust. 4 oraz art. 120 ust. 1 i 2, a w przypadku grupy XXII – także zgodnie z przepisami wydanymi na podstawie art. 110.
 
 **Art. 73.**
 
@@ -2155,7 +2359,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
     - **b)** schemat organizacyjny tej osoby,
     - **c)** oświadczenie zatrudnionej osoby fizycznej, spełniającej wymagania określone w art. 71 ust. 1, która będzie wykonywała badania i sporządzała opinie w sprawach dotyczących ruchu zakładu górniczego, o korzystaniu przez nią z pełni praw publicznych.
 
-**Art. 74.** Uprawnienia rzeczoznawcy do spraw ruchu zakładu górniczego nadaje Prezes Wyższego Urzędu Górniczego, w drodze decyzji. Decyzja wskazuje zakres uprawnień w sposób określony w art. 72 oraz okres jej obowiązywania, niedłuższy niż 5 lat, a w przypadku osób prawnych także imię i nazwisko zatrudnionej osoby fizycznej, spełniającej wymagania określone w art. 71 ust. 1, która będzie wykonywała badania i sporządzała opinie w sprawach dotyczących ruchu zakładu górniczego. Wskazanie okresu obowiązywania decyzji następuje na podstawie oceny możliwości prawidłowego wykonywania zadań przez rzeczoznawcę do spraw ruchu zakładu górniczego.
+**Art. 74.** Uprawnienia rzeczoznawcy do spraw ruchu zakładu górniczego nadaje Prezes Wyższego Urzędu Górniczego, w drodze decyzji. Decyzja wskazuje zakres uprawnień w sposób określony w art. 72 oraz okres jej obowiązywania, niedłuższy niż 5 lat, a w przypadku osób prawnych – także imię i nazwisko zatrudnionej osoby fizycznej, spełniającej wymagania określone w art. 71 ust. 1, która będzie wykonywała badania i sporządzała opinie w sprawach dotyczących ruchu zakładu górniczego. Wskazanie okresu obowiązywania decyzji następuje na podstawie oceny możliwości prawidłowego wykonywania zadań przez rzeczoznawcę do spraw ruchu zakładu górniczego.
 
 **Art. 75.** Rzeczoznawca do spraw ruchu zakładu górniczego niezwłocznie powiadamia Prezesa Wyższego Urzędu Górniczego o zmianach danych, stanowiących treść wniosku o nadanie uprawnień.
 
@@ -2163,7 +2367,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 1. Wykaz osób, którym nadano uprawnienia rzeczoznawcy do spraw ruchu zakładu górniczego, zamieszcza i aktualizuje w Biuletynie Informacji Publicznej Prezes Wyższego Urzędu Górniczego.
 
-2. Wykaz, o którym mowa w ust. 1, obejmuje imię i nazwisko osoby fizycznej albo nazwę osoby prawnej, zakres nadanych uprawnień w sposób określony w art. 72 oraz okres obowiązywania decyzji, a w przypadku osób prawnych także imię i nazwisko zatrudnionej osoby fizycznej, spełniającej wymagania określone w art. 71 ust. 1, która będzie wykonywała badania i sporządzała opinie w sprawach dotyczących ruchu zakładu górniczego.
+2. Wykaz, o którym mowa w ust. 1, obejmuje imię i nazwisko osoby fizycznej albo nazwę osoby prawnej, zakres nadanych uprawnień w sposób określony w art. 72 oraz okres obowiązywania decyzji, a w przypadku osób prawnych – także imię i nazwisko zatrudnionej osoby fizycznej, spełniającej wymagania określone w art. 71 ust. 1, która będzie wykonywała badania i sporządzała opinie w sprawach dotyczących ruchu zakładu górniczego.
 
 #### Rozdział 5 Odpowiedzialność zawodowa
 
@@ -2218,11 +2422,11 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 2. We wniosku o zatwierdzenie projektu robót geologicznych określa się właścicieli (użytkowników wieczystych) nieruchomości, w granicach której roboty te mają być wykonywane, oraz dołącza się wypis z ewidencji gruntów i budynków, wydany niewcześniej niż 3 miesiące przed złożeniem wniosku. Wymóg ten nie dotyczy wniosku o zatwierdzenie projektu robót geologicznych obejmującego wykonywanie badań sejsmicznych w celu zbadania struktur geologicznych związanych z występowaniem złóż kopalin, o których mowa w art. 10 ust. 1 i 2, oraz w celu wykonania regionalnych badań budowy geologicznej kraju.
 
-3. Stronami postępowania o zatwierdzenie projektu robót geologicznych są właściciele (użytkownicy wieczyści) nieruchomości gruntowych, w granicach których mają być wykonywane roboty geologiczne, a w przypadku badań sejsmicznych w celu zbadania struktur geologicznych związanych z występowaniem złóż kopalin, o których mowa w art. 10 ust. 1 i 2, oraz w celu wykonania regionalnych badań budowy geologicznej kraju wnioskodawca. Przepisy art. 41 ust. 2a–4 i 6 stosuje się odpowiednio.
+3. Stronami postępowania o zatwierdzenie projektu robót geologicznych są właściciele (użytkownicy wieczyści) nieruchomości gruntowych, w granicach których mają być wykonywane roboty geologiczne, a w przypadku badań sejsmicznych w celu zbadania struktur geologicznych związanych z występowaniem złóż kopalin, o których mowa w art. 10 ust. 1 i 2, oraz w celu wykonania regionalnych badań budowy geologicznej kraju – wnioskodawca. Przepisy art. 41 ust. 2a–4 i 6 stosuje się odpowiednio.
 
 4. Projekt robót geologicznych przedkłada się do zatwierdzenia w 2 egzemplarzach. Organ administracji geologicznej może żądać złożenia kopii projektu robót geologicznych w postaci elektronicznej na informatycznych nośnikach danych celem przedłożenia go do zaopiniowania organom, o których mowa w ust. 5, oraz do uzgodnienia z organami, o których mowa w art. 8.
 
-5. Zatwierdzenie projektu robót geologicznych wymaga opinii wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce wykonywania robót geologicznych, a w przypadku robót geologicznych wykonywanych w granicach obszarów morskich Rzeczypospolitej Polskiej w zakresie poszukiwania lub rozpoznawania złóż węglowodorów opinii Prezesa Wyższego Urzędu Górniczego w zakresie technicznych możliwości prowadzenia działalności oraz zapewnienia jej bezpieczeństwa, a także opinii Ministra Obrony Narodowej i ministra właściwego do spraw rybołówstwa, w zakresie lokalizacji robót geologicznych.
+5. Zatwierdzenie projektu robót geologicznych wymaga opinii wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce wykonywania robót geologicznych, a w przypadku robót geologicznych wykonywanych w granicach obszarów morskich Rzeczypospolitej Polskiej w zakresie poszukiwania lub rozpoznawania złóż węglowodorów – opinii Prezesa Wyższego Urzędu Górniczego w zakresie technicznych możliwości prowadzenia działalności oraz zapewnienia jej bezpieczeństwa, a także opinii Ministra Obrony Narodowej i ministra właściwego do spraw rybołówstwa, w zakresie lokalizacji robót geologicznych.
 
 6. Projekt robót geologicznych zatwierdza się na czas oznaczony niedłuższy niż 5 lat, w zależności od zakresu i harmonogramu zamierzonych robót geologicznych, z uwzględnieniem art. 80a ust. 3b.
 
@@ -2270,8 +2474,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 1. Ten, kto uzyskał koncesję na poszukiwanie lub rozpoznawanie złoża kopaliny, z wyłączeniem złoża węglowodorów, lub koncesję na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż albo uzyskał decyzję o zatwierdzeniu projektu robót geologicznych, zgłasza zamiar rozpoczęcia robót geologicznych właściwemu:
 
 - **1)** organowi administracji geologicznej;
-- **2)** wójtowi (burmistrzowi, prezydentowi miasta), a na obszarach morskich Rzeczypospolitej Polskiej terenowemu organowi administracji morskiej;
-- **3)** organowi nadzoru górniczego jeżeli do robót geologicznych stosuje się wymagania dotyczące ruchu zakładu górniczego.
+- **2)** wójtowi (burmistrzowi, prezydentowi miasta), a na obszarach morskich Rzeczypospolitej Polskiej – terenowemu organowi administracji morskiej;
+- **3)** organowi nadzoru górniczego – jeżeli do robót geologicznych stosuje się wymagania dotyczące ruchu zakładu górniczego.
 
 2. Zgłoszenia dokonuje się na piśmie utrwalonym w postaci papierowej lub elektronicznej, opatrzonym odpowiednio do sposobu utrwalenia podpisem własnoręcznym, kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, najpóźniej na 14 dni przed zamierzonym terminem rozpoczęcia robót geologicznych, określając zamierzone terminy rozpoczęcia i zakończenia robót geologicznych, ich rodzaj i podstawowe dane dotyczące robót geologicznych oraz imiona i nazwiska osób sprawujących dozór i kierownictwo, a także numery świadectw stwierdzających kwalifikacje do wykonywania tych czynności.
 
@@ -2285,7 +2489,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **2)** (uchylony)
 - **3)** koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża,
 - **4)** decyzji o zatwierdzeniu projektu robót geologicznych,
-- **5)** zgłoszenia projektu robót geologicznych ma obowiązek bieżącego dokumentowania przebiegu prac geologicznych, w tym robót geologicznych, oraz ich wyników.
+- **5)** zgłoszenia projektu robót geologicznych – ma obowiązek bieżącego dokumentowania przebiegu prac geologicznych, w tym robót geologicznych, oraz ich wyników.
 
 2. Podmiot, o którym mowa w ust. 1, który wykonuje roboty geologiczne w celu poszukiwania lub rozpoznawania złóż kopalin, o których mowa w art. 10 ust. 1 i 2, poszukiwania lub rozpoznawania kompleksu podziemnego składowania dwutlenku węgla lub wykonania otworów wiertniczych służących rozpoznaniu budowy głębokiego podłoża albo wykonania regionalnych badań budowy geologicznej kraju, a także określania warunków hydrogeologicznych oraz geologiczno-inżynierskich dla potrzeb podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów lub podziemnego składowania dwutlenku węgla oraz wykonania badań geofizycznych w celu zbadania struktur geologicznych związanych z występowaniem złóż węglowodorów, ma obowiązek bieżącego przekazywania państwowej służbie geologicznej:
 
@@ -2319,7 +2523,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw środowiska:
 
 - **1)** będzie kierował się potrzebą zapewnienia kompletności i użyteczności informacji o bieżącym rozpoznaniu geologicznym kraju dla udzielania koncesji oraz wykonywania zadań państwa w zakresie geologii przez państwową służbę geologiczną;
-- **2)** uwzględni różnice w zakresie przekazywania danych, próbek i informacji dotyczących parametrów wydobywania węglowodorów ze złoża, wynikające ze zróżnicowania zakresu i celu realizowanych prac geologicznych, a w przypadku przekazywania w związku z poszukiwaniem lub rozpoznawaniem złóż kopalin uwzględni także różnice wynikające ze specyfiki danej kopaliny.
+- **2)** uwzględni różnice w zakresie przekazywania danych, próbek i informacji dotyczących parametrów wydobywania węglowodorów ze złoża, wynikające ze zróżnicowania zakresu i celu realizowanych prac geologicznych, a w przypadku przekazywania w związku z poszukiwaniem lub rozpoznawaniem złóż kopalin – uwzględni także różnice wynikające ze specyfiki danej kopaliny.
 
 **Art. 83.**
 
@@ -2381,7 +2585,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 8. Podmiot, który zamierza wykonywać roboty geologiczne, o których mowa w ust. 1, zgłasza zamiar rozpoczęcia robót geologicznych właściwemu:
 
 - **1)** organowi administracji geologicznej,
-- **2)** wójtowi (burmistrzowi, prezydentowi miasta), a w granicach obszarów morskich Rzeczypospolitej Polskiej terenowemu organowi administracji morskiej na zasadach określonych w art. 81 ust. 2. Art. 85aa. 1. Prawa i obowiązki wynikające z decyzji, o których mowa w art. 80 ust. 1, art. 80a ust. 2 lub art. 85a ust. 4, a także prawa i obowiązki wynikające z dokonanych zgłoszeń projektu robót geologicznych, o których mowa w art. 85 ust. 1 lub art. 85a ust. 1, przechodzą na podmiot przejmujący.
+- **2)** wójtowi (burmistrzowi, prezydentowi miasta), a w granicach obszarów morskich Rzeczypospolitej Polskiej – terenowemu organowi administracji morskiej – na zasadach określonych w art. 81 ust. 2. Art. 85aa. 1. Prawa i obowiązki wynikające z decyzji, o których mowa w art. 80 ust. 1, art. 80a ust. 2 lub art. 85a ust. 4, a także prawa i obowiązki wynikające z dokonanych zgłoszeń projektu robót geologicznych, o których mowa w art. 85 ust. 1 lub art. 85a ust. 1, przechodzą na podmiot przejmujący.
 
 2. Podmiot, o którym mowa w ust. 1, jest obowiązany w terminie 14 dni od dnia zaistnienia zdarzenia powodującego przejście praw i obowiązków przedstawić właściwemu organowi administracji geologicznej dowody potwierdzające ten fakt.
 
@@ -2493,9 +2697,17 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** budowę geologiczną, warunki geologiczno-inżynierskie i hydrogeologiczne podłoża budowlanego lub określonej przestrzeni;
 - **2)** przydatność badanego terenu do realizacji zamierzonych przedsięwzięć;
-- **3)** prognozę zmian w środowisku, które mogą powstać na skutek realizacji, funkcjonowania oraz likwidacji zamierzonych przedsięwzięć jeżeli nie istnieje obowiązek sporządzenia raportu o oddziaływaniu przedsięwzięcia na środowisko zgodnie z odrębnymi przepisami.
+- **3)** prognozę zmian w środowisku, które mogą powstać na skutek realizacji, funkcjonowania oraz likwidacji zamierzonych przedsięwzięć – jeżeli nie istnieje obowiązek sporządzenia raportu o oddziaływaniu przedsięwzięcia na środowisko zgodnie z odrębnymi przepisami.
 
 **Art. 92.** Dokumentację geologiczną, o której mowa w art. 88 ust. 2 pkt 4, sporządza się w przypadku:
+
+- **1)** wykonywania prac geologicznych niekończących się udokumentowaniem zasobów złoża kopaliny lub zasobów wód podziemnych;
+- **2)** wykonania otworu wiertniczego w celu rozpoznania budowy głębokiego podłoża, niezwiązanego z dokumentowaniem złóż kopaliny;
+- **3)** wykonywania prac geologicznych w celu wykorzystania ciepła Ziemi;
+- **4)** likwidacji otworu wiertniczego;
+- **5)** wykonywania badań geofizycznych w celu zbadania struktur geologicznych związanych z występowaniem złóż węglowodorów;
+- **6)** wykonywania prac geologicznych z zastosowaniem badań geofizycznych w celu wykonania regionalnych badań budowy geologicznej kraju;
+- **7)** wykonywania prac geologicznych z zastosowaniem badań sejsmicznych w granicach obszarów morskich Rzeczypospolitej Polskiej w celu posadowienia morskich farm wiatrowych oraz zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu odpowiednio art. 3 pkt 3 i 13 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych.
 
 **Art. 92a.**
 
@@ -2536,7 +2748,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 4d. (uchylony)
 
-5. W przypadku stwierdzenia istotnych różnic między dokumentacją geologiczną, o której mowa w art. 88 ust. 2 pkt 1–3, a stanem rzeczywistym, w tym warunkami zagospodarowania wód podziemnych, właściwy organ administracji geologicznej może, w drodze decyzji, nakazać zmianę dokumentacji geologicznej, a w razie potrzeby wykonanie dodatkowych prac geologicznych. Decyzja ta określa termin przedłożenia dodatku do dokumentacji geologicznej.
+5. W przypadku stwierdzenia istotnych różnic między dokumentacją geologiczną, o której mowa w art. 88 ust. 2 pkt 1–3, a stanem rzeczywistym, w tym warunkami zagospodarowania wód podziemnych, właściwy organ administracji geologicznej może, w drodze decyzji, nakazać zmianę dokumentacji geologicznej, a w razie potrzeby – wykonanie dodatkowych prac geologicznych. Decyzja ta określa termin przedłożenia dodatku do dokumentacji geologicznej.
 
 6. W razie potrzeby decyzja nakazująca wykonanie dodatkowych prac geologicznych zastępuje koncesję albo projekt robót geologicznych.
 
@@ -2561,8 +2773,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 1. Właściwy organ administracji geologicznej przesyła kopie decyzji dotyczących dokumentacji geologicznych, o których mowa w art. 88 ust. 2 pkt 1–3:
 
 - **1)** organom wykonawczym jednostek samorządu terytorialnego, których terytoriów dotyczy dokumentacja geologiczna;
-- **2)** właściwemu terenowemu organowi administracji morskiej jeżeli dokumentacja geologiczna dotyczy obszarów morskich Rzeczypospolitej Polskiej;
-- **3)** właściwemu dyrektorowi regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w przypadku dokumentacji hydrogeologicznej;
+- **2)** właściwemu terenowemu organowi administracji morskiej – jeżeli dokumentacja geologiczna dotyczy obszarów morskich Rzeczypospolitej Polskiej;
+- **3)** właściwemu dyrektorowi regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – w przypadku dokumentacji hydrogeologicznej;
 - **4)** pozostałym właściwym miejscowo organom administracji geologicznej, załączając po 1 egzemplarzu dokumentacji geologicznej w postaci elektronicznej na informatycznych nośnikach danych;
 - **5)** właściwym miejscowo wojewodom;
 - **6)** właściwym miejscowo organom nadzoru górniczego.
@@ -2640,7 +2852,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **1)** złoża kopalin,
 - **2)** wody podziemne,
 - **3)** kompleksy podziemnego składowania dwutlenku węgla,
-- **4)** podziemne bezzbiornikowe magazyny substancji podlegają ochronie w procesie planowania i zagospodarowania przestrzennego, na zasadach określonych w ustawie i w przepisach ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, z późn. zm. ), w celu zabezpieczenia możliwości ich eksploatacji lub wykorzystania.
+- **4)** podziemne bezzbiornikowe magazyny substancji – podlegają ochronie w procesie planowania i zagospodarowania przestrzennego, na zasadach określonych w ustawie i w przepisach ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, z późn. zm. ), w celu zabezpieczenia możliwości ich eksploatacji lub wykorzystania.
 
 2. Określając ustalenia miejscowych planów zagospodarowania przestrzennego, planów ogólnych gmin oraz planów zagospodarowania przestrzennego województw, uwzględnia się występowanie złóż oraz struktur, o których mowa w ust. 1, oraz potrzebę zapewnienia możliwości ich wydobycia lub wykorzystania. Ustalenia uwzględniają:
 
@@ -2662,7 +2874,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 5. Podmiot, na rzecz którego zatwierdzono dokumentację geologiczną złoża lub dodatek do dokumentacji geologicznej, obejmujące złoże kopaliny, o którym mowa w art. 10 ust. 1, ponosi koszty sporządzenia zmiany planu ogólnego gminy oraz zmiany miejscowego planu zagospodarowania przestrzennego, jeżeli te koszty wynikają z realizacji przez gminę obowiązku, o którym mowa w ust. 3 pkt 1 albo ust. 4 pkt 1.
 
-6. Podmiot, na rzecz którego zatwierdzono dokumentację geologiczną lub dodatek do dokumentacji geologicznej, może ponieść koszty sporządzenia zmiany planu ogólnego gminy oraz zmiany miejscowego planu zagospodarowania przestrzennego w przypadkach, o których mowa w ust. 3 pkt 2 albo ust. 4 pkt 2, a w przypadku gdy w następstwie zmiany planu ogólnego gminy lub miejscowego planu zagospodarowania przestrzennego wprowadzone zostaną regulacje umożliwiające prowadzenie działalności polegającej na wydobyciu kopaliny ze złoża poniesienie tych kosztów przez ten podmiot jest obowiązkowe.
+6. Podmiot, na rzecz którego zatwierdzono dokumentację geologiczną lub dodatek do dokumentacji geologicznej, może ponieść koszty sporządzenia zmiany planu ogólnego gminy oraz zmiany miejscowego planu zagospodarowania przestrzennego w przypadkach, o których mowa w ust. 3 pkt 2 albo ust. 4 pkt 2, a w przypadku gdy w następstwie zmiany planu ogólnego gminy lub miejscowego planu zagospodarowania przestrzennego wprowadzone zostaną regulacje umożliwiające prowadzenie działalności polegającej na wydobyciu kopaliny ze złoża – poniesienie tych kosztów przez ten podmiot jest obowiązkowe.
 
 **Art. 95a.** Gmina uwzględnia złoża strategiczne w miejscowym planie zagospodarowania przestrzennego, w którym wprowadza zakaz trwałej zabudowy lub innego zagospodarowania obszarów tych złóż w sposób, który wyłączyłby możliwość zagospodarowania złoża strategicznego w przyszłości, z uwzględnieniem warunków, o których mowa w art. 94a ust. 12.
 
@@ -2675,8 +2887,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 1a. W przypadku wydania zarządzenia zastępczego wojewoda wymierza gminie, w drodze postanowienia, na które przysługuje zażalenie do ministra właściwego do spraw środowiska, karę w wysokości:
 
-- **1)** 30 000 zł za uchybienie terminu, o którym mowa w art. 95 ust. 3 pkt 2 albo ust. 4 pkt 2;
-- **2)** 120 000 zł za uchybienie terminu, o którym mowa w art. 95 ust. 3 pkt 1 albo ust. 4 pkt 1.
+- **1)** 30 000 zł – za uchybienie terminu, o którym mowa w art. 95 ust. 3 pkt 2 albo ust. 4 pkt 2;
+- **2)** 120 000 zł – za uchybienie terminu, o którym mowa w art. 95 ust. 3 pkt 1 albo ust. 4 pkt 1.
 
 1b. W drodze postanowienia wojewoda odstępuje od wymierzenia kary, o której mowa w ust. 1a, w przypadku gdy gmina wykaże, że przystąpiła niezwłocznie do realizacji obowiązku wynikającego z art. 95 ust. 3 albo ust. 4, lecz z przyczyn od niej niezależnych zachowanie terminu, o którym mowa w art. 95 ust. 3 albo ust. 4, nie było możliwe.
 
@@ -2704,19 +2916,19 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **2)** geologiczno-inwestycyjnej złoża węglowodorów,
 - **3)** hydrogeologicznej,
 - **4)** geologiczno-inżynierskiej,
-- **5)** innych niż określone w pkt 1–4 w tym wzory druków, zestawień i kart dołączanych do dokumentacji.
+- **5)** innych niż określone w pkt 1–4 – w tym wzory druków, zestawień i kart dołączanych do dokumentacji.
 
 2. Wydając rozporządzenia, o których mowa w ust. 1, minister właściwy do spraw środowiska będzie kierował się potrzebą zapewnienia dokumentacjom geologicznym odpowiedniej formy, w tym umożliwiającej gromadzenie i przetwarzanie w postaci elektronicznej, należytego przedstawienia przez te dokumentacje budowy geologicznej, ze szczególnym uwzględnieniem ochrony złóż kopalin, wód podziemnych oraz pozostałych elementów środowiska oraz uzależni szczegółowe wymagania dotyczące dokumentacji geologicznej od:
 
-- **1)** w przypadku rozporządzeń, o których mowa w ust. 1 pkt 1 i 2 kategorii rozpoznania złoża i granicznych wartości parametrów definiujących złoże;
-- **2)** w przypadku rozporządzenia, o którym mowa w ust. 1 pkt 1 rozmiarów działalności;
-- **3)** w przypadku rozporządzenia, o którym mowa w ust. 1 pkt 2 potrzeby ochrony złóż węglowodorów oraz zapewnienia racjonalnej gospodarki tymi złożami.
+- **1)** w przypadku rozporządzeń, o których mowa w ust. 1 pkt 1 i 2 – kategorii rozpoznania złoża i granicznych wartości parametrów definiujących złoże;
+- **2)** w przypadku rozporządzenia, o którym mowa w ust. 1 pkt 1 – rozmiarów działalności;
+- **3)** w przypadku rozporządzenia, o którym mowa w ust. 1 pkt 2 – potrzeby ochrony złóż węglowodorów oraz zapewnienia racjonalnej gospodarki tymi złożami.
 
 **Art. 98.**
 
 1. Organy administracji geologicznej oraz państwowa służba geologiczna gromadzą, ewidencjonują, archiwizują, chronią i udostępniają informację geologiczną.
 
-2. Za udostępnienie informacji geologicznej podmioty, o których mowa w ust. 1, pobierają opłatę uwzględniającą koszty utrwalenia i przekazania informacji, z zastrzeżeniem możliwości odstąpienia od pobierania opłat w sytuacji, gdy koszty pobrania i zaksięgowania opłaty byłyby wyższe niż opłata uiszczana z tego tytułu. W takim przypadku informację o odstąpieniu od pobierania opłat do określonej wysokości ogłasza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego właściwy organ oraz w Biuletynie Informacji Publicznej Państwowego Instytutu Geologicznego Państwowego Instytutu Badawczego.
+2. Za udostępnienie informacji geologicznej podmioty, o których mowa w ust. 1, pobierają opłatę uwzględniającą koszty utrwalenia i przekazania informacji, z zastrzeżeniem możliwości odstąpienia od pobierania opłat w sytuacji, gdy koszty pobrania i zaksięgowania opłaty byłyby wyższe niż opłata uiszczana z tego tytułu. W takim przypadku informację o odstąpieniu od pobierania opłat do określonej wysokości ogłasza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego właściwy organ oraz w Biuletynie Informacji Publicznej Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego.
 
 3. Za udostępnienie informacji geologicznej wymagającej dodatkowego przetworzenia, podmioty, o których mowa w ust. 1, pobierają opłatę uwzględniającą koszty przetworzenia, przygotowania, utrwalenia i przekazania informacji w określony sposób lub określonej formie.
 
@@ -2744,8 +2956,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 4a. W przypadku wykonywania działalności:
 
-- **1)** polegającej na podziemnym składowaniu dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton wyłączne prawo do korzystania z informacji geologicznej wygasa z mocy prawa z dniem przejęcia przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a lub przekazania mu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla zgodnie z art. 127j;
-- **1a)** polegającej na podziemnym składowaniu dwutlenku węgla w łącznej ilości mniejszej niż 100 kiloton wyłączne prawo do korzystania z informacji geologicznej wygasa z mocy prawa z dniem utraty mocy decyzji stanowiącej podstawę wykonywania tej działalności.
+- **1)** polegającej na podziemnym składowaniu dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton – wyłączne prawo do korzystania z informacji geologicznej wygasa z mocy prawa z dniem przejęcia przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a lub przekazania mu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla zgodnie z art. 127j;
+- **1a)** polegającej na podziemnym składowaniu dwutlenku węgla w łącznej ilości mniejszej niż 100 kiloton – wyłączne prawo do korzystania z informacji geologicznej wygasa z mocy prawa z dniem utraty mocy decyzji stanowiącej podstawę wykonywania tej działalności.
 - **2)** (uchylony)
 
 5. Jeżeli ustawa nie stanowi inaczej, prawem do informacji geologicznej rozporządza Skarb Państwa.
@@ -2763,7 +2975,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **1)** wydobywania kopalin ze złóż, 1a) wydobywania węglowodorów ze złóż w czasie trwania fazy wydobywania, o której mowa w art. 49v pkt 2 lit. b,
 - **2)** podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów oraz podziemnego składowania dwutlenku węgla,
 - **3)** w jakim wymagane jest pozwolenie wodnoprawne,
-- **4)** rekonstrukcji zlikwidowanych otworów wiertniczych w celu wykorzystania ciepła Ziemi następuje, w drodze umowy, za wynagrodzeniem.
+- **4)** rekonstrukcji zlikwidowanych otworów wiertniczych w celu wykorzystania ciepła Ziemi – następuje, w drodze umowy, za wynagrodzeniem.
 
 3. Korzystanie z informacji geologicznej, związane z badaniem powodującym uszkodzenie, zniszczenie lub zużycie próbki, bez względu na cel korzystania, następuje, w drodze umowy, za wynagrodzeniem.
 
@@ -2771,7 +2983,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** dotyczących kopalin, o których mowa w art. 10 ust. 1 i 2,
 - **2)** z otworów wiertniczych służących rozpoznaniu budowy głębokiego podłoża lub wykonania regionalnych badań budowy geologicznej kraju,
-- **3)** stanowiących wyniki pomiarów geofizycznych następuje, w drodze umowy, za wynagrodzeniem.
+- **3)** stanowiących wyniki pomiarów geofizycznych – następuje, w drodze umowy, za wynagrodzeniem.
 
 3b. Państwowa służba geologiczna, w celu realizacji zadań, o których mowa w art. 162, ma prawo do nieodpłatnego korzystania z informacji geologicznej w postaci danych geologicznych.
 
@@ -2800,7 +3012,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **3)** metody szacowania wartości informacji geologicznej;
 - **4)** szczegółowe wymagania dotyczące wycen.
 
-11. Wydając rozporządzenie, o którym mowa w ust. 10, minister właściwy do spraw środowiska będzie kierował się potrzebą zapewnienia łatwego dostępu do informacji geologicznej oraz kompletności informacji objętych wnioskiem. W rozporządzeniu tym minister właściwy do spraw środowiska zróżnicuje metody szacowania informacji geologicznej i zakres ich stosowania oraz szczegółowe wymagania dotyczące wycen w zależności od rodzaju i formy informacji geologicznej, sposobu i zakresu korzystania z niej, a w przypadku informacji geologicznej dotyczącej złóż kopalin uwzględni także różnice w jakości informacji ze względu na czas jej pozyskania, stopień rozpoznania złoża oraz stopień jego wyeksploatowania.
+11. Wydając rozporządzenie, o którym mowa w ust. 10, minister właściwy do spraw środowiska będzie kierował się potrzebą zapewnienia łatwego dostępu do informacji geologicznej oraz kompletności informacji objętych wnioskiem. W rozporządzeniu tym minister właściwy do spraw środowiska zróżnicuje metody szacowania informacji geologicznej i zakres ich stosowania oraz szczegółowe wymagania dotyczące wycen w zależności od rodzaju i formy informacji geologicznej, sposobu i zakresu korzystania z niej, a w przypadku informacji geologicznej dotyczącej złóż kopalin – uwzględni także różnice w jakości informacji ze względu na czas jej pozyskania, stopień rozpoznania złoża oraz stopień jego wyeksploatowania.
 
 #### Rozdział 3 Ewidencja i bilans zasobów złóż kopalin
 
@@ -2822,8 +3034,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 5. Operat ewidencyjny sporządza się na podstawie:
 
-- **1)** obmiaru wyrobisk dla zasobów złóż kopalin stałych;
-- **2)** pomiarów wydajności odwiertów dla zasobów złóż kopalin gazowych i płynnych.
+- **1)** obmiaru wyrobisk – dla zasobów złóż kopalin stałych;
+- **2)** pomiarów wydajności odwiertów – dla zasobów złóż kopalin gazowych i płynnych.
 
 6. W przypadku działalności prowadzonej na podstawie koncesji udzielonej przez starostę:
 
@@ -2841,7 +3053,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **1)** wszczęcia postępowania zmierzającego do cofnięcia koncesji lub stwierdzenia jej wygaśnięcia,
 - **2)** cofnięcia koncesji lub stwierdzenia jej wygaśnięcia lub utraty jej mocy bez względu na przyczynę,
 - **3)** wyczerpania zasobów złoża,
-- **4)** naruszenia przepisów o ochronie środowiska organ koncesyjny może, w drodze decyzji, nakazać dokonanie obmiaru wyrobisk i przedłożenie operatu ewidencyjnego w innym terminie.
+- **4)** naruszenia przepisów o ochronie środowiska – organ koncesyjny może, w drodze decyzji, nakazać dokonanie obmiaru wyrobisk i przedłożenie operatu ewidencyjnego w innym terminie.
 
 10a. Decyzja, o której mowa w ust. 10, jest ostateczna.
 
@@ -2901,8 +3113,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 2. Planu ruchu zakładu górniczego nie sporządza się:
 
-- **1)** jeżeli koncesji udzielił starosta w takim przypadku ruch zakładu górniczego prowadzi się na podstawie warunków określonych w koncesji;
-- **2)** jeżeli roboty geologiczne służące poszukiwaniu lub rozpoznawaniu złóż kopalin są wykonywane bez użycia środków strzałowych na głębokości do 100 m poza obszarem górniczym w takim przypadku ruch zakładu górniczego prowadzi się na podstawie warunków określonych w koncesji albo decyzji zatwierdzającej projekt robót geologicznych.
+- **1)** jeżeli koncesji udzielił starosta – w takim przypadku ruch zakładu górniczego prowadzi się na podstawie warunków określonych w koncesji;
+- **2)** jeżeli roboty geologiczne służące poszukiwaniu lub rozpoznawaniu złóż kopalin są wykonywane bez użycia środków strzałowych na głębokości do 100 m poza obszarem górniczym – w takim przypadku ruch zakładu górniczego prowadzi się na podstawie warunków określonych w koncesji albo decyzji zatwierdzającej projekt robót geologicznych.
 
 **Art. 106.** Do projektowania, budowy, utrzymania i rozbiórki obiektów budowlanych zakładów górniczych stosuje się przepisy prawa budowlanego oraz odpowiednio przepisy niniejszego rozdziału i rozdziału 5.
 
@@ -2926,9 +3138,9 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 2. Przedsiębiorca jest obowiązany dokonać zmiany planu zagospodarowania podziemnego składowiska dwutlenku węgla:
 
-- **1)** co 5 lat od dnia udzielenia koncesji na podziemne składowanie dwutlenku węgla w celu aktualizacji zawartych w nim informacji, z uwzględnieniem przesłanek, o których mowa w ust. 1;
+- **1)** co 5 lat od dnia udzielenia koncesji na podziemne składowanie dwutlenku węgla – w celu aktualizacji zawartych w nim informacji, z uwzględnieniem przesłanek, o których mowa w ust. 1;
 - **1a)** w przypadku stwierdzenia, w szczególności na podstawie wyników monitoringu kompleksu podziemnego składowania dwutlenku węgla, znaczących różnic pomiędzy zachowaniem dwutlenku węgla w kompleksie podziemnego składowania dwutlenku węgla a jego prognozowanym zachowaniem, dotyczących w szczególności nowych źródeł dwutlenku węgla, w tym dróg, miejsc, wielkości i natężenia wycieku dwutlenku węgla oraz jego wydostania się poza kompleks podziemnego składowania dwutlenku węgla lub jego migracji;
-- **2)** przed zamknięciem podziemnego składowiska dwutlenku węgla i przystąpieniem do likwidacji zakładu górniczego w celu dokonania podsumowania prowadzonej działalności i sporządzenia planu ruchu likwidowanego zakładu górniczego.
+- **2)** przed zamknięciem podziemnego składowiska dwutlenku węgla i przystąpieniem do likwidacji zakładu górniczego – w celu dokonania podsumowania prowadzonej działalności i sporządzenia planu ruchu likwidowanego zakładu górniczego.
 
 3. Zmiany planu zagospodarowania podziemnego składowiska dwutlenku węgla dokonuje się w formie dodatku do planu.
 
@@ -2974,8 +3186,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 3. Plan ruchu zakładu górniczego sporządza się z uwzględnieniem warunków określonych w koncesji oraz odpowiednio w projekcie zagospodarowania złoża, dokumentacji geologiczno-inwestycyjnej złoża węglowodorów, decyzji inwestycyjnej albo w planie zagospodarowania podziemnego składowiska dwutlenku węgla, z zastrzeżeniem art. 34 ust. 2a, a w przypadku:
 
-- **1)** robót geologicznych, których wykonywanie nie wymaga koncesji z uwzględnieniem warunków określonych w projekcie robót geologicznych;
-- **2)** działalności określonej w art. 2 ust. 1 z uwzględnieniem warunków lokalnych jej prowadzenia.
+- **1)** robót geologicznych, których wykonywanie nie wymaga koncesji – z uwzględnieniem warunków określonych w projekcie robót geologicznych;
+- **2)** działalności określonej w art. 2 ust. 1 – z uwzględnieniem warunków lokalnych jej prowadzenia.
 
 3a. Otwory wiertnicze, w tym eksploatacyjne, oraz rekonstrukcje zlikwidowanych odwiertów, z wyłączeniem otworów wiertniczych wykonywanych na potrzeby ruchu zakładu górniczego, mogą zostać wykonane wyłącznie wtedy, gdy są zgodne z warunkami określonymi w koncesji albo w decyzji inwestycyjnej oraz gdy zostały przewidziane w projekcie zagospodarowania złoża albo w dokumentacji geologiczno-inwestycyjnej złoża węglowodorów, a w przypadku podziemnego bezzbiornikowego magazynowania substancji mogą zostać wykonane wyłącznie wtedy, gdy są zgodne z warunkami określonymi w koncesji.
 
@@ -2991,7 +3203,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 6c. Opinia, o której mowa w ust. 6b, jest wyrażana na wniosek przedsiębiorcy, w terminie 14 dni od dnia otrzymania wniosku. W przypadku niewyrażenia opinii w tym terminie uważa się, że właściwy wójt (burmistrz, prezydent miasta) nie zgłasza uwag.
 
-7. Wniosek o zatwierdzenie planu ruchu zakładu górniczego przedkłada się organowi nadzoru górniczego właściwemu dla miejsca wykonywania robót objętych planem, a jeżeli roboty objęte planem będą wykonywane w granicach właściwości miejscowej co najmniej 2 organów nadzoru górniczego organowi nadzoru górniczego właściwemu dla siedziby zakładu górniczego.
+7. Wniosek o zatwierdzenie planu ruchu zakładu górniczego przedkłada się organowi nadzoru górniczego właściwemu dla miejsca wykonywania robót objętych planem, a jeżeli roboty objęte planem będą wykonywane w granicach właściwości miejscowej co najmniej 2 organów nadzoru górniczego – organowi nadzoru górniczego właściwemu dla siedziby zakładu górniczego.
 
 7a. Wniosek o zatwierdzenie planu ruchu zakładu górniczego prowadzącego podziemne składowanie dwutlenku węgla przedkłada się właściwemu organowi nadzoru górniczego.
 
@@ -3002,14 +3214,14 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **1)** 2 egzemplarze planu, podpisane przez przedsiębiorcę oraz kierownika ruchu zakładu górniczego, który będzie realizował plan, a w przypadku planu ruchu dla wykonywania robót geologicznych związanych z poszukiwaniem i rozpoznawaniem złoża węglowodorów − także egzemplarz planu w postaci elektronicznej;
 - **2)** odpisy wymaganych dla zamierzonych robót decyzji wydanych przez inne organy, w szczególności dotyczących ochrony środowiska;
 - **3)** opinię właściwego wójta (burmistrza, prezydenta miasta) albo informację o jej braku, a w przypadku uwag także oświadczenie przedsiębiorcy o sposobie ich uwzględnienia lub przyczynach ich nieuwzględnienia;
-- **3a)** w przypadku działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu soli kamiennej oraz siarki rodzimej metodą otworową, poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż, a także podziemnym bezzbiornikowym magazynowaniu substancji oraz podziemnym składowaniu odpadów dowody potwierdzające prawo wnioskodawcy do nieruchomości położonej w granicach zakładu górniczego albo zakładu, w granicach której są wykonywane roboty górnicze albo geologiczne;
+- **3a)** w przypadku działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu soli kamiennej oraz siarki rodzimej metodą otworową, poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż, a także podziemnym bezzbiornikowym magazynowaniu substancji oraz podziemnym składowaniu odpadów – dowody potwierdzające prawo wnioskodawcy do nieruchomości położonej w granicach zakładu górniczego albo zakładu, w granicach której są wykonywane roboty górnicze albo geologiczne;
 - **4)** w przypadku działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej:
     - **a)** oświadczenie przedsiębiorcy i kierownika ruchu zakładu górniczego, że plan ruchu zakładu górniczego zapewnia bezpieczne prowadzenie ruchu tego zakładu,
     - **b)** analizę skuteczności reagowania w przypadku wycieku ropy naftowej,
     - **c)** opinię rzeczoznawcy do spraw ruchu zakładu górniczego dotyczącą elementów planu ruchu zakładu górniczego określonych w przepisach wydanych na podstawie art. 110, w zakresie przyjętych przez przedsiębiorcę rozwiązań technicznych zabezpieczających przed wystąpieniem niebezpiecznych zdarzeń lub wypadków, a także oświadczenie przedsiębiorcy i kierownika ruchu zakładu górniczego o sposobie jej uwzględnienia,
     - **d)** politykę korporacyjną, o której mowa w ust. 9a;
 
-- **5)** w przypadku gdy wydanie decyzji zatwierdzającej plan ruchu dla wykonywania robót geologicznych związanych z poszukiwaniem i rozpoznawaniem złoża węglowodorów, decyzji inwestycyjnej w celu wykonywania koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża lub decyzji zatwierdzającej plan ruchu dla wykonywania robót geologicznych na podstawie koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny jest poprzedzone decyzją o środowiskowych uwarunkowaniach wydaną w postępowaniu wymagającym udziału społeczeństwa załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+- **5)** w przypadku gdy wydanie decyzji zatwierdzającej plan ruchu dla wykonywania robót geologicznych związanych z poszukiwaniem i rozpoznawaniem złoża węglowodorów, decyzji inwestycyjnej w celu wykonywania koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża lub decyzji zatwierdzającej plan ruchu dla wykonywania robót geologicznych na podstawie koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny jest poprzedzone decyzją o środowiskowych uwarunkowaniach wydaną w postępowaniu wymagającym udziału społeczeństwa – załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 9a. Przedsiębiorca wykonujący działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej sporządza na piśmie politykę korporacyjną w zakresie zapobiegania niebezpiecznym zdarzeniom oraz wypadkom, zwaną dalej „polityką korporacyjną”.
 
@@ -3029,7 +3241,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 9g. Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, szczegółowy zakres polityki korporacyjnej, kierując się potrzebą zapewnienia kompletności i przejrzystości przedstawianych w niej informacji oraz zapewnienia wysokiego poziomu bezpieczeństwa działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej.
 
-10. Wraz z wnioskiem o zatwierdzenie planu ruchu zakładu górniczego przekazuje się do wglądu odpis koncesji oraz odpowiednio projekt zagospodarowania złoża, dokumentację geologiczno-inwestycyjną złoża węglowodorów, kopię decyzji inwestycyjnej albo plan zagospodarowania podziemnego składowiska dwutlenku węgla, a w przypadku robót geologicznych, których wykonywanie nie wymaga koncesji projekt robót geologicznych.
+10. Wraz z wnioskiem o zatwierdzenie planu ruchu zakładu górniczego przekazuje się do wglądu odpis koncesji oraz odpowiednio projekt zagospodarowania złoża, dokumentację geologiczno-inwestycyjną złoża węglowodorów, kopię decyzji inwestycyjnej albo plan zagospodarowania podziemnego składowiska dwutlenku węgla, a w przypadku robót geologicznych, których wykonywanie nie wymaga koncesji – projekt robót geologicznych.
 
 10a. Jeżeli właściwy organ nadzoru górniczego, podczas dokonywania oceny analizy poważnych zagrożeń dla zakładu górniczego, stwierdzi możliwość wystąpienia znaczącego oddziaływania na środowisko na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej na skutek wykonywania działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, niezwłocznie informuje Prezesa Wyższego Urzędu Górniczego o możliwości wystąpienia tego oddziaływania.
 
@@ -3059,7 +3271,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 11d. Do decyzji zatwierdzającej plan ruchu dla wykonywania robót geologicznych związanych z poszukiwaniem i rozpoznawaniem złoża węglowodorów, decyzji inwestycyjnej w celu wykonywania koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża lub decyzji zatwierdzającej plan ruchu dla wykonywania robót geologicznych na podstawie koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
-12. Organ nadzoru górniczego przesyła organowi koncesyjnemu kopię decyzji zatwierdzającej plan ruchu zakładu górniczego, a w przypadku planu ruchu dla wykonywania robót geologicznych związanych z poszukiwaniem i rozpoznawaniem złoża węglowodorów także egzemplarz tego planu w postaci elektronicznej.
+12. Organ nadzoru górniczego przesyła organowi koncesyjnemu kopię decyzji zatwierdzającej plan ruchu zakładu górniczego, a w przypadku planu ruchu dla wykonywania robót geologicznych związanych z poszukiwaniem i rozpoznawaniem złoża węglowodorów – także egzemplarz tego planu w postaci elektronicznej.
 
 **Art. 108a.**
 
@@ -3072,7 +3284,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 1. Zmiany planu ruchu zakładu górniczego dokonuje się w formie dodatku do planu, w trybie:
 
 - **1)** przewidzianym dla zatwierdzenia planu ruchu zakładu górniczego;
-- **2)** uproszczonym jeżeli zmiany nie dotyczą bezpieczeństwa powszechnego, bezpieczeństwa pożarowego, bezpieczeństwa osób przebywających w zakładzie górniczym, bezpieczeństwa ruchu zakładu górniczego, gospodarki złożem, ochrony środowiska, robót budowlanych, ochrony obiektów budowlanych oraz zapobiegania szkodom i ich naprawy.
+- **2)** uproszczonym – jeżeli zmiany nie dotyczą bezpieczeństwa powszechnego, bezpieczeństwa pożarowego, bezpieczeństwa osób przebywających w zakładzie górniczym, bezpieczeństwa ruchu zakładu górniczego, gospodarki złożem, ochrony środowiska, robót budowlanych, ochrony obiektów budowlanych oraz zapobiegania szkodom i ich naprawy.
 
 2. W przypadku określonym w ust. 1 pkt 1 opinia, o której mowa w art. 108 ust. 6b, nie jest wymagana, jeżeli zmiana planu ruchu zakładu górniczego nie spowoduje negatywnego wpływu na środowisko oraz obiekty budowlane.
 
@@ -3098,6 +3310,10 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 7. W przypadku niedokonania zmiany w planie ruchu zakładu górniczego, o której mowa w ust. 6, właściwy organ nadzoru górniczego może w całości lub w części, w drodze decyzji, wstrzymać ruch tego zakładu lub jego urządzeń, określając warunki wznowienia ruchu tego zakładu lub jego urządzeń. Do decyzji stosuje się art. 171 ust. 2 i 3.
 
 **Art. 110.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania dotyczące treści planu ruchu zakładu górniczego oraz planu ruchu likwidowanego (likwidowanej oznaczonej części) zakładu górniczego, różnicując je w zależności od rodzaju i metody wykonywanej działalności oraz przestrzeni, w granicach której jest wykonywana działalność, kierując się potrzebą zapewnienia wysokiego poziomu bezpieczeństwa wykonywanej działalności, a dla likwidowanego (likwidowanej oznaczonej części) zakładu górniczego również obowiązkiem realizacji działań, o których mowa w art. 129 ust. 1;
+- **2)** elementy planu ruchu zakładu górniczego przedsiębiorcy wykonującego działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, które wymagają opinii rzeczoznawcy do spraw ruchu zakładu górniczego, kierując się potrzebą zapewnienia wysokiego poziomu bezpieczeństwa wykonywanej działalności oraz jej niezależnej weryfikacji;
+- **3)** elementy planu ruchu zakładu górniczego, których zmiany dokonuje się w trybie uproszczonym, zgodnie z art. 109 ust. 1 pkt 2, kierując się potrzebą uproszczenia procedury zmiany planu ruchu zakładu górniczego z uwzględnieniem zachowania bezpieczeństwa wykonywanej działalności.
 
 **Art. 111.**
 
@@ -3142,13 +3358,13 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 4. Jeżeli wyrób został:
 
 - **1)** zgodnie z prawem wyprodukowany lub dopuszczony do obrotu w innym państwie członkowskim Unii Europejskiej lub w Republice Turcji,
-- **2)** zgodnie z prawem wyprodukowany w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) będącym stroną umowy o Europejskim Obszarze Gospodarczym Prezes Wyższego Urzędu Górniczego wydaje dopuszczenie na podstawie dokumentów załączonych do wniosku, z wyłączeniem przepisów ust. 2 i 3. Odmowa wydania dopuszczenia następuje wyłącznie w przypadku stwierdzenia, że wyrób nie spełnia wymagań bezpieczeństwa w stopniu odpowiadającym temu, jaki przewidują wymagania techniczne.
+- **2)** zgodnie z prawem wyprodukowany w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) będącym stroną umowy o Europejskim Obszarze Gospodarczym – Prezes Wyższego Urzędu Górniczego wydaje dopuszczenie na podstawie dokumentów załączonych do wniosku, z wyłączeniem przepisów ust. 2 i 3. Odmowa wydania dopuszczenia następuje wyłącznie w przypadku stwierdzenia, że wyrób nie spełnia wymagań bezpieczeństwa w stopniu odpowiadającym temu, jaki przewidują wymagania techniczne.
 
 5. Podmiotami uprawnionymi do złożenia wniosku o wydanie dopuszczenia są:
 
 - **1)** producent, jego upoważniony przedstawiciel, w rozumieniu art. 5 pkt 5 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2023 r. poz. 215 oraz z 2025 r. poz. 1826), dystrybutor lub importer wyrobu, zwani dalej „dostawcami wyrobu”;
-- **2)** dostawca wyrobu finalnego w przypadku wyrobów składających się z podzespołów wykonywanych przez różnych producentów;
-- **3)** przedsiębiorca, który wykonał lub nabył wyrób i zamierza stosować go w ruchu własnego zakładu górniczego, lub inny podmiot, który wykonał lub nabył wyrób w przypadku wyrobów wykonanych lub zakupionych jednostkowo.
+- **2)** dostawca wyrobu finalnego – w przypadku wyrobów składających się z podzespołów wykonywanych przez różnych producentów;
+- **3)** przedsiębiorca, który wykonał lub nabył wyrób i zamierza stosować go w ruchu własnego zakładu górniczego, lub inny podmiot, który wykonał lub nabył wyrób – w przypadku wyrobów wykonanych lub zakupionych jednostkowo.
 
 6. Wniosek o wydanie dopuszczenia zawiera:
 
@@ -3162,9 +3378,9 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **2)** niezbędne obliczenia projektowe parametrów mających wpływ na bezpieczeństwo użytkowania wyrobu w warunkach zagrożeń występujących w ruchu zakładu górniczego;
 - **3)** rysunki lub schematy dotyczące wyrobu, jego układów oraz podzespołów, od których zależy bezpieczeństwo i higiena pracy oraz bezpieczeństwo pożarowe;
 - **4)** wyniki badań wyrobu;
-- **5)** deklarację producenta albo podmiotu wymienionego w ust. 5 pkt 3 w przypadku wykonania wyrobu jednostkowo, dotyczącą spełniania przez wyrób wymagań technicznych, albo deklarację dotyczącą spełniania przez wyrób wymagań bezpieczeństwa w stopniu odpowiadającym temu, jaki zapewniają wymagania techniczne w przypadku wyrobów, o których mowa w ust. 4;
+- **5)** deklarację producenta albo podmiotu wymienionego w ust. 5 pkt 3 – w przypadku wykonania wyrobu jednostkowo, dotyczącą spełniania przez wyrób wymagań technicznych, albo deklarację dotyczącą spełniania przez wyrób wymagań bezpieczeństwa w stopniu odpowiadającym temu, jaki zapewniają wymagania techniczne – w przypadku wyrobów, o których mowa w ust. 4;
 - **6)** dokumenty potwierdzające dokonanie oceny zgodności, jeżeli są wymagane przez odrębne przepisy, w tym wydane na podstawie ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności;
-- **7)** certyfikat systemu zarządzania jakością lub informację o innym sposobie udokumentowania powtarzalności cech wyrobu w przypadku produkcji więcej niż 1 egzemplarza wyrobu;
+- **7)** certyfikat systemu zarządzania jakością lub informację o innym sposobie udokumentowania powtarzalności cech wyrobu – w przypadku produkcji więcej niż 1 egzemplarza wyrobu;
 - **8)** dokumentację techniczno-ruchową wyrobu zawierającą następujące informacje wymagane do jego prawidłowego i bezpiecznego stosowania:
     - **a)** dane techniczne,
     - **b)** identyfikację zagrożeń powodowanych przez wyrób w czasie jego stosowania,
@@ -3184,7 +3400,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **3)** znak dopuszczenia oraz sposób trwałego i czytelnego umieszczania znaku dopuszczenia na każdej jednostce wyrobu;
 - **4)** dokumenty, jakie dostawca wyrobu jest obowiązany przekazać użytkownikowi;
 - **5)** czas przechowywania dokumentów, o których mowa w ust. 7, przez podmiot określony w ust. 5 oraz warunki ich udostępniania;
-- **6)** zakres dozwolonych zmian wyrobu, które mogą być dokonane, w okresie ważności dopuszczenia, przez producenta albo podmiot wymieniony w ust. 5 pkt 3 w przypadku wykonania wyrobu jednostkowo.
+- **6)** zakres dozwolonych zmian wyrobu, które mogą być dokonane, w okresie ważności dopuszczenia, przez producenta albo podmiot wymieniony w ust. 5 pkt 3 – w przypadku wykonania wyrobu jednostkowo.
 
 12. Zmiany, o których mowa w ust. 11 pkt 6, nie mogą dotyczyć:
 
@@ -3218,12 +3434,12 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 115.**
 
-1. Przechowywanie lub używanie w ruchu zakładu górniczego sprzętu strzałowego wymaga pozwolenia wydanego, w drodze decyzji, przez organ nadzoru górniczego właściwy dla miejsca wykonywania robót strzałowych, a jeżeli roboty te będą wykonywane w granicach właściwości miejscowej co najmniej dwóch organów nadzoru górniczego organ nadzoru górniczego właściwy dla siedziby zakładu górniczego.
+1. Przechowywanie lub używanie w ruchu zakładu górniczego sprzętu strzałowego wymaga pozwolenia wydanego, w drodze decyzji, przez organ nadzoru górniczego właściwy dla miejsca wykonywania robót strzałowych, a jeżeli roboty te będą wykonywane w granicach właściwości miejscowej co najmniej dwóch organów nadzoru górniczego – organ nadzoru górniczego właściwy dla siedziby zakładu górniczego.
 
 2. Jeżeli roboty strzałowe w ruchu zakładu górniczego będą wykonywane przez podmiot wykonujący w zakresie swojej działalności zawodowej czynności powierzone mu w ruchu zakładu górniczego, uzyskanie pozwolenia, o którym mowa w ust. 1, przez:
 
-- **1)** przedsiębiorcę wyłącza obowiązek uzyskania pozwolenia w zakresie tego samego sprzętu przez ten podmiot;
-- **2)** ten podmiot wyłącza obowiązek uzyskania pozwolenia w zakresie tego samego sprzętu przez przedsiębiorcę.
+- **1)** przedsiębiorcę – wyłącza obowiązek uzyskania pozwolenia w zakresie tego samego sprzętu przez ten podmiot;
+- **2)** ten podmiot – wyłącza obowiązek uzyskania pozwolenia w zakresie tego samego sprzętu przez przedsiębiorcę.
 
 3. Pozwolenie wydaje się na czas nieokreślony.
 
@@ -3263,8 +3479,8 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 3. Dokumentację mierniczo-geologiczną sporządza:
 
-- **1)** mierniczy górniczy, a w przypadku wydobywania kopalin metodą odkrywkową także osoba posiadająca kwalifikacje zawodowe w zakresie geodezyjnych pomiarów sytuacyjno-wysokościowych;
-- **2)** w części, w jakiej przedstawia ona sytuację geologiczną zakładu górniczego geolog górniczy, a w przypadku wydobywania kopalin metodą odkrywkową także osoba posiadająca kwalifikacje zawodowe w zakresie sporządzania dokumentacji geologicznej złóż tych kopalin, w związku z wydobywaniem których ma być sporządzona dokumentacja mierniczo-geologiczna.
+- **1)** mierniczy górniczy, a w przypadku wydobywania kopalin metodą odkrywkową – także osoba posiadająca kwalifikacje zawodowe w zakresie geodezyjnych pomiarów sytuacyjno-wysokościowych;
+- **2)** w części, w jakiej przedstawia ona sytuację geologiczną zakładu górniczego – geolog górniczy, a w przypadku wydobywania kopalin metodą odkrywkową – także osoba posiadająca kwalifikacje zawodowe w zakresie sporządzania dokumentacji geologicznej złóż tych kopalin, w związku z wydobywaniem których ma być sporządzona dokumentacja mierniczo-geologiczna.
 
 4. W celu sporządzenia, aktualizacji i uzupełniania dokumentacji mierniczo-geologicznej wykonuje się prace geodezyjne i geologiczne, obejmujące czynności pomiarowe, obliczeniowe i kartograficzne.
 
@@ -3288,6 +3504,16 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **4)** sposób i tryb postępowania z dokumentacją mierniczo-geologiczną po likwidacji zakładu górniczego, w zakresie jej przekazywania i archiwizowania, w tym wzory dokumentów związanych z jej przekazywaniem.
 
 **Art. 117.** Przedsiębiorca jest obowiązany:
+
+- **1)** rozpoznawać zagrożenia związane z ruchem zakładu górniczego i podejmować środki zmierzające do zapobiegania i usuwania tych zagrożeń;
+- **2)** posiadać odpowiednie środki materialne i techniczne oraz służby ruchu zapewniające bezpieczeństwo pracowników i ruchu zakładu górniczego;
+- **3)** prowadzić ewidencję osób przebywających w zakładzie górniczym, przez wskazanie imienia i nazwiska oraz stanowiska służbowego;
+- **4)** oceniać i dokumentować ryzyko zawodowe oraz stosować niezbędne rozwiązania zmniejszające to ryzyko, w tym przez sporządzenie dokumentu bezpieczeństwa i ochrony zdrowia;
+- **5)** posiadać i odpowiednio przechowywać dokumentację prowadzenia ruchu zakładu górniczego;
+- **6)** posiadać dowód sprawdzenia rozwiązań technicznych przez rzeczoznawcę do spraw ruchu zakładu górniczego – w przypadkach określonych w przepisach wydanych na podstawie art. 120 ust. 1 i 2;
+- **7)** przechowywać:
+    - **a)** dokumenty, o których mowa w art. 108 ust. 9 pkt 4 lit. a, b i d oraz ust. 10, wraz z planem ruchu zakładu górniczego,
+    - **b)** dokument, o którym mowa w art. 108 ust. 9 pkt 4 lit. c – przez 6 miesięcy od dnia zakończenia likwidacji zakładu górniczego.
 
 **Art. 117a.**
 
@@ -3321,7 +3547,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** kryteria oceny zagrożeń naturalnych, o których mowa w ust. 1, zależnie od rodzaju kopaliny, natężenia zagrożeń, przestrzeni występowania zagrożeń oraz rodzaju zakładu górniczego,
 - **2)** dokumentację, w oparciu o którą dokonuje się zaliczeń, o których mowa w ust. 1, inną niż wymieniona w ust. 3,
-- **3)** przypadki, w których zaliczeń, o których mowa w ust. 1, dokonuje się także w oparciu o dokumentację, o której mowa w ust. 3 kierując się potrzebą zapewnienia bezpieczeństwa i higieny pracy, bezpieczeństwa powszechnego oraz bezpieczeństwa ruchu zakładu górniczego.
+- **3)** przypadki, w których zaliczeń, o których mowa w ust. 1, dokonuje się także w oparciu o dokumentację, o której mowa w ust. 3 – kierując się potrzebą zapewnienia bezpieczeństwa i higieny pracy, bezpieczeństwa powszechnego oraz bezpieczeństwa ruchu zakładu górniczego.
 
 **Art. 119.**
 
@@ -3348,7 +3574,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **5)** ochrony środowiska,
 - **6)** podstawowych obiektów, maszyn i urządzeń zakładu górniczego,
 - **7)** obiektów podziemnego zakładu górniczego stanowiących ściany prowadzone w warunkach specjalnych oraz obiektów podziemnego zakładu górniczego stanowiących oddziały eksploatujące partie złóż rud miedzi w warunkach specjalnych,
-- **8)** przypadków, w których przedsiębiorca jest obowiązany posiadać dowód sprawdzenia rozwiązań technicznych przez rzeczoznawcę do spraw ruchu zakładu górniczego kierując się potrzebą zapewnienia wysokiego poziomu bezpieczeństwa powszechnego, bezpieczeństwa pożarowego, bezpieczeństwa i higieny pracy, prawidłowego prowadzenia ruchu zakładu górniczego, zapobiegania zagrożeniom występującym w ruchu zakładu górniczego, a także uwzględniając konieczność stosowania przez przedsiębiorców aktualnych osiągnięć nauki i techniki, zwłaszcza w zakresie górnictwa, uproszczenia wymagań dla przedsiębiorców prowadzących działalność na podstawie koncesji udzielonej przez starostę oraz racjonalnego wykorzystania złoża kopaliny.
+- **8)** przypadków, w których przedsiębiorca jest obowiązany posiadać dowód sprawdzenia rozwiązań technicznych przez rzeczoznawcę do spraw ruchu zakładu górniczego – kierując się potrzebą zapewnienia wysokiego poziomu bezpieczeństwa powszechnego, bezpieczeństwa pożarowego, bezpieczeństwa i higieny pracy, prawidłowego prowadzenia ruchu zakładu górniczego, zapobiegania zagrożeniom występującym w ruchu zakładu górniczego, a także uwzględniając konieczność stosowania przez przedsiębiorców aktualnych osiągnięć nauki i techniki, zwłaszcza w zakresie górnictwa, uproszczenia wymagań dla przedsiębiorców prowadzących działalność na podstawie koncesji udzielonej przez starostę oraz racjonalnego wykorzystania złoża kopaliny.
 
 2. Minister właściwy do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrami właściwymi do spraw pracy, spraw wewnętrznych oraz środowiska określi, w drodze rozporządzenia, szczegółowe wymagania dotyczące przechowywania i używania środków strzałowych i sprzętu strzałowego w ruchu zakładu górniczego, w tym rodzaje, sposób i wzory ewidencji środków strzałowych oraz przypadki, w których przedsiębiorca ma obowiązek posiadać dowód sprawdzenia rozwiązań technicznych przez rzeczoznawcę do spraw ruchu zakładu górniczego, kierując się potrzebą zapewnienia wysokiego poziomu bezpieczeństwa powszechnego, bezpieczeństwa pożarowego, bezpieczeństwa i higieny pracy, prawidłowego prowadzenia ruchu zakładu górniczego, zapobiegania zagrożeniom występującym w ruchu zakładu górniczego, a także potrzebą zapewnienia bezpieczeństwa osób wykonujących czynności związane z przechowywaniem lub używaniem środków strzałowych i sprzętu strzałowego w poszczególnych rodzajach zakładów górniczych.
 
@@ -3379,9 +3605,9 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 2. Do zadań służb i podmiotów, o których mowa w ust. 1, należy:
 
 - **1)** niezwłoczne niesienie pomocy w przypadku zagrożenia życia lub zdrowia osób przebywających w zakładzie górniczym, bezpieczeństwa ruchu zakładu górniczego lub bezpieczeństwa powszechnego;
-- **2)** wykonywanie prac profilaktycznych prace te mają na celu zapobieganie bezpośredniemu zagrożeniu bezpieczeństwa osób lub ruchu zakładu górniczego w przypadkach określonych w przepisach wydanych na podstawie art. 124.
+- **2)** wykonywanie prac profilaktycznych – prace te mają na celu zapobieganie bezpośredniemu zagrożeniu bezpieczeństwa osób lub ruchu zakładu górniczego w przypadkach określonych w przepisach wydanych na podstawie art. 124.
 
-3. Kierownik ruchu zakładu górniczego odpowiada za stan ratownictwa górniczego w zakładzie górniczym, a kierownik podmiotu zawodowo trudniącego się ratownictwem górniczym za stan ratownictwa górniczego w tym podmiocie.
+3. Kierownik ruchu zakładu górniczego odpowiada za stan ratownictwa górniczego w zakładzie górniczym, a kierownik podmiotu zawodowo trudniącego się ratownictwem górniczym – za stan ratownictwa górniczego w tym podmiocie.
 
 4. W zakładzie górniczym i w podmiocie zawodowo trudniącym się ratownictwem górniczym prowadzi się dokumentację w zakresie ratownictwa górniczego.
 
@@ -3404,7 +3630,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 11. Plan ratownictwa górniczego określa sposób wykonania obowiązków w zakresie ratownictwa górniczego, w szczególności:
 
 - **1)** organizację służb ratownictwa górniczego i służb pogotowia w zakładzie górniczym;
-- **2)** możliwość stałego udziału w akcji ratowniczej zawodowych specjalistycznych służb podmiotu zawodowo trudniącego się ratownictwem górniczym w przypadku zawarcia umowy, o której mowa w ust. 15;
+- **2)** możliwość stałego udziału w akcji ratowniczej zawodowych specjalistycznych służb podmiotu zawodowo trudniącego się ratownictwem górniczym – w przypadku zawarcia umowy, o której mowa w ust. 15;
 - **3)** niezbędne wyposażenie w sprzęt ratowniczy;
 - **4)** sposób prowadzenia akcji ratowniczej.
 
@@ -3488,6 +3714,13 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 124.** Minister właściwy do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrami właściwymi do spraw wewnętrznych, środowiska oraz zdrowia określi, w drodze rozporządzenia:
 
+- **1)** organizację, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym,
+- **2)** szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których te szkolenia są przeprowadzane przez przedsiębiorcę,
+- **3)** szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego,
+- **4)** sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym, w przypadku zawarcia umowy, o której mowa w art. 122 ust. 15,
+- **5)** przypadki, w których wykonuje się prace profilaktyczne,
+- **6)** sposoby prowadzenia akcji ratowniczych w zależności od rodzaju i natężenia zagrożeń występujących w zakładach górniczych – kierując się potrzebą zapewnienia wysokiego poziomu bezpieczeństwa powszechnego, bezpieczeństwa pożarowego, bezpieczeństwa i higieny pracy, bezpieczeństwa ruchu zakładu górniczego, zapobiegania zagrożeniom występującym w ruchu zakładu górniczego, a także zapewnienia sprawnego niesienia pomocy w przypadku zagrożenia życia lub zdrowia osób przebywających w zakładzie górniczym, bezpieczeństwa ruchu zakładu górniczego lub bezpieczeństwa powszechnego.
+
 #### Rozdział 4 Podziemne składowanie odpadów
 
 **Art. 125.**
@@ -3501,7 +3734,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 2. Podziemne składowisko odpadów lokalizuje się w formacji geologicznej stanowiącej naturalną barierę geologiczną dla ewentualnej migracji substancji niebezpiecznych poza granice przestrzeni objętej przewidywanymi szkodliwymi wpływami składowanych odpadów.
 
-2a. Do lokalizacji, eksploatacji i zamknięcia podziemnego składowiska odpadów promieniotwórczych, a także monitoringu tego składowiska stosuje się odpowiednio przepisy ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2026 r. poz. 1) dotyczące głębokich składowisk odpadów promieniotwórczych.
+2a. Do lokalizacji, eksploatacji i zamknięcia podziemnego składowiska odpadów promieniotwórczych, a także monitoringu tego składowiska stosuje się odpowiednio przepisy ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2026 r. poz. 1) dotyczące głębokich składowisk odpadów promieniotwórczych.
 
 3. Eksploatacja i zamknięcie podziemnego składowiska powinny odbywać się w sposób zapewniający bezpieczeństwo powszechne oraz w sposób zapewniający zapobieganie negatywnym dla środowiska skutkom składowania odpadów, w szczególności zanieczyszczeniu wód podziemnych.
 
@@ -3582,7 +3815,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 1. Przedsiębiorca prowadzący działalność w zakresie podziemnego składowania dwutlenku węgla jest obowiązany do:
 
 - **1)** kontrolowania strumienia dwutlenku węgla, w tym dokonywania pomiaru oraz akceptacji jego składu;
-- **2)** dokonywania oceny ryzyka polegającej na wykazaniu, że zawartość innych gazów i substancji w składzie strumienia dwutlenku węgla, który będzie zatłaczany do podziemnego składowiska dwutlenku węgla, nie stanowi zagrożenia środowiska lub zdrowia i życia ludzi oraz jest poniżej poziomów, które mogłyby negatywnie wpłynąć na integralność podziemnego składowiska dwutlenku węgla oraz sieci transportowej dwutlenku węgla w rozumieniu art. 3 pkt 11h ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne;
+- **2)** dokonywania oceny ryzyka polegającej na wykazaniu, że zawartość innych gazów i substancji w składzie strumienia dwutlenku węgla, który będzie zatłaczany do podziemnego składowiska dwutlenku węgla, nie stanowi zagrożenia środowiska lub zdrowia i życia ludzi oraz jest poniżej poziomów, które mogłyby negatywnie wpłynąć na integralność podziemnego składowiska dwutlenku węgla oraz sieci transportowej dwutlenku węgla w rozumieniu art. 3 pkt 11h ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
 - **3)** rejestrowania ilości i charakterystyki przyjmowanego i zatłaczanego strumienia dwutlenku węgla, w tym gromadzenia informacji na temat jego składu;
 - **4)** prowadzenia monitoringu kompleksu podziemnego składowania dwutlenku węgla;
 - **5)** poinformowania organu właściwego w sprawach handlu uprawnieniami do emisji gazów cieplarnianych, o którym mowa w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, o wydostaniu się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla i rozliczenia emisji w przypadku wydostania się dwutlenku węgla poza kompleks podziemnego składowania dwutlenku węgla;
@@ -3613,13 +3846,13 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 2. Monitoring kompleksu podziemnego składowania dwutlenku węgla jest prowadzony w trzech etapach:
 
-- **1)** etap eksploatacji podziemnego składowiska dwutlenku węgla okres od rozpoczęcia zatłaczania dwutlenku węgla do podziemnego składowiska dwutlenku węgla do zamknięcia podziemnego składowiska dwutlenku węgla;
-- **2)** etap po zamknięciu podziemnego składowiska dwutlenku węgla okres niekrótszy niż 20 lat;
-- **3)** w przypadku podziemnego składowania dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton albo w przypadku, o którym mowa w art. 28d ust. 1a etap po przekazaniu Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla zgodnie z art. 127j.
+- **1)** etap eksploatacji podziemnego składowiska dwutlenku węgla – okres od rozpoczęcia zatłaczania dwutlenku węgla do podziemnego składowiska dwutlenku węgla do zamknięcia podziemnego składowiska dwutlenku węgla;
+- **2)** etap po zamknięciu podziemnego składowiska dwutlenku węgla – okres niekrótszy niż 20 lat;
+- **3)** w przypadku podziemnego składowania dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton albo w przypadku, o którym mowa w art. 28d ust. 1a – etap po przekazaniu Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla zgodnie z art. 127j.
 
 3. Monitoring kompleksu podziemnego składowania dwutlenku węgla jest prowadzony w celu:
 
-- **1)** porównania stanu środowiska z jego pierwotnym i modelowym stanem określonym w dokumentacji geologicznej, w szczególności porównania zachowania dwutlenku węgla w kompleksie podziemnego składowania dwutlenku węgla, a w uzasadnionych przypadkach w otaczającym go środowisku, oraz zachowania wody w formacjach geologicznych;
+- **1)** porównania stanu środowiska z jego pierwotnym i modelowym stanem określonym w dokumentacji geologicznej, w szczególności porównania zachowania dwutlenku węgla w kompleksie podziemnego składowania dwutlenku węgla, a w uzasadnionych przypadkach – w otaczającym go środowisku, oraz zachowania wody w formacjach geologicznych;
 - **2)** obserwacji migracji dwutlenku węgla, o której mowa w art. 127f ust. 2;
 - **3)** wykrycia nieprawidłowości w procesie zatłaczania lub składowania dwutlenku węgla albo w kompleksie podziemnego składowania dwutlenku węgla, które wiążą się z ryzykiem wystąpienia wycieku dwutlenku węgla lub powstaniem zagrożenia zdrowia i życia ludzi oraz środowiska;
 - **4)** wykrycia wycieku dwutlenku węgla lub jego wydostania się poza kompleks podziemnego składowania dwutlenku węgla, w szczególności wpływu na użytkowe poziomy wód podziemnych, a także na bezpieczeństwo zdrowia i życia ludzi oraz środowiska;
@@ -3637,6 +3870,10 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 - **7)** niezorganizowanych emisji dwutlenku węgla z kompleksu podziemnego składowania dwutlenku węgla.
 
 **Art. 127h.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania dotyczące eksploatacji podziemnego składowiska dwutlenku węgla,
+- **2)** szczegółowe kryteria i sposób akceptacji składu strumienia dwutlenku węgla zatłaczanego do podziemnego składowiska dwutlenku węgla,
+- **3)** sposób, częstotliwość i szczegółowe warunki prowadzenia monitoringu kompleksu podziemnego składowania dwutlenku węgla – kierując się potrzebą zapewnienia bezpieczeństwa prowadzenia działalności polegającej na podziemnym składowaniu dwutlenku węgla, mając na uwadze potrzebę zapewnienia ochrony zdrowia i życia ludzi oraz środowiska, a także bezpieczeństwa powszechnego oraz uwzględniając charakterystykę kompleksu podziemnego składowania dwutlenku węgla, warunki geologiczne i przyrodnicze.
 
 **Art. 127i.**
 
@@ -3671,7 +3908,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 3. O przekazaniu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla orzeka, w drodze decyzji, organ koncesyjny.
 
-4. Decyzja o przekazaniu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla jest wydawana na wniosek przedsiębiorcy, a w przypadku gdy nastąpiło przejęcie przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a na wniosek Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla.
+4. Decyzja o przekazaniu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla jest wydawana na wniosek przedsiębiorcy, a w przypadku gdy nastąpiło przejęcie przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a – na wniosek Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla.
 
 5. Do wniosku o przekazanie odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla dołącza się:
 
@@ -3683,7 +3920,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 6. Wydanie decyzji w sprawie przekazania odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla Krajowemu Administratorowi Podziemnych Składowisk Dwutlenku Węgla wymaga:
 
 - **1)** uzgodnienia z właściwym organem nadzoru górniczego oraz właściwym wójtem (burmistrzem, prezydentem miasta);
-- **2)** uzyskania stanowiska Komisji Europejskiej w przypadku podziemnego składowania dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton.
+- **2)** uzyskania stanowiska Komisji Europejskiej – w przypadku podziemnego składowania dwutlenku węgla w łącznej ilości równej lub większej niż 100 kiloton.
 
 7. W przypadku, o którym mowa w ust. 6 pkt 2, przepisy art. 23 ust. 4 i 5 stosuje się odpowiednio.
 
@@ -3730,13 +3967,16 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 3. Protokół z kontroli zawiera w szczególności:
 
 - **1)** ocenę zgodności prowadzonej działalności z wymaganiami ustawy i przepisów odrębnych, warunkami określonymi w koncesji, planie zagospodarowania podziemnego składowiska dwutlenku węgla i planie ruchu zakładu górniczego;
-- **2)** wnioski z przeprowadzonej kontroli, a w razie potrzeby zalecenia dotyczące dalszego prowadzenia działalności polegającej na podziemnym składowaniu dwutlenku węgla.
+- **2)** wnioski z przeprowadzonej kontroli, a w razie potrzeby – zalecenia dotyczące dalszego prowadzenia działalności polegającej na podziemnym składowaniu dwutlenku węgla.
 
 4. Protokół z kontroli udostępnia się zgodnie z przepisami o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, w terminie 2 miesięcy od dnia zakończenia kontroli.
 
 5. Do kontroli, o której mowa w ust. 1, przepisy działu IX stosuje się odpowiednio.
 
 **Art. 127o.** Organ koncesyjny, w celu oceny zgodności prowadzonej działalności polegającej na podziemnym składowaniu dwutlenku węgla z warunkami określonymi w koncesji, dokonuje przeglądu udzielonych koncesji:
+
+- **1)** po upływie 5 lat od dnia udzielenia koncesji, a następnie – co 10 lat;
+- **2)** w przypadkach, o których mowa w art. 37a ust. 2 pkt 2–5.
 
 **Art. 127p.** Do działalności polegającej na wydobywaniu węglowodorów ze złoża połączonym z podziemnym składowaniem dwutlenku węgla stosuje się przepisy art. 127a ust. 1–3, art. 127b–127g, art. 127i–127o oraz przepisy wydane na podstawie art. 127a ust. 4 i art. 127h.
 
@@ -3752,16 +3992,16 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 4. W przypadku wydobywania kopalin ze złóż metodą:
 
-- **1)** robót podziemnych lub otworów wiertniczych przeznacza się na fundusz równowartość niemniej niż 3 % odpisów amortyzacyjnych od środków trwałych zakładu górniczego, ustalanych stosownie do przepisów o podatku dochodowym,
-- **2)** odkrywkową przeznacza się na fundusz równowartość niemniej niż 10 % należnej opłaty eksploatacyjnej w terminie miesiąca po zakończeniu roku obrotowego.
+- **1)** robót podziemnych lub otworów wiertniczych – przeznacza się na fundusz równowartość niemniej niż 3 % odpisów amortyzacyjnych od środków trwałych zakładu górniczego, ustalanych stosownie do przepisów o podatku dochodowym,
+- **2)** odkrywkową – przeznacza się na fundusz równowartość niemniej niż 10 % należnej opłaty eksploatacyjnej – w terminie miesiąca po zakończeniu roku obrotowego.
 
 5. Przepis ust. 4 pkt 1 stosuje się do podziemnego bezzbiornikowego magazynowania substancji oraz podziemnego składowania odpadów.
 
 6. Obowiązek przeznaczania środków na fundusz:
 
 - **1)** powstaje w przypadku:
-    - **a)** wydobywania kopalin ze złóż od dnia wymagalności opłaty eksploatacyjnej,
-    - **b)** podziemnego bezzbiornikowego magazynowania substancji lub podziemnego składowania odpadów od dnia zatwierdzenia planu ruchu zakładu górniczego;
+    - **a)** wydobywania kopalin ze złóż – od dnia wymagalności opłaty eksploatacyjnej,
+    - **b)** podziemnego bezzbiornikowego magazynowania substancji lub podziemnego składowania odpadów – od dnia zatwierdzenia planu ruchu zakładu górniczego;
 
 - **2)** ustaje z dniem rozpoczęcia likwidacji zakładu górniczego.
 
@@ -3809,7 +4049,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 1. Środki funduszu nie podlegają egzekucji, chyba że tytuł wykonawczy, na podstawie którego organ egzekucyjny prowadzi postępowanie egzekucyjne, został wystawiony:
 
 - **1)** na wniosek wierzyciela przedsiębiorcy,
-- **2)** na podstawie art. 129 ust. 8 z tytułu wykonywania na zlecenie lub rzecz przedsiębiorcy czynności określonych w art. 128 ust. 8, art. 129 ust. 1 lub 6.
+- **2)** na podstawie art. 129 ust. 8 – z tytułu wykonywania na zlecenie lub rzecz przedsiębiorcy czynności określonych w art. 128 ust. 8, art. 129 ust. 1 lub 6.
 
 2. Środki funduszu nie wchodzą w skład masy upadłości podmiotów, o których mowa w art. 128 ust. 1 i 12.
 
@@ -3825,9 +4065,9 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 2. Stawka opłaty za działalność w zakresie poszukiwania złóż kopalin za kilometr kwadratowy wynosi dla:
 
-- **1)** węgla kamiennego i rud uranu 558,56 zł ;
-- **2)** węgla brunatnego 223,43 zł ;
-- **3)** pozostałych kopalin, których złoża są objęte własnością górniczą, z wyłączeniem węglowodorów 111,72 zł .
+- **1)** węgla kamiennego i rud uranu – 558,56 zł ;
+- **2)** węgla brunatnego – 223,43 zł ;
+- **3)** pozostałych kopalin, których złoża są objęte własnością górniczą, z wyłączeniem węglowodorów – 111,72 zł .
 
 3. Stawka opłaty za działalność w zakresie rozpoznawania złóż kopalin lub łącznie za działalność w zakresie poszukiwania i rozpoznawania złóż kopalin wynosi dwukrotność stawki określonej w ust. 2.
 
@@ -3839,7 +4079,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 134.**
 
-1. Przedsiębiorca, który uzyskał koncesję na wydobywanie kopaliny ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża uzyskał decyzję inwestycyjną, wnosi opłatę eksploatacyjną ustalaną jako iloczyn jej stawki oraz ilości kopaliny wydobytej ze złoża bilansowego i pozabilansowego, w okresie rozliczeniowym.
+1. Przedsiębiorca, który uzyskał koncesję na wydobywanie kopaliny ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – uzyskał decyzję inwestycyjną, wnosi opłatę eksploatacyjną ustalaną jako iloczyn jej stawki oraz ilości kopaliny wydobytej ze złoża bilansowego i pozabilansowego, w okresie rozliczeniowym.
 
 2. Stawki opłat eksploatacyjnych dla poszczególnych rodzajów kopalin określa załącznik do ustawy.
 
@@ -3854,20 +4094,20 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** podziemne bezzbiornikowe magazynowanie substancji albo
 - **2)** podziemne składowanie odpadów, albo
-- **3)** podziemne składowanie dwutlenku węgla wnosi opłatę ustaloną jako iloczyn stawki opłaty oraz ilości odpowiednio substancji, odpadów albo dwutlenku węgla, która w okresie rozliczeniowym została wprowadzona do górotworu, w tym do podziemnych wyrobisk górniczych.
+- **3)** podziemne składowanie dwutlenku węgla – wnosi opłatę ustaloną jako iloczyn stawki opłaty oraz ilości odpowiednio substancji, odpadów albo dwutlenku węgla, która w okresie rozliczeniowym została wprowadzona do górotworu, w tym do podziemnych wyrobisk górniczych.
 
 2. Stawki opłat z tytułu magazynowania wynoszą dla:
 
-- **1)** substancji gazowych 1,61 zł /tys. m ;
-- **2)** substancji ciekłych 3,19 zł /t;
-- **3)** pozostałych substancji 1,60 zł /t.
+- **1)** substancji gazowych – 1,61 zł /tys. m ;
+- **2)** substancji ciekłych – 3,19 zł /t;
+- **3)** pozostałych substancji – 1,60 zł /t.
 
 3. Stawki opłat z tytułu składowania wynoszą dla odpadów:
 
-- **1)** niebezpiecznych 65,79 zł /t z wyłączeniem odpadów stanowiących materiały izolacyjne i konstrukcyjne zawierające azbest, dla których stawka wynosi 0,0 zł/t;
-- **2)** obojętnych 3,79 zł /t;
-- **3)** innych niż niebezpieczne i obojętne 5,06 zł /t;
-- **4)** promieniotwórczych jak dla odpadów niebezpiecznych.
+- **1)** niebezpiecznych – 65,79 zł /t z wyłączeniem odpadów stanowiących materiały izolacyjne i konstrukcyjne zawierające azbest, dla których stawka wynosi 0,0 zł/t;
+- **2)** obojętnych – 3,79 zł /t;
+- **3)** innych niż niebezpieczne i obojętne – 5,06 zł /t;
+- **4)** promieniotwórczych – jak dla odpadów niebezpiecznych.
 
 4. Stawka opłaty z tytułu podziemnego składowania dwutlenku węgla wynosi 5,06 zł /t.
 
@@ -3883,11 +4123,11 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 2. Przedsiębiorca, który uzyskał koncesję na wydobywanie kopaliny ze złoża, z wyłączeniem złoża węglowodorów, samodzielnie ustala wysokość opłaty eksploatacyjnej należnej za okres rozliczeniowy i przed upływem miesiąca następującego po tym okresie wnosi ją na rachunki bankowe gminy, na terenie której jest prowadzona działalność, oraz NFOŚiGW, bez wezwania.
 
-2a. Przedsiębiorca, który uzyskał koncesję na wydobywanie węglowodorów ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża uzyskał decyzję inwestycyjną, samodzielnie ustala wysokość opłaty eksploatacyjnej należnej za okres rozliczeniowy i przed upływem miesiąca następującego po tym okresie wnosi ją na rachunki bankowe gminy, powiatu i województwa, na terenie których jest prowadzona działalność, oraz NFOŚiGW, bez wezwania.
+2a. Przedsiębiorca, który uzyskał koncesję na wydobywanie węglowodorów ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – uzyskał decyzję inwestycyjną, samodzielnie ustala wysokość opłaty eksploatacyjnej należnej za okres rozliczeniowy i przed upływem miesiąca następującego po tym okresie wnosi ją na rachunki bankowe gminy, powiatu i województwa, na terenie których jest prowadzona działalność, oraz NFOŚiGW, bez wezwania.
 
-3. W terminie określonym w ust. 2 przedsiębiorca, który uzyskał koncesję na wydobywanie kopaliny ze złoża, przedstawia organowi koncesyjnemu, gminie, na terenie której jest prowadzona działalność, oraz NFOŚiGW kopie dowodów dokonanych wpłat, a także informację zawierającą dane identyfikujące przedsiębiorcę, nazwę złoża, numer koncesji na wydobywanie kopaliny z tego złoża, rodzaj i ilość kopaliny wydobytej w okresie rozliczeniowym, przyjętą stawkę oraz wysokość ustalonej opłaty, w tym przypadającej gminie, na terenie której jest prowadzona działalność, oraz NFOŚiGW. Jeżeli wydobycie prowadzi się na terenie więcej niż jednej gminy w informacji określa się również ilość kopaliny wydobytej z terenów poszczególnych gmin, a także wysokość przypadającej na nie opłaty eksploatacyjnej.
+3. W terminie określonym w ust. 2 przedsiębiorca, który uzyskał koncesję na wydobywanie kopaliny ze złoża, przedstawia organowi koncesyjnemu, gminie, na terenie której jest prowadzona działalność, oraz NFOŚiGW kopie dowodów dokonanych wpłat, a także informację zawierającą dane identyfikujące przedsiębiorcę, nazwę złoża, numer koncesji na wydobywanie kopaliny z tego złoża, rodzaj i ilość kopaliny wydobytej w okresie rozliczeniowym, przyjętą stawkę oraz wysokość ustalonej opłaty, w tym przypadającej gminie, na terenie której jest prowadzona działalność, oraz NFOŚiGW. Jeżeli wydobycie prowadzi się na terenie więcej niż jednej gminy – w informacji określa się również ilość kopaliny wydobytej z terenów poszczególnych gmin, a także wysokość przypadającej na nie opłaty eksploatacyjnej.
 
-3a. W terminie określonym w ust. 2a przedsiębiorca, który uzyskał koncesję na wydobywanie kopaliny ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża uzyskał decyzję inwestycyjną, przedstawia organowi koncesyjnemu, gminie, powiatowi i województwu, na terenie których jest prowadzona działalność, oraz NFOŚiGW kopie dowodów dokonanych wpłat, a także informację zawierającą dane identyfikujące przedsiębiorcę, nazwę złoża, numer koncesji, rodzaj i ilość kopaliny wydobytej w okresie rozliczeniowym, przyjętą stawkę oraz wysokość ustalonej opłaty, w tym przypadającej gminie, powiatowi i województwu, na terenie których jest prowadzona działalność, oraz NFOŚiGW. Jeżeli wydobycie prowadzi się na terenie więcej niż jednej gminy, jednego powiatu lub jednego województwa w informacji określa się również ilość kopaliny wydobytej z terenów odpowiednio poszczególnych gmin, powiatów i województw, a także wysokość przypadającej na nie opłaty eksploatacyjnej.
+3a. W terminie określonym w ust. 2a przedsiębiorca, który uzyskał koncesję na wydobywanie kopaliny ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – uzyskał decyzję inwestycyjną, przedstawia organowi koncesyjnemu, gminie, powiatowi i województwu, na terenie których jest prowadzona działalność, oraz NFOŚiGW kopie dowodów dokonanych wpłat, a także informację zawierającą dane identyfikujące przedsiębiorcę, nazwę złoża, numer koncesji, rodzaj i ilość kopaliny wydobytej w okresie rozliczeniowym, przyjętą stawkę oraz wysokość ustalonej opłaty, w tym przypadającej gminie, powiatowi i województwu, na terenie których jest prowadzona działalność, oraz NFOŚiGW. Jeżeli wydobycie prowadzi się na terenie więcej niż jednej gminy, jednego powiatu lub jednego województwa – w informacji określa się również ilość kopaliny wydobytej z terenów odpowiednio poszczególnych gmin, powiatów i województw, a także wysokość przypadającej na nie opłaty eksploatacyjnej.
 
 4. Jeżeli wysokość opłaty należnej za okres rozliczeniowy nie przekracza 300 zł, obowiązek jej zapłaty nie powstaje. Nie zwalnia to z obowiązku przedłożenia informacji, o której mowa w ust. 3 i 3a.
 
@@ -3970,7 +4210,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 142.**
 
-1. Do opłat, o których mowa w niniejszym dziale, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) dotyczące zobowiązań podatkowych. Określone tymi przepisami uprawnienia organów podatkowych przysługują wierzycielom.
+1. Do opłat, o których mowa w niniejszym dziale, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) dotyczące zobowiązań podatkowych. Określone tymi przepisami uprawnienia organów podatkowych przysługują wierzycielom.
 
 2. Wierzycielami są odpowiednio gmina, powiat, województwo oraz NFOŚiGW.
 
@@ -4094,7 +4334,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 154.**
 
-1. Do kontroli działalności prowadzonej na podstawie przepisów ustawy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, z wyłączeniem art. 55a ust. 1 tej ustawy.
+1. Do kontroli działalności prowadzonej na podstawie przepisów ustawy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, z wyłączeniem art. 55a ust. 1 tej ustawy.
 
 2. W przypadku działalności, o której mowa w art. 21 ust. 1:
 
@@ -4155,9 +4395,9 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 2. Zadania administracji geologicznej wykonuje:
 
-- **1)** minister właściwy do spraw środowiska przy pomocy Głównego Geologa Kraju, będącego sekretarzem lub podsekretarzem stanu w urzędzie obsługującym ministra;
-- **2)** marszałek województwa przy pomocy geologa wojewódzkiego;
-- **3)** starosta przy pomocy geologa powiatowego.
+- **1)** minister właściwy do spraw środowiska – przy pomocy Głównego Geologa Kraju, będącego sekretarzem lub podsekretarzem stanu w urzędzie obsługującym ministra;
+- **2)** marszałek województwa – przy pomocy geologa wojewódzkiego;
+- **3)** starosta – przy pomocy geologa powiatowego.
 
 3. Określone ustawą zadania marszałków województw oraz starostów są zadaniami z zakresu administracji rządowej.
 
@@ -4165,13 +4405,16 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 158.** Jeżeli ustawa nie stanowi inaczej, do zakresu działania organów administracji geologicznej należy wykonywanie określonych zadań, a w szczególności:
 
+- **1)** podejmowanie rozstrzygnięć oraz wykonywanie innych czynności niezbędnych do przestrzegania i stosowania ustawy, w tym udzielanie koncesji;
+- **2)** kontrola i nadzór nad działalnością regulowaną ustawą, w tym w zakresie projektowania prac geologicznych oraz sporządzania dokumentacji geologicznych.
+
 **Art. 159.**
 
 1. W przypadku stwierdzenia, że działalność określona ustawą jest wykonywana:
 
 - **1)** z naruszeniem warunków określonych w koncesji,
 - **2)** bez zatwierdzonego projektu robót geologicznych lub z naruszeniem określonych w nim warunków,
-- **3)** bez przedłożonego projektu robót geologicznych, który nie podlega zatwierdzeniu, lub z naruszeniem określonych w nim warunków właściwy organ administracji geologicznej, w drodze decyzji, odpowiednio wstrzymuje działalność, nakazuje niezwłoczne usunięcie stwierdzonych uchybień, a w przypadku potrzeby nakazuje podjęcie czynności mających na celu doprowadzenie środowiska do należytego stanu.
+- **3)** bez przedłożonego projektu robót geologicznych, który nie podlega zatwierdzeniu, lub z naruszeniem określonych w nim warunków – właściwy organ administracji geologicznej, w drodze decyzji, odpowiednio wstrzymuje działalność, nakazuje niezwłoczne usunięcie stwierdzonych uchybień, a w przypadku potrzeby nakazuje podjęcie czynności mających na celu doprowadzenie środowiska do należytego stanu.
 
 2. Decyzje, o których mowa w ust. 1, podlegają rygorowi natychmiastowej wykonalności.
 
@@ -4221,13 +4464,19 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 - **1)** (uchylony)
 - **2)** miejscowego planu zagospodarowania przestrzennego,
-- **3)** planu zagospodarowania przestrzennego województwa w zakresie udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 1, oraz złóż kopalin określonych w art. 10 ust. 3, które zostały uznane za złoża strategiczne, a także w zakresie kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji.
+- **3)** planu zagospodarowania przestrzennego województwa – w zakresie udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 1, oraz złóż kopalin określonych w art. 10 ust. 3, które zostały uznane za złoża strategiczne, a także w zakresie kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji.
 
 2. W zakresie, o którym mowa w ust. 1, minister właściwy do spraw środowiska uzgadnia projekt decyzji o lokalizacji inwestycji celu publicznego oraz projekt decyzji o warunkach zabudowy.
 
 3. W zakresie, o którym mowa w ust. 1, marszałek województwa uzgadnia projekt decyzji o lokalizacji inwestycji celu publicznego oraz projekt decyzji o warunkach zabudowy, które obejmują wyłącznie zmianę sposobu użytkowania obiektu budowlanego.
 
 **Art. 161b.** Przy uzgadnianiu:
+
+- **1)** (uchylony)
+- **2)** projektu miejscowego planu zagospodarowania przestrzennego,
+- **3)** projektu planu zagospodarowania przestrzennego województwa,
+- **4)** projektu decyzji o lokalizacji inwestycji celu publicznego,
+- **5)** projektu decyzji o warunkach zabudowy – organ administracji geologicznej kieruje się koniecznością ochrony udokumentowanych złóż kopalin, w szczególności złóż strategicznych, przed zagospodarowaniem w sposób wykluczający ich eksploatację w przyszłości.
 
 #### Rozdział 3 Państwowa służba geologiczna
 
@@ -4262,32 +4511,32 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 **Art. 163.**
 
-1. Państwową służbę geologiczną pełni Państwowy Instytut Geologiczny Państwowy Instytut Badawczy.
+1. Państwową służbę geologiczną pełni Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy.
 
-1a. Pracownicy Państwowego Instytutu Geologicznego Państwowego Instytutu Badawczego realizujący zadania państwowej służby geologicznej są obowiązani do posiadania legitymacji służbowej pozwalającej zidentyfikować pracownika.
+1a. Pracownicy Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego realizujący zadania państwowej służby geologicznej są obowiązani do posiadania legitymacji służbowej pozwalającej zidentyfikować pracownika.
 
-2. Państwowy Instytut Geologiczny Państwowy Instytut Badawczy może powierzyć wykonanie niektórych zadań określonych w art. 162 jednostkom organizacyjnym utworzonym na podstawie odrębnych przepisów, a także przedsiębiorcom w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców jeżeli przedmiot ich działania obejmuje prowadzenie prac geologicznych.
+2. Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy może powierzyć wykonanie niektórych zadań określonych w art. 162 jednostkom organizacyjnym utworzonym na podstawie odrębnych przepisów, a także przedsiębiorcom w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców – jeżeli przedmiot ich działania obejmuje prowadzenie prac geologicznych.
 
 3. Nadzór nad wykonywaniem zadań państwowej służby geologicznej sprawuje minister właściwy do spraw środowiska, działający przy pomocy Głównego Geologa Kraju.
 
-4. Plan prac państwowej służby geologicznej dotyczących realizacji zadań, o których mowa w art. 162 ust. 1 pkt 1–5 i 7–10d oraz ust. 2, na rok następny Państwowy Instytut Geologiczny Państwowy Instytut Badawczy corocznie, w terminie do dnia 31 maja, przekazuje ministrowi właściwemu do spraw środowiska do akceptacji.
+4. Plan prac państwowej służby geologicznej dotyczących realizacji zadań, o których mowa w art. 162 ust. 1 pkt 1–5 i 7–10d oraz ust. 2, na rok następny Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy corocznie, w terminie do dnia 31 maja, przekazuje ministrowi właściwemu do spraw środowiska do akceptacji.
 
 4a. Plan prac państwowej służby geologicznej, o którym mowa w ust. 4, uwzględnia realizację zadania, o którym mowa w art. 162 ust. 1 pkt 6, wyłącznie w przypadku planowania przez organ koncesyjny wszczęcia postępowania przetargowego w celu udzielenia koncesji na poszukiwanie i rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż lub koncesji na wydobywanie węglowodorów ze złoża.
 
-5. Państwowy Instytut Geologiczny Państwowy Instytut Badawczy corocznie w terminie do dnia 15 lutego przekazuje ministrowi właściwemu do spraw środowiska sprawozdanie z wykonanych zadań, o których mowa w ust. 4, według stanu na dzień 31 grudnia.
+5. Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy corocznie w terminie do dnia 15 lutego przekazuje ministrowi właściwemu do spraw środowiska sprawozdanie z wykonanych zadań, o których mowa w ust. 4, według stanu na dzień 31 grudnia.
 
-6. Statut Państwowemu Instytutowi Geologicznemu Państwowemu Instytutowi Badawczemu nadaje minister właściwy do spraw środowiska.
+6. Statut Państwowemu Instytutowi Geologicznemu – Państwowemu Instytutowi Badawczemu nadaje minister właściwy do spraw środowiska.
 
-7. W skład rady naukowej Państwowego Instytutu Geologicznego Państwowego Instytutu Badawczego, w liczbie i proporcji określonej w statucie, wchodzą:
+7. W skład rady naukowej Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego, w liczbie i proporcji określonej w statucie, wchodzą:
 
-- **1)** pracownicy naukowi i badawczo-techniczni Państwowego Instytutu Geologicznego Państwowego Instytutu Badawczego, w liczbie stanowiącej od 30 % do 50 % składu rady;
-- **2)** osoby niebędące pracownikami Państwowego Instytutu Geologicznego Państwowego Instytutu Badawczego, które stanowią co najmniej 50 % składu rady.
+- **1)** pracownicy naukowi i badawczo-techniczni Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego, w liczbie stanowiącej od 30 % do 50 % składu rady;
+- **2)** osoby niebędące pracownikami Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego, które stanowią co najmniej 50 % składu rady.
 
 8. (uchylony)
 
-9. W zakresie uregulowanym w ust. 6–8 do Państwowego Instytutu Geologicznego Państwowego Instytutu Badawczego nie stosuje się przepisów ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080).
+9. W zakresie uregulowanym w ust. 6–8 do Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego nie stosuje się przepisów ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080).
 
-10. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór legitymacji służbowej, o której mowa w ust. 1a, kierując się koniecznością zapewnienia identyfikacji pracowników Państwowego Instytutu Geologicznego Państwowego Instytutu Badawczego realizujących zadania państwowej służby geologicznej.
+10. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór legitymacji służbowej, o której mowa w ust. 1a, kierując się koniecznością zapewnienia identyfikacji pracowników Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego realizujących zadania państwowej służby geologicznej.
 
 #### Rozdział 3a Krajowy Administrator Podziemnych Składowisk Dwutlenku Węgla
 
@@ -4298,7 +4547,7 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 2. Do Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla należy wykonywanie zadań:
 
 - **1)** związanych z przekazaniem mu odpowiedzialności za zamknięte podziemne składowisko dwutlenku węgla, w tym:
-    - **a)** prowadzenie monitoringu kompleksu podziemnego składowania dwutlenku węgla, w tym: utrzymanie obiektów przeznaczonych do prowadzenia monitoringu, wykonywanie programów monitoringu,
+    - **a)** prowadzenie monitoringu kompleksu podziemnego składowania dwutlenku węgla, w tym: – utrzymanie obiektów przeznaczonych do prowadzenia monitoringu, – wykonywanie programów monitoringu,
     - **b)** opracowywanie projektów, dokumentacji, opinii, ekspertyz i analiz związanych z zamkniętym podziemnym składowiskiem dwutlenku węgla,
     - **c)** zabezpieczenie zamkniętego podziemnego składowiska dwutlenku węgla przed zagrożeniem związanym z prowadzeniem działalności gospodarczej w rejonach przyległych,
     - **d)** prowadzenie i koordynacja działań naprawczych i akcji ratowniczych, a także działań naprawczych i działań zapobiegawczych w rozumieniu przepisów ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie,
@@ -4310,15 +4559,15 @@ Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpra
 
 3. W przypadku przejęcia przez Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla odpowiedzialności za podziemne składowisko dwutlenku węgla zgodnie z art. 39a, do zadań Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla należy wykonywanie obowiązków określonych w art. 39c ust. 1, art. 127d ust. 1 pkt 4 i 5 oraz w art. 127i ust. 2.
 
-**Art. 163b.** Wykonywanie zadań Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla powierza się Państwowemu Instytutowi Geologicznemu Państwowemu Instytutowi Badawczemu.
+**Art. 163b.** Wykonywanie zadań Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla powierza się Państwowemu Instytutowi Geologicznemu – Państwowemu Instytutowi Badawczemu.
 
 **Art. 163c.**
 
 1. Nadzór nad wykonywaniem zadań Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla sprawuje minister właściwy do spraw środowiska, działający przy pomocy Głównego Geologa Kraju.
 
-1a. Plan prac Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla dotyczących realizacji zadań, o których mowa w art. 163a ust. 2 i 3, na rok następny, Państwowy Instytut Geologiczny Państwowy Instytut Badawczy corocznie, w terminie do dnia 31 maja, przekazuje ministrowi właściwemu do spraw środowiska do akceptacji.
+1a. Plan prac Krajowego Administratora Podziemnych Składowisk Dwutlenku Węgla dotyczących realizacji zadań, o których mowa w art. 163a ust. 2 i 3, na rok następny, Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy corocznie, w terminie do dnia 31 maja, przekazuje ministrowi właściwemu do spraw środowiska do akceptacji.
 
-2. Państwowy Instytut Geologiczny Państwowy Instytut Badawczy corocznie, w terminie do dnia 15 lutego, przekazuje ministrowi właściwemu do spraw środowiska sprawozdanie z wykonanych zadań, o których mowa w art. 163a ust. 2 i 3, według stanu na dzień 31 grudnia.
+2. Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy corocznie, w terminie do dnia 15 lutego, przekazuje ministrowi właściwemu do spraw środowiska sprawozdanie z wykonanych zadań, o których mowa w art. 163a ust. 2 i 3, według stanu na dzień 31 grudnia.
 
 #### Rozdział 4 Organy nadzoru górniczego
 

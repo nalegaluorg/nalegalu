@@ -8,10 +8,12 @@ pos: 619
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
+
+*USTAWA z dnia 12 kwietnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,54 +29,64 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598) wprowadza się następujące zmiany:
 
+- **1)** w art. 4a ust. 1 otrzymuje brzmienie: „1. Kierownik jednostki oraz członkowie rady nadzorczej lub innego organu nadzorującego jednostki są zobowiązani do zapewnienia, aby sprawozdanie finansowe, skonsolidowane sprawozdanie finansowe, sprawozdanie z działalności, sprawozdanie z działalności grupy kapitałowej, sprawozdanie z płatności na rzecz administracji publicznej, skonsolidowane sprawozdanie z płatności na rzecz administracji publicznej oraz sprawozdanie o podatku dochodowym spełniały wymagania przewidziane w ustawie.”;
+- **2)** po rozdziale 6a dodaje się rozdział 6b w brzmieniu: „Rozdział 6b Sprawozdanie o podatku dochodowym
+
 **Art. 63l.**
 
-1. Ilekroć rozdziale jest mowa o:
+1. Ilekroć w rozdziale jest mowa o:
 
 - **1)** jednostce dominującej najwyższego szczebla – rozumie się przez to jednostkę dominującą, która sporządza roczne skonsolidowane sprawozdanie finansowe obejmujące największą możliwą liczbę jednostek powiązanych z grupy kapitałowej;
-- **2)** jednostce samodzielnej – rozumie się przez to jednostkę, która nie jest częścią grupy kapitałowej; unijnego wykazu jurysdykcji niechętnych współpracy do celów podatkowych (Dz. Urz. UE C 438 z 19.12.2017, str. 5, z późn. zm. ).
+- **2)** jednostce samodzielnej – rozumie się przez to jednostkę, która nie jest częścią grupy kapitałowej;
+- **3)** jurysdykcji podatkowej – rozumie się przez to państwo lub terytorium, które posiadają autonomię fiskalną w zakresie podatku dochodowego od osób prawnych;
+- **4)** konkluzjach Rady – rozumie się przez to konkluzje Rady w sprawie unijnego wykazu jurysdykcji niechętnych współpracy do celów podatkowych (Dz. Urz. UE C 438 z 19.12.2017, str. 5, z późn. zm. ).
 
 2. Dla celów art. 63m i art. 63n przez przychody rozumie się:
 
-- **1)** przychody netto ze sprzedaży produktów i towarów – przypadku jednostek mających siedzibę lub miejsce sprawowania zarządu na terytorium Rzeczypospolitej Polskiej, które nie stosują MSR;
-- **2)** przychody rozumieniu ram sprawozdawczości finansowej stosowanych przez jednostkę, na podstawie których są sporządzane sprawozdania finansowe – przypadku jednostek innych niż określone pkt 1.
+- **1)** przychody netto ze sprzedaży produktów i towarów – w przypadku jednostek mających siedzibę lub miejsce sprawowania zarządu na terytorium Rzeczypospolitej Polskiej, które nie stosują MSR;
+- **2)** przychody w rozumieniu ram sprawozdawczości finansowej stosowanych przez jednostkę, na podstawie których są sporządzane sprawozdania finansowe – w przypadku jednostek innych niż określone w pkt 1.
 
 **Art. 63m.**
 
 1. Sprawozdanie o podatku dochodowym za rok obrotowy sporządza, publikuje i udostępnia:
 
-- **1)** jednostka dominująca najwyższego szczebla, jeżeli przychody ujęte rocznym skonsolidowanym sprawozdaniu finansowym tej jednostki przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 3 500 000 000 zł;
-- **2)** jednostka samodzielna, jeżeli przychody ujęte rocznym sprawozdaniu finansowym tej jednostki przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 3 500 000 000 zł.
+- **1)** jednostka dominująca najwyższego szczebla, jeżeli przychody ujęte w rocznym skonsolidowanym sprawozdaniu finansowym tej jednostki przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 3 500 000 000 zł;
+- **2)** jednostka samodzielna, jeżeli przychody ujęte w rocznym sprawozdaniu finansowym tej jednostki przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 3 500 000 000 zł.
 
 2. Przepis ust. 1 stosuje się wyłącznie do jednostki dominującej najwyższego szczebla i jednostki samodzielnej będących:
 
 - **1)** spółką kapitałową;
 - **2)** spółką komandytowo-akcyjną;
+- **3)** spółką jawną lub komandytową, której wszystkimi wspólnikami ponoszącymi nieograniczoną odpowiedzialność są spółki kapitałowe, spółki komandytowo-akcyjne lub spółki z innych państw o podobnej do tych spółek formie prawnej.
 
-3. Przepisu ust. 1 nie stosuje się, przypadku gdy:
+3. Przepisu ust. 1 nie stosuje się, w przypadku gdy:
 
 - **1)** jednostka dominująca najwyższego szczebla i jej wszystkie jednostki zależne oraz ich oddziały albo jednostka samodzielna i jej oddziały mają siedzibę lub stałe miejsce prowadzenia działalności wyłącznie na terytorium Rzeczypospolitej Polskiej, lub
-- **2)** jednostka dominująca najwyższego szczebla albo jednostka samodzielna ujawnia sprawozdaniu z działalności informacje zgodnie z art. 111a ust. 1 pkt 1 i ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488), pod warunkiem że informacje te dotyczą odpowiednio całej działalności prowadzonej przez jednostki powiązane ujęte rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla albo całej działalności jednostki samodzielnej.
+- **2)** jednostka dominująca najwyższego szczebla albo jednostka samodzielna ujawnia w sprawozdaniu z działalności informacje zgodnie z art. 111a ust. 1 pkt 1 i ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488), pod warunkiem że informacje te dotyczą odpowiednio całej działalności prowadzonej przez jednostki powiązane ujęte w rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla albo całej działalności jednostki samodzielnej.
 
-4. W celu publikacji i udostępnienia sprawozdania o podatku dochodowym kierownik jednostki określonej ust. 1, terminie 12 miesięcy od dnia bilansowego:
+4. W celu publikacji i udostępnienia sprawozdania o podatku dochodowym kierownik jednostki określonej w ust. 1, w terminie 12 miesięcy od dnia bilansowego:
 
 - **1)** składa we właściwym rejestrze sądowym sprawozdanie o podatku dochodowym oraz
 - **2)** zamieszcza sprawozdanie o podatku dochodowym na stronie internetowej jednostki, przy czym sprawozdanie to jest udostępniane na tej stronie przez okres co najmniej 5 lat.
 
-5. Kierownik jednostki określonej ust. 1 wraz ze sprawozdaniem o podatku dochodowym składa we właściwym rejestrze sądowym również odmowę podpisu, do której ma zastosowanie art. 52 ust. 2, oraz oświadczenie albo odmowę złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b, jeżeli zostały sporządzone.
+5. Kierownik jednostki określonej w ust. 1 wraz ze sprawozdaniem o podatku dochodowym składa we właściwym rejestrze sądowym również odmowę podpisu, do której ma zastosowanie art. 52 ust. 2, oraz oświadczenie albo odmowę złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b, jeżeli zostały sporządzone.
 
-6. Jednostki, o których mowa ust. 1, przestają podlegać obowiązkom określonym tym przepisie, jeżeli dla każdego z 2 ostatnich lat obrotowych: samodzielnej są niższe niż 3 500 000 000 zł – przypadku, o którym mowa ust. 1 pkt 2.
+6. Jednostki, o których mowa w ust. 1, przestają podlegać obowiązkom określonym w tym przepisie, jeżeli dla każdego z 2 ostatnich lat obrotowych:
+
+- **1)** przychody ujęte w rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla są niższe niż 3 500 000 000 zł – w przypadku, o którym mowa w ust. 1 pkt 1;
+- **2)** przychody ujęte w rocznym sprawozdaniu finansowym jednostki samodzielnej są niższe niż 3 500 000 000 zł – w przypadku, o którym mowa w ust. 1 pkt 2.
 
 **Art. 63n.**
 
 1. Sprawozdanie o podatku dochodowym za rok obrotowy, dotyczące odpowiednio jednostki dominującej najwyższego szczebla albo jednostki samodzielnej, publikuje i udostępnia:
 
 - **1)** jednostka zależna, pod warunkiem że:
-    - **a)** 2 ostatnich latach obrotowych jednostka ta przekracza co najmniej dwie z trzech wielkości, o których mowa art. 3 ust. 1c pkt 1, oraz
-    - **b)** jednostka ta jest kontrolowana przez jednostkę dominującą najwyższego szczebla mającą siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, jeżeli przychody ujęte rocznym skonsolidowanym sprawozdaniu finansowym tej jednostki dominującej najwyższego szczebla dla każdego z 2 ostatnich lat obrotowych przekraczają kwotę 750 000 000 euro;
+    - **a)** w 2 ostatnich latach obrotowych jednostka ta przekracza co najmniej dwie z trzech wielkości, o których mowa w art. 3 ust. 1c pkt 1, oraz
+    - **b)** jednostka ta jest kontrolowana przez jednostkę dominującą najwyższego szczebla mającą siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, jeżeli przychody ujęte w rocznym skonsolidowanym sprawozdaniu finansowym tej jednostki dominującej najwyższego szczebla dla każdego z 2 ostatnich lat obrotowych przekraczają kwotę 750 000 000 euro;
 
-- **2)** oddział rozumieniu art. 3 pkt 4 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, którego przychody przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę, o której mowa art. 3 ust. 1c pkt 1 lit. b, pod warunkiem że oddział ten został utworzony przez spółkę o formie prawnej podobnej do spółki kapitałowej albo spółki komandytowo-akcyjnej będącą:
-    - **a)** jednostką samodzielną mającą siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, jeżeli przychody ujęte rocznym sprawozdaniu finansowym tej jednostki przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 750 000 000 euro, albo finansowym jednostki dominującej najwyższego szczebla tej grupy kapitałowej przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 750 000 000 euro, oraz – jednostka dominująca najwyższego szczebla tej grupy kapitałowej ma siedzibę poza terytorium Europejskiego Obszaru Gospodarczego i nie posiada ona na terytorium Europejskiego Obszaru Gospodarczego jednostki zależnej przekraczającej co najmniej dwie z trzech wielkości, o których mowa art. 3 ust. 1c pkt 1.
+- **2)** oddział w rozumieniu art. 3 pkt 4 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, którego przychody przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę, o której mowa w art. 3 ust. 1c pkt 1 lit. b, pod warunkiem że oddział ten został utworzony przez spółkę o formie prawnej podobnej do spółki kapitałowej albo spółki komandytowo-akcyjnej będącą:
+    - **a)** jednostką samodzielną mającą siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, jeżeli przychody ujęte w rocznym sprawozdaniu finansowym tej jednostki przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 750 000 000 euro, albo
+    - **b)** jednostką powiązaną grupy kapitałowej mającą siedzibę lub miejsce sprawowania zarządu poza terytorium Europejskiego Obszaru Gospodarczego, jeżeli: – przychody ujęte w rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla tej grupy kapitałowej przekraczają dla każdego z 2 ostatnich lat obrotowych kwotę 750 000 000 euro, oraz – jednostka dominująca najwyższego szczebla tej grupy kapitałowej ma siedzibę poza terytorium Europejskiego Obszaru Gospodarczego i nie posiada ona na terytorium Europejskiego Obszaru Gospodarczego jednostki zależnej przekraczającej co najmniej dwie z trzech wielkości, o których mowa w art. 3 ust. 1c pkt 1.
 
 2. Przepis ust. 1 pkt 1 stosuje się wyłącznie do jednostki zależnej będącej:
 
@@ -84,90 +96,116 @@ source: "isap-pdf"
 
 3. W przypadku gdy sprawozdanie o podatku dochodowym nie jest dostępne, jednostka zależna albo oddział zwraca się odpowiednio do jednostki dominującej najwyższego szczebla albo jednostki samodzielnej o przekazanie:
 
-- **1)** tego sprawozdania celu jego opublikowania i udostępnienia przez jednostkę zależną albo oddział albo
+- **1)** tego sprawozdania w celu jego opublikowania i udostępnienia przez jednostkę zależną albo oddział albo
 - **2)** informacji niezbędnych do sporządzenia sprawozdania o podatku dochodowym przez jednostkę zależną albo oddział.
 
 4. W przypadku gdy jednostka dominująca najwyższego szczebla albo jednostka samodzielna nie przekaże sprawozdania o podatku dochodowym, jednostka zależna albo oddział sporządzają, publikują i udostępniają:
 
 - **1)** sprawozdanie o podatku dochodowym zawierające informacje, które posiadają, uzyskały lub nabyły, oraz
+- **2)** oświadczenie stwierdzające, że odpowiednio jednostka dominująca najwyższego szczebla albo jednostka samodzielna nie udostępniła sprawozdania o podatku dochodowym lub informacji niezbędnych do jego sporządzenia.
 
-5. W celu publikacji i udostępnienia sprawozdania o podatku dochodowym kierownik jednostki zależnej albo oddziału, terminie 12 miesięcy od dnia bilansowego:
+5. W celu publikacji i udostępnienia sprawozdania o podatku dochodowym kierownik jednostki zależnej albo oddziału, w terminie 12 miesięcy od dnia bilansowego:
 
 - **1)** składa we właściwym rejestrze sądowym:
-    - **a)** sprawozdanie o podatku dochodowym, o którym mowa ust. 4 pkt 1, wraz z oświadczeniem, o którym mowa ust. 4 pkt 2, albo
+    - **a)** sprawozdanie o podatku dochodowym, o którym mowa w ust. 4 pkt 1, wraz z oświadczeniem, o którym mowa w ust. 4 pkt 2, albo
     - **b)** sprawozdanie o podatku dochodowym sporządzone odpowiednio przez jednostkę dominującą najwyższego szczebla albo jednostkę samodzielną, jeżeli jednostka zależna albo oddział zostały wskazane do złożenia sprawozdania o podatku dochodowym do rejestru zgodnie z ust. 7 pkt 3, oraz
 
-- **2)** zamieszcza sprawozdanie o podatku dochodowym, a przypadku sprawozdania o podatku dochodowym, o którym mowa ust. 4 pkt 1, również oświadczenie, o którym mowa ust. 4 pkt 2, odpowiednio na stronie internetowej jednostki zależnej albo oddziału, przy czym sprawozdanie i oświadczenie są udostępniane na tej stronie przez okres co najmniej 5 lat.
+- **2)** zamieszcza sprawozdanie o podatku dochodowym, a w przypadku sprawozdania o podatku dochodowym, o którym mowa w ust. 4 pkt 1, również oświadczenie, o którym mowa w ust. 4 pkt 2, odpowiednio na stronie internetowej jednostki zależnej albo oddziału, przy czym sprawozdanie i oświadczenie są udostępniane na tej stronie przez okres co najmniej 5 lat.
 
-6. Kierownik jednostki zależnej albo oddziału wraz ze sprawozdaniem o podatku dochodowym, o którym mowa ust. 4 pkt 1, oraz oświadczeniem, o którym mowa ust. 4 pkt 2, składa we właściwym rejestrze sądowym również odmowę podpisu, do której ma zastosowanie art. 52 ust. 2, oraz oświadczenie albo odmowę złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b, jeżeli zostały sporządzone.
+6. Kierownik jednostki zależnej albo oddziału wraz ze sprawozdaniem o podatku dochodowym, o którym mowa w ust. 4 pkt 1, oraz oświadczeniem, o którym mowa w ust. 4 pkt 2, składa we właściwym rejestrze sądowym również odmowę podpisu, do której ma zastosowanie art. 52 ust. 2, oraz oświadczenie albo odmowę złożenia oświadczenia, do których ma zastosowanie art. 52 ust. 2b, jeżeli zostały sporządzone.
 
-7. Obowiązków określonych ust. 1–4, ust. 5 pkt 1 lit. a i pkt 2 oraz ust. 6 nie stosuje się, jeżeli sprawozdanie o podatku dochodowym jednostki dominującej najwyższego szczebla albo jednostki samodzielnej spełnia łącznie następujące warunki: odczytu maszynowego, na stronie internetowej odpowiednio jednostki dominującej najwyższego szczebla albo jednostki samodzielnej co najmniej jednym języku urzędowym państwa należącego do Europejskiego Obszaru Gospodarczego, przez okres co najmniej 5 lat;
+7. Obowiązków określonych w ust. 1–4, ust. 5 pkt 1 lit. a i pkt 2 oraz ust. 6 nie stosuje się, jeżeli sprawozdanie o podatku dochodowym jednostki dominującej najwyższego szczebla albo jednostki samodzielnej spełnia łącznie następujące warunki:
 
-- **3)** wskazuje nazwę i siedzibę statutową jednej jednostki zależnej albo nazwę i adres jednego oddziału, które podlegają przepisom prawa państwa należącego do Europejskiego Obszaru Gospodarczego i które zostały wyznaczone do złożenia tego sprawozdania do rejestru zgodnie z przepisami wdrażającymi art. 14–28 dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46, z późn. zm. ).
+- **1)** jest sporządzone odpowiednio przez jednostkę dominującą najwyższego szczebla albo jednostkę samodzielną zgodnie z art. 63o;
+- **2)** jest nieodpłatnie udostępnione, w terminie 12 miesięcy po dniu bilansowym, w postaci elektronicznej w formacie nadającym się do odczytu maszynowego, na stronie internetowej odpowiednio jednostki dominującej najwyższego szczebla albo jednostki samodzielnej w co najmniej jednym języku urzędowym państwa należącego do Europejskiego Obszaru Gospodarczego, przez okres co najmniej 5 lat;
+- **3)** wskazuje nazwę i siedzibę statutową jednej jednostki zależnej albo nazwę i adres jednego oddziału, które podlegają przepisom prawa państwa należącego do Europejskiego Obszaru Gospodarczego i które zostały wyznaczone do złożenia tego sprawozdania do rejestru zgodnie z przepisami wdrażającymi art. 14–28 dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46, z późn. zm. ).
 
-8. Jednostka zależna i oddział przestają podlegać obowiązkom określonym ust. 1, jeżeli dla każdego z 2 ostatnich lat obrotowych:
+8. Jednostka zależna i oddział przestają podlegać obowiązkom określonym w ust. 1, jeżeli dla każdego z 2 ostatnich lat obrotowych:
 
-- **1)** jednostka zależna nie przekracza dwóch z trzech wielkości, o których mowa art. 3 ust. 1c pkt 1, lub
-- **2)** przychody ujęte rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla, o której mowa ust. 1 pkt 1 lit. b albo ust. 1 pkt 2 lit. b, są niższe niż 750 000 000 euro, lub
-- **3)** przychody oddziału są niższe niż kwota, o której mowa art. 3 ust. 1c pkt 1 lit. b, lub
-- **4)** przychody ujęte rocznym sprawozdaniu finansowym jednostki samodzielnej, o której mowa ust. 1 pkt 2 lit. a, są niższe niż 750 000 000 euro.
+- **1)** jednostka zależna nie przekracza dwóch z trzech wielkości, o których mowa w art. 3 ust. 1c pkt 1, lub
+- **2)** przychody ujęte w rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla, o której mowa w ust. 1 pkt 1 lit. b albo ust. 1 pkt 2 lit. b, są niższe niż 750 000 000 euro, lub
+- **3)** przychody oddziału są niższe niż kwota, o której mowa w art. 3 ust. 1c pkt 1 lit. b, lub
+- **4)** przychody ujęte w rocznym sprawozdaniu finansowym jednostki samodzielnej, o której mowa w ust. 1 pkt 2 lit. a, są niższe niż 750 000 000 euro.
 
-10. Do jednostek zależnych i oddziałów, które nie spełniają kryteriów określonych odpowiednio ust. 1 pkt 1 lit. a albo pkt 2, a które zostały utworzone wyłącznie celu obejścia wymogów sprawozdawczych określonych niniejszym rozdziale, przepisy ust. 1–9 stosuje się odpowiednio.
+9. Wyrażone w euro kwoty przelicza się na kwoty w walucie krajowej państwa trzeciego według kursu wymiany obowiązującego na dzień 21 grudnia 2021 r. ogłoszonego w Dzienniku Urzędowym Unii Europejskiej i zaokrągla się do tysiąca.
+
+10. Do jednostek zależnych i oddziałów, które nie spełniają kryteriów określonych odpowiednio w ust. 1 pkt 1 lit. a albo pkt 2, a które zostały utworzone wyłącznie w celu obejścia wymogów sprawozdawczych określonych w niniejszym rozdziale, przepisy ust. 1–9 stosuje się odpowiednio.
 
 **Art. 63o.**
 
-1. Sprawozdanie o podatku dochodowym jest sporządzane na dzień bilansowy i obejmuje informacje dotyczące całej działalności jednostki samodzielnej albo jednostki dominującej najwyższego szczebla, tym działalności wszystkich jednostek zależnych ujętych skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla, za dany rok obrotowy.
+1. Sprawozdanie o podatku dochodowym jest sporządzane na dzień bilansowy i obejmuje informacje dotyczące całej działalności jednostki samodzielnej albo jednostki dominującej najwyższego szczebla, w tym działalności wszystkich jednostek zależnych ujętych w skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla, za dany rok obrotowy.
 
 2. Sprawozdanie o podatku dochodowym zawiera następujące informacje:
 
-- **1)** nazwę jednostki dominującej najwyższego szczebla albo jednostki samodzielnej oraz wykaz wszystkich jednostek zależnych, które zostały ujęte skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla, odniesieniu do danego roku obrotowego, mających siedzibę państwie należącym do Europejskiego Obszaru Gospodarczego lub jurysdykcjach podatkowych wymienionych załącznikach I i II do konkluzji Rady;
+- **1)** nazwę jednostki dominującej najwyższego szczebla albo jednostki samodzielnej oraz wykaz wszystkich jednostek zależnych, które zostały ujęte w skonsolidowanym sprawozdaniu finansowym jednostki dominującej najwyższego szczebla, w odniesieniu do danego roku obrotowego, mających siedzibę w państwie należącym do Europejskiego Obszaru Gospodarczego lub w jurysdykcjach podatkowych wymienionych w załącznikach I i II do konkluzji Rady;
 - **2)** rok obrotowy;
 - **3)** walutę prezentacji sprawozdania o podatku dochodowym;
-- **4)** krótki opis charakteru działalności jednostek określonych ust. 1;
-- **5)** liczbę pracowników przeliczeniu na pełne etaty;
-- **6)** przychody, tym z transakcji ze stronami powiązanymi, przez które rozumie się podmioty powiązane zdefiniowane MSR, które stanowią:
-    - **a)** sumę przychodów, z wyłączeniem korekt wartości i dywidend otrzymanych od jednostek powiązanych – przypadku jednostek mających siedzibę lub miejsce sprawowania zarządu na terytorium Rzeczypospolitej Polskiej, które nie stosują MSR,
+- **4)** krótki opis charakteru działalności jednostek określonych w ust. 1;
+- **5)** liczbę pracowników w przeliczeniu na pełne etaty;
+- **6)** przychody, w tym z transakcji ze stronami powiązanymi, przez które rozumie się podmioty powiązane zdefiniowane w MSR, które stanowią:
+    - **a)** sumę przychodów, z wyłączeniem korekt wartości i dywidend otrzymanych od jednostek powiązanych – w przypadku jednostek mających siedzibę lub miejsce sprawowania zarządu na terytorium Rzeczypospolitej Polskiej, które nie stosują MSR,
+    - **b)** przychody w rozumieniu ram sprawozdawczości finansowej, na podstawie których są sporządzane sprawozdania finansowe, z wyłączeniem korekt wartości i dywidend otrzymanych od jednostek powiązanych – w przypadku innym niż określony w lit. a;
 
 - **7)** kwotę zysku lub straty przed opodatkowaniem;
-- **8)** kwotę podatku dochodowego należnego danym roku obrotowym, która stanowi bieżące obciążenie podatkowe z tytułu podlegających opodatkowaniu zysków lub strat roku obrotowym rozpoznanym przez jednostki i oddziały danej jurysdykcji podatkowej, bez uwzględniania podatku odroczonego i rezerw na warunkowe zobowiązania podatkowe;
-- **9)** kwotę podatku dochodowego zapłaconego danym roku obrotowym przez jednostki i oddziały danej jurysdykcji podatkowej, tym kwotę podatku u źródła zapłaconego przez inne jednostki odniesieniu do płatności na rzecz jednostek i oddziałów ramach grupy kapitałowej;
-- **10)** kwotę niepodzielonego zysku z lat ubiegłych na koniec danego roku obrotowego, obejmującą kwotę zysku z ubiegłych lat obrotowych i kwotę zysku z danego roku obrotowego, co do którego nie podjęto decyzji o podziale, przy czym przypadku oddziałów niepodzielony zysk z lat ubiegłych oznacza niepodzielony zysk z lat ubiegłych jednostki, która utworzyła dany oddział;
+- **8)** kwotę podatku dochodowego należnego w danym roku obrotowym, która stanowi bieżące obciążenie podatkowe z tytułu podlegających opodatkowaniu zysków lub strat w roku obrotowym rozpoznanym przez jednostki i oddziały w danej jurysdykcji podatkowej, bez uwzględniania podatku odroczonego i rezerw na warunkowe zobowiązania podatkowe;
+- **9)** kwotę podatku dochodowego zapłaconego w danym roku obrotowym przez jednostki i oddziały w danej jurysdykcji podatkowej, w tym kwotę podatku u źródła zapłaconego przez inne jednostki w odniesieniu do płatności na rzecz jednostek i oddziałów w ramach grupy kapitałowej;
+- **10)** kwotę niepodzielonego zysku z lat ubiegłych na koniec danego roku obrotowego, obejmującą kwotę zysku z ubiegłych lat obrotowych i kwotę zysku z danego roku obrotowego, co do którego nie podjęto decyzji o podziale, przy czym w przypadku oddziałów niepodzielony zysk z lat ubiegłych oznacza niepodzielony zysk z lat ubiegłych jednostki, która utworzyła dany oddział;
 - **11)** informację, że sprawozdanie zostało sporządzone zgodnie z pkt 1–10 lub ust. 4.
 
-3. Sprawozdanie o podatku dochodowym może zawierać, stosownych przypadkach na poziomie grupy kapitałowej, ogólny opis zawierający wyjaśnienia istotnych rozbieżności między kwotami ujawnionymi zgodnie z ust. 2 pkt 8 i 9, z uwzględnieniem odpowiednich kwot, które dotyczą poprzednich lat obrotowych.
+3. Sprawozdanie o podatku dochodowym może zawierać, w stosownych przypadkach na poziomie grupy kapitałowej, ogólny opis zawierający wyjaśnienia istotnych rozbieżności między kwotami ujawnionymi zgodnie z ust. 2 pkt 8 i 9, z uwzględnieniem odpowiednich kwot, które dotyczą poprzednich lat obrotowych.
 
-4. Informacje, o których mowa ust. 2, mogą być przedstawiane sposób określony przepisach wydanych na podstawie art. 87 ust. 2 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241). art. 48c ust. 4 dyrektywy Parlamentu Europejskiego i Rady 2013/34/UE z dnia 26 czerwca 2013 r. sprawie rocznych sprawozdań finansowych, skonsolidowanych sprawozdań finansowych i powiązanych sprawozdań niektórych rodzajów jednostek, zmieniającej dyrektywę Parlamentu Europejskiego i Rady 2006/43/WE oraz uchylającej dyrektywy Rady 78/660/EWG i 83/349/EWG (Dz. Urz. UE L 182 z 29.06.2013, str. 19, z późn. zm. ).
+4. Informacje, o których mowa w ust. 2, mogą być przedstawiane w sposób określony w przepisach wydanych na podstawie art. 87 ust. 2 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241).
 
-6. Informacje zawarte sprawozdaniu o podatku dochodowym sporządzanym zgodnie z ust. 2 lub 4 są przedstawiane odrębnie dla:
+5. Informacje zawarte w sprawozdaniu o podatku dochodowym sporządzanym zgodnie z ust. 2 lub 4 przedstawia się w formacie nadającym się do odczytu maszynowego i przy użyciu wspólnego wzoru określonych przez Komisję Europejską w drodze aktów wykonawczych wydanych na podstawie art. 48c ust. 4 dyrektywy Parlamentu Europejskiego i Rady 2013/34/UE z dnia 26 czerwca 2013 r. w sprawie rocznych sprawozdań finansowych, skonsolidowanych sprawozdań finansowych i powiązanych sprawozdań niektórych rodzajów jednostek, zmieniającej dyrektywę Parlamentu Europejskiego i Rady 2006/43/WE oraz uchylającej dyrektywy Rady 78/660/EWG i 83/349/EWG (Dz. Urz. UE L 182 z 29.06.2013, str. 19, z późn. zm. ).
+
+6. Informacje zawarte w sprawozdaniu o podatku dochodowym sporządzanym zgodnie z ust. 2 lub 4 są przedstawiane odrębnie dla:
 
 - **1)** każdego państwa należącego do Europejskiego Obszaru Gospodarczego;
-- **2)** każdej jurysdykcji podatkowej, która na dzień 1 marca roku obrotowego, za który ma być sporządzone sprawozdanie o podatku dochodowym, jest wymieniona załączniku I do konkluzji Rady;
-- **3)** każdej jurysdykcji podatkowej, która na dzień 1 marca roku obrotowego, za który ma być sporządzone sprawozdanie o podatku dochodowym, oraz na dzień 1 marca poprzedniego roku obrotowego była wymieniona załączniku II do konkluzji Rady.
+- **2)** każdej jurysdykcji podatkowej, która na dzień 1 marca roku obrotowego, za który ma być sporządzone sprawozdanie o podatku dochodowym, jest wymieniona w załączniku I do konkluzji Rady;
+- **3)** każdej jurysdykcji podatkowej, która na dzień 1 marca roku obrotowego, za który ma być sporządzone sprawozdanie o podatku dochodowym, oraz na dzień 1 marca poprzedniego roku obrotowego była wymieniona w załączniku II do konkluzji Rady.
 
-7. W przypadku jurysdykcji podatkowych innych niż określone ust. 6 informacje zawarte sprawozdaniu o podatku dochodowym sporządzanym zgodnie z ust. 2 lub 4 przedstawia się formie zagregowanej.
+7. W przypadku jurysdykcji podatkowych innych niż określone w ust. 6 informacje zawarte w sprawozdaniu o podatku dochodowym sporządzanym zgodnie z ust. 2 lub 4 przedstawia się w formie zagregowanej.
 
-8. W przypadku gdy państwo należące do Europejskiego Obszaru Gospodarczego obejmuje większą liczbę jurysdykcji podatkowych, informacje zawarte sprawozdaniu o podatku dochodowym sporządzanym zgodnie z ust. 2 lub 4 przedstawia się łącznie na poziomie tego państwa. działalności lub stałej działalności gospodarczej.
+8. W przypadku gdy państwo należące do Europejskiego Obszaru Gospodarczego obejmuje większą liczbę jurysdykcji podatkowych, informacje zawarte w sprawozdaniu o podatku dochodowym sporządzanym zgodnie z ust. 2 lub 4 przedstawia się łącznie na poziomie tego państwa.
 
-10. W przypadku gdy działalność większej liczby jednostek powiązanych i ich oddziałów może podlegać podatkowi dochodowemu jednej jurysdykcji podatkowej, informacje przedstawione odniesieniu do tej jurysdykcji podatkowej stanowią sumę informacji dotyczących takiej działalności każdej jednostki powiązanej i jej oddziałów tej jurysdykcji podatkowej.
+9. Informacje zawarte w sprawozdaniu o podatku dochodowym przedstawia się w odniesieniu do każdej jurysdykcji podatkowej, w której działalność grupy kapitałowej albo jednostki samodzielnej może podlegać podatkowi dochodowemu, na podstawie siedziby, stałego miejsca prowadzenia działalności lub stałej działalności gospodarczej.
+
+10. W przypadku gdy działalność większej liczby jednostek powiązanych i ich oddziałów może podlegać podatkowi dochodowemu w jednej jurysdykcji podatkowej, informacje przedstawione w odniesieniu do tej jurysdykcji podatkowej stanowią sumę informacji dotyczących takiej działalności każdej jednostki powiązanej i jej oddziałów w tej jurysdykcji podatkowej.
 
 11. Informacji o danej działalności nie można przypisać równocześnie do więcej niż jednej jurysdykcji podatkowej.
 
-12. W przypadku gdy ujawnienie którejkolwiek z informacji zawartych sprawozdaniu o podatku dochodowym sporządzonym zgodnie z ust. 2 lub 4 miałoby istotnie szkodliwy wpływ na sytuację rynkową jednostki, której dotyczy sprawozdanie o podatku dochodowym, informacja ta może być tymczasowo pominięta sprawozdaniu o podatku dochodowym. W takim przypadku sprawozdaniu o podatku dochodowym wskazuje się na pominięcie określonej informacji oraz uzasadnia przyczynę pominięcia, a pominiętą informację ujawnia się późniejszym sprawozdaniu o podatku dochodowym terminie nie dłuższym niż 5 lat od dnia pominięcia tej informacji.
+12. W przypadku gdy ujawnienie którejkolwiek z informacji zawartych w sprawozdaniu o podatku dochodowym sporządzonym zgodnie z ust. 2 lub 4 miałoby istotnie szkodliwy wpływ na sytuację rynkową jednostki, której dotyczy sprawozdanie o podatku dochodowym, informacja ta może być tymczasowo pominięta w sprawozdaniu o podatku dochodowym. W takim przypadku w sprawozdaniu o podatku dochodowym wskazuje się na pominięcie określonej informacji oraz uzasadnia przyczynę pominięcia, a pominiętą informację ujawnia się w późniejszym sprawozdaniu o podatku dochodowym w terminie nie dłuższym niż 5 lat od dnia pominięcia tej informacji.
 
-13. Przepisu ust. 12 nie stosuje się do informacji dotyczących jurysdykcji podatkowych wymienionych załącznikach I i II do konkluzji Rady.
+13. Przepisu ust. 12 nie stosuje się do informacji dotyczących jurysdykcji podatkowych wymienionych w załącznikach I i II do konkluzji Rady.
 
-14. Sprawozdanie o podatku dochodowym jest sporządzane języku polskim i walucie polskiej.
+14. Sprawozdanie o podatku dochodowym jest sporządzane w języku polskim i walucie polskiej.
 
-15. Sprawozdanie o podatku dochodowym oraz oświadczenie, o którym mowa art. 63n ust. 4 pkt 2, sporządza się postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+15. Sprawozdanie o podatku dochodowym oraz oświadczenie, o którym mowa w art. 63n ust. 4 pkt 2, sporządza się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
-16. Do sprawozdania o podatku dochodowym oraz oświadczenia, o którym mowa art. 63n ust. 4 pkt 2, stosuje się odpowiednio przepisy art. 52 ust. 1, zakresie przedstawiania tego sprawozdania właściwym organom, oraz art. 52
+16. Do sprawozdania o podatku dochodowym oraz oświadczenia, o którym mowa w art. 63n ust. 4 pkt 2, stosuje się odpowiednio przepisy art. 52 ust. 1, w zakresie przedstawiania tego sprawozdania właściwym organom, oraz art. 52 ust. 2–2e, z tym że tego sprawozdania ani tego oświadczenia nie podpisuje osoba, której powierzono prowadzenie ksiąg rachunkowych.”;
 
-- **1)** nieprowadzenia ksiąg rachunkowych, prowadzenia ich wbrew przepisom ustawy lub podawania tych księgach nierzetelnych danych,
-- **2)** niesporządzenia sprawozdania finansowego, skonsolidowanego sprawozdania finansowego, sprawozdania z działalności, sprawozdania z działalności grupy kapitałowej, sprawozdania z płatności na rzecz administracji publicznej, skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej, sprawozdania o podatku dochodowym, sporządzenia ich niezgodnie z przepisami ustawy lub zawarcia tych sprawozdaniach nierzetelnych danych – podlega grzywnie albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”;
-- **4)** art. 78 ust. 1 otrzymuje brzmienie: „1. Biegły rewident, który sporządza niezgodną ze stanem faktycznym opinię o sprawozdaniu finansowym i stanowiących podstawę jego sporządzenia księgach rachunkowych jednostki lub sytuacji finansowo-majątkowej tej jednostki, podlega grzywnie albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”;
-- **5)** art. 79 pkt 4 i 4a otrzymują brzmienie: „4) nie składa sprawozdania finansowego, skonsolidowanego sprawozdania finansowego, sprawozdania z działalności, sprawozdania z działalności grupy kapitałowej, sprawozdania z płatności na rzecz administracji publicznej, skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej, sprawozdania o podatku dochodowym we właściwym rejestrze sądowym, 4a) nie zamieszcza na stronie internetowej jednostki dokumentów, o których mowa art. 49b ust. 9, art. 55 ust. 2c i art. 69 ust. 5, oraz sprawozdania dochodowego od osób fizycznych oraz sposobu wydatkowania środków pochodzących z 1% podatku dochodowego od osób fizycznych” zastępuje się wyrazami „uzyskanych przychodów i poniesionych kosztów z tytułu 1,5 % podatku dochodowego od osób fizycznych oraz sposobu wydatkowania środków pochodzących z 1,5 % podatku dochodowego od osób fizycznych”.
+- **3)** art. 77 otrzymuje brzmienie: „Art. 77. Kto wbrew przepisom ustawy dopuszcza do:
+- **1)** nieprowadzenia ksiąg rachunkowych, prowadzenia ich wbrew przepisom ustawy lub podawania w tych księgach nierzetelnych danych,
+- **2)** niesporządzenia sprawozdania finansowego, skonsolidowanego sprawozdania finansowego, sprawozdania z działalności, sprawozdania z działalności grupy kapitałowej, sprawozdania z płatności na rzecz administracji publicznej, skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej, sprawozdania o podatku dochodowym, sporządzenia ich niezgodnie z przepisami ustawy lub zawarcia w tych sprawozdaniach nierzetelnych danych – podlega grzywnie albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”;
+- **4)** w art. 78 ust. 1 otrzymuje brzmienie: „1. Biegły rewident, który sporządza niezgodną ze stanem faktycznym opinię o sprawozdaniu finansowym i stanowiących podstawę jego sporządzenia księgach rachunkowych jednostki lub sytuacji finansowo-majątkowej tej jednostki, podlega grzywnie albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”;
+- **5)** w art. 79 pkt 4 i 4a otrzymują brzmienie: „4) nie składa sprawozdania finansowego, skonsolidowanego sprawozdania finansowego, sprawozdania z działalności, sprawozdania z działalności grupy kapitałowej, sprawozdania z płatności na rzecz administracji publicznej, skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej, sprawozdania o podatku dochodowym we właściwym rejestrze sądowym, 4a) nie zamieszcza na stronie internetowej jednostki dokumentów, o których mowa w art. 49b ust. 9, art. 55 ust. 2c i art. 69 ust. 5, oraz sprawozdania o podatku dochodowym i oświadczenia, o którym mowa w art. 63n ust. 4 pkt 2,”;
+- **6)** w załączniku nr 6 do ustawy w części „Informacja dodatkowa” w pkt 7 wyrazy „uzyskanych przychodów i poniesionych kosztów z tytułu 1% podatku dochodowego od osób fizycznych oraz sposobu wydatkowania środków pochodzących z 1% podatku dochodowego od osób fizycznych” zastępuje się wyrazami „uzyskanych przychodów i poniesionych kosztów z tytułu 1,5 % podatku dochodowego od osób fizycznych oraz sposobu wydatkowania środków pochodzących z 1,5 % podatku dochodowego od osób fizycznych”.
 
 **Art. 2.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2024 r. poz. 979 i 1863) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2023 r. poz. 1015, 1723 i 1843) art. 83 ust. 3 po pkt 16 dodaje się pkt 16a brzmieniu: „16a) informację o tym, czy jednostka, o której mowa art. 63m ust. 1 albo art. 63n ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości, odniesieniu do roku obrotowego poprzedzającego rok obrotowy, za który sporządzono sprawozdanie finansowe objęte badaniem, miała obowiązek złożenia do właściwego rejestru sądowego sprawozdania o podatku dochodowym zgodnie z art. 63m ust. 4 pkt 1 i ust. 5 albo art. 63n ust. 5 pkt 1 i ust. 6 tej ustawy, a jeżeli miała taki obowiązek – informację o tym, czy sprawozdanie to zostało złożone do właściwego rejestru sądowego zgodnie z tymi przepisami;”. z wyjątkiem art. 1 pkt 2 zakresie art. 63m ust. 4 pkt 1 i ust. 5 i art. 63n ust. 5 pkt 1 i ust. 6, art. 2 oraz art. 3, które wchodzą życie z dniem 22 czerwca 2025 r.
+- **1)** w art. 8a w ust. 1 pkt 5 otrzymuje brzmienie: „5) roczne sprawozdania finansowe oraz roczne skonsolidowane sprawozdania finansowe grup kapitałowych w rozumieniu przepisów o rachunkowości, odpisy uchwał o zatwierdzeniu tych sprawozdań i podziale zysku lub pokryciu straty, a także sprawozdania z badania, sprawozdania z działalności jednostek, sprawozdania z działalności grup kapitałowych, sprawozdania z atestacji sprawozdawczości zrównoważonego rozwoju, sprawozdania z płatności na rzecz administracji publicznej, skonsolidowane sprawozdania z płatności na rzecz administracji publicznej, sprawozdania o podatku dochodowym oraz sprawozdawczość zrównoważonego rozwoju grupy kapitałowej jednostki dominującej z państwa spoza Europejskiego Obszaru Gospodarczego, jednostki dominującej wyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub jednostki dominującej najwyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub sprawozdawczość zrównoważonego rozwoju jednostki samodzielnej z państwa spoza Europejskiego Obszaru Gospodarczego, jeżeli obowiązek ich sporządzenia wynika z przepisów szczególnych.”;
+- **2)** w art. 9a ust. 2 otrzymuje brzmienie: „2. Do repozytorium dokumentów finansowych są składane dokumenty, o których mowa w art. 63m ust. 4 pkt 1 i ust. 5, art. 63n ust. 5 pkt 1 i ust. 6, art. 63v pkt 3, art. 63za pkt 3, art. 63zd ust. 8 oraz art. 69 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863).”;
+- **3)** w art. 12 w ust. 4 w zdaniu drugim wyrazy „art. 40 pkt 2–5c” zastępuje się wyrazami „art. 40 pkt 2–5d”;
+- **4)** w art. 19e:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Złożenie dokumentów, o których mowa w art. 63m ust. 4 pkt 1 i ust. 5, art. 63n ust. 5 pkt 1 i ust. 6, art. 63v pkt 3, art. 63za pkt 3, art. 63zd ust. 8 oraz art. 69 ustawy z dnia 29 września 1994 r. o rachunkowości, następuje przez zgłoszenie za pośrednictwem systemu teleinformatycznego udostępnionego do tego celu przez Ministra Sprawiedliwości.”,
+    - **b)** w ust. 7 w zdaniu drugim wyrazy „art. 40 pkt 2–5c” zastępuje się wyrazami „art. 40 pkt 2–5d”;
+
+- **5)** w art. 20 w ust. 1f wyrazy „art. 40 pkt 2–5c i 7” zastępuje się wyrazami „art. 40 pkt 2–5d i 7”;
+- **6)** w art. 40 po pkt 5c dodaje się pkt 5d w brzmieniu: „5d) wzmiankę o złożeniu sprawozdania o podatku dochodowym, jeżeli przepisy o rachunkowości wymagają jego złożenia do sądu rejestrowego;”.”.
+
+**Art. 3.** W ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2023 r. poz. 1015, 1723 i 1843) w art. 83 w ust. 3 po pkt 16 dodaje się pkt 16a w brzmieniu: „16a) informację o tym, czy jednostka, o której mowa w art. 63m ust. 1 albo art. 63n ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości, w odniesieniu do roku obrotowego poprzedzającego rok obrotowy, za który sporządzono sprawozdanie finansowe objęte badaniem, miała obowiązek złożenia do właściwego rejestru sądowego sprawozdania o podatku dochodowym zgodnie z art. 63m ust. 4 pkt 1 i ust. 5 albo art. 63n ust. 5 pkt 1 i ust. 6 tej ustawy, a jeżeli miała taki obowiązek – informację o tym, czy sprawozdanie to zostało złożone do właściwego rejestru sądowego zgodnie z tymi przepisami;”.
+
+**Art. 4.** Przepisy ustaw zmienianych w art. 1–3, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie po raz pierwszy do sprawozdania o podatku dochodowym za rok obrotowy rozpoczynający się po dniu 21 czerwca 2024 r.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2 w zakresie art. 63m ust. 4 pkt 1 i ust. 5 i art. 63n ust. 5 pkt 1 i ust. 6, art. 2 oraz art. 3, które wchodzą w życie z dniem 22 czerwca 2025 r.
 

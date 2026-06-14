@@ -8,10 +8,10 @@ pos: 388
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 marca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 388 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 5 marca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000388) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/388/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 5 marca 2020 r.
 w sprawie turnusów readaptacyjno-kondycyjnych dla weteranów poszkodowanych-żołnierzy Na podstawie art. 29a ust. 9 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
-z 2019 r. poz. 1569 i 1726) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2019 r. poz. 1569 i 1726) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb kierowania weteranów poszkodowanych-żołnierzy wraz z pełnoletnim najbliższym członkiem rodziny na turnus readaptacyjno-kondycyjny;
 2) ramowy program turnusu readaptacyjno-kondycyjnego;
-3) wzór wniosku weterana poszkodowanego-żołnierza o skierowanie na turnus readaptacyjno-kondycyjny i wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-żołnierza na turnus readaptacyjno-kondycyjny wraz z miejscem na stanowisko podmiotu kierującego na turnus;
+3) wzór wniosku weterana poszkodowanego-żołnierza o skierowanie na turnus readaptacyjno-kondycyjny i wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-żołnierza na turnus readaptacyjno-kondycyjny – wraz z miejscem na stanowisko podmiotu kierującego na turnus;
 4) podmiot kierujący na turnus readaptacyjno-kondycyjny;
 5) miejsce prowadzenia turnusów readaptacyjno-kondycyjnych.
 § 2. Turnusy readaptacyjno-kondycyjne są prowadzone w Wojskowym Ośrodku Szkoleniowo-Kondycyjnym Mrągowo.
@@ -44,7 +44,7 @@ z 2019 r. poz. 1569 i 1726) zarządza się, co następuje: § 1. Rozporządzenie
 2. Wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-żołnierza na turnus readaptacyjno-kondycyjny jest określony w załączniku nr 2 do rozporządzenia.
 § 8. Ramowy program turnusu readaptacyjno-kondycyjnego jest określony w załączniku nr 3 do rozporządzenia.
 § 9. Rozporządzenie wchodzi w życie z dniem 11 marca 2020 r.
-Minister Obrony Narodowej: wz. T. Zdzikot WZÓR WZÓR KIEROWNIK JEDNOSTKI ORGANIZACYJNEJ PODLEGŁEJ MINISTROWI OBRONY NARODOWEJ WŁAŚCIWEJ DO SPRAW WETERANÓW WNIOSEK O SKIEROWANIE NA TURNUS READAPTACYJNO-KONDYCYJNY W WOJSKOWYM OŚRODKU SZKOLENIOWO-KONDYCYJNYM MRĄGOWO I. DANE SKŁADAJĄCEGO WNIOSEK
+Minister Obrony Narodowej: wz. T. Zdzikot Załącznikidorozporządzenia Ministra ObronyNarodowej z dnia 5 marca 2020 r. (poz. …..) Załączniknr 1 WZÓR WZÓR KIEROWNIK JEDNOSTKI ORGANIZACYJNEJ PODLEGŁEJ MINISTROWI OBRONY NARODOWEJ WŁAŚCIWEJ DO SPRAW WETERANÓW WNIOSEK O SKIEROWANIE NA TURNUS READAPTACYJNO-KONDYCYJNY W WOJSKOWYM OŚRODKU SZKOLENIOWO-KONDYCYJNYM MRĄGOWO I. DANE SKŁADAJĄCEGO WNIOSEK
 1. Nazwisko i imię …………………………………………………………………..….…………………..
 2. Numer PESEL ……………………………..………………………………….…….……….………..….
 3. Seria i numer legitymacji weterana poszkodowanego ……………………….…………….…………….
@@ -55,7 +55,7 @@ Minister Obrony Narodowej: wz. T. Zdzikot WZÓR WZÓR KIEROWNIK JEDNOSTKI ORGANI
 Uzasadnienie (w przypadku niespełniania warunków) .………………………………………………………………………………………………....................................
 ……………………..……………………………………...
 III. ADNOTACJE O ZAKWALIFIKOWANIU WNIOSKODAWCY NA TURNUS Zakwalifikowano na turnus w terminie: od …………………..……..….….... do ………………….…..................
-……………………………….…………………………… WZÓR WZÓR RAMOWY RAMOWY PROGRAMTURNUSU PROGRAM TURNUSU READAPTACYJNO-KONDYCYJNEGO READAPTACYJNO-KONDYCYJNEGO
+……………………………….…………………………… WZÓR WZÓR Załącznik nr 3 RAMOWY RAMOWY PROGRAMTURNUSU PROGRAM TURNUSU READAPTACYJNO-KONDYCYJNEGO READAPTACYJNO-KONDYCYJNEGO
 1. Turnus readaptacyjno-kondycyjny trwa 14 dni.
 2. Weterani poszkodowani-żołnierze biorący udział w turnusie readaptacyjno-kondycyjnym uczestniczą w:
 1) zajęciach psychologicznych;

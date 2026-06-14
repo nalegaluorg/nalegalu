@@ -8,10 +8,10 @@ pos: 669
 act_type: Protokół
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 czerwca 2012 r.
+# DZIENNIK USTAW l RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 czerwca 2012 v r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,5 +25,26 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000669) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/669/text.pdf) |
 
-Protokół między Ministrem Nauki i Szkolnictwa Wyższego rzeczypospolitej Polskiej a Ministerstwem Szkolnictwa, Młodzieży i kultury Fizycznej republiki Czeskiej o współpracy w dziedzinie szkolnictwa wyższego na lata 2011–2014, podpisany w Pradze dnia 24 stycznia 2012 r.
+Poz. 669 o Protokół między Ministrem Nauki i Szkolnictwa Wyższego rzeczypospolitej Polskiej a Ministerstwem Szkolnictwa, Młodzieży i kultury Fizycznej republiki Czeskiej g o współpracy w dziedzinie szkolnictwa wyższego na lata 2011–2014, podpisany w Pradze dnia 24 stycznia 2012 r.
+.
+l c r .
+w o g .
+l c r .
+w o g .
+l c r .
+w o g .
+l c r .
+w o g .
+l c r .
+w o g .
+l c r .
+w o g .
+l c r .
+w o g .
+l c r .
+w o g .
+l c r .
+w o g .
+l c r .
+w
 

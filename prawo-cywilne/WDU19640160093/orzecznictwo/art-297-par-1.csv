@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-475343|2022-07-20|SO|I1 C 65/22|Wyrok|https://www.saos.org.pl/judgments/475343
-467742|2019-06-13|SO|I C 730/18|Wyrok|https://www.saos.org.pl/judgments/467742
+saos_id|date|court|case_number|type|score|saos_url
+546258|2025-12-22|SO|I ACa 2671/22|Wyrok|56|https://www.saos.org.pl/judgments/546258

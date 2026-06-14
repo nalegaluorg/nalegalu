@@ -8,7 +8,7 @@ pos: 154
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
@@ -55,6 +55,7 @@ source: "isap-pdf"
     - **b)** flaga sił powietrznych,
     - **c)** flaga marynarki wojennej,
     - **d)** flaga wojsk specjalnych,
+    - **e)** flaga wojsk obrony terytorialnej.
 
 2. W Siłach Zbrojnych Rzeczypospolitej Polskiej mogą być także używane inne znaki, niewymienione w ust. 1.
 
@@ -80,29 +81,31 @@ source: "isap-pdf"
 
 1. Orłem wojsk lądowych jest orzeł w koronie zamkniętej, ze wzniesionymi skrzydłami, głową zwróconą w prawo, siedzący na tarczy amazonek.
 
-2. Wzór orła wojsk lądowych zawiera załącznik 1.
+2. Wzór orła wojsk lądowych zawiera załącznik nr 1.
 
 **Art. 6.**
 
 1. Orłem lotnictwa wojskowego jest orzeł określony w art. 5, otoczony stylizowanymi skrzydłami husarskimi.
 
+2. Wzór orła lotnictwa wojskowego zawiera załącznik nr 2.
+
 **Art. 7.**
 
 1. Orłem marynarki wojennej jest orzeł określony w art. 5, z umieszczoną na tarczy amazonek koloru niebieskiego złotą kotwicą i liną zwiniętą w kształcie litery „S”.
 
-2. Wzór orła marynarki wojennej zawiera załącznik 3.
+2. Wzór orła marynarki wojennej zawiera załącznik nr 3.
 
 **Art. 7a.**
 
 1. Orłem wojsk specjalnych jest orzeł określony w art. 5, siedzący na tarczy amazonek koloru czarnego.
 
-2. Wzór orła wojsk specjalnych zawiera załącznik 3a.
+2. Wzór orła wojsk specjalnych zawiera załącznik nr 3a.
 
 **Art. 7b.**
 
 1. Orłem wojsk obrony terytorialnej jest orzeł określony w art. 5, z umieszczonym na tarczy amazonek złotym Znakiem Polski Walczącej.
 
-2. Wzór orła wojsk obrony terytorialnej zawiera załącznik 3b.
+2. Wzór orła wojsk obrony terytorialnej zawiera załącznik nr 3b.
 
 #### Rozdział 3 Sztandar jednostki wojskowej
 
@@ -126,7 +129,11 @@ source: "isap-pdf"
 
 2. Sztandar wraz z aktem nadania wręcza jednostce wojskowej Prezydent Rzeczypospolitej Polskiej lub, w jego imieniu, Minister Obrony Narodowej bądź ich przedstawiciel.
 
-3. Wręczenie sztandaru odbywa się w formie uroczystej, ustalonej w ceremoniale wojskowym. ufundowany.
+3. Wręczenie sztandaru odbywa się w formie uroczystej, ustalonej w ceremoniale wojskowym.
+
+**Art. 11.**
+
+1. Sztandar – za zgodą Ministra Obrony Narodowej – może być ufundowany.
 
 2. W wypadku, o którym mowa w ust. 1, w akcie nadania sztandaru wymienia się fundatora.
 
@@ -138,13 +145,17 @@ source: "isap-pdf"
 
 1. Płatem sztandaru jest tkanina biała w kształcie kwadratu, po której obu stronach znajduje się krzyż kawalerski wykonany z tkaniny czerwonej. Barwy sztandaru są białe i czerwone, ustalone dla barw Rzeczypospolitej Polskiej. Jeden bok sztandaru wszyty jest w białą skórę przymocowaną do drzewca 7 gwoździami z białego metalu po każdej stronie płata (drzewca). Boki sztandaru, z wyjątkiem boku przytwierdzonego do drzewca, są obszyte frędzlą złotą.
 
-2. Na stronie głównej płata, pośrodku krzyża kawalerskiego, w czerwonym kręgu znajdują się dwie gałązki wawrzynu, ułożone w kształcie wieńca otwartego w górnej części, haftowane złotym szychem. Pośrodku wieńca jest umieszczony wizerunek orła białego, ustalony ustawą z dnia 9 lutego 1990 r. o zmianie przepisów o godle, barwach i hymnie Rzeczypospolitej Polskiej (Dz. U. poz. 60) – z głową zwróconą do drzewca, haftowany srebrnym szychem; korona, dziób i szpony orła są haftowane złotym szychem. Pomiędzy ramionami krzyża kawalerskiego, w rogach płata, są umieszczone wieńce wawrzynu oraz w ich polach numer jednostki wojskowej, a w razie braku numeru – inicjały jej nazwy, haftowane złotym szychem. Wzór strony głównej płata sztandaru zawierają załączniki 4 i 4a.
+2. Na stronie głównej płata, pośrodku krzyża kawalerskiego, w czerwonym kręgu znajdują się dwie gałązki wawrzynu, ułożone w kształcie wieńca otwartego w górnej części, haftowane złotym szychem. Pośrodku wieńca jest umieszczony wizerunek orła białego, ustalony ustawą z dnia 9 lutego 1990 r. o zmianie przepisów o godle, barwach i hymnie Rzeczypospolitej Polskiej (Dz. U. poz. 60) – z głową zwróconą do drzewca, haftowany srebrnym szychem; korona, dziób i szpony orła są haftowane złotym szychem. Pomiędzy ramionami krzyża kawalerskiego, w rogach płata, są umieszczone wieńce wawrzynu oraz w ich polach numer jednostki wojskowej, a w razie braku numeru – inicjały jej nazwy, haftowane złotym szychem. Wzór strony głównej płata sztandaru zawierają załączniki nr 4 i 4a.
 
-3. Na stronie odwrotnej płata, pośrodku krzyża kawalerskiego, znajduje się wieniec, taki jak na stronie głównej, w środku którego jest umieszczony w trzech wierszach napis „BÓG HONOR OJCZYZNA”, haftowany złotym szychem. Pomiędzy ramionami krzyża, w rogach płata, są umieszczone wieńce wawrzynu, takie jak na stronie głównej, a w ich polach mogą być umieszczone – za zgodą Ministra Obrony Narodowej – herby miejscowości i symbole związane z historią jednostki wojskowej oraz emblematy lub inicjały fundatorów sztandaru. Wzór strony odwrotnej płata sztandaru zawierają załączniki 5 i 5a. z białego metalu. Korona, dziób i szpony orła są koloru złotego.
+3. Na stronie odwrotnej płata, pośrodku krzyża kawalerskiego, znajduje się wieniec, taki jak na stronie głównej, w środku którego jest umieszczony w trzech wierszach napis „BÓG HONOR OJCZYZNA”, haftowany złotym szychem. Pomiędzy ramionami krzyża, w rogach płata, są umieszczone wieńce wawrzynu, takie jak na stronie głównej, a w ich polach mogą być umieszczone – za zgodą Ministra Obrony Narodowej – herby miejscowości i symbole związane z historią jednostki wojskowej oraz emblematy lub inicjały fundatorów sztandaru. Wzór strony odwrotnej płata sztandaru zawierają załączniki nr 5 i 5a.
+
+**Art. 15.**
+
+1. Głowica sztandaru składa się z orła i podstawy, wykonanych z białego metalu. Korona, dziób i szpony orła są koloru złotego.
 
 2. Na przedniej ścianie podstawy jest umieszczony numer jednostki wojskowej lub jej inicjały. Wewnątrz podstawy jest umieszczony zminiaturyzowany akt nadania sztandaru.
 
-3. Wzór głowicy sztandaru zawierają załączniki 6 i 6a.
+3. Wzór głowicy sztandaru zawierają załączniki nr 6 i 6a.
 
 **Art. 16.**
 
@@ -170,9 +181,11 @@ source: "isap-pdf"
 
 **Art. 19.**
 
-1. Banderą wojenną jest prostokątny płat tkaniny o barwach Rzeczypospolitej Polskiej, zakończony dwoma trójkątnymi językami na wolnym liku. Pośrodku długości białego pasa, mierzonej od liku przydrzewcowego do wierzchołka wcięcia między językami, jest umieszczone godło Rzeczypospolitej Polskiej. pomiędzy językami jest równa połowie szerokości płata. Stosunek wysokości godła do szerokości płata wynosi 2:5.
+1. Banderą wojenną jest prostokątny płat tkaniny o barwach Rzeczypospolitej Polskiej, zakończony dwoma trójkątnymi językami na wolnym liku. Pośrodku długości białego pasa, mierzonej od liku przydrzewcowego do wierzchołka wcięcia między językami, jest umieszczone godło Rzeczypospolitej Polskiej.
 
-3. Wzór bandery wojennej zawiera załącznik 7.
+2. Stosunek szerokości płata do jego długości wynosi 1:2,1. Głębokość wcięcia pomiędzy językami jest równa połowie szerokości płata. Stosunek wysokości godła do szerokości płata wynosi 2:5.
+
+3. Wzór bandery wojennej zawiera załącznik nr 7.
 
 **Art. 20.**
 
@@ -180,7 +193,7 @@ source: "isap-pdf"
 
 2. Proporcem marynarki wojennej jest prostokątny płat tkaniny o barwach Rzeczypospolitej Polskiej. Stosunek szerokości płata do jego długości wynosi 5:6. Pośrodku płata jest umieszczony krzyż kawalerski. Jego ramiona położone na białym pasie są koloru czerwonego, a ramiona położone na pasie czerwonym – białego. Pośrodku krzyża, w kręgu czerwonym, jest umieszczony wizerunek ręki z szablą. Ręka jest koloru cielistego, a szabla – koloru srebrnego, z żółtą rękojeścią. Ramię ręki jest ubrane w niebieski rękaw z żółtym przybraniem. Stosunek wysokości krzyża do szerokości płata wynosi 4:5.
 
-3. Wzór proporca marynarki wojennej zawiera załącznik 8.
+3. Wzór proporca marynarki wojennej zawiera załącznik nr 8.
 
 **Art. 21.**
 
@@ -188,19 +201,19 @@ source: "isap-pdf"
 
 2. Znakiem dowódcy okrętu jest wstęga o barwach Rzeczypospolitej Polskiej, zakończona dwoma trójkątnymi językami na wolnym liku. Przy przednim liku jest umieszczony krzyż kawalerski. Jego ramiona położone na białym pasie są koloru czerwonego, a ramiona położone na pasie czerwonym – białego. Stosunek szerokości wstęgi do jej długości wynosi 1:25. Stosunek wcięcia do długości wstęgi 1:3. Stosunek wysokości krzyża do szerokości wstęgi wynosi 4:5.
 
-3. Wzór znaku dowódcy okrętu zawiera załącznik 9.
+3. Wzór znaku dowódcy okrętu zawiera załącznik nr 9.
 
 #### Rozdział 5 Znaki lotnictwa wojskowego
 
 **Art. 22.**
 
-1. Znakiem wojskowych statków powietrznych jest biało-czerwona szachownica lotnicza o barwach o naprzemiennych barwach. Stosunek szerokości skraju do długości krawędzi pola szachownicy lotniczej wynosi 1:5.
+1. Znakiem wojskowych statków powietrznych jest biało-czerwona szachownica lotnicza o barwach Rzeczypospolitej Polskiej, podzielona na cztery równe pola ze skrajami o naprzemiennych barwach. Stosunek szerokości skraju do długości krawędzi pola szachownicy lotniczej wynosi 1:5.
 
-2. Wzór szachownicy lotniczej zawiera załącznik 10.
+2. Wzór szachownicy lotniczej zawiera załącznik nr 10.
 
 3. W przypadkach uzasadnionych wymogami bezpieczeństwa lub warunkami prowadzenia działań operacyjnych można używać szachownicy lotniczej w wersji o niskiej widzialności. W takim przypadku pola czerwone są zastąpione kolorem powierzchni, na którą jest nanoszona szachownica lotnicza, a pola białe – kolorem jaśniejszym od koloru tła dopasowanym pod względem kontrastu.
 
-4. Wzór szachownicy lotniczej w wersji o niskiej widzialności zawiera załącznik 10a.
+4. Wzór szachownicy lotniczej w wersji o niskiej widzialności zawiera załącznik nr 10a.
 
 **Art. 23.**
 
@@ -208,7 +221,7 @@ source: "isap-pdf"
 
 2. Stosunek szerokości płata do jego długości wynosi 5:8. Stosunek wysokości godła i szachownicy lotniczej do szerokości flagi wynosi 2:5.
 
-3. Wzór flagi lotnisk (lądowisk) wojskowych zawiera załącznik 11.
+3. Wzór flagi lotnisk (lądowisk) wojskowych zawiera załącznik nr 11.
 
 #### Rozdział 6 Flagi rodzajów Sił Zbrojnych Rzeczypospolitej Polskiej
 
@@ -220,7 +233,9 @@ source: "isap-pdf"
 
 2. Pośrodku płata flagi jest umieszczony wizerunek orła wojskowego, właściwy dla danego rodzaju sił zbrojnych.
 
-3. Wzory flag rodzajów sił zbrojnych zawierają załączniki 12–16. Przepisy szczególne, przejściowe i końcowe
+3. Wzory flag rodzajów sił zbrojnych zawierają załączniki nr 12–16.
+
+#### Rozdział 7 Przepisy szczególne, przejściowe i końcowe
 
 **Art. 26.** (pominięty)
 

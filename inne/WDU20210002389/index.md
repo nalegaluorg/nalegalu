@@ -8,7 +8,7 @@ pos: 2389
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
@@ -138,6 +138,9 @@ source: "isap-pdf"
 
 **Art. 12.** Spółka celowa może zostać rozwiązana:
 
+- **1)** po zrealizowaniu i rozliczeniu wszystkich zadań powierzonych spółce celowej albo
+- **2)** w przypadku niewykonywania lub nienależytego wykonywania zadań powierzonych spółce celowej.
+
 **Art. 13.**
 
 1. Spółka celowa wykonuje w szczególności zadania inwestora i zadania nadzoru inwestorskiego w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ), w tym:
@@ -192,6 +195,12 @@ source: "isap-pdf"
 - **5)** państwowej osoby prawnej.
 
 **Art. 17.** W umowie, w której powierzono spółce celowej zadania z zakresu koordynowania i kontroli, o których mowa w art. 9 ust. 2, określa się w szczególności:
+
+- **1)** zakres czynności wykonywanych przez spółkę celową, a także zakres praw i obowiązków spółki celowej z tym związanych;
+- **2)** okres, na jaki spółce celowej powierza się zadania;
+- **3)** postanowienia, o których mowa w art. 16 ust. 1 pkt 2, 7 oraz 11–15;
+- **4)** zasady sprawozdawczości dotyczącej realizacji przez spółkę celową powierzonych jej zadań;
+- **5)** sposób rozwiązywania sporów wynikłych w związku z realizacją przez spółkę celową powierzonych jej zadań.
 
 **Art. 18.** Powierzenie, o którym mowa w art. 16 ust. 1 pkt 7, wymaga uprzedniej zgody rady nadzorczej spółki celowej, jeżeli wartość zobowiązania przekracza 1 000 000 zł bez podatku od towarów i usług.
 

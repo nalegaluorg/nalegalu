@@ -8,10 +8,10 @@ pos: 1432
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 lipca 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1432 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 31 lipca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1432/text.pdf) |
 
-Poz. 1432 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 31 lipca 2019 r.
-w sprawie certyfikatu weryfikacji dostawy Na podstawie art. 101 ust. 6 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214) zarządza się, co następuje: § 1. Rozporządzenie określa wzór certyfikatu weryfikacji dostawy oraz sposób prowadzenia ewidencji wydanych certyfikatów, zwanej dalej „ewidencją”.
+w sprawie certyfikatu weryfikacji dostawy Na podstawie art. 101 ust. 6 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wzór certyfikatu weryfikacji dostawy oraz sposób prowadzenia ewidencji wydanych certyfikatów, zwanej dalej „ewidencją”.
 § 2. Określa się wzór certyfikatu weryfikacji dostawy, który stanowi załącznik do rozporządzenia.
 § 3. 1. Ewidencja wydanych certyfikatów weryfikacji dostawy obejmuje:
 1) numer ewidencyjny;
@@ -40,5 +40,5 @@ w sprawie certyfikatu weryfikacji dostawy Na podstawie art. 101 ust. 6 ustawy z 
 2. Wpisów w ewidencji dokonuje się z zachowaniem kolejności numeracji w ramach danego roku kalendarzowego.
 3. Ewidencja jest prowadzona w formie elektronicznej.
 § 4. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2019 r.
-Minister Finansów: M. Banaś
+Minister Finansów: M. Banaś WZÓR WZÓR Rzeczpospolita Polska CERTYFIKAT WERYFIKACJI DOSTAWY Załącznik nr do CERTYFIKATU WERYFIKACJI DOSTAWY
 

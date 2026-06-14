@@ -8,12 +8,10 @@ pos: 1295
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o medycynie laboratoryjnej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 września 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -43,13 +41,38 @@ Art. 144–151. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i warunki wykonywania czynności medycyny laboratoryjnej;
+- **2)** zasady i warunki wykonywania zawodu diagnosty laboratoryjnego;
+- **3)** zasady nadzoru i kontroli medycznych laboratoriów diagnostycznych;
+- **4)** zasady organizacji i działania samorządu diagnostów laboratoryjnych.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** laboratorium – medyczne laboratorium diagnostyczne, w którym są wykonywane czynności medycyny laboratoryjnej, o których mowa w art. 3, będące:
+    - **a)** zakładem leczniczym w rozumieniu art. 2 ust. 1 pkt 14 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211) albo jednostką lub komórką organizacyjną tego zakładu lub
+    - **b)** zespołem składników majątkowych, za pomocą którego diagnosta laboratoryjny wykonuje indywidualną praktykę diagnosty laboratoryjnego albo grupową praktykę diagnostów laboratoryjnych, lub
+    - **c)** jednostką organizacyjną uczelni albo instytutu badawczego niebędącego podmiotem leczniczym;
+
+- **2)** laboratoryjna interpretacja wyniku badania laboratoryjnego – zbiór komentarzy i informacji umieszczanych przez osobę uprawnioną do samodzielnego wykonywania czynności medycyny laboratoryjnej, o których mowa w art. 3, na wyniku badania laboratoryjnego;
+- **3)** materiał biologiczny – komórki, tkanki, narządy lub ich części, wydzieliny, wydaliny, płyny ustrojowe pochodzące od człowieka pobrane dla celów profilaktycznych, diagnostycznych, leczniczych, sanitarno-epidemiologicznych i oceny zgodności tkankowej „in vitro”;
+- **4)** medycyna laboratoryjna – dziedzinę medycyny, której zadaniem jest określanie składu i parametrów biologicznych, chemicznych i fizycznych materiałów biologicznych;
+- **5)** państwo członkowskie – państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską;
+- **6)** POCT – badania laboratoryjnych parametrów krytycznych wykonywane w materiale biologicznym, umożliwiające podjęcie szybkiej decyzji terapeutycznej, wykonywane przez personel medyczny do tego uprawniony w miejscu udzielania świadczeń zdrowotnych;
+- **7)** świadczenie zdrowotne – świadczenie zdrowotne w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **8)** wynik badania laboratoryjnego – sprawozdanie z wykonanego badania laboratoryjnego przedstawione w formie liczbowej lub opisowej wraz z zakresem biologicznych wartości referencyjnych i laboratoryjną interpretacją wyniku badania laboratoryjnego, zautoryzowane przez osobę uprawnioną, zawierające dane identyfikujące pacjenta, materiał biologiczny, laboratorium oraz osobę wykonującą i autoryzującą badanie.
 
 #### Rozdział 2 Zasady i warunki wykonywania czynności medycyny laboratoryjnej
 
 **Art. 3.** Czynności medycyny laboratoryjnej obejmują:
 
+- **1)** badania laboratoryjne materiału biologicznego, w szczególności analityczne, mikrobiologiczne, immunologiczne, genetyczne, cytomorfologiczne i toksykologiczne;
+- **2)** działania zmierzające do ustalenia zgodności tkankowej;
+- **3)** wykonywanie oceny jakości i wartości diagnostycznej badań laboratoryjnych i działań określonych w pkt 2 oraz laboratoryjnej interpretacji i autoryzacji wyników badań laboratoryjnych.
+
 **Art. 4.** Osobą uprawnioną do samodzielnego wykonywania czynności medycyny laboratoryjnej w laboratorium jest:
+
+- **1)** diagnosta laboratoryjny;
+- **2)** lekarz posiadający prawo wykonywania zawodu oraz specjalizację I lub II stopnia w dziedzinie analityki lub w dziedzinie mikrobiologii, lub w dziedzinie diagnostyki laboratoryjnej lub lekarz posiadający specjalizację II stopnia w dziedzinie mikrobiologii i serologii, lub lekarz posiadający tytuł specjalisty w dziedzinie diagnostyki laboratoryjnej lub w dziedzinie mikrobiologii lekarskiej.
 
 **Art. 5.**
 
@@ -134,11 +157,11 @@ Art. 144–151. (pominięte)
 
 1. Diagnostą laboratoryjnym jest osoba, która:
 
-- **1)** rozpoczęła po roku akademickim 2018/2019 studia przygotowujące do wykonywania zawodu diagnosty laboratoryjnego, prowadzone zgodnie z przepisami wydanymi na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), i uzyskała tytuł zawodowy magistra lub
+- **1)** rozpoczęła po roku akademickim 2018/2019 studia przygotowujące do wykonywania zawodu diagnosty laboratoryjnego, prowadzone zgodnie z przepisami wydanymi na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), i uzyskała tytuł zawodowy magistra lub
 - **2)** ukończyła w Rzeczypospolitej Polskiej jednolite studia magisterskie na kierunku analityka medyczna lub medycyna laboratoryjna i uzyskała tytuł zawodowy magistra, lub
 - **3)** do dnia 31 grudnia 2028 r. ukończyła jednolite studia magisterskie lub studia pierwszego i drugiego stopnia na kierunku biologia, biotechnologia, chemia, farmacja lub weterynaria i uzyskała tytuł zawodowy magistra lub równorzędny oraz ukończyła kształcenie podyplomowe w zakresie analityki medycznej w uczelni, która prowadzi studia na kierunku analityka medyczna, potwierdzone egzaminem, lub
 - **4)** do dnia 31 grudnia 2028 r. ukończyła jednolite studia magisterskie lub studia pierwszego i drugiego stopnia na kierunku biologia, biotechnologia, chemia, farmacja lub weterynaria i uzyskała tytuł zawodowy magistra lub równorzędny i rozpoczęła szkolenie specjalizacyjne w dziedzinie analityki klinicznej, diagnostyki laboratoryjnej, mikrobiologii lub toksykologii, z zastrzeżeniem ust. 2, lub
-- **5)** posiada dyplom wydany w państwie innym niż państwo członkowskie, uznany w Rzeczypospolitej Polskiej za równoważny z dyplomem uzyskiwanym w Rzeczypospolitej Polskiej, potwierdzającym tytuł zawodowy magistra na kierunku analityka medyczna zgodnie z przepisami ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, lub
+- **5)** posiada dyplom wydany w państwie innym niż państwo członkowskie, uznany w Rzeczypospolitej Polskiej za równoważny z dyplomem uzyskiwanym w Rzeczypospolitej Polskiej, potwierdzającym tytuł zawodowy magistra na kierunku analityka medyczna zgodnie z przepisami ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, lub
 - **6)** posiada kwalifikacje do wykonywania zawodu diagnosty laboratoryjnego uznane w Rzeczypospolitej Polskiej przez Krajową Radę na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334 oraz z 2025 r. poz. 619), lub
 - **7)** posiada kwalifikacje uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej, zwanym dalej „Zjednoczonym Królestwem”, uznane w Rzeczypospolitej Polskiej przez Krajową Radę na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, lub
 - **8)** uzyskała w Rzeczypospolitej Polskiej tytuł zawodowy licencjata na kierunku analityka medyczna, a następnie ukończyła studia drugiego stopnia i uzyskała tytuł zawodowy magistra na kierunku analityka medyczna;
@@ -164,7 +187,7 @@ Art. 144–151. (pominięte)
 
 - **1)** zakres znajomości języka polskiego w mowie i piśmie konieczny do wykonywania zawodu diagnosty laboratoryjnego,
 - **2)** sposób przeprowadzania i potwierdzania złożenia z wynikiem pozytywnym egzaminu, o którym mowa w ust. 3, oraz wzór zaświadczenia, o którym mowa w ust. 6,
-- **3)** wysokość opłaty, o której mowa w ust. 5 uwzględniając zakres uprawnień zawodowych określonych w art. 6, prawidłowe przygotowanie i przebieg egzaminu oraz koszty jego przeprowadzenia.
+- **3)** wysokość opłaty, o której mowa w ust. 5 – uwzględniając zakres uprawnień zawodowych określonych w art. 6, prawidłowe przygotowanie i przebieg egzaminu oraz koszty jego przeprowadzenia.
 
 **Art. 12.**
 
@@ -268,13 +291,23 @@ Art. 144–151. (pominięte)
 
 **Art. 20.**
 
-1. Od uchwał w sprawach, o których mowa w art. 19 ust. 3 i 4, art. 69 ust. 2 i art. 74 ust. 1, przysługuje osobie, której uchwała dotyczy, wniosek o ponowne rozpoznanie sprawy przez Krajową Radę. Do uchwał tych stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) dotyczące decyzji administracyjnych.
+1. Od uchwał w sprawach, o których mowa w art. 19 ust. 3 i 4, art. 69 ust. 2 i art. 74 ust. 1, przysługuje osobie, której uchwała dotyczy, wniosek o ponowne rozpoznanie sprawy przez Krajową Radę. Do uchwał tych stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) dotyczące decyzji administracyjnych.
 
 2. Na uchwały Krajowej Rady, o których mowa w art. 19 ust. 3 i 4, art. 69 ust. 2 i art. 74 ust. 1, lub uchwały podjęte w następstwie wniosku o ponowne rozpoznanie sprawy przysługuje skarga do sądu administracyjnego.
 
 #### Rozdział 4 Obowiązki kierownika laboratorium oraz obowiązki i prawa diagnosty laboratoryjnego
 
 **Art. 21.** Do obowiązków kierownika laboratorium należy:
+
+- **1)** nadzór nad wykonywanymi czynnościami medycyny laboratoryjnej;
+- **2)** organizacja pracy w laboratorium, zgodnie z uprawnieniami personelu do wykonywania poszczególnych czynności medycyny laboratoryjnej;
+- **3)** nadzór nad przetwarzaną dokumentacją medyczną związaną z wykonanymi badaniami laboratoryjnymi;
+- **4)** nadzór nad zapewnieniem odpowiedniej jakości badań laboratoryjnych;
+- **5)** zapewnienie przestrzegania przez podmioty współpracujące z laboratorium procedur w nim obowiązujących;
+- **6)** prowadzenie ewidencji personelu zatrudnionego w laboratorium;
+- **7)** zapewnienie stałej wewnętrznej oraz zewnętrznej kontroli jakości badań oraz dokumentacji związanej z prowadzeniem kontroli;
+- **8)** organizowanie i prowadzenie szkoleń dla personelu zatrudnionego w laboratorium;
+- **9)** prowadzenie stałego nadzoru i monitorowanie przebiegu, prawidłowości i skuteczności stosowanych metod i procedur diagnostycznych, sposobu prowadzenia dokumentacji badań laboratoryjnych, czasu trwania badań, jakości stosowanych odczynników, sposobu rozwiązywania zaistniałych problemów technicznych i diagnostycznych.
 
 **Art. 22.** Diagnosta laboratoryjny wykonuje zawód z należytą starannością, zgodnie z zasadami etyki zawodowej oraz z wykorzystaniem wskazań aktualnej wiedzy medycznej.
 
@@ -288,7 +321,11 @@ Art. 144–151. (pominięte)
 
 **Art. 24.** Diagnosta laboratoryjny jest obowiązany na zasadach określonych w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta:
 
-**Art. 25.** Diagnosta laboratoryjny bierze udział w postępowaniu diagnostycznym, profilaktycznym i monitorowaniu terapii, w szczególności przez udokumentowany udział w procesie terapeutycznym, współpracując z lekarzem lub lekarzem dentystą leczącym pacjenta, a w razie potrzeby z osobami wykonującymi inne zawody medyczne. Lekarz lub lekarz dentysta leczący pacjenta decyduje o zakresie zleconych badań laboratoryjnych.
+- **1)** informować pacjenta o jego prawach określonych w tej ustawie;
+- **2)** udzielać informacji o stanie zdrowia pacjenta, w zakresie udzielanych przez niego świadczeń zdrowotnych oraz zgodnie z posiadanymi przez niego uprawnieniami;
+- **3)** zachowywać w tajemnicy informacje związane z pacjentem, uzyskane od lekarza lub lekarza dentysty leczącego pacjenta w związku z wykonywaniem zawodu.
+
+**Art. 25.** Diagnosta laboratoryjny bierze udział w postępowaniu diagnostycznym, profilaktycznym i monitorowaniu terapii, w szczególności przez udokumentowany udział w procesie terapeutycznym, współpracując z lekarzem lub lekarzem dentystą leczącym pacjenta, a w razie potrzeby – z osobami wykonującymi inne zawody medyczne. Lekarz lub lekarz dentysta leczący pacjenta decyduje o zakresie zleconych badań laboratoryjnych.
 
 **Art. 26.**
 
@@ -296,7 +333,7 @@ Art. 144–151. (pominięte)
 
 2. Diagnosta laboratoryjny jest obowiązany zgłosić:
 
-- **1)** działanie niepożądane produktu leczniczego, zgodnie z art. 36d ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905 i 924);
+- **1)** działanie niepożądane produktu leczniczego, zgodnie z art. 36d ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905 i 924);
 - **2)** poważny incydent, zgodnie z art. 48 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. z 2024 r. poz. 1620);
 - **3)** niepożądany odczyn poszczepienny, zgodnie z art. 21 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897).
 
@@ -351,11 +388,11 @@ Art. 144–151. (pominięte)
 
 4. Weryfikacji uprawnień, o których mowa w ust. 2, dokonuje w stosunku do:
 
-- **1)** diagnosty laboratoryjnego Krajowa Rada;
-- **2)** kierownika specjalizacji właściwa jednostka szkoląca;
-- **3)** konsultanta wojewódzkiego w ochronie zdrowia właściwy miejscowo wojewoda;
-- **4)** konsultanta krajowego w ochronie zdrowia minister właściwy do spraw zdrowia;
-- **5)** kierownika jednostki szkolącej lub osoby przez niego upoważnionej właściwa jednostka akredytowana do prowadzenia szkolenia specjalizacyjnego.
+- **1)** diagnosty laboratoryjnego – Krajowa Rada;
+- **2)** kierownika specjalizacji – właściwa jednostka szkoląca;
+- **3)** konsultanta wojewódzkiego w ochronie zdrowia – właściwy miejscowo wojewoda;
+- **4)** konsultanta krajowego w ochronie zdrowia – minister właściwy do spraw zdrowia;
+- **5)** kierownika jednostki szkolącej lub osoby przez niego upoważnionej – właściwa jednostka akredytowana do prowadzenia szkolenia specjalizacyjnego.
 
 **Art. 31.**
 
@@ -369,13 +406,13 @@ Art. 144–151. (pominięte)
 
 5. Minister właściwy do spraw zdrowia na podstawie umowy zawartej z jednostką szkolącą, o której mowa w art. 32 ust. 1, przekazuje dofinansowanie szkolenia specjalizacyjnego, o którym mowa w ust. 3.
 
-6. W przypadkach, o których mowa w ust. 3 i 5, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620, 769, 794, 1165 i 1173).
+6. W przypadkach, o których mowa w ust. 3 i 5, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620, 769, 794, 1165 i 1173).
 
 7. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Krajowej Rady oraz konsultanta krajowego w danej dziedzinie medycyny laboratoryjnej lub w pokrewnej dziedzinie z zakresu medycyny, jeżeli w danej dziedzinie nie ma konsultanta, ogłasza, w formie obwieszczenia, w dzienniku urzędowym ministra właściwego do spraw zdrowia w terminie do dnia 15 grudnia na rok następny:
 
 - **1)** minimalną liczbę miejsc szkoleniowych w określonych dziedzinach medycyny laboratoryjnej,
 - **2)** maksymalną kwotę dofinansowania jednego miejsca szkoleniowego dla specjalizacji rozpoczynanych w danym roku,
-- **3)** maksymalną kwotę, którą przeznacza się na szkolenie specjalizacyjne uwzględniając zapotrzebowanie na specjalistów z poszczególnych dziedzin oraz zapotrzebowanie na osoby legitymujące się ukończoną specjalizacją.
+- **3)** maksymalną kwotę, którą przeznacza się na szkolenie specjalizacyjne – uwzględniając zapotrzebowanie na specjalistów z poszczególnych dziedzin oraz zapotrzebowanie na osoby legitymujące się ukończoną specjalizacją.
 
 8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb przyznawania liczby dofinansowanych ze środków, o których mowa w ust. 3, miejsc szkoleniowych dla poszczególnych jednostek szkolących, o których mowa w art. 32 ust. 1, uwzględniając zapotrzebowanie na specjalistów z poszczególnych dziedzin medycyny laboratoryjnej oraz zapotrzebowanie na osoby legitymujące się ukończoną specjalizacją.
 
@@ -503,7 +540,7 @@ Art. 144–151. (pominięte)
 - **5)** opis stanu faktycznego;
 - **6)** opis stwierdzonych nieprawidłowości albo informację o braku zastrzeżeń;
 - **7)** wnioski osób wykonujących czynności kontrolne;
-- **8)** w przypadku odmowy podpisania protokołu przez kierownika kontrolowanej jednostki szkolącej informację o takiej odmowie;
+- **8)** w przypadku odmowy podpisania protokołu przez kierownika kontrolowanej jednostki szkolącej – informację o takiej odmowie;
 - **9)** datę i miejsce sporządzenia protokołu.
 
 5. Protokół podpisują osoby wykonujące czynności kontrolne oraz kierownik kontrolowanej jednostki szkolącej.
@@ -521,7 +558,7 @@ Art. 144–151. (pominięte)
 11. Osobom wykonującym czynności kontrolne przysługuje:
 
 - **1)** wynagrodzenie za wykonanie czynności kontrolnych w kwocie nie wyższej niż 300 zł;
-- **2)** zwrot kosztów przejazdu, w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807), przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
+- **2)** zwrot kosztów przejazdu, w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807), przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
 - **3)** zwolnienie od pracy w dniach wykonywania czynności kontrolnych bez zachowania prawa do wynagrodzenia.
 
 **Art. 38.**
@@ -589,7 +626,7 @@ Art. 144–151. (pominięte)
 3. Wniosek zawiera następujące dane wnioskodawcy:
 
 - **1)** imię (imiona) i nazwisko;
-- **2)** numer PESEL, jeżeli został nadany, a w przypadku jego braku datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
+- **2)** numer PESEL, jeżeli został nadany, a w przypadku jego braku – datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
 - **3)** numer dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego”;
 - **4)** obywatelstwo (obywatelstwa);
 - **5)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
@@ -610,14 +647,14 @@ Art. 144–151. (pominięte)
 
 6. Wniosek składa się w terminie:
 
-- **1)** od dnia 15 listopada do dnia 15 grudnia każdego roku w przypadku postępowania kwalifikacyjnego przeprowadzanego w terminie od dnia 16 grudnia do dnia 15 stycznia albo
-- **2)** od dnia 30 kwietnia do dnia 31 maja każdego roku w przypadku postępowania kwalifikacyjnego przeprowadzanego w terminie od dnia 1 czerwca do dnia 30 czerwca.
+- **1)** od dnia 15 listopada do dnia 15 grudnia każdego roku – w przypadku postępowania kwalifikacyjnego przeprowadzanego w terminie od dnia 16 grudnia do dnia 15 stycznia albo
+- **2)** od dnia 30 kwietnia do dnia 31 maja każdego roku – w przypadku postępowania kwalifikacyjnego przeprowadzanego w terminie od dnia 1 czerwca do dnia 30 czerwca.
 
 7. Wojewoda potwierdza elektronicznie zapisanie zgłoszonych we wniosku danych.
 
 8. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 6. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przedłużenia danego terminu nie może być dłuższy niż 5 miesięcy. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na stronie internetowej urzędu go obsługującego.
 
-9. Do terminów, o których mowa w ust. 6 i 8, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. W przypadku awarii SMK trwającej dłużej niż godzinę, uniemożliwiającej dokonanie zgłoszenia w okresie tygodnia przed upływem odpowiednich terminów, o których mowa w ust. 6 i 8, terminy te przedłuża się o czas trwania awarii od momentu jej usunięcia. Przepis art. 40 ust. 8 zdanie trzecie stosuje się.
+9. Do terminów, o których mowa w ust. 6 i 8, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. W przypadku awarii SMK trwającej dłużej niż godzinę, uniemożliwiającej dokonanie zgłoszenia w okresie tygodnia przed upływem odpowiednich terminów, o których mowa w ust. 6 i 8, terminy te przedłuża się o czas trwania awarii od momentu jej usunięcia. Przepis art. 40 ust. 8 zdanie trzecie stosuje się.
 
 10. Diagnosta laboratoryjny ubiegający się o odbycie szkolenia specjalizacyjnego może być w danym terminie dopuszczony do postępowania kwalifikacyjnego tylko w jednej dziedzinie medycyny laboratoryjnej i tylko w jednym województwie.
 
@@ -633,12 +670,12 @@ Art. 144–151. (pominięte)
 
 - **1)** okres zatrudnienia w zawodzie diagnosty laboratoryjnego w wymiarze odpowiadającym pełnemu wymiarowi czasu pracy;
 - **2)** posiadanie stopnia naukowego lub tytułu profesora;
-- **3)** opublikowanie jako autor lub współautor: Prawo o szkolnictwie wyższym i nauce lub w wykazach czasopism naukowych sporządzonych na podstawie poprzednio obowiązujących przepisów.
+- **3)** opublikowanie jako autor lub współautor:
     - **a)** monografii naukowej,
     - **b)** artykułu naukowego oryginalnego,
     - **c)** artykułu o charakterze poglądowym, rozdziału w książce naukowej lub popularnonaukowej,
     - **d)** artykułu popularnonaukowego, programu multimedialnego lub komunikatu z badań naukowych,
-    - **e)** publikacji w czasopiśmie naukowym zamieszczonym w wykazie czasopism naukowych ujętych w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r.
+    - **e)** publikacji w czasopiśmie naukowym zamieszczonym w wykazie czasopism naukowych ujętych w wykazie sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce lub w wykazach czasopism naukowych sporządzonych na podstawie poprzednio obowiązujących przepisów.
 
 5. W przypadku gdy co najmniej dwóch kandydatów ubiegających się o miejsce szkoleniowe w tej samej dziedzinie medycyny laboratoryjnej ma identyczny wynik w postępowaniu konkursowym, uwzględnia się wynik studiów na dyplomie ukończenia studiów.
 
@@ -646,7 +683,7 @@ Art. 144–151. (pominięte)
 
 7. W przypadku, o którym mowa w ust. 6, wojewoda, za pomocą SMK, wzywa niezwłocznie kandydatów do dostarczenia dokumentu albo jego elektronicznej kopii, poświadczających średnią ocen uzyskaną w okresie studiów liczoną do dwóch znaków po przecinku.
 
-8. W przypadku gdy co najmniej dwóch kandydatów ubiegających się o miejsce szkoleniowe w tej samej dziedzinie medycyny laboratoryjnej ma identyczną średnią ocen uzyskaną w okresie studiów liczoną do dwóch znaków po przecinku, uwzględnia się okres zatrudnienia w zawodzie diagnosty laboratoryjnego w wymiarze odpowiadającym pełnemu wymiarowi czasu pracy 1 punkt za każdy rok zatrudnienia.
+8. W przypadku gdy co najmniej dwóch kandydatów ubiegających się o miejsce szkoleniowe w tej samej dziedzinie medycyny laboratoryjnej ma identyczną średnią ocen uzyskaną w okresie studiów liczoną do dwóch znaków po przecinku, uwzględnia się okres zatrudnienia w zawodzie diagnosty laboratoryjnego w wymiarze odpowiadającym pełnemu wymiarowi czasu pracy – 1 punkt za każdy rok zatrudnienia.
 
 9. Do odbywania szkolenia specjalizacyjnego kwalifikuje się diagnostów laboratoryjnych, w liczbie odpowiadającej liczbie miejsc przyznanych na dane postępowanie kwalifikacyjne w danej dziedzinie medycyny laboratoryjnej w danym województwie, w kolejności od najwyższego wyniku uzyskanego w postępowaniu konkursowym.
 
@@ -667,7 +704,7 @@ Art. 144–151. (pominięte)
 - **1)** dane dotyczące wnioskodawcy, o którym mowa w ust. 1:
     - **a)** imię (imiona) i nazwisko,
     - **b)** płeć,
-    - **c)** numer PESEL, jeżeli został nadany, a w przypadku jego braku datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania,
+    - **c)** numer PESEL, jeżeli został nadany, a w przypadku jego braku – datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania,
     - **d)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada,
     - **e)** numer i datę wydania dyplomu ukończenia studiów,
     - **f)** informację o posiadanym stopniu naukowym lub tytule profesora, jeżeli dotyczy;
@@ -697,7 +734,7 @@ Art. 144–151. (pominięte)
 
 - **1)** numer wpisu do rejestru, składający się z ciągu kolejnych znaków, zawierający:
     - **a)** unikalny identyfikator wpisu nadawany przez SMK,
-    - **b)** numer PESEL, jeżeli został nadany, a w przypadku jego braku datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
+    - **b)** numer PESEL, jeżeli został nadany, a w przypadku jego braku – datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
 
 - **2)** imię (imiona) i nazwisko osoby, o której mowa w ust. 1;
 - **3)** obywatelstwo (obywatelstwa);
@@ -720,10 +757,10 @@ Art. 144–151. (pominięte)
 
 1. Diagnosta laboratoryjny uprawniony do podjęcia specjalizacji może ją odbywać:
 
-- **1)** na podstawie umowy o pracę zawartej na czas nieokreślony albo określony czasem specjalizacji z podmiotem, który uzyskał akredytację do prowadzenia szkolenia specjalizacyjnego i płatnego urlopu szkoleniowego lub urlopu bezpłatnego, udzielonych na podstawie ustawy z dnia 26 czerwca 1974 r. Kodeks pracy na czas realizacji kursów i staży kierunkowych w oparciu o zasady określone w umowie, o której mowa w ust. 2, albo
-- **2)** na podstawie umowy o pracę zawartej na czas nieokreślony albo określony okresem specjalizacji z innym podmiotem niż określony w pkt 1 i płatnego urlopu szkoleniowego udzielonego na podstawie ustawy z dnia 26 czerwca 1974 r. Kodeks pracy na czas realizacji stażu podstawowego, kursów i staży kierunkowych w oparciu o zasady określone w umowie, o której mowa w ust. 2, albo
+- **1)** na podstawie umowy o pracę zawartej na czas nieokreślony albo określony czasem specjalizacji z podmiotem, który uzyskał akredytację do prowadzenia szkolenia specjalizacyjnego i płatnego urlopu szkoleniowego lub urlopu bezpłatnego, udzielonych na podstawie ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy na czas realizacji kursów i staży kierunkowych w oparciu o zasady określone w umowie, o której mowa w ust. 2, albo
+- **2)** na podstawie umowy o pracę zawartej na czas nieokreślony albo określony okresem specjalizacji z innym podmiotem niż określony w pkt 1 i płatnego urlopu szkoleniowego udzielonego na podstawie ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy na czas realizacji stażu podstawowego, kursów i staży kierunkowych w oparciu o zasady określone w umowie, o której mowa w ust. 2, albo
 - **3)** na podstawie umowy cywilnoprawnej zawartej na okres specjalizacji z podmiotem, o którym mowa w pkt 1, albo
-- **4)** w ramach poszerzenia kształcenia w szkole doktorskiej odbywanego w jednostce szkolącej o program szkolenia specjalizacyjnego, jeżeli jest on zgodny z zakresem tego kształcenia, a po jego ukończeniu w trybie określonym w pkt 1–3.
+- **4)** w ramach poszerzenia kształcenia w szkole doktorskiej odbywanego w jednostce szkolącej o program szkolenia specjalizacyjnego, jeżeli jest on zgodny z zakresem tego kształcenia, a po jego ukończeniu – w trybie określonym w pkt 1–3.
 
 2. Diagnosta laboratoryjny, o którym mowa w ust. 1 pkt 1 i 2, zawiera z pracodawcą umowę cywilnoprawną określającą wzajemne prawa i obowiązki stron wynikające z realizowania programu specjalizacji.
 
@@ -737,7 +774,7 @@ Art. 144–151. (pominięte)
 
 - **1)** o okres pobierania świadczenia przewidzianego w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083);
 - **2)** z powodu urlopu bezpłatnego udzielonego przez pracodawcę na czas nie dłuższy niż 3 miesiące w okresie szkolenia specjalizacyjnego;
-- **3)** w przypadkach określonych w art. 92, art. 178 , art. 179, art. 180, art. 182 , art. 182 , art. 183, art. 185, art. 186, art. 187 i art. 188 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy;
+- **3)** w przypadkach określonych w art. 92, art. 178 , art. 179, art. 180, art. 182 , art. 182 , art. 183, art. 185, art. 186, art. 187 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **4)** z powodu przerwy, nie dłuższej niż 14 dni, wynikającej z procedur stosowanych przy zmianie jednostki szkolącej;
 - **5)** z powodu przerwy, nie dłuższej niż 12 miesięcy, wynikającej z realizacji specjalizacji odbywanej w trybie poszerzenia zajęć programowych w ramach prowadzonego kształcenia doktorantów o program specjalizacji zgodny z zakresem tego kształcenia.
 
@@ -784,9 +821,9 @@ Art. 144–151. (pominięte)
 
 2. Kierownika specjalizacji powołuje, za jego zgodą, i odwołuje kierownik jednostki szkolącej.
 
-3. Kierownikiem specjalizacji może być osoba posiadająca tytuł specjalisty w dziedzinie będącej przedmiotem szkolenia specjalizacyjnego, a w uzasadnionych przypadkach w pokrewnej dziedzinie z zakresu medycyny albo osoba, o której mowa w art. 63 ust. 1.
+3. Kierownikiem specjalizacji może być osoba posiadająca tytuł specjalisty w dziedzinie będącej przedmiotem szkolenia specjalizacyjnego, a w uzasadnionych przypadkach – w pokrewnej dziedzinie z zakresu medycyny albo osoba, o której mowa w art. 63 ust. 1.
 
-4. Kierownik specjalizacji może wykonywać obowiązki związane ze szkoleniem specjalizacyjnym trzech osób, a w uzasadnionych przypadkach, za zgodą konsultanta krajowego w dziedzinie medycyny laboratoryjnej albo w pokrewnej dziedzinie z zakresu medycyny, jeżeli w danej dziedzinie nie ma powołanego konsultanta krajowego czterech osób.
+4. Kierownik specjalizacji może wykonywać obowiązki związane ze szkoleniem specjalizacyjnym trzech osób, a w uzasadnionych przypadkach, za zgodą konsultanta krajowego w dziedzinie medycyny laboratoryjnej albo w pokrewnej dziedzinie z zakresu medycyny, jeżeli w danej dziedzinie nie ma powołanego konsultanta krajowego – czterech osób.
 
 5. Do obowiązków kierownika specjalizacji należy:
 
@@ -832,7 +869,7 @@ Art. 144–151. (pominięte)
 
 1. Wojewoda dokonuje weryfikacji formalnej odbycia szkolenia specjalizacyjnego zgodnie z programem specjalizacji diagnosty laboratoryjnego, który uzyskał potwierdzenie odbycia szkolenia specjalizacyjnego zgodnie z programem specjalizacji przez kierownika specjalizacji.
 
-2. Wojewoda w terminie 14 dni od dnia otrzymania informacji o uzyskaniu potwierdzenia, o którym mowa w ust. 1, występuje do właściwego konsultanta wojewódzkiego, a w przypadku jego braku do konsultanta krajowego w danej dziedzinie medycyny laboratoryjnej albo w pokrewnej dziedzinie z zakresu medycyny, jeżeli w danej dziedzinie nie ma powołanego konsultanta, o weryfikację zgodności odbytego szkolenia specjalizacyjnego z jego programem. Konsultant dokonuje weryfikacji w terminie 14 dni od dnia otrzymania wystąpienia wojewody. Czynności te odbywają się za pomocą SMK.
+2. Wojewoda w terminie 14 dni od dnia otrzymania informacji o uzyskaniu potwierdzenia, o którym mowa w ust. 1, występuje do właściwego konsultanta wojewódzkiego, a w przypadku jego braku – do konsultanta krajowego w danej dziedzinie medycyny laboratoryjnej albo w pokrewnej dziedzinie z zakresu medycyny, jeżeli w danej dziedzinie nie ma powołanego konsultanta, o weryfikację zgodności odbytego szkolenia specjalizacyjnego z jego programem. Konsultant dokonuje weryfikacji w terminie 14 dni od dnia otrzymania wystąpienia wojewody. Czynności te odbywają się za pomocą SMK.
 
 3. W przypadku niezrealizowania przez diagnostę laboratoryjnego programu szkolenia specjalizacyjnego, konsultant, o którym mowa w ust. 2, za pomocą SMK, wskazuje brakujące elementy programu.
 
@@ -841,7 +878,7 @@ Art. 144–151. (pominięte)
 - **1)** potwierdza zakończenie szkolenia specjalizacyjnego;
 - **2)** w przypadku, o którym mowa w ust. 3, odmawia potwierdzenia zakończenia szkolenia specjalizacyjnego oraz kieruje do zrealizowania brakującego elementu programu szkolenia specjalizacyjnego i przedłuża okres szkolenia na czas niezbędny do realizacji tego elementu, uwzględniając okres przerwy wynikającej z procedur weryfikacji realizacji programu specjalizacji.
 
-5. Wojewoda zawiadamia diagnostę laboratoryjnego o rozstrzygnięciu, o którym mowa w ust. 4, za pomocą SMK. O odmowie potwierdzenia zakończenia szkolenia specjalizacyjnego wojewoda powiadamia diagnostę laboratoryjnego również na piśmie. Do doręczenia powiadomienia na piśmie przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
+5. Wojewoda zawiadamia diagnostę laboratoryjnego o rozstrzygnięciu, o którym mowa w ust. 4, za pomocą SMK. O odmowie potwierdzenia zakończenia szkolenia specjalizacyjnego wojewoda powiadamia diagnostę laboratoryjnego również na piśmie. Do doręczenia powiadomienia na piśmie przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 6. W przypadku, o którym mowa w ust. 4 pkt 2, po zrealizowaniu brakującego elementu programu szkolenia specjalizacyjnego przez diagnostę laboratoryjnego przepisy ust. 2–5 stosuje się.
 
@@ -852,7 +889,7 @@ Art. 144–151. (pominięte)
 2. Wniosek o przystąpienie do PESDL zawiera:
 
 - **1)** imię (imiona) i nazwisko;
-- **2)** numer PESEL, jeżeli został nadany, a w przypadku jego braku datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
+- **2)** numer PESEL, jeżeli został nadany, a w przypadku jego braku – datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
 - **3)** numer dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego”;
 - **4)** adres do korespondencji wnioskodawcy oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
 - **5)** nazwę uczelni, w której wnioskodawca ukończył studia;
@@ -865,7 +902,7 @@ Art. 144–151. (pominięte)
 
 3. Wniosek o przystąpienie do PESDL składa się za pomocą SMK.
 
-4. Wniosek, o którym mowa w ust. 3, składa się w terminie do dnia 15 lipca każdego roku dla sesji jesiennej albo do dnia 15 stycznia każdego roku dla sesji wiosennej. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. Wniosek, o którym mowa w ust. 3, składa się w terminie do dnia 15 lipca każdego roku dla sesji jesiennej albo do dnia 15 stycznia każdego roku dla sesji wiosennej. Do tych terminów nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 5. Dyrektor CEM ustala listy diagnostów laboratoryjnych zdających PESDL w danym miejscu i terminie oraz zawiadamia te osoby o terminie i miejscu egzaminu oraz nadanym numerze kodowym nie później niż 14 dni przed dniem rozpoczęcia egzaminu. Zawiadomienie jest przekazywane za pomocą SMK. Dyrektor CEM może przekazać zawiadomienie pocztą elektroniczną na adres wskazany we wniosku o przystąpienie do PESDL.
 
@@ -873,7 +910,7 @@ Art. 144–151. (pominięte)
 
 7. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 4. Przepis art. 40 ust. 8 zdanie drugie i trzecie stosuje się.
 
-8. Do terminów ustalonych w sposób, o którym mowa w ust. 7, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+8. Do terminów ustalonych w sposób, o którym mowa w ust. 7, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 51.**
 
@@ -883,13 +920,13 @@ Art. 144–151. (pominięte)
 
 3. Opłata stanowi dochód budżetu państwa.
 
-4. W przypadku niewniesienia opłaty albo wniesienia jej w wysokości niższej niż należna dyrektor CEM wzywa diagnostę laboratoryjnego, o którym mowa w ust. 1, do uzupełnienia braków formalnych, za pomocą SMK lub za pomocą środków komunikacji elektronicznej, na adres wskazany we wniosku, o którym mowa w art. 50 ust. 2 pkt 4. Przepis art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się z zastrzeżeniem, że w przypadku bezskutecznego upływu terminu do uzupełnienia braków formalnych dotknięty nim wniosek o przystąpienie do PESDL traktuje się jako niezłożony. O konsekwencji tej dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.
+4. W przypadku niewniesienia opłaty albo wniesienia jej w wysokości niższej niż należna dyrektor CEM wzywa diagnostę laboratoryjnego, o którym mowa w ust. 1, do uzupełnienia braków formalnych, za pomocą SMK lub za pomocą środków komunikacji elektronicznej, na adres wskazany we wniosku, o którym mowa w art. 50 ust. 2 pkt 4. Przepis art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się z zastrzeżeniem, że w przypadku bezskutecznego upływu terminu do uzupełnienia braków formalnych dotknięty nim wniosek o przystąpienie do PESDL traktuje się jako niezłożony. O konsekwencji tej dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.
 
 5. W okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii z opłaty, o której mowa w ust. 1, za kolejne zgłoszenie do PESDL może zostać zwolniony diagnosta laboratoryjny, który mimo zgłoszenia się do PESDL nie przystąpił do tego egzaminu.
 
 6. W celu uzyskania zwolnienia z opłaty, o którym mowa w ust. 5, diagnosta laboratoryjny w terminie 30 dni od dnia, w którym odbył się PESDL, do którego miał przystąpić, składa do dyrektora CEM wniosek o zwolnienie z opłaty za kolejne zgłoszenie do PESDL.
 
-7. Do terminu, o którym mowa w ust. 6, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+7. Do terminu, o którym mowa w ust. 6, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 52.**
 
@@ -899,7 +936,7 @@ Art. 144–151. (pominięte)
 
 3. Przewodniczącego PKE, przewodniczącego Zespołu Egzaminacyjnego i jej członków powołuje i odwołuje dyrektor CEM.
 
-4. Przewodniczący PKE i jej członkowie posiadają tytuł specjalisty w odpowiedniej dziedzinie medycyny laboratoryjnej, albo decyzję, o której mowa w art. 63 ust. 1, a w przypadku niemożności powołania takich osób w pokrewnej dziedzinie z zakresu medycyny.
+4. Przewodniczący PKE i jej członkowie posiadają tytuł specjalisty w odpowiedniej dziedzinie medycyny laboratoryjnej, albo decyzję, o której mowa w art. 63 ust. 1, a w przypadku niemożności powołania takich osób – w pokrewnej dziedzinie z zakresu medycyny.
 
 5. Członkiem PKE nie może być osoba skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
 
@@ -912,7 +949,7 @@ Art. 144–151. (pominięte)
 7. W zgłoszeniu, o którym mowa w ust. 6, zamieszcza się:
 
 - **1)** imię (imiona) i nazwisko kandydata;
-- **2)** numer PESEL, jeżeli został nadany, a w przypadku jego braku datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
+- **2)** numer PESEL, jeżeli został nadany, a w przypadku jego braku – datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
 - **3)** określenie posiadanej specjalizacji;
 - **4)** wskazanie dziedziny medycyny laboratoryjnej, w której kandydat ma być powołany do PKE;
 - **5)** adres korespondencyjny kandydata.
@@ -956,12 +993,16 @@ Art. 144–151. (pominięte)
 5. Członkom Zespołów Egzaminacyjnych przysługuje:
 
 - **1)** wynagrodzenie za udział w pracach Zespołu Egzaminacyjnego, w wysokości nie wyższej niż 500 zł dla przewodniczącego Zespołu Egzaminacyjnego oraz nie wyższej niż 300 zł dla członka Zespołu Egzaminacyjnego;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju;
 - **3)** zwolnienie od pracy w dniu wykonywania czynności Zespołu Egzaminacyjnego bez zachowania prawa do wynagrodzenia.
 
 6. Tryb wypłaty wynagrodzenia, o którym mowa w ust. 5 pkt 1, oraz zwrotu kosztów, o których mowa w ust. 5 pkt 2, określa, w drodze zarządzenia, dyrektor CEM.
 
 **Art. 54.** Do zadań Zespołu Egzaminacyjnego przeprowadzającego dany PESDL należy:
+
+- **1)** przeprowadzenie PESDL zgodnie z regulaminem porządkowym, o którym mowa w art. 55 ust. 19;
+- **2)** przekazanie do CEM kart odpowiedzi, niezwłocznie po zakończonym egzaminie testowym, w sposób uniemożliwiający dokonywanie zmian w ich treści;
+- **3)** przekazanie do CEM ocen z egzaminu ustnego i egzaminu praktycznego oraz dokumentacji związanej z przeprowadzonym PESDL, niezwłocznie po zakończonym PESDL, jednak nie później niż w terminie 14 dni od dnia zakończenia PESDL.
 
 **Art. 55.**
 
@@ -969,7 +1010,7 @@ Art. 144–151. (pominięte)
 
 2. PESDL jest przeprowadzany dwa razy w roku w sesji wiosennej od dnia 15 kwietnia do dnia 31 maja oraz w sesji jesiennej od dnia 2 listopada do dnia 15 grudnia.
 
-3. PESDL dla każdej dziedziny składa się z dwóch części w następującej kolejności egzaminu teoretycznego i egzaminu praktycznego. Warunkiem dopuszczenia do części praktycznej PESDL jest uzyskanie pozytywnego wyniku egzaminu teoretycznego.
+3. PESDL dla każdej dziedziny składa się z dwóch części w następującej kolejności – egzaminu teoretycznego i egzaminu praktycznego. Warunkiem dopuszczenia do części praktycznej PESDL jest uzyskanie pozytywnego wyniku egzaminu teoretycznego.
 
 4. Egzamin teoretyczny jest przeprowadzany w formie:
 
@@ -984,7 +1025,7 @@ Art. 144–151. (pominięte)
 
 8. Miejsca i terminy egzaminu praktycznego i egzaminu ustnego ustala dyrektor CEM w porozumieniu z przewodniczącym PKE.
 
-9. W przypadkach uzasadnionych nadzwyczajnymi okolicznościami, w szczególności zagrażającymi życiu lub zdrowiu osób biorących udział w PESDL, minister właściwy do spraw zdrowia może podjąć decyzję o odstąpieniu od przeprowadzenia egzaminu testowego albo ustnego lub praktycznego PESDL w danej dziedzinie w tej sesji z zachowaniem wyłącznie jednej albo dwóch z form egzaminu PESDL, albo zdecydować o przeprowadzeniu PESDL jeden raz w roku z zachowaniem wszystkich jego części, w jednej z sesji egzaminacyjnych.
+9. W przypadkach uzasadnionych nadzwyczajnymi okolicznościami, w szczególności zagrażającymi życiu lub zdrowiu osób biorących udział w PESDL, minister właściwy do spraw zdrowia może podjąć decyzję o odstąpieniu od przeprowadzenia egzaminu testowego albo ustnego lub praktycznego PESDL w danej dziedzinie w tej sesji z zachowaniem wyłącznie jednej albo dwóch z form egzaminu PESDL, albo zdecydować o przeprowadzeniu PESDL jeden raz w roku – z zachowaniem wszystkich jego części, w jednej z sesji egzaminacyjnych.
 
 10. W uzasadnionych przypadkach, związanych z wystąpieniem zwiększonego zagrożenia epidemicznego lub innych okoliczności zagrażających bezpieczeństwu osób uczestniczących w PESDL, dyrektor CEM w porozumieniu z przewodniczącym właściwej PKE może zdecydować, że egzamin ustny PESDL zostanie przeprowadzony za pośrednictwem środków komunikacji elektronicznej umożliwiających jednoczesny udział osoby zdającej i wszystkich członków Zespołu Egzaminacyjnego, zwany dalej „egzaminem zdalnym PESDL”.
 
@@ -1000,7 +1041,7 @@ Art. 144–151. (pominięte)
 
 16. Osoba zdająca jest widziana i słyszana przez wszystkich członków Zespołu Egzaminacyjnego bezpośrednio lub za pomocą środków komunikacji, o których mowa w ust. 10.
 
-17. W przypadku egzaminu zdalnego PESDL członkowie Zespołu Egzaminacyjnego składają ustne oświadczenia dotyczące wystawionych przez nich ocen. Oświadczenia te są rejestrowane za pomocą środków komunikacji, o których mowa w ust. 10, lub jeżeli nie ma takiej możliwości za pomocą oprogramowania dostępnego na stacjach roboczych członków Zespołu Egzaminacyjnego.
+17. W przypadku egzaminu zdalnego PESDL członkowie Zespołu Egzaminacyjnego składają ustne oświadczenia dotyczące wystawionych przez nich ocen. Oświadczenia te są rejestrowane za pomocą środków komunikacji, o których mowa w ust. 10, lub jeżeli nie ma takiej możliwości – za pomocą oprogramowania dostępnego na stacjach roboczych członków Zespołu Egzaminacyjnego.
 
 18. Komunikat o odstąpieniu od przeprowadzenia egzaminu testowego albo ustnego lub praktycznego PESDL, o których mowa w ust. 9, ogłasza się na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia oraz na stronie internetowej CEM.
 
@@ -1040,7 +1081,7 @@ Art. 144–151. (pominięte)
 
 **Art. 58.**
 
-1. CEM ustala wyniki PESDL i zamieszcza je w SMK, a w zakresie egzaminu testowego ogłasza je także na swojej stronie internetowej. Wynik PESDL nie stanowi decyzji w rozumieniu ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. CEM ustala wyniki PESDL i zamieszcza je w SMK, a w zakresie egzaminu testowego ogłasza je także na swojej stronie internetowej. Wynik PESDL nie stanowi decyzji w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. Diagnosta laboratoryjny, który nie przystąpił do PESDL w wyznaczonym terminie albo uzyskał wynik negatywny z PESDL, może przystąpić do PESDL w kolejnej sesji egzaminacyjnej.
 
@@ -1084,7 +1125,7 @@ Art. 144–151. (pominięte)
 
 7. Minister właściwy do spraw zdrowia wydaje ostateczne rozstrzygnięcie w terminie 7 dni od dnia otrzymania odwołania.
 
-8. Do rozstrzygnięć i postępowania, o których mowa w ust. 1–7, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracownika i organu, pełnomocnictw, sposobu obliczania terminów, wydawania uwierzytelnionych odpisów lub kopii akt sprawy oraz sprostowań.
+8. Do rozstrzygnięć i postępowania, o których mowa w ust. 1–7, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących wyłączenia pracownika i organu, pełnomocnictw, sposobu obliczania terminów, wydawania uwierzytelnionych odpisów lub kopii akt sprawy oraz sprostowań.
 
 9. Unieważnienie PESDL w całości albo w części powoduje, że traktuje się odpowiednio PESDL w całości albo jego część jako niebyły.
 
@@ -1093,6 +1134,20 @@ Art. 144–151. (pominięte)
 11. Za powtórzony PESDL albo jego część nie pobiera się opłaty egzaminacyjnej.
 
 **Art. 61.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** wykaz dziedzin medycyny laboratoryjnej, w których jest możliwe odbywanie szkolenia specjalizacyjnego, uwzględniając potrzebę zabezpieczenia dostępu do świadczeń zdrowotnych w określonym zakresie;
+- **2)** wykaz kodów specjalizacji w określonych dziedzinach medycyny laboratoryjnej, uwzględniając możliwość wyszukania danej dziedziny medycyny laboratoryjnej;
+- **3)** wysokość wynagrodzenia za wykonanie czynności kontrolnych, o którym mowa w art. 37 ust. 11 pkt 1, uwzględniając nakład pracy związany z przeprowadzaniem czynności kontrolnych;
+- **4)** wykaz specjalności, w których diagnosta laboratoryjny posiadający odpowiednią specjalizację I stopnia, uzyskaną na podstawie dotychczasowych przepisów, może uzyskać tytuł specjalisty w określonej dziedzinie po odbyciu szkolenia specjalizacyjnego zgodnie z programem, o którym mowa w art. 38 ust. 1 i 2, uwzględniając potrzebę zabezpieczenia dostępu do świadczeń zdrowotnych w określonym zakresie;
+- **5)** regulamin postępowania kwalifikacyjnego, uwzględniając konieczność prawidłowego przeprowadzenia postępowania kwalifikacyjnego;
+- **6)** szczegółowy zakres informacji, o których mowa w art. 43 ust. 3, wprowadzanych do EKS przez kierownika specjalizacji, uwzględniając konieczność zapewnienia pełnej informacji niezbędnej do prowadzenia specjalizacji;
+- **7)** wzór oświadczenia, o którym mowa w art. 53 ust. 4, uwzględniając konieczność zapewnienia jednolitości i przejrzystości tego dokumentu;
+- **8)** wysokość wynagrodzenia przewodniczącego Zespołu Egzaminacyjnego i członków Zespołu Egzaminacyjnego, o których mowa w art. 53 ust. 5 pkt 1, uwzględniając nakład pracy związany z przeprowadzaniem PESDL;
+- **9)** szczegółowy sposób i tryb składania PESDL oraz ustalania jego wyników, uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia PESDL;
+- **10)** wzór dyplomu specjalisty, uwzględniając konieczność zapewnienia przejrzystości dokumentu;
+- **11)** tryb wydawania przez dyrektora CEM duplikatu albo odpisu dyplomu PESDL oraz sposób uiszczania opłaty za wydanie duplikatu lub odpisu dyplomu PESDL,
+- **12)** tryb dokonywania przez dyrektora CEM korekty dyplomu PESDL oraz sposób uiszczania opłaty za dokonanie korekty dyplomu – mając na celu zapewnienie sprawnej realizacji zadań przez CEM;
+- **13)** wysokość opłaty, o której mowa w art. 51 ust. 1, uwzględniając koszty przeprowadzenia PESDL oraz wydania dyplomu potwierdzającego uzyskanie tytułu specjalisty.
 
 **Art. 62.**
 
@@ -1118,7 +1173,7 @@ Art. 144–151. (pominięte)
 5. Wniosek, o którym mowa w ust. 4, zawiera:
 
 - **1)** imię (imiona) i nazwisko wnioskodawcy;
-- **2)** numer PESEL, jeżeli został nadany, a w przypadku jego braku datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
+- **2)** numer PESEL, jeżeli został nadany, a w przypadku jego braku – datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
 - **3)** obywatelstwo (obywatelstwa);
 - **4)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
 - **5)** określenie przedmiotu wniosku;
@@ -1169,7 +1224,7 @@ Art. 144–151. (pominięte)
 4. Wniosek, o którym mowa w ust. 1, zawiera:
 
 - **1)** imię (imiona) i nazwisko wnioskodawcy;
-- **2)** numer PESEL, jeżeli został nadany, a w przypadku jego braku datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
+- **2)** numer PESEL, jeżeli został nadany, a w przypadku jego braku – datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
 - **3)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
 - **4)** określenie przedmiotu wniosku;
 - **5)** numer dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego”;
@@ -1219,6 +1274,11 @@ Art. 144–151. (pominięte)
 
 **Art. 64.** Dane zamieszczane w SMK mogą zostać udostępniane:
 
+- **1)** diagnoście laboratoryjnemu – w zakresie śledzenia przebiegu szkolenia specjalizacyjnego;
+- **2)** uczelniom – w zakresie wykonywanych zadań określonych w ustawie oraz monitorowania karier zawodowych swoich absolwentów na podstawie ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **3)** konsultantom w ochronie zdrowia – w zakresie wykonywanych zadań określonych w ustawie oraz w zakresie zadań, o których mowa w ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia;
+- **4)** CEM, CMKP, wojewodom, jednostkom szkolącym, Krajowej Radzie i ministrowi właściwemu do spraw zdrowia – w zakresie wykonywanych zadań określonych w ustawie.
+
 **Art. 65.**
 
 1. Diagnosta laboratoryjny ma obowiązek doskonalenia zawodowego, o którym mowa w art. 29 ust. 2, przez samokształcenie oraz udział w kursach realizowanych:
@@ -1239,7 +1299,7 @@ Art. 144–151. (pominięte)
 7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wzór karty doskonalenia zawodowego diagnosty laboratoryjnego,
-- **2)** liczbę punktów edukacyjnych przyznanych za poszczególne formy ustawicznego rozwoju zawodowego, o których mowa w art. 29 ust. 2, oraz dokumenty potwierdzające ich realizację, a także liczbę punktów niezbędnych do wypełnienia obowiązku doskonalenia zawodowego mając na celu zapewnienie właściwej jakości ustawicznego rozwoju zawodowego oraz rzetelnego sposobu dokumentowania jego przebiegu.
+- **2)** liczbę punktów edukacyjnych przyznanych za poszczególne formy ustawicznego rozwoju zawodowego, o których mowa w art. 29 ust. 2, oraz dokumenty potwierdzające ich realizację, a także liczbę punktów niezbędnych do wypełnienia obowiązku doskonalenia zawodowego – mając na celu zapewnienie właściwej jakości ustawicznego rozwoju zawodowego oraz rzetelnego sposobu dokumentowania jego przebiegu.
 
 **Art. 66.**
 
@@ -1268,7 +1328,7 @@ Art. 144–151. (pominięte)
 
 - **1)** wzór karty rozwoju zawodowego,
 - **2)** formy ustawicznego rozwoju zawodowego, o których mowa w ust. 3,
-- **3)** liczbę punktów edukacyjnych przyznawanych za poszczególne formy ustawicznego rozwoju zawodowego, o których mowa w ust. 3, oraz dokumenty potwierdzające ich realizację, a także liczbę punktów niezbędnych do wypełnienia obowiązku doskonalenia zawodowego, w danym okresie rozliczeniowym mając na celu zapewnienie właściwej jakości ustawicznego rozwoju zawodowego oraz rzetelnego sposobu dokumentowania jego przebiegu.
+- **3)** liczbę punktów edukacyjnych przyznawanych za poszczególne formy ustawicznego rozwoju zawodowego, o których mowa w ust. 3, oraz dokumenty potwierdzające ich realizację, a także liczbę punktów niezbędnych do wypełnienia obowiązku doskonalenia zawodowego, w danym okresie rozliczeniowym – mając na celu zapewnienie właściwej jakości ustawicznego rozwoju zawodowego oraz rzetelnego sposobu dokumentowania jego przebiegu.
 
 #### Rozdział 6 Samorząd diagnostów laboratoryjnych
 
@@ -1291,7 +1351,7 @@ Art. 144–151. (pominięte)
 - **1)** datę i numer wpisu;
 - **2)** dane diagnosty laboratoryjnego:
     - **a)** imię (imiona) i nazwisko,
-    - **b)** numer PESEL, jeżeli został nadany, a w przypadku jego braku datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania,
+    - **b)** numer PESEL, jeżeli został nadany, a w przypadku jego braku – datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania,
     - **c)** obywatelstwo (obywatelstwa),
     - **d)** adres miejsca zamieszkania, numer telefonu oraz adres poczty elektronicznej, jeżeli posiada,
     - **e)** numer dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego”,
@@ -1300,7 +1360,7 @@ Art. 144–151. (pominięte)
 - **3)** datę rozpoczęcia i zakończenia zatrudnienia, stanowisko oraz miejsce wykonywania czynności medycyny laboratoryjnej;
 - **4)** informację o dopełnieniu obowiązku doskonalenia zawodowego;
 - **5)** informację o prowadzeniu indywidualnej praktyki diagnosty laboratoryjnego lub udzielaniu świadczeń zdrowotnych w ramach grupowej praktyki diagnostów laboratoryjnych i numer wpisu do rejestru podmiotów wykonujących działalność leczniczą;
-- **6)** informację o skreśleniu z rejestru diagnostów, a w przypadku śmierci diagnosty laboratoryjnego datę jego zgonu.
+- **6)** informację o skreśleniu z rejestru diagnostów, a w przypadku śmierci diagnosty laboratoryjnego – datę jego zgonu.
 
 3. Diagnosta laboratoryjny posiadający prawo wykonywania zawodu diagnosty laboratoryjnego jest obowiązany zawiadomić Krajową Radę o zmianie danych, o których mowa w ust. 2 pkt 2–5, w terminie 30 dni od dnia zaistnienia tych zmian.
 
@@ -1342,7 +1402,7 @@ Art. 144–151. (pominięte)
 
 4. W przypadku podjęcia uchwały, o której mowa w ust. 2, w stosunku do osoby posiadającej prawo wykonywania zawodu lekarza Krajowa Rada w terminie miesiąca od dnia podjęcia uchwały powiadamia o tym właściwą dla wnioskodawcy okręgową radę lekarską lub Wojskową Radę Lekarską.
 
-**Art. 70.** Krajowa Rada udziela, na prawnie uzasadniony wniosek organu innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, informacji na temat prawa wykonywania zawodu diagnosty laboratoryjnego przez osobę wskazaną we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym, o którym mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającego decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm. ).
+**Art. 70.** Krajowa Rada udziela, na prawnie uzasadniony wniosek organu innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, informacji na temat prawa wykonywania zawodu diagnosty laboratoryjnego przez osobę wskazaną we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym, o którym mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającego decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm. ).
 
 **Art. 71.**
 
@@ -1356,7 +1416,7 @@ Art. 144–151. (pominięte)
 
 5. Dokument „Prawo wykonywania zawodu diagnosty laboratoryjnego”, o którym mowa w ust. 1, potwierdzający przyznanie tego prawa, zawiera:
 
-- **1)** nazwę dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego” w języku polskim i w języku angielskim;
+- **1)** nazwę dokumentu – „Prawo wykonywania zawodu diagnosty laboratoryjnego” w języku polskim i w języku angielskim;
 - **2)** imię (imiona) i nazwisko diagnosty laboratoryjnego;
 - **3)** tytuł zawodowy;
 - **4)** numer prawa wykonywania zawodu diagnosty laboratoryjnego;
@@ -1409,6 +1469,33 @@ Art. 144–151. (pominięte)
 
 **Art. 76.** Do zadań samorządu należy w szczególności:
 
+- **1)** reprezentowanie osób wykonujących zawód diagnosty laboratoryjnego oraz sprawowanie pieczy nad należytym i sumiennym wykonywaniem tego zawodu w granicach interesu publicznego i dla jego ochrony;
+- **2)** sprawowanie nadzoru nad należytym wykonywaniem czynności medycyny laboratoryjnej i sprawowanie pieczy nad należytym i sumiennym wykonywaniem zawodu diagnosty laboratoryjnego;
+- **3)** ustanawianie i upowszechnianie zasad etyki zawodowej oraz sprawowanie nadzoru nad ich przestrzeganiem;
+- **4)** udział w ustalaniu standardów i zasad oceny pracy diagnosty laboratoryjnego;
+- **5)** przyznawanie prawa wykonywania zawodu diagnosty laboratoryjnego;
+- **6)** uznawanie kwalifikacji diagnosty laboratoryjnego uzyskanych w innych państwach członkowskich oraz osoby, o której mowa w art. 11 ust. 1 pkt 7, zamierzającej wykonywać zawód diagnosty laboratoryjnego na terytorium Rzeczypospolitej Polskiej;
+- **7)** wydawanie zaświadczeń potwierdzających kwalifikacje zawodowe na podstawie art. 9 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
+- **8)** wykonywanie zadań organu właściwego, o którym mowa w art. 6 ust. 1 pkt 3 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej;
+- **9)** zawieszanie i pozbawianie prawa wykonywania zawodu diagnosty laboratoryjnego oraz ograniczanie w wykonywaniu określonych czynności medycyny laboratoryjnej przez diagnostę laboratoryjnego;
+- **10)** prowadzenie postępowania w przedmiocie odpowiedzialności zawodowej diagnosty laboratoryjnego;
+- **11)** prowadzenie postępowania w przedmiocie niezdolności do wykonywania zawodu diagnosty laboratoryjnego lub w przedmiocie niedostatecznego przygotowania do wykonywania tego zawodu;
+- **12)** prowadzenie lub udział w organizowaniu doskonalenia zawodowego diagnosty laboratoryjnego;
+- **13)** opiniowanie kandydatur diagnosty laboratoryjnego na stanowiska lub funkcje, jeżeli odrębne przepisy tak stanowią;
+- **14)** prowadzenie rejestru diagnostów i rejestru podmiotów wykonujących działalność leczniczą w zakresie indywidualnych i grupowych praktyk diagnostów laboratoryjnych na zasadach określonych w ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **15)** opiniowanie warunków pracy i płac diagnostów laboratoryjnych;
+- **16)** integrowanie środowiska diagnostów laboratoryjnych;
+- **17)** działania na rzecz ochrony zawodu diagnosty laboratoryjnego, w tym występowanie w obronie godności zawodu diagnosty laboratoryjnego oraz interesów indywidualnych i zbiorowych członków samorządu;
+- **18)** zajmowanie stanowiska w sprawach stanu zdrowia społeczeństwa, polityki zdrowotnej państwa oraz organizacji ochrony zdrowia;
+- **19)** opiniowanie projektów aktów prawnych dotyczących ochrony zdrowia i wykonywania zawodu diagnosty laboratoryjnego bądź występowanie o ich wydanie;
+- **20)** prowadzenie badań dotyczących ochrony zdrowia i wykonywania zawodu diagnosty laboratoryjnego;
+- **21)** współdziałanie z organami administracji publicznej, związkami zawodowymi oraz innymi organizacjami w kraju i za granicą w sprawach dotyczących ochrony zdrowia i warunków wykonywania zawodu diagnosty laboratoryjnego;
+- **22)** uczestnictwo w konkursach na stanowiska w ochronie zdrowia, jeżeli odrębne przepisy tak stanowią;
+- **23)** przechowywanie i udostępnianie dokumentacji medycznej w przypadku, o którym mowa w art. 30a ust. 3 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **24)** prowadzenie instytucji samopomocowych i innych form pomocy materialnej dla diagnostów laboratoryjnych i ich rodzin;
+- **25)** udzielanie pomocy, w tym pomocy prawnej, w realizacji praw członków Krajowej Izby;
+- **26)** opracowywanie wytycznych czynności medycyny laboratoryjnej.
+
 **Art. 77.**
 
 1. Organami samorządu są:
@@ -1439,13 +1526,13 @@ Art. 144–151. (pominięte)
 2. Czynne prawo wyborcze przysługuje wszystkim diagnostom laboratoryjnym, z wyjątkiem diagnostów laboratoryjnych:
 
 - **1)** prawomocnie ukaranych karą, o której mowa w art. 124 ust. 3 pkt 6 albo 7, lub
-- **2)** wobec których sąd wydał prawomocne orzeczenie o zastosowaniu środka karnego określonego w art. 39 pkt 1–2a ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383), do czasu upływu terminu, na który został orzeczony środek karny, lub
+- **2)** wobec których sąd wydał prawomocne orzeczenie o zastosowaniu środka karnego określonego w art. 39 pkt 1–2a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383), do czasu upływu terminu, na który został orzeczony środek karny, lub
 - **3)** wobec których sąd lub prokurator wydał postanowienie o zastosowaniu środka zapobiegawczego, który uniemożliwia wykonywanie zawodu diagnosty laboratoryjnego do czasu upływu terminu, na który został orzeczony środek zapobiegawczy.
 
 3. Bierne prawo wyborcze przysługuje wszystkim diagnostom laboratoryjnym, z wyjątkiem diagnostów laboratoryjnych:
 
 - **1)** wobec których prawomocnie orzeczono jedną z kar, o których mowa w art. 124 ust. 3, lub
-- **2)** wobec których sąd wydał prawomocne orzeczenie o zastosowaniu środka karnego określonego w art. 39 pkt 1–2a ustawy z dnia 6 czerwca 1997 r. Kodeks karny, do czasu upływu terminu, na który został orzeczony środek karny, lub
+- **2)** wobec których sąd wydał prawomocne orzeczenie o zastosowaniu środka karnego określonego w art. 39 pkt 1–2a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, do czasu upływu terminu, na który został orzeczony środek karny, lub
 - **3)** wobec których sąd lub prokurator wydał postanowienie o zastosowaniu środka zapobiegawczego, który uniemożliwia wykonywanie zawodu diagnosty laboratoryjnego, do czasu upływu terminu, na który został orzeczony środek zapobiegawczy, lub
 - **4)** wobec których Krajowa Rada podjęła uchwałę o zawieszeniu prawa wykonywania zawodu diagnosty laboratoryjnego lub wobec których Sąd Diagnostów Laboratoryjnych wydał postanowienie o tymczasowym zawieszeniu prawa wykonywania zawodu diagnosty laboratoryjnego, do czasu upływu terminu zawieszenia prawa wykonywania zawodu diagnosty laboratoryjnego.
 
@@ -1457,7 +1544,7 @@ Art. 144–151. (pominięte)
 - **2)** skreślenia z rejestru diagnostów;
 - **3)** odwołania przez organ, który dokonał wyboru;
 - **4)** ukarania prawomocnym orzeczeniem Sądu Diagnostów Laboratoryjnych lub Wyższego Sądu Diagnostów Laboratoryjnych karą określoną w art. 124 ust. 3;
-- **5)** prawomocnego orzeczenia przez sąd środka karnego określonego w art. 39 pkt 1–2a ustawy z dnia 6 czerwca 1997 r. Kodeks karny;
+- **5)** prawomocnego orzeczenia przez sąd środka karnego określonego w art. 39 pkt 1–2a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny;
 - **6)** skazania prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
 - **7)** zawieszenia prawa wykonywania zawodu diagnosty laboratoryjnego uchwałą Krajowej Rady;
 - **8)** śmierci diagnosty laboratoryjnego.
@@ -1496,13 +1583,13 @@ Art. 144–151. (pominięte)
 
 2. Minister właściwy do spraw zdrowia w celu realizacji uprawnienia, o którym mowa w ust. 1, ma prawo zwrócić się do Krajowej Rady o przekazanie podjętej przez ten organ uchwały. Krajowa Rada przekazuje uchwałę w terminie 14 dni od dnia doręczenia wystąpienia ministra właściwego do spraw zdrowia.
 
-3. Minister właściwy do spraw zdrowia może zwrócić się do Krajowego Zjazdu lub Krajowej Rady o podjęcie uchwały w sprawie należącej do właściwości samorządu. Uchwała Krajowej Rady powinna być podjęta w terminie 3 miesięcy od dnia doręczenia wystąpienia ministra właściwego do spraw zdrowia, a uchwała Krajowego Zjazdu na najbliższym Krajowym Zjeździe.
+3. Minister właściwy do spraw zdrowia może zwrócić się do Krajowego Zjazdu lub Krajowej Rady o podjęcie uchwały w sprawie należącej do właściwości samorządu. Uchwała Krajowej Rady powinna być podjęta w terminie 3 miesięcy od dnia doręczenia wystąpienia ministra właściwego do spraw zdrowia, a uchwała Krajowego Zjazdu – na najbliższym Krajowym Zjeździe.
 
 **Art. 83.** Najwyższym organem samorządu jest Krajowy Zjazd.
 
 **Art. 84.**
 
-1. W Krajowym Zjeździe biorą udział delegaci wybrani przez zgromadzenia wojewódzkie diagnostów laboratoryjnych, zwane dalej „zgromadzeniami wojewódzkimi”, oraz z głosem doradczym członkowie ustępujących organów samorządu niebędący delegatami.
+1. W Krajowym Zjeździe biorą udział delegaci wybrani przez zgromadzenia wojewódzkie diagnostów laboratoryjnych, zwane dalej „zgromadzeniami wojewódzkimi”, oraz z głosem doradczym – członkowie ustępujących organów samorządu niebędący delegatami.
 
 2. W zgromadzeniu wojewódzkim uczestniczą diagności laboratoryjni zgodnie z ostatnim udokumentowanym przez diagnostę laboratoryjnego w rejestrze diagnostów miejscem zamieszkania na terenie danego województwa.
 
@@ -1517,6 +1604,15 @@ Art. 144–151. (pominięte)
 7. Krajowy Zjazd zwoływany jest przez Krajową Radę raz na 4 lata.
 
 **Art. 85.** Do Krajowego Zjazdu należy:
+
+- **1)** wybór Prezesa Krajowej Rady, z zastrzeżeniem art. 88 pkt 7;
+- **2)** wybór Krajowej Rady, Komisji Rewizyjnej, Sądu Diagnostów Laboratoryjnych, Wyższego Sądu Diagnostów Laboratoryjnych oraz Rzecznika i jego zastępców, z zastrzeżeniem art. 88 pkt 7;
+- **3)** uchwalenie wytycznych działania samorządu i jego organów;
+- **4)** określenie zasad przeprowadzania wyborów do organów samorządu, liczby członków tych organów oraz trybu ich odwoływania, a także zasad podejmowania uchwał przez organy samorządu, z zastrzeżeniem art. 84 ust. 6;
+- **5)** rozpatrywanie i zatwierdzanie sprawozdań Krajowej Rady, Komisji Rewizyjnej, Sądu Diagnostów Laboratoryjnych, Wyższego Sądu Diagnostów Laboratoryjnych i Rzecznika;
+- **6)** kodyfikowanie zasad etyki zawodowej;
+- **7)** ustalenie podstawowych zasad gospodarki finansowej samorządu;
+- **8)** uchwalenie regulaminów działania organów samorządu.
 
 **Art. 86.**
 
@@ -1539,9 +1635,30 @@ Art. 144–151. (pominięte)
 
 3. Prezydium Krajowej Rady działa w imieniu Krajowej Rady w sprawach określonych uchwałą Krajowej Rady, z wyjątkiem uchwalania budżetu.
 
-4. Krajowa Rada może, w drodze uchwały, upoważnić Prezydium do podejmowania uchwał w sprawach diagnostów laboratoryjnych, do których stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego dotyczące decyzji administracyjnych.
+4. Krajowa Rada może, w drodze uchwały, upoważnić Prezydium do podejmowania uchwał w sprawach diagnostów laboratoryjnych, do których stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące decyzji administracyjnych.
 
 **Art. 88.** Do zakresu działania Krajowej Rady należy:
+
+- **1)** reprezentowanie samorządu, w tym wobec organów państwowych i samorządowych, sądów, Narodowego Funduszu Zdrowia, instytucji i organizacji;
+- **2)** przyznawanie i zawieszanie prawa wykonywania zawodu diagnosty laboratoryjnego oraz ograniczanie w wykonywaniu czynności zawodowych;
+- **3)** opiniowanie projektów aktów prawnych oraz przedstawianie wniosków dotyczących regulacji z zakresu ochrony zdrowia;
+- **4)** koordynowanie doskonalenia zawodowego diagnostów laboratoryjnych;
+- **5)** wykonywanie uchwał Krajowego Zjazdu;
+- **6)** uchwalanie budżetu Krajowej Rady i zatwierdzanie sprawozdań z jego wykonania oraz rozpatrywanie wniosków Komisji Rewizyjnej;
+- **7)** wybór Prezesa Krajowej Rady oraz Rzecznika, jeżeli ich mandat wygasł w okresie między Krajowymi Zjazdami;
+- **8)** wybór wizytatorów;
+- **9)** uchwalanie:
+    - **a)** regulaminów działalności samorządu i jego organów,
+    - **b)** regulaminu działalności wizytatorów,
+    - **c)** regulaminu prowadzenia oraz wykonywania kontroli na zasadach w tej ustawie przewidzianych dla organu prowadzącego: – rejestr diagnostów oraz – rejestr podmiotów wykonujących działalność leczniczą w zakresie praktyk diagnostów laboratoryjnych na zasadach określonych w ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej,
+    - **d)** regulaminu prowadzenia ewidencji laboratoriów,
+    - **e)** innych regulaminów zapewniających prawidłowe funkcjonowanie Krajowej Izby;
+
+- **10)** ustalanie zasad gospodarki finansowej samorządu;
+- **11)** określanie wysokości składki członkowskiej i zasad jej podziału oraz wysokości opłat manipulacyjnych, w tym związanych z postępowaniem w sprawie wpisu do rejestru diagnostów;
+- **12)** zawieszanie prawa wykonywania zawodu diagnosty laboratoryjnego, do czasu uiszczenia należności z tytułu składek członkowskich, diagnosty laboratoryjnego, który zalega – mimo wezwania – z zapłatą składki członkowskiej dłużej niż 6 miesięcy;
+- **13)** wykonywanie zadań niezastrzeżonych do kompetencji innych organów samorządu;
+- **14)** wykonywanie innych zadań określonych w ustawie oraz w przepisach odrębnych.
 
 **Art. 89.** Do zakresu działania Komisji Rewizyjnej należy kontrola działalności finansowej i gospodarczej Krajowej Rady.
 
@@ -1574,7 +1691,7 @@ Art. 144–151. (pominięte)
 
 5. Mediator sporządza, po przeprowadzeniu postępowania mediacyjnego, sprawozdanie z jego przebiegu i wyników, które dołącza się do akt sprawy.
 
-6. Do postępowania mediacyjnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304 i 1178) dotyczące postępowania mediacyjnego.
+6. Do postępowania mediacyjnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304 i 1178) dotyczące postępowania mediacyjnego.
 
 **Art. 93.** W sprawach odpowiedzialności zawodowej Rzecznika postępowanie prowadzi zastępca Rzecznika wyznaczony przez Wyższy Sąd Diagnostów Laboratoryjnych.
 
@@ -1582,9 +1699,9 @@ Art. 144–151. (pominięte)
 
 **Art. 95.**
 
-1. Pracodawca bez uzyskania zgody Krajowej Rady nie może wypowiedzieć umowy o pracę, warunków pracy i płacy na niekorzyść diagnoście laboratoryjnemu pełniącemu funkcję Prezesa Krajowej Rady albo będącemu członkiem organów, o których mowa w art. 77 ust. 1 pkt 2–5, Rzecznikiem lub zastępcą Rzecznika, w trakcie kadencji oraz w okresie 1 roku po ustaniu tej kadencji, chyba że zachodzą przyczyny określone w art. 43 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+1. Pracodawca bez uzyskania zgody Krajowej Rady nie może wypowiedzieć umowy o pracę, warunków pracy i płacy na niekorzyść diagnoście laboratoryjnemu pełniącemu funkcję Prezesa Krajowej Rady albo będącemu członkiem organów, o których mowa w art. 77 ust. 1 pkt 2–5, Rzecznikiem lub zastępcą Rzecznika, w trakcie kadencji oraz w okresie 1 roku po ustaniu tej kadencji, chyba że zachodzą przyczyny określone w art. 43 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
-2. Przepisu ust. 1 nie stosuje się w przypadku, gdy rozwiązanie umowy o pracę nastąpiło z przyczyn określonych w art. 52 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, oraz w razie uzyskania przez pracownika prawa do renty z tytułu całkowitej niezdolności do pracy.
+2. Przepisu ust. 1 nie stosuje się w przypadku, gdy rozwiązanie umowy o pracę nastąpiło z przyczyn określonych w art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz w razie uzyskania przez pracownika prawa do renty z tytułu całkowitej niezdolności do pracy.
 
 **Art. 96.**
 
@@ -1592,7 +1709,7 @@ Art. 144–151. (pominięte)
 
 2. Na wniosek Krajowej Rady albo Prezesa Krajowej Rady podmiot zatrudniający jest obowiązany zwolnić od pracy diagnostę laboratoryjnego będącego członkiem Krajowej Rady lub wykonującego czynności na rzecz Krajowej Rady, bez zachowania prawa do wynagrodzenia.
 
-3. Krajowa Rada określa zasady i tryb zwrotu kosztów podróży oraz innych uzasadnionych wydatków poniesionych przez osobę będącą członkiem organów samorządu lub wykonującą czynności na rzecz organów samorządu na czas zwolnień od pracy, o których mowa w ust. 2, biorąc pod uwagę przepisy wydane na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+3. Krajowa Rada określa zasady i tryb zwrotu kosztów podróży oraz innych uzasadnionych wydatków poniesionych przez osobę będącą członkiem organów samorządu lub wykonującą czynności na rzecz organów samorządu na czas zwolnień od pracy, o których mowa w ust. 2, biorąc pod uwagę przepisy wydane na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 97.** Samorząd może prowadzić działalność gospodarczą.
 
@@ -1637,7 +1754,7 @@ Art. 144–151. (pominięte)
 
 2. Celem czynności sprawdzających jest wstępne zbadanie okoliczności koniecznych do ustalenia, czy istnieją podstawy do wszczęcia postępowania wyjaśniającego. W trakcie czynności sprawdzających nie przeprowadza się dowodu z opinii biegłego ani z czynności wymagających spisania protokołu, z wyjątkiem możliwości przesłuchania w charakterze świadka osoby składającej skargę na diagnostę laboratoryjnego.
 
-3. Celem postępowania wyjaśniającego jest ustalenie, czy został popełniony czyn mogący stanowić przewinienie zawodowe, wyjaśnienie okoliczności sprawy, a w przypadku stwierdzenia znamion przewinienia zawodowego ustalenie obwinionego oraz zebranie, zabezpieczenie i w niezbędnym zakresie utrwalenie dowodów dla sądu diagnostów laboratoryjnych.
+3. Celem postępowania wyjaśniającego jest ustalenie, czy został popełniony czyn mogący stanowić przewinienie zawodowe, wyjaśnienie okoliczności sprawy, a w przypadku stwierdzenia znamion przewinienia zawodowego – ustalenie obwinionego oraz zebranie, zabezpieczenie i w niezbędnym zakresie utrwalenie dowodów dla sądu diagnostów laboratoryjnych.
 
 **Art. 103.**
 
@@ -1699,6 +1816,12 @@ Art. 144–151. (pominięte)
 **Art. 109.** Prawomocne rozstrzygnięcie sądu diagnostów laboratoryjnych kształtujące prawo lub stosunek prawny jest wiążące dla organów prowadzących postępowanie w przedmiocie odpowiedzialności zawodowej diagnostów laboratoryjnych.
 
 **Art. 110.** Postępowania w przedmiocie odpowiedzialności zawodowej diagnostów laboratoryjnych nie wszczyna się, a wszczęte umarza, jeżeli:
+
+- **1)** czynu nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia;
+- **2)** czyn nie stanowi przewinienia zawodowego albo ustawa stanowi, że sprawca nie popełnia przewinienia zawodowego;
+- **3)** obwiniony zmarł, z zastrzeżeniem art. 105 ust. 5;
+- **4)** nastąpiło ustanie karalności;
+- **5)** postępowanie w przedmiocie odpowiedzialności zawodowej diagnostów laboratoryjnych co do tego samego czynu tej samej osoby zostało już prawomocnie zakończone albo wcześniej wszczęte toczy się.
 
 **Art. 111.**
 
@@ -1856,7 +1979,7 @@ Art. 144–151. (pominięte)
 
 3. Sąd diagnostów laboratoryjnych jest uprawniony do wystawiania tytułu egzekucyjnego przeciwko diagnoście laboratoryjnemu w celu wszczęcia egzekucji kary pieniężnej, o której mowa w art. 124 ust. 3 pkt 3.
 
-4. W tytule egzekucyjnym, o którym mowa w ust. 3, wskazuje się dłużnika zobowiązanego do zapłaty, jego numer PESEL, jeżeli został nadany, a w przypadku jego braku datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania, wysokość kary pieniężnej, termin płatności, datę wystawienia tytułu egzekucyjnego, jak również oznaczenie czynności, z której wynika dochodzone roszczenie, oraz wzmiankę o wymagalności roszczenia. Tytuł egzekucyjny powinien być opatrzony naklejką, nadrukiem lub pieczęcią organu wystawiającego tytuł oraz podpisami osób uprawnionych do działania w jego imieniu.
+4. W tytule egzekucyjnym, o którym mowa w ust. 3, wskazuje się dłużnika zobowiązanego do zapłaty, jego numer PESEL, jeżeli został nadany, a w przypadku jego braku – datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania, wysokość kary pieniężnej, termin płatności, datę wystawienia tytułu egzekucyjnego, jak również oznaczenie czynności, z której wynika dochodzone roszczenie, oraz wzmiankę o wymagalności roszczenia. Tytuł egzekucyjny powinien być opatrzony naklejką, nadrukiem lub pieczęcią organu wystawiającego tytuł oraz podpisami osób uprawnionych do działania w jego imieniu.
 
 **Art. 126.**
 
@@ -1880,14 +2003,14 @@ Art. 144–151. (pominięte)
 
 - **1)** oznaczenie sądu diagnostów laboratoryjnych, który je wydał, oraz imiona i nazwiska sędziów, Rzecznika i protokolanta;
 - **2)** datę oraz miejsce rozpoznania sprawy i wydania orzeczenia;
-- **3)** imię (imiona), nazwisko obwinionego, numer PESEL, jeżeli został nadany, a w przypadku jego braku datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
+- **3)** imię (imiona), nazwisko obwinionego, numer PESEL, jeżeli został nadany, a w przypadku jego braku – datę i miejsce urodzenia, cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu potwierdzającego tożsamość oraz państwo jego wydania;
 - **4)** przytoczenie opisu i kwalifikacji prawnej czynu, którego popełnienie Rzecznik zarzucił obwinionemu;
 - **5)** rozstrzygnięcie sądu diagnostów laboratoryjnych;
 - **6)** uzasadnienie.
 
 2. Orzeczenie skazujące zawiera elementy, o których mowa w ust. 1, a także:
 
-- **1)** dokładne określenie przypisanego obwinionemu czynu oraz jeżeli dotyczy jego kwalifikację prawną;
+- **1)** dokładne określenie przypisanego obwinionemu czynu oraz jeżeli dotyczy – jego kwalifikację prawną;
 - **2)** rozstrzygnięcie co do kary, a w razie potrzeby co do zaliczenia na jej poczet tymczasowego zawieszenia obwinionego w prawie wykonywania zawodu diagnosty laboratoryjnego lub tymczasowego ograniczenia wykonywania określonych czynności medycyny laboratoryjnej przez obwinionego.
 
 3. Uzasadnienie zawiera:
@@ -1920,7 +2043,7 @@ Art. 144–151. (pominięte)
 
 **Art. 132.**
 
-1. Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
+1. Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
 
 2. Niedopuszczalne jest uwzględnienie kasacji na niekorzyść obwinionego wniesionej po upływie 6 miesięcy od dnia uprawomocnienia się orzeczenia Wyższego Sądu Diagnostów Laboratoryjnych.
 
@@ -1943,7 +2066,7 @@ Art. 144–151. (pominięte)
 
 3. Wznowienie postępowania w przedmiocie odpowiedzialności zawodowej może nastąpić na wniosek strony lub z urzędu.
 
-4. Postępowanie w przedmiocie odpowiedzialności zawodowej wznawia się z urzędu tylko w razie ujawnienia jednego z uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+4. Postępowanie w przedmiocie odpowiedzialności zawodowej wznawia się z urzędu tylko w razie ujawnienia jednego z uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 5. Wznowienie postępowania w przedmiocie odpowiedzialności zawodowej nie może nastąpić z przyczyn wymienionych w ust. 1, jeżeli były one przedmiotem rozpoznania w trybie kasacji.
 
@@ -1989,7 +2112,7 @@ Art. 144–151. (pominięte)
 
 **Art. 138.**
 
-1. Krajowa Rada prowadzi Rejestr Ukaranych Diagnostów Laboratoryjnych, zwany dalej „Rejestrem Ukaranych”, w którym dokonuje się wpisu o ukaraniu. Dane, o których mowa w ust. 2, są udostępniane na wniosek sądu, organów ścigania, organu administracji rządowej w zakresie niezbędnym do realizacji zadań ustawowych.
+1. Krajowa Rada prowadzi Rejestr Ukaranych Diagnostów Laboratoryjnych, zwany dalej „Rejestrem Ukaranych”, w którym dokonuje się wpisu o ukaraniu. Dane, o których mowa w ust. 2, są udostępniane na wniosek sądu, organów ścigania, organu administracji rządowej – w zakresie niezbędnym do realizacji zadań ustawowych.
 
 2. Wpis o ukaraniu, o którym mowa w ust. 1, zawiera:
 
@@ -2016,6 +2139,9 @@ Art. 144–151. (pominięte)
 
 **Art. 140.** W sprawach nieuregulowanych w niniejszej ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
 
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+
 **Art. 141.** Nieopłacone w terminie koszty postępowania w przedmiocie odpowiedzialności dyscyplinarnej oraz kara pieniężna, o której mowa w art. 124 ust. 3 pkt 3, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
 #### Rozdział 8 Przepisy karne
@@ -2028,7 +2154,7 @@ Art. 144–151. (pominięte)
 
 3. Kto bez wymaganych uprawnień posługuje się tytułem diagnosty laboratoryjnego, podlega karze grzywny.
 
-4. Postępowanie w sprawach, o których mowa w ust. 1–3, toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
+4. Postępowanie w sprawach, o których mowa w ust. 1–3, toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
 **Art. 143.** Jeżeli sprawca czynu, o którym mowa w art. 142 ust. 1, działa w celu osiągnięcia korzyści majątkowej albo wprowadza w błąd co do posiadania takiego uprawnienia, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
 
@@ -2076,7 +2202,7 @@ Art. 144–151. (pominięte)
 
 - **1)** rozpoczęcie szkolenia specjalizacyjnego, o których mowa w art. 30g ust. 1 pkt 1 ustawy uchylanej w art. 165,
 - **2)** przystąpienie do Państwowego Egzaminu Specjalizacyjnego Diagnostów Laboratoryjnych, o których mowa w art. 30q ust. 1 ustawy uchylanej w art. 165,
-- **3)** uznanie uzyskanego za granicą tytułu specjalisty w dziedzinie diagnostyki laboratoryjnej za równoważny z tytułem specjalisty uzyskanym w Rzeczypospolitej Polskiej, o których mowa w art. 30zc ust. 1 ustawy uchylanej w art. 165 złożone i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy podlegają rozpatrzeniu na podstawie przepisów dotychczasowych.
+- **3)** uznanie uzyskanego za granicą tytułu specjalisty w dziedzinie diagnostyki laboratoryjnej za równoważny z tytułem specjalisty uzyskanym w Rzeczypospolitej Polskiej, o których mowa w art. 30zc ust. 1 ustawy uchylanej w art. 165 – złożone i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy podlegają rozpatrzeniu na podstawie przepisów dotychczasowych.
 
 **Art. 158.**
 
@@ -2137,4 +2263,8 @@ Art. 144–151. (pominięte)
 **Art. 165.** Traci moc ustawa z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2022 r. poz. 2162).
 
 **Art. 166.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 31 ust. 4, art. 68 ust. 2 pkt 5 i ust. 3, art. 76 pkt 23, art. 88 pkt 9 lit. c tiret drugie, art. 147 pkt 2 oraz art. 149 pkt 1–4 i 12–17, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
+- **2)** art. 149 pkt 5–11 oraz art. 152–154, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+
 

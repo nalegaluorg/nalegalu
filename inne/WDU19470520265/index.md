@@ -8,7 +8,7 @@ pos: 265
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o upamiętnieniu męczeństwa Narodu Polskiego i innych Narodów w Oświęcimiu
@@ -41,7 +41,9 @@ source: "isap-pdf"
 
 **Art. 5.** Organem opiniodawczym i doradczym w zakresie działalności Państwowego Muzeum Auschwitz-Birkenau w Oświęcimiu jest Rada Ochrony Pomników Męczeństwa.
 
-**Art. 6.** Tereny, wymienione w art. 2, podlegają wywłaszczeniu na rzecz Skarbu Państwa i natychmiastowemu zajęciu przez Ministra Kultury i Sztuki za odszkodowaniem. Upoważnia się Ministra Kultury i Sztuki do przekazania w całości lub w części wywłaszczonych terenów w zarząd Polskiemu Związkowi byłych Więźniów Politycznych Hitlerowskich Więzień i Obozów Koncentracyjnych oraz do ustalenia zasad administracji gospodarczej.
+**Art. 6.** Tereny, wymienione w art. 2, podlegają wywłaszczeniu na rzecz Skarbu Państwa i natychmiastowemu zajęciu przez Ministra Kultury i Sztuki za odszkodowaniem.
+
+**Art. 7.** Upoważnia się Ministra Kultury i Sztuki do przekazania w całości lub w części wywłaszczonych terenów w zarząd Polskiemu Związkowi byłych Więźniów Politycznych Hitlerowskich Więzień i Obozów Koncentracyjnych oraz do ustalenia zasad administracji gospodarczej.
 
 **Art. 8.** Wykonanie niniejszej ustawy porucza się Ministrowi Kultury i Sztuki w porozumieniu z Ministrami: Administracji Publicznej, Rolnictwa i Reform Rolnych, Odbudowy i Skarbu.
 

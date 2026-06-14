@@ -8,7 +8,7 @@ pos: 438
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przekształceniu Wyższej Szkoły Rolniczo-Pedagogicznej w Siedlcach

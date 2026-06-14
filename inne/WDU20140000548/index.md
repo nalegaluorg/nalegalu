@@ -8,10 +8,10 @@ pos: 548
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 kwietnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 548 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 23 kwietnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/548/text.pdf) |
 
-Poz. 548 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 23 kwietnia 2014 r.
-w sprawie wniosku o wydanie decyzji o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE oraz sposobu odnotowywania w dokumencie podróży wydania decyzji o wydaleniu Na podstawie art. 74b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043, z późn. zm. ) zarządza się, co następuje: § 1. 1. Wniosek o wydanie decyzji o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE, zwany dalej „wnioskiem”, zawiera:
+w sprawie wniosku o wydanie decyzji o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE oraz sposobu odnotowywania w dokumencie podróży wydania decyzji o wydaleniu Na podstawie art. 74b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Wniosek o wydanie decyzji o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE, zwany dalej „wnioskiem”, zawiera:
 1) oznaczenie organu wnioskującego;
 2) datę wystąpienia z wnioskiem;
 3) podstawę prawną wniosku;

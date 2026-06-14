@@ -8,10 +8,10 @@ pos: 1852
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 października 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1852 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 15 września 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001852) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1852/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 15 września 2017 r.
-w sprawie szczegółowych sposobów postępowania przy zwalczaniu i zapobieganiu rozprzestrzenianiu się organizmu Anoplophora glabripennis (Motschulsky) Na podstawie art. 10 ust. 1 pkt 1–4 oraz art. 20 ust. 1 pkt 4–6 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2016 r. poz. 2041 i 2246) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie szczegółowych sposobów postępowania przy zwalczaniu i zapobieganiu rozprzestrzenianiu się organizmu Anoplophora glabripennis (Motschulsky) Na podstawie art. 10 ust. 1 pkt 1–4 oraz art. 20 ust. 1 pkt 4–6 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2016 r. poz. 2041 i 2246) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe sposoby postępowania przy zwalczaniu i zapobieganiu rozprzestrzenianiu się organizmu Anoplophora glabripennis (Motschulsky), zwanego dalej „organizmem szkodliwym”, w tym:
 a) metody zwalczania i zapobiegania rozprzestrzenianiu się organizmu szkodliwego,
 b) metody wykrywania i identyfikacji organizmu szkodliwego,
 c) sposób wyznaczania stref, w których powinny być stosowane środki w celu zwalczania lub zapobiegania rozprzestrzenianiu się organizmu szkodliwego,
 d) warunki prowadzenia produkcji roślin szczególnie podatnych na porażenie przez organizm szkodliwy, wymienionych w załączniku nr 1 do rozporządzenia, w tym przeznaczonych do sadzenia, innych niż nasiona, zwanych dalej „roślinami szczególnie podatnymi na porażenie”,
-e) warunki przemieszczania: roślin szczególnie podatnych na porażenie, drewnianego materiału opakowaniowego wykonanego w całości lub w części z roślin szczególnie podatnych na porażenie, zwanego dalej „drewnianym materiałem opakowaniowym”, drewna innego niż drewniany materiał opakowaniowy, zgodnego z kodem CN wymienionym w załączniku nr 2 do rozporządzenia, w tym drewna, które nie zachowało naturalnie zaokrąglonej powierzchni, zwanego dalej „drewnem”;
+e) warunki przemieszczania: – roślin szczególnie podatnych na porażenie, – drewnianego materiału opakowaniowego wykonanego w całości lub w części z roślin szczególnie podatnych na porażenie, zwanego dalej „drewnianym materiałem opakowaniowym”, – drewna innego niż drewniany materiał opakowaniowy, zgodnego z kodem CN wymienionym w załączniku nr 2 do rozporządzenia, w tym drewna, które nie zachowało naturalnie zaokrąglonej powierzchni, zwanego dalej „drewnem”;
 2) wymagania specjalne, które powinny spełniać rośliny szczególnie podatne na porażenie oraz drewno, jeżeli są one wprowadzane na terytorium Rzeczypospolitej Polskiej lub przemieszczane przez to terytorium z państw trzecich, wraz ze wskazaniem wymagań, które należy zawrzeć w świadectwie fitosanitarnym;
 3) rośliny, produkty roślinne lub przedmioty, które zaopatruje się w paszport roślin lub świadectwo fitosanitarne i poddaje się kontroli zdrowotności przed wprowadzeniem na terytorium Rzeczypospolitej Polskiej lub przemieszczaniem przez to terytorium;
 4) rośliny, produkty roślinne lub przedmioty, których uprawianie, wytwarzanie, wprowadzanie na terytorium Rzeczypospolitej Polskiej lub przemieszczanie przez to terytorium mogą prowadzić podmioty wpisane do rejestru przedsiębiorców, o którym mowa w art. 12 ust. 1 pkt 3 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin, z uwzględnieniem rodzaju działalności tych podmiotów lub przeznaczenia tych roślin, produktów roślinnych lub przedmiotów.
@@ -77,7 +77,7 @@ e) informuje o zagrożeniach związanych z występowaniem organizmu szkodliwego,
 f) może podejmować inne niż określone w lit. a–e działania niezbędne do zwalczenia i zapobieżenia rozprzestrzenianiu się organizmu szkodliwego.
 § 7. Rośliny szczególnie podatne na porażenie, których średnica łodygi w najgrubszym miejscu wynosi co najmniej 1 cm, uprawiane przez cały cykl produkcji na obszarach objętych strefą porażenia lub strefą bezpieczeństwa wyznaczonymi na podstawie § 2 ust. 2 mogą być przemieszczane przez terytorium Rzeczypospolitej Polskiej, a w przypadku takich roślin uprawianych przez cały cykl produkcji na obszarach innych państw członkowskich objętych strefami odpowiadającymi strefom wyznaczonym na podstawie § 2 ust. 2 mogą być wprowadzone na terytorium Rzeczypospolitej Polskiej lub przemieszczane przez to terytorium, jeżeli:
 1) zostały zaopatrzone w paszport roślin;
-2) co najmniej dwa lata przed wysyłką, a w przypadku roślin młodszych niż dwuletnie przez cały okres ich uprawy, były uprawiane w miejscu uprawy lub wytwarzania:
+2) co najmniej dwa lata przed wysyłką, a w przypadku roślin młodszych niż dwuletnie – przez cały okres ich uprawy, były uprawiane w miejscu uprawy lub wytwarzania:
 a) które zostało uwzględnione w rejestrze przedsiębiorców, o którym mowa w art. 12 ust. 1 pkt 3 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin, albo w odpowiednim rejestrze prowadzonym przez organizację ochrony roślin innego państwa członkowskiego,
 b) poddawanym co najmniej dwa razy w roku kontrolom występowania organizmu szkodliwego, w tym mogącym obejmować niszczące metody mające na celu ustalenie występowania organizmu szkodliwego, i w czasie tych kontroli nie stwierdzono występowania organizmu szkodliwego,
 c) w którym rośliny te były uprawiane w warunkach fizycznej izolacji, uniemożliwiającej ich porażenie, lub w którym każda partia roślin przed ich przemieszczeniem jest poddawana urzędowej kontroli, w której wielkość próby jest określona w załączniku nr 4 do rozporządzenia, oraz w którym w wyniku przeprowadzanej co najmniej raz w roku kontroli obejmującej także obszar otaczający miejsce uprawy lub wytwarzania o promieniu nie mniejszym niż 1 km, nie stwierdzono występowania organizmu szkodliwego,

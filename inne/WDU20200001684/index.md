@@ -8,10 +8,10 @@ pos: 1684
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 września 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1684 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 30 września 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001684) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1684/text.pdf) |
 
-Poz. 1684 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 30 września 2020 r.
-w sprawie kosztów poniesionych na ochronę prawną funkcjonariusza Służby Ochrony Państwa Na podstawie art. 142b ust. 4 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2020 r. poz. 384, 695 i 1610) zarządza się, co następuje: § 1. Rozporządzenie określa tryb postępowania oraz sposób dokumentowania przez funkcjonariusza Służby Ochrony Państwa, zwanego dalej „funkcjonariuszem”, kosztów poniesionych na ochronę prawną w przypadku, o którym mowa w art. 142a ust. 1 i 3 oraz art. 142b ust. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, zwanej dalej „ustawą”.
+w sprawie kosztów poniesionych na ochronę prawną funkcjonariusza Służby Ochrony Państwa Na podstawie art. 142b ust. 4 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2020 r. poz. 384, 695 i 1610) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb postępowania oraz sposób dokumentowania przez funkcjonariusza Służby Ochrony Państwa, zwanego dalej „funkcjonariuszem”, kosztów poniesionych na ochronę prawną w przypadku, o którym mowa w art. 142a ust. 1 i 3 oraz art. 142b ust. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, zwanej dalej „ustawą”.
 § 2. 1. Zwrot kosztów ochrony prawnej, o których mowa w art. 142a ust. 1 i 3 oraz art. 142b ust. 3 ustawy, następuje na pisemny wniosek funkcjonariusza, który poniósł te koszty.
 2. Funkcjonariusz składa wniosek, o którym mowa w ust. 1, drogą służbową do Komendanta Służby Ochrony Państwa.
 3. Komendant Służby Ochrony Państwa i jego zastępcy składają wniosek, o którym mowa w ust. 1, do ministra właściwego do spraw wewnętrznych.

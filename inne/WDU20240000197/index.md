@@ -8,10 +8,10 @@ pos: 197
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 197 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 14 lutego 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/197/text.pdf) |
 
-Poz. 197 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 14 lutego 2024 r.
-zmieniające rozporządzenie w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane Na podstawie art. 193a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Finansów z dnia 24 czerwca 2016 r. w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane (Dz. U. z 2023 r. poz. 1133) w § 2:
+zmieniające rozporządzenie w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane Na podstawie art. 193a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Finansów z dnia 24 czerwca 2016 r. w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane (Dz. U. z 2023 r. poz. 1133) w § 2:
 1) ust. 2 otrzymuje brzmienie: „2. Księgi przesyłane w sposób, o którym mowa w ust. 1, są opatrywane:
 1) kwalifikowanym podpisem elektronicznym albo
 2) podpisem zaufanym, albo
@@ -41,7 +41,6 @@ d) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-37),
 e) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-38),
 f) zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) (PIT-39),
 g) rocznym obliczeniu podatku przez organ rentowy (PIT-40A) – za rok podatkowy o dwa lata wcześniejszy niż rok przesyłania księgi albo wartość „0” (zero), gdy za ten rok podatkowy nie złożono żadnego z wymienionych zeznań lub obliczeń.”;
-Dziennik Ustaw – 2 – Poz. 197
 3) po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Dowodem złożenia ksiąg jest urzędowe poświadczenie odbioru wytworzone i udostępnione nadawcy przez system teleinformatyczny organu administracji skarbowej po uprzednim przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych i podpisu elektronicznego.”;
 4) uchyla się ust. 5.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.

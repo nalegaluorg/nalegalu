@@ -8,10 +8,10 @@ pos: 599
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 marca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 599 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 28 marca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000599) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/599/text.pdf) |
 
-Poz. 599 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 28 marca 2023 r.
 zmieniające rozporządzenie w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
-z 2022 r. poz. 1124) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2013 r. poz. 1213, z 2016 r.
+z 2022 r. poz. 1124) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2013 r. poz. 1213, z 2016 r.
 poz. 1873, z 2020 r. poz. 1056 i 1547 oraz z 2022 r. poz. 516) wprowadza się następujące zmiany:
 1) w § 2:
 a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Pracownicy Inspekcji Weterynaryjnej oraz osoby wyznaczone na podstawie art. 16 ust. 1 pkt 1 i ust. 1a oraz art. 18 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2022 r. poz. 2629 i 2727 oraz z 2023 r. poz. 412 i 588), uprawnione do wykonywania czynności określonych w art. 19 tej ustawy, są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w:”,

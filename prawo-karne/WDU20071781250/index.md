@@ -8,7 +8,7 @@ pos: 1250
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o prokuraturze, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw

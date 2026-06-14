@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2000 r. o zmianie niektórych upoważnień ustawowych do wydawania aktów normatywnych oraz o zmianie niektórych ustaw.*
 
 Łącznie: **22** orzeczeń
-(pominięto 2 orzeczeń sądów rejonowych)
+(pominięto 3 orzeczeń sądów rejonowych)
 
 ## art. 3 (1)
 

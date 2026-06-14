@@ -8,7 +8,7 @@ pos: 553
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o uchyleniu ustawy o Radiofonicznym Ośrodku Nadawczym w Konstantynowie

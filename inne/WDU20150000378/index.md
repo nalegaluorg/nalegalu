@@ -8,7 +8,7 @@ pos: 378
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rozwoju lokalnym z udziałem lokalnej społeczności
@@ -28,6 +28,12 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000378) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/378/text.pdf) |
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania oraz właściwość organów w zakresie określonym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm. ), zwanym dalej „rozporządzeniem 2021/1060”, w odniesieniu do rozwoju lokalnego kierowanego przez społeczność, o którym mowa w tytule III w rozdziale II rozporządzenia 2021/1060, zwanego dalej „rozwojem lokalnym kierowanym przez społeczność”;
+- **2)** zasady:
+    - **a)** organizacji i działania lokalnych grup działania, o których mowa w art. 31 ust. 2 lit. b rozporządzenia 2021/1060, zwanych dalej „LGD”,
+    - **b)** dokonywania wyboru strategii rozwoju lokalnego kierowanego przez społeczność, o których mowa w art. 32 rozporządzenia 2021/1060, zwanych dalej „LSR”,
+    - **c)** udzielania wsparcia z udziałem funduszy, w ramach których jest finansowany rozwój lokalny kierowany przez społeczność, zwanych dalej „EFSI”, wspólne dla wszystkich EFSI – w zakresie nieokreślonym w przepisach, o których mowa w pkt 1, lub przewidzianym w tych przepisach do określenia przez państwo członkowskie Unii Europejskiej.
 
 **Art. 1a.** Przepisów ustawy nie stosuje się do programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury.
 
@@ -142,6 +148,9 @@ source: "isap-pdf"
 **Art. 6.** Wyboru LSR dokonuje się na wniosek LGD w ramach konkursu ogłoszonego przez zarząd województwa.
 
 **Art. 7.** Wniosek o wybór LSR składa się do zarządu województwa:
+
+- **1)** na formularzu opracowanym przez ministra właściwego do spraw rozwoju wsi i udostępnionym przez zarząd województwa;
+- **2)** w terminie wskazanym w ogłoszeniu o konkursie na wybór LSR, uzgodnionym przez zarząd województwa z ministrem właściwym do spraw rozwoju wsi.
 
 **Art. 8.**
 
@@ -313,6 +322,8 @@ source: "isap-pdf"
 
 **Art. 13.** Do LSR nie stosuje się przepisów ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324, 862, 1717 i
 
+- **1940)** .
+
 **Art. 14.**
 
 1. Niezwłocznie po dokonaniu wyboru LSR zarząd województwa zatwierdza LSR, zawierając z LGD, która będzie realizowała tę LSR, umowę ramową.
@@ -345,6 +356,9 @@ source: "isap-pdf"
 
 **Art. 14a.** Jeżeli umowa ramowa została rozwiązana, a przy wyborze LSR stanowiącej załącznik do tej umowy miał zastosowanie przepis art. 5 ust. 7, komisja, w terminie 30 dni od dnia rozwiązania tej umowy, dokonuje wyboru kolejnych LSR spośród LSR ocenionych, lecz niewybranych w ramach konkursu rozstrzygniętego wyborem LSR stanowiącej załącznik do rozwiązanej umowy ramowej, z tym że komisja:
 
+- **1)** dokonuje wyboru LSR, uchylając jednocześnie wcześniej podjętą uchwałę o wyborze LSR, w której wskazano, że ta LSR nie została wybrana;
+- **2)** aktualizuje i zamieszcza na stronie internetowej województwa listę, o której mowa w art. 11 ust. 2, wskazując dodatkowo, które spośród LSR wybranych nie są już realizowane na podstawie umowy ramowej.
+
 **Art. 14b.**
 
 1. Jeżeli środki przeznaczone na realizację LSR są dostępne:
@@ -358,6 +372,13 @@ source: "isap-pdf"
 2. Przyłączenie, o którym mowa w ust. 1 pkt 1, następuje przez wprowadzenie zmiany w umowie ramowej.
 
 **Art. 14c.** Wyboru LSR w ramach kolejnego konkursu dokonuje się przy zastosowaniu kryteriów wyboru LSR mających zastosowanie w poprzednim konkursie na wybór LSR, w terminie 4 miesięcy od dnia upływu terminu składania wniosków o wybór LSR, a:
+
+- **1)** o wyniku oceny LSR komisja informuje LGD w terminie 2 miesięcy od dnia upływu terminu składania wniosków o wybór LSR;
+- **2)** minister właściwy do spraw rozwoju wsi opracowuje formularze, o których mowa w art. 7 pkt 1 i art. 14 ust. 2, oraz regulamin, o którym mowa w art. 9 ust. 1:
+    - **a)** w uzgodnieniu z zarządami województw będącymi IZ,
+    - **b)** po zasięgnięciu opinii Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz zarządów województw niebędących IZ – z wyłączeniem zarządów województw, w których nie zostanie przeprowadzony kolejny konkurs na wybór LSR;
+
+- **3)** przepisu art. 15 ust. 2 nie stosuje się.
 
 **Art. 15.**
 
@@ -656,6 +677,10 @@ source: "isap-pdf"
 2. Informacja, o której mowa w ust. 1, zawiera pouczenie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 22h.
 
 **Art. 22g.** Do procedury odwoławczej, o której mowa w art. 22–22f, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z tym że:
+
+- **1)** stosuje się przepisy dotyczące doręczeń i sposobu obliczania terminów;
+- **2)** w weryfikacji, o której mowa w art. 22c ust. 3, a także w ponownej ocenie, o której mowa w art. 22e ust. 2 pkt 2, nie mogą brać udziału osoby, które były zaangażowane w przygotowanie operacji; w tym zakresie przepisy art. 24 § 1 pkt 1–4, 6 i 7 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio;
+- **3)** w rozpatrywaniu protestu nie mogą brać udziału osoby, które były zaangażowane w przygotowanie operacji lub jej ocenę; w tym zakresie przepisy art. 24 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 **Art. 22h.**
 

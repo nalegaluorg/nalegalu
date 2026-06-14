@@ -112,6 +112,7 @@ saos_id|date|court|case_number|type|score|saos_url
 527242|2025-03-20|SO|III RC 66/24|Wyrok|40|https://www.saos.org.pl/judgments/527242
 527780|2025-03-12|SO|III RC 110/24|Wyrok|40|https://www.saos.org.pl/judgments/527780
 536425|2025-01-29|SO|II Ca 31/24|Wyrok|40|https://www.saos.org.pl/judgments/536425
+546949|2024-12-05|SO|III RC 54/24|Wyrok|40|https://www.saos.org.pl/judgments/546949
 516170|2024-10-15|SO|III RC 222/23|Wyrok|40|https://www.saos.org.pl/judgments/516170
 538389|2024-10-10|SO|III RC 93/23|Wyrok|40|https://www.saos.org.pl/judgments/538389
 523923|2024-09-13|SO|II Ca 249/23|Wyrok|40|https://www.saos.org.pl/judgments/523923
@@ -252,6 +253,7 @@ saos_id|date|court|case_number|type|score|saos_url
 383355|2019-04-02|SO|III RC 39/17|Wyrok|40|https://www.saos.org.pl/judgments/383355
 379071|2019-03-27|SO|III RC 96/18|Wyrok|40|https://www.saos.org.pl/judgments/379071
 381753|2019-03-25|SO|IV RC 290/18|Wyrok|40|https://www.saos.org.pl/judgments/381753
+545810|2019-03-12|SO|III RC 2/19|Wyrok|40|https://www.saos.org.pl/judgments/545810
 379011|2019-02-28|SO|III RC 120/18|Wyrok|40|https://www.saos.org.pl/judgments/379011
 373584|2019-02-27|SO|III RC 206/18|Wyrok|40|https://www.saos.org.pl/judgments/373584
 374561|2019-02-21|SO|III RC 231/18|Wyrok|40|https://www.saos.org.pl/judgments/374561
@@ -260,16 +262,20 @@ saos_id|date|court|case_number|type|score|saos_url
 371027|2019-02-07|SO|I C 50/18|Wyrok|40|https://www.saos.org.pl/judgments/371027
 379057|2019-02-06|SO|III RC 351/18|Wyrok|40|https://www.saos.org.pl/judgments/379057
 371636|2019-02-06|SO|III RC 120/18|Wyrok|40|https://www.saos.org.pl/judgments/371636
+545816|2019-02-05|SO|III RC 75/18|Wyrok|40|https://www.saos.org.pl/judgments/545816
 373580|2019-02-04|SO|III RC 167/18|Wyrok|40|https://www.saos.org.pl/judgments/373580
 373579|2019-01-23|SO|III RC 153/18|Wyrok|40|https://www.saos.org.pl/judgments/373579
 374249|2019-01-22|SO|III RC 400/17|Wyrok|40|https://www.saos.org.pl/judgments/374249
 367000|2019-01-04|SO|III RC 315/18|Wyrok|40|https://www.saos.org.pl/judgments/367000
 374480|2018-12-19|SO|I Ca 275/18|Wyrok|40|https://www.saos.org.pl/judgments/374480
+545814|2018-12-11|SO|III RC 40/18|Wyrok|40|https://www.saos.org.pl/judgments/545814
 367004|2018-12-10|SO|III RC 88/18|Wyrok|40|https://www.saos.org.pl/judgments/367004
 367001|2018-12-10|SO|III RC 376/17|Wyrok|40|https://www.saos.org.pl/judgments/367001
+545813|2018-12-06|SO|III RC 39/18|Wyrok|40|https://www.saos.org.pl/judgments/545813
 366417|2018-12-06|SO|III RC 131/18|Wyrok|40|https://www.saos.org.pl/judgments/366417
 365790|2018-12-06|SO|III RC 100/18|Wyrok|40|https://www.saos.org.pl/judgments/365790
 367666|2018-12-05|SO|III RC 11/18|Wyrok|40|https://www.saos.org.pl/judgments/367666
+545815|2018-12-04|SO|III RC 56/18|Wyrok|40|https://www.saos.org.pl/judgments/545815
 364523|2018-11-15|SO|V Ca 144/18|Wyrok|40|https://www.saos.org.pl/judgments/364523
 363670|2018-11-15|SO|V Ca 163/18|Wyrok|40|https://www.saos.org.pl/judgments/363670
 363659|2018-11-14|SO|III RC 91/18|Wyrok|40|https://www.saos.org.pl/judgments/363659
@@ -282,6 +288,7 @@ saos_id|date|court|case_number|type|score|saos_url
 383243|2018-10-10|SO|IV RC 130/18|Wyrok|40|https://www.saos.org.pl/judgments/383243
 359083|2018-10-01|SO|III RC 33/18|Wyrok|40|https://www.saos.org.pl/judgments/359083
 375476|2018-09-27|SO|IV Ca 341/18|Wyrok|40|https://www.saos.org.pl/judgments/375476
+545812|2018-09-24|SO|III RC 34/18|Wyrok|40|https://www.saos.org.pl/judgments/545812
 357874|2018-09-19|SO|III RC 57/18|Wyrok|40|https://www.saos.org.pl/judgments/357874
 357782|2018-09-19|SO|III RC 61/18|Wyrok|40|https://www.saos.org.pl/judgments/357782
 357470|2018-09-19|SO|III RC 41/18|Wyrok|40|https://www.saos.org.pl/judgments/357470
@@ -296,6 +303,7 @@ saos_id|date|court|case_number|type|score|saos_url
 407571|2018-07-17|SO|III RC 53/18|Wyrok|40|https://www.saos.org.pl/judgments/407571
 348394|2018-07-04|SO|III RC 759/17|Wyrok|40|https://www.saos.org.pl/judgments/348394
 349145|2018-07-02|SO|III RC 15/18|Wyrok|40|https://www.saos.org.pl/judgments/349145
+545811|2018-06-28|SO|III RC 22/18|Wyrok|40|https://www.saos.org.pl/judgments/545811
 359599|2018-06-28|SO|III RC 5/17|Wyrok|40|https://www.saos.org.pl/judgments/359599
 348844|2018-06-20|SO|III RC 709/17|Wyrok|40|https://www.saos.org.pl/judgments/348844
 347458|2018-06-08|SO|IV RC 301/17|Wyrok|40|https://www.saos.org.pl/judgments/347458
@@ -315,11 +323,13 @@ saos_id|date|court|case_number|type|score|saos_url
 340485|2018-04-18|SO|III RC 642/17|Wyrok|40|https://www.saos.org.pl/judgments/340485
 339089|2018-04-18|SO|III RC 479/17|Wyrok|40|https://www.saos.org.pl/judgments/339089
 339090|2018-04-13|SO|III RC 611/17|Wyrok|40|https://www.saos.org.pl/judgments/339090
+545809|2018-04-12|SO|III RC 116/17|Wyrok|40|https://www.saos.org.pl/judgments/545809
 337258|2018-04-12|SO|III RC 29/18|Wyrok|40|https://www.saos.org.pl/judgments/337258
 339092|2018-04-11|SO|III RC 711/17|Wyrok|40|https://www.saos.org.pl/judgments/339092
 339091|2018-04-11|SO|III RC 701/17|Wyrok|40|https://www.saos.org.pl/judgments/339091
 337361|2018-04-09|SO|III RC 237/17|Wyrok|40|https://www.saos.org.pl/judgments/337361
 339872|2018-04-06|SO|III RC 51/17|Wyrok|40|https://www.saos.org.pl/judgments/339872
+545807|2018-04-05|SO|III RC 111/17|Wyrok|40|https://www.saos.org.pl/judgments/545807
 337360|2018-04-04|SO|III RC 203/17|Wyrok|40|https://www.saos.org.pl/judgments/337360
 374822|2018-03-26|SO|III RC 15/18|Wyrok|40|https://www.saos.org.pl/judgments/374822
 335078|2018-03-26|SO|III RC 229/17|Wyrok|40|https://www.saos.org.pl/judgments/335078
@@ -330,6 +340,7 @@ saos_id|date|court|case_number|type|score|saos_url
 338478|2018-03-08|SO|III RC 106/17|Wyrok|40|https://www.saos.org.pl/judgments/338478
 334602|2018-03-07|SO|III RC 226/17|Wyrok|40|https://www.saos.org.pl/judgments/334602
 331235|2018-03-05|SO|III RC 181/17|Wyrok|40|https://www.saos.org.pl/judgments/331235
+545817|2018-03-01|SO|III RC 91/17|Wyrok|40|https://www.saos.org.pl/judgments/545817
 349878|2018-03-01|SO|IV RC 884/16|Wyrok|40|https://www.saos.org.pl/judgments/349878
 343356|2018-02-28|SO|III RC 369/17|Wyrok|40|https://www.saos.org.pl/judgments/343356
 368029|2018-02-22|SO|III RC 273/17|Wyrok|40|https://www.saos.org.pl/judgments/368029
@@ -337,6 +348,7 @@ saos_id|date|court|case_number|type|score|saos_url
 387263|2018-02-21|SO|III RC 156/17|Wyrok|40|https://www.saos.org.pl/judgments/387263
 368026|2018-02-19|SO|III RC 250/17|Wyrok|40|https://www.saos.org.pl/judgments/368026
 329812|2018-02-13|SO|III RC 136/17|Wyrok|40|https://www.saos.org.pl/judgments/329812
+545808|2018-02-01|SO|III RC 115/17|Wyrok|40|https://www.saos.org.pl/judgments/545808
 327397|2018-01-31|SO|III RC 195/17|Wyrok|40|https://www.saos.org.pl/judgments/327397
 428167|2018-01-29|SO|III RC 161/17|Wyrok|40|https://www.saos.org.pl/judgments/428167
 327590|2018-01-29|SO|III RC 73/17|Wyrok|40|https://www.saos.org.pl/judgments/327590

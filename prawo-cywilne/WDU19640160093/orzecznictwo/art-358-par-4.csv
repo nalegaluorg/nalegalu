@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-543454|2026-01-22|SO|II C 393/21|Wyrok|https://www.saos.org.pl/judgments/543454
-408244|2020-01-03|SO|XXV C 2514/19|Wyrok|https://www.saos.org.pl/judgments/408244
+saos_id|date|court|case_number|type|score|saos_url
+545986|2026-02-20|SO|I ACa 2259/24|Wyrok|56|https://www.saos.org.pl/judgments/545986

@@ -8,7 +8,7 @@ pos: 1
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dodatku osłonowym

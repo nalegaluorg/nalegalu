@@ -8,10 +8,10 @@ pos: 2317
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22331177 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 26 października 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002317) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2317/text.pdf) |
 
-Poz. 22331177 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 26 października 2022 r.
-zmieniające rozporządzenie w sprawie dokumentów wydawanych cudzoziemcom Na podstawie art. 285 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 29 kwietnia 2014 r. w sprawie dokumentów wydawanych cudzoziemcom (Dz. U. z 2022 r. poz. 436) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+zmieniające rozporządzenie w sprawie dokumentów wydawanych cudzoziemcom Na podstawie art. 285 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 29 kwietnia 2014 r. w sprawie dokumentów wydawanych cudzoziemcom (Dz. U. z 2022 r. poz. 436) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2. Polskie dokumenty podróży dla cudzoziemca wydane zgodnie ze wzorem określonym w przepisach dotychczasowych zachowują ważność do czasu upływu terminów w nich określonych.
 § 3. Polskie dokumenty podróży dla cudzoziemca zgodne ze wzorem określonym w przepisach dotychczasowych wydaje się do czasu wyczerpania zapasów blankietów tych dokumentów, jednak nie dłużej niż do dnia 31 marca 2023 r.
 § 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-Minister Spraw Wewnętrznych i Administracji: wz. B. Grodecki Opis dokumentu i zastosowanych zabezpieczeń Dokument książeczkowy o wymiarach 88 mm × 125 mm ze stroną personalizacyjną wykonaną z poliwęglanu.
+Minister Spraw Wewnętrznych i Administracji: wz. B. Grodecki Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 października 2022 r. (Dz. U. poz. …) WZÓR WZÓR POLSKIEGO POLSKIEGO DOKUMENTU DOKUMENTU PODRÓŻY PODRÓŻY DLA DLA CUDZOZIEMCA CUDZOZIEMCA Okładka zewnętrzna Strona 2 okładki (wewnętrzna) Strona tytułowa Strona personalizacyjna Strona 1 Strona 2 Strona 3 Strona 4 Strona 5 Strona 6 Strona 7 Strona 8 Strona 9 Strona 10 Strona 11 Strona 12 Strona 13 Strona 14 Strona 15 Strona 16 Strona 17 Strona 18 Strona 19 Strona 20 Strona 21 Strona 22 Strona 23 Strona 24 Strona 25 Strona 26 Strona 27 Strona 28 Strona 29 Strona 30 Strona 31 Strona 32 Strona 3 okładki (wewnętrzna) Opis dokumentu i zastosowanych zabezpieczeń Dokument książeczkowy o wymiarach 88 mm × 125 mm ze stroną personalizacyjną wykonaną z poliwęglanu.
 Książeczka zszyta biało-czerwoną nicią introligatorską.
 Oznaczenie indywidualne: perforowane na wszystkich stronach wizowych i widoczne na tylnej okładce; na stronie 1 powtórzone w technice druku typograficznego.
 Materiały, z których wykonana jest książeczka, nie wykazują luminescencji w promieniowaniu ultrafioletowym.

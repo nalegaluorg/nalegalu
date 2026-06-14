@@ -8,12 +8,10 @@ pos: 242
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o infrastrukturze informacji przestrzennej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -92,6 +90,34 @@ Art. 23–28. (pominięte)
 **Art. 2.** Ustawa nie narusza praw przysługujących na podstawie przepisów dotyczących ochrony praw własności intelektualnej oraz dotyczących udostępniania informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz ocenach oddziaływania na środowisko.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** danych przestrzennych – rozumie się przez to dane odnoszące się bezpośrednio lub pośrednio do określonego położenia lub obszaru geograficznego;
+- **2)** infrastrukturze informacji przestrzennej – rozumie się przez to opisane metadanymi zbiory danych przestrzennych oraz dotyczące ich usługi, środki techniczne, procesy i procedury, które są stosowane i udostępniane przez współtworzące infrastrukturę informacji przestrzennej organy wiodące, inne organy administracji oraz osoby trzecie;
+- **3)** interoperacyjności zbiorów i usług danych przestrzennych – rozumie się przez to możliwość łączenia zbiorów danych przestrzennych oraz współdziałania usług danych przestrzennych, bez powtarzalnej interwencji manualnej, w taki sposób, aby wynik był spójny, a wartość dodana zbiorów i usług danych przestrzennych została zwiększona;
+- **4)** metadanych infrastruktury informacji przestrzennej – rozumie się przez to informacje, które opisują zbiory danych przestrzennych oraz usługi danych przestrzennych i umożliwiają odnalezienie, inwentaryzację i używanie tych danych i usług;
+- **5)** obiekcie przestrzennym – rozumie się przez to abstrakcyjną reprezentację przedmiotu, zjawiska fizycznego lub zdarzenia związanego z określonym miejscem lub obszarem geograficznym;
+- **6)** organie administracji – rozumie się przez to:
+    - **a)** organ administracji rządowej lub organ jednostki samorządu terytorialnego,
+    - **b)** inny podmiot, gdy jest powołany z mocy prawa lub upoważniony na podstawie porozumień do wykonywania zadań publicznych dotyczących środowiska;
+
+- **7)** organie wiodącym – rozumie się przez to:
+    - **a)** ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w zakresie tematu danych przestrzennych, o którym mowa w rozdziale 3 pkt 4 załącznika do ustawy,
+    - **b)** ministra właściwego do spraw gospodarki morskiej, w zakresie tematów danych przestrzennych, o których mowa w rozdziale 1 pkt 8 załącznika do ustawy, w części dotyczącej morskich wód wewnętrznych i morza terytorialnego Rzeczypospolitej Polskiej, oraz rozdziale 3 pkt 15 i 16 załącznika do ustawy,
+    - **c)** ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, w zakresie tematu danych przestrzennych, o którym mowa w rozdziale 1 pkt 9 załącznika do ustawy, w części dotyczącej zabytków nieruchomych w rozumieniu ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907),
+    - **d)** ministra właściwego do spraw rolnictwa, w zakresie tematu danych przestrzennych, o którym mowa w rozdziale 3 pkt 9 załącznika do ustawy,
+    - **e)** ministra właściwego do spraw środowiska, w zakresie tematów danych przestrzennych, o których mowa w rozdziale 1 pkt 9 oraz rozdziale 3 pkt 19 załącznika do ustawy, z zastrzeżeniem lit. c, ea) ministra właściwego do spraw klimatu, w zakresie tematów danych przestrzennych, o których mowa w rozdziale 3 pkt 12–14 załącznika do ustawy, z zastrzeżeniem lit. l,
+    - **f)** ministra właściwego do spraw zdrowia, w zakresie tematu danych przestrzennych, o którym mowa w rozdziale 3 pkt 5 załącznika do ustawy,
+    - **g)** Głównego Geodetę Kraju, w zakresie tematów danych przestrzennych, o których mowa w rozdziale 1 pkt 1–7, rozdziale 2 pkt 1–3 oraz rozdziale 3 pkt 2, 3, 6, 8 i 11 załącznika do ustawy, z zastrzeżeniem lit. l,
+    - **h)** Głównego Geologa Kraju, w zakresie tematów danych przestrzennych, o których mowa w rozdziale 2 pkt 4 oraz rozdziale 3 pkt 20 i 21 załącznika do ustawy,
+    - **i)** Głównego Inspektora Ochrony Środowiska, w zakresie tematu danych przestrzennych, o którym mowa w rozdziale 3 pkt 7 załącznika do ustawy,
+    - **j)** Głównego Konserwatora Przyrody, w zakresie tematów danych przestrzennych, o których mowa w rozdziale 3 pkt 17 i 18 załącznika do ustawy,
+    - **k)** Prezesa Głównego Urzędu Statystycznego, w zakresie tematów danych przestrzennych, o których mowa w rozdziale 3 pkt 1 i 10 załącznika do ustawy,
+    - **l)** Prezesa Państwowego Gospodarstwa Wodnego Wody Polskie, w zakresie tematu danych przestrzennych, o którym mowa w: – rozdziale 1 pkt 8 załącznika do ustawy, w części dotyczącej elementów hydrograficznych wraz z podjednostkami hydrograficznymi i regionami wodnymi, z wyłączeniem morskich wód wewnętrznych i morza terytorialnego Rzeczypospolitej Polskiej, – rozdziale 3 pkt 8 załącznika do ustawy, w części dotyczącej urządzeń poboru wody, – rozdziale 3 pkt 12 załącznika do ustawy, w części dotyczącej strefy zagrożenia naturalnego, rozumianych jako obszary zagrożone, charakteryzowane na podstawie zagrożeń naturalnych, w tym zjawisk atmosferycznych, hydrologicznych, które ze względu na swoją lokalizację, dotkliwość i częstotliwość mogą wywierać poważny wpływ na społeczeństwo, w szczególności powodzi, osunięć ziemi i osiadania gruntu;
+
+- **8)** osobie trzeciej – rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, niebędącą organem administracji;
+- **9)** rejestrze publicznym – rozumie się przez to rejestr, o którym mowa w art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717);
+- **10)** usługach danych przestrzennych – rozumie się przez to usługi będące operacjami, które mogą być wykonywane przy użyciu oprogramowania komputerowego na danych zawartych w zbiorach danych przestrzennych lub na powiązanych z nimi metadanych;
+- **11)** zbiorze danych przestrzennych – rozumie się przez to rozpoznawalny ze względu na wspólne cechy zestaw danych przestrzennych.
 
 #### Rozdział 2 Dane przestrzenne i metadane infrastruktury informacji przestrzennej
 
@@ -221,6 +247,11 @@ Art. 23–28. (pominięte)
 
 **Art. 16.** Wspólne korzystanie ze zbiorów i usług danych przestrzennych oraz udostępnianie zbiorów i usług danych przestrzennych na zasadach określonych w art. 15 podlega wyłączeniu w zakresie usług: wyszukiwania, przeglądania, pobierania, przekształcania oraz usług umożliwiających uruchamianie usług danych przestrzennych, jeżeli mogłoby ono stanowić zagrożenie dla:
 
+- **1)** realizacji wiążących Rzeczpospolitą Polską umów międzynarodowych;
+- **2)** bezpieczeństwa państwa;
+- **3)** bezpieczeństwa publicznego;
+- **4)** działalności wymiaru sprawiedliwości.
+
 #### Rozdział 6 Współdziałanie i koordynacja w zakresie infrastruktury informacji przestrzennej
 
 **Art. 17.**
@@ -307,7 +338,13 @@ Art. 23–28. (pominięte)
 
 **Art. 29.** Metadane infrastruktury informacji przestrzennej tworzy się zgodnie z następującym harmonogramem:
 
+- **1)** w terminie do dnia 3 grudnia 2010 r. – w odniesieniu do zbiorów i usług danych przestrzennych odpowiadających tematom wymienionym w rozdziale 1 i 2 załącznika do ustawy;
+- **2)** w terminie do dnia 3 grudnia 2013 r. – w odniesieniu do zbiorów i usług danych przestrzennych odpowiadających tematom wymienionym w rozdziale 3 załącznika do ustawy.
+
 **Art. 30.** Organy administracji zapewnią dostęp do zbiorów danych przestrzennych oraz odpowiadających im usług, o których mowa w art. 9 ust. 1:
+
+- **1)** utworzonych po wejściu w życie niniejszej ustawy lub przeorganizowanych po tej dacie, nie później niż w terminie dwóch lat od dnia wejścia w życie przepisów określających rozwiązania techniczne w zakresie interoperacyjności;
+- **2)** utworzonych przed wejściem w życie niniejszej ustawy, nie później niż w terminie siedmiu lat od dnia wejścia w życie przepisów w zakresie interoperacyjności po uprzednim dostosowaniu tych zbiorów do obowiązujących standardów.
 
 **Art. 31.** Główny Geodeta Kraju zamieści w Biuletynie Informacji Publicznej Głównego Urzędu Geodezji i Kartografii komunikaty o dniu wejścia w życie przepisów, o których mowa w art. 30, w terminie 14 dni od dnia ogłoszenia tych przepisów.
 

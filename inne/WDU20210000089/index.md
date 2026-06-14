@@ -8,10 +8,10 @@ pos: 89
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 stycznia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 89 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 29 grudnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/89/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 29 grudnia 2020 r.
-w sprawie wzoru wniosku o udzielenie statkowi podróżującemu pomiędzy określonymi portami lub miejscami lub statkowi eksploatowanemu wyłącznie pomiędzy określonymi portami lub miejscami zwolnienia, o którym mowa w prawidle A-4 załącznika do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi i osadami, 2004, sporządzonej w Londynie dnia 13 lutego 2004 r.
-Na podstawie art. 20d ust. 18 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2020 r. poz. 1955) zarządza się, co następuje: § 1. Określa się wzór wniosku o udzielenie statkowi podróżującemu pomiędzy określonymi portami lub miejscami statkowi eksploatowanemu wyłącznie pomiędzy określonymi portami lub miejscami zwolnienia, o którym mowa w prawidle A-4 załącznika do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi i osadami, 2004, sporządzonej w Londynie dnia 13 lutego 2004 r. (Dz. U. z 2020 r. poz. 1800 i 1801), stanowiący załącznik rozporządzenia.
+w sprawie wzoru wniosku o udzielenie statkowi podróżującemu pomiędzy określonymi portami lub miejscami lub statkowi eksploatowanemu wyłącznie pomiędzy określonymi portami lub miejscami zwolnienia, o którym mowa w prawidle A-4 załącznika do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej w Londynie dnia 13 lutego 2004 r.
+Na podstawie art. 20d ust. 18 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2020 r. poz. 1955) zarządza się, co następuje:
+§ 1. Określa się wzór wniosku o udzielenie statkowi podróżującemu pomiędzy określonymi portami lub miejscami statkowi eksploatowanemu wyłącznie pomiędzy określonymi portami lub miejscami zwolnienia, o którym mowa w prawidle A-4 załącznika do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej w Londynie dnia 13 lutego 2004 r. (Dz. U. z 2020 r. poz. 1800 i 1801), stanowiący załącznik rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury: A. Adamczyk Wzór do rozporządzenia Ministra Infrastruktury z dnia 29 grudnia 2020 r. (poz. ……….) Wzór Wniosek o udzielenie statkowi podróżującemu pomiędzy określonymi portami lub miejscami lub statkowi eksploatowanemu wyłącznie pomiędzy określonymi portami lub miejscami zwolnienia, o którym mowa w prawidle A-4 załącznika do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi i osadami, 2004, sporządzonej w Londynie dnia 13 lutego 2004 r.
+Minister Infrastruktury: A. Adamczyk do rozporządzenia Ministra Infrastruktury z dnia 29 grudnia 2020 r. (poz. ……….) Wzór Wzór Wniosek o udzielenie statkowi podróżującemu pomiędzy określonymi portami lub miejscami lub statkowi eksploatowanemu wyłącznie pomiędzy określonymi portami lub miejscami zwolnienia, o którym mowa w prawidle A-4 załącznika do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej w Londynie dnia 13 lutego 2004 r.
 Application for exemption to a ship on a voyage(s) between specified ports or to a ship that operates exclusively between specified locations, under regulation A-4 International Convention for the Control and Management of Shipsʼ Ballast Water and Sediments, 2004
 1. Organ administracji morskiej, do którego jest kierowany wniosek: (Maritime Authority of the Port State) Dyrektor Urzędu Morskiego w: …………………………………………………...…...…… (Director of Maritime Office in)
 2. Podstawowe dane o statku i armatorze: (Ship’s particulars) Nazwa statku: ……………………………………………………………………...………...
@@ -38,12 +38,12 @@ Application for exemption to a ship on a voyage(s) between specified ports or to
 (Port of registry) Pojemność brutto GT: ……………………………………………………...………………..
 (Gross tonnage) Nazwa armatora: ……………………………………………………………………………..
 (Name of the shipowner)
-3. Informacje o stosowanej metodzie postępowania z balastowymi, w tym informacje o systemie obróbki wód balastowych, jeżeli został zainstalowany: (Ballast water management option usually undertaken by ship, including ballast water treatment technology, if installed) Pojemność balastowa (m ): ………………………...…..........................................................
-(Ballast water capacity (in cubic meters)) Stosowana(-ne) metoda(-dy) postępowania z na statku: (Details of ballast water management method(s) usually undertaken by ship) ………………………………………………………………………………………………..
+3. Informacje o stosowanej metodzie postępowania z wodami balastowymi, w tym informacje o systemie obróbki wód balastowych, jeżeli został zainstalowany: (Ballast water management option usually undertaken by ship, including ballast water treatment technology, if installed) Pojemność balastowa (m ): ………………………...…..........................................................
+(Ballast water capacity (in cubic meters)) Stosowana(-ne) metoda(-dy) postępowania z wodami balastowymi na statku: (Details of ballast water management method(s) usually undertaken by ship) ………………………………………………………………………………………………..
 1) Data instalacji (jeśli dotyczy): …………………………………………………..
 (Date installed (if applicable))
 2) Nazwa producenta (jeśli dotyczy): ……………………………………………...
-(Name of the manufacturer (if applicable)) Podstawowa metoda postępowania z na statku: (The principal ballast water management method(s) employed on the ships is/are)
+(Name of the manufacturer (if applicable)) Podstawowa metoda postępowania z wodami balastowymi na statku: (The principal ballast water management method(s) employed on the ships is/are)
 1) Zgodnie z prawidłem D-1: ……………………………………………………… (In accordance with Regulation D-1)
 2) Zgodnie z prawidłem D-2: ……………………………………………………… (In accordance with Regulation D-2)
 3) Zgodnie z prawidłem D-4: ……………………………………………………… (In accordance with Regulation D-4)
@@ -70,7 +70,7 @@ Nazwa portu/portów, gdzie będą zrzucane wody balastowe: (Recipient port/ports
 3) przewidywana łączna liczba podróży: (estimated total number of voyages) ………………………………………………………………………………………..
 4) przewidywana łączna ilość wód balastowych, która zostanie zrzucona w ciągu okresu trwania zwolnienia (m ): (the amount of ballast water discharged under the duration of the exemption) ………………………………………………………………………………………..
 Załączniki do wniosku: (Annexes to the application)
-1) kopia planu postępowania z balastowymi;
+1) kopia planu postępowania z wodami balastowymi;
 (Copy of a Ballast Water Management Plan)
 2) kopia książki zapisów balastowych;
 (Ballast Water Record Book)

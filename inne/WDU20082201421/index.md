@@ -8,7 +8,7 @@ pos: 1421
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu nowej nazwy Akademii Ekonomicznej w Poznaniu

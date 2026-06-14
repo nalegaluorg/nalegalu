@@ -8,10 +8,10 @@ pos: 843
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 czerwca 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 843 ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 24 czerwca 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/843/text.pdf) |
 
-Poz. 843 ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 24 czerwca 2014 r.
-w sprawie wysokości opłaty za wydanie karty parkingowej oraz warunków dystrybucji blankietów kart parkingowych Na podstawie art. 8 ust. 9 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm. ) zarządza się, co następuje: § 1. Ustala się opłatę za wydanie karty parkingowej w wysokości 21 zł.
+w sprawie wysokości opłaty za wydanie karty parkingowej oraz warunków dystrybucji blankietów kart parkingowych Na podstawie art. 8 ust. 9 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm. ) zarządza się, co następuje:
+§ 1. Ustala się opłatę za wydanie karty parkingowej w wysokości 21 zł.
 § 2. 1. Dystrybucja blankietów kart parkingowych odbywa się na podstawie zamówienia złożonego przez przewodniczącego powiatowego zespołu do spraw orzekania o niepełnosprawności, zwanego dalej „przewodniczącym”, do producenta blankietów kart parkingowych, zwanego dalej „producentem”.
 2. Zamówienie blankietów kart parkingowych może być dokonane w każdym czasie, także za pomocą środków komunikacji elektronicznej.
 3. Przewodniczący wprowadza do Elektronicznego Krajowego Systemu Monitoringu Orzekania o Niepełnosprawności informacje o dacie złożenia zamówienia i ilości zamówionych blankietów kart parkingowych.

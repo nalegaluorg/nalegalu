@@ -8,7 +8,7 @@ pos: 930
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks karny skarbowy
@@ -347,6 +347,11 @@ source: "isap-pdf"
 
 **Art. 29.** Przepadek przedmiotów obejmuje:
 
+- **1)** przedmiot pochodzący bezpośrednio z przestępstwa skarbowego;
+- **2)** narzędzie lub inny przedmiot stanowiący mienie ruchome, które służyło lub było przeznaczone do popełnienia przestępstwa skarbowego;
+- **3)** opakowanie oraz przedmiot połączony z przedmiotem przestępstwa skarbowego w taki sposób, że nie można dokonać ich rozłączenia bez uszkodzenia któregokolwiek z tych przedmiotów;
+- **4)** przedmiot, którego wytwarzanie, posiadanie, obrót, przechowywanie, przewóz, przenoszenie lub przesyłanie jest zabronione.
+
 **Art. 30.**
 
 § 1. Sąd może orzec przepadek przedmiotów tylko w wypadkach przewidzianych w kodeksie, a orzeka, jeżeli kodeks tak stanowi.
@@ -357,7 +362,9 @@ source: "isap-pdf"
 
 § 4. W wypadku określonym w art. 106d § 1 orzeka się przepadek wartości dewizowych lub krajowych środków płatniczych, a także można orzec przepadek innych przedmiotów, określonych w art. 29 pkt 1–3.
 
-§ 4a. (uchylony) § 5. W wypadkach określonych w art. 107 § 1–3 orzeka się przepadek dokumentu lub urządzenia do gry losowej, gry na automacie lub zakładu wzajemnego, a także znajdujących się w nich środków pieniężnych oraz wygranych, które na podstawie tego dokumentu przypadają grającemu, a także środków uzyskanych ze sprzedaży udziału w grze lub wpłaconych stawek. Przepis stosuje się odpowiednio także w wypadkach określonych w art. 107a § 1, art. 108 § 1, art. 109 i art. 110.
+§ 4a. (uchylony)
+
+§ 5. W wypadkach określonych w art. 107 § 1–3 orzeka się przepadek dokumentu lub urządzenia do gry losowej, gry na automacie lub zakładu wzajemnego, a także znajdujących się w nich środków pieniężnych oraz wygranych, które na podstawie tego dokumentu przypadają grającemu, a także środków uzyskanych ze sprzedaży udziału w grze lub wpłaconych stawek. Przepis stosuje się odpowiednio także w wypadkach określonych w art. 107a § 1, art. 108 § 1, art. 109 i art. 110.
 
 § 5a. Sprzedaż urządzeń lub automatów do gier, w stosunku do których sąd nie zarządził zniszczenia, jest dopuszczalna wyłącznie na rzecz podmiotów, które uzyskały koncesje albo zezwolenie na urządzanie gier.
 
@@ -696,7 +703,11 @@ source: "isap-pdf"
 
 § 23. Księga wadliwa jest to księga prowadzona niezgodnie z przepisem prawa.
 
-§ 24. (uchylony) § 25. (uchylony) § 26. W rozumieniu kodeksu należność publicznoprawna jest to należność państwowa lub samorządowa, będąca przedmiotem przestępstwa skarbowego lub wykroczenia skarbowego; należnością państwową jest podatek stanowiący dochód budżetu państwa, należność z tytułu rozliczenia udzielonej dotacji lub subwencji lub należność celna, a należnością samorządową – podatek stanowiący dochód jednostki samorządu terytorialnego lub należność z tytułu rozliczenia udzielonej dotacji lub subwencji.
+§ 24. (uchylony)
+
+§ 25. (uchylony)
+
+§ 26. W rozumieniu kodeksu należność publicznoprawna jest to należność państwowa lub samorządowa, będąca przedmiotem przestępstwa skarbowego lub wykroczenia skarbowego; należnością państwową jest podatek stanowiący dochód budżetu państwa, należność z tytułu rozliczenia udzielonej dotacji lub subwencji lub należność celna, a należnością samorządową – podatek stanowiący dochód jednostki samorządu terytorialnego lub należność z tytułu rozliczenia udzielonej dotacji lub subwencji.
 
 § 26a. W rozumieniu kodeksu należnością publicznoprawną, w tym podatkiem, jest także należność stanowiąca przychód budżetu ogólnego Wspólnot Europejskich lub budżetu zarządzanego przez Wspólnoty Europejskie lub w ich imieniu, w rozumieniu wiążących Rzeczpospolitą Polską przepisów prawa Unii Europejskiej, będąca przedmiotem przestępstwa skarbowego lub wykroczenia skarbowego.
 
@@ -713,7 +724,9 @@ source: "isap-pdf"
 
 § 30a. Użyte w rozdziale 6 kodeksu określenie „podatnik” oznacza również podmiot zobowiązany do uiszczenia należności, o których mowa w § 26a.
 
-§ 30b. (uchylony) § 30c. Użyte w rozdziale 6 kodeksu określenia „informacja podsumowująca”, „mechanizm podzielonej płatności”, „procedura magazynu typu call-off stock” oraz „uprzednie powiadomienie” mają znaczenie nadane im w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911 oraz z 2025 r. poz. 222).
+§ 30b. (uchylony)
+
+§ 30c. Użyte w rozdziale 6 kodeksu określenia „informacja podsumowująca”, „mechanizm podzielonej płatności”, „procedura magazynu typu call-off stock” oraz „uprzednie powiadomienie” mają znaczenie nadane im w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911 oraz z 2025 r. poz. 222).
 
 § 30d. Użyte w art. 31 § 6 i w rozdziale 6 kodeksu określenia: „dokument zastępujący e-AD”, „dokument zastępujący e-SAD”, „dostawa wewnątrzwspólnotowa”, „e-AD”, „e-SAD”, „eksport”, „import”, „inne wyroby nikotynowe”, „jednorazowe papierosy elektroniczne”, „legalizacyjne znaki akcyzy”, „nabycie wewnątrzwspólnotowe”, „numer referencyjny”, „płyn do papierosów elektronicznych”, „procedura zawieszenia poboru akcyzy”, „przedpłata akcyzy”, „saszetki nikotynowe”, „skład podatkowy”, „susz tytoniowy”, „System”, „terytorium kraju”, „terytorium państwa członkowskiego”, „urządzenia do waporyzacji”, „uszkodzone znaki akcyzy”, „wyroby akcyzowe”, „wyroby nowatorskie”, „wyroby tytoniowe”, „zestawy części do urządzeń do waporyzacji”, „znaki akcyzy” i „zniszczone znaki akcyzy” mają znaczenie nadane im w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222 i 340).
 
@@ -723,7 +736,9 @@ source: "isap-pdf"
 
 § 31. Użyte w kodeksie określenia „kontrola celno-skarbowa”, „nabycie sprawdzające”, „audyt”, „czynności audytowe”, „urzędowe sprawdzenie”, „składanie za pośrednictwem konta w e-Urzędzie Skarbowym”, „doręczenie na konto w e-Urzędzie Skarbowym” mają znaczenie nadane im w ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
-§ 31a. (uchylony) § 32. Użyte w rozdziale 7 kodeksu określenia, a w szczególności: „dozór celny”, „kontrola celna”, „magazyn czasowego składowania”, „odprawa czasowa”, „organ celny”, „pozwolenie”, „przedstawienie towaru organowi celnemu”, „skład celny”, „stawka celna”, „wolny obszar celny”, „zamknięcie celne”, „zgłoszenie celne”, mają znaczenie nadane im w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającym unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ), zwanym dalej „unijnym kodeksem celnym”, w rozporządzeniu wykonawczym Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiającym szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm. ) oraz w rozporządzeniu delegowanym Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm. ). Określenie „należność celna” oznacza odpowiednio „należności celne przywozowe” i „należności celne wywozowe” w rozumieniu unijnego kodeksu celnego.
+§ 31a. (uchylony)
+
+§ 32. Użyte w rozdziale 7 kodeksu określenia, a w szczególności: „dozór celny”, „kontrola celna”, „magazyn czasowego składowania”, „odprawa czasowa”, „organ celny”, „pozwolenie”, „przedstawienie towaru organowi celnemu”, „skład celny”, „stawka celna”, „wolny obszar celny”, „zamknięcie celne”, „zgłoszenie celne”, mają znaczenie nadane im w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającym unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ), zwanym dalej „unijnym kodeksem celnym”, w rozporządzeniu wykonawczym Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiającym szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm. ) oraz w rozporządzeniu delegowanym Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm. ). Określenie „należność celna” oznacza odpowiednio „należności celne przywozowe” i „należności celne wywozowe” w rozumieniu unijnego kodeksu celnego.
 
 § 33. Użyte w rozdziale 7 kodeksu określenie „reglamentacja pozataryfowa” oznacza odpowiednio środki polityki handlowej ustanowione przez Wspólnotę Europejską w ramach wspólnej polityki handlowej postanowieniami wspólnotowymi stosowanymi w odniesieniu do ograniczenia świadczenia usług, wywozu lub przywozu towarów, takie jak środki nadzoru lub ochrony, ograniczenia ilościowe i zakazy przywozu oraz wywozu, a także środki administrowania obrotem towarami lub usługami z zagranicą, ustanowione przez właściwy organ administracji państwowej.
 
@@ -1348,7 +1363,9 @@ source: "isap-pdf"
 
 **Art. 93.**
 
-§ 1. (uchylony) § 2. Kto rażąco narusza przepisy prawa celnego w zakresie warunków działalności wolnego obszaru celnego lub składu celnego, podlega karze grzywny do 240 stawek dziennych.
+§ 1. (uchylony)
+
+§ 2. Kto rażąco narusza przepisy prawa celnego w zakresie warunków działalności wolnego obszaru celnego lub składu celnego, podlega karze grzywny do 240 stawek dziennych.
 
 § 3. Karze określonej w § 2 podlega także ten, kto rażąco narusza przepisy w zakresie warunków prowadzenia magazynu czasowego składowania.
 
@@ -1563,6 +1580,9 @@ source: "isap-pdf"
 
 **Art. 114c.** W postępowaniu przygotowawczym prowadzonym przez finansowe organy postępowania przygotowawczego:
 
+- **1)** wezwania, zawiadomienia oraz inne pisma mogą być doręczane także na konto w e-Urzędzie Skarbowym;
+- **2)** pisma skierowane do tych organów mogą być składane także za pośrednictwem konta w e-Urzędzie Skarbowym.
+
 **Art. 115.**
 
 § 1. W sprawach o przestępstwa skarbowe i wykroczenia skarbowe orzekają sądy powszechne albo sądy wojskowe.
@@ -1739,7 +1759,9 @@ source: "isap-pdf"
 
 § 3. Nieusprawiedliwione niestawiennictwo na rozprawie prawidłowo zawiadomionego o terminie interwenienta lub jego pełnomocnika nie jest przeszkodą do jej przeprowadzenia i wydania orzeczenia.
 
-§ 4. (uchylony) § 5. W razie nieuwzględnienia interwencji koszty wynikłe z jej zgłoszenia ponosi interwenient.
+§ 4. (uchylony)
+
+§ 5. W razie nieuwzględnienia interwencji koszty wynikłe z jej zgłoszenia ponosi interwenient.
 
 #### Rozdział 13 Zatrzymanie rzeczy. Zabezpieczenie majątkowe
 
@@ -1757,7 +1779,9 @@ source: "isap-pdf"
 
 § 1. W razie popełnienia przestępstwa skarbowego lub wykroczenia skarbowego można zabezpieczyć także środek karny, o którym mowa w art. 22 § 2 pkt 2–4a, obowiązek zwrotu korzyści majątkowej oraz uiszczenie należności publicznoprawnej uszczuplonej czynem zabronionym, jeżeli zachodzi uzasadniona obawa, że bez takiego zabezpieczenia wykonanie orzeczenia w zakresie tych środków, obowiązku lub ściągnięcie uszczuplonej należności publicznoprawnej będzie niemożliwe lub znacznie utrudnione.
 
-§ 2. (uchylony) § 3. Karę grzywny, środek karny ściągnięcia równowartości pieniężnej przepadku przedmiotów, przepadku korzyści majątkowej, ściągnięcia równowartości pieniężnej przepadku korzyści majątkowej oraz obowiązek zwrotu korzyści majątkowej można zabezpieczyć także na mieniu podmiotu pociągniętego do odpowiedzialności posiłkowej.
+§ 2. (uchylony)
+
+§ 3. Karę grzywny, środek karny ściągnięcia równowartości pieniężnej przepadku przedmiotów, przepadku korzyści majątkowej, ściągnięcia równowartości pieniężnej przepadku korzyści majątkowej oraz obowiązek zwrotu korzyści majątkowej można zabezpieczyć także na mieniu podmiotu pociągniętego do odpowiedzialności posiłkowej.
 
 § 4. (uchylony)
 
@@ -1969,7 +1993,9 @@ source: "isap-pdf"
 
 § 1. W kwestii udzielenia zezwolenia na dobrowolne poddanie się odpowiedzialności sąd orzeka niezwłocznie na posiedzeniu.
 
-§ 2. (uchylony) § 3. W posiedzeniu ma prawo wziąć udział sprawca i jego obrońca, a także przedstawiciel ustawowy, o którym mowa w art. 142 § 3. Nieusprawiedliwione niestawiennictwo prawidłowo zawiadomionego o terminie sprawcy lub jego obrońcy, a także przedstawiciela ustawowego, o którym mowa w art. 142 § 3, nie jest przeszkodą do przeprowadzenia posiedzenia.
+§ 2. (uchylony)
+
+§ 3. W posiedzeniu ma prawo wziąć udział sprawca i jego obrońca, a także przedstawiciel ustawowy, o którym mowa w art. 142 § 3. Nieusprawiedliwione niestawiennictwo prawidłowo zawiadomionego o terminie sprawcy lub jego obrońcy, a także przedstawiciela ustawowego, o którym mowa w art. 142 § 3, nie jest przeszkodą do przeprowadzenia posiedzenia.
 
 § 4. Stawiennictwo na posiedzenie finansowego organu postępowania przygotowawczego lub jego przedstawiciela, w szczególności tego, który złożył wniosek, jest obowiązkowe, jeżeli prezes sądu lub sąd tak zarządzi.
 
@@ -2149,6 +2175,9 @@ source: "isap-pdf"
 ### DZIAŁ V Postępowanie nakazowe
 
 **Art. 171.** Wydanie wyroku nakazowego jest niedopuszczalne także wtedy, gdy:
+
+- **1)** stosuje się przepisy o odpowiedzialności posiłkowej;
+- **2)** zgłoszono interwencję co do przedmiotów podlegających przepadkowi, chyba że zostanie ona cofnięta przez interwenienta do czasu wniesienia aktu oskarżenia do sądu.
 
 **Art. 172.**
 

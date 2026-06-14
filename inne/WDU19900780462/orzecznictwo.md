@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 12 października 1990 r. o Straży Granicznej.*
 
-Łącznie: **86** orzeczeń
-(pominięto 37 orzeczeń sądów rejonowych)
+Łącznie: **87** orzeczeń
+(pominięto 38 orzeczeń sądów rejonowych)
 
 ## art. 1 (4)
 
@@ -16,8 +16,9 @@ Orzeczenia powołujące: *Ustawa z dnia 12 października 1990 r. o Straży Grani
 
 - 2019-08-14 | SO | [II AKa 202/18](https://www.saos.org.pl/judgments/393153) | Wyrok
 
-## art. 9 (19)
+## art. 9 (20)
 
+- 2025-03-26 | SO | [II AKa 508/24](https://www.saos.org.pl/judgments/545277) | Wyrok
 - 2024-05-24 | SO | [II AKa 97/24](https://www.saos.org.pl/judgments/518261) | Wyrok
 - 2022-11-22 | SO | [II AKa 51/22](https://www.saos.org.pl/judgments/482303) | Wyrok
 - 2021-09-30 | SO | [II AKa 340/20](https://www.saos.org.pl/judgments/467859) | Wyrok

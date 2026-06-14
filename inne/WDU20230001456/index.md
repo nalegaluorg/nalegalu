@@ -8,10 +8,10 @@ pos: 1456
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 lipca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1456 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 26 lipca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001456) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1456/text.pdf) |
 
-Poz. 1456 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 26 lipca 2023 r.
-w sprawie warunków chowu, hodowli i połowu innych organizmów żyjących w wodzie Na podstawie art. 2 ust. 2 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2022 r. poz. 883) zarządza się, co następuje: § 1. Rozporządzenie określa warunki chowu, hodowli i połowu innych niż ryby, raki i minogi organizmów żyjących w wodzie.
+w sprawie warunków chowu, hodowli i połowu innych organizmów żyjących w wodzie Na podstawie art. 2 ust. 2 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2022 r. poz. 883) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki chowu, hodowli i połowu innych niż ryby, raki i minogi organizmów żyjących w wodzie.
 § 2. 1. Chów lub hodowlę innych niż ryby, raki i minogi organizmów żyjących w wodzie prowadzi się w budynkach, w których:
 1) woda po wprowadzeniu do urządzeń służących do chowu lub hodowli tych organizmów wodnych znajduje się w obiegu zamkniętym;
 2) urządzenia doprowadzające i odprowadzające wodę oraz urządzenia służące do chowu lub hodowli uniemożliwiają wydostanie się tych organizmów wodnych i ich form rozwojowych do innych wód;

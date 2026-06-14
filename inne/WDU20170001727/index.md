@@ -8,7 +8,7 @@ pos: 1727
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 64/A/2017 WYROK z dnia 11 września 2017 r.

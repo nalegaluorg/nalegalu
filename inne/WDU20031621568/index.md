@@ -8,7 +8,7 @@ pos: 1568
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie zabytków i opiece nad zabytkami
@@ -33,6 +33,12 @@ Art. 121–138. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** przedmiot, zakres i formy ochrony zabytków oraz opieki nad nimi;
+- **2)** zasady tworzenia krajowego programu ochrony zabytków i opieki nad zabytkami oraz finansowania prac konserwatorskich, restauratorskich i robót budowlanych przy zabytkach;
+- **3)** organizację organów ochrony zabytków;
+- **4)** organ właściwy w sprawach wydawania pozwoleń wymaganych na przywóz dóbr kultury z terytorium państwa niebędącego członkiem Unii Europejskiej, o których mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/880 z dnia 17 kwietnia 2019 r. w sprawie wprowadzania i przywozu dóbr kultury (Dz. Urz. UE L 151 z 07.06.2019, str. 1), zwanego dalej „rozporządzeniem 2019/880”;
+- **5)** sankcje za naruszenie przepisów dotyczących przywozu i wywozu dóbr kultury, określonych w rozporządzeniu 2019/880 oraz w rozporządzeniu Rady (WE) 116/2009 z dnia 18 grudnia 2008 r. w sprawie wywozu dóbr kultury (Dz. Urz. UE L 39 z 10.02.2009, str. 1), zwanym dalej „rozporządzeniem 116/2009”.
+
 **Art. 2.**
 
 1. Ustawa nie narusza w szczególności przepisów o muzeach, o bibliotekach, o języku polskim, Prawa ochrony środowiska, o ochronie przyrody, o gospodarce nieruchomościami, o planowaniu i zagospodarowaniu przestrzennym, Prawa budowlanego, o ochronie danych osobowych i o ochronie informacji niejawnych.
@@ -41,9 +47,38 @@ Art. 121–138. (pominięte)
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
+- **1)** zabytek – nieruchomość lub rzecz ruchomą, ich części lub zespoły, będące dziełem człowieka lub związane z jego działalnością i stanowiące świadectwo minionej epoki bądź zdarzenia, których zachowanie leży w interesie społecznym ze względu na posiadaną wartość historyczną, artystyczną lub naukową;
+- **2)** zabytek nieruchomy – nieruchomość, jej część lub zespół nieruchomości, o których mowa w pkt 1;
+- **3)** zabytek ruchomy – rzecz ruchomą, jej część lub zespół rzeczy ruchomych, o których mowa w pkt 1;
+- **4)** zabytek archeologiczny – zabytek nieruchomy, będący powierzchniową, podziemną lub podwodną pozostałością egzystencji i działalności człowieka, złożoną z nawarstwień kulturowych i znajdujących się w nich wytworów bądź ich śladów albo zabytek ruchomy, będący tym wytworem;
+- **5)** instytucja kultury wyspecjalizowana w opiece nad zabytkami – instytucję kultury w rozumieniu przepisów o organizowaniu i prowadzeniu działalności kulturalnej, której celem statutowym jest sprawowanie opieki nad zabytkami;
+- **6)** prace konserwatorskie – działania mające na celu zabezpieczenie i utrwalenie substancji zabytku, zahamowanie procesów jego destrukcji oraz dokumentowanie tych działań;
+- **7)** prace restauratorskie – działania mające na celu wyeksponowanie wartości artystycznych i estetycznych zabytku, w tym, jeżeli istnieje taka potrzeba, uzupełnienie lub odtworzenie jego części, oraz dokumentowanie tych działań;
+- **8)** roboty budowlane – roboty budowlane w rozumieniu przepisów Prawa budowlanego, podejmowane przy zabytku lub w otoczeniu zabytku;
+- **9)** badania konserwatorskie – działania mające na celu rozpoznanie historii i funkcji zabytku, ustalenie użytych do jego wykonania materiałów i zastosowanych technologii, określenie stanu zachowania tego zabytku oraz opracowanie diagnozy, projektu i programu prac konserwatorskich, a jeżeli istnieje taka potrzeba, również programu prac restauratorskich;
+- **10)** badania architektoniczne – działania ingerujące w substancję zabytku, mające na celu rozpoznanie i udokumentowanie pierwotnej formy obiektu budowlanego oraz ustalenie zakresu jego kolejnych przekształceń;
+- **11)** badania archeologiczne – działania mające na celu odkrycie, rozpoznanie, udokumentowanie i zabezpieczenie zabytku archeologicznego;
+- **12)** historyczny układ urbanistyczny lub ruralistyczny – przestrzenne założenie miejskie lub wiejskie, zawierające zespoły budowlane, pojedyncze budynki i formy zaprojektowanej zieleni, rozmieszczone w układzie historycznych podziałów własnościowych i funkcjonalnych, w tym ulic lub sieci dróg;
+- **13)** historyczny zespół budowlany – powiązaną przestrzennie grupę budynków wyodrębnioną ze względu na formę architektoniczną, styl, zastosowane materiały, funkcję, czas powstania lub związek z wydarzeniami historycznymi;
+- **14)** krajobraz kulturowy – postrzegana przez ludzi przestrzeń, zawierająca elementy przyrodnicze i wytwory cywilizacji, historycznie ukształtowana w wyniku działania czynników naturalnych i działalności człowieka;
+- **15)** otoczenie – teren wokół lub przy zabytku wyznaczony w decyzji o wpisie tego terenu do rejestru zabytków w celu ochrony wartości widokowych zabytku oraz jego ochrony przed szkodliwym oddziaływaniem czynników zewnętrznych.
+
 **Art. 4.** Ochrona zabytków polega, w szczególności, na podejmowaniu przez organy administracji publicznej działań mających na celu:
 
+- **1)** zapewnienie warunków prawnych, organizacyjnych i finansowych umożliwiających trwałe zachowanie zabytków oraz ich zagospodarowanie i utrzymanie;
+- **2)** zapobieganie zagrożeniom mogącym spowodować uszczerbek dla wartości zabytków;
+- **3)** udaremnianie niszczenia i niewłaściwego korzystania z zabytków;
+- **4)** przeciwdziałanie kradzieży, zaginięciu lub nielegalnemu wywozowi zabytków za granicę;
+- **5)** kontrolę stanu zachowania i przeznaczenia zabytków;
+- **6)** uwzględnianie zadań ochronnych w planowaniu i zagospodarowaniu przestrzennym oraz przy kształtowaniu środowiska.
+
 **Art. 5.** Opieka nad zabytkiem sprawowana przez jego właściciela lub posiadacza polega, w szczególności, na zapewnieniu warunków:
+
+- **1)** naukowego badania i dokumentowania zabytku;
+- **2)** prowadzenia prac konserwatorskich, restauratorskich i robót budowlanych przy zabytku;
+- **3)** zabezpieczenia i utrzymania zabytku oraz jego otoczenia w jak najlepszym stanie;
+- **4)** korzystania z zabytku w sposób zapewniający trwałe zachowanie jego wartości;
+- **5)** popularyzowania i upowszechniania wiedzy o zabytku oraz jego znaczeniu dla historii i kultury.
 
 **Art. 6.**
 
@@ -80,6 +115,12 @@ Art. 121–138. (pominięte)
 #### Rozdział 2 Formy i sposób ochrony zabytków
 
 **Art. 7.** Formami ochrony zabytków są:
+
+- **1)** wpis do rejestru zabytków;
+- **1a)** wpis na Listę Skarbów Dziedzictwa;
+- **2)** uznanie za pomnik historii;
+- **3)** utworzenie parku kulturowego;
+- **4)** ustalenia ochrony w miejscowym planie zagospodarowania przestrzennego albo w decyzji o ustaleniu lokalizacji inwestycji celu publicznego, decyzji o warunkach zabudowy, decyzji o zezwoleniu na realizację inwestycji drogowej, decyzji o ustaleniu lokalizacji linii kolejowej lub decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego.
 
 **Art. 8.**
 
@@ -132,6 +173,10 @@ Art. 121–138. (pominięte)
 3. Przepisów ust. 1 i 2 nie stosuje się do zabytku służącego obronności i bezpieczeństwu państwa.
 
 **Art. 11.** Do rejestru nie wpisuje się zabytku:
+
+- **1)** wpisanego na Listę Skarbów Dziedzictwa;
+- **2)** wpisanego do inwentarza muzeum;
+- **3)** wchodzącego w skład narodowego zasobu bibliotecznego.
 
 **Art. 12.**
 
@@ -503,6 +548,21 @@ Art. 121–138. (pominięte)
 6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, tryb przyznawania nagród pieniężnych i dyplomów, uwzględniając konieczność zapewnienia przejrzystości i sprawności postępowania.>
 
 **Art. 35.** [1. Przedmioty będące zabytkami archeologicznymi odkrytymi, przypadkowo znalezionymi albo pozyskanymi w wyniku badań archeologicznych, stanowią własność Skarbu Państwa.] <1. Przedmioty będące zabytkami archeologicznymi:
+
+- **1)** odkrytymi,
+- **2)** znalezionymi przypadkowo,
+- **3)** znalezionymi lub pozyskanymi w wyniku poszukiwań, o których mowa w art. 36b ust. 1,
+- **4)** pozyskanymi w wyniku badań archeologicznych – stanowią własność Skarbu Państwa.> [2. Własność Skarbu Państwa stanowią również przedmioty będące zabytkami archeologicznymi, pozyskane w wyniku poszukiwań, o których mowa w art. 36 ust. 1 pkt 12.] [3. Miejsce przechowywania zabytków archeologicznych odkrytych, przypadkowo znalezionych albo pozyskanych w wyniku badań archeologicznych bądź poszukiwań, o których mowa w art. 36 ust. 1 pkt 12, określa wojewódzki konserwator zabytków, przekazując je, w drodze decyzji, w depozyt muzeum lub innej jednostce organizacyjnej, za jej zgodą.] <3. Miejsce przechowywania zabytków archeologicznych odkrytych, znalezionych przypadkowo, znalezionych lub pozyskanych w wyniku poszukiwań, o których mowa w art. 36b ust. 1, albo pozyskanych w wyniku badań archeologicznych określa wojewódzki konserwator zabytków, przekazując je, w drodze decyzji, w depozyt muzeum lub innej jednostce organizacyjnej za jej zgodą.>
+
+4. Przekazanie zabytków archeologicznych muzeum lub innej jednostce organizacyjnej może nastąpić w przypadku, gdy jednostka ta zapewni:
+
+- **1)** ich trwałe przechowanie;
+- **2)** przeprowadzenie inwentaryzacji i odpowiednich prac konserwatorskich;
+- **3)** udostępnianie tych zabytków w celach naukowych.
+
+5. Wojewódzki konserwator zabytków może wydać decyzję o cofnięciu oddania w depozyt zabytków archeologicznych, jeżeli muzeum lub inna jednostka organizacyjna nie zapewnia warunków, o których mowa w ust. 4.
+
+6. Na wniosek dyrektora muzeum zabytki archeologiczne, będące w depozycie tego muzeum, mogą być przekazane na jego własność na podstawie decyzji wojewódzkiego konserwatora zabytków.
 
 **Art. 36.**
 
@@ -1173,6 +1233,24 @@ Art. 121–138. (pominięte)
 
 **Art. 77.** Dotacja może obejmować nakłady konieczne na:
 
+- **1)** sporządzenie ekspertyz technicznych i konserwatorskich;
+- **2)** przeprowadzenie badań konserwatorskich lub architektonicznych;
+- **3)** wykonanie dokumentacji konserwatorskiej;
+- **4)** opracowanie programu prac konserwatorskich i restauratorskich;
+- **5)** wykonanie projektu budowlanego zgodnie z przepisami Prawa budowlanego;
+- **6)** sporządzenie projektu odtworzenia kompozycji wnętrz;
+- **7)** zabezpieczenie, zachowanie i utrwalenie substancji zabytku;
+- **8)** stabilizację konstrukcyjną części składowych zabytku lub ich odtworzenie w zakresie niezbędnym dla zachowania tego zabytku;
+- **9)** odnowienie lub uzupełnienie tynków i okładzin architektonicznych albo ich całkowite odtworzenie, z uwzględnieniem charakterystycznej dla tego zabytku kolorystyki;
+- **10)** odtworzenie zniszczonej przynależności zabytku, jeżeli odtworzenie to nie przekracza 50 % oryginalnej substancji tej przynależności;
+- **11)** odnowienie lub całkowite odtworzenie okien, w tym ościeżnic i okiennic, zewnętrznych odrzwi i drzwi, więźby dachowej, pokrycia dachowego, rynien i rur spustowych;
+- **12)** modernizację instalacji elektrycznej w zabytkach drewnianych lub w zabytkach, które posiadają oryginalne, wykonane z drewna części składowe i przynależności;
+- **13)** wykonanie izolacji przeciwwilgociowej;
+- **14)** uzupełnianie narysów ziemnych dzieł architektury obronnej oraz zabytków archeologicznych nieruchomych o własnych formach krajobrazowych;
+- **15)** działania zmierzające do wyeksponowania istniejących, oryginalnych elementów zabytkowego układu parku lub ogrodu;
+- **16)** zakup materiałów konserwatorskich i budowlanych, niezbędnych do wykonania prac i robót przy zabytku wpisanym do rejestru, o których mowa w pkt 7–15;
+- **17)** zakup i montaż instalacji przeciwwłamaniowej oraz przeciwpożarowej i odgromowej.
+
 **Art. 78.**
 
 1. Dotacja może być udzielona w wysokości do 50 % nakładów koniecznych na wykonanie prac konserwatorskich, restauratorskich lub robót budowlanych przy zabytku wpisanym do rejestru.
@@ -1192,6 +1270,11 @@ Art. 121–138. (pominięte)
 2. Dochodzenie przez organy, o których mowa w art. 74, należności wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych z tytułu niewykorzystania lub wykorzystania niezgodnego z przeznaczeniem udzielonej dotacji następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
 **Art. 80.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki i tryb udzielania dotacji celowej na prace konserwatorskie lub restauratorskie przy zabytku wpisanym na Listę Skarbów Dziedzictwa oraz prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku wpisanym do rejestru,
+- **2)** dane i informacje zawarte we wnioskach o udzielenie dotacji oraz dokumentację niezbędną do rozpatrzenia tych wniosków,
+- **3)** dokumenty niezbędne do zawarcia umowy oraz elementy umowy o udzielenie dotacji,
+- **4)** dokumenty niezbędne do rozliczenia umowy – uwzględniając konieczność określenia okresu, który musi upłynąć zanim możliwe będzie udzielenie kolejnej dotacji celowej na dofinansowanie prac przy tym samym zabytku, zorganizowania w ciągu roku budżetowego co najmniej jednego naboru wniosków o udzielenie dotacji, ogłoszenia informacji o naborach, zapewnienia wszechstronnej oceny działań, na wykonanie których ma być udzielona dotacja, oraz zapewnienia celowości i racjonalności wydatkowania środków publicznych.
 
 **Art. 81.**
 
@@ -1295,6 +1378,9 @@ Art. 121–138. (pominięte)
 #### Rozdział 9 Organizacja organów ochrony zabytków
 
 **Art. 89.** Organami ochrony zabytków są:
+
+- **1)** minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w imieniu którego zadania i kompetencje, w tym zakresie, wykonuje Generalny Konserwator Zabytków;
+- **2)** wojewoda, w imieniu którego zadania i kompetencje, w tym zakresie, wykonuje wojewódzki konserwator zabytków.
 
 **Art. 90.**
 

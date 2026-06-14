@@ -8,10 +8,10 @@ pos: 1959
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 grudnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1959 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 24 grudnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001959) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1959/text.pdf) |
 
-Poz. 1959 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 24 grudnia 2014 r.
-w sprawie wzoru formularza skierowania do komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych stosowanego w Centralnym Biurze Antykorupcyjnym Na podstawie art. 30 ust. 1 ustawy z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. poz. 1822) zarządza się, co następuje: § 1. 1. Ustala się wzór formularza skierowania do komisji lekarskiej kandydata do służby w Centralnym Biurze Antykorupcyjnym, funkcjonariusza Centralnego Biura Antykorupcyjnego, funkcjonariusza zwolnionego z tej służby, funkcjonariusza Centralnego Biura Antykorupcyjnego zwolnionego ze służby, który ma ustalone prawo do emerytury policyjnej lub renty policyjnej, oraz osoby niebędącej funkcjonariuszem Centralnego Biura Antykorupcyjnego, która w czasie korzystania lub w związku z korzystaniem przez tę służbę z jej pomocy poniosła uszczerbek na zdrowiu lub utraciła życie.
+w sprawie wzoru formularza skierowania do komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych stosowanego w Centralnym Biurze Antykorupcyjnym Na podstawie art. 30 ust. 1 ustawy z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. poz. 1822) zarządza się, co następuje:
+§ 1. 1. Ustala się wzór formularza skierowania do komisji lekarskiej kandydata do służby w Centralnym Biurze Antykorupcyjnym, funkcjonariusza Centralnego Biura Antykorupcyjnego, funkcjonariusza zwolnionego z tej służby, funkcjonariusza Centralnego Biura Antykorupcyjnego zwolnionego ze służby, który ma ustalone prawo do emerytury policyjnej lub renty policyjnej, oraz osoby niebędącej funkcjonariuszem Centralnego Biura Antykorupcyjnego, która w czasie korzystania lub w związku z korzystaniem przez tę służbę z jej pomocy poniosła uszczerbek na zdrowiu lub utraciła życie.
 2. Wzór formularza, o którym mowa w ust. 1, jest określony w załączniku do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
 Prezes Rady Ministrów: E. Kopacz WZÓR ............................................

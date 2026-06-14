@@ -8,10 +8,10 @@ pos: 1096
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 maja 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11009966 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 25 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,22 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001096) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1096/text.pdf) |
 
-11009966 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 25 kwietnia 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zgłoszeń celnych w obrocie pocztowym
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 17 sierpnia 2016 r. w sprawie zgłoszeń celnych w obrocie pocztowym (Dz. U. poz. 1293), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającym rozporządzenie w sprawie zgłoszeń celnych w obrocie pocztowym (Dz. U. poz. 1184).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 12 rozporządzenia Ministra Finansów z dnia 17 sierpnia 2016 r. w sprawie zgłoszeń celnych w obrocie pocztowym (Dz. U. poz. 1293), który stanowi: „§ 12. Wzory dokumentów potwierdzających dokonanie zgłoszenia celnego określone w załącznikach nr 1 i 2 do rozporządzenia Ministra Finansów z dnia 6 sierpnia 2004 r. w sprawie szczegółowego trybu i warunków przedstawiania towarów i dokonywania zgłoszeń celnych w obrocie pocztowym (Dz. U. z 2014 r. poz. 1473) mogą być stosowane do dnia 31 grudnia 2016 r.”;
 2) § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającego rozporządzenie w sprawie zgłoszeń celnych w obrocie pocztowym (Dz. U. poz. 1184), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r., z wyjątkiem § 1 pkt 3 w zakresie § 5 ust. 3, który wchodzi w życie z dniem ogłoszenia.”.
 Minister Finansów: wz. A. Soboń ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 17 sierpnia 2016 r.
-w sprawie zgłoszeń celnych w obrocie pocztowym Na podstawie art. 19 ust. 2 ustawy z dnia 19 marca 2004 r. Prawo celne (Dz. U. z 2021 r. poz. 1856) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie zgłoszeń celnych w obrocie pocztowym Na podstawie art. 19 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2021 r. poz. 1856) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) dokumenty, na podstawie których odbywa się przewóz przesyłek pocztowych wprowadzanych na obszar celny Unii Europejskiej, zwanej dalej „Unią”, i wyprowadzanych poza ten obszar;
-2) tryb przedstawiania towarów i dokonywania zgłoszeń celnych w obrocie pocztowym, realizowanym przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2022 r. poz. 896).
+2) tryb przedstawiania towarów i dokonywania zgłoszeń celnych w obrocie pocztowym, realizowanym przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896).
 § 1a. Użyte w rozporządzeniu określenia oznaczają:
-1) unijny kodeks celny rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiające unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. );
-2) rozporządzenie delegowane rozporządzenie delegowane Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm. );
-3) rozporządzenie wykonawcze rozporządzenie wykonawcze Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiające szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm. );
-4) rozporządzenie ustanawiające wspólnotowy system zwolnień celnych rozporządzenie Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiające wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23);
-5) Prawo celne ustawę z dnia 19 marca 2004 r. Prawo celne.
+1) unijny kodeks celny – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiające unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. );
+2) rozporządzenie delegowane – rozporządzenie delegowane Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm. );
+3) rozporządzenie wykonawcze – rozporządzenie wykonawcze Komisji (UE) 2015/2447 z dnia 24 listopada 2015 r. ustanawiające szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 ustanawiającego unijny kodeks celny (Dz. Urz. UE L 343 z 29.12.2015, str. 558, z późn. zm. );
+4) rozporządzenie ustanawiające wspólnotowy system zwolnień celnych – rozporządzenie Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiające wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23);
+5) Prawo celne – ustawę z dnia 19 marca 2004 r. – Prawo celne.
 § 2. Przewóz przesyłek pocztowych wprowadzanych na obszar celny Unii i wyprowadzanych poza ten obszar odbywa się na podstawie międzynarodowych dokumentów pocztowych, w szczególności wykazów zdawczych: CN 37, CN 38, CN 41, CN 47 lub dokumentu wysyłki (CONSIGNMENT).
 § 3. W przypadkach, o których mowa w art. 288 i art. 289 ust. 1 oraz art. 290 ust. 1 rozporządzenia wykonawczego, etykiety na przesyłkach pocztowych i towarzyszących im dokumentach umieszcza operator wyznaczony.
 § 4. 1. Przesyłki pocztowe, które zostały wprowadzone na obszar celny Unii, są przedstawiane organom celnym właściwym do obsługi obrotu pocztowego, podczas dokonywania zgłoszeń celnych, o których mowa w § 6, wraz z deklaracjami CN 22 lub CN 23 albo z wykorzystaniem komunikatów będących elektronicznymi odpowiednikami tych deklaracji.
@@ -74,7 +74,7 @@ c) zniszczenia niedoręczonej przesyłki pocztowej, ze wskazaniem szczegółowyc
 § 6. 1. Zgłoszenia celne, o których mowa w art. 143a i art. 144 rozporządzenia delegowanego, są dokonywane z wykorzystaniem systemu teleinformatycznego, zgodnie z wymogami dotyczącymi elektronicznych zgłoszeń celnych, o których mowa w przepisach wydanych na podstawie art. 19 ust. 1 Prawa celnego.
 2. W przypadku gdy przesyłka pocztowa zawiera towary:
 1) inne niż określone w art. 144 rozporządzenia delegowanego albo
-2) określone w art. 144 rozporządzenia delegowanego, ale zgłoszenie celne nie jest dokonywane przez operatora wyznaczonego zgłoszenia celnego dokonuje się zgodnie z ust. 1 albo na formularzu Jednolitego Dokumentu Administracyjnego (SAD), o którym mowa w przepisach wydanych na podstawie art. 19 ust. 1 Prawa celnego.
+2) określone w art. 144 rozporządzenia delegowanego, ale zgłoszenie celne nie jest dokonywane przez operatora wyznaczonego – zgłoszenia celnego dokonuje się zgodnie z ust. 1 albo na formularzu Jednolitego Dokumentu Administracyjnego (SAD), o którym mowa w przepisach wydanych na podstawie art. 19 ust. 1 Prawa celnego.
 3. Do zgłoszeń celnych, o których mowa w ust. 1 i 2, przepisy art. 163 ust. 1 i 2 unijnego kodeksu celnego stosuje się odpowiednio.
 § 7. 1. (uchylony).
 2. (uchylony).
@@ -91,7 +91,7 @@ Zgłoszenie celne powinno zawierać elementy kalkulacyjne z dnia jego przyjęcia
 § 11. Zgłoszenia celnego o objęcie procedurą wywozu towarów w przesyłkach pocztowych, będących częścią serii podobnych czynności i zawierających towary przeznaczone do celów handlowych, można dokonać, za zgodą organu celnego, zbiorczo w jednym zgłoszeniu celnym, jeżeli łączna wartość towarów w przesyłkach pocztowych objętych jednym zgłoszeniem nie przekroczy równowartości 1000 euro.
 § 12. (pominięty).
 § 13. Rozporządzenie wchodzi w życie z dniem 20 sierpnia 2016 r.
-(uchylony) (uchylony) Załącznik nr 3 WZÓR Etykieta informująca o przyjęciu przez organ celny zgłoszenia celnego Objaśnienia: Kolor: czarne litery na zielonym tle Należy podać, zgodnie ze specyfikacją elektronicznych zgłoszeń celnych obowiązującą dla systemu teleinformatycznego do obsługi wywozowych zgłoszeń celnych, opublikowaną na stronach internetowych urzędu obsługującego ministra właściwego do spraw finansów publicznych: Nr MRN numer ewidencyjny operacji wywozowej nadawany przez system teleinformatyczny do obsługi wywozowych zgłoszeń celnych i przekazywany w komunikacie IE 528 informującym o przyjęciu zgłoszenia w urzędzie celnym wywozu.
-WYWÓZ- CŁO ECS MRN _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 80 mm mmm m mm WZÓR 3 WZÓR Etykieta informująca o przesłaniu zgłoszenia celnego Objaśnienia: Kolor: czarne litery na zielonym tle Należy podać, zgodnie ze specyfikacją elektronicznych zgłoszeń celnych obowiązującą dla systemu teleinformatycznego do obsługi wywozowych zgłoszeń celnych, opublikowaną na stronach internetowych urzędu obsługującego ministra właściwego do spraw finansów publicznych: Nr TIN numer identyfikacyjny zgłaszającego (nadawcy przesyłki pocztowej) oraz Nr własny IE 515 numer własny komunikatu IE 515 (zgłoszenia wywozowego) przesłanego do urzędu celnego wywozu nadawany przez zgłaszającego (nadawcę przesyłki pocztowej) dla danej przesyłki.
-WYWÓZ- CŁO ECS TIN _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Nr własny IE 515 _ _ _ _ _ _ _ _ _ _ _ _ _ _ 80 mm mmm m mm WZÓR
+(uchylony) (uchylony) Załącznik nr 3 WZÓR WZÓR Etykieta informująca o przyjęciu przez organ celny zgłoszenia celnego WYWÓZ- CŁO ECS MRN _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 80 mm mmm m mm Objaśnienia: Kolor: czarne litery na zielonym tle Należy podać, zgodnie ze specyfikacją elektronicznych zgłoszeń celnych obowiązującą dla systemu teleinformatycznego do obsługi wywozowych zgłoszeń celnych, opublikowaną na stronach internetowych urzędu obsługującego ministra właściwego do spraw finansów publicznych: Nr MRN – numer ewidencyjny operacji wywozowej nadawany przez system teleinformatyczny do obsługi wywozowych zgłoszeń celnych i przekazywany w komunikacie IE 528 informującym o przyjęciu zgłoszenia w urzędzie celnym wywozu.
+2 Dziennik Ustaw – 8 – Załącznik Poz. nr 4 1096 WZÓR WZÓR Etykieta informująca o przesłaniu zgłoszenia celnego WYWÓZ- CŁO ECS TIN _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Nr własny IE 515 _ _ _ _ _ _ _ _ _ _ _ _ _ _ 80 mm mmm m mm Objaśnienia: Kolor: czarne litery na zielonym tle Należy podać, zgodnie ze specyfikacją elektronicznych zgłoszeń celnych obowiązującą dla systemu teleinformatycznego do obsługi wywozowych zgłoszeń celnych, opublikowaną na stronach internetowych urzędu obsługującego ministra właściwego do spraw finansów publicznych: Nr TIN – numer identyfikacyjny zgłaszającego (nadawcy przesyłki pocztowej) oraz Nr własny IE 515 – numer własny komunikatu IE 515 (zgłoszenia wywozowego) przesłanego do urzędu celnego wywozu nadawany przez zgłaszającego (nadawcę przesyłki pocztowej) dla danej przesyłki.
+3
 

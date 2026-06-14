@@ -8,10 +8,10 @@ pos: 2494
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22449944 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 2 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,17 +25,17 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2494/text.pdf) |
 
-22449944 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 2 grudnia 2022 r.
-w sprawie komisji do spraw weryfikacji i rekomendacji pytań egzaminacyjnych Na podstawie art. 57d ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm. ) zarządza się, co następuje: § 1. 1. Rozporządzenie określa:
+w sprawie komisji do spraw weryfikacji i rekomendacji pytań egzaminacyjnych Na podstawie art. 57d ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa:
 1) szczegółową organizację i tryb działania komisji, o której mowa w art. 57a ust. 1 ustawy z dnia 5 stycznia 2011 r.
 o kierujących pojazdami, zwanej dalej „komisją”;
 2) szczegółowy sposób, tryb i terminy przeprowadzania weryfikacji pytań egzaminacyjnych przez komisję oraz wzory dokumentów z tym związane;
 3) wysokość wynagrodzenia dla osób wchodzących w skład komisji.
 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ministrze rozumie się przez to ministra właściwego do spraw transportu;
-2) ustawie o transporcie drogowym rozumie się przez to ustawę z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201);
-3) ustawie o kierujących pojazdami rozumie się przez to ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami;
-4) komórce merytorycznej rozumie się przez to komórkę właściwą do spraw transportu drogowego urzędu obsługującego ministra właściwego do spraw transportu.
+1) ministrze – rozumie się przez to ministra właściwego do spraw transportu;
+2) ustawie o transporcie drogowym – rozumie się przez to ustawę z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201);
+3) ustawie o kierujących pojazdami – rozumie się przez to ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami;
+4) komórce merytorycznej – rozumie się przez to komórkę właściwą do spraw transportu drogowego urzędu obsługującego ministra właściwego do spraw transportu.
 § 2. W skład komisji wchodzą:
 1) przewodniczący komisji, o którym mowa w art. 57a ust. 2 pkt 1 ustawy o kierujących pojazdami;
 2) sekretarz komisji, o którym mowa w art. 57a ust. 2 pkt 2 ustawy o kierujących pojazdami;
@@ -55,7 +55,7 @@ k) 5 osób, których wykształcenie lub doświadczenie zawodowe obejmuje tematyk
 2. W celu zapewnienia zgodności pytań egzaminacyjnych z obowiązującym stanem prawnym i ich właściwego poziomu merytorycznego przewodniczący komisji, odpowiednio do potrzeb, wyznacza grupy robocze spośród członków komisji oraz wyznacza lidera dla każdej grupy, której zadaniem jest ocena wpływu obowiązujących przepisów lub ogłoszonych zmian przepisów na potrzebę opracowania nowego pytania egzaminacyjnego albo weryfikację istniejącego pytania egzaminacyjnego.
 3. Przewodniczący komisji, na podstawie wniosku lidera grupy albo indywidualnego wniosku członka komisji, wniosku sekretarza komisji lub na podstawie własnej oceny albo oceny otrzymanej od ministra, przekazuje za pośrednictwem sekretarza komisji do kierującego komórką merytoryczną informację o potrzebie:
 1) opracowania, weryfikacji lub tłumaczenia nowego pytania egzaminacyjnego lub nowych pytań egzaminacyjnych,
-2) weryfikacji lub tłumaczenia istniejącego pytania egzaminacyjnego lub istniejących pytań egzaminacyjnych w katalogu pytań wraz z uzasadnieniem i propozycją terminu ich opracowania, weryfikacji lub tłumaczenia.
+2) weryfikacji lub tłumaczenia istniejącego pytania egzaminacyjnego lub istniejących pytań egzaminacyjnych w katalogu pytań – wraz z uzasadnieniem i propozycją terminu ich opracowania, weryfikacji lub tłumaczenia.
 4. Przewodniczący komisji, przekazując kierującemu komórką merytoryczną informację, o której mowa w ust. 3, uwzględnia, że:
 1) pytania egzaminacyjne oraz wchodzące w ich skład scenariusze, wizualizacje i opisy stosowane na egzaminach, o których mowa w art. 33 ust. 1 pkt 7, art. 58 ust. 1 pkt 7 i art. 117 ust. 2 pkt 7 ustawy o kierujących pojazdami, oraz na testach kwalifikacyjnych, o których mowa w art. 39b ust. 3 ustawy o transporcie drogowym, powinny zapewniać właściwy poziom merytoryczny pytań egzaminacyjnych;
 2) powstaje konieczność dostosowania pytań egzaminacyjnych do zmieniających się w określonym terminie przepisów;
@@ -94,7 +94,7 @@ k) 5 osób, których wykształcenie lub doświadczenie zawodowe obejmuje tematyk
 a) za pośrednictwem systemu informatycznego lub
 b) za pośrednictwem ePUAP lub z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego, lub
 c) za pośrednictwem poczty elektronicznej lub
-2) papierowej za pośrednictwem operatora pocztowego lub osobiście.
+2) papierowej – za pośrednictwem operatora pocztowego lub osobiście.
 2. Przewodniczący komisji podejmuje decyzję o postaci przekazania pytania egzaminacyjnego lub pytań egzaminacyjnych do opracowania, weryfikacji lub tłumaczenia oraz związanych z tym materiałów oraz formacie plików z tymi danymi, uwzględniając możliwości techniczne komisji, niejawność pytań egzaminacyjnych oraz dobro interesu publicznego.
 3. Przewodniczący komisji informuje, za pośrednictwem sekretarza komisji, członków komisji o postaci przekazania pytania egzaminacyjnego lub pytań egzaminacyjnych do opracowania, weryfikacji lub tłumaczenia i materiałów z tym związanych w ramach dokonywanego przekazania dyspozycji.
 § 11. 1. Członek komisji, któremu przekazano dyspozycję opracowania, weryfikacji lub tłumaczenia pytania egzaminacyjnego lub pytań egzaminacyjnych przygotowuje raport z wykonanej przez siebie pracy i przekazuje go przewodniczącemu komisji, za pośrednictwem sekretarza komisji, najpóźniej w terminie wskazanym w dokumencie zlecenia.
@@ -109,13 +109,21 @@ c) aktualny katalog pytań, uzupełniony o nowe opracowane pytanie lub pytania e
 § 12. 1. Wynagrodzenie członka komisji ustala się na podstawie raportu z wykonanej pracy, po zatwierdzeniu opracowanego, zweryfikowanego lub przetłumaczonego pytania egzaminacyjnego lub pytań egzaminacyjnych przez ministra.
 2. Wynagrodzenie przewodniczącego komisji i sekretarza komisji ustala się na podstawie wyliczeń związanych z ustaleniem wynagrodzeń dla członków komisji.
 § 13. 1. Przewodniczącemu komisji i sekretarzowi komisji przysługuje wynagrodzenie za każde pytanie egzaminacyjne zawarte w przekazanej dyspozycji, o której mowa w § 6, w wysokości:
-1) dla przewodniczącego 10 zł,
-2) dla sekretarza 4 zł z tym że opracowanie, weryfikacja lub tłumaczenie pytania, o którym mowa w § 6 pkt 1, jest traktowane łącznie jako zlecenie na jedno pytanie.
+1) dla przewodniczącego – 10 zł,
+2) dla sekretarza – 4 zł – z tym że opracowanie, weryfikacja lub tłumaczenie pytania, o którym mowa w § 6 pkt 1, jest traktowane łącznie jako zlecenie na jedno pytanie.
 2. Członkowi komisji przysługuje wynagrodzenie za zweryfikowanie jednego pytania egzaminacyjnego w wysokości 10 zł.
 3. Członkowi komisji przysługuje wynagrodzenie za opracowanie jednego pytania egzaminacyjnego w wysokości:
-1) 100 zł za opracowanie pytania z wizualizacją w postaci filmu;
-2) 50 zł za opracowanie pytania bez wizualizacji albo z wizualizacją w postaci zdjęcia, animacji komputerowej albo rysunku.
+1) 100 zł – za opracowanie pytania z wizualizacją w postaci filmu;
+2) 50 zł – za opracowanie pytania bez wizualizacji albo z wizualizacją w postaci zdjęcia, animacji komputerowej albo rysunku.
 4. Członkowi komisji przysługuje wynagrodzenie za tłumaczenie jednego pytania egzaminacyjnego w wysokości 10 zł.
 § 14. Rozporządzenie wchodzi w życie z dniem 5 grudnia 2022 r.
-Minister Infrastruktury: A. Adamczyk Załączniki do rozporządzenia Ministra Infrastruktury z dnia 2 grudnia 2022 r. (Dz. U. poz. …..) Załącznik nr 1 WZÓR Dokument zlecenia opracowania, weryfikacji lub tłumaczenia nowego pytania egzaminacyjnego lub nowych pytań egzaminacyjnych WZÓR Załącznik nr 2 WZÓR Dokument zlecenia weryfikacji lub tłumaczenia istniejącego pytania egzaminacyjnego lub istniejących pytań egzaminacyjnych WZÓR
+Minister Infrastruktury: A. Adamczyk Załączniki do rozporządzenia Ministra Infrastruktury z dnia 2 grudnia 2022 r. (Dz. U. poz. …..) Załącznik nr 1 WZÓR WZÓR Dokument zlecenia opracowania, weryfikacji lub tłumaczenia nowego pytania egzaminacyjnego lub nowych pytań egzaminacyjnych Załącznik nr 2 WZÓR WZÓR Dokument zlecenia weryfikacji lub tłumaczenia istniejącego pytania egzaminacyjnego lub istniejących pytań egzaminacyjnych Załącznik nr 3 WZÓR WZÓR Rekomendacja i zatwierdzenie opracowanego, zweryfikowanego lub przetłumaczonego nowego pytania egzaminacyjnego lub nowych pytań egzaminacyjnych
+1. Treść pytania:
+2. Treść wszystkich odpowiedzi:
+3. Treść prawidłowej odpowiedzi:
+4. Podstawa prawna lub inne źródło prawidłowej odpowiedzi**** : Załącznik nr 4 WZÓR WZÓR Rekomendacja i zatwierdzenie zweryfikowanego lub przetłumaczonego istniejącego pytania egzaminacyjnego lub istniejących pytań egzaminacyjnych
+1. Treść pytania zweryfikowanego lub przetłumaczonego :
+2. Treść wszystkich odpowiedzi:
+3. Treść prawidłowej odpowiedzi:
+4. Podstawa prawna lub inne źródło prawidłowej odpowiedzi**** :
 

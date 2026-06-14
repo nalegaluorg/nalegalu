@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 7 lipca 1994 r. o denominacji złotego.*
 
 Łącznie: **55** orzeczeń
-(pominięto 21 orzeczeń sądów rejonowych)
+(pominięto 22 orzeczeń sądów rejonowych)
 
 ## art. 1 (12)
 

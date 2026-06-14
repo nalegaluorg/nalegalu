@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 10 lipca 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw*
 
 Łącznie: **39** orzeczeń
-(pominięto 20 orzeczeń sądów rejonowych)
+(pominięto 21 orzeczeń sądów rejonowych)
 
 ## art. 1 (7)
 

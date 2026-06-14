@@ -8,7 +8,7 @@ pos: 1545
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks morski
@@ -81,7 +81,9 @@ source: "isap-pdf"
 
 § 1. Żeglugę pod polską banderą może uprawiać tylko statek o polskiej przynależności.
 
-§ 2. (uchylony) § 3. Terenowy organ administracji morskiej, na którego obszarze działania znajduje się port rozpoczęcia podróży, może w uzasadnionych przypadkach zezwolić na wykonywanie przez czas oznaczony stałego przewozu między portami polskimi przez statek podnoszący banderę państwa innego niż państwo członkowskie Unii Europejskiej.
+§ 2. (uchylony)
+
+§ 3. Terenowy organ administracji morskiej, na którego obszarze działania znajduje się port rozpoczęcia podróży, może w uzasadnionych przypadkach zezwolić na wykonywanie przez czas oznaczony stałego przewozu między portami polskimi przez statek podnoszący banderę państwa innego niż państwo członkowskie Unii Europejskiej.
 
 **Art. 10.**
 
@@ -202,6 +204,10 @@ source: "isap-pdf"
 
 **Art. 25.** Rejestr okrętowy składa się z ksiąg rejestrowych prowadzonych odrębnie dla statków:
 
+- **1)** stanowiących polską własność i uważanych za stanowiące polską własność (rejestr stały);
+- **2)** które uzyskały czasową polską przynależność (rejestr tymczasowy);
+- **3)** w budowie (rejestr statków w budowie).
+
 **Art. 26.**
 
 § 1. Za czynności rejestrowe, o których mowa w art. 23 § 1, pobiera się opłaty rejestrowe, które stanowią dochód budżetu państwa.
@@ -293,6 +299,9 @@ source: "isap-pdf"
 § 3. Jeżeli obowiązany nie dokona zgłoszenia pomimo wezwania, izba morska może, po przeprowadzeniu dochodzenia, dokonać wpisu z urzędu, zaznaczając to w osnowie wpisu.
 
 **Art. 34.** Izba morska bada, czy:
+
+- **1)** zgłoszenie lub wniosek i dołączone do nich dokumenty odpowiadają pod względem treści i formy obowiązującym przepisom prawa;
+- **2)** zgłoszone dane są zgodne z rzeczywistością, jeżeli ma w tym względzie uzasadnione wątpliwości.
 
 **Art. 35.**
 
@@ -394,6 +403,11 @@ source: "isap-pdf"
 § 2. Zadania organu pomiarowego mogą zostać powierzone zgodnie z przepisami o bezpieczeństwie morskim.
 
 **Art. 49.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia:
+
+- **1)** zakres działania organu pomiarowego,
+- **2)** sposób pomierzania, w tym także statków, do których nie stosuje się postanowień Konwencji o pomierzaniu,
+- **3)** tryb postępowania pomiarowego i kontrolnego,
+- **4)** wzory świadectw pomiarowych oraz wysokość opłat pomiarowych, uwzględniając zasady praktyki międzynarodowej w tym zakresie.
 
 ### DZIAŁ IV Dokumenty statku
 
@@ -558,6 +572,9 @@ source: "isap-pdf"
 
 **Art. 73a.** Za statek, o którym mowa w art. 24 § 2, uważa się również statek:
 
+- **1)** będący co najmniej w połowie własnością obywatela państwa członkowskiego Unii Europejskiej lub osoby prawnej mającej siedzibę w państwie członkowskim Unii Europejskiej, jeżeli armator tego statku ma w państwie członkowskim Unii Europejskiej miejsce zamieszkania albo siedzibę swojego zakładu głównego lub oddziału, a statek, na wniosek wszystkich współwłaścicieli, został wpisany do polskiego rejestru okrętowego w księdze rejestru stałego;
+- **2)** będący własnością spółki kapitałowej mającej siedzibę za granicą, w której obywatel państwa członkowskiego Unii Europejskiej lub osoba prawna mająca siedzibę w państwie członkowskim Unii Europejskiej ma udział kapitałowy, jeżeli armator tego statku ma w państwie członkowskim Unii Europejskiej miejsce zamieszkania albo siedzibę swojego zakładu głównego lub oddziału, a statek, na wniosek właściciela, został wpisany do polskiego rejestru okrętowego w księdze rejestru stałego.
+
 **Art. 74.** Umowa o przeniesienie własności statku, o którym mowa w art. 73 § 1, podlegającego obowiązkowi wpisu do rejestru okrętowego, powinna być zawarta na piśmie, z podpisami stron notarialnie poświadczonymi. Dotyczy to również statku, o którym mowa w art. 73 § 3, oraz statku w budowie, wpisanych do polskiego rejestru okrętowego.
 
 **Art. 75.** Przepisy o przeniesieniu własności statku stosuje się odpowiednio do przeniesienia udziału we własności statku.
@@ -658,6 +675,12 @@ source: "isap-pdf"
 § 2. Przywilej służy bez względu na zmianę osoby właściciela lub armatora i dobrą wiarę nabywcy statku.
 
 **Art. 91.** Uprzywilejowane są wierzytelności z tytułu:
+
+- **1)** należnych państwu kosztów sądowych, nie wyłączając kosztów egzekucji sądowej; wydatków poniesionych we wspólnym interesie wierzycieli na zachowanie statku lub w celu sprzedaży statku i podziału uzyskanej ceny; opłat tonażowych, latarniowych lub portowych oraz innych opłat i świadczeń publicznych tego rodzaju; opłat pilotowych oraz kosztów nadzoru i zachowania statku powstałych od chwili jego wejścia do ostatniego portu;
+- **2)** umów o pracę na statku zawartych z kapitanem, innymi członkami załogi i osobami zatrudnionymi w obsłudze statku;
+- **3)** wynagrodzenia za ratownictwo oraz udziału statku w awarii wspólnej;
+- **4)** wynagrodzenia szkody wyrządzonej zderzeniem statków lub innymi wypadkami morskimi, jak również szkody wyrządzonej w portowych urządzeniach, dokach i drogach żeglugowych; odszkodowania za śmierć, uszkodzenie ciała lub rozstrój zdrowia pasażerów i członków załogi; odszkodowania za utratę lub uszkodzenie ładunku bądź bagażu;
+- **5)** umów zawartych lub innych czynności prawnych podjętych przez kapitana, w granicach jego ustawowego umocowania, w czasie przebywania statku poza portem macierzystym, dla rzeczywistych potrzeb konserwacji statku lub kontynuowania podróży, bez względu na to, czy kapitan jest równocześnie armatorem lub właścicielem statku oraz czy roszczenie przysługuje jemu samemu czy dostawcom, osobom naprawiającym statek, pożyczkodawcom lub innym kontrahentom.
 
 **Art. 92.**
 
@@ -793,6 +816,9 @@ source: "isap-pdf"
 
 **Art. 104.** Umowa przewozu ładunku może:
 
+- **1)** stanowić, że przewoźnik odda całą albo określoną część przestrzeni ładunkowej statku pod ładunek na jedną lub więcej podróży (umowa czarterowa), albo
+- **2)** dotyczyć przewozu poszczególnych rzeczy lub ładunku określonego według rodzaju, ilości, miary lub wagi (umowa bukingowa).
+
 **Art. 105.**
 
 § 1. Umowa przewozu określa stosunek pomiędzy przewoźnikiem a frachtującym (czarterującym lub bukującym).
@@ -874,6 +900,9 @@ source: "isap-pdf"
 § 2. Należność przewoźnika z tytułu martwego frachtu ulega zmniejszeniu o sumę frachtu uzyskanego przez przewoźnika za inny ładunek przyjęty do przewozu w miejsce ładunku niedostarczonego.
 
 **Art. 119.** Jeżeli według umowy czarterujący rozporządza całą przestrzenią statku, przewoźnik, zachowując prawo do całego frachtu, jest na żądanie czarterującego obowiązany:
+
+- **1)** rozpocząć podróż nawet przed umówionym terminem, choćby ładunek nie był jeszcze w całości załadowany;
+- **2)** przyjąć do przewozu ładunek dostarczony mu przed upływem okresu ładowania lub przestoju, choćby nawet przyjęcie i załadowanie ładunku mogło spowodować zwłokę w rozpoczęciu podróży, nie dłuższą jednak niż 14 dni; nie narusza to przepisów art. 115 § 4 i § 5.
 
 **Art. 120.** Jeżeli według umowy czarterujący rozporządza częścią przestrzeni statku, przewoźnik może odmówić przyjęcia ładunku, którego załadowanie po upływie ustalonego okresu ładowania musiałoby wskutek zwłoki czarterującego spowodować przetrzymanie statku. Pomimo odmowy przyjęcia ładunku przewoźnikowi należy się cały fracht.
 
@@ -1371,7 +1400,9 @@ source: "isap-pdf"
 
 § 1. Przewoźnik, który faktycznie wykonuje, statkiem uprawnionym do przewozu ponad 12 pasażerów, całość lub część przewozu, o którym mowa w art. 2 zdanie pierwsze rozporządzenia nr 392/2009, obowiązany jest posiadać ubezpieczenie lub inne zabezpieczenie finansowe odpowiedzialności za szkody na osobie lub w mieniu pasażera, w wysokości nie niższej niż określona w art. 4a ust. 1 załącznika I do tego rozporządzenia (ubezpieczenie odpowiedzialności za szkody na osobie lub w mieniu pasażera).
 
-§ 1a. (utracił moc) § 2. Ubezpieczenie lub zabezpieczenie finansowe, o którym mowa w § 1, powinno być stwierdzone certyfikatem ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera.
+§ 1a. (utracił moc)
+
+§ 2. Ubezpieczenie lub zabezpieczenie finansowe, o którym mowa w § 1, powinno być stwierdzone certyfikatem ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera.
 
 § 3. Certyfikat ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, wydaje lub poświadcza:
 
@@ -1638,7 +1669,9 @@ source: "isap-pdf"
 - **2)** wniosku pilota;
 - **3)** utraty przypisanych wymagań kwalifikacyjnych;
 - **4)** utraty prawa wykonywania zawodu pilota na mocy prawomocnego orzeczenia izby morskiej, sądu lub innego właściwego organu.
-- **5)** (uchylony) § 3. Jeżeli postępowanie pilota zagraża bezpieczeństwu morskiemu, dyrektor urzędu morskiego może ograniczyć lub zawiesić uprawnienia pilota do świadczenia usług pilotowych na czas nie dłuższy niż 3 miesiące, o ile wymagają tego względy prewencyjne. Podejmując decyzję w tej sprawie, dyrektor urzędu morskiego może skierować pilota na dodatkowe przeszkolenie.
+- **5)** (uchylony)
+
+§ 3. Jeżeli postępowanie pilota zagraża bezpieczeństwu morskiemu, dyrektor urzędu morskiego może ograniczyć lub zawiesić uprawnienia pilota do świadczenia usług pilotowych na czas nie dłuższy niż 3 miesiące, o ile wymagają tego względy prewencyjne. Podejmując decyzję w tej sprawie, dyrektor urzędu morskiego może skierować pilota na dodatkowe przeszkolenie.
 
 **Art. 229.**
 
@@ -2590,9 +2623,13 @@ source: "isap-pdf"
 
 **Art. 355.**
 
-§ 1. (uchylony) § 2. Prawa rzeczowe na statku wpisane w stałym rejestrze statku podlegają prawu państwa tego rejestru.
+§ 1. (uchylony)
 
-§ 3. (uchylony) § 4. Do przywilejów na statku i na ładunku stosuje się prawo państwa, w którym dochodzone jest przed sądem roszczenie o zaspokojenie wierzytelności zabezpieczonej przywilejem.
+§ 2. Prawa rzeczowe na statku wpisane w stałym rejestrze statku podlegają prawu państwa tego rejestru.
+
+§ 3. (uchylony)
+
+§ 4. Do przywilejów na statku i na ładunku stosuje się prawo państwa, w którym dochodzone jest przed sądem roszczenie o zaspokojenie wierzytelności zabezpieczonej przywilejem.
 
 **Art. 356.** Jeżeli właściwość prawa zależy od miejsca zdarzenia, to za miejsce zdarzenia, które nastąpiło na statku morskim znajdującym się poza terytorium państwa nadbrzeżnego, uważa się państwo jego bandery.
 

@@ -8,10 +8,10 @@ pos: 306
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 marca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 306 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000306) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/306/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Kampinoskiemu Parkowi Narodowemu z siedzibą w Izabelinie Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn.
-zm. ) zarządza się, co następuje: § 1. Kampinoskiemu Parkowi Narodowemu z siedzibą w Izabelinie nadaje się statut, który stanowi załącznik do rozporządzenia.
+zm. ) zarządza się, co następuje:
+§ 1. Kampinoskiemu Parkowi Narodowemu z siedzibą w Izabelinie nadaje się statut, który stanowi załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Środowiska: M. Korolec STATUT KAMPINOSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W IZABELINIE § 1. Kampinoski Park Narodowy z siedzibą w Izabelinie, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
+Minister Środowiska: M. Korolec STATUT KAMPINOSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W IZABELINIE
+§ 1. Kampinoski Park Narodowy z siedzibą w Izabelinie, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1) Dział Badań Naukowych, Monitoringu Przyrody, Edukacji, Komunikacji Społecznej i Udostępniania Parku, w którego skład wchodzą:
 a) Zespół do spraw Komunikacji Społecznej i Wydawnictw,
@@ -55,29 +56,29 @@ e) Samodzielne Stanowisko do spraw Planowania i Budżetu Zadaniowego;
 5) Posterunek Straży Parku;
 6) Zespół do spraw Finansowo-Księgowych;
 7) Zespół do spraw Pracowniczych i Organizacyjnych;
-8) Samodzielne Stanowisko do spraw Kontroli Wewnętrznej Zarządczej;
+8) Samodzielne Stanowisko do spraw Kontroli Wewnętrznej – Zarządczej;
 9) Samodzielne Stanowisko do spraw Obsługi Projektów UE;
 10) Samodzielne Stanowisko do spraw Obsługi Prawnej;
-11) Obręb Ochronny Kampinos podzielony na obwody ochronne:
+11) Obręb Ochronny Kampinos – podzielony na obwody ochronne:
 a) Wiersze,
 b) Rózin,
 c) Grabina,
-d) Z amczysko,
-e) K ampinos,
-f) P rzyćmień;
-12) Obręb Ochronny Kromnów podzielony na obwody ochronne:
-a) R ybitew,
-b) W ilków,
-c) P olesie,
-d) K rzywa Góra,
-e) K romnów,
-f) D ąbrówka;
-13) Obręb Ochronny Laski podzielony na obwody ochronne:
-a) K aliszki,
-b) S ieraków,
-c) J anówek,
+d) Zamczysko,
+e) Kampinos,
+f) Przyćmień;
+12) Obręb Ochronny Kromnów – podzielony na obwody ochronne:
+a) Rybitew,
+b) Wilków,
+c) Polesie,
+d) Krzywa Góra,
+e) Kromnów,
+f) Dąbrówka;
+13) Obręb Ochronny Laski – podzielony na obwody ochronne:
+a) Kaliszki,
+b) Sieraków,
+c) Janówek,
 d) Lipków,
-e) Z aborów.
+e) Zaborów.
 § 3. Dyrektor Parku może tworzyć komisje lub zespoły opiniodawczo-doradcze o charakterze stałym lub czasowym, określając ich nazwę, skład osobowy, zakres zadań, tryb działania oraz sposób ich obsługi.
 § 4. Dyrektor Parku kieruje działalnością Parku przy pomocy zastępcy lub zastępców dyrektora Parku, głównego księgowego oraz kierujących komórkami organizacyjnymi, o których mowa w § 2.
 § 5. W razie nieobecności dyrektora Parku lub czasowej niezdolności do wykonywania przez niego obowiązków działalnością Parku kieruje i reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.

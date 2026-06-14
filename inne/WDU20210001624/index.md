@@ -8,10 +8,10 @@ pos: 1624
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 września 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1624 OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 19 sierpnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1624/text.pdf) |
 
-Poz. 1624 OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 19 sierpnia 2021 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2002 r. w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 1279), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 25 maja 2005 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 829);
@@ -34,8 +33,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 1) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 25 maja 2005 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U. poz. 829), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 czerwca 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych (Dz. U.
 poz. 1112), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Rolnictwa i Rozwoju Wsi: wz. S. Giżyński Dziennik Ustaw – 2 – Poz. 1624 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 5 września 2002 r.
-w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych Na podstawie art. 17 ust. 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2021 r. poz. 630) zarządza się, co następuje: § 1. W skład Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, zwanej dalej „Inspekcją”, wchodzą:
+Minister Rolnictwa i Rozwoju Wsi: wz. S. Giżyński ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 5 września 2002 r.
+w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych Na podstawie art. 17 ust. 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2021 r. poz. 630) zarządza się, co następuje:
+§ 1. W skład Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, zwanej dalej „Inspekcją”, wchodzą:
 1) Główny Inspektorat Jakości Handlowej Artykułów Rolno-Spożywczych;
 2) wojewódzkie inspektoraty jakości handlowej artykułów rolno-spożywczych, zwane dalej „wojewódzkimi inspektoratami”.
 § 2. Wojewódzkim inspektoratem kieruje wojewódzki inspektor jakości handlowej artykułów rolno-spożywczych przy pomocy zastępcy wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych oraz kierowników i zastępców kierowników komórek organizacyjnych wymienionych w § 3.

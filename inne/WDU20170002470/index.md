@@ -8,10 +8,10 @@ pos: 2470
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2470 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 22 grudnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2470/text.pdf) |
 
-Poz. 2470 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 22 grudnia 2017 r.
 w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Służby Celno-Skarbowej Na podstawie art. 250a ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U.
-poz. 1947, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa tryb, terminy oraz jednostki właściwe do przekazywania do Zakładu Ubezpieczeń Społecznych, zwanego dalej „ZUS”, składek na ubezpieczenia emerytalne i rentowe, zwanych dalej „składkami”, od uposażenia wypłaconego funkcjonariuszowi Służby Celno-Skarbowej, zwanego dalej „funkcjonariuszem”, po dniu 31 grudnia 2017 r. do dnia zwolnienia ze służby, od którego nie odprowadzono tych składek.
+poz. 1947, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb, terminy oraz jednostki właściwe do przekazywania do Zakładu Ubezpieczeń Społecznych, zwanego dalej „ZUS”, składek na ubezpieczenia emerytalne i rentowe, zwanych dalej „składkami”, od uposażenia wypłaconego funkcjonariuszowi Służby Celno-Skarbowej, zwanego dalej „funkcjonariuszem”, po dniu 31 grudnia 2017 r. do dnia zwolnienia ze służby, od którego nie odprowadzono tych składek.
 § 2. 1. Składki przekazuje się na wskazany przez ZUS rachunek bankowy, przy użyciu bankowych dokumentów płatniczych, określonych w art. 47 ust. 4a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U.
 z 2017 r. poz. 1778).
 2. Składki rozliczone w deklaracjach rozliczeniowych i imiennych raportach miesięcznych określonych w ustawie, o której mowa w ust. 1, z uwzględnieniem całego okresu służby funkcjonariusza, przekazuje się do ZUS:
@@ -38,7 +38,7 @@ z 2017 r. poz. 1778).
 2) 60 dni od dnia złożenia wniosku – w przypadku gdy przekazanie składek następuje na wniosek funkcjonariusza;
 3) niezwłocznie, jednak nie później niż do 15. dnia miesiąca następującego po miesiącu, w którym otrzymano zawiadomienie z ZUS o ustaleniu funkcjonariuszowi prawa do emerytury przewidzianej w ustawie z dnia 17 grudnia 1998 r.
 o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, 1386 i 2120).
-Dziennik Ustaw – 2 – Poz. 2470 § 4. Jednostkami właściwymi do przekazywania do ZUS składek są:
+§ 4. Jednostkami właściwymi do przekazywania do ZUS składek są:
 1) komórka organizacyjna urzędu obsługującego ministra właściwego do spraw finansów publicznych,
 2) izba administracji skarbowej – właściwe w sprawie wypłaty uposażenia funkcjonariuszowi w dniu jego zwolnienia ze służby.
 § 5. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.

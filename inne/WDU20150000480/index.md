@@ -8,10 +8,10 @@ pos: 480
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 3 kwietnia ROZPORZĄDZENIE MINISTRA ZDROWIA 26 marca rejestru wytwórców substancji czynnych, które mają zastosowanie przy wytwarzaniu produktów leczniczych weterynaryjnych mających właściwości anaboliczne, przeciwzakaźne, przeciwpasożytnicze, przeciwzapalne, hormonalne lub psychotropowe Na podstawie art. 51k ust. 11 ustawy 6 2001 Prawo farmaceutyczne (Dz. U. 2008 45, 271, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 480 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 26 marca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,44 +25,51 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000480) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/480/text.pdf) |
 
+w sprawie rejestru wytwórców substancji czynnych, które mają zastosowanie przy wytwarzaniu produktów leczniczych weterynaryjnych mających właściwości anaboliczne, przeciwzakaźne, przeciwpasożytnicze, przeciwzapalne, hormonalne lub psychotropowe Na podstawie art. 51k ust. 11 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób prowadzenia rejestru wytwórców substancji czynnych, które mają zastosowanie przy wytwarzaniu produktów leczniczych weterynaryjnych mających właściwości anaboliczne, przeciwzakaźne, przeciwpasożytnicze, przeciwzapalne, hormonalne lub psychotropowe, zwanego dalej „rejestrem wytwórców substancji czynnych”;
-2) tryb postępowania przy dokonywaniu wpisów rejestru wytwórców substancji czynnych, zmian rejestrze i skreśleń rejestru, a także tryb udostępniania informacji zawartych rejestrze;
-3) wzór wniosku dokonanie wpisu rejestru wytwórców substancji czynnych, zmiany rejestrze lub skreślenia rejestru;
-4) sposób uiszczania opłat, których mowa art. 51k ust. 7 ustawy 6 2001 Prawo farmaceutyczne, zwanej dalej „ustawą”.
-§ 2. 1. Rejestr wytwórców substancji czynnych jest prowadzony formie ksiąg rejestrowych systemu teleinformatycznego.
-2. Niezależnie od ksiąg rejestrowych systemu teleinformatycznego prowadzi się akta rejestrowe składające się dokumentów dotyczących postępowania wpis rejestru wytwórców substancji czynnych innych dokumentów stanowiących podstawę wpisu rejestru, zmian rejestrze i skreśleń rejestru.
-3. Dla każdego podmiotu wpisanego rejestru wytwórców substancji czynnych prowadzi się oddzielne akta rejestrowe.
-4. Wpisu rejestru wytwórców substancji czynnych dokonuje się pod kolejnym numerem.
-5. W przypadku skreślenia rejestru wytwórców substancji czynnych nadany numer rejestrowy nie może być powtórnie wykorzystany.
-2. Dane zawarte księgach rejestrowych systemie teleinformatycznym nie mogą być nich usunięte.
-3. Adnotacji sprostowaniu błędów pisarskich i rachunkowych innych oczywistych omyłek, zakresie objętym rejestrem, dokonuje się księgach rejestrowych.
-§ 4. 1. Wpisu rejestru wytwórców substancji czynnych, zmiany rejestrze i skreślenia rejestru dokonuje się terminie 7 dni od złożenia wniosku zawierającego kompletne informacje wymaganej dokumentacji.
-2. W przypadku gdy wpis rejestru wytwórców substancji czynnych, zmiana rejestrze lub skreślenie rejestru wymaga wydania decyzji przez właściwy organ, bieg terminu, którym mowa ust. 1, ulega zawieszeniu wydania tej decyzji.
-3. Wzór wniosku wpis rejestru wytwórców substancji czynnych, zmianę rejestrze skreślenie rejestru określa załącznik rozporządzenia.
-§ 5. 1. Dane zawarte rejestrze wytwórców substancji czynnych udostępnia się na wniosek osoby mającej tym interes prawny, przez:
+2) tryb postępowania przy dokonywaniu wpisów do rejestru wytwórców substancji czynnych, zmian w rejestrze i skreśleń z rejestru, a także tryb udostępniania informacji zawartych w rejestrze;
+3) wzór wniosku o dokonanie wpisu do rejestru wytwórców substancji czynnych, zmiany w rejestrze lub skreślenia z rejestru;
+4) sposób uiszczania opłat, o których mowa w art. 51k ust. 7 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zwanej dalej „ustawą”.
+§ 2. 1. Rejestr wytwórców substancji czynnych jest prowadzony w formie ksiąg rejestrowych oraz systemu teleinformatycznego.
+2. Niezależnie od ksiąg rejestrowych oraz systemu teleinformatycznego prowadzi się akta rejestrowe składające się z dokumentów dotyczących postępowania o wpis do rejestru wytwórców substancji czynnych oraz innych dokumentów stanowiących podstawę wpisu do rejestru, zmian w rejestrze i skreśleń z rejestru.
+3. Dla każdego podmiotu wpisanego do rejestru wytwórców substancji czynnych prowadzi się oddzielne akta rejestrowe.
+4. Wpisu do rejestru wytwórców substancji czynnych dokonuje się pod kolejnym numerem.
+5. W przypadku skreślenia z rejestru wytwórców substancji czynnych nadany numer rejestrowy nie może być powtórnie wykorzystany.
+§ 3. 1. Wpisu do księgi rejestrowej dokonuje się w sposób trwały i wyraźny.
+2. Dane zawarte w księgach rejestrowych oraz w systemie teleinformatycznym nie mogą być z nich usunięte.
+3. Adnotacji o sprostowaniu błędów pisarskich i rachunkowych oraz innych oczywistych omyłek, w zakresie objętym rejestrem, dokonuje się w księgach rejestrowych.
+§ 4. 1. Wpisu do rejestru wytwórców substancji czynnych, zmiany w rejestrze i skreślenia z rejestru dokonuje się w terminie 7 dni od dnia złożenia wniosku zawierającego kompletne informacje oraz wymaganej dokumentacji.
+2. W przypadku gdy wpis do rejestru wytwórców substancji czynnych, zmiana w rejestrze lub skreślenie z rejestru wymaga wydania decyzji przez właściwy organ, bieg terminu, o którym mowa w ust. 1, ulega zawieszeniu do dnia wydania tej decyzji.
+3. Wzór wniosku o wpis do rejestru wytwórców substancji czynnych, zmianę w rejestrze oraz skreślenie z rejestru określa załącznik do rozporządzenia.
+§ 5. 1. Dane zawarte w rejestrze wytwórców substancji czynnych udostępnia się na wniosek osoby mającej w tym interes prawny, przez:
 1) okazanie ksiąg rejestrowych;
 2) wydanie odpisu.
-2. Wniosek udostępnienie ksiąg rejestrowych wniosek wydanie odpisu składa się postaci papierowej albo elektronicznej.
-3. Księgi rejestrowe udostępnia się wglądu siedzibie Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Urzędem”, wyznaczonym tego pomieszczeniu i obecności pracownika Urzędu.
-4. Odpis jest opatrywany datą, pieczęcią urzędową podpisem osoby, która go sporządziła, podaniem jej imienia i nazwiska stanowiska służbowego. Odpis może także być sporządzony postaci elektronicznej.
-5. Odpis przesyła się wnioskodawcy, na adres wskazany we wniosku, przesyłką poleconą za pisemnym potwierdzeniem odbioru albo postaci elektronicznej.
-6. Na żądanie wnioskodawcy odpis może być odebrany siedzibie Urzędu osobiście za pisemnym potwierdzeniem odbioru.
-§ 6. Opłaty, których mowa art. 51k ust. 7 ustawy, uiszcza się kasie lub na rachunek bankowy Urzędu.
-§ 7. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. S. Neumann WZÓR WNIOSEK O WPIS DO REJESTRU WYTWÓRCÓW SUBSTANCJI CZYNNYCH, ZMIANĘ W REJESTRZE, SKREŚLENIE Z REJESTRU DANE ADMINISTRACYJNE Wypełnia pracownik Urzędu: Do użytku wewnętrznego Data wpłynięcia wniosku Numer wniosku Wypełnia wnioskodawca: WNIOSEK DOTYCZY (zaznaczyć właściwe):  wpisu rejestru  zmiany rejestrze  skreślenia rejestru I. Dane dotyczące wnioskodawcy:
-1) firma adres i miejsce zamieszkania albo firma adres i siedziba podmiotu ubiegającego się wpis, tym że przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ..................................................................................................................................................................
+2. Wniosek o udostępnienie ksiąg rejestrowych oraz wniosek o wydanie odpisu składa się w postaci papierowej albo elektronicznej.
+3. Księgi rejestrowe udostępnia się do wglądu w siedzibie Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Urzędem”, w wyznaczonym do tego pomieszczeniu i w obecności pracownika Urzędu.
+4. Odpis jest opatrywany datą, pieczęcią urzędową oraz podpisem osoby, która go sporządziła, z podaniem jej imienia i nazwiska oraz stanowiska służbowego. Odpis może także być sporządzony w postaci elektronicznej.
+5. Odpis przesyła się wnioskodawcy, na adres wskazany we wniosku, przesyłką poleconą za pisemnym potwierdzeniem odbioru albo w postaci elektronicznej.
+6. Na żądanie wnioskodawcy odpis może być odebrany w siedzibie Urzędu osobiście za pisemnym potwierdzeniem odbioru.
+§ 6. Opłaty, o których mowa w art. 51k ust. 7 ustawy, uiszcza się w kasie lub na rachunek bankowy Urzędu.
+§ 7. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Zdrowia: wz. S. Neumann WZÓR WNIOSEK O WPIS DO REJESTRU WYTWÓRCÓW SUBSTANCJI CZYNNYCH, ZMIANĘ W REJESTRZE, SKREŚLENIE Z REJESTRU DANE ADMINISTRACYJNE Wypełnia pracownik Urzędu: Do użytku wewnętrznego Data wpłynięcia wniosku Numer wniosku Wypełnia wnioskodawca: WNIOSEK DOTYCZY (zaznaczyć właściwe):  wpisu do rejestru  zmiany w rejestrze  skreślenia z rejestru I. Dane dotyczące wnioskodawcy:
+1) firma oraz adres i miejsce zamieszkania albo firma oraz adres i siedziba podmiotu ubiegającego się o wpis, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ..................................................................................................................................................................
 .........................................................................................................................................................................................
 .........................................................................................................................................................................................
+2) adres miejsca prowadzenia działalności gospodarczej w zakresie wytwarzania substancji czynnej związanej z wytwarzaniem substancji czynnej o właściwościach anabolicznych, przeciwzakaźnych, przeciwpasożytniczych, przeciwzapalnych, hormonalnych lub psychotropowych: .............................................................................................
+.........................................................................................................................................................................................
+.........................................................................................................................................................................................
+3) numer:
 a) REGON: .....................................................................................................................................................................
-b) wpisu Krajowego Rejestru Sądowego: ......................................................................................................... albo oświadczenie uzyskaniu wpisu Centralnej Ewidencji i Informacji Działalności Gospodarczej: ......................
+b) wpisu do Krajowego Rejestru Sądowego: ......................................................................................................... albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej: ......................
 .....................................................................................................................................................................................
 .....................................................................................................................................................................................
-4) zakres prowadzonej działalności odniesieniu wytwarzania substancji czynnej: ....................................................
+4) zakres prowadzonej działalności w odniesieniu do wytwarzania substancji czynnej: ....................................................
 .........................................................................................................................................................................................
 .........................................................................................................................................................................................
-II. Dane dotyczące substancji czynnej: nazwa handlowa i nazwa powszechnie stosowana substancji czynnej języku łacińskim i angielskim, a przypadku braku nazwy powszechnie stosowanej jedna nazw: według Farmakopei Europejskiej, Farmakopei Polskiej, nazwa potoczna albo nazwa naukowa: .............................................................................................................................................
+II. Dane dotyczące substancji czynnej: nazwa handlowa i nazwa powszechnie stosowana substancji czynnej w języku łacińskim i angielskim, a w przypadku braku nazwy powszechnie stosowanej – jedna z nazw: według Farmakopei Europejskiej, Farmakopei Polskiej, nazwa potoczna albo nazwa naukowa: .............................................................................................................................................
 ........................................................................................................................................................................................
 .........................................................................................................................................................................................
 ...............................................................
-ZAŁĄCZONE DOKUMENTY:  Potwierdzenie wniesienia opłaty 
+ZAŁĄCZONE DOKUMENTY:  Potwierdzenie wniesienia opłaty  Pełnomocnictwo do kontaktowania się i podpisywania dokumentów w imieniu wnioskodawcy
 

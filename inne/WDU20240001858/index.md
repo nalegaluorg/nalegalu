@@ -8,10 +8,10 @@ pos: 1858
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1858 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 10 grudnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1858/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 10 grudnia 2024 r.
-w sprawie wysokości, terminów i sposobu uiszczania rocznych opłat za prawo wykorzystywania zasobów numeracji Na podstawie art. 25 ust. 9 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221) zarządza się, co następuje: § 1. Wysokość rocznych opłat za prawo wykorzystywania zasobów numeracji, zwanych dalej „rocznymi opłatami”, określa załącznik rozporządzenia.
+w sprawie wysokości, terminów i sposobu uiszczania rocznych opłat za prawo do wykorzystywania zasobów numeracji Na podstawie art. 25 ust. 9 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221) zarządza się, co następuje:
+§ 1. Wysokość rocznych opłat za prawo do wykorzystywania zasobów numeracji, zwanych dalej „rocznymi opłatami”, określa załącznik do rozporządzenia.
 § 2. 1. Roczną opłatę uiszcza się w terminie:
-1) dnia 30 czerwca roku kalendarzowego, za który opłata jest należna w przypadku gdy opłata jest uiszczana jednorazowo za cały rok;
-2) dnia 30 czerwca tego roku i dnia 30 listopada roku kalendarzowego, za który opłata jest należna w przypadku gdy opłata jest uiszczania w ratach półrocznych w wysokości równej 1/2 opłaty rocznej.
-2. Za uprawnienia uzyskane po dniu 30 czerwca danego roku kalendarzowego roczną opłatę uiszcza się w terminie dnia 30 listopada tego roku.
-3. Za uprawnienia uzyskane po dniu 30 listopada danego roku kalendarzowego roczną opłatę uiszcza się w terminie dnia 31 grudnia tego roku.
+1) do dnia 30 czerwca roku kalendarzowego, za który opłata jest należna – w przypadku gdy opłata jest uiszczana jednorazowo za cały rok;
+2) do dnia 30 czerwca tego roku i do dnia 30 listopada roku kalendarzowego, za który opłata jest należna – w przypadku gdy opłata jest uiszczania w ratach półrocznych w wysokości równej 1/2 opłaty rocznej.
+2. Za uprawnienia uzyskane po dniu 30 czerwca danego roku kalendarzowego roczną opłatę uiszcza się w terminie do dnia 30 listopada tego roku.
+3. Za uprawnienia uzyskane po dniu 30 listopada danego roku kalendarzowego roczną opłatę uiszcza się w terminie do dnia 31 grudnia tego roku.
 § 3. 1. Roczną opłatę uiszcza się na rachunek bankowy Urzędu Komunikacji Elektronicznej.
 2. Wraz z uiszczeniem rocznej opłaty podmiot wskazuje tytuł opłaty i okres, za który jest należna.
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem pkt 6 załącznika rozporządzenia, który wchodzi w życie z dniem 1 stycznia 2029 r.
+§ 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem pkt 6 załącznika do rozporządzenia, który wchodzi w życie z dniem 1 stycznia 2029 r.
 Minister Cyfryzacji: K. Gawkowski WYSOKOŚĆ ROCZNYCH OPŁAT ZA PRAWO DO WYKORZYSTYWANIA ZASOBÓW NUMERACJI Opłata za: Wysokość opłaty w PLN
 1) numer abonencki w:
 a) stacjonarnej sieci telekomunikacyjnej 0,35
@@ -60,13 +60,13 @@ d) 6-cyfrowy 95,00
 a) 4-cyfrowy 9 500,00
 b) 5-cyfrowy 950,00
 c) 6-cyfrowy 95,00
-7) numer dostępu sieci (NDS):
+7) numer dostępu do sieci (NDS):
 a) 4-cyfrowy 60 000,00
 b) 5-cyfrowy 6 000,00
 8) numer 118CDU 60 000,00
-9) numer dostępu sieci teleinformatycznej (NDSI) 550,00
-10) numer strefowy abonenckich usług specjalnych (AUS) za każdą strefę numeracyjną, w której 600,00 przysługuje prawo wykorzystywania numeru numer 5-cyfrowy
-11) krajowy numer dostępu usług sieci inteligentnej (NDIN) 3,30
+9) numer dostępu do sieci teleinformatycznej (NDSI) 550,00
+10) numer strefowy abonenckich usług specjalnych (AUS) za każdą strefę numeracyjną, w której 600,00 przysługuje prawo do wykorzystywania numeru – numer 5-cyfrowy
+11) krajowy numer dostępu do usług sieci inteligentnej (NDIN) 3,30
 12) numer DNIC+PNIC w sieci transmisji danych z komutacją pakietów:
 a) 4 cyfry 35 500,00
 b) 5 cyfr 3 550,00
@@ -80,6 +80,6 @@ b) krajowy NSPC 1 300,00
 15) kod sieci ruchomej (MNC) 1 300,00
 16) kod sieci ATM 1 300,00
 17) numer rutingowy (NR):
-a) obsługi przenoszenia numerów niegeograficznych 1 050,00
-b) obsługi przenoszenia numerów geograficznych 105,00
+a) do obsługi przenoszenia numerów niegeograficznych 1 050,00
+b) do obsługi przenoszenia numerów geograficznych 105,00
 

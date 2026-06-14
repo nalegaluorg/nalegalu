@@ -8,12 +8,12 @@ pos: 919
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o Narodowych Obchodach Setnej Rocznicy Odzyskania Niepodległości Polskiej Parlament Polskiej, mając na względzie wagę wydarzeń roku 1918, gdy po 123 latach rozbiorów wysiłek wielu pokoleń Polek Polaków zaowocował odzyskaniem niepodległości, a Państwo Polskie ponownie pojawiło się na mapie Europy, dostrzegając potrzebę uhonorowania setnej rocznicy tych wydarzeń, uznając za Ojców Niepodległości szczególności Józefa Piłsudskiego, Ignacego Daszyńskiego, Romana Dmowskiego, Wojciecha Korfantego, Ignacego Jana Paderewskiego Wincentego Witosa, oraz doceniając wkład, jaki odzyskanie niepodległości wniosła generalicja Wojska Polskiego duchowieństwo różnych wyznań, tym szczególnie Kościoła Katolickiego, uchwala niniejszą ustawę.
+# o Narodowych Obchodach Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej Parlament Rzeczypospolitej Polskiej, mając na względzie wagę wydarzeń roku 1918, gdy po 123 latach rozbiorów wysiłek wielu pokoleń Polek i Polaków zaowocował odzyskaniem niepodległości, a Państwo Polskie ponownie pojawiło się na mapie Europy, dostrzegając potrzebę uhonorowania setnej rocznicy tych wydarzeń, uznając za Ojców Niepodległości w szczególności Józefa Piłsudskiego, Ignacego Daszyńskiego, Romana Dmowskiego, Wojciecha Korfantego, Ignacego Jana Paderewskiego i Wincentego Witosa, oraz doceniając wkład, jaki w odzyskanie niepodległości wniosła generalicja Wojska Polskiego i duchowieństwo różnych wyznań, w tym szczególnie Kościoła Katolickiego, uchwala niniejszą ustawę.
 
-*USTAWA dnia 7 kwietnia 2017 r.*
+*USTAWA z dnia 7 kwietnia 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,85 +27,106 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000919) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/919/text.pdf) |
 
-**Art. 1.** Ustawa określa zasady przygotowania Narodowych Obchodów Setnej Rocznicy Odzyskania Niepodległości Polskiej, zwanych dalej „Obchodami”.
+**Art. 1.** Ustawa określa zasady przygotowania Narodowych Obchodów Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej, zwanych dalej „Obchodami”.
 
 **Art. 2.**
 
-1. Tworzy się Komitet Narodowych Obchodów Setnej Rocznicy Odzyskania Niepodległości Polskiej, zwany dalej „Komitetem”.
+1. Tworzy się Komitet Narodowych Obchodów Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej, zwany dalej „Komitetem”.
 
-2. Komitet, latach 2017–2022, realizuje zadania mające na celu upamiętnienie uroczyste uczczenie wydarzeń oraz osób związanych odzyskaniem utrwaleniem niepodległości Rzeczpospolitą Polską.
+2. Komitet, w latach 2017–2022, realizuje zadania mające na celu upamiętnienie i uroczyste uczczenie wydarzeń oraz osób związanych z odzyskaniem i utrwaleniem niepodległości przez Rzeczpospolitą Polską.
 
-3. W zakresie, o którym mowa ust. 2, Komitet szczególności:
+3. W zakresie, o którym mowa w ust. 2, Komitet w szczególności:
 
-- **1)** przyjmuje corocznie na dany rok plan obchodów państwowych uroczystości organizacjami społecznymi oraz podmiotami zainteresowanymi udziałem Obchodach;
-- **4)** wyraża, na wniosek Polskiej, opinię sprawach udzielenia patronatu Polskiej nad uroczystościami związanymi uczczeniem odzyskania utrwalenia niepodległości Rzeczpospolitą Polską.
+- **1)** przyjmuje corocznie na dany rok plan obchodów państwowych uroczystości związanych z odzyskaniem i utrwaleniem niepodległości przez Rzeczpospolitą Polską;
+- **2)** promuje w kraju i za granicą ideę upamiętnienia odzyskania i utrwalenia niepodległości przez Rzeczpospolitą Polską;
+- **3)** inicjuje współpracę pomiędzy organami władzy państwowej, samorządu terytorialnego, kościołami i innymi związkami wyznaniowymi, partiami politycznymi, związkami zawodowymi, organizacjami kombatanckimi i innymi organizacjami społecznymi oraz podmiotami zainteresowanymi udziałem w Obchodach;
+- **4)** wyraża, na wniosek Prezydenta Rzeczypospolitej Polskiej, opinię w sprawach udzielenia patronatu Prezydenta Rzeczypospolitej Polskiej nad uroczystościami związanymi z uczczeniem odzyskania i utrwalenia niepodległości przez Rzeczpospolitą Polską.
 
-4. Komitet po zakończeniu realizacji zadań, nie później niż 2023 r., przyjmuje sprawozdanie działalności Komitetu.
+4. Komitet po zakończeniu realizacji zadań, nie później niż w 2023 r., przyjmuje sprawozdanie z działalności Komitetu.
 
-**Art. 3.** W zakresie zadań realizowanych Komitet podmioty, o których mowa art. 2 ust. 3 pkt 3, organizatorzy uroczystości innych przedsięwzięć oraz inne podmioty realizujące działania niezbędne do właściwego przygotowania przeprowadzenia Obchodów, współpracują Komitetem.
+**Art. 3.** W zakresie zadań realizowanych przez Komitet podmioty, o których mowa w art. 2 ust. 3 pkt 3, organizatorzy uroczystości i innych przedsięwzięć oraz inne podmioty realizujące działania niezbędne do właściwego przygotowania i przeprowadzenia Obchodów, współpracują z Komitetem.
 
 **Art. 4.**
 
-1. W skład wchodzą:
+1. W skład Komitetu wchodzą:
 
-- **1)** Prezydent Polskiej – jako Przewodniczący Komitetu;
-- **2)** Marszałek Polskiej;
-- **3)** Marszałek Senatu Polskiej;
+- **1)** Prezydent Rzeczypospolitej Polskiej – jako Przewodniczący Komitetu;
+- **2)** Marszałek Sejmu Rzeczypospolitej Polskiej;
+- **3)** Marszałek Senatu Rzeczypospolitej Polskiej;
 - **4)** Prezes Rady Ministrów;
-- **5)** minister właściwy do spraw kultury ochrony dziedzictwa narodowego;
+- **5)** minister właściwy do spraw kultury i ochrony dziedzictwa narodowego;
 - **6)** Minister Obrony Narodowej;
 - **7)** minister właściwy do spraw administracji publicznej;
 - **8)** minister właściwy do spraw zagranicznych;
-- **9)** minister właściwy do spraw oświaty wychowania;
-- **10)** minister właściwy do spraw szkolnictwa wyższego nauki;
-- **11)** Pełnomocnik Rządu do spraw obchodów Stulecia Odzyskania Niepodległości Polskiej – jako Sekretarz Komitetu;
-- **2)** partii politycznej, która dniu wejścia życie ustawy nie tworzy klubu parlamentarnego albo klubu poselskiego Sejmie Polskiej, ale ostatnich wyborach do Polskiej:
-    - **a)** tworząc samodzielnie komitet wyborczy otrzymała skali kraju co najmniej 3% ważnie oddanych głosów na jej okręgowe listy kandydatów na posłów,
-    - **b)** weszła skład koalicji wyborczej, której okręgowe listy kandydatów na posłów otrzymały skali kraju co najmniej 6% ważnie oddanych głosów została wskazana partie polityczne wchodzące skład koalicji wyborczej jako ich wspólny reprezentant pracach Komitetu.
+- **9)** minister właściwy do spraw oświaty i wychowania;
+- **10)** minister właściwy do spraw szkolnictwa wyższego i nauki;
+- **11)** Pełnomocnik Rządu do spraw obchodów Stulecia Odzyskania Niepodległości Rzeczypospolitej Polskiej – jako Sekretarz Komitetu;
+- **12)** Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+- **13)** Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej.
 
-3. W skład wchodzą osoby wskazane Polskiej spośród przedstawicieli kościołów innych związków wyznaniowych, środowisk kultury nauki, samorządu terytorialnego, związków zawodowych, organizacji kombatanckich innych organizacji społecznych osób szczególnie zasłużonych dla Państwa Polskiego.
+2. W skład Komitetu wchodzą – po wyrażeniu zgody przez partię polityczną lub ugrupowanie – przewodniczący, prezes lub inny wskazany przedstawiciel:
 
-**Art. 5.** Członków Komitetu, o których mowa art. 4:
+- **1)** partii politycznej lub ugrupowania, które w dniu wejścia w życie ustawy tworzą klub parlamentarny albo klub poselski w Sejmie Rzeczypospolitej Polskiej, albo
+- **2)** partii politycznej, która w dniu wejścia w życie ustawy nie tworzy klubu parlamentarnego albo klubu poselskiego w Sejmie Rzeczypospolitej Polskiej, ale w ostatnich wyborach do Sejmu Rzeczypospolitej Polskiej:
+    - **a)** tworząc samodzielnie komitet wyborczy otrzymała w skali kraju co najmniej 3% ważnie oddanych głosów na jej okręgowe listy kandydatów na posłów,
+    - **b)** weszła w skład koalicji wyborczej, której okręgowe listy kandydatów na posłów otrzymały w skali kraju co najmniej 6% ważnie oddanych głosów i została wskazana przez partie polityczne wchodzące w skład koalicji wyborczej jako ich wspólny reprezentant w pracach Komitetu.
+
+3. W skład Komitetu wchodzą osoby wskazane przez Prezydenta Rzeczypospolitej Polskiej spośród przedstawicieli kościołów i innych związków wyznaniowych, środowisk kultury i nauki, samorządu terytorialnego, związków zawodowych, organizacji kombatanckich i innych organizacji społecznych lub osób szczególnie zasłużonych dla Państwa Polskiego.
+
+**Art. 5.** Członków Komitetu, o których mowa w art. 4:
+
+- **1)** ust. 2 – powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej, po wyrażeniu zgody, o której mowa w art. 4 ust. 2;
+- **2)** ust. 3 – powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej.
 
 **Art. 6.**
 
-1. Członkostwo Komitecie osób, o których mowa art. 4 ust. 2, wygasa dniem rozpoczęcia kadencji Przepisy art. 4 ust. 2 art. 5 pkt 1 stosuje się odpowiednio.
+1. Członkostwo w Komitecie osób, o których mowa w art. 4 ust. 2, wygasa z dniem rozpoczęcia kadencji Sejmu Rzeczypospolitej Polskiej. Przepisy art. 4 ust. 2 i art. 5 pkt 1 stosuje się odpowiednio.
 
-2. Uprawnione podmioty terminie 21 dni od dnia rozpoczęcia kadencji Sejmu, przekazują Prezydentowi Polskiej informacje o przedstawicielu wyznaczonym do pełnienia funkcji członka albo składają oświadczenie
+2. Uprawnione podmioty w terminie 21 dni od dnia rozpoczęcia kadencji Sejmu, przekazują Prezydentowi Rzeczypospolitej Polskiej informacje o przedstawicielu wyznaczonym do pełnienia funkcji członka Komitetu albo składają oświadczenie o rezygnacji z tego uprawnienia. Niezłożenie informacji albo oświadczenia jest równoznaczne z rezygnacją z udziału w pracach Komitetu.
 
-3. W posiedzeniach Komitetu, za zgodą Polskiej, mogą brać udział także osoby spoza jego składu, tym osoby zaproszone na wniosek członka Komitetu. Osobom tym nie przysługuje prawo głosu przy podejmowaniu uchwał.
+**Art. 7.**
 
-4. Z posiedzenia Sekretarz sporządza protokół.
+1. Komitet obraduje na posiedzeniach, zwoływanych przez Prezydenta Rzeczypospolitej Polskiej z własnej inicjatywy, na wniosek Sekretarza Komitetu lub co najmniej połowy członków Komitetu.
+
+2. Posiedzenia Komitetu odbywają się w miejscu wskazanym przez Prezydenta
+
+3. W posiedzeniach Komitetu, za zgodą Prezydenta Rzeczypospolitej Polskiej, mogą brać udział także osoby spoza jego składu, w tym osoby zaproszone na wniosek członka Komitetu. Osobom tym nie przysługuje prawo głosu przy podejmowaniu uchwał.
+
+4. Z posiedzenia Komitetu Sekretarz Komitetu sporządza protokół.
 
 **Art. 8.**
 
-1. Komitet podejmuje decyzje formie uchwał, zwykłą większością głosów, głosowaniu jawnym, obecności co najmniej połowy członków Komitetu. W przypadku równej liczby głosów rozstrzyga głos
+1. Komitet podejmuje decyzje w formie uchwał, zwykłą większością głosów, w głosowaniu jawnym, w obecności co najmniej połowy członków Komitetu. W przypadku równej liczby głosów rozstrzyga głos Prezydenta Rzeczypospolitej Polskiej.
 
-2. Komitet może upoważnić Sekretarza do podejmowania działań imieniu określonym zakresie.
+2. Komitet może upoważnić Sekretarza Komitetu do podejmowania działań w imieniu Komitetu w określonym zakresie.
 
-**Art. 9.** Szczegółowe zasady tryb działania określa regulamin uchwalony Komitet.
+**Art. 9.** Szczegółowe zasady i tryb działania Komitetu określa regulamin uchwalony przez Komitet.
 
 **Art. 10.**
 
-1. Obsługę organizacyjną sprawuje sekretariat prowadzony urzędzie obsługującym ministra właściwego do spraw kultury ochrony dziedzictwa narodowego. Sekretariatem kieruje Sekretarz Komitetu.
+1. Obsługę organizacyjną Komitetu sprawuje sekretariat Komitetu prowadzony w urzędzie obsługującym ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Sekretariatem Komitetu kieruje Sekretarz Komitetu.
 
-2. Wydatki związane działalnością są pokrywane budżetu państwa, części, której dysponentem jest minister właściwy do spraw kultury ochrony dziedzictwa narodowego.
+2. Wydatki związane z działalnością Komitetu są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
 
-3. Wydatki związane organizacją posiedzeń są pokrywane budżetu państwa, części, której dysponentem jest Szef Kancelarii
+3. Wydatki związane z organizacją posiedzeń Komitetu są pokrywane z budżetu państwa, z części, której dysponentem jest Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej.
 
 **Art. 11.**
 
-1. Za udział pracach nie przysługuje wynagrodzenie.
+1. Za udział w pracach Komitetu nie przysługuje wynagrodzenie.
 
-**Art. 12.** Regulamin, o którym mowa art. 9, sprawozdanie działalności oraz inne uchwały wskazane Komitet podlegają ogłoszeniu Dzienniku Urzędowym Polskiej „Monitor Polski”.
+2. Członkom Komitetu, o których mowa w art. 4 ust. 3, w związku z udziałem w pracach Komitetu przysługuje zwrot kosztów przejazdu na posiedzenia Komitetu na zasadach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej.
 
-**Art. 13.** Komitet znosi się dniem przyjęcia sprawozdania, o którym mowa art. 2 ust. 4.
+3. Zwrot kosztów przejazdu, o których mowa w ust. 2, jest finansowany z budżetu państwa, z części, której dysponentem jest Szef Kancelarii Prezydenta
+
+**Art. 12.** Regulamin, o którym mowa w art. 9, sprawozdanie z działalności Komitetu oraz inne uchwały Komitetu wskazane przez Komitet podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+**Art. 13.** Komitet znosi się z dniem przyjęcia sprawozdania, o którym mowa w art. 2 ust. 4.
 
 **Art. 14.**
 
-1. W terminie 21 dni od dnia wejścia życie ustawy podmioty, o których mowa art. 4 ust. 2, przekażą Prezydentowi Polskiej informacje o przedstawicielu wyznaczonym do pełnienia funkcji członka albo złożą oświadczenie o rezygnacji tego uprawnienia.
+1. W terminie 21 dni od dnia wejścia w życie ustawy podmioty, o których mowa w art. 4 ust. 2, przekażą Prezydentowi Rzeczypospolitej Polskiej informacje o przedstawicielu wyznaczonym do pełnienia funkcji członka Komitetu albo złożą oświadczenie o rezygnacji z tego uprawnienia.
 
-2. Niezłożenie informacji albo oświadczenia, o których mowa ust. 1, jest równoznaczne rezygnacją udziału pracach Komitetu.
+2. Niezłożenie informacji albo oświadczenia, o których mowa w ust. 1, jest równoznaczne z rezygnacją z udziału w pracach Komitetu.
 
-**Art. 15.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

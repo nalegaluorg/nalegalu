@@ -8,7 +8,7 @@ pos: 905
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 79/6/A/2013 WYROK z dnia 17 lipca 2013 r.

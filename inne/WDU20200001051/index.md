@@ -8,10 +8,10 @@ pos: 1051
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 czerwca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1051 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 czerwca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001051) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1051/text.pdf) |
 
-Poz. 1051 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 czerwca 2020 r.
-w sprawie zakresu informacji zawartych w Centralnym Rejestrze Danych o Ekspozycjach Medycznych Na podstawie art. 33zf ust. 4 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2019 r. poz. 1792 oraz z 2020 r. poz. 284 i 322) zarządza się, co następuje: § 1. Rozporządzenie określa zakres informacji zawartych w Centralnym Rejestrze Danych o Ekspozycjach Medycznych, zwanym dalej „Rejestrem”.
+w sprawie zakresu informacji zawartych w Centralnym Rejestrze Danych o Ekspozycjach Medycznych Na podstawie art. 33zf ust. 4 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2019 r. poz. 1792 oraz z 2020 r. poz. 284 i 322) zarządza się, co następuje:
+§ 1. Rozporządzenie określa zakres informacji zawartych w Centralnym Rejestrze Danych o Ekspozycjach Medycznych, zwanym dalej „Rejestrem”.
 § 2. 1. Rejestr zawiera informacje o ekspozycjach medycznych wykonywanych w jednostkach ochrony zdrowia w ramach szczegółowych medycznych procedur radiologicznych z zakresu rentgenodiagnostyki, radiologii zabiegowej, medycyny nuklearnej oraz radioterapii.
 2. Informacje, o których mowa w ust. 1, obejmują określenie:
 1) liczby zastosowań medycznych procedur radiologicznych,

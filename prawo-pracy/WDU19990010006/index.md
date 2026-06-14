@@ -8,7 +8,7 @@ pos: 6
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o związkach zawodowych oraz o zmianie niektórych innych ustaw.

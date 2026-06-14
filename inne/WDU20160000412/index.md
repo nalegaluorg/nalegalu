@@ -8,10 +8,10 @@ pos: 412
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 marca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 412 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 23 marca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/412/text.pdf) |
 
-Poz. 412 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 23 marca 2016 r.
 w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji kierowców Na podstawie art. 100ad ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r.
-poz. 1137, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa zakres danych, do których zapewnia się dostęp podmiotom obowiązanym do przekazywania danych do centralnej ewidencji kierowców.
+poz. 1137, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa zakres danych, do których zapewnia się dostęp podmiotom obowiązanym do przekazywania danych do centralnej ewidencji kierowców.
 § 2. Organowi właściwemu w sprawach wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami zapewnia się dostęp do danych, o których mowa w art. 100aa ust. 1 oraz ust. 3–7 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zwanej dalej „ustawą”.
 § 3. Marszałkowi województwa zapewnia się dostęp do danych, o których mowa w art. 100aa ust. 1 pkt 1–3, 6–8, 12 i 14, ust. 4 pkt 1–7 i 14 oraz ust. 6 i 7 ustawy.
 § 4. Organom kontroli ruchu drogowego, prokuratorowi oraz organom orzekającym w sprawach o naruszenia w postępowaniu dyscyplinarnym zapewnia się dostęp do danych, o których mowa w art. 100aa ust. 1 pkt 1–3, ust. 4 pkt 1–7 oraz 10–13 ustawy.

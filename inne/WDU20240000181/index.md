@@ -8,10 +8,10 @@ pos: 181
 act_type: Oświadczenie rządowe
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 118811 OŚWIADCZENIE RZĄDOWE z dnia 12 grudnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/181/text.pdf) |
 
-Poz. 181 OŚWIADCZENIE RZĄDOWE z dnia 12 grudnia 2023 r.
 uzupełniające oświadczenie rządowe z dnia 19 kwietnia 2019 r. w sprawie mocy obowiązującej w relacjach między Rzecząpospolitą Polską a Republiką Finlandii Konwencji wielostronnej implementującej środki traktatowego prawa podatkowego mające na celu zapobieganie erozji podstawy opodatkowania i przenoszeniu zysku, sporządzonej w Paryżu dnia 24 listopada 2016 r., oraz jej zastosowania w realizacji postanowień Konwencji między Rzecząpospolitą Polską a Republiką Finlandii w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu, podpisanej w Helsinkach dnia 8 czerwca 2009 r.
 Podaje się niniejszym do wiadomości, że dnia 27 czerwca 2023 r. Republika Finlandii notyfikowała listę zastrzeżeń i notyfikacji złożonych zgodnie z art. 28 ust. 9 i art. 29 ust. 6 Konwencji wielostronnej implementującej środki traktatowego prawa podatkowego mające na celu zapobieganie erozji podstawy opodatkowania i przenoszeniu zysku, sporządzonej w Paryżu dnia 24 listopada 2016 r. Zgodnie z art. 28 ust. 9 lit. a) i art. 29 ust. 6 lit. a) konwencji wchodzą one w życie dnia 1 stycznia 2024 r.
 Jednocześnie podaje się do wiadomości, że Republika Finlandii:

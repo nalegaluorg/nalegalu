@@ -8,10 +8,10 @@ pos: 1458
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 sierpnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1458 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,19 +25,19 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1458/text.pdf) |
 
-Poz. 1458 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 lipca 2021 r.
-w sprawie trybu, sposobu i warunków wykonywania zadań przez Państwową Inspekcję Sanitarną na terenie urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz jednostek organizacyjnych podległych temu ministrowi i przez niego nadzorowanych, na terenie podmiotów leczniczych tworzonych przez ministra właściwego do spraw wewnętrznych, w stosunku do pracowników tych jednostek oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej i Służby Ochrony Państwa Na podstawie art. 20 ust. 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej z 2021 r. 195) zarządza się, co następuje: § 1. Zadania Państwowej Inspekcji Sanitarnej:
+w sprawie trybu, sposobu i warunków wykonywania zadań przez Państwową Inspekcję Sanitarną na terenie urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz jednostek organizacyjnych podległych temu ministrowi i przez niego nadzorowanych, na terenie podmiotów leczniczych tworzonych przez ministra właściwego do spraw wewnętrznych, w stosunku do pracowników tych jednostek oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej i Służby Ochrony Państwa Na podstawie art. 20 ust. 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2021 r. poz. 195) zarządza się, co następuje:
+§ 1. Zadania Państwowej Inspekcji Sanitarnej:
 1) na terenie urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz jednostek organizacyjnych podległych temu ministrowi i przez niego nadzorowanych,
 2) na terenie podmiotów leczniczych tworzonych przez ministra właściwego do spraw wewnętrznych,
 3) w stosunku do pracowników jednostek, o których mowa w pkt 1, oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej i Służby Ochrony Państwa – wykonuje właściwy rzeczowo i miejscowo państwowy inspektor sanitarny, zwany dalej „właściwym państwowym inspektorem sanitarnym”.
 § 2. 1. Dokumentami uprawniającymi do wykonywania zadań przez Państwową Inspekcję Sanitarną na terenie urzędu, jednostek organizacyjnych i podmiotów oraz w stosunku do pracowników i funkcjonariuszy, o których mowa w § 1, są:
 1) legitymacja służbowa pracownika stacji sanitarno-epidemiologicznej, w przypadku państwowego inspektora sanitarnego;
-2) legitymacja służbowa pracownika stacji sanitarno-epidemiologicznej oraz upoważnienie państwowego inspektora sanitarnego, o którym mowa w art. 35 ust. ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, w przypadku pracowników stacji sanitarno-epidemiologicznej.
+2) legitymacja służbowa pracownika stacji sanitarno-epidemiologicznej oraz upoważnienie państwowego inspektora sanitarnego, o którym mowa w art. 35 ust. 1 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, w przypadku pracowników stacji sanitarno-epidemiologicznej.
 2. Dokumenty, o których mowa w ust. 1, upoważniają do:
-1) wstępu na teren urzędu, jednostek organizacyjnych i podmiotów, o których mowa w § pkt i 2;
-2) uzyskania przepustki uprawniającej do wstępu na teren urzędu, jednostek organizacyjnych i podmiotów, o których mowa w § pkt i 2;
-3) uzyskania przepustki, po okazaniu odpowiedniego poświadczenia bezpieczeństwa, uprawniającej do wstępu na teren urzędu, jednostek organizacyjnych i podmiotów, o których mowa w § pkt i 2, gdzie są przetwarzane informacje niejawne.
-Dziennik Ustaw – 2 – Poz. 1458 § 3. 1. Przeprowadzanie kontroli na terenie urzędu, jednostek organizacyjnych lub podmiotów, o których mowa w § pkt i 2, zwanych dalej „jednostką kontrolowaną”, oraz w stosunku do pracowników i funkcjonariuszy, o których mowa w § 1, następuje po uprzednim pisemnym zawiadomieniu kierownika tej jednostki.
+1) wstępu na teren urzędu, jednostek organizacyjnych i podmiotów, o których mowa w § 1 pkt 1 i 2;
+2) uzyskania przepustki uprawniającej do wstępu na teren urzędu, jednostek organizacyjnych i podmiotów, o których mowa w § 1 pkt 1 i 2;
+3) uzyskania przepustki, po okazaniu odpowiedniego poświadczenia bezpieczeństwa, uprawniającej do wstępu na teren urzędu, jednostek organizacyjnych i podmiotów, o których mowa w § 1 pkt 1 i 2, gdzie są przetwarzane informacje niejawne.
+§ 3. 1. Przeprowadzanie kontroli na terenie urzędu, jednostek organizacyjnych lub podmiotów, o których mowa w § 1 pkt 1 i 2, zwanych dalej „jednostką kontrolowaną”, oraz w stosunku do pracowników i funkcjonariuszy, o których mowa w § 1, następuje po uprzednim pisemnym zawiadomieniu kierownika tej jednostki.
 2. Zawiadomienia, o którym mowa w ust. 1, dokonuje właściwy państwowy inspektor sanitarny, nie później niż w terminie 7 dni przed planowanym terminem rozpoczęcia kontroli.
 3. Zawiadomienie, o którym mowa w ust. 1, zawiera:
 1) oznaczenie właściwego państwowego inspektora sanitarnego;

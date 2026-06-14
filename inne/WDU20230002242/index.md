@@ -8,10 +8,10 @@ pos: 2242
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2242 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 16 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002242) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2242/text.pdf) |
 
-Poz. 2242 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 16 października 2023 r.
 w sprawie przeznaczania żołnierzy do służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny w jednostkach zmilitaryzowanych Na podstawie art. 537 ust. 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
-poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb przeznaczania żołnierzy powołanych do służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny, do służby w jednostkach zmilitaryzowanych.
+poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb przeznaczania żołnierzy powołanych do służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny, do służby w jednostkach zmilitaryzowanych.
 § 2. Dowódcy jednostek wojskowych, w których żołnierze pełnią służbę wojskową, mogą przeznaczyć tych żołnierzy do służby w jednostkach zmilitaryzowanych w stopniach:
 1) oficerskich – na stanowiska kierownicze i instruktorskie, z wyjątkiem kierownika jednostki zmilitaryzowanej;
 2) podoficerskich – na stanowiska specjalistyczne wymagające odpowiedniego wyszkolenia (wykształcenia);
@@ -41,7 +41,7 @@ poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje: § 1. Rozporzą
 § 4. 1. Dowódca jednostki wojskowej w szczególnie uzasadnionych przypadkach może odmówić przeznaczenia żołnierzy do służby w jednostkach zmilitaryzowanych, jeżeli miałoby to naruszyć gotowość bojową tej jednostki lub spowodować niewykonanie realizowanych przez nią zadań.
 2. W przypadku odmowy kierownik jednostki zmilitaryzowanej może zwrócić się z wnioskiem, o którym mowa w § 3 ust. 2, do przełożonego dowódcy jednostki wojskowej.
 3. Przełożony dowódcy jednostki wojskowej może:
-1) utrzymać w mocy ustalenie dowódcy jednostki wojskowej albo Dziennik Ustaw – 2 – Poz. 2242
+1) utrzymać w mocy ustalenie dowódcy jednostki wojskowej albo
 2) zmienić ustalenie dowódcy jednostki wojskowej o odmowie przeznaczenia żołnierzy do służby w jednostkach zmilitaryzowanych, w przypadku gdy nie zostały spełnione przesłanki do wydania odmowy, i nakazać przeznaczenie żołnierzy do służby w jednostkach zmilitaryzowanych w określonym zakresie.
 § 5. Rozporządzenie wchodzi w życie z dniem 23 października 2023 r.
 Minister Obrony Narodowej: z up. M. Wiśniewski

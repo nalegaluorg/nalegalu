@@ -8,10 +8,10 @@ pos: 899
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 czerwca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 899 ZAŚWIADCZENIE A.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000899) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/899/text.pdf) |
 
-ZAŚWIADCZENIE A.
 Państwo wydające: Państwo wykonujące: B.
 Organ, który wydał orzeczenie nakładające karę o charakterze pieniężnym: Nazwa: Adres: Sygnatura akt: Nr tel. (numer kierunkowy kraju i strefy lub miasta): Nr faksu (numer kierunkowy kraju i strefy lub miasta): Adres poczty elektronicznej (jeżeli jest dostępny): Języki, w których można porozumiewać się z organem wydającym: Informacje dotyczące osoby/osób kontaktowych, od których można uzyskać dodatkowe informacje w celu wykonania orzeczenia lub, w odpowiednich przypadkach, w celu przekazania państwu wydającemu kwot uzyskanych z egzekucji (nazwisko, tytuł lub stanowisko służbowe, nr tel., nr faksu oraz, jeżeli jest dostępny, adres poczty elektronicznej): C.
 Organ właściwy w sprawie wykonania orzeczenia nakładającego karę o charakterze pieniężnym w państwie wydającym (jeżeli jest inny niż organ określony w części B): Nazwa: Adres: Nr tel. (numer kierunkowy kraju i strefy lub miasta): Nr faksu (numer kierunkowy kraju i strefy lub miasta): Adres poczty elektronicznej (jeżeli jest dostępny): Języki, w których można porozumiewać się z organem właściwym w sprawie wykonania orzeczenia: Informacje dotyczące osoby/osób kontaktowych, od których można uzyskać dodatkowe informacje w celu wykonania orzeczenia lub, w odpowiednich przypadkach, w celu przekazania państwu wydającemu kwot uzyskanych z egzekucji (nazwisko, tytuł lub stanowisko służbowe, nr tel., nr faksu oraz, jeżeli jest dostępny, adres poczty elektronicznej): D.
@@ -94,7 +93,7 @@ Status orzeczenia nakładającego karę o charakterze pieniężnym
  b) zgodnie z wiedzą organu wydającego zaświadczenie w odniesieniu do tych samych czynów w państwie wykonującym nie zostało wydane orzeczenie w stosunku do tej samej osoby oraz że żadne takie orzeczenie wydane w innym państwie niż państwo wydające lub wykonujące nie zostało wykonane.
 2. Należy wskazać, czy sprawa podlegała procedurze pisemnej:  a) nie podlegała;
  b) tak, podlegała. Potwierdza się, że dana osoba została poinformowana, zgodnie z prawem państwa wydającego osobiście lub za pośrednictwem przedstawiciela ustanowionego zgodnie z przepisami krajowymi, o swoim prawie do kwestionowania słuszności zarzutów oraz o ograniczeniach czasowych takiego środka prawnego.
-3. Proszę wskazać, czy dana osoba stawiła się osobiście na rozprawie, w wyniku której wydano orzeczenie:  a) tak, osoba ta stawiła się osobiście na rozprawie, w wyniku której wydano orzeczenie;
+3. Proszę wskazać, czy dana osoba stawiła się osobiście na rozprawie, w wyniku której wydano orzeczenie:  a) t ak, osoba ta stawiła się osobiście na rozprawie, w wyniku której wydano orzeczenie;
  b) nie, osoba ta nie stawiła się osobiście na rozprawie, w wyniku której wydano orzeczenie.
 Jeżeli zaznaczono odpowiedź wskazaną w lit. b, proszę wskazać, która z poniższych okoliczności zachodzi:  3.1a. osoba ta została wezwana osobiście w dniu ...................... (dzień/miesiąc/rok) i tym samym była poinformowana o wyznaczonym terminie i miejscu rozprawy, w której wyniku wydano to orzeczenie, oraz została poinformowana, że orzeczenie może zostać wydane, jeżeli nie stawi się na rozprawie;
 LUB  3.1b. osoba ta nie została wezwana osobiście, lecz inną drogą rzeczywiście otrzymała urzędową informację o wyznaczonym terminie i miejscu rozprawy, w wyniku której wydano orzeczenie, w sposób jednoznacznie pozwalający stwierdzić, że wiedziała ona o wyznaczonej rozprawie, oraz została poinformowana, że orzeczenie może zostać wydane, jeżeli nie stawi się na rozprawie;

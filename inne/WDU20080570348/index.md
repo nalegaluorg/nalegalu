@@ -8,7 +8,7 @@ pos: 348
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 28/2/A/2008 WYROK z dnia 26 marca 2008 r.

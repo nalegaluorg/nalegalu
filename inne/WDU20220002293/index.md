@@ -1,0 +1,153 @@
+---
+title: Rozporządzenie Ministra Zdrowia z dnia 4 listopada 2022 r. zmieniające rozporządzenie w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej
+address: WDU20220002293
+eli: DU/2022/2293
+publisher: DU
+year: 2022
+pos: 2293
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2293 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 4 listopada 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2293 |
+| ISAP | WDU20220002293 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2022-11-04 |
+| Data wydania | 2022-11-10 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002293) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2293/text.pdf) |
+
+zmieniające rozporządzenie w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej (Dz. U. poz. 880 i 1804) wprowadza się następujące zmiany:
+1) w § 2 pkt 4–7 otrzymują brzmienie: „4) ośrodek kierujący świadczeniobiorcę na kwalifikację do programu pilotażowego – podmiot wykonujący działalność leczniczą na terenie województwa dolnośląskiego, łódzkiego, małopolskiego, mazowieckiego, pomorskiego, śląskiego lub wielkopolskiego, realizujący świadczenia w rodzaju podstawowa opieka zdrowotna lub w poradni kardiologicznej, lub w oddziale o profilu kardiologicznym, lub w oddziale o profilu chorób wewnętrznych, kierujący pacjentów do diagnostyki i leczenia w ramach programu pilotażowego, współpracujący z regionalnym ośrodkiem koordynującym w danym województwie na podstawie porozumienia opracowanego przez krajowy ośrodek koordynujący;
+5) ośrodek współpracujący poziomu I – podmiot wykonujący działalność leczniczą na terenie województwa dolnośląskiego, łódzkiego, małopolskiego, mazowieckiego, pomorskiego, śląskiego lub wielkopolskiego, zapewniający udzielanie świadczeń ambulatoryjnych w poradni kardiologicznej lub poradni hipertensjologicznej w przypadku zdiagnozowanego rozpoznania zasadniczego, o którym mowa w § 6 ust. 1 pkt 1 lit. a, lub świadczeń w oddziale o profilu kardiologia w trybie hospitalizacji oraz współpracujący z regionalnym ośrodkiem koordynującym i ośrodkami współpracującymi poziomu II w danym województwie, który na etapie organizacji programu pilotażowego podpisze z regionalnym ośrodkiem koordynującym w danym województwie porozumienie o współpracy;
+6) ośrodek współpracujący poziomu II – podmiot wykonujący działalność leczniczą na terenie województwa dolnośląskiego, łódzkiego, małopolskiego, mazowieckiego, pomorskiego, śląskiego lub wielkopolskiego, zapewniający udzielanie świadczeń ambulatoryjnych w poradni kardiologicznej oraz w oddziale o profilu kardiologia w trybie hospitalizacji, w ramach systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej, pozytywnie zaopiniowany Funduszowi przez konsultanta wojewódzkiego w dziedzinie kardiologii w porozumieniu z regionalnym ośrodkiem koordynującym, realizujący świadczenia opieki zdrowotnej, o których mowa w § 13 ust. 2, współpracujący z regionalnym ośrodkiem koordynującym i ośrodkami współpracującymi poziomu I w danym województwie, który na etapie organizacji programu pilotażowego podpisze z regionalnym ośrodkiem koordynującym w danym województwie porozumienie o współpracy;
+7) sieć kardiologiczna – strukturę składającą się z krajowego ośrodka koordynującego, regionalnych ośrodków koordynujących wraz z ośrodkami współpracującymi poziomu I i II, które współpracują ze sobą w zakresie opieki kardiologicznej nad świadczeniobiorcą objętym programem pilotażowym;”;
+2) § 4 i § 5 otrzymują brzmienie: „§ 4. Okres realizacji programu pilotażowego obejmuje:
+1) etap organizacji:
+a) dla województwa mazowieckiego, który trwa 6 miesięcy od dnia wejścia w życie rozporządzenia, obejmujący: – przygotowanie przez regionalny ośrodek koordynujący i zatwierdzenie przez ministra właściwego do spraw zdrowia wytycznych, o których mowa w § 10 ust. 1 pkt 1, w okresie miesiąca od dnia wejścia w życie rozporządzenia, – podpisanie z Funduszem umów o udzielanie świadczeń opieki zdrowotnej w zakresie programu pilotażowego przez ośrodki wchodzące w skład sieci kardiologicznej,
+b) dla województwa dolnośląskiego, łódzkiego, małopolskiego, pomorskiego, śląskiego i wielkopolskiego, który trwa od dnia 10 listopada 2022 r. do dnia 28 lutego 2023 r., obejmujący podpisanie z Funduszem umów o udzielanie świadczeń opieki zdrowotnej w zakresie programu pilotażowego przez ośrodki wchodzące w skład sieci kardiologicznej;
+2) etap realizacji dla województwa dolnośląskiego, łódzkiego, małopolskiego, mazowieckiego, pomorskiego, śląskiego i wielkopolskiego, który trwa od dnia zakończenia etapu organizacji do dnia 31 grudnia 2024 r.;
+3) etap ewaluacji, który trwa 3 miesiące od dnia zakończenia etapu realizacji.
+§ 5. Programem pilotażowym zostanie objętych nie więcej niż:
+1) 34 944 świadczeniobiorców, którym będą udzielane świadczenia na terenie województwa mazowieckiego;
+2) po 20 778 świadczeniobiorców, którym będą udzielane świadczenia na terenie każdego z województw: dolnośląskiego, łódzkiego, małopolskiego, pomorskiego, śląskiego i wielkopolskiego.”;
+3) w § 6 w:
+a) ust. 1 w pkt 3 wyrazy „§ 8 ust. 2” zastępuje się wyrazami „§ 8 ust. 3”,
+b) ust. 2 wyrazy „§ 10 ust. 1 pkt 3” zastępuje się wyrazami „§ 10 ust. 1 pkt 1”;
+4) § 8 otrzymuje brzmienie: „§ 8. 1. Krajowym ośrodkiem koordynującym jest Narodowy Instytut Kardiologii Stefana Kardynała Wyszyńskiego – Państwowy Instytut Badawczy w Warszawie.
+2. Regionalnym ośrodkiem koordynującym jest dla województwa:
+1) dolnośląskiego – Uniwersytecki Szpital Kliniczny im. Jana Mikulicza-Radeckiego we Wrocławiu;
+2) łódzkiego – Samodzielny Publiczny Zakład Opieki Zdrowotnej Centralny Szpital Kliniczny Uniwersytetu Medycznego w Łodzi;
+3) małopolskiego – Krakowski Szpital Specjalistyczny im. Jana Pawła II;
+4) mazowieckiego – Narodowy Instytut Kardiologii Stefana Kardynała Wyszyńskiego – Państwowy Instytut Badawczy w Warszawie;
+5) pomorskiego – Uniwersyteckie Centrum Kliniczne w Gdańsku;
+6) śląskiego – Śląskie Centrum Chorób Serca w Zabrzu;
+7) wielkopolskiego – Szpital Kliniczny im. Heliodora Święcickiego Uniwersytetu Medycznego im. Karola Marcinkowskiego w Poznaniu.
+3. Na terenie danego województwa krajowy ośrodek koordynujący, regionalny ośrodek koordynujący oraz ośrodki współpracujące poziomu I i II podpisują między sobą porozumienia o współpracy dotyczące sprawowania koordynowanej opieki kardiologicznej w ramach programu pilotażowego oraz o wzajemnym przepływie danych:
+1) pochodzących z raportów statystycznych, o których mowa w przepisach wydanych na podstawie art. 137 ust. 2 lub art. 190 ust. 1, 2 i 3 ustawy oraz o których mowa w art. 45a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U.
+z 2022 r. poz. 463, 583 i 974);
+2) o których mowa w art. 25 ust. 1 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r. poz. 1876 i 2280).”;
+5) § 10 otrzymuje brzmienie: „§ 10. 1. Krajowy ośrodek koordynujący:
+1) opracowuje, aktualizuje i modyfikuje wytyczne postępowania procesu diagnostycznego i leczniczego świadczeniobiorcy, które przedstawia do zatwierdzenia ministrowi właściwemu do spraw zdrowia;
+2) prowadzi infolinię kardiologiczną;
+3) administruje systemem teleinformatycznym sieci kardiologicznej, który stanowi zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania, zapewniający przetwarzanie, przechowywanie, wysyłanie i odbieranie danych w zakresie realizacji zadań związanych z koordynacją leczenia pacjentów, w tym infolinią kardiologiczną, w ramach czego:
+a) wdraża system dla województw realizujących program pilotażowy,
+b) zapewnia infrastrukturę niezbędną do działania systemu,
+c) zapewnia wsparcie techniczne, serwisowe i utrzymanie systemu,
+d) prowadzi szkolenia z funkcjonowania oraz użytkowania systemu przy jego wdrażaniu i w trakcie trwania programu pilotażowego;
+4) gromadzi oraz analizuje dane, o których mowa w § 8 ust. 3, dotyczące świadczeń opieki zdrowotnej w zakresie diagnostyki pacjentów, dla których ustalono plan leczenia, na podstawie informacji przekazanych przez regionalne ośrodki koordynujące;
+5) gromadzi oraz analizuje dane na podstawie ankiet, o których mowa w ust. 2 pkt 2, przekazanych przez regionalne ośrodki koordynujące;
+6) dokonuje okresowej oceny realizacji planów leczenia ustalanych w regionalnych ośrodkach koordynujących oraz ośrodkach współpracujących poziomu I i II;
+7) sporządza, we współpracy z Funduszem, sprawozdania okresowe i sprawozdanie końcowe z realizacji programu pilotażowego, z uwzględnieniem:
+a) mierników i wskaźników, o których mowa w § 11 i § 12,
+b) oceny realizacji planów leczenia, o której mowa w pkt 6,
+c) danych zgromadzonych na podstawie ankiet, o których mowa w ust. 2 pkt 2,
+d) danych, o których mowa w § 8 ust. 3,
+e) danych w zakresie diagnostyki pacjentów, dla których ustalono plan leczenia,
+f) wykazu świadczeniobiorców zakwalifikowanych do programu pilotażowego;
+8) opracowuje porozumienie, o którym mowa w § 2 pkt 4;
+9) pełni funkcję administratora danych osobowych z zakresu realizacji programu pilotażowego.
+2. Krajowy ośrodek koordynujący we współpracy z Funduszem opracowują:
+1) sposób pozyskania danych w celu dokonania bieżącej i okresowej oceny realizacji planów leczenia, o której mowa w ust. 3 pkt 9;
+2) anonimowe ankiety satysfakcji świadczeniobiorców z zakresu opieki kardiologicznej sprawowanej w ramach sieci kardiologicznej.
+3. Regionalny ośrodek koordynujący:
+1) kwalifikuje świadczeniobiorców do programu pilotażowego;
+2) koordynuje w swoim regionie opiekę kardiologiczną nad świadczeniobiorcą w ramach sieci kardiologicznej;
+3) realizuje program pilotażowy zgodnie z wytycznymi, o których mowa w ust. 1 pkt 1;
+4) uzgadnia ze świadczeniobiorcą wybór świadczeniodawcy realizującego opiekę kardiologiczną, należącego do sieci kardiologicznej;
+5) prowadzi diagnostykę i leczenie pacjentów;
+6) nadzoruje pracę koordynatorów leczenia kardiologicznego oraz nią kieruje;
+7) zapewnia ośrodkom poziomu I i II możliwość korzystania z porad i konsultacji, w tym z wykorzystaniem systemów teleinformatycznych, środków komunikacji elektronicznej lub publicznie dostępnych usług telekomunikacyjnych;
+8) zapewnia możliwość telefonicznego i elektronicznego umawiania badań diagnostycznych i wizyt lekarskich oraz zmiany ich terminów;
+9) dokonuje bieżącej i okresowej oceny realizacji planów leczenia ustalanych w ośrodkach współpracujących poziomu I i II;
+10) gromadzi oraz analizuje dane, o których mowa w § 8 ust. 3, dotyczące świadczeń opieki zdrowotnej w zakresie diagnostyki pacjentów, dla których ustalono plan leczenia, na podstawie informacji przekazanych przez ośrodki współpracujące poziomu I i II;
+11) gromadzi oraz analizuje dane na podstawie ankiet, o których mowa w ust. 2 pkt 2;
+12) sporządza i przekazuje krajowemu ośrodkowi koordynującemu oraz właściwemu terytorialnie oddziałowi wojewódzkiemu Funduszu sprawozdania okresowe i sprawozdanie końcowe z realizacji programu pilotażowego w swoim regionie, z uwzględnieniem:
+a) mierników i wskaźników, o których mowa w § 11 i § 12,
+b) oceny realizacji planów leczenia, o której mowa w pkt 9,
+c) danych zgromadzonych na podstawie ankiet, o których mowa w ust. 2 pkt 2,
+d) danych, o których mowa w § 8 ust. 3,
+e) danych w zakresie diagnostyki pacjentów, dla których ustalono plan leczenia,
+f) wykazu świadczeniobiorców zakwalifikowanych do programu pilotażowego;
+13) na wniosek Funduszu udostępnia w terminie do 14 dni roboczych dane, o których mowa w pkt 10;
+14) zapewnia infrastrukturę niezbędną do korzystania z systemu teleinformatycznego sieci kardiologicznej;
+15) pełni funkcję administratora danych osobowych z zakresu realizacji programu pilotażowego.
+4. Ośrodek współpracujący poziomu II:
+1) kwalifikuje świadczeniobiorców do programu pilotażowego;
+2) realizuje diagnostykę i leczenie świadczeniobiorcy zgodnie z wytycznymi, o których mowa w ust. 1 pkt 1, oraz ustala plan leczenia świadczeniobiorcy;
+3) wyznacza koordynatora leczenia kardiologicznego, który zapewnia możliwość zapisywania pacjentów kierowanych z ośrodków współpracujących poziomu I oraz współpracuje z regionalnym ośrodkiem koordynującym;
+4) zapewnia możliwość telefonicznego i elektronicznego umawiania badań diagnostycznych i wizyt lekarskich oraz zmiany ich terminów;
+5) gromadzi dane, o których mowa w § 8 ust. 3, dotyczące świadczeń opieki zdrowotnej w zakresie diagnostyki pacjentów, dla których ustalono plan leczenia;
+6) gromadzi dane uzyskane na podstawie ankiet, o których mowa w ust. 2 pkt 2;
+7) sporządza i przekazuje regionalnemu ośrodkowi koordynującemu sprawozdania okresowe, w terminie do 15 dni od dnia zakończenia trzymiesięcznego okresu, którego dotyczą, i sprawozdanie końcowe, w terminie 15 dni od dnia zakończenia realizacji programu pilotażowego, z uwzględnieniem:
+a) mierników i wskaźników, o których mowa w § 11 i § 12,
+b) danych zgromadzonych na podstawie ankiet, o których mowa w ust. 2 pkt 2,
+c) danych, o których mowa w § 8 ust. 3,
+d) danych w zakresie diagnostyki pacjentów, dla których ustalono plan leczenia;
+8) zapewnia infrastrukturę niezbędną do korzystania z systemu teleinformatycznego sieci kardiologicznej;
+9) pełni funkcję administratora danych osobowych z zakresu realizacji programu pilotażowego.
+5. Ośrodek współpracujący poziomu I:
+1) kwalifikuje świadczeniobiorców do programu pilotażowego;
+2) zapewnia świadczeniobiorcy objętemu programem pilotażowym rozpoczęcie procesu diagnostycznego w terminie do 30 dni od dnia zgłoszenia – w przypadkach wynikających z wytycznych, o których mowa w ust. 1 pkt 1;
+3) realizuje leczenie świadczeniobiorcy zgodnie z wytycznymi, o których mowa w ust. 1 pkt 1, oraz planem leczenia świadczeniobiorcy;
+4) ustala plan leczenia świadczeniobiorcy w przypadkach niewymagających przekazania świadczeniobiorcy do ośrodka współpracującego poziomu II albo regionalnego ośrodka koordynującego;
+5) zapewnia możliwość telefonicznego i elektronicznego umawiania badań diagnostycznych i wizyt lekarskich oraz zmiany ich terminów;
+6) gromadzi dane, o których mowa w § 8 ust. 3, w zakresie diagnostyki pacjentów, dla których ustalono plan leczenia;
+7) gromadzi dane na podstawie ankiet, o których mowa w ust. 2 pkt 2;
+8) sporządza i przekazuje regionalnemu ośrodkowi koordynującemu sprawozdania okresowe, w terminie do 15 dni od dnia zakończenia trzymiesięcznego okresu, którego dotyczą, i sprawozdanie końcowe, w terminie 15 dni od dnia zakończenia realizacji programu pilotażowego, z uwzględnieniem:
+a) mierników i wskaźników, o których mowa w § 11 i § 12,
+b) danych zgromadzonych na podstawie ankiet, o których mowa w ust. 2 pkt 2,
+c) danych, o których mowa w § 8 ust. 3,
+d) danych w zakresie diagnostyki pacjentów, dla których ustalono plan leczenia;
+9) zapewnia infrastrukturę niezbędną do korzystania z systemu teleinformatycznego sieci kardiologicznej;
+10) pełni funkcję administratora danych osobowych z zakresu realizacji programu pilotażowego.”;
+6) w § 13 w ust. 1:
+a) pkt 1 otrzymuje brzmienie: „1) dla ośrodków kierujących świadczeniobiorcę na kwalifikację do programu pilotażowego, realizujących świadczenia w rodzaju podstawowa opieka zdrowotna – na podstawie przekazanej do Funduszu, potwierdzonej przez regionalny ośrodek koordynujący, kwalifikacji pacjenta do programu pilotażowego przy współczynniku kwalifikacji na poziomie co najmniej 0,5 w poprzednim okresie sprawozdawczym – 30 zł za każdego skierowanego pacjenta;”,
+b) w pkt 3 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) dla krajowego ośrodka koordynującego ze współczynnikami korygującymi, o których mowa w pkt 3, zwiększonymi o 0,05.”;
+7) w § 14 ust. 1 i 2 otrzymują brzmienie: „1. Regionalny ośrodek koordynujący przekazuje krajowemu ośrodkowi koordynującemu oraz oddziałowi wojewódzkiemu Funduszu:
+1) co 3 miesiące – sprawozdania okresowe w terminie do 30 dni od dnia zakończenia okresu, którego dotyczą, oraz wykaz świadczeniobiorców włączonych do programu pilotażowego;
+2) nie później niż w terminie 30 dni od dnia zakończenia programu pilotażowego – sprawozdania końcowe, o których mowa w § 10 ust. 1 pkt 7, ust. 3 pkt 12, ust. 4 pkt 7 i ust. 5 pkt 8.
+2. Fundusz we współpracy z krajowym ośrodkiem koordynującym sporządza:
+1) co 6 miesięcy – informację o przebiegu realizacji programu pilotażowego,
+2) w okresie 3 miesięcy od dnia zakończenia etapu realizacji programu pilotażowego – sprawozdanie końcowe – w zakresie działalności sieci kardiologicznej, z uwzględnieniem mierników i wskaźników, o których mowa w § 11 i § 12, danych, o których mowa w § 10 ust. 1 pkt 4 i 5, ust. 3 pkt 10 i 11, ust. 4 pkt 5 i 6 oraz ust. 5 pkt 6 i 7, a także oceny realizacji planów leczenia, o której mowa w § 10 ust. 3 pkt 9.”;
+8) w § 15:
+a) ust. 1 otrzymuje brzmienie: „1. Ocena wyników programu pilotażowego jest dokonywana przez Fundusz we współpracy z krajowym ośrodkiem koordynującym na podstawie sprawozdania końcowego z realizacji programu pilotażowego, o którym mowa w § 14 ust. 1 pkt 2.”,
+b) w ust. 3 wyrazy „regionalnym ośrodkiem koordynującym” zastępuje się wyrazami „krajowym ośrodkiem koordynującym”.
+§ 2. Wytyczne postępowania procesu diagnostycznego i leczniczego świadczeniobiorcy opracowane na podstawie § 10 ust. 1 pkt 3 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, stają się wytycznymi postępowania procesu diagnostycznego i leczniczego świadczeniobiorcy, o których mowa w § 10 ust. 1 pkt 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 3. Ośrodek podstawowej opieki zdrowotnej, ośrodek współpracujący poziomu I oraz ośrodek współpracujący poziomu II, o których mowa odpowiednio w § 2 pkt 4–6 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, stają się odpowiednio ośrodkiem kierującym świadczeniobiorcę na kwalifikację do programu pilotażowego, ośrodkiem współpracującym poziomu I oraz ośrodkiem współpracującym poziomu II, o którym mowa odpowiednio w § 2 pkt 4–6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 4. W trakcie trwania etapu organizacji programu pilotażowego, o którym mowa w § 4 pkt 1 lit. b rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, Narodowy Fundusz Zdrowia może w województwie mazowieckim podpisać umowy o udzielanie świadczeń opieki zdrowotnej w zakresie programu pilotażowego ze świadczeniodawcami:
+1) realizującymi świadczenia w poradni kardiologicznej lub w oddziale o profilu kardiologicznym, lub w oddziale o profilu chorób wewnętrznych – jako ośrodkami kierującymi świadczeniobiorcę na kwalifikację do programu pilotażowego, o których mowa w § 2 pkt 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem;
+2) zapewniającymi udzielanie świadczeń ambulatoryjnych w poradni hipertensjologicznej – jako ośrodkami współpracującymi poziomu I, o których mowa w § 2 pkt 5 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem;
+3) zapewniającymi udzielanie świadczeń ambulatoryjnych w poradni kardiologicznej oraz w oddziale o profilu kardiologia w trybie hospitalizacji, w ramach systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej – jako ośrodkami współpracującymi poziomu II, o których mowa w § 2 pkt 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+§ 5. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Zdrowia: A. Niedzielski
+

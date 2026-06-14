@@ -8,10 +8,10 @@ pos: 829
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lipca 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 829 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 6 lipca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/829/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 6 lipca 2012 r.
-w sprawie wymagań Dobrej Praktyki Klinicznej Weterynaryjnej Na podstawie art. 37aj pkt 5 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje:
+w sprawie wymagań Dobrej Praktyki Klinicznej Weterynaryjnej Na podstawie art. 37aj pkt 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, w tym:
 1) sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania badań klinicznych weterynaryjnych;
 2) wymagania dla podmiotów uczestniczących lub ubiegających się o przeprowadzenie badań klinicznych weterynaryjnych.
 § 2. Badanie kliniczne weterynaryjne planuje się, prowadzi, monitoruje, dokumentuje i raportuje w sposób:
@@ -43,6 +43,7 @@ b) pozostałości badanych produktów leczniczych weterynaryjnych i ich metaboli
 3) naukową i technologiczną jakość badań klinicznych weterynaryjnych;
 4) właściwe zabezpieczenie danych uzyskanych w trakcie trwania badania klinicznego weterynaryjnego.
 § 4. Zawarcie przez sponsora umowy przekazującej na rzecz innej osoby lub jednostki organizacyjnej prowadzącej badania kliniczne weterynaryjne na zlecenie wszystkich lub części zadań określonych w wymaganiach Dobrej Praktyki Klinicznej Weterynaryjnej nie zwalnia sponsora z odpowiedzialności związanej z prowadzeniem tego badania.
+§ 5. 1. Przed przystąpieniem do badania klinicznego weterynaryjnego badacz musi spełnić następujące wymagania:
 1) szczegółowo zapoznać się z zagadnieniami związanymi z podejmowanym badaniem klinicznym weterynaryjnym, w tym z aktualnym stanem wiedzy w zakresie tego badania;
 2) uzyskać zgodę właściciela zwierząt na udział tych zwierząt w badaniu klinicznym weterynaryjnym, zawierającą imię i nazwisko właściciela oraz jego adres miejsca zamieszkania albo nazwę podmiotu będącego właścicielem zwierząt i adres jego siedziby oraz imię i nazwisko osoby upoważnionej do reprezentowania właściciela albo tego podmiotu;
 3) przekazać właścicielowi zwierzęcia pisemną informację o konsekwencjach wynikających z udziału zwierzęcia w badaniu klinicznym weterynaryjnym, dołączoną do dokumentacji tego badania, zawierającą informacje dotyczące późniejszego usunięcia badanych zwierząt lub pobierania tkanek lub produktów pochodzących od tych zwierząt przeznaczonych do spożycia.
@@ -62,7 +63,7 @@ e) stosowanie odpowiedniego i sprawnie funkcjonującego sprzętu,
 f) bezpieczne przechowywanie oraz kontrolowanie dostępu do badanych produktów leczniczych weterynaryjnych oraz innych produktów, do których badany produkt leczniczy weterynaryjny jest porównywany, zwanych dalej „produktami kontrolnymi”, zgodnie z protokołem i procedurami badania klinicznego weterynaryjnego,
 g) trwałe oznakowanie próbek pobieranych w toku badania klinicznego weterynaryjnego;
 8) przechowuje dokumentację badania klinicznego weterynaryjnego, zgodnie z § 8 ust. 2, oraz jej uwierzytelnione kopie;
-9) wydziela i podaje badany produkt leczniczy weterynaryjny wyłącznie zwierzętom, na których jest prowadzone badanie
+9) wydziela i podaje badany produkt leczniczy weterynaryjny wyłącznie zwierzętom, na których jest prowadzone badanie kliniczne weterynaryjne;
 10) składa, wraz ze sponsorem, oświadczenie do protokołu, że badanie kliniczne weterynaryjne zostanie wykonane zgodnie z protokołem, procedurami tego badania i wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej;
 11) przechowuje w dokumentacji badania klinicznego weterynaryjnego kopię protokołu wraz z jego ewentualnymi zaakceptowanymi zmianami;
 12) powierza, w razie potrzeby, wykonanie prac osobom posiadającym odpowiednie kwalifikacje i doświadczenie w danym zakresie;
@@ -75,15 +76,17 @@ c) każde odstępstwo od protokołu dokonane w toku przeprowadzanego badania kli
 16) niezwłocznie informuje sponsora o niepożądanych zdarzeniach;
 17) sprawdza w trakcie trwania badania klinicznego weterynaryjnego zapisy podawania badanego produktu leczniczego weterynaryjnego z zapisami jego wykorzystania i zwrotów oraz wyjaśnia ewentualne niezgodności w tym zakresie;
 18) zabezpiecza, w chwili zakończenia lub przerwania badania klinicznego weterynaryjnego, badany produkt leczniczy weterynaryjny, w tym produkt wymieszany z paszą oraz produkt kontrolny, poprzez ich zwrot sponsorowi albo unieszkodliwienie;
-19) przygotowuje i zachowuje pełny zapis wszystkich kontaktów w tym telefonów, wizyt, listów ze sponsorem, przedstawicielami sponsora oraz innymi osobami, w tym osobami uczestniczącymi w badaniu klinicznym weterynaryjnym i przedstawicielami właściwych organów uprawnionych do kontroli badania klinicznego weterynaryjnego, dotyczących planowania, przeprowadzania, monitorowania, dokumentowania i raportowania wyników badania klinicznego weterynaryjnego; zapis kontaktu powinien zawierać: datę i czas kontaktu, jego rodzaj, imię i nazwisko osoby, z którą się kontaktowano, jej funkcję lub stanowisko, podsumowanie celu kontaktu i dyskutowanych spraw oraz działania podjęte przez badacza lub sponsora w wyniku tego kontaktu;
+19) przygotowuje i zachowuje pełny zapis wszystkich kontaktów – w tym telefonów, wizyt, listów – ze sponsorem, przedstawicielami sponsora oraz innymi osobami, w tym osobami uczestniczącymi w badaniu klinicznym weterynaryjnym i przedstawicielami właściwych organów uprawnionych do kontroli badania klinicznego weterynaryjnego, dotyczących planowania, przeprowadzania, monitorowania, dokumentowania i raportowania wyników badania klinicznego weterynaryjnego; zapis kontaktu powinien zawierać: datę i czas kontaktu, jego rodzaj, imię i nazwisko osoby, z którą się kontaktowano, jej funkcję lub stanowisko, podsumowanie celu kontaktu i dyskutowanych spraw oraz działania podjęte przez badacza lub sponsora w wyniku tego kontaktu;
 20) prowadzi dokładny spis otrzymywanych do badania klinicznego weterynaryjnego badanych produktów leczniczych weterynaryjnych i produktów kontrolnych, opis ich stosowania i wyników badań oraz opis ich mieszania z wodą lub paszą, a także prowadzi spis zapasów lub niewykorzystanych w badaniu klinicznym weterynaryjnym badanych produktów leczniczych weterynaryjnych oraz produktów kontrolnych;
 21) dostarcza, na żądanie sponsora, podpisaną dokumentację badania klinicznego weterynaryjnego lub jej uwierzytelnioną kopię; jeżeli całość lub część dokumentacji zostaje przekazana sponsorowi, jej uwierzytelniona kopia powinna zostać zachowana przez badacza;
 22) uczestniczy, w razie potrzeby, w przygotowywaniu raportu końcowego z badania klinicznego weterynaryjnego;
 23) umożliwia monitorowanie i kontrolę jakości badania klinicznego weterynaryjnego.
+§ 6. Sponsor w prowadzonym badaniu klinicznym weterynaryjnym musi spełnić następujące wymagania:
 1) zawrzeć z badaczem i ośrodkiem badawczym umowy, w formie pisemnej, dotyczące prowadzenia badania klinicznego weterynaryjnego regulujące zobowiązania finansowe stron oraz zobowiązujące do:
 a) przestrzegania protokołu i procedur badania klinicznego weterynaryjnego,
 b) przestrzegania zasad zbierania i raportowania danych,
 c) umożliwienia dostępu do dokumentów źródłowych przedstawicielom sponsora oraz osobom prowadzącym audyt,
+d) przechowywania dokumentacji badania klinicznego weterynaryjnego;
 2) wskazać badacza, którego kwalifikacje, wiedza naukowa i doświadczenie w pracy, w tym organizacja czasu pracy, zapewnią podczas trwania badania klinicznego weterynaryjnego postępowanie zgodne z protokołem i procedurami badania klinicznego weterynaryjnego;
 3) zatrudnić osobę odpowiedzialną za nadzorowanie badania klinicznego weterynaryjnego i zapewnienie zgodności sposobu jego prowadzenia z protokołem oraz procedurami badania klinicznego weterynaryjnego, posiadającą odpowiednie wykształcenie i doświadczenie oraz kwalifikacje w zakresie technik kontroli oraz procedur weryfikacji danych, pozwalające w sposób profesjonalny, wynikający z dobrej znajomości zagadnienia, kontrolować dane badanie kliniczne weterynaryjne, zwaną dalej „monitorem”; ta sama osoba nie może być jednocześnie badaczem i monitorem w tym samym badaniu klinicznym weterynaryjnym;
 4) złożyć wspólnie z badaczem oświadczenie, że badanie kliniczne weterynaryjne zostanie wykonane zgodnie z protokołem i wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej;
@@ -91,8 +94,8 @@ c) umożliwienia dostępu do dokumentów źródłowych przedstawicielom sponsora
 a) przygotowanie protokołu i procedur badania klinicznego weterynaryjnego,
 b) opracowanie instrukcji zgodnych z protokołem oraz z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej,
 c) opracowanie systemu zbierania dodatkowych, wymaganych przez sponsora danych, we wszystkich miejscach prowadzenia badania klinicznego weterynaryjnego,
-d) dostęp do informacji: naukowej uzasadniającej przeprowadzenie badania klinicznego weterynaryjnego w zakresie skuteczności i bezpieczeństwa badanego produktu leczniczego weterynaryjnego, dotyczącej powodów wykluczających przeprowadzenie badania klinicznego weterynaryjnego wynikających ze szkodliwości dla środowiska, sprzeczności z aktualnym stanem nauki lub z humanitarnym traktowaniem zwierząt, zgodne z przepisami o ochronie zwierząt, o przebiegu badania klinicznego weterynaryjnego Inspekcji Badań Klinicznych, a także właściwym organom państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym,
-e) aby w przypadku badania klinicznego weterynaryjnego wieloośrodkowego: badanie kliniczne weterynaryjne było przeprowadzane przez wszystkich badaczy zgodnie z przyjętym w porozumieniu ze sponsorem protokołem, system zbierania danych we wszystkich miejscach prowadzenia badania klinicznego weterynaryjnego był ujednolicony i udostępniany na potrzeby inspekcji przeprowadzanej przez Inspekcję Badań Klinicznych, a także właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, instrukcje, w tym instrukcje zbierania danych, otrzymywane przez wszystkich badaczy były jednakowe i zgodne z protokołem oraz wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej, istniała ułatwiona komunikacja pomiędzy badaczami,
+d) dostęp do informacji: – naukowej uzasadniającej przeprowadzenie badania klinicznego weterynaryjnego w zakresie skuteczności i bezpieczeństwa badanego produktu leczniczego weterynaryjnego, – dotyczącej powodów wykluczających przeprowadzenie badania klinicznego weterynaryjnego wynikających ze szkodliwości dla środowiska, sprzeczności z aktualnym stanem nauki lub z humanitarnym traktowaniem zwierząt, zgodne z przepisami o ochronie zwierząt, – o przebiegu badania klinicznego weterynaryjnego Inspekcji Badań Klinicznych, a także właściwym organom państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym,
+e) aby w przypadku badania klinicznego weterynaryjnego wieloośrodkowego: – badanie kliniczne weterynaryjne było przeprowadzane przez wszystkich badaczy zgodnie z przyjętym w porozumieniu ze sponsorem protokołem, – system zbierania danych we wszystkich miejscach prowadzenia badania klinicznego weterynaryjnego był ujednolicony i udostępniany na potrzeby inspekcji przeprowadzanej przez Inspekcję Badań Klinicznych, a także właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, – instrukcje, w tym instrukcje zbierania danych, otrzymywane przez wszystkich badaczy były jednakowe i zgodne z protokołem oraz wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej, – istniała ułatwiona komunikacja pomiędzy badaczami,
 f) aby dalszy los badanych zwierząt, tkanek lub produktów pochodzących od tych zwierząt nie stanowiły zagrożenia dla zdrowia publicznego,
 g) oznakowanie badanego produktu leczniczego weterynaryjnego w taki sposób, aby wynikało z niego, że jest on stosowany w danym badaniu klinicznym weterynaryjnym,
 h) jakość i integralność danych uzyskanych z badań klinicznych weterynaryjnych przez wprowadzenie procedur kontroli jakości;
@@ -100,9 +103,11 @@ h) jakość i integralność danych uzyskanych z badań klinicznych weterynaryjn
 7) podpisać, wraz z badaczem protokół oraz oświadczenie, o którym mowa w § 5 ust. 2 pkt 10;
 8) informować badacza o danych chemicznych, farmaceutycznych, biologicznych oraz danych dotyczących bezpieczeństwa i skuteczności badanych produktów leczniczych weterynaryjnych i przekazywać mu inne informacje konieczne do przeprowadzenia badania klinicznego weterynaryjnego;
 9) składać do Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych zawiadomienia o wszystkich niepożądanych zdarzeniach, niezwłocznie po ich wystąpieniu;
-10) przygotowywać i zachowywać dane dotyczące transportu badanych produktów leczniczych weterynaryjnych i produk11) unieszkodliwiać badane produkty lecznicze weterynaryjne i produkty kontrolne po zakończeniu bądź przerwaniu badania klinicznego weterynaryjnego, zgodnie z ustawą z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243, z późn. zm. );
+10) przygotowywać i zachowywać dane dotyczące transportu badanych produktów leczniczych weterynaryjnych i produktów kontrolnych;
+11) unieszkodliwiać badane produkty lecznicze weterynaryjne i produkty kontrolne po zakończeniu bądź przerwaniu badania klinicznego weterynaryjnego, zgodnie z ustawą z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243, z późn. zm. );
 12) przechowywać dokumentację dotyczącą badania klinicznego weterynaryjnego, zgodnie z § 8 ust. 2;
 13) sporządzić raport końcowy po zakończeniu lub w przypadku przerwania badania klinicznego weterynaryjnego.
+§ 7. Monitor uczestniczący w badaniu klinicznym weterynaryjnym musi spełnić następujące wymagania:
 1) znać wymagania protokołu i procedur badania klinicznego weterynaryjnego;
 2) uczestniczyć, w razie potrzeby, w wyborze badacza;
 3) sprawdzać, czy osoby uczestniczące w badaniu klinicznym weterynaryjnym zostały poinformowane o jego szczegółach;
@@ -118,23 +123,25 @@ e) nieprawidłowości lub braki w dokumentacji badania klinicznego weterynaryjne
 8) zapewnić, aby zbieranie danych przebiegało w sposób zgodny z zasadami protokołu, procedur badania klinicznego weterynaryjnego i wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej;
 9) potwierdzić, że przechowywanie, wydawanie i dokumentowanie badanego produktu leczniczego weterynaryjnego oraz produktu kontrolnego było bezpieczne i właściwe, oraz zapewnić, aby wszystkie niewykorzystane produkty lecznicze weterynaryjne oraz produkty kontrolne zostały zwrócone przez badacza sponsorowi lub zostały prawidłowo unieszkodliwione;
 10) weryfikować dane źródłowe i pozostałą dokumentację badania klinicznego weterynaryjnego niezbędną do stwierdzenia, czy w badaniu klinicznym weterynaryjnym są stosowane zasady określone w protokole i procedurach badania klinicznego weterynaryjnego oraz czy informacje uzyskiwane i przechowywane przez sponsora są odpowiednie i pełne;
-11) przygotowywać i zachowywać pełny zapis wszystkich kontaktów w tym telefonów, wizyt, listów z badaczem, sponsorem, przedstawicielami sponsora oraz innymi osobami, w tym osobami uczestniczącymi w badaniu klinicznym weterynaryjnym i przedstawicielami właściwych organów uprawnionych do inspekcji badań klinicznych weterynaryjnych przeprowadzanej przez Inspekcję Badań Klinicznych, a także właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, dotyczących planowania, przeprowadzania, monitorowania, dokumentowania i raportowania wyników badania klinicznego weterynaryjnego; zapis kontaktu powinien zawierać: datę i czas kontaktu, jego rodzaj, imię i nazwisko osoby, z którą się kontaktowano, jej funkcję lub stanowisko, podsumowanie celu kontaktu i dyskutowanych spraw oraz działania podjęte przez badacza lub sponsora w wyniku tego kontaktu;
+11) przygotowywać i zachowywać pełny zapis wszystkich kontaktów – w tym telefonów, wizyt, listów – z badaczem, sponsorem, przedstawicielami sponsora oraz innymi osobami, w tym osobami uczestniczącymi w badaniu klinicznym weterynaryjnym i przedstawicielami właściwych organów uprawnionych do inspekcji badań klinicznych weterynaryjnych przeprowadzanej przez Inspekcję Badań Klinicznych, a także właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, dotyczących planowania, przeprowadzania, monitorowania, dokumentowania i raportowania wyników badania klinicznego weterynaryjnego; zapis kontaktu powinien zawierać: datę i czas kontaktu, jego rodzaj, imię i nazwisko osoby, z którą się kontaktowano, jej funkcję lub stanowisko, podsumowanie celu kontaktu i dyskutowanych spraw oraz działania podjęte przez badacza lub sponsora w wyniku tego kontaktu;
 12) sprawdzać zgodność działań podejmowanych przez badacza z wymogami Dobrej Praktyki Klinicznej Weterynaryjnej, sporządzić i dostarczyć sponsorowi, pod koniec badania klinicznego weterynaryjnego, podpisany i opatrzony datą raport podsumowujący spotkania i inne formy kontaktu z badaczem.
+§ 8. 1. Dokumentacja badania klinicznego weterynaryjnego składa się z zapisów, które umożliwiają ocenę przebiegu badania oraz ocenę wiarygodności otrzymanych w tym badaniu danych.
 2. Dokumentację badania klinicznego weterynaryjnego przechowuje się przez 3 lata licząc od początku roku kalendarzowego następującego po roku, w którym zakończono badanie, chyba że umowa między sponsorem a badaczem przewiduje dłuższy okres przechowywania dokumentacji.
 § 9. Dokumentacja badania klinicznego weterynaryjnego obejmuje w szczególności:
 1) protokół oraz wszystkie jego ewentualne zmiany;
 2) zgodę właściciela zwierząt na udział tych zwierząt w badaniu klinicznym weterynaryjnym;
 3) dane źródłowe, w szczególności:
-a) dane dotyczące zwierząt, w tym: dokument zakupu zwierzęcia, dokument zaświadczający o włączeniu albo wyłączeniu z badania klinicznego weterynaryjnego, zgodę właściciela na udział zwierzęcia w badaniu klinicznym weterynaryjnym, stosowane leczenie, wyniki testów analitycznych lub próbek biologicznych, formularze raportów poszczególnych przypadków, obserwacje zdrowia zwierząt, skład pasz i podawanych płynów, opis losu zwierząt po zakończeniu badania klinicznego weterynaryjnego albo wyłączonych z tego badania w trakcie jego trwania,
+a) dane dotyczące zwierząt, w tym: – dokument zakupu zwierzęcia, – dokument zaświadczający o włączeniu albo wyłączeniu z badania klinicznego weterynaryjnego, – zgodę właściciela na udział zwierzęcia w badaniu klinicznym weterynaryjnym, – stosowane leczenie, – wyniki testów analitycznych lub próbek biologicznych, – formularze raportów poszczególnych przypadków, – obserwacje zdrowia zwierząt, – skład pasz i podawanych płynów, – opis losu zwierząt po zakończeniu badania klinicznego weterynaryjnego albo wyłączonych z tego badania w trakcie jego trwania,
 b) dane dotyczące zamawiania, otrzymania, testowania, podawania, zwrotu lub unieszkodliwiania badanych produktów leczniczych weterynaryjnych,
 c) dane dotyczące kontaktów pomiędzy monitorem i badaczem,
-d) dane dotyczące zastosowanych w badaniu klinicznym weterynaryjnym udogodnień i sprzętu, w tym: opisy miejsca przeprowadzania badania klinicznego weterynaryjnego, identyfikację sprzętu i jego specyfikację, kalibrację sprzętu, zapisy użytkowania, uszkodzenia i napraw sprzętu, dane meteorologiczne i obserwacje środowiskowe;
+d) dane dotyczące zastosowanych w badaniu klinicznym weterynaryjnym udogodnień i sprzętu, w tym: – opisy miejsca przeprowadzania badania klinicznego weterynaryjnego, – identyfikację sprzętu i jego specyfikację, – kalibrację sprzętu, – zapisy użytkowania, uszkodzenia i napraw sprzętu, – dane meteorologiczne i obserwacje środowiskowe;
 4) raporty, w tym:
 a) raport dotyczący bezpieczeństwa i monitorowania niepożądanych zdarzeń,
 b) raport końcowy z badania klinicznego weterynaryjnego,
 c) raporty statystyczne, analityczne i laboratoryjne;
 5) procedury badania klinicznego weterynaryjnego.
 § 10. 1. Dane źródłowe, sporządzone w postaci pisemnej i elektronicznej, opatruje się datą oraz imieniem i nazwiskiem lub inicjałem autora.
+2. Dane źródłowe muszą być oryginalne, dokładne, aktualne, czytelne i trwałe.
 3. Jeżeli więcej niż jedna osoba obserwuje i zapisuje dane źródłowe, fakt ten uwzględnia się w ich zapisie.
 4. W przypadku automatycznego zbierania danych źródłowych osoba odpowiedzialna za ich sporządzenie wpisuje swoje nazwisko wraz z datą ich wprowadzenia.
 5. Dane źródłowe przechowuje się w sposób zorganizowany oraz, w razie potrzeby, zapisuje w zszytym dzienniku laboratoryjnym zawierającym kolejno ponumerowane strony lub na wcześniej ustalonych formularzach przeznaczonych do zapisywania poszczególnych obserwacji.
@@ -153,7 +160,8 @@ c) raporty statystyczne, analityczne i laboratoryjne;
 1) tytuł i określenie badania klinicznego weterynaryjnego;
 2) dane umożliwiające identyfikację uczestników badania klinicznego weterynaryjnego i kontakt z nimi: imię i nazwisko, adres miejsca zamieszkania, tytuł naukowy, kwalifikacje, doświadczenie zawodowe oraz numer telefonu badacza, sponsora, przedstawicieli sponsora i wszystkich pozostałych uczestników badania klinicznego weterynaryjnego odpowiedzialnych za jego główne aspekty;
 3) dane dotyczące miejsc prowadzenia badania klinicznego weterynaryjnego oraz instytucji zaangażowanych w prowadzenie tego badania, jeżeli są one znane w chwili sporządzania protokołu;
-4) uzasadnienie celów badania klinicznego weterynaryjnego, w tym wszystkie informacje niezbędne do zrozumienia celu badania, a w szczególności opublikowane lub w inny sposób dostępne dane kliniczne lub przedkliniczne, które uzasad5) schemat badania klinicznego weterynaryjnego obejmujący wykaz kluczowych etapów następujących podczas fazy badań z udziałem zwierząt, w tym planowaną datę i godzinę rozpoczęcia badania, okres podawania badanych produktów leczniczych weterynaryjnych, okres obserwacji po podaniu, okres karencji i datę zakończenia badania klinicznego weterynaryjnego, jeżeli jest znana;
+4) uzasadnienie celów badania klinicznego weterynaryjnego, w tym wszystkie informacje niezbędne do zrozumienia celu badania, a w szczególności opublikowane lub w inny sposób dostępne dane kliniczne lub przedkliniczne, które uzasadniają potrzebę przeprowadzenia badania klinicznego weterynaryjnego;
+5) schemat badania klinicznego weterynaryjnego obejmujący wykaz kluczowych etapów następujących podczas fazy badań z udziałem zwierząt, w tym planowaną datę i godzinę rozpoczęcia badania, okres podawania badanych produktów leczniczych weterynaryjnych, okres obserwacji po podaniu, okres karencji i datę zakończenia badania klinicznego weterynaryjnego, jeżeli jest znana;
 6) plan badania klinicznego weterynaryjnego zawierający opis metody, jaką będzie prowadzone to badanie;
 7) określenie metody randomizacji polegające w szczególności na określeniu stosowanych procedur oraz praktycznych rozwiązań wykorzystywanych do doboru zwierząt do grup badanych w badaniu klinicznym weterynaryjnym;
 8) wskazanie ośrodków badawczych i uzasadnienie ich wyboru do udziału w badaniu klinicznym weterynaryjnym;
@@ -175,7 +183,8 @@ b) właściwy skład jakościowy paszy, która powinna być stosowana w żywieni
 a) opis przewidywanego losu zwierząt uczestniczących w badaniu klinicznym weterynaryjnym po zakończeniu tego badania,
 b) opis sposobu postępowania ze zwierzętami wyłączonymi z badania klinicznego weterynaryjnego w jego trakcie, zgodnie z wcześniej ustalonymi procedurami postępowania,
 c) warunki wykorzystywania tkanek, produktów pochodzących od tych zwierząt, które muszą zostać spełnione w celu zachowania zgodności z warunkami dopuszczenia do obrotu badanego produktu leczniczego weterynaryjnego, jeżeli dotyczy,
-d) proponowany sposób unieszkodliwienia badanego produktu leczniczego weterynaryjnego oraz produktu kontrolne17) ocenę skuteczności badanego produktu leczniczego weterynaryjnego;
+d) proponowany sposób unieszkodliwienia badanego produktu leczniczego weterynaryjnego oraz produktu kontrolnego;
+17) ocenę skuteczności badanego produktu leczniczego weterynaryjnego;
 18) określenie stosowanych pomiarów biometrycznych, w tym opis metodyki statystycznej stosowanej dla oceny skuteczności badanego produktu leczniczego weterynaryjnego, w szczególności testowane hipotezy, oceniane parametry, założenia i poziom istotności, jednostkę eksperymentalną i stosowany model statystyczny; planowana wielkość grupy zwierząt powinna być uzasadniona pod względem docelowej populacji zwierząt, mocy badania klinicznego weterynaryjnego i trafności uzasadnienia klinicznego;
 19) opis dostępu do wyników badania klinicznego weterynaryjnego, w tym określenie procedury zapisywania, obróbki, przetwarzania i przechowywania uzyskanych w badaniu danych oraz pozostałej dokumentacji;
 20) procedury wykrycia niepożądanych zdarzeń, w tym opis:
@@ -192,7 +201,7 @@ e) poinformowania sponsora o wystąpieniu niepożądanego zdarzenia;
 § 16. Opisując badany produkt leczniczy weterynaryjny, należy:
 1) zapewnić możliwość dokładnej identyfikacji badanego produktu leczniczego weterynaryjnego w celu szybkiego określenia jego specyficznego składu;
 2) podać szczegółowe instrukcje jego dalszego mieszania, pakowania i przechowywania;
-3) opisać jeżeli badany produkt leczniczy weterynaryjny jest podawany w wodzie lub w paszy procedurę określania zawartości badanego produktu leczniczego weterynaryjnego w wodzie lub paszy, w tym metody pobierania próbek oraz stosowane metody badań, określając metodę analityczną, liczbę powtórzeń, granice wykrywalności i oznaczalności;
+3) opisać – jeżeli badany produkt leczniczy weterynaryjny jest podawany w wodzie lub w paszy – procedurę określania zawartości badanego produktu leczniczego weterynaryjnego w wodzie lub paszy, w tym metody pobierania próbek oraz stosowane metody badań, określając metodę analityczną, liczbę powtórzeń, granice wykrywalności i oznaczalności;
 4) stosować obiektywne kryteria sprawdzania, czy zawartość badanego produktu leczniczego weterynaryjnego w wodzie lub paszy jest właściwa;
 5) potwierdzić tożsamość badanego produktu leczniczego weterynaryjnego, podać jego nazwę, sposób podawania, postać farmaceutyczną, moc, numer serii oraz datę ważności.
 § 17. Opisując zastosowanie w badaniu klinicznym weterynaryjnym badanego produktu leczniczego weterynaryjnego, należy:
@@ -200,7 +209,8 @@ e) poinformowania sponsora o wystąpieniu niepożądanego zdarzenia;
 2) określić sposób podawania, wskazując drogę podania, miejsce iniekcji, dawkę, częstotliwość podawania, czas trwania leczenia i okres karencji;
 3) określić obiektywne kryteria zastosowania dozwolonego leczenia weterynaryjnego w trakcie badania klinicznego weterynaryjnego;
 4) wskazać metody i środki ostrożności podejmowane w celu zapewnienia bezpieczeństwa osób uczestniczących w badaniu klinicznym weterynaryjnym;
-5) wskazać środki podejmowane w celu zapewnienia podawania badanych produktów leczniczych weterynaryjnych zgod§ 18. Oceniając skuteczność produktu leczniczego weterynaryjnego, należy:
+5) wskazać środki podejmowane w celu zapewnienia podawania badanych produktów leczniczych weterynaryjnych zgodnie z protokołem oraz ulotką, jeżeli dotyczy.
+§ 18. Oceniając skuteczność produktu leczniczego weterynaryjnego, należy:
 1) określić oczekiwaną skuteczność oraz punkty końcowe, które mają zostać osiągnięte przed potwierdzeniem skuteczności;
 2) opisać, w jaki sposób oczekiwana skuteczność i punkty końcowe mają być mierzone i zapisywane, a zwłaszcza wyszczególnić parametry;
 3) określić czas i częstotliwość prowadzonych obserwacji;
@@ -224,6 +234,7 @@ e) poinformowania sponsora o wystąpieniu niepożądanego zdarzenia;
 1) tytuł i określenie badania klinicznego weterynaryjnego;
 2) imiona i nazwiska, zajmowane stanowiska bądź sprawowane funkcje osób uczestniczących w badaniu klinicznym weterynaryjnym;
 3) dane dotyczące miejsc prowadzenia badania klinicznego weterynaryjnego oraz instytucji zaangażowanych w prowadzenie badania;
+4) uzasadnienie celów badania klinicznego weterynaryjnego;
 5) schemat badania klinicznego weterynaryjnego;
 6) plan badania klinicznego weterynaryjnego;
 7) opis badania klinicznego weterynaryjnego;
@@ -249,7 +260,7 @@ e) zestawienie ilości zużytego w badaniu klinicznym weterynaryjnym produktu le
 22) procedury stosowane do zapisywania, przetwarzania i przechowywania danych źródłowych i innych dokumentów z badania klinicznego weterynaryjnego;
 23) odchylenia od protokołu lub zmiany w protokole oraz ocenę ich wpływu na wynik badania klinicznego weterynaryjnego;
 24) informacje o okolicznościach, które mogły wpływać na jakość i integralność uzyskanych w badaniu klinicznym weterynaryjnym danych, z uwzględnieniem ram czasowych i zakresu ich występowania;
-25) zestawienie wszystkich zawiadomień o niepożądanych zdarzeniach występujących w trakcie badania, wraz z ich szczegółowym opisem, albo oświadczenie sponsora potwierdzające brak wystąpienia w badaniu klinicznym weterynaryjnym
+25) zestawienie wszystkich zawiadomień o niepożądanych zdarzeniach występujących w trakcie badania, wraz z ich szczegółowym opisem, albo oświadczenie sponsora potwierdzające brak wystąpienia w badaniu klinicznym weterynaryjnym niepożądanych zdarzeń.
 2. Do raportu końcowego załącza się w szczególności:
 1) protokół;
 2) informację o datach wizyt kontrolnych;
@@ -260,17 +271,18 @@ e) zestawienie ilości zużytego w badaniu klinicznym weterynaryjnym produktu le
 2. Zmiany, o których mowa w ust. 1, wprowadza się w taki sposób, aby było widoczne, jaka część raportu została usunięta albo zmieniona.
 3. Zmianę podpisuje autor i oznacza ją datą.
 4. Oczywiste omyłki literowe lub redakcyjne zauważone po opracowaniu raportu poprawia się bezpośrednio w tekście raportu oraz opatruje się podpisem lub inicjałami autorów, datą zmiany i powodem zmiany.
+§ 24. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 Minister Zdrowia: B.A. Arłukowicz
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, w tym:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Wymagania, jakie musi spełnić badacz uczestniczący w badaniu klinicznym weterynaryjnym § 5. 1. Przed przystąpieniem do badania klinicznego weterynaryjnego badacz musi spełnić następujące wymagania:
+#### Rozdział 2 Wymagania, jakie musi spełnić badacz uczestniczący w badaniu klinicznym weterynaryjnym
 
-#### Rozdział 3 Wymagania, jakie musi spełnić sponsor w prowadzonym badaniu klinicznym weterynaryjnym § 6. Sponsor w prowadzonym badaniu klinicznym weterynaryjnym musi spełnić następujące wymagania:
+#### Rozdział 3 Wymagania, jakie musi spełnić sponsor w prowadzonym badaniu klinicznym weterynaryjnym
 
-#### Rozdział 4 Wymagania, jakie musi spełnić monitor uczestniczący w badaniu klinicznym weterynaryjnym § 7. Monitor uczestniczący w badaniu klinicznym weterynaryjnym musi spełnić następujące wymagania:
+#### Rozdział 4 Wymagania, jakie musi spełnić monitor uczestniczący w badaniu klinicznym weterynaryjnym
 
-#### Rozdział 5 Dokumentacja badania klinicznego weterynaryjnego § 8. 1. Dokumentacja badania klinicznego weterynaryjnego składa się z zapisów, które umożliwiają ocenę przebiegu badania oraz ocenę wiarygodności otrzymanych w tym badaniu danych.
+#### Rozdział 5 Dokumentacja badania klinicznego weterynaryjnego
 
-#### Rozdział 6 Przepis końcowy § 24. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+#### Rozdział 6 Przepis końcowy
 

@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.*
 
-Łącznie: **1059** orzeczeń
-(pominięto 961 orzeczeń sądów rejonowych)
+Łącznie: **1065** orzeczeń
+(pominięto 964 orzeczeń sądów rejonowych)
 
 ## art. 1 (118)
 
@@ -206,7 +206,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2013-08-13 | SO | [III AUa 99/13](https://www.saos.org.pl/judgments/19361) | Wyrok
 - 2014-06-10 | SO | [V U 1982/14](https://www.saos.org.pl/judgments/55632) | Wyrok
 
-## art. 6 (53)
+## art. 6 (54)
 
 - 2005-09-08 | TK | [P 17/04](https://www.saos.org.pl/judgments/107228) | Wyrok ★
 - 2000-05-09 | SN | [I PKN 622/99](https://www.saos.org.pl/judgments/79678) | Wyrok ★
@@ -253,6 +253,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2020-04-30 | SO | [III APa 58/19](https://www.saos.org.pl/judgments/504623) | Uzasadnienie
 - 2020-02-26 | SO | [III APa 60/18](https://www.saos.org.pl/judgments/504630) | Uzasadnienie
 - 2019-12-13 | SO | [III APa 17/19](https://www.saos.org.pl/judgments/504598) | Uzasadnienie
+- 2025-03-05 | SO | [VI P 300/21](https://www.saos.org.pl/judgments/545974) | Wyrok
 - 2018-10-04 | SO | [VII Pa 80/18](https://www.saos.org.pl/judgments/375803) | Wyrok
 - 2013-06-27 | SO | [VI P 70/10](https://www.saos.org.pl/judgments/41473) | Wyrok
 - 2021-12-21 | SO | [VIII Pa 145/21](https://www.saos.org.pl/judgments/455831) | Uzasadnienie
@@ -582,8 +583,9 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2014-10-24 | SO | [VII Pa 272/14](https://www.saos.org.pl/judgments/65614) | Uzasadnienie
 - 2014-05-29 | SO | [VII Pa 92/14](https://www.saos.org.pl/judgments/48171) | Uzasadnienie
 
-## art. 24 (287)
+## art. 24 (290)
 
+- 2026-04-07 | SO | [III AUa 26/26](https://www.saos.org.pl/judgments/546030) | Wyrok
 - 2025-12-17 | SO | [III AUa 772/25](https://www.saos.org.pl/judgments/541607) | Wyrok
 - 2025-10-21 | SO | [III AUa 419/25](https://www.saos.org.pl/judgments/539741) | Wyrok
 - 2025-10-01 | SO | [III AUa 505/25](https://www.saos.org.pl/judgments/541850) | Wyrok
@@ -660,6 +662,8 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2026-01-21 | SO | [III AUa 2733/25](https://www.saos.org.pl/judgments/542130) | Uzasadnienie
 - 2025-06-11 | SO | [III AUa 631/25](https://www.saos.org.pl/judgments/541214) | Uzasadnienie
 - 2025-05-29 | SO | [III AUa 837/25](https://www.saos.org.pl/judgments/539414) | Uzasadnienie
+- 2026-04-23 | SO | [VII U 506/25](https://www.saos.org.pl/judgments/546611) | Wyrok
+- 2026-04-22 | SO | [VII U 1959/25](https://www.saos.org.pl/judgments/546609) | Wyrok
 - 2026-02-27 | SO | [VII U 2274/25](https://www.saos.org.pl/judgments/544422) | Wyrok
 - 2025-12-31 | SO | [VII U 1847/24](https://www.saos.org.pl/judgments/542026) | Wyrok
 - 2025-12-31 | SO | [VII U 51/25](https://www.saos.org.pl/judgments/540819) | Wyrok
@@ -902,11 +906,12 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2016-05-16 | SO | [VIII U 2021/15](https://www.saos.org.pl/judgments/226139) | Uzasadnienie
 - 2016-02-16 | SO | [VIII U 15/15](https://www.saos.org.pl/judgments/205013) | Zarządzenie
 
-## art. 26 (279)
+## art. 26 (281)
 
 - 1997-09-05 | SN | [I PKN 195/97](https://www.saos.org.pl/judgments/77772) | Wyrok ★
 - 1997-04-17 | SN | [I PKN 110/97](https://www.saos.org.pl/judgments/77575) | Wyrok ★
 - 1996-03-28 | SN | [I PRN 1/96](https://www.saos.org.pl/judgments/77119) | Wyrok ★
+- 2026-04-07 | SO | [III AUa 26/26](https://www.saos.org.pl/judgments/546030) | Wyrok
 - 2025-10-21 | SO | [III AUa 419/25](https://www.saos.org.pl/judgments/539741) | Wyrok
 - 2025-10-01 | SO | [III AUa 505/25](https://www.saos.org.pl/judgments/541850) | Wyrok
 - 2025-09-03 | SO | [III AUa 317/25](https://www.saos.org.pl/judgments/541317) | Wyrok
@@ -991,6 +996,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2014-04-09 | SO | [III AUa 122/14](https://www.saos.org.pl/judgments/43679) | Wyrok
 - 2025-07-10 | SO | [III AUa 1106/25](https://www.saos.org.pl/judgments/539340) | Uzasadnienie
 - 2023-05-22 | SO | [III AUa 1452/21](https://www.saos.org.pl/judgments/521367) | Uzasadnienie
+- 2026-04-22 | SO | [VII U 1959/25](https://www.saos.org.pl/judgments/546609) | Wyrok
 - 2026-02-27 | SO | [VII U 2274/25](https://www.saos.org.pl/judgments/544422) | Wyrok
 - 2025-12-31 | SO | [VII U 1847/24](https://www.saos.org.pl/judgments/542026) | Wyrok
 - 2025-12-31 | SO | [VII U 51/25](https://www.saos.org.pl/judgments/540819) | Wyrok
@@ -1332,8 +1338,9 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 
 - 2015-05-07 | SO | [VII Pa 16/15](https://www.saos.org.pl/judgments/153026) | Uzasadnienie
 
-## art. 46 (320)
+## art. 46 (323)
 
+- 2026-04-07 | SO | [III AUa 26/26](https://www.saos.org.pl/judgments/546030) | Wyrok
 - 2025-12-17 | SO | [III AUa 772/25](https://www.saos.org.pl/judgments/541607) | Wyrok
 - 2025-10-21 | SO | [III AUa 419/25](https://www.saos.org.pl/judgments/539741) | Wyrok
 - 2025-10-01 | SO | [III AUa 505/25](https://www.saos.org.pl/judgments/541850) | Wyrok
@@ -1433,6 +1440,8 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2025-06-11 | SO | [III AUa 631/25](https://www.saos.org.pl/judgments/541214) | Uzasadnienie
 - 2025-05-29 | SO | [III AUa 837/25](https://www.saos.org.pl/judgments/539414) | Uzasadnienie
 - 2023-05-22 | SO | [III AUa 1452/21](https://www.saos.org.pl/judgments/521367) | Uzasadnienie
+- 2026-04-23 | SO | [VII U 506/25](https://www.saos.org.pl/judgments/546611) | Wyrok
+- 2026-04-22 | SO | [VII U 1959/25](https://www.saos.org.pl/judgments/546609) | Wyrok
 - 2026-02-27 | SO | [VII U 2274/25](https://www.saos.org.pl/judgments/544422) | Wyrok
 - 2025-12-31 | SO | [VII U 1847/24](https://www.saos.org.pl/judgments/542026) | Wyrok
 - 2025-12-31 | SO | [VII U 51/25](https://www.saos.org.pl/judgments/540819) | Wyrok
@@ -1655,12 +1664,13 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2016-05-05 | SO | [VIII U 2671/15](https://www.saos.org.pl/judgments/223416) | Zarządzenie
 - 2016-02-16 | SO | [VIII U 15/15](https://www.saos.org.pl/judgments/205013) | Zarządzenie
 
-## art. 47 (7)
+## art. 47 (8)
 
 - 2025-07-07 | SO | [III AUa 147/25](https://www.saos.org.pl/judgments/542880) | Wyrok
 - 2020-09-16 | SO | [III AUa 509/17](https://www.saos.org.pl/judgments/425706) | Wyrok
 - 2017-06-08 | SO | [III AUa 624/16](https://www.saos.org.pl/judgments/300818) | Wyrok
 - 2012-08-24 | SO | [III AUa 59/12](https://www.saos.org.pl/judgments/714) | Wyrok
+- 2026-04-23 | SO | [VII U 506/25](https://www.saos.org.pl/judgments/546611) | Wyrok
 - 2025-09-30 | SO | [VII U 1159/24](https://www.saos.org.pl/judgments/536581) | Wyrok
 - 2014-01-14 | SO | [V U 1054/13](https://www.saos.org.pl/judgments/35650) | Wyrok
 - 2025-11-26 | SO | [VIII U 1520/25](https://www.saos.org.pl/judgments/542487) | Uzasadnienie
@@ -1678,8 +1688,9 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2021-03-30 | SO | [III AUa 934/20](https://www.saos.org.pl/judgments/440491) | Wyrok
 - 2017-03-30 | SO | [III AUa 1590/16](https://www.saos.org.pl/judgments/289135) | Wyrok
 
-## art. 50 (327)
+## art. 50 (330)
 
+- 2026-04-07 | SO | [III AUa 26/26](https://www.saos.org.pl/judgments/546030) | Wyrok
 - 2025-12-17 | SO | [III AUa 772/25](https://www.saos.org.pl/judgments/541607) | Wyrok
 - 2025-10-21 | SO | [III AUa 419/25](https://www.saos.org.pl/judgments/539741) | Wyrok
 - 2025-10-01 | SO | [III AUa 505/25](https://www.saos.org.pl/judgments/541850) | Wyrok
@@ -1782,6 +1793,8 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2025-06-11 | SO | [III AUa 631/25](https://www.saos.org.pl/judgments/541214) | Uzasadnienie
 - 2025-05-29 | SO | [III AUa 837/25](https://www.saos.org.pl/judgments/539414) | Uzasadnienie
 - 2023-05-22 | SO | [III AUa 1452/21](https://www.saos.org.pl/judgments/521367) | Uzasadnienie
+- 2026-04-23 | SO | [VII U 506/25](https://www.saos.org.pl/judgments/546611) | Wyrok
+- 2026-04-22 | SO | [VII U 1959/25](https://www.saos.org.pl/judgments/546609) | Wyrok
 - 2026-02-27 | SO | [VII U 2274/25](https://www.saos.org.pl/judgments/544422) | Wyrok
 - 2025-12-31 | SO | [VII U 1847/24](https://www.saos.org.pl/judgments/542026) | Wyrok
 - 2025-12-31 | SO | [VII U 51/25](https://www.saos.org.pl/judgments/540819) | Wyrok
@@ -2302,7 +2315,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2015-03-24 | SO | [V U 3202/14](https://www.saos.org.pl/judgments/153016) | Wyrok
 - 2016-03-22 | SO | [VII Pa 29/16](https://www.saos.org.pl/judgments/214910) | Uzasadnienie
 
-## art. 88 (610)
+## art. 88 (615)
 
 - 2005-09-08 | TK | [P 17/04](https://www.saos.org.pl/judgments/107228) | Wyrok ★
 - 1996-05-28 | SN | [II UZP 11/96](https://www.saos.org.pl/judgments/77171) | Uchwała ★
@@ -2316,6 +2329,9 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 1997-09-09 | SN | [II UKN 220/97](https://www.saos.org.pl/judgments/77800) | Wyrok ★
 - 1997-07-30 | SN | [II UKN 201/97](https://www.saos.org.pl/judgments/77750) | Wyrok ★
 - 1996-12-17 | SN | [II UKN 36/96](https://www.saos.org.pl/judgments/77377) | Wyrok ★
+- 2026-04-28 | SO | [III AUa 595/25](https://www.saos.org.pl/judgments/545511) | Wyrok
+- 2026-04-07 | SO | [III AUa 26/26](https://www.saos.org.pl/judgments/546030) | Wyrok
+- 2026-03-31 | SO | [III AUa 720/25](https://www.saos.org.pl/judgments/545956) | Wyrok
 - 2025-12-17 | SO | [III AUa 772/25](https://www.saos.org.pl/judgments/541607) | Wyrok
 - 2025-11-21 | SO | [III AUa 160/25](https://www.saos.org.pl/judgments/538756) | Wyrok
 - 2025-11-21 | SO | [III AUa 147/25](https://www.saos.org.pl/judgments/538755) | Wyrok
@@ -2588,6 +2604,8 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2023-05-22 | SO | [III AUa 1452/21](https://www.saos.org.pl/judgments/521367) | Uzasadnienie
 - 2023-05-09 | SO | [III AUa 260/21](https://www.saos.org.pl/judgments/519972) | Uzasadnienie
 - 2014-04-24 | SO | [III AUa 1508/13](https://www.saos.org.pl/judgments/46038) | Uzasadnienie
+- 2026-04-23 | SO | [VII U 506/25](https://www.saos.org.pl/judgments/546611) | Wyrok
+- 2026-04-22 | SO | [VII U 1959/25](https://www.saos.org.pl/judgments/546609) | Wyrok
 - 2026-02-27 | SO | [VII U 2274/25](https://www.saos.org.pl/judgments/544422) | Wyrok
 - 2025-12-31 | SO | [VII U 1847/24](https://www.saos.org.pl/judgments/542026) | Wyrok
 - 2025-12-31 | SO | [VII U 51/25](https://www.saos.org.pl/judgments/540819) | Wyrok
@@ -3063,8 +3081,9 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 
 - 2017-11-21 | SO | [VII U 1725/16](https://www.saos.org.pl/judgments/324179) | Wyrok
 
-## art. 184 (317)
+## art. 184 (320)
 
+- 2026-04-07 | SO | [III AUa 26/26](https://www.saos.org.pl/judgments/546030) | Wyrok
 - 2025-12-17 | SO | [III AUa 772/25](https://www.saos.org.pl/judgments/541607) | Wyrok
 - 2025-10-21 | SO | [III AUa 419/25](https://www.saos.org.pl/judgments/539741) | Wyrok
 - 2025-10-01 | SO | [III AUa 505/25](https://www.saos.org.pl/judgments/541850) | Wyrok
@@ -3164,6 +3183,8 @@ Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 - 2025-07-10 | SO | [III AUa 1106/25](https://www.saos.org.pl/judgments/539340) | Uzasadnienie
 - 2025-06-11 | SO | [III AUa 631/25](https://www.saos.org.pl/judgments/541214) | Uzasadnienie
 - 2023-05-22 | SO | [III AUa 1452/21](https://www.saos.org.pl/judgments/521367) | Uzasadnienie
+- 2026-04-23 | SO | [VII U 506/25](https://www.saos.org.pl/judgments/546611) | Wyrok
+- 2026-04-22 | SO | [VII U 1959/25](https://www.saos.org.pl/judgments/546609) | Wyrok
 - 2026-02-27 | SO | [VII U 2274/25](https://www.saos.org.pl/judgments/544422) | Wyrok
 - 2025-12-31 | SO | [VII U 1847/24](https://www.saos.org.pl/judgments/542026) | Wyrok
 - 2025-12-31 | SO | [VII U 51/25](https://www.saos.org.pl/judgments/540819) | Wyrok

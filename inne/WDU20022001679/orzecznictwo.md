@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.*
 
-Łącznie: **527** orzeczeń
-(pominięto 300 orzeczeń sądów rejonowych)
+Łącznie: **528** orzeczeń
+(pominięto 301 orzeczeń sądów rejonowych)
 
 ## art. 1 (5)
 
@@ -580,7 +580,7 @@ Orzeczenia powołujące: *Ustawa z dnia 10 października 2002 r. o minimalnym wy
 
 - 2019-07-19 | SO | [VIII Ua 40/19](https://www.saos.org.pl/judgments/391218) | Uzasadnienie
 
-## (ogólnie) (134)
+## (ogólnie) (135)
 
 - 2025-05-21 | SO | [III AUa 817/24](https://www.saos.org.pl/judgments/537941) | Wyrok
 - 2024-05-28 | SO | [I ACa 2656/23](https://www.saos.org.pl/judgments/519159) | Wyrok
@@ -639,6 +639,7 @@ Orzeczenia powołujące: *Ustawa z dnia 10 października 2002 r. o minimalnym wy
 - 2012-05-16 | SO | [II AKa 119/12](https://www.saos.org.pl/judgments/135922) | Wyrok
 - 2012-02-29 | SO | [I ACa 96/12](https://www.saos.org.pl/judgments/5551) | Wyrok
 - 2012-02-02 | SO | [III AUa 1553/11](https://www.saos.org.pl/judgments/1645) | Wyrok
+- 2026-03-18 | SO | [VII U 1538/24](https://www.saos.org.pl/judgments/545342) | Wyrok
 - 2025-01-29 | SO | [VII U 1226/23](https://www.saos.org.pl/judgments/522856) | Wyrok
 - 2024-12-23 | SO | [IV Ka 1102/24](https://www.saos.org.pl/judgments/526439) | Wyrok
 - 2024-03-22 | SO | [VIII GC 332/23](https://www.saos.org.pl/judgments/521806) | Wyrok

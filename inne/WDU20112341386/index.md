@@ -8,7 +8,7 @@ pos: 1386
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o współpracy rozwojowej
@@ -55,9 +55,25 @@ Art. 20–22. (pominięte)
 
 **Art. 3.** W realizowaniu współpracy rozwojowej mogą uczestniczyć w szczególności:
 
+- **1)** jednostki sektora finansów publicznych w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. );
+- **2)** podmioty, które mogą prowadzić działalność pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338);
+- **3)** przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. );
+- **4)** instytuty badawcze w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080);
+- **5)** BGK.
+
 #### Rozdział 2 Formy współpracy rozwojowej
 
 **Art. 4.** Współpraca rozwojowa może być realizowana w szczególności w formie:
+
+- **1)** finansowania zadań powierzonych podmiotom uczestniczącym w realizowaniu współpracy rozwojowej;
+- **2)** przekazywania środków finansowych do budżetu państwa rozwijającego się;
+- **3)** udzielania kredytów i pożyczek;
+- **4)** redukcji oraz konwersji zadłużenia państwa rozwijającego się;
+- **5)** współfinansowania lub udzielania wsparcia technicznego przy wdrażaniu działań finansowych w szczególności z budżetów innych państw, Unii Europejskiej lub innych organizacji międzynarodowych;
+- **6)** wpłaty do międzynarodowych organizacji, instytucji, programów i funduszy;
+- **7)** organizowania szkoleń i doradztwa dla podmiotów uczestniczących w realizowaniu współpracy rozwojowej;
+- **8)** opracowywania, wydawania i rozpowszechniania publikacji;
+- **9)** organizowania działań informacyjnych.
 
 #### Rozdział 3 Zasady realizacji współpracy rozwojowej
 
@@ -103,7 +119,7 @@ Art. 20–22. (pominięte)
 
 3. Ze względu na szczególne warunki polityczne w państwie, na rzecz którego ma być realizowane zadanie z zakresu współpracy rozwojowej, minister właściwy do spraw zagranicznych może zlecić realizację tego zadania Fundacji Solidarności Międzynarodowej. Na realizację zadania Fundacja otrzymuje dotację celową z części budżetowej, której dysponentem jest minister właściwy do spraw zagranicznych.
 
-4. Rada fundacji, o której mowa w ust. 3, składa się z posłów i senatorów powoływanych na 4-letnią kadencję przez ministra właściwego do spraw zagranicznych w porozumieniu odpowiednio z Marszałkiem i Marszałkiem Senatu oraz innych osób posiadających doświadczenie w zakresie współpracy rozwojowej.
+4. Rada fundacji, o której mowa w ust. 3, składa się z posłów i senatorów powoływanych na 4-letnią kadencję przez ministra właściwego do spraw zagranicznych w porozumieniu odpowiednio z Marszałkiem Sejmu i Marszałkiem Senatu oraz innych osób posiadających doświadczenie w zakresie współpracy rozwojowej.
 
 4a. Minister właściwy do spraw zagranicznych powołuje i odwołuje Prezesa Zarządu fundacji, o której mowa w ust. 3, po zasięgnięciu opinii jej Rady.
 
@@ -162,6 +178,11 @@ Art. 20–22. (pominięte)
 
 **Art. 16.** Do zadań Rady należy w szczególności:
 
+- **1)** przedstawianie propozycji dotyczących priorytetów geograficznych i tematycznych współpracy rozwojowej;
+- **2)** opiniowanie projektów Programu i Planu;
+- **3)** opiniowanie rocznych sprawozdań z realizacji przez organy administracji rządowej zadań z zakresu współpracy rozwojowej;
+- **4)** opiniowanie projektów dokumentów rządowych związanych ze współpracą rozwojową.
+
 **Art. 17.**
 
 1. Rada składa się z 25 członków.
@@ -205,6 +226,14 @@ Art. 20–22. (pominięte)
 #### Rozdział 5a Zasady funkcjonowania FIWR oraz realizacji współpracy rozwojowej BGK
 
 **Art. 19a.** Ilekroć w niniejszym rozdziale jest mowa o instrumentach, rozumie się przez to instrumenty, w tym finansowane lub współfinansowane ze środków FIWR, wykorzystywane do realizacji współpracy rozwojowej BGK:
+
+- **1)** instrumenty dłużne, w tym pożyczki lub kredyty;
+- **2)** instrumenty kapitałowe, w tym nabywanie lub obejmowanie akcji, udziałów, jednostek uczestnictwa lub certyfikatów inwestycyjnych, przystępowanie do spółki komandytowej w charakterze komandytariusza, do spółki komandytowo-akcyjnej w charakterze akcjonariusza lub powierzanie środków pieniężnych w zarządzanie;
+- **3)** gwarancje lub poręczenia, w tym gwarancje lub poręczenia portfela kredytów w rozumieniu art. 128b ust. 2 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ) lub portfela innych zobowiązań w rozumieniu art. 128b ust. 2 pkt 2 tej ustawy, a także gwarancje lub reporęczenia, w tym rewerencje lub reporęczenia tych portfeli;
+- **4)** bezzwrotne instrumenty współpracy rozwojowej, w tym pomoc techniczną, dopłaty do kapitału, umorzenia kapitału lub dopłaty do odsetek;
+- **5)** mechanizmy kompensacji i podziału ryzyka inne niż wskazane w pkt 3;
+- **6)** mieszane instrumenty, składające się z instrumentów, o których mowa w pkt 1–5;
+- **7)** inne niż wymienione w pkt 1–6 instrumenty określone w aktach, na podstawie których zostały przekazane środki, o których mowa w art. 19b ust. 1 pkt 2.
 
 **Art. 19b.**
 

@@ -8,10 +8,10 @@ pos: 1926
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 13 września 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1926 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 29 sierpnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,48 +25,52 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001926) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1926/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ dnia 29 sierpnia 2022 r.
-sprawie korzystania przez żołnierzy niezawodowych prawa doradztwa zawodowego lub pośrednictwa pracy Na podstawie art. 308 ust. 7 ustawy dnia 11 marca 2022 r. obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725) zarządza się, co następuje:
-1. Rozporządzenie określa:
-1) tryb korzystania doradztwa zawodowego lub pośrednictwa pracy przez:
-a) żołnierza, który został zwolniony zasadniczej służby wojskowej albo terytorialnej służby wojskowej wskutek ustalenia przez wojskową komisję lekarską trwałej lub czasowej niezdolności służby wojskowej następstwie wypadku lub choroby pozostających związku pełnieniem służby wojskowej,
-b) małżonka oraz dzieci, którzy pozostawali na utrzymaniu żołnierza, który zaginął lub poniósł śmierć związku wykonywaniem zadań służbowych albo zmarł okresie 3 lat po zwolnieniu ze służby wojskowej następstwie wypadku lub choroby pozostających związku pełnieniem służby wojskowej,
-c) małżonka oraz dzieci, którzy pozostawali na utrzymaniu żołnierza zasadniczej służby wojskowej pełnionej jako nadterminowa okresie od dnia 22 stycznia 1992 r. dnia 31 grudnia 2009 r., który zaginął lub poniósł śmierć związku wykonywaniem zadań służbowych albo zmarł okresie 3 lat po zwolnieniu ze służby wojskowej następstwie wypadku lub choroby pozostających związku pełnieniem służby wojskowej zwanych dalej „uprawnionymi”;
-2) dokumenty, które należy dołączyć wniosku, którym mowa art. 308 ust. 5 ustawy dnia 11 marca 2022 r.
-obronie Ojczyzny, zwanej dalej „ustawą”;
-3) terminy zakresie:
-a) przesyłania dokumentu potwierdzającego ukończenie
-b) zwrotu kosztów zawodowego.
-2. 1. Uprawniony ubiegający się pomoc zawodowego składa pisemny wniosek dyrektora Wojskowego Biura Emerytalnego, zwanego dalej „dyrektorem WBE”, wskazanego przepisach wydanych na podstawie art. 236 ust. 17 ustawy, właściwego ze względu na miejsce zamieszkania uprawnionego.
+w sprawie korzystania przez żołnierzy niezawodowych z prawa do pomocy w zakresie przekwalifikowania zawodowego, doradztwa zawodowego lub pośrednictwa pracy Na podstawie art. 308 ust. 7 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) tryb korzystania z pomocy w zakresie przekwalifikowania zawodowego, doradztwa zawodowego lub pośrednictwa pracy przez:
+a) żołnierza, który został zwolniony z zasadniczej służby wojskowej albo terytorialnej służby wojskowej wskutek ustalenia przez wojskową komisję lekarską trwałej lub czasowej niezdolności do służby wojskowej w następstwie wypadku lub choroby pozostających w związku z pełnieniem służby wojskowej,
+b) małżonka oraz dzieci, którzy pozostawali na utrzymaniu żołnierza, który zaginął lub poniósł śmierć w związku z wykonywaniem zadań służbowych albo zmarł w okresie 3 lat po zwolnieniu ze służby wojskowej w następstwie wypadku lub choroby pozostających w związku z pełnieniem służby wojskowej,
+c) małżonka oraz dzieci, którzy pozostawali na utrzymaniu żołnierza zasadniczej służby wojskowej pełnionej jako nadterminowa w okresie od dnia 22 stycznia 1992 r. do dnia 31 grudnia 2009 r., który zaginął lub poniósł śmierć w związku z wykonywaniem zadań służbowych albo zmarł w okresie 3 lat po zwolnieniu ze służby wojskowej w następstwie wypadku lub choroby pozostających w związku z pełnieniem służby wojskowej – zwanych dalej „uprawnionymi”;
+2) dokumenty, które należy dołączyć do wniosku, o którym mowa w art. 308 ust. 5 ustawy z dnia 11 marca 2022 r.
+o obronie Ojczyzny, zwanej dalej „ustawą”;
+3) terminy w zakresie:
+a) przesyłania dokumentu potwierdzającego ukończenie przekwalifikowania zawodowego,
+b) zwrotu kosztów przekwalifikowania zawodowego.
+§ 2. 1. Uprawniony ubiegający się o pomoc w zakresie przekwalifikowania zawodowego składa pisemny wniosek do dyrektora Wojskowego Biura Emerytalnego, zwanego dalej „dyrektorem WBE”, wskazanego w przepisach wydanych na podstawie art. 236 ust. 17 ustawy, właściwego ze względu na miejsce zamieszkania uprawnionego.
 2. Do wniosku:
-1) uprawniony, którym mowa 1 pkt 1 lit. a, dołącza:
-a) decyzję zwolnieniu ze służby wojskowej,
-b) orzeczenie Wojskowej Komisji Lekarskiej ustaleniu trwałej lub czasowej niezdolności służby wojskowej,
-c) zaświadczenie ośrodka szkolenia uprawnieniach prowadzenia szkoleń,
-c) zaświadczenie ośrodka szkolenia uprawnieniach prowadzenia szkoleń;
-3) uprawnione dziecko, którym mowa 1 pkt 1 lit. b i c, lub jego opiekun prawny dołączają:
+1) uprawniony, o którym mowa w § 1 pkt 1 lit. a, dołącza:
+a) decyzję o zwolnieniu ze służby wojskowej,
+b) orzeczenie Wojskowej Komisji Lekarskiej o ustaleniu trwałej lub czasowej niezdolności do służby wojskowej,
+c) zaświadczenie z ośrodka szkolenia o uprawnieniach do prowadzenia szkoleń,
+d) protokół powypadkowy oraz decyzję o przyznaniu świadczeń odszkodowawczych z tytułu wypadku lub choroby pozostających w związku z pełnieniem służby wojskowej poza granicami państwa ‒ w przypadku żołnierza, o którym mowa w art. 308 ust. 2 ustawy;
+2) uprawniony małżonek, o którym mowa w § 1 pkt 1 lit. b i c, dołącza:
+a) odpis skrócony aktu małżeństwa,
+b) dokument potwierdzający zaginięcie lub śmierć żołnierza w związku z wykonywaniem zadań służbowych,
+c) zaświadczenie z ośrodka szkolenia o uprawnieniach do prowadzenia szkoleń;
+3) uprawnione dziecko, o którym mowa w § 1 pkt 1 lit. b i c, lub jego opiekun prawny dołączają:
 a) odpis skrócony aktu urodzenia,
-b) dokument potwierdzający zaginięcie lub śmierć żołnierza związku wykonywaniem zadań służbowych,
-c) zaświadczenie ośrodka szkolenia uprawnieniach prowadzenia szkoleń,
-d) oświadczenie stanie cywilnym,
-e) zaświadczenie pobieraniu nauki,
-f) orzeczenie niepełnosprawności przypadku dzieci, których mowa art. 2 pkt 7 lit. b ustawy.
-3. Wniosek składa się, według wyboru uprawnionego, za pośrednictwem dyrektora Centralnego Ośrodka Aktywizacji Zawodowej Warszawie, zwanego dalej „dyrektorem COAZ”, albo kierownika ośrodka aktywizacji zawodowej, zwanego dalej „kierownikiem OAZ”, wskazanych przepisach wydanych na podstawie art. 236 ust. 17 ustawy lub szefa wojskowego centrum rekrutacji, zwanego dalej „szefem WCR”, właściwych dla miejsca zamieszkania uprawnionego.
-4. W przypadku złożenia wniosku za pośrednictwem szefa WCR wniosek ten wraz dokumentami, których mowa ust. 2, szef WCR przesyła terminie 7 dni od dnia jego otrzymania dyrektora WBE za pośrednictwem dyrektora COAZ albo kierownika OAZ.
-5. Dyrektor COAZ albo kierownik OAZ przesyła wniosek wraz dokumentami, których mowa ust. 2, oraz informacją dotychczasowym korzystaniu przez uprawnionego terminie 7 dni od dnia jego otrzymania, dyrektora WBE.
-6. Informację przyznaniu dotyczącej zawodowego i jej dyrektor WBE przekazuje, terminie 14 dni od dnia jej przyznania, kierownikowi komórki organizacyjnej właściwej spraw socjalnych, którym mowa art. 236 ust. 16 pkt 1 ustawy, oraz dyrektorowi COAZ albo kierownikowi OAZ, za którego pośrednictwem został złożony wniosek.
-3. 1. Zwrotu kosztów zawodowego dokonuje dyrektor WBE terminie:
-1) 21 dni roboczych od dnia przedstawienia przez uprawnionego oryginału dokumentu potwierdzającego opłacenie kosztów zawodowego oraz oryginału dokumentu potwierdzającego ukończenie przekwalifikowania zawodowego ‒ przez wypłatę środków uprawnionemu albo
-2) 21 dni roboczych od dnia przedstawienia przez uprawnionego albo ośrodek szkolenia realizujący przekwalifikowanie zawodowe oryginału faktury lub rachunku wystawionego przez ten ośrodek przez przekazanie środków finansowych na rachunek płatniczy tego ośrodka.
-2. Zwrotu kosztów przejazdów miejsca zamieszkania ośrodka szkolenia, którym następuje przekwalifikowanie zawodowe, i powrotem oraz kosztów zakwaterowania okresie zawodowego dokonuje dyrektor WBE terminie 21 dni roboczych od dnia przedstawienia oświadczenia faktycznie poniesionych kosztach potwierdzonych oryginałami dowodów wpłaty, rachunków i biletów wysokości limitów określonych art. 236 ust. 9 pkt 2 i 3 ustawy.
-3. Zwrotu kosztów których mowa ust. 1 pkt 2 i ust. 2, uprawniony dokonuje terminie 14 dni od dnia doręczenia uprawnionemu wezwania od dyrektora WBE, który przyznał tę pomoc, wysokości i na rachunek bankowy określonych tym wezwaniu.
-4. Uprawniony przypadku, którym mowa w:
-1) 3 ust. 1 pkt 1, przedstawia właściwemu dyrektorowi WBE oryginał dokumentu potwierdzającego ukończenie przekwalifikowania terminie przedstawienia oryginału dokumentu potwierdzającego opłacenie kosztów zawodowego;
-na miejsce zamieszkania uprawnionego.
-2. Dyrektor COAZ lub kierownik OAZ niezwłocznie informują uprawnionego zakwalifikowaniu i terminie realizacji pomocy. W przypadku braku możliwości realizacji wybranego rodzaju uprawniony może uczestniczyć innych, dostępnych zajęciach, bez konieczności składania kolejnego wniosku.
-6. 1. Uprawniony ubiegający się pomoc pośrednictwa pracy składa pisemny wniosek tę pomoc bezpośrednio dyrektora COAZ albo kierownika OAZ, wskazanych przepisach wydanych na podstawie art. 236 ust. 17 ustawy, lub szefa WCR, właściwych ze względu na miejsce zamieszkania uprawnionego.
-2. Uprawnionemu dyrektor COAZ, kierownik OAZ lub szef WCR, którego złożono wniosek, przedstawia, miarę możliwości, oferty pracy na wolnych stanowiskach pracy rejonie miejsca zamieszkania, uwzględniając potrzeby uprawnionych i posiadane kwalifikacje oraz wymagania związane zatrudnieniem na konkretnym stanowisku pracy.
-3. W przypadku braku ofert pracy miejscu zamieszkania uprawnionego dyrektor COAZ, kierownik OAZ lub szef WCR, którego złożono wniosek, porozumieniu innymi podmiotami, których mowa art. 236 ust. 16 ustawy, prowadzącymi pośrednictwo pracy, przedstawia uprawnionemu, miarę możliwości, oferty pracy innych rejonach przez niego wskazanych.
-7. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: up. M. Wiśniewski
+b) dokument potwierdzający zaginięcie lub śmierć żołnierza w związku z wykonywaniem zadań służbowych,
+c) zaświadczenie z ośrodka szkolenia o uprawnieniach do prowadzenia szkoleń,
+d) oświadczenie o stanie cywilnym,
+e) zaświadczenie o pobieraniu nauki,
+f) orzeczenie o niepełnosprawności w przypadku dzieci, o których mowa w art. 2 pkt 7 lit. b ustawy.
+3. Wniosek składa się, według wyboru uprawnionego, za pośrednictwem dyrektora Centralnego Ośrodka Aktywizacji Zawodowej w Warszawie, zwanego dalej „dyrektorem COAZ”, albo kierownika ośrodka aktywizacji zawodowej, zwanego dalej „kierownikiem OAZ”, wskazanych w przepisach wydanych na podstawie art. 236 ust. 17 ustawy lub szefa wojskowego centrum rekrutacji, zwanego dalej „szefem WCR”, właściwych dla miejsca zamieszkania uprawnionego.
+4. W przypadku złożenia wniosku za pośrednictwem szefa WCR wniosek ten wraz z dokumentami, o których mowa w ust. 2, szef WCR przesyła w terminie 7 dni od dnia jego otrzymania do dyrektora WBE za pośrednictwem dyrektora COAZ albo kierownika OAZ.
+5. Dyrektor COAZ albo kierownik OAZ przesyła wniosek wraz z dokumentami, o których mowa w ust. 2, oraz informacją o dotychczasowym korzystaniu przez uprawnionego z pomocy w zakresie przekwalifikowania zawodowego, w terminie 7 dni od dnia jego otrzymania, do dyrektora WBE.
+6. Informację o przyznaniu pomocy dotyczącej przekwalifikowania zawodowego i jej zakresie dyrektor WBE przekazuje, w terminie 14 dni od dnia jej przyznania, kierownikowi komórki organizacyjnej właściwej do spraw socjalnych, o którym mowa w art. 236 ust. 16 pkt 1 ustawy, oraz dyrektorowi COAZ albo kierownikowi OAZ, za którego pośrednictwem został złożony wniosek.
+§ 3. 1. Zwrotu kosztów przekwalifikowania zawodowego dokonuje dyrektor WBE w terminie:
+1) 21 dni roboczych od dnia przedstawienia przez uprawnionego oryginału dokumentu potwierdzającego opłacenie kosztów przekwalifikowania zawodowego oraz oryginału dokumentu potwierdzającego ukończenie przekwalifikowania zawodowego ‒ przez wypłatę środków uprawnionemu albo
+2) 21 dni roboczych od dnia przedstawienia przez uprawnionego albo ośrodek szkolenia realizujący przekwalifikowanie zawodowe oryginału faktury lub rachunku wystawionego przez ten ośrodek – przez przekazanie środków finansowych na rachunek płatniczy tego ośrodka.
+2. Zwrotu kosztów przejazdów z miejsca zamieszkania do ośrodka szkolenia, w którym następuje przekwalifikowanie zawodowe, i z powrotem oraz kosztów zakwaterowania w okresie przekwalifikowania zawodowego dokonuje dyrektor WBE w terminie 21 dni roboczych od dnia przedstawienia oświadczenia o faktycznie poniesionych kosztach potwierdzonych oryginałami dowodów wpłaty, rachunków i biletów do wysokości limitów określonych w art. 236 ust. 9 pkt 2 i 3 ustawy.
+3. Zwrotu kosztów przekwalifikowania zawodowego, o których mowa w ust. 1 pkt 2 i ust. 2, uprawniony dokonuje w terminie 14 dni od dnia doręczenia uprawnionemu wezwania od dyrektora WBE, który przyznał tę pomoc, w wysokości i na rachunek bankowy określonych w tym wezwaniu.
+§ 4. Uprawniony w przypadku, o którym mowa w:
+1) § 3 ust. 1 pkt 1, przedstawia właściwemu dyrektorowi WBE oryginał dokumentu potwierdzającego ukończenie przekwalifikowania zawodowego, w terminie przedstawienia oryginału dokumentu potwierdzającego opłacenie kosztów przekwalifikowania zawodowego;
+2) § 3 ust. 1 pkt 2, przedstawia właściwemu dyrektorowi WBE oryginał dokumentu potwierdzającego ukończenie przekwalifikowania zawodowego, w terminie 30 dni od daty jego zakończenia.
+§ 5. 1. Uprawniony ubiegający się o pomoc w zakresie doradztwa zawodowego, realizowaną przez udział w zajęciach grupowych lub zajęciach indywidualnych, organizowanych przez Centralny Ośrodek Aktywizacji Zawodowej lub Ośrodek Aktywizacji Zawodowej, składa pisemny wniosek o doradztwo zawodowe bezpośrednio do dyrektora COAZ albo kierownika OAZ, wskazanych w przepisach wydanych na podstawie art. 236 ust. 17 ustawy, właściwego ze względu na miejsce zamieszkania uprawnionego.
+2. Dyrektor COAZ lub kierownik OAZ niezwłocznie informują uprawnionego o zakwalifikowaniu i terminie realizacji pomocy. W przypadku braku możliwości realizacji wybranego rodzaju pomocy uprawniony może uczestniczyć w innych, dostępnych zajęciach, bez konieczności składania kolejnego wniosku.
+§ 6. 1. Uprawniony ubiegający się o pomoc w zakresie pośrednictwa pracy składa pisemny wniosek o tę pomoc bezpośrednio do dyrektora COAZ albo kierownika OAZ, wskazanych w przepisach wydanych na podstawie art. 236 ust. 17 ustawy, lub szefa WCR, właściwych ze względu na miejsce zamieszkania uprawnionego.
+2. Uprawnionemu dyrektor COAZ, kierownik OAZ lub szef WCR, do którego złożono wniosek, przedstawia, w miarę możliwości, oferty pracy na wolnych stanowiskach pracy w rejonie miejsca zamieszkania, uwzględniając potrzeby uprawnionych i posiadane kwalifikacje oraz wymagania związane z zatrudnieniem na konkretnym stanowisku pracy.
+3. W przypadku braku ofert pracy w miejscu zamieszkania uprawnionego dyrektor COAZ, kierownik OAZ lub szef WCR, do którego złożono wniosek, w porozumieniu z innymi podmiotami, o których mowa w art. 236 ust. 16 ustawy, prowadzącymi pośrednictwo pracy, przedstawia uprawnionemu, w miarę możliwości, oferty pracy w innych rejonach przez niego wskazanych.
+§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Obrony Narodowej: z up. M. Wiśniewski
 

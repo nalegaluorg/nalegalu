@@ -8,10 +8,10 @@ pos: 1253
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 czerwca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1253 ProtokÓł do Układu o stabilizacji i stowarzyszeniu między Wspólnotami Europejskimi i ich państwami członkowskimi, z jednej strony, a republiką Serbii, z drugiej strony, w celu uwzględnienia przystąpienia republiki Chorwacji do Unii Europejskiej, sporządzony w Brukseli dnia 25 czerwca 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2018-06-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001253) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1253/text.pdf) |
-
-ProtokÓł do Układu o stabilizacji i stowarzyszeniu między Wspólnotami Europejskimi i ich państwami członkowskimi, z jednej strony, a republiką Serbii, z drugiej strony, w celu uwzględnienia przystąpienia republiki Chorwacji do Unii Europejskiej, sporządzony w Brukseli dnia 25 czerwca 2014 r.
 

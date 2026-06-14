@@ -1,6 +1,6 @@
-# Orzecznictwo — Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 2007 r. sygn. SK 29/05
+# Orzecznictwo — WDU20071230858
 
-Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 2007 r. sygn. SK 29/05*
+Orzeczenia powołujące: *WDU20071230858*
 
 Łącznie: **1** orzeczeń
 

@@ -8,10 +8,10 @@ pos: 327
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 lutego 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 327 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 8 lutego 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000327) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/327/text.pdf) |
 
-Poz. 327 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 8 lutego 2019 r.
-w sprawie reorganizacji Krajowego Instytutu Polityki Przestrzennej i Mieszkalnictwa Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2018 r. poz. 736 i 1669) zarządza się, co następuje: § 1. Krajowy Instytut Polityki Przestrzennej i Mieszkalnictwa z siedzibą w Warszawie, numer identyfikacyjny REGON 356582934, numer identyfikacji podatkowej NIP 677-22-01-345 , z dniem 1 marca 2019 r. otrzymuje nazwę Instytut Rozwoju Miast i Regionów.
+w sprawie reorganizacji Krajowego Instytutu Polityki Przestrzennej i Mieszkalnictwa Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2018 r. poz. 736 i 1669) zarządza się, co następuje:
+§ 1. Krajowy Instytut Polityki Przestrzennej i Mieszkalnictwa z siedzibą w Warszawie, numer identyfikacyjny REGON 356582934, numer identyfikacji podatkowej NIP 677-22-01-345 , z dniem 1 marca 2019 r. otrzymuje nazwę Instytut Rozwoju Miast i Regionów.
 § 2. Nadzór nad Instytutem Rozwoju Miast i Regionów sprawuje minister właściwy do spraw rozwoju regionalnego.
 § 3. Instytut Rozwoju Miast i Regionów prowadzi działalność w zakresie:
 1) polityki regionalnej, polityki miejskiej i rewitalizacji;

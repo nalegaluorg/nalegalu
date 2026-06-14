@@ -8,7 +8,7 @@ pos: 1149
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 38/A/2018 WYROK z dnia 6 czerwca 2018 r.

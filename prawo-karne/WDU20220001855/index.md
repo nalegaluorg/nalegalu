@@ -8,7 +8,7 @@ pos: 1855
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks karny wykonawczy oraz niektórych innych ustaw
@@ -28,6 +28,50 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1855/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, 472, 1236 i 2054 oraz z 2022 r. poz. 22 i 655) wprowadza się następujące zmiany:
+
+- **1)** w art. 6:
+    - **a)** w § 3 w pkt 3 na końcu dodaje się przecinek i dodaje się pkt 4 w brzmieniu: „4) są oczywiście bezzasadne”,
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. Skarga przysługuje skazanemu w terminie 7 dni od dnia, w którym dowiedział się on o zdarzeniu będącym podstawą skargi. Po upływie tego terminu skargę pozostawia się bez rozpoznania, chyba że niedotrzymanie terminu nastąpiło z przyczyn niezależnych od skazanego.”;
+
+- **2)** w art. 8 dodaje się § 4–6 w brzmieniu: „§ 4. Skazany pozbawiony wolności może korzystać co najmniej raz w tygodniu, w terminach ustalonych w porządku wewnętrznym obowiązującym w zakładzie karnym lub areszcie śledczym, z samoinkasującego aparatu telefonicznego do kontaktu z osobą, o której mowa w § 3. W szczególnie uzasadnionych wypadkach, jeżeli wyznaczone terminy czynności procesowych wskazują na konieczność niezwłocznego skorzystania z samoinkasującego aparatu telefonicznego, dyrektor zakładu karnego lub aresztu śledczego udziela zgody na kontakt poza terminami ustalonymi w porządku wewnętrznym obowiązującym w zakładzie karnym lub areszcie śledczym.
+
+§ 5. Warunkiem skorzystania przez skazanego pozbawionego wolności z samoinkasującego aparatu telefonicznego do kontaktu z osobą, o której mowa w § 3, jest uprzednie poinformowanie na piśmie dyrektora zakładu karnego lub aresztu śledczego przez osobę, o której mowa w § 3, o numerze telefonu tej osoby, pod którym można nawiązać z nią kontakt.
+
+§ 6. Skorzystanie przez skazanego pozbawionego wolności z samoinkasującego aparatu telefonicznego do kontaktu z osobą, o której mowa w § 3, w terminie, o którym mowa w § 4 zdanie pierwsze, następuje po zgłoszeniu przez skazanego pozbawionego wolności funkcjonariuszowi Służby Więziennej przed rozpoczęciem tego terminu.”;
+
+- **3)** w art. 9:
+    - **a)** § 3 i 4 otrzymują brzmienie: „§ 3. Postanowienie w postępowaniu wykonawczym staje się wykonalne z chwilą wydania, chyba że ustawa stanowi inaczej lub sąd wydający postanowienie albo sąd powołany do rozpoznania zażalenia wstrzyma jego wykonanie. Odmowa wstrzymania wykonania postanowienia nie wymaga uzasadnienia.
+
+§ 4. Złożenie wniosku o wydanie postanowienia w postępowaniu wykonawczym nie wstrzymuje wykonania orzeczenia, którego wniosek dotyczy, chyba że sąd właściwy do rozpoznania wniosku, w szczególnie uzasadnionych wypadkach, postanowi inaczej. Odmowa wstrzymania wykonania orzeczenia nie wymaga uzasadnienia.”,
+
+- **b)** dodaje się § 5–8 w brzmieniu: „§ 5. W posiedzeniu w przedmiocie wstrzymania wykonania orzeczenia, którego dotyczy wniosek o wydanie postanowienia w postępowaniu wykonawczym, ma prawo wziąć udział prokurator, jeżeli wstrzymanie wykonania orzeczenia skutkowałoby zwolnieniem skazanego z aresztu śledczego lub zakładu karnego. Posiedzenie wyznacza się niezwłocznie.
+
+§ 6. Jeżeli prokurator oświadczy, najpóźniej na posiedzeniu po ogłoszeniu postanowienia o wstrzymaniu wykonania orzeczenia, o którym mowa w § 5, że sprzeciwia się wstrzymaniu wykonania orzeczenia, postanowienie o wstrzymaniu wykonania orzeczenia staje się wykonalne z chwilą uprawomocnienia.
+
+§ 7. Na postanowienie o wstrzymaniu wykonania orzeczenia prokuratorowi przysługuje zażalenie.
+
+§ 8. Zażalenie, o którym mowa w § 7, podlega rozpoznaniu w terminie 7 dni od daty wpływu do sądu wyższej instancji.”;
+
+- **4)** w art. 11 § 1a i 2 otrzymują brzmienie: „§ 1a. Jeżeli pokrzywdzony złożył wniosek, o którym mowa w art. 168a § 1 lub 1a, sąd, o którym mowa w § 1, niezwłocznie przesyła dyrektorowi zakładu karnego lub aresztu śledczego ten wniosek oraz dane zawierające imię, nazwisko i adres pokrzywdzonego. W wypadku, o którym mowa w art. 168a § 6, sąd przesyła również dane zawierające imię, nazwisko i adres świadka. Jeżeli skazany przebywa w zakładzie karnym lub areszcie śledczym, sąd przesyła wniosek i wymienione dane nie później niż w terminie 7 dni od daty wpływu wniosku do sądu.
+
+§ 2. Sąd po wydaniu wyroku skazującego przesyła dyrektorowi aresztu śledczego lub zakładu karnego posiadane w sprawie informacje dotyczące osoby skazanego, w tym dane o uprzedniej karalności oraz zastosowanych wobec niego środkach wychowawczych lub poprawczych, informacje pozwalające na identyfikację skazanego, w szczególności numer Automatycznego Systemu Identyfikacji Daktyloskopijnej (AFIS), numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), rysopis oraz opis znaków szczególnych i tatuaży, a także fotografię skazanego, odpisy orzeczeń i opinii lekarskich oraz psychologicznych, w tym stwierdzających u skazanego uzależnienia od substancji psychoaktywnej, a także informacje dotyczące popełnienia przestępstwa określonego w art. 197–203 Kodeksu karnego w związku z zaburzeniami preferencji seksualnych, a po uprawomocnieniu się wyroku, na wniosek dyrektora zakładu lub aresztu – również akta sądowe.”;
+
+- **5)** w art. 12a § 1 otrzymuje brzmienie: „§ 1. W wezwaniu do uiszczenia grzywny, również orzeczonej jako kara zastępcza, nawiązki na rzecz Skarbu Państwa, kwoty pieniężnej stanowiącej przedmiot przepadku, nawiązki lub świadczenia pieniężnego orzeczonych na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej, kosztów sądowych lub pieniężnej kary porządkowej na podstawie prawomocnego orzeczenia sądowego wydanego w sprawie o przestępstwo lub wykroczenie, należy też pouczyć o tym, że w razie nieuiszczenia tych należności w całości w terminie wynikającym z przepisów niniejszego kodeksu sąd przekaże do biur informacji gospodarczej, działających na podstawie ustawy z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2021 r. poz. 2057), informację gospodarczą o powstaniu tej zaległości.”;
+- **6)** po art. 14 dodaje się art. 14a i art. 14b w brzmieniu: „Art. 14a. § 1. Jeżeli miejsce pobytu skazanego na karę pozbawienia wolności na terenie kraju nie jest znane, sąd wydaje postanowienie o poszukiwaniu go listem gończym.
+
+§ 2. W liście gończym podaje się:
+
+- **1)** sąd, który wydał postanowienie o poszukiwaniu listem gończym;
+- **2)** dane o osobie, które mogą ułatwić jej poszukiwanie, a przede wszystkim personalia, rysopis, znaki szczególne, miejsce zamieszkania i pracy, z dołączeniem w miarę możliwości fotografii poszukiwanego;
+- **3)** informację o orzeczeniu, stanowiącym podstawę pozbawienia wolności;
+- **4)** wezwanie każdego, kto zna miejsce pobytu poszukiwanego, do zawiadomienia o tym najbliższej jednostki Policji lub sądu;
+- **5)** ostrzeżenie o odpowiedzialności karnej za ukrywanie poszukiwanego lub dopomaganie mu w ucieczce.
+
+§ 3. W liście gończym można wyznaczyć nagrodę za ujęcie lub przyczynienie się do ujęcia poszukiwanego, a także udzielić zapewnienia o utrzymaniu tajemnicy co do osoby informującej.
+
+§ 4. List gończy podlega rozpowszechnieniu przez opublikowanie za pomocą Internetu, chyba że sąd postanowi inaczej.
+
+§ 5. Sąd, zależnie od potrzeby, może postanowić o rozpowszechnieniu listu gończego przez rozesłanie, rozplakatowanie lub opublikowanie, w szczególności za pomocą prasy, radia i telewizji.
 
 **Art. 14b.**
 
@@ -184,7 +228,9 @@ source: "isap-pdf"
     - **b)** w § 2 pkt 1 otrzymuje brzmienie: „1) warunków odbywania kary określonych w art. 88b § 1 pkt 1–4, 6, 8 i 9 oraz § 2 i 3,”,
     - **c)** po § 2 dodaje się § 2a i 2b w brzmieniu: „§ 2a. Objęcie skazanego szczególną ochroną powinno być dokonane zgodnie z celem tej czynności, w granicach niezbędnych do osiągnięcia tego celu, z poszanowaniem godności ludzkiej skazanego oraz bez wyrządzania zbędnych dolegliwości.
 
-§ 2b. Szczegółowy sposób realizacji szczególnej ochrony skazanego nie może być bardziej dolegliwy niż warunki odbywania kary, które mogą być stosowane wobec skazanego, o którym mowa w art. 88a § 1.”,
+§ 2b. Szczegółowy sposób realizacji szczególnej ochrony skazanego nie może być bardziej dolegliwy niż warunki odbywania kary, które mogą być stosowane wobec skazanego, o którym mowa w art. 88a
+
+§ 1. ”,
 
 - **d)** w § 3 zdanie pierwsze otrzymuje brzmienie: „Dyrektor zakładu karnego obejmuje skazanego szczególną ochroną z urzędu lub na wniosek sądu, przed którym toczy się postępowanie karne, albo prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze.”,
 - **e)** § 5 otrzymuje brzmienie: „§ 5. W decyzji o objęciu skazanego szczególną ochroną należy określić termin, do którego ochrona ma trwać, oraz szczegółowy sposób realizacji tej ochrony, wskazując środki, o których mowa w § 1 lub 2.”,
@@ -598,17 +644,100 @@ source: "isap-pdf"
 
 **Art. 223n.** Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób przeprowadzania kontroli, o których mowa w art. 223f § 1, oraz wzory protokołów kontroli, o których mowa w art. 223f § 12, mając na względzie konieczność zapewnienia sprawności przeprowadzanej kontroli oraz prawidłowego jej dokumentowania.”;
 
+- **94)** w art. 230 § 1 otrzymuje brzmienie: „§ 1. Zwolnienie od reszty kary oraz uznanie kary za wykonaną przewidziane w art. 83 Kodeksu karnego może nastąpić również na wniosek dowódcy jednostki wojskowej.”;
+- **95)** w art. 242:
+    - **a)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Jeżeli niniejszy kodeks używa w znaczeniu ogólnym określenia „skazany”, należy przez to rozumieć również ukaranego karą orzeczoną za wykroczenie lub karą porządkową oraz osobę, wobec której zastosowano środek przymusu skutkujący pozbawienie wolności.”,
+    - **b)** po § 5 dodaje się § 5a w brzmieniu: „§ 5a. Użyte w niniejszym kodeksie określenie „minimalne wynagrodzenie za pracę” oznacza minimalne wynagrodzenie ustalone na podstawie przepisów odrębnych.”,
+    - **c)** po § 8 dodaje się § 8a w brzmieniu: „§ 8a. Użyte w niniejszym kodeksie określenie „korespondencja urzędowa” oznacza korespondencję z organami i przedstawicielem, o których mowa w art. 8a § 3.”,
+    - **d)** § 10 otrzymuje brzmienie: „§ 10. Przez pojęcie kontroli rozmowy w trakcie widzenia, rozmowy telefonicznej lub rozmowy za pomocą innych środków łączności rozumie się zapoznawanie się z jej treścią oraz możliwość jej przerwania lub utrwalenia.”,
+    - **e)** uchyla się § 11,
+    - **f)** po § 11 dodaje się § 11a w brzmieniu: „§ 11a. Użyte w niniejszym kodeksie określenie „osoba kontrolowana” oznacza skazanego lub tymczasowo aresztowanego, który:
+
+- **1)** jest poddany kontroli pobieżnej lub kontroli osobistej;
+- **2)** przebywa w kontrolowanych celach i pomieszczeniach;
+- **3)** posiada lub do którego należą kontrolowane paczki, przedmioty i bagaże;
+- **4)** jest przewożony kontrolowanym pojazdem do i z miejsca zatrudnienia poza zakładem karnym lub aresztem śledczym;
+- **5)** przebywa w kontrolowanym miejscu pracy poza terenem zakładu karnego lub aresztu śledczego.”,
+    - **g)** po § 12 dodaje się § 12a w brzmieniu: „§ 12a. Użyte w niniejszym kodeksie określenie „substancja psychoaktywna” oznacza alkohol, środki odurzające, substancje psychotropowe, ich prekursory, środki zastępcze lub nowe substancje psychoaktywne.”,
+    - **h)** dodaje się § 16 w brzmieniu: „§ 16. Przez pojęcie przedmiotów niedozwolonych rozumie się:
+
+- **1)** przedmioty, które mogą utrudniać prawidłowy tok postępowania karnego;
+- **2)** przedmioty, które mogą utrudniać realizację ustalonego porządku wewnętrznego obowiązującego w zakładzie karnym lub areszcie śledczym;
+- **3)** przedmioty niebezpieczne, które mogą stanowić zagrożenie dla bezpieczeństwa zakładu karnego lub aresztu śledczego lub osób w nich przebywających, w tym broń, amunicję lub materiały wybuchowe;
+- **4)** środki łączności, dokumenty, środki pieniężne, przedmioty wartościowe i inne przedmioty, których skazany lub tymczasowo aresztowany nie może posiadać w zakładzie karnym lub areszcie śledczym poza depozytem;
+- **5)** przedmioty, których posiadanie jest niezgodne z prawem.”;
+- **96)** w art. 249:
+    - **a)** w § 1 uchyla się pkt 5,
+    - **b)** w § 3: – uchyla się pkt 4 i 5, – pkt 6 i 7 otrzymują brzmienie: „6) czynności administracyjne związane z prowadzeniem depozytu przedmiotów wartościowych i środków pieniężnych osób pozbawionych wolności, dotyczące w szczególności: przyjmowania, przechowywania, wydawania, przekazywania między jednostkami organizacyjnymi, rozliczania należności za pracę, dokonywania zakupów oraz ewidencjonowania i dokumentowania tych czynności, mając w szczególności na względzie potrzebę zapewnienia sprawnego wykonywania czynności administracyjnych w zakładach karnych i aresztach śledczych;
+
+- **7)** czynności administracyjne związane z wykonywaniem tymczasowego aresztowania oraz kar i środków przymusu skutkujących pozbawienie wolności oraz dokumentowanie tych czynności, w szczególności:
+    - **a)** ustalanie rejonizacji osadzania w zakładach karnych i aresztach śledczych,
+    - **b)** przyjmowanie tymczasowo aresztowanych, skazanych i ukaranych do zakładów karnych i aresztów śledczych oraz ich zwalnianie z tych zakładów i aresztów, w tym: – dokumenty niezbędne do przyjęcia, dalszego wykonywania pozbawienia wolności lub zwolnienia osadzonego albo skutkujące obliczenie okresu wykonywania kary, – godziny przyjmowania do zakładów karnych i aresztów śledczych oraz ich zwalniania z tych zakładów i aresztów,
+    - **c)** poddawanie osadzonych czynnościom identyfikacyjnym,
+    - **d)** izolowanie tymczasowo aresztowanych,
+    - **e)** obliczanie okresu wykonywania kary i środka przymusu,
+    - **f)** ewidencjonowanie osadzonych,
+    - **g)** wydawanie osadzonych do udziału w czynnościach procesowych oraz do zakładów leczniczych,
+    - **h)** doręczanie korespondencji urzędowej osadzonym – mając w szczególności na względzie potrzebę zapewnienia sprawnego wykonywania czynności administracyjnych oraz porządku wewnętrznego w zakładach karnych i aresztach śledczych;”, – po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) warunki wstępu na teren jednostek organizacyjnych Służby Więziennej osób niebędących funkcjonariuszami lub pracownikami Służby Więziennej albo pracownikami przywięziennych zakładów pracy, mając na względzie konieczność zapewnienia sprawnego wykonywania zadań przez Służbę Więzienną, porządku wewnętrznego i bezpieczeństwa jednostek organizacyjnych Służby Więziennej oraz bezpieczeństwa osób osadzonych w zakładach karnych i aresztach śledczych.”;
+
+- **97)** w art. 249a:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Dyrektor Generalny Służby Więziennej, w drodze zarządzenia, określi:”,
+    - **b)** pkt 4 otrzymuje brzmienie: „4) sposób prowadzenia akt ewidencyjnych, w tym wzór tych akt oraz wzory innych dokumentów i druków ewidencyjnych;”,
+    - **c)** w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–9 w brzmieniu: „6) sposoby ochrony jednostek organizacyjnych Służby Więziennej;
+
+- **7)** sposoby ochrony i konwojowania skazanych oraz tymczasowo aresztowanych;
+- **8)** zadania ochronne funkcjonariuszy i pracowników Służby Więziennej oraz pracowników przywięziennych zakładów pracy;
+- **9)** wyposażenie i system zabezpieczeń pomieszczeń, w których realizowane są czynności służbowe w bezpośrednim kontakcie ze skazanym.”.
+
 **Art. 2.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301) po art. 93 dodaje się art. 93a w brzmieniu: „Art. 93a. Osoba pozbawiona wolności, która przebywa w zakładzie karnym lub areszcie śledczym, może brać udział w rozprawie przy użyciu urządzeń technicznych umożliwiających jej przeprowadzenie na odległość i tam dokonywać czynności. W miejscu przebywania osoby pozbawionej wolności w czynnościach bierze udział przedstawiciel administracji zakładu karnego lub aresztu śledczego oraz może wziąć udział pełnomocnik, jeżeli został ustanowiony, i tłumacz, jeżeli osoba pozbawiona wolności włada niedostatecznie językiem polskim.”.
 
 **Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) w art. 151 § 2 otrzymuje brzmienie: „§ 2. Przewodniczący może zarządzić przeprowadzenie posiedzenia jawnego przy użyciu urządzeń technicznych umożliwiających jego przeprowadzenie na odległość. W takim przypadku uczestnicy postępowania mogą brać udział w posiedzeniu sądowym, gdy przebywają w budynku innego sądu albo w zakładzie karnym lub areszcie śledczym, gdy są pozbawieni wolności, i dokonywać tam czynności procesowych, a przebieg czynności procesowych transmituje się z sali sądowej sądu prowadzącego postępowanie do miejsca pobytu uczestników postępowania oraz z miejsca pobytu uczestników postępowania do sali sądowej sądu prowadzącego postępowanie. W miejscu przebywania osoby pozbawionej wolności w czynnościach procesowych bierze udział przedstawiciel administracji zakładu karnego lub aresztu śledczego, pełnomocnik, jeżeli został ustanowiony, oraz tłumacz, jeżeli został powołany.”.
 
 **Art. 4.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm. ) w art. 15 w ust. 1 pkt 2a otrzymuje brzmienie: „2a) zatrzymywania osób pozbawionych wolności, które:
 
+- **a)** dokonały ucieczki z aresztu śledczego, zakładu karnego, ze strzeżonego ośrodka lub z aresztu dla cudzoziemców,
+- **b)** dokonały ucieczki w trakcie konwojowania lub zatrudnienia,
+- **c)** na podstawie zezwolenia właściwego organu opuściły areszt śledczy albo zakład karny i nie powróciły do niego w wyznaczonym terminie, korzystając z zezwolenia na czasowe opuszczenie aresztu śledczego lub zakładu karnego lub z przerwy w odbywaniu kary pozbawienia wolności;”.
+
 **Art. 5.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061 i 1115) w art. 11:
+
+- **1)** w ust. 1 po pkt 5a dodaje się pkt 5aa w brzmieniu: „5aa) zatrzymywania osób pozbawionych wolności, które:
+    - **a)** dokonały ucieczki z aresztu śledczego, zakładu karnego, ze strzeżonego ośrodka lub z aresztu dla cudzoziemców,
+    - **b)** dokonały ucieczki w trakcie konwojowania lub zatrudnienia,
+    - **c)** na podstawie zezwolenia właściwego organu opuściły areszt śledczy albo zakład karny i nie powróciły do niego w wyznaczonym terminie, korzystając z zezwolenia na czasowe opuszczenie aresztu śledczego lub zakładu karnego lub z przerwy w odbywaniu kary pozbawienia wolności;”;
+
+- **2)** w ust. 2a lit. a otrzymuje brzmienie: „a) pkt 5–5aa, w terminie 7 dni od dnia dokonania czynności,”.
 
 **Art. 6.** W ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2021 r. poz. 276) w art. 5a:
 
+- **1)** po ust. 1a dodaje się ust. 1b–1e w brzmieniu: „1b. Osadzeni w areszcie śledczym lub zakładzie karnym, którzy w trakcie pobytu w areszcie śledczym lub zakładzie karnym zaprzestaną używania wyrobów tytoniowych, w tym nowatorskich wyrobów tytoniowych lub papierosów elektronicznych, w celi mieszkalnej, składają dyrektorowi aresztu śledczego lub zakładu karnego pisemne oświadczenie w tej sprawie. Oświadczenie wiąże przez okres 12 miesięcy od dnia jego złożenia, nie dłużej jednak niż do dnia zwolnienia składającego oświadczenie z aresztu śledczego lub zakładu karnego, chyba że dyrektor aresztu śledczego lub zakładu karnego wyrazi zgodę na skrócenie tego okresu.
+
+1c. Oświadczenie, o którym mowa w ust. 1b, zawiera:
+
+- **1)** imię i nazwisko (imiona);
+- **2)** imię ojca;
+- **3)** datę i miejsce urodzenia;
+- **4)** oświadczenie o zaprzestaniu używania wyrobów tytoniowych, w tym nowatorskich wyrobów tytoniowych lub papierosów elektronicznych, w celi mieszkalnej;
+- **5)** własnoręczny czytelny podpis składającego oświadczenie albo adnotację osoby przyjmującej oświadczenie o przyczynie braku podpisu;
+- **6)** datę złożenia oświadczenia.
+
+1d. Osadzonych, o których mowa w ust. 1b, umieszcza się niezwłocznie w celi mieszkalnej przeznaczonej dla osadzonych, którzy nie używają wyrobów tytoniowych, w tym nowatorskich wyrobów tytoniowych lub papierosów elektronicznych.
+
+1e. Oświadczenie załącza się do akt osobowych osadzonego, a jego złożenie odnotowuje się w Centralnej Bazie Danych Osób Pozbawionych Wolności.”;
+
+- **2)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór oświadczenia osadzonego w areszcie śledczym lub zakładzie karnym o zaprzestaniu używania wyrobów tytoniowych, w tym nowatorskich wyrobów tytoniowych lub papierosów elektronicznych, w celi mieszkalnej, uwzględniając zakres informacji, o których mowa w ust. 1c, oraz konieczność zachowania odpowiedniej przejrzystości i czytelności treści oświadczenia.”.
+
 **Art. 7.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138 i 1726) wprowadza się następujące zmiany:
+
+- **1)** w art. 43a:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. W razie skazania sprawcy za przestępstwo określone w art. 164 § 1, art. 165 § 1, art. 165a § 1 lub 2, art. 171 § 1, 2 lub 3, art. 174 § 1, art. 178a § 1, art. 178b, art. 179, art. 180, art. 200a § 1 lub 2, art. 200b, art. 202 § 4b lub 4c, art. 244, art. 255a § 1 lub 2, art. 258 § 1, art. 263 § 2 sąd orzeka świadczenie pieniężne wymienione w art. 39 pkt 7 na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej w wysokości co najmniej 5000 złotych, do wysokości określonej w § 1.”,
+    - **b)** dodaje się § 3 w brzmieniu: „§ 3. W razie skazania sprawcy za przestępstwo określone w art. 178a § 4, art. 202 § 3, 4 lub 4a, art. 258 § 2, 3 lub 4, art. 263 § 1 sąd orzeka świadczenie pieniężne wymienione w art. 39 pkt 7 na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej w wysokości co najmniej 10 000 złotych, do wysokości określonej w § 1.”;
+
+- **2)** w art. 78 § 2 otrzymuje brzmienie: „§ 2. Skazanego określonego w art. 64 § 1 można warunkowo zwolnić po odbyciu dwóch trzecich kary, natomiast określonego w art. 64 § 2 oraz skazanego, wobec którego wydano prawomocne postanowienie stwierdzające, że bezprawnie utrudniał wykonanie kary pozbawienia wolności, po odbyciu trzech czwartych kary.”;
+- **3)** w art. 79 § 1 otrzymuje brzmienie: „§ 1. Przepisy art. 78 § 1 i 2 stosuje się odpowiednio do sumy dwóch lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno; przepis art. 78 § 2 stosuje się, jeżeli chociażby jedno z przestępstw popełniono w warunkach określonych w art. 64 lub wobec skazanego wydano prawomocne postanowienie stwierdzające, że bezprawnie utrudniał wykonanie kary pozbawienia wolności.”;
+- **4)** po art. 223 dodaje się art. 223a i art. 223b w brzmieniu: „Art. 223a. § 1. Kto publicznie nawołuje do udostępnienia informacji dotyczących życia prywatnego funkcjonariusza organu powołanego do ochrony bezpieczeństwa publicznego albo funkcjonariusza Służby Więziennej, których udostępnienie może spowodować zagrożenie bezpieczeństwa tego funkcjonariusza lub osoby dla niego najbliższej, podlega karze pozbawienia wolności do lat 3.
+
+§ 2. Tej samej karze podlega sprawca czynu określonego w § 1 popełnionego na szkodę byłego funkcjonariusza publicznego, o którym mowa w § 1, jeżeli czyn ten pozostaje w związku z zadaniami z zakresu ochrony bezpieczeństwa publicznego lub zadaniami Służby Więziennej, które pokrzywdzony wykonywał.
 
 **Art. 223b.**
 
@@ -622,15 +751,64 @@ source: "isap-pdf"
 
 **Art. 8.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375) wprowadza się następujące zmiany:
 
+- **1)** w art. 177 w § 1b pkt 1 otrzymuje brzmienie: „1) przedstawiciel administracji zakładu karnego lub aresztu śledczego – jeżeli świadek przebywa w zakładzie karnym lub areszcie śledczym;”;
+- **2)** w art. 250 § 3c otrzymuje brzmienie: „§ 3c. W wypadku określonym w § 3b w posiedzeniu bierze udział w miejscu przebywania podejrzanego referendarz sądowy lub asystent sędziego zatrudniony w sądzie, w którego okręgu przebywa podejrzany, lub przedstawiciel administracji zakładu karnego lub aresztu śledczego, jeżeli podejrzany przebywa w zakładzie karnym lub areszcie śledczym.”;
+- **3)** w art. 264:
+    - **a)** po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Tymczasowe aresztowanie stosowane do czasu rozpoczęcia wykonywania środka zabezpieczającego polegającego na umieszczeniu sprawcy w zakładzie zamkniętym wykonuje się tylko w postaci umieszczenia takiego sprawcy w odpowiednim zakładzie leczniczym, w tym w zakładzie psychiatrycznym, wymienionym w wykazie określonym w przepisach wydanych na podstawie art. 260 § 2.”,
+    - **b)** § 4 otrzymuje brzmienie: „§ 4. Tymczasowe aresztowanie w wypadku orzeczenia wobec skazanego kary pozbawienia wolności oraz środka zabezpieczającego polegającego na umieszczeniu sprawcy w zakładzie zamkniętym stosowane do czasu rozpoczęcia wykonywania kary pozbawienia wolności wykonuje się w warunkach umożliwiających stosowanie odpowiedniego postępowania leczniczego, terapeutycznego, rehabilitacyjnego oraz resocjalizacyjnego.”;
+
+- **4)** w art. 280:
+    - **a)** § 3 otrzymuje brzmienie: „§ 3. List gończy podlega rozpowszechnieniu przez opublikowanie za pomocą Internetu, chyba że sąd lub prokurator postanowi inaczej.”,
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. Sąd lub prokurator, zależnie od potrzeby, może postanowić o rozpowszechnieniu listu gończego przez rozesłanie, rozplakatowanie lub opublikowanie, w szczególności za pomocą prasy, radia i telewizji.”;
+
+- **5)** w art. 374 § 5 otrzymuje brzmienie: „§ 5. W wypadku określonym w § 4 w rozprawie bierze udział w miejscu przebywania strony referendarz sądowy lub asystent sędziego, zatrudniony w sądzie, w którego okręgu strona przebywa, lub przedstawiciel administracji zakładu karnego lub aresztu śledczego, jeżeli strona przebywa w zakładzie karnym lub areszcie śledczym.”.
+
 **Art. 9.** W ustawie z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności (Dz. U. z 2021 r. poz. 179) wprowadza się następujące zmiany:
+
+- **1)** po art. 5a dodaje się art. 5b w brzmieniu: „Art. 5b. 1. Minister Sprawiedliwości może, w drodze zarządzenia, zdecydować o połączeniu przywięziennych zakładów pracy prowadzonych w formach, o których mowa w art. 3 ust. 2 pkt 1 i 4.
+
+2. Zarządzenie, o którym mowa w ust. 1, określa:
+
+- **1)** formę organizacyjno-prawną przywięziennego zakładu pracy powstałego w wyniku połączenia;
+- **2)** przeznaczenie mienia znajdującego się w zarządzie łączonych przywięziennych zakładów pracy;
+- **3)** podmiot właściwy do przejęcia należności i zobowiązań łączonych przywięziennych zakładów pracy.
+
+3. Do łączenia przywięziennych zakładów pracy, o którym mowa w ust. 1, nie stosuje się przepisów art. 25 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, 1692, 1725, 1747 i
+
+- **1768)** .”;
+- **2)** w art. 6a w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) środki finansowe pochodzące z tytułu opłat określonych w art. 110b § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy.”.
 
 **Art. 10.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2022 r. poz. 329, 655 i 1457) w art. 94 § 2 otrzymuje brzmienie: „§ 2. Przewodniczący może zarządzić przeprowadzenie posiedzenia jawnego przy użyciu urządzeń technicznych umożliwiających jego przeprowadzenie na odległość. W takim przypadku uczestnicy mogą brać udział w posiedzeniu sądowym, gdy przebywają w budynku innego sądu albo w zakładzie karnym lub areszcie śledczym, gdy są pozbawieni wolności, i tam dokonywać czynności procesowych, a przebieg czynności procesowych transmituje się z sali sądowej sądu prowadzącego postępowanie do miejsca pobytu uczestników postępowania oraz z miejsca pobytu uczestników postępowania do sali sądowej sądu prowadzącego postępowanie. W miejscu przebywania osoby pozbawionej wolności w czynnościach procesowych bierze udział przedstawiciel administracji zakładu karnego lub aresztu śledczego oraz może wziąć udział pełnomocnik, jeżeli został ustanowiony, i tłumacz, jeżeli osoba pozbawiona wolności nie włada dostatecznie językiem polskim.”.
 
 **Art. 11.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561 i
 
+- **2674)** art. 12a otrzymuje brzmienie: „Art. 12a. Przepisów ustawy, z wyłączeniem art. 48 ust. 1b, przepisów określających zasady i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej, przepisów określających kolejność udzielania świadczeń opieki zdrowotnej w szpitalach, świadczeń specjalistycznych w ambulatoryjnej opiece zdrowotnej oraz stacjonarnych i całodobowych świadczeń zdrowotnych innych niż szpitalne oraz przepisów określających prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie stosuje się wobec osób, którym świadczenia zdrowotne są udzielane bezpłatnie, bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego, na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm. ).”.
+
 **Art. 12.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050, z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764, 1700 i 1812) w art. 70 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W razie skazania sprawcy za przestępstwo określone w art. 53 ust. 1, 1a lub 2, art. 55 ust. 1, 2 lub 3, art. 56 ust. 1, 2 lub 3, art. 58 ust. 1 lub 2, art. 59 ust. 1, 2 lub 3, art. 61, art. 62 ust. 1 lub 2, art. 62b ust. 2, art. 63 ust. 1, 2 lub 3 sąd orzeka świadczenie pieniężne wymienione w art. 39 pkt 7 Kodeksu karnego na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej w wysokości co najmniej 1000 złotych, do wysokości 60 000 złotych.”.
 
 **Art. 13.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, 1728 i 2448 oraz z 2022 r. poz. 655 i 1115) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 dodaje się ust. 4 i 5 w brzmieniu: „4. Służba Więzienna współdziała z przywięziennym zakładem pracy wskazanym w decyzji Ministra Sprawiedliwości, o której mowa w art. 105b § 4 zdanie pierwsze i art. 217c § 5 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, przy zapewnieniu systemu służącego realizacji uprawnienia do korzystania przez skazanych i tymczasowo aresztowanych z samoinkasującego aparatu telefonicznego.
+
+5. Dyrektor Generalny Służby Więziennej zawiera z przywięziennym zakładem pracy, o którym mowa w ust. 4, porozumienie, w którym określone zostaną warunki techniczne i wymogi dla systemu służącego realizacji uprawnienia do korzystania przez skazanych i tymczasowo aresztowanych z samoinkasującego aparatu telefonicznego, a także czas trwania porozumienia i inne istotne jego elementy.”;
+
+- **2)** po art. 19 dodaje się art. 19a i art. 19b w brzmieniu: „Art. 19a. 1. W zakładach karnych i aresztach śledczych funkcjonariusze i pracownicy stosują czynności profilaktyczne.
+
+2. Czynności profilaktyczne zmierzają do rozpoznania środowiska skazanych i tymczasowo aresztowanych w celu ochrony społeczeństwa przed przestępczością lub zapewnienia porządku lub bezpieczeństwa zakładów karnych, aresztów śledczych lub konwoju, w szczególności przez:
+
+- **1)** obserwowanie zachowań i relacji w środowisku skazanych i tymczasowo aresztowanych;
+- **2)** rozpoznawanie struktur podkultury przestępczej;
+- **3)** rozpoznawanie atmosfery i nastrojów wśród skazanych i tymczasowo aresztowanych oraz ich zachowań, które mogą naruszyć porządek i bezpieczeństwo zakładów karnych, aresztów śledczych lub konwoju.
+
+3. Każda czynność profilaktyczna wymaga udokumentowania i podlega rejestracji.
+
+4. Skazanemu i tymczasowo aresztowanemu nie udostępnia się dokumentacji zgromadzonej w toku stosowania czynności profilaktycznych.
+
+5. W związku ze stosowaniem czynności profilaktycznych funkcjonariusze i pracownicy są obowiązani zapewnić ochronę źródeł pozyskania informacji.
+
+6. Funkcjonariusze i pracownicy stosujący czynności profilaktyczne mogą korzystać z pomocy innych osób posiadających informacje mogące służyć do rozpoznania środowiska skazanych i tymczasowo aresztowanych.
+
+7. Pomoc innych osób może polegać na świadomym i dobrowolnym udziale w stosowanych czynnościach profilaktycznych, w szczególności przez przekazywanie informacji i dokumentów świadczących o planowaniu działań naruszających porządek i bezpieczeństwo zakładu karnego, aresztu śledczego lub konwoju.
 
 **Art. 19b.**
 
@@ -726,7 +904,18 @@ source: "isap-pdf"
 
 **Art. 35.** Tymczasowe aresztowanie zastosowane lub przedłużone przed dniem wejścia w życie niniejszej ustawy i trwające w dniu jej wejścia w życie, stosowane:
 
+- **1)** do czasu rozpoczęcia wykonywania środka zabezpieczającego polegającego na umieszczeniu sprawcy w zakładzie zamkniętym,
+- **2)** w wypadku orzeczenia wobec skazanego kary pozbawienia wolności oraz środka zabezpieczającego polegającego na umieszczeniu sprawcy w zakładzie zamkniętym, do czasu rozpoczęcia wykonywania kary pozbawienia wolności – wykonuje się według przepisów dotychczasowych do upływu okresu, na który zostało zastosowane lub przedłużone.
+
 **Art. 36.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 249 § 3 pkt 7 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 249 § 3 pkt 7 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie tego przepisu w brzmieniu dotychczasowym;
+- **2)** art. 15 ust. 8 ustawy zmienianej w art. 4 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 15 ust. 8 ustawy zmienianej w art. 4, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy;
+- **3)** art. 11 ust. 2 ustawy zmienianej w art. 5 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 11 ust. 2 ustawy zmienianej w art. 5, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
 **Art. 37.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem:
+
+- **1)** art. 34, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 1, 2, 21, 34, 38, 40, 41, 42 lit. a, b, d i e, pkt 46 lit. a, pkt 47, 48 lit. a– c, pkt 49, 51 lit. b i c, pkt 64 lit. b, pkt 67 lit. a, pkt 68, 80, 81, 83 lit. a–c, pkt 85 lit. a–e, art. 18, art. 22, art. 24 i art. 29 ust. 2, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+
 

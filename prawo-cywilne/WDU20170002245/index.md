@@ -8,7 +8,7 @@ pos: 2245
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks postępowania cywilnego, ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o ochronie zdrowia psychicznego
@@ -29,7 +29,17 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. − Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 570 :
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Sąd opiekuńczy może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego w celu zebrania informacji dotyczących małoletniego i jego środowiska, a w szczególności jego zachowania się, warunków wychowawczych i życiowych, w tym sytuacji bytowej rodziny, przebiegu nauki małoletniego i sposobu spędzania czasu wolnego, jego kontaktów środowiskowych, stosunku do niego rodziców lub opiekunów, podejmowanych oddziaływań wychowawczych, stanu zdrowia i znanych w środowisku uzależnień małoletniego.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Przepis § 1 stosuje się także wtedy, gdy sąd opiekuńczy powziął wiadomość o zdarzeniu uzasadniającym wszczęcie postępowania z urzędu, oraz w toku postępowania wykonawczego.”,
+    - **c)** § 3 otrzymuje brzmienie: „§ 3. O informacje, o których mowa w § 1, a także informację mającą na celu wskazanie osób właściwych do zapewnienia dziecku rodzinnej pieczy zastępczej, sąd opiekuńczy może zwrócić się do właściwej jednostki organizacyjnej wspierania rodziny i systemu pieczy zastępczej.”;
+
+- **2)** po art. 570 dodaje się art. 570 w brzmieniu: „Art. 570 . Sąd opiekuńczy może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego w toku postępowania prowadzonego w sprawach dotyczących ustanowienia opieki lub kurateli i prowadzonego w tych sprawach postępowania wykonawczego w celu ustalenia możliwości lub sposobu sprawowania opieki lub kurateli oraz warunków życiowych osoby, której postępowanie dotyczy.”.
+
 **Art. 2.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2016 r. poz. 487) wprowadza się następujące zmiany:
+
+- **1)** po art. 30 dodaje się art. 30a w brzmieniu: „Art. 30a. Sąd może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego w celu ustalenia okoliczności wskazujących na nadużywanie alkoholu przez osobę, której postępowanie dotyczy, oraz zakłócania przez nią spokoju lub porządku publicznego, a także jej relacji w rodzinie, zachowania się w stosunku do małoletnich i stosunku do pracy.”;
+- **2)** w art. 34 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W sprawach, o których mowa w ust. 2 i 4, przepis art. 30a stosuje się odpowiednio.”.
 
 **Art. 3.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2017 r. poz. 882) po art. 42 dodaje się art. 42a w brzmieniu: „Art. 42a. Sąd może zarządzić przeprowadzenie przez kuratora sądowego wywiadu środowiskowego w celu ustalenia warunków życiowych osoby, której postępowanie dotyczy, oraz jej funkcjonowania w środowisku.”.
 

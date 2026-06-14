@@ -8,7 +8,7 @@ pos: 890
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o finansach publicznych oraz ustawy o uruchamianiu środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej
@@ -28,6 +28,38 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040930890) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/890/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U. z 2003 r. Nr 15, poz. 148, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „12) zasady i tryb gospodarowania środkami pochodzącymi z budżetu Unii Europejskiej.”;
+- **2)** w art. 13: 1 pkt 4, oraz środki, o których mowa w art. 3 ust. 1 pkt 2 i 2a, klasyfikuje się, z zastrzeżeniem ust. 1a, według:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Dochody, wydatki publiczne, przychody, o których mowa w art. 3 ust.
+
+- **1)** działów i rozdziałów - określających rodzaj działalności;
+- **2)** paragrafów - określających rodzaj dochodu, przychodu lub wydatku oraz środków, o których mowa w art. 3 ust. 1 pkt 2 i 2a.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wydatki publiczne klasyfikuje się również według dodatkowej klasyfikacji dotyczącej obszarów, kategorii i podkategorii wydatków strukturalnych.”,
+    - **c)** ust. 3 i 4 otrzymują brzmienie: „3. Minister Finansów określi, w drodze rozporządzenia:
+
+- **1)** szczegółową klasyfikację dochodów, wydatków, przychodów i rozchodów oraz środków, o których mowa w art. 3 ust. 1 pkt 2 i 2a, z uwzględnieniem Polskiej Klasyfikacji Działalności;
+- **2)** szczegółową klasyfikację wydatków strukturalnych, o których mowa w ust. 1a, uwzględniając potrzebę identyfikacji wydatków o charakterze strukturalnym, ponoszonych przez jednostki sektora finansów publicznych. Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz.U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851 oraz z 2004 r. Nr 19, poz. 177.
+
+4. Minister Finansów może określić w rozporządzeniu, o którym mowa w ust. 3 pkt 1, klasyfikację wydatków o większej szczegółowości niż określona w ust. 1 dla zadań z zakresu bezpieczeństwa wewnętrznego i zewnętrznego.”;
+
+- **3)** w art. 30c ust. 1 i 2 otrzymują brzmienie: „1. Nadzorujący programy lub projekty realizowane ze środków, o których mowa w art. 3 ust. 3 pkt 1, 2 i 4, sprawują kontrolę nad wykorzystaniem tych środków i dokonują oceny ich wykorzystania.
+
+2. Przedmiotem oceny, o której mowa w ust. 1, jest w szczególności:
+
+- **1)** zakres zrealizowanych zadań;
+- **2)** terminowość wykorzystania środków;
+- **3)** prawidłowość wykorzystania środków pod względem zgodności z planowanym przeznaczeniem oraz procedurami.”;
+- **4)** uchyla się art. 30f;
+- **5)** dodaje się art. 30g-30l w brzmieniu: „Art. 30g. 1. Jednostki sektora finansów publicznych realizujące programy i projekty finansowane z udziałem środków, o których mowa w art. 3 ust. 3 pkt 2, mogą otrzymać z budżetu państwa środki na prefinansowanie tych programów i projektów.
+
+2. Agencje płatnicze realizujące zadania Wspólnej Polityki Rolnej, mogą otrzymać z budżetu państwa środki na prefinansowanie tych zadań.
+
+3. Rada Ministrów może określić, w drodze rozporządzenia, warunki, jakie powinna spełniać jednostka sektora finansów publicznych, aby otrzymać środki, o których mowa w ust. 1, uwzględniając zróżnicowanie form organizacyjno-prawnych i sytuację finansową tych jednostek, możliwości budżetu państwa a ponadto, w odniesieniu do jednostek samorządu terytorialnego, kwotę dochodów na jednego mieszkańca i stan ich wyposażenia w obiekty infrastrukturalne.
+
+4. Środki na prefinansowanie udostępniane są w formie oprocentowanych pożyczek, z zastrzeżeniem ust. 5
+
+5. Pożyczki, o których mowa w ust. 4, udzielane państwowym jednostkom budżetowym, samorządom województw na zadania z zakresu zwalczania bezrobocia realizowane przez wojewódzkie urzędy pracy oraz agencjom płatniczym nie są oprocentowane.
 
 **Art. 30h.**
 
@@ -170,6 +202,53 @@ source: "isap-pdf"
 - **19)** po art. 129 dodaje się art. 129a w brzmieniu: „Art. 129a. Przepisy art. 93 i art. 93a stosuje się odpowiednio do dotacji udzielonych z budżetu jednostki samorządu terytorialnego. Decyzję w sprawie zwrotu dotacji wydaje wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa. Organem odwoławczym od decyzji jest właściwe miejscowo samorządowe kolegium odwoławcze.”.
 
 **Art. 2.** W ustawie z dnia 30 lipca 2003 r. o uruchamianiu środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz.U. Nr 166, poz. 1611) w art. 13:
+
+- **1)** pkt 1 otrzymuje brzmienie: „1) w art. 3:
+    - **a)** w ust. 1 pkt 2 i 2a otrzymują brzmienie: „2) środki pochodzące z budżetu Unii Europejskiej;
+
+- **2a)** środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi, inne niż wymienione w pkt 2;”,
+    - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Do środków, o których mowa w ust. 1 pkt 2, zalicza się:
+
+- **1)** środki przeznaczone na realizację programów przedakcesyjnych;
+- **2)** środki pochodzące z funduszy strukturalnych i Funduszu Spójności;
+- **3)** środki Europejskiego Funduszu Orientacji i Gwarancji Rolnych „Sekcja Gwarancji”;
+- **4)** inne środki.”;
+- **2)** uchyla się pkt 2-5;
+- **3)** pkt 6-9 otrzymują brzmienie: „6) art. 30a otrzymuje brzmienie: „Art. 30a. Przy wydatkowaniu środków, o których mowa w art. 3 ust. 1 pkt 2a i ust. 3 pkt 1, 2 i 4, a także środków przeznaczonych na współfinansowanie programów i projektów realizowanych z tych środków stosuje się odpowiednio zasady rozliczania określone dla dotacji z budżetu państwa.”;
+- **7)** art. 30b otrzymuje brzmienie: „Art. 30b.1. Szczegółowe warunki wykorzystania i rozliczania przyznanych środków, o których mowa w art. 3 ust. 3 pkt 1, 2 i 4, określa umowa zawarta z beneficjentem pomocy udzielanej z tych środków. Do rozliczenia środków, o których mowa w art. 3 ust. 3 pkt 3, stosuje się odrębne przepisy.
+
+2. Minister Finansów sprawuje nadzór finansowy w zakresie środków, o których mowa w art. 3 ust. 1 pkt 2, w szczególności nad podmiotami:
+
+- **1)** nadzorującymi programy lub projekty realizowane z tych środków;
+- **2)** dysponującymi tymi środkami.
+
+3. Sposób zarządzania środkami, o których mowa w art. 3 ust. 3 pkt 1, 2 i 4 służącymi do realizacji określonych programów lub projektów określają porozumienia między Ministrem Finansów a podmiotami określonymi w ust. 2.”;
+
+- **8)** art. 30d otrzymuje brzmienie: „Art. 30d. 1. Środki, o których mowa w art. 3 ust. 1 pkt 2, są gromadzone na wyodrębnionych rachunkach bankowych, prowadzonych w euro, i mogą być wydatkowane do wysokości kwot zgromadzonych na tych rachunkach.
+
+2. Obsługę bankową rachunków, o których mowa w ust. 1, prowadzi Narodowy Bank Polski na podstawie umów rachunku bankowego.
+
+3. W ramach obsługi, o której mowa w ust. 2, Narodowy Bank Polski jest obowiązany do dokonywania wypłat w złotych lub w euro na podstawie dyspozycji właściciela rachunku lub jego pełnomocników.”;
+
+4. W przypadku wykorzystania środków, o których mowa w art. 3 ust. 3 pkt 1, 2 i 4:
+
+- **1)** niezgodnie z przeznaczeniem;
+- **2)** bez zachowania procedur, o których mowa w art. 30 pkt 2;
+- **3)** pobrania ich w sposób nienależny albo w nadmiernej wysokości - podlegają one zwrotowi przez beneficjenta pomocy udzielonej z tych środków wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych na rachunek, na którym są gromadzone lub z którego zostały wypłacone.
+
+5. Wykorzystanie środków, o których mowa w art. 3 ust. 3 pkt 1, 2 i 4, w sposób określony w ust. 4 wyklucza prawo otrzymania tych środków przez kolejne 3 lata licząc od dnia stwierdzenia nieprawidłowego wykorzystania tych środków, chyba że obowiązek ich przyznania danemu podmiotowi lub grupie podmiotów wynika z umowy zawartej z dawcą środków, wskazującej bezpośrednio ten podmiot.
+
+6. Do zwrotu środków, o których mowa w art. 3 ust. 3 pkt 3, stosuje się odrębne przepisy.”;
+
+- **9)** w art. 30e:
+    - **a)** w ust. 1 zdanie wstępne otrzymuje brzmienie: „Minister Finansów może określić, w drodze rozporządzenia, sposób, warunki i tryb dysponowania środkami, o których mowa w art. 3 ust. 3 pkt 1, w szczególności:”,
+    - **b)** w ust. 2 zdanie wstępne otrzymuje brzmienie: „Minister Finansów może określić, w drodze rozporządzenia, sposób, warunki i tryb dysponowania środkami, o których mowa w art. 3 ust. 3 pkt 2, w szczególności:”,
+    - **c)** dodaje się ust. 3 w brzmieniu: „3. Minister Finansów w porozumieniu z ministrem właściwym do spraw rozwoju wsi oraz ministrem właściwym do spraw rynków rolnych określi, w drodze rozporządzenia, warunki i tryb udzielania i rozliczania pożyczek na prefinansowanie zadań Wspólnej Polityki Rolnej, przekazywania na rachunek bieżący agencji płatniczych, o których mowa w odrębnych przepisach, zwanych dalej „agencjami płatniczymi”, środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej i środków krajowych przeznaczonych na realizację zadań Wspólnej Polityki Rolnej oraz sposób rozliczania tych środków, mając na względzie zachowanie przez agencje płatnicze terminów i warunków dokonywanych płatności, a także konieczność kontroli środków będących w dyspozycji agencji płatniczych.”;”;
+
+- **4)** w pkt 12 uchyla się lit. a;
+- **5)** w pkt 16 lit. a otrzymuje brzmienie: „a) w ust. 2 pkt 2 otrzymuje brzmienie: „2) przeznaczone na współfinansowanie zadań, programów i projektów realizowanych ze środków, o których mowa w art. 3 ust. 1 pkt 2 i 2a.”,”;
+- **6)** uchyla się pkt 17;
+- **7)** pkt 18 otrzymuje brzmienie: „18) w art. 138 w ust. 1 dodaje się pkt 19 w brzmieniu: „19) przyznaniu lub przekazaniu środków na realizację zadań Wspólnej Polityki Rolnej bez zachowania procedur obowiązujących przy uruchamianiu tych środków.”.”.
 
 **Art. 3.** Wszczęte przed dniem ogłoszenia ustawy sprawy dotyczące zwrotu dotacji, rozpatrywane przez naczelnika urzędu skarbowego, inspektora kontroli skarbowej oraz przez organy odwoławcze, prowadzą w dalszym ciągu te organy aż do zakończenia postępowania. Właściwość organu odwoławczego określają odrębne przepisy.
 

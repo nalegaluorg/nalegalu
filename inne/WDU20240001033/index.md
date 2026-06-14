@@ -8,7 +8,7 @@ pos: 1033
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Akademii Katolickiej w Warszawie z budżetu państwa

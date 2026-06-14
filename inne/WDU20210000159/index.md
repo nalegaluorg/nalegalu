@@ -8,7 +8,7 @@ pos: 159
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
@@ -29,207 +29,697 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2020 r. poz. 514, z późn. zm. ) art. 41a otrzymuje brzmienie: „Art. 41a. 1. Lekarz może udzielić upoważnienia do wystawiania recept, o których mowa art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia, zleceń na zaopatrzenie i zleceń naprawy, o których mowa art. 2 pkt 6 lit. d ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia, lub skierowań określonych przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, a także do dokonywania wpisów Karcie Szczepień, o której mowa art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, jego imieniu osobie wykonującej:
+- **1)** w art. 4e ust. 1 otrzymuje brzmienie: „1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, w sytuacjach szczególnych związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, w celu zapewnienia niezbędnej pomocy osobom przebywającym w:
+- **1)** jednostkach organizacyjnych pomocy społecznej świadczących usługi całodobowo, noclegowniach oraz innych placówkach zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub w podeszłym wieku, o których mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2020 r. poz. 1876 i 2369),
+- **2)** placówkach opiekuńczo-wychowawczych, regionalnych placówkach opiekuńczo-terapeutycznych oraz interwencyjnych ośrodkach preadopcyjnych, o których mowa w ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2020 r. poz. 821) – pracownicy i inne osoby świadczące pracę w tych podmiotach, poddane w nich obowiązkowej kwarantannie, mogą za zgodą tych osób świadczyć pracę określoną w umowie i otrzymywać z tego tytułu wynagrodzenie.”;
+- **2)** w art. 4f dodaje się ust. 4 w brzmieniu: „4. Przepisy ust. 1–3 stosuje się odpowiednio do pracowników: placówek opiekuńczo-wychowawczych, regionalnych placówek opiekuńczo-terapeutycznych oraz interwencyjnych ośrodków preadopcyjnych.”;
+- **3)** w art. 14ha:
+    - **a)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 zgromadzenia izby adwokackiej, o których mowa w art. 41 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2020 r. poz. 1651 i 2320), Krajowy Zjazd Adwokatury oraz wybory odbywające się w ich trakcie, o których mowa w art. 11 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, mogą odbywać się w sposób, który nie wymaga obecności w tym samym miejscu uprawnionych do udziału, przy wykorzystaniu środków komunikacji elektronicznej.
+
+1b. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 posiedzenia Krajowej Rady Komorniczej, Krajowej Komisji Rewizyjnej i organów izb komorniczych odbywane w celach, o których mowa w rozdziale 10 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2020 r. poz. 121 i 288), oraz wybory przeprowadzane w ich trakcie mogą odbywać się w sposób, który nie wymaga obecności w tym samym miejscu uprawnionych do udziału, przy wykorzystaniu środków komunikacji elektronicznej.”,
+
+- **b)** ust. 2 otrzymuje brzmienie: „2. Wybory przeprowadzone w sposób, o którym mowa w ust. 1–1b, oraz uchwały podjęte w ten sposób są ważne bez względu na to, ile osób uprawnionych do głosowania wzięło w nich udział. Wymóg powiadomienia o projekcie uchwały uważa się za spełniony w przypadku wysłania projektu na ostatni znany adres osoby uprawnionej, określony na podstawie właściwych przepisów samorządowych.”,
+- **c)** po ust. 3 dodaje się ust. 3a i 3b: „3a. Naczelna Rada Adwokacka określa sposób działania zgromadzeń izb adwokackich i Krajowego Zjazdu Adwokatury w okresie stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, a także sposób przeprowadzenia w tym okresie wyborów, o których mowa w ust. 1a, wyborów organów samorządu adwokackiego oraz wyborów osób pełniących funkcję w tych organach lub funkcję w samorządzie adwokackim.
+
+3b. Krajowa Rada Komornicza określa sposób odbywania posiedzeń oraz przeprowadzania wyborów, o których mowa w ust. 1b.”;
+
+- **4)** po art. 14hb dodaje się art. 14hc w brzmieniu: „Art. 14hc. 1. Aplikanta adwokackiego i radcowskiego, który złożył wniosek o dopuszczenie do egzaminów adwokackiego albo radcowskiego, wyznaczonych na dni 24–27 marca 2020 r., oraz spełnił przesłanki udziału w danym egzaminie i niezależnie od przyczyny nie przystąpił do egzaminu w terminie dodatkowym w dniach 23–26 czerwca 2020 r., odpowiednio okręgowa rada adwokacka albo rada okręgowej izby radców prawnych skreśla z listy aplikantów po upływie dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji adwokackiej albo radcowskiej. Przepisy art. 68 ust. 5–7 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 31 ust. 1–3 ustawy z dnia 6 lipca 1982 r. o radcach prawnych stosuje się odpowiednio.
+
+2. Aplikant adwokacki i radcowski, o którym mowa w ust. 1, może zastępować adwokata lub radcę prawnego w zakresie, o którym mowa w art. 77 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 35 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych, przez okres dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji adwokackiej albo radcowskiej. Przepisy art. 77 ust. 3–5 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 35 ust. 3–5 ustawy z dnia 6 lipca 1982 r. o radcach prawnych stosuje się odpowiednio.
+
+3. Do aplikanta adwokackiego i radcowskiego, o którym mowa w ust. 1, nie ma zastosowania art. 79 ust. 1 pkt 4 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze i art. 37 ust. 1 pkt 4 ustawy z dnia 6 lipca 1982 r. o radcach prawnych.”;
+
+- **5)** w art. 15a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W związku z przeciwdziałaniem COVID-19 pracodawca będący zakładem aktywności zawodowej może ubiegać się o rekompensatę poniesionych za dany miesiąc kosztów płacy, o których mowa w art. 2 pkt 4a ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2020 r. poz. 426, 568 i 875), dotyczących pracowników niepełnosprawnych, o których mowa w art. 29 ust. 1 pkt 1 tej ustawy, proporcjonalnie w takiej części, w jakiej pozostaje – według wyboru pracodawcy:
+
+- **1)** liczba dni przestoju w działalności zakładu aktywności zawodowej w miesiącu objętym wnioskiem do liczby dni tego miesiąca albo
+- **2)** spadek przychodu z działalności wytwórczej lub usługowej w miesiącu objętym wnioskiem względem przychodu z działalności wytwórczej lub usługowej z analogicznego miesiąca roku 2019, albo
+- **3)** spadek przychodu z działalności wytwórczej lub usługowej w miesiącu objętym wnioskiem względem średniomiesięcznego przychodu z działalności wytwórczej lub usługowej z czwartego kwartału roku 2019.”,
+    - **b)** w ust. 3 pkt 3 otrzymuje brzmienie: „3) określenie wysokości poniesionych kosztów płacy podlegających rekompensacie, o której mowa w ust. 1.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Do wniosku o rekompensatę dołącza się:
+
+- **1)** dokumenty potwierdzające wysokość poniesionych kosztów płacy;
+- **2)** oświadczenie o liczbie dni przestoju w działalności zakładu aktywności zawodowej w miesiącu objętym wnioskiem albo
+- **3)** oświadczenie o wysokości przychodu z działalności wytwórczej lub usługowej osiągniętego w miesiącu objętym wnioskiem oraz w analogicznym miesiącu roku 2019, albo
+- **4)** oświadczenie o wysokości przychodu z działalności wytwórczej lub usługowej osiągniętego w miesiącu objętym wnioskiem oraz o wysokości średniomiesięcznego przychodu z działalności wytwórczej lub usługowej z czwartego kwartału roku 2019.”,
+    - **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Oświadczenia, o których mowa w ust. 4 pkt 2–4, są składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.”,
+    - **e)** ust. 5 otrzymuje brzmienie: „5. Wniosek o rekompensatę składa się w terminie 2 miesięcy, licząc od ostatniego dnia miesiąca, którego dotyczy ten wniosek.”;
+
+- **6)** w art. 15c:
+    - **a)** w ust. 1 zdanie drugie otrzymuje brzmienie: „Przepisy art. 11h ust. 1, 4 i 5 oraz 10–12 stosuje się.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Uczestnikowi centrum integracji społecznej przysługuje świadczenie integracyjne, o którym mowa w art. 15 ust. 1 i 4 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, w pełnej wysokości w przypadku:
+
+- **1)** zawieszenia zajęć, o którym mowa w ust. 1;
+- **2)** nieobecności spowodowanej poddaniem się obowiązkowej kwarantannie lub izolacji w warunkach domowych, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.”,
+    - **c)** dodaje się ust. 4 w brzmieniu: „4. W przypadku zawieszenia zajęć, o którym mowa w ust. 1, trwającego łącznie dłużej niż 3 miesiące, kierownik centrum integracji społecznej, na wniosek lub po zasięgnięciu opinii pracownika socjalnego centrum integracji społecznej, może przedłużyć okres uczestnictwa w zajęciach w centrum integracji społecznej o okres tego zawieszenia. Za przedłużony okres uczestnictwa przysługuje świadczenie integracyjne na zasadach określonych w ust. 3 oraz w art. 15 ust. 4–7a ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym.”;
+
+- **7)** w art. 15x w ust. 2 w pkt 1 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „c) źródeł ciepła i sieci ciepłowniczych;”;
+- **8)** w art. 15zs w ust. 8 skreśla się wyrazy „w roku 2020”;
+- **9)** w art. 15zt w ust. 1 po wyrazach „na podstawie art. 15zu,” dodaje się wyrazy „lub przyznać świadczenie postojowe innym osobom,”;
+- **10)** art. 15zzf otrzymuje brzmienie: „Art. 15zzf . 1. W przypadku realizacji zadań, o których mowa w art. 11 ust. 2, art. 12a, art. 13, art. 26, art. 26d, art. 26e, art. 26g, art. 32, art. 35 ust. 1 pkt 5, art. 35a ust. 1 pkt 7, art. 36, art. 40, art. 41 i art. 47 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w zakresie niezbędnym do niwelowania i ograniczenia negatywnych skutków COVID-19 organy i podmioty powołane do zawierania umów mogą, na wniosek strony lub za jej zgodą, w drodze aneksu do zawartej umowy, zmienić jej warunki, w tym w szczególności wydłużyć termin na jej realizację lub przesunąć termin na realizację zobowiązań z niej wynikających.
+
+2. Środki przeznaczone na realizację zadań określonych w ust. 1, niewykorzystane w 2020 r., pozostające na wyodrębnionych rachunkach bankowych organów i podmiotów powołanych do zawierania umów, o ile nie zostaną wykorzystane w 2021 r., podlegają zwrotowi na rachunek Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych nie później niż do dnia 31 grudnia 2021 r.”;
+
+- **11)** w art. 15zzu ust. 2 otrzymuje brzmienie: „2. Przepis ust. 1 nie dotyczy:
+- **1)** orzeczeń wydanych na podstawie art. 11a ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. z 2020 r. poz. 218 i 956);
+- **2)** decyzji o: o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2020 r. poz. 1363), poz. 933 oraz z 2020 r. poz. 471).”;
+    - **a)** zezwoleniu na realizację inwestycji drogowej – wydawanej na podstawie ustawy z dnia 10 kwietnia 2003 r.
+    - **b)** ustaleniu lokalizacji linii kolejowej – wydawanej na podstawie ustawy z dnia 28 marca 2003 r. o transporcie kolejowym,
+    - **c)** zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2018 r. poz. 1380, z 2020 r. poz. 471 i 2380 oraz z 2021 r. poz. 11),
+    - **d)** ustaleniu lokalizacji inwestycji w zakresie Centralnego Portu Komunikacyjnego, o której mowa w przepisach ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U z 2020 r. poz. 234 i 1378),
+    - **e)** pozwoleniu na realizację inwestycji – wydawanej na podstawie ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2019 r.
+
+- **12)** w art. 15zzz dodaje się ust. 4 w brzmieniu: „4. Przepisy ust. 1–3 stosuje się odpowiednio do pracowników placówek opiekuńczo-wychowawczych, regionalnych placówek opiekuńczo-terapeutycznych oraz interwencyjnych ośrodków preadopcyjnych.”;
+- **13)** po art. 15zzzzc dodaje się art. 15zzzzca w brzmieniu: „Art. 15zzzzca. W przypadku gdy ważność certyfikatu lotniska użytku publicznego, o którym mowa w art. 54 ust. 2a lub 2b ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność tego certyfikatu ulega przedłużeniu do dnia upływu 60 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności certyfikatu.”;
+- **14)** po art. 15zzzzd dodaje się art. 15zzzzda w brzmieniu: „Art. 15zzzzda. W przypadku gdy w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii nie jest możliwe przeprowadzenie ćwiczeń praktycznych całościowych i częściowych, o których mowa w przepisach wydanych na podstawie art. 85 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, z udziałem wszystkich zaangażowanych jednostek, organów i służb, zarządzający lotniskiem przeprowadza te ćwiczenia w sposób alternatywny uzgodniony z Prezesem Urzędu Lotnictwa Cywilnego.”;
+- **15)** art. 15zzzze i art. 15zzzzf otrzymują brzmienie: „Art. 15zzzze. 1. W przypadku gdy ważność szkoleń, o których mowa w przepisach wydanych na podstawie art. 187 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność tych szkoleń ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności szkoleń.
+
+2. W przypadku gdy ważność sprawdzenia przeszłości, o którym mowa w pkt 11.1.3 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2015/1998”, oraz w przepisach wydanych na podstawie art. 189 ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność takiego sprawdzenia przeszłości ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności sprawdzenia. Art. 15zzzzf. 1. W przypadku gdy ważność szkolenia okresowego, o którym mowa w przepisach wydanych na podstawie art. 189 ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność tego szkolenia ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności szkolenia.
+
+2. W przypadku, o którym mowa w ust. 1, osoby ubiegające się o uzyskanie uprawnienia operatora kontroli bezpieczeństwa oraz operatorzy kontroli bezpieczeństwa są obowiązani odbyć szkolenie okresowe niezwłocznie po odwołaniu stanu zagrożenia epidemicznego albo stanu epidemii.
+
+3. W przypadku gdy termin ponownej certyfikacji operatorów kontroli bezpieczeństwa przypada w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność uprawnień tych osób ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności szkoleń.
+
+4. Szkolenia podstawowe z zakresu ochrony lotnictwa cywilnego, o których mowa w przepisach wydanych na podstawie art. 189 ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, dla osób ubiegających się o uzyskanie uprawnienia operatora kontroli bezpieczeństwa oraz operatorów kontroli bezpieczeństwa osób, bagażu kabinowego, przewożonych przedmiotów i bagażu rejestrowanego, a także szkolenia specjalistyczne zawodowe, o których mowa w przepisach wydanych na podstawie art. 189 ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, dla osób ubiegających się o uzyskanie uprawnienia operatora kontroli bezpieczeństwa, operatorów kontroli bezpieczeństwa, osób ubiegających się o uzyskanie uprawnień pracownika weryfikującego oraz pracowników weryfikujących, odbywające się w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, są przeprowadzane w formie kształcenia z wykorzystaniem multimedialnych systemów komputerowych. Szkolenia odbywają się z zapewnieniem zdalnej dostępności instruktora szkolenia.”;
+
+- **16)** po art. 15zzzzf dodaje się art. 15zzzzfa–15zzzzfj w brzmieniu: „Art. 15zzzzfa. W przypadku gdy ważność wyznaczenia zarejestrowanego agenta, o którym mowa w art. 186b ust. 1 pkt 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność takiego wyznaczenia ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia upływu ważności wyznaczenia. Art. 15zzzzfb. W przypadku gdy ważność wyznaczenia zarejestrowanego dostawcy zaopatrzenia pokładowego, o którym mowa w art. 186b ust. 1 pkt 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność takiego wyznaczenia ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia upływu ważności wyznaczenia. Art. 15zzzzfc. W przypadku gdy ważność wyznaczenia znanego nadawcy, o którym mowa w art. 186e ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność takiego wyznaczenia ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia upływu ważności wyznaczenia. Art. 15zzzzfd. W przypadku gdy ważność wyznaczenia znanego dostawcy zaopatrzenia pokładowego, o którym mowa w pkt 8.1.4 załącznika do rozporządzenia nr 2015/1998, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność takiego wyznaczenia ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia upływu ważności wyznaczenia, jeżeli zatwierdzenie wdrażania programu ochrony, o którym mowa w pkt 8.1.4.5 lit. a załącznika do rozporządzenia nr 2015/1998, obejmuje wizję lokalną u dostawcy, a wizja taka nie może się odbyć ze względu na obowiązywanie stanu zagrożenia epidemicznego albo stanu epidemii. Art. 15zzzzfe. W przypadku gdy ważność wyznaczenia znanego dostawcy zaopatrzenia portu lotniczego, o którym mowa w pkt 9.1.3 załącznika do rozporządzenia nr 2015/1998, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność takiego wyznaczenia ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia upływu ważności wyznaczenia, jeżeli zatwierdzenie wdrażania programu ochrony, o którym mowa w pkt 9.1.3.5 lit. a załącznika do rozporządzenia nr 2015/1998, obejmuje wizję lokalną u dostawcy, a wizja taka nie może się odbyć ze względu na obowiązywanie stanu zagrożenia epidemicznego albo stanu epidemii. Art. 15zzzzff. W przypadku gdy wykonywanie testów z częstotliwością określoną w przepisach wydanych na podstawie art. 189 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze nie jest możliwe ze względu na obowiązywanie stanu zagrożenia epidemicznego albo stanu epidemii, wykonywanie testów zawiesza się do dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii. Art. 15zzzzfg. W przypadku gdy termin na aktualizację biblioteki obrazów TIP, o którym mowa w pkt 12.5.6 decyzji wykonawczej Komisji C (2015) 8005 z dnia 16 listopada 2015 r. ustanawiającej szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego, zawierającej informacje, o których mowa w art. 18 lit. a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 300/2008 z dnia 11 marca 2008 r. w sprawie wspólnych zasad w dziedzinie ochrony lotnictwa cywilnego i uchylającego rozporządzenie (WE) nr 2320/2002 (Dz. Urz. UE L 97 z 09.04.2008, str. 72, z późn. zm. ), upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność obecnie stosowanej biblioteki ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później. Art. 15zzzzfh. 1. W przypadku gdy ważność czasowej karty identyfikacyjnej portu lotniczego, o której mowa w pkt 1.2.2.2 lit. c załącznika do rozporządzenia nr 2015/1998, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność takiej karty ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności karty.
+
+2. W przypadku gdy ważność karty identyfikacyjnej członka załogi, o której mowa w pkt 1.2.2.2 lit. b załącznika do rozporządzenia nr 2015/1998, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność takiej karty ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności karty.
+
+3. W przypadku gdy ważność certyfikatu inspektora lotnictwa cywilnego upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność takiego certyfikatu ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności certyfikatu. Art. 15zzzzfi. Aktualizacja programu ochrony przewoźnika lotniczego w zakresie dotyczącym przewozu ładunku lub poczty z państw trzecich, dla którego jest wymagane wyznaczenie jako „przewoźnika ładunków lotniczych lub poczty lotniczej prowadzącego przewóz z portu lotniczego państwa trzeciego do Unii” (ACC3), o którym mowa w pkt 6.8.1.1 załącznika do rozporządzenia nr 2015/1998, w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, nie wymaga uzgodnienia z Policją i Strażą Graniczną. Art. 15zzzzfj. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii zarządzający lotniskiem może wydawać karty identyfikacyjne portu lotniczego upoważniające do dostępu bez eskorty do strefy zastrzeżonej portu lotniczego dla osób, co do których zarządzający innym lotniskiem przeprowadził sprawdzenie przeszłości, o którym mowa w pkt 11.1.3 załącznika do rozporządzenia nr 2015/1998, oraz uzyskał informację o braku negatywnych przesłanek, o których mowa w art. 188a ust. 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze.
+
+2. Zarządzający lotniskiem, na wniosek posiadacza karty identyfikacyjnej portu lotniczego lub jego pracodawcy, potwierdza pisemnie fakt i datę przeprowadzenia sprawdzenia przeszłości i uzyskania informacji o braku negatywnych przesłanek.
+
+3. Karty identyfikacyjne portu lotniczego wydane na podstawie ust. 1 pozostają ważne przez okres ważności sprawdzenia przeszłości, jednak nie dłużej niż do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii.”;
+
+- **17)** po art. 15zzzzg dodaje się art. 15zzzzga i art. 15zzzzgb w brzmieniu: „Art. 15zzzzga. 1. W przypadku gdy ważność licencji dyspozytora lotniczego, o której mowa w pkt 6.1.7 załącznika nr 3 do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 2 września 2013 r. w sprawie licencjonowania personelu lotniczego (Dz. U. z 2018 r. poz. 839 i 1886), upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność tej licencji ulega przedłużeniu do dnia upływu 90 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności licencji.
+
+2. W przypadku gdy realizacja praktyki pod nadzorem dyspozytora lotniczego, o której mowa w pkt 6.1.5 załącznika nr 3 do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 2 września 2013 r. w sprawie licencjonowania personelu lotniczego, przypada na okres obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, termin jej realizacji ulega przedłużeniu do dnia upływu 120 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia, w którym praktyka pierwotnie powinna zostać zrealizowana. Art. 15zzzzgb. W przypadku gdy przystąpienie do egzaminu praktycznego w terminie, o którym mowa w § 33 rozporządzenia Ministra Infrastruktury z dnia 1 sierpnia 2018 r. w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane (Dz. U. z 2021 r. poz. 130), nie jest możliwe ze względu na obowiązywanie stanu zagrożenia epidemicznego albo stanu epidemii, ważność egzaminów teoretycznych ulega przedłużeniu do dnia upływu 90 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności egzaminów.”;
+
+- **18)** w art. 15zzzzh ust. 2 otrzymuje brzmienie: „2. W przypadku gdy ważność badań lotniczo-lekarskich, o których mowa w § 8 ust. 1 rozporządzenia Ministra Infrastruktury z dnia 17 czerwca 2020 r. w sprawie badań lotniczo-lekarskich (Dz. U. poz. 1168), upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność tych badań ulega przedłużeniu do dnia upływu 90 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności badań, pod warunkiem że orzeczenie lotniczo-lekarskie nie zawiera ograniczeń z wyjątkiem wzrokowych.”;
+- **19)** w art. 15zzzzk w ust. 1 wyrazy „UN1887 Alcohols, n.o.s.” zastępuje się wyrazami „UN1987 Alcohols, n.o.s.”;
+- **20)** po art. 15zzzzk dodaje się art. 15zzzzka w brzmieniu: „Art. 15zzzzka. W przypadku gdy ważność certyfikatu agenta obsługi naziemnej (AHAC – Airport Handling Agent Certificate), o którym mowa w § 5 pkt 9 rozporządzenia Ministra Infrastruktury z dnia 30 września 2020 r. w sprawie certyfikacji działalności w lotnictwie cywilnym (Dz. U. poz. 1694), prowadzącego obsługę naziemną statków powietrznych wykonywaną na rzecz przewoźników lotniczych w zakresie, o którym mowa w art. 160 ust. 3 pkt 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ważność takiego certyfikatu ulega przedłużeniu do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, jednak nie dłużej niż o 6 miesięcy od dnia utraty ważności certyfikatu.”;
+- **21)** po art. 15zzzzl dodaje się art. 15zzzzla–15zzzzlh w brzmieniu: „Art. 15zzzzla. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii zarządzający lotniskiem użytku publicznego może zmienić taryfę opłat lotniskowych w celu przeciwdziałania negatywnym skutkom epidemii dla użytkowników stale korzystających z lotniska, przy zachowaniu zasady transparentności i niedyskryminacji.
+
+2. W celu wprowadzenia zmiany taryfy opłat lotniskowych zarządzający lotniskiem użytku publicznego jest obowiązany do przeprowadzania konsultacji w tym przedmiocie z przewoźnikami stale korzystającymi z lotniska w rozumieniu art. 77 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze.
+
+3. Konsultacje, o których mowa w ust. 2, mogą być przeprowadzane w formie pisemnej, także przy użyciu środków komunikacji elektronicznej. Termin tych konsultacji nie może być krótszy niż 7 dni.
+
+4. Skonsultowaną zmianę taryfy opłat lotniskowych wraz z uzasadnieniem zarządzający lotniskiem użytku publicznego niezwłocznie przekazuje Prezesowi Urzędu Lotnictwa Cywilnego.
+
+5. Prezes Urzędu Lotnictwa Cywilnego zatwierdza zmianę taryfy opłat lotniskowych w terminie 7 dni od dnia otrzymania skonsultowanej zmiany taryfy opłat lotniskowych wraz z uzasadnieniem:
+
+- **1)** w formie decyzji administracyjnej – w przypadku zmiany przekazanej przez zarządzającego lotniskiem użytku publicznego, na którym w roku kalendarzowym poprzedzającym rozpoczęcie konsultacji, o których mowa w ust. 2, obsłużono ponad 5 000 000 pasażerów rocznie;
+- **2)** milcząco – w przypadku zmiany przekazanej przez zarządzającego lotniskiem użytku publicznego, na którym w roku kalendarzowym poprzedzającym rozpoczęcie konsultacji, o których mowa w ust. 2, obsłużono nie więcej niż 5 000 000 pasażerów rocznie.
+
+6. Prezes Urzędu Lotnictwa Cywilnego może żądać od zarządzającego lotniskiem użytku publicznego przedstawienia dodatkowych informacji, dokumentów i wyjaśnień w zakresie przekazanej zmiany taryfy opłat lotniskowych. W takim przypadku termin, o którym mowa w ust. 5, biegnie od dnia otrzymania dodatkowych informacji, dokumentów i wyjaśnień.
+
+7. Prezes Urzędu Lotnictwa Cywilnego odmawia zatwierdzenia zmiany taryfy opłat lotniskowych w przypadku, gdy jest ona niezgodna z zasadami ustalania opłat lotniskowych określonymi w Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212, z późn. zm. ), ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze lub przepisach międzynarodowych.
+
+8. W przypadku, o którym mowa w ust. 1, do zmiany taryfy opłat lotniskowych nie stosuje się:
+
+- **1)** terminów określonych w art. 77b ust. 1–3 i 5, art. 77d ust. 1 i 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze oraz w § 14 ust. 1 i 2 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 8 sierpnia 2014 r. w sprawie opłat lotniskowych (Dz. U. poz. 1074);
+- **2)** wymogów określonych w § 14 ust. 4–6 rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 8 sierpnia 2014 r. w sprawie opłat lotniskowych.
+
+9. Przewoźnik lotniczy stale korzystający z lotniska w rozumieniu art. 77 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub podmiot reprezentujący takiego przewoźnika lotniczego, w szczególności działający na danym lotnisku komitet przewoźników lotniczych lub stowarzyszenie przewoźników lotniczych, w terminie 14 dni od dnia ogłoszenia zmiany taryfy opłat lotniskowych zgodnie z art. 77h ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, w przypadku stwierdzenia, że zmiana taryfy opłat lotniskowych narusza zasady ustalania opłat lotniskowych określone w Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r., ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze lub przepisach międzynarodowych, może zwrócić się do Prezesa Urzędu Lotnictwa Cywilnego z wnioskiem o nakazanie jej zmiany.
+
+10. Wraz z wnioskiem, o którym mowa w ust. 9, przedstawia się uzasadnienie obejmujące:
+
+- **1)** wskazanie zmienionych postanowień taryfy opłat lotniskowych naruszających zasady, o których mowa w ust. 9;
+- **2)** wskazanie przepisów Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r., ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub prawa międzynarodowego, które zostały naruszone;
+- **3)** argumenty potwierdzające stwierdzone naruszenia.
+
+11. W przypadku stwierdzenia, że zmiana taryfy opłat lotniskowych narusza zasady ustalania tych opłat określone w Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r., ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze lub przepisach międzynarodowych, Prezes Urzędu Lotnictwa Cywilnego, w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 9, w drodze decyzji administracyjnej, nakazuje jej zmianę. W decyzji administracyjnej Prezes Urzędu Lotnictwa Cywilnego określa, czy zarządzający lotniskiem użytku publicznego jest obowiązany do ponownego przeprowadzenia konsultacji, o których mowa w ust. 2, biorąc pod uwagę zakres nakazanej zmiany oraz jej wpływ na przewoźników lotniczych. Przepisy ust. 3–8 stosuje się.
+
+12. Prezes Urzędu Lotnictwa Cywilnego może, w celu weryfikacji zgodności zmiany taryfy opłat lotniskowych z zasadami określonymi w Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r., ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze lub przepisach międzynarodowych, żądać od zarządzającego lotniskiem użytku publicznego przedstawienia informacji potwierdzających zgodność taryfy opłat lotniskowych z tymi zasadami. W takim przypadku termin, o którym mowa w ust. 11, biegnie od dnia otrzymania żądanych informacji. Art. 15zzzzlb. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii Prezes Polskiej Agencji Żeglugi Powietrznej przedstawia Prezesowi Urzędu Lotnictwa Cywilnego do zaopiniowania dokumenty, o których mowa w art. 9 ust. 13 ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2017 r. poz. 1967 oraz z 2020 r. poz. 695), nie później niż miesiąc przed upływem terminu zatwierdzenia sprawozdania finansowego, o którym mowa w ustawie z dnia 29 września 1994 r. o rachunkowości, określonego w przepisach wydanych na podstawie art. 15zzh ust. 1. Art. 15zzzzlc. 1. W przypadku gdy w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii nastąpi znaczący spadek ruchu lotniczego w porcie lotniczym objętym koordynacją rozkładów lotów, skutkujący brakiem występowania problemów z przepustowością, które uzasadniały wprowadzenie w porcie lotniczym koordynacji rozkładów lotów, zarządzający lotniskiem może wystąpić do Prezesa Urzędu Lotnictwa Cywilnego z wnioskiem o zawieszenie koordynacji rozkładów lotów do czasu, kiedy ruch lotniczy w danym porcie lotniczym osiągnie poziom porównywalny do ruchu lotniczego w dniu wydania decyzji administracyjnej wprowadzającej koordynację rozkładów lotów.
+
+2. Przed złożeniem wniosku, o którym mowa w ust. 1, zarządzający lotniskiem przeprowadza konsultacje z podmiotami, o których mowa w art. 4 ust. 1 rozporządzenia Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty (Dz. Urz. UE L 14 z 22.01.1993, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 2, str. 3), oraz koordynatorem rozkładów lotów, wyznaczając termin na przedstawienie stanowisk nie krótszy niż 14 dni od dnia otrzymania informacji o rozpoczęciu konsultacji. Konsultacje mają formę pisemną i mogą zostać przeprowadzone przy użyciu środków komunikacji elektronicznej.
+
+3. Wraz z wnioskiem, o którym mowa w ust. 1, zarządzający lotniskiem przekazuje Prezesowi Urzędu Lotnictwa Cywilnego kopię dokumentów przekazanych i otrzymanych w ramach konsultacji, o których mowa w ust. 2.
+
+4. Prezes Urzędu Lotnictwa Cywilnego zawiesza koordynację rozkładów lotów, jeżeli w porcie lotniczym objętym koordynacją rozkładów lotów nastąpił spadek ruchu lotniczego, skutkujący brakiem występowania problemów z przepustowością, biorąc pod uwagę wyniki konsultacji, o których mowa w ust. 2.
+
+5. Prezes Urzędu Lotnictwa Cywilnego odmawia zawieszenia koordynacji rozkładów lotów, jeżeli w porcie lotniczym objętym koordynacją rozkładów lotów nie nastąpił spadek ruchu lotniczego, skutkujący brakiem występowania problemów z przepustowością.
+
+6. Jeżeli zawieszenie koordynacji rozkładów lotów obejmuje okres dłuższy niż okres obowiązywania zatwierdzonego przez Prezesa Urzędu Lotnictwa Cywilnego budżetu koordynatora, obowiązującego w dniu zawieszenia koordynacji rozkładów lotów, koordynator rozkładów lotów w danym porcie lotniczym przedstawia Prezesowi Urzędu Lotnictwa Cywilnego projekt budżetu na kolejny okres, zgodnie z art. 67d ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze oraz przepisami wydanymi na podstawie art. 67g tej ustawy.
+
+7. Przewoźnicy lotniczy nie wnoszą opłat za koordynację rozkładów lotów, o których mowa w art. 67d ust. 2 pkt 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, za operacje lotnicze wykonane w okresie zawieszenia koordynacji rozkładów lotów.
+
+8. Zarządzający lotniskiem w okresie zawieszenia koordynacji rozkładów lotów dokonuje tylko wpłaty zaliczki, o której mowa w art. 67d ust. 10 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, w celu pokrycia części kosztów stałych funkcjonowania koordynatora rozkładów lotów w okresie zawieszenia koordynacji rozkładów lotów. Pozostała część wpłaty zarządzającego lotniskiem, o której mowa w art. 67d ust. 2 pkt 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, pomniejszona o zmianę kosztu funkcjonowania koordynatora w okresie zawieszenia koordynacji rozkładów lotów względem kosztów ujętych w budżecie koordynatora rozkładów lotów, jest uiszczana przez zarządzającego lotniskiem w okresie następującym po zniesieniu zawieszenia koordynacji rozkładów lotów w porcie lotniczym.
+
+9. Czas na start lub lądowanie przydzielony przewoźnikowi lotniczemu w okresie poprzedzającym wprowadzenie zawieszenia koordynacji rozkładów lotów w porcie lotniczym uprawnia tego przewoźnika lotniczego do uzyskania tego samego czasu na start lub lądowanie w następnym odpowiednim okresie planowania po zniesieniu zawieszenia koordynacji rozkładów lotów, zgodnie z art. 8 rozporządzenia Rady (EWG) nr 95/93 z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty.
+
+10. Zarządzający lotniskiem w sposób ciągły monitoruje wykorzystanie przepustowości lotniska, a w przypadku gdy ruch lotniczy w porcie lotniczym osiągnie poziom porównywalny do ruchu lotniczego w dniu wydania decyzji administracyjnej wprowadzającej koordynację rozkładów lotów w porcie lotniczym, zarządzający lotniskiem występuje niezwłocznie do Prezesa Urzędu Lotnictwa Cywilnego z wnioskiem o zniesienie zawieszenia koordynacji rozkładów lotów.
+
+11. Przed złożeniem wniosku, o którym mowa w ust. 10, zarządzający lotniskiem przeprowadza konsultacje z podmiotami, o których mowa w art. 4 ust. 1 rozporządzenia Rady (EWG) nr 95/93 dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty, oraz koordynatorem rozkładów lotów, wyznaczając termin na przedstawienie stanowisk nie krótszy niż 14 dni od dnia otrzymania informacji o rozpoczęciu konsultacji. Konsultacje mają formę pisemną i mogą zostać przeprowadzone przy użyciu środków komunikacji elektronicznej.
+
+12. Wniosek, o którym mowa w ust. 10, zawiera uzasadnienie oraz dane dotyczące ruchu w porcie lotniczym w odniesieniu do ruchu w porcie lotniczym w dniu wydania decyzji administracyjnej wprowadzającej koordynację rozkładów lotów oraz kopię dokumentów przekazanych i otrzymanych w ramach konsultacji, o których mowa w ust. 11.
+
+13. Prezes Urzędu Lotnictwa Cywilnego znosi zawieszenie koordynacji rozkładów lotów, jeżeli ruch lotniczy w porcie lotniczym osiągnął poziom porównywalny do ruchu lotniczego w dniu wydania decyzji administracyjnej wprowadzającej koordynację rozkładów lotów w porcie lotniczym, biorąc pod uwagę wyniki konsultacji, o których mowa w ust. 11.
+
+14. Prezes Urzędu Lotnictwa Cywilnego zawiesza koordynację rozkładów lotów, odmawia zawieszenia koordynacji rozkładów lotów oraz znosi zawieszenie koordynacji rozkładów lotów w porcie lotniczym w drodze decyzji administracyjnej. Art. 15zzzzld. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii na wniosek użytkownika statku powietrznego, o którym mowa w art. 53a ust. 1 albo ust. 2 pkt 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, Prezes Urzędu Lotnictwa Cywilnego może, w drodze decyzji administracyjnej, odroczyć odnowienie pozwolenia na wykonywanie lotów w kategorii specjalnej albo świadectwa zdatności do lotu na okres nie dłuższy niż 6 miesięcy od dnia upływu terminu ważności pozwolenia na wykonywanie lotów w kategorii specjalnej albo świadectwa zdatności do lotu i tym samym zezwolić na użytkowanie statku powietrznego w tym okresie, pod warunkiem dołączenia do wniosku oświadczenia, że od dnia ostatniego odnowienia lub wydania pozwolenia na wykonywanie lotów w kategorii specjalnej albo świadectwa zdatności do lotu na statku powietrznym nie wprowadzono zmian dotyczących eksploatacji statku powietrznego, wymagana obsługa techniczna statku powietrznego została wykonana oraz że dalsze użytkowanie statku powietrznego nie stwarza zagrożenia dla życia i zdrowia ludzkiego oraz mienia i środowiska.
+
+2. Oświadczenie, o którym mowa w ust. 1, może zostać złożone przez użytkownika statku powietrznego, o którym mowa w art. 53a ust. 1 albo ust. 2 pkt 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, albo:
+
+- **1)** podmiot posiadający certyfikat organizacji obsługi technicznej albo
+- **2)** mechanika lotniczego obsługi technicznej albo mechanika poświadczenia obsługi statków powietrznych, działającego poza certyfikowanym podmiotem zgodnie z posiadanymi uprawnieniami do wykonywania obsługi. Art. 15zzzzle. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, za zgodą podmiotu kontrolowanego, kontrola lub poszczególne czynności kontrolne wykonywane przez Prezesa Urzędu Lotnictwa Cywilnego mogą być przeprowadzane w siedzibie Urzędu Lotnictwa Cywilnego, jeżeli jest to uzasadnione szczególnymi względami.
+
+2. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, za zgodą podmiotu kontrolowanego, kontrola lub poszczególne czynności kontrolne wykonywane przez Prezesa Urzędu Lotnictwa Cywilnego mogą być przeprowadzane w sposób zdalny za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, jeżeli jest to uzasadnione szczególnymi względami.
+
+3. Wyniki pomiarów wykonanych zdalnie zawierają dane umożliwiające identyfikację urządzeń kontrolnych.
+
+4. W przypadku kontroli wykonywanej w sposób zdalny przebieg i wyniki kontroli mogą być utrwalane za pomocą urządzeń nagrywających lub innych środków rejestrujących dźwięk lub obraz.
+
+5. W przypadku kontroli wykonywanej w sposób zdalny protokół kontroli może być przesyłany za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną. Art. 15zzzzlf. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii dokumenty dołączane w sprawach administracyjnych, o których mowa w art. 37, art. 46 i art. 53 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, mogą być kopiami.
+
+2. W terminie 30 dni od dnia doręczenia decyzji administracyjnej, wydanej w sprawach, o których mowa w ust. 1, strona przedkłada Prezesowi Urzędu Lotnictwa Cywilnego, pod rygorem uchylenia decyzji, oryginał dokumentu lub jego odpis poświadczony za zgodność z oryginałem, chyba że przepis prawa nie dopuszcza złożenia odpisu dokumentu. Art. 15zzzzlg. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii użytkownik statku powietrznego eksploatujący statek powietrzny objęty nadzorem Agencji Unii Europejskiej ds. Bezpieczeństwa Lotniczego, który posiada świadectwo zdatności do lotu, ale nie spełnia wymagań wynikających z przepisów rozporządzenia Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008, który wykonuje lot, o którym mowa w art. 158 ust. 3a ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, może podczas tego lotu, na zasadzie odstępstwa od przepisów wydanych na podstawie art. 159 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, przewozić na pokładzie statku powietrznego, zamiast oryginału, poświadczony urzędowo przez Prezesa Urzędu Lotnictwa Cywilnego odpis świadectwa rejestracji, odpis świadectwa zdatności do lotu oraz odpis świadectwa zdatności w zakresie hałasu, sporządzone w formie dokumentu elektronicznego. Art. 15zzzzlh. 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii dopuszcza się przeprowadzanie egzaminów teoretycznych, o których mowa w § 19 rozporządzenia Ministra Infrastruktury z dnia 1 sierpnia 2018 r. w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane, w zakresie dotyczącym licencji, o których mowa w art. 94 ust. 6 pkt 1 lit. a, b, f, g, o i q ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, poza siedzibą Urzędu Lotnictwa Cywilnego, przy wykorzystaniu infrastruktury podmiotu spełniającego wymagania określone w ust. 2, z którym Prezes Urzędu Lotnictwa Cywilnego zawarł porozumienie.
+
+2. Podmiot, o którym mowa w ust. 1, jest obowiązany:
+
+- **1)** zapewniać odpowiednio monitorowane pomieszczenie i sprzęt do przeprowadzania egzaminów;
+- **2)** współpracować z Urzędem Lotnictwa Cywilnego przy organizowaniu sesji egzaminacyjnych oraz postępować zgodnie z wytycznymi i obowiązującymi w Urzędzie Lotnictwa Cywilnego procedurami dotyczącymi przeprowadzania egzaminów;
+- **3)** zapewniać na żądanie Prezesa Urzędu Lotnictwa Cywilnego pełny i niezakłócony dostęp do wszelkich informacji, dokumentów i materiałów związanych z przeprowadzaniem egzaminów;
+- **4)** w ramach ochrony danych osobowych zapewniać, że:
+    - **a)** przeprowadzenie egzaminów nie naruszy zasad przetwarzania danych osobowych określonych w przepisach dotyczących ochrony danych osobowych,
+    - **b)** dane osobowe będą chronione przy zastosowaniu zabezpieczeń niezbędnych dla zapewnienia poufności, integralności i rozliczalności przetwarzanych danych osobowych, w tym ochrony pomieszczeń wykorzystywanych do przetwarzania danych osobowych i przedsięwzięć w zakresie zabezpieczenia sprzętu komputerowego, ochrony transmisji danych, środków ochrony w ramach oprogramowania systemów, narzędzi baz danych i innych narzędzi programowych oraz systemu użytkowego, zgodnie z wytycznymi Prezesa Urzędu Lotnictwa Cywilnego.
+
+3. Porozumienie określa szczegółowe warunki techniczne oraz administracyjne przeprowadzania egzaminów, sposób weryfikacji przez Prezesa Urzędu Lotnictwa Cywilnego spełniania wymagań określonych w ust. 2 oraz przesłanki rozwiązania porozumienia.
+
+4. Zapewnienie pomieszczenia oraz sprzętu koniecznych do przeprowadzenia egzaminów na podstawie porozumienia jest nieodpłatne. Wszelkie koszty związane z przeprowadzeniem egzaminów ponosi podmiot, z którym Prezes Urzędu Lotnictwa Cywilnego zawarł porozumienie.
+
+5. Prezes Urzędu Lotnictwa Cywilnego, w terminie 14 dni od dnia zawarcia porozumienia, aktualizuje roczny plan egzaminów teoretycznych, o którym mowa w § 19 ust. 1 rozporządzenia Ministra Infrastruktury z dnia 1 sierpnia 2018 r. w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane.”;
+
+- **22)** w art. 15zzzzl :
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W celu przeciwdziałania skutkom COVID-19 minister właściwy do spraw transportu przekazuje operatorom publicznego transportu zbiorowego w przewozach pasażerskich w transporcie kolejowym, o których mowa w ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2020 r. poz. 1944 i 2400), z wyłączeniem komunikacji miejskiej, środki finansowe za miesiące obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz kolejne 3 miesiące po upływie miesiąca, w którym odwołano stan zagrożenia epidemicznego albo stan epidemii, na poziomie kwoty dotacji przedmiotowej z tytułu honorowania ustawowych uprawnień do ulgowych przejazdów środkami publicznego transportu zbiorowego rozliczonej przez ministra właściwego do spraw transportu za te same miesięczne okresy w roku 2019, pomniejszonej o przekazane operatorom środki dotacji przedmiotowej, przekazanej na finansowanie utraconych przychodów w związku ze stosowaniem ustawowych uprawnień do ulgowych przejazdów za te miesiące.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Operator publicznego transportu zbiorowego w transporcie kolejowym w przewozach innych niż przewozy międzywojewódzkie i międzynarodowe występuje z wnioskiem o przekazanie środków finansowych do właściwego organizatora przewozów pasażerskich w transporcie kolejowym, z którym ma podpisaną umowę o świadczenie usług w zakresie publicznego transportu zbiorowego.”,
+    - **c)** ust. 9 otrzymuje brzmienie: „9. Środki finansowe, o których mowa w ust. 1, przekazywane są za okres do dnia 30 września 2021 r.”;
+
+- **23)** w art. 15zzzzl :
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W celu przeciwdziałania skutkom COVID-19 minister właściwy do spraw transportu może przekazać operatorom publicznego transportu zbiorowego w przewozach pasażerskich w transporcie kolejowym, o których mowa w ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, środki finansowe w celu sfinansowania rekompensaty, w rozumieniu art. 4 ust. 1 pkt 15 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, w części określonej w art. 50 ust. 1 pkt 2 lit. c tej ustawy, za miesiące obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz kolejne 3 miesiące po upływie miesiąca, w którym odwołano stan zagrożenia epidemicznego albo stan epidemii.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Wysokość środków finansowych przekazanych za dany miesiąc jest równa wysokości środków finansowych przekazanych operatorowi za odpowiadający mu nazwą miesiąc w roku 2020. Wysokość środków finansowych przekazanych za każdy miesiąc pierwszego kwartału roku jest równa wysokości środków przekazanych operatorowi za kwiecień 2020 r.”,
+    - **c)** uchyla się ust. 4 i 5,
+    - **d)** ust. 6 otrzymuje brzmienie: „6. Przepisy art. 15zzzzl ust. 3–8 stosuje się odpowiednio.”;
+
+- **24)** art. 15zzzzl otrzymuje brzmienie: „Art. 15zzzzl . Warunkiem udzielenia wsparcia na podstawie przepisów art. 15zzzzl oraz art. 15zzzzl jest zaplanowanie wydatków w budżecie właściwego organizatora w celu sfinansowania rekompensaty w wysokości nie mniejszej niż w roku poprzednim oraz przekazanie przez organizatora operatorowi rekompensaty co najmniej w tej wysokości.”;
+- **25)** po art. 15zzzzl dodaje się art. 15zzzzl i art. 15zzzzl w brzmieniu: „Art. 15zzzzl . 1. W celu przeciwdziałania skutkom COVID-19 przewoźnicy wykonujący przewozy autobusowe oraz operatorzy przewozów autobusowych o charakterze użyteczności publicznej, z wyłączeniem komunikacji miejskiej, otrzymują wsparcie finansowe za miesiące obowiązywania ograniczeń w przemieszczaniu się środkami publicznego transportu zbiorowego w zakresie liczby zajętych miejsc siedzących albo miejsc siedzących i stojących w stosunku do dokumentacji technicznej lub techniczno-ruchowej pojazdu, jednak nie dłużej niż do dnia 31 grudnia 2021 r.
+
+2. Wysokość wsparcia, o którym mowa w ust. 1, ustala się dla każdego z beneficjentów przez porównanie poniesionych kosztów i osiągniętych przychodów w przeliczeniu na pracę eksploatacyjną zrealizowaną za każdy miesiąc roku 2019 w stosunku do poniesionych kosztów i osiągniętych przychodów w przeliczeniu na pracę eksploatacyjną zrealizowaną za ten sam miesiąc roku 2021.
+
+3. Wsparcie, o którym mowa w ust. 1, jest należne beneficjentowi, w przypadku gdy:
+
+- **1)** z porównania, o którym mowa w ust. 2, wynikać będzie pogorszenie wyniku finansowego w odniesieniu do wozokilometra przewozu za objęty wsparciem miesiąc roku 2021 oraz
+- **2)** w miesiącu objętym wsparciem utrzymana została praca eksploatacyjna wyrażona w wozokilometrach na poziomie tego samego miesiąca roku 2019, a w przypadku obniżenia pracy eksploatacyjnej kwota wsparcia ulega proporcjonalnemu zmniejszeniu.
+
+4. Wysokość wsparcia, o którym mowa w ust. 1, nie może przekroczyć:
+
+- **1)** dla przewoźników, o których mowa w ust. 1, kwoty dopłaty do krajowych autobusowych przewozów pasażerskich, o której mowa w art. 8a ust. 2 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295), rozliczonej za te same miesiące roku 2019, pomniejszonej o przekazane tym przewoźnikom dopłaty na finansowanie utraconych przychodów w związku ze stosowaniem ustawowych uprawnień do ulgowych przejazdów za te miesiące;
+- **2)** dla operatorów, o których mowa w ust. 1, rekompensaty, o której mowa w art. 54 ust. 2 pkt 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, rozliczonej za te same miesiące roku 2019, pomniejszonej o przekazaną tym operatorom rekompensatę na finansowanie utraconych przychodów w związku ze stosowaniem ustawowych uprawnień do ulgowych przejazdów za te miesiące.
+
+5. Wsparcie, o którym mowa w ust. 1, jest przekazywane z budżetu państwa ze środków zaplanowanych w budżecie właściwego wojewody przeznaczonych na krajowe pasażerskie przewozy autobusowe.
+
+6. Wsparcie, o którym mowa w ust. 1, otrzymane przez operatora przewozów autobusowych o charakterze użyteczności publicznej jest uwzględniane przy obliczaniu należnej operatorowi rekompensaty, o której mowa w art. 50 ust. 1 pkt 2 lit. c ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym.
+
+7. Wysokość wsparcia, o którym mowa w ust. 1, ulega pomniejszeniu o kwotę wsparcia uzyskanego z innych źródeł na utrzymanie prowadzonej działalności gospodarczej związanej ze świadczeniem usług przewozu osób, z wyjątkiem rekompensaty z tytułu świadczenia usług publicznych, o której mowa w art. 50 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym.
+
+8. Środki finansowe są przekazywane przez właściwego miejscowo marszałka województwa na podstawie wniosków składanych przez przewoźnika, o którym mowa w ust. 1, lub organizatora publicznego transportu zbiorowego na podstawie wniosku złożonego przez operatora, o którym mowa w ust. 1, zawierających kalkulację wnioskowanych kwot wsparcia w ujęciu miesięcznym wraz z oświadczeniem o prawidłowości danych w nich ujętych.
+
+9. W celu weryfikacji danych ujętych we wniosku, o którym mowa w ust. 8, właściwy miejscowo marszałek województwa może:
+
+- **1)** żądać od przewoźnika oraz organizatora, o których mowa w ust. 1, dokumentów potwierdzających informacje zawarte we wniosku;
+- **2)** przeprowadzać kontrole i zlecać – na koszt beneficjentów – ich przeprowadzenie.
+
+10. W przypadku gdy łączna kwota wsparcia, o którym mowa w ust. 1, dla pojedynczego beneficjenta za wszystkie miesiące 2021 r. przekracza kwotę 500 000 zł, przeprowadzenie kontroli ma charakter obligatoryjny.
+
+11. Wsparcie, o którym mowa w ust. 1, stanowi pomoc publiczną podlegającą notyfikacji Komisji Europejskiej i może być udzielone zgodnie z postanowieniami zawartymi w decyzji Komisji Europejskiej, wydanej w wyniku notyfikacji. Art. 15zzzzl 6 . 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz do dnia upływu 30 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później, zarządca infrastruktury w rozumieniu art. 4 pkt 7 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, podejmując działania związane z przeciwdziałaniem skutkom epidemii COVID-19 oraz wywołanych nią sytuacji kryzysowych, po uzgodnieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw transportu, może nie pobierać części opłaty podstawowej, o której mowa w art. 33 ust. 4 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, w wysokości odpowiadającej zatwierdzonej podwyżce stawki jednostkowej, o której mowa w art. 33 ust. 6 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym.
+
+2. Zarządca infrastruktury, podejmując działania związane z przeciwdziałaniem skutkom epidemii COVID-19, po uzgodnieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw transportu, może pobierać opłatę podstawową, o której mowa w art. 33 ust. 4 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, obniżoną o nie więcej niż 50% wysokości.
+
+3. Zarządca infrastruktury może otrzymać ze środków Funduszu Przeciwdziałania COVID-19 finansowanie w wysokości odpowiadającej wysokości przychodów utraconych z tytułu niepobrania albo obniżenia, o którym mowa w ust. 1 i 2.
+
+4. Zarządca infrastruktury może otrzymać ze środków Funduszu Przeciwdziałania COVID-19 finansowanie w wysokości odpowiadającej wysokości przychodów utraconych z tytułu niepobrania w roku 2020 opłaty rezerwacyjnej za niewykorzystanie przydzielonej zdolności przepustowej, o której mowa w art. 33 ust. 3 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym.
+
+5. Wypłaty środków z Funduszu Przeciwdziałania COVID-19, w ramach finansowania, o którym mowa w ust. 3 i 4, dokonuje minister właściwy do spraw transportu.
+
+6. Finansowanie, o którym mowa w ust. 3 i 4, stanowi pomoc publiczną podlegającą notyfikacji Komisji Europejskiej i może być udzielone zgodnie z postanowieniami zawartymi w decyzji Komisji Europejskiej, wydanej w wyniku notyfikacji.”;
+
+- **26)** art. 15zzzzn otrzymuje brzmienie: „Art. 15zzzzn. Uprawnienia:
+- **1)** inspektora ochrony radiologicznej, o których mowa w art. 7 ust. 3 lub 5 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2019 r. poz. 1792 oraz z 2020 r. poz. 284 i 322),
+- **2)** do zajmowania stanowiska mającego istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej, o których mowa w art. 12 ust. 1 ustawy, o której mowa w pkt 1 – których ważność upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo w okresie 30 dni następujących po ich odwołaniu, zachowują ważność przez okres kolejnych 18 miesięcy od dnia upływu terminu ich ważności.”;
+- **27)** w art. 31x ust. 2–5 otrzymują brzmienie: „2. Termin ważności świadectw potwierdzających posiadanie kwalifikacji w zakresie eksploatacji sieci oraz urządzeń i instalacji, o których mowa w art. 54 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, które tracą ważność od dnia 1 marca 2020 r., wydłuża się do 180 dni od dnia następującego po dniu odwołania stanu zagrożenia epidemicznego albo stanu epidemii, albo stanu nadzwyczajnego.
+
+3. Sprawdzenie kwalifikacji w zakresie eksploatacji sieci oraz urządzeń i instalacji w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, albo stanu nadzwyczajnego może być przeprowadzane zdalnie pod warunkiem zachowania możliwości identyfikacji osoby, której kwalifikacje się sprawdza, i zabezpieczenia przebiegu egzaminu przed ingerencją osób trzecich.
+
+4. Termin ważności zaświadczeń kwalifikacyjnych, o których mowa w art. 22 ust. 2 i 3 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2019 r. poz. 667 oraz z 2020 r. poz. 568, 1086, 1339, 2255 i 2320), które tracą ważność od dnia 1 marca 2020 r., wydłuża się do 180 dni od dnia następującego po dniu odwołania stanu zagrożenia epidemicznego albo stanu epidemii, albo stanu nadzwyczajnego.
+
+5. Termin ważności świadectw kwalifikacyjnych spawaczy, operatorów spawania oraz zgrzewaczy tworzyw sztucznych wydanych na podstawie zapisów obowiązujących norm, które tracą ważność od dnia 1 marca 2020 r., wydłuża się do 180 dni od dnia następującego po dniu odwołania stanu zagrożenia epidemicznego albo stanu epidemii, albo stanu nadzwyczajnego, przy zachowaniu wymogów określonych w tych normach, dotyczących potwierdzania praktyki personelu wykonującego połączenia nierozłączne.”;
+
+- **28)** w art. 31zc w ust. 1 wyrazy „w art. 36 ust. 3” zastępuje się wyrazami „w art. 36 ust. 3a”;
+- **29)** po art. 31zd dodaje się art. 31zda i art. 31zdb w brzmieniu: „Art. 31zda. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie 30 dni po ich odwołaniu decyzje oraz pisma w sprawach świadczeń przyznawanych lub wypłacanych przez Zakład Ubezpieczeń Społecznych mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania. Art. 31zdb. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie 30 dni następujących po ich odwołaniu termin wyznaczony przez organ egzekucyjny dłużnikowi zajętej wierzytelności będącemu organem rentowym lub organem emerytalnym lub organem emerytalno-rentowym, na podstawie:
+- **1)** art. 896 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r. poz. 1575, 1578 i 2320 oraz z 2021 r. poz. 11) – wynosi trzy tygodnie;
+- **2)** art. 79 § 4 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427, 1492 i 2320 oraz z 2021 r. poz. 11 i 41) – wynosi 21 dni.”;
+- **30)** w art. 31zp:
+    - **a)** w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) do dnia 15 marca 2021 r. – w przypadku składek, o których mowa w art. 31zo ust. 8, należnych za okres od dnia 1 lipca 2020 r. do dnia 30 września 2020 r., jeżeli płatnik składek prowadzi, na dzień złożenia wniosku, działalność oznaczoną według Polskiej Klasyfikacji Działalności (PKD 2007), jako rodzaj przeważającej działalności, kodem 59.11.Z, 59.12.Z, 59.13.Z, 59.14.Z, 71.11.Z, 90.03.Z, 90.04.Z albo jeżeli płatnik świadczy usługi na rzecz muzeów w rozumieniu ustawy z dnia 21 listopada 1996 r. o muzeach, oznaczone kodem 85.51.Z, 85.52.Z, 85.59, 85.60.Z, bądź prowadzi muzeum w rozumieniu ustawy z dnia 21 listopada 1996 r. o muzeach niebędące instytucją kultury, o zakończonym procesie organizacji muzeum i wpisanym do wykazu muzeów, o którym mowa w art. 5b ustawy z dnia 21 listopada 1996 r. o muzeach;”,
+    - **b)** w ust. 2 po pkt 2d dodaje się pkt 2e w brzmieniu: „2e) oświadczenie płatnika składek, o którym mowa w art. 31zo ust. 8, potwierdzające, że usługi oznaczone kodami 85.51.Z, 85.52.Z, 85.59, 85.60.Z są świadczone na rzecz muzeum w rozumieniu ustawy z dnia 21 listopada 1996 r. o muzeach; oświadczenie to zastępuje oświadczenie, o którym mowa w pkt 2b;”,
+    - **c)** w ust. 3 wyrazy „2–2d” zastępuje się wyrazami „2–2e”;
+
+- **31)** w art. 31zy w ust. 3 w pkt 3 po wyrazach „pkt 2–2c” dodaje się wyrazy „oraz pkt 2e”;
+- **32)** w art. 31zzca:
+    - **a)** w ust. 1 po wyrazach „w 2020 r.” dodaje się wyrazy „lub w 2021 r.”;
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. W przypadku zwolnienia z opłaty, rada gminy, w uchwale, o której mowa w ust. 1, może przyznać zwrot określonej części opłaty pobranej od przedsiębiorców, którzy wnieśli jednorazowo opłatę:
+
+- **1)** za rok 2020 w terminie do dnia 31 stycznia 2020 r.;
+- **2)** za rok 2021 w terminie do dnia 31 stycznia 2021 r.
+
+3. Termin wniesienia opłaty należnej w:
+
+- **1)** 2020 r. może zostać przedłużony do dnia 31 grudnia 2020 r.;
+- **2)** 2021 r. może zostać przedłużony do dnia 31 grudnia 2021 r.”;
+- **33)** po art. 31zzr dodaje się art. 31zzs w brzmieniu: „Art. 31zzs. 1. W celu przeciwdziałania skutkom COVID-19 minister właściwy do spraw kultury i ochrony dziedzictwa narodowego na wniosek Dyrektora Polskiego Instytutu Sztuki Filmowej przekazuje Polskiemu Instytutowi Sztuki Filmowej środki finansowe w wysokości 120 000 000 zł na sfinansowanie lub dofinansowanie kosztów, które podmioty, o których mowa w art. 22 ust. 1 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2019 r. poz. 2199 oraz z 2020 r. poz. 568 i 875), wykonujące działalność lub świadczące usługi na terytorium Rzeczypospolitej Polskiej, poniosły w okresie od dnia 1 listopada 2020 r. do dnia 30 kwietnia 2021 r. w następstwie wystąpienia COVID-19 i które nie zostały sfinansowane lub dofinansowane z innych środków, w tym środków publicznych.
+
+2. Środki finansowe, o których mowa w ust. 1, są dodatkowym źródłem przychodu Polskiego Instytutu Sztuki Filmowej.
+
+3. Środki finansowe, o których mowa w ust. 1, pochodzą z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
+
+4. Środki finansowe, o których mowa w ust. 1, są przyznawane podmiotom, o których mowa w ust. 1, w formie dotacji, pożyczki lub poręczenia na zasadach określonych w ustawie z dnia 30 czerwca 2005 r. o kinematografii.
+
+5. Środki finansowe, o których mowa w ust. 1, mogą zostać przyznane przez Polski Instytut Sztuki Filmowej także na wniosek osoby fizycznej biorącej udział w tworzeniu utworu audiowizualnego, która znalazła się w trudnej sytuacji materialnej w związku z epidemią COVID-19, w formie stypendium, o którym mowa w art. 13 ust. 3 ustawy z dnia 30 czerwca 2005 r. o kinematografii.
+
+6. Wniosek o przyznanie stypendium, o którym mowa w ust. 5, zawiera:
+
+- **1)** dane osoby, której wniosek dotyczy:
+    - **a)** imię i nazwisko,
+    - **b)** adres korespondencyjny oraz adres zamieszkania,
+    - **c)** numer PESEL;
+
+- **2)** nazwę oraz adres urzędu skarbowego właściwego ze względu na miejsce zamieszkania osoby, której wniosek dotyczy;
+- **3)** informacje o dorobku kinematograficznym osoby, której wniosek dotyczy;
+- **4)** informacje o sytuacji materialnej osoby, której wniosek dotyczy, wraz ze wskazaniem okoliczności wpływających na tę sytuację, uzasadniających przyznanie stypendium;
+- **5)** źródło uzyskiwanych przychodów oraz oświadczenie osoby, której wniosek dotyczy, o dochodach uzyskanych w okresie ostatnich 12 miesięcy.
+
+7. Oświadczenie, o którym mowa w ust. 6 pkt 5, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zamieszcza w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
+8. Podmioty, o których mowa w ust. 1, oraz osoby fizyczne, o których mowa w ust. 5, składają wnioski odpowiednio o sfinansowanie, dofinansowanie albo stypendium w terminie od dnia ogłoszenia rozpoczęcia naboru wniosków przez Polski Instytut Sztuki Filmowej do dnia 30 kwietnia 2021 r.
+
+9. Środki finansowe, które w terminie do dnia 31 lipca 2021 r. nie zostaną przekazane na rachunek bankowy podmiotom, o których mowa w ust. 1, i osobom fizycznym, o których mowa w ust. 5, podlegają zwrotowi do Funduszu Przeciwdziałania COVID-19 w terminie 14 dni od tego dnia.”;
+
+- **34)** w art. 36:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Przepisy art. 7, art. 9 oraz art. 31 tracą moc po upływie 365 dni od dnia wejścia w życie niniejszej ustawy.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przepisy art. 8d–8f tracą moc z dniem 30 czerwca 2021 r.”.
+
+**Art. 2.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2020 r. poz. 514, z późn. zm. ) art. 41a otrzymuje brzmienie: „Art. 41a. 1. Lekarz może udzielić upoważnienia do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zleceń na zaopatrzenie i zleceń naprawy, o których mowa w art. 2 pkt 6 lit. d ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, a także do dokonywania wpisów w Karcie Szczepień, o której mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, w jego imieniu osobie wykonującej:
+
+- **1)** zawód medyczny, o której mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **2)** czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
+
+2. Osoby upoważnione do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zleceń na zaopatrzenie i zleceń naprawy, o których mowa w art. 2 pkt 6 lit. d ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, a także do dokonywania wpisów w Karcie Szczepień, o której mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, mogą być dopuszczone do przetwarzania danych osobowych zawartych w tych dokumentach po wydaniu im przez podmiot wykonujący działalność leczniczą upoważnienia do przetwarzania danych osobowych. Osoby te mogą być obecne przy udzielaniu świadczeń zdrowotnych oraz są obowiązane do zachowania poufności wszelkich informacji i danych uzyskanych w związku z wystawianiem recepty, skierowania, zlecenia na zaopatrzenie lub zlecenia naprawy, a także w związku z dokonaniem wpisu w Karcie Szczepień. Obowiązek zachowania poufności obowiązuje również po śmierci pacjenta.
+
+3. Upoważnienie do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zleceń na zaopatrzenie i zleceń naprawy, o których mowa w art. 2 pkt 6 lit. d ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, a także do dokonywania wpisów w Karcie Szczepień, o której mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, może być udzielone na okres nie dłuższy niż 12 miesięcy, przy czym po upływie tego okresu można udzielić kolejnych upoważnień na okres nie dłuższy niż 12 miesięcy. Upoważnienie to może być w każdym czasie cofnięte przez lekarza lub podmiot wykonujący działalność leczniczą. Cofnięcie upoważnienia do wystawiania recept lub skierowań, lub zleceń na zaopatrzenie, lub zleceń naprawy, a także do dokonywania wpisów w Karcie Szczepień, przez podmiot wykonujący działalność leczniczą następuje po uprzednim uzgodnieniu z lekarzem.
+
+4. Od dnia udzielenia upoważnienia do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zleceń na zaopatrzenie i zleceń naprawy, o których mowa w art. 2 pkt 6 lit. d ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, a także do dokonywania wpisów w Karcie Szczepień, o której mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, do dnia jego cofnięcia albo wygaśnięcia osoba upoważniona jest obowiązana do zapewnienia zgodności danych zamieszczonych na tych receptach, skierowaniach, zleceniach i w Karcie Szczepień z danymi zawartymi w dokumentacji medycznej.
+
+5. Udzielanie upoważnień, o których mowa w ust. 1, następuje za pośrednictwem Rejestru Asystentów Medycznych, o którym mowa w art. 5 ust. 1 pkt 2 lit. l ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, na zasadach określonych w tej ustawie.”.
 
 **Art. 3.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2020 r. poz. 1777) wprowadza się następujące zmiany:
 
+- **1)** w art. 9 w ust. 1 pkt 1 otrzymuje brzmienie: „1) zwolnienie od pracy oraz zwolnienie od wykonywania czynności służbowych w dniu, w którym oddaje krew, i na czas okresowego badania lekarskiego dawców krwi na zasadach określonych w odrębnych przepisach;”;
+- **2)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. 1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii:
+- **1)** honorowemu dawcy krwi, który oddał krew lub jej składniki, w tym osocze po chorobie COVID-19, przysługują uprawnienia, o których mowa w art. 9, z tym że wymiar zwolnienia od pracy oraz zwolnienia od wykonywania czynności służbowych przysługuje w dniu, w którym oddał krew lub jej składniki, oraz w dniu następnym;
+- **2)** honorowemu dawcy krwi, który oddał co najmniej 3 donacje krwi lub jej składników, w tym osocze po chorobie COVID-19, przysługuje ulga w wysokości 33% na przejazdy w komunikacji krajowej środkami publicznego transportu zbiorowego:
+    - **a)** kolejowego w 1 i 2 klasie pociągów osobowych i pospiesznych oraz autobusowego w komunikacji zwykłej i przyspieszonej,
+    - **b)** kolejowego w 2 klasie pociągów innych niż osobowe i pospieszne – na podstawie biletów jednorazowych.
+
+2. Honorowy dawca krwi, któremu przysługuje ulga na przejazd, o którym mowa w ust. 1 pkt 2, jest obowiązany do uiszczenia dopłaty w wysokości stanowiącej różnicę między należnością za pełnopłatny przejazd w klasie 1 a należnością za pełnopłatny przejazd w klasie 2.
+
+3. Dokumentem poświadczającym uprawnienia, o których mowa w ust. 1:
+
+- **1)** pkt 1 – jest zaświadczenie wydane przez regionalne centrum, Wojskowe Centrum lub Centrum MSWiA;
+- **2)** pkt 2 – jest zaświadczenie potwierdzające co najmniej 3 donacje wydane przez regionalne centrum, Wojskowe Centrum lub Centrum MSWiA.
+
+4. Zaświadczenie, o którym mowa w ust. 3 pkt 2, zawiera:
+
+- **1)** datę wydania zaświadczenia;
+- **2)** imię i nazwisko dawcy krwi;
+- **3)** numer PESEL dawcy krwi;
+- **4)** informację o oddaniu 3 donacji krwi lub jej składników, w tym osocza po chorobie COVID-19.
+
+5. Środki finansowe na realizację uprawnień, o których mowa w ust. 1 pkt 2, pochodzą z budżetu państwa.”;
+
+- **3)** w art. 25b dotychczasową treść oznacza się jako ust. 1 oraz dodaje się ust. 2 w brzmieniu: „2. W przypadku gdy pomimo dwukrotnego przesunięcia terminu kontroli, okoliczności, o których mowa w ust. 1, nie ustaną, kontrolę, w celu zapewnienia prawidłowego nadzoru, przeprowadza się w sposób zdalny, za pośrednictwem operatora pocztowego albo za pośrednictwem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).”;
+- **4)** w art. 29 dodaje się ust. 3 w brzmieniu: „3. W przypadkach niecierpiących zwłoki, w szczególności związanych z zagrożeniem zdrowia lub życia pacjenta, któremu przetoczono krew lub jej składniki, dyrektor Instytutu może zlecić przeprowadzenie kontroli lub poszczególnych czynności w sposób zdalny, za pośrednictwem operatora pocztowego albo za pośrednictwem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.”.
+
 **Art. 4.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2020 r. poz. 426, 568 i 875) wprowadza się następujące zmiany:
+
+- **1)** w art. 6d w ust. 4a w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „6) właściwym jednostkom samorządu terytorialnego wykonującym zadania, o których mowa w art. 35 i art. 35a, w celu weryfikacji orzeczeń o niepełnosprawności, stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień osób ubiegających się o świadczenia tam określone, w zakresie informacji, o których mowa w ust. 4 pkt 1 lit. a i g oraz pkt 5;
+- **7)** Państwowemu Funduszowi Rehabilitacji Osób Niepełnosprawnych, zwanemu dalej „Funduszem”, w celu:
+    - **a)** weryfikacji danych dotyczących osób ubiegających się o refundację składek na ubezpieczenia społeczne, o których mowa w art. 25a i art. 25c, w zakresie informacji, o których mowa w ust. 3 pkt 1, ust. 4 pkt 1 lit. a i g oraz pkt 5,
+    - **b)** weryfikacji danych dotyczących osób, do których wynagrodzeń przysługuje dofinansowanie, o którym mowa w art. 26a–26c, w zakresie informacji, o których mowa w ust. 3 pkt 1, ust. 4 pkt 1 lit. a i g oraz pkt 5,
+    - **c)** weryfikacji uprawnień wnioskodawców do uzyskania pomocy ze środków Funduszu przekazywanych jednostkom samorządu terytorialnego na podstawie art. 48 ust. 1 pkt 1, w zakresie informacji, o których mowa w ust. 4 pkt 1 lit. a i g oraz pkt 5.”;
+
+- **2)** w art. 10b ust. 2 otrzymuje brzmienie: „2. Koszty utworzenia, działalności i wynikające ze zwiększenia liczby uczestników warsztatu są współfinansowane ze środków Funduszu oraz ze środków samorządu powiatowego lub innych źródeł, z zastrzeżeniem ust. 2a, 2b, 3 i 4 oraz art. 68c ust. 1.”;
+- **3)** w art. 21:
+    - **a)** uchyla się ust. 1a;
+    - **b)** dodaje się ust. 8 w brzmieniu: „8. Wpłaty, o których mowa w ust. 1, ulegają obniżeniu o 5% dla pracodawcy innego niż podmiot publiczny, o którym mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2020 r. poz. 1062), posiadającego certyfikat, o którym mowa w art. 19 ust. 1 tej ustawy, począwszy od wpłat należnych za miesiąc poprzedzający miesiąc, w którym pracodawca ten zawiadomił Zarząd Funduszu o uzyskaniu certyfikatu dostępności w deklaracjach, o których mowa w art. 49 ust. 2.”;
+
+- **4)** w art. 68gd:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Warunkiem przeznaczenia środków w sposób określony w ust. 1 jest uzyskanie zgody, w formie decyzji, dysponenta Funduszu.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Od decyzji, o której mowa w ust. 2, przysługuje wniosek o ponowne rozpatrzenie sprawy do dysponenta Funduszu.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. W przypadku niewystąpienia o zgodę lub wydania decyzji o braku zgody, o której mowa w ust. 2, dysponent zakładowego funduszu rehabilitacji osób niepełnosprawnych jest obowiązany do dokonania zwrotu oraz wpłaty, o których mowa w art. 33 ust. 4a.”;
+
+- **5)** art. 68ge otrzymuje brzmienie: „Art. 68ge. Pomoc publiczna udzielana na podstawie art. 26, art. 26a, art. 26d, art. 32 i art. 41 może być udzielana pracodawcom w trudnej sytuacji ekonomicznej jako pomoc publiczna, mająca na celu zaradzenie poważnym zaburzeniom w gospodarce, o której mowa w Sekcji 3.1 komunikatu Komisji – Tymczasowe ramy środków pomocy państwa w celu wsparcia gospodarki w kontekście trwającej epidemii COVID-19 (2020/C 91 I/01) (Dz. Urz. UE C 91I z 20.03.2020, str. 1), zgodnie z warunkami zawartymi w komunikacie Komisji.”;
+- **6)** po art. 68gg dodaje się art. 68gh w brzmieniu: „Art. 68gh. Samorząd województwa może zwiększyć maksymalną kwotę zobowiązań samorządu wojewódzkiego do wypłaty w 2020 r. i w 2021 r. z tytułu dofinansowania kosztów działalności zakładów aktywności zawodowej, w okresie trwania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19, z zaoszczędzonych środków własnych lub z zaoszczędzonych środków otrzymanych na realizację innych działań, przekazanych przez Prezesa Zarządu Funduszu, według algorytmu, o którym mowa w art. 48.”.
 
 **Art. 5.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325, z 2020 r. poz. 2299 i 2320 oraz z 2021 r. poz. 54) wprowadza się następujące zmiany:
 
+- **1)** w art. 5 w pkt 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „wiz wydawanych przez ministra właściwego do spraw zagranicznych lub konsulów, z wyjątkiem wiz:”;
+- **2)** w art. 52 w § 3 zdanie drugie otrzymuje brzmienie: „Prawo do wniesienia skargi bez zwrócenia się do organu, który wydał decyzję, z wnioskiem o ponowne rozpatrzenie sprawy nie przysługuje stronie, gdy organem, który wydał decyzję, jest minister właściwy do spraw zagranicznych w zakresie spraw uregulowanych w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2020 r. poz. 35, 2023, 2320 i 2369) albo konsul.”;
+- **3)** w art. 54 w § 2 zdanie drugie otrzymuje brzmienie: „Skargę wniesioną za pośrednictwem konsula oraz skargę na decyzję wydaną przez ministra właściwego do spraw zagranicznych w zakresie spraw uregulowanych w ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach, minister właściwy do spraw zagranicznych przekazuje sądowi wraz z kompletnymi i uporządkowanymi aktami sprawy i odpowiedzią na skargę w terminie sześćdziesięciu dni od dnia jej otrzymania odpowiednio przez ministra właściwego do spraw zagranicznych albo konsula.”.
+
 **Art. 6.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2020 r. poz. 860, 2112 i 2320) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm. ) art. 47c ust. 1 pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 brzmieniu: „12) dawcy krwi, którzy oddali co najmniej 3 donacje krwi lub jej składników, tym osocza po chorobie COVID-19 – na podstawie zaświadczenia, o którym mowa art. 9a ust. 3 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2020 r. poz. 1777 oraz z 2021 r. poz. 159).”.
+- **1)** w art. 5:
+    - **a)** w ust. 3 pkt 5 otrzymuje brzmienie: „5) przed skierowaniem lub wyznaczeniem do pełnienia zawodowej służby wojskowej poza granicami państwa oraz po powrocie do kraju z wyjątkiem kierowania lub wyznaczania żołnierzy do pełnienia zawodowej służby wojskowej poza granicami państwa z przeznaczeniem realizacji zadań na terenie kontynentu europejskiego oraz Państw-Stron Traktatu Północnoatlantyckiego spoza tego kontynentu;”,
+    - **b)** w ust. 5 pkt 2 otrzymuje brzmienie: „2) dowódca jednostki wojskowej – w przypadkach wymienionych w ust. 2 pkt 1, a także w pkt 2 w odniesieniu do żołnierzy w czynnej służbie wojskowej, którzy zgłosili chęć pełnienia zawodowej służby wojskowej, ust. 3 pkt 1–4 oraz ust. 4 pkt 3–5, a także, po uzgodnieniu z organem właściwym do wyznaczenia żołnierza zawodowego na stanowisko służbowe, w przypadkach wymienionych w ust. 3 pkt 5 oraz ust. 4 pkt 1 i 2;”;
 
-**Art. 8.** W ustawie z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2019 r. poz. 293 oraz z 2020 r. poz. 2023 i 2369) art. 2a ust. 2 pkt 1 otrzymuje brzmienie: „1) art. 3 pkt 20–22, art. 58, art. 59, art. 60 ust. 1 pkt 17 i 17a, art. 66 ust. 1, 2 i 3, art. 67–71, art. 73, art. 74, art. 74a, art. 77 ust. 1 pkt 1, 2 i 3 lit. a i e oraz ust. 7 i 8, art. 78 ust. 1 i 2, art. 79 ust. 1–4, przepisy wydane na podstawie art. 80 ust. 1, art. 96, przepisy wydane na podstawie art. 97 ust. 1, art. 360–379, art. 428 ust. 1 pkt 2 lit. c, art. 429 ust. 1 pkt 1, art. 443 ust. 1 pkt 5 i ust. 2, art. 448 oraz art. 449a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;”.
+- **2)** w art. 5a po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku gdy osobą, o której mowa w ust. 1, jest żołnierz w czynnej służbie wojskowej, o której mowa w art. 59 ust. 1 pkt 1–6 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1541 i 2020 oraz z 2020 r. poz. 374 i 2157), czynności wojskowego komendanta uzupełnień wykonuje dowódca jednostki wojskowej.”;
+- **3)** w art. 6 w ust. 2 pkt 2 otrzymuje brzmienie: „2) decyzji – należy przez to rozumieć również rozkaz personalny. Decyzje i rozkazy personalne wydaje się w formie indywidualnej lub zbiorowej. W przypadku sporządzenia decyzji lub rozkazu personalnego w formie zbiorowej, wyciąg z tej decyzji lub rozkazu jest z nimi równoznaczny. W przypadkach sporządzenia decyzji lub rozkazu personalnego albo wyciągu z tej decyzji lub rozkazu personalnego, ich wydruk wykonany z jednolitej ewidencji, o której mowa w art. 49a ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, jest, z wyjątkiem spraw związanych z powołaniem do zawodowej służby wojskowej lub służby kandydackiej oraz zwolnienia z tych służb, z nimi równoznaczny;”;
+- **4)** w art. 12 dodaje się ust. 3 w brzmieniu: „3. Jeżeli przemawiają za tym potrzeby Sił Zbrojnych, do służby kontraktowej można również powołać żołnierza w czynnej służbie wojskowej, o którym mowa w art. 5a ust. 1a, w ostatnim dniu tej służby. Przepis ust. 2 stosuje się odpowiednio.”.
 
-**Art. 9.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2020 r. poz. 882, 2112 i 2401) art. 26b ust. 2 wyrazy „dyspozytorów medycznych i psychologów, o których mowa odpowiednio art. 26 i art. 26a ust. 1” zastępuje się wyrazami „dyspozytorów medycznych, o których mowa art. 26”.
+**Art. 7.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm. ) w art. 47c w ust. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „12) dawcy krwi, którzy oddali co najmniej 3 donacje krwi lub jej składników, w tym osocza po chorobie COVID-19 – na podstawie zaświadczenia, o którym mowa w art. 9a ust. 3 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2020 r. poz. 1777 oraz z 2021 r. poz. 159).”.
 
-**Art. 10.** W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2020 r. poz. 1856) art. 14 ust. 10 otrzymuje brzmienie: „10. W skład zespołu wojewódzkiego wchodzą również wyznaczeni przez Ministra Obrony Narodowej przedstawiciele Sił Zbrojnych Rzeczypospolitej Polskiej.”.
+**Art. 8.** W ustawie z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2019 r. poz. 293 oraz z 2020 r. poz. 2023 i 2369) w art. 2a w ust. 2 pkt 1 otrzymuje brzmienie: „1) art. 3 pkt 20–22, art. 58, art. 59, art. 60 ust. 1 pkt 17 i 17a, art. 66 ust. 1, 2 i 3, art. 67–71, art. 73, art. 74, art. 74a, art. 77 ust. 1 pkt 1, 2 i 3 lit. a i e oraz ust. 7 i 8, art. 78 ust. 1 i 2, art. 79 ust. 1–4, przepisy wydane na podstawie art. 80 ust. 1, art. 96, przepisy wydane na podstawie art. 97 ust. 1, art. 360–379, art. 428 ust. 1 pkt 2 lit. c, art. 429 ust. 1 pkt 1, art. 443 ust. 1 pkt 5 i ust. 2, art. 448 oraz art. 449a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;”.
 
-**Art. 11.** W ustawie z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2019 r. poz. 1844) art. 4 ust. 1 pkt 8 po wyrazach „ministrowi właściwemu do spraw wewnętrznych,” dodaje się wyrazy „ministrowi właściwemu do spraw zagranicznych,”.
+**Art. 9.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2020 r. poz. 882, 2112 i 2401) w art. 26b w ust. 2 wyrazy „dyspozytorów medycznych i psychologów, o których mowa odpowiednio w art. 26 i art. 26a ust. 1” zastępuje się wyrazami „dyspozytorów medycznych, o których mowa w art. 26”.
+
+**Art. 10.** W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2020 r. poz. 1856) w art. 14 ust. 10 otrzymuje brzmienie: „10. W skład zespołu wojewódzkiego wchodzą również wyznaczeni przez Ministra Obrony Narodowej przedstawiciele Sił Zbrojnych Rzeczypospolitej Polskiej.”.
+
+**Art. 11.** W ustawie z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2019 r. poz. 1844) w art. 4 w ust. 1 w pkt 8 po wyrazach „ministrowi właściwemu do spraw wewnętrznych,” dodaje się wyrazy „ministrowi właściwemu do spraw zagranicznych,”.
 
 **Art. 12.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, 2112 i 2401) wprowadza się następujące zmiany:
+
+- **1)** po art. 21 dodaje się art. 21a–21f w brzmieniu: „Art. 21a. 1. Osoba przeprowadzająca:
+- **1)** lekarskie badanie kwalifikacyjne,
+- **2)** szczepienie ochronne – może dokonywać wpisu do Karty Szczepień określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, prowadzonej w postaci elektronicznej w systemie, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2020 r. poz. 702, 1493, 1875, 2345 i 2401 oraz z 2021 r. poz. 97).
+
+2. W przypadku gdy osoba przeprowadzająca lekarskie badanie kwalifikacyjne dokonała wpisu o tym badaniu do Karty Szczepień, nie wystawia się zaświadczenia, o którym mowa w art. 17 ust. 4.
+
+3. Zaświadczenie o wykonaniu szczepienia wydane w postaci elektronicznej udostępnia się w Internetowym Koncie Pacjenta, o którym mowa w art. 7a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, osoby poddanej szczepieniu. Na żądanie tej osoby zaświadczenie o wykonaniu szczepienia wydaje się także w postaci papierowej.
+
+4. W przypadku dokonania wpisu o szczepieniu w Karcie Szczepień nie jest wymagane dokonanie:
+
+- **1)** tego samego wpisu w karcie uodpornienia;
+- **2)** wpisu o szczepieniu w wykazie zabiegów, o którym mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
 
 **Art. 21b.** Osoby wykonujące zawód medyczny mają dostęp do jednostkowych danych medycznych osoby poddanej szczepieniu dotyczących przeprowadzonego szczepienia. W tym przypadku nie jest wymagana zgoda osoby poddanej szczepieniu lub jej przedstawiciela ustawowego.
 
 **Art. 21c.**
 
-1. W przypadku wystąpienia stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, wykonanie szczepienia ochronnego przeciwko COVID-19 jest poprzedzone lekarskim badaniem kwalifikacyjnym celu wykluczenia przeciwwskazań do jego wykonania.
+1. W przypadku wystąpienia stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, wykonanie szczepienia ochronnego przeciwko COVID-19 jest poprzedzone lekarskim badaniem kwalifikacyjnym w celu wykluczenia przeciwwskazań do jego wykonania.
 
 2. W przypadku wystąpienia stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, szczepienia ochronne przeciwko COVID-19 przeprowadzają:
 
 - **1)** lekarze, lekarze dentyści, pielęgniarki, położne, felczerzy i ratownicy medyczni;
-- **2)** fizjoterapeuci, farmaceuci, higienistki szkolne i diagności laboratoryjni, posiadający kwalifikacje określone przepisach wydanych na podstawie ust. 5.
+- **2)** fizjoterapeuci, farmaceuci, higienistki szkolne i diagności laboratoryjni, posiadający kwalifikacje określone w przepisach wydanych na podstawie ust. 5.
 
-3. Do szczepień ochronnych przeciwko COVID-19 nie stosuje się przepisów art. 19, przypadku wystąpienia stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19.
+3. Do szczepień ochronnych przeciwko COVID-19 nie stosuje się przepisów art. 19, w przypadku wystąpienia stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19.
 
 4. W przypadku wystąpienia stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, zakup szczepionek przeciwko COVID-19 oraz koszty przeprowadzania szczepień ochronnych przeciwko COVID-19 są finansowane ze środków publicznych.
 
-5. Minister właściwy do spraw zdrowia określi, drodze rozporządzenia, kwalifikacje osób przeprowadzających szczepienia ochronne przeciwko COVID-19, o których mowa ust. 2 pkt 2, uwzględniając konieczność zapewnienia bezpieczeństwa osób poddanych tym szczepieniom.
+5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, kwalifikacje osób przeprowadzających szczepienia ochronne przeciwko COVID-19, o których mowa w ust. 2 pkt 2, uwzględniając konieczność zapewnienia bezpieczeństwa osób poddanych tym szczepieniom.
 
 **Art. 21d.**
 
-1. Szczepienia ochronne przeciwko COVID-19 są przeprowadzane na podstawie skierowania określonego przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, zwanego dalej „skierowaniem”.
+1. Szczepienia ochronne przeciwko COVID-19 są przeprowadzane na podstawie skierowania określonego w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, zwanego dalej „skierowaniem”.
 
-2. Skierowanie postaci elektronicznej jest wystawiane przez:
+2. Skierowanie w postaci elektronicznej jest wystawiane przez:
 
-- **1)** system, o którym mowa art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia,
-- **2)** lekarza za pośrednictwem systemu, o którym mowa pkt 1 – zgodnie z kryteriami określonymi przepisach wydanych na podstawie art. 3 ust. 4.
+- **1)** system, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
+- **2)** lekarza za pośrednictwem systemu, o którym mowa w pkt 1 – zgodnie z kryteriami określonymi w przepisach wydanych na podstawie art. 3 ust. 4.
 
 3. Skierowanie jest ważne przez okres 90 dni od dnia jego wystawienia.
 
-4. Do skierowania, o którym mowa ust. 2 pkt 2, stosuje się art. 31b ust. 14 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia.
+4. Do skierowania, o którym mowa w ust. 2 pkt 2, stosuje się art. 31b ust. 14 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
-5. Po wykonaniu szczepienia ochronnego przeciwko COVID-19 albo podaniu pierwszej dawki szczepionki przeciwko COVID-19 punkt szczepień dokonuje zmiany statusu informacji skierowania systemie, o którym mowa art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia.
+5. Po wykonaniu szczepienia ochronnego przeciwko COVID-19 albo podaniu pierwszej dawki szczepionki przeciwko COVID-19 punkt szczepień dokonuje zmiany statusu informacji skierowania w systemie, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
 **Art. 21e.**
 
-1. Tworzy się centralny elektroniczny system rejestracji na szczepienia ochronne przeciwko COVID-19, zwany dalej „systemem rejestracji”, którym są przetwarzane:
+1. Tworzy się centralny elektroniczny system rejestracji na szczepienia ochronne przeciwko COVID-19, zwany dalej „systemem rejestracji”, w którym są przetwarzane:
 
-- **1)** informacje niezbędne do przeprowadzania tych szczepień; dyczne tej osoby;
-- **3)** dane zawarte skierowaniu.
+- **1)** informacje niezbędne do przeprowadzania tych szczepień;
+- **2)** dane osoby poddającej się tym szczepieniom: imię i nazwisko, numer PESEL, numer i seria dokumentu tożsamości, numer telefonu, adres poczty elektronicznej, adres miejsca zamieszkania, oraz jednostkowe dane medyczne tej osoby;
+- **3)** dane zawarte w skierowaniu.
 
 2. Do systemu rejestracji dane o planowanych szczepieniach ochronnych przeciwko COVID-19:
 
-- **1)** wprowadza administrator systemu, o którym mowa art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia;
-- **2)** wprowadza się ramach działalności:
-    - **a)** usługodawcy rozumieniu art. 2 pkt 15 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia, wystawiającego skierowanie,
+- **1)** wprowadza administrator systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **2)** wprowadza się w ramach działalności:
+    - **a)** usługodawcy w rozumieniu art. 2 pkt 15 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, wystawiającego skierowanie,
     - **b)** punktu szczepień.
 
-3. Do systemu rejestracji dane o przeprowadzanych szczepieniach ochronnych przeciwko COVID-19 wprowadza się ramach działalności punktu szczepień.
+3. Do systemu rejestracji dane o przeprowadzanych szczepieniach ochronnych przeciwko COVID-19 wprowadza się w ramach działalności punktu szczepień.
 
-4. Administratorem danych zawartych systemie rejestracji jest minister właściwy do spraw zdrowia.
+4. Administratorem danych zawartych w systemie rejestracji jest minister właściwy do spraw zdrowia.
 
-5. Obsługę techniczną systemu rejestracji zapewnia jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa zakresie systemów informacyjnych ochrony zdrowia.
+5. Obsługę techniczną systemu rejestracji zapewnia jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia.
 
-6. W zakresie kierowania na szczepienia ochronne przeciwko COVID-19 system rejestracji korzysta z danych oraz usług dostarczanych przez System Informacji Medycznej, dziedzinowe systemy teleinformatyczne oraz rejestry medyczne, o których mowa art. 5 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia.
+6. W zakresie kierowania na szczepienia ochronne przeciwko COVID-19 system rejestracji korzysta z danych oraz usług dostarczanych przez System Informacji Medycznej, dziedzinowe systemy teleinformatyczne oraz rejestry medyczne, o których mowa w art. 5 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
-7. Dane dotyczące szczepień ochronnych przeciwko COVID-19 zawarte systemie rejestracji, tym jednostkowe dane medyczne, są przekazywane do systemu, o którym mowa art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia, celu prezentowania ich Internetowym Koncie Pacjenta, o którym mowa art. 7a tej ustawy, oraz monitorowania przebiegu szczepień.
+7. Dane dotyczące szczepień ochronnych przeciwko COVID-19 zawarte w systemie rejestracji, w tym jednostkowe dane medyczne, są przekazywane do systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w celu prezentowania ich w Internetowym Koncie Pacjenta, o którym mowa w art. 7a tej ustawy, oraz monitorowania przebiegu szczepień.
 
-8. Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa zakresie systemów informacyjnych ochrony zdrowia udostępnia dane o szczepieniach Narodowemu Funduszowi Zdrowia celu kontrolowania i rozliczania udzielonych świadczeń opieki zdrowotnej.
+8. Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia udostępnia dane o szczepieniach Narodowemu Funduszowi Zdrowia w celu kontrolowania i rozliczania udzielonych świadczeń opieki zdrowotnej.
 
 **Art. 21f.**
 
-1. Rejestracja na wykonanie szczepienia ochronnego przeciwko COVID-19 następuje systemie rejestracji po udostępnieniu imienia i nazwiska oraz numeru PESEL osoby poddawanej temu szczepieniu, a przypadku jego braku – numeru i serii dokumentu tożsamości wskazanego na skierowaniu, za pośrednictwem:
+1. Rejestracja na wykonanie szczepienia ochronnego przeciwko COVID-19 następuje w systemie rejestracji po udostępnieniu imienia i nazwiska oraz numeru PESEL osoby poddawanej temu szczepieniu, a w przypadku jego braku – numeru i serii dokumentu tożsamości wskazanego na skierowaniu, za pośrednictwem:
 
-- **1)** Internetowego Konta Pacjenta, o którym mowa art. 7a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia, lub telefonicznie;
+- **1)** Internetowego Konta Pacjenta, o którym mowa w art. 7a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub telefonicznie;
 - **2)** usługodawcy wystawiającego skierowanie;
 - **3)** punktu szczepień.
 
-2. Podczas rejestracji na wykonanie szczepienia ochronnego przeciwko COVID-19 osoba poddawana temu szczepieniu może przekazać numer telefonu lub adres poczty elektronicznej. W takim przypadku informacja o terminie i miejscu szczepienia ochronnego przeciwko COVID-19 jest przekazywana przez jednostkę podległą ministrowi właściwemu do spraw zdrowia, właściwą zakresie systemów informacyjnych ochrony zdrowia, postaci wiadomości tekstowej na ten numer telefonu lub adres poczty elektronicznej.”;
+2. Podczas rejestracji na wykonanie szczepienia ochronnego przeciwko COVID-19 osoba poddawana temu szczepieniu może przekazać numer telefonu lub adres poczty elektronicznej. W takim przypadku informacja o terminie i miejscu szczepienia ochronnego przeciwko COVID-19 jest przekazywana przez jednostkę podległą ministrowi właściwemu do spraw zdrowia, właściwą w zakresie systemów informacyjnych ochrony zdrowia, w postaci wiadomości tekstowej na ten numer telefonu lub adres poczty elektronicznej.”;
 
-- **2)** art. 47 uchyla się ust. 10b;
-- **3)** art. 48a dodany przez art. 15 pkt 7 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112 i 2113) oznacza się jako art. 47c.
+- **2)** w art. 47 uchyla się ust. 10b;
+- **3)** art. 48a dodany przez art. 15 pkt 7 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112 i 2113) oznacza się jako art. 47c.
 
-**Art. 13.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia (Dz. U. z 2020 r. poz. 702, 1493, 1875, 2345 i 2401 oraz z 2021 r. poz. 97) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2020 r. poz. 702, 1493, 1875, 2345 i 2401 oraz z 2021 r. poz. 97) wprowadza się następujące zmiany:
 
-**Art. 14.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2020 r. poz. 357, 945, 1493, 1875 i 2401) art. 38c ust. 7 zdaniu drugim skreśla się wyrazy „ , a kończy z dniem wydania wyrobu medycznego”.
+- **1)** w art. 2 w pkt 6 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) Karty Szczepień, o których mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, 2112 i 2401 oraz z 2021 r. poz. 159);”;
+- **2)** w art. 15 po ust. 4c dodaje się ust. 4d w brzmieniu: „4d. Dane do Centralnego Wykazu Usługobiorców, w zakresie określonym w art. 4 ust. 3 pkt 1 lit. w, administrator danych jest obowiązany przekazywać również z innych prowadzonych przez niego baz danych, w tym z baz rejestrujących usługobiorców na udzielenie im świadczeń opieki zdrowotnej.”;
+- **3)** w art. 24:
+    - **a)** w ust. 5 wyraz „Narodowego” zastępuje się wyrazem „Rządowego”,
+    - **b)** w ust. 6 w pkt 2 wyraz „Narodowe” zastępuje się wyrazem „Rządowe”;
 
-**Art. 15.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2020 r. poz. 821) po art. 38b dodaje się art. 38c brzmieniu: „Art. 38c. W okresie stanu zagrożenia epidemicznego albo stanu epidemii rodzina zastępcza, prowadzący rodzinny dom dziecka, dyrektor placówki opiekuńczo-wychowawczej, dyrektor regionalnej placówki opiekuńczo-terapeutycznej oraz dyrektor interwencyjnego ośrodka preadopcyjnego są obowiązani do:
+- **4)** w art. 31b:
+    - **a)** ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw zdrowia udostępnia odpowiednio usługodawcom w odniesieniu do recept, zleceń na zaopatrzenie, zleceń naprawy, skierowań i Karty Szczepień lub Zakładowi Ubezpieczeń Społecznych w odniesieniu do zaświadczeń lekarskich raz dziennie, za pośrednictwem systemu teleinformatycznego, informacje, o których mowa w ust. 7 pkt 1 lit. b, pkt 2 lit. b oraz pkt 3–5, a także datę ostatniej aktualizacji wpisu w RAM i przyczynę tej aktualizacji, w formie dokumentu elektronicznego, zapisanego w formacie XML oraz opatrzonego pieczęcią elektroniczną.”,
+    - **b)** ust. 11 otrzymuje brzmienie: „11. Upoważnienie do wystawiania recept, zleceń na zaopatrzenie, zleceń naprawy i skierowań, a także do dokonywania wpisów w Karcie Szczepień obowiązuje od dnia następującego po dniu jego udzielenia albo od wprowadzonej przez wystawiającego daty obowiązywania upoważnienia – w zależności, która z okoliczności nastąpi później.”,
+    - **c)** ust. 14 otrzymuje brzmienie: „14. Elektroniczna dokumentacja medyczna jest podpisywana przez pracownika medycznego lub osobę przez niego upoważnioną kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.”.
+
+**Art. 14.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2020 r. poz. 357, 945, 1493, 1875 i 2401) w art. 38c w ust. 7 w zdaniu drugim skreśla się wyrazy „ , a kończy z dniem wydania wyrobu medycznego”.
+
+**Art. 15.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2020 r. poz. 821) po art. 38b dodaje się art. 38c w brzmieniu: „Art. 38c. W okresie stanu zagrożenia epidemicznego albo stanu epidemii rodzina zastępcza, prowadzący rodzinny dom dziecka, dyrektor placówki opiekuńczo-wychowawczej, dyrektor regionalnej placówki opiekuńczo-terapeutycznej oraz dyrektor interwencyjnego ośrodka preadopcyjnego są obowiązani do:
+
+- **1)** utrzymywania bezpośredniego kontaktu z właściwymi ze względu na miejsce sprawowania pieczy zastępczej:
+    - **a)** państwowym powiatowym inspektorem sanitarnym,
+    - **b)** wojewodą,
+    - **c)** organami jednostek samorządu terytorialnego oraz
+    - **d)** podmiotami leczniczymi, wykonującymi zadania w zakresie zapobiegania oraz zwalczania zakażeń i chorób zakaźnych u ludzi – w celu wymiany informacji o sytuacji epidemiologicznej;
+
+- **2)** informowania personelu o aktualnych przepisach oraz zaleceniach, poleceniach, nakazach i zakazach odpowiednich służb i organów;
+- **3)** monitorowania zaopatrzenia w niezbędne środki ochrony osobistej i podejmowania odpowiednich działań w celu ich niezbędnego uzupełnienia.”.
 
 **Art. 16.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2020 r. poz. 35, 2023, 2320 i 2369) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 ust. 3 otrzymuje brzmienie: „3. Wnioski składane w postępowaniu przed ministrem właściwym do spraw zagranicznych lub konsulem oraz dokumenty sporządzone w języku obcym, służące za dowód w postępowaniu prowadzonym na podstawie ustawy przed ministrem właściwym do spraw zagranicznych lub konsulem, składa się w języku polskim lub języku wskazanym przez te organy.”;
+- **2)** w art. 9 dodaje się ust. 4 i 5 w brzmieniu: „4. W postępowaniach w sprawach uregulowanych w ustawie prowadzonych przez ministra właściwego do spraw zagranicznych, z wyłączeniem spraw, o których mowa w art. 66 ust. 4, pisma doręcza się za pośrednictwem konsula. Za równorzędne z doręczeniem oryginału pisma uznaje się doręczenie wydruku jego odwzorowania cyfrowego, opatrzonego pieczęcią imienną i podpisem konsula.
+
+5. W przypadkach, o których mowa w ust. 4, do doręczeń pism stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne.”;
+
+- **3)** w art. 10 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. W toku postępowań prowadzonych na podstawie przepisów rozdziału 1 w dziale IV ustawy przez ministra właściwego do spraw zagranicznych nie stosuje się przepisów art. 10, art. 21, art. 28, art. 29, art. 31, art. 34, art. 48, art. 50, art. 51, art. 61 § 2, art. 63–65, art. 66a, art. 67, art. 78, art. 81, art. 89, art. 97, art. 98, art. 107, art. 154–163a oraz art. 261 Kodeksu postępowania administracyjnego.”;
+- **4)** w art. 66:
+    - **a)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Wizę może również wydać albo odmówić jej wydania minister właściwy do spraw zagranicznych, jeżeli:
+
+- **1)** wniosek o wydanie wizy został złożony w państwie określonym w przepisach wydanych na podstawie ust. 8;
+- **2)** zostały spełnione dodatkowe warunki zapewniające możliwość złożenia wniosku o wydanie wizy do ministra właściwego do spraw zagranicznych – w przypadku gdy takie warunki zostały określone w przepisach wydanych na podstawie ust. 8.
+
+1b. Wniosek o wydanie wizy przez ministra właściwego do spraw zagranicznych cudzoziemiec składa za pośrednictwem konsula.
+
+1c. Wniosek złożony bezpośrednio do ministra właściwego do spraw zagranicznych zwraca się cudzoziemcowi z informacją o właściwym trybie złożenia wniosku.”,
+
+- **b)** dodaje się ust. 8 i 9 w brzmieniu: „8. Minister właściwy do spraw zagranicznych może określić, w drodze rozporządzenia, państwa, w których cudzoziemcy mogą składać wnioski o wydanie wizy przez ministra właściwego do spraw zagranicznych, uwzględniając potrzebę zapewnienia sprawnej obsługi cudzoziemców.
+
+9. W rozporządzeniu, o którym mowa w ust. 8, minister właściwy do spraw zagranicznych może również określić dodatkowe warunki, po spełnieniu których cudzoziemcy mogą składać wnioski o wydanie wizy do ministra właściwego do spraw zagranicznych.”;
+
+- **5)** po art. 66 dodaje się art. 66a w brzmieniu: „Art. 66a. Czynności, o których mowa w art. 19 ust. 3 Wspólnotowego Kodeksu Wizowego, minister właściwy do spraw zagranicznych realizuje za pośrednictwem konsula, o którym mowa w art. 66 ust. 1b.”;
+- **6)** po art. 70 dodaje się art. 70a w brzmieniu: „Art. 70a. Przepisy art. 67, art. 69 i art. 70 stosuje się odpowiednio w przypadku rozpatrywania wniosków o wydanie wizy przez ministra właściwego do spraw zagranicznych.”;
+- **7)** w art. 72 wyraz „konsul” zastępuje się wyrazami „minister właściwy do spraw zagranicznych albo konsul”;
+- **8)** w art. 73 w ust. 1 w pkt 1 po wyrazach „wydawanych przez” dodaje się wyrazy „ministra właściwego do spraw zagranicznych albo”;
+- **9)** w art. 74a w ust. 2 wyraz „konsul” zastępuje się wyrazami „minister właściwy do spraw zagranicznych albo konsul”;
+- **10)** po art. 74a dodaje się art. 74b w brzmieniu: „Art. 74b. Jeżeli w toku rozpatrywania przez ministra właściwego do spraw zagranicznych wniosku o wydanie wizy krajowej lub wizy Schengen albo wniosku o ponowne rozpatrzenie sprawy zachodzi konieczność przeprowadzenia z cudzoziemcem rozmowy, o której mowa w art. 21 ust. 8 Wspólnotowego Kodeksu Wizowego, minister właściwy do spraw zagranicznych może polecić przeprowadzenie takiej rozmowy konsulowi, o którym mowa w art. 66 ust. 1b.”;
+- **11)** w art. 75 w ust. 2:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) oznaczenie organu;”,
+    - **b)** pkt 6 otrzymuje brzmienie: „6) pouczenie o przysługującym wniosku o ponowne rozpatrzenie sprawy przez ministra właściwego do spraw zagranicznych albo konsula oraz trybie jego wniesienia;”,
+    - **c)** pkt 8 otrzymuje brzmienie: „8) podpis pracownika działającego w imieniu ministra właściwego do spraw zagranicznych albo urzędnika konsularnego, z podaniem imienia i nazwiska oraz zajmowanego stanowiska;”;
+
+- **12)** w art. 76:
+    - **a)** w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) ministra właściwego do spraw zagranicznych – przysługuje wniosek o ponowne rozpatrzenie sprawy przez ten organ;”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku, o którym mowa w ust. 1 pkt 1a, wniosek o ponowne rozpatrzenie sprawy składa się za pośrednictwem konsula, o którym mowa w art. 66 ust. 1b.”,
+    - **c)** w ust. 2 skreśla się wyrazy „przez konsula”,
+    - **d)** ust. 3 otrzymuje brzmienie: „3. Wniosek, o którym mowa w ust. 2, rozpatruje się w terminie 14 dni.”,
+    - **e)** w ust. 4: – pkt 1 otrzymuje brzmienie: „1) oznaczenie organu;”, – po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) określenie powodów ponownej odmowy;”, – pkt 7 otrzymuje brzmienie: „7) podpis pracownika działającego w imieniu ministra właściwego do spraw zagranicznych albo urzędnika konsularnego, z podaniem imienia i nazwiska oraz zajmowanego stanowiska;”,
+    - **f)** dodaje się ust. 6 w brzmieniu: „6. Konsul, za pośrednictwem którego złożono wniosek, o którym mowa w ust. 1a, przekazuje do ministra właściwego do spraw zagranicznych odwzorowanie cyfrowe wniosku oraz przedłożonego dokumentu podróży i złożonych dokumentów.”;
+
+- **13)** w art. 77:
+    - **a)** w ust. 7 wyrazy „konsul może” zastępuje się wyrazem „można”,
+    - **b)** dodaje się ust. 9 w brzmieniu: „9. Przyjęcie przez ministra właściwego do spraw zagranicznych wniosku o wydanie wizy krajowej odnotowuje w dokumencie podróży cudzoziemca konsul, o którym mowa w art. 66 ust. 1b.”;
+
+- **14)** po art. 77 dodaje się art. 77a i art. 77b w brzmieniu: „Art. 77a. Konsul, o którym mowa w art. 66 ust. 1b, przekazuje do ministra właściwego do spraw zagranicznych odwzorowanie cyfrowe wniosku oraz przedłożonego dokumentu podróży i złożonych dokumentów, a w przypadku wniosku o wydanie wizy Schengen, dodatkowo przekazuje odciski linii papilarnych, o ile zostały pobrane.
 
 **Art. 77b.**
 
 1. Za przyjęcie i rozpatrzenie przez ministra właściwego do spraw zagranicznych wniosku o wydanie wizy krajowej lub wniosku o ponowne rozpatrzenie wniosku o wydanie wizy Schengen i wizy krajowej pobiera się opłaty, które stanowią dochód budżetu państwa.
 
-2. Przepisu ust. 1 nie stosuje się do wiz, o których mowa art. 66 ust. 4. przepisy ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne stosuje się odpowiednio.”;
+2. Przepisu ust. 1 nie stosuje się do wiz, o których mowa w art. 66 ust. 4.
 
-- **15)** art. 78 dodaje się ust. 3 i 4 brzmieniu: „3. Czynności, o których mowa ust. 1 i 2, odniesieniu do wiz wydanych przez ministra właściwego do spraw zagranicznych, z wyjątkiem wiz, o których mowa art. 66 ust. 4, wykonuje konsul, o którym mowa art. 66 ust. 1b.
+3. Opłaty, o których mowa w ust. 1, są pobierane przez właściwego konsula w wysokości odpowiadającej opłacie konsularnej za wydanie wizy określonej dla indywidualnego przypadku. Do pobierania oraz zwrotu opłat przepisy ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne stosuje się odpowiednio.”;
 
-4. Czynności, o których mowa art. 27 i art. 29 Wspólnotowego Kodeksu Wizowego, odniesieniu do wiz wydanych przez ministra właściwego do spraw zagranicznych wykonuje konsul, o którym mowa art. 66 ust. 1b.”;
+- **15)** w art. 78 dodaje się ust. 3 i 4 w brzmieniu: „3. Czynności, o których mowa w ust. 1 i 2, w odniesieniu do wiz wydanych przez ministra właściwego do spraw zagranicznych, z wyjątkiem wiz, o których mowa w art. 66 ust. 4, wykonuje konsul, o którym mowa w art. 66 ust. 1b.
 
-- **16)** art. 79 dodaje się ust. 5 i 6 brzmieniu: „5. Czynności, o których mowa ust. 1 i 2, odniesieniu do wiz wydanych przez ministra właściwego do spraw zagranicznych, z wyjątkiem wiz, o których mowa art. 66 ust. 4, wykonuje konsul, o którym mowa art. 66 ust. 1b.
+4. Czynności, o których mowa w art. 27 i art. 29 Wspólnotowego Kodeksu Wizowego, w odniesieniu do wiz wydanych przez ministra właściwego do spraw zagranicznych wykonuje konsul, o którym mowa w art. 66 ust. 1b.”;
 
-6. Czynności, o których mowa art. 28 Wspólnotowego Kodeksu Wizowego, odniesieniu do wiz wydanych przez ministra właściwego do spraw zagranicznych wykonuje konsul, o którym mowa art. 66 ust. 1b.”;
+- **16)** w art. 79 dodaje się ust. 5 i 6 w brzmieniu: „5. Czynności, o których mowa w ust. 1 i 2, w odniesieniu do wiz wydanych przez ministra właściwego do spraw zagranicznych, z wyjątkiem wiz, o których mowa w art. 66 ust. 4, wykonuje konsul, o którym mowa w art. 66 ust. 1b.
 
-- **17)** art. 80 ust. 1 pkt 5 lit. a wyraz „konsula” zastępuje się wyrazami „ministra właściwego do spraw zagranicznych albo konsula”;
-- **18)** art. 92 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Wizę wydaną przez ministra właściwego do spraw zagranicznych cofa lub unieważnia ten minister lub organy, o których mowa ust. 1.”;
-- **19)** art. 93:
-    - **a)** ust. 1 po pkt 1 dodaje się pkt 1a brzmieniu: „1a) ministra właściwego do spraw zagranicznych – przysługuje wniosek o ponowne rozpatrzenie sprawy przez ten organ;”,
-    - **b)** ust. 2 skreśla się wyrazy „przez konsula”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Wniosek, o którym mowa ust. 2, rozpatruje się terminie 14 dni.”,
-    - **d)** ust. 4: – pkt 1 otrzymuje brzmienie: „1) oznaczenie organu;”, – pkt 9 otrzymuje brzmienie: „9) podpis pracownika działającego imieniu ministra właściwego do spraw zagranicznych albo urzędnika konsularnego, z podaniem imienia i nazwiska oraz zajmowanego stanowiska;”;
+6. Czynności, o których mowa w art. 28 Wspólnotowego Kodeksu Wizowego, w odniesieniu do wiz wydanych przez ministra właściwego do spraw zagranicznych wykonuje konsul, o którym mowa w art. 66 ust. 1b.”;
 
-- **20)** art. 94: „3a. W okresie obowiązywania stanu zagrożenia epidemicznego, stanu epidemii albo wprowadzenia stanu nadzwyczajnego zajęcia ramach szkolenia oraz kursu doszkalającego, o którym mowa ust. 2, mogą być prowadzone z wykorzystaniem środków porozumiewania się na odległość.”.
-    - **a)** ust. 2: – pkt 7 otrzymuje brzmienie: „7) pouczenie o przysługującym wniosku o ponowne rozpatrzenie sprawy przez ministra właściwego do spraw zagranicznych, konsula lub odwołaniu do Komendanta Głównego Straży Granicznej oraz trybie jego wniesienia;”, – pkt 9 otrzymuje brzmienie: „9) podpis pracownika działającego imieniu ministra właściwego do spraw zagranicznych albo urzędnika konsularnego, z podaniem imienia i nazwiska oraz zajmowanego stanowiska, lub pieczęć imienną i podpis komendanta placówki Straży Granicznej lub komendanta oddziału Straży Granicznej, lub działającego z jego upoważnienia funkcjonariusza lub pracownika;”;
-    - **b)** dodaje się ust. 4 brzmieniu: „4. W przypadku gdy decyzja o cofnięciu lub unieważnieniu wizy została wydana przez ministra właściwego do spraw zagranicznych, organ ten może polecić wykonanie czynności, o której mowa ust. 3, konsulowi.”.
+- **17)** w art. 80 w ust. 1 w pkt 5 w lit. a wyraz „konsula” zastępuje się wyrazami „ministra właściwego do spraw zagranicznych albo konsula”;
+- **18)** w art. 92 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wizę wydaną przez ministra właściwego do spraw zagranicznych cofa lub unieważnia ten minister lub organy, o których mowa w ust. 1.”;
+- **19)** w art. 93:
+    - **a)** w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) ministra właściwego do spraw zagranicznych – przysługuje wniosek o ponowne rozpatrzenie sprawy przez ten organ;”,
+    - **b)** w ust. 2 skreśla się wyrazy „przez konsula”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Wniosek, o którym mowa w ust. 2, rozpatruje się w terminie 14 dni.”,
+    - **d)** w ust. 4: – pkt 1 otrzymuje brzmienie: „1) oznaczenie organu;”, – pkt 9 otrzymuje brzmienie: „9) podpis pracownika działającego w imieniu ministra właściwego do spraw zagranicznych albo urzędnika konsularnego, z podaniem imienia i nazwiska oraz zajmowanego stanowiska;”;
+
+- **20)** w art. 94:
+    - **a)** w ust. 2: – pkt 7 otrzymuje brzmienie: „7) pouczenie o przysługującym wniosku o ponowne rozpatrzenie sprawy przez ministra właściwego do spraw zagranicznych, konsula lub odwołaniu do Komendanta Głównego Straży Granicznej oraz trybie jego wniesienia;”, – pkt 9 otrzymuje brzmienie: „9) podpis pracownika działającego w imieniu ministra właściwego do spraw zagranicznych albo urzędnika konsularnego, z podaniem imienia i nazwiska oraz zajmowanego stanowiska, lub pieczęć imienną i podpis komendanta placówki Straży Granicznej lub komendanta oddziału Straży Granicznej, lub działającego z jego upoważnienia funkcjonariusza lub pracownika;”;
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. W przypadku gdy decyzja o cofnięciu lub unieważnieniu wizy została wydana przez ministra właściwego do spraw zagranicznych, organ ten może polecić wykonanie czynności, o której mowa w ust. 3, konsulowi.”.
+
+**Art. 17.** W ustawie z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2020 r. poz. 2232) w art. 11a po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W okresie obowiązywania stanu zagrożenia epidemicznego, stanu epidemii albo wprowadzenia stanu nadzwyczajnego zajęcia w ramach szkolenia oraz kursu doszkalającego, o którym mowa w ust. 2, mogą być prowadzone z wykorzystaniem środków porozumiewania się na odległość.”.
 
 **Art. 18.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086) wprowadza się następujące zmiany:
 
-**Art. 198b.** W przypadku czasowego ograniczenia lub czasowego zawieszenia kształcenia doktorantów, okresie tego ograniczenia lub zawieszenia oraz przez 60 dni po jego zakończeniu, legitymacje doktoranta są ważne, bez konieczności potwierdzania ich ważności. Przepis stosuje się również do legitymacji, które utraciły ważność okresie 30 dni poprzedzających czasowe ograniczenie lub czasowe zawieszenie kształcenia doktorantów.”;
+- **1)** w art. 51b dodaje się ust. 6 w brzmieniu: „6. W przypadku ograniczenia lub zawieszenia funkcjonowania uczelni wymiar praktyk zawodowych przewidzianych w programie studiów o profilu praktycznym może zostać ustalony na poziomie niższym niż określony w art. 67 ust. 5. Senat dokonuje zmian w programie studiów, w tym ustala wymiar praktyk zawodowych, mając na względzie konieczność zapewnienia wysokiej jakości kształcenia i umożliwienia osiągnięcia efektów uczenia się określonych w programie studiów.”;
+- **2)** art. 198a i art. 198b otrzymują brzmienie: „Art. 198a. W przypadkach uzasadnionych nadzwyczajnymi okolicznościami zagrażającymi życiu lub zdrowiu doktorantów minister właściwy do spraw szkolnictwa wyższego i nauki, w drodze rozporządzenia, może czasowo ograniczyć lub czasowo zawiesić kształcenie doktorantów w podmiotach prowadzących to kształcenie na obszarze kraju lub jego części, uwzględniając stopień zagrożenia na danym obszarze.
 
-**Art. 19.** W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1655, 2020 i 2217 oraz z 2020 r. poz. 288 i 2123) art. 30:
+**Art. 198b.** W przypadku czasowego ograniczenia lub czasowego zawieszenia kształcenia doktorantów, w okresie tego ograniczenia lub zawieszenia oraz przez 60 dni po jego zakończeniu, legitymacje doktoranta są ważne, bez konieczności potwierdzania ich ważności. Przepis stosuje się również do legitymacji, które utraciły ważność w okresie 30 dni poprzedzających czasowe ograniczenie lub czasowe zawieszenie kształcenia doktorantów.”;
 
-**Art. 20.** W ustawie z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 695, z późn. zm. ) art. 79:
+- **3)** w art. 251 w ust. 2 w pkt 1 wyraz „90” zastępuje się wyrazem „100”;
+- **4)** w art. 277 ust. 2 otrzymuje brzmienie: „2. Minister powołuje 28 rzeczników dyscyplinarnych spośród nauczycieli akademickich, z których:
+- **1)** 14 reprezentuje każdą z dziedzin i posiada stopień doktora habilitowanego lub tytuł profesora;
+- **2)** 14 posiada co najmniej stopień doktora w zakresie nauk prawnych.”.
 
-**Art. 21.** W ustawie z dnia 14 maja 2020 r. o zmianie niektórych ustaw zakresie działań osłonowych związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, 1086, 2255 i 2320) art. 74 otrzymuje brzmienie: „Art. 74. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 26c ust. 6 i art. 49 ust. 2 ustawy zmienianej art. 9 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 26c ust. 6 i art. 49 ust. 2 ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy.”.
+**Art. 19.** W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1655, 2020 i 2217 oraz z 2020 r. poz. 288 i 2123) w art. 30:
 
-**Art. 22.** W ustawie z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu związku z wystąpieniem COVID-19 (Dz. U. poz. 1086 i 1423) wprowadza się następujące zmiany:
+- **1)** uchyla się pkt 2;
+- **2)** uchyla się pkt 4;
+- **3)** uchyla się pkt 7.
+
+**Art. 20.** W ustawie z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 695, z późn. zm. ) w art. 79:
+
+- **1)** po ust. 5a dodaje się ust. 5aa w brzmieniu: „5aa. W roku akademickim 2020/2021 uczelnia może dokonać zmian w uchwale, o której mowa w art. 70 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustalającej warunki, tryb, termin rozpoczęcia i zakończenia rekrutacji oraz sposób przeprowadzenia tej rekrutacji na studia rozpoczynające się w drugim semestrze roku akademickiego 2020/2021 oraz w roku akademickim 2021/2022.”;
+- **2)** po ust. 5b dodaje się ust. 5ba w brzmieniu: „5ba. W roku akademickim 2020/2021 uczelnia publiczna może dokonać zmiany zasad, o których mowa w art. 70 ust. 6 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, przyjmowania na studia rozpoczynające się w drugim semestrze roku akademickiego 2020/2021 oraz w roku akademickim 2021/2022 laureatów oraz finalistów olimpiad stopnia centralnego, a także laureatów konkursów międzynarodowych oraz ogólnopolskich.”;
+- **3)** po ust. 5c dodaje się ust. 5d w brzmieniu: „5d. Na studia drugiego stopnia rozpoczynające się w roku akademickim 2021/2022 może być przyjęta osoba, która przedstawi zaświadczenie o ukończeniu studiów zawierające informacje o poziomie, kierunku i profilu studiów, uzyskanym tytule zawodowym i słownie określonym wyniku ukończenia studiów. Osoba ta, w terminie 30 dni od dnia wydania jej dyplomu ukończenia studiów, przedkłada ten dyplom w uczelni, w której została przyjęta na studia drugiego stopnia, pod rygorem skreślenia z listy studentów.”;
+- **4)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Do dnia 30 września 2021 r. do zmiany regulaminu studiów nie stosuje się art. 75 ust. 2 i 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce. Termin uzgodnienia regulaminu z samorządem studenckim wynosi 10 dni roboczych, a w przypadku braku uzgodnienia regulamin wchodzi w życie na mocy ponownej uchwały senatu podjętej zwykłą większością głosów jego statutowego składu. Zmiany regulaminu studiów przyjęte w tym trybie obowiązują nie dłużej niż do dnia 30 września 2021 r.”;
+- **5)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Rektor może zmienić organizację roku akademickiego 2020/2021 określoną w aktach wewnętrznych uczelni.”;
+- **6)** w ust. 8a wyrazy „w roku 2020” zastępuje się wyrazami „w latach 2020 i 2021”;
+- **7)** po ust. 8a dodaje się ust. 8b w brzmieniu: „8b. Do dnia 30 września 2021 r. podmiot prowadzący kształcenie doktorantów może zmienić organizację kształcenia doktorantów określoną w aktach wewnętrznych podmiotu.”.
+
+**Art. 21.** W ustawie z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, 1086, 2255 i 2320) art. 74 otrzymuje brzmienie: „Art. 74. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 26c ust. 6 i art. 49 ust. 2 ustawy zmienianej w art. 9 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 26c ust. 6 i art. 49 ust. 2 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.”.
+
+**Art. 22.** W ustawie z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19 (Dz. U. poz. 1086 i 1423) wprowadza się następujące zmiany:
+
+- **1)** art. 5 otrzymuje brzmienie: „Art. 5. Umowy kredytu z dopłatą mogą być zawierane do dnia określonego w umowie o współpracy, o której mowa w art. 8 ust. 1.”;
+- **2)** art. 14 otrzymuje brzmienie: „Art. 14. BGK publikuje na swojej stronie internetowej do końca okresu zawierania umów kredytu z dopłatą określonego w umowie o współpracy, o której mowa w art. 8 ust. 1, nie rzadziej niż raz na miesiąc, informację o wysokości dopłat udzielonych na podstawie ustawy oraz o pozostałej do wykorzystania kwocie na dopłaty, na podstawie danych dotyczących przewidywanego zapotrzebowania na dopłaty, przekazywanych przez banki, które zawarły z BGK umowę o współpracy, o której mowa w art. 8 ust. 1, maksymalnego limitu wydatków z budżetu państwa, o którym mowa w art. 102 ust. 1 we wprowadzeniu do wyliczenia, oraz danych dotyczących wynagrodzenia BGK, o którym mowa w art. 12 ust. 2.”.
 
 **Art. 23.** W ustawie z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym (Dz. U. poz. 1262, 1493 i 1639) wprowadza się następujące zmiany:
 
-**Art. 24.** W ustawie z dnia 28 października 2020 r. o zmianie niektórych ustaw związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112 i 2113) art. 24 po wyrazach „w ramach” dodaje się wyraz „zapobiegania,”.
+- **1)** w art. 2: z 2020 r. poz. 2139), imprezę turystyczną, o której mowa w art. 3 pkt 1 tej ustawy, oferowaną przez organizację pożytku publicznego, a także imprezę turystyczną, o której mowa w art. 3 pkt 3 tej ustawy, nieobejmującą noclegu, oferowaną przez organizację pożytku publicznego lub organizatora turystyki;”,
+    - **a)** pkt 3 otrzymuje brzmienie: „3) imprezie turystycznej – należy przez to rozumieć imprezę turystyczną, o której mowa w art. 4 pkt 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U.
+    - **b)** w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) organizatorze turystyki – należy przez to rozumieć organizatora turystyki, o którym mowa w art. 4 pkt 8 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych.”;
 
-**Art. 25.** Do spraw wszczętych na podstawie art. 15a ustawy zmienianej art. 1 i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy art. 15a ustawy zmienianej art. 1, brzmieniu dotychczasowym.
+- **2)** w art. 8 w ust. 2 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) nazwę i adres obiektu, w którym będą realizowane usługi hotelarskie, o których mowa w art. 5 ust. 1, oraz adres strony internetowej, jeśli jest prowadzona;”;
+- **3)** w art. 11 w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) dokumentów potwierdzających spełnienie obowiązku, o którym mowa w art. 22 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych.”;
+- **4)** w art. 23 dodaje się ust. 5 w brzmieniu: „5. Organy administracji publicznej współpracują z POT w zakresie niezbędnym do prowadzenia postępowań administracyjnych wymienionych w ust. 2.”.
 
-**Art. 26.** Okres zawieszenia zajęć centrum integracji społecznej, który nastąpił przed dniem wejścia życie art. 15c ust. 4 ustawy zmienianej art. 1, wlicza się do łącznego okresu zawieszenia zajęć uprawniającego do przedłużenia okresu uczestnictwa zajęciach centrum integracji społecznej i wypłaty świadczenia integracyjnego.
+**Art. 24.** W ustawie z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112 i 2113) w art. 24 po wyrazach „w ramach” dodaje się wyraz „zapobiegania,”.
 
-**Art. 27.** Przepis art. 15zzu ust. 2 pkt 2 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą stosuje się również do tytułów wykonawczych wydanych przed dniem wejścia życie niniejszej ustawy.
+**Art. 25.** Do spraw wszczętych na podstawie art. 15a ustawy zmienianej w art. 1 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 15a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
-**Art. 28.** Wartości przychodów oraz kosztów za rok 2020, o których mowa art. 15zzzzl ust. 3 ustawy zmienianej art. 1 brzmieniu obowiązującym do dnia 31 grudnia 2020 r., przekazują ministrowi właściwemu do spraw transportu odpowiednio operator publicznego transportu zbiorowego międzywojewódzkich i międzynarodowych przewozach pasażerskich transporcie kolejowym oraz organizatorzy publicznego transportu zbiorowego wojewódzkich przewozach pasażerskich transporcie kolejowym.
+**Art. 26.** Okres zawieszenia zajęć w centrum integracji społecznej, który nastąpił przed dniem wejścia w życie art. 15c ust. 4 ustawy zmienianej w art. 1, wlicza się do łącznego okresu zawieszenia zajęć uprawniającego do przedłużenia okresu uczestnictwa w zajęciach w centrum integracji społecznej i wypłaty świadczenia integracyjnego.
 
-**Art. 29.** W terminie 15 dni od dnia zatwierdzenia rocznego sprawozdania finansowego za 2020 r. operator publicznego transportu zbiorowego przewozach pasażerskich transporcie kolejowym przekazuje organizatorowi publicznego transportu zbiorowego potwierdzoną za zgodność z oryginałem kopię raportu z przeprowadzonego badania sprawozdania finansowego za 2020 r., zawierającego opinię biegłego rewidenta zakresie rozliczenia udzielonego wsparcia, o którym mowa art. 15zzzzl ust. 1 ustawy zmienianej art. 1, z uwzględnieniem odniesienia przychodów oraz kosztów, o których mowa art. 15zzzzl ust. 3 ustawy zmienianej art. 1 brzmieniu obowiązującym do dnia 31 grudnia 2020 r., do działań mających na celu przeciwdziałanie skutkom COVID-19.
+**Art. 27.** Przepis art. 15zzu ust. 2 pkt 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się również do tytułów wykonawczych wydanych przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 30.** Środki finansowe, o których mowa art. 15zzzzl i art. 15zzzzl ustawy zmienianej art. 1, przekazywane operatorowi publicznego transportu zbiorowego przewozach pasażerskich transporcie kolejowym za każdy miesiąc ostatniego kwartału 2020 r. są wypłacane pierwszym kwartale 2021 r.
+**Art. 28.** Wartości przychodów oraz kosztów za rok 2020, o których mowa w art. 15zzzzl ust. 3 ustawy zmienianej w art. 1 w brzmieniu obowiązującym do dnia 31 grudnia 2020 r., przekazują ministrowi właściwemu do spraw transportu odpowiednio operator publicznego transportu zbiorowego w międzywojewódzkich i międzynarodowych przewozach pasażerskich w transporcie kolejowym oraz organizatorzy publicznego transportu zbiorowego w wojewódzkich przewozach pasażerskich w transporcie kolejowym.
 
-**Art. 31.** Do wniosków o wypłatę środków, o których mowa art. 15zzzzl i art. 15zzzzl ustawy zmienianej art. 1, złożonych i nierozpatrzonych przed dniem 1 stycznia 2021 r., oraz do wniosków o wypłatę środków, o których mowa art. 30, stosuje się art. 15zzzzl i art. 15zzzzl ustawy zmienianej art. 1 brzmieniu nadanym przez art. 46 pkt 31 ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw zakresie działań osłonowych związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, 1086, 2255 i 2320).
+**Art. 29.** W terminie 15 dni od dnia zatwierdzenia rocznego sprawozdania finansowego za 2020 r. operator publicznego transportu zbiorowego w przewozach pasażerskich w transporcie kolejowym przekazuje organizatorowi publicznego transportu zbiorowego potwierdzoną za zgodność z oryginałem kopię raportu z przeprowadzonego badania sprawozdania finansowego za 2020 r., zawierającego opinię biegłego rewidenta w zakresie rozliczenia udzielonego wsparcia, o którym mowa w art. 15zzzzl ust. 1 ustawy zmienianej w art. 1, z uwzględnieniem odniesienia przychodów oraz kosztów, o których mowa w art. 15zzzzl ust. 3 ustawy zmienianej w art. 1 w brzmieniu obowiązującym do dnia 31 grudnia 2020 r., do działań mających na celu przeciwdziałanie skutkom COVID-19.
 
-**Art. 32.** Terminy wskazane art. 31zdb ustawy zmienianej art. 1 mają zastosowanie do zajęć egzekucyjnych dokonanych nie wcześniej niż dniu wejścia życie niniejszej ustawy.
+**Art. 30.** Środki finansowe, o których mowa w art. 15zzzzl i art. 15zzzzl ustawy zmienianej w art. 1, przekazywane operatorowi publicznego transportu zbiorowego w przewozach pasażerskich w transporcie kolejowym za każdy miesiąc ostatniego kwartału 2020 r. są wypłacane w pierwszym kwartale 2021 r.
+
+**Art. 31.** Do wniosków o wypłatę środków, o których mowa w art. 15zzzzl i art. 15zzzzl ustawy zmienianej w art. 1, złożonych i nierozpatrzonych przed dniem 1 stycznia 2021 r., oraz do wniosków o wypłatę środków, o których mowa w art. 30, stosuje się art. 15zzzzl i art. 15zzzzl ustawy zmienianej w art. 1 w brzmieniu nadanym przez art. 46 pkt 31 ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, 1086, 2255 i 2320).
+
+**Art. 32.** Terminy wskazane w art. 31zdb ustawy zmienianej w art. 1 mają zastosowanie do zajęć egzekucyjnych dokonanych nie wcześniej niż w dniu wejścia w życie niniejszej ustawy.
 
 **Art. 33.**
 
 1. Uprawnienia, o których mowa w:
 
-- **1)** art. 9a ust. 1 pkt 2 ustawy zmienianej art. 3, przysługują przez 6 miesięcy od dnia wystawienia zaświadczenia, o którym mowa art. 9a ust. 3 ustawy zmienianej art. 3;
-- **2)** art. 47c ust. 1 pkt 12 ustawy zmienianej art. 7, przysługują przez 12 miesięcy od dnia wystawienia zaświadczenia, o którym mowa art. 9a ust. 3 ustawy zmienianej art. 3.
+- **1)** art. 9a ust. 1 pkt 2 ustawy zmienianej w art. 3, przysługują przez 6 miesięcy od dnia wystawienia zaświadczenia, o którym mowa w art. 9a ust. 3 ustawy zmienianej w art. 3;
+- **2)** art. 47c ust. 1 pkt 12 ustawy zmienianej w art. 7, przysługują przez 12 miesięcy od dnia wystawienia zaświadczenia, o którym mowa w art. 9a ust. 3 ustawy zmienianej w art. 3.
 
-2. Uprawnienia określone ust. 1 przysługują także przez okres 6 miesięcy od dnia wejścia życie niniejszej ustawy przypadku oddania, przed dniem wejścia życie niniejszej ustawy, krwi lub jej składników, tym osocza po chorobie COVID-19, jeżeli co najmniej dniu jej wejścia życie liczba donacji wynosi 3 i zostało wydane zaświadczenie, o którym mowa art. 9a ust. 3 ustawy zmienianej art. 3. wejścia życie niniejszej ustawy stosuje przepisy art. 68gd ustawy zmienianej art. 4, brzmieniu dotychczasowym.
+2. Uprawnienia określone w ust. 1 przysługują także przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy w przypadku oddania, przed dniem wejścia w życie niniejszej ustawy, krwi lub jej składników, w tym osocza po chorobie COVID-19, jeżeli co najmniej w dniu jej wejścia w życie liczba donacji wynosi 3 i zostało wydane zaświadczenie, o którym mowa w art. 9a ust. 3 ustawy zmienianej w art. 3.
 
-**Art. 35.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 15zt ust. 1 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 15zt ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 34.** Do spraw wszczętych na podstawie art. 68gd ustawy zmienianej w art. 4 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje przepisy art. 68gd ustawy zmienianej w art. 4, w brzmieniu dotychczasowym.
+
+**Art. 35.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 15zt ust. 1 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15zt ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 36.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 80 ust. 1 ustawy zmienianej art. 16 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 80 ust. 1 ustawy zmienianej art. 16 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 80 ust. 1 ustawy zmienianej w art. 16 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 80 ust. 1 ustawy zmienianej w art. 16 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 97 ust. 1 ustawy zmienianej art. 16 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 97 ust. 1 ustawy zmienianej art. 16, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 97 ust. 1 ustawy zmienianej w art. 16 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 97 ust. 1 ustawy zmienianej w art. 16, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 37.** Termin ukończenia kursu doszkalającego, o którym mowa art. 11a ust. 2 ustawy zmienianej art. 17, za rok 2020, upływa z dniem 30 czerwca 2021 r.
+**Art. 37.** Termin ukończenia kursu doszkalającego, o którym mowa w art. 11a ust. 2 ustawy zmienianej w art. 17, za rok 2020, upływa z dniem 30 czerwca 2021 r.
 
 **Art. 38.**
 
-1. W Karcie Szczepień, o której mowa art. 21a ust. 1 ustawy zmienianej art. 12, mogą być dokonywane również wpisy o szczepieniach wykonanych przed dniem wejścia życie niniejszej ustawy, na podstawie dokumentacji medycznej potwierdzającej wykonanie, przed tym dniem, danego szczepienia.
+1. W Karcie Szczepień, o której mowa w art. 21a ust. 1 ustawy zmienianej w art. 12, mogą być dokonywane również wpisy o szczepieniach wykonanych przed dniem wejścia w życie niniejszej ustawy, na podstawie dokumentacji medycznej potwierdzającej wykonanie, przed tym dniem, danego szczepienia.
 
-2. Minister właściwy do spraw zdrowia podaje do publicznej wiadomości, ogłaszając na stronie podmiotowej Biuletynu Informacji Publicznej obsługującego go urzędu oraz dzienniku urzędowym ministra właściwego do spraw zdrowia informację o uruchomieniu możliwości dokonywania Karcie Szczepień, o której mowa art. 21a ust. 1 ustawy zmienianej art. 12, wpisów o szczepieniach wykonanych przed dniem wejścia życie niniejszej ustawy i wystawiania upoważnień do wystawiania zleceń na wyroby medyczne oraz dokonywania wpisów Karcie Szczepień, nie później niż do dnia 31 grudnia 2021 r.
+2. Minister właściwy do spraw zdrowia podaje do publicznej wiadomości, ogłaszając na stronie podmiotowej Biuletynu Informacji Publicznej obsługującego go urzędu oraz w dzienniku urzędowym ministra właściwego do spraw zdrowia informację o uruchomieniu możliwości dokonywania w Karcie Szczepień, o której mowa w art. 21a ust. 1 ustawy zmienianej w art. 12, wpisów o szczepieniach wykonanych przed dniem wejścia w życie niniejszej ustawy i wystawiania upoważnień do wystawiania zleceń na wyroby medyczne oraz dokonywania wpisów w Karcie Szczepień, nie później niż do dnia 31 grudnia 2021 r.
 
-**Art. 39.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 51a i art. 198a ustawy zmienianej art. 18 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 51a i art. 198a ustawy zmienianej art. 18, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez miesiąc od dnia wejścia życie niniejszej ustawy.
+**Art. 39.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 51a i art. 198a ustawy zmienianej w art. 18 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 51a i art. 198a ustawy zmienianej w art. 18, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez miesiąc od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 40.**
 
-1. Minister właściwy do spraw szkolnictwa wyższego i nauki, terminie 7 dni od dnia wejścia życie niniejszej ustawy, ogłosi nabór uzupełniający kandydatów na członków Polskiej Komisji Akredytacyjnej kadencji 2020–2023, celu zapewnienia możliwości dostosowania jej składu do określonego art. 251 ust. 2 pkt 1 ustawy zmienianej art. 18 brzmieniu nadanym niniejszą ustawą. Komunikat o naborze udostępnia się Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+1. Minister właściwy do spraw szkolnictwa wyższego i nauki, w terminie 7 dni od dnia wejścia w życie niniejszej ustawy, ogłosi nabór uzupełniający kandydatów na członków Polskiej Komisji Akredytacyjnej w kadencji 2020–2023, w celu zapewnienia możliwości dostosowania jej składu do określonego w art. 251 ust. 2 pkt 1 ustawy zmienianej w art. 18 w brzmieniu nadanym niniejszą ustawą. Komunikat o naborze udostępnia się w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
 
-2. W terminie 45 dni od dnia udostępnienia komunikatu, o którym mowa ust. 1 zdaniu drugim, podmioty wymienione art. 251 ust. 4 ustawy zmienianej art. 18 mogą zgłosić kandydatów na członków Polskiej Komisji Akredytacyjnej.
+2. W terminie 45 dni od dnia udostępnienia komunikatu, o którym mowa w ust. 1 w zdaniu drugim, podmioty wymienione w art. 251 ust. 4 ustawy zmienianej w art. 18 mogą zgłosić kandydatów na członków Polskiej Komisji Akredytacyjnej.
 
-3. Minister właściwy do spraw szkolnictwa wyższego i nauki, terminie 90 dni od dnia wejścia życie niniejszej ustawy, powoła członków Polskiej Komisji Akredytacyjnej liczbie nie większej niż różnica między liczbą członków Polskiej Komisji Akredytacyjnej powołanych jej skład według stanu na dzień wejścia życie niniejszej ustawy a liczbą określoną art. 251 ust. 2 pkt 1 ustawy zmienianej art. 18 brzmieniu nadanym niniejszą ustawą.
+3. Minister właściwy do spraw szkolnictwa wyższego i nauki, w terminie 90 dni od dnia wejścia w życie niniejszej ustawy, powoła członków Polskiej Komisji Akredytacyjnej w liczbie nie większej niż różnica między liczbą członków Polskiej Komisji Akredytacyjnej powołanych w jej skład według stanu na dzień wejścia w życie niniejszej ustawy a liczbą określoną w art. 251 ust. 2 pkt 1 ustawy zmienianej w art. 18 w brzmieniu nadanym niniejszą ustawą.
 
-4. Członków Polskiej Komisji Akredytacyjnej, o których mowa ust. 3, powołuje się na okres do końca kadencji Polskiej Komisji Akredytacyjnej 2020–2023.
+4. Członków Polskiej Komisji Akredytacyjnej, o których mowa w ust. 3, powołuje się na okres do końca kadencji Polskiej Komisji Akredytacyjnej 2020–2023.
 
 **Art. 41.**
 
-1. Minister właściwy do spraw szkolnictwa wyższego i nauki, terminie 30 dni od dnia wejścia życie niniejszej ustawy, powoła rzeczników dyscyplinarnych, o których mowa art. 277 ust. 2 ustawy zmienianej art. 18, liczbie stanowiącej różnicę między liczbą rzeczników dyscyplinarnych określoną art. 277 ust. 2 ustawy zmienianej art. 18 brzmieniu dotychczasowym a liczbą określoną art. 277 ust. 2 ustawy zmienianej art. 18 brzmieniu nadanym niniejszą ustawą. cyplinarnych, o których mowa art. 277 ust. 2 ustawy zmienianej art. 18, powołanych przed dniem wejścia życie niniejszej ustawy.
+1. Minister właściwy do spraw szkolnictwa wyższego i nauki, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, powoła rzeczników dyscyplinarnych, o których mowa w art. 277 ust. 2 ustawy zmienianej w art. 18, w liczbie stanowiącej różnicę między liczbą rzeczników dyscyplinarnych określoną w art. 277 ust. 2 ustawy zmienianej w art. 18 w brzmieniu dotychczasowym a liczbą określoną w art. 277 ust. 2 ustawy zmienianej w art. 18 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 42.** Przedsiębiorcy turystyczni lub organizacje pożytku publicznego, którzy przed dniem wejścia życie niniejszej ustawy dokonali rejestracji na profilu informacyjnym systemie teleinformatycznym, o którym mowa art. 27 ustawy zmienianej art. 23, uzupełnią dane, o których mowa art. 8 ust. 2 pkt 6a ustawy zmienianej art. 23, terminie 14 dni od dnia wejścia życie niniejszej ustawy.
+2. Rzeczników dyscyplinarnych, o których mowa w ust. 1, powołuje się na okres do końca kadencji rzeczników dyscyplinarnych, o których mowa w art. 277 ust. 2 ustawy zmienianej w art. 18, powołanych przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 43.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+**Art. 42.** Przedsiębiorcy turystyczni lub organizacje pożytku publicznego, którzy przed dniem wejścia w życie niniejszej ustawy dokonali rejestracji na profilu informacyjnym w systemie teleinformatycznym, o którym mowa w art. 27 ustawy zmienianej w art. 23, uzupełnią dane, o których mowa w art. 8 ust. 2 pkt 6a ustawy zmienianej w art. 23, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 43.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+
+- **1)** art. 30, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 października 2020 r.;
+- **2)** art. 12 pkt 1 i art. 13 pkt 1 i 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 27 grudnia 2020 r.;
+- **3)** art. 1 pkt 22–24, pkt 25 w zakresie art. 15zzzzl i pkt 27 oraz art. 9, art. 14, art. 21, art. 28 i art. 31, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2021 r.;
+- **4)** art. 5, art. 8, art. 11, art. 16 oraz art. 36, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **5)** art. 19, który wchodzi w życie z dniem 1 marca 2021 r.
+
 

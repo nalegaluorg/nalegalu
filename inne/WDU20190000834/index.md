@@ -8,10 +8,10 @@ pos: 834
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 7 maja 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 834 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 11 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,62 +25,81 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/834/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA dnia 11 kwietnia 2019 r.
-sprawie standardów organizacyjnych opieki zdrowotnej dziedzinie radiologii diagnostyki obrazowej wykonywanej za pośrednictwem systemów teleinformatycznych Na podstawie art. 22 ust. 5 ustawy dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. 2018 r. poz. 2190 2219 oraz 2019 r. poz. 492 730) zarządza się, co następuje: § 1. Rozporządzenie określa standardy organizacyjne opieki zdrowotnej dla podmiotów wykonujących działalność leczniczą dziedzinie radiologii diagnostyki obrazowej wykonywanej za pośrednictwem systemów teleinformatycznych, przypadku badań radiograficznych, tomografii komputerowej, rezonansu magnetycznego oraz cyfrowej angiografii subtrakcyjnej.
-§ 2. Użyte rozporządzeniu określenia oznaczają:
-1) odwzorowanie cyfrowe przekształcenie dokumentu nieelektronicznego dokument elektroniczny powstałe przez jego zeskanowanie;
-2) podmiot świadczący podmiot wykonujący działalność leczniczą świadczący usługę teleradiologiczną;
-3) podmiot podmiot wykonujący działalność leczniczą usługę teleradiologiczną;
-4) teleradiologia teleradiologię, o której mowa przepisach wydanych na podstawie art. 33c ust. 9 ustawy dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. 2018 r. poz. 792, 1669 2227 oraz 2019 r. poz. 730), oraz inne techniki obrazowania narządowego;
-5) usługa teleradiologiczna usługę rozumieniu art. 2 pkt 4 ustawy dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. 2019 r. poz. 123 730).
-§ 3. Podstawą wykonania badania radiologicznego skierowanie wraz wynikami poprzednich badań pacjenta inną dokumentacją medyczną istotną procesie jego diagnozowania, jeżeli podmiot nimi dysponuje.
+w sprawie standardów organizacyjnych opieki zdrowotnej w dziedzinie radiologii i diagnostyki obrazowej wykonywanej za pośrednictwem systemów teleinformatycznych Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 2190 i 2219 oraz z 2019 r. poz. 492 i 730) zarządza się, co następuje:
+§ 1. Rozporządzenie określa standardy organizacyjne opieki zdrowotnej dla podmiotów wykonujących działalność leczniczą w dziedzinie radiologii i diagnostyki obrazowej wykonywanej za pośrednictwem systemów teleinformatycznych, w przypadku badań radiograficznych, tomografii komputerowej, rezonansu magnetycznego oraz cyfrowej angiografii subtrakcyjnej.
+§ 2. Użyte w rozporządzeniu określenia oznaczają:
+1) odwzorowanie cyfrowe – przekształcenie dokumentu nieelektronicznego w dokument elektroniczny powstałe przez jego zeskanowanie;
+2) podmiot świadczący – podmiot wykonujący działalność leczniczą świadczący usługę teleradiologiczną;
+3) podmiot zlecający – podmiot wykonujący działalność leczniczą zlecający usługę teleradiologiczną;
+4) teleradiologia – teleradiologię, o której mowa w przepisach wydanych na podstawie art. 33c ust. 9 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2018 r. poz. 792, 1669 i 2227 oraz z 2019 r. poz. 730), oraz inne techniki obrazowania narządowego;
+5) usługa teleradiologiczna – usługę w rozumieniu art. 2 pkt 4 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2019 r. poz. 123 i 730).
+§ 3. Podstawą wykonania badania radiologicznego jest skierowanie wraz z wynikami poprzednich badań pacjenta lub inną dokumentacją medyczną istotną w procesie jego diagnozowania, jeżeli podmiot zlecający nimi dysponuje.
 § 4. Ustala się standard organizacyjny wykonywania usług teleradiologicznych:
 1) usługa teleradiologiczna polega na:
-a) ocenie opisie obrazu radiologicznego dokonywanych poza miejscem jego akwizycji ocenie prawidłowości badania radiologicznego dokonywanej poza miejscem akwizycji obrazu radiologicznego,
-c) ponownej ocenie obrazu radiologicznego, wyjaśnieniu, potwierdzeniu rozpoznania określeniu dalszego postępowania diagnostycznego dokonywanych poza miejscem akwizycji obrazu radiologicznego,
-d) wymianie opinii między lekarzem, o którym mowa pkt 2, a innym lekarzem posiadającym specjalizację I stoptycznego oraz cyfrowej angiografii subtrakcyjnej;
-3) wykonanie usługi teleradiologicznej możliwe przypadku spełnienia następujących warunków:
-a) stosowania środków techniczno-organizacyjnych służących zapewnieniu bezpiecznej transmisji dokumentów elektronicznych postaci graficznej (obraz radiologiczny) tekstowej (zlecenie wykonania usługi teleradiologicznej, ocena opis obrazu radiologicznego) sposób zapewniający ich ochronę przed nieuprawnionym wykorzystaniem, zapewnienia wyposażenia sprzęt aparaturę medyczną, tym stanowiska opisowego, oraz warunków dotyczących opisu przeglądu obrazów radiologicznych rejestrowanych postaci elektronicznej, określonych przepisach wydanych na podstawie art. 33c ust. 9 ustawy dnia 29 listopada 2000 r. Prawo atomowe,
-c) zapewnienia łączy oraz wyposażenia elektronicznego umożliwiającego odpowiednią szybkość jakość transmisji danych (obrazu dźwięku),
-d) zapewnienia lekarzowi, o którym mowa pkt 2 lit. b, dostępu do obrazu radiologicznego oceny prawidłowości badania radiologicznego trakcie jego trwania przypadku tomografii komputerowej,
+a) ocenie i opisie obrazu radiologicznego dokonywanych poza miejscem jego akwizycji lub
+b) ocenie prawidłowości badania radiologicznego dokonywanej poza miejscem akwizycji obrazu radiologicznego, lub
+c) ponownej ocenie obrazu radiologicznego, wyjaśnieniu, potwierdzeniu rozpoznania lub określeniu dalszego postępowania diagnostycznego dokonywanych poza miejscem akwizycji obrazu radiologicznego, lub
+d) wymianie opinii między lekarzem, o którym mowa w pkt 2, a innym lekarzem posiadającym specjalizację I stopnia w dziedzinie rentgenodiagnostyki, radiologii lub radiodiagnostyki lub specjalizację II stopnia lub tytuł specjalisty w dziedzinie rentgenodiagnostyki, radiologii, radiodiagnostyki lub radiologii i diagnostyki obrazowej nadzorującym badanie w miejscu akwizycji obrazu radiologicznego, lub lekarzem prowadzącym pacjenta;
+2) usługa teleradiologiczna jest wykonywana przez lekarza, który:
+a) posiada specjalizację I stopnia w dziedzinie rentgenodiagnostyki, radiologii lub radiodiagnostyki lub specjalizację II stopnia lub tytuł specjalisty w dziedzinie rentgenodiagnostyki, radiologii, radiodiagnostyki lub radiologii i diagnostyki obrazowej – w przypadku badań radiograficznych,
+b) posiada specjalizację II stopnia lub tytuł specjalisty w dziedzinie rentgenodiagnostyki, radiologii, radiodiagnostyki lub radiologii i diagnostyki obrazowej – w przypadku badań tomografii komputerowej, rezonansu magnetycznego oraz cyfrowej angiografii subtrakcyjnej;
+3) wykonanie usługi teleradiologicznej jest możliwe w przypadku spełnienia następujących warunków:
+a) stosowania środków techniczno-organizacyjnych służących zapewnieniu bezpiecznej transmisji dokumentów elektronicznych w postaci graficznej (obraz radiologiczny) i tekstowej (zlecenie wykonania usługi teleradiologicznej, ocena i opis obrazu radiologicznego) w sposób zapewniający ich ochronę przed nieuprawnionym wykorzystaniem,
+b) zapewnienia wyposażenia w sprzęt i aparaturę medyczną, w tym stanowiska opisowego, oraz warunków dotyczących opisu i przeglądu obrazów radiologicznych rejestrowanych w postaci elektronicznej, określonych w przepisach wydanych na podstawie art. 33c ust. 9 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe,
+c) zapewnienia łączy oraz wyposażenia elektronicznego umożliwiającego odpowiednią szybkość i jakość transmisji danych (obrazu i dźwięku),
+d) zapewnienia lekarzowi, o którym mowa w pkt 2 lit. b, dostępu do obrazu radiologicznego i oceny prawidłowości badania radiologicznego w trakcie jego trwania – w przypadku tomografii komputerowej,
 e) zachowania kompresji bezstratnej danych obrazowych;
-4) podstawą wykonania usługi teleradiologicznej, wyłączeniem usługi określonej pkt 1 lit. d, zlecenie, które zawiera:
-a) dane pacjenta: imię (imiona) nazwisko, adres miejsca zamieszkania, urodzenia, numer PESEL, a przypadku osób, którym nie nadano numeru PESEL serię numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa rozporządzeniu wykonawczym Komisji (UE) 2015/1501 dnia 8 września 2015 r. sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego Rady (UE) nr 910/2014 sprawie identyfikacji elektronicznej usług zaufania odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235
-09.09.2015, str. 1, późn. zm. ), zwanym dalej „rozporządzeniem wykonawczym Komisji (UE) 2015/1501”, wykonania badania radiologicznego,
-c) informacje dotyczące: rodzaju badania radiologicznego, użytej metody obrazowania, zastosowanych parametrów fizycznych oraz ilości rodzaju zastosowanego środka kontrastującego oraz drogi jego podania, zakresu zobrazowanych struktur anatomicznych,
+4) podstawą wykonania usługi teleradiologicznej, z wyłączeniem usługi określonej w pkt 1 lit. d, jest zlecenie, które zawiera:
+a) dane pacjenta: – imię (imiona) i nazwisko, – adres miejsca zamieszkania, – datę urodzenia, – numer PESEL, a w przypadku osób, którym nie nadano numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem wykonawczym Komisji (UE) 2015/1501”,
+b) datę wykonania badania radiologicznego,
+c) informacje dotyczące: – rodzaju badania radiologicznego, – użytej metody obrazowania, zastosowanych parametrów fizycznych oraz ilości i rodzaju zastosowanego środka kontrastującego oraz drogi jego podania, – zakresu zobrazowanych struktur anatomicznych,
 d) oznaczenie osoby zlecającej usługę teleradiologiczną,
-e) wystawienia zlecenia na usługę teleradiologiczną,
-f) nazwę adres podmiotu zlecającego,
-g) identyfikator podmiotu zlecającego I część jego kodu resortowego systemu resortowych kodów identyfikacyjnych, o którym mowa przepisach wydanych na podstawie art. 105 ust. 5 ustawy dnia 15 kwietnia 2011 r.
-o działalności leczniczej, a przypadku gdy podmiotem zlecającym podmiot działający na podstawie wpisu do rejestru prowadzonego przez okręgową radę lekarską Wojskową Radę Lekarską, identyfikatorem numer wpisu tego podmiotu do rejestru podmiotów wykonujących działalność leczniczą wraz kodem właściwej § 5. 1. Oceny opisu obrazu radiologicznego ramach teleradiologii dokonuje lekarz, o którym mowa § 4 pkt 2.
-2. Ocena opis obrazu radiologicznego ramach teleradiologii zawiera:
+e) datę wystawienia zlecenia na usługę teleradiologiczną,
+f) nazwę i adres podmiotu zlecającego,
+g) identyfikator podmiotu zlecającego – I część jego kodu resortowego z systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r.
+o działalności leczniczej, a w przypadku gdy podmiotem zlecającym jest podmiot działający na podstawie wpisu do rejestru prowadzonego przez okręgową radę lekarską lub Wojskową Radę Lekarską, identyfikatorem jest numer wpisu tego podmiotu do rejestru podmiotów wykonujących działalność leczniczą wraz z kodem właściwej izby, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 4 ustawy z dnia 15 kwietnia 2011 r.
+o działalności leczniczej,
+h) nazwę i adres podmiotu świadczącego;
+5) podmiot zlecający jest obowiązany do odwzorowania cyfrowego skierowania oraz wyników poprzednich badań radiologicznych lub innej dokumentacji medycznej istotnej w procesie diagnozowania pacjenta, jeżeli została sporządzona w postaci papierowej, oraz przesłania jej wraz ze zleceniem, o którym mowa w pkt 4, lekarzowi, o którym mowa w pkt 2;
+6) podmiot zlecający zapewnia lekarzowi, o którym mowa w pkt 2, możliwość kontaktu z osobą wykonującą badanie radiologiczne, w tym za pośrednictwem środków komunikacji elektronicznej lub publicznie dostępnych usług telekomunikacyjnych.
+§ 5. 1. Oceny i opisu obrazu radiologicznego w ramach teleradiologii dokonuje lekarz, o którym mowa w § 4 pkt 2.
+2. Ocena i opis obrazu radiologicznego w ramach teleradiologii zawiera:
 1) dane pacjenta:
-a) imię (imiona) nazwisko, adres miejsca zamieszkania,
-c) urodzenia,
-d) numer PESEL, a przypadku osób, którym nie nadano numeru PESEL serię numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa rozporządzeniu wykonawczym Komisji (UE) 2015/1501;
+a) imię (imiona) i nazwisko,
+b) adres miejsca zamieszkania,
+c) datę urodzenia,
+d) numer PESEL, a w przypadku osób, którym nie nadano numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501;
 2) informacje dotyczące:
-a) rodzaju badania radiologicznego, użytej metody obrazowania, zastosowanych parametrów fizycznych oraz ilości rodzaju zastosowanego środka kontrastującego oraz drogi jego podania,
+a) rodzaju badania radiologicznego,
+b) użytej metody obrazowania, zastosowanych parametrów fizycznych oraz ilości i rodzaju zastosowanego środka kontrastującego oraz drogi jego podania,
 c) zakresu zobrazowanych struktur anatomicznych;
-3) wystawienia zlecenia na usługę teleradiologiczną;
-4) wykonania usługi teleradiologicznej;
-5) nazwę adres podmiotu świadczącego;
-6) identyfikator podmiotu świadczącego I część jego kodu resortowego systemu resortowych kodów identyfikacyjnych, o którym mowa przepisach wydanych na podstawie art. 105 ust. 5 ustawy dnia 15 kwietnia 2011 r. o działalności leczniczej, a przypadku gdy podmiotem świadczącym podmiot działający na podstawie wpisu do rejestru prowadzonego przez okręgową radę lekarską Wojskową Radę Lekarską, identyfikatorem numer wpisu tego podmiotu do rejestru podmiotów wykonujących działalność leczniczą wraz kodem właściwej izby, o którym mowa przepisach wydanych na podstawie art. 105 ust. 4 ustawy dnia 15 kwietnia 2011 r. o działalności leczniczej;
-7) oznaczenie lekarza, o którym mowa § 4 pkt 2:
-a) imię (imiona) nazwisko, informację o uzyskanych specjalizacjach,
+3) datę wystawienia zlecenia na usługę teleradiologiczną;
+4) datę wykonania usługi teleradiologicznej;
+5) nazwę i adres podmiotu świadczącego;
+6) identyfikator podmiotu świadczącego – I część jego kodu resortowego z systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, a w przypadku gdy podmiotem świadczącym jest podmiot działający na podstawie wpisu do rejestru prowadzonego przez okręgową radę lekarską lub Wojskową Radę Lekarską, identyfikatorem jest numer wpisu tego podmiotu do rejestru podmiotów wykonujących działalność leczniczą wraz z kodem właściwej izby, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+7) oznaczenie lekarza, o którym mowa w § 4 pkt 2:
+a) imię (imiona) i nazwisko,
+b) informację o uzyskanych specjalizacjach,
 c) numer prawa wykonywania zawodu,
 d) kwalifikowany podpis elektroniczny albo podpis zaufany;
-8) nazwę adres podmiotu wykonującego działalność leczniczą, którym wykonano radiologiczne, oraz wykonania tego badania;
-9) omówienie obrazu radiologicznego obejmujące stwierdzone nieprawidłowości, ich rozmiar umiejscowienie oraz wskazanie elementów procesów utrudniających interpretację obrazu radiologicznego; przypadku odmowy wykonania opisu obrazu radiologicznego informację, że obraz nie wystarczający do oceny;
+8) nazwę i adres podmiotu wykonującego działalność leczniczą, w którym wykonano badanie radiologiczne, oraz datę wykonania tego badania;
+9) omówienie obrazu radiologicznego obejmujące stwierdzone nieprawidłowości, ich rozmiar i umiejscowienie oraz wskazanie elementów lub procesów utrudniających interpretację obrazu radiologicznego; w przypadku odmowy wykonania opisu obrazu radiologicznego informację, że obraz nie jest wystarczający do oceny;
 10) zalecenia dotyczące dalszego postępowania diagnostyczno-terapeutycznego.
-3) błędów ocenie opisie obrazu radiologicznego;
+3. Ocena i opis obrazu radiologicznego w ramach teleradiologii są przekazywane bezpośrednio podmiotowi zlecającemu.
+§ 6. Usługa teleradiologiczna nie jest wykonywana, jeżeli sposób wykonania badania radiologicznego, jakość obrazu radiologicznego lub dane kliniczne przesłane przez podmiot zlecający są niewystarczające do oceny obrazu radiologicznego. Odmowa wykonania tej usługi wymaga uzasadnienia i przekazania podmiotowi zlecającemu.
+§ 7. 1. Podmiot zlecający prowadzi stałą kontrolę jakości usług teleradiologicznych.
+2. Stała kontrola jakości usług teleradiologicznych obejmuje nadzór i monitoring:
+1) prawidłowości wykonywania badań radiologicznych;
+2) zgodności i kompletności informacji zawartych w skierowaniu na badanie radiologiczne oraz w ocenie i opisie obrazu radiologicznego;
+3) błędów w ocenie i opisie obrazu radiologicznego;
 4) problemów technicznych oraz sposobu ich rozwiązywania;
 5) przyczyn odmów świadczenia tych usług.
-3. Podmiot prowadzi dokumentację kontroli jakości usług teleradiologicznych umożliwiającą prześledzenie całego procesu diagnostycznego pod względem merytorycznym technicznym.
-4. Za prowadzenie kontroli jakości usług teleradiologicznych odpowiada kierownik podmiotu zlecającego upoważniony przez niego pracownik.
-5. Dokumentacja kontroli jakości usług teleradiologicznych przechowywana przez okres co najmniej 5 lat, licząc od końca roku kalendarzowego, którym przeprowadzono kontrolę.
-6. W przypadku stwierdzenia błędów podmiot wprowadza działania korygujące zapobiegawcze.
-7. Szczegółowe zasady prowadzenia kontroli jakości usług teleradiologicznych określa wewnętrzna procedura podmiotu zlecającego oraz umowa zawarta między podmiotem zlecającym a podmiotem świadczącym, uwzględnieniem warunków określonych przepisach ustawy dnia 29 listopada 2000 r. Prawo atomowe.
-§ 8. Podmioty wykonujące działalność leczniczą zakresie radiologii diagnostyki obrazowej wykonywanej za pośrednictwem systemów teleinformatycznych dostosują swoją działalność do wymagań określonych rozporządzeniem terminie 12 miesięcy od dnia jego wejścia życie.
-§ 9. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+3. Podmiot zlecający prowadzi dokumentację kontroli jakości usług teleradiologicznych umożliwiającą prześledzenie całego procesu diagnostycznego pod względem merytorycznym i technicznym.
+4. Za prowadzenie kontroli jakości usług teleradiologicznych odpowiada kierownik podmiotu zlecającego lub upoważniony przez niego pracownik.
+5. Dokumentacja kontroli jakości usług teleradiologicznych jest przechowywana przez okres co najmniej 5 lat, licząc od końca roku kalendarzowego, w którym przeprowadzono kontrolę.
+6. W przypadku stwierdzenia błędów podmiot zlecający wprowadza działania korygujące i zapobiegawcze.
+7. Szczegółowe zasady prowadzenia kontroli jakości usług teleradiologicznych określa wewnętrzna procedura podmiotu zlecającego oraz umowa zawarta między podmiotem zlecającym a podmiotem świadczącym, z uwzględnieniem warunków określonych w przepisach ustawy z dnia 29 listopada 2000 r. – Prawo atomowe.
+§ 8. Podmioty wykonujące działalność leczniczą w zakresie radiologii i diagnostyki obrazowej wykonywanej za pośrednictwem systemów teleinformatycznych dostosują swoją działalność do wymagań określonych rozporządzeniem w terminie 12 miesięcy od dnia jego wejścia w życie.
+§ 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Zdrowia: wz. J. Szczurek-Żelazko
 

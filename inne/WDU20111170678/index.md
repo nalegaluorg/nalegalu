@@ -8,7 +8,7 @@ pos: 678
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o przeciwdziałaniu narkomanii oraz niektórych innych ustaw
@@ -28,6 +28,25 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111170678) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/678/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179, poz. 1485, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 4: U. Nr 96, poz. 615 oraz z 2011 r. Nr 84, poz. 455);”,
+    - **a)** pkt 3 otrzymuje brzmienie: „3) jednostki naukowe – jednostki naukowe w rozumieniu art. 2 pkt 9 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz.
+    - **b)** po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) przewóz – każde przemieszczenie środków odurzających, substancji psychotropowych lub słomy makowej między dwoma państwami przez terytorium Rzeczypospolitej Polskiej, które zaczyna się i kończy poza tym terytorium;”;
+
+- **2)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Ministrowie właściwi do spraw oświaty i wychowania, zdrowia, spraw wewnętrznych, administracji publicznej, transportu, Minister Obrony Narodowej oraz Minister Sprawiedliwości, każdy w zakresie swojego działania, są obowiązani rozwijać i popierać działalność edukacyjną oraz zapobiegawczą, podejmowaną w celu informowania społeczeństwa o szkodliwości narkomanii.”;
+- **3)** w art. 24: 1–3, art. 36, art. 40 ust. 1–3, na podstawie zapotrzebowania;”,
+    - **a)** uchyla się ust. 3,
+    - **b)** w ust. 5: – zdanie wstępne otrzymuje brzmienie: „Jednostki i podmioty, o których mowa w ust. 2 i 4, są obowiązane:”, – pkt 1 otrzymuje brzmienie: „1) nabywać środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 od przedsiębiorców posiadających zezwolenie wydane w trybie określonym w art. 35 ust.
+    - **c)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw zdrowia w porozumieniu z ministrami właściwymi do spraw wewnętrznych, finansów publicznych, szkolnictwa wyższego i Ministrem Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy tryb oraz warunki nabywania i wchodzenia w posiadanie, przechowywania oraz używania do celów szkoleniowych środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 przez jednostki lub podmioty, o których mowa w ust. 2 i 4, a także warunki przechowywania środków odurzających, substancji psychotropowych, ich preparatów i prekursorów kategorii 1 oraz sposób ich niszczenia przez jednostki lub podmioty, o których mowa w ust. 2 i 4, uwzględniając zabezpieczenie tych substancji przed dostępem osób trzecich.”;
+
+- **4)** po art. 24 dodaje się art. 24a i 24b w brzmieniu: „Art. 24a. 1. Jednostki organizacyjne administracji rządowej i Żandarmerii Wojskowej wykonujące czynności operacyjno-rozpoznawcze oraz jednostki organizacyjne Służby Celnej przy wykonywaniu zadań określonych ustawą z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. Nr 168, poz. 1323, z późn. zm. ) mogą wchodzić w posiadanie środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 w ilości niezbędnej do przeprowadzenia badań potwierdzających popełnienie przestępstwa.
+
+2. Jednostki, o których mowa w ust. 1, w związku z wykonywaniem czynności i działań określonych w tym przepisie są obowiązane:
+
+- **1)** przechowywać posiadane środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 w sposób zabezpieczający przed kradzieżą i zniszczeniem;
+- **2)** niszczyć środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 w sposób uniemożliwiający dostęp do nich osób nieupoważnionych.
+
+3. Rada Ministrów określi, w drodze rozporządzenia, podmioty uprawnione do niszczenia środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1, uzyskanych w drodze czynności i działań, określonych w ust. 1, a także szczegółowy tryb i warunki ich przechowywania oraz niszczenia, mając na względzie konieczność zabezpieczenia tych środków i substancji przed dostępem osób trzecich.
 
 **Art. 24b.**
 
@@ -127,6 +146,14 @@ source: "isap-pdf"
 **Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ) art. 67 § 3 otrzymuje brzmienie: „§ 3. Umarzając warunkowo postępowanie karne, sąd zobowiązuje sprawcę do naprawienia szkody w całości albo w części, a może na niego nałożyć obowiązki wymienione w art. 72 § 1 pkt 1-3, 5-6a, 7a lub 7b, a ponadto orzec świadczenie pieniężne wymienione w art. 39 pkt 7 lub nawiązkę oraz zakaz prowadzenia pojazdów, wymieniony w art. 39 pkt 3, do lat 2. Nakładając na sprawcę przestępstwa popełnionego z użyciem przemocy lub groźby bezprawnej wobec osoby najbliższej obowiązek wymieniony w art. 72 § 1 pkt 7b sąd określa sposób kontaktu sprawcy z pokrzywdzonym.”.
 
 **Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) art. 232a otrzymuje brzmienie: „Art. 232a. § 1. Przedmioty i substancje stwarzające niebezpieczeństwo dla życia lub zdrowia, a w szczególności broń, amunicję, materiały wybuchowe lub łatwopalne, materiały radioaktywne, substancje trujące, duszące lub parzące, środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1, przechowuje się w miejscu i w sposób zapewniający ich należyte zabezpieczenie.
+
+§ 2. Jeżeli dla zapewnienia prawidłowego toku postępowania wystarczające jest przechowywanie próbek w ilości niezbędnej do przeprowadzenia badań przedmiotów lub substancji, o których mowa w § 1, sąd właściwy do rozpoznania sprawy, na wniosek prokuratora, niezwłocznie zarządza zniszczenie w całości lub w części pozostałych ilości przedmiotów lub substancji zbędnych do przeprowadzenia badań.
+
+§ 3. Jeżeli sąd zarządził zniszczenie w części przedmiotów lub substancji, o których mowa w § 1, wskazuje jednocześnie w postanowieniu miejsce i czas przechowywania ich pozostałej części w ilości niezbędnej do przeprowadzenia badań.
+
+§ 4. Przedmioty i substancje stwarzające bezpośrednie niebezpieczeństwo dla życia lub zdrowia przez możliwość eksplozji materiałów wybuchowych lub łatwopalnych, innego gwałtownego wyzwolenia energii, rozprzestrzeniania się substancji trujących, duszących lub parzących, wyzwolenia energii jądrowej lub promieniowania jonizującego albo których przechowywanie w niezmienionym stanie nie jest możliwe, można zniszczyć przed wydaniem postanowienia, o którym mowa w § 2.
+
+§ 5. Rada Ministrów określi, w drodze rozporządzenia, podmioty uprawnione do przechowywania oraz zniszczenia przedmiotów i substancji, o których mowa w § 1, oraz ich próbek, szczegółowe warunki, sposób oraz miejsca ich przechowywania, a także warunki i sposób ich zniszczenia, mając na uwadze potrzebę zapewnienia prawidłowego toku postępowania i jego koszty.”.
 
 **Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. Nr 185, poz. 1243 i Nr 203, poz. 1351 oraz z 2011 r. Nr 106, poz. 622) w załączniku nr 2 w Liście A po pkt 2 dodaje się pkt 2a w brzmieniu: „2a. środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 zabezpieczonych na potrzeby postępowania karnego u osób posiadających je bez uprawnienia albo uzyskanych przez jednostki administracji rządowej oraz Żandarmerii Wojskowej w toku wykonywania czynności operacyjno-rozpoznawczych,”.
 

@@ -8,7 +8,7 @@ pos: 424
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie roślin przed agrofagami
@@ -31,7 +31,55 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** właściwość organów w zakresie ochrony roślin przed agrofagami określonym w:
+    - **a)** rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/2031 z dnia 26 października 2016 r. w sprawie środków ochronnych przeciwko agrofagom roślin, zmieniającym rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 228/2013, (UE) nr 652/2014 i (UE) nr 1143/2014 oraz uchylającym dyrektywy Rady 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/WE, 2000/29/WE, 2006/91/WE i 2007/33/WE (Dz. Urz. UE L 317 z 23.11.2016, str. 4, z późn. zm. ), zwanym dalej „rozporządzeniem 2016/2031”, oraz w przepisach Unii Europejskiej wydanych na podstawie rozporządzenia 2016/2031,
+    - **b)** rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającym rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającym rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem 2017/625”, oraz w przepisach Unii Europejskiej wydanych na podstawie rozporządzenia 2017/625;
+
+- **2)** sprawy ochrony roślin przed agrofagami, w tym przeprowadzania kontroli, w zakresie nieuregulowanym w przepisach wymienionych w pkt 1, w tym zasady:
+    - **a)** ustanawiania miejsc produkcji i obszarów wolnych od określonych agrofagów,
+    - **b)** wydawania fitosanitarnych świadectw eksportowych i fitosanitarnych świadectw reeksportowych dla wyprowadzania roślin, produktów roślinnych lub innych przedmiotów do państw trzecich.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** agrofagi – agrofagi, o których mowa w art. 1 ust. 1 i 2 rozporządzenia 2016/2031;
+- **2)** agrofagi kwarantannowe – agrofagi kwarantannowe w rozumieniu art. 3 rozporządzenia 2016/2031;
+- **3)** agrofagi kwarantannowe dla Unii – agrofagi kwarantannowe dla Unii w rozumieniu art. 4 rozporządzenia 2016/2031;
+- **4)** agrofagi priorytetowe – agrofagi priorytetowe w rozumieniu art. 6 ust. 1 rozporządzenia 2016/2031;
+- **5)** agrofagi kwarantannowe dla strefy chronionej – agrofagi kwarantannowe dla strefy chronionej, o których mowa w art. 32 ust. 1 rozporządzenia 2016/2031;
+- **6)** regulowane agrofagi niekwarantannowe dla Unii – regulowane agrofagi niekwarantannowe dla Unii w rozumieniu art. 36 rozporządzenia 2016/2031;
+- **7)** rośliny – rośliny w rozumieniu art. 2 pkt 1 rozporządzenia 2016/2031;
+- **8)** rośliny przeznaczone do sadzenia – rośliny przeznaczone do sadzenia w rozumieniu art. 2 pkt 4 rozporządzenia 2016/2031;
+- **9)** sadzenie – sadzenie w rozumieniu art. 2 pkt 3 rozporządzenia 2016/2031;
+- **10)** produkty roślinne – produkty roślinne w rozumieniu art. 2 pkt 2 rozporządzenia 2016/2031;
+- **11)** inne przedmioty – inne przedmioty w rozumieniu art. 2 pkt 5 rozporządzenia 2016/2031;
+- **12)** kontrole urzędowe – kontrole urzędowe w rozumieniu art. 2 ust. 1 rozporządzenia 2017/625;
+- **13)** podmiot profesjonalny – podmiot profesjonalny w rozumieniu art. 2 pkt 9 rozporządzenia 2016/2031;
+- **14)** zarejestrowany podmiot – zarejestrowany podmiot w rozumieniu art. 2 pkt 10 rozporządzenia 2016/2031;
+- **15)** partia – partię w rozumieniu art. 2 pkt 7 rozporządzenia 2016/2031;
+- **16)** jednostka handlowa – jednostkę handlową w rozumieniu art. 2 pkt 8 rozporządzenia 2016/2031;
+- **17)** przesyłka – przesyłkę w rozumieniu art. 3 pkt 37 rozporządzenia 2017/625;
+- **18)** środek fitosanitarny – środek fitosanitarny w rozumieniu art. 2 pkt 22 rozporządzenia 2016/2031;
+- **19)** obszar wyznaczony – obszar, o którym mowa w art. 18 ust. 1 akapit drugi rozporządzenia 2016/2031;
+- **20)** zwalczanie – zwalczanie w rozumieniu art. 2 pkt 17 rozporządzenia 2016/2031;
+- **21)** test – test w rozumieniu art. 2 pkt 13 rozporządzenia 2016/2031;
+- **22)** zabieg – zabieg w rozumieniu art. 2 pkt 14 rozporządzenia 2016/2031;
+- **23)** strefa chroniona – strefę, o której mowa w art. 32 ust. 1 rozporządzenia 2016/2031;
+- **24)** urzędowy rejestr podmiotów profesjonalnych – rejestr, o którym mowa w art. 65 ust. 1 rozporządzenia 2016/2031;
+- **25)** paszport roślin – paszport roślin w rozumieniu art. 78 rozporządzenia 2016/2031;
+- **26)** upoważnienie do wydawania paszportów roślin – upoważnienie, o którym mowa w art. 89 ust. 1 rozporządzenia 2016/2031;
+- **27)** plan zarządzania zagrożeniem agrofagami – plan, o którym mowa w art. 91 ust. 1 rozporządzenia 2016/2031;
+- **28)** drewniany materiał opakowaniowy – drewniany materiał opakowaniowy, o którym mowa w art. 96 ust. 1 rozporządzenia 2016/2031;
+- **29)** państwa trzecie – państwa trzecie, o których mowa w art. 1 ust. 3 akapit pierwszy rozporządzenia 2016/2031;
+- **30)** terytorium Unii Europejskiej – terytorium Unii, o którym mowa w art. 1 ust. 3 akapit drugi rozporządzenia 2016/2031;
+- **31)** kontrola dokumentacji – kontrolę dokumentacji w rozumieniu art. 3 pkt 41 rozporządzenia 2017/625;
+- **32)** kontrola identyfikacyjna – kontrolę identyfikacyjną w rozumieniu art. 3 pkt 42 rozporządzenia 2017/625;
+- **33)** kontrola bezpośrednia – kontrolę bezpośrednią w rozumieniu art. 3 pkt 43 rozporządzenia 2017/625;
+- **34)** stacja kwarantanny – stację kwarantanny w rozumieniu art. 2 pkt 19 rozporządzenia 2016/2031;
+- **35)** obiekt zapewniający izolację – obiekt zapewniający izolację w rozumieniu art. 2 pkt 20 rozporządzenia 2016/2031;
+- **36)** fitosanitarne świadectwo eksportowe – świadectwo, o którym mowa w art. 100 ust. 1 rozporządzenia 2016/2031;
+- **37)** fitosanitarne świadectwo reeksportowe – świadectwo, o którym mowa w art. 101 ust. 1 rozporządzenia 2016/2031;
+- **38)** świadectwo przedeksportowe – świadectwo, o którym mowa w art. 102 ust. 2 rozporządzenia 2016/2031;
+- **39)** tranzyt fitosanitarny – tranzyt fitosanitarny w rozumieniu art. 47 ust. 1 rozporządzenia 2016/2031.
 
 **Art. 3.**
 
@@ -69,6 +117,9 @@ source: "isap-pdf"
 5. Główny Inspektor udostępnia zatwierdzone przez ministra właściwego do spraw rolnictwa plany awaryjne i plany działania na stronie internetowej administrowanej przez Główny Inspektorat Ochrony Roślin i Nasiennictwa, zwany dalej „Głównym Inspektoratem”.
 
 **Art. 5.** Minister właściwy do spraw rolnictwa wykonuje obowiązki państwa członkowskiego Unii Europejskiej w zakresie powiadamiania Komisji Europejskiej, o którym mowa w:
+
+- **1)** art. 108 rozporządzenia 2016/2031;
+- **2)** art. 139 ust. 1 rozporządzenia 2017/625 – w odniesieniu do obszaru, o którym mowa w art. 1 ust. 2 lit. g rozporządzenia 2017/625.
 
 **Art. 6.**
 
@@ -322,6 +373,13 @@ source: "isap-pdf"
 #### Rozdział 3 Ustanawianie stref chronionych oraz miejsc produkcji i obszarów wolnych od określonych agrofagów
 
 **Art. 16.** Główny Inspektor:
+
+- **1)** wykonuje uprawnienia państwa członkowskiego Unii Europejskiej w zakresie przekazywania Komisji Europejskiej wniosków o:
+    - **a)** uznanie terytorium Rzeczypospolitej Polskiej albo jego części za strefę chronioną w odniesieniu do określonego agrofaga, zgodnie z art. 32 ust. 1 rozporządzenia 2016/2031, lub tymczasową strefę chronioną, zgodnie z art. 32 ust. 6 rozporządzenia 2016/2031,
+    - **b)** zmianę obszaru strefy chronionej lub tymczasowej strefy chronionej, zgodnie z art. 35 ust. 1 rozporządzenia 2016/2031,
+    - **c)** cofnięcie uznania terytorium Rzeczypospolitej Polskiej albo jego części za strefę chronioną w odniesieniu do określonego agrofaga lub tymczasową strefę chronioną, zgodnie z art. 35 ust. 2 rozporządzenia 2016/2031;
+
+- **2)** wykonuje obowiązki państwa członkowskiego Unii Europejskiej określone w art. 32 ust. 7 rozporządzenia 2016/2031.
 
 **Art. 17.**
 
@@ -635,6 +693,9 @@ source: "isap-pdf"
 
 **Art. 28.** Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia:
 
+- **1)** jaka odległość oznacza niewielką odległość, o której mowa w art. 82 akapit drugi rozporządzenia 2016/2031, lub
+- **2)** dokumenty, o których mowa w art. 82 akapit drugi rozporządzenia 2016/2031 – mając na uwadze zapewnienie bezpieczeństwa fitosanitarnego.
+
 **Art. 29.**
 
 1. Upoważnienia, o którym mowa w art. 98 ust. 1 rozporządzenia 2016/2031, udziela, na wniosek zarejestrowanego podmiotu, w drodze decyzji, wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę tego podmiotu.
@@ -693,7 +754,17 @@ source: "isap-pdf"
 
 **Art. 30.** Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, w zakresie, w jakim nie zostały one określone w przepisach rozporządzenia 2016/2031 lub przepisach Unii Europejskiej wydanych na podstawie rozporządzenia 2016/2031:
 
+- **1)** wymagania dotyczące wiedzy, o której mowa w art. 98 ust. 1 lit. a rozporządzenia 2016/2031, lub
+- **2)** wymagania organizacyjno-techniczne dotyczące zakładów i sprzętu, o których mowa w art. 98 ust. 1 lit. b rozporządzenia 2016/2031, lub
+- **3)** sposób wykonywania zabiegów, jakim poddaje się drewniany materiał opakowaniowy, drewno lub inne przedmioty przed zastosowaniem na nich oznaczenia, o którym mowa w art. 96 rozporządzenia 2016/2031 – mając na uwadze ujednolicenie wymagań w odniesieniu do podmiotów upoważnionych na podstawie art. 98 ust. 1 rozporządzenia 2016/2031 oraz zapewnienie bezpieczeństwa fitosanitarnego.
+
 **Art. 30a.** Numer, o którym mowa w poz. 11 w tabeli w załączniku VIII do rozporządzenia wykonawczego Komisji (UE) 2019/2072 z dnia 28 listopada 2019 r. ustanawiającego jednolite warunki wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2031 w sprawie środków ochronnych przeciwko agrofagom roślin i uchylającego rozporządzenie Komisji (WE) nr 690/2008 oraz zmieniającego rozporządzenie wykonawcze Komisji (UE) 2018/2019 (Dz. Urz. UE L 319 z 10.12.2019, str. 1, z późn. zm. ):
+
+- **1)** stanowi numer wpisu do:
+    - **a)** urzędowego rejestru podmiotów profesjonalnych podmiotu, który uprawiał, pakował, sortował, składował lub przemieszczał bulwy Solanum tuberosum L., lub dokonywał zbycia bulw Solanum tuberosum L., lub
+    - **b)** rejestru prowadzonego w innym państwie członkowskim, nadany na podstawie przepisów obowiązujących w tym państwie;
+
+- **2)** umieszcza się w sposób czytelny, trwały i widoczny na opakowaniu bulw Solanum tuberosum L. lub – w przypadku transportu bulw Solanum tuberosum L. luzem – w dokumentach towarzyszących.
 
 **Art. 31.**
 
@@ -1387,6 +1458,15 @@ source: "isap-pdf"
 
 **Art. 51b.** Do rejestru zaufanych eksporterów może zostać wpisany eksporter, który:
 
+- **1)** przez co najmniej 2 lata jest wpisany do urzędowego rejestru podmiotów profesjonalnych prowadzonego przez wojewódzkiego inspektora;
+- **2)** w okresie, o którym mowa w pkt 1:
+    - **a)** składał co roku do wojewódzkiego inspektora wniosek o wydanie fitosanitarnego świadectwa eksportowego lub fitosanitarnego świadectwa reeksportowego dla co najmniej 10 przesyłek,
+    - **b)** nie był karany i nie została na niego nałożona administracyjna kara pieniężna za naruszenie przepisów, o których mowa w art. 1 pkt 1, lub przepisów ustawy;
+
+- **3)** wdrożył zatwierdzoną przez wojewódzkiego inspektora procedurę samodzielnej kontroli roślin, produktów roślinnych lub innych przedmiotów wyprowadzanych do określonych państw trzecich przeprowadzanej przez osoby, które:
+    - **a)** posiadają wykształcenie zapewniające wiedzę w zakresie ochrony roślin przed agrofagami niezbędną do prawidłowego przeprowadzania tej kontroli lub
+    - **b)** zdały egzamin potwierdzający posiadanie wiedzy w zakresie ochrony roślin przed agrofagami niezbędnej do prawidłowego przeprowadzania tej kontroli – zwaną dalej „procedurą kontroli”.
+
 **Art. 51c.**
 
 1. Wpisu do rejestru zaufanych eksporterów dokonuje na wniosek zainteresowanego eksportera wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę tego eksportera, a w przypadku:
@@ -1604,6 +1684,19 @@ source: "isap-pdf"
 
 **Art. 53.** Opłacie podlega:
 
+- **1)** przeprowadzenie przez Głównego Inspektora lub wojewódzkiego inspektora kontroli urzędowych oraz wykonanie innych czynności urzędowych w celu:
+    - **a)** wydania paszportu roślin,
+    - **b)** wydania fitosanitarnego świadectwa eksportowego lub fitosanitarnego świadectwa reeksportowego, w tym w kontroli urzędowych podmiotów wpisanych do rejestru eksporterów,
+    - **c)** wydania świadectwa przedeksportowego,
+    - **d)** wydania zaświadczenia lub innego dokumentu lub oznakowania, w które zaopatruje się rośliny, produkty roślinne lub inne przedmioty wyprowadzane poza obszary wyznaczone zgodnie z art. 18 ust. 1 rozporządzenia 2016/2031,
+    - **e)** wydania dokumentów lub oznakowań, określonych w przepisach wydanych na podstawie art. 28 ust. 1 lub 6, art. 30 ust. 1 akapit drugi lub ust. 7 lub art. 99 ust. 1 rozporządzenia 2016/2031 lub art. 31 ust. 3,
+    - **f)** udzielenia upoważnienia, o którym mowa w art. 98 ust. 1 rozporządzenia 2016/2031, oraz w celu weryfikacji i zapewnienia, o których mowa w art. 98 ust. 3 rozporządzenia 2016/2031;
+
+- **2)** przeprowadzenie przez wojewódzkiego inspektora kontroli w celu uznania miejsca produkcji za wolne od określonego agrofaga oraz w celu utrzymania statusu miejsca produkcji uznanego za wolne od określonego agrofaga;
+- **3)** przeprowadzenie przez wojewódzkiego inspektora ocen, o których mowa w art. 87 ust. 1 rozporządzenia 2016/2031;
+- **4)** wydanie przez wojewódzkiego inspektora paszportu roślin;
+- **5)** przeprowadzenie przez wojewódzkiego inspektora egzaminu, o którym mowa w art. 23 ust. 1 pkt 1.
+
 **Art. 54.** Główny Inspektor oraz wojewódzki inspektor mogą za opłatą świadczyć usługi w zakresie pobierania próbek, przeprowadzania oceny wizualnej, badań laboratoryjnych lub testów roślin, produktów roślinnych, innych przedmiotów lub agrofagów oraz kontroli dokumentów, informacji lub danych w zakresie ochrony roślin przed agrofagami, jeżeli świadczenie tych usług nie wpłynie negatywnie na wykonywanie zadań przez Inspekcję.
 
 **Art. 55.**
@@ -1757,6 +1850,11 @@ source: "isap-pdf"
 
 **Art. 62.** Do spraw objętych postępowaniami wszczętymi na podstawie przepisów ustawy, o której mowa w art. 84, i niezakończonymi przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy niniejszej ustawy regulujące te sprawy, w tym do spraw dotyczących:
 
+- **1)** wpisu do rejestru przedsiębiorców, o którym mowa w art. 12 ust. 1 pkt 3 ustawy, o której mowa w art. 84 – stosuje się przepisy niniejszej ustawy dotyczące wpisu do urzędowego rejestru podmiotów profesjonalnych;
+- **2)** wydania świadectw fitosanitarnych lub świadectw fitosanitarnych dla reeksportu – stosuje się przepisy niniejszej ustawy dotyczące wydania fitosanitarnych świadectw eksportowych lub fitosanitarnych świadectw reeksportowych;
+- **3)** wpisu do rejestru, o którym mowa w art. 19a ust. 1 ustawy, o której mowa w art. 84 – stosuje się przepisy niniejszej ustawy dotyczące wpisu do rejestru, o którym mowa w art. 49 ust. 1;
+- **4)** pozwoleń na prowadzenie prac naukowo-badawczych lub prac nad tworzeniem nowych odmian roślin uprawnych – stosuje się przepisy niniejszej ustawy dotyczące postępowań w sprawie zezwoleń na prowadzenie prac nad agrofagami.
+
 **Art. 63.** Decyzje wydane na podstawie ustawy, o której mowa w art. 84, zachowują moc przez okres, na jaki zostały wydane. Do uchylenia lub zmiany tych decyzji oraz wznowienia postępowania w sprawach objętych tymi decyzjami stosuje się przepisy niniejszej ustawy regulujące sprawy rozstrzygane tymi decyzjami.
 
 **Art. 64.** Podmiot wpisany do wykazu, o którym mowa w art. 8a ust. 5 ustawy, o której mowa w art. 84, staje się podmiotem, o którym mowa w art. 13 ust. 11.
@@ -1787,6 +1885,9 @@ source: "isap-pdf"
 
 **Art. 68.** Paszporty roślin wydane przez:
 
+- **1)** wojewódzkiego inspektora na podstawie art. 16 ust. 4 lub 4a ustawy, o której mowa w art. 84, lub
+- **2)** podmioty upoważnione na podstawie art. 16 ust. 15 ustawy, o której mowa w art. 84 – zachowują ważność.
+
 **Art. 69.**
 
 1. Podmiot upoważniony do wydawania paszportów roślin na podstawie art. 16 ust. 15 ustawy, o której mowa w art. 84, staje się podmiotem upoważnionym do wydawania paszportów roślin na podstawie niniejszej ustawy.
@@ -1794,6 +1895,11 @@ source: "isap-pdf"
 2. Jeżeli podmiot, o którym mowa w ust. 1, zostanie wykreślony z urzędowego rejestru podmiotów profesjonalnych na podstawie art. 66 ust. 3, wojewódzki inspektor cofa, w drodze decyzji, temu podmiotowi upoważnienie do wydawania paszportów roślin.
 
 **Art. 70.** Do dnia 31 grudnia 2022 r. badania laboratoryjne na obecność regulowanych agrofagów niekwarantannowych mogą być wykonywane w ramach oceny, o której mowa w art. 87 ust. 1 rozporządzenia 2016/2031, przeprowadzanej przez osobę, o której mowa w art. 23 ust. 1 pkt 1, w laboratoriach:
+
+- **1)** akredytowanych, o których mowa w art. 44 ust. 3 ustawy z dnia 9 listopada 2012 r. o nasiennictwie, lub jednostkach organizacyjnych, o których mowa w art. 70 ust. 2 tej ustawy;
+- **2)** instytutów badawczych;
+- **3)** posiadających akredytację w zakresie ogólnych wymagań dotyczących laboratoriów badawczych i wzorcujących udzieloną zgodnie z przepisami ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku;
+- **4)** Inspekcji.
 
 **Art. 71.**
 

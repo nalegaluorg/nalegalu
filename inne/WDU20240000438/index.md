@@ -8,10 +8,10 @@ pos: 438
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 marca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 438 ROZPORZĄDZENIE MINISTRA EDUKACJI z dnia 22 marca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000438) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/438/text.pdf) |
 
-Poz. 438 ROZPORZĄDZENIE MINISTRA EDUKACJI z dnia 22 marca 2024 r.
 zmieniające rozporządzenie w sprawie oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych Na podstawie art. 44zb ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r.
-poz. 1234 i 2005) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 22 lutego 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych (Dz. U. z 2023 r. poz. 2572) wprowadza się następujące zmiany:
+poz. 1234 i 2005) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 22 lutego 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych (Dz. U. z 2023 r. poz. 2572) wprowadza się następujące zmiany:
 1) po § 12 dodaje się § 12a w brzmieniu: „§ 12a. 1. W ramach oceniania bieżącego z zajęć edukacyjnych w szkole podstawowej:
 1) w klasach I–III nauczyciel nie zadaje uczniowi:
 a) pisemnych prac domowych, z wyjątkiem ćwiczeń usprawniających motorykę małą,

@@ -8,10 +8,10 @@ pos: 1642
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1642 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 11 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001642) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1642/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 11 sierpnia 2023 r.
-w sprawie katalogu danych gromadzonych w centralnej ewidencji pojazdów Na podstawie art. 80b ust. 2 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy katalog danych, o których mowa w art. 80b ust. 1 pkt 6 lit. e i f, pkt 7 lit. a oraz pkt 8–18 i 20–22 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, zwanej dalej „ustawą”, gromadzonych w centralnej ewidencji pojazdów, zwanej dalej „ewidencją”, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1 ustawy, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję.
+w sprawie katalogu danych gromadzonych w centralnej ewidencji pojazdów Na podstawie art. 80b ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy katalog danych, o których mowa w art. 80b ust. 1 pkt 6 lit. e i f, pkt 7 lit. a oraz pkt 8–18 i 20–22 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zwanej dalej „ustawą”, gromadzonych w centralnej ewidencji pojazdów, zwanej dalej „ewidencją”, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1 ustawy, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję.
 § 2. W ewidencji gromadzi się następujące dane o:
 1) dowodzie rejestracyjnym oraz jego wtórniku:
 a) datę zamówienia dokumentu,
@@ -67,7 +67,7 @@ b) oznaczenie organu, który wydał decyzję,
 c) imię i nazwisko (nazwę lub firmę) podmiotu uprawnionego, o którym mowa w art. 80s ust. 2 ustawy, zwanego dalej „podmiotem uprawnionym”,
 d) adres siedziby albo oddziału podmiotu uprawnionego,
 e) datę i miejsce urodzenia podmiotu uprawnionego, jeżeli dotyczy,
-f) numer identyfikacyjny REGON podmiotu uprawnionego albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument,
+f) numer identyfikacyjny REGON podmiotu uprawnionego albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument,
 g) rodzaj podmiotu uprawnionego,
 h) serię i numer wydanego blankietu profesjonalnego dowodu rejestracyjnego oraz datę i godzinę jego wydania przez organ,
 i) serię i numer, datę i godzinę zwrotu blankietu profesjonalnego dowodu rejestracyjnego do organu, który go wydał, oraz oznaczenie, czy został wykorzystany,
@@ -102,7 +102,7 @@ j) przyczynę utraty znaku legalizacyjnego,
 k) oznaczenie podmiotu wprowadzającego dane,
 l) datę i godzinę wprowadzenia danych;
 6) znakach legalizacyjnych oraz ich wtórnikach:
-a) serię i numer nalepki legalizacyjnej, a w przypadku nalepki legalizacyjnej na tablice tymczasowe datę ważności tej nalepki,
+a) serię i numer nalepki legalizacyjnej, a w przypadku nalepki legalizacyjnej na tablice tymczasowe – datę ważności tej nalepki,
 b) datę wydania znaków legalizacyjnych,
 c) datę utraty, zniszczenia znaków legalizacyjnych oraz datę ich odnalezienia,
 d) przyczynę utraty znaków legalizacyjnych,
@@ -112,7 +112,7 @@ f) datę i godzinę wprowadzenia danych;
 a) numer badania technicznego,
 b) datę i godzinę wykonania badania technicznego albo jego przerwania,
 c) kod rozpoznawczy stacji kontroli pojazdów,
-d) wartość odczytu wskazania drogomierza pojazdu w momencie badania technicznego wraz z jednostką miary, a w przypadku braku możliwości odczytu rodzaj stwierdzonej nieprawidłowości,
+d) wartość odczytu wskazania drogomierza pojazdu w momencie badania technicznego wraz z jednostką miary, a w przypadku braku możliwości odczytu – rodzaj stwierdzonej nieprawidłowości,
 e) rodzaj badania technicznego,
 f) rodzaj dodatkowego badania technicznego, o którym mowa w art. 81 ust. 11 ustawy,
 g) stwierdzone w toku badania technicznego usterki, w tym oznaczenie przedmiotu i zakresu badania, oznaczenie usterki skutkującej uznaniem stanu technicznego pojazdu za niezadowalający oraz wytyczne dotyczące oceny usterek,
@@ -255,7 +255,7 @@ g) datę i godzinę wprowadzenia danych;
 24) wymianie drogomierza:
 a) datę i przyczynę wymiany drogomierza,
 b) datę dokonania odczytu wskazania drogomierza po wymianie,
-c) wartość odczytu wskazania drogomierza wraz z jednostką miary, a w przypadku braku możliwości odczytu rodzaj stwierdzonej nieprawidłowości,
+c) wartość odczytu wskazania drogomierza wraz z jednostką miary, a w przypadku braku możliwości odczytu – rodzaj stwierdzonej nieprawidłowości,
 d) wynik odczytu wskazania drogomierza,
 e) imię i nazwisko diagnosty oraz numer uprawnień diagnosty, który dokonał odczytu wskazania drogomierza,
 f) informację, czy dane o wymianie drogomierza zostały przekazane do ewidencji na podstawie art. 80bc ustawy,
@@ -266,7 +266,7 @@ j) informację o złożeniu oświadczenia, o którym mowa w art. 81b ust. 5 usta
 k) datę i godzinę wprowadzenia danych;
 25) odczycie wskazania drogomierza w czasie kontroli:
 a) datę i godzinę odczytu wskazania drogomierza,
-b) wartość odczytu wskazania drogomierza w czasie kontroli wraz z jednostką miary, a w przypadku braku możliwości odczytu rodzaj stwierdzonej nieprawidłowości,
+b) wartość odczytu wskazania drogomierza w czasie kontroli wraz z jednostką miary, a w przypadku braku możliwości odczytu – rodzaj stwierdzonej nieprawidłowości,
 c) oznaczenie podmiotu dokonującego kontroli,
 d) datę i godzinę wprowadzenia danych;
 26) wydanych zezwoleniach na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd:
@@ -350,9 +350,9 @@ h) datę i godzinę wprowadzenia danych.
 69) współczynnik odchylenia, jeżeli dotyczy;
 70) współczynnik korelacji, jeżeli dotyczy;
 71) numer identyfikacyjny rodziny pojazdów, jeżeli dotyczy;
-72) kod nadwozia, w tym w stosownych przypadkach cyfry uzupełniające, jeżeli dotyczy;
+72) kod nadwozia, w tym w stosownych przypadkach – cyfry uzupełniające, jeżeli dotyczy;
 73) maksymalną prędkość w km/h, jeżeli dotyczy;
-74) zasięg pojazdu w przypadku pojazdu elektrycznego lub hybrydowego (OVC-HEV), jeżeli dotyczy;
+74) zasięg pojazdu – w przypadku pojazdu elektrycznego lub hybrydowego (OVC-HEV), jeżeli dotyczy;
 75) stopkę ze skrótem kryptograficznym dokumentacji producenta określonym w pozycji 49.1 świadectwa zgodności, jeżeli dotyczy;
 76) indywidualną emisję CO określoną w pozycji 49.5 świadectwa zgodności, jeżeli dotyczy;
 77) średnią wartość ładowności określoną w pozycji 49.6 świadectwa zgodności, jeżeli dotyczy;
@@ -362,12 +362,12 @@ h) datę i godzinę wprowadzenia danych.
 2) § 3.
 § 5. Zakłady ubezpieczeń przekazują dane wymienione w:
 1) § 2 pkt 8, 18 i 19, z wyłączeniem daty i godziny wprowadzenia danych;
-2) § 3 pkt 1, 4, 15 i 23 przy zawieraniu umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu dla pojazdu niezarejestrowanego.
+2) § 3 pkt 1, 4, 15 i 23 – przy zawieraniu umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu dla pojazdu niezarejestrowanego.
 § 6. Właściwa jednostka organizacyjna Policji przekazuje dane wymienione w § 2 pkt 10, z wyłączeniem daty i godziny wprowadzenia danych.
 § 7. Właściwa jednostka organizacyjna Policji, Straży Granicznej, Inspekcji Transportu Drogowego, Żandarmerii Wojskowej lub Krajowej Administracji Skarbowej przekazuje dane wymienione w § 2 pkt 11 i 12, z wyłączeniem daty i godziny wprowadzenia danych.
 § 8. Stacje kontroli pojazdów przekazują dane wymienione w:
-1) § 2 pkt 7 lit. a i b w przypadku gdy dane o badaniu technicznym są wprowadzane do ewidencji w trybie art. 80bc ustawy, i lit. c–o, pkt 11 i 24, z wyłączeniem daty i godziny wprowadzenia danych;
-2) § 3 pkt 1, 3, 4, 7–9, 15, 19, 23, 29–31, 37, 38, 41–45, 47, 48, 53–55 i 61 przy przeprowadzaniu badania technicznego lub dokonywaniu odczytu drogomierza w przypadku pojazdu niezarejestrowanego.
+1) § 2 pkt 7 lit. a i b – w przypadku gdy dane o badaniu technicznym są wprowadzane do ewidencji w trybie art. 80bc ustawy, i lit. c–o, pkt 11 i 24, z wyłączeniem daty i godziny wprowadzenia danych;
+2) § 3 pkt 1, 3, 4, 7–9, 15, 19, 23, 29–31, 37, 38, 41–45, 47, 48, 53–55 i 61 – przy przeprowadzaniu badania technicznego lub dokonywaniu odczytu drogomierza w przypadku pojazdu niezarejestrowanego.
 § 9. Centralna informacja o zastawach rejestrowych przekazuje dane wymienione w § 2 pkt 21, z wyłączeniem marki, rodzaju, roku produkcji oraz daty i godziny wprowadzenia danych.
 § 10. Ubezpieczeniowy Fundusz Gwarancyjny przekazuje dane wymienione w § 2 pkt 8, z wyłączeniem daty i godziny wprowadzenia danych.
 § 11. Stacje demontażu lub punkty zbierania pojazdów przekazują dane wymienione w § 2 pkt 13, z wyłączeniem daty i godziny wprowadzenia danych.
@@ -375,19 +375,19 @@ h) datę i godzinę wprowadzenia danych.
 § 13. Podmioty uprawnione, którym wydano decyzję o profesjonalnej rejestracji pojazdów, przekazują dane wymienione w § 2 pkt 22 i 23, z wyłączeniem oznaczenia podmiotu wprowadzającego dane oraz daty i godziny wprowadzenia danych.
 § 14. Właściwa jednostka organizacyjna Policji, Straży Granicznej, Inspekcji Transportu Drogowego, Żandarmerii Wojskowej lub Służby Celno-Skarbowej przekazuje dane wymienione w:
 1) § 2 pkt 25, z wyłączeniem daty i godziny wprowadzenia danych;
-2) § 3 pkt 1, 3, 4, 7–9, 15, 19, 23, 29–31, 37, 38, 41–45, 47, 48, 53–55 i 61 w przypadku odczytu drogomierza pojazdu niezarejestrowanego.
+2) § 3 pkt 1, 3, 4, 7–9, 15, 19, 23, 29–31, 37, 38, 41–45, 47, 48, 53–55 i 61 – w przypadku odczytu drogomierza pojazdu niezarejestrowanego.
 § 15. Dyrektor Transportowego Dozoru Technicznego przekazuje dane wymienione w:
 1) § 2 pkt 26, z wyłączeniem daty i godziny wprowadzenia danych;
-2) § 3 pkt 1, 3, 4, 7 w przypadku pojazdu niezarejestrowanego, w stosunku do którego wydano zezwolenie na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd.
+2) § 3 pkt 1, 3, 4, 7 – w przypadku pojazdu niezarejestrowanego, w stosunku do którego wydano zezwolenie na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd.
 § 16. Dane gromadzone w ewidencji dotyczące daty i godziny wprowadzenia danych oraz oznaczenia podmiotu wprowadzającego dane są uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.
 § 17. Dane, o których mowa w § 3 pkt 34, są dodatkowo uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.
 § 18. Przepisy:
-1) § 2 pkt 14 oraz § 12 stosuje się od dnia określonego w komunikacie, o którym mowa w art. 11 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957, z późn. zm. );
-2) § 2 pkt 21 oraz § 9 stosuje się od dnia określonego w komunikacie, o którym mowa w art. 9 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw;
-3) § 2 pkt 26 oraz § 15 stosuje się od dnia określonego w komunikacie, o którym mowa w art. 5 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy Prawo o ruchu drogowym, ustawy o Rządowym Funduszu Rozwoju Dróg oraz ustawy o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. poz. 2165);
-4) § 5 pkt 1 w zakresie § 2 pkt 18 i 19 oraz § 5 pkt 2 stosuje się od dnia określonego w komunikacie, o którym mowa w art. 13 ust. 4 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1273, z późn. zm. );
-5) § 11 stosuje się od dnia określonego w komunikacie, o którym mowa w art. 7 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw.
-§ 19. Organ właściwy w sprawach rejestracji pojazdów przekazuje dane wymienione w § 2 pkt 13 do dnia określonego w komunikacie, o którym mowa w art. 7 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw.
+1) § 2 pkt 14 oraz § 12 stosuje się od dnia określonego w komunikacie, o którym mowa w art. 11 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957, z późn. zm. );
+2) § 2 pkt 21 oraz § 9 stosuje się od dnia określonego w komunikacie, o którym mowa w art. 9 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw;
+3) § 2 pkt 26 oraz § 15 stosuje się od dnia określonego w komunikacie, o którym mowa w art. 5 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy – Prawo o ruchu drogowym, ustawy o Rządowym Funduszu Rozwoju Dróg oraz ustawy o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. poz. 2165);
+4) § 5 pkt 1 w zakresie § 2 pkt 18 i 19 oraz § 5 pkt 2 stosuje się od dnia określonego w komunikacie, o którym mowa w art. 13 ust. 4 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1273, z późn. zm. );
+5) § 11 stosuje się od dnia określonego w komunikacie, o którym mowa w art. 7 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
+§ 19. Organ właściwy w sprawach rejestracji pojazdów przekazuje dane wymienione w § 2 pkt 13 do dnia określonego w komunikacie, o którym mowa w art. 7 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
 § 20. Dane, o których mowa w § 3 pkt 34, są uzupełniane zgodnie z § 17, nie później niż w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia.
 § 21. Rozporządzenie wchodzi w życie z dniem 21 sierpnia 2023 r.
 Minister Cyfryzacji: J. Cieszyński

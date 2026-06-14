@@ -8,10 +8,10 @@ pos: 342
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 marca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 342 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 6 marca 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000342) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/342/text.pdf) |
 
-Poz. 342 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 6 marca 2013 r.
-w sprawie zniesienia niektórych oddziałów Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej Na podstawie art. 6 ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm. ) zarządza się, co następuje: § 1. Znosi się następujące oddziały Straży Granicznej:
+w sprawie zniesienia niektórych oddziałów Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej Na podstawie art. 6 ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm. ) zarządza się, co następuje:
+§ 1. Znosi się następujące oddziały Straży Granicznej:
 1) Karpacki Oddział Straży Granicznej imienia 1 Pułku Strzelców Podhalańskich z siedzibą w Nowym Sączu,
 2) Sudecki Oddział Straży Granicznej imienia Ziemi Kłodzkiej z siedzibą w Kłodzku – utworzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2011 r. w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. Nr 69, poz. 370).
 § 2. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2011 r. w sprawie utworzenia oddziałów Straży Granicznej (Dz. U. Nr 69, poz. 370) w § 1 wprowadza się następujące zmiany:

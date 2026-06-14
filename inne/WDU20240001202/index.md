@@ -8,10 +8,10 @@ pos: 1202
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 sierpnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1202 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 26 lipca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-08-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1202/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 26 lipca 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 grudnia 2016 r. w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach (Dz. U. z 2017 r. poz. 118), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 17 marca 2023 r. zmieniającym rozporządzenie w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach (Dz. U. poz. 596).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 17 marca 2023 r. zmieniającego rozporządzenie w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach (Dz. U. poz. 596), które stanowią: „§ 2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Infrastruktury: D. Klimczak ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 21 grudnia 2016 r.
-w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach Na podstawie art. 50a ust. 9 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) zarządza się, co następuje: § 1. 1. Rozporządzenie określa:
+w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich portach i przystaniach Na podstawie art. 50a ust. 9 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa:
 1) szczegółowy zakres nadzoru przeciwpożarowego sprawowanego przez organy administracji morskiej;
 2) szczegółowy sposób sprawowania nadzoru przeciwpożarowego, w tym tryb przeprowadzania inspekcji i kontroli, o których mowa w art. 50a ust. 2 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, zwanej dalej „ustawą”, oraz szczegółowy zakres informacji zawartych w protokole, o którym mowa w art. 50a ust. 7 ustawy;
 3) warunki współpracy organów administracji morskiej z podmiotami, które uczestniczą w działaniach ratowniczo-gaśniczych w obrębie polskich obszarów morskich oraz portów i przystani morskich;
@@ -39,25 +39,25 @@ w sprawie nadzoru przeciwpożarowego w polskich obszarach morskich oraz morskich
 5) szczegółowy zakres informacji, o których mowa w art. 50a ust. 8 pkt 4 ustawy.
 2. Przepisów rozporządzenia nie stosuje się do obiektów, urządzeń portowych oraz jednostek pływających Marynarki Wojennej, Straży Granicznej i Policji.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) porcie należy przez to rozumieć obszar lądowy oraz obszar wód morskich w obrębie granic portu morskiego lub przystani morskiej;
-2) podmiocie zarządzającym portem należy przez to rozumieć podmiot, o którym mowa w art. 2 pkt 6 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796);
-3) statku należy przez to rozumieć urządzenie pływające używane w środowisku morskim, w tym również: wodoloty, poduszkowce, statki podwodne, ruchome i umocowane platformy wiertnicze oraz doki pływające;
-4) ładunku niebezpiecznym należy przez to rozumieć materiały, substancje, przedmioty i towary określone jako niebezpieczne, szkodliwe lub zanieczyszczające, wymienione w:
+1) porcie – należy przez to rozumieć obszar lądowy oraz obszar wód morskich w obrębie granic portu morskiego lub przystani morskiej;
+2) podmiocie zarządzającym portem – należy przez to rozumieć podmiot, o którym mowa w art. 2 pkt 6 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796);
+3) statku – należy przez to rozumieć urządzenie pływające używane w środowisku morskim, w tym również: wodoloty, poduszkowce, statki podwodne, ruchome i umocowane platformy wiertnicze oraz doki pływające;
+4) ładunku niebezpiecznym – należy przez to rozumieć materiały, substancje, przedmioty i towary określone jako niebezpieczne, szkodliwe lub zanieczyszczające, wymienione w:
 a) Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, 1973, sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U.
 z 2016 r. poz. 761 i 773),
-b) kodeksach, o których mowa w rozdziale VII Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869 oraz z 2017 r. poz. 142), a także materiały, substancje, przedmioty i towary niewymienione powyżej, zgłoszone lub oznaczone jako niebezpieczne, szkodliwe lub zanieczyszczające w dokumentach przewozowych, na opakowaniach lub w karcie charakterystyki produktu;
-5) terminalu należy przez to rozumieć obiekt, obszar lub akwen portu, na którym zachodzą działania statek ląd, w tym obiekt, obszar lub akwen portu, w którym:
+b) kodeksach, o których mowa w rozdziale VII Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869 oraz z 2017 r. poz. 142), – a także materiały, substancje, przedmioty i towary niewymienione powyżej, zgłoszone lub oznaczone jako niebezpieczne, szkodliwe lub zanieczyszczające w dokumentach przewozowych, na opakowaniach lub w karcie charakterystyki produktu;
+5) terminalu – należy przez to rozumieć obiekt, obszar lub akwen portu, na którym zachodzą działania statek – ląd, w tym obiekt, obszar lub akwen portu, w którym:
 a) rozpoczyna się lub kończy transport osób (terminal pasażerski) lub
 b) dokonuje się zmiany środka transportu ładunków przewożonych statkiem na inny środek transportu lub na ląd (terminal przeładunkowy);
-6) ustawie o bezpieczeństwie morskim należy przez to rozumieć ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068);
-7) akcji ratowniczo-gaśniczej należy przez to rozumieć ogół działań ratowniczo-gaśniczych podejmowanych w związku z wystąpieniem zdarzenia zagrażającego bezpieczeństwu zdrowia lub życia ludzkiego, środowiska naturalnego lub mienia, od momentu jego wykrycia do zakończenia usuwania jego skutków, przez podmioty wykonujące zadania związane z ochroną przeciwpożarową w porcie oraz jednostki, o których mowa w art. 118 ustawy o bezpieczeństwie morskim.
+6) ustawie o bezpieczeństwie morskim – należy przez to rozumieć ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068);
+7) akcji ratowniczo-gaśniczej – należy przez to rozumieć ogół działań ratowniczo-gaśniczych podejmowanych w związku z wystąpieniem zdarzenia zagrażającego bezpieczeństwu zdrowia lub życia ludzkiego, środowiska naturalnego lub mienia, od momentu jego wykrycia do zakończenia usuwania jego skutków, przez podmioty wykonujące zadania związane z ochroną przeciwpożarową w porcie oraz jednostki, o których mowa w art. 118 ustawy o bezpieczeństwie morskim.
 § 3. 1. W zakresie nadzoru przeciwpożarowego w portach, o którym mowa w art. 42 ust. 2 pkt 9 ustawy, dyrektorzy urzędów morskich:
 1) przed zatwierdzeniem planu zwalczania zagrożeń i zanieczyszczeń dla wód portowych, o którym mowa w art. 23b ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2023 r. poz. 1072 oraz z 2024 r. poz. 834), weryfikują zawarte w nim informacje w zakresie zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w planie zwalczania zagrożeń i zanieczyszczeń dla wód portowych określonych w załączniku nr 1 do rozporządzenia;
 2) (uchylony);
 3) weryfikują informacje zawarte w instrukcji technologicznej, przedkładanej przez podmiot prowadzący w porcie działalność polegającą na transporcie, przeładunku, obróbce, składowaniu lub dystrybucji ładunków niebezpiecznych, w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji technologicznej określonym w załączniku nr 2 do rozporządzenia;
 4) weryfikują informacje zawarte w:
 a) cyklicznej instrukcji technologiczno-ruchowej, przedkładanej przez podmiot prowadzący w porcie działalność polegającą na budowie, remontowaniu i naprawach statków i innych obiektów pływających, a także innych środków transportu, urządzeń i instalacji,
-b) jednorazowej instrukcji technologiczno-ruchowej, przedkładanej przez podmiot planujący podjęcie w porcie prac remontowych, naprawczych lub innych prac pożarowo niebezpiecznych o określonym zakresie i czasie realizacji w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji technologiczno-ruchowej określonym w załączniku nr 3 do rozporządzenia;
+b) jednorazowej instrukcji technologiczno-ruchowej, przedkładanej przez podmiot planujący podjęcie w porcie prac remontowych, naprawczych lub innych prac pożarowo niebezpiecznych o określonym zakresie i czasie realizacji – w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji technologiczno-ruchowej określonym w załączniku nr 3 do rozporządzenia;
 5) weryfikują informacje zawarte w instrukcji bezpiecznej obsługi statku przewożącego ładunki niebezpieczne przedkładanej przez podmiot zarządzający terminalem, w zakresie ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki oraz szczegółowym zakresem informacji niezbędnych do określenia w instrukcji bezpiecznej obsługi statku określonym w załączniku nr 4 do rozporządzenia;
 6) w ramach uzgadniania regulaminu organizacyjnego podmiotu wykonującego zadania związane z ochroną przeciwpożarową w porcie weryfikują zawarte w nim informacje, w szczególności w zakresie:
 a) ich zgodności z obowiązującymi przepisami dotyczącymi ochrony przeciwpożarowej, bezpieczeństwa morskiego i zapobiegania zanieczyszczaniu morza przez statki,
@@ -180,7 +180,7 @@ z 2013 r. poz. 840);
 7) rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającym i uchylającym dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającym rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.);
 8) ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995);
 9) ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2024 r. poz. 275);
-10) ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834 i 1089);
+10) ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834 i 1089);
 11) ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2018 r. poz. 2037 oraz z 2019 r. poz. 55) ;
 12) ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r.
 poz. 2378);
@@ -248,7 +248,7 @@ b) zasad bezpiecznego przewozu określonego rodzaju ładunku;
 4) na temat procedur związanych z wejściem statku do portu, w tym konieczności:
 a) uzyskania świadectwa odgazowania statku,
 b) zapewnienia asysty statku pożarniczego;
-5) na temat miejsca docelowego terminalu przeładunku przewożonego ładunku, w tym:
+5) na temat miejsca docelowego – terminalu przeładunku przewożonego ładunku, w tym:
 a) poszczególnych etapów przeładunku,
 b) istniejącego zabezpieczenia przeciwpożarowego na terenie terminalu,
 c) wymagań w zakresie bezpieczeństwa na poszczególnych etapach przeładunku;

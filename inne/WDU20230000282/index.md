@@ -8,10 +8,10 @@ pos: 282
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lutego 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 282 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 23 stycznia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/282/text.pdf) |
 
-Poz. 282 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 23 stycznia 2023 r.
-w sprawie maksymalnych stawek opłat za ponowne wykorzystywanie informacji sektora publicznego nakładanych przez muzea państwowe i muzea samorządowe Na podstawie art. 19 ust. 3 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641 oraz z 2022 r. poz. 1700) zarządza się, co następuje: § 1. Maksymalne stawki opłat za ponowne wykorzystywanie informacji sektora publicznego w celach innych niż niekomercyjne o charakterze badawczym, naukowym lub edukacyjnym, nakładane przez muzea państwowe i muzea samorządowe wynoszą, w przypadku udostępniania lub przekazywania tych informacji:
+w sprawie maksymalnych stawek opłat za ponowne wykorzystywanie informacji sektora publicznego nakładanych przez muzea państwowe i muzea samorządowe Na podstawie art. 19 ust. 3 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641 oraz z 2022 r. poz. 1700) zarządza się, co następuje:
+§ 1. Maksymalne stawki opłat za ponowne wykorzystywanie informacji sektora publicznego w celach innych niż niekomercyjne o charakterze badawczym, naukowym lub edukacyjnym, nakładane przez muzea państwowe i muzea samorządowe wynoszą, w przypadku udostępniania lub przekazywania tych informacji:
 1) za pośrednictwem systemu teleinformatycznego – 149 zł za jednorazowe udostępnienie jednego pliku;
 2) w postaci kopii (reprodukcji) cyfrowej – 207 zł za jeden skan lub fotografię cyfrową zapisane na informatycznym nośniku danych;
 3) w postaci fotografii:

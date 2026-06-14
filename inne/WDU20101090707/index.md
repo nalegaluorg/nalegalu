@@ -8,7 +8,7 @@ pos: 707
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu nowej nazwy Akademii Sztuk Pięknych w Poznaniu

@@ -8,10 +8,10 @@ pos: 2806
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2806 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 22 grudnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2806/text.pdf) |
 
-Poz. 2806 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 22 grudnia 2023 r.
-zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. z 2023 r. poz. 1427 i 2226) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. z 2023 r. poz. 1427 i 2226) wprowadza się następujące zmiany:
 1) w załączniku nr 1 do rozporządzenia w części IVa w ust. 1 w pkt 8 skreśla się wyrazy „10-punktowych”;
 2) w załączniku nr 5 do rozporządzenia w sekcji A. Nocna i świąteczna opieka zdrowotna udzielana w warunkach ambulatoryjnych w części I w ust. 2 uchyla się pkt 3;
 3) w załączniku nr 6 do rozporządzenia w ust. 2:

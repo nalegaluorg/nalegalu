@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym*
 
 Łącznie: **1** orzeczeń
-(pominięto 29 orzeczeń sądów rejonowych)
+(pominięto 30 orzeczeń sądów rejonowych)
 
 ## art. 27 (1)
 

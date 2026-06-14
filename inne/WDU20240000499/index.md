@@ -8,7 +8,7 @@ pos: 499
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o radcach prawnych
@@ -132,6 +132,10 @@ source: "isap-pdf"
 4. Radcy prawnemu nie można polecać wykonania czynności wykraczającej poza zakres pomocy prawnej.
 
 **Art. 10.** Jednostka organizacyjna zapewnia udział radcy prawnego w postępowaniu:
+
+- **1)** przed Sądem Najwyższym, Naczelnym Sądem Administracyjnym oraz przed naczelnym lub centralnym organem administracji państwowej;
+- **2)** przed sądem okręgowym, przed sądem apelacyjnym, przed wojewódzkim sądem administracyjnym oraz przed organem drugiej instancji w postępowaniu administracyjnym;
+- **3)** w którym bierze udział kontrahent zagraniczny.
 
 **Art. 11.**
 
@@ -363,6 +367,15 @@ source: "isap-pdf"
 7. Od ostatecznej decyzji Ministra Sprawiedliwości zainteresowanemu oraz Prezydium Krajowej Rady Radców Prawnych służy skarga do sądu administracyjnego w terminie 30 dni od dnia doręczenia decyzji.
 
 **Art. 29.** Skreślenie z listy radców prawnych następuje w wypadku:
+
+- **1)** wniosku radcy prawnego;
+- **2)** (uchylony)
+- **3)** choćby częściowego ograniczenia zdolności do czynności prawnych;
+- **4)** utraty z mocy wyroku sądowego praw publicznych;
+- **4a)** nieuiszczania składek członkowskich za okres dłuższy niż jeden rok;
+- **5)** śmierci radcy prawnego;
+- **5a)** (utracił moc)
+- **6)** orzeczenia dyscyplinarnego lub wyroku sądowego o pozbawieniu prawa do wykonywania zawodu radcy prawnego.
 
 **Art. 29¹.** Rada okręgowej izby radców prawnych podejmuje uchwałę w sprawie skreślenia z listy radców prawnych w terminie 30 dni od powzięcia wiadomości o zaistnieniu zdarzenia, o którym mowa w art. 29 pkt 1 i 3–5. Przepis art. 28 ust. 5–7 stosuje się odpowiednio.
 
@@ -648,6 +661,11 @@ source: "isap-pdf"
 
 **Art. 35.** Do obowiązków aplikanta radcowskiego należy:
 
+- **1)** uczestniczenie w przewidzianych programem zajęciach teoretycznych i praktycznych;
+- **2)** samodzielne pogłębianie wiedzy prawniczej i praktycznych umiejętności zawodowych;
+- **3)** przestrzeganie dyscypliny szkolenia i pracy;
+- **4)** przystąpienie do egzaminu radcowskiego w wyznaczonym terminie.
+
 **Art. 35¹.**
 
 1. Po sześciu miesiącach aplikacji radcowskiej aplikant radcowski może zastępować radcę prawnego przed sądami, organami ścigania, organami państwowymi, samorządowymi i innymi instytucjami, z wyjątkiem Sądu Najwyższego, Naczelnego Sądu Administracyjnego, Trybunału Konstytucyjnego i Trybunału Stanu.
@@ -917,6 +935,10 @@ source: "isap-pdf"
 
 **Art. 37¹.** Rada okręgowej izby radców prawnych może, w drodze uchwały, na wniosek aplikanta radcowskiego złożony przed upływem roku od daty zakończenia aplikacji radcowskiej i na podstawie przedstawionych dokumentów, wydłużyć okres, o którym mowa w art. 37 ust. 1 pkt 4, o rok w przypadku wystąpienia następujących okoliczności uniemożliwiających przystąpienie do egzaminu radcowskiego w najbliższym terminie po zakończeniu aplikacji radcowskiej:
 
+- **1)** wystąpienia u tej aplikantki powikłań związanych z przebiegiem ciąży, trwających co najmniej 30 dni, w okresie ostatnich 6 miesięcy trwania aplikacji radcowskiej lub w okresie od jej zakończenia do dnia zakończenia egzaminu radcowskiego;
+- **2)** choroby tego aplikanta powodującej niezdolność do pracy przez okres co najmniej 90 dni albo wymagającej hospitalizacji przez okres co najmniej 21 dni – w okresie ostatnich 6 miesięcy trwania aplikacji radcowskiej lub w okresie od jej zakończenia do dnia zakończenia egzaminu radcowskiego;
+- **3)** urodzenia przez tę aplikantkę dziecka w ostatnim roku aplikacji radcowskiej lub w okresie od jej zakończenia do dnia zakończenia egzaminu radcowskiego albo gdy termin porodu został ustalony na dzień przypadający nie później niż 3 miesiące od dnia zakończenia egzaminu radcowskiego.
+
 **Art. 38.**
 
 1. Aplikację radcowską organizują i prowadzą okręgowe izby radców prawnych.
@@ -940,6 +962,14 @@ source: "isap-pdf"
 2. Przynależność radców prawnych i aplikantów radcowskich do samorządu jest obowiązkowa.
 
 **Art. 41.** Do zadań samorządu należy w szczególności:
+
+- **1)** udział w zapewnianiu warunków do wykonywania ustawowych zadań radców prawnych;
+- **2)** reprezentowanie radców prawnych i aplikantów radcowskich oraz ochrona ich interesów zawodowych;
+- **3)** współdziałanie w kształtowaniu i stosowaniu prawa;
+- **4)** przygotowywanie aplikantów radcowskich do należytego wykonywania zawodu radcy prawnego oraz doskonalenie zawodowe radców prawnych;
+- **5)** nadzór nad należytym wykonywaniem zawodu przez radców prawnych i aplikantów radcowskich;
+- **5a)** współdziałanie z jednostkami samorządu terytorialnego w zapewnianiu udzielania nieodpłatnej pomocy prawnej, o której mowa w ustawie z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2021 r. poz. 945);
+- **6)** prowadzenie badań w zakresie funkcjonowania pomocy prawnej.
 
 **Art. 42.**
 
@@ -1055,6 +1085,15 @@ source: "isap-pdf"
 
 **Art. 57.** Do Krajowego Zjazdu Radców Prawnych należy:
 
+- **1)** wybór prezesa Krajowej Rady Radców Prawnych;
+- **2)** wybór Krajowej Rady Radców Prawnych, Wyższej Komisji Rewizyjnej, Wyższego Sądu Dyscyplinarnego oraz Głównego Rzecznika Dyscyplinarnego;
+- **3)** uchwalanie wytycznych działania samorządu i jego organów;
+- **4)** określanie zasad przeprowadzania wyborów do organów samorządu, liczby członków tych organów oraz trybu ich odwoływania, a także zasad podejmowania uchwał przez organy samorządu;
+- **5)** (uchylony)
+- **6)** rozpatrywanie i zatwierdzanie sprawozdań Krajowej Rady Radców Prawnych, Wyższej Komisji Rewizyjnej, Wyższego Sądu Dyscyplinarnego i Głównego Rzecznika Dyscyplinarnego;
+- **7)** uchwalanie zasad etyki radców prawnych;
+- **8)** ustalanie podstawowych zasad gospodarki finansowej samorządu.
+
 **Art. 58.**
 
 1. Nadzwyczajny Krajowy Zjazd Radców Prawnych zwołuje Krajowa Rada Radców Prawnych:
@@ -1076,6 +1115,35 @@ source: "isap-pdf"
 4. Prezydium Krajowej Rady Radców Prawnych sprawuje czynności należące do zakresu działania Krajowej Rady Radców Prawnych, z wyjątkiem wymienionych w art. 60 pkt 4–5a oraz 8–11a.
 
 **Art. 60.** Do zakresu działania Krajowej Rady Radców Prawnych należy:
+
+- **1)** reprezentowanie samorządu wobec sądów, organów państwowych i samorządowych, instytucji i organizacji;
+- **2)** udzielanie opinii o projektach aktów prawnych oraz przedstawianie wniosków dotyczących unormowań prawnych;
+- **3)** koordynowanie działalności okręgowych izb radców prawnych i sprawowanie nadzoru nad ich działalnością;
+- **4)** uchwalanie budżetu Krajowej Rady Radców Prawnych i zatwierdzanie sprawozdań z jego wykonania oraz rozpatrywanie wniosków Wyższej Komisji Rewizyjnej;
+- **5)** wybór Prezesa Krajowej Rady Radców Prawnych oraz Głównego Rzecznika Dyscyplinarnego, jeżeli jego mandat wygasł w okresie pomiędzy Krajowymi Zjazdami Radców Prawnych;
+- **5a)** wybór przewodniczącego Krajowego Zespołu Wizytatorów, jego zastępcy i członków;
+- **6)** rozpatrywanie odwołań od uchwał rad okręgowych izb radców prawnych;
+- **7)** koordynowanie doskonalenia zawodowego radców prawnych;
+- **8)** uchwalanie regulaminów:
+    - **a)** działalności samorządu i jego organów,
+    - **b)** zakresu, trybu działania oraz zasad wynagradzania wizytatorów,
+    - **c)** odbywania aplikacji radcowskiej,
+    - **d)** prowadzenia list radców prawnych i aplikantów radcowskich,
+    - **e)** dotyczących zasad współdziałania radcy prawnego z prawnikiem zagranicznym reprezentującym klienta w postępowaniu, w którym zgodnie z obowiązującymi przepisami wymagane jest, aby strona była reprezentowana przez adwokata lub radcę prawnego,
+    - **f)** dotyczących szczegółowych zasad wykonywania zawodu radcy prawnego,
+    - **g)** dotyczących zasad wyznaczania radców prawnych do udzielania nieodpłatnej pomocy prawnej, o której mowa w ustawie z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej, i dokumentowania udzielonej nieodpłatnej pomocy prawnej,
+    - **h)** dotyczących dopełnienia obowiązku zawodowego radców prawnych w zakresie doskonalenia zawodowego i uprawnień organów samorządu służących zapewnieniu przestrzegania tego obowiązku przez radców prawnych;
+
+- **8a)** uchylanie sprzecznych z prawem uchwał zgromadzenia okręgowej izby radców prawnych;
+- **8b)** (utracił moc)
+- **9)** tworzenie okręgowych izb radców prawnych, określanie ich liczby oraz terytorialnego zasięgu;
+- **9a)** określanie zasad działania zastępców Głównego Rzecznika Dyscyplinarnego i zastępców rzeczników dyscyplinarnych oraz trybu i sposobu ich wyboru;
+- **9b)** określanie wysokości zryczałtowanych kosztów postępowania dyscyplinarnego;
+- **10)** ustalanie zasad gospodarki finansowej samorządu;
+- **11)** określanie wysokości składki członkowskiej i zasad jej podziału oraz wysokości opłat związanych z decyzją w sprawie wpisu na listę radców prawnych i aplikantów radcowskich oraz opłat manipulacyjnych;
+- **11a)** uchwalanie zasad zwalniania aplikantów od ponoszenia w całości lub w części opłaty rocznej, a także odraczania jej płatności lub rozkładania jej na raty;
+- **12)** wykonywanie zadań określonych w ustawie o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej;
+- **13)** współdziałanie z Ministrem Sprawiedliwości w zakresie określonym w ustawie.
 
 **Art. 60¹.**
 
@@ -1122,6 +1190,9 @@ source: "isap-pdf"
 **Art. 62⁶.** (uchylony)
 
 **Art. 63.** Działalność samorządu jest finansowana:
+
+- **1)** ze składek radców prawnych i aplikantów radcowskich, opłat związanych z postępowaniem w sprawie wpisu na listę radców prawnych i aplikantów radcowskich oraz kar pieniężnych;
+- **2)** z dochodów z innych źródeł, a w szczególności z dotacji i subwencji oraz darowizn i spadków.
 
 #### Rozdział 6 Odpowiedzialność dyscyplinarna
 
@@ -1212,6 +1283,10 @@ source: "isap-pdf"
 2. Rozstrzygnięcia organów prowadzących postępowanie dyscyplinarne opierają się na ustaleniach faktycznych. Dowody przeprowadza się na wniosek stron albo z urzędu.
 
 **Art. 67².** Postępowanie dyscyplinarne obejmuje:
+
+- **1)** dochodzenie;
+- **2)** postępowanie przed sądem dyscyplinarnym;
+- **3)** postępowanie wykonawcze.
 
 **Art. 68.**
 
@@ -1339,6 +1414,9 @@ source: "isap-pdf"
 **Art. 74.** (uchylony)
 
 **Art. 74¹.** W sprawach nieuregulowanych w ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy:
+
+- **1)** Kodeksu postępowania karnego;
+- **2)** rozdziałów I–III Kodeksu karnego.
 
 #### Rozdział 7 Przepisy szczególne, przejściowe i końcowe
 

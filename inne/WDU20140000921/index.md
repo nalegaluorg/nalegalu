@@ -8,10 +8,10 @@ pos: 921
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lipca 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 921 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 1 lipca 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000921) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/921/text.pdf) |
 
-Poz. 921 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 1 lipca 2014 r.
 w sprawie sposobu obliczania kosztów wykonywania przez przewoźnika lotniczego obowiązku użyteczności publicznej nałożonego w stosunku do regularnego przewozu lotniczego Na podstawie art. 197 ust. 9 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2013 r. poz. 1393 oraz z 2014 r.
-poz. 768) zarządza się, co następuje: § 1. Koszty wykonywania obowiązku użyteczności publicznej, o którym mowa w art. 197 ust. 1 pkt 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zwanej dalej „ustawą”, stanowią poniesione przez przewoźnika lotniczego koszty z tytułu wykonywania obowiązku użyteczności publicznej na trasie, w odniesieniu do której nałożono ten obowiązek, pomniejszone o osiągnięte przez przewoźnika lotniczego przychody w związku z obsługą tej trasy i powiększone o uzasadniony poziom zysku.
+poz. 768) zarządza się, co następuje:
+§ 1. Koszty wykonywania obowiązku użyteczności publicznej, o którym mowa w art. 197 ust. 1 pkt 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zwanej dalej „ustawą”, stanowią poniesione przez przewoźnika lotniczego koszty z tytułu wykonywania obowiązku użyteczności publicznej na trasie, w odniesieniu do której nałożono ten obowiązek, pomniejszone o osiągnięte przez przewoźnika lotniczego przychody w związku z obsługą tej trasy i powiększone o uzasadniony poziom zysku.
 § 2. 1. Koszty ponoszone przez przewoźnika lotniczego z tytułu wykonywania obowiązku użyteczności publicznej na trasie, w odniesieniu do której nałożono ten obowiązek, obejmują faktycznie poniesione koszty związane z wykonywaniem przez przewoźnika lotniczego obowiązku użyteczności publicznej, zgodnie z warunkami określonymi w przepisach wydanych na podstawie art. 197 ust. 1 pkt 2 ustawy, obliczone zgodnie z obowiązującymi przewoźnika lotniczego zasadami rachunkowości. Do kosztów tych zalicza się:
 1) koszty bezpośrednie działalności operacyjnej związane z działalnością przewozową, w tym koszty osobowe załogi statku powietrznego, koszty zużycia materiałów i energii, koszty usług obcych oraz koszty podatków i opłat;
 2) koszty pośrednie działalności przewozowej, w tym koszty związane z systemami dystrybucji biletów, koszty promocji i reklamy, koszty ubezpieczeń oraz koszty osobowe personelu realizującego funkcje związane z obsługą tej trasy;

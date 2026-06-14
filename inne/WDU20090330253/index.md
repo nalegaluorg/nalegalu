@@ -8,7 +8,7 @@ pos: 253
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o upoważnieniu Prezydenta Rzeczypospolitej Polskiej do złożenia oświadczenia o uznaniu właściwości Trybunału Sprawiedliwości Wspólnot Europejskich na podstawie art. 35 ust. 2 Traktatu o Unii Europejskiej

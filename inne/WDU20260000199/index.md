@@ -8,7 +8,7 @@ pos: 199
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o systemie ubezpieczeń społecznych
@@ -32,6 +32,11 @@ Art. 99–106. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ubezpieczenia społeczne obejmują:
+
+- **1)** ubezpieczenie emerytalne;
+- **2)** ubezpieczenia rentowe;
+- **3)** ubezpieczenie w razie choroby i macierzyństwa, zwane dalej „ubezpieczeniem chorobowym”;
+- **4)** ubezpieczenie z tytułu wypadków przy pracy i chorób zawodowych, zwane dalej „ubezpieczeniem wypadkowym”.
 
 **Art. 2.**
 
@@ -82,6 +87,70 @@ Art. 99–106. (pominięte)
 3. Zakres zadań z ubezpieczeń społecznych wykonywanych przez otwarte fundusze emerytalne określają przepisy o organizacji i funkcjonowaniu funduszy emerytalnych.
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
+
+- **1)** ubezpieczeni – osoby fizyczne podlegające chociaż jednemu z ubezpieczeń społecznych, o których mowa w art. 1;
+- **2)** płatnik składek:
+    - **a)** pracodawca – w stosunku do pracowników i osób odbywających służbę zastępczą oraz jednostka organizacyjna lub osoba fizyczna pozostająca z inną osobą fizyczną w stosunku prawnym uzasadniającym objęcie tej osoby ubezpieczeniami społecznymi, w tym z tytułu przebywania na urlopie wychowawczym albo pobierania zasiłku macierzyńskiego, z wyłączeniem osób, którym zasiłek macierzyński wypłaca Zakład,
+    - **b)** jednostka wypłacająca świadczenia socjalne, zasiłki socjalne oraz wynagrodzenia przysługujące w okresie korzystania ze świadczenia górniczego lub w okresie korzystania ze stypendium na przekwalifikowanie – w stosunku do osób pobierających świadczenia socjalne wypłacane w okresie urlopu, osób pobierających zasiłek socjalny wypłacany na czas przekwalifikowania zawodowego i poszukiwania nowego zatrudnienia oraz osób pobierających wynagrodzenie przysługujące w okresie korzystania ze świadczenia górniczego lub w okresie korzystania ze stypendium na przekwalifikowanie,
+    - **c)** podmiot, na którego rzecz wykonywana jest odpłatnie praca w czasie odbywania kary pozbawienia wolności lub tymczasowego aresztowania – w stosunku do osób, które ją wykonują, na podstawie skierowania do pracy, lub podlegają ubezpieczeniom społecznym z tytułu pobierania zasiłku macierzyńskiego, jeżeli zasiłek wypłaca ten podmiot,
+    - **d)** ubezpieczony zobowiązany do opłacenia składek na własne ubezpieczenia społeczne,
+    - **e)** Kancelaria Sejmu w stosunku do posłów i posłów do Parlamentu Europejskiego, o których mowa w art. 1 ust. 1 ustawy z dnia 30 lipca 2004 r. o uposażeniu posłów do Parlamentu Europejskiego wybranych w Rzeczypospolitej Polskiej (Dz. U. poz. 1925, z 2006 r. poz. 708 oraz z 2009 r. poz. 918), oraz Kancelaria Senatu w stosunku do senatorów,
+    - **f)** duchowny niebędący członkiem zakonu albo przełożony domu zakonnego lub klasztoru w stosunku do członków swych zakonów lub, za zgodą Zakładu, inna zwierzchnia instytucja diecezjalna lub zakonna w stosunku do duchownych objętych tą zgodą,
+    - **g)** jednostka organizacyjna podległa Ministrowi Obrony Narodowej – w stosunku do żołnierzy niezawodowych pełniących czynną służbę wojskową,
+    - **h)** (uchylona)
+    - **i)** (uchylona)
+    - **j)** (uchylona)
+    - **k)** ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818 oraz z 2025 r. poz. 620) – centrum usług społecznych – w stosunku do osób rezygnujących z zatrudnienia w związku z koniecznością sprawowania bezpośredniej, osobistej opieki nad długotrwale lub ciężko chorym członkiem rodziny oraz wspólnie niezamieszkującymi matką, ojcem lub rodzeństwem,
+    - **l)** (uchylona) ł) powiatowy urząd pracy – w stosunku do osób pobierających zasiłek dla bezrobotnych lub stypendium, ł ) centrum integracji społecznej – w stosunku do osób pobierających świadczenie integracyjne, ł ) (uchylona)
+    - **m)** Zakład – w stosunku do osób podlegających ubezpieczeniom społecznym z tytułu pobierania zasiłku macierzyńskiego albo zasiłku w wysokości zasiłku macierzyńskiego, jeżeli zasiłki te wypłaca Zakład, w stosunku do osób określonych w art. 6a ust. 1 i art. 6b ust. 1 oraz osób niepodejmujących zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1,
+    - **n)** podmiot wypłacający stypendium sportowe – w stosunku do osób pobierających te stypendia,
+    - **o)** (uchylona)
+    - **p)** Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego – w stosunku do słuchaczy pobierających stypendium, pa) podmiot prowadzący szkołę doktorską – w stosunku do kształcących się w niej doktorantów, otrzymujących stypendium doktoranckie,
+    - **r)** osoba prowadząca pozarolniczą działalność – w stosunku do osób współpracujących przy prowadzeniu tej działalności, ra) osoba fizyczna, o której mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i
+
+- **1826)** – w stosunku do osób współpracujących przy prowadzeniu tej działalności, z 2024 r. poz. 1571, z późn. zm. ), – organizacje pracodawców, – związki zawodowe, – ośrodki doradztwa rolniczego, – ośrodki poradnictwa zawodowego i psychologicznego – korzystające z publicznych środków wspólnotowych i publicznych środków krajowych na podstawie umowy o dofinansowanie projektu albo decyzji, o których mowa w przepisach ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2022 r. poz. 260) albo ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198 i 1846), zaa) inne niż powiatowe urzędy pracy podmioty wypłacające stypendium w okresie szkolenia, stażu lub przygotowania zawodowego w ramach projektów lub programów finansowanych z udziałem środków funduszy strukturalnych Unii Europejskiej – w stosunku do osób pobierających stypendium w okresie szkolenia, stażu lub przygotowania zawodowego, zb) podmiot, w którym działa rada nadzorcza – w stosunku do członków rad nadzorczych, zc) przedsiębiorstwo w spadku – w stosunku do pracowników i zleceniobiorców przedsiębiorstwa w spadku oraz osób przebywających na urlopie wychowawczym udzielonym w ramach stosunku pracy albo pobierających zasiłek macierzyński, z wyłączeniem osób, którym zasiłek macierzyński wypłaca Zakład; obowiązki przedsiębiorstwa w spadku wykonuje zarządca sukcesyjny, a w przypadku jego braku – osoby, o których mowa w art. 14 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), dokonujące czynności, o których mowa w art. 13 tej ustawy, zd) Kancelaria Prezydenta Rzeczypospolitej Polskiej – w stosunku do małżonka Prezydenta Rzeczypospolitej Polskiej, ze) ubezpieczony będący marynarzem zobowiązany do opłacenia składek na własne ubezpieczenia społeczne;
+    - **s)** wojewódzki urząd pracy – w stosunku do osób, których świadczenia pracownicze finansowane są ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, jeżeli świadczenia te wypłacane są przez ten urząd,
+    - **t)** jednostka obsługi ekonomiczno-administracyjnej utworzona przez jednostkę samorządu terytorialnego – jeżeli rozlicza i opłaca składki za ubezpieczonych wykonujących pracę w podlegających jej szkołach, przedszkolach i innych jednostkach organizacyjnych systemu oświaty,
+    - **u)** podmiot, w którym jest pełniona służba – w odniesieniu do żołnierzy zawodowych i funkcjonariuszy oddelegowanych do pełnienia w nim służby, jeżeli podmiot ten wypłaca im uposażenie,
+    - **w)** wójt, burmistrz lub prezydent miasta – w stosunku do osób otrzymujących świadczenie pielęgnacyjne albo specjalny zasiłek opiekuńczy, na podstawie przepisów o świadczeniach rodzinnych, oraz zasiłek dla opiekuna na podstawie przepisów o ustaleniu i wypłacie zasiłków dla opiekunów,
+    - **z)** podmiot, który wypłaca świadczenie szkoleniowe po ustaniu zatrudnienia – w stosunku do osób, którym wypłaca to świadczenie, za) inne niż powiatowe urzędy pracy podmioty kierujące – w stosunku do osób pobierających stypendium w okresie szkolenia, stażu lub przygotowania zawodowego – którymi są: – jednostki samorządu terytorialnego i ich jednostki organizacyjne, z wyjątkiem wojewódzkich i powiatowych urzędów pracy, – Ochotnicze Hufce Pracy, – agencje zatrudnienia, – instytucje szkoleniowe, – instytucje dialogu społecznego, – instytucje partnerstwa lokalnego, – organizacje pozarządowe działające na rzecz rozwoju zasobów ludzkich i przeciwdziałania bezrobociu, – podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
+
+- **2a)** podmiot zgłaszający ubezpieczonych do ubezpieczeń społecznych – podmiot niebędący płatnikiem składek, o którym mowa w pkt 2, który dokonał zgłoszenia do ubezpieczeń społecznych osób, o których mowa w art. 6 ust. 1 pkt 1 i 4 oraz art. 8 ust. 2a;
+- **3)** składki – składki na ubezpieczenia społeczne osób wymienionych w pkt 1;
+- **4)** zasiłki – zasiłki i świadczenie rehabilitacyjne z ubezpieczenia chorobowego oraz ubezpieczenia wypadkowego;
+- **5)** deklaracja rozliczeniowa – zestawienie informacji o należnych składkach na fundusze, na które składki pobiera Zakład, kwot rozliczanych w ciężar składek oraz kwot należnych do zapłaty;
+- **6)** imienny raport miesięczny – informacje o osobie podlegającej ubezpieczeniom społecznym przedkładane Zakładowi przez płatnika składek za dany miesiąc kalendarzowy;
+- **6a)** raport informacyjny – zestawienie informacji dotyczące ubezpieczonego, o którym mowa w art. 6 ust. 1 pkt 1 i 4, który został zgłoszony przez płatnika składek do ubezpieczeń społecznych po raz pierwszy po dniu 31 grudnia 1998 r., a przed dniem 1 stycznia 2019 r., obejmujące: o nauczycielskich świadczeniach kompensacyjnych (Dz. U. z 2026 r. poz. 86), w określonym wymiarze obowiązkowego wymiaru zajęć – za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2018 r., z wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do nauczycielskiego świadczenia kompensacyjnego na podstawie tej ustawy, z 2024 r. poz. 561 oraz z 2025 r. poz. 1661),
+    - **a)** dane dotyczące wypłaconego przychodu niezbędne do ustalenia podstawy wymiaru emerytury lub renty – za lata kalendarzowe przypadające w okresie od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2018 r.,
+    - **b)** dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego w placówkach, o których mowa w art. 2 pkt 1 ustawy z dnia 22 maja 2009 r.
+    - **c)** dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego w placówkach, o których mowa w art. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986, z późn. zm. ), w określonym wymiarze obowiązkowego wymiaru zajęć – za okres od dnia 1 stycznia 1999 r., z wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do emerytury na podstawie art. 88 lub art. 88a tej ustawy,
+    - **d)** dane dotyczące okresów wykonywania i wymiaru czasu pracy w szczególnych warunkach lub w szczególnym charakterze, o której mowa w art. 32 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26) – za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r., z wyjątkiem danych za ubezpieczonego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do emerytury na podstawie art. 32, art. 33 lub art. 184 tej ustawy,
+    - **e)** dane dotyczące okresów wykonywania i wymiaru czasu pracy w szczególnych warunkach lub o szczególnym charakterze, o której mowa w art. 3 ust. 1 i 3 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2024 r. poz. 1696) – za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r., z wyjątkiem danych za ubezpieczonego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do emerytury pomostowej na podstawie tej ustawy,
+    - **f)** informację, czy w okresie zatrudnienia pracownikowi przysługiwał ekwiwalent pieniężny za deputat węglowy, o którym mowa w art. 74 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U.
+    - **g)** datę, tryb rozwiązania ostatniego stosunku pracy, podstawę prawną rozwiązania lub wygaśnięcia ostatniego stosunku pracy lub stosunku służbowego oraz informację, z czyjej inicjatywy stosunek pracy został rozwiązany;
+
+- **7)** konto ubezpieczonego – konto, na którym są ewidencjonowane składki i informacje dotyczące przebiegu ubezpieczeń społecznych danego ubezpieczonego oraz zatrudnienia pracownika;
+- **8)** konto płatnika – konto, na którym ewidencjonowana jest kwota zobowiązań z tytułu składek oraz innych składek danego płatnika zbieranych przez Zakład, kwoty zapłaconych składek, stan rozliczeń oraz inne informacje dotyczące płatnika składek;
+- **9)** przychód – przychody w rozumieniu przepisów o podatku dochodowym od osób fizycznych z tytułu: zatrudnienia w ramach stosunku pracy, pracy nakładczej, służby, wykonywania mandatu posła lub senatora, wykonywania pracy w czasie odbywania kary pozbawienia wolności lub tymczasowego aresztowania, pobierania zasiłku dla bezrobotnych, świadczenia integracyjnego i stypendium wypłacanych bezrobotnym oraz stypendium sportowego, a także z tytułu prowadzenia pozarolniczej działalności oraz umowy agencyjnej lub umowy zlecenia, jak również z tytułu współpracy przy tej działalności lub współpracy przy wykonywaniu umowy oraz przychody z działalności wykonywanej osobiście przez osoby należące do składu rad nadzorczych, niezależnie od sposobu ich powoływania;
+- **10)** przychód z tytułu członkostwa w rolniczej spółdzielni produkcyjnej lub spółdzielni kółek rolniczych – przychody z tytułu pracy w spółdzielni i z tytułu wytwarzania na jej rzecz produktów rolnych;
+- **11)** otwarty fundusz emerytalny – fundusz wybrany przez ubezpieczonego spośród funduszy emerytalnych, o których mowa w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **12)** (uchylony) 12a) okresowa emerytura kapitałowa – świadczenie pieniężne określone w ustawie z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926);
+- **12b)** (uchylony)
+- **13)** (uchylony)
+- **14)** (uchylony)
+- **15)** numer NIP – numer identyfikacji podatkowej nadany zgodnie z przepisami o zasadach ewidencji i identyfikacji podatników i płatników;
+- **16)** rachunek bankowy – rachunek płatniczy prowadzony w kraju lub wydany w kraju instrument płatniczy w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069);
+- **16a)** numer rachunku składkowego – numer rachunku wygenerowany przez Zakład, zgodny ze standardem Numeru Rachunku Bankowego (NRB);
+- **17)** osoba sprawująca osobistą opiekę nad dzieckiem – osobę fizyczną sprawującą osobistą opiekę nad dzieckiem własnym lub swojego małżonka, lub dzieckiem przysposobionym, przez okres do 3 lat, niedłużej jednak niż do zakończenia roku kalendarzowego, w którym dziecko kończy 6. rok życia, a w przypadku dziecka, które z powodu stanu zdrowia potwierdzonego orzeczeniem o niepełnosprawności lub stopniu niepełnosprawności wymaga osobistej opieki tej osoby, przez okres do 6 lat, niedłużej jednak niż do ukończenia przez dziecko 18. roku życia;
+- **18)** system płatności – system płatności w rozumieniu art. 1 pkt 1 ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2024 r. poz. 585);
+- **19)** małżonek Prezydenta Rzeczypospolitej Polskiej – osobę będącą małżonkiem Prezydenta Rzeczypospolitej Polskiej, a w przypadku gdy Prezydent Rzeczypospolitej Polskiej nie ma małżonka – inną osobę wskazaną przez Prezydenta Rzeczypospolitej Polskiej;
+- **20)** podmiot zainteresowany: o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz. 1113 oraz z 2025 r. poz. 1069, 1216 i 1425), poz. 427 oraz z 2025 r. poz. 1216 i 1822), prowadzący Ewidencję Pracowniczych Planów Kapitałowych;
+    - **a)** podmiot prowadzący indywidualne konto emerytalne lub indywidualne konto zabezpieczenia emerytalnego, o którym mowa w art. 8 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2026 r. poz. 91),
+    - **b)** podmiot wykonujący działalność w zakresie pracowniczych programów emerytalnych: – pracownicze towarzystwo emerytalne, – towarzystwo funduszy inwestycyjnych zarządzające funduszem inwestycyjnym, – zakład ubezpieczeń zarządzający ubezpieczeniowym funduszem kapitałowym, – zarządzający zagraniczny, o którym mowa w art. 2 ust. 1 pkt 24 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2024 r. poz. 556 oraz z 2025 r. poz. 1216),
+    - **c)** powszechne towarzystwo emerytalne zarządzające otwartym funduszem emerytalnym, o którym mowa w ustawie z dnia 28 sierpnia 1997 r.
+    - **d)** podmiot, o którym mowa w art. 58 ust. 2 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r.
+
+- **21)** osoba wykonująca samodzielny zawód medyczny – fizjoterapeutę, o którym mowa w ustawie z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2023 r. poz. 1213 i 1234 oraz z 2026 r. poz. 26), oraz pielęgniarkę lub pielęgniarza, o których mowa w ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2026 r. poz. 15 i 26).
 
 **Art. 5.**
 
@@ -330,6 +399,35 @@ Art. 99–106. (pominięte)
 3. (uchylony)
 
 **Art. 13.** Obowiązkowo ubezpieczeniom emerytalnemu, rentowym, chorobowemu i wypadkowemu podlegają osoby fizyczne w następujących okresach:
+
+- **1)** pracownicy – od dnia nawiązania stosunku pracy do dnia ustania tego stosunku;
+- **2)** osoby wykonujące pracę nakładczą oraz zleceniobiorcy – od dnia oznaczonego w umowie jako dzień rozpoczęcia jej wykonywania do dnia rozwiązania lub wygaśnięcia tej umowy;
+- **2a)** (uchylony)
+- **3)** członkowie spółdzielni – od dnia rozpoczęcia wykonywania pracy na rzecz spółdzielni do dnia zakończenia jej wykonywania;
+- **4)** osoby prowadzące pozarolniczą działalność, z wyłączeniem osób, o których mowa w pkt 4a i 4b – od dnia rozpoczęcia wykonywania działalności do dnia zaprzestania wykonywania tej działalności, z wyłączeniem okresu, na który wykonywanie działalności zostało zawieszone na podstawie art. 36aa oraz przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **4a)** wspólnicy jednoosobowych spółek z ograniczoną odpowiedzialnością – od dnia wpisania spółki do Krajowego Rejestru Sądowego albo od dnia nabycia udziałów w spółce do dnia wykreślenia spółki z Krajowego Rejestru Sądowego albo zbycia wszystkich udziałów w spółce, z wyłączeniem okresu, na który wykonywanie działalności przez spółkę zostało zawieszone na podstawie przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **4b)** wspólnicy spółki jawnej, partnerskiej lub komandytowej oraz komplementariusze w spółce komandytowo-akcyjnej – od dnia wpisania spółki do Krajowego Rejestru Sądowego albo od dnia nabycia ogółu praw i obowiązków w spółce do dnia wykreślenia spółki z Krajowego Rejestru Sądowego albo zbycia ogółu praw i obowiązków w spółce, z wyłączeniem okresu, na który wykonywanie działalności przez spółkę zostało zawieszone na podstawie przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **5)** osoby współpracujące – od dnia rozpoczęcia współpracy przy prowadzeniu pozarolniczej działalności, wykonywaniu umowy agencyjnej albo umowy zlecenia lub współpracy z osobami fizycznymi wskazanymi w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców do dnia zakończenia tej współpracy;
+- **5a)** osoby świadczące pracę lub usługi w zamian za akcje obejmowane w prostej spółce akcyjnej – od dnia rozpoczęcia świadczenia tej pracy lub tych usług do dnia zakończenia ich świadczenia;
+- **6)** posłowie i senatorowie – od dnia nabycia prawa do uposażenia do dnia utraty tego prawa;
+- **7)** stypendyści sportowi – od dnia spełnienia warunków, o których mowa w art. 8 ust. 12, do dnia zaprzestania spełniania tych warunków;
+- **8)** osoby wykonujące odpłatnie pracę, na podstawie skierowania do pracy, w czasie odbywania kary pozbawienia wolności lub tymczasowego aresztowania – od dnia rozpoczęcia wykonywania pracy do dnia zakończenia wykonywania tej pracy;
+- **9)** bezrobotni – od dnia nabycia prawa do zasiłku, świadczenia integracyjnego lub stypendium do dnia utraty prawa do nich;
+- **9a)** osoby, o których mowa w art. 6 ust. 1 pkt 9a – od dnia nabycia prawa do stypendium do dnia utraty prawa do niego;
+- **9b)** (uchylony) 9c) osoby, o których mowa w art. 6 ust. 1 pkt 9c – od dnia nabycia prawa do stypendium do dnia utraty prawa do niego;
+- **10)** duchowni – od dnia przyjęcia do stanu duchownego do dnia wystąpienia z tego stanu, a w przypadku alumnów seminariów duchownych, nowicjuszów, postulantów i juniorystów – od dnia ukończenia 25 lat;
+- **11)** żołnierze niezawodowi w służbie czynnej oraz osoby odbywające służbę zastępczą – od dnia powołania lub skierowania do tej służby do dnia zwolnienia z tej służby;
+- **12)** (uchylony)
+- **13)** osoby pozostające na urlopach wychowawczych lub pobierające zasiłek macierzyński albo zasiłek w wysokości zasiłku macierzyńskiego – od dnia spełnienia warunków, o których mowa w art. 9 ust. 6, do dnia zaprzestania spełniania tych warunków;
+- **13a)** osoby, o których mowa w art. 6a ust. 1 i art. 6b ust. 1 – od dnia określonego w oświadczeniu, o którym mowa w art. 36 ust. 15, jako dzień rozpoczęcia sprawowania osobistej opieki nad dzieckiem, niewcześniej jednak niż od dnia, w którym oświadczenie zostało złożone, do dnia wskazanego w oświadczeniu jako dzień zakończenia sprawowania osobistej opieki nad dzieckiem;
+- **13b)** osoby niepodejmujące zatrudnienia lub innej pracy zarobkowej, o których mowa w art. 6c ust. 1 – od dnia określonego we wniosku, o którym mowa w art. 36c, jako dzień rozpoczęcia sprawowania opieki nad osobą pobierającą świadczenie wspierające, niewcześniej jednak niż od dnia, w którym wniosek został złożony, do dnia wskazanego we wniosku jako dzień zakończenia sprawowania opieki nad tą osobą;
+- **14)** osoby, o których mowa w art. 6 ust. 1 pkt 20 – od dnia nabycia prawa do świadczenia socjalnego, zasiłku socjalnego, wynagrodzenia przysługującego w okresie świadczenia górniczego lub w okresie stypendium na przekwalifikowanie do dnia utraty tego prawa;
+- **15)** pobierający stypendium słuchacze Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego – od dnia uzyskania statusu słuchacza do dnia utraty tego statusu;
+- **15a)** doktoranci – w okresie otrzymywania stypendium doktoranckiego;
+- **16)** osoby, o których mowa w art. 6 ust. 1 pkt 21 – od dnia nabycia prawa do świadczenia szkoleniowego do dnia utraty tego prawa;
+- **17)** członkowie rad nadzorczych – od dnia powołania na członka rady nadzorczej do dnia zaprzestania pełnienia tej funkcji;
+- **18)** małżonek Prezydenta Rzeczypospolitej Polskiej – od dnia objęcia urzędu przez Prezydenta Rzeczypospolitej Polskiej do dnia upływu kadencji, na którą Prezydent Rzeczypospolitej Polskiej został wybrany, a w przypadku gdy dana osoba spełniła warunki określone w art. 4 pkt 19 w trakcie kadencji Prezydenta Rzeczypospolitej Polskiej albo przestała spełniać te warunki w trakcie kadencji Prezydenta Rzeczypospolitej Polskiej – od dnia rozpoczęcia spełniania warunków do dnia zakończenia ich spełniania;
+- **19)** marynarze – od dnia oznaczonego jako dzień uzyskania statusu marynarza w zaświadczeniu, o którym mowa w art. 8 ust. 16, do dnia upływu 12 miesięcy kalendarzowych liczonych od dnia oznaczonego w tym zaświadczeniu jako dzień uzyskania statusu marynarza, z wyłączeniem okresu zawieszenia statusu marynarza trwającego niekrócej niż 1 miesiąc i niedłużej niż 3 miesiące w danym roku kalendarzowym.
 
 **Art. 14.**
 
@@ -1463,6 +1561,9 @@ Art. 99–106. (pominięte)
 
 **Art. 41b.** Płatnik składek przekazuje raport informacyjny za ubezpieczonego:
 
+- **1)** wraz z wyrejestrowaniem z ubezpieczeń społecznych – w przypadku wyrejestrowania z ubezpieczeń po złożeniu oświadczenia, o którym mowa w art. 41a;
+- **2)** w terminie roku od dnia złożenia oświadczenia, o którym mowa w art. 41a – w przypadku wyrejestrowania przed złożeniem tego oświadczenia.
+
 **Art. 41c.**
 
 1. W przypadku, o którym mowa w art. 41b pkt 1, płatnik składek przekazuje ubezpieczonemu, o którym mowa w art. 6 ust. 1 pkt 1, kopię przekazanego raportu informacyjnego oraz dowody potwierdzające wykonywanie w okresie od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r. pracy w szczególnych warunkach lub w szczególnym charakterze, o której mowa w art. 32 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz dowody potwierdzające wykonywanie pracy w szczególnych warunkach lub o szczególnym charakterze, o której mowa w art. 3 ust. 1 i 3 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r. wraz z pouczeniem o:
@@ -2230,6 +2331,10 @@ Art. 99–106. (pominięte)
 
 **Art. 50b.** Zakład może udostępniać ubezpieczonemu, o którym mowa w art. 50 ust. 1ha:
 
+- **1)** informacje dotyczące gromadzenia przez niego środków w ramach indywidualnego konta emerytalnego lub indywidualnego konta zabezpieczenia emerytalnego w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego, pracowniczych programów emerytalnych w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, otwartych funduszy emerytalnych w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych oraz pracowniczych planów kapitałowych w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, a także o ubezpieczeniu emerytalno-rentowym rolników w rozumieniu ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 1770);
+- **2)** dane o zewidencjonowanych składkach, wpłatach, wartości jednostek uczestnictwa w funduszu inwestycyjnym, wartości jednostek uczestnictwa w ubezpieczeniowym funduszu kapitałowym, wartości jednostek rozrachunkowych funduszu emerytalnego, wartości papierów wartościowych i wartości innych instrumentów finansowych;
+- **3)** informacje o innych środkach służących wyliczeniu jego przyszłych świadczeń.
+
 **Art. 50c.** Kasa Rolniczego Ubezpieczenia Społecznego oraz podmioty zainteresowane mogą przekazywać do Zakładu w postaci elektronicznej dane i informacje, o których mowa w art. 50b, za zgodą osoby, której te dane i informacje dotyczą.
 
 **Art. 50d.**
@@ -2284,6 +2389,18 @@ Art. 99–106. (pominięte)
 3. Za zgodą ministra właściwego do spraw finansów publicznych FUS może zaciągać kredyty.
 
 **Art. 54.** Ze środków zgromadzonych w FUS finansowane są:
+
+- **1)** wypłaty świadczeń z ubezpieczenia emerytalnego, rentowego, chorobowego oraz wypadkowego;
+- **2)** wydatki na prewencję rentową;
+- **3)** spłaty kredytów i pożyczek wraz z odsetkami, zaciąganych w celu wypłaty świadczeń z FUS;
+- **4)** odsetki za nieterminowe wypłaty świadczeń;
+- **5)** należności dla płatników składek, o których mowa w art. 3 ust. 2;
+- **6)** wydatki związane z realizacją zadań, o których mowa w art. 52 ust. 1 pkt 3;
+- **7)** (uchylony)
+- **8)** odpis stanowiący przychód Zakładu, o którym mowa w art. 76 ust. 1 pkt 1;
+- **9)** wydatki na pokrycie niedoboru środków niezbędnych do zapewnienia wypłat emerytur kapitałowych;
+- **10)** emerytury kapitałowe, środki gwarantowane oraz jednorazowe wypłaty, ustalane ze składek zewidencjonowanych na subkoncie;
+- **11)** środki, o których mowa w art. 22 ust. 4.
 
 **Art. 55.**
 
@@ -2622,6 +2739,10 @@ Art. 99–106. (pominięte)
 
 **Art. 72.** Organami Zakładu są:
 
+- **1)** Prezes Zakładu;
+- **2)** Zarząd, którego przewodniczącym jest z urzędu Prezes Zakładu;
+- **3)** Rada Nadzorcza Zakładu.
+
 **Art. 73.**
 
 1. Działalnością Zakładu kieruje Prezes Zakładu, który reprezentuje Zakład na zewnątrz.
@@ -2886,7 +3007,16 @@ Art. 99–106. (pominięte)
 
 **Art. 80.** W celu ustalenia prawa do świadczeń oraz ich wysokości ubezpieczeni zobowiązani są do:
 
+- **1)** przedstawiania stanów faktycznych mających wpływ na prawo lub wysokość świadczeń;
+- **2)** informowania o wszelkich zmianach mających wpływ na świadczenie;
+- **3)** przedkładania na żądanie środków dowodowych;
+- **4)** osobistego stawiennictwa, jeżeli okoliczności sprawy tego wymagają;
+- **5)** poddania się badaniom lekarskim, badaniom psychologicznym lub badaniom przeprowadzanym przez osoby wykonujące samodzielny zawód medyczny, a także leczeniu lub rehabilitacji, jeżeli oczekuje się, że leczenie lub rehabilitacja przywrócą zdolność do pracy lub spowodują, że zdolność do pracy zostanie zachowana.
+
 **Art. 81.** Przepisu art. 80 nie stosuje się, jeżeli:
+
+- **1)** Zakład ma możliwości mniejszym nakładem niż ubezpieczony ustalić okoliczności niezbędne do przyznania i wypłaty świadczenia;
+- **2)** badanie mogłoby narazić ubezpieczonego na pogorszenie stanu zdrowia lub zagrażać jego życiu.
 
 **Art. 82.** W przypadku gdy ubezpieczony utrudnia możliwość wyjaśnienia wszystkich okoliczności sprawy, Zakład może, w drodze decyzji, wstrzymać wypłatę świadczenia lub zawiesić postępowanie do chwili podjęcia współpracy.
 
@@ -3055,6 +3185,29 @@ Art. 99–106. (pominięte)
 #### Rozdział 9a Orzekanie dla celów świadczeń, zasady i tryb wydawania orzeczeń
 
 **Art. 85a.** <1. Zadania, o których mowa w art. 68 ust. 1 pkt 5, są realizowane w terenowych jednostkach organizacyjnych Zakładu przez lekarzy orzeczników oraz przez osoby wykonujące samodzielny zawód medyczny.> 2. Fizjoterapeuta może wydawać orzeczenia w sprawach rehabilitacji leczniczej w ramach prewencji rentowej, o której mowa w art. 69 ust. 1 pkt 1, a pielęgniarka lub pielęgniarz w sprawach niezdolności do samodzielnej egzystencji, o której mowa w art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 3. Naczelnym Lekarzem Zakładu oraz zastępcą Naczelnego Lekarza Zakładu może być osoba posiadająca:
+
+- **1)** prawo wykonywania zawodu lekarza;
+- **2)** tytuł specjalisty w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim;
+- **3)** co najmniej trzyletnie doświadczenie w pracy w orzecznictwie lekarskim.
+
+4. Głównym lekarzem orzecznikiem, zastępcą głównego lekarza orzecznika oraz lekarzem inspektorem nadzoru orzecznictwa lekarskiego może być osoba posiadająca:
+
+- **1)** prawo wykonywania zawodu lekarza;
+- **2)** tytuł specjalisty w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim;
+- **3)** co najmniej dziesięcioletni okres wykonywania zawodu lekarza w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim.
+
+5. Lekarzem orzecznikiem może być osoba:
+
+- **1)** posiadająca prawo wykonywania zawodu lekarza;
+- **2)** posiadająca tytuł specjalisty, albo
+- **3)** odbywająca szkolenie specjalizacyjne w określonej dziedzinie medycyny, która ukończyła moduł podstawowy właściwy dla danego szkolenia specjalizacyjnego lub trzeci rok tego szkolenia – w przypadku specjalizacji, dla których przewidziany został moduł jednolity szkolenia, albo
+- **4)** posiadająca co najmniej pięcioletni okres wykonywania zawodu lekarza – z wyłączeniem okresów wykonywania zawodu w celu odbycia stażu podyplomowego, wykonywania zawodu na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu na podstawie prawa wykonywania zawodu na określony zakres czynności zawodowych, okres i miejsce zatrudnienia w podmiocie leczniczym.
+
+6. Osobą wykonującą samodzielny zawód medyczny może być osoba posiadająca:
+
+- **1)** prawo wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty;
+- **2)** tytuł specjalisty w dziedzinie pielęgniarstwa albo fizjoterapii;
+- **3)** co najmniej pięcioletni okres wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty, z wyłączeniem okresu wykonywania zawodu pielęgniarki albo pielęgniarza na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu przyznanego na określony zakres czynności zawodowych, okres i miejsce zatrudnienia w podmiocie wykonującym działalność leczniczą.
 
 **Art. 85b.**
 
@@ -3318,6 +3471,9 @@ Art. 99–106. (pominięte)
 
 **Art. 91b.** Przepisy art. 87 ust. 1 pkt 1a, art. 88 ust. 1 pkt 1a i art. 89 ust. 5 stosuje się odpowiednio do:
 
+- **1)** następców prawnych i osób trzecich odpowiadających za zadłużenie płatnika składek;
+- **2)** osób, które pobrały nienależne świadczenia, płatników składek lub innych podmiotów zobowiązanych do zwrotu nienależnych świadczeń, o których mowa w art. 84, z wyjątkiem przypadku, gdy nienależne świadczenia podlegają potrąceniu z bieżąco wypłacanych świadczeń.
+
 **Art. 92.**
 
 1. Inspektor kontroli Zakładu podlega wyłączeniu z udziału w kontroli w razie stwierdzenia okoliczności, które mogą mieć wpływ na bezstronność w jego postępowaniu.
@@ -3570,4 +3726,11 @@ Art. 99–106. (pominięte)
 **Art. 126.** Przepisy art. 50 ust. 1 w części dotyczącej emerytury hipotetycznej stosuje się od dnia 1 stycznia 2004 r.
 
 **Art. 127.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem:
+
+- **1)** art. 24–31, 33, 73 ust. 2, art. 74 ust. 1 i 5, art. 75 ust. 1, ust. 2 pkt 1, 2, 9 i 10 oraz ust. 3, art. 109, 117 ust. 2–4, art. 119 i 120, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
+- **2)** art. 108, który wchodzi w życie z dniem 1 grudnia 1998 r.;
+- **3)** art. 39 ust. 1–4, który wchodzi w życie z dniem 1 października 1999 r.;
+- **4)** art. 15 ust. 2, art. 22 ust. 1 pkt 4 i ust. 2, które wchodzą w życie z dniem 1 stycznia 2000 r.;
+- **5)** art. 22 ust. 4, który wchodzi w życie z dniem 1 stycznia 2002 r.
+
 

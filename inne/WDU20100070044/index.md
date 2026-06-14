@@ -8,7 +8,7 @@ pos: 44
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dochodzeniu roszczeń w postępowaniu grupowym
@@ -161,6 +161,9 @@ source: "isap-pdf"
 
 **Art. 6a.** W postępowaniu grupowym w sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów lub w sprawach o roszczenia związane z ich stosowaniem sąd uwzględnia, także jako dowód:
 
+- **1)** prawomocną decyzję Prezesa Urzędu Ochrony Konkurencji i Konsumentów wydaną na podstawie art. 26 ust. 1 albo art. 27 ust. 2 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów wobec pozwanego w związku ze stosowaniem tej samej praktyki albo na podstawie art. 23b ust. 1 tej ustawy wobec pozwanego w związku ze stosowaniem we wzorcach umów zawieranych z konsumentami tego samego niedozwolonego postanowienia umownego;
+- **2)** wydane przez organy innych państw członkowskich Unii Europejskiej prawomocne orzeczenia i decyzje dotyczące stosowania przez pozwanego tej samej praktyki.
+
 **Art. 7.**
 
 1. Posiedzenie przygotowawcze można przeprowadzić także przed wezwaniem pozwanego do wniesienia odpowiedzi na pozew.
@@ -209,6 +212,30 @@ source: "isap-pdf"
 5. W przypadku ustalenia, że wytoczone przez podmiot upoważniony powództwo pozostaje poza zakresem jego zadań statutowych lub nie dotyczy sektora objętego zakresem działania tego podmiotu upoważnionego zgodnie z przepisami prawa Unii Europejskiej, o których mowa w załączniku I do dyrektywy 2020/1828, oraz przepisami je wdrażającymi lub służącymi ich stosowaniu, sąd odrzuca pozew.
 
 **Art. 10a.** Po uprawomocnieniu się postanowienia o rozpoznaniu sprawy w postępowaniu grupowym, dopuszczalność prowadzenia postępowania grupowego nie podlega ponownemu badaniu w dalszym toku postępowania. Art. 10aa. 1. W postępowaniu grupowym w sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów sąd, na każdym etapie postępowania – w przypadku powzięcia uzasadnionych wątpliwości co do zgodności finansowania podmiotu upoważnionego z warunkami określonymi w art. 46h pkt 5 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów – ustala, czy finansowanie przez inny podmiot, w tym przedsiębiorcę lub organizację przedsiębiorców, podmiotu upoważnionego pozostaje bez wpływu na właściwe zapewnienie ochrony interesów konsumentów. 2. Dokonując ustalenia, o którym mowa w ust. 1, sąd bada w szczególności, czy:
+
+- **1)** inny podmiot:
+    - **a)** finansuje wytoczone powództwo,
+    - **b)** wpływa na decyzje podmiotu upoważnionego dotyczące wytoczonego powództwa, w tym w zakresie ugody, w sposób sprzeczny z interesami konsumentów objętych powództwem;
+
+- **2)** pozwanym jest przedsiębiorca będący konkurentem podmiotu finansującego podmiot upoważniony albo przedsiębiorca, od którego podmiot finansujący podmiot upoważniony jest zależny.
+
+3. Na wezwanie sądu podmiot upoważniony jest obowiązany do przedstawienia sądowi, w wyznaczonym terminie, informacji dotyczących źródeł swojego finansowania, w tym źródeł finansowania określonego powództwa.
+
+4. W przypadku ustalenia przez sąd, że finansowanie przez inny podmiot podmiotu upoważnionego ma wpływ na właściwe zapewnienie ochrony interesów konsumentów w toczącym się postępowaniu, sąd wzywa, w drodze zarządzenia, podmiot upoważniony do:
+
+- **1)** podjęcia w wyznaczonym terminie, nie krótszym niż miesiąc, stosownych środków, w szczególności do odmowy przyjęcia finansowania, zwrotu lub zmiany tego finansowania, mających na celu zapewnienie zgodności finansowania tego podmiotu z warunkami określonymi w art. 46h pkt 5 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów oraz właściwe zapewnienie ochrony interesów konsumentów w toczącym się postępowaniu;
+- **2)** przekazania w wyznaczonym terminie informacji o podjętych środkach określonych przez sąd zgodnie z pkt 1.
+
+5. W przypadku gdy podmiot upoważniony, w wyznaczonym przez sąd terminie, nie przekazał informacji, o których mowa w ust. 3, lub nie podjął środków, o których mowa w ust. 4 pkt 1, albo nie przekazał informacji o ich podjęciu, sąd wzywa, w drodze zarządzenia, podmiot upoważniony do poinformowania każdego członka grupy o ustalonym wpływie finansowania przez inny podmiot na właściwe zapewnienie ochrony interesów konsumentów w tym postępowaniu oraz odrzuceniu pozwu w przypadku niedokonania zmiany podmiotu upoważnionego w terminie 6 miesięcy od dnia wydania tego zarządzenia. Przekazanie informacji członkowi grupy przez podmiot upoważniony następuje w sposób wskazany w oświadczeniu o przystąpieniu do grupy. W zarządzeniu sąd wyznacza termin wykonania nałożonego na podmiot upoważniony obowiązku, o którym mowa w zdaniu pierwszym.
+
+6. W przypadku gdy nie dojdzie do zmiany podmiotu upoważnionego w terminie, o którym mowa w ust. 5, sąd odrzuca pozew.
+
+7. Sąd przekazuje Prezesowi Urzędu Ochrony Konkurencji i Konsumentów odpis:
+
+- **1)** zarządzenia, o którym mowa w ust. 5;
+- **2)** postanowienia o odrzuceniu pozwu na podstawie ust. 6 wraz z uzasadnieniem. Art. 10ab. 1. W przypadku wykreślenia podmiotu upoważnionego z rejestru, o którym mowa w art. 4 pkt 13a ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, albo wykazu podmiotów upoważnionych prowadzonego przez Komisję Europejską na podstawie art. 5 ust. 1 dyrektywy 2020/1828, sąd zawiesza postępowanie w sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów, w którym bierze udział wykreślony podmiot upoważniony, wyznaczając termin na zmianę podmiotu upoważnionego przez członków grupy nie krótszy niż 6 miesięcy.
+
+2. Po bezskutecznym upływie terminu, o którym mowa w ust. 1, sąd odrzuca pozew.
 
 **Art. 10b.** Sąd Najwyższy, uwzględniając skargę kasacyjną na postanowienie o odrzuceniu pozwu z uwagi na niedopuszczalność postępowania grupowego, może uchylić zaskarżone postanowienie i postanowić o rozpoznaniu sprawy w postępowaniu grupowym.
 

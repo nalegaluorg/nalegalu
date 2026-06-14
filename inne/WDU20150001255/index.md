@@ -8,7 +8,7 @@ pos: 1255
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej
@@ -448,6 +448,13 @@ Art. 21–24. (pominięte)
 5. Wnioski z analizy informacji, o której mowa w ust. 1, za dany rok, dotyczące problemów zgłaszanych w toku udzielania nieodpłatnej pomocy prawnej i świadczenia nieodpłatnego poradnictwa obywatelskiego, wskazujące w szczególności na bieżące lub prognozowane potrzeby w zakresie nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego, zamieszcza się na stronie internetowej urzędu obsługującego Ministra Sprawiedliwości, w terminie do dnia 30 czerwca roku następnego.
 
 **Art. 13.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** sposób udzielania nieodpłatnej pomocy prawnej i świadczenia nieodpłatnego poradnictwa obywatelskiego, w tym wymogi dotyczące lokalu, w którym będzie usytuowany punkt,
+- **2)** wzór karty informacyjnej poradnictwa, o której mowa w art. 5 ust. 5,
+- **3)** wzór karty pomocy,
+- **4)** sposób gromadzenia i przekazywania opinii osób uprawnionych o udzielonej pomocy,
+- **5)** sposób dokonywania oceny, o której mowa w art. 11d ust. 11,
+- **6)** zakres i sposób przekazywania informacji, o której mowa w art. 12 ust. 1 – uwzględniając konieczność zapewnienia łatwego dostępu osób uprawnionych, w tym osób niepełnosprawnych, do nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego, szerokiej informacji o dostępnych formach poradnictwa, konieczność zachowania poufności przy udzielaniu nieodpłatnej pomocy prawnej i świadczeniu nieodpłatnego poradnictwa obywatelskiego, konieczność zapewnienia kompletności informacji o wykonaniu zadania oraz możliwość wykazania problemów prawnych i społecznych, których dotyczą udzielana nieodpłatna pomoc prawna i świadczone nieodpłatne poradnictwo obywatelskie, konieczność zapewnienia odpowiednich standardów obsługi osób uprawnionych oraz odpowiednich standardów jakości, a także potrzebę sformułowania wniosków dotyczących efektywności i usprawniania systemu nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego.
 
 #### Rozdział 3 Zadania z zakresu edukacji prawnej
 

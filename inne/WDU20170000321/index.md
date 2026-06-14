@@ -8,10 +8,10 @@ pos: 321
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 lutego 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 321 ROZPORZĄDZENIE MINISTRA ENERGII z dnia 9 listopada 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000321) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/321/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ENERGII z dnia 9 listopada 2016 r.
-w sprawie szczegółowych wymagań dotyczących przechowywania i używania środków strzałowych i sprzętu strzałowego w ruchu zakładu górniczego Na podstawie art. 120 ust. 2 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131 i 1991 oraz z 2017 r. poz. 60 i 202) zarządza się, co następuje:
+w sprawie szczegółowych wymagań dotyczących przechowywania i używania środków strzałowych i sprzętu strzałowego w ruchu zakładu górniczego Na podstawie art. 120 ust. 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131 i 1991 oraz z 2017 r. poz. 60 i 202) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe wymagania dotyczące przechowywania i używania środków strzałowych i sprzętu strzałowego w ruchu zakładu górniczego, w tym rodzaje, sposób i wzory ewidencji środków strzałowych oraz przypadki, w których przedsiębiorca ma obowiązek posiadać dowód sprawdzenia rozwiązań technicznych przez rzeczoznawcę do spraw ruchu zakładu górniczego.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) ładunek materiału wybuchowego materiał wybuchowy uzbrojony środkiem inicjującym lub środkiem zapalającym;
-2) niewypał środek strzałowy, który w trakcie pomiaru ciągłości obwodu strzałowego wykazał przerwę lub który przy wykonywaniu robót strzałowych nie odpalił;
-3) osoba dozoru ruchu górniczego osobę dozoru ruchu zakładu górniczego w specjalności górniczej, wiertniczej lub geofizyki i techniki strzałowej, posiadającą w zakresie swoich obowiązków sprawy techniki strzałowej;
-4) środki inicjujące wyroby wypełnione materiałem wybuchowym, służące do zainicjowania materiału wybuchowego, w szczególności spłonki, zapalniki niebędące zapalnikami elektrycznymi nieostrymi, lonty detonujące, opóźniacze detonujące;
-5) środki zapalające wyroby wypełnione materiałem wybuchowym, służące pośrednio do zainicjowania materiału wybuchowego, w szczególności lonty prochowe, zapalacze lontowe, zapalniki elektryczne nieostre.
+1) ładunek materiału wybuchowego – materiał wybuchowy uzbrojony środkiem inicjującym lub środkiem zapalającym;
+2) niewypał – środek strzałowy, który w trakcie pomiaru ciągłości obwodu strzałowego wykazał przerwę lub który przy wykonywaniu robót strzałowych nie odpalił;
+3) osoba dozoru ruchu górniczego – osobę dozoru ruchu zakładu górniczego w specjalności górniczej, wiertniczej lub geofizyki i techniki strzałowej, posiadającą w zakresie swoich obowiązków sprawy techniki strzałowej;
+4) środki inicjujące – wyroby wypełnione materiałem wybuchowym, służące do zainicjowania materiału wybuchowego, w szczególności spłonki, zapalniki niebędące zapalnikami elektrycznymi nieostrymi, lonty detonujące, opóźniacze detonujące;
+5) środki zapalające – wyroby wypełnione materiałem wybuchowym, służące pośrednio do zainicjowania materiału wybuchowego, w szczególności lonty prochowe, zapalacze lontowe, zapalniki elektryczne nieostre.
 § 3. Wyróżnia się następujące rodzaje sprzętu strzałowego:
 1) wyroby służące do bezpiecznego przewożenia środków strzałowych;
 2) wyroby służące do bezpiecznego przenoszenia środków strzałowych;
@@ -47,7 +47,7 @@ w sprawie szczegółowych wymagań dotyczących przechowywania i używania środ
 § 4. W ruchu zakładu górniczego są przechowywane i używane:
 1) środki strzałowe, które zgodnie z ustawą z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2017 r. poz. 283) spełniają wymagania dotyczące oceny zgodności, zostały wprowadzone do obrotu, posiadają numer identyfikacyjny materiału wybuchowego przeznaczonego do użytku cywilnego, zostały wpisane do rejestru materiałów wybuchowych przeznaczonego do użytku cywilnego oraz dla których uzyskano pozwolenie na ich przechowywanie lub używanie;
 2) sprzęt strzałowy, dla którego uzyskano pozwolenie na przechowywanie lub używanie w ruchu zakładu górniczego:
-a) wymieniony w przepisach wydanych na podstawie art. 113 ust. 15 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, zwanej dalej „ustawą”, spełnia wymagania techniczne określone w tych przepisach oraz został dopuszczony do stosowania w zakładzie górniczym, zgodnie z art. 113 ustawy, albo
+a) wymieniony w przepisach wydanych na podstawie art. 113 ust. 15 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, zwanej dalej „ustawą”, spełnia wymagania techniczne określone w tych przepisach oraz został dopuszczony do stosowania w zakładzie górniczym, zgodnie z art. 113 ustawy, albo
 b) urządzenie służące do odpalania ładunków materiałów wybuchowych albo elektryczny sprzęt strzałowy, którego rozwiązania techniczne zostały sprawdzone na wniosek podmiotu wprowadzającego urządzenie na rynek przez rzeczoznawcę do spraw ruchu zakładu górniczego, zwanego dalej „rzeczoznawcą”, albo
 c) nie jest wymieniony w lit. a i b i został dobrany do warunków geologiczno-górniczych i środowiskowych w miejscu jego zastosowania.
 § 5. 1. Czynności związane z przechowywaniem, odbiorem, używaniem, przewożeniem i przenoszeniem środków strzałowych w ruchu zakładu górniczego wykonują i dozorują osoby upoważnione przez kierownika ruchu zakładu górniczego, spełniające wymagania lub posiadające odpowiednie kwalifikacje określone w dziale IV ustawy oraz przepisach wydanych na podstawie art. 69 ust. 1 ustawy albo określone na podstawie art. 53 ust. 2 ustawy.
@@ -55,15 +55,16 @@ c) nie jest wymieniony w lit. a i b i został dobrany do warunków geologiczno-g
 3. Dozwolone jest wyznaczenie, przez osobę dozoru ruchu górniczego, osób przeszkolonych w zakresie postępowania z materiałami wybuchowymi do pomocy przy przenoszeniu materiału wybuchowego, bez jednoczesnego przenoszenia przez te osoby środków inicjujących i środków zapalających.
 4. Osoby, o których mowa w ust. 3, są nadzorowane przez osobę upoważnioną do wykonywania robót strzałowych lub odbioru środków strzałowych.
 § 6. 1. Kierownik ruchu zakładu górniczego zapewnia zatrudnienie na stanowisku kierownika działu obejmującego swoją właściwością sprawy techniki strzałowej, zwanego dalej „kierownikiem działu techniki strzałowej”, oraz jego zastępcy osoby, która:
-1) w podziemnych zakładach górniczych posiada stwierdzone kwalifikacje do wykonywania czynności na tym stanowisku,
-2) w odkrywkowych zakładach górniczych i w zakładach górniczych wydobywających kopaliny otworami wiertniczymi posiada stwierdzone kwalifikacje do wykonywania czynności kierownika ruchu zakładu górniczego lub kierownika działu górniczego lub osoby wyższego dozoru ruchu w specjalności górniczej ‒ a także która ukończyła kurs specjalistyczny dla osób kierujących działem techniki strzałowej.
+1) w podziemnych zakładach górniczych – posiada stwierdzone kwalifikacje do wykonywania czynności na tym stanowisku,
+2) w odkrywkowych zakładach górniczych i w zakładach górniczych wydobywających kopaliny otworami wiertniczymi – posiada stwierdzone kwalifikacje do wykonywania czynności kierownika ruchu zakładu górniczego lub kierownika działu górniczego lub osoby wyższego dozoru ruchu w specjalności górniczej ‒ a także która ukończyła kurs specjalistyczny dla osób kierujących działem techniki strzałowej.
 2. Kierownik ruchu zakładu prowadzącego działalność określoną w art. 2 ust. 1 ustawy albo zakładu wykonującego roboty geologiczne, zwanych dalej „zakładami”, zapewnia zatrudnienie na stanowisku kierownika działu techniki strzałowej oraz jego zastępcy osoby, która:
-1) w zakładach prowadzących działalność określoną w art. 2 ust. 1 ustawy posiada stwierdzone kwalifikacje do wyko2) w zakładach wykonujących roboty geologiczne posiada stwierdzone kwalifikacje do wykonywania czynności kierownika ruchu zakładu lub kierownika działu geofizyki i techniki strzałowej, lub kierownika działu wiertniczego, lub osoby wyższego dozoru ruchu w specjalności geofizyka i technika strzałowa ‒ a także która ukończyła kurs specjalistyczny dla osób kierujących działem techniki strzałowej.
+1) w zakładach prowadzących działalność określoną w art. 2 ust. 1 ustawy – posiada stwierdzone kwalifikacje do wykonywania czynności na tym stanowisku,
+2) w zakładach wykonujących roboty geologiczne – posiada stwierdzone kwalifikacje do wykonywania czynności kierownika ruchu zakładu lub kierownika działu geofizyki i techniki strzałowej, lub kierownika działu wiertniczego, lub osoby wyższego dozoru ruchu w specjalności geofizyka i technika strzałowa ‒ a także która ukończyła kurs specjalistyczny dla osób kierujących działem techniki strzałowej.
 3. Kierownik ruchu zakładu górniczego albo zakładu, zwany dalej „kierownikiem ruchu”, upoważnia kierownika działu obejmującego swoją właściwością sprawy techniki strzałowej, o którym mowa w ust. 1 albo 2, do kierowania gospodarką środkami strzałowymi i sprzętem strzałowym oraz nadzoru nad nią, a także do nadzoru nad wykonywaniem robót strzałowych w zakładzie górniczym albo w zakładzie.
 § 7. W miejscach, w których znajdują się środki strzałowe, w ich otoczeniu oraz w trakcie wykonywania czynności związanych bezpośrednio ze środkami strzałowymi niedozwolone jest używanie ognia, palenie tytoniu ani stosowanie materiałów i urządzeń mogących być źródłem iskrzenia zdolnego do zainicjowania środków strzałowych.
 § 8. Środki strzałowe i urządzenia służące do odpalania ładunków materiałów wybuchowych zabezpiecza się w sposób uniemożliwiający dostęp do nich osób nieupoważnionych.
 § 9. Osobę wykonującą czynności w ruchu zakładu górniczego zapoznaje się z wyglądem środków strzałowych, a także informuje o:
-1) niebezpiec zeństwie, które może wystąpić w przypadku niewłaściwego postępowania ze środkami strzałowymi;
+1) niebezpieczeństwie, które może wystąpić w przypadku niewłaściwego postępowania ze środkami strzałowymi;
 2) bezpiecznym zachowaniu się podczas wykonywania robót strzałowych;
 3) znaczeniu sygnałów i znaków ostrzegawczych stosowanych w zakładzie górniczym, w związku z wykonywaniem robót strzałowych.
 § 10. Przy wykonywaniu czynności związanych ze środkami strzałowymi zachowuje się szczególną ostrożność.
@@ -82,6 +83,7 @@ b) urządzeń służących do odpalania ładunków materiałów wybuchowych;
 4) ochrony osób i mienia przed skutkami robót strzałowych;
 5) utrzymania ciągłości ruchu zakładu górniczego w trakcie wykonywania robót strzałowych.
 2. Osoby wykonujące lub nadzorujące czynności określone w ust. 1 potwierdzają na piśmie zapoznanie się z ustaleniami kierownika ruchu i przestrzegają tych ustaleń.
+§ 13. 1. Środki strzałowe w zakładzie górniczym przechowuje się w przeznaczonych do tego celu, odpowiednio przystosowanych i zlokalizowanych składach materiałów wybuchowych, zapewniających bezpieczeństwo osób i ochronę mienia przed skutkami wybuchu środków strzałowych, z uwzględnieniem w szczególności:
 1) bezpieczeństwa osób wykonujących czynności w składach materiałów wybuchowych oraz bezpieczeństwa osób zamieszkałych lub przebywających w pobliżu składów materiałów wybuchowych;
 2) ochrony obiektów i urządzeń zakładu górniczego oraz obiektów i urządzeń położonych w jego sąsiedztwie;
 3) zabezpieczenia przed dostępem osób nieupoważnionych.
@@ -96,8 +98,8 @@ b) urządzeń służących do odpalania ładunków materiałów wybuchowych;
 a) 100 m od obiektów przemysłowych,
 b) 300 m od obiektów użyteczności publicznej, budynków mieszkalnych i składów materiałów łatwopalnych.
 5. Dozwolone jest przechowywanie:
-1) sprzętu strzałowego w składzie materiałów wybuchowych w odrębnych pomieszczeniach wyznaczonych do tego celu;
-2) środków strzałowych w składach innych przedsiębiorców; środki te przechowuje się na odrębnych półkach, a ich ewidencję prowadzi się w odrębnej książce obrotu środkami strzałowymi.
+1) sprzętu strzałowego – w składzie materiałów wybuchowych w odrębnych pomieszczeniach wyznaczonych do tego celu;
+2) środków strzałowych – w składach innych przedsiębiorców; środki te przechowuje się na odrębnych półkach, a ich ewidencję prowadzi się w odrębnej książce obrotu środkami strzałowymi.
 § 14. W składach materiałów wybuchowych zapewnia się temperaturę i wilgotność zgodne ze wskazaniami podanymi przez producenta środków strzałowych.
 § 15. 1. Składy materiałów wybuchowych:
 1) ze względu na okres użytkowania dzielą się na:
@@ -105,10 +107,10 @@ a) stałe, których okres użytkowania jest nieograniczony,
 b) tymczasowe, których okres użytkowania wynosi nie więcej niż 5 lat,
 c) podręczne, w tym ruchome, służące do przechowywania środków strzałowych w okresie do 24 godzin i wydawania ich w pobliżu miejsca wykonywania robót strzałowych;
 2) ze względu na lokalizację dzielą się na:
-a) ruchome przystosowane do przewożenia, przechowywania i wydawania środków strzałowych oraz sprzętu strzałowego,
-b) podziemne stanowiące zespół podziemnych komór składowych i innych wyrobisk połączonych z podziemnymi wyrobiskami górniczymi, oddzielonych od podziemnych wyrobisk górniczych drzwiami lub kratami,
-c) naziemne stanowiące zespół komór składowych i pomieszczeń składowych usytuowanych na powierzchni w obrębie ogrodzonego terenu,
-d) wgłębne stanowiące zespół podziemnych komór składowych i innych wyrobisk odpowiednio ogrodzonych, niepołączonych z podziemnymi wyrobiskami górniczymi.
+a) ruchome – przystosowane do przewożenia, przechowywania i wydawania środków strzałowych oraz sprzętu strzałowego,
+b) podziemne – stanowiące zespół podziemnych komór składowych i innych wyrobisk połączonych z podziemnymi wyrobiskami górniczymi, oddzielonych od podziemnych wyrobisk górniczych drzwiami lub kratami,
+c) naziemne – stanowiące zespół komór składowych i pomieszczeń składowych usytuowanych na powierzchni w obrębie ogrodzonego terenu,
+d) wgłębne – stanowiące zespół podziemnych komór składowych i innych wyrobisk odpowiednio ogrodzonych, niepołączonych z podziemnymi wyrobiskami górniczymi.
 2. Wydłużenie okresu przechowywania środków strzałowych w podręcznym składzie materiałów wybuchowych, do nie więcej niż 120 godzin, jest dozwolone za zgodą kierownika ruchu.
 3. Szczegółowe wymagania dotyczące przechowywania środków strzałowych i sprzętu strzałowego w składach materiałów wybuchowych określa załącznik nr 1 do rozporządzenia.
 § 16. Dostęp do składu materiałów wybuchowych ma wyłącznie wydawca środków strzałowych oraz w jego obecności:
@@ -118,8 +120,8 @@ d) wgłębne stanowiące zespół podziemnych komór składowych i innych wyrobi
 4) przedstawiciel Policji;
 5) inne osoby posiadające pisemne upoważnienie udzielone przez kierownika ruchu.
 § 17. 1. Środki strzałowe wydaje się wyłącznie:
-1) osobom upoważnionym do wykonywania robót strzałowych na podstawie zapotrzebowania na środki strzałowe;
-2) osobom upoważnionym do odbioru tych środków na podstawie awiza wystawionego przez kierownika działu techniki strzałowej.
+1) osobom upoważnionym do wykonywania robót strzałowych – na podstawie zapotrzebowania na środki strzałowe;
+2) osobom upoważnionym do odbioru tych środków – na podstawie awiza wystawionego przez kierownika działu techniki strzałowej.
 2. Przed wydaniem środków strzałowych sprawdza się tożsamość osób, o których mowa w ust. 1.
 3. Osoba dozoru ruchu górniczego oraz osoby, o których mowa w ust. 1, mają dostęp do:
 1) ogrodzonego terenu naziemnego lub wgłębnego składu materiałów wybuchowych oraz przedsionka komory wydawczej tego składu;
@@ -131,11 +133,12 @@ d) wgłębne stanowiące zespół podziemnych komór składowych i innych wyrobi
 2. Górnik strzałowy wystawia zapotrzebowanie na środki strzałowe w swoim dzienniku strzałowym.
 3. Upoważnienie do wystawiania zapotrzebowania wydaje kierownik ruchu.
 § 20. 1. Samowolne przekazywanie środków strzałowych innym osobom przez osobę, której są wydawane środki strzałowe, jest niedozwolone.
-2. Dozwolone jest przekazanie, za zgodą osoby dozoru ruchu górniczego, środków strzałowych innej osobie wykonującej roboty strzałowe w tym samym zakładzie górniczym na zasadach określonych przez kierownika ruchu.
+2. Dozwolone jest przekazanie, za zgodą osoby dozoru ruchu górniczego, środków strzałowych innej osobie wykonującej roboty strzałowe w tym samym zakładzie górniczym – na zasadach określonych przez kierownika ruchu.
 3. Przekazywanie środków strzałowych jest odnotowywane przez osobę dozoru ruchu górniczego w dziennikach strzałowych osób, między którymi te środki są przekazywane.
 § 21. 1. W składach materiałów wybuchowych umieszcza się:
 1) wykaz osób upoważnionych przez kierownika ruchu do wykonywania robót strzałowych;
-2) wykaz osób dozoru ruchu górniczego lub górników strzało wych, upoważnionych przez kierownika ruchu do wysta 3) książkę kontroli składu materiałów wybuchowych;
+2) wykaz osób dozoru ruchu górniczego lub górników strzałowych, upoważnionych przez kierownika ruchu do wystawiania zapotrzebowania na środki strzałowe, oraz wzory podpisów tych osób;
+3) książkę kontroli składu materiałów wybuchowych;
 4) książkę ewidencji niewypałów i znalezionych środków strzałowych.
 2. W przypadku stosowania lontów detonujących w składzie materiałów wybuchowych umieszcza się dodatkowo:
 1) wykaz osób upoważnionych przez kierownika ruchu do wykonywania robót strzałowych z zastosowaniem lontów detonujących;
@@ -153,6 +156,7 @@ d) wgłębne stanowiące zespół podziemnych komór składowych i innych wyrobi
 2. Miejsca ustawienia i sposób zabezpieczenia przodkowych skrzyń strzałowych są określane przez osoby dozoru ruchu górniczego.
 § 25. Przechowywanie w tym samym pomieszczeniu lub w tej samej komorze środków strzałowych wraz ze sprzętem strzałowym lub z innymi przedmiotami i narzędziami jest niedozwolone.
 § 26. Naziemne i wgłębne składy materiałów wybuchowych chroni się w sposób uzgodniony z właściwymi organami Policji na podstawie art. 7 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2016 r. poz. 1432 i 2255 oraz z 2017 r. poz. 60).
+§ 27. 1. Środki strzałowe są przenoszone i przewożone w oryginalnych opakowaniach fabrycznych lub w przeznaczonych i przystosowanych do tego celu naczyniach, z użyciem, w przypadku przewożenia, środków transportu zapewniających ochronę mienia i ciągłości ruchu zakładu górniczego albo zakładu oraz bezpieczeństwo osób, w szczególności:
 1) przenoszących i przewożących środki strzałowe;
 2) przebywających na trasie przenoszenia lub przewożenia środków strzałowych.
 2. Niedozwolone jest przewożenie luzem paczek naboi i środków inicjujących oraz ładunków materiałów wybuchowych.
@@ -167,7 +171,7 @@ d) wgłębne stanowiące zespół podziemnych komór składowych i innych wyrobi
 6) kolejkami;
 7) wyciągami krzesełkowymi;
 8) wozami;
-9) pociągami ;
+9) pociągami;
 10) niewymienionymi w pkt 1–9 urządzeniami, które są przeznaczone do jazdy ludzi w zakładach górniczych albo w zakładach.
 § 31. W trakcie przewożenia środków strzałowych wstrzymuje się inny transport oraz inne roboty na trasie przewożenia tych środków.
 § 32. Przewóz środków strzałowych naczyniem wyciągowym do jazdy ludzi wyciągu szybowego, szybowym wyciągiem kubłowym, przenośnikiem taśmowym, kolejką albo wyciągiem krzesełkowym:
@@ -215,10 +219,11 @@ d) wgłębne stanowiące zespół podziemnych komór składowych i innych wyrobi
 2) odbywa się poza jazdą ludzi, pod nadzorem osoby dozoru ruchu górniczego.
 2. Przepisu ust. 1 pkt 2 nie stosuje się w przypadku określonym w § 36 ust. 2.
 § 41. Materiały wybuchowe wraz ze środkami inicjującymi albo środkami zapalającymi są przewożone:
-1) sprzętem strzałowym dopuszczonym do przewożenia środków strzałowych w zakładach górniczych lub w zakładach, jeżeli przewidują to warunki stosowania tych wyrobów, ustalone na podstawie art. 113 ust. 11 ustawy w sposób określony w tych warunkach;
+1) sprzętem strzałowym dopuszczonym do przewożenia środków strzałowych w zakładach górniczych lub w zakładach, jeżeli przewidują to warunki stosowania tych wyrobów, ustalone na podstawie art. 113 ust. 11 ustawy – w sposób określony w tych warunkach;
 2) pojazdami samochodowymi spełniającymi wymagania określone w ustawie z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, jeżeli przewidują to warunki dopuszczenia przedziału ładunkowego do przewozu towarów niebezpiecznych, ustalone na podstawie pkt 7.5.2.2 w załączniku A do Umowy europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r.
-(Dz. U. z 2015 r. poz. 882) w sposób określony w tej ustawie;
-3) urządzeniami wymienionymi w § 30 pkt 3–10 wyłącznie przez górników strzałowych.
+(Dz. U. z 2015 r. poz. 882) – w sposób określony w tej ustawie;
+3) urządzeniami wymienionymi w § 30 pkt 3–10 – wyłącznie przez górników strzałowych.
+§ 42. 1. Dostarczone do zakładu górniczego albo do zakładu oraz zużyte w zakładzie górniczym albo w zakładzie środki strzałowe niezwłocznie ewidencjonuje się w ewidencji środków strzałowych.
 2. Wyróżnia się następujące rodzaje ewidencji środków strzałowych:
 1) ewidencja obrotu środkami strzałowymi składu materiałów wybuchowych;
 2) ewidencja obrotu środkami strzałowymi zakładu górniczego;
@@ -250,7 +255,7 @@ d) wgłębne stanowiące zespół podziemnych komór składowych i innych wyrobi
 § 43. 1. Za zgodą kierownika ruchu dozwolone jest prowadzenie ewidencji środków strzałowych z wykorzystaniem elektronicznych metod przetwarzania informacji.
 2. Ewidencję środków strzałowych prowadzoną z wykorzystaniem elektronicznych metod przetwarzania informacji:
 1) wyposaża się w mechanizm dziennika, w którym są odnotowywane zmiany w treści informacji zawartych w ewidencji oraz próby dokonywania takich zmian przez osoby nieuprawnione; dziennik zawiera określenie osoby wprowadzającej zmianę, datę i godzinę zmiany oraz treść zmiany;
-2) chroni się przez moduł bezpieczeństwa programowe lub sprzętowo-programowe rozwiązanie techniczne uniemożliwiające osobie nieuprawnionej zniszczenie lub modyfikację informacji zawartych w ewidencji.
+2) chroni się przez moduł bezpieczeństwa – programowe lub sprzętowo-programowe rozwiązanie techniczne uniemożliwiające osobie nieuprawnionej zniszczenie lub modyfikację informacji zawartych w ewidencji.
 3. Dziennik, o którym mowa w ust. 2 pkt 1, prowadzi się w sposób automatyczny.
 4. Informacje zgromadzone w bazie danych ewidencji środków strzałowych kopiuje się na odrębne informatyczne nośniki informacji nie później niż dobę po dokonaniu zmiany treści tych informacji. W przypadku dokonania zmian częściej niż raz na dobę informacje kopiuje się na odrębne informatyczne nośniki informacji raz na dobę.
 § 44. 1. Książka obrotu środkami strzałowymi składu materiałów wybuchowych składa się z:
@@ -271,23 +276,23 @@ d) wgłębne stanowiące zespół podziemnych komór składowych i innych wyrobi
 2) nie ma składu materiałów wybuchowych.
 2. Książkę, o której mowa w ust. 1, prowadzi się w sposób określony w § 44 i w § 45 ust. 2–4 oraz w załączniku nr 2 do rozporządzenia we wzorze 1.
 3. Książka, o której mowa w ust. 1, jest prowadzona przez:
-1) kierownika działu techniki strzałowej lub upoważnioną przez niego osobę pod jego nadzorem jeżeli w zakładzie górniczym znajduje się kilka składów materiałów wybuchowych;
-2) wydawcę środków strzałowych jeżeli w zakładzie górniczym nie ma składu materiałów wybuchowych.
+1) kierownika działu techniki strzałowej lub upoważnioną przez niego osobę pod jego nadzorem – jeżeli w zakładzie górniczym znajduje się kilka składów materiałów wybuchowych;
+2) wydawcę środków strzałowych – jeżeli w zakładzie górniczym nie ma składu materiałów wybuchowych.
 § 47. 1. W dzienniku strzałowym rejestruje się:
 1) zapotrzebowanie na środki strzałowe;
 2) wydane środki strzałowe;
 3) rozliczenie pobranych środków strzałowych.
 2. Informacje, o których mowa w ust. 1:
-1) pkt 1 są rejestrowane przez upoważnioną osobę dozoru ruchu górniczego lub górnika strzałowego;
-2) pkt 2 są rejestrowane przez wydawcę środków strzałowych;
-3) pkt 3 są rejestrowane przez osobę wykonującą roboty strzałowe.
+1) pkt 1 – są rejestrowane przez upoważnioną osobę dozoru ruchu górniczego lub górnika strzałowego;
+2) pkt 2 – są rejestrowane przez wydawcę środków strzałowych;
+3) pkt 3 – są rejestrowane przez osobę wykonującą roboty strzałowe.
 3. Wzór dziennika strzałowego oraz sposób jego wypełniania dla:
 1) podziemnego zakładu górniczego i odkrywkowego zakładu górniczego są określone w załączniku nr 2 do rozporządzenia we wzorze 2;
 2) zakładu górniczego wydobywającego kopaliny otworami wiertniczymi oraz zakładu wykonującego roboty geologiczne są określone załączniku nr 2 do rozporządzenia we wzorze 3.
 § 48. 1. Awizo wysyłkowe środków strzałowych stanowi dowód przychodu środków strzałowych.
 2. Jeżeli środki strzałowe są dostarczane:
-1) z wytwórni awizo wysyłkowe jest wystawiane przez posiadającego koncesję na wytwarzanie lub obrót materiałami wybuchowymi;
-2) od dostawcy awizo wysyłkowe jest wystawiane przez posiadającego koncesję na obrót materiałami wybuchowymi.
+1) z wytwórni – awizo wysyłkowe jest wystawiane przez posiadającego koncesję na wytwarzanie lub obrót materiałami wybuchowymi;
+2) od dostawcy – awizo wysyłkowe jest wystawiane przez posiadającego koncesję na obrót materiałami wybuchowymi.
 3. Jeżeli środki strzałowe są dostarczane ze składów materiałów wybuchowych innego przedsiębiorcy w rozumieniu ustawy albo są przekazywane pomiędzy składami materiałów wybuchowych tego samego przedsiębiorcy w rozumieniu ustawy, awizo wysyłkowe jest wystawiane przez kierownika działu techniki strzałowej tego zakładu górniczego albo zakładu, w którym znajduje się skład, z którego pochodzą środki strzałowe.
 § 49. Wydruk z urządzenia mieszalniczo-załadowczego materiałów wybuchowych luzem stanowi dowód przychodu i rozchodu materiałów wybuchowych.
 § 50. 1. W książce zużycia saletrolu określa się ilość składników użytych do jego sporządzenia oraz producentów tych składników; w książce przechowuje się dowody dostaw tych składników.
@@ -312,16 +317,17 @@ l) liczbę i rodzaj zużytych środków inicjujących;
 3) dozwolone i rzeczywiste wielkości ładunków materiałów wybuchowych odpalanych w otworze strzałowym i w serii otworów strzałowych:
 a) wielkość ładunku materiału wybuchowego odpalanego w otworze strzałowym,
 b) wielkość ładunku materiału wybuchowego odpalanego w serii otworów strzałowych,
-c) jednostkowe zużycie materiału wybuchowego w przypadku ustalenia przez rzeczoznawcę;
+c) jednostkowe zużycie materiału wybuchowego – w przypadku ustalenia przez rzeczoznawcę;
 4) lokalizację odstrzału na aktualnej mapie górniczej;
 5) dodatkowe informacje dotyczące wykonywanych robót strzałowych:
 a) miejsca inicjowania ładunków materiału wybuchowego w otworze strzałowym,
 b) rodzaj włomu serii otworów strzałowych,
 c) rodzaj ładunku materiału wybuchowego w otworze strzałowym,
 d) szkic sposobu łączenia zapalników z oznaczeniem kolejności stopni opóźnień zapalników w poszczególnych otworach strzałowych.
+§ 52. 1. W zależności od rodzaju robót strzałowych, ich złożoności oraz warunków, w których są one wykonywane, dla miejsca ich wykonywania sporządza się metrykę strzałową albo dokumentację strzałową.
 2. Metryka strzałowa zawiera:
 1) część opisową, która określa:
-a) miejsce wykonywania robót strzałowych, w zależności od rodzaju zakładu górniczego nazwę przodka lub wyrobiska, z uwzględnieniem w szczególności pokładu, złoża i poziomu,
+a) miejsce wykonywania robót strzałowych, w zależności od rodzaju zakładu górniczego – nazwę przodka lub wyrobiska, z uwzględnieniem w szczególności pokładu, złoża i poziomu,
 b) cel robót strzałowych,
 c) stopień, kategorię albo klasę zagrożeń naturalnych, do których zaliczone zostało miejsce wykonywania robót strzałowych,
 d) rodzaje używanych środków strzałowych, w tym środków inicjujących i zapalających,
@@ -329,18 +335,19 @@ e) sposób łączenia zapalników,
 f) sposób inicjowania ładunków materiałów wybuchowych,
 g) maksymalną liczbę otworów strzałowych albo ładunków jednocześnie odpalanych,
 h) maksymalną wielkość ładunku materiału wybuchowego (pojedynczego otworu oraz w całej serii otworów lub ładunków),
-i) maksymalną wielkość ładunku materiału wybuchowego przypadającą na stopień opóźnienia w przypadku odkrywkowych zakładów górniczych,
+i) maksymalną wielkość ładunku materiału wybuchowego przypadającą na stopień opóźnienia – w przypadku odkrywkowych zakładów górniczych,
 j) rodzaj i sposób wykonywania przybitki, stosowany sprzęt strzałowy, w szczególności urządzenia służące do odpalenia ładunków wybuchowych, przewody, urządzenia do ładowania otworów oraz omomierze strzałowe,
-k) dodatkowe warunki dotycz ące sposobu wykonywania robót strzałowych oraz zachowania określonych rygorów związanych ze zwalczaniem zagrożeń;
+k) dodatkowe warunki dotyczące sposobu wykonywania robót strzałowych oraz zachowania określonych rygorów związanych ze zwalczaniem zagrożeń;
 2) część rysunkową, zawierającą szkic rozmieszczenia otworów strzałowych i ładunków materiału wybuchowego, z oznaczeniem kolejności stopni opóźnień zapalników w poszczególnych otworach strzałowych.
 3. Dokumentacja strzałowa zawiera elementy określone w ust. 2 oraz, w zależności od potrzeb uzasadnionych względami technicznymi i względami bezpieczeństwa, dodatkowo:
 1) obliczenia parametrów robót strzałowych oraz zasięgu szkodliwych drgań sejsmicznych;
-2) opis organizacji i sposobu dostawy środków strzałowych na miejsce wykonywania robót strzałowych, przygotowania ładunków mater iałów wybuchowych, ładowania i odpalania tych ładunków, a także opis sposobu zabezpieczenia przed skutkami robót strzałowych;
+2) opis organizacji i sposobu dostawy środków strzałowych na miejsce wykonywania robót strzałowych, przygotowania ładunków materiałów wybuchowych, ładowania i odpalania tych ładunków, a także opis sposobu zabezpieczenia przed skutkami robót strzałowych;
 3) szkice konstrukcji ładunków materiałów wybuchowych;
 4) mapy górnicze z oznaczeniem stref zagrożeń oraz miejsc zabezpieczeń;
+5) opinie rzeczoznawców dotyczące wykonywania robót strzałowych.
 4. Metryka i dokumentacja, o których mowa w ust. 1, są sporządzane przez kierownika działu techniki strzałowej zakładu górniczego lub podmiotu wykonującego powierzone mu roboty strzałowe w ruchu zakładu górniczego.
 5. Dokumentacja strzałowa strzelania wstrząsowego w pokładach zagrożonych tąpaniami jest sporządzana przez kierownika działu techniki strzałowej i kierownika działu tąpań na podstawie opinii kopalnianego zespołu do spraw tąpań.
-6. Dokumentacja strzałowa jest zatwierdzana przez kierownika ruchu zakładu górniczego, a metryka strzałowa przez kierownika działu górniczego.
+6. Dokumentacja strzałowa jest zatwierdzana przez kierownika ruchu zakładu górniczego, a metryka strzałowa – przez kierownika działu górniczego.
 § 53. 1. W odkrywkowych zakładach górniczych w przypadku oddziaływania robót strzałowych na środowisko, bezpieczeństwo powszechne lub bezpieczeństwo zakładu górniczego zmienia się parametry strzelań i wykonuje się sprawdzające strzelanie doświadczalne.
 2. Strzelanie doświadczalne w odkrywkowym zakładzie górniczym wykonuje się na podstawie opracowanej w tym celu dokumentacji strzałowej. W przypadku stosowania metod lub środków strzałowych, niestosowanych dotychczas w zakładzie górniczym, dokumentacja ta podlega zaopiniowaniu przez rzeczoznawcę i strzelanie odbywa się z jego udziałem. Dowód sprawdzenia przez rzeczoznawcę rozwiązań technicznych zastosowanych w celu wykonania strzelania doświadczalnego posiada przedsiębiorca.
 3. Strzelanie doświadczalne jest prowadzone pod nadzorem kierownika działu techniki strzałowej.
@@ -360,6 +367,7 @@ protokół jest podpisywany przez wykonującego i nadzorującego strzelanie doś
 3. Kierownik ruchu może wyrazić zgodę na niestosowanie ust. 1 i 2. W takim przypadku określa on warunki wykonywania czynności, o których mowa w tych przepisach.
 4. W przypadku, o którym mowa w ust. 3, ładunki materiałów wybuchowych odpala się nie później niż w ciągu 48 godzin od ich załadowania.
 § 58. 1. Dzielenie, łamanie naboi materiałów wybuchowych oraz usypywanie z naboi materiału wybuchowego jest niedozwolone, o ile w procedurze oceny zgodności nie określono inaczej.
+2. Niszczenie środków strzałowych jest niedozwolone.
 § 59. 1. Pod bezpośrednim nadzorem osoby dozoru ruchu górniczego wykonuje się:
 1) roboty strzałowe wykonywane metodą długich otworów strzałowych;
 2) odpalanie centralne z powierzchni;
@@ -380,15 +388,16 @@ d) w podziemnych zakładach górniczych, w warunkach szczególnego zagrożenia, 
 § 61. 1. Otwory strzałowe rozmieszcza się zgodnie z metryką strzałową albo dokumentacją strzałową.
 2. Odległość między otworami strzałowymi wynosi nie mniej niż 0,4 m.
 3. Przepisu ust. 2 nie stosuje się do robót strzałowych, przy których wykonywaniu jest dozwolone użycie materiałów wybuchowych skalnych.
-§ 62. 1. Wier cenie otworów strzałowych w otworach pozostał ych z poprzednich strzelań (fajkach) lub w otworach, w których znajdują się środki strzałowe, jest niedozwolone.
+§ 62. 1. Wiercenie otworów strzałowych w otworach pozostałych z poprzednich strzelań (fajkach) lub w otworach, w których znajdują się środki strzałowe, jest niedozwolone.
 2. Otwory, o których mowa w ust. 1, oznakowuje się.
 § 63. 1. Przed przystąpieniem do ładowania środków strzałowych:
 1) usuwa się z przodka lub zabezpiecza przed uszkodzeniem narzędzia, przewody, kable, przyrządy, urządzenia mechaniczne i sprzęt strzałowy, z wyjątkiem sprzętu strzałowego niezbędnego do ładowania;
 2) osoby niewykonujące prac związanych z ładowaniem środków strzałowych wycofuje się do miejsc bezpiecznych, z wyjątkiem osób upoważnionych do nadzoru i kontroli robót strzałowych;
 3) dojścia do miejsca ładowania środków strzałowych do otworów strzałowych zabezpiecza się przed dostępem osób nieupoważnionych.
-2. Ładowanie i odpalanie środków strzałowych w podziemnych zakładach górniczych wydobywających węgiel kamienny wykonuje się na podstawie pisemnego zezwolenia udzielonego przez osobę dozoru ruchu górniczego w dzienniku strza§ 64. 1. Przed przystąpieniem do wykonywania czynności związanych z odpalaniem ładunków materiałów wybuchowych:
+2. Ładowanie i odpalanie środków strzałowych w podziemnych zakładach górniczych wydobywających węgiel kamienny wykonuje się na podstawie pisemnego zezwolenia udzielonego przez osobę dozoru ruchu górniczego w dzienniku strzałowym osoby wykonującej roboty strzałowe.
+§ 64. 1. Przed przystąpieniem do wykonywania czynności związanych z odpalaniem ładunków materiałów wybuchowych:
 1) wycofuje się ludzi do miejsc bezpiecznych, wyznaczonych pisemnie przez osobę dozoru ruchu górniczego;
-2) zabezpiecza się dojścia do strefy zagrożenia przez ustawienie posterunków, a w przypadku braku odpowiedniej liczby osób przez założenie zapór, wygrodzeń z umieszczonymi na nich znakami lub urządzeniami ostrzegawczymi, w szczególności tablicami, lampami, czerwonym światłem lub czerwonymi chorągiewkami.
+2) zabezpiecza się dojścia do strefy zagrożenia przez ustawienie posterunków, a w przypadku braku odpowiedniej liczby osób – przez założenie zapór, wygrodzeń z umieszczonymi na nich znakami lub urządzeniami ostrzegawczymi, w szczególności tablicami, lampami, czerwonym światłem lub czerwonymi chorągiewkami.
 2. W podziemnych zakładach górniczych osoby zabezpieczające dojścia do miejsc wykonywania robót strzałowych są wyznaczane, odprowadzane do tych miejsc oraz odwoływane po wykonaniu tych robót przez osobę wykonującą roboty strzałowe. Kierownik ruchu może ustalić inny sposób zabezpieczenia dojść do miejsca wykonywania robót strzałowych.
 3. Odpalanie ładunków materiałów wybuchowych jest bezpośrednio poprzedzane przez osobę wykonującą roboty strzałowe okrzykiem „Odpala się!”.
 4. Przepisu ust. 3 nie stosuje się do odpalania centralnego z powierzchni.
@@ -405,9 +414,9 @@ d) w podziemnych zakładach górniczych, w warunkach szczególnego zagrożenia, 
 § 68. Uzbrajanie i przygotowanie ładunków materiałów wybuchowych odbywa się w miejscu wykonywania robót strzałowych, bezpośrednio przed ich użyciem. W przypadkach uzasadnionych względami bezpieczeństwa dozwolone jest wykonywanie tych czynności w innym bezpiecznym miejscu wyznaczonym przez kierownika działu techniki strzałowej.
 § 69. 1. Końcówki przewodów zapalnika elektrycznego zwiera się i izoluje do rozpoczęcia wykonywania połączeń obwodu strzałowego.
 2. Zapalniki elektryczne łączy się ze sobą w obwód zapalnikowy:
-1) za pomocą szybkozłączy w celu ich połączenia szeregowego;
-2) za pośrednictwem anten z nieizolowanego drutu miedzianego w celu ich połączenia równoległego rozłożonego i trójpierścieniowego;
-3) przez skręcenie końcówek ze sobą i zaizolowanie w celu ich połączenia szeregowo-równoległego skupionego lub równoległo-szeregowego skupionego.
+1) za pomocą szybkozłączy – w celu ich połączenia szeregowego;
+2) za pośrednictwem anten z nieizolowanego drutu miedzianego – w celu ich połączenia równoległego rozłożonego i trójpierścieniowego;
+3) przez skręcenie końcówek ze sobą i zaizolowanie – w celu ich połączenia szeregowo-równoległego skupionego lub równoległo-szeregowego skupionego.
 3. Rodzaj połączenia ze sobą zapalników elektrycznych zapewnia oporność zastępczą obwodu zapalnikowego, nie mniej niż dwukrotnie niższą od oporności urabianej skały.
 § 70. 1. Linię strzałową elektryczną zwiera się obustronnie do momentu przystąpienia do odpalania ładunków materiałów wybuchowych.
 2. Łączenie obwodów zapalnikowych z przodkowymi przewodami ochronnymi oraz z linią strzałową jest dozwolone bezpośrednio przed przystąpieniem do odpalania ładunków materiałów wybuchowych.
@@ -426,7 +435,8 @@ d) w podziemnych zakładach górniczych, w warunkach szczególnego zagrożenia, 
 2. Pomiaru natężenia prądów błądzących dokonuje się:
 1) przed przystąpieniem po raz pierwszy do wykonania w danym miejscu robót strzałowych;
 2) w przypadku stwierdzenia możliwości ich wystąpienia.
-3. Niezależnie od pomiarów, o których mowa w ust. 2, w miejscach prowadzenia robót strzałowych dokonuje się okre 4. W przypadku wystąpienia prądów błądzących o natężeniu przekraczającym połowę natężenia prądu lub impulsu zapłonowego, bezpiecznych dla stosowanej klasy zapalników elektrycznych, prowadzenie robót strzałowych z użyciem takich zapalników jest niedozwolone.
+3. Niezależnie od pomiarów, o których mowa w ust. 2, w miejscach prowadzenia robót strzałowych dokonuje się okresowych pomiarów natężenia prądów błądzących.
+4. W przypadku wystąpienia prądów błądzących o natężeniu przekraczającym połowę natężenia prądu lub impulsu zapłonowego, bezpiecznych dla stosowanej klasy zapalników elektrycznych, prowadzenie robót strzałowych z użyciem takich zapalników jest niedozwolone.
 5. W przypadku występowania prądów błądzących w zakładzie górniczym albo zakładzie stosuje się instrukcję postępowania, która określa:
 1) zakres odpowiedzialności właściwych służb za dokonywanie pomiarów natężenia prądów błądzących;
 2) sposób dokumentowania wyników dokonanych pomiarów;
@@ -434,21 +444,21 @@ d) w podziemnych zakładach górniczych, w warunkach szczególnego zagrożenia, 
 4) częstotliwość dokonywania pomiarów natężenia prądów błądzących oraz stosowane do tego celu przyrządy.
 6. Instrukcja, o której mowa w ust. 5, jest zatwierdzana przez kierownika ruchu.
 § 77. 1. W przypadku wykonywania robót strzałowych przy użyciu zapalników elektrycznych w pobliżu czynnych nadajników fal elektromagnetycznych wysokiej częstotliwości, zachowuje się minimalne odległości obwodów strzałowych od urządzeń nadawczych, wynoszące w zależności od mocy P nadajników:
-1) 10 m dla 0,5 W < P ≤ 2,5 W;
-2) 30 m dla 2,5 W < P ≤ 30 W;
-3) 60 m dla 30 W < P ≤ 100 W;
-4) 100 m dla 100 W < P ≤ 250 W;
-5) 200 m dla 250 W < P ≤ 1 kW;
-6) 500 m dla 1 kW < P ≤ 5 kW;
-7) 1500 m dla 5 kW < P ≤ 50 kW;
-8) 2200 m dla stacji radarowych.
+1) 10 m – dla 0,5 W < P ≤ 2,5 W;
+2) 30 m – dla 2,5 W < P ≤ 30 W;
+3) 60 m – dla 30 W < P ≤ 100 W;
+4) 100 m – dla 100 W < P ≤ 250 W;
+5) 200 m – dla 250 W < P ≤ 1 kW;
+6) 500 m – dla 1 kW < P ≤ 5 kW;
+7) 1500 m – dla 5 kW < P ≤ 50 kW;
+8) 2200 m – dla stacji radarowych.
 2. W przypadku konieczności wykonywania robót strzałowych w odległościach mniejszych od określonych w ust. 1, stosuje się dodatkowe środki bezpieczeństwa, określone przez rzeczoznawcę w jego opinii i zatwierdzone przez kierownika ruchu.
 3. Przewody zapalnikowe zapalników elektrycznych znajdujących się w pobliżu czynnych nadajników wysokiej częstotliwości zwija się w motki; zapalniki umieszcza się wewnątrz metalowej osłony.
 § 78. 1. W miejscu wykonywania robót strzałowych przeprowadza się kontrolę w celu wykrycia ewentualnych niewypałów.
 2. Kontrola, o której mowa w ust. 1, jest przeprowadzana przez osobę wykonującą roboty strzałowe lub osobę dozoru górniczego:
 1) przed rozpoczęciem pracy;
 2) przed przystąpieniem do wiercenia otworów strzałowych;
-3) po odpaleniu ładunków materiałów wybuchowych w przypadku gdy umożliwia to ustalona organizacja robót strzałowych.
+3) po odpaleniu ładunków materiałów wybuchowych – w przypadku gdy umożliwia to ustalona organizacja robót strzałowych.
 3. O wykryciu niewypału informuje się osobę dozoru ruchu górniczego.
 4. Niewypał jest likwidowany przez osobę wykonującą roboty strzałowe w obecności osoby dozoru ruchu górniczego.
 W zakładach górniczych wydobywających rudy metali likwidacja niewypału może odbywać się w obecności instruktora strzałowego upoważnionego przez kierownika ruchu i przeszkolonego w tym zakresie.
@@ -463,14 +473,15 @@ b) osoby dozoru ruchu górniczego albo
 § 80. 1. W zakładzie górniczym stosuje się wyłącznie urządzenia służące do odpalania ładunków materiału wybuchowego, omomierze strzałowe, przyrządy do pomiarów prądów błądzących, próbniki ciągłości obwodów strzałowych i mierniki rezystancji izolacji, posiadające świadectwo przydatności wystawione przez producenta albo jednostkę, która dokonała jego naprawy.
 2. Dla urządzeń, o których mowa w ust. 1, prowadzi się kartę ewidencyjną.
 3. Urządzenia, o których mowa w ust. 1, podlegają kontroli:
-1) zewnętrznej przeprowadzanej przez kierownika działu techniki strzałowej, nie rzadziej niż raz na kwartał, a także w przypadku stwierdzenia jego uszkodzenia lub wadliwego działania;
-2) szczegółowej przeprowadzanej nie rzadziej niż raz w roku, a w przypadku sprzętu stosowanego w polach metanowych nie rzadziej niż raz na pół roku, przez:
+1) zewnętrznej – przeprowadzanej przez kierownika działu techniki strzałowej, nie rzadziej niż raz na kwartał, a także w przypadku stwierdzenia jego uszkodzenia lub wadliwego działania;
+2) szczegółowej – przeprowadzanej nie rzadziej niż raz w roku, a w przypadku sprzętu stosowanego w polach metanowych – nie rzadziej niż raz na pół roku, przez:
 a) producenta albo
 b) jednostkę, która dokonała jego naprawy, albo
 c) rzeczoznawcę, albo
 d) właściciela sprzętu lub przedsiębiorcę uprawnionego do przeprowadzania takiej kontroli, pod nadzorem rzeczoznawcy i na warunkach określonych w jego opinii.
 4. Wyniki przeprowadzonych kontroli odnotowuje się w karcie ewidencyjnej i w świadectwie przydatności.
 § 81. Szczegółowe wymagania dotyczące używania środków strzałowych i sprzętu strzałowego w ruchu zakładu górniczego są określone w załączniku nr 3 do rozporządzenia.
+§ 82. 1. Kierownik działu techniki strzałowej wyznaczony przez kierownika ruchu sprawuje nadzór nad stosowaniem środków strzałowych, sprzętu strzałowego oraz wykonywaniem robót strzałowych.
 2. W przypadku zakładu górniczego składającego się z co najmniej dwóch części prowadzących samodzielnie ruch, na każdym z ruchów nadzór nad stosowaniem środków strzałowych, sprzętu strzałowego oraz wykonywaniem robót strzałowych mogą sprawować zastępcy kierownika działu techniki strzałowej.
 § 83. 1. Pod bezpośrednim nadzorem osoby dozoru ruchu górniczego wykonuje się roboty strzałowe:
 1) w przypadku gdy stężenie metanu w powietrzu wynosi więcej niż 0,5% w:
@@ -493,8 +504,8 @@ c) przypadku wywoływania zawału stropu za pomocą materiałów wybuchowych met
 3. Dopuszczalna łączna wielkość ładunków materiałów wybuchowych odpalanych jednocześnie podczas wykonywania robót strzałowych w odległości mniejszej niż 100 m od komory składowej składu materiałów wybuchowych wynosi nie więcej niż 20 kg.
 § 85. Wykonywanie robót strzałowych w miejscach, w których temperatura skał jest wyższa niż 100°C lub temperatura otoczenia jest niższa niż –35°C, jest niedozwolone.
 § 86. Wykonując roboty strzałowe w:
-1) skałach, w których temperatura jest wyższa niż 50°C stosuje się środki strzałowe termoodporne;
-2) miejscach, w których temperatura skał lub otoczenia jest niższa niż 0°C stosuje się środki strzałowe mrozoodporne.
+1) skałach, w których temperatura jest wyższa niż 50°C – stosuje się środki strzałowe termoodporne;
+2) miejscach, w których temperatura skał lub otoczenia jest niższa niż 0°C – stosuje się środki strzałowe mrozoodporne.
 § 87. 1. Wykonywanie robót strzałowych w miejscu zaburzeń tektonicznych jest dozwolone wyłącznie na podstawie pisemnej zgody udzielonej przez kierownika działu górniczego.
 2. W podziemnych zakładach górniczych wydobywających rudy metali zgoda na wykonywanie robót strzałowych w miejscu zaburzeń tektonicznych jest udzielana pisemnie w dzienniku strzałowym przez osobę dozoru ruchu górniczego;
 warunki udzielenia takiej zgody określa dokumentacja strzałowa lub metryka strzałowa.
@@ -503,7 +514,8 @@ warunki udzielenia takiej zgody określa dokumentacja strzałowa lub metryka str
 2. Odpalanie środków strzałowych poza otworami strzałowymi jest dozwolone w przypadku:
 1) rozsadzania luźnych brył i zestrzeliwania odspojeń lub
 2) badania środków strzałowych ‒ tylko za zgodą kierownika ruchu.
-3. W podziemnych zakładach górniczych wydobywających rudy metali zgodę na wykonywanie robót strzałowych, o których mowa w ust. 2 pkt 1, na warunkach ustalonych w dokumentacji lub metryce strzałowej, wydaje pisemnie, w dzien§ 90. Dozwolone jest załadowanie materiałem wybuchowym skalnym otworów strzałowych wykonanych wyłącznie w skałach płonnych lub w złożu niepalnym.
+3. W podziemnych zakładach górniczych wydobywających rudy metali zgodę na wykonywanie robót strzałowych, o których mowa w ust. 2 pkt 1, na warunkach ustalonych w dokumentacji lub metryce strzałowej, wydaje pisemnie, w dzienniku strzałowym, osoba dozoru ruchu w specjalności górniczej upoważniona przez kierownika ruchu.
+§ 90. Dozwolone jest załadowanie materiałem wybuchowym skalnym otworów strzałowych wykonanych wyłącznie w skałach płonnych lub w złożu niepalnym.
 § 91. 1. Otwór strzałowy załadowany środkami strzałowymi zamyka się przybitką.
 2. Przepisu ust. 1 nie stosuje się w trakcie robót strzałowych urabiających w zakładach górniczych wydobywających kopalinę niepalną w polach niemetanowych w przypadku udzielenia na to zgody przez kierownika ruchu i pod warunkiem, że długość otworu strzałowego wynosi nie więcej niż 6 m.
 § 92. 1. W miejscu wykonywania robót strzałowych zapewnia się odpowiednią ilość materiału stosowanego do wykonania przybitki.
@@ -512,11 +524,11 @@ warunki udzielenia takiej zgody określa dokumentacja strzałowa lub metryka str
 1) przybitka wypełnia szczelnie odcinek otworu strzałowego od materiału wybuchowego do wylotu otworu;
 2) długość przybitki wynosi nie mniej niż 0,3 m;
 3) w otworach strzałowych o głębokości nie większej niż 1,5 m długość przybitki wynosi nie mniej niż:
-a) połowę długości otworu strzałowego w przypadku stosowania środków strzałowych metanowych i węglowych,
-b) 1/3 długości otworu strzałowego w przypadku stosowania środków strzałowych metanowych specjalnych;
+a) połowę długości otworu strzałowego – w przypadku stosowania środków strzałowych metanowych i węglowych,
+b) 1/3 długości otworu strzałowego – w przypadku stosowania środków strzałowych metanowych specjalnych;
 4) w otworach o głębokości większej niż 1,5 m długość przybitki wynosi nie mniej niż:
-a) 1/3 długości otworu strzałowego w przypadku stosowania środków strzałowych węglowych, metanowych i metanowych specjalnych,
-b) 0,3 m w przypadku stosowania środków strzałowych skalnych.
+a) 1/3 długości otworu strzałowego – w przypadku stosowania środków strzałowych węglowych, metanowych i metanowych specjalnych,
+b) 0,3 m – w przypadku stosowania środków strzałowych skalnych.
 § 94. 1. Wprowadzając pneumatycznie przybitkę piaskową lub z gliny do otworów strzałowych, ładunki materiału wybuchowego inicjuje się w tych otworach zapalnikami nieelektrycznymi lub zapalnikami elektrycznymi klasy nie niższej niż 0,45 A.
 2. Dozwolone jest stosowanie wody jako materiału przybitkowego; przybitkę wodną wprowadza się do otworów strzałowych przez wypełnienie otworu wodą lub w pojemnikach.
 3. Stosowanie przybitki wodnej przez wypełnienie otworów strzałowych wodą jest dozwolone wyłącznie w otworach skierowanych w dół, załadowanych wodoodpornymi środkami strzałowymi.
@@ -545,7 +557,7 @@ b) 0,3 m w przypadku stosowania środków strzałowych skalnych.
 § 102. Odległość między stanowiskami przyłączenia zapalarek wynosi co najmniej 10 m.
 § 103. 1. Przed rozpoczęciem robót strzałowych z zastosowaniem zapalników elektrycznych w głębionym szybie lub szybiku wykonuje się pomiary napięcia prądów błądzących, stosując instrukcję, o której mowa w § 76 ust. 5.
 2. Przed przystąpieniem do przyłączenia zapalników elektrycznych do linii strzałowej kable i przewody elektroenergetyczne znajdujące się w szybie lub szybiku na odcinku prowadzonej linii strzałowej wyłącza się spod napięcia.
-§ 104. 1. Po wykonaniu czynności przygotowawczych, poprzedzających odpalenie ładunków materiałów wybuchowych, osoba wykonująca roboty strzałowe opuszcza miejsce załadowania materiałów wybuchowych jako ostatnia, a po odpaleniu ładunków materiałów wybuchowych wchodzi do tego miejsca jako pierwsza.
+§ 104. 1. Po wykonaniu czynności przygotowawczych, poprzedzających odpalenie ładunków materiałów wybuchowych, osoba wykonująca roboty strzałowe opuszcza miejsce załadowania materiałów wybuchowych jako ostatnia, a po odpaleniu ładunków materiałów wybuchowych – wchodzi do tego miejsca jako pierwsza.
 2. Przepisu ust. 1, w zakresie wchodzenia do miejsca odpalania ładunków materiałów wybuchowych, nie stosuje się do robót strzałowych wykonywanych w wyrobiskach zagrożonych tąpaniami oraz do odpalania centralnego i grupowego.
 3. Wejście do przodka po odpaleniu ładunków materiałów wybuchowych osób innych niż osoba wykonująca roboty strzałowe jest dozwolone wyłącznie za zgodą tej osoby.
 4. Wejście w przypadkach, o których mowa w ust. 1–3, jest dozwolone wyłącznie po rozrzedzeniu gazów postrzałowych, nie wcześniej niż po upływie 5 minut od odpalenia ładunków materiałów wybuchowych.
@@ -553,6 +565,7 @@ b) 0,3 m w przypadku stosowania środków strzałowych skalnych.
 § 106. 1. Miejsca schronienia osób i stanowiska odpalania ładunków materiałów wybuchowych wyznacza się i przystosowuje w sposób zapewniający skuteczną ochronę przed rozrzutem odłamków, oberwaniem się skał oraz przed gazami postrzałowymi.
 2. W wyrobiskach korytarzowych miejsca i stanowiska, o których mowa w ust. 1, lokalizuje się w schronie, we wnęce lub za załamaniem wyrobiska; miejsca i stanowiska za załamaniem lokalizuje się w odległości co najmniej 10 m od naroża załamania.
 3. Miejsca i stanowiska, o których mowa w ust. 1 i 2, są wyznaczane pisemnie przez osobę dozoru ruchu górniczego nadzorującą roboty strzałowe.
+4. Schrony i wnęki zabezpiecza się przed odłamkami odbitymi.
 § 107. Obecność osób między miejscem odpalania ładunków materiału wybuchowego a posterunkami lub zagrodami zabezpieczającymi wejście do tego miejsca jest niedozwolona.
 § 108. 1. Likwidowanie niewypałów prowadzi się zgodnie z instrukcją zatwierdzoną przez kierownika ruchu.
 2. Niewypał likwiduje się przez wydobycie nabojów materiału wybuchowego z otworu strzałowego, z wyjątkiem materiałów wybuchowych nitroglicerynowych.
@@ -561,7 +574,7 @@ b) 0,3 m w przypadku stosowania środków strzałowych skalnych.
 2) stwierdzenie kierunku otworu strzałowego następuje przez usunięcie przybitki na długości nie większej niż 0,2 m od wylotu otworu;
 3) równoległy otwór strzałowy lub dwa otwory strzałowe o długości większej niż długość otworu z niewypałem wierci się w odległości 0,5 m od otworu z niewypałem.
 2. W trakcie robót strzałowych, o których mowa w § 91 ust. 2, dozwolone jest usuwanie niewypału przez:
-1) ponowne odpalenie w przypadku gdy są dostępne przewody zapalnika elektrycznego lub rurka detonująca zapalnika nieelektrycznego, albo
+1) ponowne odpalenie – w przypadku gdy są dostępne przewody zapalnika elektrycznego lub rurka detonująca zapalnika nieelektrycznego, albo
 2) umieszczenie w otworze, w którym wykryto niewypał, ładunku udarowego i jego odpalenie, w przypadku gdy otwór ten nie był zamknięty przybitką.
 3. Po odpaleniu ładunków materiałów wybuchowych kontroluje się odstrzelony urobek w celu odnalezienia środków strzałowych pochodzących z niewypału.
 § 110. Jeżeli do zainicjowania materiału wybuchowego zastosowano zapalnik i lont detonujący i nie nastąpiło odpalenie zapalników, niewypał znajdujący się w otworze strzałowym likwiduje się przez wymianę zapalnika przymocowanego do lontu detonującego i ponowne odpalenie ładunku materiału wybuchowego.
@@ -580,14 +593,14 @@ b) 0,3 m w przypadku stosowania środków strzałowych skalnych.
 § 116. Przy wykonywaniu nadsięwłomów odpalenie ładunku materiału wybuchowego jest dozwolone wyłącznie, gdy na pomoście roboczym znajduje się urobek.
 § 117. 1. W zakładach górniczych wydobywających węgiel kamienny wykonywanie robót strzałowych w celu wywołania zawału skał stropowych przy użyciu materiałów wybuchowych węglowych lub skalnych jest dozwolone pod warunkiem:
 1) usunięcia pyłu węglowego w promieniu 5 m od otworów strzałowych;
-2) zastosowania opylania pyłem kamiennym w promieniu 5 m od otworów strzałowych w przypadku gdy pył węglowy nie został zmyty wodą lub zabezpieczony przez wilgoć naturalną;
+2) zastosowania opylania pyłem kamiennym w promieniu 5 m od otworów strzałowych – w przypadku gdy pył węglowy nie został zmyty wodą lub zabezpieczony przez wilgoć naturalną;
 3) przeprowadzenia kontroli stanu zabezpieczenia przed wybuchem pyłu węglowego w wyrobisku oraz w chodnikach przyległych do tego wyrobiska.
 2. Kontrola, o której mowa w ust. 1 pkt 3, jest przeprowadzana przez osobę dozoru służby pyłowej:
 1) przed rozpoczęciem robót strzałowych;
-2) nie rzadziej niż co trzy dni w przypadku bieżącego wykonywania robót strzałowych.
+2) nie rzadziej niż co trzy dni – w przypadku bieżącego wykonywania robót strzałowych.
 § 118. 1. Inicjowanie ładunku materiału wybuchowego w długich otworach strzałowych odbywa się przy użyciu lontu detonującego.
 2. Konstrukcję ładunku materiału wybuchowego w długich otworach strzałowych określa dokumentacja strzałowa.
-3. Od stosowania lontu detonującego można odstąpić przy pneumatycznej metodzie ładowania otworów strzałowych emulsyjnym materiałem wybuchowym nabojowanym na warunkach określonych w opinii sporządzonej przez rzeczoznawcę.
+3. Od stosowania lontu detonującego można odstąpić przy pneumatycznej metodzie ładowania otworów strzałowych emulsyjnym materiałem wybuchowym – nabojowanym na warunkach określonych w opinii sporządzonej przez rzeczoznawcę.
 § 119. 1. Ładunki wielokolumnowe materiału wybuchowego w długich otworach strzałowych inicjuje się podwójną linią lontu detonującego.
 2. W zakładach górniczych wydobywających kopalinę niepalną w polach niemetanowych dopuszcza się inicjowanie ładunków, o których mowa w ust. 1, pojedynczą linią lontu detonującego, o masie rdzenia nie mniejszej niż 20 g pentrytu w 1 m lontu.
 3. W zakładach górniczych wydobywających węgiel kamienny ładunki jednokolumnowe materiału wybuchowego w długich otworach strzałowych o średnicy nie większej niż 45 mm inicjuje się pojedynczą linią lontu detonującego.
@@ -597,14 +610,15 @@ b) 0,3 m w przypadku stosowania środków strzałowych skalnych.
 § 121. 1. W przypadku zastosowania zapalników elektrycznych do odpalania ładunków materiału wybuchowego w długich otworach strzałowych, stosuje się wyłącznie zapalniki, których oporność mieści się w granicach dozwolonych dla zapalników danej klasy oraz tego samego rodzaju i tej samej długości przewodów zapalnikowych.
 2. W przypadku, o którym mowa w ust. 1, przed odpaleniem ładunku materiału wybuchowego mierzy się oporność obwodu strzałowego przyrządem kontrolno-pomiarowym.
 § 122. Przepisy § 118–121 stosuje się do otworów o długości większej niż:
-1) 10 m w przypadku zakładów górniczych wydobywających rudy metali;
+1) 10 m – w przypadku zakładów górniczych wydobywających rudy metali;
+2) 6 m – w przypadku zakładów górniczych innych niż wymienione w pkt 1.
 § 123. Lont detonujący stosuje się w przypadku robót strzałowych:
-1) z zastosowaniem ładunków rozdzielonych niezależnie od długości kolumny i otworów strzałowych;
-2) przy urabianiu wzdłużnym albo bocznym, otworami przelotowymi i ślepymi w przypadku gdy ich głębokość wynosi więcej niż 3 m;
-3) zruszających caliznę przed maszynami urabiającymi w przypadku gdy długość kolumny ładunku jest większa niż 1,5 m;
+1) z zastosowaniem ładunków rozdzielonych – niezależnie od długości kolumny i otworów strzałowych;
+2) przy urabianiu wzdłużnym albo bocznym, otworami przelotowymi i ślepymi – w przypadku gdy ich głębokość wynosi więcej niż 3 m;
+3) zruszających caliznę przed maszynami urabiającymi – w przypadku gdy długość kolumny ładunku jest większa niż 1,5 m;
 4) wstrząsowych w caliźnie węglowej pokładów zagrożonych tąpaniami lub torpedujących w otaczających je skałach;
 5) zruszająco-odgazowujących w pokładach zagrożonych wyrzutami gazów i skał;
-6) wymuszających zawał stropu wyrobisk eksploatacyjnych, niezależnie od rodzaju stosowanego materiału wybuchowego w przypadku gdy długość kolumny ładunku jest większa niż 1,5 m, bez względu na długość otworu.
+6) wymuszających zawał stropu wyrobisk eksploatacyjnych, niezależnie od rodzaju stosowanego materiału wybuchowego – w przypadku gdy długość kolumny ładunku jest większa niż 1,5 m, bez względu na długość otworu.
 § 124. 1. Odpalanie lontu detonującego na zewnątrz otworów strzałowych jest niedozwolone.
 2. W zakładach górniczych wydobywających kopaliny niepalne w polach niemetanowych, dozwolone jest odpalanie lontu detonującego na zewnątrz otworów strzałowych, na warunkach określonych przez kierownika ruchu.
 3. Lont detonujący stosuje się w miejscach wyznaczonych przez kierownika ruchu.
@@ -618,31 +632,31 @@ b) oporność obwodu strzałowego sprawdza się przeznaczonym do tego celu przyr
 § 126. Wykonywanie robót strzałowych w polach metanowych:
 1) zaliczonych do III i IV kategorii zagrożenia metanowego,
 2) w wyrobiskach korytarzowych prowadzonych po wzniosie większym niż 10°,
-3) we wszystkich przypadkach użycia materiałów wybuchowych skalnych i węglowych jest dozwolone po uzyskaniu zgody kierownika ruchu, który określa warunki bezpiecznego wykonywania tych robót.
+3) we wszystkich przypadkach użycia materiałów wybuchowych skalnych i węglowych – jest dozwolone po uzyskaniu zgody kierownika ruchu, który określa warunki bezpiecznego wykonywania tych robót.
 § 127. Przy wykonywaniu robót strzałowych w polach metanowych otwory strzałowe rozmieszcza się w sposób uniemożliwiający powstanie wyrw w stropie.
 § 128. 1. W polach metanowych w wyrobiskach, w których są wykonywane roboty strzałowe, dokonuje się pomiarów stężenia metanu w powietrzu.
 2. Pomiary stężenia metanu w powietrzu są przeprowadzane przez osoby wykonujące roboty strzałowe, metaniarzy i osoby dozoru ruchu górniczego, zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 120 ust. 1 ustawy.
 § 129. W przypadku stwierdzenia w wyrobisku stężenia metanu w powietrzu wynoszącego nie więcej niż:
-1) 0,5% roboty strzałowe mogą być wykonywane przy użyciu materiałów wybuchowych skalnych, węglowych, metanowych i metanowych specjalnych;
-2) 1% roboty strzałowe mogą być wykonywane przy użyciu materiałów wybuchowych metanowych i metanowych specjalnych, w przypadku zastosowania zapalarek z blokadą metanometryczną również przy użyciu materiałów wybuchowych skalnych i węglowych;
-3) 1,5% roboty strzałowe mogą być wykonywane przy użyciu materiałów wybuchowych metanowych specjalnych.
+1) 0,5% – roboty strzałowe mogą być wykonywane przy użyciu materiałów wybuchowych skalnych, węglowych, metanowych i metanowych specjalnych;
+2) 1% – roboty strzałowe mogą być wykonywane przy użyciu materiałów wybuchowych metanowych i metanowych specjalnych, w przypadku zastosowania zapalarek z blokadą metanometryczną również przy użyciu materiałów wybuchowych skalnych i węglowych;
+3) 1,5% – roboty strzałowe mogą być wykonywane przy użyciu materiałów wybuchowych metanowych specjalnych.
 § 130. 1. Roboty strzałowe wstrzymuje się w przypadku stwierdzenia w przekroju wyrobiska w odległości nie większej niż 10 m od otworów strzałowych lub w odległości nie większej niż 5 m od stanowiska odpalania ładunków materiału wybuchowego stężenia metanu w powietrzu przekraczającego wartość:
-1) 0,5% w przypadku wykonywania robót strzałowych przy użyciu materiałów wybuchowych skalnych i węglowych bez zastosowania zapalarek z blokadą metanometryczną;
-2) 1% w przypadku wykonywania robót strzałowych przy użyciu materiałów wybuchowych metanowych, a w przypadku zastosowania zapalarek z blokadą metanometryczną również przy użyciu materiałów wybuchowych skalnych i węglowych;
-3) 1,5% w przypadku wykonywania robót strzałowych przy użyciu materiałów wybuchowych metanowych specjalnych.
+1) 0,5% – w przypadku wykonywania robót strzałowych przy użyciu materiałów wybuchowych skalnych i węglowych bez zastosowania zapalarek z blokadą metanometryczną;
+2) 1% – w przypadku wykonywania robót strzałowych przy użyciu materiałów wybuchowych metanowych, a w przypadku zastosowania zapalarek z blokadą metanometryczną również przy użyciu materiałów wybuchowych skalnych i węglowych;
+3) 1,5% – w przypadku wykonywania robót strzałowych przy użyciu materiałów wybuchowych metanowych specjalnych.
 2. O wstrzymaniu robót strzałowych, o których mowa w ust. 1, informuje się:
 1) osobę dozoru ruchu górniczego;
 2) dyspozytora ruchu zakładu górniczego;
-3) dyspozytora metanometrii w przypadku stosowania metanometrii automatycznej.
+3) dyspozytora metanometrii – w przypadku stosowania metanometrii automatycznej.
 3. Wznowienie robót strzałowych następuje po stwierdzeniu przez osobę dozoru ruchu górniczego usunięcia zagrożeń, o których mowa w ust. 1.
 § 131. W przypadku stężenia metanu w powietrzu wynoszącego więcej niż 0,5% w polach metanowych przy wykonywaniu robót strzałowych:
 1) w górnych wnękach ścianowych,
 2) wymuszających zawał stropu w ścianach,
 3) w wyrobiskach korytarzowych o wzniosie większym niż 10°,
-4) przy zaburzeniach geologicznych w ścianach i ubierkach stosuje się wyłącznie do tego celu przeznaczone urządzenia służące do odpalania ładunków materiałów wybuchowych oraz linię strzałową w jednym odcinku mającą dwa przewody we wspólnej izolacji, z wyjątkiem przewodów przodkowych o długości nie większej niż 10 m.
+4) przy zaburzeniach geologicznych w ścianach i ubierkach – stosuje się wyłącznie do tego celu przeznaczone urządzenia służące do odpalania ładunków materiałów wybuchowych oraz linię strzałową w jednym odcinku mającą dwa przewody we wspólnej izolacji, z wyjątkiem przewodów przodkowych o długości nie większej niż 10 m.
 § 132. W przypadku stosowania do robót strzałowych wykonywanych w polach metanowych zapalników elektrycznych metanowych milisekundowych, w sąsiednich otworach strzałowych stosuje się zwłokę międzystrzałową wynoszącą nie więcej niż:
-1) 60 ms w skale jednorodnej;
-2) 90 ms w skale niejednorodnej.
+1) 60 ms – w skale jednorodnej;
+2) 90 ms – w skale niejednorodnej.
 § 133. 1. W warunkach zagrożenia wybuchem pyłu węglowego przodek i strefę przyprzodkową:
 1) zmywa się wodą albo
 2) zrasza się wodą przed odpaleniem ładunku materiału wybuchowego, albo
@@ -650,15 +664,15 @@ b) oporność obwodu strzałowego sprawdza się przeznaczonym do tego celu przyr
 2. Czynności, o których mowa w ust. 1, są wykonywane przez osobę wykonującą roboty strzałowe.
 § 134. 1. Zmywanie wodą pyłu węglowego w wyrobiskach korytarzowych drążonych w warunkach zagrożenia wybuchem pyłu węglowego wykonuje się w przodku i w strefie przyprzodkowej o długości nie mniejszej niż 10 m:
 1) przed rozpoczęciem pracy na zmianie;
-2) w trakcie pracy w przypadku wystąpienia osadu pyłu węglowego;
+2) w trakcie pracy – w przypadku wystąpienia osadu pyłu węglowego;
 3) przed rozpoczęciem wykonywania robót strzałowych.
 2. W wyrobiskach korytarzowych, o których mowa w ust. 1, zamiast zmywania pyłu węglowego wodą dozwolone jest stosowanie zraszania wodą.
 3. Zraszanie wodą w celu pozbawienia pyłu lotności stosuje się w strefie nie mniejszej niż 10 m i nie większej niż 60 m od przodka.
 § 135. 1. W polach niemetanowych i w polach zaliczonych do I lub II kategorii zagrożenia metanowego, przy robotach strzałowych wykonywanych w warunkach zagrożenia wybuchem pyłu węglowego, zamiast zmywania lub zraszania wodą pyłu węglowego w drążonych wyrobiskach korytarzowych dozwolone jest zastosowanie, za zgodą kierownika ruchu, opylania pyłem kamiennym przodka i strefy przyprzodkowej o długości nie mniejszej niż 4 m.
 2. W przypadku, o którym mowa w ust. 1, ilość pyłu zużytego do opylania na otwór strzałowy wynosi:
-1) 2 kg w polach niemetanowych;
-2) 3 kg w polach metanowych;
-3) 10 kg przy pojedynczo odpalanych ładunkach materiału wybuchowego.
+1) 2 kg – w polach niemetanowych;
+2) 3 kg – w polach metanowych;
+3) 10 kg – przy pojedynczo odpalanych ładunkach materiału wybuchowego.
 § 136. W wyrobiskach wybierkowych, w warunkach zagrożenia wybuchem pyłu węglowego, stosuje się zmywanie wodą pyłu węglowego lub opylanie pyłem kamiennym przodka i strefy przodkowej przed wykonywaniem robót strzałowych:
 1) wymuszających zawał stropu w ścianach materiałami wybuchowymi węglowymi lub skalnymi;
 2) w chodnikach podsadzkowych;
@@ -679,7 +693,7 @@ b) oporność obwodu strzałowego sprawdza się przeznaczonym do tego celu przyr
 § 143. 1. W wyrobiskach zagrożonych wyrzutami gazów i skał, po wycofaniu osób ze strefy zagrożenia skutkami wyrzutu, roboty strzałowe wykonuje się metodą odpalania centralnego w sposób określony przez kierownika ruchu.
 2. W wyrobiskach, w pokładach zaliczonych do I kategorii zagrożenia wyrzutami gazów i skał, lokalne wykonywanie robót strzałowych jest dozwolone na warunkach określonych przez kierownika ruchu:
 1) w przypadku przebudowy wyrobisk korytarzowych, wykonywania robót przybierkowych i ścieków;
-2) w ścianach przy urabianiu jeżeli bieżąca prognoza na podstawie pomiarów dokonanych w otworach o długości 6 m nie wykazuje strefy bezpośredniego zagrożenia;
+2) w ścianach przy urabianiu – jeżeli bieżąca prognoza na podstawie pomiarów dokonanych w otworach o długości 6 m nie wykazuje strefy bezpośredniego zagrożenia;
 3) w ścianach przy wykonywaniu robót strzałowych wymuszających zawał stropu w ścianach;
 4) w przypadku rozsadzania luźnych brył.
 3. Przepisu ust. 1 nie stosuje się w przypadkach, o których mowa w § 144.
@@ -696,6 +710,8 @@ b) oporność obwodu strzałowego sprawdza się przeznaczonym do tego celu przyr
 2) rozstrzeliwania rdzeni wiertniczych;
 3) rozstrzeliwania luźnych brył.
 § 146. 1. Do wykonywania robót strzałowych na powierzchni podziemnych zakładów górniczych stosuje się odpowiednio przepisy rozdziału 7.
+2. Roboty strzałowe, o których mowa w ust. 1, są nadzorowane przez kierownika działu techniki strzałowej.
+§ 147. 1. Roboty strzałowe wykonywane metodą długich otworów strzałowych wykonuje się pod nadzorem kierownika odstrzału wyznaczonego przez kierownika ruchu.
 2. Kierownik odstrzału ma przygotowanie i doświadczenie zawodowe osoby dozoru ruchu górniczego oraz ukończony kurs specjalistyczny kierownika strzelania długimi otworami.
 § 148. 1. Wokół miejsca wykonywania robót strzałowych wyznacza się strefy zagrożenia powietrzną falą uderzeniową, rozrzutem odłamków skalnych i drganiami parasejsmicznymi górotworu w sposób określony w załączniku nr 4 do rozporządzenia, w których obrębie zapewnia się bezpieczeństwo osób i ochronę mienia przed skutkami robót strzałowych.
 2. Wewnątrz strefy zagrożenia rozrzutem odłamków skalnych urządza się odrębne schrony o odpowiedniej wielkości i wytrzymałości na uderzenia odłamków, przeznaczone do ochrony osób znajdujących się w tej strefie, w szczególności osób wykonujących i nadzorujących roboty strzałowe.
@@ -705,7 +721,7 @@ b) oporność obwodu strzałowego sprawdza się przeznaczonym do tego celu przyr
 4. W przypadku wykonywania robót strzałowych po zapadnięciu zmroku oprócz akustycznych sygnałów ostrzegawczych stosuje się także widoczne w strefie zagrożenia rozrzutem odłamków skalnych sygnały optyczne o odpowiedniej częstotliwości i długości błysków.
 § 150. Podczas wiercenia otworów strzałowych:
 1) zabezpiecza się wiertnicę przed możliwością samoczynnego przesuwania się;
-2) stosuje się odpowiednio zakotwiczone bariery zabezpieczające w przypadku gdy wiertnica nie jest wyposażona w urządzenie do automatycznego podawania żerdzi;
+2) stosuje się odpowiednio zakotwiczone bariery zabezpieczające – w przypadku gdy wiertnica nie jest wyposażona w urządzenie do automatycznego podawania żerdzi;
 3) zabezpiecza się odwiercony otwór przed zalaniem lub zasypaniem;
 4) dokumentuje się zaburzenia geologiczne i inne zjawiska mogące mieć wpływ na bezpieczeństwo w trakcie wykonywania robót strzałowych w sposób określony przez kierownika ruchu.
 § 151. 1. Przed rozpoczęciem ładowania środków strzałowych do otworów strzałowych zabezpiecza się obiekty, maszyny i urządzenia znajdujące się w strefie zagrożenia rozrzutem odłamków skalnych.
@@ -729,10 +745,11 @@ b) oporność obwodu strzałowego sprawdza się przeznaczonym do tego celu przyr
 2. Przedsiębiorca informuje o czasie odpalania ładunku materiału wybuchowego oraz o znaczeniu sygnałów ostrzegawczych przez ogłoszenie na tablicach ostrzegawczych umieszczonych poza strefą zagrożenia rozrzutem odłamków skalnych, w szczególności przy drogach i innych dojściach do tej strefy.
 3. Właściwy miejscowo organ samorządu terytorialnego jest zawiadamiany przez przedsiębiorcę o miejscu, terminie i czasie wyznaczonym do odpalania ładunków materiału wybuchowego.
 § 162. 1. W związku z odpalaniem ładunku materiału wybuchowego nadaje się w strefie zagrożenia rozrzutem odłamków skalnych następujące ostrzegawcze sygnały akustyczne:
-1) sygnał pierwszy jeden ciągły ton, oznaczający „uprzedzenie”, nadawany po ukończeniu ładowania materiałów wybuchowych, ale przed wykonaniem obwodu strzałowego; na ten sygnał osoby niewykonujące czynności odpalania udają się do schronów lub poza strefę zagrożenia rozrzutem odłamków skalnych, a osoby wchodzące w skład posterunków zabezpieczających zajmują wyznaczone stanowiska;
-2) sygnał drugi dwa ciągłe, bezpośrednio po sobie następujące tony, oznaczający „przygotowanie do odpalania”, nadawany po stwierdzeniu wycofania osób niewykonujących czynności odpalania do schronów lub poza strefę zagrożenia rozrzutem odłamków skalnych oraz po stwierdzeniu zajęcia wyznaczonych stanowisk przez osoby wchodzące w skład posterunków zabezpieczających; na ten sygnał osoba wykonująca roboty strzałowe przygotowuje się do zapalania lontów lub bada opór obwodu strzałowego, a następnie przyłącza urządzenie odpalające do linii strzałowej;
-3) sygnał trzeci jeden krótki ton, oznaczający „odpalanie”, nadawany tuż przed zapaleniem lontów albo uruchomieniem urządzenia odpalającego;
-4) sygnał czwarty trzy ciągłe, bezpośrednio po sobie następujące tony, oznaczający „odwołanie”, nadawany po upewnieniu się, że ładunki materiału wybuchowego odpaliły, jednak nie wcześniej niż po upływie 5 minut od odpalenia; na ten sygnał osoby wchodzące w skład posterunków zabezpieczających mogą opuścić wyznaczone stanowiska wcześ2. Polecenia nadawania sygnałów, o których mowa w ust. 1, są wydawane przez osobę wykonującą roboty strzałowe.
+1) sygnał pierwszy – jeden ciągły ton, oznaczający „uprzedzenie”, nadawany po ukończeniu ładowania materiałów wybuchowych, ale przed wykonaniem obwodu strzałowego; na ten sygnał osoby niewykonujące czynności odpalania udają się do schronów lub poza strefę zagrożenia rozrzutem odłamków skalnych, a osoby wchodzące w skład posterunków zabezpieczających zajmują wyznaczone stanowiska;
+2) sygnał drugi – dwa ciągłe, bezpośrednio po sobie następujące tony, oznaczający „przygotowanie do odpalania”, nadawany po stwierdzeniu wycofania osób niewykonujących czynności odpalania do schronów lub poza strefę zagrożenia rozrzutem odłamków skalnych oraz po stwierdzeniu zajęcia wyznaczonych stanowisk przez osoby wchodzące w skład posterunków zabezpieczających; na ten sygnał osoba wykonująca roboty strzałowe przygotowuje się do zapalania lontów lub bada opór obwodu strzałowego, a następnie przyłącza urządzenie odpalające do linii strzałowej;
+3) sygnał trzeci – jeden krótki ton, oznaczający „odpalanie”, nadawany tuż przed zapaleniem lontów albo uruchomieniem urządzenia odpalającego;
+4) sygnał czwarty – trzy ciągłe, bezpośrednio po sobie następujące tony, oznaczający „odwołanie”, nadawany po upewnieniu się, że ładunki materiału wybuchowego odpaliły, jednak nie wcześniej niż po upływie 5 minut od odpalenia; na ten sygnał osoby wchodzące w skład posterunków zabezpieczających mogą opuścić wyznaczone stanowiska wcześniej, a pozostałe osoby znajdujące się na terenie zakładu górniczego mogą opuścić schrony.
+2. Polecenia nadawania sygnałów, o których mowa w ust. 1, są wydawane przez osobę wykonującą roboty strzałowe.
 3. Sposób wydawania i realizowania poleceń nadania sygnałów, o których mowa w ust. 1, jest określany przez kierownika ruchu.
 4. Od rozpoczęcia nadawania pierwszego sygnału do zakończenia nadawania czwartego sygnału, o których mowa w ust. 1:
 1) wstrzymuje się ruch w strefie zagrożenia rozrzutem odłamków skalnych;
@@ -759,7 +776,7 @@ b) oporność obwodu strzałowego sprawdza się przeznaczonym do tego celu przyr
 1) przygotowania odcinków lontu o potrzebnej długości przed ich umieszczeniem w otworach strzałowych;
 2) użycia w tej samej sieci lontów jednego rodzaju, pochodzących od tego samego producenta;
 3) nietworzenia przez sieć strzałową pętli;
-4) zachowani a odstępów między lontami lub liniami równoległymi, wynoszących nie mniej niż 0,2 m w przypadku krzyżowania się lontów lub układania linii równoległych;
+4) zachowania odstępów między lontami lub liniami równoległymi, wynoszących nie mniej niż 0,2 m – w przypadku krzyżowania się lontów lub układania linii równoległych;
 5) zgodności masy ładunku materiału wybuchowego opuszczanego na loncie do otworu strzałowego z masą określoną przez producenta lontu i nieprzekraczającą 500 g;
 6) nieużycia spłonek do inicjowania lontów;
 7) wykonania połączeń lontów na nakładkę na odcinku nie krótszym niż 0,2 m i zabezpieczenia ich taśmą izolacyjną;
@@ -789,20 +806,21 @@ b) oporność obwodu strzałowego sprawdza się przeznaczonym do tego celu przyr
 2. Wykonując roboty strzałowe ładunkami materiałów wybuchowych, które są nakładane lub podkładane pod luźnymi bryłami, likwidacji niewypału dokonuje się przez ręczne usunięcie przybitki, umieszczenie dodatkowego ładunku materiału wybuchowego, ponowne wykonanie przybitki i odpalenie tego ładunku.
 3. W przypadku wykonywania robót strzałowych rozszczepkowych niewypał likwiduje się przez założenie i odstrzelenie ładunku materiału wybuchowego nakładanego wprost na wylot otworu.
 § 176. 1. Roboty strzałowe prowadzone z użyciem zapalników elektrycznych wykonuje się, jeżeli odległość wykonywania tych robót od energetycznych linii napowietrznych wysokiego napięcia i przewodów trakcyjnych kolei elektrycznej jest większa niż:
-1) 300 m w przypadku zapalników elektrycznych klasy 0,2 A;
-2) 200 m w przypadku zapalników elektrycznych klasy 0,45 A;
-3) 100 m w przypadku zapalników elektrycznych klasy 2 A.
+1) 300 m – w przypadku zapalników elektrycznych klasy 0,2 A;
+2) 200 m – w przypadku zapalników elektrycznych klasy 0,45 A;
+3) 100 m – w przypadku zapalników elektrycznych klasy 2 A.
 2. W przypadku konieczności wykonywania robót strzałowych w odległościach mniejszych niż określone w ust. 1 stosuje się:
 1) dodatkowe środki bezpieczeństwa określone w opinii sporządzonej przez rzeczoznawcę i zatwierdzone przez kierownika ruchu lub
 2) zapalniki nieelektryczne lub elektroniczne.
 § 177. 1. Specjalistyczne roboty strzałowe wykonuje się pod bezpośrednim nadzorem kierownika działu techniki strzałowej lub jego zastępcy.
 2. Rodzaje robót strzałowych zaliczonych do specjalistycznych robót strzałowych są określane przez kierownika ruchu.
 § 178. Do wykonywania robót strzałowych w podziemnych wyrobiskach górniczych odkrywkowych zakładów górniczych stosuje się odpowiednio przepisy rozdziału 6.
+§ 179. Wokół miejsca prowadzenia robót strzałowych wyznacza się strefy zagrożenia: powietrzną falą uderzeniową, rozrzutem odłamków skalnych i drganiami parasejsmicznymi górotworu w sposób określony w załączniku nr 4 do rozporządzenia, w których obrębie zapewnia się bezpieczeństwo osób i ochronę mienia przed skutkami robót strzałowych.
 § 180. Zbrojenie sprzętu środkami strzałowymi, sprawdzanie obwodu elektrycznego i demontaż sprzętu po odstrzeleniu ładunku materiału wybuchowego są wykonywane na oddzielnym stanowisku wyłącznie przez osobę wykonującą roboty strzałowe.
 § 181. Przygotowanie i zbrojenie perforatorów, torped, generatorów ciśnienia i innych ładunków materiałów wybuchowych oraz usuwanie ich niewypałów odbywa się zgodnie ze szczegółowymi instrukcjami wykonywania tych robót, pozytywnie zaopiniowanymi przez rzeczoznawcę i zatwierdzonymi przez kierownika ruchu.
 § 182. 1. Roboty strzałowe w odwiercie wykonuje się:
-1) w przypadku wypływu płynu z użyciem śluzy, która posiada uszczelnienie na kabel geofizyczny;
-2) w przypadku braku wypływu płynu bez użycia śluzy, o której mowa w pkt 1.
+1) w przypadku wypływu płynu – z użyciem śluzy, która posiada uszczelnienie na kabel geofizyczny;
+2) w przypadku braku wypływu płynu – bez użycia śluzy, o której mowa w pkt 1.
 2. Kierownik ruchu zakładu górniczego może podjąć decyzję o użyciu śluzy w przypadku, o którym mowa w ust. 1 pkt 2.
 § 183. Urządzenia stanowiące wyposażenie grupy robót strzałowych oraz zespoły urządzenia wiertniczego uziemia się.
 § 184. Przed rozpoczęciem wykonywania robót strzałowych:
@@ -820,11 +838,13 @@ b) oporność obwodu strzałowego sprawdza się przeznaczonym do tego celu przyr
 3) drożność rur otworu wiertniczego wraz z interwałem perforacji lub torpedowania.
 2. Czynności, o których mowa w ust. 1, są wykonywane przez osobę dozoru nadzorującą roboty strzałowe określone w ust. 1.
 § 191. Środki strzałowe wykorzystywane w trakcie wydobywania kopalin i wykonywania robót geologicznych przechowuje się w miejscu wykonywania robót strzałowych:
-1) w granicach obszarów morskich Rzeczypospolitej Polskiej na morskiej jednostce;
-2) na lądzie w ruchomych składach materiałów wybuchowych.
+1) w granicach obszarów morskich Rzeczypospolitej Polskiej – na morskiej jednostce;
+2) na lądzie – w ruchomych składach materiałów wybuchowych.
 § 192. Do wykonywania robót strzałowych poza otworami wiertniczymi lub odwiertami stosuje się odpowiednio przepisy rozdziału 7.
+§ 193. Wzory dokumentów ewidencji stosowane przed dniem wejścia w życie rozporządzenia mogą być stosowane przez okres 6 miesięcy od dnia wejścia w życie rozporządzenia.
 § 194. Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.
-Minister Energii: K. Tchórzewski SZCZEGÓŁOWE ZASADY PRZECHOWYWANIA ŚRODKÓW STRZAŁOWYCH I SPRZĘTU STRZAŁOWEGO W SKŁADACH MATERIAŁÓW WYBUCHOWYCH CH I PRZĘT STRZAŁOWEGO W SKŁADACH MATERIAŁÓW WYBUCHOWYCH
+Minister Energii: K. Tchórzewski Załączniki do rozporządzenia Ministra Energii z dnia 9 listopada 2016 r.
+(poz.........) Załącznik nr 1 SZCZEGÓŁOWE ZASADY PRZECHOWYWANIA ŚRODKÓW STRZAŁOWYCH SZCZEGÓŁOWE I SPRZĘTU ZASADY STRZAŁOWEGO PRZECHOWYWANIA W SKŁADACH ŚRODKÓW MATERIAŁÓW STRZAŁOWYCH I WYBUCHOWYCH SPRZĘTU STRZAŁOWEGO W SKŁADACH MATERIAŁÓW WYBUCHOWYCH
 1. Środki strzałowe przechowuje się w składach materiałów wybuchowych zlokalizowanych w miejscach zabezpieczonych przed zagrożeniami górniczymi i wyładowaniami atmosferycznymi; składy te lokalizuje się w takiej odległości od siebie, aby ewentualny wybuch środków strzałowych w jednym składzie nie mógł spowodować wybuchu w innym składzie.
 2. Przechowywanie środków strzałowych i sprzętu strzałowego w naziemnych, ruchomych oraz wgłębnych składach materiałów wybuchowych.
 2.1. Naziemne składy materiałów wybuchowych lokalizuje się w miejscach: suchych i nienarażonych na zalanie w trakcie powodzi;
@@ -879,8 +899,8 @@ maksymalna pojemność składu nie może być większa niż 50000 kg materiałó
 2) IV ‒ o wysokości 1,5 m powyżej szczytu dachu;
 3) V do VIII ‒ o wysokości 2,0 m powyżej szczytu dachu.
 2.10. Szerokość obwałowania w koronie wynosi dla składów materiałów wybuchowych klasy:
-1) I-IV nie mniej niż 1 m;
-2) V-VIII nie mniej niż 1,5 m.
+1) I-IV – nie mniej niż 1 m;
+2) V-VIII – nie mniej niż 1,5 m.
 2.11. Odległość ścian składu od podstawy wału wynosi od 1 m do 3 m.
 2.12. Między podstawą wału a składem znajdują się rowy odwadniające lub instalacja kanalizacyjna, umożliwiające odprowadzenie wody poza obręb wału. Przestrzeń między podstawą wału a składem jest utrzymywana w czystości. Używanie tej przestrzeni do składowania próżnego opakowania lub do innych celów jest niedozwolone. Dojście przez obwałowanie prowadzi po linii łamanej lub jest chronione od zewnątrz odrębnym wałem (wał czołowy), zasłaniającym otwór wejściowy. Wał czołowy jest:
 1) wykonany w odległości od 1 m do 3 m, licząc między podstawami wału;
@@ -965,11 +985,11 @@ Każda szafka pancerna jest uziemiona.
 7.8. Jeżeli w jednej komorze składowej są przechowywane różne materiały wybuchowe lub pobudzacze wybuchowe i lonty detonujące, oddziela się je od siebie przegrodą albo przechowuje na odrębnej półce.
 7.9. Lonty prochowe i zapalniki proste oraz proch bezdymny mogą być przechowywane w magazynach materiałów na powierzchni, w oddziałach przeznaczonych do przechowywania materiałów łatwopalnych.
 7.10. W naziemnych stałych i tymczasowych składach materiałów wybuchowych dozwolone jest przechowywanie następujących ilości materiałów wybuchowych:
-1) w składach materiałów wybuchowych stałych, stanowiących jeden obiekt lub zespół budynków wolno stojących do 50000 kg;
+1) w składach materiałów wybuchowych stałych, stanowiących jeden obiekt lub zespół budynków wolno stojących – do 50000 kg;
 2) w składach materiałów wybuchowych stałych:
-a) w postaci szafek pancernych od 100 kg do 250 kg materiałów wybuchowych, w zależności od rozmiarów szafki,
-b) w zespole szafek do 500 kg;
-3) w składach materiałów wybuchowych tymczasowych, w postaci szafek pancernych lub szafek opancerzonych (drewnianych obitych blachą) do 500 kg materiałów wybuchowych.
+a) w postaci szafek pancernych – od 100 kg do 250 kg materiałów wybuchowych, w zależności od rozmiarów szafki,
+b) w zespole szafek – do 500 kg;
+3) w składach materiałów wybuchowych tymczasowych, w postaci szafek pancernych lub szafek opancerzonych (drewnianych obitych blachą) – do 500 kg materiałów wybuchowych.
 7.11. W naziemnych ruchomych składach materiałów wybuchowych, ilość materiałów wybuchowych określa decyzja dopuszczająca typ ruchomego składu, wydana na podstawie art.113 ust. 2 ustawy.
 7.12. W naziemnych składach materiałów wybuchowych spłonki oraz zapalniki umieszcza się w odrębnej komorze, z zachowaniem odległości od miejsca przechowywania materiałów wybuchowych, obliczonej według wzoru: I = 0,06 gdzie poszczególne symbole oznaczają: I - odległość wyrażoną w metrach, n - ilość zapalników lub spłonek.
 7.13. W składach materiałów wybuchowych klasy IV-VIII typu zespołowego (komory obok siebie) środki inicjujące są przechowywane wyłącznie w oddzielnej obwałowanej komorze, w odległości co najmniej 30 m od komór składowych materiałów wybuchowych, licząc tę odległość od ścian zewnętrznych komór składowych dla materiałów wybuchowych do ścian komory na środki inicjujące.
@@ -986,8 +1006,8 @@ b) w zespole szafek do 500 kg;
 7.22. W przypadku dokonywania napraw w składzie materiałów wybuchowych, środki strzałowe usuwa się z miejsca naprawy do odpowiednio zabezpieczonego miejsca.
 7.23. W trakcie wykonywania robót spawalniczych w składzie materiałów wybuchowych znajdujące się tam środki strzałowe usuwa się ze składu na okres wykonywania tych robót.
 7.24. W składzie materiałów wybuchowych umieszcza się środki gaśnicze w przypadku:
-1) podziemnych zakładów górniczych zgodnie z przepisami wydanymi na podstawie art. 120 ust. 1 ustawy;
-2) odkrywkowych zakładów górniczych i zakładów górniczych wydobywających kopaliny otworami wiertniczymi zgodnie z przepisami dotyczącymi ochrony przeciwpożarowej.
+1) podziemnych zakładów górniczych – zgodnie z przepisami wydanymi na podstawie art. 120 ust. 1 ustawy;
+2) odkrywkowych zakładów górniczych i zakładów górniczych wydobywających kopaliny otworami wiertniczymi – zgodnie z przepisami dotyczącymi ochrony przeciwpożarowej.
 7.25. Wydawca środków strzałowych odbiera i oddaje klucze od składu materiałów wybuchowych: naziemnego, wgłębnego, i ich komór oraz klucze od bram w ogrodzeniu, w miejscu i w sposób ustalony w uzgodnieniu z właściwymi organami Policji.
 7.26. Kierownik ruchu przechowuje rezerwowe klucze w opieczętowanej kopercie w kasie pancernej.
 7.27. Strzałowy lub wydawca środków strzałowych, wyznaczony na każdej zmianie przez kierownika ruchu, przechowuje klucze od podręcznych składów materiałów wybuchowych.
@@ -1008,10 +1028,30 @@ b) w zespole szafek do 500 kg;
 2) komory wydawczej, wydawania środków strzałowych w przedsionku tej komory oraz dwóch chodników dojściowych, przez zastosowanie jednego chodnika przedzielonego siatką do wysokości 1,5 m;
 3) dwukrotnego załamania chodnika dojściowego, przez zastosowanie pojedynczego załamania.
 7.35. Zmiany, o których mowa w pkt 7.34, są wprowadzane przez kierownika ruchu.
-Wzór 1 str. 1 Nazwa zakładu górniczego ………….................. Skład materiałów wybuchowych (MW) ………………………………..
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Przechowywanie środków strzałowych i sprzętu strzałowego
+
+#### Rozdział 3 Przewożenie i przenoszenie środków strzałowych i sprzętu strzałowego
+
+#### Rozdział 4 Rodzaje, sposoby i wzory ewidencji środków strzałowych
+
+#### Rozdział 5 Używanie środków strzałowych i sprzętu strzałowego do robót strzałowych
+
+#### Rozdział 6 Szczegółowe wymagania dotyczące używania środków strzałowych i sprzętu strzałowego w podziemnych zakładach górniczych
+
+#### Rozdział 7 Szczegółowe wymagania dotyczące używania środków strzałowych i sprzętu strzałowego w odkrywkowych zakładach górniczych
+
+#### Rozdział 8 Szczegółowe wymagania dotyczące używania środków strzałowych i sprzętu strzałowego w zakładach górniczych wydobywających kopaliny otworami wiertniczymi
+
+#### Rozdział 9 Przepis przejściowy i przepis końcowy
+
+## Załącznik nr 2 — WZORY DOKUMENTÓW EWIDENCJI ORAZ WZORY DOKUMENTÓW SPOSÓB EWIDENCJI ICH WYPEŁNIANIA ORAZ SPOSÓB ICH WYPEŁNIANIA Wzór 1 str. 1 Nazwa zakładu górniczego ………….................. Skład materiałów wybuchowych (MW) ………………………………..
+
 (nazwa składu MW) w........................................................
 (miejscowość, w której znajduje się zakład górniczy) KSIĄŻKA nr.................
-obrotu środkami strzałowymi składu materiałów wybuchowych (MW) Zatwierdzam WZORY DOKUMENTÓW EWIDENCJI ORAZ SPOSÓB ICH WYPEŁNIANIA KARTA DOSTAW ŚRODKÓW STRZAŁOWYCH - książka obrotu środkami strzałowymi składu materiałów wybuchowych (MW) Karta nr ..............
+obrotu środkami strzałowymi składu materiałów wybuchowych (MW) Zatwierdzam KARTA DOSTAW ŚRODKÓW STRZAŁOWYCH - książka obrotu środkami strzałowymi składu materiałów wybuchowych (MW) Karta nr ..............
 KARTA OBROTU ŚRODKAMI STRZAŁOWYMI - książka obrotu środkami strzałowymi.
 Nr karty ...................
 Sposób wypełniania książki obrotu środkami strzałowymi:
@@ -1082,7 +1122,7 @@ Rodzaj posiadanego uprawnienia .................................................
 (l.dz. i data uzyskania) ..............................................................................................
 (podpis i pieczątka wystawiającego dziennik) Data wydania dziennika ........................................
 Data zakończenia dziennika (zwrotu) ..........................................
-zawiera …. …..numerowanych kart Wzór 2 str. 2 Data ................ Zmiana .................
+Dziennik zawiera …. …..numerowanych kart Wzór 2 str. 2 Data ................ Zmiana .................
 ZAPOTRZEBOWANIE Ilość środków strzałowych Zapalniki Inne środki strzałowe Nazwa materiału ............................ szt. .....................................
 wybuchowego ................................ kg .....................................
 (podpis zamawiającego) WYDANO W SKŁADZIE Środki inicjujące Materiał wybuchowy ...............................
@@ -1091,7 +1131,8 @@ Wpis w książce obrotu nr ..... str. ...... lp. .........
 Podpis wydawcy ...........................................................
 Uwagi kontrolującego: ......................................
 (podpis kontrolującego) Wzór 2 str. 3
-Liczba otworó w Zapalniki Inne środki Liczba naboi w sztukach szt. strzałowe Zawartość CH4 Godzina Pozostało pomiaru z poprzedniej zmiany Otrzymano Razem Roboty strzałowe Razem zużyto ------- ------Pozostało do _______ _______ przeniesienia Uwagi strzałowego: ..................................
+Oddział ....................... nr przodka lub łamu, poziomu.................
+Liczba Zapalniki Inne środki Liczba naboi w sztukach otworó szt. strzałowe w Zawar- Godzina Pozostało tość pomiaru z poprzedniej CH4 zmiany Otrzymano Razem Roboty strzałowe Razem zużyto ------- ------Pozostało do _______ _______ przeniesienia Uwagi strzałowego: ..................................
 (podpis strzałowego) Sposób wypełniania dziennika strzałowego:
 1. Wpisów w dzienniku strzałowym dokonują:
 1) kierownik działu techniki strzałowej, wystawiając nowy dziennik strzałowy, przez wypełnienie jego strony tytułowej,
@@ -1108,17 +1149,17 @@ DZIENNIK STRZAŁOWY Imię i nazwisko ...........................................
 Rodzaj posiadanego uprawnienia .......................................................................................................
 (l. dz. i data otrzymania uprawnienia)……………………………… Data wydania dziennika .................................
 Data zakończenia dziennika (zwrotu) .........................
-zawiera …. numerowanych kart ...............................................................................................................................................................
+Dziennik zawiera …. numerowanych kart ...............................................................................................................................................................
 (pieczęć, data i podpis kierownika działu techniki strzałowej) Wzór 3 str. 2 DZIENNIK STRZAŁOWY Nr .........................
 Grupa sejsmiczna (Zespół) Nr ..........................
 nazwisko i imię strzałowego Roboty strzałowe (zużycie) .......................................................
-miejscowość i data Z przeniesienia Metodyka objaśnienia: 1. SMP pomiar strefy małych prędkości sonda.
-2. MSK mikrosejsmoprofilowanie. 3.
-SŁP roboty strzałowe w jednym otworze ładunkiem pojedynczym. 4.
-PLGO profilowo -liniowe grupowanie otworów. 5. PGŁ pionowe grupowanie ładunków. 6. PPGŁ - pionowo-poziome grupowanie ładunków. 7. MSP - masowe sondowanie przestrzenne. 8. PWLD powierzchniowe wzbudzanie lontem detonującym. 9. P - perforacja. 10. T torpedowanie. 11 . Sz. -szczelinowanie.
+miejscowość i data Z przeniesienia Metodyka – objaśnienia: 1. SMP Uwagi strzałowego Uwagi osób kontrolujących pomiar strefy małych prędkości – sonda.
+2. MSK – mikrosejsmoprofilowanie. 3.
+SŁP – roboty strzałowe w jednym otworze ładunkiem pojedynczym. 4.
+PLGO – profilowo -liniowe grupowanie (data i podpis) (data i podpis) otworów. 5. PGŁ – pionowe grupowanie ładunków. 6. PPGŁ - pionowo-poziome grupowanie ładunków. 7. MSP - masowe sondowanie przestrzenne. 8. PWLD – powierzchniowe wzbudzanie lontem detonującym. 9. P - perforacja. 10. T torpedowanie. 11 . Sz. -szczelinowanie.
 12. Pobieranie prób skał i medium. 13.
 Hydroperforacja. 14. Ucinanie rur. 15.
-Inne Uwagi strzałowego (data i podpis) Uwagi osób kontrolujących (data i podpis) Sposób wypełniania dziennika strzałowego:
+Inne Sposób wypełniania dziennika strzałowego:
 1. Wpisów w dzienniku strzałowym dokonują:
 1) kierownik działu techniki strzałowej przez wypełnienie karty tytułowej;
 2) osoby dozoru ruchu uprawnione do zamawiania środków strzałowych przez wypełnienie rubryki „zapotrzebowanie”;
@@ -1132,44 +1173,46 @@ c) wpisywanie w rubryce „uwagi strzałowego” wszystkich uwag dotyczących wy
 2. Wszelkie adnotacje osób dokonujących kontroli są zaopatrywane datą i godziną przeprowadzenia kontroli oraz własnoręcznym czytelnym podpisem.
 3. Po wykorzystaniu dziennika strzałowego przez osobę wykonującą roboty strzałowe kierownik działu techniki strzałowej wydaje nowy dziennik z opisaną stroną tytułową, a wydawca nanosi w nowym dzienniku dane z ostatniej strony karty wykorzystanego dziennika.
 4. W ruchomym składzie materiałów wybuchowych, jeżeli przechowywane są środki strzałowe należące tylko do jednego strzałowego, skład ten traktuje się jak naczynie przeznaczone do transportu i przechowywania środków strzałowych, a ich ewidencja jest prowadzona w jego dzienniku strzałowym.
+
+## Załącznik nr 3 — SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE UŻYWANIA ŚRODKÓW STRZAŁOWYCH SZCZEGÓŁOWE WYMAGANIA I SPRZĘTU DOTYCZĄCE STRZAŁOWEGO UŻYWANIA W ZAKŁADZIE ŚRODKÓW STRZAŁOWYCH GÓRNICZYM I SPRZĘTU STRZAŁOWEGO W ZAKŁADZIE GÓRNICZYM
+
 1. Podziemne zakłady górnicze węgla kamiennego i wyrobiska podziemne zakładów górniczych wydobywających węgiel brunatny.
 1.1. Użyte w niniejszej części załącznika symbole oraz pojęcia oznaczają:
-1) „MW” materiał wybuchowy;
-2) „ZE” zapalnik elektryczny;
-3) „wyrobisko kamienne” wyrobisko, w którym w całym przekroju poprzecznym przodka występuje skała płonna (kamień);
-4) „wyrobisko kamienno-węglowe” wyrobisko, w którym powierzchnia węgla w przodku jest mniejsza niż 20% powierzchni poprzecznego przekroju wyrobiska;
-5) „wyrobisko węglowo-kamienne i węglowe” wyrobisko, w którym powierzchnia węgla w przodku jest większa niż 20% powierzchni poprzecznego przekroju wyrobiska;
-6) „ładunek MW bez ograniczenia” ładunek MW, którego wielkość nie jest ograniczona długością lub średnicą otworu strzałowego, pod warunkiem przestrzegania zasad techniki strzałowej oraz określonej przepisami długości przybitki;
-7) „ładunek MW wolno przyłożony” ładunek nakładany lub podkładany, służący do rozsadzania luźnych brył;
-8) „zapalnik elektryczny (ZE) dowolny” dowolny zapalnik elektryczny, który może być stosowany w określonych wyrobiskach podziemnych;
-9) „zapalniki metanowe” zapalniki bezpieczne wobec pyłu węglowego i metanu, które:
+1) „MW” – materiał wybuchowy;
+2) „ZE” – zapalnik elektryczny;
+3) „wyrobisko kamienne” – wyrobisko, w którym w całym przekroju poprzecznym przodka występuje skała płonna (kamień);
+4) „wyrobisko kamienno-węglowe” – wyrobisko, w którym powierzchnia węgla w przodku jest mniejsza niż 20% powierzchni poprzecznego przekroju wyrobiska;
+5) „wyrobisko węglowo-kamienne i węglowe” – wyrobisko, w którym powierzchnia węgla w przodku jest większa niż 20% powierzchni poprzecznego przekroju wyrobiska;
+6) „ładunek MW bez ograniczenia” – ładunek MW, którego wielkość nie jest ograniczona długością lub średnicą otworu strzałowego, pod warunkiem przestrzegania zasad techniki strzałowej oraz określonej przepisami długości przybitki;
+7) „ładunek MW wolno przyłożony” – ładunek nakładany lub podkładany, służący do rozsadzania luźnych brył;
+8) „zapalnik elektryczny (ZE) dowolny” – dowolny zapalnik elektryczny, który może być stosowany w określonych wyrobiskach podziemnych;
+9) „zapalniki metanowe” – zapalniki bezpieczne wobec pyłu węglowego i metanu, które:
 a) odpalane w mieszaninie metanowo-powietrznej o stężeniu metanu 8,0–9,5% mogą spowodować jej zapalenie z częstością nie większą niż 4%,
 b) swobodnie zawieszone odpalane w obłoku pyłu węglowego w powietrzu o stężeniu 0,45 kg/m , nie powodują jego zapalenia;
-10) „zapalniki węglowe” zapalniki bezpieczne wobec pyłu węglowego, które swobodnie zawieszone odpalane w obłoku pyłu węglowego w powietrzu o stężeniu 0,45 kg/m , nie powodują jego zapalenia;
-SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE UŻYWANIA ŚRODKÓW STRZAŁOWYCH I SPRZĘTU STRZAŁOWEGO W ZAKŁADZIE GÓRNICZYM
-11) „zapalnik elektryczny (ZE) metanowy milisekundowy (ms)” zapalnik elektryczny milisekundowy o zwłoce międzystrzałowej poniżej 100 ms oraz o odpowiednim stopniu opóźnienia (bez stopnia „0”);
-12) „materiały wybuchowe” materiały wybuchowe:
-a) skalne o czerwonej barwie otoczki naboju albo dowolnej barwie otoczki naboju, z czerwonym paskiem,
-b) węglowe o niebieskiej barwie otoczki naboju,
-c) metanowe o barwie otoczki naboju od białej do kremowej,
-d) metanowe specjalne o barwie otoczki naboju od białej do kremowej z dwoma czarnymi paskami;
-13) „górne wnęki maszyn urabiających w ścianach i ubierkach” wnęki usytuowane przy chodnikach ścianowych w wylotowych prądach powietrza;
-14) „przodki i otwory strzałowe mokre” przodki i otwory strzałowe zabezpieczone przed wybuchem pyłu węglowego wodą pochodzenia naturalnego lub przez zmywanie wodą w strefie przyprzodkowej.
+10) „zapalniki węglowe” – zapalniki bezpieczne wobec pyłu węglowego, które swobodnie zawieszone odpalane w obłoku pyłu węglowego w powietrzu o stężeniu 0,45 kg/m , nie powodują jego zapalenia;
+11) „zapalnik elektryczny (ZE) metanowy milisekundowy (ms)” – zapalnik elektryczny milisekundowy o zwłoce międzystrzałowej poniżej 100 ms oraz o odpowiednim stopniu opóźnienia (bez stopnia „0”);
+12) „materiały wybuchowe” – materiały wybuchowe:
+a) skalne – o czerwonej barwie otoczki naboju albo dowolnej barwie otoczki naboju, z czerwonym paskiem,
+b) węglowe – o niebieskiej barwie otoczki naboju,
+c) metanowe – o barwie otoczki naboju od białej do kremowej,
+d) metanowe specjalne – o barwie otoczki naboju od białej do kremowej z dwoma czarnymi paskami;
+13) „górne wnęki maszyn urabiających w ścianach i ubierkach” – wnęki usytuowane przy chodnikach ścianowych w wylotowych prądach powietrza;
+14) „przodki i otwory strzałowe mokre” – przodki i otwory strzałowe zabezpieczone przed wybuchem pyłu węglowego wodą pochodzenia naturalnego lub przez zmywanie wodą w strefie przyprzodkowej.
 1.2. Barwa izolacji przewodów elektrycznych zapalników elektrycznych ze względu na stopień bezpieczeństwa wobec:
 1) metanu i pyłu węglowego, barwa jednego z przewodów:
-a) czerwona dla zapalników elektrycznych skalnych,
-b) niebieska dla zapalników elektrycznych węglowych,
-c) biała dla zapalników elektrycznych metanowych;
+a) czerwona – dla zapalników elektrycznych skalnych,
+b) niebieska – dla zapalników elektrycznych węglowych,
+c) biała – dla zapalników elektrycznych metanowych;
 2) prądu elektrycznego, barwa drugiego z przewodów:
-a) żółta dla zapalników elektrycznych klasy 0,20 A,
-b) brązowa dla zapalników elektrycznych klasy 0,45 A,
-c) zielona dla zapalników elektrycznych klasy 2,0 A,
-d) czarna dla zapalników elektrycznych klasy 4,0 A.
+a) żółta – dla zapalników elektrycznych klasy 0,20 A,
+b) brązowa – dla zapalników elektrycznych klasy 0,45 A,
+c) zielona – dla zapalników elektrycznych klasy 2,0 A,
+d) czarna – dla zapalników elektrycznych klasy 4,0 A.
 1.3. Wymogi dla materiałów wybuchowych bezpiecznych wobec pyłu węglowego i metanu.
 1.3.1. Materiały wybuchowe bezpieczne wobec pyłu węglowego to materiały, które w trakcie 5 prób inicjowania od dna otworu i 5 prób przy inicjowaniu od wylotu otworu ładunków próbnych:
 1) 500 g MW węglowych lub metanowych,
 2) 1000 g MW metanowych specjalnych,
-3) 1900 g do 2000g MW metanowych specjalnych J-wymiennojonowych nie zapalą pyłu węglowego w komorze sztolni doświadczalnej oraz nie pozostawią niezdetonowanych naboi lub ich części.
+3) 1900 g do 2000g MW metanowych specjalnych J-wymiennojonowych – nie zapalą pyłu węglowego w komorze sztolni doświadczalnej oraz nie pozostawią niezdetonowanych naboi lub ich części.
 1.3.2. Materiały wybuchowe bezpieczne wobec metanu to materiały, które w trakcie 10 prób inicjowania ładunków próbnych:
 1) MW metanowych w ilości 500 g, dokonywanego od dna otworu w moździerzu z centrycznym otworem,
 2) MW metanowych specjalnych w ilości 1000 g, dokonywanego od dna otworu w moździerzu z centrycznym otworem,
@@ -1177,15 +1220,15 @@ d) czarna dla zapalników elektrycznych klasy 4,0 A.
 a) w ilości 1900 g do 2000g, dokonywanego od dna otworu i od wylotu otworu w moździerzu z centrycznym otworem,
 b) w ilości 500g, dokonywanego w moździerzu szczelinowym,
 c) w ilości 1500g, dokonywanego w moździerzu rowkowym,
-d) w ilości 1500g, zawieszonego swobodnie nie zapalą mieszaniny metanowo - powietrznej w komorze sztolni doświadczalnej o stężeniu metanu 8,0-9,5% oraz nie pozostawią niezdetonowanych naboi lub ich części.
+d) w ilości 1500g, zawieszonego swobodnie – nie zapalą mieszaniny metanowo - powietrznej w komorze sztolni doświadczalnej o stężeniu metanu 8,0-9,5% oraz nie pozostawią niezdetonowanych naboi lub ich części.
 1.4. Wyrobiska kamienne - pola niemetanowe.
 Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego klasa A klasa B 1 2 3 4 1 MW metanowe specjalne Ładunki MW bez ograniczenia 2 MW metanowe ZE metanowe albo ZE węglowe MW węglowe 3 Ładunki MW bez ograniczenia 4 MW skalne ZE metanowe albo ZE węglowe Warunki:
 1) stosuje się przedwierty o długości nie mniejszej niż 4 m; w przypadku nawiercenia na pokład węgla, stosowanie MW skalnych jest niedozwolone,
 2) stanowisko odpalania oraz miejsce schronienia załogi znajduje się w odległości nie mniejszej niż 100 m od przodka (we wnęce, schronie lub za załamaniem).
 1.5. Wyrobiska kamienne - pola metanowe.
-Grupa MW Lp. Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 4 5 6 1 MW metanowe specjalne Ładunki MW bez ograniczenia ZE metanowe albo ZE węglowe 2 MW metanowe Warunki: w przypadku stosowania ZE węglowych maksymalna dopuszczalna zawartość metanu 0,5%, a przy stosowaniu zapalarek elektrycznych z blokadą metanometryczną 1%.
+Grupa MW Lp. Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 4 5 6 1 MW metanowe specjalne Ładunki MW bez ograniczenia ZE metanowe albo ZE węglowe 2 MW metanowe Warunki: w przypadku stosowania ZE węglowych maksymalna dopuszczalna zawartość metanu 0,5%, a przy stosowaniu zapalarek elektrycznych z blokadą metanometryczną – 1%.
 3 MW węglowe Ładunki MW bez ograniczenia 4 MW skalne ZE metanowe albo ZE węglowe Warunki:
-1) maksymalna dopuszczalna zawartość metanu 0,5%, a przy stosowaniu zapalarek elektrycznych z blokadą metanometryczną 1%,
+1) maksymalna dopuszczalna zawartość metanu 0,5%, a przy stosowaniu zapalarek elektrycznych z blokadą metanometryczną – 1%,
 2) stosuje się przedwierty o długości nie mniejszej niż 4 m; w przypadku nawiercenia na pokład węgla, stosowanie MW skalnych lub węglowych jest niedozwolone,
 3) stanowisko odpalania oraz miejsce schronienia załogi znajduje się w odległości nie mniejszej niż 100 m od przodka (we wnęce, schronie lub za załamaniem).
 1.6. Wyrobiska kamienno-węglowe - pola niemetanowe.
@@ -1194,27 +1237,27 @@ Grupa MW Zagrożenie wybuchem pyłu węglowego Lp. klasa A klasa B 1 2 3 4 1 MW 
 2) stanowisko odpalania znajduje się w odległości nie mniejszej niż 100 m od przodka (we wnęce, schronie lub za załamaniem).
 1.7. Wyrobiska kamienno-węglowe - pola metanowe.
 Lp. Grupa MW Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 4 5 6 1 MW metanowe W kamieniu i w węglu: specjalne - ładunki MW bez ograniczenia - ZE metanowe 2 MW metanowe amonowosaletrzane W kamieniu: 3 MW metanowe - ładunki MW bez ograniczenia nitroglicerynowe - ZE metanowe W węglu: - tylko w przodkach i otworach strzałowych mokrych - ładunki MW bez ograniczenia - ZE metanowe 4 MW węglowe Tylko w kamieniu: - ładunki MW bez ograniczenia 5 MW skalne - ZE metanowe albo ZE węglowe Warunki:
-1) maksymalna dopuszczalna zawartość metanu 0,5%, a przy stosowaniu zapalarek elektrycznych z blokadą metanometryczną 1%,
+1) maksymalna dopuszczalna zawartość metanu 0,5%, a przy stosowaniu zapalarek elektrycznych z blokadą metanometryczną – 1%,
 2) stanowisko odpalania znajduje się w odległości nie mniejszej niż 100 m od przodka (we wnęce, schronie lub za załamaniem);
 3) otwory strzałowe w przodku mogą być wiercone tylko w kamieniu; równoczesne wykonywanie robót strzałowych w kamieniu (MW skalnymi lub węglowymi) oraz w węglu (MW metanowymi) jest niedozwolone.
 1.8. Wyrobiska węglowo-kamienne i węglowe - pola niemetanowe.
-Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego klasa A klasa B 1 2 3 4 1 MW metanowe specjalne 2 MW metanowe amonowosaletrzane Ładunki MW bez ograniczenia ZE metanowe albo ZE węglowe Tylko w przodkach i otworach strzałowych mokrych: 3 MW metanowe - ładunki MW bez ograniczenia nitroglicerynowe - ZE metanowe albo ZE węglowe Ładunki MW bez ograniczenia Tylko w ścianach i ubierkach 4 MW węglowe ZE węglowe albo ZE metanowe Ładunki MW bez ograniczenia ZE węglowe albo ZE metanowe
+Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego klasa A klasa B 1 2 3 4 1 MW metanowe Ładunki MW bez ograniczenia specjalne 2 ZE metanowe albo ZE węglowe MW metanowe amonowosaletrzane Tylko w przodkach i otworach strzałowych mokrych: 3 MW metanowe - ładunki MW bez ograniczenia nitroglicerynowe - ZE metanowe albo ZE węglowe Ładunki MW bez ograniczenia Tylko w ścianach i ubierkach 4 MW węglowe ZE węglowe albo ZE metanowe Ładunki MW bez ograniczenia ZE węglowe albo ZE metanowe
 1.9. Wyrobiska węglowo-kamienne i węglowe (wyrobiska korytarzowe i eksploatacyjne), z wyjątkiem górnych wnęk maszyn urabiających oraz miejsc zaburzeń geologicznych w ścianach i ubierkach - pola metanowe.
 Lp. Grupa MW Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 4 5 6 1 MW metanowe specjalne Ładunki MW bez ograniczenia 2 MW metanowe ZE metanowe amonowosaletrzane 3 MW metanowe Tylko w przodkach i otworach strzałowych mokrych: nitroglicerynowe - ładunki MW bez ograniczenia - ZE metanowe
 1.10. Górne wnęki maszyn urabiających oraz miejsca zaburzeń geologicznych w ścianach i ubierkach - pola metanowe.
 Lp. Grupa MW Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 4 5 6 1000 g 1 MW metanowe ZE metanowe specjalne 1000 g 2 MW metanowe ZE metanowe niedozwolone amonowosaletrzane Tylko w kamieniu: 3 MW metanowe - 1000 g nitroglicerynowe - ZE metanowe
 1.11. Roboty strzałowe dla wywołania zawału stropu w ścianach i ubierkach oraz w chodnikach - pola niemetanowe.
-Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego Klasa A Klasa B 1 2 3 4 1 MW metanowe specjalne 2 MW metanowe 3 MW węglowe Ładunki MW bez ograniczenia ZE metanowe albo ZE węglowe Warunek: - ładunki MW w otworach o średnicy większej niż 50 mm można ładować i odpalać jednocześnie w nie więcej niż 5 otworach strzałowych Ładunki MW bez ograniczenia. ZE metanowe albo ZE węglowe 4 MW skalne Warunki:
+Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego Klasa A Klasa B 1 2 3 4 1 MW metanowe Ładunki MW bez ograniczenia specjalne 2 ZE metanowe albo ZE węglowe MW metanowe 3 Warunek: MW węglowe - ładunki MW w otworach o średnicy większej niż 50 mm można ładować i odpalać jednocześnie w nie więcej niż 5 otworach strzałowych Ładunki MW bez ograniczenia. ZE metanowe albo ZE węglowe 4 MW skalne Warunki:
 1) ładunki MW w otworach o średnicy większej niż 50 mm można ładować i odpalać jednocześnie w nie więcej niż 5 otworach strzałowych,
 2) MW skalne mogą być stosowane wyłącznie w kamieniu.
 1.12. Roboty strzałowe dla wywołania zawału stropu w ścianach i ubierkach oraz w chodnikach - pola metanowe.
 Lp. Grupa MW Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 4 5 6 1 MW metanowe Ładunki MW bez ograniczenia specjalne ZE metanowe natychmiastowe albo ZE metanowe milisekundowe jednego stopnia opóźnienia 2 MW metanowe Warunek: - ładunki MW w otworach o średnicy większej niż 50 mm można ładować i odpalać jednocześnie najwyżej w 5 otworach strzałowych Ładunki MW bez ograniczenia 3 MW węglowe ZE metanowe natychmiastowe albo ZE metanowe milisekundowe jednego stopnia opóźnienia 4 MW skalne Warunki:
-1) maksymalna dopuszczalna zawartość metanu 0,5%, a przy stosowaniu zapalarek elektrycznych z blokadą metanometryczną 1%;
+1) maksymalna dopuszczalna zawartość metanu 0,5%, a przy stosowaniu zapalarek elektrycznych z blokadą metanometryczną – 1%;
 2) dozwolone jest ładowanie i odpalanie jednocześnie nie więcej niż 5 otworów;
 3) na czas wykonywania robót strzałowych załogę wycofuje się ze ściany lub ubierki;
 4) MW skalne i węglowe mogą być stosowane wyłącznie w kamieniu.
 1.13. Rozsadzanie luźnych brył ładunkami materiałów wybuchowych wolno przyłożonymi pola niemetanowe.
-Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego Klasa A Klasa B 1 2 3 4 1 2 MW metanowe specjalne MW metanowe 500 g ZE metanowe natychmiastowe albo ZE metanowe lub węglowe milisekundowe jednego stopnia opóźnienia Warunki:
+Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego Klasa A Klasa B 1 2 3 4 1 MW metanowe 500 g specjalne ZE metanowe natychmiastowe albo ZE metanowe lub węglowe milisekundowe jednego stopnia opóźnienia 2 MW metanowe Warunki:
 1) dozwolone jest odpalanie nie więcej niż 3 ładunków w jednej serii;
 2) stanowisko odpalania oraz miejsce schronienia załogi znajduje się w odległości nie mniejszej niż 100 m od miejsca robót strzałowych (we wnęce, schronie lub za załamaniem);
 3) zezwolenie kierownika ruchu.
@@ -1228,19 +1271,19 @@ schronienia załogi znajduje się w odległości nie mniejszej niż 100 m od mie
 1.15. Rozsadzanie luźnych brył ładunkami materiałów wybuchowych w otworach strzałowych - pola niemetanowe.
 Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego Klasa A Klasa B 1 2 3 4 1 MW metanowe 300 g specjalne ZE metanowe natychmiastowe albo ZE milisekundowe jednego stopnia opóźnienia Warunki: 2 1) odległość MW w otworze od odsłoniętej płaszczyzny bryły jest nie mniejsza niż MW metanowe 0,3 m;
 2) stanowisko odpalania oraz miejsce schronienia załogi znajduje się w odległości nie mniejszej niż 100 m od miejsca robót strzałowych (we wnęce, schronie lub za załamaniem).
-3 MW węglowe 4 MW skalne Wyłącznie w wyrobiskach kamiennych i kamienno-węglowych - 300 g - ZE metanowe natychmiastowe albo milisekundowe jednego stopnia opóźnienia Warunki:
+3 MW węglowe Wyłącznie w wyrobiskach kamiennych i kamienno-węglowych - 300 g 4 MW skalne - ZE metanowe natychmiastowe albo milisekundowe jednego stopnia opóźnienia Warunki:
 1) odległość MW w otworze od odsłoniętej płaszczyzny bryły jest nie mniejsza niż 0,3 m,
 2) stanowisko odpalania oraz miejsce schronienia załogi znajduje się w odległości nie mniejszej niż 100 m od miejsca robót strzałowych (we wnęce, schronie lub za załamaniem),
 3) zezwolenie kierownika działu górniczego.
 Rozsadzanie brył węgla MW skalnymi jest niedozwolone.
 1.16. Rozsadzanie luźnych brył ładunkami materiałów wybuchowych w otworach strzałowych - pola metanowe.
 Lp. Grupa MW Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 4 5 6 1 MW metanowe Wyłącznie do rozsadzania luźnych brył specjalne 300 g kamienia 150 g 2 300 g MW metanowe 150 g amonowosaletrzane 300 g 3 niedozwolone MW metanowe nitroglicerynowe ZE metanowe natychmiastowe albo milisekundowe jednego stopnia opóźnienia Warunki:
-1) maksymalna dopuszczalna zawartość metanu 0,5%, a przy zastosowaniu zapalarek elektrycznych z blokadą metanometryczną 1;
+1) maksymalna dopuszczalna zawartość metanu 0,5%, a przy zastosowaniu zapalarek elektrycznych z blokadą metanometryczną – 1;
 2) odległość MW w otworze od odsłoniętej płaszczyzny bryły jest nie mniejsza niż 0,3 m;
 3) stanowisko odpalania oraz miejsce schronienia załogi znajduje się w odległości nie mniejszej niż 100 m od miejsca robót strzałowych (we wnęce, schronie lub za załamaniem);
 4) zezwolenie kierownika działu górniczego.
 1.17. Roboty strzałowe wstrząsowe (zruszająco-odprężające) w caliźnie pokładów tąpiących, wyrobiska kamienno-węglowe, węglowo-kamienne i węglowe (wyrobiska korytarzowe i eksploatacyjne) - pola niemetanowe.
-Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego klasa A klasa B 1 2 3 4 1 MW metanowe Ładunek MW zajmuje nie więcej niż dwie trzecie długości otworu. ZE węglowe albo specjalne ZE metanowe Lont detonujący węglowy albo lont detonujący metanowy 2 MW metanowe amonowosaletrzan e Ładunek MW zajmuje nie więcej niż połowę długości otworu. ZE węglowe albo ZE metanowe Lont detonujący węglowy albo lont detonujący metanowy 3 MW metanowe Tylko w przodkach mokrych nitroglicerynowe Ładunek MW zajmuje nie więcej niż połowę długości otworu. ZE węglowe albo ZE metanowe Lont detonujący węglowy albo lont detonujący metanowy 4 MW węglowe Ładunek MW zajmuje nie więcej niż połowę długości otworu ZE węglowe albo ZE metanowe Lont detonujący węglowy albo lont detonujący metanowy Tylko w wyrobiskach z wentylacją opływową. Ładunek MW zajmuje nie więcej niż połowę długości otworu ZE węglowe albo ZE metanowe Lont detonujący węglowy albo lont detonujący metanowy Warunki:
+Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego klasa A klasa B 1 2 3 4 1 MW metanowe Ładunek MW zajmuje nie więcej niż dwie trzecie długości otworu. ZE węglowe albo specjalne ZE metanowe Lont detonujący węglowy albo lont detonujący metanowy 2 MW metanowe Ładunek MW zajmuje nie więcej niż połowę długości otworu. ZE węglowe albo ZE amonowosaletrzan metanowe e Lont detonujący węglowy albo lont detonujący metanowy 3 MW metanowe Tylko w przodkach mokrych nitroglicerynowe Ładunek MW zajmuje nie więcej niż połowę długości otworu. ZE węglowe albo ZE metanowe Lont detonujący węglowy albo lont detonujący metanowy 4 MW węglowe Ładunek MW zajmuje nie więcej niż Tylko w wyrobiskach z wentylacją połowę długości otworu opływową. Ładunek MW zajmuje nie ZE węglowe albo ZE metanowe więcej niż połowę długości otworu Lont detonujący węglowy albo lont ZE węglowe albo ZE metanowe detonujący metanowy Lont detonujący węglowy albo lont detonujący metanowy Warunki:
 1) ładunki MW w otworach strzałowych ładowanych ręcznie inicjuje się od dna lub wylotu otworów z użyciem 2 ZE;
 2) ładunki MW w otworach strzałowych wprowadzane do otworów pneumatycznie inicjuje się od wylotu otworów;
 3) otwory wstrząsowe odpalane, niezależnie od otworów urabiających, inicjuje się ZE natychmiastowymi albo ZE zwłocznymi milisekundowymi jednego stopnia zwłoki;
@@ -1251,7 +1294,7 @@ b) ładunki MW w otworach wstrząsowych inicjuje się ZE milisekundowymi o zwło
 6) odpalanie otworów poprzedza się pomiarem oporu obwodu strzałowego ze stanowiska odpalania;
 7) miejsce odpalania otworów strzałowych, przebywania załogi oraz posterunków zabezpieczających dojście do miejsca robót strzałowych ustala kopalniany zespół do spraw tąpań z udziałem kierownika działu wentylacji.
 1.18. Roboty strzałowe wstrząsowe (zruszająco-odprężające) w caliźnie pokładów tąpiących, wyrobiska kamienno-węglowe, węglowo-kamienne i węglowe (wyrobiska korytarzowe i eksploatacyjne) - pola metanowe.
-Lp. Grupa MW Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 1 MW metanowe Ładunek MW zajmuje nie więcej niż dwie trzecie długości otworu specjalne ZE metanowe Lont detonujący metanowy 2 MW metanowe amonowosaletrzane Ładunek MW zajmuje nie więcej niż połowę długości otworu ZE metanowe Lont detonujący metanowy 3 MW metanowe Tylko w przodkach mokrych nitrogliceryno Ładunek MW zajmuje nie więcej niż połowę długości otworu we ZE metanowe Lont detonujący metanowy Warunki:
+Lp. Grupa MW Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 1 MW metanowe Ładunek MW zajmuje nie więcej niż dwie trzecie długości otworu specjalne ZE metanowe Lont detonujący metanowy 2 MW metanowe Ładunek MW zajmuje nie więcej niż połowę długości otworu amonowosale- ZE metanowe trzane Lont detonujący metanowy 3 MW metanowe Tylko w przodkach mokrych nitrogliceryno Ładunek MW zajmuje nie więcej niż połowę długości otworu we ZE metanowe Lont detonujący metanowy Warunki:
 1) ładunki MW w otworach strzałowych ładowanych ręcznie inicjuje się od dna lub wylotu otworów z użyciem 2 ZE;
 2) ładunki MW w otworach strzałowych wprowadzane do otworów pneumatycznie inicjuje się od wylotu otworów;
 3) otwory wstrząsowe odpalane, niezależnie od otworów urabiających, inicjuje się ZE natychmiastowymi lub zwłocznymi milisekundowymi jednego stopnia zwłoki;
@@ -1262,7 +1305,7 @@ b) ładunki MW w otworach wstrząsowych inicjuje się ZE milisekundowymi o zwło
 6) odpalanie otworów poprzedza się pomiarem oporu obwodu strzałowego ze stanowiska odpalania;
 7) miejsce odpalania otworów strzałowych, przebywania załogi oraz posterunków zabezpieczających dojście do miejsca robót strzałowych ustala kopalniany zespół do spraw tąpań z udziałem kierownika działu wentylacji.
 1.19. Roboty strzałowe torpedujące w skałach otaczających pokłady węglowe. Wyrobiska kamienne, kamienno-węglowe oraz węglowo-kamienne i węglowe (wyrobiska korytarzowe i eksploatacyjne) - pola niemetanowe.
-Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego klasa A klasa B 1 2 3 4 1 MW metanowe specjalne 2 MW metanowe amonowosaletrzane Ładunek MW zajmuje nie więcej niż dwie trzecie długości otworu ZE węglowe albo ZE metanowe Lont detonujący węglowy albo lont detonujący metanowy 3 MW metanowe Ładunek MW zajmuje nie więcej niż połowę długości otworu Nitroglicerynowe ZE węglowe albo ZE metanowe Lont detonujący węglowy albo lont detonujący metanowy 4 MW węglowe 5 MW skalne Warunki:
+Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego klasa A klasa B 1 2 3 4 1 MW metanowe Ładunek MW zajmuje nie więcej niż dwie trzecie długości otworu specjalne ZE węglowe albo ZE metanowe 2 Lont detonujący węglowy albo lont detonujący metanowy MW metanowe amonowosaletrzane 3 MW metanowe Ładunek MW zajmuje nie więcej niż połowę długości otworu Nitroglicerynowe ZE węglowe albo ZE metanowe Lont detonujący węglowy albo lont detonujący metanowy 4 MW węglowe 5 MW skalne Warunki:
 1) ładunki MW w długich otworach strzałowych inicjuje się od wylotu lub dna otworów z użyciem 2 ZE;
 2) zapalniki zbrojące ładunek długiego otworu łączy się w obwód strzałowy szeregowo;
 3) długość przybitki zamykającej wylot otworu strzałowego wynosi nie mniej niż 75 cm; w przypadku otworów strzałowych o nachyleniu większym niż 20° przy stosowaniu przybitki piaskowej używa się przybitki z gliny lub z gliny z piaskiem na długości nie mniejszej niż 30 cm od wylotu otworu;
@@ -1271,7 +1314,7 @@ Lp. Grupa MW Zagrożenie wybuchem pyłu węglowego klasa A klasa B 1 2 3 4 1 MW 
 6) miejsce odpalania otworów strzałowych, przebywania załogi oraz posterunków zabezpieczających dojście do miejsca robót strzałowych ustala kopalniany zespół do spraw tąpań z udziałem kierownika działu wentylacji;
 7) w wyrobiskach górniczych, gdzie występuje pył węglowy, przed wykonaniem robót strzałowych usuwa się pył węglowy w promieniu 10 m od otworów strzałowych przez zmywanie wodą;
 8) w rejonie wykonywania robót strzałowych technik pyłowy dokonuje kontroli zabezpieczeń przed wybuchem pyłu węglowego; w przypadku bieżącego wykonywania robót strzałowych, kontrole takie wykonuje się nie rzadziej niż 2 razy w tygodniu.
-1.20. Roboty strzałowe torpedujące w skałach otaczających pokłady węglowe. Wyrobiska kamienne, kamienno-węglowe oraz węglowo-kamienne i węglowe (wyrobiska korytarzowe i eksploatacyjne) - pola metanowe Lp. Grupa MW Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 1 MW metanowe specjalne 2 MW metanowe amonowosaletrzane Ładunek MW zajmuje nie więcej niż dwie trzecie długości otworu ZE natychmiastowe metanowe Lont detonujący metanowy 3 MW metanowe nitroglicerynowe 4 MW węglowe 5 MW skalne Ładunek MW zajmuje nie więcej niż połowę długości otworu ZE natychmiastowe metanowe Lont detonujący metanowy Warunki:
+1.20. Roboty strzałowe torpedujące w skałach otaczających pokłady węglowe. Wyrobiska kamienne, kamienno-węglowe oraz węglowo-kamienne i węglowe (wyrobiska korytarzowe i eksploatacyjne) - pola metanowe Lp. Grupa MW Pole metanowe kategorii I II III IV Zagrożenie wybuchem pyłu węglowego klasy A i B 1 2 3 1 MW metanowe Ładunek MW zajmuje nie więcej niż dwie trzecie długości otworu specjalne ZE natychmiastowe metanowe 2 MW metanowe amonowosale- Lont detonujący metanowy trzane 3 MW metanowe Ładunek MW zajmuje nie więcej niż połowę długości otworu nitroglicerynowe ZE natychmiastowe metanowe 4 MW węglowe 5 MW skalne Lont detonujący metanowy Warunki:
 1) przy używaniu MW węglowych i skalnych maksymalna dopuszczalna zawartość metanu 0,5%, a przy zastosowaniu zapalarek elektrycznych z blokadą metanometryczną 1%;
 2) ładunki MW w długich otworach strzałowych inicjuje się od wylotu lub dna otworów z użyciem 2 ZE;
 3) zapalniki zbrojące ładunek długiego otworu strzałowego łączy się w obwód strzałowy szeregowo;
@@ -1291,41 +1334,41 @@ Warunki używania materiałów wybuchowych i zapalników elektrycznych jak w wyr
 Warunki używania materiałów wybuchowych i zapalników elektrycznych jak w wyrobiskach kamiennych pkt 1.4 i 1.5, kamienno-węglowych pkt 1.6 i 1.7, oraz węglowo-kamiennych i węglowych pkt 1.8 i 1.9.
 2. Podziemne zakłady górnicze wydobywające sól, rudy metali, surowce mineralne i chemiczne.
 2.1. Użyte w niniejszej części załącznika symbole oraz pojęcia oznaczają:
-1) „MW” materiał wybuchowy;
-2) „ZE” zapalnik elektryczny;
-3) „ZN” zapalnik nieelektryczny;
-4) „ładunek MW bez ograniczenia” ładunek MW, którego wielkość nie jest ograniczona długością lub średnicą otworu strzałowego, pod warunkiem przestrzegania zasad techniki strzałowej oraz określonej przepisami długości przybitki;
-5) „zapalnik dowolny” dowolny zapalnik elektryczny lub nieelektryczny, który może być używany w podziemnych zakładach górniczych;
-6) „materiały wybuchowe i zapalniki” materiały wybuchowe metanowe specjalne, metanowe, węglowe, skalne i zapalniki.
+1) „MW” – materiał wybuchowy;
+2) „ZE” – zapalnik elektryczny;
+3) „ZN” – zapalnik nieelektryczny;
+4) „ładunek MW bez ograniczenia” – ładunek MW, którego wielkość nie jest ograniczona długością lub średnicą otworu strzałowego, pod warunkiem przestrzegania zasad techniki strzałowej oraz określonej przepisami długości przybitki;
+5) „zapalnik dowolny” – dowolny zapalnik elektryczny lub nieelektryczny, który może być używany w podziemnych zakładach górniczych;
+6) „materiały wybuchowe i zapalniki” – materiały wybuchowe metanowe specjalne, metanowe, węglowe, skalne i zapalniki.
 2.2. W przypadku zastosowania w podziemnych zakładach górniczych materiałów wybuchowych typu saletrol, kierownik ruchu zatwierdza warunki jego sporządzania i używania, określone przez rzeczoznawcę w jego opinii. Sporządzanie saletrolu dozwolone jest wyłącznie poprzez wymieszanie składników w urządzeniu dopuszczonym do stosowania w zakładach górniczych na podstawie art. 113 ustawy.
 2.3. Roboty strzałowe w złożu i w skałach płonnych.
 Lp. Grupa MW Pole Pola metanowe kategorii niemetanowe I II 1 2 3 4 5 1 MW metanowe Ładunki MW Ładunki MW bez ograniczenia specjalne Bez ograniczenia Zapalniki metanowe 2 MW metanowe zapalniki 3 MW węglowe dowolne Ładunki MW bez ograniczenia Wyłącznie przy centralnym 4 MW skalne Zapalniki metanowe albo ZE odpalaniu ładunków MW.
-węglowe Ładunki MW bez ograniczenia Warunki: Zapalniki metanowe albo ZE maksymalna dopuszczalna węglowe zawartość metanu 0,5%, Warunek: stanowisko strzałowe w maksymalna dopuszczalna odległości nie mniejszej niż 100 m zawartość metanu 0,5%, a przy od przodka, lecz nie w linii stosowaniu zabezpieczenia prostej (we wnęce, schronie lub metanometrycznego 1,0%.
+węglowe Ładunki MW bez ograniczenia Warunki: Zapalniki metanowe albo ZE – maksymalna dopuszczalna węglowe zawartość metanu 0,5%, Warunek: – stanowisko strzałowe w – maksymalna dopuszczalna odległości nie mniejszej niż 100 m zawartość metanu 0,5%, a przy od przodka, lecz nie w linii stosowaniu zabezpieczenia prostej (we wnęce, schronie lub metanometrycznego 1,0%.
 za załamaniem).
 2.4. Roboty strzałowe ładunkami wolno przyłożonymi oraz ładunkami w otworach strzałowych Lp. Grupa MW Pole Pola metanowe kategorii niemetanowe I II 1 2 3 4 5 1 MW metanowe 500 g 500 g Wyłącznie przy specjalne zapalniki Zapalniki metanowe centralnym strzelaniu 2 MW metanowe dowolne 500 g Zapalniki metanowe 3 MW węglowe niedozwolone niedozwolone 4 MW skalne
 2.5. Roboty strzałowe w wyrobiskach zagrożonych wyrzutami gazów i skał.
-Lp. Grupa MW Pola zagrożone wyrzutami gazów i skał kategorii I II III 1 2 3 4 5 1 2 MW metanowe specjalne MW metanowe Ładunki MW bez ograniczenia Zapalniki metanowe Wyłącznie przy centralnym odpalaniu ładunków MW Ładunki MW bez ograniczenia Zapalniki metanowe 3 MW skalne Wyłącznie przy centralnym odpalaniu ładunków MW Wyłącznie przy centralnym Ładunki MW bez ograniczenia strzelaniu z powierzchni.
+Lp. Grupa MW Pola zagrożone wyrzutami gazów i skał – kategorii I II III 1 2 3 4 5 1 MW metanowe Ładunki MW bez ograniczenia Wyłącznie przy centralnym specjalne Zapalniki metanowe odpalaniu ładunków MW 2 MW metanowe Ładunki MW bez ograniczenia Zapalniki metanowe 3 MW skalne Wyłącznie przy centralnym odpalaniu ładunków MW Wyłącznie przy centralnym Ładunki MW bez ograniczenia strzelaniu z powierzchni.
 Zapalniki metanowe albo ZE węglowe Ładunki MW bez Warunek: ograniczenia.
-maksymalna dopuszczalna zawartość metanu 0,5%, a Zapalniki metanowe.
-przy stosowaniu zabezpieczenia metanometrycznego 1,0%.
+– maksymalna dopuszczalna zawartość metanu 0,5%, a Zapalniki metanowe.
+przy stosowaniu zabezpieczenia metanometrycznego – 1,0%.
 Warunki:
-1) maksymalna dopuszczalna zawartość metanu 0,5%, a przy stosowaniu zabezpieczenia metanometrycznego 1,0%;
+1) maksymalna dopuszczalna zawartość metanu 0,5%, a przy stosowaniu zabezpieczenia metanometrycznego – 1,0%;
 2) odpalenie ładunków materiałów wybuchowych odbywa się po wyjeździe wszystkich pracowników na powierzchnię lub gdy przebywają w wyznaczonych strefach na podszybiach szybów zjazdowych.
 3. Odkrywkowe zakłady górnicze.
 3.1. Użyte w niniejszej części załącznika symbole oraz pojęcia oznaczają:
-1) „MW” materiał wybuchowy;
-2) „ZE” zapalnik elektryczny;
-3) „ZN” zapalnik nieelektryczny;
-4) „ładunek MW bez ograniczenia” ładunek MW, którego wielkość nie jest ograniczona długością lub średnicą otworu strzałowego, pod warunkiem przestrzegania zasad techniki strzałowej oraz określonej przepisami długości przybitki;
-5) „zapalnik dowolny” dowolny zapalnik elektryczny, elektroniczny lub nieelektryczny, który może być używany w odkrywkowych zakładach górniczych;
-6) „materiały wybuchowe i zapalniki” materiały wybuchowe metanowe specjalne, metanowe, węglowe, skalne i zapalniki.
+1) „MW” – materiał wybuchowy;
+2) „ZE” – zapalnik elektryczny;
+3) „ZN” – zapalnik nieelektryczny;
+4) „ładunek MW bez ograniczenia” – ładunek MW, którego wielkość nie jest ograniczona długością lub średnicą otworu strzałowego, pod warunkiem przestrzegania zasad techniki strzałowej oraz określonej przepisami długości przybitki;
+5) „zapalnik dowolny” – dowolny zapalnik elektryczny, elektroniczny lub nieelektryczny, który może być używany w odkrywkowych zakładach górniczych;
+6) „materiały wybuchowe i zapalniki” – materiały wybuchowe metanowe specjalne, metanowe, węglowe, skalne i zapalniki.
 3.2. W przypadku zastosowania w odkrywkowym zakładzie górniczym materiałów wybuchowych typu saletrol, kierownik ruchu zatwierdza warunki jego sporządzania i używania, określone przez rzeczoznawcę w jego opinii. Sporządzanie saletrolu dozwolone jest wyłącznie poprzez wymieszanie składników w urządzeniu dopuszczonym do stosowania w zakładach górniczych na podstawie art. 113 ust. 2 ustawy.
 3.3. Zakłady górnicze wydobywające węgiel brunatny.
 3.3.1. Roboty strzałowe w złożu węgla brunatnego.
 Lp. Grupa MW Dozwolony ładunek MW w otworze i dozwolone rodzaje ZE 1 2 3 1 MW metanowe specjalne Ładunki MW bez ograniczenia 2 MW metanowe ZE metanowe i węglowe 3 MW węglowe
 3.3.2. Roboty strzałowe w nadkładzie.
-Lp. Grupa MW Dozwolony ładunek MW w otworze Uwagi i dozwolone rodzaje zapalników 1 2 3 4 1 MW metanowe specjalne Ładunki MW bez ograniczenia 2 MW metanowe Zapalniki dowolne 3 MW węglowe 4 MW skalne 5 Pobudzacze heksogenowo– Nie więcej niż dwa pobudzacze w trotylowe jednym otworze. Zapalniki natychmiastowe lub zwłoczne jednego stopnia opóźnienia.
-Do robót strzałowych rozszczepkowych oraz pobudzania małowrażliwych MW górniczych.
+Lp. Grupa MW Dozwolony ładunek MW w otworze Uwagi i dozwolone rodzaje zapalników 1 2 3 4 1 MW metanowe specjalne Ładunki MW bez ograniczenia 2 MW metanowe Zapalniki dowolne 3 MW węglowe 4 MW skalne 5 Pobudzacze heksogenowo– Nie więcej niż dwa pobudzacze w Do robót strzałowych trotylowe jednym otworze. Zapalniki rozszczepkowych oraz pobudzania natychmiastowe lub zwłoczne małowrażliwych MW górniczych.
+jednego stopnia opóźnienia.
 6 Pobudzacze heksogenowo– Pojedynczo lub w zestawach Do robót strzałowych glinowe połączonych na styk i rozszczepkowych oraz pobudzania zabezpieczonych przed możliwością małowrażliwych MW, w tym rozdzielenia się. Zapalniki dowolne. prochów nitrocelulozowych.
 7 Pobudzacze trotylowe Ładunek bez ograniczeń. Zapalniki Do robót strzałowych natychmiastowe lub zwłoczne, a rozszczepkowych, przy robotach strzałowych a pobudzacze T-44 i większe rozszczepkowych natychmiastowe również do pobudzania lub zwłoczne jednego stopnia małowrażliwych górniczych MW.
 opóźnienia.
@@ -1339,8 +1382,8 @@ Powyższe roboty strzałowe należy wykonywać zgodnie z obowiązującą w zakł
 3.4.1. Roboty strzałowe w zakładach górniczych wydobywających rudy metali, surowce skalne, mineralne i chemiczne.
 Lp. Grupa MW Dozwolony ładunek MW w Uwagi otworze i dozwolone rodzaje zapalników 1 2 3 4 1 MW metanowe specjalne Ładunki MW bez ograniczenia.
 2 MW metanowe Zapalniki dowolne.
-3 MW węglowe 4 MW skalne 5 Pobudzacze heksogenowo Nie więcej niż dwa pobudzacze Do robót strzałowych trotylowe w jednym otworze. Zapalniki rozszczepkowych oraz natychmiastowe lub zwłoczne pobudzania małowrażliwych jednego stopnia opóźnienia. MW górniczych.
-6 Pobudzacze heksogenowo Pojedynczo lub w zestawach Do robót strzałowych glinowe połączonych na styk i rozszczepkowych oraz zabezpieczonych przed pobudzania małowrażliwych możliwością rozdzielenia się. MW, Zapalniki dowolne. w tym prochów nitrocelulozowych.
+3 MW węglowe 4 MW skalne 5 Pobudzacze heksogenowo – Nie więcej niż dwa pobudzacze Do robót strzałowych trotylowe w jednym otworze. Zapalniki rozszczepkowych oraz natychmiastowe lub zwłoczne pobudzania małowrażliwych jednego stopnia opóźnienia. MW górniczych.
+6 Pobudzacze heksogenowo – Pojedynczo lub w zestawach Do robót strzałowych glinowe połączonych na styk i rozszczepkowych oraz zabezpieczonych przed pobudzania małowrażliwych możliwością rozdzielenia się. MW, Zapalniki dowolne. w tym prochów nitrocelulozowych.
 7 Pobudzacze trotylowe Ładunek bez ograniczeń. Do robót strzałowych Zapalniki natychmiastowe lub rozszczepkowych, zwłoczne, a pobudzacze T-44 i większe a przy robotach strzałowych również do pobudzania rozszczepkowych małowrażliwych górniczych MW.
 natychmiastowe lub zwłoczne jednego stopnia opóźnienia.
 8 Ładunki MW w rurach plastikowych Ładunek bez ograniczeń. Do urabiania skał blocznych o masie ok. 220 g oraz średnicy Zapalniki dowolne.
@@ -1367,7 +1410,10 @@ W trakcie wykonywania robót strzałowych używa się środków strzałowych, kt
 10) pomiar długości wydawanego i zwracanego do składu MW lontu detonującego wykonuje się w składzie materiałów wybuchowych, w miejscu segregacji zapalników elektrycznych lub w innym miejscu wyznaczonym do tego celu przez kierownika działu techniki strzałowej.
 5.3. Wykonywanie robót strzałowych w podziemnych zakładach górniczych wydobywających kopaliny inne niż węgiel kamienny z użyciem lontów detonujących odbywa się w sposób określony przez kierownika ruchu, w formie pisemnej.
 6. Inne rodzaje strzelań, niewymienione w pkt 1-5, wykonuje się w oparciu o dokumentację strzałową pozytywnie zaopiniowaną przez rzeczoznawcę i zatwierdzoną przez kierownika ruchu.
-1. Zasięg strefy zagrożenia powietrzną falą uderzeniową oblicza się orientacyjnie dla ładunków materiałów wybuchowych umieszczonych w otworach strzałowych, według wzoru: r k 3 Q p p = gdzie poszczególne symbole oznaczają: r - zasięg strefy zagrożenia, wyrażony w metrach, k - współczynnik o wartości określonej w tabeli 1, Q - całkowitą masę ładunku materiałów wybuchowych odpalanego w serii, wyrażoną w kg.
+
+## Załącznik nr 4 — WYZNACZANIE STREFY ZAGROŻENIA WOKÓŁ MIEJSCA WYKONYWANIA ROBÓT STRZAŁOWYCH W ODKRYWKOWYCH ZAKŁADACH GÓRNICZYCH, WYZNACZANIE ZAKŁADACH STREFY GÓRNICZYCH ZAGROŻENIA WYDOBYWAJĄCYCH WOKÓŁ MIEJSCA WYKONYWANIA KOPALINY ROBÓT OTWORAMI STRZAŁOWYCH W ODKRYWKOWYCH ZAKŁADACH GÓRNICZYCH, ZAKŁADACH GÓRNICZYCH WYDOBYWAJĄCYCH KOPALINY WIERTNICZYMI OTWORAMI WIERTNICZYMI
+
+1. Zasięg strefy zagrożenia powietrzną falą uderzeniową oblicza się orientacyjnie dla ładunków materiałów wybuchowych umieszczonych w otworach strzałowych, według wzoru: r = k 3 Q p p gdzie poszczególne symbole oznaczają: r - zasięg strefy zagrożenia, wyrażony w metrach, k - współczynnik o wartości określonej w tabeli 1, Q - całkowitą masę ładunku materiałów wybuchowych odpalanego w serii, wyrażoną w kg.
 2. Rzeczoznawca ustala w swojej opinii:
 1) zasięg strefy zagrożenia powietrzną falą uderzeniową w przypadku, gdy ładunki materiału wybuchowego inicjowane są lontem detonującym poza otworem strzałowym;
 2) rzeczywisty zasięg strefy zagrożenia powietrzną falą uderzeniową.
@@ -1376,39 +1422,18 @@ W trakcie wykonywania robót strzałowych używa się środków strzałowych, kt
 Zasięg stref określony w tabelach 2–4 może być zmniejszony lub zwiększony na podstawie opinii rzeczoznawcy.
 5. W przypadku stosowania w zakładzie górniczym różnych metod wykonywania robót strzałowych, zasięg strefy zagrożenia rozrzutem odłamków skalnych ustala się oddzielnie dla każdej metody.
 6. Zasięg strefy zagrożenia drganiami parasejsmicznymi górotworu oblicza się orientacyjnie.
-WYZNACZANIE STREFY ZAGROŻENIA WOKÓŁ MIEJSCA WYKONYWANIA ROBÓT STRZAŁOWYCH W ODKRYWKOWYCH ZAKŁADACH GÓRNICZYCH, ZAKŁADACH GÓRNICZYCH WYDOBYWAJĄCYCH KOPALINY OTWORAMI WIERTNICZYMI
-6.1. Przy strzelaniu w otworach pionowych, przy dwóch płaszczyznach odsłonięcia calizny: ϕ Q r = gdzie poszczególne symbole oznaczają: r - zasięg strefy zagrożenia drganiami parasejsmicznymi górotworu, wyrażony w metrach, Q - maksymalny ładunek materiału wybuchowego przypadający na stopień opóźnienia przy stosowaniu zapalników milisekundowych lub ładunek całkowity materiału wybuchowego, który odpalany jest natychmiastowo, wyrażony w kg, ϕ - współczynnik zależny od prędkości fali podłużnej (c) w podłożu chronionego obiektu, który wynosi: - przy c < 2000 m/s ϕ = 0,019 - 0,015 - przy c = 2000 - 3000 m/s ϕ = 0,025 - 0,020 - przy c > 3000 m/s ϕ = 0,030 - 0,026
+6.1. Przy strzelaniu w otworach pionowych, przy dwóch płaszczyznach odsłonięcia calizny: Q r = ϕ gdzie poszczególne symbole oznaczają: r - zasięg strefy zagrożenia drganiami parasejsmicznymi górotworu, wyrażony w metrach, Q - maksymalny ładunek materiału wybuchowego przypadający na stopień opóźnienia przy stosowaniu zapalników milisekundowych lub ładunek całkowity materiału wybuchowego, który odpalany jest natychmiastowo, wyrażony w kg, ϕ - współczynnik zależny od prędkości fali podłużnej (c) w podłożu chronionego obiektu, który wynosi: - przy c < 2000 m/s ϕ = 0,019 - 0,015 - przy c = 2000 - 3000 m/s ϕ = 0,025 - 0,020 - przy c > 3000 m/s ϕ = 0,030 - 0,026
 6.2. Dla robót strzałowych wykonywanych z jedną powierzchnią odsłonięcia, a także przy robotach strzałowych wykonywanych w otworach poziomych albo w progach przyspągowych, zasięg strefy zagrożenia drganiami parasejsmicznymi górotworu, obliczony według wzoru określonego w pkt 6.1, zwiększa się 1,5 razy.
 6.3. W przypadku, gdy seria ładunków materiału wybuchowego odpalana jest przy użyciu zapalników milisekundowych, promień strefy szkodliwych drgań parasejsmicznych górotworu, obliczony według wzoru określonego w pkt 6.1, zwiększa się 1,5 razy.
 7. Rzeczoznawca określa rzeczywisty zasięg strefy zagrożenia drganiami parasejsmicznymi górotworu.
 8. Zasięg strefy zagrożenia obiektów drganiami parasejsmicznymi wzbudzanymi podczas strzelania w otworach wiertniczych do celów geofizycznych, określa tabela 5.
-Tabela 1 Wartości współczynnika k do obliczania strefy zagrożenia powietrzną falą uderzeniową Sposób umieszczenia ładunku materiału wybuchowego przy wskaźniku Stopień bezpieczeństwa Możliwe uszkodzenia na działania powierzchni n=1 n<1 Współczynnik k 1 Zupełny brak uszkodzeń 40-60 12-15 9-11 2 Przypadkowe uszkodzenie oszklenia 25-35 9-11 6-7 3 Całkowite uszkodzenie oszklenia, 7-15 5-7 4-5 uszkodzenie ram okiennych, tynków i lekkich ścianek działowych 4 Uszkodzenie wewnętrznych ścianek 4-5 2,5-3 2-2,5 działowych, wyrwanie drzwi, zniszczenie baraków, szop 5 Uszkodzenie słabszych budowli, 2-3 1,5 1 niektórych maszyn, linii energetycznych Wskaźnik działania n oblicza się według wzoru: R n z = gdzie poszczególne symbole oznaczają: R - promień podstawy stożka działania, wyrażony w metrach, z - zabiór otworów strzałowych, wyrażony w metrach.
+Tabela 1 Wartości współczynnika k do obliczania strefy zagrożenia powietrzną falą uderzeniową Sposób umieszczenia ładunku materiału wybuchowego przy wskaźniku Stopień bezpieczeństwa Możliwe uszkodzenia na działania powierzchni n=1 n<1 Współczynnik k 1 Zupełny brak uszkodzeń 40-60 12-15 9-11 2 Przypadkowe uszkodzenie oszklenia 25-35 9-11 6-7 3 Całkowite uszkodzenie oszklenia, 7-15 5-7 4-5 uszkodzenie ram okiennych, tynków i lekkich ścianek działowych 4 Uszkodzenie wewnętrznych ścianek 4-5 2,5-3 2-2,5 działowych, wyrwanie drzwi, zniszczenie baraków, szop 5 Uszkodzenie słabszych budowli, 2-3 1,5 1 niektórych maszyn, linii energetycznych Wskaźnik działania n oblicza się według wzoru: R n = z gdzie poszczególne symbole oznaczają: R - promień podstawy stożka działania, wyrażony w metrach, z - zabiór otworów strzałowych, wyrażony w metrach.
 Stożek wyrzutu jest: - normalny, gdy n = 1, - zmniejszony, gdy n < 1, - zwiększony, gdy n > 1.
 W przypadku, gdy wskaźnik działania jest zwiększony (n>1), wartość współczynnika k przyjmuje się jak dla ładunku materiału wybuchowego umieszczonego na powierzchni.
-Tabela 2 Zasięg strefy zagrożenia rozrzutem odłamków skalnych Zasięg strefy zagrożenia rozrzutem odłamków skalnych w metrach Metoda wykonywania robót strzałowych wokół w kierunku prostopadłym miejsca do ściany w miejscu robót robót strzałowych strzałowych do poza wyrobiska wyrobisko górniczego górnicze Strzelanie ładunkami w otworach krótkich i z poszerzonym dnem: 300 pionowych - - poziomych i nachylonych 400 200 Strzelanie ładunkami w otworach krótkich i z poszerzonym dnem w progach przyspągowych 400 ¯ ¯ Strzelanie w celu poszerzania dna otworów krótkich i długich 100 − − Strzelanie ładunkami w długich otworach: pionowymi 200 ¯ ¯ poziomymi i nachylonymi - 400 200 Roboty strzałowe rozszczepkowe: ładunkami nakładanymi 300 ładunkami podkładanymi 400 ładunkami w otworach z przybitką 300 lontem detonującym z przybitką wodną 200 ładunkami w otworach bez przybitki 200 − − − − − − − − − − Strzelanie komorowe i chodnikowe 500 − − Strzelanie na wyrzut i zrzut, kawernami, szczelinowe, zestrzeliwanie 500 nawisów skalnych − − Otwory strzałowe klasyfikuje się w zależności od: długości, nachylenia i przekroju poprzecznego.
+Tabela 2 Zasięg strefy zagrożenia rozrzutem odłamków skalnych Zasięg strefy zagrożenia rozrzutem odłamków skalnych w metrach Metoda wykonywania robót strzałowych wokół w kierunku prostopadłym miejsca do ściany w miejscu robót robót strzałowych strzałowych do poza wyrobiska wyrobisko górniczego górnicze Strzelanie ładunkami w otworach krótkich i z poszerzonym dnem: 300 pionowych - - poziomych i nachylonych 400 200 Strzelanie ładunkami w otworach krótkich i z poszerzonym dnem w progach przyspągowych 400 ¯ ¯ Strzelanie w celu poszerzania dna otworów krótkich i długich 100 − − Strzelanie ładunkami w długich otworach: pionowymi 200 ¯ ¯ poziomymi i nachylonymi - 400 200 Roboty strzałowe rozszczepkowe: ładunkami nakładanymi 300 − − ładunkami podkładanymi 400 − − ładunkami w otworach z przybitką 300 − − lontem detonującym z przybitką wodną 200 − − ładunkami w otworach bez przybitki 200 − − Strzelanie komorowe i chodnikowe 500 − − Strzelanie na wyrzut i zrzut, kawernami, szczelinowe, zestrzeliwanie 500 − − nawisów skalnych Otwory strzałowe klasyfikuje się w zależności od: długości, nachylenia i przekroju poprzecznego.
 Ze względu na długość otwory strzałowe dzielą się na: - krótkie (długość mierzona od wylotu do dna otworu wynosi do 6 m), - długie (długość mierzona od wylotu do dna otworu wynosi więcej niż 6 m).
-Ze względu na nachylenie otwory strzałowe dzielą się na: - pionowe (otwory pionowe i odchylone od pionu do 20), - poziome (otwory poziome i odchylone od poziomu do 20), - nachylone (otwory o kącie odchylenia od pionu większym niż 20 i mniejszym niż 70).
+Ze względu na nachylenie otwory strzałowe dzielą się na: - pionowe (otwory pionowe i odchylone od pionu do 20 ), - poziome (otwory poziome i odchylone od poziomu do 20 ), - nachylone (otwory o kącie odchylenia od pionu większym niż 20 i mniejszym niż 70 ).
 Tabela 3 Zasięg strefy zagrożenia rozrzutem odłamków skalnych przy wykonywaniu robót strzałowych do celów geofizycznych Masa ładunku w kg Roboty strzałowe w Roboty strzałowe na Roboty strzałowe w Roboty strzałowe rowach i powierzchni zbiornikach w powietrzu zagłębieniach ziemi wodnych terenowych Zasięg strefy w m do 5 70 110 110 180 <5 do 10 100 160 140 230 < 10 do 30 170 270 200 330 < 30 do 50 210 350 240 400 < 50 do 70 250 420 280 460 < 70 do 100 300 500 300 500 Tabela 4 Zasięg strefy zagrożenia rozrzutem odłamków skalnych przy wykonywaniu robót strzałowych w pojedynczym otworze wiertniczym Roboty strzałowe w pojedynczym otworze wiertniczym w zależności od: masa ładunku w kg głębokości otworu w m Zasięg strefy w m do 0,5 2 30 do 0,5 3 20 0,5 - 2,5 5 20 2,5 - 5,0 10 20 5,0 - 10,0 15 20 10,0 - 20,0 18 20 20,0 - 30,0 20 20 30,0 - 50,0 25 20 50,0 - 100,0 30 25 Masa ładunku materiału wybuchowego załadowanego do pojedynczego otworu nie może przekraczać 100 kg. Przy odpalaniu ładunków materiałów wybuchowych w pojedynczych otworach wiertniczych, różniących się od podanych w tabeli 4, lub odpalanych na głębokościach innych niż podane w tabeli 4, zasięg strefy zagrożenia rozrzutem odłamków skalnych może być ustalony na podstawie opinii rzeczoznawcy.
 Tabela 5 Zasięg strefy zagrożenia obiektów drganiami parasejsmicznymi górotworu wzbudzonymi podczas strzelania w otworach wiertniczych do celów geofizycznych (wyrażony w metrach) Masa ładunku w kg Lp. Obiekty <5do10 <10 do <20 do <40 <100 <200 do 5 20 40 do100 do 200 do 250 1 Składy z materiałami łatwopalnymi i 175 200 250 300 370 500 750 wybuchowymi 2 Zwarte osiedla mieszkaniowe, budynki 50 75 100 150 200 300 400 użyteczności publicznej i budynki przemysłowe, obiekty gospodarcze i zabytkowe, studnie, tamy i zapory 3 Pojedyncze budynki mieszkalne i 30 50 80 100 150 200 300 gospodarcze, studnie, tamy i zapory betonowe, jazy, kanały i zbiorniki o brzegach umocnionych (betonem, kamieniem spajanym zaprawą), nasypy i wykopy umocnione, mosty betonowe, głębokie otwory wiertnicze 4 Szosy i drogi o nawierzchni 30 30 30 50 50 100 150 utwardzonej (beton, asfalt, kostka), mosty żelazne, tory kolejowe, nasypy i wykopy ziemne, wały ochronne, zbiorniki wodne, kanały, słupy nośne linii energetycznych, linie radiofoniczne, linie telefoniczne, stwierdzone kable podziemne, rurociągi i gazociągi, drogi o nawierzchni półtwardej (tłuczeń, szuter, kostka luźna), rowy melioracyjne, przepusty, rzeki nie obwałowane, głębokie otwory wiertnicze przy wykonywaniu prędkości średnich, przewody linii elektrycznych, linie telefoniczne i linie radiofoniczne oraz rurociągi i parociągi w obrębie zakładów górniczych od rurociągów i parociągów.
 5 Drogi polne i leśne 5 5 5 5 10 20 30 Uwaga: Przy lokalizowaniu punktów strzałowych dla prac sejsmicznych metodą refrakcyjną dla obiektów specjalnie czułych na wstrząsy sejsmiczne (obserwatoria astronomiczne i geofizyczne, stacje sejsmiczne i meteorologiczne), obiektów przemysłowych specjalnego znaczenia (zakłady górnicze podziemne i odkrywkowe, tereny podziemnych i naziemnych robót budowlanych, głębionych otworów głębokich), innych obiektów specjalnego znaczenia (budowle zabytkowe, zapory wodne, urządzenia obronne kraju), dla osiedli mieszkaniowych o wysokiej zabudowie, dla zakładów przemysłowych ważnych pod względem gospodarczym, w których znajdują się obiekty wrażliwe na wstrząsy sejsmiczne (wysokie kominy, piece hutnicze, armatura w rafineriach i innych zakładach chemicznych), dla ładunków: „powyżej 100-200” i „powyżej 200-250” wstawia się zasięgi stref zagrożenia „2000” i „3500”.
-
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa szczegółowe wymagania dotyczące przechowywania i używania środków strzałowych i sprzętu strzałowego w ruchu zakładu górniczego, w tym rodzaje, sposób i wzory ewidencji środków strzałowych oraz przypadki, w których przedsiębiorca ma obowiązek posiadać dowód sprawdzenia rozwiązań technicznych przez rzeczoznawcę do spraw ruchu zakładu górniczego.
-
-#### Rozdział 2 Przechowywanie środków strzałowych i sprzętu strzałowego § 13. 1. Środki strzałowe w zakładzie górniczym przechowuje się w przeznaczonych do tego celu, odpowiednio przystosowanych i zlokalizowanych składach materiałów wybuchowych, zapewniających bezpieczeństwo osób i ochronę mienia przed skutkami wybuchu środków strzałowych, z uwzględnieniem w szczególności:
-
-#### Rozdział 3 Przewożenie i przenoszenie środków strzałowych i sprzętu strzałowego § 27. 1. Środki strzałowe są przenoszone i przewożone w oryginalnych opakowaniach fabrycznych lub w przeznaczonych i przystosowanych do tego celu naczyniach, z użyciem, w przypadku przewożenia, środków transportu zapewniających ochronę mienia i ciągłości ruchu zakładu górniczego albo zakładu oraz bezpieczeństwo osób, w szczególności:
-
-#### Rozdział 4 Rodzaje, sposoby i wzory ewidencji środków strzałowych § 42. 1. Dostarczone do zakładu górniczego albo do zakładu oraz zużyte w zakładzie górniczym albo w zakładzie środki strzałowe niezwłocznie ewidencjonuje się w ewidencji środków strzałowych.
-
-#### Rozdział 5 Używanie środków strzałowych i sprzętu strzałowego do robót strzałowych § 52. 1. W zależności od rodzaju robót strzałowych, ich złożoności oraz warunków, w których są one wykonywane, dla miejsca ich wykonywania sporządza się metrykę strzałową albo dokumentację strzałową.
-
-#### Rozdział 6 Szczegółowe wymagania dotyczące używania środków strzałowych i sprzętu strzałowego w podziemnych zakładach górniczych § 82. 1. Kierownik działu techniki strzałowej wyznaczony przez kierownika ruchu sprawuje nadzór nad stosowaniem środków strzałowych, sprzętu strzałowego oraz wykonywaniem robót strzałowych.
-
-#### Rozdział 7 Szczegółowe wymagania dotyczące używania środków strzałowych i sprzętu strzałowego w odkrywkowych zakładach górniczych § 147. 1. Roboty strzałowe wykonywane metodą długich otworów strzałowych wykonuje się pod nadzorem kierownika odstrzału wyznaczonego przez kierownika ruchu.
-
-#### Rozdział 8 Szczegółowe wymagania dotyczące używania środków strzałowych i sprzętu strzałowego w zakładach górniczych wydobywających kopaliny otworami wiertniczymi § 179. Wokół miejsca prowadzenia robót strzałowych wyznacza się strefy zagrożenia: powietrzną falą uderzeniową, rozrzutem odłamków skalnych i drganiami parasejsmicznymi górotworu w sposób określony w załączniku nr 4 do rozporządzenia, w których obrębie zapewnia się bezpieczeństwo osób i ochronę mienia przed skutkami robót strzałowych.
-
-#### Rozdział 9 Przepis przejściowy i przepis końcowy § 193. Wzory dokumentów ewidencji stosowane przed dniem wejścia w życie rozporządzenia mogą być stosowane przez okres 6 miesięcy od dnia wejścia w życie rozporządzenia.
-
-##### Oddział ....................... nr przodka lub łamu, poziomu.................
 

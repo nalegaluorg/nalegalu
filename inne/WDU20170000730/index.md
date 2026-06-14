@@ -8,7 +8,7 @@ pos: 730
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o związku metropolitalnym w województwie śląskim
@@ -261,6 +261,9 @@ Art. 55–61. (pominięte)
 
 **Art. 18.** Organami związku metropolitalnego są:
 
+- **1)** zgromadzenie;
+- **2)** zarząd związku metropolitalnego, zwany dalej „zarządem”.
+
 **Art. 19.**
 
 1. Działalność organów związku metropolitalnego jest jawna. Ograniczenia jawności mogą wynikać wyłącznie z ustaw.
@@ -284,6 +287,21 @@ Art. 55–61. (pominięte)
 2. Pierwszą sesję zgromadzenia, do czasu wyboru przewodniczącego, prowadzi najstarszy wiekiem delegat obecny na sesji.
 
 **Art. 23.** Do wyłącznej właściwości zgromadzenia należy:
+
+- **1)** uchwalanie strategii rozwoju związku metropolitalnego;
+- **2)** uchwalanie statutu związku metropolitalnego;
+- **3)** (uchylony)
+- **4)** uchwalanie budżetu związku metropolitalnego;
+- **5)** rozpatrywanie sprawozdania z wykonania budżetu związku metropolitalnego oraz sprawozdań finansowych związku metropolitalnego;
+- **6)** wybór i odwołanie zarządu oraz ustalanie wynagrodzenia przewodniczącego zarządu;
+- **7)** podejmowanie uchwały w sprawie udzielenia lub nieudzielenia absolutorium zarządowi z tytułu wykonania budżetu związku metropolitalnego;
+- **8)** podejmowanie uchwał w sprawach majątkowych związku metropolitalnego dotyczących: podjęcie uchwały zgromadzenia jest wymagane również w przypadku gdy po zakończeniu obowiązywania umowy zawartej na czas oznaczony do 3 lat strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; do czasu określenia zasad zarząd może dokonywać tych czynności wyłącznie za zgodą zgromadzenia,
+    - **a)** zasad nabywania, zbywania i obciążania nieruchomości oraz ich wydzierżawiania lub wynajmowania na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony, o ile ustawy szczególne nie stanowią inaczej;
+    - **b)** emitowania obligacji oraz określania zasad ich zbywania, nabywania i wykupu,
+    - **c)** zaciągania długoterminowych pożyczek i kredytów,
+    - **d)** ustalania maksymalnej wysokości pożyczek i kredytów krótkoterminowych zaciąganych przez zarząd oraz maksymalnej wysokości pożyczek i poręczeń udzielanych przez zarząd w roku budżetowym,
+    - **e)** tworzenia spółek prawa handlowego lub spółdzielni i przystępowania do nich oraz określania zasad wnoszenia wkładów, a także obejmowania, nabywania i zbywania udziałów i akcji,
+    - **f)** tworzenia, przekształcania i likwidowania jednostek organizacyjnych związku metropolitalnego oraz wyposażania ich w majątek.
 
 **Art. 24.**
 
@@ -444,6 +462,11 @@ Art. 55–61. (pominięte)
 
 **Art. 47.** Gospodarka środkami finansowymi znajdującymi się w dyspozycji związku metropolitalnego jest jawna. Wymóg jawności jest spełniany w szczególności przez:
 
+- **1)** jawność debaty budżetowej;
+- **2)** opublikowanie uchwały budżetowej oraz sprawozdań z wykonania budżetu związku metropolitalnego;
+- **3)** przedstawienie pełnego wykazu kwot dotacji celowych udzielanych z budżetu związku metropolitalnego;
+- **4)** ujawnienie sprawozdania zarządu z działań, o których mowa w art. 46 ust. 2 pkt 1 i 2.
+
 **Art. 48.** Dyspozycja środkami pieniężnymi związku metropolitalnego jest oddzielona od jej kasowego wykonania.
 
 **Art. 49.** Kontrolę gospodarki finansowej związku metropolitalnego sprawuje regionalna izba obrachunkowa.
@@ -453,6 +476,18 @@ Art. 55–61. (pominięte)
 #### Rozdział 7 Dochody związku metropolitalnego
 
 **Art. 51.** Źródłami dochodów związku metropolitalnego są:
+
+- **1)** udział we wpływach z podatku dochodowego od osób fizycznych zamieszkałych na obszarze związku metropolitalnego;
+- **2)** składki od gmin wchodzących w skład związku metropolitalnego;
+- **3)** dochody uzyskiwane przez jednostki budżetowe związku metropolitalnego oraz wpłaty od zakładów budżetowych związku metropolitalnego;
+- **4)** dochody z majątku związku metropolitalnego;
+- **5)** spadki, zapisy i darowizny na rzecz związku metropolitalnego;
+- **6)** odsetki od pożyczek udzielanych przez związek metropolitalny, o ile odrębne przepisy nie stanowią inaczej;
+- **7)** odsetki od nieterminowo przekazywanych należności stanowiących dochody związku metropolitalnego;
+- **8)** odsetki od środków finansowych gromadzonych na rachunkach bankowych związku metropolitalnego, o ile odrębne przepisy nie stanowią inaczej;
+- **9)** dotacje z budżetu państwa;
+- **10)** dotacje z budżetów jednostek samorządu terytorialnego;
+- **11)** inne dochody należne związkowi metropolitalnemu na podstawie odrębnych przepisów.
 
 **Art. 52.**
 

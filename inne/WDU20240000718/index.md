@@ -8,12 +8,10 @@ pos: 718
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sprawie szczegółowych zasad wydzielenia organizacyjnego działalności maklerskiej czynności, które mogą być wykonywane przez jednostkę wydzieloną organizacyjnie albo inne jednostki organizacyjne Na podstawie art. 111 10 ustawy dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi 2023 r.
-
-*ROZPORZĄDZENIE MINISTRA FINANSÓW dnia 6 maja 2024 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 718 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 6 maja 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,41 +25,47 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/718/text.pdf) |
 
-646, 825, 1723 1941) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie szczegółowych zasad wydzielenia organizacyjnego działalności maklerskiej banku oraz czynności, które mogą być wykonywane przez jednostkę wydzieloną organizacyjnie albo inne jednostki organizacyjne banku Na podstawie art. 111 ust. 10 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r.
+poz. 646, 825, 1723 i 1941) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe zasady wydzielenia organizacyjnego działalności maklerskiej banku;
-2) zakres czynności, które związku działalnością maklerską prowadzoną przez bank pozostałą działalnością mogą być wykonywane przez jednostkę wydzieloną organizacyjnie zgodnie art. 111 5 ustawy dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zwanej dalej „ustawą”, albo jednostki organizacyjne inne niż ta jednostka, sposób ustalenia warunków wykonywania tych czynności.
-§ 2. 1. Bank prowadzi działalność maklerską ramach biura maklerskiego.
-2. Przez biuro maklerskie rozumie się jednostkę organizacyjną wydzieloną organizacyjnie zgodnie art. 111 5 ustawy, ramach której bank prowadzi działalność maklerską.
-§ 3. Czynności związane prowadzeniem działalności maklerskiej wykonują osoby zatrudnione przez bank biurze na podstawie umowy o pracę, zlecenia lub innej umowy o podobnym charakterze.
-§ 4. 1. Do czynności, które związku działalnością maklerską prowadzoną przez bank pozostałą działalnością mogą być wykonywane przez biuro maklerskie albo jednostki organizacyjne inne niż biuro maklerskie, o których mowa art. 112a ustawy, zalicza się czynności:
-1) wynikające przepisów o przeciwdziałaniu praniu pieniędzy finansowaniu terroryzmu;
-2) przetwarzania ochrony danych osobowych lub czynności polegające na identyfikacji przechowywaniu danych identyfikacyjnych klientów innych niż dane osobowe, a także czynności zakresu identyfikacji klientów zapewnienia bezpieczeństwa klientów związku ze świadczonymi na ich rzecz usługami, tym cyberbezpieczeństwa;
-3) pozyskiwania informacji niezbędnych do określania grup docelowych, oceny adekwatności odpowiedniości instrumentów finansowych usług badania preferencji zrównoważonego rozwoju;
-4) wynikające prawa podatkowego;
-5) utrzymywania, wsparcia rozwoju systemów informatycznych, aplikacji lub baz danych, ze szczególnym uwzględnieniem działań zakresu cyberbezpieczeństwa zapewnienia ciągłości działania banku;
-Rady (UE) 2015/2365 dnia 25 listopada 2015 r. sprawie przejrzystości transakcji finansowanych użyciem papierów wartościowych ponownego wykorzystania zmiany (UE) nr 648/2012 Urz. UE L 337
-23.12.2015, str. 1, późn. zm. );
-10) wynikające Parlamentu Europejskiego Rady (UE) nr 648/2012 dnia 4 lipca 2012 r. sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych repozytoriów transakcji Urz. UE L 201 27.07.2012, str. 1, późn. zm. ).
-2. Czynności, o których mowa 1, wykonują odpowiednio osoby zatrudnione przez bank biurze albo innej jednostce organizacyjnej niebędącej na podstawie umowy o pracę, zlecenia lub innej umowy o podobnym charakterze.
-3. Czynności, o których mowa 1, są wykonywane przez osoby zatrudnione przez bank w:
-1) biurze dla innej jednostki organizacyjnej niebędącej maklerskim,
-2) innej jednostce organizacyjnej niebędącej dla biura maklerskiego na podstawie odpowiedniego upoważnienia.
-4. Bank uzgodnieniu osobą kierującą opracowuje wdraża pisemne regulacje wewnętrzne dotyczące wykonywania czynności, o których mowa 1, gwarantujące bezpieczne sprawne wykonywanie tych czynności.
-§ 5. 1. Czynności audytu wewnętrznego, o których mowa art. 24 delegowanego Komisji (UE) 2017/565 dnia 25 kwietnia 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego Rady 2014/65/UE odniesieniu do wymogów organizacyjnych warunków prowadzenia działalności przez firmy inwestycyjne pojęć zdefiniowanych na potrzeby tej dyrektywy Urz. UE L 87 31.03.2017, str. 1, późn. zm. ), działalności maklerskiej mogą być wykonywane ramach komórki audytu wewnętrznego banku.
-2. W przypadku, o którym mowa 1, regulacje wewnętrzne zapewniają, aby:
-1) plan audytu wewnętrznego działalności maklerskiej przed przekazaniem tego planu organowi odpowiedzialnemu za jego zatwierdzanie był opiniowany przez osobę kierującą maklerskim;
-2) czynności audytu wewnętrznego działalności maklerskiej były wykonywane zależności od potrzeb, nie rzadziej jednak niż raz roku;
-3) osoba kierująca komórką audytu wewnętrznego przekazywała osobie kierującej raport przeprowadzonego audytu działalności maklerskiej terminie określonym tych regulacjach;
-tajemnicę zawodową rozumieniu ustawy tajemnicę bankową rozumieniu ustawy dnia 29 sierpnia 1997 r. Prawo bankowe 2023 r. 2488). Informacja o przyjęciu regulacji wewnętrznych, o których mowa zdaniu pierwszym, jest niezwłocznie przekazywana zarządowi radzie nadzorczej banku.
-§ 8. Regulacje wewnętrzne zapewniają, aby:
-1) czynności, o których mowa § 4 1 § 5, wykonywane ramach jednostki organizacyjnej niebędącej biurem dla biura maklerskiego były wykonywane zgodnie przepisami regulującymi prowadzenie działalności maklerskiej;
-2) czynności, o których mowa § 4 1, wykonywane ramach biura maklerskiego dla jednostki organizacyjnej niebędącej były wykonywane zgodnie przepisami regulującymi prowadzenie działalności przez bank;
-3) informacje przekazywane przez biuro maklerskie związku wykonywaniem czynności, o których mowa § 4 1, § 5 § 6, jednostkom organizacyjnym niebędącym nie były wykorzystywane przez bank do wykonywania czynności innych niż określone tych przepisach, szczególności celu pozyskania klientów dla tych jednostek organizacyjnych lub oferowania klientom usług tych jednostek organizacyjnych banku;
-4) informacje przekazywane przez jednostki organizacyjne niebędące związku wykonywaniem czynności, o których mowa § 4 1, biuru maklerskiemu nie były wykorzystywane przez biuro maklerskie do wykonywania czynności innych niż określone tych przepisach, szczególności celu pozyskania klientów lub oferowania klientom usług biura maklerskiego.
-§ 9. 1. Banki, które dniu wejścia życie rozporządzenia:
-1) przyjmują zlecenia nabycia lub zbycia instrumentów finansowych punktach przyjmowania zleceń,
-2) prowadzą działalność maklerską wyłącznie przyjmowania przekazywania zleceń nabycia lub zbycia instrumentów finansowych, wyodrębnioną organizacyjnie, formie jednostki niebędącej oddziałem ani inną jednostką działającą na zasadach oddziału są obowiązane dostosować prowadzoną działalność do przepisów rozporządzenia, terminie 6 miesięcy od dnia wejścia życie rozporządzenia.
-2. Banki, które dniu wejścia życie prowadzą działalność maklerską ramach biura maklerskiego, są obowiązane dostosować prowadzoną działalność do wymogu określonego § 4 3, terminie 6 miesięcy od dnia wejścia życie rozporządzenia.
-§ 10. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+2) zakres czynności, które w związku z działalnością maklerską prowadzoną przez bank i pozostałą działalnością banku mogą być wykonywane przez jednostkę wydzieloną organizacyjnie zgodnie z art. 111 ust. 5 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zwanej dalej „ustawą”, albo jednostki organizacyjne banku inne niż ta jednostka, oraz sposób ustalenia warunków wykonywania tych czynności.
+§ 2. 1. Bank prowadzi działalność maklerską w ramach biura maklerskiego.
+2. Przez biuro maklerskie rozumie się jednostkę organizacyjną banku wydzieloną organizacyjnie zgodnie z art. 111 ust. 5 ustawy, w ramach której bank prowadzi działalność maklerską.
+§ 3. Czynności związane z prowadzeniem działalności maklerskiej wykonują osoby zatrudnione przez bank w biurze maklerskim na podstawie umowy o pracę, zlecenia lub innej umowy o podobnym charakterze.
+§ 4. 1. Do czynności, które w związku z działalnością maklerską prowadzoną przez bank i pozostałą działalnością banku mogą być wykonywane przez biuro maklerskie albo jednostki organizacyjne banku inne niż biuro maklerskie, o których mowa w art. 112a ustawy, zalicza się czynności:
+1) wynikające z przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+2) w zakresie przetwarzania i ochrony danych osobowych lub czynności polegające na identyfikacji i przechowywaniu danych identyfikacyjnych klientów innych niż dane osobowe, a także czynności z zakresu identyfikacji klientów i zapewnienia bezpieczeństwa klientów w związku ze świadczonymi na ich rzecz usługami, w tym w zakresie cyberbezpieczeństwa;
+3) w zakresie pozyskiwania informacji niezbędnych do określania grup docelowych, oceny adekwatności i odpowiedniości instrumentów finansowych i usług oraz badania preferencji w zakresie zrównoważonego rozwoju;
+4) wynikające z prawa podatkowego;
+5) w zakresie utrzymywania, wsparcia i rozwoju systemów informatycznych, aplikacji lub baz danych, ze szczególnym uwzględnieniem działań z zakresu cyberbezpieczeństwa i zapewnienia ciągłości działania banku;
+6) w zakresie przechowywania oraz archiwizacji dokumentów i innych nośników danych;
+7) polegające na wypełnianiu obowiązków wynikających z przepisów ustawy z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej (Dz. U. poz. 1941);
+8) polegające na wypełnianiu obowiązków informacyjnych wynikających z rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm. );
+9) polegające na wypełnianiu obowiązków informacyjnych wynikających z rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/2365 z dnia 25 listopada 2015 r. w sprawie przejrzystości transakcji finansowanych z użyciem papierów wartościowych i ponownego wykorzystania oraz zmiany rozporządzenia (UE) nr 648/2012 (Dz. Urz. UE L 337 z 23.12.2015, str. 1, z późn. zm. );
+10) wynikające z rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm. ).
+2. Czynności, o których mowa w ust. 1, wykonują odpowiednio osoby zatrudnione przez bank w biurze maklerskim albo innej jednostce organizacyjnej banku niebędącej biurem maklerskim na podstawie umowy o pracę, zlecenia lub innej umowy o podobnym charakterze.
+3. Czynności, o których mowa w ust. 1, są wykonywane przez osoby zatrudnione przez bank w:
+1) biurze maklerskim dla innej jednostki organizacyjnej banku niebędącej biurem maklerskim,
+2) innej jednostce organizacyjnej banku niebędącej biurem maklerskim dla biura maklerskiego – na podstawie odpowiedniego upoważnienia.
+4. Bank w uzgodnieniu z osobą kierującą biurem maklerskim opracowuje i wdraża pisemne regulacje wewnętrzne dotyczące wykonywania czynności, o których mowa w ust. 1, gwarantujące bezpieczne i sprawne wykonywanie tych czynności.
+§ 5. 1. Czynności audytu wewnętrznego, o których mowa w art. 24 rozporządzenia delegowanego Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm. ), w zakresie działalności maklerskiej banku mogą być wykonywane w ramach komórki audytu wewnętrznego banku.
+2. W przypadku, o którym mowa w ust. 1, regulacje wewnętrzne banku zapewniają, aby:
+1) plan audytu wewnętrznego banku w zakresie działalności maklerskiej banku przed przekazaniem tego planu organowi banku odpowiedzialnemu za jego zatwierdzanie był opiniowany przez osobę kierującą biurem maklerskim;
+2) czynności audytu wewnętrznego w zakresie działalności maklerskiej banku były wykonywane w zależności od potrzeb, nie rzadziej jednak niż raz w roku;
+3) osoba kierująca komórką audytu wewnętrznego banku przekazywała osobie kierującej biurem maklerskim raport z przeprowadzonego audytu w zakresie działalności maklerskiej w terminie określonym w tych regulacjach;
+4) osoby wykonujące czynności audytu wewnętrznego w zakresie działalności maklerskiej banku posiadały wiedzę i doświadczenie w zakresie organizacji i funkcjonowania podmiotów prowadzących działalność maklerską oraz w zakresie wymogów prawa mających zastosowanie do prowadzenia działalności maklerskiej.
+§ 6. Czynności związane z obsługą prawną lub prawnopodatkową biura maklerskiego mogą być wykonywane w ramach jednostki organizacyjnej banku zajmującej się odpowiednio obsługą prawną lub prawnopodatkową banku.
+§ 7. W zakresie przepływu informacji związanych z wykonywaniem czynności na podstawie przepisów rozporządzenia, bank w uzgodnieniu z osobą kierującą biurem maklerskim opracowuje i wdraża, w sposób zapewniający bezpieczeństwo informacji, pisemne regulacje wewnętrzne dotyczące ochrony przepływu informacji poufnych i informacji stanowiących tajemnicę zawodową w rozumieniu ustawy oraz tajemnicę bankową w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488). Informacja o przyjęciu regulacji wewnętrznych, o których mowa w zdaniu pierwszym, jest niezwłocznie przekazywana zarządowi i radzie nadzorczej banku.
+§ 8. Regulacje wewnętrzne banku zapewniają, aby:
+1) czynności, o których mowa w § 4 ust. 1 i § 5, wykonywane w ramach jednostki organizacyjnej banku niebędącej biurem maklerskim dla biura maklerskiego były wykonywane zgodnie z przepisami regulującymi prowadzenie działalności maklerskiej;
+2) czynności, o których mowa w § 4 ust. 1, wykonywane w ramach biura maklerskiego dla jednostki organizacyjnej banku niebędącej biurem maklerskim były wykonywane zgodnie z przepisami regulującymi prowadzenie działalności przez bank;
+3) informacje przekazywane przez biuro maklerskie w związku z wykonywaniem czynności, o których mowa w § 4 ust. 1, § 5 i § 6, jednostkom organizacyjnym banku niebędącym biurem maklerskim nie były wykorzystywane przez bank do wykonywania czynności innych niż określone w tych przepisach, w szczególności w celu pozyskania klientów dla tych jednostek organizacyjnych lub oferowania klientom usług tych jednostek organizacyjnych banku;
+4) informacje przekazywane przez jednostki organizacyjne banku niebędące biurem maklerskim w związku z wykonywaniem czynności, o których mowa w § 4 ust. 1, biuru maklerskiemu nie były wykorzystywane przez biuro maklerskie do wykonywania czynności innych niż określone w tych przepisach, w szczególności w celu pozyskania klientów lub oferowania klientom usług biura maklerskiego.
+§ 9. 1. Banki, które w dniu wejścia w życie rozporządzenia:
+1) przyjmują zlecenia nabycia lub zbycia instrumentów finansowych w punktach przyjmowania zleceń,
+2) prowadzą działalność maklerską wyłącznie w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych, wyodrębnioną organizacyjnie, w formie jednostki banku niebędącej oddziałem ani inną jednostką banku działającą na zasadach oddziału – są obowiązane dostosować prowadzoną działalność do przepisów rozporządzenia, w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia.
+2. Banki, które w dniu wejścia w życie rozporządzenia prowadzą działalność maklerską w ramach biura maklerskiego, są obowiązane dostosować prowadzoną działalność do wymogu określonego w § 4 ust. 3, w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia.
+§ 10. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Finansów: A. Domański
 

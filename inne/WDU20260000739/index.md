@@ -1,0 +1,260 @@
+---
+title: Ustawa z dnia 15 maja 2026 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji
+address: WDU20260000739
+eli: DU/2026/739
+publisher: DU
+year: 2026
+pos: 739
+act_type: Ustawa
+status: obowiązujący
+domain: null
+source: pdf
+---
+
+# o zmianie ustawy o postępowaniu egzekucyjnym w administracji
+
+*USTAWA z dnia 15 maja 2026 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2026 poz. 739 |
+| ISAP | WDU20260000739 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2026-05-15 |
+| Data wydania | 2026-06-08 |
+| Ostatnia zmiana | 2026-06-12 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000739) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/739/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268 i 516) wprowadza się następujące zmiany:
+
+- **1)** w art. 3a w § 1 we wprowadzeniu do wyliczenia wyrazy „oraz opłaty koncesyjnej, o której mowa w art. 34 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne” zastępuje się wyrazami „opłaty koncesyjnej, o której mowa w art. 34 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz środków z doładowań, o których mowa w art. 331 ust. 9 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252)”;
+- **2)** po art. 67d dodaje się art. 67da w brzmieniu: „Art. 67da. § 1. W systemie teleinformatycznym prowadzonym przez Szefa Krajowej Administracji Skarbowej, zwanym dalej „Portalem eLicytacje KAS”, organ egzekucyjny będący naczelnikiem urzędu skarbowego:
+- **1)** może przeprowadzać sprzedaż w drodze licytacji publicznej i z wolnej ręki;
+- **2)** publikuje:
+    - **a)** ogłoszenia i obwieszczenia o sprzedaży,
+    - **b)** protokoły opisu i oszacowania wartości nieruchomości;
+
+- **3)** może publikować inne dokumenty dotyczące sprzedaży dokonywanej przez ten organ.
+
+§ 2. Minister właściwy do spraw finansów publicznych może wyznaczyć, w drodze rozporządzenia, inny organ Krajowej Administracji Skarbowej do prowadzenia Portalu eLicytacje KAS, mając na względzie konieczność sprawnego funkcjonowania tego portalu.
+
+§ 3. Administratorem danych przetwarzanych w Portalu eLicytacje KAS jest:
+
+- **1)** organ prowadzący Portal eLicytacje KAS – w zakresie służącym do zapewnienia funkcjonowania i bezpieczeństwa Portalu eLicytacje KAS;
+- **2)** organ przeprowadzający sprzedaż za pośrednictwem Portalu eLicytacje KAS – w zakresie danych związanych ze sprzedażą przeprowadzaną przez ten organ.
+
+§ 4. Udział w sprzedaży za pośrednictwem Portalu eLicytacje KAS wymaga:
+
+- **1)** uwierzytelnienia;
+- **2)** założenia konta w Portalu eLicytacje KAS;
+- **3)** nadania unikalnego identyfikatora.
+
+§ 5. Konto w Portalu eLicytacje KAS:
+
+- **1)** może być usunięte w każdym czasie przez osobę posiadającą to konto;
+- **2)** podlega automatycznemu usunięciu po upływie roku od dnia ostatniego uwierzytelnienia się na tym koncie.
+
+§ 6. Posiadanie konta w Portalu eLicytacje KAS nie jest wymagane do:
+
+- **1)** zapoznania się z ogłoszeniem, obwieszczeniem i innymi dokumentami dotyczącymi sprzedaży publikowanymi w Portalu eLicytacje KAS;
+- **2)** obserwowania przebiegu sprzedaży za pośrednictwem Portalu eLicytacje KAS.”;
+- **3)** w art. 105a:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Organ egzekucyjny ogłasza o licytacji przez obwieszczenie, które:
+
+- **1)** zawiera:
+    - **a)** miejsce i termin licytacji, a w przypadku licytacji za pośrednictwem Portalu eLicytacje KAS – informacje o datach i godzinach rozpoczęcia i zakończenia licytacji oraz o skutkach wystąpienia okoliczności, o których mowa w art. 107h § 3 i 4,
+    - **b)** określenie ruchomości, która ma być sprzedana, jej rodzaju i wartości szacunkowej,
+    - **c)** cenę wywołania,
+    - **d)** miejsce i termin, w którym można oglądać ruchomość przed licytacją;
+
+- **2)** może zawierać inne informacje, niestanowiące danych osobowych, jeżeli organ egzekucyjny uzna ich podanie za celowe.”,
+    - **b)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Organ egzekucyjny może wraz z obwieszczeniem o licytacji publikować inne dokumenty niezawierające danych osobowych, dotyczące sprzedawanej ruchomości, jeżeli uzna to za celowe.”,
+    - **c)** § 3–3b otrzymują brzmienie: „§ 3. Najpóźniej na 3 dni przed dniem licytacji, a w przypadkach określonych w art. 104 § 2 – najpóźniej na godzinę przed rozpoczęciem licytacji, organ egzekucyjny umieszcza obwieszczenie o licytacji na tablicy ogłoszeń organu egzekucyjnego i w miejscach, gdzie umieszczenie takiego obwieszczenia uzna za celowe. W przypadku licytacji prowadzonej przez organ egzekucyjny będący organem jednostki samorządu terytorialnego obwieszczenie o licytacji zamieszcza się również w Biuletynie Informacji Publicznej na stronie podmiotowej organu jednostki samorządu terytorialnego, a w przypadku licytacji prowadzonej przez organ egzekucyjny będący naczelnikiem urzędu skarbowego obwieszczenie o licytacji publikuje się również w Portalu eLicytacje KAS.
+
+§ 3a. Jeżeli licytacja odbywa się za pośrednictwem Portalu eLicytacje KAS, organ egzekucyjny publikuje obwieszczenie o licytacji w Portalu eLicytacje KAS najpóźniej na 7 dni przed dniem rozpoczęcia licytacji, a w przypadkach określonych w art. 104 § 2 – najpóźniej na 3 dni przed dniem rozpoczęcia licytacji.
+
+§ 3b. Organ egzekucyjny niezwłocznie po zakończeniu licytacji ruchomości usuwa obwieszczenie o licytacji i dokumenty, o których mowa w § 2a, z miejsc, o których mowa w § 3, oraz zaprzestaje ich publikowania w Biuletynie Informacji Publicznej na stronie podmiotowej organu jednostki samorządu terytorialnego albo Portalu eLicytacje KAS.”,
+
+- **d)** § 6a otrzymuje brzmienie: „§ 6a. W ogłoszeniu o licytacji ruchomości podaje się dane, o których mowa w § 2, oraz numer rachunku organu egzekucyjnego, na który składa się wadium.”;
+- **4)** w art. 105b:
+    - **a)** w § 1 zdanie trzecie otrzymuje brzmienie: „Wadium uznaje się za złożone, jeżeli jego wpłata zostanie uznana na rachunku organu egzekucyjnego najpóźniej w dniu poprzedzającym dzień, w którym ma odbyć się licytacja publiczna, a w przypadku licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS najpóźniej na 2 dni robocze przed dniem rozpoczęcia tej licytacji.”,
+    - **b)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Przepisów § 2 nie stosuje się do licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS.”;
+
+- **5)** w art. 105c w § 1 w zdaniu drugim po wyrazie „ „postąpieniem” ” dodaje się wyrazy „ , przy czym nie może ono wynosić mniej niż jeden procent ceny wywołania z zaokrągleniem wzwyż do pełnych złotych”;
+- **6)** w art. 107 w § 3 w zdaniu drugim wyrazy „znajdują się jeszcze we władaniu nabywcy” zastępuje się wyrazami „nie zostały wydane nabywcy”;
+- **7)** po art. 107e dodaje się art. 107f–107l w brzmieniu: „Art. 107f. § 1. Licytacja publiczna ruchomości może odbywać się za pośrednictwem Portalu eLicytacje KAS.
+
+§ 2. Warunkiem dopuszczenia do udziału w licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS i udziału w tej licytacji jest:
+
+- **1)** zgoda na doręczanie pism drogą elektroniczną za pośrednictwem konta w e-Urzędzie Skarbowym;
+- **2)** wskazanie, że uczestniczy się w licytacji we własnym imieniu;
+- **3)** podanie imienia i nazwiska oraz: zm. ), jeżeli nie posiada się numeru PESEL;
+    - **a)** numeru PESEL, jeżeli posiada się taki numer,
+    - **b)** niepowtarzalnego identyfikatora nadanego przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn.
+
+- **4)** oświadczenie, czy pozostaje się w związku małżeńskim, a jeżeli pozostaje się w związku małżeńskim – czy ruchomość zamierza się nabyć do majątku wspólnego czy osobistego;
+- **5)** w przypadku ruchomości, o których mowa w art. 105 § 5 i 6, złożenie za pośrednictwem konta w e-Urzędzie Skarbowym zezwolenia, koncesji lub innego dokumentu uprawniającego do nabycia ruchomości albo ich kopii utrwalonych w postaci elektronicznej, najpóźniej na 5 dni przed dniem rozpoczęcia licytacji, a w przypadkach określonych w art. 104 § 2, najpóźniej na 2 dni robocze przed dniem rozpoczęcia licytacji;
+- **6)** wpłacenie wadium, o ile jest wymagane.
+
+§ 3. Warunkiem dopuszczenia do udziału w licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS i udziału w tej licytacji pełnomocnika, przedstawiciela ustawowego lub statutowego albo opiekuna, zwanych dalej „pełnomocnikiem w licytacji”, jest:
+
+- **1)** zgoda pełnomocnika w licytacji na doręczanie pism drogą elektroniczną za pośrednictwem konta w e-Urzędzie Skarbowym;
+- **2)** wskazanie, że uczestniczy się w licytacji jako pełnomocnik w licytacji;
+- **3)** podanie imienia i nazwiska pełnomocnika w licytacji oraz:
+    - **a)** numeru PESEL, jeżeli posiada się taki numer,
+    - **b)** niepowtarzalnego identyfikatora nadanego przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym, jeżeli nie posiada się numeru PESEL;
+
+- **4)** oświadczenie, czy osoba reprezentowana przez pełnomocnika w licytacji pozostaje w związku małżeńskim, a jeżeli pozostaje w związku małżeńskim – czy ruchomość zamierza nabyć do majątku wspólnego czy osobistego;
+- **5)** w przypadku reprezentowania:
+    - **a)** osoby fizycznej – podanie jej imienia i nazwiska oraz numeru PESEL, a w przypadku braku numeru PESEL – numeru i rodzaju dokumentu stwierdzającego jej tożsamość,
+    - **b)** osoby prawnej albo jednostki organizacyjnej niebędącej osobą prawną – podanie jej nazwy oraz NIP, a w przypadku braku NIP – innego numeru identyfikacyjnego ze wskazaniem jego rodzaju;
+
+- **6)** złożenie za pośrednictwem konta w e-Urzędzie Skarbowym pełnomocnictwa lub innego dokumentu upoważniającego do nabycia ruchomości albo kopii utrwalonych w postaci elektronicznej pełnomocnictwa lub innego dokumentu upoważniającego do nabycia ruchomości, najpóźniej na 5 dni przed dniem rozpoczęcia licytacji, a w przypadkach określonych w art. 104 § 2, najpóźniej na 2 dni robocze przed dniem rozpoczęcia licytacji;
+- **7)** w przypadku ruchomości, o których mowa w art. 105 § 5 i 6, złożenie za pośrednictwem konta w e-Urzędzie Skarbowym zezwolenia, koncesji lub innego dokumentu uprawniającego podmiot reprezentowany do nabycia ruchomości albo ich kopii utrwalonych w postaci elektronicznej, najpóźniej na 5 dni przed dniem rozpoczęcia licytacji, a w przypadkach określonych w art. 104 § 2, najpóźniej na 2 dni robocze przed dniem rozpoczęcia licytacji;
+- **8)** wpłacenie wadium, o ile jest wymagane.
+
+§ 4. Organ egzekucyjny zawiadamia o odmowie dopuszczenia do udziału w licytacji za pośrednictwem Portalu eLicytacje KAS podmiot, który nie spełnia warunków, o których mowa w § 2 albo 3, pouczając o przysługującym mu prawie wniesienia skargi na odmowę dopuszczenia do udziału w licytacji.
+
+§ 5. Podmiot, który nie został dopuszczony do licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS, może złożyć skargę w terminie 3 dni od dnia skierowania zawiadomienia, o którym mowa w § 4. Przepisy art. 107 § 2a zdanie drugie i § 2b–2d stosuje się odpowiednio.
+
+§ 6. W przypadku uwzględnienia skargi, o której mowa w § 5:
+
+- **1)** podmiot zostaje dopuszczony do udziału w licytacji, o ile licytacja nie została zakończona;
+- **2)** organ egzekucyjny albo organ sprawujący nadzór unieważnia licytację, jeżeli licytacja została zakończona, a ruchomość nie została wydana nabywcy.
+
+**Art. 107g.** Licytant może przystąpić do licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS do czasu jej zakończenia, jeżeli licytuje we własnym imieniu, nie ma obowiązku złożenia wadium i licytacja nie dotyczy ruchomości, o których mowa w art. 105 § 5 i 6.
+
+**Art. 107h.**
+
+§ 1. Czas trwania licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS wynosi 7 dni, a w przypadkach określonych w art. 104 § 2, niekrócej niż 2 dni i niedłużej niż 7 dni. Czas trwania licytacji wyznacza się w taki sposób, aby terminy jej rozpoczęcia i zakończenia przypadały pomiędzy godziną 9.00 a 12.00 w dni robocze.
+
+§ 2. W trakcie licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS ujawnia się najwyższą aktualną cenę i część unikalnego identyfikatora licytanta, który ją zaoferował, oraz czas pozostały do zakończenia licytacji.
+
+§ 3. Jeżeli w ciągu 5 minut przed wyznaczonym terminem zakończenia licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS zgłoszono postąpienie, termin ten ulega przedłużeniu o 5 minut. Jeżeli w dodatkowym czasie zgłoszono dalsze postąpienie, termin zakończenia tej licytacji podlega każdorazowo przedłużeniu o kolejne 5 minut aż do momentu, gdy ustaną postąpienia. Maksymalny czas przedłużenia czasu trwania tej licytacji wynosi 72 godziny.
+
+§ 4. Jeżeli z przyczyn technicznych nastąpi przerwa w licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS, termin zakończenia licytacji ulega przesunięciu o czas trwania przerwy. Po zakończeniu przerwy wznawia się niezwłocznie licytację tej samej ruchomości z uwzględnieniem ostatniego postąpienia. O wznowieniu licytacji organ prowadzący Portal eLicytacje KAS obwieszcza w Portalu eLicytacje KAS.
+
+**Art. 107i.**
+
+§ 1. Niezwłocznie po zakończeniu licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS organ egzekucyjny udziela w Portalu eLicytacje KAS przybicia licytantowi, który zaoferował najwyższą cenę w chwili zakończenia licytacji i zawiadamia go o tym przybiciu. Jednocześnie obwieszcza w Portalu eLicytacje KAS o przybiciu, przy czym nie upublicznia danych osobowych licytanta. Obwieszczenie zawiera pouczenie o przysługującym prawie wniesienia skargi, o której mowa w art. 107j § 1.
+
+§ 2. Jeżeli w celu dopuszczenia do udziału w licytacji ruchomości zostały przedłożone kopie utrwalone w postaci elektronicznej pełnomocnictwa lub innego dokumentu upoważniającego do nabycia ruchomości, zezwolenia, koncesji lub innego dokumentu uprawniającego do nabycia ruchomości, organ egzekucyjny:
+
+- **1)** wstrzymuje udzielenie przybicia, o czym obwieszcza w Portalu eLicytacje KAS;
+- **2)** wzywa licytanta do przedłożenia tych dokumentów, w terminie 3 dni od dnia doręczenia wezwania, pod rygorem odmowy udzielenia przybicia, utraty prawa do zwrotu wadium oraz prawa uczestniczenia w licytacji tej samej ruchomości.
+
+§ 3. Przybicie następuje niezwłocznie po przedłożeniu dokumentów, o których mowa w § 2, o czym organ egzekucyjny obwieszcza w Portalu eLicytacje KAS.
+
+§ 4. W przypadku nieprzedłożenia dokumentów, o których mowa w § 2, w terminie, o którym mowa w § 2 pkt 2, licytant nie uzyskuje przybicia, traci prawo do zwrotu wadium oraz nie może uczestniczyć w licytacji tej samej ruchomości.
+
+§ 5. W przypadku, o którym mowa w § 4, organ egzekucyjny obwieszcza o odmowie przybicia i wyznacza ponowną licytację na warunkach licytacji, w której nie przedłożono dokumentów, o których mowa w § 2.
+
+§ 6. Organ egzekucyjny wraz z zawiadomieniem o przybiciu zawiadamia licytanta, o którym mowa w § 1, o:
+
+- **1)** wstrzymaniu wydania sprzedanej rzeczy do czasu rozpatrzenia skarg, o których mowa w art. 107f § 5 i art. 107j § 1;
+- **2)** przysługującym mu prawie do zrzeczenia się nabytej rzeczy i żądania zwrotu zapłaconej ceny – w przypadku gdy skargi, o których mowa w art. 107f § 5 i art. 107j § 1, nie zostały rozpatrzone w terminie, o ile rzecz nie została wydana nabywcy.
+
+**Art. 107j.**
+
+§ 1. Skargę na naruszenie przepisów o przeprowadzaniu licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS mogą złożyć zobowiązany, wierzyciel oraz licytant niepóźniej niż w terminie 3 dni od dnia obwieszczenia w Portalu eLicytacje KAS o udzieleniu przybicia. Przepisy art. 107 § 2a zdanie drugie i § 2b–2d stosuje się odpowiednio.
+
+§ 2. W przypadku uwzględnienia skargi, o której mowa w § 1, organ egzekucyjny albo organ sprawujący nadzór unieważnia licytację, o ile ruchomość nie została wydana nabywcy.
+
+**Art. 107k.**
+
+§ 1. Nabywca ruchomości w drodze licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS płaci cenę nabycia na rachunek organu egzekucyjnego niezwłocznie, niepóźniej niż w dniu następującym po dniu zawiadomienia o przybiciu, a jeżeli ten dzień przypada w sobotę lub w dzień ustawowo wolny od pracy – w dniu następującym po dniu lub dniach wolnych od pracy. Do zapłaty stosuje się odpowiednio przepisy art. 67g pkt 1 lit. b i pkt 2.
+
+§ 2. W przypadku niezapłacenia ceny nabycia w terminie, o którym mowa w § 1, nabywca traci prawo wynikłe z przybicia i do zwrotu wadium oraz nie może uczestniczyć w licytacji tej samej ruchomości. Organ egzekucyjny wyznacza ponowną licytację na warunkach licytacji, w której nabywca nie zapłacił ceny nabycia.
+
+**Art. 107l.** Organ egzekucyjny niezwłocznie po zakończeniu licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS usuwa z Portalu eLicytacje KAS informacje dotyczące sprzedaży ruchomości.”;
+
+- **8)** w art. 108:
+    - **a)** w § 1 dodaje się zdanie drugie w brzmieniu: „W sprzedaży ruchomości z wolnej ręki nie mogą uczestniczyć osoby, o których mowa w art. 107 § 4.”,
+    - **b)** po § 1 dodaje się § 1a–1h w brzmieniu: „§ 1a. W przypadku sprzedaży ruchomości z wolnej ręki przez organ egzekucyjny będący naczelnikiem urzędu skarbowego ogłoszenie o tej sprzedaży zamieszcza się w Portalu eLicytacje KAS najpóźniej na 7 dni przed dniem rozpoczęcia tej sprzedaży, a w przypadkach określonych w art. 104 § 2, najpóźniej na 3 dni przed tym dniem.
+
+§ 1b. W przypadku gdy sprzedaż z wolnej ręki odbywa się za pośrednictwem Portalu eLicytacje KAS, ogłoszenie o tej sprzedaży zawiera:
+
+- **1)** określenie ruchomości, która ma być sprzedana, jej rodzaju oraz wartości szacunkowej;
+- **2)** cenę sprzedaży;
+- **3)** miejsce i termin, w którym można oglądać ruchomość;
+- **4)** informacje o dacie i godzinie rozpoczęcia sprzedaży z wolnej ręki, maksymalnym czasie trwania tej sprzedaży oraz o skutkach wystąpienia okoliczności, o których mowa w § 1e;
+- **5)** inne informacje, niestanowiące danych osobowych, jeżeli organ egzekucyjny uzna ich podanie za celowe.
+
+§ 1c. W przypadku gdy sprzedaż z wolnej ręki odbywa się za pośrednictwem Portalu eLicytacje KAS, organ egzekucyjny może wraz z ogłoszeniem, o którym mowa w § 1b, publikować inne dokumenty niezawierające danych osobowych, dotyczące sprzedawanej ruchomości, jeżeli uzna to za celowe.
+
+§ 1d. Czas trwania sprzedaży ruchomości z wolnej ręki za pośrednictwem Portalu eLicytacje KAS wynosi 30 dni, a w przypadkach określonych w art. 104 § 2, niekrócej niż 2 dni i niedłużej niż 7 dni, chyba że przed upływem terminu zaoferowano co najmniej cenę wyznaczoną przez organ egzekucyjny. Czas trwania sprzedaży wyznacza się w taki sposób, aby terminy jej rozpoczęcia i zakończenia przypadały pomiędzy godziną 9.00 a 12.00 w dni robocze.
+
+§ 1e. Jeżeli z przyczyn technicznych nastąpi przerwa w sprzedaży ruchomości z wolnej ręki za pośrednictwem Portalu eLicytacje KAS, termin zakończenia sprzedaży ulega przesunięciu o czas trwania przerwy. Po zakończeniu przerwy wznawia się niezwłocznie tę sprzedaż. O wznowieniu tej sprzedaży organ prowadzący Portal eLicytacje KAS obwieszcza w Portalu eLicytacje KAS.
+
+§ 1f. Sprzedaż z wolnej ręki za pośrednictwem Portalu eLicytacje KAS następuje na rzecz nabywcy, który jako pierwszy zaoferował cenę nabycia, o czym organ egzekucyjny zawiadamia nabywcę.
+
+§ 1g. Organ egzekucyjny niezwłocznie po zakończeniu sprzedaży ruchomości z wolnej ręki zaprzestaje publikowania w Portalu eLicytacje KAS ogłoszenia o tej sprzedaży i dokumentów, o których mowa w § 1c.
+
+§ 1h. Do sprzedaży ruchomości z wolnej ręki za pośrednictwem Portalu eLicytacje KAS przepisy art. 107f § 1, § 2 pkt 1–5, § 3 pkt 1‒7 i § 4–6, art. 107g, art. 107i § 2 i 4–6 oraz art. 107j–107l stosuje się odpowiednio.”;
+
+- **9)** w art. 110w:
+    - **a)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Organ egzekucyjny może wybrać formę przeprowadzenia licytacji publicznej odrębnie dla każdego z trzech terminów licytacyjnych.”,
+    - **b)** w § 3 uchyla się pkt 4,
+    - **c)** po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Obwieszczenie o sprzedaży nieruchomości w drodze licytacji za pośrednictwem Portalu eLicytacje KAS zawiera dane, o których mowa w § 3 pkt 2 i 3 oraz 5–8. Przepisy art. 105a § 2 pkt 1 lit. a i pkt 2 oraz § 2a stosuje się odpowiednio.”,
+    - **d)** § 5 otrzymuje brzmienie: „§ 5. Obwieszczenie o licytacji wywiesza się na tablicy ogłoszeń organu egzekucyjnego prowadzącego egzekucję z nieruchomości, a w przypadku licytacji prowadzonej przez organ egzekucyjny będący naczelnikiem urzędu skarbowego zamieszcza się również w Portalu eLicytacje KAS, najpóźniej na 30 dni przed terminem licytacji.”,
+    - **e)** po § 5a dodaje się § 5b w brzmieniu: „§ 5b. Jednocześnie z obwieszczeniem o licytacji za pośrednictwem Portalu eLicytacje KAS, w portalu tym zamieszcza się protokół opisu i oszacowania wartości nieruchomości, przy czym nie podlegają upublicznieniu dane osobowe zawarte w tym protokole.”,
+    - **f)** § 9 otrzymuje brzmienie: „§ 9. Organ egzekucyjny niezwłocznie po zakończeniu licytacji nieruchomości:
+
+- **1)** usuwa obwieszczenie o licytacji i inne dokumenty dotyczące sprzedawanej nieruchomości z tablic ogłoszeń, o których mowa w § 5 i 8;
+- **2)** zaprzestaje publikowania obwieszczenia o licytacji, protokołu opisu i oszacowania wartości nieruchomości i innych dokumentów dotyczących sprzedawanej nieruchomości w Portalu eLicytacje KAS.”;
+- **10)** po art. 110w dodaje się art. 110wa i art. 110wb w brzmieniu: „Art. 110wa. § 1. Licytacja publiczna nieruchomości może odbywać się za pośrednictwem Portalu eLicytacje KAS.
+
+§ 2. Jeżeli przedmiotem licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS jest kilka nieruchomości lub kilka części jednej nieruchomości, organ egzekucyjny przed obwieszczeniem o licytacji zawiadamia zobowiązanego o uprawnieniu wynikającym z art. 111c § 4.
+
+§ 3. Zobowiązany może zrealizować uprawnienie wynikające z art. 111c § 4 w terminie 7 dni od dnia doręczenia mu zawiadomienia, o którym mowa w § 2. Po upływie tego terminu kolejność przeprowadzenia licytacji poszczególnych nieruchomości lub ich części określa organ egzekucyjny.
+
+§ 4. Licytacje dotyczące kilku nieruchomości lub kilku części jednej nieruchomości za pośrednictwem Portalu eLicytacje KAS nie mogą się toczyć równocześnie, chyba że łączna wysokość sumy oszacowania wartości tych nieruchomości nie przekracza łącznej wysokości należności wierzycieli egzekwujących i kosztów egzekucyjnych. Art. 110wb. § 1. Licytację publiczną nieruchomości za pośrednictwem Portalu eLicytacje KAS wygrywa licytant, który w chwili zakończenia licytacji nieruchomości zaoferował najwyższą cenę.
+
+§ 2. Niezwłocznie po zakończeniu licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS organ egzekucyjny obwieszcza w Portalu eLicytacje KAS o wyłonieniu licytanta, który zaoferował najwyższą cenę w chwili zakończenia licytacji, przy czym nie upublicznia jego danych osobowych, i zawiadamia go o tym wyłonieniu. Obwieszczenie zawiera pouczenie o przysługującym prawie wniesienia skargi, o której mowa w § 3.
+
+§ 3. Skargę na naruszenie przepisów o przeprowadzeniu licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS mogą złożyć zobowiązany, wierzyciel oraz licytant niepóźniej niż w terminie 3 dni od dnia obwieszczenia w Portalu eLicytacje KAS o wyłonieniu licytanta, który zaoferował najwyższą cenę w chwili zakończenia licytacji.
+
+§ 4. Organ egzekucyjny wydaje postanowienie w sprawie skargi, o której mowa w § 3, w terminie 7 dni od dnia jej złożenia. Na postanowienie oddalające skargę służy zażalenie.
+
+§ 5. Do licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS przepisy art. 107f § 2–6, art. 107h, art. 107i § 2–5 oraz art. 107l stosuje się odpowiednio.”;
+
+- **11)** w art. 111n:
+    - **a)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. W przypadku licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS organ egzekucyjny odmawia przybicia, jeżeli ostateczne rozstrzygnięcie skargi na odmowę dopuszczenia do udziału potwierdzi naruszenie przepisów o dopuszczeniu do licytacji. Przepisu zdania pierwszego nie stosuje się w przypadku uwzględnienia skargi przed zakończeniem licytacji i dopuszczenia podmiotu do udziału w tej licytacji.”,
+    - **b)** w § 3 w pkt 1 wyrazy „o których mowa w § 1” zastępuje się wyrazami „o których mowa w § 1 i 1a”.
+
+**Art. 2.**
+
+1. Minister właściwy do spraw finansów publicznych ogłosi, w drodze obwieszczenia, w dzienniku urzędowym tego ministra, termin uruchomienia systemu teleinformatycznego, o którym mowa w art. 67da § 1 ustawy zmienianej w art. 1, oraz terminy uruchomienia funkcji tego systemu, umożliwiające organowi egzekucyjnemu będącemu naczelnikiem urzędu skarbowego:
+
+- **1)** publikowanie ogłoszeń i obwieszczeń o sprzedaży ruchomości;
+- **2)** licytację ruchomości;
+- **3)** sprzedaż ruchomości z wolnej ręki;
+- **4)** publikowanie obwieszczeń o licytacji nieruchomości oraz protokołów opisu i oszacowania wartości nieruchomości;
+- **5)** licytację nieruchomości;
+- **6)** sprzedaż praw majątkowych;
+- **7)** publikowanie innych dokumentów dotyczących sprzedaży.
+
+2. Minister właściwy do spraw finansów publicznych ogłosi, w drodze obwieszczenia, w dzienniku urzędowym tego ministra, termin, od którego udział w sprzedaży za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 67da § 1 ustawy zmienianej w art. 1, będzie możliwy w przypadkach, o których mowa w art. 107f § 2 pkt 3 lit. b i § 3 pkt 3 lit. b ustawy zmienianej w art. 1.
+
+**Art. 3.**
+
+1. Jeżeli przed dniem wejścia w życie niniejszej ustawy organ egzekucyjny obwieścił lub ogłosił o sprzedaży ruchomości lub nieruchomości, do sprzedaży wyznaczonej na podstawie tego obwieszczenia lub tego ogłoszenia stosuje się przepisy dotychczasowe.
+
+2. Do publikowania:
+
+- **1)** ogłoszeń i obwieszczeń o sprzedaży ruchomości do dnia poprzedzającego dzień uruchomienia funkcji, o której mowa w art. 2 ust. 1 pkt 1,
+- **2)** obwieszczeń o licytacji nieruchomości oraz protokołów opisu i oszacowania wartości nieruchomości do dnia poprzedzającego dzień uruchomienia funkcji, o której mowa w art. 2 ust. 1 pkt 4 – stosuje się przepisy dotychczasowe.
+
+3. Do:
+
+- **1)** licytacji ruchomości do dnia poprzedzającego dzień uruchomienia funkcji, o której mowa w art. 2 ust. 1 pkt 2,
+- **2)** sprzedaży z wolnej ręki do dnia poprzedzającego dzień uruchomienia funkcji, o której mowa w art. 2 ust. 1 pkt 3,
+- **3)** licytacji nieruchomości do dnia poprzedzającego dzień uruchomienia funkcji, o której mowa w art. 2 ust. 1 pkt 5,
+- **4)** sprzedaży praw majątkowych do dnia poprzedzającego dzień uruchomienia funkcji, o których mowa w art. 2 ust. 1 pkt 6 – stosuje się przepisy dotychczasowe.
+
+4. W przypadkach, o których mowa w ust. 1 i ust. 3 pkt 1 i 4, do egzekucji stosuje się przepisy art. 105c § 1 i art. 107 § 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

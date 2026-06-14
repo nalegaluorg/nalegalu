@@ -2,8 +2,12 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych*
 
-Łącznie: **5** orzeczeń
+Łącznie: **6** orzeczeń
 (pominięto 7 orzeczeń sądów rejonowych)
+
+## art. 6 (1)
+
+- 2025-11-04 | SO | [III AUa 1418/25](https://www.saos.org.pl/judgments/545508) | Wyrok
 
 ## art. 11 (1)
 
@@ -12,6 +16,10 @@ Orzeczenia powołujące: *Ustawa z dnia 20 kwietnia 2004 r. o pracowniczych prog
 ## art. 18 (1)
 
 - 2021-02-18 | SO | [VI ACa 223/19](https://www.saos.org.pl/judgments/447504) | Wyrok
+
+## art. 24 (1)
+
+- 2025-11-04 | SO | [III AUa 1418/25](https://www.saos.org.pl/judgments/545508) | Wyrok
 
 ## art. 48 (1)
 

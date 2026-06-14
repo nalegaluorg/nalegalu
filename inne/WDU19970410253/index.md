@@ -8,7 +8,7 @@ pos: 253
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej
@@ -280,4 +280,13 @@ source: "isap-pdf"
 **Art. 36.** Traci moc dekret z dnia 5 września 1947 r. o uregulowaniu położenia prawnego Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej, Kościoła Mariawickiego i Kościoła Starokatolickiego (Dz. U. poz. 316 oraz z 1994 r. poz. 324).
 
 **Art. 37.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 20 lutego 1997 r. (Dz. U. z 2023 r. poz.
+
+- **000)** WYKAZ OSÓB PRAWNYCH KOŚCIOŁA STAROKATOLICKIEGO MARIAWITÓW W RZECZYPOSPOLITEJ POLSKIEJ I. Diecezje i parafie
+
+1. Diecezja warszawsko-płocka Parafia Błonie Parafia Filipów Parafia Leszno Parafia Lutkówka Parafia Pepłowo Parafia Płock Parafia Radzyminek Parafia Raszewo Parafia Warszawa Parafia Wierzbica Parafia Żyrardów
+
+2. Diecezja lubelsko-podlaska Parafia Cegłów Parafia Dąbrówka-Stany Parafia Gózd Parafia Kamionka Parafia Lublin Parafia Łany Parafia Mińsk Mazowiecki Parafia Piaseczno Parafia Wiśniew Parafia Żarnówka Parafia Żeliszew
+
+3. Diecezja śląsko-łódzka Parafia Dobra Parafia Gniazdów Parafia Grzmiąca Parafia Kadzidłowa Parafia Koziegłowy Parafia Lipka Parafia Łowicz Parafia Łódź Parafia Pabianice Parafia Piątek Parafia Sobótka Parafia Sosnowiec Parafia Starcza Parafia Stryków Parafia Wola Cyrusowa Parafia Zgierz II. Zgromadzenia zakonne Zgromadzenie Kapłanów Mariawitów Zgromadzenie Sióstr Mariawitek III. Seminaria Wyższe Seminarium Duchowne Kościoła Starokatolickiego Mariawitów w Płocku.
+
 

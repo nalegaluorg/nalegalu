@@ -8,10 +8,10 @@ pos: 2553
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2553 OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 16 listopada 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,68 +25,74 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-08-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002553) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2553/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI dnia 16 listopada 2022 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa Rozwoju Wsi sprawie warunków trybu dokonywania
-1. Na art. 16 3 ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa Rozwoju Wsi dnia marca 2009 r. sprawie warunków trybu dokonywania (Dz. U. 2020 r. poz. 353), uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa Rozwoju Wsi dnia 12 sierpnia 2021 r. zmieniającym rozporządzenie sprawie warunków trybu dokonywania (Dz. U. poz. 1504).
-Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje rozporządzenia Ministra Rolnictwa Rozwoju Wsi dnia 12 sierpnia 2021 r. zmieniającego rozporządzenie sprawie warunków trybu dokonywania (Dz. U. poz. 1504), który stanowi: „§ Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Rolnictwa Rozwoju Wsi: H. Kowalczyk ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI dnia marca 2009 r.
-sprawie warunków trybu dokonywania Na art. 24 8 ustawy dnia 19 października 1991 r. gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. 2022 r. poz. 2329) zarządza się, co następuje:
-1. Rozporządzenie określa warunki tryb zawierania umów nieruchomości, mocy których osoby fizyczne, osoby prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej przenoszą Skarb Państwa własność zamian za przeniesienie Krajowy Ośrodek Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”, własności Zasobu Własności Rolnej Skarbu Państwa te podmioty.
-Ilekroć rozporządzeniu jest mowa o:
-1) gospodarstwie rolnym rozumie to gospodarstwo rolne, określone przepisach podatku rolnym, którego właścicielem lub współwłaścicielem jest wyłącznie rolnik;
-2) rolniku rozumie to osobę podlegającą ubezpieczeniu emerytalno-rentowemu przepisów ubezpieczeniu społecznym rolników;
-3) ustawie rozumie to ustawę dnia 19 października 1991 r. gospodarowaniu nieruchomościami rolnymi Skarbu Państwa;
-4) hektarze przeliczeniowym rozumie to hektar przeliczeniowy ustalany przepisów podatku rolnym.
-3. Zamianą mogą być objęte wyłącznie wolne od wszelkich obciążeń, wyjątkiem służebności.
-4. 1. Krajowy Ośrodek może dokonać zamiany:
-1) jeżeli jej wyniku ulegnie likwidacji gospodarstwo rolne stanowiące własność rolnika co najmniej 5 lat, położone terenie województw, których średnia powierzchnia indywidualnego gospodarstwa rolnego jest mniejsza niż 5 ha, zostanie utworzone tego rolnika gospodarstwo rolne terenie innych województw oraz nastąpi odpowiednia zmiana stałego miejsca zamieszkania rolnika;
-2) wniosek rolnika, jeżeli jej wyniku zapobiegnie zmniejszeniu powierzchni gospodarstwa rolnego związku przeznaczeniem wchodzących skład tego gospodarstwa cele publiczne rozumieniu przepisów gospodarce nieruchomościami;
-3) wniosek osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, jeżeli zamiana dotyczy przeniesienia ten podmiot własności zamian za przeniesienie ten podmiot Krajowy Ośrodek:
-a) własności wchodzącej skład Zasobu Własności Rolnej Skarbu Państwa, która miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy jest przeznaczona cele inne niż rolne lub przypadku której ostatecznej decyzji warunkach zabudowy zagospodarowania terenu sposób zagospodarowania warunki zabudowy terenu, ta nieruchomość jest położona, określony został jako inny niż rolny, a przypadku braku miejscowego planu lub ostatecznej decyzji warunkach zabudowy zagospodarowania terenu która jest położona terenie określonym studium uwarunkowań kierunków zagospodarowania przestrzennego gminy jako niezwiązany kierunkami zasadami kształtowania rolniczej przestrzeni produkcyjnej, nia instrumentów wsparcia rolnictwa, aktywnej polityki rolnej oraz rozwoju obszarów wiejskich za zgodą ministra właściwego do spraw rozwoju wsi wyrażoną wniosek Dyrektora Generalnego Krajowego Ośrodka.
-1a. We wniosku wyrażenie zgody, której mowa 3 b, Dyrektor Generalny Krajowego Ośrodka wskazuje, szczególności realizacją jakich zadań wynikających polityki państwa zakresie wdrażania stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej oraz rozwoju obszarów wiejskich jest uzasadniona zamiana nieruchomości.
-Powierzchnia gospodarstwa rolnego utworzonego wyniku zamiany, której mowa 1, nie może być mniejsza niż średnia powierzchnia indywidualnego gospodarstwa rolnego danym województwie nie większa niż 10-krotność tej średniej, ustalanej według danych Głównego Urzędu Statystycznego, obowiązującej dniu zawarcia umowy zamiany.
-3. Do pięcioletniego okresu, mowa 1, zalicza rolnikowi okres, gospodarstwo rolne stanowiło własność:
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie warunków i trybu dokonywania zamiany nieruchomości
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 2 marca 2009 r. w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. z 2020 r. poz. 353), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2021 r. zmieniającym rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 1504).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 1504), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 2 marca 2009 r.
+w sprawie warunków i trybu dokonywania zamiany nieruchomości Na podstawie art. 24 ust. 8 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2022 r. poz. 2329) zarządza się, co następuje:
+§ 1. Rozporządzenie określa warunki i tryb zawierania umów zamiany nieruchomości, na mocy których osoby fizyczne, osoby prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej przenoszą na Skarb Państwa własność nieruchomości w zamian za przeniesienie przez Krajowy Ośrodek Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”, własności nieruchomości Zasobu Własności Rolnej Skarbu Państwa na te podmioty.
+§ 2. Ilekroć w rozporządzeniu jest mowa o:
+1) gospodarstwie rolnym – rozumie się przez to gospodarstwo rolne, określone w przepisach o podatku rolnym, którego właścicielem lub współwłaścicielem jest wyłącznie rolnik;
+2) rolniku – rozumie się przez to osobę podlegającą ubezpieczeniu emerytalno-rentowemu na podstawie przepisów o ubezpieczeniu społecznym rolników;
+3) ustawie – rozumie się przez to ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa;
+4) hektarze przeliczeniowym – rozumie się przez to hektar przeliczeniowy ustalany na podstawie przepisów o podatku rolnym.
+§ 3. Zamianą mogą być objęte wyłącznie nieruchomości wolne od wszelkich obciążeń, z wyjątkiem służebności.
+§ 4. 1. Krajowy Ośrodek może dokonać zamiany:
+1) jeżeli w jej wyniku ulegnie likwidacji gospodarstwo rolne stanowiące własność rolnika co najmniej przez 5 lat, położone na terenie województw, w których średnia powierzchnia indywidualnego gospodarstwa rolnego jest mniejsza niż 5 ha, i zostanie utworzone przez tego rolnika gospodarstwo rolne na terenie innych województw oraz nastąpi odpowiednia zmiana stałego miejsca zamieszkania rolnika;
+2) na wniosek rolnika, jeżeli w jej wyniku zapobiegnie się zmniejszeniu powierzchni gospodarstwa rolnego w związku z przeznaczeniem nieruchomości wchodzących w skład tego gospodarstwa na cele publiczne w rozumieniu przepisów o gospodarce nieruchomościami;
+3) na wniosek osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, jeżeli zamiana dotyczy przeniesienia przez ten podmiot własności nieruchomości w zamian za przeniesienie na ten podmiot przez Krajowy Ośrodek:
+a) własności nieruchomości wchodzącej w skład Zasobu Własności Rolnej Skarbu Państwa, która w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy jest przeznaczona na cele inne niż rolne lub w przypadku której w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym ta nieruchomość jest położona, określony został jako inny niż rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – która jest położona na terenie określonym w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy jako niezwiązany z kierunkami i zasadami kształtowania rolniczej przestrzeni produkcyjnej,
+b) własności innej niż określona w lit. a nieruchomości wchodzącej w skład Zasobu Własności Rolnej Skarbu Państwa, gdy jest to uzasadnione realizacją zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej oraz rozwoju obszarów wiejskich za zgodą ministra właściwego do spraw rozwoju wsi wyrażoną na wniosek Dyrektora Generalnego Krajowego Ośrodka.
+1a. We wniosku o wyrażenie zgody, o której mowa w ust. 1 pkt 3 lit. b, Dyrektor Generalny Krajowego Ośrodka wskazuje, w szczególności realizacją jakich zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej oraz rozwoju obszarów wiejskich jest uzasadniona zamiana nieruchomości.
+2. Powierzchnia gospodarstwa rolnego utworzonego w wyniku zamiany, o której mowa w ust. 1 pkt 1, nie może być mniejsza niż średnia powierzchnia indywidualnego gospodarstwa rolnego w danym województwie i nie większa niż 10-krotność tej średniej, ustalanej według danych Głównego Urzędu Statystycznego, obowiązującej w dniu zawarcia umowy zamiany.
+3. Do pięcioletniego okresu, o którym mowa w ust. 1 pkt 1, zalicza się rolnikowi okres, w którym gospodarstwo rolne stanowiło własność:
 1) jego spadkodawcy lub
-2) osoby, która przekazała swoje gospodarstwo rolne rolnikowi związku nabyciem prawa do rolniczej emerytury lub renty.
-4. Warunek, mowa 3 2, uważa za spełniony, jeżeli przed nabyciem prawa własności gospodarstwa rolnego rolnik pracował tym gospodarstwie podlegał tego tytułu ubezpieczeniu emerytalno-rentowemu przepisów ubezpieczeniu społecznym rolników.
-5. 1. Wartość zamienianych ustala według zasad określonych art. 30 ustawy, zastrzeżeniem Przy ustalaniu wartości stanowiącej własność rolnika objętej zamianą, której mowa 4 2, nie uwzględnia jej przeznaczenia cele publiczne.
-6. 1. Zamianę, której mowa 4 1, uważa za ekwiwalentną, jeżeli zamian za przeniesienie własności ha przeliczeniowego gruntu rolnego Skarb Państwa Krajowy Ośrodek przenosi 10 ha przeliczeniowych gruntu rolnego własność rolnika.
-Zamianę, której mowa 4 3, uważa za ekwiwalentną, jeżeli wartość zamienianych nieruchomości jest równa.
-3. Wartość hektara przeliczeniowego ustala się, dzieląc wartość gruntów rolnych podlegających zamianie liczbę hektarów przeliczeniowych.
-7. 1. Różnica wartości zamienianych podlega dopłacie, do której uiszczenia są obowiązani odpowiednio osoba fizyczna, osoba prawna, jednostka organizacyjna nieposiadająca osobowości prawnej albo Krajowy Ośrodek.
-1a. przypadku zamiany, której mowa 4 3, różnica wartości zamienianych podlegających dopłacie nie może być większa niż 30% wartości wyższej wartości spośród podlegających zamianie.
-Przy ustalaniu wysokości dopłaty tytułu różnicy wartości zamienianych zgodnie 4 bierze pod uwagę wyłącznie wartość nadwyżki powierzchni tych wyrażonej hektarach przeliczeniowych ponad powierzchnię uznaną za ekwiwalentną stosownie do 6 oraz wartość części składowych zamienianych nieruchomości.
-3. przypadku sprzedaży lub jej części otrzymanej wyniku zamiany, której mowa 4 1, przed upływem 5 lat od dnia zawarcia umowy zamiany, rolnik jest obowiązany do wpłaty rzecz Krajowego Ośrodka 9/10 ceny uzyskanej za każdy hektar przeliczeniowy. Wpłata ta nie może być niższa niż 9/10 wartości tej nieruchomości ustalonej zgodnie 2, zastrzeżeniem 4.
-4. Obowiązek wpłacenia rzecz Krajowego Ośrodka części ceny, której mowa 3, nie obejmuje sprzedaży części objętej dopłatą.
-Wpłatę, której mowa 7 3, rolnik wpłaca terminie miesiąca od dnia zawarcia umowy sprzedaży nieruchomości.
-10. 1. Dla przeznaczonych do Krajowy Ośrodek sporządza wykaz zawierający dane, których mowa art. 28 ustawy, ogłasza go sposób zwyczajowo przyjęty danej miejscowości.
-Po upływie 14 dni od dnia ogłoszenia wykazu, mowa 1, Krajowy Ośrodek ogłasza sposób zwyczajowo przyjęty miejscowości, której położona jest nieruchomość, zamiar tej nieruchomości. przypadku zamiany, której mowa 4 1, zamiar ogłasza także prasie obejmującej swym zasięgiem województwa, których średnia powierzchnia indywidualnego gospodarstwa rolnego jest mniejsza niż 5 ha, oraz siedzibach ośrodków doradztwa rolniczego obejmujących zasięgiem działania te województwa, a przypadku zamiany, której mowa 4 3, zamiar ogłasza prasie zasięgu ogólnopolskim.
-3. Ogłoszenie, mowa 2, powinno zawierać szczególności:
-1) oznaczenie powierzchnię oraz rodzaj użytków ich klasy, według danych ewidencji gruntów;
+2) osoby, która przekazała swoje gospodarstwo rolne rolnikowi w związku z nabyciem prawa do rolniczej emerytury lub renty.
+4. Warunek, o którym mowa w ust. 3 pkt 2, uważa się za spełniony, jeżeli przed nabyciem prawa własności gospodarstwa rolnego rolnik pracował w tym gospodarstwie i podlegał z tego tytułu ubezpieczeniu emerytalno-rentowemu na podstawie przepisów o ubezpieczeniu społecznym rolników.
+§ 5. 1. Wartość zamienianych nieruchomości ustala się według zasad określonych w art. 30 ustawy, z zastrzeżeniem ust. 2.
+2. Przy ustalaniu wartości nieruchomości stanowiącej własność rolnika objętej zamianą, o której mowa w § 4 ust. 1 pkt 2, nie uwzględnia się jej przeznaczenia na cele publiczne.
+§ 6. 1. Zamianę, o której mowa w § 4 ust. 1 pkt 1, uważa się za ekwiwalentną, jeżeli w zamian za przeniesienie własności 1 ha przeliczeniowego gruntu rolnego na Skarb Państwa Krajowy Ośrodek przenosi 10 ha przeliczeniowych gruntu rolnego na własność rolnika.
+2. Zamianę, o której mowa w § 4 ust. 1 pkt 2 i 3, uważa się za ekwiwalentną, jeżeli wartość zamienianych nieruchomości jest równa.
+3. Wartość hektara przeliczeniowego ustala się, dzieląc wartość gruntów rolnych podlegających zamianie przez liczbę hektarów przeliczeniowych.
+§ 7. 1. Różnica wartości zamienianych nieruchomości podlega dopłacie, do której uiszczenia są obowiązani odpowiednio osoba fizyczna, osoba prawna, jednostka organizacyjna nieposiadająca osobowości prawnej albo Krajowy Ośrodek.
+1a. W przypadku zamiany, o której mowa w § 4 ust. 1 pkt 3, różnica wartości zamienianych nieruchomości podlegających dopłacie nie może być większa niż 30% wartości nieruchomości o wyższej wartości spośród nieruchomości podlegających zamianie.
+2. Przy ustalaniu wysokości dopłaty z tytułu różnicy wartości nieruchomości zamienianych zgodnie z § 4 ust. 1 pkt 1 bierze się pod uwagę wyłącznie wartość nadwyżki powierzchni tych nieruchomości wyrażonej w hektarach przeliczeniowych ponad powierzchnię uznaną za ekwiwalentną stosownie do § 6 ust. 1 oraz wartość części składowych zamienianych nieruchomości.
+3. W przypadku sprzedaży nieruchomości lub jej części otrzymanej w wyniku zamiany, o której mowa w § 4 ust. 1 pkt 1, przed upływem 5 lat od dnia zawarcia umowy zamiany, rolnik jest obowiązany do wpłaty na rzecz Krajowego Ośrodka 9/10 ceny uzyskanej za każdy hektar przeliczeniowy. Wpłata ta nie może być niższa niż 9/10 wartości tej nieruchomości ustalonej zgodnie z ust. 2, z zastrzeżeniem ust. 4.
+4. Obowiązek wpłacenia na rzecz Krajowego Ośrodka części ceny, o której mowa w ust. 3, nie obejmuje sprzedaży części nieruchomości objętej dopłatą.
+§ 8. Koszty ustalenia wartości zamienianych nieruchomości ponoszą ich właściciele.
+§ 9. 1. Dopłatę, o której mowa w § 7 ust. 1, uiszcza się w terminie 14 dni od dnia zawarcia umowy zamiany.
+2. Wpłatę, o której mowa w § 7 ust. 3, rolnik wpłaca w terminie miesiąca od dnia zawarcia umowy sprzedaży nieruchomości.
+§ 10. 1. Dla nieruchomości przeznaczonych do zamiany Krajowy Ośrodek sporządza wykaz zawierający dane, o których mowa w art. 28 ust. 2 ustawy, i ogłasza go w sposób zwyczajowo przyjęty w danej miejscowości.
+2. Po upływie 14 dni od dnia ogłoszenia wykazu, o którym mowa w ust. 1, Krajowy Ośrodek ogłasza w sposób zwyczajowo przyjęty w miejscowości, w której położona jest nieruchomość, zamiar zamiany tej nieruchomości. W przypadku zamiany, o której mowa w § 4 ust. 1 pkt 1, zamiar zamiany nieruchomości ogłasza się także w prasie obejmującej swym zasięgiem województwa, w których średnia powierzchnia indywidualnego gospodarstwa rolnego jest mniejsza niż 5 ha, oraz w siedzibach ośrodków doradztwa rolniczego obejmujących zasięgiem działania te województwa, a w przypadku zamiany, o której mowa w § 4 ust. 1 pkt 3, zamiar zamiany nieruchomości ogłasza się w prasie o zasięgu ogólnopolskim.
+3. Ogłoszenie, o którym mowa w ust. 2, powinno zawierać w szczególności:
+1) oznaczenie i powierzchnię nieruchomości oraz rodzaj użytków i ich klasy, według danych z ewidencji gruntów;
 2) oznaczenie księgi wieczystej prowadzonej dla nieruchomości;
-3) opis budynków innych części składowych nieruchomości;
+3) opis budynków i innych części składowych nieruchomości;
 4) wartość nieruchomości;
 5) wskazanie rodzaju zamiany;
 6) termin oględzin oferowanych nieruchomości;
-7) wymogi, jakie powinny spełniać oferty, oraz miejsce termin ich składania, nie krótszy niż 30 dni, licząc od dnia ogłoszenia;
+7) wymogi, jakie powinny spełniać oferty, oraz miejsce i termin ich składania, nie krótszy niż 30 dni, licząc od dnia ogłoszenia;
 8) kryteria wyboru oferty.
-4. przypadku zamiany, której mowa 4 1, ogłoszenie powinno również zawierać:
-1) określenie powierzchni hektarach przeliczeniowych;
+4. W przypadku zamiany, o której mowa w § 4 ust. 1 pkt 1, ogłoszenie powinno również zawierać:
+1) określenie powierzchni nieruchomości w hektarach przeliczeniowych;
 2) wartość jednego hektara przeliczeniowego;
-3) wskazanie województw, których rolnicy mogą składać oferty.
-11. 1. Oferta, której mowa 10 3 7, powinna zawierać:
-1) imię, nazwisko adres osoby fizycznej albo nazwę, siedzibę adres osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej;
-2) oznaczenie powierzchnię oferowanej do oraz rodzaj użytków ich klasy, według danych ewidencji gruntów;
-3) opis budynków innych części składowych nieruchomości;
-4) proponowany termin oględzin oferowanej do nieruchomości.
-Do oferty należy dołączyć:
-1) dokument potwierdzający prawo własności nieruchomości, a jeśli jest dla niej założona księga wieczysta odpis księgi wieczystej;
-2) aktualny wypis rejestru ewidencji gruntów wyrys mapy ewidencyjnej.
-12. 1. razie złożenia kilku ofert te same Krajowy Ośrodek powołuje komisję celu dokonania wyboru oferty, kryteriów, których mowa 10 3 8.
-przypadku zamiany, której mowa 4 2, Krajowy Ośrodek zaprasza do udziału komisji przedstawiciela podmiotu właściwego do pozyskiwania gruntów realizację celów publicznych, a pozostałych wypadkach dzenia wyboru oferty.
-3. umowie określa termin przekazania nieruchomości.
-4. przypadku gdy osoba fizyczna albo osoba uprawniona do działania imieniu osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej bez uzasadnionej przyczyny nie stawiła wyznaczonym terminie miejscu zawarcia umowy, Krajowy Ośrodek może odstąpić od zawarcia umowy nieruchomości.
-14. Z przekazania sporządza protokół zdawczo-odbiorczy.
-15. Traci moc rozporządzenie Ministra Skarbu Państwa dnia 22 lutego 2000 r. sprawie warunków trybu dokonywania (Dz. U. poz. 288).
-16. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+3) wskazanie województw, z których rolnicy mogą składać oferty.
+§ 11. 1. Oferta, o której mowa w § 10 ust. 3 pkt 7, powinna zawierać:
+1) imię, nazwisko i adres osoby fizycznej albo nazwę, siedzibę i adres osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej;
+2) oznaczenie i powierzchnię nieruchomości oferowanej do zamiany oraz rodzaj użytków i ich klasy, według danych z ewidencji gruntów;
+3) opis budynków i innych części składowych nieruchomości;
+4) proponowany termin oględzin oferowanej do zamiany nieruchomości.
+2. Do oferty należy dołączyć:
+1) dokument potwierdzający prawo własności nieruchomości, a jeśli jest dla niej założona księga wieczysta – odpis księgi wieczystej;
+2) aktualny wypis z rejestru ewidencji gruntów i wyrys z mapy ewidencyjnej.
+§ 12. 1. W razie złożenia kilku ofert na te same nieruchomości Krajowy Ośrodek powołuje komisję w celu dokonania wyboru oferty, na podstawie kryteriów, o których mowa w § 10 ust. 3 pkt 8.
+2. W przypadku zamiany, o której mowa w § 4 ust. 1 pkt 2, Krajowy Ośrodek zaprasza do udziału w komisji przedstawiciela podmiotu właściwego do pozyskiwania gruntów na realizację celów publicznych, a w pozostałych wypadkach – przedstawiciela gminy, ośrodka doradztwa rolniczego i izby rolniczej.
+3. W razie złożenia jednej oferty o jej przyjęciu decyduje Krajowy Ośrodek.
+§ 13. 1. Krajowy Ośrodek zatwierdza kandydata wybranego przez komisję, o której mowa w § 12 ust. 1.
+2. Krajowy Ośrodek ustala termin zawarcia umowy zamiany, który nie może być dłuższy niż 30 dni od dnia zatwierdzenia wyboru oferty.
+3. W umowie określa się termin przekazania nieruchomości.
+4. W przypadku gdy osoba fizyczna albo osoba uprawniona do działania w imieniu osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej bez uzasadnionej przyczyny nie stawiła się w wyznaczonym terminie i miejscu zawarcia umowy, Krajowy Ośrodek może odstąpić od zawarcia umowy zamiany nieruchomości.
+§ 14. Z przekazania nieruchomości sporządza się protokół zdawczo-odbiorczy.
+§ 15. Traci moc rozporządzenie Ministra Skarbu Państwa z dnia 22 lutego 2000 r. w sprawie warunków i trybu dokonywania zamiany nieruchomości (Dz. U. poz. 288).
+§ 16. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

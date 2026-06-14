@@ -8,10 +8,10 @@ pos: 1341
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 października 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1341 UmowA między Rzecząpospolitą Polską a Baliwatem Guernsey w sprawie unikania podwójnego opodatkowania niektórych kategorii dochodów osób fizycznych, podpisana w Londynie dnia 8 października 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1341/text.pdf) |
 
-UmowA między Rzecząpospolitą Polską a Baliwatem Guernsey w sprawie unikania podwójnego opodatkowania niektórych kategorii dochodów osób fizycznych, podpisana w Londynie dnia 8 października 2013 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPoLitej PoLskiej podaje do powszechnej wiadomości: dnia 8 października 2013 r. w Londynie została podpisana Umowa między Rzecząpospolitą Polską a Baliwatem Guernsey w sprawie unikania podwójnego opodatkowania niektórych kategorii dochodów osób fizycznych, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPoLitej PoLskiej podaje do powszechnej wiadomości: dnia 8 października 2013 r. w Londynie została podpisana Umowa między Rzecząpospolitą Polską a Baliwatem Guernsey w sprawie unikania podwójnego opodatkowania niektórych kategorii dochodów osób fizycznych, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 4 lipca 2014 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski L.s.
+Prezes Rady Ministrów: D. Tusk
 

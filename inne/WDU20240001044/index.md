@@ -8,10 +8,10 @@ pos: 1044
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 lipca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1044 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 12 lipca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001044) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1044/text.pdf) |
 
-Poz. 1044 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 12 lipca 2024 r.
-w sprawie zweryfikowanych kryteriów dochodowych oraz kwot świadczeń pieniężnych z pomocy społecznej Na podstawie art. 9 ust. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm. ) zarządza się, co następuje: § 1. Ustala się następujące zweryfikowane kryteria dochodowe, kwoty świadczeń pieniężnych z pomocy społecznej oraz kwotę dochodu z 1 ha przeliczeniowego:
+w sprawie zweryfikowanych kryteriów dochodowych oraz kwot świadczeń pieniężnych z pomocy społecznej Na podstawie art. 9 ust. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm. ) zarządza się, co następuje:
+§ 1. Ustala się następujące zweryfikowane kryteria dochodowe, kwoty świadczeń pieniężnych z pomocy społecznej oraz kwotę dochodu z 1 ha przeliczeniowego:
 1) kryteria dochodowe:
 a) dla osoby samotnie gospodarującej – w wysokości 1010 zł,
 b) dla osoby w rodzinie – w wysokości 823 zł;

@@ -8,7 +8,7 @@ pos: 1485
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przeciwdziałaniu narkomanii
@@ -33,6 +33,15 @@ Art. 75–81. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i tryb postępowania w zakresie przeciwdziałania narkomanii;
+- **2)** zadania i uprawnienia organów administracji rządowej i jednostek samorządu terytorialnego oraz innych podmiotów w zakresie przeciwdziałania naruszeniom prawa dotyczącego obrotu, wytwarzania, przetwarzania, przerobu i posiadania substancji, których używanie może prowadzić do narkomanii;
+- **3)** organy lub podmioty właściwe do wykonania: określającego zasady nadzorowania handlu prekursorami narkotyków pomiędzy Wspólnotą a państwami trzecimi (Dz. Urz. WE L 22 z 26.01.2005, str. 1; Dz. Urz. WE Polskie wydanie specjalne z 2005 r., t. 48, str. 1), zwanego dalej „rozporządzeniem 111/2005”,
+    - **a)** rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 273/2004 z dnia 11 lutego 2004 r. w sprawie prekursorów narkotykowych (Dz. Urz. WE L 047 z 18.02.2004), zwanego dalej „rozporządzeniem 273/2004”,
+    - **b)** rozporządzenia (WE) Rady nr 111/2005 z dnia 22 grudnia 2004 r.
+    - **c)** rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 1920/2006 z dnia 12 grudnia 2006 r. w sprawie Europejskiego Centrum Monitorowania Narkotyków i Narkomanii (Dz. Urz. UE L 376 z 27.12.2006, str. 1, z późn. zm. );
+
+- **4)** kary za nieprzestrzeganie przepisów ustawy i rozporządzeń wymienionych w pkt 3.
+
 **Art. 2.**
 
 1. Przeciwdziałanie narkomanii realizuje się przez odpowiednie kształtowanie polityki społecznej, gospodarczej, oświatowo-wychowawczej i zdrowotnej, a w szczególności:
@@ -50,7 +59,64 @@ Art. 75–81. (pominięte)
 
 **Art. 3.** Przepisy ustawy stosuje się do:
 
+- **1)** produktów leczniczych, które są środkami odurzającymi, substancjami psychotropowymi lub prekursorami, w zakresie nieuregulowanym w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605 i 650);
+- **2)** substancji chemicznych i ich mieszanin, które są prekursorami albo nowymi substancjami psychoaktywnymi, w zakresie nieuregulowanym w przepisach o substancjach chemicznych i ich mieszaninach.
+
 **Art. 4.** Użyte w ustawie określenia oznaczają:
+
+- **1)** (uchylony)
+- **2)** importer – osobę fizyczną, osobę prawną lub jednostkę nieposiadającą osobowości prawnej, która dokonuje przywozu i składa zgłoszenie celne lub w imieniu której składane jest zgłoszenie celne;
+- **3)** jednostki naukowe – podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088 i 1234);
+- **4)** konopie – rośliny z rodzaju konopie (Cannabis L.);
+- **5)** konopie włókniste – rośliny z gatunku konopie siewne (Cannabis sativa L.), w których suma zawartości delta-9-tetrahydrokannabinolu oraz kwasu tetrahydrokannabinolowego (kwasu delta-9-THC-2-karboksylowego) w kwiatowych lub owocujących wierzchołkach roślin, z których nie usunięto żywicy, nie przekracza 0,3% w przeliczeniu na suchą masę; suma ta podlega zaokrągleniu do jednego miejsca po przecinku;
+- **6)** leczenie – leczenie zaburzeń psychicznych i zaburzeń zachowania spowodowanych używaniem środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych;
+- **7)** leczenie substytucyjne – stosowanie, w ramach programu leczenia uzależnienia, produktów leczniczych lub środków odurzających o działaniu agonistycznym na receptor opioidowy;
+- **8)** mak – roślinę z gatunku mak lekarski (Papaver somniferum L.), zwaną również makiem ogrodowym albo uprawnym;
+- **9)** mak niskomorfinowy – roślinę z gatunku mak lekarski należącą do odmiany, w której zawartość morfiny w torebce (makówce) bez nasion, wraz z przylegającą do niej łodygą o długości do 7 cm, wynosi poniżej 0,06% w przeliczeniu na zasadę morfiny i na suchą masę wymienionych części rośliny;
+- **10)** mleczko makowe – sok mleczny torebki (makówki) maku;
+- **11)** narkomania – stałe lub okresowe używanie w celach innych niż medyczne środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych, w wyniku czego może powstać lub powstało uzależnienie od nich;
+- **11a)** nowa substancja psychoaktywna – każdą substancję lub grupy substancji pochodzenia naturalnego lub syntetycznego w formie czystej lub w formie preparatu działającą na ośrodkowy układ nerwowy, inną niż substancja psychotropowa i środek odurzający, stwarzającą zgodnie z rekomendacją Zespołu do spraw oceny ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem nowych substancji psychoaktywnych, o której mowa w art. 18b ust. 1 pkt 3, zagrożenia dla zdrowia lub zagrożenia społeczne porównywalne do zagrożeń stwarzanych przez substancję psychotropową lub środek odurzający, lub które naśladują działanie tych substancji, określoną w przepisach wydanych na podstawie art. 44f pkt 3;
+- **12)** ograniczenie szkód zdrowotnych i społecznych – działania ukierunkowane na zmniejszenie problemów zdrowotnych i społecznych wynikających z używania w celach innych niż medyczne środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych;
+- **13)** opium – stężały sok mleczny torebki (makówki) maku;
+- **14)** osoba zagrożona uzależnieniem – osobę, u której zespół zjawisk psychicznych i oddziaływań środowiskowych stwarza duże prawdopodobieństwo powstania uzależnienia od środków odurzających lub substancji psychotropowych, albo osobę sporadycznie używającą środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych;
+- **15)** osoba uzależniona – osobę, która w wyniku używania środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych albo używania ich w celach medycznych znajduje się w stanie uzależnienia od tych środków lub substancji;
+- **16)** prekursor – prekursor narkotykowy będący substancją sklasyfikowaną, o której mowa w art. 2 pkt a rozporządzenia 273/2004, którego kategorię określa załącznik nr 1 do tego rozporządzenia;
+- **17)** preparat – produkt zawierający co najmniej jeden środek odurzający lub substancję psychotropową, ich prekursory albo nowe substancje psychoaktywne;
+- **18)** producent – przedsiębiorcę wytwarzającego, przetwarzającego lub przerabiającego środki odurzające, substancje psychotropowe, ich prekursory lub nowe substancje psychoaktywne;
+- **18a)** producent maku – podmiot prowadzący działalność w zakresie uprawy maku;
+- **18b)** producent konopi włóknistych – podmiot prowadzący działalność w zakresie uprawy konopi włóknistych;
+- **19)** przetwarzanie – czynności prowadzące do przemiany środków odurzających, substancji psychotropowych, prekursorów lub nowych substancji psychoaktywnych na inne środki odurzające, substancje psychotropowe, prekursory lub nowe substancje psychoaktywne albo na substancje niebędące środkami odurzającymi, substancjami psychotropowymi, prekursorami lub nowymi substancjami psychoaktywnymi;
+- **20)** przerób – otrzymywanie mieszanin środków odurzających, substancji psychotropowych, prekursorów lub nowych substancji psychoaktywnych oraz nadawanie tym środkom lub substancjom nowej postaci;
+- **20a)** przewóz – przemieszczenie środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych lub słomy makowej między dwoma państwami przez terytorium Rzeczypospolitej Polskiej, które zaczyna się i kończy poza tym terytorium;
+- **21)** przywóz – każde wprowadzenie na obszar celny Unii Europejskiej środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych;
+- **22)** rehabilitacja – proces dążący do zapewnienia osobie z zaburzeniami psychicznymi spowodowanymi przez przyjmowanie środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych osiągnięcia optymalnego stanu zdrowia oraz funkcjonowania psychicznego i społecznego;
+- **23)** reintegracja – efekt działań określonych w art. 14–16 i art. 18 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2022 r. poz. 2241);
+- **23a)** RFID – technologię zdalnego nadzoru roślin (Radio-frequency identification), która wykorzystuje fale radiowe do odczytu i przesyłania danych zawartych na etykiecie naniesionej na każdą z uprawianych roślin, umożliwiając identyfikację każdej z roślin znajdujących się w polu odczytu;
+- **24)** słoma makowa – torebkę (makówkę) maku bez nasion, wraz z łodygą, lub poszczególne ich części;
+- **25)** substancja psychotropowa – substancje: o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1490), były objęte wykazem substancji psychotropowych – określone w przepisach wydanych na podstawie art. 44f pkt 1;
+    - **a)** objęte zakresem stosowania Konwencji Narodów Zjednoczonych o substancjach psychotropowych z 1971 r. (Dz. U. z 1976 r. poz. 180),
+    - **b)** wymienione w załączniku do decyzji ramowej Rady 2004/757/WSiSW z dnia 25 października 2004 r. ustanawiającej minimalne przepisy określające znamiona przestępstw i kar w dziedzinie nielegalnego handlu narkotykami (Dz. Urz. UE L 335 z 11.11.2004, str. 8, z późn. zm. ), poddane środkom kontroli i sankcjom karnym takim samym jak substancje, o których mowa w lit. a,
+    - **c)** pochodzenia naturalnego lub syntetycznego, w formie czystej lub w formie preparatu, działające na ośrodkowy układ nerwowy, inne niż określone w lit. a i b, ale o podobnej do nich budowie chemicznej lub działaniu, stwarzające zgodnie z rekomendacją Zespołu do spraw oceny ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem nowych substancji psychoaktywnych, o której mowa w art. 18b ust. 1 pkt 3, takie same zagrożenia dla zdrowia publicznego lub zagrożenia społeczne, jak zagrożenia stwarzane przez te substancje,
+    - **d)** inne niż wymienione w lit. a–c, które na podstawie przepisów ustawy obowiązujących przed dniem wejścia w życie ustawy z dnia 20 lipca 2018 r.
+
+- **26)** środek odurzający – substancje: o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej były objęte wykazem środków odurzających – określone w przepisach wydanych na podstawie art. 44f pkt 2;
+    - **a)** objęte zakresem stosowania Jednolitej Konwencji Narodów Zjednoczonych o środkach odurzających z 1961 r. (Dz. U. z 1966 r. poz. 277) zmienionej protokołem z 1972 r. (Dz. U. z 1996 r. poz. 149),
+    - **b)** wymienione w załączniku do decyzji ramowej Rady 2004/757/WSiSW z dnia 25 października 2004 r. ustanawiającej minimalne przepisy określające znamiona przestępstw i kar w dziedzinie nielegalnego handlu narkotykami, poddane środkom kontroli i sankcjom karnym takim samym jak substancje, o których mowa w lit. a,
+    - **c)** pochodzenia naturalnego lub syntetycznego, w formie czystej lub w formie preparatu, działające na ośrodkowy układ nerwowy, inne niż określone w lit. a i b, ale o podobnej do nich budowie chemicznej lub działaniu, stwarzające zgodnie z rekomendacją Zespołu do spraw oceny ryzyka zagrożeń dla zdrowia lub życia ludzi związanych z używaniem nowych substancji psychoaktywnych, o której mowa w art. 18b ust. 1 pkt 3, takie same zagrożenia dla zdrowia publicznego lub zagrożenia społeczne, jak zagrożenia stwarzane przez te substancje,
+    - **d)** inne niż wymienione w lit. a–c, które na podstawie przepisów ustawy obowiązujących przed dniem wejścia w życie ustawy z dnia 20 lipca 2018 r.
+
+- **27)** środek zastępczy – produkt zawierający substancję o działaniu na ośrodkowy układ nerwowy, który może być użyty w takich samych celach jak środek odurzający, substancja psychotropowa lub nowa substancja psychoaktywna, których wytwarzanie i wprowadzanie do obrotu nie jest regulowane na podstawie przepisów odrębnych; do środków zastępczych nie stosuje się przepisów o ogólnym bezpieczeństwie produktów;
+- **28)** uprawa maku lub konopi – każdą uprawę maku lub konopi bez względu na powierzchnię;
+- **29)** uzależnienie od środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych – zespół zjawisk psychicznych lub somatycznych wynikających z działania środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych na organizm ludzki, charakteryzujący się zmianą zachowania lub innymi reakcjami psychofizycznymi i koniecznością używania stale lub okresowo tych środków lub substancji w celu doznania ich wpływu na psychikę lub dla uniknięcia następstw wywołanych ich brakiem;
+- **30)** używanie szkodliwe – używanie substancji psychoaktywnej powodujące szkody somatyczne lub psychiczne, włączając upośledzenie sądzenia lub dysfunkcyjne zachowanie, które może prowadzić do niesprawności lub mieć niepożądane następstwa dla związków z innymi ludźmi;
+- **31)** używanie środka odurzającego, substancji psychotropowej, środka zastępczego lub nowej substancji psychoaktywnej – wprowadzanie do organizmu człowieka środka odurzającego, substancji psychotropowej, środka zastępczego lub nowej substancji psychoaktywnej, niezależnie od drogi podania;
+- **32)** wewnątrzwspólnotowa dostawa – przemieszczenie środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych z terytorium Rzeczypospolitej Polskiej na terytorium państwa członkowskiego Unii Europejskiej;
+- **33)** wewnątrzwspólnotowe nabycie – przemieszczenie środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych z terytorium państwa członkowskiego Unii Europejskiej na terytorium Rzeczypospolitej Polskiej;
+- **34)** wprowadzanie do obrotu – udostępnienie osobom trzecim, odpłatnie lub nieodpłatnie, środków odurzających, substancji psychotropowych, prekursorów, środków zastępczych lub nowych substancji psychoaktywnych;
+- **35)** wytwarzanie – czynności, za pomocą których mogą być otrzymywane środki odurzające, substancje psychotropowe, prekursory, środki zastępcze lub nowe substancje psychoaktywne, ich oczyszczanie, ekstrakcję surowców i półproduktów oraz otrzymywanie soli tych środków lub substancji;
+- **36)** wywóz – każde wyprowadzenie poza obszar celny Unii Europejskiej środków odurzających, substancji psychotropowych lub nowych substancji psychoaktywnych;
+- **37)** ziele konopi innych niż włókniste – każdą naziemną część rośliny konopi (pojedynczą lub w mieszaninie), z wyłączeniem nasion, zawierającą powyżej 0,3% sumy delta-9-tetrahydrokannabinolu oraz kwasu tetrahydrokannabinolowego (kwasu delta-9-THC-2-karboksylowego); suma ta podlega zaokrągleniu do jednego miejsca po przecinku;
+- **38)** żywica konopi – żywicę i inne produkty konopi zawierające delta-9-tetrahydrokannabinol lub kwas delta-9-tetrahydrokannabinolowy.
 
 #### Rozdział 2 Podmioty realizujące zadania w zakresie przeciwdziałania narkomanii
 
@@ -925,6 +991,10 @@ Art. 75–81. (pominięte)
 
 **Art. 44f.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** wykaz substancji psychotropowych z podziałem na grupy, o których mowa w art. 32,
+- **2)** wykaz środków odurzających z podziałem na grupy, o których mowa w art. 31, oraz ze wskazaniem środków odurzających grupy IV-N dopuszczonych do stosowania w lecznictwie zwierząt zgodnie z art. 33 ust. 2,
+- **3)** wykaz nowych substancji psychoaktywnych – uwzględniając postanowienia Konwencji Narodów Zjednoczonych oraz decyzji, o których mowa w art. 4 pkt 25 i 26, albo ocenę lub rekomendację Zespołu, mając na uwadze wpływ tych substancji na zdrowie lub życie ludzi lub możliwość spowodowania szkód społecznych oraz konieczność działań ochronnych podejmowanych wobec zwierząt dzikich.
+
 #### Rozdział 6 Uprawa maku i konopi
 
 **Art. 45.**
@@ -1258,7 +1328,18 @@ Art. 75–81. (pominięte)
 
 **Art. 52c.** Kto:
 
+- **1)** umieszcza we wniosku o wpis do rejestru maku albo rejestru konopi włóknistych informacje lub oświadczenia niepełne lub niezgodne ze stanem faktycznym, z wyłączeniem:
+    - **a)** oświadczenia, o którym mowa w art. 47b ust. 4 pkt 5 lit. a,
+    - **b)** informacji, o której mowa w art. 47b ust. 4 pkt 6 lit. b,
+
+- **2)** nie udziela informacji lub nie przekazuje dokumentów żądanych przez osoby wykonujące czynności kontrolne lub udziela informacji nieprawdziwych lub wprowadzających w błąd osoby wykonujące czynności kontrolne,
+- **3)** w inny sposób utrudnia przeprowadzanie kontroli – podlega karze pieniężnej w wysokości 2000 zł.
+
 **Art. 52d.** Kto, będąc wpisanym do rejestru maku albo rejestru konopi włóknistych, wbrew obowiązkowi określonemu w:
+
+- **1)** art. 47c ust. 3, nie składa wniosku o zmianę danych wpisanych do rejestru maku albo rejestru konopi włóknistych lub nie składa tego wniosku w terminie określonym w tym przepisie,
+- **2)** art. 47g ust. 1, nie informuje o zakończeniu albo zawieszeniu działalności w zakresie uprawy lub skupu maku lub konopi włóknistych lub nie przekazuje tej informacji w terminie określonym w tym przepisie,
+- **3)** art. 47g ust. 3, nie przekazuje informacji, o których mowa w tym przepisie, lub nie przekazuje tych informacji w terminie określonym w tym przepisie – podlega karze pieniężnej w wysokości 1000 zł.
 
 **Art. 52e.**
 
@@ -1364,6 +1445,11 @@ Art. 75–81. (pominięte)
 4. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
 
 **Art. 65.** Kto:
+
+- **1)** uprawia lub skupuje mak niskomorfinowy lub konopie włókniste wbrew przepisom ustawy,
+- **2)** we wniosku, o którym mowa w art. 47b ust. 2:
+    - **a)** podaje planowaną powierzchnię uprawy maku lub konopi włóknistych, o której mowa w art. 47b ust. 4 pkt 6 lit. b, która różni się więcej niż o 5% od rzeczywistej powierzchni stwierdzonej w wyniku kontroli, o której mowa w art. 47f ust. 1,
+    - **b)** oświadcza o wielkości powierzchni wykorzystanej pod uprawy maku niskomorfinowego lub konopi włóknistych na potrzeby własne w oświadczeniu, o którym mowa w art. 47b ust. 4 pkt 5 lit. a, która różni się więcej niż o 5% od rzeczywistej powierzchni stwierdzonej w wyniku kontroli, o której mowa w art. 47f ust. 1
 
 **Art. 66.** Kto, wbrew przepisom ustawy, rozporządzenia 273/2004 lub rozporządzenia 111/2005, wytwarza, przetwarza, przerabia, stosuje, dokonuje przywozu, wywozu, wewnątrzwspólnotowego nabycia, wewnątrzwspólnotowej dostawy, przewozi przez terytorium Rzeczypospolitej Polskiej lub terytorium innego państwa, nabywa, posiada lub przechowuje prekursory, podlega karze grzywny.
 
@@ -1472,4 +1558,7 @@ Art. 75–81. (pominięte)
 **Art. 90.** Traci moc ustawa z dnia 24 kwietnia 1997 r. o przeciwdziałaniu narkomanii (Dz. U. z 2003 r. poz. 198 i 1143, z 2004 r. poz. 2390 oraz z 2005 r. poz. 1462).
 
 **Art. 91.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załączniki do ustawy z dnia 29 lipca 2005 r. (Dz. U. z 2023 r. poz.
+
+- **1939)** Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony)
+
 

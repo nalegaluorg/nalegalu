@@ -8,7 +8,7 @@ pos: 317
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie niektórych ustaw w celu ochrony polskiego rolnictwa
@@ -30,6 +30,11 @@ source: "isap-pdf"
 **Art. 1.** W ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2025 r. poz. 1653) preambuła otrzymuje brzmienie: „Kierując się zasadą, że gospodarstwa rodzinne, zgodnie z Konstytucją Rzeczypospolitej Polskiej, stanowią podstawę ustroju rolnego Rzeczypospolitej Polskiej, dążąc do wzmocnienia ochrony i trwałego rozwoju tych gospodarstw, mając na względzie potrzebę zapewnienia właściwego zagospodarowania ziemi rolnej na terytorium Rzeczypospolitej Polskiej, w trosce o bezpieczeństwo żywnościowe obywateli, a także pragnąc wspierać zrównoważone rolnictwo i działalność rolniczą oraz sprzyjać rozwojowi obszarów wiejskich, jako element spójnej polityki rolnej państwa, uchwala się niniejszą ustawę.”.
 
 **Art. 2.** W ustawie z dnia 14 kwietnia 2016 r. o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw (Dz. U. z 2025 r. poz. 559) wprowadza się następujące zmiany:
+
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. W okresie 20 lat od dnia wejścia w życie ustawy wstrzymuje się sprzedaż nieruchomości, ich części oraz udziałów we współwłasności nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa.”;
+- **2)** w art. 2:
+    - **a)** w ust. 1 pkt 4 otrzymuje brzmienie: „4) nieruchomości rolnych o powierzchni do 5 ha, lub”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Sprzedaż nieruchomości, ich części lub udziałów we współwłasności nieruchomości, innych niż wymienione w ust. 1, bez zgody, o której mowa w ust. 2, w okresie 20 lat od dnia wejścia w życie ustawy, jest nieważna.”.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 30 kwietnia 2026 r.
 

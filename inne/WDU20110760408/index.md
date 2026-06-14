@@ -8,7 +8,7 @@ pos: 408
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Centrum Dialogu im. Juliusza Mieroszewskiego
@@ -77,6 +77,10 @@ source: "isap-pdf"
 
 **Art. 6.** Organami Centrum są:
 
+- **1)** Dyrektor Centrum;
+- **2)** (uchylony)
+- **3)** Rada Centrum.
+
 **Art. 7.**
 
 1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek Dyrektora Centrum, po zasięgnięciu opinii Rady Centrum, może, w drodze zarządzenia, tworzyć, przekształcać i likwidować oddziały zamiejscowe Centrum, uwzględniając możliwość wykonywania jego zadań na obszarze działania oddziału.
@@ -131,6 +135,19 @@ source: "isap-pdf"
 4. W przypadku, o którym mowa w ust. 1 i 2, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego powierza zastępcy Dyrektora Centrum pełnienie obowiązków Dyrektora Centrum na okres nie dłuższy niż trzy miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne trzy miesiące.
 
 **Art. 11.** Do zadań i obowiązków Dyrektora Centrum należy w szczególności:
+
+- **1)** kierowanie pracami Centrum;
+- **2)** reprezentowanie Centrum na zewnątrz;
+- **3)** zapewnienie funkcjonowania i ciągłości pracy Centrum;
+- **4)** podejmowanie czynności w sprawach z zakresu prawa pracy;
+- **5)** powoływanie i odwoływanie dyrektorów oddziałów zamiejscowych Centrum;
+- **6)** opracowywanie rocznego planu działania Centrum;
+- **7)** opracowywanie projektu rocznego planu finansowego Centrum;
+- **8)** opracowywanie rocznego sprawozdania finansowego Centrum;
+- **9)** sporządzanie rocznego sprawozdania z działalności Centrum i przedstawianie go ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego;
+- **10)** sprawowanie zarządu nad mieniem Centrum;
+- **11)** prowadzenie gospodarki finansowej Centrum;
+- **12)** rozliczanie dotacji otrzymanych z budżetu państwa.
 
 **Art. 12.** (uchylony)
 
@@ -271,6 +288,9 @@ source: "isap-pdf"
 **Art. 23b.** Pracownik naukowy jest obowiązany do prowadzenia badań naukowych oraz uczestniczenia w pracach organizacyjnych związanych z prowadzonymi badaniami naukowymi, a także stałego podnoszenia swoich kompetencji zawodowych.
 
 **Art. 23c.** Wykonywanie obowiązków pracownika naukowego stanowi:
+
+- **1)** działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509 oraz z 2024 r. poz. 1222 i 1254);
+- **2)** działalność, o której mowa w art. 22 ust. 9b pkt 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, 232, 854, 858, 859 i 863).
 
 **Art. 23d.** Pracownikom naukowym Centrum przysługuje urlop wypoczynkowy w wymiarze 36 dni w danym roku kalendarzowym.
 

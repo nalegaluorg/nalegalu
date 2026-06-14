@@ -8,10 +8,10 @@ pos: 1086
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, 22 lipca 2024 ROZPORZĄDZENIE MINISTRA ZDROWIA 16 lipca 2024 sprawie składu i trybu działania orzekającej trybu orzekania stanie zdrowia diagnosty laboratoryjnego Na podstawie art. 19 ust. 7 ustawy 15 września 2022 medycynie laboratoryjnej 2125) zarządza się, co następuje: § 1. Rozporządzenie określa:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1086 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 16 lipca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,56 +25,67 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1086/text.pdf) |
 
-1) skład komisji, której art. 19 ust. 1 ustawy 15 września 2022 medycynie laboratoryjnej, zwanej dalej „komisją”;
+w sprawie składu i trybu działania komisji orzekającej oraz trybu orzekania o stanie zdrowia diagnosty laboratoryjnego Na podstawie art. 19 ust. 7 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) skład komisji, o której mowa w art. 19 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, zwanej dalej „komisją”;
 2) tryb działania komisji;
-3) tryb orzekania stanie zdrowia diagnosty zwanego dalej „orzekaniem”.
-§ 2. 1. W skład wchodzą trzy osoby wykonujące zawód lekarza co najmniej przez pięć lat posiadające specjalizację dziedzinie medycyny odpowiedniej ze względu stan zdrowia diagnosty laboratoryjnego.
-2. Członkowie wybierają spośród siebie przewodniczącego komisji.
-3. Jeżeli orzekanie diagnosty laboratoryjnego pełniącego zawodową okresową służbę wojskową, skład wchodzi dwóch lekarzy wyznaczonych przez Ministra Obrony Narodowej, spełniających wymagania, których ust. 1.
-4. Członkiem nie może być lekarz, który:
-1) został zawieszony prawie wykonywania zawodu albo ograniczony wykonywaniu określonych czynności medycznych;
-2) został ukarany przez sąd lekarski karą wymienioną art. 83 ust. 1 pkt 1–6 ustawy 2 2009 izbach lekarskich 2021 1342 1234);
-3) został ukarany przez sąd prawomocnym orzeczeniem zastosowaniu środka karnego postaci zakazu zajmowania określonego stanowiska, wykonywania określonego zawodu prowadzenia określonej działalności gospodarczej;
-4) jest małżonkiem krewnym albo powinowatym do drugiego stopnia diagnosty orzekanie;
-5) pozostaje wobec diagnosty orzekanie, takim stosunku prawnym faktycznym, że może to budzić uzasadnione wątpliwości co do jego bezstronności.
-§ 3. 1. Przewodniczący niezwłocznie powiadamia diagnostę orzekanie, przesyłką rejestrowaną za pomocą środków komunikacji elektronicznej powołaniu i składzie komisji.
+3) tryb orzekania o stanie zdrowia diagnosty laboratoryjnego, zwanego dalej „orzekaniem”.
+§ 2. 1. W skład komisji wchodzą trzy osoby wykonujące zawód lekarza co najmniej przez pięć lat oraz posiadające specjalizację w dziedzinie medycyny odpowiedniej ze względu na stan zdrowia diagnosty laboratoryjnego.
+2. Członkowie komisji wybierają spośród siebie przewodniczącego komisji.
+3. Jeżeli orzekanie dotyczy diagnosty laboratoryjnego pełniącego zawodową lub okresową służbę wojskową, w skład komisji wchodzi dwóch lekarzy wyznaczonych przez Ministra Obrony Narodowej, spełniających wymagania, o których mowa w ust. 1.
+4. Członkiem komisji nie może być lekarz, który:
+1) został zawieszony w prawie wykonywania zawodu albo ograniczony w wykonywaniu określonych czynności medycznych;
+2) został ukarany przez sąd lekarski karą wymienioną w art. 83 ust. 1 pkt 1–6 ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342 oraz z 2023 r. poz. 1234);
+3) został ukarany przez sąd prawomocnym orzeczeniem o zastosowaniu środka karnego w postaci zakazu zajmowania określonego stanowiska, wykonywania określonego zawodu lub prowadzenia określonej działalności gospodarczej;
+4) jest małżonkiem lub krewnym albo powinowatym do drugiego stopnia diagnosty laboratoryjnego, którego dotyczy orzekanie;
+5) pozostaje wobec diagnosty laboratoryjnego, którego dotyczy orzekanie, w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do jego bezstronności.
+§ 3. 1. Przewodniczący komisji niezwłocznie powiadamia diagnostę laboratoryjnego, którego dotyczy orzekanie, przesyłką rejestrowaną lub za pomocą środków komunikacji elektronicznej o powołaniu i składzie komisji.
+2. Członek komisji podlega wyłączeniu z udziału w pracach komisji z urzędu lub na wniosek diagnosty laboratoryjnego, którego dotyczy orzekanie, jeżeli w trakcie prac komisji wystąpiła co najmniej jedna z okoliczności, o których mowa w § 2 ust. 4.
+3. Diagnosta laboratoryjny, którego dotyczy orzekanie, może złożyć do przewodniczącego komisji wniosek o wyłączenie członka komisji z udziału w jej pracach, jeżeli powziął wiadomość o wystąpieniu okoliczności, o których mowa w § 2 ust. 4, w terminie 7 dni od dnia otrzymania powiadomienia, o którym mowa w ust. 1.
+4. Członek komisji jest obowiązany wyłączyć się z udziału w pracach komisji niezwłocznie po zaistnieniu okoliczności, o których mowa w § 2 ust. 4.
+§ 4. 1. Pracami komisji kieruje przewodniczący komisji, do którego obowiązków należy w szczególności:
 1) wyznaczanie terminów posiedzeń komisji;
-2) przedstawienie członkom okoliczności sprawy, której ma być wydane orzeczenie niezdolności diagnosty laboratoryjnego do wykonywania zawodu diagnosty laboratoryjnego albo ograniczeniu wykonywaniu określonych czynności medycyny laboratoryjnej przez diagnostę zwane dalej „orzeczeniem”;
-3) uzgadnianie kierownikiem podmiotu leczniczego terminu i miejsca dodatkowych badań lekarskich;
-4) wystąpienie do podmiotu leczniczego przekazanie dokumentacji medycznej koniecznej do wydania orzeczenia;
-5) powiadomienie diagnosty laboratoryjnego terminie i miejscu stawienia się komisją terminie i miejscu badań lekarskich dodatkowych badaniach lekarskich podmiocie leczniczym.
-2. Przewodniczący powiadamia diagnostę orzekanie, przesyłką rejestrowaną za pomocą środków komunikacji elektronicznej terminie i miejscu stawienia się komisją terminie i miejscu badania lekarskiego co najmniej 14 dni datą posiedzenia komisji.
-§ 5. 1. Diagnosta laboratoryjny, orzekanie, może wskazać diagnostę laboratoryjnego lekarza niebędących członkami jako swojego męża zaufania.
-2. Diagnosta laboratoryjny, orzekanie, powiadamia przewodniczącego ustanowieniu męża zaufania nie później niż dniu stawienia się komisją.
-3. Mąż zaufania ma prawo uczestniczyć we wszystkich czynnościach komisji, wyjątkiem głosowania.
-§ 6. 1. Komisja wydaje orzeczenie podstawie przeprowadzonego badania lekarskiego, dodatkowego badania lekarskiego podmiocie leczniczym zgromadzonej dokumentacji medycznej.
-2. Komisja wydaje orzeczenie nie później niż terminie 2 miesięcy od jej powołania.
-3. W przypadku gdy wydanie orzeczenia terminie, którym ust. 2, nie jest możliwe uwagi niezakończone badanie lekarskie niezakończone dodatkowe badanie lekarskie podmiocie leczniczym, komisja może przedłużyć termin wydania orzeczenia, nie dłużej jednak niż do 6 miesięcy od powołania komisji.
-4. W orzeczeniu ograniczeniu wykonywaniu określonych czynności medycyny laboratoryjnej przez diagnostę laboratoryjnego komisja ściśle określa te czynności medycyny laboratoryjnej.
-§ 7. 1. Komisja może skierować diagnostę laboratoryjnego dodatkowe badanie lekarskie podmiocie leczniczym.
-2. Przewodniczący uzgadnia kierownikiem podmiotu leczniczego termin i miejsce dodatkowego badania lekarskiego.
-3. Przewodniczący powiadamia diagnostę laboratoryjnego przesyłką rejestrowaną za pomocą środków komunikacji elektronicznej terminie i miejscu dodatkowego badania lekarskiego podmiocie leczniczym co najmniej 14 dni datą badania.
-§ 8. 1. Jeżeli diagnosta laboratoryjny nie może stawić się badanie lekarskie dodatkowe badanie lekarskie podmiocie leczniczym, niezwłocznie informuje tym komisję przesyłką rejestrowaną za pomocą środków porozumiewania się odległość podaje przyczyny usprawiedliwiające jego niestawienie się.
-2. Przewodniczący uzgodnieniu diagnostą laboratoryjnym ponownie ustala termin badania lekarskiego dodatkowego badania lekarskiego podmiocie leczniczym.
-3. Jeżeli diagnosta laboratoryjny nie może stawić się badanie lekarskie dodatkowe badanie lekarskie podmiocie leczniczym powodu choroby, przedstawia zaświadczenie lekarskie, które potwierdza niemożność jego stawie3. Orzeczenie wraz uzasadnieniem podpisują wszyscy członkowie komisji.
-4. Przy składaniu podpisu członek ma prawo złożyć zdanie odrębne wraz uzasadnieniem.
-§ 11. 1. Komisja sporządza protokół przeprowadzonego orzekania, który zawiera:
+2) przedstawienie członkom komisji okoliczności sprawy, w której ma być wydane orzeczenie o niezdolności diagnosty laboratoryjnego do wykonywania zawodu diagnosty laboratoryjnego albo o ograniczeniu w wykonywaniu określonych czynności medycyny laboratoryjnej przez diagnostę laboratoryjnego, zwane dalej „orzeczeniem”;
+3) uzgadnianie z kierownikiem podmiotu leczniczego terminu i miejsca dodatkowych badań lekarskich;
+4) wystąpienie do podmiotu leczniczego o przekazanie dokumentacji medycznej koniecznej do wydania orzeczenia;
+5) powiadomienie diagnosty laboratoryjnego o terminie i miejscu stawienia się przed komisją oraz o terminie i miejscu badań lekarskich lub o dodatkowych badaniach lekarskich w podmiocie leczniczym.
+2. Przewodniczący komisji powiadamia diagnostę laboratoryjnego, którego dotyczy orzekanie, przesyłką rejestrowaną lub za pomocą środków komunikacji elektronicznej o terminie i miejscu stawienia się przed komisją oraz o terminie i miejscu badania lekarskiego co najmniej 14 dni przed datą posiedzenia komisji.
+§ 5. 1. Diagnosta laboratoryjny, którego dotyczy orzekanie, może wskazać diagnostę laboratoryjnego lub lekarza niebędących członkami komisji jako swojego męża zaufania.
+2. Diagnosta laboratoryjny, którego dotyczy orzekanie, powiadamia przewodniczącego komisji o ustanowieniu męża zaufania nie później niż w dniu stawienia się przed komisją.
+3. Mąż zaufania ma prawo uczestniczyć we wszystkich czynnościach komisji, z wyjątkiem głosowania.
+§ 6. 1. Komisja wydaje orzeczenie na podstawie przeprowadzonego badania lekarskiego, dodatkowego badania lekarskiego w podmiocie leczniczym oraz zgromadzonej dokumentacji medycznej.
+2. Komisja wydaje orzeczenie nie później niż w terminie 2 miesięcy od dnia jej powołania.
+3. W przypadku gdy wydanie orzeczenia w terminie, o którym mowa w ust. 2, nie jest możliwe z uwagi na niezakończone badanie lekarskie lub niezakończone dodatkowe badanie lekarskie w podmiocie leczniczym, komisja może przedłużyć termin wydania orzeczenia, nie dłużej jednak niż do 6 miesięcy od dnia powołania komisji.
+4. W orzeczeniu o ograniczeniu w wykonywaniu określonych czynności medycyny laboratoryjnej przez diagnostę laboratoryjnego komisja ściśle określa te czynności medycyny laboratoryjnej.
+§ 7. 1. Komisja może skierować diagnostę laboratoryjnego na dodatkowe badanie lekarskie w podmiocie leczniczym.
+2. Przewodniczący komisji uzgadnia z kierownikiem podmiotu leczniczego termin i miejsce dodatkowego badania lekarskiego.
+3. Przewodniczący komisji powiadamia diagnostę laboratoryjnego przesyłką rejestrowaną lub za pomocą środków komunikacji elektronicznej o terminie i miejscu dodatkowego badania lekarskiego w podmiocie leczniczym co najmniej 14 dni przed datą badania.
+§ 8. 1. Jeżeli diagnosta laboratoryjny nie może stawić się na badanie lekarskie lub dodatkowe badanie lekarskie w podmiocie leczniczym, niezwłocznie informuje o tym komisję przesyłką rejestrowaną lub za pomocą środków porozumiewania się na odległość oraz podaje przyczyny usprawiedliwiające jego niestawienie się.
+2. Przewodniczący komisji w uzgodnieniu z diagnostą laboratoryjnym ponownie ustala termin badania lekarskiego lub dodatkowego badania lekarskiego w podmiocie leczniczym.
+3. Jeżeli diagnosta laboratoryjny nie może stawić się na badanie lekarskie lub dodatkowe badanie lekarskie w podmiocie leczniczym z powodu choroby, przedstawia komisji zaświadczenie lekarskie, które potwierdza niemożność jego stawienia się na badanie lekarskie lub dodatkowe badanie lekarskie w podmiocie leczniczym, w terminie 7 dni od dnia wystawienia tego zaświadczenia.
+§ 9. 1. Jeżeli diagnosta laboratoryjny odmawia stawienia się przed komisją, uchyla się od badania lekarskiego lub dodatkowego badania lekarskiego w podmiocie leczniczym, przewodniczący komisji wyznacza kolejny termin stawienia się przed komisją, kolejny termin badania lekarskiego lub dodatkowego badania lekarskiego w podmiocie leczniczym.
+2. Jeżeli diagnosta laboratoryjny odmawia stawienia się przed komisją, uchyla się od badania lekarskiego lub dodatkowego badania lekarskiego w podmiocie leczniczym w terminie, o którym mowa w ust. 1, przewodniczący komisji zawiadamia o tym niezwłocznie Krajową Radę Diagnostów Laboratoryjnych, zwaną dalej „Krajową Radą”, która podejmuje uchwałę, o której mowa w art. 19 ust. 4 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej.
+§ 10. 1. Komisja przeprowadza głosowanie przed wydaniem orzeczenia.
+2. Orzeczenie komisji zapada zwykłą większością głosów.
+3. Orzeczenie wraz z uzasadnieniem podpisują wszyscy członkowie komisji.
+4. Przy składaniu podpisu członek komisji ma prawo złożyć zdanie odrębne wraz z uzasadnieniem.
+§ 11. 1. Komisja sporządza protokół z przeprowadzonego orzekania, który zawiera:
 1) datę i miejsce posiedzenia komisji;
 2) imiona i nazwiska członków komisji;
-3) tytuły zawodowe członków posiadaną przez członków specjalizację dziedzinie medycyny odpowiedniej ze względu stan zdrowia diagnosty laboratoryjnego;
-4) imię (imiona) i nazwisko diagnosty orzekanie;
-5) opis okoliczności, które spowodowały przeprowadzenie dodatkowego badania lekarskiego podmiocie leczniczym, którym § 7 ust. 1;
-6) informację odmowie diagnosty laboratoryjnego stawienia się komisją, uchylaniu się przez diagnostę laboratoryjnego od badania lekarskiego dodatkowego badania lekarskiego podmiocie leczniczym;
-7) informację wyłączeniu członka ze składu i powołaniu nowego członka komisji;
-8) podpisy członków i męża zaufania albo informację odmowie podpisania protokołu przez męża zaufania.
+3) tytuły zawodowe członków komisji oraz posiadaną przez członków komisji specjalizację w dziedzinie medycyny odpowiedniej ze względu na stan zdrowia diagnosty laboratoryjnego;
+4) imię (imiona) i nazwisko diagnosty laboratoryjnego, którego dotyczy orzekanie;
+5) opis okoliczności, które spowodowały przeprowadzenie dodatkowego badania lekarskiego w podmiocie leczniczym, o którym mowa w § 7 ust. 1;
+6) informację o odmowie diagnosty laboratoryjnego stawienia się przed komisją, uchylaniu się przez diagnostę laboratoryjnego od badania lekarskiego lub dodatkowego badania lekarskiego w podmiocie leczniczym;
+7) informację o wyłączeniu członka ze składu komisji i powołaniu nowego członka komisji;
+8) podpisy członków komisji i męża zaufania albo informację o odmowie podpisania protokołu przez męża zaufania.
 2. Komisja dołącza do protokołu:
-1) orzeczenie wraz uzasadnieniem;
-2) zdanie odrębne wraz uzasadnieniem, którym § 10 ust. 4;
-3) dokumentację medyczną, której § 4 ust. 1 pkt 4.
-3. Orzeczenie wraz uzasadnieniem, zdanie odrębne wraz uzasadnieniem i dokumentację medyczną protokół przewodniczący przekazuje Krajowej Radzie przesyłką rejestrowaną za pomocą środków komunikacji elektronicznej terminie 7 dni od podpisania protokołu.
-§ 12. 1. Komisja ulega rozwiązaniu dniem podjęcia przez Krajową Radę uchwały zawieszeniu prawa wykonywania zawodu diagnosty laboratoryjnego okres trwania niezdolności do wykonywania zawodu uchwały ograniczeniu wykonywaniu określonych czynności medycyny laboratoryjnej przez diagnostę laboratoryjnego okres trwania niezdolności.
-2. Komisja ulega również rozwiązaniu dniem podjęcia przez Krajową Radę uchwały umorzeniu postępowania, jeżeli orzeczenie nie daje podstaw do podjęcia uchwał, których ust. 1.
-§ 13. Do postępowań rozpoczętych i niezakończonych komisją, której art. 15 ust. 1 ustawy 27 lipca 2001 diagnostyce laboratoryjnej 2022 2162), dniem wejścia życie niniejszego rozporządzenia stosuje się przepisy tego rozporządzenia.
-§ 14. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.
+1) orzeczenie wraz z uzasadnieniem;
+2) zdanie odrębne wraz z uzasadnieniem, o którym mowa w § 10 ust. 4;
+3) dokumentację medyczną, o której mowa w § 4 ust. 1 pkt 4.
+3. Orzeczenie wraz z uzasadnieniem, zdanie odrębne wraz z uzasadnieniem i dokumentację medyczną oraz protokół przewodniczący komisji przekazuje Krajowej Radzie przesyłką rejestrowaną lub za pomocą środków komunikacji elektronicznej w terminie 7 dni od dnia podpisania protokołu.
+§ 12. 1. Komisja ulega rozwiązaniu z dniem podjęcia przez Krajową Radę uchwały o zawieszeniu prawa wykonywania zawodu diagnosty laboratoryjnego na okres trwania niezdolności do wykonywania zawodu lub uchwały o ograniczeniu w wykonywaniu określonych czynności medycyny laboratoryjnej przez diagnostę laboratoryjnego na okres trwania niezdolności.
+2. Komisja ulega również rozwiązaniu z dniem podjęcia przez Krajową Radę uchwały o umorzeniu postępowania, jeżeli orzeczenie komisji nie daje podstaw do podjęcia uchwał, o których mowa w ust. 1.
+§ 13. Do postępowań rozpoczętych i niezakończonych przed komisją, o której mowa w art. 15 ust. 1 ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2022 r. poz. 2162), przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy tego rozporządzenia.
+§ 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Zdrowia: wz. W. Konieczny
 

@@ -8,12 +8,12 @@ pos: 1011
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o lasach
 
-*USTAWA z dnia 10 lipca 2008 r.*
+*USTAWA Opracowano na z dnia 10 lipca 2008 r. stawie: Dz.U. z 2008 r. Nr 163, poz. 1011.*
 
 | Pole | Wartość |
 |---|---|
@@ -29,5 +29,5 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 28 września 1991 r. o lasach (Dz.U. z 2005 r. Nr 45, poz. 435, z późn. zm. ) w art. 13 ust. 1 pkt 2 otrzymuje brzmienie: „2) ponownego wprowadzania roślinności leśnej (upraw leśnych) w lasach w okresie do 5 lat od usunięcia drzewostanu;”.
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz.U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399, Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658, Nr 245, poz. 1775 oraz z 2007 r. Nr 59, poz. 405, Nr 64, poz. 427 i Nr 181, poz. 1286. Opracowano na stawie: Dz.U. z 2008 r. Nr 163, poz. 1011.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz.U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399, Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658, Nr 245, poz. 1775 oraz z 2007 r. Nr 59, poz. 405, Nr 64, poz. 427 i Nr 181, poz. 1286.
 

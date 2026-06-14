@@ -8,7 +8,7 @@ pos: 28
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych
@@ -33,6 +33,9 @@ Art. 31–35. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** współdziałania członków kooperatywy mieszkaniowej w celu realizacji inwestycji mieszkaniowej;
+- **2)** zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych.
+
 **Art. 2.**
 
 1. Inwestycją mieszkaniową w rozumieniu ustawy jest realizowane przez członków kooperatywy mieszkaniowej albo przez spółdzielnię mieszkaniową przedsięwzięcie inwestycyjno-budowlane służące zaspokojeniu potrzeb mieszkaniowych członków tej kooperatywy mieszkaniowej albo członków tej spółdzielni mieszkaniowej, lub własnych lub przysposobionych dzieci tych członków, oraz osób z nimi zamieszkujących, polegające na:
@@ -51,6 +54,9 @@ Art. 31–35. (pominięte)
 - **2)** sprzedaży budynku mieszkalnego jednorodzinnego, w którym nie wyodrębniono lokalu – rozumie się przez to przeniesienie na nabywcę własności nieruchomości gruntowej wraz z tym budynkiem.
 
 **Art. 3.** Zakończenie inwestycji mieszkaniowej w rozumieniu ustawy następuje w dniu:
+
+- **1)** w którym można przystąpić do użytkowania ostatniego budynku mieszkalnego objętego inwestycją mieszkaniową – w przypadku inwestycji mieszkaniowej, z którą jest związany obowiązek zawiadomienia, o którym mowa w art. 54 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834, 1222 i 1847), lub obowiązek uzyskania decyzji o pozwoleniu na użytkowanie, o którym mowa w art. 55 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **2)** zakończenia robót budowlanych wskazanym w protokole odbioru końcowego, o którym mowa w art. 3 pkt 13 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, dotyczącym odbioru ostatnich robót budowlanych, po których zakończeniu będą użytkowane lokale mieszkalne lub budynki mieszkalne jednorodzinne, o których mowa w art. 2 ust. 1 pkt 3.
 
 #### Rozdział 2 Kooperatywy mieszkaniowe
 
@@ -87,7 +93,18 @@ Art. 31–35. (pominięte)
 
 **Art. 7.** Zasady współdziałania członków kooperatywy mieszkaniowej może określać umowa spółki cywilnej, jeżeli:
 
+- **1)** wspólnym celem gospodarczym, do którego na podstawie tej umowy są zobowiązane dążyć strony, jest realizacja inwestycji mieszkaniowej;
+- **2)** w umowie tej określono:
+    - **a)** przedmiot inwestycji mieszkaniowej, o którym mowa w art. 2 ust. 1,
+    - **b)** planowaną w ramach inwestycji mieszkaniowej liczbę lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych, w których nie wyodrębniono lokalu,
+    - **c)** wielkości udziałów stron umowy w majątku wspólnym w przypadku rozwiązania spółki;
+
+- **3)** nazwa tej spółki zawiera określenie „kooperatywa mieszkaniowa”.
+
 **Art. 8.** Do umowy określającej zasady współdziałania członków kooperatywy mieszkaniowej załącza się:
+
+- **1)** informację, że do współdziałania na podstawie tej umowy nie mają zastosowania przepisy ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695), w szczególności że środki pieniężne wpłacane na poczet realizacji tej umowy nie są objęte ochroną przewidzianą w tej ustawie;
+- **2)** oświadczenia stron tej umowy o zapoznaniu się z informacją, o której mowa w pkt 1.
 
 **Art. 9.**
 
@@ -96,6 +113,8 @@ Art. 31–35. (pominięte)
 2. W przypadku gdy do zmniejszenia liczby stron umowy określającej zasady współdziałania członków kooperatywy mieszkaniowej dojdzie w wyniku śmierci strony, przepisu ust. 1 nie stosuje się.
 
 **Art. 10.** Wydatki ponoszone w związku z realizacją inwestycji mieszkaniowej członkowie kooperatywy mieszkaniowej pokrywają za pośrednictwem rachunku powierniczego, o którym mowa w art. 59 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i
+
+- **1863)** , chyba że w umowie określającej zasady współdziałania członków kooperatywy mieszkaniowej określono inne zasady pokrywania tych wydatków.
 
 **Art. 11.**
 
@@ -377,6 +396,9 @@ Art. 31–35. (pominięte)
 #### Rozdział 4 Przepisy zmieniające i przepis końcowy
 
 **Art. 36.** W przypadku:
+
+- **1)** zmiany umowy kredytu, o którym mowa w art. 2 pkt 7 ustawy zmienianej w art. 35, polegającej na podwyższeniu wkładu własnego kredytobiorcy,
+- **2)** wcześniejszej spłaty części kredytu, o którym mowa w art. 2 pkt 7 ustawy zmienianej w art. 35, do wysokości odpowiadającej podwyższeniu wkładu własnego kredytobiorcy – w sposób zgodny z przepisami ustawy zmienianej w art. 35 w brzmieniu nadanym niniejszą ustawą, dokonywanych na złożony do dnia 30 czerwca 2023 r. wniosek kredytobiorcy, któremu kredyt ten został udzielony przed dniem wejścia w życie niniejszej ustawy, zmiana umowy kredytu oraz spłata jego części następują bez dodatkowych opłat.
 
 **Art. 37.** Do wniosków o udzielenie kredytu, o którym mowa w art. 2 pkt 7 ustawy zmienianej w art. 35 w brzmieniu dotychczasowym, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 35 w brzmieniu nadanym niniejszą ustawą.
 

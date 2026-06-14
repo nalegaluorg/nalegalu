@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej*
 
 Łącznie: **6** orzeczeń
-(pominięto 11 orzeczeń sądów rejonowych)
+(pominięto 12 orzeczeń sądów rejonowych)
 
 ## art. 2 (1)
 

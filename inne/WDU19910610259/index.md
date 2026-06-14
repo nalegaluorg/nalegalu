@@ -8,7 +8,7 @@ pos: 259
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o finansowaniu Katolickiego Uniwersytetu Lubelskiego z budżetu państwa.

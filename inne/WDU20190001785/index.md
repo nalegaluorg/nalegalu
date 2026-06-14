@@ -8,10 +8,10 @@ pos: 1785
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 września 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1785 ROZPORZĄDZENIE MINISTRA PRZEDSIĘBIORCZOŚCI I TECHNOLOGII z dnia 12 września 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001785) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1785/text.pdf) |
 
-Poz. 1785 ROZPORZĄDZENIE MINISTRA PRZEDSIĘBIORCZOŚCI I TECHNOLOGII z dnia 12 września 2019 r.
 w sprawie powierzenia zarządzającym specjalnymi strefami ekonomicznymi wykonywania kontroli realizacji warunków zezwoleń na prowadzenie działalności gospodarczej na terenie danej strefy Na podstawie art. 20 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U.
-z 2019 r. poz. 482) zarządza się, co następuje: § 1. Powierza się zarządzającym specjalnymi strefami ekonomicznymi:
+z 2019 r. poz. 482) zarządza się, co następuje:
+§ 1. Powierza się zarządzającym specjalnymi strefami ekonomicznymi:
 1) Kamiennogórską Specjalną Strefą Ekonomiczną Małej Przedsiębiorczości,
 2) Katowicką Specjalną Strefą Ekonomiczną,
 3) Kostrzyńsko-Słubicką Specjalną Strefą Ekonomiczną,
@@ -39,11 +39,11 @@ z 2019 r. poz. 482) zarządza się, co następuje: § 1. Powierza się zarządza
 9) Specjalną Strefą Ekonomiczną Euro-Park Mielec,
 10) Specjalną Strefą Ekonomiczną „Starachowice”,
 11) Suwalską Specjalną Strefą Ekonomiczną,
-12) Tarnobrzeską Specjalną Strefą Ekonomiczną WISŁOSAN,
+12) Tarnobrzeską Specjalną Strefą Ekonomiczną EURO-PARK WISŁOSAN,
 13) Wałbrzyską Specjalną Strefą Ekonomiczną INVEST-PARK,
 14) Warmińsko-Mazurską Specjalną Strefą Ekonomiczną – wykonywanie, w imieniu ministra właściwego do spraw gospodarki, kontroli realizacji warunków udzielonych przez siebie zezwoleń na prowadzenie działalności gospodarczej na terenie danej strefy.
 § 2. Zarządzający specjalnymi strefami ekonomicznymi przekazują ministrowi właściwemu do spraw gospodarki kwartalną informację o funkcjonowaniu strefy.
-Dziennik Ustaw – 2 – Poz. 1785 § 3. Tracą moc:
+§ 3. Tracą moc:
 1) rozporządzenie Ministra Gospodarki z dnia 2 lipca 2009 r. w sprawie powierzenia Specjalnej Strefie Ekonomicznej Małej Przedsiębiorczości S.A. udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Kamiennogórskiej Specjalnej Strefy Ekonomicznej Małej Przedsiębiorczości oraz wykonywania kontroli realizacji warunków zezwolenia (Dz. U. poz. 930);
 2) rozporządzenie Ministra Gospodarki z dnia 2 lipca 2009 r. w sprawie powierzenia Katowickiej Specjalnej Strefie Ekonomicznej S.A. udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Katowickiej Specjalnej Strefy Ekonomicznej oraz wykonywania kontroli realizacji warunków zezwolenia (Dz. U. poz. 923);
 3) rozporządzenie Ministra Gospodarki z dnia 2 lipca 2009 r. w sprawie powierzenia Kostrzyńsko-Słubickiej Specjalnej Strefie Ekonomicznej S.A. udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Kostrzyńsko-Słubickiej Specjalnej Strefy Ekonomicznej oraz wykonywania kontroli realizacji warunków zezwolenia (Dz. U.
@@ -58,7 +58,7 @@ udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Specj
 10) rozporządzenie Ministra Gospodarki z dnia 2 lipca 2009 r. w sprawie powierzenia Specjalnej Strefie Ekonomicznej „Starachowice” S.A. udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Specjalnej Strefy Ekonomicznej „Starachowice” oraz wykonywania kontroli realizacji warunków zezwolenia (Dz. U. poz. 931);
 11) rozporządzenie Ministra Gospodarki z dnia 2 lipca 2009 r. w sprawie powierzenia Suwalskiej Specjalnej Strefie Ekonomicznej S.A. udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Suwalskiej Specjalnej Strefy Ekonomicznej oraz wykonywania kontroli realizacji warunków zezwolenia (Dz. U. poz. 932);
 12) rozporządzenie Ministra Gospodarki z dnia 2 lipca 2009 r. w sprawie powierzenia Agencji Rozwoju Przemysłu S.A.
-udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Tarnobrzeskiej Specjalnej Strefy Ekonomicznej WISŁOSAN oraz wykonywania kontroli realizacji warunków zezwolenia (Dz. U. poz. 941);
+udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Tarnobrzeskiej Specjalnej Strefy Ekonomicznej EURO-PARK WISŁOSAN oraz wykonywania kontroli realizacji warunków zezwolenia (Dz. U. poz. 941);
 13) rozporządzenie Ministra Gospodarki z dnia 2 lipca 2009 r. w sprawie powierzenia Wałbrzyskiej Specjalnej Strefie Ekonomicznej INVEST-PARK Sp. z o.o. udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Wałbrzyskiej Specjalnej Strefy Ekonomicznej INVEST-PARK oraz wykonywania kontroli realizacji warunków zezwolenia (Dz. U. poz. 934);
 14) rozporządzenie Ministra Gospodarki z dnia 2 lipca 2009 r. w sprawie powierzenia Warmińsko-Mazurskiej Specjalnej Strefie Ekonomicznej S.A. udzielania zezwoleń na prowadzenie działalności gospodarczej na terenie Warmińsko-Mazurskiej Specjalnej Strefy Ekonomicznej oraz wykonywania kontroli realizacji warunków zezwolenia (Dz. U.
 poz. 933).

@@ -8,7 +8,7 @@ pos: 425
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o systemie oświaty Preambuła (uchylona)
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1991-09-07 |
 | Data wydania | 1991-10-25 |
-| Ostatnia zmiana | 2026-04-29 |
+| Ostatnia zmiana | 2026-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910950425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/425/text.pdf) |
 
 Art. 44zs. Egzamin ósmoklasisty jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla szkoły podstawowej, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b ustawy – Prawo oświatowe, oraz sprawdza, w jakim stopniu uczeń lub słuchacz spełnia te wymagania.
@@ -844,6 +844,62 @@ Art. 97–103. (pominięte)
 
 **Art. 3.** Ilekroć w dalszych przepisach jest mowa bez bliższego określenia o:
 
+- **1)** szkole – należy przez to rozumieć także przedszkole;
+- **1a)** szkole specjalnej lub oddziale specjalnym – należy przez to rozumieć odpowiednio szkołę lub oddział, o których mowa w art. 4 pkt 2 ustawy – Prawo oświatowe;
+- **2)** (uchylony) 2a) oddziale integracyjnym – należy przez to rozumieć oddział szkolny, o którym mowa w art. 4 pkt 3 ustawy – Prawo oświatowe;
+- **2b)** oddziale dwujęzycznym – należy przez to rozumieć oddział szkolny, o którym mowa w art. 4 pkt 4 ustawy – Prawo oświatowe;
+- **2c)** szkole integracyjnej – należy przez to rozumieć szkołę, o której mowa w art. 4 pkt 5 ustawy – Prawo oświatowe;
+- **2d)** szkole dwujęzycznej – należy przez to rozumieć szkołę, o której mowa w art. 4 pkt 6 ustawy – Prawo oświatowe;
+- **2e)** (uchylony) 2f) (uchylony) 2fa) (uchylony) 2fb) (uchylony) 2fc) (uchylony) 2g) (uchylony)
+- **3)** placówce – należy przez to rozumieć jednostki organizacyjne wymienione w art. 2 pkt 3–8 i 10 ustawy – Prawo oświatowe;
+- **3a)** (uchylony) 3b) szkole podstawowej, liceum ogólnokształcącym, technikum, branżowej szkole I stopnia, branżowej szkole II stopnia, szkole specjalnej przysposabiającej do pracy lub szkole policealnej – należy przez to rozumieć szkoły, o których mowa w art. 18 ust. 1 ustawy – Prawo oświatowe;
+- **4)** (uchylony)
+- **5)** organie prowadzącym szkołę lub placówkę – należy przez to rozumieć ministra, jednostkę samorządu terytorialnego, inne osoby prawne i fizyczne;
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** kuratorze oświaty – należy przez to rozumieć kierownika kuratorium oświaty jako jednostki organizacyjnej wchodzącej w skład zespolonej administracji rządowej w województwie;
+- **9)** nauczycielu – należy przez to rozumieć także wychowawcę i innego pracownika pedagogicznego szkoły, placówki i placówki doskonalenia nauczycieli;
+- **10)** rodzicach – należy przez to rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem;
+- **11)** uczniach – należy przez to rozumieć także słuchaczy i wychowanków;
+- **11a)** (uchylony) 11b) (uchylony) 11c) (uchylony) 11d) (uchylony)
+- **12)** (uchylony)
+- **13)** podstawie programowej wychowania przedszkolnego lub podstawie programowej kształcenia ogólnego – należy przez to rozumieć podstawę programową, o której mowa w art. 4 pkt 24 ustawy – Prawo oświatowe;
+- **13a)** podstawie programowej kształcenia w zawodzie szkolnictwa branżowego – należy przez to rozumieć podstawę programową, o której mowa w art. 4 pkt 25 ustawy – Prawo oświatowe; 13aa) podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego – należy przez to rozumieć podstawę programową, o której mowa w art. 4 pkt 25a ustawy – Prawo oświatowe;
+- **13b)** programie wychowania przedszkolnego lub programie nauczania do danych zajęć edukacyjnych z zakresu kształcenia ogólnego – należy przez to rozumieć opis sposobu realizacji celów wychowania lub kształcenia oraz treści nauczania ustalonych odpowiednio w podstawie programowej wychowania przedszkolnego lub podstawie programowej kształcenia ogólnego dla danego etapu edukacyjnego lub opis sposobu realizacji celów kształcenia oraz treści nauczania zajęć edukacyjnych, dla których nie została ustalona podstawa programowa kształcenia ogólnego, lecz program nauczania tych zajęć został włączony do szkolnego zestawu programów nauczania, o którym mowa w art. 22a ust. 7;
+- **13c)** programie nauczania zawodu – należy przez to rozumieć opis sposobu realizacji celów kształcenia i treści nauczania ustalonych w:
+    - **a)** podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, w formie oczekiwanych efektów kształcenia, uwzględniający wyodrębnienie kwalifikacji w zawodzie, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy – Prawo oświatowe; program nauczania zawodu zawiera także programy nauczania do poszczególnych obowiązkowych zajęć edukacyjnych z zakresu kształcenia w zawodzie, ustalonych przez dyrektora szkoły – w przypadku szkół prowadzących kształcenie zawodowe, o których mowa w art. 4 pkt 28a lit. a ustawy – Prawo oświatowe,
+    - **b)** podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego, w formie oczekiwanych efektów kształcenia, zgodnie z klasyfikacją zawodów szkolnictwa artystycznego, o której mowa w przepisach wydanych na podstawie art. 46a ust. 1 ustawy – Prawo oświatowe; program nauczania zawodu zawiera także programy nauczania do poszczególnych obowiązkowych zajęć edukacyjnych artystycznych określonych w ramowych planach nauczania dla szkół artystycznych – w przypadku szkół prowadzących kształcenie zawodowe, o których mowa w art. 4 pkt 28a lit. b ustawy – Prawo oświatowe;
+
+- **14)** zadaniach oświatowych jednostek samorządu terytorialnego – należy przez to rozumieć zadania w zakresie kształcenia, wychowania i opieki, w tym profilaktyki społecznej;
+- **14a)** szkole prowadzącej kształcenie zawodowe – należy przez to rozumieć szkołę, o której mowa w art. 4 pkt 28a ustawy – Prawo oświatowe;
+- **15)** szkole dla dorosłych – należy przez to rozumieć szkoły, o których mowa w art. 4 pkt 29 ustawy – Prawo oświatowe;
+- **16)** kształceniu ustawicznym – należy przez to rozumieć kształcenie, o którym mowa w art. 4 pkt 30 ustawy – Prawo oświatowe;
+- **17)** (uchylony)
+- **18)** niepełnosprawnościach sprzężonych – należy przez to rozumieć występowanie u dziecka niesłyszącego lub słabosłyszącego, niewidomego lub słabowidzącego, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną albo z autyzmem, w tym z zespołem Aspergera, co najmniej jeszcze jednej z wymienionych niepełnosprawności;
+- **18a)** specyficznych trudnościach w uczeniu się – należy przez to rozumieć trudności w uczeniu się odnoszące się do uczniów w normie intelektualnej, którzy mają trudności w przyswajaniu treści nauczania, wynikające ze specyfiki ich funkcjonowania percepcyjno-motorycznego i poznawczego, nieuwarunkowane schorzeniami neurologicznymi;
+- **18b)** (uchylony) 18c) zawodzie – należy przez to rozumieć zawód, o którym mowa w art. 4 pkt 33a ustawy – Prawo oświatowe;
+- **19)** kwalifikacji wyodrębnionej w zawodzie – należy przez to rozumieć kwalifikację, o której mowa w art. 4 pkt 34 ustawy – Prawo oświatowe;
+- **20)** kwalifikacyjnym kursie zawodowym – należy przez to rozumieć kurs, o którym mowa w art. 4 pkt 35 ustawy – Prawo oświatowe;
+- **21)** egzaminie zawodowym – należy przez to rozumieć egzamin umożliwiający uzyskanie certyfikatu kwalifikacji zawodowej w zakresie jednej kwalifikacji, a w przypadku uzyskania certyfikatów kwalifikacji zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie oraz posiadania wykształcenia zasadniczego zawodowego, wykształcenia zasadniczego branżowego, wykształcenia średniego branżowego lub wykształcenia średniego – również dyplomu zawodowego;
+- **21a)** (uchylony) 21b) (uchylony) 21c) egzaminie maturalnym – należy przez to rozumieć egzamin przeprowadzany dla absolwentów posiadających wykształcenie średnie lub wykształcenie średnie branżowe, umożliwiający uzyskanie świadectwa dojrzałości;
+- **21d)** egzaminie ósmoklasisty – należy przez to rozumieć egzamin przeprowadzany w ostatnim roku nauki w szkole podstawowej, a w szkole artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej – w klasie, której zakres nauczania odpowiada klasie VIII szkoły podstawowej, sprawdzający wiadomości i umiejętności ucznia lub słuchacza określone w podstawie programowej kształcenia ogólnego;
+- **22)** (uchylony)
+- **23)** podręczniku – należy przez to rozumieć podręcznik do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, podręcznik do zajęć z zakresu danego języka obcego nowożytnego, podręcznik do zajęć edukacyjnych z zakresu kształcenia ogólnego, w tym podręcznik przeznaczony do kształcenia specjalnego, dopuszczony do użytku szkolnego;
+- **24)** materiale edukacyjnym – należy przez to rozumieć:
+    - **a)** materiał do kształcenia ogólnego, w tym dostosowany do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych, zastępujący lub uzupełniający podręcznik, umożliwiający realizację programu nauczania do danych zajęć edukacyjnych z zakresu kształcenia ogólnego, na danym etapie edukacyjnym,
+    - **b)** materiał do kształcenia zawodowego, w tym dostosowany do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych, umożliwiający realizację programu nauczania zawodu – mający postać papierową lub elektroniczną;
+
+- **25)** materiale ćwiczeniowym – należy przez to rozumieć materiał przeznaczony dla uczniów służący utrwalaniu przez nich wiadomości i umiejętności;
+- **26)** (uchylony)
+- **27)** (uchylony)
+- **28)** (uchylony)
+- **29)** (uchylony)
+- **30)** (uchylony)
+- **31)** (uchylony)
+- **32)** (uchylony)
+- **33)** (uchylony)
+- **34)** ustawie – Prawo oświatowe – należy przez to rozumieć ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm. ).
+
 **Art. 4.** (uchylony)
 
 **Art. 4a.** (uchylony)
@@ -1148,6 +1204,22 @@ Art. 97–103. (pominięte)
 4. Przepisów ust. 1–3 nie stosuje się do zadań egzaminacyjnych w części praktycznej egzaminu zawodowego, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret czwarte, oraz zadań egzaminacyjnych w części ustnej egzaminu maturalnego, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret piąte.
 
 **Art. 9f.** (uchylony) Art. 9fa. 1. W roku 2019 ze środków Funduszu Pracy dofinansowuje się koszty przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, związane odpowiednio z:
+
+- **1)** wynagrodzeniami egzaminatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., oraz egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.,
+- **2)** wynagrodzeniami przewodniczących zespołów egzaminatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., oraz egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.,
+- **3)** wynagrodzeniami asystentów technicznych biorących udział w przeprowadzaniu egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.,
+- **4)** przygotowaniem propozycji zadań i arkuszy egzaminacyjnych do przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+- **5)** przygotowywaniem materiałów egzaminacyjnych, w szczególności zadań i arkuszy egzaminacyjnych do przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+- **6)** opracowywaniem informatorów zawierających w szczególności przykładowe zadania, jakie mogą wystąpić na egzaminie zawodowym, wraz z rozwiązaniami, oraz przygotowaniem propozycji zadań do tych informatorów – w wysokości 20 zł za jednorazowe przystąpienie do egzaminu z każdej kwalifikacji wyodrębnionej w danym zawodzie osoby zdającej egzamin potwierdzający kwalifikacje w zawodzie przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub egzamin potwierdzający kwalifikacje w zawodzie przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.
+
+2. Ze środków Funduszu Pracy dofinansowuje się koszty przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, związane odpowiednio z:
+
+- **1)** wynagrodzeniami egzaminatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, 1a) wynagrodzeniami egzaminatorów-weryfikatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, poprzednio sprawdzoną i ocenioną przez egzaminatorów, o których mowa w pkt 1,
+- **2)** wynagrodzeniami przewodniczących zespołów egzaminatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+- **3)** wynagrodzeniami asystentów technicznych biorących udział w przeprowadzaniu egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, 3a) wynagrodzeniami operatorów pracowni informatycznej biorących udział w przeprowadzaniu egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+- **4)** przygotowaniem propozycji zadań i arkuszy egzaminacyjnych do przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+- **5)** przygotowywaniem materiałów egzaminacyjnych, w szczególności zadań i arkuszy egzaminacyjnych do przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+- **6)** opracowywaniem informatorów zawierających w szczególności przykładowe zadania, jakie mogą wystąpić na egzaminie zawodowym, wraz z rozwiązaniami oraz przygotowaniem propozycji zadań do tych informatorów – w roku 2020 w wysokości 51 zł, w roku 2021 w wysokości 71 zł, w roku 2022 w wysokości 76 zł, w roku 2023 w wysokości 97 zł, a od roku 2024 w wysokości 126 zł, za jednorazowe przystąpienie do egzaminu z każdej kwalifikacji wyodrębnionej w danym zawodzie osoby zdającej egzamin potwierdzający kwalifikacje w zawodzie przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzamin potwierdzający kwalifikacje w zawodzie przeprowadzany na podstawie wymagań określonej w podstawie programowej kształcenia w zawodach określonych w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy – Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., lub egzamin zawodowy.
 
 **Art. 10.**
 
@@ -1986,6 +2058,10 @@ Art. 97–103. (pominięte)
 
 **Art. 44x.** W szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej:
 
+- **1)** oceny bieżące z obowiązkowych zajęć edukacyjnych są ustalane według skali i w formach określonych w statucie szkoły;
+- **2)** semestralne oceny klasyfikacyjne z obowiązkowych zajęć edukacyjnych są ustalane według skali określonej w przepisach wydanych na podstawie art. 44zb;
+- **3)** końcowe oceny klasyfikacyjne z obowiązkowych zajęć edukacyjnych są wyrażane według skali określonej w przepisach wydanych na podstawie art. 44zb.
+
 **Art. 44y.**
 
 1. Słuchacz, który w wyniku klasyfikacji semestralnej otrzymał negatywną semestralną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zb, z jednych albo dwóch obowiązkowych zajęć edukacyjnych, może przystąpić do egzaminu poprawkowego z tych zajęć. Egzaminy poprawkowe są przeprowadzane po każdym semestrze.
@@ -2389,6 +2465,11 @@ Art. 97–103. (pominięte)
 4. O zasiłek szkolny można ubiegać się w terminie nie dłuższym niż dwa miesiące od wystąpienia zdarzenia uzasadniającego przyznanie tego zasiłku.
 
 **Art. 90f.** Rada gminy uchwala regulamin udzielania pomocy materialnej o charakterze socjalnym dla uczniów zamieszkałych na terenie gminy, kierując się celami pomocy materialnej o charakterze socjalnym, w którym określa w szczególności:
+
+- **1)** sposób ustalania wysokości stypendium szkolnego w zależności od sytuacji materialnej uczniów i ich rodzin oraz innych okoliczności, o których mowa w art. 90d ust. 1;
+- **2)** formy, w jakich udziela się stypendium szkolnego w zależności od potrzeb uczniów zamieszkałych na terenie gminy;
+- **3)** tryb i sposób udzielania stypendium szkolnego;
+- **4)** tryb i sposób udzielania zasiłku szkolnego w zależności od zdarzenia losowego.
 
 **Art. 90g.**
 
@@ -3069,6 +3150,16 @@ Art. 97–103. (pominięte)
 
 **Art. 92t.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
+- **1)** termin złożenia zgłoszenia wypoczynku, o którym mowa w art. 92d ust. 1, jego formę, dokumenty dołączane do zgłoszenia oraz wzór tego zgłoszenia, mając na uwadze potrzebę prawidłowego realizowania przez kuratora oświaty obowiązków związanych z umieszczeniem zgłoszenia wypoczynku w bazie wypoczynku;
+- **2)** termin przekazania karty wypoczynku, o której mowa w art. 92e ust. 2, oraz wzór tej karty, mając na uwadze potrzebę uzyskania pełnych informacji o organizowanym wypoczynku;
+- **3)** liczbę uczestników wypoczynku w grupie pozostających pod opieką jednego wychowawcy, mając na uwadze konieczność zapewnienia właściwej opieki i bezpieczeństwa dzieciom i młodzieży, w tym ze względu na ich wiek lub specjalne potrzeby edukacyjne;
+- **4)** obowiązki kierownika wypoczynku i wychowawcy wypoczynku, w tym obowiązek prowadzenia przez wychowawcę dziennika zajęć realizowanych podczas wypoczynku, oraz wzór tego dziennika, biorąc pod uwagę konieczność zapewnienia dzieciom i młodzieży bezpiecznego wypoczynku i właściwej opieki wychowawczej oraz prawidłowego dokumentowania przebiegu wypoczynku;
+- **5)** obowiązki kierownika wypoczynku i wychowawcy wypoczynku organizowanego przez szkołę i placówkę, o którym mowa w art. 92e ust. 1, biorąc pod uwagę konieczność zapewnienia dzieciom i młodzieży bezpiecznego wypoczynku i właściwej opieki wychowawczej oraz charakter i specyfikę tego wypoczynku;
+- **6)** program kursów na kierownika wypoczynku albo wychowawcę wypoczynku, w tym formę i wymiar zajęć, z uwzględnieniem w programach kursów treści z zakresu specjalnych potrzeb edukacyjnych dzieci i młodzieży;
+- **7)** wzór karty kwalifikacyjnej, o której mowa w art. 92k ust. 1, mając na uwadze potrzebę zebrania niezbędnych informacji o uczestniku wypoczynku oraz jego udziale w wypoczynku;
+- **8)** wzór zaświadczenia o ukończeniu kursu na kierownika wypoczynku albo wychowawcę wypoczynku, z uwzględnieniem szczegółowych danych dotyczących ukończonego kursu;
+- **9)** dokumenty potwierdzające posiadane przez kadrę przygotowanie, mając na uwadze zapewnienie realizacji programu kursu.
+
 **Art. 93.**
 
 1. Wykształcenie średnie potwierdzają w Rzeczypospolitej Polskiej:
@@ -3084,6 +3175,9 @@ Art. 97–103. (pominięte)
 4. (uchylony)
 
 **Art. 93a.** Jeżeli przedłożenie oryginału albo duplikatu świadectwa lub innego dokumentu, o którym mowa w art. 93 ust. 3, albo uwierzytelnienie tego świadectwa lub innego dokumentu napotyka trudne do usunięcia przeszkody dla osoby, która:
+
+- **1)** uzyskała status uchodźcy lub ochronę uzupełniającą lub która posiada zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688 oraz z 2025 r. poz. 619, 621 i 622), lub 1a) uzyskała to świadectwo lub inny dokument w państwie, które wypowiedziało Rzeczypospolitej Polskiej umowę międzynarodową dotyczącą wzajemnego uznawania takich świadectw lub innych dokumentów wydanych za granicą, lub
+- **2)** została poszkodowana w wyniku konfliktów zbrojnych, klęsk żywiołowych lub innych kryzysów humanitarnych, spowodowanych przez naturę lub człowieka – wykształcenie uzyskane przez tę osobę za granicą lub posiadane przez tę osobę uprawnienia do kontynuacji nauki uzyskane za granicą, z wyłączeniem uprawnienia do ubiegania się o przyjęcie na studia pierwszego stopnia lub jednolite studia magisterskie, może być potwierdzone w Rzeczypospolitej Polskiej w drodze decyzji administracyjnej jako wykształcenie podstawowe, gimnazjalne, zasadnicze zawodowe, zasadnicze branżowe, średnie branżowe oraz średnie lub uprawnienia do kontynuacji nauki w Rzeczypospolitej Polskiej.
 
 **Art. 93b.**
 
@@ -3139,6 +3233,16 @@ Art. 97–103. (pominięte)
 5. Jeżeli rozmowa sprawdzająca nie odbyła się z przyczyn losowych lub zdrowotnych dotyczących wnioskodawcy, wniesiona opłata lub jej część może podlegać zwrotowi.
 
 **Art. 93h.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+- **1)** rodzaje dokumentów, które przedkłada się wraz z wnioskiem o uznanie świadectwa lub innego dokumentu, o którym mowa w art. 93 ust. 3, oraz wymagania dotyczące formy przedkładanych dokumentów,
+- **2)** rodzaje dokumentów, które przedkłada się wraz z wnioskiem o potwierdzenie wykształcenia lub uprawnień do kontynuacji nauki, o którym mowa w art. 93a, z których bezpośrednio lub pośrednio wynika posiadanie przez wnioskodawcę wykształcenia uzyskanego za granicą lub nabycie uprawnień do kontynuacji nauki za granicą,
+- **3)** sposób uwierzytelnienia świadectw lub innych dokumentów, o których mowa w art. 93 ust. 3,
+- **4)** warunki, jakie muszą spełniać tłumaczenia świadectw lub innych dokumentów, o których mowa w art. 93 ust. 3, oraz dokumentów, o których mowa w pkt 2,
+- **5)** warunki i tryb przeprowadzania rozmowy sprawdzającej, w tym skład komisji, o której mowa w art. 93f ust. 1, oraz warunki ustalania wyniku rozmowy sprawdzającej, a także zakres przedmiotów, które mogą być objęte rozmową sprawdzającą,
+- **6)** wysokość wynagrodzenia członków komisji, o którym mowa w art. 93f ust. 5, nie wyższą niż 10 % minimalnej stawki wynagrodzenia zasadniczego nauczyciela dyplomowanego, posiadającego tytuł zawodowy magistra z przygotowaniem pedagogicznym, określonego na podstawie art. 30 ust. 5 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
+- **7)** tryb wnoszenia opłaty, o której mowa w art. 93g ust. 1,
+- **8)** wysokość opłaty, która może podlegać zwrotowi w przypadkach, o których mowa w art. 93g ust. 5, oraz tryb zwrotu opłaty,
+- **9)** przypadki, w których opłata, o której mowa w art. 93g ust. 1, nie podlega zwrotowi – biorąc pod uwagę potrzebę zapewnienia przejrzystości i spójności prowadzonego postępowania w sprawie uznania świadectwa lub innego dokumentu, o którym mowa w art. 93 ust. 3, oraz postępowania w sprawie potwierdzenia wykształcenia lub uprawnień do kontynuacji nauki, o którym mowa w art. 93a, a także stosowania obiektywnych kryteriów podczas rozpatrywania wniosków o uznanie świadectw lub innych dokumentów.
 
 **Art. 94.** (uchylony)
 
@@ -3272,6 +3376,9 @@ Art. 97–103. (pominięte)
 2. Dotychczasowe uprawnienia do prowadzenia szkół i innych placówek, wynikające z przepisów wydanych na podstawie art. 38 ust. 2 ustawy wymienionej w art. 114 pkt 2, pozostają w mocy do czasu wydania przepisów przewidzianych w art. 29 niniejszej ustawy.
 
 **Art. 114.** Tracą moc:
+
+- **1)** dekret z dnia 23 marca 1956 r. o obowiązku szkolnym (Dz. U. poz. 52, z 1961 r. poz. 160, z 1971 r. poz. 115 oraz z 1989 r. poz. 192);
+- **2)** ustawa z dnia 15 lipca 1961 r. o rozwoju systemu oświaty i wychowania (Dz. U. poz. 160, z późn. zm. ).
 
 **Art. 115.** Ustawa wchodzi w życie z dniem ogłoszenia , z tym że przepisy rozdziału 7 wchodzą w życie z dniem 1 stycznia 1992 r.
 

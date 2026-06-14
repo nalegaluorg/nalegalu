@@ -8,7 +8,7 @@ pos: 855
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o spółdzielczych kasach oszczędnościowo-kredytowych
@@ -34,6 +34,25 @@ Art. 80a–85d. (pominięte)
 **Art. 1.** Ustawa określa zasady tworzenia, organizacji i działalności spółdzielczych kas oszczędnościowo-kredytowych, zwanych dalej „kasami”, i Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, zwanej dalej „Kasą Krajową”, oraz zasady sprawowania nadzoru nad kasami i Kasą Krajową.
 
 **Art. 1a.** Użyte w ustawie określenia oznaczają:
+
+- **1)** przedsiębiorca – przedsiębiorcę, o którym mowa w ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826);
+- **2)** przedsiębiorca zagraniczny – przedsiębiorcę zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i
+- **1794)** ;
+- **3)** (uchylony)
+- **4)** bank krajowy – bank, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331 i
+- **340)** ;
+- **5)** mała kasa – kasę, która spełnia następujące warunki:
+    - **a)** suma aktywów bilansu kasy na koniec roku obrotowego nie przekraczała 20 mln zł,
+    - **b)** średnioroczna liczba członków kasy w ostatnim roku obrotowym nie przekraczała 10 tys. osób;
+
+- **6)** instytucja kredytowa – instytucję, o której mowa w art. 4 ust. 1 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), mającą siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej;
+- **7)** fundusz inwestycyjny – fundusz inwestycyjny, o którym mowa w art. 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176), zwanej dalej „ustawą o funduszach inwestycyjnych”;
+- **8)** towarzystwo – towarzystwo, o którym mowa w art. 2 pkt 3 ustawy o funduszach inwestycyjnych;
+- **9)** spółka zarządzająca – spółkę zarządzającą, o której mowa w art. 2 pkt 10 ustawy o funduszach inwestycyjnych;
+- **10)** zarządzający z UE – zarządzającego z UE, o którym mowa w art. 2 pkt 10c ustawy o funduszach inwestycyjnych;
+- **11)** alternatywna spółka inwestycyjna – alternatywną spółkę inwestycyjną, o której mowa w art. 8a ust. 1 ustawy o funduszach inwestycyjnych;
+- **12)** zarządzający ASI – zarządzającego ASI, o którym mowa w art. 2 pkt 3a ustawy o funduszach inwestycyjnych;
+- **13)** alternatywny fundusz inwestycyjny – alternatywny fundusz inwestycyjny, o którym mowa w art. 2 pkt 10a ustawy o funduszach inwestycyjnych.
 
 **Art. 2.** Kasa jest spółdzielnią, do której w zakresie nieuregulowanym ustawą stosuje się przepisy ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593 oraz z 2025 r. poz. 1556).
 
@@ -163,7 +182,14 @@ Art. 80a–85d. (pominięte)
 
 **Art. 9c.** Powierzenie wykonywania czynności, o którym mowa w art. 9a i art. 9b, nie może obejmować:
 
+- **1)** zarządzania kasą w rozumieniu art. 48 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze, a w szczególności zarządzania ryzykiem związanym z prowadzeniem działalności kasy, w tym zarządzania aktywami i pasywami, dokonywania oceny zdolności kredytowej i analizy ryzyka kredytowego;
+- **2)** funkcji kontroli wewnętrznej w kasie.
+
 **Art. 9d.** Kasa prowadzi ewidencję umów, o których mowa w art. 9a ust. 1 i art. 9b, zawierającą co najmniej:
+
+- **1)** dane identyfikujące przedsiębiorców lub przedsiębiorców zagranicznych, z którymi zostały zawarte umowy, o których mowa w art. 9a ust. 1 lub art. 9b;
+- **2)** zakres powierzonych czynności i miejsce ich wykonywania;
+- **3)** okres obowiązywania umów.
 
 **Art. 9e.**
 
@@ -531,6 +557,11 @@ Art. 80a–85d. (pominięte)
 
 **Art. 23.** Do zadań komisji kredytowej należy w szczególności przedstawianie zarządowi:
 
+- **1)** opinii w sprawie wniosków o udzielenie pożyczek i kredytów;
+- **2)** propozycji w przedmiocie wyboru zabezpieczenia pożyczek i kredytów;
+- **3)** propozycji warunków, na jakich można udzielić pożyczek i kredytów;
+- **4)** projektów wniosków w sprawie przedłużenia terminu spłaty pożyczek i kredytów oraz przymusowego ściągnięcia niespłaconych w terminie pożyczek i kredytów.
+
 #### Rozdział 4 Gospodarka finansowa kas
 
 **Art. 24.**
@@ -881,6 +912,10 @@ Art. 80a–85d. (pominięte)
 
 **Art. 47.** Organami Kasy Krajowej są:
 
+- **1)** walne zgromadzenie;
+- **2)** rada nadzorcza;
+- **3)** zarząd.
+
 **Art. 48.**
 
 1. Walne zgromadzenie jest najwyższym organem Kasy Krajowej.
@@ -1015,6 +1050,10 @@ Art. 80a–85d. (pominięte)
 3. Strata bilansowa Kasy Krajowej pokrywana jest w pierwszej kolejności z nadwyżki bilansowej przyszłych okresów.
 
 **Art. 58.** W razie ustania członkostwa w Kasie Krajowej wkłady wniesione przez kasę na fundusz stabilizacyjny, o których mowa w art. 55 ust. 1, podlegają zwrotowi z zachowaniem następujących zasad:
+
+- **1)** zwrot następuje z wolnych środków funduszu stabilizacyjnego proporcjonalnie do wysokości wkładów wniesionych przez poszczególnych członków;
+- **2)** kwota wolnych środków funduszu stabilizacyjnego jest ustalana na dzień zatwierdzania sprawozdania finansowego za rok, w którym były członek wystąpił z żądaniem zwrotu;
+- **3)** kwota podlegająca zwrotowi płatna jest jednorazowo w ciągu 30 dni, licząc od dnia zatwierdzenia sprawozdania finansowego Kasy Krajowej za rok, w którym zgłoszono żądanie zwrotu.
 
 **Art. 59.** W razie połączenia kasy z inną kasą będącą członkiem Kasy Krajowej wkłady członkowskie kasy przejmowanej stają się wkładami członkowskimi kasy przejmującej.
 
@@ -1172,6 +1211,10 @@ Art. 80a–85d. (pominięte)
 
 **Art. 62f.** Kasa jest obowiązana:
 
+- **1)** zawiadomić Komisję Nadzoru Finansowego i Kasę Krajową o podjęciu albo zaprzestaniu działalności;
+- **2)** udostępnić upoważnionym osobom do wglądu księgi rachunkowe, sprawozdania finansowe, rejestry, plany, sprawozdania i inne dokumenty oraz umożliwić, na pisemne żądanie, sporządzenie kopii tych dokumentów i innych nośników informacji, jak również udzielić wyjaśnień żądanych przez te osoby;
+- **3)** niezwłocznie zawiadomić Komisję Nadzoru Finansowego i Kasę Krajową o środkach, jakie zostaną podjęte w celu usunięcia nieprawidłowości stwierdzonych w ramach kontroli oraz nadzoru.
+
 **Art. 62g.**
 
 1. Kasa, która spełnia warunki określone w art. 1a pkt 5, jest obowiązana niezwłocznie pisemnie poinformować o tym Komisję Nadzoru Finansowego oraz Kasę Krajową.
@@ -1219,7 +1262,23 @@ Art. 80a–85d. (pominięte)
 
 **Art. 66.** Czynności podejmowane przez Kasę Krajową w ramach kontroli działalności kas polegają w szczególności na:
 
+- **1)** analizie sprawozdań finansowych kas;
+- **2)** badaniu realizacji obowiązku utrzymywania płynności płatniczej przez kasy;
+- **3)** badaniu zgodności udzielanych kredytów i pożyczek przez kasy z przepisami art. 29–32 i art. 36;
+- **4)** badaniu zabezpieczenia i terminowości spłaty kredytów i pożyczek kas;
+- **5)** badaniu stosowanego oprocentowania kredytów i pożyczek oraz złożonych oszczędności i lokat w kasach;
+- **6)** badaniu sytuacji finansowej kas.
+
 **Art. 67.** Czynności podejmowane przez Komisję Nadzoru Finansowego w ramach nadzoru nad działalnością kas polegają w szczególności na:
+
+- **1)** dokonywaniu oceny sytuacji finansowej kasy, w tym badaniu wypłacalności, jakości aktywów, płynności płatniczej, wyniku finansowego kasy;
+- **2)** badaniu jakości systemu zarządzania kasą, w tym systemu zarządzania ryzykiem oraz funkcji kontroli wewnętrznej;
+- **3)** badaniu zgodności udzielanych kredytów, pożyczek pieniężnych oraz emitowanych papierów wartościowych z obowiązującymi w tym zakresie przepisami;
+- **4)** badaniu zabezpieczenia i terminowości spłaty kredytów i pożyczek pieniężnych;
+- **5)** badaniu przestrzegania limitów, o których mowa w art. 30–32 i art. 37;
+- **6)** badaniu przestrzegania przez kasę norm dopuszczalnego ryzyka w działalności kasy, zarządzania ryzykiem prowadzonej działalności, w tym dostosowania do rodzaju i skali działalności kasy procesu identyfikacji i monitorowania ryzyka oraz sprawozdawania o ryzyku, a także dopuszczalnego ryzyka w działalności kasy;
+- **7)** badaniu przestrzegania obowiązków wynikających z przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- **8)** badaniu wykonywania przez kasę obowiązków, o których mowa w art. 13a– 13f oraz art. 14 ust. 2a i 2b.
 
 **Art. 68.**
 
@@ -1237,6 +1296,13 @@ Art. 80a–85d. (pominięte)
 3. Komisja Nadzoru Finansowego może zalecić Kasie Krajowej dokonanie zmian w metodyce i zasadach określających sposób i zakres przeprowadzania kontroli w kasach.
 
 **Art. 68a.** W celu realizacji zadań ustawowych w zakresie czynności kontrolnych, na podstawie art. 65 ust. 2, zespół inspekcyjny, w zakresie wynikającym z upoważnienia Komisji Nadzoru Finansowego, ma prawo:
+
+- **1)** wstępu do pomieszczeń kontrolowanego;
+- **2)** wglądu do dokumentów kontrolowanego;
+- **3)** sporządzania uwierzytelnionych kopii, odpisów lub wyciągów z dokumentów oraz zestawień i danych niezbędnych do przeprowadzenia kontroli;
+- **4)** wglądu do danych zawartych w systemie informatycznym kontrolowanego oraz sporządzania kopii lub wyciągów z tych danych, w tym w formie elektronicznej;
+- **5)** żądania udzielania ustnych lub pisemnych wyjaśnień w zakresie objętym kontrolą, w wyznaczonym terminie, oraz zapewnienia terminowego udzielania wyjaśnień przez pracowników kasy;
+- **6)** żądania zapewnienia warunków i środków będących w dyspozycji kontrolowanego niezbędnych do sprawnego przeprowadzania kontroli.
 
 **Art. 69.**
 
@@ -1313,6 +1379,13 @@ Art. 80a–85d. (pominięte)
 7. Komisja Nadzoru Finansowego odwołuje członka zarządu kasy lub Kasy Krajowej w przypadku prawomocnego skazania go za przestępstwo umyślne lub przestępstwo skarbowe, z wyłączeniem przestępstw ściganych z oskarżenia prywatnego, a także w przypadku niedopełnienia przez niego obowiązku, o którym mowa w ust. 6.
 
 **Art. 71a.** Decyzjom Komisji Nadzoru Finansowego w sprawie:
+
+- **1)** zawieszenia w czynnościach członków zarządu kasy lub Kasy Krajowej,
+- **2)** ograniczenia zakresu działalności kasy lub Kasy Krajowej,
+- **3)** odwołania członka zarządu kasy lub Kasy Krajowej,
+- **4)** odwołania kuratora,
+- **5)** odwołania likwidatora kasy,
+- **6)** zawieszenia działalności kasy – nadaje się rygor natychmiastowej wykonalności.
 
 **Art. 71b.**
 
@@ -1634,6 +1707,11 @@ Art. 80a–85d. (pominięte)
 5. W przypadku nabycia wierzytelności albo puli wierzytelności zabezpieczonych hipoteką lub zastawem rejestrowym sąd prowadzący księgę wieczystą lub rejestr zastawów, na wniosek nabywcy o wpis zmiany dotychczasowego wierzyciela, dokonuje wpisu w księdze wieczystej lub w rejestrze zastawów o zmianie wierzyciela, na rzecz którego była ustanowiona hipoteka lub zastaw rejestrowy. Nabywca, składając wniosek do sądu, dołącza wyciąg z ksiąg rachunkowych, podpisany przez osoby upoważnione do składania oświadczeń w zakresie praw i obowiązków majątkowych nabywcy, opatrzony pieczęcią nabywcy, potwierdzający nabycie wierzytelności albo puli wierzytelności zabezpieczonych hipoteką lub zastawem rejestrowym.
 
 **Art. 74u.** W przypadku gdy decyzja o likwidacji kasy została podjęta przez jej członków, likwidacja prowadzona jest zgodnie z zasadami obowiązującymi przy likwidacji spółdzielni, z tym że:
+
+- **1)** sprawozdanie finansowe sporządzone na dzień otwarcia likwidacji, program likwidacji oraz sprawozdanie z przeprowadzonej likwidacji podlegają zatwierdzeniu przez Komisję Nadzoru Finansowego;
+- **2)** likwidator, nierzadziej niż raz na miesiąc, składa Komisji Nadzoru Finansowego, Bankowemu Funduszowi Gwarancyjnemu, Kasie Krajowej i radzie nadzorczej kasy sprawozdania z przebiegu likwidacji;
+- **3)** podział pomiędzy członków majątku pozostałego po zaspokojeniu i zabezpieczeniu wierzycieli nie może nastąpić przed upływem roku od daty ostatniego ogłoszenia o otwarciu likwidacji;
+- **4)** Komisja Nadzoru Finansowego może podjąć decyzję o odwołaniu likwidatora wyznaczonego przez kasę, jeżeli prowadzi on likwidację kasy w sposób zagrażający bezpieczeństwu środków pieniężnych zgromadzonych na rachunkach oszczędnościowych; Komisja Nadzoru Finansowego powołuje wówczas nowego likwidatora.
 
 #### Rozdział 6c Przepisy karne
 

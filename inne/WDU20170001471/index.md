@@ -8,10 +8,10 @@ pos: 1471
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 sierpnia Poz. 1471 ROZPORZĄDZENIE RADY MINISTRÓW dnia 20 lipca sprawie rodzajów dokumentów potwierdzających uprawnienia do ulgi opłacie albo zwolnienia opłaty za wstęp do muzeów państwowych Na podstawie art. ust. 4 dnia 21 listopada 1996 o muzeach (Dz. U. 972 i 1086) zarządza się, co następuje: § 1. Dokumentami potwierdzającymi uprawnienie do ulgi opłacie za wstęp do muzeów państwowych są:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1471 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 20 lipca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,25 +25,27 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001471) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1471/text.pdf) |
 
+w sprawie rodzajów dokumentów potwierdzających uprawnienia do ulgi w opłacie albo zwolnienia z opłaty za wstęp do muzeów państwowych Na podstawie art. 10 ust. 4 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2017 r. poz. 972 i 1086) zarządza się, co następuje:
+§ 1. Dokumentami potwierdzającymi uprawnienie do ulgi w opłacie za wstęp do muzeów państwowych są:
 1) legitymacja szkolna, słuchacza, studencka, doktoranta;
-2) legitymacja ucznia wydana przez konsula Rzeczypospolitej Polskiej na podstawie art. 6 ust. 3 dnia 20 czerwca 1992 o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U.
-2012 1138, późn. zm. );
-3) legitymacja nauczyciela wydana przez konsula Rzeczypospolitej Polskiej na podstawie art. 6 ust. 3 dnia 20 czerwca 1992 o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego;
+2) legitymacja ucznia wydana przez konsula Rzeczypospolitej Polskiej na podstawie art. 6 ust. 3 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz.
+z 2012 r. poz. 1138, z późn. zm. );
+3) legitymacja nauczyciela wydana przez konsula Rzeczypospolitej Polskiej na podstawie art. 6 ust. 3 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego;
 4) legitymacja emeryta – rencisty;
 5) legitymacja dokumentująca niepełnosprawność lub stopień niepełnosprawności;
-6) legitymacja służbowa przysługująca osobom, o których mowa art. ust. 3a pkt 8 lit. a i b dnia 21 listopada 1996 o muzeach, zwanej dalej „ustawą”;
-7) legitymacja poświadczająca przyznanie odznaki lub tytułu, o których mowa art. ust. 3a pkt 9 ustawy;
+6) legitymacja służbowa przysługująca osobom, o których mowa w art. 10 ust. 3a pkt 8 lit. a i b ustawy z dnia 21 listopada 1996 r. o muzeach, zwanej dalej „ustawą”;
+7) legitymacja poświadczająca przyznanie odznaki lub tytułu, o których mowa w art. 10 ust. 3a pkt 9 ustawy;
 8) zaświadczenie albo legitymacja potwierdzające uprawnienia kombatanckie;
 9) dokument potwierdzający wiek;
 10) inny dokument potwierdzający uprawnienie osób, o których mowa w:
-a) art. ust. 3a pkt 2, pkt 7 i pkt 8 lit. b ustawy, wydany państwie członkowskim Unii Europejskiej innym niż Rzeczpospolita Polska, Konfederacji Szwajcarskiej państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym,
-b) art. ust. 3a pkt 8 lit. c ustawy.
-§ 2. Dokumentami potwierdzającymi uprawnienie do zwolnienia opłaty za wstęp do muzeów państwowych są:
-1) legitymacja poświadczająca nadanie orderu albo medalu, o których mowa art. ust. 3b pkt 1 ustawy;
-Dziennik Ustaw – 2 – Poz. 1471
+a) art. 10 ust. 3a pkt 2, pkt 7 i pkt 8 lit. b ustawy, wydany w państwie członkowskim Unii Europejskiej innym Rzeczpospolita Polska, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym,
+b) art. 10 ust. 3a pkt 8 lit. c ustawy.
+§ 2. Dokumentami potwierdzającymi uprawnienie do zwolnienia z opłaty za wstęp do muzeów państwowych są:
+1) legitymacja poświadczająca nadanie orderu albo medalu, o których mowa w art. 10 ust. 3b pkt 1 ustawy;
+2) legitymacja służbowa przysługująca osobom, o których mowa w art. 10 ust. 3b pkt 2 ustawy;
 3) legitymacja Membership Card ICOM lub Membership Card ICOMOS;
 4) Karta Polaka;
 5) dokument potwierdzający wiek.
-§ 3. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Prezes Rady Ministrów: B. Szydło
 

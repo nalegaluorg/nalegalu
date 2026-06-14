@@ -1,6 +1,7 @@
 saos_id|date|court|case_number|type|score|saos_url
 206510|2014-11-04|TK|SK 55/13|Wyrok|98|https://www.saos.org.pl/judgments/206510
 85329|2007-02-27|SN|I KZP 36/06|Uchwała|89|https://www.saos.org.pl/judgments/85329
+545380|2026-01-23|SO|II AKa 86/25|Wyrok|56|https://www.saos.org.pl/judgments/545380
 521350|2024-11-28|SO|II AKa 189/24|Wyrok|56|https://www.saos.org.pl/judgments/521350
 500438|2024-05-29|SO|II AKa 112/24|Wyrok|56|https://www.saos.org.pl/judgments/500438
 501300|2024-03-06|SO|II AKa 82/23|Wyrok|56|https://www.saos.org.pl/judgments/501300
@@ -49,6 +50,7 @@ saos_id|date|court|case_number|type|score|saos_url
 136602|2012-12-28|SO|II AKa 379/12|Wyrok|56|https://www.saos.org.pl/judgments/136602
 135620|2012-07-05|SO|II AKa 91/12|Wyrok|56|https://www.saos.org.pl/judgments/135620
 136906|2012-02-08|SO|II AKa 409/11|Wyrok|56|https://www.saos.org.pl/judgments/136906
+545497|2026-02-04|SO|II AKa 386/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/545497
 538347|2025-11-13|SO|II AKa 173/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/538347
 452566|2021-02-04|SO|II AKa 207/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/452566
 316237|2017-01-17|SO|II AKa 110/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/316237

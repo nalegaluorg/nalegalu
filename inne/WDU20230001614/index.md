@@ -8,10 +8,10 @@ pos: 1614
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11661144 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1614/text.pdf) |
 
-Poz. 1614 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 10 sierpnia 2023 r.
-w sprawie wzoru zawiadomienia osoby stosującej przemoc domową, wobec której został wydany nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, pozostawionego w razie niemożności doręczenia korespondencji Na podstawie art. 15af ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa wzór zawiadomienia osoby stosującej przemoc domową o wydaniu:
+w sprawie wzoru zawiadomienia osoby stosującej przemoc domową, wobec której został wydany nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu, pozostawionego w razie niemożności doręczenia korespondencji Na podstawie art. 15af ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wzór zawiadomienia osoby stosującej przemoc domową o wydaniu:
 1) nakazu natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia,
 2) zakazu zbliżania się do osoby doznającej przemocy domowej na wyrażoną w metrach odległość,
 3) zakazu kontaktowania się z osobą doznającą przemocy domowej,

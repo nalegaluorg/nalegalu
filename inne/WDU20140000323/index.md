@@ -8,10 +8,10 @@ pos: 323
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 marca 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 323 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 12 marca 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/323/text.pdf) |
 
-Poz. 323 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 12 marca 2014 r.
 zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Na podstawie art. 29 ust. 1 pkt 1 i ust. 1a pkt 2 i 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r.
-poz. 173) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 40, poz. 329, z późn. zm. ) wprowadza się następujące zmiany:
+poz. 173) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 40, poz. 329, z późn. zm. ) wprowadza się następujące zmiany:
 1) w § 2:
 a) uchyla się pkt 1,
 b) pkt 5 otrzymuje brzmienie: „5) jeżeli są przestrzegane wymogi i normy określone w przepisach o płatnościach w ramach systemów wsparcia bezpośredniego, zgodnie z przepisami art. 50a i art. 51 rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1698/2005”.”;

@@ -8,10 +8,10 @@ pos: 2073
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 listopada 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2073 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 20 listopada 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2073/text.pdf) |
 
-Poz. 2073 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 20 listopada 2020 r.
 w sprawie przyznawania zapomóg weteranowi-funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego lub weteranowi poszkodowanemu-funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego oraz weteranowi-funkcjonariuszowi Agencji Wywiadu lub weteranowi poszkodowanemu-funkcjonariuszowi Agencji Wywiadu Na podstawie art. 32 ust. 6 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
-z 2020 r. poz. 2055) zarządza się, co następuje: § 1. Rozporządzenie określa:
+z 2020 r. poz. 2055) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb przyznawania zapomóg, o których mowa w art. 32 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, zwanych dalej „zapomogami”, weteranowi-funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, lub weteranowi poszkodowanemu-funkcjonariuszowi ABW oraz weteranowi-funkcjonariuszowi Agencji Wywiadu, zwanej dalej „AW”, lub weteranowi poszkodowanemu-funkcjonariuszowi AW;
 2) dokumenty stanowiące podstawę przyznawania zapomóg;
 3) sposób przekazywania przyznanych zapomóg.
@@ -43,7 +43,7 @@ z 2020 r. poz. 2055) zarządza się, co następuje: § 1. Rozporządzenie okreś
 4. Do wniosku o przyznanie zapomogi dołącza się:
 1) w przypadku choroby powodującej wzrost kosztów utrzymania – dokumenty potwierdzające poniesienie wydatków na zaspokojenie potrzeb bytowych i ochrony zdrowia, w szczególności rachunki i faktury;
 2) w przypadku zaistnienia zdarzenia losowego – dokumenty potwierdzające zaistnienie tego zdarzenia, w szczególności zaświadczenie lekarskie, akt zgonu i protokół oględzin.
-Dziennik Ustaw – 2 – Poz. 2073 § 3. Zapomogę przyznaje:
+§ 3. Zapomogę przyznaje:
 1) Szef ABW – weteranowi-funkcjonariuszowi ABW lub weteranowi poszkodowanemu-funkcjonariuszowi ABW;
 2) Szef AW – weteranowi-funkcjonariuszowi AW lub weteranowi poszkodowanemu-funkcjonariuszowi AW.
 § 4. Zapomogę przekazuje:

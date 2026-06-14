@@ -8,7 +8,7 @@ pos: 475
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o doradztwie podatkowym
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1996-07-05 |
 | Data wydania | 1996-08-19 |
-| Ostatnia zmiana | 2026-03-09 |
+| Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961020475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/475/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -43,7 +43,8 @@ source: "isap-pdf"
 - **2)** prowadzenie, w imieniu i na rzecz podatników, płatników i inkasentów, ksiąg rachunkowych, ksiąg podatkowych i innych ewidencji do celów podatkowych oraz udzielanie im pomocy w tym zakresie;
 - **3)** sporządzanie, w imieniu i na rzecz podatników, płatników i inkasentów, zeznań i deklaracji podatkowych lub udzielanie im pomocy w tym zakresie;
 - **3a)** wykonywanie, w imieniu i na rzecz podatników, płatników i inkasentów oraz innych podmiotów, ciążących na nich obowiązków informacyjnych, sprawozdawczych oraz raportowania wynikających z przepisów:
-    - **a)** prawa podatkowego, 1997 r. – Ordynacja podatkowa,
+    - **a)** prawa podatkowego,
+    - **b)** dotyczących opłat, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa,
     - **c)** o wymianie informacji podatkowych – oraz udzielanie im pomocy w tym zakresie;
 
 - **4)** reprezentowanie podatników, płatników i inkasentów oraz innych podmiotów w postępowaniu przed organami administracji publicznej i w zakresie sądowej kontroli decyzji, postanowień i innych aktów administracyjnych w sprawach wymienionych w pkt 1 i 3a;
@@ -77,8 +78,9 @@ source: "isap-pdf"
 
 **Art. 4.**
 
-1. Podmiotami uprawnionymi do zawodowego wykonywania czynności, o których mowa w art. 2 ust. 1 pkt 1 i 4, są również: stowarzyszenia lub izby gospodarcze, jeżeli przedmiotem ich działalności statutowej jest również doradztwo podatkowe świadczone wyłącznie na rzecz ich członków, wpisane do rejestru, o którym mowa w art. 14, na dzień 1 marca 2026 r.;
+1. Podmiotami uprawnionymi do zawodowego wykonywania czynności, o których mowa w art. 2 ust. 1 pkt 1 i 4, są również:
 
+- **1)** organizacje zawodowe posiadające osobowość prawną, spółdzielnie, stowarzyszenia lub izby gospodarcze, jeżeli przedmiotem ich działalności statutowej jest również doradztwo podatkowe świadczone wyłącznie na rzecz ich członków, wpisane do rejestru, o którym mowa w art. 14, na dzień 1 marca 2026 r.;
 - **2)** firmy audytorskie uprawnione na podstawie odrębnych przepisów do badania sprawozdań finansowych;
 - **3)** spółki z ograniczoną odpowiedzialnością lub spółki akcyjne, które spełniają łącznie następujące warunki:
     - **a)** większość członków zarządu stanowią doradcy podatkowi, a jeżeli zarząd składa się z nie więcej niż 2 osób, to jedna z nich jest doradcą podatkowym,
@@ -93,7 +95,9 @@ source: "isap-pdf"
 
 4. Podmioty wymienione w ust. 1 pkt 1 i 3 wykonują czynności, o których mowa odpowiednio w art. 2 ust. 1 pkt 1, 4 i 5, pod warunkiem, że są wpisane do rejestru, o którym mowa w art. 14.
 
-**Art. 5.** Przepisy ustawy nie naruszają obowiązku organów podatkowych w zakresie informowania o przepisach dotyczących podatków. Wpis na listę doradców podatkowych
+**Art. 5.** Przepisy ustawy nie naruszają obowiązku organów podatkowych w zakresie informowania o przepisach dotyczących podatków.
+
+#### Rozdział 2 Wpis na listę doradców podatkowych
 
 **Art. 6.**
 
@@ -118,7 +122,11 @@ source: "isap-pdf"
 - **1)** spełniają warunki określone w ust. 1 pkt 2 i 3;
 - **2)** wystąpią z wnioskiem o wpis na listę, nie później niż w terminie 12 miesięcy od dnia doręczenia decyzji o uznaniu kwalifikacji wydanej na podstawie art. 25 ust. 1 ustawy o uznawaniu kwalifikacji.
 
-4. W przypadku osoby nieposiadającej polskiego obywatelstwa do stwierdzenia pełni praw publicznych właściwe są przepisy prawa państwa, którego obywatelstwo posiada dana osoba. podatkowych, zwaną dalej „listą”, oraz podejmuje decyzje w sprawach wpisu na listę lub skreślenia z niej.
+4. W przypadku osoby nieposiadającej polskiego obywatelstwa do stwierdzenia pełni praw publicznych właściwe są przepisy prawa państwa, którego obywatelstwo posiada dana osoba.
+
+**Art. 7.**
+
+1. Krajowa Rada Doradców Podatkowych prowadzi listę doradców podatkowych, zwaną dalej „listą”, oraz podejmuje decyzje w sprawach wpisu na listę lub skreślenia z niej.
 
 1a. Lista jest prowadzona w postaci elektronicznej.
 
@@ -150,7 +158,9 @@ source: "isap-pdf"
 - **1)** numer i datę wpisu;
 - **2)** dane wymienione w ust. 3 pkt 1–4.
 
-6a. W przypadkach, o których mowa w art. 31a oraz art. 34 ust. 1 i 2, a także w przypadku wymierzenia kary dyscyplinarnej zawieszenia prawa wykonywania zawodu zamiast oznaczenia miejsca wykonywania doradztwa podatkowego (siedziby) wpisuje się „nie wykonuje” wraz z informacją o okresie niewykonywania zawodu. Podatkowych o wszelkich zmianach danych określonych w ust. 3 w terminie 30 dni od dnia zaistnienia tych zmian.
+6a. W przypadkach, o których mowa w art. 31a oraz art. 34 ust. 1 i 2, a także w przypadku wymierzenia kary dyscyplinarnej zawieszenia prawa wykonywania zawodu zamiast oznaczenia miejsca wykonywania doradztwa podatkowego (siedziby) wpisuje się „nie wykonuje” wraz z informacją o okresie niewykonywania zawodu.
+
+7. Doradca podatkowy jest obowiązany zawiadomić Krajową Radę Doradców Podatkowych o wszelkich zmianach danych określonych w ust. 3 w terminie 30 dni od dnia zaistnienia tych zmian.
 
 8. Krajowa Rada Doradców Podatkowych publikuje w Biuletynie Informacji Publicznej na swojej stronie podmiotowej następujące dane dotyczące osób wpisanych na listę doradców podatkowych:
 
@@ -174,6 +184,7 @@ source: "isap-pdf"
 
 1. Krajowa Rada Doradców Podatkowych skreśla doradcę podatkowego z listy:
 
+- **1)** na jego wniosek;
 - **2)** z urzędu lub na wniosek ministra właściwego do spraw finansów publicznych, w przypadku:
     - **a)** utraty prawa do wykonywania zawodu,
     - **b)** (uchylona)
@@ -201,7 +212,9 @@ source: "isap-pdf"
 
 **Art. 11.**
 
-1. Za wpis na listę doradców podatkowych Krajowa Rada Doradców Podatkowych pobiera opłatę. właściwym do spraw finansów publicznych, określi wysokość opłaty, o której mowa w ust. 1, oraz termin jej uiszczenia.
+1. Za wpis na listę doradców podatkowych Krajowa Rada Doradców Podatkowych pobiera opłatę.
+
+2. Krajowa Rada Doradców Podatkowych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi wysokość opłaty, o której mowa w ust. 1, oraz termin jej uiszczenia.
 
 3. Opłata, o której mowa w ust. 1, stanowi dochód Krajowej Izby Doradców Podatkowych.
 
@@ -231,6 +244,7 @@ source: "isap-pdf"
 - **2)** formę organizacyjno-prawną;
 - **3)** nazwiska, imiona i adresy oraz numery identyfikacji podatkowej (NIP) albo inne numery służące identyfikacji dla celów podatkowych lub ubezpieczeń społecznych nadane w państwie pochodzenia wspólników (akcjonariuszy), członków zarządów oraz organów nadzoru spółek, o których mowa w art. 4 ust. 1 pkt 3;
 - **4)** (uchylony)
+- **5)** odpis umowy spółki albo statutu;
 - **6)** aktualny wypis z właściwego rejestru sądowego.
 
 4. Wpis do rejestru zawiera następujące dane:
@@ -258,6 +272,13 @@ source: "isap-pdf"
 
 **Art. 16.** Krajowa Rada Doradców Podatkowych skreśla osobę prawną z rejestru:
 
+- **1)** na jej wniosek;
+- **2)** z urzędu albo na wniosek ministra właściwego do spraw finansów publicznych – w przypadku:
+    - **a)** nieprzestrzegania warunków określonych w art. 4,
+    - **b)** rażącego lub uporczywego naruszania zasad i sposobu prowadzenia reklamy usług doradztwa podatkowego, wbrew postanowieniom art. 38 ust. 3;
+
+- **3)** z urzędu – w przypadku ustania osoby prawnej.
+
 **Art. 17.** Doradcy podatkowi wchodzący w skład zarządów spółek, o których mowa w art. 4 ust. 1 pkt 3, są odpowiedzialni za wykonywanie przez te spółki doradztwa podatkowego zgodnie z przepisami prawa i zasadami etyki zawodowej.
 
 **Art. 18.**
@@ -283,7 +304,8 @@ source: "isap-pdf"
 1. Egzamin jest sprawdzianem teoretycznego i praktycznego przygotowania kandydatów na doradców podatkowych z następujących dziedzin:
 
 - **1)** źródła prawa i wykładnia prawa;
-- **2)** (uchylony) z analizą podatkową;
+- **2)** (uchylony)
+- **3)** podstawy międzynarodowego oraz wspólnotowego prawa podatkowego wraz z analizą podatkową;
 - **4)** materialne prawo podatkowe wraz z analizą podatkową;
 - **4a)** opłaty, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;
 - **4b)** wymiana informacji podatkowych;
@@ -308,6 +330,7 @@ source: "isap-pdf"
 
 1. Do egzaminu na doradcę podatkowego jest dopuszczona osoba spełniająca warunki, o których mowa w art. 6 ust. 1 pkt 2, 3 i 5 <, która złożyła do Komisji Egzaminacyjnej wniosek o dopuszczenie do egzaminu i wyznaczenie terminu części pisemnej egzaminu>. <1a. Wniosek, o którym mowa w ust. 1, zawiera:
 
+- **1)** imię i nazwisko;
 - **2)** adres do korespondencji oraz adres poczty elektronicznej;
 - **3)** numer PESEL;
 - **4)** numer telefonu kontaktowego – fakultatywnie.
@@ -331,7 +354,7 @@ source: "isap-pdf"
 
 1f. W przypadku osoby ubiegającej się o dopuszczenie do egzaminu będącej osobą niepełnosprawną, która wraz z wnioskiem, o którym mowa w ust. 1 albo art. 24 ust. 6, złoży wniosek o wydłużenie czasu trwania egzaminu, do którego załączy:
 
-- **1)** kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu art. 2 pkt 10 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej poz. 913, 1301, 1665 i 1746) w okresie przeprowadzania egzaminu,
+- **1)** kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu art. 2 pkt 10 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746) w okresie przeprowadzania egzaminu,
 - **2)** zaświadczenie lekarskie wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności, stwierdzające wynikające z niepełnosprawności trudności w wykonywaniu czynności technicznych, takich jak:
     - **a)** odczytywanie tekstu,
     - **b)** posługiwanie się sprzętem komputerowym w sposób umożliwiający sporządzenie odpowiedzi na pytania i zadania egzaminacyjne – czas trwania egzaminu ulega wydłużeniu.>
@@ -350,7 +373,11 @@ source: "isap-pdf"
 
 4a. (uchylony)
 
-5. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Krajowej Rady Doradców Podatkowych, określi, w drodze rozporządzenia, szczegółowe warunki odbywania praktyki, o której mowa w ust. 4, oraz rodzaje zatrudnienia traktowane na równi z praktyką, mając na uwadze zapewnienie odpowiednich warunków w celu przygotowania kandydatów na doradców podatkowych do wykonywania zawodu. Egzaminacyjna.
+5. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Krajowej Rady Doradców Podatkowych, określi, w drodze rozporządzenia, szczegółowe warunki odbywania praktyki, o której mowa w ust. 4, oraz rodzaje zatrudnienia traktowane na równi z praktyką, mając na uwadze zapewnienie odpowiednich warunków w celu przygotowania kandydatów na doradców podatkowych do wykonywania zawodu.
+
+**Art. 22.**
+
+1. Egzamin na doradcę podatkowego przeprowadza Komisja Egzaminacyjna.
 
 2. Komisja Egzaminacyjna składa się, z zastrzeżeniem ust. 5, z siedemdziesięciu członków powoływanych i odwoływanych przez ministra właściwego do spraw finansów publicznych. Członkowie Komisji Egzaminacyjnej są powoływani spośród osób, które nie były skazane prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe i które swoją wiedzą i doświadczeniem dają rękojmię prawidłowego wykonywania zadań Komisji Egzaminacyjnej, w tym przeprowadzenia egzaminu na doradcę podatkowego.
 
@@ -361,7 +388,7 @@ source: "isap-pdf"
     - **b)** jednego przedstawiciela powoływanego spośród osób zatrudnionych w komórce organizacyjnej, o której mowa w ust. 14 – mających co najmniej dziesięcioletnie doświadczenie w zakresie tworzenia lub stosowania przepisów prawa co najmniej w jednej z dziedzin objętych zakresem tematycznym egzaminu na doradcę podatkowego i co najmniej pięcioletnie zatrudnienie w urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub jednostkach organizacyjnych Krajowej Administracji Skarbowej lub co najmniej pięcioletnią służbę jako funkcjonariusz Służby Celno-Skarbowej;
 
 - **2)** czternastu sędziów delegowanych przez Prezesa Naczelnego Sądu Administracyjnego spośród sędziów Naczelnego Sądu Administracyjnego lub wojewódzkich sądów administracyjnych, mających co najmniej pięcioletnie doświadczenie na stanowisku sędziego sądu administracyjnego;
-- **3)** dwunastu nauczycieli akademickich zatrudnionych w grupach pracowników dydaktycznych, badawczych lub badawczo-dydaktycznych uczelni lub pracowników naukowych instytutu badawczego lub instytutu naukowego Polskiej Akademii Nauk, posiadających co najmniej stopień naukowy doktora i finanse w zakresie prawa finansowego lub finansów oraz wiedzę i co najmniej pięcioletnie doświadczenie co najmniej w jednej z dziedzin objętych zakresem tematycznym egzaminu, powoływanych po przedstawieniu opinii uczelni lub instytutu ich zatrudniających, niebędących jednocześnie osobami zatrudnionymi w urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub jednostkach organizacyjnych Krajowej Administracji Skarbowej lub funkcjonariuszami Służby Celno-Skarbowej;
+- **3)** dwunastu nauczycieli akademickich zatrudnionych w grupach pracowników dydaktycznych, badawczych lub badawczo-dydaktycznych uczelni lub pracowników naukowych instytutu badawczego lub instytutu naukowego Polskiej Akademii Nauk, posiadających co najmniej stopień naukowy doktora w dziedzinie nauk społecznych w dyscyplinie nauki prawne lub ekonomia i finanse w zakresie prawa finansowego lub finansów oraz wiedzę i co najmniej pięcioletnie doświadczenie co najmniej w jednej z dziedzin objętych zakresem tematycznym egzaminu, powoływanych po przedstawieniu opinii uczelni lub instytutu ich zatrudniających, niebędących jednocześnie osobami zatrudnionymi w urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub jednostkach organizacyjnych Krajowej Administracji Skarbowej lub funkcjonariuszami Służby Celno-Skarbowej;
 - **4)** dwudziestu dwóch członków Krajowej Izby Doradców Podatkowych delegowanych przez Krajową Radę Doradców Podatkowych, mających co najmniej pięcioletnie doświadczenie w wykonywaniu zawodu doradcy podatkowego, niebędących jednocześnie osobami zatrudnionymi w urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub jednostkach organizacyjnych Krajowej Administracji Skarbowej lub funkcjonariuszami Służby Celno-Skarbowej.
 
 3a. W przypadku osób, o których mowa w ust. 3 pkt 2 i 4, oceny spełniania warunków powołania do składu Komisji Egzaminacyjnej dokonuje organ delegujący.
@@ -378,6 +405,7 @@ source: "isap-pdf"
 3d. W przypadku, o którym mowa w ust. 3 pkt 3, osoba ubiegająca się o powołanie do składu Komisji Egzaminacyjnej przekazuje ministrowi właściwemu do spraw finansów publicznych zgłoszenie zawierające:
 
 - **1)** imię i nazwisko;
+- **2)** adres do korespondencji oraz adres poczty elektronicznej;
 - **3)** oświadczenie o braku skazania prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
 - **4)** dokumentację potwierdzającą spełnienie warunków powołania do składu Komisji Egzaminacyjnej, o których mowa w ust. 3 pkt 3;
 - **5)** opinię uczelni lub instytutu, o której mowa w ust. 3 pkt 3.
@@ -397,7 +425,9 @@ source: "isap-pdf"
 
 6. Kadencja Komisji Egzaminacyjnej trwa 4 lata. Komisja Egzaminacyjna może działać do czasu powołania Komisji Egzaminacyjnej kolejnej kadencji, nie dłużej jednak niż przez okres 6 miesięcy od dnia zakończenia kadencji.
 
-6a. Nie można pełnić funkcji członka Komisji Egzaminacyjnej przez więcej niż dwie kolejno po sobie następujące kadencje Komisji Egzaminacyjnej. Egzaminacyjnej:
+6a. Nie można pełnić funkcji członka Komisji Egzaminacyjnej przez więcej niż dwie kolejno po sobie następujące kadencje Komisji Egzaminacyjnej.
+
+7. Minister właściwy do spraw finansów publicznych odwołuje członka Komisji Egzaminacyjnej:
 
 - **1)** na jego wniosek;
 - **2)** z urzędu – w przypadku:
@@ -414,7 +444,8 @@ source: "isap-pdf"
 
 11. Nie wstrzymuje prac Komisji Egzaminacyjnej:
 
-- **1)** niestawiennictwo członka Komisji Egzaminacyjnej na posiedzeniu Komisji Egzaminacyjnej; w Komisji Egzaminacyjnej.
+- **1)** niestawiennictwo członka Komisji Egzaminacyjnej na posiedzeniu Komisji Egzaminacyjnej;
+- **2)** odwołanie członka Komisji Egzaminacyjnej lub wygaśnięcie członkostwa w Komisji Egzaminacyjnej.
 
 12. Komisja Egzaminacyjna:
 
@@ -426,16 +457,48 @@ source: "isap-pdf"
 
 14. Obsługę administracyjno-biurową Komisji Egzaminacyjnej zapewnia komórka organizacyjna w urzędzie obsługującym ministra właściwego do spraw finansów publicznych wskazana przez tego ministra.
 
-**Art. 22a.** Komisja Egzaminacyjna przeprowadza test umiejętności dla osób, które, w toku postępowania w sprawie uznania kwalifikacji do wykonywania zawodu doradcy podatkowego, zostaną zobowiązane do zdania testu umiejętności, na zasadach określonych w odrębnych przepisach. <Art. 22b. 1. Komisja Egzaminacyjna może zawierać z uczelniami posiadającymi uprawnienia do nadawania stopnia naukowego doktora habilitowanego w dziedzinie nauk społecznych w dyscyplinie nauki prawne lub ekonomia i finanse umowy, o których mowa w art. 61 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, obejmujący efekty uczenia się w zakresie wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego. Do podpisania umowy w imieniu Komisji Egzaminacyjnej jest uprawniony jej przewodniczący. 2. Umowy, o których mowa w ust. 1, są zawierane na wniosek uczelni. Wniosek podlega opłacie nie wyższej niż równowartość czterokrotności minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), zwanego dalej „minimalnym wynagrodzeniem”. Opłata ta stanowi dochód budżetu państwa. W przypadku gdy umowa nie została zawarta, połowa opłaty podlega zwrotowi. 3. Wniosek, o którym mowa w ust. 2, zawiera:
+**Art. 22a.** Komisja Egzaminacyjna przeprowadza test umiejętności dla osób, które, w toku postępowania w sprawie uznania kwalifikacji do wykonywania zawodu doradcy podatkowego, zostaną zobowiązane do zdania testu umiejętności, na zasadach określonych w odrębnych przepisach. <Art. 22b. 1. Komisja Egzaminacyjna może zawierać z uczelniami posiadającymi uprawnienia do nadawania stopnia naukowego doktora habilitowanego w dziedzinie nauk społecznych w dyscyplinie nauki prawne lub ekonomia i finanse umowy, o których mowa w art. 61 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), określające program studiów realizowany przez uczelnię obejmujący efekty uczenia się w zakresie wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego. Do podpisania umowy w imieniu Komisji Egzaminacyjnej jest uprawniony jej przewodniczący. 2. Umowy, o których mowa w ust. 1, są zawierane na wniosek uczelni. Wniosek podlega opłacie nie wyższej niż równowartość czterokrotności minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), zwanego dalej „minimalnym wynagrodzeniem”. Opłata ta stanowi dochód budżetu państwa. W przypadku gdy umowa nie została zawarta, połowa opłaty podlega zwrotowi. 3. Wniosek, o którym mowa w ust. 2, zawiera:
 
-**Art. 22c.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia: dotyczy wniosek uczelni o zawarcie umowy, o której mowa w art. 22b ust. 1, obejmujące w szczególności formę prowadzenia zajęć, sposoby weryfikacji i oceny efektów uczenia się osiągniętych przez studenta oraz liczbę godzin zajęć, w których ramach jest realizowany zakres tematyczny danej dziedziny egzaminacyjnej, biorąc pod uwagę konieczność objęcia przez ten program pełnego zakresu wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego;
+- **1)** nazwę uczelni oraz adres jej siedziby;
+- **2)** dane teleadresowe uczelni;
+- **3)** określenie kierunku, poziomu, profilu kształcenia i formy studiów oraz specjalności w przypadku jej utworzenia w ramach kierunku, którego ma dotyczyć umowa.
+
+4. Do wniosku, o którym mowa w ust. 2, dołącza się dokumenty potwierdzające spełnianie przez uczelnię warunku określonego w ust. 1 i realizowanie przez nią programu studiów obejmującego efekty uczenia się w zakresie wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego oraz potwierdzenie dokonania opłaty, o której mowa w ust. 2.
+
+5. Wniosek, o którym mowa w ust. 2, składa się nie później niż na 6 miesięcy przed dniem rozpoczęcia roku akademickiego, od którego miałaby zgodnie z wnioskiem obowiązywać umowa.
+
+6. Umowy, o których mowa w ust. 1, są zawierane na okresy odpowiadające latom akademickim.
+
+7. Przepisy art. 24 ust. 5 i 6 stosuje się także do osób, które rozpoczęły studia na kierunku objętym umową, o której mowa w ust. 1, w trakcie jej obowiązywania oraz:
+
+- **1)** po upływie okresu, na jaki ta umowa została zawarta, albo
+- **2)** po rozwiązaniu tej umowy przed upływem okresu, na jaki została zawarta ‒ zrealizowały program tych studiów na warunkach określonych w tej umowie.
+
+8. Do wniosku uczelni o zmianę umowy, o której mowa w ust. 1, przepisy ust. 3–5 stosuje się odpowiednio. W przypadku gdy wniosek dotyczy postanowień umowy w zakresie realizowania przez uczelnię programu studiów obejmującego efekty uczenia się w zakresie wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego, podlega on opłacie, o której mowa w ust. 2. W przypadku gdy umowa nie została zmieniona, połowa opłaty podlega zwrotowi.
+
+9. Umowy, o których mowa w ust. 1, podlegają bieżącej weryfikacji Komisji Egzaminacyjnej pod względem spełniania przez uczelnię warunku określonego w ust. 1 i realizowania przez nią programu studiów obejmującego efekty uczenia się w zakresie wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego.
+
+10. Bieżąca weryfikacja, o której mowa w ust. 9, jest przeprowadzana na podstawie przekazanych przez uczelnię, na żądanie Komisji Egzaminacyjnej, dokumentów dotyczących posiadania przez tę uczelnię uprawnień do nadawania stopnia naukowego, o którym mowa w ust. 1, lub realizowanego przez tę uczelnię programu studiów obejmującego efekty uczenia się w zakresie wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego.
+
+11. W przypadku stwierdzenia przez Komisję Egzaminacyjną w wyniku bieżącej weryfikacji, o której mowa w ust. 9, że uczelnia:
+
+- **1)** utraciła uprawnienia do nadawania stopnia naukowego, o którym mowa w ust. 1, lub
+- **2)** nie realizuje programu studiów obejmującego efekty uczenia się w zakresie wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego ‒ umowa ulega rozwiązaniu z końcem roku akademickiego, w którym Komisja Egzaminacyjna stwierdziła niespełnienie przez uczelnię warunku zawarcia tej umowy określonego w ust. 1, chyba że uczelnia nie później niż na 3 miesiące przed dniem rozpoczęcia następnego roku akademickiego spełni ten warunek.
+
+**Art. 22c.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** minimalne wymogi, jakie powinien spełniać program studiów, którego dotyczy wniosek uczelni o zawarcie umowy, o której mowa w art. 22b ust. 1, obejmujące w szczególności formę prowadzenia zajęć, sposoby weryfikacji i oceny efektów uczenia się osiągniętych przez studenta oraz liczbę godzin zajęć, w których ramach jest realizowany zakres tematyczny danej dziedziny egzaminacyjnej, biorąc pod uwagę konieczność objęcia przez ten program pełnego zakresu wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego;
+- **2)** sposób składania przez uczelnię wniosku o zawarcie i zmianę umowy, o której mowa w art. 22b ust. 1, i tryb jego rozpatrywania przez Komisję Egzaminacyjną oraz szczegółowy wykaz dokumentów dołączanych do wniosku, biorąc pod uwagę konieczność zapewnienia jednolitości i sprawności rozpatrywania tych wniosków i zawierania umów;
+- **3)** wysokość opłaty, o której mowa w art. 22b ust. 2, mając na względzie wydatki związane z rozpatrzeniem przez Komisję Egzaminacyjną wniosku uczelni o zawarcie umowy, o której mowa w art. 22b ust. 1, zawarciem tej umowy oraz jej bieżącą weryfikacją, o której mowa w art. 22b ust. 9;
+- **4)** termin i sposób wnoszenia opłaty, o której mowa w art. 22b ust. 2, oraz tryb dokonywania jej zwrotu, o którym mowa w art. 22b ust. 2 i 8, biorąc pod uwagę konieczność zapewnienia sprawnej organizacji pracy Komisji Egzaminacyjnej;
+- **5)** tryb dokonywania przez Komisję Egzaminacyjną bieżącej weryfikacji zawartych umów, o której mowa w art. 22b ust. 9, oraz szczegółowy zakres dokumentów przekazywanych przez uczelnię zgodnie z art. 22b ust. 10, mając na uwadze konieczność zachowania właściwego poziomu kształcenia wynikającego z art. 22b ust. 1. >
 
 **Art. 23.**
 
 1. Przewodniczący Komisji Egzaminacyjnej:
 
 - **1)** reprezentuje ją na zewnątrz i kieruje jej pracami, w szczególności:
-    - **a)** wyznacza składy egzaminacyjne spośród członków Komisji Egzaminacyjnej oraz wyznacza przewodniczących i sekretarzy tych składów, <b) powołuje spośród członków Komisji Egzaminacyjnej trzyosobowe zespoły do spraw zawarcia i zmiany umowy, o której mowa w art. 22b ust. 1, i bieżącej weryfikacji umowy, o której mowa w art. 22b ust. 9, przewodniczących;>
+    - **a)** wyznacza składy egzaminacyjne spośród członków Komisji Egzaminacyjnej oraz wyznacza przewodniczących i sekretarzy tych składów, <b) powołuje spośród członków Komisji Egzaminacyjnej trzyosobowe zespoły do spraw zawarcia i zmiany umowy, o której mowa w art. 22b ust. 1, i bieżącej weryfikacji umowy, o której mowa w art. 22b ust. 9, oraz wyznacza spośród członków tych zespołów ich przewodniczących;>
 
 - **2)** przygotowuje zestawy pytań i zadań egzaminacyjnych na poszczególne egzaminy spośród pytań i zadań egzaminacyjnych przygotowanych przez zespoły, o których mowa w art. 22 ust. 12 pkt 2;
 - **3)** przedstawia ministrowi właściwemu do spraw finansów publicznych coroczne sprawozdanie z działalności Komisji Egzaminacyjnej za każdy rok jej kadencji, uwzględniające udział każdego z członków Komisji Egzaminacyjnej w jej pracach, w terminie do końca miesiąca następującego po miesiącu, w którym upływa rok kadencji, za który jest przedstawiane sprawozdanie, a w przypadku upływu kadencji Komisji Egzaminacyjnej przed tym terminem – na miesiąc przed zakończeniem tej kadencji;
@@ -456,7 +519,9 @@ source: "isap-pdf"
 
 2. Warunkiem dopuszczenia do części ustnej jest zdanie z wynikiem pozytywnym części pisemnej egzaminu.
 
-3. W przypadku negatywnego wyniku części pisemnej lub ustnej egzaminu może on być powtarzany. część egzaminu w okresie roku od dnia ogłoszenia wyniku części pisemnej egzaminu.
+3. W przypadku negatywnego wyniku części pisemnej lub ustnej egzaminu może on być powtarzany.
+
+4. Kandydat może przystępować do części ustnej egzaminu lub powtarzać tę część egzaminu w okresie roku od dnia ogłoszenia wyniku części pisemnej egzaminu.
 
 5. Egzamin na doradcę podatkowego w stosunku do osób, które ukończyły studia, których program zrealizowany został w ramach umowy, o której mowa w [art. 22 ust. 13a] < art. 22b ust. 1>, obejmuje tylko część ustną.
 
@@ -471,6 +536,7 @@ source: "isap-pdf"
 2. W przypadku osób, o których mowa w art. 24 ust. 5, cykl egzaminacyjny rozpoczyna się z dniem wyznaczenia terminu części ustnej egzaminu na doradcę podatkowego na skutek złożenia wniosku, o którym mowa w art. 24 ust. 6, i kończy się z dniem:
 
 - **1)** uzyskania przez kandydata na doradcę podatkowego pozytywnego wyniku z części ustnej tego egzaminu albo
+- **2)** upływu okresu, o którym mowa w art. 24 ust. 6.
 
 3. W przypadku upływu okresu, o którym mowa w ust. 1 pkt 3 albo art. 24 ust. 4 albo 6, kandydat na doradcę podatkowego może złożyć kolejny wniosek, o którym mowa w art. 21 ust. 1. Przepis ust. 1 stosuje się.
 
@@ -500,7 +566,9 @@ source: "isap-pdf"
 
 5. Warunkiem dostępu do e-Doradcy jest uwierzytelnienie się użytkownika konta, o którym mowa w ust. 3, dokonywane z wykorzystaniem numeru PESEL.
 
-6. Wnioski, o których mowa w art. 21 ust. 1 i art. 24 ust. 6, oraz inne pisma dotyczące egzaminu na doradcę podatkowego składa się i doręcza przy wykorzystaniu e-Doradcy. wywołują takie same skutki prawne jak pisma opatrzone własnoręcznym podpisem tego użytkownika, jego kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+6. Wnioski, o których mowa w art. 21 ust. 1 i art. 24 ust. 6, oraz inne pisma dotyczące egzaminu na doradcę podatkowego składa się i doręcza przy wykorzystaniu e-Doradcy.
+
+7. Pisma składane przez użytkownika konta za pośrednictwem e-Doradcy wywołują takie same skutki prawne jak pisma opatrzone własnoręcznym podpisem tego użytkownika, jego kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
 8. Doręczenie pisma kandydatowi na doradcę podatkowego w e-Doradcy następuje:
 
@@ -517,6 +585,32 @@ source: "isap-pdf"
 
 **Art. 24c.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób korzystania z e-Doradcy, w tym:
 
+- **1)** udostępniania kont użytkowników,
+- **2)** uwierzytelniania użytkowników,
+- **3)** potwierdzania składania i doręczania pism w sprawach dotyczących egzaminu na doradcę podatkowego między Komisją Egzaminacyjną a kandydatem na doradcę podatkowego – mając na względzie potrzebę zapewnienia elektronicznej formy przeprowadzenia egzaminu i usprawnienia komunikacji między użytkownikami kont, z zachowaniem bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych oraz potrzebę ich ochrony przed nieuprawnionym dostępem.> [Art. 25. 1. Za egzamin pobiera się opłatę, która stanowi dochód budżetu państwa.
+
+1a. Jeżeli egzamin nie dojdzie do skutku z przyczyn nieleżących po stronie kandydata opłata podlega zwrotowi. Opłata może zostać zwrócona, jeżeli kandydat z przyczyn przez siebie niezawinionych nie mógł przystąpić do egzaminu.
+
+2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 1, mając na uwadze koszty przeprowadzania egzaminów oraz wydatki związane z funkcjonowaniem Komisji Egzaminacyjnej.] < Art. 25. 1. Za:
+
+- **1)** złożenie wniosku, o którym mowa w art. 21 ust. 1, i wniosku, o którym mowa w art. 24 ust. 6, pobiera się opłatę wstępną nie wyższą niż równowartość minimalnego wynagrodzenia;
+- **2)** egzamin na doradcę podatkowego pobiera się opłaty egzaminacyjne, oddzielnie za część pisemną i ustną egzaminu, przy czym każda z tych opłat nie może być wyższa niż równowartość minimalnego wynagrodzenia.
+
+2. Opłata wstępna i opłaty egzaminacyjne stanowią dochód budżetu państwa.
+
+3. Opłata wstępna nie podlega zwrotowi.
+
+4. Opłata egzaminacyjna podlega zwrotowi w przypadku:
+
+- **1)** wydania decyzji, o której mowa w art. 21 ust. 2 albo art. 24 ust. 8;
+- **2)** gdy część pisemna lub ustna egzaminu nie dojdzie do skutku z przyczyn nieleżących po stronie kandydata na doradcę podatkowego.
+
+5. W przypadku nieprzystąpienia przez kandydata na doradcę podatkowego do części pisemnej lub ustnej egzaminu, na jego wniosek złożony nie później niż w terminie 14 dni od wyznaczonego dla tego kandydata dnia przeprowadzenia części pisemnej lub ustnej egzaminu, połowa opłaty egzaminacyjnej uiszczonej za daną część egzaminu podlega zwrotowi, jednak tylko raz dla każdej z części egzaminu w trakcie cyklu egzaminacyjnego.
+
+6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, mając na uwadze koszty rozpatrywania wniosków, o których mowa w art. 21 ust. 1 i art. 24 ust. 6, i przeprowadzania egzaminu na doradcę podatkowego oraz wydatki związane z funkcjonowaniem Komisji Egzaminacyjnej.
+
+7. Kwoty opłat, o których mowa w ust. 1, obliczone zgodnie z przepisami wydanymi na podstawie ust. 6, ogłasza Sekretarz Komisji Egzaminacyjnej w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.>
+
 **Art. 25a.**
 
 1. Minister właściwy do spraw finansów publicznych jest administratorem danych przetwarzanych w celach związanych z działalnością Komisji Egzaminacyjnej oraz organizacją egzaminu na doradcę podatkowego, w tym danych przetwarzanych w e-Doradcy.
@@ -531,7 +625,8 @@ source: "isap-pdf"
 
 4. Dane osobowe kandydatów na doradców podatkowych są usuwane po upływie:
 
-- **1)** 4 lat od dnia: z części ustnej egzaminu albo
+- **1)** 4 lat od dnia:
+    - **a)** uzyskania przez kandydata na doradcę podatkowego pozytywnego wyniku z części ustnej egzaminu albo
     - **b)** upływu okresu, o którym mowa w art. 24 ust. 4 albo 6, albo
 
 - **2)** 2 miesięcy od dnia upływu terminu, o którym mowa w art. 24a ust. 1 pkt 3. [Art. 26. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
@@ -541,14 +636,14 @@ source: "isap-pdf"
 - **4)** sposób ustalania i wysokość wynagrodzeń członków Komisji Egzaminacyjnej za udział w pracach, w tym w posiedzeniach Komisji Egzaminacyjnej, przeprowadzaniu egzaminów oraz przygotowaniu projektów pytań i zadań egzaminacyjnych, biorąc pod uwagę zakres obowiązków poszczególnych członków Komisji Egzaminacyjnej;
 - **5)** szczegółowe zadania Komisji Egzaminacyjnej, przewodniczącego i sekretarza Komisji Egzaminacyjnej, przewodniczących i sekretarzy składów egzaminacyjnych oraz regulamin działania Komisji Egzaminacyjnej, biorąc w szczególności pod uwagę konieczność zapewnienia sprawnej i prawidłowej organizacji egzaminu, precyzyjnego podziału zadań, obowiązków i odpowiedzialności w ramach Komisji Egzaminacyjnej;
 - **6)** sposób organizowania i regulamin przeprowadzenia egzaminu sprawdzającego kwalifikacje kandydatów na doradców podatkowych, w tym szczegółowy tryb i sposób wyznaczania składów egzaminacyjnych, dokonywania oceny egzaminów i jej weryfikacji, ustalania terminów egzaminów i ich zmiany oraz zestawów pytań i zadań egzaminacyjnych, biorąc pod uwagę konieczność zapewnienia obiektywnego i sprawnego sposobu przeprowadzenia egzaminu;
-- **7)** szczegółowe warunki i tryb przysługującego członkom Komisji Egzaminacyjnej zwrotu kosztów podróży i noclegów, poniesionych w związku z udziałem wydatkowanie przez członków Komisji Egzaminacyjnej.] <Art. 26. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+- **7)** szczegółowe warunki i tryb przysługującego członkom Komisji Egzaminacyjnej zwrotu kosztów podróży i noclegów, poniesionych w związku z udziałem w pracach Komisji Egzaminacyjnej, biorąc pod uwagę ich racjonalne wydatkowanie przez członków Komisji Egzaminacyjnej.] <Art. 26. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 - **1)** termin i sposób składania wniosków, o których mowa w art. 21 ust. 1 i art. 24 ust. 6, oraz tryb postępowania z tymi wnioskami, biorąc pod uwagę konieczność zapewnienia sprawnej organizacji egzaminu na doradcę podatkowego;
 - **2)** termin i sposób wnoszenia opłaty wstępnej, biorąc pod uwagę konieczność zapewnienia sprawnego rozpatrzenia wniosku, o którym mowa w art. 21 ust. 1 i art. 24 ust. 6;
 - **3)** termin i sposób wnoszenia opłat egzaminacyjnych oraz tryb i sposób dokonywania ich zwrotu, biorąc pod uwagę konieczność zapewnienia sprawnej organizacji i przeprowadzania egzaminu na doradcę podatkowego;
 - **4)** sposób organizowania i przeprowadzania egzaminu na doradcę podatkowego, w tym czas trwania egzaminu oraz szczegółowy tryb i sposób wyznaczania składów egzaminacyjnych, sposób dokonywania oceny egzaminu i jej weryfikacji, wyznaczania terminów części pisemnej i ustnej egzaminu oraz przygotowywania zestawów pytań i zadań egzaminacyjnych, biorąc pod uwagę konieczność zapewnienia obiektywnego i sprawnego sposobu przeprowadzenia egzaminu;
 - **5)** szczegółowe zadania Komisji Egzaminacyjnej, przewodniczącego i sekretarza Komisji Egzaminacyjnej, przewodniczących i sekretarzy składów egzaminacyjnych oraz regulamin działania Komisji Egzaminacyjnej, biorąc pod uwagę konieczność zapewnienia sprawnej i prawidłowej organizacji egzaminu, precyzyjnego podziału zadań, obowiązków i odpowiedzialności w ramach Komisji Egzaminacyjnej;
 - **6)** wysokość wynagrodzeń przewodniczącego i sekretarza Komisji Egzaminacyjnej, biorąc pod uwagę nakład ich pracy i zakres obowiązków;
-- **7)** sposób ustalania i wysokość wynagrodzeń członków Komisji Egzaminacyjnej za udział w pracach, w tym w posiedzeniach Komisji Egzaminacyjnej, przeprowadzaniu egzaminów, przygotowaniu pytań i zadań egzaminacyjnych oraz rozpatrywaniu wniosków uczelni, o których mowa w art. 22b ust. 2 i 8, i bieżącej weryfikacji umów, o której mowa członków Komisji Egzaminacyjnej;
+- **7)** sposób ustalania i wysokość wynagrodzeń członków Komisji Egzaminacyjnej za udział w pracach, w tym w posiedzeniach Komisji Egzaminacyjnej, przeprowadzaniu egzaminów, przygotowaniu pytań i zadań egzaminacyjnych oraz rozpatrywaniu wniosków uczelni, o których mowa w art. 22b ust. 2 i 8, i bieżącej weryfikacji umów, o której mowa w art. 22b ust. 9, biorąc pod uwagę zakres obowiązków poszczególnych członków Komisji Egzaminacyjnej;
 - **8)** szczegółowe warunki i tryb dokonywania zwrotu kosztów podróży i noclegów przysługującego członkom Komisji Egzaminacyjnej, poniesionych w związku z udziałem w pracach Komisji Egzaminacyjnej, biorąc pod uwagę ich racjonalne wydatkowanie przez członków Komisji Egzaminacyjnej.>
 
 #### Rozdział 5 Wykonywanie zawodu doradcy podatkowego
@@ -566,7 +661,7 @@ source: "isap-pdf"
 
 - **823)** , z tym że większość komplementariuszy w spółce komandytowej i spółce komandytowo-akcyjnej oraz wspólników w pozostałych spółkach stanowią podmioty wymienione w art. 3. Jeżeli w spółce komandytowej i spółce komandytowo-akcyjnej jest nie więcej niż dwóch komplementariuszy lub pozostałe spółki składają się z dwóch wspólników, jeden z nich powinien być podmiotem wymienionym w art. 3.
 
-3. Doradca podatkowy wykonujący zawód w ramach stosunku pracy, o którym mowa w ust. 1 pkt 2 lit. b, wykonuje czynności doradztwa podatkowego jedynie na rzecz podmiotu, w którym jest zatrudniony. W przypadku gdy podmiotem skonsolidowanego sprawozdania finansowego, o którym mowa w rozdziale 6 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), doradca podatkowy w ramach stosunku pracy może wykonywać czynności doradztwa podatkowego także na rzecz podmiotów objętych tym sprawozdaniem sporządzanym przez podmiot, w którym jest zatrudniony.
+3. Doradca podatkowy wykonujący zawód w ramach stosunku pracy, o którym mowa w ust. 1 pkt 2 lit. b, wykonuje czynności doradztwa podatkowego jedynie na rzecz podmiotu, w którym jest zatrudniony. W przypadku gdy podmiotem zatrudniającym doradcę podatkowego jest podmiot zobowiązany do sporządzenia skonsolidowanego sprawozdania finansowego, o którym mowa w rozdziale 6 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), doradca podatkowy w ramach stosunku pracy może wykonywać czynności doradztwa podatkowego także na rzecz podmiotów objętych tym sprawozdaniem sporządzanym przez podmiot, w którym jest zatrudniony.
 
 4. Doradca podatkowy wykonujący zawód na podstawie umowy cywilnoprawnej, o której mowa w ust. 1 pkt 2 lit. b, wykonuje czynności doradztwa podatkowego tylko na rzecz drugiej strony tej umowy.
 
@@ -583,7 +678,9 @@ source: "isap-pdf"
 
 **Art. 28.** (uchylony)
 
-**Art. 29.** (uchylony) w art. 27 ust. 1 pkt 1a, przesyłają w terminie 14 dni od dnia zawarcia umowy lub uprawomocnienia się postanowienia sądu rejestrowego Krajowej Radzie Doradców Podatkowych odpis umowy spółki, a w stosunku do spółek handlowych – także wypis z rejestru przedsiębiorców.
+**Art. 29.** (uchylony)
+
+**Art. 30.** Doradcy podatkowi będący wspólnikami spółek, o których mowa w art. 27 ust. 1 pkt 1a, przesyłają w terminie 14 dni od dnia zawarcia umowy lub uprawomocnienia się postanowienia sądu rejestrowego Krajowej Radzie Doradców Podatkowych odpis umowy spółki, a w stosunku do spółek handlowych – także wypis z rejestru przedsiębiorców.
 
 **Art. 31.**
 
@@ -601,7 +698,7 @@ source: "isap-pdf"
 
 2. Doradca podatkowy jest obowiązany do pisemnego zawiadomienia Krajowej Rady Doradców Podatkowych o rozpoczęciu prowadzenia działalności gospodarczej lub zatrudnienia wykraczających poza zakres czynności określonych w art. 2, z podaniem rodzajów prowadzonej działalności lub rodzajów zatrudnienia, oraz o wszelkich zmianach dotyczących zakresu tej działalności lub tego zatrudnienia, w terminie 30 dni, odpowiednio od dnia rozpoczęcia jej prowadzenia, rozpoczęcia zatrudnienia lub zaistnienia zmian.
 
-**Art. 31a.** W przypadku podjęcia przez doradcę podatkowego pracy w organach wymiaru sprawiedliwości, organach ścigania, urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub jednostkach organizacyjnych Krajowej Administracji Skarbowej lub służby jako funkcjonariusz Służby Celno-Skarbowej następuje z urzędu zawieszenie prawa wykonywania zawodu na wykonywania zawodu jest odnotowywane na liście niezwłocznie po złożeniu przez doradcę podatkowego zawiadomienia, o którym mowa w art. 31 ust. 2, lub powzięciu takiej informacji przez Krajową Radę Doradców Podatkowych i następuje z mocą od dnia rozpoczęcia wykonywania pracy lub pełnienia służby, o których mowa w zdaniu pierwszym.
+**Art. 31a.** W przypadku podjęcia przez doradcę podatkowego pracy w organach wymiaru sprawiedliwości, organach ścigania, urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub jednostkach organizacyjnych Krajowej Administracji Skarbowej lub służby jako funkcjonariusz Służby Celno-Skarbowej następuje z urzędu zawieszenie prawa wykonywania zawodu na okres wykonywania tej pracy lub pełnienia tej służby. Zawieszenie prawa wykonywania zawodu jest odnotowywane na liście niezwłocznie po złożeniu przez doradcę podatkowego zawiadomienia, o którym mowa w art. 31 ust. 2, lub powzięciu takiej informacji przez Krajową Radę Doradców Podatkowych i następuje z mocą od dnia rozpoczęcia wykonywania pracy lub pełnienia służby, o których mowa w zdaniu pierwszym.
 
 **Art. 32.**
 
@@ -623,7 +720,11 @@ source: "isap-pdf"
 
 #### Rozdział 6 Obowiązki i prawa doradcy podatkowego
 
-**Art. 36.** Doradca podatkowy obowiązany jest w szczególności: etyki zawodowej;
+**Art. 36.** Doradca podatkowy obowiązany jest w szczególności:
+
+- **1)** postępować zgodnie z przepisami prawa, ze złożonym ślubowaniem i z zasadami etyki zawodowej;
+- **2)** stale podnosić swoje kwalifikacje;
+- **3)** regularnie opłacać składkę członkowską.
 
 **Art. 37.**
 
@@ -642,7 +743,7 @@ source: "isap-pdf"
 
 5. Przepisy art. 15 ust. 1 i 3, art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ) stosuje się w zakresie, w jakim nie naruszają obowiązku zachowania przez doradcę podatkowego lub osoby, o których mowa w ust. 3, tajemnicy zawodowej, o której mowa w ust. 1 i 3.
 
-6. W przypadku danych osobowych pozyskanych przez doradcę podatkowego albo osoby, o których mowa w ust. 3, w związku z wykonywaniem doradztwa podatkowego nie stosuje się przepisu art. 21 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie rozporządzenie o ochronie danych).
+6. W przypadku danych osobowych pozyskanych przez doradcę podatkowego albo osoby, o których mowa w ust. 3, w związku z wykonywaniem doradztwa podatkowego nie stosuje się przepisu art. 21 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych).
 
 7. Obowiązek zachowania tajemnicy zawodowej, o której mowa w ust. 1 i 3, nie ustaje, w przypadku gdy z żądaniem ujawnienia informacji uzyskanych przez doradcę podatkowego albo osoby, o których mowa w ust. 3, w związku z wykonywaniem doradztwa podatkowego występuje Prezes Urzędu Ochrony Danych Osobowych.
 
@@ -664,7 +765,9 @@ source: "isap-pdf"
 
 **Art. 39.**
 
-1. Doradca podatkowy jest obowiązany przechowywać kopie sporządzanych opinii, raportów z niezależnego audytu funkcji podatkowej, wystąpień w imieniu podatników, płatników, inkasentów, innych podmiotów oraz osób, o których mowa w art. 2 ust. 1a, w sprawach obowiązków podatkowych, a także udzielonych im porad, przez okres 10 lat od końca roku kalendarzowego, w którym zostały wytworzone. przechowywania odwzorowania cyfrowego dokumentów, o których mowa w tym przepisie, przez które rozumie się dokument elektroniczny będący kopią elektroniczną dokumentacji sporządzonej w postaci papierowej, oraz przechowywania w postaci elektronicznej dokumentów sporządzonych w tej postaci.
+1. Doradca podatkowy jest obowiązany przechowywać kopie sporządzanych opinii, raportów z niezależnego audytu funkcji podatkowej, wystąpień w imieniu podatników, płatników, inkasentów, innych podmiotów oraz osób, o których mowa w art. 2 ust. 1a, w sprawach obowiązków podatkowych, a także udzielonych im porad, przez okres 10 lat od końca roku kalendarzowego, w którym zostały wytworzone.
+
+1a. Obowiązek, o którym mowa w ust. 1, uznaje się za spełniony w przypadku przechowywania odwzorowania cyfrowego dokumentów, o których mowa w tym przepisie, przez które rozumie się dokument elektroniczny będący kopią elektroniczną dokumentacji sporządzonej w postaci papierowej, oraz przechowywania w postaci elektronicznej dokumentów sporządzonych w tej postaci.
 
 2. Po upływie okresu, o którym mowa w ust. 1, doradca podatkowy obowiązany jest zniszczyć dokumenty określone w ust. 1.
 
@@ -686,7 +789,7 @@ source: "isap-pdf"
 
 3. Doradca podatkowy może sam uwierzytelnić odpis udzielonego mu pełnomocnictwa.
 
-4. Doradca podatkowy ma prawo sporządzania poświadczeń odpisów dokumentów za zgodność z okazanym oryginałem w zakresie określonym odrębnymi przepisami. Poświadczenie powinno zawierać podpis doradcy podatkowego, datę i oznaczenie miejsca jego sporządzenia, na żądanie – również godzinę dokonania uszkodzenia) doradca podatkowy stwierdza to w poświadczeniu.
+4. Doradca podatkowy ma prawo sporządzania poświadczeń odpisów dokumentów za zgodność z okazanym oryginałem w zakresie określonym odrębnymi przepisami. Poświadczenie powinno zawierać podpis doradcy podatkowego, datę i oznaczenie miejsca jego sporządzenia, na żądanie – również godzinę dokonania czynności. Jeżeli dokument zawiera cechy szczególne (dopiski, poprawki lub uszkodzenia) doradca podatkowy stwierdza to w poświadczeniu.
 
 5. Doradca podatkowy może udzielić dalszego pełnomocnictwa (substytucji) innemu doradcy podatkowemu, adwokatowi lub radcy prawnemu.
 
@@ -714,7 +817,9 @@ source: "isap-pdf"
 
 **Art. 44.**
 
-1. Doradca podatkowy podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu czynności, o których mowa w art. 2 ust. 1. podmiotów wymienionych w art. 43.
+1. Doradca podatkowy podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu czynności, o których mowa w art. 2 ust. 1.
+
+2. Ubezpieczenie, o którym mowa w ust. 1, obejmuje także odpowiedzialność podmiotów wymienionych w art. 43.
 
 3. Obowiązek, o którym mowa w ust. 1, ciąży na:
 
@@ -732,7 +837,13 @@ source: "isap-pdf"
 
 **Art. 45.** Przepisy art. 43 i 44 stosuje się odpowiednio do adwokatów, radców prawnych oraz biegłych rewidentów, jeżeli zatrudniają doradców podatkowych i nie ubezpieczyli się od odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu tych zawodów.
 
-**Art. 46.** Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Krajowej Rady Doradców Podatkowych oraz Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w art. 44, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę specyfikę i formę wykonywanego zawodu oraz zakres realizowanych zadań. umowy ubezpieczenia, o którym mowa w art. 44 i 44a, są uprawnieni minister właściwy do spraw finansów publicznych oraz Krajowa Rada Doradców Podatkowych. Spełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 44 i 44a, ustala się na podstawie polisy lub innego dokumentu ubezpieczenia, potwierdzającego zawarcie umowy tego ubezpieczenia, wystawionego przez zakład ubezpieczeń. 2. Minister właściwy do spraw finansów publicznych nadzoruje wykonywanie przez Krajową Radę Doradców Podatkowych zadań określonych w ust. 1. Krajowa Rada Doradców Podatkowych jest obowiązana do składania ministrowi właściwemu do spraw finansów publicznych raz w roku, w terminie do dnia 15 marca, sprawozdań z kontroli przeprowadzonych w poprzednim roku kalendarzowym.
+**Art. 46.** Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Krajowej Rady Doradców Podatkowych oraz Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w art. 44, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę specyfikę i formę wykonywanego zawodu oraz zakres realizowanych zadań.
+
+**Art. 46a.**
+
+1. Do przeprowadzania kontroli spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 44 i 44a, są uprawnieni minister właściwy do spraw finansów publicznych oraz Krajowa Rada Doradców Podatkowych. Spełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 44 i 44a, ustala się na podstawie polisy lub innego dokumentu ubezpieczenia, potwierdzającego zawarcie umowy tego ubezpieczenia, wystawionego przez zakład ubezpieczeń.
+
+2. Minister właściwy do spraw finansów publicznych nadzoruje wykonywanie przez Krajową Radę Doradców Podatkowych zadań określonych w ust. 1. Krajowa Rada Doradców Podatkowych jest obowiązana do składania ministrowi właściwemu do spraw finansów publicznych raz w roku, w terminie do dnia 15 marca, sprawozdań z kontroli przeprowadzonych w poprzednim roku kalendarzowym.
 
 **Art. 46b.** (uchylony)
 
@@ -763,7 +874,9 @@ source: "isap-pdf"
 - **3)** Krajowa Komisja Rewizyjna;
 - **4)** Wyższy Sąd Dyscyplinarny;
 - **5)** Sąd Dyscyplinarny;
-- **6)** Rzecznik Dyscyplinarny. i oddziały zamiejscowe Sądu Dyscyplinarnego.
+- **6)** Rzecznik Dyscyplinarny.
+
+2. Krajowa Izba Doradców Podatkowych może tworzyć regionalne oddziały Izby i oddziały zamiejscowe Sądu Dyscyplinarnego.
 
 **Art. 50.**
 
@@ -795,6 +908,7 @@ source: "isap-pdf"
 - **7)** rozpatrywanie i zatwierdzanie sprawozdań przedstawianych przez organy Krajowej Izby Doradców Podatkowych oraz udzielanie absolutorium Krajowej Radzie Doradców Podatkowych na wniosek Krajowej Komisji Rewizyjnej;
 - **8)** uchwalanie zasad etyki zawodowej, określających w szczególności:
     - **a)** podstawowe zasady obowiązujące doradcę podatkowego w związku z wykonywaniem zawodu,
+    - **b)** zasady i sposób prowadzenia reklamy usług doradztwa podatkowego,
     - **c)** zasady stałego podnoszenia kwalifikacji przez doradców podatkowych, w szczególności przez osoby podejmujące wykonywanie zawodu doradcy podatkowego po okresie niewykonywania zawodu przekraczającym 5 kolejnych lat,
     - **d)** zasady zachowania tajemnicy zawodowej,
     - **e)** zasady oceny prowadzenia działalności gospodarczej, o której mowa w art. 31 ust. 1, z uwzględnieniem zasad ochrony konkurencji,
@@ -817,7 +931,9 @@ source: "isap-pdf"
 
 **Art. 52.**
 
-1. Uchwały Krajowego Zjazdu Doradców Podatkowych są podejmowane zwykłą większością głosów w obecności co najmniej połowy liczby osób uprawnionych do głosowania. przewodniczącego Zjazdu, sekretarza Zjazdu oraz Komisji Zjazdowych.
+1. Uchwały Krajowego Zjazdu Doradców Podatkowych są podejmowane zwykłą większością głosów w obecności co najmniej połowy liczby osób uprawnionych do głosowania.
+
+2. Wybory odbywają się w głosowaniu tajnym, z wyjątkiem wyboru przewodniczącego Zjazdu, sekretarza Zjazdu oraz Komisji Zjazdowych.
 
 **Art. 53.**
 
@@ -858,6 +974,7 @@ source: "isap-pdf"
 - **6)** delegowanie członków Komisji Egzaminacyjnej;
 - **7)** opiniowanie projektów ustaw i rozporządzeń dotyczących prawa podatkowego i przedstawianie wniosków w tym zakresie;
 - **8)** prowadzenie kontroli spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 44 i 44a, oraz sporządzanie sprawozdań w tym zakresie;
+- **9)** wykonywanie innych zadań.
 
 **Art. 57.**
 
@@ -885,7 +1002,9 @@ source: "isap-pdf"
 
 1. Przewodniczący Krajowego Zjazdu Doradców Podatkowych przekazuje ministrowi właściwemu do spraw finansów publicznych statut Krajowej Izby Doradców Podatkowych, w terminie 14 dni od dnia zakończenia Krajowego Zjazdu Doradców Podatkowych.
 
-1a. Minister właściwy do spraw finansów publicznych może wezwać przewodniczącego Krajowej Rady Doradców Podatkowych do przekazania, w terminie 7 dni od dnia doręczenia wezwania, uzasadnienia do uchwały przyjmującej statut. 45 dni od dnia otrzymania statutu decyzję administracyjną o zawieszeniu uchwały przyjmującej statut z powodu jej niezgodności z prawem. Termin ten ulega zawieszeniu na okres od dnia wysłania wezwania, o którym mowa w ust. 1a, do dnia doręczenia uzasadnienia do uchwały przyjmującej statut.
+1a. Minister właściwy do spraw finansów publicznych może wezwać przewodniczącego Krajowej Rady Doradców Podatkowych do przekazania, w terminie 7 dni od dnia doręczenia wezwania, uzasadnienia do uchwały przyjmującej statut.
+
+2. Minister właściwy do spraw finansów publicznych może wydać w terminie 45 dni od dnia otrzymania statutu decyzję administracyjną o zawieszeniu uchwały przyjmującej statut z powodu jej niezgodności z prawem. Termin ten ulega zawieszeniu na okres od dnia wysłania wezwania, o którym mowa w ust. 1a, do dnia doręczenia uzasadnienia do uchwały przyjmującej statut.
 
 3. Minister właściwy do spraw finansów publicznych przekazuje decyzję, o której mowa w ust. 2, Krajowej Radzie Doradców Podatkowych, w terminie 14 dni od dnia jej wydania.
 
@@ -914,6 +1033,7 @@ source: "isap-pdf"
 1. Doradcy podatkowi ponoszą odpowiedzialność dyscyplinarną:
 
 - **1)** za niewykonanie lub nienależyte wykonanie obowiązków zawodowych określonych prawem;
+- **2)** za czyny sprzeczne z zasadami etyki zawodowej.
 
 1a. Doradcy podatkowi ponoszą odpowiedzialność dyscyplinarną również za:
 
@@ -943,7 +1063,9 @@ source: "isap-pdf"
 
 4. Wymierzając karę dyscyplinarną, sąd uwzględnia w szczególności wagę popełnionego czynu oraz sytuację osobistą obwinionego.
 
-5. Wymierzenie kary nagany, kary pieniężnej lub kary zawieszenia prawa wykonywania zawodu pociąga za sobą utratę biernego prawa wyborczego do organów samorządu na okres 4 lat od dnia uprawomocnienia się orzeczenia. publicznej wiadomości w określony sposób, jeżeli uzna to za celowe ze względu na okoliczności sprawy, o ile nie narusza to interesu osób trzecich.
+5. Wymierzenie kary nagany, kary pieniężnej lub kary zawieszenia prawa wykonywania zawodu pociąga za sobą utratę biernego prawa wyborczego do organów samorządu na okres 4 lat od dnia uprawomocnienia się orzeczenia.
+
+6. Sąd może orzec podanie treści prawomocnego orzeczenia dyscyplinarnego do publicznej wiadomości w określony sposób, jeżeli uzna to za celowe ze względu na okoliczności sprawy, o ile nie narusza to interesu osób trzecich.
 
 **Art. 64a.**
 
@@ -972,11 +1094,17 @@ source: "isap-pdf"
 
 4. Sąd pierwszej i drugiej instancji orzeka w składzie trzyosobowym.
 
-5. W składzie orzekającym drugiej instancji nie może brać udziału członek sądu, który brał udział w wydaniu zaskarżonego orzeczenia. Dyscyplinarnego wyznaczają składy orzekające i ich przewodniczących.
+5. W składzie orzekającym drugiej instancji nie może brać udziału członek sądu, który brał udział w wydaniu zaskarżonego orzeczenia.
+
+6. Przewodniczący Sądu Dyscyplinarnego i przewodniczący Wyższego Sądu Dyscyplinarnego wyznaczają składy orzekające i ich przewodniczących.
 
 7. W przypadku nieobecności przewodniczącego Sądu Dyscyplinarnego lub przewodniczącego Wyższego Sądu Dyscyplinarnego jego obowiązki wykonuje wiceprzewodniczący tego sądu.
 
 **Art. 65a.** Postępowanie dyscyplinarne obejmuje:
+
+- **1)** postępowanie wyjaśniające prowadzone przez Rzecznika Dyscyplinarnego;
+- **2)** postępowanie przed Sądem Dyscyplinarnym;
+- **3)** postępowanie przed Wyższym Sądem Dyscyplinarnym.
 
 **Art. 66.**
 
@@ -1000,7 +1128,7 @@ source: "isap-pdf"
 
 2. Rzecznik Dyscyplinarny wszczyna postępowanie wyjaśniające również na żądanie Krajowej Rady Doradców Podatkowych, ministra właściwego do spraw finansów publicznych lub Ministra Sprawiedliwości.
 
-3. Po wszczęciu postępowania wyjaśniającego i zebraniu dowodów uzasadniających podejrzenie popełnienia przewinienia dyscyplinarnego Rzecznik Dyscyplinarny wydaje postanowienie o przedstawieniu zarzutów, ogłasza je wyjaśnień nie jest możliwe.
+3. Po wszczęciu postępowania wyjaśniającego i zebraniu dowodów uzasadniających podejrzenie popełnienia przewinienia dyscyplinarnego Rzecznik Dyscyplinarny wydaje postanowienie o przedstawieniu zarzutów, ogłasza je niezwłocznie obwinionemu i przesłuchuje go, chyba że złożenie przez obwinionego wyjaśnień nie jest możliwe.
 
 4. Rzecznik Dyscyplinarny po przeprowadzeniu czynności, o których mowa w ust. 3, składa do Sądu Dyscyplinarnego wniosek o ukaranie.
 
@@ -1022,7 +1150,7 @@ source: "isap-pdf"
 
 1. Uzasadnienie orzeczenia sądu sporządza się na piśmie z urzędu, w terminie 14 dni od dnia ogłoszenia orzeczenia.
 
-2. Orzeczenie, wraz z uzasadnieniem, doręcza się obwinionemu i Rzecznikowi Dyscyplinarnemu, a w przypadku, o którym mowa w art. 69 ust. 2, także Krajowej publicznych lub Ministrowi Sprawiedliwości.
+2. Orzeczenie, wraz z uzasadnieniem, doręcza się obwinionemu i Rzecznikowi Dyscyplinarnemu, a w przypadku, o którym mowa w art. 69 ust. 2, także Krajowej Radzie Doradców Podatkowych, ministrowi właściwemu do spraw finansów publicznych lub Ministrowi Sprawiedliwości.
 
 **Art. 73.** Od orzeczenia sądu pierwszej instancji przysługuje obwinionemu lub Rzecznikowi Dyscyplinarnemu, a w przypadku, o którym mowa w art. 69 ust. 2, także Krajowej Radzie Doradców Podatkowych, ministrowi właściwemu do spraw finansów publicznych lub Ministrowi Sprawiedliwości – odwołanie do sądu drugiej instancji w terminie 14 dni od dnia doręczenia orzeczenia, wraz z uzasadnieniem.
 
@@ -1041,6 +1169,8 @@ source: "isap-pdf"
 5. W postępowaniu egzekucyjnym, o którym mowa w ust. 4, czynności przewidziane dla wierzyciela podejmuje przewodniczący Krajowej Rady Doradców Podatkowych albo upoważniony przez niego członek Krajowej Rady Doradców Podatkowych.
 
 **Art. 75a.** (uchylony)
+
+**Art. 75b.** (uchylony)
 
 **Art. 75c.** (uchylony)
 
@@ -1080,6 +1210,11 @@ source: "isap-pdf"
 
 **Art. 79.** W sprawach nieuregulowanych w ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy:
 
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420);
+- **2)** rozdziałów I–III ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+
+**Art. 80.** Członkowie Sądu Dyscyplinarnego oraz Wyższego Sądu Dyscyplinarnego w zakresie orzekania są niezawiśli i podlegają tylko ustawom i zasadom etyki zawodowej.
+
 #### Rozdział 10 Odpowiedzialność karna
 
 **Art. 81.**
@@ -1100,11 +1235,19 @@ source: "isap-pdf"
 
 2. Uprawnienie do złożenia wniosku, o którym mowa w ust. 1, przysługuje osobom wymienionym w art. 85 pkt 3 lub 4, jeżeli do dnia wejścia w życie ustawy wykonywały czynności wymienione w art. 2 ust. 1 przez okres co najmniej 3 lat.
 
-3. Wniosek, o którym mowa w ust. 1, powinien zawierać oświadczenie o spełnieniu wymogów wymienionych w art. 6 ust. 1 pkt 1–3, dane określone w art. 7 ust. 3 oraz datę i miejsce wpisu do ewidencji działalności gospodarczej lub datę rozpoczęcia zatrudnienia. dnia otrzymania wniosku wydaje decyzję administracyjną o dokonaniu wpisu na listę doradców podatkowych lub o odmowie jego dokonania.
+3. Wniosek, o którym mowa w ust. 1, powinien zawierać oświadczenie o spełnieniu wymogów wymienionych w art. 6 ust. 1 pkt 1–3, dane określone w art. 7 ust. 3 oraz datę i miejsce wpisu do ewidencji działalności gospodarczej lub datę rozpoczęcia zatrudnienia.
+
+4. Minister właściwy do spraw finansów publicznych w okresie 3 miesięcy od dnia otrzymania wniosku wydaje decyzję administracyjną o dokonaniu wpisu na listę doradców podatkowych lub o odmowie jego dokonania.
 
 5. Do dnia doręczenia decyzji określonej w ust. 4, osoby, o których mowa w ust. 1 lub 2, mogą wykonywać dotychczasową działalność w zakresie doradztwa podatkowego.
 
 **Art. 85.** Osobą uprawnioną do złożenia wniosku, o którym mowa w art. 84 ust. 1, jest osoba wykonująca czynności wymienione w art. 2 ust. 1 jako:
+
+- **1)** osoba fizyczna prowadząca działalność we własnym imieniu i na własny rachunek;
+- **2)** wspólnik spółki cywilnej, jawnej lub komandytowej;
+- **3)** osoba pozostająca w stosunku pracy z podmiotami określonymi w art. 4 ust. 1 pkt 1, jeśli świadczenie pracy polegało na wykonywaniu czynności, o których mowa w art. 2 ust. 1, na rzecz zrzeszonych w nich członków;
+- **4)** osoba pozostająca w stosunku pracy z innymi podmiotami, które do dnia wejścia w życie ustawy prowadziły działalność gospodarczą w zakresie doradztwa podatkowego, jeżeli świadczenie pracy polegało na wykonywaniu czynności, o których mowa w art. 2 ust. 1;
+- **5)** osoba zatrudniona w charakterze pracownika naukowo-dydaktycznego, dydaktycznego lub naukowego w dziedzinach, w których zakres wchodzi prawo podatkowe lub nauka o podatkach, jeżeli okres zatrudnienia wynosi co najmniej 5 lat.
 
 **Art. 86.**
 
@@ -1117,7 +1260,8 @@ source: "isap-pdf"
 4. Krajowa Rada Doradców Podatkowych wydaje decyzję o przekształceniu wpisu warunkowego we wpis na wniosek zainteresowanego doradcy podatkowego, jeżeli:
 
 - **1)** spełni warunek, o którym mowa w art. 6 ust. 1 pkt 7, lub
-- **2)** spełnia warunki, o których mowa w art. 6 ust. 2; okres co najmniej 8 lat poprzedzających złożenie wniosku wykonywał czynności doradztwa podatkowego.
+- **2)** spełnia warunki, o których mowa w art. 6 ust. 2;
+- **3)** spełnia warunki, o których mowa w art. 6 ust. 1 pkt 2–4, oraz udowodni, że przez okres co najmniej 8 lat poprzedzających złożenie wniosku wykonywał czynności doradztwa podatkowego.
 
 **Art. 87.** Do wpisów warunkowych stosuje się odpowiednio przepisy art. 7 ust. 3, art. 8 i 9, art. 10 ust. 1, art. 11, 12 i 44 oraz art. 47 ust. 1 i 2.
 

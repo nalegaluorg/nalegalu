@@ -8,7 +8,7 @@ pos: 412
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027
@@ -24,16 +24,77 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-02-08 |
 | Data wydania | 2023-03-03 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-06-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/412/text.pdf) |
 
-Art. 118–147. (pominięte) Przepisy epizodyczne
+Art. 118–147. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania oraz właściwość organów i jednostek organizacyjnych w zakresie dotyczącym realizacji Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027, zwanego dalej „Planem”, określonym w:
+    - **a)** rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającym przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającym rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem 2021/2115”, oraz w przepisach wydanych na jego podstawie,
+    - **b)** rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm. ), zwanym dalej „rozporządzeniem 2021/2116”, oraz w przepisach wydanych na jego podstawie;
+
+- **2)** warunki i tryb przyznawania oraz wypłaty:
+    - **a)** pomocy finansowej w ramach interwencji objętych Planem oraz w ramach przejściowego wsparcia krajowego, o którym mowa w art. 147 rozporządzenia 2021/2115, zwanych dalej „pomocą”,
+    - **b)** pomocy technicznej, o której mowa w art. 125 rozporządzenia 2021/2115, zwanej dalej „pomocą techniczną” – w zakresie nieokreślonym w przepisach, o których mowa w pkt 1, lub przewidzianych w tych przepisach do określenia przez państwo członkowskie Unii Europejskiej;
+
+- **3)** zasady wdrażania instrumentów finansowych w zakresie nieokreślonym w przepisach, o których mowa w pkt 1, lub przewidzianych do określenia przez państwo członkowskie Unii Europejskiej.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** agencja płatnicza – agencję płatniczą w rozumieniu art. 9 ust. 1 rozporządzenia 2021/2116;
+- **2)** beneficjent – beneficjenta w rozumieniu art. 3 pkt 13 rozporządzenia 2021/2115;
+- **3)** drobna niezgodność – niezgodność, o której mowa w art. 85 ust. 3 akapit pierwszy rozporządzenia 2021/2116;
+- **4)** działka rolna – zwarty obszar gruntu będącego użytkiem rolnym obejmujący nie więcej niż jedną grupę upraw, z tym że zagajnik o krótkiej rotacji stanowi odrębną działkę rolną;
+- **5)** gospodarstwo – gospodarstwo w rozumieniu art. 3 pkt 2 rozporządzenia 2021/2115;
+- **6)** grunty orne – grunty, na których jest lub może być prowadzona produkcja roślinna, w tym grunty ugorowane, inne niż trwałe użytki zielone i uprawy trwałe;
+- **7)** grupa upraw – obszar dający prawo do ubiegania się o daną pomoc, o której mowa w art. 20 pkt 1–4, której wysokość jest ustalana na podstawie tej samej stawki;
+- **8)** instrumenty finansowe – instrumenty finansowe w rozumieniu art. 2 pkt 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm. ), zwanego dalej „rozporządzeniem 2021/1060”;
+- **9)** instytucja pośrednicząca – jednostkę pośredniczącą w rozumieniu art. 3 pkt 16 rozporządzenia 2021/2115;
+- **10)** interwencja – interwencję w rozumieniu art. 3 pkt 3 rozporządzenia 2021/2115;
+- **11)** jednostka certyfikująca – jednostkę certyfikującą w rozumieniu art. 12 ust. 1 akapit pierwszy rozporządzenia 2021/2116;
+- **12)** jednostka gruntu nierolniczego – jednostkę gruntu nierolniczego, o której mowa w art. 68 ust. 2 lit. a rozporządzenia 2021/2116, stanowiącą zwarty obszar gruntu, innego niż użytek rolny, będącego:
+    - **a)** obszarem, o którym mowa w art. 4 ust. 4 lit. c ppkt (iii) rozporządzenia 2021/2115, lub
+    - **b)** obszarem kwalifikującym się do przyznania płatności rolno-środowiskowo-klimatycznych;
+
+- **13)** kara – karę, o której mowa w art. 59 ust. 1 lit. d rozporządzenia 2021/2116;
+- **14)** kara administracyjna – karę administracyjną, o której mowa w art. 84 i art. 87 ust. 1 akapit pierwszy rozporządzenia 2021/2116;
+- **15)** kontrola administracyjna – kontrolę administracyjną, o której mowa w pkt 1.A ppkt (i) załącznika I do rozporządzenia delegowanego Komisji (UE) 2022/127 z dnia 7 grudnia 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/2116 o przepisy dotyczące agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro (Dz. Urz. UE L 20 z 31.01.2022, str. 95), zwanego dalej „rozporządzeniem 2022/127”;
+- **16)** kontrola na miejscu – kontrolę na miejscu, o której mowa w pkt 1.A ppkt (i) załącznika I do rozporządzenia 2022/127;
+- **17)** niezgodność – niezgodność w rozumieniu art. 6 akapit drugi lit. a rozporządzenia delegowanego Komisji (UE) 2022/1172 z dnia 4 maja 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/2116 w odniesieniu do zintegrowanego systemu zarządzania i kontroli we wspólnej polityce rolnej oraz stosowania i obliczania wysokości kar administracyjnych w związku z warunkowością (Dz. Urz. UE L 183 z 08.07.2022, str. 12), zwanego dalej „rozporządzeniem 2022/1172”;
+- **17a)** niezgodność z wymogami warunkowości społecznej – niezgodność z wymogami wskazanymi w załączniku IV do rozporządzenia 2021/2115;
+- **18)** normy – normy, o których mowa w art. 12 ust. 1 rozporządzenia 2021/2115;
+- **19)** obszar zatwierdzony – obszar spełniający warunki przyznania pomocy;
+- **20)** operacja – operację w rozumieniu art. 3 pkt 4 rozporządzenia 2021/2115;
+- **21)** ostateczny odbiorca – ostatecznego odbiorcę w rozumieniu art. 2 pkt 18 rozporządzenia 2021/1060;
+- **22)** podmiot wdrażający – podmiot, któremu zostały delegowane zadania agencji płatniczej;
+- **23)** podmiot wdrażający instrument finansowy – podmiot wdrażający instrument finansowy w rozumieniu art. 2 pkt 22 rozporządzenia 2021/1060;
+- **24)** poważna niezgodność – niezgodność, o której mowa w art. 85 ust. 5 rozporządzenia 2021/2116;
+- **25)** rolnik – rolnika w rozumieniu art. 3 pkt 1 rozporządzenia 2021/2115, którego gospodarstwo jest położone na terytorium Rzeczypospolitej Polskiej;
+- **26)** systemy rolno-leśne – grunty orne i trwałe użytki zielone spełniające warunki przyznania pomocy w ramach interwencji Zakładanie systemów rolno-leśnych;
+- **27)** szkółka – grunty, na których są uprawiane na wolnym powietrzu młode rośliny drzewiaste w celu ich przesadzenia, w tym:
+    - **a)** winorośle,
+    - **b)** drzewa i krzewy owocowe,
+    - **c)** rośliny ozdobne,
+    - **d)** drzewa i krzewy leśne, z wyłączeniem rosnących w lesie przeznaczonych na potrzeby własne gospodarstwa,
+    - **e)** drzewa i krzewy do sadzenia w ogrodach, parkach, na poboczach dróg i na wałach, w tym ich kłącza, rozłogi i młode sadzonki,
+    - **f)** podkładki;
+
+- **28)** trawy lub inne zielne rośliny pastewne – wszystkie rośliny zielne pastewne rosnące tradycyjnie na naturalnych pastwiskach lub łąkach lub których nasiona są zazwyczaj zawarte w mieszankach nasion wysiewanych na pastwiskach lub łąkach;
+- **29)** trwałe użytki zielone – grunty, które są wykorzystywane do uprawy traw lub innych zielnych roślin pastewnych rozsiewających się naturalnie (samosiewnych) lub uprawianych (wysiewanych) i które nie były objęte zmianowaniem upraw przez co najmniej siedem lat, przy czym zaoranie, uprawa lub wysiew innego gatunku należącego do traw lub innych zielnych roślin pastewnych po uprawie lub zaoraniu, z wyłączeniem uprawy traw w siewie czystym, nie powoduje zmiany klasyfikacji danego obszaru jako trwałego użytku zielonego;
+- **30)** uprawy trwałe – grunty, na których jest prowadzona produkcja roślinna, które nie są objęte zmianowaniem upraw przez co najmniej pięć lat i które nie są trwałymi użytkami zielonymi, dające powtarzające się plony, w tym szkółki i zagajniki o krótkiej rotacji;
+- **31)** użytek rolny – grunty będące gruntami ornymi, uprawami trwałymi albo trwałymi użytkami zielonymi również wtedy, gdy tworzą one systemy rolno-leśne;
+- **31a)** wymogi warunkowości społecznej – wymogi wskazane w załączniku IV do rozporządzenia 2021/2115;
+- **32)** wymóg podstawowy – wymóg podstawowy w zakresie zarządzania w rozumieniu art. 12 ust. 4 rozporządzenia 2021/2115;
+- **33)** zagajnik o krótkiej rotacji – grunty wykorzystywane do uprawy drzew z rodzaju:
+    - **a)** wierzba (Salix sp.) o minimalnej obsadzie wynoszącej 10 000 na hektar i maksymalnym cyklu zbioru wynoszącym 8 lat,
+    - **b)** topola (Populus sp.) o minimalnej obsadzie wynoszącej 6500 na hektar i maksymalnym cyklu zbioru wynoszącym 8 lat,
+    - **c)** brzoza (Betula sp.) o minimalnej obsadzie wynoszącej 10 000 na hektar i maksymalnym cyklu zbioru wynoszącym 10 lat – których korzenie lub podstawy łodyg pozostają w glebie po zbiorach, z których w następnym sezonie wyrastają nowe pędy;
+
+- **34)** zwierzę zatwierdzone – zwierzę spełniające warunki przyznania pomocy.
 
 **Art. 3.** Wspieranie rozwoju lokalnego kierowanego przez społeczność, o którym mowa w tytule III w rozdziale II rozporządzenia 2021/1060, w ramach Planu, zwanego dalej „rozwojem lokalnym kierowanym przez społeczność”, odbywa się na zasadach określonych w przepisach o rozwoju lokalnym z udziałem lokalnej społeczności, a w zakresie nieuregulowanym w tych przepisach – na zasadach określonych w niniejszej ustawie.
 
@@ -50,7 +111,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 2. Oprócz zadań określonych w przepisach, o których mowa w art. 1 pkt 1, instytucja zarządzająca:
 
 - **1)** wykonuje nieprzypisane innym organom lub jednostkom organizacyjnym zadania państwa członkowskiego Unii Europejskiej, w tym w zakresie dotyczącym monitorowania i ewaluacji Planu, określone w przepisach, o których mowa w art. 1 pkt 1;
-- **2)** może powoływać, w drodze zarządzenia, organy opiniodawczo-doradcze w sprawach należących do zadań i kompetencji instytucji zarządzającej, w skład pośredniczących, podmiotów wdrażających oraz inne osoby, których udział w pracach takich organów jest uzasadniony zakresem zadań tych organów;
+- **2)** może powoływać, w drodze zarządzenia, organy opiniodawczo-doradcze w sprawach należących do zadań i kompetencji instytucji zarządzającej, w skład których mogą wchodzić przedstawiciele agencji płatniczej, instytucji pośredniczących, podmiotów wdrażających oraz inne osoby, których udział w pracach takich organów jest uzasadniony zakresem zadań tych organów;
 - **3)** wydaje agencji płatniczej, podmiotom wdrażającym, podmiotowi wdrażającemu instrumenty finansowe, instytucjom pośredniczącym, lokalnym grupom działania, zwanym dalej „LGD”, o których mowa w przepisach o rozwoju lokalnym z udziałem lokalnej społeczności, dyrektorowi Centrum Doradztwa Rolniczego z siedzibą w Brwinowie, powiatowym lekarzom weterynarii oraz beneficjentom wytyczne w zakresie realizacji Planu; te wytyczne nie mogą dotyczyć rozstrzygnięcia co do istoty sprawy indywidualnej;
 - **4)** może:
     - **a)** przeprowadzać kontrole agencji płatniczej, podmiotów wdrażających, instytucji pośredniczących i LGD w zakresie zadań realizowanych przez te podmioty związanych z realizacją Planu pod względem zgodności z postanowieniami Planu, przepisami prawa powszechnie obowiązującego, wytycznymi instytucji zarządzającej oraz regulaminami naborów wniosków o przyznanie pomocy; do tych kontroli stosuje się odpowiednio przepisy o kontroli w administracji rządowej określające zasady i tryb przeprowadzania kontroli,
@@ -64,7 +125,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **4)** zobowiązań związanych z przyznaną pomocą lub pomocą techniczną;
 - **5)** kwalifikowalności kosztów;
 - **6)** kontroli na miejscu;
-- **7)** zakresu danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Planu, w tym zawartości rocznego sprawozdania z realizacji celów oraz informacji przekazywanych Komisji Europejskiej, o których mowa w art. 8 rozporządzenia wykonawczego Komisji (UE) 2022/1475 z dnia 6 września 2022 r. ustanawiającego szczegółowe zasady wdrażania do ewaluacji planów strategicznych WPR oraz dostarczania informacji na potrzeby monitorowania i ewaluacji (Dz. Urz. UE L 232 z 07.09.2022, str. 8), a także sposobu przekazywania tych danych i informacji;
+- **7)** zakresu danych niezbędnych do właściwego monitorowania realizacji i ewaluacji Planu, w tym zawartości rocznego sprawozdania z realizacji celów oraz informacji przekazywanych Komisji Europejskiej, o których mowa w art. 8 rozporządzenia wykonawczego Komisji (UE) 2022/1475 z dnia 6 września 2022 r. ustanawiającego szczegółowe zasady wdrażania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 w odniesieniu do ewaluacji planów strategicznych WPR oraz dostarczania informacji na potrzeby monitorowania i ewaluacji (Dz. Urz. UE L 232 z 07.09.2022, str. 8), a także sposobu przekazywania tych danych i informacji;
 - **8)** wysokości limitów środków dostępnych w ramach danej interwencji lub wysokości limitów środków dostępnych w poszczególnych województwach, latach lub rodzajach operacji w ramach danej interwencji;
 - **9)** innych kwestii związanych z realizacją Planu lub zakończeniem jego realizacji.
 
@@ -78,7 +139,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
     - **c)** ogólnopolskim organizacjom jednostek samorządu terytorialnego tworzącym stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego, o której mowa w ustawie z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. z 2024 r. poz. 949),
     - **d)** organizacjom pozarządowym, ich związkom i porozumieniom, których przedstawiciele wchodzą w skład Rady Działalności Pożytku Publicznego, o której mowa w art. 35 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491), które są reprezentowane w składzie komitetu monitorującego, o którym mowa w art. 124 rozporządzenia 2021/2115,
     - **e)** ogólnopolskim lub regionalnym organizacjom pozarządowym, ich związkom i porozumieniom reprezentującym sektory i branże, których dotyczy realizacja Planu i których przedstawiciele wchodzą w skład komitetu monitorującego, o którym mowa w art. 124 rozporządzenia 2021/2115,
-    - **f)** ogólnopolskim lub regionalnym organizacjom pozarządowym, ich związkom i porozumieniom reprezentującym społeczeństwo obywatelskie, o którym mowa w art. 124 rozporządzenia 2021/2115,
+    - **f)** ogólnopolskim lub regionalnym organizacjom pozarządowym, ich związkom i porozumieniom reprezentującym społeczeństwo obywatelskie, których przedstawiciele wchodzą w skład komitetu monitorującego, o którym mowa w art. 124 rozporządzenia 2021/2115,
     - **g)** Głównemu Lekarzowi Weterynarii – w przypadku wytycznych dotyczących zadań realizowanych przez powiatowych lekarzy weterynarii;
     - **h)** Głównemu Inspektorowi Pracy – w przypadku wytycznych dotyczących wymogów warunkowości społecznej.
 
@@ -95,7 +156,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Minister właściwy do spraw rozwoju wsi uznaje krajowe systemy jakości, o których mowa w art. 47 lit. a rozporządzenia delegowanego Komisji (UE) 2022/126 z dnia 7 grudnia 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/2115 o dodatkowe wymogi w odniesieniu do niektórych rodzajów interwencji określonych przez państwa członkowskie w ich planach strategicznych WPR na lata 2023–2027 na podstawie tego rozporządzenia, jak również o przepisy dotyczące współczynnika dotyczącego normy dobrej kultury rolnej zgodnej z ochroną środowiska (GAEC) nr 1 (Dz. Urz. UE L 20 z 31.01.2022, str. 52), zwanego dalej „rozporządzeniem 2022/126”, w drodze decyzji, jeżeli są spełnione kryteria określone w tym przepisie.
 
-2. Minister właściwy do spraw rozwoju wsi zawiesza postępowanie w sprawie o uznanie krajowego systemu jakości, o którym mowa w art. 47 lit. a rozporządzenia 2022/126, z dniem dokonania zgodnie z przepisami wydanymi na podstawie art. 12 ust. 2 ustawy z dnia 12 września 2002 r. o normalizacji (Dz. U. z 2015 r. poz. 1483) notyfikacji Komisji Europejskiej przepisów technicznych obejmujących wymagania w art. 47 lit. a rozporządzenia 2022/126. Do podjęcia zawieszonego postępowania przepis art. 97 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+2. Minister właściwy do spraw rozwoju wsi zawiesza postępowanie w sprawie o uznanie krajowego systemu jakości, o którym mowa w art. 47 lit. a rozporządzenia 2022/126, z dniem dokonania zgodnie z przepisami wydanymi na podstawie art. 12 ust. 2 ustawy z dnia 12 września 2002 r. o normalizacji (Dz. U. z 2015 r. poz. 1483) notyfikacji Komisji Europejskiej przepisów technicznych obejmujących wymagania tego systemu, w tym specyfikację produktu końcowego, o którym mowa w art. 47 lit. a rozporządzenia 2022/126. Do podjęcia zawieszonego postępowania przepis art. 97 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
 3. W przypadku zaprzestania spełniania co najmniej jednego z kryteriów określonych w art. 47 lit. a rozporządzenia 2022/126 minister właściwy do spraw rozwoju wsi cofa, w drodze decyzji, uznanie, o którym mowa w ust. 1.
 
@@ -113,7 +174,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. Oprócz zadań określonych w przepisach, o których mowa w art. 1 pkt 1, agencja płatnicza wykonuje zadania związane z przyznawaniem, wypłatą i zwrotem pomocy oraz pomocy technicznej, w tym przeprowadza kontrole administracyjne oraz kontrole na miejscu. W przypadku gdy o pomoc techniczną ubiega się Agencja, pomoc tę przyznaje instytucja zarządzająca.
 
-3. Zadania agencji płatniczej związane z przyznawaniem, wypłatą i zwrotem pomocy, z wyjątkiem dochodzenia zwrotu kwot pomocy oraz z wyjątkiem 2021/2116, mogą wykonywać, jako zadania delegowane zgodnie z pkt 1.D.1 załącznika I do rozporządzenia 2022/127, samorządy województw jako podmioty wdrażające.
+3. Zadania agencji płatniczej związane z przyznawaniem, wypłatą i zwrotem pomocy, z wyjątkiem dochodzenia zwrotu kwot pomocy oraz z wyjątkiem dokonywania płatności, o którym mowa w art. 9 ust. 1 akapit drugi rozporządzenia 2021/2116, mogą wykonywać, jako zadania delegowane zgodnie z pkt 1.D.1 załącznika I do rozporządzenia 2022/127, samorządy województw jako podmioty wdrażające.
 
 4. Zadania delegowane, o których mowa w ust. 3, obejmują w szczególności:
 
@@ -130,11 +191,13 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 5. Umowa, o której mowa w pkt 1.D.1 ppkt (i) załącznika I do rozporządzenia 2022/127, jest zawierana na formularzu opracowanym przez agencję płatniczą i zawiera postanowienia zapewniające prawidłowe wykonywanie przez podmioty wdrażające delegowanych im zadań agencji płatniczej, w tym określenie:
 
 - **1)** szczegółowego zakresu zadań delegowanych przez agencję płatniczą podmiotowi wdrażającemu oraz sposobu wykonywania tych zadań;
-- **2)** zobowiązań dotyczących: internetowej informacje o umowie, o której mowa w pkt 1.D.1 ppkt (i) załącznika I do rozporządzenia 2022/127, zawartej z podmiotem wdrażającym, w tym:
+- **2)** zobowiązań dotyczących:
     - **a)** przeprowadzania przez agencję płatniczą kontroli wykonywania zadań określonych umową pod względem prawidłowości wykonywania tych zadań,
     - **b)** przeprowadzania przez agencję płatniczą audytu systemu zarządzania i kontroli w podmiocie wdrażającym,
     - **c)** umożliwienia przez podmiot wdrażający przeprowadzenia kontroli, o której mowa w lit. a, i audytu, o którym mowa w lit. b,
     - **d)** przechowywania dokumentów związanych z wykonywaniem zadań określonych umową.
+
+6. Agencja płatnicza podaje do publicznej wiadomości na swojej stronie internetowej informacje o umowie, o której mowa w pkt 1.D.1 ppkt (i) załącznika I do rozporządzenia 2022/127, zawartej z podmiotem wdrażającym, w tym:
 
 - **1)** datę zawarcia umowy,
 - **2)** nazwę podmiotu wdrażającego,
@@ -155,7 +218,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Instytucja zarządzająca, agencja płatnicza, podmioty wdrażające, podmiot wdrażający instrument finansowy, instytucje pośredniczące oraz LGD informują o Planie i rozpowszechniają informacje o Planie, w tym określone w art. 123 ust. 2 lit. c oraz k rozporządzenia 2021/2115.
 
-2. Podmiot właściwy w sprawie o przyznanie pomocy podaje do publicznej wiadomości na swojej stronie internetowej harmonogram, o którym mowa w pkt 1.4 załącznika III do rozporządzenia Komisji (UE) 2022/129 z dnia 21 grudnia 2021 r. ustanawiającego przepisy dotyczące rodzajów interwencji w odniesieniu do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 oraz dotyczące wymogów w zakresie informowania, upowszechniania i widoczności informacji związanych ze wsparciem unijnym i planami strategicznymi WPR (Dz. Urz. UE L 20 z 31.01.2022, str. 197), na kolejny rok, zwany dalej „harmonogramem”, nie później niż do końca danego roku.
+2. Podmiot właściwy w sprawie o przyznanie pomocy podaje do publicznej wiadomości na swojej stronie internetowej harmonogram, o którym mowa w pkt 1.4 załącznika III do rozporządzenia Komisji (UE) 2022/129 z dnia 21 grudnia 2021 r. ustanawiającego przepisy dotyczące rodzajów interwencji w odniesieniu do nasion oleistych, bawełny i produktów ubocznych produkcji wina na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 oraz dotyczące wymogów w zakresie informowania, upowszechniania i widoczności informacji związanych ze wsparciem unijnym i planami strategicznymi WPR (Dz. Urz. UE L 20 z 31.01.2022, str. 197), na kolejny rok, zwany dalej „harmonogramem”, nie później niż do końca danego roku.
 
 3. Podmiot właściwy w sprawie o przyznanie pomocy aktualizuje harmonogram nie rzadziej niż na koniec każdego kwartału.
 
@@ -174,11 +237,13 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 3. Plan, o którym mowa w ust. 2:
 
 - **1)** jest przekazywany do dnia 30 czerwca roku poprzedzającego rok, w którym mają być wykonane badania agrochemiczne ujęte w tym planie;
-- **2)** zawiera: Przepisy ogólne dotyczące pomocy
+- **2)** zawiera:
     - **a)** zakres parametrów, które będą podlegały badaniom agrochemicznym,
     - **b)** metody, zgodnie z którymi zostaną wykonane badania agrochemiczne,
     - **c)** liczbę obiektów pomiarowych, w których zostaną wykonane badania agrochemiczne,
     - **d)** terminy wykonania badań agrochemicznych.
+
+#### Rozdział 3 Przepisy ogólne dotyczące pomocy
 
 **Art. 15.**
 
@@ -194,6 +259,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 4. Agencja, w zakresie niezbędnym do realizacji celu określonego w ust. 2, przetwarza następujące dane uzyskane na podstawie informacji o zakazie, o której mowa w ust. 3:
 
 - **1)** dotyczące osoby fizycznej: imię (imiona), nazwisko, obywatelstwo lub obywatelstwa albo informację o tym, że osoba jest bezpaństwowcem albo jej obywatelstwo jest nieznane, numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL), a w przypadku gdy ta osoba nie ma numeru PESEL – numer i nazwę dokumentu stwierdzającego tożsamość oraz nazwę organu, który wydał dokument;
+- **2)** dotyczące podmiotu zbiorowego:
     - **a)** nazwę (firmę),
     - **b)** numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (numer REGON) – w przypadku gdy ten podmiot ma numer REGON,
     - **c)** numer w Krajowym Rejestrze Sądowym, a w przypadku podmiotu zbiorowego niepodlegającego wpisowi do Krajowego Rejestru Sądowego – nazwę właściwego rejestru oraz numer w tym rejestrze, o ile podmiot zbiorowy podlega wpisowi do tego rejestru;
@@ -216,11 +282,25 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 20.** W drodze decyzji jest przyznawana pomoc w ramach:
 
+- **1)** płatności bezpośrednich:
+    - **a)** podstawowego wsparcia dochodów do celów zrównoważoności, o którym mowa w art. 16 ust. 2 lit. a rozporządzenia 2021/2115, zwanego dalej „podstawowym wsparciem dochodów”,
+    - **b)** uzupełniającego redystrybucyjnego wsparcia dochodów do celów zrównoważoności, o którym mowa w art. 16 ust. 2 lit. b rozporządzenia 2021/2115, zwanego dalej „płatnością redystrybucyjną”,
+    - **c)** uzupełniającego wsparcia dochodów dla młodych rolników, o którym mowa w art. 16 ust. 2 lit. c rozporządzenia 2021/2115, zwanego dalej „płatnością dla młodych rolników”,
+    - **d)** płatności w ramach wsparcia dochodów związanego z produkcją, o którym mowa w art. 16 ust. 3 lit. a rozporządzenia 2021/2115, zwanych dalej „płatnościami związanymi z produkcją”,
+    - **e)** płatności w ramach schematów na rzecz klimatu, środowiska i dobrostanu zwierząt, o których mowa w art. 16 ust. 2 lit. d rozporządzenia 2021/2115, zwanych dalej „płatnościami w ramach ekoschematów”,
+    - **f)** płatności, o której mowa w art. 28 rozporządzenia 2021/2115, zwanej dalej „płatnością dla małych gospodarstw”;
+
+- **2)** przejściowego wsparcia krajowego, o którym mowa w art. 147 rozporządzenia 2021/2115, zwanego dalej „przejściowym wsparciem krajowym”;
+- **3)** płatności w ramach interwencji związanych ze środowiskiem, klimatem i innych zobowiązań w dziedzinie zarządzania, o których mowa w art. 69 lit. a rozporządzenia 2021/2115;
+- **4)** płatności dla obszarów z ograniczeniami naturalnymi lub innymi szczególnymi ograniczeniami, o których mowa w art. 69 lit. b rozporządzenia 2021/2115, zwanych dalej „płatnościami ONW”;
+- **5)** wsparcia inwestycji leśnych lub zadrzewieniowych realizowanych w ramach art. 69 lit. d rozporządzenia 2021/2115;
+- **6)** narzędzi zarządzania ryzykiem w formie wkładów finansowych na rzecz składek w ramach systemów ubezpieczeń, o których mowa w art. 76 ust. 3 lit. a rozporządzenia 2021/2115, zwanych dalej „dopłatami do składek ubezpieczenia”.
+
 **Art. 21.**
 
 1. Przy przyznawaniu pomocy uznaje się, że rolnik prowadzi działalność rolniczą, jeżeli prowadzi działalność polegającą na:
 
-- **1)** wytwarzaniu produktów rolnych przez hodowlę lub chów zwierząt do celów gospodarskich lub uprawę lub hodowlę roślin, gdzie produkty rolne oznaczają Europejskiej (TFUE), z wyjątkiem produktów rybołówstwa, a także uprawie bawełny i zagajników o krótkiej rotacji lub
+- **1)** wytwarzaniu produktów rolnych przez hodowlę lub chów zwierząt do celów gospodarskich lub uprawę lub hodowlę roślin, gdzie produkty rolne oznaczają produkty wymienione w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej (TFUE), z wyjątkiem produktów rybołówstwa, a także uprawie bawełny i zagajników o krótkiej rotacji lub
 - **2)** utrzymywaniu użytków rolnych w stanie, dzięki któremu nadają się one do wypasu lub uprawy bez konieczności podejmowania działań przygotowawczych wykraczających poza użycie zwykłych metod rolniczych i zwykłego sprzętu rolniczego.
 
 2. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, kryteria uznawania użytków rolnych za pozostające w stanie, dzięki któremu nadają się one do wypasu lub uprawy, mając na względzie ramy tych kryteriów określone w art. 4 ust. 2 lit. b rozporządzenia 2021/2115 oraz w podsekcji 4.1. lit. a załącznika I do rozporządzenia wykonawczego Komisji (UE) 2021/2289 z dnia 21 grudnia 2021 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 w sprawie prezentacji treści planów strategicznych WPR oraz w sprawie elektronicznego systemu bezpiecznej wymiany informacji (Dz. Urz. UE L 458 z 22.12.2021, str. 463), a także zabezpieczenie przed nieuzasadnionym przyznawaniem pomocy.
@@ -233,9 +313,29 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. W przypadku gdy grunt lub zwierzę jest przedmiotem współposiadania przez okres, w jakim posiadanie tego gruntu lub tego zwierzęcia jest warunkiem przyznania danej pomocy, pomoc ta przysługuje temu współposiadaczowi, co do którego pozostali współposiadacze wyrazili zgodę na piśmie. Ta zgoda nie jest wymagana, jeżeli miałaby pochodzić od współposiadacza będącego małżonkiem wnioskodawcy.
 
-3. Jeżeli warunkiem przyznania pomocy jest własność gruntu i pomoc jest przyznawana do powierzchni gruntu, a ten grunt stanowi przedmiot współwłasności, pomoc przysługuje temu współwłaścicielowi gruntu, co do którego pozostali współwłaściciele wyrazili zgodę na piśmie. pomocy.
+3. Jeżeli warunkiem przyznania pomocy jest własność gruntu i pomoc jest przyznawana do powierzchni gruntu, a ten grunt stanowi przedmiot współwłasności, pomoc przysługuje temu współwłaścicielowi gruntu, co do którego pozostali współwłaściciele wyrazili zgodę na piśmie.
+
+4. Zgodę, o której mowa w ust. 2 i 3, dołącza się do wniosku o przyznanie pomocy.
 
 **Art. 24.** Jeżeli z przepisów, o których mowa w art. 1 pkt 1, albo z przepisów ustawy wynika, że pomoc jest przyznawana rolnikom aktywnym zawodowo, pomocy tej nie przyznaje się rolnikowi, który zarządza portami lotniczymi, administruje wodociągami lub stałymi terenami sportowymi lub rekreacyjnymi lub świadczy usługi przewozu kolejowego lub usługi w zakresie obrotu nieruchomościami, chyba że:
+
+- **1)** działalność rolnicza jest jego działalnością przeważającą, co wynika z danych zawartych w Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub Krajowym Rejestrze Sądowym lub z dokumentów z Krajowego rejestru urzędowego podmiotów gospodarki narodowej lub
+- **2)** udokumentuje, że:
+    - **a)** jego przychód z działalności rolniczej stanowi co najmniej 1/3 całego jego przychodu lub
+    - **b)** kwota płatności bezpośrednich, jakie mu przysługiwały za rok poprzedzający rok złożenia wniosku o przyznanie pomocy, wynosi co najmniej 5 % całości przychodów z działalności pozarolniczej, lub
+
+- **3)** wysokość otrzymanych przez niego płatności bezpośrednich za rok poprzedzający rok złożenia wniosku o przyznanie pomocy nie przekracza równowartości w złotych kwoty 5000 euro, a w przypadku gdy nie otrzymał płatności bezpośrednich za rok poprzedzający rok złożenia wniosku o przyznanie pomocy – suma:
+    - **a)** iloczynu liczby kwalifikujących się hektarów, o których mowa w art. 4 ust. 4 rozporządzenia 2021/2115, zwanych dalej „kwalifikującymi się hektarami”, które posiada, i średniej krajowej wysokości płatności bezpośrednich za hektar za rok poprzedzający rok złożenia wniosku o przyznanie pomocy oraz
+    - **b)** iloczynu wyrażonej w dużych jednostkach przeliczeniowych (DJP) liczby zwierząt zatwierdzonych do płatności bezpośrednich w roku złożenia wniosku o przyznanie pomocy, które posiada, i średniej krajowej wysokości płatności bezpośrednich do zwierząt w złotych na DJP za rok poprzedzający rok złożenia wniosku o przyznanie pomocy – nie przekracza równowartości w złotych kwoty 5000 euro.
+
+**Art. 25.**
+
+1. Płatności bezpośrednie są przyznawane rolnikowi, jeżeli prowadzi działalność rolniczą, a łączna powierzchnia gruntów objętych obszarem zatwierdzonym do podstawowego wsparcia dochodów będących w posiadaniu tego rolnika jest nie mniejsza niż 1 ha.
+
+2. Pomimo niespełnienia warunku, o którym mowa w ust. 1, płatności bezpośrednie są przyznawane, jeżeli:
+
+- **1)** rolnik spełnia warunki do przyznania płatności związanych z produkcją do zwierząt, o których mowa w art. 29 ust. 1 pkt 2, lub płatności dobrostanowej i złożył wniosek o ich przyznanie oraz
+- **2)** łączna kwota płatności bezpośrednich, jakie miałyby zostać przyznane w danym roku temu rolnikowi, przed zastosowaniem kar, w tym kar administracyjnych, wynosi co najmniej równowartość w złotych kwoty 200 euro.
 
 **Art. 26.**
 
@@ -249,7 +349,11 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 3. W przypadku otrzymania informacji określonej w ust. 2 minister właściwy do spraw rozwoju wsi ogłasza, w drodze obwieszczenia, w dzienniku urzędowym ministra właściwego do spraw rozwoju wsi, listę odmian konopi włóknistych, w odniesieniu do których wystąpiły okoliczności, o których mowa w art. 3 ust. 4 rozporządzenia 2022/126, do uprawy których nie przyznaje się płatności bezpośrednich i uzupełniającej płatności podstawowej, o której mowa w art. 37 ust. 1 pkt 1.
 
-4. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, szczegółowe warunki uznawania gruntów za kwalifikujące się hektary, mając na względzie czynniki przyrodnicze oraz zabezpieczenie przed przyznawaniem płatności bezpośrednich do gruntów, które nie stanowią kwalifikujących się hektarów. powierzchnia gruntów będących w posiadaniu tego rolnika w dniu 31 maja roku, w którym został złożony wniosek o przyznanie tej płatności, wynosi co najmniej 1 ha i nie przekracza 300 ha.
+4. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, szczegółowe warunki uznawania gruntów za kwalifikujące się hektary, mając na względzie czynniki przyrodnicze oraz zabezpieczenie przed przyznawaniem płatności bezpośrednich do gruntów, które nie stanowią kwalifikujących się hektarów.
+
+**Art. 27.**
+
+1. Płatność redystrybucyjna jest przyznawana rolnikowi, jeżeli łączna powierzchnia gruntów będących w posiadaniu tego rolnika w dniu 31 maja roku, w którym został złożony wniosek o przyznanie tej płatności, wynosi co najmniej 1 ha i nie przekracza 300 ha.
 
 2. Płatność redystrybucyjna przysługuje do powierzchni gruntów:
 
@@ -266,7 +370,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **2)** kieruje gospodarstwem, co oznacza, że prowadzi działalność rolniczą w gospodarstwie osobiście, na własny rachunek i we własnym imieniu, ponosi koszty i czerpie korzyści w związku z prowadzeniem tej działalności;
 - **3)** ma co najmniej:
     - **a)** wykształcenie zasadnicze branżowe, średnie branżowe, średnie lub zasadnicze zawodowe w rozumieniu przepisów prawa oświatowego lub
-    - **b)** 3-letni staż pracy w rolnictwie, przy czym za staż pracy w rolnictwie uznaje się okres liczony do dnia złożenia wniosku o przyznanie pomocy, w którym wnioskodawca: – podlegał ubezpieczeniu społecznemu rolników w pełnym zakresie jako rolnik lub domownik lub ubezpieczeniu społecznemu z tytułu prowadzenia działalności rolniczej w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub stanowisku związanym z prowadzeniem produkcji rolnej.
+    - **b)** 3-letni staż pracy w rolnictwie, przy czym za staż pracy w rolnictwie uznaje się okres liczony do dnia złożenia wniosku o przyznanie pomocy, w którym wnioskodawca: – podlegał ubezpieczeniu społecznemu rolników w pełnym zakresie jako rolnik lub domownik lub ubezpieczeniu społecznemu z tytułu prowadzenia działalności rolniczej w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub – był zatrudniony w gospodarstwie na podstawie umowy o pracę na stanowisku związanym z prowadzeniem produkcji rolnej.
 
 2. Płatność dla młodych rolników jest przyznawana do powierzchni gruntów będących w posiadaniu rolnika położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów, jeżeli ten rolnik po raz pierwszy rozpoczyna działalność rolniczą w gospodarstwie, jako kierujący tym gospodarstwem, a gdy rozpoczął już taką działalność rolniczą w gospodarstwie – gdy od rozpoczęcia tej działalności do dnia złożenia pierwszego wniosku o płatność dla młodych rolników upłynęło nie więcej niż 5 lat.
 
@@ -285,7 +389,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 - **1)** płatności do bydła, jeżeli:
     - **a)** posiada samice lub samce tego gatunku, których wiek w dniu 15 maja roku, w którym został złożony wniosek o przyznanie tej płatności, nie przekracza 24 miesięcy,
-    - **b)** liczba zwierząt, o których mowa w lit. a, objętych wnioskiem o przyznanie tej płatności złożonym przez tego rolnika wynosi co najmniej: – 1 sztukę – w przypadku województw: lubelskiego, łódzkiego, małopolskiego, mazowieckiego, podkarpackiego, śląskiego i świętokrzyskiego, -pomorskiego, lubuskiego, opolskiego, podlaskiego, pomorskiego, warmińsko-mazurskiego, wielkopolskiego i zachodniopomorskiego,
+    - **b)** liczba zwierząt, o których mowa w lit. a, objętych wnioskiem o przyznanie tej płatności złożonym przez tego rolnika wynosi co najmniej: – 1 sztukę – w przypadku województw: lubelskiego, łódzkiego, małopolskiego, mazowieckiego, podkarpackiego, śląskiego i świętokrzyskiego, – 3 sztuki – w przypadku województw: dolnośląskiego, kujawsko-pomorskiego, lubuskiego, opolskiego, podlaskiego, pomorskiego, warmińsko-mazurskiego, wielkopolskiego i zachodniopomorskiego,
 
 - **2)** płatności do krów, jeżeli:
     - **a)** posiada samice tego gatunku, których wiek w dniu 15 maja roku, w którym został złożony wniosek o przyznanie tej płatności, przekracza 24 miesiące,
@@ -302,7 +406,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
     - **a)** 10 sztuk – w przypadku owiec,
     - **b)** 5 sztuk – w przypadku kóz.
 
-7. W przypadku gdy dane zwierzę z gatunku bydło domowe lub koza domowa zostało objęte więcej niż jednym wnioskiem o przyznanie płatności związanej z produkcją do zwierząt, tę płatność przyznaje się temu rolnikowi, który złożył jako pierwszy wniosek o przyznanie płatności do tego zwierzęcia, i jeżeli są spełnione pozostałe warunki przyznania tej płatności. wnioskiem o przyznanie płatności związanej z produkcją do zwierząt w ramach systemu, o którym mowa w art. 65 ust. 4 lit. f rozporządzenia 2021/2116, uznaje się wszystkie samice tych gatunków:
+7. W przypadku gdy dane zwierzę z gatunku bydło domowe lub koza domowa zostało objęte więcej niż jednym wnioskiem o przyznanie płatności związanej z produkcją do zwierząt, tę płatność przyznaje się temu rolnikowi, który złożył jako pierwszy wniosek o przyznanie płatności do tego zwierzęcia, i jeżeli są spełnione pozostałe warunki przyznania tej płatności.
+
+8. W przypadku zwierząt gatunków owca domowa i koza domowa za objęte wnioskiem o przyznanie płatności związanej z produkcją do zwierząt w ramach systemu, o którym mowa w art. 65 ust. 4 lit. f rozporządzenia 2021/2116, uznaje się wszystkie samice tych gatunków:
 
 - **1)** spełniające warunek, o którym mowa w ust. 6 pkt 1,
 - **2)** będące w posiadaniu rolnika przez okres, w jakim posiadanie tych zwierząt jest warunkiem przyznania danej płatności – co potwierdzają informacje zawarte w komputerowej bazie danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt.
@@ -311,22 +417,34 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 30.** Płatności w ramach ekoschematów są przyznawane rolnikowi w formie płatności:
 
+- **1)** do obszarów z roślinami miododajnymi;
+- **2)** do rolnictwa węglowego i zarządzania składnikami odżywczymi;
+- **3)** do integrowanej produkcji roślin;
+- **4)** do biologicznej uprawy;
+- **5)** do retencjonowania wody na trwałych użytkach zielonych;
+- **5a)** do gruntów wyłączonych z produkcji;
+- **5b)** do materiału siewnego kategorii elitarny lub materiału siewnego kategorii kwalifikowany;
+- **6)** dobrostanowej.
+
 **Art. 31.** Płatności do obszarów z roślinami miododajnymi są przyznawane do powierzchni gruntów położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów, posiadanych przez rolnika, na których uprawia rośliny miododajne określone w przepisach wydanych na podstawie art. 70 ust. 2 pkt 5.
 
 **Art. 32.**
 
 1. Płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi są przyznawane, jeżeli rolnik:
 
-- **1)** realizuje praktyki służące zwiększeniu sekwestracji węgla w glebie i poprawie zarządzania składnikami odżywczymi, określone w przepisach wydanych na podstawie art. 70 ust. 2 pkt 6, na działkach rolnych położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów, spełniających warunki prawnego w dniu 31 maja roku, w którym został złożony wniosek o przyznanie tych płatności, oraz
+- **1)** realizuje praktyki służące zwiększeniu sekwestracji węgla w glebie i poprawie zarządzania składnikami odżywczymi, określone w przepisach wydanych na podstawie art. 70 ust. 2 pkt 6, na działkach rolnych położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów, spełniających warunki określone w art. 26, posiadanych przez tego rolnika na podstawie tytułu prawnego w dniu 31 maja roku, w którym został złożony wniosek o przyznanie tych płatności, oraz
 - **2)** uzyska minimalną liczbę punktów, określoną w przepisach wydanych na podstawie art. 70 ust. 2 pkt 6, za realizację praktyk, o których mowa w pkt 1, na powierzchni działek rolnych, o których mowa w pkt 1.
 
 2. Płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi są przyznawane do liczby punktów uzyskanych przez rolnika za realizację praktyk, o których mowa w ust. 1 pkt 1, na powierzchni działek rolnych, o których mowa w ust. 1 pkt 1.
 
 **Art. 33.** Płatności do integrowanej produkcji roślin są przyznawane do powierzchni:
 
+- **1)** gruntów określonych w przepisach wydanych na podstawie art. 70 ust. 1, położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów, posiadanych przez rolnika, na których prowadzi integrowaną produkcję roślin, co jest potwierdzone informacjami zawartymi w wykazie, o którym mowa w art. 60 ust. 1 pkt 2a ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630), oraz
+- **2)** (uchylony)
+
 **Art. 34.**
 
-1. Płatności do biologicznej uprawy są przyznawane do powierzchni gruntów położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów, posiadanych przez rolnika, na których ten rolnik przeprowadził, w celu eliminacji danego agrofaga, zabieg ochrony upraw wyłącznie przy użyciu środka ochrony roślin zawierającego mikroorganizmy jako substancje czynne dopuszczonego do obrotu na podstawie wydanego przez ministra właściwego do spraw rolnictwa zezwolenia, o którym mowa w art. 28 ust. 1, art. 30 ust. 1, art. 41, art. 51 lub art. 53 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1107/2009 z dnia 21 października 2009 r. dotyczącego wprowadzania do obrotu środków ochrony roślin i uchylającego dyrektywy Rady 79/117/EWG i 91/414/EWG (Dz. Urz. UE L 309 z 24.11.2009, str. 1, z późn. zm. ), lub pozwolenia na handel równoległy, wymaganiami, o których mowa w art. 31 ust. 1–3, ust. 4 lit. a–d lub lit. f–h tego rozporządzenia.
+1. Płatności do biologicznej uprawy są przyznawane do powierzchni gruntów położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów, posiadanych przez rolnika, na których ten rolnik przeprowadził, w celu eliminacji danego agrofaga, zabieg ochrony upraw wyłącznie przy użyciu środka ochrony roślin zawierającego mikroorganizmy jako substancje czynne dopuszczonego do obrotu na podstawie wydanego przez ministra właściwego do spraw rolnictwa zezwolenia, o którym mowa w art. 28 ust. 1, art. 30 ust. 1, art. 41, art. 51 lub art. 53 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1107/2009 z dnia 21 października 2009 r. dotyczącego wprowadzania do obrotu środków ochrony roślin i uchylającego dyrektywy Rady 79/117/EWG i 91/414/EWG (Dz. Urz. UE L 309 z 24.11.2009, str. 1, z późn. zm. ), lub pozwolenia na handel równoległy, o którym mowa w art. 52 tego rozporządzenia, zgodnie z zawartymi w etykiecie wymaganiami, o których mowa w art. 31 ust. 1–3, ust. 4 lit. a–d lub lit. f–h tego rozporządzenia.
 
 1a. Płatności do biologicznej uprawy są przyznawane również do powierzchni gruntów określonych w przepisach wydanych na podstawie art. 70 ust. 1, położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów, posiadanych przez rolnika, na których ten rolnik zastosował nawozowy produkt mikrobiologiczny w rozumieniu art. 2 ust. 1 pkt 10a ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2024 r. poz. 105) wpisany do wykazu, o którym mowa w art. 25a ust. 1 tej ustawy.
 
@@ -345,7 +463,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Płatności do gruntów wyłączonych z produkcji są przyznawane do powierzchni gruntów ornych będących w posiadaniu rolnika, na których nie jest prowadzona produkcja rolna, położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów.
 
-2. Płatności do gruntów wyłączonych z produkcji są przyznawane do nie więcej niż 4 % powierzchni gruntów ornych posiadanych przez rolnika na podstawie tytułu prawnego w dniu 31 maja roku, w którym został złożony wniosek o przyznanie tych płatności. siewnego kategorii kwalifikowany są przyznawane do powierzchni gruntów ornych określonych w przepisach wydanych na podstawie art. 70 ust. 1, położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów, posiadanych przez rolnika, na których ten rolnik zastosował materiał siewny kategorii elitarny lub materiał siewny kategorii kwalifikowany zbóż, roślin strączkowych oraz ziemniaków.
+2. Płatności do gruntów wyłączonych z produkcji są przyznawane do nie więcej niż 4 % powierzchni gruntów ornych posiadanych przez rolnika na podstawie tytułu prawnego w dniu 31 maja roku, w którym został złożony wniosek o przyznanie tych płatności.
+
+**Art. 35b.** Płatności do materiału siewnego kategorii elitarny lub materiału siewnego kategorii kwalifikowany są przyznawane do powierzchni gruntów ornych określonych w przepisach wydanych na podstawie art. 70 ust. 1, położonych na obszarze zatwierdzonym do podstawowego wsparcia dochodów, posiadanych przez rolnika, na których ten rolnik zastosował materiał siewny kategorii elitarny lub materiał siewny kategorii kwalifikowany zbóż, roślin strączkowych oraz ziemniaków.
 
 **Art. 36.**
 
@@ -364,7 +484,8 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Płatność dla małych gospodarstw jest przyznawana rolnikowi, jeżeli łączna powierzchnia:
 
-- **1)** gruntów objętych obszarem zatwierdzonym do podstawowego wsparcia dochodów będących w posiadaniu tego rolnika wynosi co najmniej 1 ha oraz w którym został złożony wniosek o przyznanie tej płatności, wynosi nie więcej niż 5 ha.
+- **1)** gruntów objętych obszarem zatwierdzonym do podstawowego wsparcia dochodów będących w posiadaniu tego rolnika wynosi co najmniej 1 ha oraz
+- **2)** użytków rolnych będących w posiadaniu tego rolnika w dniu 31 maja roku, w którym został złożony wniosek o przyznanie tej płatności, wynosi nie więcej niż 5 ha.
 
 2. W przypadku stwierdzenia, że rolnik, który złożył wniosek o przyznanie płatności dla małych gospodarstw, nie spełnia warunków przyznania płatności dla małych gospodarstw określonych w ust. 1, kierownik biura powiatowego Agencji odmawia przyznania płatności dla małych gospodarstw oraz rozstrzyga sprawy o przyznanie płatności bezpośrednich, o których mowa w art. 20 pkt 1 lit. a–e, temu rolnikowi.
 
@@ -394,8 +515,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **2)** w dniu 31 grudnia 2018 r. był wpisany do rejestru producentów surowca tytoniowego, o którym mowa w art. 40ha ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 1502);
 - **3)** w 2017 r. lub 2018 r. był stroną umowy zbycia surowca tytoniowego.
 
-2. Płatność niezwiązana do tytoniu może zostać przyznana rolnikowi, który w dniu 31 grudnia 2018 r. nie był wpisany do rejestru producentów surowca tytoniowego, o którym mowa w art. 40ha ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, jeżeli: rejestru, nawet jeżeli osoby te nie pozostawały w tym dniu w związku małżeńskim, albo
+2. Płatność niezwiązana do tytoniu może zostać przyznana rolnikowi, który w dniu 31 grudnia 2018 r. nie był wpisany do rejestru producentów surowca tytoniowego, o którym mowa w art. 40ha ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, jeżeli:
 
+- **1)** małżonek rolnika wnioskującego o tę płatność był w tym dniu wpisany do tego rejestru, nawet jeżeli osoby te nie pozostawały w tym dniu w związku małżeńskim, albo
 - **2)** rolnik lub jego małżonek odziedziczyli gospodarstwo osoby, która w tym dniu była wpisana do tego rejestru, albo
 - **3)** rolnik lub jego małżonek nabyli w całości gospodarstwo osoby, która w tym dniu była wpisana do tego rejestru, a zbywca gospodarstwa wyraził pisemną zgodę na przyznanie płatności niezwiązanej do tytoniu nabywcy gospodarstwa.
 
@@ -409,11 +531,15 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. W przypadku gdy w umowie zbycia surowca tytoniowego, o której mowa w ust. 1, wprowadzono zmiany, które skutkują zmniejszeniem indywidualnej ilości referencyjnej, indywidualną ilość referencyjną stanowi masa surowca tytoniowego określona w umowie zbycia surowca tytoniowego przed wprowadzeniem zmian, o ile rolnik dołączy do wniosku o przyznanie płatności niezwiązanej do tytoniu tę umowę lub kopię tej umowy potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji.
 
-3. W przypadku gdy w 2018 r. do rejestru producentów surowca tytoniowego, o którym mowa w art. 40ha ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, poza rolnikiem wnioskującym o płatność niezwiązaną do tytoniu był niezwiązana do tytoniu przysługuje do sumy indywidualnej ilości referencyjnej.
+3. W przypadku gdy w 2018 r. do rejestru producentów surowca tytoniowego, o którym mowa w art. 40ha ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, poza rolnikiem wnioskującym o płatność niezwiązaną do tytoniu był wpisany małżonek tego rolnika, spadkodawca lub zbywca gospodarstwa, płatność niezwiązana do tytoniu przysługuje do sumy indywidualnej ilości referencyjnej.
 
 4. Indywidualna ilość referencyjna jest określana przez kierownika biura powiatowego Agencji w decyzji w sprawie o przyznanie płatności niezwiązanej do tytoniu.
 
 **Art. 41.** Płatności w ramach interwencji związanych ze środowiskiem, klimatem i innych zobowiązań w dziedzinie zarządzania, o których mowa w art. 69 lit. a rozporządzenia 2021/2115, są przyznawane w formie:
+
+- **1)** płatności rolno-środowiskowo-klimatycznych;
+- **2)** płatności ekologicznych;
+- **3)** premii z tytułu zalesień, zadrzewień lub systemów rolno-leśnych.
 
 **Art. 42.**
 
@@ -437,7 +563,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 - **11)** Kontynuacja zobowiązań rolno-środowiskowo-klimatycznych realizowanych w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie Pakietu
 
-5. Cenne siedliska poza obszarami Natura 2000. ubiegający się o przyznanie tych płatności posiada nie mniej niż 1 ha:
+5. Cenne siedliska poza obszarami Natura 2000.
+
+2. Płatności rolno-środowiskowo-klimatyczne są przyznawane, jeżeli podmiot ubiegający się o przyznanie tych płatności posiada nie mniej niż 1 ha:
 
 - **1)** obszaru przyrodniczego stanowiącego grunt niebędący użytkiem rolnym, na którym występuje co najmniej jedno siedlisko przyrodnicze lub siedlisko lęgowe ptaków z typów określonych w przepisach wydanych na podstawie art. 70 ust. 1, lub użytków rolnych – w przypadku interwencji, o których mowa w ust. 1 pkt 1, 2, 10 i 11;
 - **2)** użytków rolnych – w przypadku interwencji, o których mowa w ust. 1 pkt 3–9.
@@ -456,7 +584,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Płatności ekologiczne są przyznawane rolnikowi:
 
-- **1)** za realizację innych zobowiązań w dziedzinie zarządzania, o których mowa w art. 70 ust. 1 rozporządzenia 2021/2115, na użytkach rolnych, na których 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. z 2023 r. poz. 1235), zwanych dalej „zobowiązaniami ekologicznymi”;
+- **1)** za realizację innych zobowiązań w dziedzinie zarządzania, o których mowa w art. 70 ust. 1 rozporządzenia 2021/2115, na użytkach rolnych, na których prowadzi produkcję ekologiczną w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. z 2023 r. poz. 1235), zwanych dalej „zobowiązaniami ekologicznymi”;
 - **2)** jeżeli posiada nie mniej niż 1 ha użytków rolnych.
 
 2. Płatności ekologiczne przyznaje się do użytków rolnych będących w posiadaniu rolnika, na których prowadzi produkcję ekologiczną w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej i realizuje zobowiązanie ekologiczne. Do przyznawania płatności ekologicznych przepisy art. 26 ust. 1 pkt 2 i 3 stosuje się odpowiednio.
@@ -473,7 +601,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. Zobowiązanie określone w ust. 1 polega na pielęgnacji i utrzymaniu zalesień, zadrzewień lub systemów rolno-leśnych wykonanych w ramach interwencji, o których mowa w art. 46 ust. 1 pkt 1–3, lub zalesień występujących na gruncie wskutek sukcesji naturalnej, lub zadrzewień wykonanych w ramach poddziałania, o którym mowa w art. 3 ust. 1 pkt 8 lit. a ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
 
-2a. Premie z tytułu zalesień są również przyznawane za realizację innych zobowiązań w dziedzinie zarządzania, o których mowa w art. 70 ust. 1 rozporządzenia 2021/2115, będących kontynuacją zobowiązania podjętego w ramach planu rozwoju obszarów wiejskich, o którym mowa w art. 2 ust. 1 ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów Orientacji i Gwarancji Rolnej (Dz. U. z 2023 r. poz. 922), Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 lub Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, na gruntach objętych zobowiązaniem w ramach:
+2a. Premie z tytułu zalesień są również przyznawane za realizację innych zobowiązań w dziedzinie zarządzania, o których mowa w art. 70 ust. 1 rozporządzenia 2021/2115, będących kontynuacją zobowiązania podjętego w ramach planu rozwoju obszarów wiejskich, o którym mowa w art. 2 ust. 1 ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. z 2023 r. poz. 922), Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 lub Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, na gruntach objętych zobowiązaniem w ramach:
 
 - **1)** działania, o którym mowa w art. 1 ust. 1 pkt 4 ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej;
 - **2)** działania, o którym mowa w art. 5 ust. 1 pkt 15 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2023 r. poz. 1105);
@@ -495,6 +623,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 1. Wsparcie inwestycji leśnych lub zadrzewieniowych realizowanych w ramach art. 69 lit. d rozporządzenia 2021/2115 jest przyznawane w ramach interwencji:
 
 - **1)** Zalesianie gruntów rolnych;
+- **2)** Tworzenie zadrzewień śródpolnych;
 - **3)** Zakładanie systemów rolno-leśnych;
 - **4)** Zwiększanie bioróżnorodności lasów prywatnych.
 
@@ -518,15 +647,18 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
     - **g)** płatności rolno-środowiskowo-klimatycznych w ramach interwencji, o których mowa w art. 42 ust. 1 pkt 1–5 i 7–11,
     - **h)** płatności ekologicznych,
     - **i)** premii z tytułu zalesień, zadrzewień lub systemów rolno-leśnych oraz
-    - **j)** płatności ONW – w danym roku kalendarzowym ustala się jako iloczyn powierzchni obszaru zatwierdzonego do danej pomocy i stawki tej pomocy na 1 ha tej powierzchni, płatności dobrostanowych za realizację praktyk, o których mowa w art. 36 ust. 1, w odniesieniu do zwierząt gatunków świnia (Sus scrofa) oraz bydło domowe (Bos taurus), w danym roku kalendarzowym ustala się jako iloczyn liczby punktów uzyskanych przez danego rolnika za realizację praktyk, o których mowa w art. 32 ust. 1 pkt 1, albo praktyk, o których mowa w art. 36 ust. 1, oraz stawki tej płatności na 1 punkt,
+    - **j)** płatności ONW – w danym roku kalendarzowym ustala się jako iloczyn powierzchni obszaru zatwierdzonego do danej pomocy i stawki tej pomocy na 1 ha tej powierzchni,
 
+- **2)** płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi oraz płatności dobrostanowych za realizację praktyk, o których mowa w art. 36 ust. 1, w odniesieniu do zwierząt gatunków świnia (Sus scrofa) oraz bydło domowe (Bos taurus), w danym roku kalendarzowym ustala się jako iloczyn liczby punktów uzyskanych przez danego rolnika za realizację praktyk, o których mowa w art. 32 ust. 1 pkt 1, albo praktyk, o których mowa w art. 36 ust. 1, oraz stawki tej płatności na 1 punkt,
 - **3)** płatności związanych z produkcją, o których mowa w art. 29 ust. 1 pkt 2, płatności dobrostanowych do zwierząt gatunków: owca domowa (Ovis aries), koza domowa (Capra hircus), koń domowy (Equus caballus), kura (Gallus gallus) lub indyk (Meleagris gallopavo) oraz płatności rolno-środowiskowo-klimatycznych w ramach interwencji, o których mowa w art. 42 ust. 1 pkt 6, w danym roku kalendarzowym ustala się jako iloczyn liczby zwierząt zatwierdzonych do danej płatności i stawki tej płatności na 1 sztukę,
 - **4)** wsparcia inwestycji leśnych lub zadrzewieniowych realizowanych w ramach art. 69 lit. d rozporządzenia 2021/2115 w danym roku kalendarzowym ustala się jako iloczyn powierzchni obszaru zatwierdzonego do danej pomocy i stawki tej pomocy na 1 ha tej powierzchni, a w przypadku wykonania ogrodzenia w ramach interwencji, o których mowa w art. 46 ust. 1 pkt 1, 2 i 4, również jako iloczyn długości tego ogrodzenia i stawki pomocy na 1 metr bieżący tego ogrodzenia – po uwzględnieniu kar, w tym kar administracyjnych, oraz zmniejszeń, których konieczność zastosowania wynika z przepisów, o których mowa w art. 1 pkt 1, w szczególności z art. 17 rozporządzenia 2021/2116.
 
 1a. Wysokość płatności dla małych gospodarstw:
 
 - **1)** ustala się jako iloczyn powierzchni obszaru zatwierdzonego do podstawowego wsparcia dochodów i stawki tej płatności na 1 ha wynoszącej równowartość w złotych kwoty 225 euro przeliczonej z zastosowaniem kursu wymiany euro na złote zgodnie z art. 94 ust. 3 rozporządzenia 2021/2116, po uwzględnieniu kar oraz zmniejszeń, których konieczność zastosowania wynika z przepisów, o których mowa w art. 1 pkt 1;
-- **2)** wynosi nie więcej niż równowartość w złotych kwoty 1125 euro przeliczonej z zastosowaniem kursu wymiany euro na złote zgodnie z art. 94 ust. 3 rozporządzenia 2021/2116, po uwzględnieniu kar oraz zmniejszeń, których konieczność zastosowania wynika z przepisów, o których mowa w art. 1 pkt 1. ustala się jako iloczyn indywidualnej ilości referencyjnej i stawki tej płatności za 1 kg surowca tytoniowego.
+- **2)** wynosi nie więcej niż równowartość w złotych kwoty 1125 euro przeliczonej z zastosowaniem kursu wymiany euro na złote zgodnie z art. 94 ust. 3 rozporządzenia 2021/2116, po uwzględnieniu kar oraz zmniejszeń, których konieczność zastosowania wynika z przepisów, o których mowa w art. 1 pkt 1.
+
+2. Wysokość płatności niezwiązanej do tytoniu w danym roku kalendarzowym ustala się jako iloczyn indywidualnej ilości referencyjnej i stawki tej płatności za 1 kg surowca tytoniowego.
 
 **Art. 49.**
 
@@ -539,7 +671,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
     - **a)** służącej zwiększeniu sekwestracji węgla w glebie i poprawie zarządzania składnikami odżywczymi, stosowany przy ustalaniu wysokości płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi,
     - **b)** podwyższającej poziom dobrostanu zwierząt w odniesieniu do zwierząt gatunków świnia (Sus scrofa) i bydło domowe (Bos taurus), stosowany przy ustalaniu wysokości płatności dobrostanowej – mając na względzie kwoty określone w Planie, jakie mogą zostać przeznaczone na te płatności, oraz powierzchnię gruntów lub liczbę zwierząt, które mogą być objęte tymi płatnościami.
 
-3. W przypadku określenia współczynnika, o którym mowa w ust. 2 pkt 2, płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi oraz płatności dobrostanowe w danym roku kalendarzowym ustala się z uwzględnieniem tego współczynnika. spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw finansów publicznych określa stawki poszczególnych płatności bezpośrednich oraz przejściowego wsparcia krajowego w złotych, stosując kurs wymiany euro na złote zgodnie z art. 94 ust. 3 rozporządzenia 2021/2116.
+3. W przypadku określenia współczynnika, o którym mowa w ust. 2 pkt 2, płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi oraz płatności dobrostanowe w danym roku kalendarzowym ustala się z uwzględnieniem tego współczynnika.
+
+4. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw finansów publicznych określa stawki poszczególnych płatności bezpośrednich oraz przejściowego wsparcia krajowego w złotych, stosując kurs wymiany euro na złote zgodnie z art. 94 ust. 3 rozporządzenia 2021/2116.
 
 5. W przypadku gdy minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw finansów publicznych określi w rozporządzeniu, o którym mowa w ust. 1, stawki poszczególnych płatności bezpośrednich lub przejściowego wsparcia krajowego w złotych, stosując kurs wymiany euro na złote zgodnie z art. 94 ust. 3 akapit drugi rozporządzenia 2021/2116, minister właściwy do spraw rozwoju wsi ogłasza ten kurs, w drodze obwieszczenia, w dzienniku urzędowym ministra właściwego do spraw rozwoju wsi w terminie określonym w art. 94 ust. 3 akapit drugi rozporządzenia 2021/2116.
 
@@ -555,8 +689,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. W przypadku nieprzestrzegania przez podmiot ubiegający się o przyznanie pomocy przepisów, o których mowa w art. 1 pkt 1, przepisów ustawy oraz przepisów wydanych na podstawie art. 55 ust. 1, art. 70 i art. 71 dotyczących przyznawania pomocy, o której mowa w art. 20 pkt 1–5, na ten podmiot nakłada się kary, w tym kary administracyjne.
 
-2. Wysokość kary: rozporządzenia 2021/2116, chyba że z przepisów, o których mowa w art. 1 pkt 1, wynika inaczej;
+2. Wysokość kary:
 
+- **1)** jest uzależniona od kryteriów określonych w art. 59 ust. 5 akapit pierwszy rozporządzenia 2021/2116, chyba że z przepisów, o których mowa w art. 1 pkt 1, wynika inaczej;
 - **2)** nie może przekraczać 200 % wysokości wnioskowanej pomocy;
 - **3)** jest określona w przepisach ustawy i w przepisach wydanych na podstawie art. 57a ust. 5, art. 70 i art. 71.
 
@@ -578,11 +713,15 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. W przypadku, o którym mowa w ust. 1, w decyzjach w sprawach o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4:
 
-- **1)** podaje się informację o niezastosowaniu kary administracyjnej; usunięcie stwierdzonych niezgodności oraz ustala się termin realizacji tych działań, nie dłuższy niż do dnia 31 grudnia roku następującego po roku, w którym stwierdzono nieprzestrzeganie norm lub wymogów podstawowych.
+- **1)** podaje się informację o niezastosowaniu kary administracyjnej;
+- **2)** nakazuje się realizację określonych działań naprawczych mających na celu usunięcie stwierdzonych niezgodności oraz ustala się termin realizacji tych działań, nie dłuższy niż do dnia 31 grudnia roku następującego po roku, w którym stwierdzono nieprzestrzeganie norm lub wymogów podstawowych.
 
 3. W przypadku gdy podmiot ubiegający się o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, nie podjął działań naprawczych, o których mowa w ust. 2 pkt 2, w terminie wyznaczonym w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, stosuje się przepisy art. 29 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
 **Art. 54.** W przypadku gdy kary administracyjnej nie stosuje się w związku ze stwierdzeniem drobnej niezgodności, w decyzjach w sprawach o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, podaje się informację o:
+
+- **1)** niezastosowaniu kary administracyjnej oraz
+- **2)** możliwych działaniach naprawczych mających na celu usunięcie stwierdzonych drobnych niezgodności oraz możliwości skorzystania z usług doradczych, o których mowa w art. 15 rozporządzenia 2021/2115, w tym zakresie.
 
 **Art. 55.**
 
@@ -594,7 +733,11 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **2)** wyrażoną w procentach wielkość kary administracyjnej w zależności od liczby punktów przypisanych stwierdzonym niezgodnościom,
 - **3)** przypadki drobnej niezgodności lub poważnej niezgodności lub kryteria uznawania niezgodności za drobną niezgodność lub poważną niezgodność – mając na względzie przeprowadzenie oceny zgodnie z zasadami określonymi w przepisach rozporządzenia 2021/2116 i w przepisach wydanych na podstawie tego rozporządzenia.
 
-3. Minister właściwy do spraw rozwoju wsi ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wykaz wymogów podstawowych z uwzględnieniem przepisów krajowych wdrażających przepisy Unii Europejskiej, w których określono te wymogi podstawowe. 9, o której mowa w załączniku III do rozporządzenia 2021/2115, przekształcił lub zaorał trwałe użytki zielone położone na obszarach Natura 2000 objęte tą normą, jest obowiązany do ponownego przekształcenia tego obszaru w trwały użytek zielony, nie później niż do dnia 31 maja roku następującego po roku złożenia wniosku o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, ale nie później niż do dnia złożenia kolejnego wniosku o przyznanie tej pomocy.
+3. Minister właściwy do spraw rozwoju wsi ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wykaz wymogów podstawowych z uwzględnieniem przepisów krajowych wdrażających przepisy Unii Europejskiej, w których określono te wymogi podstawowe.
+
+**Art. 56.**
+
+1. Rolnik, który wbrew zakazowi określonemu w ramach normy GAEC 9, o której mowa w załączniku III do rozporządzenia 2021/2115, przekształcił lub zaorał trwałe użytki zielone położone na obszarach Natura 2000 objęte tą normą, jest obowiązany do ponownego przekształcenia tego obszaru w trwały użytek zielony, nie później niż do dnia 31 maja roku następującego po roku złożenia wniosku o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, ale nie później niż do dnia złożenia kolejnego wniosku o przyznanie tej pomocy.
 
 2. W przypadku stwierdzenia zmniejszenia udziału trwałych użytków zielonych w powierzchni użytków rolnych w skali całego kraju o więcej niż wielkość określoną w normie GAEC 1, o której mowa w załączniku III do rozporządzenia 2021/2115, w stosunku do wskaźnika referencyjnego, o którym mowa w art. 48 ust. 1 rozporządzenia 2022/126, przekształcanie trwałych użytków zielonych jest niedopuszczalne, a rolnicy, którzy są w posiadaniu gruntów, które powstały w wyniku takiego przekształcenia trwałych użytków zielonych, są obowiązani do przywrócenia określonego odsetka tych przekształconych trwałych użytków zielonych lub ustanowienia innego obszaru odpowiadającego temu odsetkowi jako trwałych użytków zielonych nie później niż do dnia 31 maja roku następującego po roku złożenia wniosku o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, ale nie później niż do dnia złożenia kolejnego wniosku o przyznanie tej pomocy, jeżeli mają do nich zastosowanie przepisy wydane na podstawie ust. 3.
 
@@ -605,7 +748,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 4. Niewykonanie obowiązku, o którym mowa w ust. 1 i 2, stanowi niezgodność.
 
-5. Obowiązek, o którym mowa w ust. 1 i 2, stwierdza, w drodze decyzji, kierownik biura powiatowego Agencji. W tej decyzji określa się powierzchnię trwałych użytków zielonych podlegających przywróceniu lub ustanowieniu na obszarze o takiej samej powierzchni. w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4.
+5. Obowiązek, o którym mowa w ust. 1 i 2, stwierdza, w drodze decyzji, kierownik biura powiatowego Agencji. W tej decyzji określa się powierzchnię trwałych użytków zielonych podlegających przywróceniu lub ustanowieniu na obszarze o takiej samej powierzchni.
+
+6. Obowiązek, o którym mowa w ust. 1 i 2, może być stwierdzony również w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4.
 
 7. Minister właściwy do spraw rozwoju wsi ogłasza do dnia 31 sierpnia każdego roku, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wskaźnik trwałych użytków zielonych, o którym mowa w art. 48 ust. 2 rozporządzenia 2022/126, oraz wielkość, o jaką wskaźnik ten jest większy albo mniejszy od wskaźnika referencyjnego, o którym mowa w art. 48 ust. 1 rozporządzenia 2022/126.
 
@@ -625,7 +770,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 3. W przypadku, o którym mowa w ust. 2, w decyzjach w sprawach o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4:
 
 - **1)** podaje się informację o niezastosowaniu kary administracyjnej;
-- **2)** nakazuje się realizację działań naprawczych mających na celu usunięcie stwierdzonych niezgodności z wymogami warunkowości społecznej oraz ustala się termin realizacji tych działań, nie dłuższy niż do dnia 31 grudnia roku następującego po roku, w którym stwierdzono nieprzestrzeganie wymogów warunkowości społecznej. mowa w art. 20 pkt 1, 3 i 4, nie podjął działań naprawczych, o których mowa w ust. 3 pkt 2, w terminie wyznaczonym w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, stosuje się przepisy art. 29 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+- **2)** nakazuje się realizację działań naprawczych mających na celu usunięcie stwierdzonych niezgodności z wymogami warunkowości społecznej oraz ustala się termin realizacji tych działań, nie dłuższy niż do dnia 31 grudnia roku następującego po roku, w którym stwierdzono nieprzestrzeganie wymogów warunkowości społecznej.
+
+4. W przypadku gdy podmiot ubiegający się o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, nie podjął działań naprawczych, o których mowa w ust. 3 pkt 2, w terminie wyznaczonym w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, stosuje się przepisy art. 29 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
 5. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia:
 
@@ -635,12 +782,17 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 58.** Wniosek o przyznanie pomocy w drodze decyzji poza informacjami określonymi przepisami, o których mowa w art. 1 pkt 1, zawiera:
 
+- **1)** imię i nazwisko albo nazwę podmiotu ubiegającego się o przyznanie pomocy;
+- **2)** numer identyfikacyjny nadany podmiotowi ubiegającemu się o przyznanie pomocy w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+- **3)** inne informacje niezbędne do przyznania pomocy określone w przepisach wydanych na podstawie art. 70 ust. 1 i art. 71 ust. 1.
+
 **Art. 59.**
 
 1. We wniosku o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, z wyjątkiem premii, o której mowa w art. 44 ust. 2a pkt 1, podmiot ubiegający się o przyznanie pomocy wskazuje wszystkie grunty stanowiące użytki rolne i jednostki gruntu nierolniczego będące w jego posiadaniu oraz ich powierzchnię i położenie.
 
-2. W przypadku niewykonania obowiązku określonego w ust. 1, gdy stosunek powierzchni gruntów, o których mowa w ust. 1, niewskazanych we wniosku o przyznanie pomocy do powierzchni gruntów, o których mowa w ust. 1, wskazanych w tym wniosku wynosi: pomocy nakłada się karę w wysokości 1 % danej pomocy;
+2. W przypadku niewykonania obowiązku określonego w ust. 1, gdy stosunek powierzchni gruntów, o których mowa w ust. 1, niewskazanych we wniosku o przyznanie pomocy do powierzchni gruntów, o których mowa w ust. 1, wskazanych w tym wniosku wynosi:
 
+- **1)** nie mniej niż 3 % i nie więcej niż 30 % – na podmiot ubiegający się o przyznanie pomocy nakłada się karę w wysokości 1 % danej pomocy;
 - **2)** więcej niż 30 % i nie więcej niż 60 % – na podmiot ubiegający się o przyznanie pomocy nakłada się karę w wysokości 2 % danej pomocy;
 - **3)** więcej niż 60 % – na podmiot ubiegający się o przyznanie pomocy nakłada się karę w wysokości 3 % danej pomocy.
 
@@ -657,7 +809,8 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 3. Wnioskodawca może całkowicie lub częściowo wycofać wniosek o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, z wyjątkiem premii, o której mowa w art. 44 ust. 2a pkt 1, nie później niż do dnia wydania decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, z tym że wycofanie nie jest możliwe, jeżeli:
 
-- **1)** dotyczy części wniosku, w której wykryto nieprawidłowości; miejscu.
+- **1)** dotyczy części wniosku, w której wykryto nieprawidłowości;
+- **2)** wnioskodawca został poinformowany o zamiarze przeprowadzenia kontroli na miejscu.
 
 4. Termin złożenia wniosku o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, z wyjątkiem premii, o której mowa w art. 44 ust. 2a pkt 1, oraz termin dokonania zmiany albo wycofania tego wniosku nie podlegają przywróceniu.
 
@@ -682,11 +835,14 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 62.**
 
-1. W przypadku gdy wniosek o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, z wyjątkiem premii, o której mowa w art. 44 ust. 2a pkt 1, nie czyni zadość wymaganiom innym niż wskazane w art. 64 § 1 Kodeksu postępowania administracyjnego, kierownik biura powiatowego Agencji niezwłocznie po o stwierdzonych brakach oraz o skutkach ich nieusunięcia w terminie, w jakim można dokonać zmiany wniosku o przyznanie tej pomocy, chyba że ten termin upłynął. Przepisu art. 64 § 2 Kodeksu postępowania administracyjnego nie stosuje się.
+1. W przypadku gdy wniosek o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, z wyjątkiem premii, o której mowa w art. 44 ust. 2a pkt 1, nie czyni zadość wymaganiom innym niż wskazane w art. 64 § 1 Kodeksu postępowania administracyjnego, kierownik biura powiatowego Agencji niezwłocznie po otrzymaniu tego wniosku informuje podmiot ubiegający się o przyznanie pomocy o stwierdzonych brakach oraz o skutkach ich nieusunięcia w terminie, w jakim można dokonać zmiany wniosku o przyznanie tej pomocy, chyba że ten termin upłynął. Przepisu art. 64 § 2 Kodeksu postępowania administracyjnego nie stosuje się.
 
 2. W przypadku nieusunięcia braków, o których mowa w ust. 1, w terminie, w jakim można dokonać zmiany wniosku o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, z wyjątkiem premii, o której mowa w art. 44 ust. 2a pkt 1, wniosek o przyznanie tej pomocy jest rozpatrywany w zakresie, w jakim został prawidłowo wypełniony, oraz na podstawie dołączonych do niego prawidłowych dokumentów.
 
 **Art. 63.** Wniosek o przyznanie wsparcia inwestycji leśnych lub zadrzewieniowych realizowanych w ramach art. 69 lit. d rozporządzenia 2021/2115 składa się:
+
+- **1)** w terminie określonym w przepisach wydanych na podstawie art. 71 ust. 1;
+- **2)** w przypadku ogłoszenia przez Prezesa Agencji naboru wniosków o przyznanie tego wsparcia.
 
 **Art. 64.** Wniosek o przyznanie dopłat do składek ubezpieczenia składa się w terminie określonym w ogłoszeniu o naborze wniosków o ich przyznanie.
 
@@ -701,7 +857,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **1)** zostanie uprawdopodobnione istnienie okoliczności mogących wywołać wątpliwości co do bezstronności właściwego w sprawie kierownika biura powiatowego Agencji lub
 - **2)** może przyczynić się to do przyspieszenia lub uproszczenia postępowania.
 
-4. Z powodu określonego w ust. 3 pkt 1 dyrektor oddziału regionalnego Agencji albo osoba przez niego upoważniona może wyznaczyć do załatwienia sprawy innego kierownika biura powiatowego Agencji, w stosunku do którego ten dyrektor jest organem wyższego stopnia, również na żądanie strony zgłoszone temu dyrektorowi. powiatowego Agencji dyrektor oddziału regionalnego Agencji albo osoba przez niego upoważniona zawiadamia o tym wyznaczeniu stronę.
+4. Z powodu określonego w ust. 3 pkt 1 dyrektor oddziału regionalnego Agencji albo osoba przez niego upoważniona może wyznaczyć do załatwienia sprawy innego kierownika biura powiatowego Agencji, w stosunku do którego ten dyrektor jest organem wyższego stopnia, również na żądanie strony zgłoszone temu dyrektorowi.
+
+5. W przypadku wyznaczenia do załatwienia sprawy innego kierownika biura powiatowego Agencji dyrektor oddziału regionalnego Agencji albo osoba przez niego upoważniona zawiadamia o tym wyznaczeniu stronę.
 
 6. Czynności określone w art. 73 § 1 Kodeksu postępowania administracyjnego mogą być dokonane w lokalu kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę strony lub w systemie teleinformatycznym Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
@@ -718,7 +876,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. Strony oraz inne osoby uczestniczące w postępowaniu, o którym mowa w ust. 1, są obowiązane przedstawiać dowody oraz dawać wyjaśnienia co do okoliczności sprawy zgodnie z prawdą i bez zatajania czegokolwiek. Ciężar udowodnienia faktu spoczywa na osobie, która z tego faktu wywodzi skutki prawne.
 
-3. Zdjęcie wykonane i przesłane przez stronę postępowania, o którym mowa w ust. 1, z wyjątkiem postępowania w sprawie o przyznanie premii, o której mowa w art. 44 ust. 2a pkt 1, z wykorzystaniem aplikacji udostępnionej przez Agencję, w tym zdjęcie geotagowane będące zdjęciem zawierającym informacje o długości i szerokości geograficznej miejsca wykonania tego zdjęcia, ustalonych na podstawie dostępnych systemów pozycjonowania satelitarnego, stanowi dowód tego, co zostało zobrazowane na tym zdjęciu oraz zapisane w pliku zawierającym to zdjęcie. Zdjęcie przesłane z wykorzystaniem tej aplikacji ma charakter dokumentu, o którym mowa w art. 76 § 1 Kodeksu postępowania administracyjnego. administracyjnego, organ, który wydał ostateczną decyzję w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1–5, na mocy której strona nabyła prawo, może ją zmienić, również bez zgody strony, jeżeli nie ograniczy to nabytych przez nią praw.
+3. Zdjęcie wykonane i przesłane przez stronę postępowania, o którym mowa w ust. 1, z wyjątkiem postępowania w sprawie o przyznanie premii, o której mowa w art. 44 ust. 2a pkt 1, z wykorzystaniem aplikacji udostępnionej przez Agencję, w tym zdjęcie geotagowane będące zdjęciem zawierającym informacje o długości i szerokości geograficznej miejsca wykonania tego zdjęcia, ustalonych na podstawie dostępnych systemów pozycjonowania satelitarnego, stanowi dowód tego, co zostało zobrazowane na tym zdjęciu oraz zapisane w pliku zawierającym to zdjęcie. Zdjęcie przesłane z wykorzystaniem tej aplikacji ma charakter dokumentu, o którym mowa w art. 76 § 1 Kodeksu postępowania administracyjnego.
+
+4. W przypadku, o którym mowa w art. 155 Kodeksu postępowania administracyjnego, organ, który wydał ostateczną decyzję w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1–5, na mocy której strona nabyła prawo, może ją zmienić, również bez zgody strony, jeżeli nie ograniczy to nabytych przez nią praw.
 
 **Art. 67.**
 
@@ -737,7 +897,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 6. Kierownik biura powiatowego Agencji udostępnia stronie decyzję, o której mowa w ust. 1, w systemie informatycznym Agencji.
 
-7. Agencja, przekazując na rachunek bankowy strony lub na rachunek strony prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej płatność przyznaną decyzją, o której mowa w ust. 1, w tytule przelewu umieszcza informację, że decyzja ta nie zostanie faktycznie doręczona. i trybie żądania doręczenia decyzji, o której mowa w ust. 1, oraz złożenia odwołania od tej decyzji.
+7. Agencja, przekazując na rachunek bankowy strony lub na rachunek strony prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej płatność przyznaną decyzją, o której mowa w ust. 1, w tytule przelewu umieszcza informację, że decyzja ta nie zostanie faktycznie doręczona.
+
+8. Na stronie internetowej Agencji zamieszcza się informację o możliwości i trybie żądania doręczenia decyzji, o której mowa w ust. 1, oraz złożenia odwołania od tej decyzji.
 
 9. Odwołanie od decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1–5, rozpatruje się w terminie 2 miesięcy od dnia otrzymania odwołania.
 
@@ -753,7 +915,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. Jeżeli kierownik biura powiatowego Agencji, do którego złożono wniosek podlegający łącznemu rozpatrzeniu na podstawie ust. 1, nie jest właściwy miejscowo do załatwienia sprawy na podstawie ust. 1, przekazuje ten wniosek wraz z aktami sprawy kierownikowi biura powiatowego Agencji właściwemu miejscowo do łącznego rozpatrzenia wniosków na podstawie ust. 1.
 
-3. Jeżeli decyzja w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, zostanie wydana przed złożeniem przez wnioskodawcę wniosku o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, w związku z nabyciem gruntów lub zwierząt objętych wnioskiem o przyznanie tej pomocy złożonym przez inny podmiot, dokonuje się zmiany decyzji w sprawie o przyznanie tej pomocy, jeżeli istnieje konieczność nałożenia kar, w tym kar administracyjnych, lub zastosowania zmniejszeń, których konieczność zastosowania wynika z przepisów, o których mowa w art. 1 pkt 1, w szczególności z art. 17 rozporządzenia 2021/2116. o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, dokonuje się bez zgody strony.
+3. Jeżeli decyzja w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, zostanie wydana przed złożeniem przez wnioskodawcę wniosku o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, w związku z nabyciem gruntów lub zwierząt objętych wnioskiem o przyznanie tej pomocy złożonym przez inny podmiot, dokonuje się zmiany decyzji w sprawie o przyznanie tej pomocy, jeżeli istnieje konieczność nałożenia kar, w tym kar administracyjnych, lub zastosowania zmniejszeń, których konieczność zastosowania wynika z przepisów, o których mowa w art. 1 pkt 1, w szczególności z art. 17 rozporządzenia 2021/2116.
+
+4. W przypadku, o którym mowa w ust. 3, zmiany decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, dokonuje się bez zgody strony.
 
 **Art. 70.**
 
@@ -764,7 +928,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **1)** gatunki roślin strączkowych na nasiona oraz roślin pastewnych, do których może zostać przyznana płatność związana z produkcją do powierzchni upraw, mając na względzie ukierunkowanie wsparcia na produkcję roślin wysokobiałkowych gatunków, które są uprawiane w Rzeczypospolitej Polskiej, zapewniając jednocześnie różnorodność gatunkową upraw tych roślin;
 - **2)** wymagania, jakim powinny odpowiadać uprawy roślin strączkowych na nasiona, roślin pastewnych, ziemniaków skrobiowych, buraków cukrowych, pomidorów, chmielu, truskawek, lnu lub konopi włóknistych, do których przysługują płatności związane z produkcją do powierzchni upraw, mając na względzie wymagania agrotechniczne oraz specyfikę upraw poszczególnych roślin;
 - **3)** rejony uprawy chmielu, w których uprawa chmielu uprawnia do uzyskania płatności związanej z produkcją do powierzchni uprawy chmielu, mając na względzie czynniki przyrodnicze, tradycyjnie wyodrębnione rejony uprawy chmielu, podział terytorialny Rzeczypospolitej Polskiej, a także plantacje chmielu założone przed dniem 1 września 2001 r.;
-- **4)** rodzaje roślin, do upraw których może zostać przyznana uzupełniająca płatność podstawowa, a także szczegółowe wymagania, jakie powinny spełniać uprawy poszczególnych roślin lub grunty orne, na których nie jest prowadzona uprawa roślin, do których przysługuje uzupełniająca płatność podstawowa, mając na określone w art. 147 rozporządzenia 2021/2115;
+- **4)** rodzaje roślin, do upraw których może zostać przyznana uzupełniająca płatność podstawowa, a także szczegółowe wymagania, jakie powinny spełniać uprawy poszczególnych roślin lub grunty orne, na których nie jest prowadzona uprawa roślin, do których przysługuje uzupełniająca płatność podstawowa, mając na względzie ramy prawne do przyznawania przejściowego wsparcia krajowego określone w art. 147 rozporządzenia 2021/2115;
 - **5)** listę roślin miododajnych, do uprawy których mogą zostać przyznane płatności do obszarów z roślinami miododajnymi, mając na względzie czynniki przyrodnicze oraz możliwości utworzenia takich obszarów;
 - **6)** praktyki służące zwiększeniu sekwestracji węgla w glebie i poprawie zarządzania składnikami odżywczymi, których realizacja jest warunkiem przyznania płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi, oraz liczbę punktów przyznawanych za realizację tych praktyk, a także minimalną liczbę punktów, która uprawnia do uzyskania tej płatności, mając na względzie czynniki przyrodnicze oraz wpływ poszczególnych praktyk na poprawę zarządzania składnikami odżywczymi;
 - **7)** praktyki podwyższające poziom dobrostanu zwierząt, których realizacja jest warunkiem przyznania płatności dobrostanowych, oraz liczbę punktów przyznawanych za realizację tych praktyk w odniesieniu do zwierząt gatunków świnia (Sus scrofa) oraz bydło domowe (Bos taurus), mając na względzie zapewnienie tym zwierzętom poprawy warunków bytowania oraz wpływ poszczególnych praktyk na poziom dobrostanu zwierząt.
@@ -773,7 +937,11 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, szczegółowe warunki lub szczegółowy tryb przyznawania lub wypłaty poszczególnych rodzajów pomocy, o której mowa w art. 20 pkt 3–6, w tym szczegółowe wymagania, jakie powinny spełniać wnioski o przyznanie tej pomocy, oraz szczegółowe warunki lub szczegółowy tryb przyznawania tej pomocy następcy prawnemu podmiotu ubiegającego się o jej przyznanie lub przejmującemu grunty lub zwierzęta, lub wysokość kar i sposób ich obliczania, z wyjątkiem kar administracyjnych, oraz stawki tej pomocy, mając na względzie zapewnienie prawidłowej realizacji Planu, specyfikę poszczególnych rodzajów pomocy oraz zabezpieczenie przed nieuzasadnionym jej przyznawaniem.
 
-2. Wydając rozporządzenie, o którym mowa w ust. 1, dotyczące pomocy, o której mowa w art. 20 pkt 5, minister właściwy do spraw rozwoju wsi określi kryteria wyboru operacji, mając na względzie cele określone w art. 79 rozporządzenia 2021/2115. uznawania przypadków działania siły wyższej lub wystąpienia nadzwyczajnych okoliczności, o których mowa w art. 3 ust. 1 rozporządzenia 2021/2116.
+2. Wydając rozporządzenie, o którym mowa w ust. 1, dotyczące pomocy, o której mowa w art. 20 pkt 5, minister właściwy do spraw rozwoju wsi określi kryteria wyboru operacji, mając na względzie cele określone w art. 79 rozporządzenia 2021/2115.
+
+**Art. 72.**
+
+1. Kierownik biura powiatowego Agencji jest właściwy w sprawach uznawania przypadków działania siły wyższej lub wystąpienia nadzwyczajnych okoliczności, o których mowa w art. 3 ust. 1 rozporządzenia 2021/2116.
 
 2. Uznanie danego przypadku za działanie siły wyższej lub wystąpienie nadzwyczajnych okoliczności, o których mowa w art. 3 ust. 1 rozporządzenia 2021/2116, albo odmowa takiego uznania następuje w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1–5, na wniosek złożony niezwłocznie po wystąpieniu siły wyższej lub nadzwyczajnych okoliczności, o których mowa w art. 3 ust. 1 rozporządzenia 2021/2116.
 
@@ -787,7 +955,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Kierownik biura powiatowego Agencji jest właściwy w sprawach zwrotu środków, o których mowa w art. 17 ust. 4 rozporządzenia 2021/2116.
 
-2. Zwrot środków, o których mowa w art. 17 ust. 4 rozporządzenia 2021/2116, następuje w drodze decyzji. 2021/2116, kierownik biura powiatowego Agencji może rozstrzygnąć również w decyzji w sprawie o przyznanie płatności bezpośrednich.
+2. Zwrot środków, o których mowa w art. 17 ust. 4 rozporządzenia 2021/2116, następuje w drodze decyzji.
+
+3. O zwrocie środków, o których mowa w art. 17 ust. 4 rozporządzenia 2021/2116, kierownik biura powiatowego Agencji może rozstrzygnąć również w decyzji w sprawie o przyznanie płatności bezpośrednich.
 
 4. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, warunki dokonywania zwrotu środków, o których mowa w art. 17 ust. 4 rozporządzenia 2021/2116, mając na względzie zachowanie wymagań określonych w art. 17 ust. 4 rozporządzenia 2021/2116 oraz zapewnienie równego traktowania rolników.
 
@@ -809,7 +979,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **1)** sporządza się w formatach danych określonych w przepisach wydanych na podstawie art. 18 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557);
 - **2)** zapisuje się na informatycznym nośniku danych w rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-4. Organ właściwy w sprawach, o których mowa w ust. 1 i 2, albo osoba przez niego upoważniona potwierdzają kwalifikowaną pieczęcią elektroniczną organu lub o których mowa w ust. 1 i 2.
+4. Organ właściwy w sprawach, o których mowa w ust. 1 i 2, albo osoba przez niego upoważniona potwierdzają kwalifikowaną pieczęcią elektroniczną organu lub podpisem elektronicznym zgodność z oryginałem elektronicznej kopii dokumentów, o których mowa w ust. 1 i 2.
 
 5. Do postępowania:
 
@@ -824,7 +994,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, wielkość zmniejszenia (redukcji) kwoty danej pomocy, o której mowa w art. 20 pkt 1– 4, jej stawki lub podstawy do ustalenia wysokości tej pomocy, mając na uwadze przekazane przez Prezesa Agencji informacje, o których mowa w ust. 1, oraz zasady ustalania wielkości takich zmniejszeń (redukcji) określone w przepisach, o których mowa w art. 1 pkt 1, dotyczących tej pomocy.
 
-3. Organ właściwy w sprawach o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, na podstawie wielkości określonej w przepisach wydanych na podstawie ust. 2 ustala wielkość zmniejszenia (redukcji) kwoty danej pomocy przyznanej lub przypadającej na dany podmiot uprawniony do uzyskania tej pomocy tej pomocy:
+3. Organ właściwy w sprawach o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, na podstawie wielkości określonej w przepisach wydanych na podstawie ust. 2 ustala wielkość zmniejszenia (redukcji) kwoty danej pomocy przyznanej lub przypadającej na dany podmiot uprawniony do uzyskania tej pomocy albo wielkość zmniejszenia (redukcji) podstawy do przyznania takiemu podmiotowi tej pomocy:
 
 - **1)** z urzędu, bez zgody strony, w drodze decyzji zmieniającej decyzję o przyznaniu danej pomocy – w przypadku gdy pomoc ta została przyznana;
 - **2)** w decyzji o przyznaniu danej pomocy – w przypadku gdy pomoc ta nie została jeszcze przyznana.
@@ -844,7 +1014,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 77.**
 
-1. Należności ustalone w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1–5, lub należności z tytułu zaliczek na poczet tej pomocy nie mogą być przedmiotem umowy przeniesienia wierzytelności na osobę trzecią (przelewu), o której mowa w przepisach ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, z wyjątkiem umowy przelewu należności ustalonych w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1 i 2, lub należności z tytułu właściwym do spraw rolnictwa umowę, o której mowa w art. 9 ust. 1 ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. z 2019 r. poz. 477), zwany dalej „zakładem ubezpieczeń”, zawartej w celu uiszczenia należnych składek z tytułu ubezpieczenia, o którym mowa w art. 10c ust. 1 tej ustawy, zwanego dalej „obowiązkowym ubezpieczeniem upraw rolnych”.
+1. Należności ustalone w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1–5, lub należności z tytułu zaliczek na poczet tej pomocy nie mogą być przedmiotem umowy przeniesienia wierzytelności na osobę trzecią (przelewu), o której mowa w przepisach ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, z wyjątkiem umowy przelewu należności ustalonych w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1 i 2, lub należności z tytułu zaliczek na poczet tej pomocy, na zakład ubezpieczeń, który zawarł z ministrem właściwym do spraw rolnictwa umowę, o której mowa w art. 9 ust. 1 ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. z 2019 r. poz. 477), zwany dalej „zakładem ubezpieczeń”, zawartej w celu uiszczenia należnych składek z tytułu ubezpieczenia, o którym mowa w art. 10c ust. 1 tej ustawy, zwanego dalej „obowiązkowym ubezpieczeniem upraw rolnych”.
 
 2. Kwota należności, o których mowa w ust. 1, będących przedmiotem umowy przelewu na zakład ubezpieczeń jest przekazywana na rachunek bankowy tego zakładu ubezpieczeń:
 
@@ -860,7 +1030,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 3. Wniosek, o którym mowa w ust. 2 pkt 1, składa się w terminie do dnia 30 września za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
-4. Do wniosku, o którym mowa w ust. 2 pkt 1, dołącza się umowę przelewu na zakład ubezpieczeń należności, o których mowa w ust. 1, która zawiera co najmniej wysokość kwoty nieuiszczonych i należnych składek z tytułu obowiązkowego ubezpieczenia upraw rolnych, numer polisy ubezpieczeniowej oraz numer rachunku bankowego zakładu ubezpieczeń. na rachunek bankowy zakładu ubezpieczeń, kierownik biura powiatowego Agencji niezwłocznie informuje, na piśmie utrwalonym w postaci papierowej lub elektronicznej, rolnika, który złożył wniosek, o którym mowa w ust. 2 pkt 1, oraz zakład ubezpieczeń o nieuwzględnieniu tego wniosku oraz o przyczynach jego nieuwzględnienia.
+4. Do wniosku, o którym mowa w ust. 2 pkt 1, dołącza się umowę przelewu na zakład ubezpieczeń należności, o których mowa w ust. 1, która zawiera co najmniej wysokość kwoty nieuiszczonych i należnych składek z tytułu obowiązkowego ubezpieczenia upraw rolnych, numer polisy ubezpieczeniowej oraz numer rachunku bankowego zakładu ubezpieczeń.
+
+5. W przypadku gdy należności, o których mowa w ust. 1, nie zostały przekazane na rachunek bankowy zakładu ubezpieczeń, kierownik biura powiatowego Agencji niezwłocznie informuje, na piśmie utrwalonym w postaci papierowej lub elektronicznej, rolnika, który złożył wniosek, o którym mowa w ust. 2 pkt 1, oraz zakład ubezpieczeń o nieuwzględnieniu tego wniosku oraz o przyczynach jego nieuwzględnienia.
 
 6. Do postępowań wszczętych na wniosek, o którym mowa w ust. 2 pkt 1, nie stosuje się przepisów Kodeksu postępowania administracyjnego, z wyjątkiem art. 14 § 1a, przepisów dotyczących wyłączenia pracowników organu, doręczeń i wezwań, udostępniania akt oraz skarg i wniosków.
 
@@ -868,9 +1040,15 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 79.** W przypadku gdy przepisy, o których mowa w art. 1 pkt 1, dotyczące pomocy, o której mowa w art. 20 pkt 1–5, określają obowiązek podjęcia działań lub umożliwiają realizację uprawnień przez państwo członkowskie Unii Europejskiej lub właściwy organ, lub agencję płatniczą, Rada Ministrów może, w drodze rozporządzenia:
 
+- **1)** wyznaczyć Agencję jako jednostkę organizacyjną wykonującą określone obowiązki lub uprawnienia lub
+- **2)** określić zadania realizowane przez Agencję lub sposób i tryb ich realizacji, lub
+- **3)** określić szczegółowe warunki dotyczące przyznawania pomocy określonej w tych przepisach – mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie pomocy określonej w tych przepisach.
+
 **Art. 80.**
 
-1. Prezes Agencji na podstawie danych dotyczących powierzchni działek rolnych zadeklarowanych we wnioskach o przyznanie płatności bezpośrednich oblicza średnią powierzchnię gruntów rolnych w gospodarstwie w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie w kraju w danym roku. w gospodarstwie w poszczególnych województwach oraz średniej powierzchni gruntów rolnych w gospodarstwie w kraju, o których mowa w ust. 1, w danym roku, Prezes Agencji ogłasza corocznie, w terminie do dnia 30 września danego roku, w dzienniku urzędowym ministra właściwego do spraw rozwoju wsi oraz zamieszcza na stronie internetowej Agencji.
+1. Prezes Agencji na podstawie danych dotyczących powierzchni działek rolnych zadeklarowanych we wnioskach o przyznanie płatności bezpośrednich oblicza średnią powierzchnię gruntów rolnych w gospodarstwie w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie w kraju w danym roku.
+
+2. Informacje o wielkości średniej powierzchni gruntów rolnych w gospodarstwie w poszczególnych województwach oraz średniej powierzchni gruntów rolnych w gospodarstwie w kraju, o których mowa w ust. 1, w danym roku, Prezes Agencji ogłasza corocznie, w terminie do dnia 30 września danego roku, w dzienniku urzędowym ministra właściwego do spraw rozwoju wsi oraz zamieszcza na stronie internetowej Agencji.
 
 #### Rozdział 5 Pomoc przyznawana na podstawie umowy
 
@@ -889,7 +1067,8 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 1. W toku postępowania w sprawie o przyznanie pomocy podmiot właściwy w sprawie o przyznanie pomocy:
 
 - **1)** nie może żądać zaświadczeń ani dokumentów na potwierdzenie faktów lub stanu prawnego, jeżeli są one znane temu podmiotowi z urzędu albo są możliwe do ustalenia przez ten podmiot na podstawie:
-    - **a)** posiadanych przez niego ewidencji, których ten podmiot ma dostęp w drodze elektronicznej na zasadach określonych w niniejszej ustawie lub w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne,
+    - **a)** posiadanych przez niego ewidencji,
+    - **b)** rejestrów publicznych posiadanych przez inne podmioty publiczne, do których ten podmiot ma dostęp w drodze elektronicznej na zasadach określonych w niniejszej ustawie lub w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne,
     - **c)** wymiany informacji z innym podmiotem publicznym na zasadach określonych w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne,
     - **d)** dokumentów urzędowych przedstawionych do wglądu przez podmiot ubiegający się o przyznanie pomocy;
 
@@ -901,7 +1080,11 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Dokumenty i informacje przedstawiane przez podmioty ubiegające się o przyznanie pomocy nie podlegają udostępnieniu przez podmiot właściwy w sprawie o przyznanie pomocy w trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902) oraz ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112).
 
-2. Dokumenty i informacje wytworzone lub przygotowane przez podmiot właściwy w sprawie o przyznanie pomocy w związku z oceną dokumentów i informacji przedstawianych przez podmioty ubiegające się o przyznanie pomocy nie podlegają, do czasu zakończenia postępowań w sprawie o przyznanie pomocy w ramach danego naboru wniosków o przyznanie pomocy, udostępnieniu w trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej oraz ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. w ogłoszeniu o naborze wniosków o przyznanie pomocy.
+2. Dokumenty i informacje wytworzone lub przygotowane przez podmiot właściwy w sprawie o przyznanie pomocy w związku z oceną dokumentów i informacji przedstawianych przez podmioty ubiegające się o przyznanie pomocy nie podlegają, do czasu zakończenia postępowań w sprawie o przyznanie pomocy w ramach danego naboru wniosków o przyznanie pomocy, udostępnieniu w trybie przepisów ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej oraz ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+
+**Art. 85.**
+
+1. Wniosek o przyznanie pomocy składa się w terminie wskazanym w ogłoszeniu o naborze wniosków o przyznanie pomocy.
 
 2. W przypadku gdy zgodnie z Planem beneficjentem pomocy może być wyłącznie jednostka doradztwa rolniczego, wniosek o przyznanie pomocy składa się w terminie wskazanym w skierowanym do tej jednostki zaproszeniu do złożenia wniosku o przyznanie pomocy przekazanym przez podmiot właściwy w sprawie o przyznanie pomocy.
 
@@ -923,7 +1106,8 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **6)** warunki przyznania pomocy;
 - **7)** opis procedury przyznawania pomocy;
 - **8)** termin składania wniosków o przyznanie pomocy;
-- **9)** sposób i formę składania wniosków o przyznanie pomocy, informację o elementach, jakie powinny być zawarte w tych wnioskach, oraz informację o dokumentach niezbędnych do przyznania pomocy; oraz przedstawiania dowodów lub składania wyjaśnień;
+- **9)** sposób i formę składania wniosków o przyznanie pomocy, informację o elementach, jakie powinny być zawarte w tych wnioskach, oraz informację o dokumentach niezbędnych do przyznania pomocy;
+- **10)** reguły dotyczące uzupełniania lub poprawiania wniosków o przyznanie pomocy oraz przedstawiania dowodów lub składania wyjaśnień;
 - **11)** czynności, które powinny zostać dokonane przed zawarciem umowy o przyznaniu pomocy, oraz termin ich dokonania;
 - **12)** formularz umowy o przyznaniu pomocy;
 - **13)** informację o środkach zaskarżenia przysługujących podmiotowi ubiegającemu się o przyznanie pomocy oraz podmiot właściwy do ich rozpatrzenia;
@@ -943,7 +1127,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Podmiot ubiegający się o przyznanie pomocy może uzupełnić lub poprawić wniosek o przyznanie pomocy lub przedstawić dowody, lub złożyć wyjaśnienia zgodnie z regulaminem naboru wniosków o przyznanie pomocy.
 
-2. W przypadku stwierdzenia we wniosku o przyznanie pomocy oczywistej omyłki pisarskiej lub rachunkowej podmiot właściwy w sprawie o przyznanie pomocy pomocy.
+2. W przypadku stwierdzenia we wniosku o przyznanie pomocy oczywistej omyłki pisarskiej lub rachunkowej podmiot właściwy w sprawie o przyznanie pomocy może poprawić ją z urzędu, informując o tym podmiot ubiegający się o przyznanie pomocy.
 
 **Art. 89.**
 
@@ -967,7 +1151,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **2)** wystąpiła istotna zmiana okoliczności powodująca, że wybór operacji do przyznania pomocy nie leży w interesie publicznym, czego nie można było wcześniej przewidzieć, lub
 - **3)** postępowanie w sprawie o przyznanie pomocy jest obarczone niemożliwą do usunięcia wadą prawną.
 
-2. Podmiot właściwy w sprawie o przyznanie pomocy podaje do publicznej wiadomości informację o unieważnieniu naboru wniosków o przyznanie pomocy oraz jego przyczynach na swojej stronie internetowej. naboru wniosków o przyznanie pomocy nie stanowi przeszkody w przyznaniu pomocy na daną operację, jeżeli w wyniku uwzględnienia przez podmiot właściwy w sprawie o przyznanie pomocy na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi skargi na odmowę przyznania pomocy albo uwzględnienia przez sąd administracyjny skargi na odmowę przyznania pomocy przez podmiot właściwy w sprawie o przyznanie pomocy podmiot właściwy w sprawie o przyznanie pomocy ustali, że są spełnione pozostałe warunki przyznania pomocy na tę operację, a kryteria wyboru operacji są spełnione w takim stopniu, że pomoc na tę operację powinna zostać przyznana, oraz jeżeli są dostępne środki w ramach budżetu danej interwencji lub województwa określone w Planie lub wytycznych instytucji zarządzającej.
+2. Podmiot właściwy w sprawie o przyznanie pomocy podaje do publicznej wiadomości informację o unieważnieniu naboru wniosków o przyznanie pomocy oraz jego przyczynach na swojej stronie internetowej.
+
+**Art. 92.** Wyczerpanie środków w ramach limitu określonego w regulaminie naboru wniosków o przyznanie pomocy nie stanowi przeszkody w przyznaniu pomocy na daną operację, jeżeli w wyniku uwzględnienia przez podmiot właściwy w sprawie o przyznanie pomocy na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi skargi na odmowę przyznania pomocy albo uwzględnienia przez sąd administracyjny skargi na odmowę przyznania pomocy przez podmiot właściwy w sprawie o przyznanie pomocy podmiot właściwy w sprawie o przyznanie pomocy ustali, że są spełnione pozostałe warunki przyznania pomocy na tę operację, a kryteria wyboru operacji są spełnione w takim stopniu, że pomoc na tę operację powinna zostać przyznana, oraz jeżeli są dostępne środki w ramach budżetu danej interwencji lub województwa określone w Planie lub wytycznych instytucji zarządzającej.
 
 **Art. 93.**
 
@@ -981,7 +1167,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 - **2)** doszło do unieważnienia naboru wniosków o przyznanie pomocy w przypadkach, o których mowa w art. 91 ust. 1 pkt 2 i 3.
 
-3. Podmiot właściwy w sprawie o przyznanie pomocy może odmówić zawarcia umowy o przyznaniu pomocy, jeżeli zachodzi obawa wyrządzenia szkody w mieniu publicznym w następstwie zawarcia umowy o przyznaniu pomocy, w szczególności gdy w stosunku do podmiotu ubiegającego się o przyznanie pomocy będącego osobą fizyczną lub członka organów zarządzających podmiotu ubiegającego się o przyznanie pomocy niebędącego osobą fizyczną toczy się postępowanie karne lub postępowanie karne skarbowe za przestępstwo składania fałszywych zeznań, przekupstwa, przeciwko mieniu, wiarygodności dokumentów, obrotowi pieniędzmi i papierami wartościowymi, obrotowi gospodarczemu, systemowi bankowemu albo inne związane z wykonywaniem działalności gospodarczej lub popełnione w celu osiągnięcia korzyści majątkowych, w związku z pomocą, która została udzielona ze środków publicznych na realizację operacji temu podmiotowi ubiegającemu się o przyznanie z nim osobowo lub kapitałowo lub członkowi organów zarządzających tego podmiotu.
+3. Podmiot właściwy w sprawie o przyznanie pomocy może odmówić zawarcia umowy o przyznaniu pomocy, jeżeli zachodzi obawa wyrządzenia szkody w mieniu publicznym w następstwie zawarcia umowy o przyznaniu pomocy, w szczególności gdy w stosunku do podmiotu ubiegającego się o przyznanie pomocy będącego osobą fizyczną lub członka organów zarządzających podmiotu ubiegającego się o przyznanie pomocy niebędącego osobą fizyczną toczy się postępowanie karne lub postępowanie karne skarbowe za przestępstwo składania fałszywych zeznań, przekupstwa, przeciwko mieniu, wiarygodności dokumentów, obrotowi pieniędzmi i papierami wartościowymi, obrotowi gospodarczemu, systemowi bankowemu albo inne związane z wykonywaniem działalności gospodarczej lub popełnione w celu osiągnięcia korzyści majątkowych, w związku z pomocą, która została udzielona ze środków publicznych na realizację operacji temu podmiotowi ubiegającemu się o przyznanie pomocy lub członkowi jego organów zarządzających lub podmiotowi powiązanemu z nim osobowo lub kapitałowo lub członkowi organów zarządzających tego podmiotu.
 
 4. Podmiot właściwy w sprawie o przyznanie pomocy informuje podmiot ubiegający się o przyznanie pomocy za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa o przyczynach odmowy zawarcia umowy o przyznaniu pomocy.
 
@@ -1003,7 +1189,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **10)** określenie zabezpieczenia należytego wykonania zobowiązań określonych w umowie, jeżeli jest ono wymagane;
 - **11)** określenie warunków wypłaty i zasad rozliczania środków wyprzedzającego finansowania, o których mowa w art. 16 ustawy z dnia 26 stycznia 2023 r. o finansowaniu wspólnej polityki rolnej na lata 2023–2027 (Dz. U. poz. 332).
 
-2. Przepisu ust. 1 pkt 4 nie stosuje się w przypadku interwencji, o których mowa w art. 42 lit. a oraz art. 77 ust. 1 lit. d rozporządzenia 2021/2115. 23 kwietnia 1964 r. – Kodeks cywilny lub w przypadku, gdy sprzeciwia się przepisom, o których mowa w art. 1 pkt 1.
+2. Przepisu ust. 1 pkt 4 nie stosuje się w przypadku interwencji, o których mowa w art. 42 lit. a oraz art. 77 ust. 1 lit. d rozporządzenia 2021/2115.
+
+3. Umowa jest nieważna w przypadkach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny lub w przypadku, gdy sprzeciwia się przepisom, o których mowa w art. 1 pkt 1.
 
 **Art. 95.** Umowę o przyznaniu pomocy zawiera się za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa na formularzu opracowanym przez agencję płatniczą.
 
@@ -1021,7 +1209,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 4. W przypadku niewykazania przez podmiot, którego oferta została wybrana jako najkorzystniejsza, spełnienia warunków przyznania pomocy:
 
 - **1)** pomocy nie przyznaje się, a podmiot właściwy w sprawie o przyznanie pomocy informuje podmiot, którego oferta została wybrana jako najkorzystniejsza, w formie pisemnej, o odmowie jej przyznania z podaniem przyczyn odmowy;
-- **2)** podmiot właściwy w sprawie o przyznanie pomocy zatrzymuje wadium wraz z odsetkami, a w przypadku wadium wniesionego w formie gwarancji lub zapłaty wadium.
+- **2)** podmiot właściwy w sprawie o przyznanie pomocy zatrzymuje wadium wraz z odsetkami, a w przypadku wadium wniesionego w formie gwarancji lub poręczenia – występuje odpowiednio do gwaranta lub poręczyciela z żądaniem zapłaty wadium.
 
 5. W przypadku, o którym mowa w ust. 4, podmiot właściwy w sprawie o przyznanie pomocy ponownie bada i ocenia oferty złożone przez pozostałych wykonawców w postępowaniu o udzielenie zamówienia publicznego i wybiera najkorzystniejszą z tych ofert albo unieważnia postępowanie. Przepisy ust. 2 pkt 2 oraz ust. 3 i 4 stosuje się.
 
@@ -1033,7 +1221,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 9. Jeżeli mimo wniesienia skargi, o której mowa w ust. 6, przez podmiot, którego oferta została wybrana jako najkorzystniejsza, podmiot właściwy w sprawie o przyznanie pomocy zawrze, przed wydaniem prawomocnego orzeczenia przez sąd administracyjny, umowę o przyznaniu pomocy w okolicznościach określonych w ust. 7, sąd administracyjny, uwzględniając skargę, o której mowa w ust. 6, stwierdza tylko, że ocena spełnienia warunków przyznania pomocy została przeprowadzona w sposób naruszający prawo.
 
-10. W przypadku wniesienia skargi, o której mowa w ust. 6, przez podmiot, którego oferta została wybrana jako najkorzystniejsza, sąd administracyjny rozpoznaje skargę w terminie 30 dni od dnia jej doręczenia. administracyjnego w sprawie, w której została wniesiona skarga, o której mowa w ust. 6, przez podmiot, którego oferta została wybrana jako najkorzystniejsza, Naczelny Sąd Administracyjny rozpoznaje skargę kasacyjną w terminie 30 dni od dnia jej doręczenia.
+10. W przypadku wniesienia skargi, o której mowa w ust. 6, przez podmiot, którego oferta została wybrana jako najkorzystniejsza, sąd administracyjny rozpoznaje skargę w terminie 30 dni od dnia jej doręczenia.
+
+11. W przypadku wniesienia skargi kasacyjnej od wyroku sądu administracyjnego w sprawie, w której została wniesiona skarga, o której mowa w ust. 6, przez podmiot, którego oferta została wybrana jako najkorzystniejsza, Naczelny Sąd Administracyjny rozpoznaje skargę kasacyjną w terminie 30 dni od dnia jej doręczenia.
 
 **Art. 97.**
 
@@ -1043,13 +1233,17 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 98.** Wniosek o płatność, w którym beneficjent:
 
+- **1)** wnioskuje o wypłatę środków finansowych z tytułu pomocy,
+- **2)** przekazuje informacje potwierdzające zrealizowanie operacji lub jej etapu,
+- **3)** przekazuje informacje potwierdzające zrealizowanie lub realizowanie zobowiązań określonych w umowie – oraz dokumenty niezbędne do rozliczenia operacji określone w umowie o przyznaniu pomocy, w szczególności – w przypadku, o którym mowa w art. 83 ust. 1 lit. a rozporządzenia 2021/2115 – w zakresie poniesienia kosztów związanych z realizacją operacji, składa się za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
 **Art. 99.**
 
 1. Beneficjenta wyklucza się z możliwości otrzymania pomocy, jeżeli:
 
 - **1)** otrzymał pomoc na podstawie przedstawionych jako autentyczne dokumentów podrobionych lub przerobionych lub dokumentów potwierdzających nieprawdę lub
 - **2)** nie zwrócił kwoty pomocy podlegającej zwrotowi na podstawie przepisów o Agencji Restrukturyzacji i Modernizacji Rolnictwa wraz z należnymi odsetkami w terminie 60 dni od dnia doręczenia decyzji ustalającej kwotę nienależnie lub nadmiernie pobranych środków publicznych, a w przypadku wniesienia odwołania od tej decyzji – w terminie 14 dni od dnia doręczenia decyzji organu wyższego stopnia, o ile termin ten upływa nie wcześniej niż po upływie 60 dni od dnia doręczenia decyzji, od której wniesiono odwołanie, lub
-- **3)** obowiązek zwrotu kwoty pomocy podlegającej zwrotowi na podstawie przepisów o Agencji Restrukturyzacji i Modernizacji Rolnictwa wystąpił na skutek popełnienia przestępstwa przez beneficjenta albo podmiot upoważniony fizycznymi – osobę uprawnioną do wykonywania w ramach operacji czynności w imieniu beneficjenta, przy czym fakt popełnienia przestępstwa przez te podmioty został potwierdzony prawomocnym wyrokiem sądowym.
+- **3)** obowiązek zwrotu kwoty pomocy podlegającej zwrotowi na podstawie przepisów o Agencji Restrukturyzacji i Modernizacji Rolnictwa wystąpił na skutek popełnienia przestępstwa przez beneficjenta albo podmiot upoważniony do dokonywania wydatków, a w przypadku gdy te podmioty nie są osobami fizycznymi – osobę uprawnioną do wykonywania w ramach operacji czynności w imieniu beneficjenta, przy czym fakt popełnienia przestępstwa przez te podmioty został potwierdzony prawomocnym wyrokiem sądowym.
 
 2. W przypadku potrącenia, o którym mowa w art. 31 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa, w całości kwoty podlegającej zwrotowi, dokonanego przed upływem terminu, o którym mowa w ust. 1 pkt 2, przepisu ust. 1 pkt 2 nie stosuje się.
 
@@ -1070,6 +1264,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **3)** zgodności z warunkami przyznania i wypłaty pomocy i pomocy technicznej;
 - **4)** kwalifikowalności kosztów;
 - **5)** racjonalności kosztów;
+- **6)** prawidłowości poniesionych kosztów i dokonanych płatności;
 - **7)** zrealizowania zobowiązań związanych z przyznaną pomocą i pomocą techniczną.
 
 4. Kontrola na miejscu ma na celu sprawdzenie, czy realizacja operacji jest zgodna z obowiązującymi przepisami prawa powszechnie obowiązującego lub czy zostały spełnione warunki przyznania lub wypłaty pomocy lub pomocy technicznej, lub czy są realizowane lub zostały zrealizowane zobowiązania związane z przyznaną pomocą lub pomocą techniczną, które mogą być sprawdzone podczas kontroli na miejscu i nie były przedmiotem kontroli administracyjnej.
@@ -1086,7 +1281,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Czynności kontrolne w ramach kontroli na miejscu są wykonywane przez kontrolujących posiadających imienne upoważnienie do ich wykonywania wydane przez podmiot kontrolujący będący odpowiednio agencją płatniczą, właściwym podmiotem wdrażającym, właściwą instytucją pośredniczącą lub instytucją zarządzającą.
 
-2. Imienne upoważnienie, o którym mowa w ust. 1, zawiera oznaczenie wydającego upoważnienie oraz numer i datę wystawienia, imię i nazwisko osoby upoważnionej do wykonywania czynności kontrolnych, miejsce wykonywania czynności kontrolnych i ich zakres, okres ważności upoważnienia, podstawę prawną ich wykonania oraz podpis wydającego upoważnienie. wykonywania jest obowiązana okazać imienne upoważnienie podmiotowi kontrolowanemu, jeżeli jest on obecny podczas kontroli na miejscu.
+2. Imienne upoważnienie, o którym mowa w ust. 1, zawiera oznaczenie wydającego upoważnienie oraz numer i datę wystawienia, imię i nazwisko osoby upoważnionej do wykonywania czynności kontrolnych, miejsce wykonywania czynności kontrolnych i ich zakres, okres ważności upoważnienia, podstawę prawną ich wykonania oraz podpis wydającego upoważnienie.
+
+3. Przed przystąpieniem do czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać imienne upoważnienie podmiotowi kontrolowanemu, jeżeli jest on obecny podczas kontroli na miejscu.
 
 4. Czynności kontrolne mogą być zapowiedziane, pod warunkiem że nie koliduje to z ich celem lub skutecznością. Zapowiedzenia dokonuje się z wyprzedzeniem ograniczonym do niezbędnego minimum i nieprzekraczającym 14 dni. W przypadku kontroli na miejscu odnoszących się do zwierząt zapowiedzenie nie przekracza 48 godzin.
 
@@ -1109,7 +1306,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 8. Podmiot kontrolowany jest obowiązany umożliwić przeprowadzenie kontroli na miejscu.
 
-9. Jeżeli podmiot ubiegający się o przyznanie pomocy albo beneficjent uniemożliwił przeprowadzenie kontroli na miejscu, z wyjątkiem przypadków siły miejscu, nie przysługuje odpowiednio temu podmiotowi albo beneficjentowi, a w przypadku gdy kontrola na miejscu dotyczy którejkolwiek pomocy, o której mowa w art. 20 pkt 1–4, nie przysługuje żadna pomoc, o której mowa w art. 20 pkt 1–4.
+9. Jeżeli podmiot ubiegający się o przyznanie pomocy albo beneficjent uniemożliwił przeprowadzenie kontroli na miejscu, z wyjątkiem przypadków siły wyższej lub nadzwyczajnych okoliczności, pomoc, której dotyczy kontrola na miejscu, nie przysługuje odpowiednio temu podmiotowi albo beneficjentowi, a w przypadku gdy kontrola na miejscu dotyczy którejkolwiek pomocy, o której mowa w art. 20 pkt 1–4, nie przysługuje żadna pomoc, o której mowa w art. 20 pkt 1–4.
 
 **Art. 104.**
 
@@ -1132,7 +1329,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 1. Powiatowy lekarz weterynarii właściwy ze względu na miejsce zamieszkania albo siedzibę podmiotu ubiegającego się o przyznanie pomocy jest właściwy do przeprowadzania kontroli administracyjnych i kontroli na miejscu przestrzegania wymogów podstawowych określonych w przepisach wydanych na podstawie ust. 9.
 
-2. Czynności kontrolne w ramach kontroli na miejscu, o której mowa w ust. 1, są wykonywane przez osoby posiadające imienne upoważnienie wydane przez powiatowego lekarza weterynarii właściwego do przeprowadzenia tej kontroli zawierające elementy określone w art. 103 ust. 2. kontroli na miejscu, o której mowa w ust. 1, poza obszarem działania powiatowego lekarza weterynarii, o którym mowa w ust. 1, lekarz ten upoważnia do wykonania tych czynności powiatowego lekarza weterynarii właściwego ze względu na położenie siedziby stada w rozumieniu art. 2 pkt 19 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt. Do czynności kontrolnych przepis ust. 2 stosuje się odpowiednio.
+2. Czynności kontrolne w ramach kontroli na miejscu, o której mowa w ust. 1, są wykonywane przez osoby posiadające imienne upoważnienie wydane przez powiatowego lekarza weterynarii właściwego do przeprowadzenia tej kontroli zawierające elementy określone w art. 103 ust. 2.
+
+3. W przypadku konieczności wykonania czynności kontrolnych w ramach kontroli na miejscu, o której mowa w ust. 1, poza obszarem działania powiatowego lekarza weterynarii, o którym mowa w ust. 1, lekarz ten upoważnia do wykonania tych czynności powiatowego lekarza weterynarii właściwego ze względu na położenie siedziby stada w rozumieniu art. 2 pkt 19 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt. Do czynności kontrolnych przepis ust. 2 stosuje się odpowiednio.
 
 4. W przypadku, o którym mowa w ust. 3, powiatowy lekarz weterynarii właściwy ze względu na położenie siedziby stada:
 
@@ -1148,7 +1347,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 8. Powiatowy lekarz weterynarii, o którym mowa w ust. 1, uwzględniając zgłoszone zastrzeżenia, uzupełnia ustalenia zawarte w raporcie. W przypadku nieuwzględnienia zgłoszonych zastrzeżeń powiatowy lekarz weterynarii, o którym mowa w ust. 1, przekazuje zgłoszone zastrzeżenia, wraz ze swoim stanowiskiem do tych zastrzeżeń i raportem, właściwemu kierownikowi biura powiatowego Agencji.
 
-9. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, wymogi podstawowe wskazane w załączniku III do rozporządzenia 2021/2115, do których kontroli jest właściwy powiatowy lekarz weterynarii, oraz rodzaj przeprowadzania tych kontroli.
+9. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, wymogi podstawowe wskazane w załączniku III do rozporządzenia 2021/2115, do których kontroli jest właściwy powiatowy lekarz weterynarii, oraz rodzaj przeprowadzanych kontroli, mając na względzie zapewnienie prawidłowego przeprowadzania tych kontroli.
 
 **Art. 105a.**
 
@@ -1166,7 +1365,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **1)** imię, nazwisko i adres – w przypadku rolnika będącego osobą fizyczną;
 - **2)** nazwę, numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), siedzibę i adres – w przypadku rolnika niebędącego osobą fizyczną.
 
-4. Nie później niż do dnia 31 października każdego roku Państwowa Inspekcja Pracy przekazuje Agencji informacje o rolnikach, którzy zostali poddani kontroli przestrzegania wymogów warunkowości społecznej, zawierające dane, o których mowa w ust. 3, oraz informacje o niezgodnościach z wymogami warunkowości społecznej stwierdzonych u rolnika, który został poddany kontroli przestrzegania wymogów warunkowości społecznej, niezbędne do ustalenia wysokości kary administracyjnej, jeżeli w wyniku przeprowadzonej kontroli przestrzegania wymogów warunkowości społecznej w decyzjach wymienionych w art. 33 ust. 1 pkt 1 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy wydanych w formie pisemnej orzeczono o nakazach lub zakazach. miejscu innym jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi.
+4. Nie później niż do dnia 31 października każdego roku Państwowa Inspekcja Pracy przekazuje Agencji informacje o rolnikach, którzy zostali poddani kontroli przestrzegania wymogów warunkowości społecznej, zawierające dane, o których mowa w ust. 3, oraz informacje o niezgodnościach z wymogami warunkowości społecznej stwierdzonych u rolnika, który został poddany kontroli przestrzegania wymogów warunkowości społecznej, niezbędne do ustalenia wysokości kary administracyjnej, jeżeli w wyniku przeprowadzonej kontroli przestrzegania wymogów warunkowości społecznej w decyzjach wymienionych w art. 33 ust. 1 pkt 1 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy wydanych w formie pisemnej orzeczono o nakazach lub zakazach.
+
+**Art. 106.** Agencja płatnicza może powierzyć przeprowadzenie kontroli na miejscu innym jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi.
 
 #### Rozdział 7 Instrumenty finansowe
 
@@ -1188,9 +1389,16 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 6. Kontrolom, o których mowa w art. 60 ust. 2 rozporządzenia 2021/2116, oprócz podmiotu wdrażającego instrument finansowy podlegają instytucje finansowe współpracujące z podmiotem wdrażającym instrument finansowy przy wdrażaniu instrumentów finansowych. Do tych kontroli przepisy art. 103 i art. 104 stosuje się odpowiednio.
 
-7. Instytucja zarządzająca może przeprowadzać kontrole podmiotu wdrażającego instrument finansowy, instytucji finansowych współpracujących przy wdrażaniu instrumentów finansowych oraz ostatecznych odbiorców w zakresie wdrażania instrumentów finansowych pod względem zgodności z postanowieniami Planu, oraz umową o finansowaniu. Do tych kontroli przepisy art. 103 i art. 104 stosuje się odpowiednio, z tym że korespondencja między instytucją zarządzającą a podmiotem kontrolowanym jest prowadzona na piśmie utrwalonym w postaci papierowej lub elektronicznej, a do wymiany tej korespondencji nie wykorzystuje się systemu teleinformatycznego Agencji.
+7. Instytucja zarządzająca może przeprowadzać kontrole podmiotu wdrażającego instrument finansowy, instytucji finansowych współpracujących przy wdrażaniu instrumentów finansowych oraz ostatecznych odbiorców w zakresie wdrażania instrumentów finansowych pod względem zgodności z postanowieniami Planu, przepisami prawa powszechnie obowiązującego, wytycznymi instytucji zarządzającej oraz umową o finansowaniu. Do tych kontroli przepisy art. 103 i art. 104 stosuje się odpowiednio, z tym że korespondencja między instytucją zarządzającą a podmiotem kontrolowanym jest prowadzona na piśmie utrwalonym w postaci papierowej lub elektronicznej, a do wymiany tej korespondencji nie wykorzystuje się systemu teleinformatycznego Agencji.
 
 **Art. 108.** Oprócz elementów określonych w załączniku X do rozporządzenia 2021/1060 umowa o finansowaniu zawiera co najmniej:
+
+- **1)** oznaczenie jej przedmiotu i stron;
+- **2)** określenie warunków i terminów wypłaty środków finansowych;
+- **3)** zobowiązanie podmiotu wdrażającego instrument finansowy do poddania się kontroli w zakresie prawidłowości wdrażania instrumentu finansowego w ramach Planu prowadzonej przez instytucję zarządzającą, agencję płatniczą, jednostkę certyfikującą, przedstawicieli Komisji Europejskiej oraz innych instytucji uprawnionych do przeprowadzenia kontroli;
+- **4)** określenie warunków rozwiązania umowy o finansowaniu;
+- **5)** określenie warunków i sposobu zwrotu środków finansowych, o których mowa w art. 103 ust. 6 rozporządzenia 2021/1060;
+- **6)** zobowiązanie podmiotu wdrażającego instrument finansowy do pozyskania informacji, o których mowa w art. 131 rozporządzenia 2021/2115, w tym danych osobowych, od ostatecznych odbiorców i ich udostępniania instytucji zarządzającej, agencji płatniczej oraz podmiotowi wykonującemu ewaluacje, o których mowa w art. 140 rozporządzenia 2021/2115.
 
 **Art. 109.**
 
@@ -1200,7 +1408,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 110.**
 
-1. Środki finansowe przypisane do wkładu finansowego z Planu oraz odsetki i inne przychody, a także zyski powstałe na skutek obrotu tymi środkami po wykonaniu zobowiązań wynikających z umowy o finansowaniu podlegają zwrotowi na rachunek wskazany przez instytucję zarządzającą. zysków, o których mowa w ust. 1, jest minister właściwy do spraw rozwoju wsi.
+1. Środki finansowe przypisane do wkładu finansowego z Planu oraz odsetki i inne przychody, a także zyski powstałe na skutek obrotu tymi środkami po wykonaniu zobowiązań wynikających z umowy o finansowaniu podlegają zwrotowi na rachunek wskazany przez instytucję zarządzającą.
+
+2. Dysponentem środków finansowych, odsetek i innych przychodów, a także zysków, o których mowa w ust. 1, jest minister właściwy do spraw rozwoju wsi.
 
 3. Środki finansowe, odsetki i inne przychody, a także zyski, o których mowa w ust. 1, nie stanowią dochodu dysponenta ani podmiotów, którym mogą być przekazywane.
 
@@ -1216,7 +1426,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **2)** do wysokości limitu środków stanowiącego równowartość w złotych określonej w Planie kwoty środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich przeznaczonych na pomoc techniczną powiększonej o wysokość kwoty krajowych środków publicznych przeznaczonych na współfinansowanie pomocy technicznej;
 - **3)** na podstawie umowy o przyznaniu pomocy technicznej.
 
-2. Do przyznawania i wypłaty pomocy technicznej stosuje się odpowiednio przepisy ustawy dotyczące przyznawania i wypłaty pomocy na podstawie umowy. Krajowa sieć obszarów wiejskich+
+2. Do przyznawania i wypłaty pomocy technicznej stosuje się odpowiednio przepisy ustawy dotyczące przyznawania i wypłaty pomocy na podstawie umowy.
+
+#### Rozdział 9 Krajowa sieć obszarów wiejskich+
 
 **Art. 112.**
 
@@ -1238,7 +1450,8 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 4. W ramach zapewnienia funkcjonowania KSOW+ instytucja zarządzająca może również:
 
-- **1)** przeprowadzać kontrole jednostek, o których mowa w ust. 1 pkt 2–4, w zakresie funkcjonowania KSOW+ pod względem zgodności z postanowieniami Planu, przepisami prawa powszechnie obowiązującego, wytycznymi instytucji zarządzającej, planem działania oraz strategią komunikacji; do tych kontroli stosuje się odpowiednio przepisy o kontroli w administracji rządowej określające zasady i tryb przeprowadzania kontroli; informacji w zakresie funkcjonowania KSOW+ i udostępniania dokumentów w tym zakresie.
+- **1)** przeprowadzać kontrole jednostek, o których mowa w ust. 1 pkt 2–4, w zakresie funkcjonowania KSOW+ pod względem zgodności z postanowieniami Planu, przepisami prawa powszechnie obowiązującego, wytycznymi instytucji zarządzającej, planem działania oraz strategią komunikacji; do tych kontroli stosuje się odpowiednio przepisy o kontroli w administracji rządowej określające zasady i tryb przeprowadzania kontroli;
+- **2)** żądać przedstawienia przez jednostki, o których mowa w ust. 1 pkt 2–4, informacji w zakresie funkcjonowania KSOW+ i udostępniania dokumentów w tym zakresie.
 
 5. Do zadań jednostki centralnej należy zapewnienie funkcjonowania KSOW+ na poziomie krajowym oraz, w zakresie niezastrzeżonym dla jednostek regionalnych, na poziomie wojewódzkim.
 
@@ -1254,7 +1467,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **8)** może wspierać tworzenie innych sieci tematycznych niż wymienione w pkt 7, a w przypadku ich utworzenia – koordynuje i wspiera realizację ich zadań;
 - **9)** ułatwia współpracę i przepływ informacji między instytucją zarządzającą, jednostkami, o których mowa w ust. 1 pkt 2–4, partnerami KSOW+ oraz innymi podmiotami aktywnie działającymi na rzecz rozwoju obszarów wiejskich i rolnictwa;
 - **10)** współpracuje z europejską siecią, o której mowa w art. 126 ust. 2 rozporządzenia 2021/2115;
-- **11)** realizuje operacje w ramach planu operacyjnego na poziomie krajowym. w województwie oraz realizacja operacji w ramach planu operacyjnego, przy czym samorządy województw realizują zadania związane z rozwojem obszarów wiejskich.
+- **11)** realizuje operacje w ramach planu operacyjnego na poziomie krajowym.
+
+7. Do zadań jednostki regionalnej należy zapewnienie funkcjonowania KSOW+ w województwie oraz realizacja operacji w ramach planu operacyjnego, przy czym samorządy województw realizują zadania związane z rozwojem obszarów wiejskich.
 
 8. W ramach zapewnienia funkcjonowania KSOW+ w województwie, o którym mowa w ust. 7, jednostka regionalna w szczególności:
 
@@ -1270,7 +1485,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 9. Samorząd województwa może powierzyć wykonywanie zadań jednostki regionalnej innemu podmiotowi na podstawie umowy.
 
-10. Agencja przekazuje instytucji zarządzającej oraz jednostce centralnej, na ich wniosek, dane, w tym dane osobowe, niezbędne do realizacji zadania, o którym mowa w art. 126 ust. 4 lit. a rozporządzenia 2021/2115. Usługi doradcze dla rolników i transfer wiedzy
+10. Agencja przekazuje instytucji zarządzającej oraz jednostce centralnej, na ich wniosek, dane, w tym dane osobowe, niezbędne do realizacji zadania, o którym mowa w art. 126 ust. 4 lit. a rozporządzenia 2021/2115.
+
+#### Rozdział 10 Usługi doradcze dla rolników i transfer wiedzy
 
 **Art. 113.**
 
@@ -1290,7 +1507,8 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **2)** złożyła oświadczenie o zobowiązaniu do bezstronnego świadczenia usług doradczych oraz niepozostawania w konflikcie interesów, o którym mowa w art. 15 ust. 3 rozporządzenia 2021/2115;
 - **3)** ukończyła szkolenie podstawowe w danym zakresie doradzania przeprowadzone przez CDR;
 - **4)** zdała egzamin podstawowy z danego zakresu doradzania przeprowadzony przez dyrektora CDR;
-- **5)** ma: w doradzaniu z zakresu rolnictwa – w przypadku doradców rolniczych,
+- **5)** ma:
+    - **a)** wykształcenie wyższe rolnicze i co najmniej 6 miesięcy doświadczenia w doradzaniu z zakresu rolnictwa – w przypadku doradców rolniczych,
     - **b)** wykształcenie wyższe przyrodnicze – w przypadku ekspertów przyrodniczych.
 
 7. Uznaje się, że osoba ubiegająca się o wpis na listę:
@@ -1312,7 +1530,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **1)** imię i nazwisko;
 - **2)** miejsce zatrudnienia lub informację o prowadzeniu działalności gospodarczej;
 - **3)** miejsce świadczenia usług doradczych z podaniem co najmniej województwa lub powiatu;
-- **4)** adres do korespondencji, numer telefonu i adres poczty elektronicznej, związane z działalnością doradczą. niezwłocznego zgłoszenia dyrektorowi CDR każdej zmiany danych wymienionych w ust. 8.
+- **4)** adres do korespondencji, numer telefonu i adres poczty elektronicznej, związane z działalnością doradczą.
+
+9. Osoba wpisana na listę, o której mowa w ust. 1 i 2, jest obowiązana do niezwłocznego zgłoszenia dyrektorowi CDR każdej zmiany danych wymienionych w ust. 8.
 
 10. Dyrektor CDR niezwłocznie po otrzymaniu zgłoszenia, o którym mowa w ust. 9, aktualizuje dane wymienione w ust. 8 na listach, o których mowa w ust. 1 i 2.
 
@@ -1332,7 +1552,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 5. Program szkolenia podstawowego obejmuje co najmniej zapoznanie się z metodyką doradzania opracowaną przez CDR i zatwierdzoną przez ministra właściwego do spraw rozwoju wsi.
 
-6. Do egzaminu podstawowego może przystąpić osoba, która ukończyła szkolenie podstawowe w zakresie odpowiadającym zakresowi tego egzaminu nie wcześniej niż 6 miesięcy przed dniem przeprowadzenia tego egzaminu. przeprowadza się szkolenie uzupełniające. Osoba wpisana na listę, o której mowa w art. 113 ust. 1 i 2, jest obowiązana ukończyć szkolenie uzupełniające i zdać egzamin uzupełniający z zakresu tego szkolenia.
+6. Do egzaminu podstawowego może przystąpić osoba, która ukończyła szkolenie podstawowe w zakresie odpowiadającym zakresowi tego egzaminu nie wcześniej niż 6 miesięcy przed dniem przeprowadzenia tego egzaminu.
+
+7. W przypadku zmiany stanu wiedzy z danego zakresu doradzania przeprowadza się szkolenie uzupełniające. Osoba wpisana na listę, o której mowa w art. 113 ust. 1 i 2, jest obowiązana ukończyć szkolenie uzupełniające i zdać egzamin uzupełniający z zakresu tego szkolenia.
 
 8. Do:
 
@@ -1358,7 +1580,10 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 - **3)** w przypadku skazania tej osoby prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe, lub
 - **4)** w przypadku jej śmierci, lub
 - **5)** w przypadku niedokonania przez tę osobę zgłoszenia zmiany danych wymienionych w art. 113 ust. 8 mimo wezwania, o którym mowa w art. 113 ust. 11, w terminie wskazanym w tym wezwaniu, lub
-- **6)** w przypadku nieprzestrzegania zobowiązania, o którym mowa w art. 113 ust. 6 pkt 2. zobowiązania, o którym mowa w art. 113 ust. 6 pkt 2, jeżeli:
+- **6)** w przypadku nieprzestrzegania zobowiązania, o którym mowa w art. 113 ust. 6 pkt 2.
+
+4. Uznaje się, że doradca rolniczy lub ekspert przyrodniczy nie przestrzega zobowiązania, o którym mowa w art. 113 ust. 6 pkt 2, jeżeli:
+
 - **1)** pozostaje w stosunku prawnym lub faktycznym z podmiotem, którego przeważająca działalność gospodarcza polega na produkcji maszyn, urządzeń, materiałów lub środków przeznaczonych dla rolnictwa lub przemysłu rolno-spożywczego lub obrocie maszynami, urządzeniami, materiałami lub środkami przeznaczonymi dla rolnictwa lub przemysłu rolno-spożywczego;
 - **2)** wpływa w sposób stronniczy na decyzje rolnika dotyczące nabycia określonych usług związanych z prowadzoną przez rolnika działalnością rolniczą lub nabycia maszyn, urządzeń, materiałów lub środków przeznaczonych dla rolnictwa lub przemysłu rolno-spożywczego;
 - **3)** istnieją okoliczności niewymienione w pkt 1 i 2, które mogą wywołać wątpliwość co do bezstronności doradcy rolniczego lub eksperta przyrodniczego.
@@ -1381,7 +1606,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 4. Do:
 
-- **1)** szkolenia uzupełniającego specjalizacyjnego przepisy art. 114 ust. 1–4 stosuje się odpowiednio, z tym że ogłoszenie o szkoleniu uzupełniającym o którym mowa w art. 113 ust. 8 pkt 4;
+- **1)** szkolenia uzupełniającego specjalizacyjnego przepisy art. 114 ust. 1–4 stosuje się odpowiednio, z tym że ogłoszenie o szkoleniu uzupełniającym specjalizacyjnym CDR przesyła również na adres poczty elektronicznej, o którym mowa w art. 113 ust. 8 pkt 4;
 - **2)** egzaminu uzupełniającego specjalizacyjnego przepisy art. 114 ust. 6 i 9– 11 stosuje się odpowiednio.
 
 5. Informacja o specjalizacji jest ujawniana na liście doradców rolniczych wśród danych doradcy rolniczego, który uzyskał specjalizację.
@@ -1394,7 +1619,13 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 117.** Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki i sposób przeprowadzania szkoleń podstawowych i szkoleń uzupełniających oraz egzaminów podstawowych i egzaminów uzupełniających,
+- **2)** rodzaje specjalizacji i wymagania dotyczące podnoszenia wiedzy przez doradców rolniczych w zakresie danej specjalizacji, a także szczegółowe warunki i sposób przeprowadzania szkoleń podstawowych specjalizacyjnych i szkoleń uzupełniających specjalizacyjnych oraz egzaminów podstawowych specjalizacyjnych i egzaminów uzupełniających specjalizacyjnych,
+- **3)** skład i sposób powoływania komisji przeprowadzającej egzaminy, o których mowa w pkt 1 i 2, oraz sposób dokumentowania tych egzaminów – mając na względzie zapewnienie wysokiej jakości usług doradczych świadczonych przez doradców rolniczych i ekspertów przyrodniczych oraz jednolitych standardów świadczenia usług doradczych w tym zakresie.
+
 #### Rozdział 11 Zmiany w przepisach
+
+#### Rozdział 11a Przepisy epizodyczne
 
 **Art. 147a.**
 
@@ -1410,7 +1641,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 3. W przypadku gdy minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw finansów publicznych podejmie, w drodze rozporządzenia wydanego na podstawie art. 50 ust. 1, decyzję o wypłacie za 2023 r. zaliczek z tytułu podstawowego wsparcia dochodów, rolnikowi, który złożył żądanie przyznania płatności dla małych gospodarstw, wypłaca się z urzędu zaliczki z tytułu tych płatności.
 
-4. Zaliczki z tytułu płatności dla małych gospodarstw wypłaca się w wysokości, w terminie, w trybie oraz na warunkach określonych dla wypłaty zaliczek z tytułu podstawowego wsparcia dochodów. do dnia 31 sierpnia 2023 r. za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+4. Zaliczki z tytułu płatności dla małych gospodarstw wypłaca się w wysokości, w terminie, w trybie oraz na warunkach określonych dla wypłaty zaliczek z tytułu podstawowego wsparcia dochodów.
+
+5. Żądanie przyznania płatności dla małych gospodarstw składa się w terminie do dnia 31 sierpnia 2023 r. za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
 6. Żądanie przyznania płatności dla małych gospodarstw może zostać wycofane w terminie do dnia 31 sierpnia 2023 r. za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
@@ -1430,7 +1663,8 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 - **1)** podstawowego wsparcia dochodów, mogą w terminie do dnia 31 sierpnia 2023 r. złożyć wniosek o przyznanie płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi do gruntów rolnych, do których ubiegają się o przyznanie podstawowego wsparcia dochodów;
 - **2)** płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi, mogą w terminie do dnia 31 sierpnia 2023 r. dokonać zmiany tego wniosku;
-- **3)** płatności ekologicznych, mogą w terminie do dnia 31 sierpnia 2023 r.: których nie ubiegali się o ich przyznanie, lecz wskazanych we wniosku o przyznanie płatności ekologicznych zgodnie z art. 59 ust. 1,
+- **3)** płatności ekologicznych, mogą w terminie do dnia 31 sierpnia 2023 r.:
+    - **a)** złożyć wniosek o przyznanie płatności ekologicznych do gruntów, do których nie ubiegali się o ich przyznanie, lecz wskazanych we wniosku o przyznanie płatności ekologicznych zgodnie z art. 59 ust. 1,
     - **b)** dokonać zmiany tego wniosku – w zakresie dotyczącym upraw paszowych na gruntach ornych, trwałych użytków zielonych i premii za zrównoważoną produkcję roślinno-zwierzęcą określonych w przepisach wydanych na podstawie art. 71 ust. 1 w odniesieniu do płatności ekologicznych.
 
 2. Wnioski złożone zgodnie z ust. 1 oraz zmiany wniosków dokonane zgodnie z ust. 1 uwzględnia się przy przyznawaniu płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi lub płatności ekologicznych, jeżeli Komisja Europejska zatwierdzi, na podstawie art. 119 ust. 10 rozporządzenia 2021/2115, zmianę Planu w zakresie umożliwiającym uwzględnienie tych wniosków lub tych zmian.
@@ -1443,7 +1677,10 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 4. Terminy:
 
 - **1)** złożenia wniosków o przyznanie płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi zgodnie z ust. 1 pkt 1 oraz wniosków o przyznanie płatności ekologicznych zgodnie z ust. 1 pkt 3 lit. a,
-- **2)** dokonania zmian wniosków o przyznanie płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi zgodnie z ust. 1 pkt 2 oraz zmian wniosków o przyznanie płatności ekologicznych zgodnie z ust. 1 pkt 3 lit. b – nie podlegają przywróceniu. w odniesieniu do wniosków o przyznanie:
+- **2)** dokonania zmian wniosków o przyznanie płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi zgodnie z ust. 1 pkt 2 oraz zmian wniosków o przyznanie płatności ekologicznych zgodnie z ust. 1 pkt 3 lit. b – nie podlegają przywróceniu.
+
+**Art. 147c.** Kar, o których mowa w art. 60 ust. 1 i ust. 2 pkt 1, nie stosuje się w odniesieniu do wniosków o przyznanie:
+
 - **1)** płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi złożonych w 2023 r. lub ich zmian dokonanych w 2023 r.;
 - **2)** płatności ekologicznych złożonych w 2023 r. lub ich zmian dokonanych w 2023 r. w zakresie, o którym mowa w art. 147b ust. 1 pkt 3.
 
@@ -1459,7 +1696,9 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 149.** Biuro Informacyjne Krajowego Rejestru Karnego niezwłocznie przekaże Agencji informacje o zakazie dostępu do środków, o których mowa w art. 5 ust. 3 pkt 4 ustawy zmienianej w art. 136 , orzeczonym wobec osoby fizycznej lub podmiotu zbiorowego, których dane zgromadzono w Krajowym Rejestrze Karnym przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 150.** Projekt wytycznych instytucji zarządzającej przekazany przed dniem wejścia w życie ustawy do zaopiniowania jednostkom, organom i podmiotom, o których mowa w art. 6 ust. 4, uznaje się za zaopiniowany zgodnie z art. 6 ust. 4. włóknistych, dla których wystąpiły okoliczności, o których mowa w art. 3 ust. 4 rozporządzenia 2022/126, do uprawy których nie przyznaje się płatności bezpośrednich i uzupełniającej płatności podstawowej, o którym mowa w art. 26 ust. 3, może zostać ogłoszone również w przypadku, gdy informacja, o której mowa w art. 26 ust. 2, została przekazana przez Prezesa Agencji przed dniem wejścia w życie ustawy.
+**Art. 150.** Projekt wytycznych instytucji zarządzającej przekazany przed dniem wejścia w życie ustawy do zaopiniowania jednostkom, organom i podmiotom, o których mowa w art. 6 ust. 4, uznaje się za zaopiniowany zgodnie z art. 6 ust. 4.
+
+**Art. 151.** W 2023 r. obwieszczenie zawierające listę odmian konopi włóknistych, dla których wystąpiły okoliczności, o których mowa w art. 3 ust. 4 rozporządzenia 2022/126, do uprawy których nie przyznaje się płatności bezpośrednich i uzupełniającej płatności podstawowej, o którym mowa w art. 26 ust. 3, może zostać ogłoszone również w przypadku, gdy informacja, o której mowa w art. 26 ust. 2, została przekazana przez Prezesa Agencji przed dniem wejścia w życie ustawy.
 
 **Art. 152.** W 2023 r. termin dokonania zmiany wniosku o przyznanie pomocy, o której mowa w art. 20 pkt 1–4, w przypadku określonym w art. 60 ust. 2 pkt 2, upływa z dniem 15 października.
 
@@ -1475,6 +1714,10 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 8 ust. 9 ustawy zmienianej w art. 122 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 8 ust. 9 ustawy zmienianej w art. 122 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
+**Art. 157.**
+
+1. Do wymiany korespondencji dotyczącej:
+
 - **1)** postępowań wszczętych na wniosek złożony za pomocą formularza udostępnionego na stronie internetowej Agencji Restrukturyzacji i Modernizacji Rolnictwa w sprawach dotyczących przyznania lub wypłaty pomocy finansowej prowadzonych na podstawie przepisów:
     - **a)** o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej,
     - **b)** o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013,
@@ -1486,11 +1729,15 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
     - **a)** o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności,
     - **b)** o kołach gospodyń wiejskich,
 
-- **4)** postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję Restrukturyzacji i Modernizacji Rolnictwa albo za pomocą formularza udostępnionego na stronie internetowej Agencji Restrukturyzacji i Modernizacji Rolnictwa w sprawach prowadzonych na podstawie przepisów o identyfikacji i rejestracji zwierząt
+- **4)** postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy na formularzu umieszczonym na stronie internetowej administrowanej przez Agencję Restrukturyzacji i Modernizacji Rolnictwa albo za pomocą formularza udostępnionego na stronie internetowej Agencji Restrukturyzacji i Modernizacji Rolnictwa w sprawach prowadzonych na podstawie przepisów o identyfikacji i rejestracji zwierząt – stosuje się przepisy ustawy zmienianej w art. 135 w brzmieniu dotychczasowym.
 
 2. Do wykonywania przez stronę postępowania, o którym mowa w ust. 1, czynności dotyczących tego postępowania innych niż wymienione w ust. 1 przepisów ustawy zmienianej w art. 135 nie stosuje się.
 
 **Art. 158.** W sprawach dotyczących ustalenia nienależnie lub nadmiernie pobranych środków publicznych, w których płatność lub pomoc finansowa zostały przyznane na podstawie przepisów:
+
+- **1)** o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013,
+- **2)** o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020,
+- **3)** o płatnościach w ramach systemów wsparcia bezpośredniego – stosuje się przepisy ustawy zmienianej w art. 135 w brzmieniu dotychczasowym.
 
 **Art. 159.**
 
@@ -1501,7 +1748,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. Stowarzyszenie jest obowiązane do zmiany statutu przez jego dostosowanie do przepisów ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261) oraz do zgłoszenia do Krajowego Rejestru Sądowego zmiany informacji wymaganych przepisami o Krajowym Rejestrze Sądowym w terminie 2 miesięcy od dnia otrzymania informacji, o której mowa w ust. 1.
 
-**Art. 160.** Zadania agencji płatniczej w zakresie realizacji Krajowego Programu Wsparcia Pszczelarstwa w Polsce na lata 2020–2022 wykonywane przez Krajowy Ośrodek Wsparcia Rolnictwa na podstawie art. 6 ust. 2 pkt 7 ustawy zmienianej zakończenia wykonywania tych zadań.
+**Art. 160.** Zadania agencji płatniczej w zakresie realizacji Krajowego Programu Wsparcia Pszczelarstwa w Polsce na lata 2020–2022 wykonywane przez Krajowy Ośrodek Wsparcia Rolnictwa na podstawie art. 6 ust. 2 pkt 7 ustawy zmienianej w art. 135 są wykonywane na podstawie przepisów dotychczasowych do dnia zakończenia wykonywania tych zadań.
 
 **Art. 161.** Do realizacji rozwoju lokalnego kierowanego przez społeczność, o którym mowa w części drugiej w tytule III w rozdziale II rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ), z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, Europejskiego Funduszu Rozwoju Regionalnego i Europejskiego Funduszu Społecznego stosuje się przepisy ustawy zmienianej w art. 138 w brzmieniu dotychczasowym.
 
@@ -1513,7 +1760,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 2. Osoby, które w dniu wejścia w życie niniejszej ustawy są wpisane na listę prowadzoną na podstawie art. 51 ust. 2 ustawy zmienianej w art. 139 , uznaje się z tym dniem za wpisane również na listę doradców rolniczych, o której mowa w art. 113 ust. 1, posiadających specjalizację rolnośrodowiskową.
 
-3. Osoby, które w dniu wejścia w życie niniejszej ustawy są wpisane na listę prowadzoną na podstawie art. 51 ust. 3 ustawy zmienianej w art. 139 , uznaje się w art. 113 ust. 2.
+3. Osoby, które w dniu wejścia w życie niniejszej ustawy są wpisane na listę prowadzoną na podstawie art. 51 ust. 3 ustawy zmienianej w art. 139 , uznaje się z tym dniem za ekspertów przyrodniczych wpisanych również na listę, o której mowa w art. 113 ust. 2.
 
 4. Osoby, o których mowa w ust. 1–3, mają obowiązek złożenia oświadczenia, o którym mowa w art. 113 ust. 6 pkt 2, w terminie 90 dni od dnia wejścia w życie ustawy, pod rygorem skreślenia z listy, na którą były wpisane.
 
@@ -1531,7 +1778,7 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 - **1)** ust. 1 pkt 1 ustawy zmienianej w art. 139 , są wpisywane również na listę, o której mowa w art. 113 ust. 1,
 - **2)** ust. 2 ustawy zmienianej w art. 139 , są wpisywane również na listę, o której mowa w art. 113 ust. 1, z ujawnieniem na tej liście informacji o posiadaniu specjalizacji rolnośrodowiskowej,
-- **3)** ust. 3 ustawy zmienianej w art. 139 , są wpisywane również na listę, o której mowa w art. 113 ust. 2 – jeżeli spełniają warunki wpisu na listę, o której mowa odpowiednio w art. 51 ust. 1 pkt 1, ust. 2 lub 3 ustawy zmienianej w art. 139 , oraz w terminie w art. 113 ust. 6 pkt 2.
+- **3)** ust. 3 ustawy zmienianej w art. 139 , są wpisywane również na listę, o której mowa w art. 113 ust. 2 – jeżeli spełniają warunki wpisu na listę, o której mowa odpowiednio w art. 51 ust. 1 pkt 1, ust. 2 lub 3 ustawy zmienianej w art. 139 , oraz w terminie 90 dni od dnia wejścia w życie niniejszej ustawy złożą oświadczenie, o którym mowa w art. 113 ust. 6 pkt 2.
 
 **Art. 165.**
 
@@ -1543,7 +1790,16 @@ Art. 118–147. (pominięte) Przepisy epizodyczne
 
 **Art. 167.** Do płatności w ramach systemów wsparcia bezpośredniego określonych w ustawie uchylanej w art. 168, a także do postępowań w sprawach dotyczących tych płatności:
 
+- **1)** wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy,
+- **2)** zakończonych ostateczną decyzją wydaną na podstawie dotychczasowych przepisów, które zostały wznowione od dnia wejścia w życie niniejszej ustawy – stosuje się przepisy dotychczasowe.
+
 **Art. 168.** Traci moc ustawa z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2022 r. poz. 1775 i 2727).
 
 **Art. 169.** Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
+
+- **1)** art. 145, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia ;
+- **2)** art. 135 pkt 3 w zakresie art. 10c ust. 12, który wchodzi w życie z dniem 1 czerwca 2023 r.;
+- **3)** art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **4)** art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r.
+
 

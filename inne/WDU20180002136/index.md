@@ -8,7 +8,7 @@ pos: 2136
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o produktach pochodzenia zwierzęcego oraz ustawy o bezpieczeństwie żywności i żywienia
@@ -32,6 +32,12 @@ source: "isap-pdf"
 **Art. 2.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2018 r. poz. 1541 i 1669) w art. 63 w ust. 2 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „14) podmiotów działających na rynku spożywczym przygotowujących żywność w pomieszczeniach używanych głównie jako prywatne domy mieszkalne, ale gdzie regularnie przygotowuje się żywność w celu wprowadzenia do obrotu, o których mowa w rozdziale III załącznika II do rozporządzenia nr 852/2004.”.
 
 **Art. 3.** Postępowania w sprawie zatwierdzenia:
+
+- **1)** projektu technologicznego zakładu, w którym ma być prowadzona działalność: Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14),
+    - **a)** w zakresie produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej lub
+    - **b)** marginalna, lokalna i ograniczona, o której mowa w art. 1 ust. 5 lit. b (ii) rozporządzenia (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. ;
+
+- **2)** zmiany sposobu użytkowania zakładu lub jego części, w którym jest prowadzona działalność wymieniona w pkt 1 – wszczęte na podstawie ustawy zmienianej w art. 1 i niezakończone decyzją ostateczną do dnia wejścia w życie niniejszej ustawy, umarza się.
 
 **Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19 ust. 5 ustawy zmienianej w art. 1 zachowują moc i mogą być zmieniane na podstawie tego przepisu.
 

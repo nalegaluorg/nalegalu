@@ -16,6 +16,7 @@ saos_id|date|court|case_number|type|score|saos_url
 83228|2005-02-16|SN|III CK 296/04|Wyrok|78|https://www.saos.org.pl/judgments/83228
 81112|2002-01-08|SN|I PKN 782/00|Wyrok|78|https://www.saos.org.pl/judgments/81112
 79338|1999-10-28|SN|II UKN 176/99|Wyrok|78|https://www.saos.org.pl/judgments/79338
+545137|2026-02-16|SO|I ACa 457/23|Wyrok|56|https://www.saos.org.pl/judgments/545137
 536607|2025-09-17|SO|I ACa 915/23|Wyrok|56|https://www.saos.org.pl/judgments/536607
 543543|2025-09-16|SO|I ACa 890/24|Wyrok|56|https://www.saos.org.pl/judgments/543543
 543368|2025-09-16|SO|I ACa 1628/22|Wyrok|56|https://www.saos.org.pl/judgments/543368
@@ -25,7 +26,9 @@ saos_id|date|court|case_number|type|score|saos_url
 543524|2025-05-30|SO|I ACa 2904/22|Wyrok|56|https://www.saos.org.pl/judgments/543524
 540308|2025-05-16|SO|I ACa 1512/25|Wyrok|56|https://www.saos.org.pl/judgments/540308
 540339|2025-05-15|SO|I ACa 1967/22|Wyrok|56|https://www.saos.org.pl/judgments/540339
+546014|2025-03-31|SO|I AGa 40/24|Wyrok|56|https://www.saos.org.pl/judgments/546014
 537993|2025-03-24|SO|I ACa 990/24|Wyrok|56|https://www.saos.org.pl/judgments/537993
+545987|2025-02-26|SO|I ACa 2580/23|Wyrok|56|https://www.saos.org.pl/judgments/545987
 528103|2025-01-29|SO|I ACa 1259/23|Wyrok|56|https://www.saos.org.pl/judgments/528103
 531495|2024-11-28|SO|I ACa 299/23|Wyrok|56|https://www.saos.org.pl/judgments/531495
 529478|2024-09-20|SO|I ACa 253/24|Wyrok|56|https://www.saos.org.pl/judgments/529478
@@ -213,6 +216,7 @@ saos_id|date|court|case_number|type|score|saos_url
 30378|2013-10-07|SO|VI GC 264/13|Wyrok|40|https://www.saos.org.pl/judgments/30378
 139024|2013-05-15|SO|I Ca 85/13|Wyrok|40|https://www.saos.org.pl/judgments/139024
 149570|2014-12-09|SO|II Ca 2167/14|Postanowienie|31|https://www.saos.org.pl/judgments/149570
+546528|2026-04-15|SO|II C 1470/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/546528
 537085|2025-10-22|SO|II C 629/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/537085
 533868|2025-08-18|SO|II C 227/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/533868
 533449|2025-07-23|SO|II C 1198/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/533449

@@ -8,10 +8,10 @@ pos: 1353
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 10 lipca 2017 Poz. 1353 OBWIESZCZENIE MINISTRA ROZWOJU I FINANSÓW 22 czerwca 2017 sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1353 OBWIESZCZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 22 czerwca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,17 +25,20 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001353) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1353/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2016 296 i 1579 oraz 2017 1139) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów 14 grudnia 2015 sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej 2245), uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów 15 września 2016 zmieniającym rozporządzenie sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej
-1508).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów 15 września 2016 zmieniającego rozporządzenie sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej 1508), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.”.
-Minister Rozwoju i Finansów: wz. W. Janczyk Dziennik Ustaw – 2 – Poz. 1353 ROZPORZĄDZENIE MINISTRA FINANSÓW 14 grudnia 2015 sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej Na podstawie art. 9 ust. 9 ustawy 12 stycznia 1991 o podatkach i opłatach lokalnych 2016 716, 1579 i 1923 oraz 2017 624) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579 oraz z 2017 r. poz. 1139) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 14 grudnia 2015 r. w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej (Dz. U. poz. 2245), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 15 września 2016 r. zmieniającym rozporządzenie w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej (Dz. U. poz. 1508).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 15 września 2016 r. zmieniającego rozporządzenie w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej (Dz. U. poz. 1508), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
+Minister Rozwoju i Finansów: wz. W. Janczyk ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 14 grudnia 2015 r.
+w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej Na podstawie art. 9 ust. 9 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2016 r.
+poz. 716, 1579 i 1923 oraz z 2017 r. poz. 624) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób przesyłania deklaracji na podatek od środków transportowych za pomocą środków komunikacji elektronicznej, zwanych dalej „deklaracjami”;
 2) rodzaje podpisu elektronicznego, którym powinny być opatrzone deklaracje.
-§ 2. Deklaracje mogą być przesyłane wykorzystaniem:
+§ 2. Deklaracje mogą być przesyłane z wykorzystaniem:
 1) elektronicznej Platformy Usług Administracji Publicznej, zwanej dalej „ePUAP”, lub
 2) innego systemu teleinformatycznego wskazanego na stronie Biuletynu Informacji Publicznej właściwego organu jednostki samorządu terytorialnego.
 § 3. Deklaracje są opatrywane:
 1) kwalifikowanym podpisem elektronicznym albo
 2) podpisem potwierdzonym profilem zaufanym ePUAP.
-§ 4. Rozporządzenie wchodzi życie dniem 1 stycznia 2016
+§ 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
 

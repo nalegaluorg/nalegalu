@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym.*
 
-Łącznie: **534** orzeczeń
+Łącznie: **535** orzeczeń
 (pominięto 580 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
@@ -326,7 +326,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze
 - 2018-05-08 | SO | [III Ca 191/18](https://www.saos.org.pl/judgments/351400) | Uzasadnienie
 - 2017-02-16 | SO | [XIII Ga 785/16](https://www.saos.org.pl/judgments/271909) | Uzasadnienie
 
-## art. 17 (162)
+## art. 17 (163)
 
 - 2010-12-01 | TK | [Ts 204/07](https://www.saos.org.pl/judgments/110018) | Postanowienie ★
 - 2009-07-29 | TK | [Ts 204/07](https://www.saos.org.pl/judgments/109384) | Postanowienie ★
@@ -440,6 +440,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze
 - 2021-08-26 | SO | [III AUa 1073/20](https://www.saos.org.pl/judgments/484801) | Uzasadnienie
 - 2021-02-25 | SO | [III AUa 1399/19](https://www.saos.org.pl/judgments/520594) | Uzasadnienie
 - 2020-03-11 | SO | [III AUa 2010/18](https://www.saos.org.pl/judgments/461817) | Uzasadnienie
+- 2026-04-28 | SO | [VII U 550/24](https://www.saos.org.pl/judgments/546963) | Wyrok
 - 2024-05-21 | SO | [VII U 303/24](https://www.saos.org.pl/judgments/512075) | Wyrok
 - 2023-04-25 | SO | [VIII C 597/22](https://www.saos.org.pl/judgments/512596) | Wyrok
 - 2022-03-08 | SO | [IV Ca 1419/21](https://www.saos.org.pl/judgments/465324) | Wyrok

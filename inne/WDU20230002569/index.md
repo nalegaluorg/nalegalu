@@ -8,10 +8,10 @@ pos: 2569
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 listopada 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2569 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 24 listopada 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002569) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2569/text.pdf) |
 
-Poz. 2569 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 24 listopada 2023 r.
-zmieniające rozporządzenie w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym Na podstawie art. 48 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852, 1234 i 1429) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 13 maja 2003 r. w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym (Dz. U. z 2019 r.
+zmieniające rozporządzenie w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym Na podstawie art. 48 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852, 1234 i 1429) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 13 maja 2003 r. w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym (Dz. U. z 2019 r.
 poz. 1605 i 1898, z 2022 r. poz. 3 i 2128 oraz z 2023 r. poz. 1066) wprowadza się następujące zmiany:
 1) w § 3 w objaśnieniu symbolu K:
 a) pkt 4 otrzymuje brzmienie: „4) 32 000 zł w 2023 r.;”,

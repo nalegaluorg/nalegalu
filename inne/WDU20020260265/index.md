@@ -8,7 +8,7 @@ pos: 265
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. akt P 9/01 W imieniu Rzeczypospolitej Polskiej Trybunał Konstytucyjny w składzie: Mirosław Wyrzykowski – przewodniczący Jerzy Ciemniewski Wiesław Johann – sprawozdawca Jerzy Stępień Marian Zdyb, po rozpoznaniu w dniu 12 marca 2002 r. na rozprawie, z udziałem przedstawicieli uczestników postępowania: pytających Sądów, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego pytań prawnych:

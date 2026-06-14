@@ -3,6 +3,8 @@ saos_id|date|court|case_number|type|score|saos_url
 83716|2005-09-21|SN|I KZP 23/05|Uchwała|89|https://www.saos.org.pl/judgments/83716
 81669|2002-10-29|SN|I KZP 27/02|Uchwała|89|https://www.saos.org.pl/judgments/81669
 166512|2014-08-06|SN|V KK 124/14|Wyrok|78|https://www.saos.org.pl/judgments/166512
+545018|2025-09-22|SO|II AKa 154/24|Wyrok|56|https://www.saos.org.pl/judgments/545018
+545278|2025-06-12|SO|II AKa 55/25|Wyrok|56|https://www.saos.org.pl/judgments/545278
 531101|2025-05-27|SO|II AKa 256/24|Wyrok|56|https://www.saos.org.pl/judgments/531101
 538589|2025-04-10|SO|II AKa 44/25|Wyrok|56|https://www.saos.org.pl/judgments/538589
 541700|2025-02-27|SO|II AKa 17/25|Wyrok|56|https://www.saos.org.pl/judgments/541700
@@ -355,6 +357,7 @@ saos_id|date|court|case_number|type|score|saos_url
 540931|2025-04-25|SO|II K 91/23|Wyrok|40|https://www.saos.org.pl/judgments/540931
 535731|2025-03-27|SO|II K 194/24|Wyrok|40|https://www.saos.org.pl/judgments/535731
 540080|2025-03-19|SO|II K 152/23|Wyrok|40|https://www.saos.org.pl/judgments/540080
+545041|2025-03-18|SO|II K 21/24|Wyrok|40|https://www.saos.org.pl/judgments/545041
 519499|2024-07-25|SO|IV Ka 503/24|Wyrok|40|https://www.saos.org.pl/judgments/519499
 502872|2024-05-10|SO|II K 2686/22|Wyrok|40|https://www.saos.org.pl/judgments/502872
 503714|2024-04-10|SO|II K 978/23|Wyrok|40|https://www.saos.org.pl/judgments/503714
@@ -504,6 +507,7 @@ saos_id|date|court|case_number|type|score|saos_url
 344622|2018-06-18|SO|III K 126/18|Postanowienie|31|https://www.saos.org.pl/judgments/344622
 307420|2017-09-20|SO|II Ns 2228/16|Postanowienie|31|https://www.saos.org.pl/judgments/307420
 42342|2014-01-27|SO|XVI K 256/13|Postanowienie|31|https://www.saos.org.pl/judgments/42342
+545340|2026-04-22|SO|VI Ka 798/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/545340
 536578|2025-09-15|SO|VI Ka 759/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/536578
 531580|2025-05-23|SO|II C 1005/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/531580
 522306|2024-12-19|SO|VI Ka 875/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/522306

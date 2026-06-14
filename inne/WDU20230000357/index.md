@@ -8,12 +8,10 @@ pos: 357
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów sprawie zlewni
-
-*OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 26 stycznia 2023 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 357 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 26 stycznia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,52 +25,91 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000357) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/357/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 27 grudnia 2017 r. sprawie zlewni (Dz. U. poz. 2509), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 20 sierpnia 2021 r. zmieniającym rozporządzenie sprawie zlewni (Dz. U. poz. 1685).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 20 sierpnia 2021 r. zmieniającego rozporządzenie sprawie zlewni (Dz. U. poz. 1685), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki sprawie zlewni Na podstawie art. 13 ust. 6 ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687 oraz z 2023 r. poz. 295) zarządza się, co następuje: § 1. Rozporządzenie określa zlewnie i przyporządkowuje je do właściwych regionów wodnych.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie zlewni
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 27 grudnia 2017 r. w sprawie zlewni (Dz. U. poz. 2509), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 20 sierpnia 2021 r. zmieniającym rozporządzenie w sprawie zlewni (Dz. U. poz. 1685).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 20 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie zlewni (Dz. U. poz. 1685), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2017 r.
+w sprawie zlewni Na podstawie art. 13 ust. 6 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687 oraz z 2023 r. poz. 295) zarządza się, co następuje:
+§ 1. Rozporządzenie określa zlewnie i przyporządkowuje je do właściwych regionów wodnych.
 § 2. Określa się następujące zlewnie:
-1) Małej Wisły Małej Wisły;
-2) Górnej-Zachodniej Wisły: Wisły Sandomierskiej, Wisły Krakowskiej,
-c) Nidy,
-d) Soły i Skawy,
-e) Dunajca,
+1) w regionie wodnym Małej Wisły – zlewnia Małej Wisły;
+2) w regionie wodnym Górnej-Zachodniej Wisły:
+a) zlewnia Wisły Sandomierskiej,
+b) zlewnia Wisły Krakowskiej,
+c) zlewnia Nidy,
+d) zlewnia Soły i Skawy,
+e) zlewnia Dunajca,
 f) (uchylona);
-3) Górnej-Wschodniej Wisły: Dolnego Sanu, Górnego Sanu,
-c) Wisłoki,
-d) Wisłoka,
-e) Babulówki;
-4) Narwi: Pisy, Biebrzy,
-c) Dolnej Narwi,
-d) Środkowej Narwi,
-e) Górnej Narwi;
-5) Bugu: Dolnego Bugu, Środkowego Bugu,
-c) Wieprza;
-f) Pilicy,
-g) Dolnej Narwi;
-7) Dolnej Wisły: Pasłęki i Elbląga, Słupi, Łupawy, Łeby i Redy,
-c) Brdy i Wdy,
-d) Wisły Kujawskiej i Drwęcy,
-e) Wierzycy i Osy;
-8) Górnej Odry: Górnej Odry, Odry Opolskiej;
-9) Środkowej Odry: Odry Dolnośląskiej, Bystrzycy i Kaczawy,
-c) Bobru,
-d) Nysy Łużyckiej,
-e) Odry Lubuskiej,
-f) Baryczy,
-g) Nysy Kłodzkiej;
-10) Dolnej Odry i Przymorza Zachodniego: Dolnej Odry, Iny,
-c) Regi,
-d) Wieprzy i Parsęty;
-11) Warty: Dolnej Warty, Środkowej Górnej Warty,
-c) Środkowej Dolnej Warty,
-d) Górnej Warty,
-e) Prosny;
-12) Noteci: Dolnej Noteci, Górnej i Środkowej Noteci;
-13) Dniestru Strwiąża;
-20) Metuje Klikawy;
-21) Orlicy Orlicy;
-22) Niemna: Łosośny i Świsłoczy, Czarnej Hańczy;
-23) Łyny i Węgorapy: Łyny, Węgorapy;
-24) Świeżej Stradyka i Bezledy.
-§ 3. Rozporządzenie wchodzi życie z dniem 1 stycznia 2018 r.
+3) w regionie wodnym Górnej-Wschodniej Wisły:
+a) zlewnia Dolnego Sanu,
+b) zlewnia Górnego Sanu,
+c) zlewnia Wisłoki,
+d) zlewnia Wisłoka,
+e) zlewnia Babulówki;
+4) w regionie wodnym Narwi:
+a) zlewnia Pisy,
+b) zlewnia Biebrzy,
+c) zlewnia Dolnej Narwi,
+d) zlewnia Środkowej Narwi,
+e) zlewnia Górnej Narwi;
+5) w regionie wodnym Bugu:
+a) zlewnia Dolnego Bugu,
+b) zlewnia Środkowego Bugu,
+c) zlewnia Wieprza;
+6) w regionie wodnym Środkowej Wisły:
+a) zlewnia Wisły Mazowieckiej,
+b) zlewnia Wkry,
+c) zlewnia Wisły Lubelskiej,
+d) zlewnia Bzury,
+e) zlewnia Wisły Warszawskiej,
+f) zlewnia Pilicy,
+g) zlewnia Dolnej Narwi;
+7) w regionie wodnym Dolnej Wisły:
+a) zlewnia Pasłęki i Elbląga,
+b) zlewnia Słupi, Łupawy, Łeby i Redy,
+c) zlewnia Brdy i Wdy,
+d) zlewnia Wisły Kujawskiej i Drwęcy,
+e) zlewnia Wierzycy i Osy;
+8) w regionie wodnym Górnej Odry:
+a) zlewnia Górnej Odry,
+b) zlewnia Odry Opolskiej;
+9) w regionie wodnym Środkowej Odry:
+a) zlewnia Odry Dolnośląskiej,
+b) zlewnia Bystrzycy i Kaczawy,
+c) zlewnia Bobru,
+d) zlewnia Nysy Łużyckiej,
+e) zlewnia Odry Lubuskiej,
+f) zlewnia Baryczy,
+g) zlewnia Nysy Kłodzkiej;
+10) w regionie wodnym Dolnej Odry i Przymorza Zachodniego:
+a) zlewnia Dolnej Odry,
+b) zlewnia Iny,
+c) zlewnia Regi,
+d) zlewnia Wieprzy i Parsęty;
+11) w regionie wodnym Warty:
+a) zlewnia Dolnej Warty,
+b) zlewnia Środkowej Górnej Warty,
+c) zlewnia Środkowej Dolnej Warty,
+d) zlewnia Górnej Warty,
+e) zlewnia Prosny;
+12) w regionie wodnym Noteci:
+a) zlewnia Dolnej Noteci,
+b) zlewnia Górnej i Środkowej Noteci;
+13) w regionie wodnym Dniestru – zlewnia Strwiąża;
+14) w regionie wodnym Czarnej Orawy – zlewnia Czarnej Orawy;
+15) w regionie wodnym Czadeczki – zlewnia Czadeczki;
+16) w regionie wodnym Morawy – zlewnia Morawy;
+17) w regionie wodnym Banówki – zlewnia Banówki;
+18) w regionie wodnym Izery – zlewnia Izery;
+19) w regionie wodnym Łaby i Ostrożnicy (Upa) – zlewnia Ostrożnicy (Upa);
+20) w regionie wodnym Metuje – zlewnia Klikawy;
+21) w regionie wodnym Orlicy – zlewnia Orlicy;
+22) w regionie wodnym Niemna:
+a) zlewnia Łosośny i Świsłoczy,
+b) zlewnia Czarnej Hańczy;
+23) w regionie wodnym Łyny i Węgorapy:
+a) zlewnia Łyny,
+b) zlewnia Węgorapy;
+24) w regionie wodnym Świeżej – zlewnia Stradyka i Bezledy.
+§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
 

@@ -8,10 +8,10 @@ pos: 28
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 stycznia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 28 OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 5 grudnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/28/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 5 grudnia 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 1723), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającym rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi (Dz. U. poz. 532), które stanowią: „ Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 2007/61/WE z dnia 26 września 2007 r.
 zmieniającej dyrektywę 2001/114/WE odnoszącą się do niektórych rodzajów częściowo lub całkowicie odwodnionego mleka konserwowanego przeznaczonego do spożycia przez ludzi (Dz. Urz. UE L 258 z 04.10. 2007, str. 27).ˮ „§ 2. Rozporządzenie wchodzi w życie po upływie14 dni od dnia ogłoszenia.”.
 Minister Rolnictwa i Rozwoju Wsi: A. Gembicka ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 8 lipca 2004 r.
-w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi Na podstawie art. 15 pkt 2 i art. 34 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980) zarządza się, co następuje: § 1. 1. Szczegółowe wymagania w zakresie jakości handlowej niektórych rodzajów mleka zagęszczonego i mleka w proszku są określone w załączniku nr 1 do rozporządzenia.
+w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi Na podstawie art. 15 pkt 2 i art. 34 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980) zarządza się, co następuje:
+§ 1. 1. Szczegółowe wymagania w zakresie jakości handlowej niektórych rodzajów mleka zagęszczonego i mleka w proszku są określone w załączniku nr 1 do rozporządzenia.
 2. Metody analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku są określone w załączniku nr 2 do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 SZCZEGÓŁOWE WYMAGANIA W ZAKRESIE JAKOŚCI HANDLOWEJ NIEKTÓRYCH RODZAJÓW MLEKA ZAGĘSZCZONEGO I MLEKA W PROSZKU
@@ -41,39 +41,39 @@ SZCZEGÓŁOWE WYMAGANIA W ZAKRESIE JAKOŚCI HANDLOWEJ NIEKTÓRYCH RODZAJÓW MLEK
 3) z ewentualnym dodatkiem witamin i składników mineralnych, przy zachowaniu wymagań określonych w rozporządzeniu (WE) nr 1925/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie dodawania do żywności witamin i składników mineralnych oraz niektórych innych substancji (Dz. Urz. UE L 404 z 30.12.2006, str. 26, z późn. zm.);
 4) utrwalonym przez:
 a) obróbkę cieplną, w tym sterylizację i UHT, w przypadku mleka zagęszczonego niesłodzonego,
-b) dodanie sacharozy, w przypadku mleka zagęszczonego słodzonego przy zachowaniu wymagań określonych w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14).
+b) dodanie sacharozy, w przypadku mleka zagęszczonego słodzonego – przy zachowaniu wymagań określonych w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14).
 2. Mleko zagęszczone niesłodzone powinno spełniać następujące wymagania w zakresie jakości handlowej:
 1) zawartość tłuszczu:
-a) nie mniej niż 15 % w przypadku mleka zagęszczonego pełnotłustego,
-b) nie mniej niż 7,5 % w przypadku mleka zagęszczonego,
-c) nie mniej niż 1 % i mniej niż 7,5 % w przypadku mleka zagęszczonego częściowo odtłuszczonego,
-d) nie więcej niż 1 % w przypadku mleka zagęszczonego odtłuszczonego;
+a) nie mniej niż 15 % – w przypadku mleka zagęszczonego pełnotłustego,
+b) nie mniej niż 7,5 % – w przypadku mleka zagęszczonego,
+c) nie mniej niż 1 % i mniej niż 7,5 % – w przypadku mleka zagęszczonego częściowo odtłuszczonego,
+d) nie więcej niż 1 % – w przypadku mleka zagęszczonego odtłuszczonego;
 2) zawartość całkowitej suchej masy mleka:
-a) nie mniej niż 26,5 % w przypadku mleka zagęszczonego pełnotłustego,
-b) nie mniej niż 25 % w przypadku mleka zagęszczonego,
-c) nie mniej niż 20 % w przypadku mleka zagęszczonego częściowo odtłuszczonego,
-d) nie mniej niż 20 % w przypadku mleka zagęszczonego odtłuszczonego.
+a) nie mniej niż 26,5 % – w przypadku mleka zagęszczonego pełnotłustego,
+b) nie mniej niż 25 % – w przypadku mleka zagęszczonego,
+c) nie mniej niż 20 % – w przypadku mleka zagęszczonego częściowo odtłuszczonego,
+d) nie mniej niż 20 % – w przypadku mleka zagęszczonego odtłuszczonego.
 3. Mleko zagęszczone słodzone zawierające dodatek sacharozy, taki jak cukier półbiały, cukier biały lub cukier rafinowany powinno spełniać następujące wymagania w zakresie jakości handlowej:
 1) zawartość tłuszczu:
-a) nie mniej niż 8 % w przypadku mleka zagęszczonego słodzonego,
-b) nie mniej niż 1 % i mniej niż 8 % w przypadku mleka zagęszczonego częściowo odtłuszczonego słodzonego,
-c) nie więcej niż 1 % w przypadku mleka zagęszczonego odtłuszczonego słodzonego;
+a) nie mniej niż 8 % – w przypadku mleka zagęszczonego słodzonego,
+b) nie mniej niż 1 % i mniej niż 8 % – w przypadku mleka zagęszczonego częściowo odtłuszczonego słodzonego,
+c) nie więcej niż 1 % – w przypadku mleka zagęszczonego odtłuszczonego słodzonego;
 2) zawartość całkowitej suchej masy mleka:
-a) nie mniej niż % w przypadku mleka zagęszczonego słodzonego,
-b) nie mniej niż 24 % w przypadku mleka zagęszczonego częściowo odtłuszczonego słodzonego,
-c) nie mniej niż 24 % w przypadku mleka zagęszczonego odtłuszczonego słodzonego.
+a) nie mniej niż 28 % – w przypadku mleka zagęszczonego słodzonego,
+b) nie mniej niż 24 % – w przypadku mleka zagęszczonego częściowo odtłuszczonego słodzonego,
+c) nie mniej niż 24 % – w przypadku mleka zagęszczonego odtłuszczonego słodzonego.
 4. W procesie technologicznym mleka zagęszczonego słodzonego dopuszcza się dodawanie laktozy w ilości nieprzekraczającej 0,03 % masy w stosunku do produktu gotowego.
 5. Mleko w proszku jest produktem stałym:
 1) otrzymywanym przez usunięcie wody z mleka, z mleka całkowicie albo częściowo odtłuszczonego, ze śmietanki albo mieszaniny tych produktów;
 2) z ewentualnym dodatkiem witamin i składników mineralnych przy zachowaniu wymagań określonych w rozporządzeniu (WE) nr 1925/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie dodawania do żywności witamin i składników mineralnych oraz niektórych innych substancji;
 3) utrwalonym przez odwadnianie, przy zachowaniu wymagań określonych w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego.
 6. Mleko w proszku powinno spełniać następujące wymagania w zakresie jakości handlowej:
-1) zawartość wody nie więcej niż 5 % masy;
+1) zawartość wody – nie więcej niż 5 % masy;
 2) zawartość tłuszczu:
-a) nie mniej niż 42 % w przypadku mleka w proszku kremowego (śmietanki w proszku),
-b) nie mniej niż 26 % i mniej niż 42 % w przypadku mleka w proszku pełnego,
-c) więcej niż 1,5 % i mniej niż 26 % w przypadku mleka w proszku częściowo odtłuszczonego,
-d) nie więcej niż 1,5 % tłuszczu w przypadku mleka w proszku odtłuszczonego.
+a) nie mniej niż 42 % – w przypadku mleka w proszku kremowego (śmietanki w proszku),
+b) nie mniej niż 26 % i mniej niż 42 % – w przypadku mleka w proszku pełnego,
+c) więcej niż 1,5 % i mniej niż 26 % – w przypadku mleka w proszku częściowo odtłuszczonego,
+d) nie więcej niż 1,5 % tłuszczu – w przypadku mleka w proszku odtłuszczonego.
 7. Zawartość białka w mleku może być dostosowywana do minimalnego poziomu 34 % masy (liczonego w stosunku do odtłuszczonej suchej masy) przez dodanie lub usunięcie składników mleka w taki sposób, aby stosunek białek serwatkowych do kazeiny w dostosowywanym mleku pozostał niezmieniony, jeżeli zostały zachowane wymagania określone w ust. 1–6.
 8. W celu dostosowania zawartości białka w mleku, o którym mowa w ust. 7, dopuszcza się użycie:
 1) retentatu mleka, stanowiącego produkt uzyskiwany przez skoncentrowanie białka mleka w procesie ultrafiltracji mleka lub mleka częściowo lub całkowicie odtłuszczonego;
@@ -135,7 +135,7 @@ II. METODA OZNACZANIA ZAWARTOŚCI SUCHEJ MASY ORAZ SUCHEJ MASY BEZTŁUSZCZOWEJ W
 9) naczynko wagowe ponownie umieszcza się w suszarce i po jego odkryciu suszy się je wraz z wieczkiem przez godzinę, a następnie powtarza się czynności, o których mowa w pkt 8;
 10) czynności, o których mowa w pkt 9, powtarza się, aż różnica mas pomiędzy dwoma kolejnymi ważeniami będzie mniejsza niż 0,5 mg lub aż masa zacznie wzrastać;
 11) do obliczeń przyjmuje się najniższą uzyskaną masę odnotowaną jako m .
-7. Zawartość suchej masy w próbce oblicza się według wzoru: 𝑚 −𝑚 𝑚 −𝑚 ×100 gdzie: m oznacza masę naczynka wagowego wraz z wieczkiem, piaskiem i szklaną pałeczką, w gramach, m oznacza masę naczynka wagowego wraz z wieczkiem, piaskiem, szklaną pałeczką i próbką przed suszeniem, w gramach, m oznacza masę naczynka wagowego wraz z wieczkiem, piaskiem, szklaną pałeczką i próbką po suszeniu, w gramach i wyraża się jako ułamek masowy próbki w procentach.
+7. Zawartość suchej masy w próbce oblicza się według wzoru: 𝑚 −𝑚 ×100 𝑚 −𝑚 gdzie: m – oznacza masę naczynka wagowego wraz z wieczkiem, piaskiem i szklaną pałeczką, w gramach, m – oznacza masę naczynka wagowego wraz z wieczkiem, piaskiem, szklaną pałeczką i próbką przed suszeniem, w gramach, m – oznacza masę naczynka wagowego wraz z wieczkiem, piaskiem, szklaną pałeczką i próbką po suszeniu, w gramach – i wyraża się jako ułamek masowy próbki w procentach.
 8. Zawartość suchej masy mleka w mleku zagęszczonym słodzonym oblicza się poprzez odjęcie od suchej masy oznaczonej według niniejszej metody zawartości sacharozy oznaczonej według metody, o której mowa w części IV.
 9. Zawartość suchej masy beztłuszczowej mleka w mleku zagęszczonym słodzonym oblicza się poprzez odjęcie od suchej masy oznaczonej według niniejszej metody zawartości sacharozy oznaczonej według metody, o której mowa w części IV, i zawartości tłuszczu oznaczonej według metody, o której mowa w części VIII.
 10. Zawartość suchej masy beztłuszczowej w mleku zagęszczonym niesłodzonym oblicza się poprzez odjęcie od suchej masy oznaczonej według niniejszej metody zawartości tłuszczu oznaczonej według metody, o której mowa w części VIII.
@@ -163,7 +163,7 @@ III. METODA OZNACZANIA ZAWARTOŚCI WODY W MLEKU W PROSZKU (suszenie w temperatur
 6) naczynko wagowe ponownie umieszcza się w suszarce i po jego odkryciu suszy się je wraz z wieczkiem przez godzinę, a następnie powtarza się czynności, o których mowa w pkt 5;
 7) czynności, o których mowa w pkt 6, powtarza się, aż ubytek masy w dwóch kolejnych ważeniach nie przekroczy 0,5 mg lub aż masa zacznie wzrastać;
 8) do obliczeń przyjmuje się najniższą uzyskaną masę odnotowaną jako m .
-5. Zawartość wody w próbce oblicza się według wzoru: 𝑚 −𝑚 𝑚 −𝑚 ×100 gdzie: m oznacza masę naczynka wagowego wraz z wieczkiem, w gramach, m oznacza masę naczynka wagowego wraz z wieczkiem oraz próbką, w gramach, m oznacza masę naczynka wagowego wraz z wieczkiem oraz próbką po ostatnim suszeniu, w gramach i wyraża się jako ułamek masowy próbki w procentach.
+5. Zawartość wody w próbce oblicza się według wzoru: 𝑚 −𝑚 ×100 𝑚 −𝑚 gdzie: m – oznacza masę naczynka wagowego wraz z wieczkiem, w gramach, m – oznacza masę naczynka wagowego wraz z wieczkiem oraz próbką, w gramach, m – oznacza masę naczynka wagowego wraz z wieczkiem oraz próbką po ostatnim suszeniu, w gramach – i wyraża się jako ułamek masowy próbki w procentach.
 6. Powtarzalność dla metody jest różnicą pomiędzy wynikami dwóch oznaczań przeprowadzonych równolegle albo w krótkim odstępie czasu, na tej samej próbce, przez tego samego analityka i w tych samych warunkach, która nie powinna przekraczać 0,1 g wody na 100 g produktu.
 7. Z analizy laboratoryjnej sporządza się protokół, który powinien zawierać:
 1) nazwę zastosowanej metody;
@@ -178,7 +178,7 @@ IV. METODA OZNACZANIA ZAWARTOŚCI SACHAROZY W MLEKU ZAGĘSZCZONYM SŁODZONYM (ME
 1) wagi umożliwiającej ważenie z dokładnością co najmniej do 10 mg;
 2) rurki polarymetrycznej o dokładnie wzorcowanej długości 2 dm;
 3) polarymetru albo sacharymetru o następujących cechach:
-a) polarymetru ze światłem sodowym albo polarymetru z zielonym światłem rtęciowym lampa rtęciowa z pryzmatem lub specjalnym filtrem Wrattena N 77 A z dokładnością odczytu co najmniej do 0,05 stopni kątowych,
+a) polarymetru ze światłem sodowym albo polarymetru z zielonym światłem rtęciowym – lampa rtęciowa z pryzmatem lub specjalnym filtrem Wrattena N 77 A – z dokładnością odczytu co najmniej do 0,05 stopni kątowych,
 b) sacharymetru z międzynarodową skalą cukrową, z białym światłem przepuszczonym przez filtr 15 mm 6 % roztworu dwuchromianu potasu albo światłem sodowym, z dokładnością odczytu co najmniej do 0,1 na międzynarodowej skali cukrowej;
 4) łaźni wodnej o temperaturze 60 °C ± 1 °C.
 4. W metodzie wykorzystuje się wodę destylowaną, demineralizowaną albo o co najmniej równorzędnej czystości oraz następujące odczynniki odpowiadające jakości analitycznej:
@@ -187,12 +187,12 @@ b) sacharymetru z międzynarodową skalą cukrową, z białym światłem przepus
 3) roztwór kwasu chlorowodorowego, o stężeniu 6,35 ± 0,20 mol/l, czyli o stężeniu od 20 % do 22 % (m/m) lub o stężeniu 5,0 ± 0,2 mol/l, czyli o stężeniu od 16 % do 18 % (m/m);
 4) roztwór amoniaku, o stężeniu 2,0 ± 0,2 mol/l, czyli o stężeniu 3,5 % (m/m);
 5) roztwór kwasu octowego, o stężeniu 2,0 ± 0,2 mol/l, czyli o stężeniu 12 % (m/m);
-6) błękit bromotymolowy roztwór o stężeniu 1 % (m/v) w etanolu.
+6) błękit bromotymolowy – roztwór o stężeniu 1 % (m/v) w etanolu.
 5. W celu znormalizowania sposobu wykonania oznaczania, odczynników i sprzętu przeprowadza się następujące oznaczanie kontrolne:
 1) w dwóch powtórzeniach dokonuje się czynności, o których mowa w ust. 6, z użyciem mieszaniny 100 g mleka pełnego i 18 g czystej sacharozy albo mieszaniny 110 g mleka odtłuszczonego i 18 g czystej sacharozy; każda mieszanina odpowiada 40 g mleka zagęszczonego o zawartości 45 % sacharozy;
 2) oblicza się zawartość sacharozy przy zastosowaniu wzorów określonych w ust. 7, podstawiając:
-a) we wzorze 1: za m ilość użytego mleka, za F zawartość tłuszczu w użytym mleku, za P zawartość białka w użytym mleku,
-b) we wzorze 2 za m wartość 40,00;
+a) we wzorze 1: – za m ilość użytego mleka, – za F zawartość tłuszczu w użytym mleku, – za P zawartość białka w użytym mleku,
+b) we wzorze 2 za m – wartość 40,00;
 3) średnia uzyskanych wartości powinna wynosić 45 % ± 0,2 %.
 6. W celu oznaczenia zawartości sacharozy w mleku zagęszczonym słodzonym dokonuje się następujących czynności:
 1) do szklanej zlewki o pojemności 100 ml odważa się, z dokładnością do 10 mg, około 40 g dobrze wymieszanej próbki;
@@ -217,13 +217,13 @@ e) kolbę schładza się do temperatury 20 °C, a następnie uzupełnia do 50 ml
 f) zawartość kolby miesza się, a następnie kolbę odstawia się na godzinę w temperaturze 20 °C;
 15) oznacza się polaryzację po inwersji, czyli skręcalność zinwertowanego roztworu w temperaturze 20 °C ± 0,2 °C;
 w przypadku gdy temperatura cieczy w rurce polarymetrycznej, oznaczona jako T, różni się podczas pomiaru o więcej niż 0,2 °C, należy uwzględnić poprawkę temperatury zgodnie z ust. 9.
-7. Zawartość sacharozy w próbce oblicza się według wzorów: (1) 𝑣 = (1,08𝐹+1,55𝑃) (2) 𝑆 = × × % gdzie: S oznacza zawartość sacharozy, m oznacza masę próbki, w gramach, F oznacza zawartość tłuszczu w próbce, w procentach, P oznacza zawartość białka (N x 6,38) w próbce, w procentach, v oznacza poprawkę na objętość osadu powstałego podczas klarowania, w mililitrach, V oznacza objętość, do której rozcieńczono próbkę przed filtracją, w mililitrach, D oznacza bezpośredni odczyt na skali polarymetru (polaryzacja przed inwersją), 𝐼 oznacza odczyt na skali polarymetru po inwersji, L oznacza długość rurki polarymetrycznej, w decymetrach, Q oznacza współczynnik inwersji określony zgodnie z ust. 10.
+7. Zawartość sacharozy w próbce oblicza się według wzorów: (1) 𝑣 = (1,08𝐹+1,55𝑃) (2) 𝑆 = × × % gdzie: S – oznacza zawartość sacharozy, m – oznacza masę próbki, w gramach, F – oznacza zawartość tłuszczu w próbce, w procentach, P – oznacza zawartość białka (N x 6,38) w próbce, w procentach, v – oznacza poprawkę na objętość osadu powstałego podczas klarowania, w mililitrach, V – oznacza objętość, do której rozcieńczono próbkę przed filtracją, w mililitrach, D – oznacza bezpośredni odczyt na skali polarymetru (polaryzacja przed inwersją), 𝐼 – oznacza odczyt na skali polarymetru po inwersji, L – oznacza długość rurki polarymetrycznej, w decymetrach, Q – oznacza współczynnik inwersji określony zgodnie z ust. 10.
 8. W przypadku gdy w metodzie zastosowano odważone dokładnie 40 g mleka zagęszczonego i polarymetr ze światłem sodowym, stopniami kątowymi i rurką polarymetryczną o długości 2 dm, a pomiaru dokonano w temperaturze 20 °C ± 0,1 °C, zawartość sacharozy w mleku zagęszczonym słodzonym można również obliczyć według następującego wzoru: S=(D−1,25 I)×(2,833−0,00612 F−0,00878 P)
 9. W przypadku gdy oznaczenia polaryzacji po inwersji dokonano w temperaturze innej niż 20 °C, wynik, o którym mowa w ust. 8, mnoży się przez: (1+0,0037 (T−20)) gdzie T oznacza temperaturę zinwertowanego roztworu w rurce polarymetrycznej.
 10. Wartość współczynnika inwersji Q dla różnych źródeł światła, z uwzględnieniem poprawek dla stężenia i temperatury, oblicza się w następujący sposób:
 1) w przypadku światła sodowego i polarymetru ze stopniami kątowymi: Q=0,8825+0,0006 (C−9)−0,0033 (T−20) ;
-2) w przypadku zielonego światła rtęciowego i polarymetru ze stopniami kątowymi: Q=1,0392+0,0007 (C−9)−0,0039 (T−20);
-3) w przypadku białego światła z filtrem dwuchromianowym i sacharymetrem ze stopniami międzynarodowej skali cukrowej: Q=2,549+0,0017 (C−9)−0,0095 (T−20) gdzie: C oznacza procentową całkowitą zawartość cukrów w roztworze zinwertowanym, według odczytu polarymetrycznego, T oznacza temperaturę zinwertowanego roztworu podczas odczytu polarymetrycznego procentową całkowitą zawartość cukrów C w zinwertowanym roztworze można obliczyć na podstawie bezpośredniego odczytu i jego zmiany po inwersji w zwykły sposób, stosując normalne wartości dla skręcalności właściwej sacharozy, laktozy i cukru inwertowanego; poprawka dotycząca stężenia, taka jak 0,0006 (C 9), jest dokładna tylko wtedy, gdy C wynosi około 9; dla mleka zagęszczonego, kiedy C jest bliskie 9, można ją pominąć, odchylenia temperatury od 20 °C o 1 °C stwarzają małą różnicę w odczycie bezpośrednim, ale wahania powyżej 0,2 °C przy odczycie po inwersji wymagają poprawki, która jest dokładna tylko dla temperatur w przedziale 18 °C do 22 °C.
+2) w przypadku zielonego światła rtęciowego i polarymetru ze stopniami kątowymi: Q=1,0392+0,0007 (C−9)−0,0039 (T−20) ;
+3) w przypadku białego światła z filtrem dwuchromianowym i sacharymetrem ze stopniami międzynarodowej skali cukrowej: Q=2,549+0,0017 (C−9)−0,0095 (T−20) – gdzie: C – oznacza procentową całkowitą zawartość cukrów w roztworze zinwertowanym, według odczytu polarymetrycznego, T – oznacza temperaturę zinwertowanego roztworu podczas odczytu polarymetrycznego – procentową całkowitą zawartość cukrów C w zinwertowanym roztworze można obliczyć na podstawie bezpośredniego odczytu i jego zmiany po inwersji w zwykły sposób, stosując normalne wartości dla skręcalności właściwej sacharozy, laktozy i cukru inwertowanego; poprawka dotycząca stężenia, taka jak 0,0006 (C – 9), jest dokładna tylko wtedy, gdy C wynosi około 9; dla mleka zagęszczonego, kiedy C jest bliskie 9, można ją pominąć, – odchylenia temperatury od 20 °C o 1 °C stwarzają małą różnicę w odczycie bezpośrednim, ale wahania powyżej 0,2 °C przy odczycie po inwersji wymagają poprawki, która jest dokładna tylko dla temperatur w przedziale 18 °C do 22 °C.
 11. Powtarzalność dla metody jest różnicą pomiędzy wynikami dwóch oznaczań przeprowadzanych równolegle albo w krótkim odstępie czasu, na tej samej próbce, przez tego samego analityka i w tych samych warunkach, która nie powinna przekraczać 0,3 g sacharozy na 100 g mleka zagęszczonego słodzonego.
 12. Z analizy laboratoryjnej sporządza się protokół, który powinien zawierać:
 1) nazwę zastosowanej metody;
@@ -304,19 +304,19 @@ VI. METODA OZNACZANIA AKTYWNOŚCI FOSFATAZY W MLEKU W PROSZKU (ZMODYFIKOWANA MET
 5) wrzącej łaźni wodnej;
 6) folii aluminiowej.
 4. W metodzie wykorzystuje się wodę destylowaną, demineralizowaną albo o co najmniej równorzędnej czystości oraz następujące odczynniki odpowiadające jakości analitycznej:
-1) roztwór A bufor wodorotlenek boranowo-barowy o pH 10,6 ± 0,1 w temperaturze 20 °C, przygotowany w następujący sposób:
+1) roztwór A – bufor – wodorotlenek boranowo-barowy o pH 10,6 ± 0,1 w temperaturze 20 °C, przygotowany w następujący sposób:
 a) rozpuszcza się 25,0 g 8 · hydratu wodorotlenku baru (Ba(OH) · 8 H O) w wodzie i rozcieńcza do 500 ml,
 b) rozpuszcza się 11,0 g kwasu ortoborowego (H BO ) w wodzie i rozcieńcza wodą do 500 ml,
 c) roztwory, o których mowa w lit. a i b, ogrzewa się do temperatury 50 °C, miesza się, wytrząsa, a następnie schładza do temperatury pokojowej,
 d) pH doprowadza się do 10,6 ± 0,1 przy użyciu roztworu wodorotlenku baru, następnie roztwór filtruje się i przechowuje w szczelnie zamkniętym pojemniku,
 e) przed użyciem bufor rozcieńcza się taką samą ilością wody;
-2) roztwór B bufor wywołujący barwę otrzymywany przez rozpuszczenie 6,0 g metaboranu sodu (NaBO ) albo 12,6 g (NaBO · 4 H O) i 20,0 g chlorku sodu (NaCl) w wodzie i rozcieńczeniu wodą do 1000 ml;
-3) roztwór C roztwór substratu buforowego przygotowany w następujący sposób:
+2) roztwór B – bufor wywołujący barwę otrzymywany przez rozpuszczenie 6,0 g metaboranu sodu (NaBO ) albo 12,6 g (NaBO · 4 H O) i 20,0 g chlorku sodu (NaCl) w wodzie i rozcieńczeniu wodą do 1000 ml;
+3) roztwór C – roztwór substratu buforowego przygotowany w następujący sposób:
 a) rozpuszcza się 0,5 g fenylofosforanu dwusodu (Na C H PO · 2 H O) w 4,5 ml roztworu B; dodaje się dwie krople roztworu E, odstawia na 30 minut, a następnie wywołuje się barwę przy użyciu 2,5 ml butanolu; w przypadku gdy jest to konieczne, wywołanie barwy powtarza się; po rozdzieleniu odrzuca się butanol; roztwór można przechowywać kilka dni w chłodziarce, a przed użyciem ponownie wywołuje się barwę,
 b) do kolby pomiarowej o pojemności 100 ml odmierza się pipetą 1 ml roztworu, o którym mowa w lit. a, i uzupełnia się roztworem A,
 c) roztwór buforowy, o którym mowa w lit. b, przygotowuje się tuż przed użyciem;
-4) roztwór D odczynnik strącający, otrzymywany przez rozpuszczenie w wodzie 3,0 g siarczanu(VI) cynku (ZnSO · 7 H O) i 0,6 g siarczanu(VI) miedzi(II) (CuSO · 5 H O) i uzupełnienie wodą do 100 ml;
-5) roztwór E odczynnik Gibba otrzymywany przez rozpuszczenie 0,040 g 2,6-dwubromochinonu 1,4-chloroimidu OC H Br NCl w 10 ml 96 % etanolu; roztwór przechowuje się w ciemnej szklanej butelce w chłodziarce; w przypadku odbarwienia nie należy go używać;
+4) roztwór D – odczynnik strącający, otrzymywany przez rozpuszczenie w wodzie 3,0 g siarczanu(VI) cynku (ZnSO · 7 H O) i 0,6 g siarczanu(VI) miedzi(II) (CuSO · 5 H O) i uzupełnienie wodą do 100 ml;
+5) roztwór E – odczynnik Gibba otrzymywany przez rozpuszczenie 0,040 g 2,6-dwubromochinonu 1,4-chloroimidu OC H Br NCl w 10 ml 96 % etanolu; roztwór przechowuje się w ciemnej szklanej butelce w chłodziarce; w przypadku odbarwienia nie należy go używać;
 6) bufor rozcieńczenia barwy otrzymywany przez rozcieńczenie do 100 ml wodą 10 ml roztworu B;
 7) roztwór siarczanu(VI) miedzi(II) otrzymywany przez rozpuszczenie w wodzie 0,05 g siarczanu(VI) miedzi(II) (CuSO · 5 H O) i uzupełnienie wodą do 100 ml;
 8) roztwór wzorca fenolowego przygotowany w następujący sposób:
@@ -407,6 +407,6 @@ b) roztwór heksacyjanożelazianu(II) potasu otrzymywany przez rozpuszczenie w k
 4) informacje niezbędne do pełnego zidentyfikowania próbki.
 10. Wynik zamieszczony w protokole analizy laboratoryjnej powinien spełniać kryteria powtarzalności określone dla metody.
 11. W przypadku oznaczania aktywności fosfatazy w mleku w proszku może być zastosowana zmodyfikowana metoda Sandersa i Sagera albo metoda Aschaffenburga i Mullena, przy czym w protokole badań należy wskazać, która metoda została zastosowana.
-VIII. METODA OZNACZANIA ZAWARTOŚCI TŁUSZCZU W MLEKU ZAGĘSZCZONYM (METODA RÖSE-GOTTLIEBA) Zawartość tłuszczu w mleku zagęszczonym oznacza się zgodnie z metodą określoną w Normie PN-EN ISO 1737: 2002 Mleko zagęszczone i mleko zagęszczone słodzone Oznaczanie zawartości tłuszczu Metoda grawimetryczna (Metoda odwoławcza).
-IX. METODA OZNACZANIA ZAWARTOŚCI TŁUSZCZU W MLEKU W PROSZKU (METODA RÖSE-GOTTLIEBA) Zawartość tłuszczu w mleku w proszku oznacza się zgodnie z metodą określoną w Normie PN-EN ISO 1736: 2002 Mleko w proszku i przetwory mleczne w proszku Oznaczanie zawartości tłuszczu Metoda grawimetryczna (Metoda odwoławcza).
+VIII. METODA OZNACZANIA ZAWARTOŚCI TŁUSZCZU W MLEKU ZAGĘSZCZONYM (METODA RÖSE-GOTTLIEBA) Zawartość tłuszczu w mleku zagęszczonym oznacza się zgodnie z metodą określoną w Normie PN-EN ISO 1737: 2002 Mleko zagęszczone i mleko zagęszczone słodzone – Oznaczanie zawartości tłuszczu – Metoda grawimetryczna (Metoda odwoławcza).
+IX. METODA OZNACZANIA ZAWARTOŚCI TŁUSZCZU W MLEKU W PROSZKU (METODA RÖSE-GOTTLIEBA) Zawartość tłuszczu w mleku w proszku oznacza się zgodnie z metodą określoną w Normie PN-EN ISO 1736: 2002 Mleko w proszku i przetwory mleczne w proszku – Oznaczanie zawartości tłuszczu – Metoda grawimetryczna (Metoda odwoławcza).
 

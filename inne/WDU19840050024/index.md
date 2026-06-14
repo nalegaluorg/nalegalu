@@ -8,7 +8,7 @@ pos: 24
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo prasowe
@@ -89,6 +89,11 @@ source: "isap-pdf"
 2. Organizacja polityczna, związek zawodowy, przedsiębiorstwo państwowe, organizacja spółdzielcza, samorządowa i inna organizacja społeczna oraz kościół i inny związek wyznaniowy może realizować uprawnienia wydawnicze bezpośrednio lub za pośrednictwem wydawnictw własnych, jak również innych wydawnictw, działających jako nakładca.
 
 **Art. 9.** Przepisów niniejszej ustawy nie stosuje się do:
+
+- **1)** Dziennika Ustaw Rzeczypospolitej Polskiej, Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” oraz innych urzędowych organów publikacyjnych;
+- **2)** Diariusza Sejmowego i własnych sprawozdań z działalności Sejmu i jego organów, a także wewnętrznych wydawnictw organów stanowiących jednostek samorządu terytorialnego;
+- **3)** orzecznictwa sądów, oraz innych urzędowych publikacji o tym charakterze;
+- **4)** wydawnictw prasowych obcych przedstawicielstw dyplomatycznych, urzędów konsularnych i organizacji międzynarodowych, które na podstawie ustaw, umów i zwyczajów międzynarodowych korzystają z prawa prowadzenia działalności wydawniczej.
 
 #### Rozdział 2 Prawa i obowiązki dziennikarzy
 

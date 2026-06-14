@@ -8,10 +8,10 @@ pos: 834
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 maja 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 834 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 16 kwietnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,22 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/834/text.pdf) |
 
-Poz. 834 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 16 kwietnia 2018 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów sprawie podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej
-1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 14 lutego 2003 r. sprawie podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U. poz. 266), z uwzględnieniem zmian wprowadzonych:
-1) rozporządzeniem Ministra Finansów z dnia 11 stycznia 2011 r. zmieniającym rozporządzenie sprawie podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U. poz. 96);
-2) rozporządzeniem Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. zmieniającym rozporządzenie sprawie podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 14 lutego 2003 r. w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U. poz. 266), z uwzględnieniem zmian wprowadzonych:
+1) rozporządzeniem Ministra Finansów z dnia 11 stycznia 2011 r. zmieniającym rozporządzenie w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U. poz. 96);
+2) rozporządzeniem Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. zmieniającym rozporządzenie w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U.
 poz. 425).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Finansów z dnia 11 stycznia 2011 r. zmieniającego rozporządzenie sprawie podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U. poz. 96), który stanowi: „§ 2. Rozporządzenie wchodzi życie z dniem ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. zmieniającego rozporządzenie sprawie podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U.
-poz. 425), który stanowi: „§ 2. Rozporządzenie wchodzi życie z dniem 1 marca 2017 r.”.
-Minister Finansów: T. Czerwińska Dziennik Ustaw – 2 – Poz. 834 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 14 lutego 2003 r.
-sprawie podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej Na podstawie art. 83 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, 650, 723 i 771) zarządza się, co następuje: § 1. Organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej przekazują Szefowi Krajowej Administracji Skarbowej , na jego żądanie, informacje o umowach zawartych z:
-1) nierezydentami rozumieniu prawa dewizowego;
-2) osobami lub jednostkami wymienionymi art. 82 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
-§ 2. 1. Informacje podatkowe przekazywane przez organy lub jednostki wymienione § 1 zawierają następujące dane: imię i nazwisko lub nazwę (firmę) kontrahenta, datę zawarcia umowy oraz wartość jej przedmiotu.
-2. Informacje są przekazywane terminie 30 dni od dnia doręczenia żądania.
-§ 3. Przekazywanie następuje sposób i na zasadach przewidzianych dla dokumentów zawierających informacje niejawne, którym nadano klauzulę „zastrzeżone” rozumieniu przepisów o ochronie niejawnych.
-§ 4. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1) § 2 rozporządzenia Ministra Finansów z dnia 11 stycznia 2011 r. zmieniającego rozporządzenie w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U. poz. 96), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. zmieniającego rozporządzenie w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U.
+poz. 425), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”.
+Minister Finansów: T. Czerwińska ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 14 lutego 2003 r.
+w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej Na podstawie art. 83 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, 650, 723 i 771) zarządza się, co następuje:
+§ 1. Organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej przekazują Szefowi Krajowej Administracji Skarbowej , na jego żądanie, informacje o umowach zawartych z:
+1) nierezydentami w rozumieniu prawa dewizowego;
+2) osobami lub jednostkami wymienionymi w art. 82 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+§ 2. 1. Informacje podatkowe przekazywane przez organy lub jednostki wymienione w § 1 zawierają następujące dane: imię i nazwisko lub nazwę (firmę) kontrahenta, datę zawarcia umowy oraz wartość jej przedmiotu.
+2. Informacje są przekazywane w terminie 30 dni od dnia doręczenia żądania.
+§ 3. Przekazywanie informacji następuje w sposób i na zasadach przewidzianych dla dokumentów zawierających informacje niejawne, którym nadano klauzulę „zastrzeżone” w rozumieniu przepisów o ochronie informacji niejawnych.
+§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

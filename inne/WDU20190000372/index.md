@@ -8,10 +8,10 @@ pos: 372
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 lutego 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 372 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 21 lutego 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000372) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/372/text.pdf) |
 
-Poz. 372 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 21 lutego 2019 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych Na podstawie art. 44zb ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 10 czerwca 2015 r. w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych (Dz. U. poz. 843, z 2016 r.
+zmieniające rozporządzenie w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych Na podstawie art. 44zb ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 10 czerwca 2015 r. w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych (Dz. U. poz. 843, z 2016 r.
 poz. 1278 oraz z 2017 r. poz. 1651) wprowadza się następujące zmiany:
 1) po § 6a dodaje się § 6b w brzmieniu: „§ 6b. 1. Dyrektor technikum prowadzącego kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i 2245), przewiduje:
 1) naukę jazdy pojazdem silnikowym, zwalnia z realizacji tych zajęć ucznia, który przedłoży prawo jazdy odpowiedniej kategorii;

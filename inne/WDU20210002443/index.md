@@ -8,10 +8,10 @@ pos: 2443
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2443 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2443/text.pdf) |
 
-Poz. 2443 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 grudnia 2021 r.
 w sprawie rodzajów wydatków uprawniających do skorzystania z prawa do opodatkowania ryczałtem przychodów uzyskanych poza terytorium Rzeczypospolitej Polskiej przez osoby przenoszące miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej Na podstawie art. 30m ust. 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U.
-z 2021 r. poz. 1128, z późn. zm. ) zarządza się, co następuje: § 1. Wydatkami, o których mowa w art. 30m ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zwanej dalej „ustawą”, są:
+z 2021 r. poz. 1128, z późn. zm. ) zarządza się, co następuje:
+§ 1. Wydatkami, o których mowa w art. 30m ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zwanej dalej „ustawą”, są:
 1) darowizny przekazane na cele określone w art. 4 ust. 1 pkt 4, 11, 12, 14, 16 lub 17 ustawy z dnia 24 kwietnia 2003 r.
 o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2020 r. poz. 1057 oraz z 2021 r. poz. 1038, 1243 i 1535) organizacjom pozarządowym lub podmiotom wymienionym w art. 3 ust. 3 tej ustawy, prowadzącym działalność pożytku publicznego w rozumieniu art. 3 ust. 1 tej ustawy,
 2) wydatki poniesione bezpośrednio na:

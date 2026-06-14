@@ -8,10 +8,10 @@ pos: 641
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 kwietnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 641 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 15 marca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000641) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/641/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 15 marca 2021 r.
-w sprawie nagród Ministra Sprawiedliwości dla nauczycieli akademickich Na podstawie art. 458 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U.
-z 2021 r. poz. 478) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie nagród Ministra Sprawiedliwości dla nauczycieli akademickich Na podstawie art. 458 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
+z 2021 r. poz. 478) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe kryteria i tryb przyznawania nauczycielom akademickim, zatrudnionym w uczelni służb państwowych, przez Ministra Sprawiedliwości, zwanego dalej „ministrem”, nagród:
 a) za znaczące osiągnięcia w zakresie działalności naukowej, dydaktycznej, wdrożeniowej lub organizacyjnej,
-b) za całokształt dorobku zwanych dalej „nagrodami”;
+b) za całokształt dorobku – zwanych dalej „nagrodami”;
 2) rodzaje osiągnięć umożliwiających przyznanie nagrody i sposób ich dokumentowania;
 3) maksymalną liczbę przyznawanych nagród;
 4) maksymalną wysokość nagrody;
@@ -40,14 +40,14 @@ b) za całokształt dorobku zwanych dalej „nagrodami”;
 1) prowadzenie badań naukowych, w których wyniku zostały zdobyte:
 a) nowa wiedza w dziedzinie nauki lub dyscyplinie naukowej, nienastawiona na bezpośrednie zastosowanie komercyjne, lub
 b) nowa wiedza w dziedzinie nauki lub dyscyplinie naukowej lub nowe umiejętności, nastawione na opracowywanie nowych produktów, procesów lub usług, lub wprowadzanie do nich znaczących ulepszeń;
-2) prowadzenie prac rozwojowych, w których wyniku nabyto, połączono, ukształtowano lub wykorzystano dostępną aktualnie wiedzę lub posiadane umiejętności, w tym w zakresie narzędzi informatycznych lub oprogramowania, do planowania produkcji oraz projektowania i tworzenia zmienionych, ulepszonych lub nowych produktów, procesów lub usług z wyłączeniem działalności obejmującej rutynowe i okresowe zmiany wprowadzane do nich, nawet jeżeli takie zmiany mają charakter ulepszeń;
+2) prowadzenie prac rozwojowych, w których wyniku nabyto, połączono, ukształtowano lub wykorzystano dostępną aktualnie wiedzę lub posiadane umiejętności, w tym w zakresie narzędzi informatycznych lub oprogramowania, do planowania produkcji oraz projektowania i tworzenia zmienionych, ulepszonych lub nowych produktów, procesów lub usług – z wyłączeniem działalności obejmującej rutynowe i okresowe zmiany wprowadzane do nich, nawet jeżeli takie zmiany mają charakter ulepszeń;
 3) kierowanie zespołami badawczymi realizującymi projekty finansowane w drodze konkursów krajowych lub zagranicznych;
-4) autorstwo lub współautorstwo publikacji naukowych, w szczególności monografii naukowych, cyklu powiązanych
+4) autorstwo lub współautorstwo publikacji naukowych, w szczególności monografii naukowych, cyklu powiązanych tematycznie artykułów naukowych lub prac projektowych, konstrukcyjnych lub technologicznych.
 2. Znaczące osiągnięcia w zakresie działalności naukowej są dokumentowane w szczególności przez:
 1) dokumenty potwierdzające przebieg badań naukowych lub prac rozwojowych, w których wyniku uzyskano osiągnięcie objęte wnioskiem, lub ich kopie, lub oświadczenie kandydata do nagrody zawierające informacje o uzyskanych w tym zakresie osiągnięciach;
 2) dokumenty potwierdzające kierowanie przez kandydata do nagrody zespołem, o którym mowa w ust. 1 pkt 3, lub ich kopie, lub oświadczenie kandydata o kierowaniu takim zespołem;
 3) kopie stron czasopisma lub książki zawierających imiona i nazwisko autora lub imiona i nazwiska autorów, tytuł publikacji, nazwę wydawnictwa, miejsce wydania, miesiąc i rok wydania, nakład, numer ISBN lub ISSN, numer DOI;
-4) oświadczenia wydawcy publikacji naukowej albo oświadczenia współautorów publikacji naukowej o procentowym wkładzie autorskim kandydata do nagrody w publikację w przypadku współautorstwa;
+4) oświadczenia wydawcy publikacji naukowej albo oświadczenia współautorów publikacji naukowej o procentowym wkładzie autorskim kandydata do nagrody w publikację – w przypadku współautorstwa;
 5) dokumenty potwierdzające przebieg prac projektowych, konstrukcyjnych, technologicznych, w których wyniku uzyskano osiągnięcie objęte wnioskiem, lub ich kopie, lub oświadczenie kandydata do nagrody zawierające informacje o uzyskanych w tym zakresie osiągnięciach.
 § 3. 1. Nagrodę za znaczące osiągnięcia w zakresie działalności dydaktycznej przyznaje się nauczycielowi akademickiemu uczelni służb państwowych za:
 1) aktywność w zakresie kształcenia i wychowywania studentów;
@@ -65,7 +65,8 @@ b) nowa wiedza w dziedzinie nauki lub dyscyplinie naukowej lub nowe umiejętnoś
 3) wdrożenie oryginalnego osiągnięcia projektowego lub technologicznego.
 2. Znaczące osiągnięcia w zakresie działalności wdrożeniowej są dokumentowane w szczególności przez:
 1) dokumenty zawierające informacje o sposobie wykorzystania wyników badań naukowych lub prac rozwojowych prowadzonych przez kandydata do nagrody, lub ich kopie, lub oświadczenie kandydata do nagrody zawierające informacje o uzyskanych w tym zakresie osiągnięciach;
-2) dokumenty zawierające informacje o działaniach podjętych przez kandydata do nagrody w zakresie komercjalizacji wyników działalności naukowej oraz know-how związanego z tymi wynikami, o wynikach komercjalizacji lub o wdrożeniu oryginalnego osiągnięcia projektowego, lub ich kopie, lub oświadczenie kandydata do nagrody zawiera§ 5. 1. Nagrodę za znaczące osiągnięcia w zakresie działalności organizacyjnej przyznaje się nauczycielowi akademickiemu uczelni służb państwowych za:
+2) dokumenty zawierające informacje o działaniach podjętych przez kandydata do nagrody w zakresie komercjalizacji wyników działalności naukowej oraz know-how związanego z tymi wynikami, o wynikach komercjalizacji lub o wdrożeniu oryginalnego osiągnięcia projektowego, lub ich kopie, lub oświadczenie kandydata do nagrody zawierające informacje o uzyskanych w tym zakresie osiągnięciach.
+§ 5. 1. Nagrodę za znaczące osiągnięcia w zakresie działalności organizacyjnej przyznaje się nauczycielowi akademickiemu uczelni służb państwowych za:
 1) rozszerzanie współpracy międzynarodowej na rzecz podnoszenia jakości badań naukowych, prac rozwojowych, kształcenia lub wspierania rozwoju gospodarczego lub społecznego regionu lub kraju;
 2) rozwijanie współpracy z otoczeniem społeczno-gospodarczym, w szczególności w celu:
 a) prowadzenia badań naukowych lub prac rozwojowych na rzecz przedsiębiorców,
@@ -85,14 +86,14 @@ c) organizacyjnej;
 3) jednej nagrody za całokształt dorobku.
 § 9. 1. Maksymalna wysokość nagrody stanowi w przypadku nagrody za:
 1) znaczące osiągnięcia w zakresie działalności:
-a) naukowej piętnastokrotność,
-b) dydaktycznej piętnastokrotność,
-c) wdrożeniowej piętnastokrotność,
-d) organizacyjnej dziesięciokrotność,
-2) całokształt dorobku piętnastokrotność wysokości minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej, określonego w przepisach wydanych na podstawie art. 137 ust. 2 ustawy.
+a) naukowej – piętnastokrotność,
+b) dydaktycznej – piętnastokrotność,
+c) wdrożeniowej – piętnastokrotność,
+d) organizacyjnej – dziesięciokrotność,
+2) całokształt dorobku – piętnastokrotność – wysokości minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej, określonego w przepisach wydanych na podstawie art. 137 ust. 2 ustawy.
 2. Wysokość udziału w nagrodzie zespołowej dla każdego członka nagrodzonej grupy ustala się odpowiednio do procentowego udziału każdego z nich w powstaniu osiągnięcia określonego:
-1) we wniosku w przypadku nagrody zespołowej przyznawanej na wniosek;
-2) w oświadczeniu osoby, która kieruje pracami nagrodzonej grupy w przypadku nagrody zespołowej przyznanej z inicjatywy własnej ministra.
+1) we wniosku – w przypadku nagrody zespołowej przyznawanej na wniosek;
+2) w oświadczeniu osoby, która kieruje pracami nagrodzonej grupy – w przypadku nagrody zespołowej przyznanej z inicjatywy własnej ministra.
 3. Oświadczenie, o którym mowa w ust. 2 pkt 2, składa osoba kierująca pracami nagrodzonej grupy w terminie 21 dni od dnia otrzymania wezwania.
 4. W przypadku niezłożenia oświadczenia w terminie, o którym mowa w ust. 3, nagrodę wypłaca się wszystkim członkom nagrodzonej grupy w równej wysokości.
 § 10. Nagrody mogą być przyznawane:
@@ -105,10 +106,10 @@ c) przewodniczącego ogólnokrajowej organizacji albo ogólnokrajowego zrzeszeni
 § 12. 1. Do wniosku o przyznanie nagrody dołącza się:
 1) opis osiągnięć uzasadniających przyznanie nagrody;
 2) odwzorowanie cyfrowe dwóch rekomendacji sporządzonych w związku z wnioskiem o przyznanie nagrody, przez osoby niezatrudnione w uczelni służb państwowych, w której jest zatrudniony kandydat do nagrody, mające:
-a) stopień naukowy doktora habilitowanego w przypadku ubiegania się o nagrodę za znaczące osiągnięcia w zakresie działalności naukowej, dydaktycznej, wdrożeniowej lub organizacyjnej,
-b) tytuł profesora w przypadku ubiegania się o nagrodę za znaczące osiągnięcia w zakresie działalności naukowej, dydaktycznej lub organizacyjnej oraz nagrodę za całokształt dorobku;
+a) stopień naukowy doktora habilitowanego – w przypadku ubiegania się o nagrodę za znaczące osiągnięcia w zakresie działalności naukowej, dydaktycznej, wdrożeniowej lub organizacyjnej,
+b) tytuł profesora – w przypadku ubiegania się o nagrodę za znaczące osiągnięcia w zakresie działalności naukowej, dydaktycznej lub organizacyjnej oraz nagrodę za całokształt dorobku;
 3) odwzorowanie cyfrowe wyciągu z protokołu posiedzenia senatu uczelni albo najwyższego organu kolegialnego wnioskodawcy, który odzwierciedla przebieg głosowania nad wnioskiem;
-4) szczegółowe uzasadnienie w przypadku wniosków składanych przez podmioty, o których mowa w § 10 pkt 1 lit. c;
+4) szczegółowe uzasadnienie – w przypadku wniosków składanych przez podmioty, o których mowa w § 10 pkt 1 lit. c;
 5) w przypadku nagród za osiągnięcia zespołowe informację o procentowym udziale każdego członka nagrodzonej grupy w powstaniu osiągnięcia;
 6) odwzorowanie cyfrowe oświadczenia kandydata do nagrody o niekaralności za umyślne przestępstwo lub umyślne przestępstwo skarbowe, lub karą dyscyplinarną;
 7) odwzorowanie cyfrowe oświadczenia kandydata do nagrody o wyrażeniu zgody na przetwarzanie jego danych osobowych na potrzeby rozpatrzenia wniosku, przyznania oraz wypłacenia nagrody.
@@ -120,7 +121,7 @@ b) tytuł profesora w przypadku ubiegania się o nagrodę za znaczące osiągni�
 § 17. 1. Nagrodę wypłaca uczelnia ze środków przekazanych na ten cel przez ministra.
 2. Wypłata nagrody następuje jednorazowo w terminie 14 dni od dnia zaksięgowania środków na rachunku bankowym uczelni na rachunek bankowy albo na rachunek w spółdzielczej kasie oszczędnościowo-kredytowej wskazany przez nagrodzoną osobę.
 § 18. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro WZÓR WNIOSEK O PRZYZNANIE NAGRODY MINISTRA SPRAWIEDLIWOŚCI DLA NAUCZYCIELA AKADEMICKIEGO UCZELNI SŁUŻB PAŃSTWOWYCH
+Minister Sprawiedliwości: Z. Ziobro Załącznik do rozporządzenia Ministra Sprawiedliwości z dnia 15 marca 2021 r. (poz. …) WZÓR WZÓR WNIOSEK O PRZYZNANIE NAGRODY MINISTRA SPRAWIEDLIWOŚCI DLA NAUCZYCIELA AKADEMICKIEGO UCZELNI SŁUŻB PAŃSTWOWYCH
 1. DANE WNIOSKODAWCY: Nazwa podmiotu występującego z wnioskiem Adres Nr telefonu / nr faksu / adres e-mail
 2. RODZAJ NAGRODY: □ indywidualna □ nagroda za całokształt dorobku □ zespołowa Za znaczące osiągnięcia w zakresie działalności: □ naukowej □ dydaktycznej □ wdrożeniowej □ organizacyjnej
 3. DANE KANDYDATA: Imię (imiona) i nazwisko Udział procentowy w powstaniu osiągnięcia w przypadku nagród zespołowych Miejsce zatrudnienia Tytuł zawodowy / stopień naukowy / tytuł naukowy Zajmowane stanowisko (pełniona funkcja) Reprezentowana dziedzina nauki Reprezentowana dyscyplina naukowa Znaczące osiągnięcia

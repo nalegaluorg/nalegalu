@@ -8,7 +8,7 @@ pos: 1496
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących
@@ -41,9 +41,36 @@ Art. 42–52. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** inwestor – podmiot lub osobę zamierzającą realizować lub realizującą inwestycję mieszkaniową lub inwestycję towarzyszącą;
+- **2)** inwestycja mieszkaniowa – przedsięwzięcie obejmujące budowę, zmianę sposobu użytkowania lub przebudowę, w wyniku której powstaną budynek lub budynki mieszkalne wielorodzinne o łącznej liczbie lokali mieszkalnych nie mniejszej niż 25 lub budynki mieszkalne jednorodzinne o łącznej liczbie nie mniejszej niż 10, wraz z urządzeniami budowlanymi z nimi związanymi, drogami wewnętrznymi, a także roboty budowlane niezbędne do obsługi oraz prawidłowego wykonania tych prac; inwestycję mieszkaniową stanowią również części budynków przeznaczone na działalność handlową lub usługową;
+- **3)** inwestycja towarzysząca – inwestycję w zakresie budowy, zmiany sposobu użytkowania lub przebudowy: sieci uzbrojenia terenu w rozumieniu art. 2 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019 i 1542), dróg publicznych, linii kolejowych, obiektów infrastruktury publicznego transportu zbiorowego, obiektów działalności kulturalnej, obiektów opieki nad dziećmi do lat 3, przedszkoli, szkół, placówek wsparcia dziennego, ambulatorium podstawowej opieki zdrowotnej, obiektów, w których prowadzona jest działalność z zakresu pomocy społecznej, obiektów służących działalności pożytku publicznego, obiektów sportu i rekreacji, obszarów zieleni publicznej, o których mowa w art. 2 pkt 25 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, obiektów budowlanych przeznaczonych na działalność handlową lub usługową, o ile służą obsłudze mieszkańców budynków będących przedmiotem inwestycji mieszkaniowej;
+- **4)** kataster nieruchomości – ewidencję gruntów i budynków w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
+- **5)** nieruchomość o nieuregulowanym stanie prawnym – nieruchomość, o której mowa w art. 113 ust. 6 i 7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080);
+- **6)** powierzchnia użytkowa mieszkań – sumę powierzchni użytkowych wszystkich lokali mieszkalnych oraz budynków mieszkalnych jednorodzinnych objętych inwestycją mieszkaniową, obliczoną zgodnie z przepisami wydanymi na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **7)** powierzchnia biologicznie czynna – powierzchnię biologicznie czynną w rozumieniu art. 2 pkt 28 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
+- **8)** obszar zabudowy śródmiejskiej – obszar zabudowy śródmiejskiej określony w planie ogólnym gminy.
+
 **Art. 3.** Działalność handlową i usługową można realizować w ramach:
 
+- **1)** wyodrębnionej części inwestycji mieszkaniowej oraz inwestycji towarzyszącej,
+- **2)** samodzielnego obiektu budowlanego o powierzchni sprzedaży nie większej niż 2000 m – pod warunkiem, że powierzchnia użytkowa przeznaczona na działalność handlową lub usługową nie będzie mniejsza niż 5 % i nie przekroczy 20 % powierzchni użytkowej mieszkań.
+
 **Art. 4.** W przypadku gdy inwestycje mieszkaniowe lub inwestycje towarzyszące mają być prowadzone na tym samym obszarze co inwestycje, o których mowa w:
+
+- **1)** ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796), w zakresie inwestycji dotyczących infrastruktury portowej oraz infrastruktury zapewniającej dostęp do portów lub przystani morskich,
+- **2)** ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311),
+- **3)** ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2025 r. poz.
+- **1234)** ,
+- **4)** ustawie z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464),
+- **5)** ustawie z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2025 r. poz. 1222),
+- **6)** ustawie z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311 i 1019),
+- **7)** ustawie z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274 oraz z 2025 r. poz. 680),
+- **8)** ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1156),
+- **9)** ustawie z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199),
+- **10)** ustawie z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. z 2024 r. poz. 285),
+- **11)** ustawie z dnia 7 kwietnia 2017 r. o inwestycjach w zakresie budowy lub przebudowy toru wodnego Świnoujście – Szczecin do głębokości 12,5 metra (Dz. U. poz. 990),
+- **12)** ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531),
+- **13)** ustawie z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 1839) – inwestycje, o których mowa w pkt 1–13, mają pierwszeństwo przed inwestycjami mieszkaniowymi lub inwestycjami towarzyszącymi.
 
 **Art. 5.**
 
@@ -505,6 +532,12 @@ Art. 42–52. (pominięte)
 
 **Art. 55.** Dla zamierzenia budowlanego, wobec którego przed dniem wejścia w życie ustawy:
 
+- **1)** został złożony wniosek o pozwolenie na budowę, odrębny wniosek o zatwierdzenie projektu budowlanego, wniosek o zmianę pozwolenia na budowę lub wniosek o zatwierdzenie zamiennego projektu budowlanego,
+- **2)** został złożony wniosek o udzielenie zgody na odstępstwo od przepisów techniczno-budowlanych,
+- **3)** zostało dokonane zgłoszenie budowy lub wykonania robót budowlanych w przypadku, gdy nie jest wymagane uzyskanie decyzji o pozwoleniu na budowę,
+- **4)** została wydana decyzja o pozwoleniu na budowę lub odrębna decyzja o zatwierdzeniu projektu budowlanego,
+- **5)** został złożony wniosek o pozwolenia na użytkowanie obiektu budowlanego – stosuje się przepisy ustawy zmienianej w art. 44 w brzmieniu dotychczasowym.
+
 **Art. 56.** Do spraw wszczętych na podstawie przepisów ustawy zmienianej w art. 47 w brzmieniu dotychczasowym i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 47 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 57.** Do postępowań w sprawie wymierzenia kary za zwłokę w wydaniu decyzji o ustaleniu lokalizacji inwestycji celu publicznego, wszczętych i niezakończonych ostatecznym postanowieniem do dnia wejścia w życie niniejszej ustawy, stosuje się przepis art. 51 ust. 2d ustawy zmienianej w art. 49 w brzmieniu nadanym niniejszą ustawą.
@@ -514,4 +547,8 @@ Art. 42–52. (pominięte)
 **Art. 59.** Ustawa traci moc z dniem 1 lipca 2026 r.
 
 **Art. 60.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 42 i art. 48, które wchodzą w życie z dniem ogłoszenia;
+- **2)** art. 39, art. 50 i art. 52, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.
+
 

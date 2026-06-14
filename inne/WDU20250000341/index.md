@@ -8,7 +8,7 @@ pos: 341
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o księgach wieczystych i hipotece
@@ -60,6 +60,12 @@ source: "isap-pdf"
 3. Jeżeli do dokonania rozporządzenia potrzebny jest wpis w księdze wieczystej, chwila złożenia wniosku o wpis jest rozstrzygająca dla oceny dobrej lub złej wiary nabywcy. Jednakże gdy rozporządzenie dochodzi do skutku dopiero po dokonaniu wpisu, rozstrzyga dzień, w którym rozporządzenie doszło do skutku.
 
 **Art. 7.** Rękojmia wiary publicznej ksiąg wieczystych nie działa przeciwko:
+
+- **1)** prawom obciążającym nieruchomość z mocy ustawy, niezależnie od wpisu;
+- **2)** prawu dożywocia;
+- **3)** służebnościom ustanowionym na podstawie decyzji właściwego organu administracji rządowej albo jednostki samorządu terytorialnego;
+- **4)** służebnościom drogi koniecznej albo ustanowionym w związku z przekroczeniem granicy przy wznoszeniu budynku lub innego urządzenia;
+- **5)** służebnościom przesyłu.
 
 **Art. 8.** Rękojmię wiary publicznej ksiąg wieczystych wyłącza wzmianka o wniosku, skardze na orzeczenie referendarza sądowego, apelacji lub skardze kasacyjnej oraz ostrzeżenie dotyczące niezgodności stanu prawnego ujawnionego w księdze wieczystej z rzeczywistym stanem prawnym nieruchomości.
 
@@ -376,6 +382,9 @@ source: "isap-pdf"
 
 **Art. 58.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
+- **1)** sądy rejonowe prowadzące księgi wieczyste oraz obszary ich właściwości miejscowej,
+- **2)** czynności, które przy prowadzeniu i przechowywaniu ksiąg wieczystych mogą spełniać samodzielnie pracownicy sądowi – uwzględniając zasady sprawności, racjonalności i szybkiego działania sądu oraz zasadę jawności ksiąg wieczystych.
+
 **Art. 58¹.** (uchylony)
 
 **Art. 58².** (uchylony)
@@ -652,6 +661,12 @@ source: "isap-pdf"
 
 **Art. 110.** Hipotekę przymusową można uzyskać także na podstawie:
 
+- **1)** postanowienia sądu o udzieleniu zabezpieczenia;
+- **2)** postanowienia prokuratora;
+- **3)** decyzji administracyjnej, o ile przepisy szczególne tak stanowią, chociażby decyzja nie była ostateczna;
+- **4)** dokumentu zabezpieczenia, o którym mowa w art. 3 pkt 1 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009);
+- **5)** zarządzenia zabezpieczenia określonego w przepisach o postępowaniu egzekucyjnym w administracji albo zarządzenia zabezpieczenia określonego w ustawie, o której mowa w pkt 4.
+
 **Art. 110¹.** Wierzyciel może żądać wpisu hipoteki przymusowej na sumę nie wyższą niż wynikająca z treści dokumentu stanowiącego podstawę jej wpisu do księgi wieczystej. Jeżeli z dokumentu tego nie wynika wysokość sumy hipoteki, suma hipoteki nie może przewyższać więcej niż o połowę zabezpieczonej wierzytelności wraz z roszczeniami o świadczenia uboczne określonymi w dokumencie stanowiącym podstawę wpisu hipoteki na dzień złożenia wniosku o wpis hipoteki.
 
 **Art. 111.** (uchylony)
@@ -726,6 +741,11 @@ source: "isap-pdf"
 2. Minister Sprawiedliwości, w drodze rozporządzenia, może określić termin utraty mocy prawnej ksiąg wieczystych założonych przed dniem wejścia w życie dekretu z dnia 11 października 1946 r. – Prawo o księgach wieczystych, zasady prowadzenia tych ksiąg do czasu utraty przez nie mocy prawnej, zasady zakładania nowych ksiąg wieczystych dla nieruchomości, których księgi wieczyste utraciły moc prawną, oraz zasady zwalniania od opłat sądowych w sprawach związanych z utratą mocy prawnej ksiąg wieczystych.
 
 **Art. 126.** Tracą moc:
+
+- **1)** dekret z dnia 11 października 1946 r. – Prawo o księgach wieczystych (Dz. U. poz. 320 oraz z 1950 r. poz. 349);
+- **2)** utrzymane w mocy przez art. III pkt 3 oraz art. XVII ustawy z dnia 23 kwietnia 1964 r. – Przepisy wprowadzające kodeks cywilny (Dz. U. poz. 94 oraz z 1974 r. poz. 142) art. 14–27, 190–249, 290–293, 295 oraz w zakresie ksiąg wieczystych i hipoteki art. 114, 115, 118–120, 122–126 i 300 § 2 dekretu z dnia 11 października 1946 r. – Prawo rzeczowe (Dz. U. poz. 319, z 1950 r. poz. 312, z 1954 r. poz. 184, z 1961 r. poz. 159, z 1962 r. poz. 166 oraz z 1964 r. poz. 94);
+- **3)** utrzymane w mocy przez art. III pkt 4 oraz art. XVIII ustawy z dnia 23 kwietnia 1964 r. – Przepisy wprowadzające kodeks cywilny (Dz. U. poz. 94 oraz z 1974 r. poz. 142) w zakresie ksiąg wieczystych i hipoteki art. XIX–XXV, XXXVII, XXXVIII, XL–XLVI, L i LIV–LXIII dekretu z dnia 11 października 1946 r. – Przepisy wprowadzające prawo rzeczowe i prawo o księgach wieczystych (Dz. U. poz. 321, z 1950 r. poz. 349, z 1953 r. poz. 113, z 1960 r. poz. 311 oraz z 1964 r. poz. 94);
+- **4)** ustawa z dnia 16 listopada 1964 r. o przekazaniu państwowym biurom notarialnym prowadzenia ksiąg wieczystych (Dz. U. poz. 278).
 
 **Art. 127.** Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy obowiązują przepisy dotychczasowe, jeżeli nie są sprzeczne z przepisami tej ustawy.
 

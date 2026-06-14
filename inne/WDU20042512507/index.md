@@ -8,7 +8,7 @@ pos: 2507
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o jednostkach doradztwa rolniczego
@@ -361,6 +361,9 @@ source: "isap-pdf"
 
 **Art. 19.** Z dniem wejścia w życie ustawy przekształca się z mocy prawa:
 
+- **1)** Krajowe Centrum Doradztwa Rozwoju Rolnictwa i Obszarów Wiejskich w Brwinowie oraz Oddziały Krajowego Centrum Doradztwa Rozwoju Rolnictwa i Obszarów Wiejskich w Poznaniu i Krakowie w Centrum Doradztwa;
+- **2)** Regionalne Centra Doradztwa Rozwoju Rolnictwa i Obszarów Wiejskich w Barzkowicach, Płońsku, Przysieku, Radomiu, Starym Polu, Wrocławiu i Częstochowie, wojewódzkie ośrodki doradztwa rolniczego oraz ośrodki doradztwa rolniczego we właściwe miejscowo ośrodki doradztwa.
+
 **Art. 20.**
 
 1. Z dniem wejścia w życie ustawy:
@@ -398,6 +401,9 @@ source: "isap-pdf"
 3. Do pracowników, o których mowa w ust. 1 i 2, stosuje się przepisy art. 23 Kodeksu pracy.
 
 **Art. 23.** Ilekroć w obowiązujących przepisach jest mowa o:
+
+- **1)** Krajowym Centrum Doradztwa Rozwoju Rolnictwa i Obszarów Wiejskich w Brwinowie lub oddziałach Krajowego Centrum Doradztwa Rozwoju Rolnictwa i Obszarów Wiejskich w Poznaniu i Krakowie – rozumie się przez to Centrum Doradztwa;
+- **2)** regionalnych centrach doradztwa rozwoju rolnictwa i obszarów wiejskich, wojewódzkich ośrodkach doradztwa rolniczego lub o ośrodkach doradztwa rolniczego – rozumie się przez to ośrodki doradztwa.
 
 **Art. 24.** Ustawa wchodzi w życie z dniem 1 stycznia 2005 r.
 

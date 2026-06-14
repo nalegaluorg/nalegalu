@@ -8,10 +8,10 @@ pos: 815
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 czerwca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 815 Załączniki do rozporządzenia Ministra Rozwoju z dnia 2 czerwca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000815) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/815/text.pdf) |
 
-a Rozwo u z dnia 2 a 2016 r
+(poz. ….) Załącznik nr 1 WYMAGANIA DLA WODOMIERZY
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w załączniku stosuje się do wodomierzy przeznaczonych do pomiaru objętości wody czystej, zimnej lub ciepłej, zużywanej w gospodarstwach domowych, usługach i handlu oraz w przemyśle drobnym.
 2. Użyte w załączniku określenia oznaczają:
 1) minimalny strumień objętości (Q ) - najmniejszy strumień objętości wody, przy którym wskazania wodomierza mieszczą się w granicach błędu granicznego dopuszczalnego (MPE);
@@ -39,12 +39,12 @@ b) Q /Q = 1,6,
 c) Q /Q = 1,25;
 2) zakres temperatury wody, przy czym granice tego zakresu wynoszą:
 a) od 0,1 °C do co najmniej 30 °C,
-b) od 30 °C do co najmniej 90 °C przy czym wodomierz może być przeznaczony do działania w obu tych zakresach;
+b) od 30 °C do co najmniej 90 °C – przy czym wodomierz może być przeznaczony do działania w obu tych zakresach;
 3) zakres ciśnienia wody, który mieści się w granicach od 0,3 bara do co najmniej 10 barów przy Q ;
 4) źródło zasilania określając wartość nominalną źródła prądu przemiennego lub wartości graniczne źródła prądu stałego.
 4. Błąd graniczny dopuszczalny (MPE) dla objętości wody uzyskiwanej ze strumieni objętości pomiędzy pośrednim strumieniem objętości (Q ) (włącznie) a przeciążeniowym strumieniem objętości (Q ) wynosi:
-1) 2% dla wodomierzy przeznaczonych do pomiaru objętości wody o temperaturze nie wyższej niż 30 °C;
-2) 3% dla wodomierzy przeznaczonych do pomiaru objętości wody o temperaturze wyższej niż 30 °C.
+1) 2% – dla wodomierzy przeznaczonych do pomiaru objętości wody o temperaturze nie wyższej niż 30 °C;
+2) 3% – dla wodomierzy przeznaczonych do pomiaru objętości wody o temperaturze wyższej niż 30 °C.
 5. Błąd graniczny dopuszczalny (MPE) wodomierza, dla objętości wody uzyskiwanej ze strumieni objętości między minimalnym strumieniem objętości (Q ) a pośrednim strumieniem objętości (Q ) (wyłącznie) wynosi 5%, niezależnie od temperatury wody.
 6. Wodomierz nie może wykazywać systematycznie błędów zbliżonych do błędu granicznego dopuszczalnego (MPE), a wskazania wodomierza nie mogą faworyzować systematycznie jednej ze stron.
 7. Dopuszczalny wpływ zaburzenia elektromagnetycznego na wodomierz jest taki, że:
@@ -69,19 +69,21 @@ c) ±3,5% mierzonej objętości między pośrednim strumieniem objętości (Q ) 
 12. Producent określa, czy wodomierz jest zaprojektowany do pomiaru przepływu wstecznego. W takim wypadku objętość przepływu wstecznego jest odejmowana od całkowitej objętości lub rejestrowana oddzielnie. Do przepływu normalnego i wstecznego stosuje się taki sam błąd graniczny dopuszczalny (MPE).
 13. Wodomierz niezaprojektowany do pomiaru przepływu wstecznego musi zapobiegać przepływowi wstecznemu albo wytrzymywać przypadkowy przepływ wsteczny bez uszkodzenia lub zmiany właściwości metrologicznych.
 14. Objętość wody mierzona przez wodomierz jest wyrażana w metrach sześciennych.
-I. Przepisy ogólne
+
+## Załącznik nr 2 — WYMAGANIA DLA GAZOMIERZY I PRZELICZNIKÓW DO GAZOMIERZY I. Przepisy ogólne
+
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w niniejszej części stosuje się do:
 1) gazomierzy,
-2) przeliczników do gazomierzy przeznaczonych do stosowania w gospodarstwach domowych, usługach i handlu oraz w przemyśle drobnym.
+2) przeliczników do gazomierzy – przeznaczonych do stosowania w gospodarstwach domowych, usługach i handlu oraz w przemyśle drobnym.
 2. Do gazomierzy stosuje się również wymagania określone w części II załącznika.
 3. Do przeliczników do gazomierzy stosuje się również wymagania określone w części III załącznika.
 4. Użyte w załączniku określenia oznaczają:
-1) strumień objętości objętość gazu, która przepłynęła przez gazomierz w jednostce czasu;
-2) minimalny strumień objętości (Q ) najmniejszy strumień objętości, przy którym wskazania gazomierza mieszczą się w granicach błędu granicznego dopuszczalnego (MPE);
-3) maksymalny strumień objętości (Q ) największy strumień objętości, przy którym wskazania gazomierza mieszczą się w granicach błędu granicznego dopuszczalnego (MPE);
-4) przejściowy strumień objętości (Q ) strumień objętości, pomiędzy maksymalnym a minimalnym strumieniem objętości, dzielący zakres strumienia objętości na dwa przedziały: górny i dolny, z których każdy posiada charakterystyczny błąd graniczny dopuszczalny (MPE);
-5) przeciążeniowy strumień objętości (Q ) największy strumień objętości, przy którym gazomierz może działać w sposób prawidłowy w krótkim okresie bez uszkodzenia;
-6) warunki bazowe warunki, do których przelicza się ilość gazu zmierzoną w warunkach pomiaru.
+1) strumień objętości – objętość gazu, która przepłynęła przez gazomierz w jednostce czasu;
+2) minimalny strumień objętości (Q ) – najmniejszy strumień objętości, przy którym wskazania gazomierza mieszczą się w granicach błędu granicznego dopuszczalnego (MPE);
+3) maksymalny strumień objętości (Q ) – największy strumień objętości, przy którym wskazania gazomierza mieszczą się w granicach błędu granicznego dopuszczalnego (MPE);
+4) przejściowy strumień objętości (Q ) – strumień objętości, pomiędzy maksymalnym a minimalnym strumieniem objętości, dzielący zakres strumienia objętości na dwa przedziały: górny i dolny, z których każdy posiada charakterystyczny błąd graniczny dopuszczalny (MPE);
+5) przeciążeniowy strumień objętości (Q ) – największy strumień objętości, przy którym gazomierz może działać w sposób prawidłowy w krótkim okresie bez uszkodzenia;
+6) warunki bazowe – warunki, do których przelicza się ilość gazu zmierzoną w warunkach pomiaru.
 II. Wymagania dla gazomierzy
 1. Gazomierze dzielą się na 2 klasy dokładności oznaczane jako 1,0 i 1,5.
 2. Producent określa warunki znamionowe użytkowania gazomierzy, w szczególności:
@@ -126,33 +128,36 @@ Upływ 90% okresu działania źródła zasilania musi być sygnalizowany odpowie
 III. Wymagania dla przeliczników do gazomierzy
 1. Producent określa warunki bazowe dla przeliczanych ilości gazu.
 2. Błąd graniczny dopuszczalny (MPE) przeliczników do gazomierzy, bez uwzględnienia błędu gazomierza, wynosi:
-1) 0,5% w temperaturze otoczenia 20 °C ±3 °C, przy wilgotności otoczenia 60% ±15% i przy nominalnych wartościach napięcia zasilania;
-2) 1% w warunkach znamionowych użytkowania, z zastrzeżeniem pkt 3;
-3) 0,7% dla przeliczników temperaturowych w warunkach znamionowych użytkowania.
+1) 0,5% – w temperaturze otoczenia 20 °C ±3 °C, przy wilgotności otoczenia 60% ±15% i przy nominalnych wartościach napięcia zasilania;
+2) 1% – w warunkach znamionowych użytkowania, z zastrzeżeniem pkt 3;
+3) 0,7% – dla przeliczników temperaturowych w warunkach znamionowych użytkowania.
 3. Przelicznik do gazomierza nie może wykazywać systematycznie błędów zbliżonych do błędu granicznego dopuszczalnego (MPE), a wskazania przelicznika do gazomierza nie mogą faworyzować systematycznie jednej ze stron.
 4. Elektroniczny przelicznik do gazomierzy musi wykrywać działanie poza zakresem użytkowania określonym przez producenta dla parametrów, które mają wpływ na dokładność pomiaru. W takim przypadku przelicznik musi zatrzymywać całkowanie przeliczanej ilości gazu i może sumować oddzielnie przeliczaną jego ilość w czasie działania poza zakresem użytkowania.
 5. Elektroniczny przelicznik do gazomierzy musi umożliwiać wskazanie wszystkich danych związanych z pomiarem, bez konieczności stosowania dodatkowego urządzenia.
 6. Do przeliczników do gazomierzy, w zakresie nieuregulowanym w niniejszej części, stosuje się odpowiednio wymagania dla gazomierzy określone w części II.
+
+## Załącznik nr 3 — WYMAGANIA DLA LICZNIKÓW ENERGII ELEKTRYCZNEJ CZYNNEJ
+
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w załączniku stosuje się do liczników energii elektrycznej czynnej, zwanych dalej „licznikami”, przeznaczonych do stosowania w gospodarstwach domowych, usługach i handlu oraz w przemyśle drobnym.
 2. W zależności od zastosowanej techniki pomiarowej liczniki mogą być stosowane w połączeniu z zewnętrznymi przekładnikami, do których nie stosuje się wymagań określonych w rozporządzeniu.
 3. Użyte w załączniku symbole oznaczają:
-1) I prąd elektryczny płynący przez licznik;
-2) I prąd nominalny, dla którego zaprojektowano licznik przekładnikowy;
-3) I najniższa deklarowana wartość prądu I, przy której licznik rejestruje energię elektryczną czynną przy jednostkowym współczynniku mocy (w przypadku licznika wielofazowego przy obciążeniu symetrycznym);
-4) I wartość prądu I, powyżej której błąd licznika nie przekracza błędu granicznego dopuszczalnego (MPE) (w przypadku licznika wielofazowego przy obciążeniu symetrycznym);
-5) I wartość prądu I, powyżej której błąd licznika nie przekracza najmniejszego błędu granicznego dopuszczalnego (MPE) odpowiadającego danej klasie dokładności licznika;
-6) I najwyższa wartość prądu I, przy której błąd licznika nie przekracza błędu granicznego dopuszczalnego (MPE);
-7) U napięcie sieci elektrycznej doprowadzane do licznika;
-8) U wyspecyfikowane napięcie nominalne licznika;
-9) f częstotliwość napięcia doprowadzonego do licznika;
-10) f wyspecyfikowana częstotliwość nominalna licznika;
-11) PF współczynnik mocy (cos φ), cosinus przesunięcia fazowego φ pomiędzy prądem I a napięciem U.
+1) I – prąd elektryczny płynący przez licznik;
+2) I – prąd nominalny, dla którego zaprojektowano licznik przekładnikowy;
+3) I – najniższa deklarowana wartość prądu I, przy której licznik rejestruje energię elektryczną czynną przy jednostkowym współczynniku mocy (w przypadku licznika wielofazowego przy obciążeniu symetrycznym);
+4) I – wartość prądu I, powyżej której błąd licznika nie przekracza błędu granicznego dopuszczalnego (MPE) (w przypadku licznika wielofazowego przy obciążeniu symetrycznym);
+5) I – wartość prądu I, powyżej której błąd licznika nie przekracza najmniejszego błędu granicznego dopuszczalnego (MPE) odpowiadającego danej klasie dokładności licznika;
+6) I – najwyższa wartość prądu I, przy której błąd licznika nie przekracza błędu granicznego dopuszczalnego (MPE);
+7) U – napięcie sieci elektrycznej doprowadzane do licznika;
+8) U – wyspecyfikowane napięcie nominalne licznika;
+9) f – częstotliwość napięcia doprowadzonego do licznika;
+10) f – wyspecyfikowana częstotliwość nominalna licznika;
+11) PF – współczynnik mocy (cos φ), cosinus przesunięcia fazowego φ pomiędzy prądem I a napięciem U.
 4. Liczniki dzieli się na trzy klasy dokładności oznaczane jako: A, B i C, które określa producent.
 5. Producent określa warunki znamionowe użytkowania liczników, w szczególności:
 1) wartości f , U , I , I , I , I oraz I odnoszące się do licznika, przy czym przy poszczególnych wartościach prądu, licznik spełnia wymagania określone w tabeli nr 1;
 Tabela nr 1 Klasa A Klasa B Klasa C Dla liczników bezpośrednich I ≤ 0,05 · I ≤ 0,04 · I ≤ 0,04 · I I ≤ 0,5 · I ≤ 0,5 · I ≤ 0,3 · I I ≥ 50 · I ≥ 50 · I ≥ 50 · I Dla liczników pośrednich (przekładnikowych) I ≤ 0,06 · I ≤ 0,04 · I ≤ 0,02 · I I ≤ 0,4 · I ≤ 0,2 · I ≤ 0,2 · I I = 20 · I = 20 · I = 20 · I I ≥ 1,2 · I ≥ 1,2 · I ≥ 1,2 · I
-2) zakresy napięcia, częstotliwości oraz współczynnika mocy, przy których licznik spełnia wymagania dotyczące błędu granicznego dopuszczalnego (MPE), o których mowa w tabeli nr 2 zakresy te pokrywają się z typowymi parametrami sieci zasilającej oraz:
-a) zakresy napięć i częstotliwości wynoszą co najmniej: 0,9 · U ≤ U ≤ 1,1 · U , 0,98 · f ≤ f ≤ 1,02 · f ,
+2) zakresy napięcia, częstotliwości oraz współczynnika mocy, przy których licznik spełnia wymagania dotyczące błędu granicznego dopuszczalnego (MPE), o których mowa w tabeli nr 2 – zakresy te pokrywają się z typowymi parametrami sieci zasilającej oraz:
+a) zakresy napięć i częstotliwości wynoszą co najmniej: – 0,9 · U ≤ U ≤ 1,1 · U , – 0,98 · f ≤ f ≤ 1,02 · f ,
 b) zakres współczynnika mocy wynosi co najmniej od cos φ = 0,5 indukcyjnego do cos φ = 0,8 pojemnościowego.
 6. Skutki powodowane różnymi wielkościami mierzonymi i wielkościami wpływającymi (a, b, c,...) ocenia się oddzielnie, przy wartościach nominalnych pozostałych wielkości mierzonych i wpływających, utrzymywanych w sposób stabilny.
 7. Błąd pomiaru, który nie przekracza błędów granicznych dopuszczalnych (MPE) licznika określonych w tabeli nr 2, oblicza się na podstawie danych o wielkościach wpływających, według wzoru: błąd pomiaru = √a + b + c ... .
@@ -163,12 +168,12 @@ Tabela nr 2 Zakres temperatur użytkowania -10 °C ... +5 °C -25 °C ... -10 °
 1) spełniać wymagania dla klasy E2 warunków środowiskowych elektromagnetycznych oraz dodatkowe wymagania określone w ust. 11-13;
 2) być zabezpieczony przed zmianą charakterystyk metrologicznych z powodu wystąpienia wyładowań atmosferycznych, jeżeli istnieje ryzyko ich wystąpienia lub gdy przeważające są napowietrzne linie zasilające.
 11. Skutki oddziaływania długotrwałych zaburzeń elektromagnetycznych nie mogą powodować zmiany dokładności licznika ponad wartość zmiany krytycznej. Wartości zmiany krytycznej w zależności od klasy dokładności licznika określa tabela nr 3.
-Tabela nr 3 Rodzaj zaburzenia Wartość zmiany krytycznej (w %) dla liczników klas dokładności A B C Odwrócona kolejność faz 1,5 1,5 0,3 Niezrównoważenie napięcia (stosuje się do liczników 4 2 1 wielofazowych) Zawartość harmonicznych w obwodach prądowych 1 0,8 0,5 DC (składowej stałej) i harmoniczne w obwodach prądowych 6 3 1,5 Szybkie elektryczne stany przejściowe 6 4 2 Pola magnetyczne; pole magnetyczne HF (promieniowane RF); 3 2 1 zaburzenia przewodzone, wprowadzane przez pola o częstotliwości radiowej; oraz odporność na przebiegi oscylacyjne
+Tabela nr 3 Wartość zmiany Rodzaj zaburzenia krytycznej (w %) dla liczników klas dokładności A B C Odwrócona kolejność faz 1,5 1,5 0,3 Niezrównoważenie napięcia (stosuje się do liczników 4 2 1 wielofazowych) Zawartość harmonicznych w obwodach prądowych 1 0,8 0,5 DC (składowej stałej) i harmoniczne w obwodach prądowych 6 3 1,5 Szybkie elektryczne stany przejściowe 6 4 2 Pola magnetyczne; pole magnetyczne HF (promieniowane RF); 3 2 1 zaburzenia przewodzone, wprowadzane przez pola o częstotliwości radiowej; oraz odporność na przebiegi oscylacyjne
 12. Skutek oddziaływania przejściowego zaburzenia elektromagnetycznego na licznik, mogącego spowodować chwilowe pogorszenie lub utratę jego funkcji lub działania, jest taki, aby podczas wystąpienia zaburzenia i bezpośrednio po nim żadne z wyjść przeznaczonych do sprawdzania dokładności licznika nie wytwarzało impulsów ani sygnałów odpowiadających energii w liczbie większej niż wartość zmiany krytycznej, a licznik ten w odpowiednim okresie po ustąpieniu zaburzenia:
 1) powrócił do działania w granicach błędu granicznego dopuszczalnego (MPE);
 2) zachował funkcje pomiarowe;
 3) umożliwił odzyskanie danych pomiarów wykonanych bezpośrednio przed wystąpieniem zaburzenia;
-4) nie wykazywał zmian w zarejestrowanej energii większych niż wartość zmiany krytycznej, która wyrażona w kWh wynosi: m · U · I · 10 gdzie: m oznacza liczbę systemów pomiarowych licznika, U wyrażone w woltach, I wyrażone w amperach.
+4) nie wykazywał zmian w zarejestrowanej energii większych niż wartość zmiany krytycznej, która wyrażona w kWh wynosi: m · U · I · 10 gdzie: m – oznacza liczbę systemów pomiarowych licznika, U – wyrażone w woltach, I – wyrażone w amperach.
 13. Dla przetężeń wartość zmiany krytycznej wynosi 1,5%.
 14. Dodatni błąd licznika poniżej znamionowego napięcia użytkowania nie przekracza 10%.
 15. Urządzenie wskazujące całkowitą energię musi mieć odpowiednią liczbę cyfr, która zapewni wskazanie wartości odpowiadającej pełnemu obciążeniu licznika (I = I , U = U , PF = 1) w czasie 4 000 godzin i nie spowoduje powrotu do wartości początkowej, a wskazanie nie może być skasowane w trakcie użytkowania.
@@ -176,33 +181,36 @@ Tabela nr 3 Rodzaj zaburzenia Wartość zmiany krytycznej (w %) dla liczników k
 17. Przy biegu jałowym, jeżeli przez licznik podłączony do napięcia nie przepływa prąd elektryczny (tory prądowe licznika są otwarte), licznik nie rejestruje energii przy dowolnym napięciu w zakresie od 0,8 U do 1,1 U .
 18. Licznik musi rozpoczynać i kontynuować rejestrację energii przy U , PF = 1 (licznik wielofazowy przy obciążeniu symetrycznym) i I = I .
 19. Ilość energii mierzona przez licznik jest wyrażana w kilowatogodzinach (kWh) lub w megawatogodzinach (MWh).
+
+## Załącznik nr 4 — WYMAGANIA DLA CIEPŁOMIERZY
+
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w załączniku stosuje się do ciepłomierzy i ich podzespołów przeznaczonych do stosowania w gospodarstwach domowych, usługach i handlu oraz w przemyśle drobnym.
 2. Użyte w załączniku określenia i symbole oznaczają:
-1) przelicznik podzespół ciepłomierza odbierający sygnały pary czujników temperatury i przetwornika przepływu, przetwarzający je oraz obliczający i wskazujący wartość liczbową ciepła przekazanego w obiegu wymiany ciepła;
-2) parę czujników temperatury podzespół ciepłomierza wytwarzający sygnały wyjściowe będące funkcją temperatury nośnika ciepła na wejściu i na wyjściu obiegu wymiany ciepła;
-3) przetwornik przepływu podzespół ciepłomierza wytwarzający sygnał wyjściowy będący funkcją objętości, masy, strumienia objętości lub strumienia masy nośnika ciepła, mierzonych na wejściu albo na wyjściu obiegu wymiany ciepła;
-4) θ temperaturę ciekłego nośnika ciepła;
-5) θ wartość temperatury θ na wejściu obiegu wymiany ciepła;
-6) θ wartość temperatury θ na wyjściu obiegu wymiany ciepła;
-7) ∆θ różnicę temperatury θ - θ , ∆θ ≥ 0;
-8) θ górną granicę θ, przy której ciepłomierz działa poprawnie, bez przekroczenia błędu granicznego dopuszczalnego (MPE);
-9) θ dolną granicę θ, przy której ciepłomierz działa poprawnie, bez przekroczenia błędu granicznego dopuszczalnego (MPE);
-10) ∆θ górną granicę ∆θ, przy której ciepłomierz działa poprawnie, bez przekroczenia błędu granicznego dopuszczalnego (MPE);
-11) ∆θ dolną granicę ∆θ, przy której ciepłomierz działa poprawnie, bez przekroczenia błędu granicznego dopuszczalnego (MPE);
-12) q strumień objętości lub strumień masy ciekłego nośnika ciepła;
-13) q największą wartość q dopuszczalną w krótkich okresach, przy której ciepłomierz działa poprawnie;
-14) q największą wartość q dopuszczalną podczas działania ciągłego, przy której ciepłomierz działa poprawnie;
-15) q najmniejszą wartość q dopuszczalną dla ciepłomierza, przy której działa on poprawnie;
-16) P moc cieplną wymiany ciepła;
-17) P największą wartość mocy cieplnej dopuszczalną dla ciepłomierza, przy której działa on poprawnie.
+1) przelicznik – podzespół ciepłomierza odbierający sygnały pary czujników temperatury i przetwornika przepływu, przetwarzający je oraz obliczający i wskazujący wartość liczbową ciepła przekazanego w obiegu wymiany ciepła;
+2) parę czujników temperatury – podzespół ciepłomierza wytwarzający sygnały wyjściowe będące funkcją temperatury nośnika ciepła na wejściu i na wyjściu obiegu wymiany ciepła;
+3) przetwornik przepływu – podzespół ciepłomierza wytwarzający sygnał wyjściowy będący funkcją objętości, masy, strumienia objętości lub strumienia masy nośnika ciepła, mierzonych na wejściu albo na wyjściu obiegu wymiany ciepła;
+4) θ – temperaturę ciekłego nośnika ciepła;
+5) θ – wartość temperatury θ na wejściu obiegu wymiany ciepła;
+6) θ – wartość temperatury θ na wyjściu obiegu wymiany ciepła;
+7) ∆θ – różnicę temperatury θ - θ , ∆θ ≥ 0;
+8) θ – górną granicę θ, przy której ciepłomierz działa poprawnie, bez przekroczenia błędu granicznego dopuszczalnego (MPE);
+9) θ – dolną granicę θ, przy której ciepłomierz działa poprawnie, bez przekroczenia błędu granicznego dopuszczalnego (MPE);
+10) ∆θ – górną granicę ∆θ, przy której ciepłomierz działa poprawnie, bez przekroczenia błędu granicznego dopuszczalnego (MPE);
+11) ∆θ – dolną granicę ∆θ, przy której ciepłomierz działa poprawnie, bez przekroczenia błędu granicznego dopuszczalnego (MPE);
+12) q – strumień objętości lub strumień masy ciekłego nośnika ciepła;
+13) q – największą wartość q dopuszczalną w krótkich okresach, przy której ciepłomierz działa poprawnie;
+14) q – największą wartość q dopuszczalną podczas działania ciągłego, przy której ciepłomierz działa poprawnie;
+15) q – najmniejszą wartość q dopuszczalną dla ciepłomierza, przy której działa on poprawnie;
+16) P – moc cieplną wymiany ciepła;
+17) P – największą wartość mocy cieplnej dopuszczalną dla ciepłomierza, przy której działa on poprawnie.
 3. Producent określa warunki znamionowe użytkowania ciepłomierzy, w szczególności dla:
-1) temperatury cieczy θ , θ ;
-2) różnicy temperatury ∆θ , ∆θ przy czym ∆θ /∆θ ≥ 10; ∆θ = 3 K, 5 K albo 10 K;
+1) temperatury cieczy – θ , θ ;
+2) różnicy temperatury – ∆θ , ∆θ – przy czym ∆θ /∆θ ≥ 10; ∆θ = 3 K, 5 K albo 10 K;
 3) ciśnienia cieczy będącego największym nadciśnieniem wewnętrznym, przy którym ciepłomierz może działać w sposób ciągły przy górnej granicy temperatury;
-4) strumieni objętości lub strumieni masy cieczy q , q , q , przy czym q /q ≥ 10;
+4) strumieni objętości lub strumieni masy cieczy – q , q , q , – przy czym q /q ≥ 10;
 5) mocy cieplnej P .
 4. Ciepłomierze dzielą się na 3 klasy dokładności oznaczane jako: 1, 2 i 3.
-5. Błędy graniczne dopuszczalne względne (MPE) ciepłomierza zespolonego wyrażone w procentach wartości poprawnej, w zależności od klasy dokładności, oblicza się według wzoru: E = E + E + E gdzie błędy E , E , E określa się zgodnie z ust. 13-15.
+5. Błędy graniczne dopuszczalne względne (MPE) ciepłomierza zespolonego wyrażone w procentach wartości poprawnej, w zależności od klasy dokładności, oblicza się według wzoru: E = E + E + E – gdzie błędy E , E , E określa się zgodnie z ust. 13-15.
 6. Ciepłomierz zespolony nie może wykazywać systematycznie błędów zbliżonych do błędu granicznego dopuszczalnego (MPE), a wskazania ciepłomierza zespolonego nie mogą faworyzować systematycznie jednej ze stron.
 7. Ciepłomierz zespolony musi być odporny na wpływ statycznego pola magnetycznego i pola elektromagnetycznego o częstotliwości sieci.
 8. Skutek oddziaływania przejściowego zaburzenia elektromagnetycznego na ciepłomierz jest taki, że:
@@ -210,8 +218,8 @@ Tabela nr 3 Rodzaj zaburzenia Wartość zmiany krytycznej (w %) dla liczników k
 2) wskazanie wyniku pomiaru nie może być interpretowane jako prawidłowy wynik.
 9. Wartość zmiany krytycznej dla ciepłomierza zespolonego jest równa wartości bezwzględnej błędu granicznego dopuszczalnego (MPE) tego ciepłomierza.
 10. Po przeprowadzeniu badania trwałości, z uwzględnieniem okresu ustalonego przez producenta, następujące podzespoły ciepłomierza muszą spełniać poniższe warunki:
-1) przetworniki przepływu zmiana wyniku pomiaru w porównaniu z początkowym jego wynikiem nie może przekraczać wartości zmiany krytycznej;
-2) czujniki temperatury zmiana wyniku pomiaru w porównaniu z początkowym wynikiem pomiaru nie może przekraczać 0,1 °C.
+1) przetworniki przepływu – zmiana wyniku pomiaru w porównaniu z początkowym jego wynikiem nie może przekraczać wartości zmiany krytycznej;
+2) czujniki temperatury – zmiana wyniku pomiaru w porównaniu z początkowym wynikiem pomiaru nie może przekraczać 0,1 °C.
 11. Niezależnie od oznaczeń, o których mowa w § 39 rozporządzenia, na ciepłomierzu umieszcza się informacje dotyczące:
 1) klasy dokładności;
 2) granic strumienia objętości lub strumienia masy;
@@ -244,30 +252,33 @@ a) rodzaju czujników temperatury,
 b) granic temperatury,
 c) granic różnicy temperatury,
 d) wymaganej stałej przetwarzania, w szczególności wyrażonej w litr/impuls, lub odpowiedniego sygnału wejściowego pochodzącego z przetwornika przepływu,
-e) miejsca montażu przetwornika przepływu zasilanie albo powrót.
+e) miejsca montażu przetwornika przepływu – zasilanie albo powrót.
+
+## Załącznik nr 5 — WYMAGANIA DLA INSTALACJI POMIAROWYCH
+
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w załączniku stosuje się do instalacji pomiarowych.
 2. Użyte w załączniku określenia oznaczają:
-1) licznik przyrząd przeznaczony do ciągłego pomiaru, zapamiętywania i przedstawiania ilości cieczy przepływającej w warunkach pomiaru przez przetwornik pomiarowy w zamkniętym i całkowicie wypełnionym przewodzie;
-2) liczydło część licznika otrzymującą sygnały wyjściowe z przetwornika pomiarowego lub od współpracującego przyrządu pomiarowego i przedstawiającą wyniki pomiaru;
-3) współpracujący przyrząd pomiarowy przyrząd służący do pomiaru określonych wielkości charakteryzujących ciecz, podłączony do liczydła w celu dokonania poprawki lub przeliczenia;
-4) przelicznik część liczydła, która uwzględniając wielkości charakteryzujące ciecz, w szczególności temperaturę i gęstość, zmierzone za pomocą wchodzących w jego skład współpracujących przyrządów pomiarowych lub przechowywane w pamięci, automatycznie przelicza:
+1) licznik – przyrząd przeznaczony do ciągłego pomiaru, zapamiętywania i przedstawiania ilości cieczy przepływającej w warunkach pomiaru przez przetwornik pomiarowy w zamkniętym i całkowicie wypełnionym przewodzie;
+2) liczydło – część licznika otrzymującą sygnały wyjściowe z przetwornika pomiarowego lub od współpracującego przyrządu pomiarowego i przedstawiającą wyniki pomiaru;
+3) współpracujący przyrząd pomiarowy – przyrząd służący do pomiaru określonych wielkości charakteryzujących ciecz, podłączony do liczydła w celu dokonania poprawki lub przeliczenia;
+4) przelicznik – część liczydła, która uwzględniając wielkości charakteryzujące ciecz, w szczególności temperaturę i gęstość, zmierzone za pomocą wchodzących w jego skład współpracujących przyrządów pomiarowych lub przechowywane w pamięci, automatycznie przelicza:
 a) objętość cieczy zmierzoną w warunkach pomiaru na objętość cieczy w warunkach bazowych lub na jej masę lub
 b) masę cieczy zmierzoną w warunkach pomiaru na objętość cieczy w warunkach pomiaru lub na objętość cieczy w warunkach bazowych;
-5) warunki bazowe warunki, do których przelicza się ilość cieczy zmierzoną w warunkach pomiaru;
-6) odmierzacz paliwa instalację pomiarową przeznaczoną do tankowania pojazdów silnikowych, małych łodzi i małych samolotów;
-7) układ samoobsługowy układ umożliwiający samodzielne używanie instalacji pomiarowej w celu nabywania cieczy na własny użytek;
-8) urządzenie samoobsługowe urządzenie, które jest częścią układu samoobsługowego i które pozwala jednej instalacji pomiarowej lub większej ich liczbie działać w tym układzie;
-9) dawka minimalna (V ) najmniejszą ilość cieczy, której pomiar jest metrologicznie akceptowany dla instalacji pomiarowej;
-10) wskazanie bezpośrednie wskazanie objętości lub masy cieczy odpowiadające wynikowi pomiaru potwierdzające, że licznik jest faktycznie przygotowany do pomiaru;
+5) warunki bazowe – warunki, do których przelicza się ilość cieczy zmierzoną w warunkach pomiaru;
+6) odmierzacz paliwa – instalację pomiarową przeznaczoną do tankowania pojazdów silnikowych, małych łodzi i małych samolotów;
+7) układ samoobsługowy – układ umożliwiający samodzielne używanie instalacji pomiarowej w celu nabywania cieczy na własny użytek;
+8) urządzenie samoobsługowe – urządzenie, które jest częścią układu samoobsługowego i które pozwala jednej instalacji pomiarowej lub większej ich liczbie działać w tym układzie;
+9) dawka minimalna (V ) – najmniejszą ilość cieczy, której pomiar jest metrologicznie akceptowany dla instalacji pomiarowej;
+10) wskazanie bezpośrednie – wskazanie objętości lub masy cieczy odpowiadające wynikowi pomiaru potwierdzające, że licznik jest faktycznie przygotowany do pomiaru;
 wskazanie bezpośrednie może być przeliczone na inną wielkość z zastosowaniem przelicznika;
-11) instalacja pomiarowa przerywalna instalację pomiarową, w której strumień cieczy może być łatwo i szybko zatrzymany;
-12) instalacja pomiarowa nieprzerywalna instalację pomiarową, w której strumień cieczy nie może być łatwo i szybko zatrzymany;
-13) zakres strumienia objętości zakres pomiędzy strumieniem objętości minimalnym (Q ) a strumieniem objętości maksymalnym (Q ).
+11) instalacja pomiarowa przerywalna – instalację pomiarową, w której strumień cieczy może być łatwo i szybko zatrzymany;
+12) instalacja pomiarowa nieprzerywalna – instalację pomiarową, w której strumień cieczy nie może być łatwo i szybko zatrzymany;
+13) zakres strumienia objętości – zakres pomiędzy strumieniem objętości minimalnym (Q ) a strumieniem objętości maksymalnym (Q ).
 3. W zależności od zastosowania instalacji pomiarowej przez określenia „objętość” i „L” użyte w niniejszym załączniku należy rozumieć odpowiednio „masę” i „kg”.
 4. Instalacje pomiarowe dzieli się na 5 klas dokładności, które określa tabela nr 1.
-Tabela nr 1 Klasa Rodzaje instalacji pomiarowych dokładności 0,3 Instalacje pomiarowe w rurociągach 0,5 Instalacje pomiarowe niewymienione w pozostałych rubrykach tabeli, w szczególności: odmierzacze paliw (z wyjątkiem gazów ciekłych), instalacje pomiarowe zamontowane na cysternach samochodowych do cieczy o małej lepkości (< 20 mPa · s), instalacje pomiarowe do napełniania (opróżniania) statków, cystern kolejowych i samochodowych , instalacje pomiarowe do mleka, instalacje pomiarowe do tankowania samolotów.
+Tabela nr 1 Klasa Rodzaje instalacji pomiarowych dokładności 0,3 Instalacje pomiarowe w rurociągach 0,5 Instalacje pomiarowe niewymienione w pozostałych rubrykach tabeli, w szczególności: – odmierzacze paliw (z wyjątkiem gazów ciekłych), – instalacje pomiarowe zamontowane na cysternach samochodowych do cieczy o małej lepkości (< 20 mPa · s), – instalacje pomiarowe do napełniania (opróżniania) statków, cystern kolejowych i samochodowych , – instalacje pomiarowe do mleka, – instalacje pomiarowe do tankowania samolotów.
 1,0 Instalacje pomiarowe do gazów ciekłych pod ciśnieniem mierzonych w temperaturze równej lub wyższej niż -10 °C.
-Instalacje pomiarowe zaliczane do klasy 0,3 lub 0,5 stosowane do cieczy, których: temperatura jest niższa niż -10 °C lub wyższa niż 50 °C, lepkość dynamiczna jest większa niż 1.000 mPa · s, maksymalny strumień objętości jest nie większy niż 20 L/h.
+Instalacje pomiarowe zaliczane do klasy 0,3 lub 0,5 stosowane do cieczy, których: – temperatura jest niższa niż -10 °C lub wyższa niż 50 °C, – lepkość dynamiczna jest większa niż 1.000 mPa · s, – maksymalny strumień objętości jest nie większy niż 20 L/h.
 1,5 Instalacje pomiarowe do ditlenku węgla w stanie ciekłym.
 Instalacje pomiarowe do gazów ciekłych pod ciśnieniem mierzonych w temperaturze niższej niż -10 °C (innych niż ciecze kriogeniczne).
 2,5 Instalacje pomiarowe do cieczy kriogenicznych (temperatura niższa niż 153 °C).
@@ -333,20 +344,22 @@ Tabela nr 5 Błąd graniczny Klasa dokładności instalacji pomiarowej dopuszcza
 1) awaryjne źródło zasilania umożliwiające zachowanie wszystkich jej funkcji pomiarowych w przypadku awarii głównego źródła zasilania lub
 2) urządzenia do zachowania i przedstawienia wyników pomiaru w celu umożliwienia zakończenia trwającej transakcji i w urządzenia zatrzymujące przepływ cieczy w momencie wystąpienia awarii głównego źródła zasilania.
 27. Ilość cieczy mierzona przez instalację pomiarową jest wyrażana w mililitrach, centymetrach sześciennych, litrach, metrach sześciennych, gramach, kilogramach lub tonach.
-I. Przepisy ogólne
+
+## Załącznik nr 6 — WYMAGANIA DLA WAG AUTOMATYCZNYCH I. Przepisy ogólne
+
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w niniejszej części stosuje się do wag automatycznych, zwanych dalej „wagami”, przeznaczonych do wyznaczania masy ciała poprzez wykorzystanie działania grawitacji na to ciało.
 2. Do poszczególnych rodzajów wag stosuje się również wymagania określone w następujących częściach załącznika:
-1) do wag dla pojedynczych ładunków w części II;
-2) do wag porcjujących w części III;
-3) do wag odważających w części IV;
-4) do wag przenośnikowych w części V;
-5) do wag wagonowych w części VI.
+1) do wag dla pojedynczych ładunków – w części II;
+2) do wag porcjujących – w części III;
+3) do wag odważających – w części IV;
+4) do wag przenośnikowych – w części V;
+5) do wag wagonowych – w części VI.
 3. Użyte w załączniku określenia oznaczają:
-1) waga dla pojedynczych ładunków wagę wyznaczającą masę produktu luzem w postaci uformowanych oddzielnych ładunków lub pojedynczych ładunków;
-2) waga porcjująca wagę napełniającą pojemnik ustaloną i potencjalnie stałą masą produktu pozostającego luzem;
-3) waga odważająca wagę wyznaczającą masę produktu luzem przez rozdzielenie go na osobne ładunki, wyznaczenie i zsumowanie masy poszczególnych ładunków, a następnie połączenie wszystkich ładunków ponownie w masę produktu luzem;
-4) waga przenośnikowa wagę, która wyznacza masę produktu luzem umieszczonego na przenośniku taśmowym, bez rozdzielania go i przerywania ruchu taśmy;
-5) waga wagonowa wagę wyposażoną w nośnię ładunku zawierającą szyny, po których są przetaczane pojazdy szynowe.
+1) waga dla pojedynczych ładunków – wagę wyznaczającą masę produktu luzem w postaci uformowanych oddzielnych ładunków lub pojedynczych ładunków;
+2) waga porcjująca – wagę napełniającą pojemnik ustaloną i potencjalnie stałą masą produktu pozostającego luzem;
+3) waga odważająca – wagę wyznaczającą masę produktu luzem przez rozdzielenie go na osobne ładunki, wyznaczenie i zsumowanie masy poszczególnych ładunków, a następnie połączenie wszystkich ładunków ponownie w masę produktu luzem;
+4) waga przenośnikowa – wagę, która wyznacza masę produktu luzem umieszczonego na przenośniku taśmowym, bez rozdzielania go i przerywania ruchu taśmy;
+5) waga wagonowa – wagę wyposażoną w nośnię ładunku zawierającą szyny, po których są przetaczane pojazdy szynowe.
 4. Do wag dla pojedynczych ładunków zalicza się:
 1) wagę etykietującą, która jest wagą umieszczającą na ważonym produkcie etykietę z wartością masy;
 2) wagę kalkulacyjno-etykietującą, która jest wagą umieszczającą na ważonym produkcie etykietę z wartością masy i ceną;
@@ -378,41 +391,41 @@ II. Wymagania dla wag dla pojedynczych ładunków
 6. Klasy dokładności, o których mowa w ust. 4 pkt 1, uzupełnia się współczynnikiem (x), określającym mnożnik granicznej dopuszczalnej wartości odchylenia standardowego błędu (s), przy czym wartość współczynnika (x) nie może być większa niż 2.
 7. Wartość współczynnika (x) wyraża się w postaci 1x10 , 2x10 lub 5x10 , gdzie k jest liczbą całkowitą ujemną lub zerem.
 8. Graniczne dopuszczalne wartości błędu średniego dla wag kategorii X oraz błędy graniczne dopuszczalne dla wag kategorii Y, przy automatycznym ważeniu ładunku o masie m zawartej w zakresie ważenia wagi, określa tabela nr 1.
-Tabela nr 1 Masa ładunku netto (m) wyrażona w działkach Graniczne Błędy graniczne legalizacyjnych (e) dopuszczalne dopuszczalne wartości błędu (MPE) średniego XI Y(I) XII Y(II) XIII Y(a) XIIII Y(b) X Y 0< 0< 0< 0< ±0,5 e ±1 e M≤50000 m≤5000 m≤500 m≤50 50000< 5000< 500< 50< ±1,0 e ±1,5 e m≤200000 m≤20000 m≤2000 m≤200 200000<m 20000< 2000< 200< ±1,5 e ±2 e m≤100000 m≤10000 m≤1000 gdzie działka legalizacyjna (e) oznacza wartość wyrażoną w jednostkach miary masy i stosowaną do badań, kontroli i klasyfikacji wag.
+Tabela nr 1 Masa ładunku netto (m) wyrażona w działkach Graniczne Błędy graniczne legalizacyjnych (e) dopuszczalne dopuszczalne wartości błędu (MPE) średniego XI Y(I) XII Y(II) XIII Y(a) XIIII Y(b) X Y 0< 0< 0< 0< ±0,5 e ±1 e M≤50000 m≤5000 m≤500 m≤50 50000< 5000< 500< 50< ±1,0 e ±1,5 e m≤200000 m≤20000 m≤2000 m≤200 200000<m 20000< 2000< 200< ±1,5 e ±2 e m≤100000 m≤10000 m≤1000 – gdzie działka legalizacyjna (e) oznacza wartość wyrażoną w jednostkach miary masy i stosowaną do badań, kontroli i klasyfikacji wag.
 9. Graniczna dopuszczalna wartość odchylenia standardowego błędu (s), przy automatycznym ważeniu określonej liczby ładunków o masie m, dla wag klasy X (x) stanowi iloczyn współczynnika (x) i wartości określonej w tabeli nr 2.
-Tabela nr 2 Masa ładunku netto (m) w gramach Graniczne dopuszczalne wartości odchylenia standardowego błędu (s) dla wag klasy X(1) m≤ 50 0,48 % 50 < m ≤ 100 0,24 g 100 < m ≤ 200 0,24 % 200 < m ≤ 300 0,48 g 300 < m ≤ 500 0,16 % 500 < m ≤ 1000 0,8 g 1000 < m ≤ 10000 0,08 % 10000 < m ≤ 15000 8 g 15000 < m 0,053 % dla wag klas XI i XII (x) < 1 dla wag klasy XIII (x) ≤ 1 dla wag klasy XIIII (x) > 1
+Tabela nr 2 Graniczne dopuszczalne wartości odchylenia Masa ładunku netto (m) w gramach standardowego błędu (s) dla wag klasy X(1) m≤ 50 0,48 % 50 < m ≤ 100 0,24 g 100 < m ≤ 200 0,24 % 200 < m ≤ 300 0,48 g 300 < m ≤ 500 0,16 % 500 < m ≤ 1000 0,8 g 1000 < m ≤ 10000 0,08 % 10000 < m ≤ 15000 8 g 15000 < m 0,053 % dla wag klas XI i XII (x) < 1 dla wag klasy XIII (x) ≤ 1 dla wag klasy XIIII (x) > 1
 10. Wartości działek legalizacyjnych (e) i liczbę działek legalizacyjnych wag dla pojedynczych ładunków, w zależności od klasy dokładności, dla:
-1) wag jednodziałkowych określa tabela nr 3;
-Tabela nr 3 Wartość działki legalizacyjnej (e) Klasa dokładności Liczba działek legalizacyjnych n= Max/e minimalna maksymalna XI Y(I) 0,001 g ≤ e 50000 XII Y(II) 0,001 g ≤ e ≤ 0,05 g 100 100000 0,1 g ≤ e 5000 100000 XIII Y(a) 0,1 g ≤ e ≤ 2 g 100 10000 5g ≤ e 500 10000 XIIII Y(b) 5g ≤ e 100 1000
-2) wag wielodziałkowych określa tabela nr 4;
-Tabela nr 4 Wartości działki legalizacyjnej Liczba działek legalizacyjnych Klasa (e) n= Max/e dokładności minimalna n= Max /e maksymalna n= Max /e XI Y(I) 0,001 g ≤ e 50000 XII Y(II) 0,001 g ≤ e ≤ 0,05 g 5000 100000 0,1 g ≤ e 5000 100000 XIII Y(a) 0,1 g ≤ e 500 10000 XIIII Y(b) 5 g ≤ e 50 1000 przy czym: i = 1, 2, ... r, gdzie: i - podzakres, r - całkowita liczba podzakresów.
+1) wag jednodziałkowych – określa tabela nr 3;
+Tabela nr 3 Wartość działki legalizacyjnej (e) Liczba działek legalizacyjnych Klasa dokładności n= Max/e minimalna maksymalna XI Y(I) 0,001 g ≤ e 50000 XII Y(II) 0,001 g ≤ e ≤ 0,05 g 100 100000 0,1 g ≤ e 5000 100000 XIII Y(a) 0,1 g ≤ e ≤ 2 g 100 10000 5g ≤ e 500 10000 XIIII Y(b) 5g ≤ e 100 1000
+2) wag wielodziałkowych – określa tabela nr 4;
+Tabela nr 4 Wartości działki legalizacyjnej Liczba działek legalizacyjnych Klasa (e) n= Max/e dokładności minimalna maksymalna n= Max /e n= Max /e XI Y(I) 0,001 g ≤ e 50000 XII Y(II) 0,001 g ≤ e ≤ 0,05 g 5000 100000 0,1 g ≤ e 5000 100000 XIII Y(a) 0,1 g ≤ e 500 10000 XIIII Y(b) 5 g ≤ e 50 1000 – przy czym: i = 1, 2, ... r, gdzie: i - podzakres, r - całkowita liczba podzakresów.
 11. Dla wag dla pojedynczych ładunków kategorii Y obciążenie minimalne jest nie mniejsze niż:
-1) 100 e dla wag klasy Y(I);
-2) 20 e przy 0,001 g ≤ e ≤ 0,05 g dla wag klasy Y(II);
-3) 50 e przy e ≥ 0,1 g dla wag klasy Y(II);
-4) 20 e dla wag klasy Y(a);
-5) 10 e dla wag klasy Y(b);
-6) 5 e dla wag dowolnej klasy stosowanych do sortowania.
+1) 100 e – dla wag klasy Y(I);
+2) 20 e przy 0,001 g ≤ e ≤ 0,05 g – dla wag klasy Y(II);
+3) 50 e przy e ≥ 0,1 g – dla wag klasy Y(II);
+4) 20 e – dla wag klasy Y(a);
+5) 10 e – dla wag klasy Y(b);
+6) 5 e – dla wag dowolnej klasy stosowanych do sortowania.
 12. Nastawy dynamiczne działają w zakresie obciążeń określonych przez producenta.
 13. Jeżeli waga dla pojedynczych ładunków jest wyposażona w korektory dynamiki, które kompensują dynamiczne oddziaływania ładunku w ruchu, to waga ta nie działa poza swoim zakresem pomiarowym i jest możliwe jej zabezpieczenie.
 14. Błędy graniczne dopuszczalne (MPE) wag dla pojedynczych ładunków spowodowane oddziaływaniem czynników wpływających są równe:
 1) dla wag kategorii X wartościom określonym w:
-a) tabelach nr 1 i 2 przy ważeniu automatycznym,
-b) tabeli nr 1 przy ważeniu statycznym (nieautomatycznym);
+a) tabelach nr 1 i 2 – przy ważeniu automatycznym,
+b) tabeli nr 1 – przy ważeniu statycznym (nieautomatycznym);
 2) dla wag kategorii Y wartościom określonym:
-a) w tabeli nr 1 przy ważeniu automatycznym,
-b) w tabeli nr 1 dla wag kategorii X przy ważeniu statycznym (nieautomatycznym).
+a) w tabeli nr 1 – przy ważeniu automatycznym,
+b) w tabeli nr 1 dla wag kategorii X – przy ważeniu statycznym (nieautomatycznym).
 15. Wartość zmiany krytycznej przy wystąpieniu zaburzenia jest równa jednej działce legalizacyjnej.
 16. Minimalny zakres temperatury użytkowania wag dla pojedynczych ładunków w zależności od klasy dokładności wynosi:
-1) 5 °C dla klas XI i Y(I);
-2) 15 °C dla klas XII i Y(II).
+1) 5 °C – dla klas XI i Y(I);
+2) 15 °C – dla klas XII i Y(II).
 III. Wymagania dla wag porcjujących
 1. Producent określa:
 1) klasę odniesienia Ref (x);
 2) użytkową klasę dokładności X (x).
 2. Wadze danego typu wyznacza się klasę odniesienia Ref (x) odpowiadającą możliwie najwyższej klasie dokładności dla danego typu wagi.
 3. Każdemu egzemplarzowi wagi po zainstalowaniu wyznacza się jedną lub kilka klas dokładności X (x), z uwzględnieniem rodzajów ważonych produktów.
-4. W użytkowej klasie dokładności X (x) oznaczenie X dotyczy systemu odnoszącego się do dokładności ładunku, współczynnik (x) określa mnożnik wartości maksymalnego dopuszczalnego odchylenia dla wag klas X(1) określonych w tabeli nr 5, przy czym wartość współczynnika (x) nie może być większa niż 2 i wyraża się w postaci 1x10 , 2x10 , 5x10 gdzie k jest ujemną liczbą całkowitą lub zerem.
+4. W użytkowej klasie dokładności X (x) oznaczenie X dotyczy systemu odnoszącego się do dokładności ładunku, współczynnik (x) określa mnożnik wartości maksymalnego dopuszczalnego odchylenia dla wag klas X(1) określonych w tabeli nr 5, przy czym wartość współczynnika (x) nie może być większa niż 2 i wyraża się w postaci 1x10 , 2x10 , 5x10 – gdzie k jest ujemną liczbą całkowitą lub zerem.
 5. Klasę odniesienia Ref (x) stosuje się przy ważeniu statycznym.
 6. Błędy graniczne dopuszczalne (MPE) wag porcjujących przy ważeniu statycznym dla klasy odniesienia Ref (x), w warunkach znamionowych użytkowania, wynoszą 0,312 wartości maksymalnego dopuszczalnego odchylenia każdej porcji od wartości średniej z tych porcji, o którym mowa w tabeli nr 5, pomnożonej przez współczynnik (x).
 7. Błędy graniczne dopuszczalne (MPE) wag porcjujących, w których porcja może być utworzona z więcej niż jednego ładunku (wagi sumujące lub selektywne), przy ważeniu statycznym odpowiadają dokładności wymaganej dla porcji, zgodnie z ust. 8 (nie są sumą maksymalnych dopuszczalnych odchyleń poszczególnych ładunków).
@@ -426,12 +439,12 @@ IV. Wymagania dla wag odważających
 1. Wagi odważające dzielą się na 4 klasy dokładności oznaczane jako: 0,2, 0,5,1 i 2.
 2. Błędy graniczne dopuszczalne (MPE) wag odważających określa tabela nr 6.
 Tabela nr 6 Klasa dokładności Błędy graniczne dopuszczalne (MPE) zsumowanego ładunku 0,2 ± 0,10 % 0,5 ± 0,25 % 1 ± 0,50 % 2 ± 1,00 %
-3. Wartość działki sumowania (d ) jest zawarta w przedziale: 0,01% Max ≤ d ≤ 0,2% Max gdzie Max oznacza obciążenie maksymalne wagi.
+3. Wartość działki sumowania (d ) jest zawarta w przedziale: 0,01% Max ≤ d ≤ 0,2% Max – gdzie Max oznacza obciążenie maksymalne wagi.
 4. Minimalna masa sumowana (Σ ) jest nie mniejsza niż masa ładunku, dla której błędy graniczne dopuszczalne (MPE) są równe działce sumowania (d ), i nie mniejsza niż minimalna masa ładunku określone przez producenta.
 5. Wagi odważające, które nie są tarowane po każdym usunięciu ładunku, muszą być wyposażone w urządzenie zerujące.
 6. Wagi odważające muszą być wyposażone w blokadę automatycznego działania, gdy zmiana wskazania zerowego osiągnie wartość:
-1) 1 d dla wag z automatycznym urządzeniem zerującym;
-2) 0,5 d dla wag z półautomatycznym lub nieautomatycznym urządzeniem zerującym.
+1) 1 d – dla wag z automatycznym urządzeniem zerującym;
+2) 0,5 d – dla wag z półautomatycznym lub nieautomatycznym urządzeniem zerującym.
 7. Podczas cyklu automatycznego ważenia zmiana nastawienia masy porcji i uruchamianie funkcji zerujących przez operatora muszą być zablokowane.
 8. W wagach odważających wyposażonych w urządzenie drukujące zerowanie urządzenia sumującego musi być zablokowane do czasu zakończenia wydruku wyniku sumowania. Wydruk wyniku sumowania następuje, gdy automatyczny cykl ważenia zostanie przerwany.
 9. Błędy graniczne dopuszczalne (MPE) wag odważających spowodowane oddziaływaniem czynników wpływających określa tabela nr 7.
@@ -447,7 +460,7 @@ V. Wymagania dla wag przenośnikowych
 3. Minimalna masa sumowana (Σ ) wagi przenośnikowej, w zależności od klasy dokładności, nie jest mniejsza niż:
 1) 800 d dla klasy 0,5,
 2) 400 d dla klasy 1,
-3) 200 d dla klasy 2 gdzie d oznacza wartość działki elementarnej głównego urządzenia wskazującego sumowanie.
+3) 200 d dla klasy 2 – gdzie d oznacza wartość działki elementarnej głównego urządzenia wskazującego sumowanie.
 4. Błędy graniczne dopuszczalne (MPE) wag przenośnikowych, w zależności od klasy dokładności, określa tabela nr 8.
 Tabela nr 8 Klasa dokładności Błędy graniczne dopuszczalne zsumowanego ładunku 0,5 ± 0,25% 1 ± 0,5% 2 ± 1,0%
 5. Niedopuszczalne jest wyzerowanie głównego urządzenia sumującego wagi przenośnikowej.
@@ -473,17 +486,20 @@ Tabela nr 10 Klasa dokładności Wartość działki elementarnej (d) 0,2 d ≤ 5
 9. Błędy graniczne dopuszczalne (MPE) wag wagonowych spowodowane oddziaływaniem czynników wpływających określa tabela nr 11.
 Tabela nr 11 Masa ładunku (m) w działkach elementarnych (d) Błędy graniczne dopuszczalne 0 < m ≤ 500 ± 0,5 d 500 < m ≤ 2000 ± 1,0 d 2000 < m ≤ 10000 ± 1,5 d
 10. Wartość zmiany krytycznej przy wystąpieniu zaburzenia jest równa wartości działki elementarnej.
+
+## Załącznik nr 7 — WYMAGANIA DLA TAKSOMETRÓW
+
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w załączniku stosuje się do taksometrów.
 2. Użyte w załączniku określenia oznaczają:
-1) opłata całkowitą wartość należności za kurs wynikającą z ustalonej opłaty początkowej za wynajęcie taksówki i długości przebytej drogi lub czasu trwania kursu;
+1) opłata – całkowitą wartość należności za kurs wynikającą z ustalonej opłaty początkowej za wynajęcie taksówki i długości przebytej drogi lub czasu trwania kursu;
 opłata nie zawiera opłaty dodatkowej należnej za dodatkowe usługi;
-2) prędkość graniczna wartość prędkości uzyskaną w wyniku podzielenia wartości taryfy za czas trwania kursu przez wartość taryfy za długość przebytej drogi;
-3) zwykły tryb obliczania S (pojedyncze zastosowanie taryfy) obliczanie opłaty na podstawie taryfy za czas trwania kursu poniżej prędkości granicznej oraz na podstawie taryfy za długość przebytej drogi z prędkością powyżej prędkości granicznej;
-4) zwykły tryb obliczania D (podwójne zastosowanie taryfy) obliczanie opłaty na podstawie jednoczesnego stosowania taryfy za czas trwania kursu i taryfy za długość przebytej drogi w ciągu całego kursu;
-5) położenie pracy tryb pracy, w którym taksometr realizuje różne funkcje z zakresu swoich możliwych działań; położenia pracy są rozróżniane za pomocą następujących wskazań:
-a) WOLNY położenie pracy, przy którym wyłączone jest obliczanie opłaty,
-b) TARYFA położenie pracy, przy którym następuje obliczenie opłaty na podstawie ewentualnej opłaty początkowej oraz taryfy za długość przebytej drogi lub czas trwania kursu,
-c) KASA położenie pracy, przy którym jest wskazywana opłata należna za kurs i co najmniej jest wyłączone obliczanie opłaty na podstawie czasu trwania kursu.
+2) prędkość graniczna – wartość prędkości uzyskaną w wyniku podzielenia wartości taryfy za czas trwania kursu przez wartość taryfy za długość przebytej drogi;
+3) zwykły tryb obliczania S (pojedyncze zastosowanie taryfy) – obliczanie opłaty na podstawie taryfy za czas trwania kursu poniżej prędkości granicznej oraz na podstawie taryfy za długość przebytej drogi z prędkością powyżej prędkości granicznej;
+4) zwykły tryb obliczania D (podwójne zastosowanie taryfy) – obliczanie opłaty na podstawie jednoczesnego stosowania taryfy za czas trwania kursu i taryfy za długość przebytej drogi w ciągu całego kursu;
+5) położenie pracy – tryb pracy, w którym taksometr realizuje różne funkcje z zakresu swoich możliwych działań; położenia pracy są rozróżniane za pomocą następujących wskazań:
+a) WOLNY – położenie pracy, przy którym wyłączone jest obliczanie opłaty,
+b) TARYFA – położenie pracy, przy którym następuje obliczenie opłaty na podstawie ewentualnej opłaty początkowej oraz taryfy za długość przebytej drogi lub czas trwania kursu,
+c) KASA – położenie pracy, przy którym jest wskazywana opłata należna za kurs i co najmniej jest wyłączone obliczanie opłaty na podstawie czasu trwania kursu.
 3. Taksometr musi być tak zaprojektowany, aby:
 1) obliczał długość przebytej drogi i mierzył czas trwania kursu;
 2) w położeniu pracy TARYFA obliczał i wyświetlał opłatę wzrastającą skokowo o wartość nie mniejszą niż 0,01 zł, a w położeniu pracy KASA wyświetlał ostateczną wartość opłaty.
@@ -522,7 +538,7 @@ e) informacji o parametrach taryfy lub taryf.
 2) całkowitej długości drogi przebytej podczas wynajęcia taksówki,
 3) liczby wszystkich wynajęć taksówki,
 4) sumy wszystkich opłat dodatkowych należnych za dodatkowe usługi,
-5) sumy opłat za kursy przy czym wartości zsumowane zawierają wartości zarejestrowane w warunkach utraty zasilania, o których mowa w ust. 13.
+5) sumy opłat za kursy – przy czym wartości zsumowane zawierają wartości zarejestrowane w warunkach utraty zasilania, o których mowa w ust. 13.
 21. W przypadku odłączenia zasilania taksometr zapewnia przechowanie zsumowanych wartości przez rok oraz umożliwia ich odczyt i przeniesienie na inny nośnik danych.
 22. Wyświetlanie zsumowanych wartości nie może wprowadzać w błąd pasażerów.
 23. W taksometrze zmiana taryf może być automatyczna.
@@ -542,7 +558,9 @@ e) informacji o parametrach taryfy lub taryf.
 3) podczas kursu nie jest możliwa ręczna lub automatyczna korekcja czasu.
 30. Wyświetlana lub drukowana wartość długości przebytej drogi jest wyrażana w kilometrach.
 31. Wyświetlana lub drukowana wartość czasu trwania kursu jest wyrażana w sekundach, minutach lub godzinach w zależności od potrzeb, przy czym należy mieć na uwadze zachowanie niezbędnej rozdzielczości i potrzebę zapobieżenia nieporozumieniom.
-I. Wymagania dla materialnych miar długości
+
+## Załącznik nr 8 — WYMAGANIA DLA MATERIALNYCH MIAR DŁUGOŚCI I NACZYŃ WYSZYNKOWYCH I. Wymagania dla materialnych miar długości
+
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w niniejszej części stosuje się do materialnych miar długości, zwanych dalej „przymiarami”.
 2. Dla przymiaru wstęgowego o długości równej lub większej niż 5 m wymagania dotyczące błędu granicznego dopuszczalnego (MPE) odnoszą się do sytuacji, gdy wstęga przymiaru jest rozciągana siłą 50 N albo siłą o innej wartości określoną przez producenta i oznaczoną na wstędze przymiaru. Dla przymiaru sztywnego i półsztywnego stosowanie siły rozciągającej nie jest wymagane.
 3. Temperatura odniesienia wynosi 20 °C, o ile producent nie określił inaczej i nie oznaczył jej wartości na przymiarze.
@@ -550,15 +568,15 @@ I. Wymagania dla materialnych miar długości
 1) z obciążnikiem - klasa D;
 2) łączonych przeznaczonych do zbiorników - klasa S.
 5. Przymiary wstęgowe z obciążnikiem mogą być wykonywane także jako przymiary klasy dokładności I albo II.
-6. Błąd graniczny dopuszczalny (MPE), dodatni lub ujemny, długości pomiędzy dwoma niesąsiadującymi ze sobą wskazami podziałki przymiaru, wyrażony w mm, oblicza się według wzoru: (a + bL) gdzie L oznacza wartość długości zaokrągloną w górę do następnej całkowitej liczby metrów, a i b wartości określone w tabeli nr 1.
+6. Błąd graniczny dopuszczalny (MPE), dodatni lub ujemny, długości pomiędzy dwoma niesąsiadującymi ze sobą wskazami podziałki przymiaru, wyrażony w mm, oblicza się według wzoru: (a + bL) – gdzie L oznacza wartość długości zaokrągloną w górę do następnej całkowitej liczby metrów, a i b – wartości określone w tabeli nr 1.
 7. Jeżeli końcową działkę podziałki przymiaru ogranicza powierzchnia, błąd graniczny dopuszczalny (MPE) dla każdej długości rozpoczynającej się od tego punktu powiększa się o wartość c określoną w tabeli nr 1.
 Tabela nr 1 Klasa dokładności a b c (mm) (mm) I 0,1 0,1 0,1 II 0,3 0,2 0,2 III 0,6 0,4 0,3 D - do 30 m włącznie 1,5 0 0 S - dla każdych 30 m długości, kiedy taśma przymiaru jest 1,5 0 0 rozłożona na płaskiej powierzchni
 8. W przypadku przymiarów, o którym mowa w ust. 5, dla każdej długości między dwoma wskazami podziałki, z których jeden znajduje się na obciążniku, drugi na wstędze przymiaru, jeżeli wartość obliczona zgodnie z ust. 6 jest mniejsza niż 0,6 mm, błąd graniczny dopuszczalny (MPE) wynosi ±0,6 mm.
 9. Błąd graniczny dopuszczalny (MPE) długości pomiędzy dwoma kolejnymi wskazami podziałki przymiaru (działki "i") oraz maksymalne różnice długości dwóch kolejnych działek przymiaru, w zależności od klasy dokładności, określa tabela nr 2.
 Tabela nr 2 Długość działki i Błąd graniczny dopuszczalny (MPE) oraz maksymalna różnica między dwoma kolejnymi działkami przymiaru w mm w zależności od klasy dokładności I II III i ≤ 1 mm 0,1 0,2 0,3 1 mm < i ≤ 1 cm 0,2 0,4 0,6
 10. Jeżeli przymiar jest przymiarem składanym, to błędy dodatkowe wynikające z połączenia dwóch członów nie przekraczają wartości:
-1) 0,3 mm dla przymiarów klasy dokładności II;
-2) 0,5 mm dla przymiarów klasy dokładności III.
+1) 0,3 mm – dla przymiarów klasy dokładności II;
+2) 0,5 mm – dla przymiarów klasy dokładności III.
 11. Do wytwarzania przymiarów używa się materiałów, które zapewniają, że w temperaturze otoczenia zawartej w granicach ±8 °C od temperatury odniesienia zmiany długości przymiaru nie przekraczają wartości błędów granicznych dopuszczalnych (MPE).
 12. Wymagania, o którym mowa w ust. 11, nie stosuje się do przymiarów klas dokładności S i D, dla których producent określa konieczność uwzględnienia w wynikach pomiaru poprawek na rozszerzalność liniową, jeżeli jest to niezbędne.
 13. Przymiary wytwarzane z materiałów, których wymiary mogą zmieniać się istotnie pod wpływem szerokiego zakresu zmian wilgotności względnej, mogą należeć wyłącznie do klasy dokładności II albo III.
@@ -567,10 +585,10 @@ II. Wymagania dla naczyń wyszynkowych
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w niniejszej części stosuje się do naczyń wyszynkowych.
 2. Do naczyń wyszynkowych nie stosuje się wymagania umieszczania na nich informacji o ich dokładności.
 3. Użyte określenia oznaczają:
-1) naczynie z kresą naczynie wyszynkowe z naniesioną kresą oznaczającą jego pojemność nominalną;
-2) naczynie krawędziowe naczynie wyszynkowe, którego objętość jest ograniczona wewnętrzną powierzchnią ścian, dna i górną krawędzią naczynia;
-3) naczynie przenoszone naczynie wyszynkowe, z którego ciecz przelewana jest do innych naczyń bezpośrednio przed konsumpcją;
-4) pojemność nominalna wewnętrzną objętość naczynia krawędziowego lub wewnętrzną objętość do znaku napełnienia naczynia z kresą.
+1) naczynie z kresą – naczynie wyszynkowe z naniesioną kresą oznaczającą jego pojemność nominalną;
+2) naczynie krawędziowe – naczynie wyszynkowe, którego objętość jest ograniczona wewnętrzną powierzchnią ścian, dna i górną krawędzią naczynia;
+3) naczynie przenoszone – naczynie wyszynkowe, z którego ciecz przelewana jest do innych naczyń bezpośrednio przed konsumpcją;
+4) pojemność nominalna – wewnętrzną objętość naczynia krawędziowego lub wewnętrzną objętość do znaku napełnienia naczynia z kresą.
 4. Wymagania spełnione są w następujących warunkach odniesienia:
 1) temperatura odniesienia pomiaru pojemności jest równa 20 °C;
 2) pozycją poprawnego wskazania jest pozycja, w której naczynie wyszynkowe swobodnie stoi na poziomej powierzchni.
@@ -584,7 +602,9 @@ Tabela nr 3 Błąd graniczny dopuszczalny (MPE) naczynie z kresą naczynie kraw�
 1) oznaczona jest w sposób wyraźny i trwały deklarowana pojemność nominalna;
 2) mogą być umieszczone wyraźne oznaczenia maksymalnie trzech pojemności tak, aby nie zasłaniały innych oznaczeń.
 9. Znaki, o których mowa w ust. 8, muszą być wystarczająco wyraźne i trwałe, aby zapewnić, że błędy graniczne dopuszczalne (MPE) nie będą przekraczane podczas użytkowania naczyń wyszynkowych.
-I. Przepisy ogólne
+
+## Załącznik nr 9 — WYMAGANIA DLA PRZYRZĄDÓW DO POMIARU DŁUGOŚCI, POLA POWIERZCHNI ORAZ WIELU WYMIARÓW I. Przepisy ogólne
+
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w niniejszej części stosuje się do:
 1) przyrządów do pomiaru długości;
 2) przyrządów do pomiaru pola powierzchni;
@@ -601,9 +621,9 @@ I. Przepisy ogólne
 II. Wymagania dla przyrządów do pomiaru długości
 1. Przyrządy do pomiaru długości dzieli się na 3 klasy dokładności oznaczane jako: I, II i III.
 2. Błędy graniczne dopuszczalne (MPE) przyrządów do pomiaru długości określa tabela nr 1.
-Tabela nr 1 Klasa dokładności Błąd graniczny dopuszczalny (MPE) I 0,125%, ale nie mniej niż 0,005 L II 0,25%, ale nie mniej niż 0,01 L III 0,5%, ale nie mniej niż 0,02 L gdzie L oznacza najmniejszą dającą się zmierzyć długość określoną przez producenta, dla której dany przyrząd do pomiaru długości został przewidziany do użytku.
+Tabela nr 1 Klasa dokładności Błąd graniczny dopuszczalny (MPE) I 0,125%, ale nie mniej niż 0,005 L II 0,25%, ale nie mniej niż 0,01 L III 0,5%, ale nie mniej niż 0,02 L – gdzie L oznacza najmniejszą dającą się zmierzyć długość określoną przez producenta, dla której dany przyrząd do pomiaru długości został przewidziany do użytku.
 3. Przyrządy do pomiaru długości muszą zapewniać pomiar produktu rozłożonego prosto na odpowiednim podłożu, w stanie nierozciągniętym, zgodnie z przewidzianą rozciągliwością, dla której przyrządy te zostały zaprojektowane.
-4. Dla produktów włókienniczych określa się właściwy współczynnik K, uwzględniający rozciągliwość produktu i siłę obciążenia na jednostkę powierzchni produktu mierzonego. Współczynnik K oblicza się według następującego wzoru: K = ε · (G + 2,2 N/m ) gdzie ε oznacza wydłużenie względne próbki produktu o szerokości 1 m pod działaniem siły rozciągającej 10 N, G siłę obciążenia na jednostkę powierzchni próbki produktu w N/m .
+4. Dla produktów włókienniczych określa się właściwy współczynnik K, uwzględniający rozciągliwość produktu i siłę obciążenia na jednostkę powierzchni produktu mierzonego. Współczynnik K oblicza się według następującego wzoru: K = ε · (G + 2,2 N/m ) – gdzie ε oznacza wydłużenie względne próbki produktu o szerokości 1 m pod działaniem siły rozciągającej 10 N, G – siłę obciążenia na jednostkę powierzchni próbki produktu w N/m .
 5. Wymiary mierzone i współczynnik K, jeżeli ma on zastosowanie, zawierają się w zakresie pomiarowym określonym dla danego przyrządu do pomiaru długości przez producenta.
 6. Zakresy współczynnika K w zależności od rozciągliwości produktu włókienniczego określa tabela nr 2.
 Tabela nr 2 Grupa Zakres współczynnika K Produkt włókienniczy o: I 0 < K < 2 x 10 N/m niskiej rozciągliwości II 2 x 12 N/m < K < 8 x 10 N/m średniej rozciągliwości III 8 x 10 N/m < K < 24 x 10 N/m wysokiej rozciągliwości IV 24 x 10 N/m < K bardzo wysokiej rozciągliwości
@@ -623,6 +643,9 @@ IV. Wymagania dla przyrządów do pomiaru wielu wymiarów
 Tabela nr 3 Działka (d) Minimalny wymiar (min) (dolna granica) d ≤ 2 cm 10 d 2 cm < d ≤ 10 cm 20 d d > 10 cm 50 d
 3. Prędkość przesuwu mierzonego produktu dla przyrządu do pomiaru wielu wymiarów zawiera się w granicach określonych przez producenta.
 4. Błąd graniczny dopuszczalny (MPE) przyrządów do pomiaru wielu wymiarów wynosi ±1,0 d.
+
+## Załącznik nr 10 — WYMAGANIA DLA ANALIZATORÓW SPALIN SAMOCHODOWYCH
+
 1. Wymagania określone w rozdziale 2 rozporządzenia oraz w załączniku stosuje się do analizatorów spalin samochodowych, zwanych dalej „analizatorami”, stosowanych podczas kontroli i konserwacji użytkowanych pojazdów mechanicznych.
 2. Zawartość węglowodorów (HC) wyraża się jako stężenie n-heksanu (C H ) zmierzone za pomocą technik pomiarowych wykorzystujących absorpcję w bliskiej podczerwieni.
 3. Ułamki objętościowe składników gazowych wyraża się jako procentowe (% obj.) w przypadku CO, CO i O oraz jako milionowe części jedności (ppm obj.) w przypadku HC.
@@ -639,6 +662,11 @@ Lambda λ od 0,8 do 1,2
 2) wartość nominalną napięcia i częstotliwości zasilania prądem przemiennym lub wartości graniczne napięcia zasilania prądem stałym;
 3) minimalną (ρ ) i maksymalną (ρ ) wartość ciśnienia atmosferycznego dla klas dokładności, przy czym ρ ≤ 860 hPa, ρ ≥ 1060 hPa.
 8. Do analizatorów ma zastosowanie klasa warunków środowiskowych mechanicznych M1, o której mowa w § 11 rozporządzenia.
+9. Błąd graniczny dopuszczalny (MPE) analizatora oraz rodzaje błędów (bezwzględne i względne) w warunkach znamionowych użytkowania określa tabela nr 2, przy czym ustalenie wartości błędu granicznego dopuszczalnego jako wartości większej lub równej następuje na podstawie porównania wartości błędu bezwzględnego z wartością błędu względnego odniesionego do wartości wzorcowej.
+Tabela nr 2 Parametr Rodzaj błędu Klasa Klasa dokładności dokładności 0 I ułamek CO bezwzględny (ułamek objętościowy) (% obj.) ± 0,03 ± 0,06 względny (%) ± 5 ± 5 ułamek CO bezwzględny (ułamek objętościowy) (% obj.) ± 0,5 ± 0,5 względny (%) ± 5 ± 5 ułamek HC bezwzględny (ułamek objętościowy) (ppm ± 10 ± 12 obj.) względny (%) ± 5 ± 5 ułamek O bezwzględny (ułamek objętościowy) (% obj.) ± 0,1 ± 0,1 względny (%) ± 5 ± 5
+10. Błąd graniczny dopuszczalny (MPE) obliczenia lambda λ wynosi 0,3%. Umowną wartość prawdziwą lambda oblicza się na podstawie następującego równania: – gdzie poszczególne symbole oznaczają: [CO], [CO ], [O ], [HC] - wartości ułamków objętościowych składników gazowych (% obj.), K1 – współczynnik konwersji wyniku pomiaru wykonanego metodą NDIR na wynik pomiaru wykonanego metodą FID; wartość współczynnika określa producent analizatora, Hcv – stosunek liczby atomów wodoru do liczby atomów węgla w paliwie [1,89], Ocv – stosunek liczby atomów tlenu do liczby atomów węgla w paliwie [0,016].
+11. Do obliczeń lambda λ wykorzystuje się wartości wskazane przez analizator.
+12. Skutek oddziaływania zaburzeń elektromagnetycznych na analizator jest, taki, że:
 1) zmiana wyniku pomiaru nie możę być większa niż wartość zmiany krytycznej, o której mowa w ust. 13, albo
 2) sposób wskazania wyniku pomiaru uniemożliwia uznanie tego wyniku za prawidłowy.
 13. Dla każdego z ułamków objętościowych mierzonych przez analizator wartość zmiany krytycznej jest równa błędowi granicznemu dopuszczalnemu (MPE) danego parametru.
@@ -648,8 +676,8 @@ Tabela nr 3 CO CO O HC Klasy dokładności 0,01% obj. 0,1% obj. 0,01% obj. 1 ppm
 15. Wartość lambda λ jest wskazana z rozdzielczością 0,001.
 16. Powtarzalność analizatora jest taka, aby odchylenie standardowe eksperymentalne obliczone na podstawie wyników serii 20 pomiarów nie przekraczało jednej trzeciej wartości bezwzględnej błędu granicznego dopuszczalnego (MPE) określonego odpowiednio dla każdego właściwego ułamka objętościowego gazu.
 17. Czas reakcji analizatora jest taki, aby w przypadku pomiaru:
-1) CO, CO i HC analizator wskazał 95% wartości końcowej w czasie nie dłuższym niż 15 s po zmianie z gazu zerowego na wzorcowy;
-2) O analizator wskazał wartość mniejszą niż 0,1% obj. nie później niż po upływie 60 s po zmianie z powietrza na mieszaninę gazową niezawierającą tlenu.
+1) CO, CO i HC – analizator wskazał 95% wartości końcowej w czasie nie dłuższym niż 15 s po zmianie z gazu zerowego na wzorcowy;
+2) O – analizator wskazał wartość mniejszą niż 0,1% obj. nie później niż po upływie 60 s po zmianie z powietrza na mieszaninę gazową niezawierającą tlenu.
 18. Składniki spalin inne niż składniki, których wartości są mierzone, nie powodują zmiany wyników pomiarów większej niż połowa wartości bezwzględnej odpowiednich błędów granicznych dopuszczalnych (MPE), gdy występują w następujących maksymalnych ułamkach objętościowych:
 1) 6% obj. CO;
 2) 16% obj. CO ;
@@ -668,7 +696,9 @@ Tabela nr 3 CO CO O HC Klasy dokładności 0,01% obj. 0,1% obj. 0,01% obj. 1 ppm
 1) wykrywać pozostałości węglowodorów w układzie przetłaczania gazów; wykonanie pomiaru jest niemożliwe, jeżeli pozostałość węglowodorów przekracza przed pomiarem 20 ppm obj.;
 2) być wyposażony w urządzenie służące do automatycznego rozpoznawania nieprawidłowego działania czujnika kanału tlenu, spowodowanego jego zużyciem lub przerwą w obwodzie elektrycznym;
 3) umożliwiać wybór odpowiednich współczynników do obliczania lambda λ, bez niejednoznaczności co do właściwego wzoru, jeżeli jest przystosowany do pracy z różnymi paliwami.
-I. Wewnętrzna kontrola produkcji (moduł A)
+
+## Załącznik nr 11 — PROCEDURY OCENY ZGODNOŚCI I. Wewnętrzna kontrola produkcji (moduł A)
+
 1. Wewnętrzna kontrola produkcji jest procedurą, w której producent wykonuje obowiązki określone w ust. 2-6 oraz na swoją wyłączną odpowiedzialność zapewnia i oświadcza, że przyrząd pomiarowy spełnia wymagania określone w rozporządzeniu.
 2. Producent sporządza dokumentację techniczną.
 3. Producent podejmuje wszelkie niezbędne działania, aby proces wytwarzania i jego monitorowanie zapewniały zgodność wytworzonych przyrządów pomiarowych z dokumentacją techniczną i wymaganiami określonymi w rozporządzeniu.
@@ -704,13 +734,13 @@ III. Badanie typu UE (moduł B)
 1) wzory egzemplarza przyrządu pomiarowego reprezentatywne dla przewidywanego wytwarzania przyrządu pomiarowego; jednostka notyfikowana może żądać dodatkowych wzorów, jeżeli jest to konieczne do przeprowadzenia badań;
 2) dowody potwierdzające adekwatność technicznego rozwiązania projektowego; dowody te określają wszelkie dokumenty, które zastosowano, w szczególności w przypadku gdy nie zastosowano w całości odpowiednich norm zharmonizowanych lub dokumentów normatywnych; dowody potwierdzające obejmują, w stosownych przypadkach, wyniki badań przeprowadzonych zgodnie z innymi odpowiednimi specyfikacjami technicznymi przez odpowiednie laboratorium producenta lub przez inne laboratorium badawcze w jego imieniu i na jego odpowiedzialność.
 7. Jednostka notyfikowana w przypadku:
-1) przyrządu pomiarowego bada dokumentację techniczną i dowody potwierdzające w celu dokonania oceny adekwatności projektu technicznego przyrządu pomiarowego;
+1) przyrządu pomiarowego – bada dokumentację techniczną i dowody potwierdzające w celu dokonania oceny adekwatności projektu technicznego przyrządu pomiarowego;
 2) wzorów przyrządu pomiarowego albo jego istotnych części:
 a) sprawdza, czy wzory przyrządu pomiarowego zostały wyprodukowane zgodnie z dokumentacją techniczną oraz określa części przyrządu pomiarowego zaprojektowane zgodnie z mającymi zastosowanie przepisami odpowiednich norm zharmonizowanych lub dokumentów normatywnych, jak również części przyrządu pomiarowego, które zaprojektowano zgodnie z innymi odpowiednimi specyfikacjami technicznymi,
 b) przeprowadza właściwe badania i sprawdzenia lub zleca ich przeprowadzenie w celu ustalenia, czy producent prawidłowo zastosował normy zharmonizowane lub dokumenty normatywne, w przypadku gdy producent zastosował rozwiązania określone we właściwych normach zharmonizowanych lub dokumentach normatywnych,
 c) przeprowadza właściwe badania i sprawdzenia lub zleca ich przeprowadzenie w celu ustalenia, czy rozwiązania przyjęte przez producenta spełniają wymagania określone w rozporządzeniu, w przypadku gdy rozwiązania określone we właściwych normach zharmonizowanych lub dokumentach normatywnych nie zostały zastosowane przez producenta,
 d) uzgadnia z producentem lub jego upoważnionym przedstawicielem miejsce przeprowadzenia badań i sprawdzeń;
-3) innych części przyrządu pomiarowego bada dokumentację techniczną i dowody potwierdzające w celu dokonania oceny adekwatności projektu technicznego innych części przyrządu pomiarowego.
+3) innych części przyrządu pomiarowego – bada dokumentację techniczną i dowody potwierdzające w celu dokonania oceny adekwatności projektu technicznego innych części przyrządu pomiarowego.
 8. Jednostka notyfikowana sporządza raport oceniający, który zawiera opis działań podjętych zgodnie z ust. 7 i ich wyniki.
 9. Jeżeli typ przyrządu pomiarowego spełnia wymagania określone w rozporządzeniu, jednostka notyfikowana sporządza certyfikat badania typu UE i przekazuje go producentowi lub jego upoważnionemu przedstawicielowi.
 10. Certyfikat badania typu UE zawiera:
@@ -724,7 +754,7 @@ d) uzgadnia z producentem lub jego upoważnionym przedstawicielem miejsce przepr
 2) środki wymagane do zapewnienia integralności przyrządu pomiarowego, w szczególności w zakresie zabezpieczenia oraz identyfikacji oprogramowania;
 3) informacje o innych częściach niezbędne do identyfikacji przyrządu pomiarowego i do sprawdzenia na podstawie oględzin zewnętrznych jego zgodności z typem przyrządu pomiarowego;
 4) jeżeli ma to zastosowanie, inne szczególne informacje niezbędne do sprawdzenia charakterystyk wyprodukowanych przyrządów pomiarowych;
-5) w przypadku podzespołu wszystkie informacje potrzebne do stwierdzenia kompatybilności z innymi podzespołami lub przyrządami pomiarowymi.
+5) w przypadku podzespołu – wszystkie informacje potrzebne do stwierdzenia kompatybilności z innymi podzespołami lub przyrządami pomiarowymi.
 12. Certyfikat badania typu UE jest ważny przez okres 10 lat od daty wydania, przy czym ważność ta może być przedłużana o kolejne okresy dziesięcioletnie.
 13. W przypadku gdy projekt nie spełnia wymagań określonych w rozporządzeniu dla danego przyrządu pomiarowego, jednostka notyfikowana odmawia wydania certyfikatu badania typu UE oraz informuje o tym wnioskodawcę, podając szczegółowe uzasadnienie odmowy.
 14. Jednostka notyfikowana analizuje wszelkie zmiany w powszechnie uznanym stanie wiedzy technicznej wskazujące, że zatwierdzony typ przyrządu pomiarowego może nie spełniać już mających zastosowanie wymagań określonych w rozporządzeniu oraz ustala, czy zmiany takie wymagają dalszego badania. Jeżeli wymagają takiego badania, jednostka notyfikowana informuje o tym producenta.
@@ -1103,7 +1133,9 @@ XIV. Zgodność na podstawie pełnego zapewnienia jakości i badania projektu (m
 46. Wraz z dokumentacją techniczną producent lub jego upoważniony przedstawiciel przechowuje:
 1) dokumentację dotyczącą systemu jakości i zatwierdzonych jego zmian, o których mowa w ust. 16-18;
 2) wyniki ocen, raporty i protokoły jednostki notyfikowanej, o których mowa w ust. 18, 39 i 42.
-Nagłówek: DEKLARACJA ZGODNOŚCI UE (Nr XXXX)
+
+## Załącznik nr 12 — ELEMENTY DEKLARACJI ZGODNOŚCI Nagłówek: DEKLARACJA ZGODNOŚCI UE (Nr XXXX)
+
 1. Model przyrządu/Przyrząd (produkt, typ, partia lub numer fabryczny):
 2. Imię i nazwisko lub nazwa i adres producenta oraz jego upoważnionego przedstawiciela, jeżeli deklaracja zgodności sporządzana jest przez upoważnionego przedstawiciela:
 3. Niniejsza deklaracja zgodności wydana zostaje na wyłączną odpowiedzialność producenta.

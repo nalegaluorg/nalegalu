@@ -8,7 +8,7 @@ pos: 727
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o dozorze technicznym oraz ustawy o transporcie kolejowym

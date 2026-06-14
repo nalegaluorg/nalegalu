@@ -8,10 +8,10 @@ pos: 424
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 marca 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 424 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 18 lutego 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000424) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/424/text.pdf) |
 
-Poz. 424 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 18 lutego 2019 r.
-w sprawie wzoru tablicy informującej o zakazie poruszania się po wale przeciwpowodziowym Na podstawie art. 178 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r.
-poz. 125) zarządza się, co następuje: § 1. Wzór tablicy informującej o zakazie poruszania się po wale przeciwpowodziowym określa załącznik do rozporządzenia.
+w sprawie wzoru tablicy informującej o zakazie poruszania się po wale przeciwpowodziowym Na podstawie art. 178 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 poz. 125) zarządza się, co następuje:
+§ 1. Wzór tablicy informującej o zakazie poruszania się po wale przeciwpowodziowym określa załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Środowiska z dnia 23 grudnia 2015 r. w sprawie wzoru tablicy informującej o zakazie poruszania się po wale przeciwpowodziowym (Dz. U. z 2016 r. poz. 60), które zgodnie z art. 566 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r. poz. 125) traci moc z dniem wejścia w życie
+Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Załącznik do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 18 lutego 2019 r. (poz. . . .
+) WZÓR TABLICY INFORMUJĄCEJ O ZAKAZIE PORUSZANIA SIĘ PO WALE PRZECIWPOWODZIOWYM WZÓR TABLICY INFORMUJĄCEJ O ZAKAZIE PORUSZANIA SIĘ PO WALE PRZECIWPOWODZIOWYM Objaśnienia: tablica wykonana z masy plastycznej sporządzonej ze spienionego polichlorku winylu (PCW) albo blachy ocynkowanej stalowej lub blachy aluminiowej, w kształcie prostokąta o wymiarach: wysokość 400 mm, długość 800 mm, koloru czerwonego, otoczona białym paskiem szerokości 6 mm w odległości 6 mm od krawędzi i z napisem koloru białego.
+Litery: Objaśnienia: wielkość – 145 tablica pkt, odstęp wykonana między wierszami z masy plastycznej (interlinia) – 208 sporządzonej pkt, czcionka ze – Arial. spienionego polichlorku winylu (PCW) albo blachy ocynkowanej stalowej lub blachy aluminiowej, w kształcie prostokąta o wymiarach: wysokość 400 mm, długość 800 mm, koloru czerwonego, otoczona białym paskiem szerokości 6 mm w odległości 6 mm od krawędzi i z napisem koloru białego.
+Litery: wielkość – 145 pkt, odstęp między wierszami (interlinia) – 208 pkt, czcionka – Arial.
 

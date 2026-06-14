@@ -8,10 +8,10 @@ pos: 2209
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 listopada 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2209 poprawki do Konwencji o ocenach oddziaływania na środowisko w kontekście transgranicznym, sporządzonej w Espoo dnia 25 lutego 1991 r., przyjęte w Sofii dnia 26 lutego 2001 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2209/text.pdf) |
 
-Poz. 2209 poprawki do Konwencji o ocenach oddziaływania na środowisko w kontekście transgranicznym, sporządzonej w Espoo dnia 25 lutego 1991 r., przyjęte w Sofii dnia 26 lutego 2001 r.
 Przekład
 

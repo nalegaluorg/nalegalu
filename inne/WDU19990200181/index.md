@@ -8,7 +8,7 @@ pos: 181
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. U. 4/98 Trybunał Konstytucyjny w składzie: Andrzej Mączyński — przewodniczący Krzysztof Kolasiński Biruta Lewaszkiewicz-Petrykowska — sprawozdawca Joanna Szymczak — protokolant po rozpoznaniu 26 stycznia i 9 lutego 1999 r. na rozprawie sprawy z wniosku Związku Pracodawców Górnictwa i Przetwórstwa Surowców Mineralnych w Kielcach siedzibą w Wiśniówce, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Rady Ministrów i Prokuratora Generalnego o stwierdzenie niezgodności:

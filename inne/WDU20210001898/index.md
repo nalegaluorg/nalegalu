@@ -8,7 +8,7 @@ pos: 1898
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo lotnicze oraz ustawy o Straży Granicznej
@@ -28,6 +28,55 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001898) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1898/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970 oraz z 2021 r. poz. 784 i 847) wprowadza się następujące zmiany:
+
+- **1)** w art. 22 ust. 9 otrzymuje brzmienie: „9. Przed upoważnieniem podmiotu, o którym mowa w ust. 3, do wykonywania czynności nadzoru i kontroli w zakresie ochrony lotnictwa cywilnego Prezes Urzędu przeprowadza rozszerzone sprawdzenie przeszłości, o którym mowa w pkt 11.1.3 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm. ), zwane dalej „rozszerzonym sprawdzeniem przeszłości”, w stosunku do osoby ubiegającej się o upoważnienie albo osoby mającej wykonywać czynności nadzoru i kontroli w zakresie ochrony lotnictwa cywilnego na rzecz organu albo wyspecjalizowanej jednostki organizacyjnej ubiegającej się o takie upoważnienie.”;
+- **2)** w art. 186b:
+    - **a)** ust. 11 otrzymuje brzmienie: „11. W celu uzyskania certyfikatu operatora kontroli bezpieczeństwa w szkoleniu może wziąć udział osoba, wobec której przeprowadzono rozszerzone sprawdzenie przeszłości z wynikiem pozytywnym.”,
+    - **b)** uchyla się ust. 12 i 13,
+    - **c)** w ust. 14 pkt 1 otrzymuje brzmienie: „1) przejście rozszerzonego sprawdzenia przeszłości z wynikiem pozytywnym;”,
+    - **d)** ust. 18 otrzymuje brzmienie: „18. Prezes Urzędu może uznać certyfikat operatora kontroli bezpieczeństwa wydany w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub przez Organizację Międzynarodowego Lotnictwa Cywilnego lub inną międzynarodową organizację lotniczą za ważny na równi z polskim certyfikatem operatora kontroli bezpieczeństwa, chyba że wymagania stawiane przy jego wydaniu były łagodniejsze od stawianych w Rzeczypospolitej Polskiej, po uprzednim przeprowadzeniu przez Prezesa Urzędu rozszerzonego sprawdzenia przeszłości z wynikiem pozytywnym.”,
+    - **e)** uchyla się ust. 19;
+
+- **3)** w art. 186c:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Prezes Urzędu wyznacza zarejestrowanego agenta, o którym mowa w art. 186b ust. 1 pkt 2, w drodze decyzji administracyjnej, po sprawdzeniu spełnienia wymagań w zakresie ochrony lotnictwa cywilnego oraz po uzyskaniu informacji o braku negatywnych przesłanek dla ochrony lotnictwa cywilnego, zwanych dalej „negatywnymi przesłankami”, dotyczących osób:”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Przy ustalaniu braku negatywnych przesłanek stosuje się przepis art. 189d.”;
+
+- **4)** w art. 186d w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Prezes Urzędu wyznacza zarejestrowanego dostawcę zaopatrzenia pokładowego, o którym mowa w art. 186b ust. 1 pkt 3, w drodze decyzji administracyjnej, po sprawdzeniu spełnienia wymagań w zakresie ochrony lotnictwa cywilnego oraz po uzyskaniu informacji o braku negatywnych przesłanek dotyczących osób:”;
+- **5)** w art. 186e w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Prezes Urzędu wyznacza znanego nadawcę na podstawie pkt 6.4.1 załącznika do rozporządzenia nr 2015/1998/UE, w drodze decyzji administracyjnej, po sprawdzeniu spełnienia wymagań w zakresie ochrony lotnictwa cywilnego oraz po uzyskaniu informacji o braku negatywnych przesłanek dotyczących osób:”;
+- **6)** uchyla się art. 186ea;
+- **7)** w art. 188a uchyla się ust. 4–7;
+- **8)** w art. 188b:
+    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) wobec której przeprowadzono rozszerzone sprawdzenie przeszłości z wynikiem pozytywnym.”,
+    - **b)** uchyla się ust. 3;
+
+- **9)** po art. 189a dodaje się art. 189b–189j w brzmieniu: „Art. 189b. 1. Standardowe sprawdzenie przeszłości, o którym mowa w pkt 11.1.4 załącznika do rozporządzenia nr 2015/1998/UE, zwane dalej „standardowym sprawdzeniem przeszłości”, obejmuje:
+- **1)** ustalenie tożsamości osoby podlegającej sprawdzeniu na podstawie dokumentu potwierdzającego tożsamość;
+- **2)** uzyskanie od osoby podlegającej sprawdzeniu informacji z rejestrów karnych we wszystkich państwach pobytu z ostatnich 5 lat;
+- **3)** uzyskanie od osoby podlegającej sprawdzeniu informacji o zatrudnieniu, kształceniu i wszystkich przerwach w zatrudnieniu i kształceniu z ostatnich 5 lat.
+
+2. Standardowe sprawdzenie przeszłości przeprowadza się wobec osób:
+
+- **1)** prowadzących kontrolę bezpieczeństwa, kontrolę dostępu lub stosujących inne środki kontroli w zakresie ochrony – innych niż wymienione w art. 189c ust. 2 pkt 1 i 2,
+- **2)** bezpośrednio nadzorujących osoby stosujące środki kontroli w zakresie ochrony, o których mowa w pkt 1,
+- **3)** mających dostęp bez eskorty do ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego lub zaopatrzenia portu lotniczego, do których zastosowano wymagane środki kontroli w zakresie ochrony,
+- **4)** odpowiedzialnych za zapewnienie zgodności programu ochrony z przepisami prawa i jego wdrożenie w podmiocie prowadzącym działalność lotniczą (kierownicy do spraw ochrony) – innych niż wymienione w art. 189c ust. 2 pkt 5,
+- **5)** biorących udział w przewozie ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego lub zaopatrzenia portu lotniczego, do których zastosowano wymagane środki kontroli w zakresie ochrony,
+- **6)** zatrudnionych w strefie operacyjnej lotniska, zatrudnionych w punktach handlowych lub usługowych zlokalizowanych w strefie ogólnodostępnej lotniska albo wykonujących w tych strefach obowiązki związane z funkcjonowaniem lotniska,
+- **7)** mających uprawnienia administratora lub nieograniczony dostęp bez nadzoru do krytycznych systemów technologii informacyjno-komunikacyjnych i danych wykorzystywanych do celów ochrony lotnictwa cywilnego – z wyłączeniem osób podlegających rozszerzonemu sprawdzeniu przeszłości.
+
+3. Standardowe sprawdzenie przeszłości przeprowadza:
+
+- **1)** podmiot, na rzecz którego wykonywane są środki kontroli w zakresie ochrony – wobec osób wymienionych w ust. 2 pkt 1 i 2;
+- **2)** podmiot odpowiedzialny za zabezpieczenie ładunku i poczty, poczty i materiałów przewoźnika lotniczego, zaopatrzenia pokładowego i zaopatrzenia portu lotniczego – wobec osób wymienionych w ust. 2 pkt 3 i 5;
+- **3)** podmiot odpowiedzialny za wyznaczenie kierownika do spraw ochrony – wobec osób wymienionych w ust. 2 pkt 4;
+- **4)** zarządzający lotniskiem – wobec osób wymienionych w ust. 2 pkt 6;
+- **5)** podmiot korzystający z krytycznych systemów technologii informacyjno-komunikacyjnych – wobec osób wymienionych w ust. 2 pkt 7.
+
+4. Standardowe sprawdzenie przeszłości przeprowadza się co najmniej raz na 3 lata.
+
+5. Negatywny wynik standardowego sprawdzenia przeszłości uniemożliwia wykonywanie zadań, w związku z którymi sprawdzenie było przeprowadzone.
+
+6. Osoba podlegająca standardowemu sprawdzeniu przeszłości otrzymuje negatywny wynik standardowego sprawdzenia przeszłości, jeżeli z informacji, o której mowa w ust. 1 pkt 2, wynika, że została skazana prawomocnym wyrokiem w związku z przestępstwem określonym w art. 189e ust. 1.
 
 **Art. 189c.**
 
@@ -253,6 +302,9 @@ source: "isap-pdf"
 
 **Art. 5.** W terminie do dnia 1 grudnia 2021 r. zarządzający lotniskiem, przewoźnik lotniczy, Polska Agencja Żeglugi Powietrznej oraz Prezes Urzędu Lotnictwa Cywilnego:
 
+- **1)** informują właściwego miejscowo komendanta oddziału Straży Granicznej o osobach upoważnionych w ich imieniu do składania wniosku o sprawdzenie, o którym mowa w art. 189d ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą – w przypadku udzielenia takiego upoważnienia;
+- **2)** występują do właściwego miejscowo komendanta oddziału Straży Granicznej z wnioskiem o przyznanie przez Straż Graniczną uprawnień dostępu do aplikacji dostępowej „Weryfikacja negatywnych przesłanek – Straż Graniczna”, o której mowa w art. 189d ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
 **Art. 6.**
 
 1. W latach 2021–2030 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi dla:
@@ -286,4 +338,8 @@ source: "isap-pdf"
 3. Prezes Urzędu Lotnictwa Cywilnego monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1 pkt 2, a w przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1 pkt 2, wdraża mechanizm korygujący, polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym ustawy.
 
 **Art. 7.** Ustawa wchodzi w życie z dniem 31 grudnia 2021 r., z wyjątkiem:
+
+- **1)** art. 1 pkt 9 w zakresie art. 189d ust. 6 i 7 i art. 5, które wchodzą w życie z dniem 15 listopada 2021 r.;
+- **2)** art. 4, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
 

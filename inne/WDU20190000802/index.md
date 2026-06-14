@@ -8,10 +8,10 @@ pos: 802
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 kwietnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 802 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 26 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000802) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/802/text.pdf) |
 
-Poz. 802 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 26 kwietnia 2019 r.
-w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej zarządcy nieruchomości Na podstawie art. 186 ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami z 2018 r.
-2204 i 2348 oraz z 2019 r. 270, 492 i 801) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej zarządcy nieruchomości za szkody wyrządzone w związku z zarządzaniem nieruchomością, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
+w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej zarządcy nieruchomości Na podstawie art. 186 ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r.
+poz. 2204 i 2348 oraz z 2019 r. poz. 270, 492 i 801) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej zarządcy nieruchomości za szkody wyrządzone w związku z zarządzaniem nieruchomością, zwanego dalej „ubezpieczeniem OC”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną tego ubezpieczenia.
 § 2. 1. Ubezpieczeniem OC jest objęta odpowiedzialność cywilna zarządcy nieruchomości za szkody wyrządzone działaniem lub zaniechaniem ubezpieczonego, w okresie ubezpieczenia, w związku z zarządzaniem nieruchomością.
 2. W przypadku gdy zarządca nieruchomości wykonuje czynności w związku z zarządzaniem nieruchomością przy pomocy innych osób, działających pod jego nadzorem, ubezpieczeniem OC jest objęta również odpowiedzialność cywilna tego zarządcy za szkody wyrządzone działaniem lub zaniechaniem tych osób.
 3. Ubezpieczenie OC nie obejmuje szkód:
@@ -38,6 +38,6 @@ w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej zarządcy nie
 § 3. Obowiązek ubezpieczenia OC powstaje nie później niż w dniu poprzedzającym dzień rozpoczęcia wykonywania czynności w związku z zarządzaniem nieruchomością.
 § 4. 1. Minimalna suma gwarancyjna ubezpieczenia OC, w odniesieniu do jednego zdarzenia oraz do wszystkich zdarzeń w okresie ubezpieczenia nie dłuższym niż 12 miesięcy, których skutki są objęte umową ubezpieczenia OC, wynosi równowartość w złotych 50 000 euro.
 2. Kwota, o której mowa w ust. 1, jest ustalana przy zastosowaniu kursu średniego euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym umowa ubezpieczenia OC została zawarta.
-Dziennik Ustaw 2 Poz. 802 § 5. Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.
+§ 5. Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.
 Minister Finansów: T. Czerwińska
 

@@ -8,7 +8,7 @@ pos: 1
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o odpowiedzialności dyscyplinarnej sędziów, którzy w latach 1944-1989 sprzeniewierzyli się niezawisłości sędziowskiej

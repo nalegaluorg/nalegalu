@@ -8,7 +8,7 @@ pos: 916
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz o zmianie niektórych innych ustaw
@@ -28,6 +28,96 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081450916) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/916/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. Nr 69, poz. 625, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 1 do ustawy w pkt 1:
+    - **a)** uchyla się lit. i, o oraz p,
+    - **b)** w lit. y średnik zastępuje się przecinkiem i dodaje się lit. z w brzmieniu: „z) dyrektywy Rady 2006/88/WE z dnia 24 października 2006 r. w sprawie wymogów w zakresie zdrowia zwierząt akwakultury i produktów akwakultury oraz zapobiegania niektórym chorobom zwierząt wodnych i zwalczania tych chorób (Dz. Urz. UE L 328 z 24.11.2006, str. 14, z późn. zm.);”;
+
+- **2)** w art. 1 w pkt 1:
+    - **a)** lit. i otrzymuje brzmienie: „i) prowadzenia: – przedsiębiorstwa produkcyjnego sektora akwakultury, – zakładu przetwórczego przetwarzającego lub poddającego ubojowi zwierzęta akwakultury w ramach zwalczania chorób zakaźnych tych zwierząt,”,
+    - **b)** w lit. o na końcu dodaje się przecinek oraz dodaje się lit. p w brzmieniu: „p) prowadzenia: – miejsc innych niż przedsiębiorstwa produkcyjne sektora akwakultury, w których zwierzęta wodne są utrzymywane bez zamiaru umieszczenia na rynku, – łowisk typu „wpuść i złów”, – przedsiębiorstw produkcyjnych sektora akwakultury, które umieszczają na rynku zwierzęta akwakultury wyłącznie w celu spożycia przez ludzi, w zakresie określonym w art. 1 ust. 3 lit. c rozporządzenia (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14), zwanego dalej „rozporządzeniem nr 853/2004””;
+
+- **3)** w art. 2:
+    - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) akwakultura – chów lub hodowlę zwierząt akwakultury przy użyciu technik stosowanych w celu zwiększenia produkcji tych zwierząt powyżej parametrów możliwych do osiągnięcia w naturalnym środowisku, przy czym zwierzęta te na etapie chowu lub hodowli wraz z odłowem lub zbiorem stanowią przedmiot własności osób fizycznych, osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej;”,
+    - **b)** pkt 2 otrzymuje brzmienie: „2) zwierzęta akwakultury – zwierzęta wodne będące w jakimkolwiek stadium rozwoju, w tym jaja, oraz nasienie lub gamety, hodowane w danym gospodarstwie lub na obszarach hodowli mięczaków, a także dzikie zwierzęta wodne przeznaczone do hodowli w danym gospodarstwie lub na obszarze hodowli mięczaków;”,
+    - **c)** uchyla się pkt 3,
+    - **d)** po pkt 3 dodaje się pkt 3a – 3c w brzmieniu: „3a) zwierzęta wodne – ryby należące do nadgromady bezżuchwowców (Agnatha) oraz do gromad ryb chrzęstnych (Chondrichthytes) i ryb kostnych (Osteichthyes), a także mięczaki należące do typu Mollusca oraz skorupiaki należące do podtypu Crustacea;
+
+- **3b)** ozdobne zwierzęta wodne – zwierzęta wodne hodowane, utrzymywane lub umieszczane na rynku w celach ozdobnych;
+- **3c)** dzikie zwierzęta wodne – zwierzęta wodne inne niż zwierzęta akwakultury;”,
+    - **e)** po pkt 6 dodaje się pkt 6a i 6b w brzmieniu: „6a) chów lub hodowla zwierząt akwakultury – hodowanie zwierząt akwakultury w danym gospodarstwie lub na obszarze hodowli mięczaków;
+
+- **6b)** łowisko typu „wpuść i złów” – stawy lub inne urządzenia, w których populację zwierząt akwakultury utrzymuje się wyłącznie w celach wędkarstwa rekreacyjnego przez odnowę tej populacji;”,
+    - **f)** pkt 8 – 10 otrzymują brzmienie: „8) gospodarstwo – obiekty budowlane, przestrzenie wolne lub inne miejsca, gdzie przebywają zwierzęta gospodarskie, a w przypadku zwierząt akwakultury – jakiekolwiek miejsca, w tym miejsca zamknięte, lub obiekty budowlane wykorzystywane przez przedsiębiorstwo produkcyjne sektora akwakultury, gdzie zwierzęta te są hodowane z zamiarem umieszczenia na rynku, z wyłączeniem miejsc, w których dzikie zwierzęta wodne złowione lub zebrane w celu spożycia przez ludzi są tymczasowo, bez karmienia, przetrzymywane przed poddaniem ich ubojowi;
+
+- **9)** niejadalne produkty pochodzenia zwierzęcego – materiał biologiczny i jaja wylęgowe drobiu;
+- **10)** materiał biologiczny – nasienie, komórki jajowe, zarodki oraz tkanki użyte do ich produkcji, pochodzące od zwierząt, przeznaczone do wykorzystania w rozrodzie, z wyłączeniem jaj wylęgowych drobiu i zwierząt akwakultury;”,
+    - **g)** po pkt 20 dodaje się pkt 20a i 20b w brzmieniu: „20a) przedsiębiorstwo produkcyjne sektora akwakultury – zorganizowany zespół składników niematerialnych i materialnych, przeznaczony do prowadzenia dowolnej działalności w zakresie chowu, hodowli, utrzymania lub pielęgnacji zwierząt akwakultury;
+
+- **20b)** zakład przetwórczy – zakład, w którym jest prowadzona działalność w zakresie przetwarzania zwierząt akwakultury przeznaczonych do spożycia przez ludzi, zatwierdzony zgodnie z art. 4 rozporządzenia nr 853/2004;”,
+    - **h)** pkt 21 otrzymuje brzmienie: „21) choroby zakaźne zwierząt – wywołane przez biologiczne czynniki chorobotwórcze choroby zwierząt, które ze względu na sposób powstawania lub szerzenia się stanowią zagrożenie dla zdrowia zwierząt lub ludzi, a w przypadku zwierząt wodnych – bezobjawowe lub objawowe zakażenie biologicznym czynnikiem chorobotwórczym;”,
+    - **i)** po pkt 21c dodaje się pkt 21d w brzmieniu: „21d) podwyższona śmiertelność – niewyjaśnione przypadki śmiertelności u zwierząt akwakultury znacznie przekraczające poziom ustalony między podmiotem prowadzącym działalność w danym gospodarstwie lub na danym obszarze hodowli mięczaków a powiatowym lekarzem weterynarii dla tego gospodarstwa lub obszaru w danych warunkach;”,
+    - **j)** pkt 25 otrzymuje brzmienie: „25) zwierzę z gatunku wrażliwego – zwierzę z danego gatunku, które może zostać zakażone lub może skażać, lub zakażać, a w przypadku zwierząt akwakultury zwierzę, dla którego w warunkach naturalnych lub w warunkach doświadczalnych zbliżonych do warunków naturalnych potwierdzono zakażenie czynnikiem chorobotwórczym;”,
+    - **k)** pkt 32 otrzymuje brzmienie: „32) wektor – zwierzę z gatunku niewrażliwego na chorobę, za pośrednictwem którego może być przenoszony czynnik chorobotwórczy z jednego zwierzęcia z gatunku wrażliwego na drugie zwierzę;”,
+    - **l)** po pkt 36 dodaje się pkt 36a i 36b w brzmieniu: „36a) enklawa – gospodarstwo lub gospodarstwa, w których utrzymuje się populacje zwierząt wodnych o ustalonym statusie zdrowotnym w odniesieniu do określonej choroby zakaźnej, z tym że w przypadku kilku gospodarstw za enklawę uważa się gospodarstwa objęte wspólnym systemem bezpieczeństwa biologicznego, na który składają się takie same środki nadzoru stanu zdrowia zwierząt wodnych, zapobiegania chorobom zakaźnym tych zwierząt oraz zwalczania tych chorób;
+
+- **36b)** strefa – obszar geograficzny z jednolitym systemem hydrologicznym obejmujący:
+    - **a)** część obszaru zlewni od źródła lub źródeł cieków wodnych do miejsca zlokalizowania naturalnych lub sztucznych barier, zapobiegających wędrówce zwierząt wodnych z niżej położonej części zlewni, lub
+    - **b)** całkowity obszar zlewni od źródła lub źródeł cieków wodnych do ujścia rzeki, lub
+    - **c)** co najmniej 2 obszary zlewni wraz z ujściami rzek, które są przez te ujścia ze sobą powiązane epizootycznie;”;
+
+- **4)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. Przepisów ustawy nie stosuje się do:
+- **1)** zwierząt wodnych łowionych w celu produkcji mączki rybnej, paszy dla ryb, oleju rybnego i podobnych produktów;
+- **2)** ozdobnych zwierząt wodnych chowanych lub hodowanych w celach niezarobkowych w akwariach (akwaria niekomercyjne);
+- **3)** dzikich zwierząt wodnych łowionych lub zbieranych w celu bezpośredniego wprowadzenia do łańcucha żywnościowego.”;
+- **5)** w art. 4 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Wymagania weterynaryjne dla prowadzenia działalności nadzorowanej w zakresie prowadzenia przedsiębiorstwa produkcyjnego sektora akwakultury lub zakładu przetwórczego obejmują także wymagania dotyczące programów nadzoru stanu zdrowia zwierząt akwakultury opracowanych przez podmioty prowadzące tę działalność oraz kontroli.”;
+- **6)** w art. 5:
+    - **a)** w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1) w art. 1 pkt 1 lit. a, c – f, h, i, l, jest dozwolone po stwierdzeniu przez powiatowego lekarza weterynarii właściwego ze względu na przewidywane miejsce jej prowadzenia, w drodze decyzji, spełniania wymagań weterynaryjnych określonych dla prowadzenia danego rodzaju działalności;
+
+- **2)** w art. 1 pkt 1 lit. b, g, j, k, n, p, jest dozwolone po uprzednim zgłoszeniu, w formie pisemnej, zamiaru jej prowadzenia powiatowemu lekarzowi weterynarii właściwemu ze względu na przewidywane miejsce jej prowadzenia.”,
+    - **b)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) określenie rodzaju i zakresu działalności nadzorowanej, którą wnioskodawca zamierza prowadzić, z tym że w przypadku działalności nadzorowanej dotyczącej zwierząt akwakultury ze wskazaniem gatunku tych zwierząt;”,
+    - **c)** w ust. 4 pkt 1 i 2 otrzymują brzmienie: „1) stwierdzającą spełnianie wymagań weterynaryjnych, jeżeli wymagania określone dla danego rodzaju działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a, c – f, h, i, l, są spełnione;
+
+- **2)** odmawiającą stwierdzenia spełniania wymagań weterynaryjnych, jeżeli wymagania określone dla danego rodzaju działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a, c – f, h, i, l, nie są spełnione.”,
+    - **d)** ust. 9 otrzymuje brzmienie: „9. Powiatowy lekarz weterynarii po otrzymaniu zgłoszenia zamiaru prowadzenia przez podmiot działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. b, g, j, k, p, wydaje decyzję o nadaniu temu podmiotowi weterynaryjnego numeru identyfikacyjnego.”;
+
+- **7)** art. 7 otrzymuje brzmienie: „Art. 7. Podmiot prowadzący działalność nadzorowaną, o której mowa w art. 1 pkt 1 lit. a – l, n, p oraz w art. 4 ust. 3, informuje, w formie pisemnej, powiatowego lekarza weterynarii o zaprzestaniu prowadzenia określonego rodzaju działalności nadzorowanej, a także o każdej zmianie stanu prawnego lub faktycznego związanego z prowadzeniem tej działalności, w zakresie dotyczącym wymagań weterynaryjnych, w terminie 7 dni od dnia zaistnienia takiego zdarzenia.”;
+- **8)** w art. 8 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Powiatowy lekarz weterynarii w przypadku stwierdzenia, że przy prowadzeniu działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a – n, p lub w art. 4 ust. 3, są naruszone wymagania weterynaryjne określone dla tej działalności, w zależności od zagrożenia stwarzanego dla zdrowia publicznego lub zdrowia zwierząt, wydaje decyzję:”;
+- **9)** w art. 9 ust. 2 otrzymuje brzmienie: „2. Powiatowy lekarz weterynarii powiadamia o wydaniu decyzji zakazującej prowadzenia działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a, d – f, h, i, l, p oraz w art. 4 ust. 3, za pośrednictwem wojewódzkiego lekarza weterynarii, Głównego Lekarza Weterynarii, który informuje o tym Komisję Europejską oraz pozostałe państwa członkowskie Unii Europejskiej.”;
+- **10)** w art. 10:
+    - **a)** w ust. 1 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „dla prowadzenia poszczególnych rodzajów działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a – n, p, w tym może określić:”,
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, sposób ustalania weterynaryjnego numeru identyfikacyjnego nadawanego podmiotom prowadzącym działalność nadzorowaną, o której mowa w art. 1 pkt 1 lit. a – l, o, p, mając na względzie zapewnienie właściwego sprawowania nadzoru nad prowadzeniem danego rodzaju działalności.
+
+3. Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia:
+
+- **1)** dodatkowe wymagania, jakie powinien spełniać wniosek o stwierdzenie spełniania wymagań weterynaryjnych lub zgłoszenie zamiaru prowadzenia działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a – l, n, p oraz w art. 4 ust. 3,
+- **2)** szczegółowy sposób dokonywania zgłoszenia zamiaru zaprzestania prowadzenia działalności nadzorowanej, o której mowa w art. 1 pkt 1 lit. a – l, n, p oraz w art. 4 ust. 3 – mając na względzie zapewnienie prawidłowego sprawowania przez powiatowego lekarza weterynarii nadzoru nad prowadzeniem danego rodzaju działalności nadzorowanej.”;
+- **11)** w art. 11:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Powiatowy lekarz weterynarii prowadzi rejestr podmiotów prowadzących działalność nadzorowaną, o której mowa w art. 1 pkt 1 lit. a – l, n, p oraz w art. 4 ust. 3, na obszarze jego właściwości.”,
+    - **b)** w ust. 3 dodaje się zdanie drugie w brzmieniu: „Główny Lekarz Weterynarii podaje do publicznej wiadomości informacje zawarte w rejestrze w części dotyczącej podmiotów prowadzących działalność nadzorowaną, o której mowa w art. 1 pkt 1 lit. i oraz p.”;
+
+- **12)** w art. 12: 1 pkt 1 lit. a, d – f, h, i, l, p oraz w art. 4 ust. 3, i informuje Komisję Europejską o każdej zmianie w tym zakresie.”;
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) listy podmiotów prowadzących działalność nadzorowaną, o której mowa w art. 1 pkt 1 lit. a, d – f, h, i, l, p;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Główny Lekarz Weterynarii przesyła Komisji Europejskiej listy podmiotów prowadzących działalność nadzorowaną, o której mowa w art.
+
+- **13)** po art. 12 dodaje się art. 12a w brzmieniu: „Art. 12a. Przepisów rozdziału 2 nie stosuje się do działalności w zakresie utrzymywania ozdobnych zwierząt wodnych w celach zarobkowych w akwariach (akwaria komercyjne), sklepach zoologicznych, sklepach ogrodniczych, stawach ogrodowych lub hurtowniach, jeżeli obiekty te:
+- **1)** nie mają bezpośredniego kontaktu z wodami naturalnymi lub
+- **2)** są wyposażone w system oczyszczania ścieków ograniczający do dopuszczalnego poziomu ryzyko przeniesienia chorób zakaźnych tych zwierząt do wód naturalnych.”;
+- **14)** w art. 22 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Dopuszcza się handel niejadalnymi produktami pochodzenia zwierzęcego, jeżeli zostały spełnione wymagania określone w przepisach o kontroli weterynaryjnej w handlu oraz gdy:”;
+- **15)** po art. 24e dodaje się art. 24ea w brzmieniu: „Art. 24ea. 1. Lekarz weterynarii, o którym mowa w art. 24d ust. 1, przekazuje okręgowej radzie lekarsko-weterynaryjnej właściwej dla lekarza wydającego paszport informację o wydaniu paszportu zawierającą następujące dane:
+- **1)** imię i nazwisko, miejsce zamieszkania i adres oraz numer telefonu i adres poczty elektronicznej posiadacza zwierząt;
+- **2)** gatunek, rasę i płeć zwierzęcia;
+- **3)** numer mikroczipa lub wytatuowany numer;
+- **4)** datę implantacji mikroczipa lub wykonania tatuażu;
+- **5)** miejsce implantacji mikroczipa lub wykonania tatuażu.
+
+2. Okręgowa rada lekarsko-weterynaryjna prowadzi rejestr wydanych paszportów.
+
+3. Okręgowa rada lekarsko-weterynaryjna przekazuje Krajowej Radzie Lekarsko-Weterynaryjnej dane zawarte w rejestrze, o którym mowa w ust. 2. Krajowa Rada Lekarsko-Weterynaryjna prowadzi centralny rejestr wydanych paszportów.
+
+4. Krajowa Rada Lekarsko-Weterynaryjna określi, w drodze uchwały, sposób prowadzenia rejestru wydanych paszportów oraz sposób i terminy przekazywania informacji o wydanych paszportach oraz danych zawartych w tym rejestrze.”;
+
+- **16)** rozdział 7 otrzymuje brzmienie: „Rozdział 7 Wymagania weterynaryjne dla umieszczania na rynku zwierząt akwakultury
 
 **Art. 31.**
 
@@ -209,9 +299,59 @@ source: "isap-pdf"
 
 **Art. 57c.** Jeżeli program, o którym mowa w art. 57, przewiduje odszkodowanie za zwierzęta zabite lub poddane ubojowi z nakazu organów Inspekcji Weterynaryjnej albo za zwierzęta padłe w wyniku zastosowania zabiegów nakazanych przez te organy, to do odszkodowania stosuje się przepisy art. 49.”;
 
+- **28)** w art. 58:
+    - **a)** uchyla się ust. 2,
+    - **b)** w ust. 3 uchyla się pkt 2;
+
+- **29)** art. 60 otrzymuje brzmienie: „Art. 60. Główny Lekarz Weterynarii występuje do Komisji Europejskiej z wnioskiem o uznanie terytorium Rzeczypospolitej Polskiej lub regionu położonego na tym terytorium za urzędowo wolne lub wolne od danej choroby zakaźnej zwierząt, jeżeli są spełnione wymagania w tym zakresie określone w przepisach wydanych na podstawie art. 61 ust. 1 pkt 1 lit. h lub w kodeksach zdrowia zwierząt wydanych przez Międzynarodowe Biuro Epizootyczne (OIE).”;
+- **30)** po art. 60 dodaje się art. 60a w brzmieniu: „Art. 60a. 1. Główny Lekarz Weterynarii składa Komisji Europejskiej oświadczenie o uznaniu strefy lub enklawy położonej na terytorium Rzeczypospolitej Polskiej za wolne od danej choroby zakaźnej zwierząt akwakultury, jeżeli są spełnione wymagania w tym zakresie określone w przepisach wydanych na podstawie art. 61 ust. 1 pkt 1 lit. h.
+
+2. Do oświadczenia dołącza się dokumentację potwierdzającą spełnienie wymagań niezbędnych do uznania strefy lub enklawy za wolne od danej choroby zakaźnej zwierząt akwakultury.
+
+3. Do uznania stref lub enklaw stanowiących ponad 75% terytorium Rzeczypospolitej Polskiej lub obejmujących obszary zlewni, które są wykorzystywane wspólnie z innymi państwami członkowskimi Unii Europejskiej lub państwami trzecimi, za wolne od danej choroby zakaźnej zwierząt, przepis art. 60 stosuje się odpowiednio.”;
+
+- **31)** w art. 61 w ust. 1 w pkt 1 lit. h otrzymuje brzmienie: „h) wymagania niezbędne do uznania terytorium Rzeczypospolitej Polskiej, regionu, strefy lub enklawy położonych na tym terytorium za urzędowo wolne lub wolne od danej choroby zakaźnej zwierząt oraz szczegółowy tryb tego uznawania, a w przypadku zwierząt akwakultury także warunki i tryb zawieszania, cofnięcia oraz ponownego uznania terytorium Rzeczypospolitej Polskiej, strefy lub enklawy, w stosunku do których zawieszono lub cofnięto uznanie,”;
+- **32)** w art. 85:
+    - **a)** w ust. 1: – uchyla się pkt 8, – w pkt 9: – lit. a otrzymuje brzmienie: „a) programie: – zwalczania chorób zakaźnych zwierząt, – mającym na celu wykrycie występowania zakażeń czynnikami wywołującymi choroby zakaźne zwierząt lub poszerzenie wiedzy o ryzyku występowania takich chorób, – nadzoru nad chorobami zakaźnymi zwierząt akwakultury mającego na celu osiągnięcie przez terytorium Rzeczypospolitej Polskiej, strefę lub enklawę statusu wolnego od danej choroby zakaźnej, – zwalczania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych wymienionych w rozporządzeniu nr 2160/2003, w załączniku I – wprowadzonych na podstawie przepisów ustawy,”, – uchyla się lit. b,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Kto uchyla się od obowiązku ochronnego szczepienia psów przeciwko wściekliźnie, a w przypadku wprowadzenia obowiązku ochronnego szczepienia kotów przeciwko wściekliźnie – od tego obowiązku – podlega karze grzywny.”,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. W sprawach o czyny, o których mowa w ust. 1 i 1a, stosuje się przepisy Kodeksu postępowania w sprawach o wykroczenia.”;
+
+- **33)** w załączniku nr 2:
+    - **a)** pkt 21 otrzymuje brzmienie: „21) przenoœne g¹bczaste encefalopatie prze¿uwaczy (Transmissible spongiform encephalopathies of ruminants – TSE);”,
+    - **b)** uchyla się pkt 23,
+    - **c)** w pkt 29 kropkę zastępuje się średnikiem i dodaje się pkt 30 – 38 w brzmieniu: „30) bonamioza (Bonamia exitiosa);
+
+- **31)** perkinsoza (Perkinsus marinus);
+- **32)** mikrocytoza (Microcytos mackini);
+- **33)** zespół Taura (Taura syndrome);
+- **34)** choroba żółtej głowy (Yellowhead disease);
+- **35)** zespół WSS (White Spot Syndrome);
+- **36)** zakażenie herpeswirusem koi (Koi herpes virus – KHV);
+- **37)** epizootyczna martwica układu krwiotwórczego (Epizootic haematopoietic necrosis – EHN);
+- **38)** zakaźny zespół owrzodzenia (Epizootic ulcerative syndrome – EUS).”;
+- **34)** w załączniku nr 3 uchyla się pkt 35 i 36;
+- **35)** w załączniku nr 4 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 – 31 w brzmieniu: „18) epizootyczna martwica układu krwiotwórczego (Epizootic haematopoietic necrosis – EHN);
+- **19)** zakaźny zespół owrzodzenia (Epizootic ulcerative syndrome – EUS);
+- **20)** bonamioza (Bonamia exitiosa);
+- **21)** perkinsoza (Perkinsus marinus);
+- **22)** mikrocytoza (Microcytos mackini);
+- **23)** zespół Taura (Taura syndrome);
+- **24)** choroba żółtej głowy (Yellowhead disease);
+- **25)** zespół WSS (White Spot Syndrome);
+- **26)** marteilioza (Marteilia refringens);
+- **27)** bonamioza (Bonamia ostreae);
+- **28)** wirusowa posocznica krwotoczna ryb łososiowatych (Viral haemorrhagic septicaemia – VHS);
+- **29)** zakaźna martwica układu krwiotwórczego ryb łososiowatych (Infectious haematopoietic necrosis – IHN);
+- **30)** zakażenie herpeswirusem koi (Koi herpes virus – KHV);
+- **31)** zakaźna anemia łososi (Infectious salmon anemia – ISA).”.
+
 **Art. 2.** W ustawie z dnia 10 grudnia 2003 r. o kontroli weterynaryjnej w handlu (Dz. U. z 2004 r. Nr 16, poz. 145 oraz z 2006 r. Nr 17, poz. 127) w załączniku nr 1 w części I w rozdziale 1 ust. 7 otrzymuje brzmienie: „7. Dyrektywa Rady 2006/88/WE z dnia 24 października 2006 r. w sprawie wymogów w zakresie zdrowia zwierząt akwakultury i produktów akwakultury oraz zapobiegania niektórym chorobom zwierząt wodnych i zwalczania tych chorób.”.
 
 **Art. 3.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 2 w pkt 5 lit. d otrzymuje brzmienie: „d) zdrowiem zwierząt przeznaczonych do rozrodu oraz jakością zdrowotną materiału biologicznego i jaj wylęgowych drobiu,”;
+- **2)** w art. 16 w ust. 1 w pkt 1 lit. h otrzymuje brzmienie: „h) sprawowania nadzoru nad wyładowywaniem ze statków rybackich i statków przetwórni produktów rybołówstwa, nad obróbką, przetwórstwem i przechowywaniem tych produktów oraz ślimaków i żab,”;
+- **3)** w art. 30 w ust. 1 w pkt 5 lit. f otrzymuje brzmienie: „f) pozyskiwaniem, obróbką lub przechowywaniem materiału biologicznego, jaj wylęgowych drobiu lub jaj i gamet przeznaczonych do celów hodowlanych,”.
 
 **Art. 4.** W ustawie z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2006 r. Nr 17, poz. 127 i Nr 171, poz. 1225 oraz z 2007 r. Nr 64, poz. 429) w art. 9 ust. 4 otrzymuje brzmienie: „4. Produkty rybołówstwa, małże, szkarłupnie, osłonice i ślimaki morskie wprowadzane na rynek mogą pochodzić z gospodarstwa podlegającego ograniczeniom, nakazom lub zakazom wydanym na podstawie przepisów o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, jeżeli nie są rybami i mięczakami wykazującymi kliniczne oznaki choroby lub nie pochodzą od lub z takich zwierząt.”.
 
@@ -240,7 +380,7 @@ source: "isap-pdf"
 
 **Art. 9.** Do programów określonych w art. 8, przyjętych przez Radę Ministrów, w drodze uchwały, i przekazanych do Komisji Europejskiej z wnioskiem o ich zatwierdzenie, stosuje się przepisy art. 57 ust. 7 ustawy wymienionej w art. 1.
 
-**Art. 10.** Marszałek ogłosi tekst jednolity ustawy wymienionej w art. 1 w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+**Art. 10.** Marszałek Sejmu ogłosi tekst jednolity ustawy wymienionej w art. 1 w terminie 3 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

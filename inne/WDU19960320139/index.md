@@ -8,7 +8,7 @@ pos: 139
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # l)wart. 1:

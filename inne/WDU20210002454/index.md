@@ -8,10 +8,10 @@ pos: 2454
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2454 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 20 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,21 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2454/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 20 grudnia 2021 r.
-w sprawie szczegółowego zakresu i formy dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych oraz programu funkcjonalno-użytkowego Na podstawie art. 103 ust. 4 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2021 r.
+w sprawie szczegółowego zakresu i formy dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych oraz programu funkcjonalno-użytkowego Na podstawie art. 103 ust. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r.
 poz. 1129, 1598, 2054 i 2269) zarządza się, co następuje:
-1) grupach, klasach, kategoriach robót należy przez to rozumieć grupy, klasy, kategorie określone w rozporządzeniu (WE) nr 2195/2002 Parlamentu Europejskiego i Rady z dnia 5 listopada 2002 r. w sprawie Wspólnego Słownika Zamówień (CPV) (Dz. Urz. WE L 340 z 16.12.2002, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 5, str. 3, z późn. zm.), zwanym dalej „Wspólnym Słownikiem Zamówień”;
-2) pracach towarzyszących należy przez to rozumieć prace niezbędne do wykonania robót podstawowych niezaliczane do robót tymczasowych, w tym wytyczanie geodezyjne i inwentaryzację powykonawczą;
-3) robotach podstawowych należy przez to rozumieć minimalny zakres prac, które po wykonaniu są możliwe do odebrania pod względem ilości i wymogów jakościowych oraz uwzględniają przyjęty stopień zagregowania robót;
-4) robotach tymczasowych należy przez to rozumieć prace, które są projektowane i wykonywane jako potrzebne do wykonania robót podstawowych, ale nie są przekazywane zamawiającemu i są usuwane po wykonaniu robót podstawowych.
+§ 1. Ilekroć w rozporządzeniu jest mowa o:
+1) grupach, klasach, kategoriach robót – należy przez to rozumieć grupy, klasy, kategorie określone w rozporządzeniu (WE) nr 2195/2002 Parlamentu Europejskiego i Rady z dnia 5 listopada 2002 r. w sprawie Wspólnego Słownika Zamówień (CPV) (Dz. Urz. WE L 340 z 16.12.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne rozdz. 6, t. 5, str. 3, z późn. zm.), zwanym dalej „Wspólnym Słownikiem Zamówień”;
+2) pracach towarzyszących – należy przez to rozumieć prace niezbędne do wykonania robót podstawowych niezaliczane do robót tymczasowych, w tym wytyczanie geodezyjne i inwentaryzację powykonawczą;
+3) robotach podstawowych – należy przez to rozumieć minimalny zakres prac, które po wykonaniu są możliwe do odebrania pod względem ilości i wymogów jakościowych oraz uwzględniają przyjęty stopień zagregowania robót;
+4) robotach tymczasowych – należy przez to rozumieć prace, które są projektowane i wykonywane jako potrzebne do wykonania robót podstawowych, ale nie są przekazywane zamawiającemu i są usuwane po wykonaniu robót podstawowych.
 § 2. 1. Dokumentacja projektowa, specyfikacje techniczne wykonania i odbioru robót budowlanych oraz program funkcjonalno-użytkowy są odrębnymi opracowaniami, w których wydziela się tomy zgodnie z przyjętą systematyką podziału robót budowlanych.
 2. Opracowania, o których mowa w ust. 1, mogą być sporządzone w formie papierowej lub w formie elektronicznej w postaci plików komputerowych w formacie PDF.
 3. W przypadku opracowania sporządzonego w formie papierowej wszystkie strony w każdym tomie są trwale spięte i ponumerowane.
-§ 4. 1. Dokumentacja projektowa służąca do opisu przedmiotu zamówienia na wykonanie robót budowlanych, dla których jest wymagane uzyskanie pozwolenia na budowę albo zgłoszenie robót budowlanych, do którego dołącza się projekt budowlany zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. Prawo budowlane, składa się w szczególności z:
+§ 3. Zakres dokumentacji projektowej ustala zamawiający, biorąc pod uwagę tryb udzielenia zamówienia publicznego, zwanego dalej „zamówieniem”, oraz wymagania dotyczące postępowania poprzedzającego rozpoczęcie robót budowlanych wynikające z ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351).
+§ 4. 1. Dokumentacja projektowa służąca do opisu przedmiotu zamówienia na wykonanie robót budowlanych, dla których jest wymagane uzyskanie pozwolenia na budowę albo zgłoszenie robót budowlanych, do którego dołącza się projekt budowlany zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, składa się w szczególności z:
 1) projektu budowlanego w zakresie uwzględniającym specyfikę robót budowlanych;
 2) projektu wykonawczego w zakresie, o którym mowa w § 5;
 3) przedmiaru robót w zakresie, o którym mowa w § 6.
-2. Dokumentacja projektowa służąca do opisu przedmiotu zamówienia na wykonanie robót budowlanych, dla których nie jest wymagane uzyskanie pozwolenia na budowę albo zgłoszenie robót budowlanych, do którego dołącza się projekt budowlany zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. Prawo budowlane, składa się w szczególności z:
+2. Dokumentacja projektowa służąca do opisu przedmiotu zamówienia na wykonanie robót budowlanych, dla których nie jest wymagane uzyskanie pozwolenia na budowę albo zgłoszenie robót budowlanych, do którego dołącza się projekt budowlany zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, składa się w szczególności z:
 1) planów, rysunków lub innych dokumentów umożliwiających jednoznaczne określenie rodzaju i zakresu robót podstawowych oraz uwarunkowań i dokładnej lokalizacji ich wykonywania;
 2) przedmiaru robót w zakresie, o którym mowa w § 6;
 3) projektów, pozwoleń, uzgodnień i opinii wymaganych odrębnymi przepisami.
@@ -49,7 +50,7 @@ poz. 1129, 1598, 2054 i 2269) zarządza się, co następuje:
 1) części obiektu,
 2) rozwiązań budowlano-konstrukcyjnych i materiałowych,
 3) detali architektonicznych oraz urządzeń budowlanych,
-4) sieci uzbrojenia terenu, instalacji i wyposażenia technicznego których odzwierciedlenie na rysunkach projektu budowlanego nie jest wystarczające dla potrzeb, o których mowa w ust. 1.
+4) sieci uzbrojenia terenu, instalacji i wyposażenia technicznego – których odzwierciedlenie na rysunkach projektu budowlanego nie jest wystarczające dla potrzeb, o których mowa w ust. 1.
 3. Projekt wykonawczy, w zależności od zakresu i rodzaju robót budowlanych stanowiących przedmiot zamówienia, dotyczy:
 1) przygotowania terenu pod budowę;
 2) robót budowlanych w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz robót w zakresie inżynierii lądowej i wodnej, włącznie z robotami wykończeniowymi w zakresie obiektów budowlanych;
@@ -63,13 +64,13 @@ poz. 1129, 1598, 2054 i 2269) zarządza się, co następuje:
 3) tabeli przedmiaru robót.
 § 7. 1. Strona tytułowa przedmiaru robót zawiera następujące informacje:
 1) nazwę nadaną zamówieniu przez zamawiającego;
-2) adres obiektu budowlanego, a w przypadku braku adresu opis lokalizacji obiektu budowlanego;
-3) w zależności od zakresu robót budowlanych objętych przedmiotem zamówienia nazwy i kody:
+2) adres obiektu budowlanego, a w przypadku braku adresu – opis lokalizacji obiektu budowlanego;
+3) w zależności od zakresu robót budowlanych objętych przedmiotem zamówienia – nazwy i kody:
 a) grup robót,
 b) klas robót,
 c) kategorii robót;
 4) nazwę i adres zamawiającego;
-5) imię i nazwisko osoby opracowującej przedmiar robót oraz o ile występują nazwę i adres podmiotu opracowującego przedmiar robót, oraz datę opracowania.
+5) imię i nazwisko osoby opracowującej przedmiar robót oraz – o ile występują – nazwę i adres podmiotu opracowującego przedmiar robót, oraz datę opracowania.
 2. Jeżeli objętość informacji, o których mowa w ust. 1, uniemożliwia zamieszczenie ich na stronie tytułowej, dopuszcza się zamieszczenie tych informacji na kolejnych stronach albo w postaci załącznika do strony tytułowej.
 § 8. 1. Spis działów przedmiaru robót przedstawia podział wszystkich robót budowlanych w danym obiekcie na grupy robót zgodnie ze Wspólnym Słownikiem Zamówień.
 2. Dalszy podział przedmiaru robót należy opracować według systematyki ustalonej indywidualnie lub na podstawie systematyki stosowanej w publikacjach zawierających kosztorysowe normy nakładów rzeczowych.
@@ -84,20 +85,21 @@ c) kategorii robót;
 5) jednostkę miary, której dotyczy pozycja przedmiaru;
 6) liczbę jednostek miary pozycji przedmiaru.
 2. Liczbę jednostek miary podaną w przedmiarze oblicza się na podstawie rysunków w dokumentacji projektowej w sposób zgodny z zasadami podanymi w specyfikacjach technicznych wykonania i odbioru robót budowlanych.
-3. Obliczenia liczby jednostek miary jeżeli nie są zamieszczone w danej pozycji przedmiaru dołącza się do przedmiaru robót.
+3. Obliczenia liczby jednostek miary – jeżeli nie są zamieszczone w danej pozycji przedmiaru – dołącza się do przedmiaru robót.
 § 11. 1. Do dokumentacji projektowej, o której mowa w § 4 ust. 2, dołącza się stronę tytułową, która zawiera w szczególności:
 1) nazwę nadaną zamówieniu przez zamawiającego;
-2) adres obiektu budowlanego, którego dotyczy dokumentacja projektowa, a w przypadku braku adresu opis lokalizacji obiektu budowlanego;
-3) w zależności od zakresu robót budowlanych objętych przedmiotem zamówienia nazwy i kody:
+2) adres obiektu budowlanego, którego dotyczy dokumentacja projektowa, a w przypadku braku adresu – opis lokalizacji obiektu budowlanego;
+3) w zależności od zakresu robót budowlanych objętych przedmiotem zamówienia – nazwy i kody:
 a) grup robót,
 b) klas robót,
 c) kategorii robót;
 4) nazwę i adres zamawiającego;
 5) spis zawartości dokumentacji projektowej;
-6) imię i nazwisko osoby opracowującej części składowe dokumentacji projektowej oraz o ile występują nazwę i adres podmiotu, oraz datę opracowania.
+6) imię i nazwisko osoby opracowującej części składowe dokumentacji projektowej oraz – o ile występują – nazwę i adres podmiotu, oraz datę opracowania.
 2. Jeżeli objętość informacji, o których mowa w ust. 1, uniemożliwia zamieszczenie ich na stronie tytułowej, dopuszcza się zamieszczenie tych informacji na kolejnych stronach albo w postaci załącznika do strony tytułowej.
+§ 12. Specyfikacje techniczne wykonania i odbioru robót budowlanych stanowią opracowania zawierające w szczególności zbiory wymagań, które są niezbędne do określenia standardu i jakości wykonania robót, w zakresie sposobu wykonania robót budowlanych, właściwości wyrobów budowlanych oraz oceny prawidłowości wykonania poszczególnych robót.
 § 13. 1. Specyfikacje techniczne wykonania i odbioru robót budowlanych, w zależności od stopnia skomplikowania robót budowlanych, składają się ze specyfikacji technicznych wykonania i odbioru robót podstawowych, rodzajów robót według przyjętej systematyki lub grup robót.
-2. Specyfikacje techniczne wykonania i odbioru robót budowlanych dla budowy w rozumieniu ustawy z dnia 7 lipca 1994 r. Prawo budowlane należy opracować z uwzględnieniem podziału grup robót według Wspólnego Słownika Zamówień, określając w nich co najmniej:
+2. Specyfikacje techniczne wykonania i odbioru robót budowlanych dla budowy w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane należy opracować z uwzględnieniem podziału grup robót według Wspólnego Słownika Zamówień, określając w nich co najmniej:
 1) roboty budowlane w zakresie przygotowania terenu pod budowę;
 2) roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej;
 3) roboty w zakresie instalacji budowlanych;
@@ -107,17 +109,17 @@ c) kategorii robót;
 § 14. 1. Specyfikacje techniczne wykonania i odbioru robót budowlanych zawierają co najmniej:
 1) stronę tytułową, która obejmuje:
 a) nazwę nadaną zamówieniu przez zamawiającego,
-b) adres obiektu budowlanego, którego dotyczy specyfikacja techniczna wykonania i odbioru robót budowlanych, a w przypadku braku adresu opis lokalizacji obiektu,
-c) w zależności od zakresu robót budowlanych objętych przedmiotem zamówienia nazwy i kody: grup robót, klas robót, kategorii robót,
+b) adres obiektu budowlanego, którego dotyczy specyfikacja techniczna wykonania i odbioru robót budowlanych, a w przypadku braku adresu – opis lokalizacji obiektu,
+c) w zależności od zakresu robót budowlanych objętych przedmiotem zamówienia – nazwy i kody: – grup robót, – klas robót, – kategorii robót,
 d) nazwę i adres zamawiającego,
 e) nazwę specyfikacji technicznej wykonania odbioru robót budowlanych i jej numer,
-f) imię i nazwisko osoby opracowującej specyfikację techniczną wykonania i odbioru robót budowlanych oraz o ile występują nazwę i adres podmiotu opracowującego specyfikację techniczną wykonania i odbioru robót budowlanych;
+f) imię i nazwisko osoby opracowującej specyfikację techniczną wykonania i odbioru robót budowlanych oraz – o ile występują – nazwę i adres podmiotu opracowującego specyfikację techniczną wykonania i odbioru robót budowlanych;
 2) część ogólną, która obejmuje:
 a) przedmiot i zakres robót budowlanych,
 b) wyszczególnienie i opis prac towarzyszących i robót tymczasowych,
-c) informacje o terenie budowy zawierające wszystkie niezbędne dane istotne z uwagi na: organizację robót budowlanych, zabezpieczenie interesów osób trzecich, ochronę środowiska, warunki bezpieczeństwa pracy, zaplecze dla potrzeb wykonawcy, warunki organizacji ruchu, ogrodzenie, zabezpieczenie chodników i jezdni,
+c) informacje o terenie budowy zawierające wszystkie niezbędne dane istotne z uwagi na: – organizację robót budowlanych, – zabezpieczenie interesów osób trzecich, – ochronę środowiska, – warunki bezpieczeństwa pracy, – zaplecze dla potrzeb wykonawcy, – warunki organizacji ruchu, – ogrodzenie, – zabezpieczenie chodników i jezdni,
 d) określenia podstawowe, zawierające definicje pojęć i określeń nigdzie wcześniej niezdefiniowanych, a wymagających zdefiniowania w celu jednoznacznego rozumienia zapisów dokumentacji projektowej i specyfikacji technicznej wykonania i odbioru robót budowlanych;
-3) wymagania dotyczące właściwości wyrobów budowlanych oraz niezbędne wymagania związane z ich przechowywaniem, transportem, warunkami dostawy, składowaniem i kontrolą jakości poszczególne wymagania odnosi się do postanowień norm;
+3) wymagania dotyczące właściwości wyrobów budowlanych oraz niezbędne wymagania związane z ich przechowywaniem, transportem, warunkami dostawy, składowaniem i kontrolą jakości – poszczególne wymagania odnosi się do postanowień norm;
 4) wymagania dotyczące sprzętu i maszyn niezbędnych lub zalecanych do wykonania robót budowlanych zgodnie z założoną jakością;
 5) wymagania dotyczące środków transportu;
 6) wymagania dotyczące wykonania robót budowlanych z podaniem sposobu wykończenia poszczególnych elementów, tolerancji wymiarowych i szczegółów technologicznych oraz niezbędne informacje dotyczące odcinków robót budowlanych, przerw i ograniczeń, a także wymagania specjalne;
@@ -125,22 +127,23 @@ d) określenia podstawowe, zawierające definicje pojęć i określeń nigdzie w
 8) wymagania dotyczące przedmiaru i obmiaru robót;
 9) opis sposobu odbioru robót budowlanych;
 10) opis sposobu rozliczenia robót tymczasowych i prac towarzyszących;
-11) dokumenty odniesienia dokumenty będące podstawą do wykonania robót budowlanych, w tym wszystkie elementy dokumentacji projektowej, normy oraz inne dokumenty i ustalenia techniczne.
+11) dokumenty odniesienia – dokumenty będące podstawą do wykonania robót budowlanych, w tym wszystkie elementy dokumentacji projektowej, normy oraz inne dokumenty i ustalenia techniczne.
 2. Jeżeli objętość informacji, o których mowa w ust. 1 pkt 1, uniemożliwia zamieszczenie ich na stronie tytułowej, dopuszcza się zamieszczenie tych informacji na kolejnych stronach albo w postaci załącznika do strony tytułowej.
+§ 15. Program funkcjonalno-użytkowy służy do opisu przedmiotu zamówienia, ustalenia planowanych kosztów prac projektowych i robót budowlanych, przygotowania oferty – szczególnie w zakresie obliczenia ceny oferty oraz wykonania prac projektowych.
 § 16. Program funkcjonalno-użytkowy składa się z następujących elementów:
 1) strony tytułowej;
 2) części opisowej;
 3) części informacyjnej.
 § 17. 1. Strona tytułowa programu funkcjonalno-użytkowego obejmuje:
 1) nazwę nadaną zamówieniu przez zamawiającego;
-2) adres obiektu budowlanego, którego dotyczy program funkcjonalno-użytkowy, a w przypadku braku adresu opis lokalizacji obiektu budowlanego;
-3) w zależności od zakresu robót budowlanych objętych przedmiotem zamówienia nazwy i kody:
+2) adres obiektu budowlanego, którego dotyczy program funkcjonalno-użytkowy, a w przypadku braku adresu – opis lokalizacji obiektu budowlanego;
+3) w zależności od zakresu robót budowlanych objętych przedmiotem zamówienia – nazwy i kody:
 a) grup robót,
 b) klas robót,
 c) kategorii robót;
 4) nazwę i adres zamawiającego;
 5) spis zawartości programu funkcjonalno-użytkowego;
-6) imię i nazwisko osoby opracowującej program funkcjonalno-użytkowy oraz o ile występują nazwę i adres podmiotu opracowującego program funkcjonalno-użytkowy.
+6) imię i nazwisko osoby opracowującej program funkcjonalno-użytkowy oraz – o ile występują – nazwę i adres podmiotu opracowującego program funkcjonalno-użytkowy.
 2. Jeżeli objętość informacji, o których mowa w ust. 1, uniemożliwia zamieszczenie ich na stronie tytułowej, dopuszcza się zamieszczenie tych informacji na kolejnych stronach albo w postaci załącznika do strony tytułowej.
 § 18. 1. Część opisowa programu funkcjonalno-użytkowego obejmuje:
 1) opis ogólny przedmiotu zamówienia;
@@ -154,7 +157,7 @@ a) powierzchnie użytkowe poszczególnych pomieszczeń wraz z określeniem ich f
 b) wskaźniki powierzchniowo-kubaturowe, w tym wskaźnik określający udział powierzchni ruchu w powierzchni netto,
 c) inne powierzchnie, jeżeli nie są pochodną powierzchni użytkowej opisanych wcześniej wskaźników,
 d) określenie wielkości możliwych przekroczeń lub pomniejszenia przyjętych parametrów powierzchni i kubatur lub wskaźników.
-3. W przypadku budynków, w odniesieniu do szczegółowych właściwości funkcjonalno-użytkowych wyrażonych we wskaźnikach powierzchniowo-kubaturowych, o których mowa w ust. 2 pkt 4, uwzględnia się wymagania zawarte w przepisach wydanych na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane.
+3. W przypadku budynków, w odniesieniu do szczegółowych właściwości funkcjonalno-użytkowych wyrażonych we wskaźnikach powierzchniowo-kubaturowych, o których mowa w ust. 2 pkt 4, uwzględnia się wymagania zawarte w przepisach wydanych na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 4. Wymagania zamawiającego w stosunku do przedmiotu zamówienia określa się, podając odpowiednio, w zależności od specyfiki obiektu budowlanego, wymagania dotyczące:
 1) przygotowania terenu budowy;
 2) architektury;
@@ -193,17 +196,18 @@ z 2021 r. poz. 1836);
 10) strategicznych inwestycji w sektorze naftowym realizowanych na podstawie ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2021 r. poz. 1902);
 11) inwestycji w zakresie budowy portu zewnętrznego realizowanych na podstawie ustawy z dnia 9 sierpnia 2019 r.
 o inwestycjach w zakresie budowy portów zewnętrznych (Dz. U. z 2021 r. poz. 1853 i 2368).
+§ 21. 1. Do postępowań o udzielenie zamówienia wszczętych i niezakończonych przed dniem 1 stycznia 2022 r., w zakresie opisu przedmiotu zamówienia, stosuje się przepisy dotychczasowe.
 2. W celu przygotowania lub przeprowadzenia postępowania o udzielenie zamówienia wszczynanego po dniu 31 grudnia 2021 r. zamawiający może korzystać z dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych lub programu funkcjonalno-użytkowego, sporządzonych przed dniem wejścia w życie rozporządzenia, o ile w dacie ich sporządzenia spełniały one wymagania określone w rozporządzeniu Ministra Infrastruktury z dnia 2 września 2004 r. w sprawie szczegółowego zakresu i formy dokumentacji projektowej, specyfikacji technicznych wykonania i odbioru robót budowlanych oraz programu funkcjonalno-użytkowego (Dz. U. z 2013 r. poz. 1129).
 § 22. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
 Minister Rozwoju i Technologii: P. Nowak
 
-#### Rozdział 1 Przepisy ogólne § 1. Ilekroć w rozporządzeniu jest mowa o:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Zakres i forma dokumentacji projektowej § 3. Zakres dokumentacji projektowej ustala zamawiający, biorąc pod uwagę tryb udzielenia zamówienia publicznego, zwanego dalej „zamówieniem”, oraz wymagania dotyczące postępowania poprzedzającego rozpoczęcie robót budowlanych wynikające z ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2021 r. poz. 2351).
+#### Rozdział 2 Zakres i forma dokumentacji projektowej
 
-#### Rozdział 3 Zakres i forma specyfikacji technicznych wykonania i odbioru robót budowlanych § 12. Specyfikacje techniczne wykonania i odbioru robót budowlanych stanowią opracowania zawierające w szczególności zbiory wymagań, które są niezbędne do określenia standardu i jakości wykonania robót, w zakresie sposobu wykonania robót budowlanych, właściwości wyrobów budowlanych oraz oceny prawidłowości wykonania poszczególnych robót.
+#### Rozdział 3 Zakres i forma specyfikacji technicznych wykonania i odbioru robót budowlanych
 
-#### Rozdział 4 Zakres i forma programu funkcjonalno-użytkowego § 15. Program funkcjonalno-użytkowy służy do opisu przedmiotu zamówienia, ustalenia planowanych kosztów prac projektowych i robót budowlanych, przygotowania oferty szczególnie w zakresie obliczenia ceny oferty oraz wykonania prac projektowych.
+#### Rozdział 4 Zakres i forma programu funkcjonalno-użytkowego
 
-#### Rozdział 5 Przepis przejściowy i przepis końcowy § 21. 1. Do postępowań o udzielenie zamówienia wszczętych i niezakończonych przed dniem 1 stycznia 2022 r., w zakresie opisu przedmiotu zamówienia, stosuje się przepisy dotychczasowe.
+#### Rozdział 5 Przepis przejściowy i przepis końcowy
 

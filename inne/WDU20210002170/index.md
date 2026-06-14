@@ -8,10 +8,10 @@ pos: 2170
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 29 listopada 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2170 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 18 listopada 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,83 +25,94 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2170/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 18 listopada 2021 r.
-sprawie sposobu trybu prowadzenia akt do zgłoszeń wierzytelności oraz zbioru dokumentów, a także udostępniania tych akt oraz zbioru dokumentów Na podstawie art. 228a ust. 7 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 2320 oraz z 2021 r. poz. 1080, 1177 1598) zarządza się, co następuje:
-§ 2. Syndyk prowadzi systemie teleinformatycznym obsługującym postępowanie sądowe, którym mowa art. 53 § 1a ustawy z dnia 27 lipca 2001 r. Prawo ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r.
-poz. 1080 1236), zwanym dalej „systemem teleinformatycznym”, następujące urządzenia ewidencyjne dla akt, których mowa art. 228a ust. 1 ustawy, zwanych dalej „aktami do zgłoszeń wierzytelności”:
-1) repertorium „GUp-s-Zw” dla spraw upadłościowych prowadzonych po ogłoszeniu upadłości osoby fizycznej nieprowadzącej działalności gospodarczej podstawie art. 491 ust. 1 ustawy;
-2) repertorium „GUp„sk”-Zw” dla spraw upadłościowych prowadzonych po ogłoszeniu upadłości osoby fizycznej nieprowadzącej działalności gospodarczej podstawie art. 491 ust. 2 ustawy oraz po wydaniu postanowienia, którym mowa art. 491 ust. 2 ustawy;
-3) repertorium „GUp-Zw” dla spraw upadłościowych prowadzonych po ogłoszeniu upadłości dłużnika podstawie art. 51 ust. 1 ustawy.
+w sprawie sposobu i trybu prowadzenia akt do zgłoszeń wierzytelności oraz zbioru dokumentów, a także udostępniania tych akt oraz zbioru dokumentów Na podstawie art. 228a ust. 7 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 i 2320 oraz z 2021 r. poz. 1080, 1177 i 1598) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb prowadzenia przez syndyka akt, o których mowa w art. 228a ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, zwanej dalej „ustawąˮ, oraz zbioru dokumentów, o którym mowa w art. 228a ust. 2 ustawy, w tym stosowane urządzenia ewidencyjne, a także udostępniania tych akt oraz zbioru dokumentów.
+§ 2. Syndyk prowadzi w systemie teleinformatycznym obsługującym postępowanie sądowe, o którym mowa w art. 53 § 1a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r.
+poz. 1080 i 1236), zwanym dalej „systemem teleinformatycznym”, następujące urządzenia ewidencyjne dla akt, o których mowa w art. 228a ust. 1 ustawy, zwanych dalej „aktami do zgłoszeń wierzytelności”:
+1) repertorium „GUp-s-Zw” dla spraw upadłościowych prowadzonych po ogłoszeniu upadłości osoby fizycznej nieprowadzącej działalności gospodarczej na podstawie art. 491 ust. 1 ustawy;
+2) repertorium „GUp„sk”-Zw” dla spraw upadłościowych prowadzonych po ogłoszeniu upadłości osoby fizycznej nieprowadzącej działalności gospodarczej na podstawie art. 491 ust. 2 ustawy oraz po wydaniu postanowienia, o którym mowa w art. 491 ust. 2 ustawy;
+3) repertorium „GUp-Zw” dla spraw upadłościowych prowadzonych po ogłoszeniu upadłości dłużnika na podstawie art. 51 ust. 1 ustawy.
 § 3. Syndyk prowadzi akta do zgłoszeń wierzytelności oraz zbiór dokumentów odrębnie dla każdego upadłego.
+§ 4. 1. Akta do zgłoszeń wierzytelności są zakładane w systemie teleinformatycznym z chwilą odnotowania w repertorium sądowym „GU” postanowienia o ogłoszeniu upadłości.
 2. Akta do zgłoszeń wierzytelności składają się z odrębnych teczek prowadzonych dla każdego wierzyciela. W teczce prowadzonej dla danego wierzyciela prowadzi się odrębne zakładki dla każdego zgłoszenia dokonanego przez tego wierzyciela.
-3. Akta do zgłoszeń wierzytelności oznacza się systemie teleinformatycznym sygnaturą akt sprawy upadłościowej, dla której są zakładane, oraz symbolem „Zw”.
-dokumenty, które dotyczą danego zgłoszenia wierzytelności, tym pisma lub dokumenty otrzymane przez syndyka, pisma wysłane przez syndyka wraz z potwierdzeniem ich odbioru przez adresata oraz inne dokumenty utworzone przez syndyka toku prowadzenia akt do zgłoszeń wierzytelności.
-2. Syndyk wprowadza treść pism, których mowa art. 228a ust. 2 ustawy, do akt do zgłoszeń wierzytelności, prowadzonych systemie teleinformatycznym, z wykorzystaniem formularzy elektronicznych udostępnionych systemie teleinformatycznym. Syndyk sporządza cyfrowe odwzorowanie dokumentu złożonego postaci papierowej załącza do akt do zgłoszeń wierzytelności.
-3. Skargę zwrot zgłoszenia wierzytelności oraz wezwanie do złożenia dokumentów trybie art. 243 ust. 2 ustawy załącza się do zakładki zgłoszenia wierzytelności, prowadzonej systemie teleinformatycznym, którego skarga albo wezwanie dotyczy.
-4. Zgłoszenia wierzytelności oraz wszelkie pisma dokumenty, które dotyczą danego zgłoszenia wierzytelności, są zamieszczane aktach do zgłoszeń wierzytelności zakładce prowadzonej dla danego zgłoszenia wierzytelności.
-5. Uzupełniające zgłoszenie wierzytelności złożone przez wierzyciela po złożeniu listy wierzytelności jest zamieszczane zakładce do zgłoszenia wierzytelności, którego takie uzupełniające zgłoszenie dotyczy.
+3. Akta do zgłoszeń wierzytelności oznacza się w systemie teleinformatycznym sygnaturą akt sprawy upadłościowej, dla której są zakładane, oraz symbolem „Zw”.
+4. Teczki prowadzone odrębnie dla każdego wierzyciela oznacza się numerem porządkowym wygenerowanym dla pierwszego zgłoszenia dokonanego przez wierzyciela odpowiednio w repertorium „GUp-s-Zw”, „GUp„sk”-Zw” lub „GUp-Zw”.
+5. Zakładki prowadzone odrębnie dla każdego zgłoszenia dokonanego przez wierzyciela oznacza się numerem teczki wierzyciela, znakiem łamania oraz numerem porządkowym nadanym zgłoszeniu.
+§ 5. 1. Do akt prowadzonych do zgłoszeń wierzytelności załącza się zgłoszenia wierzytelności oraz wszelkie pisma i dokumenty, które dotyczą danego zgłoszenia wierzytelności, w tym pisma lub dokumenty otrzymane przez syndyka, pisma wysłane przez syndyka wraz z potwierdzeniem ich odbioru przez adresata oraz inne dokumenty utworzone przez syndyka w toku prowadzenia akt do zgłoszeń wierzytelności.
+2. Syndyk wprowadza treść pism, o których mowa w art. 228a ust. 2 ustawy, do akt do zgłoszeń wierzytelności, prowadzonych w systemie teleinformatycznym, z wykorzystaniem formularzy elektronicznych udostępnionych w systemie teleinformatycznym. Syndyk sporządza cyfrowe odwzorowanie dokumentu złożonego w postaci papierowej i załącza do akt do zgłoszeń wierzytelności.
+3. Skargę na zwrot zgłoszenia wierzytelności oraz wezwanie do złożenia dokumentów w trybie art. 243 ust. 2 ustawy załącza się do zakładki zgłoszenia wierzytelności, prowadzonej w systemie teleinformatycznym, którego skarga albo wezwanie dotyczy.
+4. Zgłoszenia wierzytelności oraz wszelkie pisma i dokumenty, które dotyczą danego zgłoszenia wierzytelności, są zamieszczane w aktach do zgłoszeń wierzytelności w zakładce prowadzonej dla danego zgłoszenia wierzytelności.
+5. Uzupełniające zgłoszenie wierzytelności złożone przez wierzyciela po złożeniu listy wierzytelności jest zamieszczane w zakładce do zgłoszenia wierzytelności, którego takie uzupełniające zgłoszenie dotyczy.
 § 6. 1. Akta do zgłoszeń wierzytelności udostępnia się uczestnikom postępowania za pośrednictwem ogólnodostępnych sieci teleinformatycznych.
-2. Syndyk udostępnia akta do zgłoszeń wierzytelności biurze za pośrednictwem systemu teleinformatycznego osobom, których mowa ust. 1, po potwierdzeniu przez nie swojej tożsamości, a innym osobom również po dostatecznym usprawiedliwieniu potrzeby zapoznania się z tymi aktami, chyba że przepisy ustawy stanowią inaczej.
-3. Udostępnienie akt do zgłoszeń wierzytelności prowadzonych systemie teleinformatycznym służbie nadzoru Ministra Sprawiedliwości następuje przez zgłoszenie przez tę służbę żądania wglądu do tych akt systemie teleinformatycznym.
+2. Syndyk udostępnia akta do zgłoszeń wierzytelności w biurze za pośrednictwem systemu teleinformatycznego osobom, o których mowa w ust. 1, po potwierdzeniu przez nie swojej tożsamości, a innym osobom również po dostatecznym usprawiedliwieniu potrzeby zapoznania się z tymi aktami, chyba że przepisy ustawy stanowią inaczej.
+3. Udostępnienie akt do zgłoszeń wierzytelności prowadzonych w systemie teleinformatycznym służbie nadzoru Ministra Sprawiedliwości następuje przez zgłoszenie przez tę służbę żądania wglądu do tych akt w systemie teleinformatycznym.
+§ 7. 1. Zakłada się zbiór dokumentów dla zgłoszeń wierzytelności dokonanych z pominięciem systemu teleinformatycznego.
 2. Syndyk zakłada zbiór dokumentów niezwłocznie po otrzymaniu pierwszego zgłoszenia wierzytelności dokonanego z pominięciem systemu teleinformatycznego.
-3. Zbiór dokumentów umieszcza się oddzielnej okładce oznaczonej sygnaturą akt do zgłoszeń wierzytelności prowadzonych systemie teleinformatycznym dla sprawy upadłościowej, dla której ten zbiór jest zakładany.
-4. Zbiór dokumentów rozpoczyna się od karty przeglądowej, której są zamieszczane następujące dane:
+3. Zbiór dokumentów umieszcza się w oddzielnej okładce oznaczonej sygnaturą akt do zgłoszeń wierzytelności prowadzonych w systemie teleinformatycznym dla sprawy upadłościowej, dla której ten zbiór jest zakładany.
+4. Zbiór dokumentów rozpoczyna się od karty przeglądowej, na której są zamieszczane następujące dane:
 1) sygnatura akt do zgłoszeń wierzytelności;
-2) imię nazwisko upadłego albo jego nazwa;
-3) numer PESEL albo numer Krajowym Rejestrze Sądowym, a przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację, szczególności numer paszportu oznaczenie państwa wystawiającego paszport albo numer karty pobytu Rzeczypospolitej Polskiej, albo numer zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także numer identyfikacji podatkowej (NIP) upadłego, jeżeli upadły ma taki numer;
-4) adres korespondencyjny, numer telefonu, adres e-mail upadłego pełnomocnika upadłego, ile pełnomocnik został ustanowiony;
+2) imię i nazwisko upadłego albo jego nazwa;
+3) numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację, w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo numer w zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także numer identyfikacji podatkowej (NIP) upadłego, jeżeli upadły ma taki numer;
+4) adres korespondencyjny, numer telefonu, adres e-mail upadłego i pełnomocnika upadłego, o ile pełnomocnik został ustanowiony;
 5) data ogłoszenia upadłości;
-6) data obwieszczenia ogłoszeniu upadłości;
+6) data obwieszczenia o ogłoszeniu upadłości;
 7) oznaczenie sądu, który prowadzi postępowanie upadłościowe;
-oznaczenie wierzyciela: imię, nazwisko albo nazwę, adres, numer PESEL albo numer Krajowym Rejestrze Sądowym, a przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację, szczególności numer paszportu oznaczenie państwa wystawiającego paszport albo numer karty pobytu Rzeczypospolitej Polskiej, albo numer zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP, data wpływu numer karty, której zamieszczono zgłoszenie wierzytelności, lub pismo wraz z załącznikami oraz uwagi.
-5. Kartę przeglądową, której mowa ust. 4, umieszcza się początku każdego tomu zbioru dokumentów.
-6. W przypadku danych zawartych karcie przeglądowej, której mowa ust. 4, są one aktualizowane bieżąco.
-§ 8. 1. Do zbioru dokumentów załącza się pisma, oświadczenia lub dokumenty papierowe otrzymane przez syndyka toku postępowania związanego z rozpoznaniem zgłoszenia wierzytelności, pisma papierowe wysłane przez syndyka toku postępowania wraz z potwierdzeniem ich odbioru przez adresata oraz dokumenty utworzone przez syndyka toku postępowania według daty ich wpływu lub utworzenia przez syndyka.
-2. Jeżeli wierzyciel, którym mowa art. 216aa ust. 1 ustawy, dokonuje zgłoszenia wierzytelności z pominięciem systemu teleinformatycznego, syndyk wprowadza treść takiego zgłoszenia do akt do zgłoszeń wierzytelności, prowadzonych systemie teleinformatycznym, z wykorzystaniem formularzy elektronicznych udostępnionych systemie teleinformatycznym. Wydrukowana opatrzona podpisem przez osobę przekazującą ustnie treść wniosku lub oświadczenia podlega złożeniu do zbioru dokumentów.
-3. Przepis ust. 2 stosuje się odpowiednio do wszystkich innych dokumentów, oświadczeń pism dotyczących danego zgłoszenia wierzytelności, składanych przez wierzyciela, którym mowa art. 216aa ust. 1 ustawy, z pominięciem systemu teleinformatycznego, tym uzupełnień cofnięć zgłoszenia wierzytelności, jak również wszelkich środków zaskarżenia pism procesowych dotyczących danego zgłoszenia wierzytelności.
-4. Koperty, których nadesłano zgłoszenia wierzytelności, załącza się do zbioru dokumentów.
-5. Koperty, których nadesłano inne pisma dotyczące zgłoszenia wierzytelności, załącza się do zbioru dokumentów tylko wówczas, gdy data stempla pocztowego stanowi podstawę ustalenia terminu, z którego upływem wiążą się określone skutki procesowe.
-6. Cyfrowe odwzorowanie koperty załącza się do akt do zgłoszeń wierzytelności prowadzonych systemie teleinformatycznym.
-7. Po przyjęciu przez syndyka lub osobę przez niego upoważnioną zgłoszenia wierzytelności postaci papierowej zgłoszeniu zamieszcza się adnotację dacie jego przyjęcia oraz umieszcza się je zbiorze dokumentów.
-8. Jeżeli pismo zostało złożone syndykowi lub osobie przez niego upoważnionej do rąk własnych, piśmie umieszcza się adnotację dacie jego złożenia.
-§ 9. 1. Zbiór dokumentów prowadzonych postaci papierowej łączy się sposób zapewniający jego trwałość, kompletność integralność. Poszczególne karty są numerowane bieżąco.
-2. O zmianie numeracji kart czyni się wzmiankę podaje się przyczynę zmiany. Wzmiankę zamieszcza się karcie, której zmieniono numerację, a gdy zmiana dotyczy numeracji kilku kolejnych kart pierwszej z nich.
-3. Zbiór dokumentów, którego zawartość nie przekracza 200 kart, stanowi jeden tom. Na ostatniej stronie poświadcza się liczbę kart zawartych tomie.
-4. Po przekroczeniu 200 kart zbiorze dokumentów zakłada się następny tom zbioru dokumentów określonej sprawie, zachowując ciągłość numeracji kart. Na okładkach oznacza się cyfrą rzymską kolejne numery poszczególnych tomów.
-5. Jeżeli zbiór dokumentów składa się z większej liczby tomów niż jeden tom, okładce pierwszego tomu pod sygnaturą zamieszcza się informację łącznej liczbie tomów zbiorze dokumentów.
-6. Po zakończeniu postępowania wewnętrznej stronie tytułowej okładki zbioru dokumentów wpisuje się liczbę kart zawartych zbiorze dokumentów.
-§ 10. 1. Syndyk przechowuje zbiór dokumentów biurze, do którego dostęp mają ten syndyk oraz osoby przez niego upoważnione. Syndyk informuje sąd miejscu przechowywania zbioru dokumentów.
-2. Syndyk udostępnia zbiór dokumentów służbie nadzoru Ministra Sprawiedliwości jej wezwanie.
-miejscu przechowywania oryginałów dokumentów.
-3. Uwierzytelnienie dokumentu polega sporządzeniu kopii dokumentu potwierdzeniu zgodności tej kopii z oryginałem przez syndyka albo osobę przez niego upoważnioną, opatrzeniu datą uwierzytelnienia kopii dokumentu, wpisaniu numeru licencji syndyka oraz czytelnie imienia nazwiska osoby dokonującej uwierzytelnienia.
-§ 12. Odpisy dokumentów ze zbioru dokumentów są odręcznie podpisane przez syndyka albo osobę przez niego upoważnioną zawierają:
+8) imię i nazwisko syndyka oraz informację, czy syndyk posiada tytuł kwalifikowanego doradcy restrukturyzacyjnego, numer licencji doradcy restrukturyzacyjnego, a w przypadku spółek handlowych pełniących funkcję syndyka – nazwa spółki oraz jej numer w Krajowym Rejestrze Sądowym;
+9) adres korespondencyjny, adres e-mail oraz numer telefonu syndyka;
+10) spis pism oraz zgłoszeń wierzytelności wpływających do zbioru dokumentów w toku postępowania, zawierający oznaczenie wierzyciela: imię, nazwisko albo nazwę, adres, numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację, w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo numer w zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP, data wpływu i numer karty, na której zamieszczono zgłoszenie wierzytelności, lub pismo wraz z załącznikami oraz uwagi.
+5. Kartę przeglądową, o której mowa w ust. 4, umieszcza się na początku każdego tomu zbioru dokumentów.
+6. W przypadku danych zawartych na karcie przeglądowej, o której mowa w ust. 4, są one aktualizowane na bieżąco.
+§ 8. 1. Do zbioru dokumentów załącza się pisma, oświadczenia lub dokumenty papierowe otrzymane przez syndyka w toku postępowania związanego z rozpoznaniem zgłoszenia wierzytelności, pisma papierowe wysłane przez syndyka w toku postępowania wraz z potwierdzeniem ich odbioru przez adresata oraz dokumenty utworzone przez syndyka w toku postępowania według daty ich wpływu lub utworzenia przez syndyka.
+2. Jeżeli wierzyciel, o którym mowa w art. 216aa ust. 1 ustawy, dokonuje zgłoszenia wierzytelności z pominięciem systemu teleinformatycznego, syndyk wprowadza treść takiego zgłoszenia do akt do zgłoszeń wierzytelności, prowadzonych w systemie teleinformatycznym, z wykorzystaniem formularzy elektronicznych udostępnionych w systemie teleinformatycznym. Wydrukowana i opatrzona podpisem przez osobę przekazującą ustnie treść wniosku lub oświadczenia podlega złożeniu do zbioru dokumentów.
+3. Przepis ust. 2 stosuje się odpowiednio do wszystkich innych dokumentów, oświadczeń i pism dotyczących danego zgłoszenia wierzytelności, składanych przez wierzyciela, o którym mowa w art. 216aa ust. 1 ustawy, z pominięciem systemu teleinformatycznego, w tym uzupełnień i cofnięć zgłoszenia wierzytelności, jak również wszelkich środków zaskarżenia i pism procesowych dotyczących danego zgłoszenia wierzytelności.
+4. Koperty, w których nadesłano zgłoszenia wierzytelności, załącza się do zbioru dokumentów.
+5. Koperty, w których nadesłano inne pisma dotyczące zgłoszenia wierzytelności, załącza się do zbioru dokumentów tylko wówczas, gdy data stempla pocztowego stanowi podstawę ustalenia terminu, z którego upływem wiążą się określone skutki procesowe.
+6. Cyfrowe odwzorowanie koperty załącza się do akt do zgłoszeń wierzytelności prowadzonych w systemie teleinformatycznym.
+7. Po przyjęciu przez syndyka lub osobę przez niego upoważnioną zgłoszenia wierzytelności w postaci papierowej na zgłoszeniu zamieszcza się adnotację o dacie jego przyjęcia oraz umieszcza się je w zbiorze dokumentów.
+8. Jeżeli pismo zostało złożone syndykowi lub osobie przez niego upoważnionej do rąk własnych, na piśmie umieszcza się adnotację o dacie jego złożenia.
+§ 9. 1. Zbiór dokumentów prowadzonych w postaci papierowej łączy się w sposób zapewniający jego trwałość, kompletność i integralność. Poszczególne karty są numerowane na bieżąco.
+2. O zmianie numeracji kart czyni się wzmiankę i podaje się przyczynę zmiany. Wzmiankę zamieszcza się na karcie, na której zmieniono numerację, a gdy zmiana dotyczy numeracji kilku kolejnych kart – na pierwszej z nich.
+3. Zbiór dokumentów, którego zawartość nie przekracza 200 kart, stanowi jeden tom. Na ostatniej stronie poświadcza się liczbę kart zawartych w tomie.
+4. Po przekroczeniu 200 kart w zbiorze dokumentów zakłada się następny tom zbioru dokumentów w określonej sprawie, zachowując ciągłość numeracji kart. Na okładkach oznacza się cyfrą rzymską kolejne numery poszczególnych tomów.
+5. Jeżeli zbiór dokumentów składa się z większej liczby tomów niż jeden tom, na okładce pierwszego tomu pod sygnaturą zamieszcza się informację o łącznej liczbie tomów w zbiorze dokumentów.
+6. Po zakończeniu postępowania na wewnętrznej stronie tytułowej okładki zbioru dokumentów wpisuje się liczbę kart zawartych w zbiorze dokumentów.
+§ 10. 1. Syndyk przechowuje zbiór dokumentów w biurze, do którego dostęp mają ten syndyk oraz osoby przez niego upoważnione. Syndyk informuje sąd o miejscu przechowywania zbioru dokumentów.
+2. Syndyk udostępnia zbiór dokumentów służbie nadzoru Ministra Sprawiedliwości na jej wezwanie.
+§ 11. 1. Syndyk przechowuje weksle i czeki przedkładane wraz ze zgłoszeniem wierzytelności dokonanym w trybie art. 216aa ust. 1 ustawy lub na wezwanie syndyka w trybie art. 243 ust. 2 ustawy w biurze ze szczególną starannością, w miejscu mającym odpowiednie zabezpieczenia techniczne, które uniemożliwiają zniszczenie tych weksli i czeków lub ich usunięcie przez osoby do tego nieuprawnione.
+2. Do zbioru dokumentów załącza się uwierzytelnione kopie dokumentów, o których mowa w ust. 1, z adnotacją o miejscu przechowywania oryginałów dokumentów.
+3. Uwierzytelnienie dokumentu polega na sporządzeniu kopii dokumentu i potwierdzeniu zgodności tej kopii z oryginałem przez syndyka albo osobę przez niego upoważnioną, opatrzeniu datą uwierzytelnienia kopii dokumentu, wpisaniu numeru licencji syndyka oraz czytelnie imienia i nazwiska osoby dokonującej uwierzytelnienia.
+§ 12. Odpisy dokumentów ze zbioru dokumentów są odręcznie podpisane przez syndyka albo osobę przez niego upoważnioną i zawierają:
 1) adnotację „odpis”;
-2) sporządzenia odpisu;
+2) datę sporządzenia odpisu;
 3) numer licencji syndyka oraz
-4) czytelne imię nazwisko osoby podpisującej odpis.
+4) czytelne imię i nazwisko osoby podpisującej odpis.
+§ 13. W repertorium „GUp-s-Zw” odnotowuje się:
 1) numer porządkowy akt do zgłoszeń wierzytelności;
-2) założenia akt do zgłoszeń wierzytelności;
-3) imię nazwisko upadłego albo jego nazwę;
-4) numer PESEL, a przypadku jego braku inne dane umożliwiające jednoznaczną identyfikację, szczególności numer paszportu oznaczenie państwa wystawiającego paszport albo numer karty pobytu Rzeczypospolitej Polskiej, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP upadłego, jeżeli upadły ma taki numer;
-5) imię nazwisko syndyka oraz informację, czy syndyk posiada tytuł kwalifikowanego doradcy restrukturyzacyjnego, numer licencji doradcy restrukturyzacyjnego, a przypadku spółek handlowych pełniących funkcję syndyka nazwę spółki oraz jej numer Krajowym Rejestrze Sądowym;
-6) postanowienia ogłoszeniu upadłości;
+2) datę założenia akt do zgłoszeń wierzytelności;
+3) imię i nazwisko upadłego albo jego nazwę;
+4) numer PESEL, a w przypadku jego braku – inne dane umożliwiające jednoznaczną identyfikację, w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP upadłego, jeżeli upadły ma taki numer;
+5) imię i nazwisko syndyka oraz informację, czy syndyk posiada tytuł kwalifikowanego doradcy restrukturyzacyjnego, numer licencji doradcy restrukturyzacyjnego, a w przypadku spółek handlowych pełniących funkcję syndyka – nazwę spółki oraz jej numer w Krajowym Rejestrze Sądowym;
+6) datę postanowienia o ogłoszeniu upadłości;
 7) oznaczenie sądu, który ogłosił upadłość;
-8) obwieszczenia ogłoszeniu upadłości;
-9) sygnaturę akt „GU” postępowania, którym ogłoszono upadłość;
-10) prawomocności postanowienia ogłoszeniu upadłości;
-11) zgłoszenia wierzytelności wpływające toku postępowania, zawierające oznaczenie wierzyciela: imię, nazwisko albo nazwę, adres, numer PESEL albo numer Krajowym Rejestrze Sądowym, a przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację, szczególności numer paszportu oznaczenie państwa wystawiającego paszport albo numer karty pobytu Rzeczypospolitej Polskiej, albo numer zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP, wpływu, numer porządkowy zgłoszenia oraz uwagi;
-12) wydania doręczenia wezwania syndyka, którym mowa art. 243 ust. 2 ustawy;
-13) wydania doręczenia zarządzenia wzywającego do uzupełnienia braków;
-14) wydania doręczenia zarządzenia zwrocie zgłoszenia wierzytelności;
-15) wpływu skargi zarządzenie zwrocie zgłoszenia wierzytelności;
-16) przekazania skargi sędziemu wyznaczonemu;
-17) postanowienia przedmiocie rozpoznania skargi zwrot zgłoszenia wierzytelności;
-21) sygnaturę postanowienia sądu zakończeniu postępowania oraz prawomocności tego postanowienia;
-22) sygnaturę postanowienia sądu stopień umorzenia zobowiązań upadłego oraz prawomocności tego postanowienia;
-23) sygnaturę postanowienia ustaleniu planu spłaty wierzycieli lub umorzeniu zobowiązań bez ustalenia planu spłaty oraz prawomocności tego postanowienia;
-24) sygnaturę postanowienia warunkowym umorzeniu zobowiązań bez ustalenia planu spłaty oraz prawomocności tego postanowienia;
-25) sygnaturę postanowienia odmowie ustalenia planu spłaty oraz prawomocności tego postanowienia;
-26) wpływu pozostawienia bez rozpoznania zgłoszenia wierzytelności dokonanego po złożeniu przez syndyka projektu planu spłaty wierzycieli wraz z uzasadnieniem albo informacji, że zachodzą przesłanki, których mowa art. 491 ust. 1 lub art. 491 ust. 1 lub 2a ustawy.
+8) datę obwieszczenia o ogłoszeniu upadłości;
+9) sygnaturę akt „GU” postępowania, w którym ogłoszono upadłość;
+10) datę prawomocności postanowienia o ogłoszeniu upadłości;
+11) zgłoszenia wierzytelności wpływające w toku postępowania, zawierające oznaczenie wierzyciela: imię, nazwisko albo nazwę, adres, numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację, w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo numer w zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP, datę wpływu, numer porządkowy zgłoszenia oraz uwagi;
+12) datę wydania i doręczenia wezwania syndyka, o którym mowa w art. 243 ust. 2 ustawy;
+13) datę wydania i doręczenia zarządzenia wzywającego do uzupełnienia braków;
+14) datę wydania i doręczenia zarządzenia o zwrocie zgłoszenia wierzytelności;
+15) datę wpływu skargi na zarządzenie o zwrocie zgłoszenia wierzytelności;
+16) datę przekazania skargi sędziemu wyznaczonemu;
+17) datę postanowienia w przedmiocie rozpoznania skargi na zwrot zgłoszenia wierzytelności;
+18) datę postanowienia o zmianie sposobu prowadzenia postępowania, o którym mowa w art. 491 ust. 2 ustawy;
+19) datę i sygnaturę postanowienia sądu o uchyleniu postanowienia o ogłoszeniu upadłości oraz datę prawomocności tego postanowienia;
+20) datę i sygnaturę postanowienia sądu o umorzeniu postępowania oraz datę prawomocności tego postanowienia;
+21) datę i sygnaturę postanowienia sądu o zakończeniu postępowania oraz datę prawomocności tego postanowienia;
+22) datę i sygnaturę postanowienia sądu i stopień umorzenia zobowiązań upadłego oraz datę prawomocności tego postanowienia;
+23) datę i sygnaturę postanowienia o ustaleniu planu spłaty wierzycieli lub o umorzeniu zobowiązań bez ustalenia planu spłaty oraz datę prawomocności tego postanowienia;
+24) datę i sygnaturę postanowienia o warunkowym umorzeniu zobowiązań bez ustalenia planu spłaty oraz datę prawomocności tego postanowienia;
+25) datę i sygnaturę postanowienia o odmowie ustalenia planu spłaty oraz datę prawomocności tego postanowienia;
+26) datę wpływu i datę pozostawienia bez rozpoznania zgłoszenia wierzytelności dokonanego po złożeniu przez syndyka projektu planu spłaty wierzycieli wraz z uzasadnieniem albo informacji, że zachodzą przesłanki, o których mowa w art. 491 ust. 1 lub art. 491 ust. 1 lub 2a ustawy.
 § 14. W repertorium „GUp-s-Zw” zakreśla się numer porządkowy sprawy jako zakończonej, gdy sąd wydał prawomocne postanowienie o:
 1) umorzeniu postępowania;
 2) stwierdzeniu zakończenia postępowania;
@@ -111,72 +122,78 @@ miejscu przechowywania oryginałów dokumentów.
 6) uchyleniu postępowania upadłościowego.
 § 15. W repertorium „GUp„sk”-Zw” odnotowuje się:
 1) numer porządkowy akt do zgłoszeń wierzytelności;
-2) założenia akt do zgłoszeń wierzytelności;
-3) imię nazwisko upadłego albo jego nazwę;
-4) numer PESEL, a przypadku jego braku inne dane umożliwiające jednoznaczną identyfikację, szczególności numer paszportu oznaczenie państwa wystawiającego paszport albo numer karty pobytu Rzeczypospolitej Polskiej, albo numer zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP upadłego, jeżeli upadły ma taki numer;
-5) imię nazwisko syndyka oraz informację, czy syndyk posiada tytuł kwalifikowanego doradcy restrukturyzacyjnego, numer licencji doradcy restrukturyzacyjnego, a przypadku spółek handlowych pełniących funkcję syndyka nazwę spółki oraz jej numer Krajowym Rejestrze Sądowym;
-6) postanowienia ogłoszeniu upadłości;
+2) datę założenia akt do zgłoszeń wierzytelności;
+3) imię i nazwisko upadłego albo jego nazwę;
+4) numer PESEL, a w przypadku jego braku – inne dane umożliwiające jednoznaczną identyfikację, w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo numer w zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP upadłego, jeżeli upadły ma taki numer;
+5) imię i nazwisko syndyka oraz informację, czy syndyk posiada tytuł kwalifikowanego doradcy restrukturyzacyjnego, numer licencji doradcy restrukturyzacyjnego, a w przypadku spółek handlowych pełniących funkcję syndyka – nazwę spółki oraz jej numer w Krajowym Rejestrze Sądowym;
+6) datę postanowienia o ogłoszeniu upadłości;
 7) oznaczenie sądu, który ogłosił upadłość;
-8) obwieszczenia ogłoszeniu upadłości;
-9) sygnaturę akt „GU” postępowania, którym ogłoszono upadłość;
-10) prawomocności postanowienia ogłoszeniu upadłości;
-11) zgłoszenia wierzytelności wpływające toku postępowania, zawierające oznaczenie wierzyciela: imię, nazwisko albo nazwę, adres, numer PESEL albo numer Krajowym Rejestrze Sądowym, a przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację, szczególności numer paszportu oznaczenie państwa wystawiającego paszport albo numer karty pobytu Rzeczypospolitej Polskiej, albo numer zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP, wpływu, numer porządkowy zgłoszenia oraz uwagi;
-16) przekazania skargi sędziemu-komisarzowi;
-17) obwieszczenia przekazaniu listy wierzytelności sędziemu-komisarzowi;
-18) postanowienia zatwierdzeniu listy wierzytelności;
-19) postanowienia przedmiocie rozpoznania skargi zwrot zgłoszenia wierzytelności;
-20) postanowienia zmianie sposobu prowadzenia postępowania, którym mowa art. 491 ust. 2 ustawy;
-21) sygnaturę postanowienia sądu uchyleniu postanowienia ogłoszeniu upadłości oraz prawomocności tego postanowienia;
-22) sygnaturę postanowienia sądu umorzeniu postępowania oraz prawomocności tego postanowienia;
-23) sygnaturę postanowienia sądu zakończeniu postępowania oraz prawomocności tego postanowienia;
-24) sygnaturę postanowienia sądu stopień umorzenia zobowiązań upadłego oraz prawomocności tego postanowienia;
-25) sygnaturę postanowienia ustaleniu planu spłaty wierzycieli lub umorzeniu zobowiązań bez ustalenia planu spłaty oraz prawomocności tego postanowienia;
-26) sygnaturę postanowienia warunkowym umorzeniu zobowiązań bez ustalenia planu spłaty oraz prawomocności tego postanowienia;
-27) sygnaturę postanowienia odmowie ustalenia planu spłaty oraz prawomocności tego postanowienia.
+8) datę obwieszczenia o ogłoszeniu upadłości;
+9) sygnaturę akt „GU” postępowania, w którym ogłoszono upadłość;
+10) datę prawomocności postanowienia o ogłoszeniu upadłości;
+11) zgłoszenia wierzytelności wpływające w toku postępowania, zawierające oznaczenie wierzyciela: imię, nazwisko albo nazwę, adres, numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację, w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo numer w zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP, datę wpływu, numer porządkowy zgłoszenia oraz uwagi;
+12) datę wydania i doręczenia wezwania syndyka, o którym mowa w art. 243 ust. 2 ustawy;
+13) datę wydania i doręczenia zarządzenia wzywającego do uzupełnienia braków;
+14) datę wydania i doręczenia zarządzenia o zwrocie zgłoszenia wierzytelności;
+15) datę wpływu skargi na zarządzenie o zwrocie zgłoszenia wierzytelności;
+16) datę przekazania skargi sędziemu-komisarzowi;
+17) datę obwieszczenia o przekazaniu listy wierzytelności sędziemu-komisarzowi;
+18) datę postanowienia o zatwierdzeniu listy wierzytelności;
+19) datę postanowienia w przedmiocie rozpoznania skargi na zwrot zgłoszenia wierzytelności;
+20) datę postanowienia o zmianie sposobu prowadzenia postępowania, o którym mowa w art. 491 ust. 2 ustawy;
+21) datę i sygnaturę postanowienia sądu o uchyleniu postanowienia o ogłoszeniu upadłości oraz datę prawomocności tego postanowienia;
+22) datę i sygnaturę postanowienia sądu o umorzeniu postępowania oraz datę prawomocności tego postanowienia;
+23) datę i sygnaturę postanowienia sądu o zakończeniu postępowania oraz datę prawomocności tego postanowienia;
+24) datę i sygnaturę postanowienia sądu i stopień umorzenia zobowiązań upadłego oraz datę prawomocności tego postanowienia;
+25) datę i sygnaturę postanowienia o ustaleniu planu spłaty wierzycieli lub o umorzeniu zobowiązań bez ustalenia planu spłaty oraz datę prawomocności tego postanowienia;
+26) datę i sygnaturę postanowienia o warunkowym umorzeniu zobowiązań bez ustalenia planu spłaty oraz datę prawomocności tego postanowienia;
+27) datę i sygnaturę postanowienia o odmowie ustalenia planu spłaty oraz datę prawomocności tego postanowienia.
 § 16. W repertorium „GUp„sk”-Zw” zakreśla się numer porządkowy sprawy jako zakończonej, gdy sąd wydał prawomocne postanowienie o:
 1) umorzeniu postępowania;
 2) stwierdzeniu zakończenia postępowania;
 3) uchyleniu postępowania upadłościowego.
 § 17. W Repertorium „GUp-Zw” odnotowuje się:
 1) numer porządkowy akt do zgłoszeń wierzytelności;
-2) założenia akt do zgłoszeń wierzytelności;
-3) imię nazwisko upadłego albo jego nazwę;
-4) numer PESEL albo numer Krajowym Rejestrze Sądowym, a przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację, szczególności numer paszportu oznaczenie państwa wystawiającego paszport albo numer karty pobytu Rzeczypospolitej Polskiej, albo numer zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP upadłego, jeżeli upadły ma taki numer;
-5) imię nazwisko syndyka oraz informację, czy syndyk posiada tytuł kwalifikowanego doradcy restrukturyzacyjnego, numer licencji doradcy restrukturyzacyjnego, a przypadku spółek handlowych pełniących funkcję syndyka nazwę spółki oraz jej numer Krajowym Rejestrze Sądowym;
-6) postanowienia ogłoszeniu upadłości;
+2) datę założenia akt do zgłoszeń wierzytelności;
+3) imię i nazwisko upadłego albo jego nazwę;
+4) numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację, w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo numer w zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP upadłego, jeżeli upadły ma taki numer;
+5) imię i nazwisko syndyka oraz informację, czy syndyk posiada tytuł kwalifikowanego doradcy restrukturyzacyjnego, numer licencji doradcy restrukturyzacyjnego, a w przypadku spółek handlowych pełniących funkcję syndyka – nazwę spółki oraz jej numer w Krajowym Rejestrze Sądowym;
+6) datę postanowienia o ogłoszeniu upadłości;
 7) oznaczenie sądu, który ogłosił upadłość;
-8) obwieszczenia ogłoszeniu upadłości;
-9) sygnaturę akt „GU” postępowania, którym ogłoszono upadłość;
-10) prawomocności postanowienia ogłoszeniu upadłości;
-11) zgłoszenia wierzytelności wpływające toku postępowania, zawierające oznaczenie wierzyciela: imię, nazwisko albo nazwę, adres, numer PESEL albo numer Krajowym Rejestrze Sądowym, a przypadku ich braku inne dane
-13) wydania doręczenia zarządzenia wzywającego do uzupełnienia braków;
-14) wydania doręczenia zarządzenia zwrocie zgłoszenia wierzytelności;
-15) wpływu skargi zarządzenie zwrocie zgłoszenia wierzytelności;
-16) przekazania skargi sędziemu-komisarzowi;
-17) obwieszczenia przekazaniu listy wierzytelności sędziemu-komisarzowi;
-18) postanowienia zatwierdzeniu listy wierzytelności;
-19) postanowienia przedmiocie rozpoznania skargi zwrot zgłoszenia wierzytelności;
-20) postanowienia zmianie sposobu prowadzenia postępowania, którym mowa art. 491 ust. 2 ustawy;
-21) sygnaturę postanowienia sądu uchyleniu postanowienia ogłoszeniu upadłości oraz prawomocności tego postanowienia;
-22) sygnaturę postanowienia sądu umorzeniu postępowania oraz prawomocności tego postanowienia;
-23) sygnaturę postanowienia sądu zakończeniu postępowania oraz prawomocności tego postanowienia;
-24) sygnaturę postanowienia sądu stopień umorzenia zobowiązań upadłego oraz prawomocności tego postanowienia;
-25) sygnaturę postanowienia ustaleniu planu spłaty wierzycieli lub umorzeniu zobowiązań bez ustalenia planu spłaty oraz prawomocności tego postanowienia;
-26) sygnaturę postanowienia warunkowym umorzeniu zobowiązań bez ustalenia planu spłaty oraz prawomocności tego postanowienia;
-27) sygnaturę postanowienia odmowie ustalenia planu spłaty oraz prawomocności tego postanowienia.
+8) datę obwieszczenia o ogłoszeniu upadłości;
+9) sygnaturę akt „GU” postępowania, w którym ogłoszono upadłość;
+10) datę prawomocności postanowienia o ogłoszeniu upadłości;
+11) zgłoszenia wierzytelności wpływające w toku postępowania, zawierające oznaczenie wierzyciela: imię, nazwisko albo nazwę, adres, numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację, w szczególności numer paszportu i oznaczenie państwa wystawiającego paszport albo numer karty pobytu w Rzeczypospolitej Polskiej, albo numer w zagranicznym rejestrze, albo zagraniczny numer identyfikacji lub identyfikacji podatkowej, a także NIP, datę wpływu, numer porządkowy zgłoszenia oraz uwagi;
+12) datę wydania i doręczenia wezwania syndyka, o którym mowa w art. 243 ust. 2 ustawy;
+13) datę wydania i doręczenia zarządzenia wzywającego do uzupełnienia braków;
+14) datę wydania i doręczenia zarządzenia o zwrocie zgłoszenia wierzytelności;
+15) datę wpływu skargi na zarządzenie o zwrocie zgłoszenia wierzytelności;
+16) datę przekazania skargi sędziemu-komisarzowi;
+17) datę obwieszczenia o przekazaniu listy wierzytelności sędziemu-komisarzowi;
+18) datę postanowienia o zatwierdzeniu listy wierzytelności;
+19) datę postanowienia w przedmiocie rozpoznania skargi na zwrot zgłoszenia wierzytelności;
+20) datę postanowienia o zmianie sposobu prowadzenia postępowania, o którym mowa w art. 491 ust. 2 ustawy;
+21) datę i sygnaturę postanowienia sądu o uchyleniu postanowienia o ogłoszeniu upadłości oraz datę prawomocności tego postanowienia;
+22) datę i sygnaturę postanowienia sądu o umorzeniu postępowania oraz datę prawomocności tego postanowienia;
+23) datę i sygnaturę postanowienia sądu o zakończeniu postępowania oraz datę prawomocności tego postanowienia;
+24) datę i sygnaturę postanowienia sądu i stopień umorzenia zobowiązań upadłego oraz datę prawomocności tego postanowienia;
+25) datę i sygnaturę postanowienia o ustaleniu planu spłaty wierzycieli lub o umorzeniu zobowiązań bez ustalenia planu spłaty oraz datę prawomocności tego postanowienia;
+26) datę i sygnaturę postanowienia o warunkowym umorzeniu zobowiązań bez ustalenia planu spłaty oraz datę prawomocności tego postanowienia;
+27) datę i sygnaturę postanowienia o odmowie ustalenia planu spłaty oraz datę prawomocności tego postanowienia.
 § 18. W repertorium „GUp-Zw” zakreśla się numer porządkowy sprawy jako zakończonej, gdy sąd wydał prawomocne postanowienie o:
 1) umorzeniu postępowania;
 2) stwierdzeniu zakończenia postępowania;
 3) uchyleniu postępowania upadłościowego.
+§ 19. Rozporządzenie wchodzi w życie z dniem 1 grudnia 2021 r.
 Minister Sprawiedliwości: Z. Ziobro
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa sposób tryb prowadzenia przez syndyka akt, których mowa art. 228a ust. 1 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe, zwanej dalej „ustawąˮ, oraz zbioru dokumentów, którym mowa art. 228a ust. 2 ustawy, tym stosowane urządzenia ewidencyjne, a także udostępniania tych akt oraz zbioru dokumentów.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Akta do zgłoszeń wierzytelności § 4. 1. Akta do zgłoszeń wierzytelności są zakładane systemie teleinformatycznym z chwilą odnotowania repertorium sądowym „GU” postanowienia ogłoszeniu upadłości.
+#### Rozdział 2 Akta do zgłoszeń wierzytelności
 
-#### Rozdział 3 Zbiór dokumentów § 7. 1. Zakłada się zbiór dokumentów dla zgłoszeń wierzytelności dokonanych z pominięciem systemu teleinformatycznego.
+#### Rozdział 3 Zbiór dokumentów
 
-#### Rozdział 4 Repertoria dla akt do zgłoszeń wierzytelności § 13. W repertorium „GUp-s-Zw” odnotowuje się:
+#### Rozdział 4 Repertoria dla akt do zgłoszeń wierzytelności
 
-#### Rozdział 5 Przepis końcowy § 19. Rozporządzenie wchodzi życie z dniem 1 grudnia 2021 r.
+#### Rozdział 5 Przepis końcowy
 

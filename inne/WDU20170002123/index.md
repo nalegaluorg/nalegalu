@@ -8,10 +8,10 @@ pos: 2123
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 listopada 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2123 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 7 listopada 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2123/text.pdf) |
 
-Poz. 2123 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 7 listopada 2017 r.
-w sprawie wskazania podmiotu pełniącego funkcję jednostki certyfikującej przedsiębiorców oraz jednostki certyfikującej personel Na podstawie art. 31 ust. 1 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2017 r. poz. 1951) zarządza się, co następuje: § 1. Wskazuje się Urząd Dozoru Technicznego jako podmiot pełniący funkcję jednostki certyfikującej przedsiębiorców oraz podmiot pełniący funkcję jednostki certyfikującej personel.
+w sprawie wskazania podmiotu pełniącego funkcję jednostki certyfikującej przedsiębiorców oraz jednostki certyfikującej personel Na podstawie art. 31 ust. 1 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2017 r. poz. 1951) zarządza się, co następuje:
+§ 1. Wskazuje się Urząd Dozoru Technicznego jako podmiot pełniący funkcję jednostki certyfikującej przedsiębiorców oraz podmiot pełniący funkcję jednostki certyfikującej personel.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Rozwoju i Finansów: wz. J. Kwieciński Minister Rozwoju i Finansów kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 Niniejsze rozporządzenie służy stosowaniu:

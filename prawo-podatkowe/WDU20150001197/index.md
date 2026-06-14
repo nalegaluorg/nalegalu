@@ -8,7 +8,7 @@ pos: 1197
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw

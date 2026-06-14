@@ -8,10 +8,10 @@ pos: 806
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 kwietnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 806 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 8 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/806/text.pdf) |
 
-Poz. 806 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 8 kwietnia 2022 r.
 w sprawie przesyłania informacji dotyczących spółek nieruchomościowych w zakresie podatku dochodowego od osób prawnych Na podstawie art. 27 ust. 4b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U.
-z 2021 r. poz. 1800, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej informacji, o których mowa w art. 27 ust. 1e ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, zwanych dalej „informacjami dotyczącymi spółek nieruchomościowych”.
+z 2021 r. poz. 1800, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej informacji, o których mowa w art. 27 ust. 1e ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, zwanych dalej „informacjami dotyczącymi spółek nieruchomościowych”.
 § 2. 1. Informacje dotyczące spółek nieruchomościowych opatrzone kwalifikowanym podpisem elektronicznym są przesyłane za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 2. Dowodem złożenia informacji dotyczących spółek nieruchomościowych jest urzędowe poświadczenie odbioru, wydane przez elektroniczną skrzynkę podawczą systemu teleinformatycznego administracji skarbowej po przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych i podpisu elektronicznego, które:
 1) zapewnia integralność tej informacji zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070);

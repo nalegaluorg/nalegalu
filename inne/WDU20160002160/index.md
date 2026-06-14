@@ -8,10 +8,10 @@ pos: 2160
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 grudnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2160 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 16 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002160) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2160/text.pdf) |
 
-Poz. 2160 ROZPORZ Ą DZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 16 grudnia 2016 r.
-w sprawie przekazywania danych w kwartalnych raportach dotycz ą cych wielko ś ci obrotu produktami leczniczymi weterynaryjnymi Na podstawie art. 78 ust. 4 ustawy z dnia 6 wrze ś nia 2001 r. – Prawo farmaceutyczne (Dz. U. z 2016 r. poz. 2142) zarządza się, co następuje: § 1. Rozporządzenie określa zakres danych przekazywanych w kwartalnych raportach, o których mowa w art. 78 ust. 1 pkt 6b ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zwanej dalej „ustawą”, oraz sposób i format przekazywania tych danych.
+w sprawie przekazywania danych w kwartalnych raportach dotyczących wielkości obrotu produktami leczniczymi weterynaryjnymi Na podstawie art. 78 ust. 4 ustawy z dnia 6 wrze ś nia 2001 r. – Prawo farmaceutyczne (Dz. U. z 2016 r. poz. 2142) zarządza się, co następuje:
+§ 1. Rozporządzenie określa zakres danych przekazywanych w kwartalnych raportach, o których mowa w art. 78 ust. 1 pkt 6b ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zwanej dalej „ustawą”, oraz sposób i format przekazywania tych danych.
 § 2. Dane zawarte w raportach, o których mowa w art. 78 ust. 1 pkt 6b ustawy, zwanych dalej „kwartalnymi raportami”, obejmują:
 1) kod opakowania produktu leczniczego weterynaryjnego, zwanego dalej „produktem”, zbytego podmiotowi uprawnionemu do zakupu produktu;
 2) całkowitą ilość zbytego produktu w danym kwartale.

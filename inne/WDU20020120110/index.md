@@ -8,7 +8,7 @@ pos: 110
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o usługach detektywistycznych
@@ -87,6 +87,9 @@ Art. 47–49. (pominięte)
 
 **Art. 11.** Detektyw przy wykonywaniu czynności, o których mowa w art. 2 ust. 1, jest obowiązany:
 
+- **1)** przestrzegać przepisów prawa oraz odmówić wykonania czynności niezgodnej z prawem lub nieetycznej;
+- **2)** zachować należytą staranność i rzetelność, a zwłaszcza sprawdzić zgodność z prawdą uzyskanych informacji.
+
 **Art. 11a.** Detektyw jest obowiązany zawiadomić organ prowadzący rejestr osób, którym wydano licencje, zwany dalej „rejestrem detektywów”, o zmianie danych, o których mowa w art. 40 ust. 2 pkt 1 lub 2, w terminie 7 dni od dnia zmiany tych danych.
 
 **Art. 12.**
@@ -99,11 +102,24 @@ Art. 47–49. (pominięte)
 
 **Art. 13.** Detektyw ma obowiązek sporządzić i przekazać zatrudniającemu go przedsiębiorcy końcowe pisemne sprawozdanie z wykonanych w danej sprawie czynności, o których mowa w art. 2 ust. 1, obejmujące:
 
+- **1)** opis stanu faktycznego;
+- **2)** datę rozpoczęcia czynności;
+- **3)** określenie zakresu i przebiegu przeprowadzonych czynności;
+- **4)** datę zakończenia czynności.
+
 **Art. 14.** Detektyw ponosi odpowiedzialność za szkody wyrządzone podczas wykonywania czynności, o których mowa w art. 2 ust. 1, oraz wskutek podania nieprawdziwych informacji, na zasadach określonych w Kodeksie cywilnym.
 
 #### Rozdział 3 Zasady wykonywania działalności gospodarczej w zakresie usług detektywistycznych
 
 **Art. 15.** Przedsiębiorca może wykonywać działalność, o której mowa w art. 3, jeżeli:
+
+- **1)** posiada licencję:
+    - **a)** przedsiębiorca lub ustanowiony przez niego pełnomocnik – w przypadku przedsiębiorcy będącego osobą fizyczną,
+    - **b)** co najmniej jedna osoba uprawniona do reprezentowania przedsiębiorcy lub pełnomocnik ustanowiony przez przedsiębiorcę do kierowania działalnością detektywistyczną – w przypadku przedsiębiorcy niebędącego osobą fizyczną;
+
+- **2)** nie jest wpisany do rejestru dłużników niewypłacalnych Krajowego Rejestru Sądowego oraz nie jest ujawniony w Krajowym Rejestrze Zadłużonych;
+- **3)** osoby nieposiadające licencji, wchodzące w skład organu zarządzającego przedsiębiorcy oraz ustanowieni przez ten organ prokurenci oraz przedsiębiorca będący osobą fizyczną nie byli karani za przestępstwa umyślne lub umyślne przestępstwa skarbowe;
+- **4)** zawarł umowę ubezpieczenia, o której mowa w art. 24 ust. 1.
 
 **Art. 16.**
 
@@ -167,6 +183,15 @@ Art. 47–49. (pominięte)
 6. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych.
 
 **Art. 19.** Wpisowi do rejestru podlegają następujące dane:
+
+- **1)** data wniosku o wpis do rejestru;
+- **2)** firma przedsiębiorcy, jego siedziba i adres;
+- **3)** dane osób uprawnionych do reprezentacji przedsiębiorcy, ze wskazaniem osób posiadających licencje, o których mowa w art. 15 pkt 1, oraz numer licencji;
+- **4)** numer identyfikacji podatkowej (NIP) przedsiębiorcy;
+- **5)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **6)** adres stałego miejsca wykonywania działalności;
+- **7)** data dokonania wpisu do rejestru;
+- **8)** imię i nazwisko oraz stanowisko służbowe pracownika dokonującego wpisu do rejestru oraz jego czytelny podpis.
 
 **Art. 19a.**
 
@@ -415,6 +440,9 @@ Art. 47–49. (pominięte)
 **Art. 41.** Osoby posiadające licencję są obowiązane poddawać się okresowym badaniom lekarskim i psychologicznym.
 
 **Art. 41a.** W stosunku do osób, wobec których zostało wydane orzeczenie:
+
+- **1)** lekarskie, o którym mowa w art. 29 ust. 1 pkt 9,
+- **2)** lekarskie i psychologiczne, na podstawie przeprowadzonych badań, o których mowa w art. 41 – nie stosuje się przepisów art. 229 § 1 i 2 Kodeksu pracy.
 
 **Art. 42.**
 

@@ -8,12 +8,10 @@ pos: 18
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o żegludze śródlądowej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -54,7 +52,7 @@ Art. 64–68. (pominięte)
 - **7)** postępowanie w razie wypadku żeglugowego;
 - **8)** przepisy karne.
 
-3. Przepisy ustawy stosuje się także do statków służących do przewozów międzybrzegowych, przewozu osób lub ładunków, uprawiania sportu lub rekreacji, połowu ryb, wykonywania robót technicznych lub eksploatacji złóż kruszywa na innych wodach śródlądowych niż określone w ust. 1, z tym że do statków wykorzystywanych do celów niezwiązanych z uprawianiem sportu lub rekreacji lub przewozem osób, o długości kadłuba nieprzekraczającej 7,5 m, jeżeli nie są wyposażone w napęd mechaniczny o mocy silnika przekraczającej 10 kW, kierowanych przez osoby, które ukończyły lat, stosuje się wyłącznie przepisy dotyczące bezpieczeństwa ruchu, wyposażenia, sygnalizacji i łączności.
+3. Przepisy ustawy stosuje się także do statków służących do przewozów międzybrzegowych, przewozu osób lub ładunków, uprawiania sportu lub rekreacji, połowu ryb, wykonywania robót technicznych lub eksploatacji złóż kruszywa na innych wodach śródlądowych niż określone w ust. 1, z tym że do statków wykorzystywanych do celów niezwiązanych z uprawianiem sportu lub rekreacji lub przewozem osób, o długości kadłuba nieprzekraczającej 7,5 m, jeżeli nie są wyposażone w napęd mechaniczny o mocy silnika przekraczającej 10 kW, kierowanych przez osoby, które ukończyły 18 lat, stosuje się wyłącznie przepisy dotyczące bezpieczeństwa ruchu, wyposażenia, sygnalizacji i łączności.
 
 **Art. 2.**
 
@@ -76,9 +74,9 @@ Art. 64–68. (pominięte)
 
 - **1)** posiadających świadectwo zgodności z przepisami Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (Dz. U. z 1984 r. poz. 318 i 319, z 1986 r. poz. 177, z 2005 r. poz. 1016, z 2008 r. poz. 1173 oraz z 2017 r. poz. 142) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. poz. 320 i 321) i z Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2008 r. poz. 1173 i 1174), zwanej dalej „konwencją SOLAS”, lub równoważne świadectwo, świadectwo zgodności z przepisami Międzynarodowej konwencji o liniach ładunkowych, sporządzonej w Londynie dnia 5 kwietnia 1966 r. (Dz. U. z 1969 r. poz. 282) wraz z Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o liniach ładunkowych, 1966, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2009 r. poz. 372 i 373), zwanej dalej „konwencją o liniach ładunkowych”, lub równoważne świadectwo oraz międzynarodowy certyfikat o zapobieganiu zanieczyszczaniu olejami (IOPP) potwierdzający zgodność z przepisami Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, sporządzonej w Londynie dnia 2 listopada 1973 r., wraz z Protokołem z 1978 r. dotyczącym tej konwencji, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1987 r. poz. 101, z późn. zm. ) oraz Protokołem z 1997 r. uzupełniającym Międzynarodową konwencję o zapobieganiu zanieczyszczaniu morza przez statki, 1973, zmodyfikowanym przynależnym do niej Protokołem z 1978 r., sporządzonym w Londynie dnia 26 września 1997 r. (Dz. U. z 2005 r. poz. 1679 i 1680), zwanej dalej „konwencją MARPOL”;
 - **2)** nieobjętych konwencją SOLAS, konwencją o liniach ładunkowych lub konwencją MARPOL:
-    - **a)** w przypadku statków morskich posiadających świadectwa i znaki wolnej burty wymagane przez przepisy ich państw bandery,
-    - **b)** w przypadku statków pasażerskich posiadających certyfikat bezpieczeństwa statku pasażerskiego wydany zgodnie z dyrektywą Parlamentu Europejskiego i Rady 2009/45/WE z dnia 6 maja 2009 r. w sprawie reguł i norm bezpieczeństwa statków pasażerskich (Dz. Urz. UE L 163 z 25.06.2009, str. 1, z późn. zm. ), lub
-    - **c)** w przypadku statków używanych do uprawiania sportu lub rekreacji posiadających świadectwo kraju, pod którego banderą pływa dana jednostka, potwierdzające odpowiedni poziom bezpieczeństwa.
+    - **a)** w przypadku statków morskich – posiadających świadectwa i znaki wolnej burty wymagane przez przepisy ich państw bandery,
+    - **b)** w przypadku statków pasażerskich – posiadających certyfikat bezpieczeństwa statku pasażerskiego wydany zgodnie z dyrektywą Parlamentu Europejskiego i Rady 2009/45/WE z dnia 6 maja 2009 r. w sprawie reguł i norm bezpieczeństwa statków pasażerskich (Dz. Urz. UE L 163 z 25.06.2009, str. 1, z późn. zm. ), lub
+    - **c)** w przypadku statków używanych do uprawiania sportu lub rekreacji – posiadających świadectwo kraju, pod którego banderą pływa dana jednostka, potwierdzające odpowiedni poziom bezpieczeństwa.
 
 3. Przepisy dotyczące obowiązku, o którym mowa w art. 35 ust. 1, w zakresie posiadania unijnych świadectw kwalifikacji, o których mowa w art. 35 ust. 2 pkt 1 i 2, oraz przepisy art. 38 stosuje się także do członków załogi pokładowej statków morskich przebywających na śródlądowych drogach wodnych, z wyjątkiem członków załogi pokładowej statku innych niż kapitanowie, posiadających świadectwo wydane lub uznane zgodnie z Międzynarodową konwencją o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzoną w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201 i 202, z 1999 r. poz. 286, z 2018 r. poz. 1866 i 2088 oraz z 2019 r. poz. 103), zwaną dalej „konwencją STCW”.
 
@@ -86,7 +84,7 @@ Art. 64–68. (pominięte)
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** statek urządzenie pływające o napędzie mechanicznym lub bez napędu mechanicznego, w tym również prom, wodolot i poduszkowiec, przeznaczone lub używane na śródlądowych drogach wodnych do:
+- **1)** statek – urządzenie pływające o napędzie mechanicznym lub bez napędu mechanicznego, w tym również prom, wodolot i poduszkowiec, przeznaczone lub używane na śródlądowych drogach wodnych do:
     - **a)** przewozu osób lub rzeczy,
     - **b)** pchania lub holowania,
     - **c)** inspekcji, nadzoru nad bezpieczeństwem ruchu żeglugowego lub szkolenia,
@@ -96,56 +94,56 @@ Art. 64–68. (pominięte)
     - **g)** uprawiania sportu lub rekreacji,
     - **h)** celów mieszkalnych, biurowych, gastronomicznych, hotelowych lub warsztatowych, a także jako przystanie pływające, doki lub zakłady kąpielowe;
 
-- **1a)** statek przeznaczony lub używany wyłącznie do uprawiania sportu lub rekreacji jacht rekreacyjny lub jacht komercyjny oraz jednostkę pływającą używaną do amatorskiego połowu ryb;
-- **1b)** jacht rekreacyjny statek przeznaczony lub używany wyłącznie do uprawiania sportu lub rekreacji, inny niż jacht komercyjny;
-- **1c)** jacht komercyjny statek przeznaczony lub używany wyłącznie do uprawiania sportu lub rekreacji, w ramach prowadzenia działalności polegającej na:
+- **1a)** statek przeznaczony lub używany wyłącznie do uprawiania sportu lub rekreacji – jacht rekreacyjny lub jacht komercyjny oraz jednostkę pływającą używaną do amatorskiego połowu ryb;
+- **1b)** jacht rekreacyjny – statek przeznaczony lub używany wyłącznie do uprawiania sportu lub rekreacji, inny niż jacht komercyjny;
+- **1c)** jacht komercyjny – statek przeznaczony lub używany wyłącznie do uprawiania sportu lub rekreacji, w ramach prowadzenia działalności polegającej na:
     - **a)** odpłatnym przewozie osób,
     - **b)** odpłatnym wykonywaniu rejsów szkoleniowych,
-    - **c)** odpłatnym udostępnianiu statku w celach amatorskiego połowu ryb w rozumieniu art. 7 ust. 1 ustawy z dnia kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2022 r. poz. 883),
+    - **c)** odpłatnym udostępnianiu statku w celach amatorskiego połowu ryb w rozumieniu art. 7 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2022 r. poz. 883),
     - **d)** odpłatnym udostępnianiu statku obsadzonego załogą,
-    - **e)** każdym innym odpłatnym wykorzystaniu lub udostępnianiu statku o ile w ramach tej działalności nie jest używany do przewozu więcej niż 12 pasażerów;
+    - **e)** każdym innym odpłatnym wykorzystaniu lub udostępnianiu statku – o ile w ramach tej działalności nie jest używany do przewozu więcej niż 12 pasażerów;
 
-- **1d)** jednostka pływająca używana do amatorskiego połowu ryb statek używany do amatorskiego połowu ryb w rozumieniu art. 7 ust. 1 ustawy z dnia kwietnia 1985 r. o rybactwie śródlądowym;
-- **2)** armator właściciela statku lub osobę, która uzyskała od właściciela tytuł prawny do władania statkiem we własnym imieniu;
-- **3)** port lub przystań akwen i grunt oraz związaną z nimi infrastrukturę, znajdującą się w granicach portu lub przystani;
-- **4)** port macierzysty port, który armator wskazał jako miejsce stałego postoju statku;
-- **5)** szlak żeglowny pas wody przeznaczony do żeglugi;
-- **6)** głębokość tranzytowa najmniejszą głębokość szlaku żeglownego określonego odcinka drogi wodnej;
-- **7)** wypadek żeglugowy zdarzenie związane z ruchem lub postojem statku, w wyniku którego nastąpiło uszkodzenie ciała powodujące rozstrój zdrowia lub śmierć człowieka, uszkodzenie mienia znacznej wartości albo poważną awarię w rozumieniu przepisów Prawa ochrony środowiska;
-- **8)** państwo członkowskie państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską;
-- **9)** państwo trzecie państwo niebędące państwem członkowskim;
-- **10)** dokument bezpieczeństwa statku unijne świadectwo zdolności żeglugowej, tymczasowe unijne świadectwo zdolności żeglugowej, świadectwo zdolności żeglugowej i uproszczone świadectwo zdolności żeglugowej;
-- **11)** dokument dopuszczający statek do żeglugi dokument bezpieczeństwa statku albo inny dokument wydany przez właściwy organ państwa członkowskiego albo państwa trzeciego, potwierdzający dopuszczenie statku do żeglugi po wodach śródlądowych tego państwa;
-- **12)** usługi informacji rzecznej (RIS) zharmonizowane usługi informacyjne wspierające zarządzanie ruchem i transportem w żegludze śródlądowej;
-- **13)** użytkownik RIS podmiot korzystający z usług informacji rzecznej (RIS);
-- **14)** tradycyjna jednostka pływająca statek, wykorzystywany w szczególności do celów pokazowych, którego wiek, charakterystyka techniczna, konstrukcja lub unikalność ma znaczenie dla zachowania zasad tradycyjnego żeglarstwa lub tradycyjnych technik żeglugi śródlądowej lub ma istotne znaczenie dla danego okresu historycznego, a także replika tradycyjnej jednostki pływającej;
-- **15)** replika tradycyjnej jednostki pływającej statek zbudowany w większości z materiałów oryginalnych dla tradycyjnej jednostki pływającej z zastosowaniem sposobu konstrukcji zgodnego z planami lub wzorami dla tradycyjnej jednostki pływającej;
-- **16)** ekspert w dziedzinie żeglugi pasażerskiej osobę pełniącą służbę na pokładzie statku, która ma kwalifikacje do podejmowania działań w sytuacjach nadzwyczajnych na pokładzie statków pasażerskich;
-- **17)** ekspert w dziedzinie skroplonego gazu ziemnego osobę wykwalifikowaną do zajmowania się procedurą bunkrowania statków napędzanych skroplonym gazem ziemnym lub do sprawowania funkcji kierownika takiego statku;
-- **18)** holownik statek o napędzie mechanicznym przeznaczony albo przystosowany do holowania innych statków;
-- **19)** lodołamacz statek o napędzie mechanicznym przeznaczony do łamania lodów;
-- **20)** łódź przewozowa statek o napędzie mechanicznym albo bez napędu mechanicznego przeznaczony do przewozu nie więcej niż 12 pasażerów z jednego brzegu drogi wodnej na drugi;
-- **21)** mały statek statek, którego długość kadłuba jest mniejsza niż 20 m, a iloczyn długości, szerokości i zanurzenia nie przekracza 100 m , z wyjątkiem:
+- **1d)** jednostka pływająca używana do amatorskiego połowu ryb – statek używany do amatorskiego połowu ryb w rozumieniu art. 7 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym;
+- **2)** armator – właściciela statku lub osobę, która uzyskała od właściciela tytuł prawny do władania statkiem we własnym imieniu;
+- **3)** port lub przystań – akwen i grunt oraz związaną z nimi infrastrukturę, znajdującą się w granicach portu lub przystani;
+- **4)** port macierzysty – port, który armator wskazał jako miejsce stałego postoju statku;
+- **5)** szlak żeglowny – pas wody przeznaczony do żeglugi;
+- **6)** głębokość tranzytowa – najmniejszą głębokość szlaku żeglownego określonego odcinka drogi wodnej;
+- **7)** wypadek żeglugowy – zdarzenie związane z ruchem lub postojem statku, w wyniku którego nastąpiło uszkodzenie ciała powodujące rozstrój zdrowia lub śmierć człowieka, uszkodzenie mienia znacznej wartości albo poważną awarię w rozumieniu przepisów Prawa ochrony środowiska;
+- **8)** państwo członkowskie – państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską;
+- **9)** państwo trzecie – państwo niebędące państwem członkowskim;
+- **10)** dokument bezpieczeństwa statku – unijne świadectwo zdolności żeglugowej, tymczasowe unijne świadectwo zdolności żeglugowej, świadectwo zdolności żeglugowej i uproszczone świadectwo zdolności żeglugowej;
+- **11)** dokument dopuszczający statek do żeglugi – dokument bezpieczeństwa statku albo inny dokument wydany przez właściwy organ państwa członkowskiego albo państwa trzeciego, potwierdzający dopuszczenie statku do żeglugi po wodach śródlądowych tego państwa;
+- **12)** usługi informacji rzecznej (RIS) – zharmonizowane usługi informacyjne wspierające zarządzanie ruchem i transportem w żegludze śródlądowej;
+- **13)** użytkownik RIS – podmiot korzystający z usług informacji rzecznej (RIS);
+- **14)** tradycyjna jednostka pływająca – statek, wykorzystywany w szczególności do celów pokazowych, którego wiek, charakterystyka techniczna, konstrukcja lub unikalność ma znaczenie dla zachowania zasad tradycyjnego żeglarstwa lub tradycyjnych technik żeglugi śródlądowej lub ma istotne znaczenie dla danego okresu historycznego, a także replika tradycyjnej jednostki pływającej;
+- **15)** replika tradycyjnej jednostki pływającej – statek zbudowany w większości z materiałów oryginalnych dla tradycyjnej jednostki pływającej z zastosowaniem sposobu konstrukcji zgodnego z planami lub wzorami dla tradycyjnej jednostki pływającej;
+- **16)** ekspert w dziedzinie żeglugi pasażerskiej – osobę pełniącą służbę na pokładzie statku, która ma kwalifikacje do podejmowania działań w sytuacjach nadzwyczajnych na pokładzie statków pasażerskich;
+- **17)** ekspert w dziedzinie skroplonego gazu ziemnego – osobę wykwalifikowaną do zajmowania się procedurą bunkrowania statków napędzanych skroplonym gazem ziemnym lub do sprawowania funkcji kierownika takiego statku;
+- **18)** holownik – statek o napędzie mechanicznym przeznaczony albo przystosowany do holowania innych statków;
+- **19)** lodołamacz – statek o napędzie mechanicznym przeznaczony do łamania lodów;
+- **20)** łódź przewozowa – statek o napędzie mechanicznym albo bez napędu mechanicznego przeznaczony do przewozu nie więcej niż 12 pasażerów z jednego brzegu drogi wodnej na drugi;
+- **21)** mały statek – statek, którego długość kadłuba jest mniejsza niż 20 m, a iloczyn długości, szerokości i zanurzenia nie przekracza 100 m , z wyjątkiem:
     - **a)** promów,
     - **b)** statków przeznaczonych do przewozu więcej niż 12 pasażerów,
     - **c)** holowników lub pchaczy,
     - **d)** lodołamaczy,
-    - **e)** statków przeznaczonych lub używanych do wykonywania prac technicznych, utrzymania szlaków żeglugowych lub eksploatacji złóż kruszyw niezależnie od długości ich kadłuba oraz iloczynu długości, szerokości i zanurzenia;
+    - **e)** statków przeznaczonych lub używanych do wykonywania prac technicznych, utrzymania szlaków żeglugowych lub eksploatacji złóż kruszyw – niezależnie od długości ich kadłuba oraz iloczynu długości, szerokości i zanurzenia;
 
-- **22)** obiekt pływający statek nieprzeznaczony do uprawiania żeglugi, wykorzystywany do celów mieszkalnych, biurowych, gastronomicznych, hotelowych, warsztatowych, jako przystań, dok albo zakład kąpielowy;
-- **23)** pchacz statek o napędzie mechanicznym przeznaczony albo przystosowany do pchania innych statków;
-- **24)** poziom operacyjny poziom związany z pełnieniem funkcji marynarza, starszego marynarza lub sternika oraz utrzymywaniem kontroli nad wykonywaniem zadań w ramach pełnionej funkcji zgodnie z właściwymi procedurami oraz pod kierownictwem osoby pełniącej funkcję na poziomie zarządzania;
-- **25)** poziom zarządzania poziom związany z pełnieniem funkcji kapitana oraz kierowaniem innymi członkami załogi pokładowej w celu prawidłowego wykonywania zadań w zakresie eksploatacji statku;
-- **26)** prom statek o napędzie mechanicznym albo bez napędu mechanicznego przeznaczony do przewozu osób lub ładunków z jednego brzegu drogi wodnej na drugi;
-- **27)** scalone materiały pływające konstrukcję przystosowaną do pływania niebędącą statkiem, w szczególności tratwy, sprzężone łodzie flisackie lub beczki;
-- **28)** statek bez napędu mechanicznego statek nieposiadający mechanicznych urządzeń napędowych, przeznaczony do przemieszczania w zestawie pchanym, holowanym lub sprzężonym;
-- **29)** statek o napędzie mechanicznym każdy statek wprowadzany w ruch przez mechaniczne urządzenie napędowe, z wyjątkiem statków, których mechaniczne urządzenie napędowe jest używane tylko do małych przemieszczeń w portach albo do zwiększenia sterowności statków;
-- **30)** statek pasażerski statek o napędzie mechanicznym przeznaczony albo przystosowany do przewozu więcej niż 12 pasażerów;
-- **31)** świadectwo operatora radiowego świadectwo operatora urządzeń radiowych w służbie radiokomunikacyjnej żeglugi śródlądowej;
-- **32)** zatwierdzony program szkolenia program szkolenia objęty uznaniem ministra właściwego do spraw żeglugi śródlądowej, o którym mowa w art. 36i ust. 3, lub program szkolenia zatwierdzony przez właściwy organ innego państwa członkowskiego;
-- **33)** zestaw holowany jeden albo więcej statków lub scalonych materiałów pływających holowanych przez holownik;
-- **34)** zestaw pchany sztywno lub elastycznie połączone statki, z których przynajmniej jeden znajduje się przed pchaczem;
-- **35)** zestaw sprzężony statki połączone burtami, z których żaden nie znajduje się przed statkiem o napędzie mechanicznym napędzającym te statki.
+- **22)** obiekt pływający – statek nieprzeznaczony do uprawiania żeglugi, wykorzystywany do celów mieszkalnych, biurowych, gastronomicznych, hotelowych, warsztatowych, jako przystań, dok albo zakład kąpielowy;
+- **23)** pchacz – statek o napędzie mechanicznym przeznaczony albo przystosowany do pchania innych statków;
+- **24)** poziom operacyjny – poziom związany z pełnieniem funkcji marynarza, starszego marynarza lub sternika oraz utrzymywaniem kontroli nad wykonywaniem zadań w ramach pełnionej funkcji zgodnie z właściwymi procedurami oraz pod kierownictwem osoby pełniącej funkcję na poziomie zarządzania;
+- **25)** poziom zarządzania – poziom związany z pełnieniem funkcji kapitana oraz kierowaniem innymi członkami załogi pokładowej w celu prawidłowego wykonywania zadań w zakresie eksploatacji statku;
+- **26)** prom – statek o napędzie mechanicznym albo bez napędu mechanicznego przeznaczony do przewozu osób lub ładunków z jednego brzegu drogi wodnej na drugi;
+- **27)** scalone materiały pływające – konstrukcję przystosowaną do pływania niebędącą statkiem, w szczególności tratwy, sprzężone łodzie flisackie lub beczki;
+- **28)** statek bez napędu mechanicznego – statek nieposiadający mechanicznych urządzeń napędowych, przeznaczony do przemieszczania w zestawie pchanym, holowanym lub sprzężonym;
+- **29)** statek o napędzie mechanicznym – każdy statek wprowadzany w ruch przez mechaniczne urządzenie napędowe, z wyjątkiem statków, których mechaniczne urządzenie napędowe jest używane tylko do małych przemieszczeń w portach albo do zwiększenia sterowności statków;
+- **30)** statek pasażerski – statek o napędzie mechanicznym przeznaczony albo przystosowany do przewozu więcej niż 12 pasażerów;
+- **31)** świadectwo operatora radiowego – świadectwo operatora urządzeń radiowych w służbie radiokomunikacyjnej żeglugi śródlądowej;
+- **32)** zatwierdzony program szkolenia – program szkolenia objęty uznaniem ministra właściwego do spraw żeglugi śródlądowej, o którym mowa w art. 36i ust. 3, lub program szkolenia zatwierdzony przez właściwy organ innego państwa członkowskiego;
+- **33)** zestaw holowany – jeden albo więcej statków lub scalonych materiałów pływających holowanych przez holownik;
+- **34)** zestaw pchany – sztywno lub elastycznie połączone statki, z których przynajmniej jeden znajduje się przed pchaczem;
+- **35)** zestaw sprzężony – statki połączone burtami, z których żaden nie znajduje się przed statkiem o napędzie mechanicznym napędzającym te statki.
 
 2. Statkiem o napędzie mechanicznym jest statek posiadający mechaniczne urządzenia napędowe, niezależnie od sposobu ich zamocowania.
 
@@ -161,8 +159,8 @@ Art. 64–68. (pominięte)
 
 1. Organami administracji żeglugi śródlądowej są:
 
-- **1)** minister właściwy do spraw żeglugi śródlądowej jako naczelny organ administracji żeglugi śródlądowej;
-- **2)** Dyrektor Urzędu Żeglugi Śródlądowej w Bydgoszczy, Dyrektor Urzędu Żeglugi Śródlądowej we Wrocławiu oraz Dyrektor Urzędu Żeglugi Śródlądowej w Szczecinie, zwani dalej „dyrektorami urzędów żeglugi śródlądowej” jako terenowe organy administracji żeglugi śródlądowej.
+- **1)** minister właściwy do spraw żeglugi śródlądowej – jako naczelny organ administracji żeglugi śródlądowej;
+- **2)** Dyrektor Urzędu Żeglugi Śródlądowej w Bydgoszczy, Dyrektor Urzędu Żeglugi Śródlądowej we Wrocławiu oraz Dyrektor Urzędu Żeglugi Śródlądowej w Szczecinie, zwani dalej „dyrektorami urzędów żeglugi śródlądowej” – jako terenowe organy administracji żeglugi śródlądowej.
 
 1a. Minister właściwy do spraw żeglugi śródlądowej sprawuje nadzór nad działalnością dyrektorów urzędów żeglugi śródlądowej w zakresie uregulowanym w niniejszej ustawie.
 
@@ -204,7 +202,7 @@ Art. 64–68. (pominięte)
 7. W zakresie swojej właściwości miejscowej dyrektorzy delegatur Urzędu Żeglugi Śródlądowej w Bydgoszczy oraz dyrektorzy delegatur Urzędu Żeglugi Śródlądowej we Wrocławiu wykonują zadania związane z uprawnieniami i obowiązkami, załatwiają sprawy oraz wykonują czynności należące odpowiednio do Dyrektora Urzędu Żeglugi Śródlądowej w Bydgoszczy albo Dyrektora Urzędu Żeglugi Śródlądowej we Wrocławiu, z wyłączeniem uprawnień, obowiązków, spraw i czynności, o których mowa w:
 
 - **1)** art. 9 ust. 2 pkt 2a, art. 10a ust. 1 i 2, art. 14, art. 26a ust. 1 i 2, art. 34d ust. 1 i 2, art. 34j ust. 1 i 5 oraz art. 43 ust. 6;
-- **2)** art. 357 ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473).
+- **2)** art. 357 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473).
 
 **Art. 9.**
 
@@ -239,7 +237,7 @@ Art. 64–68. (pominięte)
 
 2h. W przypadku niecierpiącym zwłoki dyrektor urzędu żeglugi śródlądowej, realizując zadania, o których mowa w ust. 2 pkt 1, 2, 4–8 i 10a, wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przez udostępnienie informacji, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, na swojej stronie internetowej oraz w siedzibie urzędu w widocznym miejscu.
 
-2i. Wystąpienie z żądaniem, o którym mowa w art. ust. 1 rozporządzenia 2016/679, nie wstrzymuje ani nie ogranicza wykonywania przez dyrektora urzędu żeglugi śródlądowej zadań, o których mowa w ust. 2 pkt 1, 2, 4–8 i 10a.
+2i. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wstrzymuje ani nie ogranicza wykonywania przez dyrektora urzędu żeglugi śródlądowej zadań, o których mowa w ust. 2 pkt 1, 2, 4–8 i 10a.
 
 3. (uchylony)
 
@@ -274,7 +272,7 @@ Art. 64–68. (pominięte)
 - **3)** żądania wyjaśnień i podejmowania wszelkich czynności niezbędnych do przeprowadzenia kontroli na pokładzie, w ładowniach i innych pomieszczeniach statku;
 - **4)** dokonywania wpisów dotyczących przeprowadzonej kontroli w dzienniku pokładowym statku;
 - **5)** nakładania grzywien w drodze mandatu karnego za wykroczenia w żegludze śródlądowej;
-- **6)** kontroli posiadania na statku składników wyposażenia statku, których zakup refinansowano ze środków Funduszu Żeglugi Śródlądowej w przypadku udzielenia armatorowi refinansowania.
+- **6)** kontroli posiadania na statku składników wyposażenia statku, których zakup refinansowano ze środków Funduszu Żeglugi Śródlądowej – w przypadku udzielenia armatorowi refinansowania.
 
 5a. Administratorem danych osobowych przetwarzanych w celu, o którym mowa w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206), jest dyrektor urzędu żeglugi śródlądowej.
 
@@ -284,7 +282,7 @@ Art. 64–68. (pominięte)
 
 1. Zadania organu inspekcyjnego, o których mowa w art. 9 ust. 2 pkt 2a, wykonuje powoływana i odwoływana przez ten organ techniczna komisja inspekcyjna, zwana dalej „komisją inspekcyjną”.
 
-2. W skład komisji inspekcyjnej wchodzą przewodniczący i eksperci. Jako ekspertów należy powołać w szczególności: pracownika urzędu żeglugi śródlądowej, specjalistę do spraw budowy statków oraz ich siłowni w zakresie żeglugi śródlądowej, specjalistę do spraw nautyki posiadającego patent żeglarski kapitana żeglugi śródlądowej uprawniający do kierowania statkiem, który podlega inspekcji, oraz na potrzeby przeprowadzania inspekcji tradycyjnych jednostek pływających eksperta do spraw żeglugi tradycyjnej.
+2. W skład komisji inspekcyjnej wchodzą przewodniczący i eksperci. Jako ekspertów należy powołać w szczególności: pracownika urzędu żeglugi śródlądowej, specjalistę do spraw budowy statków oraz ich siłowni w zakresie żeglugi śródlądowej, specjalistę do spraw nautyki posiadającego patent żeglarski kapitana żeglugi śródlądowej uprawniający do kierowania statkiem, który podlega inspekcji, oraz – na potrzeby przeprowadzania inspekcji tradycyjnych jednostek pływających – eksperta do spraw żeglugi tradycyjnej.
 
 3. Powołani w skład komisji inspekcyjnej przewodniczący i eksperci wykonują swoje obowiązki bezstronnie.
 
@@ -302,7 +300,7 @@ Art. 64–68. (pominięte)
 
 - **1)** braku dokumentu dopuszczającego statek do żeglugi,
 - **2)** zaniedbania zagrażającego bezpieczeństwu żeglugi, statku lub przebywających na nim osób albo zagrażającego zanieczyszczeniem środowiska, a także stwierdzenia uchybienia sanitarnego,
-- **3)** że statek stanowi zagrożenie bezpieczeństwa żeglugi inspektor, na podstawie udzielonego upoważnienia, może, w drodze decyzji administracyjnej, zatrzymać lub skierować statek do najbliższego postoju oraz zatrzymać dokument dopuszczający statek do żeglugi i dokument kwalifikacyjny kierownika statku do czasu usunięcia stwierdzonych naruszeń.
+- **3)** że statek stanowi zagrożenie bezpieczeństwa żeglugi – inspektor, na podstawie udzielonego upoważnienia, może, w drodze decyzji administracyjnej, zatrzymać lub skierować statek do najbliższego postoju oraz zatrzymać dokument dopuszczający statek do żeglugi i dokument kwalifikacyjny kierownika statku do czasu usunięcia stwierdzonych naruszeń.
 
 3. O każdym przypadku naruszeń, o których mowa w ust. 1 i 2, o zatrzymaniu statku oraz o wydanej decyzji powiadamia się na piśmie, wraz z uzasadnieniem, administrację państwa, w którym został wystawiony dokument dopuszczający statek do żeglugi, w terminie 7 dni od dnia stwierdzenia naruszenia.
 
@@ -373,8 +371,8 @@ Art. 64–68. (pominięte)
 
 2. W przypadku braku umowy międzynarodowej, statek, o którym mowa w ust. 1 pkt 2 lit. b i pkt 3, może uprawiać żeglugę na polskich śródlądowych drogach wodnych po uzyskaniu pozwolenia:
 
-- **1)** ministra właściwego do spraw żeglugi śródlądowej w przypadku prowadzenia regularnej żeglugi między polskimi portami lub między portem polskim a portem państwa trzeciego;
-- **2)** dyrektora urzędu żeglugi śródlądowej właściwego terytorialnie dla miejsca przekroczenia granicy Rzeczypospolitej Polskiej w pozostałych przypadkach.
+- **1)** ministra właściwego do spraw żeglugi śródlądowej – w przypadku prowadzenia regularnej żeglugi między polskimi portami lub między portem polskim a portem państwa trzeciego;
+- **2)** dyrektora urzędu żeglugi śródlądowej właściwego terytorialnie dla miejsca przekroczenia granicy Rzeczypospolitej Polskiej – w pozostałych przypadkach.
 
 3. Przepisu ust. 2 nie stosuje się do statku używanego wyłącznie do uprawiania sportu lub rekreacji, bez względu na jego przynależność państwową.
 
@@ -392,9 +390,9 @@ Art. 64–68. (pominięte)
 
 **Art. 15a.**
 
-1. W przypadku wprowadzenia ograniczeń w przewozie rzeczy w żegludze śródlądowej na podstawie art. 9a ustawy z dnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z 2024 r. poz. 1262) minister właściwy do spraw żeglugi śródlądowej może, w drodze rozporządzenia, ustanowić na czas określony ograniczenia w wydawaniu pozwoleń na przewóz lub w korzystaniu z wydanych pozwoleń.
+1. W przypadku wprowadzenia ograniczeń w przewozie rzeczy w żegludze śródlądowej na podstawie art. 9a ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2024 r. poz. 1262) minister właściwy do spraw żeglugi śródlądowej może, w drodze rozporządzenia, ustanowić na czas określony ograniczenia w wydawaniu pozwoleń na przewóz lub w korzystaniu z wydanych pozwoleń.
 
-2. Rozporządzenie, o którym mowa w ust. 1, powinno określać rodzaje pozwoleń podlegających ograniczeniu oraz zakres ograniczeń pod względem drogi wodnej, portów lub określonego ładunku oraz sposobu korzystania z pozwoleń w zależności od ograniczeń wprowadzonych na podstawie art. 9a ustawy Prawo przewozowe.
+2. Rozporządzenie, o którym mowa w ust. 1, powinno określać rodzaje pozwoleń podlegających ograniczeniu oraz zakres ograniczeń pod względem drogi wodnej, portów lub określonego ładunku oraz sposobu korzystania z pozwoleń w zależności od ograniczeń wprowadzonych na podstawie art. 9a ustawy – Prawo przewozowe.
 
 3. Przepisy art. 9 ust. 2 pkt 7 i 8 oraz art. 10 ust. 5, odnoszące się do kontroli dokumentów przewozowych, zgodności przewożonego ładunku z tymi dokumentami, kontroli obcych statków w zakresie zgodności wykonywanych przewozów z postanowieniami umów międzynarodowych oraz pozwoleń na te przewozy, jak również wykonywania zadań służbowych przez inspektorów, stosuje się odpowiednio do kontroli przestrzegania ograniczeń wprowadzonych w przewozie rzeczy w żegludze śródlądowej, o których mowa w ust. 1 i 2.
 
@@ -531,7 +529,7 @@ Art. 64–68. (pominięte)
 2. W przypadku zezłomowania statku armator tego statku, w terminie 14 dni od dnia zezłomowania statku, jest obowiązany zawiadomić o tym:
 
 - **1)** właściwy organ rejestrowy oraz
-- **2)** dyrektora urzędu żeglugi śródlądowej, w przypadku gdy nie jest on organem rejestrowym dla danego statku, a statek uzyskał jeden z dokumentów, o których mowa w art. 28 ust. 1 pkt 1 lub 2 przedstawiając dokument potwierdzający zezłomowanie statku.
+- **2)** dyrektora urzędu żeglugi śródlądowej, w przypadku gdy nie jest on organem rejestrowym dla danego statku, a statek uzyskał jeden z dokumentów, o których mowa w art. 28 ust. 1 pkt 1 lub 2 – przedstawiając dokument potwierdzający zezłomowanie statku.
 
 **Art. 23.**
 
@@ -589,9 +587,15 @@ Art. 64–68. (pominięte)
 
 **Art. 27.** Statek może być używany w żegludze śródlądowej, jeżeli odpowiada wymaganiom bezpieczeństwa w zakresie:
 
+- **1)** budowy, jego stałych urządzeń i wyposażenia;
+- **2)** właściwości manewrowych;
+- **3)** ochrony wód, powietrza lub ochrony przed hałasem;
+- **4)** warunków sanitarnych oraz bezpieczeństwa i higieny pracy;
+- **5)** składu i kwalifikacji załogi.
+
 **Art. 27a.**
 
-1. Statki morskie zarejestrowane na podstawie ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m mogą być używane w żegludze śródlądowej pod warunkiem spełniania wymagań określonych w ustawie z dnia sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068).
+1. Statki morskie zarejestrowane na podstawie ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m mogą być używane w żegludze śródlądowej pod warunkiem spełniania wymagań określonych w ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068).
 
 2. Wyposażenie statku, o którym mowa w ust. 1, powinno być co najmniej takie, jak określone w przepisach dotyczących jachtu morskiego o długości do 24 m w Rejonie T (żegludze na akwenach treningowych).
 
@@ -602,16 +606,16 @@ Art. 64–68. (pominięte)
 - **1)** unijnego świadectwa zdolności żeglugowej,
 - **2)** tymczasowego unijnego świadectwa zdolności żeglugowej,
 - **3)** świadectwa zdolności żeglugowej,
-- **4)** uproszczonego świadectwa zdolności żeglugowej stwierdzających, że statek odpowiada wymaganiom bezpieczeństwa określonym w art. 27 pkt 1–4.
+- **4)** uproszczonego świadectwa zdolności żeglugowej – stwierdzających, że statek odpowiada wymaganiom bezpieczeństwa określonym w art. 27 pkt 1–4.
 
 2. W dokumencie bezpieczeństwa statku określa się także skład załogi niezbędny do zapewnienia bezpiecznej żeglugi.
 
 3. Dyrektor urzędu żeglugi śródlądowej na wniosek armatora:
 
-- **1)** wydaje dokument bezpieczeństwa dla statku, który nie posiada dokumentu bezpieczeństwa;
-- **2)** odnawia dokument bezpieczeństwa, o którym mowa w ust. 1 pkt 1 albo 2 dla statku posiadającego ten dokument bezpieczeństwa, którego termin ważności upłynął;
+- **1)** wydaje dokument bezpieczeństwa – dla statku, który nie posiada dokumentu bezpieczeństwa;
+- **2)** odnawia dokument bezpieczeństwa, o którym mowa w ust. 1 pkt 1 albo 2 – dla statku posiadającego ten dokument bezpieczeństwa, którego termin ważności upłynął;
 - **3)** przedłuża termin ważności dokumentu bezpieczeństwa dla statku posiadającego:
-    - **a)** ważny dokument bezpieczeństwa, o którym mowa w ust. 1: pkt 1, pkt 2 wyłącznie w przypadku, o którym mowa w art. 34h ust. 9,
+    - **a)** ważny dokument bezpieczeństwa, o którym mowa w ust. 1: – pkt 1, – pkt 2 – wyłącznie w przypadku, o którym mowa w art. 34h ust. 9,
     - **b)** dokument bezpieczeństwa, o którym mowa w ust. 1 pkt 3 albo 4, którego termin ważności upłynął.
 
 4. Uznaje się:
@@ -628,7 +632,7 @@ Art. 64–68. (pominięte)
 6. Na statku w trakcie jego eksploatacji przechowuje się:
 
 - **1)** dokument bezpieczeństwa albo dokument, o którym mowa w ust. 4,
-- **2)** uzupełniające unijne świadectwo zdolności żeglugowej jeżeli zostały wydane dla danego statku.
+- **2)** uzupełniające unijne świadectwo zdolności żeglugowej – jeżeli zostały wydane dla danego statku.
 
 7. Do odnawiania dokumentu bezpieczeństwa w zakresie nieuregulowanym w niniejszym artykule stosuje się przepisy dotyczące wydawania dokumentu bezpieczeństwa.
 
@@ -645,7 +649,7 @@ Art. 64–68. (pominięte)
 2. W przypadku wprowadzenia przez państwo członkowskie dodatkowych lub ograniczonych wymagań technicznych na określonych drogach wodnych tego państwa, w celu dopuszczenia statku do żeglugi na tych drogach, należy uzyskać:
 
 - **1)** dodatkowy wpis do unijnego świadectwa zdolności żeglugowej albo
-- **2)** uzupełniające unijne świadectwo zdolności żeglugowej w przypadku posiadania ważnego unijnego świadectwa zdolności żeglugowej bez wpisu, o którym mowa w pkt 1, lub świadectwa, o którym mowa w art. 28 ust. 4 pkt 3.
+- **2)** uzupełniające unijne świadectwo zdolności żeglugowej – w przypadku posiadania ważnego unijnego świadectwa zdolności żeglugowej bez wpisu, o którym mowa w pkt 1, lub świadectwa, o którym mowa w art. 28 ust. 4 pkt 3.
 
 3. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wykaz śródlądowych dróg wodnych państw członkowskich z podziałem na rejony pływania, do których stosuje się wymagania techniczne dla statków objętych obowiązkiem posiadania unijnego świadectwa zdolności żeglugowej, mając na względzie zapewnienie harmonizacji warunków wydawania unijnego świadectwa zdolności żeglugowej.
 
@@ -661,7 +665,7 @@ Art. 64–68. (pominięte)
 - **2)** statków, których iloczyn długości, szerokości i zanurzenia jest nie mniejszy niż 100 m ,
 - **3)** holowników i pchaczy przeznaczonych odpowiednio do holowania lub pchania statków, o których mowa w pkt 1 i 2 lub w art. 5 ust. 1 pkt 1 lit. f, lub przemieszczania takich statków w zestawach sprzężonych,
 - **4)** statków przeznaczonych do przewozu ponad 12 pasażerów,
-- **5)** statków, o których mowa w art. 5 ust. 1 pkt 1 lit. f uprawiających żeglugę po drogach wodnych, o których mowa w art. 29.
+- **5)** statków, o których mowa w art. 5 ust. 1 pkt 1 lit. f – uprawiających żeglugę po drogach wodnych, o których mowa w art. 29.
 
 2. Unijne świadectwo zdolności żeglugowej może być wydane na wniosek armatora także dla innego statku niż określony w ust. 1, jeżeli statek ten spełnia wymagania do uzyskania unijnego świadectwa zdolności żeglugowej określone w ustawie.
 
@@ -678,7 +682,7 @@ Art. 64–68. (pominięte)
     - **a)** orzeczenie Państwowej Inspekcji Pracy o dopuszczeniu statku do eksploatacji pod względem bezpieczeństwa i higieny pracy,
     - **b)** opinię państwowego wojewódzkiego inspektora sanitarnego o dopuszczeniu statku do eksploatacji pod względem wymagań sanitarnych;
 
-- **5)** wyciąg z dokumentu rejestracyjnego w przypadku statku używanego wyłącznie do uprawiania sportu lub rekreacji;
+- **5)** wyciąg z dokumentu rejestracyjnego – w przypadku statku używanego wyłącznie do uprawiania sportu lub rekreacji;
 - **6)** decyzję, o której mowa w art. 34b ust. 4 lub 4b, w przypadku gdy została wydana.
 
 1a. Do wniosku o odnowienie unijnego świadectwa zdolności żeglugowej należy załączyć dokumenty, o których mowa w ust. 1, oraz unijne świadectwo zdolności żeglugowej.
@@ -701,8 +705,8 @@ Art. 64–68. (pominięte)
 
 4b. W przypadku zmiany danych, o których mowa w ust. 3a, lub danych wpisanych w unijnym świadectwie zdolności żeglugowej zgodnie z ust. 4, które podlegają także wpisowi do uzupełniającego świadectwa zdolności żeglugowej, dyrektor urzędu żeglugi śródlądowej:
 
-- **1)** wydaje nowe uzupełniające unijne świadectwo zdolności żeglugowej w przypadku gdy statek spełnia dodatkowe lub ograniczone wymagania techniczne, o których mowa w art. 29 ust. 2, dla danych rejonów żeglugi lub ich odcinków, albo
-- **2)** odmawia, w drodze decyzji, wydania uzupełniającego świadectwa zdolności żeglugowej dla danych rejonów żeglugi lub ich odcinków w przypadku gdy statek przestał spełniać dodatkowe lub ograniczone wymagania techniczne, o których mowa w art. 29 ust. 2, dla danych rejonów żeglugi lub ich odcinków.
+- **1)** wydaje nowe uzupełniające unijne świadectwo zdolności żeglugowej – w przypadku gdy statek spełnia dodatkowe lub ograniczone wymagania techniczne, o których mowa w art. 29 ust. 2, dla danych rejonów żeglugi lub ich odcinków, albo
+- **2)** odmawia, w drodze decyzji, wydania uzupełniającego świadectwa zdolności żeglugowej dla danych rejonów żeglugi lub ich odcinków – w przypadku gdy statek przestał spełniać dodatkowe lub ograniczone wymagania techniczne, o których mowa w art. 29 ust. 2, dla danych rejonów żeglugi lub ich odcinków.
 
 5. Przepisy ust. 1–3 stosuje się odpowiednio w sprawie o przedłużenie terminu ważności unijnego świadectwa zdolności żeglugowej.
 
@@ -712,8 +716,8 @@ Art. 64–68. (pominięte)
 
 1. Unijne świadectwo zdolności żeglugowej wydaje się na czas oznaczony w zależności od rodzaju statku, nie dłuższy jednak niż:
 
-- **1)** 5 lat w przypadku statku pasażerskiego lub statku o napędzie mechanicznym, który może osiągnąć prędkość powyżej 40 km/h;
-- **2)** 10 lat w przypadku statku innego niż określony w pkt 1.
+- **1)** 5 lat – w przypadku statku pasażerskiego lub statku o napędzie mechanicznym, który może osiągnąć prędkość powyżej 40 km/h;
+- **2)** 10 lat – w przypadku statku innego niż określony w pkt 1.
 
 1a. Dyrektor urzędu żeglugi śródlądowej, wydając unijne świadectwo zdolności żeglugowej dla statku, który nie posiada jednolitego europejskiego numeru identyfikacyjnego statku (ENI), o przynależności polskiej lub przynależności do państwa, w którym nie nadaje się takiego numeru, nadaje temu statkowi jednolity europejski numer identyfikacyjny statku (ENI).
 
@@ -730,7 +734,7 @@ Art. 64–68. (pominięte)
 - **1)** szczegółowy sposób postępowania w przypadku wydawania, odnawiania, przedłużania i dokonywania zmian unijnego świadectwa zdolności żeglugowej,
 - **2)** wzory wniosków o wydanie unijnego świadectwa zdolności żeglugowej, jego odnowienie, przedłużenie lub dokonanie w nim zmian,
 - **3)** wzór unijnego świadectwa zdolności żeglugowej,
-- **4)** sposób nadawania jednolitego europejskiego numeru identyfikacyjnego statku (ENI) kierując się koniecznością ujednolicenia treści stosowanych dokumentów oraz zapewnienia sprawnego postępowania.
+- **4)** sposób nadawania jednolitego europejskiego numeru identyfikacyjnego statku (ENI) – kierując się koniecznością ujednolicenia treści stosowanych dokumentów oraz zapewnienia sprawnego postępowania.
 
 **Art. 33a.**
 
@@ -769,7 +773,7 @@ Art. 64–68. (pominięte)
 
 - **1)** szczegółowy sposób postępowania w przypadku wydawania, odnawiania i przedłużania uzupełniającego unijnego świadectwa zdolności żeglugowej,
 - **2)** wzory wniosku o wydanie, odnowienie lub przedłużenie uzupełniającego unijnego świadectwa zdolności żeglugowej,
-- **3)** wzór uzupełniającego unijnego świadectwa zdolności żeglugowej kierując się koniecznością ujednolicenia treści stosowanych dokumentów oraz zapewnienia sprawnego postępowania.
+- **3)** wzór uzupełniającego unijnego świadectwa zdolności żeglugowej – kierując się koniecznością ujednolicenia treści stosowanych dokumentów oraz zapewnienia sprawnego postępowania.
 
 **Art. 34.**
 
@@ -782,6 +786,86 @@ Art. 64–68. (pominięte)
 2. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wzór rejestru unijnych świadectw zdolności żeglugowej, kierując się wymaganiami prawa Unii Europejskiej.
 
 **Art. 34a.** (uchylony) Art. 34aa. 1. Dyrektor urzędu żeglugi śródlądowej na wniosek osoby, która uprawdopodobni swój uzasadniony interes, zapewnia dostęp do unijnego świadectwa zdolności żeglugowej. 2. Dostęp do unijnego świadectwa zdolności żeglugowej realizowany jest przez:
+
+- **1)** wgląd do unijnego świadectwa zdolności żeglugowej;
+- **2)** sporządzenie wyciągu lub uwierzytelnionego odpisu z unijnego świadectwa zdolności żeglugowej.
+
+3. Dyrektor urzędu żeglugi śródlądowej odmawia dostępu do danego unijnego świadectwa zdolności żeglugowej, o którym mowa w ust. 1, w drodze decyzji, w przypadku gdy zapewnienie dostępu do unijnego świadectwa zdolności żeglugowej naruszałoby przepisy innych ustaw, w szczególności ograniczających i wyłączających dostęp do informacji.
+
+4. Za sporządzenie wyciągu lub odpisu, o których mowa w ust. 2 pkt 2, pobiera się opłatę w wysokości określonej w załączniku do ustawy. Art. 34ab. 1. Dyrektor urzędu żeglugi śródlądowej wprowadza do Bazy EHDB, niezwłocznie po ich uzyskaniu, informacje o:
+
+- **1)** danych identyfikujących i opisujących statki, w tym jednolity europejski numer identyfikacyjny statku (ENI);
+- **2)** wydanych, odnowionych, przedłużonych i cofniętych unijnych świadectwach zdolności żeglugowej, tymczasowych unijnych świadectwach zdolności żeglugowej, uzupełniających unijnych świadectwach zdolności żeglugowej oraz wydanych duplikatach tych dokumentów, wraz ze wskazaniem organu, który dokonał wskazanej czynności – załączając ich odwzorowanie cyfrowe;
+- **3)** złożonych wnioskach o wydanie dokumentów, o których mowa w pkt 2, w przypadku pozostawienia bez rozpoznania – załączając tę informację;
+- **4)** zmianach danych, o których mowa w pkt 1–3.
+
+2. Dyrektor urzędu żeglugi śródlądowej po uzyskaniu informacji o zezłomowaniu statku niezwłocznie usuwa jego dane z Bazy EHDB.
+
+3. Dyrektor urzędu żeglugi śródlądowej jest uprawniony do przekazania danych, o których mowa w ust. 1, stanowiących dane osobowe, organom państwa trzeciego lub organizacji międzynarodowej w indywidualnie rozpatrywanych przypadkach w celu:
+
+- **1)** stosowania dyrektywy 2016/1629;
+- **2)** stosowania dyrektywy 2005/44/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie zharmonizowanych usług informacji rzecznej (RIS) na śródlądowych drogach wodnych we Wspólnocie (Dz. Urz. UE L 255 z 30.09.2005, str. 152, z późn. zm. );
+- **3)** zapewnienia zarządzania ruchem na drogach wodnych oraz związaną z nim infrastrukturą;
+- **4)** utrzymania lub wzmacniania bezpieczeństwa żeglugi;
+- **5)** gromadzenia danych statystycznych.
+
+4. Przekazywanie danych osobowych następuje na zasadach i warunkach przewidzianych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
+
+5. Przekazywanie danych, o których mowa w ust. 1, następuje z zachowaniem przepisów o tajemnicy prawnie chronionej.
+
+6. Dane osobowe nie mogą być dalej przekazywane, chyba że dyrektor urzędu żeglugi śródlądowej wyrazi na to pisemną zgodę, określając warunki tego przekazania, w szczególności warunki wynikające z przepisów, o których mowa w ust. 4 i 5. Art. 34ac. 1. Instytucja klasyfikacyjna, mająca w Rzeczypospolitej Polskiej swoją siedzibę lub siedzibę swojego podmiotu zależnego, rozumianego jako podmiot upoważniony do wydawania decyzji w imieniu instytucji klasyfikacyjnej oraz do dokonywania wszelkich czynności, do których jest uprawniona instytucja klasyfikacyjna na podstawie przepisów dotyczących transportu śródlądowego, jeżeli ten podmiot zależny jest uprawniony do wydawania poświadczeń zgodności potwierdzających spełnienie przez statek wymagań, o których mowa w art. 34b ust. 3, może ubiegać się o uznanie przez Komisję Europejską na zasadach określonych w dyrektywie 2016/1629.
+
+2. Instytucja klasyfikacyjna może zostać uznana przez Komisję Europejską, o ile spełnia następujące wymagania:
+
+- **1)** posiada szerokie doświadczenie w ocenie projektów statków żeglugi śródlądowej oraz nadzorze nad ich budową;
+- **2)** posiada kompleksowe akty prawne regulujące kwestie projektowania, budowy i okresowych inspekcji statków żeglugi śródlądowej, w szczególności dotyczące obliczania stateczności zgodnie z częścią 9 załącznika do Umowy europejskiej dotyczącej międzynarodowego przewozu śródlądowymi drogami wodnymi towarów niebezpiecznych (ADN) (Dz. U. z 2023 r. poz. 1167), zwanej dalej „ADN”, które:
+    - **a)** są sporządzone co najmniej w języku niderlandzkim, angielskim, francuskim lub niemieckim,
+    - **b)** podlegają bieżącej aktualizacji i ulepszaniu na podstawie programów badawczo-rozwojowych oraz
+    - **c)** nie są sprzeczne z przepisami prawa powszechnie obowiązującymi, w tym z umowami międzynarodowymi;
+
+- **3)** publikuje corocznie swój rejestr statków;
+- **4)** jest niezależna od właścicieli statków i stoczni oraz od innych podmiotów prowadzących działalność komercyjną w zakresie projektowania, budowy, wyposażania, remontowania, eksploatacji lub ubezpieczania statków;
+- **5)** jej dochody nie mogą pochodzić od jednego podmiotu;
+- **6)** posiada dobrą reputację w zakresie transportu śródlądowego;
+- **7)** eksperci działający na jej odpowiedzialność mają dobrą reputację w zakresie transportu śródlądowego oraz posiadają odpowiednie kwalifikacje zawodowe;
+- **8)** zatrudnia odpowiednią liczbę pracowników, w szczególności pracowników technicznych, kadry kierowniczej, personelu pomocniczego, inspektorów i personelu badawczego, która jest dostosowana do wykonywania przez instytucję klasyfikacyjną zadań oraz możliwości rozwojowych, przy uwzględnieniu liczby i rodzaju statków podlegających ocenie przez tę instytucję;
+- **9)** dysponuje ona inspektorami przynajmniej w jednym państwie członkowskim;
+- **10)** prowadzi działalność zgodnie z kodeksem etycznym;
+- **11)** jej kierownictwo i administracja działa w sposób zapewniający poufność informacji określony w przepisach odrębnych;
+- **12)** jest przygotowana do udzielania ministrowi właściwemu do spraw żeglugi śródlądowej informacji dotyczących prowadzonej działalności związanej z wykonywaniem funkcji instytucji klasyfikacyjnej, spełnienia wymagań, o których mowa w pkt 1–11 oraz 13–16 i ust. 3, oraz informacji niezbędnych do realizacji funkcji, o której mowa w art. 6 ust. 1b;
+- **13)** jej zarząd określa i dokumentuje swoją politykę, cele i zobowiązania dotyczące jakości oraz wykonuje, aktualizuje i zapewnia dostępność i jawność tej polityki na wszystkich szczeblach swojej struktury organizacyjnej;
+- **14)** opracowuje, realizuje oraz utrzymuje efektywny wewnętrzny system jakości, oparty na odpowiednich uznanych międzynarodowych normach jakości, zapewniający zgodność z normą PN-EN ISO/IEC 17020:2012, uwzględniający zasady certyfikacji systemów jakości zintegrowanego systemu zarządzania i kontroli oraz posiadający certyfikat, o którym mowa w ust. 3;
+- **15)** zobowiązuje się do dostosowywania swoich wymagań do przepisów Unii Europejskiej oraz do przedstawienia Komisji Europejskiej we właściwym terminie wszelkich istotnych informacji;
+- **16)** zobowiązuje się okresowo konsultować z dotychczas uznanymi instytucjami klasyfikacyjnymi w celu zagwarantowania równoważności stosowanych przez nie norm technicznych i sposobów ich wdrażania oraz zezwalać na udział w opracowywaniu swoich przepisów, o których mowa w pkt 2, przedstawicielom państwa członkowskiego i innym zainteresowanym stronom.
+
+3. Do uzyskania uznania instytucji klasyfikacyjnej, o którym mowa w ust. 1, wymagane jest, aby system jakości posiadał certyfikat niezależnego organu kontrolnego uznawanego przez administrację państwa, w którym znajduje się siedziba główna instytucji klasyfikacyjnej lub jej oddział, znajdujący się w jednym z państw członkowskich. System jakości zapewnia w szczególności, że:
+
+- **1)** akty prawne, o których mowa w ust. 2 pkt 2, zostały ustanowione, były przestrzegane i systematycznie aktualizowane;
+- **2)** przestrzegane były wymagania dotyczące zadań statutowych, do których wykonywania instytucja klasyfikacyjna jest uprawniona;
+- **3)** zdefiniowane i udokumentowane zostały zakres odpowiedzialności, uprawnienia oraz wzajemne relacje pracowników, których praca wpływa na jakość usług instytucji klasyfikacyjnej;
+- **4)** całość pracy była wykonywana w kontrolowanych warunkach;
+- **5)** istniał system kontroli czynności i pracy inspektorów oraz personelu technicznego i administracyjnego zatrudnionego bezpośrednio przez instytucję klasyfikacyjną;
+- **6)** wymagania dotyczące głównych zadań statutowych, do których wykonywania instytucja klasyfikacyjna jest uprawniona, były realizowane jedynie przez inspektorów działających wyłącznie na jej potrzeby lub przez inspektorów działających wyłącznie na potrzeby innych uznanych instytucji klasyfikacyjnych albo pod bezpośrednim nadzorem takich inspektorów;
+- **7)** został wdrożony system podnoszenia kwalifikacji i kształcenia ustawicznego dla inspektorów;
+- **8)** prowadzona była dokumentacja potwierdzająca osiągnięcie wymaganych norm w zakresie pozycji objętych świadczonymi usługami, jak również skuteczne działanie systemu jakości;
+- **9)** istniał kompleksowy system planowych i udokumentowanych wewnętrznych kontroli działań związanych z jakością we wszystkich lokalizacjach instytucji.
+
+4. Instytucja klasyfikacyjna, o której mowa w ust. 1, ubiegająca się o uznanie przez Komisję Europejską składa za pośrednictwem ministra właściwego do spraw żeglugi śródlądowej do Komisji Europejskiej wniosek o uznanie. Do wniosku należy załączyć informacje i dokumenty potwierdzające spełnienie wymogów, o których mowa w ust. 2 i 3.
+
+5. Minister właściwy do spraw żeglugi śródlądowej niezwłocznie przekazuje wniosek wraz z załącznikami do Komisji Europejskiej.
+
+6. Minister właściwy do spraw żeglugi śródlądowej ogłasza, w drodze obwieszczenia, wykaz instytucji klasyfikacyjnych uznanych zgodnie z ust. 1. Art. 34ad. 1. Instytucja klasyfikacyjna uznana przez Komisję Europejską jest obowiązana do niezwłocznego, jednak nie później niż w terminie 30 dni od dnia wystąpienia zmiany, zawiadomienia ministra właściwego do spraw żeglugi śródlądowej o każdej zmianie:
+
+- **1)** jej nazwy lub adresu,
+- **2)** dotyczącej spełnienia wymagań, o których mowa w art. 34ac ust. 2 lub 3 – załączając dokumenty i informacje potwierdzające zmianę.
+
+2. Minister właściwy do spraw żeglugi śródlądowej niezwłocznie informuje Komisję Europejską o zmianach, o których mowa w ust. 1 pkt 1.
+
+3. W przypadku powzięcia przez ministra właściwego do spraw żeglugi śródlądowej informacji o niespełnianiu przez uznaną instytucję klasyfikacyjną któregokolwiek z wymagań, o których mowa w art. 34ac ust. 2 lub 3, jest on uprawniony do przeprowadzenia w tym zakresie kontroli na zasadach i w trybie określonych w przepisach rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222).
+
+4. Jeżeli w wyniku przeprowadzonej kontroli lub w przypadku zawiadomienia, o którym mowa w ust. 1 pkt 2, uprawdopodobniono niespełnienie przez uznaną instytucję klasyfikacyjną któregokolwiek z wymagań, o których mowa w art. 34ac ust. 2 lub 3, minister właściwy do spraw żeglugi śródlądowej występuje z wnioskiem do Komisji Europejskiej o cofnięcie uznania dla danej instytucji klasyfikacyjnej.
+
+5. Minister właściwy do spraw żeglugi śródlądowej wraz z wnioskiem, o którym mowa w ust. 4, przekazuje dokumenty stanowiące podstawę tego wniosku.
 
 **Art. 34b.**
 
@@ -801,7 +885,7 @@ Art. 64–68. (pominięte)
 
 - **1)** został zwodowany przed dniem 1 stycznia 1950 r.;
 - **2)** zapewnia odpowiedni poziom bezpieczeństwa, w szczególności w zakresie bezpieczeństwa żeglugi, ustalony w wyniku przeprowadzonej inspekcji technicznej statku, oraz
-- **3)** ma nośność nieprzekraczającą 350 ton, a w przypadku statku nieprzeznaczonego do transportu towarów wyporność mniejszą niż 100 m .
+- **3)** ma nośność nieprzekraczającą 350 ton, a w przypadku statku nieprzeznaczonego do transportu towarów – wyporność mniejszą niż 100 m .
 
 4c. Dyrektor urzędu żeglugi śródlądowej, który udzielił odstępstwa, o którym mowa w ust. 4 lub 4b, niezwłocznie informuje o tym fakcie Komisję Europejską.
 
@@ -847,7 +931,7 @@ Art. 64–68. (pominięte)
 - **1)** radarowego sprzętu nawigacyjnego,
 - **2)** sprzętu Automatycznego Systemu Identyfikacji Statków (AIS) śródlądowego,
 - **3)** tachografów,
-- **4)** wskaźników skrętu który spełnia wymogi załącznika nr 5 normy europejskiej ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, o której mowa w załączniku nr 2 do dyrektywy 2016/1629, w zakresie badania instalacji i działania radarowych instalacji nawigacyjnych, wskaźników skrętu i sprzętu AIS śródlądowego, tachografów, dla żeglugi śródlądowej.
+- **4)** wskaźników skrętu – który spełnia wymogi załącznika nr 5 normy europejskiej ustanawiającej wymagania techniczne dla statków żeglugi śródlądowej, o której mowa w załączniku nr 2 do dyrektywy 2016/1629, w zakresie badania instalacji i działania radarowych instalacji nawigacyjnych, wskaźników skrętu i sprzętu AIS śródlądowego, tachografów, dla żeglugi śródlądowej.
 
 2. Świadectwo sprzętu nawigacyjnego wydaje, na wniosek armatora, dyrektor urzędu żeglugi śródlądowej, na podstawie zaświadczenia potwierdzającego pozytywny wynik z inspekcji sprzętu nawigacyjnego przeprowadzonej przez komisję inspekcyjną, albo upoważniony przedsiębiorca, o którym mowa w art. 34db.
 
@@ -872,7 +956,7 @@ Art. 64–68. (pominięte)
 
 4. Dyrektor urzędu żeglugi śródlądowej odmawia, w drodze decyzji, upoważnienia przedsiębiorcy, który nie spełnia wymagań, o których mowa w ust. 2.
 
-5. Dyrektor urzędu żeglugi śródlądowej jest uprawniony do przeprowadzenia kontroli upoważnionego przedsiębiorcy, o którym mowa w ust. 1, w zakresie spełniania przez niego wymagań, o których mowa w ust. 2, na zasadach i w trybie określonych w ustawie z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+5. Dyrektor urzędu żeglugi śródlądowej jest uprawniony do przeprowadzenia kontroli upoważnionego przedsiębiorcy, o którym mowa w ust. 1, w zakresie spełniania przez niego wymagań, o których mowa w ust. 2, na zasadach i w trybie określonych w ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 6. Dyrektor urzędu żeglugi śródlądowej cofa, w drodze decyzji, upoważnienie, o którym mowa w ust. 1, w przypadku stwierdzenia, że przedsiębiorca przestał spełniać wymagania określone w ust. 2.
 
@@ -889,8 +973,8 @@ Art. 64–68. (pominięte)
 1. Armator jest obowiązany:
 
 - **1)** przedstawić statek do inspekcji technicznej:
-    - **a)** wstępnej przed wydaniem lub odnowieniem dokumentu bezpieczeństwa statku,
-    - **b)** okresowej przed upływem terminów określonych w dokumencie bezpieczeństwa statku;
+    - **a)** wstępnej – przed wydaniem lub odnowieniem dokumentu bezpieczeństwa statku,
+    - **b)** okresowej – przed upływem terminów określonych w dokumencie bezpieczeństwa statku;
 
 - **2)** na żądanie organu inspekcyjnego, przedstawić niezwłocznie statek do inspekcji technicznej, przedłożyć wszystkie dokumenty dotyczące jego bezpieczeństwa oraz udzielić wszelkich informacji o stanie bezpieczeństwa statku;
 - **3)** na żądanie organu inspekcyjnego, dokonać czynności niezbędnych do umożliwienia przeprowadzenia inspekcji technicznej.
@@ -920,19 +1004,19 @@ Art. 64–68. (pominięte)
 1. Tymczasowe unijne świadectwo zdolności żeglugowej wydaje się dla statków, o których mowa w art. 30 ust. 1, posiadających zdolność żeglugową stwierdzoną w uzasadnionych przypadkach w wyniku inspekcji, w przypadku gdy:
 
 - **1)** statek, za zgodą dyrektora urzędu żeglugi śródlądowej, ma odbyć podróż do określonego miejsca w celu uzyskania unijnego świadectwa zdolności żeglugowej;
-- **2)** dla tego statku armator złożył wniosek o wydanie duplikatu unijnego świadectwa zdolności żeglugowej przed wydaniem tego duplikatu;
+- **2)** dla tego statku armator złożył wniosek o wydanie duplikatu unijnego świadectwa zdolności żeglugowej – przed wydaniem tego duplikatu;
 - **3)** dla tego statku dyrektor urzędu żeglugi śródlądowej odmówił wydania, odnowienia lub cofnął unijne świadectwo zdolności żeglugowej, a jego armator odwołał się od jednej z tych decyzji i postępowanie w tej sprawie nie jest zakończone;
-- **4)** uzyskano dokument, o którym mowa w art. 32 ust. 1 pkt 1, oraz złożono wniosek o wydanie unijnego świadectwa zdolności żeglugowej do czasu rozpatrzenia tego wniosku;
+- **4)** uzyskano dokument, o którym mowa w art. 32 ust. 1 pkt 1, oraz złożono wniosek o wydanie unijnego świadectwa zdolności żeglugowej – do czasu rozpatrzenia tego wniosku;
 - **5)** statek nie spełnia niektórych warunków wymaganych dla wydania unijnego świadectwa zdolności żeglugowej;
 - **6)** statek na skutek uszkodzenia nie jest zgodny z danymi zawartymi w unijnym świadectwie zdolności żeglugowej;
-- **7)** dla tego statku przyznano odstępstwa od wymagań technicznych zgodnie z art. 25 ust. 1 lub art. 26 ust. 1 dyrektywy 2016/1629 przed wydaniem odpowiednich aktów wykonawczych przez Komisję Europejską.
+- **7)** dla tego statku przyznano odstępstwa od wymagań technicznych zgodnie z art. 25 ust. 1 lub art. 26 ust. 1 dyrektywy 2016/1629 – przed wydaniem odpowiednich aktów wykonawczych przez Komisję Europejską.
 
 2. Do wniosku o wydanie tymczasowego unijnego świadectwa zdolności żeglugowej załącza się kopię dokumentu potwierdzającego zdolność żeglugową, a także w przypadku, o którym mowa w ust. 1:
 
-- **1)** pkt 1 zgodę dyrektora urzędu żeglugi śródlądowej na odbycie podróży do określonego miejsca w celu uzyskania unijnego świadectwa zdolności żeglugowej;
-- **2)** pkt 2 dokument potwierdzający złożenie wniosku o wydanie duplikatu unijnego świadectwa zdolności żeglugowej, jeżeli wniosek złożono do innego organu niż wydający duplikat unijnego świadectwa zdolności żeglugowej;
-- **3)** pkt 3 kopię decyzji o cofnięciu, odmowie wydania lub odnowienia unijnego świadectwa zdolności żeglugowej oraz dokument potwierdzający złożenie odwołania od tej decyzji, jeżeli wniosek złożono do innego organu niż wydający tę decyzję;
-- **4)** pkt 4 kopię zaświadczenia z przeprowadzonej inspekcji technicznej.
+- **1)** pkt 1 – zgodę dyrektora urzędu żeglugi śródlądowej na odbycie podróży do określonego miejsca w celu uzyskania unijnego świadectwa zdolności żeglugowej;
+- **2)** pkt 2 – dokument potwierdzający złożenie wniosku o wydanie duplikatu unijnego świadectwa zdolności żeglugowej, jeżeli wniosek złożono do innego organu niż wydający duplikat unijnego świadectwa zdolności żeglugowej;
+- **3)** pkt 3 – kopię decyzji o cofnięciu, odmowie wydania lub odnowienia unijnego świadectwa zdolności żeglugowej oraz dokument potwierdzający złożenie odwołania od tej decyzji, jeżeli wniosek złożono do innego organu niż wydający tę decyzję;
+- **4)** pkt 4 – kopię zaświadczenia z przeprowadzonej inspekcji technicznej.
 
 3. W tymczasowym unijnym świadectwie zdolności żeglugowej określa się warunki uprawiania żeglugi, w tym wymagania bezpieczeństwa dla statku, niezbędne w celu zapewnienia bezpieczeństwa żeglugi, biorąc pod uwagę rodzaj, przeznaczenie statku oraz przesłankę wydania tego dokumentu, o której mowa w ust. 1 pkt 1–7.
 
@@ -940,10 +1024,10 @@ Art. 64–68. (pominięte)
 
 5. Tymczasowe unijne świadectwo zdolności żeglugowej wydaje się na czas oznaczony, w przypadku, o którym mowa w ust. 1:
 
-- **1)** pkt 1, 5 i 6 na okres jednorazowej podróży, jednak nie dłuższy niż miesiąc od dnia wydania tego dokumentu;
-- **2)** pkt 2 i 4 na okres nie dłuższy niż 2 miesiące;
-- **3)** pkt 3 na okres nie dłuższy niż 6 miesięcy;
-- **4)** pkt 7 na okres 6 miesięcy.
+- **1)** pkt 1, 5 i 6 – na okres jednorazowej podróży, jednak nie dłuższy niż miesiąc od dnia wydania tego dokumentu;
+- **2)** pkt 2 i 4 – na okres nie dłuższy niż 2 miesiące;
+- **3)** pkt 3 – na okres nie dłuższy niż 6 miesięcy;
+- **4)** pkt 7 – na okres 6 miesięcy.
 
 6. Przedłużenie tymczasowego unijnego świadectwa zdolności żeglugowej możliwe jest w przypadku, o którym mowa w ust. 1 pkt 7.
 
@@ -959,7 +1043,7 @@ Art. 64–68. (pominięte)
 
 **Art. 34i.**
 
-1. Świadectwo zdolności żeglugowej wydaje się dla statku przeznaczonego do przewozu ładunków o nośności nie mniejszej niż 15 t, używanego do przewozu ponad 12 pasażerów, oraz holowników lub pchaczy innych niż określone w art. 30 ust. 1.
+1. Świadectwo zdolności żeglugowej wydaje się dla statku przeznaczonego do przewozu ładunków o nośności nie mniejszej niż 15 t, używanego do przewozu ponad 12 pasażerów, oraz holowników lub pchaczy – innych niż określone w art. 30 ust. 1.
 
 2. Dla statku innego niż wymieniony w ust. 1 i art. 30 ust. 1 wydaje się uproszczone świadectwo zdolności żeglugowej.
 
@@ -1021,8 +1105,8 @@ Art. 64–68. (pominięte)
 
 1. Świadectwo zdolności żeglugowej i uproszczone świadectwo zdolności żeglugowej wydaje się na czas oznaczony w zależności od rodzaju statku, nie dłuższy jednak niż:
 
-- **1)** 5 lat w przypadku statku o napędzie mechanicznym;
-- **2)** 10 lat w przypadku statku bez napędu mechanicznego.
+- **1)** 5 lat – w przypadku statku o napędzie mechanicznym;
+- **2)** 10 lat – w przypadku statku bez napędu mechanicznego.
 
 2. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, wzory świadectwa zdolności żeglugowej i uproszczonego świadectwa zdolności żeglugowej oraz terminy, na jakie się je wydaje, w zależności od rodzajów statków, o których mowa w art. 34i ust. 1 i 2, tryb ich wydawania, przedłużania, cofania i dokonywania w nich zmian, kierując się względami bezpieczeństwa żeglugi, wymaganiami międzynarodowymi oraz koniecznością ujednolicenia treści stosowanych dokumentów.
 
@@ -1077,6 +1161,9 @@ Art. 64–68. (pominięte)
 
 **Art. 35a.** Do uzyskania albo przedłużenia ważności:
 
+- **1)** unijnych świadectw kwalifikacji i szczególnego zezwolenia dla kapitana – jest wymagana praktyka pływania, liczona w dniach, odbyta przez członków załogi statków żeglugi śródlądowej w służbie pokładowej na pokładzie statku żeglugi w trakcie rejsu po śródlądowych drogach wodnych państw członkowskich, a w przypadku śródlądowych dróg wodnych, które nie leżą w całości na terytorium Unii Europejskiej, również na odcinkach położonych poza tym terytorium, w tym również operacje załadunku i rozładunku wymagające czynnych działań nawigacyjnych;
+- **2)** dokumentów kwalifikacyjnych innych niż wymienione w pkt 1 – jest wymagana praktyka pływania, liczona w dniach, odbyta przez członków załogi statku żeglugi śródlądowej odpowiednio w służbie pokładowej lub mechanicznej na pokładzie statku w trakcie rejsu po wodach śródlądowych, w tym również operacje załadunku i rozładunku wymagające czynnych działań nawigacyjnych.
+
 **Art. 35b.**
 
 1. W służbie pokładowej ustala się następujące dokumenty kwalifikacyjne:
@@ -1092,7 +1179,7 @@ Art. 64–68. (pominięte)
 
 - **3)** na poziomie zarządzania:
     - **a)** unijne świadectwo kwalifikacji kapitana żeglugi śródlądowej,
-    - **b)** szczególne zezwolenie dla kapitana na: uprawianie żeglugi na wodach morskich, uprawianie żeglugi z pomocą radaru, prowadzenie dużego konwoju;
+    - **b)** szczególne zezwolenie dla kapitana na: – uprawianie żeglugi na wodach morskich, – uprawianie żeglugi z pomocą radaru, – prowadzenie dużego konwoju;
 
 - **4)** do wykonywania szczególnych operacji:
     - **a)** unijne świadectwo kwalifikacji eksperta w dziedzinie żeglugi pasażerskiej,
@@ -1110,34 +1197,34 @@ Art. 64–68. (pominięte)
 4. Do uzyskania unijnego świadectwa kwalifikacji marynarza żeglugi śródlądowej jest wymagane spełnienie jednego z poniższych wymagań:
 
 - **1)** ukończenie zatwierdzonego programu szkolenia trwającego co najmniej dwa lata i obejmującego standardy kompetencji oraz odpowiadającej im wiedzy i umiejętności dla poziomu operacyjnego oraz odbycie w ramach tego zatwierdzonego programu szkolenia praktyki pływania na statku niebędącym małym statkiem wynoszącej co najmniej 90 dni albo
-- **2)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 360 dni lub w przypadku, w którym wnioskodawca może przedstawić dowód posiadania doświadczenia zawodowego wynoszącego co najmniej 250 dni, które wnioskodawca zdobył na statku morskim w charakterze członka załogi pokładowej co najmniej 180 dni, oraz uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku, albo
+- **2)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 360 dni lub – w przypadku, w którym wnioskodawca może przedstawić dowód posiadania doświadczenia zawodowego wynoszącego co najmniej 250 dni, które wnioskodawca zdobył na statku morskim w charakterze członka załogi pokładowej – co najmniej 180 dni, oraz uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku, albo
 - **3)** przed przystąpieniem do zatwierdzonego programu szkolenia posiadanie:
     - **a)** co najmniej pięcioletniego doświadczenia zawodowego lub
     - **b)** co najmniej 500 dni doświadczenia zawodowego na statku morskim jako członek załogi pokładowej, lub
-    - **c)** ukończonego szkolenia zawodowego trwającego co najmniej trzy lata oraz ukończenie zatwierdzonego programu szkolenia obejmującego standardy kompetencji oraz odpowiadającej im wiedzy i umiejętności dla poziomu operacyjnego trwającego co najmniej dziewięć miesięcy i odbycie w ramach tego zatwierdzonego programu szkolenia praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 90 dni.
+    - **c)** ukończonego szkolenia zawodowego trwającego co najmniej trzy lata – oraz ukończenie zatwierdzonego programu szkolenia obejmującego standardy kompetencji oraz odpowiadającej im wiedzy i umiejętności dla poziomu operacyjnego trwającego co najmniej dziewięć miesięcy i odbycie w ramach tego zatwierdzonego programu szkolenia praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 90 dni.
 
 5. Do uzyskania unijnego świadectwa kwalifikacji starszego marynarza żeglugi śródlądowej jest wymagane spełnienie jednego z poniższych wymagań:
 
-- **1)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 180 dni i w trakcie odbywania tej praktyki posiadanie unijnego świadectwa kwalifikacji marynarza żeglugi śródlądowej lub świadectwa marynarza uznanego na podstawie art. 35 ust. 3 albo
+- **1)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 180 dni i w trakcie odbywania tej praktyki posiadanie unijnego świadectwa kwalifikacji marynarza żeglugi śródlądowej lub świadectwa marynarza – uznanego na podstawie art. 35 ust. 3 albo
 - **2)** ukończenie zatwierdzonego programu szkolenia obejmującego standardy kompetencji oraz odpowiadającej im wiedzy i umiejętności dla poziomu operacyjnego trwającego co najmniej trzy lata i odbycie w ramach tego zatwierdzonego programu szkolenia praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 270 dni.
 
 6. Do uzyskania unijnego świadectwa kwalifikacji sternika żeglugi śródlądowej jest wymagane spełnienie jednego z poniższych wymagań:
 
-- **1)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 180 dni i w trakcie odbywania tej praktyki posiadanie unijnego świadectwa kwalifikacji starszego marynarza żeglugi śródlądowej lub świadectwa starszego marynarza uznanego na podstawie art. 35 ust. 3, oraz posiadanie świadectwa operatora radiowego albo
+- **1)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 180 dni i w trakcie odbywania tej praktyki posiadanie unijnego świadectwa kwalifikacji starszego marynarza żeglugi śródlądowej lub świadectwa starszego marynarza – uznanego na podstawie art. 35 ust. 3, oraz posiadanie świadectwa operatora radiowego albo
 - **2)** ukończenie zatwierdzonego programu szkolenia obejmującego standardy kompetencji dla poziomu operacyjnego oraz odpowiadającej im wiedzy i umiejętności trwającego co najmniej trzy lata, odbycie w ramach tego zatwierdzonego programu szkolenia praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 360 dni oraz posiadanie świadectwa operatora radiowego, albo
 - **3)** posiadanie co najmniej 500 dni doświadczenia zawodowego jako kapitan żeglugi morskiej, uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku oraz posiadanie świadectwa operatora radiowego.
 
 7. Do uzyskania unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej jest wymagane spełnienie jednego z poniższych wymagań:
 
 - **1)** ukończenie zatwierdzonego programu szkolenia obejmującego standardy kompetencji oraz odpowiadającej im wiedzy i umiejętności dla poziomu zarządzania trwającego co najmniej trzy lata, odbycie w ramach tego zatwierdzonego programu szkolenia lub po jego ukończeniu praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 360 dni oraz posiadanie świadectwa operatora radiowego albo
-- **2)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 180 dni i w trakcie odbywania tej praktyki posiadanie unijnego świadectwa kwalifikacji sternika żeglugi śródlądowej lub świadectwa sternika uznanego na podstawie art. 35 ust. 3, uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku oraz posiadanie świadectwa operatora radiowego, albo
-- **3)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 540 dni lub w przypadku, w którym wnioskodawca może przedstawić dowód posiadania doświadczenia zawodowego wynoszącego co najmniej 500 dni, które wnioskodawca zdobył na statku morskim w charakterze członka załogi pokładowej co najmniej 180 dni, uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku oraz posiadanie świadectwa operatora radiowego, albo
+- **2)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 180 dni i w trakcie odbywania tej praktyki posiadanie unijnego świadectwa kwalifikacji sternika żeglugi śródlądowej lub świadectwa sternika – uznanego na podstawie art. 35 ust. 3, uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku oraz posiadanie świadectwa operatora radiowego, albo
+- **3)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 540 dni lub – w przypadku, w którym wnioskodawca może przedstawić dowód posiadania doświadczenia zawodowego wynoszącego co najmniej 500 dni, które wnioskodawca zdobył na statku morskim w charakterze członka załogi pokładowej – co najmniej 180 dni, uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku oraz posiadanie świadectwa operatora radiowego, albo
 - **4)** posiadanie przed przystąpieniem do zatwierdzonego programu szkolenia co najmniej pięcioletniego doświadczenia zawodowego lub co najmniej 500 dni doświadczenia zawodowego na statku morskim jako członek załogi pokładowej lub ukończonego, przed przystąpieniem do zatwierdzonego programu szkolenia, szkolenia zawodowego trwającego co najmniej trzy lata, ukończenie zatwierdzonego programu szkolenia obejmującego standardy kompetencji oraz odpowiadające im wiedzę i umiejętności dla poziomu zarządzania trwającego co najmniej półtora roku, odbycie w ramach tego zatwierdzonego programu szkolenia praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 180 dni, a po ukończeniu tego programu odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 180 dni oraz posiadanie świadectwa operatora radiowego.
 
 8. Do uzyskania szczególnego zezwolenia dla kapitana jest wymagane:
 
-- **1)** uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku w przypadku szczególnego zezwolenia na uprawianie żeglugi na wodach morskich lub na uprawianie żeglugi z pomocą radaru;
-- **2)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 720 dni, w tym przez co najmniej 540 dni w trakcie odbywania tej praktyki posiadanie unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej lub świadectwa kapitana uznanego na podstawie art. 35 ust. 3 i przez co najmniej 180 dni zajmowanie stanowiska sternika dużego konwoju w przypadku szczególnego zezwolenia na prowadzenie dużego konwoju.
+- **1)** uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku – w przypadku szczególnego zezwolenia na uprawianie żeglugi na wodach morskich lub na uprawianie żeglugi z pomocą radaru;
+- **2)** odbycie praktyki pływania w służbie pokładowej na statku niebędącym małym statkiem wynoszącej co najmniej 720 dni, w tym przez co najmniej 540 dni w trakcie odbywania tej praktyki posiadanie unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej lub świadectwa kapitana – uznanego na podstawie art. 35 ust. 3 i przez co najmniej 180 dni zajmowanie stanowiska sternika dużego konwoju – w przypadku szczególnego zezwolenia na prowadzenie dużego konwoju.
 
 9. Do uzyskania unijnego świadectwa kwalifikacji eksperta w dziedzinie żeglugi pasażerskiej jest wymagane uzyskanie pozytywnego wyniku z egzaminu z zakresu wiedzy i umiejętności wymaganych na tym stanowisku.
 
@@ -1165,16 +1252,16 @@ Art. 64–68. (pominięte)
 - **1)** unijne świadectwo kwalifikacji młodszego marynarza żeglugi śródlądowej uprawnia do zajmowania stanowiska młodszego marynarza na każdym statku żeglugi śródlądowej, a po odbyciu dodatkowej 90-dniowej praktyki i jej zatwierdzeniu, również do kierowania małymi statkami bez napędu mechanicznego;
 - **2)** unijne świadectwo kwalifikacji praktykanta żeglugi śródlądowej uprawnia do zajmowania stanowiska praktykanta na każdym statku żeglugi śródlądowej;
 - **3)** unijne świadectwo kwalifikacji marynarza żeglugi śródlądowej uprawnia do:
-    - **a)** zajmowania stanowiska: marynarza na każdym statku żeglugi śródlądowej, kierownika obiektu pływającego,
-    - **b)** kierowania: małymi statkami bez napędu mechanicznego, scalonymi materiałami pływającymi o iloczynie długości i szerokości nieprzekraczającym 20 m ;
+    - **a)** zajmowania stanowiska: – marynarza na każdym statku żeglugi śródlądowej, – kierownika obiektu pływającego,
+    - **b)** kierowania: – małymi statkami bez napędu mechanicznego, – scalonymi materiałami pływającymi o iloczynie długości i szerokości nieprzekraczającym 20 m ;
 
 - **4)** unijne świadectwo kwalifikacji starszego marynarza żeglugi śródlądowej uprawnia do:
-    - **a)** zajmowania stanowiska: starszego marynarza na każdym statku żeglugi śródlądowej, kierownika obiektu pływającego,
-    - **b)** kierowania: małymi statkami bez napędu mechanicznego, scalonymi materiałami pływającymi;
+    - **a)** zajmowania stanowiska: – starszego marynarza na każdym statku żeglugi śródlądowej, – kierownika obiektu pływającego,
+    - **b)** kierowania: – małymi statkami bez napędu mechanicznego, – scalonymi materiałami pływającymi;
 
 - **5)** unijne świadectwo kwalifikacji sternika żeglugi śródlądowej uprawnia do:
-    - **a)** zajmowania stanowiska: sternika na każdym statku żeglugi śródlądowej, kierownika obiektu pływającego,
-    - **b)** kierowania: małymi statkami bez napędu mechanicznego, scalonymi materiałami pływającymi;
+    - **a)** zajmowania stanowiska: – sternika na każdym statku żeglugi śródlądowej, – kierownika obiektu pływającego,
+    - **b)** kierowania: – małymi statkami bez napędu mechanicznego, – scalonymi materiałami pływającymi;
 
 - **6)** unijne świadectwo kwalifikacji kapitana żeglugi śródlądowej uprawnia do zajmowania stanowiska kierownika na każdym statku żeglugi śródlądowej, z uwzględnieniem art. 35e ust. 1;
 - **7)** unijne świadectwo kwalifikacji eksperta w dziedzinie żeglugi pasażerskiej uprawnia do zajmowania stanowiska eksperta w dziedzinie żeglugi pasażerskiej na każdym statku pasażerskim żeglugi śródlądowej;
@@ -1221,41 +1308,41 @@ Art. 64–68. (pominięte)
 - **1)** imię (imiona) i nazwisko wnioskodawcy;
 - **2)** datę i miejsce urodzenia wnioskodawcy;
 - **3)** adres zamieszkania wnioskodawcy;
-- **4)** numer identyfikacyjny członka załogi jeżeli został nadany;
+- **4)** numer identyfikacyjny członka załogi – jeżeli został nadany;
 - **5)** przedmiot wniosku.
 
 3. Do wniosku, o którym mowa w ust. 1, załącza się:
 
-- **1)** aktualną fotografię o wymiarach 3,5 × 4,5 cm w przypadku unijnych świadectw kwalifikacji kapitana żeglugi śródlądowej, eksperta w dziedzinie żeglugi pasażerskiej lub eksperta w dziedzinie skroplonego gazu ziemnego;
+- **1)** aktualną fotografię o wymiarach 3,5 × 4,5 cm – w przypadku unijnych świadectw kwalifikacji kapitana żeglugi śródlądowej, eksperta w dziedzinie żeglugi pasażerskiej lub eksperta w dziedzinie skroplonego gazu ziemnego;
 - **2)** wyciąg pływania będący odpowiednio wyciągiem z:
-    - **a)** zatwierdzonych wpisów w żeglarskiej książeczce pracy lub w dokumencie będącym połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy i potwierdzony przez dyrektora urzędu żeglugi śródlądowej, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz: śródlądowe drogi wodne, na których została odbyta praktyka pływania w przypadku wniosku o wydanie unijnego świadectwa kwalifikacji, wody śródlądowe, na których została odbyta praktyka pływania w przypadku pozostałych dokumentów kwalifikacyjnych, lub
-    - **b)** książki kontroli pracy sprzętu transportowego lub innego dokumentu potwierdzającego przebieg służby, potwierdzony przez właściwego kierownika jednostki organizacyjnej służb podległych ministrowi właściwemu do spraw wewnętrznych, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz wody śródlądowe, na których praktyka pływania została odbyta w przypadku patentów młodszego stermotorzysty i stermotorzysty żeglugi śródlądowej w przypadku gdy zgodnie z art. 35b ust. 4–13 i art. 35c ust. 2 i 3 określono wymóg odbycia praktyki pływania;
+    - **a)** zatwierdzonych wpisów w żeglarskiej książeczce pracy lub w dokumencie będącym połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy i potwierdzony przez dyrektora urzędu żeglugi śródlądowej, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz: – śródlądowe drogi wodne, na których została odbyta praktyka pływania – w przypadku wniosku o wydanie unijnego świadectwa kwalifikacji, – wody śródlądowe, na których została odbyta praktyka pływania – w przypadku pozostałych dokumentów kwalifikacyjnych, lub
+    - **b)** książki kontroli pracy sprzętu transportowego lub innego dokumentu potwierdzającego przebieg służby, potwierdzony przez właściwego kierownika jednostki organizacyjnej służb podległych ministrowi właściwemu do spraw wewnętrznych, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz wody śródlądowe, na których praktyka pływania została odbyta – w przypadku patentów młodszego stermotorzysty i stermotorzysty żeglugi śródlądowej – w przypadku gdy zgodnie z art. 35b ust. 4–13 i art. 35c ust. 2 i 3 określono wymóg odbycia praktyki pływania;
 
-- **3)** wyciąg pływania będący wyciągiem z dokumentu potwierdzającego praktykę pływania na wodach morskich potwierdzony przez właściwy organ lub kopię innego dokumentu stwierdzającego posiadanie morskich kwalifikacji zawodowych w przypadku gdy zgodnie z art. 35b ust. 4–13 i art. 35c ust. 2 i 3 określono wymóg odbycia takiej praktyki pływania lub posiadania takiego dokumentu;
-- **4)** zaświadczenie właściwej komisji egzaminacyjnej o uzyskaniu pozytywnego wyniku z egzaminu z zakresu wymaganej wiedzy i umiejętności wymaganych do uzyskania dokumentu kwalifikacyjnego, o którego wydanie wnioskodawca się ubiega w przypadku gdy zgodnie z art. 35b ust. 4–13 i art. 35c ust. 2 i 3 określono konieczność przeprowadzenia egzaminu dla tego rodzaju dokumentu;
-- **5)** kopię umowy o praktyki zawartej przez wnioskodawcę z armatorem albo zaświadczenie wydane przez uczelnię lub szkołę ponadpodstawową prowadzące kształcenie w zakresie żeglugi śródlądowej potwierdzające, że wnioskodawca w ramach zajęć prowadzonych przez tę uczelnię lub szkołę ponadpodstawową będzie odbywał praktykę na statkach żeglugi śródlądowej w przypadku unijnego świadectwa kwalifikacji praktykanta żeglugi śródlądowej;
-- **6)** kopię dokumentu potwierdzającego ukończenie zatwierdzonego programu szkolenia w przypadku gdy wnioskodawca ukończył taki program szkolenia;
+- **3)** wyciąg pływania będący wyciągiem z dokumentu potwierdzającego praktykę pływania na wodach morskich potwierdzony przez właściwy organ lub kopię innego dokumentu stwierdzającego posiadanie morskich kwalifikacji zawodowych – w przypadku gdy zgodnie z art. 35b ust. 4–13 i art. 35c ust. 2 i 3 określono wymóg odbycia takiej praktyki pływania lub posiadania takiego dokumentu;
+- **4)** zaświadczenie właściwej komisji egzaminacyjnej o uzyskaniu pozytywnego wyniku z egzaminu z zakresu wymaganej wiedzy i umiejętności wymaganych do uzyskania dokumentu kwalifikacyjnego, o którego wydanie wnioskodawca się ubiega – w przypadku gdy zgodnie z art. 35b ust. 4–13 i art. 35c ust. 2 i 3 określono konieczność przeprowadzenia egzaminu dla tego rodzaju dokumentu;
+- **5)** kopię umowy o praktyki zawartej przez wnioskodawcę z armatorem albo zaświadczenie wydane przez uczelnię lub szkołę ponadpodstawową prowadzące kształcenie w zakresie żeglugi śródlądowej potwierdzające, że wnioskodawca w ramach zajęć prowadzonych przez tę uczelnię lub szkołę ponadpodstawową będzie odbywał praktykę na statkach żeglugi śródlądowej – w przypadku unijnego świadectwa kwalifikacji praktykanta żeglugi śródlądowej;
+- **6)** kopię dokumentu potwierdzającego ukończenie zatwierdzonego programu szkolenia – w przypadku gdy wnioskodawca ukończył taki program szkolenia;
 - **7)** kopię świadectwa zdrowia, o którym mowa w art. 36b ust. 2;
-- **8)** kopie dokumentów potwierdzających posiadanie odpowiedniego wykształcenia w przypadkach przewidzianych w art. 35b ust. 4–13 i art. 35c ust. 2 i 3;
-- **9)** dokument będący połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, a w przypadku osób, które nie posiadają takiego dokumentu, wniosek o wydanie dokumentu będącego połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, o którym mowa w art. 38 ust. 1 w przypadku dokumentów, o których mowa w art. 35 ust. 2 pkt 1 i 3–5, z wyjątkiem unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej;
-- **10)** kopię dokumentu potwierdzającego odbycie podstawowego przeszkolenia w zakresie bezpieczeństwa i higieny pracy na statkach w przypadku unijnego świadectwa kwalifikacji młodszego marynarza żeglugi śródlądowej;
-- **11)** kopię dokumentu, o którym mowa w art. 37a ust. 3, potwierdzającego posiadanie uprawnień do uprawiania turystyki wodnej na jachtach motorowych w przypadku patentu żeglarskiego młodszego stermotorzysty żeglugi śródlądowej;
-- **12)** kopię dokumentu potwierdzającego posiadanie stopnia chorążego Marynarki Wojennej albo Straży Granicznej w dziale pokładowym w przypadku patentu żeglarskiego stermotorzysty żeglugi śródlądowej;
+- **8)** kopie dokumentów potwierdzających posiadanie odpowiedniego wykształcenia – w przypadkach przewidzianych w art. 35b ust. 4–13 i art. 35c ust. 2 i 3;
+- **9)** dokument będący połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, a w przypadku osób, które nie posiadają takiego dokumentu, wniosek o wydanie dokumentu będącego połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, o którym mowa w art. 38 ust. 1 – w przypadku dokumentów, o których mowa w art. 35 ust. 2 pkt 1 i 3–5, z wyjątkiem unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej;
+- **10)** kopię dokumentu potwierdzającego odbycie podstawowego przeszkolenia w zakresie bezpieczeństwa i higieny pracy na statkach – w przypadku unijnego świadectwa kwalifikacji młodszego marynarza żeglugi śródlądowej;
+- **11)** kopię dokumentu, o którym mowa w art. 37a ust. 3, potwierdzającego posiadanie uprawnień do uprawiania turystyki wodnej na jachtach motorowych – w przypadku patentu żeglarskiego młodszego stermotorzysty żeglugi śródlądowej;
+- **12)** kopię dokumentu potwierdzającego posiadanie stopnia chorążego Marynarki Wojennej albo Straży Granicznej w dziale pokładowym – w przypadku patentu żeglarskiego stermotorzysty żeglugi śródlądowej;
 - **13)** kopię dokumentu potwierdzającego posiadanie:
     - **a)** stopnia oficera służby mechanicznej Marynarki Wojennej albo
     - **b)** stopnia oficera Straży Granicznej o specjalności mechanika, albo
-    - **c)** dyplomu oficera mechanika w żegludze morskiej w przypadku patentu mechanika statkowego żeglugi śródlądowej;
+    - **c)** dyplomu oficera mechanika w żegludze morskiej – w przypadku patentu mechanika statkowego żeglugi śródlądowej;
 
 - **14)** kopię dokumentu potwierdzającego posiadanie:
     - **a)** co najmniej stopnia marynarza albo podoficera rezerwy Marynarki Wojennej albo Straży Granicznej o specjalności motorzysty okrętowego albo
-    - **b)** świadectwa motorzysty wachtowego w żegludze morskiej w przypadku świadectwa motorzysty żeglugi śródlądowej.
+    - **b)** świadectwa motorzysty wachtowego w żegludze morskiej – w przypadku świadectwa motorzysty żeglugi śródlądowej.
 
 4. Dokumenty, o których mowa w art. 35 ust. 2 pkt 1 i 3–5, z wyjątkiem unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej, wydaje się przez dokonanie stosownego wpisu w dokumencie będącym połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy.
 
 5. Dokumenty, o których mowa w art. 35 ust. 2, wydaje się na okres ważności świadectwa zdrowia, o którym mowa w art. 36b ust. 2, przy czym unijne świadectwo kwalifikacji:
 
-- **1)** kapitana żeglugi śródlądowej na okres nie dłuższy niż 13 lat;
-- **2)** do wykonywania szczególnych operacji na okres nie dłuższy niż 5 lat.
+- **1)** kapitana żeglugi śródlądowej – na okres nie dłuższy niż 13 lat;
+- **2)** do wykonywania szczególnych operacji – na okres nie dłuższy niż 5 lat.
 
 6. Dyrektor urzędu żeglugi śródlądowej przedłuża ważność dokumentów, o których mowa w art. 35 ust. 2, których ważność wygasła lub wkrótce wygaśnie, na wniosek posiadacza dokumentu.
 
@@ -1273,7 +1360,7 @@ Art. 64–68. (pominięte)
 - **1)** uprawia żeglugę na znajdujących się na terytorium Rzeczypospolitej Polskiej wodach morskich stanowiących śródlądowe drogi wodne państw członkowskich, które są określone w przepisach wydanych na podstawie art. 29 ust. 3, lub
 - **2)** uprawia żeglugę z pomocą radaru, lub
 - **3)** prowadzi statek napędzany skroplonym gazem ziemnym, lub
-- **4)** prowadzi duży konwój, przez który rozumie się zestaw pchany, którego iloczyn całkowitej długości i całkowitej szerokości jednostki pchanej wynosi co najmniej 7000 m oprócz posiadania unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej dodatkowo ma posiadać szczególne zezwolenie dla kapitana, odpowiednie dla rodzaju żeglugi.
+- **4)** prowadzi duży konwój, przez który rozumie się zestaw pchany, którego iloczyn całkowitej długości i całkowitej szerokości jednostki pchanej wynosi co najmniej 7000 m – oprócz posiadania unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej dodatkowo ma posiadać szczególne zezwolenie dla kapitana, odpowiednie dla rodzaju żeglugi.
 
 2. Minister właściwy do spraw żeglugi śródlądowej sporządza wykaz wód morskich znajdujących się na terytorium Rzeczypospolitej Polskiej stanowiących śródlądowe drogi wodne państw członkowskich, które są określone w przepisach wydanych na podstawie art. 29 ust. 3, i przekazuje go oraz każdą jego zmianę Komisji Europejskiej.
 
@@ -1286,14 +1373,14 @@ Art. 64–68. (pominięte)
 - **1)** imię (imiona) i nazwisko wnioskodawcy;
 - **2)** datę i miejsce urodzenia wnioskodawcy;
 - **3)** adres zamieszkania wnioskodawcy;
-- **4)** numer identyfikacyjny członka załogi jeżeli został nadany;
+- **4)** numer identyfikacyjny członka załogi – jeżeli został nadany;
 - **5)** przedmiot wniosku.
 
 6. Do wniosku, o którym mowa w ust. 4, dołącza się:
 
-- **1)** unijne świadectwo kwalifikacji kapitana żeglugi śródlądowej jeżeli wnioskodawca jednocześnie nie występuje o wydanie unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej;
-- **2)** wyciąg pływania będący odpowiednio wyciągiem z zatwierdzonych wpisów w żeglarskiej książeczce pracy lub w dokumencie będącym połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, potwierdzony przez dyrektora urzędu żeglugi śródlądowej, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz śródlądowe drogi wodne, na których została odbyta praktyka pływania w przypadku szczególnego zezwolenia dla kapitana na prowadzenie dużego konwoju;
-- **3)** zaświadczenie właściwej komisji egzaminacyjnej o uzyskaniu pozytywnego wyniku z egzaminu z zakresu wymaganych na tym stanowisku wiedzy i umiejętności w przypadku szczególnego zezwolenia dla kapitana na uprawianie żeglugi na wodach morskich lub na uprawianie żeglugi z pomocą radaru.
+- **1)** unijne świadectwo kwalifikacji kapitana żeglugi śródlądowej – jeżeli wnioskodawca jednocześnie nie występuje o wydanie unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej;
+- **2)** wyciąg pływania będący odpowiednio wyciągiem z zatwierdzonych wpisów w żeglarskiej książeczce pracy lub w dokumencie będącym połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, potwierdzony przez dyrektora urzędu żeglugi śródlądowej, stwierdzający odbycie wymaganej praktyki pływania na określonym stanowisku i wymieniający rodzaje statków oraz śródlądowe drogi wodne, na których została odbyta praktyka pływania – w przypadku szczególnego zezwolenia dla kapitana na prowadzenie dużego konwoju;
+- **3)** zaświadczenie właściwej komisji egzaminacyjnej o uzyskaniu pozytywnego wyniku z egzaminu z zakresu wymaganych na tym stanowisku wiedzy i umiejętności – w przypadku szczególnego zezwolenia dla kapitana na uprawianie żeglugi na wodach morskich lub na uprawianie żeglugi z pomocą radaru.
 
 7. Szczególne zezwolenie dla kapitana, o którym mowa w ust. 1 pkt 1, 2 i 4, wydaje się przez wydanie unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej zawierającego informacje o posiadaniu szczególnego zezwolenia dla kapitana, o którym mowa w ust. 1.
 
@@ -1309,27 +1396,27 @@ Art. 64–68. (pominięte)
 
 1. Dokument, o którym mowa w art. 35 ust. 2 pkt 1 i 3–5, może uzyskać osoba, która:
 
-- **1)** ukończyła lat, z tym że w przypadku unijnego świadectwa:
-    - **a)** praktykanta ukończyła 15 lat,
-    - **b)** młodszego marynarza ukończyła 16 lat,
-    - **c)** marynarza ukończyła 17 lat;
+- **1)** ukończyła 18 lat, z tym że w przypadku unijnego świadectwa:
+    - **a)** praktykanta – ukończyła 15 lat,
+    - **b)** młodszego marynarza – ukończyła 16 lat,
+    - **c)** marynarza – ukończyła 17 lat;
 
 - **2)** wykazuje się stanem zdrowia odpowiednim do zakresu pracy na statkach żeglugi śródlądowej potwierdzonym świadectwem zdrowia, o którym mowa w art. 36b ust. 2;
-- **3)** odbyła wymaganą praktykę pływania na statkach w charakterze członka załogi w przypadkach i w wymiarze określonych w art. 35b ust. 4–13 i art. 35c ust. 2 i 3;
-- **4)** ukończyła zatwierdzony program szkolenia w przypadkach określonych w art. 35b ust. 4–7;
-- **5)** uzyskała pozytywny wynik z egzaminu z zakresu wymaganej na tym stanowisku wiedzy i umiejętności w przypadkach określonych w art. 35b ust. 4–13 i art. 35c ust. 2 i 3.
+- **3)** odbyła wymaganą praktykę pływania na statkach w charakterze członka załogi – w przypadkach i w wymiarze określonych w art. 35b ust. 4–13 i art. 35c ust. 2 i 3;
+- **4)** ukończyła zatwierdzony program szkolenia – w przypadkach określonych w art. 35b ust. 4–7;
+- **5)** uzyskała pozytywny wynik z egzaminu z zakresu wymaganej na tym stanowisku wiedzy i umiejętności – w przypadkach określonych w art. 35b ust. 4–13 i art. 35c ust. 2 i 3.
 
 2. Unijne świadectwo kwalifikacji do wykonywania szczególnych operacji, o którym mowa w art. 35 ust. 2 pkt 2, może uzyskać osoba, która:
 
-- **1)** ukończyła lat;
+- **1)** ukończyła 18 lat;
 - **2)** wykazuje się stanem zdrowia odpowiednim do zakresu pracy na statkach żeglugi śródlądowej potwierdzonym świadectwem zdrowia, o którym mowa w art. 36b ust. 2;
 - **3)** uzyskała pozytywny wynik z egzaminu z zakresu wymaganej na tym stanowisku wiedzy i umiejętności.
 
 3. Szczególne zezwolenie dla kapitana, o którym mowa w art. 35e ust. 1, może uzyskać osoba, która:
 
 - **1)** posiada unijne świadectwo kwalifikacji kapitana żeglugi śródlądowej lub świadectwo kapitana uznane na podstawie art. 35 ust. 3, a w przypadku osoby, która jednocześnie występuje o ten dokument i o unijne świadectwo kwalifikacji kapitana żeglugi śródlądowej, spełnia również wymagania niezbędne do uzyskania unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej;
-- **2)** odbyła wymaganą praktykę pływania na statkach w charakterze członka załogi w przypadku i w wymiarze określonym w art. 35b ust. 8 pkt 2;
-- **3)** uzyskała pozytywny wynik z egzaminu z zakresu wymaganej na tym stanowisku wiedzy i umiejętności w przypadkach określonych w art. 35b ust. 8 pkt 1.
+- **2)** odbyła wymaganą praktykę pływania na statkach w charakterze członka załogi – w przypadku i w wymiarze określonym w art. 35b ust. 8 pkt 2;
+- **3)** uzyskała pozytywny wynik z egzaminu z zakresu wymaganej na tym stanowisku wiedzy i umiejętności – w przypadkach określonych w art. 35b ust. 8 pkt 1.
 
 **Art. 36a.**
 
@@ -1348,14 +1435,14 @@ Art. 64–68. (pominięte)
 
 1. Członek załogi statku ma wykazywać się stanem zdrowia odpowiednim do zakresu pracy na statkach żeglugi śródlądowej, potwierdzonym świadectwem zdrowia.
 
-2. Świadectwo zdrowia uznające badaną osobę za zdolną albo niezdolną do pracy na statkach żeglugi śródlądowej wydaje, w postaci papierowej, lekarz posiadający prawo wykonywania zawodu oraz uprawnienia do przeprowadzania badań profilaktycznych pracowników, o których mowa w art. 229 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222), zwanej dalej „Kodeksem pracy”, po dokonaniu oceny stanu zdrowia na podstawie skierowania wydanego przez armatora statku albo na wniosek osoby ubiegającej się o świadectwo zdrowia. Świadectwo zdrowia zawiera informacje, o których mowa w ust. 3 pkt 1–3, oraz stwierdzenie o zdolności albo niezdolności badanej osoby do pracy na statkach żeglugi śródlądowej.
+2. Świadectwo zdrowia uznające badaną osobę za zdolną albo niezdolną do pracy na statkach żeglugi śródlądowej wydaje, w postaci papierowej, lekarz posiadający prawo wykonywania zawodu oraz uprawnienia do przeprowadzania badań profilaktycznych pracowników, o których mowa w art. 229 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222), zwanej dalej „Kodeksem pracy”, po dokonaniu oceny stanu zdrowia na podstawie skierowania wydanego przez armatora statku albo na wniosek osoby ubiegającej się o świadectwo zdrowia. Świadectwo zdrowia zawiera informacje, o których mowa w ust. 3 pkt 1–3, oraz stwierdzenie o zdolności albo niezdolności badanej osoby do pracy na statkach żeglugi śródlądowej.
 
 3. Skierowanie i wniosek, o których mowa w ust. 2, zawierają:
 
 - **1)** imię i nazwisko osoby kierowanej na badania;
 - **2)** datę i miejsce urodzenia osoby kierowanej na badania;
-- **3)** numer PESEL osoby kierowanej na badania, a w przypadku osoby, której nie nadano numeru PESEL serię, numer i nazwę dokumentu potwierdzającego tożsamość;
-- **4)** oznaczenie armatora w przypadku skierowania wydawanego przez armatora;
+- **3)** numer PESEL osoby kierowanej na badania, a w przypadku osoby, której nie nadano numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość;
+- **4)** oznaczenie armatora – w przypadku skierowania wydawanego przez armatora;
 - **5)** określenie stanowisk na statkach, które ma zajmować osoba kierowana na badania, wraz ze wskazaniem, że dane stanowiska należą do grupy stanowisk w służbie pokładowej lub mechanicznej, oraz informacją, czy dane stanowiska uprawniają do kierowania statkiem.
 
 4. Stan zdrowia odpowiedni do zakresu pracy na statkach żeglugi śródlądowej, obejmujący sprawność fizyczną i psychiczną, oznacza niewystępowanie jakiejkolwiek choroby lub niepełnosprawności, która powodowałaby, że osoba pełniąca służbę na statku żeglugi jest niezdolna do:
@@ -1374,13 +1461,13 @@ Art. 64–68. (pominięte)
 
 9. Świadectwo zdrowia w przypadku osób, które ukończyły:
 
-- **1)** 60. rok życia wydaje się na okres nie dłuższy niż 5 lat;
-- **2)** 70. rok życia wydaje się na okres nie dłuższy niż 2 lata.
+- **1)** 60. rok życia – wydaje się na okres nie dłuższy niż 5 lat;
+- **2)** 70. rok życia – wydaje się na okres nie dłuższy niż 2 lata.
 
 10. Jeżeli na skutek wystąpienia okoliczności, w wyniku których zachodzi podejrzenie, że członek załogi statku nie spełnia wymagań dotyczących stanu zdrowia odpowiedniego do zakresu pracy na statkach żeglugi śródlądowej:
 
 - **1)** armator lub kierownik statku, na którym członek załogi statku jest zatrudniony, lub
-- **2)** dyrektor urzędu żeglugi śródlądowej, w drodze decyzji kieruje członka załogi na badania doraźne.
+- **2)** dyrektor urzędu żeglugi śródlądowej, w drodze decyzji – kieruje członka załogi na badania doraźne.
 
 11. Za okoliczności, o których mowa w ust. 10, uznaje się w szczególności spowodowanie wypadku żeglugowego, udział w wypadku żeglugowym, w którym doszło do narażenia na bezpośrednie niebezpieczeństwo powstania uszczerbku na zdrowiu, a także stwierdzenie, że członek załogi statku wykonywał swoje obowiązki w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu.
 
@@ -1411,17 +1498,17 @@ Art. 64–68. (pominięte)
 
 1. Egzaminy z zakresu wymaganej wiedzy i umiejętności są przeprowadzane przez:
 
-- **1)** centralną komisję egzaminacyjną działającą przy Dyrektorze Urzędu Żeglugi Śródlądowej w Szczecinie w celu uzyskania przez egzaminowanych unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej lub dokumentów kwalifikacyjnych, o których mowa w art. 35 ust. 2 pkt 2 i 4, oraz szczególnego zezwolenia dla kapitana, o którym mowa w art. 35e ust. 1;
-- **2)** terenowe komisje egzaminacyjne działające przy dyrektorach urzędów żeglugi śródlądowej w celu uzyskania przez egzaminowanych dokumentów kwalifikacyjnych, o których mowa w art. 35 ust. 2 pkt 1, 3 i 5, z wyjątkiem unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej;
-- **3)** jednostkę edukacyjną w przypadku egzaminów organizowanych w ramach szkolenia prowadzonego na podstawie zatwierdzonego programu szkolenia.
+- **1)** centralną komisję egzaminacyjną działającą przy Dyrektorze Urzędu Żeglugi Śródlądowej w Szczecinie – w celu uzyskania przez egzaminowanych unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej lub dokumentów kwalifikacyjnych, o których mowa w art. 35 ust. 2 pkt 2 i 4, oraz szczególnego zezwolenia dla kapitana, o którym mowa w art. 35e ust. 1;
+- **2)** terenowe komisje egzaminacyjne działające przy dyrektorach urzędów żeglugi śródlądowej – w celu uzyskania przez egzaminowanych dokumentów kwalifikacyjnych, o których mowa w art. 35 ust. 2 pkt 1, 3 i 5, z wyjątkiem unijnego świadectwa kwalifikacji kapitana żeglugi śródlądowej;
+- **3)** jednostkę edukacyjną – w przypadku egzaminów organizowanych w ramach szkolenia prowadzonego na podstawie zatwierdzonego programu szkolenia.
 
 2. Przewodniczącego centralnej komisji egzaminacyjnej, przewodniczących terenowych komisji egzaminacyjnych i zastępców przewodniczącego centralnej komisji egzaminacyjnej powołuje i odwołuje minister właściwy do spraw żeglugi śródlądowej.
 
 3. W skład komisji egzaminacyjnej, oprócz osób wymienionych w ust. 2, wchodzą także egzaminatorzy oraz sekretarz, z tym że w skład centralnej komisji egzaminacyjnej wchodzą ponadto:
 
 - **1)** przedstawiciel Dyrektora Urzędu Żeglugi Śródlądowej w Szczecinie;
-- **2)** przedstawiciel dyrektora urzędu morskiego w przypadku egzaminów na szczególne zezwolenie dla kapitana do uprawiania żeglugi na wodach morskich, o którym mowa w art. 35e ust. 1 pkt 1;
-- **3)** osoba posiadająca uprawnienia pilotowe, o których mowa w art. 50 ust. 4, dla danej drogi wodnej albo jej odcinka oraz doświadczenie w zakresie pilotażu na tej drodze wodnej, której uprawnienie dotyczy w przypadku egzaminu na uprawnienia pilotowe.
+- **2)** przedstawiciel dyrektora urzędu morskiego – w przypadku egzaminów na szczególne zezwolenie dla kapitana do uprawiania żeglugi na wodach morskich, o którym mowa w art. 35e ust. 1 pkt 1;
+- **3)** osoba posiadająca uprawnienia pilotowe, o których mowa w art. 50 ust. 4, dla danej drogi wodnej albo jej odcinka oraz doświadczenie w zakresie pilotażu na tej drodze wodnej, której uprawnienie dotyczy – w przypadku egzaminu na uprawnienia pilotowe.
 
 4. Egzaminatorów i sekretarza komisji egzaminacyjnej powołują przewodniczący właściwych komisji egzaminacyjnych. Egzaminatorów powołuje się spośród osób umieszczonych na liście egzaminatorów ministra właściwego do spraw żeglugi śródlądowej, o której mowa w art. 36d ust. 1.
 
@@ -1445,7 +1532,7 @@ Art. 64–68. (pominięte)
 
 12. Egzamin z zakresu wymaganej wiedzy i umiejętności składa się z części teoretycznej przeprowadzanej w formie pisemnej lub ustnej lub z części praktycznej.
 
-13. Ustala się następującą skalę ocen z egzaminu teoretycznego i praktycznego ocena pozytywna albo ocena negatywna.
+13. Ustala się następującą skalę ocen z egzaminu teoretycznego i praktycznego – ocena pozytywna albo ocena negatywna.
 
 14. Uzyskanie oceny negatywnej z któregokolwiek z przedmiotów jest jednoznaczne z uzyskaniem negatywnej oceny z egzaminu teoretycznego i wyklucza dopuszczenie do egzaminu z umiejętności praktycznych.
 
@@ -1523,13 +1610,13 @@ Art. 64–68. (pominięte)
 
 5. Jeżeli wymagania egzaminacyjne konieczne do uzyskania dokumentu kwalifikacyjnego lub szczególnego zezwolenia dla kapitana przewidują egzamin praktyczny, taki egzamin przeprowadza się na statku, którego rodzaj i wyposażenie pozwoli na sprawdzenie wiedzy i umiejętności wymaganych dla dokumentu kwalifikacyjnego lub szczególnego zezwolenia dla kapitana, którego ma dotyczyć egzamin, z tym że w przypadku egzaminu na:
 
-- **1)** unijne świadectwo kwalifikacji kapitana żeglugi śródlądowej lub szczególne zezwolenie dla kapitana, o którym mowa w art. 35e ust. 1 pkt 2 egzamin może zostać przeprowadzony również na symulatorze, który uzyskał zatwierdzenie, o którym mowa w art. 36k, do tego rodzaju egzaminu;
-- **2)** unijne świadectwo kwalifikacji do wykonywania szczególnych operacji egzamin może zostać przeprowadzony również na odpowiedniej instalacji nabrzeżnej.
+- **1)** unijne świadectwo kwalifikacji kapitana żeglugi śródlądowej lub szczególne zezwolenie dla kapitana, o którym mowa w art. 35e ust. 1 pkt 2 – egzamin może zostać przeprowadzony również na symulatorze, który uzyskał zatwierdzenie, o którym mowa w art. 36k, do tego rodzaju egzaminu;
+- **2)** unijne świadectwo kwalifikacji do wykonywania szczególnych operacji – egzamin może zostać przeprowadzony również na odpowiedniej instalacji nabrzeżnej.
 
 6. Do egzaminu nie może przystąpić kandydat:
 
 - **1)** niespełniający wymagań koniecznych do uzyskania dokumentu, którego ma dotyczyć egzamin;
-- **2)** w stosunku do którego wydano decyzję, o której mowa w art. 36g ust. 1, 2, 5 i 7 w okresie i w zakresie obowiązywania tej decyzji;
+- **2)** w stosunku do którego wydano decyzję, o której mowa w art. 36g ust. 1, 2, 5 i 7 – w okresie i w zakresie obowiązywania tej decyzji;
 - **3)** nieposiadający dokumentu tożsamości;
 - **4)** co do którego na podstawie badania, o którym mowa w ust. 7, ustalono, że znajduje się w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu, lub który odmówił poddania się takiemu badaniu, lub nie można było przeprowadzić takiego badania na miejscu;
 - **5)** który nie przedstawił dowodu uiszczenia opłaty za egzamin.
@@ -1550,7 +1637,7 @@ Art. 64–68. (pominięte)
 
 14. Dopuszcza się badanie krwi lub moczu jako następstwo badania przeprowadzonego metodą, o której mowa w ust. 12, albo jeżeli nie ma możliwości wykorzystania tej metody.
 
-15. Wykaz środków działających podobnie do alkoholu oraz warunki i sposób przeprowadzania badań na ich obecność określają przepisy wydane na podstawie art. 129j ust. 5 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251).
+15. Wykaz środków działających podobnie do alkoholu oraz warunki i sposób przeprowadzania badań na ich obecność określają przepisy wydane na podstawie art. 129j ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251).
 
 16. Badanie w celu ustalenia zawartości w organizmie alkoholu lub obecności w organizmie środka działającego podobnie do alkoholu nie może naruszać godności, intymności oraz innych dóbr osobistych osoby badanej.
 
@@ -1564,7 +1651,7 @@ Art. 64–68. (pominięte)
 
 21. Opłata za egzamin uiszczona przez osobę, która odmówiła poddania się badaniu, o którym mowa w ust. 7, albo u której takie badanie potwierdziło zawartość w organizmie alkoholu lub obecność w organizmie środka działającego podobnie do alkoholu, nie podlega zwrotowi.
 
-22. Egzaminator podlega wyłączeniu od przeprowadzenia egzaminu w przypadkach, o których mowa w art. 24 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), lub w przypadku, gdy z innych przyczyn występuje konflikt interesu.
+22. Egzaminator podlega wyłączeniu od przeprowadzenia egzaminu w przypadkach, o których mowa w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), lub w przypadku, gdy z innych przyczyn występuje konflikt interesu.
 
 23. Komisja egzaminacyjna wydaje zaświadczenie o uzyskaniu pozytywnego wyniku z egzaminu z zakresu wymaganej wiedzy i umiejętności, wskazując w nim nazwę dokumentu, którego dotyczył egzamin.
 
@@ -1577,7 +1664,7 @@ Art. 64–68. (pominięte)
 1. Osoba, której wydano dokument kwalifikacyjny, o którym mowa w art. 35 ust. 2, lub szczególne zezwolenie dla kapitana, o którym mowa w art. 35e ust. 1, jest obowiązana zawiadomić dyrektora urzędu żeglugi śródlądowej, który wydał ten dokument, o:
 
 - **1)** utracie dokumentu lub jego zniszczeniu w stopniu powodującym jego nieczytelność,
-- **2)** zmianie stanu faktycznego wymagającego zmiany danych w nim zawartych w terminie 30 dni od dnia zaistnienia tego zdarzenia.
+- **2)** zmianie stanu faktycznego wymagającego zmiany danych w nim zawartych – w terminie 30 dni od dnia zaistnienia tego zdarzenia.
 
 2. Na wniosek osoby, której wydano dokument kwalifikacyjny, w przypadkach, o których mowa w ust. 1, dyrektor urzędu żeglugi śródlądowej odpowiednio:
 
@@ -1605,8 +1692,8 @@ Art. 64–68. (pominięte)
 
 7. W przypadku uznania wniosku, o którym mowa w ust. 6, za zasadny właściwy dyrektor urzędu żeglugi śródlądowej, w drodze decyzji:
 
-- **1)** cofa unijne świadectwo kwalifikacji w przypadku stwierdzenia, że osoba posiadająca unijne świadectwo kwalifikacji członka załogi pokładowej lub unijne świadectwo kwalifikacji do wykonywania szczególnych operacji nie spełnia już wymogów do jego wydania;
-- **2)** może zawiesić unijne świadectwo kwalifikacji w przypadku innym niż określony w pkt 1, jeżeli przemawiają za tym względy bezpieczeństwa lub zapewnienia porządku publicznego.
+- **1)** cofa unijne świadectwo kwalifikacji – w przypadku stwierdzenia, że osoba posiadająca unijne świadectwo kwalifikacji członka załogi pokładowej lub unijne świadectwo kwalifikacji do wykonywania szczególnych operacji nie spełnia już wymogów do jego wydania;
+- **2)** może zawiesić unijne świadectwo kwalifikacji – w przypadku innym niż określony w pkt 1, jeżeli przemawiają za tym względy bezpieczeństwa lub zapewnienia porządku publicznego.
 
 8. Zawieszenie dokumentów, o których mowa w ust. 2 i 7 pkt 2, następuje na okres nie dłuższy niż 12 miesięcy.
 
@@ -1641,7 +1728,7 @@ Art. 64–68. (pominięte)
 - **7)** zatwierdzenie dla symulatora, jeżeli przewiduje się przeprowadzanie egzaminów praktycznych na symulatorze;
 - **8)** wzory dyplomów lub świadectw wydawanych po zakończeniu programu szkolenia.
 
-5. Do wniosku o uznanie załącza się również w przypadku:
+5. Do wniosku o uznanie załącza się również – w przypadku:
 
 - **1)** uczelni:
     - **a)** kopię statutu uczelni i regulaminu studiów,
@@ -1649,7 +1736,7 @@ Art. 64–68. (pominięte)
 
 - **2)** szkoły ponadpodstawowej:
     - **a)** kopię aktu założycielskiego i statutu szkoły,
-    - **b)** kopię zaświadczenia o wpisie do ewidencji szkół i placówek niepublicznych prowadzonej przez jednostkę samorządu terytorialnego w przypadku szkół niepublicznych zakładanych przez osoby prawne i fizyczne.
+    - **b)** kopię zaświadczenia o wpisie do ewidencji szkół i placówek niepublicznych prowadzonej przez jednostkę samorządu terytorialnego – w przypadku szkół niepublicznych zakładanych przez osoby prawne i fizyczne.
 
 6. Oceny spełnienia wymagań, o których mowa w ust. 3, oraz kontrolę jednostki edukacyjnej, o której mowa w art. 36j ust. 2 pkt 3, dokonuje komisja powołana w tym celu przez ministra właściwego do spraw żeglugi śródlądowej.
 
@@ -1729,7 +1816,7 @@ Art. 64–68. (pominięte)
 
 6. Uznaje się symulatory, które uzyskały zatwierdzenie przez właściwy organ innego państwa członkowskiego, bez konieczności dokonywania oceny, o której mowa w ust. 3.
 
-7. W przypadku uzasadnionego podejrzenia, że symulator przestał spełniać standardy dotyczące zatwierdzania symulatorów, dyrektor urzędu żeglugi śródlądowej przeprowadza, na zasadach i w trybie określonych w przepisach rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, kontrolę w celu dokonania oceny, czy symulator spełnia te standardy.
+7. W przypadku uzasadnionego podejrzenia, że symulator przestał spełniać standardy dotyczące zatwierdzania symulatorów, dyrektor urzędu żeglugi śródlądowej przeprowadza, na zasadach i w trybie określonych w przepisach rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, kontrolę w celu dokonania oceny, czy symulator spełnia te standardy.
 
 8. Ekspertom zewnętrznym, o których mowa w ust. 3 pkt 1, przysługuje wynagrodzenie w wysokości określonej w umowie zawieranej z dyrektorem urzędu żeglugi śródlądowej.
 
@@ -1758,7 +1845,7 @@ Art. 64–68. (pominięte)
 
 - **1)** określenie egzaminów, które mogą być przeprowadzane na symulatorze;
 - **2)** imię i nazwisko operatora symulatora;
-- **3)** nazwę zatwierdzonego programu szkolenia w przypadku gdy symulator jest wykorzystywany w ramach tego programu szkolenia;
+- **3)** nazwę zatwierdzonego programu szkolenia – w przypadku gdy symulator jest wykorzystywany w ramach tego programu szkolenia;
 - **4)** nazwę organu wydającego unijne świadectwo kwalifikacji, szczególne zezwolenie dla kapitana lub świadectwo potwierdzające zdanie egzaminu praktycznego.
 
 19. Minister właściwy do spraw żeglugi śródlądowej sporządza wykaz zatwierdzonych symulatorów zawierający informacje, o których mowa w ust. 17, i przekazuje go oraz każdą jego zmianę Komisji Europejskiej.
@@ -1778,10 +1865,10 @@ Art. 64–68. (pominięte)
     - **c)** holownika,
     - **d)** lodołamacza,
     - **e)** statku pasażerskiego,
-    - **f)** pchacza, zestawu pchanego oraz zestawu sprzężonego w zależności od rodzaju statku i czasu jego pracy,
+    - **f)** pchacza, zestawu pchanego oraz zestawu sprzężonego – w zależności od rodzaju statku i czasu jego pracy,
 
 - **3)** zakres wymagań egzaminacyjnych niezbędnych do uzyskania dokumentów kwalifikacyjnych,
-- **4)** szczegółowy tryb przeprowadzania egzaminu i sposób działania komisji egzaminacyjnych i szczegółowe warunki wynagradzania członków tych komisji kierując się względami bezpieczeństwa żeglugi, koniecznością posiadania odpowiedniej wiedzy i umiejętności przez członków załogi statków w zakresie żeglugi śródlądowej, sprawnym działaniem komisji egzaminacyjnych oraz rzetelnym przeprowadzaniem egzaminów.
+- **4)** szczegółowy tryb przeprowadzania egzaminu i sposób działania komisji egzaminacyjnych i szczegółowe warunki wynagradzania członków tych komisji – kierując się względami bezpieczeństwa żeglugi, koniecznością posiadania odpowiedniej wiedzy i umiejętności przez członków załogi statków w zakresie żeglugi śródlądowej, sprawnym działaniem komisji egzaminacyjnych oraz rzetelnym przeprowadzaniem egzaminów.
 
 2. (uchylony)
 
@@ -1818,8 +1905,8 @@ Art. 64–68. (pominięte)
 
 11. Wysokość opłat, o których mowa w ust. 9 i 10, nie może być wyższa niż:
 
-- **1)** 500 zł za przeprowadzenie egzaminu, o którym mowa w ust. 8,
-- **2)** 50 zł za wydanie dokumentu, o którym mowa w ust. 3 przy czym opłaty dla uczniów i studentów w wieku do 26 lat podlegają obniżeniu o 50 %.
+- **1)** 500 zł – za przeprowadzenie egzaminu, o którym mowa w ust. 8,
+- **2)** 50 zł – za wydanie dokumentu, o którym mowa w ust. 3 – przy czym opłaty dla uczniów i studentów w wieku do 26 lat podlegają obniżeniu o 50 %.
 
 12. Właściwy polski związek sportowy prowadzi ewidencję wydanych dokumentów, o których mowa w ust. 3, oraz gromadzi zaświadczenia ze zdania egzaminu będące podstawą do wydania tych dokumentów.
 
@@ -1833,7 +1920,7 @@ Art. 64–68. (pominięte)
 - **2)** sposób i tryb przeprowadzania egzaminu, o którym mowa w ust. 8,
 - **3)** wzór zaświadczenia ze zdania egzaminu,
 - **4)** wzory dokumentów potwierdzających posiadanie uprawnień,
-- **5)** wysokość opłat za przeprowadzenie egzaminu, o którym mowa w ust. 8, oraz za czynności związane z wydaniem dokumentu, o którym mowa w ust. 3, biorąc pod uwagę bezpieczeństwo żeglugi, konieczność zapewnienia jednolitego sposobu prowadzenia egzaminu, zakres uprawnień uzyskiwanych po zdaniu egzaminu, koszty poniesione przez właściwy polski związek sportowy lub podmiot upoważniony oraz warunki wskazane w ust. 11. Art. 37aa. Prowadzenie działań ratowniczych przez ochotnicze straże pożarne na jednostkach pływających wyposażonych w napęd mechaniczny o mocy silnika do 20 kW oraz długości kadłuba do 7,5 m nie wymaga posiadania dokumentu kwalifikacyjnego wydawanego przez właściwy polski związek sportowy.
+- **5)** wysokość opłat za przeprowadzenie egzaminu, o którym mowa w ust. 8, oraz za czynności związane z wydaniem dokumentu, o którym mowa w ust. 3, – biorąc pod uwagę bezpieczeństwo żeglugi, konieczność zapewnienia jednolitego sposobu prowadzenia egzaminu, zakres uprawnień uzyskiwanych po zdaniu egzaminu, koszty poniesione przez właściwy polski związek sportowy lub podmiot upoważniony oraz warunki wskazane w ust. 11. Art. 37aa. Prowadzenie działań ratowniczych przez ochotnicze straże pożarne na jednostkach pływających wyposażonych w napęd mechaniczny o mocy silnika do 20 kW oraz długości kadłuba do 7,5 m nie wymaga posiadania dokumentu kwalifikacyjnego wydawanego przez właściwy polski związek sportowy.
 
 **Art. 37b.**
 
@@ -1860,7 +1947,7 @@ Art. 64–68. (pominięte)
 8. Minister właściwy do spraw kultury fizycznej, minister właściwy do spraw gospodarki morskiej oraz minister właściwy do spraw żeglugi śródlądowej określą, w drodze rozporządzenia:
 
 - **1)** szczegółowe warunki uzyskiwania upoważnienia do przeprowadzania egzaminu,
-- **2)** warunki kadrowe i organizacyjne, konieczne dla prawidłowego przeprowadzania egzaminu biorąc pod uwagę konieczność zapewnienia jednolitego sposobu prowadzenia egzaminu oraz najwyższego poziomu kształcenia.
+- **2)** warunki kadrowe i organizacyjne, konieczne dla prawidłowego przeprowadzania egzaminu – biorąc pod uwagę konieczność zapewnienia jednolitego sposobu prowadzenia egzaminu oraz najwyższego poziomu kształcenia.
 
 **Art. 38.**
 
@@ -1887,7 +1974,7 @@ Art. 64–68. (pominięte)
 - **1)** imię (imiona) i nazwisko wnioskodawcy;
 - **2)** datę i miejsce urodzenia wnioskodawcy;
 - **3)** adres zamieszkania wnioskodawcy;
-- **4)** numer identyfikacyjny członka załogi jeżeli został nadany;
+- **4)** numer identyfikacyjny członka załogi – jeżeli został nadany;
 - **5)** przedmiot wniosku.
 
 3. Do wniosku załącza się:
@@ -1946,7 +2033,7 @@ Art. 64–68. (pominięte)
 
 1. Statek posiada dziennik pokładowy.
 
-2. pokładowy prowadzi kierownik statku, z tym że wpisów do dziennika pokładowego mogą dokonywać także inspektorzy.
+2. Dziennik pokładowy prowadzi kierownik statku, z tym że wpisów do dziennika pokładowego mogą dokonywać także inspektorzy.
 
 3. Wpisów należy dokonywać atramentem lub tuszem, w sposób czytelny. Zabrania się wyskrobywania, wycierania, przerabiania wyrazów oraz dopisywania wyrazów do tekstu już wpisanego.
 
@@ -1971,7 +2058,7 @@ Art. 64–68. (pominięte)
 
 **Art. 39c.**
 
-1. pokładowy wydaje dyrektor urzędu żeglugi śródlądowej na wniosek armatora.
+1. Dziennik pokładowy wydaje dyrektor urzędu żeglugi śródlądowej na wniosek armatora.
 
 2. W razie zniszczenia dziennika pokładowego w stopniu uniemożliwiającym korzystanie z niego lub braku miejsc do dokonywania wpisów dotychczasowy dziennik pokładowy wymienia się na nowy na wniosek armatora.
 
@@ -1993,7 +2080,7 @@ Art. 64–68. (pominięte)
 
 - **1)** wydawania, przedłużania ważności, zawieszania i cofania unijnych świadectw kwalifikacji, żeglarskich książeczek pracy i dzienników pokładowych,
 - **2)** egzaminów i ocen przeprowadzanych przez działające przy nich komisje egzaminacyjne,
-- **3)** dokonywania oceny spełnienia wymagań, o których mowa w art. 36d ust. 4, przez egzaminatorów zapewniający, że obszary te będą funkcjonować zgodnie z przepisami ustawy.
+- **3)** dokonywania oceny spełnienia wymagań, o których mowa w art. 36d ust. 4, przez egzaminatorów – zapewniający, że obszary te będą funkcjonować zgodnie z przepisami ustawy.
 
 2. Informacje, w tym dane osobowe, dotyczące spraw związanych z utrzymaniem systemu jakości, o którym mowa w ust. 1, przechowuje się przez okres 5 lat od dnia ich wykorzystania w celu, o którym mowa w ust. 1.
 
@@ -2033,7 +2120,7 @@ Art. 64–68. (pominięte)
 - **2)** opis planowanych przedsięwzięć polegających na przebudowie lub modernizacji śródlądowych dróg wodnych o szczególnym znaczeniu transportowym wraz z opisem planowanych nowych śródlądowych dróg wodnych o szczególnym znaczeniu transportowym;
 - **3)** szacunkowe koszty realizacji planowanych przedsięwzięć, o których mowa w pkt 2, wraz z harmonogramem ich realizacji.
 
-3. Zapewniając udział wszystkich zainteresowanych w osiąganiu celów środowiskowych, o których mowa w ustawie z dnia 20 lipca 2017 r. Prawo wodne, w szczególności w opracowywaniu, przeglądzie i aktualizacji planu lub programu rozwoju śródlądowych dróg wodnych o szczególnym znaczeniu transportowym, minister właściwy do spraw żeglugi śródlądowej poda do publicznej wiadomości, na zasadach i w trybie określonych w przepisach ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112), w celu zgłaszania uwag:
+3. Zapewniając udział wszystkich zainteresowanych w osiąganiu celów środowiskowych, o których mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne, w szczególności w opracowywaniu, przeglądzie i aktualizacji planu lub programu rozwoju śródlądowych dróg wodnych o szczególnym znaczeniu transportowym, minister właściwy do spraw żeglugi śródlądowej poda do publicznej wiadomości, na zasadach i w trybie określonych w przepisach ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112), w celu zgłaszania uwag:
 
 - **1)** harmonogram prac związanych ze sporządzaniem planu lub programu rozwoju śródlądowych dróg wodnych o szczególnym znaczeniu transportowym, w tym zestawienie działań, które należy wprowadzić w drodze konsultacji;
 - **2)** projekt planu lub programu rozwoju śródlądowych dróg wodnych o szczególnym znaczeniu transportowym.
@@ -2080,7 +2167,7 @@ Art. 64–68. (pominięte)
 
 **Art. 45.**
 
-1. Statek może zatrzymać się na postój w miejscu do tego wyznaczonym, a w wypadku braku zakazu postoju wybierać miejsce postoju tak blisko brzegu, jak na to pozwala jego zanurzenie oraz warunki miejscowe, i tak aby nie utrudniać ruchu żeglugowego.
+1. Statek może zatrzymać się na postój w miejscu do tego wyznaczonym, a w wypadku braku zakazu postoju – wybierać miejsce postoju tak blisko brzegu, jak na to pozwala jego zanurzenie oraz warunki miejscowe, i tak aby nie utrudniać ruchu żeglugowego.
 
 2. Statek na postoju należy zakotwiczyć lub przycumować w sposób bezpieczny, aby nie mógł zmieniać swojego położenia pod wpływem fali, wiatru, prądu wody, zmian stanów wody lub ruchu statków i aby nie stanowił zagrożenia dla innych statków.
 
@@ -2089,6 +2176,9 @@ Art. 64–68. (pominięte)
 4. Na statku znajdującym się na postoju na szlaku żeglownym lub w jego pobliżu powinien być stale pełniony dozór przez osoby o odpowiednich kwalifikacjach.
 
 **Art. 46.** Minister właściwy do spraw żeglugi śródlądowej, mając na względzie konieczność zapewnienia bezpieczeństwa ruchu żeglugowego, określi, w drodze rozporządzenia, szczegółowe przepisy żeglugowe normujące:
+
+- **1)** ruch i postój statków na szlaku żeglownym i w portach, sygnalizację wzrokową i dźwiękową oraz łączność radiową na śródlądowych drogach wodnych,
+- **2)** sposoby oznakowania nawigacyjnego szlaku żeglownego, budowli i urządzeń hydrotechnicznych, przeszkód nawigacyjnych oraz budowli i linii przesyłowych, wzory znaków i sygnałów żeglugowych, ich znaczenie i zakres obowiązywania, kierując się obowiązującymi w tym zakresie wymaganiami międzynarodowymi.
 
 **Art. 47.**
 
@@ -2212,6 +2302,10 @@ Art. 64–68. (pominięte)
 
 **Art. 52.** Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki wykonywania pilotażu i sprawowania nadzoru nad jego wykonywaniem,
+- **2)** tryb przeprowadzania egzaminów na pilota i sprawdzianów dla uzyskania świadectwa zwolnienia z obowiązku korzystania z pilotażu,
+- **3)** wzory i tryb wydawania uprawnień pilotowych oraz świadectwa zwolnienia z obowiązku korzystania z pilotażu, mając na względzie zapewnienie prawidłowej realizacji usług pilotowych.
+
 #### Rozdział 8 Wypadki żeglugowe
 
 **Art. 53.**
@@ -2238,19 +2332,51 @@ Art. 64–68. (pominięte)
 
 **Art. 56.** Członkowi załogi statku uznanemu winnym naruszenia przepisów żeglugowych lub przepisów dotyczących obsługi maszyn lub urządzeń statku dyrektor urzędu żeglugi śródlądowej może w drodze decyzji administracyjnej:
 
+- **1)** udzielić ostrzeżenia o grożącym zawieszeniu uprawnień zawodowych wynikających z posiadanego dokumentu kwalifikacyjnego, jeżeli naruszenie przepisów stworzyło zagrożenie wypadkiem żeglugowym;
+- **2)** zawiesić uprawnienia na okres do 12 miesięcy w razie spowodowania w ciągu 12 miesięcy od udzielenia ostrzeżenia ponownego naruszenia przepisów;
+- **3)** zawiesić uprawnienia na okres do 12 miesięcy za spowodowanie wypadku lub przyczynienie się do jego zaistnienia, uzależniając ich przywrócenie od złożenia egzaminu sprawdzającego;
+- **4)** pozbawić uprawnień zawodowych, jeżeli w wyniku tego wypadku nastąpiła śmierć człowieka lub znaczna szkoda.
+
 **Art. 57.** Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, szczegółowy tryb postępowania w związku z wypadkami żeglugowymi, mając na uwadze w szczególności kwalifikację wypadków, obowiązki kierownika statku po zaistnieniu wypadku, a także sposób prowadzenia postępowania przez dyrektora urzędu żeglugi śródlądowej.
 
 #### Rozdział 9 Przepisy karne
 
 **Art. 58.** Kto:
 
+- **1)** wykonuje przewóz ładunków niezgodnie z dokumentami przewozowymi,
+- **2)** wykonuje przewóz obcym statkiem niezgodnie z postanowieniami umów międzynarodowych albo pozwoleń na przewozy,
+- **3)** uprawia żeglugę statkiem obcym bez wymaganego pozwolenia,
+- **4)** nie dopełnia obowiązku złożenia formularza ewidencyjnego,
+- **5)** wykonuje zarobkowy przewóz towarów statkami o ładowności większej niż 200 t bez spełnienia wymogu zdolności zawodowej,
+- **6)** niszczy, uszkadza, przemieszcza lub wykorzystuje znaki żeglugowe do cumowania lub przeciągania statków,
+- **7)** uniemożliwia lub utrudnia uprawnionym do inspekcji pracownikom urzędów żeglugi śródlądowej wykonywanie zadań określonych w art. 9 ust. 2 pkt 2, 4–8 i 10a, podlega karze grzywny.
+
 **Art. 59.** Kto wykracza przeciw obowiązkowi:
+
+- **1)** wpisu statku do rejestru,
+- **2)** dokonania pomiaru statku,
+- **3)** niezwłocznego zawiadomienia o zaistnieniu wypadku żeglugowego,
+- **4)** udzielenia pomocy w działaniach ratowniczych, podlega karze grzywny.
 
 **Art. 60.** Kto uprawia żeglugę statkiem bez ważnego dokumentu bezpieczeństwa statku lub jednorazowego zezwolenia na określoną podróż, podlega karze grzywny.
 
 **Art. 61.** Kto:
 
+- **1)** kieruje statkiem albo zajmuje stanowisko członka załogi statku, nie posiadając do tego właściwego dokumentu kwalifikacyjnego,
+- **2)** będąc członkiem załogi statku, nie posiada dokumentu potwierdzającego warunki zdrowia odpowiednie do zajmowanego stanowiska,
+- **3)** będąc członkiem załogi statku, nie posiada żeglarskiej książeczki pracy, podlega karze grzywny.
+
 **Art. 62.** Kto wykracza przeciw przepisom w zakresie:
+
+- **1)** ruchu i sygnalizacji na śródlądowych drogach wodnych,
+- **2)** oznakowania, wyposażenia i dokumentów statków,
+- **3)** warunków ruchu i postoju statków na szlaku żeglownym i w portach,
+- **4)** składu załogi statku i norm czasu pracy,
+- **5)** przewozu statkami materiałów niebezpiecznych,
+- **6)** pilotażu na śródlądowych drogach wodnych,
+- **7)** warunków sanitarnych na statkach,
+- **8)** warunków bezpieczeństwa i higieny pracy na statkach,
+- **9)** ochrony środowiska, podlega karze grzywny.
 
 **Art. 63.** Orzekanie w sprawach określonych w art. 58–62 następuje w trybie określonym w Kodeksie postępowania w sprawach o wykroczenia.
 
@@ -2335,4 +2461,19 @@ Art. 64–68. (pominięte)
 2. (pominięty)
 
 **Art. 75.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . WYSOKOŚCI OPŁAT I Uprawianie żeglugi obcymi statkami 1 Za pozwolenie na uprawianie żeglugi obcym statkiem po polskich śródlądowych drogach wodnych:
+
+- **1)** na jedną podróż 100 zł
+- **2)** na określony czas lub wielokrotne podróże 200 zł 2 Za wtórnik pozwolenia 20 zł II Spełnienie wymogu zdolności zawodowej 1 Za zaświadczenie o spełnieniu wymogu zdolności zawodowej 30 zł 1a Za zaświadczenie o utracie zdolności zawodowej 30 zł 2 Za wtórnik zaświadczenia 15 zł III Rejestr administracyjny 1 Za wpis statku do rejestru:
+- **1)** bez napędu mechanicznego o iloczynie długości i szerokości statku do 20 m 40 zł
+- **2)** bez napędu mechanicznego o iloczynie długości i szerokości statku powyżej 20 m 80 zł
+- **3)** o napędzie mechanicznym o iloczynie długości i szerokości statku do 20 m 80 zł
+- **4)** o napędzie mechanicznym o iloczynie długości i szerokości statku powyżej 20 m 400 zł 2 Za dokonanie zmian wpisu w rejestrze 15 zł 3 Za wtórnik karty rejestracyjnej 20 zł 4 Za wyciąg lub odpis z rejestru 15 zł IIIa (uchylona) IV Pomiar statków 1 Za świadectwo pomiarowe:
+- **1)** dla statku przeznaczonego do przewozu ładunków 150 zł
+- **2)** dla statku nieprzeznaczonego do przewozu ładunków 100 zł 2 Za wtórnik świadectwa pomiarowego 60 zł U w a g a: Opłaty nie obejmują opłat za czynności związane z pomiarem statku. V Bezpieczeństwo statku 1 Za świadectwo zdolności żeglugowej 25 zł 2 Za uproszczone świadectwo zdolności żeglugowej 20 zł 3 Za przedłużenie świadectwa zdolności żeglugowej 15 zł 4 Za przedłużenie uproszczonego świadectwa zdolności żeglugowej 15 zł 5 Za dokonanie zmian w świadectwie zdolności żeglugowej 15 zł 6 Za dokonanie zmian w uproszczonym świadectwie zdolności żeglugowej 15 zł 7 Za wydanie zezwolenia na jednorazową podróż (opłata obejmuje dokonanie inspekcji) 200 zł 8 Za duplikat świadectwa zdolności żeglugowej 20 zł 9 Za duplikat uproszczonego świadectwa zdolności żeglugowej 20 zł 10 za unijne świadectwo zdolności żeglugowej 150 zł 11 za tymczasowe unijne świadectwo zdolności żeglugowej 100 zł 12 za uzupełniające unijne świadectwo zdolności żeglugowej 50 zł 13 za przedłużenie albo odnowienie unijnego świadectwa zdolności żeglugowej 50 zł 14 za przedłużenie albo odnowienie uzupełniającego unijnego świadectwa zdolności żeglugowej 50 zł 15 za przedłużenie tymczasowego unijnego świadectwa zdolności żeglugowej 50 zł 16 za dokonanie zmian w unijnym świadectwie zdolności żeglugowej 25 zł 17 za duplikat unijnego świadectwa zdolności żeglugowej 50 zł 18 za duplikat uzupełniającego unijnego świadectwa zdolności żeglugowej 25 zł 19 za duplikat tymczasowego unijnego świadectwa zdolności żeglugowej 25 zł 20 za wyciąg lub odpis unijnego świadectwa zdolności żeglugowej 15 zł 21 za świadectwo instalacji i działania dla radarowych instalacji nawigacyjnych, wskaźników 50 zł skrętu, sprzętu Automatycznego Systemu Identyfikacji Statków (AIS) śródlądowego i tachografów w żegludze śródlądowej Va (uchylona) VI Kwalifikacje zawodowe 1 Za egzamin na:
+- **1)** unijne świadectwo kwalifikacji kapitana żeglugi śródlądowej 500 zł
+- **2)** unijne świadectwo eksperta w dziedzinie żeglugi pasażerskiej 300 zł
+- **3)** unijne świadectwo eksperta w dziedzinie skroplonego gazu ziemnego 300 zł
+- **4)** szczególne zezwolenie dla kapitana 250 zł
+- **5)** inny dokument kwalifikacyjny 300 zł 2 Za zatwierdzenie symulatora, na którym ma się odbywać egzamin 2000 zł 3 Za uznanie jednostki edukacyjnej (opłata uwzględnia przeprowadzenie kontroli) 1000 zł 4 Za odnowienie uznania jednostki edukacyjnej (opłata uwzględnia przeprowadzenie 1000 zł kontroli) 5 Za unijne świadectwo kwalifikacji kapitana żeglugi śródlądowej (opłata uwzględnia 100 zł wpisy o posiadanych szczególnych zezwoleniach dla kapitana) 6 Za unijne świadectwo eksperta w dziedzinie żeglugi pasażerskiej 100 zł 7 Za unijne świadectwo eksperta w dziedzinie skroplonego gazu ziemnego 100 zł 8 Za szczególne zezwolenie dla kapitana 50 zł 9 Za inny dokument kwalifikacyjny 50 zł 10 Za przedłużenie ważności dokumentu, o którym mowa w pkt 5–9 50 % opłaty określonej odpowiednio w pkt 5–9 Uwaga: Opłaty, o których mowa w pkt 9 i 10, nie obejmują opłaty za wydanie dokumentu będącego połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy. VII Żeglarska książeczka pracy i dziennik pokładowy 1 Za żeglarską książeczkę pracy 100 zł 2 Za dokument będący połączeniem unijnych świadectw kwalifikacji i żeglarskiej 100 zł książeczki pracy 3 Za zatwierdzenie wpisów dotyczących praktyki pływania 25 zł 4 Za dziennik pokładowy 100 zł VIII (uchylona) IX Pilotaż 1 Za świadectwo zwolnienia z obowiązku korzystania z pilotażu 50 zł 2 Za uprawnienie pilotowe 50 zł 3 Za egzamin na pilota 100 zł 4 Za sprawdzian na świadectwo zwolnienia z obowiązku korzystania z pilotażu 100 zł 5 Za wtórnik dokumentu z poz. 1 i 2 50 zł X RIS Za wydanie dokumentu zgodności 200 zł
+
 

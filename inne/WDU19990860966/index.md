@@ -8,7 +8,7 @@ pos: 966
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # sygn. akt K. 6/98 Trybunał Konstytucyjny w składzie: Andrzej Mączyński – przewodniczący, Zdzisław Czeszejko-Sochacki, Teresa Dębowska-Romanowska, Ferdynand Rymarz – sprawozdawca, Marian Zdyb, po rozpoznaniu w dniu 21 września 1999 r. na rozprawie sprawy z wniosku Rzecznika Praw Obywatelskich, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego, o stwierdzenie, niezgodności art. 34 ust. 1 pkt 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz.U. Nr 115, poz. 741 z późn.zm.) z art. 2 i art. 32 ust. 1 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz.U. Nr 78, poz. 483), orzeka:

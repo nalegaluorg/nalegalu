@@ -8,7 +8,7 @@ pos: 3
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o izbach rolniczych
@@ -213,6 +213,10 @@ Art. 50–55. (pominięte)
 
 **Art. 15.** W obradach walnego zgromadzenia mogą uczestniczyć bez prawa udziału w głosowaniu delegowani przedstawiciele:
 
+- **1)** organów samorządu województwa;
+- **2)** związków zawodowych rolników indywidualnych, mających struktury wojewódzkie zarejestrowane w sądzie właściwym dla związków zawodowych;
+- **3)** społeczno-zawodowych organizacji rolników, mających struktury wojewódzkie zarejestrowane w sądzie właściwym dla organizacji społeczno-zawodowych.
+
 **Art. 16.**
 
 1. Komisja rewizyjna składa się z 5 osób wybranych spośród członków walnego zgromadzenia.
@@ -251,6 +255,14 @@ Art. 50–55. (pominięte)
 8. W przypadku odwołania zarządu bez równoczesnego wyboru nowego zarządu dotychczasowy zarząd działa do czasu wyboru nowego zarządu.
 
 **Art. 19.** Do właściwości zarządu należą wszystkie sprawy izby niezastrzeżone ustawą lub statutem dla innych organów, a w szczególności:
+
+- **1)** przygotowywanie projektów uchwał walnego zgromadzenia;
+- **2)** opracowywanie projektów budżetu, wraz z planem finansowym;
+- **3)** przedstawianie walnemu zgromadzeniu do zatwierdzenia rocznych sprawozdań z działalności statutowej i finansowej;
+- **4)** podejmowanie uchwał w sprawach zaciągania kredytów i innych zobowiązań finansowych do wysokości ustalonej przez walne zgromadzenie;
+- **5)** ustalanie zasad wynagradzania pracowników biura izby oraz ustalanie wysokości wynagrodzenia dyrektora biura;
+- **6)** (uchylony)
+- **7)** podejmowanie czynności związanych z działalnością izby, o której mowa w art. 7 ust. 1 pkt 2.
 
 **Art. 20.**
 
@@ -531,6 +543,12 @@ Art. 50–55. (pominięte)
 3. W skład Krajowej Rady wchodzą prezesi izb oraz wybrani przez walne zgromadzenie delegaci po jednym z każdej izby.
 
 **Art. 38.** Do zadań Krajowej Rady należy w szczególności:
+
+- **1)** reprezentowanie izb przed Sejmem, Senatem i organami administracji rządowej, z wyłączeniem administracji rządowej w województwie;
+- **2)** opiniowanie projektów aktów prawnych dotyczących rolnictwa i gospodarki żywnościowej oraz założeń i programów polityki rolnej;
+- **3)** przedstawianie właściwym organom, o których mowa w pkt 1, oraz organom samorządu terytorialnego wniosków w sprawie sytuacji w rolnictwie oraz inicjatyw w zakresie regulacji prawnych;
+- **4)** udzielanie izbom pomocy w wykonywaniu ich zadań;
+- **5)** zarządzanie wyborów do walnych zgromadzeń izb.
 
 **Art. 39.**
 

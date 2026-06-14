@@ -8,7 +8,7 @@ pos: 433
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
@@ -659,6 +659,14 @@ source: "isap-pdf"
 **Art. 65.** Nieruchomości zajęte na zakwaterowanie przejściowe podlegają zwolnieniu nie później niż w ciągu 6 miesięcy od dnia ich zajęcia. Ograniczenia tego nie stosuje się w razie wprowadzenia stanu wojennego, ogłoszenia mobilizacji i w czasie wojny.
 
 **Art. 66.** Zajęcie nieruchomości na zakwaterowanie przejściowe następuje na podstawie:
+
+- **1)** decyzji administracyjnej wydanej przez:
+    - **a)** starostę wykonującego zadanie z zakresu administracji rządowej – w stosunku do nieruchomości Skarbu Państwa, z zastrzeżeniem lit. c oraz d,
+    - **b)** wójta (burmistrza, prezydenta miasta), starostę, marszałka województwa – w stosunku do nieruchomości stanowiących własność odpowiedniej jednostki samorządu terytorialnego,
+    - **c)** dyrektora regionalnej dyrekcji lasów państwowych – w stosunku do obiektów i gruntów leśnych Skarbu Państwa będących w zarządzie Państwowego Gospodarstwa Leśnego „Lasy Państwowe”,
+    - **d)** Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa – w stosunku do nieruchomości rolnych Skarbu Państwa wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa;
+
+- **2)** pisemnej umowy zawartej przez organ wojskowy z osobą fizyczną lub prawną będącą właścicielem nieruchomości.
 
 **Art. 67.**
 

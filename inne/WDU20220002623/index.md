@@ -8,10 +8,10 @@ pos: 2623
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2623 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 9 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002623) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2623/text.pdf) |
 
-Poz. 2623 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 9 grudnia 2022 r.
-w sprawie wysokości zryczałtowanej miesięcznej opłaty związanej z użytkowaniem w celi mieszkalnej dodatkowego sprzętu elektronicznego lub elektrycznego Na podstawie art. 110b § 7 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm. ) zarządza się, co następuje: § 1. Wysokość zryczałtowanej miesięcznej opłaty związanej z użytkowaniem w celi mieszkalnej dodatkowego sprzętu elektronicznego lub elektrycznego wynosi 15 złotych miesięcznie.
+w sprawie wysokości zryczałtowanej miesięcznej opłaty związanej z użytkowaniem w celi mieszkalnej dodatkowego sprzętu elektronicznego lub elektrycznego Na podstawie art. 110b § 7 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm. ) zarządza się, co następuje:
+§ 1. Wysokość zryczałtowanej miesięcznej opłaty związanej z użytkowaniem w celi mieszkalnej dodatkowego sprzętu elektronicznego lub elektrycznego wynosi 15 złotych miesięcznie.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
 Minister Sprawiedliwości: Z. Ziobro
 

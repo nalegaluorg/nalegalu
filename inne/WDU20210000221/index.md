@@ -8,10 +8,10 @@ pos: 221
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 lutego 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 221 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 1 lutego 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000221) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/221/text.pdf) |
 
-Poz. 221 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 1 lutego 2021 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków dokonywania zmniejszeń kwot pomocy oraz pomocy technicznej w przypadku naruszenia przepisów o zamówieniach publicznych Na podstawie art. 43a ust. 6 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 182) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 maja 2020 r. w sprawie szczegółowych warunków dokonywania zmniejszeń kwot pomocy oraz pomocy technicznej w przypadku naruszenia przepisów o zamówieniach publicznych (Dz. U. poz. 1028 i 2274) w załączniku nr 1a do rozporządzenia wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowych warunków dokonywania zmniejszeń kwot pomocy oraz pomocy technicznej w przypadku naruszenia przepisów o zamówieniach publicznych Na podstawie art. 43a ust. 6 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 182) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 maja 2020 r. w sprawie szczegółowych warunków dokonywania zmniejszeń kwot pomocy oraz pomocy technicznej w przypadku naruszenia przepisów o zamówieniach publicznych (Dz. U. poz. 1028 i 2274) w załączniku nr 1a do rozporządzenia wprowadza się następujące zmiany:
 1) w lp. 7 w kolumnie czwartej „Opis naruszenia” po wyrazach „lit. a” dodaje się wyrazy „lub d”;
 2) w lp. 10 w kolumnie czwartej „Opis naruszenia” w ust. 7 po wyrazach „art. 168 ust. 2 pkt 2” dodaje się wyrazy „lub ust. 3”;
 3) w lp. 13:

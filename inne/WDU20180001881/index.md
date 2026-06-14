@@ -8,10 +8,10 @@ pos: 1881
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 października 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1881 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 28 września 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1881/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 28 września 2018 r.
-w sprawie nostryfikacji dyplomów ukończenia studiów za granicą oraz potwierdzania ukończenia studiów na określonym poziomie Na podstawie art. 327 ust. 8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668) zarządza się, co następuje:
+w sprawie nostryfikacji dyplomów ukończenia studiów za granicą oraz potwierdzania ukończenia studiów na określonym poziomie Na podstawie art. 327 ust. 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) dokumenty dołączane do wniosku o uznanie dyplomu ukończenia studiów za granicą za równoważny odpowiedniemu polskiemu dyplomowi i tytułowi zawodowemu oraz do wniosku o potwierdzenie ukończenia studiów na określonym poziomie;
 2) szczegółowy tryb postępowania nostryfikacyjnego i postępowania w sprawie potwierdzenia ukończenia studiów na określonym poziomie;
 3) terminy załatwiania spraw w postępowaniu nostryfikacyjnym i postępowaniu w sprawie potwierdzenia ukończenia studiów na określonym poziomie;
 4) sposób wnoszenia opłaty za przeprowadzenie postępowania nostryfikacyjnego i postępowania w sprawie potwierdzenia ukończenia studiów na określonym poziomie;
 5) wzór zaświadczenia wydawanego po przeprowadzeniu postępowania nostryfikacyjnego i postępowania w sprawie potwierdzenia ukończenia studiów na określonym poziomie.
+§ 2. 1. Osoba ubiegająca się o uznanie dyplomu ukończenia studiów za granicą za równoważny odpowiedniemu polskiemu dyplomowi i tytułowi zawodowemu składa wniosek do wybranej uczelni, o której mowa w art. 327 ust. 4 zdanie drugie ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „uczelnią nostryfikującą”.
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
 1) dyplom ukończenia studiów;
 2) dokumenty umożliwiające ocenę przebiegu studiów, uzyskiwanych efektów uczenia się i czasu trwania studiów;
@@ -47,11 +48,12 @@ w sprawie nostryfikacji dyplomów ukończenia studiów za granicą oraz potwierd
 3. Uczelnia nostryfikująca określa warunki i terminy przeprowadzenia egzaminów lub odbycia praktyk zawodowych, o których mowa w ust. 2.
 § 6. 1. Uczelnia nostryfikująca uznaje albo odmawia uznania dyplomu ukończenia studiów za granicą za równoważny odpowiedniemu polskiemu dyplomowi i tytułowi zawodowemu w terminie 90 dni od dnia złożenia wniosku spełniającego wymagania formalne.
 2. Do terminu, o którym mowa w ust. 1, nie wlicza się okresów wyznaczonych na:
-1) przedłożenie tłumaczenia dokumentów w przypadkach, o których mowa w § 4;
-2) złożenie egzaminów lub odbycie praktyk zawodowych w przypadku, o którym mowa w § 5 ust. 2.
+1) przedłożenie tłumaczenia dokumentów – w przypadkach, o których mowa w § 4;
+2) złożenie egzaminów lub odbycie praktyk zawodowych – w przypadku, o którym mowa w § 5 ust. 2.
 § 7. 1. Opłatę za przeprowadzenie postępowania nostryfikacyjnego wnosi się na rachunek bankowy albo w kasie uczelni nostryfikującej, w terminie określonym przez tę uczelnię.
 2. Termin, o którym mowa w ust. 1, nie może być krótszy niż 14 dni.
 § 8. Wzór zaświadczenia wydawanego po przeprowadzeniu postępowania nostryfikacyjnego stanowi załącznik nr 1 do rozporządzenia.
+§ 9. 1. Osoba ubiegająca się o potwierdzenie ukończenia studiów na określonym poziomie składa wniosek do wybranej uczelni, o której mowa w art. 327 ust. 4 zdanie drugie ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „uczelnią potwierdzającą”.
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
 1) dokumenty poświadczające:
 a) ukończenie studiów,
@@ -74,11 +76,13 @@ b) miejscu i dacie urodzenia.
 3. Uczelnia potwierdzająca określa warunki i terminy przeprowadzenia egzaminów lub odbycia praktyk zawodowych, o których mowa w ust. 2.
 § 13. 1. Uczelnia potwierdzająca potwierdza albo odmawia potwierdzenia ukończenia studiów na określonym poziomie w terminie 90 dni od dnia złożenia wniosku spełniającego wymagania formalne.
 2. Do terminu, o którym mowa w ust. 1, nie wlicza się okresów wyznaczonych na:
-1) przedłożenie tłumaczenia dokumentów w przypadkach, o których mowa w § 11;
-2) złożenie egzaminów lub odbycie praktyk zawodowych w przypadku, o którym mowa w § 12 ust. 2.
+1) przedłożenie tłumaczenia dokumentów – w przypadkach, o których mowa w § 11;
+2) złożenie egzaminów lub odbycie praktyk zawodowych – w przypadku, o którym mowa w § 12 ust. 2.
 § 14. 1. Opłatę za przeprowadzenie postępowania w sprawie potwierdzenia ukończenia studiów na określonym poziomie wnosi się na rachunek bankowy albo w kasie uczelni potwierdzającej, w terminie określonym przez tę uczelnię.
+2. Termin, o którym mowa w ust. 1, nie może być krótszy niż 14 dni.
 § 15. Wzór zaświadczenia wydawanego po przeprowadzeniu postępowania w sprawie potwierdzenia ukończenia studiów na określonym poziomie stanowi załącznik nr 2 do rozporządzenia.
-Minister Nauki i Szkolnictwa Wyższego: wz. P. Müller września 2018 r. (poz. …) Załącznik nr 1 WZÓR …………..………………… ......................................
+§ 16. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Nauki i Szkolnictwa Wyższego: wz. P. Müller Załączniki do rozporządzenia Ministra Dziennik Ustaw – 5 – Nauki i Szkolnictwa Wyższego z dnia Poz. 28 1881 września 2018 r. (poz. …) Załącznik nr 1 WZÓR WZÓR …………..………………… ......................................
 ZAŚWIADCZENIE NR ...
 Zaświadcza się, że dyplom ukończenia studiów nr .....................................................................
 o nadaniu ......................................................................................................................................
@@ -93,18 +97,19 @@ na podstawie ...................................................................
 Zaświadczenie jest ważne łącznie z oryginałem dyplomu albo odpisem dyplomu poświadczonym za zgodność z oryginałem.
 …………………………..
 ..……..….…..…..............................................
-WZÓR Załącznik nr 2 WZÓR …………..………………… .....................................
+
+#### Rozdział 1 Przepis ogólny
+
+#### Rozdział 2 Postępowanie nostryfikacyjne
+
+#### Rozdział 3 Postępowanie w sprawie potwierdzenia ukończenia studiów na określonym poziomie
+
+#### Rozdział 4 Przepis końcowy
+
+## Załącznik nr 2 — WZÓR WZÓR …………..………………… .....................................
+
 ZAŚWIADCZENIE NR ...
 Zaświadcza się, że Pan/Pani …………………………………………………………………… urodzony(-na) …………………….. w ………………….……………………………………...
 ukończył(a) studia na poziomie …..……………………………………………………...…… …………………………..
 ………..….……..............................................
-WZÓR
-
-#### Rozdział 1 Przepis ogólny § 1. Rozporządzenie określa:
-
-#### Rozdział 2 Postępowanie nostryfikacyjne § 2. 1. Osoba ubiegająca się o uznanie dyplomu ukończenia studiów za granicą za równoważny odpowiedniemu polskiemu dyplomowi i tytułowi zawodowemu składa wniosek do wybranej uczelni, o której mowa w art. 327 ust. 4 zdanie drugie ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, zwanej dalej „uczelnią nostryfikującą”.
-
-#### Rozdział 3 Postępowanie w sprawie potwierdzenia ukończenia studiów na określonym poziomie § 9. 1. Osoba ubiegająca się o potwierdzenie ukończenia studiów na określonym poziomie składa wniosek do wybranej uczelni, o której mowa w art. 327 ust. 4 zdanie drugie ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym
-
-#### Rozdział 4 Przepis końcowy § 16. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

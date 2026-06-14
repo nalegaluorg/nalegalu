@@ -8,7 +8,7 @@ pos: 462
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. K. 21/99 Trybunał Konstytucyjny w składzie: Jadwiga Skórzewska-Łosiak – przewodnicząca Krzysztof Kolasiński Marek Safjan – sprawozdawca Jerzy Stępień Marian Zdyb Joanna Szymczak – protokolant po rozpoznaniu 10 maja 2000 r. na rozprawie wniosku Rzecznika Praw Obywatelskich, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej, Prokuratora Generalnego oraz umocowanych przedstawicieli Koordynatora Służb Specjalnych i Ministra Spraw Wewnętrznych i Administracji, w sprawie zgodności: art. 42 ust. 1 ustawy z 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz.U. Nr 11, poz. 95) w zakresie, w jakim powyższy przepis zamyka drogę sądową, z art. 45 ust. 1 i art. 77 ust. 2 w zw. z art. 184 zdanie pierwsze Konstytucji Rzeczypospolitej Polskiej oraz z art. 13 Konwencji o Ochronie Praw Człowieka i Podstawowych Wolności o r z e k a:

@@ -8,7 +8,7 @@ pos: 1957
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Polskiej Agencji Kosmicznej
@@ -153,6 +153,9 @@ source: "isap-pdf"
 #### Rozdział 2 Organizacja i działalność Agencji
 
 **Art. 5.** Organami Agencji są:
+
+- **1)** Prezes Agencji;
+- **2)** Rada Agencji.
 
 **Art. 6.**
 

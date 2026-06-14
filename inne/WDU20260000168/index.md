@@ -8,12 +8,10 @@ pos: 168
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Akademii Nauk
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -53,8 +51,8 @@ o Polskiej Akademii Nauk
 2. Do zadań Akademii należy w szczególności:
 
 - **1)** prowadzenie działalności naukowej;
-- **2)** wspieranie rozwoju młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
-- **3)** kształcenie w szkole doktorskiej, na studiach podyplomowych i w innych formach kształcenia na zasadach określonych w ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **2)** wspieranie rozwoju młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **3)** kształcenie w szkole doktorskiej, na studiach podyplomowych i w innych formach kształcenia na zasadach określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **4)** formułowanie zasad etyki w nauce;
 - **5)** przedstawianie opinii i programów dotyczących spraw nauki oraz wykorzystywania wyników działalności naukowej w praktyce;
 - **6)** wykonywanie na wniosek Prezydenta Rzeczypospolitej Polskiej, Marszałka Sejmu lub Senatu, ministrów lub centralnych organów administracji rządowej lub z inicjatywy własnej opinii, ocen, ekspertyz i prognoz dotyczących spraw istotnych dla planowania i realizacji polityki państwa;
@@ -161,6 +159,11 @@ o Polskiej Akademii Nauk
 
 **Art. 13.** Organami Akademii są:
 
+- **1)** Zgromadzenie Ogólne Akademii;
+- **2)** Prezydium Akademii;
+- **3)** Prezes Akademii;
+- **4)** Kanclerz Akademii.
+
 **Art. 14.**
 
 1. Najwyższym organem Akademii jest Zgromadzenie Ogólne Akademii.
@@ -239,6 +242,9 @@ o Polskiej Akademii Nauk
 **Art. 20.** Prezydium Akademii może powoływać na czas określony komisje i zespoły doradcze. Komisje i zespoły doradcze działają niedłużej niż do końca kadencji Prezydium Akademii.
 
 **Art. 20a.** Posiedzenia organów Akademii, o których mowa w art. 13 pkt 1 i 2, oraz komisji i zespołów doradczych, o których mowa w art. 20, mogą być przeprowadzane przy użyciu środków komunikacji elektronicznej, zapewniających w szczególności:
+
+- **1)** transmisję posiedzenia w czasie rzeczywistym między jego uczestnikami,
+- **2)** wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku – z zachowaniem niezbędnych zasad bezpieczeństwa.
 
 **Art. 21.**
 
@@ -325,6 +331,14 @@ o Polskiej Akademii Nauk
 #### Rozdział 4 Korporacja uczonych Akademii
 
 **Art. 27.** Korporacja uczonych Akademii obejmuje:
+
+- **1)** wydziały, w liczbie niewiększej niż pięć;
+- **2)** oddziały;
+- **3)** komitety naukowe;
+- **4)** komitety problemowe;
+- **5)** akademię młodych uczonych;
+- **6)** komisję do spraw etyki w nauce;
+- **7)** komisję rewizyjną.
 
 **Art. 28.**
 
@@ -478,11 +492,18 @@ o Polskiej Akademii Nauk
 
 **Art. 41a.** Posiedzenia gremiów kolegialnych podmiotów, o których mowa w art. 27 pkt 1 i 2, oraz posiedzenia podmiotów, o których mowa w art. 27 pkt 3–7, mogą być przeprowadzane przy użyciu środków komunikacji elektronicznej, zapewniających w szczególności:
 
+- **1)** transmisję posiedzenia w czasie rzeczywistym między jego uczestnikami,
+- **2)** wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku – z zachowaniem niezbędnych zasad bezpieczeństwa.
+
 #### Rozdział 5 Jednostki naukowe i inne jednostki organizacyjne Akademii
 
 **Art. 42.** Podstawową jednostką naukową Akademii jest instytut naukowy, zwany dalej „instytutem”.
 
 **Art. 43.** Instytut tworzy się, jeżeli:
+
+- **1)** istnieje potrzeba prowadzenia w sposób ciągły działalności naukowej, która ze względu na swój zakres, skalę lub charakter nie może być prowadzona przez inne podmioty, o których mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, oraz do prowadzenia tej działalności jest potrzebna znaczna koncentracja pracowników naukowych oraz odpowiednia aparatura badawcza;
+- **2)** zostanie zapewniona niezbędna liczba pracowników, niemniejsza niż 12 w przeliczeniu na pełny wymiar czasu pracy, o kwalifikacjach odpowiednich do prowadzenia działalności naukowej;
+- **3)** zapewniono odpowiednie lokale, wyposażenie i środki finansowe.
 
 **Art. 44.** Uchwałę o utworzeniu instytutu podejmuje Prezydium Akademii, na wniosek Prezesa Akademii złożony po zasięgnięciu opinii wydziału właściwego ze względu na specjalność naukową instytutu. Utworzenie instytutu wymaga zgody ministra właściwego do spraw szkolnictwa wyższego i nauki, o którą występuje Prezes Akademii.
 
@@ -520,9 +541,9 @@ o Polskiej Akademii Nauk
 
 2. Wnioski o wpis do rejestru składają:
 
-- **1)** wiceprezes Akademii nadzorujący prace wydziału właściwego ze względu na specjalność naukową instytutu o wpis instytutu;
-- **2)** dyrektor instytutu o wykreślenie instytutu włączonego, połączonego lub podzielonego albo o dokonanie zmiany wpisu;
-- **3)** likwidator instytutu o wykreślenie instytutu.
+- **1)** wiceprezes Akademii nadzorujący prace wydziału właściwego ze względu na specjalność naukową instytutu – o wpis instytutu;
+- **2)** dyrektor instytutu – o wykreślenie instytutu włączonego, połączonego lub podzielonego albo o dokonanie zmiany wpisu;
+- **3)** likwidator instytutu – o wykreślenie instytutu.
 
 3. Wpis do rejestru lub odmowa wpisu następuje w drodze decyzji administracyjnej Prezesa Akademii.
 
@@ -535,20 +556,20 @@ o Polskiej Akademii Nauk
 - **3)** nazwy rubryk rejestru,
 - **4)** tryb dokonywania wpisów i zmian w rejestrze,
 - **5)** warunki wykreślenia instytutu z rejestru,
-- **6)** sposób i tryb wydawania z rejestru odpisów i wyciągów z zachowaniem zasady przejrzystości i dostępności do danych zawartych w rejestrze.
+- **6)** sposób i tryb wydawania z rejestru odpisów i wyciągów – z zachowaniem zasady przejrzystości i dostępności do danych zawartych w rejestrze.
 
 **Art. 50.**
 
 1. Do zadań instytutu należy prowadzenie działalności naukowej, w szczególności istotnej dla rozwoju kraju, upowszechnianie oraz wdrażanie wyników tej działalności.
 
-2. Instytut może organizować pracownie gościnne w celu prowadzenia działalności naukowej przez pracowników uczelni i innych podmiotów, o których mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+2. Instytut może organizować pracownie gościnne w celu prowadzenia działalności naukowej przez pracowników uczelni i innych podmiotów, o których mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 3. Instytut może prowadzić:
 
 - **1)** kształcenie w szkole doktorskiej i na studiach podyplomowych,
-- **2)** inne formy kształcenia związane z działalnością instytutu na zasadach określonych w ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+- **2)** inne formy kształcenia związane z działalnością instytutu – na zasadach określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
-4. Wynik ewaluacji jakości działalności naukowej instytutu, o której mowa w art. 265 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, stanowi podstawę stwierdzenia zgodności działalności instytutu z kierunkami, o których mowa w art. 15 ust. 2 pkt 8, oraz prawidłowości realizacji zadań przez instytut.
+4. Wynik ewaluacji jakości działalności naukowej instytutu, o której mowa w art. 265 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, stanowi podstawę stwierdzenia zgodności działalności instytutu z kierunkami, o których mowa w art. 15 ust. 2 pkt 8, oraz prawidłowości realizacji zadań przez instytut.
 
 **Art. 51.**
 
@@ -564,7 +585,7 @@ o Polskiej Akademii Nauk
 
 2. Dyrektor uczestniczy w zebraniach wydziału właściwego ze względu na specjalność naukową instytutu, z głosem stanowiącym, z wyjątkiem spraw dotyczących zgłaszania lub popierania kandydatów na członków Akademii.
 
-3. Prezes Akademii powołuje na dyrektora instytutu osobę wybraną w drodze konkursu. Kandydat na dyrektora jest wyłaniany spośród osób posiadających co najmniej stopień naukowy doktora. Kandydatem na dyrektora instytutu może być także obywatel innego państwa lub obywatel polski, który uzyskał za granicą stopień naukowy lub stopień w zakresie sztuki, o którym mowa w art. 328 ust. 1 i 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, albo stopień uznany za równoważny z polskim stopniem zgodnie z art. 328 ust. 3 tej ustawy.
+3. Prezes Akademii powołuje na dyrektora instytutu osobę wybraną w drodze konkursu. Kandydat na dyrektora jest wyłaniany spośród osób posiadających co najmniej stopień naukowy doktora. Kandydatem na dyrektora instytutu może być także obywatel innego państwa lub obywatel polski, który uzyskał za granicą stopień naukowy lub stopień w zakresie sztuki, o którym mowa w art. 328 ust. 1 i 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, albo stopień uznany za równoważny z polskim stopniem zgodnie z art. 328 ust. 3 tej ustawy.
 
 4. Kandydata na dyrektora instytutu wyłania komisja powołana przez radę kuratorów wydziału właściwego ze względu na specjalność naukową instytutu.
 
@@ -596,7 +617,7 @@ o Polskiej Akademii Nauk
 
 **Art. 55.**
 
-1. Rada naukowa instytutu sprawuje bieżący nadzór nad działalnością instytutu, dbając w szczególności o wysoki poziom jego działalności naukowej i rozwój młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+1. Rada naukowa instytutu sprawuje bieżący nadzór nad działalnością instytutu, dbając w szczególności o wysoki poziom jego działalności naukowej i rozwój młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 2. Rada naukowa instytutu w szczególności:
 
@@ -610,7 +631,7 @@ o Polskiej Akademii Nauk
 - **7)** uchwala regulamin zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej oraz zasad komercjalizacji wyników badań naukowych i prac rozwojowych;
 - **7a)** wykonuje zadania związane z:
     - **a)** przypisywaniem poziomów Polskiej Ramy Kwalifikacji do kwalifikacji nadawanych po ukończeniu studiów podyplomowych,
-    - **b)** włączeniem do Zintegrowanego Systemu Kwalifikacji kwalifikacji nadawanych po ukończeniu studiów podyplomowych i innych form kształcenia zgodnie z ustawą z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606).
+    - **b)** włączeniem do Zintegrowanego Systemu Kwalifikacji kwalifikacji nadawanych po ukończeniu studiów podyplomowych i innych form kształcenia – zgodnie z ustawą z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606).
 
 - **8)** (uchylony)
 - **9)** (uchylony)
@@ -637,7 +658,7 @@ o Polskiej Akademii Nauk
 5. Posiedzenia rad naukowych mogą być przeprowadzane przy użyciu środków komunikacji elektronicznej, zapewniających w szczególności:
 
 - **1)** transmisję posiedzenia w czasie rzeczywistym między jego uczestnikami,
-- **2)** wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku z zachowaniem niezbędnych zasad bezpieczeństwa.
+- **2)** wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku – z zachowaniem niezbędnych zasad bezpieczeństwa.
 
 **Art. 57.**
 
@@ -661,7 +682,7 @@ o Polskiej Akademii Nauk
 6. Do zadań centrów należy:
 
 - **1)** wspieranie i koordynowanie działalności badawczej instytutów;
-- **2)** inicjowanie i koordynowanie udziału podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, w międzynarodowych programach badawczych;
+- **2)** inicjowanie i koordynowanie udziału podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w międzynarodowych programach badawczych;
 - **3)** inicjowanie organizowania środowiskowych centrów aparaturowych i nadzór nad nimi;
 - **4)** współdziałanie w organizowaniu szkoły doktorskiej;
 - **5)** organizowanie okresowej wymiany pracowników naukowych pomiędzy instytutami a uczelniami;
@@ -686,7 +707,7 @@ o Polskiej Akademii Nauk
 
 **Art. 59.**
 
-1. Akademia może utworzyć, na podstawie porozumienia z organami administracji rządowej lub samorządowej, wspólny instytut z uczelniami publicznymi lub z innymi podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2, 4–6, 7 i 8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce. Wspólny instytut może być utworzony na podstawie bezpośrednich porozumień z tymi uczelniami lub innymi podmiotami. Przepisy art. 43 i art. 61–65 stosuje się odpowiednio.
+1. Akademia może utworzyć, na podstawie porozumienia z organami administracji rządowej lub samorządowej, wspólny instytut z uczelniami publicznymi lub z innymi podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2, 4–6, 7 i 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce. Wspólny instytut może być utworzony na podstawie bezpośrednich porozumień z tymi uczelniami lub innymi podmiotami. Przepisy art. 43 i art. 61–65 stosuje się odpowiednio.
 
 2. Porozumienie, o którym mowa w ust. 1, określa formę prawną wspólnego instytutu.
 
@@ -750,6 +771,12 @@ o Polskiej Akademii Nauk
 5. Do podziału instytutu stosuje się odpowiednio przepisy art. 62 ust. 3–6.
 
 **Art. 64.** Reorganizacja instytutu może polegać na:
+
+- **1)** zmianie przedmiotu lub zakresu działania instytutu;
+- **2)** zmianie dotychczasowej nazwy instytutu;
+- **3)** dokonaniu zmian w strukturze organizacyjnej instytutu:
+    - **a)** likwidacji wyodrębnionej organizacyjnie części instytutu,
+    - **b)** przekazaniu Akademii lub sprzedaży wyodrębnionych organizacyjnie i gospodarczo części instytutu.
 
 **Art. 65.**
 
@@ -883,7 +910,7 @@ o Polskiej Akademii Nauk
 
 1. Działalność Akademii jest finansowana ze środków pochodzących z budżetu państwa i z innych źródeł.
 
-2. Środki pochodzące z budżetu państwa, o których mowa w ust. 1, są klasyfikowane w dziale „Szkolnictwo wyższe i nauka” i ujmowane w wyodrębnionej części budżetu państwa „Polska Akademia Nauk”, której dysponentem jest minister właściwy do spraw szkolnictwa wyższego i nauki.
+2. Środki pochodzące z budżetu państwa, o których mowa w ust. 1, są klasyfikowane w dziale „Szkolnictwo wyższe i nauka” i ujmowane w wyodrębnionej części budżetu państwa – „Polska Akademia Nauk”, której dysponentem jest minister właściwy do spraw szkolnictwa wyższego i nauki.
 
 3. Prezes Akademii wykonuje zadania i kompetencje dysponowania budżetem Akademii. W zakresie, o którym mowa w ust. 2, Prezes Akademii podlega ministrowi właściwemu do spraw szkolnictwa wyższego i nauki.
 
@@ -922,7 +949,7 @@ o Polskiej Akademii Nauk
 
 **Art. 80.** W przypadku realizacji przez instytut zadań, o których mowa w art. 2 ust. 2 pkt 3 oraz art. 79 ust. 1 pkt 1 lit. d, Akademia może z przychodów, o których mowa w art. 79 ust. 1 pkt 1 i 2, przekazywać tym jednostkom dotacje z przeznaczeniem na dofinansowanie kosztów tych zadań.
 
-**Art. 81.** Przychody, o których mowa w art. 79 ust. 1 pkt 6–9, Akademia przeznacza na realizację zadań statutowych, w szczególności na rozwój nauki, w tym na promowanie nowatorskich badań, dofinansowywanie inwestycji wspomagających działalność naukową, promowanie rozwoju młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, przez przyznawanie stypendiów naukowych przez Prezesa Akademii, a także na koszty utrzymania mienia Akademii, w tym remonty, przebudowy lub rozbudowy i inne inwestycje, oraz finansowanie zobowiązań publicznoprawnych i cywilnoprawnych. Środki te, niewydatkowane w danym roku, przechodzą na rok następny.
+**Art. 81.** Przychody, o których mowa w art. 79 ust. 1 pkt 6–9, Akademia przeznacza na realizację zadań statutowych, w szczególności na rozwój nauki, w tym na promowanie nowatorskich badań, dofinansowywanie inwestycji wspomagających działalność naukową, promowanie rozwoju młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, przez przyznawanie stypendiów naukowych przez Prezesa Akademii, a także na koszty utrzymania mienia Akademii, w tym remonty, przebudowy lub rozbudowy i inne inwestycje, oraz finansowanie zobowiązań publicznoprawnych i cywilnoprawnych. Środki te, niewydatkowane w danym roku, przechodzą na rok następny.
 
 **Art. 82.**
 
@@ -964,7 +991,7 @@ o Polskiej Akademii Nauk
 
 5. Dokonanie czynności, o której mowa w ust. 3, może nastąpić, jeżeli w terminie 45 dni od dnia doręczenia zgłoszenia Prezes Akademii nie wniósł sprzeciwu, o którym mowa w ust. 4. Zgłoszona czynność niedokonana w okresie roku od dnia doręczenia zgłoszenia wymaga dokonania nowego zgłoszenia.
 
-6. Uczelnia niepubliczna lub podmioty inne niż wymienione w ust. 2 mogą posiadać w spółce kapitałowej, której wspólnikiem lub akcjonariuszem jest Akademia lub jej instytuty, akcje lub udziały stanowiące łącznie niewięcej niż 25 % ogólnej liczby głosów lub kapitału zakładowego, a w przypadku prostej spółki akcyjnej niewięcej niż 25 % ogólnej liczby głosów lub ogólnej liczby akcji.
+6. Uczelnia niepubliczna lub podmioty inne niż wymienione w ust. 2 mogą posiadać w spółce kapitałowej, której wspólnikiem lub akcjonariuszem jest Akademia lub jej instytuty, akcje lub udziały stanowiące łącznie niewięcej niż 25 % ogólnej liczby głosów lub kapitału zakładowego, a w przypadku prostej spółki akcyjnej – niewięcej niż 25 % ogólnej liczby głosów lub ogólnej liczby akcji.
 
 7. Spółka, o której mowa w ust. 1, może prowadzić wyodrębnioną organizacyjnie i finansowo działalność gospodarczą związaną z wykorzystaniem i udostępnianiem infrastruktury badawczej.
 
@@ -1049,6 +1076,13 @@ o Polskiej Akademii Nauk
 
 **Art. 87.** Jednostki naukowe Akademii mogą zatrudniać:
 
+- **1)** pracowników naukowych;
+- **2)** pracowników badawczo-technicznych;
+- **3)** pracowników bibliotecznych, dokumentacji i informacji naukowej;
+- **4)** pracowników inżynieryjnych i technicznych;
+- **5)** pracowników organizacyjno-ekonomicznych i administracyjnych;
+- **6)** pracowników na stanowiskach robotniczych i obsługi.
+
 **Art. 88.**
 
 1. Pracownicy naukowi mogą być zatrudniani na stanowiskach:
@@ -1068,7 +1102,7 @@ o Polskiej Akademii Nauk
 
 1. Na stanowisku profesora można zatrudnić osobę, która posiada tytuł profesora.
 
-2. Na stanowisku profesora instytutu można zatrudnić osobę, która posiada stopień doktora habilitowanego lub tytuł profesora, a w przypadku osoby na stałe zamieszkującej za granicą co najmniej stopień doktora.
+2. Na stanowisku profesora instytutu można zatrudnić osobę, która posiada stopień doktora habilitowanego lub tytuł profesora, a w przypadku osoby na stałe zamieszkującej za granicą – co najmniej stopień doktora.
 
 3. Na stanowisku adiunkta można zatrudnić osobę, która posiada co najmniej stopień doktora.
 
@@ -1082,13 +1116,22 @@ o Polskiej Akademii Nauk
 
 **Art. 90.** Bibliotekarze oraz pracownicy dokumentacji i informacji naukowej mogą być zatrudnieni na stanowiskach:
 
+- **1)** kustosza dyplomowanego;
+- **2)** starszego kustosza dyplomowanego;
+- **3)** asystenta bibliotecznego;
+- **4)** adiunkta bibliotecznego;
+- **5)** asystenta dokumentacji i informacji naukowej;
+- **6)** adiunkta dokumentacji i informacji naukowej;
+- **7)** dokumentalisty dyplomowanego;
+- **8)** starszego dokumentalisty dyplomowanego.
+
 **Art. 91.**
 
 1. Stosunek pracy na stanowisku profesora lub profesora instytutu nawiązuje się na podstawie mianowania albo umowy o pracę. Na podstawie mianowania zatrudnia się wyłącznie osobę posiadającą tytuł profesora. Wyłącznie na podstawie umowy o pracę można zatrudnić osobę, która:
 
 - **1)** posiada ustalone prawo do emerytury lub renty;
 - **2)** jest zatrudniona w jednostce naukowej Akademii w niepełnym wymiarze czasu pracy;
-- **3)** jest zatrudniona na podstawie mianowania w innym podmiocie, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+- **3)** jest zatrudniona na podstawie mianowania w innym podmiocie, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 2. Stosunek pracy z innymi pracownikami naukowymi niż określeni w ust. 1 nawiązuje się przez zawarcie umowy o pracę na czas nieokreślony lub na czas określony, niezbędny do wykonania określonego zadania badawczego.
 
@@ -1104,7 +1147,11 @@ o Polskiej Akademii Nauk
 - **2)** na okres realizacji projektu obejmującego badania naukowe lub prace rozwojowe, finansowanego w trybie konkursowym ze środków finansowych na szkolnictwo wyższe i naukę lub środków finansowych pochodzących z budżetu Unii Europejskiej, z niepodlegających zwrotowi środków z pomocy udzielonej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub z innych środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi;
 - **3)** na tym samym stanowisku, jeżeli poprzednia umowa o pracę była zawarta na czas niekrótszy niż trzy lata.
 
-**Art. 91a.** Wysokość miesięcznego wynagrodzenia zasadniczego w jednostce naukowej Akademii dla pracownika naukowego nie może być niższa niż 50 % wynagrodzenia określonego w przepisach wydanych na podstawie art. 137 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, z tym że dla:
+**Art. 91a.** Wysokość miesięcznego wynagrodzenia zasadniczego w jednostce naukowej Akademii dla pracownika naukowego nie może być niższa niż 50 % wynagrodzenia określonego w przepisach wydanych na podstawie art. 137 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, z tym że dla:
+
+- **1)** profesora – wynosi niemniej niż 100 %,
+- **2)** profesora instytutu – wynosi niemniej niż 83 %,
+- **3)** adiunkta – wynosi niemniej niż 73 % – tego wynagrodzenia.
 
 **Art. 92.** (uchylony)
 
@@ -1138,7 +1185,18 @@ o Polskiej Akademii Nauk
 
 **Art. 94a.** Rada naukowa uchwala regulamin zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej oraz zasad komercjalizacji wyników badań naukowych i prac rozwojowych, który określa w szczególności:
 
+- **1)** prawa i obowiązki instytutu, pracowników oraz doktorantów w zakresie ochrony i korzystania z praw autorskich i praw pokrewnych oraz praw własności przemysłowej;
+- **2)** zasady wynagradzania twórców;
+- **3)** zasady podziału środków uzyskanych z komercjalizacji między twórcą będącym pracownikiem instytutu a tym instytutem;
+- **4)** zasady i procedury komercjalizacji wyników badań naukowych i prac rozwojowych oraz know-how związanego z tymi wynikami;
+- **5)** zasady korzystania z majątku instytutu wykorzystywanego do komercjalizacji wyników badań naukowych i prac rozwojowych oraz świadczenia usług naukowo-badawczych;
+- **6)** zasady i tryb przekazywania instytutowi przez pracownika lub doktoranta tego instytutu informacji o wynikach badań naukowych lub prac rozwojowych oraz o know-how związanym z tymi wynikami, informacji o uzyskanych przez pracownika instytutu środkach z komercjalizacji oraz zasady i tryb przekazywania przez pracownika instytutu przysługujących instytutowi części środków uzyskanych z komercjalizacji;
+- **7)** zasady i tryb przekazywania pracownikowi przez instytut informacji o decyzjach, o których mowa w art. 94c ust. 1 i 2, oraz zasady i tryb przekazywania przez instytut przysługujących pracownikowi części środków uzyskanych z komercjalizacji.
+
 **Art. 94b.** Do wyników:
+
+- **1)** badań naukowych będących wynalazkiem, wzorem użytkowym, wzorem przemysłowym lub topografią układu scalonego, wyhodowaną albo odkrytą i wyprowadzoną odmianą rośliny,
+- **2)** prac rozwojowych – powstałych w ramach wykonywania przez pracownika instytutu obowiązków ze stosunku pracy oraz do know-how związanego z tymi wynikami stosuje się przepisy art. 94c–94f.
 
 **Art. 94c.**
 
@@ -1160,7 +1218,7 @@ o Polskiej Akademii Nauk
 - **1)** zachowania poufności wyników badań naukowych lub prac rozwojowych oraz know-how związanego z tymi wynikami,
 - **2)** przekazania instytutowi wszystkich posiadanych przez niego informacji, utworów wraz z własnością nośników, na których utwory te utrwalono, i doświadczeń technicznych potrzebnych do komercjalizacji wyników,
 - **3)** powstrzymania się od prowadzenia jakichkolwiek działań zmierzających do wdrażania wyników,
-- **4)** współdziałania w procesie komercjalizacji wyników, w tym w postępowaniach zmierzających do uzyskania praw wyłącznych niedłużej niż przez okres przysługiwania praw instytutowi.
+- **4)** współdziałania w procesie komercjalizacji wyników, w tym w postępowaniach zmierzających do uzyskania praw wyłącznych – niedłużej niż przez okres przysługiwania praw instytutowi.
 
 **Art. 94d.**
 
@@ -1188,7 +1246,7 @@ o Polskiej Akademii Nauk
 
 **Art. 94f.** Po otrzymaniu od pracownika informacji o wynikach badań naukowych lub prac rozwojowych oraz o know-how związanym z tymi wynikami, o których mowa w art. 94b, instytut oraz pracownik mogą, w sposób odmienny niż stanowi ustawa, określić w drodze umowy prawa do tych wyników lub sposób i tryb komercjalizacji tych wyników.
 
-**Art. 94g.** W sprawach nieuregulowanych ustawą stosuje się przepisy ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170) oraz ustawy z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2021 r. poz. 213 oraz z 2025 r. poz. 1709).
+**Art. 94g.** W sprawach nieuregulowanych ustawą stosuje się przepisy ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170) oraz ustawy z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2021 r. poz. 213 oraz z 2025 r. poz. 1709).
 
 **Art. 95.** W jednostkach naukowych i innych jednostkach organizacyjnych Akademii nie może powstać stosunek bezpośredniej podległości służbowej między małżonkami oraz osobami pozostającymi ze sobą w stosunku pokrewieństwa do drugiego stopnia włącznie lub powinowactwa pierwszego stopnia oraz w stosunku przysposobienia, opieki lub kurateli.
 
@@ -1204,21 +1262,21 @@ o Polskiej Akademii Nauk
 
 1. Pracownikom Akademii przysługuje dodatek za wysługę lat:
 
-- **1)** pracownikom naukowym w wysokości 3 % miesięcznego wynagrodzenia zasadniczego po 3 latach pracy, wzrastający o 1 % w każdym następnym roku, do 20 % miesięcznego wynagrodzenia zasadniczego po 20 latach pracy;
-- **2)** pozostałym pracownikom w wysokości 5 % miesięcznego wynagrodzenia zasadniczego po 5 latach pracy, wzrastający o 1 % w każdym następnym roku, do 20 % miesięcznego wynagrodzenia zasadniczego po 20 latach pracy.
+- **1)** pracownikom naukowym – w wysokości 3 % miesięcznego wynagrodzenia zasadniczego po 3 latach pracy, wzrastający o 1 % w każdym następnym roku, do 20 % miesięcznego wynagrodzenia zasadniczego po 20 latach pracy;
+- **2)** pozostałym pracownikom – w wysokości 5 % miesięcznego wynagrodzenia zasadniczego po 5 latach pracy, wzrastający o 1 % w każdym następnym roku, do 20 % miesięcznego wynagrodzenia zasadniczego po 20 latach pracy.
 
 2. Za wieloletnią pracę pracownikom Akademii przysługują nagrody jubileuszowe w wysokości:
 
-- **1)** po 20 latach pracy 75 % wynagrodzenia miesięcznego;
-- **2)** po 25 latach pracy 100 % wynagrodzenia miesięcznego;
-- **3)** po 30 latach pracy 150 % wynagrodzenia miesięcznego;
-- **4)** po 35 latach pracy 200 % wynagrodzenia miesięcznego;
-- **5)** po 40 latach pracy 300 % wynagrodzenia miesięcznego;
-- **6)** po 45 latach pracy 400 % wynagrodzenia miesięcznego.
+- **1)** po 20 latach pracy – 75 % wynagrodzenia miesięcznego;
+- **2)** po 25 latach pracy – 100 % wynagrodzenia miesięcznego;
+- **3)** po 30 latach pracy – 150 % wynagrodzenia miesięcznego;
+- **4)** po 35 latach pracy – 200 % wynagrodzenia miesięcznego;
+- **5)** po 40 latach pracy – 300 % wynagrodzenia miesięcznego;
+- **6)** po 45 latach pracy – 400 % wynagrodzenia miesięcznego.
 
 **Art. 99.** Pracownikowi Akademii przechodzącemu na emeryturę lub rentę z tytułu niezdolności do pracy przysługuje jednorazowa odprawa w wysokości trzymiesięcznego wynagrodzenia obliczonego według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy.
 
-**Art. 100.** Pracownik naukowy zatrudniony w pełnym wymiarze czasu pracy po przepracowaniu co najmniej 3 lat w instytucie ma prawo do płatnego urlopu dla poratowania zdrowia w wymiarze nieprzekraczającym jednego roku według zasad i trybu określonych w ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+**Art. 100.** Pracownik naukowy zatrudniony w pełnym wymiarze czasu pracy po przepracowaniu co najmniej 3 lat w instytucie ma prawo do płatnego urlopu dla poratowania zdrowia w wymiarze nieprzekraczającym jednego roku według zasad i trybu określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 **Art. 101.**
 
@@ -1237,7 +1295,7 @@ o Polskiej Akademii Nauk
 - **2)** niedostarczenia w wyznaczonym terminie orzeczenia potwierdzającego zdolność do pracy na zajmowanym stanowisku, wydanego przez lekarza prowadzącego badania okresowe lub kontrolne;
 - **3)** dopuszczenia się przez niego:
     - **a)** czynu określonego w art. 115 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych stwierdzonego prawomocnym wyrokiem sądu,
-    - **b)** stwierdzonego prawomocnym orzeczeniem komisji dyscyplinarnej na podstawie orzeczenia komisji do spraw etyki w nauce: przywłaszczenia sobie autorstwa albo wprowadzenia w błąd co do autorstwa całości lub części cudzego utworu albo artystycznego wykonania, rozpowszechnienia, bez podania nazwiska lub pseudonimu twórcy, cudzego utworu w wersji oryginalnej albo w postaci opracowania, rozpowszechnienia, bez podania nazwiska lub pseudonimu twórcy, cudzego artystycznego wykonania albo publicznego zniekształcenia takiego utworu, artystycznego wykonania, fonogramu, wideogramu lub nadania, naruszenia w inny sposobu cudzych praw autorskich lub praw pokrewnych, fałszowania badań lub wyników badań naukowych, innego oszustwa naukowego;
+    - **b)** stwierdzonego prawomocnym orzeczeniem komisji dyscyplinarnej na podstawie orzeczenia komisji do spraw etyki w nauce: – przywłaszczenia sobie autorstwa albo wprowadzenia w błąd co do autorstwa całości lub części cudzego utworu albo artystycznego wykonania, – rozpowszechnienia, bez podania nazwiska lub pseudonimu twórcy, cudzego utworu w wersji oryginalnej albo w postaci opracowania, – rozpowszechnienia, bez podania nazwiska lub pseudonimu twórcy, cudzego artystycznego wykonania albo publicznego zniekształcenia takiego utworu, artystycznego wykonania, fonogramu, wideogramu lub nadania, – naruszenia w inny sposobu cudzych praw autorskich lub praw pokrewnych, – fałszowania badań lub wyników badań naukowych, – innego oszustwa naukowego;
 
 - **4)** skazania prawomocnym wyrokiem za przestępstwo umyślne.
 
@@ -1259,7 +1317,7 @@ o Polskiej Akademii Nauk
 
 3. Wygaśnięcie stosunku pracy stwierdza dyrektor.
 
-4. Stosunek pracy mianowanego pracownika naukowego pełniącego funkcję dyrektora z końcem roku, w którym ukończył on 70. rok życia, przekształca się na czas pozostały do zakończenia pełnienia tej funkcji w stosunek pracy na podstawie umowy o pracę.
+4. Stosunek pracy mianowanego pracownika naukowego pełniącego funkcję dyrektora z końcem roku, w którym ukończył on 70. rok życia, przekształca się – na czas pozostały do zakończenia pełnienia tej funkcji – w stosunek pracy na podstawie umowy o pracę.
 
 **Art. 103.** Organem właściwym do rozwiązania stosunku pracy z mianowanym pracownikiem naukowym jest Prezes Akademii.
 
@@ -1295,8 +1353,8 @@ o Polskiej Akademii Nauk
 
 1. W sprawach dyscyplinarnych pracowników naukowych lub badawczo-technicznych orzekają:
 
-- **1)** w pierwszej instancji komisja dyscyplinarna w jednostce naukowej w składzie trzech członków;
-- **2)** w drugiej instancji komisja dyscyplinarna do spraw pracowników naukowych i badawczo-technicznych jednostek naukowych przy Prezesie Akademii w składzie trzech członków.
+- **1)** w pierwszej instancji – komisja dyscyplinarna w jednostce naukowej w składzie trzech członków;
+- **2)** w drugiej instancji – komisja dyscyplinarna do spraw pracowników naukowych i badawczo-technicznych jednostek naukowych przy Prezesie Akademii w składzie trzech członków.
 
 2. W składzie orzekającym komisji, o której mowa w ust. 1 pkt 2, co najmniej jeden z członków powinien posiadać tytuł zawodowy magistra na kierunku prawo.
 
@@ -1366,7 +1424,7 @@ o Polskiej Akademii Nauk
 
 3. Od orzeczenia komisji dyscyplinarnej w pierwszej instancji strony mogą się odwołać do komisji, o której mowa w art. 110 ust. 1 pkt 2, w terminie 14 dni od dnia doręczenia orzeczenia wraz z uzasadnieniem.
 
-4. Od prawomocnego orzeczenia komisji dyscyplinarnej, o której mowa w art. 110 ust. 1 pkt 2, stronom służy odwołanie do Sądu Apelacyjnego w Warszawie Sądu Pracy i Ubezpieczeń Społecznych. Do odwołania stosuje się przepisy Kodeksu postępowania cywilnego dotyczące apelacji. Od orzeczenia Sądu Apelacyjnego nie służy kasacja.
+4. Od prawomocnego orzeczenia komisji dyscyplinarnej, o której mowa w art. 110 ust. 1 pkt 2, stronom służy odwołanie do Sądu Apelacyjnego w Warszawie – Sądu Pracy i Ubezpieczeń Społecznych. Do odwołania stosuje się przepisy Kodeksu postępowania cywilnego dotyczące apelacji. Od orzeczenia Sądu Apelacyjnego nie służy kasacja.
 
 5. O prawomocnym orzeczeniu w sprawach naruszeń, o których mowa w art. 112 ust. 3 pkt 1–4, komisja dyscyplinarna przekazuje informację do wiadomości organu przyznającego środki finansowe na naukę.
 
@@ -1378,9 +1436,9 @@ o Polskiej Akademii Nauk
 
 7. Wznowienie nie może nastąpić z przyczyny wymienionej w ust. 6 pkt 1, jeżeli była ona przedmiotem rozpoznania przez sąd apelacyjny w trybie określonym w ust. 4.
 
-8. Wznowienie postępowania dyscyplinarnego na niekorzyść obwinionego nie jest dopuszczalne po jego śmierci albo po upływie 3 lat od popełnienia czynu będącego podstawą orzeczenia, a gdy czyn stanowił przestępstwo po upływie okresu przedawnienia ścigania tego przestępstwa lub w razie wykonania kary i jej zatarcia.
+8. Wznowienie postępowania dyscyplinarnego na niekorzyść obwinionego nie jest dopuszczalne po jego śmierci albo po upływie 3 lat od popełnienia czynu będącego podstawą orzeczenia, a gdy czyn stanowił przestępstwo – po upływie okresu przedawnienia ścigania tego przestępstwa lub w razie wykonania kary i jej zatarcia.
 
-9. Wniosek o wznowienie postępowania dyscyplinarnego mogą składać, w terminie 30 dni od dnia powzięcia wiadomości o przyczynie uzasadniającej wznowienie: obwiniony, obrońca, rzecznik dyscyplinarny, a po śmierci obwinionego lub gdy zachodzą uzasadnione wątpliwości co do jego poczytalności także jego małżonek, krewny w linii prostej, brat lub siostra.
+9. Wniosek o wznowienie postępowania dyscyplinarnego mogą składać, w terminie 30 dni od dnia powzięcia wiadomości o przyczynie uzasadniającej wznowienie: obwiniony, obrońca, rzecznik dyscyplinarny, a po śmierci obwinionego lub gdy zachodzą uzasadnione wątpliwości co do jego poczytalności – także jego małżonek, krewny w linii prostej, brat lub siostra.
 
 **Art. 115.**
 
@@ -1402,5 +1460,5 @@ o Polskiej Akademii Nauk
 
 #### Rozdział 10 Przepis końcowy
 
-**Art. 119.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 30 kwietnia 2010 r. Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756).
+**Art. 119.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756).
 

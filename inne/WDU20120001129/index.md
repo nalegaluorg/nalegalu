@@ -8,10 +8,10 @@ pos: 1129
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 października ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ dnia 15 października sprawie warunków tworzenia, organizacji działania oddziałów sportowych, szkół sportowych szkół Na podstawie art. 9 ust. 5 ustawy dnia 7 września 1991 o systemie oświaty (Dz. U. 2004 256, 2572, późn. zm. ) zarządza się, co następuje: § 1. 1. Oddziały sportowe mogą być tworzone szkołach podstawowych, gimnazjach szkołach ponadgimnazjalnych dla młodzieży.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1129 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 15 października 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,35 +25,41 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001129) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1129/text.pdf) |
 
-oddziale sportowym jest prowadzone szkolenie sportowe jednym lub kilku sportach, co najmniej trzech kolejnych klasach danego typu, dla co najmniej 20 uczniów oddziale.
-§ 1. Szkołami sportowymi szkołami mogą być podstawowe, gimnazja ponadgimnazjalne dla młodzieży.
-Szkoła, której jest prowadzone szkolenie sportowe jednym lub kilku sportach, co najmniej dwóch oddziałach sportowych, liczących co najmniej 15 uczniów oddziale, co najmniej trzech kolejnych klasach danego typu, jest szkołą sportową.
-3. Szkoła, której jest prowadzone szkolenie sportowe jednym lub kilku sportach, co najmniej jednym oddziale sportowym, co najmniej trzech kolejnych klasach danego typu, jest szkołą sportowego. Liczba uczniów oddziale sportowym jest uzależniona od możliwości zebrania uczniów o zbliżonym poziomie sportowym.
-§ 3. 1. Warunkiem utworzenia oddziału sportowego, sportowej jest posiadanie obiektów lub urządzeń sportowych niezbędnych do prowadzenia szkolenia sportowego.
-Szkolenie sportowe może być także realizowane wykorzystaniem obiektów lub urządzeń sportowych innych jednostek organizacyjnych, na podstawie umowy zawartej pomiędzy organem prowadzącym szkołę a daną jednostką.
-§ 4. 1. Szkolenie sportowe oddziałach sportowych, szkołach sportowych szkołach jest prowadzone ramach zajęć sportowych według programów szkolenia opracowanych dla poszczególnych sportów.
-3. ramach programu szkolenia szkoła organizuje dla uczniów obozy szkoleniowe.
-§ 5. 1. Oddziały sportowe, sportowe mogą realizować program szkolenia we współpracy polskimi związkami sportowymi, klubami sportowymi, stowarzyszeniami prowadzącymi działalność statutową zakresie kultury fizycznej lub uczelniami prowadzącymi studia wyższe na kierunku związanym dziedziną nauk o kulturze fizycznej.
-Współpraca, o której mowa ust. 1, może dotyczyć szczególności pomocy szkoleniowej, wzajemnego udostępniania obiektów lub urządzeń sportowych, korzystania opieki medycznej zabiegów odnowy biologicznej, prowadzenia badań diagnostycznych, a także tworzenia warunków do uczestnictwa uczniów zawodach krajowych międzynarodowych.
-3. Warunki współpracy, o której mowa ust. 1, określa umowa zawarta pomiędzy organem prowadzącym szkołę a właściwym polskim związkiem sportowym, klubem sportowym, stowarzyszeniem prowadzącym działalność statutową zakresie kultury fizycznej lub uczelnią prowadzącą studia wyższe na kierunku związanym dziedziną nauk o kulturze fizycznej.
-§ 6. 1. oddziałach sportowych, szkołach sportowych szkołach sportowego, zastrzeżeniem ust. 2, realizuje następujące etapy szkolenia sportowego:
-1) ukierunkowany realizowany klasach IV–VI podstawowej wszystkich klasach gimnazjum, mający na celu ujawnienie predyspozycji uzdolnień kwalifikujących uczniów do szkolenia określonym sporcie;
-2) specjalistyczny realizowany szkołach ponadgimnazjalnych.
-następujących sportach: pływanie, gimnastyka artystyczna, gimnastyka sportowa, akrobatyka sportowa, łyżwiarstwo figurowe, narciarstwo alpejskie tenis stołowy, ukierunkowany etap szkolenia może być realizowany od klasy I podstawowej, a specjalistyczny od klasy I gimnazjum.
+w sprawie warunków tworzenia, organizacji oraz działania oddziałów sportowych, szkół sportowych oraz szkół mistrzostwa sportowego Na podstawie art. 9 ust. 5 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Oddziały sportowe mogą być tworzone w szkołach podstawowych, gimnazjach i szkołach ponadgimnazjalnych dla młodzieży.
+2. W oddziale sportowym jest prowadzone szkolenie sportowe w jednym lub kilku sportach, w co najmniej trzech kolejnych klasach szkoły danego typu, dla co najmniej 20 uczniów w oddziale.
+§ 2. 1. Szkołami sportowymi i szkołami mistrzostwa sportowego mogą być szkoły podstawowe, gimnazja i szkoły ponadgimnazjalne dla młodzieży.
+2. Szkoła, w której jest prowadzone szkolenie sportowe w jednym lub kilku sportach, w co najmniej dwóch oddziałach sportowych, liczących co najmniej 15 uczniów w oddziale, w co najmniej trzech kolejnych klasach szkoły danego typu, jest szkołą sportową.
+3. Szkoła, w której jest prowadzone szkolenie sportowe w jednym lub kilku sportach, w co najmniej jednym oddziale sportowym, w co najmniej trzech kolejnych klasach szkoły danego typu, jest szkołą mistrzostwa sportowego. Liczba uczniów w oddziale sportowym szkoły mistrzostwa sportowego jest uzależniona od możliwości zebrania uczniów o zbliżonym poziomie sportowym.
+§ 3. 1. Warunkiem utworzenia oddziału sportowego, szkoły sportowej oraz szkoły mistrzostwa sportowego jest posiadanie obiektów lub urządzeń sportowych niezbędnych do prowadzenia szkolenia sportowego.
+2. Szkolenie sportowe może być także realizowane z wykorzystaniem obiektów lub urządzeń sportowych innych jednostek organizacyjnych, na podstawie umowy zawartej pomiędzy organem prowadzącym szkołę a daną jednostką.
+§ 4. 1. Szkolenie sportowe w oddziałach sportowych, szkołach sportowych oraz szkołach mistrzostwa sportowego jest prowadzone w ramach zajęć sportowych według programów szkolenia sportowego opracowanych dla poszczególnych sportów.
+2. Oddziały sportowe, szkoły sportowe oraz szkoły mistrzostwa sportowego realizują programy szkolenia sportowego równolegle z programem nauczania uwzględniającym podstawę programową kształcenia ogólnego określoną w przepisach w sprawie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego w poszczególnych typach szkół.
+3. W ramach programu szkolenia sportowego szkoła organizuje dla uczniów obozy szkoleniowe.
+§ 5. 1. Oddziały sportowe, szkoły sportowe oraz szkoły mistrzostwa sportowego mogą realizować program szkolenia sportowego we współpracy z polskimi związkami sportowymi, klubami sportowymi, stowarzyszeniami prowadzącymi działalność statutową w zakresie kultury fizycznej lub uczelniami prowadzącymi studia wyższe na kierunku związanym z dziedziną nauk o kulturze fizycznej.
+2. Współpraca, o której mowa w ust. 1, może dotyczyć w szczególności pomocy szkoleniowej, wzajemnego udostępniania obiektów lub urządzeń sportowych, korzystania z opieki medycznej i zabiegów odnowy biologicznej, prowadzenia badań diagnostycznych, a także tworzenia warunków do uczestnictwa uczniów w zawodach krajowych i międzynarodowych.
+3. Warunki współpracy, o której mowa w ust. 1, określa umowa zawarta pomiędzy organem prowadzącym szkołę a właściwym polskim związkiem sportowym, klubem sportowym, stowarzyszeniem prowadzącym działalność statutową w zakresie kultury fizycznej lub uczelnią prowadzącą studia wyższe na kierunku związanym z dziedziną nauk o kulturze fizycznej.
+§ 6. 1. W oddziałach sportowych, szkołach sportowych oraz szkołach mistrzostwa sportowego, z zastrzeżeniem ust. 2, realizuje się następujące etapy szkolenia sportowego:
+1) ukierunkowany – realizowany w klasach IV–VI szkoły podstawowej i wszystkich klasach gimnazjum, mający na celu ujawnienie predyspozycji i uzdolnień kwalifikujących uczniów do szkolenia w określonym sporcie;
+2) specjalistyczny – realizowany w szkołach ponadgimnazjalnych.
+2. W następujących sportach: pływanie, gimnastyka artystyczna, gimnastyka sportowa, akrobatyka sportowa, łyżwiarstwo figurowe, narciarstwo alpejskie i tenis stołowy, ukierunkowany etap szkolenia sportowego może być realizowany od klasy I szkoły podstawowej, a specjalistyczny – od klasy I gimnazjum.
 § 7. 1. Obowiązkowy tygodniowy wymiar godzin zajęć sportowych wynosi:
-1) oddziałach sportowych szkołach sportowych co najmniej 10 godzin;
-2) szkołach co najmniej 16 godzin.
-Obowiązkowy tygodniowy wymiar godzin zajęć sportowych oddziałach szkołach, o których mowa ust. 1, ustala dyrektor porozumieniu organem prowadzącym, na podstawie programu szkolenia sportowego, uwzględnieniem etapu szkolenia sportowego, sportu poziomu wyszkolenia uczniów, zastrzeżeniem ust. 3.
-3. ramach ustalonego zgodnie ust. 2 obowiązkowego tygodniowego wymiaru godzin zajęć sportowych są realizowane obowiązkowe zajęcia wychowania fizycznego, przewidziane ramowym planie nauczania dla danego typu szkoły.
-§ 8. 1. przypadkach uzasadnionych względami bezpieczeństwa, specyfiką sportu lub zróżnicowanym poziomem sportowym uczniów czasie zajęć sportowych mogą być tworzone grupy ćwiczeniowe.
-Liczba uczniów grupie ćwiczeniowej oddziale sportowym szkole sportowej wynosi co najmniej 10. Za zgodą organu prowadzącego szkołę liczba uczniów grupie ćwiczeniowej może być mniejsza.
-3. Liczba uczniów grupie ćwiczeniowej szkole jest uzależniona od możliwości realizowania zadań wynikających programu szkolenia przez uczniów o zbliżonym poziomie sportowym.
-§ 9. uzasadnionych przypadkach uczniowie oddziału sportowego, sportowej sportowego, którzy ze względu na kontuzję lub inną czasową niezdolność do uprawiania sportu nie uczestniczą zajęciach spor towych, uczęszczają na pozostałe zajęcia edukacyjne.
+1) w oddziałach sportowych i szkołach sportowych – co najmniej 10 godzin;
+2) w szkołach mistrzostwa sportowego – co najmniej 16 godzin.
+2. Obowiązkowy tygodniowy wymiar godzin zajęć sportowych w oddziałach i szkołach, o których mowa w ust. 1, ustala dyrektor szkoły w porozumieniu z organem prowadzącym, na podstawie programu szkolenia sportowego, z uwzględnieniem etapu szkolenia sportowego, sportu oraz poziomu wyszkolenia sportowego uczniów, z zastrzeżeniem ust. 3.
+3. W ramach ustalonego zgodnie z ust. 2 obowiązkowego tygodniowego wymiaru godzin zajęć sportowych są realizowane obowiązkowe zajęcia wychowania fizycznego, przewidziane w ramowym planie nauczania dla danego typu szkoły.
+§ 8. 1. W przypadkach uzasadnionych względami bezpieczeństwa, specyfiką sportu lub zróżnicowanym poziomem sportowym uczniów w czasie zajęć sportowych mogą być tworzone grupy ćwiczeniowe.
+2. Liczba uczniów w grupie ćwiczeniowej w oddziale sportowym i szkole sportowej wynosi co najmniej 10. Za zgodą organu prowadzącego szkołę liczba uczniów w grupie ćwiczeniowej może być mniejsza.
+3. Liczba uczniów w grupie ćwiczeniowej w szkole mistrzostwa sportowego jest uzależniona od możliwości realizowania zadań wynikających z programu szkolenia sportowego przez uczniów o zbliżonym poziomie sportowym.
+§ 9. W uzasadnionych przypadkach uczniowie oddziału sportowego, szkoły sportowej oraz szkoły mistrzostwa sportowego, którzy ze względu na kontuzję lub inną czasową niezdolność do uprawiania sportu nie uczestniczą w zajęciach sportowych, uczęszczają na pozostałe zajęcia edukacyjne.
+§ 10. Uczniów niekwalifikujących się do dalszego szkolenia sportowego, na podstawie opinii trenera lub instruktora prowadzącego zajęcia sportowe i opinii lekarza, przenosi się od nowego roku szkolnego lub nowego semestru do oddziału działającego na zasadach ogólnych.
+§ 11. 1. Zadaniem oddziału sportowego, szkoły sportowej oraz szkoły mistrzostwa sportowego jest stworzenie uczniom optymalnych warunków, umożliwiających godzenie zajęć sportowych z innymi zajęciami edukacyjnymi, w szczególności przez:
 1) opracowanie tygodniowego planu zajęć tak, aby rozkład innych zajęć edukacyjnych był dostosowany do rozkładu zajęć sportowych;
-2) dążenie do maksymalnego opanowania utrwalenia przez uczniów wiadomości, objętych programem nauczania, na zajęciach edukacyjnych;
-3) umożliwienie uczniom osiągającym bardzo dobre wyniki sportowe uczestniczącym zawodach ogólnopolskich lub międzynarodowych realizowania indywidualnego programu lub toku nauki, na podstawie przepisów sprawie warunków trybu udzielania zezwoleń na indywidualny program lub tok nauki organizacji indywidualnego programu lub toku nauki;
-4) organizowanie ferii letnich zimowych ciągu całego roku szkolnego, dostosowaniem ich terminów do terminów zawodów sportowych, przy zachowaniu liczby dni wolnych od zajęć dydaktyczno-wychowawczych, określonych przepisach sprawie organizacji roku szkolnego.
-Dla uczniów dwóch ostatnich klas ponadgimnazjalnej może być prowadzony szkole kurs instruktorski uprawianym przez nich sporcie.
-§ 12. Uczniom oddziałów sportowych, szkół sportowych szkół uczącym poza miejscem stałego zamieszkania szkoła zapewnia okresie pobierania nauki zakwaterowanie internacie lub bursie całodzienne wyżywienie pełni pokrywające ubytki energetyczne powstałe podczas zajęć sportowych, a uczniom uczącym miejscu zamieszkania jeden pełnowartościowy posiłek dziennie. Zasady odpłatności za zakwaterowanie wyżywienie bursie określają przepisy sprawie rodzajów szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci młodzieży tych placówkach wysokości zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci tych placówkach.
-§ 13. Rozporządzenie wchodzi życie dniem 17 października Minister Edukacji Narodowej: K. Szumilas
+2) dążenie do maksymalnego opanowania i utrwalenia przez uczniów wiadomości, objętych programem nauczania, na zajęciach edukacyjnych;
+3) umożliwienie uczniom osiągającym bardzo dobre wyniki sportowe i uczestniczącym w zawodach ogólnopolskich lub międzynarodowych realizowania indywidualnego programu lub toku nauki, na podstawie przepisów w sprawie warunków i trybu udzielania zezwoleń na indywidualny program lub tok nauki oraz organizacji indywidualnego programu lub toku nauki;
+4) organizowanie ferii letnich i zimowych w ciągu całego roku szkolnego, z dostosowaniem ich terminów do terminów zawodów sportowych, przy zachowaniu liczby dni wolnych od zajęć dydaktyczno-wychowawczych, określonych w przepisach w sprawie organizacji roku szkolnego.
+2. Dla uczniów dwóch ostatnich klas ponadgimnazjalnej szkoły mistrzostwa sportowego może być prowadzony w szkole kurs instruktorski w uprawianym przez nich sporcie.
+§ 12. Uczniom oddziałów sportowych, szkół sportowych oraz szkół mistrzostwa sportowego uczącym się poza miejscem stałego zamieszkania szkoła zapewnia w okresie pobierania nauki zakwaterowanie w internacie lub bursie oraz całodzienne wyżywienie w pełni pokrywające ubytki energetyczne powstałe podczas zajęć sportowych, a uczniom uczącym się w miejscu zamieszkania – jeden pełnowartościowy posiłek dziennie. Zasady odpłatności za zakwaterowanie i wyżywienie w bursie określają przepisy w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach.
+§ 13. Rozporządzenie wchodzi w życie z dniem 17 października 2012 r.
+Minister Edukacji Narodowej: K. Szumilas
 

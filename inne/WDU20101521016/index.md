@@ -8,7 +8,7 @@ pos: 1016
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o kosztach sądowych w sprawach cywilnych
@@ -28,6 +28,34 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101521016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1016/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 21 ust. 2 otrzymuje brzmienie: „2. W przypadku sporów związanych z zawarciem umowy, o której mowa w ust. 1, stosuje się przepisy art. 110 .”;
+- **2)** w art. 104:
+    - **a)** po ust. 3 dodaje się ust. 3 –3 w brzmieniu: „3 . Organizacja zbiorowego zarządzania sporządza roczne sprawozdanie ze swojej działalności nie później niż w terminie 6 miesięcy od dnia bilansowego.
+
+3. Organizacja zbiorowego zarządzania prowadzi księgi rachunkowe i sporządza sprawozdanie finansowe zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2009 r. Nr 152, poz. 1223, Nr 157, poz. 1241 i Nr 165, poz. 1316 oraz z 2010 r. Nr 47, poz. 278).
+
+3. Roczne sprawozdanie finansowe organizacji zbiorowego zarządzania podlega badaniu przez biegłego rewidenta. Wyboru biegłego rewidenta dokonuje organ kontroli wewnętrznej organizacji.
+
+3. Organizacja zbiorowego zarządzania niezwłocznie przekazuje sprawozdanie, o którym mowa w ust. 3 , i sprawozdanie, o którym mowa w ust. 3 , wraz z opinią i raportem biegłego rewidenta ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego oraz podaje je do publicznej wiadomości poprzez zamieszczenie na swojej stronie internetowej.
+
+3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowy zakres sprawozdania, o którym mowa w ust. 3 , uwzględniając informacje na temat struktury organizacyjnej organizacji zbiorowego zarządzania, jej organów wewnętrznych i majątku oraz działalności w zakresie zbiorowego zarządzania i ochrony praw autorskich i praw pokrewnych, a także konieczność dokonania oceny prawidłowości realizacji przez organizację jej celów statutowych.”,
+
+- **b)** w ust. 5 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) nie wypełnia obowiązku złożenia do zatwierdzenia tabel wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych, w przypadkach określonych w art. 21 ust. 1 i 2 , art. 21 ust. 1 i art. 70 ust. 2 , oraz na polu eksploatacji odtwarzanie.”;
+- **3)** w art. 106 ust. 2 otrzymuje brzmienie: „2. Organizacja zbiorowego zarządzania nie może, bez ważnych powodów, odmówić zgody na korzystanie z utworów lub przedmiotów praw pokrewnych w granicach wykonywanego przez siebie zarządu.”;
+- **4)** art. 107 otrzymuje brzmienie: „Art. 107. Jeżeli na danym polu eksploatacji działa więcej niż jedna organizacja zbiorowego zarządzania, organizacją właściwą w rozumieniu ustawy jest organizacja, do której należy twórca lub uprawniony z tytułu prawa pokrewnego, a gdy twórca lub uprawniony z tytułu prawa pokrewnego nie należy do żadnej organizacji albo nie ujawnił swojego autorstwa – organizacja wskazana przez Komisję Prawa Autorskiego, o której mowa w art. 110 .”;
+- **5)** po art. 107 dodaje się art. 107 w brzmieniu: „Art. 107 . 1. Organizacje zbiorowego zarządzania mogą zawierać porozumienia dotyczące udzielania licencji na korzystanie z utworów lub przedmiotów praw pokrewnych oraz poboru wynagrodzeń z tytułu tego korzystania na zasadach określonych w tych porozumieniach.
+
+2. Organizacje zbiorowego zarządzania zawierają porozumienia dotyczące wspólnego poboru wynagrodzeń za korzystanie z przedmiotów praw pokrewnych na polu eksploatacji odtwarzanie, na zasadach określonych w tych porozumieniach i zatwierdzonych tabelach wynagrodzeń.
+
+3. Jeżeli w ciągu 6 miesięcy od daty prawomocnego zatwierdzenia tabel wynagrodzeń w sprawach, o których mowa w ust. 2, nie zostanie zawarte porozumienie dotyczące poboru wynagrodzeń za korzystanie z przedmiotów praw pokrewnych, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wyznaczy, w drodze decyzji, po zasięgnięciu opinii organizacji zbiorowego zarządzania prawami pokrewnymi, które w udzielonym im zezwoleniu, o którym mowa w art. 104 ust. 2 pkt 2, mają wskazane pole eksploatacji odtwarzanie, stowarzyszeń artystów wykonawców i producentów oraz organizacji zrzeszających podmioty korzystające z przedmiotów praw pokrewnych na polu eksploatacji odtwarzanie, jedną organizację zbiorowego zarządzania spośród organizacji reprezentujących uprawnionych z tytułu praw pokrewnych, do wykonywania wspólnego poboru, o którym mowa w ust. 2, biorąc pod uwagę konieczność zapewnienia efektywnego poboru wynagrodzeń i ich wypłaty uprawnionym oraz ocenę skuteczności i prawidłowości działania organizacji zbiorowego zarządzania prawami pokrewnymi na polu odtworzeń.
+
+4. Organizacje zbiorowego zarządzania mogą, w drodze porozumienia, wskazać spośród siebie jedną organizację upoważnioną do wykonywania czynności, o których mowa w ust. 1, 2 lub 3, bądź wyznaczyć podmiot, który w ich imieniu będzie te czynności wykonywać w oparciu o udzielone zezwolenia i pełnomocnictwa.”;
+
+- **6)** uchyla się art. 108 i art. 109;
+- **7)** art. 110 otrzymuje brzmienie: „Art. 110. Wysokość wynagrodzeń dochodzonych w zakresie zbiorowego zarządzania przez organizacje zbiorowego zarządzania powinna uwzględniać wysokość wpływów osiąganych z korzystania z utworów i przedmiotów praw pokrewnych, a także charakter i zakres korzystania z tych utworów i przedmiotów praw pokrewnych.”;
+- **8)** rozdział 12 oznacza się jako rozdział 12 , a artykuły oznaczone numerami 110 –110 oznacza się numerami 110 –110 . Użyte w tym rozdziale wyrazy „art. 110 ” i „art. 110 ” zastępuje się odpowiednio wyrazami „art. 110 ” i „art. 110 ”;
+- **9)** po rozdziale 12 dodaje się rozdział 12 w brzmieniu: „Rozdział 12 Komisja Prawa Autorskiego
 
 ##### Oddział 1 Przepisy ogólne
 

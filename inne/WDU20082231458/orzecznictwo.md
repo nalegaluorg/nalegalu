@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych*
 
-Łącznie: **159** orzeczeń
+Łącznie: **160** orzeczeń
 (pominięto 230 orzeczeń sądów rejonowych)
 
 ## art. 2 (19)
@@ -246,9 +246,10 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o pracownikach samo
 
 - 2019-05-28 | SO | [III APa 4/19](https://www.saos.org.pl/judgments/404578) | Wyrok
 
-## art. 37 (1)
+## art. 37 (2)
 
 - 2018-05-24 | SO | [V ACa 256/17](https://www.saos.org.pl/judgments/346126) | Wyrok
+- 2026-05-08 | SO | [IV P 31/26](https://www.saos.org.pl/judgments/546905) | Wyrok
 
 ## art. 38 (14)
 

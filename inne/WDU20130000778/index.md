@@ -8,7 +8,7 @@ pos: 778
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o uchyleniu ustawy o przekształceniu własnościowym przedsiębiorstwa państwowego Polskie Linie Lotnicze „LOT”

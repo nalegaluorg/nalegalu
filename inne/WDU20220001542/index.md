@@ -8,10 +8,10 @@ pos: 1542
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1542 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 21 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,28 +25,28 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001542) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1542/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 21 lipca 2022 r.
-zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) zarządza się, co następuje: §1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357, z późn. zm. ) w załączniku nr 5 dodaje się lp. 32–34 w brzmieniu: 32 brak kodu Opieka nad rodzinami Wymagania formalne W lokalizacji: wysokiego, dziedzicz- 1) poradnia genetyczna lub nie uwarunkowanego 2) poradnia genetyczno-onkologiczna, lub ryzyka zachorowania 3) poradnia onkologiczna.
+zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) zarządza się, co następuje:
+§1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357, z późn. zm. ) w załączniku nr 5 dodaje się lp. 32–34 w brzmieniu: 32 brak kodu Opieka nad rodzinami Wymagania formalne W lokalizacji: wysokiego, dziedzicz- 1) poradnia genetyczna lub nie uwarunkowanego 2) poradnia genetyczno-onkologiczna, lub ryzyka zachorowania 3) poradnia onkologiczna.
 na raka piersi lub raka W lokalizacji lub w dostępie: jajnika 1) medyczne laboratorium diagnostyczne wpisane do ewidencji Krajowej Rady Diagnostów Laboratoryjnych z pracownią genetyczną;
 2) poradnia endokrynologiczna;
 3) poradnia onkologiczna lub
 4) poradnia chirurgii onkologicznej, lub
 5) poradnia ginekologii onkologicznej, lub
 6) poradnia położniczo-ginekologiczna;
-7) poradnia onkologii i hematologii dziecięcej w przypadku udzielania świadczeń osobom poniżej 18 roku życia.
+7) poradnia onkologii i hematologii dziecięcej – w przypadku udzielania świadczeń osobom poniżej 18 roku życia.
 Warunki kwalifikacji Do etapu „Poradnictwo i badania genetyczne” kwalifido świadczenia kuje się świadczeniobiorca, u którego na podstawie wywiadu rodzinnego oraz wstępnej oceny ryzyka podejrzewa się występowanie dziedzicznej predyspozycji do zachorowania na raka piersi lub raka jajnika.
 Do etapu „Nadzór i badania diagnostyczne” kwalifikuje się świadczeniobiorca, u którego na podstawie:
 1) szczegółowego wywiadu rodzinnego przeprowadzonego przez lekarza specjalistę w dziedzinie genetyki klinicznej lub lekarza w trakcie specjalizacji w dziedzinie genetyki klinicznej podejrzewa się występowanie dziedzicznej predyspozycji do zachorowania na raka piersi lub raka jajnika lub
 2) wyników badań genetycznych, realizowanych w ramach przedmiotowego świadczenia lub odrębnego postępowania diagnostyczno-terapeutycznego, stwierdzono nosicielstwo mutacji genów silnej predyspozycji do rozwoju raka piersi lub raka jajnika.
 Zakres świadczenia Etap „Poradnictwo i badania genetyczne”:
-1) porada specjalistyczna genetyka, obejmująca szczegółowy wywiad rodzinny (dane o wszystkich krewnych z nowotworem i krewnych zdrowych z podaniem ich wieku krewni pierwszego stopnia, drugiego stopnia i ewentualnie dalszych stopni; w przypadku krewnych z nowotworem wiek zachorowań i typ lub umiejscowienie nowotworów), lub
+1) porada specjalistyczna – genetyka, obejmująca szczegółowy wywiad rodzinny (dane o wszystkich krewnych z nowotworem i krewnych zdrowych z podaniem ich wieku – krewni pierwszego stopnia, drugiego stopnia i ewentualnie dalszych stopni; w przypadku krewnych z nowotworem – wiek zachorowań i typ lub umiejscowienie nowotworów), lub
 2) porada specjalistyczna, o której mowa w pkt 1, wraz z badaniem genetycznym:
 a) w kierunku wykrycia najczęstszych w polskiej populacji mutacji w genach BRCA1, PALB2, CHEK2, wykonywane metodami biologii molekularnej (PCR i jej modyfikacje, RFLP, MLPA), lub
 b) w kierunku wykrycia nosicielstwa mutacji w genach BRCA1, BRCA2, PALB2, CHEK2, wykonywane metodami biologii molekularnej z zastosowaniem techniki sekwencjonowania następnej generacji (NGS), lub
 c) w kierunku wykrycia nosicielstwa konkretnej, zidentyfikowanej w rodzinie mutacji, wykonywane metodami biologii molekularnej (PCR i jej modyfikacje, RFLP, sekwencjonowanie Sangera, MLPA).
 Etap „Nadzór i badania diagnostyczne”:
 1.W przypadku osób z mutacją w genach BRCA1, BRCA2 lub PALB2:
-1) wizyta kontrolna co 6 miesięcy;
+1) wizyta kontrolna – co 6 miesięcy;
 2) porada specjalistyczna wraz z co najmniej jednym z następujących badań diagnostycznych:
 a) 87.35 Mammografia z kontrastem,
 b) 87.371 Mammografia jednej piersi,
@@ -58,7 +58,7 @@ a) 88.764 USG transwaginalne,
 b) 88.713 USG tarczycy i przytarczyc,
 c) I41 Antygen CA 125 (CA125) –realizowanych co roku zgodnie z warunkami określonymi w załączniku nr 2 do rozporządzenia.
 2.W przypadku pozostałych osób:
-1) wizyta kontrolna co roku oraz
+1) wizyta kontrolna – co roku oraz
 2) porada specjalistyczna wraz z co najmniej jednym z następujących badań diagnostycznych:
 a) 87.35 Mammografia z kontrastem,
 b) 87.371 Mammografia jednej piersi,
@@ -80,7 +80,7 @@ Kryteria kwalifikacji do badania w kierunku wykrycia nosicielstwa mutacji w gena
 5) chora z rozpoznanym rakiem piersi, mająca minimum 1 krewnego pierwszego lub drugiego stopnia, uktórego rozpoznano raka piersi (raka piersi umężczyzny), lub minimum 1 krewną pierwszego stopnia lub drugiego stopnia, u której rozpoznano raka jajnika, lub
 6) chora z rozpoznanym, jednocześnie lub sekwencyjnie, rakiem piersi i rakiem jajnika lub obustronnym rakiem piersi, lub
 7) chora z rozpoznanym rakiem piersi, mająca minimum 1 krewną pierwszego lub drugiego stopnia, uktórej rozpoznano raka piersi, w tym co najmniej 1 rozpoznanie postawiono poniżej 50 roku życia, lub
-8) chora z rozpoznanym rakiem piersi, mająca 2 krewne pierwszego lub drugiego stopnia po stronie matki lub po stronie ojca, u których rozpoznano raka piersi niezależnie od wieku w momencie rozpoznania.
+8) chora z rozpoznanym rakiem piersi, mająca 2 krewne pierwszego lub drugiego stopnia po stronie matki lub po stronie ojca, u których rozpoznano raka piersi – niezależnie od wieku w momencie rozpoznania.
 Do badania w kierunku wykrycia nosicielstwa konkretnej, zidentyfikowanej w rodzinie mutacji, wykonywanego metodami biologii molekularnej (PCR i jej modyfikacje, RFLP, sekwencjonowanie Sangera, MLPA), kwalifikują się krewni pierwszego lub drugiego stopnia osoby z rozpoznanym rakiem piersi lub rakiem jajnika, u której wykryto nosicielstwo mutacji w jednym z genów: BRCA1, BRCA2, PALB2, CHEK2.
 Personel Etap „Poradnictwo i badania genetyczne”:
 1) lekarz specjalista w dziedzinie genetyki klinicznej lub
@@ -95,22 +95,18 @@ Etap „Nadzór i badania diagnostyczne”:
 4) lekarz specjalista w dziedzinie ginekologii onkologicznej.
 Organizacja udzielania 1) świadczeniodawca zapewnia stałą opiekę geneświadczeń tyczno-onkologiczną osobom o wysokim ryzyku zachorowania na nowotwory, w tym prowadzenie dokumentacji i określenie harmonogramu prowadzonych badań (tj. zakresu badań lub konsultacji wraz z częstotliwością i terminami kolejnych badań);
 2) świadczeniodawca zapewnia współpracę i koordynuje konsultacje z innymi lekarzami specjalistami zgodnie z rodzajem wymaganych konsultacji lub badań diagnostycznych;
-3) porada specjalistyczna genetyka jest udzielana w formie pisemnej i ustnej przez lekarza specjalistę w dziedzinie genetyki klinicznej lub lekarza w trakcie specjalizacji w dziedzinie genetyki klinicznej i zawiera poza danymi medycznymi i onkologicznymi pacjenta lub osoby chorej na raka w rodzinie opis rodowodu, interpretację wyniku badania genetycznego, poradę dla rodziny oraz informację dotyczącą niepewności oszacowania;
+3) porada specjalistyczna – genetyka jest udzielana w formie pisemnej i ustnej przez lekarza specjalistę w dziedzinie genetyki klinicznej lub lekarza w trakcie specjalizacji w dziedzinie genetyki klinicznej i zawiera – poza danymi medycznymi i onkologicznymi pacjenta lub osoby chorej na raka w rodzinie – opis rodowodu, interpretację wyniku badania genetycznego, poradę dla rodziny oraz informację dotyczącą niepewności oszacowania;
 4) w przypadku wykrycia podczas badań kontrolnych zmian stanowiących podstawę do dalszej diagnostyki świadczeniodawca zapewnia realizację następujących świadczeń:
-a) 85.114 Przezskórna gruboigłowa biopsja piersi celowana,
+a) 85.114 Przezskórna gruboigłowa biopsja piersi – celowana,
 b) 85.131 Biopsja gruboigłowa piersi wspomagana próżnią pod kontrolą USG,
 c) 85.132 Biopsja gruboigłowa piersi wspomagana próżnią stereotaktyczna,
-d) 06.112 Biopsja aspiracyjna cienkoigłowa tarczycy celowana;
+d) 06.112 Biopsja aspiracyjna cienkoigłowa tarczycy – celowana;
 5) w przypadku gdy podczas realizacji kontrolnych badań diagnostycznych u pacjenta zidentyfikowano lub podejrzewa się zmiany nowotworowe, świadczeniodawca wskazuje jednostkę, w której pacjent może uzyskać świadczenia z zakresu pogłębionej diagnostyki i wysokospecjalistycznego leczenia.
-Warunki czasowe 1) czas oczekiwania na pierwszą poradę specjalirealizacji świadczenia styczną genetyka jest nie dłuższy niż 3 miesiące;
+Warunki czasowe 1) czas oczekiwania na pierwszą poradę specjalirealizacji świadczenia styczną – genetyka jest nie dłuższy niż 3 miesiące;
 2) czas oczekiwania na wyniki badań genetycznych, z wyjątkiem badań z zastosowaniem techniki sekwencjonowania następnej generacji (NGS), nie powinien przekraczać 4 tygodni od daty dostarczenia materiału;
 3) czas oczekiwania na wyniki badań genetycznych z zastosowaniem techniki sekwencjonowania następnej generacji (NGS) nie powinien przekraczać 8 tygodni od daty dostarczenia materiału.
-33 brak kodu Opieka nad rodzinami wysokiego, dziedzicznie uwarunkowanego ryzyka zachorowania na raka jelita grubego lub raka błony śluzoWymagania formalne W lokalizacji:
-1) poradnia genetyczna lub wej trzonu macicy
-2) poradnia genetyczno-onkologiczna, lub
-3) poradnia onkologiczna.
-W lokalizacji lub w dostępie:
-1) medyczne laboratorium diagnostyczne wpisane do ewidencji Krajowej Rady Diagnostów Laboratoryjnych z pracownią genetyczną;
+33 brak kodu Opieka nad rodzinami Wymagania formalne W lokalizacji: wysokiego, dziedzicz- 1) poradnia genetyczna lub nie uwarunkowanego 2) poradnia genetyczno-onkologiczna, lub ryzyka zachorowania 3) poradnia onkologiczna.
+na raka jelita grubego W lokalizacji lub w dostępie: lub raka błony śluzo- 1) medyczne laboratorium diagnostyczne wpisane do wej trzonu macicy ewidencji Krajowej Rady Diagnostów Laboratoryjnych z pracownią genetyczną;
 2) pracownia lub zakład patomorfologii;
 3) poradnia endokrynologiczna;
 4) poradnia urologiczna;
@@ -120,33 +116,33 @@ W lokalizacji lub w dostępie:
 8) poradnia chirurgii onkologicznej, lub
 9) poradnia ginekologii onkologicznej, lub
 10) poradnia położniczo-ginekologiczna;
-11) poradnia chirurgii onkologicznej dla dzieci w przypadku udzielania świadczeń osobom poniżej 18 roku życia;
-12) poradnia gastroenterologiczna dla dzieci w przypadku udzielania świadczeń osobom poniżej 18 roku życia.
+11) poradnia chirurgii onkologicznej dla dzieci – w przypadku udzielania świadczeń osobom poniżej 18 roku życia;
+12) poradnia gastroenterologiczna dla dzieci – w przypadku udzielania świadczeń osobom poniżej 18 roku życia.
 Warunki kwalifikacji Do etapu „Poradnictwo i badania genetyczne” kwalifido świadczenia kuje się świadczeniobiorca, u którego:
 1) na podstawie wywiadu rodzinnego oraz wstępnej oceny ryzyka podejrzewa się dziedziczne zespoły predyspozycji do nowotworów złośliwych, w których dominuje predyspozycja do rozwoju raka jelita grubego z zespołem gruczolakowatej polipowatości rodzinnej (FAP, ang. Familial Adenomatous Polyposis) lub zespołem Lyncha, lub zespołem Peutza-Jeghersa (PJS, ang. Peutz Jeghers Syndrome), lub zespołem polipowatości młodzieńczej (JPS, ang. Juvenile Polyposis Syndrome), lub zespołem polipowatości recesywnej uwarunkowanym mutacjami w genie MUTYH, lub
 2) występują rodzinne nowotwory jelita grubego lub błony śluzowej trzonu macicy i który spełnia co najmniej jedno z następujących kryteriów:
 a) wśród krewnych pierwszego stopnia stwierdzono raka jelita grubego oraz co najmniej jednego raka ze spektrum zespołu Lyncha (jelita grubego, błony śluzowej trzonu macicy, jajnika, jelita cienkiego, żołądka, dróg moczowych, tj. urotelialnego), w tym co najmniej jednego zdiagnozowanego poniżej 50 roku życia,
-b) u 2 krewnych pierwszego lub drugiego stopnia wystąpiły zachorowania na raka jelita grubego niezależnie od wieku zachorowania,
-c) wśród krewnych pierwszego lub drugiego stopnia wystąpiły 3 zachorowania lub więcej łącznie na raka jelita grubego i odbytnicy, błony śluzowej trzonu macicy, jajnika, żołądka, jelita cienkiego, urotelialnego i nerki niezależnie od wieku zachorowania,
+b) u 2 krewnych pierwszego lub drugiego stopnia wystąpiły zachorowania na raka jelita grubego – niezależnie od wieku zachorowania,
+c) wśród krewnych pierwszego lub drugiego stopnia wystąpiły 3 zachorowania lub więcej łącznie na raka jelita grubego i odbytnicy, błony śluzowej trzonu macicy, jajnika, żołądka, jelita cienkiego, urotelialnego i nerki – niezależnie od wieku zachorowania,
 d) wśród krewnych pierwszego lub drugiego stopnia wystąpiły 3 zachorowania lub więcej na nowotwory ze spektrum zespołu Lyncha w umiejscowieniach pozajelitowych, tj. rak błony śluzowej trzonu macicy, jajnika, żołądka, jelita cienkiego, urotelialnego i nerki.
 Do etapu „Nadzór i badania diagnostyczne” kwalifikuje się świadczeniobiorca, u którego na podstawie:
 1) szczegółowego wywiadu rodzinnego przeprowadzonego przez lekarza specjalistę w dziedzinie genetyki klinicznej lub lekarza w trakcie specjalizacji w dziedzinie genetyki klinicznej podejrzewa się występowanie dziedzicznej predyspozycji do zachorowania na raka jelita grubego lub raka błony śluzowej trzonu macicy lub
 2) wyników badań genetycznych, realizowanych w ramach przedmiotowego świadczenia lub odrębnego postępowania diagnostyczno-terapeutycznego, stwierdzono nosicielstwo mutacji genów silnej predyspozycji do rozwoju raka jelita grubego lub raka błony śluzowej trzonu macicy.
 Zakres świadczenia Etap „Poradnictwo i badania genetyczne”:
-1) porada specjalistyczna genetyka, obejmująca szczegółowy wywiad rodzinny (dane o wszystkich krewnych z nowotworem i krewnych zdrowych z podaniem ich wieku krewni pierwszego stopnia, drugiego stopnia i ewentualnie dalszych stopni; w przypadku krewnych z nowotworem wiek zachorowań i typ lub miejscowienie nowotworów), lub
+1) porada specjalistyczna – genetyka, obejmująca szczegółowy wywiad rodzinny (dane o wszystkich krewnych z nowotworem i krewnych zdrowych z podaniem ich wieku – krewni pierwszego stopnia, drugiego stopnia i ewentualnie dalszych stopni; w przypadku krewnych z nowotworem – wiek zachorowań i typ lub miejscowienie nowotworów), lub
 2) porada specjalistyczna, o której mowa w pkt 1, wraz z badaniem genetycznym:
 a) w kierunku wykrycia mutacji w genach APC, MLH1, MSH2, MSH6, PMS2, STK11, SMAD4, BMPR1A, MUTYH, EPCAM, PTEN, wykonywanym metodami biologii molekularnej (PCR i jej modyfikacje, RFLP, sekwencjonowanie Sangera, MLPA), lub
 b) w kierunku wykrycia nosicielstwa mutacji w genach APC, MLH1, MSH2, MSH6, PMS2, STK11, SMAD4, BMPR1A, MUTYH, EPCAM, PTEN, wykonywanym metodami biologii molekularnej z zastosowaniem techniki sekwencjonowania następnej generacji (NGS), lub
 c) w kierunku wykrycia nosicielstwa konkretnej, zidentyfikowanej w rodzinie mutacji, wykonywanym metodami biologii molekularnej (PCR i jej modyfikacje, RFLP, sekwencjonowanie Sangera, MLPA).
 Etap „Nadzór i badania diagnostyczne”:
-1) wizyta kontrolna co roku oraz
+1) wizyta kontrolna – co roku oraz
 2) porada specjalistyczna wraz z co najmniej jednym z następujących badań diagnostycznych:
 a) 45.231 Fiberokolonoskopia,
 b) 45.253 Kolonoskopia z biopsją,
-c) 45.239 Kolonoskopia inne,
+c) 45.239 Kolonoskopia – inne,
 d) 45.42 Endoskopowe wycięcie polipa jelita grubego,
 e) 44.162 Gastroskopia diagnostyczna z biopsją,
-f) 44.13 Gastroskopia inne,
+f) 44.13 Gastroskopia – inne,
 g) 88.761 USG brzucha i przestrzeni zaotrzewnowej,
 h) 88.764 USG transwaginalne,
 i) I41 Antygen CA 125 (CA125) –realizowanych zgodnie z warunkami określonymi w załącznikach nr 2, 3 i 7 do rozporządzenia.
@@ -169,7 +165,7 @@ Kryteria kwalifikacji do badania w kierunku wykrycia mutacji w genach SMAD4 i BM
 Kryteria kwalifikacji do badania w kierunku wykrycia mutacji w genie MUTYH:
 1) świadczeniobiorca z rozpoznanym rakiem jelita grubego z zespołem polipowatości recesywnej;
 2) krewni pierwszego stopnia osoby z rakiem jelita grubego z zespołem polipowatości recesywnej, w przypadku gdy mutacja markerowa nie została ustalona i nie ma możliwości rozpoczęcia diagnostyki od osoby chorej.
-Kryteria kwalifikacji do badania w kierunku wykrycia nosicielstwa mutacji w genach APC, MLH1, MSH2, MSH6, PMS2, STK11, SMAD4, BMPR1A, MUTYH, EPCAM, PTEN, wykonywanego metodami biologii molekularnej z zastosowaniem techniki sekwencjonowania następnej generacji (NGS) w przypadku niewykrycia uprzednio mutacji w wyżej wymienionych genach innymi metodami biologii molekularnej:
+Kryteria kwalifikacji do badania w kierunku wykrycia nosicielstwa mutacji w genach APC, MLH1, MSH2, MSH6, PMS2, STK11, SMAD4, BMPR1A, MUTYH, EPCAM, PTEN, wykonywanego metodami biologii molekularnej z zastosowaniem techniki sekwencjonowania następnej generacji (NGS) – w przypadku niewykrycia uprzednio mutacji w wyżej wymienionych genach innymi metodami biologii molekularnej:
 1) przy podejrzeniu zespołów dziedzicznej predyspozycji do raka jelita grubego na tle polipowatości:
 a) obecność co najmniej 10 polipów typu adenoma w jelicie grubym lub
 b) obecność polipów hamartomatycznych w jelicie grubym;
@@ -192,36 +188,36 @@ Etap „Nadzór i badania diagnostyczne”:
 4) lekarz specjalista w dziedzinie ginekologii onkologicznej.
 Organizacja udzielania 1) świadczeniodawca zapewnia stałą opiekę geneświadczeń tyczno-onkologiczną osobom o wysokim ryzyku zachorowania na nowotwory, w tym prowadzenie dokumentacji i określenie harmonogramu prowadzonych badań (tj. zakresu badań lub konsultacji wraz z częstotliwością i terminami kolejnych badań);
 2) świadczeniodawca zapewnia współpracę i koordynuje konsultacje z innymi lekarzami specjalistami zgodnie z rodzajem wymaganych konsultacji lub badań diagnostycznych;
-3) porada specjalistyczna genetyka jest udzielana w formie pisemnej i ustnej przez lekarza specjalistę w dziedzinie genetyki klinicznej lub lekarza w trakcie specjalizacji w dziedzinie genetyki klinicznej i zawiera poza danymi medycznymi i onkologicznymi pacjenta lub osoby chorej na raka w rodzinie opis rodowodu, interpretację wyniku badania genetycznego, poradę dla rodziny oraz informację dotyczącą niepewności oszacowania;
+3) porada specjalistyczna – genetyka jest udzielana w formie pisemnej i ustnej przez lekarza specjalistę w dziedzinie genetyki klinicznej lub lekarza w trakcie specjalizacji w dziedzinie genetyki klinicznej i zawiera – poza danymi medycznymi i onkologicznymi pacjenta lub osoby chorej na raka w rodzinie – opis rodowodu, interpretację wyniku badania genetycznego, poradę dla rodziny oraz informację dotyczącą niepewności oszacowania;
 4) w przypadku gdy podczas realizacji kontrolnych badań diagnostycznych u pacjenta zidentyfikowano lub podejrzewa się zmiany nowotworowe, świadczeniodawca wskazuje jednostkę, w której pacjent może uzyskać świadczenia z zakresu pogłębionej diagnostyki i wysokospecjalistycznego leczenia.
-Warunki czasowe reali- 1) czas oczekiwania na pierwszą poradę specjalizacji świadczenia styczną genetyka jest nie dłuższy niż 3 miesiące;
+Warunki czasowe reali- 1) czas oczekiwania na pierwszą poradę specjalizacji świadczenia styczną – genetyka jest nie dłuższy niż 3 miesiące;
 2) czas oczekiwania na wyniki badań genetycznych, z wyjątkiem badań z zastosowaniem techniki sekwencjonowania następnej generacji (NGS), nie powinien przekraczać 4 tygodni od daty dostarczenia materiału;
 3) czas oczekiwania na wyniki badań genetycznych z zastosowaniem techniki sekwencjonowania następnej generacji (NGS) nie powinien przekraczać 8 tygodni.
 34 brak kodu Opieka nad rodzinami Wymagania formalne W lokalizacji: wysokiego, dziedzicz- 1) poradnia genetyczna lub nie uwarunkowanego 2) poradnia genetyczno-onkologiczna, lub ryzyka zachorowania 3) poradnia onkologiczna.
 na siatkówczaka lub W lokalizacji lub w dostępie: chorobę von 1) medyczne laboratorium diagnostyczne wpisane do Hippel-Lindau (VHL) ewidencji Krajowej Rady Diagnostów Laboratoryjnych z pracownią genetyczną;
 2) poradnia okulistyczna;
 3) poradnia onkologiczna;
-4) poradnia okulistyczna dla dzieci w przypadku udzielania świadczeń osobom poniżej 18 roku życia;
-5) poradnia onkologii i hematologii dziecięcej w przypadku udzielania świadczeń osobom poniżej 18 roku życia.
+4) poradnia okulistyczna dla dzieci – w przypadku udzielania świadczeń osobom poniżej 18 roku życia;
+5) poradnia onkologii i hematologii dziecięcej – w przypadku udzielania świadczeń osobom poniżej 18 roku życia.
 Warunki kwalifikacji Do etapu „Poradnictwo i badania genetyczne” kwalifido świadczenia kuje się świadczeniobiorca, u którego na podstawie wywiadu rodzinnego oraz wstępnej oceny ryzyka podejrzewa się występowanie dziedzicznej predyspozycji do zachorowania na siatkówczaka lub chorobę von Hippel-Lindau (VHL).
 Do etapu „Nadzór i badania diagnostyczne” kwalifikuje się świadczeniobiorca, u którego na podstawie:
 1) szczegółowego wywiadu rodzinnego przeprowadzonego przez lekarza specjalistę w dziedzinie genetyki klinicznej lub lekarza w trakcie specjalizacji w dziedzinie genetyki klinicznej podejrzewa się występowanie dziedzicznej predyspozycji do zachorowania na siatkówczaka lub chorobę von Hippel-Lindau (VHL) lub
 2) wyników badań genetycznych, realizowanych w ramach przedmiotowego świadczenia lub odrębnego postępowania diagnostyczno-terapeutycznego, stwierdzono nosicielstwo mutacji genów silnej predyspozycji do rozwoju siatkówczaka lub choroby von Hippel-Lindau (VHL).
 Zakres świadczenia Etap „Poradnictwo i badania genetyczne”:
-1) porada specjalistyczna genetyka, obejmująca szczegółowy wywiad rodzinny (dane o wszystkich krewnych z nowotworem i krewnych zdrowych z podaniem ich wieku krewni pierwszego stopnia, drugiego stopnia i ewentualnie dalszych stopni;
-w przypadku krewnych z nowotworem wiek zachorowań i typ lub umiejscowienie nowotworów), lub
+1) porada specjalistyczna – genetyka, obejmująca szczegółowy wywiad rodzinny (dane o wszystkich krewnych z nowotworem i krewnych zdrowych z podaniem ich wieku – krewni pierwszego stopnia, drugiego stopnia i ewentualnie dalszych stopni;
+w przypadku krewnych z nowotworem – wiek zachorowań i typ lub umiejscowienie nowotworów), lub
 2) porada specjalistyczna, o której mowa w pkt 1, wraz z badaniem genetycznym:
 a) w kierunku wykrycia mutacji w genach RB1, VHL, wykonywanym metodami biologii molekularnej (PCR i jej modyfikacje, RFLP, sekwencjonowanie Sangera, MLPA),
 b) w kierunku wykrycia nosicielstwa konkretnej, zidentyfikowanej w rodzinie mutacji, wykonywanym metodami biologii molekularnej (PCR i jej modyfikacje, RFLP, sekwencjonowanie Sangera, MLPA).
 Etap „Nadzór i badania diagnostyczne”:
 1.W przypadku osób mających predyspozycję do zachorowania na siatkówczaka:
-1) wizyta kontrolna co roku oraz
+1) wizyta kontrolna – co roku oraz
 2) porada specjalistyczna wraz z co najmniej jednym z następujących badań diagnostycznych:
 a) 95.1902 Badanie dna oka,
 b) 88.900 RM głowy bez wzmocnienia kontrastowego,
 c) 88.901 RM głowy bez i ze wzmocnieniem kontrastowym –realizowanych zgodnie z warunkami określonymi w załączniku nr 2 do rozporządzenia.
 2.W przypadku osób mających predyspozycję do zachorowania na chorobę von Hippel-Lindau:
-1) wizyta kontrolna co roku oraz
+1) wizyta kontrolna – co roku oraz
 2) porada specjalistyczna wraz z co najmniej jednym z następujących badań diagnostycznych:
 a) 95.1902 Badanie dna oka,
 b) 88.900 RM głowy bez wzmocnienia kontrastowego,
@@ -256,9 +252,9 @@ Etap „Nadzór i badania diagnostyczne”:
 2) lekarz specjalista w dziedzinie onkologii klinicznej.
 Organizacja udzielania 1) świadczeniodawca zapewnia stałą opiekę geneświadczeń tyczno-onkologiczną osobom o wysokim ryzyku zachorowania na nowotwory, w tym prowadzenie dokumentacji i określenie harmonogramu prowadzonych badań (tj. zakresu badań lub konsultacji wraz z częstotliwością i terminami kolejnych badań);
 2) świadczeniodawca zapewnia współpracę i koordynuje konsultacje z innymi lekarzami specjalistami zgodnie z rodzajem wymaganych konsultacji lub badań diagnostycznych;
-3) porada specjalistyczna genetyka jest udzielana w formie pisemnej i ustnej przez lekarza specjalistę w dziedzinie genetyki klinicznej lub lekarza w trakcie specjalizacji w dziedzinie genetyki klinicznej i zawiera poza danymi medycznymi i onkologicznymi pacjenta lub osoby chorej na raka w rodzinie opis rodowodu, interpretację wyniku badania genetycznego, poradę dla rodziny oraz informację dotyczącą niepewności oszacowania;
+3) porada specjalistyczna – genetyka jest udzielana w formie pisemnej i ustnej przez lekarza specjalistę w dziedzinie genetyki klinicznej lub lekarza w trakcie specjalizacji w dziedzinie genetyki klinicznej i zawiera – poza danymi medycznymi i onkologicznymi pacjenta lub osoby chorej na raka w rodzinie – opis rodowodu, interpretację wyniku badania genetycznego, poradę dla rodziny oraz informację dotyczącą niepewności oszacowania;
 4) w przypadku gdy podczas realizacji kontrolnych badań diagnostycznych u pacjenta zidentyfikowano lub podejrzewa się zmiany nowotworowe, świadczeniodawca wskazuje jednostkę, w której pacjent może uzyskać świadczenia z zakresu pogłębionej diagnostyki i wysokospecjalistycznego leczenia.
-Warunki czasowe 1) czas oczekiwania na pierwszą poradę specjalirealizacji świadczenia styczną genetyka jest nie dłuższy niż 3 miesiące;
+Warunki czasowe 1) czas oczekiwania na pierwszą poradę specjalirealizacji świadczenia styczną – genetyka jest nie dłuższy niż 3 miesiące;
 2) czas oczekiwania na wyniki badań genetycznych nie powinien przekraczać 4 tygodni od daty dostarczenia materiału.
 §2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Zdrowia: A. Niedzielski

@@ -8,7 +8,7 @@ pos: 2698
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zaniechaniu ścigania za niektóre czyny związane z organizacją wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2020 r.

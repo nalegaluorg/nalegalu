@@ -8,10 +8,10 @@ pos: 871
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 maja 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 871 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 kwietnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000871) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/871/text.pdf) |
 
-Poz. 871 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 kwietnia 2021 r.
-w sprawie minimalnej i maksymalnej szerokości pasa technicznego i ochronnego oraz sposobu wyznaczania ich granic Na podstawie art. 36 ust. 4 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2020 r. poz. 2135 oraz z 2021 r. poz. 234) zarządza się, co następuje: § 1. 1. Pas techniczny obejmuje obszar lądu od linii brzegu morskiego o szerokości od 10 m do 1000 m w zależności od rodzaju brzegu, z wyłączeniem terenów leżących w granicach portów i przystani morskich określonych na podstawie art. 45 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
+w sprawie minimalnej i maksymalnej szerokości pasa technicznego i ochronnego oraz sposobu wyznaczania ich granic Na podstawie art. 36 ust. 4 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2020 r. poz. 2135 oraz z 2021 r. poz. 234) zarządza się, co następuje:
+§ 1. 1. Pas techniczny obejmuje obszar lądu od linii brzegu morskiego o szerokości od 10 m do 1000 m w zależności od rodzaju brzegu, z wyłączeniem terenów leżących w granicach portów i przystani morskich określonych na podstawie art. 45 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 2. Pas ochronny obejmuje obszar lądu przyległy do odlądowej granicy pasa technicznego o szerokości od 100 m do 2500 m, z wyłączeniem terenów leżących w granicach portów i przystani morskich określonych na podstawie art. 45 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 3. Na terenach zamkniętych, o których mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 2052), ustalonych przez Ministra Obrony Narodowej, minimalna szerokość pasa technicznego i minimalna szerokość pasa ochronnego mogą być mniejsze niż określone w ust. 1 i 2.
 § 2. 1. Granice pasa technicznego wyznacza się, uwzględniając:
@@ -38,7 +38,6 @@ w sprawie minimalnej i maksymalnej szerokości pasa technicznego i ochronnego or
 2. Granice pasa technicznego w obszarze leśnym można wyznaczyć maksymalnie do szerokości 1000 m, licząc od linii brzegu morskiego, z uwagi na potrzebę zachowania jednolitości obszaru leśnego dla celów ochrony brzegu morskiego lub przeciwdziałanie powodziom od strony morza.
 3. Jeżeli wyznaczenie granic pasa technicznego na obszarze mierzei jezior przymorskich nie jest możliwe w sposób określony w ust. 1 i 2, granicę pasa technicznego wyznacza się po granicy działek pokrytych wodami śródlądowymi.
 4. Jeżeli na brzegach wydmowych nie jest możliwe wyznaczenie granicy pasa technicznego w oparciu o odlądowe podnóże pierwszego wału wydmowego, granice pasa technicznego wyznacza się w pasie terenu o szerokości od 20 do 300 m, licząc od linii brzegu morskiego.
-Dziennik Ustaw – 2 – Poz. 871
 5. Jeżeli odlądowa granica pasa technicznego została wyznaczona po granicy działek pokrytych wodami śródlądowymi, pasa ochronnego nie wyznacza się.
 6. W przypadku niezachowania minimalnej szerokości pasa technicznego, o której mowa w ust. 1, wskutek trwałej i nieodwracalnej erozji brzegu morskiego, niezwłocznie wyznacza się granice pasa technicznego, nie później niż w okresie 6 miesięcy od dnia powzięcia informacji o tym zdarzeniu.
 § 3. 1. Odlądowe granice pasa technicznego i ochronnego przedstawia się na mapach pozyskanych z państwowego zasobu geodezyjnego i kartograficznego.

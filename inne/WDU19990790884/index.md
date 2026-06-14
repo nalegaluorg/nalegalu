@@ -8,12 +8,12 @@ pos: 884
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Ustawa z dnia 3 września 1999 r. o utworzeniu Uniwersytetu Kardynała Stefana Wyszyńskiego w Warszawie.
+# o utworzeniu Uniwersytetu Kardynała Stefana Wyszyńskiego w Warszawie
 
-*USTAWA dnia 3 września 1999 o utworzeniu Uniwersytetu Kardynała Stefana Wyszyńskiego Warszawie*
+*USTAWA z dnia 3 września 1999 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -29,7 +29,7 @@ source: "isap-pdf"
 
 **Art. 1.**
 
-1. Tworzy 1999 Uniwersytet Kardynała Stefana Wyszyńskiego Warszawie, zwany dalej „Uniwersytetem”.
+1. Tworzy się z dniem 1 października 1999 r. Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie, zwany dalej „Uniwersytetem”.
 
 2. Siedzibą Uniwersytetu jest Warszawa.
 
@@ -37,44 +37,44 @@ source: "isap-pdf"
 
 **Art. 2.**
 
-1. Uniwersytet kształci oraz prowadzi badania naukowe szczególności zakresie nauk humanistycznych, społecznych, medycznych teologicznych.
+1. Uniwersytet kształci oraz prowadzi badania naukowe w szczególności w zakresie nauk humanistycznych, społecznych, medycznych i teologicznych.
 
-2. W przypadku ubiegania o uprawnienie do prowadzenia studiów na kierunku lekarskim nie stosuje przepisów art. 11 ust. 3 pkt 2 lit. b tiret pierwsze ustawy dnia 27 lipca 2005 – Prawo o szkolnictwie wyższym (Dz. U. 2017 poz. 2183, późn. zm. ) .
+2. W przypadku ubiegania się o uprawnienie do prowadzenia studiów na kierunku lekarskim nie stosuje się przepisów art. 11 ust. 3 pkt 2 lit. b tiret pierwsze ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm. ) .
 
 **Art. 3.**
 
-1. Uniwersytet tworzy Akademii Teologii Katolickiej Warszawie, zwanej dalej „Akademią”.
+1. Uniwersytet tworzy się z Akademii Teologii Katolickiej w Warszawie, zwanej dalej „Akademią”.
 
-2. Z utworzenia Uniwersytetu znosi Akademię Teologii Katolickiej Warszawie.
+2. Z dniem utworzenia Uniwersytetu znosi się Akademię Teologii Katolickiej w Warszawie.
 
 **Art. 4.**
 
-1. Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego nauki.
+1. Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
 
-2. Uniwersytet pozostaje ponadto pod nadzorem władz Kościoła Katolickiego zakresie określonym przez umowę między Konferencją Episkopatu Polski a Rządem Rzeczypospolitej Polskiej oraz statut uczelni.
+2. Uniwersytet pozostaje ponadto pod nadzorem władz Kościoła Katolickiego w zakresie określonym przez umowę między Konferencją Episkopatu Polski a Rządem Rzeczypospolitej Polskiej oraz statut uczelni.
 
 **Art. 5.**
 
-1. Mienie, obejmujące własność inne prawa majątkowe Akademii, staje mieniem Uniwersytetu jego utworzenia.
+1. Mienie, obejmujące własność i inne prawa majątkowe Akademii, staje się mieniem Uniwersytetu z dniem jego utworzenia.
 
-2. Uniwersytet utworzenia przejmuje prawa zobowiązania Akademii.
+2. Uniwersytet z dniem utworzenia przejmuje prawa i zobowiązania Akademii.
 
 **Art. 6.**
 
-1. Z utworzenia Uniwersytetu:
+1. Z dniem utworzenia Uniwersytetu:
 
-- **1)** pracownicy Akademii stają pracownikami Uniwersytetu,
-- **2)** studenci Akademii stają studentami Uniwersytetu.
+- **1)** pracownicy Akademii stają się pracownikami Uniwersytetu,
+- **2)** studenci Akademii stają się studentami Uniwersytetu.
 
-2. Osoby przyjęte do Akademii na pierwszy rok studiów na rok akademicki 1999/2000 utworzenia Uniwersytetu stają jego studentami.
+2. Osoby przyjęte do Akademii na pierwszy rok studiów na rok akademicki 1999/2000 z dniem utworzenia Uniwersytetu stają się jego studentami.
 
-3. Podstawowe jednostki organizacyjne Akademii utworzenia Uniwersytetu stają jego podstawowymi jednostkami organizacyjnymi.
+3. Podstawowe jednostki organizacyjne Akademii z dniem utworzenia Uniwersytetu stają się jego podstawowymi jednostkami organizacyjnymi.
 
-4. Jednostki organizacyjne Akademii, które przed utworzenia Uniwersytetu posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po dniu utworzenia Uniwersytetu.
+4. Jednostki organizacyjne Akademii, które przed dniem utworzenia Uniwersytetu posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po dniu utworzenia Uniwersytetu.
 
-**Art. 7.** Dotychczasowe organy kolegialne jednoosobowe Akademii, wyłączeniem rektora, utworzenia Uniwersytetu stają jego organami.
+**Art. 7.** Dotychczasowe organy kolegialne i jednoosobowe Akademii, z wyłączeniem rektora, z dniem utworzenia Uniwersytetu stają się jego organami.
 
-**Art. 8.** Do dnia 31 grudnia 1999 zostaną przeprowadzone wybory organów Uniwersytetu trybie na okres ustalony statucie Uniwersytetu.
+**Art. 8.** Do dnia 31 grudnia 1999 r. zostaną przeprowadzone wybory organów Uniwersytetu w trybie i na okres ustalony w statucie Uniwersytetu.
 
-**Art. 9.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

@@ -1,0 +1,144 @@
+---
+title: Rozporządzenie Ministra Obrony Narodowej z dnia 28 września 2023 r. zmieniające rozporządzenie w sprawie wypłaty odprawy mieszkaniowej
+address: WDU20230002228
+eli: DU/2023/2228
+publisher: DU
+year: 2023
+pos: 2228
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22222288 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 28 września 2023 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2228 |
+| ISAP | WDU20230002228 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2023-09-28 |
+| Data wydania | 2023-10-17 |
+| Ostatnia zmiana | 2025-03-19 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2228/text.pdf) |
+
+zmieniające rozporządzenie w sprawie wypłaty odprawy mieszkaniowej Na podstawie art. 47 ust. 7 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 1623 oraz z 2023 r. poz. 1872) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 25 lipca 2016 r. w sprawie wypłaty odprawy mieszkaniowej (Dz. U. poz. 1195) wprowadza się następujące zmiany:
+1) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+2) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Obrony Narodowej: z up. M. Wiśniewski WZÓR WNIOSEK O WYPŁATĘ ODPRAWY WZÓR MIESZKANIOWEJ ŻOŁNIERZOWI ZAWODOWEMU WNIOSEK O WYPŁATĘ ODPRAWY MIESZKANIOWEJ ŻOŁNIERZOWI ZAWODOWEMU UWAGA: wypełnij WIELKIMI LITERAMI; pola wyboru zaznacz znakiem X; wypełnij wszystkie pola; zanim wypełnisz oświadczenia, zapoznaj się z Pouczeniem; zabrakło miejsca w danej rubryce – podaj je w pkt IV DANE ŻOŁNIERZA ZAWODOWEGO SKŁADAJĄCEGO WNIOSEK O WYPŁATĘ ODPRAWY MIESZKANIOWEJ, ZWANEGO DALEJ RÓWNIEŻ WNIOSKODAWCĄ Pani/Pan …......……………………………………………….. , ...………………………………..
+ADRES ZAMIESZKANIA Adres korespondencyjny : ..…………………………………………………………………………………………. , nr telefonu : ………………………………………………. , adres e-mail : ………………………………………………. , adres elektroniczny : ……………………………………….. .
+NAZWA ORGANU WŁAŚCIWEGO DO REALIZACJI WNIOSKU ŻOŁNIERZA ZAWODOWEGO O WYPŁATĘ ODPRAWY MIESZKANIOWEJ w ………………...……………………………….………. .
+1 I. WSKAZANIE TRYBU WYPŁATY ODPRAWY MIESZKANIOWEJ: WNOSZĘ O WYPŁATĘ ODPRAWY MIESZKANIOWEJ W ZWIĄZKU:
+1) ❑ ze zwolnieniem z zawodowej służby wojskowej i przedstawiam organowi:
+a) ❑ decyzję o zwolnieniu z zawodowej służby wojskowej i zaświadczenie o wysłudze lat, od której jest uzależniona wysokość dodatku za długoletnią służbę wojskową, wydane przez właściwy organ wojskowy, jaką żołnierz zawodowy będzie posiadał w ostatnim dniu pełnienia zawodowej służby wojskowej,
+b) ❑ zaświadczenie o nabyciu uprawnień do emerytury wojskowej lub do wojskowej renty inwalidzkiej wydane przez wojskowy organ emerytalny;
+2) ❑ z ostateczną decyzją o zwolnieniu z zawodowej służby wojskowej i przedstawiam organowi: ❑ ostateczną decyzję o zwolnieniu z zawodowej służby wojskowej i zaświadczenie o wysłudze lat, od której jest uzależniona wysokość dodatku za długoletnią służbę wojskową, wydane przez właściwy organ wojskowy, jaką żołnierz zawodowy będzie posiadał w ostatnim dniu pełnienia zawodowej służby wojskowej.
+Oświadczam, że: ❑ zamieszkuję w kwaterze ;
+❑ nie otrzymałam(-łem) decyzji o przydziale lokalu mieszkalnego .
+2 Odprawę mieszkaniową proszę przekazać na mój rachunek bankowy lub w spółdzielczej kasie oszczędnościowo-kredytowej (SKOK) o numerze: - - - - - II. OŚWIADCZENIA ŻOŁNIERZA ZAWODOWEGO SŁUŻĄCE USTALENIU PRAWA DO ODPRAWY MIESZKANIOWEJ: DANE MAŁŻONKA, Z KTÓRYM WNIOSKODAWCA POZOSTAJE W ZWIĄZKU MAŁŻEŃSKIM …………………………………………………………… , Oświadczam, że mój małżonek: jest żołnierzem zawodowym: ❑ tak ❑ nie był żołnierzem zawodowym: ❑ tak ❑ nie OŚWIADCZAM, ŻE JA LUB MÓJ MAŁŻONEK
+a) otrzymałam(-łem) ekwiwalent pieniężny w zamian za rezygnację z kwatery, wypłacony na podstawie przepisów ustawy o zakwaterowaniu obowiązujących do dnia 30 czerwca 2004 r.: ❑ tak, w miejscowości ……………………………. ❑ nie
+b) otrzymałam(-łem) odprawę mieszkaniową wypłaconą albo zrealizowaną w formie rzeczowej na podstawie przepisów ustawy o zakwaterowaniu obowiązujących od dnia 1 lipca 2004 r.: ❑ tak, w miejscowości ……………………………. ❑ nie
+c) nabyłam(-łem) lokal mieszkalny od Skarbu Państwa, Agencji Mienia Wojskowego (wcześniej pod nazwą Wojskowej Agencji Mieszkaniowej) lub jednostki samorządu terytorialnego z bonifikatą lub z uwzględnieniem pomniejszenia w cenie nabycia: ❑ tak, w miejscowości ……………………………. ❑ nie
+d) otrzymałam(-łem) pomoc finansową w formie zaliczkowej lub bezzwrotnej do dnia 31 grudnia 1995 r.
+na podstawie przepisów ustawy z dnia 20 maja 1976 r. o zakwaterowaniu sił zbrojnych: ❑ tak, w miejscowości ……………………………. ❑ nie
+e) nabyłam(-łem) własnościowe spółdzielcze prawo do lokalu mieszkalnego od Agencji Mienia Wojskowego (wcześniej pod nazwą Wojskowej Agencji Mieszkaniowej): ❑ tak, w miejscowości ……………………………. ❑ nie OŚWIADCZAM, ŻE ZOSTAŁAM(-ŁEM) ZWOLNIONA(-NY) Z CZYNNEJ SŁUŻBY WOJSKOWEJ:
+a) na skutek skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego: ❑ tak ❑ nie
+b) na skutek orzeczenia wydanego w postępowaniu dyscyplinarnym: ❑ tak ❑ nie 3
+c) przed upływem 10 lat od dnia powołania do tej służby w przypadku, gdy powołanie do czynnej służby wojskowej nastąpiło po okresie służby w Policji, Straży Granicznej, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnym Biurze Antykorupcyjnym, Służbie Celno-Skarbowej, Służbie Celnej, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego lub Urzędzie Ochrony Państwa : ❑ tak ❑ nie III. OŚWIADCZENIA ŻOŁNIERZA ZAWODOWEGO SŁUŻĄCE DO WYLICZENIA ODPRAWY MIESZKANIOWEJ W okresie pełnienia zawodowej służby wojskowej od - - do - Do wyliczenia odprawy mieszkaniowej wskazuję dzień: - W KTÓRYM PEŁNIŁAM(-ŁEM) SŁUŻBĘ WOJSKOWĄ: ❑ na stanowisku służbowym ………………………............ w Jednostce Wojskowej nr ………………………….... ;
+❑ w uczelni wojskowej, szkole podoficerskiej, centrum szkolenia, ośrodku szkolenia ;
+❑ w dyspozycji w ……………………………. , z zaszeregowaniem do stopnia etatowego ….………………........................................... , zgodnie z rozkazem nr ................. z dnia ……................. , wydanym przez ............................................................................. .
+OŚWIADCZAM, ŻE CZŁONKAMI MOJEJ RODZINY, ZGODNIE Z ART. 26 UST. 3 PKT 1 i 2 ORAZ UST. 4 USTAWY O ZAKWATEROWANIU , NA DZIEŃ WSKAZANY DO WYLICZENIA ODPRAWY BYLI:
+1) MAŁŻONEK, wskazany w II części wniosku ❑ tak ❑ nie NALEŻY WYPEŁNIĆ DANE BYŁEGO MAŁŻONKA ALBO ZMARŁEGO MAŁŻONKA, JEŻELI W DNIU WSKAZANYM DO WYLICZENIA ODPRAWY MIESZKANIOWEJ WNIOSKODAWCA POZOSTAWAŁ Z NIM W ZWIĄZKU MAŁŻEŃSKIM 1a) …………………………………………………………………………………………………………………………………… Oświadczam, że były/zmarły małżonek: jest żołnierzem zawodowym: ❑ tak ❑ nie był żołnierzem zawodowym: ❑ tak ❑ nie OŚWIADCZAM, ŻE JA LUB MÓJ MAŁŻONEK : ❑ nie posiadamy dziecka/dzieci wspólnych ani z innych związków;
+❑ posiadamy dziecko/dzieci wspólne lub z innych związków.
+NALEŻY WSKAZAĆ DZIECI WŁASNE, DZIECI MAŁŻONKA I INNE DZIECI WSPÓLNIE ZAMIESZKAŁE Z WNIOSKUJĄCYM NA DZIEŃ PRZEZ NIEGO WSKAZANY DO WYLICZENIA ODPRAWY MIESZKANIOWEJ
+1) .............................................................................. .................................... ...................................
+- 2) .............................................................................. .................................... ...................................
+- 3) .............................................................................. .................................... ...................................
+- 4) .............................................................................. .................................... ...................................
+- 5) .............................................................................. .................................... ...................................
+- POD ADRESEM ( WSKAZUJESZ CZY KTÓRAŚ Z OSÓB WSKAZANYCH WE WNIOSKU BYŁA UWZGLĘDNIONA DO WYLICZENIA ODPRAWY MIESZKANIOWEJ NA INNĄ OSOBĘ NIŻ WNIOSKUJĄCY ?: ❑ tak ❑ nie w przypadku odpowiedzi TAK należy zaznaczyć odpowiedni kwadrat, który numerycznie odpowiada danym umieszczonym w tabelach na str. 4 i 5 wniosku w zakresie: - małżonka: ❑ 1 ❑ 1a - dzieci: ❑ 1 ❑ 2 ❑ 3 ❑ 4 ❑ 5 MÓJ MAŁŻONEK JEST ŻOŁNIERZEM ZAWODOWYM I WYRAZIŁ ZGODĘ NA UWZGLĘDNIENIE : jego norm we wnioskowanej odprawie mieszkaniowej ❑ tak ❑ nie normy dziecka/dzieci we wnioskowanej odprawie mieszkaniowej ❑ tak ❑ nie IV. MIEJSCE NA PODANIE DODATKOWYCH INFORMACJI: ……..………………………………………………………………………………………………………………………..
+……..…………………………………………………………………………...…………………………………….…..… ……..………………………………………………………………………………………………………………………..
+……..…………………………………………………………………………...…………………………………….…..… ……..………………………………………………………………………………………………………………………..
+……..…………………………………………………………………………...…………………………………….…..… V. DO WNIOSKU ZAŁĄCZAM : W związku ze zwolnieniem ze służby:
+a) ❑ decyzję o zwolnieniu z zawodowej służby wojskowej i zaświadczenie o wysłudze lat, od której jest uzależniona wysokość dodatku za długoletnią służbę wojskową, wydane przez właściwy organ wojskowy, jaką żołnierz zawodowy będzie posiadał w ostatnim dniu pełnienia zawodowej służby wojskowej,
+b) ❑ zaświadczenie o nabyciu uprawnień do emerytury wojskowej lub do wojskowej renty inwalidzkiej wydane przez wojskowy organ emerytalny,
+c) ❑ ostateczną decyzję o zwolnieniu z zawodowej służby wojskowej i zaświadczenie o wysłudze lat, od której jest uzależniona wysokość dodatku za długoletnią służbę wojskową, wydane przez właściwy organ wojskowy, jaką żołnierz zawodowy będzie posiadał w ostatnim dniu pełnienia zawodowej służby wojskowej,
+d) ❑ wyciąg/odpis rozkazu personalnego wskazanego we wniosku.
+…………………….………………………..
+OŚWIADCZENIE Wyrażam zgodę na przetwarzanie moich danych osobowych przez Agencję Mienia Wojskowego w zakresie przekazanego numeru telefonu, adresu e-mail i adresów elektronicznych wyłącznie w celach związanych z realizacją prawa do zakwaterowania.
+Wyrażoną zgodę obejmującą: przekazany numer telefonu, adres e-mail i adresy elektroniczne może Pani/Pan odwołać w każdym czasie. Wycofanie zgody nie wpływa na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem.
+…………………….………………………..
+POUCZENIE Zgodnie z art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r.
+w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.) informuję, że:
+1. Administratorem danych osobowych powierzonych przez Panią/Pana jest Agencja Mienia Wojskowego z siedzibą w Warszawie przy ul. Nowowiejskiej 26A, 00-911 Warszawa, www.amw.com.pl.
+2. Przetwarzanie Pani/Pana danych osobowych następuje na podstawie art. 6 ust. 1 lit. c ogólnego rozporządzenia o ochronie danych, gdyż jest niezbędne do wypełnienia obowiązku prawnego ciążącego na administratorze.
+3. Pani/Pana dane osobowe są przetwarzane w celu realizacji uprawnień i obowiązków wynikających z dyspozycji art. 23 i art. 47 ustawy o zakwaterowaniu oraz art. 84 ustawy o Agencji, art. 17 ustawy z dnia 22 stycznia 2010 r. o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 143 oraz z 2015 r. poz. 1322).
+4. Pani/Pana dane osobowe mogą być powierzone do przetwarzania przez AMW TBS „Kwatera” sp. z o.o.
+5. Pani/Pana dane osobowe będą przetwarzane przez okres wynikający z regulacji administratora, tj. jednolitego rzeczowego wykazu akt − sporządzonego na podstawie przepisów prawa w zakresie archiwizacji dokumentów, który jest dostępny w siedzibie oddziału regionalnego Agencji Mienia Wojskowego (dane teleadresowe organów Agencji Mienia Wojskowego są wskazane na stronie internetowej www.amw.com.pl).
+6. Przysługuje Pani/Panu prawo dostępu do swoich danych osobowych w siedzibie dyrektora oddziału regionalnego Agencji Mienia Wojskowego (dane teleadresowe organów Agencji Mienia Wojskowego są wskazane na stronie internetowej www.amw.com.pl) obsługującego Pani/Pana sprawę, prawo ich sprostowania lub uzupełnienia, a także prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych. Prawo może być realizowane w formie pisemnej lub w siedzibie oddziału regionalnego Agencji Mienia Wojskowego.
+7. Dane udostępnione przez Panią/Pana nie będą przetwarzane w sposób zautomatyzowany i nie będą poddane procesowi profilowania.
+8. Administrator zawiadamia, że dane osobowe nie będą przekazywane do państwa trzeciego lub organizacji międzynarodowej. Kontakt z inspektorem ochrony danych jest możliwy poprzez pocztę elektroniczną na adres: iod@amw.com.pl lub listownie na adres: Agencja Mienia Wojskowego, ul. Nowowiejska 26A, 00-911 Warszawa, z dopiskiem „Inspektor ochrony danych”.
+9. Składane oświadczenia zawarte we wniosku stanowią dowody w postępowaniu administracyjnym w rozumieniu art. 75 § 1 Kodeksu postępowania administracyjnego .
+Zgodnie z art. 75 § 2 Kodeksu postępowania administracyjnego jeżeli przepis prawa nie wymaga urzędowego potwierdzenia określonych faktów lub stanu prawnego w drodze zaświadczenia właściwego organu administracji, organ administracji publicznej odbiera od strony, na jej wniosek, oświadczenie złożone pod rygorem odpowiedzialności za fałszywe zeznania.
+Na podstawie art. 233 § 1 Kodeksu karnego kto, składając zeznanie mające służyć za dowód w postępowaniu sądowym lub w innym postępowaniu prowadzonym na podstawie ustawy, zeznaje nieprawdę lub zataja prawdę, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+8 WZÓR WZÓR WNIOSEK O WYPŁATĘ ODPRAWY MIESZKANIOWEJ WNIOSEK O WYPŁATĘ ODPRAWY MIESZKANIOWEJ W PRZYPADKU ŚMIERCI ŻOŁNIERZA ZAWODOWEGO W PRZYPADKU ŚMIERCI ŻOŁNIERZA ZAWODOWEGO UWAGA: wypełnij WIELKIMI LITERAMI; pola wyboru zaznacz znakiem X; wypełnij wszystkie pola; zanim wypełnisz oświadczenia, zapoznaj się z Pouczeniem; zabrakło miejsca w danej rubryce – podaj je w pkt III DANE OSOBY SKŁADAJĄCEJ WNIOSEK O WYPŁATĘ ODPRAWY MIESZKANIOWEJ Pani/Pan …......………………………………………………., ...………………………………..
+ADRES ZAMIESZKANIA Adres korespondencyjny : ..…………………………………………………………………………………………. , nr telefonu : ………………………………………………. , adres e-mail : ………………………………………………. , adres elektroniczny : ……………………………………….. .
+NAZWA ORGANU WŁAŚCIWEGO DO REALIZACJI WNIOSKU O WYPŁATĘ ODPRAWY MIESZKANIOWEJ w ………………...……………………………….………. .
+1 I. OŚWIADCZENIA SŁUŻĄCE USTALENIU TRYBU WYPŁATY ODPRAWY MIESZKANIOWEJ WNOSZĘ O WYPŁATĘ ODPRAWY MIESZKANIOWEJ W ZWIĄZKU ZE ŚMIERCIĄ ŻOŁNIERZA ZAWODOWEGO Pani/Pana …......………………………………………………., ...………………………………..
+która/który do dnia śmierci była/był :
+1) ❑ żołnierzem zawodowym, który (należy zaznaczyć jedną właściwą odpowiedź w ppkt a) i b)):
+a) ❑ zajmował lokal mieszkalny lub ❑ nie otrzymał decyzji o przydziale lokalu mieszkalnego ;
+b) ❑ nabył prawo do emerytury wojskowej lub ❑ jego śmierć pozostaje w związku ze służbą wojskową;
+2) ❑ żołnierzem pełniącym zawodową służbę wojskową w trakcie kształcenia w uczelni wojskowej i jego śmierć pozostaje w związku ze służbą wojskową ;
+3) ❑ żołnierzem pełniącym dobrowolną zasadniczą służbę wojskową i jego śmierć pozostaje w związku ze służbą wojskową ;
+4) ❑ żołnierzem pełniącym terytorialną służbę wojskową i jego śmierć pozostaje w związku ze służbą wojskową ;
+5) ❑ żołnierzem, o którym mowa w pkt 1−4, zmarłym w ciągu 3 lat po zwolnieniu ze służby wojskowej i jego śmierć nastąpiła wskutek urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie ;
+6) ❑ żołnierzem, o którym mowa w pkt 1−4, zmarłym w ciągu 3 lat po zwolnieniu ze służby wojskowej i jego śmierć nastąpiła wskutek wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej ;
+7) ❑ żołnierzem uprawnionym do odprawy mieszkaniowej w dniu zwolnienia ze służby wojskowej, zmarłym przed dniem wypłaty tej odprawy .
+OŚWIADCZAM, ŻE ŻOŁNIERZ ZAWODOWY W DNIU ŚMIERCI ZAMIESZKIWAŁ POD ADRESEM: od - - do - w tym również w dniu śmierci: - OŚWIADCZAM RÓWNIEŻ, ŻE POD WSKAZANYM POWYŻEJ ADRESEM WSPÓLNIE Z ŻOŁNIERZEM ZAWODOWYM, W DNIU JEGO ŚMIERCI, ZAMIESZKIWAŁY OSOBY UPRAWNIONE DO ODPRAWY MIESZKANIOWEJ:
+1) .............................................................................. .................................... ...................................
+- 2) .............................................................................. .................................... ...................................
+- 3) .............................................................................. .................................... ...................................
+- 4) .............................................................................. .................................... ...................................
+- 5) .............................................................................. .................................... ...................................
+- CZY KTÓRAŚ Z OSÓB UPRAWNIONYCH, WSKAZANYCH WE WNIOSKU, BYŁA JUŻ UWZGLĘDNIONA DO WYLICZENIA ODPRAWY MIESZKANIOWEJ NA INNĄ OSOBĘ NIŻ ZMARŁY ŻOŁNIERZ ZAWODOWY ?: ❑ tak ❑ nie w przypadku odpowiedzi TAK należy zaznaczyć odpowiedni kwadrat, który numerycznie odpowiada danym umieszczonym w tabeli wniosku o członkach rodziny żołnierza zawodowego: ❑ 1 ❑ 2 ❑ 3 ❑ 4 ❑ 5 Odprawę mieszkaniową proszę przekazać na mój rachunek bankowy lub w spółdzielczej kasie oszczędnościowo-kredytowej (SKOK) o numerze: - - - - - II. OŚWIADCZENIA SŁUŻĄCE USTALENIU PRAWA ZMARŁEGO ŻOŁNIERZA ZAWODOWEGO DO ODPRAWY MIESZKANIOWEJ: III. OŚWIADCZAM, ŻE ZMARŁY ŻOŁNIERZ ZAWODOWY LUB JEGO MAŁŻONEK :
+a) otrzymał ekwiwalent pieniężny w zamian za rezygnację z kwatery, wypłacony na podstawie przepisów ustawy o zakwaterowaniu obowiązujących do dnia 30 czerwca 2004 r.: ❑ tak, w miejscowości ……………………………. ❑ nie
+b) otrzymał odprawę mieszkaniową wypłaconą albo zrealizowaną w formie rzeczowej na podstawie przepisów ustawy o zakwaterowaniu obowiązujących od dnia 1 lipca 2004 r.: ❑ tak, w miejscowości ……………………………. ❑ nie
+c) nabył lokal mieszkalny od Skarbu Państwa, Agencji Mienia Wojskowego (wcześniej pod nazwą Wojskowej Agencji Mieszkaniowej) lub jednostki samorządu terytorialnego z bonifikatą lub z uwzględnieniem pomniejszenia w cenie nabycia: ❑ tak, w miejscowości ……………………………. ❑ nie
+d) otrzymał pomoc finansową w formie zaliczkowej lub bezzwrotnej do dnia 31 grudnia 1995 r. na podstawie przepisów ustawy z dnia 20 maja 1976 r. o zakwaterowaniu sił zbrojnych: ❑ tak, w miejscowości ……………………………. ❑ nie
+e) nabył własnościowe spółdzielcze prawo do lokalu mieszkalnego od Agencji Mienia Wojskowego (wcześniej pod nazwą Wojskowej Agencji Mieszkaniowej): ❑ tak, w miejscowości ……………………………. ❑ nie OŚWIADCZAM, ŻE ZMARŁY ŻOŁNIERZ ZOSTAŁ ZWOLNIONY Z ZAWODOWEJ SŁUŻBY WOJSKOWEJ :
+1) na skutek skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego: ❑ tak ❑ nie
+2) na skutek orzeczenia wydanego w postępowaniu dyscyplinarnym: ❑ tak ❑ nie
+3) przed upływem 10 lat od dnia powołania do tej służby w przypadku, gdy powołanie do czynnej służby wojskowej nastąpiło po okresie służby w Policji, Straży Granicznej, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnym Biurze Antykorupcyjnym, Służbie Celno-Skarbowej, Służbie Celnej, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego lub Urzędzie Ochrony Państwa : ❑ tak ❑ nie III. MIEJSCE NA PODANIE DODATKOWYCH INFORMACJI: ……..………………………………………………………………………………………………………………………..
+……..…………………………………………………………………………...…………………………………….…..… IV. DO WNIOSKU ZAŁĄCZAM :
+1) w przypadku żołnierza zawodowego, który do dnia śmierci nabył prawo do emerytury wojskowej lub wojskowej renty inwalidzkiej: ❑ decyzję o zwolnieniu z zawodowej służby wojskowej wraz z zaświadczeniem o wysłudze lat, od której jest uzależniona wysokość dodatku za długoletnią służbę wojskową, wydanym przez właściwy organ wojskowy, jaką żołnierz zawodowy posiadał w ostatnim dniu pełnienia zawodowej służby wojskowej;
+❑ zaświadczenie o nabyciu uprawnień do emerytury wojskowej lub do wojskowej renty inwalidzkiej wydane przez wojskowy organ emerytalny;
+2) w przypadku żołnierza zawodowego, który zmarł w ciągu 3 lat po zwolnieniu ze służby: ❑ decyzję o zwolnieniu z zawodowej służby wojskowej;
+❑ zaświadczenie potwierdzające, że śmierć nastąpiła wskutek urazów doznanych w czasie pełnienia służby lub chorób powstałych w tym czasie wydane przez właściwy organ wojskowy;
+❑ zaświadczenie potwierdzające, że śmierć nastąpiła wskutek wypadku pozostającego w związku z pełnieniem czynnej służby wojskowej wydane przez właściwy organ wojskowy;
+3) w przypadku żołnierza zawodowego, którego śmierć pozostaje w związku z pełnieniem służby wojskowej: ❑ zaświadczenie o związku śmierci żołnierza zawodowego ze służbą wojskową wydane przez właściwy organ wojskowy.
+…………………….………………………..
+OŚWIADCZENIE Wyrażam zgodę na przetwarzanie moich danych osobowych przez Agencję Mienia Wojskowego w zakresie przekazanego numeru telefonu, adresu e-mail i adresów elektronicznych wyłącznie w celach związanych z realizacją prawa do zakwaterowania.
+Wyrażoną zgodę obejmującą: przekazany numer telefonu, adres e-mail i adresy elektroniczne może Pani/Pan odwołać w każdym czasie. Wycofanie zgody nie wpływa na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem.
+…………………….………………………..
+POUCZENIE Zgodnie z art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r.
+w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.) informuję, że:
+1. Administratorem danych osobowych powierzonych przez Panią/Pana jest Agencja Mienia Wojskowego z siedzibą w Warszawie przy ul. Nowowiejskiej 26A, 00-911 Warszawa, www.amw.com.pl.
+2. Przetwarzanie Pani/Pana danych osobowych następuje na podstawie art. 6 ust. 1 lit. c ogólnego rozporządzenia o ochronie danych, gdyż jest niezbędne do wypełnienia obowiązku prawnego ciążącego na administratorze.
+3. Pani/Pana dane osobowe są przetwarzane w celu realizacji uprawnień i obowiązków wynikających z dyspozycji art. 23 i art. 47 ustawy o zakwaterowaniu oraz art. 84 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2022 r. poz. 2061 oraz z 2023 r. poz. 1463 i 1872), art. 17 ustawy z dnia 22 stycznia 2010 r. o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 143 oraz z 2015 r. poz. 1322).
+4. Pani/Pana dane osobowe mogą być powierzone do przetwarzania przez AMW TBS „Kwatera” sp. z o.o.
+5. Pani/Pana dane osobowe będą przetwarzane przez okres wynikający z regulacji administratora, tj. jednolitego rzeczowego wykazu akt − sporządzonego na podstawie przepisów prawa w zakresie archiwizacji dokumentów, który jest dostępny w siedzibie oddziału regionalnego Agencji Mienia Wojskowego (dane teleadresowe organów Agencji Mienia Wojskowego są wskazane na stronie internetowej www.amw.com.pl).
+6
+6. Przysługuje Pani/Panu prawo dostępu do swoich danych osobowych w siedzibie dyrektora oddziału regionalnego Agencji Mienia Wojskowego (dane teleadresowe organów Agencji Mienia Wojskowego są wskazane na stronie internetowej www.amw.com.pl) obsługującego Pani/Pana sprawę, prawo ich sprostowania lub uzupełnienia, a także prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych. Prawo może być realizowane w formie pisemnej lub w siedzibie oddziału regionalnego Agencji Mienia Wojskowego.
+7. Dane udostępnione przez Panią/Pana nie będą przetwarzane w sposób zautomatyzowany i nie będą poddane procesowi profilowania.
+8. Administrator zawiadamia, że dane osobowe nie będą przekazywane do państwa trzeciego lub organizacji międzynarodowej. Kontakt z inspektorem ochrony danych jest możliwy poprzez pocztę elektroniczną na adres: iod@amw.com.pl lub listownie na adres: Agencja Mienia Wojskowego, ul. Nowowiejska 26A, 00-911 Warszawa, z dopiskiem „Inspektor ochrony danych”.
+9. Składane oświadczenia zawarte we wniosku stanowią dowody w postępowaniu administracyjnym w rozumieniu art. 75 § 1 Kodeksu postępowania administracyjnego .
+Zgodnie z art. 75 § 2 Kodeksu postępowania administracyjnego jeżeli przepis prawa nie wymaga urzędowego potwierdzenia określonych faktów lub stanu prawnego w drodze zaświadczenia właściwego organu administracji, organ administracji publicznej odbiera od strony, na jej wniosek, oświadczenie złożone pod rygorem odpowiedzialności za fałszywe zeznania.
+Na podstawie art. 233 § 1 Kodeksu karnego kto, składając zeznanie mające służyć za dowód w postępowaniu sądowym lub w innym postępowaniu prowadzonym na podstawie ustawy, zeznaje nieprawdę lub zataja prawdę, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+7
+

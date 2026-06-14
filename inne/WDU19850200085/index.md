@@ -8,7 +8,7 @@ pos: 85
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rozpoznawaniu przez sądy spraw z zakresu prawa pracy i ubezpieczeń społecznych
@@ -46,7 +46,31 @@ source: "isap-pdf"
 
 **Art. 3.** W Prawie o ustroju sądów powszechnych wprowadza się następujące zmiany:
 
+- **1)** po art. 5 dodaje się art. 5 w brzmieniu: „Art. 5 . § 1. Minister Sprawiedliwości, w drodze rozporządzenia, tworzy w sądach wojewódzkich odrębne jednostki organizacyjne dla spraw z zakresu prawa pracy i ubezpieczeń społecznych (sądy pracy i ubezpieczeń społecznych), a w sądach rejonowych – odrębne jednostki organizacyjne dla spraw z zakresu prawa pracy (sądy pracy).
+
+§ 2. Minister Sprawiedliwości może, w drodze rozporządzenia, utworzyć w niektórych sądach wojewódzkich odrębne jednostki organizacyjne właściwe dla spraw z zakresu prawa pracy (sądy pracy) lub wyłącznie dla spraw z zakresu ubezpieczeń społecznych (sądy ubezpieczeń społecznych).
+
+§ 3. W tym samym trybie Minister Sprawiedliwości może przekazać jednemu sądowi wojewódzkiemu rozpoznawanie spraw z zakresu prawa pracy lub ubezpieczeń społecznych z właściwości innego sądu wojewódzkiego, a jednemu sądowi rejonowemu – rozpoznawanie spraw z zakresu prawa pracy z właściwości kilku sądów rejonowych położonych na obszarze działania tego samego województwa.
+
+§ 4. Do orzekania w jednostkach, o których mowa w § 1–3, wyznacza się sędziów i ławników szczególnie obeznanych z problematyką spraw pracowniczych, celami ubezpieczenia i potrzebami ubezpieczonych.
+
+§ 5. Minister Sprawiedliwości w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych, w drodze rozporządzenia, określa zasady i tryb wyznaczania sędziów i ławników, o których mowa w § 4.”;
+
+- **2)** po art. 13 dodaje się art. 13 w brzmieniu: „Art. 13 . § 1. Prezes sądu wojewódzkiego zwołuje co najmniej raz w roku konferencję sędziów rozpoznających sprawy z zakresu prawa pracy i ubezpieczeń społecznych w celu omówienia wniosków wypływających z okresowej analizy stanu przestrzegania prawa pracy i ubezpieczeń społecznych w świetle sporów z tego zakresu.
+
+§ 2. Do udziału w konferencji prezes zaprasza przedstawicieli zainteresowanych zakładów pracy, organów i instytucji oraz związków zawodowych.”;
+
+- **3)** w art. 54:
+    - **a)** dotychczasowa treść otrzymuje oznaczenie § 1,
+    - **b)** dodaje się § 2 w brzmieniu: „2. Wiceprezesa sądu wojewódzkiego sprawującego kierownictwo sądu pracy i ubezpieczeń społecznych Minister Sprawiedliwości powołuje i odwołuje po zasięgnięciu opinii Ministra Pracy, Płac i Spraw Socjalnych.”;
+
 **Art. 4.** W Kodeksie pracy wprowadza się następujące zmiany:
+
+- **1)** w art. 39 pkt 3 skreśla się;
+- **2)** w art. 87 w § 5 zdanie drugie skreśla się;
+- **3)** art. 123 skreśla się;
+- **4)** w art. 127 powołanie art. 117 i 121–123 zastępuje się powołaniem art. 117, 121 i 122;
+- **5)** dział dwunasty obejmujący art. 242–280 otrzymuje następujące brzmienie oraz oznaczenie art. 242–265: „DZIAŁ DWUNASTY ROZPATRYWANIE SPORÓW O ROSZCZENIA ZE STOSUNKU PRACY
 
 #### Rozdział I Przepisy ogólne.
 
@@ -82,7 +106,16 @@ source: "isap-pdf"
 
 **Art. 245.** Organ, który powołuje komisję pojednawczą, ustala:
 
+- **1)** zasady i tryb powoływania komisji,
+- **2)** czas trwania kadencji,
+- **3)** liczbę członków komisji.
+
 **Art. 246.** Członkiem komisji pojednawczej nie może być:
+
+- **1)** kierownik zakładu pracy i jego zastępca,
+- **2)** główny księgowy,
+- **3)** radca prawny,
+- **4)** kierownik jednostki organizacyjnej do spraw osobowych, zatrudnienia i płac.
 
 **Art. 247.** Komisja pojednawcza wybiera ze swego grona przewodniczącego komisji oraz jego zastępców i ustala regulamin postępowania pojednawczego.
 
@@ -180,9 +213,48 @@ source: "isap-pdf"
 
 **Art. 5.** W ustawie z dnia 31 stycznia 1959 r. o zaopatrzeniu emerytalnym funkcjonariuszy Milicji Obywatelskiej oraz ich rodzin (Dz. U. z 1983 r. Nr 46, poz.
 
+- **210)** wprowadza się następujące zmiany:
+- **1)** w art. 52:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Od decyzji organu emerytalnego w sprawie zaopatrzenia emerytalnego przysługuje zainteresowanemu odwołanie do właściwego sądu według zasad określonych w przepisach Kodeksu postępowania cywilnego oraz w terminie przewidzianym w art. 477 § 1 tego Kodeksu.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Odwołanie do sądu przysługuje także w wypadku niewydania przez organ emerytalny decyzji w terminie dwóch miesięcy od dnia zgłoszenia wniosku o zaopatrzenie emerytalne bądź powstania obowiązku wszczęcia postępowania z urzędu.”;
+
+- **2)** w art. 54 w ust. 2 skreśla się dwukrotnie użyty wyraz „okręgowego”.
+
 **Art. 6.** W ustawie z dnia 13 kwietnia 1960 r. o zmianach właściwości w dziedzinie ubezpieczeń społecznych, rent, zaopatrzeń i opieki społecznej (Dz. U. Nr 20, poz. 119, z 1972 r. Nr 11, poz. 81 oraz z 1974 r. Nr 39, poz. 231 i Nr 47, poz.
 
+- **280)** wprowadza się następujące zmiany:
+- **1)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Od decyzji oddziału Zakładu:
+- **1)** w sprawach z zakresu ubezpieczeń społecznych i ubezpieczenia rodzinnego,
+- **2)** w sprawach świadczeń z funduszu alimentacyjnego oraz
+- **3)** w sprawach innych świadczeń należących do właściwości Zakładu – przysługuje odwołanie do właściwego sądu według zasad określonych w przepisach Kodeksu postępowania cywilnego oraz w terminie przewidzianym w art. 477 § 1 tego Kodeksu, z uwzględnieniem przepisów niniejszej ustawy.
+
+2. Odwołanie do sądu przysługuje również od decyzji Biura Rent Zagranicznych Zakładu w sprawach świadczeń przyznawanych przez to Biuro oraz w sprawach przeliczenia na walutę polską i wypłaty świadczeń przyznanych przez zagraniczne instytucje, a także przeliczenia na walutę obcą i wypłaty za granicą świadczeń przyznanych przez polskie organy rentowe.
+
+3. Odwołanie do sądu przysługuje także w wypadku niewydania przez organ rentowy decyzji w terminie dwóch miesięcy, licząc od dnia zgłoszenia roszczenia w sprawach wymienionych w ust. 1 i 2
+
+4. Odwołanie do sądu nie przysługuje od decyzji oddziału Zakładu w sprawach, w których decyzja zależy od swobodnego uznania.”;
+
+- **2)** po art. 11 dodaje się nowy art. 11 w brzmieniu: „Art. 11 . 1. Odwołanie wnosi się na piśmie do oddziału Zakładu, który wydał decyzję, lub do protokołu sporządzonego przez ten oddział.
+
+2. Oddział Zakładu przekazuje niezwłocznie sprawę do sądu za pośrednictwem rady nadzorczej oddziału.
+
+3. Oddział Zakładu może jednak, jeżeli uzna odwołanie w całości za słuszne, zmienić decyzję w terminie 14 dni od wniesienia odwołania. W tym wypadku odwołaniu nie nadaje się dalszego biegu.
+
+4. Jeżeli oddział Zakładu nie skorzystał z uprawnienia przewidzianego w ust. 3, rada nadzorcza oddziału w razie uznania odwołania w całości za słuszne zwraca uwagę na stwierdzone uchybienia i poleca oddziałowi Zakładu dokonanie ponownej oceny odwołania.
+
+5. W razie nieuwzględnienia stanowiska rady nadzorczej, oddział Zakładu przekazuje sprawę do sądu wraz ze stanowiskiem rady nadzorczej.
+
+6. Przepisy ust. 1–3 stosuje się odpowiednio do odwołania od decyzji Biura Rent Zagranicznych Zakładu, z tym że Biuro to przekazuje sprawy bezpośrednio do sądu.”;
+
+- **3)** dotychczasowy art. 11 otrzymuje oznaczenie art. 11 oraz brzmienie: „Art. 11 . 1. Rada Ministrów, w drodze rozporządzenia, określa organizację, zasady i tryb działania rad nadzorczych Zakładu i jego oddziałów, tryb postępowania przed radami nadzorczymi oddziałów, a także wynagrodzenie za udział w posiedzeniach oraz związane z tym diety i koszty podróży.
+
+2. Nadzór nad organizacją i trybem działania rad nadzorczych Zakładu i jego oddziałów sprawuje Minister Pracy, Płac i Spraw Socjalnych. W tym trybie Minister Pracy, Płac i Spraw Socjalnych może wydawać wytyczne w zakresie sprawowanego nadzoru.”.
+
 **Art. 7.** W ustawie z dnia 16 grudnia 1972 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych i ich rodzin (Dz. U. z 1983 r. Nr 29, poz. 139 i z 1984 r. Nr 52, poz. 270) w art. 51 wprowadza się następujące zmiany:
+
+- **1)** ust. 3 otrzymuje brzmienie: „3. Od decyzji wojskowego organu emerytalnego w sprawie zaopatrzenia emerytalnego przysługuje zainteresowanemu odwołanie do właściwego sądu według zasad określonych w przepisach Kodeksu postępowania cywilnego oraz w terminie przewidzianym w art. 477 § 1 tego Kodeksu.”;
+- **2)** po ust. 3 dodaje się nowy ust. 4 w brzmieniu: „4. Odwołanie do sądu przysługuje także w wypadku niewydania przez wojskowy organ emerytalny decyzji w terminie dwóch miesięcy od dnia zgłoszenia wniosku o zaopatrzenie emerytalne bądź powstania obowiązku wszczęcia postępowania z urzędu.”;
+- **3)** dotychczasowy ust. 4 otrzymuje oznaczenie ust. 5.
 
 **Art. 8.** W ustawie z dnia 16 grudnia 1972 r. o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową (Dz. U. Nr 53, poz. 342) w art. 12 ust. 3 i 4 otrzymują brzmienie: „3. Od decyzji organu wojskowego przysługuje zainteresowanemu odwołanie do właściwego sądu według zasad określonych w przepisach Kodeksu postępowania cywilnego oraz w terminie przewidzianym w art. 477 § 1 tego Kodeksu. 4. Odwołanie do sądu przysługuje także w wypadku niewydania przez organ wojskowy decyzji w terminie dwóch miesięcy od dnia zgłoszenia wniosku o świadczenia odszkodowawcze bądź powstania obowiązku wszczęcia postępowania z urzędu.”.
 
@@ -242,6 +314,10 @@ source: "isap-pdf"
 **Art. 16.** Ławnicy powołani do komisji pojednawczych, o których mowa w art. 2, zachowują, przez czas pełnienia funkcji członków komisji, prawa przysługujące im w związku z udziałem w orzekaniu w jednostkach organizacyjnych wymienionych w art. 1.
 
 **Art. 17.** Ilekroć w obowiązujących przepisach jest mowa o:
+
+- **1)** komisjach rozjemczych i komisjach odwoławczych do spraw pracy – rozumie się przez to sądy rejonowe,
+- **2)** okręgowych sądach pracy i ubezpieczeń społecznych, okręgowych sądach ubezpieczeń społecznych lub sądach ubezpieczeń społecznych – rozumie się przez to sądy wojewódzkie,
+- **3)** sądach pracy – rozumie się przez to odpowiednio sądy rejonowe lub sądy wojewódzkie.
 
 **Art. 18.** Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie pozostają w mocy przepisy dotychczasowe, jeżeli nie są sprzeczne z przepisami niniejszej ustawy, nie dłużej jednak niż do dnia 30 września 1985 r.
 

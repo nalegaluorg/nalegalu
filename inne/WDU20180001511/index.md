@@ -8,10 +8,10 @@ pos: 1511
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 sierpnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1511 Porozumienie o zabezpieczeniu społecznym między Rządem Rzeczypospolitej Polskiej a Rządem Quebecu, podpisane w Quebecu dnia 3 czerwca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001511) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1511/text.pdf) |
 
-Porozumienie o zabezpieczeniu społecznym między Rządem Rzeczypospolitej Polskiej a Rządem Quebecu, podpisane w Quebecu dnia 3 czerwca 2015 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 3 czerwca 2015 r. w Quebecu zostało podpisane Porozumienie o zabezpieczeniu społecznym między Rządem Rzeczypospolitej Polskiej a Rządem Quebecu, w następującym brzmieniu: Po zaznajomieniu się z powyższym porozumieniem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: zostało ono uznane za słuszne zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęte, ratyfikowane i potwierdzone, będzie niezmiennie zachowywane.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 3 czerwca 2015 r. w Quebecu zostało podpisane Porozumienie o zabezpieczeniu społecznym między Rządem Rzeczypospolitej Polskiej a Rządem Quebecu, w następującym brzmieniu: Po zaznajomieniu się z powyższym porozumieniem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – zostało ono uznane za słuszne zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęte, ratyfikowane i potwierdzone, – będzie niezmiennie zachowywane.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 28 lipca 2016 r.
 Prezydent Rzeczypospolitej Polskiej: A. Duda l.s.

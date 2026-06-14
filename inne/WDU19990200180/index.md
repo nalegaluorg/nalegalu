@@ -8,7 +8,7 @@ pos: 180
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Sygn. K. 1/98 Trybunał Konstytucyjny w składzie: Marek Safjan – przewodniczący Jerzy Ciemniewski Zdzisław Czeszejko-Sochacki Teresa Dębowska-Romanowska – sprawozdawca Stefan J. Jaworski Wiesław Johann Krzysztof Kolasiński Biruta Lewaszkiewicz-Petrykowska Andrzej Mączyński Ferdynand Rymarz Jadwiga Skórzewska-Łosiak Janusz Trzciński Marian Zdyb Joanna Szymczak – protokolant po rozpoznaniu 27 stycznia 1999 r. na rozprawie sprawy z połączonych wniosków Krajowej Rady Sądownictwa i Rzecznika Praw Obywatelskich oraz pytania prawnego Sądu Rejonowego w Częstochowie, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawców, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego oraz w obecności dopuszczonych do udziału przedstawicieli Naczelnej Rady Adwokackiej i Krajowej Rady Radców Prawnych – wniosku Krajowej Rady Sądownictwa o stwierdzenie: niezgodności art. 4 b ust. 1 pkt 2 i ust. 2 ustawy z dnia 26 maja 1982 r.

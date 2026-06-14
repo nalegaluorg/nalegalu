@@ -8,10 +8,10 @@ pos: 402
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 lutego 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 402 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 17 stycznia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,21 +25,21 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000402) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/402/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ZDROWIA z dnia 17 stycznia 2022 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 26 marca 2019 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą (Dz. U. poz. 595), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 3 listopada 2020 r. zmieniającym rozporządzenie w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą (Dz. U. poz. 1943).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 3 listopada 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą (Dz. U. poz. 1943), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 26 marca 2019 r.
 w sprawie szczegółowych wymagań, jakim powinny odpowiadać pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą Na podstawie art. 22 ust. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2021 r. poz. 711, 1773 i 2120) zarządza się, co następuje:
+§ 1. Pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą odpowiadają, odpowiednio do rodzaju wykonywanej działalności leczniczej oraz zakresu udzielanych świadczeń zdrowotnych, wymaganiom określonym w rozdziałach 2–6.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) gabinet diagnostyczno-zabiegowy pomieszczenie służące do wykonywania zabiegów diagnostycznych lub terapeutycznych o charakterze zabiegowym;
-2) izolatka pomieszczenie przeznaczone do odosobnienia pacjenta lub grupy pacjentów, chorych na chorobę zakaźną albo osoby lub grupy osób, podejrzanych o chorobę zakaźną, w celu uniemożliwienia przeniesienia biologicznego czynnika chorobotwórczego na inne osoby;
-3) izba przyjęć zespół pomieszczeń, w którym:
+1) gabinet diagnostyczno-zabiegowy – pomieszczenie służące do wykonywania zabiegów diagnostycznych lub terapeutycznych o charakterze zabiegowym;
+2) izolatka – pomieszczenie przeznaczone do odosobnienia pacjenta lub grupy pacjentów, chorych na chorobę zakaźną albo osoby lub grupy osób, podejrzanych o chorobę zakaźną, w celu uniemożliwienia przeniesienia biologicznego czynnika chorobotwórczego na inne osoby;
+3) izba przyjęć – zespół pomieszczeń, w którym:
 a) przyjmuje się do szpitala,
 b) wykonuje się doraźne zabiegi,
 c) udziela się doraźnej pomocy ambulatoryjnej;
-4) pomieszczenie higieniczno-sanitarne pomieszczenie wyposażone co najmniej w miskę ustępową, umywalkę, dozownik z mydłem w płynie, pojemnik z ręcznikami jednorazowego użycia oraz pojemnik na zużyte ręczniki;
-5) pomieszczenie porządkowe pomieszczenie służące do przechowywania sprzętu stosowanego do utrzymania czystości, środków czystości oraz preparatów myjąco-dezynfekcyjnych, a także do przygotowywania roztworów roboczych oraz mycia i dezynfekcji sprzętu stosowanego do utrzymywania czystości, wyposażone w zlew z baterią i dozownik ze środkiem dezynfekcyjnym.
+4) pomieszczenie higieniczno-sanitarne – pomieszczenie wyposażone co najmniej w miskę ustępową, umywalkę, dozownik z mydłem w płynie, pojemnik z ręcznikami jednorazowego użycia oraz pojemnik na zużyte ręczniki;
+5) pomieszczenie porządkowe – pomieszczenie służące do przechowywania sprzętu stosowanego do utrzymania czystości, środków czystości oraz preparatów myjąco-dezynfekcyjnych, a także do przygotowywania roztworów roboczych oraz mycia i dezynfekcji sprzętu stosowanego do utrzymywania czystości, wyposażone w zlew z baterią i dozownik ze środkiem dezynfekcyjnym.
 § 3. 1. Pomieszczenia i urządzenia szpitala odpowiadają, odpowiednio do zakresu udzielanych świadczeń zdrowotnych, szczegółowym wymaganiom określonym w załączniku nr 1 do rozporządzenia.
 1a. Pomieszczenia i urządzenia szpitala zlokalizowanego w miejscu nieprzeznaczonym dotychczas do udzielania świadczeń zdrowotnych, w którym są udzielane świadczenia zdrowotne pacjentom zakażonym wirusem SARS-CoV-2, odpowiadają, odpowiednio do zakresu udzielanych świadczeń zdrowotnych, szczegółowym wymaganiom określonym w załączniku nr 1 w części I, VI ust. 3 oraz XI.
 1b. Szpital, o którym mowa w ust. 1a:
@@ -63,15 +63,17 @@ c) udziela się doraźnej pomocy ambulatoryjnej;
 2. Pomieszczenia i urządzenia zakładów lecznictwa uzdrowiskowego, o których mowa w art. 6 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2021 r. poz. 1301), spełniają wymagania określone w przepisach wydanych na podstawie art. 5 ust. 3 i art. 19 ust. 2 tej ustawy.
 3. Lokale podmiotów wykonujących czynności z zakresu zaopatrzenia w środki pomocnicze i wyroby medyczne będące przedmiotami ortopedycznymi spełniają wymagania określone w przepisach wydanych na podstawie art. 159 ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U.
 z 2021 r. poz. 1285, z późn. zm. ).
+§ 14. 1. Pomieszczenia podmiotu wykonującego działalność leczniczą lokalizuje się w samodzielnym budynku albo w zespole budynków.
 2. Dopuszcza się lokalizowanie pomieszczeń podmiotu wykonującego działalność leczniczą w budynku o innym przeznaczeniu, pod warunkiem całkowitego wyodrębnienia:
-1) pomieszczeń szpitala lub innego niż szpital zakładu leczniczego, w którym są udzielane stacjonarne i całodobowe świadczenia zdrowotne inne niż szpitalne od pomieszczeń budynku wykorzystywanych do innych celów;
-2) ambulatorium, szpitala jednodniowego lub miejsca stacjonowania zespołów ratownictwa medycznego od innych pomieszczeń budynku wykorzystywanych do innych celów, z wyłączeniem węzłów komunikacji pionowej i poziomej w tym budynku, wspólnych dla wszystkich użytkowników, niebędących komunikacją wewnętrzną tego zakładu leczniczego.
+1) pomieszczeń szpitala lub innego niż szpital zakładu leczniczego, w którym są udzielane stacjonarne i całodobowe świadczenia zdrowotne inne niż szpitalne – od pomieszczeń budynku wykorzystywanych do innych celów;
+2) ambulatorium, szpitala jednodniowego lub miejsca stacjonowania zespołów ratownictwa medycznego – od innych pomieszczeń budynku wykorzystywanych do innych celów, z wyłączeniem węzłów komunikacji pionowej i poziomej w tym budynku, wspólnych dla wszystkich użytkowników, niebędących komunikacją wewnętrzną tego zakładu leczniczego.
 3. Dopuszcza się lokalizowanie pomieszczeń, w których jest wykonywana praktyka zawodowa w lokalu mieszkalnym, pod warunkiem zapewnienia wyodrębnienia tego pomieszczenia od pomieszczeń innych użytkowników lokalu.
 4. Pokoje chorych nie powinny znajdować się poniżej poziomu terenu urządzonego przy budynku.
 5. Dopuszcza się lokalizowanie poniżej poziomu terenu urządzonego przy budynku pomieszczeń o charakterze diagnostycznym, terapeutycznym, magazynowym i o funkcjach pomocniczych, przeznaczonych na pobyt ludzi, pod warunkiem uzyskania zgody właściwego państwowego wojewódzkiego inspektora sanitarnego.
 § 15. Zespoły pomieszczeń stanowiących oddziały łóżkowe szpitala, z wyjątkiem pomieszczeń administracyjnych i socjalnych, nie mogą być przechodnie.
 § 16. Kształt i powierzchnia pomieszczeń podmiotu wykonującego działalność leczniczą umożliwiają prawidłowe rozmieszczenie, zainstalowanie i użytkowanie urządzeń, aparatury i sprzętu, stanowiących jego niezbędne funkcjonalne wyposażenie.
 § 17. W budynkach szpitala nie mogą być stosowane zsypy.
+§ 18. 1. Łóżka w pokojach łóżkowych są dostępne z trzech stron, w tym z dwóch dłuższych.
 2. Łóżka w pokojach łóżkowych w oddziałach psychiatrycznych oraz w ośrodkach leczenia uzależnień są dostępne co najmniej z dwóch stron, jednej dłuższej i jednej krótszej.
 § 19. Odstępy między łóżkami umożliwiają swobodny dostęp do pacjentów.
 § 20. Szerokość pokoju łóżkowego umożliwia wyprowadzenie łóżka.
@@ -80,8 +82,8 @@ z 2021 r. poz. 1285, z późn. zm. ).
 2) pomieszczenia higieniczno-sanitarnego, dostępnego z pomieszczenia pobytu pacjenta, wyposażonego w:
 a) umywalkę z baterią uruchamianą bez kontaktu z dłonią i dodatkowo w dozownik ze środkiem dezynfekcyjnym uruchamiany bez kontaktu z dłonią, pojemnik z ręcznikami jednorazowego użycia i pojemnik na zużyte ręczniki,
 b) natrysk, z wyłączeniem izolatki w oddziale anestezjologii i intensywnej terapii,
-c) płuczkę-dezynfektor basenów i kaczek w przypadku stosowania basenów i kaczek wielorazowego użytku,
-d) urządzenie do dekontaminacji oraz do utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów w przypadku stosowania basenów i kaczek jednorazowych;
+c) płuczkę-dezynfektor basenów i kaczek – w przypadku stosowania basenów i kaczek wielorazowego użytku,
+d) urządzenie do dekontaminacji oraz do utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów – w przypadku stosowania basenów i kaczek jednorazowych;
 3) śluzy umywalkowo-fartuchowej pomiędzy pomieszczeniem pobytu pacjenta a ogólną drogą komunikacyjną.
 2. Przepisu ust. 1 pkt 2 lit. d nie stosuje się w przypadku przeprowadzania dekontaminacji w urządzeniu znajdującym się w innym pomieszczeniu zlokalizowanym na terenie oddziału, pod warunkiem transportu w szczelnych pojemnikach.
 3. Izolatka powinna być wyposażona w wentylację wymuszoną działającą na zasadzie podciśnienia w taki sposób, że ciśnienie w izolatce jest niższe niż na korytarzu i w śluzie.
@@ -93,8 +95,8 @@ d) urządzenie do dekontaminacji oraz do utylizacji wkładów jednorazowych wraz
 5) zamykany pojemnik na brudną bieliznę;
 6) miejsca na ubrania z zachowaniem rozdziału ubrań czystych i brudnych.
 § 23. Śluza szatniowa składa się z:
-1) szatni brudnej przeznaczonej do rozebrania się z ubrania prywatnego lub szpitalnego, wyposażonej w szafkę ubraniową z wydzieloną częścią na obuwie;
-2) szatni czystej (ubieralni) przeznaczonej do ubierania w czyste ubranie oraz obuwie służące do poruszania się w strefie, do której będzie wchodził personel, wyposażonej w:
+1) szatni brudnej – przeznaczonej do rozebrania się z ubrania prywatnego lub szpitalnego, wyposażonej w szafkę ubraniową z wydzieloną częścią na obuwie;
+2) szatni czystej (ubieralni) – przeznaczonej do ubierania w czyste ubranie oraz obuwie służące do poruszania się w strefie, do której będzie wchodził personel, wyposażonej w:
 a) obuwie nadające się do mycia i dezynfekcji,
 b) regał na czyste obuwie,
 c) regał na czyste ubrania;
@@ -115,14 +117,17 @@ c) regał na czyste ubrania;
 2. Przepisu ust. 1 nie stosuje się do mebli w pomieszczeniach administracyjnych i socjalnych, do mebli w poradniach i gabinetach podmiotów wykonujących świadczenia z zakresu opieka psychiatryczna i leczenie uzależnień oraz w pomieszczeniach, o których mowa w § 14 ust. 3.
 § 28. W szpitalu i innym niż szpital zakładzie leczniczym, w którym są udzielane stacjonarne i całodobowe świadczenia zdrowotne inne niż szpitalne, zapewnia się co najmniej jedno pomieszczenie porządkowe umożliwiające dodatkowo mycie i dezynfekcję środków transportu.
 § 29. W pokojach łóżkowych dopuszcza się instalację urządzeń umożliwiających obserwację pacjentów, jeżeli jest to konieczne w procesie ich leczenia i dla zapewnienia im bezpieczeństwa.
+§ 30. 1. Podłogi wykonuje się z materiałów umożliwiających ich mycie i dezynfekcję.
 2. Połączenie ścian z podłogami jest wykonane w sposób umożliwiający jego mycie i dezynfekcję.
 3. Przepisów ust. 1 i 2 nie stosuje się do pomieszczeń administracyjnych i socjalnych, poradni i gabinetów podmiotów wykonujących świadczenia z zakresu opieka psychiatryczna i leczenie uzależnień oraz sal kinezyterapii.
 § 31. Pomieszczenia i urządzenia wymagające utrzymania aseptyki i wyposażenie tych pomieszczeń powinny umożliwiać ich mycie i dezynfekcję.
 § 32. W przypadku konieczności zastosowania sufitów podwieszonych w pomieszczeniach o podwyższonych wymaganiach higienicznych, w szczególności w salach operacyjnych i porodowych, pokojach łóżkowych przystosowanych do odbioru porodu, pokojach łóżkowych na oddziałach anestezjologii i intensywnej terapii, salach pooperacyjnych, salach oparzeniowych oraz w pomieszczeniach przeznaczonych do pobierania i przerobu krwi w centrum, sufity te są wykonane w sposób zapewniający szczelność powierzchni oraz umożliwiający ich mycie i dezynfekcję.
 § 33. Szerokość drzwi w pomieszczeniach, przez które odbywa się ruch pacjentów na łóżkach, umożliwia ten ruch.
+§ 34. W pokojach łóżkowych zapewnia się bezpośredni dostęp światła dziennego.
 § 35. W przypadku nadmiernego naświetlenia pokoi łóżkowych instaluje się w nich urządzenia przeciwsłoneczne.
 § 36. 1. W salach operacyjnych i pomieszczeniach diagnostyki obrazowej stosuje się wyłącznie oświetlenie elektryczne.
 2. W przypadku gdy nie stanowi to utrudnienia przy wykonywaniu zabiegów operacyjnych i diagnostycznych, dopuszcza się zastosowanie w pomieszczeniach, o których mowa w ust. 1, oświetlenia dziennego.
+§ 37. 1. Pomieszczenia, w których są wykonywane badania lub zabiegi, z wyjątkiem pomieszczeń, w których odbywa się badanie za pomocą rezonansu magnetycznego, wyposaża się w:
 1) co najmniej jedną umywalkę z baterią z ciepłą i zimną wodą;
 2) dozownik z mydłem w płynie;
 3) dozownik ze środkiem dezynfekcyjnym;
@@ -135,6 +140,7 @@ c) regał na czyste ubrania;
 2. Dokonanie czynności, o których mowa w ust. 1, wymaga udokumentowania.
 § 41. Rezerwowe źródło zaopatrzenia szpitala w wodę zapewnia co najmniej jej 12-godzinny zapas.
 § 42. Rezerwowym źródłem zaopatrzenia szpitala w energię elektryczną jest agregat prądotwórczy wyposażony w funkcję autostartu, zapewniający co najmniej 30% potrzeb mocy szczytowej, a także urządzenie zapewniające odpowiedni poziom bezprzerwowego podtrzymania zasilania.
+§ 43. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r.
 SZCZEGÓŁOWE WYMAGANIA, JAKIM POWINNY ODPOWIADAĆ POMIESZCZENIA I URZĄDZENIA SZPITALA I. Izba przyjęć
 1. Izba przyjęć posiada bezpośrednie zadaszone wejście z dojazdem umożliwiającym podjazd co najmniej dla jednego pojazdu.
 2. W skład izby przyjęć wchodzą:
@@ -149,7 +155,7 @@ II. Zespół pomieszczeń pielęgnacyjnych w oddziale W skład zespołu pomieszc
 2) punkt pielęgniarski z pokojem przygotowawczym pielęgniarskim;
 3) gabinet diagnostyczno-zabiegowy;
 4) pomieszczenia higieniczno-sanitarne wyposażone dodatkowo w natrysk, w tym co najmniej jedno przystosowane dla osób niepełnosprawnych, w szczególności poruszających się na wózkach inwalidzkich;
-5) brudownik pomieszczenie służące do opróżniania, dezynfekowania i przechowywania kaczek i basenów lub niszczenia tego rodzaju pojemników jednorazowego użytku oraz składowania brudnej bielizny, wyposażone w umywalkę, płuczkę-dezynfektor lub urządzenie do dekontaminacji oraz utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów w przypadku stosowania basenów i kaczek jednorazowych, oraz w wentylację mechaniczną wyciągową.
+5) brudownik – pomieszczenie służące do opróżniania, dezynfekowania i przechowywania kaczek i basenów lub niszczenia tego rodzaju pojemników jednorazowego użytku oraz składowania brudnej bielizny, wyposażone w umywalkę, płuczkę-dezynfektor lub urządzenie do dekontaminacji oraz utylizacji wkładów jednorazowych wraz z zawartością, które powinno być zainstalowane w sposób eliminujący zagrożenia dla pacjentów – w przypadku stosowania basenów i kaczek jednorazowych, oraz w wentylację mechaniczną wyciągową.
 III. Oddział położnictwa i neonatologii
 1. W oddziale położnictwa i neonatologii pokoje łóżkowe urządza się co najmniej w jednym z systemów:
 1) „matka z dzieckiem”, w którym pokoje są przeznaczone dla maksymalnie dwóch matek i dwóch noworodków z możliwością wstawienia trzeciego łóżeczka dla noworodka, i są wyposażone w zespół urządzeń umożliwiających mycie i pielęgnację noworodka;
@@ -169,8 +175,8 @@ IV. Zespół porodowy
 4. W zespole powinno znajdować się co najmniej jedno pomieszczenie przeznaczone dla położnic i noworodka w pierwszych godzinach życia, po porodach powikłanych, w którym zapewnia się możliwość obserwacji bezpośredniej lub przy użyciu kamer wyposażonych w funkcje autostartu, w szczególności możliwość obserwacji twarzy.
 V. Oddział dziecięcy
 1. W ramach oddziału dziecięcego w szpitalu ogólnym wydziela się pododdział albo odcinek dla dzieci:
-1) młodszych do 3 lat;
-2) starszych powyżej 3 lat.
+1) młodszych – do 3 lat;
+2) starszych – powyżej 3 lat.
 2. W oddziale dziecięcym znajduje się co najmniej jedna izolatka.
 3. W odcinku dzieci młodszych łóżka znajdują się w zespołach wyposażonych w śluzę umywalkowo-fartuchową i punkt pielęgniarski.
 4. Punkt pielęgniarski lub sale niemowlęce wyposaża się w zestaw urządzeń umożliwiających mycie i pielęgnację niemowląt.
@@ -393,19 +399,19 @@ SZCZEGÓŁOWE WYMAGANIA, JAKIM POWINNY ODPOWIADAĆ POMIESZCZENIA I URZĄDZENIA S
 2. Pomieszczenie, w którym są wykonywane dializy otrzewnowe, nie może służyć innym celom.
 3. Stanowisko nadzoru pielęgniarskiego zapewnia możliwość bezpośredniej obserwacji pacjentów lub przy użyciu kamer posiadających rezerwowe zasilanie z funkcją autostartu, w szczególności możliwość obserwacji twarzy.
 
-#### Rozdział 1 Przepisy ogólne § 1. Pomieszczenia i urządzenia podmiotu wykonującego działalność leczniczą odpowiadają, odpowiednio do rodzaju wykonywanej działalności leczniczej oraz zakresu udzielanych świadczeń zdrowotnych, wymaganiom określonym w rozdziałach 2–6.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Wymagania ogólnoprzestrzenne § 14. 1. Pomieszczenia podmiotu wykonującego działalność leczniczą lokalizuje się w samodzielnym budynku albo w zespole budynków.
+#### Rozdział 2 Wymagania ogólnoprzestrzenne
 
-#### Rozdział 3 Wymagania dla niektórych pomieszczeń i urządzeń § 18. 1. Łóżka w pokojach łóżkowych są dostępne z trzech stron, w tym z dwóch dłuższych.
+#### Rozdział 3 Wymagania dla niektórych pomieszczeń i urządzeń
 
-#### Rozdział 4 Wymagania ogólnobudowlane § 30. 1. Podłogi wykonuje się z materiałów umożliwiających ich mycie i dezynfekcję.
+#### Rozdział 4 Wymagania ogólnobudowlane
 
-#### Rozdział 5 Oświetlenie § 34. W pokojach łóżkowych zapewnia się bezpośredni dostęp światła dziennego.
+#### Rozdział 5 Oświetlenie
 
-#### Rozdział 6 Wymagania dotyczące instalacji § 37. 1. Pomieszczenia, w których są wykonywane badania lub zabiegi, z wyjątkiem pomieszczeń, w których odbywa się badanie za pomocą rezonansu magnetycznego, wyposaża się w:
+#### Rozdział 6 Wymagania dotyczące instalacji
 
-#### Rozdział 7 Przepis końcowy § 43. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r.
+#### Rozdział 7 Przepis końcowy
 
 ##### Oddział chorób płuc i gruźlicy składa się z:
 

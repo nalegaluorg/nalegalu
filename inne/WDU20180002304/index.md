@@ -8,10 +8,10 @@ pos: 2304
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# MINISTRA ZDROWIA” 6 grudnia 2018 sprawie przekazywania izbom lekarskim finansowych pokrycie kosztów czynności wykonywanych przez izby lekarskie Na art. 115 ustawy 2 grudnia 2009 izbach lekarskich 2018 168 1669) zarządza się, co następuje: $ 1. Rozporządzenie określa sposób ustalania kosztów tryb przekazywania Naczelnej Izbie Lekarskiej oraz okręgowym izbom lekarskim finansowych pokrycie kosztów czynności administracyjnych związanych realizacją zadań, których art. 5 pkt 3—6, 11 Ila ustawy 2 grudnia 2009 izbach lekarskich, zwanej dalej „ustawą”, oraz czynności, których wykonywanie odrębnych przepisów zostało przekazane izbom lekarskim, zwanych dalej „„zadaniami”.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2304 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 6 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,33 +25,40 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2304/text.pdf) |
 
-$ 2. Wysokość kosztów ustala się następujących kryteriów:
-1) liczba wydanych dokumentów: „Prawo wykonywania zawodu lekarza” „Prawo wykonywania zawodu lekarza dentysty”;
-2) wartość jednego zadania związanego wydaniem dokumentu „Prawo wykonywania zawodu lekarza” „Prawo wykonywania zawodu lekarza dentysty”;
+w sprawie przekazywania izbom lekarskim środków finansowych na pokrycie kosztów czynności wykonywanych przez izby lekarskie Na podstawie art. 115 ust. 3 ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2018 r. poz. 168 i 1669) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób ustalania kosztów i tryb przekazywania Naczelnej Izbie Lekarskiej oraz okręgowym izbom lekarskim środków finansowych na pokrycie kosztów czynności administracyjnych związanych z realizacją zadań, o których mowa w art. 5 pkt 3–6, 11 i 11a ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich, zwanej dalej „ustawą”, oraz czynności, których wykonywanie na podstawie odrębnych przepisów zostało przekazane izbom lekarskim, zwanych dalej „zadaniami”.
+§ 2. Wysokość kosztów ustala się na podstawie następujących kryteriów:
+1) liczba wydanych dokumentów: „Prawo wykonywania zawodu lekarza” i „Prawo wykonywania zawodu lekarza dentysty”;
+2) wartość jednego zadania związanego z wydaniem dokumentu „Prawo wykonywania zawodu lekarza” i „Prawo wykonywania zawodu lekarza dentysty”;
 3) liczba zakończonych postępowań prowadzonych przez rzecznika odpowiedzialności zawodowej;
-4) wartość jednego zadania związanego zakończonym postępowaniem sprawach odpowiedzialności zawodowej;
+4) wartość jednego zadania związanego z zakończonym postępowaniem w sprawach odpowiedzialności zawodowej;
 5) liczba zakończonych postępowań przed sądem lekarskim;
-6) wartość jednego zadania związanego zakończonym postępowaniem sprawach odpowiedzialności zawodowej przed sądem lekarskim;
-7) liczba zakończonych postępowań przedmiocie niezdolności do wykonywania zawodu lekarza lub przedmiocie niedostatecznego przygotowania do wykonywania zawodu;
-8) wartość jednego zadania związanego zakończonym postępowaniem przedmiocie niezdolności do wykonywania zawodu lekarza lub przedmiocie niedostatecznego przygotowania do wykonywania zawodu;
-9) liczba lekarzy wprowadzonych do rejestrów, których art. 5 pkt 11 ustawy;
-10) wartość jednego zadania związanego wpisem lekarza do rejestrów, których art. 5 pkt 11 ustawy;
-11) liczba metrów bieżących dokumentacji medycznej przejętej danym roku przypadku, którym art. 30a pkt ustawy 6 listopada 2008 prawach pacjenta Rzeczniku Praw Pacjenta 2017r. 1318 1524 oraz 2018 1115, 151512219);
-cjenta Rzeczniku Praw Pacjenta.
-$3. 1. Wartość każdego zadania jest ustalana corocznie drodze negocjacji ministra właściwego do spraw zdrowia okręgowymi izbami lekarskimi Naczelną Izbą Lekarską, po przedłożeniu Sejmowi uchwalonego przez Radę Ministrów projektu ustawy budżetowej rok następny.
-2. Wysokość finansowych pokrycie kosztów zadań, których $ 2 pkt 1-10, ustala się według następującego wzoru: F=ax Wyąg t b X Wyęg FCX Wyęa F aaaa221112 + zx Wjęd.
-gdzie poszczególne symbole oznaczają: F — wysokość finansowych, a.......z — liczba wykonanych zadań, Wed — Wartość zadania.
-3. Wysokość finansowych pokrycie kosztów zadań, których $ 2 pkt 11-14, ustala się według następującego wzoru: gdzie poszczególne symbole oznaczają: F — wysokość finansowych, A — szacunkowa liczba metrów bieżących dokumentacji medycznej, Wed — Wartość zadania.
-4. Wysokość finansowych, których 2 1 3, danym roku nie może przekraczać kwoty zaplanowanej ten cel budżecie państwa części, której dysponentem jest minister właściwy do spraw zdrowia.
-$ 4. 1. Podstawę przekazania finansowych, których $ 2 1 3, stanowi umowa, opracowana prognoz wykonania zadań, zawarta danym roku pomiędzy ministrem właściwym do spraw zdrowia a Naczelną Izbą Lekarską albo okręgową izbą lekarską.
-2. Umowa, której 1, określa szczególności:
-l) szczegółowy opis zadania, tym cel, jaki środki finansowe zostały przyznane, termin jego wykonania;
+6) wartość jednego zadania związanego z zakończonym postępowaniem w sprawach odpowiedzialności zawodowej przed sądem lekarskim;
+7) liczba zakończonych postępowań w przedmiocie niezdolności do wykonywania zawodu lekarza lub w przedmiocie niedostatecznego przygotowania do wykonywania zawodu;
+8) wartość jednego zadania związanego z zakończonym postępowaniem w przedmiocie niezdolności do wykonywania zawodu lekarza lub w przedmiocie niedostatecznego przygotowania do wykonywania zawodu;
+9) liczba lekarzy wprowadzonych do rejestrów, o których mowa w art. 5 pkt 11 ustawy;
+10) wartość jednego zadania związanego z wpisem lekarza do rejestrów, o których mowa w art. 5 pkt 11 ustawy;
+11) liczba metrów bieżących dokumentacji medycznej przejętej w danym roku w przypadku, o którym mowa w art. 30a ust. 3 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2017 r. poz. 1318 i 1524 oraz z 2018 r. poz. 1115, 1515 i 2219);
+12) wartość jednego zadania związanego z przejęciem jednego metra bieżącego dokumentacji medycznej w przypadku, o którym mowa w art. 30a ust. 3 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+13) liczba metrów bieżących dokumentacji medycznej przechowywanej w poszczególnych miesiącach danego roku w przypadku, o którym mowa w art. 30a ust. 3 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+14) wartość jednego zadania związanego z przechowywaniem jednego metra bieżącego dokumentacji medycznej przez jeden miesiąc w przypadku, o którym mowa w art. 30a ust. 3 pkt 3 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
+§ 3. 1. Wartość każdego zadania jest ustalana corocznie w drodze negocjacji ministra właściwego do spraw zdrowia z okręgowymi izbami lekarskimi i z Naczelną Izbą Lekarską, po przedłożeniu Sejmowi uchwalonego przez Radę Ministrów projektu ustawy budżetowej na rok następny.
+2. Wysokość środków finansowych na pokrycie kosztów zadań, o których mowa w § 2 pkt 1–10, ustala się według następującego wzoru: F = a x W + b x W + c x W + .......... + z x W gdzie poszczególne symbole oznaczają: F – wysokość środków finansowych, a.......z – liczba wykonanych zadań, W – wartość zadania.
+3. Wysokość środków finansowych na pokrycie kosztów zadań, o których mowa w § 2 pkt 11–14, ustala się według następującego wzoru: F = A x W gdzie poszczególne symbole oznaczają: F – wysokość środków finansowych, A – szacunkowa liczba metrów bieżących dokumentacji medycznej, W – wartość zadania.
+4. Wysokość środków finansowych, o których mowa w ust. 2 i 3, w danym roku nie może przekraczać kwoty zaplanowanej na ten cel w budżecie państwa w części, której dysponentem jest minister właściwy do spraw zdrowia.
+§ 4. 1. Podstawę przekazania środków finansowych, o których mowa w § 3 ust. 2 i 3, stanowi umowa, opracowana na podstawie prognoz wykonania zadań, zawarta w danym roku pomiędzy ministrem właściwym do spraw zdrowia a Naczelną Izbą Lekarską albo okręgową izbą lekarską.
+2. Umowa, o której mowa w ust. 1, określa w szczególności:
+1) szczegółowy opis zadania, w tym cel, na jaki środki finansowe zostały przyznane, i termin jego wykonania;
 2) wysokość przyznanych środków;
-3) - termin wykorzystania, nie dłuższy niż do 31 grudnia danego roku;
-4) termin sposób rozliczenia udzielonych finansowych;
-5) - termin zwrotu niewykorzystanej części finansowych, nie dłuższy niż 15 dni od określonego umowie wykonania zadania;
+3) termin wykorzystania, nie dłuższy niż do dnia 31 grudnia danego roku;
+4) termin i sposób rozliczenia udzielonych środków finansowych;
+5) termin zwrotu niewykorzystanej części środków finansowych, nie dłuższy niż 15 dni od określonego w umowie dnia wykonania zadania;
 6) tryb kontroli wykonania zadania.
-3. Przekazanie finansowych pokrycie kosztów zadań, których $ I, następuje dwa razy roku, terminie 14 dni od zatwierdzenia przez ministra właściwego do spraw zdrowia złożonych przez Naczelną Izbę Lekarską oraz okręgowe izby lekarskie półrocznych sprawozdań wykonywanych zadań ze wskazaniem ich liczby.
-4. Sprawozdanie, którym 3, za drugie półrocze obejmuje faktyczną realizację zadań okresie od Ilipca do 30 listopada danego roku oraz przewidywane wykonanie zadań za okres od l grudnia do $ 6. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.” Minister Zdrowia: Ł. Szumowski
-9. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia 18 maja 2010 sprawie przekazywania
+3. Przekazanie środków finansowych na pokrycie kosztów zadań, o których mowa w § 1, następuje dwa razy w roku, w terminie 14 dni od dnia zatwierdzenia przez ministra właściwego do spraw zdrowia złożonych przez Naczelną Izbę Lekarską oraz okręgowe izby lekarskie półrocznych sprawozdań z wykonywanych zadań ze wskazaniem ich liczby.
+4. Sprawozdanie, o którym mowa w ust. 3, za drugie półrocze obejmuje faktyczną realizację zadań w okresie od dnia 1 lipca do dnia 30 listopada danego roku oraz przewidywane wykonanie zadań za okres od dnia 1 grudnia do dnia 31 grudnia danego roku.
+5. Naczelna Izba Lekarska oraz okręgowe izby lekarskie, w terminie 30 dni od dnia zakończenia realizacji zadań, o których mowa w § 3 ust. 2 i 3, w danym roku, składają sprawozdania finansowe z wykonania tych zadań.
+§ 5. 1. W pierwszej umowie, o której mowa w § 4 ust. 1, uwzględnia się koszty wykonania zadań w okresie od dnia 1 stycznia 2018 r.
+2. Pierwsze sprawozdanie z wykonywania zadań obejmuje faktyczną realizację zadań w okresie od dnia 1 stycznia 2018 r. do dnia sporządzenia sprawozdania oraz przewidywane wykonanie zadań od dnia sporządzenia sprawozdania do dnia 31 grudnia 2018 r.
+§ 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Zdrowia: Ł. Szumowski
 

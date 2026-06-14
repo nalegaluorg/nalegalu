@@ -8,10 +8,10 @@ pos: 1821
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 października 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1821 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 14 października 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001821) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1821/text.pdf) |
 
-Poz. 1821 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 14 października 2020 r.
-w sprawie wzoru wniosku o przekazanie środków finansowych na częściowe pokrycie straty wynikającej z obowiązywania zakazów w ruchu lotniczym Na podstawie art. 15zzzzba ust. 14 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa wzór wniosku o przekazanie środków finansowych na częściowe pokrycie straty wynikającej z obowiązywania zakazów w ruchu lotniczym określonych w przepisach wydanych na podstawie art. 119 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r. poz. 284 i 1378) w okresie od dnia 15 marca 2020 r. do dnia 30 czerwca 2020 r.
+w sprawie wzoru wniosku o przekazanie środków finansowych na częściowe pokrycie straty wynikającej z obowiązywania zakazów w ruchu lotniczym Na podstawie art. 15zzzzba ust. 14 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wzór wniosku o przekazanie środków finansowych na częściowe pokrycie straty wynikającej z obowiązywania zakazów w ruchu lotniczym określonych w przepisach wydanych na podstawie art. 119 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r. poz. 284 i 1378) w okresie od dnia 15 marca 2020 r. do dnia 30 czerwca 2020 r.
 § 2. Wzór wniosku, o którym mowa w § 1, jest określony w załączniku do rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Infrastruktury: A. Adamczyk Załącznik do rozporządzenia MinistraInfrastruktury z dnia 14 października 2020 r. (poz.

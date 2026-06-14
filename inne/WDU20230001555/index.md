@@ -8,10 +8,10 @@ pos: 1555
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1555 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 26 lipca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001555) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1555/text.pdf) |
 
-Poz. 1555 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 26 lipca 2023 r.
-w sprawie finansowego wyodrębniania kas mieszkaniowych oraz rozliczeń w przypadku przejęcia prowadzenia kasy mieszkaniowej Na podstawie art. 3 ust. 4 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2023 r. poz. 790, 1114 i 1463) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy sposób:
+w sprawie finansowego wyodrębniania kas mieszkaniowych oraz rozliczeń w przypadku przejęcia prowadzenia kasy mieszkaniowej Na podstawie art. 3 ust. 4 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2023 r. poz. 790, 1114 i 1463) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy sposób:
 1) finansowego wyodrębnienia kas mieszkaniowych;
 2) rozliczeń między bankiem, który zaprzestał prowadzenia kasy mieszkaniowej, a bankiem przejmującym tę działalność.
 § 2. Finansowe wyodrębnienie kasy mieszkaniowej w banku następuje przez:
@@ -41,7 +41,7 @@ b) sposobów i miejsc lokowania nadwyżek środków finansowych kasy mieszkaniow
 1) dokumentację zdawczo-odbiorczą, obejmującą:
 a) bilans kasy na dzień przekazania,
 b) rachunek zysków i strat za okres od początku roku kalendarzowego albo od początku roku obrotowego, w przypadku banku, który rozpoczął prowadzenie kasy mieszkaniowej w danym roku kalendarzowym, do dnia przekazania,
-c) dokumentację i ewidencję księgową oraz pozaksięgową, dotyczącą: − imiennych rachunków oszczędnościowo-kredytowych, − umów o kredyty kontraktowe, − umów o kredyty na cele mieszkaniowe, Dziennik Ustaw – 2 – Poz. 1555 − zabezpieczeń spłaty kredytów wykorzystanych, − należności klientów lub kasy z tytułu odsetek, prowizji i opłat manipulacyjnych, − wykazów należności kasy od kredytobiorców z tytułu wykorzystanego kredytu na cele mieszkaniowe z terminami dalszych jego spłat, − innych aktywów i pasywów kasy mieszkaniowej z podaniem ich tytułów;
+c) dokumentację i ewidencję księgową oraz pozaksięgową, dotyczącą: − imiennych rachunków oszczędnościowo-kredytowych, − umów o kredyty kontraktowe, − umów o kredyty na cele mieszkaniowe, − zabezpieczeń spłaty kredytów wykorzystanych, − należności klientów lub kasy z tytułu odsetek, prowizji i opłat manipulacyjnych, − wykazów należności kasy od kredytobiorców z tytułu wykorzystanego kredytu na cele mieszkaniowe z terminami dalszych jego spłat, − innych aktywów i pasywów kasy mieszkaniowej z podaniem ich tytułów;
 2) w uzgodnionym terminie, środki finansowe kasy mieszkaniowej znajdujące się na rachunku w banku, który zaprzestaje prowadzenia kasy mieszkaniowej.
 § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Finansów: M. Rzeczkowska

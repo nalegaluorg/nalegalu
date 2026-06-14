@@ -8,10 +8,10 @@ pos: 2179
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2179 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 19 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2179/text.pdf) |
 
-Poz. 2179 ROZPORZ Ą DZENIE MINISTRA ZDROWIA z dnia 19 grudnia 2016 r.
-w sprawie sposobu pobierania materiału genetycznego oraz warunków i sposobów jego przechowywania Na podstawie art. 53g ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie sposobu pobierania materiału genetycznego oraz warunków i sposobów jego przechowywania Na podstawie art. 53g ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób pobierania materiału genetycznego od osób, których krewni stracili życie wskutek walki z narzuconym systemem totalitarnym lub wskutek represji totalitarnych lub czystek etnicznych w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r. i miejsce ich pochowania nie jest znane, zwanych dalej „dawcami”;
 2) warunki i sposób przechowywania materiału genetycznego pobranego od dawców oraz warunki i sposób przechowywania materiału genetycznego pobranego z ekshumowanych zwłok, szczątków lub prochów ludzkich, ofiar walki z narzuconym systemem totalitarnym, represji totalitarnych lub czystek etnicznych w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.
 § 2. 1. Materiał genetyczny od dawców pobiera się w postaci wymazu ze śluzówki policzków przy użyciu jednorazowych sterylnych zestawów.
@@ -40,7 +40,7 @@ w sprawie sposobu pobierania materiału genetycznego oraz warunków i sposobów 
 6) stopień pokrewieństwa dawcy z ofiarą, o której mowa w § 1 pkt 2;
 7) zgodę dawcy na przechowanie materiału genetycznego i wykorzystanie go do badań identyfikacyjnych;
 8) podpis osoby sporządzającej protokół.
-Dziennik Ustaw – 2 – Poz. 2179 § 3. Materiał genetyczny przechowuje się zgodnie ze standardami przechowywania materiału do badania laboratoryjnego, o których mowa w części I w ust. 5 załącznika nr 4 do rozporządzenia Ministra Zdrowia z dnia 23 marca 2006 r.
+§ 3. Materiał genetyczny przechowuje się zgodnie ze standardami przechowywania materiału do badania laboratoryjnego, o których mowa w części I w ust. 5 załącznika nr 4 do rozporządzenia Ministra Zdrowia z dnia 23 marca 2006 r.
 w sprawie standardów jakości dla medycznych laboratoriów diagnostycznych i mikrobiologicznych (Dz. U. z 2016 r.
 poz. 1665).
 § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

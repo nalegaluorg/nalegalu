@@ -8,10 +8,10 @@ pos: 751
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 kwietnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 751 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 28 marca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000751) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/751/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 28 marca 2018 r.
-w sprawie niejawnego nadzorowania wytwarzania, przemieszczania i przechowywania przedmiotów przestępstwa oraz obrotu nimi przez Żandarmerię Wojskową Na podstawie art. 33 ust. 7 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430 i 650) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie niejawnego nadzorowania wytwarzania, przemieszczania i przechowywania przedmiotów przestępstwa oraz obrotu nimi przez Żandarmerię Wojskową Na podstawie art. 33 ust. 7 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430 i 650) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób przeprowadzania niejawnego nadzorowania wytwarzania, przemieszczania i przechowywania przedmiotów przestępstwa oraz obrotu nimi, zwanego dalej „czynnością”, przez Żandarmerię Wojskową;
 2) sposób dokumentowania czynności przez Żandarmerię Wojskową;
 3) wzory druków i rejestrów stosowanych w ramach zarządzania i przeprowadzania czynności.
@@ -54,42 +54,42 @@ c) osób, co do których zachodzi uzasadnione przypuszczenie, że mogą wytwarza
 § 7. Do czynności wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
 § 8. Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 27 grudnia 2001 r. w sprawie sposobu przeprowadzania i dokumentowania niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa przez Żandarmerię Wojskową (Dz. U. z 2014 r. poz. 432).
 § 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: wz. T. Zdzikot WZÓR Załącznik do rozporządzenia nik nr 1 W OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. nr ……… …………………., dnia ………. r.
+Minister Obrony Narodowej: wz. T. Zdzikot Załączniki do rozporządzenia Ministra Obrony Narodowej z dnia 28 marca 2018 r. (poz. ……) Załącznik nr 1 WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. nr ……… …………………., dnia ………. r.
 ZARZĄDZENIE NR ……………….
 Na podstawie art. 33 ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430 i 650) ZARZĄDZAM ……...…………………………………………………………………………………………… w sprawie operacyjnej pod kryptonimem ……………………. nr ewid. ………… prowadzonej przez …………………………………………, dotyczącej przestępstwa wymienionego w art. 31 ust. 1 pkt …… ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych stanowiącego przestępstwo z art. ……..….., na okres ………. tygodni/miesięcy*, od dnia ……...........….. do dnia …………......….., które będzie stosowane wobec: ……………..……………...………………………………...……….
 …………………………………………………………………………………………...……… …………………………….. ……………………….………………… UZASADNIENIE …………………………………………………………………………………………...……… ………………………………………………………………………………………………...… ………………………………………………………………………………………………...… ………………………………………………………………………………………………...… KOMENDANT mp.
 …………………………….
 Wykonano w … egz.
-Egz. nr 1 ….…….
-Egz. nr 2 ………..
+Egz. nr 1 – ….…….
+Egz. nr 2 – ………..
 Wykonał: ..............
-OZNACZENIE KLAUZULI TAJNOŚCI OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. pojedynczy …..……..………………..…………………... …………………., dnia ………. r.
+OZNACZENIE KLAUZULI TAJNOŚCI Załącznik nr 2 WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. pojedynczy …..……..………………..…………………... …………………., dnia ………. r.
 ………………………………………………………………..…………… ZAWIADOMIENIE NR ……………….
 Na podstawie § 3 rozporządzenia Ministra Obrony Narodowej z dnia 28 marca 2018 r.
 w sprawie niejawnego nadzorowania wytwarzania, przemieszczania i przechowywania przedmiotów przestępstwa oraz obrotu nimi przez Żandarmerię Wojskową (Dz. U. poz. 751) zawiadamiam, że zarządziłem(-łam) niejawne nadzorowanie wytwarzania*, przemieszczania*, przechowywania* przedmiotów przestępstwa, obrotu przedmiotami przestępstwa*.
-W związku z tym, na podstawie art. 33 ust. 5 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430 i 650), należy przesyłkę .......................................................................................... ………………..……………...… dopuścić do dalszego przewozu w stanie nienaruszonym*, wydać za pokwitowaniem żołnierzowi Żandarmerii Wojskowej okazującemu niniejsze zawiadomienie oraz dopuścić do dalszego przewozu w stanie zwróconym*.
+W związku z tym, na podstawie art. 33 ust. 5 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430 i 650), należy przesyłkę .......................................................................................... ………………..……………...… – dopuścić do dalszego przewozu w stanie nienaruszonym*, – wydać za pokwitowaniem żołnierzowi Żandarmerii Wojskowej okazującemu niniejsze zawiadomienie oraz dopuścić do dalszego przewozu w stanie zwróconym*.
 ……………………………….. ……..……………………………………………… Potwierdzam przyjęcie do wiadomości i realizacji niniejszego zawiadomienia. Zobowiązuję się do zachowania w tajemnicy treści niniejszego zawiadomienia oraz informacji o wszystkich czynnościach, jakie zostaną podjęte dla wykonania zarządzenia organu Żandarmerii Wojskowej. Zostałem uprzedzony o odpowiedzialności karnej wynikającej z art. 266 ustawy z dnia 6 czerwca 1997 r. − Kodeks karny (Dz. U. z 2017 r. poz. 2204, z późn. zm.).
 …………………………………. ………………………………..…………………… Wykonano w 1 egz. do sprawy …………………..
 Wykonał: ................................................................
 ∗ Niepotrzebne skreślić.
-OZNACZENIE KLAUZULI TAJNOŚCI WZÓR OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. nr ……… ………..…………………………………..……….. …………………., dnia ………r.
+OZNACZENIE KLAUZULI TAJNOŚCI Załącznik nr 3 WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. nr ……… ………..…………………………………..……….. …………………., dnia ……….r.
 ZASTĘPCA PROKURATORA OKRĘGOWEGO DO SPRAW WOJSKOWYCH w …………………………… ZAWIADOMIENIE NR ………………. O ZARZĄDZENIU NR ……….……………..
 Na podstawie art. 33 ust. 2 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430 i 650) ZAWIADAMIAM o zarządzeniu czynności niejawnego nadzorowania wytwarzania*, przemieszczania*, przechowywania* przedmiotów przestępstwa, obrotu przedmiotami przestępstwa* w sprawie operacyjnej pod kryptonimem ……………..………. nr ewid. .…..………… prowadzonej przez …….............................................................…, dotyczącej przestępstwa wymienionego w art. 31 ust. 1 pkt ……… ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych stanowiącego przestępstwo z art. ………...……….., na okres ………. tygodni/miesięcy*, od dnia …........................ do dnia …......................…, które będzie stosowane wobec .....................................................................................................
 ….……………………………………………………………………..………………………....
 ………………………………………………………………………………...………………… UZASADNIENIE ………………………………………………………………………………………...………… ………………………………………………………………………………………...………… KOMENDANT mp.
 …………………………………….
 Wykonano w … egz.
-Egz. nr 1 ……..….
-Egz. nr 2 …..…….
+Egz. nr 1 – ……..….
+Egz. nr 2 – …..…….
 Wykonał: .................
 ∗ Niepotrzebne skreślić.
-OZNACZENIE KLAUZULI TAJNOŚCI WZÓR OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. nr ……… …………………., dnia ……….r.
+OZNACZENIE KLAUZULI TAJNOŚCI Załącznik nr 4 WZÓR WZÓR OZNACZENIE KLAUZULI TAJNOŚCI Sygnatura literowo-cyfrowa Egz. nr ……… …………………., dnia ……….r.
 NOTATKA SŁUŻBOWA O PRZEBIEGU* / WYNIKACH* CZYNNOŚCI ……………………….……..…….………… W związku z art. 33 ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430 i 650) w toku czynności niejawnego nadzorowania wytwarzania*, przemieszczania*, przechowywania* przedmiotów przestępstwa, obrotu przedmiotami przestępstwa*, zarządzonych w sprawie operacyjnej pod kryptonimem .................................... nr ewid. ............................... prowadzonej przez ..............................................., dotyczącej przestępstwa wymienionego w art. 31 ust. 1 pkt …..
 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych stanowiącego przestępstwo z art. .……………….., które były stosowane wobec: ...……………………………………………………………………………...................
 na podstawie ........................................................... w okresie od ......... do …… uzyskano następujące efekty: .......................................................................................................................
 SPORZĄDZIŁ: ……………………….………..
 Wykonano w … egz.
-Egz. nr 1 ……… Egz. nr 2 zastępca prokuratora okręgowego do spraw wojskowych (tylko w przypadku notatki o wynikach czynności) Wykonał: ..............
+Egz. nr 1 – ……… Egz. nr 2 – zastępca prokuratora okręgowego do spraw wojskowych (tylko w przypadku notatki o wynikach czynności) Wykonał: ..............
 ∗ Niepotrzebne skreślić.
-OZNACZENIE KLAUZULI TAJNOŚCI WZÓR … ……… ……………… ……… W W W M W W W W M W W M W W M ……… …………………… ………………… …………… ………………… ……… … ……… W W W W M W W M W W M W W W W W ……… …………………… …………………
+OZNACZENIE KLAUZULI TAJNOŚCI W M W …………………… ………………… W ……… W W W M M W W W ……… ……………… M W ……… W … W W …………………… ………………… ……… M W W W W M W W W W ………………… W W ………………… W M ……………
 

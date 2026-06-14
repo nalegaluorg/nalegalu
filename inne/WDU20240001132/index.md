@@ -8,10 +8,10 @@ pos: 1132
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lipca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1132 OBWIESZCZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 20 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1132/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 20 czerwca 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej w sprawie bezpieczeństwa i higieny pracy przy produkcji, transporcie wewnątrzzakładowym oraz obrocie materiałów wybuchowych, w tym wyrobów pirotechnicznych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 9 lipca 2003 r. w sprawie bezpieczeństwa i higieny pracy przy produkcji, transporcie wewnątrzzakładowym oraz obrocie materiałów wybuchowych, w tym wyrobów pirotechnicznych (Dz. U. z 2016 r. poz. 262), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju i Technologii z dnia 2 czerwca 2022 r. zmieniającym rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy produkcji, transporcie wewnątrzzakładowym oraz obrocie materiałów wybuchowych, w tym wyrobów pirotechnicznych (Dz. U.
 poz. 1289).
@@ -33,32 +32,33 @@ poz. 1289).
 1) § 1 pkt 8, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia;
 2) § 1 pkt 9 i 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Rozwoju i Technologii: K. Paszyk ROZPORZĄDZENIE MINISTRA GOSPODARKI, PRACY I POLITYKI SPOŁECZNEJ z dnia 9 lipca 2003 r.
-w sprawie bezpieczeństwa i higieny pracy przy produkcji, transporcie wewnątrzzakładowym oraz obrocie materiałów wybuchowych, w tym wyrobów pirotechnicznych Na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r.
-poz. 878) zarządza się, co następuje: § 1. 1. Rozporządzenie określa wymagania bezpieczeństwa i higieny pracy przy produkcji, transporcie wewnątrzzakładowym oraz obrocie materiałów wybuchowych, w tym wyrobów pirotechnicznych.
+w sprawie bezpieczeństwa i higieny pracy przy produkcji, transporcie wewnątrzzakładowym oraz obrocie materiałów wybuchowych, w tym wyrobów pirotechnicznych Na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r.
+poz. 878) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa wymagania bezpieczeństwa i higieny pracy przy produkcji, transporcie wewnątrzzakładowym oraz obrocie materiałów wybuchowych, w tym wyrobów pirotechnicznych.
 2. Przepisów rozporządzenia nie stosuje się do:
 1) zakładów górniczych, w zakresie transportu wewnątrzzakładowego materiałów wybuchowych;
 2) szkół wyższych, jednostek badawczo-rozwojowych , laboratoriów i zakładów doświadczalnych oraz zakładów produkcji próbnej i doświadczalnej, z wyjątkiem wymagań w stosunku do pomieszczeń, w których są stale wytwarzane lub przechowywane materiały wybuchowe;
 3) jednostek organizacyjnych podległych Ministrowi Obrony Narodowej oraz organów podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych, z wyjątkiem jednostek wykonujących działalność gospodarczą w zakresie wytwarzania, przetwarzania oraz obrotu materiałami wybuchowymi.
 § 2. Szczegółowe wymagania w stosunku do pomieszczeń magazynowych i obiektów do przechowywania materiałów wybuchowych określają przepisy dotyczące pomieszczeń magazynowych i obiektów do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym.
 § 3. Użyte w rozporządzeniu określenia oznaczają:
-1) materiał wybuchowy substancję chemiczną stałą lub ciekłą albo mieszaninę substancji, zdolną do reakcji chemicznej, z wytwarzaniem gazu o takiej temperaturze i ciśnieniu i z taką szybkością, że mogą powodować zniszczenia w otaczającym środowisku, a także przedmioty wypełnione materiałem wybuchowym;
-2) wrażliwość materiału wybuchowego prawdopodobieństwo zainicjowania przemiany materiału wybuchowego przy określonej intensywności bodźców zewnętrznych;
-3) wybuch gwałtowną przemianę materiału wybuchowego powodującą wytworzenie fali uderzeniowej w otaczającym środowisku;
-4) nadciśnienie fali uderzeniowej przyrost ciśnienia w czole fali uderzeniowej;
-5) obiekt obiekt budowlany w rozumieniu przepisów prawa budowlanego;
-6) obiekt klasy UZ obiekt, który w przypadku wybuchu lub spalenia znajdującego się w nim materiału wybuchowego ulega całkowitemu zniszczeniu;
-7) obiekt klasy MDO obiekt, który w przypadku wybuchu lub spalenia znajdującego się w nim materiału wybuchowego ulega częściowemu zniszczeniu, w stopniu umożliwiającym jego odtworzenie;
-8) strefa ochrony oznaczony obszar terenu otaczający obiekt lub jego część, w którym nie powinny pojawiać się czynniki stwarzające możliwość wybuchu lub spalenia materiału wybuchowego;
-9) materiały pirotechniczne rodzaj materiału wybuchowego, będący materiałem lub mieszaniną materiałów przewidzianych do wytwarzania efektów cieplnych, świetlnych, dźwiękowych, gazu, dymu lub kombinacji tych efektów, w wyniku bezdetonacyjnej, samopodtrzymującej się reakcji chemicznej;
-10) wyroby pirotechniczne wyroby w rozumieniu art. 62c ust. 1 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz. 2378);
+1) materiał wybuchowy – substancję chemiczną stałą lub ciekłą albo mieszaninę substancji, zdolną do reakcji chemicznej, z wytwarzaniem gazu o takiej temperaturze i ciśnieniu i z taką szybkością, że mogą powodować zniszczenia w otaczającym środowisku, a także przedmioty wypełnione materiałem wybuchowym;
+2) wrażliwość materiału wybuchowego – prawdopodobieństwo zainicjowania przemiany materiału wybuchowego przy określonej intensywności bodźców zewnętrznych;
+3) wybuch – gwałtowną przemianę materiału wybuchowego powodującą wytworzenie fali uderzeniowej w otaczającym środowisku;
+4) nadciśnienie fali uderzeniowej – przyrost ciśnienia w czole fali uderzeniowej;
+5) obiekt – obiekt budowlany w rozumieniu przepisów prawa budowlanego;
+6) obiekt klasy UZ – obiekt, który w przypadku wybuchu lub spalenia znajdującego się w nim materiału wybuchowego ulega całkowitemu zniszczeniu;
+7) obiekt klasy MDO – obiekt, który w przypadku wybuchu lub spalenia znajdującego się w nim materiału wybuchowego ulega częściowemu zniszczeniu, w stopniu umożliwiającym jego odtworzenie;
+8) strefa ochrony – oznaczony obszar terenu otaczający obiekt lub jego część, w którym nie powinny pojawiać się czynniki stwarzające możliwość wybuchu lub spalenia materiału wybuchowego;
+9) materiały pirotechniczne – rodzaj materiału wybuchowego, będący materiałem lub mieszaniną materiałów przewidzianych do wytwarzania efektów cieplnych, świetlnych, dźwiękowych, gazu, dymu lub kombinacji tych efektów, w wyniku bezdetonacyjnej, samopodtrzymującej się reakcji chemicznej;
+10) wyroby pirotechniczne – wyroby w rozumieniu art. 62c ust. 1 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz. 2378);
 11) (uchylony);
-11a) klasy wyrobów pirotechnicznych klasy wprowadzanych do obrotu wyrobów pirotechnicznych, określone przez producenta lub importera na podstawie art. 62c ust. 1 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego;
-12) załącznik A załącznik A „Przepisy ogólne i przepisy dotyczące materiałów i przedmiotów niebezpiecznych” do Umowy dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r. (Dz. U. z 2023 r. poz. 891);
-13) klasy grupy materiałów i przedmiotów niebezpiecznych, wydzielone na podstawie dominującego zagrożenia, o których mowa w załączniku A;
-14) podklasy wydzielone w klasie 1 materiałów niebezpiecznych grupy materiałów i przedmiotów wybuchowych o podobnym zachowaniu się podczas spalania, deflagracji lub detonacji, o których mowa w załączniku A;
-15) grupy zgodności oznaczone literowo grupy materiałów i przedmiotów wybuchowych, zaklasyfikowanych do klasy 1, określone w załączniku A;
-16) kod klasyfikacyjny symbol cyfrowo-literowy, składający się z oznaczenia podklasy i litery grupy zgodności materiału i przedmiotu wybuchowego, nadany przez jednostkę upoważnioną przez ministra właściwego do spraw gospodarki;
-16a) oznakowanie CE oznakowanie w rozumieniu art. 2 pkt 20 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm. );
+11a) klasy wyrobów pirotechnicznych – klasy wprowadzanych do obrotu wyrobów pirotechnicznych, określone przez producenta lub importera na podstawie art. 62c ust. 1 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego;
+12) załącznik A – załącznik A „Przepisy ogólne i przepisy dotyczące materiałów i przedmiotów niebezpiecznych” do Umowy dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r. (Dz. U. z 2023 r. poz. 891);
+13) klasy – grupy materiałów i przedmiotów niebezpiecznych, wydzielone na podstawie dominującego zagrożenia, o których mowa w załączniku A;
+14) podklasy – wydzielone w klasie 1 materiałów niebezpiecznych grupy materiałów i przedmiotów wybuchowych o podobnym zachowaniu się podczas spalania, deflagracji lub detonacji, o których mowa w załączniku A;
+15) grupy zgodności – oznaczone literowo grupy materiałów i przedmiotów wybuchowych, zaklasyfikowanych do klasy 1, określone w załączniku A;
+16) kod klasyfikacyjny – symbol cyfrowo-literowy, składający się z oznaczenia podklasy i litery grupy zgodności materiału i przedmiotu wybuchowego, nadany przez jednostkę upoważnioną przez ministra właściwego do spraw gospodarki;
+16a) oznakowanie CE – oznakowanie w rozumieniu art. 2 pkt 20 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm. );
 17) (uchylony).
 § 4. 1. Materiał wybuchowy produkowany lub stosowany w produkcji, bądź wprowadzany do obrotu, podlega ocenie pod względem bezpieczeństwa, zwanej dalej „oceną”.
 2. Ocenie nie podlegają wyroby pirotechniczne posiadające oznakowanie CE i spełniające wymagania bezpieczeństwa określone w przepisach wydanych na podstawie art. 2g ust. 2 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego.
@@ -91,7 +91,7 @@ poz. 878) zarządza się, co następuje: § 1. 1. Rozporządzenie określa wymag
 10) zachowania się materiału wybuchowego podczas spalania;
 11) ciepła wybuchu, objętości produktów wybuchu oraz współczynnika zagrożenia;
 12) wrażliwości materiału wybuchowego na bodźce mechaniczne, termiczne oraz współczynniki wrażliwości;
-13) innych charakterystyk materiału wybuchowego w miarę potrzeb;
+13) innych charakterystyk materiału wybuchowego – w miarę potrzeb;
 14) oceny bezpieczeństwa materiału wybuchowego w produkcji, transporcie wewnątrzzakładowym oraz obrocie handlowym;
 15) warunków dopuszczenia materiału do produkcji, stosowania w produkcji oraz do obrotu.
 3. W przypadku występowania w procesie produkcyjnym półproduktów, półfabrykatów, mieszanin reakcyjnych, surowców lub odpadów będących materiałami wybuchowymi, w karcie oceny określa się ich umownie przyjętą klasyfikację do podklas 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, do klasy 4.1 lub do przedmiotów ratowniczych klasy 9, zawierających materiały wybuchowe, w celu ustalania lokalizacji obiektów zawierających te materiały wybuchowe.
@@ -101,14 +101,14 @@ poz. 878) zarządza się, co następuje: § 1. 1. Rozporządzenie określa wymag
 2. Karty ocen są jawne, z wyjątkiem kart zawierających dane stanowiące tajemnicę państwową lub służbową, zastrzeżoną z uwagi na ochronę tajemnicy producenta.
 § 9. 1. Dla obiektów na terenie zakładów pracy zagrożonych wybuchem lub spaleniem znajdującego się w nich materiału wybuchowego ustala się kategorie zagrożenia MW1 i MW2, zwane dalej odpowiednio „kategorią MW1” lub „MW2”.
 2. Pracodawca kwalifikuje obiekty do odpowiedniej kategorii zagrożeń MW1 lub kategorii MW2, zgodnie z wymaganiami, o których mowa w ust. 3–5.
-3. Obiekty lub jego części, w których znajdują się materiały wybuchowe o współczynniku wrażliwości mniejszym od 2 lub materiały wybuchowe nieopakowane lub w stanie niezaelaborowanym, zalicza się do kategorii MW1, a pozostałe obiekty do kategorii MW2.
+3. Obiekty lub jego części, w których znajdują się materiały wybuchowe o współczynniku wrażliwości mniejszym od 2 lub materiały wybuchowe nieopakowane lub w stanie niezaelaborowanym, zalicza się do kategorii MW1, a pozostałe obiekty – do kategorii MW2.
 4. Obiekty lub pomieszczenia, w których znajdują się materiały wybuchowe opakowane lub w stanie zaelaborowanym, mogą zostać zaliczone do kategorii MW1, jeżeli jest to uzasadnione względami bezpieczeństwa.
 5. W stosunku do obiektów, w których równocześnie występuje zagrożenie wybuchem lub spaleniem materiału wybuchowego i zagrożenie wybuchem mieszaniny materiału palnego z powietrzem, należy:
 1) zaliczyć obiekt do kategorii MW1 lub MW2, stosownie do występującego zagrożenia;
 2) dokonać oceny zagrożenia wybuchem pomieszczeń i przestrzeni zewnętrznych;
 3) określić i wyznaczyć odpowiednie strefy zagrożenia wybuchem, zgodnie z obowiązującymi przepisami o ochronie przeciwpożarowej.
 § 10. 1. W związku z przewidywanym stopniem zniszczeń w przypadku wybuchu lub spalenia materiału wybuchowego obiekty, w których znajdują się materiały wybuchowe, zalicza się do klasy UZ lub MDO.
-2. Zaliczenia projektowanego obiektu do klasy UZ lub MDO dokonuje projektant obiektu, natomiast w przypadku obiektu istniejącego pracodawca.
+2. Zaliczenia projektowanego obiektu do klasy UZ lub MDO dokonuje projektant obiektu, natomiast w przypadku obiektu istniejącego – pracodawca.
 § 11. 1. Wokół obiektów zaliczonych do kategorii MW1 lub MW2 należy wyznaczyć i oznaczyć strefę ochrony obiektu.
 2. Zasięg strefy ochrony obiektu ustala pracodawca w zależności od kategorii zagrożenia obiektu wybuchem lub spaleniem materiału wybuchowego.
 3. Na obszarze strefy ochrony obiektu należy przeciwdziałać powstawaniu warunków dla zaistnienia zjawisk lub sytuacji mogących spowodować wybuch lub pożar materiałów wybuchowych znajdujących się w tym obiekcie.
@@ -142,8 +142,8 @@ c) urządzenia przeciwpożarowe, lokalizacje punktów sygnalizacji lub uruchamia
 5. Do karty kwalifikacyjnej, o której mowa w ust. 1, należy dołączyć karty oceny znajdujących się w obiekcie materiałów wybuchowych.
 § 13. 1. Urządzenia elektryczne i osprzęt w obiektach i pomieszczeniach zagrożonych wybuchem lub spalaniem materiału wybuchowego kategorii MW1 i MW2 powinny odpowiadać następującym wymaganiom:
 1) określonym w przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów;
-2) określonym w Polskich Normach dotyczących instalacji elektrycznych w obiektach budowlanych ochrona dla zapewnienia bezpieczeństwa;
-3) powinny posiadać stopień ochrony co najmniej IP 54, zgodny z Polską Normą, dotyczącą instalacji elektrycznych w obiektach budowlanych, w zakresie wymagań podstawowych w obiektach lub częściach obiektów zaliczonych do kategorii MW1.
+2) określonym w Polskich Normach dotyczących instalacji elektrycznych w obiektach budowlanych – ochrona dla zapewnienia bezpieczeństwa;
+3) powinny posiadać stopień ochrony co najmniej IP 54, zgodny z Polską Normą, dotyczącą instalacji elektrycznych w obiektach budowlanych, w zakresie wymagań podstawowych – w obiektach lub częściach obiektów zaliczonych do kategorii MW1.
 2. Budowa urządzeń elektrycznych i osprzętu powinna zapewniać łatwość czyszczenia oraz jak najmniejsze odkładanie się na ich powierzchniach pyłu.
 3. Urządzenia elektryczne powinny być skutecznie zabezpieczone przed niedopuszczalnym przegrzaniem.
 4. Temperatura powierzchni obudowy urządzeń elektrycznych powinna być co najmniej o 50 K niższa od temperatury rozkładu materiału wybuchowego, nie wyższa jednak niż 120 °C (393 K), a w przypadku materiałów wybuchowych o temperaturze rozkładu poniżej 200 °C (473 K), temperatura powierzchni powinna być zgodna z dopuszczalną temperaturą określoną w karcie oceny materiału wybuchowego.
@@ -244,10 +244,10 @@ W takim przypadku punkty uruchamiania instalacji powinny odpowiadać wymaganiom 
 § 41. 1. Przedsiębiorca opracowuje i na bieżąco aktualizuje projekty technologiczne i techniczne, dokumentacje technologiczne, instrukcje i regulaminy zawierające szczegółowe wymagania dotyczące wykonania, wyposażenia i wykorzystania obiektów oraz przebiegu procesu technologicznego, a także wymagania dotyczące wykonywania innych czynności mogących mieć znaczenie dla bezpieczeństwa.
 2. Przebieg procesu technologicznego powinien być zgodny z wymaganiami określonymi w dokumentach, o których mowa w ust. 1.
 § 42. 1. Pomieszczenia, w których jest prowadzony obrót wyrobami pirotechnicznymi, dzieli się na pomieszczenia:
-1) sklepowe przeznaczone do realizacji bezpośredniej stałej sprzedaży;
-2) zaplecza przeznaczone do przechowywania ilości wyrobów pirotechnicznych zapewniających ciągłość sprzedaży;
-3) magazynowe przystosowane do składowania wszystkich rodzajów wyrobów pirotechnicznych w ilościach przekraczających łączną masę 1000 kg brutto, nieprzerwanie przez okres co najmniej 90 dni w roku, oraz do sprzedaży wyrobów pirotechnicznych widowiskowych klasy F4, wyrobów pirotechnicznych przeznaczonych do użytku teatralnego klasy T2 oraz pozostałych wyrobów pirotechnicznych klasy P2;
-4) doraźnej sprzedaży przeznaczone do realizacji okolicznościowej sprzedaży wyrobów pirotechnicznych widowiskowych, nie dłużej niż 21 dni w roku.
+1) sklepowe – przeznaczone do realizacji bezpośredniej stałej sprzedaży;
+2) zaplecza – przeznaczone do przechowywania ilości wyrobów pirotechnicznych zapewniających ciągłość sprzedaży;
+3) magazynowe – przystosowane do składowania wszystkich rodzajów wyrobów pirotechnicznych w ilościach przekraczających łączną masę 1000 kg brutto, nieprzerwanie przez okres co najmniej 90 dni w roku, oraz do sprzedaży wyrobów pirotechnicznych widowiskowych klasy F4, wyrobów pirotechnicznych przeznaczonych do użytku teatralnego klasy T2 oraz pozostałych wyrobów pirotechnicznych klasy P2;
+4) doraźnej sprzedaży – przeznaczone do realizacji okolicznościowej sprzedaży wyrobów pirotechnicznych widowiskowych, nie dłużej niż 21 dni w roku.
 2. W pomieszczeniach sklepowych i pomieszczeniach zaplecza mogą znajdować się wyłącznie wyroby pirotechniczne widowiskowe klasy F1, F2 i F3, wyroby pirotechniczne przeznaczone do użytku teatralnego klasy T1 oraz pozostałe wyroby pirotechniczne klasy P1, w ilościach nieprzekraczających 1000 kg brutto ich łącznej masy, odpowiednio dla każdego z tych pomieszczeń.
 3. W pomieszczeniach doraźnej sprzedaży mogą znajdować się wyłącznie wyroby pirotechniczne widowiskowe klasy F1, F2 i F3, w ilości nieprzekraczającej 300 kg brutto ich łącznej masy.
 4. Prowadzenie sprzedaży wyrobów pirotechnicznych w innych obiektach handlowych musi odbywać się wyłącznie na wyodrębnionych do tego celu stoiskach, bez możliwości sprzedaży samoobsługowej.
@@ -331,11 +331,11 @@ b) urządzenia przeciwpożarowe, lokalizacje punktów sygnalizacji lub uruchamia
 SPOSÓB DOKONYWANIA OCENY MATERIAŁÓW WYBUCHOWYCH POD WZGLĘDEM BEZPIECZEŃSTWA
 1. Ocena pod względem bezpieczeństwa materiałów wybuchowych, o których mowa w § 5 ust. 2 rozporządzenia, polega na doświadczalnym lub obliczeniowym wyznaczeniu charakterystyk tych materiałów, w zakresie niezbędnym do wystawienia karty oceny, o której mowa w § 6 rozporządzenia.
 2. Zdolność materiału wybuchowego do generowania fali uderzeniowej określa porównawczo, w stosunku do wzorcowego materiału wybuchowego (krystalicznego heksogenu), współczynnik zagrożenia R .
-Współczynnik R wyznacza się doświadczalnie w drodze badań modelowych lub oblicza z dokładnością do dwóch miejsc po przecinku z wzoru: R = 4,71 · 10 · (Q · V) gdzie poszczególne określenia oznaczają: Q ciepło wybuchu danego materiału wybuchowego w kJ/kg, V objętość właściwa produktów wybuchu danego materiału wybuchowego w dm /kg.
-3. Wrażliwość materiału wybuchowego określa współczynnik wrażliwości R obliczany z wzoru: R = (R · R ) gdzie poszczególne określenia oznaczają: R współczynnik wrażliwości mechanicznej danego materiału wybuchowego, R współczynnik wrażliwości termicznej danego materiału wybuchowego.
+Współczynnik R wyznacza się doświadczalnie w drodze badań modelowych lub oblicza z dokładnością do dwóch miejsc po przecinku z wzoru: R = 4,71 · 10 · (Q · V) gdzie poszczególne określenia oznaczają: Q – ciepło wybuchu danego materiału wybuchowego w kJ/kg, V – objętość właściwa produktów wybuchu danego materiału wybuchowego w dm /kg.
+3. Wrażliwość materiału wybuchowego określa współczynnik wrażliwości R obliczany z wzoru: R = (R · R ) gdzie poszczególne określenia oznaczają: R – współczynnik wrażliwości mechanicznej danego materiału wybuchowego, R – współczynnik wrażliwości termicznej danego materiału wybuchowego.
 4. Współczynniki R i R , o których mowa w ust. 3, są wyznaczane z wzorów:
-1) R = 0,076 · (S · S ) gdzie poszczególne określenia oznaczają: S dolna granica wrażliwości na tarcie danego materiału wybuchowego w N, oznaczona według Polskiej Normy dotyczącej oznaczania wrażliwości na tarcie materiałów wybuchowych, S dolna granica wrażliwości na uderzenie danego materiału wybuchowego w J, oznaczona według Polskiej Normy dotyczącej oznaczania wrażliwości na uderzenie materiałów wybuchowych;
-2) R = 39,02 · log T /373 gdzie: T temperatura rozkładu danego materiału wybuchowego w K, oznaczona według Polskiej Normy dotyczącej oznaczania temperatury rozkładu materiałów wybuchowych.
+1) R = 0,076 · (S · S ) gdzie poszczególne określenia oznaczają: S – dolna granica wrażliwości na tarcie danego materiału wybuchowego w N, oznaczona według Polskiej Normy dotyczącej oznaczania wrażliwości na tarcie materiałów wybuchowych, S – dolna granica wrażliwości na uderzenie danego materiału wybuchowego w J, oznaczona według Polskiej Normy dotyczącej oznaczania wrażliwości na uderzenie materiałów wybuchowych;
+2) R = 39,02 · log T /373 gdzie: T – temperatura rozkładu danego materiału wybuchowego w K, oznaczona według Polskiej Normy dotyczącej oznaczania temperatury rozkładu materiałów wybuchowych.
 5. Przy obliczaniu współczynnika R , zgodnie z ust. 3 i 4, stosuje się następujące zasady:
 1) jeżeli materiał wybuchowy posiada współczynnik wrażliwości mechanicznej R mniejszy lub równy 1, to współczynnik wrażliwości, oprócz wartości liczbowej, otrzymuje znak „M”;
 2) jeżeli materiał wybuchowy charakteryzuje się wrażliwością na uderzenie wyższą od 50 J oraz równocześnie wrażliwością na tarcie wyższą od 353 N, do obliczenia współczynnika wrażliwości mechanicznej według wzoru określonego w ust. 4 pkt 1 należy przyjąć wartości S = 50 J i S = 353 N;
@@ -351,27 +351,27 @@ WYMAGANIA DOTYCZĄCE SYTUOWANIA OBIEKTÓW, W KTÓRYCH ZNAJDUJĄ SIĘ MATERIAŁY 
 4) wrażliwości materiałów wybuchowych znajdujących się w zagrożonym obiekcie, w stosunku do którego ma być wyznaczona bezpieczna odległość;
 5) zastosowanych zabezpieczeń obiektu oraz pobliskich obiektów.
 3. Wzorcowym materiałem wybuchowym jest heksogen krystaliczny, który przyjmuje się jako materiał odniesienia do określenia parametrów zagrożenia dla innych materiałów wybuchowych, przy których wybuchu w otoczeniu ładunku powstaje fala uderzeniowa.
-4. Równoważnik masy heksogenu (G), zwany dalej „równoważnikiem heksogenowym”, zawartego w obiekcie ładunku materiału wybuchowego zdolnego do generowania w otoczeniu fali uderzeniowej wyznacza się doświadczalnie, w drodze badań modelowych, lub określa się według wzoru: G = R · M gdzie poszczególne określenia oznaczają: G równoważnik heksogenowy ładunku w kg, R współczynnik zagrożenia materiału wybuchowego, wyznaczony zgodnie z załącznikiem nr 1 ust. 2 do rozporządzenia, M masa netto zawartego w obiekcie materiału wybuchowego w kilogramach.
+4. Równoważnik masy heksogenu (G), zwany dalej „równoważnikiem heksogenowym”, zawartego w obiekcie ładunku materiału wybuchowego zdolnego do generowania w otoczeniu fali uderzeniowej wyznacza się doświadczalnie, w drodze badań modelowych, lub określa się według wzoru: G = R · M gdzie poszczególne określenia oznaczają: G – równoważnik heksogenowy ładunku w kg, R – współczynnik zagrożenia materiału wybuchowego, wyznaczony zgodnie z załącznikiem nr 1 ust. 2 do rozporządzenia, M – masa netto zawartego w obiekcie materiału wybuchowego w kilogramach.
 5. W przypadku łącznego przechowywania materiałów wybuchowych zaliczonych do podklasy 1.1 lub 1.5 z innymi materiałami wybuchowymi, przy wyznaczaniu minimalnych dopuszczalnych odległości (L ), o których mowa w ust. 1, należy uwzględniać łączną masę (G) równoważnika heksogenowego znajdujących się w obiekcie materiałów wybuchowych.
 6. Obiekt, w którym znajduje się materiał wybuchowy zaklasyfikowany do klasy 4.1, może być traktowany jako niestwarzający zagrożenia z tytułu generowania fali uderzeniowej, jeżeli spełnione są następujące warunki:
 1) lokalizacja i konstrukcja obiektu wykluczają możliwość zainicjowania zawartego w nim ładunku w przypadku wybuchu w sąsiednich obiektach zawierających ładunki materiału wybuchowego;
 2) podczas przechowywania materiału wybuchowego przestrzegane są specjalne warunki bezpieczeństwa określone przez przedsiębiorcę, uniemożliwiające wybuch przechowywanego ładunku w przypadku zaistnienia pożaru w obiekcie.
-7. Nadciśnienie fali uderzeniowej (P ) jako funkcję odległości czoła fali (L) od miejsca wybuchu materiału wybuchowego i jego równoważnika heksogenowego (G) wyznacza się doświadczalnie w drodze badań modelowych lub określa według wzoru: P = 980 · (L · G ) gdzie poszczególne określenia oznaczają: P nadciśnienie fali uderzeniowej w kPa, L odległość od miejsca wybuchu w metrach.
+7. Nadciśnienie fali uderzeniowej (P ) jako funkcję odległości czoła fali (L) od miejsca wybuchu materiału wybuchowego i jego równoważnika heksogenowego (G) wyznacza się doświadczalnie w drodze badań modelowych lub określa według wzoru: P = 980 · (L · G ) gdzie poszczególne określenia oznaczają: P – nadciśnienie fali uderzeniowej w kPa, L – odległość od miejsca wybuchu w metrach.
 8. W otoczeniu obiektów, w których znajduje się materiał wybuchowy, podczas wybuchu którego powstaje fala uderzeniowa, wyznacza się strefy zagrożenia wybuchem, które dzieli się ze względu na przewidywane nadciśnienie fali uderzeniowej na strefy:
-1) bezpośrednią nadciśnienie fali uderzeniowej ponad 250 kPa;
-2) bliską nadciśnienie fali uderzeniowej od 35 do 250 kPa;
-3) pośrednią nadciśnienie fali uderzeniowej od 5 do 35 kPa;
-4) daleką nadciśnienie fali uderzeniowej do 5 kPa.
+1) bezpośrednią – nadciśnienie fali uderzeniowej ponad 250 kPa;
+2) bliską – nadciśnienie fali uderzeniowej od 35 do 250 kPa;
+3) pośrednią – nadciśnienie fali uderzeniowej od 5 do 35 kPa;
+4) daleką – nadciśnienie fali uderzeniowej do 5 kPa.
 9. W poszczególnych strefach zagrożenia wybuchem materiału wybuchowego mogą być lokalizowane następujące rodzaje obiektów:
-1) budynki do produkcji materiałów wybuchowych i obiekty towarzyszące, z wyjątkiem obiektów stwarzających dodatkowe zagrożenie, oraz magazyny półfabrykatów co najmniej w strefie bliskiej;
-2) budynki produkcyjne inne niż wymienione w pkt 1, wydzielone obiekty, w których znajdują się pomieszczenia higieniczno-sanitarne, budynki laboratoryjne i inne obiekty badawcze, budynki pomocnicze, drogi, napowietrzne linie wysokiego napięcia, ogrodzenia zewnętrzne zakładów nie bliżej niż w strefie pośredniej, z wyjątkiem dróg, o których mowa w § 25 ust. 1 rozporządzenia;
-3) budynki mieszkalne nie bliżej niż w strefie dalekiej, przy czym w obszarze, dla którego przewidywane nadciśnienie fali uderzeniowej wynosi:
-a) poniżej 5 kPa dopuszcza się rozproszoną zabudowę obiektów mieszkalnych,
-b) poniżej 3 kPa dopuszcza się zwartą zabudowę obiektów mieszkalnych;
-4) obiekty niewymienione w pkt 1–3 wyłącznie w strefie dalekiej.
+1) budynki do produkcji materiałów wybuchowych i obiekty towarzyszące, z wyjątkiem obiektów stwarzających dodatkowe zagrożenie, oraz magazyny półfabrykatów – co najmniej w strefie bliskiej;
+2) budynki produkcyjne inne niż wymienione w pkt 1, wydzielone obiekty, w których znajdują się pomieszczenia higieniczno-sanitarne, budynki laboratoryjne i inne obiekty badawcze, budynki pomocnicze, drogi, napowietrzne linie wysokiego napięcia, ogrodzenia zewnętrzne zakładów – nie bliżej niż w strefie pośredniej, z wyjątkiem dróg, o których mowa w § 25 ust. 1 rozporządzenia;
+3) budynki mieszkalne – nie bliżej niż w strefie dalekiej, przy czym w obszarze, dla którego przewidywane nadciśnienie fali uderzeniowej wynosi:
+a) poniżej 5 kPa – dopuszcza się rozproszoną zabudowę obiektów mieszkalnych,
+b) poniżej 3 kPa – dopuszcza się zwartą zabudowę obiektów mieszkalnych;
+4) obiekty niewymienione w pkt 1–3 – wyłącznie w strefie dalekiej.
 10. W strefie bliskiej nie można lokalizować obiektów i stanowisk pracy niezwiązanych z obiektem, w którym znajduje się materiał wybuchowy.
 11. Wymagania dotyczące obiektów magazynowych gotowych wyrobów w opakowaniach transportowych określają przepisy, o których mowa w § 2 rozporządzenia.
-12. Minimalną dopuszczalną odległość obiektów nieobwałowanych, w których znajduje się materiał wybuchowy, od innych obiektów wyznacza się doświadczalnie, w drodze badań modelowych, uwzględniając kryteria, o których mowa w ust. 8–10, lub określa według wzoru: L = 38.25 · P · G gdzie poszczególne określenia oznaczają: L minimalna dopuszczalna odległość w metrach, G równoważnik heksogenowy w kilogramach, P dopuszczalne nadciśnienie fali uderzeniowej w kPa.
+12. Minimalną dopuszczalną odległość obiektów nieobwałowanych, w których znajduje się materiał wybuchowy, od innych obiektów wyznacza się doświadczalnie, w drodze badań modelowych, uwzględniając kryteria, o których mowa w ust. 8–10, lub określa według wzoru: L = 38.25 · P · G gdzie poszczególne określenia oznaczają: L – minimalna dopuszczalna odległość w metrach, G – równoważnik heksogenowy w kilogramach, P – dopuszczalne nadciśnienie fali uderzeniowej w kPa.
 13. Minimalną dopuszczalną odległość obiektów obwałowanych, w których znajduje się materiał wybuchowy, od innych obiektów wyznacza się doświadczalnie, w drodze badań modelowych, uwzględniając kryteria, o których mowa w ust. 8–10, lub określa się według wzorów:
 1) przy odległości powyżej 10 m do 80 m: L = 14.96 · P · G
 2) przy odległości powyżej 80 m do 500 m: L = 3.693 · P · G + 27.1
@@ -383,7 +383,7 @@ b) poniżej 3 kPa dopuszcza się zwartą zabudowę obiektów mieszkalnych;
 3) wartość obliczoną według wzorów, o których mowa w ust. 12 lub 13, jeżeli zawierają ładunek materiału wybuchowego o masie równoważnika heksogenowego (G) ponad 5000 kg.
 16. Obliczenia maksymalnych dopuszczalnych ilości materiałów wybuchowych, które mogą być w obiekcie, dokonuje się na podstawie wzorów podanych w ust. 12 lub 13, z uwzględnieniem minimalnych odległości, o których mowa w ust. 15.
 17. Zasięg stref zagrożenia wokół obiektów nieobwałowanych określa tabela: Ilość materiału wybuchowego G Zasięg stref zagrożeń (w metrach) (kg) wyznaczonych nadciśnieniem fali uderzeniowej równym 250 kPa 35 kPa 5 kPa 3 kPa 5 4 10 28 37 10 4 13 35 46 20 6 16 44 58 50 8 22 60 79 100 10 27 76 99 200 12 34 96 125 500 16 46 130 169 1 000 21 58 163 214 2 000 26 74 206 270 5 000 35 100 279 366 10 000 44 126 352 461 20 000 56 158 443 581 50 000 76 215 601 788 100 000 96 271 758 993 200 000 121 341 954 1 251 500 000 164 463 1 296 1 698 1 000 000 206 583 1 633 2 139
-18. Zasięg stref zagrożeń wokół obiektów obwałowanych określa tabela: Ilość materiału wybuchowego G Zasięg stref zagrożeń (w metrach) (kg) wyznaczonych nadciśnieniem fali uderzeniowej równym 250 kPa 35 kPa 5 kPa 3 kPa 5 10 14 10 14 19 20 18 25 50 26 35 100 10 34 46 200 13 44 61 500 19 64 88 1 000 25 84 121 2 000 32 115 172 5 000 14 47 182 286 10 000 18 61 268 429 20 000 23 80 400 581 50 000 34 122 601 788 100 000 44 174 758 993 200 000 58 254 954 1 251 500 000 84 432 1 296 1 698 1 000 000 115 583 1 633 2 139
+18. Zasięg stref zagrożeń wokół obiektów obwałowanych określa tabela: Ilość materiału wybuchowego G Zasięg stref zagrożeń (w metrach) (kg) wyznaczonych nadciśnieniem fali uderzeniowej równym 250 kPa 35 kPa 5 kPa 3 kPa 5 – – 10 14 10 – – 14 19 20 – – 18 25 50 – – 26 35 100 – 10 34 46 200 – 13 44 61 500 – 19 64 88 1 000 – 25 84 121 2 000 – 32 115 172 5 000 14 47 182 286 10 000 18 61 268 429 20 000 23 80 400 581 50 000 34 122 601 788 100 000 44 174 758 993 200 000 58 254 954 1 251 500 000 84 432 1 296 1 698 1 000 000 115 583 1 633 2 139
 19. Badania modelowe, o których mowa w ust. 4, 7, 12 i 13, wykonują jednostki organizacyjne, o których mowa w § 5 ust. 1 rozporządzenia, określając indywidualnie metodykę ich realizacji.
 20. (uchylony).
 21. (uchylony).

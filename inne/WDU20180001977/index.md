@@ -8,10 +8,10 @@ pos: 1977
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 października 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1977 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 3 października 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001977) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1977/text.pdf) |
 
-Poz. 1977 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 3 października 2018 r.
 zmieniające rozporządzenie w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnej pomocy dostosowawczej dla producentów mleka i rolników w innych sektorach hodowlanych Na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
-z 2017 r. poz. 2137 oraz z 2018 r. poz. 1669) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 23 lutego 2017 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnej pomocy dostosowawczej dla producentów mleka i rolników w innych sektorach hodowlanych (Dz. U. poz. 499, 1328, 1670 i 1688) wprowadza się następujące zmiany:
+z 2017 r. poz. 2137 oraz z 2018 r. poz. 1669) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 23 lutego 2017 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnej pomocy dostosowawczej dla producentów mleka i rolników w innych sektorach hodowlanych (Dz. U. poz. 499, 1328, 1670 i 1688) wprowadza się następujące zmiany:
 1) w § 34 ust. 3 otrzymuje brzmienie: „3. Do okresu niespełniania zobowiązań, o których mowa w § 5 ust. 1 pkt 4 lit. a albo w § 14 ust. 1 pkt 4 lit. a, albo w § 21d ust. 1 pkt 4, nie wlicza się okresu od dnia sprzedaży jałówki lub jałówki hodowlanej rasy mlecznej, w przypadku, o którym mowa w § 35 ust. 2 pkt 2, do dnia zakupu jałówki lub jałówki hodowlanej rasy mlecznej.”;
 2) w § 35:
 a) w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Pomoc, o której mowa w § 2 ust. 1 i § 2a ust. 1, nie podlega zwrotowi w sytuacji wystąpienia w gospodarstwie:”, – w pkt 3 skreśla się kropkę, – w części wspólnej wyliczenia po wyrazach „siły wyższej” dodaje się wyrazy „i nadzwyczajnych okoliczności”,

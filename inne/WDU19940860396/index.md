@@ -8,7 +8,7 @@ pos: 396
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przedłużeniu kadencji kolegiów odwoławczych przy sejmikach samorządowych oraz o zmianie ustawy o ustroju miasta stołecznego Warszawy
@@ -27,7 +27,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940860396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/396/text.pdf) |
 
-**Art. 3.** W ustawie z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy (Dz.U. Nr 48, poz. 195) w art. 50 dodaje się ust. 3 w brzmieniu: "3. Rada Ministrów zapewni niezbędne środki związane z wykonywaniem przez kolegium odwoławcze przy sejmiku samorządowym zadań, o których mowa w art. 45 ust. 2 i art. 46, w roku 1994.
+**Art. 3.** art. W ustawie z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy (Dz.U. Nr 48, poz. 195) w art. 50 dodaje się ust. 3 w brzmieniu: "3. Rada Ministrów zapewni niezbędne środki związane z wykonywaniem przez kolegium odwoławcze przy sejmiku samorządowym zadań, o których mowa w art. 45 ust. 2 i art. 46, w roku 1994.
 
 **Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

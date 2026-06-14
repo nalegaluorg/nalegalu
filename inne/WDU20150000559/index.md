@@ -8,7 +8,7 @@ pos: 559
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 47/4/A/2015 WYROK z dnia 14 kwietnia 2015 r.

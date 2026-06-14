@@ -8,7 +8,7 @@ pos: 670
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o funduszach inwestycyjnych

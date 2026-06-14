@@ -8,10 +8,10 @@ pos: 1212
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 listopada 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1212 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 3 października 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001212) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1212/text.pdf) |
 
-Poz. 1212 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 3 października 2012 r.
-w sprawie szczegółowego sposobu prowadzenia gospodarki finansowej parku narodowego Na podstawie art. 8g ust. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy sposób prowadzenia gospodarki finansowej parku narodowego, zwanego dalej „Parkiem”.
+w sprawie szczegółowego sposobu prowadzenia gospodarki finansowej parku narodowego Na podstawie art. 8g ust. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy sposób prowadzenia gospodarki finansowej parku narodowego, zwanego dalej „Parkiem”.
 § 2. 1. Park przekazuje projekt rocznego planu finansowego, o którym mowa w art. 8g ust. 2 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, zwanej dalej „ustawą”, i planu finansowego w układzie zadaniowym na rok budżetowy i dwa kolejne lata w układzie funkcji państwa, zadań budżetowych i podzadań, o którym mowa w art. 8g ust. 4 ustawy, ministrowi właściwemu do spraw środowiska i ministrowi właściwemu do spraw finansów publicznych, w sposób, w trybie i w terminach określonych w przepisach dotyczących opracowania materiałów do projektu ustawy budżetowej.
 2. Łącznie z projektami, o których mowa w ust. 1, Park przekazuje uzasadnienie planowanych przychodów i kosztów.
 § 3. Kosztami działalności Parku są koszty i wydatki, o których mowa w art. 8g ust. 1 ustawy.

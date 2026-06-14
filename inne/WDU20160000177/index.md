@@ -8,7 +8,7 @@ pos: 177
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Prawo o prokuraturze
@@ -553,6 +553,11 @@ source: "isap-pdf"
 
 **Art. 45.** Zebranie prokuratorów Prokuratury Krajowej:
 
+- **1)** wysłuchuje informacji Prokuratora Krajowego o działalności Prokuratury Krajowej i pracy prokuratorów oraz wyraża opinię w tym zakresie;
+- **2)** wybiera przedstawicieli do Krajowej Rady Prokuratorów;
+- **3)** wybiera członków Sądu Dyscyplinarnego przy Prokuratorze Generalnym;
+- **4)** wyraża opinie w innych sprawach przedstawionych przez Prokuratora Krajowego.
+
 **Art. 46.**
 
 § 1. W prokuraturze regionalnej działa zgromadzenie prokuratorów, które składa się z delegatów prokuratorów prokuratury regionalnej oraz delegatów prokuratorów prokuratur okręgowych i rejonowych działających na obszarze działania prokuratury regionalnej. Delegatami prokuratorów prokuratury regionalnej są zastępcy prokuratora regionalnego oraz pozostali delegaci wybierani w łącznej liczbie równej połowie liczby prokuratorów prokuratury regionalnej przez zebranie prokuratorów prokuratury regionalnej. Delegatami prokuratorów prokuratur okręgowych są prokuratorzy okręgowi oraz pozostali delegaci w łącznej liczbie równej jednej trzeciej liczby prokuratorów prokuratury regionalnej, wybierani przez zebrania prokuratorów prokuratur okręgowych i zebrania prokuratorów prokuratur rejonowych. Delegatami prokuratorów prokuratur rejonowych są prokuratorzy rejonowi oraz pozostali delegaci w łącznej liczbie równej dwóm trzecim liczby prokuratorów prokuratury regionalnej, wybierani przez zebrania prokuratorów prokuratur rejonowych. Delegatów pochodzących z wyboru wybiera się na okres 4 lat.
@@ -568,6 +573,13 @@ source: "isap-pdf"
 § 6. Do zgromadzenia prokuratorów prokuratury regionalnej oraz zebrań, o których mowa w § 1, przepis art. 42 § 7a stosuje się odpowiednio.
 
 **Art. 47.** Zgromadzenie prokuratorów:
+
+- **1)** wysłuchuje informacji prokuratora regionalnego o działalności prokuratur i pracy prokuratorów oraz wyraża opinię w tym zakresie;
+- **2)** wybiera dwie trzecie liczby członków kolegium prokuratury regionalnej;
+- **3)** wybiera przedstawiciela do Krajowej Rady Prokuratorów;
+- **4)** wybiera członków Sądu Dyscyplinarnego przy Prokuratorze Generalnym;
+- **5)** rozpatruje sprawozdania z działalności kolegium prokuratury regionalnej;
+- **6)** wyraża opinie w innych sprawach przedstawionych przez prokuratora regionalnego lub kolegium prokuratury regionalnej.
 
 **Art. 48.**
 
@@ -585,6 +597,11 @@ source: "isap-pdf"
 
 **Art. 49.** Kolegium prokuratury regionalnej:
 
+- **1)** rozpatruje wnioski wynikające z wizytacji i lustracji prokuratur;
+- **2)** wyraża opinię o kandydatach na prokuratorów prokuratury regionalnej i okręgowej;
+- **3)** wyraża opinię w przedmiocie odwołania prokuratora prokuratury regionalnej i okręgowej;
+- **4)** wyraża opinie w innych sprawach przedstawionych przez prokuratora regionalnego.
+
 **Art. 50.**
 
 § 1. Kolegium prokuratury okręgowej składa się z 6 lub 9 członków wybieranych w dwóch trzecich przez zebranie prokuratorów prokuratury okręgowej oraz delegatów prokuratorów prokuratur rejonowych, a w jednej trzeciej powołanych przez prokuratora okręgowego spośród prokuratorów prokuratury okręgowej i prokuratur rejonowych z obszaru działania prokuratury okręgowej.
@@ -600,6 +617,11 @@ source: "isap-pdf"
 § 6. Przepis art. 42 § 7a stosuje się odpowiednio.
 
 **Art. 51.** Kolegium prokuratury okręgowej:
+
+- **1)** rozpatruje wnioski wynikające z wizytacji i lustracji prokuratur;
+- **2)** wyraża opinię o kandydatach na asesorów prokuratorskich oraz prokuratorów prokuratur rejonowych;
+- **3)** wyraża opinię w przedmiocie odwołania prokuratora prokuratury rejonowej;
+- **4)** wyraża opinie w innych sprawach przedstawionych przez prokuratora okręgowego.
 
 **Art. 52.** Zebranie prokuratorów Prokuratury Krajowej, zgromadzenia prokuratorów oraz kolegia prokuratur regionalnych i okręgowych działają na podstawie uchwalonych przez siebie regulaminów.
 
@@ -976,7 +998,9 @@ source: "isap-pdf"
 
 § 4. Prawomocne orzeczenie sądu dyscyplinarnego o wydaleniu ze służby prokuratorskiej oraz prawomocny wyrok sądu skazujący prokuratora za umyślne przestępstwo ścigane z oskarżenia publicznego lub orzekający wobec prokuratora środek karny pozbawienia praw publicznych, zakaz zajmowania stanowiska prokuratora, degradację lub wydalenie z zawodowej służby wojskowej, powodują z mocy prawa utratę stanowiska prokuratora; stosunek służbowy prokuratora wygasa z chwilą uprawomocnienia się orzeczenia lub wyroku.
 
-§ 5. (uchylony) § 6. Stosunek służbowy prokuratora wygasa z dniem utraty przez niego obywatelstwa polskiego lub uzyskania obywatelstwa innego państwa.
+§ 5. (uchylony)
+
+§ 6. Stosunek służbowy prokuratora wygasa z dniem utraty przez niego obywatelstwa polskiego lub uzyskania obywatelstwa innego państwa.
 
 **Art. 94.**
 
@@ -1305,7 +1329,11 @@ source: "isap-pdf"
 - **2)** choroby przypadającej w okresie ciąży,
 - **3)** choroby powstałej w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora,
 - **4)** choroby spowodowanej przez inną osobę w wyniku popełnienia przez nią umyślnego czynu zabronionego, w związku z wykonywaniem czynności prokuratora, stwierdzonego orzeczeniem wydanym przez uprawniony organ,
-- **5)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów – prokurator zachowuje prawo do 100 % wynagrodzenia, nie dłużej jednak niż przez okres roku; przepis § 1 zdanie drugie i trzecie stosuje się. [§ 3. W razie ujawnienia u prokuratora choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora, prokurator bezpośrednio przełożony kieruje prokuratora do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek prokuratora. Od orzeczenia lekarza orzecznika prokuratorowi przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych w ciągu 14 dni od dnia doręczenia tego orzeczenia.] <§ 3. W razie ujawnienia u prokuratora choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora, prokurator bezpośrednio przełożony kieruje prokuratora do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek prokuratora. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).> § 4. Za chorobę powstałą w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora uznaje się chorobę spowodowaną działaniem czynników szkodliwych występujących w miejscu wykonywania czynności prokuratora. [§ 5. Koszty badania i wydania orzeczenia przez lekarza orzecznika oraz komisję lekarską Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Prokuratora Generalnego.] <§ 5. Koszty badania i wydania orzeczenia przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Prokuratora Generalnego.> § 6. W razie niemożności wykonywania pracy z innych przyczyn, uprawniających do uzyskania świadczeń określonych w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego, prokuratorowi przysługuje wynagrodzenie w wysokości świadczeń pieniężnych z ubezpieczenia społecznego przez okres przewidziany w tych przepisach.
+- **5)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów – prokurator zachowuje prawo do 100 % wynagrodzenia, nie dłużej jednak niż przez okres roku; przepis § 1 zdanie drugie i trzecie stosuje się. [§ 3. W razie ujawnienia u prokuratora choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora, prokurator bezpośrednio przełożony kieruje prokuratora do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek prokuratora. Od orzeczenia lekarza orzecznika prokuratorowi przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych w ciągu 14 dni od dnia doręczenia tego orzeczenia.] <§ 3. W razie ujawnienia u prokuratora choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora, prokurator bezpośrednio przełożony kieruje prokuratora do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek prokuratora. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
+
+§ 4. Za chorobę powstałą w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora uznaje się chorobę spowodowaną działaniem czynników szkodliwych występujących w miejscu wykonywania czynności prokuratora. [§ 5. Koszty badania i wydania orzeczenia przez lekarza orzecznika oraz komisję lekarską Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Prokuratora Generalnego.] <§ 5. Koszty badania i wydania orzeczenia przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Prokuratora Generalnego.>
+
+§ 6. W razie niemożności wykonywania pracy z innych przyczyn, uprawniających do uzyskania świadczeń określonych w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego, prokuratorowi przysługuje wynagrodzenie w wysokości świadczeń pieniężnych z ubezpieczenia społecznego przez okres przewidziany w tych przepisach.
 
 § 7. Okres nieobecności w pracy z powodu choroby oraz niemożności wykonywania pracy, o której mowa w § 6, stwierdza zaświadczenie lekarskie wystawione zgodnie z art. 55 ust. 1 i art. 55a ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780) albo wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 tej ustawy, z tym że w przypadku:
 
@@ -1467,7 +1495,9 @@ source: "isap-pdf"
 
 **Art. 127.**
 
-§ 1. Do prokuratorów stosuje się odpowiednio przepisy art. 69–71, art. 73, art. 74, art. 76, art. 85 § 4, art. 94d–94g, art. 99–102 i art. 104 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przewidziane w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych uprawnienia Krajowej Rady Sądownictwa i Ministra Sprawiedliwości przysługują w stosunku do prokuratorów Prokuratorowi Generalnemu, a uprawnienia kolegiów i prezesów właściwych sądów – właściwym prokuratorom przełożonym. [§ 1a. Przeniesienie prokuratora w stan spoczynku z powodu choroby lub utraty sił następuje z dniem uprawomocnienia się orzeczenia wydanego przez lekarza orzecznika lub komisję lekarską Zakładu Ubezpieczeń Społecznych stwierdzającego trwałą niezdolność do pełnienia obowiązków prokuratora.] <§ 1a. Przeniesienie prokuratora w stan spoczynku z powodu choroby lub utraty sił następuje z dniem uprawomocnienia się orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych stwierdzającego trwałą niezdolność do pełnienia obowiązków prokuratora albo orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych wydanego w wyniku ponownego rozpatrzenia sprawy.> § 2. Prokurator może nadal zajmować stanowisko po ukończeniu 65. roku życia, jeżeli Prokurator Generalny na wniosek prokuratora, po przedstawieniu zaświadczenia stwierdzającego, że jest zdolny ze względu na stan zdrowia do pełnienia obowiązków prokuratora, oraz po zasięgnięciu opinii Prokuratora Krajowego, Krajowej Rady Prokuratorów oraz właściwego prokuratora przełożonego, wyrazi zgodę na dalsze zajmowanie stanowiska przez prokuratora.
+§ 1. Do prokuratorów stosuje się odpowiednio przepisy art. 69–71, art. 73, art. 74, art. 76, art. 85 § 4, art. 94d–94g, art. 99–102 i art. 104 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przewidziane w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych uprawnienia Krajowej Rady Sądownictwa i Ministra Sprawiedliwości przysługują w stosunku do prokuratorów Prokuratorowi Generalnemu, a uprawnienia kolegiów i prezesów właściwych sądów – właściwym prokuratorom przełożonym. [§ 1a. Przeniesienie prokuratora w stan spoczynku z powodu choroby lub utraty sił następuje z dniem uprawomocnienia się orzeczenia wydanego przez lekarza orzecznika lub komisję lekarską Zakładu Ubezpieczeń Społecznych stwierdzającego trwałą niezdolność do pełnienia obowiązków prokuratora.] <§ 1a. Przeniesienie prokuratora w stan spoczynku z powodu choroby lub utraty sił następuje z dniem uprawomocnienia się orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych stwierdzającego trwałą niezdolność do pełnienia obowiązków prokuratora albo orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych wydanego w wyniku ponownego rozpatrzenia sprawy.>
+
+§ 2. Prokurator może nadal zajmować stanowisko po ukończeniu 65. roku życia, jeżeli Prokurator Generalny na wniosek prokuratora, po przedstawieniu zaświadczenia stwierdzającego, że jest zdolny ze względu na stan zdrowia do pełnienia obowiązków prokuratora, oraz po zasięgnięciu opinii Prokuratora Krajowego, Krajowej Rady Prokuratorów oraz właściwego prokuratora przełożonego, wyrazi zgodę na dalsze zajmowanie stanowiska przez prokuratora.
 
 § 3. Wniosek i zaświadczenie, o których mowa w § 2, składa się Prokuratorowi Generalnemu najpóźniej na 6 miesięcy przed ukończeniem 65. roku życia. W przypadku niezakończenia postępowania związanego z rozpoznaniem wniosku prokurator pozostaje w służbie do czasu zakończenia postępowania, w tym postępowania przed Sądem Najwyższym.
 
@@ -1765,7 +1795,11 @@ source: "isap-pdf"
 
 § 5. Na postanowienia, o których mowa w § 3 i 4, stronom przysługuje odwołanie. Na postanowienie, o którym mowa w § 3, odwołanie przysługuje również przełożonemu dyscyplinarnemu.
 
-§ 6. (uchylony) § 7. (uchylony) § 8. Przełożony dyscyplinarny może w każdym czasie uchylić zawieszenie prokuratora w czynnościach.
+§ 6. (uchylony)
+
+§ 7. (uchylony)
+
+§ 8. Przełożony dyscyplinarny może w każdym czasie uchylić zawieszenie prokuratora w czynnościach.
 
 **Art. 151.**
 
@@ -1921,7 +1955,13 @@ source: "isap-pdf"
 
 § 1. Od orzeczenia sądu dyscyplinarnego pierwszej instancji przysługuje odwołanie Prokuratorowi Generalnemu, Prokuratorowi Krajowemu, obwinionemu i rzecznikowi dyscyplinarnemu. Odwołanie powinno być rozpoznane w terminie 2 miesięcy od dnia jego wniesienia do sądu dyscyplinarnego drugiej instancji.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. (uchylony) § 5. Prokuratorowi Generalnemu doręcza się orzeczenie wraz z uzasadnieniem w każdym przypadku, gdy uzasadnienie zostało sporządzone.
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. Prokuratorowi Generalnemu doręcza się orzeczenie wraz z uzasadnieniem w każdym przypadku, gdy uzasadnienie zostało sporządzone.
 
 **Art. 163.** (uchylony)
 
@@ -1977,6 +2017,9 @@ source: "isap-pdf"
 § 3. W przypadku, gdy obwiniony popełnił dwa lub więcej przewinień dyscyplinarnych, zanim zapadło pierwsze, choćby nieprawomocne, orzeczenie co do któregokolwiek z nich, na wniosek ukaranego wydaje się orzeczenie łączne, o ile orzeczone kary podlegają łączeniu według zasad przewidzianych w § 2.
 
 **Art. 171.** W sprawach nieuregulowanych w niniejszej ustawie:
+
+- **1)** do postępowania dyscyplinarnego stosuje się odpowiednio przepisy części ogólnej ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oraz przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, z wyłączeniem art. 344a i art. 396a, z uwzględnieniem odrębności wynikających z charakteru postępowania dyscyplinarnego.
+- **2)** (uchylony)
 
 ### DZIAŁ V Asesorzy prokuratury, asystenci prokuratorów i aplikanci prokuratorscy
 

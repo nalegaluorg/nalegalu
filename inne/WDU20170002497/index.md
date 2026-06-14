@@ -8,10 +8,10 @@ pos: 2497
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2497 Załączniki do rozporządzenia Ministra Sportu i Turystyki z dnia 27 grudnia 2017 r. (poz. ……) Załącznik nr 1 WZÓR UMOWA O TURYSTYCZNY RACHUNEK POWIERNICZY w związku z działalnością wykonywaną przez organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych nr …..
 
 | Pole | Wartość |
 |---|---|
@@ -22,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-12-27 |
 | Data wydania | 2017-12-30 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002497) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2497/text.pdf) |
 
-k nr 1 ZÓR UMOWA O TURYSTYCZNY RACHUNEK POWIERNICZY w związku z działalnością wykonywaną przez organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych nr …..
 zawarta w dniu …………....................……………… pomiędzy: …………………………………………......, zwanym dalej „Bankiem”, reprezentowanym przez: ..…….………………….............................................……...........................................................
 oraz ………………………………………..................................................…………….....................
 zwanym dalej „Zleceniodawcą”, reprezentowanym przez: …………………………………………………………….........................................................., zwanymi dalej łącznie „Stronami”.
@@ -84,13 +83,14 @@ Służbowy e-mail: …..........................................
 2. Zmiana osób odpowiedzialnych za bieżącą realizację Umowy wskazanych w ust. 1 oraz adresów, numerów telefonów i faksów oraz adresów poczty elektronicznej nie wymaga zmiany Umowy. Zmiana jest skuteczna od dnia, w którym nowe dane, o których mowa w ust. 1, zostaną w sposób skuteczny doręczone Zleceniodawcy lub Bankowi, na piśmie lub drogą elektroniczną.
 § 11.
 Do Umowy, w zakresie w niej nieuregulowanym, stosuje się odpowiednio w szczególności:
-1) ustawę z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2017 r. poz. 1876 i 2361);
-2) ustawę z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132).
+1) ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876 i 2361);
+2) ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132).
 § 12.
 Umowę sporządzono w trzech jednobrzmiących egzemplarzach, po jednym dla Banku, Zleceniodawcy i Marszałka Województwa.
 ……………….....……........…………….. …………….....................……………….
-(podpis Zleceniodawcy) (podpis Banku) GWARANCJA BANKOWA w związku z działalnością wykonywaną przez organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych nr ….
-z dnia …………....................……………… § 1.
+(podpis Zleceniodawcy) (podpis Banku) Załącznik nr 2 WZÓR GWARANCJA BANKOWA w związku z działalnością wykonywaną przez organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych nr ….
+z dnia …………....................………………
+§ 1.
 …………………………………………......................................................................................, zwany dalej „Gwarantem”, reprezentowany przez: …….……………………………………………...……........................, działając na zlecenie ………………………………………………………………………….............................
 zwanego dalej „Zleceniodawcą”, reprezentowanego przez: …………………………………………………………....................., zobowiązuje się, na wypadek niewypłacalności Zleceniodawcy stwierdzonej zgodnie z § 8 niniejszej gwarancji bankowej, zwanej dalej „Gwarancją”, bezwarunkowo i niezwłocznie do:
 1) zapłaty kwoty niezbędnej na pokrycie kosztów kontynuacji imprezy turystycznej lub kosztów powrotu do kraju, obejmujących w szczególności koszty transportu i zakwaterowania, w tym także, w uzasadnionej wysokości, koszty poniesione przez podróżnych, w przypadku gdy Zleceniodawca, wbrew obowiązkowi, nie zapewnia tej kontynuacji lub tego powrotu;
@@ -105,7 +105,7 @@ o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 23
 1. Górną granicą odpowiedzialności Gwaranta z tytułu Gwarancji jest kwota ……………............…… złotych (słownie: ……………..…………………... złotych 00/100), zwana dalej „Sumą Gwarancji”, co stanowi równowartość kwoty ……………………….........………. euro (słownie: …………..……………..…………. euro) przeliczonej przy zastosowaniu kursu średniego euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym Gwarancja została wystawiona, to jest w dniu …….................................…… (1 euro = ……….. zł).
 2. Gwarant oblicza wysokość Sumy Gwarancji na podstawie dokumentów dostarczonych przez Zleceniodawcę, zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 12 ust. 1 ustawy.
 3. Zleceniodawca odpowiada za dostarczenie prawdziwych i kompletnych danych, stanowiących podstawę wyliczenia wysokości Sumy Gwarancji przez Gwaranta.
-4. Każda wypłata z Gwarancji odpowiednio zmniejsza odpowiedzialność Gwaranta z tytułu Gwarancji aż do wyczerpania Sumy Gwarancji. Dotyczy to również wypłaty dokonanej przez Gwaranta Marszałkowi Województwa w formie zaliczki przewidzianej w § 6 ust. 5, chyba że Marszałek Województwa dokonał zwrotu tej zaliczki.
+4. Każda wypłata z Gwarancji odpowiednio zmniejsza odpowiedzialność Gwaranta z tytułu Gwarancji – aż do wyczerpania Sumy Gwarancji. Dotyczy to również wypłaty dokonanej przez Gwaranta Marszałkowi Województwa w formie zaliczki przewidzianej w § 6 ust. 5, chyba że Marszałek Województwa dokonał zwrotu tej zaliczki.
 § 4.
 1. Gwarancja obowiązuje od dnia ………......................……………. do dnia ………………..........................…….
 2. Gwarancja obejmuje ochroną wszystkie umowy o udział w imprezie turystycznej w rozumieniu art. 4 pkt 3 ustawy oraz umowy o powiązane usługi turystyczne w rozumieniu art. 4 pkt 5 tej ustawy, zawarte przez Zleceniodawcę z podróżnymi, w okresie obowiązywania Gwarancji, chociażby ich wykonanie nie nastąpiło w tym okresie.
@@ -150,15 +150,16 @@ zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 12 ust. 1 ustawy.
 2. W przypadku zmiany informacji, o których mowa w ust. 1, Gwarant jest zobowiązany niezwłocznie poinformować o tej zmianie Marszałka Województwa.
 § 14.
 W sprawach nieuregulowanych w Gwarancji mają zastosowanie w szczególności przepisy:
-1) ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2017 r. poz. 1876 i 2361);
-2) ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132).
+1) ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876 i 2361);
+2) ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132).
 § 15.
 Gwarancję sporządzono w trzech jednobrzmiących egzemplarzach, po jednym dla Marszałka Województwa, Zleceniodawcy i Gwaranta.
 ……………….....……........…………….. …………….....................……………….
-(podpis Zleceniodawcy) (podpis Gwaranta) GWARANCJA UBEZPIECZENIOWA w związku z działalnością wykonywaną przez organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych nr ….
-z dnia …………....................……………… § 1.
+(podpis Zleceniodawcy) (podpis Gwaranta) Załącznik nr 3 WZÓR GWARANCJA UBEZPIECZENIOWA w związku z działalnością wykonywaną przez organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych nr ….
+z dnia …………....................………………
+§ 1.
 …………………………………………......................................................................................, zwany dalej „Gwarantem”, reprezentowany przez: …….……………………………………………………............................................................, działając na zlecenie …………………………………………………………………………......................................
-zwanego dalej „Zleceniodawcą”, reprezentowanego przez: …………………………………………………………...................., zobowiązuje się, na wypadek niewypłacalności Zleceniodawcy stwierdzonej zgodnie z § 8 niniejszej gwarancji ubezpieczeniowej, zwanej dalej „Gwarancją”, bezwarunkowo i niezwłocznie do:
+– zwanego dalej „Zleceniodawcą”, reprezentowanego przez: …………………………………………………………...................., zobowiązuje się, na wypadek niewypłacalności Zleceniodawcy stwierdzonej zgodnie z § 8 niniejszej gwarancji ubezpieczeniowej, zwanej dalej „Gwarancją”, bezwarunkowo i niezwłocznie do:
 1) zapłaty kwoty niezbędnej na pokrycie kosztów kontynuacji imprezy turystycznej lub kosztów powrotu do kraju, obejmujących w szczególności koszty transportu i zakwaterowania, w tym także, w uzasadnionej wysokości, koszty poniesione przez podróżnych, w przypadku gdy Zleceniodawca, wbrew obowiązkowi, nie zapewnia tej kontynuacji lub tego powrotu;
 2) zwrotu wpłat wniesionych tytułem zapłaty za imprezę turystyczną lub każdą opłaconą usługę przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych, w przypadku gdy z przyczyn dotyczących Zleceniodawcy lub osób, które działają w jego imieniu, impreza turystyczna lub którakolwiek opłacona usługa przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych nie została lub nie zostanie zrealizowana;
 3) zwrotu części wpłat wniesionych tytułem zapłaty za imprezę turystyczną odpowiadającą części imprezy turystycznej lub za każdą usługę opłaconą przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych odpowiadającą części usługi, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących Zleceniodawcy lub osób, które działają w ich imieniu.
@@ -214,11 +215,11 @@ zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 12 ust. 1 ustawy.
 1. Alarmowy numer telefonu Gwaranta do bezpośredniego kontaktu z Marszałkiem Województwa w przypadku wystąpienia zdarzenia objętego przedmiotem Gwarancji …………………., numer faksu …………………….., adres e-mail ………………………….
 2. W przypadku zmiany informacji, o których mowa w ust. 1, Gwarant jest zobowiązany niezwłocznie poinformować o tej zmianie Marszałka Województwa.
 § 14.
-W sprawach nieuregulowanych w Gwarancji mają zastosowanie w szczególności przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132).
+W sprawach nieuregulowanych w Gwarancji mają zastosowanie w szczególności przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132).
 § 15.
 Gwarancję sporządzono w trzech jednobrzmiących egzemplarzach, po jednym dla Marszałka Województwa, Zleceniodawcy i Gwaranta.
 ……………….....……........…………….. …………….....................……………….
-(podpis Zleceniodawcy) (podpis Gwaranta) UMOWA UBEZPIECZENIA NA RZECZ PODRÓŻNYCH w związku z działalnością wykonywaną przez organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych nr ……………………… zawarta w dniu …………………..
+(podpis Zleceniodawcy) (podpis Gwaranta) Załącznik nr 4 WZÓR UMOWA UBEZPIECZENIA NA RZECZ PODRÓŻNYCH w związku z działalnością wykonywaną przez organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych nr ……………………… zawarta w dniu …………………..
 pomiędzy: …………………………………………......................................................................................, zwanym dalej „Ubezpieczycielem”, reprezentowanym przez: …….………………….............................................…….............................................................
 oraz ………………………………………..................................................……………...................., zwanym dalej „Ubezpieczającym”, reprezentowanym przez: …………………………………………………………….........................................................
 § 1.
@@ -249,7 +250,7 @@ zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 12 ust. 2 ustawy.
 2. Ubezpieczyciel wylicza wysokość sumy ubezpieczenia na podstawie dokumentów dostarczonych przez Ubezpieczającego, zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 12 ust. 2 ustawy.
 3. Ubezpieczający ponosi odpowiedzialność za dostarczenie prawdziwych i kompletnych danych, stanowiących podstawę wyliczenia wysokości sumy ubezpieczenia przez Ubezpieczyciela.
 § 8.
-1. Wypłata środków z tytułu określonego w § 2 ust. 1 pkt 1 nastąpi bezwarunkowo i niezwłocznie po otrzymaniu każdorazowej dyspozycji Marszałka Województwa lub upoważnionej przez niego jednostki skierowanej do Ubezpieczyciela na piśmie pod rygorem nieważności dyspozycji. Kopię dyspozycji Marszałek Województwa przekazuje drogą elektroniczną lub faksem, a oryginał niezwłocznie przesyła Ubezpieczycielowi.
+1. Wypłata środków z tytułu określonego w § 2 ust. 1 pkt 1 nastąpi bezwarunkowo i niezwłocznie po otrzymaniu każdorazowej dyspozycji Marszałka Województwa lub upoważnionej przez niego jednostki skierowanej do Ubezpieczyciela na piśmie pod rygorem nieważności dyspozycji. Kopię dyspozycji Marszałek Województwa przekazuje drogą elektroniczną lub faksem, a oryginał – niezwłocznie przesyła Ubezpieczycielowi.
 2. Dyspozycja wypłaty, o której mowa w ust. 1, zawiera:
 1) wskazanie numeru Umowy ubezpieczenia, nazwy podmiotu zlecającego jej udzielenie oraz podstawy prawnej dyspozycji wypłaty;
 2) oświadczenie Marszałka Województwa o wystąpieniu odpowiednio okoliczności, o których mowa w § 2, upoważniających do dyspozycji wypłaty środków z tytułu Umowy ubezpieczenia;

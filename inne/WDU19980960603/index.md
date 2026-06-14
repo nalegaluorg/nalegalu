@@ -8,7 +8,7 @@ pos: 603
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa
@@ -60,7 +60,41 @@ source: "isap-pdf"
 
 **Art. 3.** Siedzibą wojewody i sejmiku województwa są:
 
+- **1)** w województwie dolnośląskim – wojewody i sejmiku województwa – Wrocław,
+- **2)** w województwie kujawsko-pomorskim – wojewody – Bydgoszcz, sejmiku województwa – Toruń,
+- **3)** w województwie lubelskim – wojewody i sejmiku województwa – Lublin,
+- **4)** w województwie lubuskim – wojewody – Gorzów Wielkopolski, sejmiku województwa – Zielona Góra,
+- **5)** w województwie łódzkim – wojewody i sejmiku województwa – Łódź,
+- **6)** w województwie małopolskim – wojewody i sejmiku województwa – Kraków,
+- **7)** w województwie mazowieckim – wojewody i sejmiku województwa – Warszawa,
+- **8)** w województwie opolskim – wojewody i sejmiku województwa – Opole,
+- **9)** w województwie podkarpackim – wojewody i sejmiku województwa – Rzeszów,
+- **10)** w województwie podlaskim – wojewody i sejmiku województwa – Białystok,
+- **11)** w województwie pomorskim – wojewody i sejmiku województwa – Gdańsk,
+- **12)** w województwie śląskim – wojewody i sejmiku województwa – Katowice,
+- **13)** w województwie świętokrzyskim – wojewody i sejmiku województwa – Kielce,
+- **14)** w województwie warmińsko-mazurskim – wojewody i sejmiku województwa – Olsztyn,
+- **15)** w województwie wielkopolskim – wojewody i sejmiku województwa – Poznań,
+- **16)** w województwie zachodniopomorskim – wojewody i sejmiku województwa – Szczecin.
+
 **Art. 4.** Nazwą urzędu wojewody jest:
+
+- **1)** w województwie dolnośląskim – „Wojewoda Dolnośląski”,
+- **2)** w województwie kujawsko-pomorskim – „Wojewoda Kujawsko-Pomorski”,
+- **3)** w województwie lubelskim – „Wojewoda Lubelski”,
+- **4)** w województwie lubuskim – „Wojewoda Lubuski”,
+- **5)** w województwie łódzkim – „Wojewoda Łódzki”,
+- **6)** w województwie małopolskim – „Wojewoda Małopolski”,
+- **7)** w województwie mazowieckim – „Wojewoda Mazowiecki”,
+- **8)** w województwie opolskim – „Wojewoda Opolski”,
+- **9)** w województwie podkarpackim – „Wojewoda Podkarpacki”,
+- **10)** w województwie podlaskim – „Wojewoda Podlaski”,
+- **11)** w województwie pomorskim – „Wojewoda Pomorski”,
+- **12)** w województwie śląskim – „Wojewoda Śląski”,
+- **13)** w województwie świętokrzyskim – „Wojewoda Świętokrzyski”,
+- **14)** w województwie warmińsko-mazurskim – „Wojewoda Warmińsko-Mazurski”,
+- **15)** w województwie wielkopolskim – „Wojewoda Wielkopolski”,
+- **16)** w województwie zachodniopomorskim – „Wojewoda Zachodniopomorski”.
 
 **Art. 5.** (utracił moc).
 

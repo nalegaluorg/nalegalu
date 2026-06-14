@@ -8,10 +8,10 @@ pos: 1124
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 lipca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1124 ROZPORZĄDZENIE MINISTRA EDUKACJI z dnia 24 lipca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001124) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1124/text.pdf) |
 
-Poz. 1124 ROZPORZĄDZENIE MINISTRA EDUKACJI z dnia 24 lipca 2024 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego Na podstawie art. 44zzza ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750 i 854) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 21 grudnia 2016 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego (Dz. U. z 2023 r. poz. 2537) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego Na podstawie art. 44zzza ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750 i 854) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 21 grudnia 2016 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu maturalnego (Dz. U. z 2023 r. poz. 2537) wprowadza się następujące zmiany:
 1) w § 33:
 a) ust. 2 otrzymuje brzmienie: „2. Uczeń lub absolwent składa deklarację nie później niż do dnia 7 lutego roku szkolnego, w którym zamierza przystąpić do egzaminu maturalnego, z zastrzeżeniem § 34 ust. 2.”,
 b) uchyla się ust. 3;

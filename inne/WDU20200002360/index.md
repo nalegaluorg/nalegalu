@@ -8,10 +8,10 @@ pos: 2360
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2360 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 16 grudnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002360) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2360/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 16 grudnia 2020 r.
-w sprawie programu pilotażowego dotyczącego kompleksowych badań patomorfologicznych JGPato Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa program pilotażowy dotyczący kompleksowych badań patomorfologicznych JGPato, zwany dalej „programem pilotażowym”.
+w sprawie programu pilotażowego dotyczącego kompleksowych badań patomorfologicznych JGPato Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa program pilotażowy dotyczący kompleksowych badań patomorfologicznych JGPato, zwany dalej „programem pilotażowym”.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) badanie biopsyjne badanie materiału tkankowego (histopatologiczne) lub cytologicznego (cytopatologiczne lub cytologiczne) pobranego w celu ustalenia rozpoznania i podjęcia decyzji o ewentualnym leczeniu;
-2) badanie metodą mikroskopii elektronowej badanie ultrastruktury komórek i tkanek za pomocą mikroskopu elektronowego;
-3) badanie molekularne badanie z materiału tkankowego lub cytologicznego wykonane technikami biologii molekularnej, pozwalające na określenie cech swoistych komórek, które są istotne dla postawienia rozpoznania patomorfologicznego lub stanowią czynniki prognostyczne lub predykcyjne;
-4) badanie patomorfologiczne określony zakres czynności mających na celu ustalenie rozpoznania patomorfologicznego, obejmujący:
+1) badanie biopsyjne – badanie materiału tkankowego (histopatologiczne) lub cytologicznego (cytopatologiczne lub cytologiczne) pobranego w celu ustalenia rozpoznania i podjęcia decyzji o ewentualnym leczeniu;
+2) badanie metodą mikroskopii elektronowej – badanie ultrastruktury komórek i tkanek za pomocą mikroskopu elektronowego;
+3) badanie molekularne – badanie z materiału tkankowego lub cytologicznego wykonane technikami biologii molekularnej, pozwalające na określenie cech swoistych komórek, które są istotne dla postawienia rozpoznania patomorfologicznego lub stanowią czynniki prognostyczne lub predykcyjne;
+4) badanie patomorfologiczne – określony zakres czynności mających na celu ustalenie rozpoznania patomorfologicznego, obejmujący:
 a) pobranie materiału komórkowego (aspirat, rozmaz) lub tkankowego (oligobioptat, wycinek, materiał operacyjny),
 b) utrwalenie, jeżeli jest wymagane,
 c) transport do zakładu patomorfologicznego,
@@ -41,26 +41,26 @@ f) ocenę mikroskopową,
 g) wykonanie badań dodatkowych, w tym histo- i immunohistochemicznych lub z zakresu technik biologii molekularnej, jeżeli jest wymagane,
 h) ustalenie pełnego rozpoznania patomorfologicznego (ekspertyza),
 i) zarchiwizowanie badania patomorfologicznego i dokumentacji, zgodnie z rozporządzeniem w sprawie standardów;
-5) badanie pooperacyjne badanie materiału pobranego w czasie procedury zabiegowej i przesłanego w celu wykonania badania patomorfologicznego, które może obejmować w szczególności narząd lub narządy, fragmenty narządu lub usuniętą zmianę oraz może zawierać materiał nieonkologiczny i onkologiczny, klasyfikowane zgodnie ze szczegółową charakterystyką JGPato, określoną w załączniku nr 3 do rozporządzenia, w odniesieniu do poszczególnych grup JGPato;
-6) badanie sekcyjne badanie zwłok obejmujące oględziny zewnętrzne oraz otwarcie jam ciała, połączone z badaniem makroskopowym narządów wewnętrznych i pobraniem materiału tkankowego do oceny mikroskopowej w celu ustalenia pełnego rozpoznania patomorfologicznego oraz określenia przyczyny zgonu, klasyfikowane zgodnie ze szczegółową charakterystyką JGPato dla grupy 9, określonej w załączniku nr 3 do rozporządzenia;
-7) badanie śródoperacyjne (intra) badanie narządu, fragmentu narządu lub tkanki wykonane podczas trwania zabiegu operacyjnego, składające się z oceny makroskopowej i mikroskopowej, zakończone rozpoznaniem patomorfologicznym z materiału badania śródoperacyjnego przekazanym na salę operacyjną w trakcie zabiegu operacyjnego, klasyfikowane zgodnie ze szczegółową charakterystyką JGPato dla grupy 7, określonej w załączniku nr 3 do rozporządzenia;
-8) barwienie histochemiczne wykrywanie substancji chemicznych w komórkach i tkankach, którego następstwem jest reakcja barwna oceniana mikroskopowo;
-9) JGPato Jednorodne Grupy Patomorfologiczne model sprawozdawczo-finansowy diagnostyki patomorfologicznej obejmujący grupy badań podobnego materiału tkankowego, jednorodne kosztowo i podobne pod względem zakresu czynności diagnostycznych;
-10) kompleksowe badanie patomorfologiczne badanie, które zawiera wszystkie niezbędne elementy pozwalające na podjęcie właściwych decyzji terapeutycznych;
-11) materiał cytologiczny materiał cytologiczny w rozumieniu § 1 pkt 3 rozporządzenia w sprawie standardów;
-12) materiał duży zespół narządów lub narząd, lub fragment narządu, lub fragment tkankowy, którego największy wymiar przekracza 5 cm, lub pofragmentowany materiał tkankowy, którego objętość przekracza 250 ml;
-13) materiał mały fragment narządu lub fragment tkankowy, którego największy wymiar nie przekracza lub jest równy 5 cm, lub pofragmentowany materiał tkankowy, którego objętość nie przekracza lub wynosi 250 ml;
-14) materiał tkankowy materiał tkankowy w rozumieniu § 1 pkt 4 rozporządzenia w sprawie standardów;
-15) monitorowanie programu pilotażowego zbieranie i analizowanie informacji prowadzone przez cały okres realizacji programu pilotażowego, w celu zarządzania programem pilotażowym, w tym weryfikacji prawidłowości i adekwatności JGPato w stosunku do świadczeń opieki zdrowotnej realizowanych w ramach programu pilotażowego;
-16) odczyn immunohistochemiczny badanie polegające na wykryciu i lokalizacji składników komórek i tkanek, oparte na zasadzie reakcji antygen-przeciwciało, którego następstwem jest reakcja barwna, oceniana mikroskopowo w preparacie histopatologicznym;
-17) powtórne badanie patomorfologiczne przeprowadzone w jednostce uczestniczącej w programie pilotażowym niezbędne uzupełnienie niepełnego rozpoznania patomorfologicznego;
-18) preparat cytologiczny preparat cytologiczny w rozumieniu § 1 pkt 9 rozporządzenia w sprawie standardów występujący w postaci fizycznej lub postaci cyfrowej;
-19) preparat histopatologiczny preparat histopatologiczny w rozumieniu § 1 pkt 10 rozporządzenia w sprawie standardów występujący w postaci fizycznej lub postaci cyfrowej;
-20) rozpoznanie patomorfologiczne rozpoznanie patomorfologiczne w rozumieniu § 1 pkt 13 rozporządzenia w sprawie standardów;
-21) tryb wykonania badania czas, w którym jest możliwe wykonanie kompleksowego badania patomorfologicznego (od chwili przyjęcia materiału cytologicznego lub tkankowego i zlecenia w zakładzie albo pracowni patomorfologii do wydania wyniku autoryzowanego przez lekarza specjalistę w dziedzinie patomorfologii);
-22) współczynnik korygujący współczynnik w rozumieniu § 1 pkt 16 załącznika do rozporządzenia Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U.
+5) badanie pooperacyjne – badanie materiału pobranego w czasie procedury zabiegowej i przesłanego w celu wykonania badania patomorfologicznego, które może obejmować w szczególności narząd lub narządy, fragmenty narządu lub usuniętą zmianę oraz może zawierać materiał nieonkologiczny i onkologiczny, klasyfikowane zgodnie ze szczegółową charakterystyką JGPato, określoną w załączniku nr 3 do rozporządzenia, w odniesieniu do poszczególnych grup JGPato;
+6) badanie sekcyjne – badanie zwłok obejmujące oględziny zewnętrzne oraz otwarcie jam ciała, połączone z badaniem makroskopowym narządów wewnętrznych i pobraniem materiału tkankowego do oceny mikroskopowej w celu ustalenia pełnego rozpoznania patomorfologicznego oraz określenia przyczyny zgonu, klasyfikowane zgodnie ze szczegółową charakterystyką JGPato dla grupy 9, określonej w załączniku nr 3 do rozporządzenia;
+7) badanie śródoperacyjne (intra) – badanie narządu, fragmentu narządu lub tkanki wykonane podczas trwania zabiegu operacyjnego, składające się z oceny makroskopowej i mikroskopowej, zakończone rozpoznaniem patomorfologicznym z materiału badania śródoperacyjnego przekazanym na salę operacyjną w trakcie zabiegu operacyjnego, klasyfikowane zgodnie ze szczegółową charakterystyką JGPato dla grupy 7, określonej w załączniku nr 3 do rozporządzenia;
+8) barwienie histochemiczne – wykrywanie substancji chemicznych w komórkach i tkankach, którego następstwem jest reakcja barwna oceniana mikroskopowo;
+9) JGPato – Jednorodne Grupy Patomorfologiczne – model sprawozdawczo-finansowy diagnostyki patomorfologicznej obejmujący grupy badań podobnego materiału tkankowego, jednorodne kosztowo i podobne pod względem zakresu czynności diagnostycznych;
+10) kompleksowe badanie patomorfologiczne – badanie, które zawiera wszystkie niezbędne elementy pozwalające na podjęcie właściwych decyzji terapeutycznych;
+11) materiał cytologiczny – materiał cytologiczny w rozumieniu § 1 pkt 3 rozporządzenia w sprawie standardów;
+12) materiał duży – zespół narządów lub narząd, lub fragment narządu, lub fragment tkankowy, którego największy wymiar przekracza 5 cm, lub pofragmentowany materiał tkankowy, którego objętość przekracza 250 ml;
+13) materiał mały – fragment narządu lub fragment tkankowy, którego największy wymiar nie przekracza lub jest równy 5 cm, lub pofragmentowany materiał tkankowy, którego objętość nie przekracza lub wynosi 250 ml;
+14) materiał tkankowy – materiał tkankowy w rozumieniu § 1 pkt 4 rozporządzenia w sprawie standardów;
+15) monitorowanie programu pilotażowego – zbieranie i analizowanie informacji prowadzone przez cały okres realizacji programu pilotażowego, w celu zarządzania programem pilotażowym, w tym weryfikacji prawidłowości i adekwatności JGPato w stosunku do świadczeń opieki zdrowotnej realizowanych w ramach programu pilotażowego;
+16) odczyn immunohistochemiczny – badanie polegające na wykryciu i lokalizacji składników komórek i tkanek, oparte na zasadzie reakcji antygen-przeciwciało, którego następstwem jest reakcja barwna, oceniana mikroskopowo w preparacie histopatologicznym;
+17) powtórne badanie patomorfologiczne – przeprowadzone w jednostce uczestniczącej w programie pilotażowym niezbędne uzupełnienie niepełnego rozpoznania patomorfologicznego;
+18) preparat cytologiczny – preparat cytologiczny w rozumieniu § 1 pkt 9 rozporządzenia w sprawie standardów występujący w postaci fizycznej lub postaci cyfrowej;
+19) preparat histopatologiczny – preparat histopatologiczny w rozumieniu § 1 pkt 10 rozporządzenia w sprawie standardów występujący w postaci fizycznej lub postaci cyfrowej;
+20) rozpoznanie patomorfologiczne – rozpoznanie patomorfologiczne w rozumieniu § 1 pkt 13 rozporządzenia w sprawie standardów;
+21) tryb wykonania badania – czas, w którym jest możliwe wykonanie kompleksowego badania patomorfologicznego (od chwili przyjęcia materiału cytologicznego lub tkankowego i zlecenia w zakładzie albo pracowni patomorfologii do wydania wyniku autoryzowanego przez lekarza specjalistę w dziedzinie patomorfologii);
+22) współczynnik korygujący – współczynnik w rozumieniu § 1 pkt 16 załącznika do rozporządzenia Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U.
 z 2020 r. poz. 320, 437, 547, 696, 1548 i 2305);
-23) zakład patomorfologii zakład patomorfologii w rozumieniu § 1 pkt 15 rozporządzenia w sprawie standardów.
+23) zakład patomorfologii – zakład patomorfologii w rozumieniu § 1 pkt 15 rozporządzenia w sprawie standardów.
 § 3. Celem głównym programu pilotażowego jest ocena wpływu elementów jakościowych na skuteczność diagnostyki patomorfologicznej.
 § 4. Celami szczegółowymi programu pilotażowego są:
 1) podniesienie jakości procesu diagnostyczno-leczniczego przez zapewnienie kompletnej diagnostyki patomorfologicznej;
@@ -82,15 +82,15 @@ z 2020 r. poz. 320, 437, 547, 696, 1548 i 2305);
 4) gromadzenie danych dotyczących elementów składowych i procesów realizowanych dla pojedynczego kompleksowego badania patomorfologicznego, określonych w załączniku nr 1 do rozporządzenia, w sposób wskazany w tabeli A i w tabeli B tego załącznika, zgodnie z charakterystyką JGPato określoną w załączniku nr 3 do rozporządzenia, oraz pozostałych danych, o których mowa w art. 31lc ust. 2 pkt 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą”.
 4. Etap ewaluacji programu pilotażowego obejmuje:
 1) comiesięczną analizę danych, o których mowa w:
-a) ust. 3 pkt 3 przez Fundusz,
-b) ust. 3 pkt 4 przez Agencję Oceny Technologii Medycznych i Taryfikacji, zwaną dalej „Agencją”;
+a) ust. 3 pkt 3 – przez Fundusz,
+b) ust. 3 pkt 4 – przez Agencję Oceny Technologii Medycznych i Taryfikacji, zwaną dalej „Agencją”;
 2) sporządzenie przez:
-a) Fundusz raportu z realizacji programu pilotażowego uwzględniającego cele określone w § 3 i § 4 pkt 1–3,
-b) Agencję raportu z realizacji programu pilotażowego uwzględniającego cele szczegółowe, o których mowa w § 4 pkt 4 i 5.
+a) Fundusz – raportu z realizacji programu pilotażowego uwzględniającego cele określone w § 3 i § 4 pkt 1–3,
+b) Agencję – raportu z realizacji programu pilotażowego uwzględniającego cele szczegółowe, o których mowa w § 4 pkt 4 i 5.
 § 6. 1. Realizatorami pilotażu są świadczeniodawcy wymienieni w wykazie określonym w załączniku nr 4 do rozporządzenia, pod warunkiem zawarcia z Funduszem umowy na realizację programu pilotażowego, o której mowa w § 5 ust. 2 pkt 1.
 2. Warunkiem zawarcia umowy na realizację programu pilotażowego jest:
 1) spełnienie przez świadczeniodawcę wskazanego w załączniku nr 4 do rozporządzenia warunków realizacji programu pilotażowego, określonych w załączniku nr 2 do rozporządzenia;
-2) wyrażenie przez świadczeniodawcę zgody na udział w spotkaniach szkoleniowych lub roboczych organizowanych
+2) wyrażenie przez świadczeniodawcę zgody na udział w spotkaniach szkoleniowych lub roboczych organizowanych przez Agencję, Fundusz oraz urząd obsługujący ministra właściwego do spraw zdrowia.
 3. Realizatorzy programu pilotażowego są obowiązani do:
 1) comiesięcznego przekazywania Funduszowi, w postaci elektronicznej, danych dotyczących każdego badania patomorfologicznego, służących do wyliczenia wskaźników, o których mowa w § 10, z zastrzeżeniem że w przypadku badania z grupy 9 JGPato, określonej w załączniku nr 3 do rozporządzenia, przekazanie danych dotyczy wyłącznie świadczeniodawców, którzy w okresie do 6 miesięcy przed dniem zgonu świadczeniobiorcy zrealizowali przynajmniej jedno świadczenie opieki zdrowotnej, w ramach których wykonano badanie objęte jedną z grup 1–8 JGPato, określoną w załączniku nr 3 do rozporządzenia;
 2) przekazywania na wniosek Agencji danych służących do wyliczenia wskaźników, o których mowa w § 10, oraz danych, o których mowa w § 5 ust. 3 pkt 4;
@@ -107,12 +107,13 @@ a) liczba dni od dnia pobrania materiału cytologicznego lub tkankowego od świa
 b) liczba dni od dnia dostarczenia materiału cytologicznego lub tkankowego zakładowi patomorfologicznemu do dnia autoryzacji rozpoznania patomorfologicznego, ze szczególnym uwzględnieniem materiału cytologicznego lub tkankowego pobranego z biopsji, materiału cytologicznego oraz pooperacyjnego,
 c) liczba dni od dnia autoryzacji rozpoznania patomorfologicznego do dnia jego przekazania do zlecającego badanie,
 d) czas oczekiwania na wynik badania molekularnego;
-2) liczba i odsetek w odniesieniu do wszystkich badań patomorfologicznych wykonanych u świadczeniodawcy w okresie realizacji programu pilotażowego:
+2) liczba i odsetek – w odniesieniu do wszystkich badań patomorfologicznych wykonanych u świadczeniodawcy w okresie realizacji programu pilotażowego:
 a) badań patomorfologicznych wykonanych zgodnie z wytycznymi opracowania materiału cytologicznego lub tkankowego, o którym mowa w § 2 rozporządzenia w sprawie standardów,
 b) prawidłowych rozpoznań patomorfologicznych,
 c) powtórnych badań patomorfologicznych,
 d) badań w poszczególnych grupach JGPato, określonych w załączniku nr 3 do rozporządzenia,
-e) poszczególnych rozpoznań patomorfologicznych według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10 w ramach poszczególnej grupy JGPato, określonej w załączniku nr 3 do rozf) badań biopsyjnych,
+e) poszczególnych rozpoznań patomorfologicznych według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10 w ramach poszczególnej grupy JGPato, określonej w załączniku nr 3 do rozporządzenia,
+f) badań biopsyjnych,
 g) badań cytologicznych,
 h) badań pooperacyjnych,
 i) badań śródoperacyjnych,
@@ -132,14 +133,14 @@ v) badań molekularnych wykonanych w ramach poszczególnych skierowań na te bad
 w) preparatów cytologicznych wykonanych w ramach jednego skierowania na badanie patomorfologiczne.
 § 11. 1. Pomiar wskaźników, o których mowa w § 10, odbywa się na podstawie danych przekazywanych przez realizatora programu pilotażowego do Funduszu.
 2. Pomiar wskaźników określonych w § 10 pkt 1 odbywa się z uwzględnieniem następujących trybów wykonania badania:
-1) tryb normalny 9 dni roboczych dla dużego materiału lub 5 dni roboczych dla badań materiału małego tkankowego bez badań dodatkowych, lub 2 dni robocze dla materiału cytologicznego,
-2) tryb pilny 6 dni roboczych dla dużego materiału lub 2 dni robocze dla badań materiału małego tkankowego bez badań dodatkowych, lub 1 dzień dla materiału cytologicznego,
-3) tryb bardzo pilny 1 dzień roboczy dla badań małego materiału tkankowego bez badań dodatkowych lub 12 godzin dla materiału cytologicznego nie ma zastosowania dla badania materiału pooperacyjnego w przypadku badań dodatkowych czas wydłuża się o 1 dzień roboczy dla barwień histochemicznych lub 2 dni robocze dla odczynów immunohistochemicznych.
+1) tryb normalny – 9 dni roboczych dla dużego materiału lub 5 dni roboczych dla badań materiału małego tkankowego bez badań dodatkowych, lub 2 dni robocze dla materiału cytologicznego,
+2) tryb pilny – 6 dni roboczych dla dużego materiału lub 2 dni robocze dla badań materiału małego tkankowego bez badań dodatkowych, lub 1 dzień dla materiału cytologicznego,
+3) tryb bardzo pilny – 1 dzień roboczy dla badań małego materiału tkankowego bez badań dodatkowych lub 12 godzin dla materiału cytologicznego – nie ma zastosowania dla badania materiału pooperacyjnego – w przypadku badań dodatkowych czas wydłuża się o 1 dzień roboczy dla barwień histochemicznych lub 2 dni robocze dla odczynów immunohistochemicznych.
 § 12. Kopie raportów, o których mowa w § 5 ust. 4 pkt 2, są przekazywane niezwłocznie ministrowi właściwemu do spraw zdrowia, jednak nie później niż w terminie 2 miesięcy po zakończeniu okresu realizacji programu pilotażowego.
 § 13. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski WYKAZ ŚWIADCZENIODAWCÓW
+Minister Zdrowia: A. Niedzielski Załączniki do rozporządzenia Ministra Zdrowia z dnia 16 grudnia 2020 r. (poz. …) Załączniknr 1 Elementyskładowei ELEMENTY SKŁADOWE procesyrealizowane I PROCESY REALIZOWANE dlapojedynczego DLA POJEDYNCZEGO kompleksowego KOMPLEKSOWEGO badania patomorfologicznego BADANIA PATOMORFOLOGICZNEGO Tabela A. Elementy składowe pojedynczego kompleksowego badania patomorfologicznego Tabela B. Procesy realizowane w pojedynczym kompleksowym badaniu patomorfologicznym Załączniknr3 CHARAKTERYSTYKA CHARAKTERYSTYKA JGPATO JGPATO WYKAZ ŚWIADCZENIODAWCÓW
 1) 4 Wojskowy Szpital Kliniczny z Polikliniką Samodzielny Publiczny Zakład Opieki Zdrowotnej we Wrocławiu;
-2) Beskidzkie Centrum Onkologii Szpital Miejski im. Jana Pawła II w Bielsku-Białej;
+2) Beskidzkie Centrum Onkologii – Szpital Miejski im. Jana Pawła II w Bielsku-Białej;
 3) Białostockie Centrum Onkologii im. Marii Skłodowskiej-Curie w Białymstoku;
 4) Centrum Onkologii im. prof. Franciszka Łukaszczyka w Bydgoszczy;
 5) Centrum Onkologii Ziemi Lubelskiej im. św. Jana z Dukli;
@@ -151,9 +152,9 @@ Minister Zdrowia: A. Niedzielski WYKAZ ŚWIADCZENIODAWCÓW
 11) Katowickie Centrum Onkologii;
 12) Kliniczny Szpital Wojewódzki Nr 1 im. Fryderyka Chopina w Rzeszowie;
 13) Kujawsko-Pomorskie Centrum Pulmonologii w Bydgoszczy;
-14) Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie Państwowy Instytut Badawczy oddział w Gliwicach;
-15) Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie Państwowy Instytut Badawczy oddział w Krakowie;
-16) Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie Państwowy Instytut Badawczy oddział w Warszawie;
+14) Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy oddział w Gliwicach;
+15) Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy oddział w Krakowie;
+16) Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy oddział w Warszawie;
 17) Szpital Kliniczny im. Heliodora Święcickiego Uniwersytetu Medycznego im. Karola Marcinkowskiego w Poznaniu;
 18) Szpital Kliniczny Przemienienia Pańskiego Uniwersytetu Medycznego im. Karola Marcinkowskiego w Poznaniu;
 19) Samodzielny Publiczny Centralny Szpital Kliniczny w Warszawie;
@@ -164,7 +165,7 @@ Minister Zdrowia: A. Niedzielski WYKAZ ŚWIADCZENIODAWCÓW
 24) Samodzielny Publiczny Szpital Kliniczny Nr 1 w Lublinie;
 25) Samodzielny Publiczny Zakład Opieki Zdrowotnej Centralny Szpital Kliniczny Uniwersytetu Medycznego w Łodzi;
 26) Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Uniwersytecki w Krakowie;
-27) Samodzielny Publiczny Zakład Opieki Zdrowotnej Uniwersytecki Szpital Kliniczny im. Wojskowej Akademii Medycznej Uniwersytetu Medycznego w Łodzi Centralny Szpital Weteranów;
+27) Samodzielny Publiczny Zakład Opieki Zdrowotnej Uniwersytecki Szpital Kliniczny im. Wojskowej Akademii Medycznej Uniwersytetu Medycznego w Łodzi – Centralny Szpital Weteranów;
 28) Szpital Specjalistyczny Chorób Płuc „Odrodzenie” im. Klary Jelskiej;
 29) Szpital Specjalistyczny w Brzozowie Podkarpacki Ośrodek Onkologiczny im. ks. B. Markiewicza;
 30) Szpital Specjalistyczny w Prabutach Spółka z ograniczoną odpowiedzialnością;

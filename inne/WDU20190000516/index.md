@@ -8,10 +8,10 @@ pos: 516
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 marca 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 516 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 14 marca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000516) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/516/text.pdf) |
 
-Poz. 516 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 14 marca 2019 r.
-w sprawie ustalenia ogólnej kwoty połowowej dobijaka oraz tobiasza na rok 2019 Na podstawie art. 48 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2018 r. poz. 514, 650, 2245 i 2340) zarządza się, co następuje: § 1. Ustala się ogólną kwotę połowową na rok 2019 dla podobszarów 22–32 Morza Bałtyckiego:
+w sprawie ustalenia ogólnej kwoty połowowej dobijaka oraz tobiasza na rok 2019 Na podstawie art. 48 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2018 r. poz. 514, 650, 2245 i 2340) zarządza się, co następuje:
+§ 1. Ustala się ogólną kwotę połowową na rok 2019 dla podobszarów 22–32 Morza Bałtyckiego:
 1) dobijaka – w wysokości 500 000 kg;
 2) tobiasza – w wysokości 500 000 kg.
 § 2. Rozporządzenie stosuje się od dnia 1 stycznia 2019 r.

@@ -8,7 +8,7 @@ pos: 1728
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Policji oraz niektórych innych ustaw
@@ -29,6 +29,10 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360, 956, 1610, 2112 i 2320 oraz z 2021 r. poz. 1005) wprowadza się następujące zmiany:
 
+- **1)** w art. 7 w ust. 1 pkt 5 otrzymuje brzmienie: „5) kryteria zdrowotne i użytkowe doboru psów i koni do realizacji zadań Policji, sposób szkolenia przewodników psów służbowych i kandydatów na przewodników psów służbowych oraz policjantów-jeźdźców i kandydatów na policjantów-jeźdźców oraz szkolenia psów służbowych i koni służbowych, tryb i sposób przekazywania psów służbowych i koni służbowych między jednostkami organizacyjnymi Policji, sposób prowadzenia ewidencji psów służbowych i ewidencji koni służbowych oraz tryb i sposób współpracy między jednostkami organizacyjnymi Policji w trakcie realizacji nadzoru nad sposobem sprawowania opieki nad psami służbowymi i końmi służbowymi;”;
+- **2)** w art. 14 po ust. 5b dodaje się ust. 5c w brzmieniu: „5c. W celu realizacji zadań, o których mowa w art. 1 ust. 2 pkt 1, 2 i 3a– 4a, Policja może używać psów służbowych lub koni służbowych.”;
+- **3)** po rozdziale 10c dodaje się rozdział 10d w brzmieniu: „Rozdział 10d Psy służbowe i konie służbowe
+
 **Art. 145l.**
 
 1. Do użycia w Policji psy i konie dobiera się w taki sposób, aby spełniały kryteria zdrowotne i użytkowe, o których mowa w przepisach wydanych na podstawie art. 7 ust. 1 pkt 5, zapewniające przydatność zwierzęcia do użycia go w celu realizacji zadań, o których mowa w art. 1 ust. 2 pkt 1, 2 i 3a– 4a.
@@ -40,6 +44,12 @@ source: "isap-pdf"
 4. Psy służbowe wycofane z użycia i konie służbowe wycofane z użycia pozostają na stanie jednostki organizacyjnej Policji, o której mowa w ust. 3, albo jednostki organizacyjnej Policji wskazanej przez Komendanta Głównego Policji.
 
 **Art. 145m.** Opiekunem psa służbowego lub opiekunem konia służbowego jest odpowiednio:
+
+- **1)** przewodnik – policjant, któremu przydzielono pod opiekę psa służbowego i który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 7 ust. 1 pkt 5;
+- **2)** kandydat na przewodnika – policjant, któremu przydzielono pod opiekę psa służbowego i którego wytypowano lub skierowano po raz pierwszy na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 7 ust. 1 pkt 5;
+- **3)** policjant-jeździec – policjant, któremu przydzielono pod opiekę konia służbowego i który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 7 ust. 1 pkt 5;
+- **4)** kandydat na policjanta-jeźdźca – policjant, któremu przydzielono pod opiekę konia służbowego i którego wytypowano lub skierowano po raz pierwszy na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 7 ust. 1 pkt 5;
+- **5)** pracownik Policji wykonujący czynności służbowe z użyciem danego zwierzęcia lub w zakresie opieki nad nim.
 
 **Art. 145n.**
 
@@ -66,6 +76,11 @@ source: "isap-pdf"
 11. Opiekunem psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa w art. 145v ust. 1 pkt 1 lub 2. Do organizacji, o której mowa w ust. 9, zdanie pierwsze stosuje się.
 
 **Art. 145o.** Opiekun psa służbowego, opiekun konia służbowego, opiekun psa służbowego wycofanego z użycia i opiekun konia służbowego wycofanego z użycia, zwani dalej „opiekunem”, oraz organizacja, o której mowa w art. 145n ust. 9, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
+
+- **1)** racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
 
 **Art. 145p.**
 
@@ -105,6 +120,10 @@ source: "isap-pdf"
 6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest kierownik jednostki organizacyjnej Policji, na której stanie znajduje się zwierzę. W przypadku odbywania szkolenia przez psa służbowego w szkole policyjnej właściwy w sprawach, o których mowa w ust. 1–4, jest komendant szkoły policyjnej.
 
 **Art. 145r.** Opiekunowi oraz organizacji, o której mowa w art. 145n ust. 9, zabrania się:
+
+- **1)** zbywania zwierzęcia;
+- **2)** rozmnażania zwierzęcia, z wyjątkiem psów będących na stanie szkoły policyjnej;
+- **3)** wykorzystywania zwierzęcia w celach zarobkowych.
 
 **Art. 145s.**
 
@@ -157,9 +176,24 @@ source: "isap-pdf"
 
 **Art. 145w.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** tryb przydzielania opiekunowi psa służbowego i konia służbowego,
+- **2)** tryb rekrutacji kandydatów, którzy mogą zostać opiekunami psów służbowych wycofanych z użycia i koni służbowych wycofanych z użycia,
+- **3)** tryb wycofywania z użycia psa służbowego i konia służbowego,
+- **4)** sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych, koni służbowych, psów służbowych wycofanych z użycia i koni służbowych wycofanych z użycia,
+- **5)** sposób wyżywienia, wysokość normy wyżywienia psa służbowego i konia służbowego oraz normy wyżywienia psa służbowego wycofanego z użycia i konia służbowego wycofanego z użycia, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia,
+- **6)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia,
+- **7)** tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia,
+- **8)** sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi, końmi służbowymi, psami służbowymi wycofanymi z użycia lub końmi służbowymi wycofanymi z użycia,
+- **9)** tryb odbierania psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 145n ust. 9,
+- **10)** wzory dokumentów stosowanych w tych sprawach – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem psa służbowego lub konia służbowego, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych, prawidłowego dokumentowania realizowanych czynności oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierząt jest uzależniona od wagi, okresu roku i zadań wykonywanych przez psa służbowego, okresu roku i zadań wykonywanych przez konia służbowego, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).”.
+
 **Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 372) w dziale III dodaje się rozdział 8 w brzmieniu: „Rozdział 8 Psy i konie w Siłach Zbrojnych
 
 **Art. 136a.** W celu realizacji zadań, o których mowa w art. 3 ust. l–2b niniejszej ustawy i art. 4 ust. 1 pkt 2–4 i 5–8 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2021 r. poz. 1214), lub w celach reprezentacyjnych Siły Zbrojne mogą używać:
+
+- **1)** psów służbowych – psów będących własnością Skarbu Państwa, znajdujących się na stanie jednostki wojskowej, w której są używane;
+- **2)** psów kontraktowych – psów stanowiących własność żołnierza pełniącego czynną służbę wojskową, dobranych do użycia w jednostce wojskowej na podstawie kontraktu zawartego między tym żołnierzem a jednostką wojskową, w której psy są używane w trakcie trwania kontraktu i znajdujących się na stanie jednostki wojskowej, w której są używane;
+- **3)** koni służbowych – koni będących własnością Skarbu Państwa, znajdujących się na stanie jednostki wojskowej, w której są używane.
 
 **Art. 136b.**
 
@@ -176,6 +210,12 @@ source: "isap-pdf"
 6. Psy służbowe, psy kontraktowe i konie służbowe ujmuje się w ewidencji określonej w przepisach wydanych na podstawie art. 136n.
 
 **Art. 136c.** Opiekunem psa służbowego, opiekunem psa kontraktowego lub opiekunem konia służbowego jest odpowiednio:
+
+- **1)** przewodnik – żołnierz lub pracownik Sił Zbrojnych, któremu przydzielono pod opiekę psa służbowego i który ukończył szkolenie i uzyskał pozytywną ocenę z egzaminu końcowego;
+- **2)** kandydat na przewodnika – żołnierz lub pracownik Sił Zbrojnych, któremu przydzielono pod opiekę psa służbowego i którego skierowano po raz pierwszy na szkolenie;
+- **3)** właściciel – żołnierz pełniący czynną służbę wojskową, który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 136n, z którym zawarto kontrakt, na podstawie którego jednostka wojskowa używa psa w trakcie trwania kontraktu;
+- **4)** żołnierz-jeździec – żołnierz, któremu przydzielono pod opiekę konia służbowego i który ukończył szkolenie i uzyskał pozytywną ocenę z egzaminu końcowego;
+- **5)** kandydat na żołnierza-jeźdźca – żołnierz, któremu przydzielono pod opiekę konia służbowego i którego skierowano po raz pierwszy na szkolenie.
 
 **Art. 136d.**
 
@@ -198,6 +238,11 @@ source: "isap-pdf"
 9. Opiekunem psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa w art. 136m ust. 1 pkt 1 lub 2. Do organizacji, o której mowa w ust. 7, zdanie pierwsze stosuje się.
 
 **Art. 136e.** Opiekun psa służbowego, opiekun konia służbowego, opiekun psa służbowego wycofanego z użycia i opiekun konia służbowego wycofanego z użycia, zwani dalej „opiekunem”, oraz organizacja, o której mowa w art. 136d ust. 7, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
+
+- **1)** racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
 
 **Art. 136f.**
 
@@ -301,7 +346,28 @@ source: "isap-pdf"
 
 **Art. 136n.** Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
+- **1)** jednostki organizacyjne właściwe do prowadzenia szkolenia kandydatów na przewodników psów służbowych, przewodników psów służbowych i psów służbowych, właścicieli psów kontraktowych i psów kontraktowych oraz kandydatów na żołnierzy-jeźdźców, żołnierzy-jeźdźców i koni służbowych, a także rodzaje szkoleń i sposób szkolenia,
+- **2)** termin ważności upoważnienia i atestu, o których mowa w art. 136b ust. 3, oraz sposób ich przedłużania,
+- **3)** wymagania zdrowotne i użytkowe psów i koni zapewniające przydatność do użycia w Siłach Zbrojnych,
+- **4)** tryb nabywania, przekazywania i wycofywania z użycia w Siłach Zbrojnych psów służbowych i koni służbowych, podmiot właściwy do nabywania lub pokrywania kosztów tego nabycia oraz sposób prowadzenia ewidencji psów służbowych i ewidencji koni służbowych,
+- **5)** tryb pozyskiwania psów kontraktowych oraz sposób prowadzenia ewidencji psów kontraktowych,
+- **6)** wzór kontraktu, o którym mowa w art. 136a pkt 2,
+- **7)** sposób znakowania zakwalifikowanych do służby psów służbowych, psów kontraktowych i koni służbowych oraz wzory dowodu tożsamości psa służbowego, psa kontraktowego oraz dowodu tożsamości konia służbowego,
+- **8)** sposób utrzymania i używania psów służbowych, psów kontraktowych i koni służbowych w Siłach Zbrojnych,
+- **9)** zakres opieki lekarsko-weterynaryjnej nad psami służbowymi, psami kontraktowymi, końmi służbowymi, psami służbowymi wycofanymi z użycia, psami kontraktowymi wycofanymi z użycia, które przez okres co najmniej pięciu lat trwania kontraktu były używane w jednostce wojskowej, i końmi służbowymi wycofanymi z użycia i tryb udzielania zgody na leczenie tych zwierząt w zakładach leczniczych dla zwierząt innych niż zakłady podległe Ministrowi Obrony Narodowej oraz sposób sprawowania nadzoru nad psami służbowymi, psami kontraktowymi, końmi służbowymi oraz psami służbowymi wycofanymi z użycia, psami kontraktowymi wycofanymi z użycia, które przez okres co najmniej pięciu lat trwania kontraktu były używane w jednostce wojskowej, i końmi służbowymi wycofanymi z użycia,
+- **10)** tryb odbierania psa służbowego, konia służbowego, psa służbowego wycofanego z użycia i konia służbowego wycofanego z użycia opiekunowi oraz organizacji, o której mowa w art. 136d ust. 7,
+- **11)** sposób żywienia, wysokość normy wyżywienia dla psa służbowego, psa kontraktowego i konia służbowego oraz normy wyżywienia dla psa służbowego wycofanego z użycia, psa kontraktowego wycofanego z użycia, który przez okres co najmniej pięciu lat trwania kontraktu był używany w jednostce wojskowej, i konia służbowego wycofanego z użycia, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na żywienie zwierząt,
+- **12)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego, psa kontraktowego lub konia służbowego, psa służbowego wycofanego z użycia, psa kontraktowego wycofanego z użycia, który przez okres co najmniej pięciu lat trwania kontraktu był używany w jednostce wojskowej, i konia służbowego wycofanego z użycia, a także sposób ustalania wysokości tego ryczałtu,
+- **13)** tryb pokrywania kosztów zabiegów profilaktycznych i leczenia psa służbowego, psa kontraktowego, konia służbowego, psa służbowego wycofanego z użycia, psa kontraktowego wycofanego z użycia, który przez okres co najmniej pięciu lat trwania kontraktu był używany w jednostce wojskowej, lub konia służbowego wycofanego z użycia, w tym kosztów produktów leczniczych,
+- **14)** wzór upoważnienia i atestu, o których mowa w art. 136b ust. 3,
+- **15)** wzór protokołu odebrania opiekunowi lub organizacji, o której mowa w art. 136d ust. 7, psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia,
+- **16)** wzory protokołów wycofania psa służbowego i wycofania konia służbowego z użycia w Siłach Zbrojnych – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem psa służbowego, psa kontraktowego lub konia służbowego, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierząt jest uzależniona od wagi zwierząt, okresu roku oraz warunków realizacji zadań przez te zwierzęta, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).”.
+
 **Art. 3.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486) wprowadza się następujące zmiany:
+
+- **1)** w art. 9 w ust. 7 pkt 7 otrzymuje brzmienie: „7) kryteria zdrowotne i użytkowe doboru psów i koni do realizacji zadań Straży Granicznej, sposób szkolenia przewodników psów służbowych i kandydatów na przewodników psów służbowych oraz jeźdźców i kandydatów na jeźdźców oraz szkolenia psów służbowych i koni służbowych, sposób i tryb przekazywania psów służbowych i koni służbowych między jednostkami organizacyjnymi Straży Granicznej, sposób prowadzenia ewidencji psów służbowych i ewidencji koni służbowych oraz sposób i tryb współpracy między jednostkami organizacyjnymi Straży Granicznej w trakcie realizacji nadzoru nad sposobem sprawowania opieki nad psami służbowymi i końmi służbowymi;”;
+- **2)** w art. 11 po ust. 1d dodaje się ust. 1e w brzmieniu: „1e. W celu realizacji zadań, o których mowa w art. 1 ust. 2 pkt 1, 2, 2a lit. a–c, pkt 4, 5–5b, 5d oraz 12 i 13, Straż Graniczna może używać psów służbowych lub koni służbowych.”;
+- **3)** po rozdziale 14c dodaje się rozdział 14d w brzmieniu: „Rozdział 14d Psy służbowe i konie służbowe
 
 **Art. 147w.**
 
@@ -314,6 +380,13 @@ source: "isap-pdf"
 4. Psy służbowe wycofane z użycia i konie służbowe wycofane z użycia pozostają na stanie jednostki organizacyjnej Straży Granicznej, o której mowa w ust. 3, albo jednostki organizacyjnej Straży Granicznej wskazanej przez Komendanta Głównego Straży Granicznej.
 
 **Art. 147x.** Opiekunem psa służbowego lub opiekunem konia służbowego jest odpowiednio:
+
+- **1)** przewodnik – funkcjonariusz, któremu przydzielono pod opiekę psa służbowego i który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 9 ust. 7 pkt 7;
+- **2)** kandydat na przewodnika – funkcjonariusz, któremu przydzielono pod opiekę psa służbowego i którego wytypowano lub skierowano po raz pierwszy na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 9 ust. 7 pkt 7;
+- **3)** jeździec – funkcjonariusz, któremu przydzielono pod opiekę konia służbowego i który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 9 ust. 7 pkt 7;
+- **4)** kandydat na jeźdźca – funkcjonariusz, któremu przydzielono pod opiekę konia służbowego i którego wytypowano lub skierowano po raz pierwszy na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 9 ust. 7 pkt 7;
+- **5)** przechowawca – podmiot, z którym zawarto umowę dotyczącą przechowywania koni służbowych;
+- **6)** pomocnik przewodnika – funkcjonariusz wykonujący zadania w zakresie opieki nad psem służbowym w przypadku, gdy zadań tych nie może wykonywać przewodnik.
 
 **Art. 147y.**
 
@@ -431,6 +504,9 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2020 r. poz. 1123, 1610 i 2112 oraz z 2021 r. poz. 464) wprowadza się następujące zmiany:
 
+- **1)** art. 20a otrzymuje brzmienie: „Art. 20a. Państwowa Straż Pożarna może używać w akcjach ratowniczych psów.”;
+- **2)** po rozdziale 11 dodaje się rozdział 11a w brzmieniu: „Rozdział 11a Psy w Państwowej Straży Pożarnej
+
 **Art. 124o.**
 
 1. Do użycia w Państwowej Straży Pożarnej psy dobiera się w taki sposób, aby spełniały kryteria zdrowotne i użytkowe określone w przepisach wydanych na podstawie art. 124z, zapewniające przydatność zwierzęcia do użycia w akcjach ratowniczych.
@@ -448,6 +524,10 @@ source: "isap-pdf"
 5. Psy służbowe wycofane z użycia pozostają na stanie jednostki organizacyjnej Państwowej Straży Pożarnej, w której są używane, albo jednostki wskazanej przez Komendanta Głównego Państwowej Straży Pożarnej.
 
 **Art. 124p.** Opiekunem psa używanego w Państwowej Straży Pożarnej jest odpowiednio:
+
+- **1)** w przypadku psa służbowego – strażak, któremu przydzielono pod opiekę psa służbowego i którego skierowano na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 124z;
+- **2)** w przypadku psa kontraktowego – właściciel psa kontraktowego – strażak, który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 124z, z którym zawarto kontrakt i od którego jednostka organizacyjna Państwowej Straży Pożarnej pozyskała zwierzę do użycia w okresie trwania kontraktu;
+- **3)** w przypadku innego psa – osoba fizyczna, która ukończyła szkolenie, o którym mowa w przepisach wydanych na podstawie art. 124z, z którą zawarto umowę cywilnoprawną, będąca członkiem podmiotu włączonego do krajowego systemu ratowniczo-gaśniczego lub z którym zawarto umowę cywilnoprawną, o której mowa w przepisach wydanych na podstawie art. 14 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
 
 **Art. 124q.**
 
@@ -474,6 +554,11 @@ source: "isap-pdf"
 11. Opiekunem psa służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa w art. 124y ust. 1 pkt 1 lub 2. Do organizacji, o której mowa w ust. 9, zdanie pierwsze stosuje się.
 
 **Art. 124r.** Opiekun psa służbowego, opiekun psa służbowego wycofanego z użycia, opiekun psa kontraktowego, opiekun psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w Państwowej Straży Pożarnej, oraz organizacja, o której mowa w art. 124q ust. 9, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
+
+- **1)** racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
 
 **Art. 124s.**
 
@@ -512,6 +597,10 @@ source: "isap-pdf"
 6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, na której stanie znajduje się zwierzę, a w przypadku psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w Państwowej Straży Pożarnej – kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, w której pies był używany.
 
 **Art. 124u.** Opiekunowi psa służbowego, opiekunowi psa służbowego wycofanego z użycia, opiekunowi psa kontraktowego oraz organizacji, o której mowa w art. 124q ust. 9, zabrania się:
+
+- **1)** zbywania zwierzęcia;
+- **2)** rozmnażania zwierzęcia;
+- **3)** wykorzystywania zwierzęcia w celach zarobkowych.
 
 **Art. 124v.**
 
@@ -569,9 +658,37 @@ source: "isap-pdf"
 
 **Art. 124z.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** rasy psów, które mogą być używane w Państwowej Straży Pożarnej,
+- **2)** kryteria zdrowotne i użytkowe doboru psów do realizacji zadań Państwowej Straży Pożarnej,
+- **3)** specjalności ratownicze psów używanych w Państwowej Straży Pożarnej,
+- **4)** sposób szkolenia psów używanych w Państwowej Straży Pożarnej i ich opiekunów,
+- **5)** kwalifikacje egzaminatorów, tryb egzaminowania psów używanych w Państwowej Straży Pożarnej i ich opiekunów oraz testowania psów używanych w Państwowej Straży Pożarnej,
+- **6)** tryb pozyskiwania psów służbowych i psów kontraktowych,
+- **7)** tryb przydzielania psa służbowego,
+- **8)** tryb rekrutacji kandydatów, którzy mogą zostać opiekunami psów służbowych wycofanych z użycia,
+- **9)** tryb wycofywania z użycia psa służbowego,
+- **10)** sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych, psów służbowych wycofanych z użycia, psów kontraktowych i psów kontraktowych wycofanych z użycia, które przez okres co najmniej 5 lat trwania kontraktu były używane w Państwowej Straży Pożarnej,
+- **11)** sposób wyżywienia, wysokość normy wyżywienia psa służbowego i psa kontraktowego oraz normy wyżywienia psa służbowego wycofanego z użycia i psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w Państwowej Straży Pożarnej, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie psa,
+- **12)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego, psa służbowego wycofanego z użycia, psa kontraktowego i psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w Państwowej Straży Pożarnej,
+- **13)** tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego, psa służbowego wycofanego z użycia, psa kontraktowego i psa kontraktowego wycofanego z użycia, który przez okres co najmniej 5 lat trwania kontraktu był używany w Państwowej Straży Pożarnej,
+- **14)** sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi, psami służbowymi wycofanymi z użycia, psami kontraktowymi i psami kontraktowymi wycofanymi z użycia, które przez okres co najmniej 5 lat trwania kontraktu były używane w Państwowej Straży Pożarnej,
+- **15)** tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 124q ust. 9,
+- **16)** wzory dokumentów stosowanych w tych sprawach – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem zwierzęcia, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych, prawidłowego dokumentowania realizowanych czynności oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia jest uzależniona od wagi, okresu roku i zadań wykonywanych przez psa służbowego, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).”.
+
 **Art. 5.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2020 r. poz. 638 oraz z 2021 r. poz. 1718) w art. 17 ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, minimalne warunki utrzymywania poszczególnych gatunków zwierząt wykorzystywanych do celów rozrywkowych, widowiskowych, filmowych, sportowych i specjalnych, mając na względzie zapewnienie im właściwej opieki.”.
 
 **Art. 6.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) określenie kryteriów zdrowotnych i użytkowych doboru, w tym cech przydatności, psów w Służbie Więziennej oraz sposobów ich używania;”;
+- **2)** w art. 18 w ust. 1 w pkt 3 wyrazy „psów specjalnych” zastępuje się wyrazami „psów służbowych”;
+- **3)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. W celu realizacji zadań, o których mowa w art. 2 ust. 2 pkt 5 i 6, Służba Więzienna może używać psów służbowych.”;
+- **4)** w art. 19 dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadkach określonych w art. 11 pkt 6 i 11 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej psy służbowe mogą być użyte w wyznaczonych rejonach jednostki organizacyjnej, o której mowa w art. 8 ust. 1 pkt 3, zorganizowanej na zasadach określonych w art. 70 § 1 pkt 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy.
+
+5. Wyznaczony rejon jest wyposażony w tablice ostrzegawcze informujące o zakazie wstępu i zabezpieczony przed nieuprawnionym wejściem.”;
+
+- **5)** w art. 208 w ust. 1 pkt 1 otrzymuje brzmienie: „1) opiece nad psem służbowym,”;
+- **6)** użyte w art. 208a w ust. 2 w pkt 1, w pkt 2 dwukrotnie, w ust. 3 oraz w ust. 4 w pkt 1–3, w różnej liczbie i różnym przypadku, wyrazy „pies specjalny lub służbowy” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „pies służbowy”;
+- **7)** po rozdziale 21 dodaje się rozdział 21a w brzmieniu: „Rozdział 21a Psy służbowe
 
 **Art. 264a.**
 
@@ -614,6 +731,11 @@ source: "isap-pdf"
 
 **Art. 264d.** Opiekun psa służbowego lub opiekun psa służbowego wycofanego z użycia, zwani dalej „opiekunem”, oraz organizacja, o której mowa w art. 264c ust. 7, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
 
+- **1)** racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
+
 **Art. 264e.**
 
 1. Żywienie psa służbowego i psa służbowego wycofanego z użycia jest dostosowane do potrzeb jego organizmu, wagi, wieku, stanu zdrowia, warunków klimatycznych, funkcji fizjologicznych oraz wysiłku fizycznego lub wskazań lekarza weterynarii.
@@ -651,6 +773,10 @@ source: "isap-pdf"
 6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest kierownik jednostki organizacyjnej Służby Więziennej, na której stanie znajduje się zwierzę. W przypadku odbywania szkolenia przez psa służbowego w jednostce organizacyjnej Służby Więziennej wyznaczonej przez Dyrektora Generalnego do szkolenia psów służbowych, właściwy w sprawach, o których mowa w ust. 4 i 5, jest kierownik tej jednostki organizacyjnej.
 
 **Art. 264g.** Opiekunowi oraz organizacji, o której mowa w art. 264c ust. 7, zabrania się:
+
+- **1)** zbywania zwierzęcia;
+- **2)** rozmnażania zwierzęcia;
+- **3)** wykorzystywania zwierzęcia w celach zarobkowych.
 
 **Art. 264h.**
 
@@ -701,7 +827,21 @@ source: "isap-pdf"
 
 **Art. 264l.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
+- **1)** tryb przydzielania opiekunowi psa służbowego,
+- **2)** tryb wycofywania psa służbowego z użycia,
+- **3)** sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych i psów służbowych wycofanych z użycia,
+- **4)** sposób wyżywienia, wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia,
+- **5)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia,
+- **6)** tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego lub psa służbowego wycofanego z użycia,
+- **7)** sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi oraz psami służbowymi wycofanymi z użycia,
+- **8)** tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 264c ust. 7,
+- **9)** wzory dokumentów stosowanych w tych sprawach – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem psa służbowego, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych, prawidłowego dokumentowania realizowanych czynności oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia jest uzależniona od wagi, okresu roku i zadań wykonywanych przez psa służbowego, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).”.
+
 **Art. 7.** W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2021 r. poz. 575) wprowadza się następujące zmiany:
+
+- **1)** w art. 14 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) określenie kryteriów zdrowotnych i użytkowych doboru psów do realizacji zadań SOP, sposobu szkolenia przewodników psów służbowych, kandydatów na przewodników psów służbowych i szkolenia psów służbowych oraz sposób prowadzenia ewidencji psów służbowych;”;
+- **2)** w art. 19 dodaje się ust. 4 w brzmieniu: „4. W celu realizacji zadań, o których mowa w art. 3 pkt 1 i 2, SOP może używać psów służbowych.”;
+- **3)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „Rozdział 9a Psy służbowe
 
 **Art. 245a.**
 
@@ -712,6 +852,9 @@ source: "isap-pdf"
 3. Psy służbowe i psy służbowe wycofane z użycia znajdują się na stanie SOP.
 
 **Art. 245b.** Opiekunem psa służbowego jest odpowiednio:
+
+- **1)** przewodnik – funkcjonariusz, któremu przydzielono pod opiekę psa służbowego i który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 14 pkt 3a;
+- **2)** kandydat na przewodnika – funkcjonariusz, któremu przydzielono pod opiekę psa służbowego i którego wytypowano lub skierowano po raz pierwszy na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 14 pkt 3a.
 
 **Art. 245c.**
 
@@ -734,6 +877,11 @@ source: "isap-pdf"
 9. Opiekunem psa służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa w art. 245k ust. 1 pkt 1 lub 2. Do organizacji, o której mowa w ust. 7, zdanie pierwsze stosuje się.
 
 **Art. 245d.** Opiekun psa służbowego oraz opiekun psa służbowego wycofanego z użycia, zwani dalej „opiekunem”, oraz organizacja, o której mowa w art. 245c ust. 7, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
+
+- **1)** racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
 
 **Art. 245e.**
 
@@ -773,6 +921,10 @@ source: "isap-pdf"
 6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest Komendant SOP.
 
 **Art. 245g.** Opiekunowi oraz organizacji, o której mowa w art. 245c ust. 7, zabrania się:
+
+- **1)** zbywania zwierzęcia;
+- **2)** rozmnażania zwierzęcia;
+- **3)** wykorzystywania zwierzęcia w celach zarobkowych.
 
 **Art. 245h.**
 
@@ -819,7 +971,24 @@ source: "isap-pdf"
 
 **Art. 245l.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** tryb przydzielania opiekunowi psa służbowego,
+- **2)** tryb rekrutacji kandydatów, którzy mogą zostać opiekunami psów służbowych wycofanych z użycia,
+- **3)** tryb wycofywania z użycia psa służbowego,
+- **4)** sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych oraz psów służbowych wycofanych z użycia,
+- **5)** sposób wyżywienia, wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia,
+- **6)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia,
+- **7)** tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego lub psa służbowego wycofanego z użycia,
+- **8)** sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi oraz psami służbowymi wycofanymi z użycia,
+- **9)** tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 245c ust. 7,
+- **10)** wzory dokumentów stosowanych w tych sprawach – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem psa służbowego, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych, prawidłowego dokumentowania realizowanych czynności oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia jest uzależniona od wagi, okresu roku i zadań wykonywanych przez psa służbowego, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).”.
+
 **Art. 8.** W ustawie z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2019 r. poz. 1940) wprowadza się następujące zmiany:
+
+- **1)** po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. 1. W celu realizacji zadań, o których mowa w art. 2 ust. 1 pkt 1, 2 i 6, Straż Marszałkowska może używać psów służbowych.
+
+2. Komendant Straży Marszałkowskiej określi kryteria zdrowotne i użytkowe doboru psów do realizacji zadań Straży Marszałkowskiej, sposób szkolenia przewodników psów służbowych oraz kandydatów na przewodników, sposób szkolenia psów służbowych, a także sposób prowadzenia ewidencji psów służbowych.”;
+
+- **2)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „Rozdział 8a Psy służbowe
 
 **Art. 140a.**
 
@@ -830,6 +999,9 @@ source: "isap-pdf"
 3. Psy służbowe i psy służbowe wycofane z użycia znajdują się na stanie Straży Marszałkowskiej.
 
 **Art. 140b.** Opiekunem psa służbowego jest odpowiednio:
+
+- **1)** przewodnik – funkcjonariusz Straży Marszałkowskiej, któremu przydzielono pod opiekę psa służbowego i który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 11a ust. 2;
+- **2)** kandydat na przewodnika – funkcjonariusz Straży Marszałkowskiej, któremu przydzielono pod opiekę psa służbowego i którego wytypowano lub skierowano po raz pierwszy na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 11a ust. 2.
 
 **Art. 140c.**
 
@@ -852,6 +1024,11 @@ source: "isap-pdf"
 9. Opiekunem psa służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa w art. 140k ust. 1 pkt 1 lub 2. Do organizacji, o której mowa w ust. 7, zdanie pierwsze stosuje się.
 
 **Art. 140d.** Opiekun psa służbowego, opiekun psa służbowego wycofanego z użycia, zwani dalej „opiekunem”, oraz organizacja, o której mowa w art. 140c ust. 7, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
+
+- **1)** racjonalne żywienie i stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
 
 **Art. 140e.**
 
@@ -884,13 +1061,17 @@ source: "isap-pdf"
 
 3. W przypadku wystąpienia sytuacji nagłej, o której mowa w ust. 2, należy niezwłocznie poinformować o zaistniałej sytuacji i zakresie udzielonej pomocy lekarsko-weterynaryjnej Komendanta Straży Marszałkowskiej lub osobę przez niego upoważnioną.
 
-4. Koszty zabiegów profilaktycznych i leczenia psa służbowego oraz psa służbowego wycofanego z użycia, w tym koszty lekarstw, pokrywa się ze środków budżetowych Kancelarii na podstawie faktury.
+4. Koszty zabiegów profilaktycznych i leczenia psa służbowego oraz psa służbowego wycofanego z użycia, w tym koszty lekarstw, pokrywa się ze środków budżetowych Kancelarii Sejmu na podstawie faktury.
 
-5. Koszt utylizacji zwłok psa służbowego oraz psa służbowego wycofanego z użycia pokrywa się ze środków budżetowych Kancelarii na podstawie faktury.
+5. Koszt utylizacji zwłok psa służbowego oraz psa służbowego wycofanego z użycia pokrywa się ze środków budżetowych Kancelarii Sejmu na podstawie faktury.
 
 6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest Komendant Straży Marszałkowskiej.
 
 **Art. 140g.** Opiekunowi oraz organizacji, o której mowa w art. 140c ust. 7, zabrania się:
+
+- **1)** zbywania zwierzęcia;
+- **2)** rozmnażania zwierzęcia;
+- **3)** wykorzystywania zwierzęcia w celach zarobkowych.
 
 **Art. 140h.**
 
@@ -935,7 +1116,19 @@ source: "isap-pdf"
 
 4. W przypadku czasowego braku możliwości sprawowania opieki nad psem służbowym przez opiekuna Komendant Straży Marszałkowskiej może wyznaczyć czasowego opiekuna psa służbowego. Do czasowego opiekuna stosuje się odpowiednio przepisy dotyczące opiekuna psa służbowego, z zastrzeżeniem, że ryczałt na pokrycie kosztów wyżywienia zwierzęcia wypłaca się co miesiąc z góry, proporcjonalnie do okresu sprawowania opieki nad psem służbowym.
 
-**Art. 140l.** Marszałek określi, w drodze zarządzenia:
+**Art. 140l.** Marszałek Sejmu określi, w drodze zarządzenia:
+
+- **1)** tryb pozyskiwania psów służbowych,
+- **2)** tryb rekrutacji kandydatów, którzy mogą zostać opiekunami psów służbowych wycofanych z użycia,
+- **3)** tryb przydzielania opiekunowi psa służbowego,
+- **4)** tryb wycofywania z użycia psa służbowego,
+- **5)** sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych oraz psów służbowych wycofanych z użycia,
+- **6)** sposób wyżywienia, wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia,
+- **7)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia,
+- **8)** tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego lub psa służbowego wycofanego z użycia,
+- **9)** sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi oraz psami służbowymi wycofanymi z użycia,
+- **10)** tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 140c ust. 7,
+- **11)** wzory dokumentów stosowanych w tych sprawach – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem psa służbowego, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych, prawidłowego dokumentowania realizowanych czynności, oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia jest uzależniona od wagi, okresu roku i zadań wykonywanych przez psa służbowego, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).”.
 
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 17 ust. 8 ustawy zmienianej w art. 5 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 17 ust. 8 ustawy zmienianej w art. 5 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 

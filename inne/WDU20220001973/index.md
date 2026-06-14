@@ -8,10 +8,10 @@ pos: 1973
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 września 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1973 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 14 września 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001973) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1973/text.pdf) |
 
-Poz. 1973 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 14 września 2022 r.
-w sprawie sposobu i trybu kierowania żołnierzy aktywnej rezerwy w podróż służbową, delegowania, kierowania na kurs lub szkolenie oraz przenoszenia ich do innej jednostki wojskowej Na podstawie art. 246 ust. 5 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb:
+w sprawie sposobu i trybu kierowania żołnierzy aktywnej rezerwy w podróż służbową, delegowania, kierowania na kurs lub szkolenie oraz przenoszenia ich do innej jednostki wojskowej Na podstawie art. 246 ust. 5 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb:
 1) kierowania żołnierzy aktywnej rezerwy, zwanych dalej „żołnierzami AR”, w podróż służbową;
 2) delegowania żołnierzy AR do wykonywania zadań poza jednostką wojskową lub w innej jednostce wojskowej;
 3) kierowania żołnierzy AR na kurs lub szkolenie;

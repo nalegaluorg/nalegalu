@@ -58,6 +58,7 @@ saos_id|date|court|case_number|type|score|saos_url
 532151|2025-06-24|SO|V ACa 685/24|Wyrok|56|https://www.saos.org.pl/judgments/532151
 531519|2024-11-12|SO|I AGa 80/24|Wyrok|56|https://www.saos.org.pl/judgments/531519
 534109|2024-10-07|SO|I ACa 151/22|Wyrok|56|https://www.saos.org.pl/judgments/534109
+546811|2024-06-27|SO|I AGa 114/24|Wyrok|56|https://www.saos.org.pl/judgments/546811
 495042|2024-01-10|SO|I AGa 318/22|Wyrok|56|https://www.saos.org.pl/judgments/495042
 495144|2023-10-26|SO|I AGa 91/22|Wyrok|56|https://www.saos.org.pl/judgments/495144
 495055|2023-07-04|SO|I AGa 329/22|Wyrok|56|https://www.saos.org.pl/judgments/495055
@@ -326,6 +327,7 @@ saos_id|date|court|case_number|type|score|saos_url
 136456|2012-12-21|SO|I ACz 856/12|Postanowienie|47|https://www.saos.org.pl/judgments/136456
 492975|2012-07-17|SO|V ACz 464/12|Postanowienie|47|https://www.saos.org.pl/judgments/492975
 434336|2021-02-10|SO|I ACa 91/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/434336
+545273|2026-02-04|SO|I C 741/24|Wyrok|40|https://www.saos.org.pl/judgments/545273
 539670|2025-12-04|SO|I C 657/25|Wyrok|40|https://www.saos.org.pl/judgments/539670
 528182|2025-06-04|SO|I C 127/25|Wyrok|40|https://www.saos.org.pl/judgments/528182
 524802|2025-02-28|SO|I C 76/23|Wyrok|40|https://www.saos.org.pl/judgments/524802
@@ -684,6 +686,8 @@ saos_id|date|court|case_number|type|score|saos_url
 248198|2016-02-23|SO|II Ca 1451/15|Postanowienie|31|https://www.saos.org.pl/judgments/248198
 33808|2013-01-24|SO|III C 491/12|Postanowienie|31|https://www.saos.org.pl/judgments/33808
 543448|2026-02-25|SO|I C 2/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/543448
+545536|2025-10-06|SO|VII C 1348/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/545536
+545255|2024-12-05|SO|I C 133/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/545255
 496181|2024-08-29|SO|I C 160/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/496181
 536439|2024-06-03|SO|III Ca 1493/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/536439
 499173|2024-05-21|SO|I C 72/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/499173

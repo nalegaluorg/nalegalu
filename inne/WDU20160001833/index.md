@@ -8,10 +8,10 @@ pos: 1833
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1833 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 listopada 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001833) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1833/text.pdf) |
 
-Poz. 1833 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 listopada 2016 r.
-w sprawie wprowadzenia i odwołania czasu letniego środkowoeuropejskiego w latach 2017–2021 Na podstawie art. 3 ustawy z dnia 10 grudnia 2003 r. o czasie urzędowym na obszarze Rzeczypospolitej Polskiej (Dz. U. z 2004 r. poz. 144) zarządza się, co następuje: § 1. 1. Czas letni środkowoeuropejski wprowadza się:
+w sprawie wprowadzenia i odwołania czasu letniego środkowoeuropejskiego w latach 2017–2021 Na podstawie art. 3 ustawy z dnia 10 grudnia 2003 r. o czasie urzędowym na obszarze Rzeczypospolitej Polskiej (Dz. U. z 2004 r. poz. 144) zarządza się, co następuje:
+§ 1. 1. Czas letni środkowoeuropejski wprowadza się:
 1) w 2017 r. – dnia 26 marca,
 2) w 2018 r. – dnia 25 marca,
 3) w 2019 r. – dnia 31 marca,

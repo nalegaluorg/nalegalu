@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 28 listopada 2003 r. o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw*
 
-Łącznie: **61** orzeczeń
+Łącznie: **63** orzeczeń
 (pominięto 14 orzeczeń sądów rejonowych)
 
 ## art. 1 (14)
@@ -105,9 +105,11 @@ Orzeczenia powołujące: *Ustawa z dnia 28 listopada 2003 r. o zmianie ustawy o 
 
 - 2012-10-16 | TK | [K 4/10](https://www.saos.org.pl/judgments/110900) | Wyrok ★
 
-## (ogólnie) (24)
+## (ogólnie) (26)
 
 - 2011-09-15 | SN | [II CSK 728/10](https://www.saos.org.pl/judgments/95726) | Wyrok ★
+- 2026-02-02 | SO | [I ACa 3947/24](https://www.saos.org.pl/judgments/546885) | Wyrok
+- 2025-11-26 | SO | [I ACa 236/23](https://www.saos.org.pl/judgments/546052) | Wyrok
 - 2021-06-02 | SO | [I ACa 128/20](https://www.saos.org.pl/judgments/444900) | Wyrok
 - 2015-06-25 | SO | [I ACa 1890/14](https://www.saos.org.pl/judgments/170075) | Wyrok
 - 2014-11-13 | SO | [I ACa 522/14](https://www.saos.org.pl/judgments/129300) | Wyrok

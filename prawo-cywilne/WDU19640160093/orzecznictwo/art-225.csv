@@ -222,6 +222,8 @@ saos_id|date|court|case_number|type|score|saos_url
 164107|2006-02-28|SN|III CZP 3/06|Postanowienie|69|https://www.saos.org.pl/judgments/164107
 163603|2005-10-13|SN|I CK 162/05|Postanowienie|69|https://www.saos.org.pl/judgments/163603
 163005|2005-02-18|SN|V CZ 183/04|Postanowienie|69|https://www.saos.org.pl/judgments/163005
+545235|2026-03-30|SO|V ACa 662/17|Wyrok|56|https://www.saos.org.pl/judgments/545235
+546256|2025-12-22|SO|I ACa 1848/22|Wyrok|56|https://www.saos.org.pl/judgments/546256
 538668|2025-11-27|SO|I ACa 1268/25|Wyrok|56|https://www.saos.org.pl/judgments/538668
 544448|2025-11-20|SO|I ACa 951/25|Wyrok|56|https://www.saos.org.pl/judgments/544448
 538173|2025-10-29|SO|I ACa 1145/23|Wyrok|56|https://www.saos.org.pl/judgments/538173
@@ -230,6 +232,7 @@ saos_id|date|court|case_number|type|score|saos_url
 533646|2025-07-11|SO|I ACa 2116/24|Wyrok|56|https://www.saos.org.pl/judgments/533646
 542424|2025-06-10|SO|I ACa 647/20|Wyrok|56|https://www.saos.org.pl/judgments/542424
 525479|2025-04-01|SO|I ACa 1554/24|Wyrok|56|https://www.saos.org.pl/judgments/525479
+545979|2025-03-31|SO|I ACa 1580/24|Wyrok|56|https://www.saos.org.pl/judgments/545979
 525482|2025-03-05|SO|I ACa 2000/23|Wyrok|56|https://www.saos.org.pl/judgments/525482
 536152|2025-01-31|SO|I AGa 318/24|Wyrok|56|https://www.saos.org.pl/judgments/536152
 533521|2024-11-12|SO|I ACa 1099/22|Wyrok|56|https://www.saos.org.pl/judgments/533521
@@ -1756,6 +1759,7 @@ saos_id|date|court|case_number|type|score|saos_url
 483311|2022-11-18|SO|XV Ca 292/22|Postanowienie|31|https://www.saos.org.pl/judgments/483311
 512857|2022-09-09|SO|VIII Ns 147/20|Postanowienie|31|https://www.saos.org.pl/judgments/512857
 462684|2022-01-11|SO|VIII Ns 262/20|Postanowienie|31|https://www.saos.org.pl/judgments/462684
+547060|2021-11-10|SO|II Ca 3192/19|Postanowienie|31|https://www.saos.org.pl/judgments/547060
 450687|2021-03-12|SO|II Ns 1894/12|Postanowienie|31|https://www.saos.org.pl/judgments/450687
 429235|2020-12-04|SO|II Ca 359/20|Postanowienie|31|https://www.saos.org.pl/judgments/429235
 423471|2020-10-29|SO|I Ns 505/18|Postanowienie|31|https://www.saos.org.pl/judgments/423471

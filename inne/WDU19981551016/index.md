@@ -8,7 +8,7 @@ pos: 1016
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu Mając na względzie: – zachowanie pamięci o ogromie ofiar, strat i szkód poniesionych przez Naród Polski w latach II wojny światowej i po jej zakończeniu, – patriotyczne tradycje zmagań Narodu Polskiego z okupantami, nazizmem i komunizmem, – czyny obywateli dokonywane na rzecz niepodległego bytu Państwa Polskiego i w obronie wolności oraz godności ludzkiej, – obowiązek ścigania zbrodni przeciwko pokojowi, ludzkości i zbrodni wojennych, – a także powinność zadośćuczynienia przez nasze państwo wszystkim pokrzywdzonym przez państwo łamiące prawa człowieka, jako wyraz naszego przekonania, że żadne bezprawne działania państwa przeciwko obywatelom nie mogą być chronione tajemnicą ani nie mogą ulec zapomnieniu – stanowi się, co następuje:
@@ -32,6 +32,25 @@ Art. 56–67. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
+
+- **1)** ewidencjonowanie, gromadzenie, przechowywanie, opracowywanie, zabezpieczenie, udostępnianie i publikowanie dokumentów organów bezpieczeństwa państwa, wytworzonych oraz gromadzonych od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r., a także organów bezpieczeństwa Trzeciej Rzeszy Niemieckiej i Związku Socjalistycznych Republik Radzieckich, dotyczących:
+    - **a)** popełnionych na osobach narodowości polskiej lub obywatelach polskich innych narodowości w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.: – zbrodni nazistowskich, – zbrodni komunistycznych, – zbrodni ukraińskich nacjonalistów i członków ukraińskich formacji kolaborujących z Trzecią Rzeszą Niemiecką, – innych przestępstw stanowiących zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne,
+    - **b)** innych represji z motywów politycznych, jakich dopuścili się funkcjonariusze polskich organów ścigania lub wymiaru sprawiedliwości albo osoby działające na ich zlecenie, a ujawnionych w treści orzeczeń zapadłych na podstawie ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. z 2021 r. poz.
+
+- **1693)** ,
+    - **c)** działalności organów bezpieczeństwa państwa, o których mowa w art. 5;
+
+- **1a)** opracowywanie, publikowanie i udostępnianie inwentarza archiwalnego Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+- **1b)** ewidencjonowanie, gromadzenie, przechowywanie, opracowywanie, zabezpieczanie, udostępnianie i publikowanie akt pracowników służby zagranicznej, wytworzonych lub gromadzonych w okresie do dnia 31 grudnia 1990 r., oraz dokumentów osobowych, które zostały wytworzone w okresie do dnia 31 grudnia 1990 r., przekazanych do archiwum Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu przez ministra właściwego do spraw zagranicznych;
+- **1c)** ewidencjonowanie, gromadzenie, przechowywanie, opracowywanie, zabezpieczanie, udostępnianie i publikowanie dokumentów innych niż określone w pkt 1–1b, jeżeli ustawa tak stanowi;
+- **2)** tryb postępowania w zakresie ścigania przestępstw określonych w pkt 1 lit. a;
+- **2a)** ochronę dobrego imienia Rzeczypospolitej Polskiej i Narodu Polskiego;
+- **2b)** przygotowywanie i publikowanie katalogów prowadzonych przez Biuro Lustracyjne;
+- **2c)** prowadzenie rejestrów oświadczeń lustracyjnych, analizę oświadczeń lustracyjnych oraz przygotowywanie postępowań lustracyjnych;
+- **3)** ochronę danych osobowych osób, których dotyczą dokumenty zgromadzone w archiwum Instytutu Pamięci;
+- **4)** prowadzenie działań w zakresie edukacji publicznej;
+- **5)** poszukiwanie miejsc spoczynku osób poległych w walkach o niepodległość i zjednoczenie Państwa Polskiego, a zwłaszcza tych, które straciły życie wskutek walki z narzuconym systemem totalitarnym lub wskutek represji totalitarnych lub czystek etnicznych w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.;
+- **6)** prowadzenie działalności związanej z upamiętnianiem historycznych wydarzeń, miejsc oraz postaci w dziejach walk i męczeństwa Narodu Polskiego, zarówno w kraju, jak i za granicą, a także miejsc walk i męczeństwa innych narodów na terytorium Rzeczypospolitej Polskiej, w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.
 
 **Art. 2.**
 
@@ -84,6 +103,9 @@ Art. 56–67. (pominięte)
 **Art. 6.** (uchylony)
 
 **Art. 7.** Dokumentami, w rozumieniu ustawy, są:
+
+- **1)** wszelkie nośniki informacji, niezależnie od formy przechowywania informacji, w tym w szczególności: akta, kartoteki, rejestry, pliki komputerowe, pisma, mapy, plany, filmy i inne nośniki obrazu, nośniki dźwięku i wszelkich innych form zapisu, a także kopie, odpisy i inne duplikaty tych nośników informacji;
+- **2)** niezbędne do analizy informacji środki pomocnicze, a w szczególności programy na użytek zautomatyzowanego przetwarzania danych.
 
 #### Rozdział 2 Instytut Pamięci Narodowej – Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu i jego organy
 
@@ -192,7 +214,7 @@ Art. 56–67. (pominięte)
 
 **Art. 14.**
 
-1. Prezes Instytutu Pamięci nie może być bez uprzedniej zgody Rzeczypospolitej Polskiej pociągnięty do odpowiedzialności karnej ani pozbawiony wolności, z zastrzeżeniem ust. 2.
+1. Prezes Instytutu Pamięci nie może być bez uprzedniej zgody Sejmu Rzeczypospolitej Polskiej pociągnięty do odpowiedzialności karnej ani pozbawiony wolności, z zastrzeżeniem ust. 2.
 
 2. Prezes Instytutu Pamięci może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w ust. 3, w trybie określonym w tym przepisie.
 
@@ -222,9 +244,9 @@ Art. 56–67. (pominięte)
 
 1. Wniosek o wyrażenie zgody na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej składa się Marszałkowi Sejmu.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 14b ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia o pozostawieniu wniosku bez biegu.
+2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 14b ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
 
-3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 14b ust. 3 i 4, Marszałek kieruje go do organu właściwego na podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Instytutu Pamięci o treści wniosku.
+3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 14b ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Instytutu Pamięci o treści wniosku.
 
 4. Organ właściwy do rozpatrzenia wniosku powiadamia Prezesa Instytutu Pamięci o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
 
@@ -256,11 +278,11 @@ Art. 56–67. (pominięte)
 
 5. Sejm wyraża zgodę na zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci.
 
-6. Wymóg uzyskania zgody nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+6. Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
 
 **Art. 14e.**
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 14c ust. 9 i art. 14d ust. 5.
+1. Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 14c ust. 9 i art. 14d ust. 5.
 
 2. Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
@@ -303,7 +325,7 @@ Art. 56–67. (pominięte)
 
 12. Prezes Rady Ministrów określi, w drodze rozporządzenia, wysokość miesięcznej diety przysługującej członkowi Kolegium Instytutu Pamięci z tytułu wykonywanych przez niego zadań, mając na uwadze, że nie może być ona wyższa od czterokrotności minimalnego wynagrodzenia za pracę.
 
-13. Pierwsze posiedzenie Kolegium Instytutu Pamięci zwołuje Marszałek Rzeczypospolitej Polskiej.
+13. Pierwsze posiedzenie Kolegium Instytutu Pamięci zwołuje Marszałek Sejmu Rzeczypospolitej Polskiej.
 
 14. Kolegium Instytutu Pamięci określa w regulaminie organizacyjnym szczegółową organizację i tryb pracy Kolegium Instytutu Pamięci.
 
@@ -851,6 +873,18 @@ Art. 56–67. (pominięte)
 
 **Art. 52a.** Do zadań Biura Lustracyjnego należy w szczególności:
 
+- **1)** prowadzenie rejestru oświadczeń lustracyjnych, o których mowa w art. 7 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów;
+- **2)** analiza oświadczeń lustracyjnych oraz zbieranie informacji niezbędnych do prawidłowej ich oceny;
+- **3)** przygotowywanie postępowań lustracyjnych;
+- **4)** sygnalizowanie odpowiednim organom o niewywiązywaniu się organów pozasądowych z obowiązków nałożonych przez ustawę;
+- **5)** (utracił moc)
+- **6)** przygotowywanie i publikowanie na podstawie dokumentów zgromadzonych w archiwum Instytutu Pamięci katalogów zawierających dane osobowe pracowników, funkcjonariuszy i żołnierzy organów bezpieczeństwa państwa, ze wskazaniem stopnia służbowego zajmowanych stanowisk, oraz organów bezpieczeństwa państwa, w których pełnili służbę lub pracowali;
+- **7)** przygotowywanie i publikowanie katalogów zawierających dane osobowe osób, wobec których zachowały się dokumenty świadczące o tym, że organy bezpieczeństwa państwa zbierały o nich informacje na podstawie celowo gromadzonych danych, w tym w sposób tajny, a wobec osób tych nie stwierdzono istnienia dokumentów świadczących, że byli pracownikami, funkcjonariuszami, żołnierzami organów bezpieczeństwa państwa lub współpracowali z organami bezpieczeństwa państwa; przed umieszczeniem w katalogu należy uzyskać zgodę osoby, której te dane dotyczą, a w przypadku śmierci tej osoby – zgodę osoby najbliższej zmarłego w rozumieniu art. 115 § 11 Kodeksu karnego, od uzyskania zgody odstępuje się, jeżeli od chwili śmierci tej osoby minęło co najmniej 20 lat, a w przypadku bezsprzecznego ustalenia braku osób uprawnionych do wyrażenia zgody, umieszczenie w katalogu następuje na podstawie decyzji Prezesa Instytutu Pamięci;
+- **8)** przygotowywanie i publikowanie katalogów zawierających dane osobowe osób, które zajmowały kierownicze stanowiska w byłej Polskiej Partii Robotniczej i byłej Polskiej Zjednoczonej Partii Robotniczej oraz Zjednoczonym Stronnictwie Ludowym i Stronnictwie Demokratycznym, a także były członkami Rady Ministrów oraz pełniły funkcje sekretarzy i podsekretarza stanu państwa komunistycznego do dnia 23 sierpnia 1989 r. lub były w tym okresie kierownikami i zastępcami kierowników centralnych organów administracji państwowej, centralnych urzędów państwowych. Art. 52aa. Do zadań oddziałowego biura lustracyjnego należy w szczególności:
+- **1)** przygotowanie danych do rejestru, o którym mowa w art. 52a pkt 1;
+- **2)** realizacja zadań określonych w art. 52a pkt 2–4;
+- **3)** przygotowywanie katalogów, o których mowa w art. 52a pkt 5–8.
+
 **Art. 52b.**
 
 1. Każdy katalog, o którym mowa w art. 52a pkt 5, 6 i 8, zawiera:
@@ -905,6 +939,9 @@ Art. 56–67. (pominięte)
 
 **Art. 52f.** Prokurator Biura Lustracyjnego, prokurator oddziałowego biura lustracyjnego oraz upoważnieni pracownicy Biura Lustracyjnego i oddziałowych biur lustracyjnych mają pełny dostęp do dokumentacji, ewidencji i pomocy informacyjnych, bez względu na formę ich utrwalenia, zgromadzonych lub wytworzonych do dnia 31 lipca 1990 r. przez:
 
+- **1)** Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Ministra Sprawiedliwości oraz ministra właściwego do spraw zagranicznych, a także przez podległe, podporządkowane lub nadzorowane przez nich organy i jednostki organizacyjne;
+- **2)** Szefa Agencji Bezpieczeństwa Wewnętrznego i Szefa Agencji Wywiadu.
+
 **Art. 52g.**
 
 1. Z zastrzeżeniem ust. 2 przepisy art. 47 i 51 stosuje się odpowiednio do prokuratorów Biura Lustracyjnego oraz prokuratorów oddziałowych biur lustracyjnych, przy czym uprawnienia Dyrektora Głównej Komisji w stosunku do prokuratorów Biura Lustracyjnego oraz prokuratorów oddziałowych biur lustracyjnych przysługują Dyrektorowi Biura Lustracyjnego.
@@ -914,6 +951,14 @@ Art. 56–67. (pominięte)
 #### Rozdział 6 Funkcje badawcze i edukacyjne Instytutu Pamięci
 
 **Art. 53.** Instytut Pamięci:
+
+- **1)** informuje społeczeństwo o strukturach i metodach działania instytucji, w ramach których zostały popełnione zbrodnie przeciwko Narodowi Polskiemu, oraz informuje o strukturach, obsadzie personalnej i sposobach działania organów bezpieczeństwa państwa;
+- **2)** prowadzi badania naukowe nad porozbiorową i najnowszą historią Polski, w tym historią polskiej emigracji oraz historią polskiego dziedzictwa kulturowego na Wschodzie, a także udostępnia zgromadzone dokumenty innym placówkom naukowym i osobom w celu prowadzenia takich badań, z zachowaniem warunków określonych w ustawie;
+- **3)** udziela informacji na temat zgromadzonych dokumentów oraz publikuje wydawnictwa naukowe i popularnonaukowe, w tym inwentarze archiwalne;
+- **4)** upowszechnia w kraju i za granicą wyniki swojej pracy oraz badań innych instytucji, organizacji i osób nad problematyką stanowiącą przedmiot jego działania;
+- **5)** prowadzi działalność edukacyjną, wystawienniczą i wydawniczą w kraju i za granicą, w tym w zakresie porozbiorowej i najnowszej historii Polski;
+- **6)** formułuje wnioski dotyczące edukacji historycznej;
+- **7)** informuje społeczeństwo o odnalezionych miejscach spoczynku i o tożsamości osób poległych w walkach o niepodległość i zjednoczenie Państwa Polskiego, a zwłaszcza tych, które straciły życie wskutek walki z narzuconym systemem totalitarnym lub wskutek represji totalitarnych lub czystek etnicznych w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r., a także o ich działalności niepodległościowej i okolicznościach śmierci.
 
 **Art. 53a.**
 
@@ -1041,6 +1086,22 @@ Art. 56–67. (pominięte)
 4. Prezes Instytutu Pamięci prowadzi Muzeum.
 
 **Art. 53k.** Wykonywanie zadań określonych w art. 53j ust. 1 następuje w szczególności przez:
+
+- **1)** zajmowanie stanowisk, wydawanie opinii oraz występowanie z wnioskami w sprawach opieki nad miejscami walk i męczeństwa oraz trwałego upamiętniania związanych z tymi miejscami faktów, wydarzeń i postaci;
+- **2)** występowanie z wnioskami oraz współdziałanie z właściwymi organami państwowymi, organami jednostek samorządu terytorialnego i zainteresowanymi organizacjami społecznymi w organizowaniu obchodów i uroczystości, inicjowanie wydawnictw i organizowanie wystaw upamiętniających miejsca walk i męczeństwa oraz związane z nimi historyczne wydarzenia i postacie;
+- **3)** przedstawianie, za pośrednictwem środków masowego przekazu, publikacji popularyzujących miejsca, wydarzenia i postacie związane z walką i męczeństwem, a także podejmowanie innych przedsięwzięć upowszechniających pamięć walk i męczeństwa;
+- **4)** współpracę, w uzgodnieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego oraz z ministrem właściwym do spraw zagranicznych, z zagranicznymi instytucjami zajmującymi się upamiętnianiem i otaczaniem opieką miejsc walk i męczeństwa Polaków w innych krajach oraz miejsc walk i męczeństwa innych narodów na terytorium Rzeczypospolitej Polskiej;
+- **5)** współpracę, w uzgodnieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, ze środowiskami i organizacjami emigracyjnymi, polonijnymi oraz polskimi poza granicami Rzeczypospolitej Polskiej, a także przedstawicielstwami dyplomatycznymi i urzędami konsularnymi w zakresie:
+    - **a)** sprawowania opieki nad miejscami walk i męczeństwa Narodu Polskiego za granicą, zwłaszcza polskimi cmentarzami wojennymi,
+    - **b)** upamiętniania polskich wydarzeń historycznych mających miejsce poza granicami Rzeczypospolitej Polskiej oraz wybitnych polskich postaci poległych lub zmarłych poza granicami Rzeczypospolitej Polskiej,
+    - **c)** poszukiwania i upamiętniania miejsc męczeństwa Polaków oraz miejsc ich pochówków poza granicami Rzeczypospolitej Polskiej,
+    - **d)** ekshumacji i przeniesienia szczątków Polaków poległych bądź pomordowanych za granicą na cmentarze i kwatery wojenne w Polsce;
+
+- **6)** współpracę ze szkołami i innymi placówkami oświatowymi i kulturalnymi w zakresie tworzenia izb pamięci narodowej;
+- **7)** współpracę z organami jednostek samorządu terytorialnego, organizacjami harcerskimi, turystycznymi i innymi zainteresowanymi organizacjami społecznymi w tworzeniu i promowaniu szlaków pamięci narodowej;
+- **8)** popieranie tworzenia regionalnych lub lokalnych muzeów walki o niepodległość;
+- **9)** finansowanie i przeprowadzanie prac mających na celu trwałe upamiętnienie faktów, wydarzeń i postaci związanych z miejscami walk i męczeństwa podejmowanych z inicjatywy własnej;
+- **10)** realizowanie zadań, o których mowa w ustawie z dnia 22 listopada 2018 r. o grobach weteranów walk o wolność i niepodległość Polski (Dz. U. poz. 2529).
 
 **Art. 53l.** Organy właściwe w sprawach wydawania zezwoleń na wykonanie trwałych znaków i obiektów upamiętniających walki i męczeństwo wydają zezwolenie po zasięgnięciu opinii Prezesa Instytutu Pamięci.
 

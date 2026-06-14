@@ -8,7 +8,7 @@ pos: 1582
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa
@@ -38,6 +38,49 @@ Art. 43–46. (pominięte)
 **Art. 2.** Obrót z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa jest dozwolony na zasadach określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/821 z dnia 20 maja 2021 r. ustanawiającym unijny system kontroli wywozu, pośrednictwa, pomocy technicznej, tranzytu i transferu produktów podwójnego zastosowania (Dz. Urz. UE L 206 z 11.06.2021, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem 2021/821”, ustawach oraz umowach i innych zobowiązaniach międzynarodowych.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** produkty podwójnego zastosowania – produkty podwójnego zastosowania w rozumieniu art. 2 pkt 1 rozporządzenia 2021/821;
+- **2)** uzbrojenie – broń, amunicję, materiały wybuchowe, wyroby, ich części i technologie, wskazane w wykazie określonym w przepisach wydanych na podstawie art. 6a ust. 3;
+- **3)** towary o znaczeniu strategicznym – towary o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa, będące produktami podwójnego zastosowania lub uzbrojeniem;
+- **4)** (uchylony) 4a) (uchylony) 4b) obszar celny Unii Europejskiej – obszar celny w rozumieniu art. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. );
+- **4c)** kraj trzeci – państwo, którego terytorium znajduje się poza obszarem celnym Unii Europejskiej;
+- **5)** wywóz – wywóz w rozumieniu art. 2 pkt 2 rozporządzenia 2021/821;
+- **5a)** usługa pośrednictwa – usługę pośrednictwa w rozumieniu art. 2 pkt 7 rozporządzenia 2021/821 lub – w przypadku uzbrojenia – działania dotyczące przemieszczania uzbrojenia pomiędzy dwoma państwami, przy czym żadnym z tych państw nie jest Rzeczpospolita Polska, polegające na:
+    - **a)** negocjowaniu, doradztwie handlowym oraz pomocy w zawieraniu umów,
+    - **b)** uczestnictwie, w jakiejkolwiek formie, w czynnościach związanych z wywozem, przywozem, tranzytem lub zawarciem umowy leasingu, darowizny, pożyczki, użyczenia oraz wniesieniem aportu do spółki,
+    - **c)** zakupie, sprzedaży lub transferze;
+
+- **5b)** pomoc techniczna – pomoc techniczną w rozumieniu art. 2 pkt 9 rozporządzenia 2021/821 lub – w przypadku uzbrojenia – jakiekolwiek wsparcie techniczne związane z naprawami, rozwojem, wytwarzaniem, testowaniem, utrzymaniem lub innymi usługami technicznymi, które może przyjąć formy udzielania instrukcji, szkolenia, przekazywania wiedzy oraz umiejętności lub świadczenia usług konsultingowych;
+- **6)** przywóz – wprowadzenie towaru o znaczeniu strategicznym na terytorium Rzeczypospolitej Polskiej z kraju trzeciego;
+- **7)** tranzyt – tranzyt w rozumieniu art. 2 pkt 11 rozporządzenia 2021/821 lub – w przypadku uzbrojenia – przemieszczanie pomiędzy państwem członkowskim Unii Europejskiej, z wyłączeniem Rzeczypospolitej Polskiej, i krajem trzecim lub pomiędzy krajami trzecimi przez terytorium Rzeczypospolitej Polskiej;
+- **7a)** transfer wewnątrzunijny – przekazanie lub przemieszczenie towaru o znaczeniu strategicznym od podmiotu w jednym państwie członkowskim do podmiotu w innym państwie członkowskim bez opuszczania obszaru celnego Unii Europejskiej;
+- **8)** obrót:
+    - **a)** wywóz,
+    - **b)** transfer wewnątrzunijny,
+    - **c)** usługę pośrednictwa,
+    - **d)** pomoc techniczną,
+    - **e)** przywóz,
+    - **f)** tranzyt;
+
+- **8a)** podmiot – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, o ile posiada zdolność prawną;
+- **8b)** dostawca – podmiot uprawniony do przekazania uzbrojenia;
+- **8c)** odbiorca – podmiot uprawniony do odbioru uzbrojenia;
+- **8d)** eksporter – eksportera w rozumieniu art. 2 pkt 3 rozporządzenia 2021/821 lub – w przypadku uzbrojenia:
+    - **a)** podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej, który: – w momencie przyjmowania deklaracji wywozowej pozostaje w stosunku umownym z odbiorcą w kraju trzecim i jest uprawniony do wywozu uzbrojenia lub – jest uprawniony do wywozu uzbrojenia, w sytuacji gdy nie została zawarta umowa eksportowa lub strona umowy nie działa we własnym imieniu,
+    - **b)** umawiającą się stronę zamieszkującą albo mającą siedzibę na terytorium Rzeczypospolitej Polskiej, w przypadku gdy prawo dysponowania uzbrojeniem przynależy podmiotowi zamieszkującemu albo posiadającemu siedzibę poza Rzecząpospolitą Polską, na podstawie umowy, na której opiera się wywóz;
+
+- **8e)** importer – podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej, który jest uprawniony do odbioru towaru o znaczeniu strategicznym z kraju trzeciego;
+- **8f)** pośrednik – pośrednika w rozumieniu art. 2 pkt 8 rozporządzenia 2021/821 lub – w przypadku uzbrojenia – podmiot wykonujący usługę pośrednictwa w odniesieniu do uzbrojenia;
+- **8g)** użytkownik końcowy – podmiot deklarujący wykorzystanie towaru o znaczeniu strategicznym do własnej działalności;
+- **8h)** zezwolenie indywidualne – zezwolenie w rozumieniu art. 2 pkt 12 rozporządzenia 2021/821 lub – w przypadku uzbrojenia, a także innych niż wywóz form obrotu produktami podwójnego zastosowania – zezwolenie udzielone jednemu podmiotowi w odniesieniu do jednego końcowego użytkownika, importera lub odbiorcy w jednym państwie, dotyczące określonej ilości i wartości jednoznacznie określonych towarów o znaczeniu strategicznym;
+- **8i)** zezwolenie globalne – zezwolenie w rozumieniu art. 2 pkt 13 rozporządzenia 2021/821 lub – w przypadku uzbrojenia, a także innych niż wywóz form obrotu produktami podwójnego zastosowania – zezwolenie udzielone jednemu podmiotowi w odniesieniu do jednego lub większej liczby końcowych użytkowników, importerów lub odbiorców w jednym państwie lub w większej liczbie państw, dotyczące określonych typów lub kategorii towarów o znaczeniu strategicznym;
+- **8j)** krajowe zezwolenie generalne – zezwolenie w rozumieniu art. 2 pkt 16 rozporządzenia 2021/821 lub – w przypadku uzbrojenia – zezwolenie uprawniające podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej, spełniający warunki określone w przepisach wydanych na podstawie art. 8 ust. 2, a także wymogi, o których mowa w art. 8 ust. 3, do dokonywania obrotu uzbrojeniem;
+- **8k)** generalne unijne zezwolenie na wywóz – zezwolenie w rozumieniu art. 2 pkt 15 rozporządzenia 2021/821;
+- **9)** (uchylony)
+- **10)** organ kontroli obrotu – ministra właściwego do spraw gospodarki;
+- **11)** organy opiniujące – ministra właściwego do spraw zagranicznych, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw finansów publicznych, Szefa Służby Kontrwywiadu Wojskowego, Szefa Służby Wywiadu Wojskowego, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, a w odniesieniu do materiałów jądrowych, technologii jądrowych oraz innych produktów podwójnego zastosowania, w zakresie których jest właściwy ze względu na zakres swojego działania – także Prezesa Państwowej Agencji Atomistyki;
+- **12)** organ monitorujący – Szefa Agencji Bezpieczeństwa Wewnętrznego;
+- **13)** przedsiębiorca – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803).
 
 **Art. 4.** Przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej oraz przewóz przez terytorium Rzeczypospolitej Polskiej broni i amunicji przez osoby fizyczne, na potrzeby inne niż handlowe i przemysłowe, regulują odrębne przepisy.
 
@@ -804,21 +847,45 @@ Art. 43–46. (pominięte)
 
 **Art. 46a.** Do dnia 31 grudnia 2022 r. do:
 
+- **1)** wywozu i tranzytu na terytorium Ukrainy sprzętu opancerzonego lub ochronnego, konstrukcji oraz ich elementów składowych, oznaczonych kategorią LU13 w przepisach wydanych na podstawie art. 6a ust. 3 stosuje się przepisy art. 46b–46d;
+- **2)** nabycia w celu wywozu na terytorium Ukrainy kamizelek kuloodpornych, hełmów wojskowych i policyjnych, ochraniaczy twarzy, kończyn i innych części ciała nie stosuje się przepisów ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
+
 **Art. 46b.** Wywóz i tranzyt, o których mowa w art. 46a pkt 1, lub nabycie, o którym mowa w art. 46a pkt 2, mogą być dokonane po uzyskaniu oświadczenia końcowego użytkownika potwierdzonego przez przedstawicielstwo dyplomatyczne Ukrainy w Rzeczypospolitej Polskiej.
 
 **Art. 46c.** Przed dokonaniem wywozu lub tranzytu podmiot, o którym mowa w art. 3 pkt 8a, jest obowiązany zgłosić ministrowi właściwemu do spraw gospodarki, w formie pisemnej lub w postaci elektronicznej, zamiar dokonania wywozu lub tranzytu na terytorium Ukrainy:
 
+- **1)** sprzętu opancerzonego lub ochronnego, konstrukcji oraz ich elementów składowych, o których mowa w art. 46a pkt 1, lub
+- **2)** kamizelek kuloodpornych, hełmów wojskowych i policyjnych, ochraniaczy twarzy, kończyn i innych części ciała, o których mowa w art. 46a pkt 2.
+
 **Art. 46d.** Dokonując zgłoszenia, o którym mowa w art. 46c, podmiot, o którym mowa w art. 3 pkt 8a, wskazuje:
 
+- **1)** oznaczenie podmiotu zgłaszającego, adres siedziby albo adres miejsca zamieszkania;
+- **2)** określenie produktu i jego ilości;
+- **3)** oznaczenie końcowego użytkownika.
+
 **Art. 46e.** Od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. stosuje się przepisy art. 46f–46h do:
+
+- **1)** wywozu i tranzytu na terytorium Ukrainy sprzętu opancerzonego lub ochronnego, konstrukcji oraz ich elementów składowych, oznaczonych kategorią LU13 w przepisach wydanych na podstawie art. 6a ust. 3;
+- **2)** nabycia w celu wywozu na terytorium Ukrainy kamizelek kuloodpornych, hełmów wojskowych i policyjnych, ochraniaczy twarzy, kończyn i innych części ciała nie stosuje się przepisów ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
 
 **Art. 46f.** Wywóz i tranzyt, o których mowa w art. 46e pkt 1, lub nabycie, o którym mowa w art. 46e pkt 2, mogą być dokonane po uzyskaniu oświadczenia końcowego użytkownika potwierdzonego przez przedstawicielstwo dyplomatyczne Ukrainy w Rzeczypospolitej Polskiej.
 
 **Art. 46g.** Przed dokonaniem wywozu lub tranzytu podmiot, o którym mowa w art. 3 pkt 8a, jest obowiązany zgłosić ministrowi właściwemu do spraw gospodarki, w formie pisemnej lub w postaci elektronicznej, zamiar dokonania wywozu lub tranzytu na terytorium Ukrainy:
 
+- **1)** sprzętu opancerzonego lub ochronnego, konstrukcji oraz ich elementów składowych, o których mowa w art. 46e pkt 1, lub
+- **2)** kamizelek kuloodpornych, hełmów wojskowych i policyjnych, ochraniaczy twarzy, kończyn i innych części ciała, o których mowa w art. 46e pkt 2.
+
 **Art. 46h.** Dokonując zgłoszenia, o którym mowa w art. 46g, podmiot, o którym mowa w art. 3 pkt 8a, wskazuje:
+
+- **1)** oznaczenie podmiotu zgłaszającego, adres siedziby albo adres miejsca zamieszkania;
+- **2)** określenie produktu i jego ilości;
+- **3)** oznaczenie końcowego użytkownika. Art. 47–50. (pominięte)
 
 **Art. 51.** Traci moc ustawa z dnia 2 grudnia 1993 r. o zasadach szczególnej kontroli obrotu z zagranicą towarami i technologiami w związku z porozumieniami i zobowiązaniami międzynarodowymi (Dz. U. poz. 598, z 1996 r. poz. 496, z 1997 r. poz. 554 i 1026 oraz z 1999 r. poz. 775 i 931).
 
 **Art. 52.** Ustawa wchodzi w życie z dniem 1 stycznia 2001 r., z wyjątkiem:
+
+- **1)** art. 8 ust. 2, który wchodzi w życie po upływie 3 lat od dnia ogłoszenia ;
+- **2)** art. 9 ust. 4 pkt 1 i 4 i art. 10 ust. 1, które wchodzą w życie z dniem 1 stycznia 2003 r.
+
 

@@ -8,7 +8,7 @@ pos: 1275
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o działach administracji rządowej
@@ -69,6 +69,47 @@ Art. 39–75. (pominięte)
 
 **Art. 5.** Ustala się następujące działy:
 
+- **1)** administracja publiczna;
+- **1a)** budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo;
+- **1b)** aktywa państwowe;
+- **2)** budżet;
+- **2a)** energia;
+- **3)** finanse publiczne;
+- **4)** gospodarka;
+- **5)** gospodarka morska;
+- **6)** gospodarka wodna;
+- **6a)** gospodarka surowcami energetycznymi;
+- **7)** instytucje finansowe;
+- **7a)** informatyzacja;
+- **8)** członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej;
+- **8a)** klimat;
+- **9)** kultura i ochrona dziedzictwa narodowego;
+- **10)** kultura fizyczna;
+- **11)** łączność;
+- **12)** (uchylony)
+- **13)** (uchylony)
+- **14)** obrona narodowa;
+- **15)** oświata i wychowanie;
+- **16)** praca;
+- **17)** rolnictwo;
+- **18)** rozwój wsi;
+- **18a)** rozwój regionalny;
+- **18b)** rynki rolne;
+- **18c)** rybołówstwo;
+- **19)** (uchylony)
+- **20)** sprawiedliwość;
+- **21)** szkolnictwo wyższe i nauka;
+- **22)** transport;
+- **22a)** turystyka;
+- **23)** środowisko;
+- **23a)** rodzina;
+- **24)** sprawy wewnętrzne;
+- **25)** wyznania religijne oraz mniejszości narodowe i etniczne;
+- **26)** zabezpieczenie społeczne;
+- **27)** sprawy zagraniczne;
+- **28)** zdrowie;
+- **29)** żegluga śródlądowa.
+
 **Art. 6.**
 
 1. Dział administracja publiczna obejmuje sprawy:
@@ -88,6 +129,14 @@ Art. 39–75. (pominięte)
 3. Ilekroć właściwy minister lub kierownik urzędu centralnego określa, na podstawie przepisów odrębnych, terytorialny zakres działania podległych mu lub nadzorowanych przez niego urzędów albo innych jednostek organizacyjnych, określenie to następuje w porozumieniu z ministrem właściwym do spraw administracji publicznej.
 
 **Art. 7.** Dział budżet obejmuje sprawy:
+
+- **1)** opracowywania budżetu państwa, wykonywania – z wyjątkiem spraw zastrzeżonych do kompetencji ministra właściwego do spraw finansów publicznych – budżetu państwa, kontroli realizacji budżetu państwa oraz przygotowywania sprawozdań z wykonania budżetu państwa;
+- **2)** systemu finansowania:
+    - **a)** samorządu terytorialnego,
+    - **b)** sfery budżetowej,
+    - **c)** bezpieczeństwa państwa;
+
+- **3)** wynikające z zarządzania długiem publicznym.
 
 **Art. 7a.**
 
@@ -300,7 +349,7 @@ Art. 39–75. (pominięte)
 
 - **1)** koordynuje proces wdrażania prawa Unii Europejskiej do polskiego systemu prawa;
 - **2)** przedstawia Radzie Ministrów, na zasadach określonych w regulaminie pracy Rady Ministrów, opinie o zgodności z prawem Unii Europejskiej rządowych projektów aktów prawa powszechnie obowiązującego oraz opinie o zgodności z prawem Unii Europejskiej projektów umów międzynarodowych;
-- **3)** opiniuje, na zasadach określonych w regulaminie oraz regulaminie Senatu, projekty ustaw co do ich zgodności z prawem Unii Europejskiej;
+- **3)** opiniuje, na zasadach określonych w regulaminie Sejmu oraz regulaminie Senatu, projekty ustaw co do ich zgodności z prawem Unii Europejskiej;
 - **4)** koordynuje udział w postępowaniach w sprawie naruszenia przez Rzeczpospolitą Polską prawa Unii Europejskiej prowadzonych przez instytucje i organy Unii Europejskiej;
 - **5)** zapewnia reprezentację Rzeczypospolitej Polskiej w postępowaniach przed organami sądowymi Unii Europejskiej i Trybunałem Europejskiego Porozumienia o Wolnym Handlu (EFTA);
 - **6)** monitoruje wykonywanie wyroków organów sądowych Unii Europejskiej.
@@ -355,6 +404,10 @@ Art. 39–75. (pominięte)
 3. (uchylony)
 
 **Art. 15.** Dział kultura fizyczna obejmuje sprawy:
+
+- **1)** sportu;
+- **2)** wychowania fizycznego;
+- **3)** rehabilitacji ruchowej.
 
 **Art. 16.** Dział łączność obejmuje sprawy poczty.
 
@@ -555,6 +608,13 @@ Art. 39–75. (pominięte)
 
 **Art. 28a.** Dział rodzina obejmuje sprawy:
 
+- **1)** uwarunkowań demograficznych w kraju;
+- **2)** opieki nad dzieckiem do lat 3;
+- **3)** ochrony i wspierania rodziny z dziećmi na utrzymaniu, w szczególności rodzin znajdujących się w trudnej sytuacji materialnej i społecznej;
+- **4)** rozwoju systemu pieczy zastępczej nad dzieckiem;
+- **5)** koordynowania i organizowania współpracy organów administracji publicznej, organizacji pozarządowych i instytucji w zakresie realizacji praw rodziny i dziecka;
+- **6)** współpracy międzynarodowej dotyczącej realizacji i ochrony praw rodziny i dziecka.
+
 **Art. 29.**
 
 1. Dział sprawy wewnętrzne obejmuje sprawy:
@@ -578,6 +638,9 @@ Art. 39–75. (pominięte)
 4. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością Policji, Straży Granicznej, Państwowej Straży Pożarnej, Szefa Urzędu do Spraw Cudzoziemców, Krajowego Centrum Informacji Kryminalnych, Służby Ochrony Państwa oraz Rządowej Agencji Rezerw Strategicznych.
 
 **Art. 30.** Dział wyznania religijne oraz mniejszości narodowe i etniczne obejmuje sprawy:
+
+- **1)** stosunków Państwa z Kościołem Katolickim oraz innymi kościołami i związkami wyznaniowymi;
+- **2)** związane z zachowaniem i rozwojem tożsamości kulturowej mniejszości narodowych i etnicznych, integracją obywatelską i społeczną osób należących do tych mniejszości, a także zachowaniem i rozwojem języka regionalnego.
 
 **Art. 31.**
 
@@ -725,6 +788,9 @@ Art. 39–75. (pominięte)
 **Art. 77.** (uchylony)
 
 **Art. 78.** Minister właściwy do spraw finansów publicznych ustala:
+
+- **1)** zasady ewidencji należności i zobowiązań Skarbu Państwa;
+- **2)** warunki prowadzenia rozliczeń środków zgromadzonych na rachunkach likwidacyjnych, w tym zasady stosowania kursów walut dla jednostek rozliczeniowych. Art. 79–89. (pominięte)
 
 **Art. 90.** Ilekroć w przepisach obowiązujących jest mowa o ministerstwie, należy przez to rozumieć urząd obsługujący ministra właściwego do danych spraw w rozumieniu ustawy.
 

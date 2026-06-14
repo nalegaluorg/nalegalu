@@ -8,7 +8,7 @@ pos: 649
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej
@@ -44,6 +44,23 @@ Oddziały przedsiębiorców zagranicznych
 2. Osoby zagraniczne będące przedsiębiorcami mogą tworzyć w Rzeczypospolitej Polskiej oddziały, przedstawicielstwa lub czasowo oferować lub świadczyć usługę, na zasadach określonych w ustawie.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** działalność gospodarcza – działalność gospodarczą w rozumieniu art. 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871);
+- **2)** minister – ministra właściwego do spraw gospodarki;
+- **3)** nadrzędny interes publiczny – wartość podlegającą ochronie, w szczególności porządek publiczny, bezpieczeństwo publiczne, bezpieczeństwo państwa, zdrowie publiczne, utrzymanie równowagi finansowej systemu zabezpieczenia społecznego, ochrona konsumentów, usługobiorców i pracowników, uczciwość w transakcjach handlowych, zwalczanie nadużyć, ochrona środowiska naturalnego i miejskiego, zdrowie zwierząt, własność intelektualna, cele polityki społecznej i kulturalnej oraz ochrona narodowego dziedzictwa historycznego i artystycznego;
+- **4)** oddział – wyodrębnioną i samodzielną organizacyjnie część działalności gospodarczej, wykonywaną przez przedsiębiorcę poza siedzibą przedsiębiorcy lub głównym miejscem wykonywania działalności;
+- **5)** osoba zagraniczna:
+    - **a)** osobę fizyczną nieposiadającą obywatelstwa polskiego,
+    - **b)** osobę prawną z siedzibą za granicą,
+    - **c)** jednostkę organizacyjną niebędącą osobą prawną posiadającą zdolność prawną, z siedzibą za granicą;
+
+- **6)** państwo członkowskie – inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **7)** przedsiębiorca zagraniczny – osobę zagraniczną wykonującą działalność gospodarczą za granicą oraz obywatela polskiego wykonującego działalność gospodarczą za granicą;
+- **8)** usługa – świadczenie wykonywane przez usługodawcę z państwa członkowskiego na własny rachunek, zwykle za wynagrodzeniem, w szczególności usługi budowlane, handlowe oraz usługi świadczone w ramach wykonywanego zawodu;
+- **9)** usługobiorca – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, korzystającą lub zamierzającą skorzystać z usługi świadczonej przez usługodawcę z państwa członkowskiego;
+- **10)** usługodawca z państwa członkowskiego – przedsiębiorcę zagranicznego z państwa członkowskiego, który wykonuje działalność gospodarczą zgodnie z obowiązującymi w tym państwie przepisami, a na terytorium Rzeczypospolitej Polskiej czasowo oferuje lub świadczy usługę;
+- **11)** właściwy organ – właściwy w sprawach podejmowania, wykonywania lub zakończenia świadczenia usługi organ administracji publicznej, organ samorządu zawodowego oraz inny organ władzy publicznej;
+- **12)** zawód regulowany – zawód regulowany w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
 
 #### Rozdział 2 Działalność gospodarcza osób zagranicznych
 
@@ -235,7 +252,14 @@ Oddziały przedsiębiorców zagranicznych
 
 **Art. 18.** Niezależnie od obowiązków określonych w przepisach o Krajowym Rejestrze Sądowym przedsiębiorca zagraniczny jest obowiązany:
 
+- **1)** jeżeli działa na podstawie aktu założycielskiego, umowy lub statutu – złożyć ich odpisy do akt rejestrowych oddziału wraz z uwierzytelnionym tłumaczeniem na język polski; w przypadku gdy przedsiębiorca zagraniczny utworzył na terytorium Rzeczypospolitej Polskiej więcej niż jeden oddział, złożenie tych dokumentów może nastąpić w aktach jednego z oddziałów, z tym że w aktach rejestrowych pozostałych oddziałów należy złożyć kopie tych dokumentów oraz wskazać ten oddział, w którego aktach złożono oryginały tych dokumentów, wraz z oznaczeniem sądu, w którym znajdują się akta, i numeru oddziału w rejestrze;
+- **2)** jeżeli istnieje lub wykonuje działalność na podstawie wpisu do rejestru – złożyć do akt rejestrowych oddziału odpis z tego rejestru wraz z uwierzytelnionym tłumaczeniem na język polski; w przypadku gdy przedsiębiorca zagraniczny utworzył na terytorium Rzeczypospolitej Polskiej więcej niż jeden oddział, złożenie tych dokumentów może nastąpić w aktach jednego z oddziałów, z tym że w aktach rejestrowych pozostałych oddziałów należy złożyć kopie tych dokumentów oraz wskazać ten oddział, w którego aktach złożono oryginały tych dokumentów, wraz z oznaczeniem sądu, w którym znajdują się akta, i numeru oddziału w rejestrze.
+
 **Art. 19.** Przedsiębiorca zagraniczny, który utworzył oddział, jest obowiązany:
+
+- **1)** używać do oznaczenia oddziału oryginalnej nazwy przedsiębiorcy zagranicznego wraz z przetłumaczoną na język polski nazwą formy prawnej przedsiębiorcy oraz dodaniem wyrazów „oddział w Polsce”;
+- **2)** prowadzić dla oddziału oddzielną rachunkowość w języku polskim zgodnie z przepisami o rachunkowości;
+- **3)** zgłaszać ministrowi wszelkie zmiany stanu faktycznego i prawnego w zakresie okoliczności, o których mowa w art. 20 ust. 1 pkt 2, w terminie 14 dni od dnia ich wystąpienia.
 
 **Art. 20.**
 

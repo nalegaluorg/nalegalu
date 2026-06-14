@@ -8,10 +8,10 @@ pos: 2680
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22668800 Załącznik nr 1 ZAKRES WIEDZY I UMIEJĘTNOŚCI DOTYCZĄCYCH POJAZDU KOLEJOWEGO, OBJĘTYCH SZKOLENIEM, KTÓRE SĄ NIEZBĘDNE DO UZYSKANIA PRZEZ KANDYDATA NA MASZYNISTĘ ŚWIADECTWA MASZYNISTY
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002680) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2680/text.pdf) |
 
-22668800 Załącznik nr 1 ZAKRES WIEDZY I UMIEJĘTNOŚCI DOTYCZĄCYCH POJAZDU KOLEJOWEGO, OBJĘTYCH SZKOLENIEM, KTÓRE SĄ NIEZBĘDNE DO UZYSKANIA PRZEZ KANDYDATA NA MASZYNISTĘ ŚWIADECTWA MASZYNISTY
 1. Próby i kontrole przed jazdą. Kandydat na maszynistę potrafi:
 1) zgromadzić dokumentację i niezbędne wyposażenie;
 2) zweryfikować, czy wyznaczony pojazd kolejowy z napędem własnym może być użyty do obsługi wyznaczonego pociągu;
@@ -79,7 +78,9 @@ Kandydat na maszynistę:
 1) potrafi określić, czy przed kontynuacją jazdy pociągu jest potrzebna ocena rewidenta taboru;
 2) zna określone przez zarządcę infrastruktury procedury informowania o możliwości kontynuowania jazdy po zaistnieniu poważnego wypadku, wypadku i incydentu.
 9. Unieruchomienie pociągu. Kandydat na maszynistę posiada wiedzę na temat możliwości zatrzymania pociągu lub jego części oraz zabezpieczenia pociągu lub jego części przed niespodziewanym uruchomieniem lub zbiegnięciem.
-ZAKRES WIEDZY I UMIEJĘTNOŚCI DOTYCZĄCYCH INFRASTRUKTURY KOLEJOWEJ, OBJĘTYCH SZKOLENIEM, KTÓRE SĄ NIEZBĘDNE DO UZYSKANIA PRZEZ KANDYDATA NA MASZYNISTĘ ŚWIADECTWA MASZYNISTY
+
+## Załącznik nr 2 — ZAKRES WIEDZY I UMIEJĘTNOŚCI DOTYCZĄCYCH INFRASTRUKTURY KOLEJOWEJ, OBJĘTYCH SZKOLENIEM, KTÓRE SĄ NIEZBĘDNE DO UZYSKANIA PRZEZ KANDYDATA NA MASZYNISTĘ ŚWIADECTWA MASZYNISTY
+
 1. Rodzaj eksploatacji i prędkość maksymalna pociągu w odniesieniu do charakterystyki linii kolejowej. Kandydat na maszynistę potrafi stosować:
 1) odpowiednią technikę prowadzenia pociągu uwzględniającą charakterystykę linii kolejowej;
 2) maksymalną prędkość pociągu odpowiadającą warunkom atmosferycznym obowiązującym dla linii kolejowej lub ograniczeniom prędkości;
@@ -115,9 +116,9 @@ Znajomość linii kolejowych obejmuje:
 4) podjąć działania uwzględniające infrastrukturę kolejową, które mają na celu zagwarantowanie bezpieczeństwa ruchu kolejowego i osób.
 6. Postępowanie w przypadku poważnych wypadków, wypadków i incydentów, w tym z udziałem osób. Kandydat na maszynistę potrafi:
 1) podejmować działania w celu ochrony pociągu i wezwania pomocy w przypadku poważnego wypadku, wypadku i incydentu, w tym z udziałem osób;
-2) ocenić warunki zatrzymania pociągu w przypadku pożaru w pociągu w celu umożliwienia ewakuacji pasażerów;
+2) ocenić warunki zatrzymania pociągu w przypadku pożaru w pociągu – w celu umożliwienia ewakuacji pasażerów;
 3) przekazać informację dotyczącą pożaru odpowiednim służbom;
-4) poinformować zarządcę infrastruktury o gotowości i braku przeszkód do kontynuowania jazdy po wystąpieniu poważnego wypadku, wypadku i incydentu zgodnie z przepisami wydanymi na podstawie art. 17 ust. 7 ustawy;
+4) poinformować zarządcę infrastruktury o gotowości i braku przeszkód do kontynuowania jazdy po wystąpieniu poważnego wypadku, wypadku i incydentu – zgodnie z przepisami wydanymi na podstawie art. 17 ust. 7 ustawy;
 5) ocenić, czy jest możliwe dalsze prowadzenie pociągu po infrastrukturze kolejowej, i określić, jakie warunki muszą być spełnione, aby było to możliwe.
 7. Znajomość sygnalizacji kolejowej. Kandydat na maszynistę posiada wiedzę na temat:
 1) sygnałów nadawanych przez semafory, sygnalizatory powtarzające, tarcze ostrzegawcze semaforowe, tarcze ostrzegawcze przejazdowe, tarcze manewrowe i tarcze rozrządowe;
@@ -137,7 +138,9 @@ Znajomość linii kolejowych obejmuje:
 2) posiada umiejętności językowe odpowiadające poziomowi znajomości języka umożliwiające mu aktywne i skuteczne porozumiewanie się z przedstawicielem zarządcy infrastruktury w sytuacjach rutynowych, trudnych oraz awaryjnych;
 3) potrafi korzystać z wiadomości i metod komunikacji określonych w technicznych specyfikacjach interoperacyjności w zakresie podsystemu „Ruch kolejowy”;
 4) posiada umiejętność rozumienia ze słuchu i rozumienia tekstu czytanego oraz umiejętność ustnego i pisemnego porozumiewania się we wskazanym przez zarządcę infrastruktury języku co najmniej na poziomie biegłości językowej B1 Europejskiego Systemu Opisu Kształcenia Językowego Rady Europy, z wyłączeniem maszynistów prowadzących pociągi w ruchu transgranicznym po infrastrukturze kolejowej obejmującej odcinki linii kolejowych przebiegające przez przejścia graniczne z państwami członkowskimi Unii Europejskiej sąsiadującymi z Rzecząpospolitą Polską, jeżeli zarządca tej infrastruktury udzielił odstępstwa od wymagania dotyczącego znajomości języka co najmniej na poziomie biegłości językowej B1.
-PROGRAM ORAZ CZAS TRWANIA SZKOLENIA KANDYDATÓW NA MASZYNISTÓW UBIEGAJĄCYCH SIĘ O UZYSKANIE ŚWIADECTWA MASZYNISTY Część I. Szkolenie praktyczne
+
+## Załącznik nr 3 — PROGRAM ORAZ CZAS TRWANIA SZKOLENIA KANDYDATÓW NA MASZYNISTÓW UBIEGAJĄCYCH SIĘ O UZYSKANIE ŚWIADECTWA MASZYNISTY Część I. Szkolenie praktyczne
+
 1. Szkolenie praktyczne obejmuje następujące moduły:
 1) praca przy naprawie i utrzymaniu taboru kolejowego;
 2) praca przy czynnościach rewidenta taboru;
@@ -152,22 +155,26 @@ PROGRAM ORAZ CZAS TRWANIA SZKOLENIA KANDYDATÓW NA MASZYNISTÓW UBIEGAJĄCYCH SI
 3) weryfikacji i interpretacji wpisów w dokumentacji pociągowej;
 4) identyfikacji typowych usterek oraz nieprawidłowości występujących w pojazdach kolejowych oraz poznaje sposób postępowania przy poszczególnych usterkach lub nieprawidłowościach.
 4. W ramach modułu praca przy czynnościach maszynisty kandydat na maszynistę:
-1) bierze udział w czynnościach związanych z przyjęciem, prowadzeniem i zdaniem pojazdu kolejowego jako obserwator;
+1) bierze udział w czynnościach związanych z przyjęciem, prowadzeniem i zdaniem pojazdu kolejowego – jako obserwator;
 2) bierze udział w wykonywaniu prób hamulców;
 3) sprawdza kompletność dokumentacji pociągowej, niezbędnego wyposażenia oraz informacji wprowadzonych do dokumentacji pociągowej;
 4) poznaje procedury postępowania w przypadku poważnych wypadków, wypadków i incydentów.
 5. Liczbę godzin szkolenia dla każdego z modułów szkolenia praktycznego przy określonej kategorii świadectwa maszynisty określa poniższa tabela.
+Część II. Szkolenie teoretyczne (wykłady i zajęcia praktyczne)
 1. Program szkolenia teoretycznego kandydatów na maszynistów ubiegających się o uzyskanie uprawnień w zakresie co najmniej jednej z następujących podkategorii świadectwa maszynisty: A1, A4, B1 i B2.
 2. Program szkolenia teoretycznego kandydata na maszynistę ubiegającego się o uzyskanie uprawnień w zakresie co najmniej jednej z następujących podkategorii świadectwa maszynisty: A2, A3 i A5.
+Część III. Prowadzenie pojazdu kolejowego pod nadzorem Część IV. Szkolenie z użyciem symulatora pojazdu kolejowego
 1. Szkolenie kandydatów na maszynistów z użyciem symulatora pojazdu kolejowego jest fakultatywne.
 2. Dopuszcza się zwolnienie kandydata na maszynistę, który przeszedł szkolenie z użyciem symulatora pojazdu kolejowego, z obowiązku przejścia szkolenia wskazanego w części I w module praca przy czynnościach maszynisty, przy zachowaniu następujących warunków:
 1) odbycie 1 godziny szkolenia z użyciem symulatora pojazdu kolejowego uznaje się za równoznaczne z odbyciem 5 godzin szkolenia wskazanego w części I w module praca przy czynnościach maszynisty;
 2) liczba godzin szkolenia wskazanego w części I w module praca przy czynnościach maszynisty, z której kandydat na maszynistę może być zwolniony, nie może przekroczyć 50 godzin;
 3) szkolenie z użyciem symulatora pojazdu kolejowego przeprowadzono po zrealizowaniu przez kandydata na maszynistę co najmniej 50% liczby godzin szkolenia określonej w części III.
 3. W zakresie warunków przeprowadzania szkolenia kandydatów na maszynistów z użyciem symulatora pojazdu kolejowego stosuje się przepis § 7.
-WYKAZ ZADAŃ NIESTANDARDOWYCH I SYTUACJI NIEBEZPIECZNYCH OBJĘTYCH SZKOLENIEM Z UŻYCIEM SYMULATORA POJAZDU KOLEJOWEGO
+
+## Załącznik nr 4 — WYKAZ ZADAŃ NIESTANDARDOWYCH I SYTUACJI NIEBEZPIECZNYCH OBJĘTYCH SZKOLENIEM Z UŻYCIEM SYMULATORA POJAZDU KOLEJOWEGO
+
 1. Zadania niestandardowe:
-1) związane z obsługą trakcyjną prowadzeniem pociągu pojazdem kolejowym o ograniczonych parametrach trakcyjnych (wyłączenie wskutek awarii części napędu pojazdu kolejowego);
+1) związane z obsługą trakcyjną – prowadzeniem pociągu pojazdem kolejowym o ograniczonych parametrach trakcyjnych (wyłączenie wskutek awarii części napędu pojazdu kolejowego);
 2) związane z sytuacjami ruchowymi, w tym z:
 a) jazdą na podstawie zezwolenia na wyjazd, wjazd, przejazd bez podania sygnału zezwalającego, jazdą na sygnał zastępczy lub rozkaz pisemny (przekazany przez środki radiołączności z zatrzymaniem lub bez zatrzymania),
 b) prowadzeniem pociągu w warunkach ruchu jednotorowego dwukierunkowego po torze czynnym w czasie zamknięcia jednego toru szlaku dwutorowego,
@@ -210,10 +217,6 @@ a) wjazd pojazdu drogowego lub wtargnięcie pieszego na przejazd kolejowo-drogow
 b) obecność pieszego lub zwierzęcia w torze poza przejazdem kolejowo-drogowym (np. upadek pieszego z peronu);
 6) akty wandalizmu (np. obrzucenie pociągu kamieniami, ułożenie przeszkody w torze, hałdy materiałów sypkich wysypane z wagonów  tzw. usypy).
 
-## Część II. Szkolenie teoretyczne (wykłady i zajęcia praktyczne)
-
-## Część III. Prowadzenie pojazdu kolejowego pod nadzorem Część IV. Szkolenie z użyciem symulatora pojazdu kolejowego
-
 ## Załącznik nr 5 — ZAKRES DANYCH GROMADZONYCH W REJESTRZE ŚWIADECTW MASZYNISTÓW ORAZ WZÓR REJESTRU Nr Informacja podlegająca przedstawieniu treść format Część 1: Informacje dotyczące licencji maszynisty 1 Numer licencji maszynisty
 
 1.1 Numer licencji maszynisty umożliwiający dostęp do danych EIN (12 cyfr) w rejestrze licencji maszynistów 2 Aktualny status licencji maszynisty
@@ -255,7 +258,7 @@ b) obecność pieszego lub zwierzęcia w torze poza przejazdem kolejowo-drogowym
 22.1 Data aktualizacji świadectwa maszynisty RRRR-MM-DD
 22.2 Szczegółowe informacje i powody aktualizacji (zmiana tekst informacji zawartych w świadectwie maszynisty, np. adresu zamieszkania maszynisty); zmiany danych w rubryce nr 23.2 nie wpisuje się 23 Zmiana/zmiany świadectwa maszynisty (możliwość wpisania większej liczby danych)
 23.1 Data zmiany świadectwa maszynisty RRRR-MM-DD
-23.2 Powody zmian w rubrykach wspólnotowego wzoru świadectwa uzupełniającego, o którym mowa w załączniku II do rozporządzenia Komisji (UE) nr 36/2010 z dnia 3 grudnia 2009 r. w sprawie wspólnotowych wzorów licencji maszynisty, świadectw uzupełniających, uwierzytelnionych odpisów świadectw uzupełniających oraz wniosków o wydanie licencji maszynisty zgodnie z dyrektywą 2007/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 13 z 19.01.2010, str. 1, z późn. zm.), zwanych dalej „rubrykami”, odnoszących się do następujących części świadectwa maszynisty: tekst zmiany w rubryce 3: „Kategorie pojazdów kolejowych objętych uprawnieniami”, zmiany w rubryce 4: „Informacje dodatkowe”, zmiany w rubryce 5: „Znajomość języków”, zmiany w rubryce 6: „Ograniczenia”, zmiany w rubryce 7: „Tabor kolejowy, do prowadzenia którego maszynista jest uprawniony”, zmiany w rubryce 8: „Infrastruktura, w ramach której maszynista jest uprawniony do prowadzenia” 24 Zawieszenie/zawieszenia świadectwa maszynisty (możliwość wpisania większej liczby danych)
+23.2 Powody zmian w rubrykach wspólnotowego wzoru świadectwa tekst uzupełniającego, o którym mowa w załączniku II do rozporządzenia Komisji (UE) nr 36/2010 z dnia 3 grudnia 2009 r. w sprawie wspólnotowych wzorów licencji maszynisty, świadectw uzupełniających, uwierzytelnionych odpisów świadectw uzupełniających oraz wniosków o wydanie licencji maszynisty zgodnie z dyrektywą 2007/59/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 13 z 19.01.2010, str. 1, z późn. zm.), zwanych dalej „rubrykami”, odnoszących się do następujących części świadectwa maszynisty: – zmiany w rubryce 3: „Kategorie pojazdów kolejowych objętych uprawnieniami”, – zmiany w rubryce 4: „Informacje dodatkowe”, – zmiany w rubryce 5: „Znajomość języków”, – zmiany w rubryce 6: „Ograniczenia”, – zmiany w rubryce 7: „Tabor kolejowy, do prowadzenia którego maszynista jest uprawniony”, – zmiany w rubryce 8: „Infrastruktura, w ramach której maszynista jest uprawniony do prowadzenia” 24 Zawieszenie/zawieszenia świadectwa maszynisty (możliwość wpisania większej liczby danych)
 24.1 Długość okresu zawieszenia świadectwa maszynisty od RRRR-MM-DD do RRRR-MM-DD
 24.2 Powód zawieszenia świadectwa maszynisty tekst 25 Cofnięcie/cofnięcia świadectwa maszynisty (możliwość wpisania większej liczby danych)
 25.1 Data cofnięcia świadectwa maszynisty RRRR-MM-DD
@@ -270,6 +273,6 @@ b) obecność pieszego lub zwierzęcia w torze poza przejazdem kolejowo-drogowym
 29.2 Sprawdzian wiedzy data przeprowadzenia sprawdzianu wiedzy RRRR-MM-DD i umiejętności i umiejętności, o którym mowa w § 9 ust. 2 pkt 3 rozporządzenia (możliwość wpisania większej liczby danych) 30 Znajomość typów pojazdów kolejowych
 30.1 Egzamin (data typy pojazdów kolejowych, do których tekst przeprowadzenia prowadzenia maszynista jest uprawniony egzaminu)
 30.2 Sprawdzian wiedzy data przeprowadzenia sprawdzianu wiedzy RRRR-MM-DD i umiejętności i umiejętności, o którym mowa w § 9 ust. 2 pkt 2 rozporządzenia (możliwość wpisania większej liczby danych) 31 Wiedza dotycząca infrastruktury kolejowej
-31.1 Egzamin (data przeprowadzenia egzaminu) infrastruktura kolejowa, po której maszynista jest uprawniony do prowadzenia pojazdu kolejowego tekst
-31.2 Sprawdzian wiedzy data przeprowadzenia sprawdzianu wiedzy i umiejętności i umiejętności, o którym mowa w § 9 ust. 2 pkt 1 rozporządzenia (możliwość wpisania większej liczby danych) RRRR-MM-DD
+31.1 Egzamin (data infrastruktura kolejowa, po której tekst przeprowadzenia maszynista jest uprawniony do prowadzenia egzaminu) pojazdu kolejowego
+31.2 Sprawdzian wiedzy data przeprowadzenia sprawdzianu wiedzy RRRR-MM-DD i umiejętności i umiejętności, o którym mowa w § 9 ust. 2 pkt 1 rozporządzenia (możliwość wpisania większej liczby danych)
 

@@ -8,7 +8,7 @@ pos: 941
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o systemie informacji oświatowej oraz niektórych innych ustaw
@@ -28,6 +28,91 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000941) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/941/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. Nr 139, poz. 814 i Nr 205, poz. 1206) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 ust. 1 pkt 2 lit. e, art. 41 ust. 3, art. 43 ust. 1 pkt 1 lit. b oraz art. 58 ust. 1 skreśla się wyrazy „i ust. 1a”;
+- **2)** w art. 3 w ust. 2 pkt 2 otrzymuje brzmienie: „2) nauczycieli, wychowawców i innych pracowników pedagogicznych, o których mowa w art. 1 ust. 1 i ust. 2 pkt 1–3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela;”;
+- **3)** w art. 4 w ust. 1 pkt 1 otrzymuje brzmienie: „1) zbiór danych o szkołach i placówkach oświatowych oraz ich zespołach – Rejestr Szkół i Placówek Oświatowych, zwany dalej „RSPO”;”;
+- **4)** w art. 5:
+    - **a)** w ust. 2 pkt 3 otrzymuje brzmienie: „3) zbiory danych o uczniach – w przypadku lokalnej bazy danych SIO prowadzonej przez podmiot zobowiązany do przekazywania danych uczniów do bazy danych SIO oraz podmiot uprawniony do pozyskiwania danych uczniów z bazy danych SIO i danych uczniów ze zbioru PESEL za pośrednictwem bazy danych SIO, a także w przypadku lokalnej bazy danych SIO prowadzonej przez podmiot zobowiązany do przekazywania do bazy danych SIO danych powstających z przetworzenia odpowiednich danych uczniów;”,
+    - **b)** ust. 4 i 5 otrzymują brzmienie: „4. W przypadku:
+
+- **1)** szkół i placówek oświatowych posiadających filie,
+- **2)** specjalnych ośrodków szkolno-wychowawczych, młodzieżowych ośrodków wychowawczych, młodzieżowych ośrodków socjoterapii i centrów kształcenia ustawicznego, w skład których wchodzą szkoły,
+- **3)** szkół i placówek oświatowych połączonych w zespół,
+- **4)** szkół w zakładach poprawczych i schroniskach dla nieletnich – jest prowadzona jedna lokalna baza danych SIO odpowiednio szkoły, placówki oświatowej, zespołu, zakładu poprawczego albo schroniska dla nieletnich.
+
+5. Lokalna baza danych SIO, o której mowa w ust. 4, zawiera wyodrębnione zbiory danych dotyczące odpowiednio szkoły i placówki oświatowej oraz jej filii, placówki, o której mowa w ust. 4 pkt 2, i szkoły wchodzącej w skład placówki, poszczególnych szkół i placówek oświatowych wchodzących w skład zespołu, zakładów poprawczych i schronisk dla nieletnich oraz szkół w tych zakładach i schroniskach, oraz zbiór danych wspólnych dla odpowiednio szkoły i placówki oświatowej oraz jej filii, placówki, o której mowa w ust. 4 pkt 2, i szkoły wchodzącej w skład placówki, szkół i placówek oświatowych wchodzących w skład zespołu oraz zakładów poprawczych i schronisk dla nieletnich oraz szkół w tych zakładach i schroniskach.”;
+
+- **5)** w art. 7:
+    - **a)** w ust. 1: – w pkt 7 lit. a otrzymuje brzmienie: „a) szkoły lub placówki oświatowej wchodzącej w skład zespołu oraz szkoły wchodzącej w skład specjalnego ośrodka szkolnowychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii, centrum kształcenia ustawicznego, zakładu poprawczego lub schroniska dla nieletnich – także numer identyfikacyjny REGON odpowiednio zespołu, ośrodka, centrum, zakładu lub schroniska,”, – w pkt 13: – uchyla się lit. a, – lit. b otrzymuje brzmienie: „b) w podmiocie leczniczym,”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W RSPO są gromadzone następujące dane identyfikacyjne zespołów szkół i placówek oświatowych:
+
+- **1)** data połączenia szkół lub placówek oświatowych w zespół;
+- **2)** numer identyfikacji podatkowej (NIP), jeżeli numer taki został nadany;
+- **3)** adres siedziby zespołu oraz numer telefonu, numer faksu, adres poczty elektronicznej i strony internetowej;
+- **4)** dane dotyczące organu prowadzącego:
+    - **a)** typ organu prowadzącego: jednostka samorządu terytorialnego, minister, osoba prawna inna niż jednostka samorządu terytorialnego, osoba fizyczna,
+    - **b)** nazwa i adres siedziby organu prowadzącego, a w przypadku osoby fizycznej prowadzącej zespół – jej imię (imiona), nazwisko i adres zamieszkania, oraz numer telefonu, numer faksu, adres poczty elektronicznej i strony internetowej;
+
+- **5)** adres do korespondencji na terenie Rzeczypospolitej Polskiej, w tym: nazwa podmiotu, na adres którego jest kierowana korespondencja, numer telefonu, numer faksu, adres poczty elektronicznej i strony internetowej – w przypadku gdy adres do korespondencji jest inny niż adres siedziby organu prowadzącego zespół, a w przypadku osoby fizycznej prowadzącej zespół – inny niż adres zamieszkania tej osoby;
+- **6)** imię i nazwisko dyrektora zespołu;
+- **7)** data włączenia i wyłączenia szkoły lub placówki oświatowej z zespołu;
+- **8)** data rozwiązania zespołu;
+- **9)** dane, o których mowa w art. 42 ust. 3 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, niezbędne do wpisu zespołu do rejestru REGON, zmiany cech objętych wpisem oraz skreślenia z rejestru REGON;
+- **10)** numer RSPO zespołu;
+- **11)** data wpisania danych zespołu do RSPO;
+- **12)** typ, nazwa oraz adres siedziby podmiotu zobowiązanego do przekazywania danych zespołu do RSPO.”,
+    - **c)** ust. 2 i 3 otrzymują brzmienie: „2. Danych szkół i placówek oświatowych, które zostały zlikwidowane, oraz danych zespołów szkół i placówek oświatowych, które zostały rozwiązane, nie usuwa się z RSPO.
+
+3. Dane, o których mowa w ust. 1 pkt 29–31 i ust. 1a pkt 10–12, są generowane w RSPO automatycznie.”;
+
+- **6)** po art. 7 dodaje się art. 7a w brzmieniu: „Art. 7a. Rodzaj i zakres danych gromadzonych w lokalnej bazie danych SIO w: zbiorze danych o szkole lub placówce oświatowej, zbiorze danych o jednostce, zbiorze danych o uczniach i zbiorze danych o nauczycielach, odpowiada rodzajowi i zakresowi danych gromadzonych w bazie danych SIO w: zbiorach danych szkół i placówek oświatowych, zbiorach danych jednostek, zbiorach danych o uczniach i zbiorach danych o nauczycielach, z wyjątkiem przypadków, w których w bazie danych SIO w zbiorach danych szkół i placówek oświatowych są gromadzone dane dziedzinowe powstające z przetworzenia odpowiednich danych identyfikacyjnych i danych dziedzinowych uczniów, zgromadzonych w lokalnej bazie danych SIO.”;
+- **7)** w art. 8:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) dane dotyczące organizacji i działalności poradni psychologicznopedagogicznych, w tym poradni specjalistycznych:
+    - **a)** liczba uczniów, nauczycieli i rodziców korzystających z pomocy poradni oraz liczba form tej pomocy – według form pomocy,
+    - **b)** liczba diagnoz sporządzonych przez poradnię oraz liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 14 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – dla których sporządzono diagnozy, według rodzajów tych diagnoz,
+    - **c)** liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 14 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – uczestniczących w zajęciach organizowanych przez poradnię, według rodzajów tych zajęć,
+    - **d)** liczba opinii innych niż opinia o potrzebie wczesnego wspomagania rozwoju wydanych przez poradnię oraz liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 14 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – dla których wydano opinie, według rodzajów tych opinii,
+    - **e)** numer i data wydania opinii o potrzebie wczesnego wspomagania rozwoju, orzeczenia o potrzebie zajęć rewalidacyjnowychowawczych oraz orzeczenia o potrzebie kształcenia specjalnego, wraz z informacją, czy opinia lub orzeczenie zostało wydane dziecku do 3 roku życia, dziecku w wieku, o którym mowa w art. 14 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, w tym objętemu rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniowi, według typu szkoły i klasy, do której uczeń uczęszcza, oraz informacją o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu niedostosowaniem społecznym,
+    - **f)** liczba uczniów, według etapu edukacyjnego, wobec których stwierdzono, na podstawie orzeczenia, brak potrzeby kształcenia specjalnego, indywidualnego przygotowania przedszkolnego, indywidualnego nauczania albo zajęć rewalidacyjnowychowawczych;”,
+    - **b)** po pkt 2 dodaje się pkt 2a–2c w brzmieniu: „2a) dane dotyczące liczby uczniów objętych pomocą psychologicznopedagogiczną udzielaną przez przedszkole, szkołę podstawową, w której zorganizowano oddział przedszkolny, lub inną formę wychowania przedszkolnego, według form tej pomocy;
+
+- **2b)** dane dotyczące liczby uczniów objętych pomocą psychologicznopedagogiczną udzielaną przez szkołę, według klas, do których uczniowie uczęszczają, i form tej pomocy, oraz liczby uczniów uczestniczących w zajęciach wychowania do życia w rodzinie;
+- **2c)** dane dotyczące organizacji i działalności:
+    - **a)** placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania: – bursa – liczba osób niebędących uczniami, korzystających z bursy, – dom wczasów dziecięcych – liczba turnusów,
+    - **b)** placówek oświatowo-wychowawczych – liczba uczestników zajęć, według rodzajów i form zajęć,
+    - **c)** placówek kształcenia ustawicznego, placówek kształcenia praktycznego oraz ośrodków dokształcania i doskonalenia zawodowego – liczba form pozaszkolnych kształcenia ustawicznego, z wyłączeniem kwalifikacyjnych kursów zawodowych, według rodzajów tych form, oraz liczba uczestników tych form,
+    - **d)** placówek doskonalenia nauczycieli – liczba nauczycieli korzystających z innych niż kursy kwalifikacyjne form doskonalenia, według rodzajów tych form;”;
+
+- **8)** w art. 9 w pkt 2 lit. b otrzymuje brzmienie: „b) pracowników odpowiedzialnych za zarządzanie i administrowanie oświatą zatrudnionych w komórkach merytorycznych w urzędach gmin, starostwach powiatowych, urzędach marszałkowskich, jednostkach obsługi ekonomiczno-administracyjnej, urzędach obsługujących ministrów prowadzących szkoły i placówki oświatowe, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i specjalistycznej jednostce nadzoru, o której mowa w art. 32a ust. 1 i 1a ustawy z dnia 7 września 1991 r. o systemie oświaty: – liczba pracowników, – łączna wysokość ich wynagrodzeń, – wymiar zatrudnienia, według rodzaju zajmowanych stanowisk.”;
+- **9)** w art. 11 w pkt 12 kropkę zastępuje się średnikiem oraz dodaje się pkt 13 w brzmieniu: „13) inny.”;
+- **10)** art. 12 otrzymuje brzmienie: „Art. 12. Dane dziedzinowe ucznia w związku z wczesnym wspomaganiem rozwoju, zajęciami rewalidacyjno-wychowawczymi oraz kształceniem specjalnym obejmują numer i datę wydania opinii o potrzebie wczesnego wspomagania rozwoju, orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych, orzeczenia o potrzebie kształcenia specjalnego oraz informację o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu niedostosowaniem społecznym.”;
+- **11)** w art. 13 uchyla się pkt 7 i 8;
+- **12)** w art. 14:
+    - **a)** uchyla się pkt 14, 17 i 24,
+    - **b)** pkt 25 otrzymuje brzmienie: „25) uczestniczenie w zajęciach rozwijających zainteresowania i uzdolnienia, o których mowa w art. 64 ust. 1 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty, według rodzajów tych zajęć, oraz innych niż wymienione w art. 64 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty formach działalności dydaktyczno-wychowawczej;”;
+
+- **13)** uchyla się art. 18;
+- **14)** w art. 20:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) wyniki egzaminów eksternistycznych:
+    - **a)** typ szkoły ukończonej na podstawie egzaminów eksternistycznych,
+    - **b)** uzyskanie świadectwa potwierdzającego kwalifikację w zawodzie po zdaniu egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie, z określeniem kwalifikacji,
+    - **c)** zdanie egzaminu eksternistycznego z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej;”,
+    - **b)** po pkt 2 dodaje się pkt 3 w brzmieniu: „3) informację o uzyskaniu dyplomu potwierdzającego kwalifikacje zawodowe.”;
+
+- **15)** po art. 26 dodaje się art. 26a i art. 26b w brzmieniu: „Art. 26a. 1. W lokalnej bazie danych SIO prowadzonej przez poradnię psychologiczno-pedagogiczną, w tym poradnię specjalistyczną, w zbiorach danych uczniów, są gromadzone dane identyfikacyjne i dane dziedzinowe ucznia korzystającego z pomocy psychologiczno-pedagogicznej udzielanej przez poradnię, obejmujące:
+- **1)** rodzaj diagnozy sporządzonej przez poradnię;
+- **2)** rodzaj zajęć organizowanych przez poradnię, w których uczeń uczestniczy;
+- **3)** wydanie opinii innych niż opinia o potrzebie wczesnego wspomagania rozwoju, z określeniem rodzaju tych opinii;
+- **4)** numer i datę wydania opinii o potrzebie wczesnego wspomagania rozwoju, orzeczenia o potrzebie zajęć rewalidacyjnowychowawczych, orzeczenia o potrzebie kształcenia specjalnego oraz informację o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu niedostosowaniem społecznym;
+- **5)** informację, czy dane, o których mowa w pkt 1–4, dotyczą dziecka do 3 roku życia, dziecka w wieku, o którym mowa w art. 14 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, w tym objętego rocznym obowiązkowym przygotowaniem przedszkolnym, oraz ucznia, z podaniem typu szkoły i klasy, do której uczeń uczęszcza.
+
+2. W lokalnej bazie danych SIO prowadzonej przez przedszkole, szkołę podstawową, w której zorganizowano oddział przedszkolny, lub inną formę wychowania przedszkolnego, w zbiorach danych uczniów, są gromadzone dane identyfikacyjne i dane dziedzinowe ucznia objętego pomocą psychologiczno-pedagogiczną udzielaną przez przedszkole, szkołę podstawową, inną formę wychowania przedszkolnego, obejmujące informację o objęciu ucznia pomocą psychologiczno-pedagogiczną, z określeniem form tej pomocy.
+
+3. W lokalnej bazie danych SIO prowadzonej przez szkołę, w zbiorach danych uczniów, są gromadzone dane identyfikacyjne i dane dziedzinowe ucznia, obejmujące:
+
+- **1)** informację o objęciu ucznia pomocą psychologicznopedagogiczną udzielaną przez szkołę, z określeniem form tej pomocy;
+- **2)** informację o uczestniczeniu ucznia w zajęciach wychowania do życia w rodzinie.
 
 **Art. 26b.**
 

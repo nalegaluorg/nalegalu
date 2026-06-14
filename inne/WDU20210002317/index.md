@@ -8,7 +8,7 @@ pos: 2317
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
@@ -29,6 +29,204 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, 2120, 2133, 2262 i 2269) wprowadza się następujące zmiany:
 
+- **1)** w art. 15g:
+    - **a)** w ust. 17b pkt 1 otrzymuje brzmienie: „1) wstępnej weryfikacji rozliczenia otrzymanych środków na rzecz ochrony miejsc pracy z Funduszu Gwarantowanych Świadczeń Pracowniczych i dokumentacji, potwierdzającej wykorzystanie zgodnie z przeznaczeniem przekazanych świadczeń i środków, o których mowa w ust. 1, 1a lub 2, polegającej w szczególności na analizie jej kompletności, prawidłowości złożonych przez beneficjentów oświadczeń oraz weryfikacji kwot przekazanych i faktycznie wykorzystanych środków, której dokonuje się w terminie 60 dni od dnia złożenia prawidłowych i kompletnych rozliczenia i dokumentacji potwierdzającej dane zawarte w rozliczeniu;”,
+    - **b)** po ust. 17c dodaje się ust. 17d w brzmieniu: „17d. Dyrektor wojewódzkiego urzędu pracy może przeprowadzać, w okresie pobierania świadczeń, o których mowa w ust. 1 lub 1a, oraz w okresie 3 lat po zakończeniu tego okresu, kontrole podmiotu, o którym mowa w ust. 1 i 1a, w zakresie wydatkowania środków Funduszu Gwarantowanych Świadczeń Pracowniczych na wypłatę świadczeń zgodnie z przeznaczeniem i w tym celu może żądać okazania wszelkiej dokumentacji z tym związanej oraz żądać złożenia stosownych wyjaśnień. Kontrola może być prowadzona w kontrolowanym podmiocie lub w wojewódzkim urzędzie pracy.”;
+
+- **2)** w art. 15gg:
+    - **a)** ust. 22 i 23 otrzymują brzmienie: „22. Dyrektor wojewódzkiego urzędu pracy może przeprowadzać, w okresie pobierania świadczeń, o których mowa w ust. 1, oraz w okresie 3 lat po zakończeniu tego okresu, kontrole podmiotu, o którym mowa w ust. 1, w zakresie wydatkowania środków Funduszu Gwarantowanych Świadczeń Pracowniczych na wypłatę świadczeń zgodnie z przeznaczeniem i w tym celu może żądać okazania wszelkiej dokumentacji z tym związanej oraz żądać złożenia stosownych wyjaśnień. Kontrola może być prowadzona w kontrolowanym podmiocie lub w wojewódzkim urzędzie pracy.
+
+23. Podmiot, o którym mowa w ust. 1, który złożył oświadczenie dotyczące spełniania warunku spadku obrotów, o którym mowa w art. 15g ust. 9, lub kryteriów, o których mowa w art. 15g ust. 3, niezgodnie ze stanem faktycznym lub nie sporządził na dzień złożenia wniosku wykazu pracowników objętych wnioskiem, lub nie poddał się kontroli, jest obowiązany do zwrotu na rachunek bankowy wojewódzkiego urzędu pracy, z którego otrzymał środki, całości otrzymanej pomocy wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków wykorzystanych niezgodnie z warunkami określonymi w ustawie. W takim przypadku dyrektor wojewódzkiego urzędu pracy wydaje decyzję o zwrocie.”,
+
+- **b)** po ust. 23 dodaje się ust. 23a–23d w brzmieniu: „23a. Dyrektor wojewódzkiego urzędu pracy wzywa podmiot, który nie wywiązał się z obowiązku określonego w ust. 19 lub 20, do wywiązania się z niego w dodatkowym terminie 30 dni od dnia otrzymania wezwania, pod rygorem obowiązku zwrotu całości otrzymanej pomocy wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków. Jeżeli podmiot nie wywiąże się z tego obowiązku w dodatkowym terminie, dyrektor wojewódzkiego urzędu pracy wydaje decyzję o zwrocie.
+
+23b. W przypadku niewywiązania się z obowiązku określonego w ust. 8 podmiot jest obowiązany do zwrotu całego otrzymanego dofinansowania do wynagrodzenia pracownika, któremu wypowiedziano umowę z przyczyn niedotyczących tego pracownika, wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków wykorzystanych niezgodnie z warunkami określonymi w ustawie.
+
+23c. W przypadku wykorzystania świadczeń, o których mowa w ust. 1, lub środków, o których mowa w ust. 2, niezgodnie z przeznaczeniem, pobrania ich nienależnie lub w nadmiernej wysokości stosuje się odpowiednio przepisy art. 169 ust. 1–6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+23d. Do zwrotu świadczeń, o których mowa w ust. 1, lub środków, o których mowa w ust. 2, w zakresie nieuregulowanym w niniejszym artykule, w tym do zwrotu niewykorzystanych środków wynikających z rozliczenia złożonego przez podmiot, o którym mowa w ust. 1, niezwróconych w terminie, o którym mowa w ust. 19, stosuje się odpowiednio przepisy art. 60 i art. 67 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.”,
+
+- **c)** w ust. 27 wyrazy „o której mowa w ust. 26” zastępuje się wyrazami „o których mowa w ust. 28”,
+- **d)** w ust. 28 pkt 2 otrzymuje brzmienie: „2) obowiązku zwrotu świadczeń, o których mowa w ust. 1, lub środków, o których mowa w ust. 2.”,
+- **e)** dodaje się ust. 29 w brzmieniu: „29. Należności do zwrotu podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.”;
+- **3)** w art. 15gga:
+    - **a)** ust. 16 otrzymuje brzmienie: „16. W przypadku niewywiązania się z obowiązku, o którym mowa w ust. 15 pkt 1, przedsiębiorca jest obowiązany do zwrotu całego dofinansowania otrzymanego do wynagrodzenia pracownika, któremu wypowiedziano umowę z przyczyn niedotyczących tego pracownika.”,
+    - **b)** ust. 18 otrzymuje brzmienie: „18. Przedsiębiorca, który złożył przynajmniej jedno z oświadczeń, o których mowa w ust. 6 pkt 2–4, niezgodnie ze stanem faktycznym, nie sporządził na dzień złożenia wniosku wykazu pracowników objętych wnioskiem lub nie poddał się kontroli, jest obowiązany do zwrotu całości otrzymanej pomocy.”;
+
+- **4)** w art. 15gh dodaje się ust. 3 i 4 w brzmieniu: „3. Na podstawie wniosków, o których mowa w ust. 1, rozpatrzonych do dnia 30 czerwca 2021 r., możliwe jest dokonanie wypłaty dofinansowania po tym terminie, nie później niż do dnia 31 marca 2022 r.
+
+4. Wnioski, o których mowa w ust. 1, nierozpatrzone do dnia 30 czerwca 2021 r. mogą być rozpatrzone, a kwota dofinansowania może być wypłacona w terminie do dnia 31 marca 2022 r.”;
+
+- **5)** w art. 15gj w ust. 3 wyrazy „umorzenia lub rozłożenia na raty, o którym mowa” zastępuje się wyrazami „umorzenia, odroczenia terminu lub rozłożenia na raty, o których mowa”;
+- **6)** w art. 15ka:
+    - **a)** ust. 7 i 8 otrzymują brzmienie: „7. Wniosek organizatora turystyki dotyczy umów, od których podróżni odstąpili w trybie art. 47 ust. 4 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, oraz umów rozwiązanych z podróżnymi w trybie art. 47 ust. 5 pkt 2 tej ustawy, które to odstąpienie od umowy lub rozwiązanie umowy pozostaje w bezpośrednim związku z wybuchem epidemii wirusa SARS-CoV-2, a organizator turystyki nie dokonał zwrotu wpłat wniesionych przez podróżnego lub podróżny nie wyraził zgody na otrzymanie w zamian od organizatora turystyki vouchera, o którym mowa w art. 15k ust. 2.
+
+8. Wniosek organizatora turystyki zawiera także:
+
+- **1)** imiona i nazwiska podróżnych, którzy zawarli umowy o udział w imprezie turystycznej, lub firmy (nazwy) przedsiębiorców i innych podmiotów, którzy zawarli umowy o udział w imprezie turystycznej na rzecz podróżnych;
+- **2)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL – rodzaj, numer i serię dokumentu potwierdzającego tożsamość;
+- **3)** numer NIP – w przypadku podmiotów innych niż osoby fizyczne;
+- **4)** numer rezerwacji lub umowy o udział w imprezie turystycznej, o ile posiada;
+- **5)** datę zawarcia umowy o udział w imprezie turystycznej;
+- **6)** datę rozpoczęcia imprezy turystycznej;
+- **7)** liczbę podróżnych objętych umową o udział w imprezie turystycznej;
+- **8)** miejsce lub trasę wykonania umowy o udział w imprezie turystycznej;
+- **9)** datę powiadomienia przez podróżnego o odstąpieniu od umowy o udział w imprezie turystycznej lub powiadomienia o rozwiązaniu umowy o udział w imprezie turystycznej przez organizatora turystyki;
+- **10)** terminy i wysokość dokonanych wpłat;
+- **11)** kwotę należną do zwrotu;
+- **12)** termin i wysokość zwrotu wpłat podróżnemu, jeśli zwrot został dokonany;
+- **13)** numer rachunku bankowego podróżnego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać dokonana wypłata;
+- **14)** numer rachunku bankowego podróżnego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, z którego została dokonana wpłata należności za imprezę turystyczną, o ile dotyczy;
+- **15)** numer rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który została dokonana wpłata należności za imprezę turystyczną.”,
+    - **b)** ust. 11 otrzymuje brzmienie: „11. Wniosek podróżnego zawiera:
+
+- **1)** imię i nazwisko podróżnego, uprawnionego do złożenia wniosku, albo firmę (nazwę) przedsiębiorcy albo innego podmiotu, który zawarł umowę o udział w imprezie turystycznej na rzecz podróżnego;
+- **2)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL – rodzaj, numer i serię dokumentu potwierdzającego tożsamość;
+- **3)** numer NIP – w przypadku podmiotów innych niż osoby fizyczne;
+- **4)** adres zamieszkania, a w przypadku osób innych niż osoby fizyczne – adres siedziby oraz adres poczty elektronicznej;
+- **5)** nazwę lub firmę organizatora turystyki, z którym została zawarta umowa o udział w imprezie turystycznej;
+- **6)** numer rezerwacji lub umowy o udział w imprezie turystycznej, o ile posiada;
+- **7)** datę zawarcia umowy o udział w imprezie turystycznej;
+- **8)** datę powiadomienia przez podróżnego o odstąpieniu od umowy o udział w imprezie turystycznej lub powiadomienia o rozwiązaniu umowy o udział w imprezie turystycznej przez organizatora turystyki;
+- **9)** datę rozpoczęcia imprezy turystycznej;
+- **10)** numer rachunku bankowego podróżnego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, z którego została dokonana wpłata należności za imprezę turystyczną, o ile dotyczy;
+- **11)** numer rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który została dokonana wpłata należności za imprezę turystyczną;
+- **12)** wysokość wpłaconych kwot za imprezę turystyczną i daty obciążenia lub uznania rachunku;
+- **13)** numer karty płatniczej, w zakresie umożliwiającym weryfikację dokonania płatności kartą płatniczą, oraz imię i nazwisko posiadacza tej karty, z której została dokonana wpłata należności za imprezę turystyczną, o ile dotyczy;
+- **14)** kwotę należną do zwrotu;
+- **15)** numer rachunku bankowego podróżnego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać dokonany zwrot.”,
+    - **c)** w ust. 28 wprowadzenie do wyliczenia otrzymuje brzmienie: „Ubezpieczeniowy Fundusz Gwarancyjny, w toku czynności sprawdzających lub dodatkowego postępowania wyjaśniającego, o którym mowa w ust. 16, może żądać od organizatora turystyki lub podróżnego przedstawienia kopii:”;
+
+- **7)** w art. 15kb po ust. 7b dodaje się ust. 7c w brzmieniu: „7c. Zwrotu wypłat, o których mowa w art. 15ka ust. 1, zgodnie z zasadami określonymi w ust. 7–7b, dokonuje przedsiębiorca także po wykreśleniu z rejestru, o którym mowa w art. 22 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych.”;
+- **8)** w art. 15kc:
+    - **a)** w ust. 4 pkt 6 otrzymuje brzmienie: „6) ze zwrotów wypłat, o których mowa w ust. 14, dokonanych przez organizatorów turystyki zgodnie z ust. 17;”,
+    - **b)** ust. 8 otrzymuje brzmienie: „8. Składka przekazana na Fundusz Pomocowy nie podlega zwrotowi. W przypadku:
+
+- **1)** składki odprowadzonej lub należnej do odprowadzenia w danym miesiącu za podróżnego, którego impreza turystyczna została odwołana przez organizatora turystyki z powodu niewystarczającej liczby zgłoszeń, jeżeli jej realizacja była uzależniona od liczby zgłoszeń,
+- **2)** zmiany liczby podróżnych, miejsca realizacji imprezy turystycznej, rodzaju zapewnianego środka transportu oraz rozwiązania umowy lub odstąpienia od umowy przez podróżnego – składka podlega zarachowaniu na poczet następnych należnych do przekazania składek.”,
+    - **c)** po ust. 8 dodaje się ust. 8a–8d w brzmieniu: „8a. Zwrot składek przekazanych na Fundusz Pomocowy jest dopuszczalny wyłącznie w przypadku:
+
+- **1)** gdy przedsiębiorca turystyczny został wykreślony z rejestru, o którym mowa w art. 22 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, w związku z zaprzestaniem wykonywania działalności objętej wpisem i przekazał wszystkie wymagane informacje oraz odprowadził należne składki w okresie wykonywania działalności, a odprowadzone składki nie podlegają dalszemu zarachowaniu;
+- **2)** odprowadzenia ich w kwocie przewyższającej wysokość należnej składki określonej w informacji przekazanej do Ubezpieczeniowego Funduszu Gwarancyjnego;
+- **3)** odprowadzenia ich przez podmiot niezobowiązany względem Funduszu Pomocowego.
+
+8b. Przedsiębiorca turystyczny w przypadku, o którym mowa w ust. 8a:
+
+- **1)** pkt 1 – może wystąpić do Ubezpieczeniowego Funduszu Gwarancyjnego o zwrot składek niepodlegających dalszemu zarachowaniu, nie później niż w terminie 14 dni od dnia, w którym decyzja administracyjna właściwego marszałka województwa o wykreśleniu z rejestru, o którym mowa w art. 22 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, w związku z zaprzestaniem wykonywania działalności objętej wpisem, stała się ostateczna;
+- **2)** pkt 2 lub 3 – może wystąpić do Ubezpieczeniowego Funduszu Gwarancyjnego o zwrot składek, nie później niż w terminie 30 dni od dnia, w którym dokonał wpłaty składki.
+
+8c. Roszczenia o zwrot składek, o których mowa w ust. 8a, ulegają przedawnieniu z upływem 3 lat, licząc od dnia następującego po upływie terminu określonego w ust. 8b:
+
+- **1)** pkt 1, dla składek, o których mowa w ust. 8a pkt 1;
+- **2)** pkt 2, dla składek, o których mowa w ust. 8a pkt 2 lub 3.
+
+8d. We wniosku do Ubezpieczeniowego Funduszu Gwarancyjnego o zwrot składek należy wykazać kwotę mającą podlegać zwrotowi. Do wniosku dołącza się:
+
+- **1)** kopię ostatecznej decyzji administracyjnej właściwego marszałka województwa o wykreśleniu z rejestru, o którym mowa w art. 22 ust. 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, w związku z zaprzestaniem wykonywania działalności objętej wpisem wraz z wykazem umów, z których wynikają składki podlegające zwrotowi w przypadku, o którym mowa w ust. 8a pkt 1;
+- **2)** korektę przekazanej informacji wraz z wykazem umów, z których wynikają składki podlegające zwrotowi w przypadku, o którym mowa w ust. 8a pkt 2;
+- **3)** dokumenty, z których wynika brak zobowiązania względem Funduszu Pomocowego w przypadku, o którym mowa w ust. 8a pkt 3.”,
+    - **d)** po ust. 14 dodaje się ust. 14a w brzmieniu: „14a. Komunikat, o którym mowa w ust. 14, określa termin powiadomienia przez podróżnego o odstąpieniu od umowy o udział w imprezie turystycznej lub powiadomienia o rozwiązaniu umowy o udział w imprezie turystycznej przez organizatora turystyki, które to odstąpienie od umowy lub rozwiązanie umowy pozostaje w bezpośrednim związku z nieuniknionymi i nadzwyczajnymi okolicznościami, o których mowa w ust. 14.”,
+    - **e)** po ust. 16 dodaje się ust. 16a w brzmieniu: „16a. W przypadku niezłożenia w terminie, o którym mowa w art. 47 ust. 6 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych, wniosku organizatora turystyki albo wniosku podróżnego umożliwiających powiązanie tych wniosków, złożony wniosek pozostawia się bez rozpoznania, o czym informuje się organizatora turystyki albo podróżnego za pośrednictwem systemu teleinformatycznego Ubezpieczeniowego Funduszu Gwarancyjnego.”,
+    - **f)** po ust. 17 dodaje się ust. 17a w brzmieniu: „17a. W przypadku:
+
+- **1)** ujawnienia w wyniku przeprowadzonych czynności sprawdzających, że wypłata, o której mowa w ust. 14, stanowi kwotę nienależnie pobraną,
+- **2)** niedokonywania zwrotu wypłat, o których mowa w ust. 17, na Fundusz Pomocowy – Ubezpieczeniowy Fundusz Gwarancyjny wzywa organizatora turystyki do zwrotu środków wraz z ustawowymi odsetkami w wysokości określonej w wezwaniu, w terminie 14 dni od dnia doręczenia wezwania.”,
+    - **g)** ust. 19 otrzymuje brzmienie: „19. W przypadku gdy wpłaty podróżnego dokonane zostały w walucie innej niż polska, kwotę należnej wypłaty ustala się w walucie polskiej z zastosowaniem kursu średniego ogłoszonego dla danej waluty przez Narodowy Bank Polski z dnia poprzedzającego dzień złożenia wniosku przez organizatora turystyki.”,
+    - **h)** ust. 23 otrzymuje brzmienie: „23. W zakresie wypłat, o których mowa w ust. 14, przepisy art. 15ka ust. 1–19, 22–28, 31, 32 i 37 oraz art. 15kb ust. 5, 6, 7c i 8, stosuje się odpowiednio, przy czym wypłata podlega zwrotowi do Funduszu Pomocowego.”;
+
+- **9)** w art. 15zx:
+    - **a)** w ust. 8 wyrazy „art. 84 ust. 8–8e” zastępuje się wyrazami „art. 84 ust. 1a i 8–8e”,
+    - **b)** dodaje się ust. 9–11 w brzmieniu: „9. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma w sprawie nienależnie pobranego świadczenia postojowego Zakład Ubezpieczeń Społecznych może doręczyć osobie, która pobrała nienależnie świadczenie postojowe, w postaci elektronicznej na jej profilu informacyjnym utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych. Informacja o umieszczeniu na profilu informacyjnym decyzji, postanowienia, zawiadomienia, wezwania, informacji lub innego pisma w sprawie nienależnie pobranego świadczenia postojowego może zostać przesłana przez Zakład Ubezpieczeń Społecznych osobie, która pobrała nienależnie świadczenie postojowe, na wskazany we wniosku o świadczenie postojowe adres poczty elektronicznej lub numer telefonu.
+
+10. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma, o których mowa w ust. 9, opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym, kwalifikowaną pieczęcią elektroniczną Zakładu Ubezpieczeń Społecznych albo zamieszcza się w nich imię, nazwisko i stanowisko służbowe osoby upoważnionej do ich wydania.
+
+11. W przypadku, o którym mowa w ust. 9, decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma w sprawie nienależnie pobranego świadczenia postojowego uznaje się za doręczone:
+
+- **1)** w momencie ich odbioru przez osobę, która pobrała nienależnie świadczenie postojowe, na profilu informacyjnym;
+- **2)** po upływie 14 dni od dnia umieszczenia decyzji, postanowienia, zawiadomienia, wezwania, informacji i innego pisma w sprawie nienależnie pobranego świadczenia postojowego na profilu informacyjnym – w przypadku ich nieodebrania.”;
+- **10)** w art. 15zze :
+    - **a)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Powiatowy urząd pracy w celu realizacji zadań przewidzianych w ustawie może pozyskiwać od instytucji publicznych, które udzielały wsparcia w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, w związku z wystąpieniem tego stanu, oraz od organów Krajowej Administracji Skarbowej i Państwowej Inspekcji Pracy informacje mające znaczenie dla oceny spełniania warunków przyznania wsparcia i prawidłowości wykorzystania przyznanych środków, w tym informacje o pracownikach w rozumieniu art. 15g ust. 4 zdanie pierwsze lub osobach, o których mowa w art. 15zzb ust. 2, art. 15zze ust. 2 i art. 15zze ust. 2, których wynagrodzenia zostały dofinansowane w ramach zadań, o których mowa w art. 15zzb, art. 15zze i art. 15zze . Informacje o pracownikach w rozumieniu art. 15g ust. 4 zdanie pierwsze lub osobach, o których mowa w art. 15zzb ust. 2, art. 15zze ust. 2 i art. 15zze ust. 2, mogą być pozyskiwane w celu ustalenia lub weryfikacji okoliczności, o których mowa w art. 15zzb ust. 1, 2, 4 i 8, art. 15zze ust. 1, 2, 4 i 7 oraz art. 15zze ust. 1–3 i 7.
+
+1b. Powiatowy urząd pracy może wystąpić o informacje o pracownikach w rozumieniu art. 15g ust. 4 zdanie pierwsze lub o osobach, o których mowa w art. 15zzb ust. 2, art. 15zze ust. 2 i art. 15zze ust. 2, obejmujące:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **3)** informacje związane z zatrudnieniem pracowników lub osób w okresie objętym wsparciem udzielonym w związku z wystąpieniem stanu zagrożenia epidemicznego albo stanu epidemii dotyczące:
+    - **a)** czasu trwania i rodzaju umowy,
+    - **b)** wymiaru czasu pracy,
+    - **c)** wysokości wynagrodzenia,
+    - **d)** informacji o obowiązku odprowadzania składek na ubezpieczenie społeczne od wynagrodzenia,
+    - **e)** informacji o odprowadzaniu i wysokości odprowadzonych składek na ubezpieczenie społeczne,
+    - **f)** informacji o odprowadzaniu i wysokości odprowadzonych zaliczek na podatek dochodowy,
+    - **g)** informacji o objęciu ich przestojem ekonomicznym lub obniżonym wymiarem czasu pracy,
+    - **h)** informacji o nieobecnościach w pracy,
+    - **i)** okresu i wysokości wsparcia udzielonego na pracownika lub osobę,
+    - **j)** trybu rozwiązania stosunku pracy.”,
+    - **b)** po ust. 2a dodaje się ust. 2b i 2c w brzmieniu: „2b. Wojewódzki urząd pracy w celu realizacji zadań przewidzianych w ustawie może pozyskiwać od instytucji publicznych, które udzielały wsparcia w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, w związku z wystąpieniem tego stanu, oraz od organów Krajowej Administracji Skarbowej i Państwowej Inspekcji Pracy informacje mające znaczenie dla oceny spełniania warunków przyznania świadczeń na rzecz ochrony miejsc pracy i prawidłowości wykorzystania przyznanych środków, w tym informacje o pracownikach, w rozumieniu art. 15g ust. 4, których wynagrodzenia zostały dofinansowane w ramach świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15g, art. 15ga, art. 15gg, art. 15gga i art. 15gga lub w przepisach wykonawczych wydanych na podstawie art. 15ggb ust. 1. Informacje o pracownikach mogą być pozyskiwane w celu ustalenia lub weryfikacji okoliczności, o których mowa w art. 15g ust. 1, 7, 7a, 10, 10a i 18, art. 15ga ust. 1–3, 5 i 6, art. 15gg ust. 4, 5, 7 i 8 oraz art. 15gga ust. 3 pkt 1, ust. 4, 5 i ust. 15 pkt 1.
+
+2c. Wojewódzki urząd pracy może wystąpić o informacje o pracownikach w rozumieniu art. 15g ust. 4, obejmujące:
+
+- **1)** imię i nazwisko;
+- **2)** numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **3)** informacje związane z zatrudnieniem pracowników w okresie objętym wsparciem udzielonym w związku z wystąpieniem stanu zagrożenia epidemicznego albo stanu epidemii dotyczące:
+    - **a)** czasu trwania i rodzaju umowy,
+    - **b)** wymiaru czasu pracy,
+    - **c)** wysokości wynagrodzenia,
+    - **d)** informacji o obowiązku odprowadzania składek na ubezpieczenie społeczne od wynagrodzenia,
+    - **e)** informacji o odprowadzaniu i wysokości odprowadzonych składek na ubezpieczenie społeczne od wynagrodzenia,
+    - **f)** informacji o odprowadzaniu i wysokości odprowadzonych zaliczek na podatek dochodowy,
+    - **g)** informacji o objęciu pracownika przestojem ekonomicznym lub obniżonym wymiarem czasu pracy,
+    - **h)** informacji o nieobecnościach w pracy,
+    - **i)** okresu i wysokości wsparcia udzielonego na pracownika,
+    - **j)** trybu rozwiązania stosunku pracy;
+
+- **4)** informacje związane z zatrudnieniem pracownika, o których mowa w pkt 3 lit. a–d, w okresie 3 miesięcy poprzedzających okres objęty wsparciem.”;
+- **11)** po art. 15zze dodaje się art. 15zze w brzmieniu: „Art. 15zze . Starosta nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących udzielania, przyznania, umorzenia lub zwrotu wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze .”;
+- **12)** w art. 15zzf :
+    - **a)** w ust. 2 w części wspólnej wyrazy „na okres nie dłuższy niż 6 miesięcy” zastępuje się wyrazami „przez okres nie dłuższy niż 3 miesiące od dnia odwołania stanu zagrożenia epidemicznego i stanu epidemii, ogłoszonego z powodu COVID-19”,
+    - **b)** w ust. 5 po wyrazie „pożyczki” dodaje się wyrazy „ , o których mowa w ust. 1, 2 lub 4,”,
+    - **c)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Podmiot, który skorzystał ze zmiany warunków umowy pożyczki, o których mowa w ust. 1, może złożyć wniosek do pośrednika finansowego o:
+
+- **1)** zawieszenie spłat rat kapitałowo-odsetkowych na okres nie dłuższy niż 6 miesięcy lub
+- **2)** wydłużenie okresu spłaty o dodatkowy, nie dłuższy niż 6 miesięcy okres, lub
+- **3)** obniżenie oprocentowania spłaty pożyczki do 0% w skali roku na okres nie dłuższy niż 6 miesięcy.
+
+5b. Pośrednik finansowy dokonuje zmiany warunków umowy pożyczki, o których mowa w ust. 5a, w przypadku gdy według jego oceny pożyczkobiorca uzasadnił, że jego sytuacja finansowa nie uległa poprawie lub sytuacja związana z COVID-19 ponownie spowodowała dla pożyczkobiorcy negatywne konsekwencje ekonomiczne lub powoduje ryzyko wystąpienia takich konsekwencji w przyszłości.”;
+
+- **13)** po art. 15zzf dodaje się art. 15zzf w brzmieniu: „Art. 15zzf . 1. Pożyczka na podjęcie działalności gospodarczej, o której mowa w art. 61e pkt 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, może zostać udzielona osobom niespełniającym warunku określonego w art. 61l pkt 3 tej ustawy, w przypadku gdy zakończyły prowadzenie działalności gospodarczej w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, w związku z wystąpieniem tego stanu, a przedmiot zamierzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) na poziomie podklasy jest inny od działalności zakończonej.
+
+2. Warunek innego przedmiotu zamierzonej działalności gospodarczej według Polskiej Klasyfikacji Działalności (PKD) na poziomie podklasy od działalności zakończonej, o którym mowa w ust. 1, nie dotyczy przypadku, gdy wniosek o pożyczkę zostanie złożony po upływie 30 dni od dnia odwołania stanu zagrożenia epidemicznego i stanu epidemii, ogłoszonego z powodu COVID-19.”;
+
+- **14)** w art. 31a:
+    - **a)** po ust. 4 dodaje się ust. 4a–4c w brzmieniu: „4a. Koszty realizacji rozwiązań przewidzianych dla podmiotów, o których mowa w art. 15g ust. 1–2, art. 15g , art. 15ga ust. 1 i 5, art. 15gg ust. 1 i 2, art. 15gga ust. 1, art. 15gga ust. 1, oraz koszty ich obsługi, w latach 2022–2024 są finansowane ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych.
+
+4b. Kwota środków Funduszu Gwarantowanych Świadczeń Pracowniczych przeznaczona na finansowanie kosztów obsługi, o których mowa w ust. 4 i 4a, nie przekracza łącznie wysokości określonej w ust. 4.
+
+4c. Koszty rozbudowy systemów teleinformatycznych ministra właściwego do spraw pracy, wykorzystywanych do przyznawania i rozliczania świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1, art. 15gga ust. 1 oraz art. 15gga ust. 1, są finansowane ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych.”,
+
+- **b)** ust. 7 otrzymuje brzmienie: „7. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych przekazane wojewódzkim urzędom pracy na finansowanie zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1 oraz art. 15gg ust. 1, niewykorzystane w okresie realizacji zadania, podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych w terminie 2 miesięcy od zakończenia okresu realizacji zadania.”,
+- **c)** dodaje się ust. 9 w brzmieniu: „9. Środki zwrócone przez podmioty korzystające ze świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1, art. 15gga ust. 1 oraz art. 15gga ust. 1, w danym miesiącu na rachunek bankowy wojewódzkiego urzędu pracy, podlegają zwrotowi na rachunek bankowy dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych w terminie do 10. dnia następnego miesiąca.”;
+- **15)** w art. 31qa:
+    - **a)** ust. 8 otrzymuje brzmienie: „8. Środki Funduszu Pracy, o których mowa w ust. 1 i 2 oraz w art. 31q ust. 9, przekazane samorządom powiatów i niewykorzystane w okresie realizacji zadania, podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Pracy w terminie 2 miesięcy od zakończenia okresu realizacji zadania.”,
+    - **b)** po ust. 8 dodaje się ust. 8a w brzmieniu: „8a. Dysponent Funduszu Pracy może dokonać wypłaty środków Funduszu Pracy na wypłatę wsparcia, o którym mowa w art. 31zzn ust. 3 i 4, do dnia 31 grudnia 2021 r.”,
+    - **c)** dodaje się ust. 11–13 w brzmieniu: „11. Środki zwrócone przez podmioty korzystające ze wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze , na rachunek bankowy samorządu powiatu, rozliczone przez powiatowy urząd pracy w danym miesiącu, podlegają zwrotowi na rachunek bankowy dysponenta Funduszu Pracy w terminie do
+
+10. dnia następnego miesiąca.
+
+12. Koszty realizacji zadań, o których mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze , w latach 2022–2024 są finansowane ze środków Funduszu Pracy.
+
+13. Koszty rozbudowy systemów teleinformatycznych ministra właściwego do spraw pracy, wykorzystywanych do przyznawania i rozliczenia wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze , są finansowane ze środków Funduszu Pracy.”;
+
+- **16)** w art. 31zzn dodaje się ust. 3 i 4 w brzmieniu: „3. Na podstawie wniosków, o których mowa w ust. 1, rozpatrzonych do dnia 30 czerwca 2021 r., możliwe jest dokonanie wypłaty wsparcia po tym terminie, nie później niż do dnia 31 marca 2022 r.
+
+4. Wnioski, o których mowa w ust. 1, nierozpatrzone do dnia 30 czerwca 2021 r. mogą być rozpatrzone, a kwota wsparcia może być wypłacona w terminie do dnia 31 marca 2022 r.”;
+
+- **17)** po art. 31zzs dodaje się art. 31zzt–31zzw w brzmieniu: „Art. 31zzt. Kto uporczywie nie uiszcza rat, o których mowa w art. 15kb ust. 7, na Fundusz Zwrotów lub rat, o których mowa w art. 15kc ust. 17, na Fundusz Pomocowy, podlega grzywnie. Art. 31zzu. Kto zaniża wysokość składki, o której mowa w art. 15kc ust. 4 pkt 5, należnej na Fundusz Pomocowy, podlega grzywnie. Art. 31zzw. Za czyny, o których mowa w art. 31zzt i art. 31zzu, odpowiada również podmiot zbiorowy, o ile czyn popełniła osoba fizyczna, o której mowa w art. 3 ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2020 r. poz. 358 oraz z 2021 r. poz. 1177).”.
+
+**Art. 2.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2021 r. poz. 1100, 1162, 1621 i 2270) wprowadza się następujące zmiany:
+
+- **1)** po rozdziale 12a dodaje się rozdział 12b w brzmieniu: „Rozdział 12b Program aktywizacyjny dla cudzoziemców
+
 **Art. 62d.**
 
 1. Minister właściwy do spraw pracy może opracować resortowy program aktywizacyjny dla cudzoziemców.
@@ -37,17 +235,17 @@ source: "isap-pdf"
 
 3. Minister właściwy do spraw pracy może przyznać na realizację programu aktywizacyjnego dla cudzoziemców środki z rezerwy dysponenta Funduszu Pracy.
 
-4. Powierzenie realizacji zadań zakresie programu aktywizacyjnego dla cudzoziemców odbywa się po przeprowadzeniu konkursu ofert ogłaszanego przez ministra właściwego do spraw pracy.
+4. Powierzenie realizacji zadań w zakresie programu aktywizacyjnego dla cudzoziemców odbywa się po przeprowadzeniu konkursu ofert ogłaszanego przez ministra właściwego do spraw pracy.
 
 5. Konkurs ofert jest kierowany do:
 
-- **1)** organizacji, o których mowa art. 3 ust. 2 lub 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2020 r. poz. 1057 oraz z 2021 r. poz. 1038, 1243 i 1535), lub
-- **2)** podmiotów, o których mowa art. 6 ust. 1 pkt 1–4, lub
+- **1)** organizacji, o których mowa w art. 3 ust. 2 lub 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2020 r. poz. 1057 oraz z 2021 r. poz. 1038, 1243 i 1535), lub
+- **2)** podmiotów, o których mowa w art. 6 ust. 1 pkt 1–4, lub
 - **3)** jednostek samorządu terytorialnego.
 
-6. Na stronie podmiotowej ministra właściwego do spraw pracy Biuletynie Informacji Publicznej umieszcza się ogłoszenie o konkursie ofert oraz informacje o wyniku tego konkursu.
+6. Na stronie podmiotowej ministra właściwego do spraw pracy w Biuletynie Informacji Publicznej umieszcza się ogłoszenie o konkursie ofert oraz informacje o wyniku tego konkursu.
 
-7. Do wyboru realizatorów zadań nie stosuje się przepisów o prowadzeniu działalności pożytku publicznego na podstawie zlecenia realizacji zadań publicznych, o których mowa dziale II rozdziale 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+7. Do wyboru realizatorów zadań nie stosuje się przepisów o prowadzeniu działalności pożytku publicznego na podstawie zlecenia realizacji zadań publicznych, o których mowa w dziale II w rozdziale 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
 **Art. 62e.**
 
@@ -63,24 +261,25 @@ source: "isap-pdf"
 - **8)** informację o możliwości odwołania konkursu ofert przed upływem terminu na złożenie ofert oraz możliwości przedłużenia terminu złożenia ofert i terminu rozstrzygnięcia konkursu ofert;
 - **9)** dodatkowe warunki lub informacje – o ile jest to konieczne.
 
-2. Oferta złożona konkursie ofert zawiera:
+2. Oferta złożona w konkursie ofert zawiera:
 
 - **1)** szczegółowy sposób realizacji zadania;
 - **2)** termin i miejsce realizacji zadania;
-- **3)** harmonogram działań zakresie realizacji zadania;
+- **3)** harmonogram działań w zakresie realizacji zadania;
 - **4)** kalkulację przewidywanych kosztów realizacji zadania;
-- **5)** inne postanowienia wynikające z dodatkowych warunków lub informacji, o których mowa ust. 1 pkt 9.
+- **5)** inne postanowienia wynikające z dodatkowych warunków lub informacji, o których mowa w ust. 1 pkt 9.
 
 3. Do oferty dołącza się:
 
 - **1)** aktualny odpis z odpowiedniego rejestru lub inne dokumenty informujące o statusie prawnym podmiotu składającego ofertę i umocowaniu osób go reprezentujących;
+- **2)** oświadczenie potwierdzające, że w stosunku do podmiotu składającego ofertę nie stwierdzono niezgodnego z przeznaczeniem wykorzystania środków publicznych;
 - **3)** oświadczenie osoby uprawnionej do reprezentowania podmiotu składającego ofertę o niekaralności zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi oraz niekaralności za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
-4. Oświadczenia, o których mowa ust. 3 pkt 2 i 3, są składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+4. Oświadczenia, o których mowa w ust. 3 pkt 2 i 3, są składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-5. Minister właściwy do spraw pracy może powołać zespół do oceny ofert składzie co najmniej trzech osób. W przypadku powołania zespołu minister właściwy do spraw pracy wyznacza przewodniczącego zespołu.
+5. Minister właściwy do spraw pracy może powołać zespół do oceny ofert w składzie co najmniej trzech osób. W przypadku powołania zespołu minister właściwy do spraw pracy wyznacza przewodniczącego zespołu.
 
-6. Do członków zespołu biorących udział przeprowadzaniu konkursu ofert oraz dokonywaniu wyboru najkorzystniejszych ofert stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, dotyczące wyłączenia pracownika.
+6. Do członków zespołu biorących udział w przeprowadzaniu konkursu ofert oraz dokonywaniu wyboru najkorzystniejszych ofert stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, dotyczące wyłączenia pracownika.
 
 **Art. 62f.**
 
@@ -95,10 +294,10 @@ source: "isap-pdf"
 - **5)** kwotę przekazywanych środków;
 - **6)** termin i sposób rozliczenia przyznanych środków z Funduszu Pracy;
 - **7)** termin zwrotu niewykorzystanej części środków z Funduszu Pracy;
-- **8)** zasady i zakres dokumentowania działań podjętych wobec cudzoziemców ramach realizacji programu aktywizacyjnego dla cudzoziemców;
-- **9)** sposób kontroli i zakres monitorowania realizacji programu aktywizacyjnego dla cudzoziemców, tym rozliczania przyznanych środków z Funduszu Pracy;
+- **8)** zasady i zakres dokumentowania działań podjętych wobec cudzoziemców w ramach realizacji programu aktywizacyjnego dla cudzoziemców;
+- **9)** sposób kontroli i zakres monitorowania realizacji programu aktywizacyjnego dla cudzoziemców, w tym rozliczania przyznanych środków z Funduszu Pracy;
 - **10)** warunki i sposób zmiany oraz rozwiązania umowy;
-- **11)** inne postanowienia wynikające z dodatkowych warunków lub informacji, o których mowa art. 62e ust. 1 pkt 9.
+- **11)** inne postanowienia wynikające z dodatkowych warunków lub informacji, o których mowa w art. 62e ust. 1 pkt 9.
 
 **Art. 62g.**
 
@@ -109,54 +308,68 @@ source: "isap-pdf"
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
 - **2)** niewykorzystane,
 - **3)** pobrane nienależnie,
-- **4)** pobrane nadmiernej wysokości – podlegają zwrotowi na rachunek dysponenta Funduszu Pracy.
+- **4)** pobrane w nadmiernej wysokości – podlegają zwrotowi na rachunek dysponenta Funduszu Pracy.
 
-3. Środki Funduszu Pracy, o których mowa ust. 2 pkt 1, 3 i 4, podlegają zwrotowi wraz z odsetkami wysokości określonej jak dla zaległości podatkowych.”;
+3. Środki Funduszu Pracy, o których mowa w ust. 2 pkt 1, 3 i 4, podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych.”;
 
-- **2)** art. 108 ust. 1 po pkt 21a dodaje się pkt 21b brzmieniu: „21b) kosztów umów, o których mowa art. 62f ust. 1;”.
+- **2)** w art. 108 w ust. 1 po pkt 21a dodaje się pkt 21b w brzmieniu: „21b) kosztów umów, o których mowa w art. 62f ust. 1;”.
 
-**Art. 3.** W ustawie z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom transakcjach handlowych (Dz. U. z 2021 r. poz. 424) art. 13a:
+**Art. 3.** W ustawie z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2021 r. poz. 424) w art. 13a:
+
+- **1)** w ust. 1 wyrazy „art. 27b ust. 2” zastępuje się wyrazami „art. 27b ust. 2 pkt 1 i 2”;
+- **2)** w ust. 3 wyrazy „art. 27b ust. 2” zastępuje się wyrazami „art. 27b ust. 2 pkt 1 i 2”;
+- **3)** w ust. 4 we wprowadzeniu do wyliczenia wyrazy „art. 27b ust. 2” zastępuje się wyrazami „art. 27b ust. 2 pkt 1 i 2”.
 
 **Art. 4.** W ustawie z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2020 r. poz. 2139 oraz z 2021 r. poz. 1641) wprowadza się następujące zmiany:
 
+- **1)** w art. 9: poz. 2095, 2120, 2133, 2262, 2269 i 2317).”;
+    - **a)** w ust. 1 po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) kody lotnisk Organizacji Międzynarodowego Lotnictwa Cywilnego (ICAO), jeżeli impreza turystyczna lub wykonywana usługa w ramach powiązanych usług turystycznych zawiera przelot;”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Na wniosek Ubezpieczeniowego Funduszu Gwarancyjnego, złożony w postaci elektronicznej, udostępnia się dane zawarte w wykazie umów. Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony do przetwarzania danych zawartych w wykazie umów, w zakresie niezbędnym do zapewnienia prawidłowego funkcjonowania Turystycznego Funduszu Gwarancyjnego oraz Turystycznego Funduszu Pomocowego, o którym mowa w art. 15kc ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r.
+
+- **2)** w art. 30 w ust. 7 pkt 3 otrzymuje brzmienie: „3) wykreśleniu przedsiębiorcy turystycznego z rejestru w związku z zaprzestaniem przez niego wykonywania działalności objętej wpisem do rejestru na wniosek tego przedsiębiorcy turystycznego, po uprzednim złożeniu przez niego deklaracji i opłaceniu należnych składek lub rat na Turystyczny Fundusz Gwarancyjny, Turystyczny Fundusz Pomocowy, o którym mowa w art. 15kc ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, lub Turystyczny Fundusz Zwrotów, o którym mowa w art. 15kb ust. 1 tej ustawy;”.
+
 **Art. 5.**
 
-1. Przepis art. 15g ust. 17d ustawy zmienianej art. 1 stosuje się do przeprowadzania kontroli podmiotów, którym przyznano przed dniem wejścia życie niniejszej ustawy świadczenia na rzecz ochrony miejsc pracy, o których mowa art. 15g ust. 1 lub 1a ustawy zmienianej art. 1.
+1. Przepis art. 15g ust. 17d ustawy zmienianej w art. 1 stosuje się do przeprowadzania kontroli podmiotów, którym przyznano przed dniem wejścia w życie niniejszej ustawy świadczenia na rzecz ochrony miejsc pracy, o których mowa w art. 15g ust. 1 lub 1a ustawy zmienianej w art. 1.
 
-2. Przepis art. 15gg ust. 22 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się do przeprowadzania kontroli podmiotów, którym przyznano przed dniem wejścia życie niniejszej ustawy świadczenia na rzecz ochrony miejsc pracy, o których mowa art. 15gg ust. 1 ustawy zmienianej art. 1.
+2. Przepis art. 15gg ust. 22 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do przeprowadzania kontroli podmiotów, którym przyznano przed dniem wejścia w życie niniejszej ustawy świadczenia na rzecz ochrony miejsc pracy, o których mowa w art. 15gg ust. 1 ustawy zmienianej w art. 1.
 
 **Art. 6.**
 
-1. Do zwrotu świadczeń, o których mowa art. 15gg ust. 1 ustawy zmienianej art. 1, lub środków, o których mowa art. 15gg ust. 2 ustawy zmienianej art. 1, przyznanych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy art. 15gg ust. 23 i 23b–23d ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+1. Do zwrotu świadczeń, o których mowa w art. 15gg ust. 1 ustawy zmienianej w art. 1, lub środków, o których mowa w art. 15gg ust. 2 ustawy zmienianej w art. 1, przyznanych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 15gg ust. 23 i 23b–23d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Do decyzji administracyjnych o obowiązku zwrotu świadczeń, o których mowa art. 15gg ust. 1 ustawy zmienianej art. 1, lub środków, o których mowa art. 15gg ust. 2 ustawy zmienianej art. 1, wydanych przez dyrektora wojewódzkiego urzędu pracy przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy art. 15gg ust. 27–29 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+2. Do decyzji administracyjnych o obowiązku zwrotu świadczeń, o których mowa w art. 15gg ust. 1 ustawy zmienianej w art. 1, lub środków, o których mowa w art. 15gg ust. 2 ustawy zmienianej w art. 1, wydanych przez dyrektora wojewódzkiego urzędu pracy przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 15gg ust. 27–29 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 7.**
 
-1. Do podmiotów, którym przyznano świadczenia na rzecz ochrony miejsc pracy, o których mowa art. 15gg ust. 1 ustawy zmienianej art. 1, przed dniem wejścia życie niniejszej ustawy, stosuje się przepis art. 15gg ust. 23a ustawy zmienianej art. 1.
+1. Do podmiotów, którym przyznano świadczenia na rzecz ochrony miejsc pracy, o których mowa w art. 15gg ust. 1 ustawy zmienianej w art. 1, przed dniem wejścia w życie niniejszej ustawy, stosuje się przepis art. 15gg ust. 23a ustawy zmienianej w art. 1.
 
-2. Do podmiotów, którym przyznano świadczenia na rzecz ochrony miejsc pracy, o których mowa art. 15gga ust. 1 ustawy zmienianej art. 1, przed dniem wejścia życie niniejszej ustawy, stosuje się przepis art. 15gga ust. 18 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+2. Do podmiotów, którym przyznano świadczenia na rzecz ochrony miejsc pracy, o których mowa w art. 15gga ust. 1 ustawy zmienianej w art. 1, przed dniem wejścia w życie niniejszej ustawy, stosuje się przepis art. 15gga ust. 18 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 8.**
 
-1. Jeżeli na podstawie art. 15gg ust. 23 ustawy zmienianej art. 1, brzmieniu dotychczasowym, przed dniem wejścia życie niniejszej ustawy została wydana ostateczna decyzja o zwrocie całości otrzymanej pomocy na podstawie innych przesłanek niż określone art. 15gg ust. 23 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, decyzja ta podlega uchyleniu lub zmianie.
+1. Jeżeli na podstawie art. 15gg ust. 23 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, przed dniem wejścia w życie niniejszej ustawy została wydana ostateczna decyzja o zwrocie całości otrzymanej pomocy na podstawie innych przesłanek niż określone w art. 15gg ust. 23 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, decyzja ta podlega uchyleniu lub zmianie.
 
-2. Wszczęcie postępowania, o którym mowa ust. 1, następuje z urzędu i nie wymaga zawiadomienia strony.
+2. Wszczęcie postępowania, o którym mowa w ust. 1, następuje z urzędu i nie wymaga zawiadomienia strony.
 
-**Art. 9.** Składki przekazane na Turystyczny Fundusz Pomocowy, o którym mowa art. 15kc ust. 1 ustawy zmienianej art. 1, przez organizatorów turystyki przed dniem wejścia życie niniejszej ustawy, odprowadzone przypadkach wskazmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+**Art. 9.** Składki przekazane na Turystyczny Fundusz Pomocowy, o którym mowa w art. 15kc ust. 1 ustawy zmienianej w art. 1, przez organizatorów turystyki przed dniem wejścia w życie niniejszej ustawy, odprowadzone w przypadkach wskazanych w art. 15kc ust. 8 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, podlegają zarachowaniu na poczet następnych należnych do przekazania składek po dniu wejścia w życie niniejszej ustawy, zgodnie z art. 15kc ust. 8 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 10.** Do czasu zakończenia postępowania danej instancji, sprawach udzielania, przyznania, umorzenia lub zwrotu wsparcia, o którym mowa art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze , wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, zakresie obowiązku uiszczania kosztów sądowych, stosuje się przepisy dotychczasowe.
+**Art. 10.** Do czasu zakończenia postępowania w danej instancji, w sprawach udzielania, przyznania, umorzenia lub zwrotu wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze , wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, w zakresie obowiązku uiszczania kosztów sądowych, stosuje się przepisy dotychczasowe.
 
 **Art. 11.**
 
-1. Podmiot, o którym mowa art. 15zzf ust. 1 ustawy zmienianej art. 1, który za zgodą pośrednika finansowego zawiesił prowadzenie działalności gospodarczej na okres nie dłuższy niż 6 miesięcy lub nie zatrudniał pracownika na utworzonym stanowisku pracy przez okres nie dłuższy niż 6 miesięcy, może złożyć do pośrednika finansowego wniosek o przedłużenie okresu zawieszenia prowadzenia działalności gospodarczej lub niezatrudniania pracownika na utworzonym stanowisku pracy na okres określony art. 15zzf ust. 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+1. Podmiot, o którym mowa w art. 15zzf ust. 1 ustawy zmienianej w art. 1, który za zgodą pośrednika finansowego zawiesił prowadzenie działalności gospodarczej na okres nie dłuższy niż 6 miesięcy lub nie zatrudniał pracownika na utworzonym stanowisku pracy przez okres nie dłuższy niż 6 miesięcy, może złożyć do pośrednika finansowego wniosek o przedłużenie okresu zawieszenia prowadzenia działalności gospodarczej lub niezatrudniania pracownika na utworzonym stanowisku pracy na okres określony w art. 15zzf ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Podmiot, o którym mowa art. 15zzf ust. 1 ustawy zmienianej art. 1, który za zgodą pośrednika finansowego zawiesił prowadzenie działalności gospodarczej na okres nie dłuższy niż 6 miesięcy lub nie zatrudniał pracownika na utworzonym stanowisku pracy przez okres nie dłuższy niż 6 miesięcy i po upływie tego okresu nie wznowił działalności gospodarczej lub nie zatrudnił pracownika na utworzonym stanowisku pracy, może złożyć do pośrednika finansowego wniosek o zgodę na:
+2. Podmiot, o którym mowa w art. 15zzf ust. 1 ustawy zmienianej w art. 1, który za zgodą pośrednika finansowego zawiesił prowadzenie działalności gospodarczej na okres nie dłuższy niż 6 miesięcy lub nie zatrudniał pracownika na utworzonym stanowisku pracy przez okres nie dłuższy niż 6 miesięcy i po upływie tego okresu nie wznowił działalności gospodarczej lub nie zatrudnił pracownika na utworzonym stanowisku pracy, może złożyć do pośrednika finansowego wniosek o zgodę na:
 
-- **1)** odstąpienie od zastosowania sankcji określonych art. 61o ust. 1, 1a, 2 lub 3 ustawy zmienianej art. 2 lub
-- **2)** zawieszenie prowadzenia działalności gospodarczej na okres określony art. 15zzf ust. 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, lub niezatrudnianie pracownika na utworzonym stanowisku pracy przez okres określony art. 15zzf ust. 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+- **1)** odstąpienie od zastosowania sankcji określonych w art. 61o ust. 1, 1a, 2 lub 3 ustawy zmienianej w art. 2 lub
+- **2)** zawieszenie prowadzenia działalności gospodarczej na okres określony w art. 15zzf ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, lub niezatrudnianie pracownika na utworzonym stanowisku pracy przez okres określony w art. 15zzf ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-3. Pośrednik finansowy dokonuje zmiany warunków umowy pożyczki, o których mowa ust. 1 lub 2, przypadku gdy według jego oceny pożyczkobiorca uzasadnił, że sytuacja związana z COVID-19 spowodowała dla pożyczkobiorcy negatywne konsekwencje ekonomiczne lub powoduje ryzyko wystąpienia takich konsekwencji przyszłości.
+3. Pośrednik finansowy dokonuje zmiany warunków umowy pożyczki, o których mowa w ust. 1 lub 2, w przypadku gdy według jego oceny pożyczkobiorca uzasadnił, że sytuacja związana z COVID-19 spowodowała dla pożyczkobiorcy negatywne konsekwencje ekonomiczne lub powoduje ryzyko wystąpienia takich konsekwencji w przyszłości.
 
-**Art. 12.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+**Art. 12.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 4, pkt 14 lit. b, pkt 15 lit. a i b oraz pkt 16, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 30 czerwca 2021 r.;
+- **2)** art. 1 pkt 6–8, pkt 14 lit. a i c, pkt 15 lit. c i pkt 17, art. 4 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+
 

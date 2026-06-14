@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.*
 
 Łącznie: **414** orzeczeń
-(pominięto 273 orzeczeń sądów rejonowych)
+(pominięto 276 orzeczeń sądów rejonowych)
 
 ## art. 1 (13)
 

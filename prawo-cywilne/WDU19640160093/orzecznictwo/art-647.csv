@@ -146,10 +146,16 @@ saos_id|date|court|case_number|type|score|saos_url
 90008|2009-04-07|SN|II CNP 147/08|Postanowienie|69|https://www.saos.org.pl/judgments/90008
 88157|2008-05-30|SN|V CNP 14/08|Postanowienie|69|https://www.saos.org.pl/judgments/88157
 87794|2008-04-08|SN|II CSK 60/08|Postanowienie|69|https://www.saos.org.pl/judgments/87794
+545830|2026-04-28|SO|I AGa 137/24|Wyrok|56|https://www.saos.org.pl/judgments/545830
+545293|2026-03-11|SO|VII AGa 1069/23|Wyrok|56|https://www.saos.org.pl/judgments/545293
+545673|2026-02-19|SO|I AGa 355/24|Wyrok|56|https://www.saos.org.pl/judgments/545673
+546752|2025-11-26|SO|I AGa 7/24|Wyrok|56|https://www.saos.org.pl/judgments/546752
 542116|2025-06-26|SO|I AGa 387/24|Wyrok|56|https://www.saos.org.pl/judgments/542116
+546627|2025-06-24|SO|I AGa 108/22|Wyrok|56|https://www.saos.org.pl/judgments/546627
 540136|2025-05-16|SO|I AGa 362/24|Wyrok|56|https://www.saos.org.pl/judgments/540136
 542515|2025-05-14|SO|I AGa 11/22|Wyrok|56|https://www.saos.org.pl/judgments/542515
 540868|2025-04-29|SO|V AGa 123/23|Wyrok|56|https://www.saos.org.pl/judgments/540868
+546629|2025-04-17|SO|I AGa 315/24|Wyrok|56|https://www.saos.org.pl/judgments/546629
 533526|2025-04-02|SO|I ACa 2832/22|Wyrok|56|https://www.saos.org.pl/judgments/533526
 540344|2025-03-31|SO|I AGa 255/22|Wyrok|56|https://www.saos.org.pl/judgments/540344
 525482|2025-03-05|SO|I ACa 2000/23|Wyrok|56|https://www.saos.org.pl/judgments/525482
@@ -165,6 +171,7 @@ saos_id|date|court|case_number|type|score|saos_url
 537595|2024-06-27|SO|I AGa 223/22|Wyrok|56|https://www.saos.org.pl/judgments/537595
 528171|2024-06-12|SO|I AGa 306/21|Wyrok|56|https://www.saos.org.pl/judgments/528171
 525291|2024-06-03|SO|I AGa 53/24|Wyrok|56|https://www.saos.org.pl/judgments/525291
+545059|2024-05-27|SO|V AGa 134/23|Wyrok|56|https://www.saos.org.pl/judgments/545059
 494933|2024-05-24|SO|I AGa 186/23|Wyrok|56|https://www.saos.org.pl/judgments/494933
 524898|2024-05-14|SO|I AGa 96/22|Wyrok|56|https://www.saos.org.pl/judgments/524898
 522786|2024-05-08|SO|I AGa 359/22|Wyrok|56|https://www.saos.org.pl/judgments/522786

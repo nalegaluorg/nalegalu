@@ -8,10 +8,10 @@ pos: 1788
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1788 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 2 grudnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001788) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1788/text.pdf) |
 
-Poz. 1788 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 2 grudnia 2024 r.
-zmieniające rozporządzenie w sprawie noszenia umundurowania przez żołnierzy Na podstawie art. 270 ust. 2 pkt 1–3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 20 maja 2022 r. w sprawie noszenia umundurowania przez żołnierzy (Dz. U. poz. 1237 oraz z 2024 r. poz. 64) w § 24:
+zmieniające rozporządzenie w sprawie noszenia umundurowania przez żołnierzy Na podstawie art. 270 ust. 2 pkt 1–3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 20 maja 2022 r. w sprawie noszenia umundurowania przez żołnierzy (Dz. U. poz. 1237 oraz z 2024 r. poz. 64) w § 24:
 1) pkt 5 otrzymuje brzmienie: „5) w składzie ubioru polowego:
 a) kurtek ubrania ochronnego z rękawicami lub bez,
 b) w czasie realizacji zadań służbowych – butów typu taktycznego w kolorze brązowym, sięgających za kostkę, innych od określonego wzoru;”;

@@ -8,10 +8,10 @@ pos: 1499
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 sierpnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1499 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 21 lipca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001499) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1499/text.pdf) |
 
-Poz. 1499 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 21 lipca 2017 r.
-w sprawie minimalnych rocznych poziomów zbierania zużytego sprzętu elektrycznego i elektronicznego Na podstawie art. 20 ust. 4 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. poz. 1688) zarządza się, co następuje: § 1. Minimalny roczny poziom zbierania zużytego sprzętu, który powstał ze sprzętu należącego do grup nr 1 i 2 oraz 4–6, określonych w załączniku nr 1 do ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, wynosi:
+w sprawie minimalnych rocznych poziomów zbierania zużytego sprzętu elektrycznego i elektronicznego Na podstawie art. 20 ust. 4 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. poz. 1688) zarządza się, co następuje:
+§ 1. Minimalny roczny poziom zbierania zużytego sprzętu, który powstał ze sprzętu należącego do grup nr 1 i 2 oraz 4–6, określonych w załączniku nr 1 do ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, wynosi:
 1) 50% w 2018 r.,
 2) 55% w 2019 r.,
 3) 60% w 2020 r.

@@ -8,10 +8,10 @@ pos: 261
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 lutego 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 261 Porozumienie dotyczące zmiany Umowy pomiędzy Rządem Rzeczypospolitej Polskiej a Europejską Agencją Kosmiczną w sprawie przystąpienia Polski do Konwencji o utworzeniu Europejskiej Agencji Kosmicznej i związanych z tym warunków, podpisane w Warszawie dnia 12 stycznia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2017-02-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/261/text.pdf) |
-
-Porozumienie dotyczące zmiany Umowy pomiędzy Rządem Rzeczypospolitej Polskiej a Europejską Agencją Kosmiczną w sprawie przystąpienia Polski do Konwencji o utworzeniu Europejskiej Agencji Kosmicznej i związanych z tym warunków, podpisane w Warszawie dnia 12 stycznia 2017 r.
 

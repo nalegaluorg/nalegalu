@@ -8,10 +8,10 @@ pos: 591
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 kwietnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 591 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 16 kwietnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-04-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/591/text.pdf) |
 
-Poz. 591 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 16 kwietnia 2024 r.
 zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r.
-poz. 324) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U.
+poz. 324) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U.
 poz. 1898 oraz z 2023 r. poz. 2171 i 2665) wprowadza się następujące zmiany:
 1) w § 3:
 a) w ust. 2 pkt 2 otrzymuje brzmienie: „2) podlega ubezpieczeniu społecznemu rolników w pełnym zakresie z mocy ustawy z dnia 20 grudnia 1990 r.

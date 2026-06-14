@@ -8,7 +8,7 @@ pos: 1222
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu nowej nazwy Akademii Pedagogicznej im. Komisji Edukacji Narodowej w Krakowie

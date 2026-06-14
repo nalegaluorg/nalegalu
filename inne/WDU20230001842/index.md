@@ -8,10 +8,10 @@ pos: 1842
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1842 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 1 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001842) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1842/text.pdf) |
 
-Poz. 1842 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 1 września 2023 r.
 w sprawie utworzenia Wyższej Szkoły Straży Granicznej Na podstawie art. 434 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r.
-poz. 742, 1088, 1234 i 1672) zarządza się, co następuje: § 1. 1. Tworzy się z dniem 1 października 2023 r. Wyższą Szkołę Straży Granicznej, zwaną dalej „Uczelnią”.
+poz. 742, 1088, 1234 i 1672) zarządza się, co następuje:
+§ 1. 1. Tworzy się z dniem 1 października 2023 r. Wyższą Szkołę Straży Granicznej, zwaną dalej „Uczelnią”.
 2. Siedzibą Uczelni jest miasto Koszalin.
 § 2. Uczelnię wyposaża się w następujące składniki mienia:
 1) nieruchomość składającą się z działki nr 6 obręb nr 19 w Koszalinie, przy ul. Marszałka Józefa Piłsudskiego 92, na której posadowione są budynki o nr 1, 2, 3, 4, 5, 8, 9, 13, 15, 16, 17, 18, 25, 26, 27, 28, 36, 38, 41, 41A, 41B, 42, 43, 44, 44A, 45, 46, 47, 51, 58 i 64, wraz z infrastrukturą towarzyszącą w postaci budowli i obiektów małej architektury;

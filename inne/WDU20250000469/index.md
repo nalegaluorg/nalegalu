@@ -8,12 +8,10 @@ pos: 469
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu nowych inwestycji
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -41,6 +39,19 @@ Art. 35–38. (pominięte)
 **Art. 1.** Ustawa określa zasady udzielania przedsiębiorcom wsparcia na realizację nowych inwestycji, organ właściwy w sprawach wspierania nowych inwestycji oraz jego kompetencje i tryb działania, a także zadania zarządzających obszarami odpowiedzialnych za wspieranie nowych inwestycji.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** nowa inwestycja:
+    - **a)** inwestycję w rzeczowe aktywa trwałe lub wartości niematerialne i prawne związane z założeniem nowego zakładu, zwiększeniem zdolności produkcyjnej istniejącego zakładu, dywersyfikacją produkcji zakładu przez wprowadzenie produktów uprzednio nieprodukowanych w zakładzie lub zasadniczą zmianą dotyczącą procesu produkcyjnego istniejącego zakładu lub
+    - **b)** nabycie aktywów należących do zakładu, który został zamknięty lub zostałby zamknięty, gdyby zakup nie nastąpił, przy czym aktywa nabywane są przez przedsiębiorcę niezwiązanego ze sprzedawcą i wyklucza się samo nabycie akcji lub udziałów przedsiębiorstwa;
+
+- **2)** obszar – tereny określone w przepisach wydanych na podstawie art. 5 ust. 3, na których zarządzający obszarem wykonuje zadania określone ustawą;
+- **3)** przedsiębiorca – przedsiębiorcę w rozumieniu art. 4 ust. 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222);
+- **4)** zarządzający obszarem – zarządzającego specjalną strefą ekonomiczną ustanowioną na podstawie przepisów ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 1604);
+- **5)** kryteria jakościowe – warunki zgodności ze średniookresową strategią rozwoju kraju, o której mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198), szczegółowo określone w przepisach wydanych na podstawie art. 14 ust. 3 pkt 3;
+- **6)** kryteria ilościowe – minimalne koszty inwestycji uzależnione od poziomu bezrobocia w powiecie, w którym ma być realizowana nowa inwestycja, szczegółowo określone w przepisach wydanych na podstawie art. 14 ust. 3 pkt 2; w przypadku gdy inwestycja jest położona w więcej niż jednym powiecie, poziom bezrobocia ustala się na podstawie tego powiatu, w którym znajdzie się większa część terenu, na którym zostanie zlokalizowana nowa inwestycja;
+- **7)** koszty kwalifikowane nowej inwestycji – poniesione w okresie ważności decyzji o wsparciu:
+    - **a)** koszty inwestycji kwalifikujące się do objęcia pomocą publiczną z tytułu nowej inwestycji, z wyłączeniem kosztów poniesionych na samochody osobowe, środki transportu lotniczego, tabor pływający oraz inne składniki majątku służące głównie celom osobistym przedsiębiorcy, a w przypadku przedsiębiorcy będącego spółką handlową – głównie celom osobistym jej wspólnika albo akcjonariusza, pomniejszone o naliczony podatek od towarów i usług oraz o podatek akcyzowy, jeżeli możliwość ich odliczeń wynika z odrębnych przepisów, lub
+    - **b)** dwuletnie koszty pracy poniesione przez przedsiębiorcę na tworzenie określonej liczby nowych miejsc pracy, przez określony czas, w związku z realizacją nowej inwestycji, jakie mogą być uwzględnione przy określaniu maksymalnej pomocy publicznej.
 
 **Art. 3.**
 
@@ -88,8 +99,8 @@ Art. 35–38. (pominięte)
 - **6)** podejmowanie działań przyczyniających się do polepszenia współpracy między przedsiębiorcami, lokalną społecznością oraz partnerami społecznymi;
 - **7)** pomoc przedsiębiorcom w kontaktach z administracją publiczną;
 - **8)** współpraca w zakresie uwzględniania w procesie kształcenia potrzeb rynku pracy:
-    - **a)** ze szkołami ponadpodstawowymi, w szczególności ze szkołami prowadzącymi kształcenie zawodowe, placówkami kształcenia ustawicznego, centrami kształcenia zawodowego i branżowymi centrami umiejętności, o których mowa w art. 2 pkt 2 lit. b i pkt 4 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933),
-    - **b)** z uczelniami, o których mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm. ) ;
+    - **a)** ze szkołami ponadpodstawowymi, w szczególności ze szkołami prowadzącymi kształcenie zawodowe, placówkami kształcenia ustawicznego, centrami kształcenia zawodowego i branżowymi centrami umiejętności, o których mowa w art. 2 pkt 2 lit. b i pkt 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933),
+    - **b)** z uczelniami, o których mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm. ) ;
 
 - **9)** tworzenie narzędzi na rzecz rozwoju innowacyjnej gospodarki;
 - **10)** rekomendowanie przedsiębiorcom optymalnej lokalizacji nowych inwestycji.
@@ -118,7 +129,7 @@ Art. 35–38. (pominięte)
 
 5. Zarządzający obszarem dokonuje przeglądu planu rozwoju inwestycji i dostosowuje go do bieżących warunków, nie rzadziej niż co 2 lata, a w przypadku, o którym mowa w art. 5 ust. 4, w terminie 30 dni, licząc od dnia wejścia w życie przepisów wydanych na podstawie tego przepisu.
 
-6. Minister właściwy do spraw gospodarki zatwierdza plan rozwoju inwestycji w terminie 60 dni, licząc od dnia jego przedłożenia przez zarządzającego obszarem, a jeżeli zgłosi zastrzeżenia do tego planu po ich uwzględnieniu.
+6. Minister właściwy do spraw gospodarki zatwierdza plan rozwoju inwestycji w terminie 60 dni, licząc od dnia jego przedłożenia przez zarządzającego obszarem, a jeżeli zgłosi zastrzeżenia do tego planu – po ich uwzględnieniu.
 
 7. Zarządzający obszarem przedstawia ministrowi właściwemu do spraw gospodarki informację o realizacji planu rozwoju inwestycji za dany rok kalendarzowy do końca lutego roku następnego.
 
@@ -147,11 +158,11 @@ Art. 35–38. (pominięte)
 3. Strona przedsiębiorców reprezentowana jest przez przedstawicieli:
 
 - **1)** mikro-, małych i średnich przedsiębiorców,
-- **2)** dużych przedsiębiorców w rozumieniu rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i art. 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ).
+- **2)** dużych przedsiębiorców – w rozumieniu rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i art. 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ).
 
 4. Jednostki samorządu terytorialnego reprezentowane są przez przedstawicieli:
 
-- **1)** województwa po jednym przedstawicielu każdego województwa znajdującego się w granicach obszaru;
+- **1)** województwa – po jednym przedstawicielu każdego województwa znajdującego się w granicach obszaru;
 - **2)** gmin i powiatów.
 
 5. Wyboru członków rady dokonuje zarządzający obszarem spośród zgłoszonych kandydatów. Zarządzający obszarem dokonuje wyboru członków rady, uwzględniając kwalifikacje i doświadczenie osób, które się zgłoszą. Przy wyborze członków rady zarządzający obszarem dąży do zachowania równowagi między grupami podmiotów, które są reprezentowane w radzie.
@@ -196,7 +207,7 @@ Art. 35–38. (pominięte)
 
 - **1)** rozpoczęcie robót budowlanych związanych z inwestycją lub
 - **2)** pierwsze prawnie wiążące zobowiązanie do zamówienia urządzeń, lub
-- **3)** inne zobowiązanie, które sprawia, że inwestycja staje się nieodwracalna w zależności od tego, które z tych zdarzeń wystąpiło pierwsze, przy czym nie uznaje się za rozpoczęcie inwestycji zakupu gruntów ani prac przygotowawczych, takich jak uzyskanie zezwoleń i przeprowadzenie studiów wykonalności.
+- **3)** inne zobowiązanie, które sprawia, że inwestycja staje się nieodwracalna – w zależności od tego, które z tych zdarzeń wystąpiło pierwsze, przy czym nie uznaje się za rozpoczęcie inwestycji zakupu gruntów ani prac przygotowawczych, takich jak uzyskanie zezwoleń i przeprowadzenie studiów wykonalności.
 
 10. W przypadku przejęcia przez rozpoczęcie inwestycji rozumie się nabycie aktywów bezpośrednio związanych z nabytym zakładem.
 
@@ -225,7 +236,7 @@ Art. 35–38. (pominięte)
 - **9)** sposób dyskontowania kosztów inwestycji i wielkości pomocy publicznej na dzień wydania decyzji o wsparciu,
 - **10)** sposób ustalania wielkości dopuszczalnej pomocy publicznej w przypadku prowadzenia działalności na podstawie więcej niż jednej decyzji o wsparciu,
 - **11)** sposób wydzielenia organizacyjnego działalności objętej decyzją o wsparciu oraz prowadzenia rozliczeń w przypadku prowadzenia przez przedsiębiorcę działalności gospodarczej nieobjętej decyzją o wsparciu,
-- **12)** wzór wniosku o wydanie decyzji o wsparciu zawierający w szczególności określenie kategorii przedsiębiorcy, przedmiot działalności gospodarczej prowadzonej w ramach nowej inwestycji zawierający kody PKWiU związane wyłącznie z realizacją nowej inwestycji oraz elementy planu realizacji nowej inwestycji biorąc pod uwagę konieczność zapewnienia zgodności udzielonej pomocy publicznej z prawem Unii Europejskiej, rozwój obszarów, a także potrzebę oceny spełnienia warunków udzielenia wsparcia oraz potrzebę zapewnienia jednolitości wniosków i sprawnej realizacji nowej inwestycji w tym zakresie.
+- **12)** wzór wniosku o wydanie decyzji o wsparciu zawierający w szczególności określenie kategorii przedsiębiorcy, przedmiot działalności gospodarczej prowadzonej w ramach nowej inwestycji zawierający kody PKWiU związane wyłącznie z realizacją nowej inwestycji oraz elementy planu realizacji nowej inwestycji – biorąc pod uwagę konieczność zapewnienia zgodności udzielonej pomocy publicznej z prawem Unii Europejskiej, rozwój obszarów, a także potrzebę oceny spełnienia warunków udzielenia wsparcia oraz potrzebę zapewnienia jednolitości wniosków i sprawnej realizacji nowej inwestycji w tym zakresie.
 
 **Art. 15.**
 
@@ -291,16 +302,16 @@ Art. 35–38. (pominięte)
 
 2. Przepisu ust. 1 nie stosuje się do wstrzymania wydawania decyzji o wsparciu w przypadku trwających postępowań dotyczących wydania decyzji o wsparciu oraz inwestycji wpisanych do Ewidencji Wsparcia Nowej Inwestycji jako planowane nowe inwestycje.
 
-**Art. 21.** Do postępowań w sprawie wydania, uchylenia, zmiany, wygaśnięcia i stwierdzenia nieważności decyzji o wsparciu stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+**Art. 21.** Do postępowań w sprawie wydania, uchylenia, zmiany, wygaśnięcia i stwierdzenia nieważności decyzji o wsparciu stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
-**Art. 22.** Minister właściwy do spraw gospodarki dokonuje kontroli realizacji warunków zawartych w decyzji o wsparciu na zasadach określonych w art. 40 oraz rozdziale 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 22.** Minister właściwy do spraw gospodarki dokonuje kontroli realizacji warunków zawartych w decyzji o wsparciu na zasadach określonych w art. 40 oraz rozdziale 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 23.**
 
 1. Minister właściwy do spraw gospodarki może, w drodze rozporządzenia, powierzyć zarządzającemu obszarem:
 
 - **1)** wydawanie, w jego imieniu, decyzji o wsparciu na obszarach przypisanych temu zarządzającemu obszarem,
-- **2)** wykonywanie, w jego imieniu, kontroli realizacji warunków zawartych w decyzji o wsparciu mając na względzie sprawność postępowania oraz specyfikę obszaru.
+- **2)** wykonywanie, w jego imieniu, kontroli realizacji warunków zawartych w decyzji o wsparciu – mając na względzie sprawność postępowania oraz specyfikę obszaru.
 
 2. W przypadku powierzenia zarządzającemu obszarem wydawania decyzji o wsparciu przepis art. 16 stosuje się odpowiednio.
 
@@ -398,7 +409,7 @@ Art. 35–38. (pominięte)
     - **e)** określenie przedmiotów wykonywanej działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności Gospodarczej (PKD),
     - **f)** rodzaj prowadzonej działalności gospodarczej i realizowanych oraz zrealizowanych inwestycji w obszarze (sektor, PKWiU),
     - **g)** ogłoszenie upadłości, ukończenia takiego postępowania oraz dane syndyka,
-    - **h)** oznaczenie przedsiębiorcy zagranicznego wraz z określeniem jego formy organizacyjno-prawnej oraz siedziby i adresu w przypadku oddziałów przedsiębiorstw zagranicznych działających na terytorium Rzeczypospolitej Polskiej,
+    - **h)** oznaczenie przedsiębiorcy zagranicznego wraz z określeniem jego formy organizacyjno-prawnej oraz siedziby i adresu – w przypadku oddziałów przedsiębiorstw zagranicznych działających na terytorium Rzeczypospolitej Polskiej,
     - **i)** wartość inwestycji realizowanych przez przedsiębiorcę na terenie danego obszaru,
     - **j)** plan realizacji nowej inwestycji,
     - **k)** oferty kierowane do przedsiębiorcy przez zarządzającego obszarem,

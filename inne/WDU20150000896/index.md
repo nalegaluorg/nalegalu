@@ -8,10 +8,10 @@ pos: 896
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 czerwca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 896 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 22 czerwca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000896) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/896/text.pdf) |
 
-Poz. 896 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 22 czerwca 2015 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 173 oraz z 2015 r. poz. 349) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2014 r. poz. 475) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2013 r. poz. 173 oraz z 2015 r. poz. 349) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2014 r. poz. 475) wprowadza się następujące zmiany:
 1) w § 3 w:
 a) ust. 3 w pkt 3 część wspólna otrzymuje brzmienie: „– lecz nie później niż do dnia 30 września 2015 r.;”,
 b) ust. 4 w pkt 1 lit. d otrzymuje brzmienie: „d) zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną nastąpi w terminie 60 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 30 września 2015 r., przy czym złożenie ostatniego wniosku o płatność w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu nastąpi w terminach określonych w ust. 3 pkt 3;”;

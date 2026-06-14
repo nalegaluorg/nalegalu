@@ -8,7 +8,7 @@ pos: 538
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka
@@ -73,6 +73,10 @@ source: "isap-pdf"
 3. Dochód z działalności gospodarczej, o której mowa w ust. 1, służy wyłącznie realizacji zadań Instytutu określonych w art. 5 ust. 2.
 
 **Art. 7.** Organami Instytutu są:
+
+- **1)** Dyrektor Instytutu;
+- **2)** Międzynarodowa Rada Instytutu;
+- **3)** Rada Instytutu.
 
 **Art. 8.**
 
@@ -151,7 +155,17 @@ source: "isap-pdf"
 
 **Art. 15.** Do zadań Międzynarodowej Rady Instytutu należy:
 
+- **1)** analiza działań podejmowanych na rzecz współpracy polsko-węgierskiej;
+- **2)** opiniowanie kierunków i zasad współpracy między Instytutem a instytucją utworzoną przez stronę węgierską, której celem jest współpraca polsko-węgierska;
+- **3)** opiniowanie przedkładanych przez Dyrektora Instytutu propozycji działań Instytutu, mających na celu realizację zadań, o których mowa w art. 5 ust. 2;
+- **4)** poszukiwanie nowych form wsparcia organizacyjnego, koncepcyjnego i finansowego działalności Instytutu;
+- **5)** wyrażanie opinii i składanie wniosków do Dyrektora Instytutu we wszystkich istotnych sprawach związanych z działalnością Instytutu.
+
 **Art. 16.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
+- **1)** podmioty uprawnione do zgłaszania kandydatów do Międzynarodowej Rady Instytutu oraz tryb i sposób ich zgłaszania, uwzględniając potrzebę sprawnego przeprowadzenia wyboru kandydatów na członków Międzynarodowej Rady Instytutu;
+- **2)** tryb działania Międzynarodowej Rady Instytutu, uwzględniając stworzenie optymalnych warunków organizacyjnych do prawidłowej realizacji zadań Instytutu;
+- **3)** sposób pokrywania kosztów związanych z uczestnictwem członków w posiedzeniach Międzynarodowej Rady Instytutu, uwzględniając celowość zwrotu wydatków poniesionych przez członków Międzynarodowej Rady Instytutu oraz konieczność ułatwienia dokonywania rozliczeń.
 
 **Art. 17.**
 
@@ -362,6 +376,9 @@ source: "isap-pdf"
 4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Szef Kancelarii Prezesa Rady Ministrów.
 
 **Art. 36.** Prezes Rady Ministrów powołuje członków:
+
+- **1)** Międzynarodowej Rady Instytutu pierwszej kadencji,
+- **2)** Rady Instytutu pierwszej kadencji – w terminie 3 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 37.** Dyrektor Instytutu przygotowuje i przedstawia Szefowi Kancelarii Prezesa Rady Ministrów do zatwierdzenia projekt planu finansowego Instytutu na rok 2018. Przepis art. 25 ust. 3 stosuje się odpowiednio.
 

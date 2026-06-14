@@ -8,10 +8,10 @@ pos: 138
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 113388 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 26 stycznia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000138) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/138/text.pdf) |
 
-113388 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 26 stycznia 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 21 grudnia 2010 r. w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania (Dz. U. poz. 1711), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Zdrowia z dnia 11 października 2019 r. zmieniającym rozporządzenie w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania (Dz. U. poz. 2050);
@@ -39,7 +38,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 3. Rejestr zgłoszeń niepożądanych odczynów poszczepiennych prowadzony do dnia wejścia w życie niniejszego rozporządzenia prowadzi się w sposób określony w § 8 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, a dane z tego rejestru udostępnia się w sposób określony w § 10 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Zdrowia: wz. W. Konieczny ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 21 grudnia 2010 r.
-w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania Na podstawie art. 21 ust. 8 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284, 909 i 1938) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania Na podstawie art. 21 ust. 8 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284, 909 i 1938) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) rodzaje niepożądanych odczynów poszczepiennych i kryteria ich rozpoznawania na potrzeby nadzoru epidemiologicznego;
 2) sposób zgłaszania niepożądanych odczynów poszczepiennych;
 3) wzory formularzy zgłoszeń niepożądanych odczynów poszczepiennych;
@@ -48,14 +48,14 @@ w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpozna
 § 3. Formularz zgłoszenia niepożądanego odczynu poszczepiennego po szczepieniu innym niż przeciw gruźlicy (BCG) i szczepieniu przeciw gruźlicy (BCG) stanowi karta zgłoszenia niepożądanego odczynu poszczepiennego, której wzór określa załącznik nr 2 do rozporządzenia.
 § 4. 1. Zgłoszenie niepożądanego odczynu poszczepiennego lekarz lub felczer:
 1) sporządza i przesyła w postaci elektronicznej z bezpośrednim wykorzystaniem systemu wymiany informacji w ramach systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej, o których mowa w przepisach wydanych na podstawie art. 8a ust. 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2023 r. poz. 338 i 1688), lub z udziałem współpracującego z tym systemem narzędzia informatycznego udostępnionego przez jednostkę podległą ministrowi właściwemu do spraw zdrowia właściwą w zakresie systemów informacyjnych ochrony zdrowia w ramach systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465), z uwzględnieniem zakresu danych wynikających z karty zgłoszenia niepożądanego odczynu poszczepiennego, albo
-2) sporządza w postaci elektronicznej, w formie dokumentu elektronicznego karty zgłoszenia niepożądanego odczynu poszczepiennego i przesyła za pomocą środków komunikacji elektronicznej w postaci zaszyfrowanej jeżeli pozwalają na to możliwości techniczne nadawcy i odbiorcy.
+2) sporządza w postaci elektronicznej, w formie dokumentu elektronicznego – karty zgłoszenia niepożądanego odczynu poszczepiennego – i przesyła za pomocą środków komunikacji elektronicznej w postaci zaszyfrowanej – jeżeli pozwalają na to możliwości techniczne nadawcy i odbiorcy.
 2. Zgłoszenie niepożądanego odczynu poszczepiennego przesyłane w sposób określony w ust. 1 podpisuje się podpisem zaufanym, kwalifikowanym podpisem elektronicznym albo podpisem osobistym.
 § 5. 1. Lekarz lub felczer, który rozpoznaje niepożądany odczyn poszczepienny lub podejrzewa jego wystąpienie po szczepieniu innym niż BCG lub po szczepieniu BCG, uzupełnia dane określone w części I–VII karty zgłoszenia niepożądanego odczynu poszczepiennego w przypadku, gdy szczepienie było przeprowadzone w miejscu rozpoznania lub podejrzenia niepożądanego odczynu poszczepiennego.
 2. Lekarz lub felczer, który rozpoznaje niepożądany odczyn poszczepienny lub podejrzewa jego wystąpienie po szczepieniu innym niż BCG lub po szczepieniu BCG, uzupełnia dane określone w części I–VII karty zgłoszenia niepożądanego odczynu poszczepiennego w przypadku, gdy szczepienie zostało przeprowadzone w miejscu innym, niż rozpoznano niepożądany odczyn poszczepienny, lub podejrzewa się wystąpienie niepożądanego odczynu poszczepiennego.
 3. Państwowy powiatowy inspektor sanitarny uzupełnia dane określone w części VI karty zgłoszenia niepożądanego odczynu poszczepiennego, jeżeli nie zostały uzupełnione przez lekarza lub felczera, i części VIII karty zgłoszenia niepożądanego odczynu poszczepiennego albo przekazuje zgłoszenie niepożądanego odczynu poszczepiennego państwowemu powiatowemu inspektorowi sanitarnemu właściwemu ze względu na miejsce szczepienia.
 § 6. 1. W przypadku stwierdzenia oczywistej omyłki w zgłoszeniu niepożądanego odczynu poszczepiennego właściwy państwowy powiatowy inspektor sanitarny dokonuje korekty tego zgłoszenia.
-2. Korekty zgłoszenia niepożądanego odczynu poszczepiennego można dokonać w postaci elektronicznej w formie dokumentu elektronicznego, telefonicznie, faksem lub z użyciem innego urządzenia do teletransmisji danych.
-3. Telefoniczną korektę zgłoszenia niepożądanego odczynu poszczepiennego należy niezwłocznie potwierdzić pisemnie w postaci elektronicznej w formie dokumentu elektronicznego.
+2. Korekty zgłoszenia niepożądanego odczynu poszczepiennego można dokonać w postaci elektronicznej – w formie dokumentu elektronicznego, telefonicznie, faksem lub z użyciem innego urządzenia do teletransmisji danych.
+3. Telefoniczną korektę zgłoszenia niepożądanego odczynu poszczepiennego należy niezwłocznie potwierdzić pisemnie w postaci elektronicznej – w formie dokumentu elektronicznego.
 § 7. 1. W przypadku wystąpienia ciężkiego lub poważnego niepożądanego odczynu poszczepiennego właściwy państwowy powiatowy inspektor sanitarny, nie później niż po upływie godziny po powzięciu wiadomości, udostępnia informacje o fakcie wystąpienia takiego odczynu właściwemu państwowemu wojewódzkiemu inspektorowi sanitarnemu.
 2. Państwowy wojewódzki inspektor sanitarny, nie później niż po upływie godziny od powzięcia wiadomości, o której mowa w ust. 1, niezwłocznie udostępnia tę informację Głównemu Inspektorowi Sanitarnemu, wskazanej przez niego specjalistycznej jednostce i wojewódzkiemu inspektorowi farmaceutycznemu.
 § 8. 1. Państwowy powiatowy inspektor sanitarny prowadzi w postaci elektronicznej powiatowy rejestr zgłoszeń niepożądanych odczynów poszczepiennych.
@@ -110,5 +110,9 @@ k) zapalenie jąder,
 l) zapalenie ślinianek,
 m) porażenie splotu barkowego,
 n) inne poważne odczyny występujące do 4 tygodni po szczepieniu.
-WZÓR –7 0 I. Identyfikacja placówki opieki zdrowotnej II. Dane osoby, u której wystąpił NOP III. Informacje o szczepieniu KARTA ZGŁOSZENIA NIEPOŻĄDANEGO ODCZYNU POSZCZEPIENNEGO (NOP) NOP z dnia ……………………. r. (poz. …………….) WZÓR I. Identyfikacja placówki opieki zdrowotnej II. Dane osoby, u której wystąpił NOP III. Informacje o szczepieniu KARTA ZGŁOSZENIA NIEPOŻĄDANEGO ODCZYNU POSZCZEPIENNEGO (NOP) NOP WZÓR I.Identyfikacja placówki opieki zdrowotnej II. Dane osoby, u której wystąpił NOP III. Informacje o szczepieniu KARTA ZGŁOSZENIA NIEPOŻĄDANEGO ODCZYNU POSZCZEPIENNEGO (NOP) NOP WZÓR I. Identyfikacja placówki opieki zdrowotnej II.Dane osoby, u której wystąpił NOP III.Informacje o szczepieniu KARTA ZGŁOSZENIA NIEPOŻĄDANEGO ODCZYNU POSZCZEPIENNEGO (NOP) NOP WZÓR IV.A. NOP po szczepieniach innych niż BCG Reakcja miejscowa Reakcja ogólna NOP Powikłania IV.B. NOP po szczepieniu BCG (p/gruźlicy) NOP V.Kwalifikacja VI.Dane o szczepionce i szczepieniu NOP VII.Potwierdzenie złożenia zgłoszenia VIII.Wypełnia pracownik PSSE NOP
+Załącznik Załącznik do do rozporządzenia rozporządzenia Ministra Ministra Zdrowia Zdrowia DU Pozycja XXX DDUTJ.5572.43.2024 JS KOLOR łamanie — 1 lutego 2024 Załącznik r. do rozporządzenia Ministra Zdrowia z dnia Załącznik ……………………. do rozporządzenia r. (poz. Ministra …………….) Zdrowia WZÓR WZÓR WZÓR WZÓR NOP NOP WZÓR NOP KARTA KARTA ZGŁOSZENIA ZGŁOSZENIA NIEPOŻĄDANEGO NIEPOŻĄDANEGO NOP KARTA ZGŁOSZENIA NIEPOŻĄDANEGO KARTA ODCZYNU ODCZYNU ODCZYNU ZGŁOSZENIA POSZCZEPIENNEGO POSZCZEPIENNEGO POSZCZEPIENNEGO NIEPOŻĄDANEGO (NOP) (NOP) (NOP) ODCZYNU POSZCZEPIENNEGO (NOP) I. I.Identyfikacja Identyfikacja placówki placówki opieki opieki zdrowotnej zdrowotnej I. Identyfikacja placówki opieki zdrowotnej I. Identyfikacja placówki opieki zdrowotnej II.Dane II. Dane osoby, osoby, u u której której wystąpił wystąpił NOP NOP II. Dane osoby, u której wystąpił NOP II. Dane osoby, u której wystąpił NOP III.Informacje III. Informacje o o szczepieniu szczepieniu III. Informacje o szczepieniu III. Informacje o szczepieniu DU Pozycja XXX DDUTJ.5572.43.2024 JS KOLOR łamanie — 1 lutego 2024 r.
+DDzziieennnniikk UUssttaaww –– 88 –– PoPz.o 1z3. 80 NOP IV.A. NOP po szczepieniach innych niż BCG Reakcja miejscowa Reakcja ogólna DU Pozycja XXX DDUTJ.5572.43.2024 JS KOLOR łamanie — 1 lutego 2024 r.
+DDzziieennnniikk UUssttaaww –– 99 –– PozP.o 1z3. 80 NOP Powikłania IV.B. NOP po szczepieniu BCG (p/gruźlicy) D U Pozycja XXX DDUTJ.5572.43.2024 JS KOLOR łamanie — 1 lutego 2024 r.
+DDzziieennnniikk UUssttaaww –– 1100 –– PoPzo. z1.3 08 NOP V.Kwalifikacja VI.Dane o szczepionce i szczepieniu DU Pozycja XXX DDUTJ.5572.43.2024 JS KOLOR łamanie — 1 lutego 2024 r.
+DDzziieennnniikk UUssttaaww –– 1111 –– PoPz.o 1z.3 80 NOP VII.Potwierdzenie złożenia zgłoszenia VIII.Wypełnia pracownik PSSE
 

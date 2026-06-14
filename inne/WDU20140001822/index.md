@@ -8,7 +8,7 @@ pos: 1822
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych
@@ -125,6 +125,10 @@ Art. 50–63. (pominięte)
 
 **Art. 7.** W stosunku do kandydatów do Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” oraz samodzielnego pododdziału kontrterrorystycznego Policji lub w stosunku do funkcjonariuszy pełniących służbę w tych pododdziałach orzeczenie komisji lekarskiej zawiera również jedno z następujących określeń:
 
+- **1)** zdolny do służby w pododdziale;
+- **2)** czasowo niezdolny do służby w pododdziale;
+- **3)** niezdolny do służby w pododdziale.
+
 **Art. 8.**
 
 1. Prezes Rady Ministrów określi, w drodze rozporządzenia, wykaz chorób i ułomności, wraz z kategoriami zdolności do służby, na podstawie którego jest wydawane orzeczenie o stanie zdrowia, o zdolności lub niezdolności kandydata do służby w Centralnym Biurze Antykorupcyjnym albo funkcjonariusza tej służby oraz szczegółowe objaśnienia odnoszące się do tych chorób i ułomności, jak również zalecane czynności wskazane przy ich ustalaniu w przypadkach, w których wymaga tego wiedza medyczna, uwzględniając potrzebę ustalenia w toku badania przez komisję lekarską przydatności i predyspozycji do służby z uwagi na charakter i warunki tej służby oraz konieczność zapewnienia jednolitego orzecznictwa.
@@ -160,6 +164,16 @@ Art. 50–63. (pominięte)
 4. Orzekając o częściowej niezdolności do pracy, komisja lekarska ocenia, czy funkcjonariusz, o którym mowa w ust. 2, emeryt albo rencista może wykonywać pracę w zmniejszonym zakresie bądź w warunkach specjalnie stworzonych lub na specjalnych stanowiskach pracy.
 
 **Art. 12.** Komisja lekarska w szczególności:
+
+- **1)** stwierdza, czy nastąpiło stałe lub długotrwałe naruszenie sprawności organizmu, oraz ustala datę powstania inwalidztwa;
+- **2)** określa grupę inwalidzką, do której funkcjonariusz zostaje zaliczony;
+- **3)** ustala, czy istnieje konieczność stałej opieki osoby drugiej przy wykonywaniu podstawowych czynności życiowych;
+- **4)** ustala, czy inwalidztwo powstało wskutek wypadku pozostającego w związku z pełnieniem służby lub choroby pozostającej w związku ze szczególnymi warunkami lub właściwościami służby;
+- **5)** ustala, czy inwalidztwo pozostaje w związku ze służbą;
+- **6)** ustala, czy istnieje związek śmierci ze służbą;
+- **7)** stwierdza, czy istnieje zdolność do pracy;
+- **8)** ustala wskazania i przeciwwskazania dotyczące zatrudnienia funkcjonariusza niezdolnego do służby;
+- **9)** ustala termin badania kontrolnego.
 
 #### Rozdział 4 Kontrola prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby oraz prawidłowości wykorzystania zwolnienia lekarskiego
 
@@ -209,6 +223,9 @@ Art. 50–63. (pominięte)
 ### DZIAŁ III Organizacja komisji lekarskich
 
 **Art. 16.** Komisje lekarskie orzekają w dwóch instancjach:
+
+- **1)** w pierwszej instancji – rejonowe komisje lekarskie;
+- **2)** w drugiej instancji – Centralna Komisja Lekarska.
 
 **Art. 17.**
 
@@ -526,6 +543,24 @@ Art. 50–63. (pominięte)
 
 **Art. 64.** Dotychczas stosowane kategorie zdrowia określające stopień zdolności fizycznej i psychicznej do służby ulegają zmianie:
 
+- **1)** w stosunku do funkcjonariuszy pełniących służbę w Biurze Ochrony Rządu:
+    - **a)** kategoria „Z” staje się kategorią „A”,
+    - **b)** kategoria „C” staje się kategorią „B”,
+    - **c)** kategoria „N” staje się kategorią „C”,
+
+- **2)** w Centralnym Biurze Antykorupcyjnym:
+    - **a)** kategoria „Z” z oznaczeniem „A” staje się kategorią „Z” w stosunku do kandydatów i kategorią „A” w stosunku do funkcjonariuszy,
+    - **b)** kategoria „Z” z oznaczeniem „C” staje się kategorią „B” w stosunku do funkcjonariuszy,
+    - **c)** kategoria „N” z oznaczeniem „D” staje się kategorią „N” w stosunku do kandydatów i kategorią „C” w stosunku do funkcjonariuszy,
+
+- **3)** w stosunku do funkcjonariuszy pełniących służbę w Służbie Więziennej, Policji, Straży Granicznej oraz Państwowej Straży Pożarnej:
+    - **a)** kategoria „C” staje się kategorią „B”,
+    - **b)** kategoria „D” staje się kategorią „C”,
+
+- **4)** w stosunku do kandydatów do pracy w wyodrębnionych komórkach organizacyjnych kontroli skarbowej, inspektorów i pracowników zatrudnionych w tych komórkach oraz kandydatów do pracy w wywiadzie skarbowym, a także pracowników wywiadu skarbowego:
+    - **a)** kategoria „C” staje się kategorią „B”,
+    - **b)** kategoria „D” staje się kategorią „C” – w rozumieniu przepisów niniejszej ustawy.
+
 **Art. 65.**
 
 1. Z dniem wejścia w życie niniejszej ustawy znosi się komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych, powołane na podstawie dotychczasowych przepisów, z wyjątkiem Centralnej Komisji Lekarskiej, okręgowych komisji lekarskich oraz wojewódzkich komisji lekarskich, które znosi się z dniem 30 czerwca 2015 r.
@@ -565,6 +600,10 @@ Art. 50–63. (pominięte)
 4. Sprawy, o których mowa w ust. 1 i 3, w tym zebrana w toku postępowań dokumentacja, również wytworzona w formie elektronicznej, zostaną przekazane komisjom lekarskim utworzonym na podstawie niniejszej ustawy zgodnie z właściwością określoną w przepisach wydanych na podstawie art. 19 ust. 3 albo Centralnej Komisji Lekarskiej w terminie do dnia 30 września 2015 r.
 
 **Art. 69.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 29 ust. 7 ustawy zmienianej w art. 58 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 29 ust. 7 ustawy zmienianej w art. 58 , w brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 4 ust. 5 ustawy zmienianej w art. 61 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 ust. 5 ustawy zmienianej w art. 61 , w brzmieniu nadanym niniejszą ustawą,
+- **3)** art. 110 ust. 2, art. 118 ust. 19 i art. 205 ustawy zmienianej w art. 63 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 110 ust. 2, art. 118 ust. 19 i art. 205 ustawy zmienianej w art. 63 , w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 #### Rozdział 2 Przepis końcowy
 

@@ -8,7 +8,7 @@ pos: 1136
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks postępowania cywilnego oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi
@@ -29,7 +29,11 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm. ) art. 152 otrzymuje brzmienie: „Art. 152. § 1. Na posiedzenia jawne wstęp na salę sądową mają – poza stronami i osobami wezwanymi – tylko osoby pełnoletnie. Przewodniczący może zezwolić na obecność na posiedzeniu małoletnim.
 
+§ 2. Na posiedzenia niejawne mają wstęp tylko osoby wezwane.”.
+
 **Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2016 r. poz. 718, z późn. zm. ) art. 95 otrzymuje brzmienie: „Art. 95. § 1. Na posiedzenia jawne wstęp na salę sądową mają – poza stronami i osobami wezwanymi – tylko osoby pełnoletnie. Przewodniczący może zezwolić na obecność na posiedzeniu małoletnim.
+
+§ 2. Na posiedzenia niejawne mają wstęp tylko osoby wezwane.”.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

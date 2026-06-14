@@ -8,7 +8,7 @@ pos: 392
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o działalności ubezpieczeniowej (tekst jednolity z 1996 r. Dz.U. Nr 11, poz. 62; zm.: z 1997 r. Nr 43, poz. 272, Nr 88, poz. 554, Nr 107, poz.

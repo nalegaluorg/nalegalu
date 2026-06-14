@@ -8,7 +8,7 @@ pos: 428
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o regionalnych izbach obrachunkowych
@@ -134,6 +134,9 @@ source: "isap-pdf"
 
 **Art. 10.** Prezes izby przekazuje informację o stwierdzonych nieprawidłowościach w zakresie:
 
+- **1)** danych przyjmowanych do ustalenia potrzeb finansowych, o których mowa w ustawie z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717) – organom ustalającym te potrzeby;
+- **2)** rozliczeń dotacji celowych – organom dokonującym podziału tych środków.
+
 **Art. 10a.**
 
 1. Na podstawie wyników działalności nadzorczej, kontrolnej i opiniodawczej, w razie potrzeby wskazania organom jednostki samorządu terytorialnego powtarzających się nieprawidłowości lub zagrożenia niewykonania ustawowych zadań, izba przedstawia raport o stanie gospodarki finansowej tej jednostki.
@@ -179,6 +182,20 @@ source: "isap-pdf"
 4. Wskazanie nieprawidłowości oraz sposobu i terminu ich usunięcia zawiesza bieg 30-dniowego terminu określonego w art. 91 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465 i 1572), art. 79 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107) oraz art. 82 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2024 r. poz. 566), na okres nie dłuższy niż 30 dni.
 
 **Art. 13.** Do zadań izby należy ponadto:
+
+- **1)** wydawanie, na wniosek organu wykonawczego jednostki samorządu terytorialnego, opinii o możliwości spłaty kredytu, pożyczki oraz innych zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a także wykupu papierów wartościowych;
+- **2)** (uchylony)
+- **3)** wydawanie opinii o przedkładanych projektach uchwał budżetowych jednostek samorządu terytorialnego;
+- **4)** (uchylony)
+- **5)** wydawanie opinii o przedkładanych przez zarządy powiatów i województw oraz przez wójtów (burmistrzów, prezydentów miast) sprawozdaniach z wykonania budżetu wraz z informacjami o stanie mienia jednostek samorządu terytorialnego i objaśnieniami;
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** wydawanie opinii o wnioskach komisji rewizyjnych organów stanowiących jednostek samorządu terytorialnego w sprawie absolutorium oraz opinii w sprawie uchwały rady gminy o nieudzieleniu wójtowi absolutorium;
+- **9)** rozpatrywanie spraw dotyczących powiadomień przez skarbnika (głównego księgowego budżetu jednostki samorządu terytorialnego) o przypadkach dokonania kontrasygnaty na pisemne polecenie zwierzchnika, zgodnie z odrębnymi ustawami;
+- **10)** rozpatrywanie innych spraw określonych w odrębnych ustawach;
+- **11)** udzielanie wyjaśnień na wystąpienia podmiotów wymienionych w art. 1 ust. 2 w sprawach dotyczących stosowania przepisów o finansach publicznych;
+- **12)** wydawanie opinii o przedkładanych projektach uchwał o wieloletnich prognozach finansowych;
+- **13)** wydawanie opinii o programach postępowań naprawczych jednostek samorządu terytorialnego.
 
 #### Rozdział 3 Organizacja i zasady działania regionalnych izb obrachunkowych
 

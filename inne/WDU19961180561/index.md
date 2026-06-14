@@ -8,7 +8,7 @@ pos: 561
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o komercjalizacji i niektórych uprawnieniach pracowników
@@ -42,6 +42,23 @@ source: "isap-pdf"
 **Art. 1b.** Przepisów ustawy nie stosuje się do spółek i należącego do nich mienia – w czasie trwania przewłaszczenia akcji lub mienia tych spółek – na zabezpieczenie roszczeń przysługujących Skarbowi Państwa reprezentowanemu przez ministra właściwego do spraw finansów publicznych, z tytułu udzielonych poręczeń lub gwarancji.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** spółce – rozumie się przez to spółkę akcyjną lub spółkę z ograniczoną odpowiedzialnością;
+- **2)** statucie, akcjach, akcjonariuszach i walnym zgromadzeniu – rozumie się przez to odpowiednio umowę lub akt założycielski, udziały, wspólników i zgromadzenie wspólników;
+- **3)** przedsiębiorstwie – rozumie się przez to przedsiębiorstwo w znaczeniu określonym w art. 55 Kodeksu cywilnego;
+- **3a)** poprzedniku – rozumie się przez to bezpośredniego poprzedniego pracodawcę uprawnionych pracowników, którego zespół składników majątkowych wszedł w skład komercjalizowanego przedsiębiorstwa państwowego lub przedsiębiorstwa państwowego sprywatyzowanego przez wniesienie do spółki;
+- **4)** dyrektorze – rozumie się przez to również osobę sprawującą zarząd komisaryczny lub tymczasowego kierownika przedsiębiorstwa państwowego;
+- **5)** uprawnionych pracownikach – rozumie się przez to: o przedsiębiorstwach państwowych (Dz. U. z 2023 r. poz. 437),
+    - **a)** osoby będące w dniu wykreślenia z rejestru komercjalizowanego przedsiębiorstwa państwowego pracownikami tego przedsiębiorstwa lub osoby będące pracownikami przedsiębiorstwa państwowego w dniu zawarcia umowy rozporządzającej przedsiębiorstwem poprzez jego wniesienie do spółki,
+    - **b)** osoby fizyczne, które w dniu wykreślenia komercjalizowanego przedsiębiorstwa państwowego z rejestru przedsiębiorców, lub osoby fizyczne, które w dniu zawarcia umowy rozporządzającej przedsiębiorstwem poprzez jego wniesienie do spółki były stroną umowy o zarządzanie przedsiębiorstwem państwowym, zawartej na podstawie przepisów rozdziału 8a ustawy z dnia 25 września 1981 r.
+    - **c)** osoby, które przepracowały co najmniej dziesięć lat w komercjalizowanym przedsiębiorstwie państwowym oraz jego poprzedniku albo w przedsiębiorstwie, które zostało sprywatyzowane przez wniesienie do spółki oraz jego poprzedniku, a rozwiązanie stosunku pracy nastąpiło wskutek przejścia na emeryturę lub rentę albo z przyczyn niedotyczących pracowników,
+    - **d)** osoby, które po przepracowaniu dziesięciu lat w przedsiębiorstwie państwowym podlegającym prywatyzacji oraz jego poprzedniku, zostały przejęte przez inne zakłady pracy w trybie art. 23 Kodeksu pracy;
+
+- **6)** rolnikach lub rybakach – rozumie się przez to osoby fizyczne prowadzące gospodarstwo rolne lub rybackie, z którego w okresie pięciu lat przed wykreśleniem przedsiębiorstwa państwowego z rejestru przedsiębiorców dostarczono bezpośrednio lub pośrednio do tego przedsiębiorstwa surowce o wartości co najmniej 100 q żyta według cen przyjmowanych do obliczania podatku rolnego w ostatnim roku przed wykreśleniem przedsiębiorstwa państwowego z rejestru przedsiębiorców;
+- **7)** (uchylony)
+- **8)** jednostce dominującej – rozumie się przez to jednostkę dominującą, o której mowa w art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
+- **9)** jednostce zależnej – rozumie się przez to jednostkę zależną, o której mowa w art. 3 ust. 1 pkt 39 ustawy z dnia 29 września 1994 r. o rachunkowości;
+- **10)** grupie kapitałowej – rozumie się przez to grupę kapitałową, o której mowa w art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości.
 
 **Art. 2a.** (uchylony)
 

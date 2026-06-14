@@ -8,10 +8,10 @@ pos: 1754
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 grudnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1754 OBWIESZCZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 7 listopada 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001754) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1754/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 7 listopada 2014 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju Regionalnego w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na tworzenie i umożliwienie dostępu do sieci szerokopasmowej w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju Regionalnego z dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na tworzenie i umożliwienie dostępu do sieci szerokopasmowej w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 (Dz. U. poz. 423), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Infrastruktury i Rozwoju z dnia 16 grudnia 2013 r.
 zmieniającym rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na tworzenie i umożliwienie dostępu do sieci szerokopasmowej w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 (Dz. U. poz. 1615).
@@ -33,6 +32,7 @@ zmieniającym rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoj
 poz. 1615), które stanowią: „ Tekst Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 został zaakceptowany decyzją Komisji Europejskiej nr K(2007) 4568 z dnia 1 października 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce oraz przyjęty uchwałą Rady Ministrów z dnia 30 stycznia 2007 r. w sprawie przyjęcia Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013. Narodowe Strategiczne Ramy Odniesienia 2007–2013. Zmiany w Programie Operacyjnym Rozwój Polski Wschodniej 2007–2013 zostały zaakceptowane: decyzją Komisji Europejskiej nr K (2009) 5712 z dnia 17 lipca 2009 r., zmieniającą decyzję Komisji K (2007) 4568 w sprawie przyjęcia programu operacyjnego „Rozwój Polski Wschodniej” w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem „konwergencja” w Polsce i przyjęte uchwałą Rady Ministrów z dnia 3 czerwca 2009 r. w sprawie przyjęcia zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013, oraz decyzją Komisji Europejskiej nr K (2011) 9789 z dnia 23 grudnia 2011 r. zmieniającą decyzję K (2007) 4568 w sprawie przyjęcia programu operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce i przyjęte uchwałą Rady Ministrów z dnia 6 czerwca 2011 r. w sprawie przyjęcia projektu zmiany Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 i sprostowaniem C (2012) 4173 do decyzji Komisji K (2011) 9789 wersja ostateczna zmieniającej decyzję K (2007) 4568 w sprawie przyjęcia programu operacyjnego Rozwój Polski Wschodniej w ramach pomocy wspólnotowej z Europejskiego Funduszu Rozwoju Regionalnego objętego celem Konwergencji w Polsce.” „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia”.
 Minister Infrastruktury i Rozwoju: M. Wasiak ROZPORZĄDZENIE MINISTRA ROZWOJU REGIONALNEGO z dnia 21 marca 2013 r.
 w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na tworzenie i umożliwienie dostępu do sieci szerokopasmowej w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007–2013 Na podstawie art. 6b ust. 10 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2007 r. Nr 42, poz. 275, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach Działania II.1 Sieć szerokopasmowa Polski Wschodniej w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007– 2013, zwanego dalej „Programem”.
 2. Pomoc finansowa, o której mowa w rozporządzeniu, jest udzielana przez Agencję w formie bezzwrotnego wsparcia finansowego, zwanego dalej „wsparciem”, przeznaczonego na pokrycie części wydatków kwalifikowalnych na tworzenie i umożliwienie dostępu do sieci szerokopasmowej Polski Wschodniej.
 3. Wsparcie może być udzielone:
 1) jednostkom samorządu terytorialnego oraz ich związkom;
@@ -57,33 +57,34 @@ b) przyznanie pomocy jest uzależnione od faktu jej przekazania w części lub w
 § 3. 1. Wsparcie może być udzielane dla projektów, które realizowane są na terenie Polski Wschodniej.
 2. Wsparcie ma na celu rozwój gospodarczy i społeczny Polski Wschodniej poprzez poprawę jakości i zwiększenie zasięgu szerokopasmowego dostępu do Internetu.
 § 4. Ilekroć w rozporządzeniu jest mowa o:
-1) beneficjencie należy przez to rozumieć podmiot, o którym mowa w § 1 ust. 3, otrzymujący od Agencji wsparcie;
-2) dniu rozpoczęcia realizacji inwestycji należy przez to rozumieć dzień rozpoczęcia robót budowlanych lub pierwszego zobowiązania do zamówienia towarów i usług związanych z realizacją inwestycji, z wyłączeniem dokumentów dotyczących wsparcia realizacji inwestycji, w szczególności: rezerwacji częstotliwości, uzyskania pozwolenia na budowę, zawarcia bezzadatkowej przedwstępnej umowy najmu lub dzierżawy budynków lub gruntów, uzyskania decyzji o środowiskowych uwarunkowaniach;
-3) dniu zakończenia realizacji projektu należy przez to rozumieć dzień wskazany w umowie o udzielenie wsparcia, jako dzień złożenia przez beneficjenta wniosku o płatność końcową;
-4) dużym projekcie należy przez to rozumieć projekt w rozumieniu art. 39 rozporządzenia , o którym mowa w pkt 14;
-5) dużym projekcie inwestycyjnym należy przez to rozumieć projekt w rozumieniu art. 2 pkt 12 rozporządzenia Komisji (WE) nr 800/2008 ;
-6) Instytucji Zarządzającej należy przez to rozumieć ministra właściwego do spraw rozwoju regionalnego;
-7) intensywności pomocy należy przez to rozumieć stosunek wartości pomocy wyrażonej w ekwiwalencie dotacji brutto do wydatków kwalifikowalnych;
-8) leasingu należy przez to rozumieć leasing w znaczeniu nadanym przez Międzynarodowe Standardy Sprawozdawczości Finansowej, które zostały włączone do porządku prawnego Unii Europejskiej rozporządzeniem Komisji (WE) nr 1126/2008 z dnia 3 listopada 2008 r. przyjmującym określone międzynarodowe standardy rachunkowości zgodnie z rozporządzeniem (WE) nr 1606/2002 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 320 z 29.11.2008, str. 1, z późn. zm.);
-9) mikroprzedsiębiorcy, małym przedsiębiorcy lub średnim przedsiębiorcy należy przez to rozumieć przedsiębiorstwo spełniające kryteria określone w załączniku I do rozporządzenia Komisji (WE) nr 800/2008 ;
-10) najbliższym punkcie dystrybucji Internetu należy przez to rozumieć węzeł telekomunikacyjny należący do operatora telekomunikacyjnego, w którym oferowana jest usługa hurtowego szerokopasmowego dostępu do Internetu, a którego parametry techniczne, lokalizacja oraz warunki udostępnienia są optymalne dla realizacji projektu;
-11) najbardziej efektywnym punkcie dystrybucji Internetu należy przez to rozumieć najbliższy węzeł telekomunikacyjny regionalnej telekomunikacyjnej sieci szkieletowej realizowanej w ramach wsparcia, o którym mowa w § 5 ust. 1 pkt 1, w którym jest lub będzie oferowana usługa hurtowego szerokopasmowego dostępu do Internetu;
-12) Polsce Wschodniej należy przez to rozumieć obszar obejmujący województwa: lubelskie, podlaskie, podkarpackie, świętokrzyskie i warmińsko-mazurskie;
-13) projekcie należy przez to rozumieć przedsięwzięcie realizowane na podstawie umowy o udzielenie wsparcia, w ramach działania II.1 Sieć szerokopasmowa Polski Wschodniej;
-14) rozporządzeniu Rady (WE) nr 1083/2006 należy przez to rozumieć rozporządzenie Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiające przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylające rozporządzenie (WE) nr 1260/1999 (Dz. Urz.
+1) beneficjencie – należy przez to rozumieć podmiot, o którym mowa w § 1 ust. 3, otrzymujący od Agencji wsparcie;
+2) dniu rozpoczęcia realizacji inwestycji – należy przez to rozumieć dzień rozpoczęcia robót budowlanych lub pierwszego zobowiązania do zamówienia towarów i usług związanych z realizacją inwestycji, z wyłączeniem dokumentów dotyczących wsparcia realizacji inwestycji, w szczególności: rezerwacji częstotliwości, uzyskania pozwolenia na budowę, zawarcia bezzadatkowej przedwstępnej umowy najmu lub dzierżawy budynków lub gruntów, uzyskania decyzji o środowiskowych uwarunkowaniach;
+3) dniu zakończenia realizacji projektu – należy przez to rozumieć dzień wskazany w umowie o udzielenie wsparcia, jako dzień złożenia przez beneficjenta wniosku o płatność końcową;
+4) dużym projekcie – należy przez to rozumieć projekt w rozumieniu art. 39 rozporządzenia , o którym mowa w pkt 14;
+5) dużym projekcie inwestycyjnym – należy przez to rozumieć projekt w rozumieniu art. 2 pkt 12 rozporządzenia Komisji (WE) nr 800/2008 ;
+6) Instytucji Zarządzającej – należy przez to rozumieć ministra właściwego do spraw rozwoju regionalnego;
+7) intensywności pomocy – należy przez to rozumieć stosunek wartości pomocy wyrażonej w ekwiwalencie dotacji brutto do wydatków kwalifikowalnych;
+8) leasingu – należy przez to rozumieć leasing w znaczeniu nadanym przez Międzynarodowe Standardy Sprawozdawczości Finansowej, które zostały włączone do porządku prawnego Unii Europejskiej rozporządzeniem Komisji (WE) nr 1126/2008 z dnia 3 listopada 2008 r. przyjmującym określone międzynarodowe standardy rachunkowości zgodnie z rozporządzeniem (WE) nr 1606/2002 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 320 z 29.11.2008, str. 1, z późn. zm.);
+9) mikroprzedsiębiorcy, małym przedsiębiorcy lub średnim przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo spełniające kryteria określone w załączniku I do rozporządzenia Komisji (WE) nr 800/2008 ;
+10) najbliższym punkcie dystrybucji Internetu – należy przez to rozumieć węzeł telekomunikacyjny należący do operatora telekomunikacyjnego, w którym oferowana jest usługa hurtowego szerokopasmowego dostępu do Internetu, a którego parametry techniczne, lokalizacja oraz warunki udostępnienia są optymalne dla realizacji projektu;
+11) najbardziej efektywnym punkcie dystrybucji Internetu – należy przez to rozumieć najbliższy węzeł telekomunikacyjny regionalnej telekomunikacyjnej sieci szkieletowej realizowanej w ramach wsparcia, o którym mowa w § 5 ust. 1 pkt 1, w którym jest lub będzie oferowana usługa hurtowego szerokopasmowego dostępu do Internetu;
+12) Polsce Wschodniej – należy przez to rozumieć obszar obejmujący województwa: lubelskie, podlaskie, podkarpackie, świętokrzyskie i warmińsko-mazurskie;
+13) projekcie – należy przez to rozumieć przedsięwzięcie realizowane na podstawie umowy o udzielenie wsparcia, w ramach działania II.1 Sieć szerokopasmowa Polski Wschodniej;
+14) rozporządzeniu Rady (WE) nr 1083/2006 – należy przez to rozumieć rozporządzenie Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiające przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylające rozporządzenie (WE) nr 1260/1999 (Dz. Urz.
 UE L 210 z 31.07.2006, str. 25, z późn. zm.) ;
-15) sieci szerokopasmowej należy przez to rozumieć sieć telekomunikacyjną służącą do zapewnienia szerokopasmowego dostępu do Internetu;
-16) sieci szerokopasmowej Polski Wschodniej należy przez to rozumieć sieć szerokopasmową tworzoną w ramach działania II.1 Sieć szerokopasmowa Polski Wschodniej;
-17) szerokopasmowym dostępie do Internetu należy przez to rozumieć dostęp do Internetu, dla którego wymagana przepływność łącza do użytkownika końcowego wynosi co najmniej 2 Mb/s;
-18) szerokopasmowym dostępie do Internetu nowej generacji należy przez to rozumieć szerokopasmowy dostęp do Internetu o wyższych parametrach, takich jak wyższa przepływność co najmniej 30 Mb/s do użytkownika końcowego, w porównaniu z usługami świadczonymi za pomocą istniejących sieci z przewodów miedzianych, zapewniany przez sieci przewodowe, które składają się w całości lub w części z elementów optycznych;
-19) środkach trwałych należy przez to rozumieć rzeczowe aktywa trwałe w rozumieniu art. 2 pkt 10 rozporządzenia Komisji (WE) nr 800/2008 ;
-20) trwałości projektu należy przez to rozumieć trwałość realizacji projektu w rozumieniu art. 57 rozporządzenia Rady (WE) nr 1083/2006 ;
-21) umowie o udzielenie wsparcia należy przez to rozumieć umowę dotyczącą dofinansowania projektu realizowanego przez beneficjenta w ramach Działania II.1 Sieć szerokopasmowa Polski Wschodniej, zawartą pomiędzy Agencją a beneficjentem;
-22) użytkowniku końcowym należy przez to rozumieć podmiot, o którym mowa w art. 2 pkt 50 ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, 827 i 1198);
-23) wartościach niematerialnych i prawnych należy przez to rozumieć wartości niematerialne i prawne w rozumieniu art. 2 pkt 11 rozporządzenia Komisji (WE) nr 800/2008 ;
-24) wniosku o potwierdzenie udzielenia pomocy należy przez to rozumieć wniosek określony w formularzu stanowiącym załącznik XXI do rozporządzenia Komisji (WE) nr 1828/2006 z dnia 8 grudnia 2006 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1083/2006 ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności oraz rozporządzenia (WE) nr 1080/2006 Parlamentu Europejskiego i Rady w sprawie Europejskiego Funduszu Rozwoju Regionalnego (Dz. Urz. UE L 371 z 27.12.2006, str. 1, z późn. zm.);
-25) wniosku o udzielenie wsparcia należy przez to rozumieć wniosek beneficjenta o przyznanie środków na realizację projektu w ramach Działania II.1 Sieć szerokopasmowa Polski Wschodniej;
-26) zasadniczej modyfikacji należy przez to rozumieć działania określone w art. 57 ust. 1 rozporządzenia Rady (WE) nr 1083/2006 .
+15) sieci szerokopasmowej – należy przez to rozumieć sieć telekomunikacyjną służącą do zapewnienia szerokopasmowego dostępu do Internetu;
+16) sieci szerokopasmowej Polski Wschodniej – należy przez to rozumieć sieć szerokopasmową tworzoną w ramach działania II.1 Sieć szerokopasmowa Polski Wschodniej;
+17) szerokopasmowym dostępie do Internetu – należy przez to rozumieć dostęp do Internetu, dla którego wymagana przepływność łącza do użytkownika końcowego wynosi co najmniej 2 Mb/s;
+18) szerokopasmowym dostępie do Internetu nowej generacji – należy przez to rozumieć szerokopasmowy dostęp do Internetu o wyższych parametrach, takich jak wyższa przepływność – co najmniej 30 Mb/s do użytkownika końcowego, w porównaniu z usługami świadczonymi za pomocą istniejących sieci z przewodów miedzianych, zapewniany przez sieci przewodowe, które składają się w całości lub w części z elementów optycznych;
+19) środkach trwałych – należy przez to rozumieć rzeczowe aktywa trwałe w rozumieniu art. 2 pkt 10 rozporządzenia Komisji (WE) nr 800/2008 ;
+20) trwałości projektu – należy przez to rozumieć trwałość realizacji projektu w rozumieniu art. 57 rozporządzenia Rady (WE) nr 1083/2006 ;
+21) umowie o udzielenie wsparcia – należy przez to rozumieć umowę dotyczącą dofinansowania projektu realizowanego przez beneficjenta w ramach Działania II.1 Sieć szerokopasmowa Polski Wschodniej, zawartą pomiędzy Agencją a beneficjentem;
+22) użytkowniku końcowym – należy przez to rozumieć podmiot, o którym mowa w art. 2 pkt 50 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, 827 i 1198);
+23) wartościach niematerialnych i prawnych – należy przez to rozumieć wartości niematerialne i prawne w rozumieniu art. 2 pkt 11 rozporządzenia Komisji (WE) nr 800/2008 ;
+24) wniosku o potwierdzenie udzielenia pomocy – należy przez to rozumieć wniosek określony w formularzu stanowiącym załącznik XXI do rozporządzenia Komisji (WE) nr 1828/2006 z dnia 8 grudnia 2006 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1083/2006 ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności oraz rozporządzenia (WE) nr 1080/2006 Parlamentu Europejskiego i Rady w sprawie Europejskiego Funduszu Rozwoju Regionalnego (Dz. Urz. UE L 371 z 27.12.2006, str. 1, z późn. zm.);
+25) wniosku o udzielenie wsparcia – należy przez to rozumieć wniosek beneficjenta o przyznanie środków na realizację projektu w ramach Działania II.1 Sieć szerokopasmowa Polski Wschodniej;
+26) zasadniczej modyfikacji – należy przez to rozumieć działania określone w art. 57 ust. 1 rozporządzenia Rady (WE) nr 1083/2006 .
+§ 5. 1. Agencja może udzielić wsparcia podmiotom, o których mowa w § 1 ust. 3 pkt 1, z przeznaczeniem na pokrycie kosztów:
 1) budowy i innych robót budowlanych oraz nabycia lub wytworzenia środków trwałych, w tym infrastruktury telekomunikacyjnej, sprzętu i wyposażenia, w zakresie regionalnej telekomunikacyjnej sieci szkieletowej, w celu zapewnienia możliwości korzystania z usługi szerokopasmowego dostępu do Internetu;
 2) opracowania i organizacji szkoleń dla osób nieposiadających umiejętności korzystania z technologii komputerowych i niemających dostępu do Internetu w Polsce Wschodniej.
 2. Nabycie środków trwałych, o których mowa w ust. 1 pkt 1, może nastąpić również w drodze leasingu, najmu, dzierżawy lub innych podobnych umów.
@@ -105,8 +106,8 @@ d) zasadniczą zmianą dotyczącą procesu produkcyjnego istniejącej jednostki;
 7. Wsparcie, o którym mowa w ust. 1, może być udzielone beneficjentowi, który:
 1) złożył do Agencji wniosek o udzielenie wsparcia;
 2) zobowiązał się do realizacji inwestycji;
-3) zobowiązał się do utrzymania trwałości projektu objętego wsparciem, w szczególności przez utrzymanie inwestycji objętej wsparciem w województwie, w którym została zrealizowana, co najmniej przez 5 lat, a w przypadku mikroprzedsiębiorcy, małego i średniego przedsiębiorcy co najmniej przez 3 lata, od dnia zakończenia realizacji projektu, przy czym wymiana przestarzałych instalacji lub sprzętu w związku z szybkim rozwojem technologicznym lub modernizacja sieci telekomunikacyjnej w celu zwiększenia jej przepustowości jest zgodna z warunkami utrzymania trwałości projektu;
-4) zobowiązał się do zapewnienia kompatybilności i połączalności budowanej infrastruktury telekomunikacyjnej z publiczną siecią telekomunikacyjną w rozumieniu art. 2 pkt 29 ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne;
+3) zobowiązał się do utrzymania trwałości projektu objętego wsparciem, w szczególności przez utrzymanie inwestycji objętej wsparciem w województwie, w którym została zrealizowana, co najmniej przez 5 lat, a w przypadku mikroprzedsiębiorcy, małego i średniego przedsiębiorcy – co najmniej przez 3 lata, od dnia zakończenia realizacji projektu, przy czym wymiana przestarzałych instalacji lub sprzętu w związku z szybkim rozwojem technologicznym lub modernizacja sieci telekomunikacyjnej w celu zwiększenia jej przepustowości jest zgodna z warunkami utrzymania trwałości projektu;
+4) zobowiązał się do zapewnienia kompatybilności i połączalności budowanej infrastruktury telekomunikacyjnej z publiczną siecią telekomunikacyjną w rozumieniu art. 2 pkt 29 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne;
 5) przedłożył informacje określone w rozporządzeniu Rady Ministrów z dnia 29 marca 2010 r. w sprawie zakresu informacji przedstawianych przez podmiot ubiegający się o pomoc inną niż pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie (Dz. U. Nr 53, poz. 312 i Nr 254, poz. 1704).
 8. Wymóg utrzymania trwałości projektu nie uniemożliwia wprowadzania w projekcie uzasadnionych ekonomicznie lub technologicznie modyfikacji w odniesieniu do świadczonych usług i ich głównych odbiorców. Modyfikacje te są możliwe po uzyskaniu akceptacji Agencji. Użycie sprzętu wymienionego podczas tej modyfikacji poza obszarem projektu wymaga akceptacji Agencji.
 9. Agencja informuje beneficjenta o numerze referencyjnym programu pomocowego, na podstawie którego udzielane jest temu beneficjentowi wsparcie, o którym mowa w ust. 1.
@@ -114,7 +115,7 @@ d) zasadniczą zmianą dotyczącą procesu produkcyjnego istniejącej jednostki;
 1) nabycie prawa własności lub wieczystego użytkowania gruntów lub budynków, do wysokości 10% całkowitych wydatków kwalifikowalnych projektu, pod warunkiem że:
 a) beneficjent przedstawi opinię rzeczoznawcy majątkowego potwierdzającą, że cena nabycia nie przekracza wartości rynkowej gruntu określonej na dzień nabycia,
 b) w okresie 7 lat poprzedzających datę zakupu gruntu zakup ten nie był współfinansowany ze środków wspólnotowych ani z krajowych środków pomocy publicznej lub pomocy de minimis;
-2) najem lub dzierżawę gruntów lub budynków, w tym powierzchni, pomieszczeń i innych ich części do wysokości 10% całkowitych wydatków kwalifikowalnych projektu, pod warunkiem że umowa najmu lub dzierżawy została zawarta na okres co najmniej 5 lat od przewidywanego dnia zakończenia realizacji projektu; w przypadku gdy beneficjentem jest mikroprzedsiębiorca, mały lub średni przedsiębiorca, okres ten wynosi co najmniej 3 lata;
+2) najem lub dzierżawę gruntów lub budynków, w tym powierzchni, pomieszczeń i innych ich części – do wysokości 10% całkowitych wydatków kwalifikowalnych projektu, pod warunkiem że umowa najmu lub dzierżawy została zawarta na okres co najmniej 5 lat od przewidywanego dnia zakończenia realizacji projektu; w przypadku gdy beneficjentem jest mikroprzedsiębiorca, mały lub średni przedsiębiorca, okres ten wynosi co najmniej 3 lata;
 3) nabycie lub wytworzenie środków trwałych, w tym nabycie robót i materiałów budowlanych, w szczególności:
 a) wyposażenia technicznego,
 b) maszyn i urządzeń,
@@ -124,7 +125,7 @@ d) infrastruktury technicznej związanej z nową inwestycją, w szczególności 
 a) będą wykorzystywane wyłącznie w jednostce, która otrzymała pomoc,
 b) będą podlegać amortyzacji zgodnie z przepisami o rachunkowości,
 c) będą nabyte od osób trzecich na warunkach rynkowych, przy czym kupujący nie może sprawować kontroli nad sprzedawcą a sprzedawca nad kupującym w rozumieniu art. 3 rozporządzenia Rady (WE) nr 139/2004 z dnia 20 stycznia 2004 r. w sprawie kontroli koncentracji przedsiębiorstw (rozporządzenie WE w sprawie kontroli łączenia przedsiębiorstw) (Dz. Urz. UE L 24 z 29.01.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 3, str. 40),
-d) będą stanowić aktywa beneficjenta i pozostaną w jednostce otrzymującej pomoc co najmniej przez 5 lat, a w przypadku mikroprzedsiębiorcy, małego i średniego przedsiębiorcy co najmniej przez 3 lata;
+d) będą stanowić aktywa beneficjenta i pozostaną w jednostce otrzymującej pomoc co najmniej przez 5 lat, a w przypadku mikroprzedsiębiorcy, małego i średniego przedsiębiorcy – co najmniej przez 3 lata;
 5) nabycie usług związanych z przygotowaniem projektu, w tym:
 a) nadzór techniczny,
 b) przygotowanie dokumentacji technicznej,
@@ -145,13 +146,14 @@ c) przygotowanie ekspertyz, badań, analiz technicznych, finansowych, ekonomiczn
 11. Wydatki na zakup, wytworzenie, leasing, najem lub dzierżawę środków transportu nie są wydatkami kwalifikowalnymi.
 § 8. 1. Maksymalna intensywność pomocy w zakresie wsparcia, o którym mowa w § 6 ust. 1, nie może przekraczać wielkości określonych w § 3 pkt 1 rozporządzenia Rady Ministrów z dnia 13 października 2006 r. w sprawie ustalenia mapy pomocy regionalnej (Dz. U. Nr 190, poz. 1402 oraz z 2013 r. poz. 1540) .
 2. W przypadku mikroprzedsiębiorców, małych i średnich przedsiębiorców, z wyłączeniem prowadzących działalność gospodarczą w sektorze transportu oraz z wyłączeniem pomocy udzielanej na realizację dużego projektu inwestycyjnego, intensywność pomocy, o której mowa w ust. 1, może ulec zwiększeniu o:
-1) 10 punktów procentowych w przypadku średniego przedsiębiorcy;
-2) 20 punktów procentowych w przypadku mikroprzedsiębiorcy i małego przedsiębiorcy.
+1) 10 punktów procentowych – w przypadku średniego przedsiębiorcy;
+2) 20 punktów procentowych – w przypadku mikroprzedsiębiorcy i małego przedsiębiorcy.
 3. Maksymalną wartość wsparcia, o którym mowa w § 6 ust. 1, udzielanego na realizację dużego projektu inwestycyjnego ustala się zgodnie z wzorem określonym w § 4 ust. 1 rozporządzenia Rady Ministrów z dnia 13 października 2006 r. w sprawie ustalenia mapy pomocy regionalnej .
 4. Wartość wsparcia na projekt nie może być niższa niż 100 000 złotych.
 5. Beneficjent otrzymujący wsparcie, o którym mowa w § 6 ust. 1, zapewni finansowanie projektu w części nieobjętej wsparciem, przy czym co najmniej 25% wydatków kwalifikowalnych będzie pokryte ze środków własnych beneficjenta lub z zewnętrznych źródeł finansowania niepochodzących ze środków publicznych.
 § 9. Pomoc na duże projekty inwestycyjne udzielana w ramach wsparcia, o którym mowa w § 6 ust. 1, podlega indywidualnej notyfikacji Komisji Europejskiej w przypadkach, o których mowa w art. 6 ust. 2 rozporządzenia Komisji (WE) nr 800/2008 .
-§ 10. Wsparcie, o którym mowa w § 6 ust. 1, podlega sumowaniu z każdą inną pomocą, w tym pomocą de minimis, udzieloną beneficjentowi w odniesieniu do tych samych wydatków kwalifikowalnych, bez względu na jej formę i źródło pochodzenia, i nie może przekroczyć maksymalnej intensywności pomocy, określonej w § 8 ust. 1 i 2, a w odniesieniu do dużego projektu inwestycyjnego maksymalnej wartości wsparcia ustalonej zgodnie z § 8 ust. 3.
+§ 10. Wsparcie, o którym mowa w § 6 ust. 1, podlega sumowaniu z każdą inną pomocą, w tym pomocą de minimis, udzieloną beneficjentowi w odniesieniu do tych samych wydatków kwalifikowalnych, bez względu na jej formę i źródło pochodzenia, i nie może przekroczyć maksymalnej intensywności pomocy, określonej w § 8 ust. 1 i 2, a w odniesieniu do dużego projektu inwestycyjnego – maksymalnej wartości wsparcia ustalonej zgodnie z § 8 ust. 3.
+§ 11. 1. Agencja udziela wsparcia:
 1) określonego w § 5 ust. 1, na realizację projektów indywidualnych, o których mowa w art. 28 ust. 1 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2014 r. poz. 1649), z zastrzeżeniem § 13;
 2) określonego w § 6 ust. 1, na realizację projektów wyłonionych w trybie konkursu, o którym mowa w art. 28 ust. 1 pkt 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
 2. W przypadku projektów, o których mowa w ust. 1 pkt 1, ogłoszonych stosownie do art. 28 ust. 1a ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, Agencja powiadamia pisemnie podmioty odpowiedzialne za opracowanie tych projektów o konieczności złożenia, w terminie przez nią wskazanym, wniosku o udzielenie wsparcia.
@@ -198,14 +200,15 @@ Ogłoszenie o konkursie określa:
 8. W przypadku podjęcia przez Komisję Europejską decyzji o odmowie wniesienia wkładu finansowego w ramach dużego projektu, o której mowa w art. 41 ust. 3 rozporządzenia Rady (WE) nr 1083/2006 , Agencja wypowiada umowę o udzielenie wsparcia na realizację projektu ze skutkiem natychmiastowym.
 9. W przypadku decyzji zmieniającej niektóre elementy związane z realizacją dużego projektu Agencja podpisuje z beneficjentem stosowny aneks do umowy o udzielenie wsparcia na realizację projektu.
 § 14. Do postępowania w sprawie udzielenia wsparcia stosuje się art. 29 ust. 4, art. 30–30g oraz art. 37 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+§ 15. Do umów o udzielenie wsparcia, o którym mowa w § 5 ust. 1, zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia.
 § 16. Regionalna pomoc inwestycyjna, o której mowa w § 6 ust. 1, może być udzielana do dnia określonego w art. 44 ust. 3 zdanie drugie rozporządzenia Komisji (WE) nr 800/2008 .
 § 17. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 
-#### Rozdział 1 Przepisy ogólne § 1. 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Polską Agencję Rozwoju Przedsiębiorczości, zwaną dalej „Agencją”, pomocy finansowej w ramach Działania II.1 Sieć szerokopasmowa Polski Wschodniej w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007– 2013, zwanego dalej „Programem”.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe przeznaczenie i warunki udzielania wsparcia § 5. 1. Agencja może udzielić wsparcia podmiotom, o których mowa w § 1 ust. 3 pkt 1, z przeznaczeniem na pokrycie kosztów:
+#### Rozdział 2 Szczegółowe przeznaczenie i warunki udzielania wsparcia
 
-#### Rozdział 3 Tryb udzielania wsparcia § 11. 1. Agencja udziela wsparcia:
+#### Rozdział 3 Tryb udzielania wsparcia
 
-#### Rozdział 4 Przepisy przejściowe i końcowe § 15. Do umów o udzielenie wsparcia, o którym mowa w § 5 ust. 1, zawartych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia.
+#### Rozdział 4 Przepisy przejściowe i końcowe
 

@@ -8,10 +8,10 @@ pos: 1591
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11559911 Załącznik do rozporządzenia Ministra Edukacji i Nauki WYMAGANIA EGZAMINACYJNE DLA EGZAMINU ÓSMOKLASISTY PRZEPROWADZANEGO W ROKU SZKOLNYM 2022/2023 I 2023/2024 EGZAMIN ÓSMOKLASISTY Z JĘZYKA POLSKIEGO Ogólne wymagania egzaminacyjne I. Kształcenie literackie i kulturowe
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1591/text.pdf) |
 
-11559911 WYMAGANIA EGZAMINACYJNE DLA EGZAMINU ÓSMOKLASISTY PRZEPROWADZANEGO W ROKU SZKOLNYM 2022/2023 I 2023/2024 EGZAMIN ÓSMOKLASISTY Z JĘZYKA POLSKIEGO Ogólne wymagania egzaminacyjne I. Kształcenie literackie i kulturowe
 1. Wyrabianie i rozwijanie zdolności rozumienia utworów literackich oraz innych tekstów kultury.
 2. Znajomość wybranych utworów z literatury polskiej i światowej oraz umiejętność mówienia o nich z wykorzystaniem potrzebnej terminologii.
 3. Kształtowanie umiejętności uczestniczenia w kulturze polskiej i europejskiej, szczególnie w jej wymiarze symbolicznym i aksjologicznym.
@@ -41,6 +40,7 @@ II. Kształcenie językowe
 III. Tworzenie wypowiedzi
 1. Rozwijanie umiejętności wypowiadania się w określonych formach wypowiedzi pisemnych.
 2. Rozpoznawanie intencji rozmówcy oraz wyrażanie intencji własnych, rozpoznawanie języka jako działania (akty mowy).
+2
 3. Rozwijanie umiejętności stosowania środków stylistycznych i dbałości o estetykę tekstu oraz umiejętności organizacji tekstu.
 4. Poznawanie podstawowych zasad retoryki, w szczególności argumentowania, oraz rozpoznawanie manipulacji językowej.
 5. Rozbudzanie potrzeby tworzenia tekstów o walorach estetycznych i podejmowania samodzielnych prób literackich.
@@ -51,7 +51,7 @@ IV. Samokształcenie
 Szczegółowe wymagania egzaminacyjne I. Kształcenie literackie i kulturowe
 1. Czytanie utworów literackich Uczeń:
 1) rozpoznaje rodzaje literackie: epika, liryka, dramat; określa cechy charakterystyczne dla poszczególnych rodzajów i przypisuje czytany utwór do odpowiedniego rodzaju;
-2) rozróżnia gatunki epiki, liryki, dramatu, w tym: opowiadanie, powieść, baśń, legendę, mit, komedię, fraszkę, tren, balladę, tragedię i wymienia ich podstawowe cechy oraz wskazuje cechy gatunkowe czytanych utworów literackich; rozpoznaje wiersz, przysłowie, komiks;
+2) rozróżnia gatunki epiki, liryki, dramatu, w tym: opowiadanie, powieść, baśń, legendę, mit, komedię, fraszkę, tren, balladę, tragedię – i wymienia ich podstawowe cechy oraz wskazuje cechy gatunkowe czytanych utworów literackich; rozpoznaje wiersz, przysłowie, komiks;
 3) objaśnia morał bajki oraz samodzielnie formułuje przesłanie baśni;
 4) omawia akcję, wyodrębnia wątki i wydarzenia;
 5) odróżnia fikcję artystyczną od rzeczywistości;
@@ -90,18 +90,18 @@ Szczegółowe wymagania egzaminacyjne I. Kształcenie literackie i kulturowe
 II. Kształcenie językowe
 1. Gramatyka języka polskiego Uczeń:
 1) rozpoznaje w wypowiedziach podstawowe części mowy (rzeczownik, czasownik, przymiotnik, przysłówek, liczebnik, zaimek, przyimek, spójnik) i wskazuje różnice między nimi;
-2) rozpoznaje w tekście formy przypadków, liczb, osób, czasów i rodzajów gramatycznych rozumie ich funkcje w wypowiedzi;
+2) rozpoznaje w tekście formy przypadków, liczb, osób, czasów i rodzajów gramatycznych – rozumie ich funkcje w wypowiedzi;
 3) poprawnie stopniuje przymiotniki i przysłówki oraz używa ich we właściwych kontekstach;
 4) rozpoznaje podstawowe funkcje składniowe wyrazów użytych w wypowiedziach (podmiot, orzeczenie, dopełnienie, przydawka, okolicznik);
 5) rozróżnia i poprawnie zapisuje zdania oznajmujące, pytające i rozkazujące;
-6) przekształca zdania złożone w pojedyncze i odwrotnie, a także zdania w równoważniki zdań i odwrotnie odpowiednio do przyjętego celu;
+6) przekształca zdania złożone w pojedyncze i odwrotnie, a także zdania w równoważniki zdań i odwrotnie – odpowiednio do przyjętego celu;
 7) rozpoznaje wyraz podstawowy i wyraz pochodny; rozumie pojęcie podstawy słowotwórczej; w wyrazie pochodnym wskazuje temat słowotwórczy i formant, wskazuje funkcje formantów w nadawaniu znaczenia wyrazom pochodnym, rozumie realne i słowotwórcze znaczenie wyrazu, rozpoznaje rodzinę wyrazów, łączy wyrazy pokrewne, wskazuje rdzeń;
 8) zna zasady tworzenia wyrazów złożonych;
 9) rozpoznaje imiesłowy, rozumie zasady ich tworzenia i odmiany, poprawnie stosuje imiesłowowy równoważnik zdania i rozumie jego funkcje; przekształca go na zdanie złożone i odwrotnie;
-10) rozpoznaje w tekście zdania pojedyncze nierozwinięte i rozwinięte, pojedyncze i złożone (współrzędnie i podrzędnie), równoważniki zdań, rozróżnia wypowiedzenia wielokrotnie złożone i rozumie ich funkcje;
+10) rozpoznaje w tekście zdania pojedyncze nierozwinięte i rozwinięte, pojedyncze i złożone (współrzędnie i podrzędnie), równoważniki zdań, rozróżnia wypowiedzenia wielokrotnie złożone – i rozumie ich funkcje;
 11) odróżnia mowę zależną i niezależną, przekształca mowę zależną na niezależną i odwrotnie.
 2. Zróżnicowanie języka Uczeń:
-1) dostrzega zróżnicowanie słownictwa, w tym rozpoznaje słownictwo ogólnonarodowe i słownictwo o ograniczonym zasięgu (np. terminy naukowe, archaizmy, kolokwializmy) określa jego funkcje w tekście;
+1) dostrzega zróżnicowanie słownictwa, w tym rozpoznaje słownictwo ogólnonarodowe i słownictwo o ograniczonym zasięgu (np. terminy naukowe, archaizmy, kolokwializmy) – określa jego funkcje w tekście;
 2) rozpoznaje nazwy osobowe i miejscowe, używa poprawnych form gramatycznych imion, nazwisk, nazw miejscowych i nazw mieszkańców;
 3) zna sposoby wzbogacania słownictwa;
 4) rozróżnia treść i zakres znaczeniowy wyrazu;
@@ -206,7 +206,7 @@ V. Działania na ułamkach zwykłych i dziesiętnych Uczeń:
 7) oblicza wartość prostych wyrażeń arytmetycznych, stosując reguły dotyczące kolejności wykonywania działań;
 8) wykonuje działania na ułamkach dziesiętnych, używając własnych poprawnych strategii.
 VI. Obliczenia praktyczne Uczeń:
-1) interpretuje 100% danej wielkości jako całość, 50% jako połowę, 25% jako jedną czwartą, 10% jako jedną dziesiątą, 1% jako jedną setną część danej wielkości liczbowej;
+1) interpretuje 100% danej wielkości jako całość, 50% – jako połowę, 25% – jako jedną czwartą, 10% – jako jedną dziesiątą, 1% – jako jedną setną część danej wielkości liczbowej;
 2) w przypadkach osadzonych w kontekście praktycznym oblicza procent danej wielkości w stopniu trudności typu 50%, 20%, 10%;
 3) wykonuje proste obliczenia zegarowe na godzinach, minutach i sekundach;
 4) zamienia i prawidłowo stosuje jednostki długości: milimetr, centymetr, decymetr, metr, kilometr;
@@ -220,7 +220,7 @@ VII. Potęgi o podstawach wymiernych Uczeń:
 4) podnosi potęgę do potęgi.
 VIII. Pierwiastki Uczeń:
 1) oblicza wartości pierwiastków kwadratowych i sześciennych z liczb, które są odpowiednio kwadratami lub sześcianami liczb wymiernych;
-2) szacuje wielkość danego pierwiastka kwadratowego lub sześciennego oraz prostego wyrażenia arytmetycznego zawierającego pierwiastki, np. 1 + √2, 2 √2.
+2) szacuje wielkość danego pierwiastka kwadratowego lub sześciennego oraz prostego wyrażenia arytmetycznego zawierającego pierwiastki, np. 1 + √2, 2 – √2.
 IX. Tworzenie wyrażeń algebraicznych z jedną i z wieloma zmiennymi Uczeń:
 1) korzysta z nieskomplikowanych wzorów, w których występują oznaczenia literowe, opisuje wzór słowami;
 2) zapisuje wyniki podanych działań w postaci wyrażeń algebraicznych jednej lub kilku zmiennych;
@@ -237,7 +237,7 @@ XI. Obliczenia procentowe Uczeń:
 3) oblicza, jaki procent danej liczby b stanowi liczba a;
 4) oblicza liczbę b, której p procent jest równe a;
 5) stosuje obliczenia procentowe do rozwiązywania problemów w kontekście praktycznym, również w przypadkach jednokrotnych podwyżek lub obniżek danej wielkości.
-XII. Równania z jedną niewiadomą Uczeń:
+11 XII. Równania z jedną niewiadomą Uczeń:
 1) sprawdza, czy dana liczba jest rozwiązaniem równania stopnia pierwszego z jedną niewiadomą;
 2) rozwiązuje równania pierwszego stopnia z jedną niewiadomą metodą równań równoważnych;
 3) rozwiązuje równania, które po prostych przekształceniach wyrażeń algebraicznych sprowadzają się do równań pierwszego stopnia z jedną niewiadomą;
@@ -297,7 +297,7 @@ XXII. Zadania tekstowe Uczeń:
 4) dzieli rozwiązanie zadania na etapy, stosując własne poprawne, wygodne dla niego strategie rozwiązania;
 5) do rozwiązywania zadań osadzonych w kontekście praktycznym stosuje zdobytą wiedzę z zakresu arytmetyki i geometrii oraz nabyte umiejętności rachunkowe, a także własne poprawne metody;
 6) weryfikuje wynik zadania tekstowego, oceniając sensowność rozwiązania np. poprzez szacowanie, sprawdzanie wszystkich warunków zadania, ocenianie rzędu wielkości otrzymanego wyniku.
-EGZAMIN ÓSMOKLASISTY Z JĘZYKA OBCEGO NOWOŻYTNEGO W roku szkolnym 2022/2023 i 2023/2024 wymagania egzaminacyjne dotyczące egzaminu ósmoklasisty z języka obcego nowożytnego odpowiadają poziomowi A2 (w skali Europejskiego Systemu Opisu Kształcenia Językowego).
+14 EGZAMIN ÓSMOKLASISTY Z JĘZYKA OBCEGO NOWOŻYTNEGO W roku szkolnym 2022/2023 i 2023/2024 wymagania egzaminacyjne dotyczące egzaminu ósmoklasisty z języka obcego nowożytnego odpowiadają poziomowi A2 (w skali Europejskiego Systemu Opisu Kształcenia Językowego).
 Ogólne wymagania egzaminacyjne I. Znajomość środków językowych Uczeń posługuje się podstawowym zasobem środków językowych (leksykalnych, gramatycznych, ortograficznych oraz fonetycznych), umożliwiającym realizację pozostałych wymagań ogólnych w zakresie tematów wskazanych w wymaganiach szczegółowych.
 II. Rozumienie wypowiedzi Uczeń rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka, a także proste wypowiedzi pisemne, w zakresie opisanym w wymaganiach szczegółowych.
 III. Tworzenie wypowiedzi Uczeń samodzielnie formułuje krótkie, proste, spójne i logiczne wypowiedzi pisemne w zakresie opisanym w wymaganiach szczegółowych.
@@ -360,6 +360,6 @@ VII. Uczeń posiada:
 1) podstawową wiedzę o krajach, społeczeństwach i kulturach społeczności, które posługują się danym językiem obcym nowożytnym, oraz o kraju ojczystym, z uwzględnieniem kontekstu lokalnego, europejskiego i globalnego;
 2) świadomość związku między kulturą własną i obcą oraz wrażliwość międzykulturową.
 VIII. Uczeń dokonuje samooceny i wykorzystuje techniki samodzielnej pracy nad językiem (np. poprawianie błędów).
-IX. Uczeń stosuje strategie komunikacyjne (np. domyślanie się znaczenia wyrazów z kontekstu, identyfikowanie słów kluczy lub internacjonalizmów) i strategie kompensacyjne, w przypadku gdy nie zna lub nie pamięta wyrazu (np. upraszczanie formy wypowiedzi, zastępowanie innym wyrazem, opis, wykorzystywanie środków niewerbalnych).
+17 IX. Uczeń stosuje strategie komunikacyjne (np. domyślanie się znaczenia wyrazów z kontekstu, identyfikowanie słów kluczy lub internacjonalizmów) i strategie kompensacyjne, w przypadku gdy nie zna lub nie pamięta wyrazu (np. upraszczanie formy wypowiedzi, zastępowanie innym wyrazem, opis, wykorzystywanie środków niewerbalnych).
 X. Uczeń posiada świadomość językową (np. podobieństw i różnic między językami).
 

@@ -8,10 +8,10 @@ pos: 501
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 4 kwietnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 550011 ROZPORZĄDZENIE MINISTRA SPRAW ZAGRANICZNYCH z dnia 28 marca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,53 +25,62 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-04-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/501/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW ZAGRANICZNYCH z dnia 28 marca 2024 r.
-zmieniające rozporządzenie sprawie wiz oraz dokumentów potwierdzających pełnienie funkcji członków misji dyplomatycznych urzędów konsularnych państw obcych Na podstawie art. 63 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 547) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Spraw Zagranicznych z dnia 8 kwietnia 2015 r. sprawie wiz oraz dokumentów potwierdzających pełnienie funkcji członków misji dyplomatycznych urzędów konsularnych państw obcych (Dz. U. poz. 535) załączniki 1–5 do rozporządzenia otrzymują brzmienie określone odpowiednio załącznikach 1–5 do niniejszego rozporządzenia.
-§ 2. Dokumenty, o których mowa § 2 ust. 1 rozporządzenia zmienianego § 1, wydane do dnia wejścia życie niniejszego rozporządzenia zachowują ważność do upływu terminu nich określonego.
-§ 3. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Zagranicznych: wz. M. Prawda Rewers Legitymacja ma formę spersonalizowanej karty identyfikacyjnej ID1 o wymiarach 53,98 mm, wykonanej z poliwęglanu, zawierającej dane osobowe, zdjęcie podpis posiadacza, legitymacji, podpis organu datę miejsce wydania, termin ważności oraz zabezpieczenia fałszerstwem.
-Wykaz zabezpieczeń
-1) dwukolorowe tło technice druku irysowego;
+zmieniające rozporządzenie w sprawie wiz oraz dokumentów potwierdzających pełnienie funkcji członków misji dyplomatycznych i urzędów konsularnych państw obcych Na podstawie art. 63 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Spraw Zagranicznych z dnia 8 kwietnia 2015 r. w sprawie wiz oraz dokumentów potwierdzających pełnienie funkcji członków misji dyplomatycznych i urzędów konsularnych państw obcych (Dz. U. poz. 535) załączniki nr 1–5 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–5 do niniejszego rozporządzenia.
+§ 2. Dokumenty, o których mowa w § 2 ust. 1 rozporządzenia zmienianego w § 1, wydane do dnia wejścia w życie niniejszego rozporządzenia zachowują ważność do upływu terminu w nich określonego.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Spraw Zagranicznych: wz. M. Prawda Załączniki do rozporządzenia Ministra Spraw Zagranicznych z dnia 28 marca 2024 r. (Dz. U. poz.
+…) Załącznik nr 1 WZÓR LEGITYMACJI DYPLOMATYCZNEJ WZÓR LEGITYMACJI DYPLOMATYCZNEJ Awers Rewers Legitymacja ma formę spersonalizowanej karty identyfikacyjnej formatu ID1 o wymiarach 53,98 × 85,60 mm, wykonanej z poliwęglanu, zawierającej dane osobowe, zdjęcie i podpis posiadacza, numer legitymacji, podpis i nazwę organu wydającego, datę i miejsce wydania, termin ważności oraz zabezpieczenia przed fałszerstwem.
+Wykaz zabezpieczeń przed fałszerstwem:
+1) dwukolorowe tło giloszowe w technice druku irysowego;
 2) mikrodruki;
-3) aktywną promieniowaniu ultrafioletowym;
-wykonany zmienną;
-5)
+3) elementy wykonane farbą aktywną w promieniowaniu ultrafioletowym;
+4) element wykonany farbą optycznie zmienną;
+5) element optycznie zmienny (CLI);
 6) tłoczenia;
 7) oznaczenie indywidualne.
-DYPLOMATYCZNEJ Rewers Legitymacja ma formę spersonalizowanej karty identyfikacyjnej ID1 o wymiarach 53,98 mm, wykonanej z poliwęglanu, zawierającej dane osobowe, zdjęcie podpis posiadacza, legitymacji, podpis organu datę miejsce wydania, termin ważności oraz zabezpieczenia fałszerstwem.
-Wykaz zabezpieczeń
-1) dwukolorowe tło technice druku irysowego;
+
+## Załącznik nr 2 — WZÓR LEGITYMACJI SŁUŻBOWEJ WZÓR LEGITYMACJI SŁUŻBOWEJ Awers Rewers Legitymacja ma formę spersonalizowanej karty identyfikacyjnej formatu ID1 o wymiarach 53,98 × 85,60 mm, wykonanej z poliwęglanu, zawierającej dane osobowe, zdjęcie i podpis posiadacza, numer legitymacji, podpis i nazwę organu wydającego, datę i miejsce wydania, termin ważności oraz zabezpieczenia przed fałszerstwem.
+
+Wykaz zabezpieczeń przed fałszerstwem:
+1) dwukolorowe tło giloszowe w technice druku irysowego;
 2) mikrodruki;
-3) aktywną promieniowaniu ultrafioletowym;
-wykonany zmienną;
-5)
+3) elementy wykonane farbą aktywną w promieniowaniu ultrafioletowym;
+4) element wykonany farbą optycznie zmienną;
+5) element optycznie zmienny (CLI);
 6) tłoczenia;
 7) oznaczenie indywidualne.
-Rewers Legitymacja ma formę spersonalizowanej karty identyfikacyjnej ID1 o wymiarach 53,98 mm, wykonanej z poliwęglanu, zawierającej dane osobowe, zdjęcie podpis posiadacza, legitymacji, podpis organu datę miejsce wydania, termin ważności oraz zabezpieczenia fałszerstwem.
-Wykaz zabezpieczeń
-1) dwukolorowe tło technice druku irysowego;
+
+## Załącznik nr 3 — WZÓR LEGITYMACJI KONSULARNEJ WZÓR LEGITYMACJI KONSULARNEJ Awers Rewers Legitymacja ma formę spersonalizowanej karty identyfikacyjnej formatu ID1 o wymiarach 53,98 × 85,60 mm, wykonanej z poliwęglanu, zawierającej dane osobowe, zdjęcie i podpis posiadacza, numer legitymacji, podpis i nazwę organu wydającego, datę i miejsce wydania, termin ważności oraz zabezpieczenia przed fałszerstwem.
+
+Wykaz zabezpieczeń przed fałszerstwem:
+1) dwukolorowe tło giloszowe w technice druku irysowego;
 2) mikrodruki;
-3) aktywną promieniowaniu ultrafioletowym;
-wykonany zmienną;
-5)
+3) elementy wykonane farbą aktywną w promieniowaniu ultrafioletowym;
+4) element wykonany farbą optycznie zmienną;
+5) element optycznie zmienny (CLI);
 6) tłoczenia;
 7) oznaczenie indywidualne.
-Rewers Legitymacja ma formę spersonalizowanej karty identyfikacyjnej ID1 o wymiarach 53,98 mm, wykonanej z poliwęglanu, zawierającej dane osobowe, zdjęcie podpis posiadacza, legitymacji, podpis organu datę miejsce wydania, termin ważności oraz zabezpieczenia fałszerstwem.
-Wykaz zabezpieczeń
-1) dwukolorowe tło technice druku irysowego;
+
+## Załącznik nr 4 — WZÓR LEGITYMACJI KONSULA HONOROWEGO WZÓR LEGITYMACJI KONSULA HONOROWEGO Awers Rewers Legitymacja ma formę spersonalizowanej karty identyfikacyjnej formatu ID1 o wymiarach 53,98 × 85,60 mm, wykonanej z poliwęglanu, zawierającej dane osobowe, zdjęcie i podpis posiadacza, numer legitymacji, podpis i nazwę organu wydającego, datę i miejsce wydania, termin ważności oraz zabezpieczenia przed fałszerstwem.
+
+Wykaz zabezpieczeń przed fałszerstwem:
+1) dwukolorowe tło giloszowe w technice druku irysowego;
 2) mikrodruki;
-3) aktywną promieniowaniu ultrafioletowym;
-wykonany zmienną;
-5)
+3) elementy wykonane farbą aktywną w promieniowaniu ultrafioletowym;
+4) element wykonany farbą optycznie zmienną;
+5) element optycznie zmienny (CLI);
 6) tłoczenia;
 7) oznaczenie indywidualne.
-Rewers Legitymacja ma formę spersonalizowanej karty identyfikacyjnej ID1 o wymiarach 53,98 mm, wykonanej z poliwęglanu, zawierającej dane osobowe, zdjęcie podpis posiadacza, legitymacji, podpis organu datę miejsce wydania, termin ważności oraz zabezpieczenia fałszerstwem.
-Wykaz zabezpieczeń
-1) dwukolorowe tło technice druku irysowego;
+
+## Załącznik nr 5 — WZÓR LEGITYMACJI SPECJALNEJ WZÓR LEGITYMACJI SPECJALNEJ Awers Rewers Legitymacja ma formę spersonalizowanej karty identyfikacyjnej formatu ID1 o wymiarach 53,98 × 85,60 mm, wykonanej z poliwęglanu, zawierającej dane osobowe, zdjęcie i podpis posiadacza, numer legitymacji, podpis i nazwę organu wydającego, datę i miejsce wydania, termin ważności oraz zabezpieczenia przed fałszerstwem.
+
+Wykaz zabezpieczeń przed fałszerstwem:
+1) dwukolorowe tło giloszowe w technice druku irysowego;
 2) mikrodruki;
-3) aktywną promieniowaniu ultrafioletowym;
-wykonany zmienną;
-5)
+3) elementy wykonane farbą aktywną w promieniowaniu ultrafioletowym;
+4) element wykonany farbą optycznie zmienną;
+5) element optycznie zmienny (CLI);
 6) tłoczenia;
 7) oznaczenie indywidualne.
 

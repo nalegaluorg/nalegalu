@@ -8,7 +8,7 @@ pos: 1827
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw

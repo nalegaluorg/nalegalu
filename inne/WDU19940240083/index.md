@@ -8,7 +8,7 @@ pos: 83
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o prawie autorskim i prawach pokrewnych
@@ -67,7 +67,17 @@ source: "isap-pdf"
 
 **Art. 4.** Nie stanowią przedmiotu prawa autorskiego:
 
+- **1)** akty normatywne lub ich urzędowe projekty;
+- **2)** urzędowe dokumenty, materiały, znaki i symbole;
+- **3)** opublikowane opisy patentowe lub ochronne;
+- **4)** proste informacje prasowe.
+
 **Art. 5.** Przepisy ustawy stosuje się do utworów:
+
+- **1)** których twórca lub współtwórca jest obywatelem polskim lub 1 ) których twórca jest obywatelem państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, lub
+- **2)** które zostały opublikowane po raz pierwszy na terytorium Rzeczypospolitej Polskiej albo równocześnie na tym terytorium i za granicą, lub
+- **3)** które zostały opublikowane po raz pierwszy w języku polskim, lub
+- **4)** które są chronione na podstawie umów międzynarodowych, w zakresie, w jakim ich ochrona wynika z tych umów.
 
 **Art. 6.**
 
@@ -201,6 +211,12 @@ source: "isap-pdf"
 ##### Oddział 1 Autorskie prawa osobiste
 
 **Art. 16.** Jeżeli ustawa nie stanowi inaczej, autorskie prawa osobiste chronią nieograniczoną w czasie i niepodlegającą zrzeczeniu się lub zbyciu więź twórcy z utworem, a w szczególności prawo do:
+
+- **1)** autorstwa utworu;
+- **2)** oznaczenia utworu swoim nazwiskiem lub pseudonimem albo do udostępniania go anonimowo;
+- **3)** nienaruszalności treści i formy utworu oraz jego rzetelnego wykorzystania;
+- **4)** decydowania o pierwszym udostępnieniu utworu publiczności;
+- **5)** nadzoru nad sposobem korzystania z utworu.
 
 ##### Oddział 2 Autorskie prawa majątkowe
 
@@ -356,6 +372,9 @@ source: "isap-pdf"
 
 **Art. 22⁴.** Dostawca usług udostępniania treści online udostępnia uprawnionemu, na jego żądanie:
 
+- **1)** informacje na temat stosowanej przez niego praktyki w zakresie współpracy z uprawnionymi, o której mowa w art. 22 ;
+- **2)** informacje na temat wykorzystywania utworów, co do których uzyskał zgodę uprawnionego na ich publiczne udostępnienie, niezbędne do określenia wysokości wynagrodzenia należnego uprawnionemu od dostawcy usług udostępniania treści online.
+
 **Art. 22⁵.**
 
 1. Dostawca usług udostępniania treści online umożliwia usługobiorcy składanie skarg, przy wykorzystaniu środków komunikacji elektronicznej, w przypadku uniemożliwienia dostępu do utworu zamieszczonego przez usługobiorcę, zablokowania dostępu do tego utworu lub jego usunięcia.
@@ -387,6 +406,9 @@ source: "isap-pdf"
 2. Zakres własnego użytku osobistego obejmuje korzystanie z pojedynczych egzemplarzy utworów przez krąg osób pozostających w związku osobistym, w szczególności pokrewieństwa, powinowactwa lub stosunku towarzyskiego.
 
 **Art. 23¹.** Nie wymaga zezwolenia twórcy tymczasowe zwielokrotnienie, o charakterze przejściowym lub incydentalnym, niemające samodzielnego znaczenia gospodarczego, a stanowiące integralną i niezbędną część procesu technologicznego, którego celem jest wyłącznie umożliwienie:
+
+- **1)** przekazu utworu w systemie teleinformatycznym pomiędzy osobami trzecimi przez pośrednika lub
+- **2)** zgodnego z prawem korzystania z utworu.
 
 **Art. 23².**
 
@@ -509,6 +531,10 @@ source: "isap-pdf"
 
 **Art. 33.** Wolno rozpowszechniać:
 
+- **1)** utwory wystawione na stałe na ogólnie dostępnych drogach, ulicach, placach lub w ogrodach, jednakże nie do tego samego użytku;
+- **2)** (uchylony)
+- **3)** w encyklopediach i atlasach – opublikowane utwory plastyczne i fotograficzne, o ile nawiązanie porozumienia z twórcą celem uzyskania jego zezwolenia napotyka trudne do przezwyciężenia przeszkody. Twórcy przysługuje wówczas prawo do wynagrodzenia.
+
 **Art. 33¹.**
 
 1. Wolno korzystać z już rozpowszechnionych utworów dla dobra osób niepełnosprawnych, jeżeli to korzystanie odnosi się bezpośrednio do ich upośledzenia, nie ma zarobkowego charakteru i jest podejmowane w rozmiarze wynikającym z natury upośledzenia.
@@ -549,6 +575,9 @@ source: "isap-pdf"
 5. Postanowienia umów zawartych między uprawnionym, któremu przysługują autorskie prawa majątkowe, a beneficjentem, osobą działającą w jego imieniu lub upoważnionym podmiotem sprzeczne z ust. 1 lub 2 są nieważne.
 
 **Art. 35b.** Upoważniony podmiot podejmuje:
+
+- **1)** z zachowaniem należytej staranności działania, o których mowa w art. 35a ust. 2, i utrwala ich przebieg;
+- **2)** odpowiednie działania służące zniechęcaniu do niedozwolonego zwielokrotniania i rozpowszechniania kopii utworów w dostępnych formatach.
 
 **Art. 35c.**
 
@@ -633,6 +662,13 @@ source: "isap-pdf"
 
 **Art. 35⁴.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, stowarzyszeń twórców, organizacji zrzeszających biblioteki publiczne oraz właściwych izb gospodarczych, określi, w drodze rozporządzenia:
 
+- **1)** procedurę podziału i wypłaty wynagrodzenia za użyczanie, mając na uwadze liczbę użyczeń egzemplarzy utworów pozostających w zbiorach bibliotek publicznych oraz rodzaje kosztów, o których mowa w art. 35 ust. 9, a także konieczność zapewnienia, aby koszty te były uzasadnione i udokumentowane a wydatki dokonywane w sposób efektywny i przejrzysty;
+- **2)** zakres informacji, o których mowa w art. 35 ust. 1, oraz wykaz bibliotek publicznych obowiązanych do ich przekazywania, mając na uwadze konieczność szacunkowego określenia liczby użyczeń egzemplarzy utworów pozostających w zbiorach bibliotek publicznych z uwzględnieniem wpływu kryterium geograficznego, w tym wielkości miejscowości, w których działają wskazane biblioteki publiczne, na zróżnicowanie tej liczby;
+- **3)** wymagany zakres informacji, zawartych w oświadczeniu, o którym mowa w art. 35 ust. 1, mając na uwadze konieczność przekazania organizacji zbiorowego zarządzania, o której mowa w art. 35 ust. 1, danych umożliwiających wypłatę wynagrodzenia za użyczanie, w tym imienia i nazwiska lub pseudonimu twórcy lub nazwy innego podmiotu, o którym mowa w art. 28 ust. 5, oraz numeru rachunku bankowego, na który ma zostać wypłacone to wynagrodzenie;
+- **4)** wymagany zakres informacji umieszczanych w ogłoszeniu o konkursie, o którym mowa w art. 35 ust. 2, mając na uwadze, że minimalny zakres tych informacji ma obejmować co najmniej warunki uczestnictwa w konkursie, termin składania ofert i kryteria ich oceny;
+- **5)** zakres dokumentacji konkursowej, mając na uwadze, że zakres tej dokumentacji ma co najmniej określać warunki uczestnictwa w konkursie, o którym mowa w art. 35 ust. 2, wymagania, jakim ma odpowiadać oferta i kryteria oceny ofert;
+- **6)** tryb postępowania konkursowego, mając na uwadze jego przejrzystość, rzetelność i obiektywność.
+
 ##### Oddział 5 Dozwolony użytek utworów osieroconych
 
 **Art. 35⁵.**
@@ -675,7 +711,7 @@ source: "isap-pdf"
 
 9. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi, stowarzyszeń twórców, artystów wykonawców i producentów oraz organizacji o zasięgu ogólnopolskim zrzeszających podmioty wymienione w art. 35 ust. 2, określi, w drodze rozporządzenia:
 
-- **1)** wykaz źródeł, których sprawdzenie jest wymagane w ramach starannych poszukiwań, obejmujący co najmniej źródła wymienione w załączniku do dyrektywy Parlamentu Europejskiego i Rady 2012/28/UE z dnia 25 października 2012 r. w sprawie niektórych dozwolonych sposobów korzystania z utworów osieroconych (Dz. Urz. UE L 299 z 27.10.2012, 5), uwzględniając konieczność rzetelnego przeprowadzenia starannych poszukiwań oraz dostępność informacji na temat uprawnionych w poszczególnych źródłach;
+- **1)** wykaz źródeł, których sprawdzenie jest wymagane w ramach starannych poszukiwań, obejmujący co najmniej źródła wymienione w załączniku do dyrektywy Parlamentu Europejskiego i Rady 2012/28/UE z dnia 25 października 2012 r. w sprawie niektórych dozwolonych sposobów korzystania z utworów osieroconych (Dz. Urz. UE L 299 z 27.10.2012, s. 5), uwzględniając konieczność rzetelnego przeprowadzenia starannych poszukiwań oraz dostępność informacji na temat uprawnionych w poszczególnych źródłach;
 - **2)** sposób dokumentowania informacji o wynikach starannych poszukiwań przez podmioty wymienione w art. 35 ust. 2, uwzględniając konieczność zapewnienia jednolitego standardu dokumentowania starannych poszukiwań.
 
 **Art. 35⁷.**
@@ -722,6 +758,10 @@ source: "isap-pdf"
 **Art. 35¹³.** Jeżeli zachodzi prawdopodobieństwo, że pierwsze rozpowszechnienie utworu w danej wersji językowej miało miejsce na terytorium innego państwa, działania, o których mowa w art. 35 , polegają również na zbadaniu dostępności utworu w handlu w tym państwie.
 
 **Art. 35¹⁴.** Przepisy oddziałów 6 i 6 nie mają zastosowania do zbioru utworów, co do którego w wyniku działań, o których mowa w art. 35 , stwierdzono, że składa się w głównej mierze z:
+
+- **1)** utworów audiowizualnych, których producenci mają siedzibę albo miejsce stałego pobytu w państwie innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym,
+- **2)** utworów innych niż utwory audiowizualne, opublikowanych po raz pierwszy albo – w przypadku braku publikacji – nadanych po raz pierwszy w państwie, o którym mowa w pkt 1,
+- **3)** utworów, do których autorskie prawa majątkowe przysługują obywatelom państwa, o którym mowa w pkt 1, jeżeli mimo podjęcia działań, o których mowa w art. 35 , nie można było ustalić tego państwa zgodnie z pkt 1 i 2 – chyba że istnieje organizacja zbiorowego zarządzania reprezentatywna w odniesieniu do utworów, pól eksploatacji oraz kategorii uprawnionych tego państwa.
 
 **Art. 35¹⁵.** Korzystanie, o którym mowa w art. 35 i art. 35 ust. 1, jest dozwolone, jeżeli nie odbywa się w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej. Instytucje dziedzictwa kulturowego mogą uzyskiwać przychody z takiego korzystania, o ile zostaną one przeznaczone na pokrycie bezpośrednich kosztów digitalizacji, rozpowszechniania utworów uznanych za niedostępne w handlu lub kosztów uzyskania licencji na korzystanie z tych utworów.
 
@@ -795,6 +835,13 @@ source: "isap-pdf"
 
 **Art. 35²³.** Instytucja dziedzictwa kulturowego zarejestrowana w portalu przed rozpoczęciem zwielokrotniania utworu niedostępnego w handlu i na sześć miesięcy przed dniem jego publicznego udostępnienia na podstawie art. 35 ust. 1 zamieszcza w tym portalu następujące dane:
 
+- **1)** imię i nazwisko oraz pseudonim twórcy albo wzmiankę o anonimowości – o ile są dostępne;
+- **2)** imię i nazwisko albo nazwę uprawnionego, któremu w zakresie pól eksploatacji wymienionych w art. 35 ust. 1 przysługują autorskie prawa majątkowe do utworu – o ile są dostępne;
+- **3)** tytuł utworu, a w przypadku jego braku – inne informacje umożliwiające jego identyfikację – o ile są dostępne;
+- **4)** imię i nazwisko albo nazwę producenta lub wydawcy utworu – o ile są dostępne;
+- **5)** informację o zakresie korzystania z utworu niedostępnego w handlu i terytoriach objętych tym korzystaniem;
+- **6)** swój adres i siedzibę oraz adres poczty elektronicznej.
+
 **Art. 35²⁴.** Uznaje się, że korzystanie, o którym mowa w art. 35 ust. 1, ma miejsce wyłącznie w państwie członkowskim Unii Europejskiej albo państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w którym korzystająca instytucja dziedzictwa kulturowego ma siedzibę.
 
 **Art. 35²⁵.** Do korzystania, o którym mowa w niniejszym oddziale, stosuje się przepisy art. 34 i art. 35.
@@ -802,6 +849,12 @@ source: "isap-pdf"
 #### Rozdział 4 Czas trwania autorskich praw majątkowych
 
 **Art. 36.** Z zastrzeżeniem wyjątków przewidzianych w ustawie, autorskie prawa majątkowe gasną z upływem lat siedemdziesięciu:
+
+- **1)** od śmierci twórcy, a do utworów współautorskich – od śmierci współtwórcy, który przeżył pozostałych;
+- **2)** w odniesieniu do utworu, którego twórca nie jest znany – od daty pierwszego rozpowszechnienia, chyba że pseudonim nie pozostawia wątpliwości co do tożsamości autora lub jeżeli autor ujawnił swoją tożsamość;
+- **3)** w odniesieniu do utworu, do którego autorskie prawa majątkowe przysługują z mocy ustawy innej osobie niż twórca – od daty rozpowszechnienia utworu, a gdy utwór nie został rozpowszechniony – od daty jego ustalenia;
+- **4)** w odniesieniu do utworu audiowizualnego – od śmierci najpóźniej zmarłej z wymienionych osób: głównego reżysera, autora scenariusza, autora dialogów, kompozytora muzyki skomponowanej do utworu audiowizualnego;
+- **5)** w odniesieniu do utworu słowno-muzycznego, jeżeli utwór słowny i utwór muzyczny zostały stworzone specjalnie dla danego utworu słowno-muzycznego – od śmierci później zmarłej z wymienionych osób: autora utworu słownego albo kompozytora utworu muzycznego.
 
 **Art. 37.** Jeżeli bieg terminu wygaśnięcia autorskich praw majątkowych rozpoczyna się od rozpowszechnienia utworu, a utwór rozpowszechniono w częściach, odcinkach, fragmentach lub wkładkach, bieg terminu liczy się oddzielnie od daty rozpowszechnienia każdej z wymienionych części.
 
@@ -850,6 +903,9 @@ source: "isap-pdf"
 
 **Art. 47.** Jeżeli wynagrodzenie twórcy zależy od wysokości przychodów z korzystania z utworu, twórca ma prawo do:
 
+- **1)** otrzymania informacji mającej istotne znaczenie dla określenia wysokości tego wynagrodzenia w przypadkach, w których nie stosuje się przepisu art. 47 ;
+- **2)** wglądu w niezbędnym zakresie do dokumentacji mającej istotne znaczenie dla określenia wysokości tego wynagrodzenia.
+
 **Art. 47¹.**
 
 1. Twórca ma prawo do regularnego otrzymywania od osoby, na którą przeniósł autorskie prawa majątkowe, lub od osoby, której udzielił licencji, aktualnej informacji o przychodach z korzystania ze swojego utworu oraz o wynagrodzeniu należnym w związku z tym korzystaniem, odrębnie dla każdego ze sposobów korzystania. Informacja może być wykorzystana przez twórcę wyłącznie w celu ustalenia wartości majątkowej praw przeniesionych albo stanowiących przedmiot licencji.
@@ -881,6 +937,10 @@ source: "isap-pdf"
 2. Następca prawny, choćby nabył całość autorskich praw majątkowych, nie może, bez zgody twórcy, czynić zmian w utworze, chyba że są one spowodowane oczywistą koniecznością, a twórca nie miałby słusznej podstawy im się sprzeciwić. Dotyczy to odpowiednio utworów, których czas ochrony autorskich praw majątkowych upłynął.
 
 **Art. 50.** Odrębne pola eksploatacji stanowią w szczególności:
+
+- **1)** w zakresie utrwalania i zwielokrotniania utworu – wytwarzanie określoną techniką egzemplarzy utworu, w tym techniką drukarską, reprograficzną, zapisu magnetycznego oraz techniką cyfrową;
+- **2)** w zakresie obrotu oryginałem albo egzemplarzami, na których utwór utrwalono – wprowadzanie do obrotu, użyczenie lub najem oryginału albo egzemplarzy;
+- **3)** w zakresie rozpowszechniania utworu w sposób inny niż określony w pkt 2 – publiczne wykonanie, wystawienie, wyświetlenie, odtworzenie oraz nadawanie i reemitowanie, a także publiczne udostępnianie utworu w taki sposób, aby każdy mógł mieć do niego dostęp w miejscu i w czasie przez siebie wybranym.
 
 **Art. 51.**
 
@@ -1191,6 +1251,11 @@ source: "isap-pdf"
 
 **Art. 90.** Przepisy ustawy stosuje się do artystycznych wykonań, które:
 
+- **1)** dokonane zostały przez obywatela polskiego albo osobę zamieszkałą na terytorium Rzeczypospolitej Polskiej lub 1 ) dokonane zostały przez obywatela państwa członkowskiego Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, lub
+- **2)** zostały ustalone po raz pierwszy na terytorium Rzeczypospolitej Polskiej, lub
+- **3)** zostały opublikowane po raz pierwszy na terytorium Rzeczypospolitej Polskiej, lub
+- **4)** są chronione na podstawie umów międzynarodowych, w zakresie, w jakim ich ochrona wynika z tych umów.
+
 **Art. 91.** Domniemywa się, że kierownik zespołu jest umocowany do reprezentowania praw do zespołowego artystycznego wykonania. Domniemanie to stosuje się odpowiednio do części artystycznego wykonania mających samodzielne znaczenie.
 
 **Art. 92.** Do artystycznych wykonań stosuje się odpowiednio przepisy art. 8–10, art. 12, art. 18, art. 21–21 , art. 41–45, art. 47–49, art. 52–55, art. 57–59, art. 62–68, art. 71 i art.78.
@@ -1280,13 +1345,28 @@ source: "isap-pdf"
 
 **Art. 96.** Przepisy ustawy stosuje się do fonogramów i wideogramów:
 
+- **1)** których producent ma na terytorium Rzeczypospolitej Polskiej miejsce zamieszkania lub siedzibę, lub 1 ) których producent ma na terytorium Europejskiego Obszaru Gospodarczego miejsce zamieszkania lub siedzibę, lub
+- **2)** które są chronione na podstawie umów międzynarodowych, w zakresie, w jakim ich ochrona wynika z tych umów.
+
 ##### Oddział 3 Prawa do nadań programów
 
 **Art. 97.** Bez uszczerbku dla praw twórców, artystów wykonawców, producentów fonogramów i wideogramów, organizacji radiowej lub telewizyjnej przysługuje wyłączne prawo do rozporządzania i korzystania ze swoich nadań programów w zakresie:
 
+- **1)** utrwalania;
+- **2)** zwielokrotniania określoną techniką;
+- **3)** nadawania przez inną organizację radiową lub telewizyjną;
+- **4)** reemitowania;
+- **5)** wprowadzania do obrotu ich utrwaleń;
+- **6)** odtwarzania w miejscach dostępnych za opłatą wstępu;
+- **7)** udostępniania ich utrwaleń w taki sposób, aby każdy mógł mieć do nich dostęp w miejscu i w czasie przez siebie wybranym.
+
 **Art. 98.** Prawo, o którym mowa w art. 97, gaśnie z upływem pięćdziesięciu lat następujących po roku pierwszego nadania programu.
 
 **Art. 99.** Przepisy ustawy stosuje się do nadań programów:
+
+- **1)** organizacji radiowej i telewizyjnej, która ma siedzibę na terytorium Rzeczypospolitej Polskiej lub
+- **2)** organizacji radiowej i telewizyjnej, która ma siedzibę na terytorium Europejskiego Obszaru Gospodarczego;
+- **3)** które są chronione na podstawie umów międzynarodowych, w zakresie, w jakim ich ochrona wynika z tych umów.
 
 ##### Oddział 3 Prawa do pierwszych wydań oraz wydań naukowych i krytycznych
 

@@ -8,10 +8,10 @@ pos: 1267
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 lipca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1267 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1267/text.pdf) |
 
-Poz. 1267 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 czerwca 2023 r.
-w sprawie wyznaczenia Dyrektora Izby Administracji Skarbowej w Warszawie do prowadzenia niektórych spraw celnych Na podstawie art. 70 ust. 3 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2022 r. poz. 2073 oraz z 2023 poz. 1059) zarządza się, co następuje: § 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Warszawie do:
+w sprawie wyznaczenia Dyrektora Izby Administracji Skarbowej w Warszawie do prowadzenia niektórych spraw celnych Na podstawie art. 70 ust. 3 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2022 r. poz. 2073 oraz z 2023 poz. 1059) zarządza się, co następuje:
+§ 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Warszawie do:
 1) wydawania pozwoleń na korzystanie z procedury TIR;
 2) prowadzenia listy agentów celnych;
 3) dokonywania wpisu osoby na listę agentów celnych oraz jego zmiany;

@@ -8,7 +8,7 @@ pos: 1245
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw
@@ -28,6 +28,126 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001245) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1245/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) organizację i zasady funkcjonowania systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych oraz monitorowania bezpieczeństwa ich stosowania;”;
+- **2)** w art. 2:
+    - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) badaniem dotyczącym bezpieczeństwa przeprowadzanym po wydaniu pozwolenia na dopuszczenie do obrotu – jest każde badanie dotyczące dopuszczonego do obrotu produktu leczniczego, z wyłączeniem produktu leczniczego weterynaryjnego, prowadzone w celu zidentyfikowania, opisania lub ilościowego okreś- lenia ryzyka, potwierdzenia profilu bezpieczeństwa tego produktu leczniczego lub pomiaru skuteczności środków zarządzania ryzykiem użycia produktu leczniczego;”,
+    - **b)** pkt 3a otrzymuje brzmienie: „3a) działaniem niepożądanym produktu leczniczego – jest każde niekorzystne i niezamierzone działanie produktu leczniczego;”,
+    - **c)** po pkt 3d dodaje się pkt 3e w brzmieniu: „3e) grupą koordynacyjną – jest grupa, o której mowa w art. 27 ust. 1 dyrektywy 2001/83/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. WE L 311 z 28.11.2001, str. 67, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 69), zwanej dalej „dyrektywą 2001/83/WE”, lub grupa, o której mowa w art. 31 dyrektywy 2001/82/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do weterynaryjnych produktów leczniczych (Dz. Urz. WE L 311 z 28.11.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 3), zwanej dalej „dyrektywą 2001/82/WE”;”,
+    - **d)** pkt 7d otrzymuje brzmienie: „7d) kontrolą – są czynności podejmowane przez:
+    - **a)** inspektorów farmaceutycznych w związku ze sprawowanym nadzorem nad jakością produktów leczniczych będących przedmiotem obrotu oraz mające na celu sprawdzenie warunków prowadzenia obrotu produktami leczniczymi,
+    - **b)** Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych w zakresie monitorowania systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych;”,
+    - **e)** po pkt 40a dodaje się pkt 40b–40d w brzmieniu: „40b) systemem EudraVigilance – jest system wymiany informacji o działaniach niepożądanych, o których mowa w art. 24 ust. 1 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego wspólnotowe procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i do celów weterynaryjnych i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. UE L 136 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229), zwanego dalej „rozporządzeniem nr 726/2004/WE”;
+
+- **40c)** systemem nadzoru nad bezpieczeństwem stosowania produktów leczniczych – jest system wykorzystywany przez podmiot odpowiedzialny oraz właściwe organy do wypełniania zadań i obowiązków wymienionych w rozdziale 2 oraz mający na celu monitorowanie bezpieczeństwa dopuszczonych do obrotu produktów leczniczych, a także wykrywanie wszelkich zmian w ich stosunku korzyści do ryzyka;
+- **40d)** systemem zarządzania ryzykiem użycia produktu leczniczego – jest ogół działań podejmowanych w ramach nadzoru nad bezpieczeństwem stosowania produktów leczniczych, których celem jest identyfikacja i opisanie ryzyka związanego ze stosowaniem produktu leczniczego, zapobieganie takiemu ryzyku lub jego zminimalizowanie, łącznie z oceną skuteczności tych działań; do produktów leczniczych weterynaryjnych stosuje się system zarządzania ryzykiem użycia produktu leczniczego weterynaryjnego;”,
+    - **f)** po pkt 41 dodaje się pkt 41a w brzmieniu: „41a) unijną datą referencyjną − jest data wyznaczająca początek biegu terminu składania raportów okresowych o bezpieczeństwie stosowania produktów leczniczych, z wyłączeniem produktów leczniczych weterynaryjnych, zawierających tę samą substancję czynną lub to samo połączenie substancji czynnych, która jest:
+    - **a)** datą wydania pierwszego pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego tę substancję czynną lub to połączenie substancji czynnych w dowolnym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, lub jeżeli nie można ustalić tej daty,
+    - **b)** najwcześniejszą ze znanych dat wydania w kraju trzecim pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego tę substancję czynną lub to połączenie substancji czynnych;”,
+    - **g)** po pkt 43 dodaje się pkt 43a i 43b w brzmieniu: „43a) zgłoszeniem pojedynczego przypadku działania niepożądanego produktu leczniczego – jest informacja o podejrzeniu wystąpienia działania niepożądanego produktu leczniczego u człowieka, której źródło uzyskania jest inne niż prowadzone badanie kliniczne;
+
+- **43b)** zgłoszeniem pojedynczego przypadku działania niepożądanego produktu leczniczego weterynaryjnego – jest informacja o podejrzeniu wystąpienia działania niepożądanego produktu leczniczego weterynaryjnego u człowieka lub u zwierzęcia, której źródło uzyskania jest inne niż prowadzone badanie kliniczne;”;
+- **3)** w art. 2a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Ilekroć w niniejszej ustawie jest mowa o osobie wykonującej zawód medyczny, rozumie się przez to lekarza, lekarza dentystę, farmaceutę, felczera (starszego felczera), pielęgniarkę, położną, diagnostę laboratoryjnego, ratownika medycznego lub technika farmaceutycznego, o którym mowa w art. 91 ust. 1, a w odniesieniu do obowiązków wynikających z art. 24 – także lekarza weterynarii.
+
+3. Ilekroć w niniejszej ustawie jest mowa o opiekunie faktycznym, rozumie się przez to opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159 i 742).”;
+
+- **4)** w art. 4:
+    - **a)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) zawierających tę samą lub te same substancje czynne, tę samą dawkę i postać co produkty lecznicze, które otrzymały pozwolenie.”,
+    - **b)** uchyla się ust. 3a;
+
+- **5)** po art. 4b dodaje się art. 4c w brzmieniu: „Art. 4c. W przypadkach uzasadnionych ochroną zdrowia publicznego, gdy występują poważne trudności w zakresie dostępności produktu leczniczego, który posiada kategorię dostępności, o której mowa w art. 23a ust. 1 pkt 3 i 5, Prezes Urzędu, z uwzględnieniem bezpieczeństwa stosowania produktu leczniczego, może na czas określony wyrazić zgodę na zwolnienie:
+- **1)** z obowiązku umieszczenia na opakowaniu i w ulotce dołączanej do opakowania niektórych danych szczegółowych lub
+- **2)** w całości albo w części z obowiązku sporządzenia oznakowania opakowania i ulotki dołączanej do opakowania w języku polskim.”;
+- **6)** w art. 7 ust. 2 otrzymuje brzmienie: „2. Wydanie pozwolenia, odmowa wydania pozwolenia, zmiana danych stanowiących podstawę wydania pozwolenia, zmiana w dokumentacji będącej podstawą wydania pozwolenia, przedłużenie terminu ważności pozwolenia, odmowa przedłużenia terminu ważności pozwolenia, skrócenie terminu ważności pozwolenia, zawieszenie ważności pozwolenia, a także cofnięcie pozwolenia następuje w drodze decyzji Prezesa Urzędu.”;
+- **7)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Przed wydaniem pozwolenia Prezes Urzędu:
+- **1)** weryfikuje wniosek, o którym mowa w art. 10, wraz z dołączoną dokumentacją;
+- **2)** może zażądać od podmiotu odpowiedzialnego uzupełnień lub wyjaśnień dotyczących dokumentacji, o której mowa w art. 10, a także przedstawienia systemu zarządzania ryzykiem użycia produktu leczniczego weterynaryjnego;
+- **3)** może, w przypadku wątpliwości co do metod kontroli, o których mowa w art. 10 ust. 2 pkt 2, a w przypadku produktów leczniczych weterynaryjnych – co do metod badań, o których mowa w art. 10 ust. 2b pkt 6 lit. a, które mogą być wyjaśnione wyłącznie eksperymentalnie, skierować do badań jakościowych produkt leczniczy, materiały wyjściowe i produkty pośrednie lub inne składniki produktu leczniczego będącego przedmiotem wniosku; przed skierowaniem do badań jakościowych Prezes Urzędu pisemnie informuje podmiot odpowiedzialny o powziętych wątpliwościach oraz uzasadnia konieczność przeprowadzenia badań;
+- **4)** może zasięgnąć opinii Komisji do Spraw Produktów Leczniczych lub Komisji do Spraw Produktów Leczniczych Weterynaryjnych działających na podstawie ustawy z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 82, poz. 451, z 2012 r. poz. 95 oraz z 2013 r. poz. 1245);
+- **5)** w przypadku produktów leczniczych innych niż określone w pkt 6, opracowuje raport oceniający zawierający opinię naukową o produkcie leczniczym wraz z uzasadnieniem oraz streszczeniem raportu oceniającego zrozumiałym dla odbiorcy, zawierającym w szczególności informację odnoszącą się do warunków stosowania tego produktu;
+- **6)** opracowuje raport oceniający zawierający opinię naukową o produkcie leczniczym weterynaryjnym.
+
+2. Raport oceniający jest aktualizowany w przypadku pojawienia się nowych informacji istotnych dla oceny jakości, bezpieczeństwa lub skuteczności danego produktu leczniczego.
+
+3. Podmiot odpowiedzialny, składając wniosek, o którym mowa w art. 7 ust. 1, może wystąpić do Prezesa Urzędu z wnioskiem o nieujawnianie informacji zawartych w raporcie oceniającym stanowiących tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. Nr 153, poz. 1503, z późn. zm. ), w szczególności informacji dotyczących źródeł zaopatrzenia.
+
+4. Po wydaniu pozwolenia raport oceniający wraz z uzasadnieniem oraz streszczeniem, o których mowa w ust. 1 pkt 5, jest publikowany na stronie internetowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Urzędem Rejestracji”, oraz na stronie podmiotowej Biuletynu Informacji Publicznej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, a w razie zgłoszenia wniosku, o którym mowa w ust. 3, po usunięciu informacji stanowiących tajemnicę przedsiębiorstwa.
+
+5. Po wydaniu pozwolenia raport oceniający, o którym mowa w ust. 1 pkt 6, udostępnia się na podstawie ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. Nr 112, poz. 1198, z późn. zm. ).
+
+6. Komisje, o których mowa w ust. 1 pkt 4, wydają opinie wraz z uzasadnieniem, w terminie 30 dni od dnia otrzymania wniosku. Niewydanie opinii w tym terminie jest traktowane jako wyrażenie opinii pozytywnej.
+
+7. Decyzja o wydaniu pozwolenia na dopuszczenie do obrotu produktu leczniczego weterynaryjnego, z wyłączeniem produktów immunologicznych, stosowanego u zwierząt, których tkanki lub produkty są przeznaczone do spożycia przez ludzi, może być podjęta tylko wtedy, gdy zostały wyznaczone przynajmniej tymczasowe Najwyższe Dopuszczalne Stężenia Pozostałości akceptowane na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym albo zostało uznane przez Komisję Europejską, że dla ich substancji czynnych limity takie nie są wymagane.
+
+8. Dokumenty dołączone do wniosku, raporty oraz inne dokumenty i dane gromadzone w postępowaniu o dopuszczenie do obrotu, o przedłużenie terminu ważności pozwolenia, o zmianę danych stanowiących podstawę wydania pozwolenia lub o zmianę w dokumentacji będącej podstawą wydania pozwolenia są przechowywane w Urzędzie Rejestracji przez 10 lat po wygaśnięciu pozwolenia.
+
+9. Nie są uznawane za daty pierwszego dopuszczenia do obrotu produktu leczniczego w rozumieniu art. 15 ust. 1 pkt 2 oraz produktu leczniczego weterynaryjnego w rozumieniu art. 15a ust. 1 i 2, z uwzględnieniem przepisów art. 15a ust. 5, 8 i 9, daty wydania decyzji:
+
+- **1)** o zmianie danych objętych pozwoleniem,
+- **2)** o zmianie dokumentacji będącej podstawą wydania pozwolenia,
+- **3)** na podstawie odrębnego wniosku o wydanie pozwolenia, w tym w dodatkowej mocy, postaci, drodze podania, wielkości opakowania, dotyczącego innego gatunku zwierząt, pod inną nazwą lub z inną Charakterystyką Produktu Leczniczego albo Charakterystyką Produktu Leczniczego Weterynaryjnego – na rzecz tego samego podmiotu, który uzyskał pierwsze pozwolenie, lub innego podmiotu.”;
+- **8)** w art. 8a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prezes Urzędu może, w przypadkach uzasadnionych ochroną zdrowia publicznego, wydać pozwolenie dla produktu leczniczego nieposiadającego pozwolenia na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej, pod warunkiem że w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym dopuszczono do obrotu produkt leczniczy zgodnie z wymaganiami określonymi w dyrektywie 2001/83/WE.”,
+    - **b)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) może wystąpić do właściwych organów państwa, o którym mowa w ust. 1, o przesłanie uaktualnionego raportu oceniającego dotyczącego tego produktu leczniczego oraz kopii pozwolenia na dopuszczenie do obrotu tego produktu.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. W przypadku gdy państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym występuje w trybie art. 126a dyrektywy 2001/83/WE do Prezesa Urzędu o przekazanie kopii raportu oceniającego oraz kopii pozwolenia dla produktu leczniczego dopuszczonego do obrotu na terytorium Rzeczypospolitej Polskiej, Prezes Urzędu, w terminie 30 dni, przesyła kopię aktualnego raportu oceniającego oraz kopię pozwolenia.”;
+
+- **9)** w art. 10:
+    - **a)** w ust. 2: – pkt 5–7 otrzymują brzmienie: „5) streszczenie opisu systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych wykorzystywanego przez podmiot odpowiedzialny, obejmujące:
+    - **a)** oświadczenie podmiotu odpowiedzialnego złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, przewidzianej w art. 233 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ), że podmiot odpowiedzialny dysponuje usługami osoby wykwalifikowanej odpowiedzialnej za nadzór nad bezpieczeństwem stosowania produktów leczniczych, opatrzone klauzulą o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań,
+    - **b)** listę państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w których osoba, o której mowa w lit. a, posiada miejsce zamieszkania i wykonuje swoje obowiązki,
+    - **c)** oświadczenie podmiotu odpowiedzialnego stwierdzające, że dysponuje on niezbędnymi środkami służącymi wypełnieniu obowiązków wymienionych w rozdziale 2 ,
+    - **d)** dane kontaktowe osoby, o której mowa w lit. a,
+    - **e)** wskazanie miejsca, w którym jest dostępny do wglądu pełny opis systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych, o którym mowa w art. 36g ust. 1 pkt 4;
+
+- **6)** plan zarządzania ryzykiem użycia produktu leczniczego, będący szczegółowym opisem systemu zarządzania ryzykiem użycia produktu leczniczego stosowanego przez podmiot odpowiedzialny, współmierny do zidentyfikowanych i potencjalnych zagrożeń stwarzanych przez ten produkt leczniczy oraz zapotrzebowania na dane dotyczące bezpieczeństwa, wraz ze streszczeniem tego planu;
+- **7)** w przypadku badań klinicznych przeprowadzonych poza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oświadczenie, że badania te spełniają wymogi etyczne określone w przepisach rozdziału 2a;”, – uchyla się pkt 8, – pkt 13 otrzymuje brzmienie: „13) kopie wszystkich pozwoleń wydanych przez właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub krajów trzecich, Charakterystyk Produktu Leczniczego zatwierdzonych przez właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub krajów trzecich, streszczenia danych dotyczących bezpieczeństwa, w tym danych zawartych w raportach okresowych o bezpieczeństwie stosowania produktów leczniczych i zgłoszeniach o działaniach niepożądanych, jeżeli są dostępne, a także kopie ulotek, jeżeli ma to zastosowanie, oraz kopie wszystkich decyzji o odmowie wydania pozwolenia wydanych w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub krajach trzecich wraz z uzasadnieniem takich decyzji;”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Składając wniosek, o którym mowa w ust. 1 i 2a, podmiot odpowiedzialny wskazuje wytyczne Komisji Europejskiej, Europejskiej Agencji Leków lub Światowej Organizacji Zdrowia będące podstawą przygotowanej dokumentacji.”;
+
+- **10)** w art. 11 w ust. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje pkt 12 i 13 w brzmieniu: „12) informację dla osób wykonujących zawód medyczny o obowiązku albo uprawnieniu zgłaszania pojedynczych przypadków działań niepożądanych danego produktu leczniczego ze względu na konieczność nieprzerwanego monitorowania jego stosowania;
+- **13)** w przypadku produktów leczniczych podlegających dodatkowemu monitorowaniu:
+    - **a)** wskazanie odpowiedniego czarnego symbolu, wybranego zgodnie z art. 23 rozporządzenia nr 726/2004/WE,
+    - **b)** sformułowanie o następującej treści: „Ten produkt leczniczy podlega dodatkowemu monitorowaniu” uzupełnione o dodatkowe wyjaśnienia.”;
+
+- **11)** w art. 17 uchyla się ust. 3;
+- **12)** w art. 20a dodaje się ust. 10 w brzmieniu: „10. Prezes Urzędu informuje podmiot odpowiedzialny, Komisję Europejską oraz właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, na ich wniosek, o odmowie dopuszczenia do obrotu tradycyjnego produktu leczniczego roślinnego wraz z uzasadnieniem tej odmowy.”;
+- **13)** w art. 20b po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku opracowania monografii wspólnotowej podmiot odpowiedzialny, jeżeli zachodzi taka konieczność, składa wniosek o dokonanie zmiany danych objętych pozwoleniem oraz zmiany dokumentacji będącej podstawą wydania pozwolenia.”;
+- **14)** w art. 21 po ust. 7a dodaje się ust. 7b w brzmieniu: „7b. Do produktów leczniczych homeopatycznych, o których mowa w ust. 1, nie stosuje się przepisów rozdziału 2 , z wyjątkiem art. 36g ust. 1 pkt 12–17, art. 36y i art. 36z.”;
+- **15)** w art. 21a:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Pozwolenie na import równoległy wydaje się na okres 5 lat. Okres ważności pozwolenia może zostać przedłużony na kolejne 5 lat na podstawie wniosku złożonego przez importera równoległego co najmniej na 6 miesięcy przed upływem terminu ważności pozwolenia.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Do pozwoleń na import równoległy wydanych dla produktów leczniczych innych niż określone w ust. 4a oraz do cofnięcia tych pozwoleń stosuje się odpowiednio przepisy art. 23 ust. 1 pkt 1–14, ust. 1a i 2, art. 29 ust. 3, art. 33 ust. 1 pkt 1–3 i 6 oraz ust. 2 i 5, art. 35a oraz art. 36g ust. 1 pkt 1–4, 6 i 10 oraz ust. 2.”,
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Do pozwoleń na import równoległy produktów leczniczych weterynaryjnych oraz do cofnięcia tych pozwoleń stosuje się odpowiednio przepisy art. 23 ust. 1 pkt 1–14, ust. 1a i 2, art. 24 ust. 1 pkt 1 i 2, pkt 4 lit. a i ust. 3 pkt 1, art. 29 ust. 3, art. 33 ust. 1 pkt 1–4 i 8 oraz ust. 2 i 5 i art. 35a.”,
+    - **d)** ust. 8 otrzymuje brzmienie: „8. Do wniosku o pozwolenie na import równoległy dołącza się:
+
+- **1)** Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego z państwa eksportu wraz z jej tłumaczeniem na język polski poświadczonym przez tłumacza przysięgłego, oraz wzorami oznakowania opakowania w formie opisowej i graficznej i ulotki, a w przypadku braku możliwości uzyskania Charakterystyki Produktu Leczniczego albo Charakterystyki Produktu Leczniczego Weterynaryjnego z państwa eksportu, uprawdopodobnionego przez złożenie dokumentu potwierdzającego, że importer równoległy wystąpił z wnioskiem o jej udostępnienie, Charakterystykę zastępuje się oryginałem ulotki z państwa eksportu wraz z jej tłumaczeniem na język polski poświadczonym przez tłumacza przysięgłego;
+- **2)** kopię zezwolenia na wytwarzanie wydanego przez upoważniony organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w tym w zakresie przepakowywania;
+- **3)** oświadczenie importera równoległego złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, przewidzianej w art. 233 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, że importer równoległy dysponuje usługami osoby wykwalifikowanej odpowiedzialnej za nadzór nad bezpieczeństwem stosowania produktów leczniczych, opatrzone klauzulą o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
+- **4)** potwierdzenie uiszczenia opłaty za złożenie wniosku.”,
+    - **e)** ust. 10 otrzymuje brzmienie: „10. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku o wydanie pozwolenia na import równoległy,
+- **2)** rodzaj i zakres dokonywanych zmian oraz szczegółowy wykaz danych i dokumentów objętych wnioskiem o zmianę pozwolenia,
+- **3)** sposób i tryb dokonywania zmian, o których mowa w pkt 2 – uwzględniając dane i dokumenty, o których mowa w ust. 7 i 8, biorąc pod uwagę rodzaj produktu leczniczego oraz zakres danych objętych pozwoleniem na import równoległy.”;
+- **16)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Badania jakościowe, o których mowa w art. 8 ust. 1 pkt 3, przeprowadzane są na koszt podmiotu odpowiedzialnego.
+
+2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** jednostki prowadzące badania, o których mowa w art. 8 ust. 1 pkt 3, uwzględniając w szczególności zakres badań, jakie powinny być wykonane dla oceny jakości produktu leczniczego, kwalifikacje personelu zatrudnionego w danej jednostce, doświadczenie w zakresie analizy produktów leczniczych;
+- **2)** cennik opłat pobieranych za określone czynności podejmowane w ramach badań jakościowych, o których mowa w art. 8 ust. 1 pkt 3, uwzględniając w szczególności nakład środków związanych z badaniem oraz rodzaj produktu poddanego badaniu.”;
+- **17)** w art. 23 w ust. 1:
+    - **a)** pkt 14 otrzymuje brzmienie: „14) warunki wynikające z oceny dokumentacji, o których mowa w art. 23b, oraz warunki, o których mowa w art. 23c, wraz z terminem ich spełnienia, jeżeli ma to zastosowanie;”,
+    - **b)** dodaje się pkt 15 w brzmieniu: „15) częstotliwość, z jaką od dnia wydania pozwolenia składane będą raporty okresowe o bezpieczeństwie stosowania produktu leczniczego, z wyłączeniem produktu leczniczego weterynaryjnego, jeżeli ma to zastosowanie.”;
+
+- **18)** w art. 23b:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prezes Urzędu, w wyjątkowych okolicznościach, po konsultacji z podmiotem odpowiedzialnym, może wydać pozwolenie z zastrzeżeniem spełnienia przez podmiot odpowiedzialny, w wyznaczonym terminie, warunków określonych na podstawie wymagań zawartych w załączniku nr I do dyrektywy 2001/83/WE, a w przypadku produktu leczniczego weterynaryjnego – na podstawie wymagań zawartych w załączniku nr 1 do dyrektywy 2001/82/WE, w szczególności dotyczących bezpieczeństwa stosowania produktu leczniczego, zgłoszenia działań niepożądanych związanych z tym produktem oraz podjęcia w takich przypadkach określonych czynności.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Pozwolenie, o którym mowa w ust. 1, z wyłączeniem produktu leczniczego weterynaryjnego, może zostać wydane wyłącznie w przypadku gdy podmiot odpowiedzialny wykaże, że z przyczyn obiektywnych i możliwych do zweryfikowania nie jest w stanie dostarczyć kompleksowych danych na temat bezpieczeństwa stosowania i skuteczności produktu leczniczego w normalnych warunkach jego stosowania.”;
+
+- **19)** po art. 23b dodaje się art. 23c–23g w brzmieniu: „Art. 23c. W celu zapewnienia właściwego poziomu nadzoru nad bezpieczeństwem stosowania produktu leczniczego, Prezes Urzędu może wydać pozwolenie, z wyłączeniem pozwolenia dla produktu leczniczego weterynaryjnego, w którym określa konieczność spełnienia przez podmiot odpowiedzialny w określonym terminie warunków:
+- **1)** podjęcia działań, w ramach systemu zarządzania ryzykiem użycia produktu leczniczego, w celu zapewnienia bezpiecznego stosowania tego produktu leczniczego, lub
+- **2)** przeprowadzenia badań dotyczących bezpieczeństwa po wydaniu pozwolenia, lub
+- **3)** wykonywania obowiązków w zakresie rejestrowania lub zgłaszania działań niepożądanych w odniesieniu do tego produktu leczniczego, a w zakresie danych zawartych w tych zgłoszeniach oraz częstotliwości ich przekazywania w sposób inny niż przewidziano w rozdziale 2 , lub
+- **4)** wykorzystywania odpowiedniego systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych, lub
+- **5)** przeprowadzenia badań dotyczących skuteczności po wydaniu pozwolenia, w przypadku gdy pojawiły się wątpliwości odnoszące się do niektórych aspektów skuteczności tego produktu leczniczego, które można wyjaśnić dopiero po wprowadzeniu go do obrotu, na podstawie właściwych aktów ogłoszonych przez Komisję Europejską, przyjętych na podstawie art. 22b dyrektywy 2001/83/WE, uwzględniając wytyczne naukowe, o których mowa w art. 108a tej dyrektywy, lub
+- **6)** dostarczania informacji dotyczących bezpieczeństwa i skuteczności tego produktu leczniczego wynikających z postępu naukowo-technicznego i z poszerzania wiedzy na temat tego produktu leczniczego lub substancji czynnych wchodzących w skład tego produktu.
 
 **Art. 23d.**
 
@@ -68,7 +188,126 @@ source: "isap-pdf"
 
 **Art. 23g.** Przepisów art. 23c–23f nie stosuje się do produktów leczniczych, o których mowa w art. 20a.”;
 
+- **20)** art. 24 otrzymuje brzmienie: „Art. 24. 1. Podmiot odpowiedzialny, który uzyskał pozwolenie dla produktu leczniczego weterynaryjnego, jest obowiązany do:
+- **1)** wskazania Prezesowi Urzędu osoby, do której obowiązków należeć będzie nadzór nad bezpieczeństwem stosowania produktu leczniczego weterynaryjnego;
+- **2)** prowadzenia rejestru zgłoszeń pojedynczych przypadków działań niepożądanych produktów leczniczych weterynaryjnych;
+- **3)** wdrożenia i utrzymywania systemu gwarantującego, że informacje o zgłoszeniach pojedynczych przypadków działań niepożądanych produktów leczniczych weterynaryjnych, które są kierowane do tego podmiotu, będą zbierane i zestawiane w jednym miejscu;
+- **4)** przedstawiania Prezesowi Urzędu:
+    - **a)** raportów dotyczących pojedynczych przypadków działań niepożądanych produktów leczniczych weterynaryjnych, zgłoszonych przez osoby wykonujące zawód medyczny, przedstawiciela medycznego oraz właściciela zwierzęcia lub opiekuna zwierzęcia, przy czym raporty dotyczące ciężkich niepożądanych działań przedstawia się niezwłocznie, nie później jednak niż w terminie 15 dni od dnia powzięcia informacji o ich wystąpieniu,
+    - **b)** zgodnych z danymi zawartymi w rejestrze, o którym mowa w pkt 2, raportów okresowych o bezpieczeństwie stosowania dotyczących produktów leczniczych weterynaryjnych: – co 6 miesięcy, licząc od dnia uzyskania przez dany produkt leczniczy weterynaryjny pierwszego na świecie pozwolenia do dnia wprowadzenia tego produktu do obrotu, – co 6 miesięcy przez 2 lata, licząc od dnia wprowadzenia produktu leczniczego weterynaryjnego do obrotu, – co 12 miesięcy przez kolejne 2 lata od trzeciego roku, licząc od dnia wprowadzenia produktu leczniczego weterynaryjnego do obrotu, a następnie co 3 lata, – na każde żądanie Prezesa Urzędu;
+
+- **5)** przedstawiania Prezesowi Urzędu protokołów z badań dotyczących bezpieczeństwa;
+- **6)** przedstawiania Prezesowi Urzędu opracowań dotyczących stosunku korzyści do ryzyka.
+
+2. Prezes Urzędu, na wniosek podmiotu odpowiedzialnego, może określić inne niż określone w ust. 1 pkt 4 lit. b terminy przedstawiania raportów okresowych o bezpieczeństwie stosowania produktów leczniczych weterynaryjnych. Raporty te nie mogą być przedstawiane rzadziej niż raz na 3 lata.
+
+3. Podmiot odpowiedzialny jest obowiązany także do:
+
+- **1)** zawiadamiania Prezesa Urzędu o konieczności dokonania niezwłocznych zmian w Charakterystyce Produktu Leczniczego Weterynaryjnego;
+- **2)** niezwłocznego informowania Prezesa Urzędu o wszelkich zmianach dotyczących produktu leczniczego weterynaryjnego dopuszczonego do obrotu, zatwierdzonych w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, które mogą mieć wpływ na stosunek korzyści do ryzyka;
+- **3)** zgłoszenia Prezesowi Urzędu pierwszego terminu wprowadzenia produktu leczniczego weterynaryjnego do obrotu;
+- **4)** powiadomienia Prezesa Urzędu o tymczasowym lub stałym wstrzymaniu obrotu produktem leczniczym weterynaryjnym, przynajmniej na 2 miesiące przed dniem zaprzestania wprowadzania tego produktu leczniczego weterynaryjnego do obrotu, a jeżeli wstrzymanie wprowadzania produktu leczniczego weterynaryjnego do obrotu jest wynikiem wystąpienia wyjątkowych okoliczności – niezwłocznie po wystąpieniu tych okoliczności;
+- **5)** przedstawiania, na żądanie Prezesa Urzędu, danych dotyczących wielkości sprzedaży produktu leczniczego weterynaryjnego;
+- **6)** wprowadzania ciągłego postępu naukowo-technicznego związanego z metodami wytwarzania i kontroli produktów leczniczych weterynaryjnych, zgodnie z uznawanymi metodami naukowymi;
+- **7)** dostarczania produktów leczniczych weterynaryjnych wyłącznie:
+    - **a)** podmiotom uprawnionym do prowadzenia obrotu hurtowego,
+    - **b)** instytutom badawczym, Polskiej Akademii Nauk oraz uczelniom wyższym, w celu prowadzenia badań naukowych,
+    - **c)** w ramach prowadzonego przez siebie lub zleconego innemu podmiotowi wywozu poza terytorium Rzeczypospolitej Polskiej.
+
+4. Osoba, o której mowa w ust. 1 pkt 1:
+
+- **1)** posiada dyplom lekarza weterynarii lub dyplom ukończenia studiów wyższych na kierunku zootechnika, lub tytuł zawodowy magistra farmacji, lub tytuł zawodowy w dziedzinie nauk medycznych lub nauk biologicznych;
+- **2)** posiada doświadczenie zawodowe, które gwarantuje rzetelne wykonywanie przez tę osobę obowiązków w zakresie ciągłego nadzoru nad bezpieczeństwem stosowania produktów leczniczych weterynaryjnych;
+- **3)** przedkłada Prezesowi Urzędu, za pośrednictwem podmiotu odpowiedzialnego, dokumenty potwierdzające spełnienie wymagań, o których mowa w pkt 1 i 2.
+
+5. W przypadku gdy osoba, o której mowa w ust. 1 pkt 1, nie posiada dyplomu lekarza weterynarii, podmiot odpowiedzialny zapewnia stały dostęp tej osoby do lekarza weterynarii.
+
+6. Podmiot odpowiedzialny oraz importer równoległy nie mogą przekazywać do wiadomości publicznej niepokojących informacji związanych z bezpieczeństwem stosowania produktów leczniczych weterynaryjnych, za wprowadzenie których do obrotu odpowiada, bez uprzedniego lub jednoczesnego przekazania tej informacji Prezesowi Urzędu.
+
+7. W przypadku powzięcia przez Prezesa Urzędu informacji o nowych istotnych zagrożeniach dotyczących bezpieczeństwa stosowania produktu leczniczego weterynaryjnego, Prezes Urzędu zobowiązuje podmiot odpowiedzialny do dokonania zmian w dokumentacji produktu leczniczego weterynaryjnego, określając termin na złożenie wniosku o dokonanie zmian.
+
+8. Podmiot odpowiedzialny oraz przedsiębiorcy zajmujący się obrotem hurtowym produktami leczniczymi weterynaryjnymi są obowiązani zapewnić odpowiednie i nieprzerwane zaspokajanie zapotrzebowania podmiotów uprawnionych do obrotu detalicznego produktami leczniczymi weterynaryjnymi i podmiotów uprawnionych do prowadzenia obrotu hurtowego produktami leczniczymi weterynaryjnymi.
+
+9. Jeżeli podmiot odpowiedzialny jest związany umowami z innymi podmiotami odpowiedzialnymi, powiadamia Prezesa Urzędu o sposobie sprawowania nadzoru nad bezpieczeństwem stosowania produktu leczniczego weterynaryjnego.
+
+10. Powiadomienie, o którym mowa w ust. 9, przekazuje się w formie pisemnej w opisie systemu nadzoru nad bezpieczeństwem produktu leczniczego weterynaryjnego, najpóźniej przed dniem wydania pozwolenia oraz w każdym przypadku gdy w tych umowach są dokonywane jakiekolwiek zmiany. Do powiadomienia załącza się oświadczenie każdego podmiotu odpowiedzialnego, że jest świadomy spoczywającej na nim odpowiedzialności za nadzór nad bezpieczeństwem stosowania produktów leczniczych weterynaryjnych.
+
+11. W przypadku zawarcia między podmiotem odpowiedzialnym a podmiotem trzecim umowy dotyczącej sprzedaży lub badań produktów leczniczych weterynaryjnych, obowiązek przekazania informacji o działaniach niepożądanych produktu leczniczego stanowi element tej umowy.
+
+12. Zgłoszenie pojedynczego przypadku działania niepożądanego produktu leczniczego weterynaryjnego zawiera:
+
+- **1)** inicjały, płeć i wiek albo wskazanie grupy wieku osoby, u której zaobserwowano działanie niepożądane w wyniku stosowania produktu leczniczego weterynaryjnego u zwierząt, o ile ma to zastosowanie;
+- **2)** dane, o których mowa w art. 36e ust. 1 pkt 2–4;
+- **3)** dane dotyczące zwierzęcia, w tym gatunek, wiek, płeć, jeżeli ma to zastosowanie;
+- **4)** w zakresie produktu leczniczego weterynaryjnego co najmniej:
+    - **a)** nazwę i numer produktu, którego stosowanie podejrzewa się o spowodowanie tego działania niepożądanego,
+    - **b)** opis wywołanego działania niepożądanego.
+
+13. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy sposób i tryb sprawowania nadzoru nad bezpieczeństwem stosowania produktów leczniczych weterynaryjnych oraz zakres danych objętych określonymi dokumentami innymi niż formularz, o którym mowa w pkt 2, sporządzanymi w procesie sprawowania nadzoru nad bezpieczeństwem stosowania produktów leczniczych weterynaryjnych mając na uwadze konieczność ochrony zdrowia zwierząt oraz możliwy wpływ tych produktów na zdrowie ludzi;
+- **2)** wzór formularza zgłoszenia pojedynczego przypadku działania niepożądanego produktu leczniczego weterynaryjnego, mając na względzie zapewnienie jednolitości zgłoszeń oraz uwzględniając zakres danych i informacji określonych w ustawie.”;
+- **21)** w art. 24a po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Prezes Urzędu informuje właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz Europejską Agencję Leków o kontrolach systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych, planowanych lub prowadzonych na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz krajów trzecich.”;
+- **22)** w art. 29:
+    - **a)** ust. 2 i 2a otrzymują brzmienie: „2. Okres ważności pozwolenia może zostać przedłużony na czas nieokreślony:
+
+- **1)** dla produktu leczniczego – na podstawie wniosku złożonego przez podmiot odpowiedzialny co najmniej na 9 miesięcy przed upływem terminu ważności tego pozwolenia;
+- **2)** dla produktu leczniczego weterynaryjnego – na podstawie wniosku złożonego przez podmiot odpowiedzialny co najmniej na 6 miesięcy przed upływem terminu ważności tego pozwolenia.
+
+2a. Wniosek:
+
+- **1)** dla produktu leczniczego, o którym mowa w ust. 2 pkt 1, zawiera: w sprawie działań związanych z nadzorem nad bezpieczeństwem farmakoterapii, o których mowa w rozporządzeniu (WE) nr 726/2004 Parlamentu Europejskiego i Rady i w dyrektywie 2001/83/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 159 z 20.06.2012, str. 5), wraz z ich oceną;
+    - **a)** ujednoliconą dokumentację dotyczącą jakości, bezpieczeństwa i skuteczności, w tym danych zawartych w zgłoszeniach o działaniach niepożądanych oraz raportach okresowych o bezpieczeństwie stosowania produktu leczniczego, jeżeli ma zastosowanie, a także informację o wszystkich zmianach wprowadzonych w okresie ważności tego pozwolenia,
+    - **b)** dane dotyczące monitorowania bezpieczeństwa stosowania zebrane przez podmiot odpowiedzialny w sposób określony w rozporządzeniu wykonawczym Komisji (UE) nr 520/2012 z dnia 19 czerwca 2012 r.
+
+- **2)** dla produktu leczniczego weterynaryjnego, o którym mowa w ust. 2 pkt 2, zawiera:
+    - **a)** ujednoliconą dokumentację dotyczącą jakości, bezpieczeństwa i skuteczności w odniesieniu do wszystkich zmian wprowadzonych w okresie ważności tego pozwolenia,
+    - **b)** dane dotyczące monitorowania bezpieczeństwa stosowania produktów leczniczych weterynaryjnych.”,
+    - **b)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Rozpatrując wniosek dotyczący przedłużenia okresu ważności pozwolenia dla danego produktu leczniczego, Prezes Urzędu może, w uzasadnionych przypadkach, uwzględniając dane dotyczące bezpieczeństwa stosowania produktu leczniczego, w tym ekspozycję niewystarczającej liczby pacjentów na działanie tego produktu leczniczego, wydać jednorazowo decyzję o przedłużeniu okresu ważności tego pozwolenia na kolejne 5 lat.”;
+
+- **23)** w art. 31 po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Zmiany inne, niż określone w rozporządzeniu Komisji (WE) nr 1234/2008 z dnia 24 listopada 2008 r. dotyczącym badania zmian w warunkach pozwoleń na dopuszczenie do obrotu dla produktów leczniczych stosowanych u ludzi i weterynaryjnych produktów leczniczych (Dz. Urz. UE L 334 z 12.12.2008, str. 7), dotyczące oznakowania opakowań i ulotek niezwiązane z Charakterystyką Produktu Leczniczego podmiot odpowiedzialny zgłasza Prezesowi Urzędu. Zmiany uważa się za przyjęte, jeżeli w terminie 90 dni od dnia ich zgłoszenia Prezes Urzędu nie wniesie sprzeciwu.”;
+- **24)** w art. 33:
+    - **a)** w ust. 1: – uchyla się pkt 3a, – pkt 7 otrzymuje brzmienie: „7) niespełnienia warunków, o których mowa w art. 23b–23d, lub obowiązków, o których mowa w art. 36g ust. 1 pkt 9, 10, 12 i 16;”, – pkt 9 otrzymuje brzmienie: „9) upływu terminu, o którym mowa w art. 24 ust. 7 i art. 36r;”, – dodaje się pkt 10 w brzmieniu: „10) stwierdzenia, że cel zawieszenia ważności pozwolenia nie został spełniony w czasie określonym w ust. 1b.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1d w brzmieniu: „1a. W przypadku gdy naruszenie przepisów ust. 1 pkt 1–5, 7 i 9 nie wiąże się z bezpośrednim zagrożeniem dla zdrowia publicznego, Prezes Urzędu może wydać decyzję o zawieszeniu ważności pozwolenia.
+
+1b. Zawieszenie ważności pozwolenia następuje na czas oznaczony. Okresu zawieszenia ważności pozwolenia nie wlicza się do okresów, o których mowa w art. 33a ust. 1.
+
+1c. W przypadku ustania przyczyn zawieszenia ważności pozwolenia, Prezes Urzędu uchyla decyzję o zawieszeniu ważności pozwolenia.
+
+1d. Podmiot odpowiedzialny, w stosunku do którego Prezes Urzędu wydał decyzję o zawieszeniu ważności pozwolenia, nie może wprowadzać do obrotu produktu leczniczego objętego tym pozwoleniem.”;
+
+- **25)** po art. 35 dodaje się art. 35a w brzmieniu: „Art. 35a. 1. Uzyskanie pozwolenia oraz wyznaczenie przez podmiot odpowiedzialny przedstawiciela podmiotu odpowiedzialnego nie zwalnia podmiotu odpowiedzialnego od odpowiedzialności karnej i cywilnej wynikającej ze stosowania produktu leczniczego, w tym na podstawie przepisów dotyczących odpowiedzialności za produkt.
+
+2. Wyznaczenie przedstawiciela podmiotu odpowiedzialnego następuje w drodze umowy w formie pisemnej określającej zakres uprawnień i obowiązków przedstawiciela podmiotu odpowiedzialnego.
+
+3. Kopię umowy, o której mowa w ust. 2, oraz jej późniejsze zmiany podmiot odpowiedzialny przekazuje niezwłocznie do wiadomości Prezesa Urzędu oraz Głównego Inspektora Farmaceutycznego.
+
+4. Podmiot odpowiedzialny, wytwórca, podmiot uprawniony do prowadzenia obrotu hurtowego lub detalicznego, lekarz lub inne osoby uprawnione do przepisywania i wydawania produktu leczniczego na podstawie odrębnych przepisów nie ponoszą odpowiedzialności cywilnej lub dyscyplinarnej za skutki zastosowania produktu leczniczego odmiennie niż we wskazaniach leczniczych objętych pozwoleniem lub za skutki zastosowania produktu leczniczego nieposiadającego pozwolenia, jeżeli takie zastosowanie jest związane z dopuszczeniem produktu leczniczego do obrotu na czas określony przez ministra właściwego do spraw zdrowia na podstawie art. 4 ust. 8.”;
+
+- **26)** po art. 36a dodaje się rozdział 2 w brzmieniu: „Rozdział 2 Nadzór nad bezpieczeństwem stosowania produktów leczniczych, z wyłączeniem produktów leczniczych weterynaryjnych
+
 **Art. 36b.** Do zadań Prezesa Urzędu, o których mowa w art. 4 ust. 1 pkt 1 lit. g, h, m oraz n ustawy z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, wykonywanych w ramach nadzoru nad bezpieczeństwem stosowania produktów leczniczych, należy:
+
+- **1)** zbieranie zgłoszeń pojedynczych przypadków działań niepożądanych pochodzących od osób wykonujących zawód medyczny, pacjentów, ich przedstawicieli ustawowych lub opiekunów faktycznych, a także informacji przekazywanych przez podmioty odpowiedzialne oraz danych z innych źródeł, informacji pochodzących od właściwych organów innych państw, z literatury fachowej oraz pozyskanych w wyniku badań dotyczących bezpieczeństwa przeprowadzanych po wydaniu pozwolenia; w przypadku biologicznych produktów leczniczych w rozumieniu załącznika nr 1 do dyrektywy 2001/83/WE gromadzeniu podlegają informacje dotyczące nazwy i numeru serii tych produktów;
+- **2)** analiza i opracowywanie zgłoszeń, w tym ocena przyczynowo-skutkowa wszystkich zgłoszeń pojedynczych przypadków działań niepożądanych;
+- **3)** gromadzenie i analiza dokumentów dotyczących bezpieczeństwa stosowania produktów leczniczych, w szczególności opracowań z badań dotyczących bezpieczeństwa przeprowadzanych po wydaniu pozwolenia, raportów okresowych o bezpieczeństwie stosowania produktów leczniczych, planów zarządzania ryzykiem użycia produktu leczniczego i innych opracowań dotyczących bezpieczeństwa stosowania produktów leczniczych;
+- **4)** wydawanie komunikatów dotyczących bezpieczeństwa stosowania produktu leczniczego, przeznaczonych i skierowanych bezpośrednio do osób wykonujących zawód medyczny lub ogółu społeczeństwa;
+- **5)** uzgadnianie treści komunikatów dotyczących bezpieczeństwa produktu leczniczego, przeznaczonych i skierowanych bezpośrednio do osób wykonujących zawód medyczny lub ogółu społeczeństwa, wydawanych i upowszechnianych przez podmiot odpowiedzialny;
+- **6)** prowadzenie bazy danych obejmującej zgłoszenia działań niepożądanych produktów leczniczych, które wystąpiły na terytorium Rzeczypospolitej Polskiej;
+- **7)** przekazywanie w systemie EudraVigilance zgłoszeń pojedynczych przypadków działań niepożądanych z terytorium Rzeczypospolitej Polskiej do bazy danych EudraVigilance oraz centralnej bazy danych Światowej Organizacji Zdrowia;
+- **8)** współpraca i wymiana informacji z jednostkami, które realizują zadania związane z zatruciami produktami leczniczymi lub zajmują się leczeniem uzależnień od produktów leczniczych, a także z organami Państwowej Inspekcji Sanitarnej, Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych oraz Wojskowej Inspekcji Sanitarnej w zakresie niepożądanych odczynów poszczepiennych;
+- **9)** udzielanie informacji o produktach leczniczych, w tym o działaniach niepożądanych produktów leczniczych;
+- **10)** podejmowanie działań zwiększających bezpieczeństwo stosowania produktów leczniczych, w tym inicjowanie zmian w Charakterystykach Produktów Leczniczych;
+- **11)** współpraca z osobami wykonującymi zawód medyczny, pacjentami, ich przedstawicielami ustawowymi lub opiekunami faktycznymi, w celu zapewnienia skutecznego, prawidłowego i rzetelnego zgłaszania działań niepożądanych produktu leczniczego, polegająca na:
+    - **a)** opracowaniu i wdrożeniu prostego, przejrzystego schematu zgłaszania pojedynczych przypadków działań niepożądanych,
+    - **b)** opracowaniu trybu potwierdzania przyjęcia zgłoszenia pojedynczego przypadku działania niepożądanego i udostępniania dodatkowych danych na wniosek zgłaszającego,
+    - **c)** udzielaniu dodatkowych informacji dotyczących zgłaszania pojedynczych przypadków działań niepożądanych,
+    - **d)** zapewnieniu, na wniosek osoby wykonującej zawód medyczny, pacjenta, jego przedstawiciela ustawowego lub opiekuna faktycznego, dostępu do odpowiednich danych o bezpieczeństwie stosowania produktów leczniczych;
+
+- **12)** niezwłoczne przekazywanie Europejskiej Agencji Leków zgłoszeń o ciężkich niepożądanych działaniach produktów leczniczych, które wystąpiły na terytorium Rzeczypospolitej Polskiej, nie później jednak niż w terminie 15 dni od dnia ich otrzymania;
+- **13)** przekazywanie Europejskiej Agencji Leków zgłoszeń pojedynczych przypadków działań niepożądanych, innych niż określone w pkt 12, które wystąpiły na terytorium Rzeczypospolitej Polskiej, nie później niż w terminie 90 dni od dnia ich otrzymania;
+- **14)** gromadzenie danych o wielkości sprzedaży produktów leczniczych na terytorium Rzeczypospolitej Polskiej, przesyłanych przez podmiot odpowiedzialny;
+- **15)** współpraca z innymi krajowymi i międzynarodowymi instytucjami odpowiedzialnymi za nadzór nad bezpieczeństwem stosowania produktów leczniczych.
 
 **Art. 36c.**
 
@@ -190,6 +429,9 @@ source: "isap-pdf"
 2. Zmiana częstotliwości przedstawiania raportów okresowych o bezpieczeństwie stosowania produktów leczniczych następuje na wniosek, o którym mowa w art. 31 ust. 1.
 
 **Art. 36k.** W przypadku produktów leczniczych, o których mowa w art. 15 ust. 1, art. 16 ust. 1, art. 20 ust. 1 pkt 1–5, art. 20a i art. 21, podmiot odpowiedzialny przekazuje raport okresowy o bezpieczeństwie stosowania produktu leczniczego wyłącznie w przypadku gdy:
+
+- **1)** obowiązek taki został na niego nałożony jako jeden z warunków, o których mowa w art. 23b albo art. 23c, lub
+- **2)** przekazania raportu zażąda Prezes Urzędu, po powzięciu informacji o wątpliwościach co do bezpieczeństwa stosowania produktów leczniczych wynikających z danych zgromadzonych w ramach nadzoru lub z powodu braku raportów odnoszących się do danej substancji czynnej po wydaniu pozwolenia.
 
 **Art. 36l.**
 
@@ -426,6 +668,11 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2008 r. Nr 136, poz. 856, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 2a w ust. 1 pkt 11 otrzymuje brzmienie: „11) współudziale w badaniach nad lekiem;”;
+- **2)** po art. 5a dodaje się art. 5b w brzmieniu: „Art. 5b. 1. Farmaceuta jest obowiązany zgłosić Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działanie niepożądane produktu leczniczego.
+
+2. Zgłoszenia, o którym mowa w ust. 1, farmaceuta dokonuje zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ).”.
+
 **Art. 4.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634, z późn. zm. ) art. 45a otrzymuje brzmienie: „Art. 45a. 1. Lekarz jest obowiązany zgłosić Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działanie niepożądane produktu leczniczego. 2. Zgłoszenia, o którym mowa w ust. 1, lekarz dokonuje zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ).”.
 
 **Art. 5.** W ustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2004 r. Nr 144, poz. 1529, z późn. zm. ) po art. 27 dodaje się art. 27a w brzmieniu: „Art. 27a. 1. Diagnosta laboratoryjny jest uprawniony do zgłaszania Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działania niepożądanego produktu leczniczego. 2. Zgłoszenia, o którym mowa w ust. 1, diagnosta laboratoryjny dokonuje zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ).”.
@@ -436,9 +683,21 @@ source: "isap-pdf"
 
 **Art. 8.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159 i 742) wprowadza się następujące zmiany:
 
+- **1)** w art. 4 w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje pkt 4 w brzmieniu: „4) zgłaszania działań niepożądanych produktów leczniczych.”;
+- **2)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Prawo do zgłaszania działań niepożądanych produktów leczniczych
+
 **Art. 12a.** Pacjent lub jego przedstawiciel ustawowy, lub opiekun faktyczny ma prawo zgłaszania osobom wykonującym zawód medyczny, Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działania niepożądanego produktu leczniczego zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ).”.
 
 **Art. 9.** W ustawie z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. Nr 82, poz. 451 oraz z 2012 r. poz. 95) wprowadza się następujące zmiany:
+
+- **1)** w art. 4:
+    - **a)** w ust. 1 w pkt 1: − lit. g otrzymuje brzmienie: „g) zbieranie i ocena raportów okresowych o bezpieczeństwie stosowania produktów leczniczych oraz zbieranie informacji o działaniach niepożądanych produktu leczniczego, badanego produktu leczniczego, produktu leczniczego weterynaryjnego i badanego produktu leczniczego weterynaryjnego,”, − w lit. l średnik zastępuje się przecinkiem i dodaje lit. m i n w brzmieniu: „m) umożliwianie zgłaszania informacji o działaniach niepożądanych produktów leczniczych oraz gromadzenie i przetwarzanie tych spośród powziętych w ten sposób informacji, które przy zachowaniu należytej staranności można uznać za wiarygodne pod względem medycznym,
+    - **n)** wdrożenie i prowadzenie dedykowanej strony internetowej, informującej o aspektach związanych z bezpieczeństwem stosowania produktów leczniczych w odniesieniu do produktów leczniczych, z wyłączeniem produktów leczniczych weterynaryjnych;”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. W ramach realizacji zadań, o których mowa w ust. 1 pkt 7, w zakresie kontroli, o której mowa w ust. 1 pkt 1 lit. i, Prezes Urzędu dokonuje regularnego audytu systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych, o którym mowa w art. 2 pkt 40c ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, i przekazuje jego wyniki Komisji Europejskiej w formie raportu co dwa lata.”;
+
+- **2)** w art. 6:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prezes Urzędu udostępnia, nie później niż w terminie 14 dni od dnia wydania ostatecznej decyzji o pozwoleniu na dopuszczenie do obrotu produktu leczniczego albo produktu leczniczego weterynaryjnego, albo wydania ostatecznej decyzji o zmianie danych objętych pozwoleniem, albo zmianie dokumentacji będącej podstawą wydania tego pozwolenia, na stronie internetowej Urzędu oraz w Biuletynie Informacji Publicznej aktualne pozwolenie na dopuszczenie do obrotu, ulotkę oraz Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W zakresie produktów leczniczych, z wyłączeniem produktów leczniczych weterynaryjnych, Prezes Urzędu udostępnia na stronie internetowej Urzędu oraz w Biuletynie Informacji Publicznej, w terminie określonym w ust. 1, streszczenie planu zarządzania ryzykiem użycia produktu leczniczego, warunki nałożone zgodnie z art. 23b i 23c ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, wraz z terminem ich spełnienia, oraz wykaz produktów leczniczych podlegających dodatkowemu monitorowaniu, o którym mowa w art. 23 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego wspólnotowe procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i do celów weterynaryjnych i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. UE L 136 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229).”.
 
 **Art. 10.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039, z późn. zm. ) w art. 16 w pkt 2 kropkę zastępuje się średnikiem i dodaje pkt 3 w brzmieniu: „3) zgłosić Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działanie niepożądane produktu leczniczego zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ).”.
 

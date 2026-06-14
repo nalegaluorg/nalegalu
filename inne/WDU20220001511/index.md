@@ -8,10 +8,10 @@ pos: 1511
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11551111 Załączniki do rozporządzenia Ministra Klimatu i Środowiska z Załącznik nr 1 WZÓR ZGŁOSZENIE DO EWIDENCJI INFRASTRUKTURY PALIW ALTERNATYWNYCH DOKONYWANE PRZEZ OPERATORA OGÓLNODOSTĘPNEJ STACJI ŁADOWANIA Podstawa prawna: art. 42 ust. 5 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001511) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1511/text.pdf) |
 
-11551111 Załącznik nr 1 WZÓR ZGŁOSZENIE DO EWIDENCJI INFRASTRUKTURY PALIW ALTERNATYWNYCH DOKONYWANE PRZEZ OPERATORA OGÓLNODOSTĘPNEJ STACJI ŁADOWANIA Podstawa prawna: art. 42 ust. 5 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
 Zgłaszający: operator ogólnodostępnej stacji ładowania.
 Termin złożenia zgłoszenia: najpóźniej w dniu złożenia wniosku o przeprowadzenie badania technicznego, o którym mowa w art. 16 ust. 1 ustawy z dnia 11 stycznia 2018 r.
 o elektromobilności i paliwach alternatywnych, poprzedzającego oddanie do eksploatacji ogólnodostępnej stacji ładowania oraz każdorazowo w przypadku zmiany danych, a także zakończenia świadczenia na danej stacji usługi ładowania.
@@ -68,7 +67,7 @@ Organ, do którego składa się zgłoszenie: Prezes Urzędu Dozoru Technicznego.
 7. Data rozpoczęcia świadczenia usługi tankowania / wprowadzenia zmian objętych tym zgłoszeniem / zakończenia świadczenia na danej stacji usługi
 7.1. data rozpoczęcia 7.2. data wprowadzenia zmian 7.3. data zakończenia
 8. Data złożenia zgłoszenia
-9. Podpis osoby uprawnionej do złożenia zgłoszenia WZÓR ZGŁOSZENIE DO EWIDENCJI INFRASTRUKTURY PALIW ALTERNATYWNYCH DOKONYWANE PRZEZ OPERATORA STACJI WODORU ŚWIADCZĄCEGO USŁUGĘ TANKOWANIA WODORU Podstawa prawna: art. 42 ust. 5 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
+9. Podpis osoby uprawnionej do złożenia zgłoszenia Załącznik nr 3 WZÓR ZGŁOSZENIE DO EWIDENCJI INFRASTRUKTURY PALIW ALTERNATYWNYCH DOKONYWANE PRZEZ OPERATORA STACJI WODORU ŚWIADCZĄCEGO USŁUGĘ TANKOWANIA WODORU Podstawa prawna: art. 42 ust. 5 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
 Zgłaszający: operator stacji wodoru świadczący usługę tankowania wodoru.
 Termin złożenia zgłoszenia: najpóźniej w dniu złożenia wniosku o przeprowadzenie badania technicznego, o którym mowa w art. 29c ust. 1 ustawy z dnia 11 stycznia 2018 r.
 o elektromobilności i paliwach alternatywnych, poprzedzającego oddanie do eksploatacji stacji wodoru oraz każdorazowo w przypadku zmiany tych danych, a także zakończenia świadczenia na danej stacji usługi tankowania wodoru.

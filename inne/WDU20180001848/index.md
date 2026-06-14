@@ -8,10 +8,10 @@ pos: 1848
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 września 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1848 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 21 września 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001848) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1848/text.pdf) |
 
-Poz. 1848 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 21 września 2018 r.
-w sprawie sposobu dokumentowania prawa do zasiłków pogrzebowych, warunków pokrywania kosztów pogrzebu funkcjonariuszy Służby Ochrony Państwa i członków rodziny funkcjonariusza oraz dokumentów wymaganych przy wypłacie zasiłku pogrzebowego Na podstawie art. 189 ust. 5 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669) zarządza się, co następuje: § 1. Prawo do zasiłku pogrzebowego dokumentuje się przez złożenie przez funkcjonariusza Służby Ochrony Państwa, zwanego dalej „funkcjonariuszem”, lub członka jego rodziny lub innej osoby, która pokryła koszty pogrzebu, Komendantowi Służby Ochrony Państwa:
+w sprawie sposobu dokumentowania prawa do zasiłków pogrzebowych, warunków pokrywania kosztów pogrzebu funkcjonariuszy Służby Ochrony Państwa i członków rodziny funkcjonariusza oraz dokumentów wymaganych przy wypłacie zasiłku pogrzebowego Na podstawie art. 189 ust. 5 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669) zarządza się, co następuje:
+§ 1. Prawo do zasiłku pogrzebowego dokumentuje się przez złożenie przez funkcjonariusza Służby Ochrony Państwa, zwanego dalej „funkcjonariuszem”, lub członka jego rodziny lub innej osoby, która pokryła koszty pogrzebu, Komendantowi Służby Ochrony Państwa:
 1) wyciągu z aktu zgonu funkcjonariusza lub członka rodziny funkcjonariusza;
 2) zaświadczenia, że dziecko urodziło się martwe – w przypadku dziecka martwo urodzonego;
 3) dowodu pokrycia kosztów pogrzebu.

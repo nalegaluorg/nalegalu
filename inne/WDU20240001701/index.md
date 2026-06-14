@@ -8,10 +8,10 @@ pos: 1701
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 listopada 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11770011 POROZUMIENIE z dnia 18 lipca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001701) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1701/text.pdf) |
 
-11770011 POROZUMIENIE z dnia 18 lipca 2023 r.
 między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii o zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Warszawie dnia 5 czerwca 1990 r.
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 27 czerwca 2023 roku i 18 lipca 2023 roku zostało zawarte Porozumienie między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii o zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Warszawie dnia 5 czerwca 1990 roku, w następującym brzmieniu: Przekład Przekład Po zaznajomieniu się z powyższym Porozumieniem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: zostało ono uznane za słuszne zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęte, ratyfikowane i potwierdzone, będzie niezmiennie zachowywane.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 27 czerwca 2023 roku i 18 lipca 2023 roku zostało zawarte Porozumienie między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii o zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Warszawie dnia 5 czerwca 1990 roku, w następującym brzmieniu: Przekład Przekład Po zaznajomieniu się z powyższym Porozumieniem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – zostało ono uznane za słuszne zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęte, ratyfikowane i potwierdzone, – będzie niezmiennie zachowywane.
 Na dowód czego wydany został Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie, dnia 6 sierpnia 2024 roku.
 Prezydent Rzeczypospolitej Polskiej: A. Duda L.S.

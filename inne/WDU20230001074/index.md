@@ -8,10 +8,10 @@ pos: 1074
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1074 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 8 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1074/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ZDROWIA z dnia 8 maja 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 1 sierpnia 2016 r. w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania (Dz. U.
 poz. 1179), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 10 maja 2022 r.
@@ -33,13 +32,14 @@ zmieniającym rozporządzenie w sprawie jednostek organizacyjnych, które prowad
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 10 maja 2022 r. zmieniającego rozporządzenie w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania (Dz. U. poz. 1151), które stanowią: „§ 2. Za określone czynności podejmowane w ramach badań jakościowych produktów leczniczych, produktów leczniczych weterynaryjnych, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego lub produktu leczniczego weterynaryjnego w toku postępowania o udzielenie pozwolenia na dopuszczenie do obrotu, zlecone przed dniem wejścia w życie niniejszego rozporządzenia, pobiera się opłaty zgodnie z cennikiem określonym w załączniku do rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
 § 3. Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia.”.
 Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 1 sierpnia 2016 r.
-w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania Na podstawie art. 22 ust. 2 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605 i 650) zarządza się, co następuje: § 1. Badania jakościowe produktów leczniczych, produktów leczniczych weterynaryjnych, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego lub produktu leczniczego weterynaryjnego w toku postępowania o udzielenie pozwolenia na dopuszczenie do obrotu wykonują następujące jednostki organizacyjne:
+w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania Na podstawie art. 22 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605 i 650) zarządza się, co następuje:
+§ 1. Badania jakościowe produktów leczniczych, produktów leczniczych weterynaryjnych, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego lub produktu leczniczego weterynaryjnego w toku postępowania o udzielenie pozwolenia na dopuszczenie do obrotu wykonują następujące jednostki organizacyjne:
 1) instytuty badawcze:
-a) Narodowy Instytut Leków w Warszawie, mający status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL Official Medicines Control Laboratory) w pełnym zakresie badań w odniesieniu do wszystkich kategorii produktów leczniczych i produktów leczniczych weterynaryjnych,
-b) Narodowy Instytut Zdrowia Publicznego PZH ‒ Państwowy Instytut Badawczy w Warszawie, mający status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL Official Medicines Control Laboratory) w odniesieniu do produktów immunologicznych, produktów krwiopochodnych i produktów leczniczych stosowanych w diagnostyce serologicznej,
-c) Instytut Hematologii i Transfuzjologii w Warszawie, mający status wyznaczonego krajowego laboratorium badawczego w odniesieniu do kontroli seryjnej wstępnej produktów krwiopochodnych,
+a) Narodowy Instytut Leków w Warszawie, mający status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL – Official Medicines Control Laboratory) – w pełnym zakresie badań w odniesieniu do wszystkich kategorii produktów leczniczych i produktów leczniczych weterynaryjnych,
+b) Narodowy Instytut Zdrowia Publicznego PZH ‒ Państwowy Instytut Badawczy w Warszawie, mający status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL – Official Medicines Control Laboratory) – w odniesieniu do produktów immunologicznych, produktów krwiopochodnych i produktów leczniczych stosowanych w diagnostyce serologicznej,
+c) Instytut Hematologii i Transfuzjologii w Warszawie, mający status wyznaczonego krajowego laboratorium badawczego – w odniesieniu do kontroli seryjnej wstępnej produktów krwiopochodnych,
 d) (uchylona),
-e) Państwowy Instytut Weterynaryjny Państwowy Instytut Badawczy w Puławach, mający status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL Official Medicines Control Laboratory) w odniesieniu do immunologicznych produktów leczniczych weterynaryjnych;
+e) Państwowy Instytut Weterynaryjny – Państwowy Instytut Badawczy w Puławach, mający status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL – Official Medicines Control Laboratory) – w odniesieniu do immunologicznych produktów leczniczych weterynaryjnych;
 2) laboratoria kontroli jakości leków:
 a) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Białymstoku,
 b) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Gdańsku,
@@ -48,14 +48,14 @@ d) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmace
 e) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Opolu,
 f) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Poznaniu,
 g) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Rzeszowie,
-h) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym we Wrocławiu mające status wyznaczonego krajowego laboratorium badawczego w zakresie analizy jakościowej produktów leczniczych i wyrobów medycznych.
-Minister Zdrowia kieruje działem administracji rządowej zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
+h) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym we Wrocławiu – mające status wyznaczonego krajowego laboratorium badawczego – w zakresie analizy jakościowej produktów leczniczych i wyrobów medycznych.
+Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
 Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Zdrowia z dnia 10 maja 2022 r. zmieniającego rozporządzenie w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania (Dz. U. poz. 1151), które weszło w życie z dniem 1 lipca 2022 r.
 Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.
 Ze zmianą wprowadzoną przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 2.
 § 2. Cennik opłat pobieranych za określone czynności podejmowane w ramach badań jakościowych produktów leczniczych, produktów leczniczych weterynaryjnych, materiałów wyjściowych i produktów pośrednich lub innych składników produktu leczniczego lub produktu leczniczego weterynaryjnego w toku postępowania o udzielenie pozwolenia na dopuszczenie do obrotu określa załącznik do rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie z dniem 8 sierpnia 2016 r.
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 28 listopada 2013 r. w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania (Dz. U. poz. 1472), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 7 ustawy z dnia 19 grudnia 2014 r. o zmianie ustawy Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. z 2015 r.
+Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 28 listopada 2013 r. w sprawie jednostek organizacyjnych, które prowadzą badania jakościowe produktów leczniczych i produktów leczniczych weterynaryjnych, oraz opłat pobieranych za te badania (Dz. U. poz. 1472), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 7 ustawy z dnia 19 grudnia 2014 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw (Dz. U. z 2015 r.
 poz. 28).
 CENNIK OPŁAT POBIERANYCH ZA OKREŚLONE CZYNNOŚCI PODEJMOWANE W RAMACH BADAŃ JAKOŚCIOWYCH PRODUKTÓW LECZNICZYCH, PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH, MATERIAŁÓW WYJŚCIOWYCH I PRODUKTÓW POŚREDNICH LUB INNYCH SKŁADNIKÓW PRODUKTU LECZNICZEGO LUB PRODUKTU LECZNICZEGO WETERYNARYJNEGO W TOKU POSTĘPOWANIA O UDZIELENIE POZWOLENIA NA DOPUSZCZENIE DO OBROTU Podane ceny nie zawierają podatku VAT Opłata w zł Lp. Rodzaj badania I Czynności wstępne dotyczące przygotowania próbki i wzorca 1 Przygotowanie naważki:
 a) rozpuszczanie 74,40
@@ -101,7 +101,7 @@ b) uzyskanie każdej następnej frakcji po wyodrębnieniu 151,20
 c) frakcje uzyskane po czasie 12 h 336,00
 d) oznaczenie ilościowe dla każdej z 6 próbek według cennika, oznaczanie 12 lub 24 próbek z 25-procentowym upustem
 e) przygotowanie medium niezbuforowanego 228,00
-f) przygotowanie medium zbuforowanego 378,00 16 Obliczenie wartości AV 151,20 17 Oznaczanie zdolności pęcznienia 151,20 18 Oznaczanie zdolności tworzenia piany (półilościowe) 151,20 19 Oznaczanie konsystencji penetrometrem 228,00 20 Oznaczanie czasu topnienia, rozpuszczenia bądź całkowitej deformacji czopków 151,20 21 Oznaczenie stopnia rozdrobnienia postaci stałych leku (analiza sitowa, za 1 sito) 74,40 22 Badanie czasu rozpuszczania preparatów iniekcyjnych 74,40 23 Ocena właściwości organoleptycznych 74,40 24 Jednolitość zawartości zgodnie z cennikiem obowiązuje 25-procentowy upust III Sprawdzenie tożsamości i zawartości 1 Chemiczna próba tożsamości 151,20 2 Oznaczenie temperatury topnienia lub krzepnięcia z wzorcem lub temperatury kroplenia 151,20 3 Oznaczenie temperatury wrzenia metodą destylacji 300,00 4 Oznaczenie gęstości:
+f) przygotowanie medium zbuforowanego 378,00 16 Obliczenie wartości AV 151,20 17 Oznaczanie zdolności pęcznienia 151,20 18 Oznaczanie zdolności tworzenia piany (półilościowe) 151,20 19 Oznaczanie konsystencji penetrometrem 228,00 20 Oznaczanie czasu topnienia, rozpuszczenia bądź całkowitej deformacji czopków 151,20 21 Oznaczenie stopnia rozdrobnienia postaci stałych leku (analiza sitowa, za 1 sito) 74,40 22 Badanie czasu rozpuszczania preparatów iniekcyjnych 74,40 23 Ocena właściwości organoleptycznych 74,40 24 Jednolitość zawartości – zgodnie z cennikiem obowiązuje 25-procentowy upust III Sprawdzenie tożsamości i zawartości 1 Chemiczna próba tożsamości 151,20 2 Oznaczenie temperatury topnienia lub krzepnięcia z wzorcem lub temperatury kroplenia 151,20 3 Oznaczenie temperatury wrzenia metodą destylacji 300,00 4 Oznaczenie gęstości:
 a) wagą Mohra 228,00
 b) piknometrem, wprost 228,00
 c) aerometrem 74,40 5 Sprawdzenie rozpuszczalności w jednym rozpuszczalniku z określeniem proporcji 74,40 6 Chromatografia bibułowa:
@@ -230,7 +230,7 @@ a) metodą graficzną 2 112,00
 b) metodą 3 × 3 2 496,00
 c) metodą biochemiczną 5 448,00 15 Badanie agregacji płytek krwi pod wpływem materiałów medycznych 1 968,00 16 Badanie adhezji składników krwi na powierzchni tworzyw sztucznych 1 968,00 17 Badanie właściwości trombogennych tworzyw sztucznych w krążeniu pozaustrojowym 1 968,00 18 Badanie właściwości antygenowych preparatów do wstrzyknięć:
 a) jednorazowe 384,00
-b) wielokrotne 1 209,60 19 Badanie działania uczulającego podanie naskórne 4 860,00 20 Badanie preparatów zwiększających wydzielanie soku trzustkowego (całość badania) 8 730,00 21 Badanie działania miejscowo-drażniącego na królikach:
+b) wielokrotne 1 209,60 19 Badanie działania uczulającego – podanie naskórne 4 860,00 20 Badanie preparatów zwiększających wydzielanie soku trzustkowego (całość badania) 8 730,00 21 Badanie działania miejscowo-drażniącego na królikach:
 a) podanie do worka spojówkowego: ‒ jednorazowe 300,00 ‒ wielokrotne 756,00
 b) podanie śródskórne 2 952,00
 c) podanie naskórne: ‒ jednokrotne 2 952,00 ‒ wielokrotne 5 328,00 22 Badanie na królikach działania hipoglikemicznego preparatów o przedłużonym działaniu n = 6, met. 1 + 1 7 315,20 23 Badanie aktywności biologicznej insuliny na myszach według Ph. E. met. C 8 707,20 24 Badanie działania gonadotropowego na szczurach:
@@ -240,7 +240,7 @@ a) oznaczenie wychwytu radionuklidu: ‒ w jednej tkance 1 303,80 ‒ w każdej 
 b) dystrybucja cząstkowa: ‒ w 7 tkankach 2 910,00 ‒ w każdej kolejnej tkance 338,40 27 Oznaczenie kinetyki zmian względnej zawartości radionuklidu w określonych tkankach zwierząt (1 dawka / 3 czasy / 9 zwierząt):
 a) w jednej tkance 3 496,80
 b) w każdej kolejnej tkance (do 6) 676,80
-c) w każdej kolejnej tkance (ponad 6) 902,40 28 Wykonanie scyntygramu rozkładu radioaktywności w ciele zwierząt z użyciem aparatu do gammagrafii 564,00 29 Badanie działania hemolitycznego wyciągów z tworzyw sztucznych 744,00 30 Badanie działania hemolizującego materiałów medycznych metodą bezpośrednią 902,40 31 Test hemaglutynacji czynnej miano przeciwciał anty-SRBC 2 424,00 32 Test rozetkowy 3 780,00 33 Badanie przeżywalności tymocytów myszy w hodowlach z hydrokortyzonem 3 252,00 34 Oznaczenie obecności przeciwciał przeciwko HIV I/HIV II 1 284,00 35 Oznaczenie obecności antygenu HBS 912,00 36 Badanie aktywności przeciwwirusowej interferonów 10 968,00 37 Badanie aktywności biologicznej czynników wzrostu 10 968,00 38 Liczenie komórek z użyciem aparatu Coultera 969,60 39 Badanie mutagenności testem Amesa, 3 stężenia na 4 szczepach:
+c) w każdej kolejnej tkance (ponad 6) 902,40 28 Wykonanie scyntygramu rozkładu radioaktywności w ciele zwierząt z użyciem aparatu do gammagrafii 564,00 29 Badanie działania hemolitycznego wyciągów z tworzyw sztucznych 744,00 30 Badanie działania hemolizującego materiałów medycznych metodą bezpośrednią 902,40 31 Test hemaglutynacji czynnej – miano przeciwciał anty-SRBC 2 424,00 32 Test rozetkowy 3 780,00 33 Badanie przeżywalności tymocytów myszy w hodowlach z hydrokortyzonem 3 252,00 34 Oznaczenie obecności przeciwciał przeciwko HIV I/HIV II 1 284,00 35 Oznaczenie obecności antygenu HBS 912,00 36 Badanie aktywności przeciwwirusowej interferonów 10 968,00 37 Badanie aktywności biologicznej czynników wzrostu 10 968,00 38 Liczenie komórek z użyciem aparatu Coultera 969,60 39 Badanie mutagenności testem Amesa, 3 stężenia na 4 szczepach:
 a) bez aktywacji metabolicznej 20 371,20
 b) z aktywacją metaboliczną 24 636,00 40 Badania genotoksyczności testem mikrojądrowym in vitro, 3 stężenia, 1 linia komórkowa:
 a) bez aktywacji metabolicznej 20 529,60

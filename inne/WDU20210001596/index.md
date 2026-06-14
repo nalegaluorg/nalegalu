@@ -8,10 +8,10 @@ pos: 1596
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 sierpnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1596 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 27 sierpnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001596) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1596/text.pdf) |
 
-Poz. 1596 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 27 sierpnia 2021 r.
-zmieniające rozporządzenie w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach Na podstawie art. 71 ust. 1 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2020 r. poz. 1327 oraz z 2021 r. poz. 4 i 1237) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 2 listopada 2015 r. w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach (Dz. U. poz. 1872, z 2017 r. poz. 1628 oraz z 2021 r. poz. 938) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach Na podstawie art. 71 ust. 1 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2020 r. poz. 1327 oraz z 2021 r. poz. 4 i 1237) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 2 listopada 2015 r. w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach (Dz. U. poz. 1872, z 2017 r. poz. 1628 oraz z 2021 r. poz. 938) wprowadza się następujące zmiany:
 1) po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Ilekroć w rozporządzeniu jest mowa o szkole ponadgimnazjalnej specjalnej lub szkole ponadgimnazjalnej, należy przez to rozumieć odpowiednio klasy dotychczasowej szkoły ponadgimnazjalnej specjalnej prowadzone w szkole ponadpodstawowej specjalnej lub klasy dotychczasowej szkoły ponadgimnazjalnej prowadzone w szkole ponadpodstawowej.”;
 2) w § 21 w ust. 1:
 a) we wprowadzeniu do wyliczenia skreśla się wyrazy „co najmniej jedna z następujących szkół”,
@@ -38,7 +38,6 @@ b) w ust. 4 skreśla się wyrazy „zakończenia wychowania przedszkolnego lub�
 a) w ust. 1 w pkt 2 skreśla się wyrazy „ , specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka socjoterapii lub nie mogą przebywać w bursie”,
 b) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W uzasadnionych przypadkach dzieci i młodzież, o których mowa w ust. 1, mogą uczęszczać do specjalnego ośrodka wychowawczego w miejscu zamieszkania.”,
 c) w ust. 3: – we wprowadzeniu do wyliczenia skreśla się wyrazy „gimnazjum lub”, – pkt 2 otrzymuje brzmienie: „2) 21. rok życia – w przypadku wychowanków zagrożonych niedostosowaniem społecznym.”;
-Dziennik Ustaw – 2 – Poz. 1596
 5) w § 35:
 a) w ust. 1: – we wprowadzeniu do wyliczenia skreśla się wyrazy „co najmniej jedna z następujących szkół”, – uchyla się pkt 1 i 2,
 b) uchyla się ust. 2,

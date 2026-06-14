@@ -94,6 +94,8 @@ saos_id|date|court|case_number|type|score|saos_url
 89539|2009-01-29|SN|I KZP 28/08|Postanowienie|69|https://www.saos.org.pl/judgments/89539
 84166|2006-03-09|SN|V KK 271/05|Postanowienie|69|https://www.saos.org.pl/judgments/84166
 82361|2003-11-28|SN|V KK 240/03|Postanowienie|69|https://www.saos.org.pl/judgments/82361
+545018|2025-09-22|SO|II AKa 154/24|Wyrok|56|https://www.saos.org.pl/judgments/545018
+545278|2025-06-12|SO|II AKa 55/25|Wyrok|56|https://www.saos.org.pl/judgments/545278
 531101|2025-05-27|SO|II AKa 256/24|Wyrok|56|https://www.saos.org.pl/judgments/531101
 538589|2025-04-10|SO|II AKa 44/25|Wyrok|56|https://www.saos.org.pl/judgments/538589
 541700|2025-02-27|SO|II AKa 17/25|Wyrok|56|https://www.saos.org.pl/judgments/541700
@@ -574,6 +576,7 @@ saos_id|date|court|case_number|type|score|saos_url
 540931|2025-04-25|SO|II K 91/23|Wyrok|40|https://www.saos.org.pl/judgments/540931
 535731|2025-03-27|SO|II K 194/24|Wyrok|40|https://www.saos.org.pl/judgments/535731
 540080|2025-03-19|SO|II K 152/23|Wyrok|40|https://www.saos.org.pl/judgments/540080
+545041|2025-03-18|SO|II K 21/24|Wyrok|40|https://www.saos.org.pl/judgments/545041
 537090|2024-09-30|SO|II K 503/23|Wyrok|40|https://www.saos.org.pl/judgments/537090
 519499|2024-07-25|SO|IV Ka 503/24|Wyrok|40|https://www.saos.org.pl/judgments/519499
 502872|2024-05-10|SO|II K 2686/22|Wyrok|40|https://www.saos.org.pl/judgments/502872
@@ -933,6 +936,7 @@ saos_id|date|court|case_number|type|score|saos_url
 215858|2016-04-06|SO|V Kz 172/16|Postanowienie|31|https://www.saos.org.pl/judgments/215858
 62262|2014-08-21|SO|VI Ga 137/14|Postanowienie|31|https://www.saos.org.pl/judgments/62262
 42342|2014-01-27|SO|XVI K 256/13|Postanowienie|31|https://www.saos.org.pl/judgments/42342
+545340|2026-04-22|SO|VI Ka 798/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/545340
 543122|2026-03-17|SO|VI Ka 1299/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/543122
 536578|2025-09-15|SO|VI Ka 759/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/536578
 542376|2025-09-12|SO|II W 813/24|Zarządzenie|27|https://www.saos.org.pl/judgments/542376

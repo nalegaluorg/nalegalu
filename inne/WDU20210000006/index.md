@@ -8,10 +8,10 @@ pos: 6
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 stycznia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 6 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 31 grudnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000006) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/6/text.pdf) |
 
-Poz. 6 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 31 grudnia 2020 r.
 zmieniające rozporządzenie w sprawie szczegółowego sposobu podziału ogólnych kwot połowowych i dodatkowych kwot połowowych Na podstawie art. 47 ust. 1 i 2 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2020 r. poz.
-i 285) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 15 lutego 2019 r. w sprawie szczegółowego sposobu podziału ogólnych kwot połowowych i dodatkowych kwot połowowych (Dz. U. poz. 370 i oraz z 2020 r. poz. 2284) wprowadza się następujące zmiany:
+i 285) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 15 lutego 2019 r. w sprawie szczegółowego sposobu podziału ogólnych kwot połowowych i dodatkowych kwot połowowych (Dz. U. poz. 370 i oraz z 2020 r. poz. 2284) wprowadza się następujące zmiany:
 1) w § 3a w ust. 1 pkt 1–7 otrzymują brzmienie: „1) od 8 m do 9,99 m – nie może wynieść więcej niż 250 kg na jeden statek rybacki;
 2) od 10 m do 11,99 m – nie może wynieść więcej niż 300 kg na jeden statek rybacki;
 3) od 12 m do 14,99 m – nie może wynieść więcej niż 400 kg na jeden statek rybacki;

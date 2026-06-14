@@ -8,7 +8,7 @@ pos: 1453
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o spłacie pożyczek udzielonych w 2000 r. kasom chorych z budżetu państwa

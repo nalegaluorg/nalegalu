@@ -8,10 +8,10 @@ pos: 234
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 lutego 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 234 Porozumienie wykonawcze między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki dotyczącej rozmieszczenia na terytorium Rzeczypospolitej Polskiej systemu obrony przed rakietami balistycznymi w sprawie użytkowania terenów oraz przestrzeni powietrznej wokół Bazy systemu obrony przed rakietami balistycznymi, podpisane w Warszawie dnia 27 kwietnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/234/text.pdf) |
 
-Porozumienie wykonawcze między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki dotyczącej rozmieszczenia na terytorium Rzeczypospolitej Polskiej systemu obrony przed rakietami balistycznymi w sprawie użytkowania terenów oraz przestrzeni powietrznej wokół Bazy systemu obrony przed rakietami balistycznymi, podpisane w Warszawie dnia 27 kwietnia 2015 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 27 kwietnia 2015 r. w Warszawie zostało podpisane Porozumienie wykonawcze między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki dotyczącej rozmieszczenia na terytorium Rzeczypospolitej Polskiej systemu obrony przed rakietami balistycznymi w sprawie użytkowania terenów oraz przestrzeni powietrznej wokół Bazy systemu obrony przed rakietami balistycznymi, w następującym brzmieniu: Po zaznajomieniu się z powyższym porozumieniem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: zostało ono uznane za słuszne zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęte, ratyfikowane i potwierdzone, będzie niezmiennie zachowywane.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: Dnia 27 kwietnia 2015 r. w Warszawie zostało podpisane Porozumienie wykonawcze między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki dotyczącej rozmieszczenia na terytorium Rzeczypospolitej Polskiej systemu obrony przed rakietami balistycznymi w sprawie użytkowania terenów oraz przestrzeni powietrznej wokół Bazy systemu obrony przed rakietami balistycznymi, w następującym brzmieniu: Po zaznajomieniu się z powyższym porozumieniem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – zostało ono uznane za słuszne zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęte, ratyfikowane i potwierdzone, – będzie niezmiennie zachowywane.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 28 grudnia 2015 r.
 Prezydent Rzeczypospolitej Polskiej: A. Duda l.s.

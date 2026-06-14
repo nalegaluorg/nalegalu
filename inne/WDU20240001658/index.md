@@ -8,10 +8,10 @@ pos: 1658
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia 14 listopada 2024 Pouczenie o uprawnieniach i obowiązkach podejrzanego Otrzymujesz to pouczenie, ponieważ jesteś podejrzanym.
+# RZECZYPOSPOLITEJ Poz. 1658 Pouczenie o uprawnieniach i obowiązkach podejrzanego Otrzymujesz to pouczenie, ponieważ jesteś podejrzanym.
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +27,7 @@ source: "isap-pdf"
 
 Jako podejrzany masz prawo wiedzieć, jakie są Twoje Masz prawo otrzymać to pouczenie na piśmie, przed pierwszym przesłuchaniem.
 Przeczytaj dokładnie to pouczenie.
-Masz obowiązek podpisać oświadczenie, w którym potwierdzisz, Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. Kodeks postępowania Twoje prawa i obowiązki w postępowaniu karnym Jako podejrzany:
+Masz obowiązek podpisać oświadczenie, w którym potwierdzisz, Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej — są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. — Kodeks postępowania Twoje prawa i obowiązki w postępowaniu karnym Jako podejrzany:
 1. Masz prawo zdecydować, czy i jakie wyjaśnienia złożysz Możesz składać wyjaśnienia, odmówić składania wyjaśnień odpowiedzi na poszczególne pytania. Nie musisz tłumaczyć, odmawiasz odpowiedzi na pytania lub odmawiasz składania 8 1).
 W trakcie przesłuchania w postępowaniu przygotowawczym abyś mógł składać wyjaśnienia na piśmie. Przesłuchujący nie zgodzić, jeśli ma ważne powody (art. 1768 1i2).
 Jeśli bierzesz udział w czynnościach, możesz składać wyjaśnienia dowodów, których one dotyczą (art. 175 8 2).
@@ -38,28 +38,28 @@ Jeżeli jesteś tymczasowo aresztowany:
 Prokurator albo osoba przez niego wskazana może uczestniczyć spotkaniach z obrońcą i kontrolować Waszą korespondencję, 14 dni od dnia tymczasowego aresztowania (art. 73).
 Podczas śledztwa lub dochodzenia możesz żądać, aby udział Twój obrońca. Jeśli jednak Twój obrońca nie przyjdzie przesłuchujący i tak będzie mógjeł przeprowadzić (art.
 Obrońca wybrany przez Ciebie Możesz samodzielnie ustanowić obrońcę. W takim wypadku opłacasz. Możesz wybrać nie więcej niż trzech obrońców, reprezentować Cię w trakcie postępowania karnego (art.
-Obrońca wyznaczony przez sąd obrońca z urzędu Jeżeli wykażesz, że nie stać Cię na to, by zapłacić obrońcy ponieść kosztów obrońcy bez szkody dla niezbędnego i Twojej rodziny), sąd może wyznaczyć Ci obrońcę z urzędu postępowania albo do dokonania konkretnej czynności i 1a).
+Obrońca wyznaczony przez sąd — obrońca z urzędu Jeżeli wykażesz, że nie stać Cię na to, by zapłacić obrońcy ponieść kosztów obrońcy bez szkody dla niezbędnego i Twojej rodziny), sąd może wyznaczyć Ci obrońcę z urzędu postępowania albo do dokonania konkretnej czynności i1a).
 Pamiętaj: gdy składasz wniosek o wyznaczenie obrońcy dowody, które potwierdzą, że nie jesteś w stanie samodzielnie (np. zaświadczenie o zarobkach, o wydatkach związanych rodziny, mieszkania).
 Jeżeli jesteś żołnierzem, funkcjonariuszem Policji lub Granicznej oskarżonym o przestępstwo popełnione w środków przymusu bezpośredniego, użycia broni lub użycia lub wykorzystania środków przymusu bezpośredniego w związku z wykonywaniem czynności lub zadań służbowych
 1) na podstawie art. 11b albo art. 11c ustawy z dnia 12 o Straży Granicznej, art. 18 ustawy z dnia 6 kwietnia w czasie trwania operacji wojskowej, o której mowa z dnia 11 marca 2022 r. o obronie Ojczyzny,
 2) w przypadku konieczności odparcia bezpośredniego, na życie, zdrowie lub wolność swoją lub innej osoby granicy państwowej lub przeciwdziałania czynnościom bezpośrednio do tych zamachów albo prowadzenia kontrterrorystycznych, o których mowa w art. 2 pkt 10 czerwca 2016 r. o działaniach antyterrorystycznych i nie masz obrońcy z wyboru, możesz żądać, bez względu majątkową, wyznaczenia obrońcy z urzędu do całego dokonania konkretnej czynności procesowej (art. 78a W trakcie postępowania przygotowawczego możesz złożyć organowi prowadzącemu postępowanie, który przekaże bezpośrednio do sądu. Zawsze napisz, o jaką sprawę chodzi.
-W trakcie postępowania sądowego możesz złożyć takie od momentu, gdy otrzymasz odpis aktu oskarżenia. Jeżeli terminu lub nie dołączysz dowodów, Twój wniosek może dopiero po terminie rozprawy lub posiedzenia (art. 338b81i Jeśli stwierdzisz, że potrzebujesz obrońcy z urzędu dopiero terminie rozprawy lub posiedzenia zawnioskuj o niego sąd zdążył rozpatrzyć Twoje żądanie przed kolejną rozprawą posiedzeniem (art. 338b 8 3).
+W trakcie postępowania sądowego możesz złożyć takie od momentu, gdy otrzymasz odpis aktu oskarżenia. Jeżeli terminu lub nie dołączysz dowodów, Twój wniosek może dopiero po terminie rozprawy lub posiedzenia (art. 338b81i Jeśli stwierdzisz, że potrzebujesz obrońcy z urzędu dopiero terminie rozprawy lub posiedzenia — zawnioskuj o niego sąd zdążył rozpatrzyć Twoje żądanie przed kolejną rozprawą posiedzeniem (art. 338b 8 3).
 Jeśli zostaniesz skazany/skazana lub postępowanie zostanie umorzone, możesz zostać obciążony/obciążona kosztami (art. 627 i art. 629).
 3. Masz prawo korzystać z pomocy tłumacza Jeżeli nie znasz wystarczająco dobrze języka polskiego, z pomocy tłumacza.
-Ty lub Twój obrońca możecie zawnioskować o bezpłatną Pomoże Ci on w kontakcie z Twoim obrońcą w trakcie postępowania, w których uczestniczysz (art. 72 $1i 2).
+Ty lub Twój obrońca możecie zawnioskować o bezpłatną Pomoże Ci on w kontakcie z Twoim obrońcą w trakcie postępowania, w których uczestniczysz (art. 72 $ 1i 2).
 W trakcie postępowania dostaniesz ttumaczenia dokumentów j a k :
 1) postanowienie o przedstawieniu, uzupełnieniu oraz
 2) akt oskarżenia;
 3) orzeczenia podlegające zaskarżeniu;
 4) orzeczenia kończące postępowanie.
-Prowadzący postępowanie może tylko przeczytać (ogłosić) orzeczenie kończące postępowanie jeśli się na to zgodzisz ono zaskarżeniu (art. 72 $ 3).
+Prowadzący postępowanie może tylko przeczytać (ogłosić) orzeczenie kończące postępowanie — jeśli się na to zgodzisz ono zaskarżeniu (art. 72 $ 3).
 4. Masz prawo dostępu do informacji o treści zarzutów W trakcie postępowania przygotowawczego masz prawo podejrzany:
 1) jakie postawiono Ci zarzuty;
 2) czy zarzuty zostały uzupełnione lub zmienione w trakcie
 3) jaka kara Ci grozi i na podstawie jakich przepisów (art.
 art. 325g $ 2 i art. 308).
 Do czasu zawiadomienia o terminie zaznajomienia z materiałami masz prawo żądać, by prowadzący przedstawił Ci ustnie a także sporządził uzasadnienie na piśmie i doręczyjeł $ 3 ) .
-5. Masz prawo składać wnioski dowodowe i brać udział Możesz zawnioskować o to, by prowadzący postępowanie czynność, np. przesłuchał świadka, uzyskał jakiś dokument z opinii biegłego (art. 315 $ 1) jest to wniosek dowodowy.
+5. Masz prawo składać wnioski dowodowe i brać udział Możesz zawnioskować o to, by prowadzący postępowanie czynność, np. przesłuchał świadka, uzyskał jakiś dokument z opinii biegłego (art. 315 $ 1) — jest to wniosek dowodowy.
 Prowadzący może nie uwzględnić Twojego wniosku dowodowego,
 1) przeprowadzenie dowodu jest niedopuszczalne;
 2) okoliczność, która ma być udowodniona, nie ma znaczenia rozstrzygnięcia sprawy albo jest już udowodniona zgodnie wnioskodawcy;
@@ -72,12 +72,12 @@ Jeśli podczas śledztwa lub dochodzenia zażądasz udziału czynnościach, prok
 w szczególnie uzasadnionym przypadku ze względu na postępowania. Jeżeli jesteś pozbawiony/pozbawiona wolności, może odmówić Ci udziału w czynności, gdy sprowadzenie poważne trudności (art. 317).
 Jeżeli czynność postępowania nie będzie mogła być powtórzona Ty i Twój obrońca możecie wziąć w niej udział, chyba że przeprowadzeniu spowoduje utratę lub zniekształcenie Jeśli istnieje obawa, że jakiegoś świadka nie będzie można w trakcie rozprawy, możesz zawnioskować o jego przesłuchanie zwrócić się do prokuratora o spowodowanie przesłuchania trybie (art. 316 8 3).
 Jeśli w postępowaniu dopuszczono dowód z opinii biegłego, możecie zapoznać się z pisemną opinią biegłego oraz wziąć przesłuchaniu (art. 318).
-6. Masz prawo dostępu do akt sprawy W każdym momencie śledztwa lub dochodzenia również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
+6. Masz prawo dostępu do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
 śledztwo lub dochodzenie może odmówić Ci dostępu do ważny interes państwa lub dobro postępowania. Akta w postaci elektronicznej.
-Jeżeli przed skierowaniem sprawy do sądu prokurator wniosek o tymczasowe aresztowanie lub przedłużenie tymczasowego aresztowania Tobie i Twojemu obrońcy sprawy w tej części, która zawiera dowody dołączone uzasadniona obawa niebezpieczeństwa dla życia, zdrowia świadka lub osoby dla niego najbliższej, zeznania takiego udostępnione (art. 15685i85a).
+Jeżeli przed skierowaniem sprawy do sądu prokurator wniosek o tymczasowe aresztowanie lub przedłużenie tymczasowego aresztowania — Tobie i Twojemu obrońcy sprawy w tej części, która zawiera dowody dołączone uzasadniona obawa niebezpieczeństwa dla życia, zdrowia świadka lub osoby dla niego najbliższej, zeznania takiego udostępnione (art. 15685i85a).
 Po skierowaniu sprawy do sądu Ty i Twój obrońca uzyskacie akt sprawy i będziecie mogli otrzymać kopie i odpisy żądanych lub samodzielnie je sporządzić (np. fotokopie). Jeżeli jest technicznie, informacje o aktach sprawy mogą być udostępnione pomocą systemu teleinformatycznego (art. 156 8 1).
 7. Masz prawo do końcowego zaznajomienia z materiałami Przed zamknięciem postępowania przygotowawczego o końcowe zaznajomienie z materiałami postępowania.
-brać udział Twój obrońca (art. 32181i3).
+brać udział Twój obrońca (art. 32181i 3).
 W terminie 3 dni od daty zaznajomienia z materiałami przygotowawczego możesz złożyć wniosek o uzupełnienie (art. 32185).
 Przed końcowym zaznajomieniem z materiałami postępowania przygotowawczego masz prawo przejrzenia akt, które również w postaci elektronicznej (art. 321 8 1).
 8. Masz prawo zawnioskować o mediację Na każdym etapie możesz wnioskować o skierowanie mediacyjnego. Jego celem jest między innymi próba uzgodnienia pokrzywdzonymi a oskarżonym sposobu naprawienia w postępowaniu mediacyjnym jest dobrowolny (art. 23a Postępowanie mediacyjne prowadzi ustanowiony mediator, zachować w tajemnicy przebieg postępowania mediacyjnego Pamiętaj, że postępowanie mediacyjne nie kończy postępowania jednak pogodzisz się z pokrzywdzonym, sąd weźmie to określaniu wymiaru kary (art. 53 $ 3 ustawy z dnia 6 czerwca karny).
@@ -102,12 +102,12 @@ Jeśli nie przebywasz w kraju ani w innym państwie Unii wskazać adresata (osob
 Jeżeli zmienisz miejsce zamieszkania lub pobytu, w tym pozbawienia wolności w innej sprawie, albo adres skrytki podać nowy adres (art. 139).
 Jeśli nie poinformujesz prowadzącego postępowanie o o zmianie swojego adresu zamieszkania, pobytu lub skrytki wysyłane na dotychczasowy adres będą uznawane za Jeśli pisma nie można dostarczyć Ci osobiście, przekazać domownikowi lub do Twojej skrzynki pocztowej, pismo
 1) będzie pozostawione w najbliższej placówce pocztowej w przypadku pism przesłanych pocztą;
-2) będzie pozostawione w najbliższej jednostce Policji gminy w przypadku pism przesłanych w inny sposób.
+2) będzie pozostawione w najbliższej jednostce Policji gminy — w przypadku pism przesłanych w inny sposób.
 Informacje o pozostawionym piśmie doręczający umieści listy, na drzwiach lub w innym widocznym miejscu. Od 7 dni nato, by je odebrać. Jeśli tego nie zrobisz, doręczający jeszcze raz. Jeśli nie odbierzesz pisma, będzie ono uznane (art. 133 $ 2).
 3. Masz obowiązek usprawiedliwić nieobecność podczas Jeżeli zostałeś wezwany / zostałaś wezwana do stawiennictwa, przyjść z powodu choroby, to musisz usprawiedliwić nieobecność.
 musisz iść do lekarza sądowego, bo tylko on może wystawić które jest uznawane za usprawiedliwienie. Inne zaświadczenie nie będzie uznane za usprawiedliwienie. Listę lekarzy stronie internetowej sądu (art. 117 8 2a).
 W innych sytuacjach czynność może nie być przeprowadzona nieobecność, jeśli odpowiednio usprawiedliwisz niestawiennictwo o to, aby nie przeprowadzano czynności bez Ciebie (art.
-Jeśli jesteś obywatelem polskim i przebywasz za granicą możesz być przesłuchany/przesłuchana przez konsula i ust. 2 ustawy z dnia 25 czerwca 2015 r. Prawo konsularne).
+Jeśli jesteś obywatelem polskim i przebywasz za granicą możesz być przesłuchany/przesłuchana przez konsula i ust. 2 ustawy z dnia 25 czerwca 2015 r. — Prawo konsularne).
 wypadku nie stosuje się przepisów o obowiązku stawiennictwa i konsekwencjach z tym związanych.
 Musisz wiedzieć, że: Opinia sądowo-psychiatryczna Prokurator lub sąd może zlecić badania Twojego stanu Prokurator lub sąd może poprosić dwóch lekarzy psychiatrów, i powiedzieli, co sądzą o Twoim stanie zdrowia psychicznego.
 wyznaczeni przez prokuratora to biegli. Mogą oni prosić pozwolił też innym lekarzom wypowiedzieć się w sprawie zdrowia psychicznego. Prokurator może poprosić, aby psychiatrów wypowiedział się seksuolog, jeżeli ocena związek z pewnymi problemami w sferze seksualnej (art.
@@ -125,11 +125,11 @@ Wynik wywiadu środowiskowego powinien w szczególności
 3) zwięzły opis Twojego dotychczasowego życia oraz dokładne o Twoim środowisku, w tym rodzinnym, szkolnym lub informacje o Twoim stanie majątkowym i źródłach
 4) informacje dotyczące Twojego stanu zdrowia, a także Ciebie alkoholu, środków odurzających, środków zastępczych psychotropowych;
 5) własne spostrzeżenia i konkluzje osoby przeprowadzającej zwłaszcza dotyczące Twoich właściwości i warunków dotychczasowego sposobu życia.
-Osoba, która przeprowadza wywiad, może jedynie na a w postępowaniu przygotowawczym prokuratora, ujawnić które dostarczyły informacji w ramach wywiadu środowiskowego.
+Osoba, która przeprowadza wywiad, może jedynie na a w postępowaniu przygotowawczym — prokuratora, ujawnić które dostarczyły informacji w ramach wywiadu środowiskowego.
 Osoby, które dostarczyły informacji w ramach wywiadu być w razie potrzeby przesłuchane w charakterze świadków.
 Policja jest zobowiązana udzielić osobie, która przeprowadza przy wykonywaniu zadań związanych z wywiadem środowiskowym, zapewnić jej bezpieczeństwo.
 Osoba, która została powołana do przeprowadzenia wywiadu może zostać wyłączona od przeprowadzenia tej czynności.
-a w postępowaniu przygotowawczym prokurator; stosuje przypadku odpowiednio przepisy o wyłączeniu sędziego Środki zapobiegawcze W polskim postępowaniu karnym można stosować różne zapobiegać utrudnianiu procesu karnego (środki zapobiegawcze).
+a w postępowaniu przygotowawczym — prokurator; stosuje przypadku odpowiednio przepisy o wyłączeniu sędziego Środki zapobiegawcze W polskim postępowaniu karnym można stosować różne zapobiegać utrudnianiu procesu karnego (środki zapobiegawcze).
 Mamy jeden środek zapobiegawczy o charakterze izolacyjnym aresztowanie, które może zastosować tylko sąd.
 Tymczasowego aresztowania nie stosuje się, gdy inne wystarczające, np. dozór Policji, który jest środkiem wolnościowym 8 1).
 Sąd może tymczasowe aresztowanie zmienić na poręczenie warunkiem, że zostanie ono wpłacone w określonym terminie.
@@ -146,12 +146,10 @@ Zamiast tymczasowego aresztowania sąd lub prokurator
 2) poręczenie pracodawcy albo kierownictwa szkoły lub zespołu, co oznacza, że te osoby ręczą, że stawisz się i nie będziesz utrudniał/utrudniała postępowania (art.
 3) poręczenie osobiste, co oznacza, że ktoś ważny i ceniony, prezydent miasta lub ktoś inny godny zaufania, obieca, każde wezwanie i nie będziesz utrudniał/utrudniała (art. 272);
 4) dozór Policji, co oznacza, że będziesz miał/miała różne obowiązek, by stawić się na komendzie lub komisariacie w oznaczonym terminie. Możesz też mieć zakaz opuszczania miejsca pobytu, obowiązek zawiadamiania prokuratora o zamierzonym wyjeździe oraz o terminie powrotu, z pokrzywdzonym lub z innymi osobami, zakaz zbliżania osób na wskazaną odległość, np. 100 metrów, zakaz w określonych miejscach, np. tam, gdzie przebywa Obowiązek ten może polegać także na innych ograniczeniach swobody, niezbędnych do wykonywania dozoru. Jeżeli z wyjątkiem żołnierza pełniącego terytorialną służbę dyspozycyjnie, dozór będzie sprawował Twój przełożony (art. 275);
-5)
-6)
-7)
-8) nakaz okresowego opuszczenia lokalu lub zakaz zbliżania pokrzywdzonego na wskazaną odległość, jeżeli postawiono przestępstwa popełnionego z użyciem przemocy na mieszkałeś (art. 275a);
-zawieszenie Cię w czynnościach służbowych lub w wykonywaniu albo nakaz, byś się powstrzymał/powstrzymała od Może to np. dotyczyć prowadzenia działalności gospodarczej materiałów niebezpiecznych) albo wykonywania zawodu też mieć nakaz powstrzymania się od prowadzenia pojazdów albo zakaz ubiegania się o zamówienia publiczne zakaz zbliżania się do pokrzywdzonego na wskazaną kontaktów lub zakaz publikacji, w tym za pośrednictwem informatycznych lub sieci telekomunikacyjnych, treści, w prawnie chronione dobra pokrzywdzonego, gdy jesteś o przestępstwo popełnione w stosunku do członka który wykonywał czynności opieki medycznej, lub osoby personelowi medycznemu do pomocy w związku z czynności, co oznacza, że sąd lub prokurator może np. pobiłeś ratownika medycznego, gdy próbował udzielić sam środek można zastosować, gdy zostałeś oskarżony nękanie, czyli stalking, z powodu zawodu wykonywanego pokrzywdzonego (art. 276a);
-zakaz opuszczania Polski, który może być połączony paszportu lub innego dokumentu uprawniającego do albo z zakazem wydania takiego dokumentu (art. 277).
+5) nakaz okresowego opuszczenia lokalu lub zakaz zbliżania pokrzywdzonego na wskazaną odległość, jeżeli postawiono przestępstwa popełnionego z użyciem przemocy na mieszkałeś (art. 275a);
+6) zawieszenie Cię w czynnościach służbowych lub w wykonywaniu albo nakaz, byś się powstrzymał/powstrzymała od Może to np. dotyczyć prowadzenia działalności gospodarczej materiałów niebezpiecznych) albo wykonywania zawodu też mieć nakaz powstrzymania się od prowadzenia pojazdów albo zakaz ubiegania się o zamówienia publiczne
+7) zakaz zbliżania się do pokrzywdzonego na wskazaną kontaktów lub zakaz publikacji, w tym za pośrednictwem informatycznych lub sieci telekomunikacyjnych, treści, w prawnie chronione dobra pokrzywdzonego, gdy jesteś o przestępstwo popełnione w stosunku do członka który wykonywał czynności opieki medycznej, lub osoby personelowi medycznemu do pomocy w związku z czynności, co oznacza, że sąd lub prokurator może np. pobiłeś ratownika medycznego, gdy próbował udzielić sam środek można zastosować, gdy zostałeś oskarżony nękanie, czyli stalking, z powodu zawodu wykonywanego pokrzywdzonego (art. 276a);
+8) zakaz opuszczania Polski, który może być połączony paszportu lub innego dokumentu uprawniającego do albo z zakazem wydania takiego dokumentu (art. 277).
 Rozprawy w sprawach karnych są jawne, co oznacza, że obecna publiczność (osoby obce lub znajome, które będą rozprawy) (art. 355).
 Sąd może wyłączyć jawność rozprawy, jeżeli jawna rozprawa
 1) wywołać zakłócenie spokoju publicznego;
@@ -169,7 +167,7 @@ Pouczenie o uprawnieniach i obowiązkach podejrzanego, który nie ukończył Otr
 Jako podejrzany masz prawo wiedzieć, jakie są Twoje Masz prawo otrzymać to pouczenie na piśmie, przed pierwszym przesłuchaniem.
 Przeczytaj dokładnie to pouczenie.
 Masz obowiązek podpisać oświadczenie, w którym potwierdzisz, to pouczenie.
-Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. Kodeks postępowania Takie samo pouczenie otrzyma Twój przedstawiciel ustawowy opiekun) albo osoba, która się Tobą opiekuje, albo pełnoletnia wskażesz lub którą wyznaczy sąd.
+Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej — są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. — Kodeks postępowania Takie samo pouczenie otrzyma Twój przedstawiciel ustawowy opiekun) albo osoba, która się Tobą opiekuje, albo pełnoletnia wskażesz lub którą wyznaczy sąd.
 Twój przedstawiciel ustawowy (rodzic lub opiekun) albo opiekuje, może podejmować na Twoją korzyść wszystkie np. wnosić o przeprowadzenie dowodu, składać apelację Twoje prawa i obowiązki w postępowaniu karnym Jako podejrzany:
 1. Masz prawo zdecydować, czy i jakie wyjaśnienia złożysz Możesz składać wyjaśnienia, odmówić składania wyjaśnień odpowiedzi na poszczególne pytania. Nie musisz tłumaczyć, odmawiasz odpowiedzi na pytania lub odmawiasz składania 8 1).
 W trakcie przesłuchania w postępowaniu przygotowawczym abyś mógł składać wyjaśnienia na piśmie. Przesłuchujący nie zgodzić, jeśli ma ważne powody (art. 1768 1i2).
@@ -189,16 +187,16 @@ Podczas śledztwa lub dochodzenia możesz żądać, aby udział Twój obrońca. 
 Jeżeli w toku postępowania ukończysz 18 lat i sąd cofnie z urzędu, a nie stać Cię na to, by zapłacić obrońcy (nie kosztów obrońcy bez szkody dla niezbędnego utrzymania rodziny), sąd może wyznaczyć Ci obrońcę z urzędu do albo do dokonania konkretnej czynności procesowej (art.
 Pamiętaj: gdy składasz wniosek o wyznaczenie obrońcy dowody, które potwierdzą, że nie jesteś w stanie samodzielnie (np. zaświadczenie o zarobkach, o wydatkach związanych rodziny, mieszkania).
 W trakcie postępowania przygotowawczego możesz złożyć organowi prowadzącemu postępowanie, który przekaże bezpośrednio do sądu. Zawsze napisz, o jaką sprawę chodzi.
-W trakcie postępowania sądowego możesz złożyć takie od momentu, gdy otrzymasz odpis aktu oskarżenia. Jeżeli terminu lub nie dołączysz dowodów, Twój wniosek może dopiero po terminie rozprawy lub posiedzenia (art. 338b$ Jeśli stwierdzisz, że potrzebujesz obrońcy z urzędu dopiero terminie rozprawy lub posiedzenia zawnioskuj o niego sąd zdążył rozpatrzyć Twoje żądanie przed kolejną rozprawą posiedzeniem (art. 338b 8 3).
+W trakcie postępowania sądowego możesz złożyć takie od momentu, gdy otrzymasz odpis aktu oskarżenia. Jeżeli terminu lub nie dołączysz dowodów, Twój wniosek może dopiero po terminie rozprawy lub posiedzenia (art. 338b$ Jeśli stwierdzisz, że potrzebujesz obrońcy z urzędu dopiero terminie rozprawy lub posiedzenia — zawnioskuj o niego sąd zdążył rozpatrzyć Twoje żądanie przed kolejną rozprawą posiedzeniem (art. 338b 8 3).
 Jeśli zostaniesz skazany/skazana lub postępowanie zostanie umorzone, możesz zostać obciążony/obciążona kosztami (art. 627 i art. 629).
 3. Masz prawo korzystać z pomocy tłumacza Jeżeli nie znasz wystarczająco dobrze języka polskiego, z pomocy tłumacza.
-Ty lub Twój obrońca możecie zawnioskować o bezpłatną Pomoże Ci on w kontakcie z Twoim obrońcą w trakcie postępowania, w których uczestniczysz (art. 7/281i2).
+Ty lub Twój obrońca możecie zawnioskować o bezpłatną Pomoże Ci on w kontakcie z Twoim obrońcą w trakcie postępowania, w których uczestniczysz (art. 7/28 1i2).
 W trakcie postępowania dostaniesz tłumaczenia dokumentów j a k :
 1) postanowienie o przedstawieniu, uzupełnieniu oraz
 2) akt oskarżenia;
 3) orzeczenia podlegające zaskarżeniu;
 4) orzeczenia kończące postępowanie.
-Prowadzący postępowanie może tylko przeczytać (ogłosić) orzeczenie kończące postępowanie jeśli się na to zgodzisz ono zaskarżeniu (art. 72 $ 3).
+Prowadzący postępowanie może tylko przeczytać (ogłosić) orzeczenie kończące postępowanie — jeśli się na to zgodzisz ono zaskarżeniu (art. 72 $ 3).
 4. Masz prawo dostępu do informacji o treści zarzutów W trakcie postępowania przygotowawczego masz prawo podejrzany:
 1) jakie postawiono Ci zarzuty;
 2) czy zarzuty zostały uzupełnione lub zmienione w trakcie
@@ -217,9 +215,9 @@ W postępowaniu przygotowawczym prowadzący postępowanie odmówić Tobie i Twoj
 Jeśli podczas śledztwa lub dochodzenia zażądasz udziału czynnościach, prokurator może Ci odmówić udziału w się to stać w szczególnie uzasadnionym przypadku ze względu postępowania. Jeżeli jesteś pozbawiony/pozbawiona wolności, może odmówić Ci udziału w czynności, gdy sprowadzenie poważne trudności (art. 317).
 Jeżeli czynność postępowania nie będzie mogła być powtórzona Ty i Twój obrońca możecie wziąć w niej udział, chyba że przeprowadzeniu spowoduje utratę lub zniekształcenie Jeśli istnieje obawa, że jakiegoś świadka nie będzie można w trakcie rozprawy, możesz zawnioskować o jego przesłuchanie zwrócić się do prokuratora o spowodowanie przesłuchania trybie (art. 316 8 3).
 Jeśli w postępowaniu dopuszczono dowód z opinii biegłego, możecie wziąć udział w jego przesłuchaniu oraz zapoznać opinią (art. 318).
-6. Masz prawo dostępu do akt sprawy W każdym momencie śledztwa lub dochodzenia również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
+6. Masz prawo dostępu do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
 śledztwo lub dochodzenie może odmówić Ci dostępu ważny interes państwa lub dobro postępowania. Akta w postaci elektronicznej.
-Jeżeli przed skierowaniem sprawy do sądu prokurator wniosek o tymczasowe aresztowanie lub przedłużenie tymczasowego aresztowania Tobie i Twojemu obrońcy Sprawy w tej części, która zawiera dowody dołączone uzasadniona obawa niebezpieczeństwa dla życia, zdrowia świadka lub osoby dla niego najbliższej, zeznania takiego udostępnione (art. 156$5i85a).
+Jeżeli przed skierowaniem sprawy do sądu prokurator wniosek o tymczasowe aresztowanie lub przedłużenie tymczasowego aresztowania — Tobie i Twojemu obrońcy Sprawy w tej części, która zawiera dowody dołączone uzasadniona obawa niebezpieczeństwa dla życia, zdrowia świadka lub osoby dla niego najbliższej, zeznania takiego udostępnione (art. 156$5i85a).
 Po skierowaniu sprawy do sądu Ty i Twój obrońca uzyskacie akt sprawy i będziecie mogli otrzymać kopie i odpisy żądanych lub samodzielnie je sporządzić (np. fotokopie). Jeżeli jest technicznie, informacje o aktach sprawy mogą być udostępnione pomocą systemu teleinformatycznego (art. 156 8 1).
 7. Masz prawo do końcowego zaznajomienia z materiałami Przed zamknięciem postępowania możesz wnioskować zaznajomienie z materiałami postępowania. W tej czynności Twój obrońca (art. 3218 1i3).
 W terminie 3 dni od daty zaznajomienia z materiałami złożyć wniosek o uzupełnienie postępowania (art. 321 Przed końcowym zaznajomieniem z materiałami postępowania przejrzenia akt, które mogą być udostępnione również (art. 321 8 1).
@@ -244,18 +242,18 @@ Jeśli nie przebywasz w kraju ani w innym państwie Unii wskazać adresata (osob
 Jeżeli zmienisz miejsce zamieszkania lub pobytu, w tym pozbawienia wolności w innej sprawie, albo adres skrytki podać nowy adres (art. 139).
 Jeśli nie poinformujesz prowadzącego postępowanie o o zmianie swojego adresu zamieszkania, pobytu lub skrytki wysyłane na dotychczasowy adres będą uznawane za Jeśli pisma nie można dostarczyć Ci osobiście, przekazać domownikowi lub do Twojej skrzynki pocztowej, pismo
 1) będzie pozostawione w najbliższej placówce pocztowej w przypadku pism przesłanych pocztą;
-2) będzie pozostawione w najbliższej jednostce Policji gminy w przypadku pism przesłanych w inny sposób.
+2) będzie pozostawione w najbliższej jednostce Policji gminy — w przypadku pism przesłanych w inny sposób.
 Informacje o pozostawionym piśmie doręczający umieści listy, na drzwiach lub w innym widocznym miejscu. Od 7 dni na to, by je odebrać. Jeśli tego nie zrobisz, doręczający jeszcze raz. Jeśli nie odbierzesz pisma, będzie ono uznane (art. 13382).
 3. Masz obowiązek usprawiedliwić nieobecność podczas Jeżeli zostałeś wezwany / zostałaś wezwana do stawiennictwa, przyjść z powodu choroby, to musisz usprawiedliwić nieobecność.
 musisz iść do lekarza sądowego, bo tylko on może wystawić które jest uznawane za usprawiedliwienie. Inne zaświadczenie nie będzie uznane za usprawiedliwienie. Listę lekarzy sądowych stronie internetowej sądu (art. 117 8 2a).
 W innych sytuacjach czynność może nie być przeprowadzona nieobecność, jeśli odpowiednio usprawiedliwisz niestawiennictwo o to, aby nie przeprowadzano czynności bez Ciebie (art.
-Jeśli jesteś obywatelem polskim i przebywasz za granicą możesz być przesłuchany/przesłuchana przez konsula i ust. 2 ustawy z dnia 25 czerwca 2015 r. Prawo konsularne).
+Jeśli jesteś obywatelem polskim i przebywasz za granicą możesz być przesłuchany/przesłuchana przez konsula i ust. 2 ustawy z dnia 25 czerwca 2015 r. — Prawo konsularne).
 wypadku nie stosuje się przepisów o obowiązku stawiennictwa i konsekwencjach z tym związanych.
 Musisz wiedzieć, że: Opinia sądowo-psychiatryczna Prokurator lub sąd może zlecić badania Twojego stanu Prokurator lub sąd może poprosić dwóch lekarzy psychiatrów, i powiedzieli, co sądzą o Twoim stanie zdrowia psychicznego.
 wyznaczeni przez prokuratora to biegli. Mogą oni prosić pozwolił też innym lekarzom wypowiedzieć się w sprawie zdrowia psychicznego. Prokurator może poprosić, aby psychiatrów wypowiedział się seksuolog, jeżeli ocena Twojego związek z pewnymi problemami w sferze seksualnej (art.
 Prokurator lub sąd może też poprosić, aby zbadał Cię psycholog.
 prosić o to lekarzy, np. psychiatrę, aby ocenił, czy w ogóle stan zdrowia psychicznego (art. 215).
-Biegli nie mogą pozostawać ze sobą w związku małżeńskim stosunku, który mógłby wywołać uzasadnioną wątpliwość samodzielności (art. 202 $ 4).
+Biegli nie mogą pozostawać ze sobą w związku małżeńskim stosunku, który mógłby wywołać uzasadnioną wątpliwość samodzielności (art. 202 8 4).
 Opinia biegłych powinna zawierać stwierdzenia dotyczące poczytalności w chwili popełnienia zarzucanego czynu, aktualnego stanu zdrowia psychicznego, a zwłaszcza wskazanie, pozwala na Twój udział w postępowaniu i na prowadzenie samodzielny i rozsądny, a w razie potrzeby także stwierdzenia okoliczności wymienionych w art. 93b Kodeksu karnego Wywiad środowiskowy W razie potrzeby, a w szczególności gdy niezbędne jest Twoich właściwości i warunków osobistych oraz dotychczasowego życia, sąd, a w postępowaniu przygotowawczym prokurator, kurator sądowy lub inny podmiot uprawniony na podstawie przepisów, a w szczególnie uzasadnionych wypadkach wywiad środowiskowy na Twój temat.
 Przeprowadzenie wywiadu środowiskowego jest obowiązkowe:
 1) w sprawach o zbrodnie;
@@ -268,11 +266,11 @@ Wynik wywiadu środowiskowego powinien w szczególności
 3) zwięzły opis Twojego dotychczasowego życia oraz dokładne o Twoim środowisku, w tym rodzinnym, szkolnym lub informacje o Twoim stanie majątkowym i źródłach
 4) informacje dotyczące Twojego stanu zdrowia, a także Ciebie alkoholu, środków odurzających, środków zastępczych psychotropowych;
 5) własne spostrzeżenia i konkluzje osoby przeprowadzającej zwłaszcza dotyczące Twoich właściwości i warunków dotychczasowego sposobu życia.
-Osoba, która przeprowadza wywiad, może jedynie na a w postępowaniu przygotowawczym prokuratora, ujawnić które dostarczyły informacji w ramach wywiadu środowiskowego.
+Osoba, która przeprowadza wywiad, może jedynie na a w postępowaniu przygotowawczym — prokuratora, ujawnić które dostarczyły informacji w ramach wywiadu środowiskowego.
 Osoby, które dostarczyły informacji w ramach wywiadu być w razie potrzeby przesłuchane w charakterze Świadków.
 Policja jest zobowiązana udzielić osobie, która przeprowadza przy wykonywaniu zadań związanych z wywiadem środowiskowym, zapewnić jej bezpieczeństwo.
 Osoba, która została powołana do przeprowadzenia wywiadu może zostać wyłączona od przeprowadzenia tej czynności.
-a w postępowaniu przygotowawczym prokurator; stosuje przypadku odpowiednio przepisy o wyłączeniu sędziego Środki zapobiegawcze W polskim postępowaniu karnym można stosować różne zapobiegać utrudnianiu procesu karnego (środki zapobiegawcze).
+a w postępowaniu przygotowawczym — prokurator; stosuje przypadku odpowiednio przepisy o wyłączeniu sędziego Środki zapobiegawcze W polskim postępowaniu karnym można stosować różne zapobiegać utrudnianiu procesu karnego (środki zapobiegawcze).
 Mamy jeden środek zapobiegawczy o charakterze izolacyjnym aresztowanie, które może zastosować tylko sąd.
 Tymczasowego aresztowania nie stosuje się, gdy inne wystarczające, np. dozór Policji, który jest środkiem wolnościowym 8 1 ) .
 Sąd może tymczasowe aresztowanie zmienić na poręczenie warunkiem, że zostanie ono wpłacone w określonym terminie.
@@ -292,17 +290,15 @@ Gdy nie masz ukończonych 18 lat, a sąd zastosuje wobec aresztowanie, w celi ni
 5) potrzebą kształtowania właściwej atmosfery wśród aresztowanych;
 6) koniecznością zapobiegania samoagresji i popełnianiu tymczasowego aresztowania;
 7) wskazaniami organu, do którego dyspozycji zostałeś osadzona w areszcie śledczym.
-Podobne zasady stosuje się również podczas konwojowania z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy).
+Podobne zasady stosuje się również podczas konwojowania z dnia 6 czerwca 1997 r. — Kodeks karny wykonawczy).
 Zamiast tymczasowego aresztowania sąd lub prokurator
 1) poręczenie majątkowe, co oznacza, że Ty albo inna wpłacić pieniądze na określone konto, oddać rzeczy hipotekę na dom (art. 266);
 2) poręczenie pracodawcy albo kierownictwa szkoły lub zespołu, co oznacza, że te osoby ręczą, że stawisz się i nie będziesz utrudniał/utrudniała postępowania (art.
 3) poręczenie osobiste, co oznacza, że ktoś ważny i ceniony, prezydent miasta lub ktoś inny godny zaufania, obieca, każde wezwanie i nie będziesz utrudniał/utrudniała (art. 272);
-4) dozór Policji, co oznacza, że będziesz miał/miała różne obowiązek by stawić się na komendzie lub komisariacie w oznaczonym terminie. Możesz też mieć zakaz opuszczania miejsca pobytu, obowiązek zawiadamiania prokuratora
-5)
-6)
-7) o zamierzonym wyjeździe oraz o terminie powrotu, z pokrzywdzonym lub z innymi osobami, zakaz zbliżania osób na wskazaną odległość, np. 100 metrów, zakaz w określonych miejscach, np. tam, gdzie przebywa Obowiązek ten może polegać także na innych ograniczeniach swobody, niezbędnych do wykonywania dozoru (art.
-nakaz okresowego opuszczenia lokalu lub zakaz zbliżania pokrzywdzonego na wskazaną odległość, jeżeli postawiono przestępstwa popełnionego z użyciem przemocy na mieszkałeś (art. 275a);
-zawieszenie Cię w czynnościach służbowych lub w wykonywaniu albo nakaz, byś się powstrzymał/powstrzymała od Może to np. dotyczyć prowadzenia działalności gospodarczej materiałów niebezpiecznych) albo wykonywania zawodu też mieć nakaz powstrzymania się od prowadzenia pojazdów albo zakaz ubiegania się o zamówienia publiczne zakaz zbliżania się do pokrzywdzonego na wskazaną kontaktów lub zakaz publikacji, w tym za pośrednictwem informatycznych lub sieci telekomunikacyjnych, treści chronione dobra pokrzywdzonego, gdy jesteś oskarżony popełnione w stosunku do członka personelu medycznego, z wykonywaniem przez niego czynności opieki medycznej, przybranej personelowi medycznemu do pomocy w z wykonywaniem tych czynności, co oznacza, że sąd stosować ten środek, jeśli np. pobiłeś ratownika medycznego, udzielić Ci pomocy. Ten sam środek można zastosować, oskarżony o uporczywe nękanie, czyli stalking, z powodu wykonywanego przez pokrzywdzonego (art. 276a);
+4) dozór Policji, co oznacza, że będziesz miał/miała różne obowiązek by stawić się na komendzie lub komisariacie w oznaczonym terminie. Możesz też mieć zakaz opuszczania miejsca pobytu, obowiązek zawiadamiania prokuratora o zamierzonym wyjeździe oraz o terminie powrotu, z pokrzywdzonym lub z innymi osobami, zakaz zbliżania osób na wskazaną odległość, np. 100 metrów, zakaz w określonych miejscach, np. tam, gdzie przebywa Obowiązek ten może polegać także na innych ograniczeniach swobody, niezbędnych do wykonywania dozoru (art.
+5) nakaz okresowego opuszczenia lokalu lub zakaz zbliżania pokrzywdzonego na wskazaną odległość, jeżeli postawiono przestępstwa popełnionego z użyciem przemocy na mieszkałeś (art. 275a);
+6) zawieszenie Cię w czynnościach służbowych lub w wykonywaniu albo nakaz, byś się powstrzymał/powstrzymała od Może to np. dotyczyć prowadzenia działalności gospodarczej materiałów niebezpiecznych) albo wykonywania zawodu też mieć nakaz powstrzymania się od prowadzenia pojazdów albo zakaz ubiegania się o zamówienia publiczne
+7) zakaz zbliżania się do pokrzywdzonego na wskazaną kontaktów lub zakaz publikacji, w tym za pośrednictwem informatycznych lub sieci telekomunikacyjnych, treści chronione dobra pokrzywdzonego, gdy jesteś oskarżony popełnione w stosunku do członka personelu medycznego, z wykonywaniem przez niego czynności opieki medycznej, przybranej personelowi medycznemu do pomocy w z wykonywaniem tych czynności, co oznacza, że sąd stosować ten środek, jeśli np. pobiłeś ratownika medycznego, udzielić Ci pomocy. Ten sam środek można zastosować, oskarżony o uporczywe nękanie, czyli stalking, z powodu wykonywanego przez pokrzywdzonego (art. 276a);
 8) zakaz opuszczania Polski, który może być połączony paszportu lub innego dokumentu uprawniającego do albo z zakazem wydania takiego dokumentu (art. 277).
 W śledztwie lub dochodzeniu podczas czynności z Twoim obecny Twój przedstawiciel ustawowy (rodzic lub opiekun) Tobą opiekuje.
 Możesz wskazać inną osobę pełnoletnią, aby była przy czynności. Możesz to zrobić wtedy, gdy nie masz rodziców gdy prokurator uzna, że nie powinni brać udziału w tych (art. 299b).
@@ -326,7 +322,7 @@ W postępowaniu sądowym w zależności od etapu sprawa przez sąd rejonowy, są
 obowiązek wyjaśnić Ci Twoje prawa i obowiązki w kompletny sposób.
 Pouczenie o uprawnieniach i obowiązkach pokrzywdzonego Otrzymujesz to pouczenie, bo jesteś pokrzywdzonym.
 Jako pokrzywdzony masz prawo wiedzieć, jakie są Twoje Przeczytaj dokładnie to pouczenie.
-Masz obowiązek podpisać oświadczenie, w którym potwierdzisz, Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. Kodeks postępowania Pokrzywdzony:
+Masz obowiązek podpisać oświadczenie, w którym potwierdzisz, Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej — są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. — Kodeks postępowania Pokrzywdzony:
 1) jest stroną w postępowaniu przygotowawczym;
 Postępowanie przygotowawcze to etap postępowania poprzedza późniejsze wniesienie sprawy do sądu (art.
 2) może być stroną (oskarżycielem posiłkowym) w postępowaniu jeżeli tego zażąda.
@@ -340,10 +336,10 @@ Jeżeli pokrzywdzonym jest osoba ubezwłasnowolniona częściowo, prawa jego wyk
 Jeżeli pokrzywdzonym jest osoba nieporadna, w szczególności wiek lub stan zdrowia, jego prawa może wykonywać osoba, pokrzywdzony pozostaje (art. 51).
 W razie śmierci pokrzywdzonego prawa, które by mu przysługiwały, wykonywać osoby najbliższe lub osoby pozostające na (art. 52).
 Twoje prawa i obowiązki jako pokrzywdzonego w postępowaniu
-1. Prawo do korzystania z pomocy prawnej Możesz ustanowić pełnomocnika adwokata lub radcę Pełnomocnik będzie Cię reprezentował w toczącym się (art. 87 $ 1).
+1. Prawo do korzystania z pomocy prawnej Możesz ustanowić pełnomocnika — adwokata lub radcę Pełnomocnik będzie Cię reprezentował w toczącym się (art. 87 8 1).
 Pełnomocnik może reprezentować Cię w toku całego postępowania konkretnej czynności procesowej.
 Pełnomocnik wybrany przez Ciebie Możesz samodzielnie ustanowić pełnomocnika. W takim go opłacasz. Możesz wybrać nie więcej niż trzech pełnomocników, reprezentować Cię w trakcie postępowania karnego (art.
-Pełnomocnik wyznaczony przez sąd pełnomocnik z urzędu Jeżeli wykażesz, że nie stać Cię na to, by zapłacić pełnomocnikowi w stanie ponieść kosztów pełnomocnika bez szkody dla utrzymania Ciebie i Twojej rodziny), sąd może wyznaczyć z urzędu do całego postępowania albo do dokonania konkretnej procesowej (art. 78 8 1i la i art. 88).
+Pełnomocnik wyznaczony przez sąd — pełnomocnik z urzędu Jeżeli wykażesz, że nie stać Cię na to, by zapłacić pełnomocnikowi w stanie ponieść kosztów pełnomocnika bez szkody dla utrzymania Ciebie i Twojej rodziny), sąd może wyznaczyć z urzędu do całego postępowania albo do dokonania konkretnej procesowej (art. 78 8 1i la i art. 88).
 Pamiętaj: gdy składasz wniosek o wyznaczenie pełnomocnika dołącz dowody, które potwierdzą, że nie jesteś w stanie pełnomocnikowi (np. zaświadczenie o zarobkach, o wydatkach z utrzymaniem rodziny, mieszkania).
 W trakcie postępowania przygotowawczego możesz złożyć organowi prowadzącemu postępowanie, który przekaże bezpośrednio do sądu. Zawsze napisz, o jaką sprawę chodzi.
 2. Prawo do korzystania z pomocy tłumacza Masz prawo do tłumacza, jeżeli:
@@ -355,12 +351,12 @@ W trakcie postępowania przygotowawczego możesz złożyć organowi prowadzącem
 Czynność nie zostanie przeprowadzona:
 1) jeżeli się nie stawisz, a nie ma dowodu, że o terminie powiadomiono;
 2) jeżeli zachodzi uzasadnione przypuszczenie, że nie się z powodu przeszkód żywiołowych lub innych wyjątkowych wypadek);
-3) gdy usprawiedliwiłeś/usprawiedliwiłaś odpowiednio i wniosłeś/wniosłaś o to, aby nie przeprowadzać czynności że ustawa będzie na to pozwalać (art. 11781i2).
+3) gdy usprawiedliwiłeś/usprawiedliwiłaś odpowiednio i wniosłeś/wniosłaś o to, aby nie przeprowadzać czynności że ustawa będzie na to pozwalać (art. 1178 1i2).
 4. Obecność osoby wskazanej przez pokrzywdzonego W postępowaniu przygotowawczym możesz wskazać osobę, i poinformować, że chcesz, aby była obecna podczas czynności udziałem. Osoba ta będzie mogła być obecna, jeżeli nie przeprowadzenia czynności lub nie utrudni jej w istotny W aktach sprawy nie ma Twojego adresu miejsca zamieszkania, pracy, numeru telefonu, telefaksu ani adresu poczty elektronicznej.
 zamieszczone w odrębnym załączniku. Może się z nim prowadzący postępowanie.
 Sąd lub organ prowadzący postępowanie przygotowawcze dane tylko wyjątkowo (art. 148a i art. 156a).
 Pytania zadawane Ci w trakcie przesłuchania nie mogą Twojego miejsca zamieszkania, miejsca pracy. Jest to dozwolone gdy ma znaczenie dla rozstrzygnięcia sprawy (art. 191
-6. Dostęp do akt sprawy W każdym momencie śledztwa lub dochodzenia również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
+6. Dostęp do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
 Prowadzący śledztwo lub dochodzenie może odmówić względu na ważny interes państwa lub dobro postępowania.
 udostępnione w postaci elektronicznej.
 Jeżeli prokurator odmówi Ci dostępu do akt, musi Cię o możliwości udostępnienia Ci akt w późniejszym terminie.
@@ -377,7 +373,7 @@ Informacja dotycząca tymczasowego aresztowania Sąd albo prokurator (w zależno
 Jeśli zrezygnujesz z tego uprawnienia i oświadczysz, że zawiadamiany, nie otrzymasz tych informacji (art. 253 Informacja o zarzutach Możesz złożyć wniosek do sądu, aby powiadomił Cię, jakie przedstawiono oskarżonemu oraz jaka jest ich kwalifikacja Jeżeli wnioski złoży wielu pokrzywdzonych, informacja kwalifikacji prawnej może zostać umieszczona w ogłoszeniu internetowej sądu (art. 337a). Wtedy nie otrzymasz informacji Tylko do Ciebie.
 Termin posiedzenia sądu Będziesz poinformowany/poinformowana o miejscu i sądu w przedmiocie umorzenia postępowania, warunkowego postępowania oraz wydania wyroku skazującego bez przeprowadzenia rozprawy (art. 339, art. 341 i art. 343).
 9. Uprawnienia związane z czynnościami procesowymi Jeżeli złożyłeś/złożyłaś zawiadomienie o przestępstwie, potwierdzenie złożenia tego zawiadomienia. W tym celu o wydanie potwierdzenia (art. 304b).
-Możesz zawnioskować o to, by prowadzący postępowanie czynność, np. przesłuchał świadka, uzyskał jakiś dokument z opinii biegłego (art. 315 $ 1) jest to wniosek dowodowy.
+Możesz zawnioskować o to, by prowadzący postępowanie czynność, np. przesłuchał świadka, uzyskał jakiś dokument z opinii biegłego (art. 315 $ 1) — jest to wniosek dowodowy.
 Prowadzący może nie uwzględnić Twojego wniosku dowodowego,
 1) przeprowadzenie dowodu jest niedopuszczalne;
 2) okoliczność, która ma być udowodniona, nie ma znaczenia rozstrzygnięcia sprawy albo jest już udowodniona zgodnie wnioskodawcy;
@@ -393,7 +389,7 @@ Jeśli w postępowaniu dopuszczono dowód z opinii biegłego, się z pisemną op
 Możesz złożyć wniosek o uzupełnienie śledztwa lub dochodzenia.
 należy złożyć w terminie 3 dni od daty czynności nazywanej zaznajomieniem podejrzanego z materiałami postępowania Możesz złożyć zażalenie na:
 1) bezczynność organu, jeżeli w ciągu 6 tygodni od złożenia o przestępstwie nie zostaniesz powiadomiony/powiadomiona albo odmowie wszczęcia postępowania przygotowawczego dochodzenia (art. 306 $ 3);
-2) postanowienie o odmowie wszczęcia lub umorzeniu przygotowawczego śledztwa lub dochodzenia (art.
+2) postanowienie o odmowie wszczęcia lub umorzeniu przygotowawczego — śledztwa lub dochodzenia (art.
 zrobić w terminie 7 dni od daty doręczenia postanowienia.
 sporządzenia zażalenia masz prawo do przejrzenia prokurator może udostępnić Ci także w postaci elektronicznej $ 1 b ) ;
 3) postanowienia i zarządzenia zamykające drogę do wydania że ustawa stanowi inaczej), co do środka zabezpieczającego jest to przewidziane w ustawie (art. 459);
@@ -416,16 +412,16 @@ Oznacza to, że we wniosku (piśmie) wskazujesz dwóch
 2) komendanta wojewódzkiego (Komendanta Stołecznego) Komendant Wojewódzki (Stołeczny) Policji (tutaj należy komendanta) za pośrednictwem organ prowadzący postępowanie (tutaj wpisujesz dane Wniosek składasz w organie prowadzącym postępowanie albo w sądzie. Organ, który otrzymał wniosek, przekaże komendantowi.
 Możesz złożyć wniosek o wykonanie wydanego w Polsce Ciebie lub kontaktowania się przez sprawcę z Tobą także członkowskim Unii Europejskiej. Jest to tak zwany europejski (art. 611w-611wc).
 15. Prawo do uzyskania pomocy Ty i Twoi najbliżsi możecie otrzymać bezpłatną pomoc psychologiczną, rehabilitacyjną, prawną oraz materialną Pomocy dla Osób Pokrzywdzonych Przestępstwem (art.
-z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy).
+z dnia 6 czerwca 1997 r. — Kodeks karny wykonawczy).
 Szczegółowe informacje na temat tej pomocy można internetowej https://www.gov.pl/web/sprawiedliwosc/funduszsprawiedliwosci lub pod numerem telefonu +48 222 309
 16. Prawo do wystąpienia o kompensatę państwową Jeśli masz miejsce stałego pobytu na terytorium Rzeczypospolitej terytorium innego państwa członkowskiego Unii Europejskiej, sądu wniosek o przyznanie Ci kompensaty państwowej.
 Prawo to wynika z ustawy z dnia 7 lipca 2005 r. o państwowej przysługującej ofiarom niektórych czynów zabronionych.
 Kompensata może być przyznana w kwocie pokrywającej
 1) utracone zarobki lub inne środki utrzymania,
 2) koszty związane z leczeniem i rehabilitacją,
-3) koszty pogrzebu będące skutkiem czynu zabronionego, przez który osoba
+3) koszty pogrzebu — będące skutkiem czynu zabronionego, przez który osoba
 1) poniosła śmierć,
-2) doznała ciężkiego uszczerbku na zdrowiu, naruszenia lub rozstroju zdrowia trwające dłużej niż 7 dni.
+2) doznała ciężkiego uszczerbku na zdrowiu, naruszenia lub rozstroju zdrowia — trwające dłużej niż 7 dni.
 Wniosek możesz złożyć jedynie wtedy, gdy nie możesz sprawcy, z tytułu ubezpieczenia lub ze środków pomocy Jeśli coś jest dla Ciebie niejasne lub potrzebujesz więcej możesz zapytać o nie prowadzącego Twoje postępowanie.
 obowiązek wyjaśnić Ci Twoje prawa i obowiązki w kompletny sposób.
 Pouczenie o uprawnieniach i obowiązkach pokrzywdzonego, który nie ukończył Otrzymujesz to pouczenie, bo jesteś pokrzywdzonym.
@@ -434,7 +430,7 @@ Opisane w tym pouczeniu Twoje prawa jako pokrzywdzonego Twój przedstawiciel ust
 Twoim reprezentantem w sprawie karnej będzie wtedy prawny (art. 99" Kodeksu rodzinnego i opiekuńczego).
 Jeżeli w trakcie postępowania ukończysz 18 lat, będziesz korzystać z uprawnień pokrzywdzonego.
 Osoba, która będzie wykonywać Twoje prawa (rodzic swoim podpisem, że otrzymałeś to pouczenie.
-Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. Kodeks postępowania Pokrzywdzony:
+Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej — są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. — Kodeks postępowania Pokrzywdzony:
 1) jest stroną w postępowaniu przygotowawczym;
 Postępowanie przygotowawcze to etap postępowania poprzedza późniejsze wniesienie sprawy do sądu (art.
 2) może być stroną (oskarżycielem posiłkowym) w postępowaniu jeżeli tego zażąda.
@@ -444,10 +440,10 @@ najpóźniej do czasu rozpoczęcia przewodu sądowego, przedstawienia zarzutów 
 2) pisemnie, czyli złożyć pismo.
 Jeżeli w przewidzianym terminie nie złożysz oświadczenia, oskarżycielem posiłkowym, nie będziesz mógł/mogła że nie będziesz mógł/mogła skorzystać z uprawnień, które sądowym przysługują oskarżycielowi posiłkowemu (a pokrzywdzonemu).
 Twoje prawa i obowiązki jako pokrzywdzonego w postępowaniu
-1. Prawo do korzystania z pomocy prawnej Możesz ustanowić pełnomocnika adwokata lub radcę Pełnomocnik będzie Cię reprezentował w toczącym się ( a r t . 87 $ 1 ) .
+1. Prawo do korzystania z pomocy prawnej Możesz ustanowić pełnomocnika — adwokata lub radcę Pełnomocnik będzie Cię reprezentował w toczącym się ( a r t . 87 $ 1 ) .
 Pełnomocnik może reprezentować Cię w toku całego postępowania konkretnej czynności procesowej.
 Pełnomocnik wybrany przez Ciebie Możesz samodzielnie ustanowić pełnomocnika. W takim go opłacasz. Możesz wybrać nie więcej niż trzech pełnomocników, reprezentować Cię w trakcie postępowania karnego (art.
-Pełnomocnik wyznaczony przez sąd pełnomocnik z urzędu Jeżeli wykażesz, że nie stać Cię na to, by zapłacić pełnomocnikowi w stanie ponieść kosztów pełnomocnika bez szkody dla utrzymania Ciebie i Twojej rodziny), sąd może wyznaczyć z urzędu do całego postępowania albo do dokonania konkretnej procesowej (art. 78 8 1i la i art. 88).
+Pełnomocnik wyznaczony przez sąd — pełnomocnik z urzędu Jeżeli wykażesz, że nie stać Cię na to, by zapłacić pełnomocnikowi w stanie ponieść kosztów pełnomocnika bez szkody dla utrzymania Ciebie i Twojej rodziny), sąd może wyznaczyć z urzędu do całego postępowania albo do dokonania konkretnej procesowej (art. 78 8 1i la i art. 88).
 Pamiętaj: gdy składasz wniosek o wyznaczenie pełnomocnika dołącz dowody, które potwierdzą, że nie jesteś w stanie pełnomocnikowi (np. zaświadczenie o zarobkach, wydatkach z utrzymaniem rodziny, mieszkania).
 W trakcie postępowania przygotowawczego możesz złożyć organowi prowadzącemu postępowanie, który przekaże bezpośrednio do sądu. Zawsze napisz, o jaką sprawę chodzi.
 2. Prawo do korzystania z pomocy tłumacza Masz prawo do tłumacza, jeżeli:
@@ -464,7 +460,7 @@ Czynność nie zostanie przeprowadzona:
 zamieszczone w odrębnym załączniku. Może się z nim prowadzący postępowanie.
 Sąd lub organ prowadzący postępowanie przygotowawcze dane tylko wyjątkowo (art. 148a i art. 156a).
 Pytania zadawane Ci w trakcie przesłuchania nie mogą Twojego miejsca zamieszkania, miejsca pracy. Jest to dozwolone gdy ma znaczenie dla rozstrzygnięcia sprawy (art. 191
-6. Dostęp do akt sprawy W każdym momencie śledztwa lub dochodzenia również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
+6. Dostęp do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
 Prowadzący śledztwo lub dochodzenie może odmówić względu na ważny interes państwa lub dobro postępowania.
 udostępnione w postaci elektronicznej.
 Jeżeli prokurator odmówi Ci dostępu do akt, musi Cię o możliwości udostępnienia Ci akt w późniejszym terminie.
@@ -481,7 +477,7 @@ Informacja dotycząca tymczasowego aresztowania Sąd albo prokurator (w zależno
 Jeśli zrezygnujesz z tego uprawnienia i oświadczysz, że zawiadamiany, nie otrzymasz tych informacji (art. 253 Informacja o zarzutach Możesz złożyć wniosek do sądu, aby powiadomił Cię, jakie przedstawiono oskarżonemu oraz jaka jest ich kwalifikacja Jeżeli wnioski złoży wielu pokrzywdzonych, informacja kwalifikacji prawnej może zostać umieszczona w ogłoszeniu internetowej sądu (art. 337a). Wtedy nie otrzymasz informacji Tylko do Ciebie.
 Termin posiedzenia sądu Będziesz poinformowany/poinformowana o miejscu i sądu w przedmiocie umorzenia postępowania, warunkowego postępowania oraz wydania wyroku skazującego bez przeprowadzenia rozprawy (art. 339, art. 341 i art. 343).
 9. Uprawnienia związane z czynnościami procesowymi Jeżeli złożyłeś/złożyłaś zawiadomienie o przestępstwie, potwierdzenie złożenia tego zawiadomienia. W tym celu o wydanie potwierdzenia (art. 304b).
-Możesz zawnioskować o to, by prowadzący postępowanie czynność, np. przesłuchał świadka, uzyskał jakiś dokument z opinii biegłego (art. 315 8 1) jest to wniosek dowodowy.
+Możesz zawnioskować o to, by prowadzący postępowanie czynność, np. przesłuchał świadka, uzyskał jakiś dokument z opinii biegłego (art. 315 8 1) — jest to wniosek dowodowy.
 Prowadzący może nie uwzględnić Twojego wniosku dowodowego,
 1) przeprowadzenie dowodu jest niedopuszczalne;
 2) okoliczność, która ma być udowodniona, nie ma znaczenia rozstrzygnięcia sprawy albo jest już udowodniona zgodnie wnioskodawcy;
@@ -497,7 +493,7 @@ Jeśli w postępowaniu dopuszczono dowód z opinii biegłego, się z pisemną op
 Możesz złożyć wniosek o uzupełnienie śledztwa lub dochodzenia.
 należy złożyć w terminie 3 dni od daty czynności nazywanej zaznajomieniem podejrzanego z materiałami postępowania Możesz złożyć zażalenie na:
 1) bezczynność organu, jeżeli w ciągu 6 tygodni od złożenia o przestępstwie nie zostaniesz powiadomiony/powiadomiona albo odmowie wszczęcia postępowania przygotowawczego dochodzenia (art. 306 8 3);
-2) postanowienie o odmowie wszczęcia lub umorzeniu przygotowawczego śledztwa lub dochodzenia (art.
+2) postanowienie o odmowie wszczęcia lub umorzeniu przygotowawczego — śledztwa lub dochodzenia (art.
 zrobić w terminie 7 dni od daty doręczenia postanowienia.
 sporządzenia zażalenia masz prawo do przejrzenia prokurator może udostępnić Ci także w postaci elektronicznej $ 1 b ) ;
 3) postanowienia i zarządzenia zamykające drogę do wydania że ustawa stanowi inaczej) co do środka zabezpieczającego jest to przewidziane w ustawie (art. 459);
@@ -520,21 +516,21 @@ Oznacza to, że we wniosku (piśmie) wskazujesz dwóch
 2) komendanta wojewódzkiego (Komendanta Stołecznego) Komendant Wojewódzki (Stołeczny) Policji (tutaj należy komendanta) za pośrednictwem organ prowadzący postępowanie (tutaj wpisujesz dane Wniosek składasz w organie prowadzącym postępowanie albo w sądzie. Organ, który otrzymał wniosek, przekaże komendantowi.
 Możesz złożyć wniosek o wykonanie wydanego w Polsce Ciebie lub kontaktowania się przez sprawcę z Tobą także członkowskim Unii Europejskiej. Jest to tak zwany europejski (art. 611w-611wc).
 15. Prawo do uzyskania pomocy Ty i Twoi najbliżsi możecie otrzymać bezpłatną pomoc psychologiczną, rehabilitacyjną, prawną oraz materialną Pomocy dla Osób Pokrzywdzonych Przestępstwem (art.
-z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy) Szczegółowe informacje na temat tej pomocy można internetowej https://www.gov.pl/web/sprawiedliwosc/funduszsprawiedliwosci lub pod numerem telefonu +48 222 309
+z dnia 6 czerwca 1997 r. — Kodeks karny wykonawczy) Szczegółowe informacje na temat tej pomocy można internetowej https://www.gov.pl/web/sprawiedliwosc/funduszsprawiedliwosci lub pod numerem telefonu +48 222 309
 16. Prawo do wystąpienia o kompensatę państwową Jeśli masz miejsce stałego pobytu na terytorium Rzeczypospolitej terytorium innego państwa członkowskiego Unii Europejskiej, sądu wniosek o przyznanie Ci kompensaty państwowej pieniężnej).
 Prawo to wynika z ustawy z dnia 7 lipca 2005 r. o państwowej przysługującej ofiarom niektórych czynów zabronionych.
 Kompensata może być przyznana w kwocie pokrywającej
 1) utracone zarobki lub inne środki utrzymania,
 2) koszty związane z leczeniem i rehabilitacją,
-3) koszty pogrzebu będące skutkiem czynu zabronionego, przez który osoba
+3) koszty pogrzebu — będące skutkiem czynu zabronionego, przez który osoba
 1) poniosła śmierć,
-2) doznała ciężkiego uszczerbku na zdrowiu, naruszenia lub rozstroju zdrowia trwające dłużej niż 7 dni.
+2) doznała ciężkiego uszczerbku na zdrowiu, naruszenia lub rozstroju zdrowia — trwające dłużej niż 7 dni.
 Wniosek możesz złożyć jedynie wtedy, gdy nie możesz sprawcy, z tytułu ubezpieczenia lub ze środków pomocy Jeśli coś jest dla Ciebie niejasne lub potrzebujesz więcej możesz zapytać o nie prowadzącego Twoje postępowanie.
 obowiązek wyjaśnić Ci Twoje prawa i obowiązki w kompletny sposób.
 Pouczenie o uprawnieniach i świadka Otrzymujesz to pouczenie, bo jesteś świadkiem.
 Jako świadek masz prawo wiedzieć, jakie są Twoje prawa Przeczytaj dokładnie to pouczenie.
 Masz obowiązek podpisać oświadczenie, w którym potwierdzisz, to pouczenie.
-Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. Kodeks postępowania Twoje prawa i obowiązki jako świadka w postępowaniu
+Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej — są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. — Kodeks postępowania Twoje prawa i obowiązki jako świadka w postępowaniu
 1. Obowiązek stawienia się Jeśli zostaniesz wezwany/wezwana jako świadek, to musisz zeznania. Jest to Twój obowiązek jako świadka (art. 177
 2. Obowiązek usprawiedliwienia nieobecności Jeżeli zostałeś wezwany / zostałaś wezwana do stawiennictwa, przyjść z powodu choroby, to musisz usprawiedliwić nieobecność.
 musisz iść do lekarza sądowego, bo tylko on może wystawić które jest uznawane za usprawiedliwienie. Inne zaświadczenie nie będzie uznane za usprawiedliwienie. Listę lekarzy sądowych stronie internetowej sądu (art. 117 8 2a).
@@ -544,9 +540,9 @@ Jeśli nie stawisz się i nie usprawiedliwisz swojej nieobecności, konsekwencje
 3) aresztowanie (art. 285—287).
 3. Prawo do zwrotu kosztów Masz prawo do zwrotu kosztów, które poniosłeś/poniosłaś z przybyciem na wezwanie (np. koszty podróży, utraconego Jeśli chcesz otrzymać zwrot kosztów, musisz złożyć wniosek
 1) możesz powiedzieć podczas czynności, że wnosisz o zostanie zapisane w protokole, albo
-2) złożyć pismo wniosek o zwrot kosztów.
+2) złożyć pismo — wniosek o zwrot kosztów.
 Termin na złożenie wniosku o zwrot kosztów wynosi 3 czynności, na którą się stawiłeś/stawiłaś (art. 618a—618e
-4. Prawo do korzystania z pomocy prawnej Jeżeli uważasz, że jest to potrzebne dla ochrony Twoich ustanowić pełnomocnika adwokata lub radcę prawnego.
+4. Prawo do korzystania z pomocy prawnej Jeżeli uważasz, że jest to potrzebne dla ochrony Twoich ustanowić pełnomocnika — adwokata lub radcę prawnego.
 Cię reprezentował w toczącym się postępowaniu karnym.
 Jeżeli nie stać Cię na pełnomocnika, sąd może na Twój pełnomocnika z urzędu. Musisz jednak wykazać, że nie wynagrodzenia dla pełnomocnika (art. 87 $ 2iart. 888 Sąd, a w postępowaniu przygotowawczym prokurator udział w postępowaniu ustanowionego przez Ciebie pełnomocnika.
 Może się to stać, jeżeli prokurator albo sąd uzna, że nie Twoich interesów (art. 87 8 3).
@@ -561,7 +557,7 @@ Na Twój wniosek decyzja o utajnieniu Twoich danych osobowych uchylona. Taki wni
 6. Przesłuchanie dostosowane do sytuacji świadka Możesz zostać przesłuchany/przesłuchana w drodze wideokonferencji.
 przesłuchanie przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym przekazem obrazu i dźwięku (art. 177 8 1a).
 Jeżeli nie możesz przyjść do miejsca wskazanego w wezwaniu, jesteś osobą z niepełnosprawnością lub występuje inna da się usunąć, możesz zostać przesłuchany/przesłuchana przebywasz, np. w domu, w szpitalu (art. 177 8 2).
-Jeśli jesteś obywatelem polskim, przebywasz za granicąi możesz być przesłuchany/przesłuchana przez konsula i ust. 2 ustawy z dnia 25 czerwca 2015 r. Prawo konsularne).
+Jeśli jesteś obywatelem polskim, przebywasz za granicąi możesz być przesłuchany/przesłuchana przez konsula i ust. 2 ustawy z dnia 25 czerwca 2015 r. — Prawo konsularne).
 W takim przypadku:
 1) nie istnieje ustawowy obowiązek stawiennictwa;
 2) nie mogą zostać wyciągnięte wobec Ciebie konsekwencje,
@@ -569,7 +565,7 @@ W takim przypadku:
 4) nie masz prawa do ochrony przewidzianej dla świadka;
 5) w przesłuchaniu nie będą brały udziału inne osoby, psycholog.
 Gdy sprawa toczy się w sądzie i należy się obawiać, że na sali sądowej mogłaby Cię krępować podczas składania przewodniczący może polecić oskarżonemu, aby wyszedł czas Twojego przesłuchania (art. 390 8 2).
-Istnieje też inny sposób w takiej sytuacji możesz zostać w drodze wideokonferencji (art. 390 8 3).
+Istnieje też inny sposób — w takiej sytuacji możesz zostać w drodze wideokonferencji (art. 390 8 3).
 7. Pouczenia i czynności przed przesiuchaniem Przed rozpoczęciem przesłuchania zostaniesz pouczony/pouczona o odpowiedzialności karnej za zeznanie nieprawdy lub (art. 1908 1).
 Otrzymasz do podpisu oświadczenie, że otrzymałeś pouczenie Postępowanie sądowe Możesz żądać, aby rozprawa była niejawna, jeśli składane narazić na hańbę Ciebie lub osobę dla Ciebie najbliższą Przed rozpoczęciem przesłuchania zostaniesz pouczony/pouczona o odpowiedzialności karnej za zeznanie nieprawdy lub (art. 1908 1).
 Przed rozpoczęciem zeznań masz obowiązek złożenia nie odbierać od Ciebie przyrzeczenia wtedy, gdy żadna sali nie zgłosi sprzeciwu.
@@ -586,7 +582,7 @@ Jeżeli przysługuje Ci prawo do odmowy składania zeznań, skorzystać do chwil
 Jeśli w postępowaniu przygotowawczym złożyłeś/złożyłaś rozprawie odmówisz składania zeznań, pierwsze zeznanie wykorzystane. Nie może być dowodem ani być odtworzone.
 traktowane tak, jakby go nie było (art. 186 $ 1).
 Mimo odmowy składania zeznań mogą zostać ujawnione Twojego ciała sporządzone w postępowaniu karnym (art.
-9. Prawo do odmowy odpowiedzi na pytanie Możesz odmówić odpowiedzi na pytanie, jeżeli odpowiedź Ciebie lub osobę dla Ciebie najbliższą na odpowiedzialność przestępstwo skarbowe (art. 183 8 1).
+9. Prawo do odmowy odpowiedzi na pytanie Możesz odmówić odpowiedzi na pytanie, jeżeli odpowiedź Ciebie lub osobę dla Ciebie najbliższą na odpowiedzialność przestępstwo skarbowe (art. 183 $ 1).
 10. Zwolnienie od złożenia zeznań lub odpowiedzi na Możesz zostać zwolniony od złożenia zeznania lub odpowiedzi pozostajesz z oskarżonym w szczególnie bliskim stosunku Wniosek o zwolnienie od złożenia zeznania możesz złożyć pierwszego zeznania w postępowaniu sądowym. W takiej w postępowaniu przygotowawczym złożyłeś/złożyłaś zeznanie, ono już wykorzystane. Nie może być dowodem ani być 8 1).
 Mimo zwolnienia od złożenia zeznania mogą zostać ujawnione oględzin Twojego ciała sporządzone w postępowaniu
 11. Przesłuchanie z udziałem biegłego oraz badania Jeżeli istnieje wątpliwość co do Twojego stanu psychicznego, umysłowego, zdolności postrzegania lub odtwarzania przesłuchany/przesłuchana z udziałem biegłego lekarza psychologa.
@@ -595,13 +591,13 @@ Nie jest to jednak możliwe, gdy odmówiłeś/odmówiłaś zostałeś/zostałaś
 Jeżeli zgodzisz się, mogą zostać wykonane oględziny Twojego także być zbadany przez lekarza lub psychologa (art. 192 Obecność biegłego lekarza lub biegłego psychologa to badanie przez biegłego lekarza lub biegłego psychologa.
 Jeżeli w trakcie postępowania będzie konieczne ustalenie,
 1) niektóre osoby należy wyeliminować z kręgu podejrzanych,
-2) ujawnione ślady mają wartość dowodową: mogą zostać pobrane od Ciebie odciski palców, policzków, włosy, ślina, próby pisma, zapach. Nie Twoja zgoda, możesz również zostać sfotografowany/sfotografowana zostać nagrany Twój głos, za Twoją zgodą biegły może zastosować wobec kłamstw. Są to środki techniczne, które mają na nieświadomych reakcji Twojego organizmu (art.
+2) ujawnione ślady mają wartość dowodową: — mogą zostać pobrane od Ciebie odciski palców, policzków, włosy, ślina, próby pisma, zapach. Nie Twoja zgoda, — możesz również zostać sfotografowany/sfotografowana zostać nagrany Twój głos, — za Twoją zgodą biegły może zastosować wobec kłamstw. Są to środki techniczne, które mają na nieświadomych reakcji Twojego organizmu (art.
 12. Przesłuchanie świadka ze szczególnymi potrzebami Jeżeli występują u Ciebie zaburzenia psychiczne, rozwojowe, zdolności postrzegania lub odtwarzania postrzeżeń i zachodzi obawa, że przesłuchanie w zwykłych warunkach mogłoby na Twój stan psychiczny lub byłoby znacznie utrudnione, przesłuchany/przesłuchana:
 1) tylko wtedy, gdy Twoje zeznania będą mogły mieć rozstrzygnięcia sprawy;
 2) tylko raz. Istnieje wyjątek od zasady przesłuchania jaw istotne okoliczności, których wyjaśnienie wymaga przesłuchania, lub w razie uwzględnienia wniosku dowodowego oskarżonego, który nie miał obrońcy w czasie Twojego przesłuchania. Decyzję, czy przesłuchać Cię ponownie, Przesłuchanie przeprowadza sąd z udziałem biegłego psychologa w odpowiednio przystosowanym, przyjaznym pokoju dostosowanym do Twoich potrzeb. Przy przesłuchaniu prawny, osoba, pod której stałą pieczą pozostajesz, osoba, pozostajesz, lub wskazana przez Ciebie osoba dorosła.
 udział w przesłuchaniu powinien być osobą płci wskazanej zasady nie stosuje się, jeśli będzie to utrudniać postępowanie.
 jest rejestrowane (nagrany obraz i dźwięk).
-13. Przesłuchania świadka pokrzywdzonego przestępstwami Kodeksu karnego (ustawa z dnia 6 czerwca 1997 r. Kodeks Jeżeli jesteś pokrzywdzonym w sprawie o przestępstwo wykorzystania seksualnego, możesz być przesłuchany/przesłuchana w charakterze świadka:
+13. Przesłuchania świadka pokrzywdzonego przestępstwami Kodeksu karnego (ustawa z dnia 6 czerwca 1997 r. — Kodeks Jeżeli jesteś pokrzywdzonym w sprawie o przestępstwo wykorzystania seksualnego, możesz być przesłuchany/przesłuchana w charakterze świadka:
 1) tylko wtedy, gdy Twoje zeznania będą mogły mieć istotne
 2) tylko raz. Istnieje wyjątek od zasady przesłuchania jaw istotne okoliczności, których wyjaśnienie wymaga przesłuchania, lub w razie uwzględnienia wniosku dowodowego oskarżonego, który nie miał obrońcy w czasie Twojego przesłuchania. Decyzję, czy przesłuchać Cię ponownie, Przesłuchanie przeprowadza sąd z udziałem biegłego psychologa w odpowiednio przystosowanym, przyjaznym pokoju.
 aby biegły psycholog biorący udział w przesłuchaniu był Ciebie płci. Tej zasady nie stosuje się, jeśli będzie to utrudniać Przesłuchanie to jest rejestrowane (nagrany obraz i dźwięk).
@@ -615,11 +611,9 @@ obowiązuje, gdy chodzi o przestępstwa, o których obowiązkowo zawiadomić (ar
 Jeżeli jesteś osobą, która została zwolniona z obowiązku sąd przesłucha Cię na rozprawie z wyłączeniem jawności.
 osoby zwolnionej z tajemnicy lekarskiej lub medycznej innego uprawnionego podmiotu (art. 181). Wówczas rozprawa
 15. Zakaz przesłuchiwania Nie możesz być przesłuchany/przesłuchana, jeżeli jesteś:
-1)
-2)
-3) obrońcą podejrzanego (oskarżonego) albo adwokatem który udzielał porady prawnej zatrzymanemu. Zakaz faktów, o których dowiedziałeś/dowiedziałaś się, udzielając lub prowadząc sprawę (art. 178 pkt 1);
-duchownym. Zakaz przesłuchania dotyczy faktów, o się przy spowiedzi (art. 178 pkt 2);
-mediatorem. Zakaz przesłuchania dotyczy faktów, o dowiedziałeś/dowiedziałaś się od oskarżonego lub prowadząc postępowanie mediacyjne. Zakaz przesłuchiwania informacji o przestępstwach, o których obowiązkowo (art. 178a). Przestępstwa te są wymienione w art. 240 (np. zabójstwo, pozbawienie wolności, przestępstwo terrorystycznym).
+1) obrońcą podejrzanego (oskarżonego) albo adwokatem który udzielał porady prawnej zatrzymanemu. Zakaz faktów, o których dowiedziałeś/dowiedziałaś się, udzielając lub prowadząc sprawę (art. 178 pkt 1);
+2) duchownym. Zakaz przesłuchania dotyczy faktów, o się przy spowiedzi (art. 178 pkt 2);
+3) mediatorem. Zakaz przesłuchania dotyczy faktów, o dowiedziałeś/dowiedziałaś się od oskarżonego lub prowadząc postępowanie mediacyjne. Zakaz przesłuchiwania informacji o przestępstwach, o których obowiązkowo (art. 178a). Przestępstwa te są wymienione w art. 240 (np. zabójstwo, pozbawienie wolności, przestępstwo terrorystycznym).
 16. Prawo do uzyskania ochrony Jeżeli występuje zagrożenie dla życia lub zdrowia Twojego najbliższych, możesz otrzymać ochronę Policji na czas którą Cię wezwano.
 Jeżeli stopień zagrożenia jest wysoki, Ty i Twoi najbliżsi ochronę osobistą lub pomoc w zmianie miejsca pobytu.
 W celu uzyskania ochrony należy skierować wniosek do wojewódzkiego (Komendanta Stołecznego) Policji.
@@ -628,14 +622,14 @@ Oznacza to, że we wniosku (piśmie) wskazujesz dwóch
 1) organ prowadzący postępowanie przygotowawcze
 2) komendanta wojewódzkiego (Komendanta Stołecznego) Komendant Wojewódzki (Stołeczny) Policji (tutaj należy komendanta) za pośrednictwem organ prowadzący postępowanie (tutaj wpisujesz dane Wniosek składasz w organie prowadzącym postępowanie albo w sądzie. Organ, który otrzymał wniosek, przekaże komendantowi.
 Ty i Twoi najbliżsi możecie otrzymać bezpłatną pomoc Pomocy dla Osób Pokrzywdzonych Przestępstwem (art.
-z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy).
+z dnia 6 czerwca 1997 r. — Kodeks karny wykonawczy).
 Szczegółowe informacje na temat tej pomocy można internetowej https://www.gov.pl/web/sprawiedliwosc/funduszsprawiedliwosci lub pod numerem telefonu +48 222 309 Jeśli coś jest dla Ciebie niejasne lub potrzebujesz więcej możesz zapytać o nie prowadzącego postępowanie. Prowadzący obowiązek wyjaśnić Ci Twoje prawa i obowiązki w kompletny sposób.
 Pouczenie o uprawnieniach i obowiązkach świadka, który nie ukończył Otrzymujesz to pouczenie, bo jesteś świadkiem.
 Jako świadek masz prawo wiedzieć, jakie są Twoje prawa Przeczytaj dokładnie to pouczenie.
 Jeżeli nie masz ukończonych 18 lat i jesteś świadkiem w Twoje prawa będą wykonywać Twoi przedstawiciele opiekun).
 Pamiętaj, że jeśli nie jesteś pełnoletni/pełnoletnia, wszystkie lub prokuratora) w Twoim imieniu musi składać Twój (rodzic, opiekun). Nie możesz tego zrobić samodzielnie, zdolności do czynności prawnych.
 Osoba, która będzie wykonywać Twoje prawa (rodzic swoim podpisem, że otrzymałeś to pouczenie.
-Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. Kodeks postępowania Twoje prawa i obowiązki jako małoletniego świadka
+Poza informacjami w pouczeniu znajdziesz przepisy, z Jeśli nie wskazano inaczej — są to przepisy Kodeksu postępowania (ustawa z dnia 6 czerwca 1997 r. — Kodeks postępowania Twoje prawa i obowiązki jako małoletniego świadka
 1. Obowiązek stawienia się Jeśli zostaniesz wezwany/wezwana jako świadek, to musisz zeznania. Jest to Twój obowiązek jako świadka (art. 177
 2. Obowiązek usprawiedliwienia nieobecności Jeżeli zostałeś wezwany / zostałaś wezwana do stawiennictwa, przyjść z powodu choroby, to musisz usprawiedliwić nieobecność.
 musisz iść do lekarza sądowego, bo tylko on może wystawić które jest uznawane za usprawiedliwienie. Inne zaświadczenie nie będzie uznane za usprawiedliwienie. Listę lekarzy sądowych stronie internetowej sądu (art. 117 8 2a).
@@ -645,9 +639,9 @@ Jeśli nie stawisz się i nie usprawiedliwisz swojej nieobecności, Twoich przed
 3) aresztowanie (art. 285—287).
 3. Prawo do zwrotu kosztów Masz prawo do zwrotu kosztów, które poniosłeś/poniosłaś z przybyciem na wezwanie (np. koszty podróży, utraconego Jeśli chcesz otrzymać zwrot kosztów, musisz złożyć wniosek
 1) możesz powiedzieć podczas czynności, że wnosisz o zostanie zapisane w protokole, albo
-2) złożyć pismo wniosek o zwrot kosztów.
+2) złożyć pismo — wniosek o zwrot kosztów.
 Termin na złożenie wniosku o zwrot kosztów wynosi 3 czynności, na którą się stawiłeś/stawiłaś (art. 618a—618e
-4. Prawo do korzystania z pomocy prawnej Jeżeli uważasz, że jest to potrzebne dla ochrony Twoich ustanowić pełnomocnika adwokata lub radcę prawnego.
+4. Prawo do korzystania z pomocy prawnej Jeżeli uważasz, że jest to potrzebne dla ochrony Twoich ustanowić pełnomocnika — adwokata lub radcę prawnego.
 Cię reprezentował w toczącym się postępowaniu karnym.
 Jeżeli nie stać Cię na pełnomocnika, sąd może na Twój pełnomocnika z urzędu. Musisz jednak wykazać, że nie wynagrodzenia dla pełnomocnika (art. 87 8 2 iart. 888 Sąd, a w postępowaniu przygotowawczym prokurator udział w postępowaniu ustanowionego przez Ciebie pełnomocnika.
 Może się to stać, jeżeli prokurator albo sąd uzna, że nie Twoich interesów (art. 87 8 3).
@@ -662,14 +656,14 @@ Na Twój wniosek decyzja o utajnieniu Twoich danych osobowych uchylona. Taki wni
 6. Przesłuchanie dostosowane do sytuacji świadka Możesz zostać przesłuchany/przesłuchana w drodze wideokonferencji.
 przesłuchanie przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym przekazem obrazu i dźwięku (art. 177 8 1a).
 Jeżeli nie możesz przyjść do miejsca wskazanego w wezwaniu, jesteś osobą z niepełnosprawnością lub występuje inna da się usunąć, możesz zostać przesłuchany/przesłuchana przebywasz, np. w domu, w szpitalu (art. 177 8 2).
-Jeśli jesteś obywatelem polskim i przebywasz za granicąi zgodzisz, możesz być przesłuchany/przesłuchana przez pkt 2 i ust. 2 ustawy z dnia 25 czerwca 2015 r. Prawo W takim przypadku:
+Jeśli jesteś obywatelem polskim i przebywasz za granicąi zgodzisz, możesz być przesłuchany/przesłuchana przez pkt 2 i ust. 2 ustawy z dnia 25 czerwca 2015 r. — Prawo W takim przypadku:
 1) nie masz obowiązku stawić się;
 2) nie mogą zostać wyciągnięte wobec Ciebie konsekwencje,
 3) nie możesz zostać przesłuchany/przesłuchana w drodze
 4) nie masz prawa do ochrony przewidzianej dla świadka;
 5) w przesłuchaniu nie będą brały udziału inne osoby, psycholog.
 Gdy sprawa toczy się w sądzie i należy się obawiać, że na sali sądowej mogłaby Cię krępować podczas składania przewodniczący może polecić oskarżonemu, aby wyszedł czas Twojego przesłuchania (art. 390 8 2).
-Istnieje też inny sposób w takiej sytuacji możesz zostać w drodze wideokonferencji (art. 390 $ 3).
+Istnieje też inny sposób — w takiej sytuacji możesz zostać w drodze wideokonferencji (art. 390 $ 3).
 7. Pouczenia i czynności przed przesłuchaniem Jeżeli ukończyłeś/ukończyłaś 17 lat, ale jeszcze nie jesteś pełnoletni/pełnoletnia, przed rozpoczęciem przesłuchania pouczony/pouczona o odpowiedzialności karnej za zeznanie zatajenie prawdy (art. 190 8 1).
 Otrzymasz do podpisu oświadczenie, że otrzymałeś pouczenie Jeżeli nie ukończyłeś/ukończyłaś 17 lat, przed przesłuchaniem poinformuje Cię o konsekwencjach zeznania nieprawdy wynikających z ustawy z dnia 9 czerwca 2022 r. o wspieraniu nieletnich.
 Postępowanie sądowe Możesz żądać, aby rozprawa była niejawna, jeśli składane narazić na hańbę Ciebie lub osobę dla Ciebie najbliższą Jeżeli ukończyłeś/ukończyłaś 17 lat, ale jeszcze nie jesteś pełnoletni/pełnoletnia, przed rozpoczęciem przesłuchania pouczony/pouczona o odpowiedzialności karnej za zeznanie zatajenie prawdy (art. 190 $ 1).
@@ -688,7 +682,7 @@ Jeżeli przysługuje Ci prawo do odmowy składania zeznań, skorzystać do chwil
 Jeśli w postępowaniu przygotowawczym złożyłeś/złożyłaś rozprawie odmówisz składania zeznań, pierwsze zeznanie wykorzystane. Nie może być dowodem ani być odtworzone.
 traktowane tak, jakby go nie było (art. 186 $ 1).
 Mimo odmowy składania zeznań mogą zostać ujawnione Twojego ciała sporządzone w postępowaniu karnym (art.
-9. Prawo do odmowy odpowiedzi na pytanie Możesz odmówić odpowiedzi na pytanie, jeżeli odpowiedź Ciebie lub osobę dla Ciebie najbliższą na odpowiedzialność przestępstwo skarbowe (art. 183 8 1).
+9. Prawo do odmowy odpowiedzi na pytanie Możesz odmówić odpowiedzi na pytanie, jeżeli odpowiedź Ciebie lub osobę dla Ciebie najbliższą na odpowiedzialność przestępstwo skarbowe (art. 183 $ 1).
 10. Zwolnienie od złożenia zeznań lub odpowiedzi na Możesz zostać zwolniony od złożenia zeznania lub odpowiedzi pozostajesz z oskarżonym w szczególnie bliskim stosunku Wniosek o zwolnienie od złożenia zeznania możesz złożyć pierwszego zeznania w postępowaniu sądowym. W takiej w postępowaniu przygotowawczym złożyłeś/złożyłaś zeznanie, ono już wykorzystane. Nie może być dowodem ani być 8 1 ) .
 Mimo zwolnienia od złożenia zeznania mogą zostać ujawnione oględzin Twojego ciała sporządzone w postępowaniu karnym
 11. Przesłuchanie z udziałem biegłego oraz badania Jeżeli istnieje wątpliwość co do Twojego stanu psychicznego, umysłowego, zdolności postrzegania lub odtwarzania przesłuchany/przesłuchana z udziałem biegłego lekarza Obecność biegłego lekarza lub biegłego psychologa przy nie wymaga uzyskania Twojej zgody.
@@ -696,11 +690,11 @@ Nie jest to jednak możliwe, gdy odmówiłeś/odmówiłaś zostałeś/zostałaś
 Jeżeli zgodzisz się, mogą zostać wykonane oględziny Twojego także być zbadany przez lekarza lub psychologa (art. 192 Obecność biegłego lekarza lub biegłego psychologa to badanie przez biegłego lekarza lub biegłego psychologa.
 Jeżeli w trakcie postępowania będzie konieczne ustalenie,
 1) niektóre osoby należy wyeliminować z kręgu podejrzanych,
-2) ujawnione ślady są dowodem: mogą zostać pobrane od Ciebie odciski palców, policzków, włosy, ślina, próby pisma, zapach. Nie Twoja zgoda, możesz również zostać sfotografowany/sfotografowana zostać nagrany Twój głos, za Twoją zgodą biegły może zastosować wobec kłamstw. Są to środki techniczne, które mają na nieświadomych reakcji Twojego organizmu (art.
+2) ujawnione ślady są dowodem: — mogą zostać pobrane od Ciebie odciski palców, policzków, włosy, ślina, próby pisma, zapach. Nie Twoja zgoda, — możesz również zostać sfotografowany/sfotografowana zostać nagrany Twój głos, — za Twoją zgodą biegły może zastosować wobec kłamstw. Są to środki techniczne, które mają na nieświadomych reakcji Twojego organizmu (art.
 12. Przesłuchanie świadka ze szczególnymi potrzebami Jeżeli występują u Ciebie zaburzenia psychiczne, rozwojowe, zdolności postrzegania lub odtwarzania postrzeżeń i zachodzi obawa, że przesłuchanie w zwykłych warunkach mogłoby na Twój stan psychiczny lub byłoby znacznie utrudnione, przesłuchany/przesłuchana:
 1) tylko wtedy, gdy Twoje zeznania będą mogły mieć
 2) tylko raz. Istnieje wyjątek od zasady przesłuchania jaw istotne okoliczności, których wyjaśnienie wymaga przesłuchania, lub w razie uwzględnienia wniosku dowodowego oskarżonego, który nie miał obrońcy w czasie Twojego przesłuchania. Decyzję, czy przesłuchać Cię ponownie, Przesłuchanie przeprowadza sąd z udziałem biegłego psychologa w odpowiednio przystosowanym, przyjaznym pokoju lub dostosowanym do Twoich potrzeb. Przy przesłuchaniu przedstawiciel ustawowy (rodzice, opiekun prawny), osoba, pieczą pozostajesz, osoba, pod której pieczą pozostajesz, Ciebie osoba dorosła. Biegły psycholog biorący udział w powinien być osobą płci wskazanej przez Ciebie. Tej zasady będzie to utrudniać postępowanie. Przesłuchanie to jest obraz i dźwięk).
-13. Przesłuchanie małoletniego świadka pokrzywdzonego o przestępstwo popełnione z użyciem przemocy lub groźby określone w rozdziałach XXIII, XXV i XXVI Kodeksu karnego 6 czerwca 1997 r. Kodeks karny) (art. 185a) Jeżeli nie ukończyłeś/ukończyłaś 15 lat i jesteś pokrzywdzonym
+13. Przesłuchanie małoletniego świadka pokrzywdzonego o przestępstwo popełnione z użyciem przemocy lub groźby określone w rozdziałach XXIII, XXV i XXVI Kodeksu karnego 6 czerwca 1997 r. — Kodeks karny) (art. 185a) Jeżeli nie ukończyłeś/ukończyłaś 15 lat i jesteś pokrzywdzonym
 1) popełnione z użyciem przemocy lub groźby bezprawnej
 2) przeciwko wolności, lub
 3) przeciwko wolności seksualnej i obyczajności, lub
@@ -741,6 +735,6 @@ Oznacza to, że we wniosku (piśmie) wskazujesz dwóch
 1) organ prowadzący postępowanie przygotowawcze
 2) komendanta wojewódzkiego (Komendanta Stołecznego) Komendant Wojewódzki (Stołeczny) Policji (tutaj należy komendanta) za pośrednictwem organ prowadzący postępowanie (tutaj wpisujesz dane Wniosek składasz w organie prowadzącym postępowanie albo w sądzie. Organ, który otrzymał wniosek, przekaże komendantowi.
 17. Prawo do uzyskania pomocy Ty i Twoi najbliżsi możecie otrzymać bezpłatną pomoc Pomocy dla Osób Pokrzywdzonych Przestępstwem (art.
-z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy).
+z dnia 6 czerwca 1997 r. — Kodeks karny wykonawczy).
 Szczegółowe informacje na temat tej pomocy można internetowej https://www.gov.pl/web/sprawiedliwosc/funduszsprawiedliwosci lub pod numerem telefonu +48 222 309 Jeśli coś jest dla Ciebie niejasne lub potrzebujesz więcej obowiązek wyjaśnić Ci Twoje prawa i obowiązki w kompletny sposób.
 

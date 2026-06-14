@@ -8,7 +8,7 @@ pos: 217
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o społeczno-zawodowych organizacjach rolników Mając na uwadze, że Rzeczpospolita Polska gwarantuje własność, całkowitą ochronę i prawo dziedziczenia indywidualnych gospodarstw rolnych oraz że gospodarstwa te stanowią trwały i równoprawny element społeczno-gospodarczego ustroju Rzeczypospolitej Polskiej; uznając równoprawny z innymi zawodami status społeczno-zawodowy rolników indywidualnych oraz potrzebę zapewnienia należytej reprezentacji ich zawodowych i społecznych interesów wobec organów państwowych oraz państwowych i społecznych jednostek organizacyjnych działających na rzecz wsi i rolnictwa, jak też udziału w decydowaniu o sprawach związanych z rozwojem indywidualnych gospodarstw rolnych i postępem społecznym na wsi; kierując się troską o wyżywienie Narodu oraz dobrem Rzeczypospolitej Polskiej stanowi się, co następuje:
@@ -287,6 +287,9 @@ source: "isap-pdf"
 #### Rozdział 6 Gminne i wojewódzkie związki rolników, kółek i organizacji rolniczych
 
 **Art. 27.** Gminne i wojewódzkie związki rolników, kółek i organizacji rolniczych są dobrowolnymi, niezależnymi i samorządnymi zrzeszeniami:
+
+- **1)** związki gminne – kółek rolniczych, rolniczych zrzeszeń branżowych oraz innych społecznych i gospodarczych organizacji rolników;
+- **2)** związki wojewódzkie – gminnych związków rolników, kółek i organizacji rolniczych oraz rolniczych zrzeszeń branżowych i związków rolniczych zrzeszeń branżowych, a także innych społecznych i gospodarczych organizacji rolników.
 
 **Art. 28.**
 

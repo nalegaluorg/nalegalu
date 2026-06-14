@@ -8,10 +8,10 @@ pos: 2460
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2460 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 22 grudnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002460) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2460/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 22 grudnia 2021 r.
 w sprawie psów służbowych w Służbie Ochrony Państwa Na podstawie art. 245l ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2021 r. poz. 575, 1728 i 2333) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb przydzielania opiekunowi psa służbowego;
 2) tryb rekrutacji kandydatów, którzy mogą zostać opiekunami psów służbowych wycofanych z użycia;
 3) tryb wycofywania z użycia psa służbowego;
@@ -38,13 +38,14 @@ w sprawie psów służbowych w Służbie Ochrony Państwa Na podstawie art. 245l
 9) tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji społecznej, której statutowym celem działania jest ochrona zwierząt, zwanej dalej „organizacją społeczną”;
 10) wzory dokumentów stosowanych w tych sprawach.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) kierownik logistyki kierownika komórki organizacyjnej Służby Ochrony Państwa właściwej do spraw zabezpieczenia logistycznego;
-2) kierownik OPPS funkcjonariusza Służby Ochrony Państwa sprawującego nadzór nad psami służbowymi oraz funkcjonowaniem OPPS;
-3) kierownik rozpoznania kierownika komórki organizacyjnej Służby Ochrony Państwa właściwej do spraw rozpoznania pirotechniczno-radiologicznego, biochemicznego i sanitarnego;
-4) lekarz weterynarii osobę posiadająca prawo wykonywania zawodu lekarza weterynarii;
-5) OPPS obiekt przewodników psów służbowych;
-6) ustawa ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa;
-7) zastępca Komendanta SOP zastępcę Komendanta Służby Ochrony Państwa właściwego do spraw logistyki.
+1) kierownik logistyki – kierownika komórki organizacyjnej Służby Ochrony Państwa właściwej do spraw zabezpieczenia logistycznego;
+2) kierownik OPPS – funkcjonariusza Służby Ochrony Państwa sprawującego nadzór nad psami służbowymi oraz funkcjonowaniem OPPS;
+3) kierownik rozpoznania – kierownika komórki organizacyjnej Służby Ochrony Państwa właściwej do spraw rozpoznania pirotechniczno-radiologicznego, biochemicznego i sanitarnego;
+4) lekarz weterynarii – osobę posiadająca prawo wykonywania zawodu lekarza weterynarii;
+5) OPPS – obiekt przewodników psów służbowych;
+6) ustawa – ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa;
+7) zastępca Komendanta SOP – zastępcę Komendanta Służby Ochrony Państwa właściwego do spraw logistyki.
+§ 3. 1. Psa służbowego przydziela komisja, którą powołuje Komendant Służby Ochrony Państwa, zwanej dalej „SOP”, na wniosek kierownika rozpoznania.
 2. W skład komisji wchodzą:
 1) osoba wyznaczona przez kierownika rozpoznania, która jest przewodniczącym komisji;
 2) przewodnik innego psa służbowego.
@@ -54,6 +55,7 @@ w sprawie psów służbowych w Służbie Ochrony Państwa Na podstawie art. 245l
 6. W przypadku pozytywnej decyzji o przydzieleniu psa służbowego komisja sporządza protokół przydzielenia psa służbowego.
 7. Psa służbowego przekazuje przewodniczący komisji, a opiekun psa służbowego przejmuje odpowiedzialność za psa służbowego od momentu złożenia podpisu na protokole przydzielenia psa służbowego.
 8. Wzór protokołu przydzielenia psa służbowego jest określony w załączniku nr 1 do rozporządzenia.
+§ 4. 1. W przypadku, o którym mowa w art. 245c ust. 4 ustawy, Komendant SOP powołuje komisję w sprawie przeprowadzenia postępowania rekrutacyjnego wobec kandydatów na opiekuna psa służbowego wycofanego z użycia.
 2. W skład komisji wchodzą:
 1) kierownik OPPS lub wyznaczony przez kierownika rozpoznania funkcjonariusz, jako przewodniczący komisji;
 2) lekarz weterynarii;
@@ -62,7 +64,8 @@ w sprawie psów służbowych w Służbie Ochrony Państwa Na podstawie art. 245l
 4. Przy wyborze przez komisję kandydata na opiekuna psa wycofanego z użycia uwzględnia się motywację kandydata, warunki bytowe dla psa oraz dotychczasowe doświadczenie w sprawowaniu opieki nad psem.
 5. Z prac komisji sporządza się protokół zawierający rekomendację wybranego przez komisję kandydata na opiekuna psa służbowego wycofanego z użycia, który przedkłada się do zatwierdzenia zastępcy Komendanta SOP.
 6. Zatwierdzenie przez zastępcę Komendanta SOP protokołu, o którym mowa w ust. 5, przesądza o wyborze opiekuna psa wycofanego z użycia i umożliwia powierzenie mu opieki nad psem wycofanym z użycia.
-7. Wzór protokołu postępowania rekrutacyjnego kandydatów na opiekuna psa służbowego wycofanego z użycia jest
+7. Wzór protokołu postępowania rekrutacyjnego kandydatów na opiekuna psa służbowego wycofanego z użycia jest określony w załączniku nr 2 do rozporządzenia.
+§ 5. 1. Komendant SOP powołuje komisję w sprawie wycofania z użycia psa służbowego, na pisemny wniosek kierownika rozpoznania.
 2. W skład komisji wchodzą:
 1) kierownik rozpoznania, jako przewodniczący komisji;
 2) kierownik OPPS lub wyznaczony przez kierownika rozpoznania funkcjonariusz;
@@ -78,48 +81,55 @@ w sprawie psów służbowych w Służbie Ochrony Państwa Na podstawie art. 245l
 4) wyznaczenie opiekuna psa służbowego wycofanego z użycia i pozostawienie tego psa w OPPS;
 5) powierzenie opieki nad psem służbowym wycofanym z użycia organizacji społecznej.
 7. Pies służbowy zostaje wycofany z użycia po zatwierdzeniu przez Komendanta SOP protokołu wycofania z użycia psa służbowego i pozostaje w OPPS do czasu powierzenia opieki nad tym psem osobom, o którym mowa w ust. 6 pkt 1–3, albo organizacji społecznej.
+§ 6. 1. Psa służbowego utrzymuje się na terenie OPPS, w miejscu zamieszkania opiekuna tego psa lub innym miejscu wyznaczonym przez kierownika rozpoznania.
 2. Psa służbowego wycofanego z użycia utrzymuje się w miejscu zamieszkania opiekuna tego psa lub w miejscu prowadzenia działalności przez organizację społeczną.
 3. Psy służbowe oraz psy służbowe wycofane z użycia utrzymuje się w sposób zapewniający warunki określone w przepisach wydanych na podstawie art. 17 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2020 r. poz. 638 oraz z 2021 r. poz. 1718 i 1728).
 § 7. 1. Psa służbowego oraz psa służbowego wycofanego z użycia poddaje się:
 1) obowiązkowym szczepieniom przeciwko wściekliźnie;
-3) okresowym badaniom stanu zdrowia nie rzadziej niż dwa razy do roku, jednak nie częściej niż cztery razy do roku;
-4) odrobaczeniom nie rzadziej niż dwa razy do roku, jednak nie częściej niż cztery razy do roku;
+2) innym szczepieniom ochronnym przeciwko chorobom zakaźnym – według wskazań lekarza weterynarii;
+3) okresowym badaniom stanu zdrowia – nie rzadziej niż dwa razy do roku, jednak nie częściej niż cztery razy do roku;
+4) odrobaczeniom – nie rzadziej niż dwa razy do roku, jednak nie częściej niż cztery razy do roku;
 5) bieżącemu zabezpieczeniu przed pasożytami zewnętrznymi;
-6) innym zabiegom profilaktycznym według wskazań lekarza weterynarii.
+6) innym zabiegom profilaktycznym – według wskazań lekarza weterynarii.
 2. Czynności, o których mowa w ust. 1, wykonuje lekarz weterynarii.
 § 8. 1. Psa służbowego oraz psa służbowego wycofanego z użycia transportuje się w sposób umożliwiający zwierzęciu przyjęcie swobodnej pozycji ciała, obrócenie się i położenie się.
 2. Środek transportu przeznaczony do przewozu psa służbowego oraz psa służbowego wycofanego z użycia zapewnia zwierzęciu dostateczną wymianę powietrza, bezpieczeństwo podczas transportu oraz jest utrzymywany w czystości i w razie potrzeby dezynfekowany i dezynsekowany.
+§ 9. Psa służbowego oraz psa służbowego wycofanego z użycia żywi się w okresie letnim raz, a w okresie zimowym dwa razy dziennie, o ile lekarz weterynarii nie zaleci inaczej.
 § 10. Normy wyżywienia psów służbowych oraz psów służbowych wycofanych z użycia są określone w załączniku nr 4 do rozporządzenia.
 § 11. Maksymalna wysokość normy wyżywienia psów służbowych oraz psów służbowych wycofanych z użycia, w przypadku jej podwyższenia, wynosi 130% normy określonej w załączniku nr 4 do rozporządzenia.
 § 12. Dzienna stawka pieniężna na wyżywienie psa służbowego wynosi:
 1) dla psa o wadze do 20 kg:
-a) w okresie letnim 9 zł,
-b) w okresie zimowym 13 zł,
-c) któremu podniesiono normę wyżywienia: w okresie letnim 12 zł, w okresie zimowym 17 zł;
+a) w okresie letnim – 9 zł,
+b) w okresie zimowym – 13 zł,
+c) któremu podniesiono normę wyżywienia: – w okresie letnim – 12 zł, – w okresie zimowym – 17 zł;
 2) dla psa o wadze powyżej 20 kg:
-a) w okresie letnim 13 zł,
-b) w okresie zimowym 16 zł,
-c) któremu podniesiono normę wyżywienia: w okresie letnim 17 zł, w okresie zimowym 21 zł.
+a) w okresie letnim – 13 zł,
+b) w okresie zimowym – 16 zł,
+c) któremu podniesiono normę wyżywienia: – w okresie letnim – 17 zł, – w okresie zimowym – 21 zł.
 § 13. Dzienna stawka pieniężna na wyżywienie psa służbowego wycofanego z użycia wynosi:
 1) dla psa o wadze do 20 kg:
-a) w okresie letnim 7 zł,
-b) w okresie zimowym 10 zł,
-c) któremu podniesiono normę wyżywienia: w okresie letnim 9 zł, w okresie zimowym 13 zł;
+a) w okresie letnim – 7 zł,
+b) w okresie zimowym – 10 zł,
+c) któremu podniesiono normę wyżywienia: – w okresie letnim – 9 zł, – w okresie zimowym – 13 zł;
 2) dla psa o wadze powyżej 20 kg:
-a) w okresie letnim 10 zł,
-b) w okresie zimowym 13 zł,
-c) któremu podniesiono normę wyżywienia: w okresie letnim 13 zł, w okresie zimowym 17 zł.
+a) w okresie letnim – 10 zł,
+b) w okresie zimowym – 13 zł,
+c) któremu podniesiono normę wyżywienia: – w okresie letnim – 13 zł, – w okresie zimowym – 17 zł.
 § 14. Okres zimowy liczony jest od dnia 1 listopada do dnia 31 marca.
+§ 15. 1. Ryczałt na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia, zwany dalej „ryczałtem”, przyznaje się opiekunowi psa służbowego, opiekunowi psa służbowego wycofanego z użycia lub organizacji społecznej na podstawie wniosku złożonego przez nich do Komendanta SOP lub osoby przez niego upoważnionej.
 2. Wniosek rozpatruje się w terminie 14 dni od dnia złożenia, przez jego zatwierdzenie lub odmowę zatwierdzenia, w formie pisemnej.
 3. Ryczałt przyznaje się w przypadku braku możliwości zapewnienia psu służbowemu wyżywienia w naturze.
 § 16. Ryczałt wypłaca niezwłocznie po zatwierdzeniu wniosku Komendant SOP lub osoba przez niego upoważniona.
 § 17. W przypadkach określonych w art. 245e ust. 6 ustawy Komendant SOP lub osoba przez niego upoważniona wzywa w formie pisemnej opiekuna lub organizację społeczną do zwrotu wypłaconego ryczałtu na rachunek bankowy SOP lub bezpośrednio w kasie SOP, najpóźniej do końca miesiąca następującego po miesiącu, w którym dokonano wypłaty.
+§ 18. Koszty zabiegów profilaktycznych i koszty leczenia psa służbowego, w tym koszty lekarstw, pokrywa się na wniosek kierownika OPPS złożony do Komendanta SOP lub osoby przez niego upoważnionej. Do wniosku załącza się fakturę.
 § 19. 1. Koszty zabiegów profilaktycznych i koszty leczenia psa służbowego wycofanego z użycia, w tym koszty lekarstw, pokrywa się na podstawie wniosku złożonego przez opiekuna tego psa, do Komendanta SOP lub osoby przez niego upoważnionej. Do wniosku załącza się fakturę.
 2. Koszty, o których mowa w ust. 1, wypłaca się niezwłocznie po zatwierdzeniu faktury przez Komendanta SOP lub osobę przez niego upoważnioną.
+§ 20. Sprawowanie nadzoru nad psami służbowymi polega na:
 1) prowadzeniu systematycznej kontroli prawidłowości utrzymania psów służbowych co najmniej raz na pół roku i każdorazowo w przypadku zmiany stałego miejsca przebywania, chowu zwierzęcia;
 2) wdrażaniu procedur naprawczych w przypadku stwierdzenia nieprawidłowości w wyniku przeprowadzenia kontroli, o której mowa w pkt 1.
 § 21. 1. Kontrola, o której mowa w § 20 pkt 1, obejmuje:
 1) przeprowadzanie przeglądu stanu zdrowia i kondycji, pielęgnacji i utrzymania w czystości oraz warunków utrzymania psów służbowych;
+2) sprawdzanie jakości karmy podawanej psom służbowym;
 3) sprawdzenie poddawania psów służbowych terminowym szczepieniom oraz zabiegom profilaktycznym;
 4) sprawdzenie pomieszczeń, w których przebywają psy służbowe;
 5) sprawdzenie stanu technicznego oraz utrzymania OPPS.
@@ -142,7 +152,8 @@ c) któremu podniesiono normę wyżywienia: w okresie letnim 13 zł, w okresie z
 3) przewodnik.
 3. Z czynności nadzorczych, o których mowa w § 22, sporządza się notatkę służbową i przedkłada ją do zapoznania zastępcy Komendanta SOP.
 4. Wzór notatki służbowej z przeprowadzenia kontroli prawidłowości utrzymania psa służbowego wycofanego z użycia jest określony w załączniku nr 6 do rozporządzenia.
-2. Komisję w sprawie odebrania psa służbowego lub psa służbowego wycofanego z użycia powołuje Komendant SOP
+§ 24. 1. Odebranie psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji społecznej następuje komisyjnie.
+2. Komisję w sprawie odebrania psa służbowego lub psa służbowego wycofanego z użycia powołuje Komendant SOP na wniosek odpowiednio kierownika rozpoznania lub zastępcy Komendanta SOP.
 3. W skład komisji w sprawie odebrania psa służbowego lub psa służbowego wycofanego z użycia wchodzą:
 1) kierownik OPPS lub osoba wyznaczona przez zastępcę Komendanta SOP, jako przewodniczący komisji;
 2) lekarz weterynarii;
@@ -150,27 +161,28 @@ c) któremu podniesiono normę wyżywienia: w okresie letnim 13 zł, w okresie z
 4. Decyzja o odebraniu psa służbowego lub psa służbowego wycofanego z użycia jest podejmowana większością głosów.
 5. Z czynności odebrania psa służbowego lub psa służbowego wycofanego z użycia sporządza się protokół, który zatwierdza Komendant SOP.
 6. Wzór protokołu odebrania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji społecznej jest określony w załączniku nr 7 do rozporządzenia.
-Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży W … ………… ………… ………… ………… W W ………… ………… ……… ………… W M W W W W W M W ………… ………… ………… ……… W M … … … … … … ……………………… W W W …………………… ……………………………… … W ……………………………… ……………………………… ……………… …………………………… ………………………………… ……………… …………………………… ………………………………… ……………… …………… ……… ………… …… M … … … … … … ……………………… W W W W W M W W W … … …………… …… ……………………………………… ……… ……………………………………………………………… ……… W ………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… ……………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… ………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… ……………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… ………………………………………………… …… … … ……………………………… …………………………………………………………… … … ……………………………… ……………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… ……………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… … … ……………………………… …………………………………………………………… ………………………………………… … … … ……………………………… ………………………………………………………… … … ……………………………… ………………………………………………………… … … … …………………………… ………………………………………………………… … … … … ………………………………… ……………………………………………………… … … … … ………………………………… ……………………………………………………… … … … … ………………………………… ……………………………………………………… … … … … ………………………………… ……………………………………………………… … … … … ………………………………… ……………………………………………………… … … … … ………………………………… ……………………………………………………… … … … … ………………………………… ……………………………………………………… ……………………… ……………… … ………………………… ……………… … …… …………… ……… ……… M … … … … … … … … ………………… M W W W W W M W W W ……… … ……… … … … … … … ………………………………… ……………………… ……… W ………………………… … ………………………… … … ………………………………… ……………………………………………………… … … ………………………………… ……………………………………………………… … … ………………………………… ……………………………………………………… … … ………………………………… ……………………………………………………… …………… …………………………… … … ………………………………… ……………………………………………………… … … ………………………………… ……………………………………………………… … … ………………………………… ……………………………………………………… …… …………………………………… ……………… … … … …………………………… ………………………………………………………… … … … …………………………… ………………………………………………………… … … … …………………………… ………………………………………………………… … … … …………………………… ………………………………………………………… … …………………………………… …………… … … … …………………………… ………………………………………………………… … … ……………………………… ………………………………………………… … … … …………………………… ……………………………………………………… … … … …………………………… ………………………………………………………… … … … …………………………… ………………………………………………………… … … … …………………………… ………………………………………………………… … … … …………………………… ………………………………………………………… … … … …………………………… ………………………………………………………… … … … …………………………… ………………………………………………………… … … … …………………………… ………………………………………………………… W ……………………… …………… ……………… ……………… ……… ………………… W M … … … … … ………………… ……… W W W W W ……… W ……………………… ……………………………… …………………………… …………………………………………………… ……………………………… ………………………… ……………………
+§ 25. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 21 grudnia 2021 r.
+Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży ………… ………… ………… … ………… W W W ………… ……… ………… W ………… W W W W M W M W ……… ……………… ……………… ……………… ………… W ……………………………… ………………………………… ………………………………… ………… ………… W ……………………………… …………………………… …………………………… W … ……………………………… W …………………… ……………………… M W … … … … … … …… ………… W ……… …………… W M ……… W ………………………………………………………………… ………………………………………………………… …………………………………………………………… …………………………………………………………… …………………………………………………………… …………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… W W ……………………………… W …… ………………………………… ………………………………… ………………………………… ………………………………… ……………………………… ……………………………… ……………………………… ……………………………… ……………………… W ……………………… …………… … M … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … W … W ………………………………………………………… …………………………………………………………… …………………………………………………………… …………………………………………………………… …………………………………………………………… …………………………………………………………… ……………………………………………………… …………………………………………………………… …… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………… ………………………………………………………… ……………………………………………………… ……………………………………………………… …………………………………………………… ………………………………………………… ……………………… ………………………………… ………………………………… ………………………………… ………………………………… ………………………………… ………………………………… ………………………………… ………………………………… ………………………………… ……………………………… ………………………………… ……………………………… ……………………………… ……………………………… ……………………………… ……………………………… ……………………………… ……………………………… ………………………………… … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………… ……………… ……………………… ………………………… ………………………………… ………………………………… ………………………………… ………………………………… ………………………………… ………………………………… ………………………………… … … … … … … … … … … … … … … … … … … … … … … … … … … … … ……… ……… …………… …… W M W ………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… …………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… W W ……… … W ………………………… …………… M ……………………… W ………………………………… ………………………………… ………………………………… ………………………………… ……………………………… ……………………………… ……………………………… ……………………………… W ………………… M ……… … … … … ……… … … … … … … … … … … … … … … … … … … … … … … … … W … W ……………… …………… ……………………… ……………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… …………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ………………………………………………………… ……………………………………………………… ………………………………………………… …………………………………… …………………………………… W …… … ……………………………… ……………………………… ……………………………… ……………………………… ……………………………… …………………………… ……………………………… ……………………………… ……………………………… ……………………………… ……………………………… ……………………………… ……………………………… ……………………………… … … … … … … … … … … … … … … … … … … … … … … … … … … … … … ………………… …………………… ……… ………………………… ……………… ……… ……………………………… W W …………………………………………………… W ……………………………… W W W ……………………… …………………………… ……… M ………………… W … … … … …
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Tryb przydzielania opiekunowi psa służbowego § 3. 1. Psa służbowego przydziela komisja, którą powołuje Komendant Służby Ochrony Państwa, zwanej dalej „SOP”, na wniosek kierownika rozpoznania.
+#### Rozdział 2 Tryb przydzielania opiekunowi psa służbowego
 
-#### Rozdział 3 Tryb rekrutacji kandydatów na opiekuna psa służbowego wycofanego z użycia § 4. 1. W przypadku, o którym mowa w art. 245c ust. 4 ustawy, Komendant SOP powołuje komisję w sprawie przeprowadzenia postępowania rekrutacyjnego wobec kandydatów na opiekuna psa służbowego wycofanego z użycia.
+#### Rozdział 3 Tryb rekrutacji kandydatów na opiekuna psa służbowego wycofanego z użycia
 
-#### Rozdział 4 Tryb wycofywania z użycia psa służbowego § 5. 1. Komendant SOP powołuje komisję w sprawie wycofania z użycia psa służbowego, na pisemny wniosek kierownika rozpoznania.
+#### Rozdział 4 Tryb wycofywania z użycia psa służbowego
 
-#### Rozdział 5 Sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych oraz psów służbowych wycofanych z użycia § 6. 1. Psa służbowego utrzymuje się na terenie OPPS, w miejscu zamieszkania opiekuna tego psa lub innym miejscu wyznaczonym przez kierownika rozpoznania.
+#### Rozdział 5 Sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych oraz psów służbowych wycofanych z użycia
 
-#### Rozdział 6 Sposób wyżywienia, wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia, w tym maksymalna wysokość normy w przypadku jej podwyższenia oraz wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia § 9. Psa służbowego oraz psa służbowego wycofanego z użycia żywi się w okresie letnim raz, a w okresie zimowym dwa razy dziennie, o ile lekarz weterynarii nie zaleci inaczej.
+#### Rozdział 6 Sposób wyżywienia, wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia, w tym maksymalna wysokość normy w przypadku jej podwyższenia oraz wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia
 
-#### Rozdział 7 Tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia § 15. 1. Ryczałt na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia, zwany dalej „ryczałtem”, przyznaje się opiekunowi psa służbowego, opiekunowi psa służbowego wycofanego z użycia lub organizacji społecznej na podstawie wniosku złożonego przez nich do Komendanta SOP lub osoby przez niego upoważnionej.
+#### Rozdział 7 Tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia
 
-#### Rozdział 8 Tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego lub psa służbowego wycofanego z użycia § 18. Koszty zabiegów profilaktycznych i koszty leczenia psa służbowego, w tym koszty lekarstw, pokrywa się na wniosek kierownika OPPS złożony do Komendanta SOP lub osoby przez niego upoważnionej. Do wniosku załącza się fakturę.
+#### Rozdział 8 Tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego lub psa służbowego wycofanego z użycia
 
-#### Rozdział 9 Sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi oraz psami służbowymi wycofanymi z użycia § 20. Sprawowanie nadzoru nad psami służbowymi polega na:
+#### Rozdział 9 Sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi oraz psami służbowymi wycofanymi z użycia
 
-#### Rozdział 10 Tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji społecznej § 24. 1. Odebranie psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji społecznej następuje komisyjnie.
+#### Rozdział 10 Tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji społecznej
 
-#### Rozdział 11 Przepis końcowy § 25. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 21 grudnia 2021 r.
+#### Rozdział 11 Przepis końcowy
 

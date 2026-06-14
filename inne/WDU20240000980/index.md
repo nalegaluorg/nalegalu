@@ -8,10 +8,10 @@ pos: 980
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 lipca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 980 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000980) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/980/text.pdf) |
 
-Poz. 980 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 czerwca 2024 r.
 w sprawie określenia lotnisk międzynarodowych Na podstawie art. 73 ust. 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110 oraz z 2024 r.
-poz. 731) zarządza się, co następuje: § 1. 1. Ustala się następujące lotniska międzynarodowe:
+poz. 731) zarządza się, co następuje:
+§ 1. 1. Ustala się następujące lotniska międzynarodowe:
 1) Bydgoszcz;
 2) Chopina w Warszawie;
 3) Gdańsk im. Lecha Wałęsy;
@@ -48,7 +48,7 @@ poz. 731) zarządza się, co następuje: § 1. 1. Ustala się następujące lotn
 18) Jelenia Góra;
 19) Przylep k. Zielonej Góry.
 2. Starty i lądowania statków powietrznych odbywających loty z przekroczeniem granicy zewnętrznej w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm. ) na lotniskach, o których mowa w ust. 1 pkt 14–17, mogą być wykonywane wyłącznie w terminach i godzinach określonych w przepisach dotyczących ustalenia dodatkowych lotniczych przejść granicznych.
-Dziennik Ustaw – 2 – Poz. 980 § 2. Traci moc rozporządzenie Rady Ministrów z dnia 29 czerwca 2015 r. w sprawie określenia lotnisk międzynarodowych (Dz. U. poz. 1059).
+§ 2. Traci moc rozporządzenie Rady Ministrów z dnia 29 czerwca 2015 r. w sprawie określenia lotnisk międzynarodowych (Dz. U. poz. 1059).
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Prezes Rady Ministrów: D. Tusk
 

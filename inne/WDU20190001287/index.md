@@ -8,7 +8,7 @@ pos: 1287
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw
@@ -29,45 +29,257 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2018 r. poz. 1530, 2161, 2193 i 2245 oraz z 2019 r. poz. 525) art. 28:
+- **1)** w art. 6a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Praca nauczyciela, z wyjątkiem pracy nauczyciela stażysty, podlega ocenie. Ocena pracy nauczyciela może być dokonana w każdym czasie, nie wcześniej jednak niż po upływie roku od dokonania oceny poprzedniej lub oceny dorobku zawodowego, o której mowa w art. 9c ust. 5a, z inicjatywy dyrektora szkoły lub na wniosek:
+
+- **1)** nauczyciela;
+- **2)** organu sprawującego nadzór pedagogiczny, a w przypadku nauczycieli placówek doskonalenia nauczycieli – kuratora oświaty;
+- **3)** organu prowadzącego szkołę;
+- **4)** rady szkoły;
+- **5)** rady rodziców.”,
+    - **b)** uchyla się ust. 1a–1d,
+    - **c)** ust. 1e i 1f otrzymują brzmienie: „1e. Ocena pracy nauczyciela dotyczy stopnia realizacji obowiązków określonych w art. 6 i art. 42 ust. 2 oraz w art. 5 ustawy – Prawo oświatowe w zakresie wszystkich obszarów działalności szkoły.
+
+1f. Ocena pracy dyrektora szkoły dotyczy stopnia realizacji obowiązków określonych w art. 6 i art. 7 oraz w art. 68 ust. 1, 5 i 6 ustawy – Prawo oświatowe, a w przypadku realizowania przez dyrektora szkoły zajęć dydaktycznych, wychowawczych i opiekuńczych – także obowiązków określonych w art. 42 ust. 2 oraz w art. 5 ustawy – Prawo oświatowe.”,
+
+- **d)** ust. 2 otrzymuje brzmienie: „2. Dyrektor szkoły jest obowiązany dokonać oceny pracy nauczyciela w okresie nie dłuższym niż 3 miesiące od dnia złożenia wniosku, a w przypadku oceny pracy dokonywanej z własnej inicjatywy – w okresie nie dłuższym niż 3 miesiące od dnia powiadomienia nauczyciela na piśmie o rozpoczęciu dokonywania oceny jego pracy, z zastrzeżeniem terminu określonego w ust. 1.”,
+- **e)** uchyla się ust. 2a,
+- **f)** ust. 2b otrzymuje brzmienie: „2b. Do okresów, o których mowa w ust. 2, nie wlicza się okresów usprawiedliwionej nieobecności nauczyciela w pracy, trwającej dłużej niż 14 dni, oraz okresów ferii szkolnych wynikających z przepisów w sprawie organizacji roku szkolnego, a w przypadku nauczycieli zatrudnionych w szkołach, w których nie są przewidziane ferie szkolne – okresów urlopu wypoczynkowego trwającego nieprzerwanie co najmniej 14 dni kalendarzowych.”,
+- **g)** w ust. 5 uchyla się pkt 2,
+- **h)** uchyla się ust. 5e,
+- **i)** ust. 7a otrzymuje brzmienie: „7a. Do oceny pracy, o której mowa w ust. 6, przepisy ust. 1, 2, 2b, 4, 8 i 8a stosuje się odpowiednio.”,
+- **j)** ust. 12 otrzymuje brzmienie: „12. Minister właściwy do spraw oświaty i wychowania, a w stosunku do nauczycieli szkół artystycznych, zakładów poprawczych, schronisk dla nieletnich odpowiednio – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego oraz Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, określi, w drodze rozporządzenia, tryb dokonywania oceny pracy nauczycieli, w tym nauczycieli zajmujących stanowiska kierownicze, szczegółowy zakres informacji zawartych w karcie oceny pracy, skład i sposób powoływania zespołu oceniającego oraz szczegółowy tryb postępowania odwoławczego, mając na uwadze konieczność zapewnienia odpowiedniego poziomu wykonywania pracy przez nauczycieli.”;
+- **2)** w art. 9b ust. 1 otrzymuje brzmienie: „1. Warunkiem nadania nauczycielowi kolejnego stopnia awansu zawodowego jest spełnienie wymagań kwalifikacyjnych, o których mowa w art. 9 ust. 1 pkt 1 oraz ust. 2 i 3, odbycie stażu, z zastrzeżeniem art. 9e ust. 1–3, zakończonego pozytywną oceną dorobku zawodowego nauczyciela, o której mowa w art. 9c ust. 5a, oraz:
+- **1)** w przypadku nauczyciela stażysty – uzyskanie akceptacji komisji kwalifikacyjnej po przeprowadzonej rozmowie;
+- **2)** w przypadku nauczyciela kontraktowego – zdanie egzaminu przed komisją egzaminacyjną;
+- **3)** w przypadku nauczyciela mianowanego – uzyskanie akceptacji komisji kwalifikacyjnej po dokonaniu analizy dorobku zawodowego nauczyciela i przeprowadzonej rozmowie.”;
+- **3)** w art. 9c:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) nauczyciela kontraktowego – 9 miesięcy;”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Zadaniem opiekuna stażu, o którym mowa w ust. 4, jest udzielanie nauczycielowi pomocy, w szczególności w przygotowaniu i realizacji w okresie stażu planu rozwoju zawodowego nauczyciela, oraz opracowanie projektu oceny dorobku zawodowego nauczyciela za okres stażu.”,
+    - **c)** po ust. 5 dodaje się ust. 5a–5f w brzmieniu: „5a. Ocenę dorobku zawodowego nauczyciela za okres stażu ustala, w terminie nie dłuższym niż 21 dni od dnia złożenia sprawozdania, o którym mowa w ust. 3, z uwzględnieniem stopnia realizacji planu rozwoju zawodowego nauczyciela, dyrektor szkoły:
+
+- **1)** w przypadku nauczyciela stażysty i nauczyciela kontraktowego – po zapoznaniu się z projektem oceny opracowanym przez opiekuna stażu i po zasięgnięciu opinii rady rodziców;
+- **2)** w przypadku nauczyciela mianowanego – po zasięgnięciu opinii rady rodziców.
+
+5b. Rada rodziców powinna przedstawić swoją opinię w terminie 14 dni od dnia otrzymania zawiadomienia o dokonywanej ocenie dorobku zawodowego nauczyciela. Nieprzedstawienie opinii rady rodziców nie wstrzymuje postępowania, o którym mowa w ust. 5a.
+
+5c. Ocena dorobku zawodowego nauczyciela może być pozytywna lub negatywna. Ocena jest sporządzana na piśmie i zawiera uzasadnienie oraz pouczenie o możliwości wniesienia odwołania.
+
+5d. Od oceny dorobku zawodowego nauczycielowi służy odwołanie do organu sprawującego nadzór pedagogiczny w terminie 14 dni od dnia jej otrzymania. Organ sprawujący nadzór pedagogiczny rozpatruje odwołanie w terminie 21 dni. Ocena dorobku zawodowego nauczyciela ustalona przez organ sprawujący nadzór pedagogiczny jest ostateczna.
+
+5e. W przypadku niedotrzymania przez organ sprawujący nadzór pedagogiczny terminu rozpatrzenia odwołania, o którym mowa w ust. 5d, nauczyciel jest dopuszczony odpowiednio do rozmowy kwalifikacyjnej, o której mowa w art. 9b ust. 1 pkt 1, egzaminu, o którym mowa w art. 9b ust. 1 pkt 2, lub może się ubiegać o akceptację komisji, o której mowa w art. 9b ust. 1 pkt 3.
+
+5f. W przypadku gdy ostateczna ocena dorobku zawodowego nauczyciela jest negatywna, ponowna ocena dorobku może być dokonana po odbyciu, na wniosek nauczyciela i za zgodą dyrektora szkoły, jednego dodatkowego stażu w wymiarze 9 miesięcy.”;
+
+- **4)** w art. 9d:
+    - **a)** ust. 3 i 4 otrzymują brzmienie: „3. Przepisy ust. 1 i 2 stosuje się również do dodatkowego stażu, o którym mowa w art. 9c ust. 5f i art. 9g ust. 8.
+
+4. Nauczyciel kontraktowy może rozpocząć staż na stopień nauczyciela mianowanego po przepracowaniu w szkole co najmniej 2 lat, a nauczyciel mianowany może rozpocząć staż na stopień nauczyciela dyplomowanego po przepracowaniu w szkole co najmniej roku od dnia nadania poprzedniego stopnia awansu zawodowego.”,
+
+- **b)** uchyla się ust. 4a,
+- **c)** ust. 7 otrzymuje brzmienie: „7. Nauczyciel stażysta i nauczyciel kontraktowy składają wniosek o podjęcie odpowiednio postępowania kwalifikacyjnego lub egzaminacyjnego w roku uzyskania pozytywnej oceny dorobku zawodowego za okres stażu. Nauczyciel mianowany może złożyć wniosek o podjęcie postępowania kwalifikacyjnego w okresie 3 lat od dnia otrzymania pozytywnej oceny dorobku zawodowego za okres stażu. W razie niedotrzymania terminów złożenia wniosków nauczyciele ci są obowiązani do ponownego odbycia stażu w pełnym wymiarze.”;
+- **5)** w art. 9e ust. 1–3 otrzymują brzmienie: „1. Dyrektor szkoły posiadający na tym stanowisku nieprzerwany okres pracy wynoszący co najmniej 3 lata, a w przypadku nauczyciela posiadającego co najmniej stopień naukowy doktora co najmniej 2 lata, oraz legitymujący się co najmniej bardzo dobrą oceną pracy, może złożyć wniosek o podjęcie postępowania kwalifikacyjnego o awans na stopień nauczyciela dyplomowanego po upływie 4 lat od dnia nadania stopnia nauczyciela mianowanego, a w przypadku nauczyciela posiadającego co najmniej stopień naukowy doktora po upływie 3 lat od dnia nadania stopnia nauczyciela mianowanego.
+
+2. Nauczyciel mianowany, o którym mowa w art. 1 ust. 2 pkt 1 i 1b, zatrudniony na stanowisku, na którym są wymagane kwalifikacje pedagogiczne, posiadający nieprzerwany okres pracy na tym stanowisku co najmniej 3 lata, a w przypadku nauczyciela posiadającego co najmniej stopień naukowy doktora co najmniej 2 lata, może złożyć wniosek o podjęcie postępowania kwalifikacyjnego o awans na stopień nauczyciela dyplomowanego po upływie 4 lat od dnia nadania stopnia nauczyciela mianowanego, a w przypadku nauczyciela posiadającego co najmniej stopień naukowy doktora po upływie 3 lat od dnia nadania stopnia nauczyciela mianowanego.
+
+3. Nauczyciel urlopowany lub zwolniony z obowiązku świadczenia pracy na podstawie ustawy z dnia 23 maja 1991 r. o związkach zawodowych, którego okres urlopowania lub zwolnienia z obowiązku świadczenia pracy trwa nieprzerwanie co najmniej 3 lata, może złożyć wniosek o podjęcie postępowania egzaminacyjnego o awans na stopień nauczyciela mianowanego lub wniosek o podjęcie postępowania kwalifikacyjnego o awans na stopień nauczyciela dyplomowanego odpowiednio po upływie 5 lat od dnia nadania stopnia nauczyciela kontraktowego i po upływie 4 lat od dnia nadania stopnia nauczyciela mianowanego.”;
+
+- **6)** w art. 9f ust. 2 i 3 otrzymują brzmienie: „2. Nauczycielom, którzy w okresie trwania stażu zmienili miejsce zatrudnienia, do stażu, o którym mowa w art. 9c ust. 1, zalicza się okres dotychczas odbytego stażu, jeżeli podjęli zatrudnienie w szkole nie później niż w okresie 3 miesięcy po ustaniu poprzedniego stosunku pracy i za okres dotychczas odbytego stażu otrzymali pozytywną ocenę dorobku zawodowego.
+
+3. Ocenę, o której mowa w ust. 2, uwzględnia się przy dokonywaniu oceny dorobku zawodowego nauczyciela za okres całego stażu.”;
+
+- **7)** w art. 9g:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Komisję kwalifikacyjną dla nauczycieli ubiegających się o awans na stopień nauczyciela kontraktowego powołuje dyrektor szkoły. W skład komisji wchodzą:
+
+- **1)** dyrektor lub wicedyrektor szkoły, jako przewodniczący komisji;
+- **2)** przewodniczący zespołu nauczycieli, o którym mowa w przepisach wydanych na podstawie art. 111 ustawy – Prawo oświatowe, a jeżeli zespół taki nie został w tej szkole powołany – nauczyciel mianowany lub dyplomowany zatrudniony w szkole, a w przypadku przedszkola, szkoły lub placówki, o których mowa w art. 1 ust. 2 pkt 2, w których nie są zatrudnieni nauczyciele mianowani lub dyplomowani – nauczyciel kontraktowy;
+- **3)** opiekun stażu.”,
+    - **b)** w ust. 8 pkt 1 otrzymuje brzmienie: „1) nauczyciel stażysta i nauczyciel kontraktowy mogą przystąpić ponownie odpowiednio do rozmowy z komisją kwalifikacyjną lub do egzaminu przed komisją egzaminacyjną tylko jeden raz w danej szkole;”,
+    - **c)** ust. 8b otrzymuje brzmienie: „8b. W przypadku nauczycieli, o których mowa w art. 1 ust. 2 pkt 1a, rozmowa, o której mowa w art. 9b ust. 1 pkt 1, może być przeprowadzana w formie wideokonferencji przy wykorzystaniu narzędzi teleinformatycznych umożliwiających przesyłanie dźwięku i obrazu w czasie rzeczywistym.”;
+
+- **8)** w art. 10: W przypadkach, o których mowa w art. 9c ust. 5f i art. 9g ust. 8, w razie ustalenia dodatkowego stażu, z nauczycielem stażystą nawiązuje się stosunek pracy na czas określony na kolejny jeden rok szkolny.
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Z osobą posiadającą wymagane kwalifikacje, z zastrzeżeniem ust. 3, i rozpoczynającą pracę w szkole stosunek pracy nawiązuje się na podstawie umowy o pracę na czas określony na jeden rok szkolny w celu odbycia stażu wymaganego do uzyskania awansu na stopień nauczyciela kontraktowego, z zastrzeżeniem ust. 7.
+
+3. W szczególnych przypadkach uzasadnionych potrzebami szkoły z osobą, o której mowa w ust. 2, legitymującą się wymaganym poziomem wykształcenia, lecz nieposiadającą przygotowania pedagogicznego, dopuszczalne jest nawiązanie stosunku pracy, o ile osoba ta zobowiąże się do uzyskania przygotowania pedagogicznego w trakcie odbywania stażu. W przypadku gdy nauczyciel w ciągu pierwszego roku pracy w szkole nie uzyska przygotowania pedagogicznego z przyczyn od niego niezależnych, z nauczycielem może być zawarta umowa o pracę na kolejny jeden rok szkolny. Staż wymagany do ubiegania się o awans na stopień nauczyciela kontraktowego przedłuża się do czasu uzyskania przygotowania pedagogicznego.”,
+
+- **b)** dodaje się ust. 12–17 w brzmieniu: „12. Okres zatrudnienia na podstawie umowy o pracę na czas określony zawartej w przypadku zaistnienia potrzeby wynikającej z organizacji nauczania, zgodnie z ust. 7, a także łączny okres zatrudnienia na podstawie tych umów między tymi samymi stronami stosunku pracy, nie może przekraczać 36 miesięcy.
+
+13. Do okresu zatrudnienia, o którym mowa w ust. 12, wlicza się umowy o pracę na czas określony, o których mowa w ust. 12, zawarte na następujące po sobie okresy, o ile przerwa między rozwiązaniem poprzedniej a nawiązaniem kolejnej umowy o pracę nie przekroczyła 3 miesięcy.
+
+14. Jeżeli okres zatrudnienia na podstawie umów o pracę na czas określony, o których mowa w ust. 12, przekracza okres, o którym mowa w ust. 12, z dniem następującym po upływie tego okresu, stosunek pracy przekształca się:
+
+- **1)** w przypadku nauczyciela kontraktowego – w stosunek pracy na podstawie umowy o pracę na czas nieokreślony;
+- **2)** w przypadku nauczyciela mianowanego i nauczyciela dyplomowanego – w stosunek pracy na podstawie mianowania, a w przypadku niespełniania warunków, o których mowa w ust. 5 pkt 1 i 6 – w stosunek pracy na podstawie umowy o pracę na czas nieokreślony.
+
+15. Przekształcenie podstawy prawnej stosunku pracy, o którym mowa w ust. 14, potwierdza na piśmie dyrektor szkoły.
+
+16. Przepisów ust. 12–15 nie stosuje się do umów o pracę na czas określony zawartych:
+
+- **1)** w celu zastępstwa nieobecnego nauczyciela, jeżeli ich zawarcie w danym przypadku służy zaspokojeniu rzeczywistego okresowego zapotrzebowania i jest niezbędne w tym zakresie w świetle wszystkich okoliczności zawarcia umowy;
+- **2)** z nauczycielem nieposiadającym kwalifikacji wymaganych do zajmowania danego stanowiska, zgodnie z ust. 9;
+- **3)** w przypadku przedłużenia umowy o pracę do dnia porodu, zgodnie z art. 177 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040 i 1043).
+
+17. Z nauczycielem realizującym zadania doradcy metodycznego stosunek pracy w placówce doskonalenia nauczycieli nawiązuje się na podstawie umowy o pracę na czas określony obejmujący okres, na który powierzone zostały zadania doradcy metodycznego.”;
+
+- **9)** w art. 10a w ust. 1 skreśla się wyrazy „(Dz. U. z 2018 r. poz. 108, 4, 138, 305 i 357)”;
+- **10)** w art. 22 ust. 4 otrzymuje brzmienie: „4. W przypadku, o którym mowa w ust. 3, organ sprawujący nadzór pedagogiczny wyznacza dyrektora szkoły, który wykonuje czynności związane z odbywaniem stażu przez nauczyciela, w tym powołuje opiekuna stażu, dokonuje oceny dorobku zawodowego nauczyciela oraz wskazuje nauczycielowi właściwego dyrektora szkoły lub właściwy organ do złożenia wniosku o podjęcie odpowiednio postępowania kwalifikacyjnego lub egzaminacyjnego.”;
+- **11)** w art. 30:
+    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) dodatków: za wysługę lat, motywacyjnego, funkcyjnego, w tym z tytułu sprawowania funkcji wychowawcy klasy, oraz za warunki pracy,”, – pkt 4 otrzymuje brzmienie: „4) nagród i innych świadczeń wynikających ze stosunku pracy, z wyłączeniem świadczeń z zakładowego funduszu świadczeń socjalnych, świadczenia, o którym mowa w art. 53a, i dodatku, o którym mowa w art. 54 ust. 5.”,
+    - **b)** w ust. 6 pkt 1 otrzymuje brzmienie: „1) wysokość stawek dodatków, o których mowa w ust. 1 pkt 2, oraz szczegółowe warunki przyznawania tych dodatków, z zastrzeżeniem art. 33–34a,”,
+    - **c)** ust. 8 i 8a otrzymują brzmienie: „8. Środki niezbędne na średnie wynagrodzenia nauczycieli, o których mowa w ust. 3, wraz z pochodnymi od wynagrodzeń, środki na odpis, o którym mowa w art. 53 ust. 1, środki na świadczenie, o którym mowa w art. 53a, oraz środki na dofinansowanie doskonalenia zawodowego nauczycieli, z uwzględnieniem szkoleń branżowych, o których mowa w art. 70a ust. 1, są zagwarantowane przez państwo w dochodach jednostek samorządu terytorialnego.
+
+8a. W przypadku szkół prowadzonych przez właściwych ministrów środki niezbędne na wynagrodzenia nauczycieli, wraz z pochodnymi od wynagrodzeń, środki na odpis, o którym mowa w art. 53 ust. 1, środki na świadczenie, o którym mowa w art. 53a, oraz środki na dofinansowanie doskonalenia zawodowego nauczycieli, z uwzględnieniem szkoleń branżowych, o których mowa w art. 70a ust. 1, są zagwarantowane w budżetach tych ministrów.”,
+
+- **d)** ust. 10 i 10a otrzymują brzmienie: „10. Organy prowadzące szkoły będące jednostkami samorządu terytorialnego mogą zwiększać środki na wynagrodzenia nauczycieli, w tym podwyższać minimalne stawki wynagrodzenia zasadniczego, ustalone w przepisach wydanych na podstawie ust. 5 pkt 1, oraz minimalną wysokość dodatku z tytułu sprawowania funkcji wychowawcy klasy określoną w art. 34a ust. 2. Organy prowadzące mogą ponadto upoważniać dyrektorów szkół, w indywidualnych przypadkach oraz w granicach ustalonego planu finansowego szkoły, do przyznawania minimalnej stawki wynagrodzenia zasadniczego nauczyciela wyższej od ustalonej w przepisach wydanych na podstawie ust. 5 pkt 1 lub podwyższonej przez organ prowadzący.
+
+10a. Podwyższenie minimalnych stawek wynagrodzenia zasadniczego oraz minimalnej wysokości dodatku z tytułu sprawowania funkcji wychowawcy klasy określonej w art. 34a ust. 2 następuje w trybie określonym w ust. 6.”;
+
+- **12)** po art. 34 dodaje się art. 34a w brzmieniu: „Art. 34a. 1. Nauczycielowi, któremu powierzono sprawowanie funkcji wychowawcy klasy, przysługuje dodatek funkcyjny z tytułu sprawowania funkcji wychowawcy klasy.
+
+2. Minimalna wysokość dodatku, o którym mowa w ust. 1, wynosi 300 zł.”;
+
+- **13)** w art. 42:
+    - **a)** w ust. 3 w tabeli: – w rubryce: stanowisko – typ (rodzaj) szkoły w lp. 3 po wyrazach „liceów ogólnokształcących,” dodaje się wyrazy „przedmiotów z zakresu kształcenia ogólnego i”, – uchyla się lp. 5,
+    - **b)** w ust. 4a uchyla się pkt 2,
+    - **c)** w ust. 7 w pkt 3 w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) nauczycieli praktycznej nauki zawodu we wszystkich typach szkół i na kwalifikacyjnych kursach zawodowych, z tym że wymiar ten nie może przekraczać 20 godzin.”;
+
+- **14)** po art. 53 dodaje się art. 53a w brzmieniu: „Art. 53a. 1. Nauczyciel stażysta odbywający staż na stopień nauczyciela kontraktowego otrzymuje jednorazowe świadczenie na start w wysokości 1000 zł.
+
+2. Świadczenie, o którym mowa w ust. 1, jest wypłacane w terminie do dnia 30 września roku, w którym nauczyciel rozpoczął staż.
+
+3. Nauczyciel stażysta pozostający jednocześnie w więcej niż jednym stosunku pracy, świadczenie, o którym mowa w ust. 1, otrzymuje w szkole wskazanej jako podstawowe miejsce zatrudnienia.
+
+4. Nauczyciel stażysta odbywający staż na stopień nauczyciela kontraktowego może otrzymać świadczenie na start w wysokości 1000 zł nie więcej niż jeden raz w okresie całego zatrudnienia.
+
+5. Świadczenia, o którym mowa w ust. 1, nie uwzględnia się przy obliczaniu kwot wydatkowanych na średnie wynagrodzenia nauczycieli, o których mowa w art. 30 ust. 3.”;
+
+- **15)** w art. 70a ust. 6 otrzymuje brzmienie: „6. Ze środków, o których mowa w ust. 4, wojewoda udziela jednostkom samorządu terytorialnego prowadzącym placówki doskonalenia nauczycieli zatrudniające doradców metodycznych, o których mowa w art. 183 ust. 4 ustawy – Prawo oświatowe, dotacji na finansowanie wydatków związanych z zatrudnieniem nauczycieli w celu realizacji zadań doradcy metodycznego. Przekazanie dotacji następuje na podstawie umowy.”;
+- **16)** w art. 75 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Kar porządkowych, o których mowa w ust. 2, nie wymierza się za popełnienie czynu naruszającego prawa i dobro dziecka. O popełnieniu przez nauczyciela czynu naruszającego prawa i dobro dziecka dyrektor szkoły, a w przypadku popełnienia takiego czynu przez dyrektora szkoły – organ prowadzący szkołę, zawiadamia rzecznika dyscyplinarnego, o którym mowa w art. 83, nie później niż w ciągu 3 dni roboczych od dnia powzięcia wiadomości o popełnieniu czynu.”;
+- **17)** w art. 85 w ust. 4 pkt 2 otrzymuje brzmienie: „2) za popełniony czyn nauczyciel został ukarany karą porządkową zgodnie z art. 108 Kodeksu pracy, chyba że popełniony czyn narusza prawa i dobro dziecka;”;
+- **18)** w art. 85b w ust. 1 w pkt 2 lit. c otrzymuje brzmienie: „c) za popełniony czyn nauczyciel został ukarany karą porządkową zgodnie z art. 108 Kodeksu pracy, chyba że popełniony czyn narusza prawa i dobro dziecka,”;
+- **19)** w art. 85j w ust. 5 w pkt 3 lit. a otrzymuje brzmienie: „a) za popełniony czyn nauczyciel został ukarany karą porządkową zgodnie z art. 108 Kodeksu pracy, chyba że popełniony czyn narusza prawa i dobro dziecka,”;
+- **20)** w art. 85o dodaje się ust. 7 w brzmieniu: „7. Jeżeli czyn narusza prawa i dobro dziecka postępowanie dyscyplinarne może być wszczęte także po upływie 3 miesięcy od dnia powzięcia przez organ, przy którym działa komisja dyscyplinarna pierwszej instancji, wiadomości o popełnieniu czynu uchybiającego godności zawodu nauczyciela lub obowiązkom, o których mowa w art. 6.”;
+- **21)** w art. 91d pkt 3 otrzymuje brzmienie: „3) art. 6a ust. 1 pkt 3 oraz ust. 6, art. 9b ust. 3, 3a i 4 pkt 2 oraz ust. 6 i 7 pkt 1, art. 9f ust. 1, art. 9g ust. 3 pkt 1 i ust. 4, art. 18 ust. 4 i 5, art. 22 ust. 1, art. 26 ust. 2, art. 42 ust. 6a, art. 54 ust. 5, art. 63 ust. 2, art. 75 ust. 2a, art. 85s ust. 4, art. 85t ust. 1, 2 i 5 oraz art. 85z ust. 1 pkt 2 i ust. 3 pkt 2 – wykonuje odpowiednio: wójt, burmistrz (prezydent miasta), starosta, marszałek województwa.”.
+
+**Art. 2.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2018 r. poz. 1530, 2161, 2193 i 2245 oraz z 2019 r. poz. 525) w art. 28:
+
+- **1)** w ust. 5 pkt 2 otrzymuje brzmienie: „2) zapewnieniem kształcenia, wychowania i opieki uczniom, którzy kończą 5 lat lub mniej w roku bazowym, w przedszkolach, oddziałach przedszkolnych w szkołach podstawowych i innych formach wychowania przedszkolnego, niezwiązanych z wychowaniem i kształceniem specjalnym, zajęciami rewalidacyjno-wychowawczymi oraz finansowaniem świadczenia na start, o którym mowa w art. 53a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730 i 1287).”;
+- **2)** w ust. 6 po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „7a) liczby nauczycieli stażystów uprawnionych do świadczenia na start, o którym mowa w art. 53a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela;
+- **7b)** sytuacji finansowej jednostek samorządu terytorialnego;”.
 
 **Art. 3.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2019 r. poz. 341 i 622) wprowadza się następujące zmiany:
 
+- **1)** w art. 21 w ust. 1 pkt 1 otrzymuje brzmienie: „1) uczeń szkoły ponadpodstawowej prowadzącej kształcenie w zawodzie:
+    - **a)** dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148 i 1078), przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym, lub
+    - **b)** realizującej przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w ramach dodatkowych umiejętności zawodowych w zakresie wybranych zawodów, o których mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo”;
+
+- **2)** w art. 75 w ust. 1 pkt 7 otrzymuje brzmienie: „7) kandydat do szkoły ponadpodstawowej lub uczeń szkoły ponadpodstawowej, prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym lub do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy i umiejętności kierowania pojazdem silnikowym lub realizującej przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w ramach dodatkowych umiejętności zawodowych w zakresie wybranych zawodów, o których mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;”.
+
 **Art. 4.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2018 r. poz. 1900 i 2245 oraz z 2019 r. poz. 60) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203 oraz z 2018 r. poz. 2245) art. 165a otrzymuje brzmienie: „Art. 165a. Na rok szkolny 2019/2020 do klasy I publicznej branżowej szkoły I stopnia dla kandydatów będących absolwentami dotychczasowego gimnazjum młodocianych pracowników przyjmuje się na podstawie świadectwa ukończenia gimnazjum i umowy o pracę celu przygotowania zawodowego odbywanego formie nauki zawodu.”.
+- **1)** w art. 29 w ust. 1:
+    - **a)** w pkt 1 lit. k otrzymuje brzmienie: „k) datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia stosunku pracy, a w przypadku przeniesienia nauczyciela na inne stanowisko lub do innej szkoły na podstawie art. 18 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela – także datę przeniesienia,”,
+    - **b)** w pkt 1a lit. j otrzymuje brzmienie: „j) datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia stosunku pracy, a w przypadku przeniesienia nauczyciela na inne stanowisko lub do innej szkoły na podstawie art. 18 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela – także datę przeniesienia;”;
+
+- **2)** w art. 50:
+    - **a)** w ust. 1: – zdanie wstępne otrzymuje brzmienie: „Na podstawie danych zgromadzonych w bazie danych SIO zawartych w zbiorach danych szkół i placówek oświatowych, zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty, zbiorach danych uczniów oraz zbiorach danych nauczycieli, według stanu na dzień 30 września, a w przypadku kolegiów pracowników służb społecznych według stanu na dzień 10 października, są sporządzane:”, – pkt 2 otrzymuje brzmienie: „2) zestawienia zawierające dane dotyczące liczby uczniów i liczby etatów nauczycieli w szkołach i placówkach oświatowych prowadzonych przez ministrów.”,
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Zestawienia, o których mowa w ust. 1 pkt 1, są udostępniane w bazie danych SIO jednostkom samorządu terytorialnego nie później niż do dnia 15 grudnia, a jeżeli dzień ten wypada w dniu ustawowo wolnym od pracy, w najbliższym dniu roboczym.
+
+3. Jednostki samorządu terytorialnego, w terminie 30 dni od dnia udostępnienia w bazie danych SIO zestawień, o których mowa w ust. 1 pkt 1, potwierdzają prawdziwość danych zawartych w zestawieniach.”,
+
+- **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Minister właściwy do spraw oświaty i wychowania może przedłużyć termin potwierdzenia prawdziwości danych, o którym mowa w ust. 3, przez jednostki samorządu terytorialnego.”,
+- **d)** w ust. 4 wyrazy „o których mowa w ust. 1 pkt 1” zastępuje się wyrazami „o których mowa w ust. 1”;
+- **3)** w art. 66:
+    - **a)** uchyla się ust. 4,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Minister właściwy do spraw oświaty i wychowania podaje do publicznej wiadomości wysokość opłat za udostępnianie raportów z bazy danych SIO, uwzględniając pracochłonność oraz stopień skomplikowania raportów.”,
+    - **c)** w ust. 6 wyrazy „ust. 4” zastępuje się wyrazami „ust. 5”;
+
+- **4)** w art. 93:
+    - **a)** w ust. 1 w pkt 2 średnik zastępuje się kropką i uchyla się pkt 3,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Dane ucznia zgromadzone w zbiorze danych ucznia w bazie danych SIO zostają zanonimizowane po upływie 5 lat od dnia wprowadzenia do tego zbioru ostatniej informacji, z wyjątkiem danych, o których mowa w art. 20.”.
+
+**Art. 5.** W ustawie z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203 oraz z 2018 r. poz. 2245) art. 165a otrzymuje brzmienie: „Art. 165a. Na rok szkolny 2019/2020 do klasy I publicznej branżowej szkoły I stopnia dla kandydatów będących absolwentami dotychczasowego gimnazjum młodocianych pracowników przyjmuje się na podstawie świadectwa ukończenia gimnazjum i umowy o pracę w celu przygotowania zawodowego odbywanego w formie nauki zawodu.”.
 
 **Art. 6.** W ustawie z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203 oraz z 2018 r. poz. 2245) wprowadza się następujące zmiany:
 
+- **1)** w art. 76:
+    - **a)** w pkt 20: – w lit. a uchyla się tiret pierwsze, – uchyla się lit. c,
+    - **b)** uchyla się pkt 21;
+
+- **2)** uchyla się art. 133;
+- **3)** w art. 147 uchyla się pkt 5.
+
 **Art. 7.** W ustawie z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245 i 2432 oraz z 2019 r. poz. 534) wprowadza się następujące zmiany:
+
+- **1)** w art. 1:
+    - **a)** w pkt 21 lit. d otrzymuje brzmienie: „d) po ust. 8 dodaje się ust. 8a–8c w brzmieniu: „8a. Minister właściwy do spraw oświaty i wychowania wyraża zgodę na prowadzenie eksperymentu pedagogicznego, po uzyskaniu pozytywnej opinii ministra właściwego dla zawodu, a w przypadku zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego – ministra, który ze względu na zakres działu administracji rządowej, którym kieruje, jest właściwy dla zawodu, którego dotyczy wniosek, o którym mowa w ust. 9.
+
+8b. Minister, o którym mowa w ust. 8a, może wydać opinię pozytywną, negatywną albo pozytywną pod warunkiem wprowadzenia we wniosku zmian wskazanych przez tego ministra.
+
+8c. W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego zgoda ministra właściwego do spraw oświaty i wychowania, o której mowa w ust. 8a, obejmuje przypisanie do kwalifikacji wyodrębnionych w tym zawodzie oraz do zawodu poziomu Polskiej Ramy Kwalifikacji. Dokonując przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych w zawodzie oraz zawodu, stosuje się przepisy art. 21 ust. 1–3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.”.”,
+
+- **b)** w pkt 82 w art. 178 ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw oświaty i wychowania w decyzji, o której mowa w ust. 1, określa niezbędne warunki funkcjonowania szkoły, uwzględniając w szczególności założenia i sposób realizacji eksperymentu, wskazane we wniosku, a także możliwość wydawania świadectw, zaświadczeń i innych druków zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy o systemie oświaty. W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego decyzja obejmuje również przypisanie do kwalifikacji wyodrębnionych w tym zawodzie oraz do zawodu poziomu Polskiej Ramy Kwalifikacji. Dokonując przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych w zawodzie oraz zawodu, stosuje się przepisy art. 21 ust. 1–3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.”;
+- **2)** w art. 6:
+    - **a)** w pkt 10: – w art. 9j ust. 2 otrzymuje brzmienie: „2. Warunkiem nadania nauczycielowi szkoły za granicą stopnia awansu zawodowego jest posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, odbycie stażu nauczyciela za granicą zakończonego pozytywną oceną realizacji planu rozwoju zawodowego nauczyciela, o której mowa w art. 9q ust. 2, oraz:
+
+- **1)** w przypadku nauczyciela stażysty – uzyskanie akceptacji komisji kwalifikacyjnej po przeprowadzonej rozmowie;
+- **2)** w przypadku nauczyciela kontraktowego – zdanie egzaminu przed komisją egzaminacyjną;
+- **3)** w przypadku nauczyciela mianowanego – uzyskanie akceptacji komisji kwalifikacyjnej po dokonaniu analizy dorobku zawodowego nauczyciela i przeprowadzonej rozmowie.”, – w art. 9m w ust. 1 pkt 1 otrzymuje brzmienie: „1) nauczyciela kontraktowego – 9 miesięcy;”, – w art. 9n ust. 1 otrzymuje brzmienie: „1. Nauczyciel kontraktowy może rozpocząć staż na stopień nauczyciela mianowanego po upływie co najmniej 2 lat prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela kontraktowego, a nauczyciel mianowany może rozpocząć staż na stopień nauczyciela dyplomowanego po upływie co najmniej roku prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela mianowanego.”, – w art. 9p ust. 5 otrzymuje brzmienie: „5. Nauczycielowi szkoły w Rzeczypospolitej Polskiej, który rozpoczął prowadzenie zajęć w szkole za granicą, szkole polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkole lub zespole szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, albo szkole europejskiej, do stażu zalicza się okres dotychczas odbytego stażu, jeżeli otrzymał pozytywną ocenę dorobku zawodowego za okres odbytego stażu oraz podjął zatrudnienie lub rozpoczął prowadzenie zajęć nie później niż w okresie 12 miesięcy od dnia ustania zatrudnienia w szkole w Rzeczypospolitej Polskiej.”, – w art. 9r w ust. 1 pkt 1 otrzymuje brzmienie: „1) na stopień nauczyciela kontraktowego lub nauczyciela mianowanego, składa wniosek o podjęcie odpowiednio postępowania kwalifikacyjnego lub egzaminacyjnego w roku uzyskania pozytywnej oceny realizacji planu rozwoju zawodowego;”, – w art. 9s w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Minister właściwy do spraw oświaty i wychowania powołuje komisję kwalifikacyjną dla nauczycieli ubiegających się o awans na stopień nauczyciela kontraktowego albo nauczyciela dyplomowanego oraz komisję egzaminacyjną na stopień nauczyciela mianowanego.”,
+    - **b)** uchyla się pkt 13;
+
+- **3)** w art. 30:
+    - **a)** w pkt 3 lit. a otrzymuje brzmienie: „a) ust. 3 otrzymuje brzmienie: „3. Szkolenie osoby ubiegającej się o uzyskanie uprawnienia do kierowania pojazdami silnikowymi w formie zajęć szkolnych jest prowadzone dla uczniów (słuchaczy) przez szkołę, jeżeli w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, jest przewidziane przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym lub szkoła realizuje to szkolenie dla uczniów (słuchaczy) w ramach dodatkowych umiejętności zawodowych w zakresie wybranych zawodów, o których mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.”,”,
+    - **b)** pkt 4 i 5 otrzymują brzmienie: „4) w art. 46 w ust. 3 w pkt 2 lit. c otrzymuje brzmienie: „c) organu właściwego do wykonywania nadzoru pedagogicznego – w przypadku szkolenia w szkole, dla której: – podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym lub gdy szkoła realizuje to szkolenie dla uczniów (słuchaczy) w ramach dodatkowych umiejętności zawodowych w zakresie wybranych zawodów, o których mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, lub – podstawa programowa kształcenia ogólnego przewiduje uzyskanie karty rowerowej.”;
+
+- **5)** w art. 47 ust. 3 otrzymuje brzmienie: „3. Nadzór nad szkołą, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym lub szkołą realizującą to szkolenie dla uczniów (słuchaczy) w ramach dodatkowych umiejętności zawodowych w zakresie wybranych zawodów, o których mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, lub szkołą, dla której podstawa programowa kształcenia ogólnego przewiduje uzyskanie karty rowerowej, sprawuje organ właściwy do wykonywania nadzoru pedagogicznego.”;”;
+- **4)** w art. 39 w pkt 2:
+    - **a)** lit. b otrzymuje brzmienie: „b) po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) dyplom zawodowy po ukończeniu branżowej szkoły I stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. b ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz po zdaniu egzaminów zawodowych w danym zawodzie – potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148 i 1078), albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;”,”,
+    - **b)** lit. d otrzymuje brzmienie: „d) po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) świadectwo czeladnicze wydawane po ukończeniu branżowej szkoły I stopnia po zdaniu egzaminu czeladniczego w zawodach, o których mowa w art. 3 ust. 3b ustawy z dnia 22 marca 1989 r. o rzemiośle – potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;”,”,
+    - **c)** lit. f otrzymuje brzmienie: „f) po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) dyplom zawodowy:
+    - **a)** po ukończeniu technikum albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, albo
+    - **b)** po ukończeniu branżowej szkoły II stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. c ustawy z dnia 7 września 1991 r. o systemie oświaty – oraz po zdaniu egzaminów zawodowych w danym zawodzie – potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;”,”,
+    - **d)** lit. h otrzymuje brzmienie: „h) po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) dyplom zawodowy po ukończeniu szkoły policealnej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz po zdaniu egzaminów zawodowych w danym zawodzie nauczanym wyłącznie w szkole policealnej – potwierdza nadanie kwalifikacji na poziomie 5 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;”;”;
+
+- **5)** w art. 102 po wyrazach „od roku szkolnego 2019/2020” dodaje się wyrazy „i w kolejnych latach”;
+- **6)** po art. 129 dodaje się art. 129a w brzmieniu: „Art. 129a. Przepis art. 2 pkt 40 lit. a w zakresie art. 44q ust. 1 pkt 4 lit. b stosuje się począwszy od roku szkolnego 2019/2020 do uczniów rozpoczynających kształcenie w branżowej szkole I stopnia.”;
+- **7)** uchyla się art. 141 i 142;
+- **8)** po art. 144 dodaje się art. 144a w brzmieniu: „Art. 144a. Przepisy art. 191 § 2 –2 i art. 191 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio również do uczniów i absolwentów dotychczasowych gimnazjów.”;
+- **9)** w art. 170 uchyla się pkt 5.
+
+**Art. 8.** Do postępowań w sprawie dokonania oceny pracy nauczyciela, wszczętych i niezakończonych przed dniem 1 września 2019 r., stosuje się przepisy dotychczasowe.
 
 **Art. 9.**
 
-1. W przypadku ubiegania się o awans na stopień nauczyciela kontraktowego staż rozpoczęty roku szkolnym 2018/2019 trwa 12 miesięcy.
+1. W przypadku ubiegania się o awans na stopień nauczyciela kontraktowego staż rozpoczęty w roku szkolnym 2018/2019 trwa 12 miesięcy.
 
-2. Po zakończeniu stażu, o którym mowa ust. 1, dokonywana jest ocena dorobku zawodowego nauczyciela za okres stażu oraz przeprowadzane jest postępowanie kwalifikacyjne, zgodnie z przepisami ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+2. Po zakończeniu stażu, o którym mowa w ust. 1, dokonywana jest ocena dorobku zawodowego nauczyciela za okres stażu oraz przeprowadzane jest postępowanie kwalifikacyjne, zgodnie z przepisami ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 10.** Do postępowań o nadanie nauczycielom stopnia awansu zawodowego, wszczętych i niezakończonych przed dniem 1 września 2019 r., stosuje się przepisy dotychczasowe.
 
-**Art. 11.** W przypadku nauczycieli, którzy zakończyli staż na kolejny stopień awansu zawodowego okresie od dnia 1 września 2018 r. do dnia 31 sierpnia 2019 r., lecz do dnia 31 sierpnia 2019 r. nie otrzymali oceny pracy nauczyciela po zakończeniu stażu lub nie złożyli wniosku o podjęcie postępowania kwalifikacyjnego lub egzaminacyjnego, ocena pracy nauczyciela po zakończeniu stażu jest dokonywana oraz postępowanie kwalifikacyjne lub egzaminacyjne jest prowadzone według dotychczasowych przepisów.
+**Art. 11.** W przypadku nauczycieli, którzy zakończyli staż na kolejny stopień awansu zawodowego w okresie od dnia 1 września 2018 r. do dnia 31 sierpnia 2019 r., lecz do dnia 31 sierpnia 2019 r. nie otrzymali oceny pracy nauczyciela po zakończeniu stażu lub nie złożyli wniosku o podjęcie postępowania kwalifikacyjnego lub egzaminacyjnego, ocena pracy nauczyciela po zakończeniu stażu jest dokonywana oraz postępowanie kwalifikacyjne lub egzaminacyjne jest prowadzone według dotychczasowych przepisów.
 
-**Art. 12.** W przypadku nauczycieli, którzy okresie od dnia 1 września 2018 r. do dnia 31 sierpnia 2019 r. trakcie odbywania stażu na kolejny stopień awansu zawodowego zmienili miejsce zatrudnienia i za okres dotychczas odbytego stażu otrzymali co najmniej dobrą ocenę pracy, ocena ta jest uwzględniana do oceny dorobku zawodowego nauczyciela dokonywanej po zakończeniu całego stażu.
+**Art. 12.** W przypadku nauczycieli, którzy w okresie od dnia 1 września 2018 r. do dnia 31 sierpnia 2019 r. w trakcie odbywania stażu na kolejny stopień awansu zawodowego zmienili miejsce zatrudnienia i za okres dotychczas odbytego stażu otrzymali co najmniej dobrą ocenę pracy, ocena ta jest uwzględniana do oceny dorobku zawodowego nauczyciela dokonywanej po zakończeniu całego stażu.
 
-**Art. 13.** Do okresu zatrudnienia, o którym mowa art. 10 ust. 12 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, wlicza się okresy zatrudnienia na podstawie umów o pracę na czas określony, o których mowa tym przepisie, zawieranych począwszy od dnia 1 września 2019 r.
+**Art. 13.** Do okresu zatrudnienia, o którym mowa w art. 10 ust. 12 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, wlicza się okresy zatrudnienia na podstawie umów o pracę na czas określony, o których mowa w tym przepisie, zawieranych począwszy od dnia 1 września 2019 r.
 
 **Art. 14.**
 
-1. W okresie od dnia 1 września 2019 r. do dnia 31 grudnia 2019 r. średnie wynagrodzenie nauczycieli ustalone sposób określony art. 30 ust. 3 ustawy zmienianej art. 1, zwiększa się o 9,6%.
+1. W okresie od dnia 1 września 2019 r. do dnia 31 grudnia 2019 r. średnie wynagrodzenie nauczycieli ustalone w sposób określony w art. 30 ust. 3 ustawy zmienianej w art. 1, zwiększa się o 9,6%.
 
-2. Podwyższenie wynagrodzeń dla nauczycieli związku ze zwiększeniem średniego wynagrodzenia nauczycieli, o którym mowa ust. 1, następuje nie później niż do dnia 30 września 2019 r., z wyrównaniem od dnia 1 września 2019 r.
+2. Podwyższenie wynagrodzeń dla nauczycieli w związku ze zwiększeniem średniego wynagrodzenia nauczycieli, o którym mowa w ust. 1, następuje nie później niż do dnia 30 września 2019 r., z wyrównaniem od dnia 1 września 2019 r.
 
-3. Ilekroć przepisach ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, jest mowa o średnim wynagrodzeniu nauczycieli, o którym mowa art. 30 ust. 3, okresie od dnia 1 września 2019 r. do dnia 31 grudnia 2019 r. należy przez to rozumieć średnie wynagrodzenie nauczycieli ustalone sposób określony art. 30 ust. 3 ustawy zmienianej art. 1, zwiększone o 9,6%.
+3. Ilekroć w przepisach ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jest mowa o średnim wynagrodzeniu nauczycieli, o którym mowa w art. 30 ust. 3, w okresie od dnia 1 września 2019 r. do dnia 31 grudnia 2019 r. należy przez to rozumieć średnie wynagrodzenie nauczycieli ustalone w sposób określony w art. 30 ust. 3 ustawy zmienianej w art. 1, zwiększone o 9,6%.
 
-4. W związku ze zwiększeniem, o którym mowa ust. 1 i 2, do dotacji wypłacanych publicznym przedszkolom, innym formom wychowania przedszkolnego, szkołom i placówkom na podstawie art. 15, art. 16, art. 18, art. 20, art. 25 ust. 1–4 i 8, art. 28, art. 30, art. 31 ust. 1 i art. 40 ustawy zmienianej art. 6, stosuje się art. 43 ust. 1 pkt 4 ustawy zmienianej art. 6, z tym że aktualizacji kwot dotacji dokonuje się do dnia 31 października 2019 r.
+4. W związku ze zwiększeniem, o którym mowa w ust. 1 i 2, do dotacji wypłacanych publicznym przedszkolom, innym formom wychowania przedszkolnego, szkołom i placówkom na podstawie art. 15, art. 16, art. 18, art. 20, art. 25 ust. 1–4 i 8, art. 28, art. 30, art. 31 ust. 1 i art. 40 ustawy zmienianej w art. 6, stosuje się art. 43 ust. 1 pkt 4 ustawy zmienianej w art. 6, z tym że aktualizacji kwot dotacji dokonuje się do dnia 31 października 2019 r.
 
-**Art. 15.** W roku 2019 środki, o których mowa art. 70a ust. 4 ustawy zmienianej art. 1, przeznaczone na wspieranie organizacji doradztwa metodycznego na obszarze województwa wyodrębnia się budżetach wojewodów łącznej wysokości 12 400 średnich wynagrodzeń nauczyciela dyplomowanego ustalonych oparciu o kwotę bazową, o której mowa art. 30 ust. 3 ustawy zmienianej art. 1, obowiązującą dniu 1 stycznia 2019 r.
+**Art. 15.** W roku 2019 środki, o których mowa w art. 70a ust. 4 ustawy zmienianej w art. 1, przeznaczone na wspieranie organizacji doradztwa metodycznego na obszarze województwa wyodrębnia się w budżetach wojewodów w łącznej wysokości 12 400 średnich wynagrodzeń nauczyciela dyplomowanego ustalonych w oparciu o kwotę bazową, o której mowa w art. 30 ust. 3 ustawy zmienianej w art. 1, obowiązującą w dniu 1 stycznia 2019 r.
 
-**Art. 16.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 28 ust. 6 ustawy zmienianej art. 2 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 28 ust. 6 ustawy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą oraz mogą być zmieniane na podstawie tego przepisu.
+**Art. 16.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 28 ust. 6 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 28 ust. 6 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą oraz mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 17.** Ustawa wchodzi życie z dniem 1 września 2019 r., z wyjątkiem:
+**Art. 17.** Ustawa wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem:
+
+- **1)** art. 5 oraz art. 7 pkt 8, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 7 pkt 5 i art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **3)** art. 7 pkt 2 lit. a, który wchodzi w życie z dniem 1 stycznia 2021 r.
+
 

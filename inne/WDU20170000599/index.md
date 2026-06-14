@@ -8,7 +8,7 @@ pos: 599
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia
@@ -39,6 +39,9 @@ source: "isap-pdf"
 2. (uchylony)
 
 **Art. 2.** Tytuł specjalisty w dziedzinie ochrony zdrowia, określonej w przepisach wydanych na podstawie art. 46 pkt 1, można uzyskać:
+
+- **1)** po ukończeniu w ramach kształcenia podyplomowego jednostopniowego szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia na podstawie programu szkolenia specjalizacyjnego w tej dziedzinie albo
+- **2)** po uznaniu dotychczasowego dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia – oraz po zdaniu PESoz.
 
 **Art. 3.** Osoba niebędąca obywatelem polskim przystępuje do szkolenia specjalizacyjnego i odbywa je na warunkach i w sposób obowiązujący obywateli polskich.
 
@@ -928,6 +931,18 @@ source: "isap-pdf"
 
 **Art. 46.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** dziedziny ochrony zdrowia, w których można uzyskać tytuł specjalisty,
+- **2)** oznaczenia kodowe tytułów specjalisty w poszczególnych dziedzinach ochrony zdrowia,
+- **3)** kierunki studiów, po których ukończeniu można przystąpić do szkolenia specjalizacyjnego w poszczególnych dziedzinach ochrony zdrowia,
+- **4)** dziedziny ochrony zdrowia, w których posiadana specjalizacja I stopnia umożliwia uzyskanie tytułu specjalisty i dziedziny ochrony zdrowia, w których ten tytuł można uzyskać – uwzględniając aktualny stan wiedzy medycznej, konieczność zapewnienia świadczeń zdrowotnych na odpowiednim poziomie oraz potrzebę zabezpieczenia dostępu do tych świadczeń;
+- **5)** szczegółowy zakres danych dotyczących przebiegu szkolenia specjalizacyjnego zawartych w EKS, wraz ze wskazaniem danych wprowadzanych do EKS przez osobę odbywającą szkolenie specjalizacyjne, kierownika specjalizacji, jednostkę szkolącą i wojewodę lub danych przez nich potwierdzanych, uwzględniając konieczność zapewnienia pełnych informacji niezbędnych do prowadzenia szkolenia specjalizacyjnego;
+- **6)** szczegółowy sposób i tryb przeprowadzania PESoz oraz jego dokumentowania, w tym skalę ocen ze wskazaniem, które z ocen według tej skali uznaje się za oceny pozytywne, a które za negatywne, sposób przeliczania na ocenę liczby punktów uzyskanych z egzaminu testowego, o którym mowa w art. 35 ust. 8, i średniej arytmetycznej, o której mowa w art. 36 ust. 5 i art. 37 ust. 2, wzór karty zastrzeżeń, o której mowa w art. 35 ust. 5, oraz wzory protokołów, o których mowa w art. 41 ust. 1, uwzględniając konieczność zapewnienia prawidłowego i efektywnego przeprowadzania PESoz oraz jego dokumentowania, a także zapewnienia zachowania bezstronności pracy zespołu egzaminacyjnego;
+- **7)** wysokość opłaty za PESoz, uwzględniając koszty przeprowadzania PESoz, nie wyższej niż 25 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;
+- **8)** wysokość wynagrodzenia przewodniczącego i członków zespołu egzaminacyjnego, o którym mowa w art. 33 ust. 7, uwzględniając nakład pracy przewodniczącego i członków zespołu egzaminacyjnego;
+- **9)** wzór dyplomu potwierdzającego uzyskanie tytułu specjalisty, uwzględniając konieczność zapewnienia przejrzystości dokumentu;
+- **10)** tryb dokonywania przez dyrektora CEM wymiany dyplomu potwierdzającego uzyskanie tytułu specjalisty, uwzględniając konieczność prawidłowego i sprawnego wydawania dokumentu potwierdzającego uzyskanie tytułu specjalisty;
+- **11)** wysokość wynagrodzenia za wykonywanie czynności kontrolnych, o którym mowa w art. 25 ust. 4, uwzględniając nakład pracy związany z przeprowadzaniem czynności kontrolnych.
+
 **Art. 47.**
 
 1. Minister właściwy do spraw zdrowia na wniosek osoby, która uzyskała tytuł specjalisty za granicą, może uznać ten tytuł za równoważny z tytułem specjalisty w dziedzinie ochrony zdrowia w Rzeczypospolitej Polskiej, jeżeli zostały spełnione następujące warunki:
@@ -990,6 +1005,9 @@ source: "isap-pdf"
 - **8)** określenie organu wydającego decyzję.
 
 **Art. 48.** Dane zamieszczane w SMK są udostępniane podmiotom realizującym zadania określone w ustawie w zakresie niezbędnym do realizacji tych zadań, a także:
+
+- **1)** uczelniom – w zakresie monitoringu karier zawodowych absolwentów, o którym mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897);
+- **2)** konsultantom krajowym i konsultantom wojewódzkim – w zakresie wykonywania zadań określonych w ustawie oraz w ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2024 r. poz. 69 i 1897).
 
 **Art. 49.** (pominięty)
 

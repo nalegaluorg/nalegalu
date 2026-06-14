@@ -8,7 +8,7 @@ pos: 276
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Krajowym Rejestrze Karnym
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-20 |
 | Data wydania | 2024-02-29 |
-| Ostatnia zmiana | 2026-04-08 |
+| Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/276/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -87,7 +87,7 @@ source: "isap-pdf"
     - **b)** osób upoważnionych do reprezentowania podmiotu zbiorowego, podejmowania w jego imieniu decyzji lub sprawowania nadzoru nad jego działalnością, jeśli czyn zabroniony został popełniony na szkodę interesów finansowych Wspólnot Europejskich,
     - **c)** podmiotów zbiorowych, jeśli czyn zabroniony osoby fizycznej stanowiący podstawę odpowiedzialności podmiotu zbiorowego został popełniony na szkodę interesów finansowych Wspólnot Europejskich;
 
-- **7)** przekazywanie Marszałkowi informacji o:
+- **7)** przekazywanie Marszałkowi Sejmu informacji o:
     - **a)** posłach skazanych prawomocnym wyrokiem na karę pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego lub za umyślne przestępstwo skarbowe oraz o posłach pozbawionych praw publicznych prawomocnym orzeczeniem sądu,
     - **b)** posłach do Parlamentu Europejskiego karanych za przestępstwo popełnione umyślnie, ścigane z oskarżenia publicznego oraz o posłach do Parlamentu Europejskiego pozbawionych praw publicznych prawomocnym orzeczeniem sądu;
 
@@ -119,9 +119,9 @@ source: "isap-pdf"
 1. Prawo do uzyskania informacji o osobach, których dane osobowe zgromadzone zostały w Rejestrze, przysługuje:
 
 - **1)** Prezydentowi Rzeczypospolitej Polskiej;
-- **2)** Marszałkowi Rzeczypospolitej Polskiej, w odniesieniu do posłów;
+- **2)** Marszałkowi Sejmu Rzeczypospolitej Polskiej, w odniesieniu do posłów;
 - **3)** Marszałkowi Senatu Rzeczypospolitej Polskiej, w odniesieniu do senatorów;
-- **3a)** Marszałkowi Rzeczypospolitej Polskiej, w odniesieniu do posłów do Parlamentu Europejskiego;
+- **3a)** Marszałkowi Sejmu Rzeczypospolitej Polskiej, w odniesieniu do posłów do Parlamentu Europejskiego;
 - **3b)** Państwowej Komisji Wyborczej, w odniesieniu do kandydatów na Prezydenta Rzeczypospolitej Polskiej;
 - **3c)** okręgowym komisjom wyborczym w odniesieniu do kandydatów na posłów i senatorów oraz kandydatów na posłów do Parlamentu Europejskiego;
 - **3d)** terytorialnym komisjom wyborczym, w odniesieniu do kandydatów na radnych;
@@ -332,6 +332,11 @@ source: "isap-pdf"
 
 **Art. 13.** W Rejestrze prowadzi się wyodrębnione kartoteki:
 
+- **1)** kart rejestracyjnych i zawiadomień, zawierających informacje o osobach odpowiadających na zasadach określonych w Kodeksie karnym, Kodeksie karnym skarbowym i Kodeksie wykroczeń, oraz zawiadomień o skazaniu osoby przez sąd państwa obcego, o późniejszych zmianach dotyczących skazania i informacjach związanych z tym skazaniem;
+- **2)** kart rejestracyjnych i zawiadomień, zawierających informacje o nieletnich, w rozumieniu przepisów ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich;
+- **3)** zawiadomień zawierających informacje o osobach pozbawionych wolności oraz osobach poszukiwanych listem gończym;
+- **4)** kart rejestracyjnych i zawiadomień, zawierających informacje o podmiotach zbiorowych podlegających odpowiedzialności na podstawie przepisów ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary.
+
 **Art. 14.**
 
 1. Dane osobowe osób, o których mowa w art. 1 ust. 2 pkt 1, 3 i 7, oraz dane o podmiotach zbiorowych, o których mowa w art. 1 ust. 3, usuwa się z Rejestru, jeżeli z mocy prawa skazanie uległo zatarciu, a ponadto po otrzymaniu zawiadomienia o:
@@ -501,7 +506,13 @@ source: "isap-pdf"
 
 **Art. 21.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb udzielania informacji o osobach oraz informacji o podmiotach zbiorowych na podstawie danych zgromadzonych w Rejestrze,
+- **2)** wzór formularzy: zapytania o udzielenie informacji o osobie, zapytania o udzielenie informacji o podmiocie zbiorowym, informacji o osobie, informacji o podmiocie zbiorowym – uwzględniając konieczność zapewnienia sprawnego udzielania informacji, zabezpieczenia przed uzyskaniem danych z Rejestru przez osoby nieuprawnione oraz zakres danych i informacji określonych w art. 19 ust. 2 i 2a oraz art. 20 ust. 1 i 2.
+
 **Art. 21a.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** sposób zakładania konta użytkownika i konta instytucjonalnego oraz sposób i tryb udzielania informacji o osobach i informacji o podmiotach zbiorowych, udzielanych na zapytanie lub wniosek za pośrednictwem systemu teleinformatycznego,
+- **2)** sposób i tryb udzielania informacji o osobach i informacji o podmiotach zbiorowych, udzielanych na żądanie za pośrednictwem systemu teleinformatycznego, w tym dane, jakie należy wskazać w żądaniu udzielenia informacji o osobie lub podmiocie zbiorowym, a także zakres informacji o osobie lub podmiocie zbiorowym udzielonej w ten sposób – mając na uwadze konieczność zapewnienia sprawnego udzielania informacji oraz zabezpieczenia przed uzyskaniem danych z Rejestru przez osoby nieuprawnione.
 
 **Art. 21b.**
 

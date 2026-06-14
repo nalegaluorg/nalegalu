@@ -8,10 +8,10 @@ pos: 1720
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 września 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1720 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 5 września 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1720/text.pdf) |
 
-Poz. 1720 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 5 września 2017 r.
-w sprawie sposobu prowadzenia centralnego rejestru niespokrewnionych potencjalnych dawców szpiku i krwi pępowinowej Na podstawie art. 16 ust. 8 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2017 r. poz. 1000) zarządza się, co następuje: § 1. Rozporządzenie określa sposób prowadzenia rejestru, o którym mowa w art. 16 ust. 1 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, zwanego dalej „rejestrem”.
+w sprawie sposobu prowadzenia centralnego rejestru niespokrewnionych potencjalnych dawców szpiku i krwi pępowinowej Na podstawie art. 16 ust. 8 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2017 r. poz. 1000) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób prowadzenia rejestru, o którym mowa w art. 16 ust. 1 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, zwanego dalej „rejestrem”.
 § 2. Rejestr prowadzi się w postaci elektronicznej w systemie teleinformatycznym.
 § 3. 1. Rejestr zawiera:
 1) dane dawców szpiku i komórek krwiotwórczych krwi obwodowej;

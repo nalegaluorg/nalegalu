@@ -8,7 +8,7 @@ pos: 1480
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o tachografach
@@ -46,6 +46,16 @@ Art. 58–62. (pominięte)
 - **2)** zadania organów i jednostek właściwych w sprawach tachografów – w zakresie nieuregulowanym rozporządzeniem (UE) nr 165/2014 i aktami wykonawczymi do tego rozporządzenia.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** elementy składowe tachografu – elementy składowe tachografu, wymienione w art. 2 pkt 8 rozporządzenia (UE) 2016/799, adapter oraz papier do tachografu cyfrowego, których typ podlega homologacji;
+- **2)** Europejska Sieć Praw Jazdy – sieć wymiany danych i informacji o prawach jazdy, o której mowa w art. 7 ust. 5 lit. d dyrektywy 2006/126/WE Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie praw jazdy (przekształcenie) (Dz. Urz. UE L 403 z 30.12.2006, str. 18, z późn. zm. );
+- **3)** instalator – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236) lub jednostkę sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ), posiadających zezwolenie na prowadzenie działalności w zakresie instalacji i sprawdzania tachografów, o którym mowa w art. 10 ust. 2 pkt 2;
+- **4)** karta – kartę do tachografu w rozumieniu art. 2 ust. 2 lit. d rozporządzenia (UE) nr 165/2014;
+- **5)** karta testowa – kartę do tachografu pełniącą funkcję karty kierowcy, karty przedsiębiorstwa, karty warsztatowej lub karty kontrolnej z kluczami testowymi, zgodnie z załącznikiem 1C do rozporządzenia (UE) 2016/799;
+- **6)** państwo członkowskie – państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **7)** podmiot wydający karty – jednoosobową spółkę Skarbu Państwa, której przedmiotem działalności jest wytwarzanie blankietów dokumentów publicznych i druków zabezpieczonych przed podrobieniem lub przerobieniem, mającą siedzibę oraz zakład produkcyjny, w którym są wytwarzane blankiety dokumentów publicznych na terytorium Rzeczypospolitej Polskiej;
+- **8)** Tachonet – system informacyjny, o którym mowa w art. 31 ust. 2 rozporządzenia (UE) nr 165/2014;
+- **9)** warsztat – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców lub jednostkę sektora finansów publicznych w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, posiadających zezwolenie na prowadzenie działalności w zakresie instalacji, sprawdzania, przeglądów i napraw tachografów, o którym mowa w art. 10 ust. 2 pkt 3.
 
 **Art. 3.**
 
@@ -154,6 +164,9 @@ Art. 58–62. (pominięte)
 5. Decyzje, o których mowa w ust. 1, 3 i 4, podlegają natychmiastowemu wykonaniu.
 
 **Art. 9.** Prezes GUM ogłasza w Dzienniku Urzędowym Głównego Urzędu Miar:
+
+- **1)** wykaz homologowanych typów tachografów i elementów składowych tachografu;
+- **2)** wykaz typów tachografów i elementów składowych tachografu homologowanych przez właściwe organy w państwach członkowskich.
 
 #### Rozdział 3 Prowadzenie działalności w zakresie instalacji, sprawdzania, przeglądów i napraw tachografów
 
@@ -325,7 +338,19 @@ Art. 58–62. (pominięte)
 
 **Art. 19.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
+- **1)** wzory:
+    - **a)** wniosku o wydanie zezwolenia,
+    - **b)** zezwolenia,
+    - **c)** specjalnej cechy nadawanej do poświadczania wykonywania czynności objętej zezwoleniem,
+
+- **2)** rodzaje zabezpieczeń druków zezwoleń przed podrobieniem lub przerobieniem – kierując się potrzebą zapewnienia jednolitości i przejrzystości wniosków i zezwoleń oraz koniecznością zagwarantowania odpowiedniego zabezpieczenia przed podrobieniem lub przerobieniem zezwoleń, a także nadawanej specjalnej cechy.
+
 **Art. 20.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+
+- **1)** wykaz urządzeń niezbędnych do wykonywania instalacji, sprawdzania, przeglądów i napraw tachografów analogowych lub cyfrowych oraz szczegółowe wymagania, które muszą być spełnione przez te urządzenia,
+- **2)** dokumenty potwierdzające spełnianie wymagań, o których mowa w pkt 1,
+- **3)** zakres i sposób dokumentowania wykonywanych czynności w zakresie posiadanego zezwolenia,
+- **4)** zakres i sposób pobierania danych dotyczących każdego użycia karty warsztatowej oraz przechowywania tych danych w postaci elektronicznej – kierując się koniecznością zagwarantowania stosowania urządzeń umożliwiających prawidłowe wykonywanie czynności objętych zezwoleniem oraz mając na uwadze konieczność zapewnienia jednolitego i należytego dokumentowania czynności objętych zezwoleniem, zagwarantowania regularnego pobierania danych z karty warsztatowej i przechowywania tych danych przez podmiot posiadający zezwolenie.
 
 **Art. 21.**
 
@@ -396,6 +421,9 @@ Art. 58–62. (pominięte)
 - **5)** dobrowolne działania podjęte przez podmiot posiadający zezwolenie w celu uniknięcia skutków naruszenia prawa.
 
 **Art. 23.** Prezes GUM, w drodze decyzji:
+
+- **1)** na wniosek podmiotu posiadającego zezwolenie cofa to zezwolenie;
+- **2)** stwierdza wygaśnięcie zezwolenia, w przypadku zakończenia działalności, likwidacji, upadłości podmiotu posiadającego zezwolenie albo gdy z innych powodów zezwolenie stało się bezprzedmiotowe.
 
 **Art. 24.**
 
@@ -537,7 +565,15 @@ Art. 58–62. (pominięte)
 
 **Art. 30.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
+- **1)** szczegółowy zakres i tryb przeprowadzania egzaminu z zakresu sprawdzania i przeglądów tachografów analogowych lub cyfrowych,
+- **2)** szczegółowy tryb działania komisji egzaminacyjnej,
+- **3)** wysokość wynagrodzenia przewodniczącego i członków komisji egzaminacyjnej,
+- **4)** wzór zaświadczenia potwierdzającego złożenie egzaminu z wynikiem pozytywnym – kierując się potrzebą zapewnienia kompetencji techników warsztatu do wykonywania czynności w zakresie sprawdzania i przeglądów tachografów, właściwej organizacji egzaminu, rodzajem wykonywanych czynności i nakładem pracy przewodniczącego i członków komisji egzaminacyjnej oraz koniecznością zapewnienia jednolitości i przejrzystości zaświadczeń.
+
 **Art. 31.** Technik warsztatu składa i przekazuje do Prezesa GUM oświadczenia, o których mowa w art. 28 ust. 3 pkt 1 i 2:
+
+- **1)** co najmniej raz na 2 lata;
+- **2)** na wezwanie Prezesa GUM, w przypadku wątpliwości co do zgodności oświadczeń ze stanem faktycznym.
 
 **Art. 32.**
 
@@ -649,6 +685,11 @@ Art. 58–62. (pominięte)
 
 **Art. 39.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe wymagania dotyczące wyposażenia dydaktycznego, jakie powinien posiadać podmiot szkolący,
+- **2)** szczegółowe wymagania dotyczące wiedzy teoretycznej i doświadczenia praktycznego wykładowcy prowadzącego podstawowe szkolenia i okresowe szkolenia,
+- **3)** szczegółowe programy i warunki techniczno-organizacyjne podstawowych szkoleń i okresowych szkoleń,
+- **4)** wzór zaświadczenia o ukończeniu podstawowych szkoleń i okresowych szkoleń – kierując się koniecznością podniesienia kompetencji i rzetelności techników warsztatu, wykrywania podrabiania lub przerabiania danych rejestrowanych przez tachograf, potrzebą zmniejszenia ryzyka popełniania błędów przez techników warsztatu, potrzebą zapewnienia wysokiego poziomu merytorycznego prowadzonego podstawowego szkolenia i okresowego szkolenia, należytej ochrony dokumentacji, jednolitości i przejrzystości zaświadczeń o ukończeniu tych szkoleń oraz ograniczenia kosztów rzeczowych związanych z prowadzeniem tych szkoleń.
+
 #### Rozdział 5 Opłaty za czynności organów administracji miar
 
 **Art. 40.**
@@ -721,6 +762,16 @@ Art. 58–62. (pominięte)
     - **d)** okres przechowywania danych zawartych w ewidencji kart, zgodnie z celami ich przetwarzania.
 
 **Art. 43.** Podmiot wydający karty, z uwzględnieniem wymagań, o których mowa w rozporządzeniu (UE) nr 165/2014 i aktach wykonawczych do tego rozporządzenia:
+
+- **1)** prowadzi krajowe centrum certyfikacji elektronicznej właściwe do wydawania kluczy i elektronicznych zabezpieczeń;
+- **2)** wytwarza klucze i elektroniczne zabezpieczenia dla krajowych producentów tachografów i elementów składowych tachografów oraz prowadzi ewidencję tych kluczy i elektronicznych zabezpieczeń;
+- **3)** produkuje lub kupuje blankiety kart;
+- **4)** realizuje proces wydawania kart, a w szczególności: przyjmuje wnioski o wydanie, przedłużenie lub wymianę kart, personalizuje karty i wydaje, przedłuża lub wymienia karty, zapewniając właściwą organizację ich odbioru na terytorium Rzeczypospolitej Polskiej;
+- **5)** prowadzi:
+    - **a)** ewidencję kart,
+    - **b)** wymianę z krajowymi i zagranicznymi organami i instytucjami wydającymi karty oraz uprawnionymi służbami kontrolnymi danych i informacji zawartych w ewidencji kart, w szczególności za pośrednictwem Tachonetu;
+
+- **6)** upowszechnia wzory formularzy wniosków o wydanie, przedłużenie lub wymianę kart, załączników do wniosków, zgłoszenia reklamacyjnego, informacje dotyczące warunków, trybów i terminów wydawania, przedłużania oraz wymiany kart oraz okresów ich ważności, publikuje i organizuje dystrybucję materiałów informacyjnych o warunkach stosowania i użytkowania kart oraz sankcjach przewidzianych za naruszenie przepisów w tym zakresie.
 
 **Art. 44.**
 
@@ -907,13 +958,52 @@ Art. 58–62. (pominięte)
 
 **Art. 51.** Kto:
 
+- **1)** wbrew art. 4 ust. 1 wprowadza do obrotu lub użytkowania tachograf lub element składowy tachografu bez świadectwa homologacji typu,
+- **2)** wbrew art. 10 ust. 1 prowadzi działalność w zakresie instalacji, sprawdzania, przeglądów lub napraw tachografów bez zezwolenia – podlega karze pieniężnej w wysokości od 10 000 do 20 000 zł.
+
 **Art. 52.** Producent, który, wbrew art. 7, nie bada i nie sprawdza zgodnie z art. 20 ust. 1 rozporządzenia (UE) nr 165/2014 wprowadzonych do produkcji przyrządów rejestrujących, czujników ruchu i kart do tachografu, co najmniej raz na 2 lata – podlega karze pieniężnej w wysokości od 2500 do 5000 zł.
 
 **Art. 53.** Kto, wbrew art. 28 ust. 1, wykonuje instalacje, sprawdzenia, przeglądy lub naprawy tachografów analogowych lub cyfrowych bez posiadania certyfikatu technika warsztatu – podlega karze pieniężnej w wysokości od 2500 do 5000 zł.
 
 **Art. 54.** Podmiot posiadający zezwolenie, który:
 
+- **1)** wbrew art. 18 ust. 1 pkt 1 dokonał instalacji tachografu nieposiadającego świadectwa homologacji typu,
+- **2)** wbrew art. 18 ust. 1 pkt 2 bez zachowania należytej staranności dopuścił do użytkowania nieprawidłowo działający tachograf,
+- **3)** wbrew art. 18 ust. 3 pkt 1 udostępnił kartę warsztatową osobie nieuprawnionej lub używał karty warsztatowej bez udokumentowania faktu jej użycia,
+- **4)** wbrew art. 18 ust. 3 pkt 5 używał karty warsztatowej niezgodnie z zakresem zezwolenia lub poza miejscem prowadzenia działalności określonym w tym zezwoleniu, z wyjątkiem przypadku, o którym mowa w art. 18 ust. 6,
+- **5)** wbrew art. 47 ust. 2 pkt 1 nie zawiadomił podmiotu wydającego karty o utracie lub uszkodzeniu karty warsztatowej – podlega karze pieniężnej w wysokości od 2500 do 5000 zł.
+
 **Art. 55.** Podmiot posiadający zezwolenie, który:
+
+- **1)** wbrew art. 18 ust. 1 pkt 3 nie zapewnia technikom warsztatu dostępności do urządzeń określonych w przepisach wydanych na podstawie art. 20,
+- **2)** wbrew art. 18 ust. 1 pkt 4 nie zapewnia udziału zatrudnionych przez siebie techników warsztatu w okresowych szkoleniach, a w przypadku osobistego wykonywania czynności zastrzeżonych dla technika warsztatu – nie uczestniczy w tych szkoleniach,
+- **3)** wbrew art. 18 ust. 1 pkt 5 nie posiada opisu procedur, o którym mowa w art. 11 ust. 2 pkt 2, lub nie stosuje tych procedur,
+- **4)** wbrew art. 18 ust. 1 pkt 6 nie posiada dokumentacji umożliwiającej stwierdzenie zgodności instalowanych lub sprawdzanych tachografów z homologowanym typem oraz wymaganiami, o których mowa w rozporządzeniu (UE) nr 165/2014 i aktach wykonawczych do tego rozporządzenia,
+- **5)** wbrew art. 18 ust. 1 pkt 7 nie prowadzi dokumentacji wykonywanych czynności w zakresie posiadanego zezwolenia,
+- **6)** wbrew art. 18 ust. 1 pkt 8 nie zapewnia wykonywania instalacji, sprawdzania, przeglądu lub naprawy tachografów analogowych lub cyfrowych wyłącznie przez technika warsztatu,
+- **7)** wbrew art. 18 ust. 1 pkt 9 podjął działalność, o której mowa w art. 12 ust. 1 pkt 6,
+- **8)** wbrew art. 18 ust. 1 pkt 10 prowadzi działalność w sposób zależny i stronniczy w stosunku do podmiotów, na rzecz których świadczy usługi,
+- **9)** wbrew art. 18 ust. 1 pkt 11 prowadzi działalność zawodową, która mogłaby stanowić zagrożenie dla bezpieczeństwa systemu tachografów, zdefiniowanego w dodatku 10 załącznika 1B do rozporządzenia Rady (EWG) nr 3821/85 oraz załączniku 1C do rozporządzenia (UE) 2016/799,
+- **10)** wbrew art. 18 ust. 1 pkt 12 uniemożliwia przeprowadzenie audytu lub kontroli,
+- **11)** wbrew art. 18 ust. 3 pkt 2 nie przechowuje danych pobranych z tachografu cyfrowego lub nie przekazuje ich:
+    - **a)** podmiotowi, o którym mowa w art. 18 ust. 3 pkt 2 lit. a,
+    - **b)** podmiotowi uprawnionemu do kontroli na podstawie art. 89 ust. 1 pkt 1– 4 i 6 ustawy o transporcie drogowym,
+
+- **12)** wbrew art. 18 ust. 3 pkt 3 nie pobrał danych z tachografu cyfrowego, pomimo że było to możliwe, w szczególności w przypadku konieczności naprawy lub wycofania z użytkowania tachografu cyfrowego, co spowodowało utratę tych danych,
+- **13)** wbrew art. 18 ust. 3 pkt 4 nie przechowuje kart warsztatowych w sposób uniemożliwiający dostęp do nich osobom nieuprawnionym,
+- **14)** wbrew art. 18 ust. 3 pkt 6:
+    - **a)** nie pobiera danych dotyczących każdego użycia karty warsztatowej,
+    - **b)** nie przechowuje danych dotyczących każdego użycia karty warsztatowej w postaci elektronicznej przez okres 4 lat od dnia użycia karty warsztatowej,
+    - **c)** nie udostępnia danych dotyczących każdego użycia karty warsztatowej na żądanie Prezesa GUM lub podmiotów uprawnionych do kontroli na podstawie art. 89 ust. 1 pkt 1–4 i 6 ustawy o transporcie drogowym,
+
+- **15)** wbrew art. 18 ust. 7 pkt 1 odmówił, bez wskazania uzasadnionych okoliczności, przeprowadzenia badań, o których mowa w art. 38 ust. 2 i 3 rozporządzenia (UE) nr 165/2014, w terminie wyznaczonym przez podmioty uprawnione do kontroli na podstawie art. 89 ust. 1 pkt 1–4 i 6 ustawy o transporcie drogowym,
+- **16)** wbrew art. 23 ust. 3 rozporządzenia (UE) nr 165/2014:
+    - **a)** nie sporządza protokołów przeglądu, w przypadkach gdy konieczne było usunięcie nieprawidłowości w funkcjonowaniu tachografu, bez względu, czy nastąpiło to podczas przeglądu okresowego czy badania, o którym mowa w art. 38 ust. 2 i 3 rozporządzenia (UE) nr 165/2014,
+    - **b)** nie prowadzi wykazu wszystkich sporządzonych protokołów przeglądu,
+
+- **17)** wbrew art. 18 ust. 7 pkt 2:
+    - **a)** nie przechowuje protokołu przeglądu przez okres 4 lat od dnia jego sporządzenia,
+    - **b)** nie udostępnia protokołu przeglądu na żądanie Prezesa GUM lub podmiotów uprawnionych do kontroli na podstawie art. 89 ust. 1 pkt 1– 4 i 6 ustawy o transporcie drogowym – podlega karze pieniężnej w wysokości od 1000 do 2000 zł.
 
 **Art. 56.**
 
@@ -959,6 +1049,9 @@ Art. 58–62. (pominięte)
 2. W sprawach opłat za czynności organów administracji miar pobieranych na podstawie art. 24 ust. 2 pkt 1, 5 i 8 ustawy zmienianej w art. 59 oraz art. 17 ust. 2 ustawy, o której mowa w art. 62 , nieuiszczonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 65.** Do postępowań w sprawach o cofnięcie:
+
+- **1)** zezwolenia na prowadzenie warsztatu w zakresie instalacji, w tym aktywacji, napraw lub sprawdzania tachografów cyfrowych,
+- **2)** zezwolenia na wykonywanie działalności gospodarczej w zakresie instalacji lub napraw oraz sprawdzania pod względem zgodności z wymaganiami okresowo, przed i po zainstalowaniu oraz po naprawie określonych rodzajów przyrządów pomiarowych – wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy niniejszej ustawy.
 
 **Art. 66.**
 
@@ -1017,7 +1110,24 @@ Art. 58–62. (pominięte)
 
 **Art. 71.** Do dnia 31 grudnia 2018 r.:
 
+- **1)** wysokość opłaty za wydanie świadectwa funkcjonalności i odmowę wydania świadectwa funkcjonalności ustala, w drodze decyzji, Prezes GUM na podstawie liczby godzin przeznaczonych na wykonanie czynności związanych z wydaniem albo odmową wydania świadectwa funkcjonalności i stawki godzinowej za czas pracy pracowników administracji miar w wysokości 220 zł;
+- **2)** wysokość opłaty za:
+    - **a)** wydanie świadectwa homologacji typu, zmianę świadectwa homologacji typu i odmowę wydania świadectwa homologacji typu wynosi 1000 zł,
+    - **b)** zatwierdzenie badania eksploatacyjnego wynosi 4000 zł;
+
+- **3)** w przypadku umorzenia postępowania prowadzonego przez Prezesa GUM w sprawach o wydanie świadectwa funkcjonalności lub wydanie świadectwa homologacji typu, na skutek wycofania wniosku przez stronę, na której żądanie postępowanie zostało wszczęte, strona ponosi opłatę za badania wykonane do dnia wycofania wniosku, ustaloną zgodnie z pkt 1 w decyzji umarzającej postępowanie;
+- **4)** wysokość opłaty za wydanie certyfikatu podmiotu szkolącego wynosi 1000 zł.
+
 **Art. 72.** Do dnia 15 czerwca 2019 r. po pozytywnej weryfikacji danych, o których mowa w art. 46 ust. 1, podmiot wydający karty wydaje kartę na okres:
 
+- **1)** 5 lat, nie dłuższy jednak niż okres ważności prawa jazdy posiadanego przez kierowcę – w przypadku karty kierowcy, z wyjątkiem karty, o której mowa w art. 26 ust. 4 rozporządzenia (UE) nr 165/2014;
+- **2)** 5 lat – w przypadku karty przedsiębiorstwa;
+- **3)** roku – w przypadku karty warsztatowej;
+- **4)** 5 lat, nie dłuższy niż wskazany we wniosku o kartę – w przypadku karty kontrolnej.
+
 **Art. 73.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 10–24, art. 27–34, art. 40, art. 41, art. 51 pkt 2, art. 53–55, art. 59, art. 64 ust. 1 pkt 4–6 i ust. 2 oraz art. 65–69, które wchodzą w życie z dniem 1 stycznia 2019 r.;
+- **2)** art. 62 pkt 2, który chodzi w życie z dniem 31 grudnia 2018 r.
+
 

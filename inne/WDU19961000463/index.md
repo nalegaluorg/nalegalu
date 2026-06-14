@@ -8,7 +8,7 @@ pos: 463
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie nazw niektórych wyższych szkół inżynierskich

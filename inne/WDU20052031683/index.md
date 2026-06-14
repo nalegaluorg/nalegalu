@@ -8,7 +8,7 @@ pos: 1683
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz o zmianie niektórych innych ustaw
@@ -28,6 +28,50 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052031683) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1683/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. Nr 47, poz. 243, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 1:
+    - **a)** w pkt 1 lit. a otrzymuje brzmienie: „a) Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, 1973 r., sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem uzupełniającym sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1987 r. Nr 17, poz. 101) oraz Protokołem uzupełniającym sporządzonym w Londynie dnia 26 września 1997 r. (Dz. U. z 2005 r. Nr 202, poz. 1679), zwanej dalej „Konwencją MARPOL”,”,
+    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) odpowiednio przepisy art. 5, art. 6 ust. 2 i 3, art. 7 i 8 ustawy z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową (Dz. U. Nr 121, poz. 1263 oraz z 2005 r. Nr 175, poz. 1458), w zakresie eksploatacji na statkach urządzeń i instalacji zawierających substancje kontrolowane, w przypadku gdy niniejsza ustawa nie stanowi inaczej,”;
+
+- **2)** w art. 4:
+    - **a)** po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „1a) statek rybacki - oznacza statek wyposażony lub wykorzystywany handlowo do łowienia ryb lub innych żyjących w morzu organizmów, 1b) statek sportowy - oznacza statek bez względu na napęd, wykorzystywany w celach sportowych lub rekreacyjnych,”,
+    - **b)** w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „4) substancja kontrolowana – oznacza substancję wymienioną w Załączniku I do rozporządzenia WE nr 2037/2000 Parlamentu Europejskiego i Rady z dnia 29 czerwca 2000 r. w sprawie substancji zubożających warstwę ozonową (Dz.Urz. WE L 244 z 29.09.2000; str. 1 ).”;
+
+- **3)** tytuł rozdziału 2 otrzymuje brzmienie: „Zanieczyszczenia ze statków”;
+- **4)** w art. 6 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 i 4 w brzmieniu: „3) dla statków objętych rozporządzeniem WE nr 2037/2000 Parlamentu Europejskiego i Rady z dnia 29 czerwca 2000 r. w sprawie substancji zubożających warstwę ozonową – w przepisach tego rozporządzenia,
+- **4)** dla statków objętych rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 782/2003 z dnia 14 kwietnia 2003 r. w sprawie zakazu stosowania związków cynoorganicznych na statkach (Dz.Urz. WE L 115 z 09.05.2003; str. 1 ) – w przepisach tego rozporządzenia.”;
+- **5)** w art. 7:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Z zastrzeżeniem ust. 5, inspekcje, o których mowa w ust. 1, powinny być poprzedzone przeglądami statku dokonywanymi przez instytucję klasyfikacyjną sprawującą nadzór techniczny nad statkiem.”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Organ inspekcyjny może upoważnić do dokonywania określonych przeglądów lub czynności inspekcyjnych wyznaczone w tym celu instytucje klasyfikacyjne, również zagraniczne. Sposób upoważnienia instytucji klasyfikacyjnej do wykonywania czynności inspekcyjnych określają przepisy ustawy z dnia 9 listopada 2000 r. o bezpieczeństwie morskim (Dz. U. Nr 109, poz. 1156, z późn. zm. ).”;
+
+- **6)** art. 8 otrzymuje brzmienie: „Art. 8. 1. W przypadku pozytywnego wyniku przeglądów i inspekcji, organ inspekcyjny wydaje statkowi międzynarodowe świadectwa przewidziane w:
+- **1)** Konwencji MARPOL, ważne na okres 5 lat, oraz potwierdza ich ważność na podstawie inspekcji rocznych i pośrednich,
+- **2)** rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 782/2003 z dnia 14 kwietnia 2003 r. w sprawie zakazu stosowania związków cynoorganicznych na statkach.
+
+2. Polski organ inspekcyjny może wydać międzynarodowe świadectwa potwierdzające spełnienie wymagań przewidzianych w:
+
+- **1)** Konwencji MARPOL, statkowi o obcej przynależności – na wniosek właściwego organu państwa przynależności statku, będącego stroną tej Konwencji,
+- **2)** rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 782/2003 z dnia 14 kwietnia 2003 r. w sprawie zakazu stosowania związków cynoorganicznych na statkach – na wniosek organu państwa przynależności statku.
+
+3. Świadectwa, o których mowa w ust. 1 i 2, tracą ważność przed upływem okresu, na który zostały wystawione, jeżeli:
+
+- **1)** bez zgody organu inspekcyjnego wprowadzono istotne zmiany w konstrukcji, wyposażeniu, systemach, osprzęcie, urządzeniach lub materiałach,
+- **2)** nie została potwierdzona ich ważność,
+- **3)** nastąpiła zmiana przynależności statku.
+
+4. Za przeprowadzenie inspekcji oraz wystawienie lub potwierdzenie świadectw, o których mowa w ust. 1 i 2, pobiera się opłaty określone w załączniku do ustawy, z tym że nie pobiera się opłat za inspekcję doraźną.
+
+5. Opłaty, o których mowa w ust. 4, stanowią dochód budżetu państwa.
+
+6. W przypadku gdy czynności, o których mowa w ust. 4, wykonuje upoważniona instytucja klasyfikacyjna, dochód budżetu państwa stanowi 10% opłaty określonej w załączniku do ustawy.”;
+
+- **7)** w art. 10:
+    - **a)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku, gdy nie ma odpowiednich urządzeń do odbioru odpadów ze statków w następnym porcie zawinięcia statku lub gdy port ten nie jest znany, co stwarza ryzyko zrzutu odpadów do morza, statek jest obowiązany zdać odpady do portowych urządzeń odbiorczych przed opuszczeniem portu.”,
+    - **b)** po ust. 8 dodaje się ust. 8a i 8b w brzmieniu: „8a. Na pisemny wniosek armatora dyrektor właściwego urzędu morskiego może udzielić zwolnienia od obowiązku, o którym mowa w ust. 1, statkom zwolnionym na podstawie ust. 8 od obowiązku każdorazowego zdawania odpadów i pozostałości ładunkowych przed opuszczeniem portu.
+
+8b. Zwolnienie, o którym mowa w ust. 8a, jest ważne w okresie trwania zwolnienia od obowiązku każdorazowego zdawania odpadów i pozostałości ładunkowych przed opuszczeniem portu.”;
+
+- **8)** po art. 13 dodaje się art. 13a-13i w brzmieniu: „Art. 13a. Czynności polegające na oznakowaniu, zakładaniu i prowadzeniu karty urządzenia, sprawdzaniu szczelności, obsłudze, przeglądach i naprawie urządzeń i instalacji zawierających czynnik chłodniczy będący substancją kontrolowaną wykonywane są przez członka załogi statku, posiadającego co najmniej dyplom oficera mechanika wachtowego na statkach o mocy maszyn głównych 750 kW i powyżej, lub przez osobę posiadającą świadectwo kwalifikacji, o którym mowa w art. 11 ustawy z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową, albo przez podmiot zatrudniający taką osobę.
 
 **Art. 13b.**
 
@@ -73,13 +117,83 @@ source: "isap-pdf"
 
 **Art. 13i.** Podmiot, który nakłada lub usuwa szkodliwe pokrycia przeciwporostowe, ma obowiązek zapewnić, aby odpady powstałe podczas prac zostały zebrane i poddane procesom odzysku lub unieszkodliwiania zgodnie z ustawą z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. Nr 62, poz. 628, z późn. zm. ).”;
 
+- **9)** w art. 14:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw gospodarki morskiej może, w drodze rozporządzenia, wprowadzić do stosowania zalecenia uchwalone przez Międzynarodową Organizację Morską lub Komisję Ochrony Środowiska Morskiego Morza Bałtyckiego, zwaną dalej „Komisją Helsińską”, mając na względzie właściwą implementację międzynarodowych przepisów w zakresie zapobiegania zanieczyszczaniu morza przez statki.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób, zakres i terminy przeprowadzania przeglądów i inspekcji, sposób potwierdzania oraz wzory międzynarodowych świadectw, o których mowa w art. 8, w zakresie ochrony morza przed zanieczyszczaniem przez statki, z uwzględnieniem przepisów międzynarodowych oraz przepisów prawa Unii Europejskiej.”;
+
+- **10)** w art. 18:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, szczegółowe warunki, niezbędne dane oraz tryb wydawania zezwoleń, o których mowa w ust. 1, z uwzględnieniem przepisów Konwencji Helsińskiej 1992 oraz Konwencji o zatapianiu.”,
+    - **b)** po ust. 2 dodaje się ust. 3 i 4 w brzmieniu: „3. Dyrektor urzędu morskiego może uzależnić wydanie zezwoleń, o których mowa w ust. 1, od przedłożenia przez wnioskodawcę zezwoleń wymaganych na podstawie odrębnych przepisów lub innych dodatkowych dokumentów albo wyników ekspertyz.
+
+4. Zezwolenia, o których mowa w ust. 1, powinny określać w szczególności:
+
+- **1)** rodzaj zezwolenia,
+- **2)** numer zezwolenia według kolejności jego wydania w danym roku,
+- **3)** okres ważności zezwolenia,
+- **4)** rodzaj usuwanej do morza lub zatapianej w nim substancji oraz jej ilość,
+- **5)** współrzędne geograficzne miejsca usunięcia do morza urobku bądź zatopienia w nim odpadów lub innych substancji,
+- **6)** rodzaj wymaganego opakowania zatapianych w morzu odpadów lub innych substancji,
+- **7)** sposób zatapiania w morzu odpadów lub innych substancji,
+- **8)** sposób powiadamiania o zamierzonych terminach usunięcia do morza urobku z pogłębiania dna oraz zatapiania w morzu odpadów lub innych substancji oraz o fakcie zakończenia tych operacji.”;
+- **11)** art. 36a otrzymuje brzmienie: „Art. 36a. Jeżeli armator statku, nie wykonując ciążących na nim z mocy prawa obowiązków lub łamiąc ustanowione prawem zakazy:
+- **1)** przewozi ładunki niebezpieczne lub zanieczyszczające, nie przekazując informacji, o których mowa w art. 10a,
+- **2)** dopuszcza do wykonywania przez osoby, które nie posiadają wymaganych uprawnień, o których mowa w art. 13a, czynności polegających na oznakowaniu, zakładaniu i prowadzeniu karty urządzenia, sprawdzaniu szczelności, obsłudze, przeglądach i naprawie urządzeń i instalacji zawierających czynnik chłodniczy będący substancją kontrolowaną,
+- **3)** nie wypełnia obowiązku prowadzenia ewidencji substancji kontrolowanych będących czynnikiem chłodniczym oraz przekazywania informacji zawartych w tej ewidencji, o których mowa w art. 5 ustawy z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową,
+- **4)** nie zapewnia oznakowania poddawanych naprawie lub obsłudze technicznej urządzeń chłodniczych, klimatyzacyjnych, gaśniczych lub innych urządzeń zawierających substancje kontrolowane, zgodnie z art. 6 ust. 2 ustawy wymienionej w pkt 3,
+- **5)** nie dopełnia obowiązku założenia karty obsługi technicznej i naprawy urządzenia lub instalacji, określonej w art. 7 ustawy wymienionej w pkt 3,
+- **6)** użytkuje instalację lub urządzenie zawierające substancje kontrolowane w sposób niezapobiegający emisji substancji kontrolowanych do środowiska oraz nie przeprowadza sprawdzenia szczelności tych urządzeń,
+- **7)** stosuje lub stosuje ponownie na statku związki cynoorganiczne, które działają jak biocydy,
+- **8)** eksploatuje statek, na którego kadłubie występują związki cynoorganiczne,
+- **9)** eksploatuje statek, z którego emitowane są do powietrza:
+    - **a)** substancje zubożające warstwę ozonową,
+    - **b)** tlenki azotu,
+
+- **10)** używa na statku paliwa zawierającego niedopuszczalną zawartość siarki - podlega karze pieniężnej do wysokości 50 000 SDR.”;
+- **12)** po art. 36b dodaje się art. 36c w brzmieniu: „Art. 36c. Dostawca, który dostarczając paliwo, nie wykonuje ciążących na nim obowiązków w zakresie dostawy i jakości paliw używanych przez statki, podlega karze pieniężnej do wysokości 50 000 SDR.”;
+- **13)** w art. 37 po pkt 10 dodaje się pkt 11 w brzmieniu: „11) nie wykonuje obowiązków w zakresie oznakowania, zakładania i prowadzenia karty urządzenia, sprawdzania szczelności, obsługi i naprawy urządzeń lub instalacji zawierających czynnik chłodniczy będący substancją kontrolowaną”;
+- **14)** po art. 37 dodaje się art. 37a w brzmieniu: „Art. 37a. Kto nie wykonuje obowiązków określonych w przepisach rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 782/2003 z dnia 14 kwietnia 2003 r. w sprawie zakazu stosowania związków cynoorganicznych na statkach, podlega karze pieniężnej do wysokości 50 000 SDR.”;
+- **15)** art. 38 otrzymuje brzmienie: „Art. 38. Właściwość organów oraz tryb wymierzania i ściągania kar pieniężnych z tytułu naruszenia przepisów, o których mowa w art. 36-37a, oraz sposób wykorzystania kwot ściągniętych z tytułu kar pieniężnych regulują przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm. ).”;
+- **16)** dodaje się załącznik w brzmieniu określonym w załączniku do niniejszej ustawy;
+- **17)** użyte w ustawie w różnych przypadkach wyrazy „Konwencja MARPOL 1973/78” zastępuje się użytymi w odpowiednim przypadku wyrazami „Konwencja MARPOL”.
+
 **Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm. ) w art. 42 w ust. 2 w pkt 26 kropkę zastępuje się średnikiem i dodaje się pkt 27 w brzmieniu: „27) kontroli paliwa u dostawców paliwa dostarczanego na statki.”.
 
 **Art. 3.** W ustawie z dnia 9 listopada 2000 r. o bezpieczeństwie morskim (Dz. U. Nr 109, poz. 1156, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 6 w ust. 1 w pkt 1 lit. d otrzymuje brzmienie: „d) Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, 1973 r., sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem uzupełniającym sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1987 r. Nr 17, poz. 101) oraz Protokołem uzupełniającym sporządzonym w Londynie dnia 26 września 1997 r. (Dz. U. z 2005 r. Nr 202, poz. 1679), zwanej dalej „Konwencją MARPOL”,”;
+- **2)** w art. 14 po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. W przypadku gdy czynności, o których mowa w ust. 1, wykonuje upoważniona instytucja klasyfikacyjna, dochód budżetu państwa stanowi 10% opłaty ustalonej w załączniku do ustawy.”;
+- **3)** w art. 15 w ust. 1:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) sposób uznawania i upoważniania instytucji klasyfikacyjnej do wykonywania zadań administracji morskiej,”,
+    - **b)** po pkt 2 dodaje się pkt 3 w brzmieniu: „3) rodzaje i zakres przeglądów statków dokonywanych przez instytucję klasyfikacyjną.”;
+
+- **4)** użyte w ustawie w różnych przypadkach wyrazy „Konwencja MARPOL 1973/78” zastępuje się użytymi w odpowiednim przypadku wyrazami „Konwencja MARPOL”.
+
 **Art. 4.** W ustawie z dnia 12 września 2002 r. o portowych urządzeniach do odbioru odpadów oraz pozostałości ładunkowych ze statków (Dz. U. Nr 166, poz. 1361 oraz z 2004 r. Nr 96, poz. 959) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 pkt 3 i 4 otrzymują brzmienie: „3) Konwencji MARPOL – oznacza to Międzynarodową konwencję o zapobieganiu zanieczyszczaniu morza przez statki, 1973 r., sporządzoną w Londynie dnia 2 listopada 1973 r., zmienioną Protokołem uzupełniającym sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1987 r. Nr 17, poz. 101) oraz Protokołem uzupełniającym sporządzonym w Londynie dnia 26 września 1997 r. (Dz. U. z 2005 r. Nr 202, poz.
+- **1679)** ;
+- **4)** odpadach ze statków – oznacza to wszelkie zanieczyszczenia powstałe w czasie eksploatacji statku, wymienione w Załącznikach I, IV, V i VI Konwencji MARPOL, oraz odpady związane z ładunkiem, niebędące pozostałościami ładunkowymi, wymienione w wytycznych do wdrażania Załącznika V Konwencji MARPOL – do momentu przekazania ich do portowych urządzeń odbiorczych;”;
+- **2)** w art. 5 ust. 1 otrzymuje brzmienie: „1. Podmiot zarządzający portem lub przystanią morską jest obowiązany do zapewnienia statkom korzystającym z portu lub przystani morskiej dostępu na jego terenie do portowych urządzeń do odbioru odpadów ze statków oraz pozostałości ładunkowych w sposób i w zakresie określonym przepisami ustawy.”;
+- **3)** w art. 6:
+    - **a)** w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) pozostałości z oczyszczania spalin, zgodnie z Załącznikiem VI Konwencji MARPOL.”,
+    - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Podmiot dokonujący naprawy, wymiany, montażu lub demontażu znajdujących się na statku urządzeń i instalacji zawierających substancje kontrolowane określone w Załączniku I do rozporządzenia WE nr 2037/2000 Parlamentu Europejskiego i Rady z dnia 29 czerwca 2000 r. w sprawie substancji zubożających warstwę ozonową (Dz.Urz. WE L 244 z 29.09.2000; str. 1 ) jest obowiązany do zapewnienia odbioru odpadów powstających w trakcie swojej działalności.”;
+
+- **4)** w art. 8:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podmiot zarządzający portem lub przystanią morską jest obowiązany do przekazywania armatorom, kapitanom statków lub agentom reprezentującym armatora informacji o trybie i sposobie odbioru odpadów ze statków oraz znaczeniu dla ochrony środowiska morskiego właściwego odbioru odpadów i pozostałości ładunkowych ze statków, zwanych dalej „informacjami”.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Zakres i sposób podawania informacji o trybie i sposobie odbioru odpadów ze statków powinien obejmować w szczególności:
+
+- **1)** lokalizację portowych urządzeń odbiorczych na planie lub mapie, o ile to możliwe;
+- **2)** rodzaje odpadów ze statków przyjmowanych do portowych urządzeń odbiorczych;
+- **3)** wykaz odbiorców odpadów, oferowanych przez nich usług oraz dane umożliwiające kontakt z tymi odbiorcami;
+- **4)** procedury odbioru;
+- **5)** system opłat;
+- **6)** procedury informowania o niewystarczającej przepustowości portowych urządzeń odbiorczych.”;
+- **5)** po art. 8 dodaje się art. 8a i 8b w brzmieniu: „Art. 8a. Jeżeli podmiot zarządzający portem lub przystanią morską posiada informacje o braku dostępnych odpowiednich urządzeń do odbioru odpadów ze statków w następnym porcie zawinięcia statku, jest obowiązany do przekazania tych informacji kapitanowi statku.
+
 **Art. 8b.** W przypadku stwierdzenia przez kapitana statku zawijającego do portu lub przystani morskiej niewłaściwego funkcjonowania portowych urządzeń odbiorczych lub niepoinformowania przez podmiot zarządzający portem lub przystanią morską o tym fakcie kapitana statku kapitan ma prawo zgłosić nieprawidłowości do dyrektora właściwego urzędu morskiego.”;
+
+- **6)** w art. 9 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Plan gospodarowania odpadami oraz pozostałościami ładunkowymi ze statków podlega, przed jego zatwierdzeniem, konsultacjom z użytkownikami portu.”;
+- **7)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „Rozdział 5a Przepisy karne
 
 **Art. 12a.**
 

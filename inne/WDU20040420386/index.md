@@ -8,7 +8,7 @@ pos: 386
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o organizacji niektórych rynków rolnych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-11 |
 | Data wydania | 2004-03-15 |
-| Ostatnia zmiana | 2026-03-31 |
+| Ostatnia zmiana | 2026-05-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040420386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/386/text.pdf) |
 
 Art. 40ha. Warunkiem prowadzenia przez producenta rolnego, w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, produkującego surowiec tytoniowy, zwanego dalej „producentem surowca tytoniowego”, działalności w zakresie uprawy tytoniu, produkcji lub zbytu surowca tytoniowego jest wpis do rejestru producentów surowca tytoniowego, prowadzonego przez dyrektora oddziału terenowego Krajowego Ośrodka właściwego ze względu na miejsce zamieszkania i adres albo siedzibę i adres producenta rolnego, który zamierza uprawiać tytoń, produkować lub zbywać surowiec tytoniowy.
@@ -464,6 +464,17 @@ Art. 51–54. (pominięte)
 
 **Art. 38h.** W zakresie określonym przepisami Unii Europejskiej:
 
+- **1)** (uchylony)
+- **2)** Dyrektor Generalny Krajowego Ośrodka:
+    - **a)** prowadzi wykaz laboratoriów dokonujących, w ramach zadań delegowanych, oceny jakości zboża objętego działaniami interwencyjnymi,
+    - **b)** realizuje zadania i obowiązki określone dla państwa członkowskiego i agencji interwencyjnej w odniesieniu do zakupu i sprzedaży zbóż w ramach interwencji publicznej;
+
+- **3)** minister właściwy do spraw rynków rolnych powiadamia Komisję Europejską o: Art. 38ha. Zadania określone w niniejszym rozdziale są wykonywane jako zadania delegowane Krajowemu Ośrodkowi zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+    - **a)** zatwierdzonych agencjach interwencyjnych,
+    - **b)** (uchylona)
+    - **c)** minimalnych ilościach wymaganych w odniesieniu do zakupów produktów po ustalonej cenie,
+    - **d)** reprezentatywnych cenach rynkowych zbóż.
+
 #### Rozdział 7b Zasady uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych funkcjonujących na rynkach rolnych innych niż rynki mleka i przetworów mlecznych oraz owoców i warzyw
 
 **Art. 38i.**
@@ -553,6 +564,9 @@ Art. 51–54. (pominięte)
 8. Dyrektor oddziału regionalnego Agencji gromadzi i przechowuje dokumenty stanowiące podstawę wpisu do rejestrów, o których mowa w ust. 1, i inne dokumenty składane przez uznane organizacje producentów, uznane zrzeszenia organizacji producentów i uznane organizacje międzybranżowe w sposób zapewniający ochronę tych dokumentów oraz zabezpieczający je przed utratą i nieuprawnionym dostępem.
 
 **Art. 38l.** Dyrektor oddziału regionalnego Agencji:
+
+- **1)** jest organem właściwym do ustanowienia i udzielania pomocy administracyjnej w przypadku współpracy transnarodowej uznanych organizacji i zrzeszeń, zgodnie z przepisami Unii Europejskiej dotyczącymi uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych;
+- **2)** wydaje decyzję w sprawach, o których mowa w art. 155 rozporządzenia nr 1308/2013.
 
 **Art. 38m.**
 
@@ -651,6 +665,10 @@ Art. 51–54. (pominięte)
 2. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, środki towarzyszące o charakterze edukacyjnym, o których mowa w art. 3 rozporządzenia 2017/40, w ramach zakresu wskazanego w art. 23 ust. 10 rozporządzenia nr 1308/2013, oraz szczegółowy sposób ich realizacji, mając na względzie prawidłową realizację programu dla szkół oraz potrzebę upowszechniania wśród dzieci zdrowych nawyków żywieniowych.
 
 **Art. 38z.** Rada Ministrów określa, w drodze rozporządzenia, corocznie do dnia 31 maja na kolejny rok szkolny:
+
+- **1)** wysokość środków finansowych przeznaczonych na wypłatę pomocy krajowej i pomocy unijnej w ramach finansowania programu dla szkół, przeznaczonych na realizację działań, o których mowa w art. 5 ust. 1 lit. a rozporządzenia 2017/40,
+- **2)** wysokość środków finansowych przeznaczonych na wypłatę pomocy unijnej w ramach finansowania programu dla szkół, przeznaczonych na realizację działań, o których mowa w art. 5 ust. 1 lit. b–d rozporządzenia 2017/40,
+- **3)** wysokość stawek pomocy finansowej z tytułu realizacji działań, o których mowa w art. 5 ust. 1 lit. a rozporządzenia 2017/40 – mając na względzie krajowe ceny produktów dystrybuowanych do placówek oświatowych zgodnie ze strategią dotyczącą realizacji programu dla szkół oraz wysokość środków finansowych z budżetu Unii Europejskiej na realizację programu określoną przez Komisję Europejską.
 
 #### Rozdział 8
 
@@ -820,6 +838,10 @@ Art. 51–54. (pominięte)
 **Art. 57.** (pominięty)
 
 **Art. 58.** Tracą moc:
+
+- **1)** ustawa z dnia 7 czerwca 1990 r. o utworzeniu Agencji Rynku Rolnego (Dz. U. z 1997 r. poz. 951, z późn. zm. );
+- **2)** ustawa z dnia 11 stycznia 2001 r. o regulacji rynku skrobi ziemniaczanej (Dz. U. poz. 83 oraz z 2004 r. poz. 177);
+- **3)** ustawa z dnia 21 czerwca 2001 r. o regulacji rynku cukru (Dz. U. poz. 810 i 1322, z 2002 r. poz. 1086 oraz z 2003 r. poz. 923).
 
 **Art. 59.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem art. 12 ust. 2, art. 16, art. 17, art. 20–23, art. 43, art. 48, art. 51, art. 52, art. 53 ust. 1 pkt 4 i art. 54–56, które wchodzą w życie z dniem ogłoszenia .
 

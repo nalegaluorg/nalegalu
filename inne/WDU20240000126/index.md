@@ -8,10 +8,10 @@ pos: 126
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 lutego 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 112266 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 18 stycznia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000126) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/126/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 18 stycznia 2024 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie zezwoleń na przejazd pojazdów nienormatywnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury z dnia 21 stycznia 2021 r. w sprawie zezwoleń na przejazd pojazdów nienormatywnych (Dz. U. poz. 212), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 25 października 2022 r. zmieniającym rozporządzenie w sprawie zezwoleń na przejazd pojazdów nienormatywnych (Dz. U. poz. 2270).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 25 października 2022 r. zmieniającego rozporządzenie w sprawie zezwoleń na przejazd pojazdów nienormatywnych (Dz. U. poz. 2270), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Infrastruktury: D. Klimczak ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 21 stycznia 2021 r.
-w sprawie zezwoleń na przejazd pojazdów nienormatywnych Na podstawie art. 64i ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie zezwoleń na przejazd pojazdów nienormatywnych Na podstawie art. 64i ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) warunki dystrybucji blankietów zezwoleń na przejazd pojazdu nienormatywnego, zwanych dalej „zezwoleniami”;
 2) sposób i tryb wydawania zezwoleń;
 3) warunki wyznaczania trasy przejazdu oraz kryteria ustalania warunków przejazdu pojazdu nienormatywnego, w tym przejazdu przez most lub wiadukt;
@@ -71,16 +71,16 @@ w sprawie zezwoleń na przejazd pojazdów nienormatywnych Na podstawie art. 64i 
 2. Oprócz wymagań, o których mowa w ust. 1, przejazd pojazdu nienormatywnego nie może powodować przekroczenia bezpiecznego poziomu wytężenia materiału w konstrukcji nośnej drogowego obiektu inżynierskiego, określonego przy pomocy parametrów:
 1) w konstrukcji niosącej przęseł nie powstają siły wewnętrzne większe od wywołanych charakterystycznym obciążeniem przyjętym do projektowania zwiększonym o 30% lub
 2) w wyniku analizy sił wewnętrznych i naprężeń:
-a) w stali konstrukcyjnej i zbrojeniowej naprężenia główne nie przekraczają 2/3 wytrzymałości charakterystycznej stali,
-b) w betonie zbrojonym i sprężonym naprężenia główne nie przekraczają 2/3 wytrzymałości charakterystycznej betonu na ściskanie,
-c) w betonie sprężonym naprężenia rozciągające nie przekraczają wytrzymałości charakterystycznej betonu na rozciąganie,
-d) w stali sprężającej naprężenia trwałe nie przekraczają 1/2 wytrzymałości charakterystycznej stali.
+a) w stali konstrukcyjnej i zbrojeniowej – naprężenia główne nie przekraczają 2/3 wytrzymałości charakterystycznej stali,
+b) w betonie zbrojonym i sprężonym – naprężenia główne nie przekraczają 2/3 wytrzymałości charakterystycznej betonu na ściskanie,
+c) w betonie sprężonym – naprężenia rozciągające nie przekraczają wytrzymałości charakterystycznej betonu na rozciąganie,
+d) w stali sprężającej – naprężenia trwałe nie przekraczają 1/2 wytrzymałości charakterystycznej stali.
 § 11. 1. Organ właściwy do wydania zezwolenia określa warunki przejazdu pojazdu nienormatywnego na podstawie następujących kryteriów:
 1) terminu oraz godzin przejazdu,
 2) prędkości przejazdu,
 3) organizacji ruchu,
 4) zabezpieczenia urządzeń technicznych umieszczonych w pasie drogowym,
-5) zapewnienia bezpieczeństwa ruchu drogowego na wyznaczonej trasie, o której mowa w § 10 ust. 1, lub jej poszczególnych odcinkach.
+5) zapewnienia bezpieczeństwa ruchu drogowego – na wyznaczonej trasie, o której mowa w § 10 ust. 1, lub jej poszczególnych odcinkach.
 2. W przypadku przejazdu pojazdu nienormatywnego przez most, wiadukt lub po estakadzie zarządca drogi ustala zależnie od potrzeb:
 1) ograniczenia lub wyeliminowanie ruchu innych pojazdów na obiekcie;
 2) ograniczenia prędkości przejazdu przez obiekt;
@@ -97,32 +97,40 @@ d) w stali sprężającej naprężenia trwałe nie przekraczają 1/2 wytrzymało
 2) kategorii II–IV określa załącznik nr 5 do rozporządzenia;
 3) kategorii V określa załącznik nr 6 do rozporządzenia.
 § 14. 1. Niewykorzystane blankiety zezwoleń na przejazd pojazdu nienormatywnego, zgodne ze wzorem określonym w przepisach dotychczasowych, podlegają komisyjnemu i protokolarnemu zniszczeniu w terminie do 60 dni liczonym od dnia wejścia w życie rozporządzenia.
+2. Komisyjnego i protokolarnego zniszczenia dokonuje komisja wyznaczona przez organ wydający zezwolenia.
 3. Protokół zniszczenia wskazuje skład komisji, datę zniszczenia oraz rodzaj i liczbę zniszczonych blankietów zezwoleń na przejazd pojazdu nienormatywnego.
 4. Protokół zniszczenia przechowuje organ wydający zezwolenia przez okres 5 lat od dnia zniszczenia.
 § 15. Traci moc rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 22 czerwca 2012 r.
 w sprawie zezwoleń na przejazd pojazdów nienormatywnych (Dz. U. poz. 764).
 § 16. Rozporządzenie wchodzi w życie z dniem 13 marca 2021 r.
-....................................................
+
+## Załącznik nr 1 — WZÓR WNIOSKU O WYDANIE ZEZWOLENIA KATEGORII I NA PRZEJAZD POJAZDU NIENORMATYWNEGO ....................................................
+
 ......................................................................
-WNIOSEK o wydanie zezwolenia kategorii I na przejazd pojazdu nienormatywnego na okres 12 miesięcy Wnioskodawca: ______________________________________________________________ Adres: _____________________________________________________________________ Nr tel.: ______________________________________, nr faksu: ______________________ NIP ___________________________ REGON __________________________________ PESEL _________________________________ wnoszę o wydanie zezwolenia na przejazd w terminie: od __________________ d o ___________________ po drogach publicznych, z wyjątkiem dróg ekspresowych i autostrad, pojazdu nienormatywnego: pojazdu wolnobieżnego , ciągnika rolniczego albo zespołu pojazdów składającego się z pojazdu wolnobieżnego lub ciągnika rolniczego i przyczepy specjalnej , którego:
+WNIOSEK o wydanie zezwolenia kategorii I na przejazd pojazdu nienormatywnego na okres 12 miesięcy Wnioskodawca: ______________________________________________________________ Adres: _____________________________________________________________________ Nr tel.: ______________________________________, nr faksu: ______________________ NIP ___________________________ REGON __________________________________ PESEL _________________________________ wnoszę o wydanie zezwolenia na przejazd w terminie: od __________________ do ___________________ po drogach publicznych, z wyjątkiem dróg ekspresowych i autostrad, pojazdu nienormatywnego: pojazdu wolnobieżnego , ciągnika rolniczego albo zespołu pojazdów składającego się z pojazdu wolnobieżnego lub ciągnika rolniczego i przyczepy specjalnej , którego:
 1) długość, wysokość, naciski osi oraz rzeczywista masa całkowita nie są większe od dopuszczalnych;
 2) szerokość nie przekracza 3,5 m.
-Informacje Pojazd o pojeździe wolnobieżny Ciągnik rolniczy Przyczepa specjalna Marka i typ Numer rejestracyjny Numer nadwozia, podwozia lub ramy dla podmiotu: _______________________________________________________________ adres: ______________________________________________________________________ ....................................................................
-WZÓR WNIOSKU O WYDANIE ZEZWOLENIA KATEGORII I NA PRZEJAZD POJAZDU NIENORMATYWNEGO ....................................................
+Informacje Pojazd Przyczepa Ciągnik rolniczy o pojeździe wolnobieżny specjalna Marka i typ Numer rejestracyjny Numer nadwozia, podwozia lub ramy dla podmiotu: _______________________________________________________________ adres: ______________________________________________________________________ ....................................................................
+
+## Załącznik nr 2 — WZÓR WNIOSKU O WYDANIE ZEZWOLENIA KATEGORII II–IV NA PRZEJAZD POJAZDU NIENORMATYWNEGO ....................................................
+
 ......................................................................
-WNIOSEK o wydanie zezwolenia kategorii: II/III/IV na przejazd pojazdu nienormatywnego na okres miesiąca/ 6 miesięcy/ 12 miesięcy/ 24 miesięcy Wnioskodawca: _____________________________________________________________ ___________________________________________________________________________ Adres: _____________________________________________________________________ ___________________________________________________________________________ Nr tel.: _____________________________________, nr faksu: _______________________ NIP ___________________________ REGON _________________________________ PESEL ________________________________ wnoszę o wydanie zezwolenia na przejazd w terminie od dn ia ___________________ do dnia ___________________ po drogach publicznych pojazdu nienormatywnego, którego:
-1) długość nie przekracza :  15 m dla pojedynczego pojazdu,  23 m dla zespołu pojazdu,  30 m dla zespołu pojazdu o skrętnych osiach;
+WNIOSEK o wydanie zezwolenia kategorii: II/III/IV na przejazd pojazdu nienormatywnego na okres miesiąca/ 6 miesięcy/ 12 miesięcy/ 24 miesięcy Wnioskodawca: _____________________________________________________________ ___________________________________________________________________________ Adres: _____________________________________________________________________ ___________________________________________________________________________ Nr tel.: _____________________________________, nr faksu: _______________________ NIP ___________________________ REGON _________________________________ PESEL ________________________________ wnoszę o wydanie zezwolenia na przejazd w terminie od dnia ___________________ do dnia ___________________ po drogach publicznych pojazdu nienormatywnego, którego:
+1) długość nie przekracza :  15 m dla pojedynczego pojazdu,  23 m dla zespołu pojazdu,  30 m dla zespołu pojazdu o skrętnych osiach;
 2) szerokość nie przekracza :  3,2 m,  3,4 m,  4 m;
 3) wysokość nie przekracza 4,3 m;
 4) naciski osi nie są większe od dopuszczalnych ;
 5) rzeczywista masa całkowita nie jest większa od dopuszczalnej ;
 6) rzeczywista masa całkowita nie przekracza 60 t ;
 dla podmiotu: _______________________________________________________________ ___________________________________________________________________________ adres: _____________________________________________________________________ ___________________________________________________________________________ ...................................................................
-WZÓR WNIOSKU O WYDANIE ZEZWOLENIA KATEGORII II–IV NA PRZEJAZD POJAZDU NIENORMATYWNEGO ....................................................
+
+## Załącznik nr 3 — WZÓR WNIOSKU O WYDANIE ZEZWOLENIA KATEGORII V NA PRZEJAZD POJAZDU NIENORMATYWNEGO ....................................................
+
 …...................................................................
-WNIOSEK o wydanie zezwolenia kategorii V na jednokrotny/wielokrotny przejazd pojazdu nienormatywnego Wnioskodawca:______________________________________________________________ ___________________________________________________________________________ Adres: _____________________________________________________________________ ___________________________________________________________________________ Nr tel.: _________________________________, nr faksu: ______________________________ NIP ____________________________ REGON _________________________________ PESEL ________________________________ wnoszę o wydanie zezwolenia na przejazd jednokrotny/wielokrotny pojazdu nienormatywnego, d la p odmiotu: _______________________________________________ ___________________________________________________________________________ adres: _____________________________________________________________________ ___________________________________________________________________________ Nadawca ładunku: ___________________________________, nr tel./faksu: _______________ Przejazd: z miejscowości: _____________________________ ul. _____________________________________ województwo: ___________________ powiat: ___________________ gmina: __________________ do miejscowości: ____________________________ ul. ____________________________________ województwo: ___________________ powiat: ___________________ gmina: __________________ Ilość przejazdów: _____________________ Termin przejazdu(ów): od dnia _______________________ do dnia ________________________ Ładunek: _________________________________o masie ____________________t.
+WNIOSEK o wydanie zezwolenia kategorii V na jednokrotny/wielokrotny przejazd pojazdu nienormatywnego Wnioskodawca:______________________________________________________________ ___________________________________________________________________________ Adres: _____________________________________________________________________ ___________________________________________________________________________ Nr tel.: _________________________________, nr faksu: ______________________________ NIP ____________________________ REGON _________________________________ PESEL ________________________________ wnoszę o wydanie zezwolenia na przejazd jednokrotny/wielokrotny pojazdu nienormatywnego, dla podmiotu: _______________________________________________ ___________________________________________________________________________ adres: _____________________________________________________________________ ___________________________________________________________________________ Nadawca ładunku: ___________________________________, nr tel./faksu: _______________ Przejazd: z miejscowości: _____________________________ ul. _____________________________________ województwo: ___________________ powiat: ___________________ gmina: __________________ do miejscowości: ____________________________ ul. ____________________________________ województwo: ___________________ powiat: ___________________ gmina: __________________ Ilość przejazdów: _____________________ Termin przejazdu(ów): od dnia _______________________ do dnia ________________________ Ładunek: _________________________________o masie ____________________t.
 Przejazd: nie będzie/będzie odbywał się w kolumnie.
-Informacje o pojeździe Samochód/ciągnik Przyczepa/naczepa Marka i typ Numer rejestracyjny Data pierwszej rejestracji Masa własna Dopuszczalna ładowność Ilość osi WZÓR WNIOSKU O WYDANIE ZEZWOLENIA KATEGORII V NA PRZEJAZD POJAZDU NIENORMATYWNEGO Wymiary oraz masa całkowita bez ładunku i wraz z ładunkiem: maksymalna długość _________________ m / __________________ m maksymalna szerokość _________________ m / __________________ m maksymalna wysokość _________________ m / __________________ m masa całkowita _________________ t / __________________ t Numer osi 1 2 3 4 5 6 7 8 Liczba kół na osi Zaznaczyć oś napędową (X) Zaznaczyć oś kierowaną (X) Naciski osi pojazdu wraz z ładunkiem w tonach Naciski osi pojazdu bez ładunku w tonach Odległość między osiami z ładunkiem (m) Odległość między osiami bez ładunku (m) Zawieszenie pneumatyczne lub równoważne TAK/NIE Informuję, że pojazdem nienormatywnym przewożony będzie ładunek niepodzielny.
+Informacje o pojeździe Samochód/ciągnik Przyczepa/naczepa Marka i typ Numer rejestracyjny Data pierwszej rejestracji Masa własna Dopuszczalna ładowność Ilość osi Wymiary oraz masa całkowita bez ładunku i wraz z ładunkiem: maksymalna długość _________________ m / __________________ m maksymalna szerokość _________________ m / __________________ m maksymalna wysokość _________________ m / __________________ m masa całkowita _________________ t / __________________ t Numer osi 1 2 3 4 5 6 7 8 Liczba kół na osi Zaznaczyć oś napędową (X) Zaznaczyć oś kierowaną (X) Naciski osi pojazdu wraz z ładunkiem w tonach Naciski osi pojazdu bez ładunku w tonach Odległość między osiami z ładunkiem (m) Odległość między osiami bez ładunku (m) Zawieszenie pneumatyczne lub równoważne – TAK/NIE Informuję, że pojazdem nienormatywnym przewożony będzie ładunek niepodzielny.
 ...................................................................
-WZÓR ZEZWOLENIA KATEGORII I NA PRZEJAZD POJAZDU NIENORMATYWNEGO WZÓR ZEZWOLENIA KATEGORII II–IV NA PRZEJAZD POJAZDU NIENORMATYWNEGO WZÓR ZEZWOLENIA KATEGORII V NA PRZEJAZD POJAZDU NIENORMATYWNEGO
+
+## Załącznik nr 4 — WZÓR ZEZWOLENIA WZÓR ZEZWOLENIA KATEGORII KATEGORII I NA I PRZEJAZD NA PRZEJAZD POJAZDU POJAZDU NIENORMATYWNEGO NIENORMATYWNEGO WZÓR ZEZWOLENIA KATEGORII II–IV NA PRZEJAZD POJAZDU NIENORMATYWNEGO Załącznik nr 6 WZÓR WZÓR ZEZWOLENIA ZEZWOLENIA KATEGORII KATEGORII V V NA NA PRZEJAZD PRZEJAZD POJAZDU POJAZDU NIENORMATYWNEGO NIENORMATYWNEGO
 

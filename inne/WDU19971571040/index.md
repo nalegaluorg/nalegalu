@@ -8,7 +8,7 @@ pos: 1040
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Na podstawie art. 89 ust. 4 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz.U. Nr 102, poz. 643) w związku z orzeczeniem Trybunału Konstytucyjnego z dnia 28 maja 1997 r. sygn. akt K. 26/96 ogłaszam utratę mocy obowiązującej następujących przepisów ustawy z dnia 30 sierpnia 1996 r. o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego warunkach dopuszczalności przerywania ciąży oraz o zmianie niektórych innych ustaw (Dz.U. Nr 139, poz. 646): art. 1 pkt 2 - w zakresie, w jakim uzależnia ochronę życia w fazie prenatalnej od decyzji ustawodawcy zwykłego; art. 1 pkt 5 - w zakresie dotyczącym art. 4a ust. 1 pkt 4 ustawy z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (Dz.U. Nr 17, poz. 78 i z 1995 r. Nr 66, poz. 334); art. 2 pkt 2;

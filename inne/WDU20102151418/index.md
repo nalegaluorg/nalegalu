@@ -8,7 +8,7 @@ pos: 1418
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 96/9/A/2010 WYROK z dnia 4 listopada 2010 r.
@@ -80,7 +80,8 @@ III Trybunał Konstytucyjny zważył, co następuje:
 Rzecznik Praw Obywatelskich w petitum wniosku wskazał jako przedmiot kontroli art. 1046 § 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U.
 Nr 43, poz. 296, ze zm.; dalej: kodeks postępowania cywilnego lub k.p.c.).
 Zakwestionowany przepis stanowi element regulacji prawnej dotyczącej sądowego postępowania egzekucyjnego obejmującego świadczenia niepieniężne, a ściślej: procedury eksmisji z lokali mieszkalnych. Brzmienie zaskarżonego przepisu, łącznie z niektórymi innym paragrafami art. 1046 k.p.c. przydatnymi do odczytania norm będących przedmiotem kontroli, jest następujące: „Art. 1046. § 1. Jeżeli dłużnik ma wydać nieruchomość lub statek albo opróżnić pomieszczenie, komornik sądu, w którego okręgu rzeczy te się znajdują, wezwie dłużnika do dobrowolnego wykonania tego obowiązku w wyznaczonym stosownie do okoliczności terminie, po którego bezskutecznym upływie dokona czynności potrzebnych do wprowadzenia wierzyciela w posiadanie.
-(…) § 4. Wykonując obowiązek opróżnienia lokalu służącego zaspokojeniu potrzeb mieszkaniowych dłużnika na podstawie tytułu wykonawczego, z którego nie wynika prawo dłużnika do lokalu socjalnego lub zamiennego, komornik wstrzyma się z dokonaniem czynności do czasu, gdy gmina wskaże tymczasowe pomieszczenie lub gdy dłużnik znajdzie takie pomieszczenie.
+(…)
+§ 4. Wykonując obowiązek opróżnienia lokalu służącego zaspokojeniu potrzeb mieszkaniowych dłużnika na podstawie tytułu wykonawczego, z którego nie wynika prawo dłużnika do lokalu socjalnego lub zamiennego, komornik wstrzyma się z dokonaniem czynności do czasu, gdy gmina wskaże tymczasowe pomieszczenie lub gdy dłużnik znajdzie takie pomieszczenie.
 § 4 . Przepisu § 4 nie stosuje się do egzekucji obowiązku opróżnienia lokalu wynajętego na podstawie umowy najmu okazjonalnego lokalu, której zawarcie zostało zgłoszone zgodnie z art. 19b ust. 1 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.).
 § 5. Komornik nie może wstrzymać się z dokonaniem czynności, jeżeli wierzyciel wskaże tymczasowe pomieszczenie, o którym mowa w § 4.
 § 6. Tymczasowe pomieszczenie powinno:
@@ -88,7 +89,8 @@ Zakwestionowany przepis stanowi element regulacji prawnej dotyczącej sądowego 
 2) zapewniać co najmniej 5 m powierzchni mieszkalnej na jedną osobę;
 3) znajdować się w tej samej miejscowości lub pobliskiej, jeżeli zamieszkanie w tej miejscowości nie pogorszy nadmiernie warunków życia osób przekwaterowywanych.
 § 7. Od wymagań, o których mowa w § 6 pkt 2 i pkt 3, można odstąpić za zgodą osoby przekwaterowywanej.
-(…) § 11. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, szczegółowy tryb postępowania w sprawach o opróżnienie lokalu lub pomieszczenia albo o wydanie nieruchomości oraz szczegółowe warunki, w tym sanitarne, jakim powinno odpowiadać tymczasowe pomieszczenie, mając na względzie ochronę przed bezdomnością osób eksmitowanych, sprawne prowadzenie egzekucji oraz uwzględniając, że tymczasowe pomieszczenie musi nadawać się do zamieszkania, chociażby nie spełniało warunków technicznych wymaganych dla pomieszczeń przeznaczonych na stały pobyt ludzi”.
+(…)
+§ 11. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, szczegółowy tryb postępowania w sprawach o opróżnienie lokalu lub pomieszczenia albo o wydanie nieruchomości oraz szczegółowe warunki, w tym sanitarne, jakim powinno odpowiadać tymczasowe pomieszczenie, mając na względzie ochronę przed bezdomnością osób eksmitowanych, sprawne prowadzenie egzekucji oraz uwzględniając, że tymczasowe pomieszczenie musi nadawać się do zamieszkania, chociażby nie spełniało warunków technicznych wymaganych dla pomieszczeń przeznaczonych na stały pobyt ludzi”.
 Trybunał Konstytucyjny wskazuje, że art. 1046 § 5 k.p.c., który dotyczy wskazania pomieszczenia tymczasowego przez wierzyciela, nie jest przedmiotem zaskarżenia w niniejszej sprawie. Jest on jednak uzupełnieniem norm wynikających z art. 1046 § 4 k.p.c.
 i wobec tego przydatny do interpretacji i stosowania kwestionowanego przez wnioskodawcę przepisu.
 2. Ewolucja rozwiązań prawnych dotyczących eksmisji z lokali mieszkalnych.

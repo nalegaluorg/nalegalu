@@ -8,10 +8,10 @@ pos: 67
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# U S T A W A z dnia 29 grudnia 1992 r.
+# o zmianie ustawy o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,6 @@ source: "isap-pdf"
 | Data wydania | 1993-02-27 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930160067) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/67/text.pdf) |
-
-o zmianie ustawy o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych
 
 **Art. 1.** W ustawie z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych (Dz.U. Nr 44, poz. 255 i z 1991 r. Nr 75, poz. 331) w art. 2 w ust. wyrazy "31 grudnia 1992 r." zastępuje się wyrazami "31 grudnia 1993 r.".
 

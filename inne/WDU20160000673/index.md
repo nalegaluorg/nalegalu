@@ -8,10 +8,10 @@ pos: 673
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 maja 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 673 Umowa o współpracy w zakresie nawigacji satelitarnej między Unią Europejską i jej państwami członkowskimi a Królestwem Norwegii, sporządzona w Brukseli dnia 22 września 2010 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000673) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/673/text.pdf) |
 
-Umowa o współpracy w zakresie nawigacji satelitarnej między Unią Europejską i jej państwami członkowskimi a Królestwem Norwegii, sporządzona w Brukseli dnia 22 września 2010 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 22 września 2010 r. w Brukseli została sporządzona Umowa o współpracy w zakresie nawigacji satelitarnej między Unią europejską i jej państwami członkowskimi a królestwem norwegii, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 22 września 2010 r. w Brukseli została sporządzona Umowa o współpracy w zakresie nawigacji satelitarnej między Unią europejską i jej państwami członkowskimi a królestwem norwegii, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 29 listopada 2012 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.
+Prezes Rady Ministrów: D. Tusk
 

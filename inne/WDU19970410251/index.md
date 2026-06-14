@@ -8,7 +8,7 @@ pos: 251
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o stosunku Państwa do gmin wyznaniowych żydowskich w Rzeczypospolitej Polskiej

@@ -8,7 +8,7 @@ pos: 465
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych
@@ -78,7 +78,22 @@ Art. 73–76. (pominięte)
 
 **Art. 3.** Procedury wykonuje się wyłącznie w celu:
 
+- **1)** prowadzenia badań: 574, z późn. zm. ),
+    - **a)** podstawowych w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz.
+    - **b)** aplikacyjnych w rozumieniu art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w tym badań translacyjnych polegających na przeniesieniu wyników badań przeprowadzonych na zwierzętach do praktyki klinicznej, jeżeli ich celem jest: – zapobieganie chorobom, diagnozowanie lub leczenie chorób lub dysfunkcji u ludzi, zwierząt lub roślin, – ocena, wykrywanie, regulacja lub zmiana stanów fizjologicznych ludzi, zwierząt lub roślin,
+    - **c)** mających na celu zachowanie gatunku,
+    - **d)** z zakresu medycyny sądowej;
+
+- **2)** zapewnienia dobrostanu zwierząt lub poprawy warunków chowu lub hodowli zwierząt gospodarskich;
+- **3)** opracowania i produkcji produktów leczniczych, środków spożywczych w rozumieniu ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2022 r. poz. 2132), pasz lub innych substancji lub produktów, lub badań ich jakości, skuteczności lub bezpieczeństwa stosowania, przeprowadzanych w celach, o których mowa w pkt 1 lit. b i pkt 2;
+- **4)** ochrony środowiska naturalnego w interesie zdrowia lub dobrostanu ludzi i zwierząt;
+- **5)** kształcenia na poziomie szkolnictwa wyższego lub szkolenia w celu nabycia lub doskonalenia kompetencji zawodowych.
+
 **Art. 3a.** Hodowca, dostawca i użytkownik zapewniają:
+
+- **1)** stosowanie – zawsze, gdy jest to możliwe, zamiast danej procedury – metody lub strategii badawczej, która jest zadowalająca pod względem naukowym i nie obejmuje wykorzystywania zwierząt (zasada zastąpienia);
+- **2)** zredukowanie do minimum liczby zwierząt wykorzystywanych w procedurach, bez uszczerbku dla celów tych procedur (zasada ograniczenia);
+- **3)** udoskonalenie hodowli zwierząt, ich utrzymywania, opieki nad nimi i metod stosowanych w procedurach tak, aby u zwierząt zostały wyeliminowane lub ograniczone do minimum potencjalne: ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu (zasada udoskonalenia).
 
 **Art. 3b.**
 
@@ -124,6 +139,17 @@ Art. 73–76. (pominięte)
 3. (uchylony)
 
 **Art. 7.** Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na wykorzystanie w procedurze zwierząt:
+
+- **1)** z gatunków, o których mowa w art. 2 ust. 1 pkt 2 – w przypadku gdy celów procedury, określonych w art. 3, nie można osiągnąć z wykorzystaniem zwierząt laboratoryjnych;
+- **2)** z rzędu naczelnych wymienionych w załączniku A do rozporządzenia Rady (WE) nr 338/97 z dnia 9 grudnia 1996 r. w sprawie ochrony gatunków dzikiej fauny i flory w drodze regulacji handlu nimi (Dz. Urz. WE L 61 z 03.03.1997, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 3, str. 136, z późn. zm.), zwanego dalej „rozporządzeniem nr 338/97”, które nie są objęte zakresem stosowania art. 7 ust. 1 tego rozporządzenia – wyłącznie w przypadku procedur mających na celu przeprowadzenie badań, o których mowa w art. 3:
+    - **a)** pkt 1 lit. b tiret pierwsze lub pkt 3, służących przeciwdziałaniu, diagnozowaniu lub leczeniu niepełnosprawności fizycznej lub psychicznej, lub chorób zagrażających życiu ludzi,
+    - **b)** pkt 1 lit. c – gdy celu procedury nie można osiągnąć z wykorzystaniem niewymienionego w tym załączniku gatunku zwierząt i gatunku nienależącego do zwierząt z rzędu naczelnych;
+
+- **3)** z rzędu naczelnych innych niż wymienione w pkt 2 – wyłącznie w przypadku procedur mających na celu przeprowadzenie badań, o których mowa w art. 3:
+    - **a)** pkt 1 lit. a lub c,
+    - **b)** pkt 1 lit. b tiret pierwsze lub pkt 3, służących przeciwdziałaniu, diagnozowaniu lub leczeniu niepełnosprawności fizycznej lub psychicznej, lub chorób zagrażających życiu ludzi – gdy celu procedury nie można osiągnąć z wykorzystaniem innego gatunku zwierząt niż gatunek z rzędu naczelnych;
+
+- **4)** z gatunków zagrożonych, z wyłączeniem zwierząt z rzędu naczelnych, wymienionych w załączniku A do rozporządzenia nr 338/97, które nie są objęte zakresem stosowania art. 7 ust. 1 tego rozporządzenia – wyłącznie w przypadku procedur mających na celu przeprowadzenie badań, o których mowa w art. 3 pkt 1 lit. b tiret pierwsze i lit. c oraz pkt 3 – gdy celu procedury nie można osiągnąć z wykorzystaniem niewymienionego w tym załączniku gatunku zwierząt.
 
 **Art. 8.**
 
@@ -232,6 +258,9 @@ Art. 73–76. (pominięte)
 
 **Art. 16a.** Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na zastosowanie innej metody uśmiercenia zwierzęcia wykorzystywanego w procedurze niż metody:
 
+- **1)** określone w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych,
+- **2)** dopuszczone do stosowania zgodnie z art. 3b ust. 5 – jeżeli cel procedury nie może zostać osiągnięty przez zastosowanie metod, o których mowa w pkt 1 i 2.
+
 #### Rozdział 3 Wymagania dotyczące prowadzenia działalności w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych
 
 **Art. 17.**
@@ -251,7 +280,16 @@ Art. 73–76. (pominięte)
 
 **Art. 18.** Użytkownik może prowadzić działalność w ośrodku, który oprócz spełniania wymagań określonych w art. 17, jest:
 
+- **1)** dostosowany do rodzaju i liczby wykonywanych procedur;
+- **2)** zaprojektowany i wyposażony tak, aby:
+    - **a)** zapewnić uzyskiwanie wiarygodnych wyników procedur z wykorzystaniem jak najmniejszej liczby zwierząt,
+    - **b)** przy wykonywaniu procedur ograniczyć do minimum ból, cierpienie, dystres lub możliwość trwałego uszkodzenia organizmu wykorzystywanych zwierząt.
+
 **Art. 19.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, minimalne wymagania:
+
+- **1)** jakie musi spełniać ośrodek,
+- **2)** w zakresie opieki nad zwierzętami utrzymywanymi w ośrodku, w tym pozyskanymi zwierzętami dzikimi,
+- **3)** w zakresie transportu zwierząt dzikich – biorąc pod uwagę potrzeby fizjologiczne i etologiczne gatunków zwierząt pozyskiwanych lub utrzymywanych w ośrodku oraz konieczność zapewnienia utrzymywanym w nim zwierzętom dobrostanu i prawidłowego stanu zdrowia, a także właściwych warunków opieki.
 
 **Art. 20.**
 
@@ -307,6 +345,10 @@ Art. 73–76. (pominięte)
 
 **Art. 22.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
 
+- **1)** zakres programów szkoleń i praktyk oraz zakres staży pracy, o których mowa w art. 20 ust. 1 pkt 2 i 3 oraz ust. 2 pkt 2 i 3, art. 21 oraz art. 24 ust. 2 pkt 2 i 3,
+- **2)** wzory dokumentów potwierdzających ukończenie szkolenia i praktyki oraz posiadany staż pracy, o których mowa w art. 20 ust. 1 pkt 2 i 3 oraz ust. 2 pkt 2 i 3, art. 21 oraz art. 24 ust. 2 pkt 2 i 3,
+- **3)** wzór dokumentu potwierdzającego zgodność programu szkolenia odbytego w państwie innym niż Rzeczpospolita Polska z zakresem, o którym mowa w pkt 1, a także uzupełnienie szkolenia w przypadku, o którym mowa w art. 21a ust. 3 – mając na względzie potrzebę zapewnienia osobom, o których mowa w art. 20, art. 21 i art. 24 ust. 2, możliwości uzyskania wiedzy i umiejętności praktycznych niezbędnych do prawidłowego wykonywania czynności, o których mowa w art. 20 i art. 21, zadań, o których mowa w art. 24 ust. 1, a także potrzebę zapewnienia jednolitego dokumentowania ukończonych szkoleń i praktyk oraz posiadanego stażu pracy.
+
 **Art. 23.** Hodowca, dostawca i użytkownik zawierają z lekarzem weterynarii umowę o świadczenie usług weterynaryjnych w rozumieniu art. 2 ust. 1 ustawy z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt lub, jeżeli jest to uzasadnione specyfiką działalności hodowcy, dostawcy lub użytkownika, w szczególności polegającą na przeprowadzaniu doświadczeń na zwierzętach dzikich, umowę o świadczenie usług doradczych w zakresie dobrostanu i leczenia zwierząt utrzymywanych lub wykorzystywanych w ramach działalności hodowcy, dostawcy lub użytkownika z ekspertem posiadającym doświadczenie niezbędne do świadczenia takich usług w odniesieniu do gatunków tych zwierząt.
 
 **Art. 24.**
@@ -328,6 +370,9 @@ Art. 73–76. (pominięte)
 - **3)** ma co najmniej 2-letni staż pracy na stanowisku związanym ze sprawowaniem opieki nad zwierzętami.
 
 **Art. 24a.** Hodowca, dostawca i użytkownik, w zakresie uzasadnionym rodzajem prowadzonej przez siebie działalności w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych, opracowują programy:
+
+- **1)** znajdowania nowego opiekuna dla zwierząt, w tym przeprowadzenia przez hodowcę, dostawcę i użytkownika socjalizacji tych zwierząt w sposób odpowiedni dla ich gatunku;
+- **2)** prowadzenia rehabilitacji zwierząt dzikich przed przywróceniem ich do siedliska przyrodniczego.
 
 **Art. 25.**
 
@@ -647,7 +692,17 @@ Art. 73–76. (pominięte)
 
 **Art. 40a.** Uchwały podjęte przez:
 
+- **1)** Komisję – podpisuje przewodniczący Komisji, a w przypadku jego nieobecności – wiceprzewodniczący Komisji;
+- **2)** lokalną komisję – podpisuje przewodniczący lokalnej komisji, a w przypadku jego nieobecności – wiceprzewodniczący lokalnej komisji.
+
 **Art. 41.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+
+- **1)** liczbę lokalnych komisji, ich siedziby i właściwość miejscową, mając na uwadze potrzebę zapewnienia sprawnej realizacji zadań tych komisji, liczbę i lokalizację użytkowników, a także liczbę przeprowadzanych przez nich doświadczeń;
+- **2)** tryb zgłaszania kandydatów na członków Komisji i lokalnych komisji oraz powoływania ich członków, mając na uwadze wymagania określone dla kandydatów na członków tych komisji;
+- **3)** wzór zgłoszenia kandydata na członka Komisji i lokalnej komisji, mając na uwadze potrzebę ujednolicenia informacji zawartych w tym zgłoszeniu;
+- **4)** tryb funkcjonowania Komisji i lokalnych komisji, mając na uwadze zakres zadań tych komisji oraz potrzebę zapewnienia warunków do sprawnego wykonywania tych zadań;
+- **5)** sposób finansowania działalności Komisji i lokalnych komisji, mając na uwadze potrzebę zapewnienia ich sprawnego działania;
+- **6)** wysokość wynagrodzenia członków Komisji i lokalnych komisji oraz sposób jego wypłacania, mając na uwadze funkcje pełnione przez członków tych komisji oraz potrzebę zapewnienia sprawnej wypłaty wynagrodzeń.
 
 #### Rozdział 6 Zasady przeprowadzania doświadczeń
 

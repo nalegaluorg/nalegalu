@@ -1,0 +1,133 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania \"Wsparcie na zalesianie i tworzenie terenów zalesionych\" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020"
+address: WDU20220000417
+eli: DU/2022/417
+publisher: DU
+year: 2022
+pos: 417
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 417 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 15 lutego 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 417 |
+| ISAP | WDU20220000417 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2022-02-15 |
+| Data wydania | 2022-02-18 |
+| Ostatnia zmiana | 2025-06-18 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000417) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/417/text.pdf) |
+
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie na zalesianie i tworzenie terenów zalesionych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 i ust. 2 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 2137 oraz z 2022 r. poz. 88) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 26 marca 2019 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Wsparcie na zalesianie i tworzenie terenów zalesionych” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 585 i 995, z 2020 r. poz. 246 oraz z 2021 r. poz. 856 i 1039) wprowadza się następujące zmiany:
+1) w § 1 w pkt 1 lit. a otrzymuje brzmienie: „a) w formie wsparcia na zalesienie lub zadrzewienie stanowiącego zryczałtowaną płatność z tytułu kosztów założenia, o których mowa w art. 22 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz.
+UE L 347 z 20.12.2013, str. 487, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1305/2013”,”;
+2) w § 3:
+a) w ust. 1 w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) wykonania zadrzewienia gruntu oraz: – jego ogrodzenia albo – zabezpieczenia osłonkami albo 3 palikami co najmniej 30% minimalnej liczby sadzonek drzew lub krzewów określonej w załączniku nr 2 do rozporządzenia – w przypadku ubiegania się o przyznanie wsparcia na zadrzewienie;”,
+b) w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wsparcie na zalesienie, premia pielęgnacyjna oraz premia zalesieniowa są przyznawane rolnikowi do gruntów:”,
+c) po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Wsparcie na zadrzewienie jest przyznawane rolnikowi do gruntów:
+1) wykazanych w ewidencji gruntów i budynków w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne jako grunty rolne;
+2) stanowiących grunty orne;
+3) tworzących jeden kompleks, stanowiący zwarty obszar powiązany gospodarczo lub przyrodniczo, o powierzchni co najmniej 0,1 ha i nie większej niż 0,5 ha oraz szerokości co najmniej 4 m i nie większej niż 20 m;
+4) stanowiących własność tego rolnika albo własność jego małżonka;
+5) na których nie stwierdzono usunięcia drzew lub krzewów, które występowały na tym gruncie, w okresie 12 miesięcy poprzedzających wykonanie tego zadrzewienia.
+2b. W przypadku gruntu zadrzewionego jednym rzędem drzew lub krzewów przyjmuje się, że jego szerokość wynosi 4 m.”,
+d) ust. 3 i 4 otrzymują brzmienie: „3. Wsparcie na zalesienie lub zadrzewienie jest przyznawane również jednostkom samorządu terytorialnego i jednostkom organizacyjnym gmin, powiatów oraz województw, zwanym dalej „jednostkami”, do gruntów, które spełniają warunki określone odpowiednio w ust. 2 pkt 1–3, 5 i 6 oraz w ust. 2a pkt 1–3 i 5, stanowiących własność jednostki, jeżeli są spełnione warunki określone odpowiednio w ust. 1 pkt 1, pkt 2 lit. a i pkt 3 oraz w ust. 1 pkt 2 lit. d.
+4. W przypadku wsparcia na zalesienie lub zadrzewienie, przy ustalaniu spełnienia warunków określonych odpowiednio w ust. 2 pkt 5 oraz w ust. 2a pkt 3, uwzględnia się obszar przeznaczony do wykonania zalesienia lub zadrzewienia.”,
+e) po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Wsparcie na zadrzewienie jest przyznawane jednorazowo:
+1) do gruntów, na których zostało wykonane zadrzewienie:
+a) gatunkami lub rodzajami drzew lub krzewów wymienionych w załączniku nr 1 do rozporządzenia,
+b) co najmniej 3 różnymi gatunkami lub rodzajami drzew lub krzewów, z tym że udział drzew lub krzewów: – najmniej licznego gatunku lub rodzaju spośród trzech najliczniejszych wynosi co najmniej 10%, – gatunków lub rodzajów liściastych wynosi co najmniej 90%,
+c) sadzonkami co najmniej 2-letnimi;
+2) za ogrodzenie gruntu albo zabezpieczenie drzewek osłonkami albo 3 palikami.”;
+3) w § 4 dodaje się ust. 9 w brzmieniu: „9. Przepisy ust. 1, 2, ust. 3 pkt 2 oraz ust. 4–7 stosuje się odpowiednio w przypadku przyznawania wsparcia na zadrzewienie.”;
+4) użyty w § 7 ust. 1, § 8 ust. 1–3, ust. 5 we wprowadzeniu do wyliczenia, pkt 3, pkt 4, pkt 6 lit. b, pkt 7 i ust. 7 we wprowadzeniu do wyliczenia, § 9 ust. 2 i 3, § 10 ust. 2 we wprowadzeniu do wyliczenia oraz § 25 ust. 1 we wprowadzeniu do wyliczenia i pkt 2 lit. a oraz ust. 3 i 4, w różnym przypadku, wyraz „zalesienie” zastępuje się użytymi w odpowiednim przypadku wyrazami „zalesienie lub zadrzewienie”;
+5) w § 7 ust. 5 i 6 otrzymują brzmienie: „5. Wysokość wsparcia na zalesienie, wsparcia na zadrzewienie i premii pielęgnacyjnej jest uzależniona od nachylenia terenu gruntu, do którego przysługują te formy pomocy, a w przypadku wsparcia na zalesienie i premii pielęgnacyjnej – także od tego, czy są to grunty erozyjne oraz grunty z sukcesją naturalną.
+6. Wysokość stawek pomocy jest określona w załączniku nr 4 do rozporządzenia.”;
+6) w § 8:
+a) po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W jednym wniosku o przyznanie wsparcia na zadrzewienie można ubiegać się o wsparcie do gruntów tworzących jeden kompleks, o którym mowa w § 3 ust. 2a pkt 3.”,
+b) po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „6a. Do wniosku o przyznanie wsparcia na zadrzewienie dołącza się:
+1) pisemną zgodę:
+a) pozostałych współwłaścicieli na zadrzewienie gruntów, jeżeli grunty te stanowią przedmiot współwłasności,
+b) małżonka rolnika na zadrzewienie gruntów, jeżeli grunty te stanowią własność małżonka rolnika;
+2) dokumenty potwierdzające własność gruntów przeznaczonych do wykonania zadrzewienia;
+3) materiał graficzny, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013, udostępniony przez Agencję, obejmujący grunty przeznaczone do wykonania zadrzewienia, z naniesionymi granicami tych gruntów;
+4) wypis z ewidencji gruntów i budynków dotyczący działek ewidencyjnych, na których są położone grunty przeznaczone do wykonania zadrzewienia.
+6b. Do materiału graficznego, o którym mowa w ust. 6a pkt 3, stosuje się odpowiednio przepisy § 5 ust. 3.”;
+7) w § 9:
+a) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Kierownik biura powiatowego Agencji, w drodze decyzji, odmawia przyznania wsparcia na zadrzewienie, jeżeli:
+1) nie są spełnione warunki określone w § 3 ust. 1 pkt 1 lub pkt 2 lit. d, lub ust. 2a pkt 1–4 lub
+2) suma punktów przyznanych operacji jest niższa niż liczba punktów określona w § 4 ust. 1 pkt 2.”,
+b) ust. 4 otrzymuje brzmienie: „4. Prezes Agencji w dniu 1 października roku, w którym złożono wniosek o przyznanie wsparcia na:
+1) zalesienie, podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję, informację o kolejności przysługiwania wsparcia na zalesienie,
+2) zadrzewienie, podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję, informację o kolejności przysługiwania wsparcia na zadrzewienie – w województwie mazowieckim i łącznie w pozostałych województwach.”,
+c) w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku wsparcia na zalesienie, gdy:”,
+d) po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. W przypadku wsparcia na zadrzewienie, gdy:
+1) są spełnione warunki określone w § 3 ust. 1 pkt 1, pkt 2 lit. d i ust. 2a pkt 1–4,
+2) suma punktów uzyskanych przez operację nie jest niższa niż liczba punktów określona w § 4 ust. 1 pkt 2 – kierownik biura powiatowego Agencji wydaje w terminie do dnia 8 października roku, w którym złożono wniosek o przyznanie wsparcia na zadrzewienie, postanowienie o spełnieniu tych warunków i uzyskaniu przez operację co najmniej takiej sumy punktów.”,
+e) ust. 6 otrzymuje brzmienie: „6. Postanowienia, o których mowa w ust. 5 i 5a, zawierają pouczenie o warunkach dotyczących formy, sposobu i terminu poinformowania Agencji o wykonanym odpowiednio zalesieniu lub zadrzewieniu, a w przypadku wsparcia na zalesienie – dodatkowo informację o obowiązku, o którym mowa w części 1 pkt 2.2 lit. b załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm. ), zwanego dalej „rozporządzeniem nr 808/2014”.”;
+8) w § 10:
+a) ust. 1 otrzymuje brzmienie: „1. Zalesienie lub zadrzewienie wykonuje się po otrzymaniu postanowienia, o którym mowa odpowiednio w § 9 ust. 5 lub 5a, nie później niż w okresie sadzenia przypadającym na wiosnę roku następującego po roku, w którym został złożony wniosek o przyznanie odpowiednio wsparcia na zalesienie lub zadrzewienie.”,
+b) w ust. 2: – pkt 2 otrzymuje brzmienie: „2) zgodnie z:
+a) art. 6 lit. d ppkt ii rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r.
+uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe – w przypadku ubiegania się o przyznanie wsparcia na zalesienie,
+b) liczbą sadzonek drzew lub krzewów na hektar określoną w załączniku nr 2 do rozporządzenia,
+c) wymogami planu zalesienia – w przypadku ubiegania się o przyznanie wsparcia na zalesienie,
+d) § 3 ust. 2a pkt 5 oraz ust. 5a – w przypadku ubiegania się o przyznanie wsparcia na zadrzewienie;”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) przez równomierne posadzenie drzew lub krzewów na całej powierzchni przeznaczonej do wykonania zadrzewienia, której granice zostały oznakowane w terenie;”,
+c) po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Podmiot, który wykonał zadrzewienie, przechowuje dowody zakupu:
+1) sadzonek przeznaczonych do wykonania zadrzewienia, zawierające adnotację sprzedawcy, że są to sadzonki co najmniej 2-letnie,
+2) materiałów użytych do ogrodzenia gruntu albo zabezpieczenia drzewek osłonkami albo 3 palikami – przez 5 lat od dnia wypłaty wsparcia na zadrzewienie.”,
+d) w ust. 5 po wyrazach „§ 11 ust. 2” dodaje się wyrazy „pkt 1”;
+9) w § 11 ust. 2 i 3 otrzymują brzmienie: „2. Podmiot ubiegający się o przyznanie wsparcia na:
+1) zalesienie składa kierownikowi biura powiatowego Agencji, do którego został złożony wniosek o przyznanie wsparcia na zalesienie, oświadczenie o wykonaniu zalesienia zgodnie z wymogami planu zalesienia wraz z zaświadczeniem nadleśniczego potwierdzającym ten fakt,
+2) zadrzewienie składa kierownikowi biura powiatowego Agencji, do którego został złożony wniosek o przyznanie wsparcia na zadrzewienie, oświadczenie o wykonaniu zadrzewienia – w terminie do dnia 9 czerwca roku następującego po roku, w którym złożono wniosek o przyznanie tego wsparcia.
+3. W przypadku gdy podmiot ubiegający się o przyznanie wsparcia na zalesienie lub zadrzewienie nie dochował terminu określonego w ust. 2, kierownik biura powiatowego Agencji wzywa ten podmiot, na piśmie, do złożenia w terminie 7 dni od dnia doręczenia wezwania odpowiednio oświadczenia o wykonaniu zalesienia zgodnie z wymogami planu zalesienia wraz z zaświadczeniem nadleśniczego potwierdzającym ten fakt lub oświadczenia o wykonaniu zadrzewienia.”;
+10) po § 12 dodaje się § 12a w brzmieniu: „§ 12a. W przypadku gdy podmiot ubiegający się o przyznanie wsparcia na zadrzewienie:
+1) nie wykonał zadrzewienia:
+a) zgodnie z § 3 ust. 5a oraz § 10 ust. 2 pkt 2a lub 3,
+b) przy użyciu co najmniej minimalnej liczby sadzonek drzew lub krzewów na hektar określonej w załączniku nr 2 do rozporządzenia lub ustalonej w sposób określony w tym załączniku, z tolerancją do 10%, lub
+2) nie posiada dokumentów, o których mowa w § 10 ust. 4a – kierownik biura powiatowego Agencji wzywa ten podmiot, na piśmie, odpowiednio do wykonania zadrzewienia zgodnie z § 3 ust. 5a oraz § 10 ust. 2 pkt 2 lit. b, pkt 2a lub 3 oraz złożenia oświadczenia o wykonaniu tych czynności lub do dostarczenia dokumentów, o których mowa w § 10 ust. 4a, w terminie 30 dni od dnia doręczenia wezwania.”;
+11) § 13 otrzymuje brzmienie: „§ 13. 1. Kierownik biura powiatowego Agencji, w drodze decyzji, odmawia przyznania wsparcia na zalesienie lub zadrzewienie, jeżeli podmiot ubiegający się o przyznanie tego wsparcia:
+1) mimo wezwania, o którym mowa w § 11 ust. 3, nie złożył w terminie określonym w tym przepisie odpowiednio oświadczenia i zaświadczenia, o których mowa w § 11 ust. 2 pkt 1, lub oświadczenia, o którym mowa w § 11 ust. 2 pkt 2, lub
+2) mimo wezwania, o którym mowa w § 12 lub § 12a, nie wykonał w terminie czynności wskazanych w tym wezwaniu, z tym że odmawia się przyznania wsparcia na zalesienie lub zadrzewienie jedynie:
+a) do części gruntu, w odniesieniu do której nie wykonał tych czynności, lub
+b) w części przeznaczonej na ogrodzenie zalesionego gruntu, na którym nie zostało ono wykonane zgodnie z wymogami planu zalesienia, lub w części przeznaczonej na ogrodzenie zadrzewionego gruntu;
+3) wykonał zadrzewienie na gruncie, na którym stwierdzono usunięcie drzew lub krzewów, które występowały na tym gruncie, w okresie 12 miesięcy poprzedzających wykonanie tego zadrzewienia.
+2. Jeżeli podmiot ubiegający się o przyznanie wsparcia na zalesienie lub zadrzewienie:
+1) złożył oświadczenie i zaświadczenie, o których mowa w § 11 ust. 2 pkt 1, w przypadku ubiegania się o wsparcie na zalesienie oraz oświadczenie, o którym mowa w § 11 ust. 2 pkt 2, w przypadku ubiegania się o wsparcie na zadrzewienie:
+a) w terminie do dnia 9 czerwca roku następującego po roku, w którym złożono wniosek o przyznanie tego wsparcia, albo
+b) po dniu 9 czerwca roku następującego po roku, w którym złożono wniosek o przyznanie tego wsparcia, lecz przed dokonaniem wezwania na podstawie § 11 ust. 3, albo
+c) w terminie określonym w § 11 ust. 3 oraz
+2) wykonał:
+a) zalesienie zgodnie z § 10 ust. 2 pkt 1, pkt 2 lit. a i c oraz pkt 3 lub
+b) zadrzewienie zgodnie z § 10 ust. 2 pkt 1, pkt 2 lit. d, pkt 2a i 3 wraz z ogrodzeniem gruntu albo zabezpieczeniem drzewek osłonkami albo 3 palikami,
+c) zalesienie lub zadrzewienie przy użyciu co najmniej minimalnej liczby sadzonek drzew lub krzewów na hektar określonej w załączniku nr 2 do rozporządzenia lub ustalonej w sposób określony w tym załączniku, z tolerancją do 10% – kierownik biura powiatowego Agencji, w drodze decyzji, przyznaje wsparcie na zalesienie lub zadrzewienie w terminie 60 dni od dnia złożenia tego oświadczenia.
+3. Wsparcie na zalesienie lub zadrzewienie wypłaca się w terminie 30 dni od dnia, w którym decyzja o przyznaniu tego wsparcia stała się ostateczna.”;
+12) w § 16 w ust. 1 po wyrazach „§ 11 ust. 2” dodaje się wyrazy „pkt 1”;
+13) w § 17 w ust. 1, 2, w ust. 7 we wprowadzeniu do wyliczenia i w części wspólnej, w ust. 9 i 10, w ust. 11 we wprowadzeniu do wyliczenia i w pkt 1 oraz w ust. 12, w § 18 w ust. 1, 2 i 6, w § 19 w ust. 1, 2, 6 i 7 oraz w § 23 w ust. 1, 2 i 5, w ust. 10 w części wspólnej oraz w ust. 12 i 13 po wyrazie „zalesienie,” dodaje się wyrazy „wsparcia na zadrzewienie,”;
+14) w § 23:
+a) w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli wsparcie na zalesienie, wsparcie na zadrzewienie, premia pielęgnacyjna lub premia zalesieniowa nie zostały przekazane na rachunek bankowy beneficjenta lub rachunek beneficjenta prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej, jego spadkobierca, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 1, składa wniosek o wypłatę odpowiednio wsparcia na zalesienie, wsparcia na zadrzewienie, premii pielęgnacyjnej lub premii zalesieniowej do kierownika biura powiatowego Agencji, do którego ten beneficjent złożył wniosek o przyznanie odpowiednio wsparcia na zalesienie, wsparcia na zadrzewienie, premii pielęgnacyjnej lub premii zalesieniowej, wraz z:”,
+b) ust. 8 otrzymuje brzmienie: „8. Jeżeli wsparcie na zalesienie, wsparcie na zadrzewienie, premia pielęgnacyjna lub premia zalesieniowa nie zostały przekazane beneficjentowi, o którym mowa w ust. 2, na jego rachunek bankowy lub jego rachunek prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej, jego następca prawny, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 2, składa wniosek o wypłatę odpowiednio wsparcia na zalesienie, wsparcia na zadrzewienie, premii pielęgnacyjnej lub premii zalesieniowej do kierownika biura powiatowego Agencji, do którego ten beneficjent złożył wniosek o przyznanie odpowiednio wsparcia na zalesienie, wsparcia na zadrzewienie, premii pielęgnacyjnej lub premii zalesieniowej, w terminie 3 miesięcy od dnia doręczenia temu beneficjentowi tej decyzji.”;
+15) w § 25:
+a) w ust. 1: – pkt 1 otrzymuje brzmienie: „1) w wyniku oceny udatności uprawy leśnej, o której mowa w § 16 ust. 3, zostało stwierdzone, że uprawa jest nieudatna – w przypadku wsparcia na zalesienie;”, – w pkt 2 lit. b otrzymuje brzmienie: „b) przeniósł własność zalesionych lub zadrzewionych gruntów na rzecz innego podmiotu w wyniku umowy sprzedaży lub innej umowy, a podmiot, który nabył własność tych gruntów, nie utrzymał zalesienia lub zadrzewienia wykonanych na tych gruntach do dnia, w którym upływa 5 lat od dnia wypłaty tego wsparcia.”,
+b) po ust. 6 dodaje się ust. 7 w brzmieniu: „7. Beneficjent zwraca wsparcie na zadrzewienie:
+1) jeżeli przed upływem 5 lat od dnia wypłaty tego wsparcia jest mniej niż 51% minimalnej liczby drzew lub krzewów określonej w załączniku nr 2 do rozporządzenia;
+2) w części przeznaczonej na:
+a) ogrodzenie gruntu, na którym zostało wykonane zadrzewienie, jeżeli nie utrzymał ogrodzenia tego gruntu do dnia, w którym upływa 5 lat od dnia wypłaty tego wsparcia, lub siatka użyta do grodzenia nie spełniała, w okresie objętym wsparciem, wymogów określonych w załączniku nr 4 do rozporządzenia,
+b) zabezpieczenie drzewek osłonkami albo 3 palikami, jeżeli nie utrzymał tych zabezpieczeń do dnia, w którym upływa 5 lat od dnia wypłaty tego wsparcia.”;
+16) w załączniku nr 1 do rozporządzenia:
+a) tytuł załącznika otrzymuje brzmienie: „GATUNKI I RODZAJE RODZIMYCH DRZEW I KRZEWÓW WYKORZYSTYWANYCH DO ZALESIENIA LUB ZADRZEWIENIA”,
+b) w ust. 3 po pkt 25 dodaje się pkt 25a w brzmieniu: „25a) Śliwa tarnina;”;
+17) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+18) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk LICZBA SADZONEK DRZEW LUB KRZEWÓW NA HEKTAR ZALESIENIE Lp. Drzewa Liczba sadzonek w tys. sztuk na ha 1 Sosna 8–10 2 Świerk 3–5 3 Jodła 4–8 4 Modrzew 1,5–3 5 Dąb 6–8 6 Buk 6–8 7 Inne liściaste 4–6 ZADRZEWIENIE Lp. Drzewa lub krzewy Liczba sadzonek w tys. sztuk na ha 1 Wszystkie gatunki i rodzaje 1,5–2,5 WYSOKOŚĆ STAWEK POMOCY Grupy gatunków Lp. Formy pomocy Jedn.
+iglaste liściaste 1 Wsparcie na zalesienie lub wsparcie na zadrzewienie A Zalesianie w warunkach korzystnych zł/ha 10 921 11 920 B Zalesianie na gruntach o nachyleniu terenu powyżej 12° 11 910 12 707 C Zalesianie na gruntach erozyjnych 11 910 9117 D Zalesianie na gruntach erozyjnych o nachyleniu terenu powyżej 12° 9518 10 164 E Zalesianie sadzonkami z zakrytym systemem korzeniowym 11 556 8307 i mikoryzowanymi w warunkach korzystnych F Zalesianie sadzonkami z zakrytym systemem korzeniowym 12 308 8943 i mikoryzowanymi na gruntach o nachyleniu terenu powyżej 12° G Zadrzewianie w warunkach korzystnych 10 892 H Zadrzewianie na gruntach o nachyleniu terenu powyżej 12° 13 664 I Zabezpieczenie drzewek 3 palikami 1132 J Zabezpieczenie drzewek osłonkami w przypadku wsparcia na 1488 zadrzewienie K Zabezpieczanie przed zwierzyną – ogrodzenie 2-metrową siatką zł/mb 8,82 metalową 2 Premia pielęgnacyjna A Na gruntach w warunkach korzystnych zł/ha 1075 B Na gruntach o nachyleniu terenu powyżej 12° 1237 C Na gruntach erozyjnych 1358 D Na gruntach erozyjnych o nachyleniu terenu powyżej 12° 1628 E Na gruntach z wykorzystaniem sukcesji naturalnej 794 F Na gruntach o nachyleniu terenu powyżej 12° z wykorzystaniem 968 sukcesji naturalnej G Zabezpieczenie drzewek repelentami 424 3 Premia zalesieniowa A Premia zalesieniowa zł/ha 1215
+

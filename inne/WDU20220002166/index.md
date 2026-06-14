@@ -8,10 +8,10 @@ pos: 2166
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 października 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2166 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 12 października 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2166/text.pdf) |
 
-Poz. 2166 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 12 października 2022 r.
-w sprawie krajowego rejestru maszynistów i prowadzących pojazdy kolejowe Na podstawie art. 25y ust. 6 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2021 r. poz. 1984 oraz z 2022 r. poz. 727 i 1846) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie krajowego rejestru maszynistów i prowadzących pojazdy kolejowe Na podstawie art. 25y ust. 6 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2021 r. poz. 1984 oraz z 2022 r. poz. 727 i 1846) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób prowadzenia krajowego rejestru maszynistów i prowadzących pojazdy kolejowe oraz jego aktualizacji, w tym wprowadzania, zmiany, udostępniania i usuwania danych;
 2) wymagania techniczne i jakościowe w zakresie danych wprowadzanych do krajowego rejestru maszynistów i prowadzących pojazdy kolejowe.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
@@ -41,7 +41,6 @@ w sprawie krajowego rejestru maszynistów i prowadzących pojazdy kolejowe Na po
 4) modyfikowanie – zmianę zawartości zgromadzonych danych, w tym ich uzupełnienie lub aktualizację;
 5) udostępnianie – przekazywanie zgromadzonych danych podmiotom, o których mowa w art. 25y ust. 1 i 2 ustawy;
 6) usuwanie − zniszczenie lub deformację danych w sposób uniemożliwiający ich odtworzenie.
-Dziennik Ustaw – 2 – Poz. 2166
 3. Czynności, o których mowa w ust. 2:
 1) pkt 1–3, wykonują podmioty obowiązane lub Prezes Urzędu Transportu Kolejowego, zwany dalej „Prezesem UTK”;
 2) pkt 4–6, wykonuje Prezes UTK po otrzymaniu wniosku podmiotu obowiązanego w postaci żądania w systemie teleinformatycznym, w którym rejestr jest prowadzony, wygenerowanego w ramach usług sieciowych, o których mowa w art. 25x ust. 4 ustawy.

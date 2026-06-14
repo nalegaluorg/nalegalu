@@ -8,7 +8,7 @@ pos: 985
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o referendum lokalnym
@@ -56,6 +56,9 @@ Art. 75–78. (pominięte)
 
 **Art. 4.** Referendum przeprowadza się, z zastrzeżeniem art. 5 ust. 1, z inicjatywy organu stanowiącego danej jednostki samorządu terytorialnego lub na wniosek co najmniej:
 
+- **1)** 10 % uprawnionych do głosowania mieszkańców gminy albo powiatu;
+- **2)** 5 % uprawnionych do głosowania mieszkańców województwa.
+
 **Art. 5.**
 
 1. W sprawach odwołania organu stanowiącego jednostki samorządu terytorialnego przed upływem kadencji rozstrzyga się wyłącznie w drodze referendum przeprowadzonego na wniosek mieszkańców, o którym mowa w art. 4.
@@ -70,13 +73,21 @@ Art. 75–78. (pominięte)
 
 **Art. 6.** Referendum jest, odpowiednio do wspólnoty samorządowej, której spraw dotyczy:
 
+- **1)** referendum gminnym w rozumieniu ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465, 1572, 1907 i 1940);
+- **2)** referendum powiatowym w rozumieniu ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107 i 1907);
+- **3)** referendum wojewódzkim w rozumieniu ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2024 r. poz. 566, 1907 i 1940).
+
 **Art. 7.** (uchylony)
 
 **Art. 8.** Ilekroć w ustawie jest mowa o:
 
+- **1)** jednostkach samorządu terytorialnego – rozumie się przez to także miasto stołeczne Warszawę;
+- **2)** (uchylony)
+- **3)** terytorialnych i obwodowych komisjach – rozumie się przez to, z zastrzeżeniem przepisów niniejszej ustawy, terytorialne i obwodowe komisje wyborcze w rozumieniu ustawy, o której mowa w art. 1 ust. 2.
+
 **Art. 8a.**
 
-1. Referendum nie zarządza się na dzień, na który zarządzone zostały wybory do Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, wybory Prezydenta Rzeczypospolitej Polskiej, wybory do Parlamentu Europejskiego w Rzeczypospolitej Polskiej, wybory do organów stanowiących jednostek samorządu terytorialnego lub wybory wójtów (burmistrzów, prezydentów miast).
+1. Referendum nie zarządza się na dzień, na który zarządzone zostały wybory do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, wybory Prezydenta Rzeczypospolitej Polskiej, wybory do Parlamentu Europejskiego w Rzeczypospolitej Polskiej, wybory do organów stanowiących jednostek samorządu terytorialnego lub wybory wójtów (burmistrzów, prezydentów miast).
 
 2. Przepis ust. 1 nie dotyczy zarządzenia referendum na dzień, na który zarządzone zostały wybory uzupełniające do Senatu, przedterminowe, uzupełniające lub ponowne wybory do organów stanowiących jednostek samorządu terytorialnego lub wybory do nowego organu stanowiącego jednostki samorządu terytorialnego, a także przedterminowe lub ponowne wybory wójta (burmistrza, prezydenta miasta).
 
@@ -213,6 +224,9 @@ Art. 75–78. (pominięte)
 4. Na podstawie wyroku, o którym mowa w ust. 3, komisarz wyborczy wydaje postanowienie o przeprowadzeniu referendum, zawierające informacje określone w art. 9 ust. 2.
 
 **Art. 21.** Referendum przeprowadza się w dzień wolny od pracy, najpóźniej w 50 dniu:
+
+- **1)** od dnia opublikowania uchwały organu stanowiącego jednostki samorządu terytorialnego w tej sprawie w wojewódzkim dzienniku urzędowym;
+- **2)** od dnia uprawomocnienia się wyroku, o którym mowa w art. 20 ust. 3.
 
 #### Rozdział 5 Referendum w sprawie odwołania organu jednostki samorządu terytorialnego
 

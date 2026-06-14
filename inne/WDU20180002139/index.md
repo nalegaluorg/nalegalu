@@ -8,10 +8,10 @@ pos: 2139
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada Po . 2139 MINISTRA SPRAWIEDLIWOŚCI dnia 23 października sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości sprawie wykazu przedmiotów, które razie orzeczenia przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2139 OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 23 października 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,29 +25,26 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2139/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z2017r. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości dnia 27 lutego 2017r. wsprawie wykazu przedmiotów, które razie orzeczenia przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U.
-428), uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości dnia 13 sierpnia zmieniającym rozporządzenie sprawie wykazu przedmiotów, które razie orzeczenia przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. 1646).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje $ 2 rozporządzenia Ministra Sprawiedliwości dnia 13 sierpnia zmieniającego rozporządzenie sprawie wykazu przedmiotów, które razie orzeczenia przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. 1646), który stanowi: „$ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia”..
-Minister Sprawiedliwości: Z. Ziobro Dziennik Ustaw —2— Poz. 2139 MINISTRA SPRAWIEDLIWOŚCI dnia 27 lutego 2017 sprawie wykazu przedmiotów, które razie orzeczenia przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego Na podstawie art. 194 ustawy dnia 6 czerwca 1997 — Kodeks karny wykonawczy (Dz. U. 652, 1010 i 1387) zarządza się, co następuje: $ 1. W celu wykonania orzeczenia o przepadku przedmiotów przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego następujące przedmioty:
-1)
-2)
-3)
-4)
-5)
-6)
-1)
-8) ) przerobione lub podrobione znaki urzędowe i narzędzia pomiarowe — właściwemu miejscowo i kompetencyjnie organowi administracji rządowej;
-sprzęt 1 ekwipunek wojskowy — właściwemu miejscowo wojewódzkiemu sztabowi wojskowemu;
-przerobione lub podrobione dokumenty przewozowe — właściwym przewoźnikom kolejowym;
-których posiadanie wymaga zezwolenia organów administracji rządowej, a które nie są sprzętem lub ekwipunkiem wojskowym — właściwej miejscowo komendzie wojewódzkiej (Stołecznej) Policji;
-broń i amunicję rozumieniu ustawy dnia 21 maja 1999r. o broni i amunicji (Dz. U. 2017r. 1839 oraz 106, 138, 651 i 730) — właściwej miejscowo komendzie wojewódzkiej (Stołecznej) Policji;
-środki odurzające, substancje psychotropowe lub preparaty oraz prekursory rozumieniu ustawy dnia 29 lipca 2005 o przeciwdziałaniu narkomanii (Dz. U. 1030, 1490 i 1669) — właściwej miejscowo komendzie wojewódzkiej (Stołecznej) Policji;
-przerobione, podrobione lub utracone stemple kontrolerskie Straży Granicznej oraz dokumenty uprawniające do przekroczenia granicy państwowej, tym dokumenty podróży państw obcych, a także przerobione, podrobione lub utracone dokumenty zezwalające na pobyt stały lub czasowy na terytorium państw członkowskich Unii Europejskiej — Komendzie Głównej Straży Granicznej;
-przerobione lub podrobione krajowe i zagraniczne znaki pieniężne — Centrali Narodowego Banku Polskiego;
-inne niż wymienione pkt 1-4, które mogą mieć znaczenie dla badań naukowych zakresu kryminalistyki — szkołom wyższym prowadzącym badania naukowe zakresu kryminalistyki albo Centralnemu Laboratorium Kryminalistycznemu Policji;
-10) inne niż wymienione pkt 1-4 oraz 9, które mogą mieć znaczenie podczas wykonywania ustawowych zadań związanych ze zwalczaniem przestępczości przez służby śledcze lub podczas szkolenia tych służb — Komendzie Głównej Policji lub odpowiednim jednostkom organizacyjnym innych organów, którym przysługują uprawnienia Policji zakresie prowadzenia postępowania przygotowawczego.
-$ 2. Przy przekazywaniu przedmiotów, o których mowa $ I, stosuje się odpowiednio przepisy regulujące przekazywanie naczelnikowi urzędu skarbowego przedmiotów objętych prawomocnym orzeczeniem o przepadku.
-$ 3. Traci moc rozporządzenie Ministra Sprawiedliwości dnia 8 września 2003 sprawie wykazu przedmiotów, które razie orzeczenia przepadku przekazuje się bezpośrednio innym organom niż właściwy urząd skarbowy (Dz. U.
-1635 oraz 2016 1214).
-$ 4. Rozporządzenie wchodzi życie dniem 1 marca 2017r.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 27 lutego 2017 r. w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U.
+poz. 428), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 13 sierpnia 2018 r.
+zmieniającym rozporządzenie w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. poz. 1646).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 13 sierpnia 2018 r. zmieniającego rozporządzenie w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. poz. 1646), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 27 lutego 2017 r.
+w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego Na podstawie art. 194 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2018 r. poz. 652, 1010 i 1387) zarządza się, co następuje:
+§ 1. W celu wykonania orzeczenia o przepadku przedmiotów przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego następujące przedmioty:
+1) przerobione lub podrobione znaki urzędowe i narzędzia pomiarowe – właściwemu miejscowo i kompetencyjnie organowi administracji rządowej;
+2) sprzęt i ekwipunek wojskowy – właściwemu miejscowo wojewódzkiemu sztabowi wojskowemu;
+3) przerobione lub podrobione dokumenty przewozowe – właściwym przewoźnikom kolejowym;
+4) których posiadanie wymaga zezwolenia organów administracji rządowej, a które nie są sprzętem lub ekwipunkiem wojskowym – właściwej miejscowo komendzie wojewódzkiej (Stołecznej) Policji;
+5) broń i amunicję w rozumieniu ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2017 r. poz. 1839 oraz z 2018 r. poz. 106, 138, 651 i 730) – właściwej miejscowo komendzie wojewódzkiej (Stołecznej) Policji;
+6) środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory w rozumieniu ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2018 r. poz. 1030, 1490 i 1669) – właściwej miejscowo komendzie wojewódzkiej (Stołecznej) Policji;
+7) przerobione, podrobione lub utracone stemple kontrolerskie Straży Granicznej oraz dokumenty uprawniające do przekroczenia granicy państwowej, w tym dokumenty podróży państw obcych, a także przerobione, podrobione lub utracone dokumenty zezwalające na pobyt stały lub czasowy na terytorium państw członkowskich Unii Europejskiej – Komendzie Głównej Straży Granicznej;
+8) przerobione lub podrobione krajowe i zagraniczne znaki pieniężne – Centrali Narodowego Banku Polskiego;
+9) inne niż wymienione w pkt 1–4, które mogą mieć znaczenie dla badań naukowych z zakresu kryminalistyki – szkołom wyższym prowadzącym badania naukowe z zakresu kryminalistyki albo Centralnemu Laboratorium Kryminalistycznemu Policji;
+10) inne niż wymienione w pkt 1–4 oraz 9, które mogą mieć znaczenie podczas wykonywania ustawowych zadań związanych ze zwalczaniem przestępczości przez służby śledcze lub podczas szkolenia tych służb – Komendzie Głównej Policji lub odpowiednim jednostkom organizacyjnym innych organów, którym przysługują uprawnienia Policji w zakresie prowadzenia postępowania przygotowawczego.
+§ 2. Przy przekazywaniu przedmiotów, o których mowa w § 1, stosuje się odpowiednio przepisy regulujące przekazywanie naczelnikowi urzędu skarbowego przedmiotów objętych prawomocnym orzeczeniem o ich przepadku.
+§ 3. Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 8 września 2003 r. w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy urząd skarbowy (Dz. U.
+poz. 1635 oraz z 2016 r. poz. 1214).
+§ 4. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
 

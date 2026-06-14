@@ -8,7 +8,7 @@ pos: 531
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
@@ -28,6 +28,47 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100810531) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/531/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 pkt 1 i 2 otrzymują brzmienie: „1) szefów i członków personelu misji dyplomatycznych, kierowników urzędów konsularnych i członków personelu konsularnego państw obcych oraz innych osób zrównanych z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, pod warunkiem wzajemności i posiadania przez te osoby dokumentów potwierdzających pełnienie przez nie funkcji, z wyjątkiem art. 13 ust. 1, art. 21a, art. 25, art. 26, art. 28, art. 29, art. 33, art. 34, art. 35 ust. 3 i 4, art. 38 ust. 1, art. 39, art. 40, art. 46 – 48, art. 48a, art. 48b ust. 1 pkt 4 i art. 48c – 48h;
+- **2)** obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, oraz członków ich rodzin, którzy do nich dołączają lub z nimi przebywają, z wyjątkiem: 38 – 40, art. 46 – 48, art. 48d, art. 48e, art. 48g, art. 48h, art. 84a, rozdziału 8a, art. 124 ust. 1 pkt 1 lit. a, art. 125 ust. 1 pkt 1, art. 126 ust. 1 pkt 1 lit. a i art. 134a, które mają zastosowanie do członków rodzin obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, którzy do nich dołączają lub z nimi przebywają, niebędących obywatelami tych państw;”;
+    - **a)** art. 12a, art. 16 – 20, art. 93, art. 94, art. 96 – 96c, art. 100, rozdziałów 9 i 10, art. 124 ust. 1 pkt 1 lit. g oraz pkt 2 i 4, art. 125 ust. 1 pkt 2 w zakresie dotyczącym art. 124 ust. 1 pkt 1 lit. g, art. 126 ust. 1 pkt 4 i 7 oraz ust. 2, art. 127, art. 128 ust. 2 i art. 131 – 134, które mają zastosowanie do obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, oraz członków ich rodzin, którzy do nich dołączają lub z nimi przebywają,
+    - **b)** art. 4 pkt 5 – 5d, art. 16 – 20, art. 25, art. 26 ust. 1 pkt 18, art. 31, art. 32 ust. 1 i ust. 2 pkt 1, pkt 2 i pkt 3 lit. a i d oraz ust. 7, art. 33, art. 34, art.
+
+- **2)** w art. 4:
+    - **a)** pkt 5a otrzymuje brzmienie: „5a) wiza Schengen – wiza, o której mowa w art. 2 pkt 2 – 5 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1), zwanego dalej „Wspólnotowym Kodeksem Wizowym;”,
+    - **b)** pkt 5c otrzymuje brzmienie: „5c) centralny organ wizowy – organ odpowiedzialny za opiniowanie wniosków o wydanie wizy Schengen, o którym mowa w art. 22 Wspólnotowego Kodeksu Wizowego, oraz właściwy do otrzymywania informacji, o których mowa w art. 31 Wspólnotowego Kodeksu Wizowego;”;
+
+- **3)** w art. 15:
+    - **a)** w ust. 1 w pkt 2 lit. a i b otrzymują brzmienie: „a) dokument potwierdzający posiadanie ubezpieczenia zdrowotnego w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub posiadanie podróżnego ubezpieczenia medycznego o minimalnej kwocie ubezpieczenia w wysokości 30 000 euro, ważnego przez okres planowanego pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej, pokrywającego wszelkie wydatki, które mogą wyniknąć podczas pobytu na tym terytorium w związku z koniecznością powrotu z powodów medycznych, potrzebą pilnej pomocy medycznej, nagłym leczeniem szpitalnym lub ze śmiercią, w którym ubezpieczyciel zobowiązuje się do pokrycia kosztów udzielonych ubezpieczonemu świadczeń zdrowotnych bezpośrednio na rzecz podmiotu udzielającego takich świadczeń, na podstawie wystawionego przez ten podmiot rachunku – w przypadku wjazdu na podstawie wizy krajowej,
+    - **b)** wystarczające środki utrzymania na czas trwania planowanego pobytu oraz na powrót do państwa pochodzenia lub zamieszkania lub na tranzyt do państwa trzeciego, które udzieli pozwolenia na wjazd, albo dokument potwierdzający możliwość uzyskania takich środków zgodnie z prawem,”,
+    - **b)** w ust. 2 w pkt 1 lit. c otrzymuje brzmienie: „c) wizy Schengen lub wizy krajowej, w celu wykonywania pracy, o której mowa w art. 26 ust. 1 pkt 5 – 7,”,
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wymóg dotyczący posiadania ubezpieczenia medycznego, o którym mowa w ust. 1 pkt 2 lit. a, można uznać za spełniony, w przypadku gdy cudzoziemiec posiada odpowiednie ubezpieczenie w związku ze swoją sytuacją zawodową.”;
+
+- **4)** w art. 16:
+    - **a)** w ust. 1 zdanie wstępne otrzymuje brzmienie: „Cudzoziemiec może przedstawić jako dokument potwierdzający posiadanie wystarczających środków utrzymania na czas trwania planowanego pobytu oraz na powrót do państwa pochodzenia lub zamieszkania lub na tranzyt do państwa trzeciego, które udzieli pozwolenia na wjazd, zaproszenie, które mogą wystawić:”,
+    - **b)** w ust. 2: – pkt 1 otrzymuje brzmienie: „1) dane zapraszającego:
+    - **a)** imię (imiona), nazwisko, datę i miejsce urodzenia, obywatelstwo, adres zamieszkania, numer telefonu, rodzaj, serię i numer dokumentu tożsamości lub
+    - **b)** firmę albo nazwę, numer REGON, adres siedziby i numer telefonu osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej;”, – pkt 4 otrzymuje brzmienie: „4) zobowiązanie się zapraszającego do pokrycia kosztów związanych z pobytem cudzoziemca, w tym kosztu zakwaterowania i ewentualnego leczenia, kosztu powrotu do państwa pochodzenia lub zamieszkania lub kosztu tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, oraz kosztów wydalenia z terytorium Rzeczypospolitej Polskiej;”, – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) adres miejsca zakwaterowania zapraszanego cudzoziemca;”, – po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) określenie celu pobytu zapraszanego cudzoziemca;”;
+
+- **5)** w art. 17:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Zapraszający ubiegający się o wpisanie zaproszenia do ewidencji zaproszeń składa:
+
+- **1)** wypełniony formularz wniosku o wpisanie zaproszenia do ewidencji zaproszeń;
+- **2)** dokument potwierdzający możliwość pokrycia kosztów związanych z pobytem cudzoziemca, w tym kosztu zakwaterowania i ewentualnego leczenia, pokrycia kosztu powrotu do państwa pochodzenia lub zamieszkania lub kosztu tranzytu do państwa trzeciego, które udzieli pozwolenia na wjazd, oraz kosztów wydalenia z terytorium Rzeczypospolitej Polskiej;
+- **3)** dokument potwierdzający tytuł prawny do lokalu mieszkalnego, jeżeli jako miejsce zakwaterowania zapraszanego cudzoziemca został wskazany lokal mieszkalny zapraszającego lub dokument potwierdzający możliwość zapewnienia cudzoziemcowi zakwaterowania w innym miejscu.”,
+    - **b)** w ust. 3: – pkt 1 otrzymuje brzmienie: „1) dane zapraszanego cudzoziemca znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, a także gdy wjazd lub pobyt tego cudzoziemca na terytorium Rzeczypospolitej Polskiej może spowodować zagrożenie dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego albo naruszyć interes Rzeczypospolitej Polskiej;”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) w postępowaniu o wpisanie zaproszenia do ewidencji zaproszeń zapraszający:
+    - **a)** złożył wniosek lub dołączył do niego dokumenty zawierające nieprawdziwe dane osobowe lub fałszywe informacje,
+    - **b)** zeznał nieprawdę lub zataił prawdę albo, w celu użycia za autentyczny, podrobił lub przerobił dokument lub takiego dokumentu jako autentycznego używał.”;
+
+- **6)** w art. 20 ust. 2 otrzymuje brzmienie: „2. Wzór formularza wniosku, o którym mowa w ust. 1 pkt 2, powinien uwzględniać także nazwiska poprzednie zapraszanego cudzoziemca, dane dotyczące sytuacji finansowej zapraszającego i warunków zakwaterowania cudzoziemca.”;
+- **7)** w art. 21:
+    - **a)** w ust. 1: - pkt 3 otrzymuje brzmienie: „3) nie posiada dokumentu potwierdzającego posiadanie ubezpieczenia zdrowotnego w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub posiadanie podróżnego ubezpieczenia medycznego o minimalnej kwocie ubezpieczenia w wysokości 30 000 euro, ważnego przez okres planowanego pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej, pokrywającego wszelkie wydatki, które mogą wyniknąć podczas pobytu na tym terytorium w związku z koniecznością powrotu z powodów medycznych, potrzebą pilnej pomocy medycznej, nagłym leczeniem szpitalnym lub ze śmiercią, w którym ubezpieczyciel zobowiązuje się do pokrycia kosztów udzielonych ubezpieczonemu świadczeń zdrowotnych bezpośrednio na rzecz podmiotu udzielającego takich świadczeń, na podstawie wystawionego przez ten podmiot rachunku;”, - pkt 9 otrzymuje brzmienie: „9) dane cudzoziemca znajdują się w Systemie Informacyjnym Schengen, o którym mowa w art. 92 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach (Dz. Urz. UE L 239 z 22.09.2000, str. 19, z późn. zm.), zwanej dalej „Konwencją Wykonawczą Schengen”, do celów odmowy wjazdu;”,
+    - **b)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) posiada wizę Schengen upoważniającą tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 26 ust. 1 pkt 26.”,
+    - **c)** ust. 5 i 6 otrzymują brzmienie: „5. Okoliczności, o których mowa w ust. 1 pkt 4 lub 9, nie mogą stanowić wyłącznej podstawy odmowy wjazdu cudzoziemcowi, który posiada wizę krajową lub wizę Schengen upoważniającą tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej.
+
+6. Okoliczności, o których mowa w ust. 1 pkt 3 lub 4, nie mogą stanowić wyłącznej podstawy odmowy wjazdu cudzoziemcowi podróżującemu do innego państwa obszaru Schengen, które wydało mu wizę krajową.”;
+
+- **8)** art. 25 – 48 otrzymują brzmienie: „Art. 25. Wizę wydaje się jako wizę Schengen lub wizę krajową.
 
 **Art. 26.**
 
@@ -78,6 +119,17 @@ source: "isap-pdf"
 **Art. 29.** Wizę Schengen lub wizę krajową wydaje się jako wizę służbową członkowi personelu administracyjnego i technicznego, członkowi personelu służby misji dyplomatycznej, pracownikowi konsularnemu, członkowi personelu służby urzędu konsularnego, innej osobie skierowanej do pracy w Rzeczypospolitej Polskiej oraz przyjeżdżającej służbowo zrównanej z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także członkom ich rodzin, na okres pełnienia funkcji, z którą jest związane uprawnienie do uzyskania tego rodzaju wizy.
 
 **Art. 30.** Cudzoziemcowi odmawia się wydania wizy krajowej, jeżeli:
+
+- **1)** jego dane znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany;
+- **2)** nie posiada wystarczających środków utrzymania na czas trwania planowanego pobytu na terytorium Rzeczypospolitej Polskiej oraz na powrót do państwa pochodzenia lub zamieszkania lub na tranzyt do państwa trzeciego, które udzieli pozwolenia na wjazd, lub możliwości uzyskania takich środków zgodnie z prawem;
+- **3)** nie posiada ubezpieczenia zdrowotnego w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub podróżnego ubezpieczenia medycznego o minimalnej kwocie ubezpieczenia w wysokości 30 000 euro, ważnego przez okres planowanego pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej, pokrywającego wszelkie wydatki, które mogą wyniknąć podczas pobytu na tym terytorium w związku z koniecznością powrotu z powodów medycznych, potrzebą pilnej pomocy medycznej, nagłym leczeniem szpitalnym lub ze śmiercią, w którym ubezpieczyciel zobowiązuje się do pokrycia kosztów udzielonych ubezpieczonemu świadczeń zdrowotnych bezpośrednio na rzecz podmiotu udzielającego takich świadczeń, na podstawie wystawionego przez ten podmiot rachunku;
+- **4)** wjazd lub pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej może spowodować zagrożenie dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego albo naruszyć interes Rzeczypospolitej Polskiej;
+- **5)** dokument podróży cudzoziemca nie spełnia kryteriów określonych w art. 32 ust. 5, z wyłączeniem przypadku, gdy kryterium, o którym mowa w art. 32 ust. 5 pkt 1, zostało pominięte ze względu na słuszny interes cudzoziemca;
+- **6)** w postępowaniu o wydanie wizy krajowej:
+    - **a)** złożył wniosek lub dołączył do niego dokumenty zawierające nieprawdziwe dane osobowe lub fałszywe informacje,
+    - **b)** zeznał nieprawdę lub zataił prawdę albo, w celu użycia za autentyczny, podrobił lub przerobił dokument lub takiego dokumentu jako autentycznego używał;
+
+- **7)** nie uzasadnił celu lub warunków planowanego pobytu.
 
 **Art. 31.**
 
@@ -345,7 +397,17 @@ source: "isap-pdf"
 
 **Art. 48e.** W przypadkach, o których mowa w art. 34 ust. 1-3 Wspólnotowego Kodeksu Wizowego, organem właściwym do gromadzenia informacji o wizach Schengen wydanych przez polskie organy, unieważnionych lub cofniętych przez organy innych państw obszaru Schengen, są:
 
+- **1)** Komendant Główny Straży Granicznej;
+- **2)** Komendant Główny Policji;
+- **3)** Szef Agencji Bezpieczeństwa Wewnętrznego;
+- **4)** Szef Agencji Wywiadu;
+- **5)** minister właściwy do spraw zagranicznych w zakresie wiz dyplomatycznych i służbowych.
+
 **Art. 48f.** Minister właściwy do spraw zagranicznych w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** dokumenty potwierdzające pełnienie funkcji szefów i członków personelu misji dyplomatycznych, kierowników urzędów konsularnych i członków personelu konsularnego państw obcych oraz innych osób zrównanych z nimi pod względem przywilejów i immunitetów na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także status członków ich rodzin,
+- **2)** wzory dokumentów, o których mowa w pkt 1,
+- **3)** oznaczenie wiz Schengen lub wiz krajowych wydawanych osobom, o których mowa w pkt 1 – uwzględniając obowiązujące w tym zakresie umowy lub powszechnie ustalone zwyczaje międzynarodowe.
 
 **Art. 48g.**
 
@@ -375,21 +437,88 @@ source: "isap-pdf"
 
 **Art. 48h.** W zakresie nieuregulowanym przepisami niniejszego rozdziału stosuje się przepisy Wspólnotowego Kodeksu Wizowego.”;
 
+- **10)** w art. 53 w ust. 6 pkt 1 otrzymuje brzmienie: „1) przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 53a ust. 2, lub na podstawie wizy Schengen upoważniającej tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 26 ust. 1 pkt 26, chyba że cudzoziemiec ubiega się o udzielenie zezwolenia na zamieszkanie na czas oznaczony na podstawie ust. 1 pkt 15;”;
+- **11)** w art. 57 uchyla się ust. 2;
+- **12)** w art. 61:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Cudzoziemiec przebywający na terytorium Rzeczypospolitej Polskiej, z wyłączeniem cudzoziemca przebywającego na podstawie wizy Schengen upoważniającej tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 26 ust. 1 pkt 26, lub cudzoziemca ubiegającego się o udzielenie zezwolenia na zamieszkanie na czas oznaczony na podstawie art. 53a ust. 2, jest obowiązany złożyć wniosek o udzielenie zezwolenia na zamieszkanie na czas oznaczony co najmniej 45 dni przed upływem okresu pobytu oznaczonego w posiadanej wizie lub przed upływem terminu ważności poprzedniego zezwolenia na zamieszkanie na czas oznaczony.”,
+    - **b)** w ust. 1a pkt 1 otrzymuje brzmienie: „1) przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie wizy Schengen upoważniającej tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 26 ust. 1 pkt 26, lub zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 53a ust. 2, z wyłączeniem przypadku ubiegania się o udzielenie zezwolenia na zamieszkanie na czas oznaczony na podstawie art. 53 ust. 1 pkt 15,”;
+
+- **13)** w art. 65: 2;”, 26 ust. 1 pkt 26, wizy wydanej w celu podjęcia lub kontynuowania nauki lub zezwolenia na zamieszkanie na czas oznaczony, udzielonego na podstawie art. 53 ust. 1 pkt 5 lub 7 lub art. 53a ust. 1 pkt 1 lit. a lub ust. 2;”;
+    - **a)** w ust. 2 pkt 5 otrzymuje brzmienie: „5) przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie wizy Schengen upoważniającej tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 26 ust. 1 pkt 26, lub zezwolenia na zamieszkanie na czas oznaczony, udzielonego na podstawie art. 53 ust. 1 pkt 5 lub 7 lub art. 53a ust. 1 pkt 1 lit. a lub ust.
+    - **b)** w ust. 4 pkt 3 otrzymuje brzmienie: „3) na podstawie wizy Schengen upoważniającej tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art.
+
+- **14)** w art. 71a w ust. 2 w pkt 1 lit. b otrzymuje brzmienie: „b) na podstawie wizy Schengen upoważniającej tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 26 ust. 1 pkt 26,”;
+- **15)** w art. 85:
+    - **a)** ust. 1a otrzymuje brzmienie: „1a. Szef Urzędu do Spraw Cudzoziemców i wojewoda mogą sprawować kontrolę legalności pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej w zakresie niezbędnym do prowadzenia przez te organy postępowań w sprawach cudzoziemców.”,
+    - **b)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Organy Służby Celnej mogą sprawować kontrolę legalności pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej.”;
+
+- **16)** po art. 86 dodaje się art. 86a w brzmieniu: „Art. 86a. 1. Funkcjonariusz Straży Granicznej, Policji lub funkcjonariusz celny oraz pracownik Urzędu do Spraw Cudzoziemców lub urzędu wojewódzkiego pobiera od cudzoziemca odciski linii papilarnych w celu ustalenia tożsamości, jeżeli w toku kontroli legalności pobytu cudzoziemiec nie okaże dokumentu, na podstawie którego można ustalić jego tożsamość, lub w przypadku gdy zachodzi uzasadnione podejrzenie co do autentyczności dokumentu okazanego przez cudzoziemca.
+
+2. Funkcjonariusz Straży Granicznej, Policji lub funkcjonariusz celny oraz pracownik Urzędu do Spraw Cudzoziemców lub urzędu wojewódzkiego w toku kontroli legalności pobytu może pobrać od cudzoziemca odciski linii papilarnych w celu weryfikacji tożsamości posiadacza wizy Schengen lub w celu stwierdzenia jej autentyczności, w razie wątpliwości co do tożsamości cudzoziemca lub autentyczności wizy Schengen.
+
+3. Ustalenie tożsamości cudzoziemca, weryfikacja tożsamości posiadacza wizy Schengen lub stwierdzenie autentyczności tej wizy odbywa się przez sprawdzenie odcisków linii papilarnych pobranych od cudzoziemca w Wizowym Systemie Informacyjnym.”;
+
+- **17)** w art. 88 w ust. 1 pkt 4a otrzymuje brzmienie: „4a) jego dane znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu, jeżeli cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej w ruchu bezwizowym lub na podstawie wizy Schengen, z wyłączeniem wizy upoważniającej tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej;”;
+- **18)** w art. 89 w ust. 1 pkt 3 otrzymuje brzmienie: „3) cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy Schengen upoważniającej tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 26 ust. 1 pkt 26, lub zezwolenia na zamieszkanie na czas oznaczony udzielonego na podstawie art. 53a ust. 2.”;
+- **19)** w art. 90 ust. 3 i 4 otrzymują brzmienie: „3. Decyzja o wydaleniu powoduje z mocy prawa unieważnienie wizy krajowej, cofnięcie zezwolenia na zamieszkanie na czas oznaczony oraz zezwolenia na pracę.
+
+4. Decyzja o wydaleniu wydana na podstawie art. 88 ust. 1 pkt 11 lub 12 powoduje z mocy prawa unieważnienie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego.”;
+
+- **20)** w art. 97:
+    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) przebywającemu na terytorium Rzeczypospolitej Polskiej na podstawie wizy Schengen upoważniającej tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 26 ust. 1 pkt 26, lub zezwolenia na zamieszkanie na czas oznaczony udzielonego na podstawie art. 53a ust. 2;”,
+    - **b)** ust. 4 i 5 otrzymują brzmienie: „4. Decyzja o zobowiązaniu cudzoziemca do opuszczenia terytorium Rzeczypospolitej Polskiej powoduje z mocy prawa unieważnienie wizy krajowej, cofnięcie zezwolenia na zamieszkanie na czas oznaczony oraz zezwolenia na pracę.
+
+5. Decyzja o zobowiązaniu cudzoziemca do opuszczenia terytorium Rzeczypospolitej Polskiej wydana na podstawie art. 88 ust. 1 pkt 11 lub 12 powoduje z mocy prawa unieważnienie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego.”;
+
+- **21)** w art. 100n w ust. 1 pkt 4 otrzymuje brzmienie: „4) cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy Schengen upoważniającej tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 26 ust. 1 pkt 26, lub zezwolenia na zamieszkanie na czas oznaczony udzielonego na podstawie art. 53 ust. 1 pkt 15 lub art. 53a ust. 2;”;
+- **22)** w art. 125 w ust. 1 pkt 1 otrzymuje brzmienie: „1) w pkt 1 w lit. a, prowadzą komendant placówki Straży Granicznej, komendant oddziału Straży Granicznej, Komendant Główny Straży Granicznej, wojewoda, konsul, minister właściwy do spraw zagranicznych i Szef Urzędu do Spraw Cudzoziemców, każdy w zakresie swojej właściwości;”;
+- **23)** w art. 126 w ust. 1 w pkt 1 lit. a otrzymuje brzmienie: „a) w lit. a, dotyczące cudzoziemców objętych postępowaniami w sprawie wydania i przedłużenia wizy Schengen lub wizy krajowej oraz unieważnienia lub cofnięcia wizy Schengen lub wizy krajowej,”;
+- **24)** w art. 132 w ust. 2:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) rejestrów, o których mowa w art. 124 pkt 1 lit. a – h, j, l, m, z wyjątkiem rejestrów prowadzonych przez konsula i ministra właściwego do spraw zagranicznych;”,
+    - **b)** w pkt 13 lit. a otrzymuje brzmienie: „a) o wydanie wizy krajowej w celu repatriacji,”.
+
 **Art. 2.** W ustawie z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U. z 2002 r. Nr 215, poz. 1823, z późn. zm. ) w art. 23 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) rozpatruje wnioski o ponowne rozpatrzenie sprawy od decyzji o odmowie wydania wizy Schengen lub wizy krajowej.”.
 
 **Art. 3.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2008 r. Nr 136, poz. 857, z późn. zm. ) w art. 16 ust. 1i otrzymuje brzmienie: „1i. Lekarz cudzoziemiec zamierzający wykonywać lub wykonujący zawód na terytorium Rzeczypospolitej Polskiej wyłącznie w celu odbycia szkolenia podyplomowego lub uzyskania stopnia naukowego, posiadający wizę lub zezwolenie na zamieszkanie na czas oznaczony, po uzyskaniu zgody ministra właściwego do spraw zdrowia może odbywać specjalizację na zasadach określonych w przepisach o odbywaniu studiów i uczestniczeniu w badaniach naukowych i szkoleniach przez osoby niebędące obywatelami polskimi oraz o zasadach odpłatności za te studia i szkolenia.”.
 
 **Art. 4.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 189, poz. 1472) wprowadza się następujące zmiany:
 
+- **1)** w art. 33:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) unieważnienie wizy krajowej,”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Organ przyjmujący wniosek odnotowuje unieważnienie wizy krajowej oraz wygaśnięcie decyzji o zobowiązaniu do opuszczenia terytorium Rzeczypospolitej Polskiej w dokumentach podróży wnioskodawcy i osoby, w imieniu której wnioskodawca występuje.”;
+
+- **2)** w art. 92 w ust. 1 pkt 2 otrzymuje brzmienie: „2) za granicą, jest obowiązany dołączyć do wniosku fotografię i po przybyciu na terytorium Rzeczypospolitej Polskiej na podstawie wizy krajowej w celu udziału w postępowaniu w sprawie o udzielenie azylu lub w związku z udzieleniem mu azylu – poddać się pobraniu odcisków linii papilarnych.”.
+
 **Art. 5.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm. ) w art. 87 w ust. 1 w pkt 12 wprowadza się następujące zmiany:
+
+- **1)** lit. a i b otrzymują brzmienie: „a) na podstawie wizy, z wyjątkiem wizy wydanej w celu, o którym mowa w art. 26 ust. 1 pkt 1, 20, 21, 25 i 26 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, lub
+    - **b)** na podstawie wizy wydanej w celu, o którym mowa w art. 26 ust. 1 pkt 21 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, jeżeli bezpośrednio przed wydaniem tej wizy był uprawniony do wykonywania pracy na terytorium Rzeczypospolitej Polskiej, lub”;
+
+- **2)** lit. d otrzymuje brzmienie: „d) na podstawie wizy Schengen wydanej przez inne państwo obszaru Schengen, lub”.
 
 **Art. 6.** W ustawie z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043, z 2007 r. Nr 120, poz. 818 oraz z 2008 r. Nr 216, poz. 1367) w art. 10 ust. 1 otrzymuje brzmienie: „1. Członkowi rodziny niebędącemu obywatelem UE wydaje się wizę Schengen lub wizę krajową w celu dołączenia do obywatela państwa członkowskiego lub przebywania z nim.”.
 
-**Art. 7.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm. ) w załączniku w części III ust. 6 i 7 otrzymują brzmienie: „6. Wiza wydawana przez komendanta placówki Straży Granicznej:
+**Art. 7.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm. ) w załączniku w części III ust. 6 i 7 otrzymują brzmienie: „6. Wiza wydawana przez ko- 1) wiza dla członka mendanta placówki Straży dziny obywatela Granicznej: stwa członkowskiego
+
+- **1)** dla dziecka w wieku od równowartość 35 euro Unii Europejskiej, 6 do 12 lat państwa członkowskiego Europejskiego
+- **2)** w pozostałych przypad- równowartość 60 euro Porozumienia o kach przeliczenia równo- nym Handlu (EFTA) wartości euro na zło- – strony umowy te dokonuje się we- ropejskim Obszarze dług referencyjnego Gospodarczym kursu euro ogłoszo- Konfederacji Szwajnego przez Europej- carskiej, który do ski Bank Centralny go dołącza lub w ostatnim dniu ro- przebywa boczym poprzedza- 2) wiza dla cudzoziemca jącym dzień złożenia korzystającego wniosku o wydanie ochrony czasowej wizy
+- **3)** wiza dla cudzoziemca w wieku poniżej
+- **4)** wiza dla uczniów szkół, studentów, dentów podyplomowych oraz rzyszących im uczycieli, którzy dróżują w celu studiowania lub lenia
+- **5)** wiza dla naukowców przybywających lu prowadzenia naukowych
+- **6)** wiza dla przedstawicieli organizacji komercyjnych w ku do 25 lat uczestniczących w nariach, konferencjach, imprezach sportowych, kulturalnych i eduka-cyjnych organizowanych przez organizacje nieko-mercyjne
+
+7. Przedłużenie wizy:
+
+- **1)** Schengen równowartość 30 euro przedłużenie wizy Schen2) krajowej gen w przypadkach, 406 zł rych mowa w art. 33 rozporządzenia Parlamenprzeliczenia równo- tu Europejskiego i wartości euro na złote (WE) nr 810/2009 z dokonuje się według 13 lipca 2009 r. ustanareferencyjnego kursu wiającego Wspólnotowy euro ogłoszonego Kodeks Wizowy (kodeks przez Europejski Bank wizowy) (Dz. Urz. Centralny w ostatnim 243 z 15.09.2009, str. dniu roboczym poprzedzającym dzień złożenia wniosku o przedłużenie wizy
 
 **Art. 8.** W ustawie z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej (Dz. U. Nr 165, poz. 1170, z 2008 r. Nr 195, poz. 1198 i Nr 216, poz. 1367 oraz z 2010 r. Nr 41, poz. 233) w art. 6 pkt 1 i 2 otrzymują brzmienie: „1) rozpatrzenia złożonych wniosków wizowych oraz podjęcia decyzji dotyczących tych wniosków, jak również decyzji o unieważnieniu, przedłużeniu, cofnięciu wizy, przysługuje Straży Granicznej, konsulowi, wojewodzie, ministrowi właściwemu do spraw zagranicznych, Szefowi Urzędu do Spraw Cudzoziemców lub Policji;
 
+- **2)** przeprowadzania konsultacji między centralnymi organami wizowymi w sprawie wniosków wizowych zgodnie z art. 22 rozporządzenia Parlamentu Europejskiego i Rady (WE) Nr 810/2009 z dnia 13 lipca 2009 r. ustanawiającego Wspólnotowy Kodeks Wizowy (kodeks wizowy) (Dz. Urz. UE L 243 z 15.09.2009, str. 1) przysługuje Szefowi Urzędu do Spraw Cudzoziemców;”.
+
 **Art. 9.** W ustawie z dnia 12 lutego 2010 r. o zmianie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej i ustawy o ochronie danych osobowych (Dz. U. Nr 41, poz. 233) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 9 w lit. c uchyla się tiret drugie;
+- **2)** w art. 3 uchyla się pkt 5.
 
 **Art. 10.** Zaproszenia wpisane do ewidencji zaproszeń przed dniem wejścia w życie ustawy zachowują ważność przez okres roku od chwili wpisania do ewidencji.
 

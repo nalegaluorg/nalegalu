@@ -1,0 +1,480 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 marca 2013 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania \"Tworzenie i rozwój mikroprzedsiębiorstw\" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013"
+address: WDU20130000339
+eli: DU/2013/339
+publisher: DU
+year: 2013
+pos: 339
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 339 RozpoRządzenie MinistRa Rolnictwa i Rozwoju wsi z dnia 7 marca 2013 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2013 poz. 339 |
+| ISAP | WDU20130000339 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2013-03-07 |
+| Data wydania | 2013-03-12 |
+| Ostatnia zmiana | 2025-06-18 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000339) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/339/text.pdf) |
+
+zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „tworzenie i rozwój mikroprzedsiębiorstw” objętego programem Rozwoju obszarów wiejskich na lata 2007–2013 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 lipca 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Tworzenie i rozwój mikroprzedsiębiorstw” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 139, poz. 883, z późn. zm. ) wprowadza się następujące zmiany:
+1) w § 4 w pkt 1:
+a) w lit. a tiret drugie otrzymuje brzmienie: „– wytwarzania produktów energetycznych z biomasy, z wyłączeniem wytwarzania produktów energetycznych wyłącznie z produktów objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej”,
+b) lit. c otrzymuje brzmienie: „c) jest pełnoletnia,”;
+2) w § 9 dodaje się ust. 4 w brzmieniu: „4. Warunek dotyczący nadania numeru identyfikacyjnego, w przypadku gdy o przyznanie pomocy ubiega się podmiot będący spółką kapitałową „w organizacji”, powinien zostać spełniony nie później niż do dnia zawarcia umowy.”;
+3) w § 10 w ust. 1 w pkt 3 lit. b otrzymuje brzmienie: „b) wytwarzania produktów energetycznych z biomasy, z wyłączeniem wytwarzania produktów energetycznych wyłącznie z produktów objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej;”;
+4) w § 12:
+a) w ust. 1 uchyla się pkt 2,
+b) uchyla się ust. 2;
+5) w § 17:
+a) ust. 2 otrzymuje brzmienie: „2. Do wniosku o przyznanie pomocy dołącza się:
+1) kopię wniosku o wpis do ewidencji producentów w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwanej dalej „ewidencją”, jeżeli wnioskodawcy nie został nadany numer identyfikacyjny, a w przypadku składania wniosku o wpis wnioskodawcy do ewidencji łącznie z wnioskiem o przyznanie pomocy – oryginał wniosku;
+2) zaświadczenie z właściwej ewidencji ludności o zameldowaniu na pobyt czasowy w miejscu zamieszkania, wystawione nie wcześniej niż miesiąc przed dniem złożenia wniosku o przyznanie pomocy – w przypadku gdy miejsce zamieszkania jest różne od miejsca zameldowania na pobyt stały;
+3) kopię dokumentu tożsamości – w przypadku gdy wnioskodawcą jest osoba fizyczna albo wspólnik spółki cywilnej będący osobą fizyczną;
+4) zaświadczenie o:
+a) podleganiu ubezpieczeniu społecznemu wydane przez Zakład Ubezpieczeń Społecznych albo
+b) okresie podlegania ubezpieczeniu społecznemu rolników oraz zakresie tego ubezpieczenia wydane przez Kasę Rolniczego Ubezpieczenia Społecznego, albo
+c) niefigurowaniu w ewidencji osób ubezpieczonych wydane przez Kasę Rolniczego Ubezpieczenia Społecznego – nie wcześniej niż miesiąc przed dniem złożenia wniosku o przyznanie pomocy;
+5) kopię umowy spółki cywilnej – w przypadku gdy operacja będzie realizowana w ramach wykonywania działalności gospodarczej w formie spółki cywilnej;
+6) kopię uchwały wspólników spółki cywilnej upoważniającej wspólnika tej spółki do złożenia wniosku w imieniu wspólników – w przypadku gdy operacja będzie realizowana w ramach wykonywania działalności gospodarczej w formie spółki cywilnej i wspólnik składa wniosek w imieniu wspólników;
+7) kopię umowy spółki lub statutu spółki – w przypadku wnioskodawcy będącego osobą prawną lub spółką prawa handlowego nieposiadającą osobowości prawnej;
+8) oświadczenie wnioskodawcy, że nie był wpisany do ewidencji działalności gospodarczej albo ewidencji prowadzonej przez jednostkę samorządu terytorialnego obowiązaną do prowadzenia odpowiedniego typu szkół i placówek publicznych w okresie ostatnich 12 miesięcy poprzedzających dzień złożenia wniosku o przyznanie pomocy, sporządzone na formularzu opracowanym i udostępnionym przez Agencję – w przypadku wnioskodawcy podejmującego wykonywanie działalności gospodarczej;
+9) oświadczenie wnioskodawcy o posiadaniu statusu mikroprzedsiębiorcy, sporządzone na formularzu opracowanym i udostępnionym przez Agencję – w przypadku wnioskodawcy wykonującego działalność gospodarczą;
+10) formularz informacji przedstawianych przy ubieganiu się o pomoc de minimis zawierający informacje, o których mowa w rozporządzeniu Rady Ministrów z dnia 29 marca 2010 r. w sprawie zakresu informacji przedstawianych przez podmiot ubiegający się o pomoc de minimis (Dz. U. Nr 53, poz. 311 oraz z 2013 r. poz. 276);
+11) kopie sprawozdań finansowych za okres 3 ostatnich lat obrotowych, sporządzonych zgodnie z przepisami o rachunkowości – w przypadku podmiotów, które mają obowiązek prowadzenia ksiąg rachunkowych i sporządzania sprawozdań finansowych;
+12) ekonomiczny plan operacji sporządzony na formularzu opracowanym i udostępnionym przez Agencję;
+13) kopie zaświadczeń o pomocy de minimis uzyskanej w okresie obejmującym rok, w którym został złożony wniosek o przyznanie pomocy, oraz 2 poprzedzające go lata, albo oświadczenie wnioskodawcy o wielkości uzyskanej pomocy de minimis sporządzone na formularzu opracowanym i udostępnionym przez Agencję;
+14) kopie formularzy rozliczeniowych Zakładu Ubezpieczeń Społecznych z ostatnich 12 miesięcy poprzedzających miesiąc złożenia wniosku o przyznanie pomocy – w przypadku wnioskodawców wykonujących działalność gospodarczą oraz spółek kapitałowych „w organizacji”;
+15) pełnomocnictwo, jeżeli wnioskodawca działa przez pełnomocnika;
+16) kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne nieruchomości, na której będzie realizowana operacja, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 25 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2001 r. Nr 124, poz. 1361, z późn. zm. ), jest wystarczające podanie numeru księgi wieczystej;
+17) oświadczenie właściciela albo współwłaściciela nieruchomości o wyrażeniu zgody na realizację operacji, sporządzone na formularzu opracowanym i udostępnionym przez Agencję – w przypadku gdy operacja będzie realizowana na nieruchomości niestanowiącej własności wnioskodawcy albo stanowiącej współwłasność wnioskodawcy i operacja ta jest związana z budową, przebudową, remontem połączonym z modernizacją, wyposażeniem lub zagospodarowaniem nieruchomości objętej operacją;
+18) kopię zaświadczenia o wpisie do ewidencji prowadzonej przez jednostkę samorządu terytorialnego obowiązaną do prowadzenia odpowiedniego typu szkół i placówek publicznych, zgodnie z przepisami o systemie oświaty, wystawionego nie wcześniej niż 3 miesiące przed dniem złożenia wniosku o przyznanie pomocy albo kopię zezwolenia wydanego na podstawie art. 58 ust. 3 albo art. 59a ustawy z dnia 7 września 1991 r.
+o systemie oświaty – w przypadku gdy w ramach wykonywania działalności wnioskodawca prowadzi działalność podlegającą przepisom o systemie oświaty, której dotyczy operacja;
+19) kopię zaświadczenia o wpisie do ewidencji innych obiektów, o której mowa w art. 38 ust. 3 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2004 r. Nr 223, poz. 2268, z późn. zm. ), wystawionego nie wcześniej niż 3 miesiące przed dniem złożenia wniosku o przyznanie pomocy – w przypadku gdy w ramach wykonywania działalności wnioskodawca świadczy usługi polegające na udostępnianiu miejsc noclegowych w innych obiektach, w których mogą być świadczone usługi hotelarskie;
+20) kopię przyrzeczenia zaszeregowania obiektu do odpowiedniego rodzaju i kategorii wydanego na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych lub kopię decyzji określającej kategorię obiektu hotelarskiego wydaną na podstawie art. 38 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych – w przypadku gdy w ramach wykonywania działalności wnioskodawca świadczy lub planuje świadczyć usługi polegające na udostępnianiu miejsc noclegowych w obiektach hotelarskich;
+21) kosztorys inwestorski – w przypadku gdy operacja obejmuje inwestycje budowlane;
+22) kopie co najmniej 3 zapytań dotyczących nabycia rzeczy lub usług skierowanych do różnych dostawców lub wykonawców (zapytań ofertowych) oraz kopie 3 ofert stanowiących odpowiedź na te zapytania wraz z uzasadnieniem wyboru oferty – w przypadku każdego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, którego koszt przekracza 50 tys. zł netto, dotyczącego inwestycji innej niż określona w pkt 21;
+23) kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, których uzyskanie jest wymagane przez odrębne przepisy do realizacji inwestycji objętych operacją, a także kopie innych dokumentów potwierdzających spełnienie określonych w odrębnych przepisach warunków realizacji inwestycji objętych operacją – w przypadku gdy w ramach operacji będą realizowane tego typu inwestycje;
+24) kopię promesy umowy leasingu dotyczącej planowanego zakupu rzeczy wraz z harmonogramem spłat rat leasingowych z wyszczególnieniem części kapitałowej i części odsetkowej – w przypadku gdy operacja obejmuje inwestycje polegające na nabyciu rzeczy będących przedmiotem leasingu;
+25) kopię dokumentacji dotyczącej ewidencji środków trwałych oraz wartości niematerialnych i prawnych – w przypadku wnioskodawców zobowiązanych do prowadzenia takiej ewidencji przepisami o podatku dochodowym od osób fizycznych, przepisami o podatku dochodowym od osób prawnych lub przepisami o rachunkowości;
+26) kopię dokumentacji dotyczącej wykazu środków trwałych oraz wartości niematerialnych i prawnych – w przypadku wnioskodawców zobowiązanych do prowadzenia wykazu przepisami o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne;
+27) informację o numerze rachunku bankowego wnioskodawcy – w przypadku gdy wnioskodawca ubiega się o zaliczkę;
+28) inne dokumenty potwierdzające spełnienie warunków do przyznania pomocy.”,
+b) po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Obowiązek zawarcia we wniosku o przyznanie pomocy numeru identyfikacyjnego, o którym mowa w ust. 1 pkt 1, albo dołączenia wniosku o wpis do ewidencji albo jego kopii nie dotyczy spółki kapitałowej „w organizacji”, której nie nadano numeru identyfikacyjnego.
+2b. Kopie dokumentów załącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Agencji lub podmiot, który wydał dokument, lub notariusza, z tym że:
+1) kopie dokumentów, o których mowa w ust. 2 pkt 14, mogą być potwierdzone przez wnioskodawcę lub Zakład Ubezpieczeń Społecznych;
+2) kopie, o których mowa w ust. 2 pkt 25 i 26, mogą być potwierdzone przez wnioskodawcę.”,
+c) ust. 3 otrzymuje brzmienie: „3. Agencja udostępnia formularz wniosku o przyznanie pomocy oraz formularze załączników nie później niż w dniu podania do publicznej wiadomości informacji, o której mowa w § 14 ust. 1.”;
+6) w § 18:
+a) ust. 1 i 1a otrzymują brzmienie: „1. Jeżeli wniosek o przyznanie pomocy nie zawiera numeru identyfikacyjnego, o którym mowa w § 17 ust. 1 pkt 1, albo nie dołączono do niego wniosku o wpis do ewidencji albo jego kopii, lub wniosek o przyznanie pomocy nie został złożony w terminie, o którym mowa w § 14 ust. 2, lub w danym okresie składania wniosków jeden wnioskodawca złożył więcej niż jeden wniosek, Agencja nie przyznaje pomocy. Przepis art. 22 ust. 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, zwanej dalej „ustawą”, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
+1a. Przepisu ust. 1 nie stosuje się w odniesieniu do numeru identyfikacyjnego, jeżeli numer ten można ustalić w ewidencji.”,
+b) w ust. 7 pkt 2 otrzymuje brzmienie: „2) jednej zmiany w zakresie planu finansowego operacji lub zestawienia rzeczowo-finansowego operacji, jeżeli zmiana ta nie spowoduje zmiany celu operacji wskazanego we wniosku o przyznanie pomocy, zwiększenia kwoty pomocy oraz zmiany rodzaju działalności gospodarczej określonej we wniosku kodem PKD.”;
+7) § 21 otrzymuje brzmienie: „§ 21. Agencja, na uzasadnioną prośbę wnioskodawcy, może wyrazić zgodę na przedłużenie terminu wykonania przez wnioskodawcę określonej czynności w toku postępowania w sprawie przyznania pomocy, przy czym przedłużenie terminów wykonania przez wnioskodawcę określonych czynności nie może przekroczyć łącznie 30 dni.”;
+8) w § 22 uchyla się ust. 3;
+9) w § 25:
+a) w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Poza postanowieniami określonymi w art. 23 ustawy umowa może zawierać inne postanowienia dotyczące realizacji operacji, w szczególności zobowiązania beneficjenta dotyczące:”,
+b) ust. 4 otrzymuje brzmienie: „4. Umowa zawiera również:
+1) postanowienia dotyczące warunków i sposobu pozyskiwania przez Agencję od beneficjenta danych, o których mowa w art. 7 ust. 4 pkt 1 ustawy;
+2) postanowienia dotyczące dokonywania zmian w umowie, z uwzględnieniem, że zmiana umowy w zakresie zobowiązań beneficjenta, o których mowa w ust. 2:
+a) pkt 1 i 2, jest nieważna,
+b) pkt 3, może być dokonana w przypadku zaistnienia wyjątkowych okoliczności;
+3) wykaz dokumentów, jakie dołącza się do wniosku o płatność.”;
+10) po § 27 dodaje się § 27a w brzmieniu: „§ 27a. 1. Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie terminów określonych w § 10 ust. 2 pkt 3 albo ust. 3 pkt 1 lit. d, w terminie późniejszym, nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 czerwca 2015 r.
+2. Zgoda, o której mowa w ust. 1, może zostać wyrażona również po upływie terminu zakończenia realizacji operacji lub złożenia wniosku o płatność ostateczną.”;
+11) w § 28 uchyla się pkt 2;
+12) w § 29 uchyla się ust. 3;
+13) w § 31:
+a) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na przedłużenie terminu wykonania przez beneficjenta określonej czynności w toku postępowania w sprawie wypłaty pomocy, przy czym przedłużenie terminów wykonania przez beneficjenta określonych czynności nie może przekroczyć łącznie 6 miesięcy.”,
+b) ust. 3 otrzymuje brzmienie: „3. Do trybu rozpatrywania wniosku o płatność stosuje się przepisy § 22 i 23.”;
+14) w § 32:
+a) ust. 6 otrzymuje brzmienie: „6. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca, który złożył wniosek następcy, dołącza do tego wniosku oświadczenia pozostałych spadkobierców, że wyrażają zgodę na przyznanie pomocy temu spadkobiercy.”,
+b) ust. 10 otrzymuje brzmienie: „10. Do wniosku następcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 17 ust. 1 pkt 1–3, pkt 4 lit. b, pkt 6 i 8 oraz ust. 2–2b i 4, § 18 ust. 2–7 oraz § 20–23.”;
+15) w § 34 ust. 6 otrzymuje brzmienie: „6. Do wniosku nabywcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 17 ust. 1 pkt 1–3, pkt 4 lit. b, pkt 6 i 8 oraz ust. 2–2b i 4, § 18 ust. 2–7 oraz § 20–23.”;
+16) użyte w § 16 ust. 1, § 19 ust. 2, § 32 ust. 4 pkt 2 i § 37 ust. 2 wyrazy „operatora publicznego” zastępuje się wyrazami „operatora wyznaczonego”;
+17) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. Do postępowań w sprawach przyznawania pomocy finansowej w ramach działania „Tworzenie i rozwój mikroprzedsiębiorstw” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+§ 3. W przypadku gdy przed dniem wejścia w życie niniejszego rozporządzenia terminy określone w § 10 ust. 2 pkt 3 albo ust. 3 pkt 1 lit. d rozporządzenia wymienionego w § 1 upłynęły, Agencja Restrukturyzacji i Modernizacji Rolnictwa, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie tych terminów, w terminie późniejszym, nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 czerwca 2015 r., nawet gdy realizacja tej operacji została zakończona lub został złożony wniosek o płatność ostateczną.
+§ 4. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+Minister Rolnictwa i Rozwoju Wsi: S. Kalemba WYKAZ DZIAŁALNOŚCI NIEROLNICZYCH, W KTÓRYCH ZAKRESIE MOŻE BYĆ PRZYZNANA POMOC Numer Polskiej Klasyfikacji Rodzaj działalności Działalności (PKD) 1 2
+01.63.Z Działalność usługowa następująca po zbiorach
+01.70.Z Łowiectwo i pozyskiwanie zwierząt łownych, włączając działalność usługową
+02.20.Z Pozyskiwanie drewna
+02.40.Z Działalność usługowa związana z leśnictwem
+08.11.Z Wydobywanie kamieni ozdobnych oraz kamienia dla potrzeb budownictwa, skał wapiennych, gipsu, kredy i łupków
+08.12.Z Wydobywanie żwiru i piasku; wydobywanie glin i kaolinu
+08.92.Z Wydobywanie torfu
+08.99.Z Pozostałe górnictwo i wydobywanie, gdzie indziej niesklasyfikowane
+10.52.Z Produkcja lodów
+10.71.Z Produkcja pieczywa; produkcja świeżych wyrobów ciastkarskich i ciastek
+10.72.Z Produkcja sucharów i herbatników; produkcja konserwowanych wyrobów ciastkarskich i ciastek
+10.73.Z Produkcja makaronów, klusek, kuskusu i podobnych wyrobów mącznych
+10.82.Z Produkcja kakao, czekolady i wyrobów cukierniczych
+10.84.Z Produkcja przypraw – nie dotyczy produkcji octu
+10.85.Z Wytwarzanie gotowych posiłków i dań
+10.86.Z Produkcja artykułów spożywczych homogenizowanych i żywności dietetycznej
+10.89.Z Produkcja pozostałych artykułów spożywczych, gdzie indziej niesklasyfikowana – nie dotyczy produkcji wyrobów z jaj, soków i ekstraktów z mięsa, ryb, skorupiaków i mięczaków
+11.05.Z Produkcja piwa
+11.07.Z Produkcja napojów bezalkoholowych; produkcja wód mineralnych i pozostałych wód butelkowanych
+13.10.A Produkcja przędzy bawełnianej
+13.10.B Produkcja przędzy wełnianej
+13.10.C Produkcja przędzy z włókien chemicznych
+13.20.A Produkcja tkanin bawełnianych
+13.20.B Produkcja tkanin wełnianych
+13.20.C Produkcja tkanin z włókien chemicznych
+13.20.D Produkcja pozostałych tkanin
+13.30.Z Wykończanie wyrobów włókienniczych
+13.91.Z Produkcja dzianin metrażowych
+13.92.Z Produkcja gotowych wyrobów tekstylnych
+13.93.Z Produkcja dywanów i chodników
+13.94.Z Produkcja wyrobów powroźniczych, lin, szpagatów i wyrobów sieciowych
+13.95.Z Produkcja włóknin i wyrobów wykonanych z włóknin, z wyłączeniem odzieży
+13.96.Z Produkcja pozostałych technicznych i przemysłowych wyrobów tekstylnych
+13.99.Z Produkcja pozostałych wyrobów tekstylnych, gdzie indziej niesklasyfikowana
+14.11.Z Produkcja odzieży skórzanej
+14.12.Z Produkcja odzieży roboczej
+14.13.Z Produkcja pozostałej odzieży wierzchniej
+14.14.Z Produkcja bielizny
+14.19.Z Produkcja pozostałej odzieży i dodatków do odzieży
+14.20.Z Produkcja wyrobów futrzarskich
+14.31.Z Produkcja wyrobów pończoszniczych
+14.39.Z Produkcja pozostałej odzieży dzianej
+15.11.Z Wyprawa skór, garbowanie; wyprawa i barwienie skór futerkowych
+15.12.Z Produkcja toreb bagażowych, toreb ręcznych i podobnych wyrobów kaletniczych; produkcja wyrobów rymarskich
+15.20.Z Produkcja obuwia
+16.10.Z Produkcja wyrobów tartacznych
+16.21.Z Produkcja arkuszy fornirowych i płyt wykonanych na bazie drewna
+16.22.Z Produkcja gotowych parkietów podłogowych
+16.23.Z Produkcja pozostałych wyrobów stolarskich i ciesielskich dla budownictwa
+16.24.Z Produkcja opakowań drewnianych
+16.29.Z Produkcja pozostałych wyrobów z drewna; produkcja wyrobów z korka, słomy i materiałów używanych do wyplatania
+17.11.Z Produkcja masy włóknistej
+17.12.Z Produkcja papieru i tektury
+17.21.Z Produkcja papieru falistego i tektury falistej oraz opakowań z papieru i tektury
+17.22.Z Produkcja artykułów gospodarstwa domowego, toaletowych i sanitarnych
+17.23.Z Produkcja artykułów piśmiennych
+17.24.Z Produkcja tapet
+17.29.Z Produkcja pozostałych wyrobów z papieru i tektury
+18.12.Z Pozostałe drukowanie
+18.13.Z Działalność usługowa związana z przygotowywaniem do druku
+18.14.Z Introligatorstwo i podobne usługi
+19.20.Z Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej – w zakresie ograniczonym do produkcji brykietów z torfu
+20.41.Z Produkcja mydła i detergentów, środków myjących i czyszczących
+20.42.Z Produkcja wyrobów kosmetycznych i toaletowych
+20.53.Z Produkcja olejków eterycznych
+22.11.Z Produkcja opon i dętek z gumy; bieżnikowanie i regenerowanie opon z gumy
+22.19.Z Produkcja pozostałych wyrobów z gumy
+22.21.Z Produkcja płyt, arkuszy, rur i kształtowników z tworzyw sztucznych
+22.22.Z Produkcja opakowań z tworzyw sztucznych
+22.23.Z Produkcja wyrobów dla budownictwa z tworzyw sztucznych
+22.29.Z Produkcja pozostałych wyrobów z tworzyw sztucznych
+23.11.Z Produkcja szkła płaskiego
+23.12.Z Kształtowanie i obróbka szkła płaskiego
+23.13.Z Produkcja szkła gospodarczego
+23.31.Z Produkcja ceramicznych kafli i płytek
+23.32.Z Produkcja cegieł, dachówek i materiałów budowlanych z wypalanej gliny
+23.41.Z Produkcja ceramicznych wyrobów stołowych i ozdobnych
+23.42.Z Produkcja ceramicznych wyrobów sanitarnych
+23.49.Z Produkcja pozostałych wyrobów ceramicznych
+23.61.Z Produkcja wyrobów budowlanych z betonu
+23.62.Z Produkcja wyrobów budowlanych z gipsu
+23.69.Z Produkcja pozostałych wyrobów z betonu, gipsu i cementu
+23.70.Z Cięcie, formowanie i wykańczanie kamienia
+23.91.Z Produkcja wyrobów ściernych
+23.99.Z Produkcja pozostałych wyrobów z mineralnych surowców niemetalicznych, gdzie indziej niesklasyfikowana
+24.31.Z Produkcja prętów ciągnionych na zimno
+24.32.Z Produkcja wyrobów płaskich walcowanych na zimno
+24.33.Z Produkcja wyrobów formowanych na zimno
+24.34.Z Produkcja drutu
+24.44.Z Produkcja miedzi
+24.51.Z Odlewnictwo żeliwa
+24.52.Z Odlewnictwo staliwa
+24.53.Z Odlewnictwo metali lekkich
+24.54.A Odlewnictwo miedzi i stopów miedzi
+24.54.B Odlewnictwo pozostałych metali nieżelaznych, gdzie indziej niesklasyfikowane
+25.11.Z Produkcja konstrukcji metalowych i ich części
+25.12.Z Produkcja metalowych elementów stolarki budowlanej
+25.21.Z Produkcja grzejników i kotłów centralnego ogrzewania
+25.30.Z Produkcja wytwornic pary, z wyłączeniem kotłów do centralnego ogrzewania gorącą wodą
+25.50.Z Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków
+25.61.Z Obróbka metali i nakładanie powłok na metale
+25.62.Z Obróbka mechaniczna elementów metalowych
+25.71.Z Produkcja wyrobów nożowniczych i sztućców
+25.72.Z Produkcja zamków i zawiasów
+25.73.Z Produkcja narzędzi
+25.91.Z Produkcja pojemników metalowych
+25.92.Z Produkcja opakowań z metali
+25.93.Z Produkcja wyrobów z drutu, łańcuchów i sprężyn
+25.94.Z Produkcja złączy i śrub
+25.99.Z Produkcja pozostałych gotowych wyrobów metalowych, gdzie indziej niesklasyfikowana Produkcja elementów elektronicznych – w zakresie ograniczonym do produkcji elektronicznych
+26.11.Z złączek do obwodów drukowanych; produkcji elektronicznych przełączników stosowanych w aparaturze elektronicznej
+26.40.Z Produkcja elektronicznego sprzętu powszechnego użytku – w zakresie ograniczonym do produkcji konsoli do gier video
+26.51.Z Produkcja instrumentów i przyrządów pomiarowych, kontrolnych i nawigacyjnych
+26.52.Z Produkcja zegarków i zegarów
+26.70.Z Produkcja instrumentów optycznych i sprzętu fotograficznego
+27.12.Z Produkcja aparatury rozdzielczej i sterowniczej energii elektrycznej
+27.31.Z Produkcja kabli światłowodowych
+27.32.Z Produkcja pozostałych przewodów elektronicznych i elektrycznych i kabli
+27.33.Z Produkcja sprzętu instalacyjnego
+27.40.Z Produkcja elektrycznego sprzętu oświetleniowego
+27.51.Z Produkcja elektrycznego sprzętu gospodarstwa domowego
+27.52.Z Produkcja nieelektrycznego sprzętu gospodarstwa domowego
+27.90.Z Produkcja pozostałego sprzętu elektrycznego – w zakresie ograniczonym do produkcji elektrycznych narzędzi do spawania i lutowania; produkcji ochronników przeciwprzepięciowych Produkcja silników i turbin, z wyłączeniem silników lotniczych, samochodowych
+28.11.Z i motocyklowych – w zakresie ograniczonym do produkcji tłoków, pierścieni tłoków, gaźników do silników spalania wewnętrznego, silników Diesla itp.; produkcji zaworów wlotowych i wylotowych do silników spalania wewnętrznego
+28.12.Z Produkcja sprzętu i wyposażenia do napędu hydraulicznego i pneumatycznego – w zakresie ograniczonym do produkcji kurków i zaworów do napędu hydraulicznego i pneumatycznego
+28.14.Z Produkcja pozostałych kurków i zaworów
+28.21.Z Produkcja pieców, palenisk i palników piecowych
+28.22.Z Produkcja urządzeń dźwigowych i chwytaków – w zakresie ograniczonym do produkcji taczek
+28.23.Z Produkcja maszyn i sprzętu biurowego, z wyłączeniem komputerów i urządzeń peryferyjnych
+28.24.Z Produkcja narzędzi ręcznych mechanicznych
+28.29.Z Produkcja pozostałych maszyn ogólnego przeznaczenia, gdzie indziej niesklasyfikowana
+28.30.Z Produkcja maszyn dla rolnictwa i leśnictwa
+28.41.Z Produkcja maszyn do obróbki metalu
+28.49.Z Produkcja pozostałych narzędzi mechanicznych
+28.93.Z Produkcja maszyn stosowanych w przetwórstwie żywności, tytoniu i produkcji napojów
+28.94.Z Produkcja maszyn dla przemysłu tekstylnego, odzieżowego i skórzanego
+28.95.Z Produkcja maszyn dla przemysłu papierniczego
+28.96.Z Produkcja maszyn do obróbki gumy lub tworzyw sztucznych oraz wytwarzania wyrobów z tych materiałów
+28.99.Z Produkcja pozostałych maszyn specjalnego przeznaczenia, gdzie indziej niesklasyfikowana
+29.32.Z Produkcja pozostałych części i akcesoriów do pojazdów silnikowych, z wyłączeniem motocykli – w zakresie ograniczonym do produkcji siedzeń do samochodów
+30.12.Z Produkcja łodzi wycieczkowych i sportowych
+30.20.Z Produkcja lokomotyw kolejowych oraz taboru szynowego – w zakresie ograniczonym do produkcji siedzeń dla taboru szynowego Produkcja statków powietrznych, statków kosmicznych i podobnych maszyn – w zakresie
+30.30.Z ograniczonym do produkcji siedzeń do statków powietrznych, kosmicznych i podobnych maszyn
+30.92.Z Produkcja rowerów i wózków inwalidzkich
+30.99.Z Produkcja pozostałego sprzętu transportowego, gdzie indziej niesklasyfikowana
+31.01.Z Produkcja mebli biurowych i sklepowych
+31.02.Z Produkcja mebli kuchennych
+31.03.Z Produkcja materaców
+31.09.Z Produkcja pozostałych mebli
+32.11.Z Produkcja monet
+32.12.Z Produkcja wyrobów jubilerskich i podobnych
+32.13.Z Produkcja sztucznej biżuterii i wyrobów podobnych
+32.20.Z Produkcja instrumentów muzycznych
+32.30.Z Produkcja sprzętu sportowego
+32.40.Z Produkcja gier i zabawek Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne – w zakresie ograniczonym do produkcji termometrów medycznych, wag laboratoryjnych,
+32.50.Z inkubatorów i różnorodnych przyrządów, aparatów, instrumentów pomiarowych i kontrolnych;
+produkcji okularów korekcyjnych, okularów przeciwsłonecznych, soczewek wykonywanych na receptę, soczewek kontaktowych, okularów ochronnych
+32.91.Z Produkcja mioteł, szczotek i pędzli
+32.99.Z Produkcja pozostałych wyrobów, gdzie indziej niesklasyfikowana
+33.11.Z Naprawa i konserwacja metalowych wyrobów gotowych – w zakresie ograniczonym do naprawy i konserwacji grzejników i kotłów centralnego ogrzewania
+33.12.Z Naprawa i konserwacja maszyn
+33.13.Z Naprawa i konserwacja urządzeń elektronicznych i optycznych
+33.14.Z Naprawa i konserwacja urządzeń elektrycznych
+33.15.Z Naprawa i konserwacja statków i łodzi
+33.19.Z Naprawa i konserwacja pozostałego sprzętu i wyposażenia
+33.20.Z Instalowanie maszyn przemysłowych, sprzętu i wyposażenia
+35.11.Z Wytwarzanie energii elektrycznej
+35.21.Z Wytwarzanie paliw gazowych – w zakresie ograniczonym do produkcji gazu uzyskanego jako produkt uboczny pochodzenia rolniczego lub z odpadów
+35.30.Z Wytwarzanie i zaopatrywanie w parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych
+37.00.Z Odprowadzanie i oczyszczanie ścieków
+38.11.Z Zbieranie odpadów innych niż niebezpieczne
+38.12.Z Zbieranie odpadów niebezpiecznych
+38.21.Z Obróbka i usuwanie odpadów innych niż niebezpieczne
+38.22.Z Przetwarzanie i unieszkodliwianie odpadów niebezpiecznych
+38.32.Z Odzysk surowców z materiałów segregowanych
+39.00.Z Działalność związana z rekultywacją i pozostała działalność usługowa związana z gospodarką odpadami
+41.20.Z Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+42.11.Z Roboty związane z budową dróg i autostrad
+42.21.Z Roboty związane z budową rurociągów przesyłowych i sieci rozdzielczych – w zakresie ograniczonym do wiercenia i obudowywania studni
+42.99.Z Roboty związane z budową pozostałych obiektów inżynierii lądowej i wodnej, gdzie indziej niesklasyfikowane
+43.11.Z Rozbiórka i burzenie obiektów budowlanych
+43.12.Z Przygotowanie terenu pod budowę
+43.13.Z Wykonywanie wykopów i wierceń geologiczno-inżynierskich
+43.21.Z Wykonywanie instalacji elektrycznych
+43.22.Z Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+43.29.Z Wykonywanie pozostałych instalacji budowlanych
+43.31.Z Tynkowanie
+43.32.Z Zakładanie stolarki budowlanej
+43.33.Z Posadzkarstwo; tapetowanie i oblicowywanie ścian
+43.34.Z Malowanie i szklenie
+43.39.Z Wykonywanie pozostałych robót budowlanych wykończeniowych
+43.91.Z Wykonywanie konstrukcji i pokryć dachowych
+43.99.Z Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane
+45.20.Z Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+45.32.Z Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+46.13.Z Działalność agentów zajmujących się sprzedażą drewna i materiałów budowlanych
+46.15.Z Działalność agentów zajmujących się sprzedażą mebli, artykułów gospodarstwa domowego i drobnych wyrobów metalowych
+46.16.Z Działalność agentów zajmujących się sprzedażą wyrobów tekstylnych, odzieży, wyrobów futrzarskich, obuwia i artykułów skórzanych
+46.24.Z Sprzedaż hurtowa skór
+46.41.Z Sprzedaż hurtowa wyrobów tekstylnych
+46.42.Z Sprzedaż hurtowa odzieży i obuwia
+46.43.Z Sprzedaż hurtowa elektrycznych artykułów użytku domowego
+46.44.Z Sprzedaż hurtowa wyrobów porcelanowych, ceramicznych i szklanych oraz środków czyszczących
+46.45.Z Sprzedaż hurtowa perfum i kosmetyków
+46.46.Z Sprzedaż hurtowa wyrobów farmaceutycznych i medycznych
+46.47.Z Sprzedaż hurtowa mebli, dywanów i sprzętu oświetleniowego
+46.48.Z Sprzedaż hurtowa zegarków, zegarów i biżuterii
+46.49.Z Sprzedaż hurtowa pozostałych artykułów użytku domowego
+46.51.Z Sprzedaż hurtowa komputerów, urządzeń peryferyjnych i oprogramowania
+46.52.Z Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego
+46.61.Z Sprzedaż hurtowa maszyn i urządzeń rolniczych oraz dodatkowego wyposażenia
+46.62.Z Sprzedaż hurtowa obrabiarek
+46.63.Z Sprzedaż hurtowa maszyn wykorzystywanych w górnictwie, budownictwie oraz inżynierii lądowej i wodnej
+46.64.Z Sprzedaż hurtowa maszyn dla przemysłu tekstylnego oraz maszyn do szycia i maszyn dziewiarskich
+46.65.Z Sprzedaż hurtowa mebli biurowych
+46.66.Z Sprzedaż hurtowa pozostałych maszyn i urządzeń biurowych
+46.69.Z Sprzedaż hurtowa pozostałych maszyn i urządzeń
+46.73.Z Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
+46.74.Z Sprzedaż hurtowa wyrobów metalowych oraz sprzętu i dodatkowego wyposażenia hydraulicznego i grzejnego
+46.75.Z Sprzedaż hurtowa wyrobów chemicznych
+46.76.Z Sprzedaż hurtowa pozostałych półproduktów
+46.77.Z Sprzedaż hurtowa odpadów i złomu
+47.11.Z Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+47.19.Z Pozostała sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach
+47.21.Z Sprzedaż detaliczna owoców i warzyw prowadzona w wyspecjalizowanych sklepach
+47.22.Z Sprzedaż detaliczna mięsa i wyrobów z mięsa prowadzona w wyspecjalizowanych sklepach
+47.23.Z Sprzedaż detaliczna ryb, skorupiaków i mięczaków prowadzona w wyspecjalizowanych sklepach
+47.24.Z Sprzedaż detaliczna pieczywa, ciast, wyrobów ciastkarskich i cukierniczych prowadzona w wyspecjalizowanych sklepach
+47.29.Z Sprzedaż detaliczna pozostałej żywności prowadzona w wyspecjalizowanych sklepach Sprzedaż detaliczna komputerów, urządzeń peryferyjnych i oprogramowania prowadzona
+47.41.Z w wyspecjalizowanych sklepach – w zakresie ograniczonym do sprzedaży detalicznej komputerów, urządzeń peryferyjnych i oprogramowania
+47.42.Z Sprzedaż detaliczna sprzętu telekomunikacyjnego prowadzona w wyspecjalizowanych sklepach
+47.43.Z Sprzedaż detaliczna sprzętu audiowizualnego prowadzona w wyspecjalizowanych sklepach
+47.51.Z Sprzedaż detaliczna wyrobów tekstylnych prowadzona w wyspecjalizowanych sklepach
+47.52.Z Sprzedaż detaliczna drobnych wyrobów metalowych, farb i szkła prowadzona w wyspecjalizowanych sklepach
+47.53.Z Sprzedaż detaliczna dywanów, chodników i innych pokryć podłogowych oraz pokryć ściennych prowadzona w wyspecjalizowanych sklepach
+47.54.Z Sprzedaż detaliczna elektrycznego sprzętu gospodarstwa domowego prowadzona w wyspecjalizowanych sklepach
+47.59.Z Sprzedaż detaliczna mebli, sprzętu oświetleniowego i pozostałych artykułów użytku domowego prowadzona w wyspecjalizowanych sklepach
+47.61.Z Sprzedaż detaliczna książek prowadzona w wyspecjalizowanych sklepach
+47.62.Z Sprzedaż detaliczna gazet i artykułów piśmiennych prowadzona w wyspecjalizowanych sklepach
+47.63.Z Sprzedaż detaliczna nagrań dźwiękowych i audiowizualnych prowadzona w wyspecjalizowanych sklepach
+47.64.Z Sprzedaż detaliczna sprzętu sportowego prowadzona w wyspecjalizowanych sklepach
+47.65.Z Sprzedaż detaliczna gier i zabawek prowadzona w wyspecjalizowanych sklepach
+47.71.Z Sprzedaż detaliczna odzieży prowadzona w wyspecjalizowanych sklepach
+47.72.Z Sprzedaż detaliczna obuwia i wyrobów skórzanych prowadzona w wyspecjalizowanych sklepach
+47.73.Z Sprzedaż detaliczna wyrobów farmaceutycznych prowadzona w wyspecjalizowanych sklepach
+47.74.Z Sprzedaż detaliczna wyrobów medycznych, włączając ortopedyczne, prowadzona w wyspecjalizowanych sklepach
+47.75.Z Sprzedaż detaliczna kosmetyków i artykułów toaletowych prowadzona w wyspecjalizowanych sklepach
+47.77.Z Sprzedaż detaliczna zegarków, zegarów i biżuterii prowadzona w wyspecjalizowanych sklepach
+47.78.Z Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+47.79.Z Sprzedaż detaliczna artykułów używanych prowadzona w wyspecjalizowanych sklepach
+47.81.Z Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach
+47.82.Z Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+47.89.Z Sprzedaż detaliczna pozostałych wyrobów prowadzona na straganach i targowiskach
+47.91.Z Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+47.99.Z Pozostała sprzedaż detaliczna prowadzona poza siecią sklepową, straganami i targowiskami
+49.39.Z Pozostały transport lądowy pasażerski, gdzie indziej niesklasyfikowany
+49.41.Z Transport drogowy towarów
+49.42.Z Działalność usługowa związana z przeprowadzkami
+50.10.Z Transport morski i przybrzeżny pasażerski
+50.20.Z Transport morski i przybrzeżny towarów
+50.30.Z Transport wodny śródlądowy pasażerski
+50.40.Z Transport wodny śródlądowy towarów
+51.10.Z Transport lotniczy pasażerski
+51.21.Z Transport lotniczy towarów
+52.10.A Magazynowanie i przechowywanie paliw gazowych
+52.10.B Magazynowanie i przechowywanie pozostałych towarów
+52.21.Z Działalność usługowa wspomagająca transport lądowy
+52.29.B Działalność śródlądowych agencji transportowych
+52.29.C Działalność pozostałych agencji transportowych
+53.20.Z Pozostała działalność pocztowa i kurierska
+55.10.Z Hotele i podobne obiekty zakwaterowania
+55.20.Z Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+55.30.Z Pola kempingowe (włączając pola dla pojazdów kempingowych) i pola namiotowe
+55.90.Z Pozostałe zakwaterowanie
+56.10.A Restauracje i inne stałe placówki gastronomiczne
+56.10.B Ruchome placówki gastronomiczne
+56.21.Z Przygotowywanie i dostarczanie żywności dla odbiorców zewnętrznych (katering)
+56.29.Z Pozostała usługowa działalność gastronomiczna
+56.30.Z Przygotowywanie i podawanie napojów
+58.19.Z Pozostała działalność wydawnicza
+58.29.Z Działalność wydawnicza w zakresie pozostałego oprogramowania
+62.01.Z Działalność związana z oprogramowaniem
+62.02.Z Działalność związana z doradztwem w zakresie informatyki
+62.03.Z Działalność związana z zarządzaniem urządzeniami informatycznymi
+62.09.Z Pozostała działalność usługowa w zakresie technologii informatycznych i komputerowych
+63.11.Z Przetwarzanie danych; zarządzanie stronami internetowymi (hosting) i podobna działalność
+66.21.Z Działalność związana z oceną ryzyka i szacowaniem poniesionych strat
+66.22.Z Działalność agentów i brokerów ubezpieczeniowych
+66.29.Z Pozostała działalność wspomagająca ubezpieczenia i fundusze emerytalne
+69.20.Z Działalność rachunkowo-księgowa; doradztwo podatkowe
+70.21.Z Stosunki międzyludzkie (public relations) i komunikacja
+70.22.Z Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+71.11.Z Działalność w zakresie architektury
+71.12.Z Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+71.20.A Badania i analizy związane z jakością żywności
+71.20.B Pozostałe badania i analizy techniczne
+73.11.Z Działalność agencji reklamowych
+73.12.A Pośrednictwo w sprzedaży czasu i miejsca na cele reklamowe w radio i telewizji
+73.12.B Pośrednictwo w sprzedaży miejsca na cele reklamowe w mediach drukowanych
+73.12.C Pośrednictwo w sprzedaży miejsca na cele reklamowe w mediach elektronicznych (Internet)
+73.12.D Pośrednictwo w sprzedaży miejsca na cele reklamowe w pozostałych mediach
+73.20.Z Badanie rynku i opinii publicznej
+74.20.Z Działalność fotograficzna
+74.30.Z Działalność związana z tłumaczeniami Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana
+74.90.Z – w zakresie ograniczonym do kontroli dokumentów przewozowych, informacji dotyczących stawek za fracht; doradztwa w zakresie agronomii; doradztwa związanego z bezpieczeństwem
+75.00.Z Działalność weterynaryjna
+77.11.Z Wynajem i dzierżawa samochodów osobowych i furgonetek
+77.12.Z Wynajem i dzierżawa pozostałych pojazdów samochodowych, z wyłączeniem motocykli
+77.21.Z Wypożyczanie i dzierżawa sprzętu rekreacyjnego i sportowego
+77.22.Z Wypożyczanie kaset wideo, płyt CD, DVD itp.
+77.29.Z Wypożyczanie i dzierżawa pozostałych artykułów użytku osobistego i domowego
+77.31.Z Wynajem i dzierżawa maszyn i urządzeń rolniczych
+77.32.Z Wynajem i dzierżawa maszyn i urządzeń budowlanych
+77.33.Z Wynajem i dzierżawa maszyn i urządzeń biurowych, włączając komputery
+77.34.Z Wynajem i dzierżawa środków transportu wodnego
+77.35.Z Wynajem i dzierżawa środków transportu lotniczego – w zakresie ograniczonym do wynajmu balonów bez załogi
+77.39.Z Wynajem i dzierżawa pozostałych maszyn, urządzeń oraz dóbr materialnych, gdzie indziej niesklasyfikowane
+78.10.Z Działalność związana z wyszukiwaniem miejsc pracy i pozyskiwaniem pracowników
+78.20.Z Działalność agencji pracy tymczasowej
+78.30.Z Pozostała działalność związana z udostępnianiem pracowników
+79.11.A Działalność agentów turystycznych
+79.11.B Działalność pośredników turystycznych
+79.12.Z Działalność organizatorów turystyki
+79.90.A Działalność pilotów wycieczek i przewodników turystycznych
+79.90.B Działalność w zakresie informacji turystycznej
+79.90.C Pozostała działalność usługowa w zakresie rezerwacji, gdzie indziej niesklasyfikowana
+80.10.Z Działalność ochroniarska, z wyłączeniem obsługi systemów bezpieczeństwa
+80.20.Z Działalność ochroniarska w zakresie obsługi systemów bezpieczeństwa
+80.30.Z Działalność detektywistyczna
+81.21.Z Niespecjalistyczne sprzątanie budynków i obiektów przemysłowych
+81.22.Z Specjalistyczne sprzątanie budynków i obiektów przemysłowych
+81.29.Z Pozostałe sprzątanie
+81.30.Z Działalność usługowa związana z zagospodarowaniem terenów zieleni
+82.11.Z Działalność usługowa związana z administracyjną obsługą biura
+82.19.Z Wykonywanie fotokopii, przygotowywanie dokumentów i pozostała specjalistyczna działalność wspomagająca prowadzenie biura
+82.30.Z Działalność związana z organizacją targów, wystaw i kongresów
+82.92.Z Działalność związana z pakowaniem Pozostała działalność wspomagająca prowadzenie działalności gospodarczej, gdzie indziej
+82.99.Z niesklasyfikowana – w zakresie ograniczonym do usług stenografii, stenotypii; usług przyjmowania telefonów
+85.10.Z Wychowanie przedszkolne Technika – wyłącznie w zakresie szkół zawodowych dla dorosłych poniżej poziomu
+85.32.A uniwersyteckiego, włączając szkoły nauki jazdy dla zawodowych kierowców; kształcenia ludzi dorosłych, tj. osób, które nie podlegają obowiązkowej edukacji Zasadnicze szkoły zawodowe – wyłącznie w zakresie szkół zawodowych dla dorosłych poniżej
+85.32.B poziomu uniwersyteckiego, włączając szkoły nauki jazdy dla zawodowych kierowców;
+kształcenia ludzi dorosłych, tj. osób, które nie podlegają obowiązkowej edukacji
+85.51.Z Pozaszkolne formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych
+85.52.Z Pozaszkolne formy edukacji artystycznej – w zakresie ograniczonym do działalności szkół tańca i instruktorów tańca
+85.53.Z Pozaszkolne formy edukacji z zakresu nauki jazdy i pilotażu
+85.59.A Nauka języków obcych
+85.59.B Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+86.90.A Działalność fizjoterapeutyczna
+87.20.Z Pomoc społeczna z zakwaterowaniem dla osób z zaburzeniami psychicznymi
+87.30.Z Pomoc społeczna z zakwaterowaniem dla osób w podeszłym wieku i osób niepełnosprawnych
+87.90.Z Pozostała pomoc społeczna z zakwaterowaniem
+88.91.Z Opieka dzienna nad dziećmi
+90.01.Z Działalność związana z wystawianiem przedstawień artystycznych – w zakresie ograniczonym do działalności cyrkowej
+91.01.A Działalność bibliotek
+93.11.Z Działalność obiektów sportowych
+93.12.Z Działalność klubów sportowych
+93.13.Z Działalność obiektów służących poprawie kondycji fizycznej
+93.19.Z Pozostała działalność związana ze sportem
+93.21.Z Działalność wesołych miasteczek i parków rozrywki
+93.29.Z Pozostała działalność rozrywkowa i rekreacyjna
+95.12.Z Naprawa i konserwacja sprzętu (tele)komunikacyjnego – w zakresie ograniczonym do naprawy telefonów przenośnych i kamer
+95.21.Z Naprawa i konserwacja elektronicznego sprzętu powszechnego użytku
+95.22.Z Naprawa i konserwacja urządzeń gospodarstwa domowego oraz sprzętu użytku domowego i ogrodniczego
+95.23.Z Naprawa obuwia i wyrobów skórzanych
+95.24.Z Naprawa i konserwacja mebli i wyposażenia domowego
+95.25.Z Naprawa zegarów, zegarków oraz biżuterii
+95.29.Z Naprawa pozostałych artykułów użytku osobistego i domowego
+96.01.Z Pranie i czyszczenie wyrobów włókienniczych i futrzarskich
+96.02.Z Fryzjerstwo i pozostałe zabiegi kosmetyczne
+96.03.Z Pogrzeby i działalność pokrewna
+96.04.Z Działalność usługowa związana z poprawą kondycji fizycznej
+96.09.Z Pozostała działalność usługowa, gdzie indziej niesklasyfikowana
+

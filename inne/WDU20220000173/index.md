@@ -8,10 +8,10 @@ pos: 173
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 stycznia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 173 Zmiany w aneksach do konwencji bazylejskiej o kontroli transgranicznego przemieszczania i usuwania odpadów niebezpiecznych, sporządzonej w Bazylei dnia 22 marca 1989 r., przyjęte w Kuching w dniach 23–27 lutego 1998 r. oraz w Genewie w dniach 9–13 grudnia 2002 r., 25–29 października 2004 r. i 28 kwietnia – 10 maja 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000173) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/173/text.pdf) |
 
-Zmiany w aneksach do konwencji bazylejskiej o kontroli transgranicznego przemieszczania i usuwania odpadów niebezpiecznych, sporządzonej w Bazylei dnia 22 marca 1989 r., przyjęte w Kuching w dniach 23–27 lutego 1998 r. oraz w Genewie w dniach 9–13 grudnia 2002 r., 25–29 października 2004 r. i 28 kwietnia 10 maja 2013 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej PolsKiej podaje do powszechnej wiadomości: W dniach 23–27 lutego 1998 r. w Kuching oraz w dniach 9–13 grudnia 2002 r., 25–29 października 2004 r. i 28 kwietnia 10 maja 2013 r. w Genewie zostały przyjęte zmiany w aneksach do Konwencji bazylejskiej o kontroli transgranicznego przemieszczania i usuwania odpadów niebezpiecznych, sporządzonej w Bazylei dnia 22 marca 1989 r., w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższymi zmianami w aneksach, w imieniu Rzeczypospolitej Polskiej oświadczam, że: zostały one uznane za słuszne zarówno w całości, jak i każde z postanowień w nich zawartych, są przyjęte, ratyfikowane i potwierdzone, będą niezmiennie zachowywane.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej PolsKiej podaje do powszechnej wiadomości: W dniach 23–27 lutego 1998 r. w Kuching oraz w dniach 9–13 grudnia 2002 r., 25–29 października 2004 r. i 28 kwietnia – 10 maja 2013 r. w Genewie zostały przyjęte zmiany w aneksach do Konwencji bazylejskiej o kontroli transgranicznego przemieszczania i usuwania odpadów niebezpiecznych, sporządzonej w Bazylei dnia 22 marca 1989 r., w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższymi zmianami w aneksach, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – zostały one uznane za słuszne zarówno w całości, jak i każde z postanowień w nich zawartych, – są przyjęte, ratyfikowane i potwierdzone, – będą niezmiennie zachowywane.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 11 października 2021 r.
 Prezydent Rzeczypospolitej Polskiej: A. Duda l.s.

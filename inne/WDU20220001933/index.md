@@ -8,7 +8,7 @@ pos: 1933
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
@@ -28,6 +28,61 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001933) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1933/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, 1728 i 2448 oraz z 2022 r. poz. 655, 1115 i 1855) wprowadza się następujące zmiany:
+
+- **1)** w art. 2:
+    - **a)** w ust. 2 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) edukacja prawna młodzieży związana z prewencją przestępstw.”,
+    - **b)** ust. 2b otrzymuje brzmienie: „2b. Służba Więzienna, w zakresie określonym w drodze zarządzenia przez Ministra Sprawiedliwości z inicjatywy własnej lub na wniosek Prokuratora Krajowego, zapewnia porządek i bezpieczeństwo w urzędzie obsługującym Ministra Sprawiedliwości i w Prokuraturze Krajowej, zwanych dalej „MSiPK”.”,
+    - **c)** po ust. 2b dodaje się ust. 2c i 2d w brzmieniu: „2c. Służba Więzienna, w zakresie określonym przez Ministra Sprawiedliwości w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, może współuczestniczyć w edukacji młodzieży związanej z kształtowaniem postaw obywatelskich, proobronnych i patriotycznych.
+
+2d. W celu realizacji zadań, o których mowa w ust. 2c, Dyrektor Generalny Służby Więziennej, zwany dalej „Dyrektorem Generalnym”, określi, w drodze zarządzenia, sposób realizacji szkolenia strzeleckiego młodzieży w jednostkach organizacyjnych Służby Więziennej, zwanych dalej „jednostkami organizacyjnymi”. Realizacja szkolenia strzeleckiego w zakresie potrzeb edukacyjnych młodzieży odbywa się z zachowaniem jego bezpiecznego przebiegu.”,
+
+- **d)** uchyla się ust. 3–6;
+- **2)** w art. 7:
+    - **a)** w pkt 1 skreśla się wyrazy „ , zwany dalej „Dyrektorem Generalnym” ”,
+    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) Szef Inspektoratu Wewnętrznego Służby Więziennej, zwany dalej „Szefem IWSW”;”;
+
+- **3)** w art. 8:
+    - **a)** w ust. 1: – we wprowadzeniu do wyliczenia skreśla się wyrazy „ , zwanymi dalej „jednostkami organizacyjnymi”,”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) Inspektorat Wewnętrzny Służby Więziennej, zwany dalej „IWSW”;”,
+    - **b)** w ust. 1a po wyrazach „posiadającą osobowość prawną” dodaje się wyrazy „oraz realizującą zadania na rzecz wymiaru sprawiedliwości i administracji publicznej”,
+    - **c)** po ust. 1a dodaje się ust. 1b i 1c w brzmieniu: „1b. IWSW jest jednostką organizacyjną nadzorowaną przez Ministra Sprawiedliwości.
+
+1c. W ramach jednostek organizacyjnych, o których mowa w ust. 1 pkt 2, mogą być tworzone Grupy Interwencyjne Służby Więziennej, zwane dalej „GISW”, odpowiedzialne za prowadzenie działań:
+
+- **1)** w zakresie zapobiegania zagrożeniom mogącym wystąpić w Służbie Więziennej lub likwidacji tych zagrożeń;
+- **2)** wymagających użycia specjalistycznych sił i środków oraz specjalistycznej taktyki działania.”,
+    - **d)** ust. 3 otrzymuje brzmienie: „3. W jednostkach organizacyjnych mogą być tworzone służby, działy, oddziały, grupy, zespoły i stanowiska prowadzące działalność, w szczególności w zakresie oddziaływania penitencjarnego, specjalistycznego oddziaływania terapeutycznego, nauczania i szkolenia, działalności duszpasterskiej, kwatermistrzowskiej, zatrudnienia, czynności administracyjnych związanych z wykonywaniem kary pozbawienia wolności i tymczasowego aresztowania, ochrony, spraw obronnych, zwalczania czynów mogących zagrozić porządkowi i bezpieczeństwu, zapewnienia stosownych warunków bytowych i pomocy socjalnej, opieki zdrowotnej i sanitarnej, a także składnice mundurowe i magazynowe.”;
+
+- **4)** w art. 10 ust. 1 i 2 otrzymują brzmienie: „1. Centralnym Zarządem Służby Więziennej oraz jednostkami organizacyjnymi, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4, kieruje Dyrektor Generalny podległy Ministrowi Sprawiedliwości.
+
+2. Dyrektor Generalny jest przełożonym funkcjonariuszy pełniących służbę w jednostkach organizacyjnych, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4.”;
+
+- **5)** w art. 11:
+    - **a)** w ust. 1: – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) ustalanie organizacji służby dyżurnej w jednostkach organizacyjnych, w tym sposobu i trybu informowania o zdarzeniach, które wystąpiły w Służbie Więziennej, oraz ustalanie sposobu i trybu przeprowadzania czynności sprawdzających dotyczących zdarzeń, które wystąpiły w Służbie Więziennej, oraz sposobu ich dokumentowania;”, – pkt 3 otrzymuje brzmienie: „3) ustalanie zasad technicznego zabezpieczenia ochronnego i bezpieczeństwa w jednostkach organizacyjnych;”, – po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) ustalanie zasad gospodarowania uzbrojeniem i środkami ochrony przez funkcjonariuszy;”, – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) ustalanie wzorów druków ochronnych i znaków umownych;”, – pkt 6 otrzymuje brzmienie: „6) nadzorowanie działalności okręgowych inspektoratów Służby Więziennej, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodków szkolenia Służby Więziennej i ośrodków doskonalenia kadr Służby Więziennej bezpośrednio mu podległych oraz sprawowanie nadzoru nad organizacją i realizowaniem zadań przez jednostki organizacyjne, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4;”, – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) ustalanie zasad organizacji i szczegółowego zakresu działania GISW;”, – pkt 8 otrzymuje brzmienie: „8) ustalanie liczby etatów i stanowisk w Centralnym Zarządzie Służby Więziennej, liczby etatów w okręgowych inspektoratach Służby Więziennej oraz łącznej liczby etatów w podległych jednostkach organizacyjnych, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4;”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Dyrektor Generalny może przez odpowiednie służby w jednostkach organizacyjnych, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4, podejmować działania mające na celu koordynowanie czynności związanych z zapobieganiem zjawiskom przestępczym i kryminogennym w środowisku funkcjonariuszy lub pracowników oraz przygotowywanie pod względem merytorycznym przedsięwzięć szkoleniowych i materiałów edukacyjnych.”;
+
+- **6)** po art. 11 dodaje się art. 11a ̶ 11c w brzmieniu: „Art. 11a. 1. IWSW jest jednostką organizacyjną realizującą na obszarze całego kraju zadania, o których mowa w art. 23b.
+
+2. IWSW kieruje Szef IWSW podległy Ministrowi Sprawiedliwości.
+
+3. Szefowi IWSW przysługuje etat zastępcy Dyrektora Generalnego.
+
+4. Szef IWSW ustala liczbę etatów i stanowisk w IWSW, w tym w wydziałach zamiejscowych.
+
+5. Realizację czynności wspomagających IWSW w zakresie organizacyjnym, kadrowym, logistycznym, technicznym i finansowym zapewnia Centralny Zarząd Służby Więziennej, a w wydziałach zamiejscowych IWSW – okręgowy inspektorat Służby Więziennej.
+
+6. Siedzibą Szefa IWSW jest miasto stołeczne Warszawa.
+
+7. W celu realizacji zadań, o których mowa w art. 23b, Szef IWSW współdziała z innymi jednostkami organizacyjnymi oraz właściwymi organami i instytucjami.
+
+8. Szef IWSW jest obowiązany niezwłocznie przedstawiać Ministrowi Sprawiedliwości informacje i materiały mogące mieć istotne znaczenie dla sprawowania nadzoru nad Służbą Więzienną.
+
+9. Minister Sprawiedliwości może w każdym czasie żądać informacji i materiałów dotyczących zadań realizowanych przez Szefa IWSW.
+
+10. Minister Sprawiedliwości może polecić Szefowi IWSW objęcie rozpoznaniem, o którym mowa w art. 23b ust. 1, określonych obszarów działań funkcjonariuszy.
+
+11. Szef IWSW przedstawia corocznie do dnia 31 stycznia Ministrowi Sprawiedliwości informację o działalności IWSW.
+
+12. Szef IWSW określa, w drodze zarządzenia, z zachowaniem przepisów o ochronie informacji niejawnych, formy i metody podejmowanych czynności przez IWSW w zakresie nieobjętym innymi przepisami prawa.
 
 **Art. 11b.** Minister Sprawiedliwości określa, w drodze zarządzenia, regulamin organizacyjny IWSW.
 
@@ -825,7 +880,473 @@ source: "isap-pdf"
 
 **Art. 38b.** Do służby w IWSW, za zgodą Ministra Sprawiedliwości, może zostać przyjęty funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Biura Ochrony Rządu lub Służby Celno-Skarbowej, zwolniony ze służby w związku z przejściem na emeryturę policyjną w rozumieniu ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626) nie później niż przed upływem 3 lat od dnia tego zwolnienia. W takim przypadku osobę przyjmowaną do służby i posiadającą stopień Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Granicznej, Służby Ochrony Państwa, Biura Ochrony Rządu lub Służby Celno-Skarbowej mianuje się na odpowiedni stopień Służby Więziennej. Przepisy art. 38, art. 38a ust. 4 i 5, art. 39c ust. 2 pkt 1 lit. b i d i pkt 4 oraz przepisy wykonawcze wydane na podstawie art. 38a ust. 9 stosuje się odpowiednio.”;
 
+- **25)** w art. 39a w ust. 1 pkt 2 otrzymuje brzmienie: „2) zebraniem informacji o istniejących lub przewidywanych wakatach w Służbie Więziennej;”;
+- **26)** w art. 39b:
+    - **a)** w ust. 1: – w pkt 1 w lit. b przecinek zastępuje się średnikiem i uchyla się lit. c, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) Szef IWSW – w stosunku do kandydatów do służby w IWSW;”,
+    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) zarządzić przeprowadzenie postępowania kwalifikacyjnego przez Centralny Zarząd Służby Więziennej w stosunku do kandydatów do wszystkich jednostek organizacyjnych, z wyjątkiem Uczelni oraz IWSW;”;
+
+- **27)** w art. 39c w ust. 2:
+    - **a)** w pkt 1 lit. g otrzymuje brzmienie: „g) wyłonienie kandydatów dopuszczonych do kolejnych etapów postępowania kwalifikacyjnego, mając na względzie potrzeby etatowe służby oraz dotychczasowe wyniki uzyskane w trakcie etapu wstępnego;”,
+    - **b)** w pkt 2 w lit. a przecinek zastępuje się średnikiem i uchyla się lit. b,
+    - **c)** w pkt 3: – skreśla się wyraz „końcowego”, – kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) etapu końcowego obejmującego ustalenie zdolności fizycznej i psychicznej do służby w Służbie Więziennej przez komisje lekarskie, o których mowa w art. 110 ust. 1; w ramach ustalenia zdolności psychicznej do służby badania psychologiczne mogą być wykonywane przez podmioty określone w art. 110 ust. 1a.”;
+
+- **28)** art. 39g otrzymuje brzmienie: „Art. 39g. 1. Pracownik zatrudniony w Służbie Więziennej:
+- **1)** co najmniej 2 lata,
+- **2)** wykazujący się odpowiednimi kwalifikacjami i kompetencjami szczególnie przydatnymi w Służbie Więziennej – może być, za zgodą odpowiedniego organu, przyjęty do Służby Więziennej przy zastosowaniu uproszczonego postępowania kwalifikacyjnego.
+
+2. Zgodę, o której mowa w ust. 1, wyrażają:
+
+- **1)** Minister Sprawiedliwości – w odniesieniu do pracowników wszystkich jednostek organizacyjnych;
+- **2)** Dyrektor Generalny – w odniesieniu do pracowników podległych jednostek organizacyjnych;
+- **3)** Rektor – w odniesieniu do pracowników Uczelni;
+- **4)** Szef IWSW – w odniesieniu do pracowników IWSW.
+
+3. W przypadku, o którym mowa w ust. 1, kandydat podlega etapom postępowania kwalifikacyjnego określonym w art. 39c ust. 2 pkt 1 lit. d i e, pkt 2 lit. a oraz pkt 4, a w przypadku pozytywnego zakończenia tych etapów stosuje się art. 40 ust. 3.
+
+4. Minister Sprawiedliwości może wyrazić zgodę na przyjęcie do Służby Więziennej pracownika niespełniającego kryterium, o którym mowa w ust. 1 pkt 1.”;
+
+- **29)** w art. 42:
+    - **a)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. W przypadkach uzasadnionych szczególnymi kwalifikacjami funkcjonariusza pełniącego służbę w IWSW, który ponadto ukończył odpowiednie szkolenie zawodowe, Szef IWSW może wyrazić zgodę na skrócenie okresu służby przygotowawczej funkcjonariusza.
+
+3b. W przypadkach uzasadnionych szczególnymi kwalifikacjami funkcjonariusza pełniącego służbę na Uczelni, który ponadto ukończył odpowiednie szkolenie zawodowe, Rektor może wyrazić zgodę na skrócenie okresu służby przygotowawczej funkcjonariusza.”,
+
+- **b)** ust. 4 i 5 otrzymują brzmienie: „4. W razie przerwy w wykonywaniu przez funkcjonariusza obowiązków służbowych trwającej dłużej niż 3 miesiące kierownik jednostki organizacyjnej może odpowiednio przedłużyć okres jego służby przygotowawczej, nie więcej jednak niż o 18 miesięcy.
+
+5. Okres służby przygotowawczej ulega przedłużeniu do czasu prawomocnego zakończenia prowadzonego przeciwko funkcjonariuszowi postępowania karnego o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe, postępowania dyscyplinarnego oraz o okres urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego, urlopu wychowawczego lub urlopu bezpłatnego.”;
+
+- **30)** w art. 43c po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Szef IWSW, po zasięgnięciu opinii Rektora, określi, w drodze zarządzenia, program szkoleń specjalistycznych w IWSW dla funkcjonariuszy IWSW i pracowników IWSW.”;
+- **31)** w art. 43j w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Egzamin przeprowadza komisja egzaminacyjna powołana przez kierownika jednostki, o której mowa w ust. 2.”;
+- **32)** w art. 43t:
+    - **a)** w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) ma wszczęte postępowanie karne o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Pracownika nie kieruje się na szkolenie zawodowe w przypadkach, o których mowa w ust. 1 pkt 1 i 3–5.”,
+    - **c)** dodaje się ust. 3 w brzmieniu: „3. Funkcjonariusza odbywającego szkolenie zawodowe, przeciwko któremu wszczęto postępowanie karne o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne, skreśla się z listy słuchaczy.”;
+
+- **33)** w art. 43u ust. 2 i 3 otrzymują brzmienie: „2. Szef IWSW, dyrektor okręgowy, Rektor i właściwy komendant zgłaszają potrzeby szkoleniowe komendantowi wyznaczonemu przez Dyrektora Generalnego, który prowadzi nabór kandydatów na szkolenie zawodowe w elektronicznym systemie obsługi szkolenia.
+
+3. Dyrektor Generalny z własnej inicjatywy lub na wniosek Rektora, Szefa IWSW lub właściwego komendanta może dokonywać zmian ustalonych limitów miejsc i terminów szkolenia zawodowego.”;
+
+- **34)** w art. 43zb ust. 3 otrzymuje brzmienie: „3. Rektor lub właściwy komendant informuje niezwłocznie Dyrektora Generalnego, Szefa IWSW oraz właściwego kierownika jednostki organizacyjnej o skreśleniu funkcjonariusza lub pracownika z listy uczestników szkolenia zawodowego.”;
+- **35)** w art. 43zd dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Szkolenie specjalistyczne w IWSW dla funkcjonariuszy IWSW może nie stanowić uzupełnienia szkolenia wstępnego lub szkolenia zawodowego.”;
+- **36)** art. 43ze otrzymuje brzmienie: „Art. 43ze. Do szkolenia specjalistycznego stosuje się odpowiednio przepisy art. 43s, art. 43t, art. 43y–43zb, art. 43zg ust. 2 oraz art. 43zj ust. 1.”;
+- **37)** po art. 43ze dodaje się art. 43zea w brzmieniu: „Art. 43zea. Funkcjonariusz jest obowiązany utrzymywać wymagany poziom umiejętności posługiwania się bronią palną zapewniający wykonywanie przez niego zadań służbowych, w szczególności przez udział w szkoleniu zawodowym.”;
+- **38)** w art. 43zf ust. 1 otrzymuje brzmienie: „1. Doskonalenie zawodowe jest elementem podnoszenia kwalifikacji zawodowych funkcjonariuszy i pracowników, w szczególności w formie kursów, warsztatów, szkoleń, konferencji, narad i odpraw służbowych.”;
+- **39)** w art. 43zk ust. 1 otrzymuje brzmienie: „1. Kształcenie przygotowujące do zajmowania stanowisk oficerskich w Służbie Więziennej prowadzi się w formie studiów podyplomowych na Uczelni, jednolitych studiów magisterskich na Uczelni lub studiów drugiego stopnia na Uczelni.”;
+- **40)** art. 43zl otrzymuje brzmienie: „Art. 43zl. 1. Do egzaminu na pierwszy stopień w korpusie oficerów przystępuje funkcjonariusz:
+- **1)** o którym mowa w art. 62j ust. 1;
+- **2)** który uzyskał skierowanie i ukończył na Uczelni studia podyplomowe przygotowujące do zajmowania stanowisk oficerskich;
+- **3)** który ukończył jednolite studia magisterskie na Uczelni lub studia drugiego stopnia na Uczelni;
+- **4)** który wykazuje się kwalifikacjami zawodowymi i kompetencjami szczególnie przydatnymi w Służbie Więziennej, za zgodą Ministra Sprawiedliwości; Minister Sprawiedliwości przed podjęciem decyzji może zwrócić się do Rektora o wydanie opinii o funkcjonariuszu.
+
+2. Do egzaminu na pierwszy stopień w korpusie chorążych przystępuje funkcjonariusz:
+
+- **1)** o którym mowa w art. 62i ust. 1;
+- **2)** który ukończył studia pierwszego stopnia na Uczelni;
+- **3)** który ukończył szkolenie zawodowe.
+
+3. Do egzaminu na pierwszy stopień w korpusie podoficerskim przystępuje funkcjonariusz, który ukończył szkolenie zawodowe.
+
+4. Decyzje o wysokości limitów określających liczbę funkcjonariuszy, którzy mogą uzyskać pierwszy stopień w korpusach, o których mowa w ust. 1– 3, z podległych sobie jednostek podejmuje Dyrektor Generalny.
+
+5. Dyrektor Generalny, w drodze zarządzenia, określa wysokość limitów, o których mowa w ust. 4, wskazując kryteria brane pod uwagę oraz prowadzoną politykę kadrową i potrzeby służby.
+
+6. Rektor, w porozumieniu z właściwymi komendantami, ustala miejsce przeprowadzania egzaminów, skład komisji egzaminacyjnych i ich przewodniczących oraz terminy egzaminów z uwzględnieniem terminów ukończenia kształcenia w odpowiednich formach.
+
+7. Zestawy egzaminacyjne opracowują osoby wyznaczone przez Rektora niewchodzące w skład komisji egzaminacyjnej.
+
+8. Otwarcia zestawu egzaminacyjnego dokonuje komisja egzaminacyjna w obecności funkcjonariuszy uczestniczących w egzaminie.
+
+9. Po przeprowadzeniu egzaminu komisja egzaminacyjna sporządza protokół, który Rektor przekazuje Dyrektorowi Generalnemu w celu niezwłocznego podjęcia działań zmierzających do nadania funkcjonariuszom pierwszego stopnia w korpusie odpowiednio oficerów, chorążych albo podoficerów.
+
+10. Negatywny wynik egzaminu albo nieprzystąpienie do egzaminu oznacza nieuzyskanie kwalifikacji zawodowych, które są wymagane na określonym stanowisku służbowym w korpusie oficerów, chorążych albo podoficerów.
+
+11. W przypadku nieprzystąpienia do egzaminu z przyczyn usprawiedliwionych Rektor, na wniosek funkcjonariusza, wyznacza dodatkowy termin egzaminu. W przypadku uzyskania negatywnego wyniku egzaminu przepis art. 43zm stosuje się odpowiednio.
+
+12. W przypadku nieprzystąpienia do egzaminu z przyczyn nieusprawiedliwionych przepis art. 43zm stosuje się odpowiednio.”;
+
+- **41)** w art. 43zm ust. 1 otrzymuje brzmienie: „1. Funkcjonariusz, który uzyskał negatywny wynik egzaminu, o którym mowa w art. 43zl ust. 1–3, może złożyć do Rektora wniosek o dopuszczenie do egzaminu poprawkowego.”;
+- **42)** w art. 43zn:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Nadzór nad organizacją i metodyką szkoleń specjalistycznych dla funkcjonariuszy IWSW i pracowników IWSW sprawuje Szef IWSW.”,
+    - **b)** w ust. 6 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) w IWSW – Szef IWSW;”;
+
+- **43)** po art. 44 dodaje się art. 44a w brzmieniu: „Art. 44a. 1. Do mianowania i powołania funkcjonariusza na stanowisko kierownicze, w tym stanowisko kierownika komórki organizacyjnej, wymagane jest ukończenie przez tego funkcjonariusza studiów podyplomowych na Uczelni, w których programie uwzględniono cele i efekty uczenia się oraz treści związane z zarządzaniem komórkami organizacyjnymi.
+
+2. Do powołania funkcjonariusza na wyższe stanowisko kierownicze, o którym mowa w art. 63 ust. 1, wymagane jest ukończenie przez tego funkcjonariusza studiów podyplomowych na Uczelni, w których programie uwzględniono cele i efekty uczenia się oraz treści związane z zarządzaniem jednostkami organizacyjnymi.
+
+3. W uzasadnionych przypadkach mianować albo powołać na stanowisko kierownicze albo powołać na wyższe stanowisko kierownicze można funkcjonariusza, który nie spełnia warunków wymienionych w ust. 1 albo 2. Funkcjonariusz jest obowiązany do ukończenia studiów podyplomowych, o których mowa w ust. 1 albo 2, w okresie 3 lat od mianowania albo powołania na stanowisko kierownicze albo powołania na wyższe stanowisko kierownicze.”;
+
+- **44)** art. 46 otrzymuje brzmienie: „Art. 46. Mianowania funkcjonariusza na stanowisko służbowe, z wyjątkiem stanowisk, o których mowa w rozdziale 8, dokonuje kierownik jednostki organizacyjnej.”;
+- **45)** w art. 47 w ust. 1:
+    - **a)** zdanie drugie otrzymuje brzmienie: „Funkcjonariusza przyjętego do służby albo do służby na Uczelni można mianować, za zgodą odpowiednio Dyrektora Generalnego albo Rektora, na stanowisko oficerskie przed uzyskaniem kwalifikacji w zakresie szkolenia i stażu w służbie oraz przed złożeniem egzaminu na pierwszy stopień oficerski, jeżeli spełnia wymogi w zakresie wykształcenia, o którym mowa w art. 44 ust. 2.”,
+    - **b)** dodaje się zdanie trzecie w brzmieniu: „W stosunku do funkcjonariuszy IWSW zgodę wydaje Szef IWSW.”;
+
+- **46)** w art. 48: Przepisu art. 72 nie stosuje się.”;
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W szczególnie uzasadnionych przypadkach Dyrektor Generalny, a na Uczelni – Rektor, na wniosek właściwego przełożonego, mogą wyrazić zgodę na mianowanie funkcjonariusza na stanowisko służbowe przed uzyskaniem przez niego kwalifikacji zawodowych oraz stażu służby wymaganych na tym stanowisku, jeżeli spełnia on wymagania w zakresie wykształcenia. Kwalifikacje zawodowe funkcjonariusz jest obowiązany uzyskać w okresie 3 lat od mianowania na stanowisko służbowe.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W stosunku do funkcjonariuszy IWSW zgodę, o której mowa w ust. 1, wydaje Szef IWSW.”,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Dyrektor Generalny może, w szczególnie uzasadnionych przypadkach, na wniosek właściwego przełożonego, nadać stopień młodszego chorążego Służby Więziennej funkcjonariuszowi, który nie spełnia wymagań w zakresie wykształcenia. Nadanie kolejnego stopnia w korpusie chorążych następuje na wniosek właściwego przełożonego z uwzględnieniem art. 52 ust. 2 pkt 3 i art. 53.”,
+    - **d)** dodaje się ust. 3 w brzmieniu: „3. W przypadku nieuzupełnienia kwalifikacji zawodowych przez funkcjonariusza, o którym mowa w ust. 1 albo 1a, z przyczyn leżących po stronie tego funkcjonariusza właściwy przełożony przenosi funkcjonariusza na poprzednio zajmowane stanowisko albo stanowisko równorzędne ze stanowiskiem zajmowanym przed mianowaniem, o którym mowa w ust. 1.
+
+- **47)** w art. 49:
+    - **a)** w pkt 3 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d i e w brzmieniu: „d) chorąży sztabowy Służby Więziennej,
+    - **e)** starszy chorąży sztabowy Służby Więziennej;”,
+    - **b)** w pkt 4 w lit. g kropkę zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „h) generał inspektor Służby Więziennej.”;
+
+- **48)** w art. 50:
+    - **a)** w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „3) Szef IWSW – funkcjonariuszom pełniącym służbę w IWSW;
+
+- **4)** Rektor – funkcjonariuszom pełniącym służbę na Uczelni.”,
+    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Stopnie w korpusie chorążych Służby Więziennej nadaje Szef IWSW funkcjonariuszom IWSW.
+
+3b. Stopnie w korpusie chorążych Służby Więziennej nadaje Rektor funkcjonariuszom pełniącym służbę na Uczelni.”,
+
+- **c)** ust. 4 otrzymuje brzmienie: „4. Pierwszy stopień w korpusie oficerów Służby Więziennej, stopień generała Służby Więziennej oraz stopień generała inspektora Służby Więziennej nadaje Prezydent Rzeczypospolitej Polskiej na wniosek Ministra Sprawiedliwości. Pozostałe stopnie w korpusie oficerów Służby Więziennej nadaje Minister Sprawiedliwości.”;
+- **49)** art. 51 otrzymuje brzmienie: „Art. 51. 1. Pierwszy stopień w korpusie podoficerów, korpusie chorążych i korpusie oficerów może być nadany funkcjonariuszowi, który złożył egzamin odpowiednio na pierwszy stopień podoficerski, chorążego albo oficerski, a ponadto:
+- **1)** posiada aktualną pozytywną opinię służbową;
+- **2)** nie toczy się przeciwko niemu postępowanie karne o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe lub postępowanie dyscyplinarne;
+- **3)** nie był skazany za nieumyślne przestępstwo ścigane z oskarżenia publicznego lub za nieumyślne przestępstwo skarbowe;
+- **4)** w przypadku gdy wobec funkcjonariusza warunkowo umorzono postępowanie karne – upłynęło 6 miesięcy od zakończenia okresu próby;
+- **5)** w przypadku gdy funkcjonariuszowi wymierzona została kara dyscyplinarna – nastąpiło zatarcie lub darowanie tej kary.
+
+2. Przed nadaniem stopnia, o którym mowa w ust. 1, funkcjonariusz podlega opiniowaniu służbowemu, jeżeli od dnia wydania ostatniej opinii służbowej o tym funkcjonariuszu upłynęło co najmniej 6 miesięcy.”;
+
+- **50)** w art. 52:
+    - **a)** w ust. 2: – pkt 1 otrzymuje brzmienie: „1) w korpusie szeregowych Służby Więziennej w stopniu szeregowego Służby Więziennej – rok;”, – w pkt 3 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c i d w brzmieniu: „c) starszego chorążego Służby Więziennej – 3 lata,
+    - **d)** chorążego sztabowego Służby Więziennej – 3 lata;”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Stopień generała inspektora Służby Więziennej może być nadany generałowi Służby Więziennej powołanemu na stanowisko Dyrektora Generalnego.”;
+
+- **51)** po art. 53 dodaje się art. 53a w brzmieniu: „Art. 53a. 1. Osobie przyjmowanej do służby w trybie art. 39, która posiada stopień wojskowy, Policji, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Celno-Skarbowej, Służby Wywiadu Wojskowego albo Służby Kontrwywiadu Wojskowego, można nadać odpowiedni stopień Służby Więziennej.
+
+2. Nadanie stopnia, o którym mowa w ust. 1, następuje po ukończeniu na Uczelni odpowiednio studiów pierwszego stopnia, studiów drugiego stopnia lub studiów podyplomowych przygotowujących do zajmowania stanowisk oficerskich albo właściwego szkolenia zawodowego i uzyskaniu pozytywnego wyniku egzaminu, o którym mowa odpowiednio w art. 43zl ust. 1–3. Przepisy art. 50 ust. 2–3b stosuje się.
+
+3. W przypadku przyjmowania do służby osoby posiadającej stopień wojskowy podporucznika, stopień podkomisarza Policji, Służby Celno-Skarbowej albo Straży Marszałkowskiej lub stopień podporucznika Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego albo Służby Kontrwywiadu Wojskowego odpowiedni pierwszy stopień oficerski Służby Więziennej nadaje Minister Sprawiedliwości.”;
+
+- **52)** w art. 54 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–6 w brzmieniu: „2. Utrata stopnia Służby Więziennej następuje w razie stwierdzenia wygaśnięcia stosunku służbowego funkcjonariusza w przypadkach:
+- **1)** zrzeczenia się obywatelstwa polskiego;
+- **2)** skazania prawomocnym wyrokiem sądu na środek karny w postaci pozbawienia praw publicznych;
+- **3)** skazania prawomocnym wyrokiem sądu na karę pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe, jeżeli jej wykonanie nie zostało warunkowo zawieszone.
+
+3. Obniżenie stopnia Służby Więziennej następuje w przypadku prawomocnego orzeczenia wobec funkcjonariusza w postępowaniu dyscyplinarnym kary obniżenia stopnia albo kary wyznaczenia na niższe stanowisko służbowe wraz z obniżeniem stopnia.
+
+4. Anulowanie funkcjonariuszowi stopnia Służby Więziennej może nastąpić w okresie między nadaniem tego stopnia a jego wręczeniem w szczególnie uzasadnionych przypadkach podyktowanych dobrem służby.
+
+5. Utrata stopnia lub jego obniżenie następuje na podstawie rozkazu personalnego wydawanego przez organ uprawniony do nadania tego stopnia. Rozkaz personalny o utracie lub obniżeniu stopnia podporucznika, nadanego postanowieniem Prezydenta Rzeczypospolitej Polskiej w trybie art. 50 ust. 4, wydaje Minister Sprawiedliwości.
+
+6. Anulowania nadania funkcjonariuszowi stopnia Służby Więziennej dokonuje organ uprawniony do jego nadania.”;
+
+- **53)** w art. 55 pkt 6 otrzymuje brzmienie: „6) tryb nadawania, obniżania i anulowania funkcjonariuszom stopni”;
+- **54)** w art. 58 dodaje się ust. 4–6 w brzmieniu: „4. Funkcjonariusze IWSW otrzymują dodatek specjalny o charakterze stałym w wysokości do 30% kwoty bazowej.
+
+5. Szef IWSW ustala wysokość dodatku specjalnego, o którym mowa w ust. 4, na wniosek kierownika komórki organizacyjnej IWSW, w której funkcjonariusz IWSW pełni służbę, a kierownikom tych komórek organizacyjnych – bezpośrednio. Wysokość dodatku specjalnego ustala się, biorąc po uwagę zakres i charakter realizowanych zadań.
+
+6. Minister Sprawiedliwości ustala wysokość dodatku specjalnego, o którym mowa w ust. 4, Szefowi IWSW będącemu funkcjonariuszem bezpośrednio, a jego zastępcom będącym funkcjonariuszami – na wniosek Szefa IWSW.”;
+
+- **55)** w art. 60a dodaje się ust. 6 w brzmieniu: „6. W sprawach dotyczących miesięcznego uposażenia funkcjonariuszy za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego i urlopu rodzicielskiego w zakresie nieuregulowanym niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy oraz ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.”;
+- **56)** po art. 60i dodaje się art. 60j w brzmieniu: „Art. 60j. Funkcjonariuszowi w okresie urlopu wychowawczego nie przysługuje uposażenie.”;
+- **57)** w art. 62:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Uposażenie zasadnicze i dodatki do uposażenia o charakterze stałym są wypłacane w formie bezgotówkowej na wskazany numer rachunku bankowego w terminie, o którym mowa w ust. 2.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Uposażenie zasadnicze i dodatki do uposażenia o charakterze stałym na pisemny wniosek funkcjonariusza mogą być wypłacane bezpośrednio do rąk funkcjonariusza.”;
+
+- **58)** w art. 62i ust. 1 otrzymuje brzmienie: „1. Po ukończeniu studiów pierwszego stopnia na Uczelni funkcjonariusz w służbie kandydackiej ma prawo przystąpić do egzaminu na pierwszy stopień w korpusie chorążych Służby Więziennej.”;
+- **59)** w art. 62j ust. 1 otrzymuje brzmienie: „1. Po ukończeniu studiów drugiego stopnia na Uczelni funkcjonariusz w służbie kandydackiej ma prawo przystąpić do egzaminu na pierwszy stopień w korpusie oficerów Służby Więziennej.”;
+- **60)** tytuł rozdziału 8 otrzymuje brzmienie: „Stanowiska służbowe w Służbie Więziennej zajmowane na podstawie powołania”;
+- **61)** po art. 62n w rozdziale 8 dodaje się art. 62o w brzmieniu: „Art. 62o. Stanowiska służbowe w Służbie Więziennej zajmowane na podstawie powołania obejmują:
+- **1)** wyższe stanowiska kierownicze w Służbie Więziennej;
+- **2)** stanowiska służbowe, o których mowa w art. 67a.”;
+- **62)** art. 63 otrzymuje brzmienie: „Art. 63. 1. Stanowiska:
+- **1)** Dyrektora Generalnego,
+- **2)** Szefa IWSW,
+- **3)** zastępcy Dyrektora Generalnego,
+- **4)** zastępcy Szefa IWSW,
+- **5)** dyrektora okręgowego,
+- **6)** zastępcy dyrektora okręgowego,
+- **7)** dyrektora zakładu karnego i dyrektora aresztu śledczego,
+- **8)** zastępcy dyrektora zakładu karnego i zastępcy dyrektora aresztu śledczego,
+- **9)** Rektora, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej i komendanta ośrodka doskonalenia kadr Służby Więziennej,
+- **10)** prorektora Uczelni, zastępcy Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, zastępcy komendanta ośrodka szkolenia Służby Więziennej i zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej – są wyższymi stanowiskami kierowniczymi w Służbie Więziennej.
+
+2. Przełożonym osoby zajmującej wyższe stanowisko kierownicze w Służbie Więziennej, jeżeli przepisy ustawy nie stanowią inaczej, jest:
+
+- **1)** Minister Sprawiedliwości – w odniesieniu do Dyrektora Generalnego oraz Szefa IWSW;
+- **2)** Dyrektor Generalny – w odniesieniu do zastępcy Dyrektora Generalnego, dyrektora okręgowego, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej oraz komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego;
+- **3)** Szef IWSW – w odniesieniu do zastępcy Szefa IWSW;
+- **4)** dyrektor okręgowy ‒ w odniesieniu do zastępcy dyrektora okręgowego, dyrektora zakładu karnego i dyrektora aresztu śledczego oraz komendanta ośrodka doskonalenia kadr Służby Więziennej;
+- **5)** Rektor – w odniesieniu do prorektora Uczelni;
+- **6)** dyrektor zakładu karnego i dyrektor aresztu śledczego, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, komendant ośrodka szkolenia Służby Więziennej i komendant ośrodka doskonalenia kadr Służby Więziennej – w odniesieniu do swoich zastępców.
+
+3. W przypadkach uzasadnionych potrzebami służby Dyrektor Generalny może przejąć kompetencje dyrektora okręgowego w sprawach ze stosunku służbowego.”;
+
+- **63)** w art. 64:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Szefa IWSW powołuje i odwołuje Minister Sprawiedliwości.”,
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Zastępców Szefa IWSW powołuje i odwołuje Minister Sprawiedliwości na wniosek Szefa IWSW.
+
+4. W razie zwolnienia stanowiska Szefa IWSW Minister Sprawiedliwości, do czasu powołania nowego Szefa, powierza pełnienie obowiązków Szefa IWSW, na okres nie dłuższy niż 6 miesięcy, jednemu z zastępców Szefa IWSW lub wyznaczonemu przez siebie oficerowi spośród funkcjonariuszy IWSW.”;
+
+- **64)** art. 66a otrzymuje brzmienie: „Art. 66a. 1. Senat Uczelni powołuje Rektora na pięcioletnią kadencję spośród pracowników Uczelni lub funkcjonariuszy pełniących służbę na Uczelni, posiadających co najmniej stopień doktora.
+
+2. Powołanie, o którym mowa w ust. 1, następuje nie wcześniej niż 9 miesięcy i nie później niż 4 miesiące przed upływem bieżącej kadencji Rektora.
+
+3. Rektor powołuje i odwołuje prorektorów Uczelni spośród pracowników Uczelni lub funkcjonariuszy pełniących służbę na Uczelni, posiadających co najmniej stopień doktora.
+
+4. Kadencja Rektora wygasa w przypadku:
+
+- **1)** upływu jego kadencji;
+- **2)** jego śmierci;
+- **3)** złożenia przez niego rezygnacji;
+- **4)** pisemnego zgłoszenia przez niego wystąpienia ze służby albo rozwiązania przez niego umowy o pracę;
+- **5)** jego odwołania.
+
+5. Senat Uczelni odwołuje Rektora przed upływem kadencji, jeżeli:
+
+- **1)** nie wypełnia on swoich obowiązków na skutek choroby trwającej nieprzerwanie przez okres co najmniej 180 dni w roku kalendarzowym;
+- **2)** został on skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
+
+6. Sprawy ze stosunku służbowego Rektora, w szczególności określone w art. 88, art. 98 i art. 192, rozstrzyga Senat Uczelni w formie pisemnej.”;
+
+- **65)** w art. 67 ust. 1 otrzymuje brzmienie: „1. Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej i komendanta ośrodka doskonalenia kadr Służby Więziennej powołuje i odwołuje ze stanowiska Dyrektor Generalny.”;
+- **66)** po art. 67 dodaje się art. 67a w brzmieniu: „Art. 67a. 1. Stanowiskami służbowymi zajmowanymi na podstawie powołania, innymi niż wyższe stanowiska kierownicze w Służbie Więziennej, są:
+- **1)** w Centralnym Zarządzie Służby Więziennej:
+    - **a)** dyrektor biura,
+    - **b)** zastępca dyrektora biura,
+    - **c)** główny księgowy Centralnego Zarządu Służby Więziennej,
+    - **d)** naczelnik wydziału,
+    - **e)** kierownik zespołu;
+
+- **2)** w IWSW – naczelnik wydziału zamiejscowego;
+- **3)** w okręgowym inspektoracie Służby Więziennej:
+    - **a)** główny księgowy,
+    - **b)** naczelny lekarz,
+    - **c)** kierownik zespołu;
+
+- **4)** w Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej, ośrodku doskonalenia kadr Służby Więziennej:
+    - **a)** kierownik zakładu,
+    - **b)** kierownik oddziału zamiejscowego,
+    - **c)** główny księgowy,
+    - **d)** kierownik działu,
+    - **e)** kierownik ambulatorium,
+    - **f)** zastępca kierownika działu,
+    - **g)** kierownik zespołu;
+
+- **5)** w zakładzie karnym i areszcie śledczym:
+    - **a)** kierownik oddziału,
+    - **b)** główny księgowy,
+    - **c)** dyrektor szpitala,
+    - **d)** ordynator,
+    - **e)** kierownik działu,
+    - **f)** kierownik ambulatorium,
+    - **g)** kierownik domu matki i dziecka,
+    - **h)** kierownik poradni lub pracowni,
+    - **i)** kierownik ośrodka diagnostycznego,
+    - **j)** kierownik apteki,
+    - **k)** zastępca kierownika działu,
+    - **l)** kierownik zespołu.
+
+2. Powołania funkcjonariusza na stanowisko służbowe, o którym mowa w ust. 1, dokonuje kierownik jednostki organizacyjnej.”;
+
+- **67)** w art. 68 ust. 4–6 otrzymują brzmienie: „4. Funkcjonariusza odwołanego z zajmowanego stanowiska można przenieść za jego zgodą odpowiednio do dyspozycji właściwego przełożonego, o którym mowa w art. 63 ust. 2, będącego przełożonym tego funkcjonariusza. Okres pozostawania funkcjonariusza w dyspozycji nie może być dłuższy niż 6 miesięcy. Po upływie tego okresu funkcjonariusza powołuje się albo przenosi na inne stanowisko służbowe. Powołanie albo przeniesienie na stanowisko służbowe niższe od dotychczas zajmowanego następuje za zgodą funkcjonariusza. Przepis art. 72 ust. 1 stosuje się. W przypadku niewyrażenia zgody przez funkcjonariusza zwalnia się go ze służby.
+
+5. W okresie pozostawania w dyspozycji funkcjonariusz zachowuje prawo do uposażenia i innych świadczeń pieniężnych przysługujących na ostatnio zajmowanym na podstawie powołania stanowisku służbowym, z uwzględnieniem powstałych w tym okresie zmian mających wpływ na prawo do uposażenia i innych świadczeń pieniężnych albo na ich wysokość.
+
+6. W okresie pozostawania w dyspozycji funkcjonariusz jest obowiązany wykonywać obowiązki służbowe na polecenie przełożonego, w którego dyspozycji pozostaje, oraz jest funkcjonariuszem jednostki organizacyjnej, w której pełni służbę przełożony, o którym mowa w ust. 4.”;
+
+- **68)** po art. 69 dodaje się art. 69a w brzmieniu: „Art. 69a. 1. W szczególnie uzasadnionych przypadkach na wniosek funkcjonariusza, pozytywnie zaopiniowany przez Rektora, Dyrektor Generalny może przenieść funkcjonariusza ze służby przygotowawczej do służby kandydackiej, jeżeli funkcjonariusz ukończył kurs przygotowawczy oraz posiada pozytywną opinię służbową.
+
+2. Rektor może pozytywnie zaopiniować wniosek funkcjonariusza o przeniesienie ze służby przygotowawczej do służby kandydackiej w przypadku posiadania miejsc w ramach limitu przyjęć na studia ustalonego przez Ministra Sprawiedliwości, określając poziom, kierunek i profil studiów dla funkcjonariusza.”;
+
+- **69)** w art. 70: ponowne lub dalsze delegowanie przed upływem 2 lat wymaga zgody funkcjonariusza. Funkcjonariusz może być delegowany również na własną prośbę, jeżeli nie stoją temu na przeszkodzie względy służbowe.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Funkcjonariusz może być z urzędu delegowany na okres do 12 miesięcy do czasowego pełnienia służby w innej jednostce organizacyjnej, w tym do instytucji gospodarki budżetowej, o której mowa w art. 8 ust. 5, w przypadkach uzasadnionych ważnymi potrzebami służby;
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Funkcjonariusz może być w każdym czasie z urzędu odwołany z delegowania. Funkcjonariusz może być odwołany z delegowania również na własną prośbę, jeżeli nie stoją temu na przeszkodzie względy służbowe.”;
+
+- **70)** w art. 72:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Funkcjonariusz przeniesiony lub powołany na stanowisko służbowe zaszeregowane do niższego uposażenia zasadniczego zachowuje prawo do uposażenia pobieranego na poprzednio zajmowanym stanowisku do czasu uzyskania uposażenia zasadniczego równego dotychczas pobieranemu lub wyższego.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Rektor albo Szef IWSW w przypadkach szczególnie uzasadnionych może wyrazić zgodę na zachowanie przez podległego funkcjonariusza, o którym mowa w ust. 2, przeniesionego lub powołanego na stanowisko służbowe zaszeregowane do niższego uposażenia zasadniczego, prawa do uposażenia należnego na poprzednio zajmowanym stanowisku.”;
+
+- **71)** w art. 73:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W razie:
+
+- **1)** powołania na wyższe stanowisko kierownicze w Służbie Więziennej do pełnienia służby w innej jednostce organizacyjnej położonej w innej miejscowości lub
+- **2)** przeniesienia z urzędu do pełnienia służby w innej jednostce organizacyjnej położonej w innej miejscowości albo
+- **3)** delegowania do czasowego pełnienia służby w innej jednostce organizacyjnej położonej w innej miejscowości – funkcjonariuszowi przysługuje prawo do lokalu mieszkalnego albo kwatery tymczasowej, o których mowa w rozdziale 18.”,
+    - **b)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Funkcjonariuszowi powołanemu na wyższe stanowisko kierownicze w Służbie Więziennej lub przeniesionemu z urzędu do pełnienia służby w innej jednostce organizacyjnej położonej w innej miejscowości przysługują należności z tytułu przeniesień:”;
+
+- **72)** w art. 75 dodaje się ust. 3 w brzmieniu: „3. W odpowiedzi na informację o naborze w instytucji zagranicznej funkcjonariusz może wystąpić drogą służbową do Dyrektora Generalnego z wnioskiem o oddelegowanie do pełnienia służby w tej instytucji.”;
+- **73)** w art. 80 dodaje się ust. 4 w brzmieniu: „4. W przypadku określenia zasad i trybu finansowania oddelegowania w umowie z organami instytucji zagranicznej nie stosuje się przepisów ustawy w zakresie finansowania funkcjonariusza oddelegowanego do pełnienia służby w instytucji zagranicznej.”;
+- **74)** w art. 83:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przełożony, o którym mowa w art. 63 ust. 2, może powierzyć funkcjonariuszowi na czas nieprzekraczający 12 miesięcy obowiązki służbowe na wyższym stanowisku kierowniczym w jednostce organizacyjnej z uposażeniem należnym na tym stanowisku służbowym.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Jeżeli zachodzi konieczność zastępstwa funkcjonariusza w czasie jego długotrwałej nieobecności w służbie, przełożony może w tym celu powierzyć innemu funkcjonariuszowi pełnienie obowiązków służbowych na stanowisku zajmowanym przez nieobecnego funkcjonariusza przez okres trwania jego nieobecności; w takim przypadku uposażenie funkcjonariusza nie może być obniżone.”,
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przełożony może w każdym czasie z urzędu lub na prośbę funkcjonariusza odwołać go z pełnienia powierzonych obowiązków na stanowiskach, o których mowa w ust. 1 i 2, w szczególności jeżeli ustała konieczność powierzenia obowiązków służbowych lub zastępstwa nieobecnego funkcjonariusza.”,
+    - **d)** ust. 3 otrzymuje brzmienie: „3. Po upływie maksymalnego okresu powierzenia funkcjonariuszowi obowiązków służbowych na innym stanowisku, o którym mowa w ust. 1 i 1a, ponowne powierzenie lub przedłużenie powierzenia obowiązków na tym samym stanowisku służbowym może nastąpić w wyjątkowych i uzasadnionych przypadkach, za zgodą tego funkcjonariusza; przerwa w wykonywaniu tych obowiązków wynosi co najmniej 12 miesięcy.”;
+
+- **75)** art. 88 otrzymuje brzmienie: „Art. 88. Opinie służbowe wydają:
+- **1)** Minister Sprawiedliwości – o Dyrektorze Generalnym i Szefie IWSW;
+- **2)** Dyrektor Generalny – o swoich zastępcach, kierownikach komórek organizacyjnych w Centralnym Zarządzie Służby Więziennej, dyrektorach okręgowych, Komendancie Centralnego Ośrodka Szkolenia Służby Więziennej, komendantach ośrodków szkolenia Służby Więziennej oraz komendantach ośrodków doskonalenia kadr Służby Więziennej bezpośrednio mu podległych;
+- **3)** Szef IWSW – o swoich zastępcach i naczelnikach;
+- **4)** dyrektor okręgowy – na terenie swojego działania – o swoich zastępcach i funkcjonariuszach pełniących służbę w okręgowym inspektoracie Służby Więziennej, dyrektorach zakładów karnych i dyrektorach aresztów śledczych oraz komendantach ośrodków doskonalenia kadr Służby Więziennej;
+- **5)** Rektor – o prorektorach Uczelni, kierownikach komórek organizacyjnych Uczelni oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych na Uczelni;
+- **6)** Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, komendant ośrodka szkolenia Służby Więziennej, komendant ośrodka doskonalenia kadr Służby Więziennej – odpowiednio o swoich zastępcach, kierownikach komórek organizacyjnych oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych;
+- **7)** dyrektor zakładu karnego i dyrektor aresztu śledczego – o swoich zastępcach, kierownikach komórek organizacyjnych oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych;
+- **8)** kierownik komórki organizacyjnej – o podległych mu bezpośrednio funkcjonariuszach;
+- **9)** przełożony właściwy w czasie delegowania – o funkcjonariuszach delegowanych do czasowego pełnienia służby w innej jednostce organizacyjnej.”;
+- **76)** w art. 90:
+    - **a)** ust. 4 otrzymuje brzmienie: „4. Jeżeli opinia została wydana przez Ministra Sprawiedliwości, Dyrektor Generalny lub Szef IWSW mogą zwrócić się do Ministra Sprawiedliwości z wnioskiem o jej zmianę.”,
+    - **b)** dodaje się ust. 5 w brzmieniu: „5. Jeżeli opinia została wydana przez Rektora, osoby, o których mowa w art. 88 pkt 5, mogą zwrócić się do Rektora z wnioskiem o jej zmianę.”;
+
+- **77)** art. 94 otrzymuje brzmienie: „Art. 94. 1. Funkcjonariusza zawiesza się w czynnościach służbowych w razie tymczasowego aresztowania.
+
+2. Funkcjonariusza można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe, umyślne albo nieumyślne, lub wszczęcia postępowania dyscyplinarnego, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro służby.
+
+3. W razie wniesienia przeciwko funkcjonariuszowi aktu oskarżenia określonego w art. 55 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego stosuje się odpowiednio ust. 2.
+
+4. Zawieszenie może nastąpić na czas nie dłuższy niż 3 miesiące. Jeżeli okres tymczasowego aresztowania jest dłuższy niż 3 miesiące, zawieszenie ulega z mocy prawa przedłużeniu do czasu zakończenia tymczasowego aresztowania.
+
+5. W szczególnie uzasadnionych przypadkach okres zawieszenia w czynnościach służbowych można przedłużyć do czasu zakończenia postępowania karnego, karnego skarbowego lub dyscyplinarnego.
+
+6. Zawieszenia oraz uchylenia zawieszenia w czynnościach służbowych dokonuje przełożony właściwy do mianowania funkcjonariusza na zajmowane stanowisko służbowe.”;
+
+- **78)** w art. 95 w ust. 2 skreśla się wyrazy „wydalenia ze służby”;
+- **79)** w art. 96:
+    - **a)** w ust. 2: – pkt 6 otrzymuje brzmienie: „6) nieobecności w służbie spowodowanej chorobą, trwającej nieprzerwanie przez okres 12 miesięcy, lub jeżeli nieobecność w służbie spowodowana chorobą w okresie ostatnich 2 lat wyniosła łącznie powyżej 500 dni;”, – uchyla się pkt 9,
+    - **b)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Funkcjonariusz w pisemnym zgłoszeniu wystąpienia ze służby może wskazać termin zwolnienia.
+
+3b. Jeżeli ze względu na potrzeby służby zwolnienie funkcjonariusza w terminie, o którym mowa w ust. 3a, nie jest możliwe, przełożony zwalnia go w terminie określonym w ust. 3, chyba że funkcjonariusz wycofa pisemne zgłoszenie wystąpienia ze służby.
+
+3c. Przepisów ust. 3–3b nie stosuje się do funkcjonariusza pełniącego służbę w jednostce organizacyjnej objętej militaryzacją.”,
+
+- **c)** dodaje się ust. 6 w brzmieniu: „6. Do okresu nieobecności w służbie, o którym mowa w ust. 2 pkt 6, wlicza się okresy poprzedniej nieobecności spowodowanej chorobą, jeżeli przerwa pomiędzy ustaniem poprzedniej a powstaniem ponownej nieobecności nie przekraczała 60 dni.”;
+- **80)** art. 98 otrzymuje brzmienie: „Art. 98. 1. Zwolnienia ze służby albo stwierdzenia wygaśnięcia stosunku służbowego dokonuje:
+- **1)** przełożony, o którym mowa w art. 63 ust. 2 – w stosunku do funkcjonariusza powołanego na wyższe stanowisko kierownicze;
+- **2)** przełożony właściwy do powołania funkcjonariusza na stanowisko służbowe, o którym mowa w art. 67a ust. 1 – w stosunku do funkcjonariusza powołanego na to stanowisko;
+- **3)** przełożony właściwy do mianowania funkcjonariusza na ostatnio zajmowane stanowisko służbowe – w stosunku do funkcjonariusza mianowanego na to stanowisko.
+
+2. Zwolnienia ze służby z przyczyny określonej w art. 96 ust. 2 pkt 10 dokonuje przełożony przełożonego, o którym mowa w ust. 1.
+
+3. Zwolnienia ze służby Dyrektora Generalnego oraz Szefa IWSW dokonuje Minister Sprawiedliwości.
+
+4. Na Uczelni zwolnienia ze służby z przyczyny określonej w art. 96 ust. 2 pkt 10 dokonuje Rektor.”;
+
+- **81)** art. 99 otrzymuje brzmienie: „Art. 99. 1. Funkcjonariusz w służbie stałej zwolniony ze służby na podstawie art. 96 ust. 1 pkt 2 albo ust. 2 pkt 1–8 i 10, a także art. 68 ust. 4 oraz funkcjonariusz w służbie stałej, którego stosunek służbowy wygasł na podstawie art. 97 ust. 1 pkt 1, otrzymuje odprawę.
+
+2. Funkcjonariusz w służbie przygotowawczej, którego stosunek służbowy wygasł na podstawie art. 97 ust. 1 pkt 1, otrzymuje odprawę w wysokości trzymiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym należnego na ostatnio zajmowanym stanowisku służbowym.”;
+
+- **82)** po art. 105 dodaje się art. 105a w brzmieniu: „Art. 105a. Do pracownika, z którym stosunek pracy uległ rozwiązaniu z jego winy bez wypowiedzenia lub na własną prośbę przed upływem 5 lat od odbycia kursu przygotowawczego lub szkolenia zawodowego, a także studiów na Uczelni albo studiów podyplomowych na Uczelni, stosuje się odpowiednio przepisy art. 103 ust. 1 i 2 pkt 1, 3 i 4, ust. 3 i 4, art. 104, art. 105 i art. 106 ust. 1.”;
+- **83)** w art. 107 uchyla się ust. 2;
+- **84)** po art. 109 dodaje się art. 109a i art. 109b w brzmieniu: „Art. 109a. 1. Funkcjonariuszowi, który po zwolnieniu ze służby w Służbie Więziennej podjął pracę, okres tej służby wlicza się do okresu zatrudnienia w zakresie uprawnień wynikających z prawa pracy.
+
+2. Przepisu ust. 1 nie stosuje się do funkcjonariusza, którego stosunek służbowy wygasł na podstawie art. 97 ust. 1 pkt 2, 3 i 5.
+
 **Art. 109b.** Okres służby traktuje się jako pracę w szczególnym charakterze w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.”;
+
+- **85)** w art. 110 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Badania psychologiczne mogą być wykonywane przez psychologów zatrudnionych w jednostkach organizacyjnych przed skierowaniem kandydata do służby w Służbie Więziennej lub funkcjonariusza do komisji lekarskiej.”;
+- **86)** w art. 112 ust. 4 otrzymuje brzmienie: „4. Jeżeli jest to uzasadnione stanem zdrowia funkcjonariusza, jednostka służby medycyny pracy, działając z urzędu, może wystąpić do jego przełożonego z wnioskiem o skierowanie tego funkcjonariusza do komisji lekarskiej w celu określenia stanu zdrowia oraz ustalenia zdolności fizycznej i psychicznej do służby, jak również związku poszczególnych schorzeń ze szczególnymi warunkami i właściwościami służby. Z wnioskiem, o którym mowa w zdaniu pierwszym, może również wystąpić do swojego przełożonego funkcjonariusz.”;
+- **87)** po art. 112 dodaje się art. 112a w brzmieniu: „Art. 112a. 1. W celu ustalenia zdolności do wykonywania zadań na zajmowanym stanowisku służbowym funkcjonariusz jest obowiązany poddać się badaniom okresowym, kontrolnym lub innym wynikającym z pogorszenia stanu zdrowia, ze zmiany stanowiska pracy lub zmiany warunków pełnienia służby oraz określonym w art. 113, zwanym dalej „badaniami profilaktycznymi”, w terminie wskazanym w skierowaniu na takie badanie.
+
+2. Badania profilaktyczne wykonuje się na podstawie skierowania wystawianego przez:
+
+- **1)** przełożonego;
+- **2)** Ministra Sprawiedliwości w stosunku do Dyrektora Generalnego oraz Szefa IWSW;
+- **3)** Senat Uczelni w stosunku do Rektora.
+
+3. Na pierwsze badanie okresowe funkcjonariusz jest kierowany nie później niż 60 dni przed mianowaniem na stałe.
+
+4. Rodzaj, zakres i częstotliwość badań profilaktycznych są uzależnione od czynników narażenia wynikających z charakterystyki służby pełnionej przez funkcjonariusza.
+
+5. Lekarz wykorzystuje wskazówki metodyczne w sprawie przeprowadzania badań profilaktycznych pracowników określone w przepisach wykonawczych wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+6. Lekarz przeprowadzający badania profilaktyczne, w celu uwzględnienia wszystkich czynników szkodliwych lub uciążliwych i innych wynikających z warunków pełnienia służby wskazanych w skierowaniu na badania, może poszerzyć ich zakres o dodatkowe badania lekarskie, konsultacje u lekarzy specjalistów lub badania diagnostyczne, a także wyznaczyć termin następnego badania profilaktycznego krótszy niż wynikałoby to z przepisów wykonawczych wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, jeżeli stwierdzi, że jest to niezbędne dla ustalenia zdolności do wykonywania zadań na zajmowanym stanowisku służbowym. Badania i konsultacje stanowią część badań profilaktycznych.
+
+7. Skierowanie na badania profilaktyczne zawiera w szczególności imię i nazwisko, numer PESEL, adres zamieszkania, stanowisko służbowe funkcjonariusza kierowanego na badania oraz opis warunków pełnienia służby występujących na zajmowanym stanowisku służbowym, w tym czynników szkodliwych lub uciążliwych, o których mowa w przepisach wykonawczych wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+8. Skierowanie na badania:
+
+- **1)** kontrolne – wystawia się najpóźniej w dniu zgłoszenia się funkcjonariusza do służby po zakończeniu zwolnienia lekarskiego;
+- **2)** okresowe – wystawia się nie później niż w terminie 30 dni przed upływem ważności orzeczenia lekarskiego;
+- **3)** inne, wynikające ze zmiany stanowiska pracy, zmiany warunków pełnienia służby i określone w art. 113 – wystawia się niezwłocznie, przed podjęciem zatrudnienia w warunkach opisanych w skierowaniu.
+
+9. Skierowanie na badania profilaktyczne wystawia się w 3 egzemplarzach, dla:
+
+- **1)** lekarza przeprowadzającego badania;
+- **2)** funkcjonariusza;
+- **3)** przełożonego – do akt osobowych funkcjonariusza.
+
+10. Badania profilaktyczne przeprowadza się w godzinach służby.
+
+11. Na badanie kontrolne funkcjonariusz zgłasza się z pełną dokumentacją medyczną z przebytego leczenia.
+
+12. Badania profilaktyczne kończą się orzeczeniem lekarskim stwierdzającym:
+
+- **1)** brak przeciwwskazań zdrowotnych, wobec czego funkcjonariusz jest:
+    - **a)** zdolny do pełnienia służby na zajmowanym stanowisku służbowym,
+    - **b)** zdolny do pełnienia służby na zajmowanym stanowisku służbowym z zachowaniem wskazań i przeciwwskazań lekarskich wydanych czasowo;
+
+- **2)** istnienie przeciwwskazań zdrowotnych, wobec czego funkcjonariusz jest niezdolny do pełnienia służby na zajmowanym stanowisku służbowym ze względu na:
+    - **a)** podejrzenie powstania choroby lub stwierdzoną chorobę powstałą w związku ze szczególnymi właściwościami lub warunkami służby,
+    - **b)** niezdolność do wykonywania dotychczasowej służby z powodu wypadku pozostającego w związku z pełnieniem służby,
+    - **c)** szkodliwy wpływ wykonywanej służby na zdrowie, wobec czego stał się niezdolny do pełnienia służby na zajmowanym stanowisku służbowym, w związku z powyższym konieczne jest przeniesienie do pełnienia służby na innym stanowisku ze wskazaniem okresu obowiązywania przeniesienia i warunków służby.
+
+13. Od orzeczenia lekarskiego funkcjonariuszowi i odpowiednim przełożonym, o których mowa w ust. 2, przysługuje odwołanie w terminie 7 dni od dnia otrzymania orzeczenia.
+
+14. Odwołanie od orzeczenia lekarskiego wraz z uzasadnieniem wnosi się na piśmie, za pośrednictwem lekarza, który wydał to orzeczenie, do jednostki nadrzędnej medycyny pracy Służby Więziennej w Centralnym Zarządzie Służby Więziennej.
+
+15. Lekarz, za pośrednictwem którego składane jest odwołanie, w terminie 7 dni od dnia otrzymania odwołania przekazuje je wraz z uzasadnieniem i dokumentacją stanowiącą podstawę wydanego orzeczenia lekarskiego do właściwej jednostki, o której mowa w ust. 14.
+
+16. Odwołanie rozpatruje się w terminie 30 dni od dnia jego otrzymania, a w skomplikowanych przypadkach – w terminie 60 dni od dnia jego otrzymania.
+
+17. Rozpatrując odwołanie, jednostka nadrzędna medycyny pracy Służby Więziennej w Centralnym Zarządzie Służby Więziennej orzeka na podstawie dokumentacji stanowiącej podstawę wydanego orzeczenia lekarskiego uzyskanej od właściwej jednostki, o której mowa w ust. 14.
+
+18. Po rozpatrzeniu odwołania jednostka nadrzędna medycyny pracy Służby Więziennej w Centralnym Zarządzie Służby Więziennej podtrzymuje orzeczenie, od którego wniesiono odwołanie, przekazuje sprawę do ponownego rozpatrzenia przez podmiot, który wydał orzeczenie, albo wydaje własne orzeczenie lekarskie.
+
+19. Orzeczenie lekarskie wydane w trybie odwołania jest ostateczne.
+
+20. Orzeczenia lekarskie, o których mowa w ust. 12 i 18, wydaje się w 3 egzemplarzach:
+
+- **1)** dla funkcjonariusza;
+- **2)** dla przełożonego kierującego na badania;
+- **3)** do dokumentacji podmiotu wydającego orzeczenie.
+
+21. Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** wzory dokumentów związanych ze sprawowaniem profilaktycznej opieki zdrowotnej nad funkcjonariuszami, w szczególności wzór skierowania na badania profilaktyczne, wzór karty badań profilaktycznych i wzór orzeczenia lekarskiego, mając na względzie potrzebę zapewnienia rzetelności ich prowadzenia i jednolitości informacji w nich zawartych;
+- **2)** podmioty upoważnione do prowadzenia dokumentów, o których mowa w pkt 1, oraz ich formy, mając na uwadze odrębność zakresów działania lekarzy, psychologów i pielęgniarek oraz możliwość prowadzenia dokumentacji w formie elektronicznej;
+- **3)** sposób przechowywania i udostępniania dokumentów, o których mowa w pkt 1, uwzględniając konieczność zapewnienia realizacji prawa dostępu do dokumentacji medycznej oraz ochrony danych i informacji dotyczących stanu zdrowia funkcjonariusza.”;
+- **88)** w art. 113 ust. 1 otrzymuje brzmienie: „1. Właściwa jednostka służby medycyny pracy może na wniosek właściwego przełożonego przeprowadzać badania okresowe funkcjonariusza poza terminem wynikającym z przeprowadzonego wcześniej badania wstępnego lub okresowego, lub kontrolnego, jeżeli jest to uzasadnione:
+- **1)** podejrzeniem pogorszenia się jego stanu zdrowia, mogącego mieć negatywny wpływ na pełnienie służby na aktualnie zajmowanym stanowisku służbowym lub bezpieczeństwo jednostki organizacyjnej, albo
+- **2)** koniecznością oceny zwolnienia lekarskiego i związku choroby ze służbą – w przypadku kontynuowania leczenia przez funkcjonariusza po wydaniu przez komisję lekarską orzeczenia ustalającego związek ze służbą stwierdzonego uszczerbku na zdrowiu, powstałego wskutek wypadku pozostającego w związku z pełnieniem służby lub wskutek choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby.”;
+- **89)** art. 116 i art. 117 otrzymują brzmienie: „Art. 116. 1. W przypadku odniesienia ran, kontuzji lub urazu psychicznego w związku z pełnieniem służby lub ze względu na schorzenie lub stan psychofizyczny pozostające w związku z pełnieniem służby funkcjonariusz pełniący służbę w zakładzie karnym lub w areszcie śledczym, zgodnie ze wskazaniami lekarza medycyny pracy, może zostać skierowany na bezpłatny turnus profilaktyczno-zdrowotny, w którym bierze udział w czasie pełnienia służby.
+
+2. Turnus profilaktyczno-zdrowotny trwa nie dłużej niż 14 dni kalendarzowych i obejmuje działania rehabilitacyjne, antystresowe i profilaktykę zdrowotną, w tym profilaktykę psychologiczną.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do pracowników.
+
+4. Wniosek o skierowanie na turnus profilaktyczno-zdrowotny zawiera następujące dane osobowe:
+
+- **1)** funkcjonariusza:
+    - **a)** imię i nazwisko,
+    - **b)** stopień,
+    - **c)** zajmowane stanowisko służbowe,
+    - **d)** miejsce pełnienia służby,
+    - **e)** staż służby,
+    - **f)** telefon kontaktowy;
+
+- **2)** pracownika:
+    - **a)** imię i nazwisko,
+    - **b)** zajmowane stanowisko służbowe,
+    - **c)** miejsce pracy,
+    - **d)** staż pracy,
+    - **e)** telefon kontaktowy.
+
+5. Roczna ewidencja uczestników turnusów profilaktyczno-zdrowotnych zawiera następujące dane osobowe:
+
+- **1)** stopień, jeżeli uczestnik jest funkcjonariuszem;
+- **2)** stanowisko służbowe;
+- **3)** imię i nazwisko;
+- **4)** miejsce pełnienia służby przez funkcjonariusza lub miejsce pracy pracownika.
+
+6. Dyrektor Generalny, w drodze zarządzenia, corocznie ustala liczbę i terminy turnusów profilaktyczno-zdrowotnych, limity miejsc oraz podmioty prowadzące te turnusy.
+
+7. Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** procedurę kierowania funkcjonariusza i pracownika na turnus profilaktyczno-zdrowotny,
+- **2)** podmiot kierujący na turnus profilaktyczno-zdrowotny,
+- **3)** ramowy program turnusu profilaktyczno-zdrowotnego,
+- **4)** rodzaje i wzory dokumentów wystawianych w związku z kierowaniem na turnus profilaktyczno-zdrowotny – uwzględniając potrzeby funkcjonariusza i pracownika wynikające z ich aktualnego stanu zdrowia.
 
 **Art. 117.**
 
@@ -1031,6 +1552,152 @@ source: "isap-pdf"
 
 **Art. 230b.** Dwa lub więcej zachowań podjętych w krótkich odstępach czasu w celu wykonania tego samego zamiaru lub z wykorzystaniem takiej samej sposobności uważa się za jedno przewinienie dyscyplinarne.”;
 
+- **115)** w art. 231:
+    - **a)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Upoważnienie, o którym mowa w ust. 6, zawiera:
+
+- **1)** datę wydania upoważnienia;
+- **2)** podstawę prawną;
+- **3)** stopień, imię i nazwisko oraz stanowisko służbowe umocowanego funkcjonariusza;
+- **4)** zakres umocowania;
+- **5)** termin obowiązywania upoważnienia;
+- **6)** podpis przełożonego dyscyplinarnego.”,
+    - **b)** w ust. 8 pkt 1 i 2 otrzymują brzmienie: „1) Dyrektorowi Generalnemu, zastępcy Dyrektora Generalnego, Szefowi IWSW, zastępcy Szefa IWSW, dyrektorowi okręgowemu, prorektorowi Uczelni, Komendantowi Centralnego Ośrodka Szkolenia Służby Więziennej, komendantowi ośrodka szkolenia Służby Więziennej i komendantowi ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu, funkcjonariuszom Centralnego Zarządu Służby Więziennej, funkcjonariuszom IWSW oraz funkcjonariuszom Uczelni, z wyłączeniem funkcjonariuszy w służbie kandydackiej – jest Minister Sprawiedliwości;
+
+- **2)** zastępcy dyrektora okręgowego, dyrektorowi zakładu karnego lub aresztu śledczego, zastępcy Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, zastępcy komendanta ośrodka szkolenia Służby Więziennej, zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu oraz funkcjonariuszom okręgowego inspektoratu Służby Więziennej, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodka szkolenia Służby Więziennej i ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu, a także funkcjonariuszom w służbie kandydackiej – jest Dyrektor Generalny;”;
+- **116)** art. 235 otrzymuje brzmienie: „Art. 235. 1. Kara wyznaczenia na niższe stanowisko służbowe oznacza odwołanie lub zwolnienie z dotychczas zajmowanego stanowiska służbowego i mianowanie lub powołanie na stanowisko służbowe niższe od dotychczas zajmowanego.
+
+2. Przed zatarciem kary wyznaczenia na niższe stanowisko służbowe funkcjonariusza nie można powołać ani mianować na wyższe stanowisko służbowe.”;
+
+- **117)** w art. 237 uchyla się ust. 2;
+- **118)** w art. 238 dodaje się ust. 3 w brzmieniu: „3. W przypadku podjęcia przez przełożonego dyscyplinarnego decyzji, o której mowa w art. 250a, przepisu ust. 2 nie stosuje się.”;
+- **119)** w art. 239:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Obwinionemu wymierza się karę dyscyplinarną współmierną do popełnionego przewinienia dyscyplinarnego oraz stopnia zawinienia.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przy wymierzaniu kary dyscyplinarnej uwzględnia się okoliczności popełnienia przewinienia dyscyplinarnego, jego skutki, w tym następstwa negatywne dla służby, rodzaj i stopień naruszenia ciążących na obwinionym obowiązków, pobudki działania, zachowanie obwinionego przed popełnieniem przewinienia dyscyplinarnego i po jego popełnieniu, dotychczasowy przebieg służby, opinię służbową, okres pozostawania w służbie, a także istotne w sprawie okoliczności, zarówno łagodzące, jak i obciążające.”,
+    - **c)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) działanie z motywacji zasługującej na szczególne potępienie, w stanie nietrzeźwości albo w stanie po użyciu alkoholu lub po użyciu podobnie działającego środka;”;
+
+- **120)** w art. 240:
+    - **a)** w ust. 1: – w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) wskutek złożenia sprzeciwu, o którym mowa w art. 230 ust. 9;”, – pkt 2 otrzymuje brzmienie: „2) może wszcząć postępowanie dyscyplinarne na wniosek innego zainteresowanego organu, instytucji lub pokrzywdzonego.”,
+    - **b)** ust. 2–4 otrzymują brzmienie: „2. Wyższy przełożony dyscyplinarny lub Dyrektor Generalny może wszcząć lub przejąć do prowadzenia postępowanie dyscyplinarne przed wydaniem orzeczenia, jeżeli w jego ocenie jest to konieczne z uwagi na charakter sprawy.
+
+3. W przypadku, o którym mowa w ust. 1 pkt 1 lit. d i pkt 2, przełożony dyscyplinarny lub Dyrektor Generalny zawiadamia odpowiednio sąd lub prokuratora oraz organ lub instytucję albo pokrzywdzonego o wszczęciu postępowania dyscyplinarnego i wyniku tego postępowania. Materiały przekazane przez sąd, prokuratora, organ, instytucję albo pokrzywdzonego włącza się do akt postępowania dyscyplinarnego.
+
+4. Jeżeli zachodzą wątpliwości co do popełnienia przewinienia dyscyplinarnego, jego kwalifikacji prawnej, tożsamości sprawcy albo charakter sprawy jest skomplikowany i złożony, przed wszczęciem postępowania dyscyplinarnego przełożony dyscyplinarny zleca przeprowadzenie czynności wyjaśniających. Czynności te należy ukończyć w terminie 30 dni. W szczególnych przypadkach ze względu na charakter sprawy, czynności wyjaśniające za zgodą przełożonego właściwego w sprawach dyscyplinarnych mogą być kontynuowane w terminie nie dłuższym niż 60 dni od dnia wydania postanowienia, o którym mowa w ust. 4a.”,
+
+- **c)** po ust. 4 dodaje się ust. 4a–4f w brzmieniu: „4a. Rozpoczęcie czynności wyjaśniających następuje w drodze postanowienia.
+
+4b. Postanowienie, o którym mowa w ust. 4a, zawiera:
+
+- **1)** stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+- **2)** datę wydania;
+- **3)** podstawę prawną;
+- **4)** datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniających przeprowadzenie czynności wyjaśniających;
+- **5)** określenie okoliczności stanowiących przedmiot czynności wyjaśniających;
+- **6)** wskazanie rzecznika dyscyplinarnego do prowadzenia czynności wyjaśniających;
+- **7)** podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej albo pieczęć Ministra Sprawiedliwości.
+
+4c. W toku czynności wyjaśniających nie przeprowadza się dowodu z opinii biegłego ani czynności wymagających spisania protokołu.
+
+4d. Z czynności wyjaśniających rzecznik dyscyplinarny sporządza sprawozdanie, w którym przedstawia wynik ustaleń oraz przedstawia wnioski ze wskazaniem osób odpowiedzialnych i propozycje dalszego procedowania, w szczególności w zakresie wszczęcia postępowania dyscyplinarnego, odstąpienia od wszczęcia postępowania dyscyplinarnego albo odstąpienia od wszczęcia postępowania dyscyplinarnego i przeprowadzenia rozmowy dyscyplinującej.
+
+4e. W przypadku wszczęcia postępowania dyscyplinarnego materiały zebrane podczas przeprowadzania czynności wyjaśniających stają się materiałami postępowania dyscyplinarnego.
+
+4f. Wyższy przełożony dyscyplinarny lub Dyrektor Generalny może zlecić przeprowadzenie lub przeprowadzić czynności wyjaśniające w sprawach dotyczących funkcjonariuszy podległych przełożonym dyscyplinarnym, jeżeli w jego ocenie jest to konieczne ze względu na charakter sprawy.”,
+
+- **d)** ust. 5 otrzymuje brzmienie: „5. Postępowanie dyscyplinarne wszczyna się z dniem wydania postanowienia o wszczęciu postępowania dyscyplinarnego, którego odpis niezwłocznie doręcza się obwinionemu. Funkcjonariusza, co do którego wydano postanowienie o wszczęciu postępowania dyscyplinarnego, uważa się za obwinionego.”,
+- **e)** w ust. 6 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniającej podejrzenie popełnienia przez funkcjonariusza zarzucanego mu czynu;”;
+- **121)** po art. 240 dodaje się art. 240a w brzmieniu: „Art. 240a. 1. Jeżeli funkcjonariusza zajmującego wyższe stanowisko kierownicze zatrzymano z powodu ujęcia na gorącym uczynku popełnienia przestępstwa lub przestępstwa skarbowego, umyślnego, ściganego z oskarżenia publicznego albo istotne interesy służby wymagają natychmiastowego odsunięcia go od wykonywania obowiązków służbowych, Dyrektor Generalny albo Minister Sprawiedliwości może zarządzić natychmiastową przerwę w czynnościach służbowych funkcjonariusza aż do czasu wydania postanowienia w przedmiocie wszczęcia postępowania dyscyplinarnego, jednak na okres nie dłuższy niż 60 dni.
+
+2. W przypadku Dyrektora Generalnego, zastępcy Dyrektora Generalnego, Szefa IWSW, zastępcy Szefa IWSW oraz prorektora Uczelni przerwę w czynnościach służbowych zarządza Minister Sprawiedliwości.
+
+3. O wydaniu zarządzenia, o którym mowa w ust. 1, Dyrektor Generalny albo Minister Sprawiedliwości, w terminie 3 dni od dnia jego wydania, zawiadamia przełożonego właściwego w sprawach dyscyplinarnych w celu niezwłocznego podjęcia właściwych czynności w postępowaniu dyscyplinarnym.”;
+
+- **122)** w art. 241:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Postępowania dyscyplinarnego nie wszczyna się:
+
+- **1)** jeżeli czynności wyjaśniające nie potwierdziły zaistnienia przewinienia dyscyplinarnego;
+- **2)** jeżeli upłynęły terminy określone w ust. 3–5;
+- **3)** w razie śmierci funkcjonariusza;
+- **4)** jeżeli postępowanie dyscyplinarne w sprawie tego samego czynu i tego samego funkcjonariusza zostało prawomocnie zakończone lub wcześniej wszczęte toczy się;
+- **5)** gdy zachodzi inna okoliczność wyłączająca postępowanie.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Karalność przewinienia dyscyplinarnego ustaje z upływem 2 lat od dnia jego popełnienia. Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg tego terminu.”;
+
+- **123)** art. 242 otrzymuje brzmienie: „Art. 242. 1. Przełożony dyscyplinarny może wydać orzeczenie bez wszczynania postępowania dyscyplinarnego, jeżeli okoliczności popełnionego czynu i wina funkcjonariusza nie budzą wątpliwości oraz nie zachodzi potrzeba wymierzenia kary dyscyplinarnej surowszej niż nagana.
+
+2. W przypadkach, o których mowa w ust. 1, orzeczenie wydaje się po wysłuchaniu funkcjonariusza i złożeniu przez niego wyjaśnienia na piśmie oraz wyrażeniu pisemnej zgody na poddanie się karze dyscyplinarnej bez prowadzenia postępowania dyscyplinarnego.
+
+3. Po wszczęciu postępowania dyscyplinarnego, do czasu zakończenia pierwszego przesłuchania w charakterze obwinionego obwiniony może złożyć wniosek o dobrowolne poddanie się karze dyscyplinarnej.
+
+4. Przełożony dyscyplinarny może uwzględnić wniosek o dobrowolne poddanie się karze dyscyplinarnej, jeżeli okoliczności popełnienia przewinienia dyscyplinarnego i wina obwinionego nie budzą wątpliwości, a charakter popełnionego przewinienia uzasadnia wymierzenie kary dyscyplinarnej, o której mowa w art. 232 pkt 1. Czynności, o których mowa w art. 251, nie przeprowadza się.
+
+5. W przypadku uwzględnienia wniosku o dobrowolne poddanie się karze dyscyplinarnej przełożony dyscyplinarny wydaje orzeczenie o ukaraniu.
+
+6. Od orzeczenia o ukaraniu obwinionemu przysługuje odwołanie w terminie 7 dni od dnia doręczenia orzeczenia. Odwołanie składa się do przełożonego dyscyplinarnego, który wydał orzeczenie.
+
+7. Przełożony dyscyplinarny odmawia przyjęcia odwołania, w drodze postanowienia, jeżeli zostało wniesione po terminie lub przez osobę nieuprawnioną albo jest niedopuszczalne. Postanowienie w tej sprawie jest ostateczne.
+
+8. W przypadku złożenia odwołania przez obwinionego przełożony dyscyplinarny uchyla orzeczenie o ukaraniu, kontynuuje postępowanie dyscyplinarne i wydaje orzeczenie, o którym mowa w art. 252 ust. 1, od którego przysługuje odwołanie w trybie art. 253.
+
+9. Cofnięcie odwołania, o którym mowa w ust. 6, jest niedopuszczalne.”;
+
+- **124)** w art. 243:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Postępowanie dyscyplinarne oraz czynności wyjaśniające, o których mowa w art. 240 ust. 4, prowadzi rzecznik dyscyplinarny.
+
+2. Przełożony dyscyplinarny powołuje rzeczników dyscyplinarnych na okres 4 lat spośród funkcjonariuszy w służbie stałej. Funkcjonariusz może być powoływany ponownie do pełnienia funkcji rzecznika dyscyplinarnego.”,
+
+- **b)** dodaje się ust. 5 w brzmieniu: „5. Rzecznikiem dyscyplinarnym może być funkcjonariusz, który:
+- **1)** posiada wiedzę i doświadczenie zawodowe niezbędne do właściwego wykonywania obowiązków rzecznika dyscyplinarnego, w tym co najmniej:
+    - **a)** pięcioletni staż służby w Służbie Więziennej,
+    - **b)** pozytywną opinię służbową,
+    - **c)** dobrą znajomość przepisów dyscyplinarnych;
+
+- **2)** nie był karany dyscyplinarnie;
+- **3)** wyraził pisemną zgodę na pełnienie funkcji rzecznika dyscyplinarnego.”;
+- **125)** w art. 244 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przełożony dyscyplinarny może odwołać rzecznika dyscyplinarnego na jego uzasadniony wniosek.”;
+- **126)** w art. 245 dodaje się ust. 7 w brzmieniu: „7. Do dnia wydania postanowienia, o którym mowa w ust. 6, przełożony dyscyplinarny podejmuje czynności niecierpiące zwłoki.”;
+- **127)** w art. 246 po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. W przypadku wyłączenia Szefa IWSW od udziału w postępowaniu dyscyplinarnym na podstawie art. 245 ust. 1 i 2 postępowanie dyscyplinarne przejmuje zastępca Szefa IWSW, chyba że postępowanie dotyczy zastępcy Szefa IWSW.
+
+2b. W przypadku wyłączenia Rektora od udziału w postępowaniu dyscyplinarnym na podstawie art. 245 ust. 1 i 2 postępowanie dyscyplinarne przejmuje prorektor Uczelni, chyba że postępowanie dotyczy tego prorektora.”;
+
+- **128)** w art. 247:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Rzecznik dyscyplinarny zbiera materiał dowodowy i podejmuje czynności niezbędne do wyjaśnienia sprawy, w szczególności przesłuchuje świadków, obwinionego, przyjmuje od niego wyjaśnienia oraz przeprowadza konfrontacje, oględziny i okazania. Z czynności tych rzecznik dyscyplinarny sporządza protokoły. Rzecznik dyscyplinarny może także zlecić przeprowadzenie odpowiednich badań.”,
+    - **b)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Protokół zawiera:”,
+    - **c)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Rzecznik dyscyplinarny, który wydał postanowienie, w przypadku wniesienia zażalenia na to postanowienie niezwłocznie przekazuje je przełożonemu dyscyplinarnemu wraz z aktami postępowania oraz ze swoim stanowiskiem, nie później jednak niż w terminie 3 dni od dnia, w którym otrzymał zażalenie.”,
+    - **d)** ust. 8 i 9 otrzymują brzmienie: „8. W przypadku konieczności przeprowadzenia czynności poza miejscowością, w której toczy się postępowanie dyscyplinarne, przełożony dyscyplinarny lub rzecznik dyscyplinarny może zwrócić się o ich przeprowadzenie do przełożonego dyscyplinarnego właściwego według miejsca, w którym czynność ma być dokonana. Czynności przeprowadza rzecznik dyscyplinarny wyznaczony przez kierownika tej jednostki organizacyjnej.
+
+9. Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, w tym postępowania przygotowawczego, przełożony dyscyplinarny lub rzecznik dyscyplinarny może zwrócić się do właściwego organu o udostępnienie akt tego postępowania w całości lub w części. Za zgodą tego organu potrzebne odpisy lub wyciągi z udostępnionych akt włącza się do akt postępowania dyscyplinarnego.”,
+
+- **e)** po ust. 9 dodaje się ust. 9a w brzmieniu: „9a. W przypadku ustalenia na podstawie zebranego materiału dowodowego, że obwinionemu należy zarzucić czyn, który nie był objęty uprzednio wydanym postanowieniem, lub że zachodzi potrzeba istotnej zmiany opisu czynu lub jego kwalifikacji prawnej, rzecznik dyscyplinarny występuje do przełożonego dyscyplinarnego z wnioskiem o zmianę lub o uzupełnienie zarzutów.”,
+- **f)** ust. 10 i 11 otrzymują brzmienie: „10. Jeżeli materiał dowodowy to uzasadnia, przełożony dyscyplinarny wydaje postanowienie o uzupełnieniu lub o zmianie zarzutów.
+
+11. Jeżeli w trakcie prowadzenia postępowania dyscyplinarnego funkcjonariusz popełni kolejne przewinienie, prowadzi się jedno postępowanie. Przepisy ust. 10 oraz art. 250a stosuje się odpowiednio.”;
+
+- **129)** w art. 248:
+    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) przeglądania akt postępowania dyscyplinarnego oraz sporządzania z nich notatek lub fotokopii;”,
+    - **b)** w ust. 7 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „4) wniosek dowodowy w sposób oczywisty zmierza do przedłużenia postępowania;
+
+- **5)** wniosek dowodowy został złożony po zakreślonym terminie, o którym wnioskodawca został zawiadomiony, chyba że potrzeba złożenia takiego wniosku ujawniła się po upływie tego terminu, co należy uprawdopodobnić.”,
+    - **c)** dodaje się ust. 10 w brzmieniu: „10. Choroba obwinionego, stwierdzona zwolnieniem lekarskim, usprawiedliwia jego nieobecność podczas czynności objętych danym postępowaniem przez okresy nie dłuższe niż 14 dni łącznie w ciągu całego postępowania dyscyplinarnego. Usprawiedliwienie nieobecności z powodu choroby za każdy następny jej okres wymaga przedstawienia zaświadczenia wystawionego przez lekarza uprawnionego do wystawiania zaświadczeń potwierdzających niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie karne.”;
+
+- **130)** w art. 250: W postępowaniu dyscyplinarnym, o którym mowa w art. 231 ust. 8 pkt 1, postanowienie wydaje Minister Sprawiedliwości.
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Czynności dowodowe w postępowaniu dyscyplinarnym kończy się w terminie miesiąca od dnia wszczęcia tego postępowania. Wyższy przełożony dyscyplinarny, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony do 3 miesięcy.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Dyrektor Generalny, na Uczelni – Rektor, a w IWSW – Szef IWSW, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony dłuższy niż 3 miesiące.
+
+1b. Przedłużenie terminu następuje na wniosek przełożonego dyscyplinarnego prowadzącego postępowanie dyscyplinarne. Wniosek o przedłużenie terminu prowadzenia czynności dowodowych w postępowaniu dyscyplinarnym składa się nie później niż 5 dni przed upływem tego terminu. Przed wydaniem postanowienia o przedłużeniu terminu prowadzenia czynności dowodowych właściwy do jego wydania wyższy przełożony dyscyplinarny lub Dyrektor Generalny może zażądać niezwłocznego przekazania akt postępowania.
+
+1c. Na Uczelni oraz w IWSW wniosek, o którym mowa w ust. 1b, składa rzecznik dyscyplinarny prowadzący postępowanie.”,
+
+- **c)** ust. 2 otrzymuje brzmienie: „2. Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne, w drodze postanowienia, z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania.”,
+- **d)** po ust. 2 dodaje się ust. 2a–2c w brzmieniu: „2a. W przypadku przeniesienia funkcjonariusza do pełnienia służby w innej jednostce organizacyjnej przełożony dyscyplinarny zawiesza postępowanie dyscyplinarne z ostatnim dniem pełnienia służby w dotychczasowej jednostce organizacyjnej i przekazuje materiały postępowania dyscyplinarnego przełożonemu dyscyplinarnemu w jednostce organizacyjnej, do której obwiniony został przeniesiony.
+
+2b. Na postanowienie o zawieszeniu postępowania dyscyplinarnego obwinionemu i pokrzywdzonemu przysługuje zażalenie, z wyjątkiem postanowienia, o którym mowa w ust. 2a. Jeżeli postanowienie wydał Minister Sprawiedliwości, Dyrektor Generalny albo Rektor, zażalenie nie przysługuje, jednak obwiniony i pokrzywdzony mogą zwrócić się odpowiednio do Ministra Sprawiedliwości, Dyrektora Generalnego albo Rektora z wnioskiem o ponowne rozpatrzenie sprawy.
+
+2c. Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg terminów.”,
+
+- **e)** dodaje się ust. 4 w brzmieniu: „4. Postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego w sprawie obwinionego przeniesionego do innej jednostki organizacyjnej wydaje się niezwłocznie po otrzymaniu materiałów postępowania dyscyplinarnego wszczętego w poprzedniej jednostce organizacyjnej.”;
+- **131)** po art. 250 dodaje się art. 250a i art. 250b w brzmieniu: „Art. 250a. 1. Jeżeli przeciwko obwinionemu jest prowadzone postępowanie dyscyplinarne obejmujące zarzuty popełnienia dwóch lub więcej czynów, a zebrane na danym etapie postępowania dowody dają podstawy do uznania obwinionego winnym popełnienia jednego z zarzuconych mu czynów, przełożony dyscyplinarny może, w drodze postanowienia, wyłączyć ten czyn do odrębnego postępowania dyscyplinarnego, bez względu na to, czy wyjaśniono wszystkie okoliczności dotyczące pozostałych czynów objętych postępowaniem.
+
+2. W przypadku, o którym mowa w ust. 1, zebrane w toku postępowania dyscyplinarnego dowody dotyczące wyłączonego czynu stają się dowodami odrębnego postępowania dyscyplinarnego.
+
 **Art. 250b.**
 
 1. Oczywiste omyłki pisarskie i rachunkowe w orzeczeniu lub postanowieniu można sprostować w każdym czasie w drodze postanowienia.
@@ -1131,13 +1798,30 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2021 r. poz. 2073 i 2448 oraz z 2022 r. poz. 1488) w art. 11t wprowadza się następujące zmiany:
 
+- **1)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W celu realizacji zadań określonych w art. 11a ust. 3 oraz w zakresie niezbędnym do realizacji tych zadań Inspektor Nadzoru Wewnętrznego może:”;
+- **2)** uchyla się ust. 2.
+
 **Art. 5.** W ustawie z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności (Dz. U. z 2021 r. poz. 179 oraz z 2022 r. poz. 1855) wprowadza się następujące zmiany:
 
+- **1)** po art. 6a dodaje się art. 6b w brzmieniu: „Art. 6b. 1. Fundusz Aktywizacji może zaciągać kredyty lub pożyczki w Banku Gospodarstwa Krajowego z przeznaczeniem na finansowanie zadań, o których mowa w art. 8.
+
+2. Umowę kredytu lub pożyczki, o których mowa w ust. 1, w imieniu Funduszu Aktywizacji zawiera jego dysponent po uzyskaniu zgody Ministra Sprawiedliwości.
+
+3. Minister Sprawiedliwości przejmuje zobowiązania Funduszu Aktywizacji w przypadku likwidacji tego Funduszu.”;
+
+- **2)** w art. 8 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Koszty obsługi rachunku bankowego Funduszu Aktywizacji, a także koszty obsługi kredytu lub pożyczki, o których mowa w art. 6b ust. 1, są pokrywane ze środków Funduszu Aktywizacji.”.
+
 **Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 297 w § 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) Szefowi Inspektoratu Wewnętrznego Służby Więziennej – w zakresie niezbędnym do realizacji zadań określonych w art. 23p ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. );”;
+- **2)** w art. 298 pkt 5b otrzymuje brzmienie: „5b) Centralnemu Biuru Antykorupcyjnemu, Biuru Nadzoru Wewnętrznego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Inspektoratowi Wewnętrznemu Służby Więziennej i ich posiadającym sporządzone na piśmie upoważnienie funkcjonariuszom lub żołnierzom, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom lub ich wykrycia, ustalenia sprawców i uzyskania dowodów albo ujawnienia mienia zagrożonego przepadkiem;”.
 
 **Art. 7.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm. ) w art. 105 w ust. 1 w pkt 2 w lit. zd średnik zastępuje się przecinkiem i dodaje się lit. ze w brzmieniu: „ze) Szefa Inspektoratu Wewnętrznego Służby Więziennej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. );”.
 
 **Art. 8.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, z późn. zm. ) w art. 24:
+
+- **1)** w ust. 2 i 3 wyrazy „Minister właściwy do spraw sprawiedliwości” zastępuje się wyrazami „Minister Sprawiedliwości”;
+- **2)** ust. 4 otrzymuje brzmienie: „4. Ministrowi Sprawiedliwości podlega Centralny Zarząd Służby Więziennej oraz Szef Inspektoratu Wewnętrznego Służby Więziennej.”.
 
 **Art. 9.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, 1079, 1115 i 1265) w art. 50 w ust. 3 i 9 po wyrazach „Straży Granicznej” dodaje się przecinek i wyrazy „Inspektoratowi Wewnętrznemu Służby Więziennej”.
 
@@ -1146,6 +1830,12 @@ source: "isap-pdf"
 **Art. 11.** W ustawie z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2022 r. poz. 170 i 1488) w art. 54 w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) Szefa Inspektoratu Wewnętrznego Służby Więziennej – jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom, wykrycia i ustalenia ich sprawców lub uzyskania i utrwalenia dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. ).”.
 
 **Art. 12.** W ustawie z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych (Dz. U. z 2021 r. poz. 1607 oraz z 2022 r. poz. 655 i 1374) wprowadza się następujące zmiany:
+
+- **1)** w art. 19:
+    - **a)** uchyla się pkt 5 i 6,
+    - **b)** w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „16) Szef Inspektoratu Wewnętrznego Służby Więziennej.”;
+
+- **2)** w art. 20 w ust. 1 pkt 15 otrzymuje brzmienie: „15) kierownicy jednostek organizacyjnych, o których mowa w art. 8 ust. 1 pkt 1, 2, 3 i 4 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. ),”.
 
 **Art. 13.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072, z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655 i 1259) w art. 16 w § 1 pkt 5 otrzymuje brzmienie: „5) kontroli danych telekomunikacyjnych, pocztowych i internetowych – do spraw związanych z kontrolą pozyskiwania danych telekomunikacyjnych, pocztowych i internetowych przez Policję, Agencję Bezpieczeństwa Wewnętrznego, Straż Graniczną, Centralne Biuro Antykorupcyjne, Służbę Ochrony Państwa, Służbę Celno-Skarbową, Inspektorat Wewnętrzny Służby Więziennej i Biuro Nadzoru Wewnętrznego.”.
 
@@ -1159,11 +1849,21 @@ source: "isap-pdf"
 
 **Art. 18.** W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742 oraz z 2022 r. poz. 655) wprowadza się następujące zmiany:
 
+- **1)** w art. 23 w ust. 3 pkt 1 otrzymuje brzmienie: „1) Szefa SKW, Szefa Agencji Wywiadu, zwanej dalej „AW”, Szefa CBA, Komendanta Służby Ochrony Państwa, Komendanta Głównego Policji, Dyrektora Generalnego Służby Więziennej, Szefa Inspektoratu Wewnętrznego Służby Więziennej, Komendanta Głównego Straży Granicznej, Inspektora Nadzoru Wewnętrznego oraz osób przewidzianych na te stanowiska;”;
+- **2)** w art. 72 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) Szefowi Inspektoratu Wewnętrznego Służby Więziennej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. ).”.
+
 **Art. 19.** W ustawie z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2020 r. poz. 158 oraz z 2022 r. poz. 350) w art. 1 w ust. 2 po pkt 2a dodaje się pkt 2b w brzmieniu: „2b) Inspektorat Wewnętrzny Służby Więziennej;”.
 
 **Art. 20.** W ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896) w art. 82 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Operator pocztowy, począwszy od dnia rozpoczęcia działalności pocztowej, jest obowiązany do nieodpłatnego zapewnienia, w ramach wykonywanej przez siebie działalności pocztowej, technicznych i organizacyjnych możliwości wykonywania przez Policję, Straż Graniczną, Agencję Bezpieczeństwa Wewnętrznego, Służbę Kontrwywiadu Wojskowego, Żandarmerię Wojskową, Centralne Biuro Antykorupcyjne, Krajową Administrację Skarbową, Biuro Nadzoru Wewnętrznego, Inspektorat Wewnętrzny Służby Więziennej i Służbę Ochrony Państwa, zwane dalej „uprawnionymi podmiotami”, oraz przez prokuraturę i sądy, ich zadań określonych odrębnymi przepisami, wymagających:”.
 
 **Art. 21.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2022 r. poz. 1416 i 1700) wprowadza się następujące zmiany:
+
+- **1)** w art. 35:
+    - **a)** w ust. 2: – po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) Szef Inspektoratu Wewnętrznego Służby Więziennej;”, – pkt 10 otrzymuje brzmienie: „10) funkcjonariusz Służby Więziennej – w przypadku usiłowania bezpośredniego, bezprawnego zamachu na życie lub zdrowie uprawnionego lub innej osoby, usiłowania ucieczki przez osobę pozbawioną wolności, a także w pościgu za nią lub osobą, która dokonała bezpośredniego, bezprawnego zamachu na obiekty zakładu karnego, aresztu śledczego lub innej jednostki organizacyjnej, w której Służba Więzienna zapewnia porządek i bezpieczeństwo, oraz w przypadkach, o których mowa w art. 13 ust. 1.”,
+    - **b)** w ust. 4 po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) Służby Więziennej – Dyrektor Generalny Służby Więziennej, Szef Inspektoratu Wewnętrznego Służby Więziennej albo osoby przez nich upoważnione;”,
+    - **c)** dodaje się ust. 7 w brzmieniu: „7. Decyzję o użyciu środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 2 i 4, przez uprawnionego będącego funkcjonariuszem Służby Więziennej w przypadkach określonych w art. 19 ust. 6–10 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. ) podejmują podmioty wskazane w tych przepisach.”;
+
+- **2)** w art. 45 w pkt 4 lit. b otrzymuje brzmienie: „b) ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności lub osoby, wobec której zarządzono zatrzymanie i doprowadzenie celem odbycia kary pozbawienia wolności, jeżeli: – ucieczka tej osoby stwarza zagrożenie życia lub zdrowia uprawnionego lub innej osoby, – istnieje uzasadnione podejrzenie, że osoba ta może użyć materiałów wybuchowych, broni palnej lub innego niebezpiecznego przedmiotu, – pozbawienie wolności nastąpiło lub ma nastąpić w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia przestępstwa, o którym mowa w art. 115 § 20, art. 148, art. 156 § 1, art. 163–165, art. 197, art. 252 i art. 280–282 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,”.
 
 **Art. 22.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2021 r. poz. 1130, 2140 i 2328 oraz z 2022 r. poz. 655 i 1488) w art. 35 w ust. 2 po pkt 2a dodaje się pkt 2b w brzmieniu: „2b) Szefa Inspektoratu Wewnętrznego Służby Więziennej, o ile są niezbędne na potrzeby wykonywania czynności operacyjno-rozpoznawczych, na zasadach i w trybie określonych w art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. );”.
 
@@ -1171,7 +1871,13 @@ source: "isap-pdf"
 
 **Art. 24.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 95 ust. 5 otrzymuje brzmienie: „5. Audyt nie obejmuje oceny celowości i sposobu wykorzystania środków budżetowych oraz mienia państwowego, które zostały przeznaczone na cele specjalne, o których mowa w rozdziale 2a, w jednostkach podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, w Biurze Nadzoru Wewnętrznego, Inspektoracie Wewnętrznym Służby Więziennej, Policji, Państwowej Straży Pożarnej, Straży Granicznej, Służbie Ochrony Państwa oraz w jednostkach organizacyjnych Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu oraz Centralnego Biura Antykorupcyjnego.”;
+- **2)** w art. 198 ust. 1 otrzymuje brzmienie: „1. Funkcjonariusza albo byłego funkcjonariusza Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Więziennej, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Straży Granicznej lub Służby Ochrony Państwa oraz osobę posiadającą stopień wojskowy przyjmowanych do służby mianuje się na stopień służbowy w Służbie Celno-Skarbowej równorzędny z posiadanym stopniem służbowym. Mianowanie może być uzależnione od odbycia szkolenia wymaganego do mianowania na dany stopień służbowy.”.
+
 **Art. 25.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710 i 1812) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 w ust. 5 pkt 8 otrzymuje brzmienie: „8) udzielanych przez Ministra Sprawiedliwości – Prokuratora Generalnego albo jednostki organizacyjne mu podległe lub przez niego nadzorowane przywięziennym zakładom pracy, prowadzonym jako przedsiębiorstwa państwowe albo instytucje gospodarki budżetowej, związanych z zatrudnianiem osób pozbawionych wolności, jeżeli zasadnicza część działalności przywięziennego zakładu pracy dotyczy wykonywania zadań powierzonych mu przez Ministra Sprawiedliwości – Prokuratora Generalnego lub jednostki organizacyjne mu podległe lub przez niego nadzorowane, realizowanych samodzielnie lub przy udziale podwykonawców, pod warunkiem że co najmniej część zamówienia jest realizowana przez osoby pozbawione wolności;”;
+- **2)** w art. 94 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku udzielenia zamówienia przywięziennemu zakładowi pracy, zakładowi pracy chronionej, spółdzielni socjalnej lub innemu wykonawcy, o którym mowa w ust. 1, wartość procentowego wskaźnika, o którym mowa w ust. 1, ustala się w odniesieniu do ogólnego zatrudnienia w tym podmiocie osób społecznie marginalizowanych.”.
 
 **Art. 26.**
 
@@ -1310,4 +2016,8 @@ source: "isap-pdf"
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 198 ust. 2 ustawy zmienianej w art. 24 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 198 ust. 2 ustawy zmienianej w art. 24 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 62.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 11 i 12 w zakresie art. 18b, które wchodzą w życie z dniem 1 stycznia 2023 r.;
+- **2)** art. 1 pkt 2, art. 1 pkt 3 lit. a i c w zakresie art. 8 ust. 1b, art. 1 pkt 5 lit. b w zakresie IWSW, art. 1 pkt 6, art. 1 pkt 10 lit. b w zakresie art. 16 ust. 2a, art. 1 pkt 15, art. 1 pkt 16 w zakresie art. 23b, art. 1 pkt 21, art. 1 pkt 24 w zakresie art. 38a ust. 2 w zakresie IWSW i art. 38b, art. 1 pkt 26 lit. a tiret drugie i lit. b w zakresie IWSW, art. 1 pkt 28 w zakresie art. 39g ust. 2 w zakresie IWSW, art. 1 pkt 29 lit. a w zakresie art. 42 ust. 3a, art. 1 pkt 30, art. 1 pkt 33 i 34 w zakresie IWSW, art. 1 pkt 35, art. 1 pkt 42, art. 1 pkt 45 lit. b, art. 1 pkt 46 lit. b, art. 1 pkt 48 lit. a w zakresie art. 50 ust. 2 pkt 3 i lit. b w zakresie art. 50 ust. 3a, art. 1 pkt 54, art. 1 pkt 62 w zakresie art. 63 ust. 1 pkt 2 i 4 i ust. 2 pkt 1 i 3, art. 1 pkt 63, art. 1 pkt 70 lit. b w zakresie IWSW, art. 1 pkt 75 w zakresie art. 88 pkt 1 i 3, art. 1 pkt 76 lit. a, art. 1 pkt 80 w zakresie art. 98 ust. 3 w zakresie IWSW, art. 1 pkt 103 w zakresie art. 173 ust. 3 pkt 2 w zakresie IWSW, art. 1 pkt 106 w zakresie art. 192 pkt 1 w zakresie IWSW i pkt 3, art. 1 pkt 115 lit. b w zakresie pkt 1 w zakresie IWSW, art. 1 pkt 121 w zakresie art. 240a ust. 2 w zakresie IWSW, art. 1 pkt 127 w zakresie art. 246 ust. 2a, art. 1 pkt 130 lit. b w zakresie art. 250 ust. 1a i 1c w zakresie IWSW, art. 2–4, art. 6–11, art. 12 pkt 1 lit. b, art. 13–20, art. 21 pkt 1 lit. a tiret pierwsze i lit. b, art. 22, art. 23, art. 24 pkt 1, art. 26, art. 31 i art. 33–37, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.
+
 

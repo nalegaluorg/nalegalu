@@ -8,10 +8,10 @@ pos: 99
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 stycznia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 99 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 13 stycznia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000099) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/99/text.pdf) |
 
-Poz. 99 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 13 stycznia 2017 r.
-w sprawie sposobu zaliczania zakończonych okresów zatrudnienia do okresów pracy uprawniających do dodatku za wieloletnią pracę oraz okresów, za które przysługuje ten dodatek, i terminów jego wypłaty Na podstawie art. 68 ust. 4 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261) zarządza się, co następuje: § 1. 1. Przy ustalaniu prawa do dodatku za wieloletnią pracę przysługującego radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej, zwanemu dalej „radcą”, który był zatrudniony równocześnie w ramach więcej niż jednego zakończonego stosunku pracy, do okresu uprawniającego do dodatku za wieloletnią pracę wlicza się tylko jeden z tych okresów zatrudnienia.
+w sprawie sposobu zaliczania zakończonych okresów zatrudnienia do okresów pracy uprawniających do dodatku za wieloletnią pracę oraz okresów, za które przysługuje ten dodatek, i terminów jego wypłaty Na podstawie art. 68 ust. 4 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261) zarządza się, co następuje:
+§ 1. 1. Przy ustalaniu prawa do dodatku za wieloletnią pracę przysługującego radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej, zwanemu dalej „radcą”, który był zatrudniony równocześnie w ramach więcej niż jednego zakończonego stosunku pracy, do okresu uprawniającego do dodatku za wieloletnią pracę wlicza się tylko jeden z tych okresów zatrudnienia.
 2. Dodatek za wieloletnią pracę przysługuje radcy za dni, za które otrzymuje wynagrodzenie, oraz za dni nieobecności w pracy z powodu niezdolności do pracy wskutek choroby albo konieczności osobistego sprawowania opieki nad dzieckiem lub chorym członkiem rodziny, za które radca otrzymuje z tego tytułu zasiłek z ubezpieczenia społecznego.
 3. Dodatek za wieloletnią pracę wypłaca się w terminie wypłaty wynagrodzenia:
 1) począwszy od pierwszego dnia miesiąca kalendarzowego następującego po miesiącu, w którym radca nabył prawo do dodatku za wieloletnią pracę lub prawo do wyższej stawki dodatku za wieloletnią pracę, jeżeli nabycie prawa nastąpiło w ciągu miesiąca;

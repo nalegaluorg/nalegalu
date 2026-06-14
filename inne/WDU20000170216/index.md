@@ -8,10 +8,10 @@ pos: 216
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Lesznie Na podstawie art. 10 ust. 4 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590 i z 1998 r. Nr 106, poz. 668) zarządza się, co następuje: § 1. W Państwowej Wyższej Szkole Zawodowej w Lesznie, utworzonej na podstawie rozporządzenia Rady Ministrów z dnia 15 czerwca 1999 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Lesznie (Dz.U. Nr 55, poz.
+# w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Lesznie Na podstawie art. 10 ust. 4 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590 i z 1998 r. Nr 106, poz. 668) zarządza się, co następuje:
 
 *ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 2 marca 2000 r.*
 
@@ -26,6 +26,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000170216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/216/text.pdf) |
 
+§ 1. W Państwowej Wyższej Szkole Zawodowej w Lesznie, utworzonej na podstawie rozporządzenia Rady Ministrów z dnia 15 czerwca 1999 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Lesznie (Dz.U. Nr 55, poz.
 576), dokonuje się zmiany specjalności kształcenia polegającej na wprowadzeniu specjalności zawodowych:
 1) turystyka i rekreacja,
 2) pedagogika społeczna.

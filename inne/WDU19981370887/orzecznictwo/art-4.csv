@@ -20,6 +20,8 @@ saos_id|date|court|case_number|type|score|saos_url
 82946|2004-10-28|SN|II UK 66/04|Wyrok|78|https://www.saos.org.pl/judgments/82946
 82857|2004-09-24|SN|II UK 473/03|Wyrok|78|https://www.saos.org.pl/judgments/82857
 80385|2001-03-07|SN|I PKN 287/00|Wyrok|78|https://www.saos.org.pl/judgments/80385
+545384|2026-03-31|SO|III AUa 778/25|Wyrok|56|https://www.saos.org.pl/judgments/545384
+545508|2025-11-04|SO|III AUa 1418/25|Wyrok|56|https://www.saos.org.pl/judgments/545508
 537923|2025-07-30|SO|III AUa 45/25|Wyrok|56|https://www.saos.org.pl/judgments/537923
 537900|2025-07-09|SO|III AUa 1226/24|Wyrok|56|https://www.saos.org.pl/judgments/537900
 537896|2025-06-25|SO|III AUa 1104/24|Wyrok|56|https://www.saos.org.pl/judgments/537896
@@ -1237,6 +1239,7 @@ saos_id|date|court|case_number|type|score|saos_url
 446887|2019-12-05|SO|III AUa 1350/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/446887
 467472|2019-11-07|SO|III AUa 1929/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/467472
 13943|2013-06-18|SO|III AUa 410/13|Uzasadnienie|42|https://www.saos.org.pl/judgments/13943
+545651|2026-03-10|SO|VII U 1534/24|Wyrok|40|https://www.saos.org.pl/judgments/545651
 538971|2025-11-18|SO|VII U 874/21|Wyrok|40|https://www.saos.org.pl/judgments/538971
 538606|2025-10-15|SO|VII U 695/23|Wyrok|40|https://www.saos.org.pl/judgments/538606
 536770|2025-10-15|SO|VII U 677/24|Wyrok|40|https://www.saos.org.pl/judgments/536770

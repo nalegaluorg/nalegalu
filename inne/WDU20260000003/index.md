@@ -8,7 +8,7 @@ pos: 3
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o doręczeniach elektronicznych
@@ -33,9 +33,41 @@ Art. 61–146. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady doręczania korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego i publicznej usługi hybrydowej;
+- **2)** zasady i warunki świadczenia publicznej usługi rejestrowanego doręczenia elektronicznego i publicznej usługi hybrydowej;
+- **3)** zasady wykorzystywania kwalifikowanej usługi rejestrowanego doręczenia elektronicznego do wymiany korespondencji z podmiotami publicznymi.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** adres do doręczeń elektronicznych – adres elektroniczny, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513), podmiotu korzystającego z publicznej usługi rejestrowanego doręczenia elektronicznego lub publicznej usługi hybrydowej albo z kwalifikowanej usługi rejestrowanego doręczenia elektronicznego, umożliwiający jednoznaczną identyfikację nadawcy lub adresata danych przesyłanych w ramach tych usług;
+- **2)** dokument elektroniczny – dokument elektroniczny, o którym mowa w art. 3 pkt 35 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 73), zwanego dalej „rozporządzeniem 910/2014”;
+- **3)** kwalifikowana usługa rejestrowanego doręczenia elektronicznego – usługę, o której mowa w art. 3 pkt 37 rozporządzenia 910/2014;
+- **4)** operator wyznaczony – operatora wyznaczonego, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);
+- **5)** podmiot niepubliczny – osobę fizyczną i podmiot inny niż podmiot, o którym mowa w pkt 6;
+- **6)** podmiot publiczny:
+    - **a)** jednostkę sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz.
+
+- **1483)** ,
+    - **b)** inne niż określone w lit. a państwowe jednostki organizacyjne nieposiadające osobowości prawnej,
+    - **c)** inne niż określone w lit. a osoby prawne utworzone w szczególnym celu zaspokajania potrzeb o charakterze powszechnym, niemające charakteru przemysłowego ani handlowego, jeżeli podmioty, o których mowa w tym przepisie oraz w lit. a i b, pojedynczo lub wspólnie, bezpośrednio albo pośrednio przez inny podmiot: – finansują je w ponad 50 % lub – posiadają ponad połowę udziałów albo akcji, lub – sprawują nadzór nad organem zarządzającym, lub – mają prawo do powoływania ponad połowy składu organu nadzorczego lub zarządzającego,
+    - **d)** związki podmiotów, o których mowa w lit. a–c, jeżeli realizują zadania publiczne,
+    - **e)** komornika sądowego,
+    - **f)** uczelnię niepubliczną,
+    - **g)** federację podmiotów systemu szkolnictwa wyższego i nauki;
+
+- **7)** publiczna usługa hybrydowa – usługę pocztową, o której mowa w art. 2 ust. 1 pkt 3 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, świadczoną przez operatora wyznaczonego, jeżeli nadawcą przesyłki listowej jest podmiot publiczny;
+- **8)** publiczna usługa rejestrowanego doręczenia elektronicznego – usługę rejestrowanego doręczenia elektronicznego, o której mowa w art. 3 pkt 36 rozporządzenia 910/2014, świadczoną przez operatora wyznaczonego;
+- **9)** skrzynka doręczeń – narzędzie umożliwiające wysyłanie, odbieranie i przechowywanie danych zgodnie ze standardem, o którym mowa w art. 26a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725), w ramach publicznej usługi rejestrowanego doręczenia elektronicznego, a także w ramach publicznej usługi hybrydowej.
+
 **Art. 3.** Ustawy nie stosuje się do:
+
+- **1)** doręczania korespondencji:
+    - **a)** zawierającej informacje niejawne,
+    - **b)** w postępowaniu o udzielenie zamówienia publicznego oraz w konkursie prowadzonych na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ),
+    - **c)** w postępowaniu o zawarcie umowy koncesji prowadzonym na podstawie ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2025 r. poz. 1688),
+    - **d)** jeżeli przepisy odrębne przewidują wnoszenie lub doręczanie korespondencji z wykorzystaniem innych niż adres do doręczeń elektronicznych rozwiązań techniczno-organizacyjnych, w szczególności na konta w systemach teleinformatycznych obsługujących postępowania sądowe lub do repozytoriów dokumentów;
+
+- **2)** wymiany danych z systemami teleinformatycznymi za pomocą usług sieciowych.
 
 **Art. 4.**
 
@@ -44,6 +76,9 @@ Art. 61–146. (pominięte)
 2. W przypadku gdy adres do doręczeń elektronicznych podmiotu niepublicznego nie został wpisany do bazy adresów elektronicznych, doręczenie korespondencji następuje na adres do doręczeń elektronicznych, z którego podmiot niepubliczny nadał korespondencję.
 
 **Art. 5.** Podmiot publiczny doręcza korespondencję wymagającą uzyskania potwierdzenia jej nadania lub odbioru z wykorzystaniem publicznej usługi hybrydowej w przypadku:
+
+- **1)** braku możliwości doręczenia korespondencji na adres do doręczeń elektronicznych zgodnie z art. 4 albo
+- **2)** gdy posiada on wiedzę, że osoba fizyczna posiadająca adres do doręczeń elektronicznych została pozbawiona wolności.
 
 **Art. 6.**
 
@@ -94,6 +129,11 @@ Art. 61–146. (pominięte)
 
 **Art. 11.** Utworzenie adresu do doręczeń elektronicznych powiązanego z publiczną usługą rejestrowanego doręczenia elektronicznego oraz przyporządkowanie do niego skrzynki doręczeń następuje:
 
+- **1)** na podstawie wniosku lub
+- **2)** automatycznie po otrzymaniu przez ministra właściwego do spraw informatyzacji, za pośrednictwem systemu teleinformatycznego: o Krajowym Rejestrze Sądowym albo w art. 3 ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy – danych przekazanych w związku z wnioskiem o wpis do Krajowego Rejestru Sądowego albo do Centralnej Ewidencji i Informacji o Działalności Gospodarczej,
+    - **a)** o którym mowa w art. 3a ust. 1 ustawy z dnia 20 sierpnia 1997 r.
+    - **b)** operatora wyznaczonego – danych, o których mowa w art. 14 ust. 1 i 2, w przypadku podmiotów niepublicznych.
+
 **Art. 12.**
 
 1. Minister właściwy do spraw informatyzacji tworzy adres do doręczeń elektronicznych powiązany z publiczną usługą rejestrowanego doręczenia elektronicznego na wniosek podmiotu publicznego skierowany do tego ministra, a w przypadku podmiotów publicznych wpisanych do Krajowego Rejestru Sądowego – także w trybie, o którym mowa w art. 11 pkt 2 lit. a.
@@ -125,6 +165,9 @@ Art. 61–146. (pominięte)
 3. Wniosek o utworzenie adresu do doręczeń elektronicznych powiązanego z publiczną usługą rejestrowanego doręczenia elektronicznego dla podmiotu publicznego opatruje się kwalifikowaną pieczęcią elektroniczną podmiotu publicznego lub kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym osoby fizycznej uprawnionej do złożenia wniosku.
 
 **Art. 13.** Minister właściwy do spraw informatyzacji tworzy adres do doręczeń elektronicznych powiązany z publiczną usługą rejestrowanego doręczenia elektronicznego na wniosek podmiotu niepublicznego skierowany do tego ministra, a w przypadku podmiotów niepublicznych:
+
+- **1)** wpisanych do Krajowego Rejestru Sądowego albo do Centralnej Ewidencji i Informacji o Działalności Gospodarczej,
+- **2)** będących osobami fizycznymi – także odpowiednio w trybie, o którym mowa w art. 11 pkt 2.
 
 **Art. 14.**
 
@@ -325,6 +368,52 @@ Art. 61–146. (pominięte)
 
 **Art. 26.** W bazie adresów elektronicznych przetwarza się następujące dane:
 
+- **1)** w zakresie podmiotu publicznego:
+    - **a)** nazwę lub firmę, pod którą podmiot działa, a w przypadku komornika sądowego – jego imię i nazwisko oraz tytuł,
+    - **b)** numer identyfikacyjny REGON,
+    - **c)** numer identyfikacji podatkowej (NIP), jeżeli został nadany, lub informację o jego unieważnieniu lub uchyleniu,
+    - **d)** numer KRS, jeżeli został nadany,
+    - **e)** siedzibę i adres,
+    - **f)** adres do korespondencji,
+    - **g)** adres do doręczeń elektronicznych, w tym główny adres do doręczeń elektronicznych, o którym mowa w art. 32 ust. 4,
+    - **h)** datę wpisania adresu do doręczeń elektronicznych do bazy adresów elektronicznych,
+    - **i)** datę wykreślenia adresu do doręczeń elektronicznych z bazy adresów elektronicznych,
+    - **j)** imię i nazwisko administratora skrzynki doręczeń, jego adres poczty elektronicznej oraz numer PESEL, a jeżeli nie został nadany – niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji 2015/1501;
+
+- **2)** w zakresie podmiotu niepublicznego będącego osobą fizyczną:
+    - **a)** imię i nazwisko,
+    - **b)** firmę – w przypadku osoby fizycznej będącej przedsiębiorcą wpisanym do Centralnej Ewidencji i Informacji o Działalności Gospodarczej,
+    - **c)** tytuł zawodowy adwokata, radcy prawnego, doradcy podatkowego, doradcy restrukturyzacyjnego, notariusza lub rzecznika patentowego – w przypadku osoby fizycznej posiadającej tytuł zawodowy,
+    - **d)** numer identyfikacyjny REGON, jeżeli został nadany – w przypadku osoby fizycznej będącej przedsiębiorcą wpisanym do Centralnej Ewidencji i Informacji o Działalności Gospodarczej,
+    - **e)** numer identyfikacji podatkowej (NIP), jeżeli został nadany, lub informację o jego unieważnieniu lub uchyleniu – w przypadku osoby fizycznej będącej przedsiębiorcą wpisanym do Centralnej Ewidencji i Informacji o Działalności Gospodarczej,
+    - **f)** adres do korespondencji,
+    - **g)** adres do doręczeń – w przypadku osoby fizycznej będącej przedsiębiorcą wpisanym do Centralnej Ewidencji i Informacji o Działalności Gospodarczej,
+    - **h)** numer PESEL, a jeżeli nie został nadany – niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji 2015/1501,
+    - **i)** adres do doręczeń elektronicznych,
+    - **j)** adres do doręczeń elektronicznych wykorzystywany w ramach prowadzonej działalności gospodarczej – w przypadku osoby fizycznej wpisanej do Centralnej Ewidencji i Informacji o Działalności Gospodarczej,
+    - **k)** adres do doręczeń elektronicznych wykorzystywany w ramach prowadzonej działalności zawodowej – w przypadku osoby fizycznej będącej adwokatem, radcą prawnym, doradcą podatkowym, doradcą restrukturyzacyjnym, notariuszem lub rzecznikiem patentowym,
+    - **l)** adres poczty elektronicznej, o którym mowa w art. 14 ust. 1 pkt 8 i art. 16 ust. 1 pkt 2 lit. g,
+    - **m)** oznaczenie dostawcy publicznej usługi rejestrowanego doręczenia elektronicznego albo kwalifikowanej usługi rejestrowanego doręczenia elektronicznego,
+    - **n)** datę wpisania adresu do doręczeń elektronicznych do bazy adresów elektronicznych,
+    - **o)** datę wykreślenia adresu do doręczeń elektronicznych z bazy adresów elektronicznych,
+    - **p)** imię i nazwisko administratora skrzynki doręczeń, jego adres poczty elektronicznej oraz numer PESEL, a jeżeli nie został nadany – niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji 2015/1501,
+    - **q)** informację o korzystaniu z dodatkowych usług, o których mowa w art. 53 ust. 1, w zakresie wymiany korespondencji między podmiotami niepublicznymi;
+
+- **3)** w zakresie podmiotu niepublicznego niebędącego osobą fizyczną:
+    - **a)** nazwę lub firmę, pod którą podmiot działa,
+    - **b)** numer identyfikacyjny REGON, jeżeli został nadany,
+    - **c)** numer identyfikacji podatkowej (NIP), jeżeli został nadany, lub informację o jego unieważnieniu lub uchyleniu,
+    - **d)** numer KRS, jeżeli został nadany,
+    - **e)** oznaczenie formy prawnej,
+    - **f)** siedzibę i adres,
+    - **g)** adres do korespondencji,
+    - **h)** adres do doręczeń elektronicznych,
+    - **i)** oznaczenie dostawcy publicznej usługi rejestrowanego doręczenia elektronicznego albo kwalifikowanej usługi rejestrowanego doręczenia elektronicznego,
+    - **j)** datę wpisania adresu do doręczeń elektronicznych do bazy adresów elektronicznych,
+    - **k)** datę wykreślenia adresu do doręczeń elektronicznych z bazy adresów elektronicznych,
+    - **l)** imię i nazwisko administratora skrzynki doręczeń, jego adres poczty elektronicznej oraz numer PESEL, a jeżeli nie został nadany – niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji 2015/1501,
+    - **m)** informację o korzystaniu z dodatkowych usług, o których mowa w art. 53 ust. 1, w zakresie wymiany korespondencji między podmiotami niepublicznymi.
+
 **Art. 27.**
 
 1. W przypadku zmiany w rejestrze PESEL numeru PESEL, imienia lub nazwiska podmiotu niepublicznego będącego osobą fizyczną oraz administratora skrzynki doręczeń dokonywana jest automatyczna aktualizacja tych danych w bazie adresów elektronicznych.
@@ -332,6 +421,12 @@ Art. 61–146. (pominięte)
 2. W przypadku gdy w rejestrze PESEL odnotowany został zgon osoby fizycznej, o której mowa w art. 26 pkt 2, lub administratora skrzynki doręczeń, informacja w tym zakresie jest automatycznie przekazywana do bazy adresów elektronicznych.
 
 **Art. 28.** Wpis do bazy adresów elektronicznych adresu do doręczeń elektronicznych powiązanego z kwalifikowaną usługą rejestrowanego doręczenia elektronicznego następuje:
+
+- **1)** na podstawie wniosku podmiotu niepublicznego lub
+- **2)** automatycznie, po otrzymaniu przez ministra właściwego do spraw informatyzacji danych, o których mowa w art. 30, za pośrednictwem:
+    - **a)** kwalifikowanego dostawcy usługi zaufania świadczącego kwalifikowaną usługę rejestrowanego doręczenia elektronicznego,
+    - **b)** systemu teleinformatycznego, o którym mowa w art. 3a ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym,
+    - **c)** systemu teleinformatycznego, o którym mowa w art. 3 ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy.
 
 **Art. 29.**
 
@@ -620,6 +715,20 @@ Art. 61–146. (pominięte)
 
 **Art. 50.** Minister właściwy do spraw łączności w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
 
+- **1)** wskaźniki czasu przebiegu przesyłek listowych w ramach publicznej usługi hybrydowej, z tym że doręczenie przesyłki nastąpi w czasie nie dłuższym niż 6 dni od dnia nadania,
+- **2)** wymagania dotyczące przyjmowania i doręczania przesyłek listowych w ramach publicznej usługi hybrydowej, w tym:
+    - **a)** sposób przekazywania i warunki przyjmowania przesyłek listowych,
+    - **b)** sposób ustalania, czy przesyłka listowa nadaje się do przekształcenia w postać papierową,
+    - **c)** szczegółowy tryb postępowania, w przypadku gdy przesyłka listowa nie nadaje się do przekształcenia w postać papierową,
+    - **d)** maksymalny czas przechowywania przez operatora wyznaczonego przesyłek listowych nadanych za pomocą środków komunikacji elektronicznej w ramach publicznej usługi hybrydowej,
+    - **e)** sposób dokumentowania wykonania usługi doręczenia przesyłki listowej w ramach publicznej usługi hybrydowej jako przesyłki rejestrowanej, o której mowa w art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, w tym formę i sposób wystawiania dokumentu elektronicznego potwierdzającego odbiór przesyłki rejestrowanej,
+    - **f)** terminy odbioru przesyłek listowych z placówki pocztowej operatora wyznaczonego i sposób postępowania z przesyłkami nieodebranymi,
+    - **g)** wymagania w zakresie opakowania przesyłek listowych,
+    - **h)** sposób przekształcenia w postać papierową, w tym rozmieszczenia oznaczenia adresata, adresu oraz innych oznaczeń na stronie adresowej przesyłki listowej,
+
+- **3)** okoliczności uznania usług za niewykonane lub nienależycie wykonane,
+- **4)** maksymalną łączną wielkość załączników w pojedynczej korespondencji – mając na uwadze sprawne realizowanie publicznej usługi hybrydowej oraz zachowanie odpowiednich standardów i bezpieczeństwa doręczanej korespondencji.
+
 **Art. 51.**
 
 1. Operator wyznaczony przekazuje ministrowi właściwemu do spraw informatyzacji oraz ministrowi właściwemu do spraw łączności do 25. dnia każdego miesiąca zestawienia statystyczne korespondencji zrealizowanej w ramach publicznej usługi rejestrowanego doręczenia elektronicznego oraz w ramach publicznej usługi hybrydowej za poprzedni miesiąc.
@@ -839,6 +948,9 @@ Art. 61–146. (pominięte)
 
 **Art. 150.** Operator wyznaczony przedkłada Prezesowi UKE projekt pierwszego:
 
+- **1)** cennika, o którym mowa w art. 52 ust. 6, do dnia 30 kwietnia 2021 r.;
+- **2)** regulaminu świadczenia publicznej usługi rejestrowanego doręczenia elektronicznego i publicznej usługi hybrydowej, o którym mowa w art. 54 ust. 3, do dnia 30 kwietnia 2021 r.
+
 **Art. 151.**
 
 1. Podmioty niepubliczne wpisane do rejestru, o którym mowa w art. 1 ust. 2 pkt 1 ustawy zmienianej w art. 83 , przed dniem określonym w komunikacie wydanym na podstawie art. 155 ust. 10, obowiązane są do zrealizowania obowiązku, o którym mowa w art. 9, w terminie 3 miesięcy od dnia określonego w tym komunikacie.
@@ -1037,4 +1149,17 @@ Art. 61–146. (pominięte)
 **Art. 165.** Przepisy art. 160 obowiązują do dnia 30 września 2029 r.
 
 **Art. 166.** Ustawa wchodzi w życie z dniem 5 października 2021 r., z wyjątkiem:
+
+- **1)** art. 145 i art. 146, które wchodzą w życie z dniem następującym po dniu ogłoszenia ;
+- **2)** art. 80, art. 115, art. 144 i art. 161, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia;
+- **3)** art. 96 pkt 18, art. 130, art. 134, art. 149 ust. 1 oraz art. 150, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **4)** art. 38 ust. 6, art. 50, art. 52 ust. 5–7, art. 54 ust. 1–5 oraz art. 57 ust. 4, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
+- **5)** art. 9 ust. 1 pkt 1–6 i 8, art. 11 pkt 2, art. 16 ust. 1, art. 18 ust. 2, art. 28 pkt 2 lit. b i c, art. 31, art. 58 ust. 1 pkt 4, art. 63, art. 83 oraz art. 141, które wchodzą w życie z dniem określonym w komunikacie wydanym na podstawie art. 155 ust. 10;
+- **6)** art. 122, który wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem pkt 5, który wchodzi w życie z dniem 1 stycznia 2026 r.;
+- **7)** (uchylony)
+- **8)** art. 126 pkt 8, który wchodzi w życie z dniem 1 stycznia 2023 r.;
+- **9)** art. 9 ust. 1 pkt 9, który wchodzi w życie z dniem 1 października 2026 r.;
+- **10)** art. 82 pkt 2, w zakresie dodawanego art. 100b, i art. 159, które wchodzą w życie z dniem 1 października 2028 r.;
+- **11)** art. 82 pkt 1, 2, w zakresie dodawanego art. 100a, i pkt 3–21, art. 93, art. 96 pkt 1–17 i 19, art. 105 oraz art. 162, które wchodzą w życie z dniem 1 października 2029 r.
+
 

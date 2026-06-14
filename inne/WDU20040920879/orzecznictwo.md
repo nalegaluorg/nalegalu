@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 16 kwietnia 2004 r. o czasie pracy kierowców*
 
-Łącznie: **231** orzeczeń
+Łącznie: **232** orzeczeń
 (pominięto 355 orzeczeń sądów rejonowych)
 
 ## art. 1 (4)
@@ -501,8 +501,9 @@ Orzeczenia powołujące: *Ustawa z dnia 16 kwietnia 2004 r. o czasie pracy kiero
 
 - 2019-03-22 | SO | [VIII Pa 17/16](https://www.saos.org.pl/judgments/384010) | Uzasadnienie
 
-## (ogólnie) (20)
+## (ogólnie) (21)
 
+- 2025-11-04 | SO | [III AUa 1418/25](https://www.saos.org.pl/judgments/545508) | Wyrok
 - 2021-11-08 | SO | [III AUa 197/21](https://www.saos.org.pl/judgments/452696) | Wyrok
 - 2021-02-25 | SO | [III AUa 395/20](https://www.saos.org.pl/judgments/443873) | Wyrok
 - 2018-04-09 | SO | [III AUa 856/17](https://www.saos.org.pl/judgments/408543) | Wyrok

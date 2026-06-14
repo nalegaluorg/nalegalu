@@ -8,10 +8,10 @@ pos: 2445
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 listopada 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2445 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 7 listopada 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002445) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2445/text.pdf) |
 
-OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 7 listopada 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie zakazu stosowania materiału siewnego odmian kukurydzy MON 810
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 2 stycznia 2013 r. w sprawie zakazu stosowania materiału siewnego odmian kukurydzy MON 810 (Dz. U. z 2014 r. poz. 1085), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Rady Ministrów z dnia 5 maja 2015 r. zmieniającym rozporządzenie w sprawie zakazu stosowania materiału siewnego odmian kukurydzy MON 810 (Dz. U. poz. 688);
@@ -48,7 +47,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 8) § 2 rozporządzenia Rady Ministrów z dnia 7 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie zakazu stosowania materiału siewnego odmian kukurydzy MON 810 (Dz. U. poz. 903), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
 9) § 2 rozporządzenia Rady Ministrów z dnia 12 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie zakazu stosowania materiału siewnego odmian kukurydzy MON 810 (Dz. U. poz. 844), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 2 stycznia 2013 r.
-w sprawie zakazu stosowania materiału siewnego odmian kukurydzy MON 810 Na podstawie art. 104 ust. 9 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) zarządza się, co następuje: § 1. Wprowadza się zakaz stosowania materiału siewnego odmian kukurydzy MON 810, wymienionych w załączniku do rozporządzenia.
+w sprawie zakazu stosowania materiału siewnego odmian kukurydzy MON 810 Na podstawie art. 104 ust. 9 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) zarządza się, co następuje:
+§ 1. Wprowadza się zakaz stosowania materiału siewnego odmian kukurydzy MON 810, wymienionych w załączniku do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 28 stycznia 2013 r.
 ODMIANY KUKURYDZY MON 810, KTÓRYCH MATERIAŁ SIEWNY NIE MOŻE BYĆ STOSOWANY
 1. Aliacan BT

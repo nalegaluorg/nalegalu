@@ -8,12 +8,10 @@ pos: 46
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o rzemiośle
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -28,7 +26,7 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000046) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/46/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159), z uwzględnieniem zmian wprowadzonych ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 stycznia 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 34 i art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), które stanowią: „Art. 34. Młodociani w rozumieniu art. 190 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 34 i art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), które stanowią: „Art. 34. Młodociani w rozumieniu art. 190 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r.
 poz. 277), którzy przed dniem wejścia w życie niniejszej ustawy nie zakończyli przygotowania zawodowego odbywanego u pracodawcy niebędącego rzemieślnikiem w rozumieniu art. 2 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym, który po dniu wejścia w życie niniejszej ustawy spełnia warunki uznania go za rzemieślnika w rozumieniu art. 2 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, kontynuują to przygotowanie zawodowe oraz zdają egzaminy na dotychczasowych zasadach dotyczących młodocianych zatrudnionych u pracodawców niebędących rzemieślnikami w rozumieniu art. 2 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą.” „Art. 48. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą w życie z dniem 1 stycznia 2026 r.;
 2) art. 28 oraz art. 44, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”.
@@ -38,21 +36,21 @@ o rzemiośle
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Przedsiębiorcy wykonujący działalność gospodarczą na podstawie ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) mogą wykonywać tę działalność z zachowaniem warunków określonych w niniejszej ustawie. Działalność takich osób jest zaliczana do rzemiosła.
+**Art. 1.** Przedsiębiorcy wykonujący działalność gospodarczą na podstawie ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) mogą wykonywać tę działalność z zachowaniem warunków określonych w niniejszej ustawie. Działalność takich osób jest zaliczana do rzemiosła.
 
 **Art. 2.**
 
 1. Rzemiosłem jest zawodowe wykonywanie działalności gospodarczej przez:
 
-- **1)** osobę fizyczną z wykorzystaniem jej pracy własnej i kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców lub
+- **1)** osobę fizyczną z wykorzystaniem jej pracy własnej i kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle – jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców lub
 - **2)** wspólników spółki cywilnej w zakresie wykonywanej przez nich wspólnie działalności gospodarczej, jeżeli działalność gospodarcza w ramach tej spółki jest wykonywana z wykorzystaniem pracy własnej oraz kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle co najmniej jednej osoby fizycznej, która jest wspólnikiem:
     - **a)** tej spółki cywilnej lub
-    - **b)** spółki handlowej, z wyłączeniem spółki partnerskiej, będącej wspólnikiem tej spółki cywilnej jeżeli wspólnicy tej spółki cywilnej łącznie spełniają warunki do uznania za mikroprzedsiębiorcę, małego przedsiębiorcę albo średniego przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, lub
+    - **b)** spółki handlowej, z wyłączeniem spółki partnerskiej, będącej wspólnikiem tej spółki cywilnej – jeżeli wspólnicy tej spółki cywilnej łącznie spełniają warunki do uznania za mikroprzedsiębiorcę, małego przedsiębiorcę albo średniego przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, lub
 
-- **3)** spółkę jawną z wykorzystaniem pracy własnej co najmniej jednego wspólnika będącego osobą fizyczną oraz jego kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, lub
-- **4)** spółkę komandytową z wykorzystaniem pracy własnej co najmniej jednego wspólnika będącego osobą fizyczną oraz jego kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, lub
-- **5)** spółkę komandytowo-akcyjną z wykorzystaniem pracy własnej co najmniej jednego wspólnika będącego osobą fizyczną oraz jego kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, lub
-- **6)** spółkę kapitałową z wykorzystaniem pracy własnej co najmniej jednego wspólnika albo akcjonariusza będących osobami fizycznymi oraz ich kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+- **3)** spółkę jawną z wykorzystaniem pracy własnej co najmniej jednego wspólnika będącego osobą fizyczną oraz jego kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle – jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, lub
+- **4)** spółkę komandytową z wykorzystaniem pracy własnej co najmniej jednego wspólnika będącego osobą fizyczną oraz jego kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle – jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, lub
+- **5)** spółkę komandytowo-akcyjną z wykorzystaniem pracy własnej co najmniej jednego wspólnika będącego osobą fizyczną oraz jego kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle – jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, lub
+- **6)** spółkę kapitałową z wykorzystaniem pracy własnej co najmniej jednego wspólnika albo akcjonariusza będących osobami fizycznymi oraz ich kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle – jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 1a. (uchylony)
 
@@ -70,18 +68,18 @@ o rzemiośle
 6. Rzemieślnikiem jest:
 
 - **1)** osoba fizyczna, o której mowa w ust. 1 pkt 1;
-- **2)** wspólnik spółki cywilnej osób fizycznych w zakresie wykonywanej przez nie wspólnie działalności gospodarczej jeżeli spełniają one indywidualnie i łącznie warunki określone w ust. 1 pkt 1;
-- **3)** spółka jawna wykonująca działalność gospodarczą z wykorzystaniem pracy własnej wszystkich wspólników będących osobami fizycznymi oraz ich kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, o których mowa w art. 3 ust. 1 pkt 2 lub 3, jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców;
-- **4)** spółka komandytowa osób fizycznych wykonująca działalność gospodarczą z wykorzystaniem pracy własnej wszystkich wspólników oraz ich kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, o których mowa w art. 3 ust. 1 pkt 2 lub 3, jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców;
-- **5)** spółka komandytowo-akcyjna osób fizycznych wykonująca działalność gospodarczą z wykorzystaniem pracy własnej wszystkich wspólników oraz ich kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, o których mowa w art. 3 ust. 1 pkt 2 lub 3, jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców;
-- **6)** jednoosobowa spółka kapitałowa, powstała na podstawie art. 551 § 5 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) w wyniku przekształcenia przedsiębiorcy będącego osobą fizyczną, wykonującego we własnym imieniu działalność gospodarczą z wykorzystaniem pracy własnej oraz kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, jeżeli powstała spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców;
+- **2)** wspólnik spółki cywilnej osób fizycznych w zakresie wykonywanej przez nie wspólnie działalności gospodarczej – jeżeli spełniają one indywidualnie i łącznie warunki określone w ust. 1 pkt 1;
+- **3)** spółka jawna wykonująca działalność gospodarczą z wykorzystaniem pracy własnej wszystkich wspólników będących osobami fizycznymi oraz ich kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, o których mowa w art. 3 ust. 1 pkt 2 lub 3, jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **4)** spółka komandytowa osób fizycznych wykonująca działalność gospodarczą z wykorzystaniem pracy własnej wszystkich wspólników oraz ich kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, o których mowa w art. 3 ust. 1 pkt 2 lub 3, jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **5)** spółka komandytowo-akcyjna osób fizycznych wykonująca działalność gospodarczą z wykorzystaniem pracy własnej wszystkich wspólników oraz ich kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, o których mowa w art. 3 ust. 1 pkt 2 lub 3, jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **6)** jednoosobowa spółka kapitałowa, powstała na podstawie art. 551 § 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) w wyniku przekształcenia przedsiębiorcy będącego osobą fizyczną, wykonującego we własnym imieniu działalność gospodarczą z wykorzystaniem pracy własnej oraz kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, jeżeli powstała spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
 - **7)** spółka, o której mowa w pkt 3–5, jeżeli wykonuje działalność gospodarczą z wykorzystaniem pracy własnej co najmniej jednego wspólnika oraz jego kwalifikacji zawodowych w rzemiośle potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, o których mowa w art. 3 ust. 1 pkt 2 lub 3, pod warunkiem że pozostałymi wspólnikami są małżonek, wstępni lub zstępni wspólnika;
-- **8)** wspólnik spółki cywilnej osób fizycznych w zakresie wykonywanej przez nie wspólnie działalności gospodarczej, jeżeli działalność gospodarcza jest wykonywana z wykorzystaniem pracy własnej co najmniej jednego wspólnika oraz jego kwalifikacji zawodowych w rzemiośle, potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, pod warunkiem że pozostałymi wspólnikami są małżonek, wstępni lub zstępni wspólnika oraz wszyscy wspólnicy łącznie są mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+- **8)** wspólnik spółki cywilnej osób fizycznych w zakresie wykonywanej przez nie wspólnie działalności gospodarczej, jeżeli działalność gospodarcza jest wykonywana z wykorzystaniem pracy własnej co najmniej jednego wspólnika oraz jego kwalifikacji zawodowych w rzemiośle, potwierdzonych dowodami kwalifikacji zawodowych w rzemiośle, pod warunkiem że pozostałymi wspólnikami są małżonek, wstępni lub zstępni wspólnika oraz wszyscy wspólnicy łącznie są mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 7. Rzemieślnikiem jest również:
 
 - **1)** wspólnik spółki cywilnej, o której mowa w ust. 1 pkt 2, inny niż wspólnik spółki cywilnej, o którym mowa w ust. 6 pkt 2 i 8,
-- **2)** spółka, o której mowa w ust. 1 pkt 3–6, inna niż spółka, o której mowa w ust. 6 pkt 3–7 pod warunkiem zrzeszenia się w jednej z organizacji samorządu gospodarczego rzemiosła, o których mowa w art. 7 ust. 3 pkt 1 i 3.
+- **2)** spółka, o której mowa w ust. 1 pkt 3–6, inna niż spółka, o której mowa w ust. 6 pkt 3–7 – pod warunkiem zrzeszenia się w jednej z organizacji samorządu gospodarczego rzemiosła, o których mowa w art. 7 ust. 3 pkt 1 i 3.
 
 8. Podmioty, o których mowa w ust. 7, nabywają status rzemieślnika z dniem podjęcia przez właściwy organ statutowy organizacji samorządu gospodarczego rzemiosła uchwały o przyjęciu przedsiębiorcy do tej organizacji.
 
@@ -102,7 +100,7 @@ o rzemiośle
 
 3a. Podstawę przeprowadzania egzaminów w zawodach odpowiadających danemu rodzajowi rzemiosła stanowią standardy wymagań egzaminacyjnych ustalone przez Związek Rzemiosła Polskiego, z zastrzeżeniem ust. 3b.
 
-3b. Podstawę przeprowadzania egzaminu czeladniczego w zawodzie określonym w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837), stanowią wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
+3b. Podstawę przeprowadzania egzaminu czeladniczego w zawodzie określonym w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837), stanowią wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
 
 3c. Nadzór nad działalnością komisji egzaminacyjnych izb rzemieślniczych sprawuje Związek Rzemiosła Polskiego przez:
 
@@ -114,18 +112,18 @@ o rzemiośle
 
 3e. Osoby, o których mowa w ust. 3d, mogą wydawać komisjom egzaminacyjnym zalecenia wynikające z przeprowadzonych czynności nadzoru. Komisja egzaminacyjna w ciągu 7 dni od otrzymania zaleceń może zgłosić wobec nich zastrzeżenia do Związku Rzemiosła Polskiego. W przypadku nieuwzględnienia zastrzeżeń przez Związek Rzemiosła Polskiego komisja egzaminacyjna jest obowiązana powiadomić Związek Rzemiosła Polskiego o realizacji zaleceń w terminie 30 dni.
 
-3f. W przypadku stwierdzenia istotnych uchybień w działalności komisji egzaminacyjnych Związek Rzemiosła Polskiego może wezwać komisję do usunięcia uchybień w wyznaczonym terminie, a w przypadku nieusunięcia uchybień odwołać osoby wchodzące w skład komisji lub cały skład komisji albo unieważnić egzamin w całości lub w części.
+3f. W przypadku stwierdzenia istotnych uchybień w działalności komisji egzaminacyjnych Związek Rzemiosła Polskiego może wezwać komisję do usunięcia uchybień w wyznaczonym terminie, a w przypadku nieusunięcia uchybień – odwołać osoby wchodzące w skład komisji lub cały skład komisji albo unieważnić egzamin w całości lub w części.
 
 3g. Izba rzemieślnicza:
 
 - **1)** zatwierdza zadania i pytania egzaminacyjne, opracowane na podstawie standardów wymagań, o których mowa w ust. 3a i 3b;
 - **2)** zatwierdza szczegółowe kryteria oceniania;
 - **3)** dopuszcza kandydatów do egzaminów;
-- **4)** informuje kandydatów o wysokości opłaty za egzaminy przy czym opłata wynosi za egzamin:
-    - **a)** mistrzowski 1400,00 zł,
-    - **b)** czeladniczy 700,00 zł,
-    - **c)** sprawdzający 250,00 zł,
-    - **d)** poprawkowy 50 % opłaty określonej w lit. a albo b;
+- **4)** informuje kandydatów o wysokości opłaty za egzaminy – przy czym opłata wynosi za egzamin:
+    - **a)** mistrzowski – 1400,00 zł,
+    - **b)** czeladniczy – 700,00 zł,
+    - **c)** sprawdzający – 250,00 zł,
+    - **d)** poprawkowy – 50 % opłaty określonej w lit. a albo b;
 
 - **5)** prowadzi dokumentację komisji egzaminacyjnej, w tym ewidencję egzaminów;
 - **6)** rozpatruje skargi kandydatów dotyczące prawidłowości przeprowadzenia egzaminu;
@@ -145,7 +143,7 @@ o rzemiośle
 
 **Art. 3a.**
 
-1. Rzemieślnikowi osobie fizycznej posiadającej znaczący i uznany dorobek zawodowy w zakresie wytwarzania lub odtwarzania przedmiotów o charakterze artystycznym lub zabytkowym, naprawy i konserwacji takich przedmiotów, naprawy i konserwacji zabytkowych obiektów budowlanych oraz świadczenia usług związanych z artystycznym zdobieniem obiektów budowlanych może zostać nadany tytuł honorowy „Mistrz Rzemiosł Artystycznych”.
+1. Rzemieślnikowi – osobie fizycznej posiadającej znaczący i uznany dorobek zawodowy w zakresie wytwarzania lub odtwarzania przedmiotów o charakterze artystycznym lub zabytkowym, naprawy i konserwacji takich przedmiotów, naprawy i konserwacji zabytkowych obiektów budowlanych oraz świadczenia usług związanych z artystycznym zdobieniem obiektów budowlanych może zostać nadany tytuł honorowy „Mistrz Rzemiosł Artystycznych”.
 
 2. Tytuł honorowy „Mistrz Rzemiosł Artystycznych” nadaje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
 
@@ -154,7 +152,7 @@ o rzemiośle
 - **1)** tryb nadawania tytułu honorowego „Mistrz Rzemiosł Artystycznych”,
 - **2)** podmioty uprawnione do występowania z wnioskiem o nadanie tytułu,
 - **3)** warunki, jakie musi spełniać wniosek o nadanie tytułu,
-- **4)** wzór dyplomu potwierdzającego nadanie tytułu mając na względzie wspieranie zanikających zawodów oraz promocję umiejętności istotnych dla funkcjonowania wielu dziedzin kultury i sztuki jak również ochrony dziedzictwa narodowego.
+- **4)** wzór dyplomu potwierdzającego nadanie tytułu – mając na względzie wspieranie zanikających zawodów oraz promocję umiejętności istotnych dla funkcjonowania wielu dziedzin kultury i sztuki jak również ochrony dziedzictwa narodowego.
 
 #### Rozdział 2 Podstawowe prawa i obowiązki rzemieślnika
 

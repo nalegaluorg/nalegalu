@@ -8,10 +8,10 @@ pos: 1837
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1837 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 6 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001837) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1837/text.pdf) |
 
-Poz. 1837 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 6 września 2023 r.
-w sprawie szczegółowego sposobu i trybu składania wniosków o przyznanie jednorazowych świadczeń dla nauczycieli w formie bonów na zakup laptopów lub laptopów przeglądarkowych oraz obsługi wniosków w systemie teleinformatycznym Na podstawie art. 20 ust. 5 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369) zarządza się, co następuje: § 1. Użyte w rozporządzeniu określenia oznaczają:
+w sprawie szczegółowego sposobu i trybu składania wniosków o przyznanie jednorazowych świadczeń dla nauczycieli w formie bonów na zakup laptopów lub laptopów przeglądarkowych oraz obsługi wniosków w systemie teleinformatycznym Na podstawie art. 20 ust. 5 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369) zarządza się, co następuje:
+§ 1. Użyte w rozporządzeniu określenia oznaczają:
 1) organ prowadzący – organ prowadzący szkołę, o którym mowa w art. 3 ust. 3 i 4 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli;
 2) system teleinformatyczny – system teleinformatyczny, o którym mowa w art. 20 ust. 1 ustawy z dnia 7 lipca 2023 r.
 o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli;

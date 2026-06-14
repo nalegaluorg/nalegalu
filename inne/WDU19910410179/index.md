@@ -8,7 +8,7 @@ pos: 179
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o izbach aptekarskich
@@ -325,6 +325,13 @@ source: "isap-pdf"
 
 **Art. 11.** Mandat członka organu izby aptekarskiej wygasa wskutek:
 
+- **1)** śmierci;
+- **2)** zrzeczenia się mandatu;
+- **3)** skreślenia z listy członków izby aptekarskiej;
+- **4)** odwołania przez organ, który dokonał wyboru;
+- **5)** ukarania prawomocnym orzeczeniem sądu aptekarskiego na kary określone w art. 46 ust. 1 pkt 3 i 4;
+- **6)** prawomocnego orzeczenia pozbawienia praw publicznych lub zakazu wykonywania zawodu farmaceuty.
+
 **Art. 12.** Uchwały organów samorządu zawodu farmaceuty podejmowane są zwykłą większością głosów, przy obecności co najmniej połowy członków danego organu.
 
 **Art. 13.**
@@ -357,7 +364,15 @@ source: "isap-pdf"
 
 **Art. 21.** Członkowie samorządu zawodu farmaceuty są obowiązani:
 
+- **1)** przestrzegać zasad etyki i deontologii zawodowej, godnie zachowywać się i sumiennie wykonywać swoje obowiązki zawodowe;
+- **2)** zachować w tajemnicy wiadomości dotyczące zdrowia pacjenta, uzyskane w związku z wykonywaniem zawodu.
+
 **Art. 22.** Członkowie samorządu zawodu farmaceuty mają prawo:
+
+- **1)** wybierać i być wybierani do organów samorządu zawodu farmaceuty, z zastrzeżeniem art. 9 ust. 4 i 5;
+- **2)** korzystać z pomocy izb aptekarskich w zakresie rozwijania kwalifikacji zawodowych oraz zapewniania właściwych warunków wykonywania zawodu;
+- **3)** korzystać z ochrony i pomocy prawnej organów izb aptekarskich;
+- **4)** korzystać ze świadczeń instytucji izb aptekarskich i działalności samopomocowej.
 
 **Art. 23.**
 
@@ -368,6 +383,12 @@ source: "isap-pdf"
 3. Pracodawca nie może wypowiedzieć farmaceucie, o którym mowa w ust. 1, warunków pracy i płacy na jego niekorzyść, chyba że zachodzą przyczyny określone w art. 43 Kodeksu pracy.
 
 **Art. 24.** Organami okręgowej izby aptekarskiej są:
+
+- **1)** okręgowy zjazd aptekarzy;
+- **2)** okręgowa rada aptekarska;
+- **3)** okręgowa komisja rewizyjna;
+- **4)** okręgowy sąd aptekarski;
+- **5)** okręgowy rzecznik odpowiedzialności zawodowej.
 
 **Art. 25.**
 
@@ -394,6 +415,14 @@ source: "isap-pdf"
 
 **Art. 27.** Okręgowy zjazd aptekarzy w szczególności:
 
+- **1)** podejmuje uchwały w sprawach objętych zakresem działania izby;
+- **2)** uchwala budżet i ustala zasady gospodarki finansowej izby;
+- **3)** rozpatruje i zatwierdza roczne i kadencyjne sprawozdania okręgowej rady aptekarskiej, okręgowej komisji rewizyjnej, okręgowego sądu aptekarskiego i okręgowego rzecznika odpowiedzialności zawodowej;
+- **4)** uchwala regulaminy organów izby, z wyłączeniem okręgowego sądu aptekarskiego;
+- **5)** ustala liczbę członków organów izby i zastępców rzecznika odpowiedzialności zawodowej;
+- **6)** dokonuje wyboru prezesa i członków okręgowej rady aptekarskiej, członków okręgowej komisji rewizyjnej, członków okręgowego sądu aptekarskiego oraz okręgowego rzecznika odpowiedzialności zawodowej i jego zastępców;
+- **7)** dokonuje wyboru delegatów na Krajowy Zjazd Aptekarzy.
+
 **Art. 28.**
 
 1. Okręgowa rada aptekarska wybiera spośród swoich członków prezydium. Prezydium okręgowej rady aptekarskiej stanowią: prezes oraz wybrani przez radę jego zastępcy, sekretarz, skarbnik i członkowie.
@@ -404,17 +433,39 @@ source: "isap-pdf"
 
 **Art. 29.** Okręgowa rada aptekarska kieruje działalnością izby w okresie między okręgowymi zjazdami aptekarzy, a w szczególności:
 
+- **1)** wykonuje zadania i czynności określone w art. 7 ust. 2 pkt 1–2, 4–7, 9–13;
+- **2)** wykonuje uchwały okręgowego zjazdu aptekarzy;
+- **3)** określa wysokość składki członkowskiej;
+- **4)** składa przed okręgowym zjazdem aptekarzy sprawozdanie z działalności i wykonania budżetu;
+- **5)** wydaje opinię w sprawach udzielania lub cofania koncesji na prowadzenie aptek lub hurtowni;
+- **6)** współdziała z samorządem terytorialnym w sprawie rozmieszczenia aptek;
+- **7)** prowadzi bieżące sprawy izby;
+- **8)** wykonuje zadania zlecone przez Naczelną Radę Aptekarską.
+
 **Art. 30.** Przewodniczącemu okręgowej komisji rewizyjnej, przewodniczącemu okręgowego sądu aptekarskiego oraz okręgowemu rzecznikowi odpowiedzialności zawodowej służy prawo do udziału w posiedzeniach okręgowej rady aptekarskiej i jej prezydium.
 
 **Art. 31.** Okręgowa komisja rewizyjna:
 
+- **1)** kontroluje działalność finansową i gospodarczą izby;
+- **2)** przedstawia sprawozdania z działalności kontrolnej okręgowemu zjazdowi aptekarzy;
+- **3)** występuje z wnioskiem o udzielenie absolutorium okręgowej radzie aptekarskiej.
+
 **Art. 32.** Okręgowy sąd aptekarski:
+
+- **1)** rozpatruje sprawy z zakresu odpowiedzialności zawodowej członków okręgowych izb aptekarskich oraz sprawuje sądownictwo polubowne;
+- **2)** składa roczne i kadencyjne sprawozdania okręgowemu zjazdowi aptekarzy.
 
 **Art. 33.** Okręgowy rzecznik odpowiedzialności zawodowej prowadzi postępowanie w sprawach odpowiedzialności zawodowej farmaceutów.
 
 #### Rozdział 4 Naczelna Izba Aptekarska
 
 **Art. 34.** Organami Naczelnej Izby Aptekarskiej są:
+
+- **1)** Krajowy Zjazd Aptekarzy;
+- **2)** Naczelna Rada Aptekarska;
+- **3)** Naczelna Komisja Rewizyjna;
+- **4)** Naczelny Sąd Aptekarski;
+- **5)** Naczelny Rzecznik Odpowiedzialności Zawodowej.
 
 **Art. 35.** Najwyższą władzą samorządu zawodu farmaceuty jest Krajowy Zjazd Aptekarzy.
 
@@ -435,6 +486,16 @@ source: "isap-pdf"
 5. Nadzwyczajny Zjazd powinien być zwołany w ciągu 3 miesięcy od dnia wpływu wniosku o zwołanie Zjazdu.
 
 **Art. 37.** Krajowy Zjazd Aptekarzy w szczególności:
+
+- **1)** uchwala zasady etyki i deontologii zawodowej;
+- **2)** uchwala program działalności samorządu zawodu farmaceuty;
+- **3)** zatwierdza regulaminy wyborów do organów samorządu;
+- **4)** rozpatruje i zatwierdza sprawozdania Naczelnej Rady Aptekarskiej, Naczelnej Komisji Rewizyjnej, Naczelnego Sądu Aptekarskiego i Naczelnego Rzecznika Odpowiedzialności Zawodowej;
+- **5)** zatwierdza zasady gospodarki finansowej samorządu, o których mowa w art. 39 ust. 1 pkt 17;
+- **6)** uchwala regulaminy naczelnych organów Izby i ogólne wytyczne do regulaminu sądów aptekarskich;
+- **7)** ustala liczbę członków organów Izby i zastępców Naczelnego Rzecznika Odpowiedzialności Zawodowej;
+- **8)** wybiera Prezesa i członków Naczelnej Rady Aptekarskiej, członków Naczelnej Komisji Rewizyjnej, członków Naczelnego Sądu Aptekarskiego oraz Naczelnego Rzecznika Odpowiedzialności Zawodowej i jego zastępców;
+- **9)** ustala zasady podziału składki członkowskiej.
 
 **Art. 38.**
 
@@ -490,7 +551,18 @@ source: "isap-pdf"
 
 **Art. 42.** Naczelna Komisja Rewizyjna:
 
+- **1)** kontroluje finansową i gospodarczą działalność Naczelnej Izby Aptekarskiej;
+- **2)** przedstawia sprawozdania z działalności kontrolnej Krajowemu Zjazdowi Aptekarzy;
+- **3)** sprawuje nadzór nad działalnością okręgowych komisji rewizyjnych;
+- **4)** zgłasza wniosek o udzielenie absolutorium Naczelnej Radzie Aptekarskiej.
+
 **Art. 43.** Naczelny Sąd Aptekarski:
+
+- **1)** uchwala regulamin sądów aptekarskich;
+- **2)** rozpatruje sprawy z zakresu odpowiedzialności zawodowej farmaceutów;
+- **3)** sprawuje pieczę nad działalnością okręgowych sądów aptekarskich;
+- **4)** składa Naczelnej Radzie Aptekarskiej okresowe informacje o stanie spraw z zakresu odpowiedzialności zawodowej;
+- **5)** składa sprawozdania z działalności Krajowemu Zjazdowi Aptekarzy.
 
 **Art. 44.** Naczelny Rzecznik Odpowiedzialności Zawodowej prowadzi postępowanie w sprawach odpowiedzialności zawodowej farmaceutów oraz sprawuje nadzór nad działalnością okręgowych rzeczników odpowiedzialności zawodowej.
 

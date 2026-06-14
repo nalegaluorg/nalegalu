@@ -8,10 +8,10 @@ pos: 957
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 maja 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 957 OBWIESZCZENIE MINISTRA FINANSÓW z dnia 23 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,60 +25,61 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000957) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/957/text.pdf) |
 
-OBWIESZCZENIE MINISTRA FINANSÓW z dnia 23 kwietnia 2019 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie szczególnych zasad rachunkowości banków
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 1 października 2010 r. w sprawie szczególnych zasad rachunkowości banków (Dz. U. z 2013 r. poz. 329), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju i Finansów z dnia 23 czerwca 2017 r. zmieniającym rozporządzenie w sprawie szczególnych zasad rachunkowości banków (Dz. U. poz. 1271).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 23 czerwca 2017 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości banków (Dz. U. poz. 1271), które stanowią: „§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Finansów: T. Czerwińska ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 1 października 2010 r.
 w sprawie szczególnych zasad rachunkowości banków Na podstawie art. 81 ust. 2 pkt 8 lit. a ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczególne zasady rachunkowości banków, z wyłączeniem Narodowego Banku Polskiego;
 2) zakres informacji wykazywanych w informacji dodatkowej sprawozdania finansowego, stanowiący załącznik do rozporządzenia.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) ustawa ustawę z dnia 29 września 1994 r. o rachunkowości;
-2) ustawa o obrocie instrumentami finansowymi ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244 oraz z 2019 r. poz. 730 i 875);
-3) ustawa − Prawo bankowe − ustawę z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354 oraz z 2019 r. poz. 326, 730 i 875);
-4) ustawa o giełdach towarowych ustawę z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2019 r.
+1) ustawa – ustawę z dnia 29 września 1994 r. o rachunkowości;
+2) ustawa o obrocie instrumentami finansowymi – ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244 oraz z 2019 r. poz. 730 i 875);
+3) ustawa − Prawo bankowe − ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354 oraz z 2019 r. poz. 326, 730 i 875);
+4) ustawa o giełdach towarowych – ustawę z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2019 r.
 poz. 312);
-5) konto syntetyczne przewidziane planem kont urządzenie księgi głównej, o którym mowa w art. 15 ustawy;
-6) konto analityczne przewidziane w planie kont urządzenie ksiąg pomocniczych, o którym mowa w art. 16 ustawy;
-7) konto pozabilansowe przewidziane planem kont urządzenie przeznaczone w szczególności do ewidencjonowania według wartości nominalnej udzielonych lub otrzymanych przez bank zobowiązań o charakterze finansowym lub gwarancyjnym, operacji walutowych, zawartych przez bank kontraktów kupna–sprzedaży instrumentów finansowych w okresie pomiędzy zawarciem transakcji a jej rozliczeniem, a także do ewidencjonowania udzielonych lub otrzymanych zabezpieczeń;
-8) zestawienie obrotów i sald sporządzane na koniec dnia operacyjnego zestawienie obrotów i sald kont syntetycznych i kont analitycznych, których obroty powinny być zgodne z obrotami dziennika lub obrotami zestawienia obrotów dzienników częściowych;
-9) dzień bilansowy dzień, na który bank sporządza sprawozdanie finansowe oraz inne sprawozdania sporządzane na podstawie odrębnych przepisów;
-10) należności „zagrożone”, „stracone” odpowiednio ekspozycje, o których mowa w przepisach wydanych na podstawie art. 81 ust. 2 pkt 8 lit. c ustawy;
-11) rezerwy celowe odpisy równoważące skutki ryzyka działalności banku, tworzone zgodnie z przepisami, o których mowa w pkt 10;
-12) podmiot zagraniczny jednostkę działającą za granicą, której działalność nie stanowi integralnej części działalności banku sporządzającego sprawozdanie finansowe;
-13) inwestycja netto w podmiocie zagranicznym udział banku w aktywach netto podmiotu zagranicznego;
-14) aktywa lub zobowiązania finansowe przeznaczone do obrotu aktywa lub zobowiązania finansowe, które zostały nabyte lub powstały w celu uzyskania korzyści ekonomicznych w wyniku krótkoterminowych (w terminie do trzech miesięcy) zmian cen lub innych zmiennych; składnik aktywów finansowych należy zaliczyć do aktywów przeznaczonych do obrotu, jeżeli niezależnie od powodu, dla którego został nabyty stanowi grupę aktywów, która była wykorzystywana ostatnio do realizacji korzyści ekonomicznych w wyniku zmian cen lub innych zmiennych; instrumenty pochodne będące aktywami finansowymi lub zobowiązaniami finansowymi uznaje się za przeznaczone do obrotu, z wyłączeniem zabezpieczających instrumentów pochodnych, stanowiących efektywne zabezpieczenie;
-15) aktywa finansowe i zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy aktywa finansowe i zobowiązania finansowe, o których mowa w pkt 14, oraz uznane przez bank za takie przy początkowym ujęciu, pod warunkiem że pozwala to na uzyskanie bardziej przydatnych informacji lub ogranicza różnice, w tym w sposobie wyceny lub prezentacji związanych z tymi aktywami lub pasywami przychodów lub kosztów, lub pozwala na ocenę uzyskiwanych wyników wyceny wartości godziwej zgodnie z udokumentowaną przez bank strategią inwestycyjną lub zasadami zarządzania ryzykiem;
-16) kredyty i pożyczki oraz inne należności banku aktywa finansowe z określonymi lub możliwymi do określenia płatnościami, które nie są przedmiotem obrotu na rynku, z wyjątkiem aktywów finansowych, które bank zamierza zbyć w krótkim terminie, zakwalifikowanych do aktywów lub zobowiązań finansowych przeznaczonych do obrotu oraz aktywów finansowych, które przy początkowym ujęciu zostały uznane przez bank jako aktywa finansowe i zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy, a także kredytów i pożyczek oraz innych należności banku, których bank nie może odzyskać z innych powodów niż brak spłat, które kwalifikuje się jako aktywa dostępne do sprzedaży;
-17) aktywa finansowe utrzymywane do terminu zapadalności aktywa finansowe o określonych lub możliwych do określenia płatnościach lub ustalonym terminie zapadalności, które bank zamierza i jest w stanie utrzymać w posiadaniu do terminu zapadalności, z wyjątkiem aktywów finansowych zakwalifikowanych jako kredyty i pożyczki oraz inne należności banku, aktywów finansowych dostępnych do sprzedaży i aktywów finansowych i zobowiązań finansowych wycenianych w wartości godziwej przez wynik finansowy;
-18) aktywa finansowe dostępne do sprzedaży aktywa finansowe niebędące:
+5) konto syntetyczne – przewidziane planem kont urządzenie księgi głównej, o którym mowa w art. 15 ustawy;
+6) konto analityczne – przewidziane w planie kont urządzenie ksiąg pomocniczych, o którym mowa w art. 16 ustawy;
+7) konto pozabilansowe – przewidziane planem kont urządzenie przeznaczone w szczególności do ewidencjonowania według wartości nominalnej udzielonych lub otrzymanych przez bank zobowiązań o charakterze finansowym lub gwarancyjnym, operacji walutowych, zawartych przez bank kontraktów kupna–sprzedaży instrumentów finansowych w okresie pomiędzy zawarciem transakcji a jej rozliczeniem, a także do ewidencjonowania udzielonych lub otrzymanych zabezpieczeń;
+8) zestawienie obrotów i sald – sporządzane na koniec dnia operacyjnego zestawienie obrotów i sald kont syntetycznych i kont analitycznych, których obroty powinny być zgodne z obrotami dziennika lub obrotami zestawienia obrotów dzienników częściowych;
+9) dzień bilansowy – dzień, na który bank sporządza sprawozdanie finansowe oraz inne sprawozdania sporządzane na podstawie odrębnych przepisów;
+10) należności „zagrożone”, „stracone” – odpowiednio ekspozycje, o których mowa w przepisach wydanych na podstawie art. 81 ust. 2 pkt 8 lit. c ustawy;
+11) rezerwy celowe – odpisy równoważące skutki ryzyka działalności banku, tworzone zgodnie z przepisami, o których mowa w pkt 10;
+12) podmiot zagraniczny – jednostkę działającą za granicą, której działalność nie stanowi integralnej części działalności banku sporządzającego sprawozdanie finansowe;
+13) inwestycja netto w podmiocie zagranicznym – udział banku w aktywach netto podmiotu zagranicznego;
+14) aktywa lub zobowiązania finansowe przeznaczone do obrotu – aktywa lub zobowiązania finansowe, które zostały nabyte lub powstały w celu uzyskania korzyści ekonomicznych w wyniku krótkoterminowych (w terminie do trzech miesięcy) zmian cen lub innych zmiennych; składnik aktywów finansowych należy zaliczyć do aktywów przeznaczonych do obrotu, jeżeli – niezależnie od powodu, dla którego został nabyty – stanowi grupę aktywów, która była wykorzystywana ostatnio do realizacji korzyści ekonomicznych w wyniku zmian cen lub innych zmiennych; instrumenty pochodne będące aktywami finansowymi lub zobowiązaniami finansowymi uznaje się za przeznaczone do obrotu, z wyłączeniem zabezpieczających instrumentów pochodnych, stanowiących efektywne zabezpieczenie;
+15) aktywa finansowe i zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy – aktywa finansowe i zobowiązania finansowe, o których mowa w pkt 14, oraz uznane przez bank za takie przy początkowym ujęciu, pod warunkiem że pozwala to na uzyskanie bardziej przydatnych informacji lub ogranicza różnice, w tym w sposobie wyceny lub prezentacji związanych z tymi aktywami lub pasywami przychodów lub kosztów, lub pozwala na ocenę uzyskiwanych wyników wyceny wartości godziwej zgodnie z udokumentowaną przez bank strategią inwestycyjną lub zasadami zarządzania ryzykiem;
+16) kredyty i pożyczki oraz inne należności banku – aktywa finansowe z określonymi lub możliwymi do określenia płatnościami, które nie są przedmiotem obrotu na rynku, z wyjątkiem aktywów finansowych, które bank zamierza zbyć w krótkim terminie, zakwalifikowanych do aktywów lub zobowiązań finansowych przeznaczonych do obrotu oraz aktywów finansowych, które przy początkowym ujęciu zostały uznane przez bank jako aktywa finansowe i zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy, a także kredytów i pożyczek oraz innych należności banku, których bank nie może odzyskać z innych powodów niż brak spłat, które kwalifikuje się jako aktywa dostępne do sprzedaży;
+17) aktywa finansowe utrzymywane do terminu zapadalności – aktywa finansowe o określonych lub możliwych do określenia płatnościach lub ustalonym terminie zapadalności, które bank zamierza i jest w stanie utrzymać w posiadaniu do terminu zapadalności, z wyjątkiem aktywów finansowych zakwalifikowanych jako kredyty i pożyczki oraz inne należności banku, aktywów finansowych dostępnych do sprzedaży i aktywów finansowych i zobowiązań finansowych wycenianych w wartości godziwej przez wynik finansowy;
+18) aktywa finansowe dostępne do sprzedaży – aktywa finansowe niebędące:
 a) aktywami finansowymi wycenianymi w wartości godziwej przez wynik finansowy,
 b) kredytami i pożyczkami oraz innymi należnościami banku,
 c) aktywami finansowymi utrzymywanymi do terminu zapadalności;
-19) zamortyzowany koszt aktywów finansowych lub zobowiązań finansowych wartość, w jakiej składnik aktywów finansowych lub zobowiązań finansowych został po raz pierwszy wprowadzony do ksiąg rachunkowych, pomniejszoną o spłaty wierzytelności, odpowiednio skorygowaną o skumulowaną kwotę zdyskontowanej różnicy pomiędzy wartością początkową składnika a jego wartością w terminie zapadalności lub wymagalności, wyliczoną za pomocą metody efektywnej stopy procentowej, a także pomniejszoną o odpisy aktualizujące wartość oraz z tytułu rezerw celowych;
-20) metoda efektywnej stopy procentowej metodę ustalania zamortyzowanego kosztu składnika aktywów finansowych lub zobowiązań finansowych oraz przypisywania przychodów albo kosztów z tytułu odsetek do odpowiednich okresów sprawozdawczych; efektywna stopa procentowa dyskontuje oczekiwany strumień przyszłych płatności pieniężnych do bieżącej wartości bilansowej netto do terminu zapadalności albo wymagalności instrumentu finansowego, a w uzasadnionych przypadkach do innego przyjętego przez bank terminu; przy wyliczaniu efektywnej stopy procentowej bank dokonuje oszacowania przepływów pieniężnych, uwzględniając postanowienia umowy, jednakże bank nie uwzględnia potencjalnych przyszłych strat związanych z nieściągalnością aktywów finansowych; przy wyliczeniu bank uwzględnia wszelkie płacone i otrzymane prowizje i opłaty stanowiące integralną część efektywnej stopy procentowej, w tym koszty transakcji oraz wszelkie inne premie lub dyskonta; w metodzie efektywnej stopy procentowej bank przyjmuje założenie, że przepływy pieniężne oraz oczekiwane terminy są wiarygodnie oszacowane;
+19) zamortyzowany koszt aktywów finansowych lub zobowiązań finansowych – wartość, w jakiej składnik aktywów finansowych lub zobowiązań finansowych został po raz pierwszy wprowadzony do ksiąg rachunkowych, pomniejszoną o spłaty wierzytelności, odpowiednio skorygowaną o skumulowaną kwotę zdyskontowanej różnicy pomiędzy wartością początkową składnika a jego wartością w terminie zapadalności lub wymagalności, wyliczoną za pomocą metody efektywnej stopy procentowej, a także pomniejszoną o odpisy aktualizujące wartość oraz z tytułu rezerw celowych;
+20) metoda efektywnej stopy procentowej – metodę ustalania zamortyzowanego kosztu składnika aktywów finansowych lub zobowiązań finansowych oraz przypisywania przychodów albo kosztów z tytułu odsetek do odpowiednich okresów sprawozdawczych; efektywna stopa procentowa dyskontuje oczekiwany strumień przyszłych płatności pieniężnych do bieżącej wartości bilansowej netto do terminu zapadalności albo wymagalności instrumentu finansowego, a w uzasadnionych przypadkach do innego przyjętego przez bank terminu; przy wyliczaniu efektywnej stopy procentowej bank dokonuje oszacowania przepływów pieniężnych, uwzględniając postanowienia umowy, jednakże bank nie uwzględnia potencjalnych przyszłych strat związanych z nieściągalnością aktywów finansowych; przy wyliczeniu bank uwzględnia wszelkie płacone i otrzymane prowizje i opłaty stanowiące integralną część efektywnej stopy procentowej, w tym koszty transakcji oraz wszelkie inne premie lub dyskonta; w metodzie efektywnej stopy procentowej bank przyjmuje założenie, że przepływy pieniężne oraz oczekiwane terminy są wiarygodnie oszacowane;
 w przypadkach, w których nie jest możliwe wiarygodne ustalenie przepływów pieniężnych lub ich oczekiwanego terminu, bank dokonuje wyliczeń na podstawie przepływów pieniężnych określonych w umowie;
-21) aktywa przejęte za długi składniki majątku, o których mowa w art. 6 ust. 1 pkt 4 ustawy Prawo bankowe;
-22) aktywa trwałe przeznaczone do zbycia składnik aktywów trwałych lub grupa aktywów zaliczonych do aktywów trwałych wraz ze związanymi z nimi aktywami obrotowymi oraz zobowiązaniami, które są przeznaczone przez bank do sprzedaży w stanie niewymagającym poniesienia dodatkowych nakładów lub wymagającym poniesienia dodatkowych nakładów w wysokości zwyczajowo przyjętej przy sprzedaży tego typu aktywów, których bank nie zamierza wykorzystywać w swojej działalności w kolejnych okresach sprawozdawczych, przy czym bank przyjmuje założenie, że sprzedaż tych aktywów w wysokości zbliżonej do ich wartości godziwej jest wysoce prawdopodobna w terminie nieprzekraczającym jednego roku obrotowego;
-23) podmioty powiązane kapitałowo lub organizacyjnie podmioty określone w art. 4 ust. 1 pkt 16 ustawy Prawo bankowe;
-24) dom maklerski niebędący bankiem podmiot prowadzący działalność maklerską, w rozumieniu ustawy o obrocie instrumentami finansowymi;
-25) biuro maklerskie wydzieloną organizacyjnie w ramach banku jednostkę prowadzącą działalność maklerską;
-26) towarowy dom maklerski podmiot działający na podstawie art. 2 pkt 8 ustawy o giełdach towarowych;
-27) fundusz inwestycyjny osobę prawną, o której mowa w art. 3 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355, 2215, 2243 i 2244 oraz z 2019 r. poz. 730 i 875);
-28) fundusz rozliczeniowy fundusz, o którym mowa w art. 65 i art. 68d ust. 1 ustawy o obrocie instrumentami finansowymi;
-29) towary giełdowe towary giełdowe, o których mowa w art. 2 pkt 2 ustawy o giełdach towarowych;
-30) afiliacja pośredniczenie członka giełdy lub członka rynku pozagiełdowego w zawieraniu transakcji na rynku regulowanym przez bank;
-31) klient osobę prawną, osobę fizyczną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, korzystającą z usług świadczonych przez bank na podstawie umowy, przy czym za klienta nie uważa się banku lub domu maklerskiego zawierającego transakcje z wykorzystaniem afiliacji;
-32) system kojarzenia ofert system obrotu instrumentami finansowymi, w którym przeciwstawne oferty kojarzone są według zasady najkorzystniejszej ceny, bez ustalania kursów otwarcia i zamknięcia;
-33) izba gospodarcza izbę, o której mowa w art. 92 ust. 1 ustawy o obrocie instrumentami finansowymi;
-34) alternatywny system obrotu system, o którym mowa w art. 3 pkt 2 ustawy o obrocie instrumentami finansowymi;
-35) obrót regulowany rynek regulowany, o którym mowa w art. 14 ustawy o obrocie instrumentami finansowymi, lub inny działający w sposób stały poza terytorium Europejskiego Obszaru Gospodarczego system obrotu instrumentami finansowymi dopuszczonymi do tego obrotu, zapewniający inwestorom powszechny i równy dostęp do informacji rynkowej w tym samym czasie przy kojarzeniu ofert nabycia i zbycia instrumentów finansowych oraz jednakowe warunki nabywania i zbywania tych instrumentów, zorganizowany i podlegający nadzorowi właściwego organu, a także alternatywny system obrotu;
-36) uczestnik systemu rekompensat bank uczestniczący w systemie, o którym mowa w dziale V ustawy o obrocie instrumentami finansowymi;
-37) rachunek papierów wartościowych rachunek, o którym mowa w art. 4 ust. 1 i 3 ustawy o obrocie instrumentami finansowymi;
-38) Krajowy Depozyt Krajowy Depozyt Papierów Wartościowych S.A.
+21) aktywa przejęte za długi – składniki majątku, o których mowa w art. 6 ust. 1 pkt 4 ustawy – Prawo bankowe;
+22) aktywa trwałe przeznaczone do zbycia – składnik aktywów trwałych lub grupa aktywów zaliczonych do aktywów trwałych wraz ze związanymi z nimi aktywami obrotowymi oraz zobowiązaniami, które są przeznaczone przez bank do sprzedaży w stanie niewymagającym poniesienia dodatkowych nakładów lub wymagającym poniesienia dodatkowych nakładów w wysokości zwyczajowo przyjętej przy sprzedaży tego typu aktywów, których bank nie zamierza wykorzystywać w swojej działalności w kolejnych okresach sprawozdawczych, przy czym bank przyjmuje założenie, że sprzedaż tych aktywów w wysokości zbliżonej do ich wartości godziwej jest wysoce prawdopodobna w terminie nieprzekraczającym jednego roku obrotowego;
+23) podmioty powiązane kapitałowo lub organizacyjnie – podmioty określone w art. 4 ust. 1 pkt 16 ustawy – Prawo bankowe;
+24) dom maklerski – niebędący bankiem podmiot prowadzący działalność maklerską, w rozumieniu ustawy o obrocie instrumentami finansowymi;
+25) biuro maklerskie – wydzieloną organizacyjnie w ramach banku jednostkę prowadzącą działalność maklerską;
+26) towarowy dom maklerski – podmiot działający na podstawie art. 2 pkt 8 ustawy o giełdach towarowych;
+27) fundusz inwestycyjny – osobę prawną, o której mowa w art. 3 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355, 2215, 2243 i 2244 oraz z 2019 r. poz. 730 i 875);
+28) fundusz rozliczeniowy – fundusz, o którym mowa w art. 65 i art. 68d ust. 1 ustawy o obrocie instrumentami finansowymi;
+29) towary giełdowe – towary giełdowe, o których mowa w art. 2 pkt 2 ustawy o giełdach towarowych;
+30) afiliacja – pośredniczenie członka giełdy lub członka rynku pozagiełdowego w zawieraniu transakcji na rynku regulowanym przez bank;
+31) klient – osobę prawną, osobę fizyczną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, korzystającą z usług świadczonych przez bank na podstawie umowy, przy czym za klienta nie uważa się banku lub domu maklerskiego zawierającego transakcje z wykorzystaniem afiliacji;
+32) system kojarzenia ofert – system obrotu instrumentami finansowymi, w którym przeciwstawne oferty kojarzone są według zasady najkorzystniejszej ceny, bez ustalania kursów otwarcia i zamknięcia;
+33) izba gospodarcza – izbę, o której mowa w art. 92 ust. 1 ustawy o obrocie instrumentami finansowymi;
+34) alternatywny system obrotu – system, o którym mowa w art. 3 pkt 2 ustawy o obrocie instrumentami finansowymi;
+35) obrót regulowany – rynek regulowany, o którym mowa w art. 14 ustawy o obrocie instrumentami finansowymi, lub inny działający w sposób stały – poza terytorium Europejskiego Obszaru Gospodarczego – system obrotu instrumentami finansowymi dopuszczonymi do tego obrotu, zapewniający inwestorom powszechny i równy dostęp do informacji rynkowej w tym samym czasie przy kojarzeniu ofert nabycia i zbycia instrumentów finansowych oraz jednakowe warunki nabywania i zbywania tych instrumentów, zorganizowany i podlegający nadzorowi właściwego organu, a także alternatywny system obrotu;
+36) uczestnik systemu rekompensat – bank uczestniczący w systemie, o którym mowa w dziale V ustawy o obrocie instrumentami finansowymi;
+37) rachunek papierów wartościowych – rachunek, o którym mowa w art. 4 ust. 1 i 3 ustawy o obrocie instrumentami finansowymi;
+38) Krajowy Depozyt – Krajowy Depozyt Papierów Wartościowych S.A.
 § 3. Bank udostępnia do wglądu zainteresowanym osobom zbadane roczne sprawozdanie finansowe oraz roczne skonsolidowane sprawozdanie finansowe w terminie 15 dni od dnia jego zatwierdzenia.
+§ 4. Zapisów w księgach rachunkowych dokonuje się w złotych i groszach lub w walutach obcych, w których wykonywane są operacje.
 § 5. Ewidencję księgową operacji w walutach obcych prowadzi się:
 1) w poszczególnych walutach obcych i w złotych na odpowiednich kontach prowadzonych odrębnie dla wartości w poszczególnych walutach obcych i dla wartości w złotych lub
 2) w walutach obcych, odrębnie dla wartości w poszczególnych walutach przy spełnieniu warunku zapewnienia pełnego dokumentowania codziennego ustalania wyniku z pozycji wymiany.
@@ -91,7 +92,7 @@ w przypadkach, w których nie jest możliwe wiarygodne ustalenie przepływów pi
 5) obejmowaniu określonych rzeczowych składników majątku ewidencją ilościową i wartościową;
 6) księgowaniu wszelkich operacji wyłącznie na właściwych kontach syntetycznych, kontach analitycznych oraz kontach pozabilansowych wynikających z planu kont banku;
 7) sporządzaniu zestawienia obrotów i sald kont syntetycznych i analitycznych.
-§ 7. 1. może być prowadzony łącznie dla wszystkich operacji. Jeżeli stosuje się dzienniki częściowe, grupujące zdarzenia według ich rodzajów, należy sporządzić zestawienie obrotów i sald tych dzienników za dany dzień operacyjny.
+§ 7. 1. Dziennik może być prowadzony łącznie dla wszystkich operacji. Jeżeli stosuje się dzienniki częściowe, grupujące zdarzenia według ich rodzajów, należy sporządzić zestawienie obrotów i sald tych dzienników za dany dzień operacyjny.
 2. Zapisy w dzienniku są kolejno numerowane, a sumy zapisów liczone w sposób ciągły. Sposób dokonywania zapisów w dzienniku powinien umożliwiać jednoznaczne ich powiązanie ze sprawdzonymi i zatwierdzonymi dowodami księgowymi.
 3. Przy prowadzeniu ksiąg rachunkowych przy użyciu komputera zapisowi w księgach rachunkowych nadaje się automatycznie numer identyfikacyjny, pod którym został wprowadzony do dziennika i który umożliwia ustalenie osoby odpowiedzialnej za treść zapisu.
 § 8. 1. Zapisów w księgach rachunkowych dokonuje się codziennie, ujmując wszystkie zdarzenia gospodarcze każdego dnia operacyjnego i odnosząc do okresów sprawozdawczych, których zdarzenia te dotyczą.
@@ -141,6 +142,7 @@ d) inne obciążeniowe zlecenia płatnicze.
 1) symbole lub nazwy kont;
 2) salda na dzień otwarcia kont syntetycznych, obroty za okres od początku roku do dnia zamknięcia ksiąg rachunkowych oraz salda na dzień zamknięcia kont syntetycznych;
 3) sumę sald na dzień otwarcia kont syntetycznych, obrotów za okres od początku roku do dnia zamknięcia ksiąg rachunkowych i sumę sald na dzień zamknięcia kont syntetycznych; suma obrotów kont syntetycznych powinna być zgodna z liczonymi w sposób ciągły obrotami dziennika.
+§ 18. W informacji dodatkowej sprawozdania finansowego bank prezentuje informację o instrumentach finansowych klientów, zapisanych na rachunkach papierów wartościowych bądź przechowywanych w formie dokumentu, a także informację o prawach klientów do towarów giełdowych, w ujęciu wartościowym i ilościowym.
 § 19. 1. Wpłaty i dopłaty na rzecz funduszu rozliczeniowego oraz zwrot nadpłat lub części wkładów z tego funduszu ujmuje się na kontach rozrachunkowych.
 2. Wartość całości lub części wniesionych wpłat przeznaczonych na pokrycie zobowiązań uczestników funduszu rozliczeniowego zwiększa pozostałe koszty operacyjne.
 § 20. 1. Obowiązkowe wpłaty do systemu rekompensat, o którym mowa w dziale V ustawy o obrocie instrumentami finansowymi, wykazuje się jako należności uczestnika systemu rekompensat od Krajowego Depozytu.
@@ -148,6 +150,7 @@ d) inne obciążeniowe zlecenia płatnicze.
 3. Pożytki naliczone w związku z zarządzaniem środkami pieniężnymi zgromadzonymi w systemie rekompensat przez Krajowy Depozyt, przysługujące każdemu uczestnikowi systemu rekompensat, powiększają należności uczestnika systemu rekompensat od Krajowego Depozytu i wykazywane są jako rozliczenia międzyokresowe prezentowane w pasywach bilansu.
 4. Koszty prowadzenia przez Krajowy Depozyt systemu rekompensat, opłaty należne z tytułu zarządzania systemem rekompensat oraz wypłaty środków pieniężnych z tytułu roszczeń przysługujących uprawnionym podmiotom, określonym w dziale V ustawy o obrocie instrumentami finansowymi, w części pochodzącej z pożytków, o których mowa w ust. 3, wykazywane są jako koszty uzyskania pożytków i pomniejszają należności uczestnika systemu rekompensat.
 5. Należności, o których mowa w ust. 1, oraz rezerwy, o których mowa w ust. 2, prezentuje się w sprawozdaniu finansowym po dokonaniu kompensaty.
+§ 21. 1. Stany aktywów i pasywów wykazywane w księgach rachunkowych banku podlegają rocznej i okresowej inwentaryzacji, której podstawowym celem jest:
 1) sprawdzenie danych wynikających z ksiąg rachunkowych ze stanem rzeczywistym i ustalenie różnic inwentaryzacyjnych;
 2) ujęcie różnic w księgach rachunkowych i ustalenie osób odpowiedzialnych za powierzone mienie oraz rozliczenie stwierdzonych różnic inwentaryzacyjnych;
 3) dokonanie oceny gospodarczej wykorzystywania i przydatności składników majątkowych.
@@ -188,6 +191,7 @@ d) inne obciążeniowe zlecenia płatnicze.
 2. Aktywa i pasywa, których stan ulega zmianie na skutek odpisu ich wartości z tytułu zużycia, sukcesywnego zarachowywania na konta wynikowe czy z innego tytułu, powinny być również weryfikowane pod względem prawidłowości tych zmian, w szczególności odpisów i zarachowań.
 3. Z przeprowadzonej weryfikacji aktywów i pasywów sporządza się protokół, w którym przedstawia się wyniki dokonanej weryfikacji oraz sposób rozliczenia stwierdzonych różnic inwentaryzacyjnych.
 § 29. Różnice inwentaryzacyjne podlegają rozliczeniu w księgach rachunkowych banku tego roku obrotowego, którego inwentaryzacja dotyczy.
+§ 30. 1. Aktywa i zobowiązania finansowe klasyfikuje się w dniu ich nabycia lub powstania do następujących kategorii:
 1) aktywa finansowe i zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy, w tym aktywa lub zobowiązania finansowe przeznaczone do obrotu;
 2) kredyty i pożyczki oraz inne należności banku;
 3) aktywa finansowe utrzymywane do terminu zapadalności;
@@ -267,17 +271,18 @@ b) otrzymanych w poprzednich okresach przychodów z tytułu odsetek, w tym dysko
 3. Do wyniku z tytułu odsetek, o których mowa w art. 43 ust. 2 ustawy, nie zalicza się:
 1) (uchylony);
 2) dyskonta oraz odsetek otrzymanych z góry, przypadających na następne okresy sprawozdawcze.
+§ 42. 1. Wyceny instrumentów finansowych zapisanych na rachunkach papierów wartościowych klientów, znajdujących się w obrocie zorganizowanym, dokonuje się na każdy dzień roboczy według cen bieżących.
 2. Przez cenę bieżącą rozumie się:
 1) w przypadku instrumentów finansowych znajdujących się w obrocie na rynku regulowanym, z zastrzeżeniem ust. 3 i 4:
 a) w systemie notowań ciągłych, na których wyznaczany i ogłaszany jest kurs zamknięcia − ostatni kurs zamknięcia w systemie notowań ciągłych,
-b) w systemie notowań ciągłych bez odrębnego wyznaczania kursu zamknięcia cenę średnią transakcji ważoną wolumenem obrotu z ostatniego dnia, w którym zawarto transakcję,
-c) w systemie notowań jednolitych ostatni kurs ustalony w systemie kursu jednolitego,
-d) w systemie notowań polegającym na jednoczesnym wystawieniu ceny kupna i ceny sprzedaży tego samego papieru wartościowego ostatnią najniższą cenę z ofert kupna;
-2) w przypadku instrumentów finansowych powstałych w wyniku zawarcia transakcji w systemie kojarzenia ofert cenę, po jakiej została zawarta ostatnia transakcja;
-3) w przypadku zdematerializowanych papierów wartościowych, dla których nie jest możliwe zastosowanie metod wyceny, o których mowa w pkt 1 ostatnią najniższą cenę:
+b) w systemie notowań ciągłych bez odrębnego wyznaczania kursu zamknięcia – cenę średnią transakcji ważoną wolumenem obrotu z ostatniego dnia, w którym zawarto transakcję,
+c) w systemie notowań jednolitych – ostatni kurs ustalony w systemie kursu jednolitego,
+d) w systemie notowań polegającym na jednoczesnym wystawieniu ceny kupna i ceny sprzedaży tego samego papieru wartościowego – ostatnią najniższą cenę z ofert kupna;
+2) w przypadku instrumentów finansowych powstałych w wyniku zawarcia transakcji w systemie kojarzenia ofert – cenę, po jakiej została zawarta ostatnia transakcja;
+3) w przypadku zdematerializowanych papierów wartościowych, dla których nie jest możliwe zastosowanie metod wyceny, o których mowa w pkt 1 – ostatnią najniższą cenę:
 a) zaproponowaną w wyniku ogłoszenia wezwania albo
 b) po jakiej zawarto transakcję pakietową;
-4) w przypadku instrumentów finansowych notowanych poza terytorium Rzeczypospolitej Polskiej, dla których, ze względu na reguły przyjęte na danym rynku, za najbardziej reprezentatywny kurs uznaje się inny niż podany w pkt 1 lit. a−d cenę określoną przez bank.
+4) w przypadku instrumentów finansowych notowanych poza terytorium Rzeczypospolitej Polskiej, dla których, ze względu na reguły przyjęte na danym rynku, za najbardziej reprezentatywny kurs uznaje się inny niż podany w pkt 1 lit. a−d – cenę określoną przez bank.
 3. Przez cenę bieżącą dłużnych papierów wartościowych z naliczanymi odsetkami rozumie się wyrażoną wartościowo cenę ustaloną w stosunku procentowym do wartości nominalnej, powiększoną o naliczone odsetki.
 4. Przez cenę bieżącą dłużnych papierów wartościowych nabytych z dyskontem lub premią rozumie się wyrażoną wartościowo cenę ustaloną z zastosowaniem odpowiednio odpisów dyskonta lub amortyzacji premii.
 5. Przez cenę bieżącą jednostek uczestnictwa funduszy inwestycyjnych rozumie się ostatnią ogłoszoną przez fundusz inwestycyjny wartość aktywów netto na jednostkę uczestnictwa.
@@ -286,13 +291,14 @@ b) po jakiej zawarto transakcję pakietową;
 8. W przypadku gdy nie jest możliwa wycena aktywów klientów według metod, o których mowa w ust. 1−7, aktywa te wycenia się według wartości godziwej, pozwalającej na rzetelne odzwierciedlenie wartości tych aktywów.
 9. Towary giełdowe wycenia się według zasad określonych w ust. 2 pkt 1.
 § 43. Za podstawę wyceny instrumentów finansowych klientów przyjmuje się, gdy instrumenty finansowe są przedmiotem obrotu:
-1) na kilku rynkach giełdowych kurs ustalony na tej giełdzie, na której wolumen obrotów był największy;
-2) w więcej niż jednym systemie notowań na jednej giełdzie kurs ustalony w tym systemie notowań, w którym wolumen obrotów był największy;
-3) na rynku giełdowym i jednocześnie na rynku pozagiełdowym kurs ustalony na tym z rynków, na którym wolumen obrotów był największy;
-4) na więcej niż jednym rynku pozagiełdowym cenę bieżącą ustaloną na tym z rynków, którego wolumen obrotów był największy;
-5) w więcej niż jednym systemie notowań na jednym rynku pozagiełdowym cenę bieżącą ustaloną w tym systemie notowań, w którym wolumen obrotów był największy.
+1) na kilku rynkach giełdowych – kurs ustalony na tej giełdzie, na której wolumen obrotów był największy;
+2) w więcej niż jednym systemie notowań na jednej giełdzie – kurs ustalony w tym systemie notowań, w którym wolumen obrotów był największy;
+3) na rynku giełdowym i jednocześnie na rynku pozagiełdowym – kurs ustalony na tym z rynków, na którym wolumen obrotów był największy;
+4) na więcej niż jednym rynku pozagiełdowym – cenę bieżącą ustaloną na tym z rynków, którego wolumen obrotów był największy;
+5) w więcej niż jednym systemie notowań na jednym rynku pozagiełdowym – cenę bieżącą ustaloną w tym systemie notowań, w którym wolumen obrotów był największy.
 § 44. 1. Zdematerializowane papiery wartościowe nienotowane na rynku regulowanym oraz w alternatywnym systemie obrotu, należące do klientów, zapisane na rachunkach papierów wartościowych, wycenia się według wartości nominalnej.
 2. Papiery wartościowe inne niż zdematerializowane, przechowywane w formie dokumentu, wycenia się według wartości nominalnej.
+§ 45. 1. Rachunkowość zabezpieczeń polega na symetrycznym ujmowaniu wpływu zmian wartości godziwej instrumentu zabezpieczającego i pozycji zabezpieczanej na wynik finansowy.
 2. Bank stosuje rachunkowość zabezpieczeń, uwzględniając przy wycenie zabezpieczanych aktywów lub zobowiązań wartość nabytych dla ich zabezpieczenia instrumentów finansowych oraz zmiany ich wartości, jeśli spełnione są poniższe warunki:
 1) w momencie ustanowienia zabezpieczenia sporządzono sformalizowaną dokumentację powiązania zabezpieczającego, w której określono przyjęty przez bank cel zarządzania ryzykiem oraz strategię zabezpieczania; w dokumentacji bank wyznacza instrument zabezpieczający dla danej pozycji lub transakcji oraz określa rodzaj ryzyka, przed którym się zabezpiecza, a także określa sposób oceny skuteczności instrumentu zabezpieczającego w równoważeniu zmian wartości godziwej zabezpieczanej pozycji lub zmian przepływów środków pieniężnych z tytułu zabezpieczanej transakcji, w zakresie ograniczenia ryzyka, przed którym bank się zabezpiecza;
 2) zabezpieczający instrument finansowy będący przedmiotem kontraktu i zabezpieczane za jego pomocą aktywa lub zobowiązania charakteryzują się podobnymi cechami, w szczególności wartością nominalną, datą zapadalności, wrażliwością na zmiany stopy procentowej lub na zmiany kursu waluty;
@@ -332,11 +338,13 @@ d) następuje jego realizacja;
 3) bank nie przewiduje realizacji powziętego zobowiązania lub przeprowadzenia prognozowanej transakcji.
 § 48. 1. Zabezpieczenie inwestycji netto w podmiocie zagranicznym rozlicza się w sposób przewidziany dla zabezpieczeń przepływów środków pieniężnych.
 2. W przypadku zbycia inwestycji netto w podmiocie zagranicznym skutki wyceny instrumentu zabezpieczającego, odnoszące się do części zabezpieczenia uznanego za skuteczne, ujmuje się odpowiednio w przychodach lub kosztach finansowych.
+§ 49. 1. Bank przestrzega zasad dotyczących przechowywania i ochrony danych określonych w przepisach art. 71 ustawy i odrębnych przepisach, z zastrzeżeniem ust. 2.
 2. Bank przechowuje dowody księgowe w oryginalnej postaci przez okres wynikający z przepisów art. 74 ustawy.
 3. Udostępnianie przez bank dokumentów osobom trzecim wymaga co najmniej:
 1) zachowania przepisów dotyczących tajemnicy bankowej;
 2) uzyskania zgody kierownika jednostki organizacyjnej banku na wgląd w dokumenty na miejscu;
 3) wydania pisemnej zgody prezesa zarządu banku lub osoby przez niego upoważnionej na udostępnienie dokumentów poza miejscem prowadzenia ksiąg rachunkowych, pod warunkiem pozostawienia potwierdzonych „za zgodność z oryginałem” fotokopii dokumentów i protokołu zawierającego ich wykaz.
+§ 50. Rozporządzenie ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 2010 r.
 § 51. Traci moc rozporządzenie Ministra Finansów z dnia 29 sierpnia 2008 r. w sprawie szczególnych zasad rachunkowości banków (Dz. U. poz. 1002).
 § 52. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 INFORMACJA DODATKOWA SPRAWOZDANIA FINANSOWEGO BANKU Informacja dodatkowa sprawozdania finansowego banku obejmuje wprowadzenie do sprawozdania finansowego oraz dodatkowe informacje i objaśnienia.
@@ -365,7 +373,7 @@ I. Wprowadzenie do sprawozdania finansowego banku obejmuje w szczególności:
 3) usługi doradztwa podatkowego,
 4) pozostałe usługi.
 II. W dodatkowych informacjach i objaśnieniach ujawnieniu podlegają informacje o aktywach i pasywach, zobowiązaniach pozabilansowych, elementach rachunku zysków i strat, zestawienia zmian w kapitale własnym oraz rachunku przepływów pieniężnych, a także informacje o zarządzaniu ryzykiem związanym z prowadzoną przez bank działalnością, informacje dotyczące instrumentów finansowych klientów, w zakresie niezbędnym do lepszego zrozumienia sytuacji finansowej i majątkowej, a także wyniku finansowego banku, w szczególności:
-1. o spełnieniu przez bank wymogów, o których mowa w art. 128 ustawy Prawo bankowe;
+1. o spełnieniu przez bank wymogów, o których mowa w art. 128 ustawy – Prawo bankowe;
 2. dane o walutowej strukturze aktywów i pasywów;
 3. dane o źródłach pozyskania depozytów, z uwzględnieniem podziału na branżowe i geograficzne segmenty rynku;
 4. informacje o strukturze koncentracji zaangażowania banku w poszczególne jednostki, grupy kapitałowe, branżowe i geograficzne segmenty rynku, wraz z oceną ryzyka związanego z tym zaangażowaniem;
@@ -539,7 +547,7 @@ c) ryzyko cenowe,
 4) ryzyko operacyjne;
 47. dla wszystkich rodzajów aktywów finansowych i zobowiązań finansowych, zarówno bilansowych, jak i pozabilansowych:
 1) informacje na temat obciążenia ryzykiem stopy procentowej, w tym umowne daty zmiany oprocentowania lub terminy płatności;
-2) informacje na temat obciążenia ryzykiem kredytowym, w tym sumę wartości ekspozycji kredytowych będących aktywami lub zobowiązaniami pozabilansowymi, pomniejszoną o wartość utworzonych rezerw celowych i odpisów aktualizujących bez uwzględnienia zabezpieczeń prawnych, która jest podstawą kalkulacji wymogu, o którym mowa w art. 128 ustawy Prawo bankowe;
+2) informacje na temat obciążenia ryzykiem kredytowym, w tym sumę wartości ekspozycji kredytowych będących aktywami lub zobowiązaniami pozabilansowymi, pomniejszoną o wartość utworzonych rezerw celowych i odpisów aktualizujących bez uwzględnienia zabezpieczeń prawnych, która jest podstawą kalkulacji wymogu, o którym mowa w art. 128 ustawy – Prawo bankowe;
 3) wartość zabezpieczeń prawnych oraz innych pozycji wpływających na pomniejszenie wymogu kapitałowego z tytułu ryzyka kredytowego;
 48. dla wszystkich rodzajów aktywów finansowych analizę wiekową przeterminowanych na dzień bilansowy aktywów finansowych w podziale na aktywa finansowe, w przypadku, w którym nastąpiła utrata wartości, i pozostałe aktywa finansowe;
 49. informacje o charakterze i celu gospodarczym zawartych przez bank umów nieuwzględnionych w bilansie w zakresie niezbędnym do oceny ich wpływu na sytuację majątkową, finansową i wynik finansowy banku;
@@ -576,21 +584,21 @@ c) przychody i koszty, zyski i straty oraz zmiany w kapitałach własnych połą
 57. informacje, które mogłyby w istotny sposób wpłynąć na ocenę sytuacji majątkowej, finansowej oraz wynik finansowy.
 Informacja dodatkowa powinna zapewnić porównywalność informacji finansowych zawartych w sprawozdaniu za okres sprawozdawczy z informacjami zawartymi w sprawozdaniu finansowym za poprzedni, analogiczny okres sprawozdawczy. Wszelkie dodatkowe informacje, niewynikające lub niezwiązane bezpośrednio z wymienionym wyżej sprawozdaniem, powinny być przedstawione w końcowej części tej informacji.
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Prowadzenie ksiąg rachunkowych § 4. Zapisów w księgach rachunkowych dokonuje się w złotych i groszach lub w walutach obcych, w których wykonywane są operacje.
+#### Rozdział 2 Prowadzenie ksiąg rachunkowych
 
-#### Rozdział 3 Ujmowanie w księgach rachunkowych i prezentacja w sprawozdaniu finansowym operacji dotyczących biura maklerskiego § 18. W informacji dodatkowej sprawozdania finansowego bank prezentuje informację o instrumentach finansowych klientów, zapisanych na rachunkach papierów wartościowych bądź przechowywanych w formie dokumentu, a także informację o prawach klientów do towarów giełdowych, w ujęciu wartościowym i ilościowym.
+#### Rozdział 3 Ujmowanie w księgach rachunkowych i prezentacja w sprawozdaniu finansowym operacji dotyczących biura maklerskiego
 
-#### Rozdział 4 Inwentaryzacja § 21. 1. Stany aktywów i pasywów wykazywane w księgach rachunkowych banku podlegają rocznej i okresowej inwentaryzacji, której podstawowym celem jest:
+#### Rozdział 4 Inwentaryzacja
 
-#### Rozdział 5 Ujmowanie i wycena aktywów i pasywów oraz ustalanie wyniku finansowego § 30. 1. Aktywa i zobowiązania finansowe klasyfikuje się w dniu ich nabycia lub powstania do następujących kategorii:
+#### Rozdział 5 Ujmowanie i wycena aktywów i pasywów oraz ustalanie wyniku finansowego
 
-#### Rozdział 6 Wycena instrumentów finansowych oraz praw do towarów giełdowych klientów biura maklerskiego § 42. 1. Wyceny instrumentów finansowych zapisanych na rachunkach papierów wartościowych klientów, znajdujących się w obrocie zorganizowanym, dokonuje się na każdy dzień roboczy według cen bieżących.
+#### Rozdział 6 Wycena instrumentów finansowych oraz praw do towarów giełdowych klientów biura maklerskiego
 
-#### Rozdział 7 Rachunkowość zabezpieczeń § 45. 1. Rachunkowość zabezpieczeń polega na symetrycznym ujmowaniu wpływu zmian wartości godziwej instrumentu zabezpieczającego i pozycji zabezpieczanej na wynik finansowy.
+#### Rozdział 7 Rachunkowość zabezpieczeń
 
-#### Rozdział 8 Przechowywanie danych § 49. 1. Bank przestrzega zasad dotyczących przechowywania i ochrony danych określonych w przepisach art. 71 ustawy i odrębnych przepisach, z zastrzeżeniem ust. 2.
+#### Rozdział 8 Przechowywanie danych
 
-#### Rozdział 9 Przepisy przejściowe i końcowe § 50. Rozporządzenie ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 2010 r.
+#### Rozdział 9 Przepisy przejściowe i końcowe
 

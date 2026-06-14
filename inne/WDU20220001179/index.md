@@ -1,0 +1,236 @@
+---
+title: Rozporządzenie Ministra Rozwoju i Technologii z dnia 5 maja 2022 r. zmieniające rozporządzenie w sprawie prawnej kontroli metrologicznej przyrządów pomiarowych
+address: WDU20220001179
+eli: DU/2022/1179
+publisher: DU
+year: 2022
+pos: 1179
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11117799 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 5 maja 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1179 |
+| ISAP | WDU20220001179 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2022-05-05 |
+| Data wydania | 2022-06-02 |
+| Ostatnia zmiana | 2026-04-23 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1179/text.pdf) |
+
+zmieniające rozporządzenie w sprawie prawnej kontroli metrologicznej przyrządów pomiarowych Na podstawie art. 9 pkt 1–5 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2021 r. poz. 2068 oraz z 2022 r.
+poz. 1117) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Przedsiębiorczości i Technologii z dnia 22 marca 2019 r. w sprawie prawnej kontroli metrologicznej przyrządów pomiarowych (Dz. U. poz. 759) wprowadza się następujące zmiany:
+1) w § 5:
+a) w ust. 4: – pkt 3 otrzymuje brzmienie: „3) schemat blokowy oprogramowania przyrządu pomiarowego realizującego funkcje związane z charakterystykami metrologicznymi przyrządu pomiarowego i wynikami pomiaru, obejmujący informacje o przepływie i wymianie danych pomiędzy poszczególnymi elementami przyrządu;”, – pkt 5 otrzymuje brzmienie: „5) wykaz i opisy komend protokołów komunikacyjnych przyrządu pomiarowego realizujących funkcje związane z charakterystykami metrologicznymi przyrządu pomiarowego, wynikami pomiaru, zmianą konfiguracji i aktualizacją oprogramowania wpływających na poprawność realizowanych funkcji, bezpieczeństwo danych cyfrowych i oprogramowania wraz z oświadczeniem o kompletności dostarczanego wykazu.”,
+b) dodaje się ust. 5 i 6 w brzmieniu: „5. W przypadku gdy dokumenty, o których mowa w ust. 1–4 oraz w § 7, zawierają informacje stanowiące tajemnicę przedsiębiorstwa, w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2020 r. poz. 1913 oraz z 2021 r. poz. 1655), wnioskodawca w celu zastrzeżenia, że nie mogą być one ujawnione podmiotom nieuprawnionym do dostępu do takich informacji, dołącza do wniosku, o którym mowa w § 4, oświadczenie określające, jakie dokumenty lub ich części zawierają informacje stanowiące tajemnicę przedsiębiorstwa, oraz wskazujące przyczyny uznania tych dokumentów za zawierające taką tajemnicę.
+6. W przypadku gdy okoliczności, o których mowa w ust. 5, zostaną ujawnione po złożeniu wniosku, wnioskodawca może do czasu zakończenia postępowania w sprawie zatwierdzenia typu przyrządu pomiarowego złożyć do akt oświadczenie, o którym mowa w ust. 5.”;
+2) w § 14 w ust. 1 wyrazy „ust. 4” zastępuje się wyrazami „ust. 4–6”;
+3) w § 16 ust. 1 otrzymuje brzmienie: „1. Wniosek o dokonanie legalizacji może być składany na piśmie, ustnie, za pomocą środków komunikacji elektronicznej przez elektroniczną skrzynkę podawczą organu administracji publicznej utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r.
+poz. 2070 oraz z 2022 r. poz. 1087), a także za pomocą systemu informatycznego, jeżeli rejestr wniosków jest prowadzony przy użyciu takiego systemu. W przypadku wniosku składanego ustnie za datę otrzymania wniosku uznaje się datę zgłoszenia wniosku do rejestru wniosków.”;
+4) w § 17 ust. 3 otrzymuje brzmienie: „3. Jeżeli rejestr wniosków jest prowadzony przy użyciu systemu informatycznego, to w przypadku wniosków złożonych na piśmie, ustnie, przez elektroniczną skrzynkę podawczą albo za pomocą systemu informatycznego potwierdzeniem ich przyjęcia jest wydruk potwierdzenia przyjęcia wniosku. Wydanie potwierdzenia przyjęcia wniosku następuje zgodnie z formą złożenia wniosku albo w formie wskazanej przez wnioskodawcę, w miarę możliwości technicznych, którymi dysponuje organ wydający przedmiotowe potwierdzenie.”;
+5) w § 34:
+a) ust. 2 otrzymuje brzmienie: „2. Jeżeli dowodem legalizacji przyrządu pomiarowego jest świadectwo legalizacji, organ administracji miar albo podmiot upoważniony mogą wezwać wnioskodawcę do dołączenia do wniosku o dokonanie legalizacji ponownej świadectwa legalizacji pierwotnej albo poprzedniej legalizacji ponownej, albo ich kopii, jeżeli jest to niezbędne do prawidłowego dokonania legalizacji ponownej. Przepisu zdania pierwszego nie stosuje się do przyrządów pomiarowych wprowadzonych do obrotu lub użytkowania w wyniku dokonania oceny zgodności, zgłaszanych do legalizacji ponownej po raz pierwszy.”,
+b) dodaje się ust. 3 w brzmieniu: „3. Jeżeli w wyniku wezwania, o którym mowa w ust. 2, do wniosku o dokonanie legalizacji ponownej dołączono kopię świadectwa legalizacji pierwotnej albo poprzedniej legalizacji ponownej, to wnioskodawca jest zobowiązany do okazania oryginałów tych dokumentów przed podjęciem czynności sprawdzenia tego przyrządu.”;
+6) w § 39:
+a) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przyrządy pomiarowe zapasowe użyte przy wymianie należy wybrać losowo spośród partii przyrządów pomiarowych zapasowych.”,
+b) ust. 2 otrzymuje brzmienie: „2. W przypadkach, o których mowa w ust. 1 pkt 1–3, łącznie co najwyżej 6% przyrządów pomiarowych z próbki kontrolnej można wymienić na przyrządy pomiarowe zapasowe.”,
+c) po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku, o którym mowa w ust. 1 pkt 4, niezależnie od zasad wymiany przyrządów pomiarowych określonych w ust. 2, dodatkowo co najwyżej 6% przyrządów pomiarowych z próbki kontrolnej można wymienić na przyrządy pomiarowe zapasowe.”;
+7) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+8) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
+9) załącznik nr 5 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 3 do niniejszego rozporządzenia;
+10) załącznik nr 9 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia.
+§ 2. Do prawnej kontroli metrologicznej przyrządów pomiarowych w sprawach wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Rozwoju i Technologii: W. Buda WZORY DECYZJI ZATWIERDZENIA TYPU WZORY DECYZJI ORAZ ZATWIERDZENIA DECYZJI ZATWIERDZENIA TYPU TYPU ORAZ Z OGRANICZENIAMI DECYZJI ZATWIERDZENIA TYPU Z OGRANICZENIAMI
+1. Wzór decyzji zatwierdzenia typu Warszawa, ........................................
+(data wydania decyzji) PREZES GŁÓWNEGO URZĘDU MIAR DECYZJA NR ......
+Na podstawie art. 8f ust. 3 pkt 1 ustawy z dnia 11 maja 2001 r. – Prawo o miarach po rozpatrzeniu wniosku z dnia ...................., wniesionego przez ……………......................
+..........................................................................................................., który wpłynął do (nazwa i adres wnioskodawcy) Głównego Urzędu Miar w dniu*..............................................., oraz na podstawie wyników badań przeprowadzonych przez ................................................................................................
+(dane identyfikujące podmiot wykonujący badania) ZATWIERDZAM TYP ......................................................................................................................................................
+(nazwa przyrządu pomiarowego i dane identyfikujące zatwierdzany typ) produkowany przez ......................................................................................................................................................
+(nazwa i adres producenta) Nadaje się znak zatwierdzenia typu ……………………………………..............................................................................................
+(określenie znaku zatwierdzenia typu) Nie nadaje się znaku zatwierdzenia typu**.
+........................................................ spełnia wymagania określone w ........................................
+(nazwa przyrządu pomiarowego) ......................................................................................................................................................
+(tytuł aktu normatywnego wraz z oznaczeniem miejsca jego ogłoszenia i zmian aktu) Charakterystyka typu: ......................................................................................................................................................
+(charakterystyki metrologiczne i techniczne zatwierdzanego typu oraz informacje dodatkowe, w tym wykaz urządzeń dodatkowych, które mogą wchodzić w skład przyrządu pomiarowego, o ile ma to zastosowanie) Opis przyrządu pomiarowego:*** .....................................................................................................................................................
+(opis budowy i działania przyrządu pomiarowego, w tym wersja i suma kontrolna oprogramowania, o ile ma to zastosowanie) Warunki właściwego stosowania przyrządu pomiarowego: ………………………………………………………………………………………………….
+(opis warunków właściwego stosowania przyrządu pomiarowego i określenie wersji instrukcji obsługi, o ile ma to zastosowanie) Cechę legalizacji umieszcza się na:**** ......................................................................................................................................................
+Cechy zabezpieczające umieszcza się na:****.............................................................................
+Decyzja jest ważna przez okres 10 lat od dnia wydania.
+UZASADNIENIE ......................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+POUCZENIE Od decyzji stronie nie przysługuje odwołanie. Jednakże strona niezadowolona z decyzji może zwrócić się do Prezesa Głównego Urzędu Miar z wnioskiem o ponowne rozpatrzenie sprawy w terminie 14 dni od dnia doręczenia decyzji stronie albo wnieść skargę do Wojewódzkiego Sądu Administracyjnego w Warszawie w terminie 30 dni od dnia doręczenia decyzji stronie. Skargę wnosi się za pośrednictwem Prezesa Głównego Urzędu Miar. Wpis od skargi wynosi …… (słownie:………….) złotych.
+Strona może złożyć Prezesowi Głównego Urzędu Miar oświadczenie o zrzeczeniu się prawa do zwrócenia się z wnioskiem o ponowne rozpatrzenie sprawy. Z dniem doręczenia Prezesowi Głównego Urzędu Miar tego oświadczenia decyzja staje się ostateczna i prawomocna, co skutkuje brakiem możliwości zaskarżenia jej do Wojewódzkiego Sądu Administracyjnego.
+Na podstawie ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi stronie w postępowaniu przed sądami administracyjnymi może zostać przyznane prawo pomocy, obejmujące zwolnienie od kosztów sądowych oraz ustanowienie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego.
+Adnotacje urzędowe: ......................................... ............................................
+(pieczęć okrągła Prezesa) ***** (podpis Prezesa albo osoby upoważnionej do wydania decyzji) ****** ——————— * Wpisać, jeżeli dzień sporządzenia wniosku jest inny niż dzień wpływu wniosku do Głównego Urzędu Miar.
+** Niepotrzebne skreślić.
+*** Do decyzji mogą być dołączone załączniki zawierające opisy, schematy lub fotografie przyrządu pomiarowego w celu jego identyfikacji albo może być określony dokument, na podstawie którego będzie dokonywana identyfikacja przyrządu pomiarowego.
+**** Wpisać, o ile ma to zastosowanie.
+***** Pieczęć należy umieścić tylko w przypadku, gdy decyzja jest sporządzona w postaci papierowej.
+****** W przypadku gdy decyzja jest wydawana w postaci elektronicznej, wskazuje się imię i nazwisko osoby wydającej decyzję oraz opatruje się ją kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Prezesa Głównego Urzędu Miar ze wskazaniem w treści decyzji osoby opatrującej decyzję pieczęcią.
+2. Wzór decyzji zatwierdzenia typu z ograniczeniami Warszawa, ........................................
+(data wydania decyzji) PREZES GŁÓWNEGO URZĘDU MIAR DECYZJA NR ......
+Na podstawie art. 8f ust. 3 pkt 2 ustawy z dnia 11 maja 2001 r. – Prawo o miarach po rozpatrzeniu wniosku z dnia ............................., wniesionego przez ......................................................................................................................., który wpłynął (nazwa i adres wnioskodawcy) do Głównego Urzędu Miar w dniu*..............................................., oraz na podstawie wyników badań przeprowadzonych przez ................................................................................................... .
+(dane identyfikujące podmiot wykonujący badania) ZATWIERDZAM TYP Z OGRANICZENIAMI ......................................................................................................................................................
+(nazwa przyrządu pomiarowego i dane identyfikujące zatwierdzany typ) produkowany przez ......................................................................................................................................................
+(nazwa i adres producenta) Nadaje się znak zatwierdzenia typu ……..................................................................................../ (określenie znaku zatwierdzenia typu) Nie nadaje się znaku zatwierdzenia typu**.
+.................................................... spełnia wymagania określone w .............................................
+(nazwa przyrządu pomiarowego) .....................................................................................................................................................
+(tytuł aktu normatywnego wraz z oznaczeniem miejsca jego ogłoszenia i zmian aktu) Rodzaj ograniczenia: .....................................................................................................................................................
+(opis nałożonych ograniczeń) Charakterystyka typu: ......................................................................................................................................................
+(charakterystyki metrologiczne i techniczne zatwierdzanego typu oraz informacje dodatkowe, w tym wykaz urządzeń dodatkowych, które mogą wchodzić w skład przyrządu pomiarowego, o ile ma to zastosowanie) Opis przyrządu pomiarowego:*** ......................................................................................................................................................
+(opis budowy i działania przyrządu pomiarowego, w tym wersja i suma kontrolna oprogramowania, o ile ma to zastosowanie) Warunki właściwego stosowania przyrządu pomiarowego: ………………………………………………………………………………………………….
+(opis warunków właściwego stosowania przyrządu pomiarowego i określenie wersji instrukcji obsługi, o ile ma to zastosowanie) Cechę legalizacji umieszcza się na:**** .....................................................................................
+Cechy zabezpieczające umieszcza się na:**** ...........................................................................
+Decyzja jest ważna przez okres ….………..…………. od dnia wydania.
+(okres ważności decyzji) UZASADNIENIE ......................................................................................................................................................
+......................................................................................................................................................
+......................................................................................................................................................
+POUCZENIE Od decyzji stronie nie przysługuje odwołanie. Jednakże strona niezadowolona z decyzji może zwrócić się do Prezesa Głównego Urzędu Miar z wnioskiem o ponowne rozpatrzenie sprawy w terminie 14 dni od dnia doręczenia decyzji stronie albo wnieść skargę do Wojewódzkiego Sądu Administracyjnego w Warszawie w terminie 30 dni od dnia doręczenia decyzji stronie. Skargę wnosi się za pośrednictwem Prezesa Głównego Urzędu Miar. Wpis od skargi wynosi …… (słownie:………….) złotych.
+Strona może złożyć Prezesowi Głównego Urzędu Miar oświadczenie o zrzeczeniu się prawa do zwrócenia się z wnioskiem o ponowne rozpatrzenie sprawy. Z dniem doręczenia Prezesowi Głównego Urzędu Miar tego oświadczenia decyzja staje się ostateczna i prawomocna, co skutkuje brakiem możliwości zaskarżenia jej do Wojewódzkiego Sądu Administracyjnego.
+Na podstawie ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi stronie w postępowaniu przed sądami administracyjnymi może zostać przyznane prawo pomocy, obejmujące zwolnienie od kosztów sądowych oraz ustanowienie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego.
+Adnotacje urzędowe: ......................................... .............................................
+(pieczęć okrągła Prezesa) ***** (podpis Prezesa albo osoby upoważnionej do wydania decyzji) ****** ——————— * Wpisać, jeżeli dzień sporządzenia wniosku jest inny niż dzień wpływu wniosku do Głównego Urzędu Miar.
+** Niepotrzebne skreślić.
+*** Do decyzji mogą być dołączone załączniki zawierające opisy, schematy lub fotografie przyrządu pomiarowego w celu jego identyfikacji albo może być określony dokument, na podstawie którego będzie dokonywana identyfikacja przyrządu pomiarowego.
+**** Wpisać, o ile ma to zastosowanie.
+***** Pieczęć należy umieścić tylko w przypadku, gdy decyzja jest sporządzona w postaci papierowej.
+****** W przypadku gdy decyzja jest wydawana w postaci elektronicznej, wskazuje się imię i nazwisko osoby wydającej decyzję oraz opatruje się ją kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Prezesa Głównego Urzędu Miar ze wskazaniem w treści decyzji osoby opatrującej decyzję pieczęcią.
+1. WZÓR ŚWIADECTWA LEGALIZACJI PREZES GŁÓWNEGO URZĘDU MIAR ......................................................................................................................................................
+(adres, telefon, e-mail) ŚWIADECTWO LEGALIZACJI PRZYRZĄD POMIAROWY …........................................................................................................................................................
+Określony wyżej przyrząd pomiarowy spełnia wymagania określone prawem i może być użytkowany zgodnie z obowiązującym prawem w okresie ważności legalizacji.
+OKRES WAŻNOŚCI LEGALIZACJI Legalizacja jest ważna do dnia ........................................................................................................
+(dzień, miesiąc słownie, rok) MIEJSCE UŻYTKOWANIA ..........................................................................................................................................................
+WŁAŚCIWOŚCI METROLOGICZNE .........................................................................................................................................................
+WNIOSKODAWCA ............................................................................................................................................................
+WYMAGANIA ............................................................................................................................................................
+ZAKRES SPRAWDZEŃ ............................................................................................................................................................
+MIEJSCA UMIESZCZENIA CECH Cechę legalizacji umieszczono na ...................................................................................................
+Cechy zabezpieczające w liczbie ................. umieszczono na ........................................................
+LICZBA STRON ŚWIADECTWA Świadectwo składa się z .......................... stron(y).
+ZNAK WNIOSKU ............................................................................................................................................................
+Data wystawienia: ...................................................
+(dzień, miesiąc słownie, rok) ............................................
+(pieczątka organu administracji miar (imię i nazwisko osoby albo upoważnionego podmiotu) wystawiającej świadectwo legalizacji i jej podpis) ZAŁĄCZNIKI Objaśnienia odnośników: W przypadku świadectwa legalizacji wydanego przez podmiot upoważniony nie zamieszcza się godła Rzeczypospolitej Polskiej, natomiast może być zamieszczone logo tego podmiotu.
+Jeżeli podmiotem wystawiającym świadectwo jest:
+a) dyrektor okręgowego urzędu miar, to wpisuje się: DYREKTOR OKRĘGOWEGO URZĘDU MIAR w .......................................................
+b) upoważniony podmiot, to wpisuje się nazwę tego podmiotu i jego siedzibę.
+Jeżeli świadectwo legalizacji zostało wydane w wydziale zamiejscowym okręgowego urzędu miar, w świadectwie określa się dodatkowo jego nazwę, adres, telefon i email.
+Należy określić rodzaj legalizacji: PIERWOTNA, JEDNOSTKOWA, PONOWNA. W przypadku dokonywania legalizacji pierwotnej z zastosowaniem metody statystycznej należy wpisać: „PIERWOTNEJ WYKONANEJ METODĄ STATYSTYCZNĄ”.
+Dane identyfikujące przyrząd pomiarowy będący przedmiotem legalizacji, w tym nazwa przyrządu pomiarowego, nazwa lub znak producenta, numer fabryczny, rok produkcji oraz dane dotyczące elementów lub urządzeń dodatkowych, o ile wchodzą w skład tego przyrządu pomiarowego.
+Jeżeli okres ważności legalizacji jest nieokreślony, zamieszcza się zapis: „Legalizacja jest ważna przez czas nieokreślony”.
+Należy określić miejsce użytkowania przyrządu pomiarowego, jeżeli miejsce to jest ograniczone do miejsca przeprowadzenia czynności legalizacyjnych. Jeżeli przyrząd pomiarowy jest zainstalowany w pojeździe, określa się markę i numer identyfikacyjny VIN pojazdu oraz, o ile ma to zastosowanie, wartość stałej k i rozmiar opon kół pojazdu, z wyróżnieniem kół napędowych. Jeżeli użytkowanie przyrządu pomiarowego nie jest ograniczone do tych miejsc, to nie zamieszcza się zapisów w tej sprawie.
+Dane identyfikujące zgłaszającego wniosek o dokonanie legalizacji: imię i nazwisko lub nazwa i jego adres oraz określenie statusu wnioskodawcy: producent, upoważniony przedstawiciel producenta, importer, użytkownik, wykonawca naprawy lub instalacji przyrządu pomiarowego.
+Zapisy w sprawie miejsca umieszczenia cech mogą być zamieszczone na drugiej stronie świadectwa. Jeżeli cech nie umieszczono na przyrządzie pomiarowym, to nie zamieszcza się zapisów w tej sprawie.
+Określenie znaku sprawy z wniosku o dokonanie legalizacji.
+Pieczątkę należy umieścić tylko w przypadku, gdy świadectwo sporządzone jest w postaci papierowej.
+W przypadku gdy świadectwo legalizacji wydawane jest w postaci elektronicznej, wskazuje się imię i nazwisko osoby wystawiającej świadectwo oraz opatruje się je kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną organu administracji miar ze wskazaniem w treści świadectwa legalizacji osoby opatrującej świadectwo pieczęcią.
+W przypadku:
+a) legalizacji ponownej taksometru albo taksometru elektronicznego do świadectwa legalizacji ponownej dołącza się załącznik i umieszcza się na nim napis „Załącznik do świadectwa legalizacji ponownej taksometru z dnia …., o znaku wniosku …” albo „Załącznik do świadectwa legalizacji ponownej taksometru elektronicznego z dnia …., o znaku wniosku …”,
+b) legalizacji pierwotnej i legalizacji ponownej zbiornika pomiarowego do cieczy do świadectwa legalizacji dołącza się załącznik i umieszcza się na nim napis „Załącznik do świadectwa legalizacji z dnia ..., o znaku wniosku … – Tabela litrażowa (objętości) zbiornika pomiarowego do cieczy o numerze …”.
+c) braku załączników nie umieszcza się zapisów w tej sprawie.
+Opis: Świadectwo legalizacji ma format A4. Tło świadectwa jest białe, a litery koloru czarnego pisane czcionką Times New Roman.
+W przypadku gdy wydającym świadectwo legalizacji jest organ administracji miar, na pierwszej stronie świadectwa, pośrodku u góry, zamieszcza się godło Rzeczypospolitej Polskiej. Wysokość godła albo logo podmiotu upoważnionego powinna wynosić 16 mm.
+Litery napisu identyfikującego organ administracji miar albo podmiot upoważniony wystawiający świadectwo legalizacji powinny być napisane czcionką o rozmiarze 10 pkt.
+Litery w napisie „ŚWIADECTWO LEGALIZACJI” powinny być napisane czcionką o rozmiarze 14 pkt, a litery poniżej tego napisu powinny być napisane czcionką o rozmiarze 10 pkt.
+Litery napisu „Niniejsze świadectwo może być okazywane lub kopiowane tylko w całości” powinny być napisane czcionką o rozmiarze 8 pkt.
+Na drugiej i następnych stronach świadectwa można zamieścić uwagi i informacje dodatkowe dotyczące przyrządu pomiarowego będącego przedmiotem legalizacji.
+Druga i następne strony świadectwa powinny być numerowane z jednoczesnym podawaniem liczby wszystkich stron świadectwa.
+2. WZÓR ZAŁĄCZNIKA DO ŚWIADECTWA LEGALIZACJI PONOWNEJ TAKSOMETRU ALBO TAKSOMETRU ELEKTRONICZNEGO Taksometr zainstalowany w taksówce o nr VIN .…………..….. posiada następujący układ taryf: Opłata początkowa zł Taryfa 1 zł Taryfa 2 zł Opłata za 1 kilometr drogi Taryfa 3 zł Taryfa 4 zł Taryfa zł Taryfa 1 zł Taryfa 2 zł Opłata za 1 godzinę postoju Taryfa 3 zł Taryfa 4 zł Taryfa zł Wartość jednostki taryfowej zł Wartość stałej taryfy c Tryb obliczania opłaty Wartość jednostki dopłaty zł Znak wniosku dotyczącego zmiany układu taryf: ………………… Data zmiany układu taryf: …………………………………….……… Data sporządzenia załącznika: …………………………………..…….
+………………………….. ………………………… (pieczątka organu administracji miar (imię i nazwisko osoby albo upoważnionego podmiotu sporządzającej załącznik sporządzającego załącznik) i jej podpis) Objaśnienia odnośników: W świadectwie legalizacji ponownej określa się w kolejnych wierszach wszystkie taryfy z układu taryf.
+Dla taksometrów, na których umieszczono oznakowanie CE, w przypadku różnej wartości jednostki taryfowej dla długości przebytej drogi i czasu trwania kursu podać obydwie wartości jednostki taryfowej.
+Wartość stałej taryfy c nie dotyczy taksometrów, na których umieszczono oznakowanie CE.
+Umieszczenie oznaczenia trybu obliczania opłat S lub D dotyczy taksometrów, na których umieszczono oznakowanie CE.
+Zamieszcza się tylko w przypadku zmiany układu taryf.
+Pieczątkę należy umieścić tylko w przypadku, gdy załącznik sporządzony jest w postaci papierowej.
+W przypadku gdy załącznik wydawany jest w postaci elektronicznej, wskazuje się imię i nazwisko osoby sporządzającej załącznik oraz opatruje się go kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, albo kwalifikowaną pieczęcią elektroniczną organu administracji miar ze wskazaniem w treści załącznika osoby opatrującej załącznik pieczęcią.
+Opis: Litery napisów powinny być napisane czcionką o rozmiarze 10 pkt.
+Dziennik Ustaw – – 11 14 – – Poz. 1179 RODZAJE DOWODÓW LEGALIZACJI, OKRESY WAŻNOŚCI LEGALIZACJI DLA POSZCZEGÓLNYCH RODZAJÓW PRZYRZĄDÓW POMIAROWYCH, TERMINY ZGŁASZANIA DO LEGALIZACJI PONOWNEJ PRZYRZĄDÓW POMIAROWYCH WPROWADZONYCH DO OBROTU LUB UŻYTKOWANIA PO DOKONANIU OCENY ZGODNOŚCI ORAZ OKRESY WAŻNOŚCI LEGALIZACJI PONOWNEJ ZA POMOCĄ METODY STATYSTYCZNEJ
+1. Rodzaje dowodów legalizacji pierwotnej, legalizacji jednostkowej i legalizacji ponownej oraz okresy ważności tych legalizacji określa tabela nr 1: Tabela nr 1 Okresy ważności Okresy Rodzaje Przyrządy pomiarowe podlegające legalizacji ważności Lp. dowodów legalizacji pierwotnej legalizacji legalizacji i legalizacji ponownej jednostkowej 1 2 3 4 5 Areometry szklane – alkoholomierze 1 c lub s nieokreślony – i densymetry do alkoholu Areometry szklane – densymetry do 2 c lub s nieokreślony – cieczy innych niż alkohol 3 Analizatory spalin samochodowych s – 6 miesięcy 4 Beczki metalowe c nieokreślony – Ciepłomierze i następujące podzespoły ciepłomierzy: pary czujników 5 c – 5 lat temperatury, przeliczniki i przetworniki przepływu 6 Drogowe cysterny pomiarowe s 7 lat 7 lat Gazomierze 7 1) miechowe c – 10 lat
+2) pozostałe c – 5 lat Gęstościomierze zbożowe użytkowe 8 c lub s 2 lata 2 lata 20 L, 1 L i 1/4 L Instalacje pomiarowe do ciągłego i dynamicznego pomiaru ilości cieczy innych niż woda
+1) do cieczy kriogenicznych s – 13 miesięcy
+2) do cieczy, których temperatura jest niższa niż  10°C, w tym do gazów s ciekłych pod ciśnieniem innych niż – 13 miesięcy ciecze kriogeniczne, albo wyższa niż 50°C 9
+3) do gazu ciekłego propan-butan, w tym gazu skroplonego (LPG), w tym s – 13 miesięcy odmierzacze tych cieczy
+4) do mleka s – 13 miesięcy
+5) do pozostałych cieczy innych niż woda, w tym odmierzacze paliw s – 25 miesięcy ciekłych i biopaliw ciekłych Liczniki energii elektrycznej czynnej prądu przemiennego
+1) indukcyjne bezpośrednie o mocy 10 c – 15 lat nominalnej nie większej niż 30 kW
+2) pozostałe c – 8 lat Manometry do opon pojazdów 11 c lub s 2 lata 2 lata mechanicznych Maszyny do pomiaru pola powierzchni 12 s – 37 miesięcy skór Odważniki
+1) klas dokładności E , E , F , F o wartościach nominalnych masy od c lub s 2 lata 25 miesięcy 1 mg do 50 kg 13
+2) klasy dokładności M o wartościach nominalnych masy od 1 mg do 50 kg c 3 lata 3 lata oraz klasy dokładności M o wartościach nominalnych masy od 1 g do 50 kg 14 Przeliczniki do gazomierzy c – 10 lat Przyrządy do pomiaru długości tkanin, 15 drutu, kabla, materiałów taśmowych, s – 37 miesięcy opatrunkowych i papierowych Przyrządy do pomiaru prędkości 16 s 13 miesięcy 13 miesięcy pojazdów w kontroli ruchu drogowego 17 Taksometry i taksometry elektroniczne s – 25 miesięcy Urządzenia rejestrujące stosowane 18 w transporcie drogowym – tachografy c nieokreślony nieokreślony samochodowe Wagi automatyczne
+1) dla pojedynczych ładunków c lub s – 25 miesięcy
+2) odważające c lub s – 25 miesięcy 19
+3) porcjujące c lub s – 25 miesięcy
+4) przenośnikowe c lub s – 25 miesięcy
+5) wagonowe c lub s – 13 miesięcy 20 Wagi nieautomatyczne c lub s – 25 miesięcy Wagi samochodowe do ważenia 21 c lub s 25 miesięcy 25 miesięcy pojazdów w ruchu 22 Wodomierze c – 5 lat Zbiorniki pomiarowe do cieczy
+1) zainstalowane na stałe na pojeździe s 2 lata 25 miesięcy 23 drogowym
+2) posadowione na stałe s 11 lat 11 lat
+3) schładzalniki do mleka s 5 lat 5 lat c – oznacza cechę legalizacji, s – oznacza świadectwo legalizacji.
+W przypadku legalizacji ponownej ciepłomierzy i podzespołów ciepłomierzy, gazomierzy, liczników energii elektrycznej czynnej prądu przemiennego oraz wodomierzy, dokonanej metodą statystyczną, dowodem legalizacji jest świadectwo legalizacji.
+2. Terminy, w których przyrządy pomiarowe wprowadzone do obrotu lub użytkowania po dokonaniu oceny zgodności powinny być zgłaszane do legalizacji ponownej, określa tabela nr 2: Tabela nr 2 Termin zgłoszenia przyrządu pomiarowego po raz pierwszy do Lp. Przyrządy pomiarowe podlegające legalizacji legalizacji ponownej po dokonaniu oceny zgodności 1 2 3 1 Analizatory spalin samochodowych 1 rok Ciepłomierze i następujące podzespoły ciepłomierzy: pary 2 5 lat czujników temperatury, przeliczniki i przetworniki przepływu Gazomierze 3 1) miechowe 10 lat
+2) pozostałe 5 lat Instalacje pomiarowe do ciągłego i dynamicznego pomiaru ilości cieczy innych niż woda
+1) do cieczy kriogenicznych 1 rok
+2) do cieczy, których temperatura jest niższa niż –10°C, w tym do gazów ciekłych pod ciśnieniem innych niż ciecze kriogeniczne, 1 rok albo wyższa niż 50°C 4
+3) do gazu ciekłego propan-butan, w tym gazu skroplonego 1 rok (LPG), w tym odmierzacze tych cieczy
+4) do mleka 1 rok
+5) do pozostałych cieczy innych niż woda, w tym odmierzacze 2 lata paliw ciekłych i biopaliw ciekłych Liczniki energii elektrycznej czynnej prądu przemiennego
+1) indukcyjne bezpośrednie o mocy nominalnej nie większej niż 5 15 lat 30 kW
+2) pozostałe 8 lat 6 Maszyny do pomiaru pola powierzchni skór 3 lata 7 Przeliczniki do gazomierzy 10 lat Przyrządy do pomiaru długości tkanin, drutu, kabla, materiałów 8 3 lata taśmowych, opatrunkowych i papierowych po zainstalowaniu 9 Taksometry w taksówce Wagi automatyczne
+1) dla pojedynczych ładunków 2 lata
+2) odważające 2 lata 10
+3) porcjujące 2 lata
+4) przenośnikowe 2 lata
+5) wagonowe 1 rok 11 Wagi nieautomatyczne 2 lata 12 Wodomierze 5 lat
+3. Okresy ważności legalizacji ponownej dokonanej z zastosowaniem metody statystycznej określa tabela nr 3: Tabela nr 3 Okresy ważności Lp. Przyrządy pomiarowe podlegające legalizacji legalizacji ponownej 1 2 3 Ciepłomierze i następujące podzespoły ciepłomierzy: pary 1 3 lata czujników temperatury, przeliczniki i przetworniki przepływu Gazomierze 2 1) miechowe 5 lat
+2) pozostałe 3 lata Liczniki energii elektrycznej czynnej prądu przemiennego
+1) indukcyjne bezpośrednie o mocy nominalnej nie większej niż 3 8 lat 30 kW
+2) pozostałe 4 lata 4 Wodomierze 3 lata WZÓR ŚWIADECTWA LEGALIZACJI PONOWNEJ DOKONANEJ ZA POMOCĄ METODY STATYSTYCZNEJ PREZES GŁÓWNEGO URZĘDU MIAR ....................................................................................................................................... .
+(adres, telefon, e-mail) ŚWIADECTWO LEGALIZACJI PONOWNEJ DOKONANEJ ZA POMOCĄ METODY STATYSTYCZNEJ PRZYRZĄDY POMIAROWE …..............................................................................................................................................
+Określone wyżej przyrządy pomiarowe spełniają wymagania określone prawem i mogą być użytkowane zgodnie z obowiązującym prawem w okresie ważności legalizacji, pod warunkiem że umieszczone na nich cechy zabezpieczające albo oznaczenia lub cechy zabezpieczające naniesione podczas dokonywania oceny zgodności nie są uszkodzone albo zniszczone.
+OKRES WAŻNOŚCI LEGALIZACJI Legalizacja jest ważna do dnia ............................................................................................
+(dzień, miesiąc słownie, rok) WNIOSKODAWCA ..................................................................................................................................................
+WYMAGANIA ..................................................................................................................................................
+ZAKRES SPRAWDZEŃ .................................................................................................................................................
+CECHY ZABEZPIECZAJĄCE/OZNACZENIA SĄ UMIESZCZONE W NASTĘPUJĄCYCH MIEJSCACH ……………………………………………………………………………………………….
+LICZBA STRON ŚWIADECTWA Świadectwo składa się z .......................... stron(y).
+ZNAK WNIOSKU ..................................................................................................................................................
+Data wystawienia: ..............................................
+(dzień, miesiąc słownie, rok) ........................................................... ……………………………..
+(pieczątka organu administracji miar (imię i nazwisko osoby albo upoważnionego podmiotu) wystawiającej świadectwo legalizacji i jej podpis) do wiadomości: Prezes Głównego Urzędu Miar ZAŁĄCZNIKI Objaśnienia odnośników: W przypadku świadectwa legalizacji wydanego przez podmiot upoważniony nie zamieszcza się godła Rzeczypospolitej Polskiej, natomiast może być zamieszczone logo tego podmiotu.
+Jeżeli podmiotem wystawiającym świadectwo jest:
+a) dyrektor okręgowego urzędu miar, to wpisuje się: DYREKTOR OKRĘGOWEGO URZĘDU MIAR w .......................................................
+b) upoważniony podmiot, to wpisuje się nazwę tego podmiotu i jego siedzibę.
+Jeżeli świadectwo legalizacji zostało wydane w wydziale zamiejscowym okręgowego urzędu miar, w świadectwie określa się jego nazwę, adres, telefon i e-mail.
+Dane identyfikujące przyrządy pomiarowe będące przedmiotem legalizacji, w tym nazwa przyrządu pomiarowego, nazwa lub znak producenta, rok produkcji oraz dane dotyczące elementów lub urządzeń dodatkowych, o ile wchodzą w skład tych przyrządów pomiarowych. Numery fabryczne przyrządów pomiarowych określa się w załączniku.
+Dane identyfikujące zgłaszającego wniosek o dokonanie legalizacji: imię i nazwisko lub nazwa i jego adres oraz określenie statusu wnioskodawcy: użytkownik albo wykonawca naprawy lub instalacji przyrządu pomiarowego.
+Zapisy w sprawie miejsca umieszczenia cech albo oznaczeń lub cech zabezpieczających naniesione podczas dokonywania oceny zgodności mogą być zamieszczone w załączniku do świadectwa. Jeżeli cech zabezpieczających albo oznaczeń nie umieszczono na przyrządzie pomiarowym, to nie zamieszcza się zapisów w tej sprawie.
+Określenie znaku sprawy z wniosku o dokonanie legalizacji.
+Pieczątkę należy umieścić tylko w przypadku, gdy świadectwo jest sporządzone w postaci papierowej.
+W przypadku gdy świadectwo legalizacji jest wydawane w postaci elektronicznej, wskazuje się imię i nazwisko osoby wystawiającej świadectwo oraz opatruje się je kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną organu administracji miar ze wskazaniem w treści świadectwa legalizacji osoby opatrującej świadectwo pieczęcią.
+Opis: Świadectwo legalizacji ma format A4. Tło świadectwa jest białe, a litery koloru czarnego pisane czcionką Times New Roman.
+W przypadku gdy wydającym świadectwo legalizacji jest organ administracji miar, na pierwszej stronie świadectwa, pośrodku u góry, zamieszcza się godło Rzeczypospolitej Polskiej.
+Wysokość godła albo logo podmiotu upoważnionego powinna wynosić 16 mm.
+Litery napisu identyfikującego organ administracji miar albo podmiot upoważniony wystawiający świadectwo legalizacji powinny być napisane czcionką o rozmiarze 10 pkt.
+Litery w napisie „ ŚWIADECTWO LEGALIZACJI PONOWNEJ DOKONANEJ ZA POMOCĄ METODY STATYSTYCZNEJ ” powinny być napisane czcionką o rozmiarze 14 pkt, a litery napisów umieszczonych poniżej tego napisu powinny być napisane czcionką o rozmiarze 10 pkt.
+Litery napisu „Niniejsze świadectwo może być okazywane lub kopiowane tylko w całości” powinny być napisane czcionką o rozmiarze 8 pkt.
+Na drugiej i następnych stronach świadectwa można zamieścić uwagi i informacje dodatkowe dotyczące przyrządów pomiarowych będących przedmiotem legalizacji.
+Druga i następne strony świadectwa powinny być numerowane z jednoczesnym podawaniem liczby wszystkich stron świadectwa.
+
+## Tytuł aktu normatywnego określającego wymagania, które spełnia przyrząd pomiarowy, wraz z oznaczeniem miejsca jego ogłoszenia i zmian aktu, oraz oznaczenia przepisów tego aktu, które określają wymagania dotyczące przyrządu pomiarowego będącego przedmiotem legalizacji.
+
+## Tytuł aktu normatywnego określającego zakres sprawdzenia zgodności przyrządu pomiarowego z wymaganiami, wraz z oznaczeniem miejsca jego ogłoszenia i zmian aktu, oraz oznaczenie przepisów tego aktu, które określają zakres sprawdzenia przyrządu pomiarowego. Jeżeli z aktu wynika, że może być stosowana więcej niż jedna metoda sprawdzania, to należy wskazać zastosowaną metodę.
+
+## Tytuł aktu normatywnego określającego wymagania, które spełnia przyrząd pomiarowy, wraz z oznaczeniem miejsca jego ogłoszenia i zmian aktu, oraz oznaczenia przepisów tego aktu, które określają wymagania dotyczące przyrządu pomiarowego będącego przedmiotem legalizacji.
+
+## Tytuł aktu normatywnego określającego zakres sprawdzenia zgodności przyrządu pomiarowego z wymaganiami, wraz z oznaczeniem miejsca jego ogłoszenia i zmian aktu, oraz oznaczenie przepisów tego aktu, które określają zakres sprawdzenia przyrządu pomiarowego. Jeżeli z aktu wynika, że może być stosowana więcej niż jedna metoda sprawdzania, to należy wskazać zastosowaną metodę.
+

@@ -8,7 +8,7 @@ pos: 1891
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-11-07 |
 | Data wydania | 2025-12-31 |
-| Ostatnia zmiana | 2026-05-18 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001891) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1891/text.pdf) |
 
 Art. 216–263. (pominięte)
@@ -33,7 +33,95 @@ Art. 216–263. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** uzyskiwania uprawnień do wykonywania zawodu biegłego rewidenta i wykonywania tego zawodu;
+- **1a)** organizacji i finansowania Polskiej Agencji Nadzoru Audytowego, zwanej dalej „Agencją”;
+- **2)** organizacji samorządu zawodowego biegłych rewidentów;
+- **3)** działalności firm audytorskich, w tym ich organizacji, oraz odpowiedzialności za naruszenie przepisów prawa;
+- **4)** sprawowania nadzoru publicznego nad biegłymi rewidentami i firmami audytorskimi, samorządem zawodowym biegłych rewidentów oraz jednostkami zainteresowania publicznego;
+- **5)** wykonywania usług atestacyjnych oraz usług pokrewnych przez biegłych rewidentów lub firmy audytorskie;
+- **6)** tworzenia i działania komitetów audytu w jednostkach zainteresowania publicznego;
+- **7)** odpowiedzialności dyscyplinarnej biegłych rewidentów;
+- **8)** współpracy międzynarodowej organu nadzoru publicznego, w szczególności z innymi organami nadzoru publicznego z państw Unii Europejskiej i państw trzecich.
+
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** badaniu ustawowym – należy przez to rozumieć badanie rocznego skonsolidowanego sprawozdania finansowego grupy kapitałowej lub badanie rocznego sprawozdania finansowego, którego obowiązek przeprowadzania wynika z art. 64 ust. 1–4 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), przepisów innych ustaw lub przepisów prawa Unii Europejskiej, przeprowadzane zgodnie z krajowymi standardami badania;
+- **2)** badaniu dobrowolnym – należy przez to rozumieć badanie rocznego sprawozdania finansowego, które jest przeprowadzane na podstawie decyzji badanej jednostki, a nie na podstawie art. 64 ust. 1–4 ustawy z dnia 29 września 1994 r. o rachunkowości, przepisów innych ustaw lub przepisów prawa Unii Europejskiej, przeprowadzane zgodnie z krajowymi lub innymi standardami badania, a także badanie rocznego skonsolidowanego sprawozdania finansowego grupy kapitałowej przeprowadzane zgodnie ze standardami innymi niż krajowe standardy badania;
+- **3)** badaniu – należy przez to rozumieć badanie ustawowe lub badanie dobrowolne;
+- **4)** przeglądzie sprawozdania finansowego – należy przez to rozumieć przegląd skonsolidowanego sprawozdania finansowego grupy kapitałowej lub sprawozdania finansowego przeprowadzany zgodnie z krajowymi standardami przeglądu;
+- **4a)** sprawozdawczości zrównoważonego rozwoju – należy przez to rozumieć sprawozdawczość zrównoważonego rozwoju w rozumieniu art. 63r i art. 63s ustawy z dnia 29 września 1994 r. o rachunkowości;
+- **4b)** sprawozdawczości zrównoważonego rozwoju grupy kapitałowej – należy przez to rozumieć sprawozdawczość zrównoważonego rozwoju grupy kapitałowej w rozumieniu art. 63x ustawy z dnia 29 września 1994 r. o rachunkowości;
+- **4c)** atestacji sprawozdawczości zrównoważonego rozwoju – należy przez to rozumieć usługę atestacyjną w zakresie sprawozdawczości zrównoważonego rozwoju oraz sprawozdawczości zrównoważonego rozwoju grupy kapitałowej;
+- **5)** usługach atestacyjnych – należy przez to rozumieć usługi mające na celu uwiarygodnienie w wysokim lub umiarkowanym stopniu zagadnień obejmujących w szczególności informacje finansowe i niefinansowe, systemy, procesy, a także aspekty zachowań lub postaw określonych podmiotów, w oparciu o dowody uzyskane w trakcie przeprowadzenia odpowiednich procedur, stanowiące podstawę wydawanej, zgodnie z przyjętymi kryteriami, oceny zagadnień będących przedmiotem tych usług, zamieszczonej w sprawozdaniu z wykonanej usługi;
+- **6)** usługach pokrewnych – należy przez to rozumieć usługi polegające na przeprowadzeniu uzgodnionych procedur, wykonywanych w oparciu o uzgodniony cel, zakres prac i sposób ich wykonania, których opis i wynik są przedstawione w raporcie z wykonania usługi, lub usługi kompilacji informacji finansowych, których celem jest wykorzystanie wiedzy z zakresu rachunkowości do zebrania, sklasyfikowania i podsumowania informacji finansowych;
+- **7)** czynnościach rewizji finansowej – należy przez to rozumieć usługi atestacyjne obejmujące badania, atestacje sprawozdawczości zrównoważonego rozwoju, a także przeglądy sprawozdań finansowych i inne usługi atestacyjne określone przepisami prawa, zastrzeżone dla biegłego rewidenta;
+- **8)** dużej jednostce – należy przez to rozumieć jednostkę dużą w rozumieniu art. 3 ust. 1 pkt 1d ustawy z dnia 29 września 1994 r. o rachunkowości;
+- **9)** jednostkach zainteresowania publicznego – należy przez to rozumieć jednostki interesu publicznego, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 537/2014 z dnia 16 kwietnia 2014 r. w sprawie szczegółowych wymogów dotyczących ustawowych badań sprawozdań finansowych jednostek interesu publicznego, uchylającym decyzję Komisji 2005/909/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 77 oraz Dz. Urz. UE L 170 z 11.06.2014, str. 66), zwanym dalej „rozporządzeniem nr 537/2014”, obejmujące: zm. ),
+    - **a)** emitentów papierów wartościowych dopuszczonych do obrotu na rynku regulowanym państwa Unii Europejskiej, mających siedzibę na terytorium Rzeczypospolitej Polskiej, których sprawozdania finansowe objęte są obowiązkiem badania ustawowego,
+    - **b)** banki krajowe, oddziały instytucji kredytowych i oddziały banków zagranicznych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ),
+    - **c)** zakłady ubezpieczeń i zakłady reasekuracji oraz główne oddziały i oddziały zakładów ubezpieczeń i zakładów reasekuracji w rozumieniu ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838, z późn.
+    - **d)** instytucje pieniądza elektronicznego i krajowe instytucje płatnicze w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069) spełniające kryteria dużej jednostki,
+    - **e)** otwarte fundusze emerytalne, dobrowolne fundusze emerytalne oraz powszechne towarzystwa emerytalne w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz. 1113 oraz z 2025 r. poz. 1069, 1216 i 1425),
+    - **f)** fundusze inwestycyjne otwarte, specjalistyczne fundusze inwestycyjne otwarte oraz publiczne fundusze inwestycyjne zamknięte w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034, z późn. zm. ),
+    - **g)** towarzystwa w rozumieniu ustawy wymienionej w lit. f, które na koniec danego roku obrotowego oraz na koniec roku obrotowego poprzedzającego dany rok obrotowy zarządzały aktywami o wartości nie mniejszej niż 10 000 000 000 zł oraz które zarządzały funduszami posiadającymi łącznie nie mniej niż 30 000 rejestrów otwartych dla uczestników,
+    - **h)** podmioty prowadzące działalność maklerską, które na koniec danego roku obrotowego oraz na koniec roku obrotowego poprzedzającego dany rok obrotowy posiadały na rachunkach klientów aktywa o wartości nie mniejszej niż 10 000 000 000 zł lub zarządzały aktywami o wartości nie mniejszej niż 10 000 000 000 zł i jednocześnie posiadały minimum 10 000 klientów, z wyłączeniem podmiotów prowadzących działalność wyłącznie w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych lub w zakresie doradztwa inwestycyjnego w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ),
+    - **i)** spółdzielcze kasy oszczędnościowo-kredytowe w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379, 820, 1069, 1170 i 1191), spełniające kryteria dużej jednostki;
+
+- **10)** banku spółdzielczym – należy przez to rozumieć bank spółdzielczy w rozumieniu art. 2 pkt 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r. poz. 265 i 1191);
+- **11)** banku zrzeszającym – należy przez to rozumieć bank zrzeszający w rozumieniu art. 2 pkt 2 ustawy wymienionej w pkt 10;
+- **12)** kluczowym biegłym rewidencie – należy przez to rozumieć:
+    - **a)** w przypadku badania sprawozdania finansowego – biegłego rewidenta wyznaczonego przez firmę audytorską jako w głównym stopniu odpowiedzialnego za przeprowadzenie danego badania w imieniu firmy audytorskiej lub
+    - **b)** w przypadku badania skonsolidowanego sprawozdania finansowego grupy kapitałowej – biegłego rewidenta wyznaczonego przez firmę audytorską jako w głównym stopniu odpowiedzialnego za przeprowadzenie badania skonsolidowanego sprawozdania finansowego grupy kapitałowej w imieniu firmy audytorskiej na poziomie jednostki dominującej danej grupy kapitałowej oraz biegłego rewidenta wyznaczonego jako w głównym stopniu odpowiedzialnego za przeprowadzenie badania skonsolidowanego sprawozdania finansowego grupy kapitałowej na poziomie istotnych jednostek zależnych objętych skonsolidowanym sprawozdaniem finansowym danej grupy kapitałowej, lub
+    - **c)** biegłego rewidenta podpisującego sprawozdanie z badania;
+
+- **12a)** kluczowym biegłym rewidencie atestacji sprawozdawczości zrównoważonego rozwoju – należy przez to rozumieć:
+    - **a)** w przypadku atestacji sprawozdawczości zrównoważonego rozwoju w zakresie sprawozdawczości zrównoważonego rozwoju – biegłego rewidenta uprawnionego do atestacji sprawozdawczości zrównoważonego rozwoju wyznaczonego przez firmę audytorską jako w głównym stopniu odpowiedzialnego za przeprowadzenie atestacji sprawozdawczości zrównoważonego rozwoju w imieniu firmy audytorskiej, lub
+    - **b)** w przypadku atestacji sprawozdawczości zrównoważonego rozwoju w zakresie sprawozdawczości zrównoważonego rozwoju grupy kapitałowej – biegłego rewidenta uprawnionego do atestacji sprawozdawczości zrównoważonego rozwoju wyznaczonego przez firmę audytorską jako w głównym stopniu odpowiedzialnego za przeprowadzenie atestacji sprawozdawczości zrównoważonego rozwoju grupy kapitałowej w imieniu firmy audytorskiej na poziomie jednostki dominującej danej grupy kapitałowej oraz biegłego rewidenta uprawnionego do atestacji sprawozdawczości zrównoważonego rozwoju wyznaczonego jako w głównym stopniu odpowiedzialnego za przeprowadzenie atestacji sprawozdawczości zrównoważonego rozwoju grupy kapitałowej na poziomie istotnych jednostek zależnych danej grupy kapitałowej, lub
+    - **c)** biegłego rewidenta uprawnionego do atestacji sprawozdawczości zrównoważonego rozwoju podpisującego sprawozdanie z atestacji sprawozdawczości zrównoważonego rozwoju;
+
+- **13)** firmie audytorskiej grupy – należy przez to rozumieć firmę audytorską przeprowadzającą badanie skonsolidowanego sprawozdania finansowego grupy kapitałowej lub atestację sprawozdawczości zrównoważonego rozwoju w zakresie sprawozdawczości zrównoważonego rozwoju grupy kapitałowej;
+- **14)** sieci – należy przez to rozumieć strukturę:
+    - **a)** której celem jest współpraca i do której należy biegły rewident lub firma audytorska oraz
+    - **b)** której celem jest podział zysków lub kosztów lub która funkcjonuje w ramach wspólnych powiązań właścicielskich, lub która posiada wspólny system kontroli lub wspólne zarządzanie, lub która posiada wspólną politykę i procedury zarządzania jakością, lub która posiada wspólną strategię gospodarczą, lub która korzysta ze wspólnego oznaczenia lub znaczącej części zasobów;
+
+- **15)** podmiocie powiązanym z firmą audytorską – należy przez to rozumieć podmiot, niezależnie od jego formy prawnej, który jest bezpośrednio lub pośrednio związany z firmą audytorską poprzez wspólne powiązania właścicielskie, system kontroli lub zarządzanie;
+- **16)** zespole wykonującym badanie – należy przez to rozumieć wszystkie osoby zaangażowane w przeprowadzanie badania, w szczególności biegłych rewidentów, osoby przeprowadzające kontrolę jakości wykonania zlecenia, kadrę kierowniczą wyższego szczebla oraz osoby odbywające aplikację, o której mowa w art. 4 ust. 2 pkt 5, uczestniczących w przeprowadzanym badaniu, a także zatrudnianych przez firmę audytorską ekspertów oraz inne osoby wykonujące, w ramach danego badania, czynności na zlecenie lub pod kontrolą biegłego rewidenta lub firmy audytorskiej;
+- **16a)** zespole wykonującym atestację sprawozdawczości zrównoważonego rozwoju – należy przez to rozumieć osoby zaangażowane w przeprowadzanie atestacji sprawozdawczości zrównoważonego rozwoju, w szczególności biegłych rewidentów, osoby przeprowadzające kontrolę jakości wykonania zlecenia, kadrę kierowniczą wyższego szczebla oraz osoby odbywające aplikację, o której mowa w art. 4a ust. 1 pkt 2, uczestniczących w przeprowadzanej atestacji sprawozdawczości zrównoważonego rozwoju, a także zatrudnianych przez firmę audytorską ekspertów oraz inne osoby wykonujące, w ramach danej atestacji, czynności na zlecenie lub pod kontrolą biegłego rewidenta lub firmy audytorskiej;
+- **17)** osobie blisko związanej – należy przez to rozumieć osobę blisko związaną w rozumieniu art. 3 ust. 1 pkt 26 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylającego dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE (Dz. Urz. UE L 173 z 12.06.2014, str. 1, Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1 oraz Dz. Urz. UE L 287 z 21.10.2016, str. 320);
+- **18)** jednostce kontrolowanej – należy przez to rozumieć jednostkę zależną w rozumieniu art. 3 ust. 1 pkt 39 ustawy z dnia 29 września 1994 r. o rachunkowości;
+- **19)** międzynarodowych standardach badania – należy przez to rozumieć Międzynarodowe Standardy Badania oraz inne powiązane standardy wydane przez Międzynarodową Federację Księgowych za pośrednictwem Rady Międzynarodowych Standardów Rewizji Finansowej i Usług Atestacyjnych w zakresie, w jakim odnoszą się one do badań;
+- **20)** międzynarodowych standardach zarządzania jakością – należy przez to rozumieć Międzynarodowe Standardy Zarządzania Jakością oraz inne powiązane standardy wydane przez Międzynarodową Federację Księgowych za pośrednictwem Rady Międzynarodowych Standardów Rewizji Finansowej i Usług Atestacyjnych w zakresie, w jakim odnoszą się one do zarządzania jakością;
+- **21)** międzynarodowych standardach rachunkowości – należy przez to rozumieć Międzynarodowe Standardy Rachunkowości, Międzynarodowe Standardy Sprawozdawczości Finansowej i związane z nimi interpretacje przyjęte do prawa Unii Europejskiej w formie rozporządzeń Komisji Europejskiej;
+- **22)** krajowych standardach badania – należy przez to rozumieć:
+    - **a)** międzynarodowe standardy badania przyjęte do prawa Unii Europejskiej w formie rozporządzeń Komisji Europejskiej,
+    - **b)** standardy badania w zakresie nieuregulowanym przez standardy, o których mowa w lit. a, przyjęte przez Krajową Radę Biegłych Rewidentów, zatwierdzone przez Radę Agencji w zakresie, w jakim odnoszą się one do badań sprawozdań finansowych;
+
+- **22a)** krajowych standardach atestacji sprawozdawczości zrównoważonego rozwoju – należy przez to rozumieć:
+    - **a)** standardy atestacji sprawozdawczości zrównoważonego rozwoju przyjęte do prawa Unii Europejskiej w formie rozporządzenia Komisji Europejskiej,
+    - **b)** standardy atestacji sprawozdawczości zrównoważonego rozwoju, przyjęte przez Krajową Radę Biegłych Rewidentów i zatwierdzone przez Radę Agencji w zakresie, w jakim odnoszą się do atestacji sprawozdawczości zrównoważonego rozwoju – w przypadku nieobowiązywania standardów atestacji sprawozdawczości zrównoważonego rozwoju w formie rozporządzenia Komisji Europejskiej;
+
+- **23)** krajowych standardach wykonywania zawodu – należy przez to rozumieć:
+    - **a)** krajowe standardy badania,
+    - **b)** krajowe standardy atestacji sprawozdawczości zrównoważonego rozwoju,
+    - **c)** krajowe standardy przeglądu,
+    - **d)** krajowe standardy usług atestacyjnych innych niż badanie, atestacja sprawozdawczości zrównoważonego rozwoju i przegląd,
+    - **e)** krajowe standardy usług pokrewnych;
+
+- **24)** krajowych standardach zarządzania jakością – należy przez to rozumieć:
+    - **a)** międzynarodowe standardy zarządzania jakością przyjęte do prawa Unii Europejskiej w formie rozporządzeń Komisji Europejskiej,
+    - **b)** zasady zarządzania jakością w zakresie nieuregulowanym standardami, o których mowa w lit. a, przyjęte przez Krajową Radę Biegłych Rewidentów, zatwierdzone przez Radę Agencji;
+
+- **25)** państwie Unii Europejskiej – należy przez to rozumieć państwo członkowskie Unii Europejskiej i państwo członkowskie Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **26)** państwie trzecim – należy przez to rozumieć państwo inne niż wymienione w pkt 25;
+- **27)** zatwierdzeniu osoby lub jednostki organizacyjnej – należy przez to rozumieć uzyskanie uprawnień do przeprowadzania w państwie Unii Europejskiej obowiązkowych badań sprawozdań finansowych lub atestacji sprawozdawczości zrównoważonego rozwoju;
+- **28)** jednostce audytorskiej pochodzącej z państwa trzeciego – należy przez to rozumieć jednostkę organizacyjną, która przeprowadza badania rocznych lub skonsolidowanych sprawozdań finansowych lub atestację sprawozdawczości zrównoważonego rozwoju jednostki zarejestrowanej w państwie trzecim, inną niż jednostka organizacyjna zarejestrowana jako firma audytorska w państwie Unii Europejskiej w wyniku zatwierdzenia takiej jednostki organizacyjnej w tym państwie Unii Europejskiej;
+- **29)** biegłym rewidencie pochodzącym z państwa trzeciego – należy przez to rozumieć osobę fizyczną, która przeprowadza badania rocznych lub skonsolidowanych sprawozdań finansowych lub atestację sprawozdawczości zrównoważonego rozwoju jednostki zarejestrowanej w państwie trzecim, inną niż osoba zarejestrowana jako biegły rewident w państwie Unii Europejskiej w wyniku zatwierdzenia takiej osoby w tym państwie Unii Europejskiej;
+- **30)** państwie członkowskim pochodzenia – należy przez to rozumieć państwo Unii Europejskiej, w którym biegły rewident lub firma audytorska zostali zatwierdzeni;
+- **31)** sprawozdaniu z badania – należy przez to rozumieć pisemny raport z przeprowadzonego badania sprawozdania finansowego badanej jednostki, zawierający opinię biegłego rewidenta o zbadanym sprawozdaniu finansowym;
+- **32)** niezależnym dostawcy usług atestacyjnych – należy przez to rozumieć jednostkę oceniającą zgodność z innego niż Rzeczpospolita Polska państwa Unii Europejskiej, akredytowaną zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającym wymagania w zakresie akredytacji i uchylającym rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30, z późn. zm. ) i dopuszczoną przez to państwo do atestacji sprawozdawczości zrównoważonego rozwoju; <33) rozporządzeniu 2023/2859 – należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
+- **34)** europejskim pojedynczym punkcie dostępu – należy przez to rozumieć europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
+- **35)** metadanych – należy przez to rozumieć metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
+- **36)** formacie umożliwiającym ekstrakcję danych – należy przez to rozumieć format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka.>
 
 **Art. 2a.** Polska Izba Biegłych Rewidentów jest administratorem danych przetwarzanych w celach realizacji zadań lub obowiązków przez organy samorządu biegłych rewidentów, związanych z działalnością Komisji Egzaminacyjnej, zwanej dalej „Komisją”, oraz organizacją egzaminów dla kandydatów na biegłych rewidentów oraz biegłych rewidentów ubiegających się o uprawnienie do atestacji sprawozdawczości zrównoważonego rozwoju.
 
@@ -134,6 +222,12 @@ Art. 216–263. (pominięte)
 2. Ślubowanie odbiera Prezes Krajowej Rady Biegłych Rewidentów lub inny upoważniony członek Krajowej Rady Biegłych Rewidentów.
 
 **Art. 8.** Biegły rewident jest obowiązany w szczególności:
+
+- **1)** postępować zgodnie ze złożonym ślubowaniem;
+- **2)** stale podnosić kwalifikacje zawodowe, w tym przez odbywanie obligatoryjnego doskonalenia zawodowego w każdym roku kalendarzowym;
+- **3)** przestrzegać krajowych standardów wykonywania zawodu, wymogów niezależności oraz zasad etyki zawodowej;
+- **4)** regularnie opłacać składkę członkowską;
+- **5)** przestrzegać uchwał organów Polskiej Izby Biegłych Rewidentów w zakresie, w jakim dotyczą one biegłych rewidentów.
 
 **Art. 9.**
 
@@ -485,7 +579,13 @@ Art. 216–263. (pominięte)
 
 10. Krajowa Rada Biegłych Rewidentów wydaje legitymację biegłego rewidenta zawierającą imię i nazwisko oraz numer legitymacji będący jednocześnie numerem wpisu biegłego rewidenta do rejestru.
 
-11. Rejestr jest prowadzony w postaci elektronicznej i jest dostępny na stronie internetowej Polskiej Izby Biegłych Rewidentów. Dane dotyczące obywatelstwa oraz adresu biegłego rewidenta nie podlegają publikacji.
+11. Rejestr jest prowadzony w postaci elektronicznej i jest dostępny na stronie internetowej Polskiej Izby Biegłych Rewidentów. Dane dotyczące obywatelstwa oraz adresu biegłego rewidenta nie podlegają publikacji. <12. Krajowa Rada Biegłych Rewidentów udostępnia informacje, o których mowa w ust. 2 pkt 1, 2 i 4–7, z wyłączeniem informacji dotyczącej adresu biegłego rewidenta, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+
+13. Informacje, o których mowa w ust. 2 pkt 1, 2 i 4–7, z wyłączeniem informacji dotyczącej adresu biegłego rewidenta, są opatrywane następującymi metadanymi:
+
+- **1)** imieniem i nazwiskiem biegłego rewidenta wpisanego do rejestru;
+- **2)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** wskazaniem, czy informacje zawierają dane osobowe.>
 
 **Art. 18.**
 
@@ -710,7 +810,7 @@ Art. 216–263. (pominięte)
 
 5. Krajowa Rada Biegłych Rewidentów sporządza roczne sprawozdanie z działalności z uwzględnieniem informacji o poniesionych w danym roku kalendarzowym, przez Polską Izbę Biegłych Rewidentów, kosztach realizacji zadań, o których mowa w art. 25 ust. 1 pkt 2 i pkt 3 lit. a, które przedkłada Agencji w terminie do dnia 31 marca następnego roku.
 
-6. Krajowa Rada Biegłych Rewidentów zatwierdza roczne sprawozdanie finansowe Polskiej Izby Biegłych Rewidentów, które po pozytywnym zaopiniowaniu przez Krajową Komisję Rewizyjną jest przekazywane Agencji za każdy rok obrotowy w terminie do dnia 30 czerwca następnego roku.
+6. Krajowa Rada Biegłych Rewidentów zatwierdza roczne sprawozdanie finansowe Polskiej Izby Biegłych Rewidentów, które po pozytywnym zaopiniowaniu przez Krajową Komisję Rewizyjną jest przekazywane Agencji za każdy rok obrotowy w terminie do dnia 30 czerwca następnego roku. <7. Krajowa Rada Biegłych Rewidentów jest organem zbierającym dane w rozumieniu art. 2 pkt 2 rozporządzenia 2023/2859 w zakresie informacji, o których mowa w art. 17 ust. 2 pkt 1, 2 i 4–7, z wyłączeniem informacji dotyczącej adresu biegłego rewidenta.>
 
 **Art. 31.**
 
@@ -806,9 +906,25 @@ Art. 216–263. (pominięte)
 
 **Art. 45.** Statut Polskiej Izby Biegłych Rewidentów, zatwierdzany przez Radę Agencji, określa:
 
+- **1)** tryb tworzenia, zakres działania oraz strukturę organizacyjną, w tym funkcjonowanie regionalnych oddziałów Polskiej Izby Biegłych Rewidentów;
+- **2)** tryb działania oraz sposób finansowania Polskiej Izby Biegłych Rewidentów;
+- **3)** sposób składania oświadczeń woli w imieniu Polskiej Izby Biegłych Rewidentów w zakresie nieuregulowanym w niniejszej ustawie.
+
 #### Rozdział 4 Firmy audytorskie
 
 **Art. 46.** Firmą audytorską jest jednostka, w której badania sprawozdań finansowych przeprowadzają biegli rewidenci, wpisana na listę, o której mowa w art. 57 ust. 1, i prowadząca działalność w jednej z następujących form:
+
+- **1)** działalności gospodarczej prowadzonej przez biegłego rewidenta we własnym imieniu i na własny rachunek;
+- **2)** spółki cywilnej, spółki jawnej lub spółki partnerskiej, w której większość głosów posiadają biegli rewidenci lub firmy audytorskie, zatwierdzone co najmniej w jednym państwie Unii Europejskiej; w spółkach, w których powołano zarząd, większość członków zarządu stanowią biegli rewidenci zatwierdzeni co najmniej w jednym państwie Unii Europejskiej; jeżeli zarząd składa się z nie więcej niż 2 osób, jedną z nich jest biegły rewident;
+- **3)** spółki komandytowej, w której komplementariuszami są wyłącznie biegli rewidenci lub firmy audytorskie zatwierdzeni co najmniej w jednym państwie Unii Europejskiej;
+- **4)** spółki kapitałowej lub spółdzielni, które spełniają następujące wymagania:
+    - **a)** większość członków zarządu stanowią biegli rewidenci zatwierdzeni co najmniej w jednym państwie Unii Europejskiej; jeżeli zarząd składa się z nie więcej niż 2 osób, jedną z nich jest biegły rewident,
+    - **b)** większość głosów na walnym zgromadzeniu posiadają biegli rewidenci lub firmy audytorskie zatwierdzeni co najmniej w jednym państwie Unii Europejskiej,
+    - **c)** większość członków organów nadzorczych stanowią biegli rewidenci zatwierdzeni co najmniej w jednym państwie Unii Europejskiej;
+
+- **5)** spółdzielczego związku rewizyjnego, który spełnia następujące wymagania:
+    - **a)** zatrudnia do badania biegłych rewidentów,
+    - **b)** większość członków zarządu stanowią biegli rewidenci zatwierdzeni co najmniej w jednym państwie Unii Europejskiej; jeżeli zarząd składa się z nie więcej niż 2 osób, jedną z nich jest biegły rewident.
 
 **Art. 47.**
 
@@ -1009,7 +1125,14 @@ Art. 216–263. (pominięte)
 
 7. (uchylony)
 
-8. Lista jest prowadzona w postaci elektronicznej i jest dostępna na stronie internetowej Agencji.
+8. Lista jest prowadzona w postaci elektronicznej i jest dostępna na stronie internetowej Agencji. <9. Agencja udostępnia informacje, o których mowa w ust. 2 pkt 1–14, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+
+10. Informacje, o których mowa w ust. 2 pkt 1–14, są opatrywane następującymi metadanymi:
+
+- **1)** pełną i skróconą nazwą firmy audytorskiej wpisanej na listę;
+- **2)** identyfikatorem podmiotu prawnego firmy audytorskiej wpisanej na listę, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Agencji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
 
 **Art. 57a.**
 
@@ -1267,6 +1390,9 @@ Art. 216–263. (pominięte)
 
 **Art. 68.** Ilekroć w przepisach niniejszego rozdziału jest mowa o:
 
+- **1)** dokumentacji badania – należy przez to rozumieć zapis wykonywanych procedur, uzyskanych odpowiednich dowodów badania oraz wniosków biegłego rewidenta, w tym wszelkie opracowania, informacje, notatki, analizy, sprawozdania lub oceny sporządzone na potrzeby przeprowadzenia badania sprawozdań finansowych;
+- **2)** zawodowym sceptycyzmie – należy przez to rozumieć postawę polegającą na krytycznym nastawieniu biegłego rewidenta lub firmy audytorskiej, czujności wobec warunków mogących wskazywać na ewentualne zniekształcenie spowodowane błędem lub oszustwem oraz krytyczną ocenę dowodów.
+
 **Art. 69.**
 
 1. Biegły rewident, przeprowadzając badanie, wykonując usługę atestacyjną inną niż badanie lub usługę pokrewną działa w interesie publicznym i przestrzega zasad etyki zawodowej, w szczególności:
@@ -1363,6 +1489,9 @@ Art. 216–263. (pominięte)
 
 **Art. 77.** Biegły rewident, który w związku ze świadczeniem usług atestacyjnych lub usług pokrewnych dowiedział się o:
 
+- **1)** przyjęciu korzyści majątkowej lub osobistej albo jej obietnicy przez funkcjonariusza publicznego z państwa Unii Europejskiej lub państwa trzeciego,
+- **2)** udzieleniu albo obietnicy udzielenia funkcjonariuszowi publicznemu, o którym mowa w pkt 1, korzyści majątkowej lub osobistej – jest obowiązany zawiadomić niezwłocznie o tym fakcie organ powołany do ścigania przestępstw w Rzeczypospolitej Polskiej.
+
 **Art. 78.**
 
 1. Biegły rewident oraz firma audytorska są obowiązani zachować w tajemnicy wszystkie informacje i dokumenty, do których mieli dostęp w trakcie świadczenia usług atestacyjnych oraz usług pokrewnych. Obowiązek zachowania tajemnicy zawodowej nie jest ograniczony w czasie.
@@ -1378,6 +1507,9 @@ Art. 216–263. (pominięte)
 - **4)** przekazywanie przez biegłego rewidenta lub firmę audytorską informacji na podstawie przepisów działu III rozdziału 11a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa – w zakresie określonym tymi przepisami.
 
 **Art. 79.** Biegły rewident lub firma audytorska przeprowadzający badanie ustawowe jednostki, która:
+
+- **1)** wyemitowała papiery wartościowe w państwie trzecim lub
+- **2)** jest częścią grupy kapitałowej sporządzającej skonsolidowane sprawozdanie finansowe w państwie trzecim – mogą przekazać posiadaną dokumentację badania ustawowego lub inne dokumenty związane z badaniem ustawowym do właściwego organu nadzoru publicznego nad biegłymi rewidentami i jednostkami audytorskimi pochodzącymi z państwa trzeciego wyłącznie za pośrednictwem Agencji.
 
 **Art. 80.**
 
@@ -1555,6 +1687,16 @@ Art. 216–263. (pominięte)
 
 **Art. 87e.** W zakresie atestacji sprawozdawczości zrównoważonego rozwoju przepisy art. 64, art. 68, art. 69, art. 71, art. 72, art. 74–76, art. 79 i art. 82 stosuje się odpowiednio, przy czym ilekroć w tych przepisach jest mowa o:
 
+- **1)** badaniu – rozumie się przez to atestację sprawozdawczości zrównoważonego rozwoju;
+- **2)** dokumentacji badania – rozumie się przez to dokumentację atestacji sprawozdawczości zrównoważonego rozwoju;
+- **3)** sprawozdaniu finansowym – rozumie się przez to sprawozdawczość zrównoważonego rozwoju;
+- **4)** skonsolidowanym sprawozdaniu finansowym – rozumie się przez to sprawozdawczość zrównoważonego rozwoju grupy kapitałowej;
+- **5)** kluczowym biegłym rewidencie – rozumie się przez to kluczowego biegłego rewidenta atestacji sprawozdawczości zrównoważonego rozwoju;
+- **6)** standardach badania – rozumie się przez to krajowe standardy atestacji sprawozdawczości zrównoważonego rozwoju;
+- **7)** aktach badania – rozumie się przez to akta atestacji sprawozdawczości zrównoważonego rozwoju;
+- **8)** zespole wykonującym badanie – rozumie się przez to zespół wykonujący atestację sprawozdawczości zrównoważonego rozwoju;
+- **9)** badanej jednostce – rozumie się przez to jednostkę, której sprawozdawczość zrównoważonego rozwoju podlega atestacji.
+
 **Art. 87f.** Jeżeli badanie ustawowe i atestacja sprawozdawczości zrównoważonego rozwoju są przeprowadzane przez więcej niż jedną firmę audytorską, kluczowy biegły rewident oraz kluczowy biegły rewident atestacji sprawozdawczości zrównoważonego rozwoju są obowiązani wymieniać się informacjami powziętymi w trakcie badania ustawowego lub atestacji sprawozdawczości zrównoważonego rozwoju, które mogłyby mieć wpływ na wydawaną lub wydaną przez nich opinię.
 
 #### Rozdział 7 Nadzór publiczny, organizacja i finansowanie Agencji
@@ -1569,7 +1711,7 @@ Art. 216–263. (pominięte)
 - **4)** działalnością firm audytorskich zatwierdzonych w innym niż Rzeczpospolita Polska państwie Unii Europejskiej i wpisanych na listę na podstawie art. 58, w zakresie przewidzianym niniejszą ustawą;
 - **5)** działalnością jednostek audytorskich pochodzących z państwa trzeciego i wpisanych na listę w zakresie przewidzianym niniejszą ustawą.
 
-2. Agencja jest właściwym organem w rozumieniu rozporządzenia nr 537/2014 w zakresie niezastrzeżonym dla innych organów.
+2. Agencja jest właściwym organem w rozumieniu rozporządzenia nr 537/2014 w zakresie niezastrzeżonym dla innych organów. <3. Agencja jest organem zbierającym dane w rozumieniu art. 2 pkt 2 rozporządzenia 2023/2859 w zakresie informacji, o których mowa w art. 57 ust. 2 pkt 1–14, art. 170 ust. 1 i 2, art. 181 ust. 1 i 2, art. 191 ust. 1 i 2, art. 204 ust. 2 pkt 1–12, art. 207 ust. 1 oraz art. 13a rozporządzenia nr 537/2014.>
 
 **Art. 89.**
 
@@ -1591,7 +1733,7 @@ Art. 216–263. (pominięte)
 3. Komisja Nadzoru Finansowego publikuje na stronie internetowej:
 
 - **1)** do końca roku kalendarzowego – informację dotyczącą planowanych działań na rok następny,
-- **2)** do dnia 31 maja następnego roku – roczne sprawozdanie dotyczące podjętych działań za poprzedni rok – w zakresie, o którym mowa w ust. 1.
+- **2)** do dnia 31 maja następnego roku – roczne sprawozdanie dotyczące podjętych działań za poprzedni rok – w zakresie, o którym mowa w ust. 1. <4. Komisja Nadzoru Finansowego jest organem zbierającym dane w rozumieniu art. 2 pkt 2 rozporządzenia 2023/2859 w zakresie informacji, o których mowa w art. 194 ust. 3 i 4.>
 
 **Art. 90.**
 
@@ -1734,9 +1876,33 @@ Art. 216–263. (pominięte)
 
 **Art. 94e.** Prezes Agencji oraz Zastępca Prezesa Agencji nie może:
 
+- **1)** zajmować innego stanowiska, z wyjątkiem stanowiska badawczo-dydaktycznego lub badawczego na uczelni, naukowo-dydaktycznego lub naukowego w podmiocie, o którym mowa w art. 7 ust. 1 pkt 2–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ani wykonywać innych zajęć zawodowych;
+- **2)** należeć do partii politycznej;
+- **3)** wykonywać innych czynności, które pozostają w sprzeczności z jego obowiązkami albo mogą wywołać podejrzenie o jego stronniczość lub interesowność;
+- **4)** prowadzić działalności publicznej niedającej się pogodzić z obowiązkami i godnością pełnionej funkcji.
+
 **Art. 94f.** Minister właściwy do spraw finansów publicznych odwołuje Prezesa Agencji lub Zastępcę Prezesa Agencji przed upływem kadencji w przypadku:
 
+- **1)** rezygnacji ze stanowiska;
+- **2)** utraty zdolności do pełnienia powierzonych obowiązków na skutek długotrwałej choroby, trwającej dłużej niż 6 miesięcy potwierdzonej orzeczeniem lekarskim lub innej długotrwałej przeszkody w pełnieniu obowiązków;
+- **3)** rażącego naruszenia przepisów prawa;
+- **4)** zaprzestania spełniania któregokolwiek z warunków, o których mowa w art. 94d ust. 2 pkt 1–3 lub ust. 3 lub art. 94e;
+- **5)** utraty autorytetu dającego rękojmię prawidłowego wykonywania zadań;
+- **6)** złożenia niezgodnego z prawdą oświadczenia, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944– 1990 oraz treści tych dokumentów, albo niezgodnej z prawdą informacji, o której mowa w art. 7 ust. 3a tej ustawy, stwierdzonego prawomocnym orzeczeniem sądu.
+
 **Art. 94g.** Do zadań Rady Agencji należy:
+
+- **1)** przyjmowanie rocznego planu działania Agencji;
+- **2)** opiniowanie projektu rocznego planu finansowego Agencji;
+- **3)** przyjmowanie rocznego sprawozdania Agencji, o którym mowa w art. 90 ust. 5;
+- **4)** opiniowanie rocznego sprawozdania finansowego Agencji;
+- **5)** okresowe monitorowanie wykonywania rocznego planu działania Agencji;
+- **6)** przyjmowanie sprawozdań z monitorowania rynku, w szczególności w zakresie, o którym mowa w art. 27 rozporządzenia nr 537/2014;
+- **7)** zatwierdzanie wykazu, o którym mowa w art. 91;
+- **8)** zatwierdzanie uchwał organów Polskiej Izby Biegłych Rewidentów w przypadkach określonych w niniejszej ustawie;
+- **9)** zaskarżanie do sądu administracyjnego uchwał organów Polskiej Izby Biegłych Rewidentów w przypadkach określonych w niniejszej ustawie;
+- **10)** zatwierdzanie dokumentów, o których mowa w art. 111 ust. 1 i ust. 2 pkt 1–3;
+- **11)** wykonywanie innych zadań przewidzianych niniejszą ustawą.
 
 **Art. 94h.**
 
@@ -1975,6 +2141,9 @@ Art. 216–263. (pominięte)
 **Art. 104a.** Do postępowań prowadzonych przez Agencję stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, chyba że przepisy ustawy stanowią inaczej.
 
 **Art. 104b.** W przypadku określonym w art. 24 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego o wyłączeniu od udziału w postępowaniu:
+
+- **1)** Zastępcy Prezesa Agencji lub członków Rady Agencji – postanawia Prezes Agencji, na wniosek strony, Zastępcy Prezesa Agencji, członka Rady Agencji albo z urzędu;
+- **2)** Prezesa Agencji – postanawia Rada Agencji, podejmując uchwałę bez udziału Prezesa Agencji, na wniosek strony, Prezesa Agencji, Zastępcy Prezesa Agencji, członka Rady Agencji albo z urzędu.
 
 **Art. 105.**
 
@@ -2378,6 +2547,9 @@ Art. 216–263. (pominięte)
 
 **Art. 126.** Minister właściwy do spraw finansów publicznych jest organem właściwym w sprawach:
 
+- **1)** skarg i wniosków, do których stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego,
+- **2)** petycji, o których mowa w ustawie z dnia 11 lipca 2014 r. o petycjach (Dz. U. z 2018 r. poz. 870) – dotyczących działalności Agencji, jej organów oraz zadań przez nią wykonywanych.
+
 **Art. 127.**
 
 1. W ramach sprawowania nadzoru publicznego, o którym mowa w art. 88, Agencji przysługuje prawo do uczestnictwa, za pośrednictwem swoich przedstawicieli, w posiedzeniach organów Polskiej Izby Biegłych Rewidentów.
@@ -2557,6 +2729,10 @@ Art. 216–263. (pominięte)
 
 **Art. 137.** Agencja może, na wniosek firmy audytorskiej, zwolnić, w drodze decyzji administracyjnej, tę firmę z wymogów, o których mowa w art. 4 ust. 2 akapit pierwszy rozporządzenia nr 537/2014, w odniesieniu do usług dozwolonych świadczonych na rzecz badanej jednostki zainteresowania publicznego, jej jednostki dominującej lub jednostki przez nią kontrolowanej, na okres nie dłuższy niż 2 lata obrotowe, biorąc pod uwagę:
 
+- **1)** zagrożenia dla niezależności firmy audytorskiej;
+- **2)** zastosowane przez firmę audytorską dodatkowe zabezpieczenia w celu ograniczenia tych zagrożeń;
+- **3)** ważny interes firmy audytorskiej lub badanej jednostki zainteresowania publicznego.
+
 **Art. 138.** W przypadku przeprowadzania badania ustawowego jednostki zainteresowania publicznego firma audytorska niezwłocznie przekazuje Agencji informacje, o których mowa w art. 12 ust. 1 akapit pierwszy lit. c rozporządzenia nr 537/2014.
 
 #### Rozdział 9 Odpowiedzialność dyscyplinarna biegłych rewidentów
@@ -2599,6 +2775,9 @@ Art. 216–263. (pominięte)
 2. Postępowanie dyscyplinarne może być zawieszone do czasu zakończenia postępowania karnego.
 
 **Art. 143.** Postępowanie dyscyplinarne obejmuje:
+
+- **1)** dochodzenie dyscyplinarne;
+- **2)** postępowanie przed Krajowym Sądem Dyscyplinarnym oraz postępowanie odwoławcze od orzeczenia lub postanowienia kończącego postępowanie dyscyplinarne.
 
 **Art. 144.**
 
@@ -2787,6 +2966,16 @@ Art. 216–263. (pominięte)
 
 **Art. 160.** Ustalając rodzaj i wymiar kary, bierze się pod uwagę w szczególności:
 
+- **1)** wagę przewinienia dyscyplinarnego i czas jego trwania;
+- **1a)** rodzaj i stopień naruszenia ciążących na obwinionym obowiązków;
+- **2)** stopień winy obwinionego;
+- **3)** sytuację finansową obwinionego, wyrażającą się w szczególności w wysokości rocznych dochodów obwinionego;
+- **3a)** skutki popełnionego przewinienia dyscyplinarnego dla pokrzywdzonego lub uczestników obrotu gospodarczego;
+- **4)** kwotę zysków osiągniętych lub strat unikniętych przez obwinionego, w zakresie, w jakim można je ustalić;
+- **4a)** przebieg dotychczasowej pracy zawodowej obwinionego;
+- **5)** stopień współpracy obwinionego z organami prowadzącymi postępowanie dyscyplinarne;
+- **6)** popełnione dotychczas przewinienia dyscyplinarne.
+
 **Art. 161.** Krajowy Sąd Dyscyplinarny może umorzyć postępowanie w wypadkach mniejszej wagi.
 
 **Art. 162.**
@@ -2883,9 +3072,18 @@ Art. 216–263. (pominięte)
 
 3. Informacje, o których mowa w ust. 1 i 2, są publikowane przez 5 lat, licząc od dnia, w którym orzeczenie nakładające karę stało się prawomocne.
 
-4. (uchylony)
+4. (uchylony) <Art. 170a. 1. Agencja udostępnia informacje, o których mowa w art. 170 ust. 1 i 2, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+
+2. Informacje, o których mowa w art. 170 ust. 1 i 2, są opatrywane następującymi metadanymi:
+
+- **1)** imieniem i nazwiskiem biegłego rewidenta, na którego nałożono karę;
+- **2)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** wskazaniem, czy informacje zawierają dane osobowe.>
 
 **Art. 171.** W sprawach nieuregulowanych w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy:
+
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420);
+- **2)** rozdziałów I–III ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 ##### Oddział 2 Postępowanie w sprawach przewinień dyscyplinarnych popełnionych przy wykonywaniu usług atestacyjnych i usług pokrewnych zgodnie z krajowymi standardami wykonywania zawodu
 
@@ -2956,7 +3154,13 @@ Art. 216–263. (pominięte)
 
 3. Informacje, o których mowa w ust. 1 i 2, są publikowane przez 5 lat, licząc od dnia, w którym orzeczenie nakładające karę stało się prawomocne.
 
-4. (uchylony)
+4. (uchylony) <Art. 181a. 1. Agencja udostępnia informacje, o których mowa w art. 181 ust. 1 i 2, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+
+2. Informacje, o których mowa w art. 181 ust. 1 i 2, są opatrywane następującymi metadanymi:
+
+- **1)** imieniem i nazwiskiem biegłego rewidenta, na którego nałożono karę;
+- **2)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** wskazaniem, czy informacje zawierają dane osobowe.>
 
 #### Rozdział 10 Odpowiedzialność firm audytorskich, jednostek zainteresowania publicznego oraz osób trzecich
 
@@ -2982,7 +3186,7 @@ Art. 216–263. (pominięte)
 - **12)** nie przestrzega przepisów art. 81 ust. 2 i art. 131 oraz przepisu art. 11 rozporządzenia nr 537/2014, dotyczących sprawozdania dodatkowego;
 - **13)** nie przekazuje informacji dotyczących badanej jednostki zainteresowania publicznego, o których mowa w art. 12 ust. 1 rozporządzenia nr 537/2014, Komisji Nadzoru Finansowego lub nie przekazuje informacji, o których mowa w art. 138, Agencji;
 - **14)** nie prowadzi dialogu, o którym mowa w art. 12 ust. 2 rozporządzenia nr 537/2014, z Komisją Nadzoru Finansowego lub nie uwzględnia w prowadzeniu tego dialogu wytycznych, o których mowa w akapicie trzecim tego przepisu;
-- **15)** nie przestrzega przepisu art. 13 rozporządzenia nr 537/2014, dotyczącego sporządzania, publikowania i aktualizowania sprawozdania z przejrzystości oraz informowania właściwego organu o publikacji sprawozdania z przejrzystości;
+- **15)** nie przestrzega przepisu art. 13 rozporządzenia nr 537/2014, dotyczącego sporządzania, publikowania i aktualizowania sprawozdania z przejrzystości oraz informowania właściwego organu o publikacji sprawozdania z przejrzystości; <15a) nie przestrzega przepisu art. 13a rozporządzenia nr 537/2014 w zakresie przekazywania Agencji informacji, o których mowa w art. 13 ust. 1 tego rozporządzenia;>
 - **16)** nie przestrzega przepisów dotyczących rotacji firmy audytorskiej i kluczowego biegłego rewidenta;
 - **17)** nie przestrzega obowiązku zapewnienia zastępującej firmie audytorskiej dostępu do wszelkich informacji na temat badanej jednostki i ostatniego badania tej jednostki lub do akt badania, o którym mowa w art. 82 oraz art. 18 rozporządzenia nr 537/2014;
 - **17a)** nie przestrzega obowiązku, o którym mowa w art. 82, zapewnienia zastępującej firmie audytorskiej dostępu do wszelkich informacji na temat jednostki podlegającej atestacji sprawozdawczości zrównoważonego rozwoju i ostatniej atestacji sprawozdawczości zrównoważonego rozwoju tej jednostki lub do akt atestacji sprawozdawczości zrównoważonego rozwoju – w przypadku atestacji sprawozdawczości zrównoważonego rozwoju;
@@ -3104,7 +3308,14 @@ Art. 216–263. (pominięte)
 
 2. W przypadku, o którym mowa w art. 184, obok informacji, o której mowa w ust. 1, podaniu do publicznej wiadomości podlegają również nazwa wraz z numerem, pod którym jest wpisana na listę firma audytorska, na którą nałożono karę, lub imię i nazwisko osoby, o której mowa w art. 182 ust. 2.
 
-3. Informacje, o których mowa w ust. 1 i 2, są publikowane przez 5 lat, licząc od dnia, w którym decyzja nakładająca karę stała się prawomocna.
+3. Informacje, o których mowa w ust. 1 i 2, są publikowane przez 5 lat, licząc od dnia, w którym decyzja nakładająca karę stała się prawomocna. <4. Agencja udostępnia informacje, o których mowa w ust. 1 i 2, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+
+5. Informacje, o których mowa w ust. 1 i 2, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą firmy audytorskiej lub imieniem i nazwiskiem osoby, o której mowa w art. 182 ust. 2, na które nałożono karę;
+- **2)** identyfikatorem podmiotu prawnego firmy audytorskiej, na którą nałożono karę, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Agencji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
 
 **Art. 191a.** W sprawach nieuregulowanych w niniejszej ustawie do kar administracyjnych, o których mowa w art. 183 ust. 1, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
@@ -3170,7 +3381,14 @@ Art. 216–263. (pominięte)
 
 6. Przepisy art. 189 ust. 3–5 i art. 190 stosuje się odpowiednio.
 
-7. Do postępowań prowadzonych przez Komisję Nadzoru Finansowego stosuje się odpowiednio przepisy ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069).
+7. Do postępowań prowadzonych przez Komisję Nadzoru Finansowego stosuje się odpowiednio przepisy ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069). <8. Komisja Nadzoru Finansowego udostępnia informacje, o których mowa w ust. 3 i 4, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+
+9. Informacje, o których mowa w ust. 3 i 4, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą jednostki zainteresowania publicznego lub imieniem i nazwiskiem osoby, o których mowa w art. 192 ust. 1, na które nałożono karę;
+- **2)** identyfikatorem podmiotu prawnego jednostki zainteresowania publicznego, na którą nałożono karę, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji Nadzoru Finansowego;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
 
 #### Rozdział 11 Zawiadamianie organu nadzoru publicznego lub samorządu zawodowego biegłych rewidentów o podejrzeniu naruszenia przepisów ustawy lub rozporządzenia nr 537/2014
 
@@ -3274,7 +3492,14 @@ Art. 216–263. (pominięte)
 
 3. Jednostka audytorska pochodząca z państwa trzeciego składa do Agencji wniosek o zmianę danych podlegających wpisowi na listę w terminie 30 dni od dnia zaistnienia zmiany danych.
 
-4. Lista, o której mowa w ust. 1, podlega publikacji na stronie internetowej Agencji.
+4. Lista, o której mowa w ust. 1, podlega publikacji na stronie internetowej Agencji. <5. Agencja udostępnia informacje, o których mowa w ust. 2 pkt 1–12, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+
+6. Informacje, o których mowa w ust. 2 pkt 1–12, są opatrywane następującymi metadanymi:
+
+- **1)** pełną i skróconą nazwą jednostki audytorskiej pochodzącej z państwa trzeciego wpisanej na listę, o której mowa w ust. 1;
+- **2)** identyfikatorem podmiotu prawnego jednostki audytorskiej pochodzącej z państwa trzeciego wpisanej na listę, o której mowa w ust. 1, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Agencji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
 
 **Art. 205.**
 
@@ -3337,7 +3562,7 @@ Art. 216–263. (pominięte)
 
 **Art. 207.**
 
-1. Jednostka audytorska pochodząca z państwa trzeciego, wpisana na listę na podstawie art. 205 ust. 1 lub 1a, lub biegły rewident, o którym mowa w art. 204 ust. 2 pkt 6, podlega nadzorowi sprawowanemu przez Agencję, w tym kontrolom, o których mowa w art. 106 ust. 1 i art. 124 ust. 1, oraz karom obowiązującym w Rzeczypospolitej Polskiej, na zasadach przewidzianych w niniejszej ustawie dla biegłych rewidentów lub firm audytorskich przeprowadzających badanie sprawozdań finansowych lub atestację sprawozdawczości zrównoważonego rozwoju.
+1. Jednostka audytorska pochodząca z państwa trzeciego, wpisana na listę na podstawie art. 205 ust. 1 lub 1a, lub biegły rewident, o którym mowa w art. 204 ust. 2 pkt 6, podlega nadzorowi sprawowanemu przez Agencję, w tym kontrolom, o których mowa w art. 106 ust. 1 i art. 124 ust. 1, oraz karom obowiązującym w Rzeczypospolitej Polskiej, na zasadach przewidzianych w niniejszej ustawie dla biegłych rewidentów lub firm audytorskich przeprowadzających badanie sprawozdań finansowych lub atestację sprawozdawczości zrównoważonego rozwoju. <Przepisy art. 191 stosuje się odpowiednio do podawania do publicznej wiadomości, publikowania i udostępniania informacji o nałożonych karach.>
 
 2. Agencja może zwolnić jednostkę audytorską pochodzącą z państwa trzeciego, na czas określony, z podlegania systemowi zapewnienia jakości obowiązującemu w Rzeczypospolitej Polskiej, jeżeli w ciągu ostatnich 3 lat podlegała kontroli przeprowadzonej przez właściwy organ odpowiedzialny za system zapewniania jakości innego niż Rzeczpospolita Polska państwa Unii Europejskiej lub właściwy organ państwa trzeciego, którego system zapewnienia jakości został uznany za równoważny z wymaganiami przewidzianymi w niniejszej ustawie.
 
@@ -3416,6 +3641,10 @@ Art. 216–263. (pominięte)
 9. Agencja i organ nadzoru publicznego z państwa trzeciego niezależnie czynią ustalenia, formułują wnioski i podejmują działania pokontrolne.
 
 **Art. 213.** Agencja może odmówić właściwemu organowi nadzoru publicznego z państwa trzeciego udzielenia informacji, przekazania dokumentów, lub udziału w kontroli, o których mowa w art. 212, jeżeli:
+
+- **1)** udzielenie informacji, przekazanie dokumentów lub udział w kontroli mogłyby mieć negatywny wpływ na suwerenność, bezpieczeństwo lub porządek publiczny Unii Europejskiej lub Rzeczypospolitej Polskiej;
+- **2)** przeciwko biegłemu rewidentowi lub firmie audytorskiej toczy się już postępowanie sądowe w sprawie, której dotyczy wniosek właściwego organu nadzoru publicznego z państwa trzeciego;
+- **3)** wydane zostało w Rzeczypospolitej Polskiej prawomocne orzeczenie w tej samej sprawie przeciwko biegłemu rewidentowi lub firmie audytorskiej, których dotyczy wniosek właściwego organu nadzoru publicznego z państwa trzeciego.
 
 **Art. 214.**
 
@@ -3607,6 +3836,10 @@ Art. 216–263. (pominięte)
 2. Uchwały organów Krajowej Izby Biegłych Rewidentów wydane na podstawie art. 21 ust. 2 pkt 3 lit. a–c oraz art. 27 ust. 9 ustawy uchylanej w art. 301 zachowują moc do dnia wejścia w życie uchwał organów Polskiej Izby Biegłych Rewidentów wydanych na podstawie art. 30 ust. 2 pkt 3 lit. a–c oraz art. 43 pkt 1–3, nie dłużej jednak niż przez 9 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 295.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+- **1)** art. 4 ust. 11, art. 9 ust. 8 i art. 50 ust. 3 ustawy uchylanej w art. 301 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 10, art. 16 ust. 6 i art. 53 ust. 6,
+- **2)** art. 169f ust. 7 ustawy zmienianej w art. 238 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 169f ust. 7 ustawy zmienianej w art. 238 w brzmieniu nadanym niniejszą ustawą,
+- **3)** art. 290 ust. 5 ustawy zmienianej w art. 261 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 290 ust. 5 ustawy zmienianej w art. 261 , w brzmieniu nadanym niniejszą ustawą – nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 296.** Krajowa Rada Biegłych Rewidentów i Komisja Nadzoru Audytowego dostosują, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, rejestr i listy, o których mowa w art. 17 ust. 1, art. 57 ust. 1 i art. 204 ust. 1, do wymagań określonych w niniejszej ustawie.
 

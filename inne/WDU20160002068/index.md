@@ -8,10 +8,10 @@ pos: 2068
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, 19 grudnia ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW 12 grudnia w sprawie regulaminu Komisji Egzaminacyjnej dla Aktuariuszy, wynagrodzenia osób wchodzących w jej skład oraz opłat egzaminacyjnych Na podstawie art. 72 ustawy 11 2015 o działalności ubezpieczeniowej reasekuracyjnej (Dz. U. poz. 1844 oraz poz. 615 1948) zarządza się, co następuje:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2068 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 12 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,25 +25,31 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2068/text.pdf) |
 
-1. Rozporządzenie:
+w sprawie regulaminu Komisji Egzaminacyjnej dla Aktuariuszy, wynagrodzenia osób wchodzących w jej skład oraz opłat egzaminacyjnych Na podstawie art. 72 ust. 1 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615 i 1948) zarządza się, co następuje:
+§ 1. Rozporządzenie:
 1) nadaje regulamin Komisji Egzaminacyjnej dla Aktuariuszy, zwanej dalej „Komisją”;
-2) ustala wysokość opłat egzaminacyjnych dla osób składających egzaminy aktuarialne przed Komisją sposób ich uiszczania;
+2) ustala wysokość opłat egzaminacyjnych dla osób składających egzaminy aktuarialne przed Komisją i sposób ich uiszczania;
 3) ustala wysokość wynagrodzenia dla osób wchodzących w skład Komisji oraz przypadki, gdy wynagrodzenie to nie przysługuje.
-2. Komisji nadaje się regulamin stanowiący załącznik do rozporządzenia.
-3. 1. Za przystąpienie do każdej sesji egzaminacyjnej od osoby składającej egzamin aktuarialny pobiera się opłatę egzaminacyjną w wysokości 350 zł.
-2. Opłata, o której mowa w 1, jest uiszczana rachunek bieżący subkonto dochodów Komisji Nadzoru Finansowego.
-3. W przypadku unieważnienia egzaminu przyczyn, o których mowa w art. 71 5 ustawy 11 2015 o działalności ubezpieczeniowej reasekuracyjnej, przy przystąpieniu do powtórzonego egzaminu opłatę egzaminacyjną pobraną przed unieważnionym egzaminem uznaje się za uiszczoną.
-4. 1. Za udział w przeprowadzeniu każdej sesji egzaminacyjnej osobom wchodzącym w skład Komisji przysługuje wynagrodzenie w wysokości:
-1) 1400 zł dla przewodniczącego Komisji;
-2) 1200 zł dla zastępcy przewodniczącego Komisji sekretarza Komisji;
-3) 1000 zł dla każdej pozostałych osób wchodzących w skład Komisji.
+§ 2. Komisji nadaje się regulamin stanowiący załącznik do rozporządzenia.
+§ 3. 1. Za przystąpienie do każdej sesji egzaminacyjnej od osoby składającej egzamin aktuarialny pobiera się opłatę egzaminacyjną w wysokości 350 zł.
+2. Opłata, o której mowa w ust. 1, jest uiszczana na rachunek bieżący – subkonto dochodów – Komisji Nadzoru Finansowego.
+3. W przypadku unieważnienia egzaminu z przyczyn, o których mowa w art. 71 ust. 5 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, przy przystąpieniu do powtórzonego egzaminu opłatę egzaminacyjną pobraną przed unieważnionym egzaminem uznaje się za uiszczoną.
+§ 4. 1. Za udział w przeprowadzeniu każdej sesji egzaminacyjnej osobom wchodzącym w skład Komisji przysługuje wynagrodzenie w wysokości:
+1) 1400 zł – dla przewodniczącego Komisji;
+2) 1200 zł – dla zastępcy przewodniczącego Komisji i sekretarza Komisji;
+3) 1000 zł – dla każdej z pozostałych osób wchodzących w skład Komisji.
 2. Za udział w posiedzeniu Komisji osobom wchodzącym w skład Komisji przysługuje wynagrodzenie w wysokości 200 zł.
-3. Za przygotowanie zadań egzaminacyjnych osobom wchodzącym w skład Komisji przysługuje wynagrodzenie w wysokości 75 zł za każde zadanie, tym że w przypadku zadań części egzaminu aktuarialnego dotyczących rachunkoegzaminem uznaje się za uiszczoną.
-6. Rozporządzenie wchodzi w życie dniem stycznia 2017 Minister Rozwoju Finansów: wz. W. Janczyk
-2. Uchwały podpisują osoby wchodzące w skład Komisji obecne posiedzeniu.
-3. Osobie wchodzącej w skład Komisji przysługuje prawo zgłaszania zdania odrębnego, które podlega zaprotokołowaniu wraz uchwałą.
-3. 1. Posiedzenia Komisji zwołuje przewodniczący Komisji, a w razie jego nieobecności zastępca przewodniczącego Komisji.
+3. Za przygotowanie zadań egzaminacyjnych osobom wchodzącym w skład Komisji przysługuje wynagrodzenie w wysokości 75 zł za każde zadanie, z tym że w przypadku zadań z części egzaminu aktuarialnego dotyczących rachunkowości i sprawozdawczości finansowej w zakładzie ubezpieczeń oraz prawa ubezpieczeniowego i prawa podatkowego przysługuje wynagrodzenie w wysokości 60 zł za każde zadanie.
+4. W przypadku unieważnienia egzaminu z przyczyn, o których mowa w art. 71 ust. 5 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, osobom wchodzącym w skład Komisji nie przysługuje wynagrodzenie za udział w tym egzaminie oraz za przygotowanie do niego zadań.
+§ 5. W przypadku unieważnienia egzaminu aktuarialnego na podstawie przepisów obowiązujących przed dniem 1 sierpnia 2015 r., przy przystąpieniu do powtórzonego egzaminu opłatę egzaminacyjną pobraną przed unieważnionym egzaminem uznaje się za uiszczoną.
+§ 6. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
+Minister Rozwoju i Finansów: wz. W. Janczyk REGULAMIN KOMISJI EGZAMINACYJNEJ DLA AKTUARIUSZY
+§ 1. Regulamin określa organizację i tryb działania Komisji Egzaminacyjnej dla Aktuariuszy, zwanej dalej „Komisją”.
+§ 2. 1. Komisja podejmuje decyzje na posiedzeniach, w drodze uchwał, zwykłą większością głosów w obecności co najmniej połowy składu Komisji. W przypadku braku większości głosów decyduje głos przewodniczącego Komisji.
+2. Uchwały podpisują osoby wchodzące w skład Komisji obecne na posiedzeniu.
+3. Osobie wchodzącej w skład Komisji przysługuje prawo zgłaszania zdania odrębnego, które podlega zaprotokołowaniu wraz z uchwałą.
+§ 3. 1. Posiedzenia Komisji zwołuje przewodniczący Komisji, a w razie jego nieobecności zastępca przewodniczącego Komisji.
 2. Komisja może wyznaczyć ze swego składu osoby odpowiedzialne za realizację określonych zadań.
-4. Przewodniczący Komisji wyznacza osoby odpowiedzialne za przygotowanie zadań egzaminacyjnych spośród osób wchodzących w skład Komisji.
-5. Osoby wchodzące w skład Komisji zachowują bezstronność poufność w trakcie realizacji zadań związanych przebiegiem prac Komisji.
+§ 4. Przewodniczący Komisji wyznacza osoby odpowiedzialne za przygotowanie zadań egzaminacyjnych spośród osób wchodzących w skład Komisji.
+§ 5. Osoby wchodzące w skład Komisji zachowują bezstronność i poufność w trakcie realizacji zadań związanych z przebiegiem prac Komisji.
 

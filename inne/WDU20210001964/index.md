@@ -8,10 +8,10 @@ pos: 1964
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 października 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1964 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 25 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001964) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1964/text.pdf) |
 
-Poz. 1964 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 25 października 2021 r.
-w sprawie wyznaczenia organu Krajowej Administracji Skarbowej do wykonywania zadań organu właściwego do prowadzenia rejestru działalności w zakresie walut wirtualnych Na podstawie art. 129x ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2021 r. poz. 1132, 1163 i 1535) zarządza się, co następuje: § 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Katowicach do:
+w sprawie wyznaczenia organu Krajowej Administracji Skarbowej do wykonywania zadań organu właściwego do prowadzenia rejestru działalności w zakresie walut wirtualnych Na podstawie art. 129x ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2021 r. poz. 1132, 1163 i 1535) zarządza się, co następuje:
+§ 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Katowicach do:
 1) prowadzenia rejestru działalności w zakresie walut wirtualnych, zwanego dalej „rejestrem”, oraz określania organizacyjnych warunków i technicznych sposobów jego prowadzenia;
 2) przetwarzania informacji o podmiotach wpisanych do rejestru;
 3) rozpatrywania wniosków o wpis do rejestru, dokonywania aktualizacji wpisów oraz wykreślania podmiotów z rejestru;

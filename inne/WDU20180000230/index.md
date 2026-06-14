@@ -8,10 +8,10 @@ pos: 230
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 stycznia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 230 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 stycznia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/230/text.pdf) |
 
-Poz. 230 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 stycznia 2018 r.
-w sprawie przekazywania składników rzeczowych majątku ruchomego Inspektorowi Nadzoru Wewnętrznego przez organy i jednostki podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane Na podstawie art. 11s ust. 4 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb przekazywania składników rzeczowych majątku ruchomego Inspektorowi Nadzoru Wewnętrznego przez organy i jednostki podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane.
+w sprawie przekazywania składników rzeczowych majątku ruchomego Inspektorowi Nadzoru Wewnętrznego przez organy i jednostki podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane Na podstawie art. 11s ust. 4 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb przekazywania składników rzeczowych majątku ruchomego Inspektorowi Nadzoru Wewnętrznego przez organy i jednostki podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane.
 § 2. Składniki rzeczowe majątku ruchomego, zwane dalej „składnikami”, są przekazywane przez organy i jednostki podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane na pisemny wniosek Inspektora Nadzoru Wewnętrznego.
 § 3. Wniosek o nieodpłatne przekazanie składników zawiera:
 1) nazwę i siedzibę organu lub jednostki, do której wniosek jest kierowany;

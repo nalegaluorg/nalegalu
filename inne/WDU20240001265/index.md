@@ -8,10 +8,10 @@ pos: 1265
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Po zaznajomieniu się z powyższą Umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11226655 UMOWA ustanawiająca stowarzyszenie między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Ameryką Środkową, z drugiej strony, sporządzona w Tegucigalpie dnia 29 czerwca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-09-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001265) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1265/text.pdf) |
 
-Na dowód czego wydany został Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
-Dano w Warszawie, dnia 5 października 2015 roku.
-Prezydent Rzeczypospolitej Polskiej: A. Duda L.S.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: W dniu 29 czerwca 2012 r. w Tegucigalpie została sporządzona Umowa ustanawiająca stowarzyszenie między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Ameryką Środkową, z drugiej strony.
 

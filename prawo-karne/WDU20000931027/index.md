@@ -8,7 +8,7 @@ pos: 1027
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego, ustawy o zwalczaniu nieuczciwej konkurencji, ustawy o zamówieniach publicznych oraz ustawy - Prawo bankowe
@@ -29,6 +29,23 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny (Dz.U. Nr 88, poz. 553 i Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931 oraz z 2000 r. Nr 48, poz. 548) wprowadza się następujące zmiany:
 
+- **1)** art. 45 otrzymuje brzmienie: „Art. 45. §1. Jeżeli sprawca osiągnął, chociażby pośrednio, korzyść majątkową z popełnienia przestępstwa, sąd może orzec jej przepadek lub przepadek jej równowartości. Przepadku nie orzeka się w całości lub w części, jeżeli korzyść lub jej równowartość podlega zwrotowi pokrzywdzonemu lub innemu podmiotowi.
+
+§ 2. W razie skazania sprawcy, o którym mowa w art. 65 lub sprawcy, który osiągnął z popełnienia przestępstwa korzyść majątkową znacznej wartości, sąd orzeka przepadek osiągniętej korzyści lub jej równowartości. Przepis § 1 zdanie drugie stosuje się odpowiednio.
+
+§ 3. Objęta przepadkiem korzyść majątkowa lub jej równowartość przechodzi na własność Skarbu Państwa z chwilą uprawomocnienia się wyroku.”;
+
+- **2)** w art. 228 dodaje się § 6 w brzmieniu: „§6. Karom określonym w § 1-5 podlega odpowiednio także ten, kto w związku z pełnieniem funkcji publicznej w państwie obcym lub organizacji międzynarodowej przyjmuje korzyść majątkową lub osobistą, albo jej obietnicę, lub takiej korzyści żąda, albo uzależnia wykonanie czynności służbowej od jej otrzymania.”;
+- **3)** art. 229 otrzymuje brzmienie: „Art. 229. §1. Kto udziela lub obiecuje udzielić korzyści majątkowej lub osobistej osobie pełniącej funkcję publiczną w związku z pełnieniem tej funkcji, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+
+§ 2. W wypadku mniejszej wagi sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+§ 3. Jeżeli sprawca czynu określonego w § 1 działa, aby skłonić osobę pełniącą funkcję publiczną do naruszenia przepisów prawa albo udziela korzyści takiej osobie za naruszenie przepisów prawa, podlega karze pozbawienia wolności od roku do lat 10.
+
+§ 4. Kto osobie pełniącej funkcję publiczną, w związku z pełnieniem tej funkcji, udziela lub obiecuje udzielić korzyści majątkowej znacznej wartości, podlega karze pozbawienia wolności od lat 2 do lat 12.
+
+§ 5. Karom określonym w § 1-4 podlega odpowiednio także ten, kto udziela lub obiecuje udzielić korzyści majątkowej lub osobistej osobie pełniącej funkcję publiczną w państwie obcym lub w organizacji międzynarodowej w związku z pełnieniem tej funkcji.”.
+
 **Art. 2.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz.U. Nr 89, poz. 555, z 1999 r. Nr 83, poz. 931 oraz z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717 i Nr 73, poz. 852) rozdział 66 otrzymuje brzmienie: „Rozdział 66 Przejęcie i przekazanie orzeczeń do wykonania
 
 **Art. 608.**
@@ -41,7 +58,7 @@ source: "isap-pdf"
 
 **Art. 609.**
 
-§ 1. W razie otrzymania wniosku państwa obcego o wykonanie wobec obywatela polskiego lub osoby mającej miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej prawomocnie orzeczonej kary pozbawienia wolności lub środka polegającego na właściwego sądu o wydanie postanowienia w przedmiocie dopuszczalności przejęcia orzeczenia do wykonania na terytorium Rzeczypospolitej Polskiej.
+§ 1. W razie otrzymania wniosku państwa obcego o wykonanie wobec obywatela polskiego lub osoby mającej miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej prawomocnie orzeczonej kary pozbawienia wolności lub środka polegającego na pozbawieniu wolności, Minister Sprawiedliwości zwraca się do właściwego sądu o wydanie postanowienia w przedmiocie dopuszczalności przejęcia orzeczenia do wykonania na terytorium Rzeczypospolitej Polskiej.
 
 § 2. W razie otrzymania wniosku państwa obcego o wykonanie wobec obywatela polskiego, osoby mającej miejsce stałego pobytu, posiadającej mienie lub prowadzącej działalność zawodową w Rzeczypospolitej Polskiej prawomocnie orzeczonej grzywny, zakazu zajmowania określonego stanowiska, wykonywania określonego zawodu lub prowadzenia określonej działalności gospodarczej, zakazu prowadzenia pojazdów, przepadku albo środka zabezpieczającego nie polegającego na pozbawieniu wolności, Minister Sprawiedliwości zwraca się do właściwego sądu o wydanie postanowienia w przedmiocie dopuszczalności przejęcia orzeczenia do wykonania w Rzeczypospolitej Polskiej.
 
@@ -55,7 +72,7 @@ source: "isap-pdf"
 
 § 3. W razie otrzymania wniosku państwa obcego o przejęcie cudzoziemca prawomocnie skazanego przez sąd polski na karę pozbawienia wolności podlegającą wykonaniu albo wobec którego prawomocnie orzeczono środek polegający na pozbawieniu wolności, Minister Sprawiedliwości zwraca się do właściwego sądu o wydanie postanowienia w przedmiocie dopuszczalności przekazania orzeczenia do wykonania za granicą.
 
-§ 4. W razie prawomocnego skazania przez sąd polski osoby mającej miejsce stałego pobytu za granicą albo posiadającej mienie lub prowadzącej działalność zawodową za granicą na grzywnę lub prawomocnego orzeczenia wobec niej zakazu zajmowania określonego stanowiska, wykonywania określonego zawodu lub prowadzenia określonej działalności gospodarczej, zakazu prowadzenia pojazdów, przepadku albo środka zabezpieczającego nie polegającego na pozbawieniu wolności, sąd właściwy do wykonania kary lub środka może wystąpić za pośrednictwem Ministra Sprawiedliwości do właściwego organu państwa, na terytorium którego skazany lub osoba, wobec której orzeczono środek, stale o wykonanie orzeczenia.
+§ 4. W razie prawomocnego skazania przez sąd polski osoby mającej miejsce stałego pobytu za granicą albo posiadającej mienie lub prowadzącej działalność zawodową za granicą na grzywnę lub prawomocnego orzeczenia wobec niej zakazu zajmowania określonego stanowiska, wykonywania określonego zawodu lub prowadzenia określonej działalności gospodarczej, zakazu prowadzenia pojazdów, przepadku albo środka zabezpieczającego nie polegającego na pozbawieniu wolności, sąd właściwy do wykonania kary lub środka może wystąpić za pośrednictwem Ministra Sprawiedliwości do właściwego organu państwa, na terytorium którego skazany lub osoba, wobec której orzeczono środek, stale przebywa, posiada mienie lub prowadzi działalność, z wnioskiem o wykonanie orzeczenia.
 
 § 5. W razie otrzymania wniosku państwa obcego o przejęcie do wykonania prawomocnego skazania przez sąd polski osoby mającej miejsce stałego pobytu w tym państwie albo posiadającej mienie lub prowadzącej działalność zawodową w tym państwie na grzywnę lub prawomocnego orzeczenia wobec niej zakazu zajmowania określonego stanowiska, zakazu wykonywania określonego zawodu lub prowadzenia określonej działalności gospodarczej, zakazu prowadzenia pojazdów, przepadku albo środka zabezpieczającego nie polegającego na pozbawieniu wolności, Minister Sprawiedliwości zwraca się do właściwego sądu o wydanie postanowienia w przedmiocie dopuszczalności przekazania orzeczenia do wykonania za granicą.
 
@@ -79,7 +96,9 @@ source: "isap-pdf"
 
 § 3. Jeżeli sąd wydał postanowienie o niedopuszczalności przejęcia lub przekazania orzeczenia do wykonania, przejęcie ani przekazanie nie może nastąpić.
 
-§ 4. W wypadku określonym w art. 610 § 4 sąd wydaje postanowienie o wystąpieniu z wnioskiem do organu obcego państwa o przejęcie orzeczenia do wykonania. orzeczenia do wykonania przysługuje zażalenie.
+§ 4. W wypadku określonym w art. 610 § 4 sąd wydaje postanowienie o wystąpieniu z wnioskiem do organu obcego państwa o przejęcie orzeczenia do wykonania.
+
+§ 5. Na postanowienie sądu w przedmiocie przejęcia lub przekazania orzeczenia do wykonania przysługuje zażalenie.
 
 § 6. Jeżeli postępowanie dotyczy przejęcia orzeczenia do wykonania, sąd może orzec środek zapobiegawczy.
 
@@ -109,7 +128,11 @@ source: "isap-pdf"
 
 § 3. Określając wysokość grzywny, sąd dokonuje przeliczenia wysokości grzywny orzeczonej kwotowo lub wysokości stawki dziennej, określonych w obcej walucie, według kursu średniego walut określonego przez Narodowy Bank Polski na dzień wydania orzeczenia w państwie obcym. Jeżeli grzywnę wymierzono kwotowo, iloraz stawki dziennej i ilości stawek dziennych nie może przekroczyć kwoty grzywny tak przeliczonej.
 
-§ 4. Sąd rozpoznaje sprawę na posiedzeniu. Przepisy art. 352 oraz 611a § 1 i 5 stosuje się odpowiednio. wydanie orzeczenia o zabezpieczeniu majątkowym z uwagi na grożący przepadek przedmiotów albo mienia stanowiącego korzyść majątkową osiągniętą z popełnienia przestępstwa, a przedmioty te lub składniki tego mienia znajdują się na terytorium państwa obcego, sąd, a w postępowaniu przygotowawczym prokurator, może wystąpić za pośrednictwem Ministra Sprawiedliwości do właściwego organu tego państwa o zabezpieczenie przedmiotów lub mienia zagrożonych przepadkiem.
+§ 4. Sąd rozpoznaje sprawę na posiedzeniu. Przepisy art. 352 oraz 611a § 1 i 5 stosuje się odpowiednio.
+
+**Art. 611d.**
+
+§ 1. Jeżeli w toku postępowania zajdą okoliczności uzasadniające wydanie orzeczenia o zabezpieczeniu majątkowym z uwagi na grożący przepadek przedmiotów albo mienia stanowiącego korzyść majątkową osiągniętą z popełnienia przestępstwa, a przedmioty te lub składniki tego mienia znajdują się na terytorium państwa obcego, sąd, a w postępowaniu przygotowawczym prokurator, może wystąpić za pośrednictwem Ministra Sprawiedliwości do właściwego organu tego państwa o zabezpieczenie przedmiotów lub mienia zagrożonych przepadkiem.
 
 § 2. Jeżeli organ państwa obcego zwróci się o wykonanie prawomocnego orzeczenia o zabezpieczeniu mienia, gdy mienie podlegające zabezpieczeniu znajduje się na terytorium Rzeczypospolitej Polskiej, właściwy do wykonania orzeczenia jest sąd rejonowy lub prokurator, w którego okręgu znajduje się to mienie.
 
@@ -118,6 +141,17 @@ source: "isap-pdf"
 **Art. 611f.** Przepisy niniejszego rozdziału stosuje się odpowiednio do przejęcia lub przekazania do wykonania orzeczeń o karach pieniężnych.”.
 
 **Art. 3.** W ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz.U. Nr 47, poz. 211, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, z 1998 r. Nr 106, poz. 668 i z 2000 r. Nr 29, poz. 356) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 ust. 2 otrzymuje brzmienie: „2. Czynami nieuczciwej konkurencji są w szczególności: wprowadzające w błąd oznaczenie przedsiębiorstwa, fałszywe lub oszukańcze oznaczenie pochodzenia geograficznego towarów albo usług, wprowadzające w błąd oznaczenie towarów lub usług, naruszenie tajemnicy przedsiębiorstwa, nakłanianie do rozwiązania lub niewykonania umowy, naśladownictwo produktów, pomawianie lub nieuczciwe zachwalanie, utrudnianie dostępu do rynku, przekupstwo osoby pełniącej funkcję publiczną, a także nieuczciwa lub zakazana reklama.”;
+- **2)** po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. Czynem nieuczciwej konkurencji polegającym na przekupstwie osoby pełniącej funkcję publiczną jest określone w art. 229 Kodeksu karnego zachowanie osoby fizycznej:
+- **1)** będącej przedsiębiorcą,
+- **2)** działającej na rzecz przedsiębiorcy w ramach uprawnienia do jego reprezentowania albo podejmowania w jego imieniu decyzji lub wykonywania nad nim kontroli,
+- **3)** działającej na rzecz przedsiębiorcy, za zgodą osoby, o której mowa w pkt 2.”;
+- **3)** w art. 19 ust. 2 otrzymuje brzmienie: „2. Przepis ust. 1 nie ma zastosowania do czynów nieuczciwej konkurencji określonych w art. 5-7, art. 11, 14 oraz w art. 15a, a w przypadku organizacji, o których mowa w ust. 1 pkt 1, także do czynów określonych w art.
+
+12. ”;
+
+- **4)** po art. 22 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a. Odpowiedzialność przedsiębiorców za przekupstwo osoby pełniącej funkcję publiczną
 
 **Art. 22a.**
 
@@ -141,7 +175,7 @@ source: "isap-pdf"
 
 **Art. 22d.**
 
-1. W razie stwierdzenia, że został popełniony czyn nieuczciwej konkurencji polegający na przekupstwie osoby pełniącej funkcję publiczną przez osobę, o której mowa w art. 15a pkt 2-3, Prezes Urzędu Ochrony Konkurencji i Konsumentów wydaje decyzję o pieniężnej płatnej do budżetu państwa, w wysokości do 10% przychodu w rozumieniu przepisów o podatku dochodowym od osób prawnych, uzyskanego w roku podatkowym poprzedzającym dzień wydania decyzji.
+1. W razie stwierdzenia, że został popełniony czyn nieuczciwej konkurencji polegający na przekupstwie osoby pełniącej funkcję publiczną przez osobę, o której mowa w art. 15a pkt 2-3, Prezes Urzędu Ochrony Konkurencji i Konsumentów wydaje decyzję o nałożeniu na przedsiębiorcę nie będącego osobą fizyczną kary pieniężnej płatnej do budżetu państwa, w wysokości do 10% przychodu w rozumieniu przepisów o podatku dochodowym od osób prawnych, uzyskanego w roku podatkowym poprzedzającym dzień wydania decyzji.
 
 2. Kara pieniężna nie może być wymierzona, jeżeli od czasu popełnienia czynu nieuczciwej konkurencji upłynęło 10 lat.
 
@@ -171,6 +205,10 @@ source: "isap-pdf"
 **Art. 22g.** Przepisów art. 22f nie stosuje się do wniosków prokuratorów i sądów państw obcych, o których mowa w art. 588 § 1 Kodeksu postępowania karnego.”.
 
 **Art. 4.** W ustawie z dnia 10 czerwca 1994 r. o zamówieniach publicznych (Dz.U. z 1998 r. Nr 119, poz. 773, z 1999 r. Nr 45, poz. 437 i z 2000 r. Nr 12, poz. 136) w art. 19 w ust. 1 wprowadza się następujące zmiany:
+
+- **1)** w pkt 4 po wyrazach „zamówienia publicznego” dodaje się przecinek oraz wyrazy „przestępstwo przekupstwa”,
+- **2)** w pkt 5 po wyrazach „zamówienia publicznego” dodaje się przecinek i wyrazy „przestępstwo przekupstwa” oraz kropkę zastępuje się przecinkiem,
+- **3)** po pkt 5 dodaje się pkt 6 w brzmieniu: „6) przedsiębiorców, na których w ciągu ostatnich trzech lat została nałożona kara pieniężna, o której mowa w przepisach o zwalczaniu nieuczciwej konkurencji, za czyn nieuczciwej konkurencji polegający na przekupstwie osoby pełniącej funkcję publiczną.”.
 
 **Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz.U. Nr 140, poz. 939, z 1998 r. Nr 160, poz. 1063 i Nr 162, poz. 1118 oraz z 1999 r. Nr 11, poz. 95 i Nr 40, poz. 399) w art. 105 w ust. 1 w pkt 2 w lit. b) po wyrazach „lub karnym skarbowym” dodaje się wyrazy: „albo w związku z wykonaniem wniosku o udzielenie pomocy prawnej, pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udzielenie informacji objętych tajemnicą bankową”.
 

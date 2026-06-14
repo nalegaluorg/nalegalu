@@ -8,7 +8,7 @@ pos: 1304
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi
@@ -37,9 +37,36 @@ Art. 27–31. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** nabywca – oboje małżonków, osobę samotnie wychowującą dziecko lub osobę niepozostającą w związku małżeńskim, uzyskujące finansowe wsparcie na zasadach określonych w ustawie;
+- **2)** osoba samotnie wychowująca dziecko – jedno z rodziców albo opiekuna prawnego, jeżeli osoba ta jest panną, kawalerem, wdową, wdowcem, rozwódką, rozwodnikiem albo osobą, w stosunku do której orzeczono separację lub osobę pozostającą w związku małżeńskim, jeżeli jej małżonek został pozbawiony praw rodzicielskich lub odbywa karę pozbawienia wolności, jeżeli ten rodzic lub opiekun samotnie wychowuje dziecko lub dzieci;
+- **3)** lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048) znajdujący się w budynku, w skład którego wchodzą co najmniej dwa lokale;
+- **4)** dom jednorodzinny – budynek wolno stojący albo budynek w zabudowie bliźniaczej, szeregowej lub grupowej, służący zaspokajaniu potrzeb mieszkaniowych, stanowiący konstrukcyjnie samodzielną całość, w którym znajduje się wyłącznie lokal mieszkalny;
+- **5)** mieszkanie – lokal mieszkalny albo dom jednorodzinny;
+- **6)** pierwsze zasiedlenie mieszkania – pierwsze oddanie do użytkowania mieszkania przez osobę, która wybudowała to mieszkanie, w wyniku budowy lub przebudowy obiektu budowlanego, w ramach prowadzonej działalności gospodarczej, a także pierwsze oddanie do użytkowania mieszkania przez osobę, która w ramach prowadzonej działalności gospodarczej nabyła to mieszkanie od osoby, która wybudowała to mieszkanie, w wyniku budowy lub przebudowy obiektu budowlanego, w ramach prowadzonej działalności gospodarczej;
+- **7)** powierzchnia użytkowa mieszkania – powierzchnię użytkową lokalu w rozumieniu art. 2 ust. 1 pkt 7 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2022 r. poz. 172, 975 i 1561);
+- **8)** dofinansowanie wkładu własnego – środki pieniężne przeznaczone na zapłatę części ceny zakupu mieszkania lub wkład budowlany, wypłacane na warunkach określonych w ustawie jako część albo całość kwoty, którą wnioskujący o kredyt deklaruje pokryć ze środków własnych;
+- **9)** spłata części kredytu – środki pieniężne przeznaczone na spłatę części kapitału kredytu udzielonego przez instytucję kredytującą, wypłacane w związku z urodzeniem lub przysposobieniem dziecka, na warunkach określonych w ustawie;
+- **10)** instytucja kredytująca – podmiot upoważniony na podstawie odrębnej ustawy do udzielania kredytów, będący stroną zawartej z Bankiem Gospodarstwa Krajowego umowy w sprawie stosowania finansowego wsparcia;
+- **11)** umowa deweloperska – umowę deweloperską w rozumieniu art. 3 pkt 5 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. z 2021 r. poz. 1445) zawartą przez nabywcę;
+- **11a)** umowa o budowę lokalu – umowę o budowę lokalu w rozumieniu art. 18 ust. 1 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2021 r. poz. 1208 oraz z 2022 r. poz. 1561) zawartą przez nabywcę;
+- **12)** mieszkaniowy rachunek powierniczy – mieszkaniowy rachunek powierniczy w rozumieniu art. 5 ust. 1 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego;
+- **13)** prospekt informacyjny – prospekt informacyjny w rozumieniu art. 17 ust. 1 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego;
+- **14)** średni wskaźnik przeliczeniowy kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych – średnią arytmetyczną wartości wskaźnika, o którym mowa w art. 2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, ogłoszonego w dwóch ostatnich okresach dla:
+    - **a)** miasta będącego siedzibą wojewody lub sejmiku województwa – w przypadku gdy mieszkanie położone jest na terenie miasta będącego siedzibą wojewody lub sejmiku województwa,
+    - **b)** pozostałych gmin w województwie – w przypadku gdy mieszkanie położone jest na terenie gminy niesąsiadującej z miastem będącym siedzibą wojewody lub sejmiku województwa,
+    - **c)** miasta będącego siedzibą wojewody lub sejmiku województwa oraz pozostałych gmin w województwie, nie więcej jednak niż 120% wartości ustalonej zgodnie z lit. b – w przypadku gdy mieszkanie położone jest na terenie gminy sąsiadującej z miastem będącym siedzibą wojewody lub sejmiku województwa;
+
+- **15)** Fundusz Dopłat – Fundusz Dopłat, o którym mowa w ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2022 r. poz. 101 i 1561);
+- **16)** podatek VAT – podatek od towarów i usług o stawce 22% albo wyższej, w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm. );
+- **17)** faktura – fakturę w rozumieniu przepisów o podatku od towarów i usług, dokumentującą zakup materiałów budowlanych, o których mowa w art. 20 ust. 1;
+- **18)** urząd skarbowy – naczelnika urzędu skarbowego właściwego ze względu na miejsce zamieszkania osoby składającej wniosek o zwrot części wydatków, o którym mowa w art. 20 ust. 1, w dniu złożenia przez nią tego wniosku, przy czym w przypadku wspólnego wniosku małżonków mających różne miejsca zamieszkania – naczelnika urzędu skarbowego wskazanego w tym wniosku, jeżeli jest on właściwy ze względu na miejsce zamieszkania przynajmniej jednego z małżonków.
+
 #### Rozdział 2 Finansowe wsparcie
 
 **Art. 3.** Dofinansowanie wkładu własnego może zostać udzielone nabywcy w związku z zaciągnięciem w instytucji kredytującej kredytu udzielonego na:
+
+- **1)** zakup mieszkania;
+- **2)** wkład budowlany do spółdzielni mieszkaniowej, wnoszony w celu uzyskania prawa własności mieszkania, na podstawie zawartej ze spółdzielnią mieszkaniową umowy o budowę lokalu.
 
 **Art. 4.**
 

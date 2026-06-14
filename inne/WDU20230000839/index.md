@@ -8,7 +8,7 @@ pos: 839
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wykonaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, w zakresie współpracy w sprawach karnych
@@ -28,6 +28,9 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/839/text.pdf) |
 
 **Art. 1.** W zakresie współpracy w sprawach karnych ze stosunków międzynarodowych ze Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej stosuje się:
+
+- **1)** przepisy Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony (Dz. Urz. UE L 149 z 30.04.2021, str. 10);
+- **2)** odpowiednio przepisy mające zastosowanie w stosunkach z państwami członkowskimi Unii Europejskiej – w zakresie nieuregulowanym w pkt 1.
 
 **Art. 2.**
 

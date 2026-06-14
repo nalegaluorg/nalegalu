@@ -8,12 +8,12 @@ pos: 1199
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Ustawa z dnia 3 października 2008 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw
+# o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw
 
-*USTAWA 3 października 2008 o zmianie ustawy o ochronie granicy państwowej niektórych innych ustaw*
+*USTAWA z dnia 3 października 2008 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,32 +27,43 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081951199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1199/text.pdf) |
 
-**Art. 1.** W ustawie 12 października 1990 o ochronie granicy państwowej (Dz. U. 2005 226, 1944 2007 107, 732 140, 982) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2005 r. Nr 226, poz. 1944 oraz z 2007 r. Nr 107, poz. 732 i Nr 140, poz. 982) wprowadza się następujące zmiany:
 
-**Art. 17d.** Funkcjonariusze straży granicznych, w rozumieniu rozporządzenia nr 863/2007, państw członkowskich Unii Europejskiej granicy państwowej stanowiącej granicę zewnętrzną w rozumieniu kodeksu granicznego Schengen wykonują zadania w ramach zespołów szybkiej interwencji granicy zgodnie przepisami krajowymi odnoszącymi się Straży Granicznej w zakresie określonym w rozporządzeniu nr 863/2007.
+- **1)** w art. 14 dodaje się ust. 3 w brzmieniu: „3. Przekraczanie granicy państwowej stanowiącej granicę wewnętrzną w rozumieniu przepisów rozporządzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. ustanawiającego wspólnotowy kodeks zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 105 z 13.04.2006, str. 1), zwanego dalej „kodeksem granicznym Schengen”, następuje na zasadach określonych w kodeksie granicznym Schengen.”;
+- **2)** po art. 16 dodaje się art. 16a w brzmieniu: „Art. 16a. Przepisów art. 16 nie stosuje się do przejść granicznych, o których mowa w art. 17a.”;
+- **3)** art. 17a otrzymuje brzmienie: „Art. 17a. Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, przywraca tymczasowo, przedłuża lub znosi kontrolę graniczną osób przekraczających granicę państwową stanowiącą granicę wewnętrzną w rozumieniu kodeksu granicznego Schengen, określając:
+- **1)** odcinki granicy państwowej, na której kontrola graniczna osób zostaje przywrócona tymczasowo, przedłużona lub zniesiona;
+- **2)** przejścia graniczne, rodzaj ruchu dozwolonego przez te przejścia i czas ich otwarcia oraz zasięg terytorialny przejść granicznych;
+- **3)** okres, na który kontrola graniczna osób zostaje przywrócona tymczasowo lub przedłużona. Rozporządzenie powinno uwzględniać dostosowanie zakresu kontroli do przyczyn uzasadniających jej wprowadzenie oraz możliwość stosowania kontroli na niektórych odcinkach drogowych lub kolejowych przecinających granicę państwową, a także w niektórych portach i przystaniach oraz portach lotniczych i lotniskach.”;
+- **4)** po art. 17b dodaje się art. 17c – 17e w brzmieniu: „Art. 17c. Minister właściwy do spraw wewnętrznych, na wniosek Komendanta Głównego Straży Granicznej, w przypadkach określonych w rozporządzeniu (WE) nr 863/2007 Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. ustanawiającym mechanizm tworzenia zespołów szybkiej interwencji na granicy oraz zmieniającym rozporządzenie Rady (WE) nr 2007/2004 w odniesieniu do tego mechanizmu i określającym uprawnienia i zadania zaproszonych funkcjonariuszy (Dz. Urz. UE L 199 z 31.07.2007, str. 30), zwanym dalej „rozporządzeniem nr 863/2007”, może wystąpić do Europejskiej Agencji Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej o oddelegowanie na czas określony na terytorium Rzeczypospolitej Polskiej zespołów szybkiej interwencji na granicy.
 
-**Art. 17e.** Komendant Główny Straży Granicznej w zakresie dotyczącym zespołów szybkiej interwencji granicy:
+**Art. 17d.** Funkcjonariusze straży granicznych, w rozumieniu rozporządzenia nr 863/2007, państw członkowskich Unii Europejskiej na granicy państwowej stanowiącej granicę zewnętrzną w rozumieniu kodeksu granicznego Schengen wykonują zadania w ramach zespołów szybkiej interwencji na granicy zgodnie z przepisami krajowymi odnoszącymi się do funkcjonariuszy Straży Granicznej w zakresie określonym w rozporządzeniu nr 863/2007.
 
-**Art. 2.** W ustawie 12 października 1990 o Straży Granicznej (Dz. U. 2005 234, 1997, późn. zm. ) po rozdziale 14a dodaje się rozdział 14b w brzmieniu: „Rozdział 14b Służba Straży Granicznej w zespołach szybkiej interwencji granicy
+**Art. 17e.** Komendant Główny Straży Granicznej w zakresie dotyczącym zespołów szybkiej interwencji na granicy:
+
+- **1)** wykonuje zadania krajowego punktu kontaktowego właściwego w sprawach komunikacji z Europejską Agencją Zarządzania Współpracą Operacyjną na Granicach Zewnętrznych Państw Członkowskich Unii Europejskiej;
+- **2)** uzgadnia plan operacyjny określający szczegółowe warunki oddelegowania zespołów szybkiej interwencji na granicy na terytorium Rzeczypospolitej Polskiej.”.
+
+**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. Nr 234, poz. 1997, z późn. zm. ) po rozdziale 14a dodaje się rozdział 14b w brzmieniu: „Rozdział 14b Służba funkcjonariuszy Straży Granicznej w zespołach szybkiej interwencji na granicy
 
 **Art. 147o.**
 
-1. Do zespołów szybkiej interwencji granicy utworzonych zgodnie rozporządzeniem (WE) nr 863/2007 Parlamentu Europejskiego Rady 11 lipca 2007 ustanawiającym mechanizm tworzenia zespołów szybkiej interwencji granicy zmieniającym rozporządzenie Rady (WE) nr 2007/2004 w odniesieniu tego mechanizmu określającym uprawnienia zadania zaproszonych (Dz. Urz. UE L 199 31.07.2007, str. 30), zwanym dalej „rozporządzeniem nr 863/2007”, mogą zostać delegowani funkcjonariusze wchodzący w skład krajowej rezerwy ekspertów.
+1. Do zespołów szybkiej interwencji na granicy utworzonych zgodnie z rozporządzeniem (WE) nr 863/2007 Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. ustanawiającym mechanizm tworzenia zespołów szybkiej interwencji na granicy oraz zmieniającym rozporządzenie Rady (WE) nr 2007/2004 w odniesieniu do tego mechanizmu i określającym uprawnienia i zadania zaproszonych funkcjonariuszy (Dz. Urz. UE L 199 z 31.07.2007, str. 30), zwanym dalej „rozporządzeniem nr 863/2007”, mogą zostać delegowani funkcjonariusze wchodzący w skład krajowej rezerwy ekspertów.
 
 2. Komendant Główny Straży Granicznej określa, w drodze decyzji, skład krajowej rezerwy ekspertów stanowiącej część rezerwy interwencyjnej, o której mowa w rozporządzeniu nr 863/2007.
 
-3. Włączenie w skład krajowej rezerwy ekspertów następuje za pisemną zgodą funkcjonariusza. Zgoda ta obejmuje delegowania funkcjonariusza zespołów szybkiej interwencji granicy.
+3. Włączenie w skład krajowej rezerwy ekspertów następuje za pisemną zgodą funkcjonariusza. Zgoda ta obejmuje delegowania funkcjonariusza do zespołów szybkiej interwencji na granicy.
 
-4. Komendant Główny Straży Granicznej, zasadach określonych w rozporządzeniu nr 863/2007, deleguje lub odmawia delegowania wykonywania zadań w zespołach szybkiej interwencji granicy.
+4. Komendant Główny Straży Granicznej, na zasadach określonych w rozporządzeniu nr 863/2007, deleguje lub odmawia delegowania funkcjonariuszy do wykonywania zadań w zespołach szybkiej interwencji na granicy.
 
 5. W czasie delegowania, o którym mowa w ust. 1, funkcjonariusz wykonuje polecenia właściwych przełożonych przyjmującego państwa członkowskiego Unii Europejskiej.
 
-6. Do delegowanych zespołów szybkiej interwencji granicy stosuje się odpowiednio przepisy:
+6. Do funkcjonariuszy delegowanych do zespołów szybkiej interwencji na granicy stosuje się odpowiednio przepisy:
 
-- **1)** art. 37 ust. 2a, art. 147h ust. 1 art. 147j;
-- **2)** art. 147h ust. 2 - w zakresie świadczeń tytułu uszczerbku zdrowiu.”.
+- **1)** art. 37 ust. 2a, art. 147h ust. 1 i art. 147j;
+- **2)** art. 147h ust. 2 - w zakresie świadczeń z tytułu uszczerbku na zdrowiu.”.
 
-**Art. 3.** W ustawie 21 maja 1999 o broni amunicji (Dz. U. 2004 52, 525, późn. zm. ) w art. 3 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) broni amunicji stanowiących uzbrojenie straży granicznej państw Unii Europejskiej przebywających terytorium Rzeczypospolitej Polskiej w ramach zespołów szybkiej interwencji granicy zasadach określonych w rozporządzeniu (WE) nr 863/2007 Parlamentu Europejskiego Rady 11 lipca 2007 ustanawiającym mechanizm tworzenia zespołów szybkiej interwencji granicy zmieniającym rozporządzenie Rady (WE) nr 2007/2004 w odniesieniu tego mechanizmu określającym uprawnienia zadania zaproszonych (Dz. Urz. UE L 199 31.07.2007, str. 30);”.
+**Art. 3.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2004 r. Nr 52, poz. 525, z późn. zm. ) w art. 3 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) broni i amunicji stanowiących uzbrojenie funkcjonariuszy straży granicznej państw Unii Europejskiej przebywających na terytorium Rzeczypospolitej Polskiej w ramach zespołów szybkiej interwencji na granicy na zasadach określonych w rozporządzeniu (WE) nr 863/2007 Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. ustanawiającym mechanizm tworzenia zespołów szybkiej interwencji na granicy oraz zmieniającym rozporządzenie Rady (WE) nr 2007/2004 w odniesieniu do tego mechanizmu i określającym uprawnienia i zadania zaproszonych funkcjonariuszy (Dz. Urz. UE L 199 z 31.07.2007, str. 30);”.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

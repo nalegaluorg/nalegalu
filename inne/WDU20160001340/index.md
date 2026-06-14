@@ -8,10 +8,10 @@ pos: 1340
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o dostępie zasobów genetycznych i podziale korzyści z ich wykorzystania
+# o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania
 
 *USTAWA z dnia 19 lipca 2016 r.*
 
@@ -24,83 +24,112 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-07-19 |
 | Data wydania | 2016-08-26 |
-| Ostatnia zmiana | 2026-01-21 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001340) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1340/text.pdf) |
 
 **Art. 1.** Ustawa określa:
 
-**Art. 3.** Organem krajowym, o którym art. 6 ust. 1 nr 511/2014, jest minister właściwy spraw środowiska, z tym że wskazane ustawie zadania dotyczące kontroli użytkowników oraz rejestru kolekcji wykonują organy Inspekcji Ochrony Środowiska.
+- **1)** właściwość i zadania organów administracji publicznej w zakresie wykonywania przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 511/2014 z dnia 16 kwietnia 2014 r. w sprawie środków zapewniających zgodność użytkowników w Unii z wymogami wynikającymi z Protokołu z Nagoi dotyczącego dostępu do zasobów genetycznych oraz uczciwego i sprawiedliwego podziału korzyści wynikających z wykorzystania tych zasobów (Dz. Urz. UE L 150 z 20.05.2014, str. 59), zwanego dalej „rozporządzeniem nr 511/2014”, oraz rozporządzenia wykonawczego Komisji (UE) 2015/1866 z dnia 13 października 2015 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 511/2014 w odniesieniu do rejestru kolekcji, monitorowania zgodności użytkowników i najlepszych praktyk (Dz. Urz. UE L 275 z 20.10.2015, str. 4), zwanego dalej „rozporządzeniem 2015/1866”;
+- **2)** zasady i tryb przeprowadzania kontroli zgodności dostępu i wykorzystania zasobów genetycznych i tradycyjnej wiedzy związanej z zasobami genetycznymi, o których mowa w art. 2 ust. 1 i 4 rozporządzenia nr 511/2014, pozyskanych spoza Rzeczypospolitej Polskiej, oraz podziału korzyści z ich wykorzystania;
+- **3)** zasady odpowiedzialności za naruszenie przepisów rozporządzenia nr 511/2014.
+
+**Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** dostęp – dostęp w rozumieniu art. 3 pkt 3 rozporządzenia nr 511/2014;
+- **2)** kolekcja – kolekcję w rozumieniu art. 3 pkt 9 rozporządzenia nr 511/2014;
+- **3)** rejestr kolekcji – rejestr kolekcji w obrębie Unii, o którym mowa w art. 5 ust. 1 rozporządzenia nr 511/2014;
+- **4)** tradycyjna wiedza związana z zasobami genetycznymi – tradycyjną wiedzę związaną z zasobami genetycznymi w rozumieniu art. 3 pkt 7 rozporządzenia nr 511/2014;
+- **5)** użytkownik – użytkownika w rozumieniu art. 3 pkt 4 rozporządzenia nr 511/2014;
+- **6)** wykorzystanie zasobów genetycznych – wykorzystanie zasobów genetycznych w rozumieniu art. 3 pkt 5 rozporządzenia nr 511/2014.
+
+**Art. 3.** Organem krajowym, o którym mowa w art. 6 ust. 1 rozporządzenia nr 511/2014, jest minister właściwy do spraw środowiska, z tym że wskazane w ustawie zadania dotyczące kontroli użytkowników oraz rejestru kolekcji wykonują organy Inspekcji Ochrony Środowiska.
 
 **Art. 4.**
 
-1. Główny Inspektor Ochrony Środowiska sporządza plan kontroli użytkowników, o którym art. 9 ust. 3 lit. a nr 511/2014.
+1. Główny Inspektor Ochrony Środowiska sporządza plan kontroli użytkowników, o którym mowa w art. 9 ust. 3 lit. a rozporządzenia nr 511/2014.
 
 2. Plan kontroli użytkowników zawiera:
 
 - **1)** imię i nazwisko albo nazwę użytkownika;
 - **2)** termin przeprowadzenia kontroli;
 - **3)** zakres kontroli;
-- **4)** wskazanie wojewódzkiego inspektora ochrony środowiska, zwanego dalej „wojewódzkim inspektorem”, właściwego przeprowadzenia kontroli.
+- **4)** wskazanie wojewódzkiego inspektora ochrony środowiska, zwanego dalej „wojewódzkim inspektorem”, właściwego do przeprowadzenia kontroli.
 
-3. Główny Inspektor Ochrony Środowiska przekazuje zatwierdzenia ministrowi właściwemu spraw środowiska plan kontroli użytkowników na rok następny końca listopada każdego roku.
+3. Główny Inspektor Ochrony Środowiska przekazuje do zatwierdzenia ministrowi właściwemu do spraw środowiska plan kontroli użytkowników na rok następny do końca listopada każdego roku.
 
 **Art. 5.**
 
-1. Kontrolę użytkowników przeprowadza wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę użytkownika, albo miejsce prowadzenia działalności związanej z wykorzystaniem zasobów genetycznych, jeżeli jest to uzasadnione zakresem kontroli. wojewódzki inspektor wzywa użytkownika podjęcia działań lub środków naprawczych, o których tym przepisie, oraz wyznacza termin ich wykonania.
+1. Kontrolę użytkowników przeprowadza wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę użytkownika, albo miejsce prowadzenia działalności związanej z wykorzystaniem zasobów genetycznych, jeżeli jest to uzasadnione zakresem kontroli.
 
-4. Minister właściwy spraw środowiska określi, drodze rozporządzenia, szczegółowy zakres kontroli użytkowników, kierując się potrzebą standaryzacji działań kontrolnych.
+2. Protokół przeprowadzonej kontroli użytkownika jest przekazywany niezwłocznie Głównemu Inspektorowi Ochrony Środowiska.
 
-**Art. 6.** Wniosek o włączenie kolekcji lub jej części rejestru kolekcji posiadacz kolekcji składa wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania albo siedzibę posiadacza.
+3. W przypadku, o którym mowa w art. 9 ust. 6 rozporządzenia nr 511/2014, wojewódzki inspektor wzywa użytkownika do podjęcia działań lub środków naprawczych, o których mowa w tym przepisie, oraz wyznacza termin ich wykonania.
 
-**Art. 7.** Wojewódzki inspektor sprawdza i weryfikuje wniosek, o którym art. 6, zakresie spełniania przez kolekcję lub jej część kryteriów, o których art. 5 ust. 3 nr 511/2014, oraz:
+4. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, szczegółowy zakres kontroli użytkowników, kierując się potrzebą standaryzacji działań kontrolnych.
+
+**Art. 6.** Wniosek o włączenie kolekcji lub jej części do rejestru kolekcji posiadacz kolekcji składa do wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania albo siedzibę posiadacza.
+
+**Art. 7.** Wojewódzki inspektor sprawdza i weryfikuje wniosek, o którym mowa w art. 6, w zakresie spełniania przez kolekcję lub jej część kryteriów, o których mowa w art. 5 ust. 3 rozporządzenia nr 511/2014, oraz:
+
+- **1)** przekazuje wniosek ministrowi właściwemu do spraw środowiska – w przypadku stwierdzenia, że kolekcja lub jej część spełniają kryteria, o których mowa w art. 5 ust. 3 rozporządzenia nr 511/2014;
+- **2)** wydaje decyzję o niespełnianiu przez kolekcję lub jej część kryteriów, o których mowa w art. 5 ust. 3 rozporządzenia nr 511/2014 – w przypadku stwierdzenia, że kolekcja lub jej część nie spełniają tych kryteriów.
 
 **Art. 8.**
 
-1. Główny Inspektor Ochrony Środowiska sporządza plan kontroli kolekcji lub ich części zarejestrowanych rejestrze kolekcji.
+1. Główny Inspektor Ochrony Środowiska sporządza plan kontroli kolekcji lub ich części zarejestrowanych w rejestrze kolekcji.
 
-2. Główny Inspektor Ochrony Środowiska przekazuje zatwierdzenia ministrowi właściwemu spraw środowiska plan kontroli kolekcji lub ich części zarejestrowanych rejestrze kolekcji na rok następny końca listopada każdego roku.
+2. Główny Inspektor Ochrony Środowiska przekazuje do zatwierdzenia ministrowi właściwemu do spraw środowiska plan kontroli kolekcji lub ich części zarejestrowanych w rejestrze kolekcji na rok następny do końca listopada każdego roku.
 
 **Art. 9.**
 
-1. Kontrole kolekcji lub ich części zarejestrowanych rejestrze kolekcji przeprowadza wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę posiadacza kolekcji.
+1. Kontrole kolekcji lub ich części zarejestrowanych w rejestrze kolekcji przeprowadza wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę posiadacza kolekcji.
 
-2. Protokół przeprowadzonej kontroli kolekcji lub jej części zarejestrowanych rejestrze kolekcji jest przekazywany niezwłocznie Głównemu Inspektorowi Ochrony Środowiska.
+2. Protokół przeprowadzonej kontroli kolekcji lub jej części zarejestrowanych w rejestrze kolekcji jest przekazywany niezwłocznie Głównemu Inspektorowi Ochrony Środowiska.
 
-4. Sprawozdanie, o którym art. 4 ust. 5 zdanie trzecie 2015/1866, posiadacz kolekcji składa wojewódzkiego inspektora.
+3. W przypadku, o którym mowa w art. 5 ust. 4 zdanie drugie rozporządzenia nr 511/2014, wojewódzki inspektor określa działania lub środki naprawcze, o których mowa w tym przepisie, oraz wyznacza termin ich wykonania.
 
-5. W przypadku gdy działania i środki naprawcze nie zostały wykonane wyznaczonym terminie, wojewódzki inspektor wydaje decyzję stwierdzającą, że kolekcja lub jej część przestały spełniać kryteria określone art. 5 ust. 3 nr 511/2014. Decyzja jest przekazywana niezwłocznie ministrowi właściwemu spraw środowiska.
+4. Sprawozdanie, o którym mowa w art. 4 ust. 5 zdanie trzecie rozporządzenia 2015/1866, posiadacz kolekcji składa do wojewódzkiego inspektora.
 
-**Art. 10.** Główny Inspektor Ochrony Środowiska współpracuje z ministrem właściwym spraw środowiska zakresie opiniowania wniosków o uznanie za najlepszą praktykę, o których art. 8 ust. 1 nr 511/2014, oraz opiniowania zmian lub aktualizacji uznanej najlepszej praktyki.
+5. W przypadku gdy działania i środki naprawcze nie zostały wykonane w wyznaczonym terminie, wojewódzki inspektor wydaje decyzję stwierdzającą, że kolekcja lub jej część przestały spełniać kryteria określone w art. 5 ust. 3 rozporządzenia nr 511/2014. Decyzja jest przekazywana niezwłocznie ministrowi właściwemu do spraw środowiska.
 
-**Art. 11.** Kto, wbrew obowiązkowi określonemu art. 4 ust. 2 nr 511/2014, przekazuje lub wykorzystuje zasoby genetyczne lub tradycyjną wiedzę związaną z zasobami genetycznymi bez wzajemnie uzgodnionych warunków lub niezgodnie z tymi warunkami, podlega karze pieniężnej wysokości od 5000 zł 100 000 zł.
+**Art. 10.** Główny Inspektor Ochrony Środowiska współpracuje z ministrem właściwym do spraw środowiska w zakresie opiniowania wniosków o uznanie za najlepszą praktykę, o których mowa w art. 8 ust. 1 rozporządzenia nr 511/2014, oraz opiniowania zmian lub aktualizacji uznanej najlepszej praktyki.
+
+**Art. 11.** Kto, wbrew obowiązkowi określonemu w art. 4 ust. 2 rozporządzenia nr 511/2014, przekazuje lub wykorzystuje zasoby genetyczne lub tradycyjną wiedzę związaną z zasobami genetycznymi bez wzajemnie uzgodnionych warunków lub niezgodnie z tymi warunkami, podlega karze pieniężnej w wysokości od 5000 zł do 100 000 zł.
 
 **Art. 12.** Kto, wbrew obowiązkowi określonemu w:
 
-**Art. 13.** Kto, wbrew obowiązkowi określonemu art. 4 ust. 5 nr 511/2014, wykorzystuje zasoby genetyczne mimo nieuzyskania zezwolenia na dostęp lub jego równoważnika oraz nieustanowienia wzajemnie uzgodnionych warunków, podlega karze pieniężnej wysokości od 10 000 zł 200 000 zł.
+- **1)** art. 4 ust. 3 rozporządzenia nr 511/2014, nie uzyskuje, nie zachowuje lub nie przekazuje kolejnym użytkownikom informacji i dokumentów, o których mowa w tym przepisie,
+- **2)** art. 4 ust. 6 rozporządzenia nr 511/2014, nie przechowuje informacji związanych z dostępem i podziałem korzyści przez dwadzieścia lat od zakończenia okresu wykorzystania
 
-**Art. 15.** Kto, wbrew obowiązkowi określonemu art. 7 ust. 2 nr 511/2014, nie złożył oświadczenia o dołożeniu należytej staranności lub nie przedłożył informacji, o których tym przepisie, podlega karze pieniężnej wysokości od 5000 zł 100 000 zł.
+**Art. 13.** Kto, wbrew obowiązkowi określonemu w art. 4 ust. 5 rozporządzenia nr 511/2014, wykorzystuje zasoby genetyczne mimo nieuzyskania zezwolenia na dostęp lub jego równoważnika oraz nieustanowienia wzajemnie uzgodnionych warunków, podlega karze pieniężnej w wysokości od 10 000 zł do 200 000 zł.
 
-**Art. 16.** Karę pieniężną wymierza, drodze decyzji, wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę użytkownika, albo miejsce prowadzenia działalności związanej z wykorzystaniem zasobów genetycznych.
+**Art. 14.** Kto, wbrew obowiązkowi określonemu w art. 7 ust. 1 rozporządzenia nr 511/2014, nie złożył oświadczenia o dołożeniu należytej staranności, podlega karze pieniężnej w wysokości od 1000 zł do 20 000 zł.
 
-**Art. 17.** Przy ustalaniu wysokości kar pieniężnych uwzględnia się rodzaj i zakres naruszenia, tym jego wpływ na różnorodność biologiczną, wartość wykorzystanych zasobów genetycznych i potencjalnych korzyści z wykorzystania tych zasobów i tradycyjnej wiedzy związanej z zasobami genetycznymi, dotychczasową działalność podmiotu, który popełnił naruszenie, zakresie objętym przepisami nr 511/2014 oraz skutki naruszenia.
+**Art. 15.** Kto, wbrew obowiązkowi określonemu w art. 7 ust. 2 rozporządzenia nr 511/2014, nie złożył oświadczenia o dołożeniu należytej staranności lub nie przedłożył informacji, o których mowa w tym przepisie, podlega karze pieniężnej w wysokości od 5000 zł do 100 000 zł.
 
-**Art. 18.** Jeżeli okoliczności sprawy i dowody wskazują, że podmiot, który popełnił naruszenie, dołożył wszelkich starań, aby naruszenia nie doszło, lub że nie miał żadnego wpływu na powstanie naruszenia, a nastąpiło ono na skutek okoliczności, których nie mógł przewidzieć, wojewódzki inspektor odstępuje od wymierzenia kary pieniężnej i umarza postępowanie.
+**Art. 16.** Karę pieniężną wymierza, w drodze decyzji, wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę użytkownika, albo miejsce prowadzenia działalności związanej z wykorzystaniem zasobów genetycznych.
 
-**Art. 19.** Karę pieniężną uiszcza się terminie 14 dni od dnia, którym decyzja o wymierzeniu kary stała się ostateczna, na rachunek bankowy wskazany tej decyzji.
+**Art. 17.** Przy ustalaniu wysokości kar pieniężnych uwzględnia się rodzaj i zakres naruszenia, w tym jego wpływ na różnorodność biologiczną, wartość wykorzystanych zasobów genetycznych i potencjalnych korzyści z wykorzystania tych zasobów i tradycyjnej wiedzy związanej z zasobami genetycznymi, dotychczasową działalność podmiotu, który popełnił naruszenie, w zakresie objętym przepisami rozporządzenia nr 511/2014 oraz skutki naruszenia.
+
+**Art. 18.** Jeżeli okoliczności sprawy i dowody wskazują, że podmiot, który popełnił naruszenie, dołożył wszelkich starań, aby do naruszenia nie doszło, lub że nie miał żadnego wpływu na powstanie naruszenia, a nastąpiło ono na skutek okoliczności, których nie mógł przewidzieć, wojewódzki inspektor odstępuje od wymierzenia kary pieniężnej i umarza postępowanie.
+
+**Art. 19.** Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja o wymierzeniu kary stała się ostateczna, na rachunek bankowy wskazany w tej decyzji.
 
 **Art. 20.** Wpływy z tytułu kar pieniężnych stanowią dochód budżetu państwa.
 
 **Art. 21.**
 
-1. Kary pieniężnej nie wymierza się po upływie 5 lat od dnia, którym stwierdzono naruszenie.
+1. Kary pieniężnej nie wymierza się po upływie 5 lat od dnia, w którym stwierdzono naruszenie.
 
-2. Obowiązek uiszczenia kary pieniężnej przedawnia się po upływie 5 lat od ostatniego dnia terminu, którym kara powinna zostać uiszczona.
+2. Obowiązek uiszczenia kary pieniężnej przedawnia się po upływie 5 lat od ostatniego dnia terminu, w którym kara powinna zostać uiszczona.
 
-**Art. 22.** W sprawach dotyczących kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U.
+**Art. 22.** W sprawach dotyczących kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2026 r. poz. 622), z tym że uprawnienia organu podatkowego przysługują wojewódzkiemu inspektorowi.
+
+**Art. 23.** (pominięty)
 
 **Art. 24.**
 
-1. W latach 2016–2025 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 14 732 842 zł, z tym że roku:
+1. W latach 2016–2025 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 14 732 842 zł, z tym że w roku:
 
 - **1)** 2016 r. – 0 zł;
 - **2)** 2017 r. – 1 800 538 zł;
@@ -113,7 +142,7 @@ source: "isap-pdf"
 - **9)** 2024 r. – 1 616 538 zł;
 - **10)** 2025 r. – 1 616 538 zł.
 
-1a. W latach 2026–2035 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi roku:
+1a. W latach 2026–2035 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi w roku:
 
 - **1)** 2026 r. – 2 822 042 zł;
 - **2)** 2027 r. – 3 079 694 zł;
@@ -126,17 +155,21 @@ source: "isap-pdf"
 - **9)** 2034 r. – 3 358 311 zł;
 - **10)** 2035 r. – 3 442 166 zł.
 
-2. W przypadku zagrożenia przekroczenia limitu wydatków, o którym ust. 1, na dany rok budżetowy zostaną zastosowane mechanizmy korygujące polegające, stosunku osób zatrudnionych realizacji nowych zadań, na:
+2. W przypadku zagrożenia przekroczenia limitu wydatków, o którym mowa w ust. 1, na dany rok budżetowy zostaną zastosowane mechanizmy korygujące polegające, w stosunku do osób zatrudnionych do realizacji nowych zadań, na:
 
-- **1)** obniżeniu wysokości wynagrodzenia; ust. 1a, na dany rok budżetowy zostanie zastosowany mechanizm korygujący polegający na obniżeniu wymiaru czasu pracy stosunku osób zatrudnionych realizacji zadań określonych ustawą.
+- **1)** obniżeniu wysokości wynagrodzenia;
+- **2)** obniżeniu wymiaru czasu pracy;
+- **3)** redukcji liczby osób zatrudnionych.
 
-3. Organami właściwymi wdrożenia mechanizmów korygujących, o których ust. 2, są minister właściwy spraw środowiska i wojewodowie.
+2a. W przypadku zagrożenia przekroczenia limitu wydatków, o którym mowa w ust. 1a, na dany rok budżetowy zostanie zastosowany mechanizm korygujący polegający na obniżeniu wymiaru czasu pracy w stosunku do osób zatrudnionych do realizacji zadań określonych ustawą.
 
-3a. Organami właściwymi wdrożenia mechanizmu korygującego, o którym ust. 2a, są minister właściwy spraw środowiska, minister właściwy spraw klimatu i wojewodowie.
+3. Organami właściwymi do wdrożenia mechanizmów korygujących, o których mowa w ust. 2, są minister właściwy do spraw środowiska i wojewodowie.
 
-4. Organem właściwym monitorowania wykorzystania limitu wydatków, o którym ust. 1, jest minister właściwy spraw środowiska.
+3a. Organami właściwymi do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2a, są minister właściwy do spraw środowiska, minister właściwy do spraw klimatu i wojewodowie.
 
-5. Organem właściwym monitorowania wykorzystania limitu wydatków, o którym ust. 1a, jest minister właściwy spraw środowiska porozumieniu z ministrem właściwym spraw klimatu lub wojewodami.
+4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest minister właściwy do spraw środowiska.
 
-**Art. 25.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+5. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1a, jest minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw klimatu lub wojewodami.
+
+**Art. 25.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

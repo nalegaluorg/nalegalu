@@ -8,10 +8,10 @@ pos: 1531
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11553311 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 5 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001531) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1531/text.pdf) |
 
-11553311 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 5 lipca 2022 r.
-w sprawie świadczeń zdrowotnych przysługujących żołnierzom zawodowym Na podstawie art. 288 ust. 23 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie świadczeń zdrowotnych przysługujących żołnierzom zawodowym Na podstawie art. 288 ust. 23 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) zakres przysługujących żołnierzom zawodowym:
 a) corocznych bezpłatnych badań profilaktycznych,
 b) bezpłatnych świadczeń zdrowotnych w trakcie szkoleń poligonowych, ćwiczeń wojskowych (rejsów, lotów) i zgrupowań wojskowych oraz w przypadku użycia oddziałów i pododdziałów Sił Zbrojnych do wsparcia organów administracji publicznej,
@@ -39,11 +39,12 @@ e) badań polegających na pobraniu materiału genetycznego;
 5) rodzaje i wzory dokumentów wystawianych żołnierzom zawodowym po przeprowadzeniu obowiązkowych badań przed wyjazdem i po zakończeniu służby poza granicami państwa;
 6) wykaz zalecanych szczepień ochronnych przed wyjazdem do pełnienia służby poza granicami państwa, miejsca wykonywania oraz sposób dokumentowania takich szczepień, a także sposób postępowania w sytuacji odmowy przez żołnierza zawodowego poddania się zalecanym szczepieniom ochronnym;
 7) tryb kierowania żołnierzy zawodowych wraz z pełnoletnim najbliższym członkiem rodziny na turnus leczniczo-profilaktyczny, a także ramowy program tego turnusu, podmiot kierujący na turnus leczniczo- profilaktyczny, podmiot prowadzący turnus leczniczo- profilaktyczny, rodzaje i wzory dokumentów wystawianych w związku ze skierowaniem na turnus leczniczo- profilaktyczny;
-8) sposób prowadzenia dyspanseryzacji w ramach badań profilaktycznych, o których mowa w pkt 1 lit. a, oraz wzór karty intensywnego nadzoru dyspanseryzacyjnego, ze wskazaniem grup zdrowotnych, wykazu chorób i schorzeń, zakre§ 2. Zakres corocznych bezpłatnych badań profilaktycznych obejmuje wykaz badań określonych w przepisach wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510).
+8) sposób prowadzenia dyspanseryzacji w ramach badań profilaktycznych, o których mowa w pkt 1 lit. a, oraz wzór karty intensywnego nadzoru dyspanseryzacyjnego, ze wskazaniem grup zdrowotnych, wykazu chorób i schorzeń, zakresu konsultacji specjalistycznych i badań dodatkowych, w tym laboratoryjnych, w celu prowadzenia dyspanseryzacji.
+§ 2. Zakres corocznych bezpłatnych badań profilaktycznych obejmuje wykaz badań określonych w przepisach wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510).
 § 3. Zakres bezpłatnych świadczeń zdrowotnych udzielanych żołnierzom zawodowym w trakcie szkoleń poligonowych, ćwiczeń wojskowych (rejsów, lotów) i zgrupowań wojskowych oraz w przypadku użycia oddziałów i pododdziałów Sił Zbrojnych do wsparcia organów administracji publicznej obejmuje:
 1) czynności ratunkowe,
 2) leczenie,
-3) ewakuację medyczną i transport sanitarny z wykorzystaniem pojazdów sanitarnych, statków powietrznych, etatowego i tabelarycznego sprzętu i wyposażenia medycznego, medycznych środków materiałowych oraz leków będących w wyposażeniu Sił Zbrojnych.
+3) ewakuację medyczną i transport sanitarny – z wykorzystaniem pojazdów sanitarnych, statków powietrznych, etatowego i tabelarycznego sprzętu i wyposażenia medycznego, medycznych środków materiałowych oraz leków będących w wyposażeniu Sił Zbrojnych.
 § 4. 1. Zakres badań psychologicznych żołnierzy zawodowych skierowanych do służby poza granicami państwa, które są przeprowadzane przed wyjazdem z kraju, obejmuje:
 1) wywiad psychologiczny;
 2) diagnostyczne badania psychologiczne, w tym:
@@ -61,7 +62,7 @@ b) występowania cech zaburzeń adaptacyjnych lub innych związanych z udziałem
 5. Wzór kwestionariusza wstępnej oceny stanu zdrowia psychicznego w ramach wywiadu psychologicznego żołnierzy zawodowych po zakończeniu służby poza granicami państwa jest określony w załączniku nr 3 do rozporządzenia.
 6. Wzór zaświadczenia wydawanego żołnierzowi zawodowemu po badaniu psychologicznym, które jest przeprowadzane po zakończeniu służby poza granicami państwa, jest określony w załączniku nr 4 do rozporządzenia.
 7. Zakres badań psychologicznych, o których mowa w ust. 1 i 4, może zostać poszerzony, jeżeli psycholog uzna to za niezbędne do prawidłowej oceny funkcjonowania psychologicznego żołnierza zawodowego.
-8. Wzór certyfikatu zdrowia żołnierza zawodowego kandydata do służby poza granicami państwa we wszystkich strefach klimatycznych jest określony w załączniku nr 5 do rozporządzenia.
+8. Wzór certyfikatu zdrowia żołnierza zawodowego – kandydata do służby poza granicami państwa we wszystkich strefach klimatycznych jest określony w załączniku nr 5 do rozporządzenia.
 § 5. 1. Zakres badań kontrolnych, o których mowa w art. 288 ust. 4 ustawy, obejmuje podmiotowe i przedmiotowe badania lekarskie.
 2. Kontrolne badanie lekarskie przeprowadza lekarz jednostki wojskowej przygotowującej żołnierza do wyjazdu do służby poza granicami państwa.
 3. Wyniki kontrolnego badania lekarskiego, z określeniem możliwości wyjazdu żołnierza zawodowego do służby poza granicami państwa, wpisuje się do zbiorczej dokumentacji medycznej lekarza przeprowadzającego badanie, prowadzonej zgodnie z przepisami wydanymi przez Ministra Obrony Narodowej na podstawie art. 30 ust. 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2020 r. poz. 849 oraz z 2022 r. poz. 64 i 974).
@@ -69,7 +70,7 @@ b) występowania cech zaburzeń adaptacyjnych lub innych związanych z udziałem
 1) podmioty lecznicze w formie jednostek budżetowych oraz jednostek wojskowych utworzone na podstawie art. 83 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974 i 1079);
 2) jednostki organizacyjne uczelni wojskowych w zakresie, w jakim są uprawnione do udzielania świadczeń opieki zdrowotnej.
 2. Badania lekarskie żołnierzy zawodowych skierowanych do służby poza granicami państwa przed wyjazdem z kraju i po powrocie do kraju wykonują lub zlecają ich wykonanie wojskowe komisje lekarskie.
-3. Badania psychologiczne żołnierzy zawodowych w trakcie szkoleń poligonowych, ćwiczeń wojskowych (rejsów, lotów) i zgrupowań wojskowych oraz w przypadku użycia oddziałów i pododdziałów Sił Zbrojnych do wsparcia organów administracji publicznej wykonują psycholodzy jednostek wojskowych, a jeżeli ich nie ma w jednostce wojskowej psycholodzy wojskowych centrów rekrutacji.
+3. Badania psychologiczne żołnierzy zawodowych w trakcie szkoleń poligonowych, ćwiczeń wojskowych (rejsów, lotów) i zgrupowań wojskowych oraz w przypadku użycia oddziałów i pododdziałów Sił Zbrojnych do wsparcia organów administracji publicznej wykonują psycholodzy jednostek wojskowych, a jeżeli ich nie ma w jednostce wojskowej – psycholodzy wojskowych centrów rekrutacji.
 § 7. 1. W celu zapewnienia poprawności wystawiania recept osobom uprawnionym, ordynacji leków i wyrobów medycznych oraz prowadzenia racjonalnej gospodarki lekami w jednostce wojskowej Wojskowa Inspekcja Farmaceutyczna przeprowadza kontrole w trybie zwykłym lub uproszczonym na zasadach określonych w ustawie z dnia 15 lipca 2011 r.
 o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224) w zakresie zaopatrzenia żołnierzy zawodowych w produkty lecznicze określone w wykazach, o których mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2022 r. poz. 463, 583 i 974), a także w produkty lecznicze oznaczone symbolem OTC i wyroby medyczne.
 2. Kontrole przeprowadza się w sposób planowy albo doraźnie na wniosek organów finansowych pokrywających koszty produktów leczniczych oraz wyrobów medycznych nabytych bezpłatnie przez żołnierzy zawodowych.
@@ -83,14 +84,15 @@ o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224) w zakresie zaop
 4. Realizacja badań w sposób określony w ust. 3 odbywa się po uzgodnieniu przez kierownika podmiotu leczniczego miejsca i terminu przeprowadzenia badań z dowódcą jednostki wojskowej przygotowującej żołnierza do służby poza granicami państwa oraz poinformowaniu kierownika komórki organizacyjnej właściwej do spraw zdrowia.
 5. Sposób pobierania materiału genetycznego jest określony w załączniku nr 6 do rozporządzenia.
 6. Sposób przechowywania materiału genetycznego jest określony w załączniku nr 7 do rozporządzenia.
-7. Komisja niszczy pobrany materiał genetyczny najpóźniej w terminie 6 miesięcy od zwolnienia żołnierza zawodowe8. Kierownik komórki organizacyjnej właściwej do spraw zdrowia, w porozumieniu z kierownikiem komórki organizacyjnej właściwej do spraw kadr, ustala wykaz próbek do niszczenia na podstawie danych z ewidencji wojskowej dotyczących żołnierzy, którzy zakończyli pełnienie zawodowej służby wojskowej.
+7. Komisja niszczy pobrany materiał genetyczny najpóźniej w terminie 6 miesięcy od zwolnienia żołnierza zawodowego ze służby.
+8. Kierownik komórki organizacyjnej właściwej do spraw zdrowia, w porozumieniu z kierownikiem komórki organizacyjnej właściwej do spraw kadr, ustala wykaz próbek do niszczenia na podstawie danych z ewidencji wojskowej dotyczących żołnierzy, którzy zakończyli pełnienie zawodowej służby wojskowej.
 9. Niszczenie materiału genetycznego odbywa się zgodnie z procedurą, która jest określona w załączniku nr 8 do rozporządzenia.
 10. Wzór protokołu zapakowania materiału genetycznego jest określony w załączniku nr 9 do rozporządzenia.
 11. Wzór protokołu spalenia materiału genetycznego jest określony w załączniku nr 10 do rozporządzenia.
 § 9. 1. Zakres bezpłatnych badań lekarskich żołnierzy zawodowych skierowanych do służby poza granicami państwa, które są przeprowadzane przed wyjazdem z kraju, obejmuje:
 1) wywiad lekarski przed skierowaniem do służby poza granicami państwa;
 2) ogólne badanie lekarskie;
-3) badania specjalistyczne: internistyczne, dermatologiczne, neurologiczne, laryngologiczne, okulistyczne, ortopedyczne, psychiatryczne w powiązaniu z opinią psychologiczną, a przy kwalifikacji żołnierza kobiety także ginekologiczne;
+3) badania specjalistyczne: internistyczne, dermatologiczne, neurologiczne, laryngologiczne, okulistyczne, ortopedyczne, psychiatryczne w powiązaniu z opinią psychologiczną, a przy kwalifikacji żołnierza kobiety – także ginekologiczne;
 4) badania diagnostyczne:
 a) badanie radiologiczne klatki piersiowej według wskazań lekarskich,
 b) badanie elektrokardiograficzne (EKG),
@@ -105,15 +107,16 @@ j) badania serologiczne na obecność antygenu HBs oraz przeciwciał anty- HIV i
 k) badanie mikroskopowe kału na obecność pasożytów przewodu pokarmowego wykonane z wykorzystaniem metody preparatu bezpośredniego, preparatu zagęszczonego metodą sedymentacji i metodą flotacji,
 l) badanie na nosicielstwo pałeczek Salmonella i Shigella,
 m) próbę ciążową u żołnierza kobiety;
-5) badanie dentystyczne z określeniem diagramu uzębienia;
-6) inne badania specjalistyczne i diagnostyczne jeśli lekarz prowadzący uzna takie badania za niezbędne.
+5) badanie dentystyczne – z określeniem diagramu uzębienia;
+6) inne badania specjalistyczne i diagnostyczne – jeśli lekarz prowadzący uzna takie badania za niezbędne.
 2. Wzór wywiadu lekarskiego do badań lekarskich żołnierzy zawodowych skierowanych do służby poza granicami państwa, które są przeprowadzane przed wyjazdem z kraju, jest określony w załączniku nr 11 do rozporządzenia.
 3. Zakres badań lekarskich żołnierzy zawodowych skierowanych do służby poza granicami kraju, które są przeprowadzane po powrocie do kraju, obejmuje:
 1) wywiad epidemiologiczny;
 2) ogólne badanie lekarskie;
-3) badania specjalistyczne: internistyczne, dermatologiczne, neurologiczne, laryngologiczne, okulistyczne, ortopedyczne, psychiatryczne w powiązaniu z opinią psychologiczną, a w przypadku żołnierza kobiety także ginekologiczne;
+3) badania specjalistyczne: internistyczne, dermatologiczne, neurologiczne, laryngologiczne, okulistyczne, ortopedyczne, psychiatryczne w powiązaniu z opinią psychologiczną, a w przypadku żołnierza kobiety – także ginekologiczne;
 4) badania diagnostyczne:
 a) badanie radiologiczne klatki piersiowej,
+b) badanie elektrokardiograficzne (EKG),
 c) badanie audiometryczne,
 d) badanie morfologiczne krwi obwodowej z rozmazem i oznaczeniem liczby płytek krwi,
 e) OB,
@@ -154,13 +157,13 @@ poz. 64, 655 i 974) przez podmiot leczniczy wykonujący i dokumentujący wykonan
 3. Dodatkowe badania kontrolne przeprowadza się na podstawie skierowania lekarza wykonującego badania profilaktyczne.
 4. Zakres dodatkowych badań kontrolnych jest określony w załączniku nr 19 do rozporządzenia.
 § 16. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Obrony Narodowej: z up. W. Skurkiewicz M … W W W W M W W W W W M W WZÓR ZAŚWIADCZENIE WYDAWANE PO BADANIU PSYCHOLOGICZNYM ŻOŁNIERZOWI ZAWODOWEMU SKIEROWANEMU DO SŁUŻBY POZA GRANICAMI PAŃSTWA nr ......../........... r.
+Minister Obrony Narodowej: z up. W. Skurkiewicz … W M W W M M W W W W W W W Załącznik nr 2 WZÓR WZÓR ZAŚWIADCZENIE WYDAWANE PO BADANIU PSYCHOLOGICZNYM ŻOŁNIERZOWI ZAWODOWEMU SKIEROWANEMU DO SŁUŻBY POZA GRANICAMI PAŃSTWA nr ......../........... r.
 Na podstawie badania psychologicznego przeprowadzonego zgodnie z § 4 ust. 1 rozporządzenia Ministra Obrony Narodowej z dnia 5 lipca 2022 r. w sprawie świadczeń zdrowotnych przysługujących żołnierzom zawodowym (Dz. U. poz. 1531) stwierdzam u: Pani/Pana .......................................................................................................................................................
 nr PESEL …...................................................................................................................................................
 1) brak przeciwwskazań psychologicznych do pełnienia służby poza granicami państwa
 2) istnienie przeciwwskazań psychologicznych do pełnienia służby poza granicami państwa UZASADNIENIE .......................................................................................................................................................
 .......................................................................................................................................................
-WZÓR W W W W W M W W W W M W WZÓR ZAŚWIADCZENIE WYDAWANE ŻOŁNIERZOWI ZAWODOWEMU PO BADANIU PSYCHOLOGICZNYM, KTÓRE JEST PRZEPROWADZANE PO ZAKOŃCZENIU SŁUŻBY POZA GRANICAMI PAŃSTWA nr ......../........... r.
+W W M W M W W W W W W W Załącznik nr 4 WZÓR WZÓR ZAŚWIADCZENIE WYDAWANE ŻOŁNIERZOWI ZAWODOWEMU PO BADANIU PSYCHOLOGICZNYM, KTÓRE JEST PRZEPROWADZANE PO ZAKOŃCZENIU SŁUŻBY POZA GRANICAMI PAŃSTWA nr ......../........... r.
 Na podstawie badania psychologicznego przeprowadzonego zgodnie z § 4 ust. 4 rozporządzenia Ministra Obrony Narodowej z dnia 5 lipca 2022 r. w sprawie świadczeń zdrowotnych przysługujących żołnierzom zawodowym (Dz. U. poz. 1531) stwierdzam u: Pani/Pana .......................................................................................................................................................
 nr PESEL .......................................................................................................................................................
 1) brak zaburzeń psychologicznych związanych z pełnieniem służby poza granicami państwa
@@ -169,8 +172,10 @@ nr PESEL .......................................................................
 2) wymaga leczenia specjalistycznego: .....................................................................................................................................................
 3) nie wymaga oddziaływań terapeutycznych UZASADNIENIE .......................................................................................................................................................
 .......................................................................................................................................................
-WZÓR WZÓR ................................., dnia ........... 20... r.
-CERTYFIKAT ZDROWIA NR … żołnierza zawodowego kandydata do służby poza granicami państwa we wszystkich strefach klimatycznych Pan(i) ............................................................................................................................................
+
+## Załącznik nr 5 — WZÓR WZÓR ................................., dnia ........... 20... r.
+
+CERTYFIKAT ZDROWIA NR … żołnierza zawodowego – kandydata do służby poza granicami państwa we wszystkich strefach klimatycznych Pan(i) ............................................................................................................................................
 urodzony(-na) …........................................................................................................................................
 nr PESEL ...........................................................................................................................................
 jest zdolny(-na) do pełnienia służby poza granicami państwa we wszystkich strefach klimatycznych na okres 3 lat od daty wystawienia niniejszego certyfikatu.
@@ -180,7 +185,9 @@ Uwaga: Certyfikat sporządza się w 3 egzemplarzach.
 1 egzemplarz doręcza się kandydatowi.
 1 egzemplarz przesyła się organowi kierującemu.
 1 egzemplarz pozostaje w aktach wojskowej komisji lekarskiej.
-WZÓR SPOSÓB POBIERANIA MATERIAŁU GENETYCZNEGO
+
+## Załącznik nr 6 — SPOSÓB POBIERANIA MATERIAŁU GENETYCZNEGO SPOSÓB POBIERANIA MATERIAŁU GENETYCZNEGO
+
 1. Materiał genetyczny pobiera personel medyczny pracowni właściwych do wykonania badania cytogenetycznego podmiotów leczniczych, dla których podmiotem tworzącym jest Minister Obrony Narodowej.
 2. Materiał genetyczny pobiera personel medyczny pracowni właściwych do wykonania badania cytogenetycznego niżej wymienionych podmiotów leczniczych:
 1) Wojskowy Instytut Medyczny w Warszawie, Pracownia Genetyki Molekularnej Zakładu Patomorfologii;
@@ -194,7 +201,9 @@ WZÓR SPOSÓB POBIERANIA MATERIAŁU GENETYCZNEGO
 9. Materiał pobierany do badań jest traktowany jako zakaźny.
 10. Każdej pobranej próbce i każdemu innemu materiałowi związanemu z tą próbką nadaje się odpowiedni kod kreskowy.
 11. Pracownie właściwe do wykonania badania cytogenetycznego podmiotów leczniczych, dla których podmiotem tworzącym jest Minister Obrony Narodowej, opracowują, wdrażają i stosują procedury pobierania materiału do badań na zasadach określonych w rozporządzeniu Ministra Zdrowia z dnia 23 marca 2006 r. w sprawie standardów jakości dla medycznych laboratoriów diagnostycznych i mikrobiologicznych (Dz. U. z 2019 r. poz. 1923 i 2065, z 2020 r. poz. 464 i 2042 oraz z 2021 r. poz. 747).
-SPOSÓB POBIERANIA MATERIAŁU GENETYCZNEGO SPOSÓB PRZECHOWYWANIA MATERIAŁU GENETYCZNEGO
+
+## Załącznik nr 7 — SPOSÓB PRZECHOWYWANIA MATERIAŁU GENETYCZNEGO SPOSÓB PRZECHOWYWANIA MATERIAŁU GENETYCZNEGO
+
 1. Pomieszczenia pracowni właściwych do wykonania badania cytogenetycznego w podmiotach leczniczych, dla których podmiotem tworzącym jest Minister Obrony Narodowej, muszą spełniać standardy jakości określone w przepisach rozporządzenia Ministra Zdrowia z dnia 23 marca 2006 r. w sprawie standardów jakości dla medycznych laboratoriów diagnostycznych i mikrobiologicznych (Dz. U. z 2019 r. poz. 1923 i 2065, z 2020 r. poz. 464 i 2042 oraz z 2021 r. poz. 747 ).
 2. Materiały biologiczne oraz dokumentacja nie stanowią dokumentacji w rozumieniu przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742 oraz z 2022 r. poz. 655), więc nie należy nadawać im klauzul w rozumieniu tej ustawy.
 3. Pracownia właściwa do wykonania badania cytogenetycznego opracowuje, wdraża i stosuje procedury przechowywania materiału do badania laboratoryjnego dla wykonywanych badań, określające warunki i maksymalny czas przechowywania materiału od jego pozyskania do wykonania badania oraz po wykonaniu badania, z uwzględnieniem w szczególności aktualnej wiedzy medycznej i zaleceń wytwórców wyrobów medycznych, które są stosowane do diagnostyki in vitro.
@@ -208,12 +217,12 @@ SPOSÓB POBIERANIA MATERIAŁU GENETYCZNEGO SPOSÓB PRZECHOWYWANIA MATERIAŁU GEN
 1) księga pracowni;
 2) księga wydanych zaświadczeń;
 3) księga przychodów i rozchodów odczynników.
-9. Indywidualna dokumentacja medyczna dotycząca pobranego materiału genetycznego będzie wydawana osobom skierowanym na badania jedynie na ich wniosek. Dokumentacja SPOSÓB PRZECHOWYWANIA MATERIAŁU GENETYCZNEGO indywidualna będzie wydawana w formie wydruków lub może być przekazana w formie elektronicznej (uwierzytelnionej).
+9. Indywidualna dokumentacja medyczna dotycząca pobranego materiału genetycznego będzie wydawana osobom skierowanym na badania jedynie na ich wniosek. Dokumentacja indywidualna będzie wydawana w formie wydruków lub może być przekazana w formie elektronicznej (uwierzytelnionej).
 10. Dokumentację medyczną należy przechowywać w warunkach odpowiednich do przechowywania materiałów zawierających dane wrażliwe.
-11. Podmioty lecznicze (pracownie) powinny zarządzać dokumentacją medyczną w taki sposób, aby zapewnić jej odpowiednią ochronę w tym warunki zabezpieczające przed zniszczeniem, uszkodzeniem lub utratą i dostępem osób nieupoważnionych, a także umożliwiające wykorzystanie dokumentacji bez zbędnej zwłoki.
+11. Podmioty lecznicze (pracownie) powinny zarządzać dokumentacją medyczną w taki sposób, aby zapewnić jej odpowiednią ochronę – w tym warunki zabezpieczające przed zniszczeniem, uszkodzeniem lub utratą i dostępem osób nieupoważnionych, a także umożliwiające wykorzystanie dokumentacji bez zbędnej zwłoki.
 12. Pobrany materiał będzie przechowywany przez okres pełnienia zawodowej służby wojskowej.
 
-## Załącznik nr 8 — PROCEDURA NISZCZENIA MATERIAŁU GENETYCZNEGO Niszczenie materiału genetycznego odbywa się z zachowaniem następujących zasad:
+## Załącznik nr 8 — PROCEDURA PROCEDURA NISZCZENIA NISZCZENIA MATERIAŁU MATERIAŁU GENETYCZNEGO GENETYCZNEGO Niszczenie materiału genetycznego odbywa się z zachowaniem następujących zasad:
 
 1) w skład materiału genetycznego podlegającego zniszczeniu wchodzą:
 a) wymazówki wraz z indywidualnym kodem identyfikacyjnym żołnierza, od którego pobrano materiał,
@@ -225,7 +234,9 @@ b) wyizolowany materiał wraz z kodem identyfikującym żołnierza, od którego 
 6) przewieziony pojemnik jest spalany w obecności członków komisji przewożących materiał;
 7) po spaleniu osoba wyznaczona przez przewodniczącego komisji sporządza w dwóch egzemplarzach protokół spalenia, który podpisują członkowie komisji obecni przy spaleniu;
 8) po zakończeniu procedury niszczenia jeden egzemplarz protokołów określonych w pkt 3 i 7 jest przekazywany kierownikowi podmiotu leczniczego, a drugi egzemplarz przewodniczący komisji przekazuje dyrektorowi departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia w celu archiwizacji.
-PROCEDURA NISZCZENIA MATERIAŁU GENETYCZNEGO Załącznik nr 9 WZÓR PROTOKÓŁ ZAPAKOWANIA MATERIAŁU GENETYCZNEGO NR ……./…… W dniu …………. r., działając na podstawie procedury niszczenia materiału genetycznego żołnierzy zawodowych, Komisja powołana w składzie:
+
+## Załącznik nr 9 — WZÓR WZÓR PROTOKÓŁ ZAPAKOWANIA MATERIAŁU GENETYCZNEGO NR ……./…… W dniu …………. r., działając na podstawie procedury niszczenia materiału genetycznego żołnierzy zawodowych, Komisja powołana w składzie:
+
 1. ………………………………………………………………………………………….
 2. ………………………………………………………………………………………….
 3. ………………………………………………………………………………………….
@@ -233,11 +244,11 @@ PROCEDURA NISZCZENIA MATERIAŁU GENETYCZNEGO Załącznik nr 9 WZÓR PROTOKÓŁ Z
 5. ……………………………………………………………………………………….…
 6. …………………………………………………………………………………………
 7. ………………………………………………………………………………………….
-zapakowała materiał genetyczny przeznaczony do zniszczenia zgodnie z wykazem ujętym w załączniku do niniejszego protokołu.
+zapakowała materiał genetyczny przeznaczony do zniszczenia – zgodnie z wykazem ujętym w załączniku do niniejszego protokołu.
 W skład materiału genetycznego, który podlega zniszczeniu, wchodzą:
 1. wymazówka wraz z indywidualnym kodem identyfikującym żołnierza, od którego pobrano materiał genetyczny;
 2. wyizolowane DNA wraz z kodem identyfikującym żołnierza, od którego pobrano materiał genetyczny.
-Powyższy materiał zapakowano do ………… worków foliowych, a następnie do pojemników, które opisano kolejno numerami zgodnie z procedurą segregacji materiałów zakaźnych.
+Powyższy materiał zapakowano do ………… worków foliowych, a następnie do pojemników, które opisano kolejno numerami – zgodnie z procedurą segregacji materiałów zakaźnych.
 Pakowanie odbyło się w ……………………….……………………………….....………………………………..…… Pojemniki szczelnie zamknięto i zapieczętowano.
 Podpisy członków Komisji:
 1. ……………………………
@@ -246,7 +257,7 @@ Podpisy członków Komisji:
 4. ……………………………
 5. ……………………………
 6. ……………………………
-7. …………………………… WZÓR ZAŁĄCZNIK DO PROTOKOŁU ZAPAKOWANIA MATERIAŁU GENETYCZNEGO Załącznik nr 10 WZÓR PROTOKÓŁ SPALENIA MATERIAŁU GENETYCZNEGO W dniu ………….. r., działając na podstawie procedury niszczenia materiału genetycznego żołnierzy zawodowych, Komisja powołana w składzie:
+7. …………………………… ZAŁĄCZNIK DO PROTOKOŁU ZAPAKOWANIA MATERIAŁU GENETYCZNEGO Załącznik nr 10 WZÓR WZÓR PROTOKÓŁ SPALENIA MATERIAŁU GENETYCZNEGO W dniu ………….. r., działając na podstawie procedury niszczenia materiału genetycznego żołnierzy zawodowych, Komisja powołana w składzie:
 1. ………………………………………………………………………………………….
 2. ………………………………………………………………………………………….
 przewiozła zapakowany materiał genetyczny przeznaczony do zniszczenia do miejsca niszczenia odpadów: ………………….………………………………………………………………………………..
@@ -255,7 +266,7 @@ Podpisy członków Komisji:
 1. ……………………………
 2. ……………………………
 3. ……………………………
-4. …………………………… Pieczęć i podpis przedstawiciela zakładu utylizacji odpadów: …………………………… WZÓR WZÓR Wywiad lekarski do badań lekarskich żołnierzy zawodowych skierowanych do służby poza granicami państwa, które są przeprowadzane przed wyjazdem z kraju Nazwisko i imię: ..........................................................................................................................
+4. …………………………… Pieczęć i podpis przedstawiciela zakładu utylizacji odpadów: …………………………… Załącznik nr 11 WZÓR WZÓR Wywiad lekarski do badań lekarskich żołnierzy zawodowych skierowanych do służby poza granicami państwa, które są przeprowadzane przed wyjazdem z kraju Nazwisko i imię: ..........................................................................................................................
 Nr PESEL: ....................................................................................................................................
 Stopień wojskowy: .......................................................................................................................
 Aktualny przydział służbowy : .....................................................................................................
@@ -277,7 +288,6 @@ Planowany charakter służby (specjalność wojskowa):
 3. Czy uległ(a) Pan/Pani wypadkowi / leżał(a) w szpitalu / był(a)/operowany(-na) ?
 TAK/NIE . Jeśli tak, proszę podać kiedy i z jakiego powodu (uraz, choroba lub inne): ...................................................................................................................................................
 ...................................................................................................................................................
-WZÓR
 4. Czy leczył(a) się Pan/Pani w poradni (przychodni) specjalistycznej i w związku z tym, czy posiada Pan/Pani jakąkolwiek dokumentację medyczną z tego leczenia? TAK/NIE . Jeśli tak, proszę podać nazwę i siedzibę poradni (przychodni) oraz rodzaj schorzenia: ...................................................................................................................................................
 ...................................................................................................................................................
 5. Czy korzystał(a) Pan/Pani z ulg z tytułu złego stanu zdrowia i pobierał(a) jakiekolwiek zasiłki lub renty z tytułu inwalidztwa czy złego stanu zdrowia? TAK/NIE . Jeśli tak, proszę podać rodzaj i nazwę ulgi oraz czasokres jej pobierania, czasokres pobieranego świadczenia i organ, który to świadczenie przyznał: ..................................................................................................................................................
@@ -294,7 +304,9 @@ WZÓR
 .............................................
 .............................................
 ..............................................
-WZÓR Data .........................
+
+## Załącznik nr 12 — WZÓR WZÓR Data .........................
+
 Nazwa wojskowej komisji lekarskiej KARTA badań lekarskich nr ……….
 żołnierzy zawodowych skierowanych do służby poza granicami państwa, które są przeprowadzane przed wyjazdem z kraju / po powrocie do kraju
 1. Nazwisko i imię oraz imię ojca: ……………………………
@@ -311,7 +323,7 @@ ____________________________________________________________
 (data badania i podpis lekarza) ____________________________________________________________
 2. Konsultacja …………………..
 ..............................................
-(data badania i podpis lekarza) WZÓR __________________________________________________________
+(data badania i podpis lekarza) __________________________________________________________
 3. Konsultacja ……………………..
 ................................................
 (data badania i podpis lekarza) ____________________________________________________________
@@ -339,7 +351,9 @@ data badania i podpis lekarza) _________________________________________________
 11. Konsultacja ……………………..
 ................................................
 (data badania i podpis lekarza) Niepotrzebne skreślić.
-WZÓR WYWIAD EPIDEMIOLOGICZNY DLA ŻOŁNIERZY ZAWODOWYCH PO ZAKOŃCZENIU SŁUŻBY POZA GRANICAMI PAŃSTWA WZÓR WYKAZ ZALECANYCH SZCZEPIEŃ OCHRONNYCH Szczepienia przeciw:
+
+## Załącznik nr 13 — WZÓR WZÓR WYWIAD EPIDEMIOLOGICZNY DLA ŻOŁNIERZY ZAWODOWYCH PO ZAKOŃCZENIU SŁUŻBY POZA GRANICAMI PAŃSTWA Załącznik nr 14 WYKAZ WYKAZ ZALECANYCH ZALECANYCH SZCZEPIEŃ SZCZEPIEŃ OCHRONNYCH OCHRONNYCH Szczepienia przeciw:
+
 1) tężcowi,
 2) błonicy,
 3) durowi brzusznemu,
@@ -361,10 +375,12 @@ WZÓR WYWIAD EPIDEMIOLOGICZNY DLA ŻOŁNIERZY ZAWODOWYCH PO ZAKOŃCZENIU SŁUŻB
 19) cholerze,
 20) ospie prawdziwej,
 21) dżumie,
-22) jadowi kiełbasianemu podanie antytoksyny,
+22) jadowi kiełbasianemu – podanie antytoksyny,
 23) zakażeniom wywołanym przez Streptococcus pneumoniae,
-24) zakażeniom wywołanym przez wirus ebola prowadzi się u osób narażonych na działanie takiego biologicznego czynnika chorobotwórczego, który może wywołać chorobę zakaźną, o której mowa w pkt 1–24.
-WYKAZ ZALECANYCH SZCZEPIEŃ OCHRONNYCH RAMOWY PROGRAM TURNUSU LECZNICZO-PROFILAKTYCZNEGO I. Część ogólna
+24) zakażeniom wywołanym przez wirus ebola – prowadzi się u osób narażonych na działanie takiego biologicznego czynnika chorobotwórczego, który może wywołać chorobę zakaźną, o której mowa w pkt 1–24.
+
+## Załącznik nr 15 — RAMOWY PROGRAM TURNUSU LECZNICZO-PROFILAKTYCZNEGO RAMOWY PROGRAM TURNUSU LECZNICZO-PROFILAKTYCZNEGO I. Część ogólna
+
 1. Turnus prowadzi się zgodnie z programem profilaktyki psychologicznej pt.: „Trening antystresowy”.
 2. Trening antystresowy realizuje się poprzez oddziaływania psychologiczne i zabiegi rehabilitacyjne, z uwzględnieniem potrzeb żołnierzy zawodowych (oraz pełnoletnich najbliższych członków rodziny) wynikających z ich aktualnego stanu zdrowia.
 3. Trening antystresowy prowadzą wykwalifikowani psycholodzy kliniczni lub psychoterapeuci i specjaliści leczenia uzdrowiskowego.
@@ -381,13 +397,12 @@ WYKAZ ZALECANYCH SZCZEPIEŃ OCHRONNYCH RAMOWY PROGRAM TURNUSU LECZNICZO-PROFILAK
 9. Zajęcia „Treningu antystresowego” o charakterze psychologicznym powinny się rozpocząć w poniedziałek po południu od sesji zajęć grupowych.
 10. Ostatnia sesja zajęć grupowych odbywa się w piątek przed południem. Po zakończeniu treningu antystresowego uczestnik otrzymuje epikryzę wypisową ze szpitala uzdrowiskowo-rehabilitacyjnego przygotowaną przez specjalistę prowadzącego trening antystresowy.
 11. W czasie trwania turnusu powinny zostać określone godziny przyjęć psychologa, lekarza psychiatry i powinien zostać zapewniony całodobowy kontakt telefoniczny z nimi (w formie dyżuru).
-RAMOWY PROGRAM TURNUSU LECZNICZO-PROFILAKTYCZNEGO
 12. Żołnierz zawodowy może przyjechać na turnus wraz z pełnoletnim najbliższym członkiem rodziny. Pełnoletni najbliższy członek rodziny (osoba towarzysząca) może brać udział w sesjach zajęć grupowych żołnierzy zawodowych, za ich zgodą, oraz w fakultatywnych zajęciach wieczornych. Sugeruje się organizację osobnych zajęć grupowych dla pełnoletnich najbliższych członków rodziny (osób towarzyszących).
-II. Ramowy plan „Treningu antystresowego” Rodzaj zajęć Lp. Dzień przed południem po południu wieczorem 1 niedziela zakwaterowanie zakwaterowanie zakwaterowanie 2 poniedziałek badania lekarskie psychologiczne konsultacje propozycje podmiotu indywidualne prowadzącego turnus 3 wtorek zabiegi rehabilitacyjne, możliwość konsultacji propozycje podmiotu psychoedukacyjne, indywidualnych, prowadzącego turnus zajęcia grupowe, zabiegi rehabilitacyjne relaksacja 4 środa zabiegi rehabilitacyjne, relaksacja, propozycje podmiotu psychoedukacyjne, możliwość konsultacji prowadzącego turnus zajęcia grupowe indywidualnych, zabiegi rehabilitacyjne 5 czwartek zabiegi rehabilitacyjne relaksacja, propozycje podmiotu możliwość konsultacji prowadzącego turnus indywidualnych zabiegi rehabilitacyjne 6 piątek zabiegi rehabilitacyjne, relaksacja, propozycje podmiotu psychoedukacyjne, możliwość konsultacji prowadzącego turnus zajęcia grupowe indywidualnych, zabiegi rehabilitacyjne 7 sobota propozycje organizatora propozycje organizatora propozycje podmiotu prowadzącego turnus 8 niedziela propozycje organizatora propozycje organizatora propozycje podmiotu prowadzącego turnus 9 poniedziałek zabiegi rehabilitacyjne, relaksacja, propozycje podmiotu psychoedukacyjne, możliwość konsultacji prowadzącego turnus zajęcia grupowe indywidualnych, zabiegi rehabilitacyjne 10 wtorek zabiegi rehabilitacyjne relaksacja, możliwość konsultacji indywidualnych, zabiegi rehabilitacyjne propozycje podmiotu prowadzącego turnus 11 środa zabiegi rehabilitacyjne, relaksacja, propozycje podmiotu psychologiczne, możliwość konsultacji prowadzącego turnus zajęcia grupowe indywidualnych zabiegi rehabilitacyjne 12 czwartek zabiegi rehabilitacyjne relaksacja, propozycje podmiotu możliwość konsultacji prowadzącego turnus indywidualnych, zabiegi rehabilitacyjne 13 piątek zabiegi rehabilitacyjne, relaksacja, propozycje podmiotu relaksacja możliwość konsultacji prowadzącego turnus indywidualnych, zabiegi rehabilitacyjne 14 sobota wyjazd wyjazd wyjazd
+II. Ramowy plan „Treningu antystresowego” Rodzaj zajęć Lp. Dzień przed południem po południu wieczorem 1 niedziela zakwaterowanie zakwaterowanie zakwaterowanie 2 poniedziałek badania lekarskie psychologiczne konsultacje propozycje podmiotu indywidualne prowadzącego turnus 3 wtorek zabiegi rehabilitacyjne, możliwość konsultacji propozycje podmiotu psychoedukacyjne, indywidualnych, prowadzącego turnus zajęcia grupowe, zabiegi rehabilitacyjne relaksacja 4 środa zabiegi rehabilitacyjne, relaksacja, propozycje podmiotu psychoedukacyjne, możliwość konsultacji prowadzącego turnus zajęcia grupowe indywidualnych, zabiegi rehabilitacyjne 5 czwartek zabiegi rehabilitacyjne relaksacja, propozycje podmiotu możliwość konsultacji prowadzącego turnus indywidualnych zabiegi rehabilitacyjne 6 piątek zabiegi rehabilitacyjne, relaksacja, propozycje podmiotu psychoedukacyjne, możliwość konsultacji prowadzącego turnus zajęcia grupowe indywidualnych, zabiegi rehabilitacyjne 7 sobota propozycje organizatora propozycje organizatora propozycje podmiotu prowadzącego turnus 8 niedziela propozycje organizatora propozycje organizatora propozycje podmiotu prowadzącego turnus 9 poniedziałek zabiegi rehabilitacyjne, relaksacja, propozycje podmiotu psychoedukacyjne, możliwość konsultacji prowadzącego turnus zajęcia grupowe indywidualnych, zabiegi rehabilitacyjne 10 wtorek zabiegi rehabilitacyjne relaksacja, propozycje podmiotu możliwość konsultacji prowadzącego turnus indywidualnych, zabiegi rehabilitacyjne 11 środa zabiegi rehabilitacyjne, relaksacja, propozycje podmiotu psychologiczne, możliwość konsultacji prowadzącego turnus zajęcia grupowe indywidualnych zabiegi rehabilitacyjne 12 czwartek zabiegi rehabilitacyjne relaksacja, propozycje podmiotu możliwość konsultacji prowadzącego turnus indywidualnych, zabiegi rehabilitacyjne 13 piątek zabiegi rehabilitacyjne, relaksacja, propozycje podmiotu relaksacja możliwość konsultacji prowadzącego turnus indywidualnych, zabiegi rehabilitacyjne 14 sobota wyjazd wyjazd wyjazd
 1. Istnieje możliwość zamiany zajęć przedpołudniowych z popołudniowymi, ale w sposób, który nie zmieni ogólnej liczby sesji zajęć grupowych (10) i relaksacyjnych (10).
 2. Pozostała część dnia powinna być wypełniona innymi możliwymi zabiegami relaksacyjno-rehabilitacyjnymi (tj. masaże, basen i inne zabiegi związane z dostępnym dla szpitala zapleczem) czy zaleceniami medycznymi.
 3. Wieczorna część turnusu powinna być zorganizowana przez instruktorów kulturalno-oświatowych w sposób umożliwiający uczestnikom turnusu fakultatywne uczestnictwo np. w spotkaniach zapoznawczych, tanecznych, zawodach, meczach, wycieczkach, projekcjach filmów, wyjściu do kina lub do teatru, ognisku itp. Zaleca się wcześniejsze zorganizowanie i zaplanowanie propozycji, aby mogły być one przedstawione pierwszego dnia w postaci harmonogramu pobytu.
-4. Każdy uczestnik turnusu „Trening antystresowy” powinien wziąć udział w indywidualnej konsultacji z psychologiem (na początku i pod koniec turnusu), a przez cały czas trwania turnusu mieć możliwość umówienia się na taką konsultację.
+4. Każdy uczestnik turnusu „Trening antystresowy” powinien wziąć udział w indywidualnej konsultacji z psychologiem (na początku i pod koniec turnusu), a przez cały czas trwania turnusu – mieć możliwość umówienia się na taką konsultację.
 III. Ogólna charakterystyka sesji psychologicznych zajęć grupowych
 1. W czasie trwania turnusu odbywa się 5 sesji zajęć grupowych.
 2. Każda sesja powinna trwać co najmniej 3 godziny.
@@ -402,7 +417,7 @@ IV. Ogólna charakterystyka sesji relaksacyjnych
 4. Sesje relaksacyjne mogą być zaplanowane wymiennie, ale zaleca się co najmniej dwa różne rodzaje zajęć prowadzonych przez dwie różne osoby.
 5. Możliwe jest dwukrotne zastąpienie sesji relaksacyjnych lub połączenie ich z wycieczkami krajoznawczymi lub inną zorganizowaną aktywnością fizyczną lub połączenie tych sesji z tego rodzaju aktywnością.
 6. Sesje relaksacyjne powinien prowadzić psycholog specjalizujący się w pracy z ciałem lub hipnoterapii we współpracy z instruktorem kulturalno-oświatowym, jeżeli realizowane będą zajęcia, o których mowa w pkt 5.
-WZÓR SKIEROWANIE NA TURNUS LECZNICZO-PROFILAKTYCZNY WZÓR WYKAZ CHORÓB I SCHORZEŃ PODLEGAJĄCYCH DYSPANSERYZACJI
+Dziennik Ustaw – 40 – Załącznik nr Poz. 16 1531 WZÓR WZÓR SKIEROWANIE NA TURNUS LECZNICZO-PROFILAKTYCZNY Załącznik nr 17 WYKAZ WYKAZ CHORÓB CHORÓB I SCHORZEŃ I SCHORZEŃ PODLEGAJĄCYCH PODLEGAJĄCYCH DYSPANSERYZACJI DYSPANSERYZACJI
 1. Nadciśnienie tętnicze
 2. Choroba wieńcowa
 3. Stany po zawale mięśnia sercowego
@@ -412,20 +427,21 @@ WZÓR SKIEROWANIE NA TURNUS LECZNICZO-PROFILAKTYCZNY WZÓR WYKAZ CHORÓB I SCHOR
 7. Zespoły korzeniowe rdzenia kręgowego
 8. Zaburzenia nerwicowe i związane ze stresem
 9. Cukrzyca
-10. Przewlekłe stany zapalne nerek i miedniczek nerkowych WYKAZ CHORÓB I SCHORZEŃ PODLEGAJĄCYCH DYSPANSERYZACJI WZÓR KARTA KONTROLNA INTENSYWNEGO NADZORU DYSPANSERYZACYJNEGO Kartę założono dnia: .........................................................................................................................................
+10. Przewlekłe stany zapalne nerek i miedniczek nerkowych Załącznik nr 18 WZÓR WZÓR KARTA KONTROLNA INTENSYWNEGO NADZORU DYSPANSERYZACYJNEGO Kartę założono dnia: .........................................................................................................................................
 Stopień, nazwisko i imię: ...........................................................................................................................
 Nr PESEL: ........................................................................................................................................
-WZÓR ZAKRES DODATKOWYCH BADAŃ KONTROLNYCH
-1. Nadciśnienie tętnicze: EKG, badanie dna oka, RR na obu przedramionach, morfologia, mocz badanie ogólne.
+
+## Załącznik nr 19 — ZAKRES DODATKOWYCH BADAŃ KONTROLNYCH ZAKRES DODATKOWYCH BADAŃ KONTROLNYCH
+
+1. Nadciśnienie tętnicze: EKG, badanie dna oka, RR na obu przedramionach, morfologia, mocz – badanie ogólne.
 2. Choroba wieńcowa: EKG, profil lipidowy, czas i wskaźnik protrombinowy, PT, INR, CK-MB, troponina, konsultacja kardiologa, próba wysiłkowa, echo serca.
 3. Stany po zawale mięśnia sercowego: echo serca, EKG, profil lipidowy, konsultacja kardiologa, próba wysiłkowa.
 4. Przewlekłe choroby dróg oddechowych i stany po przebyciu gruźlicy: RTG klatki piersiowej, posiew plwociny, spirometria, konsultacja pulmonologiczna.
-5. Choroba wrzodowa żołądka i dwunastnicy, w tym przewlekłe nieżyty żołądka: kał na krew utajoną, kał na pasożyty, morfologia, OB, mocz badanie ogólne, konsultacja gastrologa, RTG przewodu pokarmowego, gastroskopia gastrofiberoskopia.
-6. Zmiany zapalne i zwyrodnieniowe stawów: ASO, RF czynnik reumatoidalny, EKG.
+5. Choroba wrzodowa żołądka i dwunastnicy, w tym przewlekłe nieżyty żołądka: kał na krew utajoną, kał na pasożyty, morfologia, OB, mocz – badanie ogólne, konsultacja gastrologa, RTG przewodu pokarmowego, gastroskopia – gastrofiberoskopia.
+6. Zmiany zapalne i zwyrodnieniowe stawów: ASO, RF – czynnik reumatoidalny, EKG.
 7. Zespoły korzeniowe rdzenia kręgowego: RTG kręgosłupa, konsultacja neurologa, tomografia komputerowa kręgosłupa, rezonans magnetyczny kręgosłupa.
 8. Zaburzenia nerwicowe i związane ze stresem: konsultacja psychologiczna i psychiatryczna.
-9. Cukrzyca: badanie poziomu cukru we krwi na czczo, konsultacja okulisty dno oka, kontrola RR, konsultacja diabetologa, profil lipidowy, USG jamy brzusznej.
-10. Przewlekłe stany zapalne nerek i miedniczek nerkowych: mocz badanie ogólne, posiew moczu, USG jamy brzusznej, konsultacja nefrologa, urografia, scyntygrafia.
+9. Cukrzyca: badanie poziomu cukru we krwi na czczo, konsultacja okulisty – dno oka, kontrola RR, konsultacja diabetologa, profil lipidowy, USG jamy brzusznej.
+10. Przewlekłe stany zapalne nerek i miedniczek nerkowych: mocz – badanie ogólne, posiew moczu, USG jamy brzusznej, konsultacja nefrologa, urografia, scyntygrafia.
 11. Inne badania specjalistyczne i diagnostyczne, jeśli lekarz specjalista uzna takie badania za niezbędne.
-ZAKRES DODATKOWYCH BADAŃ KONTROLNYCH
 

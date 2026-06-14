@@ -8,7 +8,7 @@ pos: 1087
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o leczeniu niepłodności
@@ -32,6 +32,12 @@ Art. 91–93. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady ochrony zarodka i komórek rozrodczych w odniesieniu do ich zastosowania w biologii i medycynie w związku z leczeniem niepłodności;
+- **2)** sposoby leczenia niepłodności, w tym stosowania procedury medycznie wspomaganej prokreacji;
+- **3)** zadania władz publicznych w zakresie ochrony i promocji zdrowia rozrodczego;
+- **4)** warunki dawstwa, pobierania, przetwarzania, testowania, przechowywania i dystrybucji komórek rozrodczych oraz zarodków przeznaczonych do zastosowania w procedurze medycznie wspomaganej prokreacji;
+- **5)** zasady funkcjonowania ośrodków medycznie wspomaganej prokreacji oraz banków komórek rozrodczych i zarodków.
 
 **Art. 2.**
 
@@ -125,7 +131,16 @@ Art. 91–93. (pominięte)
 
 **Art. 12.** Centrum leczenia niepłodności:
 
+- **1)** rozwija i popularyzuje wiedzę na temat nowych technologii medycznych oraz metod diagnozowania i leczenia niepłodności;
+- **2)** współpracuje z jednostkami samorządu terytorialnego w zakresie ochrony i promocji zdrowia rozrodczego;
+- **3)** przygotowuje, na wniosek ministra właściwego do spraw zdrowia, analizę wpływu świadczenia opieki zdrowotnej z zakresu leczenia niepłodności na stan zdrowia pacjentów i jego kosztów w celu przygotowania raportu w sprawie oceny świadczenia opieki zdrowotnej zgodnie z przepisami o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **4)** przygotowuje, na wniosek ministra właściwego do spraw zdrowia, analizy wyników skuteczności leczenia niepłodności.
+
 **Art. 13.** Status centrum leczenia niepłodności może uzyskać podmiot leczniczy prowadzący łącznie:
+
+- **1)** bank komórek rozrodczych i zarodków;
+- **2)** działalność z zakresu leczenia niepłodności wszystkimi metodami, o których mowa w art. 5, w tym ośrodek medycznie wspomaganej prokreacji;
+- **3)** działalność dydaktyczną i badawczą w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia, w tym wdrażaniem nowych technologii medycznych oraz metod diagnozowania i leczenia niepłodności.
 
 **Art. 14.**
 
@@ -143,11 +158,20 @@ Art. 91–93. (pominięte)
 
 **Art. 15.** Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Rady do spraw Leczenia Niepłodności, cofa, w drodze decyzji administracyjnej, status centrum leczenia niepłodności w przypadku:
 
+- **1)** utraty pozwolenia, o którym mowa w art. 48 ust. 1;
+- **2)** zaprzestania działalności z zakresu leczenia niepłodności w zakresie którejkolwiek z metod, o których mowa w art. 5;
+- **3)** zaprzestania działalności dydaktycznej i badawczej w powiązaniu z udzielaniem świadczeń zdrowotnych i promocją zdrowia, w tym wdrażaniem nowych technologii medycznych oraz metod diagnozowania i leczenia niepłodności.
+
 **Art. 16.** Minister właściwy do spraw zdrowia prowadzi wykaz centrów leczenia niepłodności i aktualizuje go na bieżąco poprzez publikację na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia.
 
 #### Rozdział 3 Postępowanie z komórkami rozrodczymi i zarodkami w procedurze medycznie wspomaganej prokreacji
 
 **Art. 17.** Zastosowanie komórek rozrodczych i zarodków w procedurze medycznie wspomaganej prokreacji polega na:
+
+- **1)** przeniesieniu męskich komórek rozrodczych do organizmu biorczyni;
+- **2)** pozaustrojowym utworzeniu zarodków (zapłodnienie pozaustrojowe);
+- **3)** testowaniu komórek rozrodczych i zarodków;
+- **4)** przeniesieniu utworzonych zarodków do organizmu biorczyni.
 
 **Art. 18.**
 
@@ -195,6 +219,10 @@ Art. 91–93. (pominięte)
 - **2)** śmierci obojga dawców zarodka albo, jeżeli zarodek został utworzony w wyniku dawstwa innego niż partnerskie – śmierci biorczyni i jej męża lub osoby pozostającej z nią we wspólnym pożyciu – są przekazywane do dawstwa zarodka.
 
 **Art. 22.** Niedopuszczalne jest przeniesienie zarodków przekazanych w celu dawstwa zarodka do organizmu biorczyni, jeżeli:
+
+- **1)** dawcy zarodków, w formie pisemnej, wycofali zgodę na przekazanie zarodków;
+- **2)** biorczyni, w formie pisemnej, wycofała zgodę na przeniesienie zarodka; w przypadku gdy biorczyni pozostaje w związku małżeńskim, niedopuszczalne jest przeniesienie zarodka, jeżeli jej mąż nie wyraził zgody na przeniesienie zarodka;
+- **3)** istnieją przeciwwskazania medyczne do przeniesienia zarodków do organizmu biorczyni.
 
 **Art. 23.**
 
@@ -373,6 +401,10 @@ Art. 91–93. (pominięte)
 
 **Art. 35.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** sposób orzekania o stanie zdrowia kandydata na dawcę komórek rozrodczych w celu dawstwa partnerskiego i dawstwa innego niż partnerskie oraz o stanie zdrowia biorczyni komórek rozrodczych i zarodków,
+- **2)** wykaz badań lekarskich i laboratoryjnych, jakim powinni podlegać kandydat na dawcę komórek rozrodczych w celu dawstwa partnerskiego i dawstwa innego niż partnerskie, z uwzględnieniem również dawstwa do bezpośredniego użycia, oraz w celu zabezpieczenia płodności na przyszłość, oraz biorczyni komórek rozrodczych i zarodków,
+- **3)** szczegółowe warunki pobierania komórek rozrodczych w celu zastosowania w procedurze medycznie wspomaganej prokreacji – mając na uwadze bezpieczeństwo zdrowotne dawców, biorczyń oraz dzieci urodzonych w wyniku procedury medycznie wspomaganej prokreacji.
+
 **Art. 36.**
 
 1. Dawstwo zarodka jest dopuszczalne przy zachowaniu łącznie następujących warunków:
@@ -499,7 +531,15 @@ Art. 91–93. (pominięte)
 
 **Art. 41.** Ośrodek medycznie wspomaganej prokreacji oraz bank komórek rozrodczych i zarodków są obowiązane:
 
+- **1)** prowadzić walidację wszystkich procesów,
+- **2)** określać krytyczne momenty wszystkich procesów, które muszą być kontrolowane w oparciu o wyznaczone kryteria akceptacji,
+- **3)** prowadzić kwalifikację sprzętu, urządzeń technicznych i środowiska przebiegającego procesu rozumianą jako udokumentowane działanie mające na celu wykazanie, że sprzęt lub urządzenia są odpowiednio zainstalowane i pracują właściwie, również dla właściwego utrzymania środowiska przebiegającego procesu – w celu zapewnienia jakości i bezpieczeństwa wymaganych dla komórek rozrodczych lub dla zarodka oraz uzyskania oczekiwanych wyników.
+
 **Art. 42.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** sposób tworzenia niepowtarzalnego oznakowania umożliwiającego identyfikację dawcy komórek rozrodczych i zarodków oraz sposób oznaczania za pomocą tego oznakowania komórek rozrodczych i zarodków, a także wyrobów medycznych i materiałów mających bezpośredni kontakt z komórkami rozrodczymi lub zarodkami,
+- **2)** szczegółowe wymagania w zakresie monitorowania, o którym mowa w art. 40 ust. 3,
+- **3)** tryb postępowania podejmowanego przez ośrodek medycznie wspomaganej prokreacji oraz bank komórek rozrodczych i zarodków w przypadku zaistnienia istotnego zdarzenia niepożądanego lub istotnej niepożądanej reakcji – uwzględniając konieczność zapewnienia możliwości śledzenia i nadzorowania całości postępowania z komórkami rozrodczymi i zarodkami i identyfikowania zaangażowanych w nie podmiotów dla zapewnienia bezpieczeństwa zdrowotnego biorczyń i dziecka urodzonego w wyniku medycznie wspomaganej prokreacji.
 
 **Art. 43.**
 
@@ -824,13 +864,41 @@ Art. 91–93. (pominięte)
 
 **Art. 64.** Jednostki, w których odbywają się szkolenia, o których mowa w art. 60 ust. 1, powinny spełniać odpowiednie wymagania:
 
+- **1)** zapewnić bazę dydaktyczną dostosowaną do liczby osób uczestniczących w szkoleniach;
+- **2)** zapewnić odpowiednią kadrę dydaktyczną;
+- **3)** zapewnić sprawną organizację szkolenia;
+- **4)** uwzględniać przy opracowywaniu programu szkolenia aktualną wiedzę naukową, osiągnięcia teorii i praktyki oraz zweryfikowane wyniki badań naukowych.
+
 **Art. 65.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** ramowe programy szkoleń, o których mowa w art. 60 ust. 1,
+- **2)** sposób dokumentowania ich przebiegu,
+- **3)** wzór zaświadczenia o odbytym szkoleniu,
+- **4)** szczegółowe wymagania wobec jednostek, w których odbywają się szkolenia – uwzględniając konieczność osiągnięcia celów, o których mowa w art. 60 ust. 2, dane, o których mowa w art. 63 ust. 2, i konieczność zapewnienia czytelności zaświadczenia o odbytym szkoleniu oraz dobrego przygotowania do zadań, które mają wpływ na jakość i bezpieczeństwo postępowania z komórkami rozrodczymi i zarodkami, osób zatrudnionych w ośrodkach medycznie wspomaganej prokreacji i bankach komórek rozrodczych i zarodków.
 
 #### Rozdział 10 Zadania ministra właściwego do spraw zdrowia, w tym w zakresie kontroli i nadzoru
 
 **Art. 66.** Do zadań ministra właściwego do spraw zdrowia należy:
 
+- **1)** sprawowanie nadzoru nad stosowaniem przepisów ustawy;
+- **2)** prowadzenie rejestru;
+- **3)** prowadzenie rejestru ośrodków medycznie wspomaganej prokreacji i banków komórek rozrodczych i zarodków;
+- **4)** sprawowanie nadzoru i kontroli nad ośrodkami medycznie wspomaganej prokreacji, bankami komórek rozrodczych i zarodków i centrami leczenia niepłodności pod względem merytorycznym;
+- **5)** wydawanie pozwoleń, o których mowa w art. 48 ust. 1 i art. 57 ust. 1;
+- **6)** upowszechnianie standardów medycznych oraz zasad deontologicznych w zakresie medycznie wspomaganej prokreacji;
+- **7)** prowadzenie analizy sytuacji epidemiologicznej w aspekcie niepłodności oraz analizy dostępności leczenia niepłodności, w tym skuteczności i bezpieczeństwa świadczonego leczenia;
+- **8)** współdziałanie z innymi podmiotami krajowymi i zagranicznymi, których celem działalności jest rozwój medycznie wspomaganej prokreacji;
+- **9)** akredytowanie jednostek, o których mowa w art. 60 ust. 1;
+- **10)** prowadzenie list osób, które odbyły szkolenia, o których mowa w art. 60 ust. 1.
+
 **Art. 67.** W ramach nadzoru, o którym mowa w art. 66 pkt 1, minister właściwy do spraw zdrowia w szczególności:
+
+- **1)** przedstawia Komisji Europejskiej corocznie, w terminie do dnia 30 czerwca, sprawozdanie roczne dotyczące powiadamiania o istotnych zdarzeniach niepożądanych i istotnych niepożądanych reakcjach w zakresie pobierania, testowania, przetwarzania, przechowywania, dystrybucji i stosowania komórek rozrodczych i zarodków u ludzi w procedurze medycznie wspomaganej prokreacji;
+- **2)** kontroluje dokumentowanie i przekazywanie ministrowi właściwemu do spraw zdrowia list osób, które odbyły szkolenia, o których mowa w art. 60 ust. 1;
+- **3)** kontroluje sposób przekazywania danych do rejestru oraz rejestru ośrodków medycznie wspomaganej prokreacji i banków komórek rozrodczych i zarodków;
+- **4)** udziela, odmawia udzielenia i cofa pozwolenia, o których mowa w art. 48 ust. 1 i art. 57 ust. 1;
+- **5)** przeprowadza kontrolę, o której mowa w art. 68, albo zleca jej przeprowadzenie;
+- **6)** udziela informacji pisemnej i przekazuje sprawozdania wynikające z przepisów dyrektywy 2004/23/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie ustalenia norm jakości i bezpiecznego oddawania, pobierania, testowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 102 z 07.04.2004, str. 48), z przepisów dyrektywy Komisji 2006/17/WE z dnia 8 lutego 2006 r. wprowadzającej w życie dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w odniesieniu do niektórych wymagań technicznych dotyczących dawstwa, pobierania i badania tkanek i komórek ludzkich (Dz. Urz. UE L 38 z 09.02.2006, str. 40) oraz dyrektywy Komisji 2006/86/WE z dnia 24 października 2006 r. wykonującej dyrektywę 2004/23/WE Parlamentu Europejskiego i Rady w zakresie wymagań dotyczących możliwości śledzenia, powiadamiania o poważnych i niepożądanych reakcjach i zdarzeniach oraz niektórych wymagań technicznych dotyczących kodowania, przetwarzania, konserwowania, przechowywania i dystrybucji tkanek i komórek ludzkich (Dz. Urz. UE L 294 z 25.10.2006, str. 32).
 
 **Art. 68.**
 
@@ -861,6 +929,12 @@ Art. 91–93. (pominięte)
 **Art. 70.** Do przeprowadzania kontroli, o której mowa w art. 68 ust. 1, stosuje się odpowiednio art. 122 ust. 1–5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz przepisy wydane na podstawie art. 122 ust. 6 tej ustawy.
 
 **Art. 71.** Minister właściwy do spraw zdrowia:
+
+- **1)** przedstawia Komisji Europejskiej, raz na 3 lata, sprawozdanie dotyczące sposobu realizacji przepisów dyrektyw, o których mowa w art. 67 pkt 6, na terytorium Rzeczypospolitej Polskiej w zakresie przepisów dotyczących medycznie wspomaganej prokreacji, w szczególności czynności kontrolnych i nadzorczych, w odniesieniu do wymagań określonych przepisami dyrektyw, o których mowa w art. 67 pkt 6;
+- **2)** przeprowadza na umotywowany pisemny wniosek właściwego organu innego państwa członkowskiego Unii Europejskiej kontrolę, o której mowa w art. 68 ust. 1, w przypadku wystąpienia istotnej niepożądanej reakcji lub istotnego zdarzenia niepożądanego w trakcie pobrania, stosowania lub po zastosowaniu komórek rozrodczych i zarodków u ludzi w celu medycznie wspomaganej prokreacji;
+- **3)** udziela na wniosek Komisji Europejskiej lub właściwego organu innego państwa członkowskiego Unii Europejskiej informacji pisemnej na temat wyników kontroli, o której mowa w art. 68 ust. 1;
+- **4)** zleca Agencji Oceny Technologii Medycznych i Taryfikacji, co 5 lat, przygotowanie raportu w sprawie oceny technologii medycznych stosowanych w procedurze zapłodnienia pozaustrojowego;
+- **5)** przedstawia Sejmowi Rzeczypospolitej Polskiej, co 5 lat, sprawozdanie z wykonywania ustawy oraz o skutkach jej stosowania.
 
 #### Rozdział 11 Rada do spraw Leczenia Niepłodności
 
@@ -893,6 +967,15 @@ Art. 91–93. (pominięte)
 7. W przypadku odwołania członka Rady albo jego śmierci przed upływem kadencji, minister właściwy do spraw zdrowia powołuje nowego członka na okres do końca tej kadencji w trybie ust. 2 i 4, chyba że do końca kadencji pozostało mniej niż 3 miesiące.
 
 **Art. 73.** Do zadań Rady należy:
+
+- **1)** prowadzenie działalności informacyjnej na temat stylu życia chroniącego potencjał rozrodczy człowieka i zwiększającego szanse urodzenia zdrowego dziecka oraz celowości opieki prekoncepcyjnej;
+- **2)** prowadzenie działalności informacyjnej na temat czynników mających wpływ na potencjał rozrodczy człowieka;
+- **3)** prowadzenie działalności informacyjnej na temat możliwości leczenia niepłodności, w tym poprzez stosowanie procedur medycznie wspomaganej prokreacji;
+- **4)** upowszechnianie standardów postępowania oraz zasad deontologicznych w zakresie leczenia niepłodności, w tym stosowania procedur medycznie wspomaganej prokreacji;
+- **5)** opracowywanie dla ministra właściwego do spraw zdrowia i na jego wniosek projektów założeń aktów normatywnych oraz projektów innych dokumentów w zakresie procedury medycznie wspomaganej prokreacji;
+- **6)** opiniowanie projektów założeń aktów normatywnych, projektów aktów normatywnych oraz projektów innych dokumentów w zakresie leczenia niepłodności;
+- **7)** współdziałanie z organizacjami i stowarzyszeniami krajowymi i zagranicznymi, których celem jest promocja zdrowia prokreacyjnego i problematyka leczenia niepłodności, samorządem lekarskim, samorządem pielęgniarek i położnych, samorządem aptekarskim oraz samorządem diagnostów laboratoryjnych;
+- **8)** opiniowanie wniosków o nadanie statusu centrum leczenia niepłodności.
 
 **Art. 74.**
 
@@ -1016,6 +1099,9 @@ Art. 91–93. (pominięte)
 
 **Art. 97.** Zarodki utworzone i przechowywane przed dniem wejścia w życie ustawy są przekazywane do dawstwa zarodka:
 
+- **1)** po upływie 20 lat od dnia wejścia w życie ustawy, chyba że wcześniej zostaną przekazane przez dawców zarodka do dawstwa zarodka;
+- **2)** w przypadku zaistnienia okoliczności, o których mowa w art. 21 ust. 3 pkt 2.
+
 **Art. 98.**
 
 1. Podmioty, które przed dniem wejścia w życie ustawy gromadziły, testowały, przetwarzały, przechowywały, dystrybuowały komórki rozrodcze lub zarodki, dokonywały wywozu komórek rozrodczych lub zarodków z terytorium Rzeczypospolitej Polskiej na terytorium państw innych niż państwa członkowskie Unii Europejskiej lub przywozu komórek rozrodczych lub zarodków na terytorium Rzeczypospolitej Polskiej z terytorium państw innych niż państwa członkowskie Unii Europejskiej, tworzą program postępowania z komórkami rozrodczymi i zarodkami zgromadzonymi do dnia uzyskania pozwolenia, o którym mowa w art. 48 ust. 1, zwany dalej „programem”, w celu ustalenia sposobu postępowania prowadzącego do zapewnienia:
@@ -1051,6 +1137,9 @@ Art. 91–93. (pominięte)
 9. Minister właściwy do spraw zdrowia może przeprowadzać w podmiotach określonych w ust. 1 kontrolę realizacji programu. Do tej kontroli stosuje się odpowiednio art. 122 ust. 1–5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej oraz przepisy wydane na podstawie art. 122 ust. 6 tej ustawy.
 
 **Art. 99.** Minister właściwy do spraw zdrowia po raz pierwszy:
+
+- **1)** zleci przygotowanie raportu, o którym mowa w art. 71 pkt 4,
+- **2)** przedstawi Sejmowi Rzeczypospolitej Polskiej sprawozdanie, o którym mowa w art. 71 pkt 5 – nie później niż 6 miesięcy od upływu 5 lat od dnia wejścia w życie ustawy.
 
 **Art. 100.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
 

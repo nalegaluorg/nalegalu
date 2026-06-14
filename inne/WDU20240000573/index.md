@@ -8,7 +8,7 @@ pos: 573
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zużytym sprzęcie elektrycznym i elektronicznym
@@ -66,6 +66,44 @@ Art. 99–111. (pominięte)
 **Art. 3.** W sprawach dotyczących postępowania ze zużytym sprzętem w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029).
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** decyzjach w zakresie gospodarki odpadami – rozumie się przez to decyzje, o których mowa w art. 41 ustawy z dnia 14 grudnia 2012 r. o odpadach oraz w art. 181 ust. 1 pkt 1 i 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54);
+- **2)** dystrybutorze – rozumie się przez to osobę fizyczną, jednostkę organizacyjną niemającą osobowości prawnej lub osobę prawną w łańcuchu dostaw, która udostępnia na rynku sprzęt; dystrybutor może być jednocześnie wprowadzającym sprzęt;
+- **3)** marszałku województwa – rozumie się przez to w przypadku:
+    - **a)** wprowadzającego sprzęt, autoryzowanego przedstawiciela oraz organizacji odzysku sprzętu elektrycznego i elektronicznego – marszałka województwa właściwego ze względu na ich siedzibę,
+    - **b)** zbierającego zużyty sprzęt, prowadzącego zakład przetwarzania, prowadzącego działalność w zakresie recyklingu, prowadzącego działalność w zakresie innych niż recykling procesów odzysku – marszałka województwa właściwego ze względu na miejsce wykonywania przez nich działalności;
+
+- **4)** numerze rejestrowym – rozumie się przez to numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach;
+- **5)** państwie członkowskim – rozumie się przez to państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską;
+- **6)** PCB – rozumie się przez to PCB w rozumieniu art. 3 ust. 1 pkt 17 ustawy z dnia 14 grudnia 2012 r. o odpadach;
+- **7)** prowadzącym zakład przetwarzania – rozumie się przez to podmiot prowadzący zakład przetwarzania, który posiada decyzję w zakresie gospodarki odpadami zezwalającą na przetwarzanie zużytego sprzętu;
+- **8)** przedsiębiorcy – rozumie się przez to przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236);
+- **9)** publicznej kampanii edukacyjnej – rozumie się przez to każde działanie mające na celu podnoszenie stanu świadomości ekologicznej społeczeństwa oraz wspomaganie osiągnięcia wysokiego poziomu zbierania zużytego sprzętu, obejmujące informowanie o możliwym wpływie zużytego sprzętu na środowisko i zdrowie ludzi oraz o prawidłowym postępowaniu ze zużytym sprzętem, w szczególności o metodach selektywnego zbierania, dostępnych systemach zwrotu oraz roli użytkowników sprzętu w przyczynianiu się do ponownego użycia i odzysku, w tym recyklingu, zużytego sprzętu, w tym kampanie w środkach masowego przekazu, ulotki i broszury informacyjne, plakaty, konkursy, konferencje oraz imprezy o charakterze informacyjno-edukacyjnym;
+- **10)** punkcie serwisowym – rozumie się przez to miejsce, w którym jest wykonywana działalność gospodarcza polegająca na naprawie sprzętu;
+- **11)** producencie – rozumie się przez to osobę fizyczną, jednostkę organizacyjną niemającą osobowości prawnej lub osobę prawną, która, bez względu na wykorzystywaną technikę sprzedaży, w tym za pomocą środków porozumiewania się na odległość:
+    - **a)** ma siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego i produkuje sprzęt pod własną nazwą lub znakiem towarowym lub wprowadza na rynek pod własną nazwą lub znakiem towarowym na terytorium tego państwa członkowskiego sprzęt zaprojektowany lub wyprodukowany dla niego,
+    - **b)** ma siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego i pod własną nazwą lub znakiem towarowym odsprzedaje na terytorium tego państwa członkowskiego sprzęt wytworzony przez inne podmioty; odsprzedającego nie uznaje się za producenta, jeżeli na sprzęcie znajduje się nazwa lub znak towarowy podmiotu, o którym mowa w lit. a albo w pkt 20 lit. a,
+    - **c)** ma siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego i w ramach działalności handlowej, odpłatnie lub nieodpłatnie, dostarcza sprzęt w celu jego dystrybucji, konsumpcji lub używania po raz pierwszy na rynku tego państwa członkowskiego z państwa niebędącego państwem członkowskim lub z innego państwa członkowskiego lub
+    - **d)** ma siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego lub państwa niebędącego państwem członkowskim i sprzedaje sprzęt na terytorium kraju za pomocą środków porozumiewania się na odległość bezpośrednio gospodarstwom domowym lub użytkownikom innym niż gospodarstwa domowe – z tym, że za producenta nie uznaje się podmiotu, który realizuje finansowanie na zasadzie wyłączności w ramach lub zgodnie z umową finansową rozumianą jako każda umowa lub ustalenia dotyczące pożyczki, dzierżawy, najmu lub sprzedaży odroczonej, odnoszące się do jakiegokolwiek sprzętu, bez względu na to, czy warunki tej umowy lub ustaleń albo każdej umowy dodatkowej lub dodatkowych ustaleń przewidują przeniesienie lub możliwość przeniesienia prawa własności do tego sprzętu, chyba że jednocześnie działa on jako producent;
+
+- **12)** siedzibie – rozumie się przez to odpowiednio siedzibę lub miejsce zamieszkania;
+- **13)** sprzęcie – rozumie się przez to urządzenie, którego prawidłowe działanie jest uzależnione od dopływu prądu elektrycznego lub od obecności pól elektromagnetycznych, oraz urządzenie mogące służyć do wytwarzania, przesyłu lub pomiaru prądu elektrycznego lub pól elektromagnetycznych, które są zaprojektowane do użytku przy napięciu elektrycznym nieprzekraczającym 1000 V dla prądu przemiennego oraz 1500 V dla prądu stałego;
+- **14)** sprzęcie przeznaczonym dla gospodarstw domowych – rozumie się przez to sprzęt, który może być używany w gospodarstwach domowych, jak i przez użytkowników innych niż gospodarstwa domowe;
+- **15)** średniorocznej masie sprzętu – rozumie się przez to średnią masę sprzętu wprowadzonego do obrotu w 3 poprzednich latach kalendarzowych przez danego wprowadzającego sprzęt; jeżeli wprowadzający sprzęt nie wprowadzał do obrotu sprzętu przez 3 lata, średnią masę sprzętu liczy się odpowiednio za 2 poprzednie lata kalendarzowe lub za poprzedni rok kalendarzowy, w których nastąpiło wprowadzenie do obrotu sprzętu;
+- **16)** terytorium kraju – rozumie się przez to terytorium Rzeczypospolitej Polskiej;
+- **17)** udostępnieniu na rynku – rozumie się przez to dostarczanie sprzętu w celu jego dystrybucji, konsumpcji lub używania na terytorium kraju w ramach działalności gospodarczej, odpłatnie lub nieodpłatnie;
+- **18)** usunięciu – rozumie się przez to ręczną, mechaniczną, chemiczną lub metalurgiczną obróbkę, w wyniku której niebezpieczne: substancje, mieszaniny i części składowe zostają wyodrębnione w postaci oddzielnego strumienia lub stanowią wyróżniającą się część strumienia w procesie przetwarzania, przy czym substancja, mieszanina lub część składowa są możliwe do zidentyfikowania, jeżeli jest możliwe ich monitorowanie w celu zweryfikowania przetwarzania bezpiecznego dla środowiska;
+- **19)** wielkogabarytowych stacjonarnych narzędziach przemysłowych – rozumie się przez to wielkogabarytowe zespoły maszyn, urządzeń lub elementów składowych, współpracujących ze sobą w celu konkretnego zastosowania, trwale instalowane i odinstalowywane w konkretnym miejscu przez profesjonalny personel oraz użytkowane i utrzymywane przez profesjonalny personel w przemysłowym obiekcie produkcyjnym lub w obiekcie badawczo-rozwojowym;
+- **20)** wprowadzającym sprzęt – rozumie się przez to osobę fizyczną, jednostkę organizacyjną niemającą osobowości prawnej lub osobę prawną, która, bez względu na wykorzystywaną technikę sprzedaży, w tym za pomocą środków porozumiewania się na odległość:
+    - **a)** ma siedzibę na terytorium kraju i produkuje sprzęt pod własną nazwą lub znakiem towarowym lub wprowadza do obrotu pod własną nazwą lub znakiem towarowym na terytorium kraju sprzęt zaprojektowany lub wyprodukowany dla niego,
+    - **b)** ma siedzibę na terytorium kraju i pod własną nazwą lub znakiem towarowym odsprzedaje na terytorium kraju sprzęt wytworzony przez inne podmioty; odsprzedającego nie uznaje się za wprowadzającego sprzęt, jeżeli na sprzęcie znajdują się nazwa lub znak towarowy wprowadzającego sprzęt, lub
+    - **c)** ma siedzibę na terytorium kraju i wprowadza do obrotu w ramach swojej działalności sprzęt z innego niż Rzeczpospolita Polska państwa członkowskiego lub państwa niebędącego państwem członkowskim – z tym że za wprowadzającego sprzęt nie uznaje się podmiotu, który realizuje finansowanie na zasadzie wyłączności w ramach lub zgodnie z umową finansową, o której mowa w pkt 11, chyba że jednocześnie działa on jako wprowadzający sprzęt;
+
+- **21)** wprowadzeniu do obrotu – rozumie się przez to udostępnienie na rynku sprzętu po raz pierwszy w ramach prowadzonej działalności gospodarczej;
+- **22)** zakładzie przetwarzania – rozumie się przez to instalację, obiekt budowlany lub jego część, w których jest prowadzony demontaż zużytego sprzętu oraz przygotowanie do ponownego użycia zużytego sprzętu lub odpadów powstałych po demontażu zużytego sprzętu, które posiadają decyzję w zakresie gospodarki odpadami zezwalającą na przetwarzanie zużytego sprzętu;
+- **23)** zbierającym zużyty sprzęt – rozumie się przez to podmiot wykonujący działalność gospodarczą w zakresie zbierania zużytego sprzętu, który posiada decyzję w zakresie gospodarki odpadami zezwalającą na zbieranie zużytego sprzętu;
+- **24)** zużytym sprzęcie – rozumie się przez to sprzęt stanowiący odpady w rozumieniu art. 3 ust. 1 pkt 6 ustawy z dnia 14 grudnia 2012 r. o odpadach, łącznie ze wszystkimi częściami składowymi, podzespołami i materiałami eksploatacyjnymi stanowiącymi część sprzętu w momencie pozbywania się go;
+- **25)** zużytym sprzęcie pochodzącym z gospodarstw domowych – rozumie się przez to zużyty sprzęt pochodzący z gospodarstw domowych oraz zużyty sprzęt pochodzący ze źródeł innych niż gospodarstwa domowe, który ze względu na charakter i ilość jest podobny do zużytego sprzętu pochodzącego z gospodarstw domowych; za zużyty sprzęt pochodzący z gospodarstw domowych uznaje się odpady powstałe ze sprzętu, który z dużym prawdopodobieństwem będzie używany zarówno przez gospodarstwa domowe, jak i przez użytkowników innych niż gospodarstwa domowe.
 
 **Art. 5.**
 
@@ -426,6 +464,13 @@ Art. 99–111. (pominięte)
 
 **Art. 39.** Dystrybutor jest obowiązany do:
 
+- **1)** udostępniania na rynku wyłącznie sprzętu:
+    - **a)** wprowadzonego do obrotu przez wprowadzającego sprzęt wpisanego do rejestru lub pochodzącego od producenta, który wyznaczył autoryzowanego przedstawiciela wpisanego do rejestru,
+    - **b)** oznakowanego zgodnie z art. 14 ust. 1;
+
+- **2)** umieszczenia w widocznym miejscu w punkcie sprzedaży informacji o punktach zbierania zużytego sprzętu, a w przypadku udostępniania na rynku sprzętu za pomocą środków porozumiewania się na odległość – do przekazania tych informacji w sposób umożliwiający zapoznanie się z nimi, w szczególności na stronie internetowej lub w formie komunikatu;
+- **3)** udostępniania na rynku sprzętu wraz z dołączoną do niego informacją, o której mowa w art. 13 ust. 1, w przypadku sprzętu przeznaczonego dla gospodarstw domowych.
+
 **Art. 40.**
 
 1. Prowadzący punkt serwisowy jest obowiązany do nieodpłatnego przyjęcia zużytego sprzętu, w przypadku gdy naprawa przyjętego do punktu serwisowego sprzętu jest niemożliwa ze względów technicznych lub gdy właściciel sprzętu uzna, że naprawa sprzętu jest dla niego nieopłacalna.
@@ -447,6 +492,10 @@ Art. 99–111. (pominięte)
 2. Zbierający zużyty sprzęt lub podmiot uprawniony do zbierania zużytego sprzętu, o którym mowa w art. 45 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, jest obowiązany do zachowania niezbędnych środków ostrożności w celu ochrony zdrowia i bezpieczeństwa pracowników.
 
 **Art. 43.** Miejsca, w których jest magazynowany zużyty sprzęt, wyposaża się w:
+
+- **1)** zadaszenie zapobiegające oddziaływaniu czynników atmosferycznych oraz, w przypadku zużytego sprzętu zawierającego substancje ciekłe, które podczas uszkodzenia zużytego sprzętu mogą spowodować niekontrolowane wycieki do środowiska – w nieprzepuszczalne podłoża wraz z urządzeniami do likwidacji wycieków oraz, w stosownym przypadku, odstojnikami i odolejaczami;
+- **2)** utwardzone podłoże;
+- **3)** zabezpieczenie uniemożliwiające dostęp osobom postronnym.
 
 **Art. 44.**
 
@@ -486,6 +535,10 @@ Art. 99–111. (pominięte)
 **Art. 49.** Prowadzący zakład przetwarzania, który zawarł umowę, o której mowa w art. 23 ust. 1, jest obowiązany do co najmniej nieodpłatnego przyjęcia zużytego sprzętu pochodzącego z gospodarstw domowych od zbierającego zużyty sprzęt.
 
 **Art. 50.** Miejsca, w których jest magazynowany zużyty sprzęt przed poddaniem go przetwarzaniu, wyposaża się w:
+
+- **1)** nieprzepuszczalne podłoża na odpowiednim obszarze wraz z urządzeniami do likwidacji wycieków oraz, w stosownym przypadku, odstojnikami i odolejaczami;
+- **2)** zadaszenie zapobiegające oddziaływaniu czynników atmosferycznych na właściwych obszarach;
+- **3)** zabezpieczenie uniemożliwiające dostęp osobom postronnym.
 
 **Art. 51.**
 
@@ -662,6 +715,9 @@ Art. 99–111. (pominięte)
 
 **Art. 64.** Organizacja odzysku sprzętu elektrycznego i elektronicznego jest obowiązana:
 
+- **1)** w terminie do dnia 15 marca każdego roku do przedstawienia marszałkowi województwa za poprzedni rok kalendarzowy zaświadczenia wydanego przez bank o utrzymywaniu przez nią na odrębnym rachunku bankowym lub w formie lokaty terminowej środków, o których mowa w art. 63 ust. 4 pkt 1, albo dokumentu potwierdzającego wysokość gwarancji bankowej lub gwarancji ubezpieczeniowej, wydanego przez gwaranta, o którym mowa w art. 63 ust. 4 pkt 2;
+- **2)** do przedstawienia, na każde żądanie marszałka województwa, w terminie 14 dni od dnia wpływu żądania, zaświadczenia wydanego przez bank o aktualnie utrzymywanych przez organizację odzysku sprzętu elektrycznego i elektronicznego na odrębnym rachunku bankowym lub w formie lokaty terminowej środkach, o których mowa w art. 63 ust. 4 pkt 1, albo dokumentu potwierdzającego wysokość gwarancji, o której mowa w art. 63 ust. 4 pkt 2.
+
 **Art. 65.**
 
 1. Organizacja odzysku sprzętu elektrycznego i elektronicznego jest obowiązana do zachowania w tajemnicy wszelkich danych przekazanych jej przez wprowadzających sprzęt oraz autoryzowanych przedstawicieli, chyba że przepisy odrębne stanowią inaczej.
@@ -715,6 +771,9 @@ Art. 99–111. (pominięte)
 3. Organizacja odzysku sprzętu elektrycznego i elektronicznego oraz prowadzący zakład przetwarzania są obowiązani do przechowywania sprawozdania z przeprowadzonego audytu wraz z dokumentacją audytu przez 5 lat, licząc od końca roku kalendarzowego, którego audyt dotyczy.
 
 **Art. 71.** Minister właściwy do spraw klimatu określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy zakres i sposób przeprowadzania audytu,
+- **2)** szczegółowy zakres sprawozdania z przeprowadzonego audytu – kierując się potrzebą sprawdzenia wiarygodności informacji zawartych w dokumentach objętych audytem oraz ujednolicenia sprawozdań z przeprowadzonego audytu.
 
 #### Rozdział 10 Opłata produktowa
 
@@ -830,6 +889,9 @@ Art. 99–111. (pominięte)
 
 **Art. 81.** Posiadacz używanego sprzętu, w tym sprzętu, o którym mowa w art. 82 ust. 1 pkt 1, organizujący jego przemieszczanie jest obowiązany do:
 
+- **1)** jego zabezpieczenia przed uszkodzeniem w czasie przemieszczania, załadunku i rozładunku, w szczególności przez jego odpowiednie opakowanie i rozmieszczenie;
+- **2)** przekazania podmiotowi dokonującemu jego przemieszczania dokumentów, o których mowa odpowiednio w art. 80 ust. 2 pkt 1 albo art. 82 ust. 2.
+
 **Art. 82.**
 
 1. Przepisów art. 80, z wyłączeniem ust. 2 pkt 1 lit. c i d, nie stosuje się do odbywającego się w ramach transakcji B2B przemieszczania:
@@ -859,7 +921,23 @@ Art. 99–111. (pominięte)
 
 **Art. 84.** Podmiot będący:
 
+- **1)** wprowadzającym sprzęt,
+- **2)** autoryzowanym przedstawicielem,
+- **3)** zbierającym zużyty sprzęt,
+- **4)** prowadzącym zakład przetwarzania,
+- **5)** prowadzącym działalność w zakresie recyklingu,
+- **6)** prowadzącym działalność w zakresie innych niż recykling procesów odzysku,
+- **7)** organizacją odzysku sprzętu elektrycznego i elektronicznego – podlega wpisowi do rejestru na zasadach i w trybie określonych w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+
 **Art. 85.** Podmiot będący:
+
+- **1)** wprowadzającym sprzęt,
+- **2)** autoryzowanym przedstawicielem,
+- **3)** zbierającym zużyty sprzęt,
+- **4)** prowadzącym zakład przetwarzania,
+- **5)** prowadzącym działalność w zakresie recyklingu,
+- **6)** prowadzącym działalność w zakresie innych niż recykling procesów odzysku,
+- **7)** organizacją odzysku sprzętu elektrycznego i elektronicznego – jest obowiązany do sporządzenia rocznego sprawozdania na zasadach i w trybie określonych w dziale V rozdziale 2 ustawy z dnia 14 grudnia 2012 r. o odpadach.
 
 #### Rozdział 13 Obowiązki organów administracji publicznej
 
@@ -885,7 +963,71 @@ Art. 99–111. (pominięte)
 
 **Art. 91.** Administracyjnej karze pieniężnej podlega ten, kto:
 
+- **1)** będąc do tego obowiązanym na podstawie art. 7 ust. 2 nie stosuje przy projektowaniu sprzętu wymagań dotyczących ekoprojektu ułatwiających ponowne użycie i przetwarzanie zużytego sprzętu, zgodnie z tym przepisem;
+- **2)** wbrew przepisowi art. 7 ust. 3 uniemożliwia ponowne użycie zużytego sprzętu przez stosowanie specyficznych rozwiązań projektowych lub procesów produkcyjnych;
+- **3)** wbrew przepisowi art. 12 ust. 1 nie umieszcza numeru rejestrowego na fakturze i innych dokumentach sporządzanych w związku z wprowadzaniem do obrotu sprzętu;
+- **4)** wbrew przepisowi art. 13 ust. 1 nie dołącza do sprzętu przeznaczonego dla gospodarstw domowych informacji wskazanych w tym przepisie;
+- **5)** wbrew przepisowi art. 13 ust. 2 pkt 1 nie informuje o systemie zbierania, w tym zwrotu, zużytego sprzętu;
+- **6)** wbrew przepisowi art. 13 ust. 2 pkt 2 nie informuje o roli, jaką gospodarstwo domowe spełnia w przyczynianiu się do ponownego użycia i odzysku, w tym recyklingu, zużytego sprzętu;
+- **7)** wbrew przepisowi art. 14 ust. 1 nie oznakowuje sprzętu symbolem selektywnego zbierania;
+- **8)** wbrew przepisowi art. 14 ust. 2 nie umieszcza w sposób wyraźny, czytelny i trwały oznakowania, o którym mowa w art. 14 ust. 1, na sprzęcie, opakowaniu lub dokumentach dołączonych do sprzętu;
+- **9)** wbrew przepisom art. 15 ust. 3 nie przeznacza na publiczne kampanie edukacyjne lub nie wnosi na odrębny rachunek bankowy właściwego urzędu marszałkowskiego łącznie co najmniej 0,1 % przychodów netto z tytułu wprowadzonego do obrotu sprzętu osiągniętych w poprzednim roku kalendarzowym albo nie rozlicza wykonania tych obowiązków w terminie, o którym mowa w art. 15 ust. 5;
+- **10)** wbrew przepisowi art. 16 ust. 2 nie informuje nabywców sprzętu o wysokości kosztów gospodarowania odpadami;
+- **11)** wbrew przepisowi art. 17 ust. 1 nie opracowuje informacji dotyczącej ponownego użycia i przetwarzania zużytego sprzętu, zawierającej w szczególności wskazanie poszczególnych części składowych oraz materiałów zawartych w sprzęcie, a także umiejscowienia w sprzęcie niebezpiecznych: substancji, mieszanin oraz części składowych;
+- **12)** wbrew przepisowi art. 17 ust. 3 nie przekazuje bezpłatnie informacji, o której mowa w art. 17 ust. 1;
+- **13)** wbrew przepisowi art. 18 ust. 1 nie organizuje i nie finansuje odbierania od zbierających zużyty sprzęt oraz przetwarzania zużytego sprzętu pochodzącego z gospodarstw domowych;
+- **14)** wbrew przepisowi art. 19 ust. 1 nie organizuje i nie finansuje zbierania oraz przetwarzania zużytego sprzętu pochodzącego od użytkowników innych niż gospodarstwa domowe;
+- **15)** wbrew przepisowi art. 22 ust. 1 nie prowadzi dodatkowej ewidencji obejmującej informacje o masie wprowadzonego do obrotu sprzętu albo prowadzi ją niezgodnie ze stanem rzeczywistym;
+- **16)** wbrew przepisowi art. 22 ust. 3 nie przechowuje dodatkowej ewidencji oraz zaświadczeń o zużytym sprzęcie;
+- **17)** wbrew przepisom art. 23 nie zawiera umowy z prowadzącym zakład przetwarzania;
+- **18)** wbrew przepisowi art. 26 ust. 2 nie wyznacza autoryzowanego przedstawiciela;
+- **19)** wbrew przepisowi art. 26 ust. 5 nie wykonuje obowiązków określonych ustawą dla wprowadzającego sprzęt za pośrednictwem organizacji odzysku sprzętu elektrycznego i elektronicznego;
+- **20)** wbrew przepisom art. 27 ust. 1 i art. 28 ust. 1 i 3 nie wnosi zabezpieczenia finansowego albo nie wnosi go w terminie;
+- **21)** wbrew zakazowi określonemu w art. 35 ust. 1 zbiera niekompletny zużyty sprzęt lub części pochodzące ze zużytego sprzętu;
+- **22)** wbrew przepisowi art. 37 ust. 1 nie odbiera nieodpłatnie zużytego sprzętu pochodzącego z gospodarstw domowych w punkcie sprzedaży;
+- **23)** wbrew przepisowi art. 37 ust. 2 nie odbiera nieodpłatnie zużytego sprzętu pochodzącego z gospodarstw domowych w miejscu dostawy sprzętu;
+- **24)** wbrew przepisowi art. 37 ust. 3 nie przyjmuje nieodpłatnie zużytego sprzętu pochodzącego z gospodarstw domowych, którego żaden z zewnętrznych wymiarów nie przekracza 25 cm, bez konieczności zakupu nowego sprzętu przeznaczonego dla gospodarstw domowych;
+- **25)** wbrew przepisowi art. 37 ust. 4 nie umieszcza w widocznym miejscu w punkcie sprzedaży informacji w zakresie, o którym mowa w art. 37 ust. 1–3, lub kto udostępniając na rynku sprzęt za pomocą środków porozumiewania się na odległość nie przekazuje tych informacji w sposób umożliwiający zapoznanie się z nimi, w szczególności na stronie internetowej lub w formie komunikatu;
+- **26)** wbrew przepisom art. 39:
+    - **a)** udostępnia na rynku sprzęt niezgodnie z art. 39 pkt 1 lit. a,
+    - **b)** udostępnia na rynku sprzęt nieoznakowany zgodnie z art. 14 ust. 1,
+    - **c)** nie umieszcza w widocznym miejscu w punkcie sprzedaży informacji o punktach zbierania zużytego sprzętu, a w przypadku udostępniania na rynku sprzętu za pomocą środków porozumiewania się na odległość – nie przekazuje tych informacji w sposób umożliwiający zapoznanie się z nimi, w szczególności na stronie internetowej lub w formie komunikatu,
+    - **d)** udostępnia na rynku sprzęt przeznaczony dla gospodarstw domowych bez dołączonych do niego informacji, o których mowa w art. 13 ust. 1;
+
+- **27)** wbrew przepisowi art. 40 ust. 1 nie przyjmuje nieodpłatnie zużytego sprzętu pomimo, że zużyty sprzęt nie stwarza zagrożenia, o którym mowa w art. 41 ust. 1;
+- **28)** wbrew przepisom art. 40 ust. 2 i 3 nie umieszcza w punkcie serwisowym informacji o punktach zbierania zużytego sprzętu oraz informacji o możliwości nieodpłatnego przyjęcia zużytego sprzętu;
+- **29)** wbrew przepisom art. 43 nie wyposaża miejsc, w których jest magazynowany zużyty sprzęt, zgodnie z tymi przepisami;
+- **30)** wbrew przepisom art. 44 ust. 1 nie przekazuje zebranego zużytego sprzętu prowadzącemu zakład przetwarzania posiadającemu decyzję w zakresie gospodarki odpadami zezwalającą na przetwarzanie zużytego sprzętu powstałego ze sprzętu należącego do grupy sprzętu określonej w załączniku nr 1 do ustawy;
+- **31)** wbrew przepisowi art. 44 ust. 4 nie zapewnia zbierania i transportu zużytego sprzętu w warunkach optymalnych do przygotowania go do ponownego użycia, recyklingu oraz innych niż recykling procesów odzysku, w tym ograniczenia rozprzestrzeniania się niebezpiecznych substancji;
+- **32)** wbrew przepisom art. 45 nie przekazuje wójtowi, burmistrzowi albo prezydentowi miasta informacji, o których mowa w tych przepisach;
+- **33)** wbrew przepisom art. 46:
+    - **a)** prowadzi demontaż zużytego sprzętu lub przygotowuje do ponownego użycia zużyty sprzęt oraz odpady powstałe po demontażu zużytego sprzętu poza zakładem przetwarzania,
+    - **b)** nie prowadzi demontażu zużytego sprzętu, procesów recyklingu i innych niż recykling procesów odzysku, z wyjątkiem przygotowania do ponownego użycia, obejmujących przynajmniej usunięcie ze zużytego sprzętu płynów oraz postępowanie, o którym mowa w art. 46 ust. 2;
+
+- **34)** wbrew przepisowi art. 47 unieszkodliwia zużyty sprzęt przed poddaniem go przetwarzaniu, o którym mowa w art. 46;
+- **35)** wbrew przepisowi art. 49 nie przyjmuje co najmniej nieodpłatnie zużytego sprzętu pochodzącego z gospodarstw domowych od zbierającego zużyty sprzęt;
+- **36)** wbrew przepisom art. 50 nie wyposaża miejsc, w których jest magazynowany zużyty sprzęt przed poddaniem go przetwarzaniu, zgodnie z tymi przepisami;
+- **37)** wbrew przepisom art. 51 ust. 1 nie wyposaża zakładu przetwarzania zgodnie z tymi przepisami;
+- **38)** wbrew przepisowi art. 51 ust. 2 przyjmuje zużyty sprzęt do zakładu przetwarzania, który nie jest wyposażony zgodnie z art. 51 ust. 1;
+- **39)** wbrew przepisom art. 52 ust. 1 lub 2 nie przekazuje odpadów powstałych po demontażu zużytego sprzętu prowadzącemu działalność w zakresie recyklingu lub prowadzącemu działalność w zakresie innych niż recykling procesów odzysku, wpisanym do rejestru, albo prowadzącemu działalność w zakresie unieszkodliwiania odpadów;
+- **40)** wbrew przepisowi art. 52 ust. 6 nie przekazuje zużytych baterii i zużytych akumulatorów zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów, o których mowa w ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach;
+- **41)** wbrew przepisom art. 53 ust. 4 nie udostępnia zaświadczenia o zużytym sprzęcie albo nie udostępnia zaświadczenia w terminie lub udostępnia zaświadczenie zawierające informacje nierzetelne;
+- **42)** (uchylony)
+- **43)** wbrew przepisom art. 55 ust. 4 oraz art. 57 ust. 4 nie udostępnia zaświadczenia potwierdzającego recykling albo zaświadczenia potwierdzającego inne niż recykling procesy odzysku albo nie udostępnia zaświadczenia w terminie lub udostępnia zaświadczenie zawierające informacje nierzetelne;
+- **44)** wbrew przepisom art. 62 ust. 2 albo 3 nie przeznacza na publiczne kampanie edukacyjne co najmniej 5 % przychodów netto uzyskanych w poprzednim albo danym roku kalendarzowym albo nie rozlicza wykonania tego obowiązku w terminie, o którym mowa w art. 62 ust. 4;
+- **45)** wbrew przepisom art. 64 nie przedstawia marszałkowi województwa dokumentów, o których mowa w tych przepisach;
+- **46)** wbrew przepisom art. 66 nie przeprowadza audytu albo nie przeprowadza go w terminie;
+- **47)** wbrew przepisowi art. 70 ust. 2 nie przekazuje wojewódzkiemu inspektorowi ochrony środowiska oraz marszałkowi województwa uwierzytelnionej kopii sprawozdania z przeprowadzonego audytu albo nie przekazuje go niezwłocznie, nie później niż w terminie do dnia 15 maja roku następującego po roku kalendarzowym, którego audyt dotyczy;
+- **48)** wbrew przepisowi art. 70 ust. 3 nie przechowuje sprawozdania z przeprowadzonego audytu wraz z dokumentacją audytu przez 5 lat, licząc od końca roku kalendarzowego, którego audyt dotyczy.
+
 **Art. 92.** Administracyjne kary pieniężne wynoszą:
+
+- **1)** w przypadkach, o których mowa w art. 91 pkt 4–10, 29, 30, 35, 39 i 40 – od 10 000 zł do 1 000 000 zł;
+- **2)** w przypadkach, o których mowa w art. 91 pkt 1–3, 12–14, 17–21, 33, 34, 36–38, 41 i 46 – od 15 000 zł do 500 000 zł;
+- **3)** w przypadkach, o których mowa w art. 91 pkt 11, 15, 16, 27, 28, 31, 32, 43, 45, 47 i 48 – od 10 000 zł do 400 000 zł;
+- **4)** w przypadku, o którym mowa w art. 91 pkt 44 – od 15 000 zł do 1 000 000 zł;
+- **5)** w przypadku, o którym mowa w art. 91 pkt 22–24 i 26 – od 5000 zł do 500 000 zł;
+- **6)** w przypadku, o którym mowa w art. 91 pkt 25 – od 5000 zł do 300 000 zł.
 
 **Art. 93.**
 
@@ -1189,4 +1331,10 @@ Art. 99–111. (pominięte)
 **Art. 141.** Traci moc ustawa z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2013 r. poz. 1155, z późn. zm. ).
 
 **Art. 142.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem:
+
+- **1)** art. 102 pkt 2–6 oraz art. 108 pkt 2 i 3, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
+- **2)** art. 110, który wchodzi w życie z dniem 10 września 2015 r.;
+- **3)** art. 66–71 i art. 91 pkt 46–48, które wchodzą w życie z dniem 1 stycznia 2017 r.;
+- **4)** art. 2 ust. 2 pkt 4–10, art. 5 ust. 2 i art. 104 pkt 1 lit. b, które wchodzą w życie z dniem 1 stycznia 2018 r. Załączniki do ustawy z dnia 11 września 2015 r. (Dz. U. z 2024 r. poz. 573) Załącznik Załącznik Załącznik Załącznik Załącznik Załącznik
+
 

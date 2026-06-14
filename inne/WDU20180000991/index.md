@@ -8,10 +8,10 @@ pos: 991
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 maja 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 991 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 26 kwietnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000991) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/991/text.pdf) |
 
-Poz. 991 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 26 kwietnia 2018 r.
-w sprawie zakresu i sposobu realizacji zadań służby hydrograficznej Na podstawie art. 41d ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2017 r. poz. 2205 oraz z 2018 r. poz. 317) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy zakres i sposób realizacji zadań służby hydrograficznej, o których mowa w art. 41b ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, zwanej dalej „ustawą”.
+w sprawie zakresu i sposobu realizacji zadań służby hydrograficznej Na podstawie art. 41d ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2017 r. poz. 2205 oraz z 2018 r. poz. 317) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowy zakres i sposób realizacji zadań służby hydrograficznej, o których mowa w art. 41b ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, zwanej dalej „ustawą”.
 § 2. Zadania służby hydrograficznej, określone w art. 41b ust. 1 ustawy, wskazane w:
 1) pkt 1 – są realizowane w zakresie i w sposób zgodny z opracowanym na dany rok kalendarzowy „Projektem technicznym na wykonywanie pomiarów hydrograficznych” oraz w zakresie i w sposób zgodny z rocznymi planami prac hydrograficznych urzędów morskich;
 2) pkt 2 – są realizowane w zakresie i w sposób zgodny z opracowanym na dany rok kalendarzowy „Projektem technicznym na wykonywanie pomiarów hydrograficznych” oraz w zakresie i w sposób zgodny z planami prac urzędów morskich;
@@ -38,7 +38,7 @@ w sprawie zakresu i sposobu realizacji zadań służby hydrograficznej Na podsta
 8) pkt 10 – są realizowane przez prowadzenie krajowego zasobu danych batymetrycznych, oceanograficznych, hydrologicznych oraz dotyczących linii brzegowej oraz utrzymywanie i aktualizację elektronicznych baz tych danych;
 9) pkt 11 – są realizowane przez wydawanie dyplomów hydrografa morskiego kat. A i B w sposób określony w przepisach wydanych na podstawie art. 41e ust. 5 pkt 4 ustawy;
 10) pkt 12 – są realizowane zgodnie z przepisami wydanymi na podstawie art. 41e ust. 5 pkt 5 ustawy.
-Dziennik Ustaw – 2 – Poz. 991 § 3. Biuro Hydrograficzne Marynarki Wojennej przy wykonywaniu zadań, o których mowa w § 2, współpracuje z dyrektorami urzędów morskich zgodnie z przepisami wydanymi na podstawie art. 46 ustawy.
+§ 3. Biuro Hydrograficzne Marynarki Wojennej przy wykonywaniu zadań, o których mowa w § 2, współpracuje z dyrektorami urzędów morskich zgodnie z przepisami wydanymi na podstawie art. 46 ustawy.
 § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Obrony Narodowej: wz. T. Zdzikot
 

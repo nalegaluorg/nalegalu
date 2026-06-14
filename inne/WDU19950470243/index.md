@@ -8,7 +8,7 @@ pos: 243
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zapobieganiu zanieczyszczaniu morza przez statki
@@ -33,6 +33,18 @@ Art. 39–40. (pominięte)
 
 **Art. 1.** Do zapobiegania zanieczyszczaniu morza przez statki stosuje się:
 
+- **1)** postanowienia następujących umów międzynarodowych, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób: (Dz. U. z 2005 r. poz. 1679 i 1680), zwanej dalej „Konwencją MARPOL”, poz. 346), zwanej dalej „Konwencją Helsińską 1992”,
+    - **a)** Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, 1973 r., sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem uzupełniającym sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1987 r. poz. 101, z późn. zm. ) oraz Protokołem uzupełniającym sporządzonym w Londynie dnia 26 września 1997 r.
+    - **b)** Konwencji o ochronie środowiska morskiego obszaru Morza Bałtyckiego, sporządzonej w Helsinkach dnia 9 kwietnia 1992 r. (Dz. U. z 2000 r.
+    - **c)** Konwencji o zapobieganiu zanieczyszczaniu mórz przez zatapianie odpadów i innych substancji, sporządzonej w Moskwie, Waszyngtonie, Londynie i Meksyku dnia 29 grudnia 1972 r. (Dz. U. z 1984 r. poz. 46 i 47 oraz z 1997 r. poz. 300 i 481), zwanej dalej „Konwencją o zatapianiu”,
+    - **d)** Międzynarodowej konwencji w sprawie kontroli szkodliwych systemów przeciwporostowych na statkach, podpisanej w Londynie dnia 5 października 2001 r. (Dz. U. z 2008 r. poz. 851 i 852 oraz z 2022 r. poz.
+
+- **2636)** , zwanej dalej „Konwencją AFS”,
+    - **e)** Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej w dniu 13 lutego 2004 r. w Londynie, zwanej dalej „Konwencją BWM”;
+
+- **1a)** odpowiednio przepisy art. 20 i art. 39 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065), w zakresie eksploatacji na statkach urządzeń chłodniczych, klimatyzacyjnych, rozdzielnic elektrycznych oraz systemów ochrony przeciwpożarowej i gaśnic zawierających substancje kontrolowane, fluorowane gazy cieplarniane lub pozostałe fluorowane gazy cieplarniane, w przypadku gdy niniejsza ustawa nie stanowi inaczej;
+- **2)** przepisy niniejszej ustawy.
+
 **Art. 2.**
 
 1. Z zastrzeżeniem ust. 2 i 3, przepisy ustawy stosuje się do:
@@ -48,11 +60,50 @@ Art. 39–40. (pominięte)
 
 **Art. 4.** W rozumieniu niniejszej ustawy:
 
+- **1)** statek – oznacza urządzenie pływające używane w środowisku morskim, w tym również wodoloty, poduszkowce, statki podwodne, statki rybackie, rekreacyjne jednostki pływające, oraz umocowane i pływające platformy wiertnicze, chyba że powołane w ustawie umowy międzynarodowe stanowią inaczej;
+- **1a)** statek rybacki – oznacza statek wyposażony lub wykorzystywany handlowo do łowienia ryb lub innych żyjących w morzu organizmów;
+- **1b)** statek sportowy – oznacza statek bez względu na napęd, wykorzystywany w celach sportowych lub rekreacyjnych;
+- **2)** armator – oznacza osobę, która przy użyciu własnego lub cudzego statku prowadzi działalność w środowisku morskim we własnym imieniu;
+- **3)** kapitan – oznacza osobę kierującą pracą na statku;
+- **4)** substancja kontrolowana – oznacza substancję kontrolowaną w rozumieniu art. 3 pkt 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1005/2009 z dnia 16 września 2009 r. w sprawie substancji zubożających warstwę ozonową (Dz. Urz. UE L 286 z 31.10.2009, str. 1, z późn. zm.);
+- **5)** paliwo żeglugowe – oznacza każde ropopochodne paliwo płynne przeznaczone do użycia lub używane na statku, w tym paliwo określone normą przenoszącą normę ISO 8217;
+- **6)** zanieczyszczenie – oznacza jakąkolwiek emisję lub zrzut ze statku substancji, energii, lub wprowadzenie szkodliwych organizmów wodnych lub patogenów do morza lub atmosfery, podlegających kontroli na podstawie niniejszej ustawy, które mogą spowodować pogorszenie stanu środowiska lub powstanie niebezpieczeństwa dla zdrowia ludzkiego albo zagrożenie dla żywych zasobów i życia w morzu, pogarszać walory rekreacyjne lub też utrudniać inne zgodne z prawem użytkowanie morza;
+- **7)** fluorowane gazy cieplarniane – oznaczają fluorowane gazy cieplarniane w rozumieniu art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 517/2014 z dnia 16 kwietnia 2014 r. w sprawie fluorowanych gazów cieplarnianych i uchylenia rozporządzenia (WE) nr 842/2006 (Dz. Urz. UE L 150 z
+
+20. 05.2014, str. 195, z późn. zm. );
+
+- **8)** system obiegu paliwa na statku – oznacza system dystrybucji, filtracji i oczyszczania paliwa, a także dostarczania paliwa ze zbiorników paliwowych do urządzeń spalania paliwa;
+- **9)** THETIS-EU – oznacza unijny system informacji, opracowany i obsługiwany przez Europejską Agencję Bezpieczeństwa Morskiego, zwaną dalej „EMSA”, będący platformą do raportowania i wymiany informacji o wynikach kontroli przeprowadzanych zgodnie z przepisami: niniejszej ustawy, ustawy z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów ze statków (Dz. U. poz. 1250), decyzji wykonawczej Komisji (UE) 2015/253 z dnia 16 lutego 2015 r. ustanawiającej zasady dotyczące pobierania próbek i sprawozdawczości na podstawie dyrektywy Rady 1999/32/WE w zakresie zawartości siarki w paliwach żeglugowych (Dz. Urz. UE L 41 z 17.02.2015, str. 55), zwanej dalej „decyzją 2015/253”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/757 z dnia 29 kwietnia 2015 r. w sprawie monitorowania, raportowania i weryfikacji emisji dwutlenku węgla z transportu morskiego oraz zmiany dyrektywy 2009/16/WE (Dz. Urz. UE L 123 z 19.05.2015, str. 55, z późn. zm. ), zwanego dalej „rozporządzeniem 2015/757”, wykorzystującą informacje z systemów SafeSeaNet;
+- **10)** wody balastowe – oznaczają wody wraz z zawiesiną pobrane przez statek w celu kontrolowania przegłębienia, przechyłu, zanurzenia, stateczności lub naprężeń statku;
+- **11)** osady – oznaczają materię wytrąconą w wodach balastowych statku;
+- **12)** postępowanie z wodami balastowymi – oznacza procesy mechaniczne, fizyczne, chemiczne i biologiczne stosowane pojedynczo bądź w kombinacjach w celu usunięcia, unieszkodliwienia lub uniknięcia poboru bądź zrzutu szkodliwych organizmów wodnych i patogenów w wodach balastowych i osadach;
+- **13)** szkodliwe organizmy wodne i patogeny – oznaczają organizmy wodne i patogeny, które po wprowadzeniu do morza, wliczając w to ujścia rzek lub do cieków wody słodkiej, mogą stwarzać zagrożenie dla środowiska, zdrowia ludzkiego, mienia lub zasobów, niekorzystnie wpływać na różnorodność biologiczną lub utrudniać inne zgodne z prawem sposoby wykorzystywania morza;
+- **14)** port lub przystań morska – oznacza port lub przystań morską w rozumieniu art. 2 pkt 2 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796) oraz przystań plażową w rozumieniu art. 2 pkt 2a tej ustawy, z uwzględnieniem kotwicowisk wchodzących w skład ich infrastruktury;
+- **15)** odpady ze statków – oznacza odpady ze statków w rozumieniu art. 5 pkt 5 ustawy z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów ze statków;
+- **16)** portowe urządzenia do odbioru odpadów ze statków – oznacza portowe urządzenia do odbioru odpadów ze statków w rozumieniu art. 5 pkt 9 ustawy z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów ze statków;
+- **17)** rekreacyjna jednostka pływająca – oznacza statek o długości kadłuba wynoszącej 2,5 m lub większej, bez względu na jego napęd, wykorzystywany w celach sportowych lub rekreacyjnych;
+- **18)** dostateczna pojemność magazynowania – oznacza wystarczającą ilość miejsca do przechowywania odpadów ze statków na statku od wypłynięcia z portu lub przystani morskiej do zawinięcia do następnego portu lub przystani morskiej, z uwzględnieniem odpadów ze statków, które prawdopodobnie zostaną wytworzone podczas rejsu;
+- **19)** ustalony harmonogram podróży – oznacza ruch oparty o opublikowany lub planowany rozkład wypłynięć i wpłynięć statku do określonych portów lub przystani morskich albo odcinki podróży o charakterze cyklicznym;
+- **20)** regularne zawinięcia do portów lub przystani morskich – oznacza powtarzające się podróże tego samego statku o stałym charakterze między określonymi portami lub przystaniami morskimi albo serię rejsów z i do tego samego portu lub przystani morskiej bez pośrednich zawinięć;
+- **21)** częste zawinięcia do portów lub przystani morskich – oznacza zawinięcia statku w tym samym porcie lub przystani morskiej co najmniej raz na dwa tygodnie;
+- **22)** Krajowy Pojedynczy Punkt Kontaktowy – oznacza Krajowy Pojedynczy Punkt Kontaktowy, o którym mowa w art. 91 ust. 1a ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068);
+- **23)** Narodowy System SafeSeaNet – Narodowy System Monitorowania Ruchu Statków i Przekazywania Informacji, o którym mowa w art. 91 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim;
+- **24)** GISIS – oznacza Światowy Zintegrowany System Informacji Żeglugowej ustanowiony przez Międzynarodową Organizację Morską.
+
 #### Rozdział 2 Zanieczyszczenia ze statków oraz inspekcja statku
 
 **Art. 5.** Do zapobiegania zanieczyszczaniu morza związanemu z uprawianiem żeglugi lub prowadzeniem innej działalności morskiej przez statki stosuje się postanowienia Konwencji MARPOL, Konwencji o zatapianiu, Konwencji AFS, Konwencji BWM, a na Morzu Bałtyckim – również postanowienia Konwencji Helsińskiej 1992.
 
 **Art. 6.** Statek nie może być używany do żeglugi morskiej lub innej działalności na morzu, jeżeli nie odpowiada wymaganiom w zakresie zapobiegania zanieczyszczaniu morza, określonym:
+
+- **1)** dla statków objętych Konwencją MARPOL – w postanowieniach tej Konwencji;
+- **2)** dla innych jednostek – w przepisach ustawy lub przepisach wydanych na jej podstawie;
+- **3)** dla statków objętych rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1005/2009 z dnia 16 września 2009 r. w sprawie substancji zubożających warstwę ozonową − w przepisach tego rozporządzenia;
+- **4)** dla statków objętych rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 782/2003 z dnia 14 kwietnia 2003 r. w sprawie zakazu stosowania związków cynoorganicznych na statkach (Dz. Urz. WE L 115 z 09.05.2003, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 266) oraz rozporządzeniem Komisji (WE) nr 536/2008 z dnia 13 czerwca 2008 r. nadającym moc art. 6 ust. 3 i art. 7 rozporządzenia (WE) nr 782/2003 Parlamentu Europejskiego i Rady w sprawie zakazu stosowania związków cynoorganicznych na statkach oraz zmieniającym to rozporządzenie (Dz. Urz. UE L 156 z 14.06.2008, str. 10, z późn. zm.) – w przepisach tych rozporządzeń;
+- **5)** dla statków objętych Konwencją AFS – w postanowieniach tej konwencji;
+- **6)** dla statków objętych rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1257/2013 z dnia 20 listopada 2013 r. w sprawie recyklingu statków oraz zmieniającym rozporządzenie (WE) nr 1013/2006 i dyrektywę 2009/16/WE (Dz. Urz. UE L 330 z 10.12.2013, str. 1), zwanym dalej „rozporządzeniem 1257/2013” – w przepisach tego rozporządzenia;
+- **7)** dla statków objętych rozporządzeniem 2015/757 – w przepisach tego rozporządzenia;
+- **8)** dla statków objętych Konwencją BWM – w postanowieniach tej Konwencji.
 
 **Art. 7.**
 
@@ -135,7 +186,17 @@ Art. 39–40. (pominięte)
 
 **Art. 9.** Kapitan statku jest obowiązany sprawdzić i zapewnić, aby:
 
+- **1)** statek przed rozpoczęciem żeglugi, w czasie żeglugi lub innej działalności morskiej oraz po zakończeniu żeglugi odpowiadał wymaganiom w zakresie zapobiegania zanieczyszczaniu morza, potwierdzonym odpowiednimi świadectwami, oraz posiadał plan zabezpieczenia przed zanieczyszczeniem morza;
+- **2)** prowadzono na bieżąco wymagane zapisy olejowe, zapisy ładunkowe, zapisy o postępowaniu z odpadami, zapisy o postępowaniu z wodami balastowymi oraz zapisy dotyczące każdorazowego przejścia na zasilanie paliwem innym niż aktualnie używane;
+- **3)** statek był obsadzony załogą mającą należyte przeszkolenie w zakresie czynności służących zapobieganiu zanieczyszczaniu morza.
+
 **Art. 9a.** Zabrania się:
+
+- **1)** spalania odpadów innych niż odpady powstające w wyniku normalnej eksploatacji statku:
+    - **a)** na każdym statku znajdującym się w polskich obszarach morskich,
+    - **b)** na statkach o polskiej przynależności, znajdujących się w obszarze Morza Bałtyckiego;
+
+- **2)** spalania odpadów powstałych w wyniku normalnej eksploatacji statku na statkach znajdujących się w obszarze polskiego morza terytorialnego i morskich wód wewnętrznych.
 
 **Art. 10.**
 
@@ -321,6 +382,76 @@ Art. 39–40. (pominięte)
 5. Na statkach cumujących w portach dopuszcza się, jako alternatywę dla stosowania metod redukcji emisji, stosowanie rozwiązania polegającego na korzystaniu z lądowych systemów zasilania, o ile są one dostępne w danym porcie.
 
 **Art. 13d.** (uchylony) Art. 13da. 1. Przeprowadzenie testów metod redukcji emisji jest dopuszczalne w przypadku spełniania następujących warunków:
+
+- **1)** testy przeprowadza się na statkach z zainstalowanymi urządzeniami zapewniającymi nieprzerwane monitorowanie emisji gazów wylotowych, wyposażonymi w zabezpieczenia uniemożliwiające ich otwarcie, zakłócenie ich pracy i zmianę zapisanych na nich danych;
+- **2)** przez cały okres przeprowadzania testów stosuje się urządzenia, o których mowa w pkt 1;
+- **3)** podczas przeprowadzania testów zagospodarowuje się odpady powstałe zgodnie z przepisami ustawy o portowych urządzeniach do odbioru odpadów ze statków;
+- **4)** podczas przeprowadzania testów dokonuje się oceny ich wpływu na środowisko morskie, w tym na ekosystemy w portach, przystaniach i ujściach rzek.
+
+2. Przeprowadzenie na statkach o polskiej przynależności oraz na statkach o obcej przynależności przebywających w polskich obszarach morskich testów metod redukcji emisji, które nie posiadają zatwierdzenia, o którym mowa w art. 13dg ust. 1 albo 2, wymaga uzyskania pozwolenia na przeprowadzenie testów metod redukcji emisji.
+
+2a. Nie wymaga uzyskania pozwolenia na przeprowadzenie testów metod redukcji emisji, o których mowa w ust. 2, na statkach o obcej przynależności przebywających w polskich obszarach morskich, które posiadają wydany przez administrację państwa bandery lub uznaną organizację działającą w jej imieniu dokument świadczący o przeprowadzaniu tych testów zgodnie z prawidłem 3.2 załącznika VI do Konwencji MARPOL.
+
+2b. W przypadku, o którym mowa w ust. 2a, armator przekazuje wyniki testów metod redukcji emisji dyrektorowi urzędu morskiego właściwemu dla obszaru, na którym przeprowadzono testy, nie później niż po upływie 5 miesięcy od dnia ich zakończenia.
+
+3. Wniosek o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji składa się do dyrektora urzędu morskiego właściwego dla obszaru, w którym planuje się przeprowadzenie testów metod redukcji emisji.
+
+3a. Wniosek o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji na statkach o polskiej przynależności wyłącznie poza polskimi obszarami morskimi składa się do dyrektora urzędu morskiego właściwego ze względu na port macierzysty statku.
+
+4. Wniosek o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji zawiera:
+
+- **1)** dane armatora – w przypadku:
+    - **a)** osoby fizycznej – imię i nazwisko, adres zamieszkania, numer telefonu, adres poczty elektronicznej,
+    - **b)** osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej – nazwę i adres siedziby głównej, numer telefonu, adres poczty elektronicznej;
+
+- **2)** dane statku, na którym będą przeprowadzane testy metod redukcji emisji, w tym:
+    - **a)** nazwę,
+    - **b)** numer identyfikacyjny statku nadany przez Międzynarodową Organizację Morską,
+    - **c)** port macierzysty,
+    - **d)** przynależność,
+    - **e)** opis metody redukcji emisji, która będzie poddana testom,
+    - **f)** termin i oznaczenie miejsca przeprowadzania testów metod redukcji emisji.
+
+5. Do wniosku o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji dołącza się:
+
+- **1)** dokumentację potwierdzającą możliwość osiągnięcia równoważnej wartości emisji dwutlenku siarki, o której mowa w art. 13c ust. 4;
+- **2)** oświadczenie armatora o zgodności z prawdą danych zawartych we wniosku i spełnieniu warunków, o których mowa w ust. 1, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17 i 1228) oświadczam, że:
+- **1)** dane zawarte we wniosku o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji są kompletne i zgodne z prawdą;
+- **2)** znane mi są warunki uzyskania pozwolenia na przeprowadzenie testów metod redukcji emisji i spełniam warunki określone w art. 13da ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2024 r. poz. 000).”.
+
+6. Klauzula, o której mowa w ust. 5, zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań. Art. 13db. 1. Pozwolenie na przeprowadzenie testów metod redukcji emisji wydaje, w drodze decyzji, dyrektor urzędu morskiego właściwy dla obszaru, na którym planuje się przeprowadzenie testów metod redukcji emisji, a w przypadku, o którym mowa w art. 13da ust. 3a – dyrektor urzędu morskiego właściwy ze względu na port macierzysty statku, na okres nie dłuższy niż 18 miesięcy, z tym że okres ważności pozwolenia nie obejmuje okresu, o którym mowa w ust. 4.
+
+2. Wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji dotyczącego:
+
+- **1)** obszaru wykraczającego poza obszar właściwości dyrektora urzędu morskiego, do którego został złożony wniosek o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji – wymaga uzgodnienia z dyrektorem urzędu morskiego właściwym dla obszaru, w którym również planuje się przeprowadzenie testów metod redukcji emisji;
+- **2)** obszarów znajdujących się poza polskimi obszarami morskimi – wymaga poinformowania przez dyrektora urzędu morskiego, do którego został złożony wniosek:
+    - **a)** armatora – o konieczności uzyskania pozwolenia na przeprowadzenie testów metod redukcji emisji także od właściwych organów państw, na których obszarach morskich armator również planuje przeprowadzenie testów metod redukcji emisji,
+    - **b)** właściwych organów państw, na których obszarach morskich armator również planuje przeprowadzenie testów – o otrzymaniu wniosku o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji.
+
+3. W pozwoleniu na przeprowadzenie testów metod redukcji emisji określa się:
+
+- **1)** nazwę i adres siedziby armatora albo jego imię i nazwisko oraz adres zamieszkania, a także numer telefonu i adres poczty elektronicznej;
+- **2)** dane statku, na którym będą przeprowadzane testy metod redukcji emisji, w tym:
+    - **a)** nazwę,
+    - **b)** numer identyfikacyjny statku nadany przez Międzynarodową Organizację Morską,
+    - **c)** port macierzysty,
+    - **d)** przynależność;
+
+- **3)** opis metody redukcji emisji, której będą przeprowadzane testy;
+- **4)** termin i oznaczenie miejsca przeprowadzania testów metod redukcji emisji.
+
+4. Przy określaniu terminu przeprowadzania testów metod redukcji emisji, uwzględnia się termin wskazany we wniosku o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji, z tym że termin rozpoczęcia testów nie może przypadać wcześniej niż po upływie 7 miesięcy od dnia wydania pozwolenia. Art. 13dc. Dyrektor urzędu morskiego odmawia, w drodze decyzji, wydania pozwolenia na przeprowadzenie testów metod redukcji emisji, w przypadku gdy wniosek o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji nie spełnia warunków, o których mowa w art. 13da ust. 4 i 5. Art. 13dd. Dyrektor urzędu morskiego cofa, w drodze decyzji, pozwolenie na przeprowadzenie testów metod redukcji emisji, w przypadku gdy armator nie spełnia warunków, o których mowa w art. 13da ust. 1. Art. 13de. Podczas przeprowadzania testów metod redukcji emisji dopuszcza się stosowanie paliwa żeglugowego niespełniającego wymagań określonych w przepisach wydanych na podstawie art. 13f ust. 3 i 4. Art. 13df. 1. Armator przekazuje wyniki testów metod redukcji emisji dyrektorowi urzędu morskiego, który wydał pozwolenie na ich przeprowadzenie, w terminie nie później niż po upływie 5 miesięcy od dnia ich zakończenia.
+
+2. Dyrektor urzędu morskiego udostępnia wyniki testów metod redukcji emisji w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu. Art. 13dg. 1. Zatwierdzenia metod redukcji emisji objętych przepisami ustawy z dnia 2 grudnia 2016 r. o wyposażeniu morskim (Dz. U. z 2019 r. poz. 955 oraz z 2024 r. poz. 1222) dokonują jednostki notyfikowane, o których mowa w przepisach ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854 oraz z 2024 r. poz. 1089).
+
+2. Stosowanie metod redukcji emisji nieobjętych przepisami ustawy z dnia 2 grudnia 2016 r. o wyposażeniu morskim jest dopuszczalne pod warunkiem ich zatwierdzenia zgodnie z przepisami Unii Europejskiej dotyczącymi metod redukcji emisji oraz z uwzględnieniem:
+
+- **1)** wytycznych opracowanych przez Międzynarodową Organizację Morską dotyczących metod redukcji emisji;
+- **2)** wyników przeprowadzonych testów metod redukcji emisji;
+- **3)** ich wpływu na środowisko, w tym możliwych do uzyskania poziomów redukcji emisji dwutlenku siarki, a także wpływu na ekosystemy w portach, przystaniach i ujściach rzek;
+- **4)** możliwości monitorowania i weryfikacji metod redukcji emisji.
+
+3. Minister właściwy do spraw gospodarki morskiej ogłasza, w drodze obwieszczenia, informacje o wytycznych opracowanych przez Międzynarodową Organizację Morską dotyczących metod redukcji emisji, mając na uwadze potrzebę upowszechniania wiedzy o zasadach dotyczących ochrony środowiska przed zanieczyszczeniami ze statków.
 
 **Art. 13e.**
 
@@ -519,6 +650,9 @@ Art. 39–40. (pominięte)
 - **8)** sposób powiadamiania o zamierzonych terminach usunięcia do morza urobku z pogłębiania dna oraz zatapiania w morzu odpadów lub innych substancji oraz o fakcie zakończenia tych operacji.
 
 **Art. 19.** Dyrektor urzędu morskiego, na podstawie zawiadomienia dokonanego przez kapitana statku, zgłasza dokonanie zatopienia:
+
+- **1)** w przypadkach określonych w Konwencji Helsińskiej 1992 – Komisji Helsińskiej;
+- **2)** w przypadkach określonych w art. V Konwencji o zatapianiu – Międzynarodowej Organizacji Morskiej.
 
 **Art. 20.** Minister właściwy do spraw gospodarki morskiej składa właściwym organizacjom międzynarodowym okresowe informacje o wydanych zezwoleniach oraz dokonanych, na ich podstawie, zatopieniach.
 
@@ -743,7 +877,23 @@ Art. 39–40. (pominięte)
 
 **Art. 26.** Dyrektor urzędu morskiego może:
 
+- **1)** w stosunku do statku o przynależności do państwa strony Konwencji MARPOL, Konwencji Helsińskiej 1992 lub Konwencji BWM: wyniki inspekcji ujmuje się w sprawozdaniu, które przekazuje się kapitanowi statku,
+    - **a)** przeprowadzić, na statku w porcie lub bazie przeładunkowej na morzu, inspekcje w zakresie i trybie przewidzianym w art. 28 oraz kontrole książek zapisów olejowych, ładunkowych, odpadów powstających na statku, zapisów balastowych oraz zapisów o każdorazowym przejściu na zasilanie paliwem innym niż aktualnie używane, w celu ustalenia, czy ze statku nie dokonano zanieczyszczenia, z naruszeniem postanowień tych konwencji;
+    - **b)** odmówić statkowi o obcej przynależności zezwolenia na wejście do portu lub do bazy przeładunkowej na morzu albo podjąć działania zapewniające, że uprawianie żeglugi tym statkiem nie będzie stanowiło istotnego zagrożenia dla środowiska morskiego, jeżeli statek nie odpowiada wymaganiom określonym w tych konwencjach; o odmowie dyrektor urzędu morskiego powiadamia konsula lub przedstawiciela dyplomatycznego państwa przynależności statku, a gdy jest to niemożliwe – inny właściwy organ tego państwa,c) odmówić statkowi zezwolenia na opuszczenie portu do czasu doprowadzenia tego statku do należytego stanu technicznego, jeżeli istnieją podstawy do podejrzenia, że stan tego statku lub jego wyposażenia w istotny sposób odbiega od stanu stwierdzonego w posiadanych świadectwach lub gdy statek nie posiada ważnych świadectw; dyrektor tego urzędu może jednak zezwolić takiemu statkowi na opuszczenie portu w celu przejścia do najbliższej stoczni remontowej;
+
+- **2)** w stosunku do statków o polskiej przynależności, niezależnie od zastosowania środków przewidzianych w pkt 1 lit. a i c, także odmówić dopuszczenia statku do żeglugi lub cofnąć świadectwa, jeżeli statek nie spełnia wymagań przewidzianych w przepisach ustawy;
+- **3)** w stosunku do statków o przynależności do obcego państwa niebędącego stroną Konwencji MARPOL lub Konwencji BWM:
+    - **a)** przeprowadzić inspekcję statku w celu sprawdzenia, czy stan statku odpowiada wymaganiom określonym w tych konwencjach; w razie stwierdzenia, że stan statku nie odpowiada tym wymaganiom, a uprawianie żeglugi tym statkiem stanowi istotne zagrożenie dla środowiska morskiego, może odmówić statkowi zezwolenia na wejście do portu lub do bazy przeładunkowej,
+    - **b)** jeżeli inspekcja jest przeprowadzona w porcie lub bazie przeładunkowej, dyrektor urzędu morskiego może zarządzić dokonanie na statku odpowiednich napraw albo opuszczenie portu lub bazy przeładunkowej;
+
+- **4)** przeprowadzić inspekcję przestrzegania obowiązków określonych w art. 10 w odniesieniu do wszystkich statków zawijających do portów lub przystani morskich znajdujących się na terytorium Rzeczypospolitej Polskiej bez względu na przynależność.
+
 **Art. 27.** Dyrektor urzędu morskiego może:
+
+- **1)** zażądać od statku przepływającego przez polskie obszary morskie informacji dotyczących identyfikacji, portu rejestracji, ostatniego i następnego portu zawinięcia oraz innych niezbędnych informacji, w razie uzasadnionego podejrzenia, że statek płynąc przez te obszary naruszył przepisy ustawy, powodując zanieczyszczenie lub zagrożenie zanieczyszczeniem;
+- **2)** przeprowadzić inspekcję statku przepływającego przez polskie obszary morskie, w razie:
+    - **a)** uzasadnionego podejrzenia, że naruszył przepisy ustawy wskutek zrzutu powodującego lub grożącego znacznym zanieczyszczeniem morza,
+    - **b)** odmowy udzielenia informacji, o których mowa w pkt 1, lub jeżeli informacja podana przez statek jest w sposób oczywisty różna od stanu faktycznego, a okoliczności sprawy uzasadniają taką inspekcję.
 
 **Art. 28.**
 
@@ -772,13 +922,32 @@ Art. 39–40. (pominięte)
 
 **Art. 29.** Dyrektor urzędu morskiego jest obowiązany przeprowadzić postępowanie, o którym mowa w niniejszym rozdziale:
 
+- **1)** w odniesieniu do statku o polskiej przynależności:
+    - **a)** który spowodował zanieczyszczenie środowiska morskiego lub zagrożenie zanieczyszczeniem, z naruszeniem przepisów ustawy,
+    - **b)** na wniosek organu każdego państwa, w razie podejrzenia naruszenia przepisów ustawy, jeżeli zostały zabezpieczone dowody;
+
+- **2)** w odniesieniu do statku o obcej przynależności, przebywającego w porcie polskim lub bazie przeładunkowej, który spowodował zanieczyszczenie środowiska morskiego lub zagrożenie zanieczyszczeniem na polskich obszarach morskich, naruszając przepisy ustawy.
+
 **Art. 30.** Dyrektor urzędu morskiego jest obowiązany przeprowadzić także postępowanie w odniesieniu do statku o obcej przynależności, przebywającego w polskim porcie lub bazie przeładunkowej, na wniosek:
+
+- **1)** organu każdego państwa, w razie podejrzenia zrzutu przez ten statek poza polskim obszarem morskim, jeżeli zrzut ten spowodował lub zagroził zanieczyszczeniem na jego wodach wewnętrznych, morzu terytorialnym lub w wyłącznej strefie ekonomicznej;
+- **2)** organu państwa strony Konwencji MARPOL lub Konwencji BWM w sprawie zrzutu, o którym mowa w pkt 1, niezależnie od miejsca jego dokonania.
 
 **Art. 31.** Dyrektor urzędu morskiego wszczyna postępowanie, w celu zabezpieczenia dowodów, w odniesieniu do statku o obcej przynależności, który:
 
+- **1)** przebywa w porcie polskim lub w bazie przeładunkowej, jeżeli spowodował zanieczyszczenie lub zagrożenie zanieczyszczeniem poza polskimi obszarami morskimi, z naruszeniem uznanych norm międzynarodowych;
+- **2)** znajdując się w polskim morzu terytorialnym lub w polskich morskich wodach wewnętrznych spowodował zanieczyszczenie lub zagrożenie zanieczyszczeniem tego obszaru morza;
+- **3)** przebywając w polskich obszarach morskich, wskutek zanieczyszczenia w wyłącznej strefie ekonomicznej, spowodował poważną szkodę lub zagrożenie poważną szkodą dla wybrzeży albo innych istotnych interesów państwa.
+
 **Art. 32.** W razie otrzymania wiadomości o:
 
+- **1)** zanieczyszczeniu morza przez statki,
+- **2)** zatopieniu odpadów lub innych szkodliwych substancji ze statków – dyrektor urzędu morskiego powinien niezwłocznie podjąć czynności w celu wykrycia sprawców i zabezpieczenia dowodów.
+
 **Art. 33.** Dyrektor urzędu morskiego niezwłocznie zawiadamia właściwy organ państwa:
+
+- **1)** przynależności statku i każdego innego zainteresowanego państwa o działaniach i środkach podjętych zgodnie z ustawą i przekazuje im odpowiednie dokumenty dotyczące tych działań i środków;
+- **2)** następnego portu zawinięcia statku przepływającego przez polskie obszary morskie o podejrzeniu zanieczyszczenia lub zagrożenia zanieczyszczeniem środowiska morskiego.
 
 **Art. 34.**
 
@@ -827,11 +996,70 @@ Art. 39–40. (pominięte)
 
 **Art. 36a.** Jeżeli armator statku, nie wykonując ciążących na nim z mocy prawa obowiązków lub łamiąc ustanowione prawem zakazy:
 
+- **1)** przewozi ładunki niebezpieczne lub zanieczyszczające, nie przekazując informacji, o których mowa w art. 10a,
+- **2)** dopuszcza do wykonywania przez osoby nieposiadające odpowiednich uprawnień, o których mowa w art. 13a, odzysku substancji kontrolowanych lub fluorowanych gazów cieplarnianych z urządzeń chłodniczych, klimatyzacyjnych, rozdzielnic elektrycznych oraz systemów ochrony przeciwpożarowej i gaśnic w celu zapewnienia ich regeneracji, recyklingu lub zniszczenia,
+- **3)** nie wypełnia obowiązku przekazywania w terminie rocznych sprawozdań, o których mowa w art. 39 ust. 1 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych, do wyspecjalizowanej jednostki,
+- **4)** nie podejmuje wszelkich wykonalnych środków ostrożności w celu zapobiegania wszelkim wyciekom i emisjom substancji kontrolowanych i fluorowanych gazów cieplarnianych oraz ich minimalizowania,
+- **5)** (uchylony)
+- **6)** użytkuje instalację lub urządzenie zawierające substancje kontrolowane w sposób niezapobiegający emisji substancji kontrolowanych do środowiska oraz nie przeprowadza sprawdzenia szczelności tych urządzeń,
+- **7)** stosuje lub stosuje ponownie na statku związki cynoorganiczne, które działają jak biocydy,
+- **8)** eksploatuje statek, na którego kadłubie występują związki cynoorganiczne,
+- **9)** eksploatuje statek, z którego emitowane są do powietrza:
+    - **a)** substancje zubożające warstwę ozonową,
+    - **b)** tlenki azotu,
+    - **c)** fluorowane gazy cieplarniane,
+
+- **10)** (uchylony)
+- **11)** nie informuje portu lub przystani morskiej o odpadach ze statków znajdujących się na statku zgodnie z art. 10 ust. 7 – podlega karze pieniężnej do wysokości 50 000 SDR. Art. 36aa. 1. Jeżeli armator statku używa na statku paliwa żeglugowego zawierającego niedopuszczalną zawartość siarki, podlega karze pieniężnej do wysokości 600 000 SDR.
+
+2. Jeżeli armator statku stosuje na statku metody redukcji emisji, które nie posiadają zatwierdzenia, o którym mowa w art. 13dg ust. 1 albo 2, podlega karze pieniężnej do wysokości 600 000 SDR.
+
+3. Jeżeli armator statku nie przekazuje wyników testów metod redukcji emisji zgodnie z art. 13da ust. 2b, podlega karze pieniężnej do wysokości 100 000 SDR.
+
+3a. Jeżeli armator statku niezgodnie z prawidłem 14 załącznika VI do Konwencji MARPOL przewozi do celów spalania paliwo olejowe przeznaczone do napędu lub obsługi statku niespełniające wymogów dotyczących zawartości siarki, podlega karze pieniężnej do wysokości 600 000 SDR.
+
+4. Jeżeli armator statku objętego rozporządzeniem 1257/2013 eksploatuje statek bez ważnego świadectwa inwentaryzacji, o którym mowa w art. 9 rozporządzenia 1257/2013, lub kieruje statek do zakładu recyklingu, który nie znajduje się w europejskim wykazie zakładów recyklingu statków, o którym mowa w art. 16 rozporządzenia 1257/2013, podlega karze pieniężnej do wysokości 600 000 SDR.
+
+5. Jeżeli armator statku objętego rozporządzeniem 2015/757:
+
+- **1)** nie monitoruje emisji CO w sposób określony w art. 8 rozporządzenia 2015/757,
+- **2)** nie monitoruje parametrów, o których mowa w art. 9 ust. 1 zdanie pierwsze rozporządzenia 2015/757, w sposób określony w tym przepisie,
+- **3)** nie monitoruje parametrów, o których mowa w art. 10 zdanie pierwsze rozporządzenia 2015/757, w sposób określony w tym przepisie,
+- **4)** nie przedkłada w terminie do dnia 30 kwietnia każdego roku Komisji Europejskiej lub dyrektorowi urzędu morskiego właściwego dla portu macierzystego statku raportu, o którym mowa w art. 11 ust. 1 rozporządzenia 2015/757,
+- **5)** wbrew art. 11 ust. 2 rozporządzenia 2015/757 nie zapewnia, aby w przypadku określonym w tym przepisie każdy statek, za który odpowiada, spełniał wymogi rozporządzenia 2015/757 w odniesieniu do całego okresu sprawozdawczego, w którym armator odpowiada za dany statek,
+- **6)** wbrew art. 12 ust. 1 rozporządzenia 2015/757 nie składa raportu, o którym mowa w art. 11 ust. 1 rozporządzenia 2015/757, z wykorzystaniem automatycznych systemów i formatów wymiany danych, w tym szablonów elektronicznych – podlega karze pieniężnej do wysokości 50 000 SDR.
+
+6. Jeżeli armator statku nie wykonuje obowiązków w zakresie gromadzenia i przekazywania danych o zużyciu paliwa, w sposób zgodny z wymogami prawidła 22A załącznika VI do Konwencji MARPOL, podlega karze pieniężnej do wysokości 50 000 SDR.
+
 **Art. 36b.** Załadowca, który nie dopełnia obowiązku określonego w art. 10b, podlega karze pieniężnej do wysokości 50 000 SDR.
 
 **Art. 36c.** Dostawca, który dostarczając paliwo nie wykonuje ciążących na nim obowiązków, określonych w art. 13e ust. 2–6 i 13f, podlega karze pieniężnej do wysokości 50 000 SDR.
 
 **Art. 37.** Jeżeli kapitan lub inny członek załogi statku nie wykonując, ciążących na nim z mocy prawa, obowiązków:
+
+- **1)** nie dba o zdatność statku do żeglugi lub innej działalności na morzu w zakresie zapobiegania zanieczyszczaniu morza,
+- **2)** nie prowadzi w sposób zgodny z wymogami Konwencji MARPOL książki zapisów olejowych, ładunkowych, odpadów powstających na statku oraz zapisów o każdorazowym przejściu na zasilanie paliwem innym niż aktualnie używane, 2a) nie prowadzi zapisów balastowych w sposób zgodny z wymogami prawidła B-2 załącznika do Konwencji BWM,
+- **3)** nie zgłasza statku do przeglądu lub inspekcji, utrudnia bądź uniemożliwia przegląd lub inspekcję w zakresie przewidzianym w Konwencji MARPOL lub Konwencji BWM,
+- **4)** powoduje zanieczyszczenie środowiska morskiego,
+- **5)** nie przekazuje informacji o zauważonym zanieczyszczeniu albo informacji o wypadku zagrożenia zanieczyszczeniem lub zanieczyszczenia środowiska morskiego,
+- **6)** nie podejmuje koniecznych środków w celu zapobiegania zanieczyszczaniu, ograniczenia lub usunięcia zanieczyszczenia środowiska morskiego, będącego skutkiem wypadku,
+- **7)** nie przekazuje, na żądanie właściwych organów, informacji w przypadkach przewidzianych w art. 27,
+- **8)** narusza przepisy dotyczące zdawania odpadów do portowych urządzeń odbiorczych i nie informuje portu o odpadach ze statków znajdujących się na statku lub pozostałościach ładunkowych,
+- **9)** nie zgłasza organom inspekcyjnym zdarzeń wpływających poważnie na stan techniczny statku, jego urządzeń lub wyposażenia, powodujących zagrożenie dla środowiska morskiego,
+- **10)** narusza przepisy dotyczące spalania odpadów na statku,
+- **11)** nie wykonuje obowiązków w zakresie oznakowania, zakładania i prowadzenia karty urządzenia, sprawdzania szczelności, obsługi i naprawy urządzeń lub instalacji zawierających czynnik chłodniczy będący substancją kontrolowaną,
+- **12)** nie posiada na statku dokumentów dostawy paliwa żeglugowego znajdującego się w zbiornikach paliwowych statku lub posiadane dokumenty nie zawierają wszystkich wymaganych informacji zgodnie z Konwencją MARPOL,
+- **13)** niezgodnie z Konwencją MARPOL nie posiada na statku próbek paliwa żeglugowego znajdującego się w zbiornikach paliwowych statku lub próbki paliwa żeglugowego są niezaplombowane lub niepodpisane,
+- **14)** nie posiada dokumentów, o których mowa w art. 13g ust. 4 pkt 2,
+- **15)** nie posiada ważnego pozwolenia na przeprowadzanie testów metod redukcji emisji lub nie spełnia warunków, o których mowa w art. 13da ust. 1 i 2a,
+- **16)** stosuje na statku metody redukcji emisji w sposób, który nie zapewnia redukcji emisji, o której mowa w art. 13c ust. 4,
+- **17)** nie dokonuje, zgodnie z Konwencją MARPOL, przejścia na paliwo wymagane na danym obszarze morskim w czasie, który zapewnia spełnienie wymogów dotyczących zawartości siarki w paliwie żeglugowym,
+- **18)** odmawia organom inspekcyjnym pobrania próbek paliwa żeglugowego, o których mowa w art. 13g ust. 2 pkt 2,
+- **19)** nie posiada na statku dokumentów, wymaganych zgodnie z Konwencją BWM,
+- **20)** nie stosuje procedur dotyczących postępowania z wodami balastowymi i osadami określonych w planie postępowania z wodami balastowymi,
+- **21)** użytkuje niesprawny system obróbki wód balastowych lub system, w którym dokonano zmian niezatwierdzonych przez administrację,
+- **22)** nie przekazuje kapitanowi portu informacji na temat aktualnej ilości wód balastowych na statku oraz przeprowadzonych operacji balastowych na statku,
+- **23)** nie zdaje odpadów ze statków do portowych urządzeń do odbioru odpadów ze statków zgodnie z art. 10 ust. 6 podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
 
 **Art. 37a.** Kto nie wykonuje obowiązków określonych w przepisach rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 782/2003 z dnia 14 kwietnia 2003 r. w sprawie zakazu stosowania związków cynoorganicznych na statkach oraz rozporządzenia Komisji (WE) nr 536/2008 z dnia 13 czerwca 2008 r. nadającego moc art. 6 ust. 3 i art. 7 rozporządzenia (WE) nr 782/2003 Parlamentu Europejskiego i Rady w sprawie zakazu stosowania związków cynoorganicznych na statkach oraz zmieniającego to rozporządzenie, podlega karze pieniężnej do wysokości 50 000 SDR.
 

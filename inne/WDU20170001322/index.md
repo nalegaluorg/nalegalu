@@ -8,10 +8,10 @@ pos: 1322
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 lipca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1322 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 29 czerwca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1322/text.pdf) |
 
-Poz. 1322 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 29 czerwca 2017 r.
-w sprawie dopuszczalnych form realizacji obowiązkowych zajęć wychowania fizycznego Na podstawie art. 28 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949) zarządza się, co następuje: § 1. 1. Obowiązkowe zajęcia wychowania fizycznego dla uczniów klas IV–VIII szkół podstawowych i uczniów szkół ponadpodstawowych są realizowane w formie:
+w sprawie dopuszczalnych form realizacji obowiązkowych zajęć wychowania fizycznego Na podstawie art. 28 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949) zarządza się, co następuje:
+§ 1. 1. Obowiązkowe zajęcia wychowania fizycznego dla uczniów klas IV–VIII szkół podstawowych i uczniów szkół ponadpodstawowych są realizowane w formie:
 1) zajęć klasowo-lekcyjnych;
 2) zajęć do wyboru przez uczniów: zajęć sportowych, zajęć rekreacyjno-zdrowotnych, zajęć tanecznych lub aktywnej turystyki, które mogą być prowadzone przez nauczyciela wychowania fizycznego innego niż nauczyciel prowadzący zajęcia klasowo-lekcyjne.
 2. Zajęcia klasowo-lekcyjne są realizowane w wymiarze nie mniejszym niż:

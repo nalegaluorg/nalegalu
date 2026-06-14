@@ -8,10 +8,10 @@ pos: 794
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 czerwca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 794 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 1 czerwca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000794) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/794/text.pdf) |
 
-Poz. 794 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 1 czerwca 2015 r.
-zmieniające rozporządzenie w sprawie przebiegu służby funkcjonariuszy Agencji Wywiadu Na podstawie art. 94 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 listopada 2003 r. w sprawie przebiegu służby funkcjonariuszy Agencji Wywiadu (Dz. U. Nr 210, poz. 2039 oraz z 2007 r. Nr 97, poz. 641) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie przebiegu służby funkcjonariuszy Agencji Wywiadu Na podstawie art. 94 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 listopada 2003 r. w sprawie przebiegu służby funkcjonariuszy Agencji Wywiadu (Dz. U. Nr 210, poz. 2039 oraz z 2007 r. Nr 97, poz. 641) wprowadza się następujące zmiany:
 1) w § 3:
 a) w ust. 1 uchyla się pkt 13–15,
 b) ust. 3 i 4 otrzymują brzmienie: „3. Funkcjonariusza zapoznaje się z rozkazem personalnym wydanym w sprawach osobowych, o których mowa w ust. 1.

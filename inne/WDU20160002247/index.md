@@ -8,10 +8,10 @@ pos: 2247
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 grudnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2247 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 21 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002247) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2247/text.pdf) |
 
-Poz. 2247 ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 21 grudnia 2016 r.
-zmieniające rozporządzenie w sprawie przekazywania marszałkowi województwa informacji o naruszeniach przepisów ruchu drogowego przez kierowców, którzy zdali egzamin w wojewódzkim ośrodku ruchu drogowego Na podstawie art. 74a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627, 904, 1241, 1579, 1948 i 2001) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Cyfryzacji z dnia 9 sierpnia 2016 r. w sprawie przekazywania marszałkowi województwa informacji o naruszeniach przepisów ruchu drogowego przez kierowców, którzy zdali egzamin w wojewódzkim ośrodku ruchu drogowego (Dz. U. poz. 1275) § 5 i 6 otrzymują brzmienie: „§ 5. Informację udostępnia się po raz pierwszy:
+zmieniające rozporządzenie w sprawie przekazywania marszałkowi województwa informacji o naruszeniach przepisów ruchu drogowego przez kierowców, którzy zdali egzamin w wojewódzkim ośrodku ruchu drogowego Na podstawie art. 74a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627, 904, 1241, 1579, 1948 i 2001) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Cyfryzacji z dnia 9 sierpnia 2016 r. w sprawie przekazywania marszałkowi województwa informacji o naruszeniach przepisów ruchu drogowego przez kierowców, którzy zdali egzamin w wojewódzkim ośrodku ruchu drogowego (Dz. U. poz. 1275) § 5 i 6 otrzymują brzmienie: „§ 5. Informację udostępnia się po raz pierwszy:
 1) w przypadku informacji sporządzanej za okres miesięczny – w dniu 7 lipca 2018 r.;
 2) w przypadku informacji sporządzanej za okres kwartalny – w dniu 7 października 2018 r., za okres od dnia 4 czerwca 2018 r. do dnia 30 września 2018 r.;
 3) w przypadku informacji sporządzanej za okres półroczny – w dniu 7 stycznia 2019 r., za poprzednie półrocze;

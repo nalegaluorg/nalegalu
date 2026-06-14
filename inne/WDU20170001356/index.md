@@ -8,10 +8,10 @@ pos: 1356
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 10 lipca 2017 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI dnia 6 lipca 2017 sprawie określenia regulaminu organizacji działania stałych sądów polubownych przy wojewódzkich inspektorach handlowej Na podstawie art. 37 ust. 7 dnia 15 grudnia 2000 Inspekcji Handlowej (Dz. 2017 1063) zarządza się, co następuje: Określa się regulamin organizacji działania stałych sądów polubownych przy wojewódzkich inspektorach handlowej, stanowiący załącznik do rozporządzenia.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1356 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 6 lipca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,84 +25,101 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1356/text.pdf) |
 
-2. Arbitrzy wyznaczeni strony lub wyznaczeni do składu orzekającego urzędu przewodniczącego przed dniem wejścia życie niniejszego rozporządzenia, podstawie przepisów dotychczasowych, biorą udział jedynie rozpoznaniu spraw rozpoczętych wcześniej ich udziałem do czasu ich zakończenia.
-2. W przypadku rozpatrywania wniosków rozwiązanie sporu złożonych przed dniem wejścia życie niniejszego rozporządzenia stały sąd polubowny przy wojewódzkim inspektorze handlowej nie umarza postępowania ze względu swą niewłaściwość miejscową.
-3. Rozporządzenie wchodzi życie dniem 11 lipca 2017 Minister Sprawiedliwości: Z. Ziobro REGULAMIN ORGANIZACJI I DZIAŁANIA STAŁYCH SĄDÓW POLUBOWNYCH PRZY WOJEWÓDZKICH INSPEKTORACH INSPEKCJI HANDLOWEJ
-1) polubownego, zwany dalej „przewodniczącym”;
+w sprawie określenia regulaminu organizacji i działania stałych sądów polubownych przy wojewódzkich inspektorach inspekcji handlowej Na podstawie art. 37 ust. 7 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2017 r. poz. 1063) zarządza się, co następuje:
+§ 1. Określa się regulamin organizacji i działania stałych sądów polubownych przy wojewódzkich inspektorach inspekcji handlowej, stanowiący załącznik do rozporządzenia.
+§ 2. 1. Arbitrzy wyznaczeni przez strony lub wyznaczeni do składu orzekającego z urzędu przez przewodniczącego przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie przepisów dotychczasowych, biorą udział jedynie w rozpoznaniu spraw rozpoczętych wcześniej z ich udziałem do czasu ich zakończenia.
+2. W przypadku rozpatrywania wniosków o rozwiązanie sporu złożonych przed dniem wejścia w życie niniejszego rozporządzenia stały sąd polubowny przy wojewódzkim inspektorze inspekcji handlowej nie umarza postępowania ze względu na swą niewłaściwość miejscową.
+§ 3. Rozporządzenie wchodzi w życie z dniem 11 lipca 2017 r.
+Minister Sprawiedliwości: Z. Ziobro REGULAMIN ORGANIZACJI I DZIAŁANIA STAŁYCH SĄDÓW POLUBOWNYCH PRZY WOJEWÓDZKICH INSPEKTORACH INSPEKCJI HANDLOWEJ
+§ 1. W skład stałego sądu polubownego przy wojewódzkim inspektorze inspekcji handlowej, zwanego dalej „sądem polubownym”, wchodzą:
+1) przewodniczący sądu polubownego, zwany dalej „przewodniczącym”;
 2) stali arbitrzy.
-2. Stałych arbitrów, liczbie niezbędnej do zapewnienia prawidłowego działania polubownego, wyznaczają strony umowy zorganizowanie sądu, których mowa art. 37 ust. 1 dnia 15 grudnia 2000 Inspekcji Handlowej.
-3. Wojewódzki inspektor handlowej wpisuje stałych arbitrów listę stałych arbitrów, zwaną dalej „listą”, odbiera od nich ślubowanie.
-2. Na liście poza imieniem nazwiskiem stałego arbitra, podmiotem wyznaczającym oraz sposobem wyznaczenia, jeżeli stały arbiter był wyznaczony wniosek organizacji pozarządowej reprezentującej interesy konsumentów albo organizacji pozarządowej reprezentującej interesy przedsiębiorców, zamieszcza się informację o:
-1) możliwości powołania stałego do składu orzekającego polubownego konsumenta ‒ przypadku gdy stały arbiter został wyznaczony organizację pozarządową reprezentującą interesy konsumentów albo wniosek organizacji pozarządowej reprezentującej interesy konsumentów;
-2) możliwości powołania stałego do składu orzekającego polubownego przedsiębiorcę ‒ przypadku gdy stały arbiter został wyznaczony organizację pozarządową reprezentującą interesy przedsiębiorców albo wniosek organizacji pozarządowej reprezentującej interesy przedsiębiorców.
-3. Ślubowanie, którym mowa ust. 1, składa się według następującej roty: „Ślubuję uroczyście, że jako stały arbiter będę orzekać bezstronnie zgodnie prawem”.
-4. Co najmniej jedną trzecią liczby stałych arbitrów stanowią osoby, które ukończyły studia wyższe kierunku prawo.
-4. Przewodniczącego powołuje odwołuje wojewódzki inspektor handlowej.
-2. Przewodniczący jest powoływany spośród stałych arbitrów, którzy ukończyli studia wyższe kierunku prawo.
-5. Przewodniczący jest organem polubownego, kieruje sądem polubownym reprezentuje go zewnątrz.
-2. W przypadku przeszkody sprawowaniu funkcji przewodniczącego wojewódzki inspektor handlowej może upoważnić, czas określony, stałego arbitra, spełniającego wymogi określone 4 ust. 2, do wykonywania czynności przewodniczącego.
-6. Przewodniczący, czas sprawowania swojej funkcji, przechowuje listę, którą wraz tekstem niniejszego regulaminu podaje do wiadomości publicznej siedzibie handlowej oraz Biuletynie Informacji Publicznej stronie podmiotowej handlowej.
-2. Listę oraz regulamin udostępnia także żądanie strony postępowania trwałym nośniku rozumieniu art. 2 pkt 6 dnia 23 września pozasądowym rozwiązywaniu sporów konsumenckich (Dz. 1823).
-7. Przewodniczący wnioskuje uzupełniające wyznaczenie stałych arbitrów jeżeli liczba stałych arbitrów nie zapewnia prawidłowego działania polubownego lub nie są spełnione wymogi dotyczące wykształcenia arbitrów,
-10. Wniosek rozpatrzenie sporu sąd polubowny, zwany dalej „wnioskiem”, wnosi się postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej.
+§ 2. Stałych arbitrów, w liczbie niezbędnej do zapewnienia prawidłowego działania sądu polubownego, wyznaczają strony umowy o zorganizowanie sądu, o których mowa w art. 37 ust. 1 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej.
+§ 3. 1. Wojewódzki inspektor inspekcji handlowej wpisuje stałych arbitrów na listę stałych arbitrów, zwaną dalej „listą”, i odbiera od nich ślubowanie.
+2. Na liście poza imieniem i nazwiskiem stałego arbitra, podmiotem wyznaczającym oraz sposobem wyznaczenia, jeżeli stały arbiter był wyznaczony na wniosek organizacji pozarządowej reprezentującej interesy konsumentów albo organizacji pozarządowej reprezentującej interesy przedsiębiorców, zamieszcza się informację o:
+1) możliwości powołania stałego arbitra do składu orzekającego sądu polubownego przez konsumenta ‒ w przypadku gdy stały arbiter został wyznaczony przez organizację pozarządową reprezentującą interesy konsumentów albo na wniosek organizacji pozarządowej reprezentującej interesy konsumentów;
+2) możliwości powołania stałego arbitra do składu orzekającego sądu polubownego przez przedsiębiorcę ‒ w przypadku gdy stały arbiter został wyznaczony przez organizację pozarządową reprezentującą interesy przedsiębiorców albo na wniosek organizacji pozarządowej reprezentującej interesy przedsiębiorców.
+3. Ślubowanie, o którym mowa w ust. 1, składa się według następującej roty: „Ślubuję uroczyście, że jako stały arbiter będę orzekać bezstronnie i zgodnie z prawem”.
+4. Co najmniej jedną trzecią liczby stałych arbitrów stanowią osoby, które ukończyły studia wyższe na kierunku prawo.
+§ 4. 1. Przewodniczącego powołuje i odwołuje wojewódzki inspektor inspekcji handlowej.
+2. Przewodniczący jest powoływany spośród stałych arbitrów, którzy ukończyli studia wyższe na kierunku prawo.
+§ 5. 1. Przewodniczący jest organem sądu polubownego, kieruje sądem polubownym i reprezentuje go na zewnątrz.
+2. W przypadku przeszkody w sprawowaniu funkcji przez przewodniczącego wojewódzki inspektor inspekcji handlowej może upoważnić, na czas określony, stałego arbitra, spełniającego wymogi określone w § 4 ust. 2, do wykonywania czynności przewodniczącego.
+§ 6. 1. Przewodniczący, na czas sprawowania swojej funkcji, przechowuje listę, którą wraz z tekstem niniejszego regulaminu podaje do wiadomości publicznej w siedzibie wojewódzkiego inspektoratu inspekcji handlowej oraz w Biuletynie Informacji Publicznej na stronie podmiotowej wojewódzkiego inspektoratu inspekcji handlowej.
+2. Listę oraz regulamin przewodniczący udostępnia także na żądanie strony postępowania na trwałym nośniku w rozumieniu art. 2 pkt 6 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823).
+§ 7. Przewodniczący wnioskuje o uzupełniające wyznaczenie stałych arbitrów jeżeli liczba stałych arbitrów nie zapewnia prawidłowego działania sądu polubownego lub nie są spełnione wymogi dotyczące wykształcenia arbitrów, o których mowa w § 3 ust. 4.
+§ 8. W zakresie działalności administracyjnej przewodniczący oraz stały arbiter, o którym mowa w § 5 ust. 2, podlegają nadzorowi wojewódzkiego inspektora inspekcji handlowej.
+§ 9. Obsługę prac sądu polubownego zapewnia wojewódzki inspektorat inspekcji handlowej.
+§ 10. 1. Wniosek o rozpatrzenie sporu przez sąd polubowny, zwany dalej „wnioskiem”, wnosi się w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej.
 2. Wniosek wniesiony za pośrednictwem środków komunikacji elektronicznej opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
-11. Wniosek wnosi się do polubownego właściwego ze względu miejsce zamieszkania konsumenta albo siedzibę przedsiębiorcy.
-2. Za siedzibę przedsiębiorcy uważa się siedzibę rozumieniu art. 4 ust. 2 dnia 23 września pozasądowym rozwiązywaniu sporów konsumenckich.
-12. Sąd polubowny może zawiadamiać wzywać strony, świadków lub inne osoby sposób, który uzna za najbardziej celowy, jeżeli uzna to za niezbędne do przyspieszenia rozpoznania sprawy. Dotyczy to również doręczeń.
-13. Przewodniczący dokonuje wstępnego badania wniosku niezwłocznie po wniesieniu go do polubownego.
-2. Jeżeli sąd polubowny nie jest właściwy do rozpoznania sprawy, zgodnie 11 ust. 1, zarządza pozostawienie wniosku bez dalszego biegu. W przypadku gdy właściwy do rozpoznania sprawy jest inny sąd polubowny, wskazuje wnioskodawcy ten sąd.
-3. Jeżeli sąd polubowny nie jest właściwy rzeczowo do rozpoznania sprawy, zarządza pozostawienie wniosku bez dalszego biegu, informując wnioskodawcę prawie do złożenia wniosku do polubownego działającego przy właściwym podmiocie uprawnionym do rozstrzygania sporów konsumenckich.
-14. Zarządzenia, których mowa 13 ust. 2 3, wydaje się terminie trzech tygodni od dnia złożenia wniosku do polubownego.
-15. Jeżeli sprawie nie można nadać dalszego biegu dlatego, że we wniosku nie oznaczono lub niedokładnie oznaczono strony lub przedmiot sporu, wniosek nie jest podpisany, do wniosku nie dołączono jego odpisu dla doręczenia go stronie przeciwnej albo zapisu sąd polubowny podpisanego co najmniej wnioskodawcę, wzywa wnioskodawcę, pod rygorem zwrócenia wniosku, do jego poprawienia lub uzupełnienia terminie tygodnia od dnia doręczenia wezwania. Po bezskutecznym upływie terminu zwraca wniosek stronie.
-16. Jeżeli sprawie można nadać dalszy bieg, doręcza odpis wniosku stronie przeciwnej wzywa ją, aby terminie tygodnia od dnia doręczenia podpisała zapis sąd polubowny złożyła jego oryginał do polubownego oraz złożyła piśmie odpowiedź wniosek.
-2. Równocześnie doręczeniem odpisu wniosku poucza strony uprawnieniu do korzystania pomocy osób trzecich, tym osób świadczących profesjonalną pomoc prawną, bez możliwości ubiegania się zwrot kosztów takiej pomocy od handlowej oraz strony przeciwnej, mocy wiążącej wyroku polubownego lub ugody przed nim zawartej równi wyrokiem lub ugodą zawartą przed sądem powszechnym po ich uznaniu lub stwierdzeniu ich wykonalności sąd powszechny.
-3. W razie bezskutecznego upływu terminu do podpisania zapisu sąd polubowny jego złożenia sądzie polubownym albo jeżeli strona, której doręczono odpis wniosku, oświadczy, że nie zgadza się rozstrzygnięcie sprawy sąd polubowny wskazany we wniosku, zwraca wniosek wnioskodawcy, informując przyczynie zwrotu.
-1) stronie będącej konsumentem ‒ spośród stałych arbitrów wyznaczonych organizacje pozarządowe reprezentujące interesy konsumentów albo stałych arbitrów wyznaczonych inspektora handlowej lub inną zainteresowaną jednostkę organizacyjną wniosek organizacji pozarządowej reprezentującej interesy konsumentów;
-2) stronie będącej przedsiębiorcą ‒ spośród stałych arbitrów wyznaczonych organizacje pozarządowe reprezentujące interesy przedsiębiorców albo stałych arbitrów wyznaczonych inspektora handlowej lub inną zainteresowaną jednostkę organizacyjną wniosek organizacji pozarządowej reprezentującej interesy przedsiębiorców.
-2. Jeżeli terminie, którym mowa ust. 1, strona nie powołała arbitra, powołuje go przewodniczący, mając uwadze, że składzie orzekającym jeden arbitrów powinien być powołany listy spośród stałych arbitrów wyznaczonych organizacje pozarządowe reprezentujące interesy konsumentów albo stałych arbitrów wyznaczonych inspektora handlowej lub inną zainteresowaną jednostkę organizacyjną wniosek organizacji pozarządowej reprezentującej interesy konsumentów, a drugi spośród stałych arbitrów wyznaczonych organizacje pozarządowe reprezentujące interesy przedsiębiorców albo stałych arbitrów wyznaczonych inspektora handlowej lub inną zainteresowaną jednostkę organizacyjną wniosek organizacji pozarządowej reprezentującej interesy przedsiębiorców.
-19. Przewodniczący powołuje przewodniczącego składowi orzekającego spośród stałych arbitrów, którzy ukończyli studia wyższe kierunku prawo.
-2. Przewodniczący oraz osoba, której mowa 5 ust. 2, może być arbitrem przewodniczącym.
-20. O wyłączeniu albo przewodniczącego rozstrzyga postanowieniem.
-2. O wyłączeniu albo przewodniczącego będącego przewodniczącym rozstrzyga sąd, którym mowa art. 1158 1 dnia 17 listopada 1964 ‒ Kodeks postępowania cywilnego (Dz. 1822, późn.
+§ 11. 1. Wniosek wnosi się do sądu polubownego właściwego ze względu na miejsce zamieszkania konsumenta albo siedzibę przedsiębiorcy.
+2. Za siedzibę przedsiębiorcy uważa się siedzibę w rozumieniu art. 4 ust. 2 ustawy z dnia 23 września 2016 r.
+o pozasądowym rozwiązywaniu sporów konsumenckich.
+§ 12. Sąd polubowny może zawiadamiać i wzywać strony, świadków lub inne osoby w sposób, który uzna za najbardziej celowy, jeżeli uzna to za niezbędne do przyspieszenia rozpoznania sprawy. Dotyczy to również doręczeń.
+§ 13. 1. Przewodniczący dokonuje wstępnego badania wniosku niezwłocznie po wniesieniu go do sądu polubownego.
+2. Jeżeli sąd polubowny nie jest właściwy do rozpoznania sprawy, zgodnie z § 11 ust. 1, przewodniczący zarządza pozostawienie wniosku bez dalszego biegu. W przypadku gdy właściwy do rozpoznania sprawy jest inny sąd polubowny, przewodniczący wskazuje wnioskodawcy ten sąd.
+3. Jeżeli sąd polubowny nie jest właściwy rzeczowo do rozpoznania sprawy, przewodniczący zarządza pozostawienie wniosku bez dalszego biegu, informując wnioskodawcę o prawie do złożenia wniosku do sądu polubownego działającego przy właściwym podmiocie uprawnionym do rozstrzygania sporów konsumenckich.
+§ 14. Zarządzenia, o których mowa w § 13 ust. 2 i 3, wydaje się w terminie trzech tygodni od dnia złożenia wniosku do sądu polubownego.
+§ 15. Jeżeli sprawie nie można nadać dalszego biegu dlatego, że we wniosku nie oznaczono lub niedokładnie oznaczono strony lub przedmiot sporu, wniosek nie jest podpisany, do wniosku nie dołączono jego odpisu dla doręczenia go stronie przeciwnej albo zapisu na sąd polubowny podpisanego co najmniej przez wnioskodawcę, przewodniczący wzywa wnioskodawcę, pod rygorem zwrócenia wniosku, do jego poprawienia lub uzupełnienia w terminie tygodnia od dnia doręczenia wezwania. Po bezskutecznym upływie terminu przewodniczący zwraca wniosek stronie.
+§ 16. 1. Jeżeli sprawie można nadać dalszy bieg, przewodniczący doręcza odpis wniosku stronie przeciwnej i wzywa ją, aby w terminie tygodnia od dnia doręczenia podpisała zapis na sąd polubowny i złożyła jego oryginał do sądu polubownego oraz złożyła na piśmie odpowiedź na wniosek.
+2. Równocześnie z doręczeniem odpisu wniosku przewodniczący poucza strony o uprawnieniu do korzystania z pomocy osób trzecich, w tym osób świadczących profesjonalną pomoc prawną, bez możliwości ubiegania się o zwrot kosztów takiej pomocy od wojewódzkiego inspektoratu inspekcji handlowej oraz strony przeciwnej, o mocy wiążącej wyroku sądu polubownego lub ugody przed nim zawartej na równi z wyrokiem lub ugodą zawartą przed sądem powszechnym po ich uznaniu lub stwierdzeniu ich wykonalności przez sąd powszechny.
+3. W razie bezskutecznego upływu terminu do podpisania zapisu na sąd polubowny i jego złożenia w sądzie polubownym albo jeżeli strona, której doręczono odpis wniosku, oświadczy, że nie zgadza się na rozstrzygnięcie sprawy przez sąd polubowny wskazany we wniosku, przewodniczący zwraca wniosek wnioskodawcy, informując o przyczynie zwrotu.
+§ 17. 1. Jeżeli strona, której doręczono odpis wniosku, złoży podpisany przez siebie zapis na sąd polubowny, przewodniczący wyznacza termin i miejsce rozprawy oraz podejmuje czynności przygotowujące rozprawę.
+2. Rozprawa odbywa się w siedzibie wojewódzkiego inspektoratu inspekcji handlowej albo delegaturze inspektoratu.
+§ 18. 1. Jednocześnie z zawiadomieniem stron o terminie rozprawy przewodniczący wzywa je, pod rygorem powołania arbitrów przez przewodniczącego, aby w terminie tygodnia od dnia doręczenia wezwania powołały do składu orzekającego po jednym arbitrze z listy, wskazując na możliwość wyboru arbitrów:
+1) stronie będącej konsumentem ‒ spośród stałych arbitrów wyznaczonych przez organizacje pozarządowe reprezentujące interesy konsumentów albo stałych arbitrów wyznaczonych przez wojewódzkiego inspektora inspekcji handlowej lub inną zainteresowaną jednostkę organizacyjną na wniosek organizacji pozarządowej reprezentującej interesy konsumentów;
+2) stronie będącej przedsiębiorcą ‒ spośród stałych arbitrów wyznaczonych przez organizacje pozarządowe reprezentujące interesy przedsiębiorców albo stałych arbitrów wyznaczonych przez wojewódzkiego inspektora inspekcji handlowej lub inną zainteresowaną jednostkę organizacyjną na wniosek organizacji pozarządowej reprezentującej interesy przedsiębiorców.
+2. Jeżeli w terminie, o którym mowa w ust. 1, strona nie powołała arbitra, powołuje go przewodniczący, mając na uwadze, że w składzie orzekającym jeden z arbitrów powinien być powołany z listy spośród stałych arbitrów wyznaczonych przez organizacje pozarządowe reprezentujące interesy konsumentów albo stałych arbitrów wyznaczonych przez wojewódzkiego inspektora inspekcji handlowej lub inną zainteresowaną jednostkę organizacyjną na wniosek organizacji pozarządowej reprezentującej interesy konsumentów, a drugi – spośród stałych arbitrów wyznaczonych przez organizacje pozarządowe reprezentujące interesy przedsiębiorców albo stałych arbitrów wyznaczonych przez wojewódzkiego inspektora inspekcji handlowej lub inną zainteresowaną jednostkę organizacyjną na wniosek organizacji pozarządowej reprezentującej interesy przedsiębiorców.
+§ 19. 1. Przewodniczący powołuje arbitra przewodniczącego składowi sądu orzekającego spośród stałych arbitrów, którzy ukończyli studia wyższe na kierunku prawo.
+2. Przewodniczący oraz osoba, o której mowa w § 5 ust. 2, może być arbitrem przewodniczącym.
+§ 20. 1. O wyłączeniu arbitra albo arbitra przewodniczącego rozstrzyga przewodniczący postanowieniem.
+2. O wyłączeniu arbitra albo arbitra przewodniczącego będącego przewodniczącym rozstrzyga sąd, o którym mowa w art. 1158 § 1 ustawy z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn.
 zm. ).
-21. Wniosek wyłączenie albo przewodniczącego strona wnosi do polubownego terminie dwóch tygodni od dnia, którym dowiedziała się okolicznościach uzasadniających wyłączenie, uprawdopodabniając przyczyny wyłączenia.
-2. Strona, która domaga się wyłączenia powołanego siebie, powinna uprawdopodobnić ponadto, że przyczyna wyłączenia stała się jej znana po powołaniu arbitra.
-22. Wniosek wyłączenie albo przewodniczącego będącego przewodniczącym, niezwłocznie przekazuje sądowi, którym mowa art. 1158 1 dnia 17 listopada 1964 ‒ Kodeks postępowania cywilnego.
-23. Jeżeli terminie miesiąca od dnia, którym strona złożyła wniosek wyłączenie albo przewodniczącego, wniosek nie zostanie rozpatrzony przewodniczącego, strona żądająca wyłączenia może terminie następnych dwóch tygodni wystąpić do sądu, którym mowa art. 1158 1 dnia 17 listopada 1964 ‒ Kodeks postępowania cywilnego, wnioskiem jego wyłączenie.
-24. W razie wyłączenia albo przewodniczącego lub złożenia nich rezygnacji nowy arbiter jest powołany do składu orzekającego sposób określony 18 lub 19.
-25. Sąd orzekający, zwany dalej „sądem”, rozpoznaje sprawę rozprawie składzie:
-1) arbiter przewodniczący, którym mowa 19;
-2) dwóch arbitrów powołanych sposób określony 18.
-2. Arbiter powinien skłaniać strony do pojednania, zwłaszcza po wstępnym wyjaśnieniu stanowisk stron. Osnowa ugody zawartej przed sądem jest wciągnięta do protokołu rozprawy stwierdzona podpisami stron. Niemożność podpisania ugody sąd stwierdzi protokole.
-27. Z przebiegu rozprawy protokolant pod kierunkiem przewodniczącego sporządza protokół.
+§ 21. 1. Wniosek o wyłączenie arbitra albo arbitra przewodniczącego strona wnosi do sądu polubownego w terminie dwóch tygodni od dnia, w którym dowiedziała się o okolicznościach uzasadniających wyłączenie, uprawdopodabniając przyczyny wyłączenia.
+2. Strona, która domaga się wyłączenia arbitra powołanego przez siebie, powinna uprawdopodobnić ponadto, że przyczyna wyłączenia stała się jej znana po powołaniu arbitra.
+§ 22. Wniosek o wyłączenie arbitra albo arbitra przewodniczącego będącego przewodniczącym, przewodniczący niezwłocznie przekazuje sądowi, o którym mowa w art. 1158 § 1 ustawy z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego.
+§ 23. Jeżeli w terminie miesiąca od dnia, w którym strona złożyła wniosek o wyłączenie arbitra albo arbitra przewodniczącego, wniosek nie zostanie rozpatrzony przez przewodniczącego, strona żądająca wyłączenia może w terminie następnych dwóch tygodni wystąpić do sądu, o którym mowa w art. 1158 § 1 ustawy z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego, z wnioskiem o jego wyłączenie.
+§ 24. W razie wyłączenia arbitra albo arbitra przewodniczącego lub złożenia przez nich rezygnacji nowy arbiter jest powołany do składu orzekającego w sposób określony w § 18 lub § 19.
+§ 25. 1. Sąd orzekający, zwany dalej „sądem”, rozpoznaje sprawę na rozprawie w składzie:
+1) arbiter przewodniczący, o którym mowa w § 19;
+2) dwóch arbitrów powołanych w sposób określony w § 18.
+2. Arbiter przewodniczący przewodniczy rozprawie.
+§ 26. 1. Rozprawa jest jawna i odbywa się w ten sposób, że po wywołaniu sprawy arbiter przewodniczący udziela głosu stronom, najpierw wnioskodawcy, a potem stronie przeciwnej, które zgłaszają ustnie swe żądania i wnioski oraz przedstawiają twierdzenia i dowody na ich poparcie. Następnie, stosownie do okoliczności, sąd przeprowadza postępowanie dowodowe.
+2. Arbiter przewodniczący powinien skłaniać strony do pojednania, zwłaszcza po wstępnym wyjaśnieniu stanowisk stron. Osnowa ugody zawartej przed sądem jest wciągnięta do protokołu rozprawy i stwierdzona podpisami stron. Niemożność podpisania ugody sąd stwierdzi w protokole.
+§ 27. 1. Z przebiegu rozprawy protokolant pod kierunkiem arbitra przewodniczącego sporządza protokół.
 2. Protokół zawiera:
-1) oznaczenie polubownego oraz miejsca daty rozprawy;
-2) imiona nazwiska przewodniczącego, arbitrów, protokolanta, jak również obecnych rozprawie stron pełnomocników;
+1) oznaczenie sądu polubownego oraz miejsca i daty rozprawy;
+2) imiona i nazwiska arbitra przewodniczącego, arbitrów, protokolanta, jak również obecnych na rozprawie stron i pełnomocników;
 3) oznaczenie sprawy;
-4) przebieg rozprawy, szczególności wnioski twierdzenia stron oraz wyniki postępowania dowodowego, a także ogłoszone zarządzenia postanowienia.
-3. Protokół podpisują arbiter protokolant.
-28. W przypadkach wymagających wiadomości specjalnych zakresu jakości produktów lub usług sąd po wysłuchaniu wniosków stron może wezwać rzeczoznawcę listy rzeczoznawców do spraw jakości produktów lub usług, prowadzonej inspektora handlowej, a także inne osoby celu zasięgnięcia ich opinii.
-29. Rozprawa odbywa się bez względu niestawiennictwo jednej lub obu stron, chyba że przed rozpoczęciem rozprawy strona wniosła jej nieprzeprowadzanie wykazała, że nie może stawić się przyczyn od niej niezależnych.
-2. Sąd odroczy rozprawę, jeżeli stwierdzi nieprawidłowość doręczaniu zawiadomienia albo jeżeli nieobecność strony jest wywołana nadzwyczajnym wydarzeniem lub inną znaną sądowi przeszkodą, której nie można przezwyciężyć, bądź też jeżeli wymaga tego prawidłowe przeprowadzenie postępowania dowodowego.
-30. Sąd umarza postępowanie, jeżeli po doręczeniu odpisu wniosku stwierdzi swą niewłaściwość rzeczową lub miejscową, wskazując ‒ ile to możliwe ‒ inny podmiot, który może rozpatrzyć spór.
-31. Sąd może umorzyć postępowanie, jeżeli po doręczeniu odpisu wniosku zaistnieją przesłanki, których mowa art. 37 ust. 4 dnia 15 grudnia 2000 Inspekcji Handlowej.
-32. Arbiter zamyka rozprawę, gdy sąd orzekający uzna sprawę za dostatecznie wyjaśnioną. Przed zamknięciem rozprawy arbiter udziela głosu stronom.
-33. Po zamknięciu rozprawy sąd odbywa niejawną naradę, po której wydaje wyrok.
-2. Wydanie wyroku następuje terminie 7 dni od dnia zamknięcia rozprawy.
+4) przebieg rozprawy, w szczególności wnioski i twierdzenia stron oraz wyniki postępowania dowodowego, a także ogłoszone zarządzenia i postanowienia.
+3. Protokół podpisują arbiter przewodniczący i protokolant.
+§ 28. W przypadkach wymagających wiadomości specjalnych z zakresu jakości produktów lub usług sąd po wysłuchaniu wniosków stron może wezwać rzeczoznawcę z listy rzeczoznawców do spraw jakości produktów lub usług, prowadzonej przez wojewódzkiego inspektora inspekcji handlowej, a także inne osoby w celu zasięgnięcia ich opinii.
+§ 29. 1. Rozprawa odbywa się bez względu na niestawiennictwo jednej lub obu stron, chyba że przed rozpoczęciem rozprawy strona wniosła o jej nieprzeprowadzanie i wykazała, że nie może stawić się z przyczyn od niej niezależnych.
+2. Sąd odroczy rozprawę, jeżeli stwierdzi nieprawidłowość w doręczaniu zawiadomienia albo jeżeli nieobecność strony jest wywołana nadzwyczajnym wydarzeniem lub inną znaną sądowi przeszkodą, której nie można przezwyciężyć, bądź też jeżeli wymaga tego prawidłowe przeprowadzenie postępowania dowodowego .
+§ 30. Sąd umarza postępowanie, jeżeli po doręczeniu odpisu wniosku stwierdzi swą niewłaściwość rzeczową lub miejscową, wskazując ‒ o ile to możliwe ‒ inny podmiot, który może rozpatrzyć spór.
+§ 31. Sąd może umorzyć postępowanie, jeżeli po doręczeniu odpisu wniosku zaistnieją przesłanki, o których mowa w art. 37 ust. 4 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej.
+§ 32. Arbiter przewodniczący zamyka rozprawę, gdy sąd orzekający uzna sprawę za dostatecznie wyjaśnioną. Przed zamknięciem rozprawy arbiter przewodniczący udziela głosu stronom.
+§ 33. 1. Po zamknięciu rozprawy sąd odbywa niejawną naradę, po której wydaje wyrok.
+2. Wydanie wyroku następuje w terminie 7 dni od dnia zamknięcia rozprawy.
 3. Wyrok zapada większością głosów.
 4. Wyrok zawiera:
-1) oznaczenie polubownego, przewodniczącego, arbitrów protokolanta;
-2) datę miejsce wydania wyroku;
+1) oznaczenie sądu polubownego, arbitra przewodniczącego, arbitrów i protokolanta;
+2) datę i miejsce wydania wyroku;
 3) oznaczenie stron;
 4) oznaczenie przedmiotu sprawy;
-5) oznaczenie zapisu sąd polubowny;
-6) rozstrzygnięcie żądaniach stron;
+5) oznaczenie zapisu na sąd polubowny;
+6) rozstrzygnięcie o żądaniach stron;
+7) przytoczenie motywów, którymi kierował się sąd przy wydaniu wyroku;
+8) podpisy arbitra przewodniczącego i arbitrów.
+§ 34. Odpis wyroku, podpisany tak jak oryginał, wraz z pouczeniem o sposobie i terminie jego zaskarżenia, doręcza się stronom w terminie 14 dni od dnia wydania wyroku.
 
-### DZIAŁ I Wewnętrzna organizacja stałych sądów polubownych W skład stałego polubownego przy wojewódzkim inspektorze handlowej, zwanego dalej „sądem polubownym”, wchodzą:
+### DZIAŁ I Wewnętrzna organizacja stałych sądów polubownych
+
+### DZIAŁ II Czynności stałych sądów polubownych
 
 #### Rozdział 1 Przepisy ogólne
 
 #### Rozdział 2 Czynności przewodniczącego
 
-#### Rozdział 3 Czynności orzekającego
+#### Rozdział 3 Czynności sądu orzekającego
 

@@ -8,10 +8,10 @@ pos: 2027
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 października 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2027 ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 24 października 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002027) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2027/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 24 października 2017 r.
-w sprawie wniosków o wypłatę zaliczki z Funduszu Gwarantowanych Świadczeń Pracowniczych Na podstawie art. 22a ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2016 r. poz. 1256 oraz z 2017 r. poz. 1557) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie wniosków o wypłatę zaliczki z Funduszu Gwarantowanych Świadczeń Pracowniczych Na podstawie art. 22a ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2016 r. poz. 1256 oraz z 2017 r. poz. 1557) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór wniosku pracownika o wypłatę zaliczki na poczet niezaspokojonych przez pracodawcę roszczeń z powodu braku środków finansowych w związku z faktycznym zaprzestaniem działalności przez pracodawcę, o którym mowa w art. 12a ust. 1 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy, zwanej dalej „ustawą”, oraz wzór wniosku pracodawcy o wypłatę zaliczek na poczet niezaspokojonych roszczeń pracowniczych, o którym mowa w art. 15a ust. 1 ustawy;
 2) rodzaje dokumentów wymaganych do wypłaty zaliczek;
 3) tryb:
@@ -44,11 +44,14 @@ c) dokonywania wypłat zaliczek.
 § 4. 1. Marszałek województwa, o którym mowa w art. 15 ust. 3 ustawy, zgodnie z przepisami wydanymi na podstawie art. 27a ustawy, składa do dysponenta Funduszu informację o zapotrzebowaniu na nielimitowane środki finansowe Funduszu z przeznaczeniem na wypłaty zaliczek objętych wnioskiem pracownika albo wnioskiem pracodawcy.
 2. Na podstawie informacji, o której mowa w ust. 1, dysponent Funduszu przekazuje środki finansowe Funduszu na wyodrębniony w wojewódzkim urzędzie pracy rachunek Funduszu.
 § 5. Marszałek województwa, o którym mowa w art. 15 ust. 3 ustawy, zatwierdza wysokość zaliczki do wypłaty z Funduszu oraz zawiadamia:
-1) pracownika w przypadku postępowania wszczętego na podstawie wniosku pracownika,
-2) pracodawcę i pracowników w przypadku postępowania wszczętego na podstawie wniosku pracodawcy o wysokości zaliczki i terminie wypłaty tej zaliczki oraz dokonuje wypłaty na wskazane przez pracowników rachunki albo przekazem pocztowym.
+1) pracownika – w przypadku postępowania wszczętego na podstawie wniosku pracownika,
+2) pracodawcę i pracowników – w przypadku postępowania wszczętego na podstawie wniosku pracodawcy – o wysokości zaliczki i terminie wypłaty tej zaliczki oraz dokonuje wypłaty na wskazane przez pracowników rachunki albo przekazem pocztowym.
 § 6. Pracodawca oraz pracownik składający wniosek zawiadamiają marszałka województwa, o którym mowa w art. 15 ust. 3 ustawy, o każdej zmianie okoliczności mających wpływ na uprawnienie do świadczeń ze środków Funduszu.
 § 7. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska ............................................
+Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska Załączniki do rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 24 października 2017 r. (Dz. U. poz. …..).
+
+## Załącznik nr 1 — WZÓR WZÓR ............................................
+
 ..............................................................................................................
 .............................................................................................................................................................
 ............................................................
@@ -69,7 +72,6 @@ i przekazanie zaliczki:
 albo
 2) przekazem pocztowym na adres: ..............................................................................................................................
 ...................................................................................................................................................................................
-WZÓR
 1. Nazwa i adres pracodawcy .......................................................................................................................................
 ...................................................................................................................................................................................
 ...................................................................................................................................................................................
@@ -77,7 +79,7 @@ WZÓR
 3. Oświadczam, że łączna kwota niezaspokojonych przez pracodawcę, o którym mowa w pkt 1, roszczeń pracowniczych z tytułu zatrudnienia u pracodawcy wynosi ......................................... zł, w tym: wynagrodzenie: − za I miesiąc .................................. rok: .......................... kwota: ................................................... zł (w tym wynagrodzenie za czas choroby .............. zł w okresie od ...................... do ......................) − za II miesiąc ................................ rok: .......................... kwota: .................................................... zł (w tym wynagrodzenie za czas choroby .............. zł w okresie od ...................... do ......................) − za III miesiąc ............................... rok: .......................... kwota: .................................................... zł (w tym wynagrodzenie za czas choroby .............. zł w okresie od ...................... do ......................).
 4. Oświadczam, że pozostaję w zatrudnieniu z pracodawcą wymienionym w pkt 1.
 5. Oświadczam, że z uwzględnieniem wnioskowanej kwoty świadczenia osiągnę/nie osiągnę* kwotę(-ty) ograniczenia rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe na dany rok kalendarzowy, o której mowa w art. 19 ust. 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778).
-6. Oświadczam, że z mojego wynagrodzenia są/nie są* dokonywane potrącenia na zaspokajanie świadczeń alimentacyjnych na zasadach przewidzianych w ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U.
+6. Oświadczam, że z mojego wynagrodzenia są/nie są* dokonywane potrącenia na zaspokajanie świadczeń alimentacyjnych na zasadach przewidzianych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U.
 z 2016 r. poz. 1666, z późn. zm.).
 7. Posiadam/nie posiadam* orzeczenie(-nia) o niepełnosprawności w stopniu: znacznym/umiarkowanym/lekkim* .
 8. Posiadam/nie posiadam* ustalone(go) prawo(-wa) do emerytury lub renty.
@@ -93,19 +95,19 @@ Oświadczam, że jestem świadomy/świadoma* odpowiedzialności karnej za złoż
 .................................................................
 (Wypełnia marszałek województwa) I. Datę faktycznego zaprzestania działalności przez pracodawcę, zgodnie z art. 12a ust. 3 ustawy, ustalono na dzień ..........................................................................................................................................................
 II. Kwotę zaliczki ze środków Funduszu, łącznie ze składkami na ubezpieczenia społeczne należnymi od pracodawcy, ustalono na rzecz ......................................................................................................................., zgodnie z art. 12a ust. 1 ustawy za okres .........................................................................................................
-III. Zatwierdzono ze środków Funduszu łącznie kwotę: ................................................................................... zł (słownie złotych .................................................................................................................................), z tego: kwotę zaliczki brutto: ................................................................................................................................ zł (słownie złotych ..........................................................................................................................................), kwotę składek na ubezpieczenia społeczne należnych od pracodawcy: ......................................................
+III. Zatwierdzono ze środków Funduszu łącznie kwotę: ................................................................................... zł (słownie złotych .................................................................................................................................), z tego: – kwotę zaliczki brutto: ................................................................................................................................ zł (słownie złotych ..........................................................................................................................................), – kwotę składek na ubezpieczenia społeczne należnych od pracodawcy: ......................................................
 .................................................................................................................................................................... zł (słownie złotych ...........................................................................................................................................) ............................................... .................................................
 IV. Potrącenia od zatwierdzonej do wypłaty ze środków Funduszu kwoty z pkt III: ........................................................................................................................................................................ zł:
 1) składki na ubezpieczenia społeczne:
-a) kwota stanowiąca podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe: w przypadku gdy kwota nie przekracza kwoty ograniczenia rocznej podstawy wymiaru: ................................................................................................................................................................ zł, w przypadku gdy kwota przekracza kwotę ograniczenia rocznej podstawy wymiaru: ................................................................................................................................................................ zł,
+a) kwota stanowiąca podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe: – w przypadku gdy kwota nie przekracza kwoty ograniczenia rocznej podstawy wymiaru: ................................................................................................................................................................ zł, – w przypadku gdy kwota przekracza kwotę ograniczenia rocznej podstawy wymiaru: ................................................................................................................................................................ zł,
 b) kwota stanowiąca podstawę wymiaru składek na pozostałe ubezpieczenia społeczne: ................................................................................................................................................................ zł,
-c) kwota do przekazania do Zakładu Ubezpieczeń Społecznych (ze środków pracownika i ze środków pracodawcy) ................................................................................................................ zł: ze środków pracownika ................ %, w kwocie ..................................................... zł, składka emerytalna ....................... %, w kwocie ..................................................... zł, składka rentowa ............................ %, w kwocie ..................................................... zł, składka chorobowa ....................... %, w kwocie ..................................................... zł, ze środków pracodawcy ................ %, w kwocie .................................................... zł, składka emerytalna ....................... %, w kwocie ..................................................... zł, składka rentowa ............................ %, w kwocie ..................................................... zł, składka wypadkowa ...................... % , w kwocie ................................................. zł;
+c) kwota do przekazania do Zakładu Ubezpieczeń Społecznych (ze środków pracownika i ze środków pracodawcy) ................................................................................................................ zł: – ze środków pracownika – ................ %, w kwocie ..................................................... zł, – składka emerytalna – ....................... %, w kwocie ..................................................... zł, – składka rentowa – ............................ %, w kwocie ..................................................... zł, – składka chorobowa – ....................... %, w kwocie ..................................................... zł, – ze środków pracodawcy – ................ %, w kwocie .................................................... zł, – składka emerytalna – ....................... %, w kwocie ..................................................... zł, – składka rentowa – ............................ %, w kwocie ..................................................... zł, – składka wypadkowa – ...................... % , w kwocie ................................................. zł;
 2) składka na ubezpieczenie zdrowotne ............................................................................... %:
-a) kwota stanowiąca podstawę naliczenia składki .......................................................... zł: kwota potrącana od podatku dochodowego (.............. %) ....................................... zł, kwota pobierana z dochodu ubezpieczonego .........................%, ............................. zł,
+a) kwota stanowiąca podstawę naliczenia składki .......................................................... zł: – kwota potrącana od podatku dochodowego (.............. %) ....................................... zł, – kwota pobierana z dochodu ubezpieczonego .........................%, ............................. zł,
 b) łączna kwota do przekazania do Zakładu Ubezpieczeń Społecznych ........................ zł;
 3) zaliczka na podatek dochodowy od osób fizycznych ....................................................... %:
 a) kwota stanowiąca podstawę naliczenia podatku ......................................................... zł,
-b) kwota naliczonego podatku ......................................................................................... zł, w tym wynagrodzenie płatnika (.................. %) kwota ............................................ zł,
+b) kwota naliczonego podatku ......................................................................................... zł, w tym wynagrodzenie płatnika (.................. %) – kwota ............................................ zł,
 c) kwota do przekazania do urzędu skarbowego.............................................................. zł, Urząd Skarbowy w .........................................................................................................
 V. Potrącenia z tytułu świadczeń alimentacyjnych................................................................ zł.
 VI. Kwota zaliczki netto do wypłaty ...................................................................................... zł, przekazana wnioskodawcy:
@@ -128,7 +130,9 @@ na rachunek bankowy Zakładu Ubezpieczeń Społecznych w .......................
 ......................................................................................................................................................................................
 VII. Data i potwierdzenie realizacji wniosku.
 ............................................... .................................................
-......................................................... .......................................
+
+## Załącznik nr 2 — WZÓR WZÓR ......................................................... .......................................
+
 .........................................................
 ........................................................
 ........................................................
@@ -140,5 +144,4 @@ I. Do wniosku dołączam:
 3) podpisane przez pracowników oświadczenia zawierające dane, o których mowa w art. 12a ust. 5 pkt 1 i 3 ustawy: II. Zobowiązuję się do poinformowania marszałka województwa o każdej zmianie danych zawartych we wniosku, w tym szczególnie mającej wpływ na wypłatę wnioskowanych świadczeń.
 III. Oświadczam, że jestem świadomy/świadoma* odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 ....................................................................
-WZÓR
 

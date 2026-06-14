@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych*
 
-Łącznie: **138** orzeczeń
+Łącznie: **139** orzeczeń
 (pominięto 70 orzeczeń sądów rejonowych)
 
 ## art. 4 (2)
@@ -10,7 +10,7 @@ Orzeczenia powołujące: *Ustawa z dnia 17 grudnia 2004 r. o odpowiedzialności 
 - 2008-07-07 | KIO | [KIO/UZP 624/08](https://www.saos.org.pl/judgments/112858) | Wyrok
 - 2014-10-07 | SO | [VII Pa 244/14](https://www.saos.org.pl/judgments/63364) | Uzasadnienie
 
-## art. 5 (16)
+## art. 5 (17)
 
 - 2012-11-07 | SN | [IV CSK 121/12](https://www.saos.org.pl/judgments/99572) | Wyrok ★
 - 2022-12-05 | SO | [I ACa 1492/21](https://www.saos.org.pl/judgments/493659) | Wyrok
@@ -25,6 +25,7 @@ Orzeczenia powołujące: *Ustawa z dnia 17 grudnia 2004 r. o odpowiedzialności 
 - 2014-12-17 | SO | [I ACa 1308/14](https://www.saos.org.pl/judgments/129789) | Wyrok
 - 2014-09-29 | SO | [I ACa 372/14](https://www.saos.org.pl/judgments/68980) | Wyrok
 - 2013-01-08 | SO | [I ACa 981/12](https://www.saos.org.pl/judgments/6210) | Wyrok
+- 2025-05-27 | SO | [XII Ga 177/25](https://www.saos.org.pl/judgments/546913) | Wyrok
 - 2022-09-22 | SO | [II C 475/19](https://www.saos.org.pl/judgments/482694) | Wyrok
 - 2017-05-31 | SO | [II Ca 680/17](https://www.saos.org.pl/judgments/300784) | Wyrok
 - 2016-01-28 | SO | [IV P 148/15](https://www.saos.org.pl/judgments/204038) | Wyrok

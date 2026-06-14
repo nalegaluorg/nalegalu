@@ -8,10 +8,10 @@ pos: 994
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 maja 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 994 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 12 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000994) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/994/text.pdf) |
 
-Poz. 994 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 12 maja 2023 r.
 w sprawie stanowisk pracy związanych z obronnością kraju w administracji publicznej Na podstawie art. 235 ust. 8 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
-poz. 347 i 641) zarządza się, co następuje: § 1. 1. Stanowiskami pracy związanymi z obronnością kraju są stanowiska, na których zakres czynności pracownika obejmuje realizację zadań obronnych, w tym dotyczących planowania i realizacji pozamilitarnych przygotowań obronnych w państwie oraz zarządzania kryzysowego, wynikających z ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny oraz innych ustaw i wydanych na ich podstawie aktów wykonawczych.
+poz. 347 i 641) zarządza się, co następuje:
+§ 1. 1. Stanowiskami pracy związanymi z obronnością kraju są stanowiska, na których zakres czynności pracownika obejmuje realizację zadań obronnych, w tym dotyczących planowania i realizacji pozamilitarnych przygotowań obronnych w państwie oraz zarządzania kryzysowego, wynikających z ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny oraz innych ustaw i wydanych na ich podstawie aktów wykonawczych.
 2. Do stanowisk, o których mowa w ust. 1, zalicza się stanowiska od referenta (równorzędnego) do dyrektora departamentu lub innej komórki organizacyjnej (równorzędnego) włącznie, występujące w:
 1) Kancelarii Prezesa Rady Ministrów;
 2) urzędach obsługujących członków Rady Ministrów i centralne organy administracji rządowej;

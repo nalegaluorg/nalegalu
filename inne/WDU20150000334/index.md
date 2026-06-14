@@ -8,7 +8,7 @@ pos: 334
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 28/3/A/2015 WYROK z dnia 3 marca 2015 r.

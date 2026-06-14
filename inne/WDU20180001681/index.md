@@ -8,10 +8,10 @@ pos: 1681
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 sierpnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1681 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 sierpnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1681/text.pdf) |
 
-Poz. 1681 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 sierpnia 2018 r.
-w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, 1515, 1532, 1544, 1552 i 1669) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Zdrowia z dnia 14 października 2015 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1628) po § 4 dodaje się § 4a w brzmieniu: „§ 4a. Pielęgniarkom i położnym, wykonującym zawód w ramach jednej z form, o których mowa w art. 19 ust. 1 pkt 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2018 r. poz. 123, z późn.
+w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, 1515, 1532, 1544, 1552 i 1669) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 14 października 2015 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1628) po § 4 dodaje się § 4a w brzmieniu: „§ 4a. Pielęgniarkom i położnym, wykonującym zawód w ramach jednej z form, o których mowa w art. 19 ust. 1 pkt 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2018 r. poz. 123, z późn.
 zm. ), i realizującym świadczenia opieki zdrowotnej, zapewnia się wzrost wynagrodzenia zasadniczego od dnia 1 lipca 2019 r. o kwotę w wysokości nie niższej niż 1200 zł miesięcznie, przy czym od dnia 1 września 2018 r.
 o kwotę w wysokości nie niższej niż 1100 zł miesięcznie, w przeliczeniu na pełen etat pielęgniarki albo położnej, uwzględniając kwoty, o których mowa w § 4 .”.
 § 2. 1. W terminie 14 dni od dnia wejścia w życie niniejszego rozporządzenia świadczeniodawca posiadający umowę o udzielanie świadczeń opieki zdrowotnej przekaże do dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia, za pośrednictwem serwisów internetowych, o których mowa w § 10 załącznika do rozporządzenia Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U.
@@ -34,7 +34,7 @@ z 2016 r. poz. 1146, z 2017 r. poz. 1809 oraz z 2018 r. poz. 1373), informację,
 2. Informację określoną w ust. 1 świadczeniodawca, z wyłączeniem świadczeniodawcy posiadającego umowę o udzielanie świadczeń opieki zdrowotnej w rodzaju podstawowa opieka zdrowotna, w zakresie świadczeń, dla których jednostką rozliczeniową jest kapitacyjna stawka roczna, sporządza:
 1) w 2018 r., także według stanu na dzień 1 października 2018 r., i przekazuje do dnia 14 października 2018 r.;
 2) w 2019 r., według stanu na dzień:
-a) 1 stycznia 2019 r. i przekazuje do dnia 14 stycznia 2019 r., Dziennik Ustaw – 2 – Poz. 1681
+a) 1 stycznia 2019 r. i przekazuje do dnia 14 stycznia 2019 r.,
 b) 1 kwietnia 2019 r. i przekazuje do dnia 14 kwietnia 2019 r.,
 c) 1 lipca 2019 r. i przekazuje do dnia 14 lipca 2019 r.
 3. W 2019 r. informację określoną w ust. 1 świadczeniodawca posiadający umowę o udzielanie świadczeń opieki zdrowotnej w rodzaju podstawowa opieka zdrowotna, w zakresie świadczeń, dla których jednostką rozliczeniową jest kapitacyjna stawka roczna, sporządza według stanu na dzień 1 lipca 2019 r. i przekazuje do dnia 14 lipca 2019 r.

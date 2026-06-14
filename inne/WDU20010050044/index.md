@@ -8,7 +8,7 @@ pos: 44
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o jakości handlowej artykułów rolno-spożywczych
@@ -33,7 +33,34 @@ source: "isap-pdf"
 
 **Art. 2.** Przepisy ustawy nie dotyczą:
 
+- **1)** artykułów rolno-spożywczych wytwarzanych na własny użytek;
+- **2)** materiału siewnego roślin rolniczych, ogrodniczych i zielarskich w rozumieniu przepisów o nasiennictwie;
+- **3)** (uchylony)
+- **4)** wymagań zdrowotnych, sanitarnych, weterynaryjnych i fitosanitarnych dotyczących artykułów rolno-spożywczych określonych w odrębnych przepisach;
+- **5)** jakości handlowej owoców i warzyw w zakresie uregulowanym w przepisach Unii Europejskiej.
+
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** artykuły rolno-spożywcze – produkty rolne, runo leśne, dziczyznę, organizmy morskie i słodkowodne w postaci surowców, półproduktów oraz wyrobów gotowych otrzymywanych z tych surowców i półproduktów, w tym środki spożywcze i pasze przeznaczone dla zwierząt domowych;
+- **2)** żywność (środek spożywczy) – każdą substancję lub produkt w rozumieniu art. 2 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002);
+- **3)** (uchylony)
+- **4)** obrót – czynności w rozumieniu art. 3 pkt 8 rozporządzenia, o którym mowa w pkt 2;
+- **5)** jakość handlowa – cechy artykułu rolno-spożywczego dotyczące jego właściwości organoleptycznych, fizykochemicznych i mikrobiologicznych w zakresie technologii produkcji, wielkości lub masy oraz wymagania wynikające ze sposobu produkcji, opakowania, prezentacji i oznakowania, nieobjęte wymaganiami sanitarnymi, weterynaryjnymi lub fitosanitarnymi;
+- **6)** (uchylony)
+- **7)** partia produkcyjna – określoną ilość artykułu rolno-spożywczego wyprodukowanego, przetworzonego lub zapakowanego w praktycznie takich samych warunkach;
+- **8)** próbka – część partii produkcyjnej pobraną jednorazowo, w sposób losowy, w celu kontroli lub oceny w zakresie jakości handlowej artykułu rolno-spożywczego;
+- **9)** producent – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która:
+    - **a)** produkuje lub paczkuje artykuły rolno-spożywcze, lub
+    - **b)** wprowadza artykuły rolno-spożywcze do obrotu, jeżeli działalność ta jest zarejestrowana na terytorium któregoś z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
+
+- **10)** artykuł rolno-spożywczy zafałszowany – produkt, którego skład jest niezgodny z przepisami dotyczącymi jakości handlowej poszczególnych artykułów rolno-spożywczych, albo produkt, w którym zostały wprowadzone zmiany, w tym zmiany dotyczące oznakowania, mające na celu ukrycie jego rzeczywistego składu lub innych właściwości, jeżeli niezgodności te lub zmiany w istotny sposób naruszają interesy konsumentów finalnych, w szczególności jeżeli:
+    - **a)** dokonano zabiegów, które zmieniły lub ukryły jego rzeczywisty skład lub nadały mu wygląd produktu zgodnego z przepisami dotyczącymi jakości handlowej,
+    - **b)** w oznakowaniu podano nazwę niezgodną z przepisami dotyczącymi jakości handlowej poszczególnych artykułów rolno-spożywczych albo niezgodną z prawdą,
+    - **c)** w oznakowaniu podano niezgodne z prawdą dane w zakresie składu, pochodzenia, terminu przydatności do spożycia lub daty minimalnej trwałości, zawartości netto lub klasy jakości handlowej;
+
+- **11)** konsument finalny – konsumenta finalnego, w rozumieniu art. 3 pkt 18 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności;
+- **12)** sprzedaż na odległość – wprowadzanie do obrotu artykułów rolno-spożywczych w ramach zorganizowanego systemu zawierania umów na odległość, bez jednoczesnej fizycznej obecności stron, z wyłącznym wykorzystaniem co najmniej jednego środka porozumiewania się na odległość, w tym sprzedaż, o której mowa w art. 36 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. );
+- **13)** zakup kontrolny – nabycie anonimowo przez pracownika Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych artykułu rolno-spożywczego w celu kontroli w zakresie jakości handlowej tego artykułu.
 
 #### Rozdział 2 Jakość handlowa
 
@@ -229,6 +256,16 @@ source: "isap-pdf"
 2. Minister właściwy do spraw rynków rolnych, na wniosek Głównego Inspektora Jakości Handlowej Artykułów Rolno-Spożywczych, może, w drodze decyzji, cofnąć przyznanie znaku jakości dla artykułów rolno-spożywczych, o których mowa w art. 13 ust. 1 pkt 1, przed upływem terminu, o którym mowa w ust. 1, jeżeli artykuł rolno-spożywczy przestanie spełniać wymagania jakościowe, o których mowa w art. 13 ust. 1 pkt 1.
 
 **Art. 15.** Minister właściwy do spraw rynków rolnych, w drodze rozporządzenia:
+
+- **1)** w porozumieniu z ministrem właściwym do spraw zdrowia określi sposób znakowania i szczegółowy zakres informacji podawanych w oznakowaniu poszczególnych rodzajów środków spożywczych, w tym środków spożywczych:
+    - **a)** bez opakowań przeznaczonych do sprzedaży konsumentowi finalnemu lub zakładom żywienia zbiorowego w rozumieniu art. 2 ust. 2 lit. d rozporządzenia Parlamentu Europejskiego i Rady nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz. UE L 304 z 22.11.2011, str. 18, z późn. zm.),
+    - **b)** pakowanych przy sprzedaży,
+
+- **2)** może określić inne szczegółowe wymagania w zakresie jakości handlowej niektórych artykułów rolno-spożywczych lub ich grup,
+- **3)** może określić szczegółowe wymagania w zakresie składowania lub transportu niektórych artykułów rolno-spożywczych,
+- **4)** określi szczegółowy zakres i sposób znakowania niektórych grup i rodzajów artykułów rolno-spożywczych kodem identyfikacyjnym partii produkcyjnej,
+- **5)** może określić sposób żywienia lub warunki chowu zwierząt, mające wpływ na jakość handlową artykułów rolno-spożywczych otrzymywanych z tych zwierząt,
+- **6)** może określić szczegółowy zakres i sposób znakowania nieprzeznaczonych bezpośrednio dla konsumenta finalnego niektórych grup i rodzajów opakowanych artykułów rolno-spożywczych lub artykułów rolno-spożywczych bez opakowań – mając na względzie konieczność zapewnienia nabywcy niezbędnych informacji umożliwiających porównanie nabywanego artykułu rolno-spożywczego z innymi artykułami rolno-spożywczymi tego samego rodzaju, zapobieganie nieuczciwym praktykom rynkowym oraz zapewnienie właściwej jakości handlowej tych artykułów.
 
 **Art. 15a.**
 
@@ -440,6 +477,9 @@ source: "isap-pdf"
 10. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych informuje właściwe organy zainteresowanych państw członkowskich Unii Europejskiej o podmiotach, które uzyskały zwolnienie zgodnie z art. 11 ust. 2 lit. a rozporządzenia nr 589/2008.
 
 **Art. 18.** Zadania Inspekcji wykonują następujące organy:
+
+- **1)** Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych, zwany dalej „Głównym Inspektorem”;
+- **2)** wojewoda przy pomocy wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych, zwanego dalej „wojewódzkim inspektorem”, jako kierownika wojewódzkiej inspekcji jakości handlowej artykułów rolno-spożywczych, wchodzącej w skład zespolonej administracji wojewódzkiej.
 
 **Art. 18a.** Kontrole należące do zakresu działania właściwych organów Inspekcji wykonuje również Służba Celno-Skarbowa w zakresie określonym w przepisach odrębnych.
 
@@ -776,6 +816,10 @@ source: "isap-pdf"
 
 **Art. 34.** Minister właściwy do spraw rynków rolnych w drodze rozporządzenia:
 
+- **1)** określi szczegółowe warunki pobierania próbek artykułów rolno-spożywczych,
+- **2)** może określić metody analiz lub inne czynności związane z dokonywaniem kontroli lub oceny niektórych artykułów rolno-spożywczych,
+- **3)** może określić szczegółowe warunki ustalania klas jakości handlowej niektórych artykułów rolno-spożywczych – mając na względzie ich rodzaj i przeznaczenie.
+
 **Art. 35.**
 
 1. Pracownicy Inspekcji mogą pobierać próbki lub ustalać klasy jakości handlowej określonych artykułów rolno-spożywczych na zlecenie zainteresowanych przedsiębiorców.
@@ -891,6 +935,9 @@ source: "isap-pdf"
 
 **Art. 35b.** Za przeprowadzenie egzaminów, o których mowa w art. 35 ust. 2 pkt 1 i 2:
 
+- **1)** przewodniczący komisji kwalifikacyjnej otrzymuje wynagrodzenie w wysokości 1% przeciętnego wynagrodzenia za rok poprzedzający rok przeprowadzenia egzaminu,
+- **2)** członkowie komisji kwalifikacyjnej otrzymują wynagrodzenie w wysokości 0,5% przeciętnego wynagrodzenia za rok poprzedzający rok przeprowadzenia egzaminu – od jednej osoby egzaminowanej.
+
 **Art. 36.**
 
 1. Rzeczoznawcy z przeprowadzonych czynności sporządzają protokół.
@@ -943,6 +990,10 @@ source: "isap-pdf"
 4. W przypadku określonym w ust. 3, wojewódzki inspektor kieruje do rzeczoznawcy pisemne upomnienie, wskazując popełnione naruszenia oraz nakazując rzeczoznawcy podjęcie określonych działań naprawczych w wyznaczonym terminie. W razie niewykonania tych działań naprawczych w terminie wojewódzki inspektor skreśla rzeczoznawcę z rejestru rzeczoznawców.
 
 **Art. 38.** Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
+
+- **1)** sposób przeprowadzania egzaminów, o których mowa w art. 22 ust. 2 pkt 2 oraz art. 35 ust. 2 pkt 1 i 2, oraz sposób powoływania i skład komisji kwalifikacyjnej,
+- **2)** szczegółowy tryb ubiegania się o udzielenie upoważnienia oraz szczegółowe wymagania do uzyskania przez podmiot upoważnienia do prowadzenia szkoleń w zakresie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a,
+- **3)** wzory zaświadczeń o wpisie do rejestru rzeczoznawców, pieczęci imiennej wydawanej rzeczoznawcom i protokołów z przeprowadzonych przez rzeczoznawcę czynności – mając na względzie zapewnienie rzetelnej i obiektywnej kontroli artykułów rolno-spożywczych.
 
 **Art. 39.**
 
@@ -1176,11 +1227,25 @@ source: "isap-pdf"
 
 **Art. 46.** Z dniem wejścia w życie ustawy:
 
+- **1)** nieruchomości, będące w trwałym zarządzie, oraz pozostałe mienie, będące w zarządzie Głównego Inspektoratu Skupu i Przetwórstwa Artykułów Rolnych oraz wojewódzkich inspektoratów skupu i przetwórstwa artykułów rolnych, przechodzą z mocy prawa odpowiednio w trwały zarząd lub w zarząd Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych i wojewódzkich inspektoratów;
+- **2)** nieruchomości, stanowiące własność Centralnego Inspektoratu Standaryzacji, stają się własnością Skarbu Państwa pozostającą w trwałym zarządzie Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych, a pozostałe mienie, stanowiące własność Centralnego Inspektoratu Standaryzacji lub mienie Skarbu Państwa będące we władaniu Centralnego Inspektoratu Standaryzacji, staje się z mocy prawa mieniem Skarbu Państwa, będącym w zarządzie Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **3)** wierzytelności i zobowiązania Głównego Inspektoratu Skupu i Przetwórstwa Artykułów Rolnych oraz Centralnego Inspektoratu Standaryzacji stają się wierzytelnościami i zobowiązaniami Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **4)** wierzytelności i zobowiązania wojewódzkich inspektoratów skupu i przetwórstwa artykułów rolnych stają się wierzytelnościami i zobowiązaniami wojewódzkich inspektoratów jakości handlowej artykułów rolno-spożywczych.
+
 **Art. 46a.** Ilekroć w przepisach odrębnych jest mowa o:
+
+- **1)** Inspekcji Skupu i Przetwórstwa Artykułów Rolnych – należy przez to rozumieć Inspekcję Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **2)** Głównym Inspektorze Inspekcji Skupu i Przetwórstwa Artykułów Rolnych – należy przez to rozumieć Głównego Inspektora Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **3)** wojewódzkim inspektorze skupu i przetwórstwa artykułów rolnych – należy przez to rozumieć wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych;
+- **4)** Głównym Inspektoracie Inspekcji Skupu i Przetwórstwa Artykułów Rolnych – należy przez to rozumieć Główny Inspektorat Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **5)** wojewódzkim inspektoracie skupu i przetwórstwa artykułów rolnych – należy przez to rozumieć wojewódzki inspektorat jakości handlowej artykułów rolno-spożywczych.
 
 **Art. 47.** (pominięty)
 
 **Art. 48.** Tracą moc:
+
+- **1)** ustawa z dnia 30 czerwca 1970 r. o Inspekcji Skupu i Przetwórstwa Artykułów Rolnych (Dz. U. z 2000 r. poz. 293, 991 i 1191 oraz z 2001 r. poz. 19);
+- **2)** ustawa z dnia 12 września 1996 r. o państwowym nadzorze standaryzacyjnym towarów rolno-spożywczych w obrocie z zagranicą (Dz. U. poz. 584).
 
 **Art. 49.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r.
 

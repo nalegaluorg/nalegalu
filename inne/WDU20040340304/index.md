@@ -8,7 +8,7 @@ pos: 304
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 18 lutego 2004 r.

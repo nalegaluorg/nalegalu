@@ -8,7 +8,7 @@ pos: 1932
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw
@@ -28,6 +28,111 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1932/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 17:
+    - **a)** w ust. 1 w pkt 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „przychody z:”,
+    - **b)** po ust. 1aa dodaje się ust. 1ab w brzmieniu: „1ab. Przychód określony w ust. 1 pkt 6:
+
+- **1)** z odpłatnego zbycia udziałów (akcji) oraz papierów wartościowych powstaje w momencie przeniesienia na nabywcę własności udziałów (akcji) oraz papierów wartościowych;
+- **2)** z realizacji praw wynikających z papierów wartościowych powstaje w momencie realizacji tych praw.”;
+- **2)** w art. 21 w ust. 1:
+    - **a)** pkt 77 otrzymuje brzmienie: „77) równoważniki pieniężne za brak lokalu mieszkalnego, wypłacone: funkcjonariuszom Policji i Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Granicznej, Służby Celnej, Biura Ochrony Rządu oraz strażakom Państwowej Straży Pożarnej, do wysokości nieprzekraczającej kwoty 2280 zł;”,
+    - **b)** pkt 82 otrzymuje brzmienie: „82) uposażenia funkcjonariuszy Organizacji Narodów Zjednoczonych, organizacji wyspecjalizowanych oraz innych międzynarodowych instytucji i organizacji, których Rzeczpospolita Polska jest członkiem i których statuty przewidują zwolnienie od podatku wypłacanych przez nie uposażeń, pod warunkiem posiadania przez podatnika dokumentów stwierdzających, że jest funkcjonariuszem takiej organizacji lub instytucji;”;
+
+- **3)** w art. 25 ust. 5a otrzymuje brzmienie: „5a. Posiadanie udziału w kapitale innego podmiotu, o którym mowa w ust. 1 i 4, oznacza sytuację, w której dany podmiot bezpośrednio lub pośrednio posiada w kapitale innego podmiotu udział nie mniejszy niż 25%.”;
+- **4)** w art. 25a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podatnicy:
+
+- **1)** prowadzący pozarolniczą działalność gospodarczą lub działy specjalne produkcji rolnej, którzy w roku podatkowym oraz w roku poprzedzającym rok podatkowy prowadzą i prowadzili księgi rachunkowe:
+    - **a)** dokonujący w roku podatkowym transakcji z podmiotami powiązanymi w rozumieniu art. 25 ust. 1 i 4, mających istotny wpływ na wysokość ich dochodu (straty), lub
+    - **b)** ujmujący w roku podatkowym w księgach rachunkowych inne zdarzenia, których warunki zostały ustalone (lub narzucone) z podmiotami powiązanymi w rozumieniu art. 25 ust. 1 i 4, mające istotny wpływ na wysokość ich dochodu (straty) – których przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły w roku poprzedzającym rok podatkowy równowartość 2 000 000 euro, lub
+
+- **2)** dokonujący, bezpośrednio lub pośrednio, zapłaty należności na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, wynikających z transakcji lub innego zdarzenia ujętego w księgach rachunkowych, jeżeli łączna kwota (lub jej równowartość) wynikająca z umowy lub rzeczywiście zapłacona w roku podatkowym łączna kwota wymagalnych w roku podatkowym świadczeń przekracza równowartość 20 000 euro, lub
+- **3)** zawierający z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową:
+    - **a)** umowę spółki niebędącej osobą prawną, jeżeli łączna wartość wniesionych przez wspólników wkładów przekracza równowartość 20 000 euro lub
+    - **b)** umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w których wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości – przewidywana na dzień zawarcia umowy, przekracza równowartość 20 000 euro – są obowiązani do sporządzenia dokumentacji podatkowej tych transakcji lub innych zdarzeń, zwanej dalej „dokumentacją podatkową”.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1g w brzmieniu: „1a. Podatnicy, o których mowa w ust. 1 pkt 1, są obowiązani do sporządzenia dokumentacji podatkowej również za rok podatkowy następujący po roku podatkowym, za który byli obowiązani sporządzić dokumentację podatkową, bez względu na wysokość osiągniętych, w roku podatkowym, za który byli obowiązani do sporządzenia dokumentacji podatkowej, przychodów lub poniesionych kosztów, w rozumieniu przepisów o rachunkowości.
+
+1b. Podatnicy rozpoczynający prowadzenie pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, prowadzący w roku podatkowym księgi rachunkowe i dokonujący w roku podatkowym transakcji lub ujmujący w roku podatkowym w księgach rachunkowych inne zdarzenia, o których mowa w ust. 1 pkt 1, są obowiązani do sporządzenia dokumentacji podatkowej w roku rozpoczęcia prowadzenia tej działalności lub działów specjalnych produkcji rolnej, począwszy od miesiąca następującego po miesiącu, w którym przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły równowartość 2 000 000 euro.
+
+1c. Za podatnika rozpoczynającego prowadzenie pozarolniczej działalności gospodarczej lub działy specjalne produkcji rolnej, o którym mowa w ust. 1b, uważa się podatnika, który nie prowadził pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej w roku poprzedzającym rok rozpoczęcia pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej.
+
+1d. Za transakcje lub inne zdarzenia mające istotny wpływ na wysokość dochodu (straty) podatnika, o których mowa w ust. 1 pkt 1, uznaje się transakcje lub inne zdarzenia jednego rodzaju, których łączna wartość przekracza w roku podatkowym równowartość 50 000 euro, z tym że w przypadku podatników, których przychody w rozumieniu przepisów o rachunkowości, w roku poprzedzającym rok podatkowy przekroczyły równowartość:
+
+- **1)** 2 000 000 euro, lecz nie więcej niż równowartość 20 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość przekracza w roku podatkowym kwotę stanowiącą równowartość kwoty 50 000 euro powiększoną o 5000 euro za każdy 1 000 000 euro przychodu powyżej 2 000 000 euro;
+- **2)** 20 000 000 euro, lecz nie więcej niż równowartość 100 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość przekracza w roku podatkowym kwotę stanowiącą równowartość kwoty 140 000 euro powiększoną o 45 000 euro za każde 10 000 000 euro przychodu powyżej 20 000 000 euro;
+- **3)** 100 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość w roku podatkowym przekracza kwotę stanowiącą równowartość kwoty 500 000 euro.
+
+1e. Za transakcje lub inne zdarzenia mające istotny wpływ na wysokość dochodu (straty) podatnika, o których mowa w ust. 1 pkt 1, uznaje się również zawartą w roku podatkowym:
+
+- **1)** umowę spółki niebędącej osobą prawną, w której łączna wartość wniesionych przez wspólników wkładów przekracza równowartość 50 000 euro lub
+- **2)** umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w której wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości – przewidywana na dzień zawarcia umowy, przekracza równowartość 50 000 euro.
+
+1f. W przypadku prowadzenia przez podatnika pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej w formie spółki niebędącej osobą prawną, jeżeli spółka niebędąca osobą prawną dokonuje transakcji lub innych zdarzeń, o których mowa w ust. 1 pkt 1, spełnienie warunku prowadzenia ksiąg rachunkowych i limit przychodów lub kosztów, o których mowa w ust. 1 pkt 1, ustala się dla tej spółki.
+
+1g. W przypadku, o którym mowa w ust. 1f, dokumentacja podatkowa może zostać sporządzona przez wyznaczonego wspólnika mającego siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej. Wyznaczenie wspólnika nie zwalnia pozostałych wspólników z odpowiedzialności za nieprzedłożenie wymaganej dokumentacji podatkowej.”,
+
+- **c)** uchyla się ust. 2 i 2a,
+- **d)** po ust. 2a dodaje się ust. 2b–2i w brzmieniu: „2b. Dokumentacja podatkowa obejmuje:
+- **1)** opis transakcji lub innych zdarzeń, o których mowa w ust. 1, w tym umów zarządzania płynnością, umów o podziale kosztów, dokonywanych pomiędzy podatnikiem, a w przypadku, o którym mowa w ust. 1f – spółką niebędącą osobą prawną, i podmiotami z nimi powiązanymi, zawierający:
+    - **a)** wskazanie rodzaju i przedmiotu tych transakcji lub innych zdarzeń,
+    - **b)** dane finansowe, w tym przepływy pieniężne, dotyczące tych transakcji lub innych zdarzeń,
+    - **c)** dane identyfikujące podmioty powiązane dokonujące tych transakcji lub ujmujące te zdarzenia,
+    - **d)** opis przebiegu tych transakcji lub innych zdarzeń, w tym funkcji wykonywanych przez podatnika, a w przypadku, o którym mowa w ust. 1f – spółkę niebędącą osobą prawną, i podmioty z nimi powiązane, angażowanych przez nich aktywów bilansowych i pozabilansowych, kapitału ludzkiego oraz ponoszonych ryzyk,
+    - **e)** wskazanie metody i sposobu kalkulacji dochodu (straty) podatnika wraz z uzasadnieniem ich wyboru, w tym algorytmu kalkulacji rozliczeń dotyczących tych transakcji lub innych zdarzeń oraz sposobu wyliczenia wartości rozliczeń wpływających na dochód (stratę) podatnika, a w przypadku, o którym mowa w ust. 1f – również pozostałych wspólników spółki niebędącej osobą prawną;
+
+- **2)** w przypadku podatników:
+    - **a)** których przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły w roku poprzedzającym rok podatkowy równowartość 10 000 000 euro albo
+    - **b)** prowadzących pozarolniczą działalność gospodarczą lub działy specjalne produkcji rolnej w formie spółki niebędącej osobą prawną, której przychody lub koszty, w rozumieniu obowiązujących tę spółkę przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły w poprzednim roku obrotowym w rozumieniu tych przepisów równowartość 10 000 000 euro – poza opisem, o którym mowa w pkt 1, także opis analizy danych podmiotów niezależnych lub danych ustalonych z podmiotem niezależnym, uznanych za porównywalne do warunków ustalonych w transakcjach lub innych zdarzeniach, o których mowa w ust. 1, zwanej dalej „analizą danych porównawczych”, wykorzystanych do kalkulacji rozliczeń, o której mowa w pkt 1 lit. e, wraz z podaniem źródła tych danych;
+
+- **3)** opis danych finansowych podatnika, a w przypadku, o którym mowa w ust. 1f – spółki niebędącej osobą prawną, pozwalający na porównanie rozliczeń, o których mowa w pkt 1 lit. e, z danymi wynikającymi z zatwierdzonego sprawozdania finansowego, jeżeli obowiązek jego sporządzenia wynika z obowiązujących podatnika lub spółkę przepisów o rachunkowości;
+- **4)** informacje o podatniku, a w przypadku, o którym mowa w ust. 1f – o spółce niebędącej osobą prawną, obejmujące opis:
+    - **a)** struktury organizacyjnej i struktury zarządczej,
+    - **b)** przedmiotu i zakresu prowadzonej działalności gospodarczej,
+    - **c)** realizowanej strategii gospodarczej, w tym przeprowadzonych w roku podatkowym lub w roku poprzedzającym rok podatkowy przeniesień pomiędzy podmiotami powiązanymi istotnych ekonomicznie funkcji, aktywów lub ryzyk, mających wpływ na dochód (stratę) podatnika,
+    - **d)** otoczenia konkurencyjnego;
+
+- **5)** dokumenty, w szczególności:
+    - **a)** umowy, porozumienia zawarte pomiędzy podmiotami powiązanymi lub inne dokumenty, dotyczące transakcji lub innych zdarzeń, o których mowa w ust. 1, umowę spółki niebędącej osobą prawną, umowę wspólnego przedsięwzięcia lub umowy o podobnym charakterze, dokumentujące zasady przyznawania praw wspólnikom (stronom umowy) do udziału w zysku oraz uczestnictwa w stratach,
+    - **b)** porozumienia w sprawach podatku dochodowego zawarte z administracjami podatkowymi państw innych niż Rzeczpospolita Polska, dotyczące transakcji lub innych zdarzeń, o których mowa w ust. 1, w szczególności uprzednie porozumienia cenowe.
+
+2c. Analiza danych porównawczych powinna zawierać dane porównywalne o podmiotach mających siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, jeżeli dane są dla podatnika dostępne. W przypadku braku danych do przeprowadzenia analizy danych porównawczych, podatnik załącza do dokumentacji podatkowej opis zgodności warunków transakcji oraz innych zdarzeń, ustalonych z podmiotami powiązanymi, z warunkami, które ustaliłyby między sobą niezależne podmioty.
+
+2d. W przypadku podatników prowadzących pozarolniczą działalność gospodarczą lub działy specjalne produkcji rolnej w formie spółki niebędącej osobą prawną, jeżeli spółka ta tworzy wraz z podmiotami powiązanymi grupę kapitałową w rozumieniu przepisów o rachunkowości co najmniej dwóch podmiotów powiązanych oraz przychody tej spółki lub jej koszty, w rozumieniu przepisów o rachunkowości, przekroczyły w poprzednim roku obrotowym równowartość 20 000 000 euro, dokumentacja podatkowa powinna również zawierać informacje o grupie podmiotów powiązanych, w skład której wchodzi ta spółka, obejmujące w szczególności:
+
+- **1)** wskazanie podmiotu powiązanego, który sporządził informacje o grupie podmiotów powiązanych, wraz z podaniem daty składania przez niego rocznego zeznania podatkowego;
+- **2)** strukturę organizacyjną grupy podmiotów powiązanych;
+- **3)** opis zasad wyznaczania cen transakcyjnych (polityki cen transakcyjnych) stosowanych przez grupę podmiotów powiązanych;
+- **4)** opis przedmiotu i zakresu działalności gospodarczej prowadzonej przez grupę podmiotów powiązanych;
+- **5)** opis posiadanych, tworzonych, rozwijanych i wykorzystywanych w działalności gospodarczej przez grupę podmiotów powiązanych istotnych wartości niematerialnych;
+- **6)** opis sytuacji finansowej podmiotów tworzących grupę wraz ze sprawozdaniem skonsolidowanym podmiotów powiązanych tworzących grupę podmiotów powiązanych;
+- **7)** opis zawartych przez podmioty tworzące grupę podmiotów powiązanych porozumień w sprawach podatku dochodowego z administracjami podatkowymi państw innych niż Rzeczpospolita Polska, w tym jednostronnych uprzednich porozumień cenowych.
+
+2e. Obowiązek sporządzenia dokumentacji podatkowej w przypadku transakcji objętych decyzją w sprawie uznania prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej pomiędzy podmiotami powiązanymi w okresie, którego ta decyzja dotyczy, obejmuje informacje, o których mowa w ust. 2b pkt 1 lit. b, d i e.
+
+2f. W przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, dokumentację podatkową w zakresie elementów wymienionych w ust. 2b sporządza się nie później niż do dnia upływu terminu określonego dla złożenia rocznego zeznania podatkowego, z tym że opis, o którym mowa w ust. 2b pkt 3, sporządza się w terminie 10 dni od dnia zatwierdzenia sprawozdania finansowego podatnika lub spółki niebędącej osobą prawną.
+
+2g. Dokumentacja podatkowa dotycząca kontynuowanych w kolejnym roku podatkowym transakcji lub innych zdarzeń, o których mowa w ust. 1 pkt 1, podlega okresowemu przeglądowi i aktualizacji, nie rzadziej niż raz na rok podatkowy, przed dniem upływu terminu określonego dla złożenia rocznego zeznania podatkowego za kolejne lata, w zakresie zawartych w niej informacji, z zastrzeżeniem ust. 2h.
+
+2h. Dokumentacja podatkowa obejmująca elementy wymienione w ust. 2b pkt 2 podlega w tym zakresie aktualizacji nie rzadziej niż co 3 lata, chyba że zmiana warunków ekonomicznych w stopniu znacznie wpływającym na analizę danych porównawczych uzasadnia dokonanie przeglądu w roku zaistnienia tej zmiany.
+
+2i. Informacje, o których mowa w ust. 2d, dołącza się do dokumentacji podatkowej w terminie do dnia złożenia rocznego zeznania podatkowego, o którym mowa w ust. 2d pkt 1.”, Żądanie powinno wskazywać okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji lub innych zdarzeń. Podatnik jest obowiązany do sporządzenia i przedłożenia dokumentacji podatkowej, w terminie 30 dni od dnia doręczenia takiego żądania.”,
+
+- **e)** uchyla się ust. 3 i 3a,
+- **f)** po ust. 3c dodaje się ust. 3d w brzmieniu: „3d. Obowiązek sporządzenia dokumentacji podatkowej w przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, nie ma zastosowania do transakcji, w których cena lub sposób określenia ceny przedmiotu takiej transakcji wynika z przepisów ustaw lub wydanych na ich podstawie aktów normatywnych.”,
+- **g)** ust. 4 otrzymuje brzmienie: „4. Na żądanie organów podatkowych lub organów kontroli skarbowej podatnicy, o których mowa w ust. 1, 1b, 5a i 5b, są obowiązani do przedłożenia dokumentacji podatkowej w terminie 7 dni od dnia doręczenia tego żądania.”,
+- **h)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Organ podatkowy lub organ kontroli skarbowej może wystąpić do podatnika z żądaniem sporządzenia i przedłożenia dokumentacji podatkowej dla transakcji lub innych zdarzeń, których wartość nie przekracza limitów określonych w ust. 1d lub 1e, w przypadku zaistnienia okoliczności wskazujących na prawdopodobieństwo zaniżenia ich wartości w celu uniknięcia obowiązku sporządzenia dokumentacji podatkowej.
+- **i)** ust. 5 otrzymuje brzmienie: „5. Wyrażone w euro wielkości, o których mowa w ust. 1, 1b, 1d, 1e, 2b i 2d, przelicza się na walutę polską po średnim kursie ogłaszanym przez Narodowy Bank Polski, obowiązującym w ostatnim dniu roboczym roku podatkowego poprzedzającego rok podatkowy, którego dotyczy dokumentacja podatkowa.”,
+- **j)** dodaje się ust. 7 i 8 w brzmieniu: „7. Podatnicy, o których mowa w ust. 1, 1b, 5a i 5b, są obowiązani składać urzędom skarbowym oświadczenie o sporządzeniu dokumentacji podatkowej, do dnia upływu terminu określonego dla złożenia rocznego zeznania podatkowego, z tym że oświadczenie to nie dotyczy informacji, o których mowa w ust. 2d. W przypadku podatników, o których mowa w ust. 5a, oświadczenie może podpisać osoba upoważniona do reprezentowania zagranicznego zakładu na terytorium Rzeczypospolitej Polskiej.
+
+8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres informacji wymienionych w ust. 2b i 2d, w celu ułatwienia podatnikom sporządzenia poprawnej dokumentacji podatkowej, uwzględniając wytyczne OECD w zakresie cen transferowych dla przedsiębiorstw wielonarodowych i administracji podatkowych.”;
+
+- **5)** w art. 30a ust. 10 otrzymuje brzmienie: „10. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, osiąga przychody (dochody) określone w art. 44c ust. 1 pkt 4 lit. a–d ze źródeł przychodów położonych w Republice Austrii lub w państwie lub na terytorium, z którym Rzeczpospolita Polska jest związana umową w sprawie środków równoważnych do środków określonych w roz-dziale 7a, podatek od tych przychodów (dochodów) zapłacony w Republice Austrii, w tym państwie lub na tym terytorium podlega odliczeniu od kwoty podatku obliczonego zgodnie z ust. 1 i 9.”;
+- **6)** w art. 30b ust. 5c otrzymuje brzmienie: „5c. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, osiąga przychody (dochody) określone w art. 44c ust. 1 pkt 4 lit. e i f ze źródeł przychodów położonych w Republice Austrii lub w państwie lub na terytorium, z którym Rzeczpospolita Polska jest związana umową w sprawie środków równoważnych do środków określonych w roz-dziale 7a, podatek od tych przychodów (dochodów) zapłacony w Republice Austrii, w tym państwie lub na tym terytorium podlega odliczeniu od kwoty podatku obliczonego zgodnie z ust. 1, 5a i 5b.”;
+- **7)** w art. 30d ust. 1 otrzymuje brzmienie: „1. Jeżeli organ podatkowy lub organ kontroli skarbowej określi, na podstawie art. 25, dochód podatnika w wysokości wyższej (stratę w wysokości niższej) niż zadeklarowana przez podatnika w związku z dokonaniem transakcji lub ujęciem innych zdarzeń, o których mowa w art. 25a, a podatnik nie przedłoży tym organom dokumentacji podatkowej – różnicę między dochodem zadeklarowanym przez podatnika a określonym przez te organy opodatkowuje się stawką 50%.”;
+- **8)** w art. 42 ust. 7 otrzymuje brzmienie: „7. W informacji, o której mowa w ust. 2 pkt 2, nie wykazuje się przychodów (dochodów) wymienionych w art. 44c ust. 1 pkt 4, dla których sporządza się informację, o której mowa w art. 44d ust. 1 i 3.”;
+- **9)** uchyla się art. 42c i art. 42d;
+- **10)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „Rozdział 7a Informacje o wypłatach odsetek
 
 **Art. 44c.**
 
@@ -167,11 +272,134 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 9a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podatnicy:
+
+- **1)** których przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły w roku poprzedzającym rok podatkowy równowartość 2 000 000 euro:
+    - **a)** dokonujący w roku podatkowym transakcji z podmiotami powiązanymi w rozumieniu art. 11 ust. 1 i 4, mających istotny wpływ na wysokość ich dochodu (straty), lub
+    - **b)** ujmujący w roku podatkowym w księgach rachunkowych inne zdarzenia, których warunki zostały ustalone (lub narzucone) z podmiotami powiązanymi w rozumieniu art. 11 ust. 1 i 4, mające istotny wpływ na wysokość ich dochodu (straty) – lub
+
+- **2)** dokonujący, bezpośrednio lub pośrednio, zapłaty należności na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, wynikających z transakcji lub innego zdarzenia ujętego w księgach rachunkowych, jeżeli łączna kwota (lub jej równowartość) wynikająca z umowy lub rzeczywiście zapłacona w roku podatkowym łączna kwota wymagalnych w roku podatkowym świadczeń przekracza równowartość 20 000 euro, lub
+- **3)** zawierający z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową:
+    - **a)** umowę spółki niebędącej osobą prawną, jeżeli łączna wartość wniesionych przez wspólników wkładów przekracza równowartość 20 000 euro lub
+    - **b)** umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w których wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości, przewidywana na dzień zawarcia umowy, przekracza równowartość 20 000 euro – są obowiązani do sporządzenia dokumentacji podatkowej tych transakcji lub innych zdarzeń, zwanej dalej „dokumentacją podatkową”.”,
+    - **b)** po ust. 1 dodaje się ust.1a–1g w brzmieniu: „1a. Podatnicy, o których mowa w ust. 1 pkt 1, są obowiązani do sporządzenia dokumentacji podatkowej również za rok podatkowy następujący po roku podatkowym, za który byli obowiązani sporządzić dokumentację podatkową, bez względu na wysokość osiągniętych, w roku podatkowym, za który byli obowiązani do sporządzenia dokumentacji podatkowej, przychodów lub poniesionych kosztów, w rozumieniu przepisów o rachunkowości.
+
+1b. Podatnicy rozpoczynający działalność, dokonujący w roku podatkowym transakcji lub ujmujący w roku podatkowym w księgach rachunkowych inne zdarzenia, o których mowa w ust. 1 pkt 1, są obowiązani do sporządzenia dokumentacji podatkowej w roku rozpoczęcia prowadzenia tej działalności, począwszy od miesiąca następującego po miesiącu, w którym przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły równowartość 2 000 000 euro.
+
+1c. Za podatnika rozpoczynającego działalność nie uważa się podatnika, który został utworzony:
+
+- **1)** w wyniku przekształcenia, połączenia lub podziału podatników, albo
+- **2)** w wyniku przekształcenia spółki niebędącej osobą prawną, albo
+- **3)** przez osoby fizyczne, które wniosły na poczet kapitału nowo utworzonego podmiotu uprzednio prowadzone przez siebie przedsiębiorstwo albo składniki majątku tego przedsiębiorstwa o wartości przekraczającej łącznie równowartość w złotych kwoty co najmniej 10 000 euro, z tym że wartość tych składników oblicza się stosując odpowiednio art. 14.
+
+1d. Za transakcje lub inne zdarzenia mające istotny wpływ na wysokość dochodu (straty) podatnika, o których mowa w ust. 1 pkt 1, uznaje się transakcje lub inne zdarzenia jednego rodzaju, których łączna wartość przekracza w roku podatkowym równowartość 50 000 euro, z tym że w przypadku podatników, których przychody w rozumieniu przepisów o rachunkowości, w roku poprzedzającym rok podatkowy przekroczyły równowartość:
+
+- **1)** 2 000 000 euro, lecz nie więcej niż równowartość 20 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość przekracza w roku podatkowym kwotę stanowiącą równowartość kwoty 50 000 euro powiększoną o 5000 euro za każdy 1 000 000 euro przychodu powyżej 2 000 000 euro;
+- **2)** 20 000 000 euro, lecz nie więcej niż równowartość 100 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość przekracza w roku podatkowym kwotę stanowiącą równowartość kwoty 140 000 euro powiększoną o 45 000 euro za każde 10 000 000 euro przychodu powyżej 20 000 000 euro;
+- **3)** 100 000 000 euro – za takie transakcje lub inne zdarzenia uznaje się transakcje lub inne zdarzenia jednego rodzaju, których wartość w roku podatkowym przekracza kwotę stanowiącą równowartość kwoty 500 000 euro.
+
+1e. Za transakcje lub inne zdarzenia mające istotny wpływ na wysokość dochodu (straty) podatnika, o których mowa w ust. 1 pkt 1, uznaje się również zawartą w roku podatkowym:
+
+- **1)** umowę spółki niebędącej osobą prawną, w której łączna wartość wniesionych przez wspólników wkładów przekracza równowartość 50 000 euro lub
+- **2)** umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w której wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości, przewidywana na dzień zawarcia umowy, przekracza równowartość 50 000 euro.
+
+1f. W przypadku podatników uzyskujących przychody z udziału w spółce niebędącej osobą prawną, jeżeli spółka niebędąca osobą prawną dokonuje transakcji lub innych zdarzeń, o których mowa w ust. 1 pkt 1, spełnienie warunku prowadzenia ksiąg rachunkowych i limit przychodów lub kosztów, o których mowa w ust. 1 pkt 1, ustala się dla tej spółki.
+
+1g. W przypadku, o którym mowa w ust. 1f, dokumentacja podatkowa może zostać sporządzona przez wyznaczonego wspólnika mającego siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej. Wyznaczenie wspólnika nie zwalnia pozostałych wspólników z odpowiedzialności za nieprzedłożenie wymaganej dokumentacji podatkowej.”,
+
+- **c)** uchyla się ust. 2 i 2a,
+- **d)** po ust. 2a dodaje się ust. 2b–2i w brzmieniu: „2b. Dokumentacja podatkowa obejmuje:
+- **1)** opis transakcji lub innych zdarzeń, o których mowa w ust. 1, w tym umów zarządzania płynnością, umów o podziale kosztów, dokonywanych pomiędzy podatnikiem, a w przypadku, o którym mowa w ust. 1f – spółką niebędącą osobą prawną, i podmiotami z nimi powiązanymi, zawierający:
+    - **a)** wskazanie rodzaju i przedmiotu tych transakcji lub innych zdarzeń,
+    - **b)** dane finansowe, w tym przepływy pieniężne dotyczące tych transakcji lub innych zdarzeń,
+    - **c)** dane identyfikujące podmioty powiązane dokonujące tych transakcji lub ujmujące te zdarzenia,
+    - **d)** opis przebiegu tych transakcji lub innych zdarzeń, w tym funkcji wykonywanych przez podatnika, a w przypadku, o którym mowa w ust. 1f – spółkę niebędącą osobą prawną, i podmioty z nimi powiązane, angażowanych przez nich aktywów bilansowych i pozabilansowych, kapitału ludzkiego oraz ponoszonych ryzyk,
+    - **e)** wskazanie metody i sposobu kalkulacji dochodu (straty) podatnika wraz z uzasadnieniem ich wyboru, w tym algorytmu kalkulacji rozliczeń dotyczących tych transakcji lub innych zdarzeń oraz sposobu wyliczenia wartości rozliczeń wpływających na dochód (stratę) podatnika, a w przypadku, o którym mowa w ust. 1f – również pozostałych wspólników spółki niebędącej osobą prawną;
+
+- **2)** w przypadku podatników:
+    - **a)** których przychody lub koszty, w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych, przekroczyły w roku poprzedzającym rok podatkowy równowartość 10 000 000 euro albo
+    - **b)** posiadających udziały w spółce niebędącej osobą prawną, której przychody lub koszty, w rozumieniu obowiązujących tę spółkę przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych przekroczyły w poprzednim roku obrotowym w rozumieniu tych przepisów równowartość 10 000 000 euro – poza opisem, o którym mowa w pkt 1, także opis analizy danych podmiotów niezależnych lub danych ustalonych z podmiotem niezależnym, uznanych za porównywalne do warunków ustalonych w transakcjach lub innych zdarzeniach, o których mowa w ust. 1, zwanej dalej „analizą danych porównawczych”, wykorzystanych do kalkulacji rozliczeń, o której mowa w pkt 1 lit. e, wraz z podaniem źródła tych danych;
+
+- **3)** opis danych finansowych podatnika, a w przypadku, o którym mowa w ust. 1f – spółki niebędącej osobą prawną, pozwalający na porównanie rozliczeń, o których mowa w pkt 1 lit. e, z danymi wynikającymi z zatwierdzonego sprawozdania finansowego, jeżeli obowiązek jego sporządzenia wynika z obowiązujących podatnika lub spółkę przepisów o rachunkowości;
+- **4)** informacje o podatniku, a w przypadku, o którym mowa w ust. 1f – o spółce niebędącej osobą prawną, obejmujące opis:
+    - **a)** struktury organizacyjnej i struktury zarządczej,
+    - **b)** przedmiotu i zakresu prowadzonej działalności,
+    - **c)** realizowanej strategii gospodarczej, w tym przeprowadzonych w roku podatkowym lub w roku poprzedzającym rok podatkowy przeniesień pomiędzy podmiotami powiązanymi istotnych ekonomicznie funkcji, aktywów lub ryzyk, mających wpływ na dochód (stratę) podatnika,
+    - **d)** otoczenia konkurencyjnego;
+
+- **5)** dokumenty, w szczególności:
+    - **a)** umowy, porozumienia zawarte pomiędzy podmiotami powiązanymi lub inne dokumenty, dotyczące transakcji lub innych zdarzeń, o których mowa w ust. 1, umowę spółki niebędącej osobą prawną, umowę wspólnego przedsięwzięcia lub umowy o podobnym charakterze, dokumentujące zasady przyznawania praw wspólnikom (stronom umowy) do udziału w zysku oraz uczestnictwa w stratach,
+    - **b)** porozumienia w sprawach podatku dochodowego zawarte z administracjami podatkowymi państw innych niż Rzeczpospolita Polska, dotyczące transakcji lub innych zdarzeń, o których mowa w ust. 1, w szczególności uprzednie porozumienia cenowe.
+
+2c. Analiza danych porównawczych powinna zawierać dane porównywalne o podmiotach mających siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, jeżeli dane są dla podatnika dostępne. W przypadku braku danych do przeprowadzenia analizy danych porównawczych, podatnik załącza do dokumentacji podatkowej opis zgodności warunków transakcji oraz innych zdarzeń, ustalonych z podmiotami powiązanymi, z warunkami, które ustaliłyby między sobą niezależne podmioty.
+
+2d. Dokumentacja podatkowa powinna również zawierać informacje o grupie podmiotów powiązanych, w skład której wchodzi podatnik lub w przypadku, o którym mowa w ust. 1f – spółka niebędąca osobą prawną, w której podatnik uzyskuje przychody z udziału, jeżeli przychody tego podatnika albo tej spółki lub koszty, w rozumieniu przepisów o rachunkowości, przekroczyły w przypadku podatnika w roku poprzedzającym rok podatkowy, a w przypadku spółki niebędącej osobą prawną w poprzednim roku obrotowym w rozumieniu przepisów o rachunkowości, równowartość 20 000 000 euro. Informacje te obejmują w szczególności:
+
+- **1)** wskazanie podmiotu powiązanego, który sporządził informacje o grupie podmiotów powiązanych, wraz z podaniem daty składania przez niego zeznania podatkowego;
+- **2)** strukturę organizacyjną grupy podmiotów powiązanych;
+- **3)** opis zasad wyznaczania cen transakcyjnych (polityki cen transakcyjnych) stosowanych przez grupę podmiotów powiązanych;
+- **4)** opis przedmiotu i zakresu działalności prowadzonej przez grupę podmiotów powiązanych;
+- **5)** opis posiadanych, tworzonych, rozwijanych i wykorzystywanych w działalności przez grupę podmiotów powiązanych istotnych wartości niematerialnych;
+- **6)** opis sytuacji finansowej podmiotów tworzących grupę wraz ze sprawozdaniem skonsolidowanym podmiotów powiązanych tworzących grupę podmiotów powiązanych;
+- **7)** opis zawartych przez podmioty tworzące grupę podmiotów powiązanych porozumień w sprawach podatku dochodowego z administracjami podatkowymi państw innych niż Rzeczpospolita Polska, w tym jednostronnych uprzednich porozumień cenowych.
+
+2e. Obowiązek sporządzenia dokumentacji podatkowej w przypadku transakcji objętych decyzją w sprawie uznania prawidłowości wyboru i stosowania metody ustalania ceny transakcyjnej pomiędzy podmiotami powiązanymi, w okresie, którego ta decyzja dotyczy, obejmuje informacje, o których mowa w ust. 2b pkt 1 lit. b, d i e.
+
+2f. W przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, dokumentację podatkową w zakresie elementów wymienionych w ust. 2b sporządza się nie później niż do dnia upływu terminu określonego dla złożenia rocznego zeznania podatkowego, z tym że opis, o którym mowa w ust. 2b pkt 3, sporządza się w terminie 10 dni od dnia zatwierdzenia sprawozdania finansowego podatnika lub spółki niebędącej osobą prawną.
+
+2g. Dokumentacja podatkowa dotycząca kontynuowanych w kolejnym roku podatkowym transakcji lub innych zdarzeń, o których mowa w ust. 1 pkt 1, podlega okresowemu przeglądowi i aktualizacji, nie rzadziej niż raz na rok podatkowy, przed dniem upływu terminu określonego dla złożenia zeznania podatkowego za kolejne lata, w zakresie zawartych w niej informacji, z zastrzeżeniem ust. 2h.
+
+2h. Dokumentacja podatkowa obejmująca elementy wymienione w ust. 2b pkt 2 podlega w tym zakresie aktualizacji nie rzadziej niż co 3 lata, chyba że zmiana warunków ekonomicznych w stopniu znacznie wpływającym na analizę danych porównawczych uzasadnia dokonanie przeglądu w roku zaistnienia tej zmiany.
+
+2i. Informacje, o których mowa w ust. 2d, dołącza się do dokumentacji podatkowej w terminie do dnia złożenia zeznania podatkowego, o którym mowa w ust. 2d pkt 1.”, Żądanie powinno wskazywać okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji lub innych zdarzeń. Podatnik jest obowiązany do sporządzenia i przedłożenia dokumentacji podatkowej, w terminie 30 dni od dnia doręczenia takiego żądania.”,
+
+- **e)** uchyla się ust. 3 i 3a,
+- **f)** po ust. 3c dodaje się ust. 3d w brzmieniu: „3d. Obowiązek sporządzenia dokumentacji podatkowej w przypadku podatników, o których mowa w ust. 1, 1b, 5a i 5b, nie ma zastosowania do transakcji, w których cena lub sposób określenia ceny przedmiotu takiej transakcji wynika z przepisów ustaw lub wydanych na ich podstawie aktów normatywnych.”,
+- **g)** ust. 4 otrzymuje brzmienie: „4. Na żądanie organów podatkowych lub organów kontroli skarbowej podatnicy, o których mowa w ust. 1, 1b, 5a i 5b, są obowiązani do przedłożenia dokumentacji podatkowej w terminie 7 dni od dnia doręczenia tego żądania.”,
+- **h)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Organ podatkowy lub organ kontroli skarbowej może wystąpić do podatnika z żądaniem sporządzenia i przedłożenia dokumentacji podatkowej dla transakcji lub innych zdarzeń, których wartość nie przekracza limitów określonych w ust. 1d lub 1e, w przypadku zaistnienia okoliczności wskazujących na prawdopodobieństwo zaniżenia ich wartości w celu uniknięcia obowiązku sporządzenia dokumentacji podatkowej.
+- **i)** ust. 5 otrzymuje brzmienie: „5. Wyrażone w euro wielkości, o których mowa w ust. 1, 1b, 1d, 1e, 2b i 2d, przelicza się na walutę polską po średnim kursie ogłaszanym przez Narodowy Bank Polski, obowiązującym w ostatnim dniu roboczym roku podatkowego poprzedzającego rok podatkowy, którego dotyczy dokumentacja podatkowa.”,
+- **j)** dodaje się ust. 7 i 8 w brzmieniu: „7. Podatnicy, o których mowa w ust. 1, 1b, 5a i 5b, są obowiązani składać urzędom skarbowym oświadczenie o sporządzeniu dokumentacji podatkowej, do dnia upływu terminu określonego dla złożenia rocznego zeznania podatkowego, z tym że oświadczenie to nie dotyczy informacji, o których mowa w ust. 2d. W przypadku podatników, o których mowa w ust. 5a, oświadczenie może podpisać osoba upoważniona do reprezentowania zagranicznego zakładu na terytorium Rzeczypospolitej Polskiej.
+
+8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres informacji, wymienionych w ust. 2b i 2d, w celu ułatwienia podatnikom sporządzenia poprawnej dokumentacji podatkowej, uwzględniając wytyczne OECD w zakresie cen transferowych dla przedsiębiorstw wielonarodowych i administracji podatkowych.”;
+
+- **2)** w art. 11 ust. 5a otrzymuje brzmienie: „5a. Posiadanie udziału w kapitale innego podmiotu, o którym mowa w ust. 1 i 4, oznacza sytuację, w której dany podmiot bezpośrednio lub pośrednio posiada w kapitale innego podmiotu udział nie mniejszy niż 25%.”;
+- **3)** w art. 19 ust. 4 otrzymuje brzmienie: „4. Jeżeli organ podatkowy lub organ kontroli skarbowej określi, na podstawie art. 11, dochód podatnika w wysokości wyższej (stratę w wysokości niższej) niż zadeklarowana przez podatnika w związku z dokonaniem transakcji lub ujęciem innych zdarzeń, o których mowa w art. 9a, a podatnik nie przedłoży tym organom dokumentacji podatkowej – różnicę między dochodem zadeklarowanym przez podatnika a określonym przez te organy opodatkowuje się stawką 50%.”;
+- **4)** po art. 22b dodaje się art. 22c w brzmieniu: „Art. 22c. 1. Przepisów art. 20 ust. 3 oraz art. 22 ust. 4 nie stosuje się, jeżeli:
+- **1)** osiągnięcie dochodów (przychodów) z dywidend oraz innych przychodów z tytułu udziału w zyskach osób prawnych następuje w związku z zawarciem umowy lub dokonaniem innej czynności prawnej, lub wielu powiązanych czynności prawnych, których głównym lub jednym z głównych celów było uzyskanie zwolnienia od podatku dochodowego na podstawie art. 20 ust. 3 lub art. 22 ust. 4, a uzyskanie tego zwolnienia nie skutkuje wyłącznie wyeliminowaniem podwójnego opodatkowania tych dochodów (przychodów), oraz
+- **2)** czynności, o których mowa w pkt 1, nie mają rzeczywistego charakteru.
+
+2. Dla celów ust. 1 uznaje się, że umowa lub inna czynność prawna nie ma rzeczywistego charakteru w zakresie, w jakim nie jest dokonywana z uzasadnionych przyczyn ekonomicznych. W szczególności dotyczy to sytuacji, gdy w drodze czynności, o których mowa w ust. 1, przenoszona jest własność udziałów (akcji) spółki wypłacającej dywidendę lub spółka osiąga przychód (dochód), wypłacany następnie w formie dywidendy lub innego przychodu z tytułu udziału w zyskach osób prawnych.”;
+
+- **5)** w art. 26 po ust. 3a dodaje się ust. 3aa w brzmieniu: „3aa. W informacji, o której mowa w ust. 3 pkt 2, nie wykazuje się przychodów (dochodów) wymienionych w art. 44c ust. 1 pkt 4 ustawy o podatku dochodowym od osób fizycznych, dla których sporządza się informację, o której mowa w art. 44d ust. 3 ustawy o podatku dochodowym od osób fizycznych.”;
+- **6)** w art. 27 dodaje się ust. 5–9 w brzmieniu: „5. Podatnicy obowiązani do sporządzania dokumentacji podatkowej, jeżeli ich przychody lub koszty, w rozumieniu przepisów o rachunkowości, przekroczyły w roku podatkowym równowartość 10 000 000 euro, dołączają do zeznania podatkowego za rok podatkowy uproszczone sprawozdanie w sprawie transakcji z podmiotami powiązanymi lub innych zdarzeń zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową.
+
+6. Podmioty krajowe, o których mowa w art. 11 ust. 1 pkt 1 i ust. 4, które:
+
+- **1)** spełniają kryteria jednostki dominującej oraz nie spełniają kryteriów jednostki zależnej, w rozumieniu przepisów ustawy o rachunkowości,
+- **2)** są jednostką konsolidującą sprawozdanie finansowe w rozumieniu przepisów o rachunkowości,
+- **3)** posiadają poza terytorium Rzeczypospolitej Polskiej zagraniczny zakład lub jedną lub więcej jednostek zależnych w rozumieniu przepisów ustawy o rachunkowości,
+- **4)** których skonsolidowane przychody w rozumieniu przepisów o rachunkowości, na terytorium Rzeczypospolitej Polskiej oraz poza jej terytorium, przekroczyły w poprzednim roku podatkowym równowartość 750 000 000 euro – przekazują do urzędu skarbowego sprawozdanie o wysokości dochodów i zapłaconego podatku oraz miejscach prowadzenia działalności, jednostek zależnych i zagranicznych zakładów należących do grupy kapitałowej, w roku podatkowym, w terminie 12 miesięcy od dnia zakończenia roku podatkowego podmiotu krajowego, za który jest składane sprawozdanie.
+
+7. Wyrażone w euro wielkości, o których mowa w ust. 5 i 6, przelicza się na walutę polską po średnim kursie ogłaszanym przez Narodowy Bank Polski, obowiązującym w ostatnim dniu roboczym roku podatkowego poprzedzającego rok podatkowy, za który jest składane sprawozdanie, o którym mowa w ust. 5 i 6.
+
+8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór uproszczonego sprawozdania, o którym mowa w ust. 5, uwzględniając informacje dotyczące podmiotów powiązanych, rodzaju powiązań z tymi podmiotami, rodzaju i przedmiotu transakcji lub innych zdarzeń, zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, a także kierując się potrzebą ułatwienia podatnikom poprawnego sporządzenia tego sprawozdania.
+
+9. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 6, sporządzanego w celu:
+
+- **1)** analizy ryzyka zaniżenia dochodu do opodatkowania w obszarze cen transakcyjnych,
+- **2)** wymiany informacji z właściwymi władzami państw obcych,
+- **3)** ułatwienia podatnikom sporządzenia poprawnego sprawozdania – uwzględniający treść ustaleń w zakresie wzoru sprawozdania podjętych przez OECD dotyczących dokumentacji cen transakcyjnych.”;
+- **7)** w załączniku nr 4 lp. 27 otrzymuje brzmienie:
+
 **Art. 3.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2012 r. poz. 1314, z późn. zm. ) w art. 11 uchyla się ust. 5.
 
 **Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm. ) w art. 82 dodaje się § 1a w brzmieniu: „§ 1a. Przepisu § 1 pkt 2 nie stosuje się do podmiotów, o których mowa w § 1, obowiązanych do sporządzenia uproszczonego sprawozdania w sprawie transakcji z podmiotami powiązanymi lub innych zdarzeń zachodzących pomiędzy podmiotami powiązanymi, lub w związku z którymi zapłata należności dokonywana jest bezpośrednio lub pośrednio na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, na podstawie przepisów art. 45 ust. 9 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 27 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm. ). Wyłączenie, o którym mowa w zdaniu pierwszym, nie dotyczy podatników, o których mowa w art. 25a ust. 1 pkt 2 i 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz w art. 9a ust. 1 pkt 2 i 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.”.
 
 **Art. 5.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 53 § 30b otrzymuje brzmienie: „§ 30b. Użyte w rozdziale 6 kodeksu określenia: „podmiot wypłacający”, „podmiot gospodarczy” oraz „pośredni odbiorca” mają znaczenie nadane im w rozdziale 7a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ).”;
+- **2)** w art. 80 § 2 otrzymuje brzmienie: „§ 2. Płatnik, podmiot, o którym mowa w art. 41 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, niepełniący funkcji płatnika, podmiot wypłacający, podmiot gospodarczy lub pośredni odbiorca, który wbrew obowiązkowi nie składa w terminie podatnikowi lub właściwemu organowi wymaganej informacji podatkowej lub informacji, o których mowa w art. 42 ust. 2 pkt 2 lub art. 44d ust. 1, 3, 5 lub 7 powołanej ustawy, podlega karze grzywny do 180 stawek dziennych.”.
 
 **Art. 6.** W ustawie z dnia 23 lipca 2015 r. o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1321) w art. 2 pkt 3 otrzymuje brzmienie: „3) po pkt 40d dodaje się pkt 40e w brzmieniu: „40e) świadczenie pieniężne ze środków budżetu państwa, przysługujące na podstawie art. 36 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2014 r. poz. 715 i 1321);”.”.
 
@@ -194,4 +422,9 @@ source: "isap-pdf"
 **Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 42c ust. 9 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 31 grudnia 2015 r., zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 44d ust. 10 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2016 r.
 
 **Art. 14.** Ustawa wchodzi w życie z dniem 31 grudnia 2015 r., z wyjątkiem:
+
+- **1)** art. 6 i art. 7, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 1 i 2, art. 2 pkt 6 w zakresie dotyczącym art. 27 ust. 6, 7 i 9, art. 8 oraz art. 12, które wchodzą w życie z dniem 1 stycznia 2016 r.;
+- **3)** art. 1 pkt 3, 4, 7 i 11, art. 2 pkt 1, 2, 3 i 6 w zakresie dotyczącym art. 27 ust. 5 i 8, art. 4, art. 10 oraz art. 11, które wchodzą w życie z dniem 1 stycznia 2017 r.
+
 

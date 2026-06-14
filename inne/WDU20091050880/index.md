@@ -8,7 +8,7 @@ pos: 880
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 86/6/A/2009 WYROK z dnia 23 czerwca 2009 r.

@@ -8,10 +8,10 @@ pos: 677
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 marca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 677 PoPrawki do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej w Londynie dnia 13 lutego 2004 r., przyjęte w Londynie dnia 20 listopada 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000677) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/677/text.pdf) |
 
-Poprawki do Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej w Londynie dnia 13 lutego 2004 r., przyjęte w Londynie dnia 20 listopada 2020 r.
 Przekład
 

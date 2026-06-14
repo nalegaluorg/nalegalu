@@ -8,10 +8,10 @@ pos: 516
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 kwietnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 516 RozpoRządzenie MinistRa Rolnictwa i Rozwoju wsi z dnia 31 marca 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000516) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/516/text.pdf) |
 
-Poz. 516 RozpoRządzenie MinistRa Rolnictwa i Rozwoju wsi z dnia 31 marca 2014 r.
-w sprawie warunków stosowania środków ochrony roślin Na podstawie art. 40 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie warunków stosowania środków ochrony roślin Na podstawie art. 40 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) minimalne odległości od określonych miejsc lub obiektów, po uwzględnieniu których można stosować środki ochrony roślin;
 2) warunki atmosferyczne, w jakich można stosować środki ochrony roślin;
 3) minimalną powierzchnię, na której można stosować środki ochrony roślin przy użyciu sprzętu agrolotniczego.
@@ -45,7 +45,7 @@ b) 20 m od pasiek, przy kierunku wiatru innym niż określony w pkt 5,
 § 4. Środki ochrony roślin na terenie otwartym stosuje się przy użyciu sprzętu agrolotniczego, jeżeli:
 1) wilgotność względna powietrza jest nie mniejsza niż 60%;
 2) obszar, na którym stosuje się te środki, wynosi co najmniej 3 ha.
-§ 5. Środki ochrony roślin, dla których zostało wydane zezwolenie na wprowadzanie do obrotu przed dniem 14 czerwca 2011 r. i których etykieta nie określa minimalnej odległości, w jakiej można je stosować od zbiorników i cieków wodnych, mogą być stosowane na terenie otwartym przy użyciu opryskiwaczy ciągnikowych i samobieżnych polowych lub sadowni czych, jeżeli miejsce ich stosowania jest oddalone o co najmniej 20 m od zbiorników i cieków wodnych.
+§ 5. Środki ochrony roślin, dla których zostało wydane zezwolenie na wprowadzanie do obrotu przed dniem 14 czerwca 2011 r. i których etykieta nie określa minimalnej odległości, w jakiej można je stosować od zbiorników i cieków wodnych, mogą być stosowane na terenie otwartym przy użyciu opryskiwaczy ciągnikowych i samobieżnych polowych lub sadowniczych, jeżeli miejsce ich stosowania jest oddalone o co najmniej 20 m od zbiorników i cieków wodnych.
 § 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
 

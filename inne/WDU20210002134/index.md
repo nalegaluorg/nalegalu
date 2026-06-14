@@ -8,10 +8,10 @@ pos: 2134
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 listopada 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2134 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 3 listopada 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002134) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2134/text.pdf) |
 
-Poz. 2134 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 3 listopada 2021 r.
 w sprawie wzorów, koloru oraz sposobu przydzielania i zwracania munduru pracowników Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych Na podstawie art. 20 ust. 8 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
-z 2021 r. poz. 630) zarządza się, co następuje: § 1. Mundur pracowników Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych składa się z:
+z 2021 r. poz. 630) zarządza się, co następuje:
+§ 1. Mundur pracowników Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych składa się z:
 1) kurtki 2 w 1;
 2) koszulki polo w wersji damskiej albo męskiej;
 3) czapki z daszkiem.
@@ -56,5 +56,5 @@ b) na plecach logo Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych w
 4) logo Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych wraz z pełną nazwą określa załącznik nr 4 do rozporządzenia;
 5) logo Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych wraz ze skróconą nazwą (IJHARS) określa załącznik nr 5 do rozporządzenia.
 § 5. Rozporządzenie wchodzi w życie z dniem 1 marca 2022 r.
-Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk WZÓR LOGO INSPEKCJI JAKOŚCI HANDLOWEJ ARTYKUŁÓW ROLNO-SPOŻYWCZYCH WRAZ Z PEŁNĄ NAZWĄ
+Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk Ministra Rolnictwa i Rozwoju Wsi z dnia 3 listopada 2021 r. (poz. …) Załącznik nr 1 WZÓR WZÓR KURTKI 2 W 1 KURTKA 2 W 1 KURTKA ZEWNĘTRZNA KURTKA WEWNĘTRZNA Załącznik nr 2 WZÓR WZÓR KOSZULKI POLO KOSZULKA POLO WERSJA DAMSKA WERSJA MĘSKA Załącznik nr 3 WZÓR WZÓR CZAPKI Z DASZKIEM CZAPKA Z DASZKIEM WZÓR LOGO INSPEKCJI JAKOŚCI HANDLOWEJ ARTYKUŁÓW ROLNO-SPOŻYWCZYCH WRAZ Z PEŁNĄ NAZWĄ Załącznik nr 5 WZÓR LOGO INSPEKCJI JAKOŚCI HANDLOWEJ WZÓR LOGO INSPEKCJI JAKOŚCI HANDLOWEJ ARTYKUŁÓW ARTYKUŁÓW ROLNO-SPOŻYWCZYCH ROLNO-SPOŻYWCZYCH WRAZ WRAZ ZE ZE SKRÓCONĄ SKRÓCONĄ NAZWĄ NAZWĄ (IJHARS) (IJHARS)
 

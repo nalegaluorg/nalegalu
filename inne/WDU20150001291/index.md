@@ -8,10 +8,10 @@ pos: 1291
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 września 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1291 Porozumienie Techniczne między Ministerstwem Obrony Narodowej Republiki Litewskiej, Ministrem Obrony Narodowej Rzeczypospolitej Polskiej i Ministerstwem Obrony Ukrainy w sprawie szczegółowych aspektów funkcjonowania wspólnej jednostki wojskowej i jej dowództwa, sporządzone we Lwowie dnia 24 lipca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,4 @@ source: "isap-pdf"
 | Data wydania | 2015-09-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1291/text.pdf) |
-
-Porozumienie Techniczne między Ministerstwem Obrony Narodowej Republiki Litewskiej, Ministrem Obrony Narodowej Rzeczypospolitej Polskiej i Ministerstwem Obrony Ukrainy w sprawie szczegółowych aspektów funkcjonowania wspólnej jednostki wojskowej i jej dowództwa, sporządzone we Lwowie dnia 24 lipca 2015 r.
 

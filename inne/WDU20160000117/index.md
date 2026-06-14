@@ -8,10 +8,10 @@ pos: 117
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 stycznia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 117 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 stycznia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000117) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/117/text.pdf) |
 
-Poz. 117 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 stycznia 2016 r.
-w sprawie zniesienia Narodowego Komitetu Koordynacyjnego do spraw Euro, Rady Koordynacyjnej oraz Międzyinstytucjonalnych Zespołów Roboczych do spraw Przygotowań do Wprowadzenia Euro przez Rzeczpospolitą Polską Na podstawie art. 13 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje: § 1. Znosi się:
+w sprawie zniesienia Narodowego Komitetu Koordynacyjnego do spraw Euro, Rady Koordynacyjnej oraz Międzyinstytucjonalnych Zespołów Roboczych do spraw Przygotowań do Wprowadzenia Euro przez Rzeczpospolitą Polską Na podstawie art. 13 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:
+§ 1. Znosi się:
 1) Narodowy Komitet Koordynacyjny do spraw Euro, zwany dalej „Komitetem”;
 2) Radę Koordynacyjną, zwaną dalej „Radą”;
 3) Międzyinstytucjonalne Zespoły Robocze do spraw Przygotowań do Wprowadzenia Euro przez Rzeczpospolitą Polską, zwane dalej „Zespołami Roboczymi”.

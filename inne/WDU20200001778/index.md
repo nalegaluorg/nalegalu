@@ -1,0 +1,116 @@
+---
+title: Ustawa z dnia 17 września 2020 r. o zmianie ustawy o transporcie kolejowym
+address: WDU20200001778
+eli: DU/2020/1778
+publisher: DU
+year: 2020
+pos: 1778
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# o zmianie ustawy o transporcie kolejowym
+
+*USTAWA z dnia 17 września 2020 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 1778 |
+| ISAP | WDU20200001778 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2020-09-17 |
+| Data wydania | 2020-10-13 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1778/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2020 r. poz. 1043 i 1378) wprowadza się następujące zmiany:
+
+- **1)** w art. 4:
+    - **a)** po pkt 34b dodaje się pkt 34ba w brzmieniu: „34ba) certyfikat weryfikacji podsystemu – dokument wydany przez jednostkę wyznaczoną potwierdzający, że podsystem jest zgodny z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei;”,
+    - **b)** po pkt 34f dodaje się pkt 34g w brzmieniu: „34g) jednostka wyznaczona – podmiot wyznaczony do przeprowadzania oceny zgodności podsystemów na zgodność z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei;”,
+    - **c)** pkt 38 otrzymuje brzmienie: „38) Agencja – Agencję Kolejową Unii Europejskiej ustanowioną rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004 (Dz. Urz. UE L 138 z 26.05.2016, str. 1);”;
+
+- **2)** w art. 13:
+    - **a)** w ust. 1a po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) wyznaczanie i odmowa wyznaczenia podmiotu wnioskującego o wykonywanie zadań jednostki wyznaczonej oraz cofanie, zawieszanie i zmiana zakresu wyznaczenia jednostek wyznaczonych;”,
+    - **b)** w ust. 2 w pkt 4 wyrazy „Europejskiej Agencji Kolejowej” zastępuje się wyrazem „Agencji”,
+    - **c)** ust. 7g otrzymuje brzmienie: „7g. Prezes UTK, w związku z zadaniami określonymi w ust. 1a i 2, może żądać pomocy technicznej od zarządców, przewoźników kolejowych, jednostek notyfikowanych, podmiotów uprawnionych, o których mowa w art. 23b ust. 1a, jednostek organizacyjnych wykonujących zadania, o których mowa w art. 22g ust. 1, oraz jednostek wyznaczonych.”;
+
+- **3)** w art. 16:
+    - **a)** w ust. 1 wyrazy „ust. 1a pkt 1–3, 5” zastępuje się wyrazami „ust. 1a pkt 1–3, 3b i 5”,
+    - **b)** w ust. 2 pkt 8 otrzymuje brzmienie: „8) autoryzacji jednostki oceniającej zgodność ubiegającej się o notyfikację, wyznaczania podmiotu wnioskującego o wykonywanie zadań jednostki wyznaczonej oraz rozszerzania zakresu uprawnień jednostki wyznaczonej – nie może być wyższa niż równowartość w złotych 3000 euro, ustalona na zasadach określonych w pkt 1 lit. a;”;
+
+- **4)** w art. 25ca po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Podczas oceny zgodności podsystemu z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei, badanie i certyfikacja podsystemu są przeprowadzane przez jednostkę wyznaczoną.”;
+- **5)** w art. 25cb w ust. 6 w pkt 4 skreśla się wyrazy „oraz w przepisach wydanych na podstawie art. 25t”;
+- **6)** po art. 25cb dodaje się art. 25cba w brzmieniu: „Art. 25cba. 1. W przypadku gdy w procedurze weryfikacji WE podsystemu jest konieczne przeprowadzenie oceny zgodności podsystemu z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei, ocena taka jest przeprowadzana przez jednostkę wyznaczoną.
+
+2. Jeżeli podczas przeprowadzania oceny zgodności, o której mowa w ust. 1, jednostka wyznaczona stwierdzi, że podmiot, o którym mowa w art. 25cb ust. 2, nie spełnia wymagań określonych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei, pisemnie wzywa wnioskodawcę do podjęcia, w zakresie, w jakim nie spełnia tych wymagań, środków naprawczych w terminie 14 dni od dnia otrzymania wezwania i nie wydaje mu certyfikatu weryfikacji podsystemu. W przypadku niepodjęcia środków naprawczych w wyznaczonym terminie lub jeżeli środki te nie doprowadziły do spełnienia wymagań określonych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei, jednostka wyznaczona odmawia wydania certyfikatu weryfikacji podsystemu.
+
+3. Po stwierdzeniu spełnienia przez podsystem wymagań określonych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei, jednostka wyznaczona wydaje certyfikat weryfikacji podsystemu.
+
+4. Jeżeli po wydaniu certyfikatu weryfikacji podsystemu jednostka wyznaczona stwierdza, że wyrób przestał spełniać wymagania określone we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei, jednostka ta cofa albo, w przypadku gdy możliwe jest podjęcie środków naprawczych, które mogą doprowadzić do spełnienia przez wyrób wymagań, zawiesza wydany certyfikat. W przypadku zawieszenia wydanego certyfikatu jednostka wyznaczona pisemnie wzywa wnioskodawcę do podjęcia środków naprawczych w terminie 14 dni od dnia otrzymania wezwania.
+
+5. W przypadku niepodjęcia przez wnioskodawcę środków naprawczych w wyznaczonym terminie lub jeżeli środki te nie doprowadziły do spełnienia przez wyrób wymagań, jednostka wyznaczona:
+
+- **1)** ogranicza wydany certyfikat weryfikacji podsystemu – w zakresie, w jakim wyrób nie spełnia wymagań określonych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei;
+- **2)** cofa wydany certyfikat weryfikacji podsystemu – jeżeli wyrób w całości nie spełnia wymagań określonych we właściwych krajowych specyfikacjach technicznych i dokumentach normalizacyjnych, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei.
+
+6. Od odmowy wydania, ograniczenia, zawieszenia albo cofnięcia certyfikatu weryfikacji podsystemu przysługuje odwołanie. Do odmowy wydania, ograniczenia, zawieszenia albo cofnięcia certyfikatu weryfikacji podsystemu stosuje się art. 32 ust. 2–4 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.
+
+7. Jeżeli w procedurze weryfikacji WE podsystemu zadania jednostki wyznaczonej wykonuje jednostka notyfikowana, ocena zgodności podsystemu na zgodność z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei, jest uwzględniana w certyfikacie weryfikacji WE podsystemu.”;
+
+- **7)** w art. 25h ust. 1 otrzymuje brzmienie: „1. Prezes UTK, w drodze decyzji, dokonuje autoryzacji posiadających osobowość prawną jednostek oceniających zgodność ubiegających się o notyfikację, zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.”;
+- **8)** w art. 25i:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prezes UTK dokonuje notyfikacji autoryzowanych jednostek oceniających zgodność za pomocą systemu notyfikacji elektronicznej opracowanego i zarządzanego przez Komisję Europejską.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do notyfikacji, o której mowa w ust. 1, dołącza się wszystkie szczegółowe informacje dotyczące działalności związanej z oceną zgodności, modułu lub modułów oceny zgodności, wyrobu lub wyrobów objętych zakresem notyfikacji oraz stosowny certyfikat akredytacji albo inny dokument potwierdzający spełnienie wymagań, o których mowa w art. 28 ust. 1 i 3 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.”,
+    - **c)** dodaje się ust. 3 w brzmieniu: „3. Prezes UTK udziela, na żądanie Komisji Europejskiej, informacji dotyczących podstawy dokonanych notyfikacji autoryzowanych jednostek oceniających zgodność oraz działalności jednostek notyfikowanych, w tym spełniania przez nie wymagań niezbędnych do udzielenia autoryzacji.”;
+
+- **9)** po art. 25i dodaje się art. 25ia–25ie w brzmieniu: „Art. 25ia. 1. Jednostki notyfikowane w odniesieniu do podsystemów „sterowanie urządzenia – przytorowe” lub „sterowanie – urządzenia pokładowe” uczestniczą w działaniach grupy ds. ERTMS, o której mowa w art. 29 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004.
+
+2. Jednostka notyfikowana informuje swoich pracowników o działaniach, o których mowa w ust. 1.
+
+3. Jednostka notyfikowana stosuje wytyczne opracowane przez Agencję, uwzględniające wyniki pracy grupy ds. ERTMS.
+
+4. W przypadku gdy jednostka notyfikowana uzna wytyczne, o których mowa w ust. 3, za niewłaściwe lub niemożliwe do stosowania, przekazuje swoje uwagi grupie ds. ERTMS odpowiedzialnej za stałą poprawę jakości tych wytycznych celem ich omówienia i nie stosuje tych wytycznych do czasu rozstrzygnięcia w zakresie przekazanych uwag w ramach grupy ds. ERTMS. Art. 25ib. Wynagrodzenie kierownictwa jednostki notyfikowanej oraz jej pracowników wykonujących ocenę zgodności nie może być uzależnione od liczby wykonanych ocen zgodności ani od wyników tych ocen. Art. 25ic. Jednostka notyfikowana przekazuje Agencji certyfikaty weryfikacji WE podsystemów, certyfikaty WE zgodności składników interoperacyjności oraz certyfikaty WE przydatności do stosowania składników interoperacyjności niezwłocznie po ich wydaniu. Art. 25id. Jednostki notyfikowane są obowiązane uczestniczyć w pracach sektorowej grupy jednostek notyfikowanych ustanowionej przez Komisję Europejską. Art. 25ie. 1. Prezes UTK, w drodze decyzji, wyznacza podmiot do wykonywania zadań jednostki wyznaczonej, jeżeli podmiot wnioskujący:
+
+- **1)** posiada osobowość prawną;
+- **2)** spełnia wymagania określone w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku;
+- **3)** posiada certyfikat akredytacji wydany zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, odpowiedni do zakresu wnioskowanego wyznaczenia.
+
+2. Podmiotem wyznaczonym do wykonywania zadań jednostki wyznaczonej może zostać jednostka notyfikowana.
+
+3. W decyzji, o której mowa w ust. 1, Prezes UTK wskazuje rodzaje podsystemów, do których oceny zgodności jest uprawniona jednostka wyznaczona.
+
+4. Prezes UTK, w drodze decyzji, odmawia wyznaczenia podmiotu, o którym mowa w ust. 1, jeżeli podmiot wnioskujący nie posiada osobowości prawnej, nie spełnia wymagań określonych w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku lub nie posiada certyfikatu akredytacji wydanego zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku odpowiedniego do zakresu wnioskowanego wyznaczenia.
+
+5. Jednostka wyznaczona może wystąpić do Prezesa UTK z wnioskiem o rozszerzenie zakresu uprawnień określonych w decyzji, o której mowa w ust. 1. Prezes UTK, w drodze decyzji, rozszerza zakres uprawnień jednostki wyznaczonej po stwierdzeniu spełniania wymagań określonych w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku oraz posiadania certyfikatu akredytacji wydanego zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku odpowiedniego do wnioskowanego rozszerzenia zakresu uprawnień.
+
+6. W przypadku stwierdzenia naruszeń wymagań określonych w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, nieposiadania certyfikatu akredytacji wydanego zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku odpowiedniego do zakresu wyznaczenia lub niewypełniania obowiązków, o których mowa w art. 34 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, Prezes UTK, w drodze decyzji, zawiesza wyznaczenie jednostki, wyznaczając termin usunięcia naruszeń stanowiących podstawę zawieszenia.
+
+7. Prezes UTK, w drodze decyzji, ogranicza zakres uprawnień przyznanych jednostce wyznaczonej w decyzji, o której mowa w ust. 1 albo 5, w przypadku zaprzestania spełniania wymagań określonych w art. 28 ust. 1 pkt 2–6 i 9 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku oraz nieposiadania certyfikatu akredytacji wydanego zgodnie z ustawą z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, w zakresie niezbędnym do przeprowadzania oceny zgodności określonych podsystemów na zgodność z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei.
+
+8. Prezes UTK, w drodze decyzji, cofa jednostce wyznaczenie w przypadku:
+
+- **1)** bezskutecznego upływu terminu na usunięcie naruszeń stanowiących podstawę zawieszenia wyznaczenia;
+- **2)** stwierdzenia wydawania certyfikatów weryfikacji podsystemu bez uprzedniego przeprowadzenia wymaganych procedur;
+- **3)** złożenia przez jednostkę wyznaczoną pisemnej informacji o zaprzestaniu wykonywania tej działalności.
+
+9. Prezes UTK zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Transportu Kolejowego wykaz jednostek wyznaczonych wraz ze wskazaniem zakresu ich uprawnień.
+
+10. Prezes UTK informuje Komisję Europejską i pozostałe państwa członkowskie Unii Europejskiej o wyznaczeniu podmiotu do wykonywania zadań jednostki wyznaczonej.
+
+11. Do jednostek wyznaczonych stosuje się art. 25ia, art. 25ib, art. 25j, art. 25o i art. 25r ustawy oraz art. 30 ust. 2, art. 33 i art. 34 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku.”;
+
+- **10)** w art. 25j w ust. 2 dodaje się zdanie drugie w brzmieniu: „Prezes UTK ponosi odpowiedzialność za zadania powierzone Polskiemu Centrum Akredytacji.”.
+
+**Art. 2.** Do dnia wyznaczenia przez Prezesa Urzędu Transportu Kolejowego podmiotu do wykonywania zadań jednostki wyznaczonej, zgodnie z art. 25ie ust. 1 ustawy zmienianej w art. 1, do przeprowadzania oceny zgodności podsystemów na zgodność z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei, i wystawiania certyfikatu weryfikacji podsystemu są uprawnione podmioty, o których mowa w art. 23b ust. 1a ustawy zmienianej w art. 1, i jednostki notyfikowane na podstawie art. 25i ust. 1 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
+
+**Art. 3.** Do oceny zgodności podsystemów na zgodność z właściwymi krajowymi specyfikacjami technicznymi i dokumentami normalizacyjnymi, których zastosowanie umożliwia spełnienie zasadniczych wymagań dotyczących interoperacyjności systemu kolei, rozpoczętej i niezakończonej przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16 ust. 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 16 ust. 4 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy i mogą być zmieniane na podstawie przepisów dotychczasowych.
+
+**Art. 5.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+

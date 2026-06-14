@@ -8,10 +8,10 @@ pos: 932
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 czerwca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 932 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 24 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/932/text.pdf) |
 
-Poz. 932 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 24 czerwca 2024 r.
-zmieniające rozporządzenie w sprawie programu pilotażowego „Profilaktyka 40 PLUS” Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146 i 858) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Zdrowia z dnia 14 czerwca 2021 r. w sprawie programu pilotażowego „Profilaktyka 40 PLUS” (Dz. U. z 2024 r. poz. 549) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie programu pilotażowego „Profilaktyka 40 PLUS” Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146 i 858) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 14 czerwca 2021 r. w sprawie programu pilotażowego „Profilaktyka 40 PLUS” (Dz. U. z 2024 r. poz. 549) wprowadza się następujące zmiany:
 1) § 3 otrzymuje brzmienie: „§ 3. Okres realizacji programu pilotażowego obejmuje:
 1) etap realizacji programu pilotażowego, który trwa od dnia 1 lipca 2021 r. do dnia 31 grudnia 2024 r.;
 2) etap ewaluacji programu pilotażowego, który trwa do dnia 30 września 2024 r. i obejmuje okres realizacji programu pilotażowego od dnia 1 lipca 2021 r. do dnia 31 lipca 2024 r.”;

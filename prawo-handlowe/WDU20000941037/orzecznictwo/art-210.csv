@@ -77,7 +77,9 @@ saos_id|date|court|case_number|type|score|saos_url
 91226|2009-11-19|SN|I PK 160/09|Postanowienie|69|https://www.saos.org.pl/judgments/91226
 90698|2009-08-12|SN|II PZP 8/09|Postanowienie|69|https://www.saos.org.pl/judgments/90698
 89726|2009-02-27|SN|II CSK 509/08|Postanowienie|69|https://www.saos.org.pl/judgments/89726
+545384|2026-03-31|SO|III AUa 778/25|Wyrok|56|https://www.saos.org.pl/judgments/545384
 540046|2025-11-19|SO|V AGa 530/24|Wyrok|56|https://www.saos.org.pl/judgments/540046
+545352|2025-11-13|SO|I AGa 180/25|Wyrok|56|https://www.saos.org.pl/judgments/545352
 537949|2025-06-10|SO|III AUa 999/23|Wyrok|56|https://www.saos.org.pl/judgments/537949
 531372|2025-02-19|SO|III AUa 230/23|Wyrok|56|https://www.saos.org.pl/judgments/531372
 539084|2024-12-30|SO|III AUa 1037/23|Wyrok|56|https://www.saos.org.pl/judgments/539084
@@ -401,6 +403,7 @@ saos_id|date|court|case_number|type|score|saos_url
 406641|2019-12-19|SO|III AUa 2207/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/406641
 406142|2019-11-28|SO|III AUa 372/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/406142
 408390|2018-05-30|SO|III AUa 1424/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/408390
+546963|2026-04-28|SO|VII U 550/24|Wyrok|40|https://www.saos.org.pl/judgments/546963
 521069|2025-01-22|SO|VII U 973/22|Wyrok|40|https://www.saos.org.pl/judgments/521069
 517432|2024-11-12|SO|VII U 1577/21|Wyrok|40|https://www.saos.org.pl/judgments/517432
 492702|2023-04-28|SO|VII U 836/22|Wyrok|40|https://www.saos.org.pl/judgments/492702

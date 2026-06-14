@@ -8,10 +8,10 @@ pos: 1841
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1841 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001841) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1841/text.pdf) |
 
-Poz. 1841 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 sierpnia 2023 r.
 w sprawie wynagrodzenia osób wchodzących w skład komisji wojewódzkiej do spraw służby zastępczej i komisji do spraw służby zastępczej Na podstawie art. 574 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
-poz. 347, 641, 1615 i 1834) zarządza się, co następuje: § 1. Rozporządzenie określa sposób ustalania wynagrodzenia osób wchodzących w skład komisji wojewódzkiej do spraw służby zastępczej, zwanej dalej „komisją wojewódzką”, i komisji do spraw służby zastępczej, zwanej dalej „komisją”, a także sposób ustalania wysokości i warunków wypłaty diet i innych należności, jeżeli osoby te zamieszkują poza miejscowościami, w których działają te komisje.
+poz. 347, 641, 1615 i 1834) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób ustalania wynagrodzenia osób wchodzących w skład komisji wojewódzkiej do spraw służby zastępczej, zwanej dalej „komisją wojewódzką”, i komisji do spraw służby zastępczej, zwanej dalej „komisją”, a także sposób ustalania wysokości i warunków wypłaty diet i innych należności, jeżeli osoby te zamieszkują poza miejscowościami, w których działają te komisje.
 § 2. Osobom wchodzącym w skład komisji wojewódzkiej i komisji przysługuje wynagrodzenie obliczone jako iloczyn:
 1) dla przewodniczącego komisji wojewódzkiej i komisji – kwoty 600,00 złotych i liczby posiedzeń, którym przewodniczył w miesiącu;
 2) dla członka komisji wojewódzkiej i komisji – kwoty 500,00 złotych i liczby posiedzeń, w których uczestniczył w miesiącu.

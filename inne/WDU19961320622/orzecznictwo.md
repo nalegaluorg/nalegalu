@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach.*
 
-Łącznie: **301** orzeczeń
-(pominięto 478 orzeczeń sądów rejonowych)
+Łącznie: **302** orzeczeń
+(pominięto 481 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 
@@ -11,7 +11,7 @@ Orzeczenia powołujące: *Ustawa z dnia 13 września 1996 r. o utrzymaniu czysto
 - 2016-04-07 | SO | [III C 138/15](https://www.saos.org.pl/judgments/218976) | Wyrok
 - 2020-11-19 | SO | [I C 198/20](https://www.saos.org.pl/judgments/438191) | Uzasadnienie
 
-## art. 2 (34)
+## art. 2 (35)
 
 - 2023-05-29 | SO | [V ACa 1592/22](https://www.saos.org.pl/judgments/509733) | Wyrok
 - 2023-01-19 | SO | [I ACa 569/21](https://www.saos.org.pl/judgments/494332) | Wyrok
@@ -22,6 +22,7 @@ Orzeczenia powołujące: *Ustawa z dnia 13 września 1996 r. o utrzymaniu czysto
 - 2017-04-21 | SO | [I ACa 957/16](https://www.saos.org.pl/judgments/286231) | Wyrok
 - 2016-05-06 | SO | [VI ACa 479/15](https://www.saos.org.pl/judgments/245876) | Wyrok
 - 2011-06-21 | KIO | [KIO 1197/11](https://www.saos.org.pl/judgments/118304) | Wyrok
+- 2024-05-07 | SO | [I C 57/22](https://www.saos.org.pl/judgments/545192) | Wyrok
 - 2022-11-08 | SO | [I C 290/21](https://www.saos.org.pl/judgments/479956) | Wyrok
 - 2020-01-14 | SO | [I C 1062/18](https://www.saos.org.pl/judgments/410638) | Wyrok
 - 2018-10-16 | SO | [II C 36/18](https://www.saos.org.pl/judgments/361232) | Wyrok

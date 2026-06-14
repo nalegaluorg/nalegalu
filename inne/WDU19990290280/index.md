@@ -8,7 +8,7 @@ pos: 280
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie zasad i trybu przyznawania pracownikom Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku.
@@ -24,7 +24,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990290280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/280/text.pdf) |
 
-Na podstawie art. 14 ust. 2 ustawy z dnia 14 marca 1985 r. o Inspekcji Sanitarnej (Dz.U. z 1998 r. Nr 90, poz. 675, Nr 106, poz. 668 i Nr 117, poz. 756) zarządza się, co następuje: § 1.
+Na podstawie art. 14 ust. 2 ustawy z dnia 14 marca 1985 r. o Inspekcji Sanitarnej (Dz.U. z 1998 r. Nr 90, poz. 675, Nr 106, poz. 668 i Nr 117, poz. 756) zarządza się, co następuje:
+§ 1.
 1. Pracownikom Inspekcji Sanitarnej wykonującym czynności kontrolne przysługuje miesięczny dodatek specjalny w wysokości 25% uposażenia zasadniczego.
 2. Dodatek przyznaje się pracownikowi z dniem powierzenia obowiązków wymienionych ust. 1, jeżeli przepracował on w Inspekcji Sanitarnej co najmniej 6 miesięcy.
 3. Dodatek, o którym mowa w ust. 1, nie przysługuje pracownikowi za czas nieprzerwanej nieobecności w pracy trwającej dłużej niż 30 dni, z wyjątkiem urlopów wypoczynkowych.

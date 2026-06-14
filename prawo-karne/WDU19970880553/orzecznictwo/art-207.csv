@@ -24,6 +24,7 @@ saos_id|date|court|case_number|type|score|saos_url
 544503|2026-02-10|SO|II AKa 3/26|Wyrok|56|https://www.saos.org.pl/judgments/544503
 543180|2025-09-04|SO|II AKa 98/25|Wyrok|56|https://www.saos.org.pl/judgments/543180
 541701|2025-05-08|SO|II AKa 19/25|Wyrok|56|https://www.saos.org.pl/judgments/541701
+545279|2025-03-20|SO|II AKa 588/24|Wyrok|56|https://www.saos.org.pl/judgments/545279
 527327|2025-02-26|SO|II AKa 439/24|Wyrok|56|https://www.saos.org.pl/judgments/527327
 523010|2025-02-06|SO|II AKa 248/24|Wyrok|56|https://www.saos.org.pl/judgments/523010
 531983|2024-12-19|SO|II AKa 421/24|Wyrok|56|https://www.saos.org.pl/judgments/531983
@@ -537,6 +538,7 @@ saos_id|date|court|case_number|type|score|saos_url
 157650|2015-02-19|SO|II AKa 130/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/157650
 65027|2014-09-23|SO|II AKa 83/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/65027
 146877|2014-05-21|SO|II AKa 24/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/146877
+546028|2026-04-17|SO|II K 552/25|Wyrok|40|https://www.saos.org.pl/judgments/546028
 543942|2026-02-25|SO|II K 26/26|Wyrok|40|https://www.saos.org.pl/judgments/543942
 540746|2026-01-13|SO|VI Ka 1187/25|Wyrok|40|https://www.saos.org.pl/judgments/540746
 543181|2025-11-21|SO|II K 637/25|Wyrok|40|https://www.saos.org.pl/judgments/543181
@@ -1220,6 +1222,7 @@ saos_id|date|court|case_number|type|score|saos_url
 54417|2014-05-05|SO|III K 81/14|Postanowienie|31|https://www.saos.org.pl/judgments/54417
 44925|2014-03-31|SO|III K 63/14|Postanowienie|31|https://www.saos.org.pl/judgments/44925
 26239|2013-11-26|SO|IV Kz 730/13|Postanowienie|31|https://www.saos.org.pl/judgments/26239
+546235|2026-05-08|SO|II K 552/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/546235
 543609|2026-02-13|SO|VI Ka 714/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/543609
 540748|2025-12-18|SO|VI Ka 867/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/540748
 543182|2025-11-21|SO|II K 637/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/543182

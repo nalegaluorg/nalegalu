@@ -8,7 +8,7 @@ pos: 1750
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Służbie Więziennej
@@ -91,9 +91,19 @@ source: "isap-pdf"
 
 **Art. 6a.** Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), nie stosuje się:
 
+- **1)** w sprawach osobowych funkcjonariuszy i pracowników Służby Więziennej;
+- **2)** w sprawach osobowych byłych funkcjonariuszy i pracowników Służby Więziennej;
+- **3)** jeżeli doręczenie korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej mogłoby wpłynąć negatywnie na sposób realizacji zadań przez Służbę Więzienną.
+
 #### Rozdział 2 Organizacja Służby Więziennej
 
 **Art. 7.** Organami Służby Więziennej są:
+
+- **1)** Dyrektor Generalny Służby Więziennej;
+- **1a)** (uchylony)
+- **2)** dyrektor okręgowy Służby Więziennej, zwany dalej „dyrektorem okręgowym”;
+- **3)** dyrektor zakładu karnego i dyrektor aresztu śledczego;
+- **4)** Rektor-Komendant uczelni Służby Więziennej, zwany dalej „Rektorem”, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, komendant ośrodka szkolenia Służby Więziennej i komendant ośrodka doskonalenia kadr Służby Więziennej.
 
 **Art. 8.**
 
@@ -289,6 +299,9 @@ source: "isap-pdf"
 7. Przepisów ust. 5 i 6 nie stosuje się, jeżeli ośrodek szkolenia Służby Więziennej lub ośrodek doskonalenia kadr Służby Więziennej jest prowadzony w formie instytucji gospodarki budżetowej.
 
 **Art. 15.** Ustanawia się dzień:
+
+- **1)** 8 lutego Dniem Tradycji Służby Więziennej;
+- **2)** 29 czerwca Świętem Służby Więziennej.
 
 **Art. 16.**
 
@@ -741,7 +754,13 @@ source: "isap-pdf"
 
 **Art. 25i.** Korzystając z informacji z Centralnej Bazy, Dyrektor Generalny:
 
+- **1)** przekazuje, za pośrednictwem systemu teleinformatycznego, informacje o osobach pozbawionych wolności do Krajowego Rejestru Karnego, w zakresie określonym w ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2024 r. poz. 276 oraz z 2025 r. poz. 1235) oraz w przepisach wydanych na podstawie art. 12 ust. 3 tej ustawy;
+- **2)** może przekazywać, za pośrednictwem systemu teleinformatycznego, informacje określone w odrębnych przepisach, do uprawnionych podmiotów, realizując ustawowe zadania Służby Więziennej wynikające z tych przepisów.
+
 **Art. 25j.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej może określić, w drodze rozporządzenia:
+
+- **1)** sposób oraz warunki przekazywania z Centralnej Bazy informacji, o których mowa w art. 25i pkt 2,
+- **2)** zadania Służby Więziennej realizowane w sposób określony w art. 25i pkt 2 – uwzględniając w szczególności potrzebę stworzenia możliwości uproszczenia trybu przekazywania informacji przez organy Służby Więziennej uprawnionym podmiotom, zakres i sposób działania tych podmiotów, potrzebę minimalizowania kosztów realizacji zadań przez organy władzy publicznej oraz konieczność ochrony przekazywanych w tym trybie informacji.
 
 #### Rozdział 5 Funkcjonariusze i pracownicy
 
@@ -753,6 +772,10 @@ source: "isap-pdf"
 
 **Art. 27.** Funkcjonariusze i pracownicy powinni wykazywać się odpowiednim przygotowaniem ogólnym i zawodowym oraz wysokim poziomem moralnym, systematycznie dokształcać się i podnosić kwalifikacje zawodowe. W postępowaniu wobec osób pozbawionych wolności są obowiązani w szczególności:
 
+- **1)** kierować się zasadami praworządności, bezstronności oraz humanitaryzmu;
+- **2)** szanować ich prawa i godność;
+- **3)** oddziaływać pozytywnie swoim własnym przykładem.
+
 **Art. 28.**
 
 1. Funkcjonariusze i pracownicy nie mogą uczestniczyć w takiej działalności, która podważa autorytet Służby Więziennej lub w której wykorzystuje się informacje o charakterze służbowym do celów pozasłużbowych.
@@ -760,6 +783,13 @@ source: "isap-pdf"
 2. Funkcjonariuszom i pracownikom zabrania się utrzymywania innych niż wynikające z obowiązków służbowych kontaktów z osobami pozbawionymi wolności oraz udzielania osobom nieupoważnionym informacji dotyczących osób pozbawionych wolności, także po ich zwolnieniu.
 
 **Art. 29.** Pracownikiem może być osoba, która:
+
+- **1)** ukończyła 18 lat i ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
+- **2)** daje rękojmię prawidłowego wykonywania powierzonych zadań;
+- **3)** nie była skazana prawomocnym wyrokiem sądu za przestępstwo umyślne lub umyślne przestępstwo skarbowe albo wobec której nie został wydany prawomocny wyrok warunkowo umarzający postępowanie karne o takie przestępstwo, a także nie toczy się przeciwko niej postępowanie karne o takie przestępstwo;
+- **4)** ma odpowiednie do zajmowanego stanowiska wykształcenie;
+- **5)** daje rękojmię zachowania tajemnicy stosownie do wymogów określonych w przepisach ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych;
+- **6)** posiada zdolność psychiczną i fizyczną pozwalającą na zatrudnienie na określonym stanowisku, którą ustala służba medycyny pracy.
 
 **Art. 30.**
 
@@ -978,6 +1008,12 @@ source: "isap-pdf"
 
 **Art. 39d.** Podmiot właściwy w sprawie przeprowadzenia postępowania kwalifikacyjnego odmawia poddania kandydata postępowaniu kwalifikacyjnemu albo odstępuje od jego prowadzenia w przypadku:
 
+- **1)** zatajenia informacji lub podania nieprawdziwych informacji w ankiecie personalnej;
+- **2)** niespełnienia wymagań określonych w art. 38;
+- **3)** niezłożenia wymaganych dokumentów w wyznaczonym terminie;
+- **4)** niepoddania się przez kandydata czynnościom lub badaniom przewidzianym w postępowaniu kwalifikacyjnym;
+- **5)** negatywnego wyniku uzyskanego na choćby jednym z etapów postępowania kwalifikacyjnego.
+
 **Art. 39e.**
 
 1. Ranking kandydatów, o którym mowa w art. 39c ust. 2 pkt 3, zawiera imiona i nazwiska kandydatów wraz z oceną kandydata uzyskaną w postępowaniu kwalifikacyjnym i liczbą porządkową wskazującą na jego miejsce w rankingu, podane z podziałem na działy Służby Więziennej i stanowiska służbowe. Ranking kandydatów komisja ogłasza na stronie internetowej podmiotu przeprowadzającego postępowanie kwalifikacyjne w sposób zapewniający anonimizację danych kandydatów.
@@ -1019,6 +1055,15 @@ source: "isap-pdf"
 4. Minister Sprawiedliwości może wyrazić zgodę na przyjęcie do Służby Więziennej pracownika niespełniającego kryterium, o którym mowa w ust. 1 pkt 1.
 
 **Art. 39h.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** termin powoływania komisji kwalifikacyjnej,
+- **2)** wzór ankiety personalnej oraz wzór arkusza oceny kandydata do służby w Służbie Więziennej,
+- **3)** zakres informacji udzielanej w ogłoszeniu o przyjmowaniu do służby w jednostkach organizacyjnych objętych postępowaniem,
+- **4)** punktację stosowaną do oceny kompetencji i wykształcenia kandydata do służby w Służbie Więziennej,
+- **5)** sposób przeprowadzania rozmowy kwalifikacyjnej i testu wiedzy oraz punktację stosowaną do ich oceny,
+- **6)** punktację stosowaną do oceny testu sprawności fizycznej,
+- **7)** sposób dokonywania anonimizacji rankingu kandydatów do służby w Służbie Więziennej ogłaszanego na stronie internetowej podmiotu przeprowadzającego postępowanie kwalifikacyjne,
+- **8)** tryb dokonywania wyboru jednostki organizacyjnej przez kandydatów do służby w Służbie Więziennej – uwzględniając powszechność dostępu do informacji o postępowaniu kwalifikacyjnym, czynności niezbędne do przeprowadzenia tego postępowania i ustalenia w jego toku kwalifikacji kandydata, jego kompetencji i przydatności do pełnienia służby w Służbie Więziennej oraz potrzebę zapewnienia sprawności przeprowadzania postępowania kwalifikacyjnego, przejrzystości stosowanych kryteriów oceny, obiektywności wyników postępowania i wyboru kandydatów posiadających w największym stopniu cechy, umiejętności oraz kwalifikacje przydatne do realizacji zadań służbowych, a także mając na względzie charakter służby w Służbie Więziennej oraz warunki jej pełnienia.
 
 **Art. 40.**
 
@@ -1110,6 +1155,10 @@ source: "isap-pdf"
 
 **Art. 43a.** Kształcenie funkcjonariuszy i pracowników obejmuje:
 
+- **1)** szkolenia wstępne, zawodowe i specjalistyczne;
+- **2)** doskonalenie zawodowe;
+- **3)** studia i studia podyplomowe na Uczelni.
+
 **Art. 43b.**
 
 1. Organizacja i sposób prowadzenia szkoleń wstępnego, zawodowego i specjalistycznego oraz doskonalenia zawodowego powinny uwzględniać:
@@ -1144,6 +1193,13 @@ source: "isap-pdf"
 
 **Art. 43e.** Szkolenia wstępne, zawodowe i specjalistyczne oraz doskonalenie zawodowe mają na celu kształtowanie u funkcjonariuszy i pracowników kompetencji w szczególności w zakresie:
 
+- **1)** radzenia sobie w sytuacjach trudnych i ekstremalnych;
+- **2)** zachowań asertywnych i empatii;
+- **3)** zdyscyplinowania i współdziałania;
+- **4)** kreatywnego rozwiązywania problemów;
+- **5)** postępowania etycznego;
+- **6)** postępowania na podstawie i w granicach prawa.
+
 **Art. 43f.**
 
 1. Funkcjonariusz i pracownik niezwłocznie po przyjęciu do służby albo pracy odbywają szkolenie wstępne, na które składa się wstępna adaptacja zawodowa, kurs przygotowawczy oraz praktyka zawodowa.
@@ -1153,6 +1209,10 @@ source: "isap-pdf"
 3. Szkolenie wstępne powinno zakończyć się przed upływem 11 miesięcy od dnia przyjęcia do służby albo pracy.
 
 **Art. 43g.** Szkolenie wstępne odbywa się w trzech etapach, z których:
+
+- **1)** pierwszy jest realizowany w jednostce organizacyjnej, w której funkcjonariusz lub pracownik pełni służbę albo wykonuje pracę w ramach wstępnej adaptacji zawodowej;
+- **2)** drugi jest realizowany stacjonarnie na Uczelni, w Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej albo ośrodku doskonalenia kadr Służby Więziennej w ramach kursu przygotowawczego;
+- **3)** trzeci jest realizowany w jednostce organizacyjnej w formie praktyki zawodowej.
 
 **Art. 43h.**
 
@@ -1192,6 +1252,11 @@ source: "isap-pdf"
 
 **Art. 43m.** Potwierdzeniem ukończenia szkolenia wstępnego jest:
 
+- **1)** arkusz realizacji wstępnej adaptacji zawodowej sporządzony w jednostce organizacyjnej, w której funkcjonariusz na stałe pełni służbę albo pracownik jest zatrudniony;
+- **2)** zaświadczenie o ukończeniu kursu przygotowawczego sporządzone w jednostce organizacyjnej, w której odbył się kurs;
+- **3)** arkusz realizacji programu praktyki zawodowej sporządzony w jednostce organizacyjnej, w której funkcjonariusz albo pracownik realizował praktykę zawodową;
+- **4)** zaświadczenie o ukończeniu szkolenia wstępnego sporządzone w jednostce organizacyjnej, w której przeprowadzono egzamin.
+
 **Art. 43n.** Nadzór nad przebiegiem szkolenia wstępnego w okresie wstępnej adaptacji zawodowej i praktyki zawodowej sprawuje kierownik jednostki, a w okresie kursu przygotowawczego – Rektor, właściwy komendant lub kierownik jednostki, a także wyższy przełożony w ramach sprawowanego nadzoru.
 
 **Art. 43o.**
@@ -1207,9 +1272,19 @@ source: "isap-pdf"
 
 **Art. 43p.** Celem szkolenia zawodowego jest:
 
+- **1)** przygotowanie funkcjonariuszy lub pracowników do wykonywania zadań wynikających z ustawy oraz innych przepisów regulujących działalność Służby Więziennej;
+- **2)** rozwijanie wiedzy ogólnej i zawodowej oraz wspieranie samokształcenia i umiejętności analizowania, a także rozwijanie i podtrzymywanie zdolności fizycznej i psychicznej do służby albo pracy w Służbie Więziennej oraz niezbędnych umiejętności interpersonalnych;
+- **3)** wspieranie wszechstronnego rozwoju zawodowego i osobistego funkcjonariuszy i pracowników oraz zapobieganie chorobom i schorzeniom pozostającym w związku ze służbą albo pracą przez promocję zdrowia, a także kształtowanie praworządnych zachowań funkcjonariuszy i pracowników zgodnie z zasadami etyki oraz równości.
+
 **Art. 43q.** W szkoleniu zawodowym realizuje się zajęcia teoretyczne oraz praktyczne.
 
 **Art. 43r.** W szkoleniu zawodowym uwzględnia się dorobek polskiej penitencjarystyki oraz osiągnięcia i standardy międzynarodowe w zakresie obejmującym w szczególności:
+
+- **1)** humanitarne traktowanie osób pozbawionych wolności;
+- **2)** przeciwdziałanie dyskryminacji i nietolerancji;
+- **3)** respektowanie prawa do indywidualnej skargi oraz znaczenia orzecznictwa Europejskiego Trybunału Praw Człowieka w ochronie praw człowieka w Europie;
+- **4)** zapobieganie wiktymizacji, wykrywanie aktów przemocy oraz respektowanie potrzeb i praw ofiar przemocy;
+- **5)** wykonywanie obowiązujących przepisów z zakresu ochrony praw człowieka i podstawowych wolności.
 
 **Art. 43s.** Szkolenie zawodowe prowadzi się na Uczelni, w Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej lub ośrodku doskonalenia kadr Służby Więziennej.
 
@@ -1484,6 +1559,36 @@ source: "isap-pdf"
 
 **Art. 49.** Ustanawia się korpusy i stopnie Służby Więziennej w następującym porządku:
 
+- **1)** w korpusie szeregowych Służby Więziennej:
+    - **a)** szeregowy Służby Więziennej,
+    - **b)** starszy szeregowy Służby Więziennej;
+
+- **2)** w korpusie podoficerów Służby Więziennej:
+    - **a)** kapral Służby Więziennej,
+    - **b)** starszy kapral Służby Więziennej,
+    - **c)** plutonowy Służby Więziennej,
+    - **d)** sierżant Służby Więziennej,
+    - **e)** starszy sierżant Służby Więziennej,
+    - **f)** sierżant sztabowy Służby Więziennej,
+    - **g)** starszy sierżant sztabowy Służby Więziennej;
+
+- **3)** w korpusie chorążych Służby Więziennej:
+    - **a)** młodszy chorąży Służby Więziennej,
+    - **b)** chorąży Służby Więziennej,
+    - **c)** starszy chorąży Służby Więziennej,
+    - **d)** chorąży sztabowy Służby Więziennej,
+    - **e)** starszy chorąży sztabowy Służby Więziennej;
+
+- **4)** w korpusie oficerów Służby Więziennej:
+    - **a)** podporucznik Służby Więziennej,
+    - **b)** porucznik Służby Więziennej,
+    - **c)** kapitan Służby Więziennej,
+    - **d)** major Służby Więziennej,
+    - **e)** podpułkownik Służby Więziennej,
+    - **f)** pułkownik Służby Więziennej,
+    - **g)** generał Służby Więziennej,
+    - **h)** generał inspektor Służby Więziennej.
+
 **Art. 50.**
 
 1. Stopień szeregowego i starszego szeregowego Służby Więziennej nadaje kierownik jednostki organizacyjnej. Stopień szeregowego nadaje się z dniem mianowania na pierwsze stanowisko służbowe.
@@ -1579,6 +1684,13 @@ source: "isap-pdf"
 6. Anulowania nadania funkcjonariuszowi stopnia Służby Więziennej dokonuje organ uprawniony do jego nadania.
 
 **Art. 55.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** rodzaje stanowisk oficerskich, chorążych i podoficerskich w jednostkach organizacyjnych,
+- **2)** staż służby wymagany do zajmowania poszczególnych stanowisk,
+- **3)** rodzaj wykształcenia wymagany do zajmowania poszczególnych stanowisk,
+- **4)** rodzaj szkolenia specjalistycznego oraz zawodowego wymagany do zajmowania niektórych stanowisk,
+- **5)** maksymalne stopnie przypisane do poszczególnych stanowisk,
+- **6)** tryb nadawania, obniżania i anulowania funkcjonariuszom stopni – uwzględniając konieczność posiadania przez funkcjonariuszy odpowiednich kwalifikacji specjalistycznych i zawodowych na określonych stanowiskach służbowych.
 
 **Art. 56.**
 
@@ -1717,6 +1829,12 @@ source: "isap-pdf"
 
 **Art. 60d.** Okres przebywania na zwolnieniu lekarskim stwierdza zaświadczenie lekarskie wystawione zgodnie z art. 55 ust. 1 i art. 55a ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa albo wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 tej ustawy, z tym że:
 
+- **1)** przyczynę niezdolności do służby wskutek poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz niezdolności do służby wskutek poddania się zabiegowi pobrania komórek, tkanek i narządów – zaświadczenie wystawione przez lekarza na zwykłym druku zgodnie z przepisem art. 53 ust. 3 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
+- **2)** w przypadku, o którym mowa w art. 60c ust. 2 pkt 2 – zaświadczenie jednostki organizacyjnej publicznej służby krwi;
+- **3)** w przypadku, o którym mowa w art. 60c ust. 2 pkt 5 lit. a – oświadczenie funkcjonariusza;
+- **4)** w przypadkach, o których mowa w art. 60c ust. 2 pkt 5 lit. b i c – zaświadczenie lekarskie wystawione przez lekarza na zwykłym druku;
+- **5)** w przypadku, o którym mowa w art. 6 ust. 2 pkt 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa – decyzja wydana przez właściwy organ albo uprawniony podmiot na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi. Art. 60da. Doręczenie zaświadczenia lekarskiego odbywa się przy wykorzystaniu profilu informacyjnego, o którym mowa w art. 58 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, na zasadach określonych w tej ustawie. Kierownicy jednostek organizacyjnych Służby Więziennej wykorzystują lub tworzą profil informacyjny płatnika składek, o którym mowa w art. 58 ust. 1 tej ustawy.
+
 **Art. 60e.**
 
 1. Wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, zaświadczenie lekarskie, o którym mowa w art. 55a ust. 7 tej ustawy, zaświadczenie wystawione przez lekarza na zwykłym druku w przypadkach, o których mowa w art. 60c ust. 2 pkt 5 lit. b i c oraz w art. 60d pkt 1, zaświadczenie jednostki organizacyjnej publicznej służby krwi albo decyzję, o której mowa w art. 60d pkt 5, funkcjonariusz jest obowiązany dostarczyć kierownikowi jednostki organizacyjnej, w której pełni służbę, w terminie 7 dni od dnia ich otrzymania.
@@ -1813,7 +1931,14 @@ source: "isap-pdf"
 
 **Art. 62a.** Służba kandydacka polega na:
 
+- **1)** odbywaniu studiów zgodnie z programem studiów;
+- **2)** wykonywaniu zadań służbowych w jednostkach organizacyjnych.
+
 **Art. 62b.** Funkcjonariuszem w służbie kandydackiej może zostać osoba, która została zakwalifikowana na studia pierwszego stopnia na Uczelni oraz która w trakcie procesu rekrutacji:
+
+- **1)** spełniła wymagania, o których mowa w art. 38;
+- **2)** złożyła podanie o przyjęcie do służby kandydackiej;
+- **3)** złożyła zobowiązanie do pełnienia służby po ukończeniu nauki przez okres 5 lat od dnia mianowania funkcjonariuszem w służbie stałej.
 
 **Art. 62c.**
 
@@ -1857,6 +1982,9 @@ source: "isap-pdf"
 - **2)** zapomogę pieniężną, o której mowa w art. 204.
 
 **Art. 62g.** Funkcjonariuszowi w służbie kandydackiej mogą być udzielone następujące urlopy:
+
+- **1)** okolicznościowy, na załatwienie spraw osobistych lub rodzinnych – w wymiarze do 5 dni w każdym roku nauki;
+- **2)** krótkoterminowy, w drodze wyróżnienia – w wymiarze do 7 dni w każdym roku nauki.
 
 **Art. 62h.**
 
@@ -1931,6 +2059,9 @@ source: "isap-pdf"
 #### Rozdział 8 Stanowiska służbowe w Służbie Więziennej zajmowane na podstawie powołania
 
 **Art. 62o.** Stanowiska służbowe w Służbie Więziennej zajmowane na podstawie powołania obejmują:
+
+- **1)** wyższe stanowiska kierownicze w Służbie Więziennej;
+- **2)** stanowiska służbowe, o których mowa w art. 67a.
 
 **Art. 63.**
 
@@ -2107,6 +2238,11 @@ source: "isap-pdf"
 
 **Art. 71.** Nie można bez zgody zainteresowanego przenieść albo delegować do pełnienia służby w innej jednostce organizacyjnej:
 
+- **1)** funkcjonariusza kobiety w ciąży;
+- **2)** funkcjonariusza samodzielnie sprawującego opiekę nad dzieckiem do lat 14;
+- **3)** funkcjonariusza samodzielnie sprawującego opiekę nad dzieckiem niezdolnym do pracy lub do samodzielnej egzystencji, przed osiągnięciem przez dziecko 18 lat życia lub do ukończenia nauki, nie dłużej jednak niż do osiągnięcia 25 lat życia;
+- **4)** funkcjonariusza samodzielnie sprawującego opiekę nad dzieckiem całkowicie niezdolnym do pracy, bez względu na jego wiek.
+
 **Art. 72.**
 
 1. Funkcjonariusz przeniesiony lub powołany na stanowisko służbowe zaszeregowane do niższego uposażenia zasadniczego zachowuje prawo do uposażenia pobieranego na poprzednio zajmowanym stanowisku do czasu uzyskania uposażenia zasadniczego równego dotychczas pobieranemu lub wyższego.
@@ -2178,6 +2314,9 @@ source: "isap-pdf"
 **Art. 76.** Oddelegowanie do pełnienia służby poza Służbą Więzienną następuje po wyrażeniu zgody przez funkcjonariusza w formie pisemnego oświadczenia zawierającego w szczególności: nazwę instytucji i wyznaczone dla funkcjonariusza stanowisko służbowe, charakter i zakres wykonywanych na tym stanowisku zadań i obowiązków, a także okres oddelegowania.
 
 **Art. 77.** W razie uwzględnienia wniosku, o którym mowa w art. 75, Dyrektor Generalny:
+
+- **1)** zalicza – do celów związanych z pełnieniem służby w Służbie Więziennej oraz obliczania uposażenia i innych należności pieniężnych funkcjonariusza w okresie oddelegowania – stanowisko służbowe określone we wniosku do odpowiedniej grupy uposażenia zasadniczego funkcjonariuszy oraz ustala stopień Służby Więziennej, do którego zaszeregowuje to stanowisko, przy czym uposażenie funkcjonariusza obliczone w ten sposób nie może być niższe od dotychczas otrzymywanego;
+- **2)** oddelegowuje funkcjonariusza do określonej instytucji.
 
 **Art. 78.**
 
@@ -2265,6 +2404,10 @@ source: "isap-pdf"
 
 **Art. 86.** Funkcjonariusz podlega okresowemu opiniowaniu służbowemu, które ma na celu:
 
+- **1)** stworzenie podstaw do określenia indywidualnego programu rozwoju zawodowego;
+- **2)** ustalenie przydatności do służby, ocenę wywiązywania się z obowiązków służbowych oraz przydatności na zajmowanym stanowisku;
+- **3)** wyłanianie kandydatów do mianowania i powoływania na wyższe stanowiska służbowe oraz awansowania na wyższe stopnie Służby Więziennej.
+
 **Art. 87.**
 
 1. W opiniowaniu służbowym w zależności od zajmowanego stanowiska i charakteru wykonywanych zadań służbowych uwzględnia się odpowiednio następujące kryteria:
@@ -2291,6 +2434,16 @@ source: "isap-pdf"
 3. W przypadku funkcjonariuszy nauczycieli oraz funkcjonariuszy nauczycieli akademickich w opiniowaniu służbowym ocenie podlega również wywiązywanie się z obowiązków wynikających odpowiednio z przepisów o systemie oświaty oraz przepisów o szkolnictwie wyższym i nauce.
 
 **Art. 88.** Opinie służbowe wydają:
+
+- **1)** Minister Sprawiedliwości – o Dyrektorze Generalnym;
+- **2)** Dyrektor Generalny – o swoich zastępcach, kierownikach komórek organizacyjnych w Centralnym Zarządzie Służby Więziennej, dyrektorach okręgowych, Komendancie Centralnego Ośrodka Szkolenia Służby Więziennej, komendantach ośrodków szkolenia Służby Więziennej oraz komendantach ośrodków doskonalenia kadr Służby Więziennej bezpośrednio mu podległych;
+- **3)** (uchylony)
+- **4)** dyrektor okręgowy – na terenie swojego działania – o swoich zastępcach i funkcjonariuszach pełniących służbę w okręgowym inspektoracie Służby Więziennej, dyrektorach zakładów karnych i dyrektorach aresztów śledczych oraz komendantach ośrodków doskonalenia kadr Służby Więziennej;
+- **5)** Rektor – o prorektorach Uczelni, kierownikach komórek organizacyjnych Uczelni oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych na Uczelni;
+- **6)** Komendant Centralnego Ośrodka Szkolenia Służby Więziennej, komendant ośrodka szkolenia Służby Więziennej, komendant ośrodka doskonalenia kadr Służby Więziennej – odpowiednio o swoich zastępcach, kierownikach komórek organizacyjnych oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych;
+- **7)** dyrektor zakładu karnego i dyrektor aresztu śledczego – o swoich zastępcach, kierownikach komórek organizacyjnych oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych;
+- **8)** kierownik komórki organizacyjnej – o podległych mu bezpośrednio funkcjonariuszach;
+- **9)** przełożony właściwy w czasie delegowania – o funkcjonariuszach delegowanych do czasowego pełnienia służby w innej jednostce organizacyjnej.
 
 **Art. 89.**
 
@@ -3015,6 +3168,9 @@ source: "isap-pdf"
 
 **Art. 131.** W zamian za czas służby przekraczający normę określoną w art. 121 ust. 1 funkcjonariuszowi przysługuje:
 
+- **1)** w okresie rozliczeniowym czas wolny od służby w tym samym wymiarze albo
+- **2)** po zakończeniu okresu rozliczeniowego rekompensata pieniężna, o ile w terminie 10 dni od dnia zakończenia okresu rozliczeniowego nie wystąpi z wnioskiem o udzielenie czasu wolnego od służby w tym samym wymiarze.
+
 **Art. 132.** Funkcjonariusz, do którego obowiązków należy kierowanie pojazdem samochodowym, może pełnić służbę do 12 godzin na dobę, w tym kierować pojazdem nie dłużej niż 10 godzin. Czas nieprzerwanego kierowania samochodem nie może przekroczyć 6 godzin, po których następuje przerwa trwająca 30 minut.
 
 **Art. 133.**
@@ -3519,7 +3675,16 @@ source: "isap-pdf"
 
 **Art. 171.** Prawo do lokalu mieszkalnego realizuje się przez:
 
+- **1)** przydział lokalu albo
+- **2)** (uchylony)
+- **3)** przyznanie świadczenia mieszkaniowego, o którym mowa w art. 187a ust. 1.
+
 **Art. 172.** Funkcjonariuszowi w służbie stałej przydziela się decyzją administracyjną lokal mieszkalny, o którym mowa w art. 177, uwzględniając następujące okoliczności:
+
+- **1)** brak lokalu mieszkalnego w miejscowości, w której stale pełni służbę, lub w miejscowości pobliskiej;
+- **2)** przydatność do służby, kwalifikacje zawodowe oraz staż służby w Służbie Więziennej;
+- **3)** przeniesienie z urzędu do pełnienia służby w innej miejscowości, niebędącej miejscowością pobliską;
+- **4)** zajmowanie kwatery tymczasowej w budynku jednostki organizacyjnej przeznaczonym na cele służbowe lub znajdującym się na terenie zamkniętym.
 
 **Art. 173.**
 
@@ -3564,6 +3729,10 @@ source: "isap-pdf"
 
 **Art. 176.** Członkami rodziny funkcjonariusza, których uwzględnia się przy ustalaniu przysługującej powierzchni mieszkalnej lokalu mieszkalnego, są:
 
+- **1)** małżonek;
+- **2)** dzieci (własne, małżonka, przysposobione lub przyjęte na wychowanie w ramach rodziny zastępczej) wspólnie zamieszkujące z funkcjonariuszem i pozostające na jego utrzymaniu, nie dłużej jednak niż do ukończenia przez nie 25 lat życia;
+- **3)** rodzice funkcjonariusza lub jego małżonka wspólnie zamieszkujący z funkcjonariuszem i pozostający na jego wyłącznym utrzymaniu lub jeżeli ze względu na wiek albo inwalidztwo są niezdolni do wykonywania zatrudnienia.
+
 **Art. 177.**
 
 1. Na lokale mieszkalne lub kwatery tymczasowe dla funkcjonariuszy przeznacza się lokale uzyskane w wyniku działalności inwestycyjnej Służby Więziennej oraz pozostające i przekazane do dyspozycji Służby Więziennej.
@@ -3589,6 +3758,11 @@ source: "isap-pdf"
 **Art. 186.** (uchylony)
 
 **Art. 187.** Lokalu mieszkalnego na podstawie decyzji administracyjnej nie przydziela się funkcjonariuszowi:
+
+- **1)** (uchylony)
+- **2)** posiadającemu w miejscowości, w której pełni służbę, lub w miejscowości pobliskiej lokal mieszkalny w spółdzielni mieszkaniowej albo dom jednorodzinny lub dom mieszkalno-pensjonatowy albo lokal mieszkalny stanowiący odrębną nieruchomość, odpowiadający co najmniej przysługującej mu powierzchni mieszkalnej;
+- **3)** którego małżonek posiada lokal mieszkalny lub dom określony w pkt 2;
+- **4)** w razie zbycia przez niego lub jego małżonka lokalu mieszkalnego lub domu, o którym mowa w pkt 2.
 
 **Art. 187a.**
 
@@ -3694,6 +3868,20 @@ source: "isap-pdf"
 
 **Art. 192.** Decyzje w sprawach realizacji uprawnień funkcjonariusza wynikających z przepisów niniejszego rozdziału wydają następujące organy:
 
+- **1)** Minister Sprawiedliwości w odniesieniu do Dyrektora Generalnego i jego zastępców;
+- **2)** Dyrektor Generalny w odniesieniu do:
+    - **a)** funkcjonariusza pełniącego służbę w Centralnym Zarządzie Służby Więziennej,
+    - **b)** dyrektora okręgowego i jego zastępców,
+    - **c)** Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej albo komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego i ich zastępców;
+
+- **3)** (uchylony)
+- **4)** dyrektor okręgowy w odniesieniu do:
+    - **a)** funkcjonariusza pełniącego służbę w okręgowym inspektoracie Służby Więziennej,
+    - **b)** dyrektora aresztu śledczego i dyrektora zakładu karnego położonego na terenie działania okręgowego inspektoratu i jego zastępców,
+    - **c)** komendanta ośrodka doskonalenia kadr Służby Więziennej położonego na terenie działania okręgowego inspektoratu i jego zastępców;
+
+- **5)** dyrektor aresztu śledczego, dyrektor zakładu karnego, Rektor, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej oraz komendant ośrodka szkolenia Służby Więziennej i komendant ośrodka doskonalenia kadr Służby Więziennej w odniesieniu do funkcjonariusza pełniącego służbę w tych jednostkach.
+
 #### Rozdział 19 Świadczenia funkcjonariuszy
 
 **Art. 193.**
@@ -3798,6 +3986,15 @@ source: "isap-pdf"
 
 **Art. 199.** Nagroda roczna nie przysługuje za rok kalendarzowy, w którym:
 
+- **1)** skazano funkcjonariusza prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe z oskarżenia publicznego lub umyślnie popełnione przestępstwo skarbowe;
+- **2)** wymierzono funkcjonariuszowi orzeczeniem karę dyscyplinarną wydalenia ze służby;
+- **3)** wydano funkcjonariuszowi opinię służbową o:
+    - **a)** niewywiązywaniu się z obowiązków służbowych na zajmowanym stanowisku, stwierdzonym w okresie służby stałej,
+    - **b)** nieprzydatności na zajmowanym stanowisku w okresie służby stałej,
+    - **c)** nieprzydatności do służby w okresie służby przygotowawczej;
+
+- **4)** nastąpiło wygaśnięcie stosunku służbowego wskutek porzucenia służby.
+
 **Art. 200.** W przypadkach określonych w art. 198 i art. 199 funkcjonariuszowi, który w dniu ustania stosunku służbowego spełnia warunki do nabycia prawa do emerytury lub renty inwalidzkiej, przyznaje się nagrodę roczną w wysokości 1/12 miesięcznego uposażenia.
 
 **Art. 201.** Nagrodę roczną wypłaca się nie później niż w ciągu pierwszych 4 miesięcy kalendarzowych następujących po roku, za który przysługuje nagroda, z tym że funkcjonariuszowi zwalnianemu ze służby nagrodę roczną wypłaca się nie później niż w ostatnim dniu służby.
@@ -3818,7 +4015,18 @@ source: "isap-pdf"
 
 **Art. 205.** Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia:
 
+- **1)** wysokość funduszu na nagrody uznaniowe i zapomogi dla funkcjonariuszy,
+- **2)** sposoby ustalania i warunki zwiększania jego wysokości dla poszczególnych jednostek organizacyjnych,
+- **3)** tryb zwiększenia funduszu na nagrody uznaniowe i zapomogi o środki finansowe uzyskane z tytułu zmniejszenia uposażeń, o którym mowa w art. 60h,
+- **4)** tryb postępowania oraz właściwość przełożonych w zakresie przyznawania i wypłaty nagród uznaniowych i zapomóg – mając na względzie celową i racjonalną politykę w zakresie dysponowania środkami finansowymi.
+
 **Art. 206.** Funkcjonariuszowi przysługują nagrody jubileuszowe w wysokości:
+
+- **1)** po 20 latach służby – 75 %,
+- **2)** po 25 latach służby – 100 %,
+- **3)** po 30 latach służby – 150 %,
+- **4)** po 35 latach służby – 200 %,
+- **5)** po 40 latach służby – 300 % – miesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym.
 
 **Art. 207.**
 
@@ -4243,6 +4451,14 @@ source: "isap-pdf"
 - **3)** zastępcy dyrektora zakładu karnego lub aresztu śledczego, zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej oraz funkcjonariuszom tych jednostek – jest dyrektor okręgowy.
 
 **Art. 232.** Karami dyscyplinarnymi są:
+
+- **1)** nagana;
+- **2)** ostrzeżenie o niepełnej przydatności na zajmowanym stanowisku służbowym;
+- **3)** ostrzeżenie o niepełnej przydatności do służby w Służbie Więziennej;
+- **4)** wyznaczenie na niższe stanowisko służbowe;
+- **5)** obniżenie stopnia;
+- **6)** wyznaczenie na niższe stanowisko służbowe wraz z obniżeniem stopnia;
+- **7)** wydalenie ze służby.
 
 **Art. 233.** Kara nagany polega na wytknięciu ukaranemu przez przełożonego dyscyplinarnego niewłaściwego postępowania.
 
@@ -4728,6 +4944,9 @@ source: "isap-pdf"
 
 **Art. 257.** Orzeczenie lub postanowienie staje się prawomocne:
 
+- **1)** z upływem terminu do wniesienia odwołania, wniosku o ponowne rozpatrzenie sprawy lub zażalenia, jeżeli go nie wniesiono;
+- **2)** w dniu wydania orzeczenia lub postanowienia przez organ odwoławczy.
+
 **Art. 258.**
 
 1. Przełożony, po uprawomocnieniu się orzeczenia, niezwłocznie wykonuje orzeczoną karę. Przepis art. 237 ust. 2 stosuje się odpowiednio.
@@ -4876,6 +5095,11 @@ source: "isap-pdf"
 
 **Art. 264d.** Opiekun psa służbowego lub opiekun psa służbowego wycofanego z użycia, zwani dalej „opiekunem”, oraz organizacja, o której mowa w art. 264c ust. 7, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
 
+- **1)** racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+- **2)** dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+- **3)** pielęgnację i utrzymanie w czystości;
+- **4)** warunki utrzymania dostosowane do potrzeb biologicznych.
+
 **Art. 264e.**
 
 1. Żywienie psa służbowego i psa służbowego wycofanego z użycia jest dostosowane do potrzeb jego organizmu, wagi, wieku, stanu zdrowia, warunków klimatycznych, funkcji fizjologicznych oraz wysiłku fizycznego lub wskazań lekarza weterynarii.
@@ -4913,6 +5137,10 @@ source: "isap-pdf"
 6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest kierownik jednostki organizacyjnej Służby Więziennej, na której stanie znajduje się zwierzę. W przypadku odbywania szkolenia przez psa służbowego w jednostce organizacyjnej Służby Więziennej wyznaczonej przez Dyrektora Generalnego do szkolenia psów służbowych, właściwy w sprawach, o których mowa w ust. 4 i 5, jest kierownik tej jednostki organizacyjnej.
 
 **Art. 264g.** Opiekunowi oraz organizacji, o której mowa w art. 264c ust. 7, zabrania się:
+
+- **1)** zbywania zwierzęcia;
+- **2)** rozmnażania zwierzęcia;
+- **3)** wykorzystywania zwierzęcia w celach zarobkowych.
 
 **Art. 264h.**
 
@@ -4960,6 +5188,16 @@ source: "isap-pdf"
 4. W przypadku czasowego braku możliwości sprawowania opieki nad psem służbowym przez opiekuna kierownik jednostki organizacyjnej Służby Więziennej, na której stanie znajduje się zwierzę, może wyznaczyć czasowego opiekuna psa służbowego. Do czasowego opiekuna stosuje się odpowiednio przepisy dotyczące opiekuna psa służbowego, z zastrzeżeniem, że ryczałt na pokrycie kosztów wyżywienia zwierzęcia wypłaca się co miesiąc z góry, proporcjonalnie do okresu sprawowania opieki nad psem służbowym.
 
 **Art. 264l.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** tryb przydzielania opiekunowi psa służbowego,
+- **2)** tryb wycofywania psa służbowego z użycia,
+- **3)** sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych i psów służbowych wycofanych z użycia,
+- **4)** sposób wyżywienia, wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia,
+- **5)** tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia,
+- **6)** tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego lub psa służbowego wycofanego z użycia,
+- **7)** sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi oraz psami służbowymi wycofanymi z użycia,
+- **8)** tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 264c ust. 7,
+- **9)** wzory dokumentów stosowanych w tych sprawach – uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem psa służbowego, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych, prawidłowego dokumentowania realizowanych czynności oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia jest uzależniona od wagi, okresu roku i zadań wykonywanych przez psa służbowego, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
 
 #### Rozdział 22 Przepisy przejściowe i końcowe
 

@@ -8,10 +8,10 @@ pos: 921
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 44 WYROK z dnia 28 maja 2003 r.
+# WYROK z dnia 28 maja 2003 r.
 
 | Pole | Wartość |
 |---|---|

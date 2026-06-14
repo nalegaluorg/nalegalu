@@ -8,7 +8,7 @@ pos: 605
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-13 |
 | Data wydania | 2026-05-06 |
-| Ostatnia zmiana | 2026-05-11 |
+| Ostatnia zmiana | 2026-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000605) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/605/text.pdf) |
 
 Art. 37ao. Producent lub importer materiału lub wyrobu do kontaktu z wodą do spożycia, zwanych dalej „materiałem lub wyrobem”, lub upoważniony przedstawiciel tego producenta lub importera, wprowadzający do obrotu materiał lub wyrób zapewniają, że stosowane zgodnie z przeznaczeniem nie będą one:
@@ -249,9 +249,65 @@ Art. 37azb. 1. Podmiot prowadzący laboratorium wykonujące badania jakości wod
 
 **Art. 1.** W ustawie z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757) wprowadza się następujące zmiany:
 
+- **1)** odnośnik nr 1 do ustawy otrzymuje brzmienie: „ Niniejsza ustawa w zakresie swojej regulacji wdraża:
+- **1)** dyrektywę Rady 91/271/EWG z dnia 21 maja 1991 r. dotyczącą oczyszczania ścieków komunalnych (Dz. Urz. WE L 135 z 30.05.1991, str. 40 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 26, Dz. Urz. WE L 67 z 07.03.1998, str. 29 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 27, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 311 z 21.11.2008, str. 1 oraz Dz. Urz. UE L 353 z 28.12.2013, str. 8);
+- **2)** dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2000 r. ustanawiającą ramy wspólnotowego działania w dziedzinie polityki wodnej (Dz. Urz. WE L 327 z 22.12.2000, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 275, Dz. Urz. WE L 331 z 15.12.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 358, Dz. Urz. UE L 81 z 20.03.2008, str. 60, Dz. Urz. UE L 348 z 24.12.2008, str. 84, Dz. Urz. UE L 140 z 05.06.2009, str. 114, Dz. Urz. UE L 226 z 24.08.2013, str. 1, Dz. Urz. UE L 353 z 28.12.2013, str. 8, Dz. Urz. UE L 311 z 31.10.2014, str. 32 oraz Dz. Urz. UE L 158 z 06.05.2021, str. 23);
+- **3)** dyrektywę Rady 2013/51/EURATOM z dnia 22 października 2013 r. określającą wymogi dotyczące ochrony zdrowia ludności w odniesieniu do substancji promieniotwórczych w wodzie przeznaczonej do spożycia przez ludzi (Dz. Urz. UE L 296 z 07.11.2013, str. 12);
+- **4)** dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/2184 z dnia 16 grudnia 2020 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi (Dz. Urz. UE L 435 z 23.12.2020, str. 1).”;
+- **2)** w art. 1:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Ustawa określa zasady i warunki zbiorowego zaopatrzenia w wodę, w szczególności zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi w całym łańcuchu dostaw wody przeznaczonej do spożycia przez ludzi, oraz zbiorowego odprowadzania ścieków, w tym:”,
+    - **b)** w pkt 1: – lit. b otrzymuje brzmienie: „b) tworzenia warunków do zapewnienia ciągłości dostaw i bezpieczeństwa wody oraz niezawodnego odprowadzania i oczyszczania ścieków,”, – w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d i e w brzmieniu: „d) podejmowania działań mających na celu poprawę powszechnego dostępu ludności do wody przeznaczonej do spożycia przez ludzi,
+    - **e)** podejmowania działań mających na celu ochronę zdrowia ludzi przed niepożądanymi skutkami wszelkiego zanieczyszczenia wody przeznaczonej do spożycia przez ludzi przez zapewnienie, aby była ona zdrowa i czysta;”,
+    - **c)** pkt 2 otrzymuje brzmienie: „2) wymagania dotyczące stosowania podejścia opartego na ryzyku do bezpieczeństwa wody w całym łańcuchu dostaw wody przeznaczonej do spożycia przez ludzi, w tym wymagania dotyczące jakości wody przeznaczonej do spożycia przez ludzi;”;
+
+- **3)** po art. 1 dodaje się art. 1a i art. 1b w brzmieniu: „Art. 1a. Do statków morskich stanowiących polską własność lub statków morskich o polskiej przynależności, używanych do przewozu pasażerów, odsalających wodę morską i będących dostawcami wody stosuje się odpowiednio przepisy art. 4a–4c, art. 4d ust. 1 pkt 2 i 3 oraz ust. 2, art. 4e ust. 1 pkt 2 oraz ust. 2, art. 4g–4n, art. 4p ust. 1 pkt 1–8, 11, 12, 14–16 i 18, art. 4q, art. 12, art. 13a i art. 13b oraz przepisy wydane na podstawie art. 13.
+
 **Art. 1b.** Przepisów ustawy nie stosuje się do:
 
+- **1)** naturalnych wód mineralnych spełniających wymagania określone w ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448 oraz z 2025 r. poz. 1424);
+- **2)** wód leczniczych: z 2026 r. poz. 69), o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz. 1135);
+    - **a)** w rozumieniu art. 5 ust. 2 pkt 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U.
+    - **b)** dla których wymagania określają przepisy wydane na podstawie art. 36 ust. 5 ustawy z dnia 28 lipca 2005 r.
+
+- **3)** wód termalnych i solanek w rozumieniu odpowiednio art. 5 ust. 2 pkt 2 i ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
+- **4)** wody pochodzącej z indywidualnego źródła, które dostarcza średnio na dobę mniej niż 10 m wody lub zaopatruje w wodę mniej niż 50 osób, chyba że dostarczanie tej wody stanowi przedmiot działalności gospodarczej lub ta woda jest dostarczana do budynków użyteczności publicznej lub do budynków zamieszkania zbiorowego, lub do podmiotów prowadzących przedsiębiorstwo spożywcze, a ta woda jest wodą przeznaczoną do spożycia przez ludzi.”;
+- **4)** w art. 2:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) dostawca wody – podmiot dostarczający wodę przeznaczoną do spożycia przez ludzi, w tym przedsiębiorstwo wodociągowo-kanalizacyjne oraz podmiot prowadzący hurtową sprzedaż wody;”,
+    - **b)** po pkt 1 dodaje się pkt 1a–1c w brzmieniu: „1a) działanie naprawcze – działanie korygujące podjęte w celu wyeliminowania przyczyny niezgodności z wartością parametryczną wykorzystywaną do oceny jakości wody przeznaczonej do spożycia przez ludzi oraz w celu zapobiegania ponownemu wystąpieniu tej niezgodności;
+
+- **1b)** monitoring operacyjny – monitoring zapewniający szybki wgląd w parametry eksploatacyjne i w problemy z jakością wody przeznaczonej do spożycia przez ludzi oraz umożliwiający szybkie podjęcie zaplanowanych wcześniej działań naprawczych, ustalony przez dostawcę wody i dostosowany do danego systemu zaopatrzenia w wodę, z uwzględnieniem wyników identyfikacji zagrożeń i zdarzeń niebezpiecznych oraz oceny ryzyka w systemie zaopatrzenia w wodę, którego celem jest potwierdzenie skuteczności środków kontroli w zakresie poboru, uzdatniania, magazynowania i dystrybucji wody;
+- **1c)** monitoring zgodności – monitorowanie parametrów określonych w przepisach wydanych na podstawie art. 13 oraz ustalonych na podstawie oceny ryzyka w systemie zaopatrzenia w wodę w punkcie zgodności, o którym mowa w art. 4c ust. 1, w celu sprawdzenia spełniania wymagań dotyczących jakości wody przeznaczonej do spożycia przez ludzi, realizowane przez dostawców wody i nadzorowane odpowiednio przez organy Państwowej Inspekcji Sanitarnej lub organy Wojskowej Inspekcji Sanitarnej;”,
+    - **c)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) niezgodność z wartością parametryczną – wartość oznaczonego parametru w wodzie przeznaczonej do spożycia przez ludzi, która jest wyższa niż wartość parametryczna, dla której właściwy organ nadzoru sanitarnego ocenia, z wyłączeniem parametrów mikrobiologicznych, czy ta wartość, stanowi zagrożenie, oraz może nałożyć obowiązek jak najszybszego podjęcia niezbędnych działań naprawczych służących przywróceniu jakości wody przeznaczonej do spożycia przez ludzi zgodnej z wymaganiami określonymi w przepisach wydanych na podstawie art. 13;”,
+    - **d)** po pkt 3a dodaje się pkt 3b–3d w brzmieniu: „3b) parametr wskaźnikowy – parametr istotny dla określenia, jak funkcjonują urządzenia wykorzystywane do produkcji i dystrybucji wody przeznaczonej do spożycia przez ludzi, oraz dla oceny jej jakości, mogący pomóc w zidentyfikowaniu nieprawidłowości w uzdatnianiu wody oraz odgrywający istotną rolę w podnoszeniu i utrzymaniu zaufania konsumentów do jakości wody przeznaczonej do spożycia przez ludzi, niemający bezpośredniego wpływu na zdrowie ludzi;
+
+- **3c)** podmiot prowadzący przedsiębiorstwo spożywcze – podmiot prowadzący przedsiębiorstwo spożywcze w rozumieniu art. 3 ust. 3 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463);
+- **3d)** przedsiębiorstwo spożywcze – przedsiębiorstwo spożywcze w rozumieniu art. 3 ust. 2 rozporządzenia, o którym mowa w pkt 3c;”,
+    - **e)** po pkt 6 dodaje się pkt 6a i 6b w brzmieniu: „6a) punkt dostawy – zawór za wodomierzem głównym, o którym mowa w art. 2 pkt 6, a w przypadku gdy przyłącze wodociągowe nie znajduje się w posiadaniu dostawcy wody, punkt połączenia wewnętrznego systemu wodociągowego z siecią wodociągową, a w przypadku hurtowej dostawy wody zawór za wodomierzem hurtowej sprzedaży wody;
+
+- **6b)** ryzyko – połączenie prawdopodobieństwa wystąpienia zdarzenia niebezpiecznego oraz dotkliwości jego skutków w przypadku pojawienia się zagrożenia i zdarzenia niebezpiecznego w systemie zaopatrzenia w wodę;”,
+    - **f)** po pkt 7 dodaje się pkt 7a–7c w brzmieniu: „7a) strefa zaopatrzenia – obszar geograficzny, na którym woda przeznaczona do spożycia przez ludzi pochodzi z jednego źródła lub większej ich liczby i na którym jakość wody przeznaczonej do spożycia przez ludzi jest w przybliżeniu jednolita;
+
+- **7b)** substancja promieniotwórcza – substancję promieniotwórczą w rozumieniu art. 3 pkt 45 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2026 r. poz. 1);
+- **7c)** system zaopatrzenia w wodę – układ współdziałających elementów, których zadaniem jest zaopatrzenie odbiorców w wodę przeznaczoną do spożycia przez ludzi przez jej ujmowanie, uzdatnianie, magazynowanie lub dystrybucję do punktu dostawy, pozostający w gestii jednego dostawcy wody;”,
+    - **g)** po pkt 11 dodaje się pkt 11a w brzmieniu: „11a) środki kontroli ryzyka – środki prawne, techniczne, finansowe i organizacyjne oraz działania, w tym działania naprawcze, podejmowane w celu zapewnienia ciągłości i niezawodności dostaw wody przeznaczonej do spożycia przez ludzi oraz przeciwdziałania zagrożeniu lub wyeliminowania tego zagrożenia lub zredukowania ryzyka z nim związanego do akceptowalnego poziomu;”,
+    - **h)** po pkt 16 dodaje się pkt 16a–16c w brzmieniu: „16a) wartość parametryczna – wartość parametru jakości wody przeznaczonej do spożycia przez ludzi, z wyłączeniem wartości parametrycznej substancji promieniotwórczej, określona w przepisach wydanych na podstawie art. 13 lub ustalona na podstawie oceny ryzyka w systemie zaopatrzenia w wodę;
+
+- **16b)** wartość parametryczna substancji promieniotwórczej – zawartość substancji promieniotwórczej w wodzie przeznaczonej do spożycia przez ludzi określona w przepisach wydanych na podstawie art. 13, powyżej której należy ocenić, czy obecność substancji promieniotwórczej w tej wodzie stanowi zagrożenie wymagające działania oraz – w razie konieczności – nałożyć obowiązek podjęcia działań naprawczych służących poprawie jakości wody przeznaczonej do spożycia przez ludzi do poziomu zgodnego z wymaganiami dotyczącymi ochrony zdrowia ludzi przed promieniowaniem;
+- **16c)** wewnętrzny system wodociągowy – system obejmujący przewody wodociągowe wraz z uzbrojeniem i urządzeniami zainstalowane między punktami czerpalnymi używanymi zwykle do poboru wody przeznaczonej do spożycia przez ludzi zarówno w obiektach publicznych, jak i prywatnych a siecią wodociągową, na który składa się instalacja wodociągowa oraz przyłącze wodociągowe, pod warunkiem że podlega ono odpowiedzialności odbiorcy usług w zakresie, o którym mowa w art. 5 ust. 2;”,
+    - **i)** po pkt 17 dodaje się pkt 17a w brzmieniu: „17a) właściwy organ nadzoru sanitarnego – właściwy państwowy powiatowy lub państwowy graniczny inspektor sanitarny lub wojskowy inspektor sanitarny właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej, nadzorujący system zaopatrzenia w wodę lub wewnętrzny system wodociągowy;”,
+    - **j)** w pkt 18 lit. a i b otrzymują brzmienie: „a) wodę w stanie pierwotnym lub po uzdatnieniu, przeznaczoną do picia, wytwarzania, przygotowania żywności lub innych celów gospodarczych zarówno w obiektach publicznych, jak i prywatnych, niezależnie od jej pochodzenia i od tego, czy jest dostarczana z sieci wodociągowej, cystern, w tym również przewoźnych zbiorników, lub rozlewana do butelek lub pojemników,
+    - **b)** wodę wykorzystywaną przez przedsiębiorstwo spożywcze do wytworzenia, przetworzenia, konserwowania lub wprowadzania do obrotu produktów lub substancji przeznaczonych do spożycia przez ludzi, z wyłączeniem wody wykorzystywanej przez przedsiębiorstwo spożywcze, której jakość nie może wpływać na bezpieczeństwo środków spożywczych w ich końcowej postaci, oraz pod warunkiem, że podmiot prowadzący przedsiębiorstwo spożywcze spełnia wymagania określone w przepisach rozporządzenia WE nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319);”,
+    - **k)** po pkt 18 dodaje się pkt 18a w brzmieniu: „18a) woda surowa – wodę w stanie pierwotnym pobieraną z zasobów wodnych na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi;”,
+    - **l)** po pkt 19 dodaje się pkt 19a w brzmieniu: „19a) zagrożenie – czynnik biologiczny, chemiczny, fizyczny lub radiologiczny w wodzie lub inny stan wody, który potencjalnie może mieć szkodliwy wpływ na zdrowie ludzi;”,
+    - **m)** w pkt 21 kropkę zastępuje się średnikiem i dodaje się pkt 22 w brzmieniu: „22) zdarzenie niebezpieczne – zdarzenie, które wprowadza zagrożenie do systemu zaopatrzenia w wodę lub nie doprowadza do wyeliminowania tego zagrożenia z tego systemu.”;
+
+- **5)** po art. 2 dodaje się art. 2a i art. 2b w brzmieniu: „Art. 2a. Ilekroć w ustawie jest mowa o gminie, należy przez to rozumieć także związek międzygminny i porozumienie międzygminne.
+
 **Art. 2b.** Parametry jakości wody przeznaczonej do spożycia przez ludzi dzielą się na parametry:
+
+- **1)** mikrobiologiczne, chemiczne, wskaźnikowe, radiologiczne oraz wynikające z oceny ryzyka w systemie zaopatrzenia w wodę, a także istotne dla oceny ryzyka w wewnętrznym systemie wodociągowym;
+- **2)** objęte listą obserwacyjną stanowiącą wykaz substancji i związków przyjmowany przez Komisję Europejską w drodze aktu wykonawczego, o którym mowa w art. 13 ust. 8 dyrektywy Parlamentu Europejskiego i Rady (UE) 2020/2184 z dnia 16 grudnia 2020 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi.”;
+- **6)** po rozdziale 1 dodaje się rozdział 1a w brzmieniu: „Rozdział 1a Zasady bezpieczeństwa zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi
 
 **Art. 4a.**
 
@@ -532,6 +588,12 @@ Art. 37azb. 1. Podmiot prowadzący laboratorium wykonujące badania jakości wod
 6. W przypadku gdy dostawcami wody są jednostka, podmiot, urząd, służba lub inny podmiot określony w art. 22a ust. 1 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej lub gdy dotyczy to miejsca zakwaterowania jednostki wojskowej, właściciel lub zarządca budynku monitorujący parametry istotne dla oceny ryzyka w wewnętrznym systemie wodociągowym przekazują wojskowemu inspektorowi sanitarnemu właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej sprawozdania z badań, o których mowa w art. 4j ust. 2, w terminach określonych w przepisach wydanych na podstawie art. 13. Wojskowy inspektor sanitarny właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej monitoruje i weryfikuje wywiązywanie się właściciela lub zarządcy budynku z obowiązku realizacji działań, o których mowa w ust. 1, a po zakończeniu realizacji tych działań wykonuje kontrolne badania jakości wody przeznaczonej do spożycia przez ludzi.
 
 **Art. 4l.** Ocenę ryzyka w wewnętrznym systemie wodociągowym lub jej przegląd i w razie potrzeby aktualizację przeprowadza osoba, która:
+
+- **1)** posiada pełną zdolność do czynności prawnych;
+- **2)** nie została skazana prawomocnym wyrokiem za przestępstwo przeciwko mieniu, wiarygodności dokumentów, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe;
+- **3)** posiada:
+    - **a)** udokumentowane, co najmniej trzyletnie doświadczenie w zakresie budowy, montażu, obsługi, eksploatacji, modernizacji lub projektowania instalacji sanitarnych lub nadzoru nad jakością, higieną lub bezpieczeństwem wody albo uprawnienia budowlane, o których mowa w art. 14 ust. 1 pkt 4 lit. b ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, oraz udokumentowaną wiedzę z zakresu zarządzania ryzykiem bezpieczeństwa zdrowotnego wody przeznaczonej do spożycia przez ludzi lub
+    - **b)** uprawnienie rzeczoznawcy do spraw sanitarnohigienicznych, o którym mowa w art. 34 ust. 1 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej.
 
 **Art. 4m.**
 
@@ -885,7 +947,233 @@ Art. 37azb. 1. Podmiot prowadzący laboratorium wykonujące badania jakości wod
 
 **Art. 13g.** Przepisów art. 13c–13f nie stosuje się do wody przeznaczonej do spożycia przez ludzi rozlewanej do butelek lub pojemników.”;
 
+- **13)** w art. 19a w ust. 4:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) określenie średniodobowego zapotrzebowania na wodę oraz przepływu maksymalnego godzinowego z podziałem na wodę do celów bytowych, technologicznych oraz innych;”,
+    - **b)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) określenie zapotrzebowania na wodę do celów przeciwpożarowych;”,
+    - **c)** pkt 5 otrzymuje brzmienie: „5) określenie średniej dobowej ilości odprowadzanych ścieków z podziałem na ścieki bytowe i przemysłowe, a w przypadku odprowadzania ścieków przemysłowych – również wielkości ładunku zanieczyszczeń;”;
+
+- **14)** w art. 21:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Przedsiębiorstwo wodociągowo-kanalizacyjne, które planuje budowę lub modernizację urządzeń wodociągowych lub urządzeń kanalizacyjnych, opracowuje wieloletni plan rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych będących w jego posiadaniu, zwany dalej „planem”.”,
+    - **b)** uchyla się ust. 7;
+
+- **15)** w art. 24b w ust. 6 w pkt 2 skreśla się wyrazy „ , z zastrzeżeniem art. 21 ust. 7”;
+- **16)** w art. 27a w ust. 3 w pkt 4 wyrazy „w art. 29” zastępuje się wyrazami „w art. 29 ust. 1–3a”;
+- **17)** w art. 29:
+    - **a)** po ust. 3a dodaje się ust. 3b–3d w brzmieniu: „3b. Karze pieniężnej podlega dostawca wody, który:
+
+- **1)** nie wykonuje badań jakości wody przeznaczonej do spożycia przez ludzi w zakresie określonym w przepisach wydanych na podstawie art. 13, zgodnie z ustalonym harmonogramem pobierania próbek do badań jakości wody, lub w zakresie ustalonym na podstawie oceny ryzyka w systemie zaopatrzenia w wodę lub jej aktualizacji;
+- **2)** wbrew przepisowi art. 4h ust. 1:
+    - **a)** pkt 1 nie przekazał w terminie dokonanej oceny ryzyka w obszarze zasilania ujęcia wody wykorzystywanego do poboru wody przeznaczonej do spożycia przez ludzi, o której mowa w art. 4e ust. 1 pkt 1, wraz z raportem podsumowującym z tej oceny,
+    - **b)** pkt 3 nie przekazał w terminie dokonanej aktualizacji oceny ryzyka w obszarze zasilania ujęcia wody wykorzystywanego do poboru wody przeznaczonej do spożycia przez ludzi, o której mowa w art. 4e ust. 2, wraz z raportem podsumowującym z tej oceny;
+
+- **3)** wbrew przepisowi art. 4h ust. 1:
+    - **a)** pkt 2 nie przekazał w terminie dokonanej oceny ryzyka w systemie zaopatrzenia w wodę, o której mowa w art. 4e ust. 1 pkt 2, wraz z raportem podsumowującym z tej oceny,
+    - **b)** pkt 3 nie przekazał w terminie aktualizacji oceny ryzyka w systemie zaopatrzenia w wodę, o której mowa w art. 4e ust. 2, wraz z raportem podsumowującym z tej oceny;
+
+- **4)** nie prowadzi działań naprawczych, o których mowa w art. 4p ust. 1 pkt 7 albo ust. 2 pkt 6;
+- **5)** wbrew przepisowi art. 4p ust. 1 pkt 9 nie prowadzi monitoringu substancji promieniotwórczych;
+- **6)** wbrew przepisom art. 4p ust. 1 pkt 15 i ust. 2 pkt 12 nie zapewnia stosowania materiałów lub wyrobów do kontaktu z wodą przeznaczoną do spożycia przez ludzi spełniających wymagania określone w art. 37ao ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej lub chemikaliów do uzdatniania wody lub materiałów filtracyjnych do kontaktu z wodą przeznaczoną do spożycia przez ludzi spełniających wymagania określone w art. 37as ust. 1 tej ustawy;
+- **7)** wbrew przepisowi art. 4p ust. 1 pkt 16 nie informuje na bieżąco konsumentów o jakości wody przeznaczonej do spożycia przez ludzi lub nie rozpowszechnia opracowanego przez właściwy organ nadzoru sanitarnego komunikatu o jakości wody przeznaczonej do spożycia przez ludzi;
+- **8)** wbrew przepisowi art. 4p ust. 2 pkt 8 nie informuje na bieżąco hurtowego odbiorcy wody o jakości wody przeznaczonej do spożycia przez ludzi o udzieleniu zgód na odstępstwo, o których mowa w art. 13d ust. 4 lub 6 i art. 13e ust. 7 pkt 2 lub ust. 8 pkt 2, stwierdzeniu braku przydatności wody przeznaczonej do spożycia przez ludzi lub stwierdzeniu niezgodności z wartością parametryczną;
+- **9)** nie prowadzi działań naprawczych zgodnie z harmonogramem, o którym mowa w art. 13c ust. 6 pkt 8.
+
+3c. Karze pieniężnej podlega właściciel lub zarządca obiektu priorytetowego, który wbrew przepisowi art. 4i:
+
+- **1)** ust. 1 – nie dokonuje oceny ryzyka w wewnętrznym systemie wodociągowym;
+- **2)** ust. 2 – nie dokonuje aktualizacji oceny ryzyka, o której mowa w pkt 1;
+- **3)** ust. 6 – nie przechowuje oceny ryzyka, o której mowa w pkt 1, lub jej aktualizacji.
+
+3d. Karze pieniężnej podlega właściciel lub zarządca obiektu priorytetowego, który:
+
+- **1)** nie wykonuje badań w kierunku bakterii z rodzaju Legionella w ciepłej wodzie użytkowej z częstotliwością określoną w przepisach wydanych na podstawie art. 13 lub nie wykonuje badań stężenia ołowiu;
+- **2)** nie przekazuje odpowiednio właściwemu państwowemu powiatowemu lub państwowemu granicznemu, lub państwowemu wojewódzkiemu inspektorowi sanitarnemu, lub wojskowemu inspektorowi sanitarnemu właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej sprawozdania z badań w kierunku bakterii z rodzaju Legionella w ciepłej wodzie użytkowej lub sprawozdania z badań stężenia ołowiu w terminach określonych w przepisach wydanych na podstawie art. 13.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Karę pieniężną, o której mowa w:
+
+- **1)** ust. 1–3a – wymierza organ regulacyjny,
+- **2)** ust. 3b pkt 2 – wymierza właściwy dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie,
+- **3)** ust. 3b pkt 1, 3–9 i ust. 3d – wymierza odpowiednio właściwy państwowy powiatowy lub państwowy graniczny, lub państwowy wojewódzki inspektor sanitarny, lub wojskowy inspektor sanitarny właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej,
+- **4)** ust. 3c w przypadku obiektów priorytetowych – wymierza odpowiednio właściwy państwowy powiatowy lub państwowy graniczny, lub państwowy wojewódzki inspektor sanitarny, lub wojskowy inspektor sanitarny właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej – w drodze decyzji.”,
+    - **c)** w ust. 6 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–6 w brzmieniu: „4) ust. 3b pkt 1 i 4–9 – wynosi od 100 zł do 60 000 zł;
+
+- **5)** ust. 3b pkt 2 i 3 – wynosi 10 zł za każdy dzień opóźnienia, nie więcej jednak niż za 365 dni;
+- **6)** ust. 3c i 3d – wynosi od 100 zł do 10 000 zł.”,
+    - **d)** ust. 12 otrzymuje brzmienie: „12. Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w ust. 4:
+
+- **1)** pkt 1 i 2 – jest Prezes Państwowego Gospodarstwa Wodnego Wody Polskie;
+- **2)** pkt 3 i 4 – jest:
+    - **a)** właściwy państwowy wojewódzki inspektor sanitarny – w przypadku decyzji wydanych przez właściwego państwowego powiatowego lub państwowego granicznego inspektora sanitarnego,
+    - **b)** Główny Inspektor Sanitarny – w przypadku decyzji wydanych przez właściwego państwowego wojewódzkiego inspektora sanitarnego,
+    - **c)** Główny Inspektor Sanitarny Wojska Polskiego – w przypadku decyzji wydanych przez wojskowego inspektora sanitarnego właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej.”.
+
 **Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416) wprowadza się następujące zmiany:
+
+- **1)** do tytułu ustawy dodaje się odnośnik nr 1 w brzmieniu: „ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/2184 z dnia 16 grudnia 2020 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi (Dz. Urz. UE L 435 z 23.12.2020, str. 1).”;
+- **2)** w art. 4 w ust. 1:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) higieny środowiska, a zwłaszcza wody przeznaczonej do spożycia przez ludzi w rozumieniu art. 2 pkt 18 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757 oraz z 2026 r. poz. 605), zwanej dalej „wodą do spożycia”, powietrza w pomieszczeniach przeznaczonych na pobyt ludzi, gleby, wód i innych elementów środowiska w zakresie ustalonym w odrębnych przepisach;”,
+    - **b)** w pkt 2 wyraz „obiektów” zastępuje się wyrazem „budynków”;
+
+- **3)** w art. 25 w ust. 1 w pkt 1 w lit. b wyrazy „obiektów użyteczności publicznej” zastępuje się wyrazami „budynków użyteczności publicznej”;
+- **4)** w art. 27 w ust. 2 wyraz „obiektu” zastępuje się wyrazem „budynku”;
+- **5)** po rozdziale 3 dodaje się rozdziały 3a–3d w brzmieniu: „Rozdział 3a System jakości badań wody Art. 37aa. 1. Badania jakości wody do spożycia oraz badania jakości wody w kąpieliskach i miejscach okazjonalnie wykorzystywanych do kąpieli, zwane dalej „badaniami wody”, mogą wykonywać laboratoria, które:
+- **1)** posiadają akredytację Polskiego Centrum Akredytacji albo innej jednostki akredytacyjnej z państw członkowskich Unii Europejskiej na zgodność z wymaganiami normy PN-EN ISO/IEC 17025, zwaną dalej „akredytacją”, na wykonywanie:
+    - **a)** badań jakości wody do spożycia – według metod referencyjnych określonych w przepisach wydanych na podstawie art. 13 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, zwanej dalej „ustawą o zaopatrzeniu w wodę”, lub metod alternatywnych dopuszczonych do stosowania zgodnie z art. 37ae oraz metod zwalidowanych z uwzględnieniem charakterystyk wykonania analiz określonych w przepisach wydanych na podstawie art. 13 ustawy o zaopatrzeniu w wodę, a dla nowych parametrów jakości wody do spożycia, dla których nie określono metod referencyjnych – z uwzględnieniem opisów procedur badawczych,
+    - **b)** badań jakości wody w kąpieliskach i miejscach okazjonalnie wykorzystywanych do kąpieli – według metod określonych w przepisach wydanych na podstawie art. 48 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535 oraz z 2026 r. poz. 445 i 605);
+
+- **2)** zapewniają pobieranie próbek wody do badań wody przez próbkobiorców na podstawie właściwych i akredytowanych metod reprezentatywnych dla poszczególnych parametrów badania wody;
+- **3)** sporządzają cząstkowe lub całościowe sprawozdania z badań jakości wody do spożycia, o których mowa w art. 37ag;
+- **4)** zostały zgłoszone do ewidencji laboratoriów wykonujących badania wody w sposób określony w ust. 3.
+
+2. Główny Inspektor Sanitarny prowadzi ewidencję laboratoriów wykonujących badania wody zawierającą następujące dane:
+
+- **1)** imię i nazwisko albo nazwę (firmę) oraz adres zamieszkania albo siedziby podmiotu prowadzącego laboratorium wykonujące badania wody;
+- **2)** imię i nazwisko, numer telefonu oraz adres poczty elektronicznej osób uprawnionych do reprezentowania podmiotu, o którym mowa w pkt 1;
+- **3)** numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego albo w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, o ile podmiot, o którym mowa w pkt 1, taki numer posiada;
+- **4)** numer identyfikacji podatkowej (NIP), o ile podmiot, o którym mowa w pkt 1, taki numer posiada;
+- **5)** adres, numer telefonu i adres poczty elektronicznej laboratorium wykonującego badania wody;
+- **6)** imię i nazwisko, numer telefonu oraz adres poczty elektronicznej osób uprawnionych do reprezentowania laboratorium, o którym mowa w pkt 5;
+- **7)** zakres wykonywanych badań wody;
+- **8)** aktualny certyfikat akredytacji wraz z zakresem akredytacji;
+- **9)** informacje o udziale w badaniach biegłości wraz ze wskazaniem uzyskanej oceny lub w przypadku gdy badania biegłości nie są dostępne – informacje o udziale w międzylaboratoryjnych badaniach porównawczych, zrealizowanych niepóźniej niż w terminie 2 lat od dnia wystąpienia ze zgłoszeniem, o którym mowa w ust. 1 pkt 4;
+- **10)** imię i nazwisko, numer telefonu oraz adres poczty elektronicznej osób uprawnionych do przekazywania sprawozdań z badań wody;
+- **11)** numer wpisu do tej ewidencji.
+
+3. Zgłoszenie, o którym mowa w ust. 1 pkt 4, przekazuje podmiot prowadzący laboratorium wykonujące badania wody, na piśmie utrwalonym w postaci papierowej, opatrzonym podpisem własnoręcznym, albo na piśmie utrwalonym w postaci elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Zgłoszenie to zawiera następujące dane:
+
+- **1)** imię i nazwisko albo nazwę (firmę) oraz adres zamieszkania albo siedziby podmiotu prowadzącego laboratorium wykonujące badania wody;
+- **2)** imię i nazwisko, numer telefonu oraz adres poczty elektronicznej osób uprawnionych do reprezentowania podmiotu, o którym mowa w pkt 1;
+- **3)** numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego albo w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, o ile podmiot, o którym mowa w pkt 1, taki numer posiada;
+- **4)** numer identyfikacji podatkowej (NIP), o ile podmiot, o którym mowa w pkt 1, taki numer posiada;
+- **5)** adres, numer telefonu i adres poczty elektronicznej laboratorium wykonującego badania wody;
+- **6)** imię i nazwisko, numer telefonu oraz adres poczty elektronicznej osób uprawnionych do reprezentowania laboratorium, o którym mowa w pkt 5;
+- **7)** zakres wykonywanych badań wody;
+- **8)** aktualny certyfikat akredytacji wraz z zakresem akredytacji;
+- **9)** informacje o udziale w badaniach biegłości wraz ze wskazaniem uzyskanej oceny lub w przypadku gdy badania biegłości nie są dostępne – informacje o udziale w międzylaboratoryjnych badaniach porównawczych, zrealizowanych niewcześniej niż w terminie 2 lat przed dniem wystąpienia z tym zgłoszeniem;
+- **10)** imię i nazwisko, numer telefonu oraz adres poczty elektronicznej osób uprawnionych do przekazywania sprawozdań z badań wody;
+- **11)** datę zgłoszenia.
+
+4. Do zgłoszenia, o którym mowa w ust. 1 pkt 4, dołącza się uwierzytelnioną kopię albo cyfrowe odwzorowanie certyfikatu akredytacji i zakresu akredytacji, o których mowa w ust. 3 pkt 8.
+
+5. Główny Inspektor Sanitarny w terminie 30 dni od dnia otrzymania zgłoszenia, o którym mowa w ust. 1 pkt 4:
+
+- **1)** przyjmuje zgłoszenie – jeżeli zostały spełnione wymagania określone w ust. 3 i 4;
+- **2)** zwraca zgłoszenie do uzupełnienia – jeżeli nie zostały spełnione wymagania określone w ust. 3 lub 4, wskazując braki, które wymagają uzupełnienia, oraz 30-dniowy termin na uzupełnienie zgłoszenia;
+- **3)** odrzuca zgłoszenie – jeżeli wnioskodawca nie uzupełnił w terminie braków, o których mowa w pkt 2, albo zgłoszenie uprzednio zostało przyjęte, albo jest przedmiotem procedury określonej w pkt 2.
+
+6. Do rozpatrzenia uzupełnionego zgłoszenia stosuje się ust. 5.
+
+7. Do rozpatrywania zgłoszenia, o którym mowa w ust. 1 pkt 4, nie mają zastosowania przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+8. Główny Inspektor Sanitarny w celu realizacji zadania, o którym mowa w ust. 2, przetwarza dane osobowe, w tym dane identyfikacyjne, kontaktowe i adresowe, o których mowa w ust. 2 pkt 1–6 i 10, oraz jest administratorem tych danych. Art. 37ab. 1. Administratorem danych wpisanych do ewidencji, o której mowa w art. 37aa ust. 2, są:
+
+- **1)** Główny Inspektor Sanitarny;
+- **2)** państwowi wojewódzcy inspektorzy sanitarni;
+- **3)** państwowi powiatowi inspektorzy sanitarni;
+- **4)** państwowi graniczni inspektorzy sanitarni.
+
+2. Na stronie podmiotowej w Biuletynie Informacji Publicznej urzędu obsługującego Głównego Inspektora Sanitarnego publikuje się dane, o których mowa w art. 37aa ust. 2 pkt 1, 3–5, 7–9 i 11, oraz datę przyjęcia zgłoszenia, o którym mowa w ust. 1 pkt 4, lub adres strony internetowej, na której są dostępne te dane oraz ta data. Art. 37ac. Główny Inspektor Sanitarny prostuje z urzędu oczywiste błędy lub niezgodności ze stanem faktycznym w zakresie danych wpisanych do ewidencji, o której mowa w art. 37aa ust. 2. Art. 37ad. Podmiot prowadzący laboratorium wykonujące badania wody informuje Głównego Inspektora Sanitarnego o zmianie danych wpisanych do ewidencji, o której mowa w art. 37aa ust. 2, w terminie 7 dni od dnia zdarzenia, które spowodowało zmianę tych danych. W przypadku uzyskania akredytacji na kolejny okres lub zmiany zakresu akredytacji wraz z informacją, o której mowa w zdaniu pierwszym, ten podmiot przekazuje uwierzytelnioną kopię certyfikatu akredytacji wraz z zakresem akredytacji albo ich odwzorowanie cyfrowe. Art. 37ae. 1. Dopuszcza się stosowanie metody alternatywnej w zakresie badania wody pod warunkiem udokumentowania oceny równoważności metody alternatywnej z metodą referencyjną i jej potwierdzenia.
+
+2. Podmiot zainteresowany stosowaniem metody alternatywnej w zakresie badania wody składa Głównemu Inspektorowi Sanitarnemu wniosek, który zawiera:
+
+- **1)** imię i nazwisko albo nazwę (firmę) oraz adres zamieszkania albo siedziby wnioskodawcy;
+- **2)** numer w rejestrze przedsiębiorców Krajowego Rejestru Sądowego albo w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, o ile wnioskodawca taki numer posiada;
+- **3)** nazwę metody alternatywnej i metody referencyjnej;
+- **4)** informację o liczbie laboratoriów, w których były wykonywane badania równoważności metody alternatywnej z metodą referencyjną;
+- **5)** imię i nazwisko, numer telefonu oraz adres poczty elektronicznej osób uprawnionych do reprezentowania wnioskodawcy.
+
+3. Do wniosku, o którym mowa w ust. 2, dołącza się:
+
+- **1)** dokumentację oceny równoważności metody alternatywnej z metodą referencyjną, w tym wyniki badań równoważności metody alternatywnej z metodą referencyjną przeprowadzonych zgodnie z odpowiednią normą, o której mowa w ust. 4;
+- **2)** raport podsumowujący przeprowadzoną ocenę równoważności metody alternatywnej z metodą referencyjną;
+- **3)** wykaz laboratoriów, w których były wykonywane badania równoważności metody alternatywnej z metodą referencyjną, oraz aktualny certyfikat akredytacji wraz z zakresem akredytacji laboratoriów.
+
+4. Do celów oceny równoważności metody alternatywnej z metodą referencyjną stosuje się normę PN-EN ISO 17994 ustanowioną jako normę dotyczącą równoważności metod mikrobiologicznych lub serię norm PN-EN ISO 16140 do celów stwierdzenia równoważności metod opartych na zasadach innych niż hodowla, które wykraczają poza zakres normy PN-EN ISO 17994.
+
+5. Badania równoważności metody alternatywnej z metodą referencyjną wykonuje się w krajowych laboratoriach posiadających akredytację.
+
+6. Główny Inspektor Sanitarny przekazuje wniosek, o którym mowa w ust. 2, krajowemu laboratorium referencyjnemu, o którym mowa w art. 37ak, w celu potwierdzenia równoważności metody alternatywnej z metodą referencyjną oraz sprawdzenia kompletności i poprawności dokumentacji, o której mowa w ust. 3 pkt 1, w odniesieniu do obowiązujących norm w zakresie kryteriów uznawania równoważności metod oraz spełnienia wymagania określonego w ust. 5.
+
+7. Krajowe laboratorium referencyjne, o którym mowa w art. 37ak:
+
+- **1)** potwierdza równoważność metody alternatywnej z metodą referencyjną i przygotowuje projekt wniosku o uznanie tej metody do Komisji Europejskiej albo
+- **2)** nie potwierdza równoważności metody alternatywnej z metodą referencyjną.
+
+8. Główny Inspektor Sanitarny po otrzymaniu stanowiska krajowego laboratorium referencyjnego, o którym mowa w art. 37ak, w przypadku, o którym mowa w ust. 7:
+
+- **1)** pkt 1 – kieruje wniosek o uznanie metody alternatywnej do Komisji Europejskiej wraz z informacjami dotyczącymi tej metody oraz jej równoważności i dokumentami, o których mowa w ust. 3, i informuje o tym wnioskodawcę;
+- **2)** pkt 2 – informuje wnioskodawcę o tym, że krajowe laboratorium referencyjne nie potwierdziło równoważności metody alternatywnej z metodą referencyjną.
+
+9. Główny Inspektor Sanitarny po uzyskaniu od Komisji Europejskiej informacji o równoważności metody alternatywnej z metodą referencyjną informuje o tym ministra właściwego do spraw zdrowia. Art. 37af. 1. Laboratoria wykonujące badania wody sporządzają sprawozdanie z badań wody.
+
+2. Sprawozdanie z badań wody zawiera w szczególności:
+
+- **1)** numer wpisu do ewidencji, o której mowa w art. 37aa ust. 2;
+- **2)** wskazanie imienia i nazwiska osoby upoważnionej do pobrania próbki wody do badań wody oraz, jeżeli dotyczy – metody, zgodnie z którą pobrano tę próbkę;
+- **3)** wskazanie imienia i nazwiska osoby autoryzującej sprawozdanie z badań wody;
+- **4)** wskazanie punktu, z którego pobrano próbkę wody do badań wody;
+- **5)** granicę oznaczalności metody dla parametrów chemicznych i wskaźnikowych;
+- **6)** granicę wykrywalności metody dla parametrów mikrobiologicznych.
+
+3. Sprawozdanie z badań wody nie zawiera innych danych osobowych niż dane osobowe, o których mowa w ust. 2 pkt 2 i 3. Art. 37ag. 1. Całościowe sprawozdanie z badań jakości wody do spożycia obejmuje sprawozdanie ze wszystkich oznaczeń w ramach jednego zlecenia dla badanej próbki wody do spożycia wskazujące wartości badanych parametrów jakości tej wody, sporządzane po zakończeniu zleconych badań i uzyskaniu wyników tych badań.
+
+2. Cząstkowe sprawozdanie z badań jakości wody do spożycia obejmuje sprawozdanie z danego oznaczenia lub oznaczeń w ramach jednego zlecenia dla badanej próbki tej wody wskazujące wartości badanych parametrów.
+
+3. Cząstkowe sprawozdanie z badań jakości wody do spożycia sporządza się w momencie zakończenia danego badania i uzyskania wyniku wskazującego na niezgodność z wartością parametryczną w rozumieniu art. 2 pkt 2a ustawy o zaopatrzeniu w wodę, zwaną dalej „niezgodnością z wartością parametryczną”:
+
+- **1)** wartości parametru mikrobiologicznego określonego w przepisach wydanych na podstawie art. 13 ustawy o zaopatrzeniu w wodę;
+- **2)** wartości parametrycznej w rozumieniu art. 2 pkt 16a ustawy o zaopatrzeniu w wodę, zwanej dalej „wartością parametryczną”, parametru chemicznego lub wartości parametrycznej substancji promieniotwórczej w rozumieniu art. 2 pkt 16b ustawy o zaopatrzeniu w wodę parametru radiologicznego określonych w przepisach wydanych na podstawie art. 13 ustawy o zaopatrzeniu w wodę;
+- **3)** wartości parametru ustalonego na podstawie wyników oceny ryzyka w systemie zaopatrzenia w wodę, o której mowa w art. 4e ust. 1 pkt 2 ustawy o zaopatrzeniu w wodę, jako niezbędnych do celów ochrony zdrowia ludzi dla danej strefy zaopatrzenia w rozumieniu art. 2 pkt 7a ustawy o zaopatrzeniu w wodę.
+
+4. Laboratoria wykonujące badania jakości wody do spożycia, w ramach monitoringu zgodności lub harmonogramu, o którym mowa w art. 4p ust. 2 pkt 2 ustawy o zaopatrzeniu w wodę, przekazują sprawozdanie z badań jakości tej wody podmiotowi zlecającemu wykonanie tych badań, a ponadto właściwemu państwowemu powiatowemu lub państwowemu granicznemu inspektorowi sanitarnemu w przypadku:
+
+- **1)** niezgodności z wartością parametryczną w badanej próbce wody do spożycia wartości parametrycznych parametru Escherichia coli lub enterokoki jelitowe określonych w przepisach wydanych na podstawie art. 13 ustawy o zaopatrzeniu w wodę – w dniu sporządzenia cząstkowego lub całościowego sprawozdania;
+- **2)** gdy w badanej próbce wody do spożycia liczba bakterii grupy coli jest równa lub wyższa niż 10 jtk (NPL)/100 ml – w dniu sporządzenia cząstkowego lub całościowego sprawozdania;
+- **3)** niezgodności z wartością parametryczną w badanej próbce ciepłej wody użytkowej wartości parametrycznej parametru Legionella określonej w przepisach wydanych na podstawie art. 13 ustawy o zaopatrzeniu w wodę – w dniu sporządzenia cząstkowego lub całościowego sprawozdania;
+- **4)** niezgodności z wartością parametryczną w badanej próbce wody do spożycia wartości parametrycznych parametrów niewskazanych w pkt 1–3 – w terminie 7 dni od dnia sporządzenia cząstkowego lub całościowego sprawozdania.
+
+5. W przypadku gdy nie ma możliwości sporządzenia sprawozdania z badań jakości wody do spożycia po zakończeniu badania i uzyskaniu wyniku tego badania, laboratoria wykonujące badania jakości wody do spożycia przekazują informację o wynikach badań będących podstawą stwierdzenia niezgodności z wartością parametryczną, o których mowa w ust. 4 pkt 1, 3 i 4, oraz w przypadku, o którym mowa w ust. 4 pkt 2, podmiotowi zlecającemu wykonanie badań jakości wody do spożycia oraz właściwemu państwowemu powiatowemu lub państwowemu granicznemu inspektorowi sanitarnemu.
+
+6. Laboratorium wykonujące badania jakości wody do spożycia przekazuje podmiotowi zlecającemu wykonanie tych badań, a w przypadkach, o których mowa w ust. 4 i 5, także właściwemu państwowemu powiatowemu lub państwowemu granicznemu inspektorowi sanitarnemu – sprawozdanie z badań jakości wody do spożycia w formie dokumentu elektronicznego za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) lub faksem.
+
+7. Informacja, o której mowa w ust. 5, może być przekazana telefonicznie, a następnie potwierdzona w sposób określony w ust. 6. Art. 37ah. 1. Właściwy państwowy powiatowy lub państwowy graniczny inspektor sanitarny może przeprowadzić kontrolę laboratorium w zakresie wykonywania obowiązków, o których mowa w art. 37af i art. 37ag.
+
+2. Kontrola laboratorium może ograniczać się do wezwania laboratorium do przekazania dokumentów i danych dotyczących wykonywania obowiązków, o których mowa w art. 37af i art. 37ag, oraz analizy tych dokumentów i danych. Art. 37ai. 1. Badania wody mogą wykonywać również laboratoria, które są laboratoriami Państwowej Inspekcji Sanitarnej, jeżeli spełniają wymagania określone w art. 37aa ust. 1, oraz wykonują obowiązki, o których mowa w art. 37af i art. 37ag.
+
+2. Do laboratoriów Państwowej Inspekcji Sanitarnej nie stosuje się przepisów art. 37ah.
+
+3. Badania wody mogą wykonywać również laboratoria znajdujące się w strukturze organizacyjnej wojskowych ośrodków medycyny prewencyjnej, jeżeli spełniają wymagania określone w art. 37aa ust. 1 pkt 1–3. Przepisy art. 37af i art. 37ag stosuje się odpowiednio. Art. 37aj. 1. Państwowy wojewódzki inspektor sanitarny w celu zapewnienia ciągłości badań jakości wody do spożycia przeprowadza analizę w zakresie:
+
+- **1)** zapotrzebowania na badania poszczególnych parametrów jakości wody do spożycia oraz możliwości wykonywania tych badań na nadzorowanym przez niego terenie przez laboratoria wpisane do ewidencji laboratoriów wykonujących badania wody;
+- **2)** zapotrzebowania na pobieranie próbek wody do spożycia zgodnie z odpowiednimi metodami pobierania próbek wody dla poszczególnych zakresów badań oraz możliwości pobrania tych próbek przez upoważnionych próbkobiorców.
+
+2. Państwowy wojewódzki inspektor sanitarny przeprowadza analizę, o której mowa w ust. 1:
+
+- **1)** pkt 1, raz w roku;
+- **2)** pkt 2, raz na 6 miesięcy.
+
+3. Państwowy wojewódzki inspektor sanitarny przekazuje informacje z przeprowadzonej analizy, o której mowa w ust. 1, oraz o podjętych działaniach Głównemu Inspektorowi Sanitarnemu, w terminie do dnia 28 lutego za poprzedni rok kalendarzowy. Art. 37ak. 1. W celu zapewnienia nadzoru nad jakością wody do spożycia oraz wody w kąpieliskach minister właściwy do spraw zdrowia wyznacza krajowe laboratoria referencyjne w określonym zakresie badań jakości wody do spożycia oraz badań jakości wody w kąpieliskach.
+
+2. Minister właściwy do spraw zdrowia wyznacza, w drodze rozporządzenia, krajowe laboratoria referencyjne, wskazując zakres badań jakości wody do spożycia oraz badań jakości wody w kąpieliskach wykonywanych przez te laboratoria, mając na względzie realizację zadań przez dane krajowe laboratorium referencyjne oraz możliwość wykonywania tych badań przez to laboratorium. Art. 37al. 1. Krajowe laboratorium referencyjne:
+
+- **1)** przeprowadza szkolenia w zakresie nowych metod i procedur badań jakości wody do spożycia oraz badań jakości wody w kąpieliskach oraz weryfikacji lub walidacji tych metod lub procedur;
+- **2)** może organizować krajowe badania biegłości zgodnie z normą PN-EN ISO/IEC 17043 i porównania międzylaboratoryjne w odniesieniu do poszczególnych metod badań jakości wody do spożycia oraz badań jakości wody w kąpieliskach;
+- **3)** bierze udział w krajowych i międzynarodowych badaniach biegłości;
+- **4)** prowadzi badania nowych parametrów, które są szkodliwe dla zdrowia ludzi w związku z korzystaniem z wody do spożycia oraz wody w kąpieliskach, w tym nowych parametrów jakości wody do spożycia, oraz opracowuje metody i procedury badań parametrów jakości wody do spożycia, dla których te parametry nie zostały określone;
+- **5)** wykonuje badania jakości wody do spożycia oraz badania jakości wody w kąpieliskach oraz ekspertyzy w zakresie tych badań;
+- **6)** współpracuje z krajowymi i międzynarodowymi organizacjami w zakresie bezpieczeństwa wody do spożycia oraz wody w kąpieliskach i w zakresie badań jakości wody do spożycia oraz badań jakości wody w kąpieliskach, w tym ze Wspólnym Centrum Badawczym Komisji Europejskiej;
+- **7)** udostępnia organom Państwowej Inspekcji Sanitarnej informacje i dokumenty, w tym wyniki badań, w zakresie niezbędnym do realizacji nadzoru nad jakością wody do spożycia oraz wody w kąpieliskach;
+- **8)** realizuje zadania, o których mowa w art. 37ae ust. 6 i 7;
+- **9)** posiada akredytację Polskiego Centrum Akredytacji na zgodność z wymaganiami normy PN-EN ISO/IEC 17025 w zakresie metod, dla których pełni funkcję krajowego laboratorium referencyjnego.
+
+2. Krajowe laboratorium referencyjne może rozstrzygać rozbieżności w zakresie wyników:
+
+- **1)** badań jakości wody do spożycia wykonanych w ramach monitoringu zgodności w rozumieniu art. 2 pkt 1c ustawy o zaopatrzeniu w wodę oraz badań, o których mowa w art. 4p ust. 2 pkt 3 tej ustawy;
+- **2)** badań jakości wody w kąpieliskach wykonanych na podstawie art. 344 ust. 5 pkt 5 ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
+
+3. Realizacja zadań, o których mowa w ust. 2, nie wstrzymuje wykonania decyzji, o której mowa w art. 37ax ust. 3 pkt 4. Art. 37am. 1. Koszty realizacji zadań, o których mowa w art. 37al ust. 1 pkt 3–6, są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia, w wysokości określonej w umowie zawartej między Głównym Inspektorem Sanitarnym a krajowym laboratorium referencyjnym.
+
+2. Koszty realizacji zadań, o których mowa w art. 37ae ust. 6 i 7, ponosi podmiot, który wystąpił o uznanie równoważności metody alternatywnej z metodą referencyjną.
+
+3. Koszty realizacji zadań, o których mowa w art. 37al ust. 2, ponosi podmiot, który kwestionuje wyniki badań, o których mowa w tym przepisie. Art. 37an. Polskie Centrum Akredytacji przekazuje odpowiednio Głównemu Inspektorowi Sanitarnemu lub Głównemu Inspektorowi Sanitarnemu Wojska Polskiego informację o udzielonych akredytacjach, zmianach zakresu tych akredytacji, ich zawieszeniu albo cofnięciu, w terminie 14 dni odpowiednio od dnia ich udzielenia, zmiany, zawieszenia lub cofnięcia.
 
 #### Rozdział 3b Materiały lub wyroby do kontaktu z wodą do spożycia oraz chemikalia do uzdatniania wody i materiały filtracyjne do kontaktu z wodą do spożycia
 
@@ -897,7 +1185,32 @@ Art. 37azb. 1. Podmiot prowadzący laboratorium wykonujące badania jakości wod
 
 **Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176 i 426) wprowadza się następujące zmiany:
 
+- **1)** w art. 195 w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) jest to konieczne w celu zapobiegania ryzyku, o którym mowa w art. 4f ust. 6 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757 oraz z 2026 r. poz. 605), lub służy jego kontroli oraz jest to uzasadnione wynikami dodatkowego przeglądu pozwoleń zintegrowanych, o których mowa w art. 4f ust. 15 tej ustawy.”;
+- **2)** w art. 400a w ust. 1 po pkt 2c dodaje się pkt 2d w brzmieniu: „2d) przedsięwzięcia związane z zaopatrzeniem w wodę przeznaczoną do spożycia przez ludzi w rozumieniu art. 2 pkt 18 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków;”;
+- **3)** w art. 400b:
+    - **a)** w ust. 1 wyrazy „w zakresie określonym w art. 400a ust. 1 pkt 1a–2c, 5–9a, 11–22 i 24–42 oraz art. 410a ust. 4–6” zastępuje się wyrazami „w zakresie określonym w art. 400a ust. 1 pkt 1a–2d, 5–9a, 11–22 i 24–42 oraz art. 410a ust. 4–6”,
+    - **b)** w ust. 2 wyrazy „w zakresie określonym w art. 400a ust. 1 pkt 2, 2a, 5–9a, 11–22 i 24–42” zastępuje się wyrazami „w zakresie określonym w art. 400a ust. 1 pkt 2, 2a, 2d, 5–9a, 11–22 i 24–42”.
+
 **Art. 5.** W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535 oraz z 2026 r. poz. 445) wprowadza się następujące zmiany:
+
+- **1)** w art. 16 w pkt 70 lit. a i b otrzymują brzmienie: „a) wodę w stanie pierwotnym lub po uzdatnieniu, przeznaczoną do picia, wytwarzania, przygotowania żywności lub innych celów gospodarczych zarówno w obiektach publicznych, jak i prywatnych, niezależnie od jej pochodzenia i od tego, czy jest dostarczana z sieci wodociągowej, cystern, w tym również przewoźnych zbiorników, lub rozlewana do butelek lub pojemników, UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319);”;
+    - **b)** wodę wykorzystywaną przez przedsiębiorstwo spożywcze w rozumieniu art. 3 ust. 2 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463) do wytworzenia, przetworzenia, konserwowania lub wprowadzania do obrotu produktów lub substancji przeznaczonych do spożycia przez ludzi, z wyłączeniem wody wykorzystywanej przez to przedsiębiorstwo spożywcze, której jakość nie może wpływać na bezpieczeństwo środków spożywczych w ich końcowej postaci, oraz pod warunkiem, że podmiot prowadzący to przedsiębiorstwo spożywcze spełnia wymagania określone w rozporządzeniu WE nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz.
+
+- **2)** w art. 47 uchyla się ust. 3–7;
+- **3)** w art. 118 ust. 2 otrzymuje brzmienie: „2. Wybierając reprezentatywne punkty pomiarowo-kontrolne, o których mowa w ust. 1, oraz określając terminy badania substancji szczególnie szkodliwych dla środowiska wodnego zawartych na liście obserwacyjnej, właściwy organ Inspekcji Ochrony Środowiska uwzględnia sposoby użytkowania oraz możliwość pojawienia się danej substancji szczególnie szkodliwej dla środowiska wodnego w tym środowisku lub obszarze zasilania ujęcia wody wykorzystywanego do poboru wody przeznaczonej do spożycia przez ludzi.”;
+- **4)** w art. 240:
+    - **a)** w ust. 2 po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) tworzy zbiór danych zawierających informacje z ocen ryzyka lub ich aktualizacji oraz informacje o działaniach zapobiegających ryzyku w rozumieniu art. 2 pkt 6a ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków lub służących jego kontroli i zapewnia dostęp do nich Komisji Europejskiej, Europejskiej Agencji Środowiska i Europejskiemu Centrum ds. Zapobiegania i Kontroli Chorób, o którym mowa w art. 4h ust. 4 tej ustawy;”,
+    - **b)** w ust. 3 po pkt 27 dodaje się pkt 27a i 27b w brzmieniu: „27a) podejmują działania zapobiegające ryzku lub służące jego kontroli, o których mowa w art. 4f ust. 6 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków;
+
+- **27b)** po konsultacji z dostawcą wody w rozumieniu art. 2 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków identyfikują podmioty odpowiedzialne za zanieczyszczenie wody, które stwarza ryzyko, o którym mowa w art. 4f ust. 6 tej ustawy, zgodnie z art. 4f ust. 9 tej ustawy;”;
+- **5)** w art. 333 w ust. 6 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) dostawcom wody w rozumieniu art. 2 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków – w celu dokonywania oceny ryzyka w obszarze zasilania ujęcia wody wykorzystywanego do poboru wody przeznaczonej do spożycia przez ludzi, o której mowa w art. 4e ust. 1 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, lub jej przeglądu lub aktualizacji, o których mowa w art. 4e ust. 2 tej ustawy.”;
+- **6)** w art. 334:
+    - **a)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) stanu jakości wody ujmowanej do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi;”;
+    - **b)** pkt 8 otrzymuje brzmienie: „8) stanu jakości wody w kąpieliskach i miejscu okazjonalnie wykorzystywanym do kąpieli;”;
+
+- **7)** w art. 348:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Badania pobranych próbek wody w kąpieliskach i miejscach okazjonalnie wykorzystywanych do kąpieli są wykonywane na zasadach określonych w rozdziale 3a ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416 oraz z 2026 r. poz. 605).”,
+    - **b)** uchyla się ust. 2–7.
 
 **Art. 6.**
 

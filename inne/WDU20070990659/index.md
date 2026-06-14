@@ -8,7 +8,7 @@ pos: 659
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Śląskiej Akademii Medycznej imienia Ludwika Waryńskiego w Katowicach nazwy „Śląski Uniwersytet Medyczny w Katowicach”

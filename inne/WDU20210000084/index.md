@@ -8,10 +8,10 @@ pos: 84
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 stycznia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 84 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 13 stycznia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/84/text.pdf) |
 
-Poz. 84 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 13 stycznia 2021 r.
 w sprawie wysokości i trybu zwrotu zryczałtowanych kosztów ponoszonych przez Agencję Bezpieczeństwa Wewnętrznego albo Służbę Kontrwywiadu Wojskowego za przeprowadzenie sprawdzenia przedsiębiorcy oraz postępowań sprawdzających Na podstawie art. 61 ust. 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r.
-poz. 742) zarządza się, co następuje: § 1. Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, albo Służbie Kontrwywiadu Wojskowego, zwanej dalej „SKW”, przysługuje zwrot zryczałtowanych kosztów ponoszonych za przeprowadzenie:
+poz. 742) zarządza się, co następuje:
+§ 1. Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, albo Służbie Kontrwywiadu Wojskowego, zwanej dalej „SKW”, przysługuje zwrot zryczałtowanych kosztów ponoszonych za przeprowadzenie:
 1) czynności przy sprawdzeniach przedsiębiorcy, w wysokości:
 a) 7-krotności kwoty przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłaty nagród z zysku za ubiegły rok, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 60 pkt 5 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2020 r. poz. 562, 567, 945, 1493 i 2401), zwanej dalej „kwotą przeciętnego wynagrodzenia”, w przypadku ubiegania się przez przedsiębiorcę o świadectwo bezpieczeństwa przemysłowego pierwszego albo drugiego stopnia,
 b) 6-krotności kwoty przeciętnego wynagrodzenia w przypadku ubiegania się przez przedsiębiorcę o świadectwo bezpieczeństwa przemysłowego trzeciego stopnia;

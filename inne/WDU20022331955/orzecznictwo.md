@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 22 listopada 2002 r. o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela.*
 
 Łącznie: **1** orzeczeń
-(pominięto 12 orzeczeń sądów rejonowych)
+(pominięto 13 orzeczeń sądów rejonowych)
 
 ## (ogólnie) (1)
 

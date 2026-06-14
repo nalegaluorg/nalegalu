@@ -8,10 +8,10 @@ pos: 2381
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2381 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 13 grudnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,23 +25,22 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2381/text.pdf) |
 
-Poz. 2381 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA dnia 13 grudnia 2017 r.
-w sprawie odpadów, które podlegają próbie strzępienia odpadów pochodzących pojazdów wycofanych eksploatacji, oraz sposobu jej wykonania Na podstawie art. 38 4 ustawy dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych eksploatacji 2016 r. 803 i 1948) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) odpady, które podlegają próbie strzępienia odpadów pochodzących pojazdów wycofanych eksploatacji, zwanej dalej „próbą strzępienia”;
+w sprawie odpadów, które podlegają próbie strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, oraz sposobu jej wykonania Na podstawie art. 38 ust. 4 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2016 r. poz. 803 i 1948) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) odpady, które podlegają próbie strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, zwanej dalej „próbą strzępienia”;
 2) sposób wykonania próby strzępienia.
-§ 2. Próbie strzępienia poddaje się odpady pochodzące procesu demontażu kompletnych pojazdów wycofanych eksploatacji.
+§ 2. Próbie strzępienia poddaje się odpady pochodzące z procesu demontażu kompletnych pojazdów wycofanych z eksploatacji.
 § 3. 1. Próbę strzępienia przeprowadza się w sposób umożliwiający uzyskanie informacji w zakresie:
 1) daty i miejsca przeprowadzenia próby strzępienia;
-2) nazw i adresów poszczególnych stacji demontażu, których pochodziły odpady, o których mowa w § 2;
-3) masy odpadów, o których mowa w § 2, wyrażonej w Mg dokładnością do trzeciego miejsca po przecinku;
-4) masy wydzielonych poszczególnych frakcji materiałowych, wyrażonej w Mg dokładnością do trzeciego miejsca po przecinku;
+2) nazw i adresów poszczególnych stacji demontażu, z których pochodziły odpady, o których mowa w § 2;
+3) masy odpadów, o których mowa w § 2, wyrażonej w Mg z dokładnością do trzeciego miejsca po przecinku;
+4) masy wydzielonych poszczególnych frakcji materiałowych, wyrażonej w Mg z dokładnością do trzeciego miejsca przecinku;
 5) zawartości wydzielonych poszczególnych frakcji materiałowych, wyrażonej w procentach, w stosunku do łącznej masy odpadów, o których mowa w § 2;
-6) masy wydzielonych poszczególnych frakcji materiałowych, wyrażonej w Mg, przeznaczonych do przekazania do recyklingu, odzysku energii, innych niż recykling procesów odzysku oraz do unieszkodliwiania, a także udziału procentowego poszczególnych frakcji materiałowych poddanych procesom przetwarzania.
+6) masy wydzielonych poszczególnych frakcji materiałowych, wyrażonej w Mg, przeznaczonych do przekazania recyklingu, odzysku energii, innych niż recykling procesów odzysku oraz do unieszkodliwiania, a także udziału procentowego poszczególnych frakcji materiałowych poddanych procesom przetwarzania.
 2. Przeprowadzenie próby strzępienia obejmuje:
 1) przygotowanie oddzielnych pojemników bądź wydzielonych miejsc na poszczególne frakcje materiałowe;
 2) zważenie masy odpadów, o których mowa w § 2, przygotowanych do próby strzępienia;
 3) poddanie procesowi strzępienia masy odpadów, o których mowa w § 2, przygotowanych do próby strzępienia;
-Dziennik Ustaw – – Poz. 2381
 4) odrębne zważenie wydzielonych następujących frakcji materiałowych:
 a) metali żelaznych,
 b) metali nieżelaznych,
@@ -51,6 +50,6 @@ e) lekkiej frakcji i pyłów niezawierających substancji niebezpiecznych,
 f) lekkiej frakcji i pyłów zawierających substancje niebezpieczne,
 g) pozostałości – jeżeli powstały w wyniku próby strzępienia.
 § 4. Masa odpadów, o których mowa w § 2, poddana próbie strzępienia nie może być mniejsza niż 30 Mg.
-§ 5. Rozporządzenie wchodzi w życie dniem 1 stycznia 2018 r.
+§ 5. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
 Minister Środowiska: J. Szyszko
 

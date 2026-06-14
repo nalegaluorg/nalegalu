@@ -8,10 +8,10 @@ pos: 2126
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2126 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 18 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,35 +25,35 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002126) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2126/text.pdf) |
 
-OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 18 września 2023 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych
-1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 27 grudnia 2017 r. sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych (Dz. U. z 2018 r. poz. 126), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 20 kwietnia 2022 r. zmieniającym rozporządzenie sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych (Dz. U. poz. 1037).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 20 kwietnia 2022 r. zmieniającego rozporządzenie sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych (Dz. U.
-poz. 1037), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 27 grudnia 2017 r. w sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych (Dz. U. z 2018 r. poz. 126), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 20 kwietnia 2022 r. zmieniającym rozporządzenie w sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych (Dz. U. poz. 1037).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 20 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych (Dz. U.
+poz. 1037), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2017 r.
-sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych Na podstawie art. 3a ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2023 r. poz. 1278, 1394, 1407, 1723 i 1843) zarządza się, co następuje: § 1. Rozporządzenie określa sposób tworzenia, utrwalania, przekazywania, przechowywania i zabezpieczania, tym przy zastosowaniu środków identyfikacji elektronicznej, dokumentów związanych z czynnościami, o których mowa art. 3 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, zwanymi dalej „czynnościami kas”, sporządzanych na informatycznych nośnikach danych.
-§ 2. Ilekroć rozporządzeniu jest mowa o:
-1) podpisie elektronicznym należy przez to rozumieć kwalifikowany podpis elektroniczny albo inny podpis elektroniczny oparty na danych identyfikujących podpisującego, zgodny z umową stron, a przypadku dokumentów wewnętrznych spółdzielczej kasy oszczędnościowo-kredytowej, zwanej dalej „kasą”, zgodny z jej uregulowaniami wewnętrznymi;
-2) integralności należy przez to rozumieć właściwość polegającą na tym, że zawartość dokumentu nie uległa zmianie od chwili jego utworzenia;
-3) pieczęci elektronicznej należy przez to rozumieć kwalifikowaną pieczęć elektroniczną albo inną pieczęć elektroniczną rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r.
-sprawie identyfikacji elektronicznej i usług zaufania odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 73) zgodną z umową stron, a przypadku dokumentów wewnętrznych kasy zgodną z jej przepisami wewnętrznymi.
-§ 3. Utworzenie i utrwalenie następuje przez zapisanie dokumencie elektronicznym danych związanych z jedną czynnością lub wieloma czynnościami kas oraz jego opatrzenie podpisem elektronicznym albo pieczęcią elektroniczną.
-§ 4. Dokument formie dokumentu elektronicznego może być przekazany na informatycznym nośniku danych albo za pośrednictwem środków komunikacji elektronicznej, sposób gwarantujący integralność przekazywanych danych.
-§ 5. 1. Dokument przechowuje się sposób zapewniający jego integralność przez cały okres przechowywania, gwarantujący przez cały okres jego przechowywania możliwość odczytywania zawartych nim danych oraz możliwość weryfikacji podpisu elektronicznego lub pieczęci elektronicznej, którymi ten dokument został opatrzony.
-1a. Dane zapisane dokumentach mogą być gromadzone bazie danych prowadzonej systemie teleinformatycznym, która może mieć formę rozproszoną i zdecentralizowaną. System teleinformatyczny zapewnia bezpieczeństwo i integralność gromadzonych niej danych.
-2. Jeżeli okres trwałości zapisu na informatycznym nośniku danych określony przez producenta tego nośnika jest krótszy od wymaganego okresu przechowywania dokumentu, wówczas utrwalony na nośniku dokument należy przenieść na inny informatyczny nośnik danych przed upływem gwarantowanego przez producenta okresu trwałości zapisu. Informatyczny nośnik, z którego przeniesiono zapis, podlega modyfikacji celu uniemożliwienia odtworzenia dokumentu.
-3. Po upływie wymaganego okresu przechowywania dokument zostaje usunięty z informatycznego nośnika danych sposób nieodwracalny. W przypadku upływu wymaganego okresu przechowywania wszystkich dokumentów utrwalonych na informatycznym nośniku danych, nośnik ten podlega modyfikacji celu uniemożliwienia odtworzenia tych dokumentów.
-§ 6. 1. Dokumenty przechowuje się co najmniej dwóch kopiach, każda na innym egzemplarzu lub rodzaju informatycznego nośnika danych. Sposób przechowywania nośników obydwu kopii powinien zapewniać bezpieczeństwo zapisanych na nich dokumentów.
+w sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych Na podstawie art. 3a ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2023 r. poz. 1278, 1394, 1407, 1723 i 1843) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób tworzenia, utrwalania, przekazywania, przechowywania i zabezpieczania, w tym przy zastosowaniu środków identyfikacji elektronicznej, dokumentów związanych z czynnościami, o których mowa w art. 3 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, zwanymi dalej „czynnościami kas”, sporządzanych na informatycznych nośnikach danych.
+§ 2. Ilekroć w rozporządzeniu jest mowa o:
+1) podpisie elektronicznym – należy przez to rozumieć kwalifikowany podpis elektroniczny albo inny podpis elektroniczny oparty na danych identyfikujących podpisującego, zgodny z umową stron, a w przypadku dokumentów wewnętrznych spółdzielczej kasy oszczędnościowo-kredytowej, zwanej dalej „kasą”, zgodny z jej uregulowaniami wewnętrznymi;
+2) integralności – należy przez to rozumieć właściwość polegającą na tym, że zawartość dokumentu nie uległa zmianie od chwili jego utworzenia;
+3) pieczęci elektronicznej – należy przez to rozumieć kwalifikowaną pieczęć elektroniczną albo inną pieczęć elektroniczną w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r.
+w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 73) zgodną z umową stron, a w przypadku dokumentów wewnętrznych kasy zgodną z jej przepisami wewnętrznymi.
+§ 3. Utworzenie i utrwalenie następuje przez zapisanie w dokumencie elektronicznym danych związanych z jedną czynnością lub wieloma czynnościami kas oraz jego opatrzenie podpisem elektronicznym albo pieczęcią elektroniczną.
+§ 4. Dokument w formie dokumentu elektronicznego może być przekazany na informatycznym nośniku danych albo za pośrednictwem środków komunikacji elektronicznej, w sposób gwarantujący integralność przekazywanych danych.
+§ 5. 1. Dokument przechowuje się w sposób zapewniający jego integralność przez cały okres przechowywania, gwarantujący przez cały okres jego przechowywania możliwość odczytywania zawartych w nim danych oraz możliwość weryfikacji podpisu elektronicznego lub pieczęci elektronicznej, którymi ten dokument został opatrzony.
+1a. Dane zapisane w dokumentach mogą być gromadzone w bazie danych prowadzonej w systemie teleinformatycznym, która może mieć formę rozproszoną i zdecentralizowaną. System teleinformatyczny zapewnia bezpieczeństwo i integralność gromadzonych w niej danych.
+2. Jeżeli okres trwałości zapisu na informatycznym nośniku danych określony przez producenta tego nośnika jest krótszy od wymaganego okresu przechowywania dokumentu, wówczas utrwalony na nośniku dokument należy przenieść na inny informatyczny nośnik danych przed upływem gwarantowanego przez producenta okresu trwałości zapisu. Informatyczny nośnik, z którego przeniesiono zapis, podlega modyfikacji w celu uniemożliwienia odtworzenia dokumentu.
+3. Po upływie wymaganego okresu przechowywania dokument zostaje usunięty z informatycznego nośnika danych w sposób nieodwracalny. W przypadku upływu wymaganego okresu przechowywania wszystkich dokumentów utrwalonych na informatycznym nośniku danych, nośnik ten podlega modyfikacji w celu uniemożliwienia odtworzenia tych dokumentów.
+§ 6. 1. Dokumenty przechowuje się w co najmniej dwóch kopiach, każda na innym egzemplarzu lub rodzaju informatycznego nośnika danych. Sposób przechowywania nośników obydwu kopii powinien zapewniać bezpieczeństwo zapisanych na nich dokumentów.
 2. Dokumenty mogą być kopiowane na inny informatyczny nośnik danych jedynie pod nadzorem osób, które zostały uprawnione zgodnie z wewnętrznymi procedurami kas, z zachowaniem zasad bezpieczeństwa obrotu oraz ochrony interesów kas i ich klientów.
 3. Każdy informatyczny nośnik danych użyty do przechowywania dokumentów powinien zawierać oznaczenie umożliwiające identyfikację tego nośnika (identyfikator).
-§ 7. 1. Dokument uważa się za zabezpieczony, jeżeli sposób ciągły:
+§ 7. 1. Dokument uważa się za zabezpieczony, jeżeli w sposób ciągły:
 1) jest zapewniona jego dostępność wyłącznie dla osób uprawnionych oraz
 2) jest chroniony przed przypadkowym lub nieuprawnionym zniszczeniem, oraz
-3) są zastosowane metody i środki ochrony dokumentu, których skuteczność czasie ich zastosowania jest powszechnie uznawana.
-2. Zabezpieczenie dokumentów wymaga szczególności:
+3) są zastosowane metody i środki ochrony dokumentu, których skuteczność w czasie ich zastosowania jest powszechnie uznawana.
+2. Zabezpieczenie dokumentów wymaga w szczególności:
 1) systematycznego dokonywania analizy zagrożeń;
-2) opracowania i stosowania procedur zabezpieczania dokumentów i systemów ich przetwarzania, tym procedur dostępu;
+2) opracowania i stosowania procedur zabezpieczania dokumentów i systemów ich przetwarzania, w tym procedur dostępu;
 3) stosowania środków bezpieczeństwa adekwatnych do zagrożeń;
 4) bieżącego kontrolowania funkcjonowania wszystkich organizacyjnych i techniczno-informatycznych sposobów zabezpieczenia, a także okresowego dokonywania oceny skuteczności tych sposobów.
-§ 8. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia .
+§ 8. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

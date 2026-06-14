@@ -8,7 +8,7 @@ pos: 1335
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie zakresu obowiązywania Protokołu fakultatywnego do Konwencji o prawach dziecka w sprawie angażowania dzieci w konflikty zbrojne, przyjętego dnia 25 maja 2000 r. w Nowym Jorku

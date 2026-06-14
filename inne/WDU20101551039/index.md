@@ -8,7 +8,7 @@ pos: 1039
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
@@ -29,9 +29,31 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) zasadnicze wymagania dla wprowadzanych do obrotu wyrobów pirotechnicznych oraz procedury oceny zgodności,”;
+- **2)** w art. 9:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Nie jest wymagane uzyskanie pozwolenia na nabywanie, przechowywanie lub używanie wyrobów pirotechnicznych, o których mowa w art. 62c ust. 1 pkt 1 lit. a–c, pkt 2 lit. a oraz pkt 3 lit. a.”,
+    - **b)** uchyla się ust. 8;
+
+- **3)** w art. 42 dodaje się ust. 6 w brzmieniu: „6. Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.”;
+- **4)** tytuł rozdziału 5 otrzymuje brzmienie: „Procedury oceny zgodności materiałów wybuchowych przeznaczonych do użytku cywilnego”;
+- **5)** po art. 45 dodaje się art. 45a w brzmieniu: „Art. 45a. Przepisów niniejszego rozdziału nie stosuje się do wyrobów pirotechnicznych.”;
+- **6)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „Rozdział 5a Zasadnicze wymagania dla wprowadzanych do obrotu wyrobów pirotechnicznych oraz procedury oceny zgodności tych wyrobów
+
 **Art. 62a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
+- **1)** wyrobach pirotechnicznych widowiskowych – należy przez to rozumieć wyroby pirotechniczne przeznaczone do celów rozrywkowych,
+- **2)** wyrobach pirotechnicznych przeznaczonych do użytku teatralnego – należy przez to rozumieć wyroby pirotechniczne przeznaczone do wykorzystania na scenie wewnątrz lub na zewnątrz budynków, w tym w produkcji filmowej i telewizyjnej lub do podobnego użytku,
+- **3)** wyrobach pirotechnicznych do pojazdów – należy przez to rozumieć wyroby pirotechniczne będące elementami urządzeń bezpieczeństwa stosowanych w pojazdach zawierających materiały pirotechniczne wykorzystywane do uruchamiania tych lub innych urządzeń,
+- **4)** pozostałych wyrobach pirotechnicznych – należy przez to rozumieć wyroby pirotechniczne inne niż wyroby, o których mowa w pkt 1 i 2, stosowane w kolejnictwie, leśnictwie, lotnictwie, modelarstwie, ratownictwie, rolnictwie, żegludze oraz wyroby pirotechniczne do pojazdów,
+- **5)** wyrobach pirotechnicznych wprowadzanych do obrotu – należy przez to rozumieć wyroby pirotechniczne, o których mowa w pkt 1–4, lub grupy takich wyrobów pirotechnicznych o podobnej konstrukcji i o podobnym działaniu, po raz pierwszy udostępniane, w celu dystrybucji lub wykorzystania, na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym przez producenta lub importera, nieodpłatnie albo za opłatą.
+
 **Art. 62b.** Przepisów niniejszego rozdziału nie stosuje się do:
+
+- **1)** wyrobów pirotechnicznych przeznaczonych, zgodnie z odrębnymi przepisami, do niehandlowego wykorzystania przez Siły Zbrojne Rzeczypospolitej Polskiej, Policję, Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Centralne Biuro Antykorupcyjne, Biuro Ochrony Rządu, Straż Graniczną, Służbę Celną, Służbę Więzienną, armie obcych państw przebywające na terytorium Rzeczypospolitej Polskiej oraz jednostki ochrony przeciwpożarowej, o których mowa w art. 15 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353),
+- **2)** wyposażenia morskiego, do którego stosuje się przepisy ustawy z dnia 20 kwietnia 2004 r. o wyposażeniu morskim (Dz. U. Nr 93, poz. 899),
+- **3)** wyrobów pirotechnicznych przeznaczonych do wykorzystania w przemyśle lotniczym,
+- **4)** kapiszonów przeznaczonych do zabawek, o których mowa w przepisach wydanych na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, dotyczących zasadniczych wymagań dla zabawek,
+- **5)** amunicji oraz amunicji ślepej.
 
 **Art. 62c.**
 
@@ -105,7 +127,19 @@ source: "isap-pdf"
 
 **Art. 62g.** Podczas przeprowadzania badania wyrobu pirotechnicznego należy zbadać następujące jego właściwości oraz parametry techniczne:
 
+- **1)** zgodność wyrobu pirotechnicznego z rysunkiem konstrukcyjnym, z uwzględnieniem jego struktury i charakterystycznych właściwości, masy i ilościowego składu chemicznego stosowanego w wyrobie materiału pirotechnicznego oraz wymiarów,
+- **2)** stabilność fizyczną i chemiczną wyrobu pirotechnicznego podczas jego przechowywania i transportu,
+- **3)** możliwość bezpiecznego przechowywania, transportu oraz używania wyrobu pirotechnicznego,
+- **4)** stabilność chemiczną i termiczną zawartych w wyrobie pirotechnicznym materiałów pirotechnicznych,
+- **5)** odporność na działanie wody, jeżeli wyrób pirotechniczny ma być używany w warunkach wilgotnych lub w wodzie, a jej oddziaływanie może mieć negatywny wpływ na bezpieczeństwo lub niezawodność jego działania,
+- **6)** odporność na działanie niskich i wysokich temperatur, jeżeli przewiduje się przechowywanie lub używanie wyrobu pirotechnicznego w takich temperaturach, a chłodzenie lub ogrzewanie poszczególnych składników lub całego wyrobu może mieć negatywny wpływ na bezpieczeństwo i niezawodność jego działania,
+- **7)** środki bezpieczeństwa mające na celu zapobieganie przedwczesnemu lub niezamierzonemu zapłonowi lub wybuchowi,
+- **8)** odporność wyrobu pirotechnicznego i jego opakowania, a także innych części składowych na pogorszenie się jakości tego wyrobu w przewidzianych w instrukcji obsługi tego wyrobu warunkach jego składowania.
+
 **Art. 62h.** Wyroby pirotechniczne wprowadzane do obrotu nie mogą zawierać:
+
+- **1)** materiałów wybuchowych przeznaczonych do użytku cywilnego, o których mowa w ustawie, z wyjątkiem prochu czarnego, materiałów pirotechnicznych oraz piorunianu srebra, z zastrzeżeniem art. 62i ust. 1 pkt 3,
+- **2)** materiałów wybuchowych przeznaczonych do użycia przez Siły Zbrojne Rzeczypospolitej Polskiej, Policję, Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Centralne Biuro Antykorupcyjne, Biuro Ochrony Rządu, Straż Graniczną, Służbę Celną oraz Służbę Więzienną.
 
 **Art. 62i.**
 
@@ -190,6 +224,14 @@ source: "isap-pdf"
 7. Przewody zapalników elektrycznych muszą posiadać wystarczającą izolację elektryczną, wytrzymałość mechaniczną oraz muszą zapewniać niezawodne połączenie z zapalnikiem w stopniu gwarantującym bezpieczeństwo podczas ich stosowania zgodnie z instrukcją obsługi wyrobu pirotechnicznego.
 
 **Art. 62m.** Wyroby pirotechniczne poddaje się, w zależności od potrzeb, następującym procedurom oceny zgodności z zasadniczymi wymaganiami:
+
+- **1)** badaniu typu WE (moduł B) – wykonywanemu w sposób określony w art. 62n oraz zależnie od wyboru producenta:
+    - **a)** badaniu zgodności z typem (moduł C) – wykonywanemu w sposób określony w art. 62o,
+    - **b)** procedurze zapewnienia jakości produkcji (moduł D) – przeprowadzanej w sposób określony w art. 62p, zwanej dalej „systemem zapewnienia jakości produkcji”,
+    - **c)** procedurze zapewnienia jakości wyrobu (moduł E) – przeprowadzanej w sposób określony w art. 62r, zwanej dalej „systemem zapewnienia jakości wyrobu”,
+
+- **2)** sprawdzaniu jednostkowemu (moduł G) – wykonywanemu w sposób określony w art. 62s,
+- **3)** systemem pełnego zapewniania jakości (moduł H), o którym mowa w art. 62t – w zakresie dotyczącym wyrobów pirotechnicznych widowiskowych klasy 4.
 
 **Art. 62n.**
 
@@ -358,6 +400,13 @@ source: "isap-pdf"
 **Art. 62u.** W sprawach nieuregulowanych przepisami niniejszego rozdziału stosuje się przepisy ustawy z dnia 30 sierpnia o systemie oceny zgodności.”.
 
 **Art. 2.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 ust. 2 otrzymuje brzmienie: „2. Nie jest wymagane uzyskanie koncesji na obrót wyrobami pirotechnicznymi, o których mowa w art. 62c ust. 1 pkt 1 lit. a–c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm. ).”;
+- **2)** w art. 7 ust. 2 i 3 otrzymują brzmienie: „2. Przed udzieleniem koncesji organ koncesyjny jest obowiązany, a przed wydaniem innych decyzji, o których mowa w ust. 1, może zasięgnąć opinii ministra właściwego do spraw gospodarki, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Służby Kontrwywiadu Wojskowego i właściwego komendanta wojewódzkiego Policji.
+
+3. Organ koncesyjny zawiadamia o udzieleniu koncesji, jej zmianie lub cofnięciu Głównego Inspektora Pracy, ministra właściwego do spraw gospodarki, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Służby Kontrwywiadu Wojskowego oraz właściwych ze względu na siedzibę przedsiębiorcy lub miejsce wykonywania działalności gospodarczej wojewodę, komendanta wojewódzkiego Państwowej Straży Pożarnej oraz komendanta wojewódzkiego Policji. Organ koncesyjny zawiadamia o odmowie udzielenia koncesji Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Służby Kontrwywiadu Wojskowego oraz właściwego komendanta wojewódzkiego Policji.”;
+
+- **3)** w art. 31 ust. 2 otrzymuje brzmienie: „2. Wyroby, o których mowa w art. 62c ust. 1 pkt 1 lit. a–c, pkt 2 lit. a oraz pkt 3 lit. a ustawy, o której mowa w art. 6 ust. 2, oraz broń, na posiadanie której nie jest wymagane pozwolenie na broń, mogą być sprzedawane wyłącznie osobom pełnoletnim, po okazaniu dokumentu stwierdzającego tożsamość.”.
 
 **Art. 3.** Wyroby pirotechniczne wprowadzone do obrotu przed dniem wejścia w życie niniejszej ustawy mogą pozostać w obrocie do dnia 4 lipca 2017 r.
 

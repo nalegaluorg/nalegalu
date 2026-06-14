@@ -8,10 +8,10 @@ pos: 2269
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2269 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 3 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002269) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2269/text.pdf) |
 
-OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 3 października 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 14 maja 2013 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. z 2020 r. poz. 1113), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 5 stycznia 2022 r. zmieniającym rozporządzenie w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. poz. 48);
@@ -37,11 +36,12 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 3) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. poz. 1417), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r.”.
 Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 14 maja 2013 r.
 w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów Na podstawie art. 81 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ) zarządza się, co następuje:
+§ 1. Użyte w rozporządzeniu określenia oznaczają:
 1) ustawa ‒ ustawę z dnia 6 kwietnia 1990 r. o Policji;
 2) (uchylony);
 3) komórka organizacyjna właściwa w sprawach osobowych ‒ komórkę organizacyjną właściwą do spraw kadr w Komendzie Głównej Policji, Centralnym Biurze Śledczym Policji, Biurze Spraw Wewnętrznych Policji, Centralnym Biurze Zwalczania Cyberprzestępczości, Komendzie Stołecznej Policji, komendzie wojewódzkiej Policji, komendzie powiatowej, miejskiej i rejonowej Policji, Centralnym Laboratorium Kryminalistycznym Policji, Akademii Policji w Szczytnie oraz szkole policyjnej;
 4) sprawy osobowe ‒ sprawy związane z nawiązaniem, zmianą i rozwiązaniem stosunku służbowego oraz wynikającymi z jego treści prawami i obowiązkami policjantów;
-5) przełożony właściwy w sprawach osobowych przełożonego, o którym mowa w art. 32 ust. 1 ustawy;
+5) przełożony właściwy w sprawach osobowych – przełożonego, o którym mowa w art. 32 ust. 1 ustawy;
 6) bezpośredni przełożony ‒ osobę zajmującą stanowisko kierownicze bezpośrednio wyższe od stanowiska zajmowanego przez policjanta, poczynając od stanowiska kierownika rewiru dzielnicowych (równorzędnego) lub dowódcy plutonu;
 7) droga służbowa ‒ tryb zwracania się policjanta w sprawie osobowej lub innej sprawie wynikającej ze stosunku służbowego do przełożonego uprawnionego do jej załatwienia za pośrednictwem bezpośredniego przełożonego;
 8) ustanie stosunku służbowego ‒ rozwiązanie stosunku służbowego w związku ze zwolnieniem policjanta ze służby lub jego śmiercią.
@@ -67,11 +67,12 @@ w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjant�
 2. Kierownik komórki organizacyjnej właściwej w sprawach osobowych albo osoba wyznaczona przez przełożonego właściwego w sprawach osobowych przygotowuje sprawy osobowe do załatwienia lub zaopiniowania przez przełożonego właściwego w sprawach osobowych.
 3. Sprawy osobowe załatwia się na piśmie w formie rozkazu personalnego, o ile odrębne przepisy nie stanowią inaczej.
 4. Formy rozkazu personalnego nie stosuje się do udzielania urlopów i zwolnienia od zajęć służbowych.
+§ 4. (uchylony).
 § 5. (uchylony).
 § 6. (uchylony).
 § 7. (uchylony).
 § 8. Policjantowi wychowującemu przynajmniej jedno dziecko w wieku do 14 lat przysługuje w ciągu roku kalendarzowego zwolnienie od zajęć służbowych w wymiarze 2 dni.
-§ 9. Policjanta zwalnia się od zajęć służbowych w przypadku wezwania do stawienia się przed organem właściwym w sprawach powszechnego obowiązku obrony, Policją, prokuraturą, organem prowadzącym postępowanie administracyjne, sądowe lub w sprawie o wykroczenie w charakterze strony lub świadka w postępowaniu prowadzonym przed tymi organami.
+§ 9. Policjanta zwalnia się od zajęć służbowych w przypadku wezwania do stawienia się przed organem właściwym w sprawach powszechnego obowiązku obrony, Policją, prokuraturą, organem prowadzącym postępowanie administracyjne, sądowe lub w sprawie o wykroczenie – w charakterze strony lub świadka – w postępowaniu prowadzonym przed tymi organami.
 § 10. 1. Policjantowi podnoszącemu kwalifikacje zawodowe i wykształcenie ogólne poza jednostkami organizacyjnymi Policji, na podstawie skierowania przełożonego właściwego w sprawach osobowych, przysługuje zwolnienie od zajęć służbowych z części dnia służby nieprzekraczające 5 godzin tygodniowo, jeżeli czas służby nie pozwala na punktualne przybycie na zajęcia.
 2. Policjantowi podnoszącemu kwalifikacje zawodowe i wykształcenie ogólne poza jednostkami organizacyjnymi Policji bez skierowania przełożony właściwy w sprawach osobowych może udzielić zwolnienia od zajęć służbowych z części dnia służby w wymiarze i na warunkach, o których mowa w ust. 1, jeżeli przemawia za tym interes służby, a w szczególności gdy poziom i kierunek kształcenia odpowiada wymaganiom na stanowisku służbowym zajmowanym przez policjanta lub planowanym do objęcia.
 § 11. Policjant przed rozpoczęciem urlopu wypoczynkowego i dodatkowego jest obowiązany pisemnie zawiadomić bezpośredniego przełożonego o przewidywanym miejscu pobytu i sposobie nawiązania z nim kontaktu podczas urlopu.
@@ -105,6 +106,7 @@ w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjant�
 2. Potwierdzeniem rozliczenia się z otrzymanego wyposażenia i obowiązków służbowych jest karta obiegowa.
 3. Z obowiązku, o którym mowa w ust. 1, policjanta rozlicza bezpośredni przełożony, który w karcie obiegowej określa zakres i termin rozliczenia.
 4. Po bezskutecznym upływie terminu rozliczenia w przypadku, o którym mowa w ust. 1 pkt 1, rozliczenia dokonuje bezpośredni przełożony policjanta.
+§ 19. 1. Nawiązanie, zmiana i rozwiązanie stosunku służbowego następuje przez wydanie rozkazu personalnego odpowiednio o mianowaniu, wyznaczeniu lub powołaniu na stanowisko służbowe, przeniesieniu, zwolnieniu lub odwołaniu z tego stanowiska albo o zwolnieniu ze służby.
 2. Do postępowania w sprawach osobowych dotyczących nawiązania, zmiany i rozwiązania stosunku służbowego w zakresie nieuregulowanym rozporządzeniem stosuje się przepisy Kodeksu postępowania administracyjnego.
 § 20. 1. Rozkaz personalny o mianowaniu policjanta na stanowisko służbowe powinien w szczególności zawierać:
 1) oznaczenie przełożonego właściwego w sprawach osobowych;
@@ -137,6 +139,7 @@ Potwierdzenie włącza się do akt osobowych policjanta.
 8) podpis z podaniem imienia i nazwiska oraz stanowiska służbowego osoby uprawnionej do wydania rozkazu personalnego.
 § 23. Kopię rozkazu personalnego wraz z potwierdzeniem jego doręczenia włącza się do akt osobowych policjanta.
 § 24. Przełożony właściwy w sprawach osobowych po otrzymaniu ostatecznego orzeczenia komisji lekarskiej o trwałej niezdolności do służby policjanta niezwłocznie zwalnia go od zajęć służbowych na okres do dnia zwolnienia ze służby.
+§ 25. 1. Przełożony właściwy w sprawach osobowych lub osoba przez niego upoważniona wydaje świadectwo służby bezpośrednio policjantowi albo osobie przez niego upoważnionej na piśmie, w dniu zwolnienia ze służby. Odbierający świadectwo służby potwierdza ten fakt na kopii czytelnym podpisem oraz datą.
 2. Jeżeli wydanie świadectwa służby w dniu zwolnienia ze służby nie jest możliwe, przełożony właściwy w sprawach osobowych nie później niż w ciągu 7 dni od dnia zwolnienia ze służby przesyła je policjantowi albo osobie przez niego upoważnionej, za pośrednictwem poczty lub doręcza w inny sposób.
 3. Świadectwo służby zawiera informacje niezbędne do ustalenia uprawnień wynikających ze stosunku służbowego i uprawnień z ubezpieczenia społecznego, dotyczące:
 1) charakteru służby (kandydacka, kontraktowa, przygotowawcza lub stała) oraz okresu jej pełnienia, a także nazwę jednostki organizacyjnej Policji;
@@ -178,6 +181,7 @@ W przypadku nieuwzględnienia odwołania przełożony przesyła je wyższemu prz
 2) nie uwzględnia odwołania.
 4. Odmowa uwzględnienia odwołania wymaga pisemnego uzasadnienia.
 5. W przypadku wydania nowej opinii przełożony właściwy w sprawach osobowych, który wydał opinię, niszczy poprzednio sporządzoną opinię.
+§ 33. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 września 2002 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. poz. 1261).
 § 34. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 WZÓR ŚWIADECTWO SŁUŻBY
 1. Stwierdza się, że ...............................................................................................................................................................
@@ -232,13 +236,13 @@ na stanowisku ..................................................................
 POUCZENIE Opiniowany(a) w terminie 7 dni od daty otrzymania opinii ma prawo wnieść odwołanie do wyższego przełożonego, za pośrednictwem wydającego opinię.
 ..........................................................................
 
-#### Rozdział 1 Przepisy ogólne § 1. Użyte w rozporządzeniu określenia oznaczają:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Szczegółowe prawa i obowiązki policjantów § 4. (uchylony).
+#### Rozdział 2 Szczegółowe prawa i obowiązki policjantów
 
-#### Rozdział 3 Przebieg służby policjantów § 19. 1. Nawiązanie, zmiana i rozwiązanie stosunku służbowego następuje przez wydanie rozkazu personalnego odpowiednio o mianowaniu, wyznaczeniu lub powołaniu na stanowisko służbowe, przeniesieniu, zwolnieniu lub odwołaniu z tego stanowiska albo o zwolnieniu ze służby.
+#### Rozdział 3 Przebieg służby policjantów
 
-#### Rozdział 4 Świadectwo służby i opinia o służbie § 25. 1. Przełożony właściwy w sprawach osobowych lub osoba przez niego upoważniona wydaje świadectwo służby bezpośrednio policjantowi albo osobie przez niego upoważnionej na piśmie, w dniu zwolnienia ze służby. Odbierający świadectwo służby potwierdza ten fakt na kopii czytelnym podpisem oraz datą.
+#### Rozdział 4 Świadectwo służby i opinia o służbie
 
-#### Rozdział 5 Przepisy końcowe § 33. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 września 2002 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. poz. 1261).
+#### Rozdział 5 Przepisy końcowe
 

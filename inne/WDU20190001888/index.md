@@ -8,10 +8,10 @@ pos: 1888
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 października 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1888
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001888) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1888/text.pdf) |
 
-4
 1. Artyleryjska broń palna (haubice, armaty, moździerze, armatomoździerze, armatohaubice i haubicoarmaty, działa bezodrzutowe), wyrzutnie pocisków rakietowych, zespoły bojowe wyrzutni ładunków wydłużonych, wojskowe miotacze ognia.
 2. Strzelecka broń palna (strzelby, karabiny, karabinki, rewolwery, pistolety, pistolety maszynowe, karabiny i karabinki maszynowe).
 3. Granatniki, w tym samodzielne i podwieszane.
@@ -55,7 +54,7 @@ source: "isap-pdf"
 1) pociski i korpusy pocisków;
 2) ładunki miotające, w tym podsypki prochowe;
 3) łuski;
-5
+4
 4) zapalniki;
 5) zapłonniki;
 6) podpociski do pocisków kasetowych;
@@ -93,7 +92,7 @@ g) wkrętki głowicowe.
 1) imitatory celów, strzałów i wybuchów;
 2) ładunki pozoracyjne, dymne, błyskowo-dymne;
 3) petardy hukowe i hukowo-błyskowe.
-6
+5
 1. Toksyczne związki chemiczne (TZC) i materiały promieniotwórcze przygotowane do: spowodowania utraty życia, zdrowia lub wywołania trwałego uszczerbku na zdrowiu, niekorzystnych zmian w środowisku naturalnym oraz wywoływania szkód materialnych.
 Obejmuje wszystkie substancje bez względu na pochodzenie lub sposób produkcji, takich rodzajów i w takich ilościach, które nie są przeznaczone do wykorzystania w celach: profilaktycznych, ochronnych lub w innych utylitarnych i pokojowych.
 2. Do toksycznych związków chemicznych zalicza się:
@@ -101,7 +100,7 @@ Obejmuje wszystkie substancje bez względu na pochodzenie lub sposób produkcji,
 Soman: metylofluorofosfonian 3,3-dimetylobutarn-2-ylu (CAS 96-64-0);
 2) (N,N-Dialkilo (Metylo-, Etylo-, n-Propylo lub i-Propylo)amido)cyjanofosforany O-alkilu (≤C10, w tym cykloalkil) np. Tabun: (N,N dimetyloamido)cyjanofosforan O-etylu(CAS 77-81-6);
 3) Alkilo(Metylo-, Etylo-, n-Propylo lub i-Propylo)tiofosfoniany O-alkilo (H lub ≤C10, w tym cykloalkil)-S-(2-dialkilo(Me,Et,n-Pr lub i-Pr)amino) etylu i odpowiadające im alkilowane lub protonowane sole np. VX: metylotiofosfonian O-etylo-S-(2-diizopropyloamino)etylu (CAS 50782-69-9);
-4) Związki fosforoorganiczne, które w cząsteczce nie zawierają bezpośrednio wiązania C P, występujące pod nazwami w języku angielskim:
+4) Związki fosforoorganiczne, które w cząsteczce nie zawierają bezpośrednio wiązania C – P, występujące pod nazwami w języku angielskim:
 a) O-alkyl-N-fluorophosphoryl amidines,
 b) P-alkyl-N-fluorophosphonyl amidines,
 c) P-alkyl-N-fluorophosphonyl guanidines,
@@ -111,7 +110,7 @@ f) Di(polyfluoroalkyl) fluorophosphates and phosphonates;
 5) Iperyty siarkowe: Sulfid 2-chloroetylowo-chlorometylowy (CAS 2625-76-5), Iperyt siarkowy: sulfid bis (2-chloroetylowy) (CAS 505-60-2), Bis (2-chloroetylotio) metan (CAS 63869-13-6), Seskwiiperyt: 1, 2 bis(2-chloroetylotio)etan (CAS 3563-36-8), 1,3 - bis(2-chloroetylotio) -n-propan (CAS 63905-10-2), 1,4 - bis (2-chloroetylotio) - n-butan (CAS 142868-93-7), 1,5 bis (2-chloroetylotio) - n -pentan (CAS 142868-94-8), Eter bis(2-chloroetylotiometylowy) (CAS 63918-90-1);
 6) Iperyt tlenowy: eter bis (2-chloroetylotioetylowy) (CAS 63918-89-8);
 7) Luizyty: Luizyt 1: (2-chlorowinylo)dichloroarsyna (CAS 541-25-3), Luizyt 2: bis(2-chlorowinylo)chloroarsyna (CAS 40334-69-8), Luizyt 3: tris(2-chlorowinylo)arsyna (CAS 40334-70-1);
-7
+6
 8) Iperyty azotowe: HN1: bis(2-chloroetylo)etyloamina (CAS 538-07-8), HN2: bis(2-chloroetylo)metyloamina (CAS 51-75-2), HN3: tris(2-chloroetylo)amina (CAS 555-77-1);
 9) Saksytoksyna (CAS 35523-89-8);
 10) Rycyna (CAS 9009-86-3);
@@ -132,7 +131,6 @@ f) Di(polyfluoroalkyl) fluorophosphates and phosphonates;
 25) 2-(N,N-Dialkilo(Me, Et, n-Pr lub i-Pr)amino)etanole i odpowiednie protonowane sole. Nie dotyczy: N,N-dimetyloaminoetanolu (CAS 108-01-0) i odpowiednich protonowanych soli N,N-dietyloaminoetanolu (CAS 100-37-8) i odpowiednich protonowanych soli;
 26) 2-(N,N-Dialkilo(Me, Et, n-Pr lub i-Pr)amino)etanotiole i odpowiednie protonowane sole;
 27) Tiodiglikol: sulfid bis(2-hydroksyetylowy) (CAS 111-48-8); Alkohol pinakolinowy: 3,3-dimetylobutan-2-ol (CAS 464-07-3);
-8
 28) Fosgen: dichlorek karbonylu (CAS 75-44-5);
 29) Chlorocyjan (CAS 506-77-4);
 30) Cyjanowodór (CAS 74-90-8);
@@ -160,7 +158,7 @@ d) Dibenzo- (b, f)-1,4-oksazepina (CR) (CAS 257-07-8).
 3. Biokatalizatory i biomolekuły jako substancje stosowane do: produkcji, wytwarzania, identyfikacji i rozkładu TZC, w tym kultury specjalnych komórek, organizmów i drobnoustrojów pochodzące z ukierunkowanej selekcji laboratoryjnej lub manipulacji genetycznej systemów biologicznych, zawierające informację genetyczną.
 4. „Technologia krytyczna” dla „rozwoju”, „produkcji” lub „eksploatacji” TZC oraz odpowiedni sprzęt lub komponenty, które nie służą do celów cywilnych, takich jak: rolne, farmaceutyczne, medyczne, weterynaryjne, środowiskowe, związane z gospodarką odpadami lub produkcją żywności.
 Uwaga: Numery CAS zostały przedstawione jako przykłady. Nie obejmują one wszystkich środków chemicznych ani mieszanin wymienionych w pozycji WT I.
-9 WT II. Sprzęt kierowania ogniem i związany z nim sprzęt do ostrzegania i alarmowania, a także powiązane z nimi systemy, sprzęt kontrolno-pomiarowy, do strojenia i zakłócania specjalnie zaprojektowane do celów wojskowych, a także specjalnie zaprojektowane do nich elementy składowe i ich wyposażenie
+WT II. Sprzęt kierowania ogniem i związany z nim sprzęt do ostrzegania i alarmowania, a także powiązane z nimi systemy, sprzęt kontrolno-pomiarowy, do strojenia i zakłócania specjalnie zaprojektowane do celów wojskowych, a także specjalnie zaprojektowane do nich elementy składowe i ich wyposażenie
 1. Celowniki, przeliczniki bombardierskie, sprzęt naprowadzania uzbrojenia i systemy kierowania ogniem.
 2. Systemy wykrywania, oznaczania celów, pomiaru odległości, obserwacji lub śledzenia celów; wyposażenie wykorzystywane do wykrywania, scalania danych, rozpoznawania lub identyfikacji oraz urządzenia zespalające zespoły czujników.
 3. Sprzęt do przeciwdziałania, wykorzystywany przeciwko urządzeniom określonym w ust. 1 i 2.
@@ -168,7 +166,7 @@ Uwaga: Numery CAS zostały przedstawione jako przykłady. Nie obejmują one wszy
 5. Sprzęt do przeciwdziałania, wykorzystywany przeciwko dronom, niezależnie od jego sposobu działania.
 6. Urządzenia służące do lokalizacji miejsca wystrzału z broni palnej.
 WT III. Pojazdy naziemne, w tym ciągniki (z wyłączeniem cywilnych samochodów lub ciężarówek przeznaczonych do przewozu pieniędzy i przedmiotów o wysokiej wartości wyposażonych w osłony pancerne) i ich elementy, specjalnie zaprojektowane lub zmodyfikowane do celów wojskowych lub policyjnych
-1. Czołgi i inne uzbrojone pojazdy wojskowe oraz pojazdy wojskowe wyposażone w podstawy montażowe uzbrojenia pokładowego lub sprzęt do kładzenia min lub wystrzeliwania amunicji wymienionej w Części III BA.
+1. Czołgi i inne uzbrojone pojazdy wojskowe oraz pojazdy wojskowe wyposażone w podstawy montażowe uzbrojenia pokładowego lub sprzęt do kładzenia min lub wystrzeliwania amunicji wymienionej w Części III – BA.
 2. Pojazdy opancerzone.
 3. Pojazdy pływające lub posiadające zdolność pokonywania w bród głębokich przeszkód wodnych.
 4. Pojazdy ratownictwa technicznego oraz specjalistyczne pojazdy przeznaczone do holowania lub przewozu amunicji lub systemów uzbrojenia oraz związanych z nimi urządzeń do manipulowania ładunkami.
@@ -178,7 +176,7 @@ Uwaga: WT III obejmuje również: modyfikacje pojazdu naziemnego do celów wojsk
 2) systemy regulacji ciśnienia powietrza w oponach, sterowane z wnętrza pojazdu znajdującego się w ruchu;
 3) opancerzone osłony kluczowych elementów, takich jak zbiorniki paliwa czy kabiny pojazdu;
 4) specjalne wzmocnienia dla uchwytów na broń.
-10 WT IV. Wojenne jednostki pływające, specjalny sprzęt morski i wyposażenie oraz ich części składowe specjalnie zaprojektowane do celów wojskowych
+WT IV. Wojenne jednostki pływające, specjalny sprzęt morski i wyposażenie oraz ich części składowe specjalnie zaprojektowane do celów wojskowych
 1. Bojowe jednostki pływające i jednostki (nawodne lub podwodne) przeznaczone do działań ofensywnych lub obronnych, niezależnie od tego, czy zostały przekształcone do celów wojskowych, niezależnie od aktualnego stanu technicznego lub zdolności do działania i niezależnie od tego, czy zawierają systemy obronne, opancerzenie, kadłuby lub części kadłubów takich jednostek pływających.
 2. Silniki:
 1) silniki wysokoprężne do okrętów podwodnych, posiadające:
@@ -202,7 +200,6 @@ WT V. Załogowe i bezzałogowe statki powietrzne, lotnicze zespoły napędowe, s
 3. Bezzałogowe statki powietrzne oraz ich systemy i urządzenia, takie jak: startu, lądowania, kierowania i kontroli lotu.
 4. Lotnicze zespoły napędowe statków powietrznych, wymienionych w ust. 2 i 3 oraz zastosowane w pozycji WT III ust. 1, a także części do nich.
 5. Naziemny sprzęt do obsługiwania statków powietrznych wymienionych w ust. 1–3.
-11
 6. Pokładowy sprzęt wysokościowy (skafandry wysokościowe i antyprzeciążeniowe, hełmy wyposażone w układy celownicze lub środki zabezpieczające przed oślepianiem lub bronią jądrową, maski tlenowe, instalacje tlenowe) oraz systemy awaryjnego opuszczania statku powietrznego (fotele katapultowe).
 7. Spadochrony wojskowe:
 1) punktowego zrzutu komandosów;
@@ -228,7 +225,7 @@ WT VI. Sprzęt elektroniczny, specjalnie zaprojektowany do celów wojskowych lub
 2. Lampy generacyjne o zmiennej częstotliwości.
 3. Systemy elektroniczne lub sprzęt przeznaczony do obserwacji i przeszukiwania widma elektromagnetycznego w celu wojskowego rozpoznania lub w celu przeciwdziałania takiej obserwacji i przeszukiwaniu.
 4. Systemy podwodne, włącznie z zakłócającymi akustycznie, magnetycznie oraz pozorującymi, urządzenia do wprowadzania sygnałów do odbiorników sonarów.
-12 WT VII. Sprzęt specjalistyczny do szkolenia, specjalnie zaprojektowany do celów wojskowych lub policyjnych, oraz specjalnie zaprojektowane do niego składniki i akcesoria Specjalistyczny sprzęt do szkolenia obejmuje wojskowe wersje:
+WT VII. Sprzęt specjalistyczny do szkolenia, specjalnie zaprojektowany do celów wojskowych lub policyjnych, oraz specjalnie zaprojektowane do niego składniki i akcesoria Specjalistyczny sprzęt do szkolenia obejmuje wojskowe wersje:
 1) symulatorów lotu (łącznie z wirówkami do szkolenia pilotów lub astronautów);
 2) symulatorów lotów według przyrządów;
 3) symulatorów do szkolenia nawigatorów;
@@ -259,7 +256,6 @@ WT VIII. Sprzęt do odwzorowywania lub zabezpieczania przed ruchami przeciwnika,
 6) piroelektryczne lampy do kamer telewizyjnych;
 7) systemy chłodzące do systemów odwzorowywania;
 8) elektrycznie zwalniane migawki fotochromowe lub elektrooptyczne, umożliwiające uzyskanie czasu naświetlania krótszego niż 100 s, z wyjątkiem migawek stanowiących niezbędny element kamery dużej prędkości;
-13
 9) światłowodowe przetworniki obrazu;
 10) złożone fotokatody półprzewodnikowe, gdy są one specjalnie zaprojektowane do celów wojskowych.
 Uwaga: Ust. 3 obejmuje sprzęt zaprojektowany do ograniczania działania lub skuteczności wojskowych systemów odwzorowywania lub minimalizacji efektów ograniczania.
@@ -283,7 +279,7 @@ c) systemy zdolne do oceny stopnia uszkodzenia celu, jego zniszczenia lub zmusze
 d) urządzenia do sterowania strumieniem, jego wysyłaniem lub nacelowywaniem,
 e) urządzenia do szybkiego przekierowywania wiązki strumienia w celu szybkiego oddziaływania na liczne cele,
 f) adaptacyjne sprzęgacze optyki i fazy,
-g) prądowe inżektory (wtryskiwacze) do strumieni ujemnych jonów wodorowych, 14
+g) prądowe inżektory (wtryskiwacze) do strumieni ujemnych jonów wodorowych,
 h) części składowe akceleratorów, mających zastosowanie w technikach kosmicznych,
 i) aparatura do skupiania strumieni jonów ujemnych,
 j) sprzęt do regulacji i przekierowywania strumienia jonów o wysokiej energii,
@@ -298,7 +294,6 @@ o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742) lub unormowań NATO
 2) przeznaczone lub przystosowane w celu eliminacji emisji ujawniającej lub spełniające wymagania odporności elektromagnetycznej, w tym na działanie impulsu elektromagnetycznego;
 3) przeznaczone lub zmodyfikowane w celu zapewnienia bezpieczeństwa teleinformatycznego.
 2. Dedykowane oprogramowanie urządzeń, narzędzi lub środków ochrony informacji niejawnych wymienionych w ust. 1, z wyłączeniem stosowanego w nich ogólnie dostępnego na rynku oprogramowania.
-15
 3. Technologie o charakterze specjalnym, które są niezbędne do rozwoju, produkcji lub użytkowania wymienionych w ust. 1 i 2 urządzeń, narzędzi lub środków ochrony informacji niejawnych oraz ich oprogramowania.
 Uwaga: Ust. 1 i 2 nie obejmują wyrobów, które spełniają wszystkie niżej wymienione kryteria:
 1) są ogólnie dostępne dla klientów przez sprzedaż gotowego oprogramowania w punktach sprzedaży detalicznej bez żadnych ograniczeń;
@@ -315,10 +310,10 @@ WT XIII. Sprzęt i technologia do produkcji wyrobów
 2. Specjalnie zaprojektowane obiekty do prowadzenia badań środowiskowych oraz specjalnie zaprojektowany sprzęt do celów certyfikacji, kwalifikacji lub badania produktów objętych niniejszym wykazem.
 3. Specyficzna technologia produkcyjna wyrobów objętych niniejszym wykazem i ich specjalnie zaprojektowanych składników, nawet jeżeli sprzęt, w którym ta technologia ma być wykorzystywana, nie jest objęty kontrolą.
 4. Specyficzna technologia używana lub wykorzystywana w projektowaniu, montażu składników, a także działaniu, konserwacji i naprawach pełnych instalacji produkcyjnych, nawet jeżeli ich poszczególne składniki nie są objęte kontrolą, z wyłączeniem technologii do celów cywilnych, takich jak technologie: rolne, farmaceutyczne, medyczne, weterynaryjne, środowiskowe, unieszkodliwiania odpadów czy przemysłu spożywczego.
-16 WT XIV. Wyroby nieujęte w WT I–XIII, a posiadające przeznaczenie wojskowe lub policyjne
-1. Tłumiki dźwięku, specjalne montaże karabinowe oraz celowniki do broni, o której mowa w ust. 1–9 Części III BA.
+WT XIV. Wyroby nieujęte w WT I–XIII, a posiadające przeznaczenie wojskowe lub policyjne
+1. Tłumiki dźwięku, specjalne montaże karabinowe oraz celowniki do broni, o której mowa w ust. 1–9 Części III – BA.
 2. Narzędzia i urządzenia do awaryjnego otwierania mechanicznych urządzeń zabezpieczających (zamykających).
-3. Układy napędowe i kierowania (naprowadzania) do amunicji, o której mowa w ust. 22–24 Części III BA.
+3. Układy napędowe i kierowania (naprowadzania) do amunicji, o której mowa w ust. 22–24 Części III – BA.
 4. Pławy sygnalizacyjne i hydroakustyczne.
 5. Środki i materiały zapalające, w tym:
 1) proszki zagęszczające paliw płynnych;
@@ -329,13 +324,13 @@ WT XIII. Sprzęt i technologia do produkcji wyrobów
 2) granaty dymne, w tym nasadkowe;
 3) elementy środków do maskowania aerodyspersyjnego.
 7. Generatory dymu i gazu.
-8. Urządzenia redukujące odrzut, wtryskiwacze, urządzenia pomiarowe, zbiorniki magazynowe i inne zaprojektowane wyposażenie stosowane do ładunków zawierających paliwo płynne do broni określonej w ust. 1 i 8 Części III BA.
+8. Urządzenia redukujące odrzut, wtryskiwacze, urządzenia pomiarowe, zbiorniki magazynowe i inne zaprojektowane wyposażenie stosowane do ładunków zawierających paliwo płynne do broni określonej w ust. 1 i 8 Części III – BA.
 9. Siatki obezwładniające.
-10. Sprzęt do rozprzestrzeniania materiałów lub środków wymienionych w wykazie WT I Części IV WT i ich komponentów.
-11. Odzież ochronna do ochrony przed materiałami objętymi WT I Części IV WT i ich komponentami oraz urządzenia filtrowentylacyjne do oczyszczania powietrza w warunkach skażeń: promieniotwórczych, biologicznych lub chemicznych.
-12. Sprzęt do wykrywania i identyfikacji materiałów wymienionych w wykazie WT I Część IV WT i jego komponenty Uwaga: Wymienione w ust. 1 wyroby nie obejmują montaży oraz celowników do broni przeznaczonej na rynek cywilny i urządzeń wylotowych, w tym: tłumików płomienia, hamulców wylotowych, osłabiaczy podrzutu oraz wielofunkcyjnych urządzeń wylotowych.
+10. Sprzęt do rozprzestrzeniania materiałów lub środków wymienionych w wykazie WT I Części IV – WT i ich komponentów.
+11. Odzież ochronna do ochrony przed materiałami objętymi WT I Części IV – WT i ich komponentami oraz urządzenia filtrowentylacyjne do oczyszczania powietrza w warunkach skażeń: promieniotwórczych, biologicznych lub chemicznych.
+12. Sprzęt do wykrywania i identyfikacji materiałów wymienionych w wykazie WT I Część IV – WT i jego komponenty Uwaga: Wymienione w ust. 1 wyroby nie obejmują montaży oraz celowników do broni przeznaczonej na rynek cywilny i urządzeń wylotowych, w tym: tłumików płomienia, hamulców wylotowych, osłabiaczy podrzutu oraz wielofunkcyjnych urządzeń wylotowych.
 
-## CZĘŚĆ III RODZAJE BRONI I AMUNICJI BA
+## CZĘŚĆ III – RODZAJE BRONI I AMUNICJI – BA
 
-## CZĘŚĆ IV RODZAJE WYROBÓW I TECHNOLOGII O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM WT WT I. Broń Masowego Rażenia
+## CZĘŚĆ IV – RODZAJE WYROBÓW I TECHNOLOGII O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM – WT WT I. Broń Masowego Rażenia
 

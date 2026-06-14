@@ -8,10 +8,10 @@ pos: 1659
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 sierpnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1659 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 12 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,17 +25,17 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001659) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1659/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 12 lipca 2022 r.
 w sprawie dokumentacji medycznej prowadzonej w podmiotach leczniczych dla osób pozbawionych wolności Na podstawie art. 30 ust. 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
 z 2020 r. poz. 849 oraz z 2022 r. poz. 64 i 974) zarządza się, co następuje:
+§ 1. Rozporządzenie określa rodzaje i zakres dokumentacji medycznej prowadzonej w podmiotach leczniczych dla osób pozbawionych wolności, sposób jej przetwarzania oraz wzory określonych rodzajów dokumentacji medycznej.
 § 2. Użyte w rozporządzeniu wyrażenia oznaczają:
-1) podmiot podmiot leczniczy w rozumieniu art. 4 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974 i 1079), utworzony przez Ministra Sprawiedliwości dla osób pozbawionych wolności;
-2) szpital więzienny szpital w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, pozostający w strukturze zakładu karnego lub aresztu śledczego;
-3) osadzony osobę tymczasowo aresztowaną, skazaną, ukaraną lub osobę wymienioną w art. 589a ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375), która jest ujęta w ewidencji zakładu karnego;
-4) zakład karny zakład karny, areszt śledczy, wyodrębniony oddział aresztu śledczego w zakładzie karnym lub wyodrębniony oddział zakładu karnego w areszcie śledczym.
+1) podmiot – podmiot leczniczy w rozumieniu art. 4 ust. 1 pkt 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974 i 1079), utworzony przez Ministra Sprawiedliwości dla osób pozbawionych wolności;
+2) szpital więzienny – szpital w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, pozostający w strukturze zakładu karnego lub aresztu śledczego;
+3) osadzony – osobę tymczasowo aresztowaną, skazaną, ukaraną lub osobę wymienioną w art. 589a ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375), która jest ujęta w ewidencji zakładu karnego;
+4) zakład karny – zakład karny, areszt śledczy, wyodrębniony oddział aresztu śledczego w zakładzie karnym lub wyodrębniony oddział zakładu karnego w areszcie śledczym.
 § 3. Dokumentacja medyczna, zwana dalej „dokumentacją”, dzieli się na:
-1) dokumentację indywidualną odnoszącą się do poszczególnych osadzonych korzystających ze świadczeń zdrowotnych podmiotu;
-2) dokumentację zbiorczą odnoszącą się do ogółu osadzonych lub określonych grup osadzonych korzystających ze świadczeń zdrowotnych podmiotu;
+1) dokumentację indywidualną – odnoszącą się do poszczególnych osadzonych korzystających ze świadczeń zdrowotnych podmiotu;
+2) dokumentację zbiorczą – odnoszącą się do ogółu osadzonych lub określonych grup osadzonych korzystających ze świadczeń zdrowotnych podmiotu;
 3) dokumentację indywidualną i zbiorczą noworodka lub dziecka, którego matką jest osadzona.
 § 4. 1. Dokumentacja indywidualna dzieli się na dokumentację indywidualną wewnętrzną, przeznaczoną na potrzeby podmiotu, oraz dokumentację indywidualną zewnętrzną, przeznaczoną na potrzeby osadzonego, noworodka lub dziecka, którego matką jest osadzona, lub podmiotów i organów, o których mowa w art. 26 ustawy z dnia 6 listopada 2008 r.
 o prawach pacjenta i Rzeczniku Praw Pacjenta, zwanej dalej „ustawą”.
@@ -56,8 +56,8 @@ b) adres zakładu karnego z numerem telefonu;
 a) nazwisko, imię (imiona) oraz imię ojca,
 b) datę urodzenia,
 c) oznaczenie płci,
-d) adres zameldowania, zamieszkania lub pobytu wyłącznie w pierwszej wytworzonej dla osadzonego dokumentacji,
-e) numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+d) adres zameldowania, zamieszkania lub pobytu – wyłącznie w pierwszej wytworzonej dla osadzonego dokumentacji,
+e) numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 3) dane identyfikujące osobę wykonującą zawód medyczny udzielającą świadczeń zdrowotnych i dokonującą wpisu:
 a) nazwisko i imię,
 b) tytuł zawodowy,
@@ -70,8 +70,8 @@ b) rozpoznanie choroby, problemu zdrowotnego, urazu lub opis stanu funkcjonowani
 c) zlecenia,
 d) informacje o wydanych świadectwach, opiniach lub zaświadczeniach;
 6) informacje dotyczące udzielonych świadczeń zdrowotnych;
-7) dane identyfikujące noworodka datę urodzenia, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym, płeć noworodka, imię i nazwisko, jeżeli noworodek je posiada, oraz nazwisko, imię (imiona) i numer PESEL osadzonej matki, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego jej tożsamość;
-8) dane identyfikujące dziecko datę urodzenia, z podaniem roku, miesiąca i dnia, imię i nazwisko, numer PESEL, jeżeli dziecko go posiada, oraz nazwisko, imię (imiona) i numer PESEL osadzonej matki, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego jej tożsamość;
+7) dane identyfikujące noworodka – datę urodzenia, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym, płeć noworodka, imię i nazwisko, jeżeli noworodek je posiada, oraz nazwisko, imię (imiona) i numer PESEL osadzonej matki, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego jej tożsamość;
+8) dane identyfikujące dziecko – datę urodzenia, z podaniem roku, miesiąca i dnia, imię i nazwisko, numer PESEL, jeżeli dziecko go posiada, oraz nazwisko, imię (imiona) i numer PESEL osadzonej matki, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego jej tożsamość;
 9) dane identyfikujące szpital więzienny:
 a) nazwę szpitala więziennego, w którym sporządzono dokumentację lub w którym jest dokonywany wpis do dokumentacji,
 b) adres szpitala więziennego z numerem telefonu.
@@ -79,7 +79,7 @@ b) adres szpitala więziennego z numerem telefonu.
 2. Jeżeli nie jest możliwe ustalenie tożsamości osadzonego, w dokumentacji umieszcza się oznaczenie „NN”, chyba że inne oznaczenie tożsamości znajduje się w dokumentach stanowiących podstawę wykonywania pozbawienia wolności.
 3. Do prowadzonej dokumentacji indywidualnej wewnętrznej dołącza się kopie przedstawionych przez osadzonego dokumentów medycznych lub odnotowuje się zawarte w nich informacje istotne dla procesu diagnostycznego, leczniczego, pielęgnacyjnego lub rehabilitacyjnego.
 4. Dokument dołączony do dokumentacji wewnętrznej nie może być z niej usunięty.
-5. Każdą stronę dokumentacji indywidualnej, z wyłączeniem kart książki zdrowia, oznacza się co najmniej numerem strony oraz imieniem, nazwiskiem i numerem PESEL osadzonego, a w przypadku jego braku rodzajem, serią i numerem dokumentu potwierdzającego tożsamość osadzonego, natomiast w przypadku noworodka lub dziecka, którego matką jest osadzona danymi identyfikującymi go, o których mowa w § 6 pkt 7 lub 8.
+5. Każdą stronę dokumentacji indywidualnej, z wyłączeniem kart książki zdrowia, oznacza się co najmniej numerem strony oraz imieniem, nazwiskiem i numerem PESEL osadzonego, a w przypadku jego braku – rodzajem, serią i numerem dokumentu potwierdzającego tożsamość osadzonego, natomiast w przypadku noworodka lub dziecka, którego matką jest osadzona – danymi identyfikującymi go, o których mowa w § 6 pkt 7 lub 8.
 6. Osoba wykonująca zawód medyczny kierująca na badanie lub konsultację przekazuje podmiotowi, do którego kieruje osadzonego, noworodka lub dziecko, którego matką jest osadzona, wraz ze skierowaniem inne niezbędne do przeprowadzenia badania lub konsultacji informacje zawarte w szczególności w historii choroby, książce zdrowia lub ambulatoryjnej historii zdrowia i choroby.
 7. Podmiot przeprowadzający badanie lub konsultację przekazuje osobie kierującej na badanie lub konsultację pełne dane o wynikach przeprowadzonych badań lub konsultacji, z podaniem ustalonego rozpoznania.
 § 8. 1. Dokumentację należy prowadzić czytelnie, w języku polskim.
@@ -88,7 +88,8 @@ b) adres szpitala więziennego z numerem telefonu.
 4. Przez dokonywanie wpisów, o których mowa w ust. 2 i 3, rozumie się również trwałe umocowanie do kolejnych stron książki zdrowia albo ambulatoryjnej historii zdrowia i choroby oddzielnych kart z wydrukowanymi na nich, za pomocą urządzeń elektronicznych lub mechanicznych, informacjami medycznymi.
 § 9. Dokumentacja zbiorcza, jeżeli przepisy rozporządzenia nie stanowią inaczej, zawiera kolejny numer wpisu, dane, o których mowa w § 6 pkt 1, pkt 2 lit. a i b, pkt 3 lit. a i b, pkt 4, oraz, jeżeli wynika to z przeznaczenia dokumentacji, istotne informacje medyczne dotyczące udzielonych świadczeń zdrowotnych.
 § 10. Przy dokonywaniu wpisów w dokumentacji dotyczących czasu trwania ciąży, poronień, urodzeń żywych i martwych stosuje się kryteria oceny określone w przepisach wydanych na podstawie art. 30 ust. 1 ustawy.
-1) dokumentację indywidualną wewnętrzną w formie historii choroby;
+§ 11. 1. Szpital więzienny sporządza i prowadzi:
+1) dokumentację indywidualną wewnętrzną – w formie historii choroby;
 2) dokumentację zbiorczą wewnętrzną, składającą się z:
 a) księgi głównej przyjęć i wypisów,
 b) księgi oczekujących na przyjęcie do szpitala więziennego,
@@ -165,7 +166,7 @@ k) okołooperacyjnej karty kontrolnej.
 9) informacje o wykonaniu niezbędnych czynności okołooperacyjnych w sali operacyjnej, w postaci okołooperacyjnej karty kontrolnej;
 10) opis przebiegu rehabilitacji oraz opis stanu funkcjonowania osadzonego, noworodka lub dziecka, którego matką jest osadzona.
 2. Wpisy dotyczące przebiegu hospitalizacji są dokonywane na bieżąco przez osobę udzielającą świadczeń zdrowotnych i okresowo kontrolowane przez ordynatora oddziału.
-3. Wpisy w kartach zleceń lekarskich są dokonywane i podpisywane przez lekarza prowadzącego lub lekarza sprawującego opiekę nad osadzonym, noworodkiem lub dzieckiem, którego matką jest osadzona. Wpisy te obejmują także informacje dotyczące posiłków, o których mowa w przepisach wydanych na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, 472, 1236 i 2054 oraz z 2022 r. poz. 22 i 655).
+3. Wpisy w kartach zleceń lekarskich są dokonywane i podpisywane przez lekarza prowadzącego lub lekarza sprawującego opiekę nad osadzonym, noworodkiem lub dzieckiem, którego matką jest osadzona. Wpisy te obejmują także informacje dotyczące posiłków, o których mowa w przepisach wydanych na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, 472, 1236 i 2054 oraz z 2022 r. poz. 22 i 655).
 Osoba wykonująca zawód medyczny w podmiocie przyjmująca i wykonująca zlecenie dokonuje adnotacji o przyjęciu i adnotacji o wykonaniu zlecenia i opatruje je podpisem.
 4. Wpisy w okołooperacyjnej karcie kontrolnej są dokonywane przez koordynatora karty, którym jest osoba określona w regulaminie organizacyjnym podmiotu.
 5. Koordynator karty, o którym mowa w ust. 4, dokonuje wpisów w okołooperacyjnej karcie kontrolnej na podstawie informacji udzielanych przez członków zespołu operacyjnego, zgodnie z zakresem ich zadań podczas operacji.
@@ -182,7 +183,7 @@ Osoba wykonująca zawód medyczny w podmiocie przyjmująca i wykonująca zleceni
 2) datę operacji;
 3) nazwę komórki organizacyjnej, w której pacjent przebywał;
 4) numer pacjenta w księdze głównej przyjęć i wypisów;
-5) określenie trybu wykonania operacji (planowy, nagły natychmiastowy, pilny, przyspieszony);
+5) określenie trybu wykonania operacji (planowy, nagły – natychmiastowy, pilny, przyspieszony);
 6) potwierdzenie:
 a) tożsamości pacjenta,
 b) operowanego miejsca,
@@ -196,12 +197,12 @@ a) EKG,
 b) pulsoksymetrii,
 c) ciśnienia tętniczego krwi,
 d) kapnometrii;
-10) informację o alergiach (tak ze wskazaniem jakie / nie);
-11) informację o przewidywanych trudnościach w utrzymaniu drożności dróg oddechowych (tak zapewniono właściwy sprzęt / nie);
-12) informację o ryzyku krwawienia > 500 ml u dorosłych albo > 7 ml/kg masy ciała u dzieci (tak zapewniono płyny i preparaty krwiopochodne / nie).
+10) informację o alergiach (tak – ze wskazaniem jakie / nie);
+11) informację o przewidywanych trudnościach w utrzymaniu drożności dróg oddechowych (tak – zapewniono właściwy sprzęt / nie);
+12) informację o ryzyku krwawienia > 500 ml u dorosłych albo > 7 ml/kg masy ciała u dzieci (tak – zapewniono płyny i preparaty krwiopochodne / nie).
 3. Okołooperacyjna karta kontrolna w części dotyczącej czynności wykonywanych przed wykonaniem nacięcia zawiera w szczególności:
 1) informację o potwierdzeniu przez członków zespołu operacyjnego, że znają wzajemnie swoją tożsamość oraz funkcję w zespole operacyjnym (tak/nie);
-2) informację o przedstawieniu się wszystkich członków zespołu (tak/nie) w przypadku gdy członkowie zespołu operacyjnego nie znają się wzajemnie;
+2) informację o przedstawieniu się wszystkich członków zespołu (tak/nie) – w przypadku gdy członkowie zespołu operacyjnego nie znają się wzajemnie;
 3) potwierdzenie przez operatora, anestezjologa, pielęgniarkę anestezjologiczną i pielęgniarkę operacyjną:
 a) tożsamości pacjenta,
 b) operowanego miejsca,
@@ -213,7 +214,7 @@ a) przez operatora (tak/nie/nie dotyczy),
 b) przez anestezjologa (tak/nie/nie dotyczy),
 c) przez pielęgniarkę operacyjną (tak/nie/nie dotyczy);
 7) informację o zastosowaniu i udokumentowaniu okołooperacyjnej profilaktyki antybiotykowej w okresie do 60 minut przed operacją (tak/nie/nie dotyczy);
-8) informację o zastosowaniu profilaktyki przeciwzakrzepowej (tak ze wskazaniem daty i godziny / nie / nie dotyczy);
+8) informację o zastosowaniu profilaktyki przeciwzakrzepowej (tak – ze wskazaniem daty i godziny / nie / nie dotyczy);
 9) informację o przygotowaniu wyników badań obrazowych (tak/nie/nie dotyczy).
 4. Okołooperacyjna karta kontrolna w części dotyczącej czynności wykonywanych przed opuszczeniem bloku operacyjnego przez osadzonego, noworodka lub dziecko, którego matką jest osadzona, zawiera w szczególności:
 1) potwierdzenie przez zespół operacyjny nazwy wykonanej procedury;
@@ -245,7 +246,7 @@ b) anestezjologa (tak/nie);
 1) dane identyfikujące osadzonego, noworodka lub dziecko, którego matką jest osadzona, o których mowa odpowiednio w § 6 pkt 2, 7 lub 8;
 2) rozpoznanie choroby w języku polskim oraz numery statystyczne choroby zasadniczej i chorób współistniejących, ustalone według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych;
 3) wyniki badań diagnostycznych i konsultacji;
-4) opis zastosowanego leczenia, a w przypadku wykonania zabiegu lub operacji ich datę i rodzaj;
+4) opis zastosowanego leczenia, a w przypadku wykonania zabiegu lub operacji – ich datę i rodzaj;
 5) zlecenia dotyczące dalszego sposobu leczenia, rehabilitacji, żywienia, pielęgnowania lub trybu życia;
 6) orzeczony okres czasowej niezdolności osadzonego do pracy.
 3. W przypadku, o którym mowa w art. 9 ust. 4 ustawy, dopuszcza się podanie w karcie informacyjnej z leczenia szpitalnego rozpoznania w języku łacińskim.
@@ -255,20 +256,20 @@ b) anestezjologa (tak/nie);
 § 21. Księga główna przyjęć i wypisów jest opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz numerem księgi i zawiera:
 1) numer kolejny wpisu w księdze;
 2) datę przyjęcia, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
-3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
 4) numer dokumentu uprawniającego do korzystania z przepustki lub czasowego zezwolenia na opuszczenie zakładu karnego oraz określenie organu, który wystawił ten dokument, jeżeli to konieczne;
 5) rozpoznanie wstępne;
 6) rozpoznanie przy wypisie w języku polskim, z podaniem numerów statystycznych choroby zasadniczej i chorób współistniejących, ustalonych według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych;
 7) rodzaj leczenia, w tym rehabilitacyjnego, a także informacje o wykonanych istotnych badaniach diagnostycznych i konsultacjach oraz wszystkich zabiegach i operacjach;
 8) datę wypisu lub zgonu osadzonego, noworodka lub dziecka, którego matką jest osadzona;
 9) adnotację o miejscu, do którego osadzony, noworodek lub dziecko, którego matką jest osadzona, zostali wypisani;
-10) w razie zgonu osadzonego, noworodka lub dziecka, którego matką jest osadzona jego przyczyny, z podaniem numerów statystycznych choroby zasadniczej i chorób współistniejących, ustalonych według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych;
+10) w razie zgonu osadzonego, noworodka lub dziecka, którego matką jest osadzona – jego przyczyny, z podaniem numerów statystycznych choroby zasadniczej i chorób współistniejących, ustalonych według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych;
 11) dane identyfikujące lekarza wypisującego, o których mowa w § 6 pkt 3 lit. a i b.
 § 22. 1. Księga oczekujących na przyjęcie do szpitala więziennego opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, zawiera:
 1) numer kolejny wpisu w księdze;
 2) datę zgłoszenia osadzonego, noworodka lub dziecka, którego matką jest osadzona;
-3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
-4) dane identyfikujące osobę wykonującą zawód medyczny, o których mowa w § 6 pkt 3 lit. a i b, kierującą na badanie lub leczenie, a w przypadku gdy zlecającym jest osoba z innego podmiotu wykonująca zawód medyczny także dane identyfikujące ten podmiot;
+3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+4) dane identyfikujące osobę wykonującą zawód medyczny, o których mowa w § 6 pkt 3 lit. a i b, kierującą na badanie lub leczenie, a w przypadku gdy zlecającym jest osoba z innego podmiotu wykonująca zawód medyczny – także dane identyfikujące ten podmiot;
 5) rozpoznanie ustalone przez osobę wykonującą zawód medyczny kierującą na badanie lub leczenie;
 6) ustaloną datę planowego przyjęcia oraz nazwę oddziału;
 7) podpis osoby przyjmującej zgłoszenie.
@@ -277,7 +278,7 @@ b) anestezjologa (tak/nie);
 1) numer kolejny wpisu w księdze;
 2) datę przyjęcia, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
 3) numer kolejny wpisu w księdze głównej przyjęć i wypisów;
-4) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+4) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
 5) dane identyfikujące lekarza prowadzącego, o których mowa w § 6 pkt 3 lit. a i b;
 6) datę i godzinę wypisu, przeniesienia do innego oddziału lub zgonu;
 7) rozpoznanie wstępne;
@@ -288,42 +289,42 @@ b) anestezjologa (tak/nie);
 1) numer kolejny wpisu;
 2) datę sporządzenia raportu;
 3) krótką statystykę oddziału, w tym liczbę przyjętych, wypisanych, zmarłych i operowanych;
-4) treść raportu uwzględniającą w szczególności dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8, opis zdarzenia, jego okoliczności i podjęte działania, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym, jeżeli to konieczne;
+4) treść raportu uwzględniającą w szczególności dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8, opis zdarzenia, jego okoliczności i podjęte działania, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym, jeżeli to konieczne;
 5) dane identyfikujące lekarza dokonującego wpisu, o których mowa w § 6 pkt 3;
 6) dane identyfikujące osobę wykonującą zawód medyczny zobowiązaną do codziennego zapoznawania się z treścią raportu lekarskiego, o których mowa w § 6 pkt 3.
 § 25. Księga raportów pielęgniarskich opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz nazwą oddziału zawiera:
 1) datę sporządzenia raportu;
 2) krótką statystykę oddziału, w tym liczbę przyjętych, wypisanych, zmarłych;
-3) treść raportu uwzględniającą w szczególności dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8, opis zdarzenia, jego okoliczności i podjęte działania, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym, jeżeli to konieczne;
+3) treść raportu uwzględniającą w szczególności dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8, opis zdarzenia, jego okoliczności i podjęte działania, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym, jeżeli to konieczne;
 4) dane identyfikujące pielęgniarkę lub położną dokonującą wpisu, o których mowa w § 6 pkt 3.
 § 26. Księga raportów fizjoterapeutycznych opatrzona danymi identyfikującymi podmiot, o których w mowa w § 6 pkt 1, oraz nazwą oddziału zawiera:
 1) datę sporządzenia raportu;
 2) krótką statystykę oddziału, w tym liczbę przyjętych, wypisanych, zmarłych;
-3) treść raportu uwzględniającą w szczególności dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa w § 6 pkt 7 i 8, opis zdarzenia, jego okoliczności i podjęte działania, z podaniem roku, miesiąca oraz godziny i minuty w systemie 24-godzinnym;
+3) treść raportu uwzględniającą w szczególności dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa w § 6 pkt 7 i 8, opis zdarzenia, jego okoliczności i podjęte działania, z podaniem roku, miesiąca oraz godziny i minuty w systemie 24-godzinnym;
 4) dane identyfikujące fizjoterapeutę dokonującego wpisu, o których mowa w § 6 pkt 3.
 § 27. Księga zabiegów komórki organizacyjnej szpitala więziennego opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera:
 1) numer kolejny wpisu w księdze;
 2) datę wykonania zabiegu;
-3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
-4) dane, o których mowa w § 6 pkt 3 lit. a, identyfikujące lekarza zlecającego zabieg lub inną osobę wykonującą zawód medyczny, a w przypadku gdy zlecającym jest lekarz innego podmiotu także dane identyfikujące ten podmiot;
+3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+4) dane, o których mowa w § 6 pkt 3 lit. a, identyfikujące lekarza zlecającego zabieg lub inną osobę wykonującą zawód medyczny, a w przypadku gdy zlecającym jest lekarz innego podmiotu – także dane identyfikujące ten podmiot;
 5) adnotację o rodzaju zabiegu i jego przebiegu.
 § 28. Księga bloku operacyjnego lub sali operacyjnej opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera:
 1) numer kolejny wpisu w księdze;
-2) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+2) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
 3) nazwę oddziału, w którym pacjent przebywał;
-4) rozpoznanie wstępne przed zabiegiem lub operacją oraz dane identyfikujące lekarza kierującego, o których mowa w § 6 pkt 3 lit. a i b, a jeżeli kierującym jest lekarz innego podmiotu także dane identyfikujące ten podmiot;
+4) rozpoznanie wstępne przed zabiegiem lub operacją oraz dane identyfikujące lekarza kierującego, o których mowa w § 6 pkt 3 lit. a i b, a jeżeli kierującym jest lekarz innego podmiotu – także dane identyfikujące ten podmiot;
 5) dane identyfikujące lekarza kwalifikującego pacjenta do zabiegu lub operacji, o których mowa w § 6 pkt 3 lit. a i b;
 6) datę rozpoczęcia oraz zakończenia zabiegu lub operacji, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
 7) adnotacje o rodzaju i przebiegu zabiegu lub operacji;
 8) szczegółowy opis zabiegu lub operacji oraz informacje o zastosowanych produktach leczniczych wraz z rozpoznaniem ostatecznym, podpisany odpowiednio przez osobę wykonującą zabieg lub operację, z podaniem danych identyfikujących tę osobę, o których mowa w § 6 pkt 3;
 9) rodzaj zastosowanego znieczulenia wraz ze szczegółowym opisem podpisanym przez lekarza anestezjologa, a także dane identyfikujące tego lekarza, o których mowa w § 6 pkt 3;
 10) dane, o których mowa w § 6 pkt 3, identyfikujące osoby wchodzące w skład, odpowiednio, zespołu operacyjnego, zespołu zabiegowego, zespołu anestezjologicznego, z wyszczególnieniem osób wykonujących operację lub zabieg oraz osób wykonujących i prowadzących znieczulenie;
-11) zlecenia lekarskie, w tym dotyczące posiłków określone w przepisach wydanych na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy.
+11) zlecenia lekarskie, w tym dotyczące posiłków określone w przepisach wydanych na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy.
 § 29. 1. Księga bloku porodowego lub sali porodowej opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera:
 1) numer kolejny wpisu w księdze;
 2) dane identyfikujące osadzoną kobietę ciężarną, o których mowa w § 6 pkt 2, z podaniem grupy krwi i czynnika Rh;
 3) nazwę oddziału, w którym osadzona kobieta ciężarna przebywała;
-4) rozpoznanie wstępne przed porodem oraz dane identyfikujące lekarza kwalifikującego do porodu, o których mowa w § 6 pkt 3 lit. a i b, a jeżeli kierującym jest lekarz innego podmiotu także dane identyfikujące ten podmiot;
+4) rozpoznanie wstępne przed porodem oraz dane identyfikujące lekarza kwalifikującego do porodu, o których mowa w § 6 pkt 3 lit. a i b, a jeżeli kierującym jest lekarz innego podmiotu – także dane identyfikujące ten podmiot;
 5) datę przyjęcia osadzonej kobiety ciężarnej na blok lub salę porodową, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
 6) datę porodu, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
 7) szczegółowy opis przebiegu porodu, z podaniem czasu trwania poszczególnych okresów porodu, rodzaju udzielonych świadczeń zdrowotnych, informacją o zastosowanych produktach leczniczych, rozpoznaniem poporodowym, podpisany odpowiednio przez osoby uczestniczące lub odbierające poród, z podaniem danych je identyfikujących, o których mowa w § 6 pkt 3;
@@ -332,8 +333,8 @@ b) anestezjologa (tak/nie);
 10) dane dotyczące noworodka, o których mowa w § 6 pkt 7, oraz masę ciała, długość ciała, ocenę według skali Apgar;
 11) datę wypisania osadzonej z bloku porodowego lub sali porodowej, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
 12) adnotację o miejscu, do którego wypisano osadzoną z bloku porodowego lub sali porodowej;
-13) zlecenia lekarskie, w tym dotyczące posiłków określonych w przepisach wydanych na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy;
-14) informację, że poród odbył się metodą operacyjną w przypadku gdy poród odbył się taką metodą.
+13) zlecenia lekarskie, w tym dotyczące posiłków określonych w przepisach wydanych na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy;
+14) informację, że poród odbył się metodą operacyjną – w przypadku gdy poród odbył się taką metodą.
 2. Noworodkowi urodzonemu w szpitalu więziennym zakłada się kartę noworodka, która zawiera:
 1) dane identyfikujące podmiot, o których mowa w § 6 pkt 1;
 2) dane identyfikujące lekarza, o których mowa w § 6 pkt 3;
@@ -343,13 +344,13 @@ b) anestezjologa (tak/nie);
 a) imię i nazwisko,
 b) adres zamieszkania,
 c) wiek,
-d) numer PESEL, a w przypadku jego braku rodzaj, serię i numer dokumentu stwierdzającego tożsamość osadzonej matki,
+d) numer PESEL, a w przypadku jego braku – rodzaj, serię i numer dokumentu stwierdzającego tożsamość osadzonej matki,
 e) grupę krwi oraz czynnik Rh;
 6) dane dotyczące poprzednich ciąż i porodów osadzonej matki noworodka:
 a) liczbę ciąż i porodów, w tym liczbę dzieci żywo i martwo urodzonych,
 b) datę poprzedniego porodu,
 c) inne informacje dotyczące poprzedniego porodu;
-7) dane dotyczące rodzeństwa noworodka: rok urodzenia, stan zdrowia, a w przypadku śmierci przyczynę zgonu;
+7) dane dotyczące rodzeństwa noworodka: rok urodzenia, stan zdrowia, a w przypadku śmierci – przyczynę zgonu;
 8) dane dotyczące obecnej ciąży i przebiegu porodu:
 a) czas trwania ciąży (w tygodniach),
 b) informacje dotyczące przebiegu porodu,
@@ -366,12 +367,12 @@ f) obwód klatki piersiowej,
 g) ocenę według skali Apgar,
 h) urazy okołoporodowe,
 i) stwierdzone nieprawidłowości,
-j) w przypadku martwego urodzenia wskazanie, czy zgon nastąpił przed porodem czy w trakcie porodu;
+j) w przypadku martwego urodzenia – wskazanie, czy zgon nastąpił przed porodem czy w trakcie porodu;
 10) opis postępowania po urodzeniu (odśluzowanie, osuszanie, zaopatrzenie pępowiny, zastosowanie tlenu, intubacja, cewnikowanie żyły pępowinowej, masaż serca, sztuczna wentylacja, zastosowane produkty lecznicze);
 11) informacje o przebiegu obserwacji w kolejnych dobach;
 12) informacje o stanie noworodka w dniu wypisu;
 13) informacje o wykonanych testach przesiewowych, szczepieniach i konsultacjach specjalistycznych;
-14) datę wypisania, a w przypadku zgonu noworodka datę zgonu, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym, oraz opis słowny stanów chorobowych prowadzących do zgonu wraz z odstępami czasu pomiędzy ich wystąpieniem.
+14) datę wypisania, a w przypadku zgonu noworodka – datę zgonu, ze wskazaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym, oraz opis słowny stanów chorobowych prowadzących do zgonu wraz z odstępami czasu pomiędzy ich wystąpieniem.
 3. Noworodkowi urodzonemu w szpitalu więziennym wydaje się książeczkę zdrowia dziecka. Książeczkę zdrowia dziecka wydaje się według wzoru określonego w przepisach wydanych na podstawie art. 30 ust. 1 ustawy.
 4. Noworodkowi urodzonemu w szpitalu więziennym zakłada się kartę rozwoju psychomotorycznego oraz kartę uodpornienia.
 § 30. 1. Księga noworodków opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera:
@@ -383,22 +384,22 @@ j) w przypadku martwego urodzenia wskazanie, czy zgon nastąpił przed porodem c
 § 31. Księga pracowni diagnostycznej opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera:
 1) numer kolejny wpisu w księdze;
 2) datę wpisu i datę wykonania badania;
-3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a i b, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
-4) nazwę komórki organizacyjnej zlecającej badanie, a jeżeli zlecającym jest inny podmiot także dane identyfikujące ten podmiot;
+3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a i b, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+4) nazwę komórki organizacyjnej zlecającej badanie, a jeżeli zlecającym jest inny podmiot – także dane identyfikujące ten podmiot;
 5) dane identyfikujące lekarza zlecającego badanie, o których mowa w § 6 pkt 3 lit. a i b;
 6) adnotację o rodzaju i wyniku badania;
 7) dane identyfikujące osobę wykonującą badanie, o których mowa w § 6 pkt 3 lit. a i b.
 § 32. Księga skierowań i zleceń na świadczenia zdrowotne realizowane poza zakładem karnym opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera:
 1) numer kolejny wpisu w księdze;
 2) datę zlecenia badania lub konsultacji;
-3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
 4) datę realizacji badania lub konsultacji;
 5) wynik badania, zlecenia diagnostyczne lub lecznicze, jeżeli nie zostały wpisane do książki zdrowia;
 6) dane identyfikujące lekarza zlecającego świadczenie zdrowotne, o których mowa w § 6 pkt 3 lit. a i b, lub nazwę podmiotu zlecającego świadczenie zdrowotne;
 7) dane identyfikujące osobę wykonującą świadczenie zdrowotne, o których mowa w § 6 pkt 3 lit. a i b, oraz nazwę podmiotu, jeżeli świadczenia udzielono poza zakładem karnym.
 § 33. 1. Księga odmów przyjęć do szpitala więziennego opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, zawiera:
 1) numer kolejny wpisu w księdze;
-2) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a i b, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+2) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a i b, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
 3) nazwę podmiotu zlecającego świadczenie zdrowotne oraz dane identyfikujące lekarza kierującego, o których mowa w § 6 pkt 3 lit. a i b, wraz z rozpoznaniem ustalonym przez tego lekarza lub adnotacją o braku skierowania;
 4) datę badania lekarskiego, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
 5) istotne dane z przeprowadzonego badania lekarskiego podmiotowego i przedmiotowego oraz wyniki wykonanych badań diagnostycznych lub konsultacji;
@@ -412,15 +413,16 @@ j) w przypadku martwego urodzenia wskazanie, czy zgon nastąpił przed porodem c
 2. W przypadku odmowy przyjęcia osadzonego do szpitala więziennego lekarz wykonujący świadczenie zdrowotne odnotowuje w książce zdrowia informacje o ustalonym rozpoznaniu choroby, problemu zdrowotnego lub urazu, wynikach przeprowadzonych badań i konsultacji, przyczynie odmowy przyjęcia do szpitala więziennego, udzielonych świadczeniach zdrowotnych oraz ewentualnych zleceniach.
 3. W przypadku odmowy przyjęcia do szpitala więziennego noworodka lub dziecka, którego matką jest osadzona, informacje, o których mowa w ust. 2, lekarz wykonujący świadczenie zdrowotne odnotowuje w książce zdrowia osadzonej matki.
 § 34. 1. Księga zgonów opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, zawiera:
-1) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+1) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
 2) datę zgonu, z podaniem roku, miesiąca, dnia oraz godziny i minuty w systemie 24-godzinnym;
 3) przyczynę zgonu;
 4) miejsce zgonu.
 2. Podmiot prowadzi jedną księgę zgonów dla wszystkich jego komórek organizacyjnych.
 § 35. Książka transfuzyjna opatrzona danymi, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera informacje określone w przepisach wydanych na podstawie art. 21 ust. 8 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2021 r. poz. 1749 oraz z 2022 r. poz. 974).
+§ 36. Podmiot udzielający świadczeń zdrowotnych w warunkach ambulatoryjnych sporządza i prowadzi:
 1) dokumentację indywidualną wewnętrzną:
-a) osadzonego w formie książki zdrowia,
-b) noworodka i dziecka, którego matką jest osadzona w formie ambulatoryjnej historii zdrowia i choroby;
+a) osadzonego – w formie książki zdrowia,
+b) noworodka i dziecka, którego matką jest osadzona – w formie ambulatoryjnej historii zdrowia i choroby;
 2) dokumentację indywidualną zewnętrzną, z wyłączeniem karty informacyjnej z leczenia szpitalnego;
 3) dokumentację zbiorczą w formie:
 a) księgi ambulatoryjnej przyjęć prowadzonej odrębnie dla każdej komórki organizacyjnej,
@@ -450,8 +452,7 @@ f) księgi zgonów.
 2) dane z badania lekarskiego podmiotowego i przedmiotowego;
 3) rozpoznanie choroby, problemu zdrowotnego lub urazu;
 4) informację o zleconych badaniach diagnostycznych, konsultacjach lub hospitalizacji;
-5) adnotacje o zleconych produktach leczniczych, wyrobach medycznych, zabiegach, innych świadczeniach zdrowotnych lub posiłkach określonych w przepisach wydanych na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r.
-Kodeks karny wykonawczy;
+5) adnotacje o zleconych produktach leczniczych, wyrobach medycznych, zabiegach, innych świadczeniach zdrowotnych lub posiłkach określonych w przepisach wydanych na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy;
 6) wyniki badań diagnostycznych lub konsultacji;
 7) opis udzielonych świadczeń zdrowotnych;
 8) adnotację o orzeczonym okresie czasowej niezdolności osadzonego do pracy.
@@ -479,7 +480,7 @@ Kodeks karny wykonawczy;
 3) datę ewentualnego kolejnego szczepienia, jeżeli zachodzi taka potrzeba;
 4) dane identyfikujące osobę wykonującą szczepienie, o których mowa w § 6 pkt 3;
 5) dane identyfikujące podmiot, o których mowa w § 6 pkt 1, oraz nazwę komórki organizacyjnej.
-9. Wpisy o zastosowaniu wyżywienia obejmują informacje o posiłkach określone w przepisach wydanych na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy.
+9. Wpisy o zastosowaniu wyżywienia obejmują informacje o posiłkach określone w przepisach wydanych na podstawie art. 109 § 3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy.
 10. Wpisy w zakresie zleceń farmakologicznych obejmują nazwę produktu leczniczego, jego postać, dawkę, dawkowanie oraz czas trwania leczenia. W przypadkach uzasadnionych względami medycznymi lekarz umieszcza adnotację o przeciwwskazaniach do zamiany zleconego produktu leczniczego na jego odpowiednik. Osoba odbierająca zlecenia potwierdza przyjęcie ich do realizacji.
 11. Do książki zdrowia dołącza się kopie kart informacyjnych z leczenia szpitalnego oraz odpisy lub kopie innych dokumentów medycznych przedstawionych przez osadzonego, pisemne oświadczenie osadzonego lub jego przedstawiciela ustawowego, opiekuna prawnego, innej osoby przez niego wskazanej lub uprawnionej do otrzymywania informacji o stanie jego zdrowia i udzielonych mu świadczeniach zdrowotnych, ze wskazaniem imienia i nazwiska oraz adresu zamieszkania i numeru telefonu osoby upoważnionej, albo pisemne oświadczenie osadzonego o braku takiego upoważnienia.
 12. Do książki zdrowia dołącza się pisemne oświadczenie osadzonego lub jego przedstawiciela ustawowego o upoważnieniu do uzyskiwania dokumentacji, ze wskazaniem imienia i nazwiska oraz adresu zamieszkania i numeru telefonu osoby upoważnionej, albo pisemne oświadczenie osadzonego o braku takiego upoważnienia.
@@ -510,7 +511,7 @@ Kodeks karny wykonawczy;
 § 40. Księga ambulatoryjna przyjęć opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera:
 1) numer kolejny wpisu;
 2) datę przyjęcia;
-3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a i b, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2 lit. a i b, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
 4) numer dokumentu uprawniającego do korzystania z przepustki lub czasowego zezwolenia na opuszczenie zakładu karnego oraz określenie organu, który wystawił ten dokument, jeżeli to konieczne;
 5) rozpoznanie;
 6) rodzaj udzielonego świadczenia zdrowotnego, wraz ze zleceniami diagnostycznymi lub leczniczymi;
@@ -521,18 +522,19 @@ Kodeks karny wykonawczy;
 § 43. Księga konsultacji i badań specjalistycznych opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, oraz nazwą komórki organizacyjnej zawiera:
 1) numer kolejny wpisu;
 2) datę zlecenia badania lub konsultacji;
-3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+3) dane identyfikujące osadzonego, o których mowa w § 6 pkt 2, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
 4) datę realizacji badania lub konsultacji;
 5) wynik badania, zlecenia diagnostyczne lub lecznicze, jeżeli nie zostały wpisane do książki zdrowia.
 § 44. Księga izby chorych opatrzona danymi identyfikującymi podmiot, o których mowa w § 6 pkt 1, zawiera:
 1) numer kolejny wpisu;
-2) dane identyfikacyjne osadzonego, o których mowa w § 6 pkt 2 lit. a i b, a w przypadku noworodka lub dziecka, którego matką jest osadzona dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
+2) dane identyfikacyjne osadzonego, o których mowa w § 6 pkt 2 lit. a i b, a w przypadku noworodka lub dziecka, którego matką jest osadzona – dane ich identyfikujące, o których mowa odpowiednio w § 6 pkt 7 lub 8;
 3) rozpoznanie wstępne w języku polskim;
 4) datę umieszczenia pacjenta w izbie chorych;
 5) datę wypisania pacjenta z izby chorych;
 6) liczbę dni pobytu pacjenta w izbie chorych;
 7) rozpoznanie ostateczne w języku polskim, z podaniem numerów statystycznych choroby zasadniczej i chorób współistniejących, ustalonych według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych.
 § 45. Do księgi zgonów sporządzanej i prowadzonej przez podmiot udzielający świadczeń zdrowotnych jedynie w warunkach ambulatoryjnych stosuje się odpowiednio przepis § 34.
+§ 46. 1. Dokumentację medyczną uważa się za zabezpieczoną, jeżeli w sposób ciągły są spełnione łącznie następujące warunki:
 1) jest zapewniona jej dostępność wyłącznie dla osób uprawnionych;
 2) jest ona chroniona przed przypadkowym lub nieuprawnionym zniszczeniem;
 3) są zastosowane metody i środki ochrony dokumentacji, których skuteczność w czasie ich zastosowania jest powszechnie uznawana.
@@ -548,11 +550,13 @@ Kodeks karny wykonawczy;
 § 48. 1. Książkę zdrowia prowadzoną w postaci papierowej dołącza się do akt ewidencyjnych osadzonego i przechowuje się w zamkniętej kopercie w archiwum zakładowym zakładu karnego, z którego osadzony został zwolniony.
 2. Do ambulatoryjnej historii zdrowia i choroby prowadzonej w postaci papierowej przepis ust. 1 stosuje się odpowiednio.
 § 49. W przypadku likwidacji podmiotu dokumentacja jest przekazywana jednostce organizacyjnej przejmującej jego zadania albo archiwum zakładowemu jednostki organizacyjnej Służby Więziennej wskazanemu przez organ, który dokonał likwidacji.
+§ 50. 1. Podmiot udostępnia dokumentację bez zbędnej zwłoki.
 2. Dokumentację udostępnia kierownik podmiotu lub osoba przez niego upoważniona.
 § 51. 1. W przypadku wydania oryginału dokumentacji podmiot pozostawia jej kopię lub odpis zawierający istotne informacje dotyczące dotychczasowego procesu diagnostyczno-terapeutycznego, na których odnotowuje fakt wydania dokumentacji i jej formę oraz wskazuje osobę, której wydano dokumentację, i datę wydania.
 2. W dokumentacji indywidualnej wewnętrznej dokonuje się wpisu o wydaniu dokumentacji indywidualnej zewnętrznej i załącza się jej kopię lub pełny odpis. W przypadku gdy zwłoka w wydaniu dokumentacji medycznej mogłaby narazić osadzonego, noworodka lub dziecko, którego matką jest osadzona, na szkodę, w dokumentacji indywidualnej wewnętrznej dokonuje się jedynie wpisu o wydaniu dokumentacji indywidualnej zewnętrznej.
 § 52. W przypadku gdy udostępnienie dokumentacji nie jest możliwe, odmowa wymaga zachowania formy pisemnej oraz podania przyczyny.
 § 53. Oryginały dokumentów, o których mowa w § 13 ust. 2, zwraca się za pokwitowaniem odbioru osadzonemu przy wypisie ze szpitala więziennego, a ich kopie pozostawia się w dokumentacji wewnętrznej szpitala więziennego.
+§ 54. Dokumentacja może być prowadzona w postaci elektronicznej pod warunkiem prowadzenia jej w systemie teleinformatycznym zapewniającym:
 1) zabezpieczenie dokumentacji przed uszkodzeniem lub utratą;
 2) zachowanie integralności i wiarygodności dokumentacji;
 3) stały dostęp do dokumentacji dla osób uprawnionych oraz zabezpieczenie przed dostępem osób nieuprawnionych;
@@ -570,20 +574,21 @@ Kodeks karny wykonawczy;
 1) normy międzynarodowe;
 2) Polskie Normy;
 3) europejskie normy tymczasowe.
+§ 59. Dotychczasowe książki zdrowia stają się książkami zdrowia w rozumieniu przepisów niniejszego rozporządzenia i dokonuje się w nich kolejnych wpisów na podstawie niniejszego rozporządzenia.
 § 60. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Sprawiedliwości: Z. Ziobro
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa rodzaje i zakres dokumentacji medycznej prowadzonej w podmiotach leczniczych dla osób pozbawionych wolności, sposób jej przetwarzania oraz wzory określonych rodzajów dokumentacji medycznej.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Dokumentacja w szpitalach więziennych § 11. 1. Szpital więzienny sporządza i prowadzi:
+#### Rozdział 2 Dokumentacja w szpitalach więziennych
 
-#### Rozdział 3 Dokumentacja podmiotu udzielającego świadczeń zdrowotnych w warunkach ambulatoryjnych § 36. Podmiot udzielający świadczeń zdrowotnych w warunkach ambulatoryjnych sporządza i prowadzi:
+#### Rozdział 3 Dokumentacja podmiotu udzielającego świadczeń zdrowotnych w warunkach ambulatoryjnych
 
-#### Rozdział 4 Zabezpieczenie i przechowywanie dokumentacji § 46. 1. Dokumentację medyczną uważa się za zabezpieczoną, jeżeli w sposób ciągły są spełnione łącznie następujące warunki:
+#### Rozdział 4 Zabezpieczenie i przechowywanie dokumentacji
 
-#### Rozdział 5 Udostępnianie dokumentacji § 50. 1. Podmiot udostępnia dokumentację bez zbędnej zwłoki.
+#### Rozdział 5 Udostępnianie dokumentacji
 
-#### Rozdział 6 Szczególne wymagania dotyczące dokumentacji prowadzonej w postaci elektronicznej § 54. Dokumentacja może być prowadzona w postaci elektronicznej pod warunkiem prowadzenia jej w systemie teleinformatycznym zapewniającym:
+#### Rozdział 6 Szczególne wymagania dotyczące dokumentacji prowadzonej w postaci elektronicznej
 
-#### Rozdział 7 Przepisy przejściowe i końcowe § 59. Dotychczasowe książki zdrowia stają się książkami zdrowia w rozumieniu przepisów niniejszego rozporządzenia i dokonuje się w nich kolejnych wpisów na podstawie niniejszego rozporządzenia.
+#### Rozdział 7 Przepisy przejściowe i końcowe
 

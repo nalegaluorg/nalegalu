@@ -8,10 +8,12 @@ pos: 228
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 12 grudnia 2013 r. o zmianie ustawy – Prawo łowieckie
+# o zmianie ustawy – Prawo łowieckie
+
+*USTAWA z dnia 12 grudnia 2013 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +29,11 @@ source: "eli-html"
 
 **Art. 1.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2013 r. poz. 1226 i 1247) wprowadza się następujące zmiany:
 
-#### Rozdział 6a Odpowiedzialność dyscyplinarna
+- **1)** w art. 32 w ust. 4 pkt 11 otrzymuje brzmienie: „11) sankcje porządkowe za naruszenie obowiązków członkowskich;”;
+- **2)** w art. 32a w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „4) Główny Sąd Łowiecki i okręgowe sądy łowieckie jako organy orzekające w postępowaniu dyscyplinarnym;
+- **5)** Główny Rzecznik Dyscyplinarny i okręgowi rzecznicy dyscyplinarni jako organy prowadzące dochodzenia dyscyplinarne.”;
+- **3)** w art. 33 ust. 6 otrzymuje brzmienie: „6. W sprawach utraty członkostwa w kole łowieckim, nabycia lub utraty członkostwa w Polskim Związku Łowieckim po wyczerpaniu postępowania wewnątrzorganizacyjnego albo od orzeczeń i postanowień kończących postępowanie dyscyplinarne stronom postępowania przysługuje, w terminie 14 dni od otrzymania rozstrzygnięcia kończącego postępowanie, odwołanie do sądu okręgowego, z zastrzeżeniem art. 42da ust. 3. Od orzeczenia sądu okręgowego kasacja nie przysługuje.”;
+- **4)** po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „Rozdział 6a Odpowiedzialność dyscyplinarna
 
 **Art. 35b.**
 
@@ -39,6 +45,8 @@ source: "eli-html"
 
 2. Odpowiedzialność dyscyplinarna obejmuje także pomocnictwo lub podżeganie do przewinienia łowieckiego.
 
+**Art. 35c.**
+
 1. Karami dyscyplinarnymi są kary zasadnicze i kara dodatkowa.
 
 2. Karami zasadniczymi są:
@@ -47,11 +55,17 @@ source: "eli-html"
 - **2)** zawieszenie w prawach członka Polskiego Związku Łowieckiego na okres od 6 miesięcy do 3 lat;
 - **3)** wykluczenie z Polskiego Związku Łowieckiego.
 
-3. Karą dodatkową jest zakaz pełnienia funkcji w organach Polskiego Związku Łowieckiego i koła łowieckiego na okres do 5 lat. Postępowanie dyscyplinarne o ten sam czyn toczy się niezależnie od postępowania karnego. Postępowanie dyscyplinarne może być zawieszone do czasu zakończenia postępowania karnego. Postępowanie dyscyplinarne obejmuje:
+3. Karą dodatkową jest zakaz pełnienia funkcji w organach Polskiego Związku Łowieckiego i koła łowieckiego na okres do 5 lat.
+
+**Art. 35d.** Postępowanie dyscyplinarne o ten sam czyn toczy się niezależnie od postępowania karnego. Postępowanie dyscyplinarne może być zawieszone do czasu zakończenia postępowania karnego.
+
+**Art. 35e.** Postępowanie dyscyplinarne obejmuje:
 
 - **1)** dochodzenie dyscyplinarne prowadzone przez rzeczników dyscyplinarnych;
 - **2)** postępowanie przed sądami łowieckimi;
 - **3)** postępowanie wykonawcze.
+
+**Art. 35f.**
 
 1. Stronami postępowania dyscyplinarnego są oskarżyciel i obwiniony.
 
@@ -61,19 +75,27 @@ source: "eli-html"
 
 4. Obwiniony ustanawia obrońcę spośród osób mających wykształcenie prawnicze lub członków Polskiego Związku Łowieckiego.
 
+**Art. 35g.**
+
 1. Rzecznik dyscyplinarny wszczyna dochodzenie dyscyplinarne jeżeli zachodzi uzasadnione podejrzenie popełnienia przewinienia łowieckiego.
 
 2. Postępowanie przed sądem łowieckim wszczyna się na wniosek rzecznika dyscyplinarnego.
 
 3. W postępowaniu dyscyplinarnym zastępca rzecznika dyscyplinarnego wykonuje prawa i obowiązki rzecznika dyscyplinarnego.
 
+**Art. 35h.**
+
 1. W razie śmierci obwinionego postępowanie dyscyplinarne umarza się.
 
 2. W razie utraty przez obwinionego członkostwa w Polskim Związku Łowieckim postępowanie dyscyplinarne toczy się nadal.
 
+**Art. 35i.**
+
 1. Nie wszczyna się postępowania dyscyplinarnego, a wszczęte umarza się, gdy od chwili popełnienia przewinienia łowieckiego upłynęło 5 lat.
 
 2. Jeżeli przewinienie łowieckie zawiera znamiona przestępstwa, przedawnienie następuje dopiero z upływem okresu przedawnienia karalności tego przestępstwa.
+
+**Art. 35j.**
 
 1. Postępowanie przed sądami łowieckimi jest dwuinstancyjne.
 
@@ -81,21 +103,31 @@ source: "eli-html"
 
 3. Orzeczenia lub postanowienia kończące postępowanie w sprawie sąd doręcza stronom wraz z pisemnym uzasadnieniem.
 
+**Art. 35k.**
+
 1. Właściwym do rozpoznania sprawy w pierwszej instancji jest okręgowy sąd łowiecki.
 
 2. Właściwym do rozpoznania sprawy w pierwszej instancji członków organów wymienionych w art. 32a oraz członków innych organów krajowych określonych statutem Polskiego Związku Łowieckiego jest Główny Sąd Łowiecki.
 
 3. W przypadku dochodzenia dyscyplinarnego członków organów Polskiego Związku Łowieckiego, o których mowa w ust. 2, sprawy prowadzi Główny Rzecznik Dyscyplinarny.
 
+**Art. 35l.**
+
 1. Orzekanie w sprawach, o których mowa w art. 35k ust. 1 i 2, następuje w składzie trzyosobowym, z zastrzeżeniem art. 35m ust. 2.
 
 2. Prezes właściwego sądu łowieckiego wyznacza skład orzekający oraz przewodniczącego składu orzekającego spośród jego członków.
+
+**Art. 35m.**
 
 1. Od orzeczeń i postanowień okręgowych sądów łowieckich kończących postępowanie w sprawie stronom przysługuje odwołanie do Głównego Sądu Łowieckiego.
 
 2. Od orzeczeń i postanowień Głównego Sądu Łowieckiego wydanych w pierwszej instancji stronom przysługuje odwołanie do składu 5 sędziów tego sądu.
 
-3. Od orzeczeń i postanowień kończących postępowanie w sprawie stronom przysługuje odwołanie w terminie 14 dni od dnia doręczenia odpisu orzeczenia albo postanowienia wraz z uzasadnieniem i pouczeniem o terminie i trybie wniesienia odwołania do organu wyższej instancji. Sędziowie sądów łowieckich, w zakresie orzekania w sprawach dyscyplinarnych są niezawiśli i podlegają tylko przepisom prawa.
+3. Od orzeczeń i postanowień kończących postępowanie w sprawie stronom przysługuje odwołanie w terminie 14 dni od dnia doręczenia odpisu orzeczenia albo postanowienia wraz z uzasadnieniem i pouczeniem o terminie i trybie wniesienia odwołania do organu wyższej instancji.
+
+**Art. 35n.** Sędziowie sądów łowieckich, w zakresie orzekania w sprawach dyscyplinarnych są niezawiśli i podlegają tylko przepisom prawa.
+
+**Art. 35o.**
 
 1. Naczelna Rada Łowiecka powołuje na 5-letnią wspólną kadencję:
 
@@ -119,31 +151,36 @@ source: "eli-html"
 
 6. Sądy łowieckie oraz rzecznicy dyscyplinarni są obowiązani działać do czasu wyboru nowych organów.
 
+**Art. 35p.**
+
 1. Koszty postępowania dyscyplinarnego stanowią wszelkie wydatki poniesione w związku z tym postępowaniem.
 
-2. W przypadku prawomocnego ukarania koszty postępowania dyscyplinarnego ponosi ukarany. Ukaranie przez sąd łowiecki ulega zatarciu po upływie 5 lat od dnia uprawomocnienia się orzeczenia dyscyplinarnego.
+2. W przypadku prawomocnego ukarania koszty postępowania dyscyplinarnego ponosi ukarany.
+
+**Art. 35r.** Ukaranie przez sąd łowiecki ulega zatarciu po upływie 5 lat od dnia uprawomocnienia się orzeczenia dyscyplinarnego.
+
+**Art. 35s.**
 
 1. Szczegółowe zasady funkcjonowania sądów łowieckich oraz rzeczników dyscyplinarnych, a także szczegółowe zasady postępowania przed tymi organami określi regulamin sądów łowieckich i rzeczników dyscyplinarnych Polskiego Związku Łowieckiego uchwalony przez Naczelną Radę Łowiecką.
 
-2. W sprawach nieuregulowanych w niniejszym rozdziale do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm.). Ilekroć w niniejszym rozdziale jest mowa o:
+2. W sprawach nieuregulowanych w niniejszym rozdziale do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ).
+
+**Art. 35t.** Ilekroć w niniejszym rozdziale jest mowa o:
 
 - **1)** sądzie łowieckim – należy przez to rozumieć okręgowy sąd łowiecki i Główny Sąd Łowiecki;
-- **2)** rzeczniku dyscyplinarnym – należy przez to rozumieć okręgowego rzecznika dyscyplinarnego i Głównego Rzecznika Dyscyplinarnego. ” ;
-- **5)** po art. 42d dodaje się art. 42da w brzmieniu: „ Art. 42da.
-
-1. Po dokonaniu oceny, o której mowa w art. 42d, komisje sporządzają sprawozdanie ze swoich prac i przekazują je do wskazanych statutem Polskiego Związku Łowieckiego organów okręgowych, które wobec osób dokonujących odstrzału nakładają, w formie uchwał, następujące kary porządkowe za naruszenie zasad selekcji osobniczej:
-
+- **2)** rzeczniku dyscyplinarnym – należy przez to rozumieć okręgowego rzecznika dyscyplinarnego i Głównego Rzecznika Dyscyplinarnego.”;
+- **5)** po art. 42d dodaje się art. 42da w brzmieniu: „Art. 42da. 1. Po dokonaniu oceny, o której mowa w art. 42d, komisje sporządzają sprawozdanie ze swoich prac i przekazują je do wskazanych statutem Polskiego Związku Łowieckiego organów okręgowych, które wobec osób dokonujących odstrzału nakładają, w formie uchwał, następujące kary porządkowe za naruszenie zasad selekcji osobniczej:
 - **1)** nagany;
 - **2)** zawieszenia w prawach polowania na określony gatunek samców zwierzyny płowej i muflonów na okres do 2 lat;
 - **3)** zawieszenia w prawach polowania na samce zwierzyny płowej i muflony na okres do 2 lat.
 
 2. Od uchwały, o której mowa w ust. 1, służy stronie odwołanie do okręgowej rady łowieckiej w terminie 14 dni od dnia doręczenia tej uchwały.
 
-3. Na uchwałę okręgowej rady łowieckiej przysługuje stronie skarga do wojewódzkiego sądu administracyjnego w terminie 14 dni od dnia doręczenia tej uchwały. ” .
+3. Na uchwałę okręgowej rady łowieckiej przysługuje stronie skarga do wojewódzkiego sądu administracyjnego w terminie 14 dni od dnia doręczenia tej uchwały.”.
 
 **Art. 2.** Do spraw z zakresu odpowiedzialności dyscyplinarnej wszczętych przed dniem 21 listopada 2012 r., a niezakończonych prawomocnym orzeczeniem sądu łowieckiego, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Do spraw nabycia lub utraty członkostwa w Polskim Związku Łowieckim oraz utraty członkostwa w kole łowieckim wszczętych przed sądami powszechnymi przed wejściem w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+**Art. 3.** Do spraw nabycia lub utraty członkostwa w Polskim Związku Łowieckim oraz utraty członkostwa w kole łowiec-kim wszczętych przed sądami powszechnymi przed wejściem w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 4.** Mandaty sędziów łowieckich i rzeczników dyscyplinarnych oraz ich zastępców, powołanych przed dniem wejścia w życie niniejszej ustawy, wygasają z dniem jej wejścia w życie.
 

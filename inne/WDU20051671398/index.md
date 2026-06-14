@@ -8,7 +8,7 @@ pos: 1398
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o kosztach sądowych w sprawach cywilnych
@@ -115,6 +115,11 @@ Art. 126–147. (pominięte)
 
 **Art. 9.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
+- **1)** sposób uiszczania opłat sądowych w sprawach cywilnych, w tym wnoszonych na rachunek bankowy sądu lub w formie znaków opłaty sądowej według ustalonego wzoru, mając na względzie łatwość uiszczenia opłat przez strony oraz skutek w postaci zwrotu lub odrzucenia pisma, od którego przy jego wniesieniu nie została uiszczona należna opłata;
+- **2)** wzór oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania, o którym mowa w art. 102 ust. 2, a także sposób udostępniania osobom fizycznym wzoru druków tych oświadczeń w siedzibach sądów, mając na względzie komunikatywność niezbędnych pouczeń dla stron co do sposobu wypełnienia, skutków niezłożenia lub złożenia nieprawdziwego oświadczenia;
+- **3)** wysokość wynagrodzenia i zwrot wydatków poniesionych przez kuratorów ustanowionych dla strony w danej sprawie, mając na względzie rodzaj sprawy, stopień jej zawiłości i nakład pracy kuratorów;
+- **4)** wysokość zryczałtowanych kosztów przeprowadzenia dowodu z opinii opiniodawczego zespołu sądowych specjalistów, mając na względzie zakres przeprowadzanych przez zespół badań, wymagania dotyczące kwalifikacji specjalistów zespołu oraz nakład pracy niezbędny do wydania opinii.
+
 ## TYTUŁ II Opłaty
 
 ### DZIAŁ 1 Przepisy ogólne
@@ -144,6 +149,10 @@ Art. 126–147. (pominięte)
 **Art. 13b.** W sprawach o roszczenia wynikające z art. 36 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527 i 680) przy wartości przedmiotu sporu lub wartości przedmiotu zaskarżenia wynoszącej ponad 20 000 złotych pobiera się opłatę stałą w kwocie 1000 złotych.
 
 **Art. 13c.** W sprawach o:
+
+- **1)** usunięcie niezgodności treści księgi wieczystej z rzeczywistym stanem prawnym,
+- **2)** pozbawienie tytułu wykonawczego wykonalności,
+- **3)** zwolnienie zajętego przedmiotu od egzekucji – przy wartości przedmiotu sporu lub wartości przedmiotu zaskarżenia wynoszącej ponad 40 000 złotych pobiera się opłatę stałą w kwocie 2000 złotych.
 
 **Art. 13d.** W sprawach o prawa majątkowe dochodzone w postępowaniu grupowym opłata stała lub stosunkowa wynosi połowę opłaty ustalonej zgodnie z art. 13, art. 13a i art. 13b, jednak nie mniej niż 100 złotych i nie więcej niż 200 000 złotych.
 
@@ -222,7 +231,18 @@ Art. 126–147. (pominięte)
 
 **Art. 22.** Opłatę stałą w kwocie 100 złotych pobiera się od zażalenia na postanowienie w przedmiocie:
 
+- **1)** oddalenia wniosku o wyłączenie sędziego lub ławnika;
+- **2)** skazania na grzywnę strony, świadka, biegłego, tłumacza lub innej osoby oraz odmowy zwolnienia od grzywny;
+- **3)** przymusowego sprowadzenia lub aresztowania świadka oraz odmowy zwolnienia od przymusowego sprowadzenia;
+- **4)** wynagrodzenia i zwrotu kosztów poniesionych przez mediatora, biegłego, tłumacza, kuratora lub uprawnioną osobę trzecią;
+- **5)** należności świadka.
+
 **Art. 23.** Opłatę stałą w kwocie 100 złotych pobiera się od:
+
+- **1)** wniosku o wszczęcie postępowania nieprocesowego lub samodzielnej jego części, chyba że przepis szczególny stanowi inaczej;
+- **2)** apelacji, zażalenia, skargi kasacyjnej, skargi o wznowienie postępowania i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w sprawie, w której postępowanie nieprocesowe zostało wszczęte z urzędu;
+- **3)** (uchylony)
+- **4)** wniosku o zabezpieczenie dowodu.
 
 **Art. 23a.**
 
@@ -295,6 +315,23 @@ Art. 126–147. (pominięte)
 
 **Art. 27.** Opłatę stałą w kwocie 200 złotych pobiera się od pozwu w sprawie o:
 
+- **1)** ustalenie istnienia lub nieistnienia małżeństwa;
+- **2)** unieważnienie małżeństwa;
+- **3)** rozwiązanie przysposobienia;
+- **4)** zaprzeczenie ojcostwa lub macierzyństwa;
+- **5)** unieważnienie uznania dziecka;
+- **6)** ustanowienie przez sąd rozdzielności majątkowej;
+- **7)** naruszenie posiadania;
+- **8)** uchylenie uchwały organu spółdzielni;
+- **8a)** stwierdzenie nieważności uchwały organu spółdzielni;
+- **8b)** ustalenie istnienia lub nieistnienia uchwały organu spółdzielni;
+- **9)** uchylenie uchwały wspólnoty mieszkaniowej;
+- **10)** przyjęcie w poczet członków spółdzielni mieszkaniowej;
+- **11)** opróżnienie lokalu mieszkalnego lub lokalu o innym przeznaczeniu;
+- **12)** ustalenie wstąpienia w stosunek najmu;
+- **13)** uchylenie uchwały organu fundacji rodzinnej;
+- **14)** stwierdzenie nieważności uchwały organu fundacji rodzinnej.
+
 **Art. 27a.** Opłatę stałą w kwocie 500 zł pobiera się od pozwu w sprawie wydania orzeczenia zastępującego uchwałę walnego zgromadzenia spółdzielni o podziale.
 
 **Art. 27b.** Opłatę stałą w kwocie 100 zł pobiera się od pozwu w sprawie rozpoznawanej w europejskim postępowaniu w sprawie drobnych roszczeń.
@@ -307,9 +344,20 @@ Art. 126–147. (pominięte)
 
 **Art. 29.** Opłatę stałą w kwocie 5000 złotych pobiera się od pozwu w sprawie o:
 
+- **1)** rozwiązanie spółki;
+- **2)** wyłączenie wspólnika ze spółki;
+- **3)** uchylenie uchwały wspólników lub uchwały walnego zgromadzenia spółki;
+- **4)** stwierdzenie nieważności uchwały wspólników lub uchwały walnego zgromadzenia spółki;
+- **5)** ustalenie istnienia lub nieistnienia uchwały organu spółki;
+- **6)** uchylenie uchwały zgromadzenia obligatariuszy;
+- **7)** stwierdzenie nieważności uchwały zgromadzenia obligatariuszy.
+
 **Art. 30.** Opłatę stałą w kwocie 100 złotych pobiera się od pozwu w sprawie z zakresu ochrony środowiska.
 
 **Art. 31.** Opłatę stałą w kwocie 1500 złotych pobiera się od pozwu:
+
+- **1)** w sprawie z umowy o przekazanie mienia w ramach prywatyzacji;
+- **2)** w sprawie o unieważnienie przetargu.
 
 **Art. 32.**
 
@@ -361,6 +409,13 @@ Art. 126–147. (pominięte)
 
 **Art. 37.** Opłatę stałą w kwocie 100 złotych pobiera się od wniosku o:
 
+- **1)** zezwolenie na zawarcie związku małżeńskiego;
+- **2)** zmianę wyroku orzekającego rozwód lub separację w części dotyczącej władzy rodzicielskiej;
+- **3)** separację na zgodne żądanie małżonków;
+- **4)** zniesienie separacji;
+- **5)** zezwolenie na udzielenie pełnomocnictwa do oświadczenia o wstąpieniu w związek małżeński;
+- **6)** zwolnienie od obowiązku złożenia lub przedstawienia kierownikowi urzędu stanu cywilnego dokumentu potrzebnego do zawarcia związku małżeńskiego.
+
 **Art. 38.**
 
 1. Opłatę stałą w kwocie 1000 złotych pobiera się od wniosku o podział majątku wspólnego po ustaniu małżeńskiej wspólności majątkowej.
@@ -402,6 +457,11 @@ Art. 126–147. (pominięte)
 3. Od wniosku o wpis w księdze wieczystej własności, użytkowania wieczystego lub spółdzielczego własnościowego prawa do lokalu na podstawie dziedziczenia, zapisu lub działu spadku albo zniesienia współwłasności pobiera się jedną opłatę stałą w wysokości 150 złotych niezależnie od liczby udziałów w tych prawach.
 
 **Art. 43.** Opłatę stałą w kwocie 150 złotych pobiera się od wniosku o wpis:
+
+- **1)** własności, użytkowania wieczystego, spółdzielczego własnościowego prawa do lokalu nabytego w wyniku podziału majątku wspólnego po ustaniu wspólności majątkowej między małżonkami;
+- **2)** własności nieruchomości rolnej o powierzchni do 5 ha;
+- **3)** praw osobistych i roszczeń;
+- **4)** zmiany treści ograniczonych praw rzeczowych.
 
 **Art. 43a.**
 
@@ -451,6 +511,10 @@ Art. 126–147. (pominięte)
 
 **Art. 50.** Opłatę stałą w kwocie 100 złotych pobiera się od:
 
+- **1)** apelacji, skargi kasacyjnej i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w sprawie o stwierdzenie nabycia spadku;
+- **2)** wniosku o zabezpieczenie spadku po cudzoziemcu;
+- **3)** wniosku o wydanie właściwemu konsulowi spadku po cudzoziemcu.
+
 **Art. 51.**
 
 1. Opłatę stałą w kwocie 500 złotych pobiera się od wniosku o dział spadku, a jeżeli zawiera on zgodny projekt działu spadku, pobiera się opłatę stałą w kwocie 300 złotych.
@@ -471,6 +535,9 @@ Art. 126–147. (pominięte)
 
 **Art. 54.** Opłatę stałą w kwocie 300 złotych pobiera się od wniosku o:
 
+- **1)** (uchylony)
+- **2)** wykreślenie podmiotu z rejestru przedsiębiorców lub z rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz publicznych zakładów opieki zdrowotnej połączone z wykreśleniem z Krajowego Rejestru Sądowego.
+
 **Art. 55.**
 
 1. Opłatę stałą w kwocie 250 złotych pobiera się od wniosku o dokonanie zmiany wpisu dotyczącego podmiotu wpisanego do rejestru przedsiębiorców.
@@ -478,6 +545,10 @@ Art. 126–147. (pominięte)
 2. Opłatę stałą w kwocie 200 złotych pobiera się od wniosku o zarejestrowanie w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym zmiany dotyczącej spółki jawnej, spółki komandytowej oraz spółki z ograniczoną odpowiedzialnością dokonanej przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym. <3. Opłatę stałą w kwocie 200 złotych pobiera się od wniosku o zarejestrowanie w Krajowym Rejestrze Sądowym zmiany dotyczącej stowarzyszenia, dokonanej przy wykorzystaniu wzorca uchwały udostępnionego w systemie teleinformatycznym, jeżeli wniosek dotyczy stowarzyszenia wpisanego jednocześnie do rejestru przedsiębiorców.>
 
 **Art. 56.** Opłatę stałą w kwocie 150 złotych pobiera się od wniosku o:
+
+- **1)** dokonanie zmiany wpisu dotyczącego podmiotu wpisanego tylko w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz publicznych zakładów opieki zdrowotnej, niewpisanego do rejestru przedsiębiorców;
+- **2)** wykreślenie z rejestru przedsiębiorców – bez wykreślenia z Krajowego Rejestru Sądowego;
+- **3)** wykreślenie z rejestru dłużników niewypłacalnych.
 
 **Art. 57.** W wypadku jednoczesnego wniesienia przez tego samego wnioskodawcę, na kilku formularzach, kilku wniosków o wpis lub o dokonanie zmian w Krajowym Rejestrze Sądowym – pobiera się tylko jedną opłatę, z tym że jeżeli przepis przewiduje dla danego rodzaju spraw opłaty w różnych wysokościach – pobiera się opłatę wyższą.
 
@@ -513,6 +584,9 @@ Art. 126–147. (pominięte)
 
 **Art. 67.** Opłatę stałą w kwocie 100 złotych pobiera się od wniosku o:
 
+- **1)** złożenie przedmiotu świadczenia do depozytu sądowego;
+- **2)** wydanie z depozytu przedmiotu świadczenia.
+
 **Art. 67a.** (uchylony)
 
 **Art. 67b.**
@@ -528,6 +602,10 @@ Art. 126–147. (pominięte)
 
 **Art. 68.** Opłatę stałą w kwocie 100 złotych pobiera się od wniosku o:
 
+- **1)** udzielenie, zmianę lub uchylenie zabezpieczenia roszczenia;
+- **2)** wydanie, zmianę, uchylenie, stwierdzenie wygaśnięcia, zmianę wykonania, ograniczenie wykonania lub zakończenie wykonania europejskiego nakazu zabezpieczenia na rachunku bankowym;
+- **3)** uzyskanie informacji o rachunku bankowym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 655/2014 z dnia 15 maja 2014 r. ustanawiającym procedurę europejskiego nakazu zabezpieczenia na rachunku bankowym w celu ułatwienia transgranicznego dochodzenia wierzytelności w sprawach cywilnych i handlowych (Dz. Urz. UE L 189 z 27.06.2014, str. 59).
+
 **Art. 69.**
 
 1. Od wniosku o udzielenie zabezpieczenia roszczenia pieniężnego złożonego przed wniesieniem pisma wszczynającego postępowanie pobiera się czwartą część opłaty należnej od pozwu o to roszczenie.
@@ -538,7 +616,25 @@ Art. 126–147. (pominięte)
 
 **Art. 70.** Opłatę stałą w kwocie 200 złotych pobiera sąd od wniosku o:
 
+- **1)** wezwanie dłużnika do wykonania egzekwowanej czynności w wyznaczonym terminie oraz umocowanie wierzyciela do wykonania tej czynności na koszt dłużnika, w razie bezskutecznego upływu wyznaczonego terminu;
+- **2)** ukaranie grzywną dłużnika niewykonującego obowiązku zaniechania czynności lub nieprzeszkadzania czynnościom wierzyciela;
+- **3)** przeprowadzenie przez sąd egzekucji czynności, której inna osoba nie może za dłużnika wykonać;
+- **4)** (uchylony)
+- **5)** nakazanie dłużnikowi wyjawienia majątku.
+
 **Art. 71.** Opłatę stałą w kwocie 50 złotych pobiera sąd od wniosku o:
+
+- **1)** nadanie klauzuli wykonalności tytułowi egzekucyjnemu, innemu niż orzeczenie sądu, ugoda sądowa, nakaz zapłaty albo ugoda zawarta przed mediatorem w wyniku prowadzenia mediacji na podstawie postanowienia sądu kierującego strony do mediacji;
+- **2)** nadanie klauzuli wykonalności przeciwko małżonkowi dłużnika;
+- **3)** nadanie klauzuli wykonalności przeciwko lub na rzecz osoby innej niż wskazana w tytule egzekucyjnym, na którą przeszły uprawnienie lub obowiązek po powstaniu tytułu lub w toku sprawy przed wydaniem tytułu;
+- **4)** nadanie klauzuli wykonalności przeciwko wspólnikowi ponoszącemu odpowiedzialność bez ograniczenia całym swoim majątkiem za zobowiązania spółki;
+- **5)** ustanowienie zarządcy nieruchomości lub innej rzeczy albo prawa, z których prowadzi się egzekucję według przepisów o egzekucji z nieruchomości;
+- **6)** umorzenie książeczki oszczędnościowej w związku z zajęciem wkładu, na który ją wystawiono;
+- **7)** (uchylony)
+- **8)** wydanie zaświadczenia europejskiego tytułu egzekucyjnego;
+- **9)** uchylenie zaświadczenia europejskiego tytułu egzekucyjnego;
+- **10)** wydanie zaświadczenia o utracie lub ograniczeniu wykonalności tytułu egzekucyjnego opatrzonego zaświadczeniem europejskiego tytułu egzekucyjnego;
+- **11)** ponowne wydanie tytułu wykonawczego zamiast utraconego.
 
 **Art. 72.**
 
@@ -554,15 +650,41 @@ Art. 126–147. (pominięte)
 
 **Art. 73.** Opłatę stałą w kwocie 1000 złotych pobiera się od wniosku o:
 
+- **1)** wszczęcie egzekucji przez zarząd przymusowy przedsiębiorstwa lub gospodarstwa rolnego;
+- **2)** wszczęcie egzekucji przez sprzedaż przedsiębiorstwa lub gospodarstwa rolnego.
+
 ### DZIAŁ 7 Wysokość opłat w postępowaniach upadłościowym i restrukturyzacyjnym
 
 **Art. 74.** Opłatę stałą w kwocie 1000 złotych pobiera się od:
 
+- **1)** wniosku o ogłoszenie upadłości;
+- **2)** wniosku zarządcy zagranicznego w przedmiocie uznania zagranicznego postępowania upadłościowego;
+- **3)** wniosku o zatwierdzenie układu po samodzielnym zbieraniu głosów albo otwarcie postępowania restrukturyzacyjnego.
+
 **Art. 75.** Opłatę stałą w kwocie 200 złotych pobiera się od:
+
+- **1)** (uchylony)
+- **2)** wniosku o wszczęcie wtórnego postępowania upadłościowego;
+- **3)** zażalenia na postanowienia wydane w postępowaniach upadłościowym i restrukturyzacyjnym;
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** uproszczonego wniosku o otwarcie postępowania sanacyjnego;
+- **7)** uproszczonego wniosku o ogłoszenie upadłości.
 
 **Art. 76.** Opłatę stałą w kwocie 100 złotych pobiera się od:
 
+- **1)** zarzutów przeciwko planowi podziału;
+- **2)** wniosku o uchylenie lub zmianę układu;
+- **3)** wniosku o uchylenie lub zmianę orzeczenia o uznaniu zagranicznego postępowania upadłościowego;
+- **4)** wniosku w sprawie zakazu prowadzenia działalności gospodarczej;
+- **5)** wniosku upadłego przedsiębiorcy będącego osobą fizyczną o ustalenie planu spłaty i umorzenie pozostałej części zobowiązań, które nie zostały zaspokojone w postępowaniu upadłościowym.
+
 **Art. 76a.** Opłatę podstawową pobiera się od:
+
+- **1)** wniosku o ogłoszenie upadłości osoby fizycznej nieprowadzącej działalności gospodarczej;
+- **2)** wniosku osoby fizycznej nieprowadzącej działalności gospodarczej o otwarcie postępowania o zawarcie układu na zgromadzeniu wierzycieli;
+- **3)** skargi na czynności syndyka;
+- **4)** skargi na odmowę dokonania obwieszczenia o ustaleniu dnia układowego przez nadzorcę układu.
 
 **Art. 76b.** Piątą część opłaty stosunkowej pobiera się od sprzeciwu oraz od zażalenia na postanowienie sędziego-komisarza wydane w wyniku rozpoznania sprzeciwu.
 

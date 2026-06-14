@@ -8,7 +8,7 @@ pos: 720
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o kontroli skarbowej i niektórych innych ustaw
@@ -29,13 +29,75 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz.U. Nr 100, poz. 442, z 1992 r. Nr 21, poz. 85 i z 1996 r. Nr 106, poz. 496) wprowadza się następujące zmiany:
 
+- **1)** w art. 2:
+    - **a)** w ust. 1: - w pkt 1 na końcu skreśla się wyrazy "do których stosuje się przepisy o zobowiązaniach podatkowych", - po pkt 1 dodaje się pkt 1a w brzmieniu: "1a) ujawnianie i kontrola nie zgłoszonej do opodatkowania działalności gospodarczej, a także dochodów nie znajdujących pokrycia w ujawnionych źródłach przychodów,", - pkt 2 otrzymuje brzmienie: "2) kontrola celowości i zgodności z prawem gospodarowania środkami pochodzącymi z budżetu państwa, środkami państwowych jednostek budżetowych i państwowych jednostek gospodarki pozabudżetowej oraz środkami państwowych funduszy celowych, zarówno u przekazujących, jak i otrzymujących te środki,", - w pkt 3 po wyrazie "badanie" dodaje się wyrazy "celowości w czasie podejmowania decyzji i", - po pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 i 5 w brzmieniu: "4) kontrola źródeł pochodzenia majątku, w przypadku niezgłoszenia do opodatkowania działalności gospodarczej, a także dochodów nie znajdujących pokrycia w ujawnionych źródłach przychodów,
+
+- **5)** wykonywanie szczególnego nadzoru podatkowego.",
+    - **b)** w ust. 2 po wyrazach "w ust. 1 pkt 1" dodaje się wyrazy "i pkt 1a" oraz skreśla się wyrazy "a także innych niż wymienione w tym przepisie należności pieniężnych budżetu państwa";
+
+- **2)** w art. 3 skreśla się pkt 1;
+- **3)** w art. 4 ust. 2 otrzymuje brzmienie: "2. Kontroli skarbowej podlegają także płatnicy i inkasenci podatków i innych należności, o których mowa w art. 2 ust. 1 pkt 1.";
+- **4)** w art. 6:
+    - **a)** w ust. 1 po wyrazie "ustawie" dodaje się wyrazy "z zastrzeżeniem ust. 2a",
+    - **b)** w ust. 2 skreśla się wyrazy "- ujawnione w toku kontroli",
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: "2a. Szczególny nadzór podatkowy, w zakresie i trybie określonym w rozdziale 3b niniejszej ustawy, wykonują jednostki organizacyjne kontroli skarbowej.";
+
+- **5)** art. 7 otrzymuje brzmienie: "Art. 7. 1. Organy administracji państwowej i samorządowej oraz inne państwowe i gminne jednostki organizacyjne są obowiązane współdziałać i udzielać organom kontroli skarbowej pomocy technicznej przy wykonywaniu zadań określonych w ustawie.
+
+2. Organy kontroli skarbowej są upoważnione do korzystania z będących w posiadaniu organów podatkowych informacji o podatnikach.";
+
+- **6)** w art. 9 po ust. 4 dodaje się ust. 4a w brzmieniu: "4a. Jeżeli podmiot posiada oddziały (zakłady) na terenie działania innego urzędu kontroli skarbowej niż właściwy dla siedziby tego podmiotu, do przeprowadzenia kontroli w tym oddziale (zakładzie) upoważniony jest również inspektor zatrudniony w urzędzie kontroli skarbowej, którego terytorialny zasięg działania obejmuje miejsce położenia tego oddziału (zakładu).";
+- **7)** art. 10 otrzymuje brzmienie: "Art. 10. 1. Generalny Inspektor Kontroli Skarbowej sprawuje nadzór nad działalnością inspektorów kontroli skarbowej oraz pracowników operacyjnych w zakresie realizacji zadań określonych w ustawie.
+
+2. Generalny Inspektor Kontroli Skarbowej:
+
+- **1)** określa zadania i sprawuje kontrolę urzędów kontroli skarbowej,
+- **2)** organizuje szkolenia inspektorów oraz pracowników operacyjnych,
+- **3)** organizuje system informacji w urzędach kontroli skarbowej i zapewnia jego współdziałanie z systemem informacji innych instytucji, organizacji państwowych i samorządowych,
+- **4)** powołuje spośród inspektorów wicedyrektorów urzędów kontroli skarbowej i ich odwołuje,
+- **5)** upoważnia inspektorów zatrudnionych w Ministerstwie Finansów do przeprowadzania kontroli, a także w uzasadnionych przypadkach decyduje o zmianie inspektora prowadzącego postępowanie kontrolne,
+- **6)** ustala plany kontroli,
+- **7)** upoważnia inspektorów zatrudnionych w urzędach kontroli skarbowej do przeprowadzania kontroli poza właściwością miejscową określoną w art. 9 ust. 4,
+- **8)** analizuje wyniki działalności kontroli skarbowej i przedstawia Ministrowi Finansów propozycje ich wykorzystania,
+- **9)** uczestniczy w pracach międzynarodowych organizacji i instytucji zajmujących się kontrolą skarbową.
+
+3. Generalny Inspektor Kontroli Skarbowej wykonuje zadania określone w ustawie przy pomocy jednostki organizacyjnej wyodrębnionej w tym celu w strukturze Ministerstwa Finansów.
+
+4. Generalny Inspektor Kontroli Skarbowej może podawać do wiadomości publicznej zbiorczą informację dotyczącą działalności kontroli skarbowej.";
+
+- **8)** w art. 11 w ust. 2 po pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 i 5 w brzmieniu: "4) dokonuje, w szczególnie uzasadnionych przypadkach, zmiany inspektora prowadzącego postępowanie kontrolne,
+- **5)** może podawać do wiadomości publicznej zbiorcze informacje dotyczące działalności kontroli skarbowej na terenie objętym zasięgiem działania urzędu kontroli skarbowej.";
+- **9)** w art. 12 w ust. 1 wyrazy "z zastrzeżeniem art. 13 ust. 2" zastępuje się wyrazami "z zastrzeżeniem art. 14";
+- **10)** art. 13-18 otrzymują brzmienie: "Art. 13. 1. Postępowanie kontrolne, z zastrzeżeniem art. 14 ust. 1, wszczyna inspektor po okazaniu kontrolowanemu legitymacji służbowej i upoważnienia do przeprowadzenia kontroli, z równoczesnym doręczeniem zawiadomienia o wszczęciu postępowania kontrolnego.
+
+2. W przypadku nieobecności kontrolowanego czynności kontrolne mogą być przeprowadzone po okazaniu dokumentów, o których mowa w ust. 1, osobie zastępującej kontrolowanego lub jego pracownikom bądź przywołanemu świadkowi; z czynności tych sporządza się protokół i przedstawia niezwłocznie kontrolowanemu.
+
+3. Upoważnienie do przeprowadzenia kontroli wydawane jest przez dyrektora urzędu kontroli skarbowej lub Generalnego Inspektora Kontroli Skarbowej i określa:
+
+- **1)** imię i nazwisko inspektora,
+- **2)** numer legitymacji służbowej inspektora,
+- **3)** oznaczenie kontrolowanego,
+- **4)** termin ważności upoważnienia.
+
+4. Zawiadomienie o wszczęciu postępowania kontrolnego wystawiane jest przez inspektora i zawiera:
+
+- **1)** imię i nazwisko inspektora prowadzącego kontrolę oraz imiona i nazwiska pracowników jednostki organizacyjnej kontroli skarbowej, wykonujących czynności kontrolne,
+- **2)** przewidywany czas trwania kontroli,
+- **3)** miejsce prowadzenia kontroli,
+- **4)** zakres kontroli,
+- **5)** prawa i obowiązki kontrolowanego.
+
+5. Minister Finansów, w drodze zarządzenia, określa wzory legitymacji pracowników jednostek organizacyjnych kontroli skarbowej oraz ustala zasady ich wydawania i wymiany.
+
 **Art. 14.**
 
 1. Jeżeli okoliczności faktyczne uzasadniają niezwłoczne podjęcie kontroli, postępowanie kontrolne może być wszczęte po okazaniu legitymacji służbowej osobom wymienionym w art. 13 ust. 1 i 2.
 
 2. W przypadku, o którym mowa w ust. 1, kontrolowanemu należy niezwłocznie doręczyć upoważnienie do przeprowadzenia kontroli oraz zawiadomienie o wszczęciu postępowania kontrolnego; niedopełnienie tych obowiązków powoduje nieważność postępowania kontrolnego. O nieważności przeprowadzonego postępowania kontrolnego informuje się kontrolowanego, a materiały pochodzące z kontroli zostają zniszczone.
 
-3. Czynności kontrolnych dokonuje się w obecności kontrolowanego; w przypadku jego nieobecności przepis art. 13 ust. 2 stosuje się odpowiednio. niemożliwe, przedstawienia dokumentów, o których mowa w ust. 2, dokonuje się po ustaleniu tych danych.
+3. Czynności kontrolnych dokonuje się w obecności kontrolowanego; w przypadku jego nieobecności przepis art. 13 ust. 2 stosuje się odpowiednio.
+
+4. Jeżeli ustalenie danych oznaczających (identyfikujących) kontrolowanego jest niemożliwe, przedstawienia dokumentów, o których mowa w ust. 2, dokonuje się po ustaleniu tych danych.
 
 5. Inspektor może zawiesić postępowanie, jeżeli w okresie 14 dni od wszczęcia postępowania nie ustali danych oznaczających (identyfikujących) kontrolowanego. Z tych samych przyczyn inspektor może umorzyć postępowanie, jeżeli od wszczęcia postępowania upłynęło co najmniej 30 dni; postępowanie umorzone może być jednak podjęte w każdym czasie, gdy ustali się osobę, w stosunku do której może być prowadzone postępowanie kontrolne.
 
@@ -63,7 +125,8 @@ source: "isap-pdf"
 - **2)** zapewnić wgląd w dokumentację i prowadzone ewidencje objęte zakresem kontroli,
 - **3)** sporządzać kopie dokumentów określonych przez kontrolującego,
 - **4)** zapewnić warunki do pracy, w tym, w miarę możliwości, samodzielne pomieszczenie i miejsce do przechowywania dokumentów,
-- **5)** umożliwić filmowanie i fotografowanie oraz dokonywanie nagrań dźwiękowych, jeżeli film, fotografia lub nagranie może stanowić dowód lub przyczynić się do utrwalenia dowodu w sprawie będącej przedmiotem kontroli, gospodarczy - także inne konieczne środki techniczne, jakimi dysponuje w zakresie niezbędnym do wykonywania czynności kontrolnych,
+- **5)** umożliwić filmowanie i fotografowanie oraz dokonywanie nagrań dźwiękowych, jeżeli film, fotografia lub nagranie może stanowić dowód lub przyczynić się do utrwalenia dowodu w sprawie będącej przedmiotem kontroli,
+- **6)** udostępnić środki łączności, a w przypadku gdy kontrolowanym jest podmiot gospodarczy - także inne konieczne środki techniczne, jakimi dysponuje w zakresie niezbędnym do wykonywania czynności kontrolnych,
 - **7)** przedstawić, na żądanie inspektora, tłumaczenie na język polski sporządzonej w języku obcym dokumentacji finansowo-księgowej,
 - **8)** przeprowadzić inwentaryzację na żądanie i w niezbędnym zakresie określonym przez inspektora.
 
@@ -91,7 +154,7 @@ source: "isap-pdf"
 
 2. W razie niestawienia się kontrolowanego, świadka lub biegłego na wezwanie inspektora w związku z prowadzonym postępowaniem kontrolnym, stosuje się odpowiednio przepisy art. 110 § 2 i art. 115 § 2 ustawy karnej skarbowej z dnia 26 października 1971 r. (Dz.U. z 1984 r. Nr 22, poz. 103, z 1985 r. Nr 23, poz. 100, z 1990 r. Nr 14, poz. 84 i Nr 86, poz. 503, z 1991 r. Nr 100, poz. 442 i Nr 107, poz. 458, z 1992 r. Nr 21, poz. 85 i Nr 68, poz. 341, z 1994 r. Nr 43, poz. 160, Nr 126, poz. 615 i Nr 136, poz. 703 oraz z 1995 r. Nr 132, poz. 641), o czym należy uprzedzić osobę wezwaną.";
 
-- **11)** w art. 19 ust. 2 i 3 otrzymują brzmienie: świadków, biegłych lub oględzin w sposób umożliwiający kontrolowanemu udział w przeprowadzeniu tych dowodów nie później niż przed podjęciem tych czynności.
+- **11)** w art. 19 ust. 2 i 3 otrzymują brzmienie: "2. Kontrolowany powinien być powiadomiony o miejscu i terminie przeprowadzania dowodu ze świadków, biegłych lub oględzin w sposób umożliwiający kontrolowanemu udział w przeprowadzeniu tych dowodów nie później niż przed podjęciem tych czynności.
 
 3. Przepisu ust. 2 nie stosuje się, jeżeli okoliczności faktyczne uzasadniają natychmiastowe podjęcie czynności, a kontrolowany jest nieobecny.";
 
@@ -122,6 +185,10 @@ source: "isap-pdf"
 
 3. Do uchylenia, zmiany lub stwierdzenia nieważności decyzji ostatecznej inspektora właściwy jest Generalny Inspektor Kontroli Skarbowej; do wznowienia postępowania stosuje się przepisy Kodeksu postępowania administracyjnego.
 
+**Art. 27.**
+
+1. Wynik kontroli powinien zawierać:
+
 - **1)** oznaczenie organu kontroli skarbowej,
 - **2)** oznaczenie kontrolowanego,
 - **3)** datę wydania,
@@ -136,6 +203,45 @@ source: "isap-pdf"
 3. Kontrolowany jest obowiązany, w ciągu 30 dni po upływie terminu określonego w ust. 1 pkt 7, poinformować organ kontroli skarbowej o sposobie usunięcia wskazanych nieprawidłowości.
 
 **Art. 28.** Przepisu art. 24 ust. 2 pkt 1 nie stosuje się, jeżeli ustalenia inspektora dotyczą spraw zakończonych decyzją organu podatkowego. W tym przypadku organ kontroli skarbowej sporządza wynik kontroli, który przekazuje właściwemu organowi podatkowemu i kontrolowanemu.";
+
+- **16)** skreśla się art. 29 i 30;
+- **17)** w art. 32:
+    - **a)** w ust. 1-3 wyrazy "organ kontroli skarbowej" zastępuje się użytymi w odpowiednim przypadku wyrazami "Generalny Inspektor Kontroli Skarbowej lub dyrektor urzędu kontroli skarbowej",
+    - **b)** skreśla się ust. 4;
+
+- **18)** art. 33 otrzymuje brzmienie: "Art. 33. 1. Na pisemne żądanie Generalnego Inspektora Kontroli Skarbowej lub dyrektora urzędu kontroli skarbowej, wydane w związku z wszczętym postępowaniem przygotowawczym w sprawie karnej skarbowej, banki są obowiązane do sporządzania i przekazywania informacji dotyczących podejrzanego w zakresie:
+- **1)** posiadanych rachunków bankowych lub rachunków oszczędnościowych, liczby tych rachunków, a także obrotów i stanów tych rachunków,
+- **2)** posiadanych rachunków pieniężnych lub rachunków papierów wartościowych, liczby tych rachunków, a także obrotów i stanów tych rachunków,
+- **3)** zawartych umów kredytowych lub umów pożyczki, a także umów depozytowych,
+- **4)** nabytych za pośrednictwem banków akcji Skarbu Państwa lub obligacji Skarbu Państwa, a także obrotu tymi papierami wartościowymi,
+- **5)** obrotu wydawanymi przez banki certyfikatami depozytowymi lub innymi papierami wartościowymi.
+
+2. Przepisy ust. 1 pkt 2 i 4 stosuje się również do innych niż banki podmiotów prowadzących przedsiębiorstwa maklerskie.
+
+3. Towarzystwa funduszy powierniczych, na pisemne żądanie Generalnego Inspektora Kontroli Skarbowej lub dyrektora urzędu kontroli skarbowej, są obowiązane do sporządzania i przekazywania informacji o umorzonych jednostkach uczestnictwa; przepis ust. 1, w części dotyczącej przesłanek wystąpienia z żądaniem, stosuje się odpowiednio.
+
+4. W żądaniu, o którym mowa w ust. 1-3, Generalny Inspektor Kontroli Skarbowej lub dyrektor urzędu kontroli skarbowej określa zakres informacji oraz termin ich przekazania; żądanie oznacza się klauzulą "Tajemnica skarbowa", a jego przekazanie następuje w trybie przewidzianym dla dokumentów zawierających wiadomości stanowiące tajemnicę służbową w rozumieniu przepisów o ochronie tajemnicy państwowej i służbowej.";
+
+- **19)** po art. 33 dodaje się art. 33a i 33b w brzmieniu: "Art. 33a. 1. Z żądaniem sporządzenia i przekazania informacji w zakresie, o którym mowa w art. 33 ust. 1-3, Generalny Inspektor Kontroli Skarbowej lub dyrektor urzędu kontroli skarbowej może wystąpić również w związku z postępowaniem kontrolnym wszczętym przez inspektora na podstawie wydanego upoważnienia, po uprzednim wezwaniu podatnika przez inspektora do udzielenia informacji z tego zakresu albo do upoważnienia instytucji finansowych do przekazania tych informacji, jeżeli podatnik uprzednio:
+- **1)** nie wyrazi zgody na udzielenie tych informacji albo
+- **2)** nie upoważni inspektora do wystąpienia do instytucji finansowych wymienionych w art. 33 ust. 1-3 o przekazanie tych informacji, albo
+- **3)** w terminie wyznaczonym przez inspektora nie udzieli informacji lub upoważnienia, o których mowa w pkt 1 lub 2.
+
+2. Żądanie, o którym mowa w ust. 1, zawiera:
+
+- **1)** wskazanie przesłanek uzasadniających konieczność uzyskania tych informacji,
+- **2)** dowody potwierdzające, że:
+    - **a)** podatnik odmówił udzielenia informacji lub
+    - **b)** podatnik nie wyraził zgody na udzielenie inspektorowi upoważnienia do zażądania tych informacji, lub
+    - **c)** w terminie określonym przez inspektora podatnik nie udzielił informacji albo upoważnienia.
+
+3. Instytucje finansowe wymienione w art. 33 ust. 1-3 odmawiają udzielenia informacji, jeżeli żądanie Generalnego Inspektora Kontroli Skarbowej lub dyrektora urzędu kontroli skarbowej nie spełnia wymogów formalnych, o których mowa w ust. 2.
+
+4. Występując z żądaniem, o którym mowa w ust. 1, Generalny Inspektor Kontroli Skarbowej lub dyrektor urzędu kontroli skarbowej powinien zwracać szczególną uwagę na zasadę wzajemnego zaufania pomiędzy instytucjami finansowymi a ich klientami; przepis art. 33 ust. 4 stosuje się odpowiednio.
+
+5. Generalny Inspektor Kontroli Skarbowej i dyrektorzy urzędów kontroli skarbowej składają Ministrowi Finansów półroczne sprawozdania zawierające informacje o liczbie wszczętych w danym półroczu postępowań karnych skarbowych i kontrolnych w porównaniu z liczbą spraw, w których wystąpiono o przekazanie informacji określonych w art. 33.
+
+6. Informacje, o których mowa w ust. 5, są corocznie przedkładane Sejmowi, łącznie ze sprawozdaniem z wykonania budżetu państwa.
 
 **Art. 33b.**
 
@@ -164,7 +270,8 @@ source: "isap-pdf"
 6. Przepisu ust. 5 nie stosuje się do osób, których dotyczą informacje objęte tajemnicą skarbową.";
 
 - **21)** po art. 34 dodaje się art. 34a-34c w brzmieniu: "Art. 34a. 1. Akta zawierające informacje wymienione w art. 33 organy kontroli skarbowej udostępnią wyłącznie:
-- **1)** Ministrowi Finansów, Generalnemu Inspektorowi Kontroli Skarbowej, izbie skarbowej lub podatkowej komisji odwoławczej - w toku postępowania administracyjnego lub karnego skarbowego, wszczętym, na podstawie uprzednio wydanego postanowienia, postępowaniem administracyjnym albo w związku z wszczętym postępowaniem kontrolnym lub karnym skarbowym,
+- **1)** Ministrowi Finansów, Generalnemu Inspektorowi Kontroli Skarbowej, izbie skarbowej lub podatkowej komisji odwoławczej - w toku postępowania administracyjnego lub karnego skarbowego,
+- **2)** urzędom skarbowym albo innym organom kontroli skarbowej - w związku z wszczętym, na podstawie uprzednio wydanego postanowienia, postępowaniem administracyjnym albo w związku z wszczętym postępowaniem kontrolnym lub karnym skarbowym,
 - **3)** Naczelnemu Sądowi Administracyjnemu - w razie złożenia przez stronę skargi w rozumieniu przepisów o Naczelnym Sądzie Administracyjnym,
 - **4)** Ministrowi Sprawiedliwości, Pierwszemu Prezesowi Sądu Najwyższego, Prezesowi Naczelnego Sądu Administracyjnego - w związku z badaniem sprawy w celu złożenia rewizji nadzwyczajnej, a także Rzecznikowi Praw Obywatelskich, jeżeli strona wniesie podanie o złożenie rewizji nadzwyczajnej,
 - **5)** Prokuratorowi Generalnemu:
@@ -191,7 +298,9 @@ source: "isap-pdf"
 
 **Art. 34b.**
 
-1. Organy kontroli skarbowej udostępniają informacje wynikające z akt kontroli, z wyłączeniem informacji określonych w art. 33, organom podatkowym, innym organom kontroli skarbowej, Generalnemu Inspektorowi Kontroli Skarbowej i Ministrowi Finansów. obowiązane są udostępniać informacje wynikające z akt kontroli skarbowych.
+1. Organy kontroli skarbowej udostępniają informacje wynikające z akt kontroli, z wyłączeniem informacji określonych w art. 33, organom podatkowym, innym organom kontroli skarbowej, Generalnemu Inspektorowi Kontroli Skarbowej i Ministrowi Finansów.
+
+2. W zakresie i na zasadach określonych odrębnymi przepisami organy kontroli skarbowej obowiązane są udostępniać informacje wynikające z akt kontroli skarbowych.
 
 3. Informacje, o których mowa w ust. 1, udostępniane są również:
 
@@ -204,6 +313,9 @@ source: "isap-pdf"
 4. Dokumenty zawierające informacje przekazywane zgodnie z przepisami ust. 2 oznacza się klauzulą "Tajemnica skarbowa".
 
 **Art. 34c.** Przepisy art. 34a i 34b nie naruszają uprawnień strony przewidzianych w art. 73 i 74 Kodeksu postępowania administracyjnego oraz w art. 150 § 1 i 2 ustawy karnej skarbowej.";
+
+- **22)** art. 35 otrzymuje brzmienie: "Art. 35. Na żądanie dyrektora urzędu kontroli skarbowej wydawca i redaktor dziennika lub czasopisma są obowiązani do udzielania posiadanych informacji o nazwach i adresach podmiotów gospodarczych lub nazwiskach i adresach osób fizycznych zamieszczających odpłatne ogłoszenia i reklamy w sprawach działalności gospodarczej.";
+- **23)** dodaje się rozdział 3a i 3b w brzmieniu: "Rozdział 3a Przepisy karne
 
 **Art. 35a.**
 
@@ -225,7 +337,7 @@ source: "isap-pdf"
 
 **Art. 35c.**
 
-1. Szczególny nadzór podatkowy wykonują jednostki organizacyjne kontroli skarbowej przez swoich pracowników, zwanych dalej pracownikami szczególnego nadzoru nadzoru.
+1. Szczególny nadzór podatkowy wykonują jednostki organizacyjne kontroli skarbowej przez swoich pracowników, zwanych dalej pracownikami szczególnego nadzoru podatkowego, w formie kontroli okresowych, doraźnych lub przez sprawowanie stałego nadzoru.
 
 2. Do wykonywania szczególnego nadzoru podatkowego stosuje się odpowiednio przepisy określone w art. 9 ust. 4, 4a, 5 i 6, art. 10 ust. 2 pkt 5 i 7, art. 16-20, art. 31, art. 34 i art. 34a-34c oraz przepisy rozdziału 3a.
 
@@ -256,7 +368,9 @@ source: "isap-pdf"
 
 2. Przepisy art. 17 ust. 1, 3, 4 i 5 stosuje się odpowiednio.
 
-3. Koszty związane z realizacją obowiązków określonych w ust. 1 i 2 obciążają podmioty podlegające szczególnemu nadzorowi podatkowemu. urzędowe sprawdzenie przed rozpoczęciem wykonywania czynności, o których mowa w art. 35b, w zakresie i na zasadach określonych przez Ministra Finansów.
+3. Koszty związane z realizacją obowiązków określonych w ust. 1 i 2 obciążają podmioty podlegające szczególnemu nadzorowi podatkowemu.
+
+**Art. 35f.** W podmiotach podlegających szczególnemu nadzorowi podatkowemu przeprowadza się urzędowe sprawdzenie przed rozpoczęciem wykonywania czynności, o których mowa w art. 35b, w zakresie i na zasadach określonych przez Ministra Finansów.
 
 **Art. 35g.**
 
@@ -287,6 +401,8 @@ source: "isap-pdf"
 
 2. Przy wykonywaniu zadań określonych w ust. 1 mogą być dokonywane czynności operacyjno-rozpoznawcze umożliwiające uzyskiwanie informacji oraz utrwalanie śladów i dowodów w sposób tajny lub poufny.
 
+3. W celu wykrycia przestępstw:
+
 - **1)** gospodarczych, powodujących znaczną szkodę majątkową,
 - **2)** przeciwko mieniu znacznej wartości,
 - **3)** skarbowych, polegających na uszczupleniu podatku lub innej należności Skarbu Państwa znacznej wartości - Generalny Inspektor Kontroli Skarbowej, po uzyskaniu zgody Prokuratora Generalnego, może zarządzić na czas określony stosowanie środków technicznych, umożliwiających w sposób tajny uzyskiwanie informacji oraz utrwalanie śladów i dowodów.
@@ -309,7 +425,9 @@ source: "isap-pdf"
 
 4. Jeżeli w czasie udzielania pomocy lub w związku z pomocą, o której mowa w ust. 1, osoby udzielające pomocy utraciły życie lub poniosły uszczerbek na zdrowiu, osobom tym lub członkom ich rodzin odszkodowanie przysługuje na zasadach i w trybie określonych przez Ministra Finansów w drodze rozporządzenia.
 
-5. Tworzy się fundusz operacyjny przeznaczony na wypłatę wynagrodzeń lub odszkodowań, o których mowa w ust. 3 i 4; ustawa budżetowa, w części dotyczącej Ministerstwa Finansów, określa wysokość funduszu w danym roku. w drodze zarządzeń:
+5. Tworzy się fundusz operacyjny przeznaczony na wypłatę wynagrodzeń lub odszkodowań, o których mowa w ust. 3 i 4; ustawa budżetowa, w części dotyczącej Ministerstwa Finansów, określa wysokość funduszu w danym roku.
+
+6. Minister Finansów, uwzględniając przepisy o ochronie tajemnicy państwowej, określi w drodze zarządzeń:
 
 - **1)** w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji - sposób prowadzenia czynności operacyjno-rozpoznawczych oraz rodzaje stosowanych środków technicznych, o których mowa w art. 36 ust. 1-3,
 - **2)** zasady dysponowania funduszem operacyjnym, o którym mowa w ust. 5.";
@@ -334,7 +452,7 @@ source: "isap-pdf"
 - **4)** utracił zdolność fizyczną lub psychiczną do pracy na zajmowanym stanowisku, stwierdzoną orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia,
 - **5)** nabył prawo do emerytury na podstawie ogólnie obowiązujących przepisów.
 
-2. Odwołanie inspektora z przyczyn określonych w ust. 1 pkt 1, 3 i 4, nie stanowi rozwiązania stosunku pracy; nowe warunki pracy i płacy proponuje odwołanemu inspektorowi dyrektor urzędu kontroli skarbowej - jeżeli inspektor jest zatrudniony w Ministerstwie Finansów.
+2. Odwołanie inspektora z przyczyn określonych w ust. 1 pkt 1, 3 i 4, nie stanowi rozwiązania stosunku pracy; nowe warunki pracy i płacy proponuje odwołanemu inspektorowi dyrektor urzędu kontroli skarbowej - jeżeli inspektor jest zatrudniony w tym urzędzie, albo Minister Finansów - jeżeli inspektor jest zatrudniony w Ministerstwie Finansów.
 
 3. Generalny Inspektor Kontroli Skarbowej odwołuje inspektora, jeżeli wystąpiły przyczyny uzasadniające rozwiązanie stosunku pracy bez wypowiedzenia, określone w ustawie o pracownikach urzędów państwowych; odwołanie w tym trybie jest równoznaczne z rozwiązaniem umowy o pracę bez wypowiedzenia.
 
@@ -343,6 +461,9 @@ source: "isap-pdf"
 **Art. 2.** W Kodeksie postępowania karnego w art. 265 w § 2 skreśla się wyrazy "w toku kontroli".
 
 **Art. 3.** W ustawie karnej skarbowej z dnia 26 października 1971 r. (Dz.U. z 1984 r. Nr 22, poz. 103, z 1985 r. Nr 23, poz. 100, z 1990 r. Nr 14, poz. 84 i Nr 86, poz. 503, z 1991 r. Nr 100, poz. 442 i Nr 107, poz. 458, z 1992 r. Nr 21, poz. 85 i Nr 68, poz. 341, z 1994 r. Nr 43, poz. 160, Nr 126, poz. 615 i Nr 136, poz. 703 oraz z 1995 r. Nr 132, poz. 641) wprowadza się następujące zmiany:
+
+- **1)** art. 106 otrzymuje brzmienie: "Art. 106. Kto utrudnia inspektorowi kontroli skarbowej lub uprawnionemu pracownikowi jednostki organizacyjnej kontroli skarbowej albo pracownikowi organu podatkowego wszczęcie postępowania kontrolnego lub przeprowadzanie kontroli - podlega karze grzywny do 25 000 złotych.";
+- **2)** w art. 174 w § 2 pkt 2 otrzymuje brzmienie: "2) w sprawach o pozostałe przestępstwa i wykroczenia skarbowe - urzędy skarbowe, a w sprawach o przestępstwa i wykroczenia skarbowe ujawnione przez organy kontroli skarbowej - inspektorzy kontroli skarbowej.".
 
 **Art. 4.**
 

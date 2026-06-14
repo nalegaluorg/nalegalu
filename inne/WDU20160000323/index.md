@@ -8,10 +8,10 @@ pos: 323
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 323 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 17 lutego 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,18 +25,18 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/323/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 17 lutego 2016 r.
 w sprawie egzaminów kwalifikacyjnych oraz wynagradzania członków zespołu egzaminacyjnego i obsługi administracyjnej egzaminu Na podstawie art. 77 ust. 10 pkt 3–6 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r.
-poz. 281) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 281) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób i tryb przeprowadzania przez Komisję egzaminów kwalifikacyjnych dla osób ubiegających się o uzyskanie dyplomu lub świadectwa, o których mowa w art. 63 pkt 1 i 2, art. 70 ust. 1 pkt 1 ustawy z dnia 18 sierpnia 2011 r.
 o bezpieczeństwie morskim, zwanej dalej „ustawą”, lub dokumentu, o którym mowa w art. 107 ust. 1 ustawy;
 2) sposób funkcjonowania banku pytań egzaminacyjnych;
 3) sposób, tryb i terminy przeprowadzania weryfikacji pytań egzaminacyjnych przez Centralną Morską Komisję Egzaminacyjną, zwaną dalej „Komisją”;
 4) wysokość i szczegółowe warunki wynagradzania członków zespołu egzaminacyjnego i obsługi administracyjnej egzaminu.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) egzaminie należy przez to rozumieć egzamin kwalifikacyjny, o którym mowa w art. 64 ust. 1 pkt 5, art. 70 ust. 2 oraz art. 107 ust. 5 pkt 3 ustawy, który w zależności od wymagań określonych w przepisach wydanych na podstawie art. 70 ust. 4, art. 74 ust. 4 lub art. 107b ust. 6 pkt 5 ustawy składa się z części teoretycznej (egzamin teoretyczny) lub dodatkowo może składać się z części praktycznej (egzamin praktyczny);
-2) sekretariacie Komisji należy przez to rozumieć sekretariat Komisji w urzędzie obsługującym ministra właściwego do spraw gospodarki morskiej, w Urzędzie Morskim w Gdyni lub w Urzędzie Morskim w Szczecinie;
-3) zdającym należy przez to rozumieć osobę ubiegającą się o uzyskanie dyplomu, świadectwa lub dokumentu, o których mowa w § 1 pkt 1, uczestniczącą w egzaminie organizowanym przez Komisję.
+1) egzaminie – należy przez to rozumieć egzamin kwalifikacyjny, o którym mowa w art. 64 ust. 1 pkt 5, art. 70 ust. 2 oraz art. 107 ust. 5 pkt 3 ustawy, który w zależności od wymagań określonych w przepisach wydanych na podstawie art. 70 ust. 4, art. 74 ust. 4 lub art. 107b ust. 6 pkt 5 ustawy składa się z części teoretycznej (egzamin teoretyczny) lub dodatkowo może składać się z części praktycznej (egzamin praktyczny);
+2) sekretariacie Komisji – należy przez to rozumieć sekretariat Komisji w urzędzie obsługującym ministra właściwego do spraw gospodarki morskiej, w Urzędzie Morskim w Gdyni lub w Urzędzie Morskim w Szczecinie;
+3) zdającym – należy przez to rozumieć osobę ubiegającą się o uzyskanie dyplomu, świadectwa lub dokumentu, o których mowa w § 1 pkt 1, uczestniczącą w egzaminie organizowanym przez Komisję.
 § 3. 1. Egzaminy odbywają się zgodnie z harmonogramem sporządzanym przez Komisję na okres 6 miesięcy.
 2. Przewodniczący Komisji zatwierdza harmonogram na dane półrocze najpóźniej na 30 dni przed dniem rozpoczęcia jego obowiązywania.
 3. Harmonogram jest ogłaszany na stronie internetowej Komisji niezwłocznie po jego zatwierdzeniu.
@@ -55,7 +55,7 @@ o bezpieczeństwie morskim, zwanej dalej „ustawą”, lub dokumentu, o którym
 9) podpis wnioskodawcy.
 3. Do wniosku o dopuszczenie do egzaminu teoretycznego dołącza się dowód uiszczenia opłaty za egzamin, wniesionej na rachunek bankowy wskazany przez Komisję, oraz odpowiednio dokumenty określone w przepisach wydanych na podstawie art. 68, art. 70 ust. 4 i art. 107b ust. 6 pkt 1–3 ustawy:
 1) kopię posiadanego dyplomu lub świadectwa potwierdzającego posiadane kwalifikacje zawodowe;
-2) wyciąg pływania lub w przypadku osób nieposiadających książeczki żeglarskiej zaświadczenie wydane przez kapitana statku albo dowódcę jednostki pływającej potwierdzające odbycie praktyki pływania lub dodatkowej praktyki pływania wymaganej w przypadku danego dyplomu lub świadectwa;
+2) wyciąg pływania lub w przypadku osób nieposiadających książeczki żeglarskiej – zaświadczenie wydane przez kapitana statku albo dowódcę jednostki pływającej potwierdzające odbycie praktyki pływania lub dodatkowej praktyki pływania wymaganej w przypadku danego dyplomu lub świadectwa;
 3) zaświadczenie o ukończeniu szkolenia lub kopię dyplomu ukończenia studiów wydanego przez uczelnię, o której mowa w art. 74 ust. 2 pkt 1 albo 2 ustawy;
 4) zaświadczenie o zdaniu egzaminu praktycznego albo zaliczeniu części praktycznej szkolenia, wydane nie wcześniej niż 2 lata przed dniem rozpoczęcia egzaminu;
 5) zaświadczenie o zaliczeniu książki praktyk;
@@ -73,8 +73,8 @@ o bezpieczeństwie morskim, zwanej dalej „ustawą”, lub dokumentu, o którym
 1) sprawdza kompletność złożonych wniosków;
 2) w przypadku wniosku niekompletnego przesyła wnioskodawcy na adres poczty elektronicznej wskazany we wniosku informację o konieczności uzupełnienia wniosku, wskazując sposób i termin jego uzupełnienia, który nie może być krótszy niż 10 dni roboczych przed dniem rozpoczęcia egzaminu;
 3) przekazuje wnioski osobie wyznaczonej przez właściwego dyrektora urzędu morskiego w celu sprawdzenia, czy wnioskodawca:
-a) spełnia warunki wymagane do uzyskania odpowiedniego dokumentu kwalifikacyjnego, określone w art. 64, art. 70 ust. 2 oraz w art. 107 ust. 5 ustawy, oprócz warunku zdania egzaminu przed Komisją w przypadku egzaminu teoretycznego,
-b) odbył szkolenie wymagane do uzyskania odpowiedniego dokumentu kwalifikacyjnego w przypadku egzaminu praktycznego.
+a) spełnia warunki wymagane do uzyskania odpowiedniego dokumentu kwalifikacyjnego, określone w art. 64, art. 70 ust. 2 oraz w art. 107 ust. 5 ustawy, oprócz warunku zdania egzaminu przed Komisją – w przypadku egzaminu teoretycznego,
+b) odbył szkolenie wymagane do uzyskania odpowiedniego dokumentu kwalifikacyjnego – w przypadku egzaminu praktycznego.
 2. Wnioskodawcy nie dopuszcza się do egzaminu, jeżeli nie jest możliwe skontaktowanie się z nim poprzez pocztę elektroniczną na adres wskazany we wniosku, a wniosek zawiera braki formalne i wnioskodawca nie uzupełni ich w wyznaczonym terminie.
 3. W szczególnie uzasadnionych przypadkach, na pisemny wniosek wnioskodawcy, za zgodą przewodniczącego Komisji, uzupełnienie niekompletnego wniosku może nastąpić nie później niż w dniu rozpoczęcia egzaminu.
 § 6. 1. Nie później niż na 3 dni przed terminem egzaminu Komisja ogłasza na swojej stronie internetowej listę osób przystępujących do egzaminu.
@@ -138,17 +138,17 @@ g) sposobie kodowania, jeżeli kodowanie jest stosowane.
 § 19. Jeżeli w trakcie egzaminu zdający zrezygnował z egzaminu, korzystał z pomocy innej osoby, posługiwał się niedozwolonymi materiałami lub urządzeniami, pomagał pozostałym zdającym lub w inny sposób zakłócał przebieg egzaminu, otrzymuje wynik negatywny z egzaminu, a informację o tym odnotowuje się w protokole wraz z adnotacją na karcie odpowiedzi, jeżeli została wydana.
 § 20. 1. Po zakończeniu egzaminu teoretycznego członek zespołu egzaminacyjnego odpowiednio do formy egzaminu:
 1) odbiera od zdających prace pisemne wraz z brudnopisami, jeżeli były użyte;
-2) drukuje arkusze egzaminacyjne wszystkich egzaminowanych osób w przypadku egzaminu z wykorzystaniem sprzętu komputerowego.
+2) drukuje arkusze egzaminacyjne wszystkich egzaminowanych osób – w przypadku egzaminu z wykorzystaniem sprzętu komputerowego.
 2. Po zakończeniu egzaminu praktycznego jest sporządzany protokół zawierający opis przebiegu egzaminu oraz informacje o zaliczeniu poszczególnych umiejętności i kompetencji wskazanych w scenariuszu egzaminacyjnym.
 3. W zależności od rodzaju i formy egzaminu zespół egzaminacyjny sprawdza prace i wprowadza wyniki egzaminu do protokołu.
 4. Egzaminatorzy dokonują oceny prac pisemnych niezwłocznie po zakończeniu egzaminu.
 § 21. 1. Egzamin teoretyczny testowy lub pisemny uznaje się za zdany, jeżeli uzyskany wynik wynosi minimum 60% maksymalnej liczby punktów.
-2. Ocenę z egzaminu teoretycznego pisemnego ustala się przy zastosowaniu czterostopniowej skali ocen, przy czym oceny, w zależności od liczby uzyskanych punktów, określa się następująco: niedostateczna poniżej 60%, dostateczna od 60% do 74%, dobra powyżej 74% do 87%, bardzo dobra powyżej 87% maksymalnej liczby punktów.
+2. Ocenę z egzaminu teoretycznego pisemnego ustala się przy zastosowaniu czterostopniowej skali ocen, przy czym oceny, w zależności od liczby uzyskanych punktów, określa się następująco: niedostateczna – poniżej 60%, dostateczna – od 60% do 74%, dobra – powyżej 74% do 87%, bardzo dobra – powyżej 87% maksymalnej liczby punktów.
 3. Warunkiem dopuszczenia do egzaminu teoretycznego pisemnego lub ustnego obejmującego lub składającego się na daną funkcję jest uzyskanie pozytywnego wyniku egzaminu lub egzaminów testowych, jeżeli są wymagane dla tej funkcji.
 4. Egzamin teoretyczny ustny polega na udzieleniu odpowiedzi na wylosowane pytania. Warunkiem zaliczenia egzaminu ustnego jest udzielenie prawidłowej odpowiedzi na co najmniej:
 1) jedno pytanie, w przypadku gdy wymagania egzaminacyjne określają jedno pytanie,
 2) dwa pytania, w przypadku gdy wymagania egzaminacyjne określają trzy pytania,
-3) trzy pytania, w przypadku gdy wymagania egzaminacyjne określają pięć pytań z danego przedmiotu lub funkcji zależnie od wymagań egzaminacyjnych.
+3) trzy pytania, w przypadku gdy wymagania egzaminacyjne określają pięć pytań – z danego przedmiotu lub funkcji zależnie od wymagań egzaminacyjnych.
 5. Egzamin teoretyczny uznaje się za zdany, jeżeli zdający uzyskał wynik pozytywny z egzaminów testowych, pisemnych i ustnych, składających się na egzamin teoretyczny, z przedmiotów lub funkcji, w zależności od wymagań egzaminacyjnych, na których podstawie egzamin został przeprowadzony.
 6. Egzamin praktyczny uznaje się za zdany, jeżeli zdający wykazał się znajomością wszystkich umiejętności i kompetencji wskazanych w scenariuszu egzaminacyjnym zgodnie z kryteriami oceny wskazanymi w tym scenariuszu.
 § 22. 1. W przypadku egzaminu teoretycznego obejmującego daną funkcję otrzymanie oceny negatywnej z egzaminu testowego, pisemnego lub ustnego skutkuje niezdaniem egzaminu z tej funkcji.
@@ -219,15 +219,15 @@ g) sposobie kodowania, jeżeli kodowanie jest stosowane.
 § 32. Wynagrodzenia dla członków zespołu egzaminacyjnego oraz obsługi administracyjnej egzaminu, w przypadku egzaminów przeprowadzanych po dniu 8 grudnia 2015 r., są wypłacane na podstawie przepisów rozporządzenia.
 § 33. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk WYSOKOŚĆ WYNAGRODZENIA CZŁONKÓW ZESPOŁU EGZAMINACYJNEGO ORAZ OBSŁUGI ADMINISTRACYJNEJ EGZAMINU ZA UDZIAŁ W PRZEPROWADZENIU EGZAMINU (OD OSOBY EGZAMINOWANEJ):
-1. Przewodniczący zespołu egzaminacyjnego 30 PLN
-2. Wiceprzewodniczący zespołu egzaminacyjnego 25 PLN
-3. Egzaminator egzaminu teoretycznego testowego 15 PLN
-4. Egzaminator egzaminu teoretycznego ustnego lub pisemnego 20 PLN
-5. Egzaminator egzaminu teoretycznego testowego w języku angielskim 25 PLN
-6. Egzaminator egzaminu teoretycznego ustnego lub pisemnego w języku angielskim 40 PLN
-7. Egzaminator egzaminu praktycznego 30 PLN/godz.
-8. Egzaminator egzaminu praktycznego w języku angielskim 40 PLN/godz.
-9. Obsługa administracyjna egzaminu 7 PLN WZÓR ZAŚWIADCZENIE o zdaniu egzaminu teoretycznego nr ……… Niniejszym potwierdza się, że Pan/Pani* ……………………………………………………………………………………….
+1. Przewodniczący zespołu egzaminacyjnego – 30 PLN
+2. Wiceprzewodniczący zespołu egzaminacyjnego – 25 PLN
+3. Egzaminator egzaminu teoretycznego testowego – 15 PLN
+4. Egzaminator egzaminu teoretycznego ustnego lub pisemnego – 20 PLN
+5. Egzaminator egzaminu teoretycznego testowego w języku angielskim – 25 PLN
+6. Egzaminator egzaminu teoretycznego ustnego lub pisemnego w języku angielskim – 40 PLN
+7. Egzaminator egzaminu praktycznego – 30 PLN/godz.
+8. Egzaminator egzaminu praktycznego w języku angielskim – 40 PLN/godz.
+9. Obsługa administracyjna egzaminu – 7 PLN WZÓR ZAŚWIADCZENIE o zdaniu egzaminu teoretycznego nr ……… Niniejszym potwierdza się, że Pan/Pani* ……………………………………………………………………………………….
 urodzony(-na) dnia ……………………………………………………………………………..
 PESEL**………………………………………………………………………………………..
 złożył(a) w dniach ……………………………………………………………………………..

@@ -8,10 +8,10 @@ pos: 111
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 stycznia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 111111 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 13 stycznia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/111/text.pdf) |
 
-111111 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 13 stycznia 2023 r.
-zmieniające rozporządzenie w sprawie wzoru wniosku o wypłatę dodatku elektrycznego Na podstawie art. 33 ust. 4 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127, 2243 i 2687) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 24 listopada 2022 r. w sprawie wzoru wniosku o wypłatę dodatku elektrycznego (Dz. U. poz. 2443) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+zmieniające rozporządzenie w sprawie wzoru wniosku o wypłatę dodatku elektrycznego Na podstawie art. 33 ust. 4 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127, 2243 i 2687) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 24 listopada 2022 r. w sprawie wzoru wniosku o wypłatę dodatku elektrycznego (Dz. U. poz. 2443) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa Minister Klimatu i Środowiska kieruje działem administracji rządowej energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska WZÓR WZÓR WNIOSEK O WYPŁATĘ DODATKU ELEKTRYCZNEGO UWAGA!
-Informacje przedstawione we wniosku o wypłatę dodatku elektrycznego składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń zgodnie z art. 34 ust. 4 ustawy z dnia 7 października 2022 r.
+Minister Klimatu i Środowiska: A. Moskwa Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+Załącznik do rozporządzenia Ministra Klimatu i Środowiska z dnia 13 stycznia 2023 r. (Dz. U. poz. …) WZÓR WZÓR WNIOSEK O WYPŁATĘ DODATKU ELEKTRYCZNEGO UWAGA!
+Informacje przedstawione we wniosku o wypłatę dodatku elektrycznego składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń – zgodnie z art. 34 ust. 4 ustawy z dnia 7 października 2022 r.
 o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127, z późn. zm.), zwanej dalej „ustawą”.
 Zgodnie z art. 30 ust. 1 ustawy kwota dodatku elektrycznego wynosi 1000 zł.
 W przypadku gdy zużycie energii elektrycznej w gospodarstwie domowym w tym samym miejscu zamieszkania w 2021 r. wyniosło więcej niż 5 MWh, dodatek elektryczny wynosi 1500 zł (art. 30 ust. 2 ustawy) .
@@ -97,7 +98,7 @@ DANE OSOBY WCHODZĄCEJ W SKŁAD GOSPODARSTWA DOMOWEGO
 04. Seria i numer dokumentu stwierdzającego tożsamość …………………………………………………………………………………………………………..
 Należy wypełnić w przypadku, gdy osoba nie posiada numeru PESEL.
 3. Informacja dotycząca źródeł ogrzewania zasilanych energią elektryczną .
-Głównym źródłem ogrzewania gospodarstwa domowego wnioskodawcy jest jedno z następujących źródeł: pompa ciepła, ogrzewanie elektryczne / bojler elektryczny zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2022 r. poz. 438, z późn. zm.) .
+Głównym źródłem ogrzewania gospodarstwa domowego wnioskodawcy jest jedno z następujących źródeł: pompa ciepła, ogrzewanie elektryczne / bojler elektryczny – zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2022 r. poz. 438, z późn. zm.) .
 Dotyczy wyłącznie tych wnioskodawców, których gospodarstwo domowe wykorzystuje urządzenia grzewcze określone wyżej jako główne źródło ogrzewania, oraz pod warunkiem, że to źródło ogrzewania zostało zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków.
 Zgodnie z przepisami ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków każdy właściciel lub zarządca budynku ma obowiązek złożenia do centralnej ewidencji emisyjności budynków deklaracji dotyczącej źródeł ciepła i źródeł spalania paliw.
 Do wniosku dołączam następujące dokumenty:

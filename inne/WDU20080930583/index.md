@@ -1,0 +1,292 @@
+---
+title: "Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy - Prawo atomowe"
+address: WDU20080930583
+eli: DU/2008/583
+publisher: DU
+year: 2008
+pos: 583
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# o zmianie ustawy – Prawo atomowe
+
+*USTAWA z dnia 11 kwietnia 2008 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2008 nr 93 poz. 583 |
+| ISAP | WDU20080930583 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2008-04-11 |
+| Data wydania | 2008-05-30 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080930583) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/583/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2007 r. Nr 42, poz. 276) wprowadza się następujące zmiany:
+
+- **1)** w art. 3: zamknięte źródło promieniotwórcze przestaje być źródłem wysokoaktywnym, jeżeli jego aktywność spadnie poniżej poziomu progowego aktywności P podanej w załączniku nr 2 do ustawy.”;
+    - **a)** pkt 19 otrzymuje brzmienie: „19) ochrona fizyczna – całokształt przedsięwzięć organizacyjnych i technicznych, mających na celu skuteczne zabezpieczenie materiałów jądrowych i obiektów jądrowych przed aktami terroru, dywersji, sabotażu i kradzieży;”,
+    - **b)** pkt 22 otrzymuje brzmienie: „22) odpady promieniotwórcze – materiały stałe, ciekłe lub gazowe, zawierające substancje promieniotwórcze lub skażone tymi substancjami, których wykorzystanie jest niecelowe lub niemożliwe, zakwalifikowane do kategorii odpadów wymienionych w art. 47; niniejsza definicja nie ma zastosowania do rozdziału 8a;”,
+    - **c)** pkt 32 otrzymuje brzmienie: „32) program zapewnienia jakości – system działań gwarantujący spełnienie określonych wymagań bezpieczeństwa jądrowego i ochrony radiologicznej, w zależności od prowadzonej działalności, a w przypadku działalności z materiałami jądrowymi lub obiektami jądrowymi także wymagań ochrony fizycznej; ”,
+    - **d)** pkt 55a otrzymuje brzmienie: „55a) źródło niekontrolowane – zamknięte źródło promieniotwórcze zawierające izotop promieniotwórczy, którego aktywność w chwili wykrycia źródła przekracza wartość poziomu progowego aktywności P podaną w załączniku nr 2 do ustawy, a które nie zostało objęte nadzorem i kontrolą w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej przez organy dozoru jądrowego albo zostało nimi objęte, ale kontrola i nadzór nad tym źródłem zostały utracone, w szczególności z powodu porzucenia, zaginięcia, kradzieży albo niezgodnego z prawem przekazania źródła;”,
+    - **e)** pkt 58 otrzymuje brzmienie: „58) źródło wysokoaktywne – zamknięte źródło promieniotwórcze zawierające izotop promieniotwórczy, którego aktywność w momencie wytworzenia źródła albo, jeżeli wartość ta nie jest znana, w momencie jego wprowadzenia do obrotu jest równa wartości poziomu progowego aktywności P podanej w załączniku nr 2 do ustawy lub wyższa od niej;
+
+- **2)** w art. 7:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. W jednostce organizacyjnej wykonującej działalność wymagającą zezwolenia istnieje obowiązek opracowania i wdrożenia programu zapewnienia jakości.”,
+    - **b)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Uprawnienia inspektora ochrony radiologicznej nadaje się na okres 5 lat.”,
+    - **c)** dodaje się ust. 9 w brzmieniu: „9. Organ właściwy do nadawania uprawnień inspektora ochrony radiologicznej cofa te uprawnienia w drodze decyzji administracyjnej, jeżeli:
+
+- **1)** inspektor ochrony radiologicznej utracił pełną zdolność do czynności prawnych lub
+- **2)** w wyniku kontroli, o której mowa w art. 63 ust. 1, stwierdzono, że inspektor ochrony radiologicznej nie wykonuje albo nie wykonuje należycie obowiązków inspektora ochrony radiologicznej określonych w ustawie i w przepisach wydanych na jej podstawie.”;
+- **3)** w art. 12 dodaje się ust. 1d w brzmieniu: „1d. Uprawnienia, o których mowa w ust. 1, nadaje się na okres 5 lat, z tym, że uprawnienia dla osób, które mogą być zatrudnione na stanowiskach mających istotne znaczenie z punktu widzenia bezpieczeństwa jądrowego i ochrony radiologicznej w obiektach jądrowych, nadaje się na okres 3 lat.”;
+- **4)** w art. 33 w ust. 2 pkt 4 i 5 otrzymują brzmienie: „4) utrzymanie i rozwój programów zapewnienia jakości związanych z wykorzystaniem przez jednostki naukowe i badawczo-rozwojowe wiązek promieniowania jonizującego na potrzeby medyczne do celów innych niż diagnostyka i radioterapia;
+- **5)** działalność w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej oraz ochrony fizycznej obiektów jądrowych i materiałów jądrowych w jednostkach organizacyjnych działających w OtwockuŚwierku, a także w zakresie ochrony radiologicznej i ochrony Krajowego Składowiska Odpadów Promieniotwórczych”;
+- **5)** w art. 33c:
+    - **a)** ust. 5 otrzymuje brzmienie: „5. Osoby wykonujące i nadzorujące wykonywanie badań i zabiegów leczniczych przy użyciu promieniowania jonizującego są obowiązane do podnoszenia swoich kwalifikacji z zakresu ochrony radiologicznej pacjenta poprzez ukończenie szkolenia w dziedzinie ochrony radiologicznej pacjenta, zdanie egzaminu i uzyskanie certyfikatu potwierdzającego jego zdanie.”,
+    - **b)** po ust. 5 dodaje się ust. 5a-5e w brzmieniu: „5a. Szkolenie, o którym mowa w ust. 5, mogą prowadzić podmioty, które:
+
+- **1)** dysponują kadrą wykładowców, posiadających wyższe wykształcenie oraz wiedzę i doświadczenie zawodowe zgodne z zakresem prowadzonych wykładów, a w szczególności w dziedzinie ochrony radiologicznej;
+- **2)** dysponują obiektami i wyposażeniem umożliwiającym prowadzenie szkolenia;
+- **3)** prowadzą dziennik zajęć obejmujący przynajmniej tematykę i czas trwania poszczególnych zajęć wraz z nazwiskiem i imieniem wykładowcy oraz listę obecności osób biorących udział w zajęciach, potwierdzoną ich własnoręcznymi podpisami;
+- **4)** stosują jednolity system oceny wykładów, wykładowców i organizacji szkolenia i egzaminu, przygotowany w formie anonimowej ankiety przez Głównego Inspektora Sanitarnego;
+- **5)** uzyskają wpis do prowadzonego przez Głównego Inspektora Sanitarnego rejestru podmiotów uprawnionych do przeprowadzania szkolenia z dziedziny ochrony radiologicznej pacjenta, zwanego dalej „rejestrem podmiotów prowadzących szkolenie”.
+
+5b. Główny Inspektor Sanitarny nadzoruje spełnienie przez podmiot wpisany do rejestru podmiotów prowadzących szkolenie wymagań określonych w ust. 5a, a w przypadku stwierdzenia ich niespełnienia, wykreśla podmiot z tego rejestru.
+
+5c. Szkolenie, o którym mowa w ust. 5, kończy się egzaminem przed Komisją Egzaminacyjną powołaną przez Głównego Inspektora Sanitarnego spośród specjalistów z zakresu stosowania promieniowania jonizującego w medycynie i wydaniem certyfikatu potwierdzającego jego zdanie.
+
+5d. Certyfikat, o którym mowa w ust. 5c, jest ważny przez okres 5 lat od dnia jego wydania. Brak ważnego certyfikatu uniemożliwia wykonywanie prac, o których mowa w ust. 5.
+
+5e. Opłata za egzamin wynosi nie więcej niż 30% minimalnego wynagrodzenia za pracę określonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz.U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz. 1314), obowiązującego dnia 1 stycznia w roku przeprowadzania egzaminu.”,
+
+- **c)** w ust. 9 pkt 3 otrzymuje brzmienie: „3) wymagania dotyczące szkolenia specjalistycznego osób wykonujących i nadzorujących wykonywanie badań i zabiegów leczniczych przy użyciu promieniowania jonizującego, w tym:
+- **a)** tryb dokonywania wpisu do rejestru podmiotów prowadzących szkolenia prowadzonego przez Głównego Inspektora Sanitarnego,
+- **b)** sposób sprawowania przez Głównego Inspektora Sanitarnego nadzoru nad podmiotami wpisanymi do rejestru,
+- **c)** ramowy program szkolenia,
+- **d)** sposób powoływania komisji egzaminacyjnej, szczegółowe wymagania dotyczące członków komisji egzaminacyjnej i tryb jej pracy,
+- **e)** warunki dopuszczenia do egzaminu i sposób jego przeprowadzenia,
+- **f)** tryb wydawania certyfikatu i jego wzór,
+- **g)** tryb wnoszenia opłaty za egzamin, jej wysokość oraz wynagrodzenie członków komisji egzaminacyjnej,”;
+- **6)** w art. 33d:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prowadzenie działalności związanej z narażeniem na promieniowanie jonizujące w celach medycznych, polegającej na udzielaniu świadczeń zdrowotnych z zakresu radioterapii onkologicznej, w tym leczenia chorób nowotworowych przy użyciu produktów radiofarmaceutycznych, wymaga zgody Głównego Inspektora Sanitarnego.”,
+    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Główny Inspektor Sanitarny prowadzi centralny rejestr zgód wydanych na podstawie ust. 1.”;
+
+- **7)** art. 33f otrzymuje brzmienie: „Art. 33f. Zezwolenia, o których mowa w art. 5 ust. 4, oraz zgody, o których mowa w art. 33e ust. 1 i 2, są przekazywane niezwłocznie przez organ wydający do Głównego Inspektora Sanitarnego, który prowadzi ich centralny rejestr.”;
+- **8)** w art. 33i uchyla się ust. 2;
+- **9)** w art. 33j ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw zdrowia tworzy Krajowe Centrum Ochrony Radiologicznej w Ochronie Zdrowia, zwane dalej „Centrum”, działające w formie jednostki budżetowej.”;
+- **10)** w art. 33k ust. 2 otrzymuje brzmienie: „2. Państwowi wojewódzcy inspektorzy sanitarni, komendanci wojskowych ośrodków medycyny prewencyjnej, państwowi inspektorzy sanitarni Ministerstwa Spraw Wewnętrznych i Administracji oraz Prezes Agencji przesyłają Głównemu Inspektorowi Sanitarnemu informacje dotyczące urządzeń radiologicznych, na których stosowanie wydają zezwolenia.”;
+- **11)** art. 34 otrzymuje brzmienie: „Art. 34. 1. Obiekty jądrowe podlegają ochronie fizycznej zgodnie z przepisami wydanymi na podstawie art. 42.
+
+2. Budynki i urządzenia nie wchodzące w skład obiektu jądrowego, których uszkodzenie lub zakłócenie pracy mogłoby spowodować skutki istotne z punktu widzenia bezpieczeństwa jądrowego i ochrony radiologicznej podlegają ochronie fizycznej zgodnie z przepisami o ochronie osób i mienia.”;
+
+- **12)** art. 42 otrzymuje brzmienie: „Art. 42. Rada Ministrów określi, w drodze rozporządzenia, rodzaje przedsięwzięć organizacyjnych i technicznych w zakresie ochrony fizycznej, materiały jądrowe podlegające ochronie fizycznej z podziałem na kategorie oraz sposób przeprowadzania kontroli, o której mowa w art. 41 ust. 3, uwzględniając konieczność zapewnienia właściwego poziomu ochrony fizycznej dla poszczególnych kategorii materiałów jądrowych, a także obiektów jądrowych oraz ocenę skuteczności systemu ochrony fizycznej.”;
+- **13)** w art. 62:
+    - **a)** uchyla się ust. 1a,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej i tranzyt przez to terytorium odpadów promieniotwórczych, o których mowa w art. 62b pkt 2, oraz wypalonego paliwa jądrowego wymaga dodatkowo zezwolenia albo zgody, o których mowa w rozdziale 8a.”,
+    - **c)** uchyla się ust. 3,
+    - **d)** w ust. 4 uchyla się pkt 2 i 3;
+
+- **14)** po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „Rozdział 8a. Przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej i tranzyt przez to terytorium odpadów promieniotwórczych i wypalonego paliwa jądrowego
+
+**Art. 62b.** W rozumieniu niniejszego rozdziału użyte określenia oznaczają:
+
+- **1)** odbiorca – jednostka organizacyjna, do której jest dokonywane przemieszczenie odpadów promieniotwórczych lub wypalonego paliwa jądrowego;
+- **2)** odpady promieniotwórcze – materiały stałe, ciekłe lub gazowe zawierające substancje promieniotwórcze lub skażone tymi substancjami, których wykorzystanie jest niecelowe lub niemożliwe i w których aktywność całkowita oraz stężenie promieniotwórcze izotopów promieniotwórczych przekraczają wartości poziomów progowych aktywności całkowitej P oraz stężenia promieniotwórczego izotopów promieniotwórczych określone w załączniku nr 2 do ustawy, w tym wycofane z użytkowania (zużyte) zamknięte źródła promieniotwórcze, z wyjątkiem:
+    - **a)** wycofanych z użytkowania (zużytych) zamkniętych źródeł promieniotwórczych przemieszczanych do dostawcy, wytwórcy albo obiektu przeznaczonego do przechowywania lub składowania zamkniętych źródeł promieniotwórczych,
+    - **b)** odpadów zawierających wyłącznie naturalne substancje promieniotwórcze, których obecność nie została spowodowana działalnością człowieka;
+
+- **3)** państwo członkowskie – państwo członkowskie Unii Europejskiej;
+- **4)** państwo pochodzenia – państwo, z którego planuje się przeprowadzić lub przeprowadza się przemieszczenie odpadów promieniotwórczych lub wypalonego paliwa jądrowego;
+- **5)** państwo przeznaczenia – państwo, do którego planuje się przeprowadzić lub przeprowadza się przemieszczenie odpadów promieniotwórczych lub wypalonego paliwa jądrowego;
+- **6)** państwo tranzytu – państwo, przez którego terytorium planuje się przeprowadzić lub przeprowadza się przemieszczenie odpadów promieniotwórczych lub wypalonego paliwa jądrowego, nie będące państwem pochodzenia ani państwem przeznaczenia;
+- **7)** państwo trzecie – państwo, które nie jest państwem członkowskim;
+- **8)** pierwsze państwo członkowskie – państwo członkowskie, którego urząd celny, w przypadku tranzytu odpadów promieniotwórczych lub wypalonego paliwa jądrowego przez obszar celny Wspólnoty, jest właściwy do podjęcia rozstrzygnięcia w przedmiocie wprowadzenia odpadów promieniotwórczych lub wypalonego paliwa jądrowego na obszar celny Wspólnoty albo odmowy ich wprowadzenia;
+- **9)** posiadacz – jednostka organizacyjna, która przed przeprowadzeniem przemieszczenia odpadów promieniotwórczych lub wypalonego paliwa jądrowego jest na mocy prawa za nie odpowiedzialna i zamierza przeprowadzić ich przemieszczenie do odbiorcy;
+- **10)** przemieszczenie – ogół czynności podejmowanych przy przewozie odpadów promieniotwórczych lub wypalonego paliwa jądrowego z państwa pochodzenia do państwa przeznaczenia;
+- **11)** tranzyt – przewóz odpadów promieniotwórczych lub wypalonego paliwa jądrowego z państwa pochodzenia do państwa przeznaczenia przez terytorium państwa nie będącego państwem pochodzenia ani państwem przeznaczenia;
+- **12)** właściwy organ – organ, który na mocy przepisów państwa pochodzenia, państwa tranzytu lub państwa przeznaczenia jest uprawniony do stosowania systemu nadzoru i kontroli nad przemieszczaniem odpadów promieniotwórczych i wypalonego paliwa jądrowego; w Rzeczypospolitej Polskiej – Prezes Agencji;
+- **13)** zezwolenie – zezwolenie, o którym mowa w art. 62c ust. 1;
+- **14)** zgoda – zgoda, o której mowa w art. 62d ust. 1.
+
+**Art. 62c.**
+
+1. Zezwolenia wydanego przez Prezesa Agencji wymaga:
+
+- **1)** wywóz z terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych i wypalonego paliwa jądrowego;
+- **2)** przywóz na terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych i wypalonego paliwa jądrowego z państwa trzeciego;
+- **3)** tranzyt przez terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych i wypalonego paliwa jądrowego, przemieszczanych pomiędzy państwami trzecimi, w przypadku, gdy Rzeczpospolita Polska jest pierwszym państwem członkowskim.
+
+2. Warunkiem wydania zezwolenia jest:
+
+- **1)** wydanie przez właściwy organ państwa członkowskiego będącego państwem tranzytu zgody na tranzyt odpadów promieniotwórczych lub wypalonego paliwa jądrowego oraz
+- **2)** w przypadku przemieszczenia, o którym mowa w ust. 1 pkt 1:
+    - **a)** wydanie przez właściwy organ państwa przeznaczenia zgody na przywóz na jego terytorium odpadów promieniotwórczych lub wypalonego paliwa jądrowego,
+    - **b)** złożenie przez posiadacza zobowiązania do przyjęcia odpadów promieniotwórczych i wypalonego paliwa jądrowego w sytuacji, gdy przemieszczenie nie będzie mogło być ukończone oraz do pokrycia kosztów związanych z nieukończeniem przemieszczenia;
+
+- **3)** w przypadku przemieszczenia, o którym mowa w ust. 1 pkt 2, w sytuacji, gdy na terytorium Rzeczypospolitej Polskiej przywożone są odpady promieniotwórcze w celu innym niż składowanie lub wypalone paliwo jądrowe – zawarcie przez odbiorcę umowy z posiadaczem, uznanej przez właściwy organ państwa posiadacza, zobowiązującej posiadacza do odebrania:
+    - **a)** odpadów promieniotwórczych lub wypalonego paliwa jądrowego w sytuacji, gdy przemieszczenie nie będzie mogło być ukończone oraz
+    - **b)** odpadów promieniotwórczych powstałych w wyniku przetworzenia odpadów promieniotwórczych objętych wnioskiem o wydanie zezwolenia na przemieszczenie, odpadów promieniotwórczych powstałych w wyniku przerobu wypalonego paliwa jądrowego, innych produktów powstałych w wyniku przetworzenia odpadów promieniotwórczych lub przerobu wypalonego paliwa jądrowego;
+
+- **4)** w przypadku przemieszczenia, o którym mowa w ust. 1 pkt 2, w sytuacji, gdy odpady promieniotwórcze są przywożone na terytorium Rzeczypospolitej Polskiej w celu składowania:
+    - **a)** zawarcie przez odbiorcę umowy z posiadaczem, uznanej przez właściwy organ państwa posiadacza, zobowiązującej: – posiadacza do odebrania odpadów promieniotwórczych w sytuacji, gdy przemieszczenie nie będzie mogło być ukończone, – odbiorcę do składowania odpadów promieniotwórczych na terytorium Rzeczypospolitej Polskiej,
+    - **b)** posiadanie przez odbiorcę technicznych i organizacyjnych możliwości składowania odpadów promieniotwórczych pochodzących z zagranicy bez uszczerbku dla możliwości składowania odpadów promieniotwórczych pochodzących z kraju;
+
+- **5)** w przypadku przemieszczenia, o którym mowa w ust. 1 pkt 3 – zawarcie przez odbiorcę umowy z posiadaczem, uznanej przez właściwy organ państwa posiadacza, zobowiązującej posiadacza do odebrania odpadów promieniotwórczych lub wypalonego paliwa jądrowego w sytuacji, gdy przemieszczenie nie będzie mogło być ukończone.
+
+3. Prezes Agencji wydaje zezwolenie na wniosek:
+
+- **1)** posiadacza – w przypadku wniosku o wydanie zezwolenia na przemieszczenie, o którym mowa w ust. 1 pkt 1;
+- **2)** odbiorcy – w przypadku wniosku o wydanie zezwolenia na przemieszczenie, o którym mowa w ust. 1 pkt 2;
+- **3)** jednostki organizacyjnej odpowiedzialnej za organizację przemieszczenia na terytorium Rzeczypospolitej Polskiej – w przypadku wniosku o wydanie zezwolenia na przemieszczenie, o którym mowa w ust. 1 pkt 3.
+
+4. Wniosek oraz dokumenty z nim związane składane są w języku polskim, z tym, że na żądanie właściwych organów kraju przeznaczenia lub kraju tranzytu posiadacz ma obowiązek dostarczyć Prezesowi Agencji poświadczone przez tłumacza przysięgłego ich tłumaczenie na język akceptowany przez te właściwe organy.
+
+5. Zezwolenie wydaje się na czas określony, nie dłuższy niż 3 lata.
+
+6. Zezwolenie może zostać wydane na pojedyncze przemieszczenie albo na wielokrotne przemieszczenia.
+
+7. Zezwolenie może zostać wydane na wielokrotne przemieszczenia przy łącznym spełnieniu następujących warunków:
+
+- **1)** odpady promieniotwórcze lub wypalone paliwo jądrowe, których dotyczy wniosek mają zasadniczo takie same właściwości fizyczne, chemiczne i promieniotwórcze;
+- **2)** przemieszczenia zostaną przeprowadzone pomiędzy tym samym posiadaczem i odbiorcą oraz będą podlegać tym samym właściwym organom;
+- **3)** w sytuacji, gdy przemieszczenia wymagają tranzytu przez państwo trzecie – przemieszczenia zostaną przeprowadzone przez to samo przejście graniczne, chyba, że odpowiednie właściwe organy uzgodniły między sobą inaczej.
+
+**Art. 62d.**
+
+1. Zgody wydanej przez Prezesa Agencji wymaga:
+
+- **1)** przywóz na terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych i wypalonego paliwa jądrowego z państwa członkowskiego;
+- **2)** tranzyt przez terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych i wypalonego paliwa jądrowego w przypadku innym niż określony w art. 62c ust. 1 pkt 3.
+
+2. Warunkiem wydania zgody na przemieszczenie, o którym mowa w ust. 1 pkt 1, jest:
+
+- **1)** w przypadku, gdy na terytorium Rzeczypospolitej Polskiej są przywożone odpady promieniotwórcze w celu innym niż składowanie lub wypalone paliwo jądrowe – zawarcie przez odbiorcę z posiadaczem umowy, o której mowa w art. 62c ust. 2 pkt 3;
+- **2)** w przypadku, gdy odpady promieniotwórcze są przywożone na terytorium Rzeczypospolitej Polskiej w celu składowania – spełnienie wymagań określonych w art. 62c ust. 2 pkt 4.
+
+3. Prezes Agencji wydaje zgodę na wniosek:
+
+- **1)** posiadacza, złożony za pośrednictwem właściwego organu państwa pochodzenia, w przypadku:
+    - **a)** przemieszczenia, o którym mowa w ust. 1 pkt 1,
+    - **b)** tranzytu przez terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych lub wypalonego paliwa jądrowego przemieszczanych z innego państwa członkowskiego do państwa trzeciego albo przemieszczanych pomiędzy państwami członkowskimi;
+
+- **2)** odbiorcy, złożony za pośrednictwem właściwego organu państwa przeznaczenia – w przypadku tranzytu przez terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych lub wypalonego paliwa jądrowego przemieszczanych z państwa trzeciego do państwa członkowskiego;
+- **3)** jednostki organizacyjnej odpowiedzialnej za organizację przemieszczenia w pierwszym państwie członkowskim, złożony za pośrednictwem właściwego organu tego państwa – w przypadku tranzytu przez terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych lub wypalonego paliwa jądrowego przemieszczanych pomiędzy państwami trzecimi, jeżeli Rzeczpospolita Polska nie jest pierwszym państwem członkowskim.
+
+4. Prezes Agencji może uzależnić wydanie zgody od spełnienia dodatkowych warunków, które nie mogą być bardziej rygorystyczne niż określone dla podobnego przemieszczenia dokonywanego pomiędzy posiadaczem i odbiorcą znajdującymi się na terytorium Rzeczypospolitej Polskiej.
+
+5. W sytuacji, gdy Prezes Agencji odmawia wydania zgody albo uzależnia jej wydanie od spełnienia dodatkowych warunków przedstawia on właściwemu organowi, który przedstawił wniosek o udzielenie zgody, uzasadnienie oparte:
+
+- **1)** w przypadku przemieszczenia, o którym mowa w ust. 1 pkt 1 – na przepisach regulujących postępowanie z odpadami promieniotwórczymi lub wypalonym paliwem jądrowym lub na przepisach mających zastosowanie do przemieszczania materiałów promieniotwórczych;
+- **2)** w przypadku przemieszczenia, o którym mowa w ust. 1 pkt 2 – na przepisach mających zastosowanie do przemieszczania materiałów promieniotwórczych.
+
+**Art. 62e.**
+
+1. Zakazany jest wywóz z terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych i wypalonego paliwa jądrowego do:
+
+- **1)** miejsca przeznaczenia położonego na południe od 60 stopnia szerokości geograficznej południowej;
+- **2)** państwa trzeciego, które jest stroną Umowy o partnerstwie między członkami grupy państw Afryki, Karaibów i Pacyfiku, z jednej strony, a Wspólnotą Europejską i jej państwami członkowskimi, z drugiej strony (Umowa AKPE – WE z Kotonu);
+- **3)** państwa trzeciego, które nie posiada możliwości administracyjnych, technicznych lub struktury regulacyjnej dla bezpiecznego postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym.
+
+2. Zakazany jest przywóz na terytorium Rzeczypospolitej Polskiej wypalonego paliwa jądrowego w celu składowania, z zastrzeżeniem art. 62g.
+
+**Art. 62f.**
+
+1. Do czynności związanych z postępowaniem o wydanie zezwolenia lub zgody na przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej i tranzyt przez to terytorium odpadów promieniotwórczych i wypalonego paliwa jądrowego, w szczególności do składania wniosku, udzielania zezwolenia oraz zgody stosuje się dokument standardowy, którego wzór określiła Komisja Europejska na podstawie art. 17 ust. 2 dyrektywy Rady 2006/117/EURATOM z dnia 20 listopada 2006 r. w sprawie nadzoru i kontroli nad przemieszczaniem odpadów promieniotwórczych i wypalonego paliwa jądrowego (Dz.Urz. UE L 337 z 5.12.2006 s. 21).
+
+2. Dokument standardowy, o którym mowa w ust. 1, oraz dokumenty dodatkowe wymagane przy składaniu wniosku o wydanie zezwolenia albo zgody towarzyszą każdemu przemieszczeniu, także w sytuacji, gdy zezwolenie zostało wydane na wielokrotne przemieszczenia.
+
+**Art. 62g.**
+
+1. Prezes Agencji wydaje odpowiednio zezwolenie albo zgodę na przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej lub tranzyt przez to terytorium odpadów promieniotwórczych po ich przetworzeniu, odpadów promieniotwórczych powstałych w wyniku przerobu wypalonego paliwa jądrowego, innych produktów powstałych w wyniku przetworzenia odpadów promieniotwórczych lub przerobu wypalonego paliwa jądrowego, jeżeli poprzednio wydał zezwolenie albo zgodę na przywóz, wywóz lub tranzyt tych odpadów promieniotwórczych lub wypalonego paliwa jądrowego w celu ich przetworzenia lub przerobu.
+
+2. Prezes Agencji wydaje odpowiednio zezwolenie albo zgodę na przywóz na terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych lub wypalonego paliwa jądrowego, jeżeli poprzednio wydał zezwolenie na ich wywóz, a przemieszczenie nie może zostać ukończone i odbywa się na podstawie tego samego dokumentu standardowego.
+
+**Art. 62h.**
+
+1. Prezes Agencji może podjąć decyzję o przerwaniu przemieszczenia w przypadku naruszenia warunków jego przeprowadzenia określonych w przepisach prawa, zezwoleniu lub zgodzie.
+
+2. O podjętej decyzji Prezes Agencji niezwłocznie powiadamia:
+
+- **1)** w przypadku przemieszczenia pomiędzy państwami członkowskimi – właściwe organy innych państw zaangażowanych w przemieszczenie;
+- **2)** w przypadku przemieszczenia, w które zaangażowane jest państwo trzecie – właściwy organ państwa pochodzenia.
+
+3. W sytuacji, o której mowa w ust. 1, w przypadku:
+
+- **1)** wywozu odpadów promieniotwórczych lub wypalonego paliwa jądrowego z terytorium Rzeczypospolitej Polskiej, posiadacz ma obowiązek odebrać odpady promieniotwórcze i wypalone paliwo jądrowe oraz pokryć koszty powstałe w związku z nieukończeniem przemieszczenia;
+- **2)** przywozu odpadów promieniotwórczych lub wypalonego paliwa jądrowego na terytorium Rzeczypospolitej Polskiej z państwa trzeciego, odbiorca ma obowiązek pokryć koszty powstałe w związku z nieukończeniem przemieszczenia;
+- **3)** tranzytu przez terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych lub wypalonego paliwa jądrowego przemieszczanych pomiędzy państwami trzecimi, jednostka organizacyjna odpowiedzialna za organizację przemieszczania w pierwszym państwie członkowskim ma obowiązek pokryć koszty powstałe w związku z nieukończeniem przemieszczenia.
+
+**Art. 62i.** Prezes Agencji niezwłocznie informuje Komendanta Głównego Straży Granicznej i ministra właściwego do spraw finansów publicznych o:
+
+- **1)** wydaniu zezwolenia, o którym mowa w art. 62c ust. 1:
+- **2)** wydaniu zgody, o której mowa w art. 62d ust. 1;
+- **3)** podjęciu decyzji, o której mowa w art. 62h ust. 1.
+
+**Art. 62j.** Rada Ministrów określi, w drodze rozporządzenia, tryb postępowania w sprawie udzielania zezwolenia oraz zgody, dokumenty jakie należy dołączyć do wniosku o wydanie zezwolenia oraz do wniosku o wydanie zgody, czynności, jakich dopełniają podmioty zaangażowane w przemieszczenie i Prezes Agencji po przeprowadzeniu przemieszczenia, kierując się koniecznością zapewnienia skutecznej kontroli nad przemieszczaniem odpadów promieniotwórczych i wypalonego paliwa jądrowego.”;
+
+- **15)** w art. 123 w ust. 1:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) bez wymaganego zezwolenia lub wbrew jego warunkom, albo bez wymaganego zgłoszenia podejmuje działalność określoną w art. 4 ust. 1 albo dokonuje przywozu lub wywozu, o którym mowa w art. 62 ust. 1, albo nie dopełnia obowiązku, o którym mowa w art. 8a, albo zatrudnia pracowników bez uprawnień, kwalifikacji lub umiejętności określonych w przepisach ustawy,”,
+    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) dokonuje przywozu na terytorium Rzeczypospolitej Polskiej, wywozu z terytorium Rzeczypospolitej Polskiej lub tranzytu przez to terytorium odpadów promieniotwórczych lub wypalonego paliwa jądrowego bez zezwolenia, o którym mowa w art. 62c ust. 1, lub bez zgody, o której mowa w art. 62d ust. 1, lub wbrew ich warunkom,”;
+
+- **16)** załącznik nr 2 do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
+
+**Art. 2.**
+
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 33c ust. 9 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 33c ust. 9 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 42 pkt 2 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 42 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 3.** Uprawnienia inspektora ochrony radiologicznej nadane przed dniem wejścia w życie niniejszej ustawy na czas nieokreślony zachowują ważność przez okres 5 lat od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 4.**
+
+1. Postępowania w sprawie wydania zgody, o której mowa w art. 33d ust. 1 ustawy zmienianej w art. 1, wszczęte i nie zakończone przed dniem wejścia w życie niniejszej ustawy, toczą się na dotychczasowych zasadach.
+
+2. Zgoda, o której mowa w art. 33d ust. 1 ustawy zmienianej w art. 1, wydana przed dniem wejścia w życie niniejszej ustawy zachowuje swoją ważność.
+
+**Art. 5.** Certyfikaty ukończenia szkolenia w dziedzinie ochrony radiologicznej pacjenta wydane na podstawie rozporządzenia Ministra Zdrowia z dnia 25 sierpnia 2005 r. w sprawie warunków bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej (Dz. U. Nr 194, poz. 1625) zachowują ważność na okres ich wydania.
+
+**Art. 6.**
+
+1. Krajowe Centrum Ochrony Radiologicznej w Ochronie Zdrowia, o którym mowa w art. 33j ust. 1 ustawy zmienianej w art. 1, zwane dalej „Centrum”, ulega przekształceniu poprzez likwidację w jednostkę budżetową, działającą pod tą samą nazwą.
+
+2. Likwidacja, o której mowa w ust. 1, polega na zamknięciu przez Centrum rachunku bankowego oraz ksiąg rachunkowych zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm. ).
+
+3. Minister właściwy do spraw zdrowia przekaże jednostce budżetowej w zarząd mienie ruchome Centrum, w szczególności: aparaturę medyczną, urządzenia oraz inne środki trwałe i inne przedmioty określone na podstawie protokołu zdawczo-odbiorczego, i inne prawa majątkowe.
+
+4. Należności i zobowiązania Centrum przejmuje jednostka budżetowa.
+
+5. Jednostka budżetowa jest następcą prawnym Centrum.
+
+6. Pracownicy zatrudnieni w Centrum stają się, z mocy prawa, pracownikami jednostki budżetowej. Do pracowników zatrudnionych w Centrum ma zastosowanie przepis art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ).
+
+7. Centrum sporządzi na dzień poprzedzający dzień, o którym mowa w art. 9 pkt 2, sprawozdania zgodnie z przepisami w sprawie sprawozdawczości budżetowej.
+
+8. Centrum sporządzi sprawozdanie finansowe zgodnie z przepisami o finansach publicznych, które stanowi podstawę do otwarcia ksiąg rachunkowych jednostki budżetowej.
+
+9. Centrum przeprowadzi inwentaryzację wszystkich aktywów i pasywów, zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości, w tym ustali stan należności i zobowiązań oraz stan aktywów trwałych i aktywów obrotowych, na dzień poprzedzający dzień, o którym mowa w art. 9 pkt 2.
+
+**Art. 7.**
+
+1. W przypadku złożenia do Prezesa Państwowej Agencji Atomistyki przed dniem wejścia w życie niniejszej ustawy wniosku o wydanie zgody na przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej lub tranzyt przez to terytorium odpadów promieniotwórczych lub wypalonego paliwa jądrowego lub wydania przez Prezesa Państwowej Agencji Atomistyki przed dniem wejścia w życie niniejszej ustawy takiej zgody, do działań związanych z przywozem na terytorium Rzeczypospolitej Polskiej, wywozem z terytorium Rzeczypospolitej Polskiej oraz tranzytem przez to terytorium odpadów promieniotwórczych lub wypalonego paliwa jądrowego objętych tą zgodą stosuje się przepisy dotychczasowe.
+
+2. Rozpatrując złożony przed dniem wejścia w życie niniejszej ustawy i dotyczący wielokrotnych przemieszczeń odpadów promieniotwórczych lub wypalonego paliwa jądrowego wniosek o wydanie zgody na wywóz z terytorium Rzeczypospolitej Polskiej odpadów promieniotwórczych lub wypalonego paliwa jądrowego do państwa nie będącego członkiem Unii Europejskiej, Prezes Państwowej Agencji Atomistyki uwzględnia wszystkie istotne okoliczności, w szczególności:
+
+- **1)** planowany harmonogram przemieszczeń objętych tym samym wnioskiem;
+- **2)** uzasadnienie objęcia wszystkich przemieszczeń tym samym wnioskiem;
+- **3)** stosowność wydania zgody na mniejszą liczbę przemieszczeń niż wskazana we wniosku.
+
+**Art. 8.** Do czasu określenia przez Komisję Europejską wzoru dokumentu standardowego, o którym mowa w art. 62f ustawy z dnia 29 listopada 2000 r. – Prawo atomowe w brzmieniu nadanym niniejszą ustawą, do czynności związanych z postępowaniem o udzielenie zezwolenia lub zgody na przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej i tranzyt przez to terytorium odpadów promieniotwórczych i wypalonego paliwa jądrowego stosuje się dokument standardowy, którego wzór został określony przez Komisję Europejską decyzją Komisji 93/552/EURATOM z dnia 1 października 1993 r. ustanawiającą standardowy dokument dla nadzoru i kontroli przesyłania odpadów radioaktywnych określonych w dyrektywie Rady 92/3/Euratom (Dz.Urz. UE L 268 z 29.10.1993, str. 83; Dz.Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 334).
+
+**Art. 9.** Ustawa wchodzi w życie z dniem 25 grudnia 2008 r., z wyjątkiem:
+
+- **1)** art. 1 pkt 1 lit. c, pkt 2-4, oraz art. 2 ust. 1, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **2)** art. 1 pkt 9 oraz art. 6 ust. 1-6, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia;
+- **3)** art. 1 pkt 5-8, art. 5 oraz art. 6 ust. 7-9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. Załącznik do ustawy z dnia 11 kwietnia (poz. „Załącznik Poziomy progowe aktywności oraz stężenia promieniotwórczego izotopów promieniotwórczych Objaśnienia: (a) poziom aktywności włącznie z udziałem izotopów pochodnych o czasie połowicznego rozpadu krótszym niż 10 dni; (b) włącznie z neutronowymi źródłami z berylem. Izotopy opatrzone wskaźnikiem „+” lub „nat” (naturalny) oznaczają izotopy macierzyste znajdujące się w stanie równowagi wiekowej ze swymi pochodnymi, podanymi żej; w takich przypadkach wartości poziomu progowego aktywności źródła niekontrolowanego podane w tabeli, odnoszą się tylko do izotopów macierzystych, uwzględniają one również udział izotopów pochodnych:
+
+

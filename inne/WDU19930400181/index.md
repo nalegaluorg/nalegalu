@@ -8,10 +8,10 @@ pos: 181
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# U S T A W A z dnia 29 grudnia 1992 r.
+# o zmianie ustawy o uporządkowaniu stosunków kredytowych
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,18 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930400181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/181/text.pdf) |
 
-o zmianie ustawy o uporządkowaniu stosunków kredytowych
-
 **Art. 1.** W ustawie z dnia 28 grudnia 1989 r. o uporządkowaniu stosunków kredytowych (Dz.U. Nr 74, poz. 440 i z 1992 r. Nr 21, poz. 85) wprowadza się następujące zmiany:
+
+- **1)** w art. 1:
+    - **a)** w ust. 1: - w pkt 2 wyrazy "oraz dotyczące umorzeń kredytów na cele budownictwa mieszkaniowego w odniesieniu do zadań nie rozliczonych i nie oddanych do użytku do dnia 31 marca 1992 r." skreśla się, a przecinek zastępuje kropką, - skreśla się pkt 3,
+    - **b)** skreśla się ust. 3a;
+
+- **2)** w art. 3:
+    - **a)** w ust. 1 po wyrazach "części zadłużenia wobec banku" przecinek zastępuje się wyrazem "lub", a wyrazy "lub przejściowym wykupieniu przez budżet państwa części należnego bankowi oprocentowania" skreśla się,
+    - **b)** w ust. 2 w pkt 1 wyrazy "w ust. 1" zastępuje się wyrazami "w art. 2 ust. 1",
+    - **c)** w ust. 3 po wyrazach "w okresie przejściowym," dodaje się wyrazy "nie dłużej jednak niż do końca 1994 r.," a po wyrazach "w drodze rozporządzenia" dodaje się wyrazy "do 40 %";
+
+- **3)** w art. 5 ust. 2 otrzymuje brzmienie: "2. Tracą moc akty wykonawcze w zakresie dotyczącym oprocentowania i umarzania kredytów, o których mowa w art. 121 ust. 2 ustawy wymienionej w ust. 1, w odniesieniu do nowo zawieranych umów.".
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 kwietnia 1992 r.
 

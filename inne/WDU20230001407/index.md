@@ -8,7 +8,7 @@ pos: 1407
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
@@ -30,6 +30,25 @@ source: "isap-pdf"
 **Art. 1.** Ustawa określa warunki nabywania prawa do kolejnego dodatkowego rocznego świadczenia pieniężnego, zwanego dalej „dodatkowym świadczeniem”, oraz zasady jego wypłaty.
 
 **Art. 2.** Dodatkowe świadczenie przysługuje osobom, które w ostatnim dniu miesiąca poprzedzającego miesiąc wypłaty dodatkowego świadczenia mają prawo do:
+
+- **1)** świadczeń, o których mowa w art. 2 pkt 1 lit. a i b ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2023 r. poz. 1100 oraz z 2024 r. poz. 1243),
+- **2)** świadczeń z ubezpieczenia emerytalno-rentowego, o których mowa w art. 18 pkt 1–4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90, 1243, 1674 i 1871),
+- **3)** świadczeń, o których mowa w art. 12 ust. 1, 1a i 2 oraz w art. 16 ust. 1 i 2 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039),
+- **4)** świadczeń, o których mowa w art. 2 pkt 1 lit. a–c ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2024 r. poz. 242 i 1243),
+- **5)** świadczeń, o których mowa w art. 2 ust. 1 pkt 1 lit. a–c ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121, 1243, 1562 i 1871),
+- **6)** emerytur i rent, o których mowa w art. 3 pkt 1–3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674),
+- **7)** rent, o których mowa w art. 6 ust. 1 pkt 6–8 oraz art. 49, art. 50 i art. 52 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2022 r. poz. 2189 oraz z 2024 r. poz.
+- **1243)** ,
+- **8)** rent, o których mowa w art. 3 ust. 1 pkt 1 oraz ust. 3 i 4 ustawy z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2020 r. poz. 984 oraz z 2024 r. poz. 1243),
+- **9)** renty socjalnej lub renty socjalnej z dodatkiem dopełniającym, o których mowa w ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2023 r. poz. 2194 oraz z 2024 r. poz. 1615),
+- **10)** świadczenia przedemerytalnego i zasiłku przedemerytalnego, o których mowa w ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2023 r. poz. 1999 oraz z 2024 r. poz. 1243),
+- **11)** świadczenia, o którym mowa w art. 2 ust. 1 ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. z 2021 r. poz. 1820),
+- **12)** okresowej emerytury kapitałowej, o której mowa w art. 7 ust. 1 ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926),
+- **13)** emerytury, o której mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2024 r. poz. 1696),
+- **14)** świadczenia, o którym mowa w art. 1 pkt 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych (Dz. U. z 2024 r. poz. 245 i
+- **1243)** ,
+- **15)** okresowej emerytury rolniczej, o której mowa w art. 15 ustawy z dnia 11 maja 2012 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 637 oraz z 2017 r. poz. 38),
+- **16)** rodzicielskiego świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051) – zwanym dalej „osobami uprawnionymi”.
 
 **Art. 3.**
 
@@ -88,6 +107,10 @@ source: "isap-pdf"
 
 **Art. 8.** Kwoty dodatkowego świadczenia nie wlicza się do dochodu, o którym mowa w:
 
+- **1)** art. 3 ust. 3 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz. 1335);
+- **2)** art. 8 ust. 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572);
+- **3)** art. 2 ust. 2 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649).
+
 **Art. 9.** Do dochodu, o którym mowa w art. 3 pkt 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871), nie wlicza się wypłaconej kwoty dodatkowego świadczenia.
 
 **Art. 10.** Z kwoty dodatkowego świadczenia nie dokonuje się potrąceń i egzekucji.
@@ -99,6 +122,11 @@ source: "isap-pdf"
 2. Do kwoty dodatkowego świadczenia stosuje się odpowiednio art. 66 ust. 1 pkt 16, art. 81 ust. 8 pkt 2, art. 83 ust. 1 i art. 85 ust. 9–11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, 858, 1222, 1593, 1615 i 1915).
 
 **Art. 12.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy:
+
+- **1)** ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników;
+- **2)** ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, z wyjątkiem art. 46 tej ustawy;
+- **3)** ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, z wyjątkiem art. 47 tej ustawy;
+- **4)** ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyjątkiem art. 136 tej ustawy.
 
 **Art. 13.**
 
@@ -136,4 +164,8 @@ source: "isap-pdf"
 **Art. 25.** Przepis art. 12 ust. 2 ustawy zmienianej w art. 20 w brzmieniu dotychczasowym stosuje się do dodatkowego rocznego świadczenia pieniężnego przysługującego za okres przed dniem 1 stycznia 2024 r.
 
 **Art. 26.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 20 pkt 1 i 2, art. 24 oraz art. 25, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **2)** art. 14 ust. 3 oraz art. 20 pkt 3 w zakresie dodawanego art. 14a ust. 3, które wchodzą w życie z dniem 1 stycznia 2025 r.
+
 

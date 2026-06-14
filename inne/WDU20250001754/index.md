@@ -8,12 +8,10 @@ pos: 1754
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -50,13 +48,39 @@ Art. 42–52. (pominięte)
 
 2. Ustawa nie wyłącza możliwości przygotowania lub realizacji całości lub części inwestycji mieszkaniowych lub inwestycji towarzyszących na zasadach ogólnych, określonych w szczególności w przepisach ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527 i 680).
 
-3. W zakresie nieuregulowanym w niniejszej ustawie stosuje się ustawę z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080 i 1535).
+3. W zakresie nieuregulowanym w niniejszej ustawie stosuje się ustawę z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080 i 1535).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** inwestor – podmiot lub osobę zamierzającą realizować lub realizującą inwestycję mieszkaniową lub inwestycję towarzyszącą;
+- **2)** inwestycja mieszkaniowa – przedsięwzięcie obejmujące budowę, zmianę sposobu użytkowania lub przebudowę, w wyniku której powstaną budynek lub budynki mieszkalne wielorodzinne o łącznej liczbie lokali mieszkalnych nie mniejszej niż 25 lub budynki mieszkalne jednorodzinne o łącznej liczbie nie mniejszej niż 10, wraz z urządzeniami budowlanymi z nimi związanymi, drogami wewnętrznymi, a także roboty budowlane niezbędne do obsługi oraz prawidłowego wykonania tych prac; inwestycję mieszkaniową stanowią również części budynków przeznaczone na działalność handlową lub usługową;
+- **3)** inwestycja towarzysząca – inwestycję w zakresie budowy, zmiany sposobu użytkowania lub przebudowy: sieci uzbrojenia terenu w rozumieniu art. 2 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019 i 1542), dróg publicznych, linii kolejowych, obiektów infrastruktury publicznego transportu zbiorowego, obiektów działalności kulturalnej, obiektów opieki nad dziećmi do lat 3, przedszkoli, szkół, placówek wsparcia dziennego, ambulatorium podstawowej opieki zdrowotnej, obiektów, w których prowadzona jest działalność z zakresu pomocy społecznej, obiektów służących działalności pożytku publicznego, obiektów sportu i rekreacji, obszarów zieleni publicznej, o których mowa w art. 2 pkt 25 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, obiektów budowlanych przeznaczonych na działalność handlową lub usługową, o ile służą obsłudze mieszkańców budynków będących przedmiotem inwestycji mieszkaniowej;
+- **4)** kataster nieruchomości – ewidencję gruntów i budynków w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
+- **5)** nieruchomość o nieuregulowanym stanie prawnym – nieruchomość, o której mowa w art. 113 ust. 6 i 7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080);
+- **6)** powierzchnia użytkowa mieszkań – sumę powierzchni użytkowych wszystkich lokali mieszkalnych oraz budynków mieszkalnych jednorodzinnych objętych inwestycją mieszkaniową, obliczoną zgodnie z przepisami wydanymi na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **7)** powierzchnia biologicznie czynna – powierzchnię biologicznie czynną w rozumieniu art. 2 pkt 28 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
+- **8)** obszar zabudowy śródmiejskiej – obszar zabudowy śródmiejskiej określony w planie ogólnym gminy.
+
 **Art. 3.** Działalność handlową i usługową można realizować w ramach:
 
+- **1)** wyodrębnionej części inwestycji mieszkaniowej oraz inwestycji towarzyszącej,
+- **2)** samodzielnego obiektu budowlanego o powierzchni sprzedaży nie większej niż 2000 m – pod warunkiem, że powierzchnia użytkowa przeznaczona na działalność handlową lub usługową nie będzie mniejsza niż 5 % i nie przekroczy 20 % powierzchni użytkowej mieszkań.
+
 **Art. 4.** W przypadku gdy inwestycje mieszkaniowe lub inwestycje towarzyszące mają być prowadzone na tym samym obszarze co inwestycje, o których mowa w:
+
+- **1)** ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796), w zakresie inwestycji dotyczących infrastruktury portowej oraz infrastruktury zapewniającej dostęp do portów lub przystani morskich,
+- **2)** ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311),
+- **3)** ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2025 r. poz. 1234),
+- **4)** ustawie z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464),
+- **5)** ustawie z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2025 r. poz. 1222),
+- **6)** ustawie z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311 i 1019),
+- **7)** ustawie z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274 oraz z 2025 r. poz. 680),
+- **8)** ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1156),
+- **9)** ustawie z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199),
+- **10)** ustawie z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. z 2024 r. poz. 285),
+- **11)** ustawie z dnia 7 kwietnia 2017 r. o inwestycjach w zakresie budowy lub przebudowy toru wodnego Świnoujście – Szczecin do głębokości 12,5 metra (Dz. U. poz. 990),
+- **12)** ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531),
+- **13)** ustawie z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 1839) – inwestycje, o których mowa w pkt 1–13, mają pierwszeństwo przed inwestycjami mieszkaniowymi lub inwestycjami towarzyszącymi.
 
 **Art. 5.**
 
@@ -141,36 +165,36 @@ Art. 42–52. (pominięte)
 12. Wójt (burmistrz, prezydent miasta) nie później niż w terminie 3 dni od dnia zamieszczenia wniosku, o którym mowa w ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej gminy, a jeżeli gmina nie ma strony podmiotowej Biuletynu Informacji Publicznej na stronie internetowej gminy, powiadamia o możliwości przedstawiania opinii:
 
 - **1)** gminną lub inną właściwą, w rozumieniu art. 8 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, komisję urbanistyczno-architektoniczną;
-- **2)** ministra właściwego do spraw zdrowia w odniesieniu do inwestycji zlokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz. 1135);
-- **3)** dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych;
-- **4)** organ właściwy w sprawach ochrony gruntów rolnych w odniesieniu do gruntów rolnych w rozumieniu przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82);
-- **5)** właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie w odniesieniu do nieruchomości, na których znajdują się urządzenia melioracji wodnych;
-- **6)** dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa;
-- **7)** właściwy organ nadzoru nad gospodarką leśną w odniesieniu do gruntów leśnych innych niż określone w pkt 6;
-- **8)** właściwego zarządcę terenów kolejowych w odniesieniu do obszarów kolejowych, zgodnie z przepisami ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
-- **9)** właściwego zarządcę infrastruktury kolejowej w odniesieniu do linii kolejowej, zgodnie z przepisami ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
-- **10)** właściwy dla proponowanej lokalizacji inwestycji organ prowadzący kataster nieruchomości w zakresie kolizji przebiegu planowanej inwestycji z uzbrojeniem terenu;
-- **11)** właściwego wojewodę, marszałka województwa oraz starostę w zakresie zadań rządowych albo samorządowych, służących realizacji inwestycji celu publicznego, o których mowa w art. 39 ust. 3 pkt 3 i art. 48 ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym w odniesieniu do terenów nieobjętych obowiązującymi planami zagospodarowania przestrzennego;
-- **12)** Prezesa Urzędu Lotnictwa Cywilnego w odniesieniu do obiektów budowanych na terenach pozostających w zasięgu ograniczeń wysokości zabudowy na lotnisku i w jego otoczeniu, zgodnie z przepisami ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2025 r. poz. 1431);
-- **13)** właściwego regionalnego dyrektora ochrony środowiska w odniesieniu do form ochrony przyrody, w przypadku inwestycji, dla których nie było wymagane uzyskanie decyzji o środowiskowych uwarunkowaniach;
-- **14)** właściwego dla miejsca lokalizacji inwestycji komendanta wojewódzkiego Państwowej Straży Pożarnej w zakresie zgodności z wymaganiami ochrony przeciwpożarowej dotyczącymi w szczególności zapewnienia wody do celów przeciwpożarowych i dojazdu dla pojazdów jednostek ochrony przeciwpożarowej oraz przepisami ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i 1080) dotyczącymi lokalizacji inwestycji od obiektów stwarzających ryzyko wystąpienia poważnej awarii przemysłowej;
-- **15)** dyrektora właściwego urzędu morskiego w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409 i 1535);
-- **16)** starostę w odniesieniu do terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy;
+- **2)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji zlokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz. 1135);
+- **3)** dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych;
+- **4)** organ właściwy w sprawach ochrony gruntów rolnych – w odniesieniu do gruntów rolnych w rozumieniu przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82);
+- **5)** właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie – w odniesieniu do nieruchomości, na których znajdują się urządzenia melioracji wodnych;
+- **6)** dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa;
+- **7)** właściwy organ nadzoru nad gospodarką leśną – w odniesieniu do gruntów leśnych innych niż określone w pkt 6;
+- **8)** właściwego zarządcę terenów kolejowych – w odniesieniu do obszarów kolejowych, zgodnie z przepisami ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
+- **9)** właściwego zarządcę infrastruktury kolejowej – w odniesieniu do linii kolejowej, zgodnie z przepisami ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
+- **10)** właściwy dla proponowanej lokalizacji inwestycji organ prowadzący kataster nieruchomości – w zakresie kolizji przebiegu planowanej inwestycji z uzbrojeniem terenu;
+- **11)** właściwego wojewodę, marszałka województwa oraz starostę – w zakresie zadań rządowych albo samorządowych, służących realizacji inwestycji celu publicznego, o których mowa w art. 39 ust. 3 pkt 3 i art. 48 ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – w odniesieniu do terenów nieobjętych obowiązującymi planami zagospodarowania przestrzennego;
+- **12)** Prezesa Urzędu Lotnictwa Cywilnego – w odniesieniu do obiektów budowanych na terenach pozostających w zasięgu ograniczeń wysokości zabudowy na lotnisku i w jego otoczeniu, zgodnie z przepisami ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431);
+- **13)** właściwego regionalnego dyrektora ochrony środowiska – w odniesieniu do form ochrony przyrody, w przypadku inwestycji, dla których nie było wymagane uzyskanie decyzji o środowiskowych uwarunkowaniach;
+- **14)** właściwego dla miejsca lokalizacji inwestycji komendanta wojewódzkiego Państwowej Straży Pożarnej – w zakresie zgodności z wymaganiami ochrony przeciwpożarowej dotyczącymi w szczególności zapewnienia wody do celów przeciwpożarowych i dojazdu dla pojazdów jednostek ochrony przeciwpożarowej oraz przepisami ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i 1080) dotyczącymi lokalizacji inwestycji od obiektów stwarzających ryzyko wystąpienia poważnej awarii przemysłowej;
+- **15)** dyrektora właściwego urzędu morskiego – w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409 i 1535);
+- **16)** starostę – w odniesieniu do terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy;
 - **17)** właściwego państwowego wojewódzkiego inspektora sanitarnego;
 - **18)** operatora systemu przesyłowego elektroenergetycznego w zakresie sposobu zagospodarowania gruntów leżących w odległości nie większej niż 40 metrów od osi istniejącej linii elektroenergetycznej najwyższych napięć, w przypadku gdy górne napięcie tej linii elektroenergetycznej jest równe co najmniej 220 kV;
 - **19)** właściwe organy wojskowe, ochrony granic oraz bezpieczeństwa państwa;
 - **20)** właściwy organ nadzoru górniczego w zakresie zagospodarowania terenów górniczych;
 - **21)** zarząd województwa w zakresie uwzględnienia wyników audytu krajobrazowego, o którym mowa w art. 38a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
-- **22)** Ministra Obrony Narodowej w odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności państwa określone na podstawie ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
+- **22)** Ministra Obrony Narodowej – w odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności państwa określone na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
 
 13. Organy, o których mowa w ust. 12, przekazują opinię w terminie 21 dni od dnia otrzymania powiadomienia. Nieprzekazanie opinii w tym terminie uznaje się za brak zastrzeżeń. Wójt (burmistrz, prezydent miasta) przekazuje inwestorowi do wiadomości opinię nie później niż w terminie 3 dni od otrzymania tej opinii.
 
 14. Wójt (burmistrz, prezydent miasta) nie później niż w terminie 3 dni od dnia zamieszczenia wniosku, o którym mowa w ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej gminy, a jeżeli gmina nie ma strony podmiotowej Biuletynu Informacji Publicznej na stronie internetowej gminy, występuje o uzgodnienie wniosku z:
 
-- **1)** ministrem właściwym do spraw środowiska w odniesieniu do udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290 oraz z 2025 r. poz. 769 i 1023), oraz uznanych za strategiczne złóż kopalin, o których mowa w art. 10 ust. 3 tej ustawy, a także w odniesieniu do kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji;
-- **2)** właściwym marszałkiem województwa w odniesieniu do udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze, innych niż złoża strategiczne, oraz w odniesieniu do udokumentowanych wód podziemnych;
-- **3)** właściwym wojewódzkim konserwatorem zabytków w odniesieniu do obszarów i obiektów objętych formami ochrony konserwatorskiej na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168) oraz ujętych w gminnej ewidencji zabytków lub wykazie, o którym mowa w art. 7 ustawy z dnia 18 marca 2010 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie niektórych innych ustaw (Dz. U. poz. 474);
-- **4)** właściwym zarządcą drogi w zakresie, w jakim projektowana inwestycja przebiega przez nieruchomości wchodzące w skład pasa drogowego, przylega do nieruchomości wchodzących w skład pasa drogowego lub powoduje ograniczenia w sposobie zagospodarowania pasa drogowego.
+- **1)** ministrem właściwym do spraw środowiska – w odniesieniu do udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290 oraz z 2025 r. poz. 769 i 1023), oraz uznanych za strategiczne złóż kopalin, o których mowa w art. 10 ust. 3 tej ustawy, a także w odniesieniu do kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji;
+- **2)** właściwym marszałkiem województwa – w odniesieniu do udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, innych niż złoża strategiczne, oraz w odniesieniu do udokumentowanych wód podziemnych;
+- **3)** właściwym wojewódzkim konserwatorem zabytków – w odniesieniu do obszarów i obiektów objętych formami ochrony konserwatorskiej na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168) oraz ujętych w gminnej ewidencji zabytków lub wykazie, o którym mowa w art. 7 ustawy z dnia 18 marca 2010 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie niektórych innych ustaw (Dz. U. poz. 474);
+- **4)** właściwym zarządcą drogi – w zakresie, w jakim projektowana inwestycja przebiega przez nieruchomości wchodzące w skład pasa drogowego, przylega do nieruchomości wchodzących w skład pasa drogowego lub powoduje ograniczenia w sposobie zagospodarowania pasa drogowego.
 
 15. Organy, o których mowa w ust. 14, dokonują uzgodnień w terminie 21 dni od dnia otrzymania wystąpienia, o którym mowa w ust. 14. Nieprzedstawienie stanowiska w tym terminie uznaje się za uzgodnienie wniosku, o którym mowa w ust. 1. Wójt (burmistrz, prezydent miasta) przekazuje inwestorowi do wiadomości stanowisko nie później niż w terminie 3 dni od otrzymania stanowiska w tej sprawie.
 
@@ -221,8 +245,8 @@ Art. 42–52. (pominięte)
 
 2. Potwierdzenie, że realizacja inwestycji mieszkaniowych nie uniemożliwia:
 
-- **1)** zarządzania, eksploatacji i utrzymania infrastruktury portowej oraz nie powoduje zagrożenia dla transportu towarów do oraz z portów i przystani morskich następuje w formie pisemnego uzgodnienia właściwego podmiotu zarządzającego portem lub przystanią morską;
-- **2)** zarządzania, eksploatacji i utrzymania infrastruktury dostępowej oraz nie powoduje zagrożenia dla bezpieczeństwa morskiego następuje w formie pisemnego uzgodnienia właściwego dyrektora urzędu morskiego.
+- **1)** zarządzania, eksploatacji i utrzymania infrastruktury portowej oraz nie powoduje zagrożenia dla transportu towarów do oraz z portów i przystani morskich – następuje w formie pisemnego uzgodnienia właściwego podmiotu zarządzającego portem lub przystanią morską;
+- **2)** zarządzania, eksploatacji i utrzymania infrastruktury dostępowej oraz nie powoduje zagrożenia dla bezpieczeństwa morskiego – następuje w formie pisemnego uzgodnienia właściwego dyrektora urzędu morskiego.
 
 **Art. 12.**
 
@@ -234,13 +258,13 @@ Art. 42–52. (pominięte)
 
 **Art. 13.** W przypadku gdy inwestycja mieszkaniowa przewidziana jest w obowiązującym miejscowym planie zagospodarowania przestrzennego, decyzji o ustaleniu lokalizacji inwestycji celu publicznego lub decyzji o warunkach zabudowy, inwestor w każdym czasie może wystąpić o wydanie pozwolenia na budowę inwestycji mieszkaniowej lub inwestycji towarzyszącej w trybie niniejszej ustawy. Przepisu art. 25 ust. 6 nie stosuje się.
 
-**Art. 14.** Do spraw określonych w niniejszym rozdziale nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), zwanej dalej „Kodeksem postępowania administracyjnego”.
+**Art. 14.** Do spraw określonych w niniejszym rozdziale nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), zwanej dalej „Kodeksem postępowania administracyjnego”.
 
 **Art. 15.** Skarga, o której mowa w art. 101 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436), może być wniesiona w terminie 30 dni od dnia opublikowania uchwały, o której mowa w art. 7 ust. 4, w wojewódzkim dzienniku urzędowym lub przekazania tej uchwały inwestorowi.
 
 **Art. 16.**
 
-1. Do skargi, o której mowa w art. 15, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769 i 1427), z tym że:
+1. Do skargi, o której mowa w art. 15, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769 i 1427), z tym że:
 
 - **1)** przekazanie akt i odpowiedzi na skargę następuje w terminie 15 dni od dnia otrzymania skargi;
 - **2)** skargę rozpatruje się w terminie 2 miesięcy od dnia otrzymania akt wraz z odpowiedzią na skargę.
@@ -259,8 +283,8 @@ Art. 42–52. (pominięte)
 
 2. Inwestycję mieszkaniową lokalizuje się:
 
-- **1)** w odległości nie większej niż 1000 m, a w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców 500 m, od przystanku komunikacyjnego w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2025 r. poz. 285 i 1173);
-- **2)** w odległości nie większej niż 3000 m, a w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców 1500 m od szkoły podstawowej, która jest w stanie przyjąć nowych uczniów w liczbie dzieci stanowiącej nie mniej niż 7 % planowanej liczby mieszkańców inwestycji mieszkaniowej.
+- **1)** w odległości nie większej niż 1000 m, a w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców – 500 m, od przystanku komunikacyjnego w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2025 r. poz. 285 i 1173);
+- **2)** w odległości nie większej niż 3000 m, a w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców – 1500 m od szkoły podstawowej, która jest w stanie przyjąć nowych uczniów w liczbie dzieci stanowiącej nie mniej niż 7 % planowanej liczby mieszkańców inwestycji mieszkaniowej.
 
 3. Spełnienie warunków, o których mowa w ust. 2 pkt 2, w zakresie możliwości przyjęcia nowych uczniów w szkole podstawowej ocenia się na podstawie zaświadczenia wójta (burmistrza, prezydenta miasta).
 
@@ -272,7 +296,7 @@ Art. 42–52. (pominięte)
 - **2)** (uchylony) 4b. Obowiązek zapewnienia minimalnego udziału ogólnodostępnego, nieogrodzonego, urządzonego terenu wypoczynku oraz rekreacji lub sportu w ramach powierzchni biologicznie czynnej, o którym mowa w ust. 4a pkt 1, nie dotyczy:
 - **1)** inwestycji mieszkaniowych obejmujących swoim zakresem budowę, przebudowę lub zmianę sposobu użytkowania budynków mieszkalnych jednorodzinnych;
 - **2)** inwestycji mieszkaniowych zlokalizowanych w obszarze zabudowy śródmiejskiej;
-- **3)** udostępnienia ogólnodostępnego, nieogrodzonego, urządzonego terenu wypoczynku oraz rekreacji lub sportu na terenie inwestycji towarzyszącej pod warunkiem spełnienia przez ten teren wymogów, o których mowa w ust. 4.
+- **3)** udostępnienia ogólnodostępnego, nieogrodzonego, urządzonego terenu wypoczynku oraz rekreacji lub sportu na terenie inwestycji towarzyszącej – pod warunkiem spełnienia przez ten teren wymogów, o których mowa w ust. 4.
 
 4c. Lokalizacja ogólnodostępnego, nieogrodzonego, urządzonego terenu wypoczynku oraz rekreacji lub sportu w ramach powierzchni biologicznie czynnej, o którym mowa w ust. 4a pkt 1, na terenie inwestycji mieszkaniowej zapewnia spełnienie wymogów, o których mowa w ust. 4.
 
@@ -285,8 +309,8 @@ Art. 42–52. (pominięte)
 
 6. Budynki objęte inwestycją mieszkaniową:
 
-- **1)** poza miastami oraz w miastach, w których liczba mieszkańców nie przekracza 100 000 mieszkańców nie mogą być wyższe niż 4 kondygnacje nadziemne;
-- **2)** w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców nie mogą być wyższe niż 14 kondygnacji nadziemnych.
+- **1)** poza miastami oraz w miastach, w których liczba mieszkańców nie przekracza 100 000 mieszkańców – nie mogą być wyższe niż 4 kondygnacje nadziemne;
+- **2)** w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców – nie mogą być wyższe niż 14 kondygnacji nadziemnych.
 
 7. Jeżeli w odległości nie większej niż 500 m od budynków objętych inwestycją mieszkaniową znajdują się, w istniejącej zabudowie, budynki mieszkalne o wysokości przekraczającej liczbę kondygnacji, o której mowa w ust. 6, wówczas maksymalną wysokość budynków objętych inwestycją mieszkaniową w miejscowościach, o których mowa w ust. 6, wyznacza wysokość najwyższego budynku mieszkalnego w istniejącej zabudowie.
 
@@ -309,7 +333,7 @@ Art. 42–52. (pominięte)
 - **1)** w zakresie odległości lub liczby kondygnacji nie mogą różnić się o więcej niż 50 % od standardów, o których mowa w art. 17 ust. 2, 4, 6 i 7;
 - **2)** nie mogą różnić się o więcej niż 50 % w zakresie wskaźnika procentowego, o którym mowa w art. 17 ust. 2 pkt 2.
 
-3. W lokalnych standardach urbanistycznych, o których mowa w ust. 1, rada gminy może określić liczbę miejsc postojowych niezbędnych dla obsługi realizowanej inwestycji mieszkaniowej lub obowiązek zapewnienia dostępu do sieci ciepłowniczej na zasadach wynikających z przepisów ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ).
+3. W lokalnych standardach urbanistycznych, o których mowa w ust. 1, rada gminy może określić liczbę miejsc postojowych niezbędnych dla obsługi realizowanej inwestycji mieszkaniowej lub obowiązek zapewnienia dostępu do sieci ciepłowniczej na zasadach wynikających z przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ).
 
 4. Uchwała o ustaleniu lokalnych standardów urbanistycznych stanowi akt prawa miejscowego.
 
@@ -323,7 +347,7 @@ Art. 42–52. (pominięte)
 
 2. Właściwy zarządca drogi nie później niż w terminie 3 dni od dnia złożenia wniosku zawiadamia organ wyższego stopnia o złożeniu wniosku o wydanie zezwolenia na zajęcie pasa drogowego.
 
-3. W przypadku niewydania zezwolenia w terminie, o którym mowa w ust. 1, organ wyższego stopnia, a w przypadku Generalnego Dyrektora Dróg Krajowych i Autostrad minister właściwy do spraw transportu, wymierza zarządcy drogi, w drodze decyzji, karę w wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
+3. W przypadku niewydania zezwolenia w terminie, o którym mowa w ust. 1, organ wyższego stopnia, a w przypadku Generalnego Dyrektora Dróg Krajowych i Autostrad – minister właściwy do spraw transportu, wymierza zarządcy drogi, w drodze decyzji, karę w wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
 
 4. Karę uiszcza się w terminie 14 dni od dnia doręczenia ostatecznej decyzji, o której mowa w ust. 3.
 
@@ -359,7 +383,7 @@ Art. 42–52. (pominięte)
 
 4. W przypadku gdy na podstawie uchwały, o której mowa w ust. 1, zostanie wydana decyzja o pozwoleniu na budowę, pozostałe uchwały wydane w odniesieniu do tego samego terenu wygasają.
 
-5. Ilekroć w przepisach ustawy z dnia 7 lipca 1994 r. Prawo budowlane jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także uchwałę o ustaleniu lokalizacji inwestycji mieszkaniowej lub inwestycji towarzyszącej.
+5. Ilekroć w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także uchwałę o ustaleniu lokalizacji inwestycji mieszkaniowej lub inwestycji towarzyszącej.
 
 6. W przypadku realizacji inwestycji mieszkaniowej w trybie niniejszej ustawy:
 
@@ -369,11 +393,11 @@ Art. 42–52. (pominięte)
 
 7. Zmiana oznaczenia w katastrze nieruchomości, dotycząca nieruchomości objętej uchwałą, o której mowa w ust. 1, dokonana po podjęciu tej uchwały, wynikająca w szczególności z podziału nieruchomości, scalenia i podziału nieruchomości, scalenia i wymiany gruntów lub aktualizacji operatu ewidencyjnego, nie stanowi przeszkody do wydania decyzji o pozwoleniu na budowę.
 
-8. W przypadku wykonywania, w ramach inwestycji mieszkaniowych, robót zwolnionych z obowiązku uzyskania pozwolenia na budowę, art. 30 ust. 6 pkt 2 ustawy z dnia 7 lipca 1994 r. Prawo budowlane w zakresie miejscowego planu zagospodarowania przestrzennego stosuje się z uwzględnieniem art. 7 niniejszej ustawy.
+8. W przypadku wykonywania, w ramach inwestycji mieszkaniowych, robót zwolnionych z obowiązku uzyskania pozwolenia na budowę, art. 30 ust. 6 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane w zakresie miejscowego planu zagospodarowania przestrzennego stosuje się z uwzględnieniem art. 7 niniejszej ustawy.
 
 **Art. 26.**
 
-1. Jeżeli realizacja inwestycji mieszkaniowej wymaga zgody wodnoprawnej, zgodę tę wydaje właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się art. 407 ust. 2 pkt 3 ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535).
+1. Jeżeli realizacja inwestycji mieszkaniowej wymaga zgody wodnoprawnej, zgodę tę wydaje właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się art. 407 ust. 2 pkt 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535).
 
 2. W sprawach uzyskania pozwolenia wodnoprawnego art. 30 stosuje się odpowiednio.
 
@@ -385,7 +409,7 @@ Art. 42–52. (pominięte)
 
 6. Do terminu, o którym mowa w ust. 1, nie wlicza się terminów przewidzianych w przepisach prawa do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony, albo z przyczyn niezależnych od organu.
 
-7. W sprawach zgłoszenia wodnoprawnego nie stosuje się art. 422 pkt 3 ustawy z dnia 20 lipca 2017 r. Prawo wodne.
+7. W sprawach zgłoszenia wodnoprawnego nie stosuje się art. 422 pkt 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
 
 **Art. 27.**
 
@@ -433,7 +457,7 @@ Art. 42–52. (pominięte)
 
 3. Rozstrzygnięcie w sprawie zezwolenia na usunięcie drzew lub krzewów, o którym mowa w ust. 1, właściwy organ podejmuje po uzgodnieniu z wójtem (burmistrzem, prezydentem miasta), a w przypadku nieruchomości lub jej części, wpisanej do rejestru zabytków, z wojewódzkim konserwatorem zabytków. Właściwy w sprawie wójt (burmistrz, prezydent miasta) lub wojewódzki konserwator zabytków zajmuje stanowisko w terminie 14 dni od dnia otrzymania wniosku właściwego organu, przy czym niezajęcie stanowiska w tym terminie traktuje się jako uzgodnienie. Właściwy organ może wnieść wniosek o uzgodnienie w postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
-4. W przypadku usuwania drzew lub krzewów rosnących na nieruchomościach będących własnością gminy z wyjątkiem nieruchomości będących w użytkowaniu wieczystym innego podmiotu uzgodnienie, o którym mowa w ust. 3, następuje z właściwym miejscowo starostą. Jeżeli prezydent miasta na prawach powiatu sprawuje funkcję starosty, uzgodnienie następuje z marszałkiem województwa.
+4. W przypadku usuwania drzew lub krzewów rosnących na nieruchomościach będących własnością gminy – z wyjątkiem nieruchomości będących w użytkowaniu wieczystym innego podmiotu – uzgodnienie, o którym mowa w ust. 3, następuje z właściwym miejscowo starostą. Jeżeli prezydent miasta na prawach powiatu sprawuje funkcję starosty, uzgodnienie następuje z marszałkiem województwa.
 
 5. Usunięcie drzew lub krzewów z terenu nieruchomości stanowiącej park, ogród albo inną formę zaprojektowanej zieleni wpisaną do rejestru zabytków wymaga również pozwolenia, o którym mowa w art. 36 ust. 1 pkt 1 albo 11 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami.
 
@@ -468,18 +492,18 @@ Art. 42–52. (pominięte)
 7. Jeżeli:
 
 - **1)** przywrócenie nieruchomości do stanu poprzedniego nie jest możliwe albo powoduje nadmierne trudności lub koszty lub
-- **2)** w trakcie okresu udostępnienia powstały szkody, które nie zostały uwzględnione w odszkodowaniu, o którym mowa w ust. 4 właścicielom, użytkownikom wieczystym lub osobom, którym przysługują ograniczone prawa rzeczowe, przysługuje od inwestora odszkodowanie.
+- **2)** w trakcie okresu udostępnienia powstały szkody, które nie zostały uwzględnione w odszkodowaniu, o którym mowa w ust. 4 – właścicielom, użytkownikom wieczystym lub osobom, którym przysługują ograniczone prawa rzeczowe, przysługuje od inwestora odszkodowanie.
 
 **Art. 36.**
 
 1. Decyzję o odszkodowaniu, o którym mowa w art. 35 ust. 7, wydaje właściwy organ wydający decyzję o pozwoleniu na budowę w terminie 30 dni, na wniosek właściciela lub użytkownika wieczystego nieruchomości lub osoby, której przysługuje ograniczone prawo rzeczowe na nieruchomości, złożony po dniu, w którym:
 
-- **1)** ustał obowiązek udostępnienia nieruchomości w przypadku określonym w art. 35 ust. 7 pkt 1;
-- **2)** powstała szkoda w przypadku określonym w art. 35 ust. 7 pkt 2.
+- **1)** ustał obowiązek udostępnienia nieruchomości – w przypadku określonym w art. 35 ust. 7 pkt 1;
+- **2)** powstała szkoda – w przypadku określonym w art. 35 ust. 7 pkt 2.
 
 2. Odszkodowania, o których mowa w art. 35 ust. 4, 5 i 7, powinny odpowiadać wartości poniesionych szkód. Jeżeli wskutek tych zdarzeń zmniejszy się wartość nieruchomości, odszkodowanie powiększa się o kwotę odpowiadającą temu zmniejszeniu.
 
-3. W przypadkach określonych w art. 35 ust. 4 i 7 koszty wyceny szkód ponosi inwestor, a wysokość odszkodowania ustala właściwy organ wydający decyzję o pozwoleniu na budowę w decyzji o odszkodowaniu na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego. Obowiązek wypłaty odszkodowania obciąża inwestora. Zapłata odszkodowania następuje jednorazowo, w terminie 14 dni od dnia doręczenia decyzji stronie, chyba że uprawniony do otrzymania odszkodowania wnioskuje o inny sposób wypłaty. W przypadku opóźnienia w wypłacie odszkodowania należą się odsetki, o których mowa w art. 481 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
+3. W przypadkach określonych w art. 35 ust. 4 i 7 koszty wyceny szkód ponosi inwestor, a wysokość odszkodowania ustala właściwy organ wydający decyzję o pozwoleniu na budowę w decyzji o odszkodowaniu na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego. Obowiązek wypłaty odszkodowania obciąża inwestora. Zapłata odszkodowania następuje jednorazowo, w terminie 14 dni od dnia doręczenia decyzji stronie, chyba że uprawniony do otrzymania odszkodowania wnioskuje o inny sposób wypłaty. W przypadku opóźnienia w wypłacie odszkodowania należą się odsetki, o których mowa w art. 481 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
 
 4. Odszkodowanie wpłaca się do depozytu sądowego, jeżeli uprawniony do odszkodowania odmawia jego przyjęcia albo wypłata odszkodowania natrafiła na trudne do przezwyciężenia przeszkody.
 
@@ -495,7 +519,7 @@ Art. 42–52. (pominięte)
 
 1. W przypadku gdy sieć uzbrojenia terenu związana z inwestycją mieszkaniową lub inwestycją towarzyszącą wymaga przejścia przez tereny śródlądowych wód płynących, dróg publicznych lub obszary kolejowe, inwestor jest uprawniony do zajęcia tego terenu.
 
-2. Inwestor przed złożeniem wniosku o pozwolenie na budowę uzgadnia, w drodze umowy w formie pisemnej, z zarządcą drogi, zarządcą infrastruktury kolejowej lub z właściwym podmiotem lub organem, o których mowa w art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne, zakres, termin i warunki zajęcia tego terenu, w tym wynagrodzenie z tego tytułu. Zajęcie terenu, o którym mowa w ust. 1, nie wymaga uzyskania pozwolenia wodnoprawnego.
+2. Inwestor przed złożeniem wniosku o pozwolenie na budowę uzgadnia, w drodze umowy w formie pisemnej, z zarządcą drogi, zarządcą infrastruktury kolejowej lub z właściwym podmiotem lub organem, o których mowa w art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, zakres, termin i warunki zajęcia tego terenu, w tym wynagrodzenie z tego tytułu. Zajęcie terenu, o którym mowa w ust. 1, nie wymaga uzyskania pozwolenia wodnoprawnego.
 
 3. Jeżeli w terminie 30 dni od dnia złożenia przez inwestora wniosku o uzgodnienie nie dojdzie do zawarcia umowy, o której mowa w ust. 2, właściwy organ, na wniosek inwestora, w decyzji o pozwoleniu na budowę określa zakres, termin i warunki zajęcia terenu, w tym wynagrodzenie z tego tytułu, z uwzględnieniem ust. 4.
 
@@ -517,6 +541,12 @@ Art. 42–52. (pominięte)
 
 **Art. 55.** Dla zamierzenia budowlanego, wobec którego przed dniem wejścia w życie ustawy:
 
+- **1)** został złożony wniosek o pozwolenie na budowę, odrębny wniosek o zatwierdzenie projektu budowlanego, wniosek o zmianę pozwolenia na budowę lub wniosek o zatwierdzenie zamiennego projektu budowlanego,
+- **2)** został złożony wniosek o udzielenie zgody na odstępstwo od przepisów techniczno-budowlanych,
+- **3)** zostało dokonane zgłoszenie budowy lub wykonania robót budowlanych w przypadku, gdy nie jest wymagane uzyskanie decyzji o pozwoleniu na budowę,
+- **4)** została wydana decyzja o pozwoleniu na budowę lub odrębna decyzja o zatwierdzeniu projektu budowlanego,
+- **5)** został złożony wniosek o pozwolenia na użytkowanie obiektu budowlanego – stosuje się przepisy ustawy zmienianej w art. 44 w brzmieniu dotychczasowym.
+
 **Art. 56.** Do spraw wszczętych na podstawie przepisów ustawy zmienianej w art. 47 w brzmieniu dotychczasowym i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 47 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 57.** Do postępowań w sprawie wymierzenia kary za zwłokę w wydaniu decyzji o ustaleniu lokalizacji inwestycji celu publicznego, wszczętych i niezakończonych ostatecznym postanowieniem do dnia wejścia w życie niniejszej ustawy, stosuje się przepis art. 51 ust. 2d ustawy zmienianej w art. 49 w brzmieniu nadanym niniejszą ustawą.
@@ -528,4 +558,8 @@ Art. 42–52. (pominięte)
 - **8)** Ustawa traci moc z dniem 1 lipca 2026 r.
 
 **Art. 60.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 42 i art. 48, które wchodzą w życie z dniem ogłoszenia;
+- **2)** art. 39, art. 50 i art. 52, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.
+
 

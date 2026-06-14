@@ -8,10 +8,10 @@ pos: 41
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 stycznia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 4411 POPRAWKI DO ZAŁĄCZNIKA do Konwencji o ułatwieniu międzynarodowego obrotu morskiego, sporządzonej w Londynie dnia 9 kwietnia 1965 r., przyjęte przez Komitet Ułatwień Międzynarodowej Organizacji Morskiej dnia 13 maja 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000041) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/41/text.pdf) |
 
-4411 POPRAWKI DO ZAŁĄCZNIKA do Konwencji o ułatwieniu międzynarodowego obrotu morskiego, sporządzonej w Londynie dnia 9 kwietnia 1965 r., przyjęte przez Komitet Ułatwień Międzynarodowej Organizacji Morskiej dnia 13 maja 2022 r.
 Przekład
 

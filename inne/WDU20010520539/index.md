@@ -8,7 +8,7 @@ pos: 539
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rentach strukturalnych w rolnictwie
@@ -41,6 +41,13 @@ source: "isap-pdf"
 2. W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy o ubezpieczeniu społecznym rolników.
 
 **Art. 2.** Określenia użyte w ustawie oznaczają:
+
+- **1)** renta strukturalna – miesięczne świadczenie pieniężne przysługujące za przekazane gospodarstwo rolne po spełnieniu warunków określonych w ustawie;
+- **2)** rolnik – osoba fizyczna prowadząca na własny rachunek działalność rolniczą jako właściciel (współwłaściciel) gospodarstwa rolnego położonego w granicach Rzeczypospolitej Polskiej, bez względu na to, czy gospodarstwo rolne stanowi współwłasność małżonków, czy też zostało zorganizowane na gruntach stanowiących własność odrębną jednego lub każdego z nich;
+- **3)** działalność rolnicza – działalność w zakresie produkcji roślinnej lub zwierzęcej, w tym produkcji ogrodniczej, sadowniczej i rybnej;
+- **4)** gospodarstwo rolne – gospodarstwo rolne w rozumieniu przepisów o podatku rolnym;
+- **5)** przekazanie gospodarstwa rolnego – odpłatne lub nieodpłatne przeniesienie własności gruntów wchodzących w skład tego gospodarstwa, w drodze umowy, na rzecz osoby fizycznej lub prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, jak również przejęcie tych gruntów na własność Skarbu Państwa, w drodze decyzji Prezesa Agencji Własności Rolnej Skarbu Państwa ;
+- **6)** najniższa emerytura – kwota najniższej emerytury określona w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 #### Rozdział 2 Warunki nabywania prawa do renty strukturalnej
 
@@ -118,6 +125,9 @@ source: "isap-pdf"
 6. Agencja Własności Rolnej Skarbu Państwa gospodaruje przejętymi nieruchomościami na zasadach określonych w przepisach o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa.
 
 **Art. 10.** Warunek zaprzestania prowadzenia działalności rolniczej, o którym mowa w art. 3 ust. 1 pkt 4, uważa się za spełniony, jeżeli po przekazaniu gospodarstwa rolnego ani uprawniony do renty strukturalnej, ani jego małżonek:
+
+- **1)** nie jest właścicielem (współwłaścicielem) lub posiadaczem gruntów będących gospodarstwem rolnym w rozumieniu przepisów o podatku rolnym;
+- **2)** nie prowadzi działu specjalnego produkcji rolnej w rozumieniu przepisów o podatku dochodowym od osób fizycznych, z wyjątkiem prowadzenia pasiek.
 
 #### Rozdział 3 Wysokość i zasady wypłacania renty strukturalnej
 

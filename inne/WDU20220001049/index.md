@@ -8,10 +8,10 @@ pos: 1049
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 maja 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1049 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 22 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,33 +25,33 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001049) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1049/text.pdf) |
 
-Poz. 1049 OBWIESZCZENIE MINISTRA ZDROWIA z dnia 22 kwietnia 2022 r.
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia sprawie wykazu szpitali innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych
-1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 3 grudnia 2010 r. sprawie wykazu szpitali innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych (Dz. U.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie wykazu szpitali i innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 3 grudnia 2010 r. w sprawie wykazu szpitali i innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych (Dz. U.
 poz. 1610), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 22 grudnia 2020 r.
-zmieniającym rozporządzenie sprawie wykazu szpitali innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych (Dz. U. z 2021 r. poz. 48).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 22 grudnia 2020 r. zmieniającego rozporządzenie sprawie wykazu szpitali innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych (Dz. U. z 2021 r. poz. 48), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: wz. W. Kraska Dziennik Ustaw – 2 – Poz. 1049 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 grudnia 2010 r.
-sprawie wykazu szpitali innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych Na podstawie art. 47 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2021 r. poz. 1856) zarządza się, co następuje: § 1. Jednostkami uprawnionymi do korzystania ze zwolnienia od należności przywozowych, o których mowa art. 57 ust. 1 rozporządzenia Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającego wspólnotowy system zwolnień celnych (wersja ujednolicona) (Dz. Urz. UE L 324 z 10.12.2009, str. 23), są:
-1) podmioty lecznicze rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655 974);
+zmieniającym rozporządzenie w sprawie wykazu szpitali i innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych (Dz. U. z 2021 r. poz. 48).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 22 grudnia 2020 r. zmieniającego rozporządzenie w sprawie wykazu szpitali i innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych (Dz. U. z 2021 r. poz. 48), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 grudnia 2010 r.
+w sprawie wykazu szpitali i innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych Na podstawie art. 47 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2021 r. poz. 1856) zarządza się, co następuje:
+§ 1. Jednostkami uprawnionymi do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 57 ust. 1 rozporządzenia Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającego wspólnotowy system zwolnień celnych (wersja ujednolicona) (Dz. Urz. UE L 324 z 10.12.2009, str. 23), są:
+1) podmioty lecznicze w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655 i 974);
 2) medyczne instytuty badawcze:
-a) Centrum Onkologii – Instytut im. Marii Skłodowskiej-Curie Warszawie,
-b) Instytut „Centrum Zdrowia Matki Polki” Łodzi,
-c) Instytut Fizjologii Patologii Słuchu Warszawie,
-d) Instytut Gruźlicy Chorób Płuc Warszawie,
-e) Instytut Hematologii Transfuzjologii Warszawie,
-f) Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego Warszawie,
-g) Instytut Matki Dziecka Warszawie,
-h) Instytut Medycyny Wsi im. Witolda Chodźki Lublinie,
-i) Instytut Medycyny Pracy im. prof. dr med. Jerzego Nofera Łodzi,
+a) Centrum Onkologii – Instytut im. Marii Skłodowskiej-Curie w Warszawie,
+b) Instytut „Centrum Zdrowia Matki Polki” w Łodzi,
+c) Instytut Fizjologii i Patologii Słuchu w Warszawie,
+d) Instytut Gruźlicy i Chorób Płuc w Warszawie,
+e) Instytut Hematologii i Transfuzjologii w Warszawie,
+f) Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego w Warszawie,
+g) Instytut Matki i Dziecka w Warszawie,
+h) Instytut Medycyny Wsi im. Witolda Chodźki w Lublinie,
+i) Instytut Medycyny Pracy im. prof. dr med. Jerzego Nofera w Łodzi,
 j) (uchylona),
-k) Instytut „Pomnik – Centrum Zdrowia Dziecka” Warszawie,
-l) Instytut Psychiatrii Neurologii Warszawie,
-m) Instytut Reumatologii im. prof. dr hab. med. Eleonory Reicher Warszawie,
-n) Instytut Żywności Żywienia Warszawie im. prof. dr hab. med. Aleksandra Szczygła,
-o) Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny Warszawie,
-p) Wojskowy Instytut Higieny Epidemiologii im. Generała Karola Kaczkowskiego,
-q) Wojskowy Instytut Medycyny Lotniczej Warszawie,
-r) Wojskowy Instytut Medyczny Warszawie.
-§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+k) Instytut „Pomnik – Centrum Zdrowia Dziecka” w Warszawie,
+l) Instytut Psychiatrii i Neurologii w Warszawie,
+m) Instytut Reumatologii im. prof. dr hab. med. Eleonory Reicher w Warszawie,
+n) Instytut Żywności i Żywienia w Warszawie im. prof. dr hab. med. Aleksandra Szczygła,
+o) Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny w Warszawie,
+p) Wojskowy Instytut Higieny i Epidemiologii im. Generała Karola Kaczkowskiego,
+q) Wojskowy Instytut Medycyny Lotniczej w Warszawie,
+r) Wojskowy Instytut Medyczny w Warszawie.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

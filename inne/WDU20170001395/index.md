@@ -1,0 +1,256 @@
+---
+title: Rozporządzenie Ministra Obrony Narodowej z dnia 23 czerwca 2017 r. zmieniające rozporządzenie w sprawie warunków bezpieczeństwa wykonywania prac podwodnych w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej
+address: WDU20170001395
+eli: DU/2017/1395
+publisher: DU
+year: 2017
+pos: 1395
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1395 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 23 czerwca 2017 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 1395 |
+| ISAP | WDU20170001395 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2017-06-23 |
+| Data wydania | 2017-07-20 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001395) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1395/text.pdf) |
+
+zmieniające rozporządzenie w sprawie warunków bezpieczeństwa wykonywania prac podwodnych w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej Na podstawie art. 8 ust. 6 ustawy z dnia 17 października 2003 r. o wykonywaniu prac podwodnych (Dz. U. z 2014 r.
+poz. 1389 oraz z 2016 r. poz. 1954) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 21 czerwca 2012 r. w sprawie warunków bezpieczeństwa wykonywania prac podwodnych w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej (Dz. U. poz. 810) wprowadza się następujące zmiany:
+1) w § 2:
+a) po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) nurkowanie powtarzalne – nurkowanie, które charakteryzuje się tym, że przerwa między zakończeniem jednej ekspozycji a rozpoczęciem następnej jest krótsza niż 2 godziny;”,
+b) w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) podwodne działania bojowe – prace podwodne wykonywane w ramach operacji wojskowych, szkolenia prowadzonego w tym zakresie oraz szkolenia specjalistycznego w celu uzyskania wojskowych kwalifikacji nurkowych, realizowane w dzień i w nocy, z uwzględnieniem bezpieczeństwa nurków oraz możliwości technicznego zabezpieczenia ich pracy przez użycie adekwatnych sił i środków.”;
+2) w § 23 w ust. 1:
+a) po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) termin napełnienia butli;”,
+b) uchyla się pkt 4;
+3) w § 25 ust. 4 otrzymuje brzmienie: „4. Dozwolone ciśnienia cząstkowe i czasy ekspozycji w przypadku prac podwodnych wykonywanych z użyciem tlenu (mieszanin wzbogaconych w tlen) są określone w tabeli 1 załącznika nr 11 do rozporządzenia.”;
+4) w § 28 uchyla się ust. 2;
+5) w § 36:
+a) ust. 2 otrzymuje brzmienie: „2. Przeglądu urządzeń technicznych dokonuje członek ekipy posiadający odpowiednie kwalifikacje lub przeszkolenie w tym zakresie, a następnie melduje o tym kierownikowi.”,
+b) ust. 4 otrzymuje brzmienie: „4. Sprawdzenie poprawności działania sprzętu przed rozpoczęciem prac odbywa się w obecności kierownika lub wyznaczonego przez niego członka ekipy posiadającego co najmniej kwalifikacje starszego nurka.”;
+6) w § 39 ust. 2 otrzymuje brzmienie: „2. W przypadku zaistnienia wypadku nurkowego decyzję dotyczącą transportu lotniczego osoby, która wykonywała prace podwodne, podejmuje lekarz lub kierownik.”;
+7) w § 49 ust. 3 otrzymuje brzmienie: „3. Zanurzenie kontrolne wykonuje się po uprzednim sprawdzeniu sprzętu nurkowego przez kierownika lub wyznaczonego przez niego członka ekipy posiadającego co najmniej kwalifikacje starszego nurka.”;
+8) po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „Rozdział 9a Podwodne działania bojowe
+§ 84a. Do podwodnych działań bojowych stosuje się przepisy rozporządzenia ze zmianami wynikającymi z przepisów niniejszego rozdziału.
+§ 84b. 1. Minimalny skład ekipy wykonującej podwodne działania bojowe jest określony w załączniku nr 1a do rozporządzenia.
+2. Minimalne wyposażenie nurka do wykonywania podwodnych działań bojowych w lekkim sprzęcie nurkowym o otwartym, półzamkniętym lub zamkniętym obiegu czynnika oddechowego jest określone w załączniku nr 8a do rozporządzenia.
+3. Dopuszczalne ekspozycje tlenowe przy korzystaniu z procedury typu pojedynczej ekspozycji stosowane w podwodnych działaniach bojowych są określone w tabeli 2 załącznika nr 11 do rozporządzenia.
+4. Maksymalne dozwolone czasy „wycieczki” tlenowej stosowane w podwodnych działaniach bojowych są określone w tabeli 3 załącznika nr 11 do rozporządzenia.
+5. Sposoby kalkulacji dozwolonych ekspozycji tlenowych przy nurkowaniach powtarzalnych, stosowane w podwodnych działaniach bojowych, są określone w tabeli 4 załącznika nr 11 do rozporządzenia.
+6. Jeżeli przy wykonywaniu podwodnych działań bojowych następuje zmiana mieszaniny oddechowej z innej niż czysty tlen na czysty tlen, to czas oddychania przez nurka mieszaniną oddechową (inną niż czysty tlen) o ciśnieniu parcjalnym tlenu (ppO2) równym lub wyższym 100 kPa traktuje się jako czas ekspozycji tlenowej, który musi być brany pod uwagę w planowaniu nurkowań powtarzalnych.
+7. Czas pobytu nurka w pobliżu komory dekompresyjnej po zakończeniu podwodnych działań bojowych jest określony w załączniku nr 13a do rozporządzenia.
+8. Do wykonywania podwodnych działań bojowych nie stosuje się przepisów § 15, § 19 ust. 1, § 46 ust. 1–5 i 7, § 54, § 57, § 59, § 60, § 62 ust. 1, § 66, § 73 ust. 2, 4, 5, 7, 8 i 10–18, § 75 ust. 1 i 4 oraz § 82 ust. 2.
+9. W czasie wykonywania podwodnych działań bojowych z wykorzystaniem autonomicznych urządzeń do cięcia pod wodą nie stosuje się przepisu § 70 ust. 5.
+10. W czasie wykonywania podwodnych działań bojowych w ramach operacji wojskowych:
+1) można odstąpić od obowiązku wynikającego z przepisów § 43 ust. 3, § 44 ust. 3, § 56, § 71 ust. 6, 7, 11 i 12, § 72 ust. 5–8, § 73 ust. 9 oraz § 74 ust. 1 i 6;
+2) nie stosuje się przepisu § 39 ust. 1.
+§ 84c. 1. Bezpieczeństwo wykonywania podwodnych działań bojowych zapewnia się przez dopuszczenie do użycia:
+1) tlenu, mieszanin oddechowych lub powietrza;
+2) materiałów wybuchowych i uzbrojenia;
+3) sprzętu i urządzeń wykorzystywanych do wykonywania podwodnych działań bojowych;
+4) pojazdów podwodnych.
+2. Przy wykonywaniu podwodnych działań bojowych bazę nurkową wyposaża się co najmniej w:
+1) dwa zestawy minimalnego wyposażenia nurka do wykonywania podwodnych działań bojowych w lekkim sprzęcie nurkowym o otwartym, półzamkniętym, zamkniętym obiegu czynnika oddechowego lub dwa zestawy minimalnego wyposażenia nurka do wykonywania prac podwodnych w przewodowym sprzęcie nurkowym;
+2) zapas czynników oddechowych i sorbentów niezbędnych do prowadzenia prac, zgodnie z załącznikiem nr 9 do rozporządzenia;
+3) wyposażenie niezbędne do oznakowania miejsca prowadzenia prac;
+4) analizatory gazów do pomiaru składu fizykochemicznego czynników oddechowych;
+5) liny sygnałowe, przy czym decyzję o ich użyciu podejmuje każdorazowo kierownik po ocenie ryzyka prowadzenia prac.
+3. Kierownik decyduje o rozmieszczeniu wyposażenia bazy nurkowej przy wykonywaniu podwodnych działań bojowych.
+4. Wyposażenie bazy nurkowej, o którym mowa w ust. 2 pkt 3 i 5, nie dotyczy wykonywania podwodnych działań bojowych w ramach operacji wojskowych.
+5. Nurek przy wykonywaniu podwodnych działań bojowych w ramach operacji wojskowych może samodzielnie sprawdzać poprawność działania sprzętu nurkowego.
+§ 84d. 1. Zabezpieczenie medyczne wykonywania podwodnych działań bojowych realizują:
+1) lekarz posiadający ukończony kurs z zakresu fizjopatologii nurkowania i terapii hiperbarycznej;
+2) kierownik;
+3) ratownik medyczny posiadający ukończony kurs z zakresu fizjopatologii nurkowania i terapii hiperbarycznej;
+4) pielęgniarka posiadająca ukończony kurs z zakresu fizjopatologii nurkowania i terapii hiperbarycznej;
+5) nurek posiadający ukończony kurs pierwszej pomocy.
+2. Skład personelu medycznego, w zależności od charakteru podwodnych działań bojowych, głębokości, stosowanego czynnika oddechowego w określonym rodzaju obiegu tego czynnika, jest określony w załączniku nr 2a do rozporządzenia.
+3. Minimalne wyposażenie apteczki nurkowej stosowanej do zabezpieczenia medycznego podczas podwodnych działań bojowych jest określone w załączniku nr 3a do rozporządzenia.
+§ 84e. 1. Bezpieczeństwo wykonywania podwodnych działań bojowych zapewnia się przez:
+1) stosowanie sprzętu nurkowego sprawnego technicznie i posiadającego aktualną legalizację, zgodnie z wymaganiami dla danego sprzętu;
+2) przeszkolenie nurka w zakresie eksploatacji danego typu sprzętu nurkowego;
+3) zabezpieczenie dostępu dla nurków do komory dekompresyjnej w czasie prowadzenia nurkowań szkoleniowych;
+komorę dekompresyjną należy utrzymywać w gotowości do użycia, a czas dojazdu do niej nie powinien przekraczać godziny;
+4) zabezpieczenie dostępu dla nurków do komory dekompresyjnej w czasie prowadzenia podwodnych działań bojowych wykonywanych w ramach operacji wojskowych oraz szkolenia prowadzonego w tym zakresie, przez co najmniej komorę dekompresyjną transportową;
+5) stosowanie mieszanin oddechowych z ograniczeniem maksymalnego ciśnienia parcjalnego tlenu do 0,16 MPa i maksymalnego ciśnienia parcjalnego azotu do 0,50 MPa;
+6) stosowanie tlenu w aparatach o zamkniętym obiegu czynnika oddechowego z ograniczeniem maksymalnego ciśnienia parcjalnego tlenu do 0,25 MPa;
+7) zapewnienie właściwego profilu nurkowania;
+8) zapewnienie asekuracji nurka;
+9) oznakowanie miejsca, w którym są prowadzone podwodne działania bojowe, z wyłączeniem podwodnych działań bojowych wykonywanych w ramach operacji wojskowych;
+10) poddanie kandydatów na nurków testowi ciśnieniowemu i testowi tolerancji tlenowej przed przystąpieniem do szkolenia w celu uzyskania kwalifikacji młodszego nurka, o których mowa w przepisach wydanych na podstawie art. 28 ust. 1 ustawy z dnia 17 października 2003 r. o wykonywaniu prac podwodnych; test ciśnieniowy i test tolerancji tlenowej można wykonać ponownie na wniosek lekarza, o którym mowa w § 84d ust. 1 pkt 1.
+2. W przypadku podwodnych działań bojowych wykonywanych w ramach operacji wojskowych można odstąpić od zabezpieczenia dostępu dla nurków do komory dekompresyjnej. W takim przypadku kierownik opracowuje procedurę ewakuacji nurka do miejsca, w którym będzie można udzielić mu specjalistycznej pomocy medycznej.
+3. W przypadku podwodnych działań bojowych wykonywanych w ramach operacji wojskowych oraz szkolenia w tym zakresie można odstąpić od stosowania przepisów § 40 ust. 1, 2 i 5.
+4. W czasie wykonywania podwodnych działań bojowych nurek samodzielnie nie schodzi na głębokość większą niż ustalona przez kierownika w planie prac podwodnych, z wyjątkiem wykonywania podwodnych działań bojowych w ramach operacji wojskowych.
+§ 84f. 1. Kierownik kieruje podwodnymi działaniami bojowymi.
+2. Przed rozpoczęciem podwodnych działań bojowych kierownik:
+1) ocenia ryzyko prowadzenia podwodnych działań bojowych pod względem bezpieczeństwa nurka;
+2) planuje i organizuje podwodne działania bojowe;
+3) sprawdza, czy jest zapewniony odpowiedni rodzaj sprzętu nurkowego i odpowiednia ilość tego sprzętu, w tym apteczka nurkowa (lekarska);
+4) określa postępowanie w razie zaistnienia zagrożenia życia lub zdrowia nurka.
+3. W przypadku podejrzenia lub stwierdzenia u nurka w czasie podwodnych działań bojowych objawów choroby lub złego samopoczucia psychofizycznego kierownik zmienia organizację podwodnych działań bojowych albo wstrzymuje ich prowadzenie i przystępuje do prowadzenia akcji ratowniczej.
+4. W przypadku podwodnych działań bojowych wykonywanych w ramach operacji wojskowych członkowie ekipy będący w miejscu wykonywania prac przystępują do prowadzenia akcji ratowniczej, a następnie powiadamiają kierownika o zaistniałym zdarzeniu.
+5. Kierownik dopuszcza nurka do wykonywania podwodnych działań bojowych, jeżeli nurek:
+1) posiada ważne badania lekarskie i nie zgłasza dolegliwości psychofizycznych;
+2) dokonał sprawdzenia roboczego sprawności indywidualnego sprzętu nurkowego.
+6. Kierownik nie dopuszcza nurka do wykonywania podwodnych działań bojowych w przypadku stwierdzenia u niego jakichkolwiek dolegliwości psychofizycznych.
+7. Przed rozpoczęciem podwodnych działań bojowych kierownik sporządza pisemny plan podwodnych działań bojowych obejmujący:
+1) rodzaj podwodnych działań bojowych;
+2) cel podwodnych działań bojowych oraz planowany sposób ich realizacji;
+3) określenie ryzyka prowadzenia podwodnych działań bojowych oraz jego ocenę;
+4) środki zmniejszające ryzyko prowadzenia podwodnych działań bojowych;
+5) zabezpieczenie medyczne;
+6) procedury i warunki wykonywania podwodnych działań bojowych, które określają w szczególności:
+a) skład ekipy,
+b) organizację bazy nurkowej lub zastosowanych rozwiązań prowadzenia podwodnych działań bojowych,
+c) dobór wyposażenia i sprzętu nurkowego,
+d) sposób dekompresji,
+e) wykorzystanie czynników oddechowych,
+f) czas ochronnego działania aparatu nurkowego, z uwzględnieniem minimalnego zapasu czynnika oddechowego, umożliwiającego wynurzenie oraz planowanego jednorazowego czasu pobytu nurka pod wodą,
+g) stosowane sygnały porozumiewawcze pod wodą,
+h) stosowaną asekurację,
+i) postępowanie w sytuacji awaryjnej, w tym system powiadamiania,
+j) warunki hydrometeorologiczne: porę dnia, wysokość nad poziomem morza, głębokość prowadzenia podwodnych działań bojowych, występujące prądy i pływy,
+k) wykorzystanie statków powietrznych do przerzutu nurków po nurkowaniu.
+8. Kierownik w trakcie wykonywania podwodnych działań bojowych przebywa w miejscu umożliwiającym monitorowanie wykonywania podwodnych działań bojowych przez cały czas pozostawiania nurka pod powierzchnią wody oraz w czasie jego dekompresji w komorze dekompresyjnej.
+§ 84g. Podwodne działania bojowe wykonuje się przy maksymalnej sile wiatru nie większej niż 5 w skali Beauforta (8–10,7 m/s), co odpowiada stopniowi skali stanu morza 4 o wysokości fali 1,3–2,0 m. W warunkach występowania prądów o sile powyżej 0,5 m/s dopuszcza się prowadzenie podwodnych działań bojowych przy wykorzystaniu środków transportu nurka pod wodą.
+§ 84h. 1. Nurek może prowadzić podwodne działania bojowe na małych i średnich głębokościach jednorazowo w czasie nie dłuższym niż 4 godziny.
+2. W przypadku gdy temperatura wody jest mniejsza lub równa 4°C, czas przebywania nurka pod powierzchnią wody w trakcie nurkowań szkoleniowych nie może być dłuższy niż 2 godziny.
+3. Maksymalny łączny czas przebywaniu nurka pod powierzchnią wody w ciągu doby nie może przekroczyć 5 godzin.
+§ 84i. 1. Podwodne działania bojowe wykonuje się z asekuracją w celu zapewnienia bezpieczeństwa nurków i zachowania możliwości kierowania ich pracą.
+2. Asekuracji dokonuje się z zastosowaniem co najmniej jednej z form:
+1) łączności podwodnej:
+a) przewodowej,
+b) bezprzewodowej,
+c) asekuracji linką sygnałową lub znacznikiem powierzchniowym;
+2) monitorowania audiowizualnego wykonywanych czynności;
+3) monitorowania pozycji nurka przy pomocy urządzeń technicznych;
+4) zabezpieczenia przez drugiego nurka.
+3. Do prowadzenia podwodnych działań bojowych jest wykorzystywana znajomość sygnałów umownych liną, dźwiękiem oraz wizualnych.
+4. Przed każdym nurkowaniem wykonuje się zanurzenie kontrolne, w celu sprawdzenia poprawności działania sprzętu nurkowego oraz samopoczucia nurka. Jeżeli nie ma możliwości do wykonania zanurzenia kontrolnego, wykonuje się sprawdzenie sprzętu nurkowego przed przystąpieniem do podwodnych działań bojowych.
+§ 84j. 1. Kierownik może wyznaczyć nurka do pełnienia funkcji nurka asekuracyjnego, jeżeli określi warunki wykonywania podwodnych działań bojowych jako trudne lub szczególnie niebezpieczne.
+2. Funkcję nurka asekuracyjnego pełni nurek, którego kwalifikacje umożliwiają nurkowanie co najmniej na głębokość wykonywanych podwodnych działań bojowych.
+3. Nurek asekuracyjny utrzymuje gotowość do udzielenia pomocy. Czas gotowości oraz jego miejsce określa kierownik przed rozpoczęciem podwodnych działań bojowych.
+§ 84k. Kierownik decyduje o wyposażeniu osób w środki asekuracyjne, ratunkowe oraz sygnalizacyjne.
+§ 84l. Sporządzanie i sprawdzanie składu mieszanin oddechowych do zasilania aparatów nurkowych wykorzystywanych w trakcie podwodnych działań bojowych realizuje się za pomocą przeznaczonych do tego urządzeń.
+§ 84m. Nurek wykonujący podwodne działania bojowe może skakać do wody w sprzęcie nurkowym oraz z wyposażeniem określonym w § 84c ust. 1 pkt 2–4.
+§ 84n. 1. Podwodne działania bojowe wykonywane pod powierzchnią lodu można prowadzić z brzegu, z budowli hydrotechnicznej, z pokładu jednostki pływającej lub z powierzchni pokrywy lodowej.
+2. Podwodne działania bojowe wykonywane z powierzchni pokrywy lodowej prowadzi się, gdy jej grubość jest nie mniejsza niż 0,15 m.
+3. Podwodne działania bojowe wykonywane pod powierzchnią lodu w sprzęcie, o którym mowa w załączniku nr 4 do rozporządzenia, wykonuje się pod warunkiem użycia suchego skafandra nurkowego.
+§ 84o. W przypadku wykonywania podwodnych działań bojowych w ramach nurkowań szkoleniowych w warunkach nocnych nurkowie muszą posiadać oświetlenie indywidualne w postaci podstawowego i awaryjnego źródła światła.
+§ 84p. 1. Podwodne działania bojowe z użyciem materiałów wybuchowych realizowane w ramach nurkowań szkoleniowych wykonuje się do stanu morza 2.
+2. W czasie wykonywania podwodnych działań bojowych w ramach operacji wojskowych nie stosuje się przepisu § 80 ust. 3.”;
+9) po załączniku nr 1 do rozporządzenia dodaje się załącznik nr 1a w brzmieniu określonym w załączniku nr 1 do niniejszego rozporządzenia;
+10) po załączniku nr 2 do rozporządzenia dodaje się załącznik nr 2a w brzmieniu określonym w załączniku nr 2 do niniejszego rozporządzenia;
+11) po załączniku nr 3 do rozporządzenia dodaje się załącznik nr 3a w brzmieniu określonym w załączniku nr 3 do niniejszego rozporządzenia;
+12) po załączniku nr 8 do rozporządzenia dodaje się załącznik nr 8a w brzmieniu określonym w załączniku nr 4 do niniejszego rozporządzenia;
+13) załącznik nr 9 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 5 do niniejszego rozporządzenia;
+14) w załączniku nr 11 do rozporządzenia:
+a) tabela nr 2 otrzymuje brzmienie określone w załączniku nr 6 do niniejszego rozporządzenia,
+b) po tabeli nr 2 dodaje się tabele nr 3 i 4 w brzmieniu określonym w załączniku nr 7 do niniejszego rozporządzenia;
+15) po załączniku nr 13 do rozporządzenia dodaje się załącznik nr 13a w brzmieniu określonym w załączniku nr 8 do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Obrony Narodowej: A. Macierewicz MINIMALNY SKŁAD EKIPY WYKONUJĄCEJ PODWODNE DZIAŁANIA BOJOWE Podział podwodnych działań EKIPA bojowych według ich Lp. charakteru, głębokości, stosowanego czynnika kierownik nurek nurek sygnalista operator komory oddechowego w określonym roboczy asekuracyjny dekompresyjnej obiegu tego czynnika 1 Nurkowanie szkoleniowe X X X X X 2 Podwodne działania bojowe X X X X X do głębokości 50 m z użyciem aparatu nurkowego o zamkniętym lub półzamkniętym obiegu tlenu, mieszaniny oddechowej jako czynnika oddechowego 3 Podwodne działania bojowe X X X X X do głębokości 50 m z użyciem aparatu nurkowego o otwartym obiegu czynnika oddechowego 4 Głębinowe podwodne X X X X X działania bojowe 5 Podwodne działania bojowe X X X X X wykonywane w ramach operacji wojskowych SKŁAD PERSONELU MEDYCZNEGO Podział podwodnych działań bojowych Lp. według ich charakteru, głębokości i stosowanego Minimalne zabezpieczenie medyczne czynnika oddechowego w określonym rodzaju obiegu tego czynnika 1 Nurkowania szkoleniowe lekarz posiadający ukończony kurs z zakresu fizjopatologii nurkowania i terapii hiperbarycznej 2 Podwodne działania bojowe do głębokości 50 m lekarz posiadający ukończony kurs z zakresu z użyciem aparatów nurkowych o zamkniętym fizjopatologii nurkowania i terapii hiperbarycznej lub półzamkniętym obiegu tlenu lub mieszaniny lub ratownik medyczny posiadający ukończony kurs oddechowej jako czynnika oddechowego z zakresu fizjopatologii nurkowania i terapii hiperbarycznej 3 Podwodne działania bojowe do głębokości 50 m lekarz posiadający ukończony kurs z zakresu z użyciem aparatów nurkowych o otwartym obiegu fizjopatologii nurkowania i terapii hiperbarycznej, czynnika oddechowego ratownik medyczny posiadający ukończony kurs z zakresu fizjopatologii nurkowania i terapii hiperbarycznej lub kierownik 4 Głębinowe podwodne działania bojowe lekarz posiadający ukończony kurs z zakresu fizjopatologii nurkowania i terapii hiperbarycznej 5 Podwodne działania bojowe wykonywane w ramach nurek posiadający ukończony kurs pierwszej pomocy operacji wojskowych MINIMALNE WYPOSAŻENIE APTECZKI NURKOWEJ STOSOWANEJ DO ZABEZPIECZENIA MEDYCZNEGO PODCZAS PODWODNYCH DZIAŁAŃ BOJOWYCH Rodzaj środka Ilość SPRZĘT MEDYCZNY 1 Aparat do sztucznego oddychania (typ Ambu) z ssakiem 1 kpl.
+2 Inhalator tlenowy ⃰ 1 kpl.
+3 Nożyczki do opatrunków 1 szt.
+4 Nóż lub nożyczki do cięcia kombinezonu i pasów parcianych 1 szt.
+5 Ostrza chirurgiczne jednorazowego użytku (różne) 5 szt.
+6 Pęseta chirurgiczna (sterylna) 1 szt.
+7 Rękawiczki lateksowe jednorazowego użytku (nr 6 ½, 7 i 7 ½) 5 par 8 Rurka ustno-gardłowa (kpl. w różnych rozmiarach) 1 kpl.
+9 Defibrylator automatyczny 1 kpl.
+LEKI 1 Aviomarin tabl. 1 op.
+2 Codeinum 1 op.
+3 Otinum gtt. 20% 1 op.
+4 Glucosum 5% fl. 500 ml 1 szt.
+5 Lignocainum hydrochl. żel 1% 1 op.
+6 Lignocainum hydrochl. fl. 2% 1 op.
+7 Mannitol 20% fl. 250 ml 1 szt.
+8 Natrium chlor. 0,9% fl. 500 ml 2 op.
+9 Płyn fizjologiczny wieloelektrolitowy fl. 500 ml 1 szt.
+10 Xylogell 0,1% 1 op.
+ŚRODKI OPATRUNKOWE 1 Chusta trójkątna 3 szt.
+1 szt. z każdego 2 Codofix w różnych rozmiarach rozmiaru 3 Gaza opatrunkowa 1 m 2 szt.
+4 Gaza opatrunkowa 1/2 m 2 szt.
+5 Kompresy z gazy wyjałowionej (12x24) 20 3 szt.
+6 Opatrunek osobisty 2 szt.
+7 Opaska elastyczna 8x4 2 szt.
+8 Opaska elastyczna 12x4 2 szt.
+9 Opaska gazowa 5x4 2 szt.
+10 Opaska gazowa 10x4 5 szt.
+11 Przylepiec kauczukowy 2,5x5 (lub podobny) do opatrunków 1 szt.
+12 Preparaty do dezynfekcji skóry i ran 1 op.
+13 Wata opatrunkowa 100g 1 op.
+14 Viscoplast (lub podobny plaster z opatrunkiem) 2 szt.
+15 Folia lub koc termiczny 2 szt.
+MINIMALNE WYPOSAŻENIE NURKA DO WYKONYWANIA PODWODNYCH DZIAŁAŃ BOJOWYCH W LEKKIM SPRZĘCIE NURKOWYM O OTWARTYM, PÓŁZAMKNIĘTYM LUB ZAMKNIĘTYM OBIEGU CZYNNIKA ODDECHOWEGO Minimalne wyposażenie nurka składa się z:
+1) zestawu autonomicznego aparatu nurkowego;
+2) urządzenia do pomiaru ciśnienia zasilania aparatu nurkowego;
+3) maski nurkowej;
+4) kamizelki wypornościowej lub innego sprzętu wypornościowego;
+5) balastu, umożliwiającego jego odrzucenie w sytuacji awaryjnej;
+6) noża lub innego urządzenia tnącego;
+7) płetw;
+8) urządzenia umożliwiającego co najmniej pomiar głębokości i czasu nurkowania;
+9) skafandra nurkowego.
+CZYNNIKI ODDECHOWE I SORBENTY
+1. Atest czynnika oddechowego zawiera:
+1) nazwę i adres instytucji wydającej atest;
+2) numer atestu w rejestrze;
+3) datę wystawienia atestu;
+4) nazwę i oznaczenie czynnika oddechowego, którego dotyczy atest;
+5) miejsce pobrania próbki (numer butli) i nazwę dostawcy próbki;
+6) informację dotyczącą normy, według której wykonano analizę, z uwzględnieniem zawartych w niej dopuszczalnych wartości badanych parametrów;
+7) ocenę wyników analizy w postaci zapisów potwierdzających zgodność lub niezgodność parametrów analizowanej próbki z normą, według której wykonano analizę;
+8) imię, nazwisko i podpis osoby upoważnionej odpowiedzialnej za prawidłowość przeprowadzenia analiz.
+2. Czynniki oddechowe w przypadku ich przechowywania poddaje się okresowym analizom jakościowym i ilościowym.
+3. Skład procentowy mieszanin oddechowych do wykonywania prac podwodnych i dekompresji oraz rekompresji leczniczej jest określony w technologii nurkowania oraz procedurach dekompresji i rekompresji leczniczej.
+4. Badania fizykochemiczne jakości czynników oddechowych i sorbentów dla nurków wykonuje upoważnione laboratorium fizykochemiczne, które wystawia stosowny atest potwierdzający jakość czynnika oddechowego.
+5. W przypadku wykonywania prac podwodnych z użyciem czynników oddechowych kierownik każdorazowo przed rozpoczęciem nurkowania sprawdza ważność wystawionego atestu.
+6. W przypadku wykonywania prac podwodnych z użyciem mieszanin oddechowych kierownik przed rozpoczęciem wykonywania prac podwodnych wykonuje pomiar kontrolny (eksploatacyjny) składu mieszaniny oddechowej. Dla podwodnych działań bojowych przeprowadza się procedurę oznaczenia frakcji tlenu w następujący sposób: – pomiar pierwszy obejmuje kontrolę frakcji tlenu w mieszaninie oddechowej po jej przygotowaniu i wykonywany jest przez osobę ją przygotowującą, – pomiar drugi obejmuje kontrolę składu mieszaniny przy odbiorze z punktu napełniania i wykonywany jest przez osobę odbierającą, – pomiar trzeci obejmuje kontrolę składu mieszaniny przed wejściem do wody i wykonywany jest przez osobę nurkującą.
+7. W badaniach eksploatacyjnych mieszanin do oddychania wykonywanych bezpośrednio przed użyciem należy określać co najmniej zawartość tlenu w mieszaninach dwu- i trójskładnikowych.
+8. Skład mieszanin jest odnotowywany przez kierownika w dzienniku prac nurka, a atesty są przechowywane u użytkownika przez okres jednego roku od daty ich wystawienia.
+9. Kierownik odnotowuje w dzienniku prac nurka skład mieszanin oddechowych stosowanych w podwodnych działaniach bojowych.
+10. Skład mieszanin oddechowych, data sporządzenia i napełnienia butli, numer butli potwierdza osoba sporządzająca mieszaniny oddechowe w dzienniku wykonywania mieszanin, który jest przechowywany w jednostce organizacyjnej przez okres roku od daty ich sporządzenia.
+11. W celu przyśpieszenia procedur dekompresji w dzwonie nurkowym lub komorze dekompresyjnej dopuszcza się zastosowanie czystego tlenu lub mieszanin oddechowych wzbogaconych w tlen.
+12. W czasie prowadzenia procedur dekompresji tlenowej w komorach dekompresyjnych maksymalne ciśnienie cząstkowe tlenu w systemie BIBS nie może przekraczać wartości 2,8 ata i zawartość tlenu w atmosferze wewnątrz komory nie może przekroczyć 25%.
+13. W czasie prowadzenia procedur dekompresji tlenowej w dzwonie nurkowym maksymalne ciśnienie cząstkowe tlenu nie może przekraczać wartości 2,2 ata.
+14. W czasie prowadzenia dekompresji w komorach dekompresyjnych lub dzwonie nurkowym nie można dopuścić do spadku zawartości tlenu w atmosferze poniżej 19%.
+15. W przypadku zastosowania dekompresji z użyciem tlenu lub mieszanin wzbogaconych w tlen wydech odprowadza się przez szczelny układ do atmosfery na zewnątrz komory dekompresyjnej. Nie dopuszcza się wydychania tlenu do przestrzeni komory.
+16. W przypadku gdy komora dekompresyjna znajduje się w zamkniętym pomieszczeniu, należy monitorować stężenie procentowe tlenu na zewnątrz komory.
+17. W przypadku prowadzenia dekompresji w toni wodnej dopuszcza się mieszaniny oddechowe o maksymalnym ciśnieniu cząstkowym tlenu równym 1,6 ata.
+18. W czasie prowadzenia dekompresji, rekompresji tlenowej, ekspozycji wielodniowych i nurkowań powtórzeniowych z użyciem tlenu lub mieszanin wzbogaconych w tlen należy uwzględnić toksyczne oddziaływanie tlenu na organizm nurka.
+19. Przy wykonywaniu przez nurków prac podwodnych na małych głębokościach zapas czynnika oddechowego w bazie prac podwodnych powinien umożliwiać dwóm nurkom przebywanie pod powierzchnią wody na maksymalnej głębokości nurkowania przez czas trzykrotnie dłuższy niż zaplanowany czas nurkowania, nie krócej jednak niż przez 2 godziny.
+20. Przy wykonywaniu przez nurków prac podwodnych na średnich głębokościach zapas czynnika oddechowego w bazie nurkowej powinien umożliwiać dwóm nurkom przebywanie pod powierzchnią wody na maksymalnej głębokości nurkowania przez czas trzykrotnie dłuższy niż zaplanowany czas nurkowania, nie krócej jednak niż przez 3 godziny, ponadto zapas musi umożliwiać dwukrotne napełnienie czynnikiem oddechowym dzwonu nurkowego (jeśli go zastosowano) i komory dekompresyjnej do ciśnienia 5 atm.
+21. Przy wykonywaniu przez nurków prac podwodnych na dużych głębokościach zapas czynnika oddechowego w bazie nurkowej musi umożliwiać przebywanie dwóm nurkom pod powierzchnią wody na maksymalnej głębokości nurkowania przez 4 godziny, a ponadto musi zapewniać co najmniej dwukrotne napełnienie czynnikiem oddechowym komory dekompresyjnej do ciśnienia 7 atm i dzwonu nurkowego na maksymalnej głębokości nurkowania.
+22. Przy wykonywaniu długotrwałych prac podwodnych zapas czynnika oddechowego w magazynie gazów bazy nurkowej musi umożliwiać przebywanie trzem nurkom pod powierzchnią wody na maksymalnej głębokości nurkowania przy wentylacji maksymalnej równej 50 dm /min przez 8 godzin, a ponadto musi zapewniać co najmniej dwukrotne napełnienie czynnikiem oddechowym komory dekompresyjnej do ciśnienia 7 atm i dzwonu nurkowego na maksymalnej głębokości nurkowania.
+23. Przy wykonywaniu przez nurków prac podwodnych na małych i średnich głębokościach w przypadku prowadzenia dekompresji tlenowej w dzwonie nurkowym lub komorze dekompresyjnej minimalny zapas tlenu musi wynosić co najmniej 7 m na każdego nurka. Musi być też utrzymywany nienaruszalny zapas w ilości 30 m tlenu w celu przeprowadzenia ewentualnego leczenia.
+24. Przy wykonywaniu przez nurków prac podwodnych na dużych głębokościach w przypadku prowadzenia dekompresji tlenowej w dzwonie nurkowym lub komorze dekompresyjnej minimalny zapas tlenu musi wynosić co najmniej 15 m na każdego nurka. Musi być też utrzymywany nienaruszalny zapas w ilości 30 m tlenu w celu przeprowadzenia ewentualnego leczenia.
+25. Dzwony nurkowe i komory dekompresyjne wykorzystywane do zabezpieczenia prac podwodnych muszą być wyposażone w pochłaniacze dwutlenku węgla.
+26. Pochłaniacze będące na wyposażeniu komór dekompresyjnych i dzwonu nurkowego muszą posiadać pojemność złoża sorbentu zapewniającą utrzymanie maksymalnej koncentracji CO – 1% obj. SEV przez czas co najmniej 2 godzin w temperaturze 2°C.
+27. Pochłaniacz powinien posiadać wymiary umożliwiające transport jego pojemnika napełnionego sorbentem przez śluzę komory dekompresyjnej.
+28. Pochłaniacz musi być wyposażony w układ wymuszający przepływ czynnika oddechowego przez złoże sorbentu.
+29. Przy wykonywaniu przez nurków prac podwodnych na średnich głębokościach jednorazowo zapas sorbentu powinien wystarczać na 4 godziny pracy komory dekompresyjnej przy pełnej obsadzie nurków.
+30. Przy wykonywaniu przez nurków prac podwodnych na dużych głębokościach zapas sorbentu powinien wystarczać na 12 godzin pracy komory dekompresyjnej przy pełnej obsadzie nurków.
+31. Przy wykonywaniu długotrwałych głębokowodnych prac podwodnych zapas sorbentu powinien wystarczać na 24 godziny pracy komory dekompresyjnej przy pełnej obsadzie nurków.
+32. W przypadku prowadzenia nurkowań z użyciem mieszanin oddechowych kierownik każdorazowo przed rozpoczęciem wykonywania prac podwodnych sprawdza termin ważności i atestu planowanego do użycia sorbentu.
+33. Do podwodnych działań bojowych nie stosuje się pkt 1, 4, 5, 6, 8, 19–24.
+Tabela 2 – Dopuszczalne ekspozycje tlenowe przy korzystaniu z procedury typu pojedynczej ekspozycji stosowane w podwodnych działaniach bojowych Maksymalna głębokość Maksymalny czas nurkowania nurkowania przy oddychaniu tlenem [mH O] [min] 6 240 7 142 8 90 9 60 10 42 11 30 12 22 13 17 14 13 15 10 UWAGA Wykorzystanie limitów określonych w tabeli 2 musi być zgodne z obowiązującą w Siłach Zbrojnych Rzeczypospolitej Polskiej technologią prowadzenia prac podwodnych w ramach podwodnych działań bojowych.
+Tabela 3 – Maksymalne dozwolone czasy „wycieczki” tlenowej stosowane w podwodnych działaniach bojowych Maksymalny dozwolony Zakres głębokości czas trwania „wycieczki” tlenowej Uwagi [mH O] [min] tlen Maksymalny czas ekspozycji do 240 min.
+6−12 10 Po wykonaniu „wycieczki” tlenowej maksymalny czas ekspozycji zmniejsza się do 120 min.
+12−15 5 Tabela 4 – Sposoby kalkulacji dozwolonych ekspozycji tlenowych przy nurkowaniach powtarzalnych, stosowane w podwodnych działaniach bojowych Wyszczególnienie procedur Sposób obliczania dozwolonego czasu Możliwość wykonania „wycieczki” trwania nurkowania powtarzalnego tlenowej na większą głębokość Procedura przejścia z dopuszczalną Odjąć czas poprzedniej ekspozycji od Możliwa, jeżeli nie była „wycieczką” tlenową na większą 240 min., a otrzymany czas jest przedsięwzięta podczas poprzedniego głębokość możliwym czasem pobytu podczas nurkowania i czas tranzytu nie powtórnego nurkowania przekroczył 120 min.
+Jeżeli żadna z opisanych sytuacji w tabeli dla procedury przejścia z dopuszczalną „wycieczką” tlenową nie może być wybrana, to należy odczekać minimum 2 godziny do następnego nurkowania.
+1. Określić maksymalny czas nurkowania dla maksymalnej Procedura jednej ekspozycji tlenowej głębokości nurkowania, która to Nie jest możliwa przy wyborze tej głębokość jest wybierana po analizie procedury postępowania poprzednich i planowanego nurkowania
+2. Odjąć czas poprzedniej ekspozycji od dozwolonego czasu ekspozycji dla maksymalnej głębokości nurkowania określonej w pkt 1.
+Jeżeli żadna z opisanych sytuacji w tabeli dla procedury typu jednej ekspozycji nie może być wybrana, to należy odczekać minimum 2 godziny do następnego nurkowania.
+CZAS POBYTU NURKA W POBLIŻU KOMORY DEKOMPRESYJNEJ PO ZAKOŃCZENIU PODWODNYCH DZIAŁAŃ BOJOWYCH Głębokość nurkowania Czas pobytu nurka [m] w pobliżu komory dekompresyjnej po nurkowaniu [godz.] do 20 2 do 50 6 powyżej 50 12
+

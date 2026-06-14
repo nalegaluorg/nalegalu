@@ -8,7 +8,7 @@ pos: 817
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne

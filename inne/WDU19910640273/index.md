@@ -8,7 +8,7 @@ pos: 273
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o uchyleniu ustawy o Narodowej Radzie Kultury

@@ -8,10 +8,10 @@ pos: 1400
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 września 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1400 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 18 września 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-09-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1400/text.pdf) |
 
-Poz. 1400 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 18 września 2024 r.
-w sprawie wskaźnika bufora antycyklicznego Na podstawie art. 24 ust. 3 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2024 r. poz. 559) zarządza się, co następuje: § 1. Wskaźnik bufora antycyklicznego wynosi 1 % łącznej kwoty ekspozycji na ryzyko instytucji, które posiadają ekspozycje kredytowe na terytorium Rzeczypospolitej Polskiej, obliczonej zgodnie z art. 92 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ).
+w sprawie wskaźnika bufora antycyklicznego Na podstawie art. 24 ust. 3 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2024 r. poz. 559) zarządza się, co następuje:
+§ 1. Wskaźnik bufora antycyklicznego wynosi 1 % łącznej kwoty ekspozycji na ryzyko instytucji, które posiadają ekspozycje kredytowe na terytorium Rzeczypospolitej Polskiej, obliczonej zgodnie z art. 92 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ).
 § 2. Wskaźnik bufora antycyklicznego określony w § 1 stosuje się od pierwszego dnia po upływie 12 miesięcy od dnia ogłoszenia rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 Minister Finansów: A. Domański Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).

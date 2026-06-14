@@ -8,7 +8,7 @@ pos: 1071
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o kuratorach sądowych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2001-07-27 |
 | Data wydania | 2001-09-12 |
-| Ostatnia zmiana | 2026-04-17 |
+| Ostatnia zmiana | 2026-06-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010981071) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1071/text.pdf) |
 
 Art. 92–97. (pominięte)
@@ -119,6 +119,10 @@ Art. 92–97. (pominięte)
 
 **Art. 7.** Ustala się następujące stopnie służbowe dla kuratorów zawodowych:
 
+- **1)** kurator zawodowy;
+- **2)** starszy kurator zawodowy;
+- **3)** kurator specjalista.
+
 **Art. 8.**
 
 1. Stopnie służbowe nadaje prezes sądu okręgowego:
@@ -136,6 +140,12 @@ Art. 92–97. (pominięte)
 2. Minister Sprawiedliwości nadaje tytuł honorowy dyplomowanego kuratora specjalisty na wniosek prezesa sądu okręgowego lub kuratora okręgowego albo z urzędu, po zasięgnięciu opinii prezesa sądu okręgowego.
 
 **Art. 9.** Wykonując swoje obowiązki służbowe, kurator zawodowy ma prawo do:
+
+- **1)** odwiedzania w godzinach od 7.00 do 22.00 osób objętych postępowaniem w miejscu ich zamieszkania lub pobytu, a także w zakładach zamkniętych;
+- **2)** żądania okazania przez osobę objętą postępowaniem dokumentu pozwalającego na stwierdzenie jej tożsamości;
+- **3)** żądania niezbędnych wyjaśnień i informacji od podopiecznych objętych dozorem, nadzorem lub inną formą kontroli zleconej przez sąd;
+- **4)** przeglądania akt sądowych i sporządzania z nich odpisów w związku z wykonywaniem czynności służbowych oraz dostępu do dokumentacji dotyczącej podopiecznego i innych osób objętych postępowaniem;
+- **5)** żądania od Policji oraz innych organów lub instytucji państwowych, organów samorządu terytorialnego, stowarzyszeń i organizacji społecznych w zakresie ich działania, a także od osób fizycznych pomocy w wykonywaniu czynności służbowych.
 
 **Art. 9a.**
 
@@ -180,6 +190,12 @@ Art. 92–97. (pominięte)
 2. Pracodawca, w ramach posiadanych środków finansowych, zapewnia kuratorowi zawodowemu warunki i środki finansowe do realizacji obowiązku, o którym mowa w ust. 1.
 
 **Art. 11.** Zawodowy kurator sądowy obowiązany jest do:
+
+- **1)** występowania w uzasadnionych wypadkach z wnioskiem o zmianę lub uchylenie orzeczonego środka;
+- **2)** przeprowadzania na zlecenie sądu lub sędziego wywiadów środowiskowych;
+- **3)** współpracy z właściwym samorządem i organizacjami społecznymi, które statutowo zajmują się opieką, wychowaniem, resocjalizacją, leczeniem i świadczeniem pomocy społecznej w środowisku otwartym;
+- **4)** organizacji i kontroli pracy podległych kuratorów społecznych oraz innych osób, uprawnionych do wykonywania dozorów lub nadzorów;
+- **5)** sygnalizowania sądowi przyczyn przewlekłości postępowania wykonawczego lub innych uchybień w działalności pozasądowych podmiotów wykonujących orzeczone środki.
 
 **Art. 12.** Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób wykonywania uprawnień i obowiązków kuratorów sądowych, uwzględniając potrzebę szybkiego wykonywania orzeczeń sądu oraz zagwarantowania praw i interesów podopiecznych.
 
@@ -318,6 +334,13 @@ Art. 92–97. (pominięte)
 3. Przepisy ust. 1 i 2 stosuje się do kuratorów zawodowych urodzonych przed dniem 1 stycznia 1949 r.
 
 **Art. 26.** Stosunek pracy z kuratorem zawodowym wygasa:
+
+- **1)** z dniem utraty przez niego obywatelstwa polskiego;
+- **2)** w wypadkach określonych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25), zwanej dalej „Kodeksem pracy”;
+- **3)** w razie prawomocnego:
+    - **a)** ukarania karą dyscyplinarną, o której mowa w art. 52 ust. 3 pkt 5,
+    - **b)** orzeczenia przez sąd środka karnego w postaci pozbawienia praw publicznych lub zakazu wykonywania zawodu kuratora zawodowego,
+    - **c)** skazania za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
 
 **Art. 27.**
 
@@ -791,6 +814,10 @@ Art. 92–97. (pominięte)
 
 **Art. 52d.** Postępowanie dyscyplinarne obejmuje postępowanie:
 
+- **1)** wyjaśniające;
+- **2)** przed sądami dyscyplinarnymi obu instancji;
+- **3)** wykonawcze.
+
 **Art. 52e.**
 
 1. Prezes sądu okręgowego, jeżeli zachodzi uzasadnione przypuszczenie popełnienia przez kuratora zawodowego przewinienia dyscyplinarnego, niezwłocznie zarządza przeprowadzenie postępowania wyjaśniającego przez rzecznika dyscyplinarnego. Kuratora zawodowego, co do którego wydano zarządzenie o wszczęciu postępowania wyjaśniającego, uważa się za obwinionego.
@@ -893,6 +920,12 @@ Art. 92–97. (pominięte)
 4. Ilekroć w przepisach niniejszej ustawy jest mowa o rzeczniku dyscyplinarnym, należy przez to rozumieć również zastępcę rzecznika dyscyplinarnego.
 
 **Art. 59.** Do zadań rzecznika dyscyplinarnego należy:
+
+- **1)** prowadzenie postępowania wyjaśniającego;
+- **2)** składanie wniosków o ukaranie, jeżeli wyniki postępowania wyjaśniającego to uzasadniają;
+- **3)** udział w rozprawach w charakterze strony;
+- **4)** wnoszenie odwołań od orzeczeń sądu dyscyplinarnego pierwszej instancji;
+- **5)** udział w postępowaniu odwoławczym.
 
 **Art. 59a.**
 
@@ -1165,6 +1198,18 @@ Art. 92–97. (pominięte)
 
 **Art. 83.** Aplikant kuratorski jest obowiązany do:
 
+- **1)** uczestnictwa w szkoleniu:
+    - **a)** teoretycznym, ze szczególnym uwzględnieniem metodyki pracy kuratora sądowego, organizacji wymiaru sprawiedliwości, przepisów prawnych dotyczących działalności kuratorów sądowych oraz innych wiadomości potrzebnych do wykonywania zawodu kuratora sądowego,
+    - **b)** praktycznym, ze szczególnym uwzględnieniem udziału w rozprawach sądowych i w wysłuchiwaniu nieletnich przez sędziego oraz pobytu w placówkach, o których mowa w art. 3 ust. 1;
+
+- **2)** dokonywania oceny przebiegu spraw znajdujących się w postępowaniu rozpoznawczym i wykonawczym w ramach pracy zespołu;
+- **3)** zapoznania się z rejonem pracy kuratora – patrona oraz zadaniami wynikającymi z jego zakresu czynności;
+- **4)** przyswojenia zasad prowadzenia dokumentacji kuratorskiej;
+- **5)** nawiązywania kontaktów z instytucjami zajmującymi się wychowaniem, profilaktyką i resocjalizacją;
+- **6)** zapoznawania się z organizacją i formami pracy ośrodka kuratorskiego;
+- **7)** udziału w posiedzeniach zespołu i naradach organizowanych dla kuratorów sądowych;
+- **8)** wykonywania innych czynności zleconych przez przełożonych.
+
 #### Rozdział 7 Kuratorzy społeczni
 
 **Art. 84.**
@@ -1299,4 +1344,8 @@ Art. 92–97. (pominięte)
 **Art. 106a.** Do dnia 31 grudnia 2002 r. obsługę biurową zespołu mogą pełnić wyznaczeni przez prezesa sądu rejonowego pracownicy zatrudnieni w wydziałach tego sądu. W takim przypadku nie tworzy się sekretariatu zespołu.
 
 **Art. 107.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r., z wyjątkiem:
+
+- **1)** art. 14 ust. 7, który wchodzi w życie z dniem 1 października 2002 r.;
+- **2)** art. 14 ust. 1–3 i 5 oraz art. 38, które wchodzą w życie z dniem 1 stycznia 2003 r.
+
 

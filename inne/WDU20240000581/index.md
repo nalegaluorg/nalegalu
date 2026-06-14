@@ -8,7 +8,7 @@ pos: 581
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o prawach pacjenta i Rzeczniku Praw Pacjenta
@@ -87,6 +87,13 @@ o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** prawa pacjenta;
+- **2)** zasady udostępniania dokumentacji medycznej;
+- **3)** obowiązki podmiotów udzielających świadczeń zdrowotnych związane z prawami pacjenta;
+- **4)** tryb powoływania, odwoływania i kompetencje Rzecznika Praw Pacjenta;
+- **5)** postępowanie w sprawach praktyk naruszających zbiorowe prawa pacjentów;
+- **6)** zasady, wysokość oraz tryb przyznawania świadczenia kompensacyjnego w przypadku zdarzeń medycznych.
 
 **Art. 2.** Przestrzeganie praw pacjenta określonych w ustawie jest obowiązkiem organów władzy publicznej właściwych w zakresie ochrony zdrowia, Narodowego Funduszu Zdrowia, podmiotów udzielających świadczeń zdrowotnych, osób wykonujących zawód medyczny oraz innych osób uczestniczących w udzielaniu świadczeń zdrowotnych.
 
@@ -565,6 +572,10 @@ o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 
 **Art. 40.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
+- **1)** zakres spisu przedmiotów oddawanych do depozytu,
+- **2)** sposób zabezpieczenia przedmiotów oddanych do depozytu,
+- **3)** sposób i warunki prowadzenia i przechowywania księgi depozytów – uwzględniając zapewnienie właściwej realizacji prawa pacjenta, o którym mowa w art. 39.
+
 #### Rozdział 11a Pełnomocnik do spraw praw pacjenta w podmiocie udzielającym świadczeń zdrowotnych
 
 **Art. 40a.**
@@ -738,6 +749,11 @@ o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 
 **Art. 51.** Rzecznik po zapoznaniu się ze skierowanym do niego wnioskiem może:
 
+- **1)** podjąć sprawę,
+- **2)** poprzestać na wskazaniu wnioskodawcy przysługujących mu lub pacjentowi środków prawnych,
+- **3)** przekazać sprawę według właściwości,
+- **4)** nie podjąć sprawy – zawiadamiając o tym wnioskodawcę i pacjenta, którego sprawa dotyczy.
+
 **Art. 52.**
 
 1. W przypadku, o którym mowa w art. 51 pkt 1, Rzecznik może:
@@ -776,6 +792,9 @@ o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 **Art. 54.** W zakresie nieuregulowanym w art. 49–53 do postępowania prowadzonego przez Rzecznika stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
 
 **Art. 55.** W sprawach cywilnych dotyczących naruszenia praw pacjenta, określonych w niniejszej ustawie oraz w przepisach odrębnych, Rzecznik może z urzędu lub na wniosek strony:
+
+- **1)** żądać wszczęcia postępowania,
+- **2)** brać udział w toczącym się postępowaniu – na prawach przysługujących prokuratorowi.
 
 **Art. 55a.**
 
@@ -960,6 +979,11 @@ o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 4. W przypadku gdy wniosek jest niekompletny lub nienależycie opłacony, Rzecznik wzywa wnioskodawcę do jego uzupełnienia w terminie 30 dni od dnia doręczenia wezwania, ze wskazaniem stwierdzonych w nim braków, pod rygorem pozostawienia wniosku bez rozpoznania.
 
 **Art. 67v.** Postępowania w sprawie świadczenia kompensacyjnego, zwanego dalej „postępowaniem”, nie wszczyna się, a wszczęte umarza, w przypadku gdy w związku z tym zdarzeniem medycznym:
+
+- **1)** prawomocnie osądzono sprawę o odszkodowanie, rentę lub zadośćuczynienie;
+- **2)** toczy się postępowanie cywilne w sprawie o odszkodowanie, rentę lub zadośćuczynienie;
+- **3)** wnioskodawca uzyskał odszkodowanie, rentę lub zadośćuczynienie od osoby odpowiedzialnej za szkodę, w tym z tytułu ubezpieczenia odpowiedzialności cywilnej;
+- **4)** sąd orzekł na rzecz wnioskodawcy obowiązek naprawienia szkody wyrządzonej przestępstwem lub zadośćuczynienia za doznaną krzywdę albo nawiązkę.
 
 **Art. 67w.**
 

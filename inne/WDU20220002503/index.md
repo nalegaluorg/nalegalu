@@ -8,10 +8,10 @@ pos: 2503
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22550033 Załączniki do rozporządzenia Ministra Zdrowia z dnia … 2022 r. (Dz. U. poz. …) Załącznik nr 1 WZÓR OŚWIADCZENIE DOTYCZĄCE STANU ZDROWIA I. Dane osoby podlegającej badaniu lekarskiemu Nazwisko: Imię: Adres zamieszkania: Data urodzenia: Telefon lub adres e-mail – jeżeli posiada: Kategoria prawa jazdy: Numer PESEL, a w przypadku osoby, której nie nadano numeru PESEL – nazwa i numer dokumentu stwierdzającego tożsamość: …………………………………………………… …………………………………………………… II. Instrukcja wypełnienia ankiety Proszę odpowiedzieć na poniższe pytania przez wstawienie znaku „X” w odpowiednią rubrykę.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002503) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2503/text.pdf) |
 
-22550033 Załączniki do rozporządzenia Ministra Zdrowia z dnia … 2022 r. (Dz. U. poz. …) Załącznik nr 1 WZÓR OŚWIADCZENIE DOTYCZĄCE STANU ZDROWIA I. Dane osoby podlegającej badaniu lekarskiemu Nazwisko: Imię: Adres zamieszkania: Data urodzenia: Telefon lub adres e-mail jeżeli posiada: Kategoria prawa jazdy: Numer PESEL, a w przypadku osoby, której nie nadano numeru PESEL nazwa i numer dokumentu stwierdzającego tożsamość: …………………………………………………… …………………………………………………… II. Instrukcja wypełnienia ankiety Proszę odpowiedzieć na poniższe pytania przez wstawienie znaku „X” w odpowiednią rubrykę.
 W przypadku gdy pytanie jest niezrozumiałe, należy poprosić o pomoc lekarza, aby udzielić odpowiedzi.
 III. Dane dotyczące stanu zdrowia Lp. Pytanie dotyczące stanu zdrowia Tak Nie 1 Czy korzysta Pan/Pani z opieki zdrowotnej z powodu jakiejkolwiek choroby, przebytych urazów lub niepełnosprawności?
 2 Czy przyjmuje Pan/Pani leki przepisane na receptę, dostępne bez recepty lub suplementy diety?
@@ -78,7 +77,9 @@ Jeżeli tak, to jakie i z jakiej przyczyny?
 2) wystąpienia napadu padaczki lub drgawek.
 Data Podpis osoby składającej oświadczenie Załącznik nr 3 SZCZEGÓŁOWE WARUNKI BADANIA LEKARSKIEGO W ZAKRESIE NARZĄDU SŁUCHU Częściowy ubytek słuchu, o którym mowa w art. 3 ust. 3a ustawy z dnia 5 stycznia 2011 r.
 o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.), stwierdza się wtedy, gdy przeprowadzone badanie lekarskie potwierdzi upośledzenie słuchu uniemożliwiające rozumienie mowy wymawianej szeptem z odległości 1 metra i mniejszej w uchu lepiej słyszącym, w tym przy zastosowaniu aparatu słuchowego lub implantu słuchowego.
-STANU PSYCHICZNEGO, OBJAWÓW WSKAZUJĄCYCH NA UZALEŻNIENIE OD ALKOHOLU LUB NA JEGO NADUŻYWANIE, OBJAWÓW WSKAZUJĄCYCH NA UZALEŻNIENIE OD ŚRODKÓW DZIAŁAJĄCYCH PODOBNIE DO ALKOHOLU LUB NA ICH NADUŻYWANIE ORAZ STOSOWANIA PRODUKTÓW LECZNICZYCH MOGĄCYCH MIEĆ WPŁYW NA ZDOLNOŚĆ DO KIEROWANIA POJAZDAMI
+
+## Załącznik nr 4 — SZCZEGÓŁOWE WARUNKI BADANIA LEKARSKIEGO W ZAKRESIE UKŁADU RUCHU, UKŁADU ODDECHOWEGO, CZYNNOŚCI NEREK, STANU PSYCHICZNEGO, OBJAWÓW WSKAZUJĄCYCH NA UZALEŻNIENIE OD ALKOHOLU LUB NA JEGO NADUŻYWANIE, OBJAWÓW WSKAZUJĄCYCH NA UZALEŻNIENIE OD ŚRODKÓW DZIAŁAJĄCYCH PODOBNIE DO ALKOHOLU LUB NA ICH NADUŻYWANIE ORAZ STOSOWANIA PRODUKTÓW LECZNICZYCH MOGĄCYCH MIEĆ WPŁYW NA ZDOLNOŚĆ DO KIEROWANIA POJAZDAMI
+
 1. W zakresie chorób układu ruchu uwzględnia się nieprawidłowości, które mogą stanowić zagrożenie podczas kierowania pojazdami. W uzasadnionych przypadkach uprawniony lekarz wskazuje, przez wpisanie właściwego kodu i właściwego subkodu określonych w przepisach wydanych na podstawie art. 20 ust. 1 pkt 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.), ograniczenia w kierowaniu pojazdami lub informacje dodatkowe w zakresie dostosowania pojazdu do niepełnosprawności.
 2. W zakresie chorób układu oddechowego orzeka się istnienie przeciwwskazań zdrowotnych do kierowania pojazdami w przypadku stwierdzenia u osoby badanej chorób, które mogą stwarzać ryzyko wystąpienia nagłej niewydolności układu oddechowego i osłabienia funkcji mózgowych stanowiących zagrożenie dla bezpieczeństwa drogowego.
 3. Oceniając stan zdrowia osoby badanej w zakresie stanu psychicznego, uwzględnia się:
@@ -90,13 +91,13 @@ STANU PSYCHICZNEGO, OBJAWÓW WSKAZUJĄCYCH NA UZALEŻNIENIE OD ALKOHOLU LUB NA J
 6. W przypadku stwierdzenia u osoby badanej uzależnienia w przeszłości od alkoholu lub środków działających podobnie do alkoholu można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli osoba ta:
 1) udokumentuje co najmniej roczny okres abstynencji;
 2) przedstawi opinię lekarza lub terapeuty prowadzącego leczenie odwykowe potwierdzającą leczenie i utrzymywanie abstynencji oraz poddaje się regularnym kontrolnym badaniom lekarskim.
-7. Oceniając stan zdrowia osoby badanej w zakresie uzależnienia od alkoholu lub środka działającego podobnie do alkoholu, uwzględnia się środki wymienione w wykazie określonym w przepisach wydanych na podstawie art. 129j ust. 5 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.).
+7. Oceniając stan zdrowia osoby badanej w zakresie uzależnienia od alkoholu lub środka działającego podobnie do alkoholu, uwzględnia się środki wymienione w wykazie określonym w przepisach wydanych na podstawie art. 129j ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm.).
 8. Oceniając stan zdrowia osoby badanej w zakresie zaburzeń psychicznych, uzależnienia od alkoholu lub środka działającego podobnie do alkoholu, w odniesieniu do osoby:
 1) ubiegającej się o wydanie prawa jazdy kategorii C1, C1+E, C, C+E, D1, D1+E, D lub D+E lub pozwolenia na kierowanie tramwajem albo posiadającej prawo jazdy takiej kategorii lub pozwolenie na kierowanie tramwajem,
 2) podlegającej badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201),
 3) występującej o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 4) o której mowa w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami uwzględnia się dodatkowe ryzyka, które mogą stanowić zagrożenie podczas kierowania pojazdami.
+o kierujących pojazdami – uwzględnia się dodatkowe ryzyka, które mogą stanowić zagrożenie podczas kierowania pojazdami.
 9. W przypadku stwierdzenia u osoby badanej niewydolności nerek, jeżeli stopień zaawansowania choroby może stanowić zagrożenie podczas kierowania pojazdami, orzeka się istnienie przeciwwskazań zdrowotnych do kierowania pojazdami. W innych przypadkach niewydolności nerek można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli osoba badana poddaje się regularnym kontrolnym badaniom lekarskim, właściwym dla każdego przypadku.
 10. W odniesieniu do osoby z przeszczepionym organem albo sztucznym wszczepem można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli jej stan zdrowia nie ma negatywnego wpływu na zdolność do kierowania pojazdami i poddaje się ona regularnym kontrolnym badaniom lekarskim, właściwym dla każdego przypadku.
 11. Oceniając stan zdrowia osoby badanej w zakresie, o którym mowa w ust. 9 i 10, w odniesieniu do osoby:
@@ -104,16 +105,19 @@ o kierujących pojazdami uwzględnia się dodatkowe ryzyka, które mogą stanowi
 2) podlegającej badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym,
 3) występującej o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 4) o której mowa w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami uwzględnia się dodatkowe ryzyka, które mogą stanowić zagrożenie podczas kierowania pojazdami.
+o kierujących pojazdami – uwzględnia się dodatkowe ryzyka, które mogą stanowić zagrożenie podczas kierowania pojazdami.
 12. W przypadku regularnego stosowania przez osobę badaną produktu leczniczego, który obniża u niej zdolność do bezpiecznego kierowania pojazdami, stwierdza się istnienie przeciwwskazań zdrowotnych do kierowania pojazdami.
-SZCZEGÓŁOWE WARUNKI BADANIA LEKARSKIEGO W ZAKRESIE UKŁADU SERCOWO-NACZYNIOWEGO
+
+## Załącznik nr 5 — SZCZEGÓŁOWE WARUNKI BADANIA LEKARSKIEGO W ZAKRESIE UKŁADU SERCOWO-NACZYNIOWEGO
+
+CZĘŚĆ I
 1. W odniesieniu do osoby:
 1) ubiegającej się o wydanie prawa jazdy kategorii AM, A1, A2, A, B1, B, B+E lub T albo posiadającej prawo jazdy takiej kategorii,
 2) ubiegającej się o wydanie prawa jazdy kategorii C1, C1+E, C, C+E, D1, D1+E, D lub D+E lub pozwolenia na kierowanie tramwajem albo posiadającej prawo takiej kategorii lub pozwolenie na kierowanie tramwajem,
 3) podlegającej badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201),
 4) występującej o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 5) o której mowa w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) u której stwierdzono schorzenia określone w ust. 2, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli są spełnione warunki określone w ust. 3.
+o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) – u której stwierdzono schorzenia określone w ust. 2, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli są spełnione warunki określone w ust. 3.
 2. Schorzenia to:
 1) bradyarytmie (zaburzenia funkcji węzła zatokowego i zaburzenia przewodzenia) i tachyarytmie (arytmie nadkomorowe i komorowe) z przypadkami omdleń lub epizodów omdleniowych spowodowanych arytmiami w wywiadzie;
 2) tachyarytmie (arytmie nadkomorowe i komorowe) w połączeniu ze strukturalną chorobą serca oraz trwałym częstoskurczem komorowym;
@@ -131,6 +135,7 @@ o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) u której s
 3. Warunkami umożliwiającymi orzeczenie braku przeciwwskazań zdrowotnych do kierowania pojazdami u osób, o których mowa w ust. 1, u których stwierdzono schorzenia określone w ust. 2, są:
 1) przedstawienie opinii lekarza specjalisty w dziedzinie kardiologii albo innego lekarza prowadzącego leczenie o wdrożeniu skutecznego leczenia w stopniu zapewniającym zachowanie bezpieczeństwa ruchu drogowego oraz o zalecanej częstotliwości badań kontrolnych;
 2) poddawanie się regularnym kontrolnym badaniom lekarskim, właściwym dla każdego przypadku.
+CZĘŚĆ II
 1. W odniesieniu do osoby ubiegającej się o wydanie prawa jazdy kategorii AM, A1, A2, A, B1, B, B+E lub T albo posiadającej prawo jazdy takiej kategorii, u której stwierdzono schorzenia określone w ust. 2, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli są spełnione warunki określone w ust. 3.
 2. Schorzenia to:
 1) stan po wszczepieniu lub wymianie kardiowertera-defibrylatora albo stan po interwencji kardiowertera-defibrylatora;
@@ -141,12 +146,13 @@ o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) u której s
 3. Warunkami umożliwiającymi orzeczenie braku przeciwwskazań zdrowotnych do kierowania pojazdami u osoby, o której mowa w ust. 1, u której stwierdzono schorzenia określone w ust. 2, są:
 1) przedstawienie opinii lekarza specjalisty w dziedzinie kardiologii albo innego lekarza prowadzącego leczenie o wdrożeniu skutecznego leczenia w stopniu zapewniającym zachowanie bezpieczeństwa ruchu drogowego oraz o zalecanej częstotliwości badań kontrolnych;
 2) poddawanie się regularnym kontrolnym badaniom lekarskim, właściwym dla każdego przypadku.
+CZĘŚĆ III
 1. W odniesieniu do osoby:
 1) ubiegającej się o wydanie prawa jazdy kategorii C1, C1+E, C, C+E, D1, D1+E, D lub D+E lub pozwolenia na kierowanie tramwajem albo posiadającej prawo jazdy takiej kategorii lub pozwolenie na kierowanie tramwajem,
 2) podlegającej badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym,
 3) występującej o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 4) wymienionej w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami u której stwierdzono schorzenia określone w ust. 2, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli są spełnione warunki określone w ust. 3.
+o kierujących pojazdami – u której stwierdzono schorzenia określone w ust. 2, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli są spełnione warunki określone w ust. 3.
 2. Schorzenia to:
 1) bradyarytmie: zaburzenia funkcji węzła zatokowego i zaburzenia przewodzenia w połączeniu z blokiem przedsionkowo-komorowym II stopnia typu Mobitz II, blokiem III stopnia albo naprzemiennym blokiem odnóg pęczka Hisa;
 2) tachyarytmie (arytmie nadkomorowe i komorowe) w połączeniu z nietrwałym polimorficznym częstoskurczem komorowym, trwałym częstoskurczem komorowym lub ze wskazaniem do stosowania defibrylatora;
@@ -158,58 +164,48 @@ o kierujących pojazdami u której stwierdzono schorzenia określone w ust. 2, m
 3. Warunkami umożliwiającymi orzeczenie braku przeciwwskazań zdrowotnych do kierowania pojazdami u osób, o których mowa w ust. 1, u których stwierdzono schorzenia określone w ust. 2, są:
 1) przedstawienie opinii lekarza specjalisty w dziedzinie kardiologii albo innego lekarza prowadzącego leczenie o wdrożeniu skutecznego leczenia w stopniu zapewniającym zachowanie bezpieczeństwa ruchu drogowego oraz o zalecanej częstotliwości badań kontrolnych;
 2) poddawanie się regularnym kontrolnym badaniom lekarskim, właściwym dla każdego przypadku.
+CZĘŚĆ IV
 1. W odniesieniu do osoby:
 1) ubiegającej się o wydanie prawa jazdy kategorii AM, A1, A2, A, B1, B, B+E lub T albo posiadającej prawo jazdy takiej kategorii,
 2) ubiegającej się o wydanie prawa jazdy kategorii C1, C1+E, C, C+E, D1, D1+E, D lub D+E lub pozwolenia na kierowanie tramwajem albo posiadającej prawo jazdy takiej kategorii lub pozwolenie na kierowanie tramwajem,
 3) podlegającej badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym,
 4) występującej o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 5) wymienionej w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami u której stwierdzono schorzenia określone w ust. 2, orzeka się istnienie przeciwwskazań zdrowotnych do kierowania pojazdami.
+o kierujących pojazdami – u której stwierdzono schorzenia określone w ust. 2, orzeka się istnienie przeciwwskazań zdrowotnych do kierowania pojazdami.
 2. Schorzenia to:
-1) choroba naczyń obwodowych tętniak aorty piersiowej i brzusznej, kiedy maksymalna średnica aorty predysponuje do znacznego ryzyka nagłego pęknięcia i wystąpienia nagłej niezdolności do kierowania pojazdem;
+1) choroba naczyń obwodowych – tętniak aorty piersiowej i brzusznej, kiedy maksymalna średnica aorty predysponuje do znacznego ryzyka nagłego pęknięcia i wystąpienia nagłej niezdolności do kierowania pojazdem;
 2) zespół Brugadów z omdleniami lub stan po zatrzymaniu akcji serca.
+CZĘŚĆ V
 1. W odniesieniu do osoby ubiegającej się o wydanie prawa jazdy kategorii AM, A1, A2, A, B1, B, B+E lub T albo posiadającej prawo jazdy takiej kategorii, u której stwierdzono schorzenia określone w ust. 2, orzeka się istnienie przeciwwskazań zdrowotnych do kierowania pojazdami.
 2. Schorzenia to:
 1) niewydolność serca klasy IV w skali NYHA;
 2) choroba zastawek serca łącznie z niedomykalnością zastawki aortalnej, zwężeniem zastawki aortalnej, niedomykalnością zastawki mitralnej lub zwężeniem zastawki mitralnej, jeżeli stan funkcjonalny ocenia się na klasę IV w skali NYHA lub jeżeli występowały epizody omdleniowe.
+CZĘŚĆ VI
 1. W odniesieniu do osoby:
 1) ubiegającej się o wydanie prawa jazdy kategorii C1, C1+E, C, C+E, D1, D1+E, D lub D+E lub pozwolenia na kierowanie tramwajem albo posiadającej prawo jazdy takiej kategorii lub pozwolenie na kierowanie tramwajem,
 2) podlegającej badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym,
 3) występującej o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 4) o której mowa w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami u której stwierdzono schorzenia określone w ust. 2, orzeka się istnienie przeciwwskazań zdrowotnych do kierowania pojazdami.
+o kierujących pojazdami – u której stwierdzono schorzenia określone w ust. 2, orzeka się istnienie przeciwwskazań zdrowotnych do kierowania pojazdami.
 2. Schorzenia to:
 1) wszczepienie defibrylatora;
 2) niewydolność serca klasy III i IV w skali NYHA;
 3) niewydolność serca wymagająca urządzenia wspomagającego pracę serca;
-4) choroba zastawek serca w niewydolności serca klasy III lub IV w skali NYHA lub przy frakcji wyrzutowej poniżej 35%, zwężeniu zastawki mitralnej i ciężkim nadciśnieniu płucnym lub znacznym zwężeniu zastawki aortalnej w obrazie echokardiografii albo zwężeniu zastawki aortalnej powodującym omdlenia z wyjątkiem całkowicie bezobjawowego ciężkiego zwężenia zastawki aortalnej, jeżeli zostały spełnione wymogi próby wysiłkowej;
-5) strukturalne i elektryczne kardiomiopatie kardiomiopatia przerostowa, jeżeli występują przypadki omdleń w wywiadzie lub co najmniej dwie z następujących sytuacji: grubość ściany lewej komory serca >3 cm, nietrwały częstoskurcz komorowy, historia nagłego zgonu w rodzinie (krewny pierwszego stopnia), ciśnienie tętnicze, które nie podnosi się w wyniku wysiłku fizycznego;
+4) choroba zastawek serca w niewydolności serca klasy III lub IV w skali NYHA lub przy frakcji wyrzutowej poniżej 35%, zwężeniu zastawki mitralnej i ciężkim nadciśnieniu płucnym lub znacznym zwężeniu zastawki aortalnej w obrazie echokardiografii albo zwężeniu zastawki aortalnej powodującym omdlenia – z wyjątkiem całkowicie bezobjawowego ciężkiego zwężenia zastawki aortalnej, jeżeli zostały spełnione wymogi próby wysiłkowej;
+5) strukturalne i elektryczne kardiomiopatie – kardiomiopatia przerostowa, jeżeli występują przypadki omdleń w wywiadzie lub co najmniej dwie z następujących sytuacji: grubość ściany lewej komory serca >3 cm, nietrwały częstoskurcz komorowy, historia nagłego zgonu w rodzinie (krewny pierwszego stopnia), ciśnienie tętnicze, które nie podnosi się w wyniku wysiłku fizycznego;
 6) zespół długiego QT z omdleniami, częstoskurcz typu torsade des pointes i odstęp QTc >500 ms.
+CZĘŚĆ VII
 1. W odniesieniu do kierowców lub osoby ubiegającej się o prawo jazdy, u których stwierdzono schorzenia określone w ust. 2, ocenia się ryzyko wystąpienia nagłych zdarzeń uniemożliwiających kierowanie pojazdem.
 2. Schorzenia to:
 1) kardiomiopatie (np. arytmogenna kardiomiopatia prawej komory, kardiomiopatia gąbczasta, polimorficzny częstoskurcz komorowy zależny od katecholamin i zespół krótkiego QT);
 2) inne kardiomiopatie dotychczas nieopisane.
 3. W przypadku ocenienia ryzyka wystąpienia nagłych zdarzeń uniemożliwiających kierowanie pojazdem osobom, o których mowa w ust. 1, wymagana jest opinia lekarza specjalisty w dziedzinie kardiologii albo innego lekarza prowadzącego leczenie o stabilnym przebiegu choroby z małym ryzykiem zaostrzeń i warunkach utrzymania stabilności stanu zdrowia oraz o zalecanej częstotliwości badań kontrolnych, z uwzględnieniem cech prognostycznych dla poszczególnych kardiomiopatii.
 
-## CZĘŚĆ I
-
-## CZĘŚĆ II
-
-## CZĘŚĆ III
-
-## CZĘŚĆ IV
-
-## CZĘŚĆ V
-
-## CZĘŚĆ VI
-
-## CZĘŚĆ VII
-
 ## Załącznik nr 6 — SZCZEGÓŁOWE WARUNKI BADANIA LEKARSKIEGO W ZAKRESIE UKŁADU NERWOWEGO, W TYM PADACZKI
 
 1. Określenie:
-1) padaczka oznacza wystąpienie przynajmniej dwóch napadów padaczkowych w odstępie mniejszym niż pięć lat;
-2) prowokowany napad padaczkowy oznacza napad spowodowany rozpoznawalnym czynnikiem przyczynowym, którego można uniknąć.
+1) padaczka – oznacza wystąpienie przynajmniej dwóch napadów padaczkowych w odstępie mniejszym niż pięć lat;
+2) prowokowany napad padaczkowy – oznacza napad spowodowany rozpoznawalnym czynnikiem przyczynowym, którego można uniknąć.
 2. W zakresie układu nerwowego uwzględnia się choroby obwodowego i ośrodkowego układu nerwowego oraz zaburzenia neurologiczne związane z interwencją chirurgiczną skutkującą uszkodzeniem ośrodkowego lub obwodowego układu nerwowego, w zależności od skutków czynnościowych (zaburzeń świadomości, zaburzeń czucia, zaburzeń motorycznych, zaburzeń postawy ciała, zaburzeń równowagi i koordynacji ruchowej, dysfunkcji percepcji wzrokowej i słuchowej). W ocenie należy uwzględnić również zagrożenia wynikające z charakteru schorzenia oraz niebezpieczeństwo progresji zaburzeń neurologicznych i pogorszenia się stanu zdrowia.
 3. W przypadku schorzeń neurologicznych może być wymagana opinia lekarza specjalisty w dziedzinie neurologii; w przypadku padaczki opinia tego lekarza jest konieczna.
 4. W przypadku wystąpienia innej utraty świadomości, zaburzenia świadomości lub napadowych zaburzeń ruchowych o symptomatologii padaczkowej u osoby ubiegającej się o wydanie prawa jazdy lub posiadającej prawo jazdy konieczne jest dokonanie oceny z uwzględnieniem ryzyka ponownego wystąpienia tych zaburzeń podczas kierowania pojazdami.
@@ -228,44 +224,46 @@ Lekarz specjalista w dziedzinie neurologii określa wymagania dotyczące dalszej
 2) podlegającej badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201),
 3) występującej o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 4) o której mowa w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) u której rozpoznano padaczkę lub wystąpił napad o symptomatologii padaczkowej, orzeka się istnienie przeciwwskazań zdrowotnych do kierowania tymi pojazdami.
+o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) – u której rozpoznano padaczkę lub wystąpił napad o symptomatologii padaczkowej, orzeka się istnienie przeciwwskazań zdrowotnych do kierowania tymi pojazdami.
 15. W odniesieniu do osoby, o której mowa w ust. 14, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami po przedstawieniu przez nią opinii lekarza specjalisty w dziedzinie neurologii potwierdzającej:
 1) co najmniej 10-letni okres bez napadu padaczkowego lub o symptomatologii padaczkowej bez konieczności leczenia farmakologicznego;
 2) niestwierdzenie patologii mózgu właściwej dla padaczki i niewykrycie aktywności padaczkopodobnej na elektroencefalogramie (EEG).
 16. Osoba badana przedstawia uprawnionemu lekarzowi opinię lekarza specjalisty w dziedzinie neurologii w formie karty konsultacyjnej neurologicznej według wzoru określonego poniżej.
 17. Do osób po operacyjnym leczeniu padaczki stosuje się przepisy ust. 1–16.
-SZCZEGÓŁOWE WARUNKI BADANIA LEKARSKIEGO W ZAKRESIE OBTURACYJNEGO BEZDECHU PODCZAS SNU
+
+## Załącznik nr 7 — SZCZEGÓŁOWE WARUNKI BADANIA LEKARSKIEGO W ZAKRESIE OBTURACYJNEGO BEZDECHU PODCZAS SNU
+
 1. Określenie:
-1) obturacyjny bezdech podczas snu w postaci umiarkowanej oznacza liczbę epizodów zatrzymania lub spłycenia oddychania na godzinę (wskaźnik AHI) wynoszącą między 15 a 29 oddechów, z uwzględnieniem nadmiernej senności dziennej;
-2) obturacyjny bezdech podczas snu w postaci ciężkiej oznacza liczbę epizodów zatrzymania lub spłycenia oddychania na godzinę (wskaźnik AHI) równą 30 oddechom lub przekraczającą 30 oddechów, z uwzględnieniem nadmiernej senności dziennej.
+1) obturacyjny bezdech podczas snu w postaci umiarkowanej – oznacza liczbę epizodów zatrzymania lub spłycenia oddychania na godzinę (wskaźnik AHI) wynoszącą między 15 a 29 oddechów, z uwzględnieniem nadmiernej senności dziennej;
+2) obturacyjny bezdech podczas snu w postaci ciężkiej – oznacza liczbę epizodów zatrzymania lub spłycenia oddychania na godzinę (wskaźnik AHI) równą 30 oddechom lub przekraczającą 30 oddechów, z uwzględnieniem nadmiernej senności dziennej.
 2. Osobę:
 1) ubiegającą się o wydanie prawa jazdy kategorii AM, A1, A2, A, B1, B, B+E lub T albo posiadającą prawo jazdy takiej kategorii,
 2) ubiegającą się o wydanie prawa jazdy kategorii C1, C1+E, C, C+E, D1, D1+E, D lub D+E lub pozwolenia na kierowanie tramwajem albo posiadającą prawo jazdy takiej kategorii lub pozwolenie na kierowanie tramwajem,
 3) podlegającą badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201),
 4) występującą o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 5) o której mowa w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) u której podejrzewa się obturacyjny bezdech podczas snu w postaci umiarkowanej lub ciężkiej, kieruje się na specjalistyczne badanie lekarskie. Do czasu potwierdzenia lub wykluczenia powyższego rozpoznania można orzec istnienie przeciwwskazań zdrowotnych do kierowania pojazdami.
+o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) – u której podejrzewa się obturacyjny bezdech podczas snu w postaci umiarkowanej lub ciężkiej, kieruje się na specjalistyczne badanie lekarskie. Do czasu potwierdzenia lub wykluczenia powyższego rozpoznania można orzec istnienie przeciwwskazań zdrowotnych do kierowania pojazdami.
 3. W odniesieniu do osoby:
 1) ubiegającej się o wydanie prawa jazdy kategorii AM, A1, A2, A, B1, B, B+E lub T albo posiadającej prawo jazdy takiej kategorii,
 2) ubiegającej się o wydanie prawa jazdy kategorii C1, C1+E, C, C+E, D1, D1+E, D, D+E lub pozwolenia na kierowanie tramwajem albo posiadającej prawo jazdy takiej kategorii lub pozwolenie na kierowanie tramwajem,
 3) podlegającej badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym,
 4) występującej o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 5) o której mowa w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami u której rozpoznano obturacyjny bezdech podczas snu w postaci umiarkowanej lub ciężkiej, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli przedstawi ona opinię lekarza prowadzącego leczenie potwierdzającą wdrożenie leczenia, przestrzega zaleceń lekarskich w zakresie zapobiegania senności oraz poddaje się regularnym kontrolnym badaniom lekarskim.
+o kierujących pojazdami – u której rozpoznano obturacyjny bezdech podczas snu w postaci umiarkowanej lub ciężkiej, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli przedstawi ona opinię lekarza prowadzącego leczenie potwierdzającą wdrożenie leczenia, przestrzega zaleceń lekarskich w zakresie zapobiegania senności oraz poddaje się regularnym kontrolnym badaniom lekarskim.
 4. W odniesieniu do osoby ubiegającej się o wydanie prawa jazdy kategorii AM, A1, A2, A, B1, B, B+E lub T albo posiadającej prawo jazdy takiej kategorii, która leczy się z powodu obturacyjnego bezdechu podczas snu w postaci umiarkowanej lub ciężkiej, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, pod warunkiem że podlega ona co trzy lata kontrolnym badaniom lekarskim, przeprowadzanym w celu ustalenia poziomu zgodności z leczeniem oraz konieczności dalszego leczenia.
 5. W odniesieniu do osoby:
 1) ubiegającej się o wydanie prawa jazdy kategorii C1, C1+E, C, C+E, D1, D1+E, D lub D+E lub pozwolenia na kierowanie tramwajem albo posiadającej prawo jazdy takiej kategorii lub pozwolenie na kierowanie tramwajem,
 2) podlegającej badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym,
 3) występującej o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 4) o której mowa w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami która leczy się z powodu obturacyjnego bezdechu podczas snu w postaci umiarkowanej lub ciężkiej, orzeka się brak przeciwwskazań zdrowotnych do kierowania pojazdami, pod warunkiem że podlega ona corocznym kontrolnym badaniom lekarskim, przeprowadzanym w celu ustalenia poziomu zgodności z leczeniem oraz konieczności dalszego leczenia.
+o kierujących pojazdami – która leczy się z powodu obturacyjnego bezdechu podczas snu w postaci umiarkowanej lub ciężkiej, orzeka się brak przeciwwskazań zdrowotnych do kierowania pojazdami, pod warunkiem że podlega ona corocznym kontrolnym badaniom lekarskim, przeprowadzanym w celu ustalenia poziomu zgodności z leczeniem oraz konieczności dalszego leczenia.
 
 ## Załącznik nr 8 — SZCZEGÓŁOWE WARUNKI BADANIA LEKARSKIEGO W ZAKRESIE CUKRZYCY
 
 1. Określenie:
-1) ciężka hipoglikemia oznacza spadek stężenia glukozy powodujący konieczność pomocy innej osoby w celu uzyskania ustąpienia objawów oraz normalizacji glikemii;
-2) nawracająca ciężka hipoglikemia oznacza co najmniej drugi przypadek ciężkiej hipoglikemii w okresie 12 miesięcy;
-3) nieświadomość hipoglikemii oznacza nieodczuwanie patologicznie niskich wartości glikemii, będące istotnym powikłaniem częstego występowania epizodów hipoglikemii.
+1) ciężka hipoglikemia – oznacza spadek stężenia glukozy powodujący konieczność pomocy innej osoby w celu uzyskania ustąpienia objawów oraz normalizacji glikemii;
+2) nawracająca ciężka hipoglikemia – oznacza co najmniej drugi przypadek ciężkiej hipoglikemii w okresie 12 miesięcy;
+3) nieświadomość hipoglikemii – oznacza nieodczuwanie patologicznie niskich wartości glikemii, będące istotnym powikłaniem częstego występowania epizodów hipoglikemii.
 2. W odniesieniu do osoby ubiegającej się o wydanie prawa jazdy kategorii AM, A1, A2, A, B1, B, B+E lub T albo posiadającej prawo jazdy takiej kategorii, która leczy się farmakologicznie z powodu cukrzycy, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli spełnia ona następujące warunki:
 1) poddaje się regularnym kontrolnym badaniom lekarskim, właściwym dla każdego przypadku, przy czym okres między badaniami nie może przekraczać pięciu lat;
 2) wykazuje pełną świadomość ryzyka hipoglikemii, w szczególności zagrożenia utratą przytomności, oraz została poinformowana o konieczności zgłoszenia się na ponowne badanie w przypadku wystąpienia w porze czuwania epizodu ciężkiej hipoglikemii, nawet niezwiązanego z kierowaniem pojazdami;
@@ -280,9 +278,9 @@ o kierujących pojazdami która leczy się z powodu obturacyjnego bezdechu podcz
 2) podlegającej badaniom na podstawie art. 39j ust. 1 albo art. 39m ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201),
 3) występującej o zezwolenie na kierowanie pojazdem uprzywilejowanym lub przewożącym wartości pieniężne albo o przedłużenie ważności tego zezwolenia,
 4) o której mowa w art. 34 ust. 1, art. 60 lub art. 117 ust. 4 ustawy z dnia 5 stycznia 2011 r.
-o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) która leczy się farmakologicznie z powodu cukrzycy, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli spełnia ona następujące warunki:
+o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) – która leczy się farmakologicznie z powodu cukrzycy, można orzec brak przeciwwskazań zdrowotnych do kierowania pojazdami, jeżeli spełnia ona następujące warunki:
 a) przedstawiła pozytywną opinię lekarza specjalisty w dziedzinie diabetologii albo innego lekarza prowadzącego leczenie cukrzycy, w tym o braku innych przeciwwskazań zdrowotnych do kierowania pojazdami związanych z cukrzycą,
-b) poddaje się regularnym kontrolnym badaniom lekarskim, właściwym dla każdego przypadku, przy czym okres między badaniami nie może przekraczać trzech lat, a w przypadku insulinoterapii roku,
+b) poddaje się regularnym kontrolnym badaniom lekarskim, właściwym dla każdego przypadku, przy czym okres między badaniami nie może przekraczać trzech lat, a w przypadku insulinoterapii – roku,
 c) wykazuje pełną świadomość ryzyka hipoglikemii, w szczególności zagrożenia utratą przytomności, oraz została poinformowana o konieczności zgłoszenia się do ponownej oceny braku przeciwwskazań do kierowania pojazdami w przypadku wystąpienia w porze czuwania epizodu ciężkiej hipoglikemii, także niezwiązanego z kierowaniem pojazdami,
 d) kontroluje przebieg choroby zgodnie ze wskazaniami lekarza specjalisty w dziedzinie diabetologii albo innego lekarza prowadzącego leczenie cukrzycy, w tym przez regularne monitorowanie stężenia glukozy we krwi, przynajmniej dwa razy dziennie oraz w porach dnia związanych z kierowaniem pojazdami; kontrola ta musi być udokumentowana przez lekarza prowadzącego leczenie cukrzycy.
 7. W przypadku stwierdzenia ciężkiej hipoglikemii, nieświadomości hipoglikemii oraz innych powikłań związanych z cukrzycą u osoby, o której mowa w ust. 6, orzeka się istnienie przeciwwskazań zdrowotnych do kierowania pojazdami.
@@ -290,18 +288,18 @@ d) kontroluje przebieg choroby zgodnie ze wskazaniami lekarza specjalisty w dzie
 
 ## Załącznik nr 9 — WZÓR …………………………………………… ………………………………… ORZECZENIE LEKARSKIE nr ........../..........
 
-W wyniku badania lekarskiego przeprowadzonego na podstawie art. 75 ust. 1 pkt 1 / pkt 2 / pkt 3 / pkt 4 / pkt 5 / pkt 7 / pkt 8 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) u Pana/Pani …………………………………...……..……………………………………………, numer PESEL, a w przypadku osoby, której nie nadano numeru PESEL nazwa i numer dokumentu stwierdzającego tożsamość: …………………………………...……..………………, stwierdzam
+W wyniku badania lekarskiego przeprowadzonego na podstawie art. 75 ust. 1 pkt 1 / pkt 2 / pkt 3 / pkt 4 / pkt 5 / pkt 7 / pkt 8 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) u Pana/Pani …………………………………...……..……………………………………………, numer PESEL, a w przypadku osoby, której nie nadano numeru PESEL – nazwa i numer dokumentu stwierdzającego tożsamość: …………………………………...……..………………, stwierdzam
 1) brak/istnienie przeciwwskazań zdrowotnych do kierowania pojazdami określonymi w:
-a) prawie jazdy kategorii: [ ] AM, A1, A2, A, B1, B, B+E, T, [ ] C1, C1+E, C, C+E, D1, D1+E, D, D+E, [ ] C1, C1+E, C, C+E,
+a) prawie jazdy kategorii: – [ ] AM, A1, A2, A, B1, B, B+E, T, – [ ] C1, C1+E, C, C+E, D1, D1+E, D, D+E, – [ ] C1, C1+E, C, C+E,
 b) [ ] pozwoleniu na kierowanie tramwajem ;
 2) ograniczenie w zakresie:
 a) pojazdów, którymi może kierować osoba badana, ich wyposażenia, oznakowania lub przystosowania : ……………………………………………………………………………………………………… ………………………………………………………………………………………………………
 b) specjalnych wymagań wobec osoby kierującej pojazdem : ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… Termin następnego badania: ……………………………………………………………………….
 ……………………………………………………………….
 POUCZENIE
-1. Osoba badana lub podmiot kierujący na badanie lekarskie, które nie zgadzają się z treścią orzeczenia lekarskiego, mogą w terminie 14 dni od dnia otrzymania orzeczenia lekarskiego za pośrednictwem uprawnionego lekarza, który je wydał, wystąpić z wnioskiem o przeprowadzenie ponownego badania lekarskiego odpowiednio w przypadku:
-1) orzeczenia wydanego przez uprawnionego lekarza do wojewódzkiego ośrodka medycyny pracy;
-2) orzeczenia wydanego przez uprawnionego lekarza zatrudnionego w wojewódzkim ośrodku medycyny pracy do:
+1. Osoba badana lub podmiot kierujący na badanie lekarskie, które nie zgadzają się z treścią orzeczenia lekarskiego, mogą – w terminie 14 dni od dnia otrzymania orzeczenia lekarskiego – za pośrednictwem uprawnionego lekarza, który je wydał, wystąpić z wnioskiem o przeprowadzenie ponownego badania lekarskiego odpowiednio w przypadku:
+1) orzeczenia wydanego przez uprawnionego lekarza – do wojewódzkiego ośrodka medycyny pracy;
+2) orzeczenia wydanego przez uprawnionego lekarza zatrudnionego w wojewódzkim ośrodku medycyny pracy – do:
 a) Centrum Naukowego Medycyny Kolejowej w Warszawie,
 b) Instytutu Medycyny Pracy im. prof. dra med. Jerzego Nofera w Łodzi,
 c) Instytutu Medycyny Wsi im. Witolda Chodźki w Lublinie,
@@ -311,7 +309,7 @@ e) Wojskowego Instytutu Medycyny Lotniczej w Warszawie.
 
 ## Załącznik nr 10 — WZÓR ………………………………………………… ……………………………… ORZECZENIE LEKARSKIE nr ........../..........
 
-W wyniku badania lekarskiego przeprowadzonego na podstawie art. 75 ust. 1 pkt 6 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) u Pana/Pani ………………………………………………………….……………………………, numer PESEL, a w przypadku osoby, której nie nadano numeru PESEL nazwa i numer dokumentu stwierdzającego tożsamość: …………………………………………………………., stwierdzam
+W wyniku badania lekarskiego przeprowadzonego na podstawie art. 75 ust. 1 pkt 6 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.) u Pana/Pani ………………………………………………………….……………………………, numer PESEL, a w przypadku osoby, której nie nadano numeru PESEL – nazwa i numer dokumentu stwierdzającego tożsamość: …………………………………………………………., stwierdzam
 1) brak/istnienie przeciwwskazań zdrowotnych do kierowania pojazdem uprzywilejowanym lub przewożącym wartości pieniężne, określonym w prawie jazdy kategorii :
 a) [ ] A1, A2, A,
 b) [ ] B1, B, B+E,
@@ -321,7 +319,7 @@ d) [ ] D1, D1+E, D, D+E;
 a) pojazdów, którymi może kierować osoba badana, ich wyposażenia, oznakowania lub przystosowania : ………..………………………………………………………………………………………..........
 ………………………………………………………………………………………………………
 b) specjalnych wymagań wobec osoby kierującej pojazdem : ……………………………………………………………………………………………………… ……………………………………………………………………………………………………… Termin następnego badania: …………………………………………………………..…………… ………..…….……….…………………… POUCZENIE
-1. Osoba badana lub podmiot kierujący na badanie lekarskie, które nie zgadzają się z treścią orzeczenia lekarskiego, mogą w terminie 14 dni od dnia otrzymania orzeczenia lekarskiego za pośrednictwem uprawnionego lekarza, który je wydał, wystąpić z wnioskiem o przeprowadzenie ponownego badania lekarskiego odpowiednio:
+1. Osoba badana lub podmiot kierujący na badanie lekarskie, które nie zgadzają się z treścią orzeczenia lekarskiego, mogą – w terminie 14 dni od dnia otrzymania orzeczenia lekarskiego – za pośrednictwem uprawnionego lekarza, który je wydał, wystąpić z wnioskiem o przeprowadzenie ponownego badania lekarskiego odpowiednio:
 1) w przypadku orzeczenia wydanego przez uprawnionego lekarza do wojewódzkiego ośrodka medycyny pracy;
 2) w przypadku orzeczenia wydanego przez uprawnionego lekarza zatrudnionego w wojewódzkim ośrodku medycyny pracy do:
 a) Centrum Naukowego Medycyny Kolejowej w Warszawie,
@@ -331,8 +329,10 @@ d) Uniwersyteckiego Centrum Medycyny Morskiej i Tropikalnej w Gdyni albo
 e) Wojskowego Instytutu Medycyny Lotniczej w Warszawie.
 2. Na ponowne badanie lekarskie należy się zgłosić w terminie 30 dni od dnia wpływu wniosku o przeprowadzenie ponownego badania lekarskiego.
 3. Orzeczenie lekarskie wydane po przeprowadzeniu ponownego badania lekarskiego jest ostateczne.
-……………………………………… ……………………………………………………… …………………………………… ……………………………………… ……………………………………………………… …………………………………… ……………………………………… ……………………………………………………… …………………………………… ……………………………………… ……………………………………………………… …………………………………… ……………………………………… ……………………………………………………… …………………………………… ……………………………… ……………………………………… ……………………………………………………… …………………………………… ……………………………………… ……………………………………………………… …………………………………… ……………………………………… ……………………………………………………… …………………………………… ……………………………………… ……………………………………………………… …………………………………… ……………………………………… ……………………………………………………… …………………………………… ……………………………… Załącznik nr 12 ………………………………..…… Uprawniony lekarz do badań lekarskich osób ubiegających się o uzyskanie uprawnień do kierowania pojazdami i kierowców Numer wpisu do ewidencji uprawnionych lekarzy....................................., prowadzonej przez marszałka województwa ………………………………..…………….
+……………………………… ……………………………… …………………………………… …………………………………… …………………………………… …………………………………… …………………………………… …………………………………… …………………………………… …………………………………… …………………………………… …………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………………………… ……………………………………… ……………………………………… ……………………………………… ……………………………………… ……………………………………… ……………………………………… ……………………………………… ……………………………………… ……………………………………… ……………………………………… Załącznik nr 12 ………………………………..…… Uprawniony lekarz do badań lekarskich osób ubiegających się o uzyskanie uprawnień do kierowania pojazdami i kierowców Numer wpisu do ewidencji uprawnionych lekarzy....................................., prowadzonej przez marszałka województwa ………………………………..…………….
 numer prawa wykonywania zawodu lekarza .............................
-............................................................................. ……….…………………….………… ZAŚWIADCZENIE NR ………………/….……………….
+
+## Załącznik nr 13 — ............................................................................. ……….…………………….………… ZAŚWIADCZENIE NR ………………/….……………….
+
 Na podstawie § 12 ust. 3 rozporządzenia Ministra Zdrowia z dnia 5 grudnia 2022 r. w sprawie badań lekarskich osób ubiegających się o uprawnienia do kierowania pojazdami i kierowców (Dz. U. poz. 2503) stwierdza się, że Pan/Pani …………………………………………………………………………………………… posiadający(-ca) prawo wykonywania zawodu lekarza numer ……………………………………, wydane przez ……………………………………, ukończył(a) z wynikiem pozytywnym szkolenie lekarzy w zakresie badań kierowców, o którym mowa w art. 77 ust. 1 pkt 3 lit. b ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm.).
 

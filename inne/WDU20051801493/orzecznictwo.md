@@ -2,11 +2,12 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej*
 
-Łącznie: **72** orzeczeń
+Łącznie: **73** orzeczeń
 (pominięto 146 orzeczeń sądów rejonowych)
 
-## art. 1 (1)
+## art. 1 (2)
 
+- 2025-05-28 | SO | [II AKa 126/24](https://www.saos.org.pl/judgments/545747) | Uzasadnienie
 - 2016-10-05 | SO | [VI Ca 707/16](https://www.saos.org.pl/judgments/250486) | Postanowienie
 
 ## art. 2 (16)

@@ -8,7 +8,7 @@ pos: 537
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych Uznając, że przymusowe zatrudnianie żołnierzy zastępczej służby wojskowej w kopalniach węgla, kamieniołomach, zakładach wydobywania rud uranu i batalionach budowlanych stanowiło szczególny rodzaj represji z przyczyn politycznych, uchwala się, co następuje:

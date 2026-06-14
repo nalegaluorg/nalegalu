@@ -8,7 +8,7 @@ pos: 1018
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o komornikach sądowych
@@ -28,6 +28,17 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1018/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 w ust. 4 uchyla się pkt 4;
+- **2)** art. 16 otrzymuje brzmienie: „Art. 16. Wniosek o powołanie na stanowisko komornika można złożyć w terminie 5 lat od dnia ustania zatrudnienia na stanowisku asesora.”;
+- **3)** w art. 19 w ust. 1 pkt 2 otrzymuje brzmienie: „2) ukończył 70. rok życia;”;
+- **4)** w art. 131 uchyla się ust. 2;
+- **5)** art. 132 otrzymuje brzmienie: „Art. 132. Prezes właściwego sądu apelacyjnego odmawia powołania na stanowisko asesora osoby, która nie spełnia wymogów, o których mowa w art. 129, lub której wniosek o powołanie na stanowisko asesora został złożony po upływie terminu, o którym mowa w art. 130 ust. 2.”;
+- **6)** w art. 144 w ust. 1:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) ukończył 70. rok życia.”,
+    - **b)** uchyla się pkt 5;
+
+- **7)** uchyla się art. 281.
 
 **Art. 2.**
 

@@ -8,10 +8,10 @@ pos: 1615
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1615 ROZPORZĄDZENIE MINISTRA ENERGII z dnia 18 sierpnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001615) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1615/text.pdf) |
 
-Poz. 1615 ROZPORZĄDZENIE MINISTRA ENERGII z dnia 18 sierpnia 2017 r.
 w sprawie minimalnej zawartości sprawozdania z realizacji planu ruchu zakładu górniczego Na podstawie art. 117b ust. 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r.
-poz. 1131, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa minimalną zawartość sprawozdania z realizacji planu ruchu zakładu górniczego służącego do wykonywania działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, zwanego dalej „sprawozdaniem”.
+poz. 1131, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa minimalną zawartość sprawozdania z realizacji planu ruchu zakładu górniczego służącego do wykonywania działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, zwanego dalej „sprawozdaniem”.
 § 2. 1. Sprawozdanie zawiera:
 1) nazwę i dane teleadresowe:
 a) przedsiębiorcy,
@@ -40,7 +40,6 @@ a) poszukiwaniu i rozpoznawaniu węglowodorów – wykaz maszyn i urządzeń sto
 b) wydobywaniu węglowodorów – wykaz urządzeń stosowanych przy wydobywaniu węglowodorów, w szczególności urządzeń wiertniczych, urządzeń wydobywczych oraz urządzeń związanych z rekonstrukcją otworów wiertniczych;
 5) informacje dotyczące powiązań pomiędzy urządzeniem stałym lub ruchomym, o którym mowa w pkt 3, a maszynami i urządzeniami, o których mowa w pkt 4, oraz otworami wiertniczymi;
 6) nazwy i dane lokalizacyjne otworów wiertniczych;
-Dziennik Ustaw – 2 – Poz. 1615
 7) określenie stanu realizacji robót objętych planem ruchu zakładu górniczego w okresie:
 a) od dnia zatwierdzenia planu ruchu zakładu górniczego – w przypadku pierwszego sprawozdania, albo
 b) od dnia sporządzenia poprzedniego sprawozdania;

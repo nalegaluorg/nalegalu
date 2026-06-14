@@ -8,7 +8,7 @@ pos: 941
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Pomorskiej Akademii Medycznej w Szczecinie nazwy „Pomorski Uniwersytet Medyczny w Szczecinie”

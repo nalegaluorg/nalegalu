@@ -8,10 +8,10 @@ pos: 350
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 marca 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 350 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 28 lutego 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/350/text.pdf) |
 
-Poz. 350 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 28 lutego 2014 r.
-w sprawie odstępstwa od obowiązku zaopatrywania w świadectwo fitosanitarne drewna uzyskanego z roślin rodzaju Thuja L., pochodzącego z Kanady Na podstawie art. 15 ust. 3 oraz art. 20 ust. 2 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie odstępstwa od obowiązku zaopatrywania w świadectwo fitosanitarne drewna uzyskanego z roślin rodzaju Thuja L., pochodzącego z Kanady Na podstawie art. 15 ust. 3 oraz art. 20 ust. 2 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) odstępstwo od obowiązku zaopatrywania w świadectwo fitosanitarne drewna uzyskanego z roślin rodzaju Thuja L., pochodzącego z Kanady, łącznie z drewnem, które nie zachowało swojej naturalnej zaokrąglonej powierzchni, zwanego dalej „drewnem”;
 2) dokumenty, w które powinno być zaopatrzone drewno wprowadzane na terytorium Rzeczypospolitej Polskiej.
 § 2. Do drewna wprowadzanego na terytorium Rzeczypospolitej Polskiej nie stosuje się obowiązku zaopatrywania w świadectwo fitosanitarne określonego w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2008 r.

@@ -8,7 +8,7 @@ pos: 666
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Nr 38, poz. 167) oraz Gabrieli O. w sprawie zgodności art. 14 pkt 4 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz.U. Nr 88, poz. 554;

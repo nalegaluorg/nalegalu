@@ -8,7 +8,7 @@ pos: 2400
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks postępowania w sprawach o wykroczenia oraz niektórych innych ustaw

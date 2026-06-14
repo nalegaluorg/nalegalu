@@ -8,7 +8,7 @@ pos: 932
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych rozwiązaniach wspierających osoby o znacznym stopniu niepełnosprawności
@@ -42,6 +42,11 @@ source: "isap-pdf"
 2. Dostępność, o której mowa w ust. 1, zapewniana jest na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 **Art. 4.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 47 po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Prawo do wyrobów medycznych, na zasadach, o których mowa w ust. 1a, przysługuje również świadczeniobiorcom posiadającym orzeczenie o znacznym stopniu niepełnosprawności.”;
+- **2)** w art. 47c ust. 1 otrzymuje brzmienie: „1. Kobiety w ciąży, świadczeniobiorcy, o których mowa w art. 47 ust. 1a i 1b, osoby, o których mowa w art. 43 ust. 1, inwalidzi wojenni i wojskowi, kombatanci oraz działacze opozycji antykomunistycznej i osoby represjonowane z powodów politycznych mają prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej oraz z usług farmaceutycznych udzielanych w aptekach.”;
+- **3)** w art. 57 w ust. 2 pkt 14 otrzymuje brzmienie: „14) dla osób, o których mowa w art. 47 ust. 1a i 1b.”;
+- **4)** w art. 136 w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) z zakresu rehabilitacji leczniczej w części dotyczącej świadczeń udzielanych świadczeniobiorcom, o których mowa w art. 47 ust. 1a i 1b, kwota zobowiązania, o której mowa w ust. 1 pkt 5, jest zmieniana przez dostosowanie jej do potrzeb zdrowotnych oraz wykonania tej umowy;”.
 
 **Art. 5.** Ustawa wchodzi w życie z dniem 1 lipca 2018 r.
 

@@ -8,10 +8,10 @@ pos: 328
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 marca 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 328 Umowa w sprawie promowania, użytkowania i świadczenia usług systemów nawigacji satelitarnej GALILEO i GPS oraz powiązanych z nimi aplikacji, sporządzona w Dromoland Castle w dniu 26 czerwca 2004 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000328) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/328/text.pdf) |
 
-Umowa w sprawie promowania, użytkowania i świadczenia usług systemów nawigacji satelitarnej GALILEO i GPS oraz powiązanych z nimi aplikacji, sporządzona w Dromoland Castle w dniu 26 czerwca 2004 r.
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: W dniu 26 czerwca 2004 r. została sporządzona w Dromoland Castle Umowa w sprawie promowania, użytkowania i świadczenia usług systemów nawigacji satelitarnej GALILEO i GPS oraz powiązanych z nimi aplikacji, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana, z uwzględnieniem deklaracji złożonej do artykułu 20 umowy.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: W dniu 26 czerwca 2004 r. została sporządzona w Dromoland Castle Umowa w sprawie promowania, użytkowania i świadczenia usług systemów nawigacji satelitarnej GALILEO i GPS oraz powiązanych z nimi aplikacji, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana, z uwzględnieniem deklaracji złożonej do artykułu 20 umowy.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 3 stycznia 2008 r.
 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński L.S.

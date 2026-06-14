@@ -8,10 +8,10 @@ pos: 216
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 lutego 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 216 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 20 stycznia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/216/text.pdf) |
 
-Poz. 216 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 20 stycznia 2023 r.
-zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Wywiadu Na podstawie art. 71 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 24 marca 2020 r. w sprawie szczegółowych zasad szkolenia zawodowego funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 552) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Wywiadu Na podstawie art. 71 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 24 marca 2020 r. w sprawie szczegółowych zasad szkolenia zawodowego funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 552) wprowadza się następujące zmiany:
 1) w § 9 w ust. 2 pkt 1 otrzymuje brzmienie: „1) posiada wykształcenie wyższe;”;
 2) w § 15 ust. 3 otrzymuje brzmienie: „3. Ocenę końcową, o której mowa w ust. 2, oblicza się na podstawie średniej arytmetycznej ocen otrzymywanych przez funkcjonariusza w trakcie szkolenia, według następujących kryteriów:
 1) ocenę bardzo dobrą (5) uzyskuje się, jeżeli średnia arytmetyczna ocen wynosi od 4,81 do 5,00;

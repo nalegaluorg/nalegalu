@@ -8,10 +8,10 @@ pos: 2495
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 listopada 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2495 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 14 listopada 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002495) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2495/text.pdf) |
 
-Poz. 2495 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 14 listopada 2023 r.
-w sprawie sposobu i trybu postępowania w sprawach o uzyskanie zezwolenia na noszenie umundurowania oraz odznak i oznak wojskowych przez żołnierzy niebędących żołnierzami zawodowymi Na podstawie art. 329 ust. 4 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb postępowania w sprawach o uzyskanie zezwolenia na noszenie umundurowania oraz odznak i oznak wojskowych przez żołnierzy niebędących żołnierzami zawodowymi.
+w sprawie sposobu i trybu postępowania w sprawach o uzyskanie zezwolenia na noszenie umundurowania oraz odznak i oznak wojskowych przez żołnierzy niebędących żołnierzami zawodowymi Na podstawie art. 329 ust. 4 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb postępowania w sprawach o uzyskanie zezwolenia na noszenie umundurowania oraz odznak i oznak wojskowych przez żołnierzy niebędących żołnierzami zawodowymi.
 § 2. 1. Żołnierz niebędący żołnierzem zawodowym, zwany dalej „żołnierzem”, składa pisemny wniosek o udzielenie zezwolenia na noszenie umundurowania oraz odznak i oznak wojskowych do:
 1) Szefa Centralnego Wojskowego Centrum Rekrutacji za pośrednictwem szefa wojskowego centrum rekrutacji właściwego ze względu na miejsce zamieszkania żołnierza – w przypadku żołnierza pełniącego służbę w rezerwie;
 2) dowódcy (szefa, komendanta) jednostki wojskowej, w której żołnierz pełni służbę – w przypadku żołnierza pełniącego czynną służbę wojskową.

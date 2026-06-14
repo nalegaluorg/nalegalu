@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 czerwca 2003 r. o rencie socjalnej*
 
-Łącznie: **778** orzeczeń
-(pominięto 561 orzeczeń sądów rejonowych)
+Łącznie: **779** orzeczeń
+(pominięto 562 orzeczeń sądów rejonowych)
 
 ## art. 1 (5)
 
@@ -32,7 +32,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 czerwca 2003 r. o rencie socjalnej*
 - 2023-09-08 | SO | [VIII U 2486/22](https://www.saos.org.pl/judgments/513770) | Uzasadnienie
 - 2016-04-11 | SO | [VIII U 3441/14](https://www.saos.org.pl/judgments/216445) | Zarządzenie
 
-## art. 4 (585)
+## art. 4 (586)
 
 - 2013-06-25 | TK | [P 11/12](https://www.saos.org.pl/judgments/111612) | Wyrok ★
 - 2010-06-08 | TK | [SK 37/09](https://www.saos.org.pl/judgments/109759) | Wyrok ★
@@ -381,6 +381,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 czerwca 2003 r. o rencie socjalnej*
 - 2025-07-07 | SO | [III AUa 701/25](https://www.saos.org.pl/judgments/543346) | Uzasadnienie
 - 2022-09-20 | SO | [III AUa 103/22](https://www.saos.org.pl/judgments/520548) | Uzasadnienie
 - 2021-11-29 | SO | [III AUa 1624/21](https://www.saos.org.pl/judgments/488757) | Uzasadnienie
+- 2026-04-09 | SO | [VII U 1602/23](https://www.saos.org.pl/judgments/545237) | Wyrok
 - 2026-03-11 | SO | [VII U 1624/23](https://www.saos.org.pl/judgments/544723) | Wyrok
 - 2025-10-01 | SO | [VII U 364/23](https://www.saos.org.pl/judgments/536141) | Wyrok
 - 2025-09-19 | SO | [VII U 1154/24](https://www.saos.org.pl/judgments/535971) | Wyrok
@@ -1038,7 +1039,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 czerwca 2003 r. o rencie socjalnej*
 - 2013-10-03 | SO | [III AUa 54/13](https://www.saos.org.pl/judgments/40851) | Wyrok
 - 2018-11-05 | SO | [VIII U 1121/18](https://www.saos.org.pl/judgments/367800) | Zarządzenie
 
-## art. 15 (340)
+## art. 15 (341)
 
 - 2013-06-25 | TK | [P 11/12](https://www.saos.org.pl/judgments/111612) | Wyrok ★
 - 2011-07-06 | SN | [II UZP 5/11](https://www.saos.org.pl/judgments/95384) | Uchwała ★
@@ -1242,6 +1243,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 czerwca 2003 r. o rencie socjalnej*
 - 2015-04-02 | SO | [III AUz 12/15](https://www.saos.org.pl/judgments/199114) | Postanowienie
 - 2025-07-07 | SO | [III AUa 701/25](https://www.saos.org.pl/judgments/543346) | Uzasadnienie
 - 2022-09-20 | SO | [III AUa 103/22](https://www.saos.org.pl/judgments/520548) | Uzasadnienie
+- 2026-04-09 | SO | [VII U 1602/23](https://www.saos.org.pl/judgments/545237) | Wyrok
 - 2026-03-11 | SO | [VII U 1624/23](https://www.saos.org.pl/judgments/544723) | Wyrok
 - 2025-12-29 | SO | [VII U 1302/24](https://www.saos.org.pl/judgments/541368) | Wyrok
 - 2025-10-01 | SO | [VII U 364/23](https://www.saos.org.pl/judgments/536141) | Wyrok

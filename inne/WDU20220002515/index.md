@@ -1,0 +1,131 @@
+---
+title: Ustawa z dnia 27 października 2022 r. o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
+address: WDU20220002515
+eli: DU/2022/2515
+publisher: DU
+year: 2022
+pos: 2515
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
+
+*USTAWA z dnia 27 października 2022 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2515 |
+| ISAP | WDU20220002515 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2022-10-27 |
+| Data wydania | 2022-12-07 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002515) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2515/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2022 r. poz. 457, 1079, 1250, 1604 i 2185) wprowadza się następujące zmiany:
+
+- **1)** w art. 23:
+    - **a)** w ust. 2b po wyrazach „pozwolenia na budowę” kropkę zastępuje się przecinkiem i dodaje się wyrazy „dla których pozwolenie, o którym mowa w ust. 1, wydaje właściwy terytorialnie dyrektor urzędu morskiego.”,
+    - **b)** w ust. 5 po wyrazach „wynikające z przepisów odrębnych” dodaje się wyrazy „lub szczegółowych kryteriów oceny wniosków, za które wnioskodawca uzyskał punkty w postępowaniu rozstrzygającym, o którym mowa w art. 27d ust. 1”,
+    - **c)** w ust. 5a: – pkt 1 otrzymuje brzmienie: „1) liczba i wymiary obiektów budowlanych lub tymczasowych obiektów budowlanych, w tym morskich turbin wiatrowych, stacji elektroenergetycznych oraz zlokalizowanych na morzu stacji serwisowych lub mieszkalnych;”, – pkt 11 otrzymuje brzmienie: „11) technologia wyprowadzenia mocy i parametry techniczne wewnętrznych sieci elektroenergetycznych morskiej farmy wiatrowej;”,
+    - **d)** po ust. 6e dodaje się ust. 6ea w brzmieniu: „6ea. Minister właściwy do spraw gospodarki morskiej lub właściwy terytorialnie dyrektor urzędu morskiego, w zakresie swojej właściwości, może nakazać, w drodze decyzji, podmiotowi, który wzniósł lub wykorzystywał sztuczne wyspy, konstrukcje i urządzenia bez uzyskania pozwolenia, o którym mowa w ust. 1, całkowite lub częściowe usunięcie na koszt tego podmiotu sztucznych wysp, konstrukcji, urządzeń i elementów infrastruktury oraz spowodowanych szkód w środowisku, jeżeli ich usunięcie nie spowoduje wystąpienia zagrożenia, o którym mowa w ust. 3, określając warunki i termin wykonania tych czynności.”,
+    - **e)** w ust. 6f po wyrazach „o której mowa w ust. 6e” dodaje się wyrazy „lub 6ea”,
+    - **f)** w ust. 8 dodaje się zdanie drugie w brzmieniu: „Postępowanie o wydanie pozwolenia może także zostać zawieszone w przypadku podjęcia przez ministra właściwego do spraw gospodarki morskiej decyzji o przystąpieniu do zmiany planu, o której mowa w art. 37i ust. 4, do dnia przyjęcia tej zmiany, nie dłużej jednak niż na okres 3 lat.”;
+
+- **2)** w art. 26 po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Właściwy terytorialnie dyrektor urzędu morskiego może nakazać, w drodze decyzji, podmiotowi, który układał lub utrzymywał kable lub rurociągi bez uzyskania pozwolenia, całkowite lub częściowe usunięcie na koszt tego podmiotu kabli, rurociągów i elementów infrastruktury oraz spowodowanych szkód w środowisku, jeżeli ich usunięcie nie spowoduje wystąpienia zagrożenia, o którym mowa w art. 23 ust. 3, określając warunki i termin wykonania tych czynności. Przepis art. 23 ust. 6f stosuje się odpowiednio.”;
+- **3)** w art. 27 dodaje się ust. 3 w brzmieniu: „3. Minister właściwy do spraw gospodarki morskiej może nakazać, w drodze decyzji, podmiotowi, który układał lub utrzymywał kable lub rurociągi bez uzyskania uzgodnienia, całkowite lub częściowe usunięcie na koszt tego podmiotu kabli, rurociągów i elementów infrastruktury oraz spowodowanych szkód w środowisku, jeżeli ich usunięcie nie spowoduje wystąpienia zagrożenia, o którym mowa w art. 23 ust. 3, określając warunki i termin wykonania tych czynności. Przepis art. 23 ust. 6f stosuje się odpowiednio.”;
+- **4)** w art. 27a:
+    - **a)** w ust. 1: – w pkt 1 po wyrazach „naniesionych na mapę morską,” dodaje się wyrazy „a w przypadku przedsięwzięć niewymagających pozwolenia na budowę zlokalizowanych na morskich wodach wewnętrznych współrzędnych naniesionych na mapę morską, mapę zasadniczą lub mapę ewidencyjną,”, – w pkt 3 po wyrazach „określa art. 23 ust. 5a;” dodaje się wyrazy „wartość planowanego przedsięwzięcia podaje się dla przedsięwzięć planowanych, realizowanych lub eksploatowanych w wyłącznej strefie ekonomicznej;”,
+    - **b)** w ust. 2 w pkt 1 średnik zastępuje się przecinkiem i dodaje się wyrazy „jeżeli wnioskodawca jest podmiotem innym niż osoba fizyczna nieprowadząca działalności gospodarczej;”,
+    - **c)** po ust. 2b dodaje się ust. 2c i 2d w brzmieniu: „2c. Dokumentów, o których mowa w ust. 2 pkt 2 i 4–7, nie dołącza się do wniosku, o którym mowa w ust. 1, jeżeli wniosek dotyczy przedsięwzięcia niewymagającego pozwolenia na budowę.
+
+2d. Zmianę wniosku, o którym mowa w ust. 1, w zakresie rodzaju planowanego przedsięwzięcia, proponowanej lokalizacji planowanego przedsięwzięcia wykraczającej poza proponowaną lokalizację wskazaną w tym wniosku, charakterystycznych parametrów technicznych planowanego przedsięwzięcia wykraczających poza wartości graniczne wskazane w tym wniosku lub wartości planowanego przedsięwzięcia traktuje się jak wniesienie nowego wniosku i cofnięcie poprzedniego wniosku.”,
+
+- **d)** w ust. 3 wyrazy „1–2b” zastępuje się wyrazami „1–2d”,
+- **e)** ust. 4 otrzymuje brzmienie: „4. W postępowaniu, o którym mowa w art. 23 ust. 1, art. 26 ust. 1 lub art. 27 ust. 1, dotyczącym przedsięwzięć wymagających pozwolenia na budowę, a także w postępowaniu rozstrzygającym, o którym mowa w art. 27d ust. 1, wnioski i pisma składa się i doręcza za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344) przez elektroniczną skrzynkę podawczą organu administracji publicznej utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070 oraz z 2022 r. poz. 1087) albo na adres do doręczeń elektronicznych w rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2022 r. poz. 569 i 1002).”,
+- **f)** dodaje się ust. 5 w brzmieniu: „5. Wniosek złożony w inny sposób niż określony w ust. 4 pozostawia się bez rozpoznania.”;
+- **5)** w art. 27b w ust. 6 w zdaniu drugim kropkę zastępuje się średnikiem i dodaje się wyrazy „niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń.”;
+- **6)** w art. 27d po ust. 2 dodaje się ust. 2a‒2e w brzmieniu: „2a. Informacje i dokumenty, o których mowa w ust. 2 pkt 2, w postępowaniu rozstrzygającym dotyczącym morskich farm wiatrowych lub zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych można złożyć za pomocą usługi przetwarzania w chmurze, o której mowa w załączniku nr 2 do ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2022 r. poz. 1863), zwanej dalej „usługą przetwarzania w chmurze”.
+
+2b. W przypadku złożenia informacji i dokumentów w sposób, o którym mowa w ust. 2a, wnioskodawca przesyła link do usługi przetwarzania w chmurze w piśmie złożonym w sposób, o którym mowa w art. 27a ust. 4.
+
+2c. W piśmie, o którym mowa w ust. 2b, wnioskodawca podaje nazwy informacji i dokumentów, które zostały złożone za pomocą usługi przetwarzania w chmurze.
+
+2d. Informacje i dokumenty składane w sposób, o którym mowa w ust. 2a, wnioskodawca pakuje w jednym pliku i podpisuje podpisem zaufanym, podpisem osobistym albo kwalifikowanym podpisem elektronicznym z chwilą nie późniejszą niż chwila wysłania pisma, o którym mowa w ust. 2b.
+
+2e. Wnioskodawca zapewnia, aby informacje i dokumenty złożone w sposób, o którym mowa w ust. 2a, były dostępne do pobrania przez ministra właściwego do spraw gospodarki morskiej przez co najmniej 30 dni od dnia przesłania pisma, o którym mowa w ust. 2b.”;
+
+- **7)** w art. 27e w ust. 1 wyrazy „art. 23 ust. 2 i 3” zastępuje się wyrazami „art. 23 ust. 2, 2a, 3 i 4”;
+- **8)** w art. 27i dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–5 w brzmieniu: „2. Jeżeli więcej niż jeden podmiot zostanie wyłoniony zgodnie z ust. 1, podmiotem wyłonionym w postępowaniu rozstrzygającym jest wnioskodawca, który za większą liczbę kryteriów oceny wniosków, o których mowa w art. 27g ust. 1, uzyskał większą liczbę punktów spośród podmiotów wyłonionych zgodnie z ust. 1.
+
+3. Jeżeli więcej niż jeden podmiot zostanie wyłoniony zgodnie z ust. 2, podmiotem wyłonionym w postępowaniu rozstrzygającym jest wnioskodawca, który uzyskał większą liczbę punktów za najistotniejsze kryterium oceny wniosków, o którym mowa w art. 27c ust. 2 pkt 7, spośród podmiotów wyłonionych zgodnie z ust. 2.
+
+4. Jeżeli więcej niż jeden podmiot zostanie wyłoniony zgodnie z ust. 3, podmiotem wyłonionym w postępowaniu rozstrzygającym jest – w przypadku gdy inwestycja:
+
+- **1)** dotyczy morskiej farmy wiatrowej – wnioskodawca, z którego wniosku wynika niższy stosunek wartości planowanego przedsięwzięcia, o której mowa w art. 27a ust. 1 pkt 3, do maksymalnej mocy zainstalowanej morskiej farmy wiatrowej, o której mowa w art. 23 ust. 5a pkt 3;
+- **2)** nie dotyczy morskiej farmy wiatrowej – wnioskodawca, który wskazał niższą wartość planowanego przedsięwzięcia, o której mowa w art. 27a ust. 1 pkt 3.
+
+5. Jeżeli wnioskodawca wskazał wartość planowanego przedsięwzięcia w walucie obcej, to w przypadku, o którym mowa w ust. 4, wartość planowanego przedsięwzięcia przelicza się na złote przy zastosowaniu średniego kursu tej waluty obcej ogłaszanego przez Narodowy Bank Polski w dniu złożenia wniosku.”;
+
+- **9)** art. 27j otrzymuje brzmienie: „Art. 27j. Wyniki postępowania rozstrzygającego ogłasza się w siedzibie urzędu obsługującego ministra właściwego do spraw gospodarki morskiej oraz w Biuletynie Informacji Publicznej na stronie podmiotowej tego urzędu ze wskazaniem wnioskodawców, którzy osiągnęli minimum kwalifikacyjne, uszeregowanych w kolejności według malejącej liczby uzyskanych punktów. Jeżeli podmiot został wyłoniony zgodnie z art. 27i ust. 2–4, wnioskodawców wskazuje się w kolejności wynikającej z tych przepisów ze wskazaniem podmiotu wyłonionego w postępowaniu rozstrzygającym.”;
+- **10)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Badania naukowe na polskich morskich wodach wewnętrznych i morzu terytorialnym mogą być prowadzone przez obce państwa oraz obce osoby prawne i fizyczne, a także przez właściwe organizacje międzynarodowe, po uzyskaniu pozwolenia ministra właściwego do spraw gospodarki morskiej, wydanego po uzgodnieniu z ministrami właściwymi do spraw: klimatu, środowiska, gospodarki, kultury i ochrony dziedzictwa narodowego, Ministrem Obrony Narodowej oraz Szefem Agencji Bezpieczeństwa Wewnętrznego, z zastrzeżeniem art. 32a.
+
+2. Minister właściwy do spraw gospodarki morskiej, po uzgodnieniu z ministrami właściwymi do spraw: klimatu, środowiska, gospodarki, kultury i ochrony dziedzictwa narodowego, Ministrem Obrony Narodowej oraz Szefem Agencji Bezpieczeństwa Wewnętrznego, odmawia wydania pozwolenia, jeżeli badania naukowe mogą zagrażać zanieczyszczeniem środowiska, zniszczeniem zabytków, bezpieczeństwu żeglugi lub obronności i bezpieczeństwu państwa. W tym samym trybie minister właściwy do spraw gospodarki morskiej może odmówić wydania pozwolenia na prowadzenie takich badań, jeżeli badania te:
+
+- **1)** dotyczą bezpośrednio zasobów naturalnych;
+- **2)** wymagają drążenia dna, użycia środków wybuchowych lub wprowadzenia do środowiska morskiego substancji szkodliwych;
+- **3)** wymagają budowy lub użytkowania sztucznych wysp, konstrukcji i urządzeń.
+
+3. Organy, o których mowa w ust. 1, uzgadniają pozwolenie w terminie nie dłuższym niż 30 dni od dnia otrzymania projektu tego pozwolenia; niezajęcie stanowiska w tym terminie traktuje się jako uzgodnienie pozwolenia.
+
+4. Minister właściwy do spraw gospodarki morskiej, wydając pozwolenie, o którym mowa w ust. 1, albo odmawiając jego wydania, może odstąpić od uzasadnienia faktycznego, jeżeli wymaga tego obronność, bezpieczeństwo państwa, bezpieczeństwo publiczne lub porządek publiczny.”;
+
+- **11)** w art. 29:
+    - **a)** w ust. 2 we wprowadzeniu do wyliczenia zdanie pierwsze otrzymuje brzmienie: „Minister właściwy do spraw gospodarki morskiej, po uzgodnieniu z ministrami właściwymi do spraw: klimatu, środowiska, gospodarki, kultury i ochrony dziedzictwa narodowego, Ministrem Obrony Narodowej oraz Szefem Agencji Bezpieczeństwa Wewnętrznego, odmawia wydania pozwolenia, jeżeli badania naukowe mogą zagrażać zanieczyszczeniem środowiska, zniszczeniem zabytków, bezpieczeństwu żeglugi lub obronności i bezpieczeństwu państwa.”,
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Organy, o których mowa w ust. 2, uzgadniają pozwolenie w terminie nie dłuższym niż 30 dni od dnia otrzymania projektu tego pozwolenia; niezajęcie stanowiska w tym terminie traktuje się jako uzgodnienie pozwolenia.
+
+4. Minister właściwy do spraw gospodarki morskiej, wydając pozwolenie, o którym mowa w ust. 1, albo odmawiając jego wydania, może odstąpić od uzasadnienia faktycznego, jeżeli wymaga tego obronność, bezpieczeństwo państwa, bezpieczeństwo publiczne lub porządek publiczny.”;
+
+- **12)** w art. 31:
+    - **a)** w ust. 1 wyrazy „Z zastrzeżeniem ust. 2,” zastępuje się wyrazami „Z zastrzeżeniem ust. 2–4”,
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Do badań archeologicznych stosuje się przepisy ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840).
+
+4. Do badań związanych z bronią chemiczną, toksycznymi związkami chemicznymi i ich prekursorami stosuje się przepisy ustawy z dnia 22 czerwca 2001 r. o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów (Dz. U. z 2018 r. poz. 359).”;
+
+- **13)** art. 32 otrzymuje brzmienie: „Art. 32. 1. Minister właściwy do spraw gospodarki morskiej wydaje decyzje o wstrzymaniu badań na polskich obszarach morskich, o których mowa w art. 28 ust. 1 albo art. 29 ust. 1, lub o cofnięciu pozwolenia wydanego na podstawie art. 28 ust. 1 albo art. 29 ust. 1, jeżeli badania są prowadzone niezgodnie z przepisami ustawy, przepisami szczególnymi lub udzielonym pozwoleniem lub powodują ujemne skutki dla środowiska lub zabytków lub zagrożenie dla bezpieczeństwa żeglugi lub obronności i bezpieczeństwa państwa.
+
+2. Minister właściwy do spraw gospodarki morskiej, wydając decyzje, o których mowa w ust. 1, może odstąpić od uzasadnienia faktycznego, jeżeli wymaga tego obronność, bezpieczeństwo państwa, bezpieczeństwo publiczne lub porządek publiczny.”;
+
+- **14)** w art. 32a:
+    - **a)** w ust. 1 po wyrazach „minister właściwy do spraw rybołówstwa” dodaje się wyrazy „po uzgodnieniu z ministrami właściwymi do spraw: klimatu, środowiska, gospodarki, gospodarki morskiej, kultury i ochrony dziedzictwa narodowego, Ministrem Obrony Narodowej oraz Szefem Agencji Bezpieczeństwa Wewnętrznego”,
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Organy, o których mowa w ust. 1, uzgadniają pozwolenie w terminie nie dłuższym niż 30 dni od dnia otrzymania projektu tego pozwolenia; niezajęcie stanowiska w tym terminie traktuje się jako uzgodnienie pozwolenia.
+
+1b. Minister właściwy do spraw rybołówstwa, wydając pozwolenie, o którym mowa w ust. 1, może odstąpić od uzasadnienia faktycznego, jeżeli wymaga tego obronność, bezpieczeństwo państwa, bezpieczeństwo publiczne lub porządek publiczny.”;
+
+- **15)** w art. 36 dodaje się ust. 6 w brzmieniu: „6. Organy, o których mowa w ust. 5, wydają opinię lub uzgadniają projekt granicy pasa technicznego lub projekt granicy pasa ochronnego w terminie 6 tygodni od dnia otrzymania projektu; niezajęcie stanowiska w tym terminie traktuje się jako pozytywne zaopiniowanie lub uzgodnienie projektu.”;
+- **16)** w art. 37e w ust. 1 w pkt 8 w lit. c wyraz „łączności” zastępuje się wyrazem „informatyzacji”;
+- **17)** w art. 67:
+    - **a)** w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) umowa między Rzecząpospolitą Polską a Królestwem Danii w sprawie rozgraniczenia obszarów morskich na Morzu Bałtyckim, podpisana w Brukseli dnia 19 listopada 2018 r. (Dz. U. z 2019 r. poz. 1240).”,
+    - **b)** uchyla się ust. 2.
+
+**Art. 2.** W sprawach, o których mowa w dziale II w rozdziale 4 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, z wyjątkiem przepisu art. 27a ust. 5 ustawy zmienianej w art. 1, którego nie stosuje się.
+
+**Art. 3.**
+
+1. W sprawach o uzyskanie pozwolenia na prowadzenie badań naukowych, o których mowa w art. 28, art. 29 ust. 1 i art. 32a ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 28, art. 29 ust. 2–4 oraz art. 32a ust. 1 i 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jeżeli dzień wejścia w życie niniejszej ustawy przypada w terminie do 60 dni po złożeniu wniosku. Jeżeli dzień wejścia w życie niniejszej ustawy przypada na 60 dni po złożeniu wniosku albo później, stosuje się przepisy dotychczasowe.
+
+2. W sprawach, o których mowa w ust. 1, do których stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw gospodarki morskiej niezwłocznie po wejściu w życie niniejszej ustawy przesyła projekt pozwolenia na badania naukowe do uzgodnienia ministrowi właściwemu do spraw gospodarki, ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego, Ministrowi Obrony Narodowej oraz Szefowi Agencji Bezpieczeństwa Wewnętrznego, a minister właściwy do spraw rybołówstwa – ministrom właściwym do spraw: klimatu, środowiska, gospodarki, gospodarki morskiej, kultury i ochrony dziedzictwa narodowego, Ministrowi Obrony Narodowej oraz Szefowi Agencji Bezpieczeństwa Wewnętrznego.
+
+3. Organy, o których mowa w ust. 2, uzgadniają pozwolenie w terminie nie dłuższym niż 14 dni od dnia otrzymania projektu tego pozwolenia; niezajęcie stanowiska w tym terminie traktuje się jako uzgodnienie pozwolenia.
+
+4. W sprawach dotyczących wstrzymania badań na polskich obszarach morskich, o których mowa w art. 28, art. 29 ust. 1 albo art. 32a ust. 1 ustawy zmienianej w art. 1, oraz cofnięcia pozwolenia wydanego na podstawie art. 28, art. 29 ust. 1 albo art. 32a ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 32 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 4.** Do uzgodnienia projektu planu, o którym mowa w art. 37e ust. 1 pkt 8 ustawy zmienianej w art. 1, do którego przystąpiono przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

@@ -8,7 +8,7 @@ pos: 955
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o finansowym wsparciu rodzin w nabywaniu własnego mieszkania

@@ -8,7 +8,7 @@ pos: 1927
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw
@@ -28,6 +28,35 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001927) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1927/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2021 r. poz. 1672 i 1901) wprowadza się następujące zmiany:
+
+- **1)** w art. 7 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) rozwojowej – dla gmin, powiatów i województw.”;
+- **2)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Kwotę rocznego dochodu gminy z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych ustala się, mnożąc ogólną kwotę wpływów z tego podatku przez 0,3934, z zastrzeżeniem art. 89, i wskaźnik równy udziałowi należnego podatku dochodowego od osób fizycznych od podatników zamieszkałych na obszarze gminy, w ogólnej kwocie należnego podatku, ustalony w sposób określony w ust. 4.
+
+2. Kwotę rocznego dochodu powiatu z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych ustala się, mnożąc ogólną kwotę wpływów z tego podatku przez 0,1025 i wskaźnik równy udziałowi należnego podatku dochodowego od osób fizycznych od podatników zamieszkałych na obszarze powiatu, w ogólnej kwocie należnego podatku, ustalony w sposób określony w ust. 4.
+
+3. Kwotę rocznego dochodu województwa z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych ustala się, mnożąc ogólną kwotę wpływów z tego podatku przez 0,0160 i wskaźnik równy udziałowi należnego podatku dochodowego od osób fizycznych od podatników zamieszkałych na obszarze województwa, w ogólnej kwocie należnego podatku, ustalony w sposób określony w ust. 4.
+
+4. Wskaźnik udziału należnego podatku dochodowego od osób fizycznych od podatników zamieszkałych odpowiednio na obszarze gminy, powiatu i województwa w ogólnej kwocie należnego podatku ustala się jako średnią ważoną arytmetyczną z 3 lat obliczeniowych obejmujących: rok poprzedzający rok bazowy, rok poprzedzający o 2 lata rok bazowy i rok poprzedzający o 3 lata rok bazowy, odpowiednio z wagami 0,5, 0,33 i 0,17. Wskaźnik ustala się na podstawie danych zawartych w złożonych za dany rok obliczeniowy zeznaniach podatkowych o wysokości osiągniętego dochodu oraz rocznym obliczeniu podatku dokonanym przez płatników, według stanu na dzień 30 czerwca roku następującego po roku obliczeniowym.
+
+5. W przypadku gdy dane, o których mowa w ust. 4, nie są dostępne, wskaźnik udziału należnego podatku dochodowego od osób fizycznych od podatników zamieszkałych odpowiednio na obszarze gminy, powiatu i województwa w ogólnej kwocie należnego podatku ustala się na podstawie danych z ostatnich 3 lat obliczeniowych, za które dane te są dostępne, według stanu na dzień 30 czerwca roku następującego po roku obliczeniowym.
+
+6. Do wyliczenia kwot rocznego dochodu jednostek samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych przyjmuje się prognozowaną ogólną kwotę wpływów z podatku dochodowego od osób fizycznych na rok budżetowy, według stanu na dzień 10 sierpnia roku bazowego.
+
+7. Wyliczenia kwot rocznego dochodu jednostek samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych dokonuje minister właściwy do spraw finansów publicznych.”;
+
+- **3)** po art. 9 dodaje się art. 9a–9c w brzmieniu: „Art. 9a. 1. Kwotę rocznego dochodu gminy z tytułu udziału we wpływach z podatku dochodowego od osób prawnych ustala się, mnożąc ogólną kwotę wpływów z tego podatku przez 0,0671 i wskaźnik równy udziałowi należnego podatku dochodowego od osób prawnych od podatników posiadających siedzibę na obszarze gminy, w ogólnej kwocie należnego podatku, ustalony w sposób określony w ust. 4.
+
+2. Kwotę rocznego dochodu powiatu z tytułu udziału we wpływach z podatku dochodowego od osób prawnych ustala się, mnożąc ogólną kwotę wpływów z tego podatku przez 0,0140 i wskaźnik równy udziałowi należnego podatku dochodowego od osób prawnych od podatników posiadających siedzibę na obszarze powiatu, w ogólnej kwocie należnego podatku, ustalony w sposób określony w ust. 4.
+
+3. Kwotę rocznego dochodu województwa z tytułu udziału we wpływach z podatku dochodowego od osób prawnych ustala się, mnożąc ogólną kwotę wpływów z tego podatku przez 0,1475 i wskaźnik równy udziałowi należnego podatku dochodowego od osób prawnych od podatników posiadających siedzibę na obszarze województwa, w ogólnej kwocie należnego podatku, ustalony w sposób określony w ust. 4.
+
+4. Wskaźnik udziału należnego podatku dochodowego od osób prawnych od podatników posiadających siedzibę odpowiednio na obszarze gminy, powiatu i województwa w ogólnej kwocie należnego podatku ustala się jako średnią ważoną arytmetyczną z 3 lat obliczeniowych obejmujących: rok poprzedzający rok bazowy, rok poprzedzający o 2 lata rok bazowy i rok poprzedzający o 3 lata rok bazowy, odpowiednio z wagami 0,5, 0,33 i 0,17. Wskaźnik ustala się na podstawie danych zawartych w złożonych za dany rok obliczeniowy zeznaniach podatkowych o wysokości osiągniętego dochodu i należnego podatku dochodowego od osób prawnych, według stanu na dzień 30 czerwca roku następującego po roku obliczeniowym.
+
+5. W przypadku gdy dane, o których mowa w ust. 4, nie są dostępne, wskaźnik udziału należnego podatku dochodowego od osób prawnych od podatników posiadających siedzibę odpowiednio na obszarze gminy, powiatu i województwa w ogólnej kwocie należnego podatku ustala się na podstawie danych z ostatnich 3 lat obliczeniowych, za które dane te są dostępne, według stanu na dzień 30 czerwca roku następującego po roku obliczeniowym.
+
+6. Do wyliczenia kwot rocznego dochodu jednostek samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób prawnych przyjmuje się prognozowaną ogólną kwotę wpływów z podatku dochodowego od osób prawnych na rok budżetowy, według stanu na dzień 10 sierpnia roku bazowego.
+
+7. Wyliczenia kwot rocznego dochodu jednostek samorządu terytorialnego z tytułu udziału we wpływach z podatku dochodowego od osób prawnych dokonuje minister właściwy do spraw finansów publicznych.
 
 **Art. 9b.**
 
@@ -282,15 +311,51 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427, z późn. zm. ) w art. 3a:
 
+- **1)** w § 1:
+    - **a)** we wprowadzeniu do wyliczenia wyrazy „a także opłaty, o której mowa w art. 12a ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2019 r. poz. 2365 oraz z 2020 r. poz. 322 i 1492)” zastępuje się wyrazami „opłaty, o której mowa w art. 12a ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2021 r. poz. 183, 694 i 1292), a także uznanego przez jednostkę samorządu terytorialnego zwrotu do budżetu państwa całej nienależnej kwoty części oświatowej subwencji ogólnej, o którym mowa w art. 37a ust. 2 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2021 r. poz. 1672, 1901 i 1927)”,
+    - **b)** w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „14) z oświadczenia, o którym mowa w art. 37a ust. 2 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.”;
+
+- **2)** w § 2 w pkt 1 wyrazy „lub w zbiorczej deklaracji miesięcznej, o której mowa w art. 13 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi” zastępuje się wyrazami „w zbiorczej deklaracji miesięcznej, o której mowa w art. 13 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, lub w oświadczeniu, o którym mowa w art. 37a ust. 2 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego”.
+
 **Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800) art. 28 otrzymuje brzmienie: „Art. 28. 1. Podatnicy posiadający zakłady (oddziały) położone na obszarze jednostki samorządu terytorialnego innej niż właściwa ze względu na ich siedzibę są obowiązani składać do urzędu skarbowego, w terminie do dnia 31 marca każdego roku, informację, według ustalonego wzoru, zawierającą wykaz zakładów (oddziałów) oraz liczbę osób zatrudnionych na podstawie umowy o pracę, świadczących pracę w poszczególnych zakładach (oddziałach) ze wskazaniem jednostek samorządu terytorialnego, na których obszarze są położone, według stanu na dzień 31 grudnia roku poprzedniego. 2. Przepis ust. 1 stosuje się odpowiednio do podatkowej grupy kapitałowej reprezentowanej przez spółkę dominującą oraz podatnika opodatkowanego ryczałtem, o którym mowa w rozdziale 6b. 3. (uchylony)”.
 
 **Art. 4.** W ustawie z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2019 r. poz. 2137) wprowadza się następujące zmiany:
 
+- **1)** w art. 25a:
+    - **a)** w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) współpraca z ministrem właściwym do spraw finansów publicznych w obszarze finansów samorządu terytorialnego.”,
+    - **b)** dodaje się ust. 5 w brzmieniu: „5. Z inicjatywy ministra właściwego do spraw finansów publicznych współpraca, o której mowa w ust. 1 pkt 8, może być prowadzona w ramach zespołów problemowych.”;
+
+- **2)** po art. 25a dodaje się art. 25aa w brzmieniu: „Art. 25aa. 1. Krajowa Rada Regionalnych Izb Obrachunkowych w celu zapewnienia jednolitości udzielanych przez izby wyjaśnień w sprawach dotyczących stosowania przepisów o finansach publicznych może wydawać, w uzgodnieniu z ministrem właściwym do spraw finansów publicznych, wytyczne, uwzględniając w szczególności orzecznictwo sądów, Trybunału Konstytucyjnego oraz Trybunału Sprawiedliwości Unii Europejskiej.
+
+2. Wytyczne, o których mowa w ust. 1, zawierają co najmniej opis zagadnienia oraz stanowisko Krajowej Rady Regionalnych Izb Obrachunkowych.
+
+3. Krajowa Rada Regionalnych Izb Obrachunkowych w uzgodnieniu z ministrem właściwym do spraw finansów publicznych może zmienić lub uchylić wytyczne, o których mowa w ust. 1, jeżeli stwierdzi ich nieprawidłowość, uwzględniając w szczególności orzecznictwo sądów, Trybunału Konstytucyjnego oraz Trybunału Sprawiedliwości Unii Europejskiej.
+
+4. Wytyczne, o których mowa w ust. 1, oraz informacje o ich uchyleniu są publikowane, bez zbędnej zwłoki, w Biuletynie Informacji Publicznej na stronie podmiotowej Krajowej Rady Regionalnych Izb Obrachunkowych.”.
+
 **Art. 5.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, 1236, 1535 i 1773) wprowadza się następujące zmiany:
+
+- **1)** w art. 38b w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach bieżących, ustalany jako średnia geometryczna za ostatnie osiem lat, liczonych do roku poprzedzającego o dwa lata rok budżetowy.”;
+- **2)** w art. 243 w ust. 3a wyrazy „co najmniej 60%” zastępuje się wyrazami „co najmniej 50%”.
 
 **Art. 6.** W ustawie z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim (Dz. U. z 2021 r. poz. 1277) wprowadza się następujące zmiany:
 
+- **1)** w art. 52:
+    - **a)** ust. 3 i 4 otrzymują brzmienie: „3. Kwotę rocznego dochodu związku metropolitalnego z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych ustala się, mnożąc ogólną kwotę wpływów z tego podatku przez 0,05 i wskaźnik równy udziałowi należnego podatku dochodowego od osób fizycznych od podatników zamieszkałych na obszarze związku metropolitalnego w ogólnej kwocie należnego podatku, ustalony w sposób określony w ust. 4.
+
+4. Wskaźnik, o którym mowa w ust. 3, ustala się jako średnią ważoną arytmetyczną z 3 lat obliczeniowych obejmujących lata poprzedzające rok budżetowy o 2 lata, 3 lata i 4 lata, odpowiednio z wagami 0,5, 0,33 i 0,17. Wskaźnik ustala się na podstawie danych zawartych w złożonych za dany rok obliczeniowy zeznaniach podatkowych o wysokości osiągniętego dochodu oraz rocznym obliczeniu podatku dokonanym przez płatników, według stanu na dzień 30 czerwca roku następującego po roku obliczeniowym.”,
+
+- **b)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. W przypadku gdy dane, o których mowa w ust. 4, nie są dostępne, wskaźnik, o którym mowa w ust. 3, ustala się na podstawie danych z ostatnich 3 lat obliczeniowych, za które dane te są dostępne, według stanu na dzień 30 czerwca roku następującego po roku obliczeniowym.
+
+4b. Do wyliczenia kwoty rocznego dochodu związku metropolitalnego z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych przyjmuje się prognozowaną ogólną kwotę wpływów z podatku dochodowego od osób fizycznych na rok budżetowy według stanu na dzień 10 sierpnia roku poprzedzającego rok budżetowy.”, o dochodach jednostek samorządu terytorialnego (Dz. U. z 2021 r. poz. 1672, 1901 i 1927) stosuje się odpowiednio.”;
+
+- **c)** ust. 5 otrzymuje brzmienie: „5. Przepisy art. 9c i art. 11 ust. 3 ustawy z dnia 13 listopada 2003 r.
+- **2)** w art. 53 ust. 4 otrzymuje brzmienie: „4. Część stałą składki rocznej ustala się, mnożąc 0,005 przez dochód gminy z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych, o którym mowa w art. 9 ust. 6 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustalony na rok budżetowy.”.
+
 **Art. 7.** W ustawie z dnia 14 grudnia 2018 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2500) w art. 9:
+
+- **1)** ust. 1 otrzymuje brzmienie: „1. Ustalana na lata 2022–2025 relacja łącznej kwoty przypadających w danym roku budżetowym spłat i wykupów określonych w art. 243 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do planowanych dochodów bieżących budżetu nie może przekroczyć średniej arytmetycznej z obliczonych dla ostatnich trzech albo siedmiu lat relacji dochodów bieżących powiększonych o dochody ze sprzedaży majątku oraz pomniejszonych o wydatki bieżące do dochodów bieżących budżetu. Wyboru długości okresu stosowanego do wyliczenia relacji dokonuje organ wykonawczy jednostki samorządu terytorialnego do dnia 31 grudnia 2021 r. i informuje o wyborze właściwą regionalną izbę obrachunkową oraz organ stanowiący tej jednostki.”;
+- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W latach 2022–2025 regionalna izba obrachunkowa, wydając opinię o możliwości spłaty zobowiązań, ocenia w szczególności wpływ planowanych zobowiązań na realizację zadań publicznych. Zaciągnięcie zobowiązań nie może zagrażać realizacji zadań publicznych przez jednostkę samorządu terytorialnego w roku budżetowym i latach następnych.”.
 
 **Art. 8.**
 
@@ -334,7 +399,13 @@ source: "isap-pdf"
 
 **Art. 10.** Przepisy ustaw zmienianych w art. 1 i art. 6, w brzmieniu nadanym niniejszą ustawą, w zakresie dochodów z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych, części wyrównawczej, równoważącej i regionalnej subwencji ogólnej i wpłat, o których mowa w art. 29, art. 30 i art. 70a ustawy zmienianej w art. 1, stosuje się po raz pierwszy do:
 
+- **1)** opracowania projektu ustawy budżetowej i projektów uchwał budżetowych na rok 2022,
+- **2)** ustawy budżetowej i uchwał budżetowych na rok 2022 – przy czym do wyliczeń na rok 2022 przyjmuje się prognozowane ogólne kwoty wpływów z podatku dochodowego od osób fizycznych oraz z podatku dochodowego od osób prawnych przyjęte do opracowania projektu ustawy budżetowej na rok 2022.
+
 **Art. 11.** Do wyliczenia wskaźników udziału należnego podatku dochodowego od osób fizycznych zamieszkałych odpowiednio na obszarze gminy, powiatu i województwa w ogólnej kwocie należnego podatku, o których mowa w art. 9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przyjmuje się dane zawarte w złożonych zeznaniach podatkowych o wysokości osiągniętego dochodu oraz rocznym obliczeniu podatku dokonanym przez płatników na rok:
+
+- **1)** 2022 – według stanu na dzień 30 czerwca 2021 r., 15 września 2020 r. i 15 września 2019 r.;
+- **2)** 2023 – według stanu na dzień 30 czerwca 2022 r., 30 czerwca 2021 r. i 15 września 2020 r.
 
 **Art. 12.**
 
@@ -352,6 +423,9 @@ source: "isap-pdf"
 
 **Art. 13.** Przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w zakresie dochodów z tytułu udziału we wpływach z podatku dochodowego od osób prawnych, stosuje się po raz pierwszy do:
 
+- **1)** opracowania projektu ustawy budżetowej i projektów uchwał budżetowych na rok 2023;
+- **2)** ustawy budżetowej i uchwał budżetowych na rok 2023.
+
 **Art. 14.** Przepisy art. 9c ustawy zmienianej w art. 1 stosuje się po raz pierwszy do ustalenia dochodów z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych na rok 2024.
 
 **Art. 15.** Do rozliczenia środków stanowiących dochody jednostek samorządu terytorialnego i związku metropolitalnego, o którym mowa w ustawie zmienianej w art. 6, z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych za rok 2021 i lata wcześniejsze stosuje się przepisy ustawy zmienianej w art. 1 i art. 6, w brzmieniu dotychczasowym.
@@ -362,7 +436,13 @@ source: "isap-pdf"
 
 **Art. 18.** Przepisy art. 9b, art. 24a i art. 28a ustawy zmienianej w art. 1 stosuje się po raz pierwszy do:
 
+- **1)** opracowania projektu ustawy budżetowej i projektów uchwał budżetowych na rok 2023;
+- **2)** ustawy budżetowej i uchwał budżetowych na rok 2023.
+
 **Art. 19.** W roku 2022 referencyjna kwota, o której mowa w art. 9b ustawy zmienianej w art. 1:
+
+- **1)** w zakresie rocznego dochodu z tytułu udziału jednostek samorządu terytorialnego we wpływach z podatku dochodowego od osób fizycznych wynosi dla gmin 45 551 mln zł, dla powiatów 12 143 mln zł oraz dla województw 1 836 mln zł;
+- **2)** w zakresie rocznego dochodu z tytułu udziału jednostek samorządu terytorialnego we wpływach z podatku dochodowego od osób prawnych wynosi dla gmin 3 114 mln zł, dla powiatów 622 mln zł oraz dla województw 6 680 mln zł.
 
 **Art. 20.** W roku 2023 kwota części rozwojowej subwencji ogólnej, o której mowa w art. 28a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, wynosi 3 000 mln zł.
 

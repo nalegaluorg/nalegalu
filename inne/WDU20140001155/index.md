@@ -8,10 +8,10 @@ pos: 1155
 act_type: Protokół
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 września 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1155 Protokół nr 13 do konwencji o ochronie praw człowieka i podstawowych wolności dotyczącego zniesienia kary śmierci we wszystkich okolicznościach, sporządzony w Wilnie dnia 3 maja 2002 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001155) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1155/text.pdf) |
 
-Protokół nr 13 do konwencji o ochronie praw człowieka i podstawowych wolności dotyczącego zniesienia kary śmierci we wszystkich okolicznościach, sporządzony w Wilnie dnia 3 maja 2002 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 3 maja 2002 r. w Wilnie został sporządzony Protokół nr 13 do konwencji o ochronie praw człowieka i podstawowych wolności dotyczący zniesienia kary śmierci we wszystkich okolicznościach, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, jest przyjęty, ratyfikowany i potwierdzony, będzie niezmiennie zachowywany.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 3 maja 2002 r. w Wilnie został sporządzony Protokół nr 13 do konwencji o ochronie praw człowieka i podstawowych wolności dotyczący zniesienia kary śmierci we wszystkich okolicznościach, w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, – jest przyjęty, ratyfikowany i potwierdzony, – będzie niezmiennie zachowywany.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 4 kwietnia 2014 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.

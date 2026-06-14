@@ -8,12 +8,10 @@ pos: 502
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 1. Rozporządzenie określa:
-
-*ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH 2 kwietnia 2015 sprawie sposobu dokonywania Na podstawie art. 12 ust. 3 ustawy 12 grudnia 2013 o cudzoziemcach 1650 oraz 2014 463 i 1004) zarządza się, co następuje:*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 502 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 2 kwietnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,54 +25,62 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000502) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/502/text.pdf) |
 
-1) sposób dokonywania lokalu, który cudzoziemiec wskazał jako miejsce swego pobytu, zwanego dalej „lokalem”;
-2) dokumenty upoważniające do dokonania lokalu;
-3) sposób dokumentowania lokalu.
-2. Ilekroć rozporządzeniu jest mowa o:
-1) funkcjonariuszu rozumie się to funkcjonariusza Granicznej;
-2) osobie obecnej podczas sprawdzania rozumie się to cudzoziemca lub osobę trzecią, której posiadaniu znajduje się lokal, albo innego dorosłego domownika.
-3. 1. Funkcjonariusze dokonują na podstawie pisemnych, imiennych upoważnień wydanych właściwego komendanta oddziału Granicznej, komendanta placówki albo upoważnione nich osoby.
-2. Upoważnienie, o którym mowa ust. 1, zawiera:
-1) nazwę organu upoważniającego do dokonania lokalu;
+w sprawie sposobu dokonywania przez funkcjonariuszy Straży Granicznej sprawdzenia lokalu Na podstawie art. 12 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463 i 1004) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) sposób dokonywania przez funkcjonariuszy Straży Granicznej sprawdzenia lokalu, który cudzoziemiec wskazał jako miejsce swego pobytu, zwanego dalej „lokalem”;
+2) dokumenty upoważniające do dokonania sprawdzenia lokalu;
+3) sposób dokumentowania sprawdzenia lokalu.
+§ 2. Ilekroć w rozporządzeniu jest mowa o:
+1) funkcjonariuszu – rozumie się przez to funkcjonariusza Straży Granicznej;
+2) osobie obecnej podczas sprawdzania lokalu – rozumie się przez to cudzoziemca lub osobę trzecią, w której posiadaniu znajduje się lokal, albo innego dorosłego domownika.
+§ 3. 1. Funkcjonariusze dokonują sprawdzenia lokalu na podstawie pisemnych, imiennych upoważnień wydanych przez właściwego komendanta oddziału Straży Granicznej, komendanta placówki Straży Granicznej albo przez upoważnione przez nich osoby.
+2. Upoważnienie, o którym mowa w ust. 1, zawiera:
+1) nazwę organu Straży Granicznej upoważniającego do dokonania sprawdzenia lokalu;
 2) datę i miejsce wydania upoważnienia oraz jego numer;
-3) wskazanie podstawy prawnej lokalu;
-4) stopień, imię i nazwisko funkcjonariusza uprawnionego do oraz numer jego legitymacji służbowej;
-5) adres podlegającego sprawdzeniu;
+3) wskazanie podstawy prawnej sprawdzenia lokalu;
+4) stopień, imię i nazwisko funkcjonariusza uprawnionego do sprawdzenia lokalu oraz numer jego legitymacji służbowej;
+5) adres lokalu podlegającego sprawdzeniu;
 6) imię i nazwisko, datę urodzenia oraz obywatelstwo cudzoziemca, który wskazał jako miejsce swego pobytu lokal podlegający sprawdzeniu;
-7) wskazanie daty lokalu;
-8) podpis osoby udzielającej upoważnienia podaniem stopnia i zajmowanego stanowiska służbowego.
-3. Wzór upoważnienia jest określony załączniku nr 1 do rozporządzenia.
-i nazwisk funkcjonariuszy;
-2) okazują osobie obecnej podczas sprawdzania upoważnienia, o których mowa 3 ust. 1;
-3) informują osobę obecną podczas sprawdzania lokalu, języku dla niej zrozumiałym, o celu dokonania oraz prawie niewyrażenia zgody na dokonanie lokalu, a także pouczają o skutkach niewyrażenia zgody na dokonanie lokalu.
-6. Funkcjonariusze dokonują zgodnie celem przeprowadzenia tej czynności, zachowaniem umiaru i poszanowaniem godności osób, których sprawdzenie dotyczy. Podejmowane nich czynności polegają na:
-1) obejrzeniu sprawdzanego i okazanych przedmiotów należących do cudzoziemca i zamieszkującego nim członka rodziny;
-2) przeprowadzeniu rozmów osobami obecnymi podczas sprawdzania związku żądaniem udzielenia wyjaśnień sprawie pobytu cudzoziemca tym lokalu.
-7. 1. Po dokonaniu dowódca sporządza notatkę służbową.
-2. Notatka, o której mowa ust. 1, zawiera:
-1) numery i daty upoważnień uprawniających do dokonania lokalu;
-2) adres podlegającego sprawdzeniu;
-3) stopnie, imiona i nazwiska funkcjonariuszy, którzy dokonali lokalu;
+7) wskazanie daty sprawdzenia lokalu;
+8) podpis osoby udzielającej upoważnienia z podaniem stopnia i zajmowanego stanowiska służbowego.
+3. Wzór upoważnienia jest określony w załączniku nr 1 do rozporządzenia.
+§ 4. 1. Sprawdzenia lokalu dokonuje co najmniej dwóch funkcjonariuszy.
+2. Funkcjonariuszami dokonującymi sprawdzenia lokalu dowodzi funkcjonariusz wyznaczony przez organ Straży Granicznej udzielający upoważnienia, zwany dalej „dowódcą”.
+§ 5. Funkcjonariusze podczas sprawdzania lokalu wykonują kolejno następujące czynności:
+1) podają osobie obecnej podczas sprawdzania lokalu swoje stopnie oraz imiona i nazwiska lub okazują legitymacje służbowe w sposób umożliwiający odczytanie i zanotowanie numerów legitymacji, organu, który je wydał, oraz imion i nazwisk funkcjonariuszy;
+2) okazują osobie obecnej podczas sprawdzania lokalu upoważnienia, o których mowa w § 3 ust. 1;
+3) informują osobę obecną podczas sprawdzania lokalu, w języku dla niej zrozumiałym, o celu dokonania sprawdzenia lokalu oraz prawie niewyrażenia zgody na dokonanie sprawdzenia lokalu, a także pouczają o skutkach niewyrażenia zgody na dokonanie sprawdzenia lokalu.
+§ 6. Funkcjonariusze dokonują sprawdzenia lokalu zgodnie z celem przeprowadzenia tej czynności, z zachowaniem umiaru i poszanowaniem godności osób, których sprawdzenie dotyczy. Podejmowane przez nich czynności polegają na:
+1) obejrzeniu sprawdzanego lokalu i okazanych przedmiotów należących do cudzoziemca i zamieszkującego z nim członka rodziny;
+2) przeprowadzeniu rozmów z osobami obecnymi podczas sprawdzania lokalu w związku z żądaniem udzielenia wyjaśnień w sprawie pobytu cudzoziemca w tym lokalu.
+§ 7. 1. Po dokonaniu sprawdzenia lokalu dowódca sporządza notatkę służbową.
+2. Notatka, o której mowa w ust. 1, zawiera:
+1) numery i daty upoważnień uprawniających do dokonania sprawdzenia lokalu;
+2) adres lokalu podlegającego sprawdzeniu;
+3) stopnie, imiona i nazwiska funkcjonariuszy, którzy dokonali sprawdzenia lokalu;
 4) imię i nazwisko, datę urodzenia oraz obywatelstwo cudzoziemca, który wskazał lokal jako miejsce swojego pobytu;
-5) wskazanie osób, których obecności dokonano lokalu;
-6) datę oraz godzinę rozpoczęcia sprawdzania i jego zakończenia;
-7) fakty ustalone toku sprawdzania lokalu;
-8) stanowiska, stopnie, imiona i nazwiska oraz podpisy dokonujących sprawdzenia.
-3. Wzór notatki służbowej jest określony załączniku nr 2 do rozporządzenia.
-8. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.
-Minister Spraw Wewnętrznych: wz. P. Stachańczyk UPOWAŻNIENIE nr …… Na podstawie art. 11 ust. 3 ustawy 12 grudnia 2013 o cudzoziemcach 1650 oraz 2014 463 i 1004) związku 3 ust. 1 rozporządzenia Ministra Spraw Wewnętrznych 2 kwietnia 2015 sprawie sposobu dokonywania
-502) upoważniam: ………………………………………………………………………………………………….
-do ………………………………………………………….……………..
-……………………………………………………………………………………………….… …………………………………………………………………………………………….…… wskazanego Panią/Pana ………………………………………………………………..
-jako miejsce pobytu dniu ……………………..……………… ..………………………………………………………………………….
-dotycząca Działając na podstawie upoważnień nr ……….. i nr …………... ……………………..
-wydanych ………………………………………………………………………………., funkcjonariusze: ………………………………………………………………………………..
-dokonali ………………………………………………………………… …………………………………….……………..……………………………………………...
-Sprawdzenie rozpoczęto dniu ……………………….. o godz. ……………………… a zakończono o godz. …………..
-Sprawdzenie przeprowadzono sprawie: …………………………………………………………….……………………………………..
-Sprawdzenie przeprowadzono obecności: …………………………………………………………………………………………………..
-W wyniku ustalono ……..…..…………….……………………………… ………………………………………………………………………………….……………….
+5) wskazanie osób, w których obecności dokonano sprawdzenia lokalu;
+6) datę oraz godzinę rozpoczęcia sprawdzania lokalu i jego zakończenia;
+7) fakty ustalone w toku sprawdzania lokalu;
+8) stanowiska, stopnie, imiona i nazwiska oraz podpisy funkcjonariuszy dokonujących sprawdzenia.
+3. Wzór notatki służbowej jest określony w załączniku nr 2 do rozporządzenia.
+§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Spraw Wewnętrznych: wz. P. Stachańczyk Załączniki do rozporządzenia z dnia 2 kwietnia 2015 r. (poz. …) Załącznik nr 1 WZÓR WZÓR ………………………………… …………….……., dnia …………………....
+UPOWAŻNIENIE nr …… Na podstawie art. 11 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463 i 1004) w związku z § 3 ust. 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 2 kwietnia 2015 r. w sprawie sposobu dokonywania przez funkcjonariuszy Straży Granicznej sprawdzenia lokalu (Dz. U. poz. 502) upoważniam: ………………………………………………………………………………………………….
+do sprawdzenia lokalu ………………………………………………………….……………..
+……………………………………………………………………………………………….… …………………………………………………………………………………………….…… wskazanego przez Panią/Pana ………………………………………………………………..
+jako miejsce pobytu w dniu ……………………..……………… ..………………………………………………………………………….
+
+## Załącznik nr 2 — WZÓR WZÓR …………………………, dnia …………………..
+
+NOTATKA SŁUŻBOWA dotycząca sprawdzenia lokalu przez funkcjonariuszy Straży Granicznej Działając na podstawie upoważnień nr ……….. i nr …………... z dnia ……………………..
+wydanych przez ………………………………………………………………………………., funkcjonariusze: ………………………………………………………………………………..
+dokonali sprawdzenia lokalu w ………………………………………………………………… …………………………………….……………..……………………………………………...
+Sprawdzenie lokalu rozpoczęto w dniu ……………………….. o godz. ……………………… a zakończono o godz. …………..
+Sprawdzenie przeprowadzono w sprawie: …………………………………………………………….……………………………………..
+Sprawdzenie lokalu przeprowadzono w obecności: …………………………………………………………………………………………………..
+W wyniku sprawdzenia lokalu ustalono ……..…..…………….……………………………… ………………………………………………………………………………….……………….
 …………………………………………………………………………………………………..
-…………………………………….…… Wykonano 1 egz. aa Sporządził: …………..
+…………………………………….…… Wykonano w 1 egz. – aa Sporządził: …………..
 Wykonał: ……………
 

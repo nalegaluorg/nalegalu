@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 23 października 2008 r. o zmianie ustawy - Kodeks cywilny oraz ustawy - Prawo dewizowe*
 
-Łącznie: **118** orzeczeń
+Łącznie: **122** orzeczeń
 (pominięto 83 orzeczeń sądów rejonowych)
 
 ## art. 1 (6)
@@ -49,7 +49,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 października 2008 r. o zmianie ustaw
 
 - 2022-03-30 | SO | [I ACa 488/21](https://www.saos.org.pl/judgments/494239) | Wyrok
 
-## (ogólnie) (93)
+## (ogólnie) (97)
 
 - 2025-09-10 | SO | [I ACa 1932/22](https://www.saos.org.pl/judgments/537060) | Wyrok
 - 2025-09-08 | SO | [I ACa 2412/22](https://www.saos.org.pl/judgments/537072) | Wyrok
@@ -62,9 +62,13 @@ Orzeczenia powołujące: *Ustawa z dnia 23 października 2008 r. o zmianie ustaw
 - 2024-12-16 | SO | [I ACa 3407/23](https://www.saos.org.pl/judgments/543528) | Wyrok
 - 2024-11-29 | SO | [I ACa 642/24](https://www.saos.org.pl/judgments/531505) | Wyrok
 - 2024-04-25 | SO | [I ACa 785/22](https://www.saos.org.pl/judgments/494584) | Wyrok
+- 2024-02-16 | SO | [I ACa 787/23](https://www.saos.org.pl/judgments/546059) | Wyrok
+- 2024-02-16 | SO | [I ACa 781/23](https://www.saos.org.pl/judgments/546058) | Wyrok
 - 2024-02-13 | SO | [V ACa 463/21](https://www.saos.org.pl/judgments/544410) | Wyrok
+- 2024-01-24 | SO | [I ACa 3021/23](https://www.saos.org.pl/judgments/546260) | Wyrok
 - 2023-12-28 | SO | [I ACa 632/22](https://www.saos.org.pl/judgments/494410) | Wyrok
 - 2023-11-30 | SO | [I ACa 460/22](https://www.saos.org.pl/judgments/494210) | Wyrok
+- 2023-10-17 | SO | [I ACa 454/22](https://www.saos.org.pl/judgments/546056) | Wyrok
 - 2023-10-09 | SO | [I ACa 466/22](https://www.saos.org.pl/judgments/520011) | Wyrok
 - 2023-06-12 | SO | [I ACa 888/21](https://www.saos.org.pl/judgments/493021) | Wyrok
 - 2023-04-24 | SO | [VI ACa 663/22](https://www.saos.org.pl/judgments/510581) | Wyrok

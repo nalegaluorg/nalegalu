@@ -8,7 +8,7 @@ pos: 230
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zasadach współpracy prawnej w sprawach karnych między Rzecząpospolitą Polską i terytorium, do którego stosuje się prawo karne należące do właściwości Ministra Sprawiedliwości Tajwanu

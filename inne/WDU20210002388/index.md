@@ -8,7 +8,7 @@ pos: 2388
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa

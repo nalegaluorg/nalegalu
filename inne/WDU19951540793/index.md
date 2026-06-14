@@ -8,7 +8,7 @@ pos: 793
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniającaustawęozmianieKodeksupostępowaniakarnego , ustawyo wojskowych , ustawyoopłatachwsprawachkarnychiustawy 0 postę Wustawiezdnia 29 czerwca 1995 r . ozmianieKodeksupostępowaniakarneg ustrojusądówwojskowych , ustawyoopłatachwsprawachkarnychiustawyo wsprawachnieletnich ( D z . U . N r 89 , p o z . 443 ) wprowadzasięnastępującezm " A r t . 10 a . 1 . Wsprawach , wktórychłącznyczastymczasowegoareszt określonewart . 222 $ 21 S 3 Kodeksupostępowaniakarneg „ A r t . 11 . UstawawchodziwżyciezdniemIstycznia 1996 r ., ztym

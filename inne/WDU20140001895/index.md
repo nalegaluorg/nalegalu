@@ -8,10 +8,10 @@ pos: 1895
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 grudnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1895 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 19 grudnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001895) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1895/text.pdf) |
 
-Poz. 1895 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 19 grudnia 2014 r.
-w sprawie siedzib i właściwości terytorialnej komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych Na podstawie art. 19 ust. 3 ustawy z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. poz. 1822) zarządza się, co następuje: § 1. Określa się następującą właściwość terytorialną oraz siedziby rejonowych komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych:
+w sprawie siedzib i właściwości terytorialnej komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych Na podstawie art. 19 ust. 3 ustawy z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. poz. 1822) zarządza się, co następuje:
+§ 1. Określa się następującą właściwość terytorialną oraz siedziby rejonowych komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych:
 1) Dolnośląska Rejonowa Komisja Lekarska we Wrocławiu, właściwa dla obszaru województwa dolnośląskiego;
 2) Kujawsko-Pomorska Rejonowa Komisja Lekarska w Bydgoszczy, właściwa dla obszaru województwa kujawsko-pomorskiego;
 3) Lubelska Rejonowa Komisja Lekarska w Lublinie, właściwa dla obszaru województwa lubelskiego;

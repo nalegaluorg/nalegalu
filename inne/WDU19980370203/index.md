@@ -8,7 +8,7 @@ pos: 203
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o uznaniu stopni naukowych, dyplomów i tytułów zawodowych nadanych przez Polski Uniwersytet na Obczyźnie

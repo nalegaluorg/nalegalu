@@ -8,7 +8,7 @@ pos: 1430
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks postępowania karnego, ustawy o prokuraturze oraz ustawy o Krajowym Rejestrze Karnym
@@ -88,7 +88,8 @@ Art. 611tp. § 1. Na wniosek państwa wydania orzeczenia Minister Sprawiedliwoś
 § 3. Minister Sprawiedliwości informuje właściwy organ państwa wydania orzeczenia, iż art. 607e § 1 nie znajduje zastosowania w odniesieniu do przestępstwa popełnionego lub kary pozbawienia wolności orzeczonej przed opuszczeniem przez skazanego terytorium państwa wydania.
 § 4. Art. 607zb § 2 – 4 stosuje się odpowiednio.
 Art. 611tr. § 1. O treści postanowienia w przedmiocie wykonania orzeczenia, o którym mowa w art. 611tj § 1, oraz o istotnych orzeczeniach zapadłych w trakcie postępowania wykonawczego, jak również o ucieczce lub ukryciu się skazanego zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Zawiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-§ 2. W wypadku ucieczki lub ukrycia się skazanego postępowanie wykonawcze umarza się. Jeżeli miejsce pobytu skazanego na terytorium Rzeczypospolitej Polskiej zostanie następnie ustalone, zawiadamia się o tym niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Orzeczona w tym państwie kara pozbawienia wolności może być wykonywana, jeżeli jego właściwy sąd lub inny organ ponownie skieruje wystąpienie, o którym mowa w art. 611tg § 1.
+§ 2. W wypadku ucieczki lub ukrycia się skazanego postępowanie wykonawcze umarza się. Jeżeli miejsce pobytu skazanego na terytorium Rzeczypospolitej Polskiej zostanie następnie ustalone, zawiadamia się o tym niezwłocznie właściwy sąd lub inny organ państwa wydania orzeczenia. Orzeczona w tym państwie kara pozbawienia wolności może być wykonywana, jeżeli jego właściwy sąd lub inny organ ponownie skieruje wystąpienie, o którym mowa w art. 611tg
+§ 1.
 Art. 611ts. Koszty związane z wykonaniem orzeczenia, o którym mowa w art.
 611tg § 1, ponosi Skarb Państwa, z wyjątkiem kosztów przekazania sprawcy na terytorium Rzeczypospolitej Polskiej.
 Art. 611ud. § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia skazującego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania albo na samoistną karę lub środek niepolegający na pozbawieniu wolności lub na grzywnie, bądź orzekającego o warunkowym zwolnieniu, warunkowym umorzeniu postępowania karnego lub innym warunkowym odroczeniu wykonania kary, orzeczenie to podlega wykonaniu przez sąd rejonowy, w którego okręgu sprawca posiada legalne stałe miejsce pobytu, jeżeli w wyznaczonym okresie próby nakłada ono na sprawcę obowiązek:
@@ -151,6 +152,13 @@ Art. 611uj. Koszty związane z wykonaniem orzeczenia, o którym mowa w art.
 579, sądy i prokuratorzy każdorazowo porozumiewają się, w tym przy doręczaniu pism procesowych, za pośrednictwem Ministra Sprawiedliwości, a ten w razie potrzeby przez ministra właściwego do spraw zagranicznych.”.
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 561:
+    - **a)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. W wypadku wyroku przejętego do wykonania w Rzeczypospolitej Polskiej prośbę o ułaskawienie przedstawia się sądowi, który orzekł w pierwszej instancji o przejęciu wyroku do wykonania.”,
+    - **b)** § 2 otrzymuje brzmienie: „§ 2. Sąd, o którym mowa w § 1 i 1a, powinien rozpoznać prośbę o ułaskawienie w ciągu 2 miesięcy od daty jej otrzymania.”;
+
+- **2)** w art. 607s § 5 otrzymuje brzmienie: „§ 5. Wykonanie kary odbywa się według przepisów prawa polskiego. Przepisy rozdziału 66g stosuje się odpowiednio, z wyjątkiem art. 611tg, art. 611ti § 2 i 3, art. 611tk, art. 611tm, art. 611to § 2 i art. 611tp.”;
+- **3)** po rozdziale 66e dodaje się rozdziały 66f – 66i w brzmieniu: „Rozdział 66f Wystąpienie do państwa członkowskiego Unii Europejskiej o wykonanie kary pozbawienia wolności
 
 **Art. 611t.**
 
@@ -253,6 +261,9 @@ Art. 611uj. Koszty związane z wykonaniem orzeczenia, o którym mowa w art.
 **Art. 2.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. Nr 7, poz. 39, z późn. zm. ) w art. 18 dodaje się ust. 6 w brzmieniu: „6. Minister Sprawiedliwości, po zasięgnięciu opinii Prokuratora Generalnego, określi, w drodze rozporządzenia, sposób realizacji zadań związanych ze współpracą prokuratury z organizacjami międzynarodowymi lub ponadnarodowymi działającymi na podstawie umów międzynarodowych, w tym umów konstytuujących organizacje międzynarodowe ratyfikowanych przez Rzeczpospolitą Polską, mając na uwadze konieczność prawidłowej realizacji obowiązków wynikających z tych umów lub aktów prawa stanowionego przez organizację międzynarodową powołaną do zwalczania przestępczości, w szczególności określenia sposobu wymiany informacji między państwami członkowskimi tych organizacji i organami tych organizacji, realizacji wniosków o pomoc prawną, ochrony przetwarzanych danych osobowych i bezpieczeństwa przetwarzanych danych.”.
 
 **Art. 3.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2008 r. Nr 50, poz. 292, z późn. zm. ) w art. 12:
+
+- **1)** w ust. 1 po pkt 6b dodaje się pkt 6c w brzmieniu: „6c) informację o przejęciu do wykonania kary orzeczonej przez właściwy organ sądowy państwa członkowskiego Unii Europejskiej, w tym oznaczenie organu, który wydał orzeczenie, państwa wydania orzeczenia, sygnaturę akt sprawy oraz datę wydania orzeczenia;”;
+- **2)** w ust. 2 w pkt 35 kropkę zastępuje się średnikiem i dodaje się pkt 36 w brzmieniu: „36) przekazaniu do wykonania orzeczonej kary właściwemu organowi sądowemu państwa członkowskiego Unii Europejskiej oraz o jej wykonaniu przez ten organ.”.
 
 **Art. 4.**
 

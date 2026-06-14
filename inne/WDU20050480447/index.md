@@ -8,7 +8,7 @@ pos: 447
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o pośrednictwie ubezpieczeniowym oraz niektórych innych ustaw
@@ -29,6 +29,27 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz.U. Nr 124, poz. 1154 oraz z 2004 r. Nr 96, poz. 959) wprowadza się następujące zmiany:
 
+- **1)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Przepisów ustawy nie stosuje się do podmiotów świadczących morskie usługi agencyjne lub morskie usługi maklerskie w rozumieniu przepisów ustawy z dnia 18 września 2001 r. - Kodeks morski (Dz.U. Nr 138, poz. 1545, z późn. zm. ) w zakresie pośrednictwa lub wykonywania umów ubezpieczenia morskiego.
+
+2. Przepisów ustawy nie stosuje się również do wykonywania pośrednictwa ubezpieczeniowego, jeżeli spełnione są łącznie następujące warunki:
+
+- **1)** umowa ubezpieczenia, której zawarcia lub wykonania dotyczą czynności pośrednictwa ubezpieczeniowego, wymaga wiedzy jedynie w zakresie oferowanej ochrony ubezpieczeniowej oraz nie jest umową ubezpieczenia na życie ani umową ubezpieczenia odpowiedzialności cywilnej;
+- **2)** podstawową działalnością przedsiębiorcy nie jest działalność w zakresie pośrednictwa ubezpieczeniowego;
+- **3)** umowa ubezpieczenia, której zawarcia lub wykonania dotyczą czynności pośrednictwa ubezpieczeniowego, jest zawierana jako uzupełnienie dostarczanych przez przedsiębiorcę towarów lub świadczonych usług i pokrywa następujące ryzyka:
+    - **a)** zniszczenia, utraty lub uszkodzenia tych towarów lub
+    - **b)** uszkodzenia lub utraty bagażu oraz inne ryzyka związane z usługami w zakresie podróży oferowanymi przez przedsiębiorcę, w tym objęte ubezpieczeniem na życie lub ubezpieczeniem odpowiedzialności cywilnej;
+
+- **4)** wysokość rocznej składki należnej z tytułu umowy ubezpieczenia, a w przypadku umowy ubezpieczenia grupowego wysokość rocznej składki opłacanej przez ubezpieczającego, nie przekracza kwoty stanowiącej równowartość 500 euro, obliczonej w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów nr 1 każdego roku, a czas trwania umowy ubezpieczenia nie przekracza 5 lat.”;
+- **2)** w art. 4 pkt 2 otrzymuje brzmienie: „2) czynności w imieniu lub na rzecz podmiotu poszukującego ochrony ubezpieczeniowej, zwane dalej „czynnościami brokerskimi”, polegające na zawieraniu lub doprowadzaniu do zawarcia umów ubezpieczenia, wykonywaniu czynności przygotowawczych do zawarcia umów ubezpieczenia oraz uczestniczeniu w zarządzaniu i wykonywaniu umów ubezpieczenia, także w sprawach o odszkodowanie, jak również na organizowaniu i nadzorowaniu czynności brokerskich (działalność brokerska).”;
+- **3)** po art. 4 dodaje się art. 4a-4c w brzmieniu: „Art. 4a. 1. Pośrednik ubezpieczeniowy przekazuje informacje, o których mowa w art. 12 ust. 2, art. 13 ust. 1 pkt 4 i 4a oraz ust. 2 albo art. 26 ust 1 pkt 1, 2 i 4 oraz ust. 2, zwane dalej „informacjami dotyczącymi pośrednika ubezpieczeniowego”, poszukującemu ochrony ubezpieczeniowej albo klientowi:
+- **1)** pisemnie lub za pomocą innego trwałego nośnika informacji dostępnego dla poszukującego ochrony ubezpieczeniowej albo klienta;
+- **2)** w sposób jasny, dokładny i zrozumiały;
+- **3)** w języku urzędowym państwa członkowskiego Unii Europejskiej, w którym umowa ubezpieczenia jest zawierana, lub innym języku, na który wyrażą zgodę strony umowy.
+
+2. Informacje dotyczące pośrednika ubezpieczeniowego mogą być dostarczane w formie innej niż określona w ust. 1 pkt 1 na żądanie poszukującego ochrony ubezpieczeniowej albo klienta lub jeżeli okoliczności zawierania umowy ubezpieczenia nie pozwalają na przekazanie informacji zgodnie z ust. 1 pkt 1, przy czym pośrednik informacje te dostarcza poszukującemu ochrony ubezpieczeniowej albo klientowi zgodnie z ust. 1 niezwłocznie po zawarciu umowy ubezpieczenia.
+
+3. Do informacji dotyczących pośrednika ubezpieczeniowego stosuje się odpowiednio przepisy ustawy z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny (Dz.U. Nr 22, poz. 271, z późn. zm. ), przy czym informacje te powinny być niezwłocznie przekazane poszukującemu ochrony ubezpieczeniowej albo klientowi zgodnie z ust. 1.
+
 **Art. 4b.** Obowiązek dostarczenia poszukującemu ochrony ubezpieczeniowej albo klientowi przez pośrednika ubezpieczeniowego informacji dotyczących pośrednika ubezpieczeniowego nie ma zastosowania w przypadku umowy ubezpieczenia dotyczącej dużych ryzyk w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz.U. Nr 124, poz. 1151 oraz z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959), zwanej dalej „ustawą o działalności ubezpieczeniowej”, oraz w przypadku pośrednictwa ubezpieczeniowego w zakresie reasekuracji.
 
 **Art. 4c.**
@@ -45,7 +66,8 @@ source: "isap-pdf"
     - **a)** dotychczasową treść oznacza się jako ust. 1,
     - **b)** dodaje się ust. 2 w brzmieniu: „2. Za pośrednictwo ubezpieczeniowe nie uznaje się działalności polegającej na dostarczaniu osobom zainteresowanym ochroną ubezpieczeniową ogólnych informacji o możliwości zawierania umów ubezpieczenia oraz o warunkach i skutkach takich umów, w szczególności o zakresie ochrony ubezpieczeniowej, jeżeli informacje są dostarczane przez podmiot wykonujący działalność inną niż pośrednictwo ubezpieczeniowe, pozostają w związku z tą działalnością i nie mają na celu doprowadzenia do zawarcia lub wykonania umowy ubezpieczenia.”;
 
-- **6)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. Sumy pieniężne przekazane z tytułu umowy ubezpieczenia przez: się jako wpłacone zakładowi ubezpieczeń;
+- **6)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. Sumy pieniężne przekazane z tytułu umowy ubezpieczenia przez:
+- **1)** ubezpieczającego pośrednikowi ubezpieczeniowemu uznaje się jako wpłacone zakładowi ubezpieczeń;
 - **2)** zakład ubezpieczeń pośrednikowi ubezpieczeniowemu nie uznaje się jako przekazane ubezpieczającemu, uposażonemu lub uprawnionemu z umowy ubezpieczenia, do czasu ich faktycznego otrzymania przez te podmioty.”;
 - **7)** w art. 7:
     - **a)** dotychczasową treść oznacza się jako ust. 1,
@@ -63,7 +85,7 @@ source: "isap-pdf"
     - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
 - **1)** minimalny zakres szkolenia, o którym mowa w ust. 1 pkt 5, zakres obowiązujących tematów egzaminu i tryb jego przeprowadzania, z uwzględnieniem szczególnych zasad w zakresie spełniania warunku, o którym mowa w ust. 1 pkt 5, przez osoby wykonujące czynności agencyjne w bankach, spółdzielczych kasach oszczędnościowo – kredytowych i innych podmiotach, jedynie w odniesieniu do umów ubezpieczenia zawieranych przez te podmioty lub za ich pośrednictwem;
-- **2)** rodzaje podmiotów, do których stosuje się szczególne zasady, o których mowa w pkt 1, wiedniego poziomu kwalifikacji osób wykonujących czynności agencyjne.”;
+- **2)** rodzaje podmiotów, do których stosuje się szczególne zasady, o których mowa w pkt 1, - z uwzględnieniem w szczególności konieczności zapewnienia odpowiedniego poziomu kwalifikacji osób wykonujących czynności agencyjne.”;
 - **9)** uchyla się art. 10;
 - **10)** w art. 11:
     - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Agent ubezpieczeniowy wykonujący czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej, odpowiada za szkody powstałe z tytułu wykonywania tych czynności wyrządzone klientowi, ubezpieczającemu, ubezpieczonemu lub osobie uprawnionej z umowy ubezpieczenia.
@@ -75,7 +97,7 @@ source: "isap-pdf"
 - **d)** ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii ogólnopolskich organizacji pośredników ubezpieczeniowych i Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 3, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorą c w szczególności pod uwagę specyfikę wykonywanej działalności oraz zakres realizowanych zadań.”;
 - **11)** w art. 12 w ust. 2 pkt 1 otrzymuje brzmienie: „1) zakres działalności agenta ubezpieczeniowego, ze wskazaniem działu i grup ubezpieczeń;”;
 - **12)** w art. 13 w ust. 1:
-    - **a)** po pkt 4 dodaje się pkt 4a w brzmieniu:
+    - **a)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) poinformować klienta o:
     - **a)** firmie, pod którą wykonuje działalność agencyjną, oraz adresie siedziby,
     - **b)** wpisie do rejestru pośredników ubezpieczeniowych i sposobie sprawdzenia wpisu do rejestru,
     - **c)** posiadanych akcjach albo udziałach zakładu ubezpieczeń uprawniających co najmniej do 10% głosów na walnym zgromadzeniu albo zgromadzeniu wspólników oraz, w przypadku agenta ubezpieczeniowego będącego osobą prawną, o akcjach lub udziałach agenta ubezpieczeniowego posiadanych przez zakład ubezpieczeń, uprawniających co najmniej do 10% głosów na walnym zgromadzeniu albo zgromadzeniu wspólników.”,
@@ -90,7 +112,9 @@ source: "isap-pdf"
 
 **Art. 17.**
 
-1. Agent ubezpieczeniowy, wpisany do rejestru agentów ubezpieczeniowych, może wykonywać działalność agencyjną na terytorium innego państwa członkowskiego Unii Europejskiej, z zastrzeżeniem ust. 2. cyjną na terytorium innego państwa członkowskiego Unii Europejskiej, ma obowiązek powiadomić o tym organ nadzoru.
+1. Agent ubezpieczeniowy, wpisany do rejestru agentów ubezpieczeniowych, może wykonywać działalność agencyjną na terytorium innego państwa członkowskiego Unii Europejskiej, z zastrzeżeniem ust. 2.
+
+2. Agent ubezpieczeniowy, który zamierza podjąć działalność agencyjną na terytorium innego państwa członkowskiego Unii Europejskiej, ma obowiązek powiadomić o tym organ nadzoru.
 
 3. W powiadomieniu, o którym mowa w ust. 2, agent ubezpieczeniowy wskazuje:
 
@@ -106,7 +130,10 @@ source: "isap-pdf"
 6. Organ nadzoru niezwłocznie informuje agenta ubezpieczeniowego:
 
 - **1)** o przekazaniu informacji, o której mowa w ust. 4, albo
-- **2)** że państwo członkowskie Unii Europejskiej, na terytorium którego agent ubezpieczeniowy zamierza podjąć działalność, nie wyraziło woli otrzymywania odpowiednich informacji, w przypadku określonym w ust. 5. każdym przypadku zmiany danych, o których mowa w ust. 3 pkt 2-4.”;
+- **2)** że państwo członkowskie Unii Europejskiej, na terytorium którego agent ubezpieczeniowy zamierza podjąć działalność, nie wyraziło woli otrzymywania odpowiednich informacji, w przypadku określonym w ust. 5.
+
+7. Agent ubezpieczeniowy niezwłocznie informuje organ nadzoru o każdym przypadku zmiany danych, o których mowa w ust. 3 pkt 2-4.”;
+
 - **15)** w art. 19: 205 ust. 2 ustawy o działalności ubezpieczeniowej.”;
     - **a)** ust. 6 otrzymuje brzmienie: „6. Organ nadzoru może nałożyć kary pieniężne określone w art. 212 ust. 1 ustawy o działalności ubezpieczeniowej, jeżeli zakład ubezpieczeń nie zgłasza do rejestru agentów ubezpieczeniowych przedsiębiorcy, z którym zawarł umowę agencyjną, nie zgłasza zmian danych objętych wpisem do rejestru agentów ubezpieczeniowych lub nie zwraca się z wnioskiem o wykreślenie z rejestru agentów ubezpieczeniowych przedsiębiorcy, z którym rozwiązał umowę agencyjną, w terminach określonych odpowiednio w art. 38, art. 41 ust. 1 i art. 42 ust. 1.”,
     - **b)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. W przypadku zakładu ubezpieczeń z siedzibą w państwie członkowskim Unii Europejskiej, wykonującego działalność ubezpieczeniową na terytorium Rzeczypospolitej Polskiej na podstawie przepisów rozdziału 7 ustawy o działalności ubezpieczeniowej, na potrzeby kontroli i nadzoru nad działalnością tego zakładu ubezpieczeń w zakresie korzystania z agentów ubezpieczeniowych stosuje się odpowiednio art. 139 oraz art.
@@ -117,7 +144,7 @@ source: "isap-pdf"
 
 3. W przypadku brokera ubezpieczeniowego, o którym mowa w art. 31, przepisu ust. 1 nie stosuje się, jeżeli broker ubezpieczeniowy posiada ustanowione w państwie członkowskim Unii Europejskiej ubezpieczenie odpowiedzialności cywilnej lub inną równoważną gwarancję w kwocie 1 000 000 euro w odniesieniu do jednego zdarzenia oraz 1 500 000 euro w odniesieniu do wszystkich zdarzeń za szkody powstałe z tytułu wykonywania czynności brokerskich wyrządzone osobie poszukującej ochrony ubezpieczeniowej, ubezpieczającemu, ubezpieczonemu lub osobie uprawnionej z umowy ubezpieczenia.
 
-4. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii ogólnopolskich organizacji pośredników ubezpieczeniowych i Polskiej Izby Ubezpieczeń, określi, w drodze rozpoktórym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę zawodu brokera ubezpieczeniowego oraz zakres realizowanych zadań.
+4. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii ogólnopolskich organizacji pośredników ubezpieczeniowych i Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę zawodu brokera ubezpieczeniowego oraz zakres realizowanych zadań.
 
 **Art. 23.**
 
@@ -134,7 +161,7 @@ source: "isap-pdf"
 
 - **18)** art. 27 otrzymuje brzmienie: „Art. 27. Określenia wskazujące na wykonywanie działalności brokerskiej w zakresie ubezpieczeń lub reasekuracji mogą być używane w nazwie lub reklamie oraz do oznaczania działalności wyłącznie przez podmiot posiadający zezwolenie na wykonywanie działalności brokerskiej w zakresie ubezpieczeń lub reasekuracji na terytorium Rzeczypospolitej Polskiej albo podmiot wykonujący działalność brokerską w zakresie ubezpieczeń lub reasekuracji na terytorium Rzeczypospolitej Polskiej zgodnie z art. 31 ust. 1.”;
 - **19)** w art. 28:
-    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Organ nadzoru odmawia wydania zezwolenia w drodze decyzji.”,
     - **b)** w ust. 3 w pkt 1 lit. e otrzymuje brzmienie: „e) zdała egzamin przed Komisją Egzaminacyjną dla Brokerów Ubezpieczeniowych i Reasekuracyjnych odpowiednio do zakresu działalności,”,
     - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Brokerem ubezpieczeniowym nie może być przedsiębiorca prawomocnie pozbawiony prawa prowadzenia działalności gospodarczej zgodnie z art. 373 lub art. 374 ustawy - Prawo upadłościowe i naprawcze, w czasie trwania orzeczonego zakazu.”,
     - **d)** w ust. 4 pkt 1 i 2 otrzymują brzmienie: „1) firmę przedsiębiorcy, jego siedzibę i adres;
@@ -150,7 +177,8 @@ source: "isap-pdf"
 - **22)** w art. 32: 2, wskazuje:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Broker ubezpieczeniowy przekazując informację, o której mowa w ust.
 
-- **1)** państwo członkowskie Unii Europejskiej, w którym działalność ma być wykonywana; niowego w państwie członkowskim Unii Europejskiej, w którym działalność ma być wykonywana, jeżeli oddział lub przedstawicielstwo ma być ustanowione.”,
+- **1)** państwo członkowskie Unii Europejskiej, w którym działalność ma być wykonywana;
+- **2)** adres oddziału lub przedstawicielstwa brokera ubezpieczeniowego w państwie członkowskim Unii Europejskiej, w którym działalność ma być wykonywana, jeżeli oddział lub przedstawicielstwo ma być ustanowione.”,
     - **b)** dodaje się ust. 4-7 w brzmieniu: „4. Organ nadzoru, w terminie 30 dni od dnia powiadomienia, o którym mowa w ust. 2, przekazuje właściwemu organowi prowadzącemu rejestr pośredników ubezpieczeniowych w państwie członkowskim Unii Europejskiej, w którym broker ubezpieczeniowy zamierza wykonywać działalność, informację o zamiarze podjęcia przez brokera ubezpieczeniowego działalności na terytorium tego państwa członkowskiego Unii Europejskiej, wraz z informacją o tym, że broker ubezpieczeniowy jest wpisany do rejestru prowadzonego przez organ nadzoru.
 
 5. Przepisu ust. 4 nie stosuje się w przypadku, gdy państwo członkowskie Unii Europejskiej, na którego terytorium broker ubezpieczeniowy zamierza podjąć działalność, nie wyraziło woli otrzymywania informacji o zamiarze podejmowania na terytorium tego państwa członkowskiego działalności przez brokerów ubezpieczeniowych zarejestrowanych w innych państwach członkowskich Unii Europejskiej.
@@ -168,7 +196,9 @@ source: "isap-pdf"
     - **a)** ust. 2 otrzymuje brzmienie: „2. Osoby wchodzące w skład Komisji powinny posiadać wyższe wykształcenie oraz wyróżniać się wysokim poziomem wiedzy z dziedziny ubezpieczeń osobowych i majątkowych.”,
     - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W pracach Komisji może brać udział dwóch obserwatorów wyłonionych wspólnie przez ogólnopolskie organizacje brokerów.”;
 
-- **26)** w art. 37: - pkt 4 i 5 otrzymują brzmienie: „4) informację, czy agent ubezpieczeniowy, który działa na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej, zawarł umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 11 ust. 3, w tym także informację o numerze polisy, terminie obowiązywania tej umowy ubezpieczenia oraz nazwie zakładu ubezpieczeń, z którym zawarto tę umowę;
+- **26)** w art. 37: 11 ust. 3, w tym także informację o numerze polisy, terminie obowiązywania tej umowy ubezpieczenia oraz nazwie zakładu ubezpieczeń, z którym zawarto tę umowę;
+    - **a)** w ust. 5: - pkt 4 i 5 otrzymują brzmienie: „4) informację, czy agent ubezpieczeniowy, który działa na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej, zawarł umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art.
+
 - **5)** informację, czy agent ubezpieczeniowy wykonuje działalność na terytorium innego państwa członkowskiego Unii Europejskiej;”, - dodaje się pkt 6 w brzmieniu: „6) informację, czy z przedsiębiorcą rozwiązano umowę agencyjną z powodu wykonywania przez agenta ubezpieczeniowego działalności z naruszeniem przepisów prawa, umowy agencyjnej, staranności lub dobrych obyczajów ze wskazaniem zakładu ubezpieczeń, który rozwiązał umowę agencyjną, oraz informację, o której mowa w art. 42 ust. 3a – na wniosek zakładu ubezpieczeń lub przedsiębiorcy, którego informacja dotyczy, złożony zgodnie z ust. 6a.”,
     - **b)** ust. 6 otrzymuje brzmienie: „6. Informacje z rejestru brokerów ubezpieczeniowych są udzielane na wniosek i obejmują informacje, czy:
 
@@ -177,7 +207,7 @@ source: "isap-pdf"
 - **3)** broker ubezpieczeniowy zawarł umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 22 ust. 1, w tym także informację o numerze polisy, terminie obowiązywania tej umowy ubezpieczenia oraz nazwie zakładu ubezpieczeń, z którym zawarto tę umowę;
 - **4)** broker ubezpieczeniowy wykonuje działalność na terytorium innego państwa członkowskiego Unii Europejskiej.”,
     - **c)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Informacji określonych w ust. 5 pkt 6 udziela Polska Izba Ubezpieczeń.”,
-    - **d)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowe zasady i tryb prowadzenia rejestru pośredników ubezpieczeniowych, zasady współpracy organu nadzoru i Polskiej Izby Ubezpieczeń w zakresie dotyczącym udzielania informacji określonych w ust. 5 pkt 6, a także sposób udostępniania informacji nia sprawnego funkcjonowania rejestru.”;
+    - **d)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowe zasady i tryb prowadzenia rejestru pośredników ubezpieczeniowych, zasady współpracy organu nadzoru i Polskiej Izby Ubezpieczeń w zakresie dotyczącym udzielania informacji określonych w ust. 5 pkt 6, a także sposób udostępniania informacji z tego rejestru, uwzględniając w szczególności konieczność zapewnienia sprawnego funkcjonowania rejestru.”;
 
 - **27)** art. 38 otrzymuje brzmienie: „Art. 38. Zakład ubezpieczeń składa, wraz z niezbędnymi dokumentami, wniosek o wpisanie do rejestru agentów ubezpieczeniowych podmiotu, z którym zawarł umowę agencyjną, niezwłocznie po zawarciu tej umowy, lecz nie później niż w terminie 14 dni.”;
 - **28)** w art. 39 ust. 2-4 otrzymują brzmienie: „2. Organ nadzoru może odmówić wpisu do rejestru agentów ubezpieczeniowych, jeżeli osoby fizyczne, przy pomocy których mają być wykonywane czynności agencyjne, nie spełniają wymogów określonych w art. 9 ust. 1 lub agent ubezpieczeniowy nie spełnia warunku, o którym mowa w art. 9 ust.
@@ -188,10 +218,10 @@ source: "isap-pdf"
 
 4. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób składania wniosków o wpis albo o zmianę wpisu do rejestru agentów ubezpieczeniowych oraz wykaz dokumentów dołączanych do takich wniosków, mając w szczególności na uwadze zapewnienie sprawnego funkcjonowania rejestru oraz pełnej informacji o osobach, przy pomocy których mają być wykonywane czynności agencyjne w zakresie spełniania wymogów określonych w art. 9 ust. 1.”;
 
-- **29)** w art. 40:
+- **29)** w art. 40: 9 ust. 1 pkt 5,
     - **a)** w ust. 1: - w pkt 2 lit. d otrzymuje brzmienie: „d) numer w ewidencji działalności gospodarczej,”, - pkt 5 otrzymuje brzmienie: „5) w przypadku agenta ubezpieczeniowego działającego na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej, numer polisy potwierdzającej zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 11 ust. 3, termin obowiązywania tej umowy ubezpieczenia oraz nazwę zakładu ubezpieczeń, z którym zawarto tę umowę.”,
     - **b)** w ust. 2: - pkt 2 otrzymuje brzmienie: „2) dane dotyczące podmiotu, obejmujące:
-    - **a)** nazwę podmiotu lub firmę oraz informację, czy agent ubezpieczeniowy jest bankiem, spółdzielczą kasą oszczędnościowo-kredytową albo innym podmiotem, do którego stosuje się szczególne zasady w zakresie spełniania przez osoby wyko9 ust. 1 pkt 5,
+    - **a)** nazwę podmiotu lub firmę oraz informację, czy agent ubezpieczeniowy jest bankiem, spółdzielczą kasą oszczędnościowo-kredytową albo innym podmiotem, do którego stosuje się szczególne zasady w zakresie spełniania przez osoby wykonujące czynności agencyjne warunku, o którym mowa w art.
     - **b)** siedzibę i adres,
     - **c)** numer w rejestrze przedsiębiorców;”, - pkt 5 otrzymuje brzmienie: „5) w przypadku agenta ubezpieczeniowego działającego na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej, numer polisy potwierdzającej zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 11 ust. 3, termin obowiązywania tej umowy ubezpieczenia oraz nazwę zakładu ubezpieczeń, z którym zawarto tę umowę;”, - dodaje się pkt 6 w brzmieniu: „6) wykaz wspólników lub członków zarządu, zawierający dane określone w ust. 1 pkt 2 lit. a-c.”,
     - **c)** ust. 3 otrzymuje brzmienie: „3. Rejestr agentów ubezpieczeniowych, w przypadku agentów ubezpieczeniowych wykonujących działalność agencyjną na terytorium innego państwa członkowskiego Unii Europejskiej, zawiera dodatkowo:
@@ -205,7 +235,7 @@ source: "isap-pdf"
 3. Organ nadzoru może odmówić dokonania wpisu zmian do rejestru agentów ubezpieczeniowych, jeżeli osoby fizyczne, przy pomocy których mają być wykonywane czynności agencyjne, nie spełniają wymogów określonych w art. 9 ust. 1 lub agent ubezpieczeniowy nie spełnia warunku, o którym mowa w art. 9 ust. 1a. Odmowa dokonania wpisu zmian następuje w drodze decyzji.”;
 
 - **31)** w art. 42:
-    - **a)** ust. 1-3 otrzymują brzmienie: wiązany niezwłocznie, lecz nie później niż w terminie 7 dni, wystąpić do organu nadzoru z wnioskiem o wykreślenie agenta ubezpieczeniowego z rejestru agentów ubezpieczeniowych.
+    - **a)** ust. 1-3 otrzymują brzmienie: „1. Z chwilą rozwiązania umowy agencyjnej zakład ubezpieczeń jest obowiązany niezwłocznie, lecz nie później niż w terminie 7 dni, wystąpić do organu nadzoru z wnioskiem o wykreślenie agenta ubezpieczeniowego z rejestru agentów ubezpieczeniowych.
 
 2. Jeżeli wniosek dotyczy agenta ubezpieczeniowego wykonującego działalność agencyjną na rzecz więcej niż jednego zakładu ubezpieczeń, organ nadzoru zmienia dane, o których mowa odpowiednio w art. 40 ust. 1 pkt 3 i ust. 2 pkt 3.
 
@@ -219,7 +249,7 @@ source: "isap-pdf"
 
 - **c)** dodaje się ust. 5 w brzmieniu: „5. Informację o wykreśleniu agenta ubezpieczeniowego z rejestru agentów ubezpieczeniowych organ nadzoru niezwłocznie, lecz nie później niż w terminie 14 dni od dnia wykreślenia, przekazuje właściwemu organowi prowadzącemu rejestr pośredników ubezpieczeniowych w państwie członkowskim Unii Europejskiej, w którym agent ubezpieczeniowy wykonuje działalność.”;
 - **32)** w art. 44:
-    - **a)** w ust. 1: - w pkt 2 lit. e otrzymuje brzmienie: „e) numer w ewidencji działalności gospodarczej,”, niu: „5) w przypadku brokera ubezpieczeniowego wykonującego działalność brokerską na terytorium innego państwa członkowskiego Unii Europejskiej:
+    - **a)** w ust. 1: - w pkt 2 lit. e otrzymuje brzmienie: „e) numer w ewidencji działalności gospodarczej,”, - w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5-8 w brzmieniu: „5) w przypadku brokera ubezpieczeniowego wykonującego działalność brokerską na terytorium innego państwa członkowskiego Unii Europejskiej:
     - **a)** wykaz państw członkowskich Unii Europejskiej, w których działalność jest wykonywana,
     - **b)** adres oddziału lub przedstawicielstwa brokera ubezpieczeniowego w państwie członkowskim Unii Europejskiej, w którym działalność ma być wykonywana, jeżeli oddział lub przedstawicielstwo zostały ustanowione;
 
@@ -233,7 +263,9 @@ source: "isap-pdf"
 - **5)** rodzaj działalności brokerskiej;
 - **6)** wykaz osób fizycznych, przy pomocy których broker ubezpieczeniowy wykonuje czynności brokerskie, zawierający dane, o których mowa w ust. 1 pkt 2 lit. a-c;
 - **7)** numer polisy potwierdzającej zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 22 ust. 1, termin obowiązywania tej umowy ubezpieczenia oraz nazwę zakładu ubezpieczeń, z którym zawarto tę umowę.”;
-- **33)** art. 46 otrzymuje brzmienie: „Art. 46. 1. W przypadku każdej zmiany danych, objętych wpisem do rejestru brokerów ubezpieczeniowych, broker ubezpieczeniowy niezwłocznie, lecz nie później niż w terminie 7 dni od dnia zaistnienia tych zmian, jest obowiązany złożyć do organu nadzoru wniosek o dokonanie zmian treści wpisu wraz z niezbędnymi dokumentami. brokerów ubezpieczeniowych, jeżeli osoba fizyczna lub prawna nie spełnia warunków określonych w art. 28. Odmowa dokonania wpisu zmian następuje w drodze decyzji.
+- **33)** art. 46 otrzymuje brzmienie: „Art. 46. 1. W przypadku każdej zmiany danych, objętych wpisem do rejestru brokerów ubezpieczeniowych, broker ubezpieczeniowy niezwłocznie, lecz nie później niż w terminie 7 dni od dnia zaistnienia tych zmian, jest obowiązany złożyć do organu nadzoru wniosek o dokonanie zmian treści wpisu wraz z niezbędnymi dokumentami.
+
+2. Organ nadzoru może odmówić dokonania zmian wpisu do rejestru brokerów ubezpieczeniowych, jeżeli osoba fizyczna lub prawna nie spełnia warunków określonych w art. 28. Odmowa dokonania wpisu zmian następuje w drodze decyzji.
 
 3. Organ nadzoru może odmówić wpisu do rejestru brokerów ubezpieczeniowych, jeżeli osoby fizyczne, przy pomocy których mają być wykonywane czynności brokerskie, nie spełniają wymogów określonych w art. 28 ust. 3 pkt 1 lit. a-e. Odmowa wpisu następuje w drodze decyzji.
 
@@ -241,13 +273,32 @@ source: "isap-pdf"
 
 - **34)** w art. 48 ust. 1 otrzymuje brzmienie: „1. Kto, nie będąc agentem ubezpieczeniowym, brokerem ubezpieczeniowym lub reasekuracyjnym albo podmiotem wykonującym czynności agencyjne albo czynności brokerskie w zakresie ubezpieczeń lub reasekuracji na terytorium Rzeczypospolitej Polskiej, zgodnie z art. 16 ust. 1 i art. 31 ust. 1, używa określeń wskazujących na wykonywanie czynności agencyjnych albo czynności brokerskich w zakresie ubezpieczeń lub reasekuracji w nazwie, reklamie lub do oznaczania własnej działalności gospodarczej podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do roku.”.
 
-**Art. 2.** W ustawie z dnia 9 września 2000 r. o opłacie skarbowej (Dz.U. z 2004 r. Nr 253, poz. 2532 oraz z 2005 r. Nr 14, poz. 115) w załączniku w części II ust. 30 otrzymuje brzmienie: Część Przedmiot opłaty skarbowej Stawka Zwolnienia 1 2 3 4 II Czynności urzędowe „30. Od zmiany wpisu do rejestru agentów ubezpieczeniowych:
+**Art. 2.** W ustawie z dnia 9 września 2000 r. o opłacie skarbowej (Dz.U. z 2004 r. Nr 253, poz. 2532 oraz z 2005 r. Nr 14, poz. 115) w załączniku w części II ust. 30 otrzymuje brzmienie: Część Przedmiot opłaty skarbowej Stawka Zwolnienia 1 2 3 4 II Czynności urzędowe „30. Od zmiany wpisu do reje- Zmiana wpisu do rejestru agentów stru agentów ubezpiecze- ubezpieczeniowych obejmująca: niowych: 1) imiona i nazwisko, numer
+
+- **1)** 50% stawki określo- PESEL lub, gdy ten nie nej od wpisu, z za- nadany, numer paszportu, strzeżeniem pkt 2, dowodu osobistego lub
+- **2)** 100% stawki określo- go dokumentu potwierdzająnej od wpisu, jeżeli cego tożsamość, adres zazmiana wpisu nastąpi mieszkania, numer w ewidenna wniosek zakładu cji działalności gospodarczej ubezpieczeń w albo numer w rejestrze związkuz zawarciem siębiorców, firmę przedsięzwiązku z zawarciem biorcy, pod którą wykonywaumowy agencyjnej z na jest działalność gospodaragentem ubezpiecze- cza, siedzibę i adres - w niowym, który został padku agenta ubezpieczeniowpisany do rejestru wego będącego osobą fizyczna uprzedni wniosek ną, innego zakładu ubez- 2) nazwę podmiotu lub firmę, pieczeń siedzibę i adres, numer jestrze przedsiębiorców przypadku agenta ubezpieczeniowego będącego osobą prawną lub jednostką organizacyjną nieposiadającą bowości prawnej,
+- **3)** imiona i nazwisko, numer PESEL lub, gdy ten nie nadany, numer paszportu, dowodu osobistego lub go dokumentu potwierdzającego tożsamość, adres zamieszkania - w przypadku osób fizycznych, przy pomocy których agent ubezpieczeniowy wykonuje czynności agencyjne,
+- **4)** numer polisy potwierdzający zawarcie umowy obowiązkowego ubezpieczenia wiedzialności cywilnej, obowiązywania tej umowy ubezpieczenia oraz nazwę kładu ubezpieczeń, z którym zawarto tę umowę - w przypadku agenta ubezpieczeniowego działającego na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie samego działu ubezpieczeń, zgodnie z załącznikiem ustawy o działalności ubezpieczeniowej,
+- **5)** wykreślenie agenta ubezpieczeniowego na wniosek kładu ubezpieczeń.”
 
 **Art. 3.** (uchylony).
 
 **Art. 4.** W ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych (Dz.U. Nr 124, poz. 1152 i Nr 170, poz. 1651 oraz z 2004 r. Nr 93, poz. 891 i Nr 96, poz. 959) wprowadza się następujące zmiany:
 
-**Art. 5.** Minister właściwy do spraw instytucji finansowych niezwłocznie poinformuje Komisję Europejską, że zastrzega wymóg informowania Komisji Nadzoru Ubezpieczeń i Funduszy Emerytalnych, jako organu prowadzącego rejestr pośredników ubezpieczeniowych, przez właściwe organy w państwach członkowskich Unii Europejskiej, prowadzące rejestry pośredników ubezpieczeniowych, o zamiarze podjęcia na terytoniowego przez pośredników ubezpieczeniowych zarejestrowanych w tych państwach członkowskich.
+- **1)** w art. 17 dodaje się ust. 3 w brzmieniu: „3. Komisja udziela informacji właściwym organom państw członkowskich Unii Europejskiej oraz może występować o udzielenie informacji do tych organów w sprawach pośrednictwa ubezpieczeniowego, w szczególności dotyczących wykreślenia agenta ubezpieczeniowego lub brokera ubezpieczeniowego z rejestru pośredników ubezpieczeniowych.”;
+- **2)** w art. 20 pkt 5 otrzymuje brzmienie: „5) stwarzanie możliwości polubownego i pojednawczego rozstrzygania sporów między:
+    - **a)** ubezpieczającymi, ubezpieczonymi, uposażonymi lub uprawnionymi z umów ubezpieczenia a zakładami ubezpieczeń,
+    - **b)** ubezpieczającymi, ubezpieczonymi, uposażonymi lub uprawnionymi z umów ubezpieczenia a agentami ubezpieczeniowymi,
+    - **c)** ubezpieczającymi, ubezpieczonymi, uposażonymi lub uprawnionymi z umów ubezpieczenia a brokerami ubezpieczeniowymi,
+    - **d)** towarzystwami emerytalnymi a członkami tych towarzystw oraz wynikłych z uczestnictwa w pracowniczych programach emerytalnych, w szczególności poprzez organizowanie sądów polubownych do rozpatrywania tych sporów;”;
+
+- **3)** w art. 26 w ust. 4 pkt 1 otrzymuje brzmienie: „1) występować do zakładów ubezpieczeń, funduszy emerytalnych, towarzystw emerytalnych, Zakładu Ubezpieczeń Społecznych, Ubezpieczeniowego Funduszu Gwarancyjnego, Polskiego Biura Ubezpieczycieli Komunikacyjnych o udzielenie informacji lub wyjaśnień, udostępnianie akt oraz dokumentów, w szczególności:
+    - **a)** w sprawach indywidualnych, z zastrzeżeniem ust. 5,
+    - **b)** w sprawach postanowień ogólnych warunków ubezpieczenia, które według Rzecznika są niekorzystne dla osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia,
+    - **c)** dotyczących wewnętrznych regulacji tych instytucji, które według Rzecznika są niekorzystne dla osób wymienionych w art. 5 ust. 1,
+    - **d)** na temat nieprawidłowej obsługi osób wymienionych w art. 5 ust. 1, świadczonej przez te instytucje;”.
+
+**Art. 5.** Minister właściwy do spraw instytucji finansowych niezwłocznie poinformuje Komisję Europejską, że zastrzega wymóg informowania Komisji Nadzoru Ubezpieczeń i Funduszy Emerytalnych, jako organu prowadzącego rejestr pośredników ubezpieczeniowych, przez właściwe organy w państwach członkowskich Unii Europejskiej, prowadzące rejestry pośredników ubezpieczeniowych, o zamiarze podjęcia na terytorium Rzeczypospolitej Polskiej działalności w zakresie pośrednictwa ubezpieczeniowego przez pośredników ubezpieczeniowych zarejestrowanych w tych państwach członkowskich.
 
 **Art. 6.** Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
@@ -269,6 +320,9 @@ source: "isap-pdf"
 
 **Art. 9.** Agenci ubezpieczeniowi, o których mowa w art. 9 ust. 1a ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, zarejestrowani przed dniem wejścia w życie niniejszej ustawy, mogą nie spełniać warunku określonego w:
 
+- **1)** art. 9 ust. 1 pkt 2 ustawy wymienionej w art. 1 - jeżeli prawomocny wyrok skazujący zapadł przed dniem wejścia w życie niniejszej ustawy, lub
+- **2)** art. 9 ust. 1 pkt 4 ustawy wymienionej w art. 1.
+
 **Art. 10.** W terminie 30 dni od dnia wejścia w życie ustawy zakłady ubezpieczeń składają wnioski o zmianę danych objętych wpisem do rejestru agentów ubezpieczeniowych w zakresie dotyczącym zakładu ubezpieczeń, z którym agent ubezpieczeniowy zawarł umowę ubezpieczenia, o której mowa w art. 11 ust. 3 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, terminu obowiązywania tej umowy oraz informacji, że agent ubezpieczeniowy jest bankiem, spółdzielczą kasą oszczędnościowo-kredytową albo innym podmiotem, do którego stosuje się szczególne zasady w zakresie spełniania przez osoby wykonujące czynności agencyjne warunku, o którym mowa w art. 9 ust. 1 pkt 5.
 
 **Art. 11.**
@@ -282,4 +336,9 @@ source: "isap-pdf"
 **Art. 13.** Przepisy wykonawcze wydane na podstawie przepisów upoważniających zmienianych niniejszą ustawą pozostają w mocy do czasu wej ścia w życie przepisów wydanych na podstawie przepisów upoważniających w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 3 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 3 w zakresie dodawanego art. 4c, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **2)** art. 1 pkt 26 lit. a tiret drugie, lit. c i d oraz pkt 31 lit. b, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
+- **3)** art. 5, który wchodzi w życie z dniem ogłoszenia.
+
 

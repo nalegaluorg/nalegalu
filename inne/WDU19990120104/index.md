@@ -8,7 +8,7 @@ pos: 104
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 1. Rozporządzenie określa szczegółowe zasady ustaleniu prawa do świadczeń pieniężnych świadczeń, do których przyznawania i Społecznych, zwany dalej „Zakładem:,

@@ -8,10 +8,10 @@ pos: 325
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 marca 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 325 RozpoRządzenie MinistRa zdRowia z dnia 12 marca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000325) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/325/text.pdf) |
 
-Poz. 325 RozpoRządzenie MinistRa zdRowia z dnia 12 marca 2012 r.
-w sprawie wycofania substancji chemicznej, jej mieszaniny lub wyrobu z obrotu Na podstawie art. 27b ust. 4 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej z 2011 r. 212,
-1263) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) warunki, tryb sposób wycofania z obrotu substancji chemicznej, jej mieszaniny lub wyrobu, o których mowa w art. 27b ust. 1–3 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, zwanych dalej „substancją chemiczną, jej mieszaniną lub wyrobem”;
-2) warunki sposób przechowywania substancji chemicznej, jej mieszaniny lub wyrobu, w stosunku do których wydano decyzję o wycofaniu z obrotu.
-§ 2. Producent, importer, dalszy użytkownik, a także dystrybutor w rozumieniu art. 3 pkt 9, 11,13 14 (WE) nr 1907/2006 Parlamentu Europejskiego Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń stosowanych ograniczeń w zakresie chemikaliów (REACH) utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE 2000/21/WE Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.), po doręczeniu mu podlegającej wykonaniu decyzji o wycofaniu z obrotu substancji chemicznej, jej mieszaniny lub wyrobu natychmiast podejmuje następujące działania:
+w sprawie wycofania substancji chemicznej, jej mieszaniny lub wyrobu z obrotu Na podstawie art. 27b ust. 4 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2011 r. Nr 212, poz. 1263) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) warunki, tryb i sposób wycofania z obrotu substancji chemicznej, jej mieszaniny lub wyrobu, o których mowa w art. 27b ust. 1–3 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, zwanych dalej „substancją chemiczną, jej mieszaniną lub wyrobem”;
+2) warunki i sposób przechowywania substancji chemicznej, jej mieszaniny lub wyrobu, w stosunku do których wydano decyzję o wycofaniu z obrotu.
+§ 2. Producent, importer, dalszy użytkownik, a także dystrybutor w rozumieniu art. 3 pkt 9, 11,13 i 14 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.), po doręczeniu mu podlegającej wykonaniu decyzji o wycofaniu z obrotu substancji chemicznej, jej mieszaniny lub wyrobu natychmiast podejmuje następujące działania:
 1) zabezpiecza posiadane zapasy substancji chemicznej, jej mieszaniny lub wyrobu przed dalszym wprowadzaniem do obrotu, w szczególności przez umieszczenie substancji chemicznej, jej mieszaniny lub wyrobu lub ich pozostałości, w tym opakowania, w trwale zamkniętym opakowaniu lub w magazynie;
 2) informuje wszystkich bezpośrednich odbiorców, którym dostarczył substancję chemiczną, jej mieszaninę lub wyrób, o wydaniu decyzji o wycofaniu z obrotu substancji chemicznej, jej mieszaniny lub wyrobu;
 3) przyjmuje od bezpośrednich odbiorców zwrot substancji chemicznej, jej mieszaniny lub wyrobu;
@@ -38,8 +37,8 @@ w sprawie wycofania substancji chemicznej, jej mieszaniny lub wyrobu z obrotu Na
 § 3. 1. Substancję chemiczną, jej mieszaninę lub wyrób, w stosunku do których wydano decyzje o wycofaniu z obrotu:
 1) przechowuje się w sposób zapewniający, że nie zostaną ponownie wprowadzone do obrotu;
 2) zabezpiecza się przed dostępem osób postronnych;
-3) zabezpiecza się przed wywołaniem zagrożenia dla środowiska, w szczególności zanieczyszczeniem gleby wody.
-2. Substancję chemiczną, jej mieszaninę lub wyrób, w stosunku do których wydano decyzje o wycofaniu z obrotu, przechowuje się, zapewniając właściwy poziom ochrony zdrowia środowiska.
+3) zabezpiecza się przed wywołaniem zagrożenia dla środowiska, w szczególności zanieczyszczeniem gleby i wody.
+2. Substancję chemiczną, jej mieszaninę lub wyrób, w stosunku do których wydano decyzje o wycofaniu z obrotu, przechowuje się, zapewniając właściwy poziom ochrony zdrowia i środowiska.
 § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Zdrowia: B.A. Arłukowicz
 

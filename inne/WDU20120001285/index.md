@@ -8,7 +8,7 @@ pos: 1285
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 121/10/A/2012 WYROK z dnia 13 listopada 2012 r.

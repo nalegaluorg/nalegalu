@@ -8,7 +8,7 @@ pos: 1369
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wsparciu rozwoju kompetencji cyfrowych nauczycieli

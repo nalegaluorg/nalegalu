@@ -8,12 +8,12 @@ pos: 9
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o systemie instytucji rozwoju
+# o systemie instytucji rozwoju
 
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 grudnia 2025 r.*
+*USTAWA z dnia 4 lipca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,27 +24,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-12-19 |
 | Data wydania | 2026-01-07 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/9/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2024 r. poz. 923), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 6 marca 2025 r. o zmianie ustawy o systemie instytucji rozwoju (Dz. U. poz. 352),
-2) ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769),
-3) ustawą z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 grudnia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 2 ustawy z dnia 6 marca 2025 r. o zmianie ustawy o systemie instytucji rozwoju (Dz. U. poz. 352), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), który stanowi: „Art. 48. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-2) art. 28 oraz art. 44, które wchodzą w życie po upływie miesięcy od dnia ogłoszenia.”;
-3) art. 15 ustawy z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 6, art. 3 pkt 2, art. 4 pkt 2 lit. c i pkt 3, art. 6 pkt 4, art. 7 pkt 5 i art. 12 pkt 2 lit. b, które wchodzą w życie z dniem 1 stycznia 2026 r.”.
-Marszałek Sejmu: W. Czarzasty
-USTAWA z dnia 4 lipca 2019 r.
-o systemie instytucji rozwoju
 Art. 22–32. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady funkcjonowania systemu instytucji rozwoju i tryb współpracy między instytucjami tworzącymi system instytucji rozwoju;
+- **2)** rolę Polskiego Funduszu Rozwoju Spółki Akcyjnej z siedzibą w Warszawie, zwanego dalej „Polskim Funduszem Rozwoju”, w systemie instytucji rozwoju;
+- **3)** warunki finansowania przedsiębiorców przez Polski Fundusz Rozwoju.
 
 **Art. 2.**
 
@@ -55,7 +46,7 @@ Art. 22–32. (pominięte)
 - **3)** Polska Agencja Rozwoju Przedsiębiorczości,
 - **4)** Korporacja Ubezpieczeń Kredytów Eksportowych Spółka Akcyjna,
 - **5)** Polska Agencja Inwestycji i Handlu Spółka Akcyjna,
-- **6)** Agencja Rozwoju Przemysłu Spółka Akcyjna zwane dalej „instytucjami rozwoju”.
+- **6)** Agencja Rozwoju Przemysłu Spółka Akcyjna – zwane dalej „instytucjami rozwoju”.
 
 2. Instytucje rozwoju mogą posługiwać się nazwą „Grupa Polskiego Funduszu Rozwoju”, skrótem „Grupa PFR” i wspólnym znakiem identyfikującym, wskazanymi obok odpowiednio nazwy lub firmy instytucji rozwoju.
 
@@ -97,8 +88,8 @@ Art. 22–32. (pominięte)
 
 1. W skład Rady wchodzą:
 
-- **1)** przewodniczący Rady prezes zarządu Polskiego Funduszu Rozwoju;
-- **2)** wiceprzewodniczący Rady prezes zarządu Banku Gospodarstwa Krajowego;
+- **1)** przewodniczący Rady – prezes zarządu Polskiego Funduszu Rozwoju;
+- **2)** wiceprzewodniczący Rady – prezes zarządu Banku Gospodarstwa Krajowego;
 - **3)** pozostali członkowie:
     - **a)** Prezes Polskiej Agencji Rozwoju Przedsiębiorczości,
     - **b)** prezes zarządu Korporacji Ubezpieczeń Kredytów Eksportowych Spółki Akcyjnej,
@@ -121,7 +112,7 @@ Art. 22–32. (pominięte)
 
 3. Przewodniczący Rady organizuje prace Rady i kieruje nimi, w szczególności zwołuje jej posiedzenia.
 
-4. W przypadku gdy osobisty udział członka Rady w posiedzeniu nie jest możliwy, nieobecnego członka Rady zastępuje upoważniony przez niego członek zarządu właściwej instytucji rozwoju, a w przypadku Prezesa Polskiej Agencji Rozwoju Przedsiębiorczości jego zastępca, którym przysługują uprawnienia członka Rady.
+4. W przypadku gdy osobisty udział członka Rady w posiedzeniu nie jest możliwy, nieobecnego członka Rady zastępuje upoważniony przez niego członek zarządu właściwej instytucji rozwoju, a w przypadku Prezesa Polskiej Agencji Rozwoju Przedsiębiorczości – jego zastępca, którym przysługują uprawnienia członka Rady.
 
 **Art. 6.**
 
@@ -159,7 +150,7 @@ Art. 22–32. (pominięte)
 3. Do dnia 30 czerwca ostatniego roku obowiązywania Strategii przewodniczący Rady przedkłada projekt nowej Strategii do zaopiniowania:
 
 - **1)** ministrowi właściwemu do spraw gospodarki;
-- **2)** ministrowi właściwemu do spraw rozwoju regionalnego w zakresie zgodności ze średniookresową strategią rozwoju kraju w rozumieniu przepisów ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+- **2)** ministrowi właściwemu do spraw rozwoju regionalnego – w zakresie zgodności ze średniookresową strategią rozwoju kraju w rozumieniu przepisów ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
 
 4. Minister właściwy do spraw gospodarki oraz minister właściwy do spraw rozwoju regionalnego opiniują projekt Strategii w terminie 45 dni od dnia jego otrzymania, a następnie przekazują opinie przewodniczącemu Rady. Przewodniczący Rady może zmienić projekt Strategii, biorąc pod uwagę opinie ministra właściwego do spraw gospodarki lub ministra właściwego do spraw rozwoju regionalnego. W przypadku nieuwzględnienia opinii w całości albo w części przewodniczący Rady pisemnie informuje ministra właściwego do spraw gospodarki lub ministra właściwego do spraw rozwoju regionalnego o przyczynach nieuwzględnienia opinii w całości albo w części, w terminie 30 dni od dnia ich otrzymania.
 
@@ -210,8 +201,8 @@ Art. 22–32. (pominięte)
 
 1b. Polski Fundusz Rozwoju lub jego spółka zależna mogą jednocześnie:
 
-- **1)** wykonywać czynności polegające na zarządzaniu portfelem inwestycyjnym funduszu lub jego częścią na podstawie umowy, o której mowa w art. 46 ust. 3a ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, oraz
-- **2)** prowadzić działalność jako zarządzający ASI w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi po uzyskaniu zezwolenia, o którym mowa w art. 70t ust. 1 tej ustawy, lub wpisu do rejestru, o którym mowa w art. 70zb ust. 1 tej ustawy.
+- **1)** wykonywać czynności polegające na zarządzaniu portfelem inwestycyjnym funduszu lub jego częścią – na podstawie umowy, o której mowa w art. 46 ust. 3a ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, oraz
+- **2)** prowadzić działalność jako zarządzający ASI w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi – po uzyskaniu zezwolenia, o którym mowa w art. 70t ust. 1 tej ustawy, lub wpisu do rejestru, o którym mowa w art. 70zb ust. 1 tej ustawy.
 
 1c. W przypadku jednoczesnego wykonywania czynności, o których mowa w ust. 1b pkt 1, oraz prowadzenia działalności, o której mowa w ust. 1b pkt 2, przez Polski Fundusz Rozwoju lub jego spółkę zależną nie stosuje się ograniczenia określonego w art. 70e ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi.
 
@@ -226,7 +217,7 @@ Art. 22–32. (pominięte)
 - **5)** wykonywanie zadań związanych z pracowniczymi planami kapitałowymi, o których mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427 oraz z 2025 r. poz. 1216);
 - **6)** podejmowanie działań służących zapobieganiu lub łagodzeniu skutków sytuacji kryzysowych w rozumieniu art. 3 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907), w tym skutków rozprzestrzeniania się COVID-19, w szczególności poprzez:
     - **a)** udzielanie wsparcia finansowego przedsiębiorcom i innym podmiotom dotkniętym tymi sytuacjami, w tym bezzwrotnego lub w formie gwarancji lub poręczeń,
-    - **b)** naprawienie lub pokrycie, w całości lub w części, szkód lub strat spowodowanych tymi sytuacjami z wykorzystaniem środków własnych Polskiego Funduszu Rozwoju lub środków z innych źródeł;
+    - **b)** naprawienie lub pokrycie, w całości lub w części, szkód lub strat spowodowanych tymi sytuacjami – z wykorzystaniem środków własnych Polskiego Funduszu Rozwoju lub środków z innych źródeł;
 
 - **6a)** podejmowanie działań związanych z realizacją rządowego programu udzielania wsparcia finansowego przedsiębiorcom oraz innym podmiotom przyjętego w związku z zakazem, o którym mowa w art. 12a ust. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2025 r. poz. 184);
 - **7)** dokonywanie wypłat w ramach planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
@@ -238,7 +229,7 @@ Art. 22–32. (pominięte)
 
 5. Zasady prowadzenia wyodrębnionej ewidencji oraz metody przypisywania przychodów i kosztów zgodnie z podziałem środków, o którym mowa w ust. 4, Polski Fundusz Rozwoju określa w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości.
 
-6. Polski Fundusz Rozwoju może powierzyć wykonywanie zadań, o których mowa w ust. 2 pkt 1, 4 i 6, swojej spółce zależnej w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), funduszowi inwestycyjnemu, którym zarządza, lub funduszowi inwestycyjnemu, którym zarządza taka spółka, a także innym instytucjom rozwoju. Przepisy ustawy dotyczące wykonywania tych zadań przez Polski Fundusz Rozwoju stosuje się do podmiotów, o których mowa w zdaniu pierwszym, którym zostały powierzone zadania. Do powierzenia, o którym mowa w zdaniu pierwszym, nie stosuje się art. 15.
+6. Polski Fundusz Rozwoju może powierzyć wykonywanie zadań, o których mowa w ust. 2 pkt 1, 4 i 6, swojej spółce zależnej w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), funduszowi inwestycyjnemu, którym zarządza, lub funduszowi inwestycyjnemu, którym zarządza taka spółka, a także innym instytucjom rozwoju. Przepisy ustawy dotyczące wykonywania tych zadań przez Polski Fundusz Rozwoju stosuje się do podmiotów, o których mowa w zdaniu pierwszym, którym zostały powierzone zadania. Do powierzenia, o którym mowa w zdaniu pierwszym, nie stosuje się art. 15.
 
 7. Polski Fundusz Rozwoju może zlecić, na podstawie umowy, wykonywanie zadań, o których mowa w ust. 2 pkt 6, także innemu funduszowi inwestycyjnemu niż wymieniony w ust. 6, innym instytucjom rozwoju, zakładom ubezpieczeń lub bankom. Do powierzenia, o którym mowa w zdaniu pierwszym, nie stosuje się art. 15.
 
@@ -267,7 +258,7 @@ Art. 22–32. (pominięte)
 3. Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe:
 
 - **1)** przeznaczenie i warunki udzielania finansowania, o którym mowa w ust. 1a,
-- **2)** warunki wypłaty wynagrodzenia, o którym mowa w ust. 2 mając na uwadze dopuszczalność i warunki udzielania pomocy państwa określone przez właściwe organy Unii Europejskiej.
+- **2)** warunki wypłaty wynagrodzenia, o którym mowa w ust. 2 – mając na uwadze dopuszczalność i warunki udzielania pomocy państwa określone przez właściwe organy Unii Europejskiej.
 
 **Art. 13.**
 
@@ -281,6 +272,11 @@ Art. 22–32. (pominięte)
 3. Polski Fundusz Rozwoju może tworzyć i współtworzyć fundusze kapitałowe oraz przystępować do funduszy kapitałowych.
 
 **Art. 14.** Polski Fundusz Rozwoju udziela finansowania za pośrednictwem funduszy kapitałowych w formie:
+
+- **1)** obejmowania lub nabywania udziałów lub akcji funduszy kapitałowych;
+- **2)** uczestnictwa w funduszach kapitałowych działających w formie spółek komandytowych, komandytowo-akcyjnych lub innych jednostek organizacyjnych nieposiadających osobowości prawnej oraz instytucji wspólnego inwestowania mających siedzibę za granicą w rozumieniu przepisów ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
+- **3)** nabywania certyfikatów inwestycyjnych lub jednostek uczestnictwa funduszy kapitałowych;
+- **4)** nabywania emitowanych przez fundusze kapitałowe obligacji, obligacji zamiennych na akcje, obligacji z prawem pierwszeństwa i warrantów subskrypcyjnych.
 
 **Art. 15.**
 
@@ -386,7 +382,7 @@ Art. 22–32. (pominięte)
 
 **Art. 19a.**
 
-- **5)** 1. Minister właściwy do spraw budżetu, na uzasadniony wniosek ministra właściwego do spraw aktywów państwowych, może przekazać skarbowe papiery wartościowe na podwyższenie kapitału zakładowego Agencji Rozwoju Przemysłu Spółki Akcyjnej, jeżeli jest to niezbędne do realizacji zadań Agencji Rozwoju Przemysłu Spółki Akcyjnej, w tym zadań, o których mowa w art. 2 ust. 3 i art. 21, oraz zadań związanych z restrukturyzacją lub likwidacją przedsiębiorców.
+1. Minister właściwy do spraw budżetu, na uzasadniony wniosek ministra właściwego do spraw aktywów państwowych, może przekazać skarbowe papiery wartościowe na podwyższenie kapitału zakładowego Agencji Rozwoju Przemysłu Spółki Akcyjnej, jeżeli jest to niezbędne do realizacji zadań Agencji Rozwoju Przemysłu Spółki Akcyjnej, w tym zadań, o których mowa w art. 2 ust. 3 i art. 21, oraz zadań związanych z restrukturyzacją lub likwidacją przedsiębiorców.
 
 2. We wniosku, o którym mowa w ust. 1, wskazuje się w szczególności:
 
@@ -416,13 +412,30 @@ Art. 22–32. (pominięte)
 
 7. Akcje w podwyższonym kapitale zakładowym Agencji Rozwoju Przemysłu Spółki Akcyjnej zostaną objęte przez Skarb Państwa.
 
-8. Do podwyższenia kapitału zakładowego przedsiębiorstwa, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+8. Do podwyższenia kapitału zakładowego przedsiębiorstwa, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
 9. Agencja Rozwoju Przemysłu Spółka Akcyjna nie może oferować skarbowych papierów wartościowych, o których mowa w ust. 1, w dniu przetargu, w którym są zbywane przez ministra właściwego do spraw budżetu skarbowe papiery wartościowe, ani w okresie dwóch dni roboczych poprzedzających dzień tego przetargu.
 
 10. Maksymalna, nominalna dzienna wartość sprzedaży skarbowych papierów wartościowych, o których mowa w ust. 1, przez Agencję Rozwoju Przemysłu Spółkę Akcyjną wynosi 50 000 000 zł.
 
 11. Dokonanie przez Agencję Rozwoju Przemysłu Spółkę Akcyjną sprzedaży skarbowych papierów wartościowych, o których mowa w ust. 1, o wartości wyższej niż określona w ust. 10, wymaga zgody ministra właściwego do spraw budżetu.
+
+**Art. 19b.**
+
+1. Środki pochodzące ze sprzedaży skarbowych papierów wartościowych, o których mowa w art. 19a ust. 1, mogą być przeznaczone na udzielanie przez Agencję Rozwoju Przemysłu Spółkę Akcyjną pożyczek na rzecz:
+
+- **1)** przedsiębiorstwa górniczego w rozumieniu art. 2 pkt 1 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2026 r. poz. 520),
+- **2)** przedsiębiorcy posiadającego koncesję na wydobywanie węgla kamiennego ze złoża, o której mowa w art. 22 ust. 1 pkt 2 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69),
+- **3)** przedsiębiorcy prowadzącego likwidację podziemnego zakładu górniczego wydobywającego węgiel kamienny lub oznaczonej części takiego zakładu górniczego na podstawie zatwierdzonego planu ruchu likwidowanego podziemnego zakładu górniczego lub likwidowanej oznaczonej części zakładu górniczego, o którym mowa w art. 129 ust. 4 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze,
+- **4)** przedsiębiorstwa lub przedsiębiorcy innych niż wymienieni w pkt 1–3 o istotnym znaczeniu dla gospodarki narodowej lub jej sektora wskazanego w rządowych dokumentach strategicznych, w tym działających w sektorze górnictwa – zwanych dalej „pożyczkobiorcami”.
+
+2. Pożyczki, o których mowa w ust. 1, mogą być przeznaczone na reorganizację funkcjonowania pożyczkobiorców zmierzającą do zmniejszenia kosztów ich działalności lub ich optymalizację. Cel pożyczki nie może być tożsamy z celem mechanizmu wsparcia publicznego, o którym mowa w art. 2 pkt 6 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego.
+
+3. Agencja Rozwoju Przemysłu Spółka Akcyjna udziela pożyczek, o których mowa w ust. 1, na podstawie umowy.
+
+4. Warunkiem udzielenia pożyczki, o której mowa w ust. 1, jest ustalenie przez Agencję Rozwoju Przemysłu Spółkę Akcyjną, na podstawie programu naprawczego przedstawionego przez pożyczkobiorcę, że posiada on perspektywiczną zdolność do spłaty zobowiązań wynikających z udzielanej pożyczki.
+
+5. Udzielenie pożyczki, o której mowa w ust. 1, wymaga uzyskania uprzedniej opinii rady nadzorczej i zgody walnego zgromadzenia Agencji Rozwoju Przemysłu Spółki Akcyjnej.
 
 **Art. 20.**
 
@@ -464,8 +477,8 @@ Art. 22–32. (pominięte)
 
 1. Rada Ministrów może powierzyć Polskiemu Funduszowi Rozwoju realizację rządowego programu udzielania wsparcia finansowego, w szczególności w formach, o których mowa w art. 13 ust. 1, lub w formach bezzwrotnych:
 
-- **1)** przedsiębiorcom w związku ze skutkami COVID-19;
-- **2)** przedsiębiorcom oraz innym podmiotom w związku z zakazem, o którym mowa w art. 12a ust. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej.
+- **1)** przedsiębiorcom – w związku ze skutkami COVID-19;
+- **2)** przedsiębiorcom oraz innym podmiotom – w związku z zakazem, o którym mowa w art. 12a ust. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej.
 
 2. Program rządowy określa w szczególności warunki i okres udzielania przedsiębiorcom lub innym podmiotom wsparcia finansowego, o którym mowa w ust. 1, sposób przygotowania i elementy rocznych planów udzielania tego finansowania oraz sprawozdawczości z ich realizacji.
 
@@ -473,8 +486,8 @@ Art. 22–32. (pominięte)
 
 2b. W celu uzyskania wsparcia finansowego, o którym mowa w ust. 1, przedsiębiorca lub inny podmiot zobowiązany jest do złożenia:
 
-- **1)** Polskiemu Funduszowi Rozwoju w przypadku rządowego programu, o którym mowa w ust. 1 pkt 1,
-- **2)** właściwemu wojewodzie w przypadku rządowego programu, o którym mowa w ust. 1 pkt 2 oświadczeń wymaganych do ustalenia możliwości objęcia przedsiębiorcy lub innego podmiotu wsparciem finansowym.
+- **1)** Polskiemu Funduszowi Rozwoju – w przypadku rządowego programu, o którym mowa w ust. 1 pkt 1,
+- **2)** właściwemu wojewodzie – w przypadku rządowego programu, o którym mowa w ust. 1 pkt 2 – oświadczeń wymaganych do ustalenia możliwości objęcia przedsiębiorcy lub innego podmiotu wsparciem finansowym.
 
 2c. Oświadczenia, o których mowa w ust. 2b, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -510,13 +523,13 @@ Art. 22–32. (pominięte)
 6a. Na wniosek ministra właściwego do spraw gospodarki, w celach analityczno-sprawozdawczych:
 
 - **1)** właściwy wojewoda udostępnia zgromadzone dane dotyczące przedsiębiorców lub innych podmiotów, którzy ubiegali się lub otrzymali wsparcie,
-- **2)** Polski Fundusz Rozwoju udostępnia dokumenty potwierdzające dokonanie wypłaty wsparcia o którym mowa w ust. 1 pkt 2.
+- **2)** Polski Fundusz Rozwoju udostępnia dokumenty potwierdzające dokonanie wypłaty wsparcia – o którym mowa w ust. 1 pkt 2.
 
 7. Dane, o których mowa w ust. 6, obejmują:
 
 - **1)** firmę przedsiębiorcy;
 - **2)** siedzibę i adres przedsiębiorcy;
-- **3)** status przedsiębiorcy zgodnie z art. 7 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480) wskazany przez przedsiębiorcę we wniosku o udzielenie wsparcia;
+- **3)** status przedsiębiorcy zgodnie z art. 7 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480) wskazany przez przedsiębiorcę we wniosku o udzielenie wsparcia;
 - **4)** przedmiot działalności gospodarczej wskazany przez przedsiębiorcę we wniosku o udzielenie wsparcia, zgodnie z Polską Klasyfikacją Działalności Gospodarczej (PKD);
 - **5)** status rozpatrywania wniosku o wsparcie;
 - **6)** formę wnioskowanego wsparcia;
@@ -532,7 +545,7 @@ Art. 22–32. (pominięte)
 
 - **1)** firmę przedsiębiorcy lub innego podmiotu;
 - **2)** siedzibę i adres przedsiębiorcy lub innego podmiotu;
-- **3)** status przedsiębiorcy lub innego podmiotu zgodnie z art. 7 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców wskazany przez przedsiębiorcę lub inny podmiot we wniosku o udzielenie wsparcia;
+- **3)** status przedsiębiorcy lub innego podmiotu zgodnie z art. 7 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców wskazany przez przedsiębiorcę lub inny podmiot we wniosku o udzielenie wsparcia;
 - **4)** przedmiot działalności gospodarczej wskazany przez przedsiębiorcę lub inny podmiot we wniosku o udzielenie wsparcia, zgodnie z Polską Klasyfikacją Działalności Gospodarczej (PKD);
 - **5)** status rozpatrywania wniosku o wsparcie;
 - **6)** formę wnioskowanego wsparcia;
@@ -563,7 +576,7 @@ Art. 22–32. (pominięte)
 
 7. Do emisji przez Polski Fundusz Rozwoju obligacji, o których mowa w ust. 1, stosuje się odpowiednio art. 39p–39w ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym. Art. 21ab. 1. W celu realizacji rządowego programu udzielania przedsiębiorcom lub innym podmiotom wsparcia finansowego, o którym mowa w art. 21a ust. 1, Polski Fundusz Rozwoju lub wojewoda mogą uzyskiwać nieodpłatnie dane:
 
-- **1)** z systemów teleinformatycznych ministra właściwego do spraw finansów publicznych oraz organów Krajowej Administracji Skarbowej, w tym dane, informacje i dokumenty, o których mowa w dziale IIIB ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), dokumenty, o których mowa w art. 193a § 1 i § 2 tej ustawy, oraz informacje o wynikach kontroli podatkowych lub czynności sprawdzających prowadzonych przez organy Krajowej Administracji Skarbowej;
+- **1)** z systemów teleinformatycznych ministra właściwego do spraw finansów publicznych oraz organów Krajowej Administracji Skarbowej, w tym dane, informacje i dokumenty, o których mowa w dziale IIIB ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), dokumenty, o których mowa w art. 193a § 1 i § 2 tej ustawy, oraz informacje o wynikach kontroli podatkowych lub czynności sprawdzających prowadzonych przez organy Krajowej Administracji Skarbowej;
 - **2)** ze zbiorów danych, w tym zbiorów danych osobowych prowadzonych przez organy władzy publicznej oraz państwowe jednostki organizacyjne;
 - **3)** z Centralnej Informacji Krajowego Rejestru Sądowego, o których mowa w art. 4 ust. 4a i 4b ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869 i 1556), przy czym dane te będą przekazywane Polskiemu Funduszowi Rozwoju lub wojewodzie w sposób zbiorczy;
 - **4)** z Monitora Sądowego i Gospodarczego, przy czym dane te będą przekazywane Polskiemu Funduszowi Rozwoju lub wojewodzie w sposób zbiorczy;
@@ -624,9 +637,13 @@ Art. 22–32. (pominięte)
 
 4. Przeniesienie aktywów funduszu inwestycyjnego zamkniętego na alternatywną spółkę inwestycyjną traktowane jest jako wniesienie wkładu przez wspólnika lub akcjonariusza alternatywnej spółki inwestycyjnej, będącego jednocześnie uczestnikiem funduszu inwestycyjnego zamkniętego, obejmującego prawa uczestnictwa tej spółki, o których mowa w art. 8c ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi.
 
-5. W przypadku przenoszenia aktywów funduszy inwestycyjnych zamkniętych na alternatywne spółki inwestycyjne działające w formie spółek komandytowo-akcyjnych albo spółek akcyjnych przepisów art. 311–312 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) nie stosuje się.
+5. W przypadku przenoszenia aktywów funduszy inwestycyjnych zamkniętych na alternatywne spółki inwestycyjne działające w formie spółek komandytowo-akcyjnych albo spółek akcyjnych przepisów art. 311–312 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i
 
-6. Po podjęciu uchwał, o których mowa w ust. 1 i 3, towarzystwo funduszy inwestycyjnych, działając w imieniu funduszu inwestycyjnego zamkniętego, oraz zarządzający alternatywną spółką inwestycyjną, działając w imieniu alternatywnej spółki inwestycyjnej, zawierają umowę, na podstawie której aktywa funduszu zostaną przeniesione, na warunkach wskazanych w uchwale, o której mowa w ust. 1. Zawarcie umowy i przeniesienie aktywów funduszu na zasadach określonych w uchwale, o której mowa w ust. 1, nie stanowi działania niezgodnego z interesem uczestników tego funduszu oraz inwestorów alternatywnej spółki inwestycyjnej.
+- **96)** nie stosuje się.
+
+6. Po podjęciu uchwał, o których mowa w ust. 1 i 3, towarzystwo funduszy inwestycyjnych, działając w imieniu funduszu inwestycyjnego zamkniętego, oraz zarządzający alternatywną spółką inwestycyjną, działając w imieniu alternatywnej spółki inwestycyjnej, zawierają umowę, na podstawie której aktywa funduszu zostaną przeniesione, na warunkach wskazanych w uchwale, o której mowa w ust.
+
+1. Zawarcie umowy i przeniesienie aktywów funduszu na zasadach określonych w uchwale, o której mowa w ust. 1, nie stanowi działania niezgodnego z interesem uczestników tego funduszu oraz inwestorów alternatywnej spółki inwestycyjnej.
 
 7. Z dniem przeniesienia aktywów funduszu inwestycyjnego zamkniętego na alternatywną spółkę inwestycyjną alternatywna spółka inwestycyjna wchodzi w prawa i obowiązki funduszu inwestycyjnego zamkniętego wynikające z umów regulujących nabycie tych aktywów oraz stosuje zasady realizacji praw i obowiązków wynikających z posiadania przez fundusz przenoszonych aktywów i dla celów realizacji tych praw i obowiązków alternatywna spółka inwestycyjna staje się stroną tych umów.
 
@@ -641,11 +658,11 @@ Art. 22–32. (pominięte)
 
 1. Krajowy Fundusz Kapitałowy Spółka Akcyjna i spółka zależna Polskiego Funduszu Rozwoju, zwana dalej „spółką zależną”, łączą się przez przeniesienie całego majątku Krajowego Funduszu Kapitałowego Spółki Akcyjnej na spółkę zależną.
 
-2. Spółka zależna, z dniem połączenia w rozumieniu art. 493 § 2 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), zwanym dalej „dniem połączenia”, staje się stroną umów zawartych przez Krajowy Fundusz Kapitałowy Spółkę Akcyjną oraz innych umów bezpośrednio związanych z tymi umowami.
+2. Spółka zależna, z dniem połączenia w rozumieniu art. 493 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), zwanym dalej „dniem połączenia”, staje się stroną umów zawartych przez Krajowy Fundusz Kapitałowy Spółkę Akcyjną oraz innych umów bezpośrednio związanych z tymi umowami.
 
 3. W sprawach sądowych, sądowo-administracyjnych, administracyjnych, arbitrażowych i egzekucyjnych, w których stroną lub uczestnikiem jest Krajowy Fundusz Kapitałowy Spółka Akcyjna, stroną lub uczestnikiem, z dniem połączenia, staje się spółka zależna.
 
-4. W zakresie nieuregulowanym ustawą do łączenia, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+4. W zakresie nieuregulowanym ustawą do łączenia, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
 **Art. 34.**
 
@@ -665,15 +682,18 @@ Art. 22–32. (pominięte)
 
 **Art. 37.** W terminie 6 miesięcy od dnia wejścia w życie ustawy:
 
+- **1)** przewodniczący Rady zwołuje pierwsze posiedzenie Rady;
+- **2)** Rada podejmuje uchwałę w sprawie projektu pierwszej Strategii, która obejmuje okres do zakończenia 5 pełnych lat kalendarzowych następujących po dniu jej przyjęcia.
+
 **Art. 38.**
 
 1. Rada przyjmuje swój regulamin na pierwszym posiedzeniu.
 
 2. Rada przyjmuje pierwsze sprawozdanie, o którym mowa w art. 8 ust. 2, do dnia 30 kwietnia 2020 r.
 
-**Art. 39.** Statuty instytucji rozwoju dostosowuje się do przepisów ustawy w terminie miesięcy od dnia wejścia w życie ustawy.
+**Art. 39.** Statuty instytucji rozwoju dostosowuje się do przepisów ustawy w terminie 9 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 40.** W terminie 6 miesięcy od dnia wejścia w życie ustawy zarządy Krajowego Funduszu Kapitałowego Spółki Akcyjnej i spółki zależnej uzgadniają plan połączenia, o którym mowa w art. 498 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+**Art. 40.** W terminie 6 miesięcy od dnia wejścia w życie ustawy zarządy Krajowego Funduszu Kapitałowego Spółki Akcyjnej i spółki zależnej uzgadniają plan połączenia, o którym mowa w art. 498 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
 **Art. 41.**
 
@@ -689,16 +709,16 @@ Art. 22–32. (pominięte)
 
 1. W latach 2020–2029 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi 67 482 549 000 zł, w tym w:
 
-- **1)** 2020 r. 6 700 000 000 zł;
-- **2)** 2021 r. 3 000 000 000 zł;
-- **3)** 2022 r. 1 000 000 000 zł;
-- **4)** 2023 r. 500 000 000 zł;
-- **5)** 2024 r. 0 zł;
-- **6)** 2025 r. 34 662 332 000 zł;
-- **7)** 2026 r. 388 313 000 zł;
-- **8)** 2027 r. 19 075 154 000 zł;
-- **9)** 2028 r. 2 091 750 000 zł;
-- **10)** 2029 r. 65 000 000 zł.
+- **1)** 2020 r. – 6 700 000 000 zł;
+- **2)** 2021 r. – 3 000 000 000 zł;
+- **3)** 2022 r. – 1 000 000 000 zł;
+- **4)** 2023 r. – 500 000 000 zł;
+- **5)** 2024 r. – 0 zł;
+- **6)** 2025 r. – 34 662 332 000 zł;
+- **7)** 2026 r. – 388 313 000 zł;
+- **8)** 2027 r. – 19 075 154 000 zł;
+- **9)** 2028 r. – 2 091 750 000 zł;
+- **10)** 2029 r. – 65 000 000 zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków, wysokości poręczeń i gwarancji Skarbu Państwa udzielanych Polskiemu Funduszowi Rozwoju oraz emisji obligacji w celu podwyższenia kapitału zakładowego Polskiego Funduszu Rozwoju.
 

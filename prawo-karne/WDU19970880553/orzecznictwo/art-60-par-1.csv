@@ -57,6 +57,8 @@ saos_id|date|court|case_number|type|score|saos_url
 84223|2006-04-03|SN|II KK 157/05|Postanowienie|69|https://www.saos.org.pl/judgments/84223
 82676|2004-05-21|SN|I KZP 5/04|Postanowienie|69|https://www.saos.org.pl/judgments/82676
 80749|2001-07-18|SN|IV KKN 205/01|Postanowienie|69|https://www.saos.org.pl/judgments/80749
+546027|2025-10-15|SO|II AKa 158/25|Wyrok|56|https://www.saos.org.pl/judgments/546027
+545836|2025-10-15|SO|II AKa 259/25|Wyrok|56|https://www.saos.org.pl/judgments/545836
 536106|2025-07-31|SO|II AKa 320/24|Wyrok|56|https://www.saos.org.pl/judgments/536106
 544065|2025-07-24|SO|II AKa 317/23|Wyrok|56|https://www.saos.org.pl/judgments/544065
 542463|2025-06-26|SO|II AKa 166/25|Wyrok|56|https://www.saos.org.pl/judgments/542463
@@ -90,6 +92,7 @@ saos_id|date|court|case_number|type|score|saos_url
 500588|2023-07-20|SO|II AKa 184/23|Wyrok|56|https://www.saos.org.pl/judgments/500588
 500721|2023-07-06|SO|II AKa 237/22|Wyrok|56|https://www.saos.org.pl/judgments/500721
 500550|2023-07-05|SO|II AKa 166/23|Wyrok|56|https://www.saos.org.pl/judgments/500550
+545225|2023-06-29|SO|II AKa 139/23|Wyrok|56|https://www.saos.org.pl/judgments/545225
 500496|2023-06-29|SO|II AKa 144/23|Wyrok|56|https://www.saos.org.pl/judgments/500496
 501289|2023-06-14|SO|II AKa 8/23|Wyrok|56|https://www.saos.org.pl/judgments/501289
 501201|2023-05-31|SO|II AKa 55/22|Wyrok|56|https://www.saos.org.pl/judgments/501201
@@ -677,6 +680,7 @@ saos_id|date|court|case_number|type|score|saos_url
 530744|2007-02-15|SO|II AKa 437/06|Wyrok|56|https://www.saos.org.pl/judgments/530744
 129794|2012-09-25|SO|II AKzw 1018/12|Postanowienie|47|https://www.saos.org.pl/judgments/129794
 533125|2025-08-05|SO|II AKa 91/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/533125
+545757|2025-05-28|SO|II AKa 279/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/545757
 527316|2025-04-28|SO|II AKa 2/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/527316
 544243|2025-04-09|SO|II AKa 32/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/544243
 516578|2024-11-20|SO|II AKa 165/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/516578

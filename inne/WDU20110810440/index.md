@@ -8,7 +8,7 @@ pos: 440
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o pomocy społecznej oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
@@ -28,6 +28,15 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110810440) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/440/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 ust. 2 otrzymuje brzmienie: „2. Brak współdziałania osoby lub rodziny z pracownikiem socjalnym w rozwiązywaniu trudnej sytuacji życiowej, odmowa zawarcia kontraktu socjalnego, niedotrzymywanie jego postanowień, nieuzasadniona odmowa podjęcia zatrudnienia, innej pracy zarobkowej przez osobę bezrobotną lub nieuzasadniona odmowa podjęcia lub przerwanie szkolenia, stażu, przygotowania zawodowego w miejscu pracy, wykonywania prac interwencyjnych, robót publicznych lub prac społecznie użytecznych, o których mowa w przepisach o promocji zatrudnienia i instytucjach rynku pracy, lub nieuzasadniona odmowa podjęcia leczenia odwykowego w zakładzie lecznictwa odwykowego przez osobę uzależnioną mogą stanowić podstawę do odmowy przyznania świadczenia, uchylenia decyzji o przyznaniu świadczenia lub wstrzymania świadczeń pieniężnych z pomocy społecznej.”;
+- **2)** po art. 16 dodaje się art. 16a i 16b w brzmieniu: „Art. 16a. 1. Gmina, powiat i samorząd województwa przygotowują ocenę zasobów pomocy społecznej w oparciu o analizę lokalnej sytuacji społecznej i demograficznej.
+
+2. Zasoby, o których mowa w ust. 1, obejmują w szczególności infrastrukturę, kadrę, organizacje pozarządowe i nakłady finansowe na zadania pomocy społecznej bez względu na podmiot je finansujący i realizujący.
+
+3. Ocena, o której mowa w ust. 1, obejmuje osoby i rodziny korzystające z pomocy społecznej, rodzaje ich problemów oraz ich rozkład ilościowy.
+
+4. Organ wykonawczy jednostki samorządu terytorialnego przedstawia co roku do dnia 30 kwietnia odpowiednio radzie gminy, radzie powiatu, a do dnia 30 czerwca sejmikowi województwa właściwej jednostki samorządu terytorialnego ocenę, o której mowa w ust. 1. Ocena wraz z rekomendacjami jest podstawą do planowania budżetu na rok następny.
 
 **Art. 16b.**
 
@@ -143,6 +152,10 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 66 w ust. 1 pkt 30 otrzymuje brzmienie: „30) osoby objęte indywidualnym programem zatrudnienia socjalnego lub realizujące kontrakt socjalny w wyniku zastosowania procedury, o której mowa w art. 50 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm. ), niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;”;
+- **2)** w art. 75 ust. 12 otrzymuje brzmienie: „12. Osoby, o których mowa w art. 66 ust. 1 pkt 29 i 30, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej realizujący indywidualny program zatrudnienia socjalnego lub indywidualny program wychodzenia z bezdomności lub ośrodek pomocy społecznej realizujący kontrakt socjalny w wyniku zastosowania procedury, o której mowa w art. 50 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.”;
+- **3)** w art. 86 w ust. 1 pkt 11 otrzymuje brzmienie: „11) osób, o których mowa w art. 66 ust. 1 pkt 29 i 30, opłaca ośrodek pomocy społecznej realizujący indywidualny program wychodzenia z bezdomności lub kierujący do uczestnictwa w zajęciach w centrum integracji społecznej lub ośrodek pomocy społecznej realizujący kontrakt socjalny w wyniku zastosowania procedury, o której mowa w art. 50 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy;”.
+
 **Art. 3.** Ukończenie przed dniem 1 października 2012 r. studiów podyplomowych, w których programie uwzględniono minimum programowe dla specjalizacji z zakresu organizacji pomocy społecznej, uznaje się za równoznaczne z uzyskaniem przez absolwentów tych studiów specjalizacji z zakresu organizacji pomocy społecznej.
 
 **Art. 4.**
@@ -154,4 +167,10 @@ source: "isap-pdf"
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 52 ust. 3 i art. 118 ust. 3 ustawy zmienianej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 52 ust. 3 i art. 118a ustawy zmienianej w art. 1, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 4, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2010 r.;
+- **2)** art. 1 pkt 22 i 27 oraz art. 3, które wchodzą w życie z dniem 1 października 2012 r.;
+- **3)** art. 1 pkt 26, który wchodzi w życie z dniem 31 grudnia 2013 r.;
+- **4)** art. 1 pkt 18, który wchodzi w życie z dniem 1 stycznia 2015 r.
+
 

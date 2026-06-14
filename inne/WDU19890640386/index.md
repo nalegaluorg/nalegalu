@@ -8,7 +8,7 @@ pos: 386
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Akademii Medycznej we Wrocławiu nadaje się nazwę” Akademia Medyczna imienia Piastów Śląskich we Wrocławiu.”.

@@ -8,7 +8,7 @@ pos: 301
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o świadczeniach rodzinnych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
@@ -29,17 +29,26 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. ) art. 16 ust. 1:
+- **1)** w art. 9 ust. 7 i 8 otrzymują brzmienie: „7. Pozostawanie pod opieką medyczną potwierdza się zaświadczeniem lekarskim lub zaświadczeniem wystawionym przez położną.
 
-**Art. 3.** Dodatek z tytułu urodzenia dziecka lub jednorazowa zapomoga z tytułu urodzenia dziecka, o których mowa art. 9 ust. 1 art. 15b ust. 1 ustawy, o której mowa art. 1, do dnia 31 grudnia 2011 r. przysługują po przedstawieniu zaświadczenia lekarskiego lub zaświadczenia wystawionego przez położną, potwierdzającego co najmniej jedno badanie kobiety okresie ciąży przez lekarza ginekologa lub położną.
+8. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, formę opieki medycznej, o której mowa w ust. 6, oraz wzór zaświadczenia, o którym mowa w ust. 7, uwzględniając odpowiednio rodzaje świadczeń zdrowotnych udzielanych kobiecie w okresie ciąży przez lekarza i położną oraz zakres danych niezbędnych do zapewnienia należytego udokumentowania pozostawania jej pod opieką medyczną w okresie od 10 tygodnia ciąży do porodu.”;
+
+- **2)** w art. 15b ust. 6 otrzymuje brzmienie: „6. Pozostawanie pod opieką medyczną potwierdza się zaświadczeniem lekarskim lub zaświadczeniem wystawionym przez położną. Przepisy wydane na podstawie art. 9 ust. 8 stosuje się odpowiednio.”.
+
+**Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. ) w art. 16 w ust. 1:
+
+- **1)** pkt 1 otrzymuje brzmienie: „1) orzeczenia o zdolności do prowadzenia pojazdów mechanicznych oraz inne orzeczenia i zaświadczenia lekarskie wydawane na życzenie świadczeniobiorcy, jeżeli nie są one związane z dalszym leczeniem, rehabilitacją, niezdolnością do pracy, kontynuowaniem nauki, uczestnictwem dzieci, uczniów, słuchaczy zakładów kształcenia nauczycieli i studentów w zajęciach sportowych i w zorganizowanym wypoczynku, a także jeżeli nie są wydawane dla celów pomocy społecznej, orzecznictwa o niepełnosprawności oraz uzyskania zasiłku pielęgnacyjnego;”;
+- **2)** dodaje się pkt 1a w brzmieniu: „1a) zaświadczenie lekarskie lub zaświadczenie wystawione przez położną, wydawane na życzenie świadczeniobiorcy, jeżeli nie są wydawane dla celów uzyskania dodatku z tytułu urodzenia dziecka lub jednorazowej zapomogi z tytułu urodzenia dziecka;”.
+
+**Art. 3.** Dodatek z tytułu urodzenia dziecka lub jednorazowa zapomoga z tytułu urodzenia dziecka, o których mowa w art. 9 ust. 1 i art. 15b ust. 1 ustawy, o której mowa w art. 1, do dnia 31 grudnia 2011 r. przysługują po przedstawieniu zaświadczenia lekarskiego lub zaświadczenia wystawionego przez położną, potwierdzającego co najmniej jedno badanie kobiety w okresie ciąży przez lekarza ginekologa lub położną.
 
 **Art. 4.**
 
-1. Matka lub ojciec dziecka, którzy przed dniem wejścia życie niniejszej ustawy nie otrzymali dodatku z tytułu urodzenia dziecka lub jednorazowej zapomogi z tytułu urodzenia dziecka, o których mowa art. 9 ust. 1 art. 15b ust. 1 ustawy, o której mowa art. 1, mają prawo złożenia wniosku o wypłatę tych świadczeń na zasadach określonych przepisach ustawy, o której mowa art. 1, z zastrzeżeniem art. 3 niniejszej ustawy.
+1. Matka lub ojciec dziecka, którzy przed dniem wejścia w życie niniejszej ustawy nie otrzymali dodatku z tytułu urodzenia dziecka lub jednorazowej zapomogi z tytułu urodzenia dziecka, o których mowa w art. 9 ust. 1 i art. 15b ust. 1 ustawy, o której mowa w art. 1, mają prawo złożenia wniosku o wypłatę tych świadczeń na zasadach określonych w przepisach ustawy, o której mowa w art. 1, z zastrzeżeniem art. 3 niniejszej ustawy.
 
-2. Matka lub ojciec dziecka, którym przed dniem wejścia życie niniejszej ustawy z powodu braku zaświadczenia lekarskiego potwierdzającego pozostawanie kobiety pod opieką medyczną nie później niż od 10 tygodnia ciąży do porodu odmówiono wypłaty dodatku z tytułu urodzenia dziecka lub jednorazowej zapomogi z tytułu urodzenia dziecka, o których mowa art. 9 ust. 1 art. 15b ust. 1 ustawy, o której mowa art. 1, albo pozostawiono bez rozpatrzenia wniosek o dokonanie wypłaty tych świadczeń, mają prawo ponownego złożenia wniosku o wypłatę tych świadczeń na zasadach określonych przepisach ustawy, o której mowa art. 1, z zastrzeżeniem art. 3 niniejszej ustawy.
+2. Matka lub ojciec dziecka, którym przed dniem wejścia w życie niniejszej ustawy z powodu braku zaświadczenia lekarskiego potwierdzającego pozostawanie kobiety pod opieką medyczną nie później niż od 10 tygodnia ciąży do porodu odmówiono wypłaty dodatku z tytułu urodzenia dziecka lub jednorazowej zapomogi z tytułu urodzenia dziecka, o których mowa w art. 9 ust. 1 i art. 15b ust. 1 ustawy, o której mowa w art. 1, albo pozostawiono bez rozpatrzenia wniosek o dokonanie wypłaty tych świadczeń, mają prawo ponownego złożenia wniosku o wypłatę tych świadczeń na zasadach określonych w przepisach ustawy, o której mowa w art. 1, z zastrzeżeniem art. 3 niniejszej ustawy.
 
-3. Wnioski, o których mowa ust. 1 2, składa się terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+3. Wnioski, o których mowa w ust. 1 i 2, składa się w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 5.** Ustawa wchodzi życie z dniem ogłoszenia.
+**Art. 5.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

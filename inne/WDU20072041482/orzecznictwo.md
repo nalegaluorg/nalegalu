@@ -1,6 +1,6 @@
-# Orzecznictwo — Wyrok Trybunału Konstytucyjnego z dnia 24 października 2007 r. sygn. akt SK 7/06
+# Orzecznictwo — WDU20072041482
 
-Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 24 października 2007 r. sygn. akt SK 7/06*
+Orzeczenia powołujące: *WDU20072041482*
 
 Łącznie: **2** orzeczeń
 

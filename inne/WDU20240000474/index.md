@@ -8,10 +8,10 @@ pos: 474
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 marca 2024 Poz. 474 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 27 marca 2024 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie Na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 – Prawo budowlane (Dz. U. z 2023 poz. 682, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rozwoju i Technologii z dnia 27 października 2023 zmieniającym rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. poz. 2442) wprowadza się następujące zmiany:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 474 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 27 marca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/474/text.pdf) |
 
+w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie Na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rozwoju i Technologii z dnia 27 października 2023 r. zmieniającym rozporządzenie w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. poz. 2442) wprowadza się następujące zmiany:
 1) w § 1:
 a) pkt 5 otrzymuje brzmienie: „5) po § 56 dodaje się § 56a w brzmieniu: „§ 56a. 1. Lokal użytkowy w budynku posiada powierzchnię użytkową nie mniejszą niż 25 m .
 2. Dopuszcza się wydzielenie lokalu użytkowego o mniejszej powierzchni użytkowej, jeżeli znajduje się on na pierwszej lub drugiej kondygnacji nadziemnej i posiada bezpośredni dostęp z zewnątrz budynku.
 3. Wymaganie, o którym mowa w ust. 1, nie dotyczy lokali znajdujących się w:
 1) budynkach zamieszkania zbiorowego lub budynkach mieszkalnych jednorodzinnych, w których wydzielono lokal użytkowy;
-2) budynkach, dla których przed dniem 1 sierpnia 2024 została wydana decyzja o pozwoleniu na budowę albo zostało dokonane zgłoszenie budowy, do którego organ administracji architektoniczno-budowlanej nie wniósł sprzeciwu lub zostało wydane zaświadczenie o braku podstaw do wniesienia sprzeciwu, o którym mowa w art. 30 ust. 5aa ustawy z dnia 7 lipca 1994 – Prawo budowlane.”;”,
+2) budynkach, dla których przed dniem 1 sierpnia 2024 r. została wydana decyzja o pozwoleniu na budowę albo zostało dokonane zgłoszenie budowy, do którego organ administracji architektoniczno-budowlanej nie wniósł sprzeciwu lub zostało wydane zaświadczenie o braku podstaw do wniesienia sprzeciwu, o którym mowa w art. 30 ust. 5aa ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.”;”,
 b) pkt 7 otrzymuje brzmienie: „7) § 85a otrzymuje brzmienie: „§ 85a. 1. W budynku gastronomii, handlu lub usług o powierzchni użytkowej powyżej 1000 m , a także stacji paliw o powierzchni użytkowej powyżej 100 m , wydziela się pomieszczenie dostosowane i przeznaczone wyłącznie do karmienia i przewijania dzieci.
-Dziennik Ustaw – 2 – Poz. 474
 2. W budynku:
 1) przeznaczonym na potrzeby administracji publicznej o powierzchni użytkowej powyżej 2000 m ,
 2) przeznaczonym na potrzeby kultury, sportu, handlu, usług lub obsługi pasażerów w transporcie kolejowym, drogowym lub lotniczym o powierzchni użytkowej powyżej 10 000 m ,
@@ -45,7 +46,8 @@ Dziennik Ustaw – 2 – Poz. 474
 4. Pomieszczenie, o którym mowa w ust. 1 i 2, jest wyposażone w umywalkę.
 5. Przepisów ust. 1–4 nie stosuje się do stacji paliw zlokalizowanej na terenie zamkniętym.
 6. Dopuszcza się urządzenie pomieszczenia, o którym mowa w ust. 2, w ustępie ogólnodostępnym dla osób niepełnosprawnych, jeżeli dodatkowo spełnia on warunki, o których mowa w ust. 3.
-7. Wymaganie, o którym mowa w ust. 2, nie dotyczy budynków, dla których przed dniem 1 sierpnia 2024 została wydana decyzja o pozwoleniu na budowę albo zostało dokonane zgłoszenie budowy, do którego organ administracji architektoniczno-budowlanej nie wniósł sprzeciwu lub zostało wydane zaświadczenie o braku podstaw do wniesienia sprzeciwu, o którym mowa w art. 30 ust. 5aa ustawy z dnia 7 lipca 1994 – Prawo budowlane.”;”;
+7. Wymaganie, o którym mowa w ust. 2, nie dotyczy budynków, dla których przed dniem 1 sierpnia 2024 r. została wydana decyzja o pozwoleniu na budowę albo zostało dokonane zgłoszenie budowy, do którego organ administracji architektoniczno-budowlanej nie wniósł sprzeciwu lub zostało wydane zaświadczenie o braku podstaw do wniesienia sprzeciwu, o którym mowa w art. 30 ust. 5aa ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.”;”;
 2) w § 3 wyrazy „1 kwietnia 2024 r.” zastępuje się wyrazami „1 sierpnia 2024 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2024 Minister Rozwoju i Technologii: K. Hetman
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2024 r.
+Minister Rozwoju i Technologii: K. Hetman
 

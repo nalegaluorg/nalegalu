@@ -8,10 +8,10 @@ pos: 2170
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 października 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22117700 Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2022 r. (Dz. U. poz. …) WZÓR DOKUMENTU PODRÓŻY PRZEWIDZIANEGO W KONWENCJI GENEWSKIEJ Okładka zewnętrzna Strona 2 okładki (wewnętrzna) Strona tytułowa Strona personalizacyjna Strona 1 Strona 2 Strona 3 Strona 4 Strona 5 Strona 6 Strona 7 Strona 8 Strona 9 Strona 10 Strona 11 Strona 12 Strona 13 Strona 14 Strona 15 Strona 16 Strona 17 Strona 18 Strona 19 Strona 20 Strona 21 Strona 22 Strona 23 Strona 24 Strona 25 Strona 26 Strona 27 Strona 28 Strona 29 Strona 30 Strona 31 Strona 32 Strona 3 okładki (wewnętrzna) Opis dokumentu i zastosowanych zabezpieczeń Dokument książeczkowy o wymiarach 88 mm × 125 mm ze stroną personalizacyjną wykonaną z poliwęglanu.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2170/text.pdf) |
 
-22117700 i Administracji z dnia 7 października 2022 r. (Dz. U. poz. …) WZÓR DOKUMENTU PODRÓŻY PRZEWIDZIANEGO W KONWENCJI GENEWSKIEJ Okładka zewnętrzna 2 okładki (wewnętrzna) tytułowa 2 3 6 7 10 11 14 15 18 19 22 23 26 27 30 31 Opis dokumentu i zastosowanych zabezpieczeń Dokument książeczkowy o wymiarach 88 mm × 125 mm ze stroną personalizacyjną wykonaną z poliwęglanu.
 Książeczka zszyta biało-czerwoną nicią introligatorską.
 Oznaczenie indywidualne: perforowane na wszystkich stronach wizowych i widoczne na tylnej okładce; na stronie 1 powtórzone w technice druku typograficznego.
 Materiały, z których wykonana jest książeczka, nie wykazują luminescencji w promieniowaniu ultrafioletowym.
@@ -33,19 +32,19 @@ Okładka zewnętrzna
 1. Tworzywo sztuczne moletowane, koloru niebieskiego.
 2. Napisy: „RZECZPOSPOLITA POLSKA”, „DOKUMENT PODRÓŻY (Konwencja z dnia 28 lipca 1951 r.)”, „TRAVEL DOCUMENT (Convention of 28 July 1951)”, wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, dwa ukośne paski oraz znaczek biometrii naniesione folią koloru złotego.
 3. Nadruki wykonane farbą aktywną w promieniowaniu ultrafioletowym.
-2 okładki (wewnętrzna)
+Strona 2 okładki (wewnętrzna)
 1. Tło giloszowe wykonane drukiem irysowym.
 2. Mikrodruki.
 3. Elementy graficzne wykonane farbami aktywnymi w promieniowaniu ultrafioletowym.
 4. Element graficzny wykonany farbą zmienną optycznie.
 5. Efekt kątowy w stalorycie.
 6. Włókna zabezpieczające, w tym włókna aktywne w promieniowaniu ultrafioletowym.
-tytułowa
+Strona tytułowa
 1. Tło giloszowe wykonane drukiem irysowym.
 2. Mikrodruki.
 3. Elementy graficzne wykonane farbami aktywnymi w promieniowaniu ultrafioletowym.
 4. Nić introligatorska.
-personalizacyjna
+Strona personalizacyjna
 1. Tło giloszowe wykonane drukiem irysowym.
 2. Mikrodruki.
 3. Elementy graficzne wykonane farbami aktywnymi w promieniowaniu ultrafioletowym.
@@ -62,7 +61,7 @@ Strony 1–32
 5. Mikrodruki.
 6. Elementy graficzne wykonane farbami aktywnymi w promieniowaniu ultrafioletowym.
 7. Element recto-verso.
-3 okładki (wewnętrzna)
+Strona 3 okładki (wewnętrzna)
 1. Tło giloszowe wykonane drukiem irysowym.
 2. Mikrodruki.
 3. Elementy graficzne wykonane farbami aktywnymi w promieniowaniu ultrafioletowym.

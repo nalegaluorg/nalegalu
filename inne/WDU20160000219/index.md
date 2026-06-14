@@ -8,10 +8,10 @@ pos: 219
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 lutego 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 219 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 10 lutego 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000219) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/219/text.pdf) |
 
-Poz. 219 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 10 lutego 2016 r.
-w sprawie współczynników równoważności określających ilości mleka wykorzystywanego do wyprodukowania podstawowych przetworów mlecznych Na podstawie art. 48a ust. 6 ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2016 r. poz. 155) zarządza się, co następuje: § 1. Współczynniki równoważności określające ilości mleka wykorzystywanego do wyprodukowania podstawowych przetworów mlecznych wprowadzonych do obrotu przez organizacje producentów, w tym organizacje tworzące zrzeszenia organizacji producentów, wynoszą dla:
+w sprawie współczynników równoważności określających ilości mleka wykorzystywanego do wyprodukowania podstawowych przetworów mlecznych Na podstawie art. 48a ust. 6 ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2016 r. poz. 155) zarządza się, co następuje:
+§ 1. Współczynniki równoważności określające ilości mleka wykorzystywanego do wyprodukowania podstawowych przetworów mlecznych wprowadzonych do obrotu przez organizacje producentów, w tym organizacje tworzące zrzeszenia organizacji producentów, wynoszą dla:
 1) 1 kg mleka spożywczego – 1 kg;
 2) 1 kg odtłuszczonego mleka w proszku – 11,3 kg;
 3) 1 kg pełnego mleka w proszku – 8,5 kg;

@@ -8,7 +8,7 @@ pos: 1494
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o utworzeniu Akademii Zamojskiej

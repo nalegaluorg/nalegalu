@@ -8,7 +8,7 @@ pos: 988
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 110/7/A/2009 WYROK z dnia 15 lipca 2009 r.

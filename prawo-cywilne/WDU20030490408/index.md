@@ -8,7 +8,7 @@ pos: 408
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw
@@ -28,6 +28,17 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030490408) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/408/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz.U. Nr 16, poz. 93 z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** po art. 22 dodaje się art. 22 w brzmieniu: „Art. 22 . Za konsumenta uważa się osobę fizyczną dokonującą czynności prawnej niezwiązanej bezpośrednio z jej działalnością gospodarczą lub zawodową.”;
+- **2)** po art. 33 dodaje się art. 33 w brzmieniu: „Art. 33 . § 1. Do jednostek organizacyjnych niebędących osobami prawnymi, którym ustawa przyznaje zdolność prawną, stosuje się odpowiednio przepisy o osobach prawnych.
+
+§ 2. Jeżeli przepis odrębny nie stanowi inaczej, za zobowiązania jednostki, o której mowa w § 1, odpowiedzialność subsydiarną ponoszą jej członkowie; odpowiedzialność ta powstaje z chwilą, gdy jednostka organizacyjna stała się niewypłacalna.”;
+
+- **3)** w art. 40:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Skarb Państwa nie ponosi odpowiedzialności za zobowiązania państwowych osób prawnych, chyba że przepis odrębny stanowi inaczej. Państwowe osoby prawne nie ponoszą odpowiedzialności za zobowiązania Skarbu Państwa.”,
+    - **b)** dodaje się § 3 w brzmieniu: „§ 3. Przepisy § 1 i 2 stosuje się odpowiednio do odpowiedzialności jednostek samorządu terytorialnego i samorządowych osób prawnych.”;
+
+- **4)** w księdze pierwszej w tytule II, po art. 43 dodaje się dział III w brzmieniu: „Dział III Przedsiębiorcy i ich oznaczenia
 
 **Art. 43¹.** Przedsiębiorcą jest osoba fizyczna, osoba prawna i jednostka organizacyjna, o której mowa w art. 33 § 1, prowadząca we własnym imieniu działalność gospodarczą lub zawodową.
 
@@ -61,7 +72,7 @@ source: "isap-pdf"
 
 **Art. 43⁸.**
 
-§ 1. W przypadku utraty członkostwa przez wspólnika, którego nazwisko było umieszczone w firmie, spółka może zachować na piśmie jego zgodą, a w razie jego śmierci – za zgodą jego małżonka i dzieci.
+§ 1. W przypadku utraty członkostwa przez wspólnika, którego nazwisko było umieszczone w firmie, spółka może zachować w swej firmie nazwisko byłego wspólnika tylko za wyrażoną na piśmie jego zgodą, a w razie jego śmierci – za zgodą jego małżonka i dzieci.
 
 § 2. Przepis § 1 stosuje się odpowiednio w wypadku kontynuowania działalności gospodarczej osoby fizycznej przez inną osobę fizyczną będącą jej następcą prawnym.
 
@@ -75,6 +86,38 @@ source: "isap-pdf"
 
 **Art. 43¹⁰.** Przedsiębiorca, którego prawo do firmy zostało zagrożone cudzym działaniem, może żądać zaniechania tego działania, chyba że nie jest ono bezprawne. W razie dokonanego naruszenia może on także żądać usunięcia jego skutków, złożenia oświadczenia lub oświadczeń w odpowiedniej treści i formie, naprawienia na zasadach ogólnych szkody majątkowej lub wydania korzyści uzyskanej przez osobę, która dopuściła się naruszenia.”;
 
+- **5)** art. 55 otrzymuje brzmienie: „Art. 55 . Przedsiębiorstwo jest zorganizowanym zespołem składników niematerialnych i materialnych przeznaczonym do prowadzenia działalności gospodarczej. Obejmuje ono w szczególności:
+- **1)** oznaczenie indywidualizujące przedsiębiorstwo lub jego wyodrębnione części (nazwa przedsiębiorstwa);
+- **2)** własność nieruchomości lub ruchomości, w tym urządzeń, materiałów, towarów i wyrobów, oraz inne prawa rzeczowe do nieruchomości lub ruchomości;
+- **3)** prawa wynikające z umów najmu i dzierżawy nieruchomości lub ruchomości oraz prawa do korzystania z nieruchomości lub ruchomości wynikające z innych stosunków prawnych;
+- **4)** wierzytelności, prawa z papierów wartościowych i środki pieniężne;
+- **5)** koncesje, licencje i zezwolenia;
+- **6)** patenty i inne prawa własności przemysłowej;
+- **7)** majątkowe prawa autorskie i majątkowe prawa pokrewne;
+- **8)** tajemnice przedsiębiorstwa;
+- **9)** księgi i dokumenty związane z prowadzeniem działalności gospodarczej.”;
+- **6)** art. 55 otrzymuje brzmienie: „Art. 55 . Za gospodarstwo rolne uważa się grunty rolne wraz z gruntami leśnymi, budynkami lub ich częściami, urządzeniami i inwentarzem, jeżeli stanowią lub mogą stanowić zorganizowaną całość gospodarczą, oraz prawami związanymi z prowadzeniem gospodarstwa rolnego.”;
+- **7)** po art. 55 dodaje się art. 55 w brzmieniu: „Art. 55 . Nabywca przedsiębiorstwa lub gospodarstwa rolnego jest odpowiedzialny solidarnie ze zbywcą za jego zobowiązania związane z prowadzeniem przedsiębiorstwa lub gospodarstwa, chyba że w chwili nabycia nie wiedział o tych zobowiązaniach, mimo zachowania należytej staranności. Odpowiedzialność nabywcy ogranicza się do wartości nabytego przedsiębiorstwa lub gospodarstwa według stanu w chwili nabycia, a według cen w chwili zaspokojenia wierzyciela. Odpowiedzialności tej nie można bez zgody wierzyciela wyłączyć ani ograniczyć.”;
+- **8)** w art. 61 dotychczasowa treść otrzymuje oznaczenie § 1 i dodaje się § 2 w brzmieniu: „§ 2. Oświadczenie woli wyrażone w postaci elektronicznej jest złożone innej osobie z chwilą, gdy wprowadzono je do środka komunikacji elektronicznej w taki sposób, żeby osoba ta mogła zapoznać się z jego treścią.”;
+- **9)** art. 66 otrzymuje brzmienie: „Art. 66. § 1. Oświadczenie drugiej stronie woli zawarcia umowy stanowi ofertę, jeżeli określa istotne postanowienia tej umowy.
+
+§ 2. Jeżeli oferent nie oznaczył w ofercie terminu, w ciągu którego oczekiwać będzie odpowiedzi, oferta złożona w obecności drugiej strony albo za pomocą środka bezpośredniego porozumiewania się na odległość przestaje wiązać, gdy nie zostanie przyjęta niezwłocznie; złożona w inny sposób przestaje wiązać z upływem czasu, w którym składający ofertę mógł w zwykłym toku czynności otrzymać odpowiedź wysłaną bez nieuzasadnionego opóźnienia.”;
+
+- **10)** po art. 66 dodaje się art. 66 i 66 w brzmieniu: „Art. 66 . § 1. Oferta złożona w postaci elektronicznej wiąże składającego, jeżeli druga strona niezwłocznie potwierdzi jej otrzymanie.
+
+§ 2. Przedsiębiorca składający ofertę w postaci elektronicznej jest obowiązany przed zawarciem umowy poinformować drugą stronę w sposób jednoznaczny i zrozumiały o:
+
+- **1)** czynnościach technicznych składających się na procedurę zawarcia umowy;
+- **2)** skutkach prawnych potwierdzenia przez drugą stronę otrzymania oferty;
+- **3)** zasadach i sposobach utrwalania, zabezpieczania i udostępniania przez przedsiębiorcę drugiej stronie treści zawieranej umowy;
+- **4)** metodach i środkach technicznych służących wykrywaniu i korygowaniu błędów we wprowadzanych danych, które jest obowiązany udostępnić drugiej stronie;
+- **5)** językach, w których umowa może być zawarta;
+- **6)** kodeksach etycznych, które stosuje, oraz o ich dostępności w postaci elektronicznej.
+
+§ 3. Przepis § 2 stosuje się odpowiednio, jeżeli przedsiębiorca zaprasza drugą stronę do rozpoczęcia negocjacji, składania ofert albo do zawarcia umowy w inny sposób.
+
+§ 4. Przepisy § 1 - 3 nie mają zastosowania do zawierania umów za pomocą poczty elektronicznej albo podobnych środków indywidualnego porozumiewania się na odległość. Nie stosuje się ich także w stosunkach między przedsiębiorcami, jeżeli strony tak postanowiły.
+
 **Art. 66².**
 
 § 1. W stosunkach między przedsiębiorcami oferta może być odwołana przed zawarciem umowy, jeżeli oświadczenie o odwołaniu zostało złożone drugiej stronie przed wysłaniem przez nią oświadczenia o przyjęciu oferty.
@@ -86,6 +129,19 @@ source: "isap-pdf"
 § 2. Przepisu paragrafu poprzedzającego nie stosuje się, jeżeli w treści oferty wskazano, że może ona być przyjęta jedynie bez zastrzeżeń, albo gdy oferent niezwłocznie sprzeciwił się włączeniu zastrzeżeń do umowy, albo gdy druga strona w odpowiedzi na ofertę uzależniła jej przyjęcie od zgody oferenta na włączenie zastrzeżeń do umowy, a zgody tej niezwłocznie nie otrzymała.
 
 **Art. 68².** Jeżeli przedsiębiorca otrzymał od osoby, z którą pozostaje w stałych stosunkach gospodarczych, ofertę zawarcia umowy w ramach swej działalności, brak niezwłocznej odpowiedzi poczytuje się za przyjęcie oferty.”;
+
+- **12)** art. 69 otrzymuje brzmienie: „Art. 69. Jeżeli według ustalonego w danych stosunkach zwyczaju lub według treści oferty dojście do składającego ofertę oświadczenia drugiej strony o jej przyjęciu nie jest wymagane, w szczególności jeżeli składający ofertę żąda niezwłocznego wykonania umowy, umowa dochodzi do skutku, skoro druga strona w czasie właściwym przystąpi do jej wykonania; w przeciwnym razie oferta przestaje wiązać.”;
+- **13)** art. 70 otrzymuje brzmienie: „Art. 70. § 1. W razie wątpliwości umowę poczytuje się za zawartą w chwili otrzymania przez składającego ofertę oświadczenia o jej przyjęciu, a jeżeli dojście do składającego ofertę oświadczenia o jej przyjęciu nie jest wymagane - w chwili przystąpienia przez drugą stronę do wykonania umowy.
+
+§ 2. W razie wątpliwości umowę poczytuje się za zawartą w miejscu otrzymania przez składającego ofertę oświadczenia o jej przyjęciu, a jeżeli dojście do składającego ofertę oświadczenia o jej przyjęciu nie jest wymagane albo oferta jest składana w postaci elektronicznej - w miejscu zamieszkania albo w siedzibie składającego ofertę w chwili zawarcia umowy.”;
+
+- **14)** art. 70 –70 otrzymują brzmienie: „Art. 70 . § 1. Umowa może być zawarta w drodze aukcji albo przetargu.
+
+§ 2. W ogłoszeniu aukcji albo przetargu należy określić czas, miejsce, przedmiot oraz warunki aukcji albo przetargu albo wskazać sposób udostępnienia tych warunków.
+
+§ 3. Ogłoszenie, a także warunki aukcji albo przetargu mogą być zmienione lub odwołane tylko wtedy, gdy zastrzeżono to w ich treści.
+
+§ 4. Organizator od chwili udostępnienia warunków, a oferent od chwili złożenia oferty zgodnie z ogłoszeniem aukcji albo przetargu są obowiązani postępować zgodnie z postanowieniami ogłoszenia, a także warunków aukcji albo przetargu.
 
 **Art. 70².**
 
@@ -105,7 +161,7 @@ source: "isap-pdf"
 
 **Art. 70⁴.**
 
-§ 1. W warunkach aukcji albo przetargu można zastrzec, że przystępujący do aukcji albo przetargu powinien, pod rygorem niedopuszczenia do nich, wpłacić organizatorowi określoną (wadium).
+§ 1. W warunkach aukcji albo przetargu można zastrzec, że przystępujący do aukcji albo przetargu powinien, pod rygorem niedopuszczenia do nich, wpłacić organizatorowi określoną sumę albo ustanowić odpowiednie zabezpieczenie jej zapłaty (wadium).
 
 § 2. Jeżeli uczestnik aukcji albo przetargu, mimo wyboru jego oferty, uchyla się od zawarcia umowy, której ważność zależy od spełnienia szczególnych wymagań przewidzianych w ustawie, organizator aukcji albo przetargu może pobraną sumę zachować albo dochodzić zaspokojenia z przedmiotu zabezpieczenia. W pozostałych wypadkach zapłacone wadium należy niezwłocznie zwrócić, a ustanowione zabezpieczenie wygasa. Jeżeli organizator aukcji albo przetargu uchyla się od zawarcia umowy, ich uczestnik, którego oferta została wybrana, może żądać zapłaty podwójnego wadium albo naprawienia szkody.”;
 
@@ -118,7 +174,10 @@ source: "isap-pdf"
 
 § 2. Strona, która rozpoczęła lub prowadziła negocjacje z naruszeniem dobrych obyczajów, w szczególności bez zamiaru zawarcia umowy, jest obowiązana do naprawienia szkody, jaką druga strona poniosła przez to, że liczyła na zawarcie umowy.”;
 
-- **18)** po art. 72 dodaje się art. 72 w brzmieniu: „Art. 72 . § 1. Jeżeli w toku negocjacji strona udostępniła informacje z zastrzeżeniem poufności, druga strona jest obowiązana do nieujawniania i nieprzekazywania ich innym osobom oraz do niewykorzystywania tych informacji dla własnych celów, chyba że strony uzgodniły inaczej. obowiązków, o których mowa w § 1, uprawniony może żądać od drugiej strony naprawienia szkody albo wydania uzyskanych przez nią korzyści.”;
+- **18)** po art. 72 dodaje się art. 72 w brzmieniu: „Art. 72 . § 1. Jeżeli w toku negocjacji strona udostępniła informacje z zastrzeżeniem poufności, druga strona jest obowiązana do nieujawniania i nieprzekazywania ich innym osobom oraz do niewykorzystywania tych informacji dla własnych celów, chyba że strony uzgodniły inaczej.
+
+§ 2. W razie niewykonania lub nienależytego wykonania obowiązków, o których mowa w § 1, uprawniony może żądać od drugiej strony naprawienia szkody albo wydania uzyskanych przez nią korzyści.”;
+
 - **19)** art. 74 otrzymuje brzmienie: „Art. 74. § 1. Zastrzeżenie formy pisemnej bez rygoru nieważności ma ten skutek, że w razie niezachowania zastrzeżonej formy nie jest w sporze dopuszczalny dowód ze świadków ani dowód z przesłuchania stron na fakt dokonania czynności. Przepisu tego nie stosuje się, gdy zachowanie formy pisemnej jest zastrzeżone jedynie dla wywołania określonych skutków czynności prawnej.
 
 § 2. Jednakże mimo niezachowania formy pisemnej przewidzianej dla celów dowodowych, dowód ze świadków lub dowód z przesłuchania stron jest dopuszczalny, jeżeli obie strony wyrażą na to zgodę, jeżeli żąda tego konsument w sporze z przedsiębiorcą albo jeżeli fakt dokonania czynności prawnej będzie uprawdopodobniony za pomocą pisma.
@@ -133,7 +192,8 @@ source: "isap-pdf"
 § 3. Jeżeli umowa została zawarta w innej formie szczególnej, jej rozwiązanie za zgodą obu stron wymaga zachowania takiej formy, jaką ustawa lub strony przewidziały w celu jej zawarcia; natomiast odstąpienie od umowy albo jej wypowiedzenie powinno być stwierdzone pismem.”;
 
 - **22)** po art. 77 dodaje się art. 77 w brzmieniu: „Art. 77 . W wypadku gdy umowę zawartą pomiędzy przedsiębiorcami bez zachowania formy pisemnej jedna strona niezwłocznie potwierdzi w piśmie skierowanym do drugiej strony, a pismo to zawiera zmiany lub uzupełnienia umowy, niezmieniające istotnie jej treści, strony wiąże umowa o treści określonej w piśmie potwierdzającym, chyba że druga strona niezwłocznie się temu sprzeciwiła na piśmie.”;
-- **23)** w art. 78 § 2 otrzymuje brzmienie: „§ 2. Oświadczenie woli złożone w postaci elektronicznej opatrzone bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu jest równoważne z oświadczeniem woli złożonym w formie pisemnej.”; dodaje się wyrazy „Rozdział I. Przepisy ogólne”;
+- **23)** w art. 78 § 2 otrzymuje brzmienie: „§ 2. Oświadczenie woli złożone w postaci elektronicznej opatrzone bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu jest równoważne z oświadczeniem woli złożonym w formie pisemnej.”;
+- **24)** w księdze pierwszej w tytule IV po wyrazach „Dział VI. Przedstawicielstwo” dodaje się wyrazy „Rozdział I. Przepisy ogólne”;
 - **25)** po art. 97 dodaje się wyrazy „Rozdział II. Pełnomocnictwo”;
 - **26)** po art. 109 dodaje się rozdział III w brzmieniu: „Rozdział III Prokura
 
@@ -175,7 +235,9 @@ source: "isap-pdf"
 
 § 1. Udzielenie i wygaśnięcie prokury przedsiębiorca powinien zgłosić do rejestru przedsiębiorców.
 
-§ 2. Zgłoszenie o udzieleniu prokury powinno określać jej rodzaj, a w przypadku prokury łącznej także sposób jej wykonywania. się w aktach rejestrowych wzorem podpisu, wraz z dopiskiem wskazującym na prokurę, chyba że z treści dokumentu wynika, że działa jako prokurent.”;
+§ 2. Zgłoszenie o udzieleniu prokury powinno określać jej rodzaj, a w przypadku prokury łącznej także sposób jej wykonywania.
+
+**Art. 109⁹.** Prokurent składa własnoręczny podpis zgodnie ze znajdującym się w aktach rejestrowych wzorem podpisu, wraz z dopiskiem wskazującym na prokurę, chyba że z treści dokumentu wynika, że działa jako prokurent.”;
 
 - **27)** art. 179 otrzymuje brzmienie: „Art. 179. § 1. Właściciel może wyzbyć się własności nieruchomości przez to, że jej się zrzeknie. Zrzeczenie się wymaga formy aktu notarialnego.
 
@@ -190,7 +252,7 @@ source: "isap-pdf"
 - **31)** uchyla się art. 386;
 - **32)** art. 389 otrzymuje brzmienie: „Art. 389. § 1. Umowa, przez którą jedna ze stron lub obie zobowiązują się do zawarcia oznaczonej umowy (umowa przedwstępna), powinna określać istotne postanowienia umowy przyrzeczonej.
 
-§ 2. Jeżeli termin, w ciągu którego ma być zawarta umowa przyrzeczona, nie został oznaczony, powinna ona być zawarta w odpowiednim terminie wyznaczonym przez stronę uprawnioną do żądania zawarcia umowy przyrzeczonej. Jeżeli obie strony są uprawnione do żądania zawarcia umowy wiąże termin wyznaczony przez stronę, która wcześniej złożyła stosowne oświadczenie. Jeżeli w ciągu roku od dnia zawarcia umowy przedwstępnej nie został wyznaczony termin do zawarcia umowy przyrzeczonej, nie można żądać jej zawarcia.”;
+§ 2. Jeżeli termin, w ciągu którego ma być zawarta umowa przyrzeczona, nie został oznaczony, powinna ona być zawarta w odpowiednim terminie wyznaczonym przez stronę uprawnioną do żądania zawarcia umowy przyrzeczonej. Jeżeli obie strony są uprawnione do żądania zawarcia umowy przyrzeczonej i każda z nich wyznaczyła inny termin, strony wiąże termin wyznaczony przez stronę, która wcześniej złożyła stosowne oświadczenie. Jeżeli w ciągu roku od dnia zawarcia umowy przedwstępnej nie został wyznaczony termin do zawarcia umowy przyrzeczonej, nie można żądać jej zawarcia.”;
 
 - **33)** art. 390 otrzymuje brzmienie: „Art. 390. § 1. Jeżeli strona zobowiązana do zawarcia umowy przyrzeczonej uchyla się od jej zawarcia, druga strona może żądać naprawienia szkody, którą poniosła przez to, że liczyła na zawarcie umowy przyrzeczonej. Strony mogą w umowie przedwstępnej odmiennie określić zakres odszkodowania.
 
@@ -207,7 +269,9 @@ source: "isap-pdf"
 
 § 4. Umowy, o których mowa w § 2 i 3, powinny być dokonane w formie pisemnej pod rygorem nieważności.
 
-§ 5. Zawierający umowę z podwykonawcą oraz inwestor i wykonawca ponoszą solidarną odpowiedzialność za zapłatę wynagrodzenia za roboty budowlane wykonane przez podwykonawcę. niniejszym artykule, są nieważne.”;
+§ 5. Zawierający umowę z podwykonawcą oraz inwestor i wykonawca ponoszą solidarną odpowiedzialność za zapłatę wynagrodzenia za roboty budowlane wykonane przez podwykonawcę.
+
+§ 6. Odmienne postanowienia umów, o których mowa w niniejszym artykule, są nieważne.”;
 
 - **36)** art. 685 otrzymuje brzmienie: „Art. 685 . Jeżeli czas trwania najmu lokalu mieszkalnego nie jest oznaczony, wynajmujący może podwyższyć czynsz, wypowiadając dotychczasową wysokość czynszu najpóźniej na miesiąc naprzód, na koniec miesiąca kalendarzowego.”;
 - **37)** po art. 903 dodaje się art. 903 w brzmieniu: „Art. 903 . Umowa renty powinna być stwierdzona pismem.”;
@@ -218,11 +282,20 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. - Przepisy wprowadzające kodeks cywilny (Dz.U. Nr 16, poz. 94, z 1974 r. Nr 24, poz. 142, z 1990 r. Nr 55, poz. 321 oraz z 1994 r. Nr 85, poz. 388) wprowadza się następujące zmiany:
 
+- **1)** w art. VI w § 2 skreśla się zdanie drugie;
+- **2)** uchyla się art. XXV.
+
 **Art. 3.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz.U. z 2002 r. Nr 42, poz. 369) w art. 92 dodaje się § 5 w brzmieniu: „§ 5. Jeżeli akt notarialny w swej treści zawiera zrzeczenie się własności nieruchomości, notariusz, który go sporządził, jest obowiązany przesłać z urzędu wypis tego aktu gminie, której własnością nieruchomość staje się na skutek zrzeczenia.”.
 
-**Art. 4.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2001 r. Nr 57, poz. 603, Nr 115, poz. 1229, Nr 122, poz. 1323 i Nr 154, poz. 1793 i 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. brzmienie: „3. Użytkownik wieczysty nieruchomości może zrzec się swego prawa przez złożenie Agencji oświadczenia w formie aktu notarialnego. W takim przypadku użytkowanie wieczyste wygasa. Oświadczenie stanowi podstawę do wykreślenia w księdze wieczystej prawa wieczystego użytkowania.”.
+**Art. 4.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2001 r. Nr 57, poz. 603, Nr 115, poz. 1229, Nr 122, poz. 1323 i Nr 154, poz. 1793 i 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 155, poz. 1287 oraz z 2003 r. Nr 6, poz. 64) w art. 17b ust. 3 otrzymuje brzmienie: „3. Użytkownik wieczysty nieruchomości może zrzec się swego prawa przez złożenie Agencji oświadczenia w formie aktu notarialnego. W takim przypadku użytkowanie wieczyste wygasa. Oświadczenie stanowi podstawę do wykreślenia w księdze wieczystej prawa wieczystego użytkowania.”.
 
 **Art. 5.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz.U. z 2001 r. Nr 17, poz. 209 i Nr 110, poz. 1189 oraz z 2002 r. Nr 1, poz. 2 i Nr 113, poz. 984) wprowadza się następujące zmiany:
+
+- **1)** w art. 19a ust. 1 i 2 otrzymują brzmienie: „1. Do wniosku o wpis podmiotu podlegającego obowiązkowi wpisu do Rejestru dołącza się uwierzytelnione notarialnie albo złożone przed sędzią lub upoważnionym pracownikiem sądu wzory podpisów osób upoważnionych do reprezentowania tego podmiotu lub prokurenta.
+
+2. Przepis ust. 1 stosuje się również w przypadku zmiany osób upoważnionych do reprezentowania podmiotu wpisanego do Rejestru lub prokurenta.”;
+
+- **2)** w art. 39 pkt 3 otrzymuje brzmienie: „3) dotyczące prokurentów oraz zakresu prokury,”.
 
 **Art. 6.** W ustawie z dnia 15 września 2000 r. - Kodeks spółek handlowych (Dz.U. Nr 94, poz. 1037 i z 2001 r. Nr 102, poz. 1117) uchyla się art. 632.
 

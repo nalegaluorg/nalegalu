@@ -8,10 +8,10 @@ pos: 1624
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1624 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 3 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1624/text.pdf) |
 
-Poz. 1624 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 3 sierpnia 2023 r.
-w sprawie wykazu spółek będących założycielem lub właścicielem ponadlokalnego lotniska użytku publicznego, lub nim zarządzających Na podstawie art. 64b ust. 13 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, i 2642 oraz z 2023 r. poz. 1489) zarządza się, co następuje: § 1. Określa się wykaz spółek będących założycielem lub właścicielem ponadlokalnego lotniska użytku publicznego, lub nim zarządzających:
+w sprawie wykazu spółek będących założycielem lub właścicielem ponadlokalnego lotniska użytku publicznego, lub nim zarządzających Na podstawie art. 64b ust. 13 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, i 2642 oraz z 2023 r. poz. 1489) zarządza się, co następuje:
+§ 1. Określa się wykaz spółek będących założycielem lub właścicielem ponadlokalnego lotniska użytku publicznego, lub nim zarządzających:
 1) Górnośląskie Towarzystwo Lotnicze Spółka Akcyjna;
 2) Lotnisko Mielec Spółka z ograniczoną odpowiedzialnością;
 3) Mazowiecki Port Lotniczy Warszawa-Modlin Spółka z ograniczoną odpowiedzialnością;

@@ -8,10 +8,10 @@ pos: 761
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 kwietnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 761 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 4 kwietnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000761) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/761/text.pdf) |
 
-Poz. 761 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 4 kwietnia 2017 r.
 w sprawie warunków i trybu wydawania polskiego prawa jazdy osobom posiadającym tajwańskie prawo jazdy Na podstawie art. 14 ust. 4 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627, z późn.
-zm. ) zarządza się, co następuje: § 1. Osoba posiadająca tajwańskie prawo jazdy ubiegająca się o wydanie polskiego prawa jazdy powinna spełniać warunki określone w art. 14 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, z wyjątkiem warunku określającego obowiązek złożenia z wynikiem pozytywnym części teoretycznej egzaminu państwowego.
+zm. ) zarządza się, co następuje:
+§ 1. Osoba posiadająca tajwańskie prawo jazdy ubiegająca się o wydanie polskiego prawa jazdy powinna spełniać warunki określone w art. 14 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, z wyjątkiem warunku określającego obowiązek złożenia z wynikiem pozytywnym części teoretycznej egzaminu państwowego.
 § 2. Do wydania polskiego prawa jazdy osobie posiadającej tajwańskie prawo jazdy stosuje się odpowiednio przepisy § 9 ust. 1 pkt 5 i ust. 3 oraz § 10 ust. 1–6, 8, 10 i 11 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 24 lutego 2016 r. w sprawie wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami (Dz. U. poz. 231 i 2252) w zakresie wymiany zagranicznego prawa jazdy, przy czym organ wydający polskie prawo jazdy:
 1) występuje do właściwego organu Tajwanu za pośrednictwem przedstawicielstwa Tajwanu w Rzeczypospolitej Polskiej z wnioskiem o potwierdzenie danych zamieszczonych w dokumencie tajwańskiego prawa jazdy;
 2) wpisuje w polskim prawie jazdy kategorie praw jazdy stanowiące odpowiedniki kategorii praw jazdy wynikających z tajwańskiego prawa jazdy zgodnie z załącznikiem do rozporządzenia;

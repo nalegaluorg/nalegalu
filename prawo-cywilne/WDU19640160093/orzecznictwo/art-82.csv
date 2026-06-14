@@ -109,7 +109,9 @@ saos_id|date|court|case_number|type|score|saos_url
 79570|2000-03-16|SN|I PKN 764/99|Postanowienie|69|https://www.saos.org.pl/judgments/79570
 78891|1999-03-12|SN|I PKN 40/99|Postanowienie|69|https://www.saos.org.pl/judgments/78891
 78067|1998-01-14|SN|II UKN 595/98|Postanowienie|69|https://www.saos.org.pl/judgments/78067
+546673|2025-12-19|SO|I ACa 529/23|Wyrok|56|https://www.saos.org.pl/judgments/546673
 543463|2025-12-15|SO|III AUa 1537/25|Wyrok|56|https://www.saos.org.pl/judgments/543463
+545352|2025-11-13|SO|I AGa 180/25|Wyrok|56|https://www.saos.org.pl/judgments/545352
 543527|2025-09-24|SO|I ACa 3325/24|Wyrok|56|https://www.saos.org.pl/judgments/543527
 534725|2025-08-27|SO|VII AGa 311/24|Wyrok|56|https://www.saos.org.pl/judgments/534725
 530794|2025-07-01|SO|I ACa 2436/24|Wyrok|56|https://www.saos.org.pl/judgments/530794
@@ -686,6 +688,7 @@ saos_id|date|court|case_number|type|score|saos_url
 462602|2022-02-21|SO|VIII C 1324/19|Wyrok|40|https://www.saos.org.pl/judgments/462602
 465430|2022-02-07|SO|VII U 1219/21|Wyrok|40|https://www.saos.org.pl/judgments/465430
 464170|2022-01-18|SO|IV U 469/21|Wyrok|40|https://www.saos.org.pl/judgments/464170
+546881|2021-07-22|SO|VI P 383/19|Wyrok|40|https://www.saos.org.pl/judgments/546881
 450217|2021-07-07|SO|I C 1866/20|Wyrok|40|https://www.saos.org.pl/judgments/450217
 448089|2021-06-30|SO|VII P 25/18|Wyrok|40|https://www.saos.org.pl/judgments/448089
 441765|2021-06-22|SO|IV P 112/20|Wyrok|40|https://www.saos.org.pl/judgments/441765
@@ -893,6 +896,7 @@ saos_id|date|court|case_number|type|score|saos_url
 538369|2025-05-08|SO|II Ca 1592/24|Postanowienie|31|https://www.saos.org.pl/judgments/538369
 538646|2025-04-24|SO|XV Ca 2721/24|Postanowienie|31|https://www.saos.org.pl/judgments/538646
 518486|2024-12-12|SO|IV Po 19/24|Postanowienie|31|https://www.saos.org.pl/judgments/518486
+545219|2024-06-20|SO|I Ns 186/21|Postanowienie|31|https://www.saos.org.pl/judgments/545219
 520328|2024-04-29|SO|II Ca 243/23|Postanowienie|31|https://www.saos.org.pl/judgments/520328
 518110|2023-06-07|SO|I Ns 499/22|Postanowienie|31|https://www.saos.org.pl/judgments/518110
 512871|2022-12-02|SO|VIII Ns 641/21|Postanowienie|31|https://www.saos.org.pl/judgments/512871

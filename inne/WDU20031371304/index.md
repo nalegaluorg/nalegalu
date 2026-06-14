@@ -8,7 +8,7 @@ pos: 1304
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw
@@ -28,6 +28,343 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031371304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1304/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 ze zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 1:
+    - **a)** pkt 5a otrzymuje brzmienie: „5a) opiekę nad uczniami niepełnosprawnymi przez umożliwianie realizowania zindywidualizowanego procesu kształcenia, form i programów nauczania oraz zajęć rewalidacyjnych,”,
+    - **b)** pkt 11 otrzymuje brzmienie: „11) upowszechnianie wśród dzieci i młodzieży wiedzy o zasadach zrównoważonego rozwoju oraz kształtowanie postaw sprzyjających jego wdrażaniu w skali lokalnej, krajowej i globalnej,”,
+    - **c)** po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) kształtowanie u uczniów postaw przedsiębiorczości sprzyjających aktywnemu uczestnictwu w życiu gospodarczym,”,
+    - **d)** w pkt 14 kropkę zastępuje się przecinkiem oraz dodaje się pkt 15 i 16 w brzmieniu: „15) warunki do rozwoju zainteresowań i uzdolnień uczniów przez organizowanie zajęć pozalekcyjnych i pozaszkolnych oraz kształtowanie aktywności społecznej i umiejętności spędzania czasu wolnego,
+
+- **16)** upowszechnianie wśród dzieci i młodzieży wiedzy o bezpieczeństwie oraz kształtowanie właściwych postaw wobec zagrożeń i sytuacji nadzwyczajnych.”;
+- **2)** w art. 2:
+    - **a)** pkt 2-3a otrzymują brzmienie: „2) szkoły:
+    - **a)** podstawowe, w tym: specjalne, integracyjne, z oddziałami integracyjnymi i sportowymi, sportowe i mistrzostwa sportowego,
+    - **b)** gimnazja, w tym: specjalne, integracyjne, z oddziałami integracyjnymi, dwujęzycznymi, sportowymi i przysposabiającymi do pracy, sportowe i mistrzostwa sportowego,
+    - **c)** ponadgimnazjalne, w tym: specjalne, integracyjne, z oddziałami integracyjnymi, dwujęzycznymi i sportowymi, sportowe i mistrzostwa sportowego,
+    - **d)** artystyczne,
+
+- **3)** placówki oświatowo-wychowawcze, w tym szkolne schroniska młodzieżowe, umożliwiające rozwijanie zainteresowań i uzdolnień oraz korzystanie z różnych form wypoczynku i organizacji czasu wolnego, 3a) placówki kształcenia ustawicznego, placówki kształcenia praktycznego oraz ośrodki dokształcania i doskonalenia zawodowego, umożliwiające uzyskanie i uzupełnienie wiedzy ogólnej, umiejętności i kwalifikacji zawodowych, ”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) młodzieżowe ośrodki wychowawcze, młodzieżowe ośrodki socjoterapii, specjalne ośrodki szkolno-wychowawcze oraz specjalne ośrodki wychowawcze dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, a także ośrodki umożliwiające dzieciom i młodzieży, o których mowa w art. 16 ust. 7, a także dzieciom i młodzieży upośledzonym umysłowo ze sprzężonymi niepełnosprawnościami realizację odpowiednio obowiązku, o którym mowa w art. 14 ust. 3, obowiązku szkolnego i obowiązku nauki,”;
+
+- **3)** art. 2a otrzymuje brzmienie: „Art. 2a. 1. System oświaty wspierają organizacje pozarządowe, w tym organizacje harcerskie, a także osoby prawne prowadzące statutową działalność w zakresie oświaty i wychowania.
+
+2. Organy administracji publicznej prowadzące szkoły i placówki współdziałają z podmiotami, o których mowa w ust. 1, w wykonywaniu zadań wymienionych w art. 1.”;
+
+- **4)** w art. 3:
+    - **a)** po pkt 11a dodaje się pkt 11b-11d w brzmieniu: „11b) oddziale dwujęzycznym - należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone w dwóch językach: polskim oraz obcym nowożytnym będącym drugim językiem nauczania, 11c) oddziale sportowym - należy przez to rozumieć oddział szkolny, w którym są prowadzone zajęcia sportowe obejmujące szkolenie sportowe w jednej lub kilku dyscyplinach sportu, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 9 ust. 5, 11d) centrach kształcenia ustawicznego albo centrach kształcenia praktycznego - należy przez to rozumieć rodzaj odpowiednio placówki kształcenia ustawicznego i placówki kształcenia praktycznego,”,
+    - **b)** pkt 14 otrzymuje brzmienie: „14) zadaniach oświatowych jednostek samorządu terytorialnego - należy przez to rozumieć zadania w zakresie kształcenia, wychowania i opieki, w tym profilaktyki społecznej,”,
+    - **c)** po pkt 14 dodaje się pkt 15-17 w brzmieniu: „15) szkole dla dorosłych - należy przez to rozumieć szkołę, w której stosuje się odrębną organizację kształcenia i do której przyjmowane są osoby mające 18 lat, a także kończące 18 lat w roku kalendarzowym, w którym przyjmowane są do szkoły,
+
+- **16)** formach pozaszkolnych - należy przez to rozumieć formy uzyskiwania i uzupełniania wiedzy ogólnej, umiejętności i kwalifikacji zawodowych w placówkach i ośrodkach, o których mowa w art. 2 pkt 3a,
+- **17)** kształceniu ustawicznym - należy przez to rozumieć kształcenie w szkołach dla dorosłych, a także uzyskiwanie i uzupełnianie wiedzy ogólnej, umiejętności i kwalifikacji zawodowych w formach pozaszkolnych przez osoby, które spełniły obowiązek szkolny.”;
+- **5)** w art. 5:
+    - **a)** ust. 3a otrzymuje brzmienie: „3a. Minister właściwy do spraw wewnętrznych, Minister Obrony Narodowej i Minister Sprawiedliwości mogą zakładać i prowadzić publiczne szkoły i placówki, o których mowa w przepisach wydanych na podstawie art. 29.”,
+    - **b)** ust. 3b otrzymuje brzmienie: „3b. Minister właściwy do spraw oświaty i wychowania:
+
+- **1)** zakłada i prowadzi:
+    - **a)** szkoły, zespoły szkół oraz szkolne punkty konsultacyjne przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej w celu kształcenia dzieci obywateli polskich czasowo przebywających za granicą,
+    - **b)** publiczne placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym,
+
+- **2)** może zakładać i prowadzić:
+    - **a)** publiczne szkoły i placówki o charakterze eksperymentalnym,
+    - **b)** publiczne placówki kształcenia ustawicznego o zasięgu ogólnokrajowym.”,
+    - **c)** ust. 5a i 5b otrzymują brzmienie: „5a. Zakładanie i prowadzenie publicznych szkół podstawowych specjalnych i gimnazjów specjalnych, szkół ponadgimnazjalnych, w tym z oddziałami integracyjnymi, szkół sportowych i mistrzostwa sportowego oraz placówek wymienionych w art. 2 pkt 3-5 i 7, z wyjątkiem szkół i placówek o znaczeniu regionalnym i ponadregionalnym, należy do zadań własnych powiatu, z zastrzeżeniem ust. 3c.
+
+5b. Jednostki samorządu terytorialnego mogą zakładać i prowadzić szkoły i placówki, których prowadzenie nie należy do ich zadań własnych, po zawarciu porozumienia z jednostką samorządu terytorialnego, dla której prowadzenie danego typu szkoły lub placówki jest zadaniem własnym, a w przypadku szkół artystycznych - z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego.”,
+
+- **d)** ust. 6 otrzymuje brzmienie: „6. Zakładanie i prowadzenie publicznych zakładów kształcenia i placówek doskonalenia nauczycieli, bibliotek pedagogicznych oraz szkół i placówek wymienionych w ust. 5a o znaczeniu regionalnym lub ponadregionalnym należy do zadań samorządu województwa, z zastrzeżeniem ust. 3c i 6c.”,
+- **e)** ust. 6c otrzymuje brzmienie: „6c. Plan sieci publicznych zakładów kształcenia i placówek doskonalenia nauczycieli, bibliotek pedagogicznych oraz szkół i placówek, o których mowa w ust. 6, określa strategia rozwoju województwa ustalona na podstawie odrębnych przepisów.”,
+- **f)** w ust. 7 pkt 4 otrzymuje brzmienie: „4) wyposażenie szkoły lub placówki w pomoce dydaktyczne i sprzęt niezbędny do pełnej realizacji programów nauczania, programów wychowawczych, przeprowadzania sprawdzianów i egzaminów oraz wykonywania innych zadań statutowych.”;
+- **6)** w art. 5a ust. 2 otrzymuje brzmienie: „2. Zapewnienie kształcenia, wychowania i opieki, w tym profilaktyki społecznej, jest zadaniem oświatowym:
+- **1)** gmin - w przedszkolach oraz szkołach, o których mowa w art. 5 ust. 5,
+- **2)** powiatów - w szkołach i placówkach, o których mowa w art. 5 ust. 5a,
+- **3)** samorządów województw - w szkołach, placówkach, zakładach kształcenia i placówkach doskonalenia nauczycieli, o których mowa w art. 5 ust. 6.”;
+- **7)** w art. 7 ust. 3 otrzymuje brzmienie: „3. Szkoła niepubliczna może uzyskać uprawnienia szkoły publicznej wymienione w ust. 2, jeżeli:
+- **1)** realizuje programy nauczania uwzględniające podstawy programowe wymienione w ust. 1 pkt 4 lit. a),
+- **2)** realizuje zajęcia edukacyjne w cyklu nie krótszym oraz w wymiarze nie niższym niż łączny wymiar obowiązkowych zajęć edukacyjnych określony w ramowym planie nauczania szkoły publicznej danego typu,
+- **3)** stosuje zasady klasyfikowania i promowania uczniów oraz przeprowadzania egzaminów i sprawdzianów, o których mowa w ust. 1 pkt 5, z wyjątkiem egzaminów wstępnych,
+- **4)** prowadzi dokumentację przebiegu nauczania ustaloną dla szkół publicznych,
+- **5)** w przypadku szkoły prowadzącej kształcenie zawodowe - kształci w zawodach określonych w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 24 ust. 1, a w przypadku liceum profilowanego - kształci w profilach kształcenia ogólnozawodowego, o których mowa w art. 24 ust. 6,
+- **6)** zatrudnia nauczycieli obowiązkowych zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepis ust. 1a stosuje się odpowiednio, z zastrzeżeniem art. 86.”;
+- **8)** w art. 9:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Szkoły publiczne i niepubliczne dzielą się na następujące typy:
+
+- **1)** sześcioletnią szkołę podstawową, w której w ostatnim roku nauki przeprowadza się sprawdzian,
+- **2)** trzyletnie gimnazjum, w którym w ostatnim roku nauki przeprowadza się egzamin, dające możliwość dalszego kształcenia w szkołach, o których mowa w pkt 3 lit. a)-d) oraz h),
+- **3)** szkoły ponadgimnazjalne:
+    - **a)** zasadnicze szkoły zawodowe o okresie nauczania nie krótszym niż 2 lata i nie dłuższym niż 3 lata, których ukończenie umożliwia uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu, a także dalsze kształcenie w szkołach wymienionych w lit. e) i f),
+    - **b)** trzyletnie licea ogólnokształcące, których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego,
+    - **c)** trzyletnie licea profilowane kształcące w profilach kształcenia ogólnozawodowego, których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego,
+    - **d)** czteroletnie technika, których ukończenie umożliwia uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu, a także umożliwiające uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego,
+    - **e)** dwuletnie uzupełniające licea ogólnokształcące dla absolwentów szkół wymienionych w lit. a), których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego,
+    - **f)** trzyletnie technika uzupełniające dla absolwentów szkół wymienionych w lit. a), których ukończenie umożliwia uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu, a także umożliwiające uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego,
+    - **g)** szkoły policealne o okresie nauczania nie dłuższym niż 2,5 roku, których ukończenie umożliwia osobom posiadającym wykształcenie średnie uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu,
+    - **h)** trzyletnie szkoły specjalne przysposabiające do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzężonymi, których ukończenie umożliwia uzyskanie świadectwa potwierdzającego przysposobienie do pracy.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, typy szkół artystycznych publicznych i niepublicznych, uwzględniając szkoły realizujące kształcenie ogólne i kształcenie artystyczne, a także szkoły realizujące wyłącznie kształcenie artystyczne.”;
+
+- **9)** w art. 9a w ust. 2:
+    - **a)** po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „1a) przygotowywanie pytań, zadań i testów oraz ustalanie zestawów do przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, 1b) opracowywanie, we współpracy z okręgowymi komisjami egzaminacyjnymi, a w zakresie egzaminów zawodowych również z ministrami właściwymi dla zawodów, oraz ogłaszanie informatorów zawierających w szczególności opis zakresu sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, przykładowe pytania, zadania i testy oraz kryteria ich oceniania,”,
+    - **b)** uchyla się pkt 5,
+    - **c)** pkt 6 otrzymuje brzmienie: „6) koordynowanie działalności okręgowych komisji egzaminacyjnych oraz nadzorowanie ich prac związanych z opracowywaniem propozycji zestawów zadań, pytań i testów do sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, a także nadzorowanie prac związanych z ich przeprowadzaniem, w tym ocenianiem przez okręgowe komisje egzaminacyjne prac egzaminacyjnych, w celu zapewnienia jednolitości i jakości działań wykonywanych przez okręgowe komisje egzaminacyjne oraz porównywalności wyników sprawdzianu i egzaminów.”;
+
+- **10)** uchyla się art. 9b;
+- **11)** w art. 9c:
+    - **a)** w ust. 2: - pkt 2 i 2a otrzymują brzmienie: „2) przygotowywanie, w porozumieniu z Centralną Komisją Egzaminacyjną, propozycji pytań, zadań i testów oraz ich zestawów do przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, 2a) przygotowywanie, w porozumieniu z Centralną Komisją Egzaminacyjną, propozycji pytań, zadań i testów oraz kryteriów ich oceniania do informatorów, o których mowa w art. 9a ust. 2 pkt 1b,”, - w pkt 6 kropkę zastępuje się przecinkiem oraz dodaje się pkt 7 i 8 w brzmieniu: „7) prowadzenie ewidencji egzaminatorów zamieszkujących na terenie objętym właściwością danej okręgowej komisji egzaminacyjnej,
+
+- **8)** współpraca z kuratorami oświaty właściwymi ze względu na zasięg terytorialny komisji w sprawach związanych z przeprowadzaniem sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz doskonaleniem nauczycieli w zakresie diagnozowania, oceniania, egzaminowania i badania osiągnięć edukacyjnych uczniów.”,
+    - **b)** po ust. 2 dodaje się ust. 3-8 w brzmieniu: „3. Do ewidencji egzaminatorów, z zastrzeżeniem ust. 4, może być wpisana osoba, która:
+
+- **1)** posiada kwalifikacje wymagane do zajmowania stanowiska nauczyciela w szkole, z zakresu której jest przeprowadzany sprawdzian lub egzamin, o których mowa w art. 9 ust. 1, albo jest nauczycielem akademickim specjalizującym się w dziedzinie związanej z zajęciami edukacyjnymi wchodzącymi w zakres odpowiednio sprawdzianu lub egzaminu,
+- **2)** posiada, uzyskany w okresie 6 lat przed złożeniem wniosku o wpis do ewidencji, co najmniej trzyletni staż pracy dydaktycznej w szkole publicznej, szkole niepublicznej o uprawnieniach szkoły publicznej, zakładzie kształcenia nauczycieli lub szkole wyższej albo co najmniej trzyletni staż pracy na stanowisku wymagającym kwalifikacji pedagogicznych w placówce doskonalenia nauczycieli, urzędzie organu administracji rządowej, kuratorium oświaty lub innej jednostce sprawującej nadzór pedagogiczny,
+- **3)** spełnia warunki określone w art. 10 ust. 5 pkt 2-4 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela,
+- **4)** ukończyła z wynikiem pozytywnym szkolenie dla kandydatów na egzaminatorów organizowane przez okręgową komisję egzaminacyjną, zakończone egzaminem ze znajomości zasad przeprowadzania i oceniania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1.
+
+4. Do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu potwierdzającego kwalifikacje zawodowe może również być wpisana osoba, która:
+
+- **1)** jest przedstawicielem pracodawcy lub organizacji pracodawców albo stowarzyszenia lub samorządu zawodowego,
+- **2)** posiada kwalifikacje wymagane od instruktora praktycznej nauki zawodu oraz uzyskany w okresie ostatnich 6 lat przed złożeniem wniosku o wpis do ewidencji, co najmniej trzyletni staż pracy w zawodzie, w którym przeprowadzany jest egzamin,
+- **3)** spełnia warunki określone w ust. 3 pkt 3 i 4.
+
+5. Skreślenie z ewidencji egzaminatorów następuje:
+
+- **1)** na wniosek egzaminatora,
+- **2)** w przypadku:
+    - **a)** nieusprawiedliwionego nieuczestniczenia w okresowych szkoleniach egzaminatorów, organizowanych przez okręgowe komisje egzaminacyjne,
+    - **b)** nieusprawiedliwionego nieuczestniczenia w pracach dotyczących przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, do których egzaminator został wyznaczony przez dyrektora okręgowej komisji egzaminacyjnej,
+    - **c)** nieprzestrzegania przepisów dotyczących przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz ich oceniania,
+
+- **3)** w razie niespełniania warunków, o których mowa w ust. 3 pkt 3,
+- **4)** w razie dokonania wpisu z naruszeniem prawa.
+
+6. Wpis do ewidencji egzaminatorów, odmowa wpisu oraz skreślenie z ewidencji następuje w drodze decyzji administracyjnej dyrektora okręgowej komisji egzaminacyjnej.
+
+7. Organem wyższego stopnia w stosunku do dyrektora okręgowej komisji egzaminacyjnej w sprawach, o których mowa w ust. 6, jest dyrektor Centralnej Komisji Egzaminacyjnej.
+
+8. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, ramowy program szkolenia kandydatów na egzaminatorów, sposób prowadzenia ewidencji egzaminatorów oraz tryb wpisywania i skreślania egzaminatorów z ewidencji, uwzględniając w szczególności obowiązkowy wymiar godzin szkolenia, a także dokumenty wymagane od osób ubiegających się o wpis do ewidencji oraz zakres danych wpisywanych w ewidencji.”;
+
+- **12)** po art. 9d dodaje się art. 9e w brzmieniu: „Art. 9e. Osoby uczestniczące w przygotowywaniu, drukowaniu, przechowywaniu i transporcie pytań, zadań i testów oraz ich zestawów, a także arkuszy egzaminacyjnych do przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, są obowiązane do nieujawniania osobom nieuprawnionym informacji dotyczących tych pytań, zadań, testów, zestawów i arkuszy egzaminacyjnych.”;
+- **13)** w art. 10:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Osoba, która ukończyła 18 lat i nie jest uczniem szkoły, może uzyskać świadectwo ukończenia szkoły, z wyjątkiem szkoły kształcącej w zawodach medycznych, na podstawie egzaminów eksternistycznych przeprowadzanych przez państwową komisję egzaminacyjną powołaną przez kuratora oświaty, a w przypadku szkół artystycznych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Egzaminy eksternistyczne przeprowadza się z zakresu wszystkich zajęć edukacyjnych przewidzianych w planie nauczania szkoły dla dorosłych odpowiedniego typu.”,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw oświaty i wychowania, a w przypadku szkół artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, określi, w drodze rozporządzenia, skład, warunki powoływania i odwoływania państwowych komisji egzaminacyjnych, tryb ich działania, szczegółowe warunki i tryb przeprowadzania egzaminów eksternistycznych, wysokość opłat pobieranych za ich przeprowadzenie oraz warunki wynagradzania członków komisji, a także może określić przypadki, w których do egzaminów eksternistycznych może przystąpić osoba, która nie ukończyła 18 lat.”,
+    - **d)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Rozporządzenie, o którym mowa w ust. 2, powinno w szczególności określać szkoły i placówki, przy których mogą być powoływane państwowe komisje egzaminacyjne, a także ustalać wysokość opłaty za egzamin z jednych zajęć edukacyjnych tak, aby nie przekraczała kwoty 30 zł waloryzowanej corocznie średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej, a także uwzględniać możliwość zwalniania z całości lub części opłat za przeprowadzenie egzaminu eksternistycznego osób o niskich dochodach.”;
+
+- **14)** w art. 11a w ust. 4 w pkt 2 wyrazy „w ust. 3 pkt 2” zastępuje się wyrazami „w art. 9 ust. 1 pkt 3 lit. a) i h),”;
+- **15)** w art. 13 po ust. 4 dodaje się ust. 5 w brzmieniu: „5. Podręczniki szkolne i książki pomocnicze do kształcenia uczniów w zakresie niezbędnym do podtrzymywania poczucia tożsamości narodowej, etnicznej i językowej mogą być dofinansowywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw oświaty i wychowania.”;
+- **16)** w art. 14:
+    - **a)** ust. 1a otrzymuje brzmienie: „1a. W przypadku dzieci posiadających orzeczenie o potrzebie kształcenia specjalnego wychowaniem przedszkolnym może być objęte dziecko w wieku powyżej 6 lat, nie dłużej jednak niż do końca roku szkolnego w tym roku kalendarzowym, w którym dziecko kończy 10 lat. Obowiązek szkolny tych dzieci może być odroczony do końca roku szkolnego w tym roku kalendarzowym, w którym dziecko kończy 10 lat.”,
+    - **b)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. W szczególnie uzasadnionych przypadkach dyrektor przedszkola może przyjąć do przedszkola dziecko, które ukończyło 2,5 roku.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Dziecko w wieku 6 lat jest obowiązane odbyć roczne przygotowanie przedszkolne w przedszkolu albo w oddziale przedszkolnym zorganizowanym w szkole podstawowej.”,
+    - **d)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Obowiązek, o którym mowa w ust. 3, rozpoczyna się z początkiem roku szkolnego w tym roku kalendarzowym, w którym dziecko kończy 6 lat. W przypadku dziecka, o którym mowa w ust. 1a, obowiązek ten rozpoczyna się z początkiem roku szkolnego poprzedzającego rok szkolny, w którym dziecko rozpocznie spełnianie obowiązku szkolnego.”,
+    - **e)** ust. 4 otrzymuje brzmienie: „4. Zapewnienie warunków do spełniania obowiązku, o którym mowa w ust. 3, jest zadaniem własnym gminy.”;
+
+- **17)** art. 14a otrzymuje brzmienie: „Art. 14a. 1. Rada gminy ustala sieć prowadzonych przez gminę publicznych przedszkoli i oddziałów przedszkolnych w szkołach podstawowych.
+
+2. Sieć publicznych przedszkoli i oddziałów przedszkolnych w szkołach podstawowych powinna być ustalona tak, aby wszystkie dzieci sześcioletnie zamieszkałe na obszarze gminy miały możliwość spełniania obowiązku, o którym mowa w art. 14 ust. 3, a droga dziecka sześcioletniego z domu do najbliższego publicznego przedszkola lub oddziału przedszkolnego w szkole podstawowej nie przekraczała 3 km.
+
+3. Jeżeli droga dziecka sześcioletniego z domu do najbliższego publicznego przedszkola lub oddziału przedszkolnego w szkole podstawowej przekracza 3 km, obowiązkiem gminy jest zapewnienie bezpłatnego transportu i opieki w czasie przewozu dziecka lub zwrot kosztów przejazdu dziecka i opiekuna środkami komunikacji publicznej, jeżeli dowożenie zapewniają rodzice.
+
+4. Obowiązkiem gminy jest zapewnienie niepełnosprawnym dzieciom sześcioletnim bezpłatnego transportu i opieki w czasie przewozu do najbliższego przedszkola, oddziału przedszkolnego w szkole podstawowej lub ośrodka umożliwiającego dzieciom, o których mowa w art. 16 ust. 7, a także dzieciom upośledzonym umysłowo ze sprzężonymi niepełnosprawnościami realizację obowiązku, o którym mowa w art. 14 ust. 3, albo zwrot kosztów przejazdu ucznia i opiekuna środkami komunikacji publicznej, jeżeli dowożenie zapewniają rodzice.”;
+
+- **18)** po art. 14a dodaje się art. 14b w brzmieniu: „Art. 14b. 1. Rodzice dziecka podlegającego obowiązkowi, o którym mowa w art. 14 ust. 3, są obowiązani dopełnić czynności związanych ze zgłoszeniem dziecka do przedszkola lub oddziału przedszkolnego w szkole podstawowej, a także zapewnić regularne uczęszczanie dziecka na zajęcia.
+
+2. Kontrolowanie spełniania obowiązku, o którym mowa w art. 14 ust. 3, należy do zadań dyrektora szkoły podstawowej, w obwodzie której dziecko mieszka.
+
+3. Dyrektorzy publicznych i niepublicznych przedszkoli i szkół podstawowych, w których zorganizowano oddziały przedszkolne, są obowiązani powiadomić dyrektora szkoły, w obwodzie której dziecko mieszka, o spełnianiu przez dziecko obowiązku, o którym mowa w art. 14 ust. 3, w tym przedszkolu lub oddziale przedszkolnym oraz o zmianach w tym zakresie.”;
+
+- **19)** w art. 16:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Decyzję o wcześniejszym przyjęciu dziecka do szkoły podstawowej podejmuje dyrektor szkoły po zasięgnięciu opinii publicznej poradni psychologiczno-pedagogicznej. Dziecko, które zostało wcześniej przyjęte do szkoły podstawowej, jest zwolnione z obowiązku, o którym mowa w art. 14 ust. 3.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Decyzję w sprawie odroczenia obowiązku szkolnego podejmuje dyrektor publicznej szkoły podstawowej, w obwodzie której dziecko mieszka, po zasięgnięciu opinii publicznej poradni psychologicznopedagogicznej.”,
+    - **c)** ust. 5a otrzymuje brzmienie: „5a. Po ukończeniu gimnazjum obowiązek nauki spełnia się:
+
+- **1)** przez uczęszczanie do publicznej lub niepublicznej szkoły ponadgimnazjalnej,
+- **2)** przez uczęszczanie na zajęcia realizowane w formach pozaszkolnych w placówkach publicznych i niepublicznych posiadających akredytację, o której mowa w art. 68b,
+- **3)** przez uczęszczanie na zajęcia realizowane w ramach działalności oświatowej prowadzonej przez osoby prawne lub fizyczne na podstawie art. 83a ust. 2, dla której osoby te uzyskały akredytację, o której mowa w art. 68b,
+- **4)** przez realizowanie, zgodnie z odrębnymi przepisami, przygotowania zawodowego u pracodawcy.”,
+    - **d)** ust. 7 otrzymuje brzmienie: „7. Za spełnianie obowiązku, o którym mowa w art. 14 ust. 3, obowiązku szkolnego i obowiązku nauki uznaje się również udział dzieci i młodzieży upośledzonych umysłowo w stopniu głębokim w zajęciach rewalidacyjno-wychowawczych, organizowanych zgodnie z odrębnymi przepisami.”,
+    - **e)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Na wniosek rodziców dyrektor szkoły, o której mowa w art. 14b ust. 2, może zezwolić na spełnianie przez dziecko obowiązku, o którym mowa w art. 14 ust. 3, poza przedszkolem albo oddziałem przedszkolnym oraz określić warunki jego spełniania, uwzględniając konieczność uzyskania przez dziecko przed rozpoczęciem spełniania obowiązku szkolnego opinii publicznej poradni psychologiczno-pedagogicznej.”;
+
+- **20)** w art. 17:
+    - **a)** ust. 3a otrzymuje brzmienie: „3a. Obowiązkiem gminy jest zapewnienie uczniom niepełnosprawnym, których kształcenie i wychowanie odbywa się na podstawie art. 71b, bezpłatnego transportu i opieki w czasie przewozu do najbliższej szkoły podstawowej, gimnazjum lub ośrodka umożliwiającego realizację obowiązku szkolnego i obowiązku nauki dzieciom i młodzieży, o których mowa w art. 16 ust. 7, a także dzieciom i młodzieży z upośledzeniem umysłowym ze sprzężonymi niepełnosprawnościami albo zwrot kosztów przejazdu ucznia i opiekuna środkami komunikacji publicznej, jeżeli dowożenie zapewniają rodzice.”,
+    - **b)** po ust. 5 dodaje się ust. 6 w brzmieniu: „6. Ustalanie planów sieci publicznych szkół, o których mowa w ust. 4 i 5, następuje po uzyskaniu pozytywnej opinii kuratora oświaty o zgodności planu z przepisami ust. 1-5.”;
+
+- **21)** w art. 19 w ust. 1 zdanie wstępne otrzymuje brzmienie: „1. Dyrektorzy publicznych szkół podstawowych i gimnazjów kontrolują spełnianie obowiązku szkolnego przez dzieci zamieszkujące w obwodach tych szkół, a gmina kontroluje spełnianie obowiązku nauki przez młodzież w wieku 16-18 lat, w tym odpowiednio:”;
+- **22)** art. 20 otrzymuje brzmienie: „Art. 20. Niespełnianie obowiązku, o którym mowa w art. 14 ust. 3, obowiązku szkolnego lub obowiązku nauki podlega egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.”;
+- **23)** w art. 21:
+    - **a)** dotychczasową treść oznacza się jako ust. 1,
+    - **b)** dodaje się ust. 2 w brzmieniu: „2. Minister właściwy do spraw oświaty i wychowania inicjuje, koordynuje i nadzoruje organizację ogólnopolskich olimpiad i turniejów dla uczniów, a także może zlecić zadania z tego zakresu, w drodze umowy, szkołom wyższym, placówkom naukowym, stowarzyszeniom naukowym, zawodowym i innym podmiotom prowadzącym statutową działalność oświatową lub naukową.”;
+
+- **24)** w art. 22: ”,
+    - **a)** w ust. 1: - pkt 1 otrzymuje brzmienie: „1) warunki i tryb przyjmowania uczniów do szkół oraz przechodzenia z jednych typów szkół do innych, a także może określić maksymalną liczbę szkół ponadgimnazjalnych, o przyjęcie do których można ubiegać się równocześnie, uwzględniając w szczególności zasadę powszechnej dostępności do szkół wszystkich typów,”, - pkt 3 otrzymuje brzmienie: „3) organizację kształcenia dzieci obywateli polskich czasowo przebywających za granicą,”, - po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) warunki i sposób wspomagania nauczania języka polskiego, historii, geografii, kultury polskiej oraz innych przedmiotów nauczanych w języku polskim wśród Polonii i Polaków zamieszkałych za granicą, uwzględniając w szczególności:
+    - **a)** kierowanie nauczycieli do pracy za granicą w środowiskach polonijnych,
+    - **b)** przekazywanie niezbędnych podręczników i pomocy dydaktycznych służących temu nauczaniu,
+    - **c)** organizowanie doskonalenia zawodowego nauczycieli pracujących w środowiskach polonijnych w kraju i za granicą,
+    - **d)** organizowanie kolonii i innych form letniego wypoczynku dzieci i młodzieży polonijnej,”, - pkt 4 otrzymuje brzmienie: „4) zakres i warunki przyznawania świadczeń przysługujących nauczycielom polskim skierowanym lub delegowanym do pracy za granicą w celach, o których mowa w pkt 3 i 3a, uwzględniając w szczególności częściowy zwrot kosztów utrzymania i zakwaterowania oraz kosztów podróży, a także wyposażenie nauczycieli w niezbędne podręczniki, środki dydaktyczne i inne pomoce niezbędne w procesie nauczania w miejscu zatrudnienia.
+    - **b)** ust. 1a otrzymuje brzmienie: „1a. W rozporządzeniu, o którym mowa w ust. 1 pkt 3, minister właściwy do spraw oświaty i wychowania może wyłączyć stosowanie niektórych przepisów ustawy w odniesieniu do szkół, zespołów szkół i szkolnych punktów konsultacyjnych przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 5 ust. 3b pkt 1, w zakresie wynikającym ze szczególnych warunków funkcjonowania tych szkół, zespołów szkół i szkolnych punktów konsultacyjnych, a także wprowadzić w tym zakresie odrębne unormowania.”,
+    - **c)** w ust. 2 pkt 3 i 4 otrzymują brzmienie: „3) warunki i tryb zalecania do użytku szkolnego środków dydaktycznych, uwzględniając w szczególności:
+    - **a)** konieczność uzyskania opinii rzeczoznawców wpisanych na listę prowadzoną przez ministra właściwego do spraw oświaty i wychowania,
+    - **b)** warunki jakie muszą spełniać osoby wpisywane na listę rzeczoznawców oraz warunki i tryb skreślania z listy,
+    - **c)** konieczność zapewnienia poprawności merytorycznej i przydatności dydaktycznej, stopnia bezpieczeństwa, jakości technicznej i estetyki wykonania tych środków,
+
+- **4)** warunki i sposób oceniania, klasyfikowania i promowania uczniów oraz przeprowadzania sprawdzianów i egzaminów, z uwzględnieniem:
+    - **a)** prawa ucznia do jawnej i umotywowanej oceny oraz informacji o wymaganiach edukacyjnych,
+    - **b)** tworzenia wewnątrzszkolnych systemów oceniania,
+    - **c)** dostosowania wymagań edukacyjnych do indywidualnych potrzeb psychofizycznych i edukacyjnych ucznia,
+    - **d)** przekazywania rodzicom informacji o postępach i trudnościach ucznia w nauce,
+    - **e)** kompetencji okręgowych komisji egzaminacyjnych w zakresie przygotowywania, przeprowadzania i oceniania sprawdzianu i egzaminów,
+    - **f)** możliwości zwalniania z części lub całości sprawdzianu i egzaminu laureatów i finalistów odpowiednio konkursów i olimpiad przedmiotowych,
+    - **g)** możliwości unieważnienia sprawdzianu lub egzaminu w przypadku stwierdzenia naruszenia przepisów dotyczących przeprowadzania sprawdzianu i egzaminów, jeżeli to naruszenie mogło mieć wpływ na wynik sprawdzianu lub egzaminu,”,
+    - **d)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Minister właściwy do spraw oświaty i wychowania może określić, w drodze rozporządzenia, przypadki, w których do szkoły dla dorosłych można przyjąć osobę, która ukończyła 16 lat, biorąc pod uwagę opóźnienie w cyklu kształcenia.”,
+    - **e)** ust. 3 otrzymuje brzmienie: „3. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, organizację roku szkolnego w szkołach w zakładach poprawczych i w schroniskach dla nieletnich, z uwzględnieniem w szczególności specyfiki organizacji pracy wychowawczej i resocjalizacyjnej w tych zakładach i schroniskach oraz zapewnienia wykonywania orzeczeń sądowych.”;
+
+- **25)** po art. 22 dodaje się art. 22a w brzmieniu: „Art. 22a. 1. Nauczyciel ma prawo wyboru programu wychowania przedszkolnego, programu nauczania oraz podręcznika spośród programów i podręczników dopuszczonych do użytku szkolnego.
+
+2. Nauczyciel ma prawo opracowania własnego programu wychowania przedszkolnego lub programu nauczania.
+
+3. Minister właściwy do spraw oświaty i wychowania, a w przypadku programów nauczania i podręczników do szkół artystycznych - minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze decyzji administracyjnej, dopuszcza do użytku szkolnego programy wychowania przedszkolnego, programy nauczania i podręczniki.
+
+4. Program lub podręcznik może być dopuszczony do użytku szkolnego, jeżeli uzyskał pozytywne opinie rzeczoznawców wskazanych odpowiednio przez ministra właściwego do spraw oświaty i wychowania lub ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego spośród rzeczoznawców wpisanych na listy rzeczoznawców prowadzone przez tych ministrów.
+
+5. Podmiot ubiegający się o dopuszczenie do użytku szkolnego programu lub podręcznika wnosi opłatę, która stanowi dochód budżetu państwa.
+
+6. Koszty sporządzania opinii rzeczoznawców, o których mowa w ust. 4, pokrywane są z budżetu państwa z części będącej w dyspozycji odpowiednio ministra właściwego do spraw oświaty i wychowania oraz ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+
+7. Minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze decyzji administracyjnej, może cofnąć dopuszczenie do użytku szkolnego programu lub podręcznika:
+
+- **1)** na wniosek podmiotu, który posiada tytuł prawny do programu lub podręcznika,
+- **2)** z urzędu - w przypadku, gdy co najmniej dwóch rzeczoznawców, o których mowa w ust. 4, stwierdzi, że program lub podręcznik utracił aktualność lub przydatność dydaktyczną, albo od wyczerpania nakładu minęły 3 lata i nie przewiduje się wznowienia wydania.
+
+8. Minister właściwy do spraw oświaty i wychowania, a w przypadku programów nauczania i podręczników dla szkół artystycznych - minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określą, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki, jakie muszą spełniać programy i podręczniki dopuszczane do użytku szkolnego, a także warunki tworzenia przez nauczycieli własnych programów,
+- **2)** szczegółowe warunki i tryb dopuszczania do użytku szkolnego programów i podręczników oraz cofania dopuszczenia,
+- **3)** warunki, jakie muszą spełnić osoby wpisywane na listę rzeczoznawców, oraz warunki i tryb skreślania z listy,
+- **4)** wysokość i tryb wnoszenia opłat w postępowaniu o dopuszczenie do użytku szkolnego programu lub podręcznika, a także warunki wynagradzania rzeczoznawców.
+
+9. Rozporządzenie, o którym mowa w ust. 8, powinno w szczególności uwzględnić:
+
+- **1)** obowiązek uwzględniania w programach i podręcznikach treści nauczania zawartych w podstawach programowych,
+- **2)** posiadanie przez rzeczoznawców wykształcenia wyższego oraz doświadczenia w pracy naukowej lub dydaktycznej,
+- **3)** instytucje, których opinia jest wymagana przy ubieganiu się o wpisanie na listę rzeczoznawców,
+- **4)** prowadzenie wykazów programów i podręczników dopuszczonych do użytku szkolnego,
+- **5)** tworzenie szkolnych zestawów programów nauczania,
+- **6)** wysokość opłat wnoszonych w postępowaniu o dopuszczenie programu lub podręcznika do użytku szkolnego z możliwością różnicowania opłat w zależności od rodzaju programu i podręcznika oraz etapu edukacyjnego, do którego są przeznaczone, z tym że opłata za dopuszczenie programu wychowania przedszkolnego i programu nauczania nie powinna przekraczać 800 zł, a za dopuszczenie podręcznika 4800 zł, waloryzowanych corocznie średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem ustalonym w ustawie budżetowej.”;
+- **26)** art. 23 otrzymuje brzmienie: „Art. 23. W zakresie kształcenia zawodowego zadania określone w art. 22 ust. 2 pkt 1-3 i w art. 22a ust. 8 minister właściwy do spraw oświaty i wychowania wykonuje w uzgodnieniu z ministrami właściwymi dla zawodów ujętych w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 24 ust. 1.”;
+- **27)** w art. 24: 1080 i Nr 154, poz. 1793 i 1800 oraz z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056).”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Wniosek właściwego ministra, o którym mowa w ust. 1, powinien zawierać opis zawodu ze zbiorem umiejętności zawodowych, uzasadnienie potrzeby kształcenia w tym zawodzie, nazwę i miejsce zawodu w określonej grupie klasyfikacji zawodów i specjalności, o której mowa w ust. 1, a także informację o potrzebach rynku pracy w zakresie danego zawodu oraz opinię organizacji pracodawców reprezentatywnych w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno - Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz.
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Właściwy minister, o którym mowa w ust. 1, może wspomagać materialnie i organizacyjnie szkoły i placówki kształcące w danym zawodzie w zakresie zajęć praktycznych i stosowania nowoczesnych technik i technologii w procesie kształcenia zawodowego w odniesieniu do potrzeb rynku pracy.”;
+
+- **28)** art. 28 otrzymuje brzmienie: „Art. 28. Przepisy ustawy nie naruszają uprawnień Ministra Obrony Narodowej do zakładania, prowadzenia i nadzorowania szkół na podstawie przepisów o służbie wojskowej żołnierzy zawodowych.”;
+- **29)** art. 29 otrzymuje brzmienie: „Art. 29. Rada Ministrów może określić, w drodze rozporządzenia, wykaz szkół i placówek, które prowadzą: minister właściwy do spraw wewnętrznych, Minister Obrony Narodowej i Minister Sprawiedliwości.”;
+- **30)** w art. 31:
+    - **a)** pkt 6a otrzymuje brzmienie: „6a) opiniuje arkusze organizacji publicznych szkół i placówek, z wyjątkiem szkół i placówek prowadzonych przez ministrów, w zakresie ich zgodności z przepisami, przedstawiane przez organy prowadzące szkoły i placówki przed zatwierdzeniem arkuszy,”,
+    - **b)** po pkt 6a dodaje się pkt 6b i 6c w brzmieniu: „6b) opiniuje plany pracy placówek doskonalenia nauczycieli, z wyjątkiem placówek prowadzonych przez ministra właściwego do spraw oświaty i wychowania i ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, 6c) opracowuje programy wykorzystania środków na dofinansowanie doskonalenia nauczycieli, wyodrębnionych w budżecie wojewody, po zasięgnięciu opinii związków zawodowych reprezentatywnych w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego,”,
+    - **c)** w pkt 13 kropkę zastępuje się przecinkiem oraz dodaje się pkt 14 w brzmieniu: „14) wykonuje inne zadania określone w przepisach odrębnych, w szczególności w zakresie obronności.”;
+
+- **31)** w art. 32a ust. 4 otrzymuje brzmienie: „4. W odniesieniu do publicznych szkół i placówek artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wydaje w porozumieniu z ministrem właściwym do spraw oświaty i wychowania przepisy określone w art. 11 ust. 2 oraz art. 22 ust. 1 pkt 1 i ust. 2 pkt 1-8.”;
+- **32)** art. 32b otrzymuje brzmienie: „Art. 32b. W przypadku publicznych i niepublicznych szkół prowadzących kształcenie w zawodach dla żeglugi morskiej i śródlądowej kurator oświaty sprawuje nadzór pedagogiczny, we współdziałaniu odpowiednio z ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw transportu, w zakresie realizowania w procesie kształcenia w tych szkołach postanowień Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. (Dz.U. z 1984 r. Nr 39, poz. 201 oraz z 1999 r. Nr 30, poz. 286).”;
+- **33)** w art. 33 w ust. 2:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) przestrzeganie statutu szkoły lub placówki,”,
+    - **b)** dodaje się pkt 6 i 7 w brzmieniu: „6) przestrzeganie praw dziecka i praw ucznia oraz upowszechnianie wiedzy o tych prawach,
+
+- **7)** zapewnienie uczniom bezpiecznych i higienicznych warunków nauki, wychowania i opieki.”;
+- **34)** w art. 34 ust. 2 i 2a otrzymują brzmienie: „2. W przypadku stwierdzenia niedostatecznych efektów kształcenia lub wychowania w szkole lub placówce organ sprawujący nadzór pedagogiczny poleca dyrektorowi szkoły lub placówki opracowanie, w uzgodnieniu z organem prowadzącym, programu i harmonogramu poprawy efektywności kształcenia lub wychowania. Wdrożenie programu następuje w terminach określonych w harmonogramie, zaakceptowanych przez organ sprawujący nadzór pedagogiczny. Program musi uwzględnić uwagi i wnioski zgłoszone przez organ sprawujący nadzór pedagogiczny.
+
+2a. Jeżeli dyrektor szkoły lub placówki nie usunie w wyznaczonym terminie uchybień, o których mowa w ust. 1, nie opracuje lub nie wdroży w określonych w harmonogramie terminach programu poprawy efektywności kształcenia lub wychowania albo nie uwzględni w tym programie zgłoszonych uwag i wniosków, organ sprawujący nadzór pedagogiczny występuje do organu prowadzącego szkołę lub placówkę z wnioskiem o odwołanie dyrektora szkoły lub placówki z końcem albo w czasie roku szkolnego bez wypowiedzenia. Wniosek złożony w tej sprawie przez organ sprawujący nadzór pedagogiczny jest wiążący dla organu prowadzącego szkołę lub placówkę.”;
+
+- **35)** w art. 34a w ust. 2 pkt 1 otrzymuje brzmienie: „1) prawidłowość dysponowania przyznanymi szkole lub placówce środkami budżetowymi oraz pozyskanymi przez szkołę lub placówkę środkami pochodzącymi z innych źródeł, a także gospodarowania mieniem,”;
+- **36)** w art. 35:
+    - **a)** w ust. 2: - pkt 2 otrzymuje brzmienie: „2) kontroluje sprawność i efektywność nadzoru pedagogicznego sprawowanego przez kuratorów oświaty oraz przestrzeganie przepisów obowiązujących w tym zakresie, a także może wydawać na piśmie kuratorom oświaty wiążące ich wytyczne i polecenia, z wyjątkiem indywidualnych spraw rozstrzyganych w drodze decyzji administracyjnej,”, - w pkt 4 kropkę zastępuje się przecinkiem oraz dodaje się pkt 5 w brzmieniu: „5) może ogłaszać w wydawanym przez siebie dzienniku urzędowym zalecane standardy wyposażenia szkół niezbędne do nauczania przedmiotów ogólnokształcących.”,
+    - **b)** ust. 2a otrzymuje brzmienie: „2a. Minister Sprawiedliwości i podporządkowane organy sprawują nadzór pedagogiczny nad zakładami poprawczymi, schroniskami dla nieletnich, ośrodkami diagnostyczno-konsultacyjnymi oraz nad szkołami w tych zakładach i schroniskach, a także nad szkołami przy zakładach karnych, z wyjątkiem nadzoru nad nauczaniem przedmiotów ogólnokształcących, który sprawuje kurator oświaty.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Dyrektor szkoły lub placówki oraz inni nauczyciele zajmujący stanowiska kierownicze, z zastrzeżeniem art. 36 ust. 2, sprawują nadzór pedagogiczny w stosunku do nauczycieli zatrudnionych w tych szkołach i placówkach, a w szkołach i placówkach prowadzących kształcenie zawodowe oraz u pracodawców, u których jest organizowana praktyczna nauka zawodu, także w stosunku do instruktorów praktycznej nauki zawodu.”;
+
+- **37)** w art. 36a:
+    - **a)** ust. 5 otrzymuje brzmienie: „5. W celu przeprowadzenia konkursu organ prowadzący szkołę lub placówkę powołuje komisję konkursową w składzie:
+
+- **1)** po trzech przedstawicieli:
+    - **a)** organu prowadzącego szkołę lub placówkę,
+    - **b)** organu sprawującego nadzór pedagogiczny,
+
+- **2)** po dwóch przedstawicieli:
+    - **a)** rady pedagogicznej,
+    - **b)** rodziców,
+
+- **3)** po jednym przedstawicielu zakładowych organizacji związkowych, przy czym przedstawiciel związku zawodowego nie może być zatrudniony w szkole lub placówce, której konkurs dotyczy.”,
+    - **b)** dodaje się ust. 5b w brzmieniu: „5b. Przepis ust. 5 stosuje się również w przypadku konkursu na stanowisko dyrektora nowo zakładanego zespołu szkół lub placówek, z tym że:
+
+- **1)** dwóch przedstawicieli rady pedagogicznej wyłania się spośród przedstawicieli rad pedagogicznych wszystkich szkół lub placówek łączonych w zespół,
+- **2)** dwóch przedstawicieli rodziców wyłania się spośród rodziców uczniów wszystkich szkół lub placówek łączonych w zespół.”,
+    - **c)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Minister właściwy do spraw oświaty i wychowania, a w przypadku szkół artystycznych i placówek, o których mowa w art. 2 pkt 7, dla uczniów szkół artystycznych - minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia, regulamin konkursu na stanowisko dyrektora szkoły lub placówki oraz tryb pracy komisji konkursowej, uwzględniając w szczególności sposób ogłaszania konkursu oraz sposób nadzorowania prawidłowości postępowania konkursowego przez organ prowadzący szkołę lub placówkę.”,
+    - **d)** ust. 10 otrzymuje brzmienie: „10. Przepisy ust. 1-9a i art. 37 nie dotyczą szkół prowadzonych przez Ministra Obrony Narodowej i Ministra Sprawiedliwości lub podporządkowane im organy.”;
+
+- **38)** w art. 39:
+    - **a)** w ust. 1: - pkt 5 otrzymuje brzmienie: „5) dysponuje środkami określonymi w planie finansowym szkoły lub placówki zaopiniowanym przez radę szkoły lub placówki i ponosi odpowiedzialność za ich prawidłowe wykorzystanie, a także może organizować administracyjną, finansową i gospodarczą obsługę szkoły lub placówki, ”, - w pkt 7 kropkę zastępuje się przecinkiem oraz dodaje się pkt 8 w brzmieniu: „8) odpowiada za właściwą organizację i przebieg sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, przeprowadzanych w szkole lub placówce.”,
+    - **b)** po ust. 6 dodaje się ust. 7 w brzmieniu: „7. W przypadku nieobecności dyrektora szkoły lub placówki zastępuje go wicedyrektor, a w szkołach i placówkach, w których nie utworzono stanowiska wicedyrektora - inny nauczyciel tej szkoły lub placówki, wyznaczony przez organ prowadzący.”;
+
+- **39)** w art. 41: Rozstrzygnięcie organu sprawującego nadzór pedagogiczny jest ostateczne.”;
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) podejmowanie uchwał w sprawie wyników klasyfikacji i promocji uczniów,”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Dyrektor szkoły lub placówki wstrzymuje wykonanie uchwał, o których mowa w ust. 1, niezgodnych z przepisami prawa. O wstrzymaniu wykonania uchwały dyrektor niezwłocznie zawiadamia organ prowadzący szkołę lub placówkę oraz organ sprawujący nadzór pedagogiczny. Organ sprawujący nadzór pedagogiczny uchyla uchwałę w razie stwierdzenia jej niezgodności z przepisami prawa po zasięgnięciu opinii organu prowadzącego szkołę lub placówkę.
+
+- **40)** w art. 50 w ust. 2 pkt 2 otrzymuje brzmienie: „2) przedstawia wnioski w sprawie rocznego planu finansowego środków specjalnych szkoły lub placówki i opiniuje projekt planu finansowego szkoły lub placówki, ”;
+- **41)** w art. 51 ust. 9 otrzymuje brzmienie: „9. Powstanie rady szkoły lub placówki organizuje dyrektor szkoły lub placówki z własnej inicjatywy albo na wniosek rady rodziców, a w przypadku gimnazjów i szkół ponadgimnazjalnych także na wniosek samorządu uczniowskiego.”;
+- **42)** w art. 52 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, typy szkół i placówek, w których w skład rady szkoły lub placówki nie wchodzą rodzice lub uczniowie, a także typy szkół i placówek, w których nie powołuje się rady szkoły lub placówki, ze względu na specyficzną organizację pracy i zadania szkoły lub placówki bądź brak możliwości wyłonienia stałej reprezentacji rodziców lub uczniów.”;
+- **43)** w art. 54 ust. 1 otrzymuje brzmienie: „1. Rada rodziców może występować do organu prowadzącego szkołę lub placówkę, organu sprawującego nadzór pedagogiczny, dyrektora, rady pedagogicznej oraz rady szkoły lub placówki z wnioskami i opiniami dotyczącymi wszystkich spraw szkoły lub placówki.”;
+- **44)** art. 56 otrzymuje brzmienie: „Art. 56. 1. W szkole i placówce mogą działać, z wyjątkiem partii i organizacji politycznych, stowarzyszenia i inne organizacje, a w szczególności organizacje harcerskie, których celem statutowym jest działalność wychowawcza albo rozszerzanie i wzbogacanie form działalności dydaktycznej, wychowawczej i opiekuńczej szkoły lub placówki.
+
+2. Zgodę na podjęcie działalności przez stowarzyszenia i inne organizacje, o których mowa w ust. 1, wyraża dyrektor szkoły lub placówki po uprzednim uzgodnieniu warunków tej działalności oraz po uzyskaniu pozytywnej opinii rady szkoły lub placówki, z zastrzeżeniem art. 94a ust. 5.”;
+
+- **45)** w art. 58:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Akt założycielski szkoły publicznej, w której jest realizowany obowiązek szkolny, oprócz danych wymienionych w ust. 1 określa także jej zasięg terytorialny (obwód), w szczególności nazwy miejscowości (w miastach nazwy ulic lub ich części) należących do jej obwodu, a w przypadku szkoły podstawowej także podporządkowane jej organizacyjnie szkoły filialne. Szkole publicznej prowadzonej przez osobę fizyczną lub osobę prawną inną niż jednostka samorządu terytorialnego nie ustala się obwodu, chyba że osoba prowadząca wystąpi z takim wnioskiem.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Nie ustala się obwodów szkołom specjalnym, szkołom integracyjnym, szkołom dla mniejszości narodowych, szkołom artystycznym oraz szkołom sportowym i szkołom mistrzostwa sportowego.”,
+    - **c)** w ust. 5 na końcu dodaje się wyrazy „ , tak aby tworzenie szkół publicznych przez osoby prawne i fizyczne sprzyjało poprawie warunków kształcenia, a także korzystnie uzupełniało sieć szkół publicznych na danym terenie.”;
+
+- **46)** w art. 59:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Szkoła publiczna, z zastrzeżeniem ust. 1a i 2, może być zlikwidowana z końcem roku szkolnego przez organ prowadzący szkołę, po zapewnieniu przez ten organ uczniom możliwości kontynuowania nauki w innej szkole publicznej tego samego typu, a także odpowiednio o tym samym lub zbliżonym profilu kształcenia ogólnozawodowego albo kształcącej w tym samym lub zbliżonym zawodzie. Organ prowadzący jest obowiązany, co najmniej na 6 miesięcy przed terminem likwidacji, zawiadomić o zamiarze likwidacji szkoły: rodziców uczniów, właściwego kuratora oświaty oraz organ wykonawczy jednostki samorządu terytorialnego właściwej do prowadzenia szkół danego typu.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Szkoła w zakładzie poprawczym lub schronisku dla nieletnich może być zlikwidowana w każdym czasie, po zapewnieniu uczniom możliwości kontynuowania nauki w innej szkole.”,
+    - **c)** ust. 2 i 2a otrzymują brzmienie: „2. Szkoła, profil kształcenia ogólnozawodowego lub zawód, w jakim szkoła kształci, a także placówka publiczna prowadzona przez jednostkę samorządu terytorialnego, z zastrzeżeniem ust. 2a, mogą zostać zlikwidowane po uzyskaniu pozytywnej opinii kuratora oświaty, a w przypadku szkoły rolniczej także ministra właściwego do spraw rolnictwa, a szkoła lub placówka publiczna prowadzona przez inną osobę prawną lub osobę fizyczną - za zgodą organu, który udzielił zezwolenia na jej założenie. W przypadku szkoły i placówki artystycznej jest wymagana pozytywna opinia ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+
+2a. W przypadku szkoły prowadzącej kształcenie w zawodzie lub w profilu kształcenia ogólnozawodowego, kurator oświaty, przed wyrażeniem opinii, o której mowa w ust. 2, jest obowiązany zasięgnąć opinii odpowiednio wojewódzkiej lub powiatowej rady zatrudnienia, a także opinii:
+
+- **1)** ministra właściwego do spraw zdrowia - w przypadku szkoły medycznej,
+- **2)** ministra właściwego do spraw środowiska - w przypadku szkoły leśnej,
+- **3)** odpowiednio ministra właściwego do spraw transportu i ministra właściwego do spraw gospodarki morskiej - w przypadku szkół, o których mowa w art. 32b.”,
+    - **d)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Opinia, o której mowa w ust. 2, jest wydawana w drodze postanowienia, na które służy zażalenie.”;
+
+- **47)** w art. 62:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Organ prowadzący szkoły różnych typów lub placówki może je połączyć w zespół, z zastrzeżeniem ust. 5a-5c. Połączenie nie narusza odrębności rad pedagogicznych, rad rodziców, rad szkół lub placówek i samorządów uczniowskich poszczególnych szkół lub placówek, o ile statut zespołu nie stanowi inaczej.”,
+    - **b)** po ust. 5 dodaje się ust. 5a-5c w brzmieniu: „5a. Do zespołów szkół mogą być włączane centra kształcenia ustawicznego i centra kształcenia praktycznego wyłącznie za zgodą kuratora oświaty.
+
+5b. Połączenie w zespół przedszkola ze szkołą podstawową albo z gimnazjum, szkoły podstawowej z gimnazjum albo przedszkola ze szkołą podstawową i gimnazjum, wymaga pozytywnej opinii kuratora oświaty.
+
+5c. Przepis ust. 5b nie dotyczy szkół artystycznych, szkół sportowych, szkół z oddziałami sportowymi, szkół mistrzostwa sportowego, szkół z oddziałami integracyjnymi, szkół specjalnych, szkół z oddziałami specjalnymi, szkół w zakładach opieki zdrowotnej, w tym w zakładach lecznictwa uzdrowiskowego, w domach pomocy społecznej, szkół dla dorosłych, szkół dwujęzycznych oraz szkół dla mniejszości narodowych i szkół z oddziałami dla mniejszości narodowych, a także szkół, o których mowa w art. 5 ust. 3b i art. 35 ust. 2a. Szkoły te mogą być łączone w zespoły na zasadach określonych przez organ prowadzący.”;
+
+- **48)** art. 64 otrzymuje brzmienie: „Art. 64. 1. Podstawowymi formami działalności dydaktyczno-wychowawczej szkoły są:
+- **1)** obowiązkowe zajęcia edukacyjne,
+- **2)** dodatkowe zajęcia edukacyjne,
+- **3)** zajęcia dydaktyczno-wyrównawcze i specjalistyczne organizowane dla uczniów mających trudności w nauce oraz inne zajęcia wspomagające rozwój dzieci i młodzieży z zaburzeniami rozwojowymi,
+- **4)** nadobowiązkowe zajęcia pozalekcyjne,
+- **5)** w szkołach prowadzących kształcenie zawodowe praktyczna nauka zawodu.
+
+2. Zajęcia wymienione w ust. 1 pkt 3 i 4 mogą być prowadzone także z udziałem wolontariuszy.”;
+
+- **49)** w art. 66 ust. 1 otrzymuje brzmienie: „1. Na wniosek lub za zgodą rodziców albo pełnoletniego ucznia dyrektor szkoły po zasięgnięciu opinii rady pedagogicznej i publicznej poradni psychologiczno-pedagogicznej, w tym poradni specjalistycznej, może zezwolić uczniowi na indywidualny program lub tok nauki oraz wyznaczyć nauczyciela - opiekuna. Odmowa udzielenia zezwolenia następuje w drodze decyzji administracyjnej.”;
+- **50)** w art. 67 ust. 1 otrzymuje brzmienie: „1. Do realizacji zadań statutowych szkoła publiczna powinna zapewnić uczniom możliwość korzystania z:
+- **1)** pomieszczeń do nauki z niezbędnym wyposażeniem,
+- **2)** biblioteki,
+- **3)** świetlicy,
+- **4)** gabinetu profilaktyki zdrowotnej i pomocy przedlekarskiej,
+- **5)** zespołu urządzeń sportowych i rekreacyjnych,
+- **6)** pomieszczeń administracyjno-gospodarczych.”;
+- **51)** uchyla się art. 68;
+- **52)** art. 68a-68c otrzymują brzmienie: „Art. 68a. 1. Kształcenie ustawiczne jest organizowane i prowadzone w:
+- **1)** szkołach dla dorosłych,
+- **2)** placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego, ośrodkach dokształcania i doskonalenia zawodowego.
+
+2. Kształcenie ustawiczne może być prowadzone jako stacjonarne, zaoczne i na odległość.
+
+3. Ustawa nie dotyczy kształcenia ustawicznego realizowanego na podstawie art. 83a ust. 2 oraz w formach i na zasadach określonych odrębnymi przepisami, chyba że przepis szczególny stanowi inaczej.
+
+4. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, rodzaje placówek, o których mowa w ust. 1 pkt 2, a także szczegółową organizację, sposób, warunki i formy prowadzenia przez placówki oraz ośrodki, o których mowa w ust. 1 pkt 2, kształcenia ustawicznego, uwzględniając w szczególności centra kształcenia ustawicznego i centra kształcenia praktycznego jako rodzaje odpowiednio placówek kształcenia ustawicznego i placówek kształcenia praktycznego oraz zadania placówek i ośrodków dostosowane do potrzeb rynku pracy.
 
 **Art. 68b.**
 
@@ -53,7 +390,7 @@ source: "isap-pdf"
 
 9. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania i cofania akredytacji, skład i sposób działania zespołu, o którym mowa w ust. 2, oraz warunki wynagradzania jego członków, wzory dokumentów stosowanych w postępowaniu o uzyskanie akredytacji, a także wysokość i tryb wnoszenia opłat przez podmioty ubiegające się o akredytację.
 
-10. Rozporządzenie, o którym mowa w ust. 9, powinno uwzględniać w szczególności wdrażanie i upowszechnianie przez podmioty ubiegające się o akredytację nowatorskich rozwiązań programowo-metodycznych i organizacyjnych, mających wpływ na jakość prowadzonego kształcenia, udział w zespole przedstawicieli wojewódzkiego lub powiatowego urzędu pracy oraz organizacji pracodawców, a także ustalać wysokość opłat średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej.
+10. Rozporządzenie, o którym mowa w ust. 9, powinno uwzględniać w szczególności wdrażanie i upowszechnianie przez podmioty ubiegające się o akredytację nowatorskich rozwiązań programowo-metodycznych i organizacyjnych, mających wpływ na jakość prowadzonego kształcenia, udział w zespole przedstawicieli wojewódzkiego lub powiatowego urzędu pracy oraz organizacji pracodawców, a także ustalać wysokość opłat tak, aby nie przekraczała kwoty 760 zł waloryzowanej corocznie średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej.
 
 **Art. 68c.**
 
@@ -68,7 +405,7 @@ source: "isap-pdf"
 - **5)** wysokość opłat za egzamin kwalifikacyjny, uwzględniając jako podstawę kwotę przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, z tym że wysokość opłaty nie może przekroczyć 30% podstawy.”;
 - **53)** w art. 70 po ust. 5 dodaje się ust. 6 w brzmieniu: „6. Minister właściwy do spraw oświaty i wychowania może zawierać porozumienia z organizacjami pracodawców, samorządami gospodarczymi oraz innymi organizacjami pozarządowymi w celu poprawy stanu kształcenia zawodowego, w szczególności realizacji praktycznej nauki zawodu.”;
 - **54)** w art. 71b:
-    - **a)** ust. 1 otrzymuje brzmienie: mowa w art. 1 pkt 5 i 5a, wymagające stosowania specjalnej organizacji nauki i metod pracy. Kształcenie to może być prowadzone w formie nauki w szkołach ogólnodostępnych, szkołach lub oddziałach integracyjnych, szkołach lub oddziałach specjalnych i ośrodkach, o których mowa w art. 2 pkt 5.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Kształceniem specjalnym obejmuje się dzieci i młodzież, o których mowa w art. 1 pkt 5 i 5a, wymagające stosowania specjalnej organizacji nauki i metod pracy. Kształcenie to może być prowadzone w formie nauki w szkołach ogólnodostępnych, szkołach lub oddziałach integracyjnych, szkołach lub oddziałach specjalnych i ośrodkach, o których mowa w art. 2 pkt 5.”,
     - **b)** ust. 2-3a otrzymują brzmienie: „2. W zależności od rodzaju niepełnosprawności, w tym stopnia upośledzenia umysłowego, dzieciom i młodzieży, o których mowa w ust. 1, organizuje się kształcenie i wychowanie, które stosownie do potrzeb umożliwia naukę w dostępnym dla nich zakresie, usprawnianie zaburzonych funkcji, rewalidację i resocjalizację oraz zapewnia specjalistyczną pomoc i opiekę.
 
 2a. W przedszkolach i szkołach podstawowych, w tym specjalnych, oraz w ośrodkach, o których mowa w art. 2 pkt 5, a także w publicznych poradniach psychologiczno-pedagogicznych, w tym poradniach specjalistycznych, mogą być tworzone zespoły wczesnego wspomagania rozwoju dziecka w celu pobudzania psychoruchowego i społecznego rozwoju dziecka, od chwili wykrycia niepełnosprawności do podjęcia nauki w szkole, prowadzonego bezpośrednio z dzieckiem i jego rodziną.
@@ -79,7 +416,7 @@ source: "isap-pdf"
 
 3a. Opinie o potrzebie wczesnego wspomagania rozwoju dziecka, o których mowa w ust. 3, mogą również wydawać zespoły opiniujące działające w niepublicznych poradniach psychologicznopedagogicznych, w tym w poradniach specjalistycznych, założonych zgodnie z art. 82 oraz zatrudniających pracowników posiadających kwalifikacje określone dla pracowników publicznych poradni psychologiczno-pedagogicznych.”,
 
-- **c)** ust. 5 otrzymuje brzmienie: „5. Starosta właściwy ze względu na miejsce zamieszkania dziecka posiadającego orzeczenie o potrzebie kształcenia specjalnego, na wniosek rodziców, zapewnia mu odpowiednią formę kształcenia, umysłowego, z zastrzeżeniem ust. 5a.”,
+- **c)** ust. 5 otrzymuje brzmienie: „5. Starosta właściwy ze względu na miejsce zamieszkania dziecka posiadającego orzeczenie o potrzebie kształcenia specjalnego, na wniosek rodziców, zapewnia mu odpowiednią formę kształcenia, uwzględniając rodzaj niepełnosprawności, w tym stopień upośledzenia umysłowego, z zastrzeżeniem ust. 5a.”,
 - **d)** ust. 5b otrzymuje brzmienie: „5b. Jeżeli powiat właściwy ze względu na miejsce zamieszkania dziecka nie prowadzi szkoły specjalnej lub ośrodka, o którym mowa w art. 2 pkt 5, odpowiednich ze względu na rodzaj niepełnosprawności, w tym stopień upośledzenia umysłowego, starosta tego powiatu kieruje dziecko do najbliższego powiatu prowadzącego taką szkołę lub ośrodek. Starosta najbliższego powiatu prowadzącego taką szkołę lub ośrodek nie może odmówić przyjęcia dziecka do szkoły lub ośrodka.”,
 - **e)** po ust. 5b dodaje się ust. 5c w brzmieniu: „5c. Dyrektor szkoły, której uczeń posiada orzeczenie o potrzebie indywidualnego nauczania, organizuje takie nauczanie w porozumieniu z organem prowadzącym.”,
 - **f)** w ust. 7 pkt 1 otrzymuje brzmienie: „1) w porozumieniu z ministrami właściwymi do spraw zdrowia oraz zabezpieczenia społecznego, warunki organizowania wczesnego wspomagania rozwoju dzieci, o których mowa w ust. 2a, w tym kwalifikacje wymagane od osób prowadzących wczesne wspomaganie, uwzględniając w szczególności przygotowanie do pracy z małymi dziećmi o zaburzonym rozwoju psychoruchowym, a także formy współpracy z rodziną dziecka,”;
@@ -88,7 +425,9 @@ source: "isap-pdf"
     - **a)** ust. 4 otrzymuje brzmienie: „4. W zakresie uprawnień do ulgowych przejazdów środkami publicznego transportu zbiorowego do słuchaczy kolegiów stosuje się przepisy dotyczące studentów szkół wyższych.”,
     - **b)** po ust. 7 dodaje się ust. 8 w brzmieniu: „8. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, standardy kształcenia nauczycieli w kolegiach, uwzględniając w szczególności wymagania dotyczące realizowanych planów nauczania, przedmioty kształcenia, wymiar i zakres praktyk pedagogicznych, treści programowe i wymagane umiejętności.”;
 
-- **57)** w art. 77a po ust. 3 dodaje się ust. 4-12 w brzmieniu: „4. Placówki doskonalenia mogą uzyskać akredytację stanowiącą potwierdzenie, że dana placówka zapewnia wysoką jakość prowadzonych form doskonalenia nauczycieli. których mowa w art. 5 ust. 3b.
+- **57)** w art. 77a po ust. 3 dodaje się ust. 4-12 w brzmieniu: „4. Placówki doskonalenia mogą uzyskać akredytację stanowiącą potwierdzenie, że dana placówka zapewnia wysoką jakość prowadzonych form doskonalenia nauczycieli.
+
+5. Przepisu ust. 4 nie stosuje się do publicznych placówek doskonalenia, o których mowa w art. 5 ust. 3b.
 
 6. Akredytację przyznaje kurator oświaty właściwy dla siedziby placówki, w drodze decyzji administracyjnej, wydawanej po przeprowadzeniu przez zespół powołany przez kuratora oświaty oceny działalności danej placówki w zakresie określonym w ust. 7.
 
@@ -111,7 +450,7 @@ source: "isap-pdf"
 
 - **58)** art. 78 otrzymuje brzmienie: „Art. 78. 1. Minister właściwy do spraw oświaty i wychowania, a w odniesieniu do placówek doskonalenia nauczycieli szkół artystycznych w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia:
 - **1)** warunki i tryb tworzenia, przekształcania i likwidowania oraz organizację i sposób działania placówek doskonalenia, w tym zakres ich działalności obowiązkowej,
-- **2)** zadania doradców metodycznych, warunki i tryb powierzania nauczycielom zadań doradcy metodycznego, z uwzględnieniem zapewnienia nauczycielom dostępu do form doskonalenia i dokształcania umożliwiających podnoszenie wiedzy ogólnej i umiejętności zawodowych, a także możliwości zakłady kształcenia nauczycieli, szkoły wyższe oraz inne jednostki.
+- **2)** zadania doradców metodycznych, warunki i tryb powierzania nauczycielom zadań doradcy metodycznego, z uwzględnieniem zapewnienia nauczycielom dostępu do form doskonalenia i dokształcania umożliwiających podnoszenie wiedzy ogólnej i umiejętności zawodowych, a także możliwości prowadzenia niektórych form doskonalenia i dokształcania przez zakłady kształcenia nauczycieli, szkoły wyższe oraz inne jednostki.
 
 2. Rozporządzenie, o którym mowa w ust. 1, uwzględnia ponadto zadania, które mogą być realizowane wyłącznie przez placówki doskonalenia posiadające akredytację oraz publiczne placówki doskonalenia, o których mowa w art. 5 ust. 3b.
 
@@ -126,7 +465,7 @@ source: "isap-pdf"
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Jeżeli do przedszkola, o którym mowa w ust. 1, uczęszcza uczeń niebędący mieszkańcem gminy dotującej to przedszkole, gmina, której mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie z ust. 2.”,
     - **c)** ust. 3 i 3a otrzymuje brzmienie: „3. Szkoły, o których mowa w ust. 1, otrzymują na każdego ucznia dotację z budżetu jednostki samorządu terytorialnego obowiązanej do prowadzenia odpowiedniego typu i rodzaju szkół, w wysokości równej wydatkom bieżącym przewidzianym na jednego ucznia w szkołach tego samego typu i rodzaju prowadzonych przez tę jednostkę samorządu terytorialnego. W przypadku nieprowadzenia przez jednostkę samorządu terytorialnego szkoły tego samego typu i rodzaju podstawą ustalenia wysokości dotacji jest kwota przewidziana na jednego ucznia szkoły publicznej danego typu i rodzaju w części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego.
 
-3a. Placówki publiczne, o których mowa w art. 2 pkt 5 i 7, prowadzone przez osoby prawne i fizyczne otrzymują na każdego wychowanka dotację z budżetu powiatu w wysokości równej wydatkom bieżącym przewidzianym na jednego wychowanka w placówkach tego samego rodzaju prowadzonych przez powiat. W przypadku nieprowadzenia wysokości dotacji jest kwota przewidziana na jednego wychowanka placówki tego rodzaju w części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego.”;
+3a. Placówki publiczne, o których mowa w art. 2 pkt 5 i 7, prowadzone przez osoby prawne i fizyczne otrzymują na każdego wychowanka dotację z budżetu powiatu w wysokości równej wydatkom bieżącym przewidzianym na jednego wychowanka w placówkach tego samego rodzaju prowadzonych przez powiat. W przypadku nieprowadzenia przez powiat placówki publicznej danego rodzaju podstawą ustalenia wysokości dotacji jest kwota przewidziana na jednego wychowanka placówki tego rodzaju w części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego.”;
 
 - **61)** w art. 82:
     - **a)** w ust. 2 pkt 2 i 3 otrzymują brzmienie: „2) określenie odpowiednio typu i rodzaju szkoły lub placówki oraz daty rozpoczęcia jej funkcjonowania, w przypadku liceum profilowanego profili kształcenia ogólnozawodowego, a w przypadku szkoły prowadzącej kształcenie zawodowe - nazw zawodów, w jakich szkoła będzie kształcić, zgodnych z nazwami zawodów występujących w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 24 ust. 1, lub klasyfikacji zawodów i specjalności ustalanej na potrzeby rynku pracy przez ministra właściwego do spraw pracy,
@@ -142,7 +481,7 @@ source: "isap-pdf"
 - **7)** w przypadku liceum profilowanego - nazwy profili kształcenia ogólnozawodowego, w jakich szkoła kształci.”;
 - **62)** art. 83a otrzymuje brzmienie: „Art. 83a. 1. Do prowadzenia szkoły lub placówki oraz zespołu, o którym mowa w art. 90a ust. 1, nie mają zastosowania przepisy o działalności gospodarczej.
 
-2. Działalność oświatowa nieobejmująca prowadzenia szkoły, placówki lub zespołu, o którym mowa w art. 90a ust. 1, może być działalności gospodarczej.”;
+2. Działalność oświatowa nieobejmująca prowadzenia szkoły, placówki lub zespołu, o którym mowa w art. 90a ust. 1, może być podejmowana na zasadach określonych w przepisach o działalności gospodarczej.”;
 
 - **63)** w art. 84 ust. 4 otrzymuje brzmienie: „4. Dokumentację przebiegu nauczania zlikwidowanej szkoły przekazuje się organowi sprawującemu nadzór pedagogiczny nad szkołą. Po zakończeniu likwidacji wpis do ewidencji ulega wykreśleniu.”;
 - **64)** w art. 86:
@@ -160,7 +499,7 @@ source: "isap-pdf"
     - **d)** ministra właściwego dla danego zawodu w zakresie ewentualnego wprowadzenia tego zawodu do klasyfikacji zawodów szkolnictwa zawodowego.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw oświaty i wychowania, nadając uprawnienia, o których mowa w ust. 1, określa niezbędne warunki funkcjonowania szkoły, uwzględniając w szczególności założenia i sposób realizacji eksperymentu, wskazane we wniosku.”;
 
-- **65)** art. 88 otrzymuje brzmienie: „Art. 88. Uprawnienia szkoły publicznej mogą zostać cofnięte przez organ, który je nadał, jeżeli w trybie nadzoru pedagogicznego zostanie ust. 3 lub określonych zgodnie z art. 86 ust. 2. Cofnięcie uprawnień następuje w drodze decyzji administracyjnej i w przypadku szkoły podstawowej lub gimnazjum jest równoznaczne z ich likwidacją z końcem roku szkolnego, w którym decyzja stała się ostateczna.”;
+- **65)** art. 88 otrzymuje brzmienie: „Art. 88. Uprawnienia szkoły publicznej mogą zostać cofnięte przez organ, który je nadał, jeżeli w trybie nadzoru pedagogicznego zostanie stwierdzone niespełnianie warunków, o których mowa w art. 7 ust. 3 lub określonych zgodnie z art. 86 ust. 2. Cofnięcie uprawnień następuje w drodze decyzji administracyjnej i w przypadku szkoły podstawowej lub gimnazjum jest równoznaczne z ich likwidacją z końcem roku szkolnego, w którym decyzja stała się ostateczna.”;
 - **66)** w art. 90:
     - **a)** ust. 2b otrzymuje brzmienie: „2b. Dotacje dla niepublicznych przedszkoli przysługują na każdego ucznia w wysokości nie niższej niż 75% ustalonych w budżecie danej gminy wydatków bieżących ponoszonych w przedszkolach publicznych w przeliczeniu na jednego ucznia, z tym że na ucznia niepełnosprawnego w wysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola i oddziału przedszkolnego w części oświatowej subwencji ogólnej otrzymywanej przez jednostkę samorządu terytorialnego - pod warunkiem, że osoba prowadząca niepubliczne przedszkole poda organowi właściwemu do udzielania dotacji planowaną liczbę uczniów nie później niż do dnia 30 września roku poprzedzającego rok udzielania dotacji.”,
     - **b)** po ust. 2b dodaje się ust. 2c w brzmieniu: „2c. Jeżeli do przedszkola, o którym mowa w ust. 2b, uczęszcza uczeń niebędący mieszkańcem gminy dotującej to przedszkole, gmina, której mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie z ust. 2b.”,
@@ -169,7 +508,7 @@ source: "isap-pdf"
 3b. Szkoły niepubliczne nieposiadające uprawnień szkoły publicznej oraz placówki niepubliczne, o których mowa w art. 2 pkt 3, 4 i 10, mogą otrzymywać dotacje z budżetu powiatu.”;
 
 - **67)** w art. 91 po ust. 2 dodaje się ust. 3 i 4 w brzmieniu: „3. Rada Ministrów może przyjąć rządowy program mający na celu:
-- **1)** wyrównywanie szans edukacyjnych dzieci i młodzieży oraz innych grup społecznych, w tym program zwiększający zdolność strukturalnych na rozwój kształcenia ustawicznego,
+- **1)** wyrównywanie szans edukacyjnych dzieci i młodzieży oraz innych grup społecznych, w tym program zwiększający zdolność wykorzystania środków finansowych pochodzących z funduszy strukturalnych na rozwój kształcenia ustawicznego,
 - **2)** wspomaganie tworzenia warunków do sprawowania profilaktycznej opieki zdrowotnej nad uczniami.
 
 4. Rada Ministrów określi, w drodze rozporządzenia:
@@ -188,8 +527,10 @@ source: "isap-pdf"
 
 4. Rozporządzenie, o którym mowa w ust. 3, powinno w szczególności uwzględniać porównanie okresów nauki za granicą z okresami nauki w szkołach polskich, rodzaje dokumentów, które powinny być dołączone do wniosku o nostryfikację, a także może uwzględnić dodatkowe warunki, jakie muszą być spełnione dla uznania świadectwa szkolnego lub świadectwa maturalnego uzyskanego za granicą za równorzędne ze świadectwem określonym w ustawie bez przeprowadzania nostryfikacji.”;
 
-- **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Okres doskonalenia za granicą jest zaliczany do okresu zatrudnienia nauczyciela w kraju, od którego zależą uprawnienia pracownicze, na warunkach określonych w rozporządzeniu, o którym mowa w ust. 2.”,
-- **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw zagranicznych, określi, w drodze rozporządzenia, warunki kierowania za granicę uczniów w celu kształcenia oraz nauczycieli w celu doskonalenia, uwzględniając w szczególności:
+- **70)** w art. 94:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Okres doskonalenia za granicą jest zaliczany do okresu zatrudnienia nauczyciela w kraju, od którego zależą uprawnienia pracownicze, na warunkach określonych w rozporządzeniu, o którym mowa w ust. 2.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw zagranicznych, określi, w drodze rozporządzenia, warunki kierowania za granicę uczniów w celu kształcenia oraz nauczycieli w celu doskonalenia, uwzględniając w szczególności:
+
 - **1)** możliwość przyznania stypendium i innych świadczeń,
 - **2)** okres, na jaki przyznaje się stypendium oraz szczegółowe warunki wypłacania stypendium i innych świadczeń,
 - **3)** minimalną wysokość stypendium, kierując się wysokością wynagrodzenia zasadniczego i dodatku zagranicznego, określoną w przepisach w sprawie wynagrodzenia i dodatków przysługujących członkom służby zagranicznej,
@@ -201,21 +542,104 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz.U. z 2003 r. Nr 118, poz. 1112) wprowadza się następujące zmiany:
 
+- **1)** w art. 1: Nr 20, poz. 170, Nr 79, poz. 885 i Nr 90, poz. 1001 z 2000 r. Nr 12, poz. 136 i Nr 19, poz. 238, z 2001 r. Nr 72, poz. 748, Nr 88, poz. 961, Nr 89, poz. 973, Nr 111, poz. 1194, Nr 122, poz. 1349 i Nr 154, poz. 1792 oraz z 2003 r. Nr 7, poz. 79, Nr 44, poz. 389, Nr 122, poz. 1143, Nr 128, poz. 1176 i Nr 135, poz. 1268).”,
+    - **a)** w ust. 1 uchyla się pkt 3,
+    - **b)** dodaje się ust. 1a w brzmieniu: „1a. Ustawie podlegają również nauczyciele, wychowawcy i inni pracownicy pedagogiczni zatrudnieni przed dniem wejścia w życie ustawy z dnia 27 czerwca 2003 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw (Dz.U. Nr 137, poz. 1304) w publicznych placówkach opiekuńczo-wychowawczych oraz ośrodkach adopcyjno-opiekuńczych działających na podstawie ustawy z dnia 29 listopada 1990 r. o pomocy społecznej (Dz.U. z 1998 r. Nr 64, poz. 414, Nr 106, poz. 668, Nr 117, poz. 756, Nr 162, poz. 1118 i 1126, z 1999 r.
+    - **c)** w ust. 2 pkt 1a otrzymuje brzmienie: „1a) nauczyciele zatrudnieni w publicznych szkołach i szkolnych punktach konsultacyjnych przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej;”;
+
+- **2)** w art. 9 ust. 1a otrzymuje brzmienie: „1a. Kwalifikacje wymagane od nauczycieli zatrudnionych w publicznych i niepublicznych placówkach opiekuńczo-wychowawczych oraz ośrodkach adopcyjno-opiekuńczych działających na podstawie przepisów o pomocy społecznej określają te przepisy.”;
+- **3)** w art. 42:
+    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) inne czynności i zajęcia wynikające z zadań statutowych szkoły, ze szczególnym uwzględnieniem zajęć edukacyjnych, opiekuńczych i wychowawczych uwzględniających potrzeby i zainteresowania uczniów;”,
+    - **b)** w ust. 3 w tabeli: - w lp. 6 wyrazy „placówek resocjalizacyjnych prowadzących działalność w formie dziennej, okresowej i turnusowej” zastępuje się wyrazami „młodzieżowych ośrodków socjoterapii”, - w lp. 9 w lit. c) wyrazy „placówkach resocjalizacyjnych” zastępuje się wyrazami „młodzieżowych ośrodkach wychowawczych”.
+
 **Art. 3.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz.U. z 2002 r. Nr 11, poz. 109 i Nr 58, poz. 542) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 pkt 9 otrzymuje brzmienie: „9) orzec umieszczenie w rodzinie zastępczej, w młodzieżowym ośrodku wychowawczym, w młodzieżowym ośrodku socjoterapii albo w ośrodku szkolno-wychowawczym,”;
+- **2)** w art. 12 zdanie drugie otrzymuje brzmienie: „Jeżeli zachodzi potrzeba zapewnienia nieletniemu jedynie opieki wychowawczej, sąd może orzec umieszczenie go w młodzieżowym ośrodku wychowawczym lub w młodzieżowym ośrodku socjoterapii, a w przypadku gdy nieletni jest upośledzony umysłowo w stopniu głębokim i wymaga jedynie opieki - w domu pomocy społecznej.”;
+- **3)** art. 26 otrzymuje brzmienie: „Art. 26. Wobec nieletniego można tymczasowo zastosować nadzór organizacji młodzieżowej lub innej organizacji społecznej albo zakładu pracy, a także nadzór kuratora lub innej osoby godnej zaufania, a jeżeli byłoby to niewystarczające - umieszczenie w młodzieżowym ośrodku wychowawczym lub młodzieżowym ośrodku socjoterapii, ośrodku szkolno-wychowawczym lub zastosować środki leczniczo-wychowawcze, o których mowa w art.
+
+12. ”;
+
+- **4)** w art. 30 § 5 otrzymuje brzmienie: „§ 5. Na rozprawę lub posiedzenie sąd może wezwać także kuratora, przedstawiciela schroniska dla nieletnich, zakładu poprawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii, ośrodka szkolno-wychowawczego, placówki opiekuńczowychowawczej lub publicznego zakładu opieki zdrowotnej albo domu pomocy społecznej, w którym nieletni przebywa, a ponadto również inne osoby, w szczególności przedstawiciela szkoły, do której nieletni uczęszcza, zakładu pracy, w którym jest zatrudniony, lub organizacji społecznej, do której należy; w sprawach o czyn karalny jako przestępstwo skarbowe można wezwać także przedstawiciela właściwego finansowego organu dochodzenia, określonego w Kodeksie karnym skarbowym.”;
+- **5)** w art. 25 § 2, art. 32 § 2, art. 40 § 6 pkt 4, art. 66 § 1, art. 68, art. 70 § 2, art. 72, art. 73 § 1, art. 74 § 3, art. 76 § 1, art. 77 § 1, dziale IV w tytule rozdziału 4, art. 95a § 1 pkt 5 użyte w różnej liczbie i przypadku wyrazy „placówka opiekuńczowychowawcza” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „młodzieżowy ośrodek wychowawczy, młodzieżowy ośrodek socjoterapii”;
+- **6)** art. 78 otrzymuje brzmienie: „Art. 78. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, ministrem właściwym do spraw wewnętrznych i ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, szczegółowy sposób wykonywania przez sędziów rodzinnych nadzoru, o którym mowa w art. 77, określając w szczególności tryb przeprowadzania kontroli, sposób dokumentowania jej przebiegu i wyników oraz tryb wykonywania zaleceń wydanych w toku sprawowania nadzoru.”;
+- **7)** art. 81 otrzymuje brzmienie: „Art. 81. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z Ministrem Sprawiedliwości, określi, w drodze rozporządzenia, szczegółowe zasady kierowania, przyjmowania, przenoszenia, zwalniania i pobytu nieletnich w młodzieżowym ośrodku wychowawczym oraz młodzieżowym ośrodku socjoterapii, w szczególności wskazując organ odpowiedzialny za kierowanie nieletnich do odpowiednich placówek i uwzględniając sprawność postępowania, konieczność zapewnienia bezpieczeństwa tych placówek, właściwych warunków pobytu nieletnich i przestrzegania ich praw.”;
+- **8)** w art. 95c § 1 otrzymuje brzmienie: „§ 1. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki i sposób użycia środków przymusu bezpośredniego wobec nieletnich umieszczonych w zakładach poprawczych, schroniskach dla nieletnich, młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii i ośrodkach szkolno wychowawczych oraz sposób kontroli nad decyzjami o zastosowaniu tych środków, a także określi rodzaje młodzieżowych ośrodków wychowawczych i młodzieżowych ośrodków socjoterapii, w których mogą być stosowane środki przymusu bezpośredniego, uwzględniając w szczególności cel stosowania środków, formy, w jakich mogą być one stosowane, związaną z ich stosowaniem potrzebę doboru właściwych metod oddziaływania wychowawczego na nieletniego, sposób prowadzenia dokumentacji związanej z zastosowaniem środków, szczegółowy sposób sprawowania opieki nad stanem zdrowia fizycznego i psychicznego nieletniego, wobec którego zastosowano środek, mając na uwadze konieczność poszanowania praw i godności nieletniego oraz zapewnienia bezpieczeństwa zakładów, schronisk i placówek.”.
 
 **Art. 4.** W ustawie z dnia 22 marca 1989 r. o rzemiośle (Dz.U. z 2002 r. Nr 112, poz. 979) w art. 3:
 
+- **a)** ust. 3a otrzymuje brzmienie: „3a. Podstawę przeprowadzania egzaminów w zawodach odpowiadających danemu rodzajowi rzemiosła stanowią standardy wymagań egzaminacyjnych ustalone przez Związek Rzemiosła Polskiego, z zastrzeżeniem ust. 3b.”,
+- **b)** po ust. 3a dodaje się ust. 3b-3h w brzmieniu: „3b. Podstawę przeprowadzania egzaminów w zawodach odpowiadających danemu rodzajowi rzemiosła, ujętych w klasyfikacji zawodów szkolnictwa zawodowego, stanowią standardy wymagań będących podstawą przeprowadzania egzaminu potwierdzającego kwalifikacje zawodowe, określone w odrębnych przepisach.
+
+3c. Nadzór nad działalnością komisji egzaminacyjnych izb rzemieślniczych sprawuje Związek Rzemiosła Polskiego przez:
+
+- **1)** przeprowadzanie, zgodnie z planem nadzoru, co najmniej raz w roku kontroli działalności komisji egzaminacyjnych,
+- **2)** rozpatrywanie nieuwzględnionych przez izbę rzemieślniczą skarg kandydatów dotyczących prawidłowości przeprowadzenia egzaminu,
+- **3)** analizowanie wyników egzaminów oraz formułowanie wniosków.
+
+3d. Osoby wykonujące czynności z zakresu nadzoru mają prawo wstępu w charakterze obserwatora na egzamin, po uprzednim powiadomieniu właściwej izby rzemieślniczej, oraz wglądu do prowadzonej przez komisję egzaminacyjną dokumentacji komisji.
+
+3e. Osoby, o których mowa w ust. 3d, mogą wydawać komisjom egzaminacyjnym zalecenia wynikające z przeprowadzonych czynności nadzoru. Komisja egzaminacyjna w ciągu 7 dni od otrzymania zaleceń może zgłosić wobec nich zastrzeżenia do Związku Rzemiosła Polskiego. W przypadku nieuwzględnienia zastrzeżeń przez Związek Rzemiosła Polskiego komisja egzaminacyjna jest obowiązana powiadomić Związek Rzemiosła Polskiego o realizacji zaleceń w terminie 30 dni.
+
+3f. W przypadku stwierdzenia istotnych uchybień w działalności komisji egzaminacyjnych Związek Rzemiosła Polskiego może wezwać komisję do usunięcia uchybień w wyznaczonym terminie, a w przypadku nieusunięcia uchybień - odwołać osoby wchodzące w skład komisji lub cały skład komisji albo unieważnić egzamin w całości lub w części.
+
+3g. Izba rzemieślnicza:
+
+- **1)** zatwierdza zadania i pytania egzaminacyjne, opracowane na podstawie standardów wymagań, o których mowa w ust. 3a i 3b,
+- **2)** zatwierdza szczegółowe kryteria oceniania,
+- **3)** dopuszcza kandydatów do egzaminów,
+- **4)** ustala wysokość opłat za egzaminy, uwzględniając jako podstawę kwotę przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, z tym że wysokość opłaty nie może przekroczyć:
+    - **a)** za egzamin mistrzowski - 40% podstawy,
+    - **b)** za egzamin czeladniczy - 20% podstawy,
+
+- **5)** prowadzi dokumentację komisji egzaminacyjnej, w tym ewidencję egzaminów,
+- **6)** rozpatruje skargi kandydatów dotyczące prawidłowości przeprowadzenia egzaminu,
+- **7)** organizuje szkolenia dla osób wchodzących w skład komisji egzaminacyjnych według programu ustalonego przez Związek Rzemiosła Polskiego.
+
+3h. Izba rzemieślnicza może zwolnić w całości lub w części osobę przystępującą do egzaminu z opłaty, o której mowa w ust. 3g pkt 4.”,
+
+- **c)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw oświaty i wychowania, po zasięgnięciu opinii Związku Rzemiosła Polskiego, określi, w drodze rozporządzenia, warunki powoływania komisji egzaminacyjnych izb rzemieślniczych, warunki dopuszczania do egzaminu i sposób jego przeprowadzania, wysokość wynagrodzenia członków komisji, warunki wydawania oraz wzory świadectw czeladniczych i dyplomów mistrzowskich, w tym wydawania duplikatów, a także sposób dokonywania legalizacji dokumentów przeznaczonych do obrotu prawnego z zagranicą oraz wysokość odpłatności za wykonywanie tych czynności.”,
+- **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Rozporządzenie, o którym mowa w ust. 4, powinno uwzględniać w szczególności wymagania, jakim powinny odpowiadać osoby wchodzące w skład komisji egzaminacyjnych, zakres obowiązujących tematów egzaminacyjnych oraz możliwość zwolnienia z części egzaminu osoby przystępującej do egzaminu.”.
+
 **Art. 5.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. W uczelni kształcącej nauczycieli studia zawodowe przygotowują nauczyciela do nauczania dwóch przedmiotów (rodzajów zajęć), z których jeden stanowi przedmiot główny, a drugi dodatkowy.”;
+- **2)** w art. 4a w ust. 2 pkt 4 otrzymuje brzmienie: „4) standardy kształcenia nauczycieli, uwzględniając sylwetkę absolwenta, przedmioty kształcenia pedagogicznego, przygotowanie w zakresie dwóch specjalności, a także w zakresie technologii informacyjnej, w tym wykorzystania jej w wyuczonych specjalnościach, oraz języka obcego w wymiarze zajęć umożliwiającym uzyskanie zaawansowanej znajomości języka obcego, a także wymiar i sposób organizacji praktyk oraz treści programowe i wymagane umiejętności,”;
+- **3)** w art. 141 ust. 1 otrzymuje brzmienie: „1. Senat uczelni, na wniosek rady wydziału, uchwala warunki i tryb rekrutacji na studia oraz zakres egzaminu wstępnego, z zastrzeżeniem ust. 1a. Szczegółowe zasady przyjmowania na studia laureatów oraz finalistów olimpiad stopnia centralnego senat uchwala na okres co najmniej trzech lat. Uchwała Senatu jest podawana do publicznej wiadomości w sposób określony w statucie uczelni nie później niż do dnia 31 maja roku poprzedzającego rok akademicki, którego uchwała dotyczy.”.
 
 **Art. 6.** W ustawie z dnia 29 listopada 1990 r. o pomocy społecznej (Dz.U. z 1998 r. Nr 64, poz. 414, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 2a w ust. 1:
+    - **a)** pkt 13 otrzymuje brzmienie: „13) placówce opiekuńczo-wychowawczej - oznacza to jednostkę zapewniającą dzieciom i młodzieży pozbawionym częściowo lub całkowicie opieki rodzicielskiej dzienną lub całodobową, ciągłą lub okresową opiekę i wychowanie, jak również jednostkę wspierającą działania rodziców w wychowaniu i sprawowaniu opieki, w podziale na następujące typy placówek: placówki wsparcia dziennego, placówki interwencyjne, placówki rodzinne, placówki socjalizacyjne,”,
+    - **b)** uchyla się pkt 17;
+
+- **2)** w art. 10a pkt 7 otrzymuje brzmienie: „7) zapewnienie opieki i wychowania dzieciom całkowicie lub częściowo pozbawionym opieki rodziców, w szczególności poprzez prowadzenie i organizowanie ośrodków adopcyjno-opiekuńczych, placówek opiekuńczo-wychowawczych, w tym placówek wsparcia dziennego o zasięgu ponadgminnym dla dzieci i młodzieży, a także tworzenie i wdrażanie programów pomocy dziecku i rodzinie,”;
+- **3)** art. 33b otrzymuje brzmienie: „Art. 33b. Dziecku pozbawionemu częściowo lub całkowicie opieki rodzicielskiej powiat zapewnia opiekę i wychowanie w formie zastępczej opieki rodzinnej lub w placówce opiekuńczowychowawczej.”.
+
 **Art. 7.** W ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz.U. z 2002 r. Nr 175, poz. 1440) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 4 pkt 1 i 2 otrzymują brzmienie: „1) dzieci w wieku powyżej 4 lat do rozpoczęcia odbywania obowiązkowego rocznego przygotowania przedszkolnego;
+- **2)** dzieci i młodzież w okresie od rozpoczęcia odbywania obowiązkowego rocznego przygotowania przedszkolnego do ukończenia gimnazjum, szkoły ponadpodstawowej lub ponadgimnazjalnej - publicznej lub niepublicznej o uprawnieniach szkoły publicznej, nie dłużej niż do ukończenia 24 roku życia;”;
+- **2)** w art. 5 w ust. 1 pkt 1 otrzymuje brzmienie: „1) dzieci i młodzież w okresie od rozpoczęcia odbywania obowiązkowego rocznego przygotowania przedszkolnego do ukończenia gimnazjum, szkoły ponadpodstawowej lub ponadgimnazjalnej - publicznej lub niepublicznej o uprawnieniach szkoły publicznej, nie dłużej niż do ukończenia 24 roku życia;”;
+- **3)** art. 5a otrzymuje brzmienie: „Art. 5a. W przypadku nabywania przez gminę biletów miesięcznych dla dzieci w celu wykonania obowiązku określonego w art. 14a ust. 3 oraz art. 17 ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239, Nr 48, poz. 550, Nr 104, poz. 1104, Nr 120, poz. 1268 i Nr 122, poz. 1320, z 2001 r. Nr 111, poz. 1194 i Nr 144, poz. 1615, z 2002 r. Nr 41, poz. 362, Nr 113, poz. 984, Nr 141, poz. 1185 i Nr 200, poz. 1683 oraz z 2003 r. Nr 6, poz. 65, Nr 128, poz. 1176 i Nr 137, poz. 1304) uwzględnia się ulgi, o których mowa w art. 4 ust. 6 i art. 5 ust. 1.”.
 
 **Art. 8.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239 oraz z 2003 r. Nr 65, poz. 595) wprowadza się następujące zmiany:
 
+- **1)** w art. 5 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. W uczelni zawodowej kształcącej nauczycieli studia wyższe zawodowe przygotowują absolwentów do nauczania dwóch przedmiotów (rodzajów zajęć), z których jeden stanowi przedmiot główny, a drugi dodatkowy.
+
+3b. Plany studiów, o których mowa w ust. 3, uwzględniają odpowiednio standardy nauczania dla poszczególnych kierunków studiów oraz standardy kształcenia nauczycieli określone w odrębnych przepisach.”;
+
+- **2)** w art. 71 ust. 2 otrzymuje brzmienie: „2. Warunki i tryb rekrutacji oraz zakres egzaminu wstępnego na studia określa senat i podaje do publicznej wiadomości w sposób określony w statucie uczelni, nie później niż do dnia 31 maja roku poprzedzającego rok akademicki, którego uchwała dotyczy, z zastrzeżeniem ust. 2a. Nie dotyczy to uczelni nowo utworzonej.”.
+
 **Art. 9.** W ustawie z dnia 21 stycznia 2000 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej (Dz.U. Nr 12, poz. 136, Nr 95, poz. 1041 i Nr 122, poz. 1323, z 2001 r. Nr 111, poz. 1194 i Nr 154, poz. 1802 oraz z 2002 r. Nr 208, poz. 1763) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 18 lutego 2000 r. o zmianie ustawy - Karta Nauczyciela oraz o zmianie niektórych innych ustaw (Dz.U. Nr 19, poz. 239, z 2001 r. Nr 111, poz. otrzymuje brzmienie: „Art. 8. W okresie do dnia 31 grudnia 2010 r. tytuł honorowy profesora oświaty może być nadany w trybie i na zasadach określonych w art. 9i ustawy, o której mowa w art. 1, nauczycielowi, który legitymuje się co najmniej 7-letnim okresem pracy jako nauczyciel dyplomowany.”.
+- **1)** art. 63 otrzymuje brzmienie: „Art. 63. Do dnia 31 sierpnia 2005 r. oddziały gimnazjum mogą mieścić się również poza jego siedzibą, jeżeli nie ma możliwości zorganizowania gimnazjum w jednym budynku.”;
+- **2)** w art. 64:
+    - **a)** w ust. 3 i 4 skreśla się wyrazy „i resocjalizacyjne”,
+    - **b)** w ust. 5 skreśla się wyrazy „i resocjalizacyjnych”,
+    - **c)** uchyla się ust. 10.
+
+**Art. 10.** W ustawie z dnia 18 lutego 2000 r. o zmianie ustawy - Karta Nauczyciela oraz o zmianie niektórych innych ustaw (Dz.U. Nr 19, poz. 239, z 2001 r. Nr 111, poz. 1194 i Nr 154, poz. 1794 oraz z 2002 r. Nr 41, poz. 362 i Nr 152, poz. 1267) art. 8 otrzymuje brzmienie: „Art. 8. W okresie do dnia 31 grudnia 2010 r. tytuł honorowy profesora oświaty może być nadany w trybie i na zasadach określonych w art. 9i ustawy, o której mowa w art. 1, nauczycielowi, który legitymuje się co najmniej 7-letnim okresem pracy jako nauczyciel dyplomowany.”.
 
 **Art. 11.**
 
@@ -239,7 +663,7 @@ source: "isap-pdf"
 
 1. Z dniem 1 stycznia 2004 r. specjalistów, o których mowa w art. 22 ust. 2 pkt 3 ustawy wymienionej w art. 1 wpisuje się na właściwe listy rzeczoznawców, o których mowa odpowiednio w art. 22 ust. 2 pkt 3 lit. a i w art. 22a ust. 4 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Po upływie 2 lat od dnia wejścia w życie ustawy, odpowiednio minister właściwy do spraw oświaty i wychowania i minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dokonają z urzędu skreślenia z list przepisach wydanych na podstawie art. 22 ust. 2 pkt 3 i art. 22a ust. 8 pkt 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+2. Po upływie 2 lat od dnia wejścia w życie ustawy, odpowiednio minister właściwy do spraw oświaty i wychowania i minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dokonają z urzędu skreślenia z list rzeczoznawców, którzy nie spełniają odpowiednio warunków określonych w przepisach wydanych na podstawie art. 22 ust. 2 pkt 3 i art. 22a ust. 8 pkt 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 14.** Uczniowie, którzy nie ukończyli 18 lat i zostali przyjęci do szkół dla dorosłych przed dniem wejścia w życie ustawy, mogą nadal uczęszczać do tych szkół.
 
@@ -262,7 +686,8 @@ source: "isap-pdf"
 
 1. Istniejące w dniu wejścia w życie ustawy placówki resocjalizacyjne będące placówkami opiekuńczo-wychowawczymi działającymi na podstawie ustawy, o której mowa w art. 6 niniejszej ustawy:
 
-- **1)** prowadzące działalność w formie dziennej okresowej lub turnusowej - z dniem 1 stycznia 2004 r. stają się młodzieżowymi ośrodkami socjoterapii w rozumieniu ustawy, o której mowa w art. 1 niniejszej ustawy; stają się młodzieżowymi ośrodkami wychowawczymi w rozumieniu ustawy, o której mowa w art. 1 niniejszej ustawy.
+- **1)** prowadzące działalność w formie dziennej okresowej lub turnusowej - z dniem 1 stycznia 2004 r. stają się młodzieżowymi ośrodkami socjoterapii w rozumieniu ustawy, o której mowa w art. 1 niniejszej ustawy;
+- **2)** prowadzące działalność w formie całodobowej - z dniem 1 stycznia 2004 r. stają się młodzieżowymi ośrodkami wychowawczymi w rozumieniu ustawy, o której mowa w art. 1 niniejszej ustawy.
 
 2. Organy prowadzące młodzieżowe ośrodki socjoterapii lub młodzieżowe ośrodki wychowawcze, o których mowa w ust. 1, do dnia 31 marca 2004 r. nadadzą statuty tym ośrodkom.
 
@@ -276,5 +701,17 @@ source: "isap-pdf"
 
 **Art. 21.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 9 ust. 3, art. 10 ust. 2, art. 22 ust. 1 pkt 1, 3 i 4 i ust. 2 pkt 3 i 4, art. 52 ust. 1, art. 68 ust. 1 i 2, art. 71b ust. 7 pkt 1, art. 78 ust. 1, art. 93 ust. 3, art. 94 ust. 2 ustawy, o której mowa w art. 1 niniejszej ustawy, zachowują moc do czasu wydania przepisów wykonawczych na podstawie art. 9 ust. 3, art. 10 ust. 2, art. 22 ust. 1 pkt 1, 3, 3a i 4 i ust. 2 pkt 3 i 4, art. 22a ust. 8, art. 52 ust. 1, art. 68a ust. 4, art. 68c ust. 1, art. 71b ust. 7 pkt 1, art. 78 ust. 1, art. 93 ust. 3, art. 94 ust. 2 ustawy, o której mowa w art. 1 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 95c § 1 ustawy, o której mowa w art. 3 niniejszej ustawy, zachowują moc do czasu wydania przepisów wykonawczych na podstawie art. 95c § 1 ustawy, o której mowa w art. 3 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą,
+- **3)** art. 3 ust. 4 ustawy, o której mowa w art. 4 niniejszej ustawy, zachowują moc do czasu wydania przepisów wykonawczych na podstawie art. 3 ust. 4 ustawy, o której mowa w art. 4 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą,
+- **4)** art. 4a ust. 2 pkt 4 ustawy, o której mowa w art. 5 niniejszej ustawy, zachowują moc do czasu wydania przepisów wykonawczych na podstawie art. 4a ust. 2 pkt 4 ustawy, o której mowa w art. 5 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą.
+
 **Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 2 pkt 5 w części dotyczącej młodzieżowych ośrodków wychowawczych i młodzieżowych ośrodków socjoterapii, art. 13 ust. 5, art. 22 ust. 2 pkt 3, art. 22a, art. 24 ust. 2a, art. 68b, art. 71d, 77a ust. 4-12, art. 80 ust. 2-3a oraz art. 90 ust. 2b, 2c, 3a i 3b ustawy, o której mowa w art. 1 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, art. 1 ust. 1a, art. 9 ust. 1a i art. 42 ust. 3 ustawy, o której mowa w art. 2 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, a także art. 2 pkt 1 lit. a, art. 3, art. 6 i art. 13 niniejszej ustawy, które wchodzą w życie z dniem 1 stycznia 2004 r.,
+- **2)** art. 9 ust. 1 pkt 3 lit. h, art. 14 ust. 1a, 1b, 3, 3a i 4, art. 14a, 14b, 16 ust. 7 i 7a i art. 20 ustawy, o której mowa w art. 1 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, oraz art. 7, które wchodzą w życie z dniem 1 września 2004 r.,
+- **3)** art. 4 ust. 2b i art. 4a ust. 2 pkt 4 ustawy, o której mowa w art. 5 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, oraz art. 5 ust. 3a i 3b ustawy, o której mowa w art. 8 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, które wchodzą w życie z dniem 1 października 2004 r.,
+- **4)** art. 78 ust. 2 ustawy, o której mowa w art. 1 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie z dniem 1 stycznia 2005 r.,
+- **5)** art. 68c ust. 2 pkt 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, który wchodzi w życie z dniem 1 września 2005 r.
+
 

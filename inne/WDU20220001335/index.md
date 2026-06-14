@@ -8,10 +8,10 @@ pos: 1335
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 czerwca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1335 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 14 czerwca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001335) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1335/text.pdf) |
 
-Poz. 1335 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 14 czerwca 2022 r.
-w sprawie obywatelstw, których posiadanie uprawnia cudzoziemców do ubiegania się o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 186 ust. 1 pkt 9 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach Na podstawie art. 186 ust. 5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354 oraz z 2022 r. poz. 91, 583, 830 i 835) zarządza się, co następuje: § 1. Obywatelstwem, którego posiadanie uprawnia do ubiegania się o udzielenie zezwolenia na pobyt czasowy ze względu na inne okoliczności, o którym mowa w art. 186 ust. 1 pkt 9 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, jest obywatelstwo Republiki Białorusi.
+w sprawie obywatelstw, których posiadanie uprawnia cudzoziemców do ubiegania się o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 186 ust. 1 pkt 9 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach Na podstawie art. 186 ust. 5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354 oraz z 2022 r. poz. 91, 583, 830 i 835) zarządza się, co następuje:
+§ 1. Obywatelstwem, którego posiadanie uprawnia do ubiegania się o udzielenie zezwolenia na pobyt czasowy ze względu na inne okoliczności, o którym mowa w art. 186 ust. 1 pkt 9 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, jest obywatelstwo Republiki Białorusi.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Spraw Wewnętrznych i Administracji: wz. B. Grodecki
 

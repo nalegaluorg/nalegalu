@@ -8,7 +8,7 @@ pos: 24
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
@@ -32,6 +32,10 @@ Art. 49–53. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje postępowanie wobec osób, które spełniają łącznie następujące przesłanki:
+
+- **1)** odbywają prawomocnie orzeczoną karę pozbawienia wolności lub karę 25 lat pozbawienia wolności, wykonywaną w systemie terapeutycznym,
+- **2)** w trakcie postępowania wykonawczego występowały u nich zaburzenia psychiczne w postaci upośledzenia umysłowego, zaburzenia osobowości lub zaburzenia preferencji seksualnych,
+- **3)** stwierdzone u nich zaburzenia psychiczne mają taki charakter lub takie nasilenie, że zachodzi co najmniej wysokie prawdopodobieństwo popełnienia czynu zabronionego z użyciem przemocy lub groźbą jej użycia przeciwko życiu, zdrowiu lub wolności seksualnej, zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 10 lat – zwanych dalej „osobami stwarzającymi zagrożenie”.
 
 **Art. 2.**
 
@@ -97,6 +101,12 @@ Art. 49–53. (pominięte)
 
 **Art. 8.** Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia:
 
+- **1)** liczbę łóżek w Ośrodku przeznaczonych dla osób stwarzających zagrożenie umieszczonych w Ośrodku,
+- **2)** wymagania ogólnoprzestrzenne, sanitarne i instalacyjne, jakie muszą spełniać pomieszczenia i urządzenia Ośrodka stosownie do rodzaju wykonywanej działalności leczniczej oraz zakresu udzielanych świadczeń zdrowotnych,
+- **3)** warunki zabezpieczenia Ośrodka,
+- **4)** rodzaj i liczebność personelu mającego styczność z osobami stwarzającymi zagrożenie umieszczonymi w Ośrodku,
+- **5)** rodzaje urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu oraz sposób przechowywania, odtwarzania i niszczenia zapisów oraz udostępniania ich uprawnionym podmiotom – mając na względzie potrzebę zapewnienia odpowiedniego postępowania terapeutycznego, bezpieczeństwa zdrowotnego osób stwarzających zagrożenie umieszczonych w Ośrodku, zapobieżenia samowolnemu oddaleniu się tych osób poza Ośrodek oraz przeciwdziałania zachowaniom zagrażającym życiu i zdrowiu ludzkiemu lub powodującym niszczenie mienia, a także konieczność właściwego zabezpieczenia monitorowanego obrazu lub dźwięku przed utratą, zniekształceniem lub nieuprawnionym ujawnieniem.
+
 #### Rozdział 3 Postępowanie przed sądem
 
 **Art. 9.** Jeżeli wydana w trakcie postępowania wykonawczego opinia psychiatryczna i psychologiczna o stanie zdrowia osoby, o której mowa w art. 1 pkt 1, wskazuje, że osoba ta spełnia przesłanki określone w art. 1 pkt 2 i 3, dyrektor zakładu karnego występuje do właściwego sądu z wnioskiem o uznanie osoby, której dotyczy wniosek, za osobę stwarzającą zagrożenie. Do wniosku dołącza się opinię, a także informację o wynikach dotychczas stosowanych programów terapeutycznych i postępach w resocjalizacji.
@@ -108,6 +118,9 @@ Art. 49–53. (pominięte)
 2. Zakończenie odbywania kary pozbawienia wolności po złożeniu wniosku nie stanowi przeszkody do wydania orzeczenia w przedmiocie określonym w ust. 1.
 
 **Art. 11.** W celu ustalenia, czy osoba, której dotyczy wniosek, wykazuje zaburzenia, o których mowa w art. 1 pkt 3, w postaci upośledzenia umysłowego, zaburzenia osobowości lub zaburzenia preferencji seksualnych, sąd, w terminie 7 dni od dnia otrzymania wniosku, powołuje:
+
+- **1)** dwóch biegłych lekarzy psychiatrów;
+- **2)** w sprawach osób z zaburzeniami osobowości ponadto biegłego psychologa, a w sprawach osób z zaburzeniami preferencji seksualnych – ponadto biegłego lekarza seksuologa lub certyfikowanego psychologa seksuologa.
 
 **Art. 12.**
 
@@ -150,6 +163,11 @@ Art. 49–53. (pominięte)
 2. Kierownik podmiotu leczniczego, o którym mowa w ust. 1, informuje sąd i komendanta Policji sprawującego nadzór prewencyjny o uchylaniu się od obowiązku poddania się postępowaniu terapeutycznemu przez osobę stwarzającą zagrożenie.
 
 **Art. 17.** Wydając postanowienie o uznaniu osoby za osobę stwarzającą zagrożenie, sąd zarządza:
+
+- **1)** pobranie od tej osoby wymazu ze śluzówki policzków w celu przeprowadzenia analizy kwasu dezoksyrybonukleinowego (DNA);
+- **2)** pobranie od tej osoby odcisków linii papilarnych;
+- **3)** wykonanie zdjęć, szkiców i opisów wizerunku tej osoby;
+- **4)** umieszczenie wyników analizy DNA, odcisków linii papilarnych, zdjęć, szkiców i opisów wizerunków w odpowiednich bazach i zbiorach danych, o których mowa w ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448 oraz z 2022 r. poz. 655 i 1115).
 
 **Art. 18.**
 

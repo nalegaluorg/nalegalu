@@ -8,7 +8,7 @@ pos: 469
 act_type: Postanowienie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 42/4/A/2007 POSTANOWIENIE z dnia 11 kwietnia 2007 r.

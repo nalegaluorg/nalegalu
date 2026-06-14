@@ -29,6 +29,127 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 23 sierpnia 2001 r. o środkach żywienia zwierząt (Dz.U. Nr 123, poz. 1350) wprowadza się następujące zmiany:
 
+- **1)** art. 2:
+    - **a)** pkt 3 i 4 otrzymują brzmienie: „3) materiały paszowe - produkty pochodzenia roślinnego lub zwierzęcego stanie naturalnym, świeże lub konserwowane albo przetworzone oraz inne substancje organiczne, a także substancje nieorganiczne, zawierające dodatki paszowe lub ich niezawierające, przeznaczone do bezpośredniego żywienia zwierząt lub do sporządzania mieszanek paszowych albo premiksów,
+
+- **4)** dodatki paszowe - substancje przetworzone lub nieprzetworzone, a także mikroorganizmy tworzące kolonie, dodawane do pasz lub premiksów celu:
+    - **a)** poprawy cech materiałów paszowych, mieszanek paszowych lub środków spożywczych pochodzenia zwierzęcego lub
+    - **b)** zaspokojenia potrzeb żywieniowych zwierząt lub doskonalenia produkcji zwierzęcej, szczególności wyniku wpływu na florę żołądkowo-jelitową lub na strawność paszy, lub
+    - **c)** uzupełniania pasz lub premiksów składnikami pokarmowymi umożliwiającymi osiągnięcie szczególnych celów żywieniu zwierząt lub zaspokojenie szczególnych potrzeb żywieniowych u zwierząt danym okresie, lub
+    - **d)** zapobiegania szkodliwemu wpływowi odchodów zwierzęcych na środowisko lub zmniejszenia tego wpływu albo poprawy warunków środowiska, którym są utrzymywane zwierzęta procesie przetwarzania, wyniku których może powstać niezamierzona, ale technicznie niemożliwa do uniknięcia pozostałość tych dodatków lub ich pochodnych paszy, jeżeli nie stanowi ona zagrożenia dla zdrowia i nie ma technologicznego wpływu na produkt końcowy,”,
+    - **b)** pkt 6 otrzymuje brzmienie: „6) mieszanki paszowe - mieszaniny:
+    - **a)** materiałów paszowych bez zawartości albo z zawartością dodatku paszowego lub premiksu,
+    - **b)** materiału paszowego z dodatkiem paszowym lub premiksem - przeznaczone do stosowania żywieniu zwierząt formie mieszanki paszowej pełnoporcjowej albo mieszanki paszowej uzupełniającej,”,
+    - **c)** pkt 8 i 9 otrzymują brzmienie: „8) mieszanka paszowa uzupełniająca - mieszankę paszową przeznaczoną do stosowania wraz z innymi paszami, zawierającą składniki pokarmowe lub dodatki paszowe ilości większej niż wymagana odniesieniu do mieszanki paszowej pełnoporcjowej,
+
+- **9)** mieszanka paszowa dietetyczna - mieszankę paszową zaspokajającą szczególne potrzeby żywieniowe, która ze względu na specjalny skład fizykochemiczny lub sposób przygotowania różni się od powszechnie stosowanych mieszanek paszowych i jest przeznaczona dla zwierząt:
+    - **a)** u których procesy trawienia, przyswajania i metabolizmu są lub mogą być tymczasowo zakłócone lub uległy nieodwracalnym zmianom,
+    - **b)** dla których ze względu na stan fizjologiczny jest wskazane kontrolowanie spożycia określonych substancji paszach,”,
+    - **d)** pkt 11 otrzymuje brzmienie: „11) seria - określoną ilość środka żywienia zwierząt wytworzonego procesie składającym się z jednej lub wielu operacji taki sposób, że może być uważany za jednorodny,”,
+    - **e)** pkt 14 otrzymuje brzmienie: „14) substancja niepożądana - substancję lub produkt, z wyjątkiem czynników patogennych, obecne na zewnątrz lub wewnątrz środka żywienia zwierząt i stanowiące potencjalne niebezpieczeństwo dla zdrowia człowieka, zwierząt lub dla środowiska, a także mogące niekorzystnie wpływać na produkcję zwierzęcą,”,
+    - **f)** pkt 18 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 19 brzmieniu: „19) osoba odpowiedzialna za wprowadzenie dodatku do obrotu – osobę fizyczną albo osobę prawną, która ponosi odpowiedzialność z tytułu skutków wprowadzenia do obrotu danego dodatku paszowego z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych prowadzonym przez Komisję Europejską.”;
+
+- **2)** art. 4:
+    - **a)** ust. 1: - pkt 2 otrzymuje brzmienie: „2) substancji i produktów szkodliwie wpływających na zdrowie zwierząt, jakość środków spożywczych pochodzenia zwierzęcego lub środowisko, zwanych dalej „substancjami zabronionymi,”, - pkt 5 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 6 brzmieniu: „6) materiałów paszowych zawierających pozostałości środków ochrony roślin ilości przekraczającej ich dopuszczalną zawartość.”,
+    - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Zabrania się wytwarzania mieszanek paszowych z materiałów paszowych, które zawierają substancje niepożądane ilości przekraczającej ich dopuszczalną zawartość.”,
+    - **c)** ust. 2: - pkt 1 otrzymuje brzmienie: „1) wykaz substancji zabronionych,”, - pkt 3 na końcu stawia się przecinek i dodaje się pkt 4 brzmieniu: „4) dopuszczalne zawartości pozostałości środków ochrony roślin paszach”;
+
+- **3)** art. 6 ust. 1 pkt 1 lit. b otrzymuje brzmienie: „b) kokcydiostatyków i innych produktów leczniczych,”;
+- **4)** art. 7 pkt 1 lit. b otrzymuje brzmienie: „b) ma co najmniej 3-letni staż pracy zakresie wytwarzania dodatków paszowych, premiksów lub produktów leczniczych,”;
+- **5)** po art. 7 dodaje się art. 7a brzmieniu: „Art. 7a. W zakresie wytwarzania nieprzeznaczonych do obrotu mieszanek paszowych zawierających premiksy z udziałem dodatków paszowych, o których mowa art. 6 ust. 1 pkt 1 lit. a)-c), procesem wytwarzania powinna kierować osoba, która spełnia wymagania określone art. 7 albo:
+- **1)** ukończyła zasadniczą szkołę rolniczą lub inną szkołę zawodową o specjalności przydatnej produkcji rolnej lub
+- **2)** uzyskała przygotowanie zawodowe poprzez prowadzenie gospodarstwa o profilu produkcji zwierzęcej przez co najmniej 5 lat.”;
+- **6)** art. 11 otrzymuje brzmienie: paszowe:
+- **1)** zawierające premiksy z udziałem dodatków paszowych, o których mowa art. 6 ust. 1 pkt 1,
+- **2)** składające się z materiałów paszowych, które zawierają substancje niepożądane ilości przekraczającej ich dopuszczalną zawartość.”;
+- **7)** art. 12:
+    - **a)** ust. 1 pkt 3 lit. b otrzymuje brzmienie: „b) kokcydiostatyków i innych produktów leczniczych,”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Wytwarzanie mieszanek paszowych nieprzeznaczonych do obrotu:
+
+- **1)** zawierających premiksy z udziałem dodatków paszowych, o których mowa art. 6 ust. 1 pkt 1 lit. a)–c), lub
+- **2)** składających się z materiałów paszowych, które zawierają substancje niepożądane ilości przekraczającej ich dopuszczalną zawartość - wymaga zezwolenia wydanego, drodze decyzji administracyjnej, przez właściwego powiatowego lekarza weterynarii.”;
+- **8)** art. 19:
+    - **a)** ust. 1 pkt 3 lit. f skreśla się przecinek na końcu i uchyla się lit. g,
+    - **b)** dodaje się ust. 6-8 brzmieniu: „6. Wytwarzanie mieszanek paszowych, o których mowa ust. 1 pkt 3, nieprzeznaczonych do obrotu, jest dozwolone po uprzednim zgłoszeniu zamiaru rozpoczęcia tego wytwarzania do właściwego powiatowego lekarza weterynarii.
+
+7. Zaprzestanie wytwarzania mieszanek, o których mowa ust. 1 pkt 3, nieprzeznaczonych do obrotu, należy zgłosić powiatowemu lekarzowi weterynarii terminie 7 dni od dnia zaprzestania tego wytwarzania.
+
+8. Do zgłoszeń, o których mowa ust. 6 i 7, stosuje się odpowiednio przepisy ust. 2, 3 i 5.”;
+
+- **9)** art. 20 ust. 1 otrzymuje brzmienie: „1. Wytworzone i wprowadzone do obrotu pasze nie mogą zawierać nadmiarze wody, substancji wiążących, zanieczyszczeń roślinnych, zanieczyszczeń mineralnych oraz nie mogą zawierać żywych szkodników.”;
+- **10)** art. 21:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Dodatki paszowe oraz następujące materiały paszowe z grup:
+
+- **1)** białka uzyskiwanego z mikroorganizmów należących do grup: bakterii, drożdży, glonów i grzybów,
+- **4)** analogów aminokwasów - zwane dalej „produktami”, mogą być wprowadzone do obrotu i stosowane żywieniu zwierząt po ich wpisaniu do odpowiednich rejestrów produktów, z zastrzeżeniem ust. 1a.”,
+    - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Wprowadzane do obrotu i stosowane żywieniu zwierząt mogą być także:
+
+- **1)** dodatki paszowe, na których stosowanie państwach członkowskich Unii Europejskiej uzyskano zgodę Komisji Europejskiej, wpisane do rejestru prowadzonego przez tę Komisję, zwanego dalej „Rejestrem Wspólnotowym”, oraz
+- **2)** materiały paszowe z grup, o których mowa ust. 1, dopuszczone do obrotu Unii Europejskiej.”,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Zabrania się sprowadzania z zagranicy:
+
+- **1)** produktów, które nie są wpisane do rejestrów produktów,
+- **2)** dodatków paszowych, na które nie uzyskano zgody Komisji Europejskiej, o której mowa ust. 1a pkt 1, i niewpisanych do Rejestru Wspólnotowego,
+- **3)** materiałów paszowych z grup, o których mowa ust. 1, niedopuszczonych do obrotu Unii Europejskiej,
+- **4)** premiksów i mieszanek paszowych zawierających produkty, o których mowa pkt 1-3.”,
+    - **d)** ust. 5 pkt 8 lit. b otrzymuje brzmienie: „b) kokcydiostatyków i innych produktów leczniczych,”;
+
+- **11)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Dodatek paszowy wpisuje się do rejestru dodatków paszowych, jeżeli:
+- **1)** dodany do paszy lub premiksu spowoduje osiągnięcie jednego z następujących celów:
+    - **a)** poprawę cech materiałów paszowych, mieszanek paszowych lub środków spożywczych pochodzenia zwierzęcego,
+    - **b)** zaspokojenie potrzeb żywieniowych zwierząt lub poprawienie ich cech użytkowych, szczególności wyniku wpływu na florę żołądkowo-jelitową lub na strawność paszy,
+    - **c)** uzupełnienie pasz lub premiksów składnikami pokarmowymi umożliwiającymi osiągnięcie szczególnych celów żywieniowych zwierząt lub
+    - **d)** zapobieganie szkodliwemu wpływowi odchodów zwierzęcych na środowisko lub zmniejszenie tego wpływu albo poprawę warunków środowiska, którym są utrzymywane zwierzęta,
+
+- **2)** prawidłowo stosowany nie wpłynie ujemnie na zdrowie ludzi, zwierząt, jakość środków spożywczych pochodzenia zwierzęcego lub na środowisko,
+- **3)** została dla niego określona metoda postępowania analitycznego zapewniająca:
+    - **a)** identyfikację substancji czynnej,
+    - **b)** określenie zawartości dodatku paszowego premiksach i paszach,
+
+- **4)** stosowany zalecanych dawkach nie będzie miał działania profilaktycznego lub leczniczego chorobach zwierząt, z zastrzeżeniem ust. 2,
+- **5)** nie jest przeznaczony do wyłącznego stosowania leczeniu ludzi lub zwierząt.
+
+2. Przepis ust. 1 pkt 4 nie ma zastosowania do dodatków paszowych z grupy kokcydiostatyków i innych produktów leczniczych.”;
+
+- **12)** po art. 22 dodaje się art. 22a brzmieniu: „Art. 22a. Materiał paszowy wpisuje się do rejestru materiałów paszowych, jeżeli:
+- **1)** ma on wartość odżywczą dla zwierząt jako źródło azotu lub białka,
+- **2)** prawidłowo stosowany nie wpłynie ujemnie na zdrowie ludzi, zwierząt, jakość środków spożywczych pochodzenia zwierzęcego lub na środowisko,
+- **3)** została dla niego określona metoda postępowania analitycznego zapewniająca:
+    - **a)** identyfikację substancji czynnej,
+    - **b)** określenie zawartości materiału paszowego premiksach i paszach.”;
+
+- **13)** art. 23 otrzymuje brzmienie: „Art. 23. 1. Decyzję o wpisie do rejestrów produktów wydaje minister właściwy do spraw rolnictwa.
+
+2. Decyzja, o której mowa ust. 1, jest wydawana na podstawie wyników badań potwierdzających, że produkt spełnia wymagania, o których mowa art. 22 lub art. 22a, przeprowadzonych jednostkach organizacyjnych określonych przez ministra właściwego do spraw rolnictwa rozporządzeniu wydanym na podstawie art. 25 pkt 2. przeprowadzonych za granicą, dołączone do wniosku przez wytwórcę lub importera.
+
+4. Decyzja, o której mowa ust. 1, jest wydawana bez zbędnej zwłoki, nie później jednak niż ciągu roku od dnia złożenia wniosku o wpis do rejestru produktów.”;
+
+- **14)** art. 29 otrzymuje brzmienie: „Art. 29. 1. Minister właściwy do spraw rolnictwa, na podstawie prowadzonych rejestrów produktów, ogłasza corocznie do dnia 30 listopada, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykazy produktów dopuszczonych do obrotu.
+
+2. Minister właściwy do spraw rolnictwa ogłasza corocznie do dnia 31 grudnia, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykazy:
+
+- **1)** dodatków paszowych, o których mowa art. 21 ust. 1a pkt 1, zgodnie z wykazem ogłoszonym przez Komisję Europejską Dzienniku Urzędowym Wspólnot Europejskich,
+- **2)** materiałów paszowych, o których mowa art. 21 ust. 1a pkt 2, zgodnie z przepisami Unii Europejskiej dotyczącymi niektórych produktów stosowanych żywieniu zwierząt.
+
+3. Minister właściwy do spraw rolnictwa ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, że:
+
+- **1)** Komisja Europejska udzieliła zgody na stosowanie danego dodatku paszowego państwach członkowskich Unii Europejskiej oraz że dodatek ten został wpisany do Rejestru Wspólnotowego,
+- **2)** materiał paszowy z grup, o których mowa art. 21 ust. 1, został dopuszczony do obrotu Unii Europejskiej.
+
+4. Obwieszczenia, o których mowa ust. 3, są wydawane niezwłocznie po ogłoszeniu odpowiedniego aktu prawnego Dzienniku Urzędowym Wspólnot Europejskich i zawierają wymagania dotyczące danego produktu określone tym akcie.”;
+
+- **15)** art. 30:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W obrocie mogą znajdować się wyłącznie produkty, których skład i postać są zgodne z danymi zawartymi rejestrach produktów, a przypadku produktów, o których mowa art. 21 ust. 1a, z danymi podanymi obwieszczeniach, o których mowa art. 29 ust. 2 i 3.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Przy wytwarzaniu premiksów i mieszanek paszowych pełnoporcjowych z udziałem produktów należy przestrzegać wymagań określonych dla nich rejestrach produktów, a przypadku produktów, o których
+
+- **16)** po art. 30 dodaje się art. 30a –30r brzmieniu: „Art. 30a. 1. Dodatki paszowe mogą być wprowadzane do obrotu i stosowane żywieniu zwierząt po uzyskaniu zgody Komisji Europejskiej na ich stosowanie i wpisaniu ich do rejestru prowadzonego przez tę Komisję, zwanego dalej „Rejestrem Wspólnotowym”.
+
+2. Postępowanie sprawie udzielenia zgody na stosowanie dodatku paszowego i jego wpis do Rejestru Wspólnotowego, a także zasady prowadzenia tego Rejestru przez Komisję Europejską określają przepisy Unii Europejskiej dotyczące dodatków do pasz.
+
+3. Uzyskania zgody, o której mowa ust. 1, i wpisu do Rejestru Wspólnotowego wymaga również inne zastosowanie dodatku paszowego wpisanego uprzednio do tego Rejestru.
+
+4. Zabrania się sprowadzania spoza obszaru celnego Unii Europejskiej dodatków paszowych, które nie są wpisane do Rejestru Wspólnotowego, oraz sprowadzania spoza obszaru celnego Unii Europejskiej premiksów i mieszanek paszowych zawierających takie dodatki.
+
 **Art. 30b.**
 
 1. Zgoda na stosowanie dodatku paszowego jest udzielana na wniosek.
@@ -177,6 +298,10 @@ source: "isap-pdf"
 **Art. 30m.** Osoba odpowiedzialna za wprowadzenie dodatku do obrotu, na żądanie organów sprawujących nadzór nad wytwarzaniem i stosowaniem środków żywienia zwierząt oraz nad obrotem nimi, jest obowiązana do dostarczenia próbki dodatku paszowego lub próbki jego substancji czynnej.
 
 **Art. 30n.** Zgoda na stosowanie dodatku paszowego jest cofana zgodnie z przepisami, o których mowa art. 30a ust. 2, jeżeli:
+
+- **1)** osoba odpowiedzialna za wprowadzenie dodatku do obrotu złoży taki wniosek,
+- **2)** jeden z warunków niezbędnych do uzyskania zgody na stosowanie dodatku paszowego przestał być spełniany, czynnej na żądanie organów sprawujących nadzór nad wytwarzaniem i stosowaniem środków żywienia zwierząt oraz nad obrotem nimi,
+- **4)** osoba odpowiedzialna za wprowadzenie dodatku do obrotu nie dostarczy we wskazanym przez Komisję Europejską terminie żądanych przez nią informacji.
 
 **Art. 30o.**
 
@@ -356,11 +481,27 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 24 kwietnia 1997 r. o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej (Dz.U. z 1999 r. Nr 66, poz. 752, z 2001 r. Nr 29, poz. 320, Nr 123, poz. 1350 i Nr 129, poz. 1438, z 2002 r. Nr 112, poz. 976 oraz z 2003 r. Nr 52, poz. 450) wprowadza się następujące zmiany:
 
+- **1)** art. 5:
+    - **a)** ust. 1 uchyla się pkt 4,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Prowadzenie działalności, o której mowa ust. 1 i 1a, a także działalności zakresie wytwarzania:
+
+- **1)** środków żywienia zwierząt oraz obrotu tymi środkami,
+- **2)** nieprzeznaczonych do obrotu mieszanek paszowych:
+    - **a)** zawierających premiksy z udziałem dodatków paszowych z grup: antybiotyków, kokcydiostatyków i innych produktów leczniczych oraz stymulatorów wzrostu, dopuszczalną zawartość - wymaga spełnienia warunków lokalizacyjnych, technicznych, sanitarnych, technologicznych i organizacyjnych zabezpieczających przed zagrożeniem epizootycznym lub epidemicznym i zapewniających właściwą jakość zdrowotną towarów, zwanych dalej „warunkami weterynaryjnymi”.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, warunki weterynaryjne wymagane przy prowadzeniu poszczególnych rodzajów działalności wymienionych ust. 1 pkt 1-8, 9a, 9b i 12 oraz działalności zakresie wytwarzania środków żywienia zwierząt, o których mowa ust. 3, a także sposób prowadzenia rejestru, o którym mowa ust. 3c, oraz otrzymywania z niego wypisu, mając na względzie obowiązujące tym zakresie przepisy Unii Europejskiej.”;
+
+- **2)** art. 6 ust. 1 otrzymuje brzmienie: „1. W razie stwierdzenia, że działalność, o której mowa art. 5 ust. 1 pkt 1-10 i 12, ust. 1a oraz ust. 3, jest prowadzona niezgodnie z warunkami weterynaryjnymi, powiatowy lekarz weterynarii może wydać decyzję administracyjną nakazującą usunięcie uchybień lub wstrzymującą prowadzenie działalności do czasu ich usunięcia.”.
+
 **Art. 3.** W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. Nr 63, poz. 634 i Nr 128, poz. 1408, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1362 oraz z 2003 r. Nr 52, poz. 450) art. 7 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw rolnictwa porozumieniu z ministrem właściwym do spraw zdrowia określi, drodze rozporządzenia, najwyższe dopuszczalne poziomy pozostałości zanieczyszczeń chemicznych, biologicznych, produktów leczniczych, dodatków paszowych, a także skażeń promieniotwórczych roślinach, u zwierząt, tkankach lub narządach zwierząt po uboju i środkach spożywczych pochodzenia roślinnego lub zwierzęcego, mając na względzie wyniki badań naukowych i potrzebę zapewnienia ochrony zdrowia lub życia człowieka.”.
 
 **Art. 4.** Podmioty prowadzące dniu wejścia życie ustawy działalność zakresie wytwarzania mieszanek paszowych nieprzeznaczonych do obrotu, która wymaga uzyskania zezwolenia wydanego przez powiatowego lekarza weterynarii lub zgłoszenia powiatowemu lekarzowi weterynarii, obowiązane są do przedłożenia odpowiedniego wniosku o wydanie zezwolenia lub do dokonania zgłoszenia terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy. gospodarczej zakresie wytwarzania mieszanek paszowych otrzymanych z materiałów paszowych zawierających substancje niepożądane ilości przekraczającej ich dopuszczalną zawartość oraz zezwolenia wydane na wytwarzanie mieszanek paszowych nieprzeznaczonych do obrotu z materiałów paszowych zawierających substancje niepożądane ilości przekraczającej ich dopuszczalną zawartość.
 
 **Art. 6.** Dotychczasowe przepisy wykonawcze, wydane na podstawie:
+
+- **1)** art. 4 ust. 2 pkt 1 ustawy wymienionej art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych wydanych na podstawie tego artykułu brzmieniu nadanym niniejszą ustawą;
+- **2)** art. 50 ust. 3 ustawy wymienionej art. 1, zachowują moc do czasu ogłoszenia obwieszczenia wydanego na podstawie art. 29 ust. 2 brzmieniu nadanym niniejszą ustawą;
+- **3)** art. 5 ust. 4 ustawy wymienionej art. 2, zachowują moc do czasu wydania nowych przepisów wykonawczych wydanych na podstawie tego artykułu brzmieniu nadanym niniejszą ustawą;
+- **4)** art. 7 ust. 2 ustawy wymienionej art. 3, zachowują moc do czasu wydania nowych przepisów wykonawczych wydanych na podstawie tego artykułu brzmieniu nadanym niniejszą ustawą.
 
 **Art. 7.**
 
@@ -371,4 +512,7 @@ source: "isap-pdf"
 **Art. 8.** Przepisy art. 2 pkt 19, art. 30a-30r, art. 36 ust. 5-7, art. 38 ust. 2 pkt 1a i ust. 2b, art. 43b oraz art. 46 ust. 1 pkt 12a i 17 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa Unii Europejskiej.
 
 **Art. 9.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 4 ust. 1a i art. 46 ust. 1 pkt 11 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, które wchodzą życie z dniem 1 sierpnia 2003 r.;
+
 

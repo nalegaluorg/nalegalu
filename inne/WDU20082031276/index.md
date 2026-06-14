@@ -8,7 +8,7 @@ pos: 1276
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 153/9/A/2008 WYROK z dnia 5 listopada 2008 r.

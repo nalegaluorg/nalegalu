@@ -8,10 +8,10 @@ pos: 21
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 stycznia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2211 OBWIESZCZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 22 grudnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000021) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/21/text.pdf) |
 
-2211 OBWIESZCZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 22 grudnia 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie specjalizacji w zawodzie pracownik socjalny
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 17 kwietnia 2012 r. w sprawie specjalizacji w zawodzie pracownik socjalny (Dz. U. poz. 486), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 4 listopada 2022 r. zmieniającym rozporządzenie w sprawie specjalizacji w zawodzie pracownik socjalny (Dz. U. poz. 2358).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–6 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 4 listopada 2022 r. zmieniającego rozporządzenie w sprawie specjalizacji w zawodzie pracownik socjalny (Dz. U. poz. 2358), które stanowią: „§ 2. Szkolenia w zakresie I lub II stopnia specjalizacji w zawodzie pracownik socjalny rozpoczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia mogą być kontynuowane, na podstawie zgody na prowadzenie szkolenia udzielonej podmiotowi prowadzącemu szkolenie przed dniem wejścia w życie niniejszego rozporządzenia do czasu jego zakończenia, jednak przez okres nie dłuższy niż 9 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
@@ -34,10 +33,11 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polity
 3. W okresie, o którym mowa w ust. 1, podmioty prowadzące szkolenia nie mogą rozpocząć nowych szkoleń na podstawie minimum programowego określonego w rozporządzeniu zmienianym w § 1 w brzmieniu dotychczasowym.
 § 4. 1. Pracownicy socjalni, którzy kontynuują szkolenie w zakresie I lub II stopnia specjalizacji w zawodzie pracownik socjalny w dniu wejścia w życie niniejszego rozporządzenia, mogą przystąpić do egzaminu na warunkach określonych w rozporządzeniu zmienianym w § 1.
 2. Pracownicy socjalni, którzy ukończyli szkolenie w zakresie I lub II stopnia specjalizacji w zawodzie pracownik socjalny przed dniem wejścia w życie niniejszego rozporządzenia, mogą przystąpić do egzaminu na warunkach określonych w rozporządzeniu zmienianym w § 1.
-§ 5. Przewodniczący oraz członkowie Centralnej Komisji Egzaminacyjnej do spraw stopni specjalizacji zawodowej pracowników socjalnych oraz przewodniczący i członkowie regionalnych komisji egzaminacyjnych do spraw stopni specjalizacji zawodowej pracowników socjalnych pełniący swoje funkcje w dniu wejścia w życie niniejszego rozporządzenia pełnią je do czasu powołania nowych składów, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+§ 5. Przewodniczący oraz członkowie Centralnej Komisji Egzaminacyjnej do spraw stopni specjalizacji zawodowej pracowników socjalnych oraz przewodniczący i członkowie regionalnych komisji egzaminacyjnych do spraw stopni specjalizacji zawodowej pracowników socjalnych – pełniący swoje funkcje w dniu wejścia w życie niniejszego rozporządzenia pełnią je do czasu powołania nowych składów, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
 § 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 17 kwietnia 2012 r.
 w sprawie specjalizacji w zawodzie pracownik socjalny Na podstawie art. 118a ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i 2760) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) tryb powoływania i odwoływania członków Centralnej Komisji Egzaminacyjnej do spraw stopni specjalizacji zawodowej pracowników socjalnych, zwanej dalej „Komisją”, i regionalnych komisji egzaminacyjnych do spraw stopni specjalizacji zawodowej pracowników socjalnych, zwanych dalej „regionalnymi komisjami”, oraz organizację pracy Komisji i regionalnych komisji;
 2) minimum programowe dla I i II stopnia specjalizacji w zawodzie pracownik socjalny;
 3) specjalności obowiązujące dla II stopnia specjalizacji w zawodzie pracownik socjalny;
@@ -51,6 +51,7 @@ w sprawie specjalizacji w zawodzie pracownik socjalny Na podstawie art. 118a ust
 11) tryb wnoszenia odpłatności za egzamin na I i II stopień specjalizacji w zawodzie pracownik socjalny;
 12) organizację i sposób przeprowadzania egzaminu na I i II stopień specjalizacji w zawodzie pracownik socjalny;
 13) zasady wyboru jednostki organizacyjnej, o której mowa w art. 117 ust. 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zwanej dalej „ustawą”, i warunki jej współpracy z Komisją w zakresie organizacji egzaminów na II stopień specjalizacji w zawodzie pracownik socjalny.
+§ 2. 1. Komisja składa się z nie mniej niż 4 i nie więcej niż 10 członków.
 2. W skład Komisji wchodzą specjaliści z zakresu pracy socjalnej lub pomocy społecznej posiadający: doświadczenie w kształceniu lub doskonaleniu zawodowym pracowników socjalnych lub staż zawodowy w instytucjach i podmiotach działających w obszarze pomocy społecznej.
 3. Członków Komisji powołuje minister właściwy do spraw zabezpieczenia społecznego na okres 5 lat.
 4. Minister właściwy do spraw zabezpieczenia społecznego zamieszcza ogłoszenie o rozpoczęciu procedury powoływania członków Komisji w Biuletynie Informacji Publicznej i na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego oraz wyznacza w nim termin zgłaszania się kandydatów.
@@ -70,6 +71,7 @@ w sprawie specjalizacji w zawodzie pracownik socjalny Na podstawie art. 118a ust
 6. Uchwały i protokół, o których mowa w ust. 4 i 5, przewodniczący Komisji przekazuje do wiadomości ministrowi właściwemu do spraw zabezpieczenia społecznego w terminie nie dłuższym niż 30 dni od dnia zakończenia posiedzenia.
 7. Udział w posiedzeniu Komisji lub podejmowanie rozstrzygnięć i przyjmowanie wniosków może odbywać się zdalnie, z wykorzystaniem środków bezpośredniego porozumiewania się na odległość.
 8. Środki, o których mowa w ust. 7, powinny umożliwiać osobom wchodzącym w skład Komisji, przebywającym w miejscu innym niż miejsce posiedzenia, wypowiadanie się w toku obrad oraz głosowanie.
+§ 4. 1. Regionalna komisja składa się z nie mniej niż 4 i nie więcej niż 5 członków.
 2. W skład regionalnej komisji wchodzą specjaliści z zakresu pracy socjalnej lub pomocy społecznej z danego województwa posiadający: doświadczenie w kształceniu lub doskonaleniu zawodowym pracowników socjalnych lub staż zawodowy w instytucjach i podmiotach działających w obszarze pomocy społecznej.
 3. Członków regionalnej komisji powołuje Komisja na okres 5 lat spośród kandydatów zgłoszonych przez marszałka danego województwa.
 4. Członkowie regionalnej komisji wybierają ze swojego składu przewodniczącego, który kieruje pracami regionalnej komisji.
@@ -89,38 +91,39 @@ w sprawie specjalizacji w zawodzie pracownik socjalny Na podstawie art. 118a ust
 6. Uchwały i protokół, o których mowa w ust. 4 i 5, przewodniczący regionalnej komisji przekazuje do wiadomości Komisji w terminie nie dłuższym niż 30 dni od dnia zakończenia posiedzenia.
 7. Udział w posiedzeniu regionalnej komisji lub podejmowanie rozstrzygnięć i przyjmowanie wniosków może odbywać się zdalnie, z wykorzystaniem środków bezpośredniego porozumiewania się na odległość.
 8. Środki, o których mowa w ust. 7, powinny umożliwiać osobom wchodzącym w skład regionalnej komisji, przebywającym w miejscu innym niż miejsce posiedzenia, wypowiadanie się w toku obrad oraz głosowanie.
-1) warsztat pracy pracownika socjalnego 15 godzin;
-2) specyfika zawodu pracownika socjalnego 10 godzin;
-3) diagnoza społeczna jako element pracy pracownika socjalnego 15 godzin;
-4) metodologia i metodyka pracy socjalnej 20 godzin;
-5) superwizja w pracy socjalnej jako forma wsparcia pracownika socjalnego wprowadzenie do superwizji 10 godzin;
-6) etyka zawodowa i prawa człowieka 10 godzin;
-7) wybrane zagadnienia z zakresu prawa rodzinnego, prawa cywilnego, prawa administracyjnego, prawa karnego, prawa pracy i zabezpieczenia społecznego 25 godzin;
-8) wybrane zagadnienia z zakresu pomocy społecznej 20 godzin;
-9) umiejętności interpersonalne w pracy socjalnej 30 godzin;
-10) budowanie i zarządzanie siecią wsparcia społeczności lokalnej, w tym współpraca z podmiotami ekonomii społecznej 20 godzin;
-11) metody oraz techniki tworzenia projektów socjalnych 20 godzin.
+§ 6. 1. Minimum programowe dla I stopnia specjalizacji w zawodzie pracownik socjalny obejmuje następujące moduły oraz liczbę godzin przeznaczonych na ich realizację:
+1) warsztat pracy pracownika socjalnego – 15 godzin;
+2) specyfika zawodu pracownika socjalnego – 10 godzin;
+3) diagnoza społeczna jako element pracy pracownika socjalnego – 15 godzin;
+4) metodologia i metodyka pracy socjalnej – 20 godzin;
+5) superwizja w pracy socjalnej jako forma wsparcia pracownika socjalnego – wprowadzenie do superwizji – 10 godzin;
+6) etyka zawodowa i prawa człowieka – 10 godzin;
+7) wybrane zagadnienia z zakresu prawa rodzinnego, prawa cywilnego, prawa administracyjnego, prawa karnego, prawa pracy i zabezpieczenia społecznego – 25 godzin;
+8) wybrane zagadnienia z zakresu pomocy społecznej – 20 godzin;
+9) umiejętności interpersonalne w pracy socjalnej – 30 godzin;
+10) budowanie i zarządzanie siecią wsparcia społeczności lokalnej, w tym współpraca z podmiotami ekonomii społecznej – 20 godzin;
+11) metody oraz techniki tworzenia projektów socjalnych – 20 godzin.
 2. Minimum programowe dla II stopnia specjalizacji w zawodzie pracownik socjalny obejmuje następujące moduły oraz liczbę godzin przeznaczonych na ich realizację:
 1) w zakresie przygotowania ogólnego:
-a) projekt socjalny 40 godzin,
-b) kategorie problemów społecznych oraz osób i grup korzystających z pomocy społecznej 20 godzin,
-c) mediacje i negocjacje 20 godzin,
-d) metody zarządzania w pracy socjalnej i pomocy społecznej 20 godzin,
-e) warsztat superwizji w pracy socjalnej 10 godzin,
-f) stres i wypalenie zawodowe 10 godzin,
-g) lokalna polityka społeczna 10 godzin,
-h) publiczne relacje i promocja działań w pomocy społecznej public relations (PR) 10 godzin,
-i) polityka społeczna w Unii Europejskiej oraz działania Rady Europy w zakresie polityki społecznej 5 godzin,
-j) specyfika pracy socjalnej i bezpieczeństwo pracowników socjalnych w dobie różnego rodzaju kryzysów i zagrożeń, w tym w okresie pandemii i klęsk żywiołowych 10 godzin,
-k) budowanie lokalnej sieci wsparcia, w tym współpraca z podmiotami ekonomii społecznej 15 godzin,
-l) warsztat współpracy w zespole zadaniowym 10 godzin;
+a) projekt socjalny – 40 godzin,
+b) kategorie problemów społecznych oraz osób i grup korzystających z pomocy społecznej – 20 godzin,
+c) mediacje i negocjacje – 20 godzin,
+d) metody zarządzania w pracy socjalnej i pomocy społecznej – 20 godzin,
+e) warsztat superwizji w pracy socjalnej – 10 godzin,
+f) stres i wypalenie zawodowe – 10 godzin,
+g) lokalna polityka społeczna – 10 godzin,
+h) publiczne relacje i promocja działań w pomocy społecznej – public relations (PR) – 10 godzin,
+i) polityka społeczna w Unii Europejskiej oraz działania Rady Europy w zakresie polityki społecznej – 5 godzin,
+j) specyfika pracy socjalnej i bezpieczeństwo pracowników socjalnych w dobie różnego rodzaju kryzysów i zagrożeń, w tym w okresie pandemii i klęsk żywiołowych – 10 godzin,
+k) budowanie lokalnej sieci wsparcia, w tym współpraca z podmiotami ekonomii społecznej – 15 godzin,
+l) warsztat współpracy w zespole zadaniowym – 10 godzin;
 2) w zakresie przygotowania specjalistycznego, dostosowanego merytorycznie do specjalności obowiązujących dla II stopnia specjalizacji w zawodzie pracownik socjalny, o których mowa w § 7:
-a) interdyscyplinarna charakterystyka problemu 40 godzin,
-b) diagnoza problemów społecznych i potencjału lokalnego w pracy socjalnej, w tym współpraca z podmiotami ekonomii społecznej 20 godzin,
-c) metody i narzędzia pracy socjalnej 20 godzin,
-d) hospitacje instytucji działających w obszarze specjalności, o których mowa w § 7 20 godzin,
-e) realizacja usług społecznych 10 godzin,
-f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług 10 godzin.
+a) interdyscyplinarna charakterystyka problemu – 40 godzin,
+b) diagnoza problemów społecznych i potencjału lokalnego w pracy socjalnej, w tym współpraca z podmiotami ekonomii społecznej – 20 godzin,
+c) metody i narzędzia pracy socjalnej – 20 godzin,
+d) hospitacje instytucji działających w obszarze specjalności, o których mowa w § 7 – 20 godzin,
+e) realizacja usług społecznych – 10 godzin,
+f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług – 10 godzin.
 § 7. 1. Ustala się następujące specjalności obowiązujące dla II stopnia specjalizacji w zawodzie pracownik socjalny:
 1) praca socjalna z rodziną z problemami opiekuńczo-wychowawczymi;
 2) praca socjalna z osobą i rodziną z problemem przemocy;
@@ -137,6 +140,7 @@ f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług 10 go
 13) asystentura i mediacja socjalna;
 14) organizator usług społecznych.
 2. Minister właściwy do spraw zabezpieczenia społecznego, na wniosek podmiotu prowadzącego szkolenia, może wydać zgodę na prowadzenie szkolenia w innej niż określona w ust. 1 specjalności wynikającej z potrzeb danego środowiska lokalnego lub regionu.
+§ 8. 1. Warunkiem uzyskania przez pracownika socjalnego I stopnia specjalizacji w zawodzie pracownik socjalny jest:
 1) posiadanie uprawnienia do wykonywania zawodu pracownika socjalnego, uzyskanego na podstawie przepisów ustawy lub art. 5 ustawy z dnia 16 lutego 2007 r. o zmianie ustawy o pomocy społecznej (Dz. U. poz. 320), lub posiadanie decyzji o uznaniu kwalifikacji w zawodzie regulowanym pracownika socjalnego na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334);
 2) posiadanie co najmniej 2-letniego stażu w zawodzie pracownika socjalnego;
 3) ukończenie szkolenia z zakresu I stopnia specjalizacji w zawodzie pracownik socjalny;
@@ -176,6 +180,7 @@ f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług 10 go
 4. Duplikat ma moc oryginału.
 5. Jeżeli brak jest dokumentacji egzaminacyjnej lub dokumentacja egzaminacyjna jest niewystarczająca do wystawienia duplikatu dyplomu, Komisja albo regionalna komisja wydają zaświadczenie, że wydanie duplikatu nie jest możliwe. W takim przypadku odtworzenie oryginału dyplomu może nastąpić na podstawie przepisów o odtworzeniu dyplomów i świadectw o ukończeniu nauki w drodze postępowania sądowego.
 § 13. Wzory dyplomów uzyskania I i II stopnia specjalizacji w zawodzie pracownik socjalny stanowią załączniki nr 1 i 2 do rozporządzenia.
+§ 14. 1. Praca dyplomowa ma formę projektu socjalnego.
 2. Projekt socjalny zawiera:
 1) część teoretyczną nieprzekraczającą ¼ objętości pracy;
 2) część empiryczną zawierającą opis problemu socjalnego, charakterystykę środowiska lokalnego, metody rozwiązania problemu socjalnego i ocenę wdrożenia projektu socjalnego;
@@ -183,9 +188,11 @@ f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług 10 go
 4) wykaz literatury przedmiotu i wykorzystanych źródeł.
 3. Podmiot prowadzący szkolenia w zakresie II stopnia specjalizacji w zawodzie pracownik socjalny zapewnia uczestnikowi konsultacje pracy dyplomowej w wymiarze nie mniejszym niż 20 godzin.
 4. Konsultant opracowuje pisemną opinię pracy dyplomowej.
+§ 15. Kadra dydaktyczna szkoleń w zakresie I i II stopnia specjalizacji w zawodzie pracownik socjalny i konsultanci, wskazani przez podmioty ubiegające się o zgodę ministra właściwego do spraw zabezpieczenia społecznego na prowadzenie szkoleń w zakresie specjalizacji w zawodzie pracownik socjalny, powinni posiadać:
 1) wykształcenie wyższe;
 2) kwalifikacje zawodowe umożliwiające realizację treści programowych dla danego modułu;
 3) co najmniej 3-letnie doświadczenie w kształceniu lub doskonaleniu zawodowym pracowników socjalnych lub co najmniej 5-letni staż zawodowy w pomocy społecznej.
+§ 16. 1. Komisja przeprowadza kontrole pracy regionalnych komisji i podmiotów prowadzących szkolenia na podstawie planu kontroli opracowanego przez Komisję.
 2. Niezależnie od planu kontroli Komisja może przeprowadzać dodatkowe kontrole w przypadku uzyskania informacji dotyczących nieprawidłowości w organizacji i funkcjonowaniu regionalnych komisji lub podmiotów prowadzących szkolenia.
 § 17. 1. O przedmiocie i terminie rozpoczęcia kontroli powiadamia się regionalną komisję lub podmiot prowadzący szkolenia nie później niż 7 dni przed rozpoczęciem kontroli.
 2. Przepisu ust. 1 nie stosuje się do kontroli, o której mowa w § 16 ust. 2.
@@ -193,18 +200,19 @@ f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług 10 go
 § 19. Komisja ma prawo wglądu do dokumentacji związanej z prowadzeniem szkolenia i przeprowadzaniem egzaminu zawierającej dane osobowe uczestników szkolenia, w zakresie niezbędnym dla celów kontroli.
 § 20. 1. Dokonane w postępowaniu kontrolnym ustalenia, opinie, rekomendacje i wnioski opisuje się w protokole kontroli sporządzanym w terminie miesiąca od dnia zakończenia kontroli.
 2. Protokół kontroli przekazuje się za poświadczeniem odbioru:
-1) regionalnej komisji i marszałkowi danego województwa w przypadku kontroli regionalnej komisji;
-2) podmiotowi prowadzącemu szkolenia w zakresie I stopnia specjalizacji w zawodzie pracownik socjalny i regionalnej komisji w przypadku kontroli podmiotu prowadzącego szkolenia z zakresu I stopnia specjalizacji w zawodzie pracownik socjalny;
-3) podmiotowi prowadzącemu szkolenia w zakresie II stopnia specjalizacji w zawodzie pracownik socjalny w przypadku kontroli podmiotu prowadzącego szkolenia z zakresu II stopnia specjalizacji w zawodzie pracownik socjalny.
+1) regionalnej komisji i marszałkowi danego województwa – w przypadku kontroli regionalnej komisji;
+2) podmiotowi prowadzącemu szkolenia w zakresie I stopnia specjalizacji w zawodzie pracownik socjalny i regionalnej komisji – w przypadku kontroli podmiotu prowadzącego szkolenia z zakresu I stopnia specjalizacji w zawodzie pracownik socjalny;
+3) podmiotowi prowadzącemu szkolenia w zakresie II stopnia specjalizacji w zawodzie pracownik socjalny – w przypadku kontroli podmiotu prowadzącego szkolenia z zakresu II stopnia specjalizacji w zawodzie pracownik socjalny.
 3. Regionalna komisja i podmiot prowadzący szkolenia mają prawo zgłoszenia zastrzeżeń do ustaleń zawartych w protokole w terminie 7 dni od dnia jego otrzymania.
 § 21. 1. W przypadku stwierdzenia uchybień i nieuwzględnienia zastrzeżeń, o których mowa w § 20 ust. 3, Komisja sporządza zalecenia pokontrolne.
 2. Zalecenia pokontrolne przekazuje się za poświadczeniem odbioru:
-1) regionalnej komisji i marszałkowi danego województwa w przypadku kontroli regionalnej komisji;
-2) podmiotowi prowadzącemu szkolenia w zakresie I stopnia specjalizacji w zawodzie pracownik socjalny i regionalnej komisji w przypadku kontroli podmiotu prowadzącego szkolenia z zakresu I stopnia specjalizacji w zawodzie pracownik socjalny;
-3) podmiotowi prowadzącemu szkolenia w zakresie II stopnia specjalizacji w zawodzie pracownik socjalny w przypadku kontroli podmiotu prowadzącego szkolenia z zakresu II stopnia specjalizacji w zawodzie pracownik socjalny.
+1) regionalnej komisji i marszałkowi danego województwa – w przypadku kontroli regionalnej komisji;
+2) podmiotowi prowadzącemu szkolenia w zakresie I stopnia specjalizacji w zawodzie pracownik socjalny i regionalnej komisji – w przypadku kontroli podmiotu prowadzącego szkolenia z zakresu I stopnia specjalizacji w zawodzie pracownik socjalny;
+3) podmiotowi prowadzącemu szkolenia w zakresie II stopnia specjalizacji w zawodzie pracownik socjalny – w przypadku kontroli podmiotu prowadzącego szkolenia z zakresu II stopnia specjalizacji w zawodzie pracownik socjalny.
 3. Regionalna komisja i podmiot prowadzący szkolenia ustosunkowują się do zaleceń pokontrolnych w terminie 30 dni od dnia ich otrzymania.
 4. W przypadku stwierdzenia istotnych nieprawidłowości podczas kontroli podmiotu prowadzącego szkolenia lub nieusunięcia ich w wyznaczonym terminie, w tym niedostosowania się do zaleceń merytorycznych wskazanych w zaleceniach pokontrolnych, Komisja występuje z wnioskiem do ministra właściwego do spraw zabezpieczenia społecznego o wycofanie zgody na prowadzenie szkoleń w zakresie specjalizacji w zawodzie pracownik socjalny przez dany podmiot prowadzący szkolenia.
-5. W przypadku stwierdzenia istotnych nieprawidłowości podczas kontroli regionalnej komisji lub nieusunięcia ich w wyznaczonym terminie, w tym niedostosowania się do zaleceń merytorycznych wskazanych w zaleceniach pokontrolRozdział 9 Warunki, jakie powinny spełniać podmioty prowadzące szkolenia § 22. 1. Podmiot prowadzący szkolenia powinien:
+5. W przypadku stwierdzenia istotnych nieprawidłowości podczas kontroli regionalnej komisji lub nieusunięcia ich w wyznaczonym terminie, w tym niedostosowania się do zaleceń merytorycznych wskazanych w zaleceniach pokontrolnych, Komisja może odwołać przewodniczącego i członków regionalnych komisji z funkcji.
+§ 22. 1. Podmiot prowadzący szkolenia powinien:
 1) posiadać program szkolenia uwzględniający odpowiednio minimum programowe, o którym mowa w § 6, łącznie z wykazem tematów i liczbą godzin wykładów, ćwiczeń i warsztatów oraz wykazem literatury i pytań sprawdzających dla każdego modułu objętego minimum programowym;
 2) aktualizować programy szkolenia stosownie do najnowszego stanu wiedzy lub zmian przepisów prawa, nie rzadziej niż co 3 lata;
 3) dysponować kadrą dydaktyczną szkoleń w zakresie I i II stopnia specjalizacji w zawodzie pracownik socjalny oraz konsultantami w przypadku szkoleń w zakresie II stopnia specjalizacji w zawodzie pracownik socjalny, spełniającymi warunki określone w § 15;
@@ -221,7 +229,9 @@ f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług 10 go
 3) rejestr wydanych zaświadczeń o ukończeniu szkolenia, zawierający: numer w rejestrze, numer zaświadczenia, datę odbioru zaświadczenia i imię i nazwisko pracownika socjalnego, któremu zostało wydane zaświadczenie, oraz jego podpis;
 4) dokumentację uczestników szkolenia;
 5) dokumentację kadry dydaktycznej szkoleń i konsultantów.
+§ 24. 1. Opłatę za egzamin dla pracowników socjalnych ubiegających się o I stopień specjalizacji w zawodzie pracownik socjalny wnosi się na rachunek bankowy wskazany przez marszałka danego województwa.
 2. Opłatę za egzamin dla pracowników socjalnych ubiegających się o II stopień specjalizacji w zawodzie pracownik socjalny wnosi się na rachunek bankowy wskazany przez ministra właściwego do spraw zabezpieczenia społecznego.
+§ 25. 1. Regionalna komisja wyznacza termin egzaminu na I stopień specjalizacji w zawodzie pracownik socjalny oraz czuwa nad jego właściwym przygotowaniem i przebiegiem.
 2. Pytania egzaminacyjne są opracowywane przez regionalną komisję i przekazywane do wiadomości Komisji.
 3. Egzamin ma formę ustną i obejmuje zagadnienia z zakresu minimum programowego, o którym mowa w § 6 ust. 1.
 4. Egzamin odbywa się w obecności co najmniej trzech członków regionalnej komisji.
@@ -237,15 +247,18 @@ f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług 10 go
 8. Dokumentację dotyczącą nadawania II stopnia specjalizacji w zawodzie pracownik socjalny przechowuje się przez okres 5 lat. Po upływie tego okresu dokumentację przekazuje się do właściwego archiwum zakładowego.
 § 27. 1. Pracownik socjalny, który nie zdał egzaminu na I lub II stopień specjalizacji w zawodzie pracownik socjalny, może przystąpić do egzaminu poprawkowego bez konieczności powtarzania szkolenia po złożeniu dokumentów, o których mowa odpowiednio w § 10 ust. 1 pkt 1 i 4 oraz ust. 2 pkt 1 i 7, w terminie wyznaczonym przez Komisję lub regionalną komisję.
 2. Do egzaminu poprawkowego mają zastosowanie odpowiednio przepisy § 24–26.
+§ 28. 1. Jednostkę organizacyjną współpracującą z Komisją w zakresie organizacji egzaminów na II stopień specjalizacji w zawodzie pracownik socjalny, zwaną dalej „jednostką współpracującą”, wybiera minister właściwy do spraw zabezpieczenia społecznego spośród podmiotów, które odpowiedziały na zapytanie ministra w wyznaczonym przez niego terminie, mają praktykę w prowadzeniu szkoleń skierowanych do służb społecznych oraz instytucji działających w obszarze polityki społecznej, dysponują kadrą posiadającą doświadczenie w organizowaniu egzaminów i przedstawią korzystną ekonomicznie propozycję.
 2. Minister właściwy do spraw zabezpieczenia społecznego zamieszcza informację o wyborze jednostki w Biuletynie Informacji Publicznej oraz na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego.
 § 29. 1. Komisja współpracuje z jednostką współpracującą na podstawie porozumienia określającego obowiązki Komisji i jednostki współpracującej dotyczące w szczególności obsługi administracyjno-technicznej w zakresie przygotowania, przeprowadzenia oraz zakończenia egzaminu na II stopień specjalizacji w zawodzie pracownik socjalny.
+2. Porozumienie, o którym mowa w ust. 1, podlega akceptacji ministra właściwego do spraw zabezpieczenia społecznego.
+§ 30. 1. Zgody na prowadzenie szkolenia w zakresie specjalizacji w zawodzie pracownik socjalny udzielone podmiotom prowadzącym szkolenia przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres nie dłuższy niż 3 miesiące od dnia wejścia w życie rozporządzenia.
 2. W przypadku podmiotów, które rozpoczęły szkolenie w zakresie specjalizacji w zawodzie pracownik socjalny przed dniem wejścia w życie rozporządzenia, zgody na prowadzenie szkolenia udzielone tym podmiotom przed dniem wejścia w życie rozporządzenia zachowują ważność do czasu zakończenia rozpoczętego szkolenia.
 § 31. Przewodniczący oraz członkowie Komisji i regionalnych komisji pełniący swoje funkcje w dniu wejścia w życie rozporządzenia pełnią je do czasu powołania nowych składów, nie dłużej jednak niż 6 miesięcy od dnia wejścia w życie rozporządzenia.
 § 32. 1. Pracownicy socjalni, którzy ukończyli szkolenie w zakresie I lub II stopnia specjalizacji w zawodzie pracownik socjalny przed dniem wejścia w życie rozporządzenia, mogą przystąpić do egzaminu na warunkach określonych w rozporządzeniu Ministra Polityki Społecznej z dnia 2 sierpnia 2005 r. w sprawie specjalizacji w zawodzie pracownik socjalny (Dz. U. poz. 1289), jednak w terminie nie dłuższym niż 12 miesięcy od dnia wejścia w życie rozporządzenia.
 2. Pracownicy socjalni, którzy kontynuują szkolenie w zakresie I lub II stopnia specjalizacji w zawodzie pracownik socjalny w dniu wejścia w życie rozporządzenia, mogą przystąpić do egzaminu na warunkach określonych w ust. 1, jednak w terminie nie dłuższym niż 12 miesięcy od dnia zakończenia szkolenia.
 § 33. Pracownicy socjalni, którzy uzyskali stopnie specjalizacji w zawodzie pracownik socjalny przed dniem wejścia w życie niniejszego rozporządzenia, zachowują je.
 § 34. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Społecznej z dnia 17 kwietnia 2012 r. (Dz. U. z 2024 r. poz….) Załącznik nr 1 DYPLOM UZYSKANIA I STOPNIA SPECJALIZACJI W ZAWODZIE PRACOWNIK SOCJALNY Pani/Pan* ……………………………………………………………………………………………...
+Załączniki do rozporządzenia Społecznej z dnia 17 kwietnia 2012 r. (Dz. U. z 2024 r. poz….) Załącznik nr 1 DYPLOM UZYSKANIA I STOPNIA SPECJALIZACJI W ZAWODZIE PRACOWNIK SOCJALNY Pani/Pan* ……………………………………………………………………………………………...
 urodzona/urodzony* w dniu ………………….. w …………………………………………………...
 zdała/zdał* w dniu ………………….. egzamin przed Regionalną Komisją Egzaminacyjną do spraw stopni specjalizacji zawodowej pracowników socjalnych, działającą na podstawie art. 118 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.), oraz uzyskała/uzyskał* I stopień specjalizacji w zawodzie pracownik socjalny.
 Dyplom jest dokumentem potwierdzającym uzyskanie I stopnia specjalizacji w zawodzie pracownik socjalny, o którym mowa w art. 116 ust. 2 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
@@ -260,27 +273,29 @@ Dyplom jest dokumentem potwierdzającym uzyskanie II stopnia specjalizacji w zaw
 Przewodniczący Centralnej Komisji Egzaminacyjnej do spraw stopni specjalizacji zawodowej pracowników socjalnych ................................................
 Wykaz modułów Lp. Wykaz modułów w zakresie przygotowania ogólnego Liczba godzin Wykaz modułów w zakresie przygotowania specjalistycznego Konsultacje ŁĄCZNA LICZBA GODZIN
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Tryb powoływania i odwoływania członków Komisji oraz organizacja pracy Komisji § 2. 1. Komisja składa się z nie mniej niż 4 i nie więcej niż 10 członków.
+#### Rozdział 2 Tryb powoływania i odwoływania członków Komisji oraz organizacja pracy Komisji
 
-#### Rozdział 3 Tryb powoływania i odwoływania członków regionalnych komisji oraz organizacja pracy tych komisji § 4. 1. Regionalna komisja składa się z nie mniej niż 4 i nie więcej niż 5 członków.
+#### Rozdział 3 Tryb powoływania i odwoływania członków regionalnych komisji oraz organizacja pracy tych komisji
 
-#### Rozdział 4 Minimum programowe dla I i II stopnia specjalizacji w zawodzie pracownik socjalny oraz specjalności obowiązujące dla II stopnia specjalizacji w zawodzie pracownik socjalny § 6. 1. Minimum programowe dla I stopnia specjalizacji w zawodzie pracownik socjalny obejmuje następujące moduły oraz liczbę godzin przeznaczonych na ich realizację:
+#### Rozdział 4 Minimum programowe dla I i II stopnia specjalizacji w zawodzie pracownik socjalny oraz specjalności obowiązujące dla II stopnia specjalizacji w zawodzie pracownik socjalny
 
-#### Rozdział 5 Warunki uzyskiwania przez pracowników socjalnych stopni specjalizacji oraz tryb postępowania w sprawie nadawania stopni specjalizacji i wydawania dyplomów § 8. 1. Warunkiem uzyskania przez pracownika socjalnego I stopnia specjalizacji w zawodzie pracownik socjalny jest:
+#### Rozdział 5 Warunki uzyskiwania przez pracowników socjalnych stopni specjalizacji oraz tryb postępowania w sprawie nadawania stopni specjalizacji i wydawania dyplomów
 
-#### Rozdział 6 Wytyczne dotyczące prac dyplomowych § 14. 1. Praca dyplomowa ma formę projektu socjalnego.
+#### Rozdział 6 Wytyczne dotyczące prac dyplomowych
 
-#### Rozdział 7 Wymagania dotyczące kadry dydaktycznej szkoleń i konsultantów § 15. Kadra dydaktyczna szkoleń w zakresie I i II stopnia specjalizacji w zawodzie pracownik socjalny i konsultanci, wskazani przez podmioty ubiegające się o zgodę ministra właściwego do spraw zabezpieczenia społecznego na prowadzenie szkoleń w zakresie specjalizacji w zawodzie pracownik socjalny, powinni posiadać:
+#### Rozdział 7 Wymagania dotyczące kadry dydaktycznej szkoleń i konsultantów
 
-#### Rozdział 8 Tryb kontrolowania pracy regionalnych komisji i podmiotów prowadzących szkolenia § 16. 1. Komisja przeprowadza kontrole pracy regionalnych komisji i podmiotów prowadzących szkolenia na podstawie planu kontroli opracowanego przez Komisję.
+#### Rozdział 8 Tryb kontrolowania pracy regionalnych komisji i podmiotów prowadzących szkolenia
 
-#### Rozdział 10 Tryb wnoszenia odpłatności za egzamin na I i II stopień specjalizacji w zawodzie pracownik socjalny § 24. 1. Opłatę za egzamin dla pracowników socjalnych ubiegających się o I stopień specjalizacji w zawodzie pracownik socjalny wnosi się na rachunek bankowy wskazany przez marszałka danego województwa.
+#### Rozdział 9 Warunki, jakie powinny spełniać podmioty prowadzące szkolenia
 
-#### Rozdział 11 Organizacja i sposób przeprowadzenia egzaminu § 25. 1. Regionalna komisja wyznacza termin egzaminu na I stopień specjalizacji w zawodzie pracownik socjalny oraz czuwa nad jego właściwym przygotowaniem i przebiegiem.
+#### Rozdział 10 Tryb wnoszenia odpłatności za egzamin na I i II stopień specjalizacji w zawodzie pracownik socjalny
 
-#### Rozdział 12 Zasady wyboru jednostki organizacyjnej współpracującej z Komisją i warunki tej współpracy § 28. 1. Jednostkę organizacyjną współpracującą z Komisją w zakresie organizacji egzaminów na II stopień specjalizacji w zawodzie pracownik socjalny, zwaną dalej „jednostką współpracującą”, wybiera minister właściwy do spraw zabezpieczenia społecznego spośród podmiotów, które odpowiedziały na zapytanie ministra w wyznaczonym przez niego terminie, mają praktykę w prowadzeniu szkoleń skierowanych do służb społecznych oraz instytucji działających w obszarze polityki społecznej, dysponują kadrą posiadającą doświadczenie w organizowaniu egzaminów i przedstawią korzystną ekonomicznie propozycję.
+#### Rozdział 11 Organizacja i sposób przeprowadzenia egzaminu
 
-#### Rozdział 13 Przepisy przejściowe i końcowe § 30. 1. Zgody na prowadzenie szkolenia w zakresie specjalizacji w zawodzie pracownik socjalny udzielone podmiotom prowadzącym szkolenia przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres nie dłuższy niż 3 miesiące od dnia wejścia w życie rozporządzenia.
+#### Rozdział 12 Zasady wyboru jednostki organizacyjnej współpracującej z Komisją i warunki tej współpracy
+
+#### Rozdział 13 Przepisy przejściowe i końcowe
 

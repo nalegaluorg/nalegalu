@@ -8,10 +8,10 @@ pos: 126
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 stycznia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 126 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 31 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,19 +25,19 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000126) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/126/text.pdf) |
 
-OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 31 grudnia 2018 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie udzielania wsparcia nowej inwestycji z Funduszu Strefowego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 21 marca 2006 r. w sprawie udzielania wsparcia nowej inwestycji z Funduszu Strefowego (Dz. U. z 2016 r. poz. 1651), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 10 stycznia 2018 r. zmieniającym rozporządzenie w sprawie udzielania wsparcia nowej inwestycji z Funduszu Strefowego (Dz. U. poz. 80).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 10 stycznia 2018 r. zmieniającego rozporządzenie w sprawie udzielania wsparcia nowej inwestycji z Funduszu Strefowego (Dz. U. poz. 80), które stanowią: „§ 2. 1. Przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie stosuje się do umów o udzielenie wsparcia nowej inwestycji zawartych przed dniem wejścia w życie niniejszego rozporządzenia.
 2. W przypadku wniosków o udzielenie wsparcia nowej inwestycji złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia wsparcia nowej inwestycji udziela się pod warunkiem uzupełnienia wniosku o udzielenie wsparcia nowej inwestycji przez wnioskodawcę odpowiednio o oświadczenia, o których mowa w pkt VI ppkt 1–4 załącznika do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 marca 2006 r.
-w sprawie udzielania wsparcia nowej inwestycji z Funduszu Strefowego Na podstawie art. 8 ust. 8 ustawy z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. poz. 1840, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie udzielania wsparcia nowej inwestycji z Funduszu Strefowego Na podstawie art. 8 ust. 8 ustawy z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. poz. 1840, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) warunki udzielania wsparcia nowej inwestycji, o której mowa w art. 8 ust. 2 ustawy z dnia 2 października 2003 r.
 o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw, zwanej dalej „ustawą”;
 2) koszty kwalifikujące się do objęcia pomocą z tytułu nowej inwestycji;
 3) maksymalną dopuszczalną wielkość pomocy;
-4) rodzaje działalności gospo darczej, na które nie udziela się wsparcia;
+4) rodzaje działalności gospodarczej, na które nie udziela się wsparcia;
 5) wzór wniosku o wsparcie nowej inwestycji oraz wymagane dokumenty;
 6) termin składania i rozpatrywania wniosku;
 7) sposób i terminy przekazywania przez Bank Gospodarstwa Krajowego udzielonego wsparcia na rachunek wskazany przez podatnika lub przedsiębiorcę;
@@ -47,8 +47,8 @@ o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw, zwane
 § 3. 1. Warunkiem udzielenia wsparcia nowej inwestycji jest:
 1) złożenie wniosku, o którym mowa w art. 8 ust. 7 ustawy, przed rozpoczęciem inwestycji;
 2) udział środków własnych przedsiębiorcy rozumianych jako środki, które nie zostały uzyskane w ramach udzielonej mu pomocy, wynoszących co najmniej 25% całkowitych kosztów inwestycji;
-3) prowadzenie działalności gospodarczej związanej z nową inwestycją w regionie kwalifikującym się do objęcia pomocą przez co najmniej 5 lat od zakończenia inwestycji, a w przypadku małych i średnich przedsiębiorców przez okres co najmniej 3 lat;
-4) utrzymanie nowo utworzonych miejsc pracy przez co najmniej 5 lat od dnia ich utworzenia, jeżeli wsparcie zostanie udzielone z tytułu kosztów płacy wynikających z tworzenia nowych miejsc pracy, a w przypadku małych i średnich przedsiębiorców przez okres co najmniej 3 lat.
+3) prowadzenie działalności gospodarczej związanej z nową inwestycją w regionie kwalifikującym się do objęcia pomocą przez co najmniej 5 lat od zakończenia inwestycji, a w przypadku małych i średnich przedsiębiorców – przez okres co najmniej 3 lat;
+4) utrzymanie nowo utworzonych miejsc pracy przez co najmniej 5 lat od dnia ich utworzenia, jeżeli wsparcie zostanie udzielone z tytułu kosztów płacy wynikających z tworzenia nowych miejsc pracy, a w przypadku małych i średnich przedsiębiorców – przez okres co najmniej 3 lat.
 2. Wsparcia nie udziela się nowej inwestycji realizowanej w celu prowadzenia działalności gospodarczej w zakresie:
 1) wytwarzania materiałów wybuchowych, wyrobów tytoniowych, wyrobu, rozlewu i przetwarzania spirytusu oraz napojów alkoholowych, a także przetwarzania paliw silnikowych;
 2) prowadzenia ośrodków gier, o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U.
@@ -80,7 +80,7 @@ c) pozostałych usług w zakresie informacji określonych w grupie 63.9;
 11) usług finansowych i ubezpieczeniowych oraz usług związanych z obsługą rynku nieruchomości, określonych w sekcjach K i L PKWiU;
 12) usług profesjonalnych, naukowych i technicznych, określonych w sekcji M PKWiU, z wyjątkiem:
 a) usług w zakresie audytu finansowego określonych w kategorii 69.20.1,
-b) usług rachunkowo-księgowych określonych w kategorii 69 .20.2,
+b) usług rachunkowo-księgowych określonych w kategorii 69.20.2,
 c) usług w zakresie badań i analiz technicznych określonych w grupie 71.2,
 d) usług w zakresie badań naukowych i prac rozwojowych określonych w dziale 72;
 13) usług administrowania i usług wspierających określonych w sekcji N PKWiU, z wyjątkiem:
@@ -89,7 +89,7 @@ b) usług centrów telefonicznych (call center) określonych w grupie 82.2;
 14) usług administracji publicznej i obrony narodowej; usług w zakresie obowiązkowych zabezpieczeń społecznych oraz edukacji, usług w zakresie opieki zdrowotnej i pomocy społecznej, usług kulturalnych, rozrywkowych, sportowych i rekreacyjnych, określonych w sekcjach O–R PKWiU;
 15) pozostałych usług określonych w sekcji S PKWiU, z wyjątkiem usług naprawy i konserwacji komputerów i sprzętu komunikacyjnego określonych w grupie 95.1 PKWiU;
 16) usług gospodarstw domowych i usług świadczonych przez organizacje i zespoły eksterytorialne, określonych w sekcjach T i U PKWiU;
-17) działalności gospodarczej, na której prowadzenie jest wymagane posiadanie koncesji, zgodnie z art. 32 ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm. );
+17) działalności gospodarczej, na której prowadzenie jest wymagane posiadanie koncesji, zgodnie z art. 32 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm. );
 18) (uchylony).
 3. Wsparcia nie udziela się również:
 1) w przypadkach określonych w art. 1 ust. 2 lit. c i d, ust. 3 lit. a–d i ust. 4 i 5 oraz w art. 13 rozporządzenia nr 651/2014;
@@ -100,10 +100,10 @@ z 2018 r. poz. 997, 1000, 1629 i 1669), będzie wchodziła w zakres tej samej kl
 2) cenę nabycia albo koszt wytworzenia we własnym zakresie środków trwałych, pod warunkiem zaliczenia ich, zgodnie z odrębnymi przepisami, do składników majątku podatnika;
 3) koszt rozbudowy lub modernizacji istniejących środków trwałych;
 4) cenę nabycia wartości niematerialnych i prawnych związanych z transferem technologii poprzez nabycie praw patentowych, licencji, know-how lub nieopatentowanej wiedzy technicznej, z zastrzeżeniem ust. 2 i 3.
-2. Koszty związane z nabyciem aktywów objętych najmem albo dzierżawą, innych niż grunty, budynki i budowle, uwzględnia się jedynie w przypadku, gdy najem albo dzierżawa ma postać leasingu finansowego oraz obejmuje zobowiązanie do nabycia aktywów z chwilą upływu okresu najmu lub dzierżawy. W odniesieniu do najmu albo dzierżawy gruntów, budynków i budowli najem albo dzierżawa musi trwać przez okres co najmniej 5 lat od przewidywanego terminu zakończenia projektu inwestycyjnego, a w przypadku małych i średnich przedsiębiorstw przez okres co najmniej 3 lat.
+2. Koszty związane z nabyciem aktywów objętych najmem albo dzierżawą, innych niż grunty, budynki i budowle, uwzględnia się jedynie w przypadku, gdy najem albo dzierżawa ma postać leasingu finansowego oraz obejmuje zobowiązanie do nabycia aktywów z chwilą upływu okresu najmu lub dzierżawy. W odniesieniu do najmu albo dzierżawy gruntów, budynków i budowli najem albo dzierżawa musi trwać przez okres co najmniej 5 lat od przewidywanego terminu zakończenia projektu inwestycyjnego, a w przypadku małych i średnich przedsiębiorstw – przez okres co najmniej 3 lat.
 3. W przypadku przedsiębiorców innych niż mali i średni koszty inwestycji określone w ust. 1 pkt 4 uwzględnia się w kosztach kwalifikujących się do objęcia pomocą w wysokości nieprzekraczającej 50% wartości kosztów, o których mowa w ust. 1.
 4. Wartości niematerialne i prawne powinny spełniać łącznie następujące warunki:
-1) będą wykorzystane przez przedsiębiorcę otrzymującego pomoc regionalną wyłącznie w przedsiębiorstwie, na rzecz którego przedsiębiorca otrzymuje wsparcie, oraz będą ujęte w aktywach tego przedsiębiorstwa i pozostaną w nim przez okres co najmniej 5 lat, a w przypadku przedsiębiorcy małego lub średniego przez okres co najmniej 3 lat;
+1) będą wykorzystane przez przedsiębiorcę otrzymującego pomoc regionalną wyłącznie w przedsiębiorstwie, na rzecz którego przedsiębiorca otrzymuje wsparcie, oraz będą ujęte w aktywach tego przedsiębiorstwa i pozostaną w nim przez okres co najmniej 5 lat, a w przypadku przedsiębiorcy małego lub średniego – przez okres co najmniej 3 lat;
 2) będą nabyte na warunkach rynkowych od osób trzecich niepowiązanych z nabywcą;
 3) będą podlegać amortyzacji zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r.
 poz. 395, z późn. zm. ).
@@ -113,23 +113,23 @@ poz. 395, z późn. zm. ).
 8. W przypadku pomocy przyznanej dużym przedsiębiorcom w rozumieniu art. 2 pkt 24 rozporządzenia nr 651/2014 na zasadniczą zmianę procesu produkcji koszty kwalifikujące się do objęcia pomocą powinny przekraczać koszty amortyzacji aktywów związanych z działalnością podlegającą modernizacji w okresie 3 lat obrotowych poprzedzających rok, w którym złożono wniosek o udzielenie wsparcia.
 9. W przypadku pomocy przyznanej na dywersyfikację produkcji przedsiębiorstwa koszty kwalifikujące się do objęcia pomocą powinny przekraczać o co najmniej 200% wartość księgową ponownie wykorzystywanych aktywów, odnotowaną w roku obrotowym poprzedzającym rozpoczęcie prac.
 § 5. 1. Do kosztów kwalifikujących się do objęcia pomocą z tytułu kosztów płacy wynikających z tworzenia nowych miejsc pracy zalicza się dwuletnie koszty płacy nowo zatrudnionych pracowników obejmujące wynagrodzenie przed opodatkowaniem podatkiem dochodowym oraz opłacane od tego wynagrodzenia obowiązkowe składki na ubezpieczenia społeczne, ponoszone przez przedsiębiorcę od dnia zatrudnienia tych pracowników.
-2. Przez nowo zatrudnionych pracowników uważa się pracowników zatrudnionych w związku z realizacją nowej inwestycji, jednak nie później niż w okresie 3 lat od zakończenia inwestycji, a każde miejsce pracy będzie utrzymywane przez okres co najmniej 5 lat, a w przypadku małych i średnich przedsiębiorców przez okres co najmniej 3 lat.
+2. Przez nowo zatrudnionych pracowników uważa się pracowników zatrudnionych w związku z realizacją nowej inwestycji, jednak nie później niż w okresie 3 lat od zakończenia inwestycji, a każde miejsce pracy będzie utrzymywane przez okres co najmniej 5 lat, a w przypadku małych i średnich przedsiębiorców – przez okres co najmniej 3 lat.
 3. Przez utworzenie nowych miejsc pracy należy rozumieć przyrost netto miejsc pracy w danym przedsiębiorstwie w związku z realizacją nowej inwestycji, w stosunku do średniego zatrudnienia w okresie 12 miesięcy przed dniem udzielenia wsparcia, w przeliczeniu na osoby zatrudnione w pełnym wymiarze czasu pracy.
 § 6. 1. Maksymalna intensywność regionalnej pomocy inwestycyjnej liczona jako stosunek ekwiwalentu dotacji brutto do kosztów kwalifikujących się do objęcia tą pomocą, z zastrzeżeniem ust. 2 i 3, wynosi:
-1) 50% na obszarach należących do województw: lubelskiego, podkarpackiego, podlaskiego i warmińsko-mazurskiego;
-2) 35% na obszarach należących do województw: kujawsko-pomorskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, pomorskiego, świętokrzyskiego, zachodniopomorskiego oraz na obszarach należących do podregionów: ciechanowsko-płockiego, ostrołęcko-siedleckiego, radomskiego i warszawskiego wschodniego;
-3) 25% na obszarach należących do województw: dolnośląskiego, wielkopolskiego i śląskiego;
-4) 20% na obszarze należącym do podregionu warszawskiego zachodniego;
-5) 15% na obszarze należącym do miasta stołecznego Warszawy do dnia 31 grudnia 2017 r.;
-6) 10% na obszarze należącym do miasta stołecznego Warszawy od dnia 1 stycznia 2018 r.
+1) 50% – na obszarach należących do województw: lubelskiego, podkarpackiego, podlaskiego i warmińsko-mazurskiego;
+2) 35% – na obszarach należących do województw: kujawsko-pomorskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, pomorskiego, świętokrzyskiego, zachodniopomorskiego oraz na obszarach należących do podregionów: ciechanowsko-płockiego, ostrołęcko-siedleckiego, radomskiego i warszawskiego wschodniego;
+3) 25% – na obszarach należących do województw: dolnośląskiego, wielkopolskiego i śląskiego;
+4) 20% – na obszarze należącym do podregionu warszawskiego zachodniego;
+5) 15% – na obszarze należącym do miasta stołecznego Warszawy do dnia 31 grudnia 2017 r.;
+6) 10% – na obszarze należącym do miasta stołecznego Warszawy od dnia 1 stycznia 2018 r.
 2. Maksymalną intensywność regionalnej pomocy inwestycyjnej udzielanej małym lub średnim przedsiębiorcom podwyższa się o 20 punktów procentowych brutto w przypadku małych przedsiębiorców oraz o 10 punktów procentowych brutto w przypadku średnich przedsiębiorców, w stosunku do maksymalnej intensywności określonej dla poszczególnych obszarów. Podwyższenia nie stosuje się w przypadku dużych projektów inwestycyjnych.
-3. W przypadku pomocy regionalnej udzielanej przedsiębiorcy na realizację dużego projektu inwestycyjnego maksymalną wielkość pomocy ustala się według wzoru: I = R × (50 mln euro + 0,5 × B), gdzie poszczególne symbole oznaczają: I maksymalną wartość pomocy dla dużego projektu inwestycyjnego, R intensywność pomocy dla obszaru lokalizacji inwestycji, określoną zgodnie z ust. 1, B wielkość kosztów kwalifikujących się do objęcia pomocą powyżej równowartości 50 mln euro nieprzekraczającą równowartości 100 mln euro.
+3. W przypadku pomocy regionalnej udzielanej przedsiębiorcy na realizację dużego projektu inwestycyjnego maksymalną wielkość pomocy ustala się według wzoru: I = R × (50 mln euro + 0,5 × B), gdzie poszczególne symbole oznaczają: I – maksymalną wartość pomocy dla dużego projektu inwestycyjnego, R – intensywność pomocy dla obszaru lokalizacji inwestycji, określoną zgodnie z ust. 1, B – wielkość kosztów kwalifikujących się do objęcia pomocą powyżej równowartości 50 mln euro nieprzekraczającą równowartości 100 mln euro.
 4. Przez duży projekt inwestycyjny należy rozumieć nową inwestycję, której koszty kwalifikujące się do objęcia pomocą przekraczają równowartość 50 mln euro.
 5. Nową inwestycję rozpoczętą przez tego samego przedsiębiorcę lub innego przedsiębiorcę należącego do tej samej grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości w okresie 3 lat od dnia rozpoczęcia prac nad inną inwestycją objętą pomocą w tym samym podregionie wyróżnionym na poziomie trzecim (NTS 3), zgodnie z przepisami wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, uznaje się za część tej inwestycji.
 6. Wyrażone w euro kwoty określone w rozporządzeniu są przeliczane na złote według kursu ogłoszonego przez Narodowy Bank Polski z dnia przyznania pomocy.
 § 7. 1. Pomoc z tytułu kosztów nowej inwestycji może być udzielona wraz z pomocą z tytułu kosztów płacy wynikających z tworzenia nowych miejsc pracy związanych z tą inwestycją, pod warunkiem że łączna wielkość pomocy nie przekracza:
 1) iloczynu maksymalnej intensywności pomocy określonej w § 6 ust. 1 i 2 i wyższej kwoty kosztów: nowej inwestycji albo dwuletnich kosztów płacy nowo zatrudnionych pracowników;
-2) w przypadku dużych projektów inwestycyjnych kwoty obliczonej według wzoru, o którym mowa w § 6 ust. 3.
+2) w przypadku dużych projektów inwestycyjnych – kwoty obliczonej według wzoru, o którym mowa w § 6 ust. 3.
 2. Jeżeli koszty kwalifikujące się do objęcia pomocą, o których mowa w § 4 i 5, w całości lub w części kwalifikują się również do objęcia ich pomocą inną niż pomoc regionalna, wówczas do wspólnej części tych kosztów stosuje się najkorzystniejszą maksymalną intensywność pomocy.
 3. Wsparcie nowej inwestycji może być udzielone łącznie z inną pomocą na tę inwestycję, bez względu na jej źródło i formę, pod warunkiem że łącznie wielkość pomocy nie przekroczy dopuszczalnych wielkości pomocy, określonych w ust. 1.
 § 8. Wzór wniosku o wsparcie nowej inwestycji, o którym mowa w art. 8 ust. 7 ustawy, określa załącznik do rozporządzenia.
@@ -143,12 +143,12 @@ poz. 395, z późn. zm. ).
 § 11. 1. Minister właściwy do spraw gospodarki zawiadamia pisemnie Bank Gospodarstwa Krajowego o udzieleniu wsparcia, przekazując egzemplarz umowy, o której mowa w art. 8 ust. 9 ustawy, w terminie 14 dni od dnia jej podpisania.
 2. Bank Gospodarstwa Krajowego zawiadamia pisemnie naczelnika urzędu skarbowego właściwego do poboru podatku dochodowego podatnika o kwocie i dacie przelania środków z tytułu udzielonego wsparcia ze środków zgromadzonych na rachunku Funduszu Strefowego, o którym mowa w art. 7 ust. 1 ustawy, w dniu dokonania przelewu.
 3. Bank Gospodarstwa Krajowego przekazuje przyznane środki na wskazany przez podatnika lub przedsiębiorcę rachunek:
-1) jednorazowo, w terminie 14 dni od dnia otrzymania umowy w przypadku gdy zgromadzona na rachunku podatnika kwota jest równa lub wyższa od przyznanego wsparcia;
-2) w rocznych transzach, w terminie 14 dni od dnia wpływu środków na rachunek podatnika w przypadku gdy środki zgromadzone na rachunku podatnika w dniu otrzymania umowy są mniejsze od przyznanego wsparcia.
+1) jednorazowo, w terminie 14 dni od dnia otrzymania umowy – w przypadku gdy zgromadzona na rachunku podatnika kwota jest równa lub wyższa od przyznanego wsparcia;
+2) w rocznych transzach, w terminie 14 dni od dnia wpływu środków na rachunek podatnika – w przypadku gdy środki zgromadzone na rachunku podatnika w dniu otrzymania umowy są mniejsze od przyznanego wsparcia.
 § 12. Wnioski o wsparcie nowej inwestycji mogą być składane w terminie do dnia 31 października 2023 r.
 § 13. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WZÓR Rady Ministrów z dnia 21 marca 2006 r.
-WZÓR Wniosek o wsparcie nowej inwestycji Minister Gospodarki Formularz Data wpływu …… Plac Trzech Krzyży 3/5 Numer ewidencji …….
+Załącznik do rozporządzenia Rady Ministrów z dnia 21 marca 2006 r.
+WZÓR WZÓR Wniosek o wsparcie nowej inwestycji Minister Gospodarki Formularz Data wpływu …… Plac Trzech Krzyży 3/5 Numer ewidencji …….
 00-507 Warszawa I. Dane wnioskodawcy
 1. Nazwa wnioskodawcy (firma):
 2. Numer identyfikacji podatkowej NIP wnioskodawcy:
@@ -156,7 +156,7 @@ WZÓR Wniosek o wsparcie nowej inwestycji Minister Gospodarki Formularz Data wp�
 4. Kod Polskiej Klasyfikacji Działalności (PKD):
 5. Wnioskodawca jest przedsiębiorcą* : małym średnim innym niż mały i średni.
 6. Adres siedziby wnioskodawcy (w przypadku wnioskodawcy będącego osobą fizyczną adres zamieszkania wnioskodawcy): ulica: kod pocztowy: miejscowość: telefon: faks: e-mail: II. Podstawa prawna wnioskowania o wsparcie Wnioskodawca spełnia warunki określone w ustawie z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. poz. 1840, z późn.
-zm.): (właściwe podkreślić) w art. 8 ust. 3 pkt 1, w art. 8 ust. 3 pkt 2, w art. 8 ust. 3 pkt 3.
+zm.): (właściwe podkreślić) – w art. 8 ust. 3 pkt 1, – w art. 8 ust. 3 pkt 2, – w art. 8 ust. 3 pkt 3.
 Ze zmianą wprowadzoną przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.
 III. Dane przedsiębiorcy, którego część wpływów z tytułu podatku dochodowego gromadzona jest na rachunku Funduszu Strefowego
 1. Nazwa przedsiębiorcy (firma):
@@ -179,7 +179,7 @@ V. Opis projektu inwestycyjnego
 6. W przypadku korzystania z pomocy z tytułu kosztów inwestycji − wykaz kosztów kwalifikujących się do wsparcia, o których mowa w § 4 rozporządzenia Rady Ministrów z dnia 21 marca 2006 r. w sprawie udzielania wsparcia nowej inwestycji z Funduszu Strefowego, (z podaniem kosztu poszczególnych pozycji) wraz z harmonogramem ponoszenia kosztów:
 7. W przypadku korzystania z pomocy z tytułu kosztów płacy wynikających z tworzenia nowych miejsc pracy − wykaz kosztów płacy, o których mowa w § 5 rozporządzenia Rady Ministrów z dnia 21 marca 2006 r. w sprawie udzielania wsparcia nowej inwestycji z Funduszu Strefowego, wraz z harmonogramem ponoszenia kosztów:
 8. Liczba nowych miejsc pracy, harmonogram ich tworzenia oraz okres, przez jaki będą utrzymywane:
-9. W przypadku istniejącego przedsiębiorstwa średnioroczny poziom zatrudnienia z 12 miesięcy poprzedzających miesiąc złożenia wniosku, a jeżeli przedsiębiorstwo istnieje krócej średnie zatrudnienie z całego okresu:
+9. W przypadku istniejącego przedsiębiorstwa średnioroczny poziom zatrudnienia z 12 miesięcy poprzedzających miesiąc złożenia wniosku, a jeżeli przedsiębiorstwo istnieje krócej – średnie zatrudnienie z całego okresu:
 10. Wnioskowana wielkość wsparcia:
 11. Wielkość i forma wsparcia udzielonego na realizację inwestycji:
 12. Wielkość wsparcia na realizację inwestycji, o które przedsiębiorca ubiega się z innych źródeł:

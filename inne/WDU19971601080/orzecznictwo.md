@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej.*
 
 Łącznie: **120** orzeczeń
-(pominięto 119 orzeczeń sądów rejonowych)
+(pominięto 120 orzeczeń sądów rejonowych)
 
 ## art. 1 (16)
 

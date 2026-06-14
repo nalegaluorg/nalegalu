@@ -8,10 +8,10 @@ pos: 1247
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1247 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 28 czerwca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001247) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1247/text.pdf) |
 
-Poz. 1247 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 28 czerwca 2023 r.
-w sprawie obywatelstw, których posiadanie uprawnia do ubiegania się o wydanie polskiego dokumentu podróży dla cudzoziemca w warunkach określonych w art. 252a ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach Na podstawie art. 252a ust. 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie obywatelstw, których posiadanie uprawnia do ubiegania się o wydanie polskiego dokumentu podróży dla cudzoziemca w warunkach określonych w art. 252a ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach Na podstawie art. 252a ust. 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) obywatelstwa, których posiadanie uprawnia cudzoziemca do ubiegania się o wydanie polskiego dokumentu podróży dla cudzoziemca w warunkach określonych w art. 252a ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, zwanej dalej „ustawą”;
 2) okres, w którym cudzoziemcy mogą składać wnioski o wydanie polskiego dokumentu podróży dla cudzoziemca w przypadku, o którym mowa w art. 252a ust. 1 ustawy.
 § 2. Obywatelstwem, którego posiadanie uprawnia cudzoziemca do ubiegania się o wydanie polskiego dokumentu podróży dla cudzoziemca w warunkach określonych w art. 252a ust. 1 ustawy, jest obywatelstwo Republiki Białorusi.

@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.*
 
-Łącznie: **434** orzeczeń
-(pominięto 924 orzeczeń sądów rejonowych)
+Łącznie: **439** orzeczeń
+(pominięto 953 orzeczeń sądów rejonowych)
 
 ## art. 1 (15)
 
@@ -23,7 +23,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.*
 - 2021-07-23 | SO | [I ACa 55/21](https://www.saos.org.pl/judgments/468235) | Uzasadnienie
 - 2023-04-26 | SO | [I C 1510/21](https://www.saos.org.pl/judgments/496033) | Wyrok
 
-## art. 2 (98)
+## art. 2 (99)
 
 - 2009-01-29 | SN | [I KZP 28/08](https://www.saos.org.pl/judgments/89539) | Postanowienie
 - 2025-12-15 | SO | [I ACa 1959/22](https://www.saos.org.pl/judgments/541494) | Wyrok
@@ -35,6 +35,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.*
 - 2024-04-22 | SO | [I ACa 31/23](https://www.saos.org.pl/judgments/533368) | Wyrok
 - 2024-04-17 | SO | [I ACa 1414/23](https://www.saos.org.pl/judgments/531478) | Wyrok
 - 2024-03-13 | SO | [I ACa 1389/21](https://www.saos.org.pl/judgments/493584) | Wyrok
+- 2024-01-31 | SO | [I ACa 1705/22](https://www.saos.org.pl/judgments/545721) | Wyrok
 - 2024-01-31 | SO | [I ACa 1318/22](https://www.saos.org.pl/judgments/518170) | Wyrok
 - 2023-12-14 | SO | [I ACa 1534/22](https://www.saos.org.pl/judgments/544338) | Wyrok
 - 2023-09-18 | SO | [I ACa 839/22](https://www.saos.org.pl/judgments/494640) | Wyrok
@@ -276,14 +277,16 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.*
 - 2022-03-07 | SO | [I ACa 181/21](https://www.saos.org.pl/judgments/529321) | Wyrok
 - 2020-07-14 | SO | [VI ACa 501/19](https://www.saos.org.pl/judgments/429024) | Wyrok
 
-## art. 8 (6)
+## art. 8 (8)
 
+- 2025-11-28 | SO | [I ACa 433/24](https://www.saos.org.pl/judgments/545920) | Wyrok
 - 2025-03-19 | SO | [I ACa 1359/22](https://www.saos.org.pl/judgments/538033) | Wyrok
 - 2024-08-28 | SO | [I ACa 1194/23](https://www.saos.org.pl/judgments/527975) | Wyrok
 - 2023-12-21 | SO | [V ACa 1184/23](https://www.saos.org.pl/judgments/516871) | Wyrok
 - 2023-03-07 | SO | [I ACa 284/22](https://www.saos.org.pl/judgments/486964) | Wyrok
 - 2022-11-30 | SO | [I ACa 490/22](https://www.saos.org.pl/judgments/494244) | Wyrok
 - 2022-05-23 | SO | [V ACa 114/22](https://www.saos.org.pl/judgments/469193) | Wyrok
+- 2025-04-03 | SO | [II Ca 295/24](https://www.saos.org.pl/judgments/545032) | Wyrok
 
 ## art. 9 (56)
 
@@ -368,8 +371,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.*
 
 - 2010-06-08 | SO | [II AKa 108/10](https://www.saos.org.pl/judgments/71442) | Wyrok
 
-## art. 18 (3)
+## art. 18 (4)
 
+- 2026-03-16 | SO | [I ACa 336/26](https://www.saos.org.pl/judgments/545919) | Wyrok
 - 2017-03-17 | SO | [II AKa 13/17](https://www.saos.org.pl/judgments/279686) | Wyrok
 - 2016-03-15 | SO | [V ACa 173/15](https://www.saos.org.pl/judgments/254750) | Wyrok
 - 2016-10-27 | SO | [V K 187/13](https://www.saos.org.pl/judgments/304069) | Wyrok
@@ -429,8 +433,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.*
 
 - 2013-07-04 | SO | [I ACa 572/13](https://www.saos.org.pl/judgments/40064) | Wyrok
 
-## (ogólnie) (204)
+## (ogólnie) (205)
 
+- 2026-03-11 | SO | [I ACa 1599/24](https://www.saos.org.pl/judgments/545241) | Wyrok
 - 2025-12-18 | SO | [I ACa 1990/23](https://www.saos.org.pl/judgments/543142) | Wyrok
 - 2025-12-18 | SO | [I ACa 1790/24](https://www.saos.org.pl/judgments/538866) | Wyrok
 - 2025-11-03 | SO | [I ACa 2075/24](https://www.saos.org.pl/judgments/539886) | Wyrok

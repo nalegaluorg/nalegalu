@@ -8,7 +8,7 @@ pos: 1000
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 76/7/A/2014 WYROK z dnia 22 lipca 2014 r.

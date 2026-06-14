@@ -8,10 +8,10 @@ pos: 1701
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 września 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1701 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 7 września 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001701) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1701/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 7 września 2021 r.
-w sprawie szczegółowego trybu mianowania funkcjonariuszy na stopnie Straży Granicznej Na podstawie art. 62 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie szczegółowego trybu mianowania funkcjonariuszy na stopnie Straży Granicznej Na podstawie art. 62 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowy tryb mianowania funkcjonariuszy na stopnie Straży Granicznej;
 2) podmioty właściwe do składania wniosków o mianowanie;
 3) terminy dokonywania mianowań;
@@ -37,13 +37,13 @@ o Straży Granicznej, zwanej dalej „ustawą”;
 § 2. 1. Mianowanie funkcjonariusza Straży Granicznej, zwanego dalej „funkcjonariuszem”, na stopień Straży Granicznej, zwany dalej „stopniem”, następuje na wniosek albo z urzędu.
 2. Wzór wniosku o mianowanie na stopień jest określony w załączniku nr 1 do rozporządzenia.
 § 3. Wniosek o mianowanie na stopień starszego szeregowego (starszego marynarza), na stopień w korpusie podoficerów oraz chorążych składają do:
-1) Komendanta Głównego Straży Granicznej kierownik komórki organizacyjnej Komendy Głównej Straży Granicznej;
-2) Komendanta Biura Spraw Wewnętrznych Straży Granicznej kierownik komórki organizacyjnej Biura Spraw Wewnętrznych Straży Granicznej;
+1) Komendanta Głównego Straży Granicznej – kierownik komórki organizacyjnej Komendy Głównej Straży Granicznej;
+2) Komendanta Biura Spraw Wewnętrznych Straży Granicznej – kierownik komórki organizacyjnej Biura Spraw Wewnętrznych Straży Granicznej;
 3) komendanta oddziału Straży Granicznej:
 a) kierownik komórki organizacyjnej komendy oddziału Straży Granicznej,
 b) komendant placówki albo dywizjonu Straży Granicznej;
-4) komendanta ośrodka szkolenia Straży Granicznej kierownik komórki organizacyjnej ośrodka szkolenia Straży Granicznej;
-5) komendanta ośrodka Straży Granicznej kierownik komórki organizacyjnej ośrodka Straży Granicznej.
+4) komendanta ośrodka szkolenia Straży Granicznej – kierownik komórki organizacyjnej ośrodka szkolenia Straży Granicznej;
+5) komendanta ośrodka Straży Granicznej – kierownik komórki organizacyjnej ośrodka Straży Granicznej.
 § 4. 1. Wniosek o mianowanie na stopnie w korpusie oficerów, o których mowa w art. 51 pkt 4 lit. b –f ustawy, składają do Komendanta Głównego Straży Granicznej:
 1) Komendant Biura Spraw Wewnętrznych Straży Granicznej;
 2) komendant oddziału Straży Granicznej;
@@ -53,19 +53,19 @@ b) komendant placówki albo dywizjonu Straży Granicznej;
 2. Wniosek o mianowanie:
 1) na pierwszy stopień oficerski Straży Granicznej,
 2) Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej oraz zastępców Komendanta Głównego Straży Granicznej na stopień generała brygady Straży Granicznej (kontradmirała Straży Granicznej) oraz generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej),
-3) komendanta oddziału Straży Granicznej na stopień generała brygady Straży Granicznej (kontradmirała Straży Granicznej) składa minister właściwy do spraw wewnętrznych.
+3) komendanta oddziału Straży Granicznej na stopień generała brygady Straży Granicznej (kontradmirała Straży Granicznej) – składa minister właściwy do spraw wewnętrznych.
 3. Wniosek o mianowanie zastępców Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej oraz jego zastępców na stopnie w korpusie oficerów, o których mowa w art. 51 pkt 4 lit. b –f ustawy, składa Komendant Główny Straży Granicznej.
 4. W przypadku wystąpienia przez właściwych przełożonych, o których mowa w ust. 1, o dokonanie weryfikacji, o której mowa w art. 55a ustawy, do wniosku o mianowanie na stopień w korpusie oficerów dołącza się informację o weryfikacji.
 § 5. 1. Wnioski, o których mowa w § 3 i § 4 ust. 1, dotyczące funkcjonariusza:
-1) pełniącego służbę poza granicami państwa w składzie kontyngentu Straży Granicznej może również złożyć dowódca kontyngentu Straży Granicznej;
+1) pełniącego służbę poza granicami państwa w składzie kontyngentu Straży Granicznej – może również złożyć dowódca kontyngentu Straży Granicznej;
 2) oddelegowanego do wykonywania zadań poza Strażą Graniczną:
-a) do pracy w celu wykonywania zadań określonych w ustawie, w szczególności związanych z zapewnieniem bezpieczeństwa i porządku publicznego lub wykonywaniem czynności w sprawach cudzoziemców może również złożyć kierownik urzędu państwowego albo dyrektor generalny urzędu, do którego oddelegowano funkcjonariusza,
-b) w Biurze Nadzoru Wewnętrznego może również złożyć Inspektor Nadzoru Wewnętrznego.
+a) do pracy w celu wykonywania zadań określonych w ustawie, w szczególności związanych z zapewnieniem bezpieczeństwa i porządku publicznego lub wykonywaniem czynności w sprawach cudzoziemców – może również złożyć kierownik urzędu państwowego albo dyrektor generalny urzędu, do którego oddelegowano funkcjonariusza,
+b) w Biurze Nadzoru Wewnętrznego – może również złożyć Inspektor Nadzoru Wewnętrznego.
 2. Wniosek o mianowanie na stopień w korpusie oficerów dowódca kontyngentu, kierownik urzędu państwowego lub dyrektor generalny urzędu składają za zgodą przełożonego właściwego w sprawach osobowych funkcjonariusza, którego ten wniosek dotyczy.
 3. Wymogu uzyskania zgody, o której mowa w ust. 2, nie stosuje się, jeżeli przełożonym właściwym w sprawach osobowych funkcjonariusza jest Komendant Główny Straży Granicznej.
 § 6. 1. Wniosek o mianowanie osoby przyjmowanej do służby w Straży Granicznej i posiadającej stopień policyjny, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno -Skarbowej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Więziennej lub stopień wojskowy na równorzędny stopień obowiązujący w Straży Granicznej, zwane dalej „mianowaniem na stopień równorzędny obowiązujący w Straży Granicznej”, w przypadku mianowania na stopień w korpusie:
-1) oficerów składa do Komendanta Głównego Straży Granicznej właściwy przełożony, o którym mowa w § 4 ust. 1, a w przypadku funkcjonariuszy pełniących służbę na stanowiskach wymienionych w § 4 ust. 1 kierownik komórki organizacyjnej właściwej w sprawach osobowych w Komendzie Głównej Straży Granicznej;
-2) chorążych i w korpusie podoficerów oraz na stopień starszego szeregowego składa do właściwego przełożonego, o którym mowa w art. 36 ust. 1 ustawy, kierownik komórki organizacyjnej właściwej w sprawach osobowych podległej temu przełożonemu, a w przypadku braku takiej komórki organizacyjnej osoba odpowiedzialna za prowadzenie
+1) oficerów – składa do Komendanta Głównego Straży Granicznej właściwy przełożony, o którym mowa w § 4 ust. 1, a w przypadku funkcjonariuszy pełniących służbę na stanowiskach wymienionych w § 4 ust. 1 – kierownik komórki organizacyjnej właściwej w sprawach osobowych w Komendzie Głównej Straży Granicznej;
+2) chorążych i w korpusie podoficerów oraz na stopień starszego szeregowego – składa do właściwego przełożonego, o którym mowa w art. 36 ust. 1 ustawy, kierownik komórki organizacyjnej właściwej w sprawach osobowych podległej temu przełożonemu, a w przypadku braku takiej komórki organizacyjnej – osoba odpowiedzialna za prowadzenie spraw kadrowych.
 2. Przełożony uprawniony do mianowania na stopień równorzędny obowiązujący w Straży Granicznej może, z urzędu albo na wniosek osoby właściwej do występowania z wnioskiem o mianowanie na stopień równorzędny obowiązujący w Straży Granicznej, uzależnić mianowanie od odbycia przez osobę przyjmowaną do służby i posiadającą stopień policyjny, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno -Skarbowej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Więziennej lub stopień wojskowy przeszkolenia wymaganego w Straży Granicznej do mianowania na określony stopień.
 § 7. Wykaz kwalifikacji i umiejętności szczególnie przydatnych do pełnienia służby w Straży Granicznej uzasadniających możliwość mianowania na stopień równorzędny obowiązujący w Straży Granicznej osoby przyjmowanej do służby i posiadającej stopień wojskowy jest określony w załączniku nr 2 do rozporządzenia.
 § 8. 1. Osoba przyjmowana do służby w Straży Granicznej i posiadająca stopień wojskowy spełnia warunki w zakresie posiadania kwalifikacji i umiejętności umożliwiających mianowanie na stopień równorzędny obowiązujący w Straży Granicznej w korpusie oficerów albo chorążych, jeżeli posiada:
@@ -101,19 +101,20 @@ c) pozostałe stopnie, jeżeli funkcjonariusz pełni służbę w Komendzie Głó
 5. Funkcjonariuszowi, który nie mógł przybyć na uroczystość wręczenia aktu mianowania, w szczególności z powodu długotrwałej choroby, akt mianowania można wręczyć w miejscu jego pobytu.
 6. W przypadku gdy funkcjonariusz mianowany na stopień zmarł przed otrzymaniem aktu mianowania na ten stopień albo gdy mianowanie na stopień następuje pośmiertnie, akt mianowania na stopień wręcza się małżonkowi zmarłego funkcjonariusza, jego dziecku lub rodzicowi.
 § 12. 1. W przypadku ujawnienia faktu podważającego zasadność mianowania funkcjonariusza na stopień przełożony, który wystąpił z wnioskiem o mianowanie funkcjonariusza na stopień, niezwłocznie pisemnie zawiadamia o tym fakcie właściwego przełożonego uprawnionego do mianowania na wnioskowany stopień.
+2. Zawiadomienie jest równoznaczne z wycofaniem wniosku o mianowanie na stopień.
 § 13. 1. Ogłoszenie o utracie stopnia następuje w formie rozkazu personalnego.
 2. Informacje o utracie stopnia przez funkcjonariusza można ogłosić wszystkim lub niektórym funkcjonariuszom, jeżeli jest to uzasadnione okolicznościami, które były przyczyną utraty danego stopnia.
 § 14. Wnioski o mianowanie funkcjonariusza na stopień sporządzone przed dniem wejścia w życie niniejszego rozporządzenia pozostają w mocy.
 § 15. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński WZÓR ...............................................................
+Minister Spraw Wewnętrznych i Administracji: M. Kamiński WZÓR WZÓR ...............................................................
 WNIOSEK O MIANOWANIE NA STOPIEŃ STRAŻY GRANICZNEJ Na podstawie art. …… ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486) wnoszę o mianowanie: NA STOPIEŃ: . ………………….…..……… w korpusie osobowym ……………………………… UZASADNIENIE ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… …………………….. …...............................................................
-WZÓR PRZEBIEG SŁUŻBY* Czas służby Nazwa jednostki Nazwa stanowiska służbowego od do ................................................................
+PRZEBIEG SŁUŻBY* Czas służby Nazwa jednostki Nazwa stanowiska służbowego od do ................................................................
 OPINIA WYŻSZYCH PRZEŁOŻONYCH ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… ………………………………………………………………………………..……………..…………… WYKAZ KWALIFIKACJI I UMIEJĘTNOŚCI SZCZEGÓLNIE PRZYDATNYCH DO PEŁNIENIA SŁUŻBY W STRAŻY GRANICZNEJ UZASADNIAJĄCYCH MOŻLIWOŚĆ MIANOWANIA NA STOPIEŃ RÓWNORZĘDNY OBOWIĄZUJĄCY W STRAŻY GRANICZNEJ OSOBY PRZYJMOWANEJ DO SŁUŻBY I POSIADAJĄCEJ STOPIEŃ WOJSKOWY I. Kwalifikacje o charakterze ogólnym uzasadniające możliwość mianowania osoby posiadającej stopień wojskowy na równorzędny stopień obowiązujący w korpusie:
 1) oficerów Straży Granicznej:
-a) ukończenie uczelni wojskowej i posiadanie tytułu zawodowego magistra (równorzędnego, w tym tytułu oficera dyplomowanego) albo
-b) p osiadanie tytułu zawodowego magistra (równorzędnego) oraz odbycie szkolenia wojskowego i zdanie egzaminu na oficera, albo
+a) u kończenie uczelni wojskowej i posiadanie tytułu zawodowego magistra (równorzędnego, w tym tytułu oficera dyplomowanego) albo
+b) posiadanie tytułu zawodowego magistra (równorzędnego) oraz odbycie szkolenia wojskowego i zdanie egzaminu na oficera, albo
 c) posiadanie tytułu zawodowego magistra (równorzędnego) i ukończenie uczelni niebędącej uczelnią wojskową, jeżeli studia lub nauka w tej szkole zostały odbyte na podstawie skierowania przez właściwy organ wojskowy, albo
-d) p osiadanie tytułu zawodowego magistra (równorzędnego) i zdanie egzaminu na oficera, przeprowadzonego w trybie zakwalifikowania chorążego zawodowego lub podoficera zawodowego do egzaminu na oficera;
+d) posiadanie tytułu zawodowego magistra (równorzędnego) i zdanie egzaminu na oficera, przeprowadzonego w trybie zakwalifikowania chorążego zawodowego lub podoficera zawodowego do egzaminu na oficera;
 2) chorążych Straży Granicznej:
 a) ukończenie kursu specjalistycznego dla młodszych chorążych (młodszych chorążych marynarki) albo
 b) ukończenie szkoły chorążych kształcącej kandydatów na chorążych zawodowych, albo
@@ -122,7 +123,7 @@ II. Kwalifikacje i umiejętności o charakterze specjalistycznym uzasadniające 
 1) doświadczenie w wykonywaniu czynności:
 a) analityczno-informacyjnych lub
 b) operacyjno-rozpoznawczych, lub
-c) dochodzeniowo-śledczych nabyte podczas co najmniej 3-letniej zawodowej służby wojskowej w Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Żandarmerii Wojskowej lub w wojskowych jednostkach organizacyjnych prokuratury;
+c) dochodzeniowo-śledczych – nabyte podczas co najmniej 3-letniej zawodowej służby wojskowej w Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Żandarmerii Wojskowej lub w wojskowych jednostkach organizacyjnych prokuratury;
 2) ukończenie szkoleń specjalistycznych lub posiadanie tytułu zawodowego magistra (równorzędnego) o specjalności pozwalającej na samodzielne wykonywanie czynności w zakresie kontroli:
 a) chemicznej lub
 b) radiometrycznej, lub
@@ -155,4 +156,18 @@ b) urządzeń łączności, optoelektronicznych lub utajniających;
 26) doświadczenie zawodowe w kierowaniu i zarządzaniu jednostkami wojskowymi na stanowisku służbowym co najmniej dowódcy pułku (równorzędnym);
 27) wykształcenie wyższe o kierunku studiów w zakresie bezpieczeństwa narodowego lub ukończenie studiów podyplomowych w zakresie obronności państwa lub zarządzania kryzysowego.
 III. Kwalifikacje i umiejętności o charakterze specjalistycznym, których wykorzystanie w co najmniej 4-letniej praktyce zawodowej uzasadnia możliwość mianowania osoby posiadającej stopień wojskowy na równorzędny stopień obowiązujący w Straży Granicznej w korpusie oficerów i chorążych, stanowią kwalifikacje wymienione w części II pkt 2–25 i 27.
+WZÓR RZECZPOSPOLITA POLSKA AKT MIANOWANIA NA STOPIEŃ STRAŻY GRANICZNEJ Na podstawie art. ................ ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486) PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ postanowieniem nr ...................................... z dnia ....................................... r.
+MIANOWAŁ: ........................................................................................................................................
+NA STOPIEŃ: ........................................................................................................................................
+z dniem .................................................. r.
+mp. ........................................................................
+........................................................................... r.
+WZÓR RZECZPOSPOLITA POLSKA AKT MIANOWANIA NA STOPIEŃ STRAŻY GRANICZNEJ Na podstawie art. ................ ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2021 r. poz. 1486) ..........................................................................................................................................
+........................................................................................................................................* rozkazem personalnym nr ...................................... z dnia ....................................... r.
+MIANOWAŁ: ........................................................................................................................................
+NA STOPIEŃ: ........................................................................................................................................
+z dniem .................................................. r.
+mp. ..........................................................................
+........................................................................... r.
+∗
 

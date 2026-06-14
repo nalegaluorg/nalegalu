@@ -8,10 +8,10 @@ pos: 1277
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 września 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1277 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 23 września 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001277) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1277/text.pdf) |
 
-Poz. 1277 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 23 września 2014 r.
-w sprawie ustalenia szczegółowego zakresu działania Ministra – Członka Rady Ministrów Jacka Cichockiego Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje: § 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
+w sprawie ustalenia szczegółowego zakresu działania Ministra – Członka Rady Ministrów Jacka Cichockiego Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:
+§ 1. Minister – Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
 § 2. Do zakresu działania ministra należy w szczególności:
 1) koordynowanie opracowywania i realizacji wykazu prac legislacyjnych Rady Ministrów dotyczącego projektów założeń projektów ustaw, projektów ustaw oraz projektów rozporządzeń Rady Ministrów, opracowanych w trybie przepisów o działalności lobbingowej w procesie stanowienia prawa, oraz wykazu prac Rady Ministrów dotyczącego innych projektów dokumentów rządowych;
 2) kontrola terminowej realizacji zadań wynikających z wykazów, o których mowa w pkt 1;
@@ -43,4 +43,5 @@ w sprawie ustalenia szczegółowego zakresu działania Ministra – Członka Rad
 1) powoływać zespoły do opracowywania określonych zagadnień;
 2) zlecać sporządzanie ekspertyz oraz innych opracowań.
 § 6. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+Prezes Rady Ministrów: E. Kopacz
 

@@ -8,7 +8,7 @@ pos: 661
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego
@@ -145,9 +145,25 @@ source: "isap-pdf"
 
 **Art. 3⁸.** Minister Finansów może odstąpić od emisji obligacji, o których mowa w art. 3 ust. 1 pkt 2, jeżeli taka emisja byłaby niecelowa ze względu na zbyt niską łączną wartość zobowiązań Skarbu Państwa zgłoszonych w którymkolwiek z terminów określonych w art. 3 ust. 2 oraz zobowiązań regulowanych na zasadach określonych w art. 3 ust. 2 oraz art. 3 ust. 3 zdanie drugie i ust. 5 zdanie drugie. W takim przypadku uregulowanie powyższych zobowiązań nastąpi w formie gotówkowej, także przez złożenie przedmiotu świadczenia do depozytu sądowego w okolicznościach określonych w art. 3 , w terminie odpowiednio:
 
+- **1)** do dnia 31 grudnia 1999 r. dla zgłoszeń, o których mowa w art. 3 ust. 2 pkt 1,
+- **2)** do dnia 31 grudnia 2000 r. dla zgłoszeń, o których mowa w art. 3 ust. 2 pkt 2,
+- **3)** do dnia 31 grudnia 2001 r. dla zgłoszeń, o których mowa w art. 3 ust. 2 pkt 3.
+
 **Art. 3⁹.** Wojewoda składa należną na podstawie przepisów niniejszej ustawy kwotę gotówki do depozytu sądowego, jeżeli:
 
+- **1)** uprawniony podmiot odmawia jej przyjęcia albo wypłata należności natrafia na trudne do przezwyciężenia przeszkody,
+- **2)** należność dotyczy podmiotu, który przestał istnieć po ustaleniu zobowiązania.
+
 **Art. 3¹⁰.** Rada Ministrów określi w drodze rozporządzenia:
+
+- **1)** szczegółowe zasady i tryb regulowania zobowiązań Skarbu Państwa w formach określonych w art. 3 ust. 1, w tym:
+    - **a)** dane dotyczące treści zgłoszenia wyboru formy kompensaty oraz formy i treści ofert, o których mowa w art. 3 ust. 1; rozporządzenie powinno wymieniać takie rodzaje danych podlegających przedstawieniu w ofertach, które pozwolą uprawnionym na właściwe ustosunkowanie się do tych ofert oraz rodzaje danych, jakie powinno zawierać zgłoszenie wyboru formy kompensaty, aby mogło dojść do realizacji zobowiązania Skarbu Państwa,
+    - **b)** tryb ustalania składników majątkowych, o których mowa w art. 3 ust. 1 pkt 1; rozporządzenie powinno określać sposób ich ustalania oraz gromadzenia i udostępniania danych dotyczących tych składników tak, aby zapewnić uprawnionym zapoznanie się z rzeczywistymi możliwościami kompensowania zobowiązań Skarbu Państwa w tej formie,
+    - **c)** zasady przekazywania przez wojewodów Ministrowi Finansów informacji o zobowiązaniach Skarbu Państwa, w tym przeznaczonych do skompensowania w formie obligacji; rozporządzenie powinno określać terminy przekazywania informacji o zobowiązaniach Skarbu Państwa oraz formę i zakres takich informacji tak, aby umożliwić Ministrowi Finansów sprawdzenie zgodności tych informacji z treścią orzeczeń Społecznej Komisji Rewizyjnej, mających być źródłem zobowiązań Skarbu Państwa oraz weryfikację prawidłowości naliczania odsetek ustawowych, a także ocenę aktualnego stanu realizacji zobowiązań Skarbu Państwa i zaplanowanie środków budżetowych na pokrycie zobowiązań pozostałych do uregulowania,
+    - **d)** szczegółowe zasady realizacji obowiązku wskazania rachunku papierów wartościowych, na który mają być przekazane obligacje; rozporządzenie powinno określać terminy i tryb ustalania przez wojewodów rachunków papierów wartościowych, na które miałyby być przekazane obligacje, w sposób zapewniający uregulowanie zobowiązań Skarbu Państwa w tej formie w terminach przewidzianych w art.3 ust. 3,
+
+- **2)** zasady regulowania zobowiązań Skarbu Państwa w formie gotówkowej, a w szczególności obowiązki wojewodów w zakresie ustalania rachunku bankowego, na który ma być przekazana równowartość zobowiązania wraz z odsetkami ustawowymi,
+- **3)** szczegółowe zasady prowadzenia ewidencji zobowiązań Skarbu Państwa, o których mowa w art. 3 ust. 4 i 5, obowiązki sprawozdawcze związane z tą ewidencją, a w szczególności dane podlegające wpisowi do ewidencji, w tym dotyczące powstania, wysokości i sposobu uregulowania zobowiązania Skarbu Państwa, tak, aby mogły one stanowić podstawę do sporządzania przez wojewodów informacji dla Ministra Finansów, o których mowa w pkt 1 lit. c, oraz corocznych ogólnych informacji dla Przewodniczącego Społecznej Komisji Rewindykacyjnej o stanie i formach realizacji zobowiązań Skarbu Państwa.
 
 **Art. 3¹¹.**
 

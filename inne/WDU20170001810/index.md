@@ -8,10 +8,10 @@ pos: 1810
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 29 września Poz. 1810 ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ 28 września sprawie sprawozdań rzeczowo-finansowych realizacji zadań zakresu zasiłków dla opiekunów Na podstawie art. 9b 4 kwietnia 2014 o ustaleniu i wypłacie zasiłków dla opiekunów 2016 162 i 972 oraz 1428) zarządza się, co następuje: § 1. Rozporządzenie określa sposób sporządzania sprawozdań rzeczowo-finansowych realizacji zadań określonych ustawie 4 kwietnia 2014 o ustaleniu i wypłacie zasiłków dla opiekunów oraz terminy i sposób przekazywania tych sprawozdań.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1810 ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 28 września 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001810) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1810/text.pdf) |
 
-§ 2. 1. Organ właściwy sporządza, wykorzystaniem systemów teleinformatycznych, o których mowa art. 23 ust. 6 28 listopada 2003 o świadczeniach rodzinnych 2016 1518, późn. zm. ), zwanej dalej „ustawą o świadczeniach rodzinnych”, kwartalne sprawozdanie rzeczowo-finansowe wykonywania zadań zakresu zasiłków dla opiekunów i przekazuje to sprawozdanie właściwemu miejscowo wojewodzie, za pomocą tych systemów, terminie do 15. miesiąca następującego po upływie każdego kwartału.
-2. Wojewoda sporządza, wykorzystaniem systemów teleinformatycznych, o których mowa art. 23 ust. 6 o świadczeniach rodzinnych, kwartalne sprawozdanie rzeczowo-finansowe zawierające dane realizacji przez tego wojewodę danym kwartale zadań zakresu zasiłków dla opiekunów.
-3. Wojewoda, terminie do 5. drugiego miesiąca następującego po upływie każdego kwartału, przekazuje ministrowi właściwemu do spraw rodziny drogą elektroniczną, za pomocą systemów, o których mowa art. 23 ust. 6 o świadczeniach rodzinnych, kwartalne zbiorcze sprawozdanie rzeczowo-finansowe zawierające:
-1) dane ze sprawozdań, o których mowa ust. 1;
-2) dane realizacji przez tego wojewodę danym kwartale zadań zakresu zasiłków dla opiekunów.
-§ 3. Minister właściwy do spraw rodziny, szczególnie uzasadnionych przypadkach, może wystąpić do organów właściwych o sporządzenie i przekazanie, za pośrednictwem wojewodów, lub do wojewodów o sporządzenie i przekazanie sprawozdań wykonywania zadań zakresu zasiłków dla opiekunów, innych terminach i za inne okresy niż określone § 2.
-§ 4. Do sprawozdań rzeczowo-finansowych realizacji zadań zakresu zasiłków dla opiekunów przez organ właściwy za III kwartał stosuje się przepisy niniejszego rozporządzenia.
-Dziennik Ustaw – 2 – Poz. 1810 § 5. Rozporządzenie wchodzi życie dniem 1 października r., wyjątkiem § 2 ust. 2 i ust. 3 pkt 2 oraz § 3, które wchodzą życie dniem 1 stycznia 2018 Minister i Polityki Społecznej: E. Rafalska
+w sprawie sprawozdań rzeczowo-finansowych z realizacji zadań z zakresu zasiłków dla opiekunów Na podstawie art. 9b ustawy z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U.
+z 2016 r. poz. 162 i 972 oraz z 2017 r. poz. 1428) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób sporządzania sprawozdań rzeczowo-finansowych z realizacji zadań określonych w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów oraz terminy i sposób przekazywania tych sprawozdań.
+§ 2. 1. Organ właściwy sporządza, z wykorzystaniem systemów teleinformatycznych, o których mowa w art. 23 ust. 6 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518, z późn. zm. ), zwanej dalej „ustawą o świadczeniach rodzinnych”, kwartalne sprawozdanie rzeczowo-finansowe z wykonywania zadań z zakresu zasiłków dla opiekunów i przekazuje to sprawozdanie właściwemu miejscowo wojewodzie, za pomocą tych systemów, w terminie do 15. dnia miesiąca następującego po upływie każdego kwartału.
+2. Wojewoda sporządza, z wykorzystaniem systemów teleinformatycznych, o których mowa w art. 23 ust. 6 ustawy o świadczeniach rodzinnych, kwartalne sprawozdanie rzeczowo-finansowe zawierające dane z realizacji przez tego wojewodę w danym kwartale zadań z zakresu zasiłków dla opiekunów.
+3. Wojewoda, w terminie do 5. dnia drugiego miesiąca następującego po upływie każdego kwartału, przekazuje ministrowi właściwemu do spraw rodziny drogą elektroniczną, za pomocą systemów, o których mowa w art. 23 ust. 6 ustawy o świadczeniach rodzinnych, kwartalne zbiorcze sprawozdanie rzeczowo-finansowe zawierające:
+1) dane ze sprawozdań, o których mowa w ust. 1;
+2) dane z realizacji przez tego wojewodę w danym kwartale zadań z zakresu zasiłków dla opiekunów.
+§ 3. Minister właściwy do spraw rodziny, w szczególnie uzasadnionych przypadkach, może wystąpić do organów właściwych o sporządzenie i przekazanie, za pośrednictwem wojewodów, lub do wojewodów o sporządzenie i przekazanie sprawozdań z wykonywania zadań z zakresu zasiłków dla opiekunów, w innych terminach i za inne okresy niż określone w § 2.
+§ 4. Do sprawozdań rzeczowo-finansowych z realizacji zadań z zakresu zasiłków dla opiekunów przez organ właściwy za III kwartał 2017 r. stosuje się przepisy niniejszego rozporządzenia.
+§ 5. Rozporządzenie wchodzi w życie z dniem 1 października 2017 r., z wyjątkiem § 2 ust. 2 i ust. 3 pkt 2 oraz § 3, które wchodzą w życie z dniem 1 stycznia 2018 r.
+Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska
 

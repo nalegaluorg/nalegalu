@@ -8,10 +8,10 @@ pos: 223
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 lutego 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 223 RozpoRządzenie MinistRa GospodaRki MoRskiej i ŻeGluGi ŚRódlądowej z dnia 5 stycznia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000223) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/223/text.pdf) |
 
-RozpoRządzenie MinistRa GospodaRki MoRskiej i ŻeGluGi ŚRódlądowej z dnia 5 stycznia 2017 r.
-w sprawie szczegółowych warunków prowadzenia szkoleń i przeszkoleń oraz szczegółowych warunków przeprowadzania egzaminów praktycznych w morskich jednostkach edukacyjnych Na podstawie art. 74 ust. 7 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281 i 1948 oraz z 2017 r. poz. 32 i 60) zarządza się, co następuje: § 1. Szczegółowe warunki prowadzenia szkoleń i przeszkoleń w morskich jednostkach edukacyjnych określa załącznik nr 1 do rozporządzenia.
+w sprawie szczegółowych warunków prowadzenia szkoleń i przeszkoleń oraz szczegółowych warunków przeprowadzania egzaminów praktycznych w morskich jednostkach edukacyjnych Na podstawie art. 74 ust. 7 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281 i 1948 oraz z 2017 r. poz. 32 i 60) zarządza się, co następuje:
+§ 1. Szczegółowe warunki prowadzenia szkoleń i przeszkoleń w morskich jednostkach edukacyjnych określa załącznik nr 1 do rozporządzenia.
 § 2. Szczegółowe warunki przeprowadzania egzaminów praktycznych w morskich jednostkach edukacyjnych określa załącznik nr 2 do rozporządzenia.
 § 3. Objaśnienia skrótów stosowanych w załącznikach, o których mowa w § 1 i 2, określa załącznik nr 3 do rozporządzenia.
 § 4. Warunki prowadzenia szkoleń i przeszkoleń rozpoczętych przed dniem wejścia w życie niniejszego rozporządzenia określają przepisy rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 maja 2014 r. w sprawie audytów morskich jednostek edukacyjnych (Dz. U. poz. 698).
@@ -44,8 +44,8 @@ Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk SZcZeGó�
 7) morskie jednostki edukacyjne, mając na uwadze realizację całego zakresu szkolenia, w tym obowiązkowy udział uczestników szkolenia w zajęciach z przedmiotów objętych konwencją StcW, w przypadku nieobecności uczestników szkolenia zapewnią możliwość odrobienia zajęć w formie umożliwiającej uzyskanie brakującej wiedzy i umiejętności;
 8) sale wykładowe, w których prowadzone są zajęcia teoretyczne, wyposażone są w sprzęt umożliwiający właściwe przekazanie treści zajęć, w szczególności: projektor multimedialny, tablicę multimedialną, stanowisko do e-learningu, dostęp do sieci internetowej w celu pozyskiwania danych on-line.
 ii. Minimalne wymagania kwalifikacyjne dotyczące kadry dydaktycznej niezbędne do realizacji:
-1) szkoleń kwalifikacyjnych lp. Zakres szkolenia Forma zajęć Wymagania dla kadry dydaktycznej 1 Na poziomie pomocni- Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odpoczym wiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć lub dyplom na poziomie operacyjnym laboratoria Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć lub dyplom na poziomie operacyjnym Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 2 Na poziomie operacyj- Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odponym w żegludze mię- wiadającym tematyce prowadzonych zajęć, lub dyplom ukończenia dzynarodowej i przy- studiów pierwszego stopnia i dyplom na poziomie zarządzania* brzeżnej oraz w żegludze krajowej ** , oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć laboratoria Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 3 Na poziomie zarządza- Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odponia w żegludze mię- wiadającym tematyce prowadzonych zajęć, lub dyplom ukończenia dzynarodowej i żeglu- studiów pierwszego stopnia i dyplom na poziomie zarządzania** dze przybrzeżnej , oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** , oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć laboratoria Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** , oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** , oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć, oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 4 Na oficera wachtowego Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odpona statkach rybackich wiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie o długości do 24 m oraz operacyjnym albo dyplom szypra rybołówstwa morskiego, oraz na oficera wachtowego 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego i szypra statku rybac- w zakresie prowadzonych zajęć kiego o długości powyżej 24 m uprawiającego Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpożeglugę na wodach wiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie ograniczonych operacyjnym albo dyplom szypra rybołówstwa morskiego, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć laboratoria Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym albo dyplom szypra rybołówstwa morskiego, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć, oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 5 Na szypra statku rybac- Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odpokiego o długości powy- wiadającym tematyce prowadzonych zajęć, lub dyplom ukończenia żej 24 m uprawiające- studiów pierwszego stopnia i dyplom na poziomie zarządzania** go żeglugę na wodach nieograniczonych albo dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego, oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** albo dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego, oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć laboratoria Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** albo dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** albo dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego, oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć, oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 6 Wszystkie szkolenia Wszystkie Przeszkolenie pedagogiczne w wymiarze 60 godzin lub świadectwo formy zajęć szkolenia dydaktycznego dla instruktora wydane zgodnie z konwencją StcW Wszystkie W przypadku szkoleń w języku angielskim osoby prowadzące takie formy zajęć szkolenia dodatkowo powinny posiadać certyfikat językowy na poprowadzone ziomie c1 lub odpowiednie doświadczenie w pracy dydaktycznej w języku lub zawodowej angielskim Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie języka z języka angielskiego, lub dyplom na poziomie operacyjnym albo odpowiedangielskiego nie doświadczenie zawodowe w gospodarce morskiej, oraz uprawnienia do nauczania języka angielskiego Objaśnienia:
-2) przeszkoleń i dodatkowych szkoleń w zakresie gospodarki morskiej Zakres lp. przeszkolenia Forma zajęć Wymagania dla kadry dydaktycznej i dodatkowego szkolenia 1 Przeszkolenia bezpie- Wykłady 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego czeństwa i ochrony w zakresie prowadzonych zajęć Ćwiczenia 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć 2 Przeszkolenia specjali- Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie styczne i GMDSS odpowiadającym tematyce prowadzonych zajęć lub dyplom na poziomie zarządzania, 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć lub świadectwo przeszkolenia w zakresie prowadzonego przeszkolenia Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć lub dyplom na poziomie operacyjnym, rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć lub świadectwo przeszkolenia w zakresie prowadzonego przeszkolenia Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć lub dyplom na poziomie zarządzania, rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 3 Dodatkowe szkolenia Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odw zakresie gospodarki powiadającym tematyce prowadzonych zajęć, 3 lata doświadczemorskiej nia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć lub świadectwo przeszkolenia w zakresie prowadzonego przeszkolenia Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć lub świadectwo przeszkolenia w zakresie prowadzonego przeszkolenia 4 Wszystkie przeszkole- Wszystkie formy Przeszkolenie pedagogiczne w wymiarze 60 godzin lub świadecnia i dodatkowe szkole- zajęć two szkolenia dydaktycznego dla instruktora wydane zgodnie nia z konwencją StcW Wszystkie formy W zajęć prowadzone w języku angielskim przypadku szkoleń w języku angielskim osoby prowadzące takie szkolenia dodatkowo powinny posiadać certyfikat językowy na poziomie c1 lub odpowiednie doświadczenie w pracy dydaktycznej lub zawodowej iii. Minimalne wymagania dotyczące wyposażenia bazy dydaktycznej niezbędnej do realizacji:
+1) szkoleń kwalifikacyjnych lp. Zakres szkolenia Forma zajęć Wymagania dla kadry dydaktycznej 1 Na poziomie pomocni- Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odpoczym wiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć lub dyplom na poziomie operacyjnym laboratoria Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć lub dyplom na poziomie operacyjnym Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 2 Na poziomie operacyj- Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odponym w żegludze mię- wiadającym tematyce prowadzonych zajęć, lub dyplom ukończenia dzynarodowej i przy- studiów pierwszego stopnia i dyplom na poziomie zarządzania* ** , brzeżnej oraz w żeglu- oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego dze krajowej w zakresie prowadzonych zajęć Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć laboratoria Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 3 Na poziomie zarządza- Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odponia w żegludze mię- wiadającym tematyce prowadzonych zajęć, lub dyplom ukończenia dzynarodowej i żeglu- studiów pierwszego stopnia i dyplom na poziomie zarządzania** , dze przybrzeżnej oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** , oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć laboratoria Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** , oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** , oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć, oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 4 Na oficera wachtowego Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odpona statkach rybackich wiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie o długości do 24 m oraz operacyjnym albo dyplom szypra rybołówstwa morskiego, oraz na oficera wachtowego 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego i szypra statku rybac- w zakresie prowadzonych zajęć kiego o długości powyżej 24 m uprawiającego Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpożeglugę na wodach wiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie ograniczonych operacyjnym albo dyplom szypra rybołówstwa morskiego, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć laboratoria Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym albo dyplom szypra rybołówstwa morskiego, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie operacyjnym, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć, oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 5 Na szypra statku rybac- Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odpokiego o długości powy- wiadającym tematyce prowadzonych zajęć, lub dyplom ukończenia żej 24 m uprawiające- studiów pierwszego stopnia i dyplom na poziomie zarządzania** go żeglugę na wodach albo dyplom szypra żeglugi nieograniczonej rybołówstwa morskienieograniczonych go, oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** albo dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego, oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć laboratoria Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** albo dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego, oraz rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, lub dyplom na poziomie zarządzania** albo dyplom szypra żeglugi nieograniczonej rybołówstwa morskiego, oraz 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć, oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 6 Wszystkie szkolenia Wszystkie Przeszkolenie pedagogiczne w wymiarze 60 godzin lub świadectwo formy zajęć szkolenia dydaktycznego dla instruktora wydane zgodnie z konwencją StcW Wszystkie W przypadku szkoleń w języku angielskim osoby prowadzące takie formy zajęć szkolenia dodatkowo powinny posiadać certyfikat językowy na poprowadzone ziomie c1 lub odpowiednie doświadczenie w pracy dydaktycznej w języku lub zawodowej angielskim Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie języka z języka angielskiego, lub dyplom na poziomie operacyjnym albo odpowiedangielskiego nie doświadczenie zawodowe w gospodarce morskiej, oraz uprawnienia do nauczania języka angielskiego Objaśnienia:
+2) przeszkoleń i dodatkowych szkoleń w zakresie gospodarki morskiej Zakres lp. przeszkolenia Forma zajęć Wymagania dla kadry dydaktycznej i dodatkowego szkolenia 1 Przeszkolenia bezpie- Wykłady 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego czeństwa i ochrony w zakresie prowadzonych zajęć Ćwiczenia 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć 2 Przeszkolenia specjali- Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie styczne i GMDSS odpowiadającym tematyce prowadzonych zajęć lub dyplom na poziomie zarządzania, 3 lata doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć lub świadectwo przeszkolenia w zakresie prowadzonego przeszkolenia Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć lub dyplom na poziomie operacyjnym, rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć lub świadectwo przeszkolenia w zakresie prowadzonego przeszkolenia Symulator Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć lub dyplom na poziomie zarządzania, rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć oraz dokument potwierdzający ukończenie szkolenia, opartego na kursie modelowym IMO 6.10, w zakresie prowadzenia i metod oceniania zajęć realizowanych z wykorzystaniem symulatorów 3 Dodatkowe szkolenia Wykłady Dyplom ukończenia studiów pierwszego stopnia w zakresie odw zakresie gospodarki powiadającym tematyce prowadzonych zajęć, 3 lata doświadczemorskiej nia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć lub świadectwo przeszkolenia w zakresie prowadzonego przeszkolenia Ćwiczenia Dyplom ukończenia studiów pierwszego stopnia w zakresie odpowiadającym tematyce prowadzonych zajęć, rok doświadczenia zawodowego lub dydaktyczno-naukowego w zakresie prowadzonych zajęć lub świadectwo przeszkolenia w zakresie prowadzonego przeszkolenia 4 Wszystkie przeszkole- Wszystkie formy Przeszkolenie pedagogiczne w wymiarze 60 godzin lub świadecnia i dodatkowe szkole- zajęć two szkolenia dydaktycznego dla instruktora wydane zgodnie nia z konwencją StcW Wszystkie formy W przypadku szkoleń w języku angielskim osoby prowadzące zajęć prowadzone takie szkolenia dodatkowo powinny posiadać certyfikat językow języku angiel- wy na poziomie c1 lub odpowiednie doświadczenie w pracy dyskim daktycznej lub zawodowej iii. Minimalne wymagania dotyczące wyposażenia bazy dydaktycznej niezbędnej do realizacji:
 1) szkoleń kwalifikacyjnych w dziale maszynowym lp. Szkolenie Forma zajęć Wyposażenie 1 Na poziomie pomocni- Ćwiczenia listy kontrolne w języku angielskim czym w specjalności mechanicznej na świa- laboratoria 1. Stanowisko silnika okrętowego wraz z instalacjami.
 dectwo motorzysty 2. Stanowisko pomp wirowych.
 wachtowego 3. Stanowisko wirówek paliwowych i olejowych.
@@ -54,7 +54,7 @@ wachtowego 3. Stanowisko wirówek paliwowych i olejowych.
 1) narzędzia,
 2) narzędzia pomiarowe,
 3) stanowiska ślusarskie,
-4) stanowiska tokarskie umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
+4) stanowiska tokarskie – umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
 Symulator Symulator programowy:
 1) siłowni okrętowej;
 2) instalacji okrętowych.
@@ -74,7 +74,7 @@ laboratoria 1. Stanowisko silnika okrętowego wraz z instalacjami.
 1) narzędzia,
 2) narzędzia pomiarowe,
 3) stanowiska ślusarskie,
-4) stanowiska tokarskie umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
+4) stanowiska tokarskie – umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
 Symulator Symulator programowy:
 1) siłowni okrętowej;
 2) instalacji okrętowych.
@@ -96,7 +96,7 @@ dectwo elektromontera 2. Stanowisko instalacji ze sprężarką chłodniczą.
 1) narzędzia,
 2) narzędzia pomiarowe,
 3) stanowiska ślusarskie,
-4) stanowiska tokarskie umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
+4) stanowiska tokarskie – umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
 Symulator Symulator programowy:
 1) siłowni okrętowej;
 2) instalacji okrętowych.
@@ -123,7 +123,7 @@ laboratoria 1. Stanowisko silnika okrętowego wraz z instalacjami.
 1) narzędzia,
 2) narzędzia pomiarowe,
 3) stanowiska ślusarskie,
-4) stanowiska tokarskie umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
+4) stanowiska tokarskie – umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
 13. Przyrządy do wykrywania nieciągłości metodami penetracyjnymi, magnetyczno-proszkowymi i metodami ultradźwiękowymi.
 14. Przyrządy do badania szczelności i przeprowadzania próby szczelności.
 15. Stanowisko do wyważania statycznego.
@@ -191,7 +191,7 @@ laboratoria 1. Stanowiska laboratoryjne wyposażone w sprzęt niezbędny do prze
 1) narzędzia,
 2) narzędzia pomiarowe,
 3) stanowiska ślusarskie,
-4) stanowiska tokarskie umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
+4) stanowiska tokarskie – umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
 12. Stanowisko badania systemów alarmowych, dyspozycyjnych i ostrzegawczych.
 13. Stanowisko pozwalające na ręczną synchronizację prądnic lub równoważny symulator operacyjny siłowni okrętowej z możliwością ręcznej synchronizacji prądnic.
 Symulator Symulatory operacyjne lub programowe:
@@ -215,7 +215,7 @@ laboratoria 1. Stanowisko wirówek paliwowych i olejowych.
 1) narzędzia,
 2) narzędzia pomiarowe,
 3) stanowiska ślusarskie,
-4) stanowiska tokarskie umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
+4) stanowiska tokarskie – umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
 Symulator 1. Symulator operacyjny siłowni okrętowej.
 2. Symulatory programowe:
 1) silnika okrętowego;
@@ -239,7 +239,7 @@ laboratoria 1. Stoły do pracy na mapie.
 9. Sekstanty.
 10. Program komputerowy do obliczania i przewidywania pływów.
 11. Pomoce do nauki świateł, znaków, sygnałów, prawideł konwencji cOlReG.
-12. Wytyczne IMO dotyczące planowania podróży Guidelines for voyage planning.
+12. Wytyczne IMO dotyczące planowania podróży – Guidelines for voyage planning.
 13. Panele kontrolne echosond oraz logów połączone z rzeczywistymi lub symulowanymi sensorami, kompas żyroskopowy, symulator autopilota umożliwiający poznanie zasad jego regulacji, symulatory urządzeń echolokacyjnych, odbiorniki elektronicznych systemów pozycjonowania wykorzystywanych w nawigacji, jak loran c, GPS, DGPS pozwalające na pełne zapoznanie się z ich budową, zasadą działania oraz ograniczeniami w ich działaniu, konsole radarowe umożliwiające poznanie, obsługę, regulację radarów oraz interpretację obrazu radarowego z uwzględnieniem różnych zorientowań i zobrazowań ruchu.
 14. Radiowe urządzenia do odbioru morskich informacji bezpieczeństwa, lampa aldisa lub jej program symulacyjny, komplet kodu sygnałowego, publikacje IMO, ItU-R, alRS konieczne do właściwego przeprowadzenia zajęć.
 Symulator 1. Symulator operacyjny mostka nawigacyjnego.
@@ -275,7 +275,7 @@ laboratoria 1. Stoły do pracy na mapie.
 2. konwencja SOlaS, publikacje, w szczególności Radio Regulation, MaNUal for use by the Maritime Mobile and Maritime Mobile-Satellite Services, IaMSaR, admirality list of Radio Signals Volume 1, admirality list of Radio Signals Volume 3, admirality list of Radio Signals Volume 5, Navtex Manual, GMDSS Manual, MkS.
 3. Pracownia dewiacji magnetycznej, kompas magnetyczny, żyrokompas, log, echosonda, odbiornik GPS.
 4. Pracownia meteorologii wyposażona w meteorologiczny sprzęt pomiarowy, mapy pogodowe, atlasy chmur, klucze ShIP, tablice psychrometryczne.
-5. Urządzenia rzeczywiste radiotelefony VhF/DSc, radiopławy SaRt lub aIS-SaRt, odbiorniki NaVteX, radiotelefony GMDSS, dwa komplety flag sygnałowych.
+5. Urządzenia rzeczywiste – radiotelefony VhF/DSc, radiopławy SaRt lub aIS-SaRt, odbiorniki NaVteX, radiotelefony GMDSS, dwa komplety flag sygnałowych.
 6. Dokumentacja konstrukcyjna, statecznościowa, ładunkowa oraz techniczno-eksploatacyjna masowca, kontenerowca, zbiornikowca, statku ro-ro.
 7. kalkulator załadunku statku.
 8. Pomoce do nauki świateł, znaków, sygnałów, prawideł MPDM.
@@ -288,7 +288,7 @@ Symulator 1. Symulator operacyjny mostka nawigacyjnego.
 nia w żegludze przy- 2. Pracownia dewiacji magnetycznej, kompas magnetyczny, żyrobrzeżnej kompas, log, echosonda, odbiornik GPS.
 3. tablice nawigacyjne, trójkąty nawigacyjne, przenośniki, liniały równoległe, protraktory i inne niezbędne przyrządy w ilości odpowiadającej liczebności grupy szkoleniowej.
 4. Pracownia meteorologii wyposażona w meteorologiczny sprzęt pomiarowy, mapy pogodowe, atlasy chmur, klucze ShIP, tablice psychrometryczne.
-5. Urządzenia rzeczywiste radiotelefony VhF/DSc, radiopławy SaRt lub aIS-SaRt, odbiorniki NaVteX, radiotelefony GMDSS na środki ratunkowe, dwa komplety flag sygnałowych.
+5. Urządzenia rzeczywiste – radiotelefony VhF/DSc, radiopławy SaRt lub aIS-SaRt, odbiorniki NaVteX, radiotelefony GMDSS na środki ratunkowe, dwa komplety flag sygnałowych.
 6. Mapy ćwiczeniowe i nawigacyjne papierowe oraz elektroniczne rastrowe (aRcS) i wektorowe (aVcS).
 7. Mapy pomocnicze i tematyczne: Routeing charts, Mariner’s Routeing Guide, co-tidal atlases and charts, Plotting Sheets.
 8. Publikacje nautyczne w wersji papierowej i elektronicznej, takie jak: katalogi map, locje, spisy świateł i sygnałów mgłowych, spisy sygnałów radiowych, tablice pływów, atlasy prądów pływowych, Ocean Passages for the World, Distance tables, IMO Ship’s Routeing, Mariner’s handbook, Guide to Port entry, System Iala, chart 5011, roczniki nautyczne, wiadomości żeglarskie, dziennik okrętowy.
@@ -308,7 +308,7 @@ Symulator 1. Symulator operacyjny mostka nawigacyjnego.
 3. Publikacje nautyczne w wersji papierowej i elektronicznej, takie jak: katalogi map, locje, spisy świateł i sygnałów mgłowych, spisy sygnałów radiowych, Mariner’s handbook.
 4. tablice nawigacyjne, trójkąty nawigacyjne, przenośniki, liniały równoległe, protraktory i inne niezbędne przyrządy w ilości odpowiadającej liczebności grupy szkoleniowej.
 5. Pracownia dewiacji magnetycznej, kompas magnetyczny, żyrokompas, log, echosonda, odbiornik GPS.
-6. Urządzenia rzeczywiste radiotelefon VhF/DSc, radiopławy SaRt lub aIS-SaRt, odbiornik NaVteX.
+6. Urządzenia rzeczywiste – radiotelefon VhF/DSc, radiopławy SaRt lub aIS-SaRt, odbiornik NaVteX.
 7. Pomoce do nauki świateł, znaków, sygnałów, prawideł MPDM.
 8. Przepisy krajowe dotyczące przewozu ładunków, bezpieczeństwa żeglugi, ochrony środowiska morskiego i pracy na statkach handlowych, IaMSaR, MkS, tablica sygnałów jednoliterowych.
 9. Dokumentacja konstrukcyjna i statecznościowa różnych typów statków.
@@ -398,9 +398,9 @@ Symulator 1. Symulator operacyjny mostka nawigacyjnego.
 3) siłowni okrętowej.
 4) zaliczania części praktycznej szkolenia przeprowadzanego na symulatorach lp. Zakres zaliczania Obiekt Wymagania 1 Na poziomie operacyj- Symulator Symulator operacyjny mostka nawigacyjnego z oprogramowaniem nym i zarządzania pozwalającym na: w dziale pokładowym 1) tworzenie scenariuszy dla danego zaliczenia poprzez wybór odw żegludze międzyna- powiednich akwenów żeglugowych, rodzaju statków, symulacji rodowej i przybrzeżnej ruchu innych jednostek pływających, warunków meteo itp. spow żegludze krajowej śród tych, które są możliwe do symulacji na bazie posiadanego i rybołówstwie mor- już przez symulator oprogramowania symulującego, zgodnych skim w odniesieniu do z obowiązującymi wymaganiami egzaminacyjnymi (symulacja funkcji nawigacja akwenów żeglugowych, rodzaju statków, ruchu innych jednostek pływających musi być odpowiednia dla rodzaju zaliczenia i umożliwiać symulowanie prowadzonego statku odpowiedniego rodzaju lub wielkości, np. statku rybackiego, oraz odpowiedniego akwenu stosownie do rodzaju żeglugi, np. Morza Bałtyckiego, dla żeglugi przybrzeżnej, łowiska dla rybołówstwa morskiego itd.);
 2) wybór typów symulacji:
-a) nawigacja i pełnienie wachty w odniesieniu do symulacji nawigacji i pełnienia wachty urządzenie powinno być zdolne do symulowania urządzeń nawigacyjnych i operacyjnych regulatorów na mostku oraz: umożliwiać pełnienie obserwacji w zakresie zależnym od wybranego scenariusza, w tym radarowych w warunkach ograniczonej widzialności, tworzyć środowisko operacyjne w czasie rzeczywistym, łącznie z instrumentami kontrolnymi nawigacji i łączności oraz sprzętem odpowiednim do realizowania zadań nawigacji i pełnienia wachty i do oceny biegłości w manewrowaniu, zapewniać realistyczną scenerię wizualną w dzień i w nocy, łącznie ze zmienną widocznością, z minimalnym horyzontalnym polem widzenia ‒ w celu dokonania obserwacji w sektorach, odpowiednio do celów i zadań nawigacji i pełnienia wachty,
-b) kierowanie i manewrowanie statkiem wyposażenie do symulacji manewrowania i kierowania statkiem powinno: zapewniać realistyczną scenerię wizualną widzianą z mostka w dzień i w nocy ze zmienną widocznością w minimalnym poziomym polu widzenia, stosownym do celów przeprowadzenia zaliczenia w sektorach ob serwacji odpowiednich do zadań i celów kierowania i manewrowania statkiem, realistycznie symulować dynamikę prowadzonego statku na ograniczonych drogach wodnych, łącznie ze skutkami oddziaływania płytkiej wody i brzegu, zapewniać realistyczną symulację dynamiki prowadzonego statku w warunkach panujących na otwartym morzu, łącznie ze skutkami pogody, pływów, prądów i wzajemnego oddziaływania statków, realistycznie symulować procedury komunikacyjne VtS pomiędzy statkiem i brzegiem,
-c) przesyłanie raportów i radiokomunikację urządzenia do symulacji łączności powinny być zdolne do symulowania sprzętu do łączności obejmującego urządzenia: co najmniej do symulacji działania urządzeń nadawczo-odbiorczych, umożliwiające tworzenie środowiska operacyjnego w czasie rzeczywistym, składającego się ze zintegrowanego systemu, obejmującego przynajmniej jedną stację instruktora i przynajmniej jedną stację okrętową lub brzegową;
+a) nawigacja i pełnienie wachty – w odniesieniu do symulacji nawigacji i pełnienia wachty urządzenie powinno być zdolne do symulowania urządzeń nawigacyjnych i operacyjnych regulatorów na mostku oraz: – umożliwiać pełnienie obserwacji w zakresie zależnym od wybranego scenariusza, w tym radarowych w warunkach ograniczonej widzialności, – tworzyć środowisko operacyjne w czasie rzeczywistym, łącznie z instrumentami kontrolnymi nawigacji i łączności oraz sprzętem odpowiednim do realizowania zadań nawigacji i pełnienia wachty i do oceny biegłości w manewrowaniu, – zapewniać realistyczną scenerię wizualną w dzień i w nocy, łącznie ze zmienną widocznością, z minimalnym horyzontalnym polem widzenia ‒ w celu dokonania obserwacji w sektorach, odpowiednio do celów i zadań nawigacji i pełnienia wachty,
+b) kierowanie i manewrowanie statkiem – wyposażenie do symulacji manewrowania i kierowania statkiem powinno: – zapewniać realistyczną scenerię wizualną widzianą z mostka w dzień i w nocy ze zmienną widocznością w minimalnym poziomym polu widzenia, stosownym do celów przeprowadzenia zaliczenia w sektorach obserwacji odpowiednich do zadań i celów kierowania i manewrowania statkiem, – realistycznie symulować dynamikę prowadzonego statku na ograniczonych drogach wodnych, łącznie ze skutkami oddziaływania płytkiej wody i brzegu, – zapewniać realistyczną symulację dynamiki prowadzonego statku w warunkach panujących na otwartym morzu, łącznie ze skutkami pogody, pływów, prądów i wzajemnego oddziaływania statków, – realistycznie symulować procedury komunikacyjne VtS pomiędzy statkiem i brzegiem,
+c) przesyłanie raportów i radiokomunikację – urządzenia do symulacji łączności powinny być zdolne do symulowania sprzętu do łączności obejmującego urządzenia: – co najmniej do symulacji działania urządzeń nadawczo-odbiorczych, – umożliwiające tworzenie środowiska operacyjnego w czasie rzeczywistym, składającego się ze zintegrowanego systemu, obejmującego przynajmniej jedną stację instruktora i przynajmniej jedną stację okrętową lub brzegową;
 3) symulowanie nie mniej niż pięciu modeli statków, na których będą prowadzone zaliczenia, i pięć obszarów ćwiczeniowych.
 Dodatkowe wymagania dla rybołówstwa morskiego.
 Przeprowadzanie zaliczenia w zakresie rybołówstwa morskiego wymaga oprogramowania symulującego statki o odpowiedniej wielkości wraz z wyposażeniem połowowym i umożliwiającego prowadzenie połowów oraz akweny z określonymi rejonami połowowymi.
@@ -445,10 +445,10 @@ Pozostały sprzęt 1. Manekin.
 4. Szyny do usztywnień.
 5. Nosze.
 6. Opatrunki.
-3 w zakresie sprawowania opieki medycznej nad chorym oraz przeszkolenie uaktualniająSprzęt osobisty 1. Maseczki twarzowe do prowadzenia sztucznej wentylacji.
-2. Rękawiczki jednorazowe.
-3. Igły jednorazowe.
-4. Zestawy kroplowe.
+3 w zakresie sprawowa- Sprzęt osobisty 1. Maseczki twarzowe do prowadzenia sztucznej wentylacji.
+nia opieki medycznej 2. Rękawiczki jednorazowe.
+nad chorym oraz prze- 3. Igły jednorazowe.
+szkolenie uaktualniają- 4. Zestawy kroplowe.
 ce w tym zakresie 5. Nici chirurgiczne.
 6. Narzędzia chirurgiczne do zaopatrywania ran.
 7. Bandaże.
@@ -476,7 +476,7 @@ szkolenie uaktualniają- 3. Film instruktażowy dotyczący zasad użycia łodzi 
 10. Pirotechniczne środki do wzywania pomocy lub nadawania sygnałów optycznych.
 11. apteczka pierwszej pomocy na łodzi ratunkowej.
 12. transponder radarowy i transponder aIS.
-6 w zakresie ochrony Poligon pożarowy 1. Zespół kontenerów lub morski trenażer z kabiną sterowania przeciwpożarowej i pomieszczeniem do ćwiczeń pożarowo-dymowych.
+6 w zakresie ochrony Poligon pożarowy 1. Zespół kontenerów lub morski trenażer z kabiną sterowania przeciwpożarowej – i pomieszczeniem do ćwiczeń pożarowo-dymowych.
 stopień podstawowy 2. Generator dymu.
 oraz przeszkolenie 3. Manekin.
 uaktualniające w tym zakresie 4. Sprzęt gaśniczy:
@@ -490,7 +490,7 @@ uaktualniające w tym zakresie 4. Sprzęt gaśniczy:
 8) gaśnice pianowe,
 9) gaśnice cO ,
 10) gaśnice proszkowe,
-11) gaśnice przewoźne (cO , pianowa, proszkowa) umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
+11) gaśnice przewoźne (cO , pianowa, proszkowa) – umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
 5. Palenisko wannowe (1 m x 1 m x 0,3 m) na paliwo ciekłe zasilane gazem propan-butan.
 6. Palenisko wannowe (1 m x 1 m x 0,3 m) na paliwo stałe zasilane gazem propan-butan.
 7. Stanowisko lub laboratorium do demonstracji zjawisk zapłonu i samozapłonu.
@@ -500,7 +500,7 @@ Sprzęt osobisty Sprzęt umożliwiający właściwe przeprowadzenie zajęć prak
 3) radiotelefony.
 Sprzęt ratunkowy 1. Zestaw pierwszej pomocy.
 2. Nosze do zabezpieczenia ćwiczeń.
-7 w zakresie ochrony Poligon pożarowy 1. Zespół kontenerów lub morski trenażer z kabiną sterowania przeciwpożarowej i pomieszczeniem do ćwiczeń pożarowo-dymowych.
+7 w zakresie ochrony Poligon pożarowy 1. Zespół kontenerów lub morski trenażer z kabiną sterowania przeciwpożarowej – i pomieszczeniem do ćwiczeń pożarowo-dymowych.
 stopień wyższy oraz 2. Generator dymu.
 przeszkolenie uaktual- 3. Manekin.
 niające w tym zakresie
@@ -515,7 +515,7 @@ niające w tym zakresie
 8) gaśnice pianowe,
 9) gaśnice cO ,
 10) gaśnice proszkowe,
-11) gaśnice przewoźne (cO , pianowa, proszkowa) umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
+11) gaśnice przewoźne (cO , pianowa, proszkowa) – umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
 5. Palenisko wannowe (1 m x 1 m x 0,3 m) na paliwo ciekłe zasilane gazem propan-butan.
 6. Palenisko wannowe (1 m x 1 m x 0,3 m) na paliwo stałe zasilane gazem propan-butan.
 7. Stanowisko lub laboratorium do demonstracji zjawisk zapłonu i samozapłonu.
@@ -543,7 +543,7 @@ Pozostałe wypo- 1. Poligon pożarowy: sażenie 1) palenisko wannowe (1 m x 1 m 
 2. Sprzęt osobisty:
 1) komplety odzieży ochronnej: ubrania, buty, kaski, pasy, topory, linki ratownicze, lampy bezpieczeństwa,
 2) kompletne aparaty oddechowe na sprężone powietrze,
-3) radiotelefony przenośne umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
+3) radiotelefony przenośne – umożliwiające właściwe przeprowadzenie zajęć praktycznych przewidzianych programem.
 3. Pozostały sprzęt:
 1) manekin;
 2) apteczka z wyposażeniem;
@@ -593,11 +593,11 @@ Pozostały sprzęt 1. atrapy broni i bagażu.
 2. kajdanki.
 3. Ręczny wykrywacz metalu.
 13 oficera ochrony statku Pomoce dydak- Plany: tyczne 1) ochrony statku,
-2) statkowe (ogólny, przeciwpożarowy, awaryjny, systemu wentylacyjnego, pomieszczeń mieszkalnych, rozmieszczenia środków ratunkowych oraz ewakuacyjnych) do przedstawienia elementów operacyjnych i analizy słabych punktów w zakresie ochrony.
+2) statkowe (ogólny, przeciwpożarowy, awaryjny, systemu wentylacyjnego, pomieszczeń mieszkalnych, rozmieszczenia środków ratunkowych oraz ewakuacyjnych) – do przedstawienia elementów operacyjnych i analizy słabych punktów w zakresie ochrony.
 Ćwiczenia prak- 1. Sprzęt i pomoce do prowadzenia ćwiczeń w zakresie przeszutyczne kiwania osób i bagażu (instrukcje przeszukania, detektor metalu, pomoce multimedialne w zakresie wykorzystania wyposażenia ochrony, w szczególności w postaci: tV przemysłowej, detektorów materiałów promieniotwórczych i wybuchowych, sprzętu do prześwietlania bagażu).
 2. Dostęp do pomieszczeń statku lub symulowanych pomieszczeń statkowych w celu realizacji ćwiczeń praktycznych w zakresie przeszukiwania i zabezpieczenia pomieszczeń.
 14 w zakresie eksploatacji Pomoce dydak- 1. Zestaw schematów gazowców.
-zbiornikowców do prze- tyczne 2. Pomoce dotyczące tematyki szkolenia w zakresie transportu wozu gazów skroplo- ładunków gazów skroplonych drogą morską oraz podstawonych stopień podsta- wego szkolenia bezpiecznej eksploatacji gazowców.
+zbiornikowców do prze- tyczne 2. Pomoce dotyczące tematyki szkolenia w zakresie transportu wozu gazów skroplo- ładunków gazów skroplonych drogą morską oraz podstawonych – stopień podsta- wego szkolenia bezpiecznej eksploatacji gazowców.
 wowy Sprzęt osobisty Sprzęt umożliwiający właściwe przeprowadzenie zajęć praktycznych przewidzianych programem:
 1) komplet ubrań ochronnych;
 2) aparat oddechowy;
@@ -611,7 +611,7 @@ wowy Sprzęt osobisty Sprzęt umożliwiający właściwe przeprowadzenie zajęć
 tyczne 2. Stacjonarne systemy gaszenia proszkiem.
 3. Systemy symulujące realistyczne warunki pokładowe, umożliwiające przeprowadzenie ćwiczeń także w ciemności.
 15 w zakresie eksploatacji Pomoce dydak- 1. Zestaw schematów chemikaliowców i tankowców do przezbiornikowców do prze- tyczne wozu produktów naftowych.
-wozu produktów nafto- 2. Pomoce dotyczące tematyki szkolenia w zakresie transportu wych oraz chemikaliów produktów naftowych i ładunków chemicznych drogą morską stopień podstawowy oraz szkolenia bezpiecznej eksploatacji zbiornikowców do przewozu produktów naftowych oraz chemikaliów.
+wozu produktów nafto- 2. Pomoce dotyczące tematyki szkolenia w zakresie transportu wych oraz chemikaliów produktów naftowych i ładunków chemicznych drogą morską – stopień podstawowy oraz szkolenia bezpiecznej eksploatacji zbiornikowców do przewozu produktów naftowych oraz chemikaliów.
 Sprzęt osobisty Sprzęt umożliwiający właściwe przeprowadzenie zajęć praktycznych przewidzianych programem:
 1) komplet ubrań ochronnych;
 2) aparat oddechowy;
@@ -626,7 +626,7 @@ tyczne 2. Stacjonarne systemy gaszenia proszkiem.
 3. Systemy symulujące realistyczne warunki pokładowe, umożliwiające przeprowadzenie ćwiczeń także w ciemności.
 16 w zakresie eksploatacji Pomoce dydak- 1. Zestaw schematów zbiornikowców do przewozu gazów skropzbiornikowców do prze- tyczne lonych.
 wozu gazów skroplo- 2. Schemat systemu inert gazu.
-nych stopień wyższy 3. Pomoce dotyczące tematyki szkolenia w zakresie walki z pożarami na zbiornikowcach do przewozu gazów skroplonych, wchodzenia do przestrzeni zamkniętych, operacji ładunkowych na zbiornikowcach do przewozu gazów skroplonych.
+nych – stopień wyższy 3. Pomoce dotyczące tematyki szkolenia w zakresie walki z pożarami na zbiornikowcach do przewozu gazów skroplonych, wchodzenia do przestrzeni zamkniętych, operacji ładunkowych na zbiornikowcach do przewozu gazów skroplonych.
 Dodatkowe wy- Symulator programowy ładunkowy statków do przewozu gazów posażenie skroplonych z możliwością symulacji sytuacji awaryjnych przy przewozie gazów skroplonych.
 Sprzęt osobisty Sprzęt umożliwiający właściwe przeprowadzenie zajęć praktycznych przewidzianych programem:
 1) komplet ubrań ochronnych;
@@ -639,7 +639,7 @@ Sprzęt osobisty Sprzęt umożliwiający właściwe przeprowadzenie zajęć prak
 8) eksplozymetr lub miernik wielogazowy.
 17 w zakresie eksploatacji Pomoce dydak- 1. Zestaw schematów zbiornikowców do przewozu produktów zbiornikowców do prze- tyczne naftowych.
 wozu produktów nafto- 2. Schemat systemu inert gazu.
-wych stopień wyższy 3. Pomoce dotyczące tematyki szkolenia w zakresie walki z pożarami na zbiornikowcach do przewozu produktów naftowych, wchodzenia do przestrzeni zamkniętych, operacji ładunkowych na zbiornikowcach do przewozu produktów naftowych.
+wych – stopień wyższy 3. Pomoce dotyczące tematyki szkolenia w zakresie walki z pożarami na zbiornikowcach do przewozu produktów naftowych, wchodzenia do przestrzeni zamkniętych, operacji ładunkowych na zbiornikowcach do przewozu produktów naftowych.
 Dodatkowe wy- Symulator programowy ładunkowy statków do przewozu ładunposażenie ków płynnych z możliwością symulacji sytuacji awaryjnych przy przewozie ładunków płynnych.
 Sprzęt osobisty Sprzęt umożliwiający właściwe przeprowadzenie zajęć praktycznych przewidzianych programem:
 1) komplet ubrań ochronnych;
@@ -651,7 +651,7 @@ Sprzęt osobisty Sprzęt umożliwiający właściwe przeprowadzenie zajęć prak
 7) aparat oddechowy ucieczkowy;
 8) eksplozymetr lub miernik wielogazowy.
 18 w zakresie eksploatacji Pomoce dydak- 1. Zestaw schematów chemikaliowców.
-zbiornikowców do prze- tyczne 2. Pomoce dotyczące tematyki szkolenia w zakresie walki z powozu chemikaliów żarami na chemikaliowcach, wchodzenia do przestrzeni zastopień wyższy mkniętych.
+zbiornikowców do prze- tyczne 2. Pomoce dotyczące tematyki szkolenia w zakresie walki z powozu chemikaliów – żarami na chemikaliowcach, wchodzenia do przestrzeni zastopień wyższy mkniętych.
 Dodatkowe wy- Symulator programowy ładunkowy statków do przewozu ładunposażenie ków płynnych z możliwością symulacji sytuacji awaryjnych przy przewozie ładunków płynnych.
 Sprzęt osobisty Sprzęt umożliwiający właściwe przeprowadzenie zajęć praktycznych przewidzianych programem:
 1) komplet ubrań ochronnych;
@@ -670,9 +670,9 @@ wań ludzkich Sprzęt osobisty 1. Pasy ratunkowe różnych typów stosowane na s
 2. tratwa ratunkowa.
 21 w zakresie kierowania Pomoce dydak- Plany statkowe (ogólny, pomieszczeń pasażerskich, ewakuacji, tłumem tyczne ochrony ppoż., niezatapialności).
 Sprzęt osobisty Pasy ratunkowe różnych typów stosowanych na statkach pasażerskich.
-22 w zakresie bezpieczeństwa dla członków załóg bezpośrednio obsługujących pasażerów w pomieszczeniach pasażerskich Pomoce dydak- Plany statkowe (ogólny, pomieszczeń pasażerskich, ewakuacji, tyczne ochrony ppoż., niezatapialności).
-Sprzęt osobisty 1. Pasy ratunkowe różnych typów stosowane na statkach pasażerskich.
-2. tratwa ratunkowa.
+22 w zakresie bezpieczeń- Pomoce dydak- Plany statkowe (ogólny, pomieszczeń pasażerskich, ewakuacji, stwa dla członków za- tyczne ochrony ppoż., niezatapialności).
+łóg bezpośrednio obsługujących pasażerów Sprzęt osobisty 1. Pasy ratunkowe różnych typów stosowane na statkach pasaw pomieszczeniach pa- żerskich.
+sażerskich 2. tratwa ratunkowa.
 23 w zakresie bezpieczeń- Pomoce dydak- Plany statkowe (ogólny, pomieszczeń pasażerskich, ewakuacji, stwa pasażerów i ładun- tyczne ochrony ppoż., niezatapialności).
 ku oraz szczelności kadłuba na statku pasa- Sprzęt osobisty eksplozymetr lub miernik wielogazowy.
 żerskim typu ro-ro 24 w zakresie obsługi Pomoce dydak- 1. Zbiory map cyfrowych eNc i RNc.
@@ -702,18 +702,17 @@ tyczne Wyposażenie do- 1. Radiotelefony przenośne.
 datkowe 2. Układy rejestrujące przebieg ćwiczeń z możliwością odtwarzania.
 31 w zakresie znajomości Pomoce dydak- 1. konwencja SOlaS.
 Międzynarodowego ko- tyczne 2. konwencja StcW.
-deksu zarządzania bezpieczną eksploatacją statków i zapobieganiem zanieczyszczaniu 32 w zakresie obsługi siłowni o napędzie innym niż tłokowy silnik spalinowy Pomoce dydaktyczne
-1. Schemat siłowni z turbiną parową.
-2. Schemat siłowni z turbiną gazową.
-3. Stanowisko rzeczywistego silnika turbinowego wraz z instalacjami lub symulator programowy silnika turbinowego.
+deksu zarządzania bezpieczną eksploatacją statków i zapobieganiem zanieczyszczaniu 32 w zakresie obsługi Pomoce dydak- 1. Schemat siłowni z turbiną parową.
+siłowni o napędzie tyczne 2. Schemat siłowni z turbiną gazową.
+innym niż tłokowy 3. Stanowisko rzeczywistego silnika turbinowego wraz z instasilnik spalinowy lacjami lub symulator programowy silnika turbinowego.
 33 w zakresie obsługi laboratorium laboratorium wysokich napięć wyposażone w urządzenia i aparai konserwacji układów turę pomiarową przystosowaną do pracy przy wysokich napięzasilania o napięciu ciach.
 przekraczającym 1 kV 34 dla osób przeprowa- Sprzęt 1. Mierniki do pomiaru wielkości elektrycznych.
 dzających inspekcje 2. Potencjostaty/galwanostaty.
-ochrony katodowej 3. Multimetry i rejestratory cyfrowe.
+ochrony katodowej – 3. Multimetry i rejestratory cyfrowe.
 poziom 1 4. Stacjonarne i przenośne elektrody odniesienia.
 35 dla osób przeprowa- Sprzęt 1. Stanowisko do demonstracji pracy makroogniw korozyjnych.
 dzających inspekcje 2. Przykładowe anody galwaniczne.
-ochrony katodowej 3. Stacja ochrony katodowej.
+ochrony katodowej – 3. Stacja ochrony katodowej.
 poziom 2 36 dla osób sprawujących Sprzęt 1. Mierniki grubości powłok suchych i mokrych.
 nadzór nad wykonaniem 2. Mierniki twardości powłok.
 powłok malarskich stat- 3. Zestawy do wyznaczania obecności soli rozpuszczalnych na ków morskich zgodnie podłożu.
@@ -731,9 +730,8 @@ dectwa ogólnego operatora GMDSS oraz świadectwa ograniczonego operatora GMDSS 
 dectwa operatora służby kontroli ruchu statków 40 oficera ochrony arma- Pomoce dydak- Plany: tora oraz oficera ochro- tyczne 1) ochrony statku, ny obiektu portowego 2) ochrony portu,
 3) ochrony obiektu portowego,
 4) przeszukania statku,
-5) przeszukania pomieszczeń do przedstawienia elementów operacyjnych i analizy słabych punktów w zakresie ochrony.
-Ćwiczenia praktyczne
-1. Sprzęt i pomoce do prowadzenia ćwiczeń w zakresie przeszukiwania pomieszczeń i osób (instrukcje przeszukania, detektor metalu, pomoce multimedialne w zakresie wykorzystania wyposażenia ochrony, w szczególności w postaci: tV przemysłowej, detektorów materiałów promieniotwórczych i wybuchowych, sprzętu do prześwietlania bagażu).
+5) przeszukania pomieszczeń – do przedstawienia elementów operacyjnych i analizy słabych punktów w zakresie ochrony.
+Ćwiczenia prak- 1. Sprzęt i pomoce do prowadzenia ćwiczeń w zakresie przeszutyczne kiwania pomieszczeń i osób (instrukcje przeszukania, detektor metalu, pomoce multimedialne w zakresie wykorzystania wyposażenia ochrony, w szczególności w postaci: tV przemysłowej, detektorów materiałów promieniotwórczych i wybuchowych, sprzętu do prześwietlania bagażu).
 2. Dostęp do pomieszczeń statku, portu lub innych symulowanych pomieszczeń w celu realizacji ćwiczeń praktycznych w zakresie przeszukiwania i zabezpieczenia pomieszczeń.
 SZcZeGółOWe WaRUNkI PRZePROWaDZaNIa eGZaMINóW PRaktycZNych W MORSkIch jeDNOStkach eDUkacyjNych
 1. Symulatory wykorzystywane do przeprowadzania egzaminów praktycznych powinny:
@@ -746,9 +744,9 @@ SZcZeGółOWe WaRUNkI PRZePROWaDZaNIa eGZaMINóW PRaktycZNych W MORSkIch jeDNOSt
 2. Prowadzenie egzaminów praktycznych powinno umożliwiać zdającym wykonanie ćwiczenia zgodnie ze scenariuszem egzaminacyjnym w sposób samodzielny, umożliwiający zespołowi egzaminacyjnemu sprawdzenie umiejętności praktycznych zgodnie z wymaganiami egzaminacyjnymi określonymi w przepisach wydanych na podstawie art. 74 ust. 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim. W przypadku gdy scenariusz egzaminacyjny wymaga udziału dodatkowych osób do wykonania ćwiczenia (np. do sterowania statkiem), dopuszcza się, za zgodą przewodniczącego zespołu egzaminacyjnego, wykonanie tych czynności przez inne osoby zdające egzamin.
 3. Wymagania do przeprowadzania egzaminów praktycznych w morskich jednostkach edukacyjnych: lp. Zakres egzaminu Obiekt Wymagania 1 Na poziomie operacyj- Symulator Symulator operacyjny mostka nawigacyjnego z oprogramowaniem nym i zarządzania pozwalającym na: w dziale pokładowym 1) tworzenie scenariuszy egzaminacyjnych poprzez wybór odpow żegludze międzyna- wiednich akwenów żeglugowych, rodzaju statków, symulacji rodowej i przybrzeżnej ruchu innych jednostek pływających, warunków meteo itp. spow żegludze krajowej śród tych, które są możliwe do symulacji na bazie posiadanego i rybołówstwie mor- już przez symulator oprogramowania symulującego, zgodnych skim w odniesieniu do z obowiązującymi wymaganiami egzaminacyjnymi (symulacja funkcji nawigacja akwenów żeglugowych, rodzaju statków, ruchu innych jednostek pływających musi być odpowiednia dla rodzaju egzaminu i umożliwiać symulowanie prowadzonego statku odpowiedniego rodzaju lub wielkości, np. statku rybackiego, oraz odpowiedniego akwenu stosownie do rodzaju żeglugi, np. Morza Bałtyckiego, dla żeglugi przybrzeżnej, łowiska dla rybołówstwa morskiego itd.);
 2) wybór typów symulacji:
-a) nawigacja i pełnienie wachty w odniesieniu do symulacji nawigacji i pełnienia wachty urządzenie powinno być zdolne do symulowania urządzeń nawigacyjnych i operacyjnych regulatorów na mostku oraz: umożliwiać pełnienie obserwacji w zakresie zależnym od wybranego scenariusza, w tym radarowych w warunkach ograniczonej widzialności, tworzyć środowisko operacyjne w czasie rzeczywistym, łącznie z instrumentami kontrolnymi nawigacji i łączności oraz sprzętem odpowiednim do realizowania zadań nawigacji i pełnienia wachty i do oceny biegłości w manewrowaniu, zapewniać realistyczną scenerię wizualną w dzień i w nocy, łącznie ze zmienną widocznością, z minimalnym horyzontalnym polem widzenia w celu dokonania obserwacji w sektorach, odpowiednio do celów i zadań nawigacji i pełnienia wachty,
-b) kierowanie i manewrowanie statkiem; wyposażenie do symulacji manewrowania i kierowania statkiem powinno: zapewniać realistyczną scenerię wizualną widzianą z mostka w dzień i w nocy ze zmienną widocznością w minimalnym poziomym polu widzenia, stosownym do celów przeprowadzenia egzaminu w sektorach obserwacji odpowiednich do zadań i celów kierowania i manewrowania statkiem, realistycznie symulować dynamikę prowadzonego statku na ograniczonych drogach wodnych, łącznie ze skutkami oddziaływania płytkiej wody i brzegu, zapewniać realistyczną symulację dynamiki prowadzonego statku w warunkach panujących na otwartym morzu, łącznie ze skutkami pogody, pływów, prądów i wzajemnego oddziaływania statków, realistycznie symulować procedury komunikacyjne VtS pomiędzy statkiem i brzegiem,
-c) przesyłanie raportów i radiokomunikację urządzenia do symulacji łączności powinny być zdolne do symulowania sprzętu do łączności obejmującego urządzenia: co najmniej do symulacji działania urządzeń nadawczo-odbiorczych, ‒ umożliwiające tworzenie środowiska operacyjnego w czasie rzeczywistym, składającego się ze zintegrowanego systemu, obejmującego przynajmniej jedną stację egzaminatora i przynajmniej jedną stację okrętową lub brzegową;
+a) nawigacja i pełnienie wachty – w odniesieniu do symulacji nawigacji i pełnienia wachty urządzenie powinno być zdolne do symulowania urządzeń nawigacyjnych i operacyjnych regulatorów na mostku oraz: – umożliwiać pełnienie obserwacji w zakresie zależnym od wybranego scenariusza, w tym radarowych w warunkach ograniczonej widzialności, – tworzyć środowisko operacyjne w czasie rzeczywistym, łącznie z instrumentami kontrolnymi nawigacji i łączności oraz sprzętem odpowiednim do realizowania zadań nawigacji i pełnienia wachty i do oceny biegłości w manewrowaniu, – zapewniać realistyczną scenerię wizualną w dzień i w nocy, łącznie ze zmienną widocznością, z minimalnym horyzontalnym polem widzenia w celu dokonania obserwacji w sektorach, odpowiednio do celów i zadań nawigacji i pełnienia wachty,
+b) kierowanie i manewrowanie statkiem; wyposażenie do symulacji manewrowania i kierowania statkiem powinno: – zapewniać realistyczną scenerię wizualną widzianą z mostka w dzień i w nocy ze zmienną widocznością w minimalnym poziomym polu widzenia, stosownym do celów przeprowadzenia egzaminu w sektorach obserwacji odpowiednich do zadań i celów kierowania i manewrowania statkiem, – realistycznie symulować dynamikę prowadzonego statku na ograniczonych drogach wodnych, łącznie ze skutkami oddziaływania płytkiej wody i brzegu, – zapewniać realistyczną symulację dynamiki prowadzonego statku w warunkach panujących na otwartym morzu, łącznie ze skutkami pogody, pływów, prądów i wzajemnego oddziaływania statków, – realistycznie symulować procedury komunikacyjne VtS pomiędzy statkiem i brzegiem,
+c) przesyłanie raportów i radiokomunikację – urządzenia do symulacji łączności powinny być zdolne do symulowania sprzętu do łączności obejmującego urządzenia: – co najmniej do symulacji działania urządzeń nadawczo-odbiorczych, ‒ umożliwiające tworzenie środowiska operacyjnego w czasie rzeczywistym, składającego się ze zintegrowanego systemu, obejmującego przynajmniej jedną stację egzaminatora i przynajmniej jedną stację okrętową lub brzegową;
 3) symulowanie nie mniej niż pięciu modeli statków, na których będą prowadzone egzaminy, i pięć obszarów ćwiczeniowych.
 Dodatkowe wymagania dla rybołówstwa morskiego: Przeprowadzanie egzaminów w zakresie rybołówstwa morskiego wymaga oprogramowania symulującego statki o odpowiedniej wielkości wraz z wyposażeniem połowowym i umożliwiającego prowadzenie połowów oraz akweny z określonymi rejonami połowowymi.
 2 Na poziomie zarządza- Symulator 1. Symulator programowy ładunkowy z oprogramowaniem ponia w dziale pokłado- zwalającym na symulowanie operacji ładunkowych i sztauowawym w żegludze mię- nia w oparciu o posiadane przez symulator modele statków i rodzynarodowej w odnie- dzaje ładunków oraz możliwości programowe.
@@ -774,41 +772,42 @@ elektrycznej 2) symulację systemów rozdziału energii elektrycznej, w tym zasi
 4) wprowadzanie zmian symulowanych operacji.
 Dopuszcza się, aby urządzenia symulujące niektóre procesy, podsystemy lub mechanizmy stanowiły osobne, niezależne urządzenia, np. laboratorium wysokich napięć, z tym zastrzeżeniem że pod pojęciem symulatora rozumie się cały zespół urządzeń sumarycznie spełniających warunki do przeprowadzania egzaminów w oparciu o jeden scenariusz egzaminacyjny zgodnie z obowiązującymi wymaganiami egzaminacyjnymi.
 OBjaŚNIeNIa SkRótóW
-1) aIS system automatycznej identyfikacji (automatic Identification System);
-2) aIS-SaRt nadajnik alarmowy systemu aIS (automatic Identification System Search and Rescue transmitter);
-3) alRS spis sygnałów radiowych admiralicji Brytyjskiej (admiralty list of Radio Signals);
-4) aRcS serwis map rastrowych admiralicji Brytyjskiej (admiralty Raster chart Service);
-5) aRPa radar z automatycznym śledzeniem ech (automatic Radar Plotting aid);
-6) aVcS serwis map wektorowych admiralicji Brytyjskiej (admiralty Vector chart Service);
-7) BhMW Biuro hydrograficzne Marynarki Wojennej;
-8) DGPS globalny różnicowy system pozycyjny (Differential Global Positioning System);
-9) ecDIS system obrazowania elektronicznych map i informacji nawigacyjnych (electronic chart Display and Information System);
-10) eNc elektroniczna mapa nawigacyjna (electronic Navigational chart);
-11) ePIRB awaryjna radiopława pozycyjna (emergency Position Indicating Radio Beacon);
-12) GMDSS Światowy Morski System łączności alarmowej i Bezpieczeństwa (Global Maritime Distress and Safety System);
-13) GPS globalny system pozycyjny (Global Positioning System);
-14) Iala Międzynarodowe Stowarzyszenie Służb Oznakowania Nawigacyjnego (International association of lighthouse authorities);
-15) IaMSaR Międzynarodowy lotniczy i morski poradnik poszukiwania i ratownictwa (International aeronautical and Maritime Search and Rescue Manual);
-16) IBS zintegrowany system mostka nawigacyjnego (Integrated Bridge System);
-17) IMO Międzynarodowa Organizacja Morska (International Maritime Organization);
-18) INS zintegrowany system nawigacji (Integrated Navigation System);
-19) ItU-R Sektor Radiokomunikacji Międzynarodowego Związku telekomunikacyjnego (International telecommunication Union Radiocommunication Sector);
-20) kodeks IMDG Międzynarodowy morski kodeks towarów niebezpiecznych (the International Maritime Dangerous Goods code), o którym mowa w prawidle 1 rozdziału VII konwencji SOlaS;
-21) kodeks IMSBc Międzynarodowy morski kodeks bezpiecznego przewozu stałych ładunków masowych (the International Maritime Solid Bulk cargoes code), o którym mowa w prawidle 1 ust. 2 rozdziału VI konwencji SOlaS;
-22) kodeks lSa Międzynarodowy kodeks środków ratunkowych (the International life-Saving appliance code), o którym mowa w prawidle 3 rozdziału III konwencji SOlaS;
-23) konwencja cOlReG konwencja w sprawie międzynarodowych przepisów o zapobieganiu zderzeniom na morzu z 1972 roku, sporządzona w londynie dnia 20 października 1972 r. (Dz. U. z 1977 r. poz. 61 i 62 oraz z 1984 r.
+1) aIS – system automatycznej identyfikacji (automatic Identification System);
+2) aIS-SaRt – nadajnik alarmowy systemu aIS (automatic Identification System – Search and Rescue transmitter);
+3) alRS – spis sygnałów radiowych admiralicji Brytyjskiej (admiralty list of Radio Signals);
+4) aRcS – serwis map rastrowych admiralicji Brytyjskiej (admiralty Raster chart Service);
+5) aRPa – radar z automatycznym śledzeniem ech (automatic Radar Plotting aid);
+6) aVcS – serwis map wektorowych admiralicji Brytyjskiej (admiralty Vector chart Service);
+7) BhMW – Biuro hydrograficzne Marynarki Wojennej;
+8) DGPS – globalny różnicowy system pozycyjny (Differential Global Positioning System);
+9) ecDIS – system obrazowania elektronicznych map i informacji nawigacyjnych (electronic chart Display and Information System);
+10) eNc – elektroniczna mapa nawigacyjna (electronic Navigational chart);
+11) ePIRB – awaryjna radiopława pozycyjna (emergency Position Indicating Radio Beacon);
+12) GMDSS – Światowy Morski System łączności alarmowej i Bezpieczeństwa (Global Maritime Distress and Safety System);
+13) GPS – globalny system pozycyjny (Global Positioning System);
+14) Iala – Międzynarodowe Stowarzyszenie Służb Oznakowania Nawigacyjnego (International association of lighthouse authorities);
+15) IaMSaR – Międzynarodowy lotniczy i morski poradnik poszukiwania i ratownictwa (International aeronautical and Maritime Search and Rescue Manual);
+16) IBS – zintegrowany system mostka nawigacyjnego (Integrated Bridge System);
+17) IMO – Międzynarodowa Organizacja Morska (International Maritime Organization);
+18) INS – zintegrowany system nawigacji (Integrated Navigation System);
+19) ItU-R – Sektor Radiokomunikacji Międzynarodowego Związku telekomunikacyjnego (International telecommunication Union – Radiocommunication Sector);
+20) kodeks IMDG – Międzynarodowy morski kodeks towarów niebezpiecznych (the International Maritime Dangerous Goods code), o którym mowa w prawidle 1 rozdziału VII konwencji SOlaS;
+21) kodeks IMSBc – Międzynarodowy morski kodeks bezpiecznego przewozu stałych ładunków masowych (the International Maritime Solid Bulk cargoes code), o którym mowa w prawidle 1 ust. 2 rozdziału VI konwencji SOlaS;
+22) kodeks lSa – Międzynarodowy kodeks środków ratunkowych (the International life-Saving appliance code), o którym mowa w prawidle 3 rozdziału III konwencji SOlaS;
+23) konwencja cOlReG – konwencja w sprawie międzynarodowych przepisów o zapobieganiu zderzeniom na morzu z 1972 roku, sporządzona w londynie dnia 20 października 1972 r. (Dz. U. z 1977 r. poz. 61 i 62 oraz z 1984 r.
 poz. 106) (convention on the International Regulations for Preventing collisions at Sea);
-24) konwencja SOlaS Międzynarodowa konwencja o bezpieczeństwie życia na morzu, 1974, sporządzona w londynie dnia 1 listopada 1974 r. (Dz. U. z 1984 r. poz. 318 i 319 oraz z 1986 r. poz. 177) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. poz. 320 i 321), i z Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w londynie dnia 11 listopada 1988 r. (Dz. U. z 2008 r.
+24) konwencja SOlaS – Międzynarodowa konwencja o bezpieczeństwie życia na morzu, 1974, sporządzona w londynie dnia 1 listopada 1974 r. (Dz. U. z 1984 r. poz. 318 i 319 oraz z 1986 r. poz. 177) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. poz. 320 i 321), i z Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w londynie dnia 11 listopada 1988 r. (Dz. U. z 2008 r.
 poz. 1173 i 1174) (International convention for the Safety of life at Sea);
-25) konwencja StcW Międzynarodowa konwencja o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzona w londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201 i 202, z 1999 r. poz. 286 oraz z 2013 r. poz. 1092 i 1093) (International convention on Standards of training, certification and Watchkeeping for Seafarers);
-27) MeMS mikroukład elektromechaniczny (microelectromechanical system);
-28) MFaG poradnik pierwszej pomocy medycznej (załącznik do kodeksu IMDG) (Medical First aid Guide for Use in accidents Involving Dangerous Goods);
-29) MkS międzynarodowy kod sygnałowy;
-30) MPDM międzynarodowe prawo drogi morskiej określone w konwencji cOlReG;
-31) NaVteX system teleksu nawigacyjnego (Navigation telex System);
-32) Plc programowalny sterownik logiczny (Programmable logic controller);
-33) RNc rastrowa mapa nawigacyjna (Raster Navigational chart);
-34) SaR Służba Poszukiwania i Ratownictwa (Search and Rescue);
-35) SaRt transponder radarowy (Search and Rescue transponder);
-36) VtS System kontroli Ruchu Statków (Vessel traffic System).
+25) konwencja StcW – Międzynarodowa konwencja o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzona w londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201 i 202, z 1999 r. poz. 286 oraz z 2013 r. poz. 1092 i 1093) (International convention on Standards of training, certification and Watchkeeping for Seafarers);
+26) loran c – system nawigacji hiperbolicznej dużego zasięgu (long Range aid to Navigation);
+27) MeMS – mikroukład elektromechaniczny (microelectromechanical system);
+28) MFaG – poradnik pierwszej pomocy medycznej (załącznik do kodeksu IMDG) (Medical First aid Guide for Use in accidents Involving Dangerous Goods);
+29) MkS – międzynarodowy kod sygnałowy;
+30) MPDM – międzynarodowe prawo drogi morskiej określone w konwencji cOlReG;
+31) NaVteX – system teleksu nawigacyjnego (Navigation telex System);
+32) Plc – programowalny sterownik logiczny (Programmable logic controller);
+33) RNc – rastrowa mapa nawigacyjna (Raster Navigational chart);
+34) SaR – Służba Poszukiwania i Ratownictwa (Search and Rescue);
+35) SaRt – transponder radarowy (Search and Rescue transponder);
+36) VtS – System kontroli Ruchu Statków (Vessel traffic System).
 

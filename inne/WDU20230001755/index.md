@@ -8,10 +8,10 @@ pos: 1755
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 sierpnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1755 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 28 sierpnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1755/text.pdf) |
 
-Poz. 1755 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 28 sierpnia 2023 r.
 zmieniające rozporządzenie w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia Na podstawie art. 47 ust. 1 pkt 1 lit. c, d i g ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r.
-poz. 900, 1672 i 1718) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 stycznia 2018 r. w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia (Dz. U. poz. 467, z 2020 r.
+poz. 900, 1672 i 1718) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 stycznia 2018 r. w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia (Dz. U. poz. 467, z 2020 r.
 poz. 1248, z 2021 r. poz. 1537, z 2022 r. poz. 622 i 1705 oraz z 2023 r. poz. 314) wprowadza się następujące zmiany:
 1) w § 1:
 a) uchyla się pkt 2,
@@ -40,7 +40,6 @@ Rozwój fizyczny i sprawność fizyczna.
 W tym bloku tematycznym zawarto treści związane z diagnozowaniem i interpretowaniem rozwoju fizycznego i sprawności fizycznej. Testy sprawnościowe, o których mowa w art. 28 ust. 2a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672 i 1718), są przeprowadzane w okresie od marca do kwietnia w każdej klasie.
 Testy sprawnościowe obejmują:
 1) bieg wahadłowy 10 razy po 5 metrów – służący pomiarowi zdolności szybkościowo-siłowo-koordynacyjnych;
-Dziennik Ustaw – 2 – Poz. 1755
 2) 20-metrowy wytrzymałościowy bieg wahadłowy wykonywany według Europejskiego Testu Sprawności Fizycznej – Eurofit, opracowanego przez Radę Europy – służący pomiarowi zdolności wytrzymałościowych w biegu;
 3) podpór leżąc przodem na przedramionach (deska) – służący pomiarowi zdolności siłowo-wytrzymałościowych całego ciała;
 4) skok w dal z miejsca – służący pomiarowi skoczności i siły.

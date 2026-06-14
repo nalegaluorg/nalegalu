@@ -8,7 +8,7 @@ pos: 1492
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 128/9/A/2006 WYROK z dnia 30 października 2006 r.

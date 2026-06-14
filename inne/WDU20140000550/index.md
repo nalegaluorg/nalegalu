@@ -8,10 +8,10 @@ pos: 550
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 kwietnia 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 550 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 24 kwietnia 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/550/text.pdf) |
 
-Poz. 550 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 24 kwietnia 2014 r.
-w sprawie sposobu przechowywania i niszczenia zapisów obrazu zarejestrowanego w pomieszczeniach strzeżonych ośrodków, aresztów dla cudzoziemców lub w pomieszczeniach przeznaczonych dla osób zatrzymanych oraz w innych wykorzystywanych przez Straż Graniczną obiektach i obszarach, a także sposobu udostępniania tych zapisów uprawnionym podmiotom Na podstawie art. 11 ust. 5b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm. ) zarządza się, co następuje: § 1. 1. Obraz zarejestrowany przy użyciu środków technicznych w pomieszczeniach strzeżonych ośrodków, aresztów dla cudzoziemców lub w pomieszczeniach przeznaczonych dla osób zatrzymanych oraz w innych wykorzystywanych przez Straż Graniczną obiektach i obszarach, zwany dalej „obrazem”, zapisuje się i przechowuje na informatycznym nośniku danych.
+w sprawie sposobu przechowywania i niszczenia zapisów obrazu zarejestrowanego w pomieszczeniach strzeżonych ośrodków, aresztów dla cudzoziemców lub w pomieszczeniach przeznaczonych dla osób zatrzymanych oraz w innych wykorzystywanych przez Straż Graniczną obiektach i obszarach, a także sposobu udostępniania tych zapisów uprawnionym podmiotom Na podstawie art. 11 ust. 5b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Obraz zarejestrowany przy użyciu środków technicznych w pomieszczeniach strzeżonych ośrodków, aresztów dla cudzoziemców lub w pomieszczeniach przeznaczonych dla osób zatrzymanych oraz w innych wykorzystywanych przez Straż Graniczną obiektach i obszarach, zwany dalej „obrazem”, zapisuje się i przechowuje na informatycznym nośniku danych.
 2. Zapis obrazu przechowuje się w pomieszczeniach dostosowanych do przechowywania informatycznych nośników danych, w których zostały:
 1) zapewnione warunki do prawidłowego odczytu zarejestrowanego obrazu;
 2) wprowadzone zabezpieczenia przed nieuprawnionym dostępem do danych przechowywanych na tych nośnikach.

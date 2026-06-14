@@ -8,10 +8,10 @@ pos: 2097
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2097 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 22 września 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2097/text.pdf) |
 
-Poz. 2097 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 22 września 2023 r.
-w sprawie Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Badań Klinicznych Na podstawie art. 49 ust. 13 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Badań Klinicznych Na podstawie art. 49 ust. 13 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) regulamin Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Badań Klinicznych, o którym mowa w art. 49 ust. 1 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi, zwanego dalej „Zespołem”;
 2) szczegółowe zadania sekretarza Zespołu;
 3) wysokość wynagrodzenia członków Zespołu.
@@ -36,7 +36,6 @@ w sprawie Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Badań Klinic
 4. Członkowie składu wyznaczonego do wydania opinii zapoznają się z projektem opinii i zgłaszają sprawozdawcy swoje uwagi w terminie tygodnia od dnia otrzymania projektu opinii, po czym członkowie składu wyznaczonego do wydania opinii w ciągu dwóch tygodni uzgadniają końcowe brzmienie opinii.
 § 3. 1. Opinia jest przyjmowana większością głosów członków składu wyznaczonego do wydania opinii. Członek składu wyznaczonego do wydania opinii nie może wstrzymać się od wyrażenia swojego głosu w sprawie opinii. W przypadku zdania odrębnego członek składu wyznaczonego do wydania opinii wskazuje je w treści opinii.
 2. Opinia jest uzgadniana i przyjmowana w trybie obiegowym, z użyciem dostępnych systemów teleinformatycznych lub systemów łączności pozwalających na zachowanie niezbędnych środków bezpieczeństwa ochrony danych osobowych.
-Dziennik Ustaw – 2 – Poz. 2097
 3. Opinia zawiera: oznaczenie wniosku i wnioskodawcy, datę wydania, imiona i nazwiska członków składu wyznaczonego do jej wydania ze wskazaniem sprawozdawcy, wnioski, uzasadnienie, w tym wskazanie faktów, na których wnioski opinii są oparte, oraz stanowisko odrębne, jeżeli było zgłoszone, ze wskazaniem zgłaszającego.
 4. Członek Zespołu wyznaczony do pełnienia funkcji sprawozdawcy przekazuje opinię sekretarzowi Zespołu niezwłocznie po jej przyjęciu, nie później niż w terminie sześciu tygodni od dnia wyznaczenia składu Zespołu i udostępnienia jego członkom dokumentów zgromadzonych w aktach postępowania w sprawie świadczenia kompensacyjnego. W przypadku, o którym mowa w § 2 ust. 3, w okresie od dnia zwrócenia się o uzupełnienie akt postępowania do dnia przekazania wymaganych informacji albo poinformowania o braku tych informacji nie biegnie termin, o którym mowa w zdaniu pierwszym.
 § 4. W uzasadnionych przypadkach, jeżeli jest to konieczne dla osiągnięcia celów postępowania w sprawie świadczenia kompensacyjnego, w tym gdy wyjdą na jaw nowe okoliczności faktyczne lub nowe dowody, sekretarz Zespołu może przekazać sprawę do tego samego lub innego składu Zespołu w celu wydania kolejnej opinii. Do wydania kolejnej opinii przepisy § 2 i § 3 stosuje się odpowiednio.

@@ -8,10 +8,10 @@ pos: 2323
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 listopada 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2323 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 7 listopada 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2323/text.pdf) |
 
-Poz. 2323 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 7 listopada 2022 r.
-zmieniające rozporządzenie w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz Na podstawie art. 43 ust. 3 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2022 r. poz. 1173 i 2185) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Środowiska z dnia 23 marca 2005 r. w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz (Dz. U. poz. 548, z późn. zm. ) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz Na podstawie art. 43 ust. 3 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2022 r. poz. 1173 i 2185) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Środowiska z dnia 23 marca 2005 r. w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz (Dz. U. poz. 548, z późn. zm. ) wprowadza się następujące zmiany:
 1) po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Przepisy rozporządzenia, z wyłączeniem przepisów § 6 ust. 1 pkt 2, 4 i 5, § 22 ust. 1 i 4, § 42 ust. 4, § 50 i § 51, stosuje się do wykonywania polowania na ptaki i ssaki należące do inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii lub inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski.”;
 2) w § 3 ust. 2 i 3 otrzymują brzmienie: „2. Używana do polowania broń myśliwska o lufach gwintowanych musi być przeznaczona do strzelania amunicją myśliwską charakteryzującą się energią pocisku nie mniejszą niż 400 J w odległości 100 m od wylotu lufy.
 3. Polowanie na zwierzynę grubą odbywa się wyłącznie z użyciem broni myśliwskiej, o której mowa w ust. 2, przy czym:
@@ -36,7 +36,6 @@ a) łosie – energia pocisku w odległości 100 m od wylotu lufy nie może być
 b) jelenie, daniele, muflony i dziki, z wyłączeniem dzików warchlaków – energia pocisku w odległości 100 m od wylotu lufy nie może być mniejsza niż 2000 J,
 c) dziki warchlaki oraz sarny – energia pocisku w odległości 100 m od wylotu lufy nie może być mniejsza niż 1000 J.”;
 3) w § 4 ust. 1a otrzymuje brzmienie: „1a. Do wykonywania polowania w nocy na dziki, lisy, borsuki, kuny domowe, norki amerykańskie oraz ptaki i ssaki należące do inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii lub inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski dopuszcza się używanie noktowizyjnych i termowizyjnych celowniczych urządzeń optycznych.”;
-Dziennik Ustaw – 2 – Poz. 2323
 4) w § 5 ust. 1a otrzymuje brzmienie: „1a. Polowanie na zające może odbywać się wyłącznie jako polowanie indywidualne przy pomocy ptaków łowczych albo polowanie zbiorowe, z uwzględnieniem § 35.”;
 5) w § 7 w ust. 1:
 a) pkt 1 otrzymuje brzmienie: „1) dziki, lisy, borsuki, kuny domowe, norki amerykańskie oraz ptaki i ssaki należące do inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii lub inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski – przez myśliwego wyposażonego w myśliwską broń palną z zamontowanym celowniczym urządzeniem optycznym, o którym mowa w § 4 ust. 1 lub 1a, oraz lornetkę lub obserwacyjne urządzenie termowizyjne lub noktowizyjne i latarkę;”,

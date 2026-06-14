@@ -8,10 +8,10 @@ pos: 726
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 maja 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 726 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 12 maja 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000726) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/726/text.pdf) |
 
-Poz. 726 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 12 maja 2016 r.
-zmieniające rozporządzenie w sprawie wysokości kar pieniężnych za naruszenia przepisów o organizacji rynku rybnego Na podstawie art. 63 ust. 2 ustawy z dnia 5 grudnia 2008 r. o organizacji rynku rybnego (Dz. U. z 2015 r. poz. 1970) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lipca 2013 r. w sprawie wysokości kar pieniężnych za naruszenia przepisów o organizacji rynku rybnego (Dz. U. poz. 997) w § 2 wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie wysokości kar pieniężnych za naruszenia przepisów o organizacji rynku rybnego Na podstawie art. 63 ust. 2 ustawy z dnia 5 grudnia 2008 r. o organizacji rynku rybnego (Dz. U. z 2015 r. poz. 1970) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lipca 2013 r. w sprawie wysokości kar pieniężnych za naruszenia przepisów o organizacji rynku rybnego (Dz. U. poz. 997) w § 2 wprowadza się następujące zmiany:
 1) w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „skupuje produkty rybne, o których mowa w art. 13 ust. 1 lub 2 ustawy, nie będąc wpisanym do rejestru skupujących, w przypadku nakładania kary po raz:”;
 2) w pkt 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „wystawia i przekazuje dokument sprzedaży lub deklarację przejęcia z naruszeniem art. 62–64, art. 66 lub art. 67 rozporządzenia wymienionego w pkt 5, w przypadku nakładania kary po raz:”;
 3) uchyla się pkt 8 i 9;

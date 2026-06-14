@@ -8,7 +8,7 @@ pos: 250
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie powołania Komisji do Spraw Zaopatrzenia Emerytalnego Twórców oraz szczegółowego określenia jej zadań, składu i trybu działania.
@@ -25,7 +25,8 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990270250) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/250/text.pdf) |
 
 Na podstawie art. 8 ust. 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. Nr 137, poz. 887 i Nr 162, poz. 1118 i 1126 oraz z 1999 r. Nr 26, poz.
-228) zarządza się, co następuje: § 1.
+228) zarządza się, co następuje:
+§ 1.
 Powołuje się Komisję do Spraw Zaopatrzenia Emerytalnego Twórców, zwaną dalej „Komisją”.
 § 2.
 1. Zadaniem komisji jest uznawanie działalności za twórczą lub artystyczną i ustalenie daty jej rozpoczęcia.

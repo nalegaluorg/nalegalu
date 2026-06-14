@@ -8,10 +8,10 @@ pos: 949
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 sierpnia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 949 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 9 sierpnia 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000949) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/949/text.pdf) |
 
-Poz. 949 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 9 sierpnia 2012 r.
-w sprawie szczegółowych wymagań w zakresie wyposażenia technicznego i wielkości potencjału kadrowego niezbędnego do należytego i terminowego wykonywania prac urządzeniowych Na podstawie art. 25 pkt 2 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm. ) zarządza się, co następuje: § 1. Przedsiębiorca powinien dysponować odpowiednim wyposażeniem technicznym, umożliwiającym wykonywanie prac urządzeniowych przy sporządzaniu planów urządzenia lasu obejmującym:
+w sprawie szczegółowych wymagań w zakresie wyposażenia technicznego i wielkości potencjału kadrowego niezbędnego do należytego i terminowego wykonywania prac urządzeniowych Na podstawie art. 25 pkt 2 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm. ) zarządza się, co następuje:
+§ 1. Przedsiębiorca powinien dysponować odpowiednim wyposażeniem technicznym, umożliwiającym wykonywanie prac urządzeniowych przy sporządzaniu planów urządzenia lasu obejmującym:
 1) przyrządy do pomiarów drzew i drzewostanów, umożliwiające wykonywanie pomiarów średnicy drzew na wysokości 1,3 m z dokładnością do 1 mm oraz wysokości drzew;
 2) dalmierze lub taśmy;
 3) odbiorniki systemu nawigacji satelitarnej (GPS);

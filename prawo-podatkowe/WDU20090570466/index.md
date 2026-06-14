@@ -8,7 +8,7 @@ pos: 466
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Ordynacja podatkowa oraz ustawy o opłacie skarbowej
@@ -28,6 +28,14 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090570466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/466/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** uchyla się art. 3c;
+- **2)** w art. 80a:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Jeżeli odrębne ustawy nie stanowią inaczej, deklaracja, w tym deklaracja składana za pomocą środków komunikacji elektronicznej, może być podpisana także przez pełnomocnika podatnika, płatnika lub inkasenta.”,
+    - **b)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej oraz zawiadomienie o odwołaniu tego pełnomocnictwa podatnik, płatnik lub inkasent składa naczelnikowi urzędu skarbowego właściwemu w sprawach ewidencji podatników i płatników.”,
+    - **c)** dodaje się § 5 w brzmieniu:
+
+§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór pełnomocnictwa do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej oraz wzór zawiadomienia o odwołaniu tego pełnomocnictwa, uwzględniając zakres pełnomocnictwa i dane identyfikujące podatnika, płatnika lub inkasenta oraz pełnomocnika.”.
 
 **Art. 2.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm. ) w załączniku do ustawy w części IV w kolumnie 4 dodaje się pkt 5 w brzmieniu: „5) jeżeli dotyczy podpisywania deklaracji podatkowych składanych za pomocą środków komunikacji elektronicznej”.
 

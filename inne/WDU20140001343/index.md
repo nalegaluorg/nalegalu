@@ -8,10 +8,10 @@ pos: 1343
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 października 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1343 Umowa między Rzecząpospolitą Polską a Wspólnotą Bahamów o wymianie informacji w sprawach podatkowych oraz Protokół do Umowy między Rzecząpospolitą Polską a Wspólnotą Bahamów o wymianie informacji w sprawach podatkowych, podpisane w Nowym Jorku dnia 28 czerwca 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001343) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1343/text.pdf) |
 
-Umowa między Rzecząpospolitą Polską a Wspólnotą Bahamów o wymianie informacji w sprawach podatkowych oraz Protokół do Umowy między Rzecząpospolitą Polską a Wspólnotą Bahamów o wymianie informacji w sprawach podatkowych, podpisane w Nowym Jorku dnia 28 czerwca 2013 r.
-W imieniu Rzeczypospolitej Polskiej PRezydeNt RzeczyPosPoliteJ PolskieJ podaje do powszechnej wiadomości: dnia 28 czerwca 2013 r. w Nowym Jorku zostały podpisane Umowa między Rzecząpospolitą Polską a Wspólnotą Bahamów o wymianie informacji w sprawach podatkowych oraz Protokół do Umowy między Rzecząpospolitą Polską a Wspólnotą Bahamów o wymianie informacji w sprawach podatkowych, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową oraz protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: zostały one uznane za słuszne zarówno w całości, jak i każde z postanowień w nich zawartych, są przyjęte, ratyfikowane i potwierdzone, będą niezmiennie zachowywane.
+W imieniu Rzeczypospolitej Polskiej PRezydeNt RzeczyPosPoliteJ PolskieJ podaje do powszechnej wiadomości: dnia 28 czerwca 2013 r. w Nowym Jorku zostały podpisane Umowa między Rzecząpospolitą Polską a Wspólnotą Bahamów o wymianie informacji w sprawach podatkowych oraz Protokół do Umowy między Rzecząpospolitą Polską a Wspólnotą Bahamów o wymianie informacji w sprawach podatkowych, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową oraz protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – zostały one uznane za słuszne zarówno w całości, jak i każde z postanowień w nich zawartych, – są przyjęte, ratyfikowane i potwierdzone, – będą niezmiennie zachowywane.
 Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 10 kwietnia 2014 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.
+Prezes Rady Ministrów: D. Tusk
 

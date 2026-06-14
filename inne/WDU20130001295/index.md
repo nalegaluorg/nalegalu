@@ -8,10 +8,10 @@ pos: 1295
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 listopada 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1295 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 6 listopada 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001295) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1295/text.pdf) |
 
-Poz. 1295 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 6 listopada 2013 r.
-w sprawie sposobu sporządzania wniosków o udzielenie pomocy kierowanych do państw członkowskich, jednolitych formularzy służących do powiadomienia i jednolitych tytułów wykonawczych Na podstawie art. 19 ust. 5 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289) zarządza się, co następuje: § 1. 1. Wnioski o udzielenie pomocy kierowane do państw członkowskich, jednolite formularze służące do powiadomienia i jednolite tytuły wykonawcze sporządza się z wykorzystaniem aplikacji udostępnionej w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+w sprawie sposobu sporządzania wniosków o udzielenie pomocy kierowanych do państw członkowskich, jednolitych formularzy służących do powiadomienia i jednolitych tytułów wykonawczych Na podstawie art. 19 ust. 5 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289) zarządza się, co następuje:
+§ 1. 1. Wnioski o udzielenie pomocy kierowane do państw członkowskich, jednolite formularze służące do powiadomienia i jednolite tytuły wykonawcze sporządza się z wykorzystaniem aplikacji udostępnionej w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 2. W przypadku gdy jednolity formularz służący do powiadomienia albo jednolity tytuł wykonawczy są przekazywane przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, dokumenty te sporządza się odpowiednio w ramach wniosku o:
 1) powiadomienie albo
 2) odzyskanie należności pieniężnych.

@@ -8,7 +8,7 @@ pos: 1569
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego
@@ -59,6 +59,11 @@ source: "isap-pdf"
 **Art. 7.** Organami właściwymi w sprawach kompensacji są: minister właściwy do spraw Skarbu Państwa oraz Prezes Zarządu Agencji Rozwoju Przemysłu S.A., zwany dalej „Prezesem Agencji”. Stroną w postępowaniu kompensacyjnym jest stocznia.
 
 **Art. 8.** Minister właściwy do spraw Skarbu Państwa :
+
+- **1)** sprawuje nadzór nad wszczęciem i przebiegiem postępowania kompensacyjnego;
+- **2)** jest organem wyższego stopnia w stosunku do Prezesa Agencji;
+- **3)** powołuje obserwatora, zgodnie z procedurą opisaną w art. 10 ust. 1;
+- **4)** wykonuje inne zadania określone w ustawie.
 
 **Art. 9.**
 
@@ -665,7 +670,15 @@ source: "isap-pdf"
 
 **Art. 77.** Po zakończeniu badania sprawozdania finansowego, sporządzeniu projektu podziału majątku stoczni na zespoły składników oraz dokonaniu wyceny wartości rynkowej majątku stoczni, o których mowa w art. 76 ust. 1, jednak nie później niż w terminie 2 miesięcy od dnia wszczęcia postępowania kompensacyjnego, zarządca kompensacji sporządza:
 
+- **1)** plan sprzedaży;
+- **2)** spis znanych na dzień sporządzenia planu sprzedaży zobowiązań publicznoprawnych, z podziałem na poszczególne tytuły i lata oraz ze wskazaniem kwot zaległości, odsetek za zwłokę i opłat prolongacyjnych, a także listę zabezpieczeń tych wierzytelności;
+- **3)** spis znanych na dzień sporządzenia planu sprzedaży zobowiązań cywilnoprawnych, z podziałem na wierzycieli, tytuły, lata, oraz ze wskazaniem kwot zaległości, odsetek za zwłokę, a także listę zabezpieczeń tych wierzytelności.
+
 **Art. 78.** Plan sprzedaży zawiera:
+
+- **1)** określenie zespołów składników majątkowych stoczni podlegających sprzedaży;
+- **2)** określenie szczegółowego trybu i oznaczenie terminów sprzedaży poszczególnych zespołów składników majątkowych stoczni;
+- **3)** preliminarz kosztów i wydatków związanych z realizacją planu sprzedaży.
 
 **Art. 79.**
 
@@ -758,6 +771,14 @@ source: "isap-pdf"
 
 **Art. 90.** W zgłoszeniu wierzytelności należy podać:
 
+- **1)** imię i nazwisko bądź nazwę albo firmę wierzyciela i odpowiednio jego miejsce zamieszkania albo siedzibę;
+- **2)** określenie wierzytelności wraz z należnościami ubocznymi oraz wartość wierzytelności niepieniężnej;
+- **3)** dowody stwierdzające istnienie wierzytelności;
+- **4)** kategorię, do której wierzytelność ma być zaliczona;
+- **5)** zabezpieczenie związane z wierzytelnością oraz sumę zabezpieczenia;
+- **6)** przedmiot zabezpieczenia wierzytelności, w stosunku do której stocznia nie jest dłużnikiem osobistym;
+- **7)** stan sprawy, jeżeli co do wierzytelności toczy się postępowanie sądowe lub administracyjne.
+
 #### Rozdział 11 Sprawdzanie zgłoszonych wierzytelności
 
 **Art. 91.** Jeżeli zgłoszenie wierzytelności odpowiada wymaganiom określonym w art. 89 i 90, Prezes Agencji przekazuje odpis zgłoszenia zarządcy kompensacji.
@@ -844,6 +865,12 @@ source: "isap-pdf"
 8. Wierzytelności niezabezpieczone, wynikające z obowiązku zwrotu pomocy publicznej udzielonej stoczni, podlegają zaspokojeniu na zasadach i według właściwej kategorii, określonych w art. 110.
 
 **Art. 108.** Po dokonaniu sprzedaży składników majątku stoczni i zatwierdzeniu listy wierzycieli przez sąd zarządca kompensacji sporządza plan podziału kwot, o których mowa w art. 106, zwany dalej „planem podziału”. W planie podziału zarządca kompensacji:
+
+- **1)** określa kwotę podlegającą podziałowi;
+- **2)** wymienia wierzytelności i prawa osób uczestniczących w podziale;
+- **3)** określa kwotę, jaka każdemu z uczestników przypada z podziału;
+- **4)** wskazuje, które kwoty mają być wypłacone, a które i z jakich przyczyn mają być pozostawione w depozycie na subkoncie rachunku bankowego stoczni lub w depozycie sądowym;
+- **5)** określa, czy plan podziału jest częściowy czy ostateczny.
 
 **Art. 109.**
 
@@ -955,6 +982,10 @@ source: "isap-pdf"
 
 **Art. 119.** Odszkodowanie, o którym mowa w art. 118 ust. 2, nie przysługuje pracownikowi stoczni, o którym mowa w art. 118 ust. 1, jeżeli:
 
+- **1)** pracownik nie złożył oferty, o której mowa w art. 118 ust. 1;
+- **2)** pracownik złożył ofertę, o której mowa w art. 118 ust. 1, po wyznaczonym terminie;
+- **3)** stosunek pracy został rozwiązany z pracownikiem zgodnie z art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
 **Art. 120.**
 
 1. Po zatwierdzeniu planu sprzedaży składników majątkowych stoczni, nie później jednakże niż w dniu 15 marca 2009 r., zarządca kompensacji wzywa pracowników stoczni objętych programem dobrowolnych odejść, którzy nie złożyli oferty w odpowiedzi na pierwsze wezwanie, do złożenia, w terminie do dnia 25 marca 2009 r., oferty rozwiązania stosunku pracy za porozumieniem stron w dniu wybranym przez zarządcę kompensacji; wraz z oświadczeniem o związaniu oferenta ofertą do dnia 31 maja 2009 r.
@@ -1047,6 +1078,10 @@ source: "isap-pdf"
 
 **Art. 125.** Źródłem pokrycia kosztów i wydatków, o których mowa w art. 124, są w szczególności:
 
+- **1)** bieżące przychody stoczni oraz dochód uzyskany z prowadzenia działalności na majątku stoczni w okresie poprzedzającym sprzedaż lub dochód uzyskany z wydzierżawienia na ten okres składników majątkowych stoczni;
+- **2)** Fundusz Gwarantowanych Świadczeń Pracowniczych;
+- **3)** Fundusz Restrukturyzacji Przedsiębiorców.
+
 **Art. 126.** Ze źródła, o którym mowa w art. 125 pkt 1, pokrywa się opłaty oraz koszty sądowe i administracyjne, koszty obwieszczeń i ogłoszeń oraz wydatki na wynagrodzenia: członków zarządu stoczni oraz ekspertów, o których mowa w art. 10 ust. 2, jak również należne od wynagrodzeń tych osób składki na ubezpieczenia społeczne, ubezpieczenie zdrowotne oraz składki na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych.
 
 **Art. 127.**
@@ -1084,6 +1119,9 @@ source: "isap-pdf"
 **Art. 130.** Prezes Agencji wydaje decyzję o zakończeniu postępowania kompensacyjnego, jeżeli został wykonany zatwierdzony plan podziału.
 
 **Art. 131.** Decyzja o zakończeniu postępowania kompensacyjnego zawiera w szczególności:
+
+- **1)** oznaczenie firmy i siedziby stoczni;
+- **2)** uzasadnienie.
 
 **Art. 132.**
 

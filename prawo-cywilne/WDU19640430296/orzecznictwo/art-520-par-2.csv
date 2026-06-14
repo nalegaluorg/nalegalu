@@ -163,6 +163,7 @@ saos_id|date|court|case_number|type|score|saos_url
 222599|2016-03-07|SO|III Ca 1761/15|Wyrok|40|https://www.saos.org.pl/judgments/222599
 149917|2015-01-22|SO|III Ca 1181/14|Wyrok|40|https://www.saos.org.pl/judgments/149917
 543719|2026-02-11|SO|IV Ca 1322/25|Postanowienie|31|https://www.saos.org.pl/judgments/543719
+545030|2025-11-06|SO|II Ca 2109/24|Postanowienie|31|https://www.saos.org.pl/judgments/545030
 538378|2025-06-09|SO|II Ca 2901/24|Postanowienie|31|https://www.saos.org.pl/judgments/538378
 538369|2025-05-08|SO|II Ca 1592/24|Postanowienie|31|https://www.saos.org.pl/judgments/538369
 538646|2025-04-24|SO|XV Ca 2721/24|Postanowienie|31|https://www.saos.org.pl/judgments/538646
@@ -177,6 +178,8 @@ saos_id|date|court|case_number|type|score|saos_url
 516222|2024-09-26|SO|I Ns 111/22|Postanowienie|31|https://www.saos.org.pl/judgments/516222
 500226|2024-08-29|SO|I Ns 495/24|Postanowienie|31|https://www.saos.org.pl/judgments/500226
 537276|2024-07-23|SO|VII Ns 80/24|Postanowienie|31|https://www.saos.org.pl/judgments/537276
+545215|2024-06-25|SO|I Ns 102/24|Postanowienie|31|https://www.saos.org.pl/judgments/545215
+545219|2024-06-20|SO|I Ns 186/21|Postanowienie|31|https://www.saos.org.pl/judgments/545219
 533030|2024-06-04|SO|II Ca 966/22|Postanowienie|31|https://www.saos.org.pl/judgments/533030
 525909|2024-05-23|SO|II Ca 728/23|Postanowienie|31|https://www.saos.org.pl/judgments/525909
 501659|2024-04-22|SO|II Ca 1361/17|Postanowienie|31|https://www.saos.org.pl/judgments/501659
@@ -258,6 +261,7 @@ saos_id|date|court|case_number|type|score|saos_url
 535160|2021-11-16|SO|II Ca 605/21|Postanowienie|31|https://www.saos.org.pl/judgments/535160
 471659|2021-11-15|SO|II Ca 295/21|Postanowienie|31|https://www.saos.org.pl/judgments/471659
 538045|2021-10-20|SO|II Ca 107/21|Postanowienie|31|https://www.saos.org.pl/judgments/538045
+545222|2021-09-28|SO|I Ns 33/20|Postanowienie|31|https://www.saos.org.pl/judgments/545222
 450794|2021-09-15|SO|VIII Ns 482/15|Postanowienie|31|https://www.saos.org.pl/judgments/450794
 450791|2021-09-15|SO|VIII Ns 140/15|Postanowienie|31|https://www.saos.org.pl/judgments/450791
 450056|2021-09-08|SO|IV Ca 2584/20|Postanowienie|31|https://www.saos.org.pl/judgments/450056
@@ -303,6 +307,7 @@ saos_id|date|court|case_number|type|score|saos_url
 439790|2020-11-24|SO|XV Ca 136/20|Postanowienie|31|https://www.saos.org.pl/judgments/439790
 428864|2020-11-13|SO|II Ca 84/18|Postanowienie|31|https://www.saos.org.pl/judgments/428864
 428865|2020-11-03|SO|II Ca 880/19|Postanowienie|31|https://www.saos.org.pl/judgments/428865
+545223|2020-10-30|SO|I Ns 344/19|Postanowienie|31|https://www.saos.org.pl/judgments/545223
 423471|2020-10-29|SO|I Ns 505/18|Postanowienie|31|https://www.saos.org.pl/judgments/423471
 432524|2020-10-27|SO|I Ns 379/17|Postanowienie|31|https://www.saos.org.pl/judgments/432524
 429912|2020-10-16|SO|II Ca 1689/18|Postanowienie|31|https://www.saos.org.pl/judgments/429912

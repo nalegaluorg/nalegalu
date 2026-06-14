@@ -8,7 +8,7 @@ pos: 284
 act_type: Konwencja
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # KONWENCJA O OCHRONIE PRAW CZŁOWIEKA I PODSTAWOWYCH WOLNOŚCI Rządy Państw-Sygnatariuszy niniejszej Konwencji, członków Rady Europy.
@@ -145,7 +145,7 @@ Europejski Trybunał Praw Człowieka składa się z sędziów, których liczba r
 1. Członków Trybunału wybiera większością głosów Zgromadzenie Konsultacyjne z listy osób przedstawionych przez Państwa-Członków Rady Europy; każde Państwo-Członek przedstawia trzech kandydatów, z których co najmniej dwóch musi być jego obywatelami.
 2. Taką samą procedurę stosuje się, jeśli jest to możliwe, odpowiednio w celu uzupełnienia składu Trybunału w przypadku przystąpienia nowych Państw-Członków do Rady Europy oraz przy obsadzaniu wakujących miejsc.
 3. Kandydaci powinni być ludźmi o najwyższym poziomie moralnym 1 muszą albo posiadać kwalifikacje konieczne do sprawowania wysokiego urzędu sędziowskiego, albo być prawnikami o uznanej kompetencji.
-1. Członkowie Trybunału są wybierani na dziewięć lat. Mogą oni być wybierani ponownie. Jednakże kadencja czterech członków wybranych w pierwszych wyborach upływa po trzech latach, natomiast następnych czterech po sześciu latach.
+1. Członkowie Trybunału są wybierani na dziewięć lat. Mogą oni być wybierani ponownie. Jednakże kadencja czterech członków wybranych w pierwszych wyborach upływa po trzech latach, natomiast następnych czterech - po sześciu latach.
 2. Członkowie, których kadencja ma upłynąć z końcem początkowego okresu trzech lub sześciu lat, są wyznaczani w drodze losowania przez Sekretarza Generalnego Rady Europy bezpośrednio po zakończeniu pierwszych wyborów.
 3. Aby zapewnić, jeżeli jest to możliwe, odnowienie jednej trzeciej składu Trybunału co trzy lata, Zgromadzenie Konsultacyjne może przed rozpoczęciem procedury każdych kolejnych wyborów postanowić, że kadencja lub kadencje jednego lub większej liczby członków, którzy mają zostać wybrani, będzie inna niż dziewięcioletnia, jednakże nie dłuższa niż dwanaście lat i nie krótsza niż sześć lat.
 4. W przypadkach gdy, chodzi o więcej niż jeden mandat, a Zgromadzenie Konsultacyjne zastosuje poprzedni ustęp przydział mandatów zostanie dokonany w drodze losowania przez Sekretarza Generalnego Rady Europy bezpośrednio po zakończeniu wyborów.
@@ -249,7 +249,7 @@ Zbiorowe wydalanie cudzoziemców jest zabronione.
 1. Niniejszy Protokół jest otwarty do podpisu dla Państw-Członków Rady Europy, które są sygnatariuszami Konwencji; podlega ratyfikacji w momencie lub po ratyfikacji Konwencji. Wejdzie w życie po złożeniu pięciu dokumentów ratyfikacyjnych. W stosunku do każdego sygnatariusza, który dokona ratyfikacji później, protokół wejdzie w życie w dniu złożenia dokumentów ratyfikacyjnych.
 2. Dokumenty ratyfikacyjne składa się Sekretarzowi Generalnemu Rady Europy, który notyfikuje Państwom-Członkom dokonanie ratyfikacji.
 Na dowód czego niżej podpisani, będąc do tego należycie upoważnieni, podpisali niniejszy Protokół.
-SporządzonowStrasburgu , dnia 16 września 1963 rokuwjedny megzemplarzu , wjęzykachangielskimifrancuskim , przyczymobatekstysąjed nakowoauten tyczne ; oryginałzostaniezłożonywarchiwachRadyEuropy . Sekr etarzGeneralny przekażeuwierzytelnioneo dp isykażdemuzPaństwSygnatariuszy .
+s SporządzonowStrasburgu , dnia 16 września 1963 rokuwjednymegzemplarzu , wjęzykachangielskimifrancuskim , przyczymobatekstysąjednakowoauten tyczne ; oryginałzostaniezłożonywarchiwachRadyEuropy . SekretarzGeneralny przekażeuwierzytelnioneo dp isykażdemuzPaństw - Sygnatariuszy .
 PROTOKÓŁ SZÓSTY I PODSTAWOWYCH WOLNOŚCI DOTYCZĄCYCH ZNIESIENIA KARY ŚMIERCI Państwa-Członkowie Rady Europy, sygnatariusze niniejszego Protokołu do Konwencji o Ochronie Praw Człowieka i Podstawowych Wolności, podpisanej w Rzymie 4 listopada 1950 roku (zwanej dalej "Konwencją"), zważywszy, że zmiany, jakie nastąpiły w wielu Państwach-Członkach Rady Europy, wskazują na powszechną tendencję na rzecz zniesienia kary śmierci, uzgodniły, co następuje: Zmosi się karę śmierci. Nikt nie może być skazany na taką karę ani nie może nastąpić jej wykonanie.
 Państwo może przewidzieć w swoich ustawach karę Śmierci za czyny popełnione podczas wojny lub w okresie bezpośredniego zagrożenia wojną; kara ta będzie stosowana jedynie w przypadkach przewidzianych przez te ustawy i zgodnie z ich postanowieniami. Państwo zawiadomi Sekretarza Generalnego Rady Europy o odpowiednich postanowieniach tych ustaw.
 Żadne z postanowień niniejszego Protokołu nie może być uchylone na podstawie artykułu 15 Konwencji.

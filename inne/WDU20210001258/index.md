@@ -8,12 +8,10 @@ pos: 1258
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sprawie sposobu oraz wzorów opłatach dofinansowaniu, związanych ze zbieraniem eksploatacji, oraz wpływach zgromadzonych zgodnie przepisami ustawy zużytym sprzęcie elektrycznym elektronicznym Na podstawie art. 400k ust. 7 ustawy dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. 2020 r. poz. 1219, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa sposób oraz wzory:
-
-*ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA dnia 25 czerwca 2021 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1258 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 25 czerwca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,29 +25,38 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1258/text.pdf) |
 
-1) kwartalnej podmiotach uiszczających opłaty, których mowa art. 14 ust. 1 oraz art. 17 ust. 1 2 ustawy dnia 20 stycznia 2005 r. recyklingu eksploatacji (Dz. U. 2020 r. poz. 2056);
-2) zbiorczej o:
-a) zgromadzonych wpływach tytułu opłat, których mowa art. 14 ust. 1 oraz art. 17 ust. 1 2 ustawy dnia 20 stycznia 2005 r. recyklingu eksploatacji,
-b) gminach, które uzyskały dofinansowanie zakresie zbierania porzuconych eksploatacji,
-c) powiatach, które uzyskały dofinansowanie zakresie zbierania eksploatacji;
-3) zbiorczej zgromadzonych wpływach tytułu środków, których mowa art. 15 ust. 3 pkt 2, art. 62 ust. 6, oraz wpływach tytułu opłat, których mowa art. 72 ust. 2 art. 77 ust. 2 ustawy dnia 11 września 2015 r.
-zużytym sprzęcie elektrycznym elektronicznym (Dz. U. 2020 r. poz. 1893).
-§ 2. 1. Wzór kwartalnej informacji, której mowa § 1 pkt 1, jest określony załączniku 1 do rozporządzenia.
-2. Wzór zbiorczej informacji, której mowa § 1 pkt 2, jest określony załączniku 2 do rozporządzenia.
-3. Wzór zbiorczej informacji, której mowa § 1 pkt 3, jest określony załączniku 3 do rozporządzenia.
-§ 3. Informacje, których mowa § 1 pkt 1–3, są przekazywane lub elektronicznej.
-§ 4. Traci moc rozporządzenie Ministra Środowiska dnia 27 czerwca 2017 r. sprawie opłatach dofinansowaniu, związanych ze zbieraniem eksploatacji, oraz wpływach zgromadzonych zgodnie przepisami ustawy zużytym sprzęcie elektrycznym elektronicznym (Dz. U. poz. 1303).
-§ 5. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu Środowiska: M. Kurtyka eksploatacji (Dz. U. 2020 r. poz. 2056), za ........ kwartał ....... roku Adresat: Główny Inspektor Ochrony Środowiska Dział 1. Dane podmiotach uiszczających opłaty za brak sieci zbierania eksploatacji, których mowa art. 14 ust. 1 ustawy dnia 20 stycznia 2005 r. recyklingu eksploatacji.
-Lp. Nazwa siedziba podmiotu albo imię nazwisko podmiotu, adres podmiotu Wysokość wpłaconej kwoty Data dokonania Uwagi [zł] zapłaty Suma wpływów: Dział 2. Dane podmiotach uiszczających opłaty za brak sieci zbierania na podstawie decyzji wydanych przez Głównego Inspektora Ochrony Środowiska, których mowa art. 17 ust. 1 2 ustawy dnia 20 stycznia 2005 r.
-recyklingu eksploatacji.
-Lp. Nazwa siedziba podmiotu albo imię nazwisko podmiotu, adres podmiotu Wysokość wpłaconej kwoty Data dokonania Uwagi [zł] zapłaty Suma wpływów: ........................................................................
-(data podpis sporządzającego ) Obj a ś n en a: Adres określa się przez podanie: nazwy miasta lub miejscowości, ulicy, domu lokalu, nazwy województwa oraz kodu pocztowego, zgodnie informacją przelewu bankowego.
-Zamieszczenie dodatkowych wyjaśnień odniesieniu do wpłaconej kwoty, na przykład wpłaty poprzedniego Adresat: Minister właściwy do spraw klimatu Dział 1. Informacja zgromadzonych wpływach tytułu opłat, których mowa art. 14 ust. 1 oraz art. 17 ust. 1 2 ustawy dnia 20 stycznia 2005 r. recyklingu eksploatacji.
-Wysokość zgromadzonych wpływów tytułu opłat [zł] za brak sieci zbierania eksploatacji, których mowa art. 14 ust. 1 ustawy dnia 20 stycznia 2005 r. recyklingu eksploatacji za brak sieci zbierania określonych na podstawie decyzji wydanych przez Głównego Inspektora Ochrony Środowiska, których mowa art. 17 ust. 1 2 ustawy dnia 20 stycznia 2005 r. recyklingu eksploatacji Razem: Dział 2. Informacja gminach, które uzyskały dofinansowanie zakresie zbierania porzuconych eksploatacji.
-Lp. Województwo Powiat Gmina Wysokość Ilość porzuconych dofinansowania [tys. zł] eksploatacji, które zostały zebrane gminie [szt.] Dział 3. Informacja powiatach, które uzyskały dofinansowanie zakresie zbierania eksploatacji.
-Lp. Województwo Powiat Wysokość Ilość eksploatacji, dofinansowania które zostały zebrane powiecie [tys. zł] [szt.] .........................................................................
-(data podpis sporządzającego ) Adresat: Minister właściwy do spraw klimatu Lp. Wysokość zgromadzonych wpływów tytułu [w zł] Uwagi 1 środków przekazanych przez przedsiębiorców wykonujących samodzielnie obowiązek prowadzenia publicznych kampanii edukacyjnych na podstawie art. 15 ust. 3 pkt 2 ustawy dnia 11 września 2015 r. zużytym sprzęcie elektrycznym elektronicznym 2 środków przekazanych przez organizacje odzysku sprzętu elektrycznego elektronicznego na podstawie art. 62 ust. 6 ustawy dnia 11 września 2015 r. zużytym sprzęcie elektrycznym elektronicznym 3 opłat produktowych, których mowa art. 72 ust. 2 ustawy dnia 11 września 2015 r.
-zużytym sprzęcie elektrycznym elektronicznym 4 dodatkowych opłat produktowych, których mowa art. 77 ust. 2 ustawy dnia 11 września 2015 r. zużytym sprzęcie elektrycznym elektronicznym Suma wpływów: ........................................................................
-(data podpis sporządzającego ) Ob ja śn ie n a: Zamieszczenie dodatkowych wyjaśnień odniesieniu do wpłaconej kwoty, na przykład wpłaty poprzedniego
+w sprawie sposobu przekazywania oraz wzorów informacji o opłatach i dofinansowaniu, związanych ze zbieraniem pojazdów wycofanych z eksploatacji, oraz wpływach zgromadzonych zgodnie z przepisami ustawy o zużytym sprzęcie elektrycznym i elektronicznym Na podstawie art. 400k ust. 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm. ) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób przekazywania oraz wzory:
+1) kwartalnej informacji o podmiotach uiszczających opłaty, o których mowa w art. 14 ust. 1 oraz art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz. 2056);
+2) zbiorczej informacji o:
+a) zgromadzonych wpływach z tytułu opłat, o których mowa w art. 14 ust. 1 oraz art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
+b) gminach, które uzyskały dofinansowanie w zakresie zbierania porzuconych pojazdów wycofanych z eksploatacji,
+c) powiatach, które uzyskały dofinansowanie w zakresie zbierania pojazdów wycofanych z eksploatacji;
+3) zbiorczej informacji o zgromadzonych wpływach z tytułu środków, o których mowa w art. 15 ust. 3 pkt 2, art. 62 ust. 6, oraz wpływach z tytułu opłat, o których mowa w art. 72 ust. 2 i art. 77 ust. 2 ustawy z dnia 11 września 2015 r.
+o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2020 r. poz. 1893).
+§ 2. 1. Wzór kwartalnej informacji, o której mowa w § 1 pkt 1, jest określony w załączniku nr 1 do rozporządzenia.
+2. Wzór zbiorczej informacji, o której mowa w § 1 pkt 2, jest określony w załączniku nr 2 do rozporządzenia.
+3. Wzór zbiorczej informacji, o której mowa w § 1 pkt 3, jest określony w załączniku nr 3 do rozporządzenia.
+§ 3. Informacje, o których mowa w § 1 pkt 1–3, są przekazywane w postaci papierowej lub w postaci elektronicznej.
+§ 4. Traci moc rozporządzenie Ministra Środowiska z dnia 27 czerwca 2017 r. w sprawie informacji o opłatach i dofinansowaniu, związanych ze zbieraniem pojazdów wycofanych z eksploatacji, oraz wpływach zgromadzonych zgodnie z przepisami ustawy o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. poz. 1303).
+§ 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Klimatu i Środowiska: M. Kurtyka Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U.
+z 2021 r. poz. 941).
+Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r.
+poz. 802, 868, 1047 i 1162.
+Załącznikido rozporządzenia Ministra Klimatu i Środowiskaz dnia25 czerwca(poz. ……) Załącznik nr 1 Załącznik nr 1 WZÓR WZÓR Kwartalna informacja Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej o podmiotach uiszczających opłaty, o których mowa w art. 14 ust. 1 oraz art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycof anych z eksploatacji (Dz. U. z 2020 r. poz. 2056), za ........ kwartał ....... roku Adresat: Główny Inspektor Ochrony Środowiska Dział 1. Dane o podmiotach uiszczających opłaty za brak sieci zbierania pojazdów wycofanych z eksploatacji, o których mowa w art. 14 ust. 1 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji.
+Lp. Nazwa i siedziba podmiotu albo imię Wysokość wpłaconej kwoty Data dokonania Uwagi i nazwisko podmiotu, adres podmiotu [zł] zapłaty Suma wpływów: Dział 2. Dane o podmiotach uiszczających opłaty za brak sieci zbierania pojazdów na podstawie decyzji wydanych przez Głównego Inspektora Ochrony Środowiska, o których mowa w art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r.
+o recyklingu pojazdów wycofanych z eksploatacji.
+Lp. Nazwa i siedziba podmiotu albo imię Wysokość wpłaconej kwoty Data dokonania Uwagi i nazwisko podmiotu, adres podmiotu [zł] zapłaty Suma wpływów: ........................................................................
+(data i podpis sporządzającego informację ) Obj a ś n i en i a: Adres określa się przez podanie: nazwy miasta lub miejscowości, ulicy, numeru domu i lokalu, nazwy województwa oraz kodu pocztowego, zgodnie z informacją z przelewu bankowego.
+Zamieszczenie dodatkowych wyjaśnień w odniesieniu do wpłaconej kwoty, na przykład korekta wpłaty z poprzedniego okresu sprawozdawczego z podaniem numeru działu i pozycji w dziale, którego korekta dotyczy.
+Dotyczy postaci papierowej informacji. W przypadku przekazywania informacji w postaci elektronicznej informację Załącznik nr2 Załącznik nr 2 WZÓR WZÓR Zbiorcza informacja Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej o zgromadzonych wpływach z tytułu opłat za brak sieci zbierania pojazdów wycofanych z eksploatacji, o których mowa w art. 14 ust. 1 i art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz. 2056), oraz o gminach i powiatach, które uzyskały dofinansowanie w zakresie zbierania pojazdów wycofanych z eksploatacji, za rok ............
+Adresat: Minister właściwy do spraw klimatu Dział 1. Informacja o zgromadzonych wpływach z tytułu opłat, o których mowa w art. 14 ust. 1 oraz art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji.
+Wysokość zgromadzonych wpływów z tytułu opłat [zł] za brak sieci zbierania pojazdów wycofanych z eksploatacji, o których mowa w art. 14 ust. 1 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji za brak sieci zbierania pojazdów określonych na podstawie decyzji wydanych przez Głównego Inspektora Ochrony Środowiska, o których mowa w art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji Razem: Dział 2. Informacja o gminach, które uzyskały dofinansowanie w zakresie zbierania porzuconych pojazdów wycofanych z eksploatacji.
+Lp. Województwo Powiat Gmina Wysokość Ilość porzuconych dofinansowania pojazdów wycofanych [tys. zł] z eksploatacji, które zostały zebrane w gminie [szt.] Dział 3. Informacja o powiatach, które uzyskały dofinansowanie w zakresie zbierania pojazdów wycofanych z eksploatacji.
+Lp. Województwo Powiat Wysokość Ilość pojazdów wycofanych z eksploatacji, dofinansowania które zostały zebrane w powiecie [tys. zł] [szt.] .........................................................................
+(data i podpis sporządzającego informację ) Ob ja śn ie n i e: Dotyczy postaci papierowej informacji. W przypadku przekazywania informacji w postaci elektronicznej informację Załącznik nr3 Załącznik nr 3 WZÓR WZÓR Zbiorcza informacja Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej o zgromadzonych wpływach z tytułu środków, o których mowa w art. 15 ust. 3 pkt 2, art. 62 ust. 6 , oraz wpływach z tytułu opłat, o których mowa w art. 72 ust. 2 i art. 77 ust. 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2020 r. poz. 1893), za ...... rok Adresat: Minister właściwy do spraw klimatu Lp. Wysokość zgromadzonych wpływów z tytułu [w zł] Uwagi 1 środków przekazanych przez przedsiębiorców wykonujących samodzielnie obowiązek prowadzenia publicznych kampanii edukacyjnych na podstawie art. 15 ust. 3 pkt 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym 2 środków przekazanych przez organizacje odzysku sprzętu elektrycznego i elektronicznego na podstawie art. 62 ust. 6 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym 3 opłat produktowych, o których mowa w art. 72 ust. 2 ustawy z dnia 11 września 2015 r.
+o zużytym sprzęcie elektrycznym i elektronicznym 4 dodatkowych opłat produktowych, o których mowa w art. 77 ust. 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym Suma wpływów: ........................................................................
+(data i podpis sporządzającego informację ) Ob ja śn ie n i a: Zamieszczenie dodatkowych wyjaśnień w odniesieniu do wpłaconej kwoty, na przykład korekta wpłaty z poprzedniego okresu sprawozdawczego z podaniem numeru informacji i pozycji w informacji, którego korekta dotyczy.
+Dotyczy postaci papierowej informacji. W przypadku przekazywania informacji w postaci elektronicznej informację
 

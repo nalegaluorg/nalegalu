@@ -8,7 +8,7 @@ pos: 1021
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym

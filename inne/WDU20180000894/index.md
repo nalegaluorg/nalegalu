@@ -8,7 +8,7 @@ pos: 894
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o przetwarzaniu danych dotyczących przelotu pasażera
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-09 |
 | Data wydania | 2018-05-14 |
-| Ostatnia zmiana | 2025-09-08 |
+| Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000894) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/894/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -37,7 +37,52 @@ source: "isap-pdf"
 
 **Art. 2.** Użyte w ustawie określenia i skróty oznaczają:
 
+- **1)** dane PNR – dane dotyczące przelotu pasażera, w tym dane osobowe, które są przetwarzane w związku z prowadzeniem działalności gospodarczej przez przewoźników lotniczych w celu dokonania rezerwacji lub realizacji lotu w ramach przewozu lotniczego, podlegające przekazaniu przez przewoźnika lotniczego do JIP;
+- **2)** JIP – Krajowa Jednostka do spraw Informacji o Pasażerach;
+- **3)** JIP PCz – JIP państwa członkowskiego innego niż Rzeczpospolita Polska;
+- **4)** KSI PNR – Krajowy System Informatyczny PNR, będący systemem teleinformatycznym, w którym JIP przetwarza dane PNR lub wyniki ich przetwarzania;
+- **5)** kryteria przetwarzania danych PNR – zbiór odpowiednio dobranych informacji należących do kategorii danych PNR, umożliwiający identyfikację osób w związku z wykonywaniem sprawdzeń pasażerów lotu PNR;
+- **6)** lot PNR – lot pozaunijny albo lot wewnątrzunijny statku powietrznego wykonującego przewóz lotniczy pasażerów, w tym nieodpłatny, podczas którego następuje przekroczenie granicy państwowej, a start albo lądowanie tego statku następuje na terytorium Rzeczypospolitej Polskiej;
+- **6a)** lot pozaunijny – lot, który jest planowany pomiędzy terytorium państwa trzeciego a terytorium państwa członkowskiego, bez względu na postoje na terytorium innych państw członkowskich lub państw trzecich;
+- **6b)** lot wewnątrzunijny – lot, który jest planowany pomiędzy terytoriami państw członkowskich, bez postojów na terytorium państwa trzeciego;
+- **7)** państwo członkowskie – państwo członkowskie Unii Europejskiej, które stosuje dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/681 z dnia 27 kwietnia 2016 r. w sprawie wykorzystywania danych dotyczących przelotu pasażera (danych PNR) w celu zapobiegania przestępstwom terrorystycznym i poważnej przestępczości, ich wykrywania, prowadzenia postępowań przygotowawczych w ich sprawie i ich ścigania (Dz. Urz. UE L 119 z 04.05.2016, str. 132);
+- **8)** państwo trzecie – państwo niebędące państwem członkowskim;
+- **9)** pozytywny wynik sprawdzenia – efekt zautomatyzowanego przetwarzania danych PNR wskazujący na identyczność lub zbieżność danych PNR z danymi osobowymi zgromadzonymi w bazach danych wykorzystywanych do zapobiegania, wykrywania, zwalczania oraz ścigania sprawców przestępstw i przestępstw skarbowych lub z kryteriami przetwarzania danych PNR;
+- **10)** przetwarzanie danych PNR – operacje wykonywane na danych PNR, takie jak: gromadzenie, utrwalanie, organizowanie, porządkowanie, przechowywanie, adaptowanie lub modyfikowanie, pobieranie, przeglądanie, wykorzystywanie, ujawnianie przez przesłanie, rozpowszechnianie lub innego rodzaju udostępnianie, dopasowywanie lub łączenie, ograniczanie, usuwanie lub niszczenie;
+- **11)** właściwe organy – organy uprawnione w Rzeczypospolitej Polskiej do występowania o przekazanie danych PNR lub wyników ich przetwarzania oraz do otrzymywania takich danych i wyników ich przetwarzania, do celów określonych w art. 1 ust. 1;
+- **12)** właściwe organy PCz – organy państwa członkowskiego innego niż Rzeczpospolita Polska, notyfikowane Komisji Europejskiej przez to państwo członkowskie, uprawnione do występowania o przekazanie danych PNR lub wyników ich przetwarzania oraz do otrzymywania takich danych i wyników ich przetwarzania, do celów określonych w art. 1 ust. 1;
+- **13)** zautomatyzowane przetwarzanie danych PNR – sposób przetwarzania danych PNR polegający na samoczynnym porównaniu przez KSI PNR danych PNR z danymi osobowymi zgromadzonymi w bazach danych wykorzystywanych do zapobiegania, wykrywania, zwalczania oraz ścigania sprawców przestępstw i przestępstw skarbowych lub kryteriami przetwarzania danych PNR, uruchamiany każdorazowo podczas przekazania tych danych przez przewoźników lotniczych do JIP.
+
 **Art. 3.** Dane PNR pasażerów lotów pozaunijnych i lotów wewnątrzunijnych przekazane przez przewoźników lotniczych mogą być przetwarzane w celu zapobiegania, wykrywania i zwalczania oraz ścigania sprawców:
+
+- **1)** przestępstw o charakterze terrorystycznym;
+- **2)** przestępstw lub przestępstw skarbowych:
+    - **a)** udziału w zorganizowanej grupie albo związku mających na celu popełnianie przestępstw lub przestępstw skarbowych,
+    - **b)** handlu ludźmi,
+    - **c)** przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego,
+    - **d)** nielegalnego wytwarzania, przetwarzania, przemytu środków odurzających, prekursorów, środków zastępczych lub substancji psychotropowych lub obrotu nimi,
+    - **e)** nielegalnego obrotu bronią, amunicją lub materiałami wybuchowymi,
+    - **f)** łapownictwa i płatnej protekcji,
+    - **g)** oszustwa, w tym oszustwa przeciwko interesom finansowym Unii Europejskiej,
+    - **h)** wprowadzania do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł, fałszowania oraz obrotu fałszywymi pieniędzmi lub innymi środkami płatniczymi,
+    - **i)** przeciwko ochronie danych gromadzonych, przechowywanych, przetwarzanych lub przekazywanych w systemie informatycznym,
+    - **j)** przeciwko środowisku naturalnemu, w tym nielegalnego obrotu zagrożonymi gatunkami zwierząt i roślin,
+    - **k)** udzielenia pomocy w nielegalnym przekroczeniu granicy państwowej lub pobycie,
+    - **l)** zabójstwa, spowodowania ciężkiego uszczerbku na zdrowiu,
+    - **m)** nielegalnego obrotu organami i tkankami ludzkimi,
+    - **n)** bezprawnego pozbawienia człowieka wolności, uprowadzenia człowieka dla okupu, wzięcia lub przetrzymywania zakładnika,
+    - **o)** rozboju z użyciem broni palnej lub groźby jej użycia, wymuszenia rozbójniczego z użyciem broni palnej lub groźby jej użycia,
+    - **p)** nielegalnego handlu dobrami kultury,
+    - **q)** podrabiania oraz obrotu podrobionymi wyrobami,
+    - **r)** fałszowania oraz obrotu sfałszowanymi dokumentami,
+    - **s)** nielegalnego obrotu hormonami lub podobnymi substancjami,
+    - **t)** nielegalnego obrotu materiałami radioaktywnymi,
+    - **u)** zgwałcenia,
+    - **v)** należących do właściwości Międzynarodowego Trybunału Karnego,
+    - **w)** porwania statku wodnego lub powietrznego,
+    - **x)** sabotażu,
+    - **y)** obrotu kradzionymi pojazdami mechanicznymi,
+    - **z)** szpiegostwa przemysłowego – których górna granica ustawowego zagrożenia wynosi przynajmniej 3 lata pozbawienia wolności.
 
 **Art. 4.**
 
@@ -96,7 +141,7 @@ source: "isap-pdf"
 
 3. Minister właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Straży Granicznej, sporządzony na podstawie informacji uzyskanych od właściwych organów, uwzględniających kryteria tras lotniczych, planów podróży oraz lotnisk, z zachowaniem przepisów o ochronie informacji niejawnych, może określić, w drodze zarządzenia niepodlegającego ogłoszeniu, loty wewnątrzunijne objęte prawem przetwarzania danych PNR.
 
-4. Komendant Główny Straży Granicznej na podstawie informacji uzyskanych od właściwych organów dokonuje na bieżąco weryfikacji zasadności objęcia lotów wewnątrzunijnych prawem przetwarzania danych PNR i nie rzadziej niż raz na rok przedkłada ministrowi właściwemu do spraw wewnętrznych informację w tej sprawie.
+4. Komendant Główny Straży Granicznej na podstawie informacji uzyskanych od właściwych organów dokonuje na bieżąco weryfikacji zasadności objęcia lotów wewnątrzunijnych prawem przetwarzania danych PNR i nierzadziej niż raz na rok przedkłada ministrowi właściwemu do spraw wewnętrznych informację w tej sprawie.
 
 5. Właściwy organ, osoba przez niego upoważniona albo inna osoba upoważniona w trybie, o którym mowa w art. 31 ust. 4, mogą się zwrócić do JIP we wniosku, o którym mowa w art. 21 ust. 1, o objęcie lotu wewnątrzunijnego prawem przetwarzania danych PNR, w przypadku:
 
@@ -198,7 +243,7 @@ source: "isap-pdf"
 
 2. W stosunku do przewoźnika lotniczego, o którym mowa w art. 8 ust. 4, nie stosuje się obowiązku określonego w ust. 1 pkt 2.
 
-3. W przypadku gdy zmieniły się dane, o których mowa w ust. 1, przewoźnik lotniczy niezwłocznie, jednak nie później niż w terminie 30 dni od dnia, w którym nastąpiła zmiana tych danych, przekazuje ich aktualizację w formie pisemnej w postaci papierowej lub elektronicznej do JIP.
+3. W przypadku gdy zmieniły się dane, o których mowa w ust. 1, przewoźnik lotniczy niezwłocznie, jednak niepóźniej niż w terminie 30 dni od dnia, w którym nastąpiła zmiana tych danych, przekazuje ich aktualizację w formie pisemnej w postaci papierowej lub elektronicznej do JIP.
 
 **Art. 11.** Prezes Urzędu Lotnictwa Cywilnego współdziała z Komendantem Głównym Straży Granicznej w zakresie niezbędnym do zapewnienia wykonywania przez przewoźników lotniczych obowiązku przekazywania danych PNR do JIP, w szczególności przez udostępnianie na wniosek Komendanta Głównego Straży Granicznej, złożony w formie pisemnej, w postaci papierowej lub elektronicznej, posiadanych informacji dotyczących nazwy, adresu, numeru telefonu oraz adresu e-mail przewoźników lotniczych lub zakresu ich działalności.
 
@@ -235,6 +280,10 @@ source: "isap-pdf"
 2. Komendant Główny Straży Granicznej jest administratorem danych PNR przetwarzanych w KSI PNR.
 
 **Art. 14.** W celu zapewnienia bezpieczeństwa przetwarzania danych PNR, KSI PNR:
+
+- **1)** zapobiega dostępowi osób nieuprawnionych do KSI PNR;
+- **2)** zapobiega nieuprawnionemu przetwarzaniu danych PNR;
+- **3)** zapewnia rejestrowanie wszystkich przypadków, w których uzyskano dostęp do danych PNR lub wykorzystano je w inny sposób przez KSI PNR.
 
 **Art. 15.**
 
@@ -317,7 +366,7 @@ source: "isap-pdf"
 
 1b. Roczny plan weryfikacji na każdy kolejny rok opracowuje JIP na podstawie analizy ryzyka wystąpienia nieprawidłowości przy przekazaniu danych PNR, w szczególności nieprawidłowości przy przekazaniu danych PNR mających istotne znaczenie dla wykrywania i zwalczania przestępstw lub przestępstw skarbowych, o których mowa w art. 3, a następnie przedkłada go Komendantowi Głównemu Straży Granicznej do zatwierdzenia.
 
-1c. Komendant Główny Straży Granicznej zatwierdza przedłożony mu roczny plan weryfikacji nie później niż do dnia 20 grudnia roku poprzedzającego rok, na który ten plan opracowano.
+1c. Komendant Główny Straży Granicznej zatwierdza przedłożony mu roczny plan weryfikacji niepóźniej niż do dnia 20 grudnia roku poprzedzającego rok, na który ten plan opracowano.
 
 2. JIP, w sposób zautomatyzowany, trwale usuwa dane przekazane przez przewoźników lotniczych, nienależące do kategorii danych PNR, o których mowa w art. 4 ust. 1, niezwłocznie po ich otrzymaniu, przy wykorzystaniu KSI PNR lub przez osobę wykonującą zadania w JIP.
 
@@ -383,6 +432,14 @@ source: "isap-pdf"
 3. JIP przekazuje dane PNR po otrzymaniu potwierdzenia wniosku w formie pisemnej, w postaci papierowej lub elektronicznej.
 
 **Art. 23.** JIP odmawia przekazania danych PNR lub wyników ich przetwarzania, w przypadku gdy:
+
+- **1)** wniosek o przekazanie danych PNR nie został złożony przez właściwy organ albo osobę upoważnioną przez niego do jego złożenia;
+- **2)** wniosek o przekazanie danych PNR nie zawiera uzasadnienia wskazującego, że dostęp do danych PNR lub wyników ich przetwarzania jest niezbędny;
+- **3)** wniosek o przekazanie danych PNR nie zawiera podstawy prawnej przekazania danych PNR lub wyników ich przetwarzania;
+- **4)** wniosek o przekazanie danych PNR nie zawiera wymaganych danych lub może spowodować nadmierne przetwarzanie danych PNR;
+- **5)** przetwarzanie przekazanych danych PNR lub wyników ich przetwarzania miałoby nastąpić w celu innym niż określony w art. 1 ust. 1;
+- **6)** wniosek o przekazanie danych PNR dotyczy danych PNR, które nie mogą być przetwarzane zgodnie z ustawą;
+- **7)** nie uzyskano zgody, o której mowa w art. 4a ust. 5 lub art. 33 ust. 2.
 
 **Art. 24.**
 
@@ -454,11 +511,17 @@ source: "isap-pdf"
 
 **Art. 29.**
 
-1. JIP we współpracy z właściwymi organami, nie rzadziej niż raz w roku, dokonuje okresowych przeglądów aktualności kryteriów przetwarzania danych PNR i sporządza sprawozdanie z wykonanego przeglądu.
+1. JIP we współpracy z właściwymi organami, nierzadziej niż raz w roku, dokonuje okresowych przeglądów aktualności kryteriów przetwarzania danych PNR i sporządza sprawozdanie z wykonanego przeglądu.
 
 2. JIP występuje do właściwego organu o podjęcie działań, o których mowa w art. 25–27, w przypadku gdy w wyniku okresowego przeglądu stwierdzi potrzebę ustalenia nowych kryteriów przetwarzania danych PNR, aktualizacji ustalonych kryteriów albo ich usunięcia. Przepis art. 28 ust. 2 stosuje się.
 
 **Art. 30.** JIP odmawia ustalenia kryteriów przetwarzania danych PNR albo ich aktualizacji, w przypadku gdy:
+
+- **1)** wniosek o ustalenie kryteriów przetwarzania danych PNR albo wniosek o aktualizację tych kryteriów:
+    - **a)** nie został złożony przez właściwy organ albo osobę upoważnioną przez niego do jego złożenia,
+    - **b)** nie spełnia wymogów formalnych, o których mowa, odpowiednio, w art. 25 ust. 2 pkt 2–6 lub 8 albo art. 26 ust. 2 pkt 1, 3–7 lub 9;
+
+- **2)** wnioskowane kryteria przetwarzania danych PNR nie spełniają warunków określonych w art. 24 ust. 2 lub 3.
 
 **Art. 31.**
 
@@ -510,7 +573,7 @@ source: "isap-pdf"
 - **2)** w przypadku postępowania przygotowawczego – prokuratora prowadzącego lub nadzorującego postępowanie;
 - **3)** w przypadku czynności operacyjno-rozpoznawczych – prokuratora okręgowego właściwego ze względu na siedzibę organu wykonującego te czynności.
 
-3. Zgoda, o której mowa w ust. 2, jest wydawana, w przypadku gdy przetwarzanie zdepersonalizowanych danych PNR jest niezbędne do realizacji celu określonego w art. 1 ust. 1 i dotyczy danych PNR zgromadzonych w KSI PNR nie wcześniej niż 2 lata od dnia ich zgromadzenia.
+3. Zgoda, o której mowa w ust. 2, jest wydawana, w przypadku gdy przetwarzanie zdepersonalizowanych danych PNR jest niezbędne do realizacji celu określonego w art. 1 ust. 1 i dotyczy danych PNR zgromadzonych w KSI PNR niewcześniej niż 2 lata od dnia ich zgromadzenia.
 
 3a. W przypadku gdy przetwarzanie zdepersonalizowanych danych PNR jest niezbędne do realizacji celu określonego w art. 1 ust. 1, a uzyskanie takich informacji w inny sposób okazało się bezskuteczne albo nie jest możliwe, zgoda, o której mowa w ust. 2, może dotyczyć także danych PNR zgromadzonych w KSI PNR wcześniej niż 2 lata od dnia ich zgromadzenia.
 
@@ -553,9 +616,33 @@ source: "isap-pdf"
 
 **Art. 35.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb kierowania przez właściwe organy do JIP wniosków o:
+    - **a)** przekazanie danych PNR,
+    - **b)** przekazanie danych PNR przez przewoźnika lotniczego w terminach innych niż określone w art. 6 ust. 1,
+    - **c)** ustalenie kryteriów przetwarzania danych PNR,
+    - **d)** aktualizację kryteriów przetwarzania danych PNR,
+    - **e)** usunięcie kryteriów przetwarzania danych PNR,
+
+- **2)** tryb przeprowadzania okresowych przeglądów aktualności kryteriów przetwarzania danych PNR oraz zakres sporządzanego sprawozdania z wykonanego przeglądu,
+- **3)** sposób przekazywania właściwemu organowi danych PNR lub wyników ich przetwarzania przez JIP,
+- **4)** sposób rejestrowania przez JIP wniosków, o których mowa w pkt 1 – uwzględniając konieczność szczególnej ochrony danych osobowych przetwarzanych w ramach danych PNR, zapewnienia efektywnej współpracy z właściwymi organami oraz konieczność zapewnienia sprawnego postępowania przy przyjmowaniu wniosków i dokumentowania przetwarzania danych PNR, a także rozliczalności wykonanych czynności.
+
 #### Rozdział 5 Właściwe organy
 
 **Art. 36.** Właściwymi organami są:
+
+- **1)** Generalny Inspektor Informacji Finansowej;
+- **2)** Komendant Główny Policji;
+- **3)** Komendant Główny Straży Granicznej;
+- **4)** Komendant Główny Żandarmerii Wojskowej;
+- **4a)** Komendant Służby Ochrony Państwa;
+- **5)** Prokurator Krajowy;
+- **6)** Szef Agencji Bezpieczeństwa Wewnętrznego;
+- **7)** Szef Agencji Wywiadu;
+- **8)** Szef Centralnego Biura Antykorupcyjnego;
+- **9)** Szef Krajowej Administracji Skarbowej;
+- **10)** Szef Służby Kontrwywiadu Wojskowego;
+- **11)** Szef Służby Wywiadu Wojskowego.
 
 **Art. 37.**
 
@@ -587,6 +674,9 @@ source: "isap-pdf"
 ##### Oddział 1 Wymiana danych PNR z państwami członkowskimi
 
 **Art. 39.** JIP przekazuje do właściwej JIP PCz dane PNR lub wyniki ich przetwarzania, które uzyskała:
+
+- **1)** w wyniku sprawdzeń pasażerów lotów PNR w trybie określonym w art. 19;
+- **2)** na uzasadniony wniosek JIP PCz.
 
 **Art. 40.**
 
@@ -639,6 +729,12 @@ source: "isap-pdf"
 
 **Art. 45.** JIP odmawia przekazania danych PNR lub wyników ich przetwarzania do JIP PCz lub właściwego organu PCz, w przypadku gdy:
 
+- **1)** wniosek o przekazanie danych PNR lub wyników ich przetwarzania nie został złożony przez JIP PCz lub właściwy organ PCz;
+- **2)** nie zostały spełnione przesłanki określone w art. 43 lub art. 44;
+- **3)** wniosek o przekazanie danych PNR lub wyników ich przetwarzania nie zawiera uzasadnienia wskazującego, że dostęp do danych PNR lub wyników ich przetwarzania jest niezbędny;
+- **4)** przetwarzanie przekazanych danych PNR lub wyników ich przetwarzania miałoby nastąpić w celu innym niż określony w art. 1 ust. 1;
+- **5)** nie uzyskano wymaganej zgody, o której mowa w art. 42 ust. 1.
+
 **Art. 46.**
 
 1. Dane PNR lub wyniki ich przetwarzania, zgromadzone przez JIP PCz, są uzyskiwane na wniosek właściwego organu, za pośrednictwem JIP. Do wniosku stosuje się odpowiednio przepisy art. 21 ust. 3 i ust. 4 pkt 2 oraz uzupełnia się go o wskazanie państwa członkowskiego, które zgromadziło dane PNR. Wniosek o przekazanie danych PNR lub wyników ich przetwarzania może dotyczyć określonych elementów kategorii danych PNR, służących do realizacji celu, o którym mowa w art. 1 ust. 1.
@@ -664,6 +760,9 @@ source: "isap-pdf"
 ##### Oddział 2 Przekazywanie Europolowi danych PNR przez JIP
 
 **Art. 49.** JIP przekazuje Europolowi dane PNR lub wyniki ich przetwarzania, które uzyskała:
+
+- **1)** w wyniku sprawdzeń pasażerów lotów PNR w trybie określonym w art. 19;
+- **2)** na uzasadniony wniosek Europolu, umożliwiający mu udzielenie, w zakresie jego właściwości, wsparcia działań państw członkowskich, w celu określonym w art. 1 ust. 1.
 
 **Art. 50.**
 
@@ -696,6 +795,11 @@ source: "isap-pdf"
 
 **Art. 52.** JIP odmawia przekazania danych PNR lub wyników ich przetwarzania do Europolu, w przypadku gdy:
 
+- **1)** wniosek o przekazanie danych PNR lub wyników ich przetwarzania nie zawiera uzasadnienia wskazującego, że dostęp do danych PNR lub wyników ich przetwarzania jest niezbędny;
+- **2)** przetwarzanie przekazanych danych PNR lub wyników ich przetwarzania miałoby nastąpić w celu innym niż udzielenie przez Europol, w zakresie jego właściwości, wsparcia dla działań państw członkowskich, w celu określonym w art. 1 ust. 1;
+- **3)** nie uzyskano wymaganej zgody prokuratora okręgowego właściwego miejscowo ze względu na siedzibę JIP na przekazanie danych PNR lub wyników ich przetwarzania, które zostały poddane depersonalizacji;
+- **4)** przestępstwo lub przestępstwo skarbowe, w związku z którym Europol złożył wniosek, nie należy do zakresu jego właściwości.
+
 ##### Oddział 3 Przekazywanie danych PNR do państw trzecich
 
 **Art. 53.**
@@ -704,7 +808,7 @@ source: "isap-pdf"
 
 - **1)** ich przekazanie jest konieczne dla realizacji celu, o którym mowa w art. 1 ust. 1;
 - **2)** organ państwa trzeciego, któremu mają one zostać przekazane, jest właściwy w sprawach wykrywania i zwalczania przestępstw oraz zapobiegania im i ścigania ich sprawców, w zakresie, o którym mowa w art. 1 ust. 1;
-- **3)** państwo trzecie zapewnia odpowiedni poziom ochrony przekazywanych danych określony w art. 18b–18d ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2020 r. poz. 158 oraz z 2022 r. poz. 350);
+- **3)** państwo trzecie zapewnia odpowiedni poziom ochrony przekazywanych danych określony w art. 18b–18d ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2026 r. poz. 230);
 - **4)** JIP PCz, od której je otrzymano, wyraziła na to zgodę;
 - **5)** państwo trzecie zapewni, że przekaże je innemu państwu trzeciemu wyłącznie, gdy jest to konieczne dla realizacji celu, o którym mowa w art. 1 ust. 1, i po uzyskaniu uprzedniej zgody JIP.
 
@@ -727,6 +831,12 @@ source: "isap-pdf"
 
 **Art. 56.** JIP odmawia przekazania danych PNR lub wyników ich przetwarzania państwu trzeciemu, w przypadku gdy:
 
+- **1)** nie zostały spełnione warunki określone w art. 53 ust. 1 lub 2 albo art. 54 ust. 1;
+- **2)** wniosek o przekazanie danych PNR lub wyników ich przetwarzania nie zawiera uzasadnienia wskazującego, że dostęp do danych PNR lub wyników ich przetwarzania jest niezbędny;
+- **3)** przetwarzanie przekazanych danych PNR lub wyników ich przetwarzania miałoby nastąpić w celu innym niż określony w art. 1 ust. 1;
+- **4)** nie uzyskano wymaganej zgody prokuratora okręgowego właściwego miejscowo ze względu na siedzibę JIP na przekazanie danych PNR lub wyników ich przetwarzania, które zostały poddane depersonalizacji;
+- **5)** zagraża to rażącym naruszeniem praw człowieka.
+
 **Art. 57.** JIP może dokonać weryfikacji podstaw przekazania państwu trzeciemu przez JIP PCz bez uprzedniej zgody JIP danych PNR lub wyników ich przetwarzania otrzymanych od JIP. W tym celu JIP może zwrócić się pisemnie do JIP PCz o informacje w zakresie podstaw i okoliczności przekazania danych PNR lub wyników ich przetwarzania państwu trzeciemu bez uprzedniej zgody JIP.
 
 #### Rozdział 7 Ochrona danych osobowych
@@ -742,7 +852,7 @@ source: "isap-pdf"
 1. Inspektor:
 
 - **1)** udziela, na wniosek osoby, której dane PNR są przetwarzane, informacji o ich przetwarzaniu;
-- **2)** sprawuje nadzór nad zgodnością przetwarzania danych PNR przez JIP z przepisami niniejszej ustawy oraz ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125);
+- **2)** sprawuje nadzór nad zgodnością przetwarzania danych PNR przez JIP z przepisami niniejszej ustawy oraz ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206);
 - **3)** udziela informacji i wyjaśnień na żądanie Prezesa Urzędu Ochrony Danych Osobowych.
 
 2. Inspektor jest uprawniony do:
@@ -851,13 +961,17 @@ source: "isap-pdf"
 
 **Art. 69.** Postępowania w sprawie naruszenia przez przewoźnika lotniczego obowiązku przekazania danych PNR nie wszczyna się, a wszczęte umarza, gdy naruszenie, o którym mowa w art. 64, nastąpiło wskutek:
 
+- **1)** działania siły wyższej;
+- **2)** awarii KSI PNR;
+- **3)** awarii powstałej po stronie przewoźnika lotniczego, niezawinionej przez tego przewoźnika, pod warunkiem poinformowania JIP o powstałej awarii, niepóźniej niż 30 dni od dnia upływu terminu przekazania danych PNR, oraz przekazania w tym terminie danych PNR, które nie zostały wskutek tej awarii przekazane, chyba że ten przewoźnik je utracił wskutek tej awarii.
+
 **Art. 70.** (uchylony)
 
 **Art. 71.** (uchylony)
 
-**Art. 72.** Do administracyjnych kar pieniężnych, o których mowa w art. 64 oraz art. 66, nie stosuje się przepisów art. 189f i art. 189k ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
+**Art. 72.** Do administracyjnych kar pieniężnych, o których mowa w art. 64 oraz art. 66, nie stosuje się przepisów art. 189f i art. 189k ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
-**Art. 73.** Należności z tytułu administracyjnych kar pieniężnych, o których mowa w art. 64 oraz art. 66, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479).
+**Art. 73.** Należności z tytułu administracyjnych kar pieniężnych, o których mowa w art. 64 oraz art. 66, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268 i 516).
 
 **Art. 74.** Administracyjne kary pieniężne stanowią dochód budżetu państwa.
 

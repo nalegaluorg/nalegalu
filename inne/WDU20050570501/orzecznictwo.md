@@ -1,6 +1,6 @@
-# Orzecznictwo — Wyrok Trybunału Konstytucyjnego z dnia 21 marca 2005 r. sygn. akt SK 24/04
+# Orzecznictwo — WDU20050570501
 
-Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 21 marca 2005 r. sygn. akt SK 24/04*
+Orzeczenia powołujące: *WDU20050570501*
 
 Łącznie: **1** orzeczeń
 

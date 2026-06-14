@@ -8,10 +8,10 @@ pos: 2143
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 października 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2143 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 12 października 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002143) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2143/text.pdf) |
 
-Poz. 2143 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 12 października 2022 r.
 w sprawie przeprowadzania wywiadów środowiskowych o nieletnich Na podstawie art. 63 ust. 6 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U.
-poz. 1700) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb przeprowadzania wywiadów środowiskowych o nieletnich oraz szczegółowy sposób ich dokumentowania.
+poz. 1700) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb przeprowadzania wywiadów środowiskowych o nieletnich oraz szczegółowy sposób ich dokumentowania.
 § 2. 1. Jeżeli przeprowadzenie wywiadu zlecono kuratorowi sądowemu, kierownik zespołu kuratorskiej służby sądowej niezwłocznie dokonuje rozdziału zleceń przeprowadzenia wywiadu z uwzględnieniem podziału terytorialnego i obciążenia pracą.
 2. Zawodowy kurator sądowy może powierzyć przeprowadzenie wywiadu społecznemu kuratorowi sądowemu w terminie 7 dni od dnia przekazania mu zlecenia przez kierownika zespołu.
 § 3. Wywiad przeprowadza się w terminie 21 dni od dnia wpływu zlecenia do zespołu kuratorskiej służby sądowej, siedziby opiniodawczego zespołu sądowych specjalistów lub młodzieżowego ośrodka wychowawczego, okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich, chyba że w zleceniu przeprowadzenia wywiadu określono inny termin.
@@ -43,7 +43,7 @@ c) miejsce zamieszkania lub pobytu;
 a) zachowywanie się nieletniego,
 b) warunki wychowawcze,
 c) stan zdrowia,
-d) przebieg nauki lub pracy, Dziennik Ustaw – 2 – Poz. 2143
+d) przebieg nauki lub pracy,
 e) sposób spędzania czasu wolnego,
 f) kontakty z rówieśnikami i innymi osobami mogącymi mieć wpływ na zachowanie nieletniego;
 3) imiona i nazwiska rodziców nieletniego i zamieszkujących z nimi osób oraz stosunek rodziców lub opiekunów do nieletniego, podejmowane oddziaływania wychowawcze, konflikty istniejące w rodzinie.

@@ -8,7 +8,7 @@ pos: 2357
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o polskiej strefie rybołówstwa morskiego
@@ -52,6 +52,8 @@ o polskiej strefie rybołówstwa morskiego W celu wzmożenia ochrony żywych zas
 4. W razie braku umów międzynarodowych, o których mowa w ust. 2 i 3, Rada Ministrów może w drodze rozporządzenia określić granice polskiej strefy rybołówstwa morskiego. Art. 3–9. (uchylone)
 
 **Art. 10.** Traci moc ustawa z dnia 12 lutego 1970 r. o ustanowieniu polskiej strefy rybołówstwa morskiego (Dz. U. poz.
+
+- **14)** .
 
 **Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 1978 r.
 

@@ -8,12 +8,10 @@ pos: 1463
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o pracy na statkach rybackich
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -52,13 +50,27 @@ Art. 65–68. (pominięte)
 
 3. Do statków rybackich, o których mowa w ust. 2, o długości poniżej 24 m przepisy ustawy stosuje się w zakresie w niej określonym.
 
-4. W zakresie nieuregulowanym w ustawie do stosunków pracy na statkach rybackich stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807), zwanej dalej „Kodeksem pracy”.
+4. W zakresie nieuregulowanym w ustawie do stosunków pracy na statkach rybackich stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807), zwanej dalej „Kodeksem pracy”.
 
 5. W przypadku wątpliwości o wykonywaniu przez statek rybacki rybołówstwa komercyjnego rozstrzyga dyrektor urzędu morskiego właściwy dla portu macierzystego statku rybackiego, w drodze decyzji, z uwzględnieniem wyników konsultacji z reprezentatywnymi organizacjami pracodawców i pracowników, w szczególności z reprezentatywnymi organizacjami armatorów statków rybackich i rybaków.
 
 6. Prace wykonywane przez rybaków uważa się za prace, o których mowa w pkt 22 załącznika nr 1 do ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2024 r. poz. 1696).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** agencja zatrudnienia – agencję zatrudnienia, o której mowa w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);
+- **2)** armator – armatora w rozumieniu art. 7 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2023 r. poz. 1309), w tym właściciela statku rybackiego, oraz inną organizację lub osobę, taką jak zarządzający statkiem rybackim, agent lub podmiot czarterujący statek rybacki bez załogi, która przejęła od właściciela odpowiedzialność za eksploatację statku rybackiego i która zobowiązała się tym samym do przejęcia wszystkich obowiązków oraz odpowiedzialności nałożonych na właścicieli statków rybackich zgodnie z niniejszą ustawą, bez względu na to, czy niektóre z obowiązków pełni w imieniu właściciela statku rybackiego jakakolwiek inna organizacja lub osoba;
+- **3)** długość – 96 % długości całkowitej kadłuba mierzonej w płaszczyźnie wodnicy na wysokości równej 85 % najmniejszej wysokości bocznej mierzonej od górnej krawędzi stępki lub jako długość mierzona w płaszczyźnie wodnicy od przedniej krawędzi dziobnicy do osi trzonu sterowego na wodnicy, jeżeli ta wartość jest większa; na statkach z przegłębieniem konstrukcyjnym długość tę mierzy się w płaszczyźnie równoległej do wodnicy konstrukcyjnej;
+- **4)** Konwencja nr 188 – Konwencję nr 188 dotyczącą pracy w sektorze rybołówstwa, przyjętą przez Konferencję Ogólną Międzynarodowej Organizacji Pracy w Genewie dnia 14 czerwca 2007 r.;
+- **5)** połowy komercyjne – rybołówstwo komercyjne w rozumieniu przepisów ustawy o rybołówstwie morskim lub przetwórstwo na statku rybackim ryb lub innych organizmów morskich;
+- **6)** praktykant:
+    - **a)** ucznia szkoły ponadpodstawowej oraz kandydata i studenta uczelni, o których mowa w art. 74 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2025 r. poz. 883), zwaną dalej „ustawą o bezpieczeństwie morskim”, odbywającego praktykę zawodową na szkolnym statku rybackim, którego ta szkoła lub uczelnia jest armatorem, albo na statku rybackim innego armatora na podstawie umowy zawartej między szkołą lub uczelnią a tym armatorem lub na podstawie umowy zawartej bezpośrednio między praktykantem a tym armatorem,
+    - **b)** każdego innego ucznia oraz kandydata i studenta, odbywającego praktykę zawodową na statku rybackim armatora na podstawie umowy zawartej między szkołą lub uczelnią a tym armatorem lub na podstawie umowy zawartej bezpośrednio między praktykantem a tym armatorem;
+
+- **7)** repatriacja – zapewnienie rybakowi możliwości powrotu z zagranicznego portu do miejsca jego zamieszkania lub miejsca wskazanego w rybackiej umowie o pracę po wygaśnięciu rybackiej umowy o pracę albo po wypowiedzeniu lub rozwiązaniu przez rybaka lub armatora rybackiej umowy o pracę z uzasadnionych powodów;
+- **8)** rybacka umowa o pracę – umowę o pracę zawartą między armatorem a rybakiem, regulującą warunki pracy i życia rybaka na statku rybackim;
+- **9)** rybak – każdego członka załogi statku rybackiego, z wyjątkiem osoby okazjonalnie wykonującej na statku rybackim pracę niezwiązaną z połowem organizmów morskich;
+- **10)** statek rybacki – statek wpisany do rejestru statków rybackich, o którym mowa w art. 13 ust. 1 ustawy o rybołówstwie morskim.
 
 #### Rozdział 2 Minimalne wymagania dla rybaków do pracy na statku rybackim
 
@@ -90,13 +102,13 @@ Art. 65–68. (pominięte)
 
 4. W ramach badania lekarskiego uprawniony lekarz może skierować rybaka na konsultacje do lekarza specjalisty lub psychologa lub zlecić przeprowadzenie pomocniczych badań diagnostycznych.
 
-5. Świadectwo zdrowia wydaje się na okres 2 lat, a w przypadku gdy osoba ubiegająca się o zatrudnienie na statku rybackim nie ukończyła 18 lat na okres roku.
+5. Świadectwo zdrowia wydaje się na okres 2 lat, a w przypadku gdy osoba ubiegająca się o zatrudnienie na statku rybackim nie ukończyła 18 lat – na okres roku.
 
-6. Świadectwo zdrowia dla praktykantów i kandydatów do szkół ponadpodstawowych prowadzących kształcenie w zawodzie podstawowym dla rybołówstwa, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160), przewiduje kształcenie zgodnie z wymogami określonymi w postanowieniach konwencji dotyczących wymagań w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht, wydaje się na okres 2 lat.
+6. Świadectwo zdrowia dla praktykantów i kandydatów do szkół ponadpodstawowych prowadzących kształcenie w zawodzie podstawowym dla rybołówstwa, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160), przewiduje kształcenie zgodnie z wymogami określonymi w postanowieniach konwencji dotyczących wymagań w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht, wydaje się na okres 2 lat.
 
 7. Koszty przeprowadzenia badania lekarskiego w celu wydania świadectwa zdrowia, o którym mowa w ust. 1, dla kandydata i studenta uczelni, o której mowa w art. 74 ust. 2 pkt 1 i 2 ustawy o bezpieczeństwie morskim, odbywającego praktykę zawodową na statku szkolnym, którego ta uczelnia jest armatorem, albo na statku innego armatora na podstawie umowy zawartej między uczelnią a tym armatorem, ponosi ten kandydat lub student.
 
-8. Na badanie lekarskie w celu wydania świadectwa zdrowia, o którym mowa w ust. 1, kandydata do szkoły ponadpodstawowej, o którym mowa w ust. 6, oraz ucznia szkoły ponadpodstawowej odbywającego praktykę zawodową na statku szkolnym, którego ta szkoła jest armatorem, albo na statku innego armatora na podstawie umowy zawartej między szkołą a tym armatorem, kieruje dyrektor szkoły. Koszty przeprowadzenia tego badania ponosi organ prowadzący szkołę w rozumieniu art. 4 pkt 16 ustawy Prawo oświatowe.
+8. Na badanie lekarskie w celu wydania świadectwa zdrowia, o którym mowa w ust. 1, kandydata do szkoły ponadpodstawowej, o którym mowa w ust. 6, oraz ucznia szkoły ponadpodstawowej odbywającego praktykę zawodową na statku szkolnym, którego ta szkoła jest armatorem, albo na statku innego armatora na podstawie umowy zawartej między szkołą a tym armatorem, kieruje dyrektor szkoły. Koszty przeprowadzenia tego badania ponosi organ prowadzący szkołę w rozumieniu art. 4 pkt 16 ustawy – Prawo oświatowe.
 
 9. Rybakowi, który ukończył 50 lat, oraz rybakowi, którego stan zdrowia nie pozwala na wydanie świadectwa zdrowia na okres 2 lat, uprawniony lekarz może wydać świadectwo zdrowia na okres krótszy niż 2 lata.
 
@@ -176,15 +188,15 @@ Art. 65–68. (pominięte)
 - **1)** imię i nazwisko oraz datę i miejsce urodzenia rybaka;
 - **2)** nazwę i adres siedziby albo imię i nazwisko oraz adres zamieszkania armatora;
 - **3)** rodzaj umowy oraz datę i miejsce jej zawarcia;
-- **4)** nazwę statku rybackiego, jeżeli została nadana, oraz oznakę rybacką statku rybackiego lub numer IMO statku nadany przez Międzynarodową Organizację Morską (IMO), na którym będzie wykonywana praca w przypadku umów innych niż umowa na czas nieokreślony;
+- **4)** nazwę statku rybackiego, jeżeli została nadana, oraz oznakę rybacką statku rybackiego lub numer IMO statku nadany przez Międzynarodową Organizację Morską (IMO), na którym będzie wykonywana praca – w przypadku umów innych niż umowa na czas nieokreślony;
 - **5)** warunki pracy i płacy, w szczególności:
     - **a)** stanowisko, na którym rybak będzie zatrudniony,
-    - **b)** wynagrodzenie za pracę, odpowiadające rodzajowi pracy, ze wskazaniem rodzaju waluty, w której wynagrodzenie będzie wypłacane, w tym: wysokość wynagrodzenia podstawowego, wysokość innych składników wynagrodzenia, inne dodatkowe świadczenia pieniężne i niepieniężne związane z pracą,
+    - **b)** wynagrodzenie za pracę, odpowiadające rodzajowi pracy, ze wskazaniem rodzaju waluty, w której wynagrodzenie będzie wypłacane, w tym: – wysokość wynagrodzenia podstawowego, – wysokość innych składników wynagrodzenia, – inne dodatkowe świadczenia pieniężne i niepieniężne związane z pracą,
     - **c)** sposób i termin wypłaty wynagrodzenia za pracę,
     - **d)** najkrótsze dopuszczalne okresy odpoczynku,
     - **e)** wymiar corocznego płatnego urlopu albo sposób jego obliczenia,
-    - **f)** miejsce i termin rozpoczęcia pracy na statku rybackim oraz termin jej zakończenia, a także w przypadku gdy: umowa została zawarta na czas nieokreślony co najmniej warunki upoważniające każdą ze stron do jej wypowiedzenia ze wskazaniem okresu wypowiedzenia, umowa została zawarta na czas określony co najmniej termin jej rozwiązania, umowa została zawarta na czas trwania podróży morskiej co najmniej miejsce zakończenia podróży morskiej i czas od momentu przybycia statku rybackiego do portu do zejścia rybaka z tego statku,
-    - **g)** wskazanie układu zbiorowego pracy, którym jest objęty rybak jeżeli taki układ obowiązuje;
+    - **f)** miejsce i termin rozpoczęcia pracy na statku rybackim oraz termin jej zakończenia, a także w przypadku gdy: – umowa została zawarta na czas nieokreślony – co najmniej warunki upoważniające każdą ze stron do jej wypowiedzenia ze wskazaniem okresu wypowiedzenia, – umowa została zawarta na czas określony – co najmniej termin jej rozwiązania, – umowa została zawarta na czas trwania podróży morskiej – co najmniej miejsce zakończenia podróży morskiej i czas od momentu przybycia statku rybackiego do portu do zejścia rybaka z tego statku,
+    - **g)** wskazanie układu zbiorowego pracy, którym jest objęty rybak – jeżeli taki układ obowiązuje;
 
 - **6)** świadczenia armatora na rzecz rybaka z zakresu opieki zdrowotnej;
 - **7)** świadczenia armatora na rzecz rybaka z zakresu zabezpieczenia społecznego;
@@ -205,7 +217,7 @@ Art. 65–68. (pominięte)
 
 1. Do rybackiej umowy o pracę armator dołącza informację o stosowanych na statku rybackim procedurach składania skarg, w tym danych kontaktowych właściwego dyrektora urzędu morskiego, a także imię i nazwisko osoby lub osób na tym statku, które mogą, na zasadzie poufności, udzielić rybakowi informacji w sprawie złożenia skargi.
 
-2. Szczegółowe warunki wypłaty odszkodowań z tytułu utraty zatrudnienia określają układy zbiorowe pracy lub regulaminy wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami rybackie umowy o pracę.
+2. Szczegółowe warunki wypłaty odszkodowań z tytułu utraty zatrudnienia określają układy zbiorowe pracy lub regulaminy wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami – rybackie umowy o pracę.
 
 **Art. 11.**
 
@@ -231,7 +243,7 @@ Art. 65–68. (pominięte)
 
 **Art. 14.**
 
-1. Warunki wynagradzania za pracę i przyznawania innych dodatkowych świadczeń związanych z pracą, a także sposób i termin wypłaty wynagrodzenia za pracę, ustalają układy zbiorowe pracy lub regulaminy wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami rybackie umowy o pracę.
+1. Warunki wynagradzania za pracę i przyznawania innych dodatkowych świadczeń związanych z pracą, a także sposób i termin wypłaty wynagrodzenia za pracę, ustalają układy zbiorowe pracy lub regulaminy wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami – rybackie umowy o pracę.
 
 2. Wynagrodzenie za pracę składa się z:
 
@@ -268,7 +280,7 @@ Art. 65–68. (pominięte)
 
 3. Na liście załogi statku rybackiego dokonuje się wpisów dotyczących stanowiska zajmowanego na statku przez rybaka oraz miejsca i terminu rozpoczęcia przez niego pracy na statku rybackim.
 
-4. Wpisania rybaka na listę załogi statku rybackiego dokonuje się najpóźniej z chwilą wejścia rybaka na statek rybacki, a skreślenia z tej listy najwcześniej z chwilą zejścia ze statku rybackiego.
+4. Wpisania rybaka na listę załogi statku rybackiego dokonuje się najpóźniej z chwilą wejścia rybaka na statek rybacki, a skreślenia z tej listy – najwcześniej z chwilą zejścia ze statku rybackiego.
 
 5. Skreślenie rybaka z listy załogi statku rybackiego polega na dokonaniu adnotacji dotyczących miejsca i terminu zakończenia pracy na tym statku.
 
@@ -323,7 +335,7 @@ Art. 65–68. (pominięte)
 - **3)** wymaga tego organizacja obsługi systemów i urządzeń zautomatyzowanych na statku rybackim;
 - **4)** statek rybacki oczekuje na wyładunek w porcie.
 
-7. Za pozostawanie w gotowości do pracy, w przypadkach, o których mowa w ust. 6, rybakowi przysługuje wynagrodzenie. Wysokość tego wynagrodzenia określa układ zbiorowy pracy lub regulamin wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami rybacka umowa o pracę.
+7. Za pozostawanie w gotowości do pracy, w przypadkach, o których mowa w ust. 6, rybakowi przysługuje wynagrodzenie. Wysokość tego wynagrodzenia określa układ zbiorowy pracy lub regulamin wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami – rybacka umowa o pracę.
 
 **Art. 21.**
 
@@ -377,9 +389,13 @@ Art. 65–68. (pominięte)
 
 3. Jeżeli układ zbiorowy pracy, regulamin wynagradzania lub rybacka umowa o pracę nie stanowią inaczej, rybak ponosi koszty repatriacji w przypadku ciężkiego naruszenia przez niego obowiązków pracowniczych.
 
-**Art. 25.** Szczegółowe uprawnienia przysługujące rybakowi w związku z repatriacją, w tym dotyczące środków oraz kosztów transportu, określa układ zbiorowy pracy lub regulamin pracy, a w przypadku armatorów nieobjętych tymi układami lub regulaminami rybacka umowa o pracę.
+**Art. 25.** Szczegółowe uprawnienia przysługujące rybakowi w związku z repatriacją, w tym dotyczące środków oraz kosztów transportu, określa układ zbiorowy pracy lub regulamin pracy, a w przypadku armatorów nieobjętych tymi układami lub regulaminami – rybacka umowa o pracę.
 
 **Art. 26.** Armator nie może:
+
+- **1)** wymagać od rybaka wpłacenia zaliczki w związku z kosztami repatriacji;
+- **2)** potrącać kosztów repatriacji z wynagrodzenia za pracę rybaka, w tym innych dodatkowych świadczeń pieniężnych, wynikających z rybackiej umowy o pracę, z wyjątkiem przypadku, o którym mowa w art. 24 ust. 3;
+- **3)** obciążać rybaka kosztami repatriacji w przypadku wystąpienia okoliczności, o których mowa w art. 11 ust. 3.
 
 **Art. 27.**
 
@@ -413,7 +429,7 @@ Art. 65–68. (pominięte)
 
 1. Agencja zatrudnienia udziela pomocy w podjęciu pracy na statku rybackim osobie, która spełnia wymagania, o których mowa w art. 3 ust. 1 oraz ust. 2 pkt 1 i 3.
 
-2. Agencja zatrudnienia informuje osobę zainteresowaną podjęciem pracy na statku rybackim o posiadanych ofertach pracy, a w przypadku ich braku może poinformować taką osobę o innych agencjach zatrudnienia prowadzących pośrednictwo pracy.
+2. Agencja zatrudnienia informuje osobę zainteresowaną podjęciem pracy na statku rybackim o posiadanych ofertach pracy, a w przypadku ich braku – może poinformować taką osobę o innych agencjach zatrudnienia prowadzących pośrednictwo pracy.
 
 3. Agencja zatrudnienia może, na wniosek innej agencji zatrudnienia prowadzącej pośrednictwo pracy i za zgodą osoby zainteresowanej podjęciem pracy na statku rybackim, udostępnić tej osobie informacje umożliwiające nawiązanie jej bezpośredniej współpracy z tą agencją.
 
@@ -514,7 +530,7 @@ Art. 65–68. (pominięte)
 
 2. W przypadku urazów lub choroby rybaka armator umożliwia rybakowi, bez zbędnej zwłoki, wizytę u lekarza lub lekarza dentysty, podczas postoju w porcie, do którego zawinął statek rybacki.
 
-3. W przypadku gdy świadczenia opieki zdrowotnej nie mogą być udzielone na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ) lub rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 166 z 30.04.2004, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 5, str. 72), koszty tych świadczeń ponosi armator.
+3. W przypadku gdy świadczenia opieki zdrowotnej nie mogą być udzielone na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ) lub rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 166 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 5, str. 72), koszty tych świadczeń ponosi armator.
 
 4. Przepisy ust. 1 i 2 stosuje się odpowiednio do praktykanta.
 
@@ -543,9 +559,9 @@ Art. 65–68. (pominięte)
 1. W przypadku, o którym mowa w art. 37 ust. 3, armator ponosi koszty:
 
 - **1)** związane z chorobą lub uszkodzeniem ciała rybaka w okresie zatrudnienia lub powstałych w jego wyniku,
-- **2)** opieki medycznej w przypadkach choroby lub uszkodzenia ciała rybaka, o których mowa w pkt 1, w tym koszty leczenia i zaopatrzenia w niezbędne produkty lecznicze i wyroby medyczne, a w przypadku pobytu rybaka poza granicami kraju także zakwaterowania, wyżywienia i, w uzasadnionych przypadkach, środków utrzymania do czasu, gdy rybak wróci do zdrowia lub nabędzie uprawnienia do korzystania ze świadczeń na zasadach określonych w art. 37 ust. 3.
+- **2)** opieki medycznej w przypadkach choroby lub uszkodzenia ciała rybaka, o których mowa w pkt 1, w tym koszty leczenia i zaopatrzenia w niezbędne produkty lecznicze i wyroby medyczne, a w przypadku pobytu rybaka poza granicami kraju także zakwaterowania, wyżywienia i, w uzasadnionych przypadkach, środków utrzymania – do czasu, gdy rybak wróci do zdrowia lub nabędzie uprawnienia do korzystania ze świadczeń na zasadach określonych w art. 37 ust. 3.
 
-2. W przypadku niezdolności do pracy trwającej powyżej 3 miesięcy, wynikającej z uszkodzenia ciała lub choroby powstałej na skutek wykonywania pracy, rybakowi, a w przypadku śmierci rybaka jego rodzinie, przysługuje odszkodowanie od armatora. Do odszkodowania stosuje się odpowiednio przepisy art. 93 § 2 i 3 Kodeksu pracy.
+2. W przypadku niezdolności do pracy trwającej powyżej 3 miesięcy, wynikającej z uszkodzenia ciała lub choroby powstałej na skutek wykonywania pracy, rybakowi, a w przypadku śmierci rybaka – jego rodzinie, przysługuje odszkodowanie od armatora. Do odszkodowania stosuje się odpowiednio przepisy art. 93 § 2 i 3 Kodeksu pracy.
 
 3. Armator pokrywa koszty sprowadzenia zwłok rybaka do kraju w razie śmierci rybaka mającej miejsce na statku rybackim lub na lądzie w czasie wykonywania pracy lub w czasie repatriacji rybaka.
 
@@ -555,7 +571,14 @@ Art. 65–68. (pominięte)
 
 **Art. 42.** Jeżeli niezdolność do pracy rybaka powstała na skutek choroby lub uszkodzenia ciała, armator wypłaca wynagrodzenie za pracę, o którym mowa w art. 14 ust. 2:
 
+- **1)** do czasu gdy chory lub ranny rybak przebywa na statku rybackim albo do czasu repatriacji rybaka;
+- **2)** od dnia repatriacji rybaka albo zejścia ze statku rybackiego do czasu jego powrotu do zdrowia lub nabycia uprawnień do świadczeń na zasadach określonych w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083) albo w ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 257, 620 i 1083).
+
 **Art. 43.** Armator jest zwolniony z obowiązku pokrywania kosztów opieki medycznej, w przypadku gdy:
+
+- **1)** uszkodzenie ciała rybaka nastąpiło w sytuacji niezwiązanej z wykonywaniem pracy na statku rybackim;
+- **2)** uszkodzenie ciała lub choroba wynika z nieprawidłowego świadomego postępowania chorego lub rannego rybaka;
+- **3)** choroba lub niepełnosprawność rybaka istniała przed dniem zawarcia rybackiej umowy o pracę i została przez rybaka ukryta przed armatorem.
 
 **Art. 44.**
 
@@ -567,8 +590,8 @@ Art. 65–68. (pominięte)
 
 1. W przypadku zaginięcia rybaka na morzu armator wypłaca uprawnionym członkom rodziny rybaka:
 
-- **1)** przez okres 6 miesięcy comiesięczne świadczenie obliczane według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy;
-- **2)** po upływie 6 miesięcy do czasu uznania rybaka za zmarłego comiesięczny zasiłek pieniężny.
+- **1)** przez okres 6 miesięcy – comiesięczne świadczenie obliczane według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy;
+- **2)** po upływie 6 miesięcy – do czasu uznania rybaka za zmarłego – comiesięczny zasiłek pieniężny.
 
 2. Zasiłek, o którym mowa w ust. 1 pkt 2, ustala się w wysokości określonej w art. 80 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159).
 
@@ -601,7 +624,7 @@ Art. 65–68. (pominięte)
 1. Statek rybacki:
 
 - **1)** o długości wynoszącej co najmniej 24 m lub
-- **2)** zwykle pływający w odległości przekraczającej 200 Mm od linii podstawowej morza terytorialnego Rzeczypospolitej Polskiej, o której mowa w art. 5 ust. 2 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409) pozostający w morzu przez dłużej niż 3 doby, rozumiane jako pełne 24 godziny, jest obowiązany posiadać certyfikat.
+- **2)** zwykle pływający w odległości przekraczającej 200 Mm od linii podstawowej morza terytorialnego Rzeczypospolitej Polskiej, o której mowa w art. 5 ust. 2 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409) – pozostający w morzu przez dłużej niż 3 doby, rozumiane jako pełne 24 godziny, jest obowiązany posiadać certyfikat.
 
 2. Dla statku rybackiego innego niż statek, o którym mowa w ust. 1, może zostać wydany certyfikat w przypadku, gdy statek ten spełnia wymagania ustawy i armator wystąpi do dyrektora urzędu morskiego właściwego dla portu macierzystego takiego statku z wnioskiem o wydanie certyfikatu.
 
@@ -619,8 +642,8 @@ Art. 65–68. (pominięte)
 
 2. Opłata za przeprowadzenie inspekcji i wydanie certyfikatu dla statków rybackich o długości:
 
-- **1)** co najmniej 24 m wynosi 2500 zł;
-- **2)** poniżej 24 m wynosi 1500 zł.
+- **1)** co najmniej 24 m – wynosi 2500 zł;
+- **2)** poniżej 24 m – wynosi 1500 zł.
 
 3. Opłata za przeprowadzenie inspekcji w celu potwierdzenia ważności certyfikatu wynosi 50 % opłaty określonej za przeprowadzenie inspekcji i wydanie certyfikatu, na którym dokonano potwierdzenia ważności.
 
@@ -630,10 +653,10 @@ Art. 65–68. (pominięte)
 
 1. Statek, o którym mowa w art. 47 ust. 1 i 2, podlega inspekcji:
 
-- **1)** wstępnej przeprowadzanej w celu uzyskania po raz pierwszy certyfikatu;
-- **2)** pośredniej przeprowadzanej w celu potwierdzenia ważności certyfikatu między drugą i trzecią datą rocznicową, o której mowa w art. 5 pkt 22 ustawy o bezpieczeństwie morskim;
-- **3)** odnowieniowej przeprowadzanej w związku z upływem ważności certyfikatu, w celu wydania nowego certyfikatu;
-- **4)** doraźnej przeprowadzanej w celu dodatkowej weryfikacji warunków pracy i życia rybaków na statku rybackim.
+- **1)** wstępnej – przeprowadzanej w celu uzyskania po raz pierwszy certyfikatu;
+- **2)** pośredniej – przeprowadzanej w celu potwierdzenia ważności certyfikatu między drugą i trzecią datą rocznicową, o której mowa w art. 5 pkt 22 ustawy o bezpieczeństwie morskim;
+- **3)** odnowieniowej – przeprowadzanej w związku z upływem ważności certyfikatu, w celu wydania nowego certyfikatu;
+- **4)** doraźnej – przeprowadzanej w celu dodatkowej weryfikacji warunków pracy i życia rybaków na statku rybackim.
 
 2. W przypadku uzasadnionego podejrzenia, że statek rybacki nie spełnia wymagań dotyczących warunków pracy i życia rybaków w zakresie określonym w Konwencji nr 188, dyrektor właściwego urzędu morskiego, z urzędu, przeprowadza inspekcję doraźną.
 
@@ -662,7 +685,7 @@ Art. 65–68. (pominięte)
 
 8. Kontrolujący ustala, na podstawie dowodów zebranych w toku kontroli, stan faktyczny w zakresie przestrzegania przepisów o czasie pracy i odpoczynku rybaków wpisanych na listę załogi statku rybackiego.
 
-9. W przypadku stwierdzenia nieprawidłowości dotyczących przestrzegania przepisów dotyczących warunków pracy i życia rybaków na statku rybackim dyrektor urzędu morskiego podejmuje działania zgodnie z art. 27 ustawy o bezpieczeństwie morskim, a organ Państwowej Inspekcji Pracy zgodnie z przepisami ustawy o Państwowej Inspekcji Pracy.
+9. W przypadku stwierdzenia nieprawidłowości dotyczących przestrzegania przepisów dotyczących warunków pracy i życia rybaków na statku rybackim dyrektor urzędu morskiego podejmuje działania zgodnie z art. 27 ustawy o bezpieczeństwie morskim, a organ Państwowej Inspekcji Pracy – zgodnie z przepisami ustawy o Państwowej Inspekcji Pracy.
 
 10. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, tryb przeprowadzania kontroli przestrzegania przepisów o czasie pracy i odpoczynku rybaków, mając na uwadze skuteczność kontroli oraz właściwe wykorzystanie jej wyników.
 
@@ -733,7 +756,7 @@ Art. 65–68. (pominięte)
 
 1. Za naruszenie regulaminu pracy i przebywania na statku rybackim przez rybaka mogą być stosowane kary porządkowe zgodnie z przepisami Kodeksu pracy, z tym że:
 
-- **1)** sprzeciw rybaka wobec zastosowanej kary porządkowej rozpatruje kapitan statku rybackiego, a w przypadku gdy naruszenie nastąpiło w porcie będącym siedzibą armatora armator;
+- **1)** sprzeciw rybaka wobec zastosowanej kary porządkowej rozpatruje kapitan statku rybackiego, a w przypadku gdy naruszenie nastąpiło w porcie będącym siedzibą armatora – armator;
 - **2)** kapitan statku rybackiego nie może zastosować kary porządkowej po upływie 7 dni od dnia, w którym dowiedział się o naruszeniu, lub po upływie 3 miesięcy od dnia naruszenia;
 - **3)** przed zastosowaniem kary porządkowej kapitan statku rybackiego jest obowiązany zasięgnąć opinii przedstawiciela załogi statku rybackiego, jeżeli został wybrany;
 - **4)** w czasie podróży morskiej uznanie kary porządkowej za niebyłą może nastąpić także na wniosek przedstawiciela załogi statku rybackiego, jeżeli został wybrany.
@@ -750,7 +773,7 @@ Art. 65–68. (pominięte)
 
 - **1)** wpisach i adnotacjach dokonywanych na liście załogi statku rybackiego,
 - **2)** przeprowadzaniu oceny i dokumentowaniu analizy ryzyka zawodowego związanego z wykonywaniem pracy na poszczególnych stanowiskach pracy na statku rybackim,
-- **3)** informowaniu rybaków o wynikach przeprowadzonej oceny ryzyka zawodowego, stosowaniu niezbędnych środków profilaktycznych oraz szkoleniu rybaków w zakresie ochrony przed zagrożeniami podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający rok naruszenia przepisów, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+- **3)** informowaniu rybaków o wynikach przeprowadzonej oceny ryzyka zawodowego, stosowaniu niezbędnych środków profilaktycznych oraz szkoleniu rybaków w zakresie ochrony przed zagrożeniami – podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający rok naruszenia przepisów, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 2. Tej samej karze podlega kapitan statku rybackiego, który:
 
@@ -774,12 +797,18 @@ Art. 65–68. (pominięte)
 
 **Art. 60.** Kto, będąc armatorem:
 
+- **1)** wbrew obowiązkowi, o którym mowa w art. 4 ust. 13, nie pokrywa kosztów badania lekarskiego przeprowadzanego w celu wydania rybakowi świadectwa zdrowia,
+- **2)** nie pokrywa kosztów poniesionych przez rybaka, pozostających w bezpośrednim związku z przesunięciem terminu urlopu wypoczynkowego lub odwołaniem z urlopu wypoczynkowego,
+- **3)** nie zapewnia, aby pomieszczenia pracy i pomieszczenia mieszkalne, rekreacyjne i higieniczno-sanitarne oraz mesy na statku rybackim spełniały wymagania określone w Konwencji nr 188 w zakresie powierzchni, oświetlenia, czystości powietrza oraz dopuszczalnego hałasu i drgań,
+- **4)** nie pokrywa kosztów związanych z chorobą lub uszkodzeniem ciała rybaka oraz kosztów opieki medycznej, o których mowa w art. 40 ust. 1, lub kosztów sprowadzenia zwłok w przypadku śmierci rybaka, o których mowa w art. 40 ust. 3,
+- **5)** nie posiada wymaganego zabezpieczenia finansowego odpowiedzialności armatora – podlega karze grzywny od 1000 zł do 30 000 zł.
+
 **Art. 61.**
 
 1. Kto, będąc armatorem lub działając w jego imieniu:
 
 - **1)** zatrudnia na statku rybackim osobę, która nie ukończyła 18. roku życia, w przypadku innym niż określony w art. 3 ust. 3,
-- **2)** zatrudnia na statku rybackim rybaka, nie wpisując go na listę załogi statku rybackiego podlega karze grzywny od 1000 zł do 30 000 zł.
+- **2)** zatrudnia na statku rybackim rybaka, nie wpisując go na listę załogi statku rybackiego – podlega karze grzywny od 1000 zł do 30 000 zł.
 
 2. Tej samej karze podlega ten, kto na statku rybackim nawiązuje stosunek pracy z rybakiem bez rybackiej umowy o pracę lub z rybakiem nieposiadającym odpowiednich dokumentów potwierdzających kwalifikacje zawodowe niezbędne do zajmowania stanowiska na statku rybackim, lub nieposiadającym aktualnego świadectwa zdrowia, z uwzględnieniem art. 6 ust. 2 i 3, lub nieposiadającym ważnej książeczki żeglarskiej.
 
@@ -789,7 +818,7 @@ Art. 65–68. (pominięte)
 
 - **1)** o wymaganej formie i treści rybackiej umowy o pracę,
 - **2)** o czasie pracy i odpoczynku rybaka,
-- **3)** dotyczące procedur rozpatrywania skarg rybaków, określonych w art. 51 i art. 54 podlega karze grzywny od 1000 zł do 30 000 zł.
+- **3)** dotyczące procedur rozpatrywania skarg rybaków, określonych w art. 51 i art. 54 – podlega karze grzywny od 1000 zł do 30 000 zł.
 
 2. Tej samej karze podlega ten, kto będąc armatorem lub działając w jego imieniu:
 
@@ -801,11 +830,19 @@ Art. 65–68. (pominięte)
 
 **Art. 63.** Kto, będąc armatorem lub działając w jego imieniu:
 
+- **1)** nie dokonuje repatriacji rybaka w przypadkach, o których mowa w art. 23 ust. 1,
+- **2)** nie zapewnia, aby stanowiska pracy, maszyny, instalacje i urządzenia na statku rybackim zapewniały bezpieczne i higieniczne warunki pracy i życia rybaków oraz innych osób znajdujących się na statku rybackim, w szczególności nie stwarzały zagrożeń wypadkami lub zagrożeń dla zdrowia w wyniku narażenia na czynniki niebezpieczne, szkodliwe lub uciążliwe w środowisku pracy,
+- **3)** nie zapewnia rybakowi bezpłatnie wyżywienia o odpowiedniej wartości odżywczej, jakości i ilości lub wody pitnej odpowiedniej jakości i ilości,
+- **4)** nie dostarcza członkom załogi statku rybackiego bezpłatnie środków ochrony indywidualnej oraz odzieży i obuwia roboczego, zabezpieczających przed działaniem niebezpiecznych i szkodliwych dla zdrowia czynników występujących w środowisku pracy na morzu lub nie informuje ich o sposobach posługiwania się tymi środkami,
+- **5)** nie zapewnia rybakowi dostępu do opieki medycznej w zakresie, o którym mowa w art. 37 ust. 1 i 2,
+- **6)** wbrew obowiązkowi, o którym mowa w art. 38 ust. 3, nie zapewnia, aby w składzie załogi statku rybackiego znajdował się co najmniej jeden rybak przeszkolony w zakresie sprawowania opieki medycznej nad chorym,
+- **7)** nakłania rybaka, osobę przez niego upoważnioną lub uprawnionego w rozumieniu art. 93 § 4 Kodeksu pracy członka rodziny rybaka do przyjęcia świadczenia niższego niż wynikające z art. 40 ust. 2 lub art. 45 ust. 1 – podlega karze grzywny od 1000 zł do 30 000 zł.
+
 **Art. 64.**
 
 1. Do właściwości organów oraz trybu wymierzania i ściągania kar pieniężnych, o których mowa w art. 57 i art. 58, stosuje się odpowiednio przepisy ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 
-2. Orzekanie w sprawach o czyny, o których mowa w art. 59–63, następuje na podstawie wniosku o ukaranie składanego przez dyrektora urzędu morskiego lub inspektora pracy, w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
+2. Orzekanie w sprawach o czyny, o których mowa w art. 59–63, następuje na podstawie wniosku o ukaranie składanego przez dyrektora urzędu morskiego lub inspektora pracy, w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
 
@@ -843,9 +880,9 @@ Art. 65–68. (pominięte)
 
 **Art. 76.**
 
-1. Do uczniów dotychczasowych szkół ponadgimnazjalnych, o których mowa w art. 149 pkt 1–3 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm. ), kształcących się w zawodzie podstawowym dla rybołówstwa stosuje się przepisy niniejszej ustawy.
+1. Do uczniów dotychczasowych szkół ponadgimnazjalnych, o których mowa w art. 149 pkt 1–3 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm. ), kształcących się w zawodzie podstawowym dla rybołówstwa stosuje się przepisy niniejszej ustawy.
 
-2. Do uczniów dotychczasowych szkół ponadgimnazjalnych, o których mowa w art. 149 pkt 1–3 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw, kształcących się w zawodzie podstawowym dla żeglugi morskiej lub żeglugi śródlądowej stosuje się przepisy ustawy zmienianej w art. 67 .
+2. Do uczniów dotychczasowych szkół ponadgimnazjalnych, o których mowa w art. 149 pkt 1–3 ustawy z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw, kształcących się w zawodzie podstawowym dla żeglugi morskiej lub żeglugi śródlądowej stosuje się przepisy ustawy zmienianej w art. 67 .
 
 **Art. 77.** Do naruszeń regulaminu pracy i przebywania na statku rybackim przez marynarzy w rozumieniu przepisów ustawy zmienianej w art. 67 , pracujących na statkach rybackich w rozumieniu niniejszej ustawy, jakie miały miejsce do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
@@ -857,20 +894,24 @@ Art. 65–68. (pominięte)
 
 1. W latach 2019–2028 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wyniesie 2,606 mln zł, w tym w:
 
-- **1)** 2019 r. 0,000 mln zł;
-- **2)** 2020 r. 0,734 mln zł;
-- **3)** 2021 r. 0,234 mln zł;
-- **4)** 2022 r. 0,234 mln zł;
-- **5)** 2023 r. 0,234 mln zł;
-- **6)** 2024 r. 0,234 mln zł;
-- **7)** 2025 r. 0,234 mln zł;
-- **8)** 2026 r. 0,234 mln zł;
-- **9)** 2027 r. 0,234 mln zł;
-- **10)** 2028 r. 0,234 mln zł.
+- **1)** 2019 r. – 0,000 mln zł;
+- **2)** 2020 r. – 0,734 mln zł;
+- **3)** 2021 r. – 0,234 mln zł;
+- **4)** 2022 r. – 0,234 mln zł;
+- **5)** 2023 r. – 0,234 mln zł;
+- **6)** 2024 r. – 0,234 mln zł;
+- **7)** 2025 r. – 0,234 mln zł;
+- **8)** 2026 r. – 0,234 mln zł;
+- **9)** 2027 r. – 0,234 mln zł;
+- **10)** 2028 r. – 0,234 mln zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostaną zastosowane mechanizmy korygujące polegające na obniżeniu kosztów utrzymania nowo powstałych stanowisk pracy.
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz odpowiedzialnym za wdrożenie mechanizmów korygujących, o których mowa w ust. 2, jest minister właściwy do spraw gospodarki morskiej.
 
 **Art. 81.** Ustawa wchodzi w życie z dniem 15 listopada 2019 r., z wyjątkiem:
+
+- **1)** art. 4 ust. 2 i art. 67 pkt 4 i 5, które wchodzą w życie po upływie 2 lat od dnia ogłoszenia ;
+- **2)** art. 68 pkt 6, który wchodzi w życie z dniem 2 stycznia 2020 r.
+
 

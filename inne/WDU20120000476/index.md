@@ -8,7 +8,7 @@ pos: 476
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 41/4/A/2012 WYROK z dnia 19 kwietnia 2012 r.

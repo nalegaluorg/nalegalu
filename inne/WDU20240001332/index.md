@@ -8,10 +8,10 @@ pos: 1332
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 września 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1332 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 28 sierpnia 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-09-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001332) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1332/text.pdf) |
 
-Poz. 1332 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 28 sierpnia 2024 r.
-w sprawie udzielania odroczeń obowiązkowej zasadniczej służby wojskowej Na podstawie art. 158 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248) zarządza się, co następuje: § 1. Rozporządzenie określa tryb udzielania odroczeń obowiązkowej zasadniczej służby wojskowej oraz zakres dokumentacji, którą należy dołączyć do wniosku o udzielenie odroczenia.
+w sprawie udzielania odroczeń obowiązkowej zasadniczej służby wojskowej Na podstawie art. 158 ust. 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb udzielania odroczeń obowiązkowej zasadniczej służby wojskowej oraz zakres dokumentacji, którą należy dołączyć do wniosku o udzielenie odroczenia.
 § 2. 1. Wniosek, o którym mowa w art. 158 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zwanej dalej „ustawą”, składa się do szefa wojskowego centrum rekrutacji właściwego ze względu na miejsce pobytu stałego albo pobytu czasowego trwającego ponad 3 miesiące.
 2. Po przeprowadzonym postępowaniu administracyjnym właściwy szef wojskowego centrum rekrutacji podejmuje decyzję w zakresie odroczenia obowiązkowej zasadniczej służby wojskowej i przekazuje tę decyzję zainteresowanej osobie w terminie określonym w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r.
 poz. 572).
@@ -41,7 +41,6 @@ b) kandydowaniu do Sejmu Rzeczypospolitej Polskiej, Senatu Rzeczypospolitej Pols
 2) stopień pokrewieństwa względem członka rodziny;
 3) nazwisko i imię (imiona), numer PESEL, jeżeli został nadany, oraz adres zamieszkania członka rodziny;
 4) uzasadnienie konieczności sprawowania przez osobę składającą wniosek bezpośredniej opieki nad członkiem rodziny.
-Dziennik Ustaw – 2 – Poz. 1332
 2. Do wniosku, o którym mowa w ust. 1, osoba składająca wniosek dołącza również odpowiednio do okoliczności sprawy:
 1) oświadczenie osoby składającej wniosek lub członka jej rodziny o braku innych pełnoletnich członków rodziny, bliższych lub równych stopniem pokrewieństwa, obowiązanych do sprawowania opieki;
 2) orzeczenie o uznaniu członka rodziny za całkowicie niezdolnego do pracy i do samodzielnej egzystencji, wydane na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U.

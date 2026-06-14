@@ -8,7 +8,7 @@ pos: 1550
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 123/8/A/2015 WYROK z dnia 28 września 2015 r.

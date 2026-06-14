@@ -8,10 +8,10 @@ pos: 1339
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 22 lipca 2021 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z 13 lipca 2021 sprawie ogłoszenia jednolitego tekstu rozporządzenia Transportu i Gospodarki Morskiej sprawie utworzenia oraz
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1339 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 13 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,26 +25,28 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001339) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1339/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy z 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. z 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Transportu i Gospodarki Morskiej z 7 października 1991 sprawie utworzenia oraz (Dz. 438), z uwzględnieniem zmian wprowadzonych:
-1) rozporządzeniem Transportu i Gospodarki Morskiej z 8 sierpnia 1995 zmieniającym rozporządzenie sprawie utworzenia oraz (Dz. 501);
-2) rozporządzeniem Transportu i Gospodarki Morskiej z 10 sierpnia 1999 zmieniającym rozporządzenie sprawie utworzenia oraz (Dz. 792);
-3) rozporządzeniem Gospodarki Morskiej i Żeglugi Śródlądowej z 15 stycznia 2020 zmieniającym rozporządzenie sprawie utworzenia oraz (Dz. 92).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) 2 rozporządzenia Transportu i Gospodarki Morskiej z 8 sierpnia 1995 zmieniającego rozporządzenie sprawie utworzenia oraz (Dz. 501), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”;
-2) 2 rozporządzenia Transportu i Gospodarki Morskiej z 10 sierpnia 1999 zmieniającego rozporządzenie sprawie utworzenia oraz (Dz. 792), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”;
-go rozporządzenie sprawie utworzenia oraz działania (Dz. 92), które stanowią: „§ 2. Sprawy wszczęte i niezakończone przed dniem wejścia życie niniejszego rozporządzenia przez dyrektora Urzędu Morskiego Słupsku, prowadzone zakresie tego dyrektora, są prowadzone przez dyrektora Urzędu Morskiego Gdyni albo dyrektora Urzędu Morskiego Szczecinie według przepisów określających właściwość tych dyrektorów.
-3. Rozporządzenie wchodzi życie z dniem 1 kwietnia 2020 r.”.
-Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ z 7 października 1991 sprawie utworzenia oraz Na podstawie art. 40 ust. 1 i 2 ustawy z 21 marca 1991 o obszarach Rzeczypospolitej Polskiej i administracji morskiej (Dz. z 2020 2135 oraz z 2021 234) zarządza się, co następuje:
-1. Tworzy się następujące urzędy morskie i ustala siedziby:
-1) Urząd Morski Gdyni;
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu i Gospodarki Morskiej w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu i Gospodarki Morskiej z dnia 7 października 1991 r. w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich (Dz. U. poz. 438), z uwzględnieniem zmian wprowadzonych:
+1) rozporządzeniem Ministra Transportu i Gospodarki Morskiej z dnia 8 sierpnia 1995 r. zmieniającym rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich (Dz. U. poz. 501);
+2) rozporządzeniem Ministra Transportu i Gospodarki Morskiej z dnia 10 sierpnia 1999 r. zmieniającym rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich (Dz. U. poz. 792);
+3) rozporządzeniem Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 15 stycznia 2020 r. zmieniającym rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich (Dz. U. poz. 92).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1) § 2 rozporządzenia Ministra Transportu i Gospodarki Morskiej z dnia 8 sierpnia 1995 r. zmieniającego rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich (Dz. U. poz. 501), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Transportu i Gospodarki Morskiej z dnia 10 sierpnia 1999 r. zmieniającego rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich (Dz. U. poz. 792), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 i § 3 rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 15 stycznia 2020 r. zmieniającego rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich (Dz. U. poz. 92), które stanowią: „§ 2. Sprawy wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia przez dyrektora Urzędu Morskiego w Słupsku, prowadzone w zakresie działania tego dyrektora, są prowadzone przez dyrektora Urzędu Morskiego w Gdyni albo dyrektora Urzędu Morskiego w Szczecinie według przepisów określających właściwość tych dyrektorów.
+§ 3. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r.”.
+Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ z dnia 7 października 1991 r.
+w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich Na podstawie art. 40 ust. 1 i 2 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2020 r. poz. 2135 oraz z 2021 r. poz. 234) zarządza się, co następuje:
+§ 1. Tworzy się następujące urzędy morskie i ustala ich siedziby:
+1) Urząd Morski w Gdyni;
 2) (uchylony);
-3) Urząd Morski Szczecinie.
-2. 1. Terytorialny zakres działania:
-1) dyrektora Urzędu Morskiego Gdyni obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od wschodniej granicy państwa do linii wyznaczonej, na obszarach przebiegiem południka 16°41′56,70″ długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego;
-2) dyrektora Urzędu Morskiego Szczecinie obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od linii wyznaczonej, na obszarach przebiegiem południka 16°41′56,70″ długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego, do zachodniej granicy państwa.
-2. Dyrektorzy są właściwi do wykonywania zadań określonych umowami międzynarodowymi oraz odrębnymi przepisami prawnymi na obszarach morza pełnego poza terytorialnym zakresem określonym ust. 1.
+3) Urząd Morski w Szczecinie.
+§ 2. 1. Terytorialny zakres działania:
+1) dyrektora Urzędu Morskiego w Gdyni – obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od wschodniej granicy państwa do linii wyznaczonej, na obszarach morskich, przebiegiem południka 16°41′56,70″ długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego;
+2) dyrektora Urzędu Morskiego w Szczecinie – obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od linii wyznaczonej, na obszarach morskich, przebiegiem południka 16°41′56,70″ długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego, do zachodniej granicy państwa.
+2. Dyrektorzy urzędów morskich są właściwi do wykonywania zadań określonych umowami międzynarodowymi oraz odrębnymi przepisami prawnymi na obszarach morza pełnego poza terytorialnym zakresem działania określonym w ust. 1.
 3. (uchylony).
-4. Terytorialny zakres dyrektora Urzędu Morskiego Gdyni zakresie nadzoru nad ruchem statków obejmuje, niezależnie od określonego zgodnie z ust. 1, obszar Służby Kontroli Ruchu Statków VTS Ławica Słupska.
-3. Traci moc zarządzenie Żeglugi z 21 marca 1955 sprawie utworzenia, organizacji i właściwości miejscowej (M.P. 749, z 1959 122, z 1970 320, z 1972 57, z 1975 167 i z 1982 217).
-4. Rozporządzenie wchodzi życie z dniem ogłoszenia .
+4. Terytorialny zakres działania dyrektora Urzędu Morskiego w Gdyni w zakresie nadzoru nad ruchem statków obejmuje, niezależnie od zakresu określonego zgodnie z ust. 1, obszar działania Służby Kontroli Ruchu Statków VTS Ławica Słupska.
+§ 3. Traci moc zarządzenie Ministra Żeglugi z dnia 21 marca 1955 r. w sprawie utworzenia, organizacji i właściwości miejscowej urzędów morskich (M.P. poz. 749, z 1959 r. poz. 122, z 1970 r. poz. 320, z 1972 r. poz. 57, z 1975 r. poz. 167 i z 1982 r. poz. 217).
+§ 4. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 

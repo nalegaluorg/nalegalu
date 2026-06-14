@@ -8,12 +8,10 @@ pos: 1783
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o samorządach zawodowych architektów oraz inżynierów budownictwa
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -56,7 +54,7 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 **Art. 4a.**
 
-1. Ilekroć w ustawie jest mowa o państwach członkowskich rozumie się przez to państwa członkowskie Unii Europejskiej, Konfederację Szwajcarską oraz państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
+1. Ilekroć w ustawie jest mowa o państwach członkowskich rozumie się przez to państwa członkowskie Unii Europejskiej, Konfederację Szwajcarską oraz państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
 2. Ilekroć w ustawie jest mowa o obywatelach państw członkowskich, rozumie się przez to obywateli państw członkowskich, o których mowa w ust. 1, a także:
 
@@ -75,15 +73,15 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 1. Izba architektów zrzesza osoby, które:
 
-- **1)** posiadają uprawnienia budowlane w specjalności architektonicznej, o której mowa w art. 14 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080 i 1535), zwanej dalej „ustawą Prawo budowlane”;
-- **2)** posiadają uprawnienia budowlane w specjalności architektonicznej do projektowania bez ograniczeń lub uprawnienia w zakresie odpowiadającym zakresowi tej specjalności uzyskane przed dniem wejścia w życie ustawy Prawo budowlane;
+- **1)** posiadają uprawnienia budowlane w specjalności architektonicznej, o której mowa w art. 14 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080 i 1535), zwanej dalej „ustawą – Prawo budowlane”;
+- **2)** posiadają uprawnienia budowlane w specjalności architektonicznej do projektowania bez ograniczeń lub uprawnienia w zakresie odpowiadającym zakresowi tej specjalności uzyskane przed dniem wejścia w życie ustawy – Prawo budowlane;
 - **3)** są obywatelami państw członkowskich, którzy nabyli kwalifikacje zawodowe do wykonywania działalności w budownictwie, równoznacznej wykonywaniu samodzielnych funkcji technicznych w budownictwie na terytorium Rzeczypospolitej Polskiej w dziedzinie architektury, odpowiadające wymaganiom określonym w pkt 1 i 2 oraz posiadają odpowiednią decyzję o uznaniu kwalifikacji zawodowych.
 
 2. Izba inżynierów budownictwa zrzesza osoby, które:
 
-- **1)** posiadają uprawnienia budowlane w specjalnościach, o których mowa w art. 14 ust. 1 pkt 2–4 ustawy Prawo budowlane;
+- **1)** posiadają uprawnienia budowlane w specjalnościach, o których mowa w art. 14 ust. 1 pkt 2–4 ustawy – Prawo budowlane;
 - **2)** (uchylony)
-- **3)** posiadają uprawnienia budowlane w zakresie odpowiadającym zakresowi specjalności, o której mowa w art. 14 ust. 1 pkt 1 ustawy Prawo budowlane w zakresie określonym w art. 14 ust. 3 pkt 2–4 tej ustawy, lub specjalności, o których mowa w pkt 1, uzyskane przed dniem wejścia w życie ustawy Prawo budowlane;
+- **3)** posiadają uprawnienia budowlane w zakresie odpowiadającym zakresowi specjalności, o której mowa w art. 14 ust. 1 pkt 1 ustawy – Prawo budowlane w zakresie określonym w art. 14 ust. 3 pkt 2–4 tej ustawy, lub specjalności, o których mowa w pkt 1, uzyskane przed dniem wejścia w życie ustawy – Prawo budowlane;
 - **4)** są obywatelami państw członkowskich, którzy nabyli kwalifikacje zawodowe do wykonywania działalności w budownictwie, równoznacznej wykonywaniu samodzielnych funkcji technicznych w budownictwie na terytorium Rzeczypospolitej Polskiej, odpowiadające wymaganiom określonym w pkt 1 i 3 oraz posiadają odpowiednią decyzję o uznaniu kwalifikacji zawodowych.
 
 3. (uchylony)
@@ -109,6 +107,21 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 3. Izby mogą prowadzić działalność gospodarczą, z wyłączeniem działalności polegającej na wykonywaniu usług w zakresie obsługi inwestycyjnej, projektowania architektonicznego lub konstrukcyjno-budowlanego, robót budowlanych oraz rzeczoznawstwa budowlanego.
 
 **Art. 8.** Do zadań samorządów zawodowych należy w szczególności:
+
+- **1)** sprawowanie nadzoru nad należytym i sumiennym wykonywaniem zawodu przez członków izb;
+- **2)** reprezentowanie i ochrona interesów zawodowych swoich członków;
+- **3)** ustalanie zasad etyki zawodowej i nadzór nad jej przestrzeganiem;
+- **4)** nadawanie i pozbawianie uprawnień budowlanych w specjalnościach, o których mowa w art. 14 ust. 1 ustawy – Prawo budowlane, zwanych dalej „uprawnieniami budowlanymi”, uznawanie kwalifikacji zawodowych oraz nadawanie i pozbawianie tytułu rzeczoznawcy budowlanego;
+- **5)** (uchylony)
+- **6)** współdziałanie z organami administracji rządowej i organami samorządu terytorialnego oraz z innymi samorządami zawodowymi i stowarzyszeniami zawodowymi;
+- **7)** (uchylony)
+- **8)** współdziałanie w doskonaleniu kwalifikacji zawodowych architektów lub inżynierów budownictwa;
+- **9)** zarządzanie majątkiem i działalnością gospodarczą samorządu zawodowego;
+- **10)** prowadzenie postępowań w zakresie odpowiedzialności zawodowej i dyscyplinarnej członków samorządów zawodowych;
+- **11)** opiniowanie projektów aktów normatywnych dotyczących architektury lub budownictwa;
+- **12)** organizowanie i prowadzenie instytucji samopomocowych oraz innych form pomocy materialnej członkom samorządów zawodowych;
+- **13)** prowadzenie list członków samorządów zawodowych;
+- **14)** realizacja zadań statutowych.
 
 **Art. 8a.** (uchylony)
 
@@ -146,7 +159,7 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 - **1)** imiona i nazwisko;
 - **2)** adres zamieszkania;
-- **3)** numer PESEL, a w przypadku braku numeru PESEL numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w przypadku braku numeru PESEL – numer paszportu lub innego dokumentu potwierdzającego tożsamość;
 - **4)** informację o wykształceniu i posiadanych stopniach naukowych lub tytule naukowym;
 - **5)** numer, datę i miejsce wydania decyzji;
 - **6)** podstawę prawną wydania decyzji;
@@ -173,6 +186,12 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
 
 **Art. 8e.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), nie wpływa na:
+
+- **1)** prowadzenie postępowań kontrolnych;
+- **2)** prowadzenie list oraz rejestru, o których mowa w art. 8c, art. 19 ust. 1 pkt 10 oraz art. 39, w tym ich tworzenie, ewidencjonowanie i utrzymywanie oraz aktualizację i udostępnianie danych;
+- **3)** postępowania w sprawach świadczenia usług transgranicznych, o których mowa w art. 20a;
+- **4)** uznawanie kwalifikacji zawodowych, o których mowa w art. 33a, art. 33d i art. 33e;
+- **5)** prowadzenie postępowań dyscyplinarnych, o których mowa w rozdziale 5.
 
 **Art. 9.**
 
@@ -248,6 +267,15 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 **Art. 18.** Okręgowy zjazd izby:
 
+- **1)** ustala zasady gospodarki finansowej okręgowej izby oraz uchwala budżet okręgowej izby;
+- **2)** rozpatruje i zatwierdza sprawozdania z działalności okręgowej rady izby, okręgowej komisji rewizyjnej, okręgowej komisji kwalifikacyjnej, okręgowego sądu dyscyplinarnego i okręgowego rzecznika odpowiedzialności zawodowej;
+- **3)** udziela absolutorium okręgowej radzie izby;
+- **4)** ustala liczbę członków organów oraz szczegółowe zasady organizacji organów okręgowej izby i tryb ich działania;
+- **5)** wybiera przewodniczących i członków organów okręgowej izby, o których mowa w art. 14 ust. 1 pkt 2–5, oraz okręgowego rzecznika odpowiedzialności zawodowej;
+- **6)** wybiera delegatów na Krajowy Zjazd Izby;
+- **7)** odwołuje członków organów izby przed upływem kadencji;
+- **8)** podejmuje uchwały w innych sprawach objętych zakresem działania izby.
+
 **Art. 19.**
 
 1. Okręgowa rada izby wykonuje zadania samorządu zawodowego na obszarze działania izby, w okresie między zjazdami, w szczególności:
@@ -272,6 +300,11 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 5. Od uchwały, o której mowa w ust. 2, oraz w wypadku niepodjęcia uchwały przez radę okręgową izby w ciągu 2 miesięcy od dnia złożenia wniosku o wpis lub niepodjęcia uchwały przez Krajową Radę Izby w ciągu 2 miesięcy od dnia doręczenia odwołania, zainteresowanemu służy skarga do sądu administracyjnego.
 
 **Art. 19a.** Właściwa okręgowa rada izby architektów lub inżynierów budownictwa wydaje członkom izby:
+
+- **1)** zaświadczenie o członkostwie w izbie;
+- **2)** zaświadczenie potwierdzające posiadanie kwalifikacji zgodnych z wymaganiami wynikającymi z przepisów prawa Unii Europejskiej oraz że posiadany dyplom ukończenia studiów wyższych odpowiada dokumentom poświadczającym posiadanie kwalifikacji zawodowych architekta, wynikających z przepisów prawa Unii Europejskiej;
+- **3)** zaświadczenie potwierdzające posiadanie kwalifikacji do wykonywania zawodu inżyniera budownictwa na terytorium Rzeczypospolitej Polskiej;
+- **4)** inne zaświadczenia wymagane przez właściwe organy państw członkowskich, zgodnie z przepisami prawa Unii Europejskiej.
 
 **Art. 20.** (uchylony)
 
@@ -301,7 +334,7 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 8. Właściwa okręgowa rada izby dokonuje tymczasowego wpisu na listę członków izby osób, o których mowa w ust. 1. Wpis jest dokonywany nieodpłatnie po złożeniu oświadczenia, o którym mowa w ust. 4 pkt 1, i nie może powodować utrudnień lub opóźnień w świadczeniu usługi transgranicznej.
 
-9. Obywatel państwa członkowskiego posiadający kwalifikacje zawodowe architekta lub inżyniera budownictwa nie ma obowiązku rejestracji swojej działalności w systemie ubezpieczeń społecznych w celu dokonywania rozliczeń związanych ze świadczeniem usługi transgranicznej na rzecz osób ubezpieczonych. Jest jednak obowiązany poinformować właściwy oddział Zakładu Ubezpieczeń Społecznych o zamiarze świadczenia usługi transgranicznej przed jego rozpoczęciem, a w nagłych przypadkach o świadczeniu usługi transgranicznej po jego zakończeniu.
+9. Obywatel państwa członkowskiego posiadający kwalifikacje zawodowe architekta lub inżyniera budownictwa nie ma obowiązku rejestracji swojej działalności w systemie ubezpieczeń społecznych w celu dokonywania rozliczeń związanych ze świadczeniem usługi transgranicznej na rzecz osób ubezpieczonych. Jest jednak obowiązany poinformować właściwy oddział Zakładu Ubezpieczeń Społecznych o zamiarze świadczenia usługi transgranicznej przed jego rozpoczęciem, a w nagłych przypadkach – o świadczeniu usługi transgranicznej po jego zakończeniu.
 
 10. Do obywatela państwa członkowskiego posiadającego kwalifikacje zawodowe architekta lub inżyniera budownictwa świadczącego usługę transgraniczną stosuje się przepisy regulujące wykonywanie zawodu odpowiednio architekta lub inżyniera budownictwa na terytorium Rzeczypospolitej Polskiej, które są bezpośrednio powiązane z kwalifikacjami zawodowymi oraz ochroną i bezpieczeństwem konsumentów, w szczególności przepisy dotyczące definicji zawodu, używania tytułów zawodowych i poważnych uchybień zawodowych, a także przepisy dyscyplinarne.
 
@@ -325,7 +358,19 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 **Art. 22.** W posiedzeniach okręgowej rady izby i prezydium mogą brać udział z głosem doradczym:
 
+- **1)** przewodniczący:
+    - **a)** okręgowej komisji rewizyjnej,
+    - **b)** okręgowej komisji kwalifikacyjnej,
+    - **c)** okręgowego sądu dyscyplinarnego;
+
+- **2)** okręgowy rzecznik odpowiedzialności zawodowej;
+- **3)** inne zaproszone osoby, a w szczególności przedstawiciele stowarzyszeń zawodowych.
+
 **Art. 23.** Okręgowa komisja rewizyjna:
+
+- **1)** kontroluje działalność statutową, finansową i gospodarczą okręgowej izby;
+- **2)** składa sprawozdania okręgowemu zjazdowi izby i Krajowej Komisji Rewizyjnej;
+- **3)** występuje z wnioskiem o udzielenie absolutorium okręgowej radzie izby.
 
 **Art. 24.**
 
@@ -334,7 +379,7 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 - **1)** prowadzi postępowania kwalifikacyjne w sprawach nadawania uprawnień budowlanych, zwane dalej „postępowaniami kwalifikacyjnymi”;
 - **2)** przeprowadza egzaminy w sprawach nadawania uprawnień budowlanych i wydaje decyzje o nadaniu tych uprawnień, z zastrzeżeniem art. 33 pkt 9;
 - **3)** (uchylony)
-- **4)** przesyła decyzję o nadaniu uprawnień budowlanych do okręgowej rady izby oraz do centralnego rejestru, o którym mowa w art. 88a ust. 1 pkt 3 lit. a ustawy Prawo budowlane;
+- **4)** przesyła decyzję o nadaniu uprawnień budowlanych do okręgowej rady izby oraz do centralnego rejestru, o którym mowa w art. 88a ust. 1 pkt 3 lit. a ustawy – Prawo budowlane;
 - **5)** prowadzi rejestr osób, którym nadała uprawnienia budowlane;
 - **6)** dokonuje, co najmniej raz w roku, analizy przeprowadzonych postępowań kwalifikacyjnych;
 - **7)** sporządza opinie dla okręgowego sądu dyscyplinarnego w sprawach z zakresu odpowiedzialności zawodowej członków okręgowej izby architektów oraz inżynierów budownictwa;
@@ -346,15 +391,19 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 **Art. 25.**
 
-1. Okręgowy sąd dyscyplinarny rozpatruje sprawy z zakresu odpowiedzialności zawodowej określonej w ustawie Prawo budowlane oraz sprawy dyscyplinarne członków okręgowej izby wniesione przez okręgowego rzecznika odpowiedzialności zawodowej lub okręgową radę izby.
+1. Okręgowy sąd dyscyplinarny rozpatruje sprawy z zakresu odpowiedzialności zawodowej określonej w ustawie – Prawo budowlane oraz sprawy dyscyplinarne członków okręgowej izby wniesione przez okręgowego rzecznika odpowiedzialności zawodowej lub okręgową radę izby.
 
 2. Okręgowy sąd dyscyplinarny orzeka w składzie trzyosobowym.
 
-3. Okręgowy sąd dyscyplinarny orzeka o zatarciu kary, o której mowa w art. 101 ust. 1 ustawy Prawo budowlane.
+3. Okręgowy sąd dyscyplinarny orzeka o zatarciu kary, o której mowa w art. 101 ust. 1 ustawy – Prawo budowlane.
 
 4. Okręgowy sąd dyscyplinarny dokonuje, co najmniej raz w roku, analizy przeprowadzonych postępowań w sprawach odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa i dyscyplinarnej członków izby oraz składa okręgowemu zjazdowi izby i Krajowemu Sądowi Dyscyplinarnemu roczne i kadencyjne sprawozdania ze swojej działalności.
 
 **Art. 26.** Okręgowy rzecznik odpowiedzialności zawodowej:
+
+- **1)** prowadzi postępowania wyjaśniające oraz sprawuje funkcje oskarżyciela w sprawach z zakresu odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa i dyscyplinarnej członków okręgowej izby;
+- **2)** składa odwołania od orzeczeń okręgowego sądu dyscyplinarnego w sprawach, o których mowa w pkt 1, do Krajowego Sądu Dyscyplinarnego, a od orzeczeń Krajowego Sądu Dyscyplinarnego składa odwołania do właściwego sądu apelacyjnego w zakresie odpowiedzialności dyscyplinarnej albo skargę do sądu administracyjnego w zakresie odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa;
+- **3)** składa okręgowemu zjazdowi izby i Krajowemu Rzecznikowi Odpowiedzialności Zawodowej roczne i kadencyjne sprawozdania ze swojej działalności.
 
 #### Rozdział 3 Krajowe Izby
 
@@ -399,6 +448,19 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 **Art. 31.** Krajowy Zjazd Izby:
 
+- **1)** ustala liczbę członków organów Krajowej Izby;
+- **2)** wybiera Prezesa i członków Krajowej Rady Izby;
+- **3)** wybiera przewodniczącego i członków organów Krajowej Izby, o których mowa w art. 28 ust. 1 pkt 3–5, oraz Krajowego Rzecznika Odpowiedzialności Zawodowej;
+- **4)** ustala zasady gospodarki finansowej Krajowej Izby oraz uchwala jej budżet;
+- **5)** uchwala statut i regulaminy określające organizację organów izby i tryb ich działania;
+- **6)** uchwala regulamin wyborów do organów izby;
+- **7)** ustala wysokość i sposób uiszczania składek członkowskich i innych opłat na rzecz izby oraz zasady ich podziału;
+- **8)** ustala zasady prowadzenia listy członków izby;
+- **9)** udziela absolutorium Krajowej Radzie Izby;
+- **10)** uchwala, po zasięgnięciu opinii stowarzyszeń zawodowych, zasady etyki zawodowej;
+- **11)** ustala program działania samorządu zawodowego;
+- **12)** rozpatruje i zatwierdza sprawozdania z działalności Krajowej Rady Izby, Krajowej Komisji Rewizyjnej, Krajowej Komisji Kwalifikacyjnej, Krajowego Sądu Dyscyplinarnego i Krajowego Rzecznika Odpowiedzialności Zawodowej.
+
 **Art. 32.**
 
 1. W skład Krajowej Rady Izby wchodzą Prezes i członkowie wybrani przez Krajowy Zjazd Izby.
@@ -410,6 +472,26 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 4. Oświadczenia woli w imieniu Krajowej Rady Izby składają przynajmniej dwaj członkowie prezydium, w tym Prezes lub wiceprezes.
 
 **Art. 33.** Krajowa Rada Izby kieruje działalnością samorządu zawodowego między Krajowymi Zjazdami, a w szczególności:
+
+- **1)** wykonuje uchwały Krajowego Zjazdu Izby;
+- **2)** koordynuje i nadzoruje działalność okręgowych rad izb;
+- **3)** reprezentuje członków izby;
+- **4)** wspiera podnoszenie kwalifikacji zawodowych członków izb;
+- **4a)** zawiera z uczelniami umowy, o których mowa w art. 61 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **5)** opracowuje projekt regulaminu wyborów do organów izby;
+- **6)** uchwala regulamin postępowania kwalifikacyjnego w sprawach nadawania uprawnień budowlanych i tytułu rzeczoznawcy budowlanego;
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** wydaje, po przeprowadzeniu postępowania weryfikacyjnego, decyzję w sprawie uprawnień budowlanych, w stosunku do osób, o których mowa w art. 12a ustawy – Prawo budowlane, a w wypadku nadania uprawnień budowlanych zobowiązuje okręgową izbę, wskazaną przez zainteresowanego, do dokonania wpisu na listę członków;
+- **10)** dokonuje kontroli uchwał okręgowych rad izb w zakresie zgodności z prawem, uchwałami i regulaminami wydanymi na podstawie ustawy;
+- **11)** opiniuje projekty aktów normatywnych dotyczących architektury lub budownictwa;
+- **12)** składa sprawozdanie ze swojej działalności Krajowemu Zjazdowi Izby;
+- **13)** reprezentuje samorząd wobec organów władzy publicznej oraz organizacji społecznych, zawodowych, samorządowych i innych;
+- **14)** prowadzi bieżące sprawy Krajowej Izby;
+- **15)** uchyla uchwały okręgowych rad izb sprzeczne z prawem lub uchwałami i regulaminami wydanymi na podstawie ustawy;
+- **16)** zobowiązuje okręgową radę izby do podjęcia uchwały w określonej sprawie należącej do zakresu działania tej rady, w terminie 30 dni od dnia doręczenia uchwały Krajowej Rady Izby; niepodjęcie przez okręgową radę izby w powyższym terminie stosownej uchwały upoważnia do jej podjęcia Krajową Radę Izby;
+- **17)** przedstawia odpowiednio ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa coroczne informacje o działalności Krajowej Izby;
+- **18)** ustala wzory pieczęci organów samorządu zawodowego.
 
 **Art. 33a.**
 
@@ -537,9 +619,14 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 **Art. 38.** Krajowy Rzecznik Odpowiedzialności Zawodowej:
 
+- **1)** prowadzi postępowanie wyjaśniające oraz sprawuje funkcje oskarżyciela w sprawach z zakresu odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa i dyscyplinarnej członków organów Krajowej Izby;
+- **2)** składa odwołania od orzeczeń Krajowego Sądu Dyscyplinarnego w sprawach, o których mowa w pkt 1, do właściwego sądu apelacyjnego w zakresie odpowiedzialności dyscyplinarnej lub skargę do sądu administracyjnego w zakresie odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa;
+- **3)** sprawuje nadzór nad działalnością okręgowych rzeczników odpowiedzialności zawodowej;
+- **4)** składa Krajowemu Zjazdowi Izby roczne i kadencyjne sprawozdanie ze swojej działalności.
+
 #### Rozdział 4 Członkostwo w okręgowych izbach
 
-**Art. 39.** Osoby, o których mowa w art. 12a ustawy Prawo budowlane, podlegają na ich wniosek wpisowi na listę członków wskazanej przez nich okręgowej izby i podlegają przepisom ustawy, z zastrzeżeniem art. 33 pkt 9.
+**Art. 39.** Osoby, o których mowa w art. 12a ustawy – Prawo budowlane, podlegają na ich wniosek wpisowi na listę członków wskazanej przez nich okręgowej izby i podlegają przepisom ustawy, z zastrzeżeniem art. 33 pkt 9.
 
 **Art. 40.**
 
@@ -552,6 +639,11 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 2. Członek samorządu zawodowego może zaskarżyć uchwałę okręgowej izby do właściwych organów Krajowej Izby, a uchwałę Krajowej Izby do sądu administracyjnego.
 
 **Art. 41.** Członek izby jest obowiązany:
+
+- **1)** przestrzegać przy wykonywaniu czynności zawodowych obowiązujących przepisów oraz zasad wiedzy technicznej;
+- **2)** przestrzegać zasad etyki zawodowej;
+- **3)** stosować się do uchwał organów izby;
+- **4)** regularnie opłacać składki członkowskie.
 
 **Art. 42.**
 
@@ -568,7 +660,7 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 3. Zawieszenie w prawach członka izby następuje w wypadku:
 
-- **1)** orzeczenia kary, o której mowa w art. 96 ust. 1 pkt 3 ustawy Prawo budowlane;
+- **1)** orzeczenia kary, o której mowa w art. 96 ust. 1 pkt 3 ustawy – Prawo budowlane;
 - **2)** orzeczenia kary dyscyplinarnej o zawieszeniu w prawach członka izby;
 - **3)** nieuiszczania składek członkowskich przez okres dłuższy niż 6 miesięcy;
 - **4)** wniosku członka izby, który czasowo zaprzestał wykonywania samodzielnej funkcji technicznej w budownictwie.
@@ -579,7 +671,7 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 2. Członek izby, o którym mowa w ust. 1, nie może pełnić funkcji w organach izby, a jego mandat w tych organach wygasa.
 
-3. Zawieszenie w prawach członka izby powoduje zakaz wykonywania samodzielnych funkcji technicznych w budownictwie, o których mowa w art. 14 ust. 1 pkt 1–5 ustawy Prawo budowlane, na okres zawieszenia.
+3. Zawieszenie w prawach członka izby powoduje zakaz wykonywania samodzielnych funkcji technicznych w budownictwie, o których mowa w art. 14 ust. 1 pkt 1–5 ustawy – Prawo budowlane, na okres zawieszenia.
 
 **Art. 44.** Członek organów izby pełni swoje funkcje społecznie, chyba że Zjazd Krajowej Izby, w drodze uchwały, postanowi inaczej.
 
@@ -589,17 +681,25 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 1. Członek izby podlega odpowiedzialności dyscyplinarnej za zawinione naruszenie obowiązków, o których mowa w art. 41.
 
-2. Od odpowiedzialności dyscyplinarnej wyłączone są czyny podlegające odpowiedzialności zawodowej, określone w art. 95 ustawy Prawo budowlane, oraz czyny podlegające odpowiedzialności porządkowej zgodnie z przepisami Kodeksu pracy.
+2. Od odpowiedzialności dyscyplinarnej wyłączone są czyny podlegające odpowiedzialności zawodowej, określone w art. 95 ustawy – Prawo budowlane, oraz czyny podlegające odpowiedzialności porządkowej zgodnie z przepisami Kodeksu pracy.
 
 **Art. 46.** Postępowanie dyscyplinarne obejmuje:
+
+- **1)** postępowanie wyjaśniające;
+- **2)** postępowanie przed sądem dyscyplinarnym;
+- **3)** postępowanie wykonawcze.
 
 **Art. 47.**
 
 1. Postępowanie dyscyplinarne wszczyna się na wniosek okręgowej rady izby, okręgowego rzecznika odpowiedzialności zawodowej lub Krajowego Rzecznika Odpowiedzialności Zawodowej.
 
-2. Oskarżycielem w postępowaniu dyscyplinarnym przed okręgowym sądem dyscyplinarnym jest okręgowy rzecznik odpowiedzialności zawodowej, a przed Krajowym Sądem Dyscyplinarnym w sprawach członków organów Krajowej Izby Krajowy Rzecznik Odpowiedzialności Zawodowej.
+2. Oskarżycielem w postępowaniu dyscyplinarnym przed okręgowym sądem dyscyplinarnym jest okręgowy rzecznik odpowiedzialności zawodowej, a przed Krajowym Sądem Dyscyplinarnym w sprawach członków organów Krajowej Izby – Krajowy Rzecznik Odpowiedzialności Zawodowej.
 
 **Art. 48.** Stronami w postępowaniu dyscyplinarnym są:
+
+- **1)** oskarżyciel;
+- **2)** obwiniony;
+- **3)** pokrzywdzony.
 
 **Art. 49.**
 
@@ -620,7 +720,7 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 **Art. 49a.**
 
-1. Okręgowy sąd dyscyplinarny, Krajowy Sąd Dyscyplinarny, okręgowy rzecznik odpowiedzialności zawodowej oraz Krajowy Rzecznik Odpowiedzialności Zawodowej, w toku prowadzonych postępowań, o których mowa w art. 46 pkt 1 i 2, mogą zwrócić się z wnioskiem do organu administracji architektoniczno-budowlanej lub organu nadzoru budowlanego o udostępnienie kopii projektu budowlanego, o którym mowa w art. 34 ustawy Prawo budowlane, będącego w posiadaniu tych organów, jeżeli udostępnienie to ma związek z prowadzonym postępowaniem.
+1. Okręgowy sąd dyscyplinarny, Krajowy Sąd Dyscyplinarny, okręgowy rzecznik odpowiedzialności zawodowej oraz Krajowy Rzecznik Odpowiedzialności Zawodowej, w toku prowadzonych postępowań, o których mowa w art. 46 pkt 1 i 2, mogą zwrócić się z wnioskiem do organu administracji architektoniczno-budowlanej lub organu nadzoru budowlanego o udostępnienie kopii projektu budowlanego, o którym mowa w art. 34 ustawy – Prawo budowlane, będącego w posiadaniu tych organów, jeżeli udostępnienie to ma związek z prowadzonym postępowaniem.
 
 2. Organy, o których mowa w ust. 1, przekazują kopię projektu budowlanego nie później niż w terminie 30 dni od dnia doręczenia wniosku o jej udostępnienie.
 
@@ -660,7 +760,7 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 3. Od orzeczenia okręgowego sądu dyscyplinarnego obwinionemu oraz okręgowemu rzecznikowi odpowiedzialności zawodowej przysługuje prawo wniesienia odwołania do Krajowego Sądu Dyscyplinarnego, w terminie 14 dni od dnia doręczenia orzeczenia na piśmie wraz z uzasadnieniem.
 
-4. Od orzeczenia Krajowego Sądu Dyscyplinarnego w sprawach odpowiedzialności dyscyplinarnej przysługuje obwinionemu, okręgowemu rzecznikowi odpowiedzialności zawodowej lub Krajowemu Rzecznikowi Odpowiedzialności Zawodowej prawo wniesienia odwołania do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego sądu pracy i ubezpieczeń społecznych, w terminie 14 dni od dnia doręczenia na piśmie rozstrzygnięcia wraz z uzasadnieniem.
+4. Od orzeczenia Krajowego Sądu Dyscyplinarnego w sprawach odpowiedzialności dyscyplinarnej przysługuje obwinionemu, okręgowemu rzecznikowi odpowiedzialności zawodowej lub Krajowemu Rzecznikowi Odpowiedzialności Zawodowej prawo wniesienia odwołania do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego – sądu pracy i ubezpieczeń społecznych, w terminie 14 dni od dnia doręczenia na piśmie rozstrzygnięcia wraz z uzasadnieniem.
 
 5. Do rozpoznania odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczeń sądu apelacyjnego kasacja nie przysługuje.
 
@@ -677,6 +777,13 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 3. Jeżeli w okresach, o których mowa w ust. 2a, członek izby został ukarany inną karą dyscyplinarną, zatarcie wpisu o ukaraniu następuje łącznie z zatarciem późniejszego wpisu.
 
 **Art. 56.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, po zasięgnięciu opinii Krajowych Izb, określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania dyscyplinarnego, z uwzględnieniem zagadnień dotyczących:
+
+- **1)** stron i obrońców;
+- **2)** postępowania wyjaśniającego;
+- **3)** postępowania odwoławczego;
+- **4)** wykonania orzeczeń;
+- **5)** wznowienia postępowania;
+- **6)** kosztów postępowania.
 
 #### Rozdział 6 Polubowne rozstrzyganie sporów
 
@@ -742,5 +849,12 @@ o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 **Art. 62.** Do dnia zwołania pierwszych zjazdów okręgowych izb i Krajowych Zjazdów Izb oraz przez okres 3 miesięcy od tego dnia:
 
+- **1)** prawo wykonywania samodzielnych funkcji technicznych w budownictwie oraz samodzielnego projektowania przestrzeni w skali regionalnej i lokalnej lub kierowania zespołem prowadzącym takie projektowanie przysługuje na zasadach dotychczasowych;
+- **2)** zadania określone w art. 8 pkt 4 wykonują oraz nadają uprawnienia urbanistyczne, a także prowadzą postępowania w sprawie odpowiedzialności zawodowej właściwe organy na podstawie przepisów dotychczasowych.
+
 **Art. 63.** Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 61, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 5 ust. 3 pkt 6 oraz art. 59 pkt 3, które wchodzą w życie z dniem przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej .
+
 

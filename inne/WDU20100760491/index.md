@@ -8,7 +8,7 @@ pos: 491
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie zakresu obowiązywania Europejskiej Karty Społecznej sporządzonej w Turynie dnia 18 października 1961 r.

@@ -8,7 +8,7 @@ pos: 1724
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 %
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-07 |
 | Data wydania | 2024-11-25 |
-| Ostatnia zmiana | 2025-08-27 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001724) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1724/text.pdf) |
 
 Art. 12‒14. (pominięte)
@@ -33,7 +33,52 @@ Art. 12‒14. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i warunki udzielania:
+    - **a)** rodzinnego kredytu mieszkaniowego,
+    - **b)** bezpiecznego kredytu 2 %;
+
+- **2)** zasady i warunki udzielania przez Bank Gospodarstwa Krajowego, zwany dalej „BGK”, gwarancji spłaty części:
+    - **a)** rodzinnego kredytu mieszkaniowego,
+    - **b)** bezpiecznego kredytu 2 % – zwanej dalej „gwarancją”;
+
+- **3)** zasady i warunki dokonywania przez BGK na rzecz kredytobiorcy:
+    - **a)** spłaty części rodzinnego kredytu mieszkaniowego w związku z powiększeniem gospodarstwa domowego tego kredytobiorcy o drugie albo kolejne dziecko, zwanej dalej „spłatą rodzinną”,
+    - **b)** dopłaty do rat bezpiecznego kredytu 2 %;
+
+- **4)** zakres i sposób zawierania umowy uprawniającej do udzielania:
+    - **a)** rodzinnego kredytu mieszkaniowego,
+    - **b)** bezpiecznego kredytu 2 %;
+
+- **5)** źródła i sposób finansowania kosztów i wydatków BGK pokrywanych ze środków Rządowego Funduszu Mieszkaniowego.
+
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
+
+- **1)** banku – należy przez to rozumieć bank w rozumieniu art. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879);
+- **1a)** bezpiecznym kredycie 2 % – należy przez to rozumieć kredyt zabezpieczony hipoteką, w tym kredyt, którego umowa przewiduje zabezpieczenie hipoteką po zakończeniu budowy domu jednorodzinnego lub wyodrębnieniu własności lokalu mieszkalnego, do którego rat przysługuje albo przysługiwała dopłata;
+- **2)** budowie – należy przez to rozumieć budowę w rozumieniu art. 3 pkt 6 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834 i
+- **1222)** , z wyłączeniem odbudowy, rozbudowy i nadbudowy obiektu budowlanego, w wyniku których nie dochodzi do wyodrębnienia własności nowego lokalu mieszkalnego;
+- **3)** domu jednorodzinnym – należy przez to rozumieć położony na terytorium Rzeczypospolitej Polskiej budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **4)** dziecku – należy przez to rozumieć dziecko osoby prowadzącej gospodarstwo domowe albo przez nią przysposobione, będące osobą małoletnią w rozumieniu ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237) lub osobą niepełnosprawną, której niepełnosprawność jest potwierdzona orzeczeniem o:
+    - **a)** znacznym stopniu niepełnosprawności, o którym mowa w art. 3 ust. 1 pkt 1,
+    - **b)** całkowitej niezdolności do pracy i niezdolności do samodzielnej egzystencji, o którym mowa w art. 5 pkt 1,
+    - **c)** niezdolności do samodzielnej egzystencji, o którym mowa w art. 5 pkt 1a,
+    - **d)** niepełnosprawności, o której mowa w art. 4a ust. 1 – ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165 i 1494);
+
+- **5)** gospodarstwie domowym – należy przez to rozumieć gospodarstwo domowe prowadzone samodzielnie przez pełnoletnią osobę fizyczną albo wspólnie przez małżonków lub rodziców co najmniej jednego wspólnego dziecka pozostającego pod ich władzą rodzicielską albo opieką prawną;
+- **5a)** inwestycji mieszkaniowej kooperatywy mieszkaniowej – należy przez to rozumieć inwestycję mieszkaniową w rozumieniu art. 2 ust. 1 ustawy z dnia 4 listopada 2022 r. o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych (Dz. U. z 2023 r. poz. 28) realizowaną przez członków kooperatywy mieszkaniowej na terenie Rzeczypospolitej Polskiej;
+- **6)** osobie wchodzącej w skład gospodarstwa domowego – należy przez to rozumieć osobę lub osoby prowadzące gospodarstwo domowe oraz dzieci pozostające pod władzą rodzicielską albo opieką prawną co najmniej jednej z tych osób i stale z nią zamieszkujące;
+- **7)** rodzinnym kredycie mieszkaniowym – należy przez to rozumieć kredyt zabezpieczony hipoteką, w tym kredyt, którego umowa przewiduje zabezpieczenie hipoteką po zakończeniu budowy domu jednorodzinnego lub wyodrębnieniu własności lokalu mieszkalnego, uprawniający do spłat rodzinnych;
+- **8)** lokalu mieszkalnym – należy przez to rozumieć położony na terytorium Rzeczypospolitej Polskiej samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688) znajdujący się w budynku, w skład którego wchodzą co najmniej dwa lokale mieszkalne;
+- **9)** spółdzielczym prawie – należy przez to rozumieć spółdzielcze własnościowe prawo do lokalu oraz ekspektatywę własności, o której mowa w art. 19 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558);
+- **9a)** stopie oprocentowania kredytu – należy przez to rozumieć stopę oprocentowania kredytu uwzględniającą marżę;
+- **9b)** systemie ewidencji dopłat – należy przez to rozumieć prowadzony przez BGK i udostępniany bankom system elektroniczny służący monitorowaniu wydatków związanych z dopłatami do rat bezpiecznego kredytu 2 %;
+- **10)** średnim wskaźniku przeliczeniowym kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych – należy przez to rozumieć średnią arytmetyczną wartości wskaźnika, o którym mowa w art. 2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725), ogłoszonego w dwóch ostatnich okresach dla:
+    - **a)** miasta będącego siedzibą wojewody lub sejmiku województwa – w przypadku gdy lokal mieszkalny lub dom jednorodzinny jest położony na terenie miasta będącego siedzibą wojewody lub sejmiku województwa,
+    - **b)** pozostałych gmin w województwie – w przypadku gdy lokal mieszkalny lub dom jednorodzinny jest położony na terenie gminy niesąsiadującej z miastem będącym siedzibą wojewody lub sejmiku województwa,
+    - **c)** miasta będącego siedzibą wojewody lub sejmiku województwa oraz pozostałych gmin w województwie, nie więcej jednak niż 120 % wartości ustalonej zgodnie z lit. b – w przypadku gdy lokal mieszkalny lub dom jednorodzinny jest położony na terenie gminy sąsiadującej z miastem będącym siedzibą wojewody lub sejmiku województwa;
+
+- **11)** wkładzie budowlanym – należy przez to rozumieć wkład, o którym mowa w art. 18 ust. 2 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych;
+- **12)** wkładzie własnym kredytobiorcy – należy przez to rozumieć środki własne kredytobiorcy przeznaczane na pokrycie części wydatków pokrywanych w pozostałej części rodzinnym kredytem mieszkaniowym albo bezpiecznym kredytem 2 %, w tym należącą do kredytobiorcy i nieobciążoną tym kredytem nieruchomość gruntową, w przypadku gdy kredytu tego udzielono w celu pokrycia wydatków ponoszonych w związku z budową domu jednorodzinnego na tej nieruchomości.
 
 **Art. 3.**
 
@@ -504,8 +549,10 @@ Art. 12‒14. (pominięte)
 - **2)** opłat prowizyjnych z tytułu gwarancji;
 - **3)** wpływów z tytułu odzyskanych przez BGK kwot wypłaconych gwarancji;
 - **4)** wpływów z tytułu zwrotu kwot, o których mowa w art. 17 ust. 1 i 2 ustawy z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe oraz art. 8 ust. 7 i art. 9b ust. 12;
-- **5)** odsetek z tytułu oprocentowania środków Rządowego Funduszu Mieszkaniowego;
+- **5)** odsetek od wolnych środków Rządowego Funduszu Mieszkaniowego przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);
 - **6)** wpływów z innych tytułów.
+
+3a. Wolne środki Rządowego Funduszu Mieszkaniowego w walutach obcych mogą być lokowane w bankach.
 
 4. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zawiera z BGK umowę określającą:
 
@@ -554,6 +601,18 @@ Art. 12‒14. (pominięte)
 2. W terminie 90 dni od dnia wejścia w życie niniejszego przepisu BGK przedstawi ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz ministrowi właściwemu do spraw finansów publicznych projekt rocznego planu finansowego Rządowego Funduszu Mieszkaniowego na rok 2022. Projekt rocznego planu finansowego Rządowego Funduszu Mieszkaniowego na rok 2022 zatwierdza minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych, w terminie 120 dni od dnia wejścia w życie niniejszego przepisu.
 
 **Art. 16.** Maksymalny limit środków budżetu państwa przekazywanych do Rządowego Funduszu Mieszkaniowego z przeznaczeniem na realizację zadań związanych z udzielaniem gwarancji oraz realizacją zadań wynikających z rozdziału 2 wynosi w:
+
+- **1)** 2022 r. – 100 000 000 zł;
+- **2)** 2023 r. – 200 000 000 zł;
+- **3)** 2024 r. – 500 000 000 zł;
+- **4)** 2025 r. – 700 000 000 zł;
+- **5)** 2026 r. – 900 000 000 zł;
+- **6)** 2027 r. – 1 200 000 000 zł;
+- **7)** 2028 r. – 1 400 000 000 zł;
+- **8)** 2029 r. – 1 650 000 000 zł;
+- **9)** 2030 r. – 1 850 000 000 zł;
+- **10)** 2031 r. – 2 000 000 000 zł;
+- **11)** 2032 r. – 2 150 000 000 zł.
 
 **Art. 17.**
 

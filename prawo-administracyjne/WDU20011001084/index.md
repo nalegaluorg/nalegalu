@@ -8,7 +8,7 @@ pos: 1084
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy - Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy - Przepisy wprowadzające ustawy reformujące administrację publiczną
@@ -28,6 +28,116 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011001084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1084/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz.U. z 2000 r. Nr 101, poz. 1092 oraz z 2001 r. Nr 41, poz. 465) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dodaje się ust. 3 w brzmieniu: „3. Policja realizuje także zadania wynikające z umów i porozumień międzynarodowych, na zasadach i w zakresie w nich określonych.”;
+- **2)** w art. 6:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Terytorialny zasięg działania organów, o których mowa w ust. 1 pkt 1 i 2, odpowiada zasadniczemu podziałowi administracyjnemu Państwa, z zastrzeżeniem ust. 3-5.”,
+    - **b)** dodaje się ust. 3-5 w brzmieniu: „3. Wyłącza się z terytorialnego zasięgu działania komendanta wojewódzkiego Policji właściwego dla województwa mazowieckiego obszar:
+
+- **1)** powiatu warszawskiego oraz powiatów: grodziskiego, legionowskiego, otwockiego, piaseczyńskiego, pruszkowskiego, warszawskiego zachodniego i wołomińskiego,
+- **2)** innych powiatów lub gmin przyłączonych do Warszawskiego Zespołu Miejskiego w trybie określonym przepisami ustawy o ustroju miasta stołecznego Warszawy - z dniem wejścia w życie ustawy z dnia 8 czerwca 2001 r. o zmianie ustawy o ustroju miasta stołecznego Warszawy.
+
+4. Komendant Stołeczny Policji wykonuje na obszarze, o którym mowa w ust. 3, zadania i kompetencje odpowiadające zadaniom i kompetencjom komendanta wojewódzkiego Policji w stosunku do komendantów powiatowych w powiatach, o których mowa w ust. 3.
+
+5. Komenda Stołeczna Policji stanowi aparat pomocniczy Komendanta Stołecznego Policji, wykonujący swoje zadania na obszarze, o którym mowa w ust. 3.”;
+
+- **3)** w art. 6b dodaje się ust. 6 w brzmieniu: „6. Komendanta Stołecznego Policji powołuje i odwołuje minister właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Policji złożony za zgodą wojewody mazowieckiego. Do konkursu na stanowisko Komendanta Stołecznego Policji stosuje się odpowiednio przepisy dotyczące konkursu na stanowisko komendanta wojewódzkiego Policji.”;
+- **4)** w art. 6e w ust. 3 wyraz „przedstawienia” zastępuje się wyrazem „doręczenia”;
+- **5)** w art. 7 w ust. 1:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) szczegółowe zasady szkolenia strażników gminnych (miejskich),”,
+    - **b)** dodaje się pkt 4a w brzmieniu: „4a) programy szkoleń zawodowych policjantów,”;
+
+- **6)** art. 8a otrzymuje brzmienie: „Art. 8a. 1. Komendant powiatowy (miejski) Policji może tworzyć rewiry dzielnicowych oraz posterunki Policji na zasadach określonych przez Komendanta Głównego Policji.
+
+2. Kierownika rewiru oraz kierownika posterunku Policji mianuje i zwalnia ze stanowiska komendant powiatowy (miejski) Policji, po zasięgnięciu opinii wójta (burmistrza lub prezydenta miasta), chyba że do wyrażenia opinii w tej sprawie upoważniony został organ wykonawczy jednostki pomocniczej gminy.
+
+3. Do zadań kierownika rewiru oraz kierownika posterunku Policji należy w szczególności:
+
+- **1)** rozpoznawanie zagrożeń i przeciwdziałanie przyczynom ich powstawania,
+- **2)** inicjowanie i organizowanie działań społeczności lokalnych mających na celu zapobieganie popełnianiu przestępstw i wykroczeń oraz innym zjawiskom kryminogennym,
+- **3)** wykonywanie czynności administracyjno-porządkowych oraz innych niecierpiących zwłoki czynności związanych z zawiadomieniem o przestępstwie i zabezpieczeniem miejsca zdarzenia.”;
+- **7)** w art. 10 dodaje się ust. 5 w brzmieniu: „5. Komendanci powiatowi (miejscy) Policji są obowiązani udostępniać komisji bezpieczeństwa i porządku, na żądanie jej przewodniczącego, dokumenty i informacje dotyczące pracy Policji na terenie powiatu, z wyjątkiem akt personalnych pracowników i funkcjonariuszy, materiałów operacyjnorozpoznawczych lub dochodzeniowo-śledczych oraz akt w indywidualnych sprawach administracyjnych.”;
+- **8)** w art. 13:
+    - **a)** w ust. 4 po wyrazach „w rewirach dzielnicowych” dodaje się wyrazy „i w posterunkach Policji”,
+    - **b)** po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „4a. Rada powiatu lub rada gminy może przekazać, na warunkach określonych w porozumieniu zawartym między zarządem powiatu lub gminy, a właściwym komendantem powiatowym (miejskim) Policji, środki finansowe stanowiące dochody własne powiatu lub gminy, dla Policji z przeznaczeniem na:
+
+- **1)** rekompensatę pieniężną za czas służby przekraczający normę określoną w art. 33 ust. 2,
+- **2)** nagrodę za osiągnięcia w służbie, dla policjantów właściwych miejscowo komend powiatowych (miejskich) i komisariatów, którzy realizują zadania z zakresu służby prewencyjnej.
+
+4b. Porozumienie, o którym mowa w ust. 4a, określa w szczególności:
+
+- **1)** rodzaje ustawowych zadań Policji, finansowanych na podstawie porozumienia:
+    - **a)** wykonywanych w czasie przekraczającym normę określoną w art. 33 ust. 2,
+    - **b)** za wykonywanie których może być przyznana nagroda za osiągnięcia w służbie,
+
+- **2)** wysokość oraz tryb i terminy przekazywania środków finansowych, o których mowa w ust. 4a,
+- **3)** sposób dokonywania oceny prawidłowości wykonania porozumienia.
+
+4c. Środki finansowe, o których mowa w ust. 4a, są środkami specjalnymi w rozumieniu ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U. Nr 155, poz. 1014, z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485, Nr 70, poz. 778 i Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69,Nr 12, poz. 136, Nr 48, poz. 550, Nr 95, poz. 1041, Nr 119, poz. 1251 i Nr 122, poz. 1315 oraz z 2001 r. Nr 45, poz. 497, Nr 46, poz. 499, Nr 88, poz. 961, Nr 98, poz. 1070 i Nr 100, poz. 1082).”;
+
+- **9)** w art. 15 w ust. 1 dodaje się pkt 5a w brzmieniu: „5a) obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych, a w przypadku czynności operacyjno-rozpoznawczych i administracyjno-porządkowych podejmowanych na podstawie ustawy - także i dźwięku towarzyszącego tym zdarzeniom,”;
+- **10)** w art. 16 w ust. 1 pkt 4 otrzymuje brzmienie: „4) psy i konie służbowe,”;
+- **11)** art. 19-19b otrzymują brzmienie: „Art. 19. 1. Przy wykonywaniu czynności operacyjno-rozpoznawczych, podejmowanych przez Policję w celu zapobieżenia, wykrycia, ustalenia sprawców, a także uzyskania i utrwalenia dowodów ściganych z oskarżenia publicznego, umyślnych przestępstw:
+- **1)** przeciwko życiu, określonych w art. 148-150 Kodeksu karnego,
+- **2)** określonych w art. 134, art. 135 § 1, art. 136 § 1, art. 156 § 1 i 3, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 166, 167, 173 § 1 i 3, art. 189, 204 § 4, art. 223, 228, 229, 232, 245, 246, 252 § 1-3, art. 253, 258, 269, 280-282, 285 § 1, art. 286, 296, 299 § 1-6 oraz w art. 310 § 1, 2 i 4 Kodeksu karnego,
+- **3)** przeciwko obrotowi gospodarczemu, określonych w art. 297306 Kodeksu karnego, powodujących szkodę majątkową lub skierowanych przeciwko mieniu, jeżeli wysokość szkody lub wartość mienia przekracza pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów,
+- **4)** skarbowych, jeżeli wartość przedmiotu czynu lub uszczuplenie należności publicznoprawnej przekraczają pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów,
+- **5)** nielegalnego wytwarzania, posiadania lub obrotu bronią, amunicją, materiałami wybuchowymi, środkami odurzającymi lub substancjami psychotropowymi albo ich prekursorami oraz materiałami jądrowymi i promieniotwórczymi,
+- **6)** określonych w art. 8 ustawy z dnia 6 czerwca 1997 r. - Przepisy wprowadzające Kodeks karny (Dz.U. Nr 88, poz. 554, Nr 160, poz. 1083 oraz z 1998 r. Nr 113, poz. 715),
+- **7)** określonych w art. 20 ustawy z dnia 26 października 1995 r. o pobieraniu i przeszczepianiu komórek, tkanek i narządów (Dz.U. Nr 138, poz. 682, z 1997 r. Nr 88, poz. 554 i Nr 104, poz. 661 oraz z 2000 r. Nr 120, poz. 1268),
+- **8)** ściganych na mocy umów i porozumień międzynarodowych, gdy inne środki okazały się bezskuteczne albo zachodzi wysokie prawdopodobieństwo, że będą nieskuteczne lub nieprzydatne, sąd okręgowy, na pisemny wniosek Komendanta Głównego Policji, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego albo na pisemny wniosek komendanta wojewódzkiego Policji, złożony po uzyskaniu pisemnej zgody właściwego miejscowo prokuratora okręgowego, może, w drodze postanowienia, zarządzić kontrolę operacyjną.
+
+2. Postanowienie, o którym mowa w ust. 1, wydaje sąd okręgowy właściwy miejscowo ze względu na siedzibę składającego wniosek organu Policji.
+
+3. W przypadkach niecierpiących zwłoki, jeżeli mogłoby to spowodować utratę informacji lub zatarcie albo zniszczenie dowodów przestępstwa, Komendant Główny Policji lub komendant wojewódzki Policji może zarządzić, po uzyskaniu pisemnej zgody właściwego prokuratora, o którym mowa w ust. 1, kontrolę operacyjną, zwracając się jednocześnie do właściwego miejscowo sądu okręgowego z wnioskiem o wydanie postanowienia w tej sprawie. W razie nieudzielenia przez sąd zgody w terminie 5 dni od dnia zarządzenia kontroli operacyjnej, organ zarządzający wstrzymuje kontrolę operacyjną oraz dokonuje protokolarnego, komisyjnego zniszczenia materiałów zgromadzonych podczas jej stosowania.
+
+4. Sąd okręgowy może zezwolić, na pisemny wniosek Komendanta Głównego Policji lub komendanta wojewódzkiego Policji, złożony po uzyskaniu pisemnej zgody właściwego prokuratora, na odstąpienie od zniszczenia materiałów, o których mowa w ust. 3, jeżeli stanowią one dowód lub wskazują na zamiar popełnienia przestępstwa, dla wykrycia którego na podstawie przepisów ustawowych może być prowadzona kontrola operacyjna lub czynności operacyjno-rozpoznawcze.
+
+5. W przypadku potrzeby zarządzenia kontroli operacyjnej wobec osoby podejrzanej lub oskarżonego, we wniosku organu Policji, o którym mowa w ust. 1, o zarządzenie kontroli operacyjnej zamieszcza się informację o toczącym si ę wobec tej osoby postępowaniu.
+
+6. Kontrola operacyjna prowadzona jest niejawnie i polega na:
+
+- **1)** kontrolowaniu treści korespondencji,
+- **2)** kontrolowaniu zawartości przesyłek,
+- **3)** stosowaniu środków technicznych umożliwiających uzyskiwanie w sposób niejawny informacji i dowodów oraz ich utrwalanie, a w szczególności treści rozmów telefonicznych i innych informacji przekazywanych za pomocą sieci telekomunikacyjnych.
+
+7. Wniosek organu Policji, o którym mowa w ust. 1, o zarządzenie przez sąd okręgowy kontroli operacyjnej, powinien zawierać w szczególności:
+
+- **1)** numer sprawy i jej kryptonim, jeżeli został jej nadany,
+- **2)** opis przestępstwa z podaniem, w miarę możliwości, jego kwalifikacji prawnej,
+- **3)** okoliczności uzasadniające potrzebę zastosowania kontroli operacyjnej, w tym stwierdzonej albo prawdopodobnej bezskuteczności lub nieprzydatności innych środków,
+- **4)** dane osoby, wobec której stosowana będzie kontrola operacyjna ze wskazaniem miejsca lub sposobu jej stosowania,
+- **5)** cel, czas i rodzaj prowadzonej kontroli operacyjnej, o której mowa w ust. 6.
+
+8. Kontrolę operacyjną zarządza się na okres nie dłuższy niż 3 miesiące. Sąd okręgowy może, na pisemny wniosek Komendanta Głównego Policji lub komendanta wojewódzkiego Policji, złożony po uzyskaniu pisemnej zgody właściwego prokuratora, na okres nie dłuższy niż kolejne 3 miesiące, wydać postanowienie o jednorazowym przedłużeniu kontroli operacyjnej, jeżeli nie ustały przyczyny zarządzenia tej kontroli.
+
+9. W uzasadnionych przypadkach, gdy podczas stosowania kontroli operacyjnej pojawią się nowe okoliczności istotne dla zapobieżenia lub wykrycia przestępstwa albo ustalenia sprawców i uzyskania dowodów przestępstwa, sąd okręgowy, na pisemny wniosek Komendanta Głównego Policji, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, może wydać postanowienie o kontroli operacyjnej przez czas oznaczony również po upływie okresów, o których mowa w ust. 8.
+
+10. Do wniosków, o których mowa w ust. 3, 4, 8 i 9, stosuje się odpowiednio przepis ust. 7. Sąd przed wydaniem postanowienia, o którym mowa w ust. 3, 4, 8 i 9, może zapoznać się z materiałami, uzasadniającymi wniosek, zgromadzonymi podczas stosowania kontroli operacyjnej zarządzonej w tej sprawie.
+
+11. Wnioski, o których mowa w ust. 1, 3-5, 8 i 9, sąd okręgowy rozpoznaje jednoosobowo, przy czym czynności sądu związane z rozpoznawaniem tych wniosków powinny być realizowane w warunkach przewidzianych dla przekazywania, przechowywania i udostępniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wydanych na podstawie art. 181 § 2 Kodeksu postępowania karnego. W posiedzeniu sądu może wziąć udział wyłącznie prokurator i przedstawiciel organu Policji wnioskującego o zarządzenie kontroli operacyjnej.
+
+12. Operatorzy prowadzący działalność telekomunikacyjną w sieciach publicznych oraz podmioty świadczące usługi pocztowe są obowiązani do zapewnienia na własny koszt warunków technicznych i organizacyjnych umożliwiających prowadzenie przez Policję kontroli operacyjnej.
+
+13. Kontrola operacyjna powinna być zakończona niezwłocznie po ustaniu przyczyn jej zarządzenia, najpóźniej jednak z upływem okresu, na który została wprowadzona.
+
+14. Organ policji, o którym mowa w ust. 1, informuje właściwego prokuratora o wynikach kontroli operacyjnej po jej zakończeniu, a na jego żądanie również o przebiegu tej kontroli.
+
+15. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego, Komendant Główny Policji lub komendant wojewódzki Policji przekazuje właściwemu prokuratorowi wszystkie materiały zgromadzone podczas stosowania kontroli operacyjnej, w razie potrzeby z wnioskiem o wszczę cie postępowania karnego. W postępowaniu przed sądem, w odniesieniu do tych materiałów stosuje się odpowiednio przepisy art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
+
+16. Osobie, wobec której kontrola operacyjna była stosowana nie udostępnia się materiałów zgromadzonych podczas trwania tej kontroli. Przepis nie narusza uprawnień wynikających z art. 321 Kodeksu postępowania karnego.
+
+17. Zgromadzone podczas stosowania kontroli operacyjnej materiały niezawierające dowodów pozwalających na wszczęcie postępowania karnego, przechowuje się po zakończeniu kontroli przez okres 2 miesięcy, a następnie dokonuje się ich protokolarnego, komisyjnego zniszczenia. Zniszczenie materiałów zarządza organ Policji, który wnioskował o zarządzenie kontroli operacyjnej.
+
+18. Trybu, o którym mowa w ust. 1-11, nie stosuje się, jeżeli kontrola operacyjna jest prowadzona za wyrażoną na piśmie zgodą osoby będącej nadawcą lub odbiorcą przekazu informacji.
+
+19. W przypadkach, o których mowa w ust. 18, kontrolę operacyjną zarządza organ Policji właściwy do prowadzenia czynności operacyjno - rozpoznawczych w danej sprawie.
+
+20. Na postanowienia sądu w przedmiocie kontroli operacyjnej, o których mowa w ust. 1, 3, 8 i 9, a także na postanowienie sądu w przedmiocie odstąpienia od zniszczenia materiałów zgromadzonych podczas stosowania kontroli operacyjnej, o którym mowa w ust. 4, przysługuje zażalenie organowi Policji, który złożył wniosek o wydanie tego postanowienia. Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
+
+21. Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw łączności, określi, w drodze rozporządzenia, sposób dokumentowania kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków i rejestrów.
+
+22. Prokurator Generalny przedstawia corocznie Sejmowi i Senatowi informację o działalności określonej w ust. 1-21, w tym informacje i dane, o których mowa w art. 20 ust. 3.
 
 **Art. 19a.**
 
@@ -214,7 +324,55 @@ source: "isap-pdf"
 
 **Art. 50.** Na pierwszy stopień oficerski może być mianowany policjant, który spełnia warunki określone w art. 25 ust. 1 i ukończył Wyższą Szkołę Policji lub spełnia warunki określone w art. 25 ust. 1, posiada wykształcenie wyższe, ukończył szkolenie dla absolwentów szkół wyższych oraz złożył egzamin oficerski.”;
 
+- **22)** w art. 56 ust. 2 otrzymuje brzmienie: „2. Mianowanie, o którym mowa w ust. 1, uzależnione jest od ukończenia szkolenia zawodowego wymienionego w art. 34 ust. 3.”;
+- **23)** art. 57 otrzymuje brzmienie: „Art. 57. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe zasady i tryb składania egzaminów oraz mianowania policjantów na stopnie policyjne, uwzględniając jednostki organizacyjne Policji właściwe do przeprowadzania egzaminów na stopnie policyjne, terminy mianowania na stopnie policyjne oraz warunki, od których uzależnione jest mianowanie na stopień policyjny.”;
+- **24)** art. 82 otrzymuje brzmienie: „Art. 82. 1. Policjantowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 26 dni roboczych.
+
+2. Policjant uzyskuje prawo do pierwszego urlopu z upływem 6 miesięcy służby w wymiarze połowy urlopu przysługującego po roku służby.
+
+3. Prawo do urlopu w pełnym wymiarze policjant nabywa z upływem roku służby. Do tego urlopu wlicza się urlop, o którym mowa w ust. 2.”;
+
+- **25)** art. 84 otrzymuje brzmienie: „Art. 84. Minister właściwy do spraw wewnętrznych może, w drodze rozporządzenia, wprowadzić płatne urlopy dodatkowe w wymiarze do 13 dni roboczych rocznie dla policjantów, którzy pełnią służbę w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia albo osiągnęli określony wiek lub staż służby, albo gdy jest to uzasadnione szczególnymi właściwościami służby.”;
+- **26)** w art. 88 dodaje się ust. 3 i 4 w brzmieniu: „3. Policjant traci prawo do lokalu mieszkalnego w razie dyscyplinarnego wydalenia ze służby.
+
+4. Miejscowością pobliską, o której mowa w ust. 1, jest miejscowość, z której czas dojazdu do miejsca pełnienia służby i z powrotem środkami publicznego transportu zbiorowego, zgodnie z rozkładem jazdy, łącznie z przesiadkami nie przekracza w obie strony dwóch godzin, licząc od stacji (przystanku) położonej najbliżej miejsca zamieszkania do stacji (przystanku) położonej najbliżej miejsca pełnienia służby bez uwzględnienia czasu dojazdu do i od stacji (przystanku) w obrębie miejscowości, z której policjant dojeżdża, oraz miejscowości, w której wykonuje obowiązki służbowe.”;
+
+- **27)** w art. 95 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2-4 w brzmieniu: „2. Decyzję o opróżnieniu lokalu mieszkalnego, o którym mowa w art. 90 ust. 1, wydaje się, jeżeli policjant:
+- **1)** podnajmuje albo oddaje do bezpłatnego u żywania przydzielony lokal lub jego część,
+- **2)** używa lokal mieszkalny w sposób sprzeczny z umową najmu lub niezgodnie z przeznaczeniem, zaniedbuje obowiązki, dopuszczając do powstania szkód, albo niszczy urządzenia przeznaczone do wspólnego korzystania przez mieszkańców,
+- **3)** wykracza w sposób rażący lub uporczywy przeciwko porządkowi domowemu, czyniąc uciążliwym korzystanie z innych lokali,
+- **4)** jest w zwłoce z zapłatą czynszu lub opłat za świadczenia związane z eksploatacją lokalu przez okres co najmniej dwóch pełnych okresów płatności, pomimo uprzedzania na piśmie o zamiarze wydania decyzji o opróżnieniu lokalu i wyznaczenia dodatkowego, miesięcznego terminu zapłaty zaległych i bieżących należności,
+- **5)** otrzymał pomoc finansową, o której mowa w art. 94 ust. 1,
+- **6)** został przeniesiony do pełnienia służby w innej miejscowości i przydzielono mu w tej lub pobliskiej miejscowości następny lokal mieszkalny,
+- **7)** nie zwolnił, w terminie określonym odrębnymi przepisami, wcześniej przydzielonego lokalu mieszkalnego,
+- **8)** zrzekł się uprawnień do zajmowanego lokalu mieszkalnego.
+
+3. Decyzję o opróżnieniu lokalu mieszkalnego wydaje się także:
+
+- **1)** jeżeli policjantowi lub jego małżonkowi przysługuje tytuł prawny do innego lokalu mieszkalnego, o którym mowa w art. 90 ust. 1; w takim przypadku osobom tym przysługuje prawo wyboru jednego z zajmowanych lokali,
+- **2)** gdy policjant zwolniony ze służby lub pozostali po policjancie członkowie rodziny zajmują lokal mieszkalny położony w budynku przeznaczonym na cele służbowe lub na terenie obiektu zamkniętego, a osobom tym przydzielono lokal mieszkalny w tej samej lub pobliskiej miejscowości, o powierzchni odpowiadającej przysługującym normom zaludnienia,
+- **3)** w przypadku zajmowania lokalu mieszkalnego, o którym mowa w art. 90 ust. 1, przez policjanta lub członków jego rodziny albo inne osoby bez tytułu prawnego.
+
+4. Decyzję o opróżnieniu lokalu wydaje się w stosunku do wszystkich osób zamieszkałych w tym lokalu.”;
+
+- **28)** w art. 97 w ust. 5 wyrazy „o których mowa w art. 91, 92 i 94” zastępuje się wyrazami „o których mowa w art. 91, 92, 94 i 95 ust. 2-4.”;
+- **29)** art. 101 i 102 otrzymują brzmienie: „Art. 101. 1. Wysokość uposażenia zasadniczego policjanta jest uzależniona od grupy zaszeregowania jego stanowiska służbowego oraz od posiadanej wysługi lat.
+
+2. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, szczegółowe zasady otrzymywania oraz wysokość uposażenia zasadniczego policjantów, uwzględniając grupy zaszeregowania i odpowiadające im stawki uposażenia, zaszeregowanie stanowisk służbowych do poszczególnych grup i odpowiadające im policyjne stopnie etatowe, warunki podwyższania tego uposażenia, a tak że sposób ustalania jego wzrostu z tytułu wysługi lat.
+
 **Art. 102.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe zasady ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego, uwzględniając rodzaje okresów służby, pracy i innych okresów podlegających zaliczeniu do wysługi, sposób jej dokumentowania oraz tryb postępowania w tych sprawach.”;
+
+- **30)** art. 104 i 105 otrzymują brzmienie: „Art. 104. 1. Policjantowi przysługuje dodatek za stopień w wysokości uzależnionej od posiadanego stopnia policyjnego.
+
+2. Policjantowi pełniącemu służbę lub obowiązki na stanowisku kierowniczym lub samodzielnym przysługuje dodatek funkcyjny.
+
+3. Na stanowiskach innych niż wymienione w ust. 2 policjant za należyte wykonywanie obowiązków służbowych może otrzymywać dodatek służbowy.
+
+4. Niezależnie od dodatków, o których mowa w ust. 1-3, policjantowi mogą być przyznawane dodatki do uposażenia uzasadnione szczególnymi właściwościami, kwalifikacjami, warunkami lub miejscem pełnienia służby.
+
+5. Dodatkami do uposażenia o charakterze stałym są dodatki ustalone w stawkach miesięcznych.
+
+6. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, szczegółowe zasady otrzymywania oraz wysokość dodatków do uposażenia, o których mowa w ust. 1-4, uwzględniając ich rodzaj i charakter, przesłanki przyznawania lub podwyższania na stałe lub na czas określony, warunki obniżania lub cofania oraz stanowiska uprawniające do dodatku funkcyjnego.
 
 **Art. 105.**
 
@@ -313,6 +471,12 @@ source: "isap-pdf"
 
 **Art. 145f.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** warunki otrzymywania, rodzaj waluty oraz wysokość dodatków, świadczeń i należności, o których mowa w art. 145e ust. 2, uwzględniając ich rodzaje i zakres przyznawania z uwagi na występujące zagrożenia, uciążliwość lub miejsce pełnienia służby oraz sprawowaną przez policjanta funkcję,
+- **2)** uprawnienia i obowiązki policjantów delegowanych do pełnienia służby poza granicami państwa, z uwzględnieniem warunków i trybu delegowania policjantów, przypadków ich odwoływania przed wyznaczonym terminem oraz przedłużania czasu delegowania, a także przełożonych właściwych w tych sprawach,
+- **3)** szczegółowe zasady zatrudniania w kontyngentach policyjnych pracowników, o których mowa w art. 145c, i ich wynagradzania, z uwzględnieniem postanowień zawartych w przepisach prawa pracy oraz specyfiki związanej z wykonywaniem pracy w kontyngencie policyjnym realizującym zadania poza granicami państwa, a w szczególności prawa do dodatku zagranicznego, świadczeń z tytułu podróży i przejazdów oraz innych należności pieniężnych związanych z delegowaniem, a także świadczeń odszkodowawczych wynikających z odrębnych ustaw,
+- **4)** warunki otrzymywania przez policjantów i pracowników, o których mowa w art. 145c, bezpłatnych świadczeń zdrowotnych, zaopatrzenia w leki i artykuły sanitarne,
+- **5)** szczegółowe zasady i tryb finansowania i działania kontyngentu policyjnego, w tym jego wyposażenia i przewozu, z uwzględnieniem przepisów o finansach publicznych.
+
 **Art. 145g.**
 
 1. Wydatki związane z udziałem kontyngentów policyjnych poza granicami państwa finansowane są z budżetu państwa, w części ministra właściwego do spraw wewnętrznych.
@@ -321,9 +485,60 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz.U. z 1996 r. Nr 11, poz. 62, z 1997 r. Nr 43, poz. 272, Nr 88, poz. 554, Nr 107, poz. 685, Nr 121, poz. 769 i 770 i Nr 139, poz. 934, z 1998 r. Nr 155, poz. 1015, z 1999 r. Nr 49, poz. 483, Nr 101, poz. 1178 i Nr 110, poz. 1255, z 2000 r. Nr 43, poz. 483, Nr 48, poz. 552, Nr 70, poz. 819, Nr 114, poz. 1193 i Nr 116, poz. 1216 oraz z 2001 r. Nr 37, poz. 424 i Nr 88, poz. 961) wprowadza się następujące zmiany:
 
+- **1)** w art. 9 w ust. 2 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) Policji, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstw, ich wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonym w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz.U. z 2000 r. Nr 101, poz. 1092 oraz z 2001 r. Nr 41, poz. 465, Nr 81, poz. 877 i Nr 100, poz. 1084),”;
+- **2)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. 1. Zakład ubezpieczeń i osoby w nim zatrudnione oraz osoby, za pośrednictwem których zakład wykonuje czynności ubezpieczeniowe są zobowiązane zachować tajemnicę, która obejmuje wszystkie wiadomości dotyczące udzielania Policji danych, na zasadach określonych w art. 20 ust. 4-10 ustawy wymienionej w art. 9 ust. 2 pkt 6a.
+
+2. Zachowanie tajemnicy, o której mowa w ust. 1, obowiązuje również wobec strony umowy ubezpieczenia oraz osób trzecich.”.
+
 **Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz.U. Nr 140, poz. 939, z 1998 r. Nr 160, poz. 1063 i Nr 162, poz. 1118, z 1999 r. Nr 11, poz. 95 i Nr 40, poz. 399, z 2000 r. Nr 93, poz. 1027, Nr 94, poz. 1037, Nr 114, poz. 1191, Nr 116, poz. 1216, Nr 119, poz. 1252 i Nr 122, poz. 1316 oraz z 2001 r. Nr 8, poz. 64) wprowadza się następujące zmiany:
 
+- **1)** w art. 104: 20 ust. 4-10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz.U. z 2000 r. Nr 101, poz. 1092 oraz z 2001 r. Nr 41, poz. 465, Nr 81, poz. 877 i Nr 100, poz. 1084) oraz dotyczące zawiadomienia, o którym mowa w art. 20 ust. 13 tej ustawy.”,
+    - **a)** w ust. 1 w pkt 2 na końcu kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „3) dotyczące udzielania Policji informacji na zasadach określonych w art.
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Bank i osoby w nim zatrudnione oraz osoby, za pośrednictwem których bank wykonuje czynności bankowe, obowiązuje zachowanie tajemnicy wobec strony umowy oraz osób trzecich w przypadkach, o których mowa w ust. 1 pkt 3.”;
+
+- **2)** w art. 105 w ust. 1 w pkt 2 dodaje się lit. l w brzmieniu: „l) Policji, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstw, ich wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonym w art. 20 ustawy wymienionej w art. 104 ust. 1 pkt 3.”.
+
 **Art. 4.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz.U. Nr 91, poz. 578 i Nr 155, poz. 1014, z 2000 r. Nr 12, poz. 136, Nr 26, poz. 306, Nr 48, poz. 552, Nr 62, poz. 718, Nr 88, poz. 985, Nr 91, poz. 1009 i Nr 95, poz. 1041 oraz z 2001 r. Nr 45, poz. 497 i Nr 89, poz. 971) wprowadza się następujące zmiany:
+
+- **1)** w art. 12 po pkt 9c dodaje się pkt 9d w brzmieniu: „9d) uchwalanie powiatowego programu zapobiegania przestępczości oraz ochrony bezpieczeństwa obywateli i porządku publicznego,”;
+- **2)** po art. 38 dodaje się 38a-38c w brzmieniu: „Art. 38a. 1. W celu realizacji zadań starosty w zakresie zwierzchnictwa nad powiatowymi służbami, inspekcjami i strażami oraz zadań określonych w ustawach w zakresie porządku publicznego i bezpieczeństwa obywateli, tworzy się komisję bezpieczeństwa i porządku, zwaną dalej „komisją”.
+
+2. Do zadań komisji należy:
+
+- **1)** ocena zagrożeń porządku publicznego i bezpieczeństwa obywateli na terenie powiatu,
+- **2)** opiniowanie pracy Policji i innych powiatowych służb, inspekcji i straży, a także jednostek organizacyjnych wykonujących na terenie powiatu zadania z zakresu porządku publicznego i bezpieczeństwa obywateli,
+- **3)** przygotowywanie projektu powiatowego programu zapobiegania przestępczości oraz porządku publicznego i bezpieczeństwa obywateli,
+- **4)** opiniowanie projektów innych programów współdziałania Policji i innych powiatowych służb, inspekcji i straży oraz jednostek organizacyjnych wykonujących na terenie powiatu zadania z zakresu porządku publicznego i bezpieczeństwa obywateli,
+- **5)** opiniowanie projektu budżetu powiatu - w zakresie, o którym mowa w pkt 1,
+- **6)** opiniowanie projektów aktów prawa miejscowego i innych dokumentów w sprawach związanych z wykonywaniem zadań, o których mowa w pkt 1, 2 i 4,
+- **7)** opiniowanie, zleconych przez starostę, innych niż wymienione w pkt 2 i pkt 4-6 zagadnień dotyczących porządku publicznego i bezpieczeństwa obywateli.
+
+3. Prezydent miasta na prawach powiatu i starosta powiatu graniczącego z takim miastem mogą utworzyć, w drodze porozumienia, wspólną komisję dla miasta na prawach powiatu oraz powiatu graniczącego z takim miastem. W takim przypadku prezydent miasta i starosta współprzewodniczą komisji.
+
+4. Porozumienie, o którym mowa w ust. 3, określa w szczególności:
+
+- **1)** tryb powoływania członków komisji, o których mowa w ust. 5 pkt 2-4,
+- **2)** zasady pokrywania kosztów działania komisji oraz zwrotu członkom komisji i osobom powołanym do udziału w jej pracach wydatków rzeczywiście poniesionych w związku z udziałem w pracach komisji,
+- **3)** zasady obsługi administracyjno-biurowej komisji.
+
+5. W skład komisji wchodzi:
+
+- **1)** starosta, jako przewodniczący komisji,
+- **2)** dwóch radnych delegowanych przez radę powiatu,
+- **3)** trzy osoby powołane przez starostę spośród osób wyróżniających się wiedzą o problemach będących przedmiotem prac komisji oraz cieszących się wśród miejscowej społeczności osobistym autorytetem i zaufaniem publicznym, w szczególności przedstawicieli samorządów gminnych, organizacji pozarządowych, pracowników oświaty, a także instytucji zajmujących się zwalczaniem zjawisk patologii społecznych i zapobieganiem bezrobociu,
+- **4)** dwóch przedstawicieli delegowanych przez komendanta powiatowego (miejskiego) Policji.
+
+6. W pracach komisji uczestniczy także prokurator wskazany przez właściwego prokuratora okręgowego.
+
+7. Starosta może powołać do udziału w pracach komisji funkcjonariuszy i pracowników innych niż Policja powiatowych służb, inspekcji i straży oraz pracowników innych organów administracji publicznej wykonujących zadania z zakresu porządku publicznego i bezpieczeństwa obywateli na terenie powiatu.
+
+8. Funkcjonariusze i pracownicy, o których mowa w ust. 7, uczestniczą w pracach komisji z głosem doradczym.
+
+9. Kadencja komisji trwa 3 lata.
+
+10. Odwołanie członka komisji przed upływem kadencji przez organ, który go powołał lub delegował, jest możliwe jedynie z ważnych powodów, które podaje się na piśmie. Członkostwo w komisji radnego delegowanego przez radę powiatu ustaje zawsze z wygaśnięciem jego mandatu.
+
+11. W przypadku śmierci, odwołania lub rezygnacji członka komisji przed upływem kadencji, organ, który go powołał lub delegował, powołuje lub deleguje nowego członka komisji na okres pozostały do upływu kadencji poprzedniego członka.
 
 **Art. 38b.**
 
@@ -340,6 +555,10 @@ source: "isap-pdf"
 2. Obsługę administracyjno-biurową komisji zapewnia starostwo.”.
 
 **Art. 5.** W ustawie z dnia 13 października 1998 r. - Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz.U. Nr 133, poz. 872 i Nr 162, poz. 1126, z 2000 r. Nr 6, poz. 70, Nr 12, poz. 136, Nr 17, poz. 228, Nr 19, poz. 239, Nr 52, poz. 632, Nr 95, poz. 1041 i Nr 122, poz. 1312 oraz z 2001 r. Nr 45, poz. 497) w art. 32 wprowadza się następujące zmiany:
+
+- **1)** użyte w ust. 1 i 2 oraz dwukrotnie w ust. 5 wyrazy „powiatu warszawskiego” zastępuje się wyrazami „ , o którym mowa w art. 1 w pkt 2 lit. b) ustawy z dnia 27 lipca 2001 r. o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy - Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy Przepisy wprowadzające ustawy reformujące administrcację publiczną (Dz.U. Nr 100, poz. 1084)”;
+- **2)** w ust. 8 wyrazy „rady powiatu” zastępuje się wyrazami „Zgromadzenia Warszawskiego Zespołu Miejskiego”;
+- **3)** dodaje się ust. 12 w brzmieniu: „12. Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, może przekazać określone zadania i kompetencje z zakresu właściwości komendanta powiatowego Policji komendantom poszczególnych komisariatów Policji na obszarze miasta stołecznego Warszawy. Jeżeli kompetencje te dotyczą spraw z zakresu postępowania administracyjnego właściwym organem wyższego stopnia w stosunku do komendanta komisariatu jest Komendant Stołeczny Policji.”.
 
 **Art. 6.** Rady powiatu i komendanci powiatowi (miejscy) Policji delegują, a starostowie powołają członków komisji bezpieczeństwa i porządku, nie później niż w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy. W tym samym terminie właściwy prokurator okręgowy wskaże prokuratora uczestniczącego w pracach komisji.”.
 

@@ -8,10 +8,10 @@ pos: 183
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 lutego 2012 r.
+# DZIENNIK USTAW l p RZECZYPOSPOLITEJ POLSKIEJ .
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/183/text.pdf) |
 
-Pozycja 183 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 23 stycznia 2012 r.
-w sprawie zniesienia Pełnomocnika Rządu do Spraw Opracowania Programu Zapobiegania Nieprawidłowościom w Instytucjach Publicznych Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm. ) zarządza się, co następuje: § 1. Znosi się Pełnomocnika Rządu do Spraw Opracowania Programu Zapobiegania Nieprawidłowościom w Instytucjach Publicznych.
+Warszawa, dnia 17 lutego 2012 v r.
+Pozycja 183 o ROZPORZĄDZENIE RADY MINISTRÓW z dnia 23 stycznia g 2012 r.
+w sprawie zniesienia Pełnomocnika Rządu do Spraw Opracowania Programu Zapobiegania Nieprawidłowościom w Instytucjach Publicznych Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia . 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm. ) zarządza się, co następuje: l
+§ 1. Znosi się Pełnomocnika Rządu do Spraw Opracowania Programu Zapobiegania Nieprawidłowościom w Instytucjach Publicznych. c
 § 2. Traci moc rozporządzenie Rady Ministrów z dnia 27 listopada 2007 r. w sprawie Pełnomocnika Rządu do Spraw Opracowania Programu Zapobiegania Nieprawidłowościom w Instytucjach Publicznych (Dz. U. Nr 224, poz. 1660 oraz z 2010 r. Nr 237, poz. 1571).
+r
 § 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+. Prezes Rady Ministrów: D. Tusk w w w
 

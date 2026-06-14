@@ -8,7 +8,7 @@ pos: 1215
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o systemie rekompensat dla sektorów i podsektorów energochłonnych
@@ -35,6 +35,12 @@ source: "isap-pdf"
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** instalacji – rozumie się przez to instalację w rozumieniu art. 3 pkt 6 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834 i 1089), wytwarzającą co najmniej jeden produkt z sektora lub podsektora energochłonnego, określonych w załączniku nr 1 do ustawy;
+- **2)** tytule prawnym – rozumie się przez to prawo własności, prawo użytkowania wieczystego, trwały zarząd, ograniczone prawo rzeczowe albo stosunek zobowiązaniowy;
+- **3)** weryfikatorze – rozumie się przez to:
+    - **a)** osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, o której mowa w art. 3 pkt 3 rozporządzenia wykonawczego Komisji (UE) 2018/2067 z dnia 19 grudnia 2018 r. w sprawie weryfikacji danych oraz akredytacji weryfikatorów na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 334 z 31.12.2018, str. 94),
+    - **b)** osobę fizyczną, która uzyskała akredytację w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej zgodnie z rozporządzeniem, o którym mowa w lit. a.
+
 **Art. 4.**
 
 1. Do postępowania w sprawie przyznania rekompensat, zwrotu zaliczek, zwrotu rekompensat, zakazu ubiegania się o przyznanie rekompensat oraz nakładania kar pieniężnych, o których mowa w art. 26, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz.
@@ -50,6 +56,16 @@ source: "isap-pdf"
 #### Rozdział 2 Zasady, tryb przyznawania oraz sposób obliczania wysokości rekompensat
 
 **Art. 5.** O przyznanie rekompensat może się ubiegać podmiot, który:
+
+- **1)** posiada tytuł prawny do instalacji i eksploatuje tę instalację;
+- **2)** posiada wdrożony:
+    - **a)** system zarządzania środowiskowego, o którym mowa w art. 2 pkt 13 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1221/2009 z dnia 25 listopada 2009 r. w sprawie dobrowolnego udziału organizacji w systemie ekozarządzania i audytu we Wspólnocie (EMAS), uchylającego rozporządzenie (WE) nr 761/2001 oraz decyzje Komisji 2001/681/WE i 2006/193/WE (Dz. Urz. UE L 342 z 22.12.2009, str. 1, z późn. zm. ), lub
+    - **b)** system zarządzania środowiskowego potwierdzony certyfikatem ISO 14001 wydanym przez niezależną i akredytowaną w tym zakresie jednostkę certyfikującą, lub
+    - **c)** system zarządzania energią potwierdzony certyfikatem ISO 50001 wydanym przez niezależną i akredytowaną w tym zakresie jednostkę certyfikującą;
+
+- **3)** nie jest przedsiębiorstwem znajdującym się w trudnej sytuacji w rozumieniu komunikatu Komisji – Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji (Dz. Urz. UE C 249 z 31.07.2014, str. 1 oraz Dz. Urz. UE C 224 z 08.07.2020, str. 2);
+- **4)** nie zalega z zapłatą podatków stanowiących dochód budżetu państwa, z wyjątkiem przypadków, gdy uzyskał przewidziane prawem zwolnienie, odroczenie, rozłożenie na raty zaległości podatkowych albo podatku lub wstrzymanie w całości wykonania decyzji właściwego organu podatkowego;
+- **5)** nie zalega z zapłatą należności z tytułu składek na ubezpieczenia społeczne, z wyjątkiem przypadków, gdy zawarł umowę o odroczeniu terminu płatności albo umowę o rozłożeniu na raty należności z tytułu składek na ubezpieczenia społeczne.
 
 **Art. 6.**
 
@@ -185,7 +201,7 @@ source: "isap-pdf"
 
 **Art. 10b.**
 
-1. Wysokość zaliczki oblicza się zgodnie ze wzorem: Z P = 0,6× R × P w którym poszczególne symbole oznaczają: Z – kwotę zaliczki obliczoną dla wnioskodawcy; R – wartość rekompensat wypłaconych wnioskodawcy w poprzednim roku kalendarzowym; P – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat dla roku kalendarzowego, za który są przyznawane rekompensaty; P – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat dla roku kalendarzowego poprzedzającego rok, za który są przyznawane rekompensaty.
+1. Wysokość zaliczki oblicza się zgodnie ze wzorem: P Z = 0,6× R × P w którym poszczególne symbole oznaczają: Z – kwotę zaliczki obliczoną dla wnioskodawcy; R – wartość rekompensat wypłaconych wnioskodawcy w poprzednim roku kalendarzowym; P – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat dla roku kalendarzowego, za który są przyznawane rekompensaty; P – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat dla roku kalendarzowego poprzedzającego rok, za który są przyznawane rekompensaty.
 
 2. Zaliczki są wypłacane przez Bank z Funduszu Rekompensat Pośrednich Kosztów Emisji, o którym mowa w art. 21 ust. 1, w terminie 14 dni od dnia otrzymania wykazu, o którym mowa w art. 10a ust. 3.
 
@@ -261,6 +277,11 @@ source: "isap-pdf"
 5. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 3 pkt 1, mając na uwadze konieczność zapewnienia przejrzystości tego sprawozdania oraz ujednolicenia sposobu jego sporządzania.
 
 **Art. 13.** Rekompensaty przyznane:
+
+- **1)** bez spełnienia warunków określonych w art. 5 lub
+- **2)** w wysokości wyższej niż należna, lub
+- **3)** podmiotowi, który zaprzestał produkcji w instalacji, w okresie 2 lat następujących po roku kalendarzowym, w którym zostały mu przyznane rekompensaty, chyba że podmiot wykaże, że zaprzestanie produkcji wynika z przeniesienia jej na terytorium państwa członkowskiego Unii Europejskiej, Szwajcarii lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, lub
+- **4)** podmiotowi, który nie wykonał obowiązku, o którym mowa w art. 12a ust. 1 – podlegają zwrotowi.
 
 **Art. 13a.** Zaliczki wypłacone podmiotowi, który nie uzyskał decyzji o przyznaniu rekompensat albo wypłacone w wysokości wyższej niż kwota rekompensat przyznanych decyzją, o której mowa w art. 11 ust. 1, podlegają zwrotowi.
 
@@ -342,6 +363,13 @@ source: "isap-pdf"
 2. Pożyczki, o których mowa w ust. 1, nie są oprocentowane.
 
 **Art. 23.** Środki Funduszu przeznacza się na:
+
+- **1)** wypłatę zaliczki oraz wypłatę rekompensat;
+- **2)** wypłatę wynagrodzenia Banku za wykonywanie czynności, o których mowa w art. 21 ust. 3 oraz art. 25;
+- **3)** wypłatę pomocy publicznej w związku ze wzrostem cen energii elektrycznej i gazu ziemnego, o której mowa w ustawie z dnia 29 września 2022 r. o zasadach realizacji programów wsparcia przedsiębiorców w związku z sytuacją na rynku energii w latach 2022–2024, oraz uzasadnionych kosztów poniesionych przez operatora programu wsparcia przedsiębiorców w związku z sytuacją na rynku energii w latach 2022–2024, związanych z wykonywaniem jego zadań;
+- **4)** spłatę pożyczek, o których mowa w art. 22a, i innymi kosztami związanymi z tymi pożyczkami;
+- **5)** wypłaty i obsługę rekompensat, o których mowa w art. 4 ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu, w przypadkach, o których mowa w art. 3a tej ustawy;
+- **6)** wypłatę kosztów obsługi przez Zakład Ubezpieczeń Społecznych zadań, o których mowa w art. 3a ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu.
 
 **Art. 24.**
 
@@ -430,6 +458,9 @@ source: "isap-pdf"
 **Art. 31b.** Rekompensaty za rok 2024 wypłacane przez Bank, w terminie, o którym mowa w art. 11 ust. 6, są pomniejszane o kwotę wypłaconej wnioskodawcy części rekompensat za rok 2024.
 
 **Art. 31c.** Bank, do dnia 15 grudnia 2025 r., przekaże Prezesowi URE, w postaci elektronicznej umożliwiającej przetwarzanie zawartych w niej danych, informację o:
+
+- **1)** podmiotach, którym zostały wypłacone za rok 2024 części rekompensat mimo nieotrzymania decyzji o przyznaniu rekompensaty albo w kwocie wyższej niż przyznane przez Prezesa URE rekompensaty;
+- **2)** kwocie części rekompensat za rok 2024 podlegających zwrotowi oraz dacie przekazania kwoty części rekompensat za rok 2024 na rachunki bankowe podmiotów wskazanych w wykazie, o którym mowa w art. 31a ust. 3.
 
 **Art. 31d.**
 

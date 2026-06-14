@@ -8,12 +8,12 @@ pos: 291
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
+# o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
 
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2024 r.*
+*USTAWA z dnia 8 maja 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-20 |
 | Data wydania | 2024-03-01 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/291/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2023 r. poz. 926), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U. poz. 1114) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 lutego 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 47 ustawy z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U. poz. 1114), który stanowi: „Art. 47. Ustawa wchodzi w życie z dniem 1 lipca 2023 r., z wyjątkiem:
-1) art. 22, art. 31, art. 42 i art. 43, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 27, art. 28, art. 33 i art. 34, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
-3) art. 29 pkt 14 w zakresie art. 9b ust. 7 i 8 oraz art. 46 ust. 2 i 3, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-4) art. 15 i art. 29 pkt 5 lit. c w zakresie art. 3 ust. 2a, które wchodzą w życie z dniem 1 marca 2024 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 8 maja 1997 r.
-o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -55,39 +45,41 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** poręczeniach udzielanych przez Skarb Państwa należy przez to rozumieć udzielane przez Radę Ministrów, ministra właściwego do spraw finansów publicznych lub Bank Gospodarstwa Krajowego, w imieniu i na rachunek Skarbu Państwa, poręczenia:
+- **1)** poręczeniach udzielanych przez Skarb Państwa – należy przez to rozumieć udzielane przez Radę Ministrów, ministra właściwego do spraw finansów publicznych lub Bank Gospodarstwa Krajowego, w imieniu i na rachunek Skarbu Państwa, poręczenia:
     - **a)** spłaty kredytów,
     - **b)** wykonania zobowiązań wynikających z obligacji,
     - **c)** wypłaty odszkodowania za zniszczone, uszkodzone lub skradzione eksponaty wystawowe,
     - **d)** wykonania zobowiązań wynikających z transakcji zabezpieczających przed ryzykiem zmiany stopy procentowej lub ryzykiem walutowym, związanych z poręczonym lub gwarantowanym przez Skarb Państwa kredytem lub emisją obligacji;
 
-- **2)** gwarancjach udzielanych przez Skarb Państwa należy przez to rozumieć udzielane przez Radę Ministrów, ministra właściwego do spraw finansów publicznych lub Bank Gospodarstwa Krajowego, w imieniu i na rachunek Skarbu Państwa, gwarancje:
+- **2)** gwarancjach udzielanych przez Skarb Państwa – należy przez to rozumieć udzielane przez Radę Ministrów, ministra właściwego do spraw finansów publicznych lub Bank Gospodarstwa Krajowego, w imieniu i na rachunek Skarbu Państwa, gwarancje:
     - **a)** spłaty kredytów,
     - **b)** wykonania zobowiązań wynikających z obligacji,
     - **c)** wykonania zobowiązań wynikających z transakcji zabezpieczających przed ryzykiem zmiany stopy procentowej lub ryzykiem walutowym, związanych z poręczonym lub gwarantowanym przez Skarb Państwa kredytem lub emisją obligacji;
 
-- **3)** poręczeniach lub gwarancjach udzielanych przez niektóre osoby prawne należy przez to rozumieć poręczenia lub gwarancje udzielane przez niebędące bankami oraz zakładami ubezpieczeń następujące podmioty, uprawnione na podstawie odrębnych przepisów do udzielania poręczeń lub gwarancji w ramach powierzonych im zadań publicznych lub w zakresie wykonywanej przez nie działalności gospodarczej:
+- **3)** poręczeniach lub gwarancjach udzielanych przez niektóre osoby prawne – należy przez to rozumieć poręczenia lub gwarancje udzielane przez niebędące bankami oraz zakładami ubezpieczeń następujące podmioty, uprawnione na podstawie odrębnych przepisów do udzielania poręczeń lub gwarancji w ramach powierzonych im zadań publicznych lub w zakresie wykonywanej przez nie działalności gospodarczej:
     - **a)** państwowe osoby prawne utworzone w drodze ustawy,
     - **b)** (uchylona)
     - **c)** (uchylona)
     - **d)** (uchylona)
     - **e)** fundacje, w których fundatorami są osoby prawne, o których mowa w lit. a;
 
-- **4)** poręczeniach lub gwarancjach udzielanych przez Bank Gospodarstwa Krajowego należy przez to rozumieć poręczenia lub gwarancje udzielane przez Bank Gospodarstwa Krajowego w ramach rządowych programów poręczeniowo-gwarancyjnych:
+- **4)** poręczeniach lub gwarancjach udzielanych przez Bank Gospodarstwa Krajowego – należy przez to rozumieć poręczenia lub gwarancje udzielane przez Bank Gospodarstwa Krajowego w ramach rządowych programów poręczeniowo-gwarancyjnych:
     - **a)** spłaty kredytów i pożyczek,
     - **b)** wykonania zobowiązań wynikających z obligacji,
     - **c)** wykonania innych zobowiązań, w szczególności należytego wykonania umowy lub wniesienia wadium;
 
-- **5)** rezydencie należy przez to rozumieć rezydenta w rozumieniu przepisów ustawy z dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. z 2022 r. poz. 309);
-- **6)** nierezydencie należy przez to rozumieć nierezydenta w rozumieniu przepisów ustawy, o której mowa w pkt 5;
-- **7)** kredycie należy przez to rozumieć kredyt lub pożyczkę;
-- **8)** kredytobiorcy należy przez to rozumieć odpowiednio kredytobiorcę lub pożyczkobiorcę będącego rezydentem;
-- **9)** (uchylony) 9a) mikroprzedsiębiorcy, małym i średnim przedsiębiorcy należy przez to rozumieć mikroprzedsiębiorcę, małego i średniego przedsiębiorcę spełniającego warunki określone odpowiednio w: zm. ) lub
+- **5)** rezydencie – należy przez to rozumieć rezydenta w rozumieniu przepisów ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2022 r. poz. 309);
+- **6)** nierezydencie – należy przez to rozumieć nierezydenta w rozumieniu przepisów ustawy, o której mowa w pkt 5;
+- **7)** kredycie – należy przez to rozumieć kredyt lub pożyczkę;
+- **8)** kredytobiorcy – należy przez to rozumieć odpowiednio kredytobiorcę lub pożyczkobiorcę będącego rezydentem;
+- **9)** (uchylony) 9a) mikroprzedsiębiorcy, małym i średnim przedsiębiorcy – należy przez to rozumieć mikroprzedsiębiorcę, małego i średniego przedsiębiorcę spełniającego warunki określone odpowiednio w:
     - **a)** załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ),
-    - **b)** załączniku I do rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn.
-    - **c)** załączniku I do rozporządzenia Komisji (UE) nr 1388/2014 z dnia 16 grudnia 2014 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 369 z 24.12.2014, str. 37);
+    - **b)** załączniku I do rozporządzenia Komisji (UE) nr 702/2014 z dnia 25 czerwca 2014 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 193 z 01.07.2014, str. 1, z późn. zm. ) lub
+    - **c)** załączniku I do rozporządzenia Komisji (UE) nr 1388/2014 z dnia 16 grudnia 2014 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 369 z
 
-- **10)** ustawie o obligacjach należy przez to rozumieć ustawę z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2022 r. poz. 2244 oraz z 2023 r. poz. 825 i 1723).
+24. 12.2014, str. 37);
+
+- **10)** ustawie o obligacjach – należy przez to rozumieć ustawę z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2022 r. poz. 2244 oraz z 2023 r. poz. 825 i 1723).
 - **11)** (uchylony)
 - **12)** (uchylony)
 - **13)** (uchylony)
@@ -112,7 +104,7 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 1. Skuteczność poręczenia lub gwarancji jest uzależniona od wniesienia opłaty prowizyjnej od poręczenia lub gwarancji, z zastrzeżeniem ust. 4.
 
-2. Opłata prowizyjna jest naliczana od objętej poręczeniem lub gwarancją kwoty zobowiązania, a w przypadku poręczeń i gwarancji udzielanych pod warunkiem przeznaczenia kredytu lub środków z emisji obligacji na cel, o którym mowa w art. 7 ust. 2 pkt 4 od kwoty zwiększenia zobowiązania Skarbu Państwa, stanowiącej różnicę między kwotą zobowiązania obejmowanego poręczeniem lub gwarancją a kwotą istniejącego zobowiązania z tytułu udzielonego poręczenia lub gwarancji.
+2. Opłata prowizyjna jest naliczana od objętej poręczeniem lub gwarancją kwoty zobowiązania, a w przypadku poręczeń i gwarancji udzielanych pod warunkiem przeznaczenia kredytu lub środków z emisji obligacji na cel, o którym mowa w art. 7 ust. 2 pkt 4 – od kwoty zwiększenia zobowiązania Skarbu Państwa, stanowiącej różnicę między kwotą zobowiązania obejmowanego poręczeniem lub gwarancją a kwotą istniejącego zobowiązania z tytułu udzielonego poręczenia lub gwarancji.
 
 3. Rada Ministrów określi, w drodze rozporządzenia, sposób naliczania i pobierania opłaty prowizyjnej od poręczenia i gwarancji oraz wysokość tej opłaty, uwzględniając w szczególności:
 
@@ -129,7 +121,7 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 1. Warunkiem udzielenia poręczenia lub gwarancji jest złożenie wniosku o udzielenie poręczenia lub gwarancji zawierającego dane umożliwiające dokonanie analizy, o której mowa w art. 2a ust. 1.
 
-2. Do wniosku, o którym mowa w ust. 1, dołącza się kopie dokumentów potwierdzających dane zawarte we wniosku, w tym zaświadczenia właściwych organów, albo oświadczenia podmiotu, którego zobowiązania mają być objęte poręczeniem lub gwarancją dotyczące wykonywania obowiązków publicznoprawnych podmiotów, których zobowiązania mają być objęte poręczeniem lub gwarancją. Oświadczenia składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+2. Do wniosku, o którym mowa w ust. 1, dołącza się kopie dokumentów potwierdzających dane zawarte we wniosku, w tym zaświadczenia właściwych organów, albo oświadczenia podmiotu, którego zobowiązania mają być objęte poręczeniem lub gwarancją – dotyczące wykonywania obowiązków publicznoprawnych podmiotów, których zobowiązania mają być objęte poręczeniem lub gwarancją. Oświadczenia składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 **Art. 2f.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowy zakres danych zawartych we wniosku o udzielenie poręczenia lub gwarancji, rodzaje dokumentów, których kopie dołącza się do tego wniosku, oraz tryb udzielania przez Skarb Państwa poręczenia i gwarancji, uwzględniając w szczególności zakres niezbędnej analizy, o której mowa w art. 2a ust. 1, przy udzielaniu określonych poręczeń lub gwarancji oraz zapewnienie sprawności rozpatrywania wniosków.
 
@@ -234,7 +226,7 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 **Art. 18.** (uchylony)
 
-#### Rozdział 4 (uchylony)
+#### Rozdział 4
 
 #### Rozdział 5 Poręczenia wypłaty odszkodowania za zniszczone, uszkodzone lub skradzione eksponaty wystawowe
 
@@ -260,7 +252,7 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 4. (uchylony)
 
-5. Prezes Rady Ministrów może wycofywać z zasobu akcje lub udziały, o których mowa w ust. 3, zastępując je jednocześnie innymi akcjami lub udziałami. Wartość akcji lub udziałów ustala się na podstawie ich wartości księgowej, a w przypadku akcji będących w obrocie zorganizowanym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941) na podstawie ich wartości rynkowej.
+5. Prezes Rady Ministrów może wycofywać z zasobu akcje lub udziały, o których mowa w ust. 3, zastępując je jednocześnie innymi akcjami lub udziałami. Wartość akcji lub udziałów ustala się na podstawie ich wartości księgowej, a w przypadku akcji będących w obrocie zorganizowanym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941) – na podstawie ich wartości rynkowej.
 
 **Art. 25a.** (uchylony)
 
@@ -336,12 +328,12 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 1. Bank Gospodarstwa Krajowego może udzielać, we własnym imieniu i na własny rachunek, poręczeń lub gwarancji w ramach rządowych programów poręczeniowo-gwarancyjnych, zwanych dalej „programami rządowymi”, obejmujących w szczególności projekty:
 
-- **1)** realizowane z wykorzystaniem środków pochodzących z funduszy Unii Europejskiej oraz międzynarodowych instytucji finansowych w rozumieniu art. 4 ust. 1 pkt 3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2023 r. poz. 2488),
+- **1)** realizowane z wykorzystaniem środków pochodzących z funduszy Unii Europejskiej oraz międzynarodowych instytucji finansowych w rozumieniu art. 4 ust. 1 pkt 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488),
 - **2)** infrastrukturalne,
 - **3)** związane z rozwojem sektora mikroprzedsiębiorców, małych i średnich przedsiębiorców,
 - **4)** z zakresu ochrony środowiska,
 - **5)** w obszarze szkolnictwa wyższego i nauki,
-- **6)** z zakresu ochrony zdrowia w tym realizowane z wykorzystaniem środków publicznych.
+- **6)** z zakresu ochrony zdrowia – w tym realizowane z wykorzystaniem środków publicznych.
 
 2. Poręczenie lub gwarancja, o których mowa w ust. 1, mogą stanowić pomoc publiczną, pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie.
 
@@ -351,11 +343,27 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 - **1)** pomocy publicznej,
 - **2)** pomocy de minimis,
-- **3)** pomocy de minimis w rolnictwie lub rybołówstwie uwzględniając konieczność realizacji celów określonych w programach rządowych oraz efektywnego i skutecznego wykorzystania poszczególnych rodzajów pomocy, a także zapewnienia przejrzystości udzielania tej pomocy i jej zgodności z rynkiem wewnętrznym.
+- **3)** pomocy de minimis w rolnictwie lub rybołówstwie – uwzględniając konieczność realizacji celów określonych w programach rządowych oraz efektywnego i skutecznego wykorzystania poszczególnych rodzajów pomocy, a także zapewnienia przejrzystości udzielania tej pomocy i jej zgodności z rynkiem wewnętrznym.
 
 **Art. 34b.** Do poręczenia i gwarancji stosuje się odpowiednio art. 2b ust. 1.
 
 **Art. 34c.** Minister właściwy do spraw finansów publicznych zawiera z Bankiem Gospodarstwa Krajowego umowę, która określa w szczególności:
+
+- **1)** szczegółowe warunki i tryb udzielania poręczeń i gwarancji;
+- **2)** wysokość, warunki i tryb pobierania opłat prowizyjnych z tytułu udzielonych poręczeń i gwarancji;
+- **3)** warunki i terminy przekazywania środków, o których mowa w art. 34g ust. 3 pkt 5 i art. 34ga ust. 2;
+- **4)** zasady udzielania finansowania, o którym mowa w art. 34ga ust. 2a, oraz zwrotu Bankowi Gospodarstwa Krajowego środków własnych, o których mowa w art. 34ga ust. 2a, wraz z wynagrodzeniem z tytułu tego finansowania. Art. 34ca. 1. Bank Gospodarstwa Krajowego:
+- **1)** doszczegóławia na poziomie operacyjnym warunki udzielenia poręczeń i gwarancji w ramach programów rządowych, zawarte w umowie, o której mowa w art. 34c;
+- **2)** określa wzory wniosku o udzielenie poręczenia oraz wniosku o udzielenie gwarancji w ramach programów rządowych;
+- **3)** określa wzory umów poręczenia oraz gwarancji, udzielanych w ramach programów rządowych.
+
+2. Do czynności związanych z udzielaniem poręczeń i gwarancji w ramach programów rządowych nie stosuje się przepisów ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2023 r. poz. 2759) oraz przepisów art. 385 –385 , art. 556 –556 i art. 576 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933).
+
+3. Bank Gospodarstwa Krajowego może powierzyć dochodzenie roszczeń związanych z poręczeniami i gwarancjami udzielonymi w ramach programów rządowych bankowi lub innej instytucji finansowej. Wykonywanie przez bank lub inną instytucję finansową czynności, o których mowa w zdaniu poprzednim, nie wymaga zmiany statutu ani innego aktu stanowiącego podstawę działalności tych podmiotów.
+
+4. Podmioty, o których mowa w ust. 3, mogą wykonywać czynności związane z dochodzeniem roszczeń samodzielnie lub, za zgodą Banku Gospodarstwa Krajowego, powierzyć ich wykonywanie innemu podmiotowi.
+
+5. Roszczenia Banku Gospodarstwa Krajowego związane z poręczeniem lub gwarancją udzielonymi w ramach programów rządowych, w tym roszczenie o zwrot kwot z tytułu wypłaty poręczenia lub gwarancji przysługujące Bankowi Gospodarstwa Krajowego wobec podmiotu, za zobowiązanie którego udzielono poręczenia lub gwarancji, przedawniają się z upływem sześciu lat od dnia wypłaty poręczenia lub gwarancji.
 
 **Art. 34d.**
 
@@ -388,18 +396,20 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 3. Środki Funduszu pochodzą z:
 
-- **1)** środków finansowych, o których mowa w art. 29 ust. 4a ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818);
-- **1a)** środków finansowych, odsetek i innych przychodów, a także zysków, o których mowa w art. 50d ust. 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2023 r. poz. 2298);
-- **1b)** środków finansowych, o których mowa w art. 32 ust. 2 pkt 1 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079);
+- **1)** środków finansowych, o których mowa w art. 29 ust. 4a ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz.
+- **818)** ;
+- **1a)** (uchylony) 1b) środków finansowych, o których mowa w art. 32 ust. 2 pkt 1 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079);
 - **1c)** środków finansowych, odsetek i innych przychodów, a także zysków, o których mowa w art. 110 ust. 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412 i 1530);
 - **2)** opłat prowizyjnych za poręczenia i gwarancje finansowane ze środków Funduszu;
 - **3)** wpływów z tytułu odzyskanych kwot zapłaconych przez Bank Gospodarstwa Krajowego w wykonaniu umowy poręczenia lub gwarancji finansowanej ze środków Funduszu;
-- **4)** odsetek z tytułu oprocentowania środków Funduszu;
+- **4)** odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);
 - **5)** środków z budżetu państwa przekazywanych przez ministra właściwego do spraw finansów publicznych w wysokości umożliwiającej pokrycie kosztów i wydatków, o których mowa w ust. 2, i które nie znajdują pokrycia ze środków, o których mowa w pkt 1–4 oraz 6–8;
 - **6)** środków z tytułu zbycia akcji (udziałów), o których mowa w art. 34a ust. 3;
 - **7)** darowizn i zapisów;
 - **7a)** środków z zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji, o których mowa w art. 34ga ust. 1;
-- **8)** wpływów z innych tytułów. Art. 34ga. 1. Bank Gospodarstwa Krajowego może zaciągać na rzecz Funduszu kredyty, pożyczki lub emitować obligacje w kraju i za granicą.
+- **8)** wpływów z innych tytułów.
+
+4. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach. Art. 34ga. 1. Bank Gospodarstwa Krajowego może zaciągać na rzecz Funduszu kredyty, pożyczki lub emitować obligacje w kraju i za granicą.
 
 2. Minister właściwy do spraw finansów publicznych przekazuje do Funduszu środki niezbędne do terminowej obsługi zobowiązań z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji, o których mowa w ust. 1, w przypadku gdy poziom środków Funduszu jest niewystarczający do obsługi tych zobowiązań.
 
@@ -415,7 +425,7 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 7. Jeżeli odzyskanie wierzytelności Skarbu Państwa, powstałych z tytułu udzielonego poręczenia lub gwarancji, nie jest możliwe, Rada Ministrów, na wniosek ministra właściwego do spraw finansów publicznych, może umorzyć wierzytelność w całości lub części.
 
-8. Do emisji obligacji, o której mowa w ust. 1, stosuje się odpowiednio art. 39p–39w ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760, 1193 i 1688).
+8. Do emisji obligacji, o której mowa w ust. 1, stosuje się odpowiednio art. 39p– 39w ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760, 1193 i 1688).
 
 **Art. 34h.**
 
@@ -437,7 +447,7 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 4. Bank Gospodarstwa Krajowego przekazuje ministrom, o których mowa w ust. 2, półroczne informacje o realizacji planu finansowego Funduszu w terminie 90 dni po upływie półrocza.
 
-#### Rozdział 9 (uchylony)
+#### Rozdział 9
 
 #### Rozdział 10 Przepisy przejściowe i końcowe
 
@@ -457,7 +467,7 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 
 - **1)** interwencyjnych na rynkach krajowych pszenicy, żyta, mięsa wieprzowego, mięsa wołowego, mleka i przetworów mlecznych, tytoniu, skrobi ziemniaczanej i cukru;
 - **2)** określonych w ustawie z dnia 11 stycznia 2001 r. o regulacji rynku skrobi ziemniaczanej (Dz. U. poz. 83 oraz z 2004 r. poz. 177), w ustawie z dnia 6 września 2001 r. o regulacji rynku mleka i przetworów mlecznych (Dz. U. poz. 1446 i 1797, z 2002 r. poz. 937 oraz z 2003 r. poz. 1853) oraz w ustawie z dnia 21 czerwca 2001 r. o regulacji rynku cukru (Dz. U. poz. 810 i 1322, z 2002 r. poz. 1086 oraz z 2003 r. poz. 923);
-- **3)** związanych z przygotowaniem do pełnienia funkcji agencji płatniczej, o której mowa w art. 8 pkt 2 ustawy z dnia 16 lutego 2001 r. o zmianie ustawy o Inspekcji Sanitarnej, ustawy o utworzeniu Agencji Rynku Rolnego, ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawy Kodeks celny, ustawy o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej i ustawy o administrowaniu obrotem z zagranicą towarami i usługami (Dz. U. poz. 320), z wyłączeniem kosztów administracyjnych i wynagrodzeń.
+- **3)** związanych z przygotowaniem do pełnienia funkcji agencji płatniczej, o której mowa w art. 8 pkt 2 ustawy z dnia 16 lutego 2001 r. o zmianie ustawy o Inspekcji Sanitarnej, ustawy o utworzeniu Agencji Rynku Rolnego, ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawy – Kodeks celny, ustawy o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej i ustawy o administrowaniu obrotem z zagranicą towarami i usługami (Dz. U. poz. 320), z wyłączeniem kosztów administracyjnych i wynagrodzeń.
 
 2. Poręczenia lub gwarancje, o których mowa w ust. 1, mogą być również udzielane pod warunkiem przeznaczenia objętych nimi kredytów na spłatę kredytów wraz z odsetkami zaciągniętych na finansowanie zadań wymienionych w ust. 1.
 
@@ -599,6 +609,12 @@ o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre os
 **Art. 45.** Minister właściwy do spraw finansów publicznych prowadzi ewidencję należności i zobowiązań Skarbu Państwa z tytułu udzielonych poręczeń i gwarancji.
 
 **Art. 46.** Rada Ministrów przedstawia corocznie Sejmowi w terminie właściwym do przedstawienia sprawozdania z wykonania budżetu państwa za dany rok informację o:
+
+- **1)** poręczeniach i gwarancjach udzielonych przez Skarb Państwa;
+- **2)** poręczeniach i gwarancjach udzielonych przez niektóre osoby prawne;
+- **3)** poręczeniach i gwarancjach udzielonych przez Bank Gospodarstwa Krajowego w ramach programów rządowych, Funduszu Gwarancji Płynnościowych, o którym mowa w art. 70 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ), Rządowego Funduszu Mieszkaniowego, o którym mowa w art. 11 ust. 1 ustawy z dnia 1 października 2021 r. o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2% (Dz. U. z 2023 r. poz. 859 i 1114), i Funduszu Gwarancji Kryzysowych, o którym mowa w art. 21b ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167);
+- **4)** liczbie i wartości akcji (udziałów) składających się na zasób;
+- **5)** wykorzystaniu środków gromadzonych na rachunku, o którym mowa w art. 29 ust. 2.
 
 **Art. 47.** Poręczenia i gwarancje udzielane przez Skarb Państwa zwalnia się z opłaty skarbowej.
 

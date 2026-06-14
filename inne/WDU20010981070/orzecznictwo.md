@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych.*
 
-Łącznie: **2072** orzeczeń
-(pominięto 612 orzeczeń sądów rejonowych)
+Łącznie: **2076** orzeczeń
+(pominięto 618 orzeczeń sądów rejonowych)
 
 ## art. 1 (36)
 
@@ -101,7 +101,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2014-04-07 | SN | [SNO 7/14](https://www.saos.org.pl/judgments/104934) | Wyrok ★
 - 2014-05-28 | SO | [II AKa 63/14](https://www.saos.org.pl/judgments/147879) | Wyrok
 
-## art. 2 (23)
+## art. 2 (24)
 
 - 2015-10-22 | TK | [SK 28/14](https://www.saos.org.pl/judgments/206787) | Wyrok ★
 - 2015-05-26 | TK | [Kp 2/13](https://www.saos.org.pl/judgments/206695) | Wyrok ★
@@ -118,6 +118,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2010-01-14 | SN | [III KRS 28/09](https://www.saos.org.pl/judgments/165154) | Wyrok ★
 - 2005-02-09 | SN | [III KRS 12/04](https://www.saos.org.pl/judgments/83213) | Postanowienie
 - 2003-10-21 | SN | [SNO 59/03](https://www.saos.org.pl/judgments/82281) | Postanowienie
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
 - 2024-01-11 | SO | [III APa 10/23](https://www.saos.org.pl/judgments/504591) | Wyrok
 - 2022-07-29 | SO | [V AGa 237/21](https://www.saos.org.pl/judgments/489976) | Wyrok
 - 2020-12-17 | SO | [I ACa 286/20](https://www.saos.org.pl/judgments/437370) | Wyrok
@@ -164,7 +165,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 
 - 2013-03-27 | TK | [K 27/12](https://www.saos.org.pl/judgments/111591) | Wyrok ★
 
-## art. 4 (13)
+## art. 4 (14)
 
 - 2015-10-22 | TK | [SK 28/14](https://www.saos.org.pl/judgments/206787) | Wyrok ★
 - 2015-05-26 | TK | [Kp 2/13](https://www.saos.org.pl/judgments/206695) | Wyrok ★
@@ -177,6 +178,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2013-01-09 | SN | [III CSK 89/12](https://www.saos.org.pl/judgments/100263) | Wyrok ★
 - 2012-07-05 | SN | [IV CSK 75/12](https://www.saos.org.pl/judgments/98569) | Wyrok ★
 - 2010-10-21 | SN | [III KRS 12/10](https://www.saos.org.pl/judgments/93197) | Wyrok ★
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
 - 2013-06-27 | SO | [III AUa 100/13](https://www.saos.org.pl/judgments/27774) | Wyrok
 - 2019-04-16 | SO | [II AKa 47/19](https://www.saos.org.pl/judgments/383294) | Uzasadnienie
 
@@ -525,10 +527,11 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 
 - 2013-01-29 | TK | [SK 28/11](https://www.saos.org.pl/judgments/111678) | Wyrok ★
 
-## art. 19 (5)
+## art. 19 (6)
 
 - 2013-03-27 | TK | [K 27/12](https://www.saos.org.pl/judgments/111591) | Wyrok ★
 - 2011-04-27 | SN | [SNO 15/11](https://www.saos.org.pl/judgments/94848) | Uchwała ★
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
 - 2025-06-02 | SO | [VII AGa 461/19](https://www.saos.org.pl/judgments/534908) | Postanowienie
 - 2025-01-17 | SO | [VII AGa 461/19](https://www.saos.org.pl/judgments/519920) | Postanowienie
 - 2015-06-01 | SO | [III AUz 103/15](https://www.saos.org.pl/judgments/156965) | Postanowienie
@@ -1216,8 +1219,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2014-08-14 | SO | [II C 659/14](https://www.saos.org.pl/judgments/180554) | Uzasadnienie
 - 2014-07-14 | SO | [III Ca 284/14](https://www.saos.org.pl/judgments/61505) | Uzasadnienie
 
-## art. 42 (23)
+## art. 42 (24)
 
+- 2025-10-29 | SO | [II AKa 87/25](https://www.saos.org.pl/judgments/545326) | Wyrok
 - 2025-04-30 | SO | [II AKa 366/24](https://www.saos.org.pl/judgments/543412) | Wyrok
 - 2024-12-10 | SO | [III AUa 57/24](https://www.saos.org.pl/judgments/532775) | Wyrok
 - 2024-10-03 | SO | [III AUa 2817/23](https://www.saos.org.pl/judgments/522015) | Wyrok
@@ -1303,7 +1307,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 
 - 2008-05-14 | SN | [SNO 28/08](https://www.saos.org.pl/judgments/88100) | Wyrok ★
 
-## art. 45 (10)
+## art. 45 (11)
 
 - 2005-09-29 | SN | [III CZP 61/05](https://www.saos.org.pl/judgments/83756) | Uchwała ★
 - 2003-02-19 | SN | [I KZP 51/02](https://www.saos.org.pl/judgments/81860) | Uchwała ★
@@ -1313,10 +1317,11 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2016-01-20 | SN | [II PK 315/14](https://www.saos.org.pl/judgments/244324) | Wyrok ★
 - 2015-07-10 | SN | [SNO 41/15](https://www.saos.org.pl/judgments/242963) | Wyrok ★
 - 2011-11-16 | SN | [III KO 79/11](https://www.saos.org.pl/judgments/96261) | Postanowienie
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
 - 2017-03-24 | SO | [I ACa 613/14](https://www.saos.org.pl/judgments/280471) | Wyrok
 - 2025-06-02 | SO | [VII AGa 461/19](https://www.saos.org.pl/judgments/534988) | Postanowienie
 
-## art. 45 § 1 (11)
+## art. 45 § 1 (12)
 
 - 2012-02-07 | TK | [Ts 67/11](https://www.saos.org.pl/judgments/111128) | Postanowienie ★
 - 2011-09-20 | TK | [Ts 67/11](https://www.saos.org.pl/judgments/110466) | Postanowienie ★
@@ -1329,8 +1334,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2011-11-16 | SN | [III KO 79/11](https://www.saos.org.pl/judgments/96261) | Postanowienie
 - 2010-04-09 | SN | [III CSK 178/09](https://www.saos.org.pl/judgments/76340) | Postanowienie
 - 2009-07-21 | SN | [II PO 2/09](https://www.saos.org.pl/judgments/90662) | Postanowienie
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
 
-## art. 45 § 2 (7)
+## art. 45 § 2 (8)
 
 - 2011-10-26 | SN | [I KZP 8/11](https://www.saos.org.pl/judgments/96148) | Uchwała ★
 - 2012-02-07 | TK | [Ts 67/11](https://www.saos.org.pl/judgments/111128) | Postanowienie ★
@@ -1339,6 +1345,11 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2015-07-10 | SN | [SNO 41/15](https://www.saos.org.pl/judgments/242963) | Wyrok ★
 - 2011-11-16 | SN | [III KO 79/11](https://www.saos.org.pl/judgments/96261) | Postanowienie
 - 2009-07-21 | SN | [II PO 2/09](https://www.saos.org.pl/judgments/90662) | Postanowienie
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
+
+## art. 45 § 45 (1)
+
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
 
 ## art. 46 (25)
 
@@ -1421,9 +1432,10 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2007-01-25 | SN | [SNO 75/06](https://www.saos.org.pl/judgments/85085) | Wyrok ★
 - 2015-10-16 | SN | [I CSK 858/14](https://www.saos.org.pl/judgments/243527) | Postanowienie
 
-## art. 47 (15)
+## art. 47 (16)
 
 - 2010-07-01 | SN | [SNO 27/10](https://www.saos.org.pl/judgments/92573) | Wyrok ★
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
 - 2024-10-03 | SO | [I ACa 1336/22](https://www.saos.org.pl/judgments/531751) | Wyrok
 - 2023-12-14 | SO | [III APa 8/23](https://www.saos.org.pl/judgments/504635) | Wyrok
 - 2022-02-28 | SO | [III AUa 1032/21](https://www.saos.org.pl/judgments/459842) | Wyrok
@@ -1632,7 +1644,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 
 - 2012-06-05 | TK | [K 18/09](https://www.saos.org.pl/judgments/110915) | Wyrok ★
 
-## art. 55 (23)
+## art. 55 (24)
 
 - 2012-06-05 | TK | [K 18/09](https://www.saos.org.pl/judgments/110915) | Wyrok ★
 - 2008-05-27 | TK | [SK 57/06](https://www.saos.org.pl/judgments/108663) | Wyrok ★
@@ -1646,6 +1658,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2010-03-16 | TK | [SK 57/08](https://www.saos.org.pl/judgments/109774) | Postanowienie ★
 - 2009-07-14 | TK | [Ts 174/07](https://www.saos.org.pl/judgments/109335) | Postanowienie ★
 - 2010-01-14 | SN | [I PK 127/09](https://www.saos.org.pl/judgments/91589) | Wyrok ★
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
 - 2021-11-03 | SO | [II AKa 532/19](https://www.saos.org.pl/judgments/483958) | Wyrok
 - 2017-03-24 | SO | [I ACa 613/14](https://www.saos.org.pl/judgments/280471) | Wyrok
 - 2014-03-18 | SO | [I ACa 701/13](https://www.saos.org.pl/judgments/45642) | Wyrok
@@ -1728,8 +1741,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2012-12-11 | SO | [I ACa 680/12](https://www.saos.org.pl/judgments/4802) | Wyrok
 - 2012-11-29 | SO | [I ACa 646/12](https://www.saos.org.pl/judgments/3659) | Wyrok
 
-## art. 55 § 4 (6)
+## art. 55 § 4 (7)
 
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
 - 2021-11-03 | SO | [II AKa 532/19](https://www.saos.org.pl/judgments/483958) | Wyrok
 - 2025-06-02 | SO | [VII AGa 461/19](https://www.saos.org.pl/judgments/534908) | Postanowienie
 - 2025-01-17 | SO | [VII AGa 461/19](https://www.saos.org.pl/judgments/519920) | Postanowienie
@@ -3738,7 +3752,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2016-05-18 | SO | [III APa 5/16](https://www.saos.org.pl/judgments/236499) | Wyrok
 - 2013-07-04 | KIO | [KIO 1465/13](https://www.saos.org.pl/judgments/122955) | Wyrok
 
-## art. 91 (239)
+## art. 91 (240)
 
 - 2013-06-13 | TK | [P 35/12](https://www.saos.org.pl/judgments/111628) | Wyrok ★
 - 2013-05-07 | TK | [SK 11/11](https://www.saos.org.pl/judgments/111655) | Wyrok ★
@@ -3785,6 +3799,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2014-04-09 | SO | [III APa 3/14](https://www.saos.org.pl/judgments/65758) | Wyrok
 - 2012-03-28 | SO | [III AUa 1810/11](https://www.saos.org.pl/judgments/1684) | Wyrok
 - 2012-03-20 | SO | [III AUa 1804/11](https://www.saos.org.pl/judgments/1800) | Wyrok
+- 2026-02-17 | SO | [VI P 256/24](https://www.saos.org.pl/judgments/546595) | Wyrok
 - 2026-01-30 | SO | [VI P 654/24](https://www.saos.org.pl/judgments/544929) | Wyrok
 - 2026-01-30 | SO | [VI P 622/24](https://www.saos.org.pl/judgments/544928) | Wyrok
 - 2025-12-16 | SO | [VI P 66/25](https://www.saos.org.pl/judgments/544930) | Wyrok
@@ -3980,7 +3995,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2021-09-07 | SO | [VIII Pa 76/21](https://www.saos.org.pl/judgments/452904) | Uzasadnienie
 - 2016-06-23 | SO | [VII Pa 128/16](https://www.saos.org.pl/judgments/239501) | Uzasadnienie
 
-## art. 91 § 1 (232)
+## art. 91 § 1 (233)
 
 - 2013-06-13 | TK | [P 35/12](https://www.saos.org.pl/judgments/111628) | Wyrok ★
 - 2013-05-07 | TK | [SK 11/11](https://www.saos.org.pl/judgments/111655) | Wyrok ★
@@ -4027,6 +4042,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2012-10-03 | SN | [II PK 64/12](https://www.saos.org.pl/judgments/99220) | Wyrok ★
 - 2009-01-16 | SN | [I PK 103/08](https://www.saos.org.pl/judgments/89433) | Wyrok ★
 - 2014-06-10 | SN | [III KRS 73/13](https://www.saos.org.pl/judgments/166036) | Postanowienie
+- 2026-02-17 | SO | [VI P 256/24](https://www.saos.org.pl/judgments/546595) | Wyrok
 - 2026-01-30 | SO | [VI P 654/24](https://www.saos.org.pl/judgments/544929) | Wyrok
 - 2026-01-30 | SO | [VI P 622/24](https://www.saos.org.pl/judgments/544928) | Wyrok
 - 2025-12-16 | SO | [VI P 66/25](https://www.saos.org.pl/judgments/544930) | Wyrok
@@ -4215,13 +4231,14 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2024-04-22 | SO | [VIII Pa 43/24](https://www.saos.org.pl/judgments/512977) | Uzasadnienie
 - 2024-02-27 | SO | [VIII Pa 103/23](https://www.saos.org.pl/judgments/512893) | Uzasadnienie
 
-## art. 91 § 2 (46)
+## art. 91 § 2 (47)
 
 - 2004-02-18 | TK | [K 12/03](https://www.saos.org.pl/judgments/106700) | Wyrok ★
 - 2010-12-10 | TK | [P 27/09](https://www.saos.org.pl/judgments/109711) | Postanowienie ★
 - 2010-04-19 | TK | [P 40/09](https://www.saos.org.pl/judgments/206262) | Postanowienie ★
 - 2009-05-20 | TK | [K 25/08](https://www.saos.org.pl/judgments/108973) | Postanowienie ★
 - 2015-10-20 | SN | [III PK 107/14](https://www.saos.org.pl/judgments/243650) | Wyrok ★
+- 2026-02-17 | SO | [VI P 256/24](https://www.saos.org.pl/judgments/546595) | Wyrok
 - 2026-01-30 | SO | [VI P 654/24](https://www.saos.org.pl/judgments/544929) | Wyrok
 - 2026-01-30 | SO | [VI P 622/24](https://www.saos.org.pl/judgments/544928) | Wyrok
 - 2025-10-08 | SO | [VI P 890/24](https://www.saos.org.pl/judgments/542766) | Wyrok
@@ -4314,13 +4331,14 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2012-10-30 | SN | [II PK 70/12](https://www.saos.org.pl/judgments/99507) | Wyrok ★
 - 2006-11-16 | SN | [II PK 89/06](https://www.saos.org.pl/judgments/84730) | Wyrok ★
 
-## art. 91 § 7 (42)
+## art. 91 § 7 (43)
 
 - 2012-12-12 | TK | [K 1/12](https://www.saos.org.pl/judgments/110895) | Wyrok ★
 - 2004-02-18 | TK | [K 12/03](https://www.saos.org.pl/judgments/106700) | Wyrok ★
 - 2009-12-17 | TK | [Ts 111/08](https://www.saos.org.pl/judgments/109250) | Postanowienie ★
 - 2009-01-16 | SN | [I PK 103/08](https://www.saos.org.pl/judgments/89433) | Wyrok ★
 - 2014-04-09 | SO | [III APa 3/14](https://www.saos.org.pl/judgments/65758) | Wyrok
+- 2026-02-17 | SO | [VI P 256/24](https://www.saos.org.pl/judgments/546595) | Wyrok
 - 2026-01-30 | SO | [VI P 654/24](https://www.saos.org.pl/judgments/544929) | Wyrok
 - 2026-01-30 | SO | [VI P 622/24](https://www.saos.org.pl/judgments/544928) | Wyrok
 - 2025-10-08 | SO | [VI P 890/24](https://www.saos.org.pl/judgments/542766) | Wyrok
@@ -4359,7 +4377,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2024-12-20 | SO | [VI P 523/24](https://www.saos.org.pl/judgments/535401) | Wyrok
 - 2024-12-09 | SO | [VI P 416/24](https://www.saos.org.pl/judgments/540903) | Wyrok
 
-## art. 91 § 8 (31)
+## art. 91 § 8 (32)
 
 - 2010-12-10 | TK | [P 27/09](https://www.saos.org.pl/judgments/109711) | Postanowienie ★
 - 2010-04-19 | TK | [P 40/09](https://www.saos.org.pl/judgments/206262) | Postanowienie ★
@@ -4386,6 +4404,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2008-11-20 | TK | [P 18/08](https://www.saos.org.pl/judgments/108573) | Postanowienie ★
 - 2012-10-30 | SN | [II PK 70/12](https://www.saos.org.pl/judgments/99507) | Wyrok ★
 - 2006-11-16 | SN | [II PK 89/06](https://www.saos.org.pl/judgments/84730) | Wyrok ★
+- 2026-02-17 | SO | [VI P 256/24](https://www.saos.org.pl/judgments/546595) | Wyrok
 - 2026-01-30 | SO | [VI P 654/24](https://www.saos.org.pl/judgments/544929) | Wyrok
 - 2026-01-30 | SO | [VI P 622/24](https://www.saos.org.pl/judgments/544928) | Wyrok
 - 2025-09-16 | SO | [VI P 546/24](https://www.saos.org.pl/judgments/538162) | Wyrok
@@ -8806,6 +8825,10 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 
 - 2002-07-05 | SN | [SNO 22/02](https://www.saos.org.pl/judgments/81496) | Uchwała ★
 
+## art. 260 (1)
+
+- 2025-02-25 | SO | [VII AGa 738/20](https://www.saos.org.pl/judgments/545398) | Wyrok
+
 ## art. 297 § 1 (1)
 
 - 2011-10-26 | SN | [I KZP 8/11](https://www.saos.org.pl/judgments/96148) | Uchwała ★
@@ -9113,7 +9136,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2017-12-05 | SO | [III Ca 1397/17](https://www.saos.org.pl/judgments/325753) | Uzasadnienie
 - 2016-07-12 | SO | [VIII Pa 18/16](https://www.saos.org.pl/judgments/239531) | Uzasadnienie
 
-## § 3 (37)
+## § 3 (38)
 
 - 2013-11-07 | TK | [K 31/12](https://www.saos.org.pl/judgments/111595) | Wyrok ★
 - 2012-05-08 | TK | [K 7/10](https://www.saos.org.pl/judgments/110903) | Wyrok ★
@@ -9131,6 +9154,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2006-09-12 | SN | [SNO 41/06](https://www.saos.org.pl/judgments/84566) | Wyrok ★
 - 2005-02-22 | SN | [SNO 5/05](https://www.saos.org.pl/judgments/83249) | Wyrok ★
 - 2009-06-30 | SN | [SNO 16/09](https://www.saos.org.pl/judgments/90514) | Postanowienie
+- 2025-10-29 | SO | [II AKa 87/25](https://www.saos.org.pl/judgments/545326) | Wyrok
 - 2024-12-10 | SO | [III AUa 57/24](https://www.saos.org.pl/judgments/532775) | Wyrok
 - 2024-10-03 | SO | [I ACa 1336/22](https://www.saos.org.pl/judgments/531751) | Wyrok
 - 2023-02-22 | SO | [I AGa 14/22](https://www.saos.org.pl/judgments/494892) | Wyrok
@@ -9181,7 +9205,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2025-07-14 | SO | [II AKa 256/24](https://www.saos.org.pl/judgments/531200) | Uzasadnienie
 - 2024-12-19 | SO | [II Ca 1525/24](https://www.saos.org.pl/judgments/532997) | Postanowienie
 
-## § 5 (10)
+## § 5 (11)
 
 - 2013-11-07 | TK | [K 31/12](https://www.saos.org.pl/judgments/111595) | Wyrok ★
 - 2012-05-08 | TK | [K 7/10](https://www.saos.org.pl/judgments/110903) | Wyrok ★
@@ -9190,11 +9214,12 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2012-10-03 | SN | [II PK 64/12](https://www.saos.org.pl/judgments/99220) | Wyrok ★
 - 2006-11-16 | SN | [SNO 67/06](https://www.saos.org.pl/judgments/84733) | Wyrok ★
 - 2006-09-12 | SN | [SNO 41/06](https://www.saos.org.pl/judgments/84566) | Wyrok ★
+- 2025-10-29 | SO | [II AKa 87/25](https://www.saos.org.pl/judgments/545326) | Wyrok
 - 2025-04-30 | SO | [II AKa 366/24](https://www.saos.org.pl/judgments/543412) | Wyrok
 - 2024-12-10 | SO | [III AUa 57/24](https://www.saos.org.pl/judgments/532775) | Wyrok
 - 2015-06-11 | SO | [IV Pa 58/15](https://www.saos.org.pl/judgments/169534) | Wyrok
 
-## § 6 (12)
+## § 6 (13)
 
 - 2013-11-07 | TK | [K 31/12](https://www.saos.org.pl/judgments/111595) | Wyrok ★
 - 2012-05-08 | TK | [K 7/10](https://www.saos.org.pl/judgments/110903) | Wyrok ★
@@ -9206,6 +9231,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 - 2011-10-21 | TK | [Ts 222/11](https://www.saos.org.pl/judgments/110702) | Postanowienie ★
 - 2012-10-03 | SN | [II PK 64/12](https://www.saos.org.pl/judgments/99220) | Wyrok ★
 - 2009-10-20 | SN | [III KRS 13/09](https://www.saos.org.pl/judgments/91096) | Wyrok ★
+- 2025-10-29 | SO | [II AKa 87/25](https://www.saos.org.pl/judgments/545326) | Wyrok
 - 2024-12-10 | SO | [III AUa 57/24](https://www.saos.org.pl/judgments/532775) | Wyrok
 - 2025-05-22 | SO | [VII Pa 126/24](https://www.saos.org.pl/judgments/527863) | Wyrok
 
@@ -9266,8 +9292,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów
 
 - 2014-04-07 | SN | [SNO 7/14](https://www.saos.org.pl/judgments/104934) | Wyrok ★
 
-## (ogólnie) (65)
+## (ogólnie) (66)
 
+- 2025-09-22 | SO | [II AKa 154/24](https://www.saos.org.pl/judgments/545018) | Wyrok
 - 2025-01-29 | SO | [III AUa 619/24](https://www.saos.org.pl/judgments/530812) | Wyrok
 - 2024-09-05 | SO | [III AUa 1490/22](https://www.saos.org.pl/judgments/504764) | Wyrok
 - 2024-07-10 | SO | [II AKa 436/23](https://www.saos.org.pl/judgments/518795) | Wyrok

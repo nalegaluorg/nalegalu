@@ -8,10 +8,10 @@ pos: 1102
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 lipca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1102 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 25 lipca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1102/text.pdf) |
 
-ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 25 lipca 2016 r.
-w sprawie pobierania i przekazywania obrazów linii papilarnych i materiału biologicznego oraz utrwalania i przekazywania wizerunku twarzy osoby niebędącej obywatelem Rzeczypospolitej Polskiej Na podstawie art. 10 ust. 6 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. poz. 904) zarządza się, co następuje: § 1. Rozporządzenie określa sposób i tryb:
+w sprawie pobierania i przekazywania obrazów linii papilarnych i materiału biologicznego oraz utrwalania i przekazywania wizerunku twarzy osoby niebędącej obywatelem Rzeczypospolitej Polskiej Na podstawie art. 10 ust. 6 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. poz. 904) zarządza się, co następuje:
+§ 1. Rozporządzenie określa sposób i tryb:
 1) pobierania obrazów linii papilarnych, utrwalania wizerunku twarzy osoby oraz nieinwazyjnego pobierania materiału biologicznego od osoby niebędącej obywatelem Rzeczypospolitej Polskiej, w przypadku gdy:
 a) istnieje wątpliwość co do tożsamości osoby lub
 b) istnieje podejrzenie nielegalnego przekroczenia granicy Rzeczypospolitej Polskiej albo wątpliwość co do deklarowanego celu pobytu na terytorium Rzeczypospolitej Polskiej, lub
@@ -38,21 +38,21 @@ a) pobranych obrazów linii papilarnych, wizerunków twarzy oraz oznaczonych pro
 b) danych osobowych osoby, której obrazy linii papilarnych pobrano lub utrwalono wizerunek lub osoby, od której pobrano materiał biologiczny,
 c) informacji o podstawie prawnej pobrania obrazów linii papilarnych, utrwalenia wizerunku lub pobrania materiału biologicznego.
 § 2. Użyte w rozporządzeniu określenia i skróty oznaczają:
-1) AFIS Automatyczny System Identyfikacji Daktyloskopijnej będący zbiorem danych daktyloskopijnych prowadzonym przez Komendanta Głównego Policji na podstawie art. 21h ust. 1 pkt 2 ustawy o Policji;
-2) baza danych DNA zbiór danych DNA zawierający informacje o wynikach analizy kwasu deoksyrybonukleinowego (DNA) prowadzony przez Komendanta Głównego Policji na podstawie art. 21a ust. 1 ustawy o Policji;
-3) CRD Centralną Registraturę Daktyloskopijną będącą zbiorem danych daktyloskopijnych prowadzonym przez Komendanta Głównego Policji na podstawie art. 21h ust. 1 pkt 1 ustawy o Policji;
-4) dane daktyloskopijne informacje i dane osobowe przetwarzane w CRD i AFIS;
-5) funkcjonariusz funkcjonariusza Policji, Straży Granicznej lub Agencji Bezpieczeństwa Wewnętrznego;
-6) jednostka organizacyjna Policji komendę powiatową, miejską lub rejonową Policji;
-7) karta chejroskopijna kartę chejroskopijną odcisków linii papilarnych dłoni, której wzór jest określony w załączniku nr 8 do rozporządzenia Rady Ministrów z dnia 29 września 2015 r. w sprawie postępowania przy wykonywaniu niektórych uprawnień policjantów (Dz. U. poz. 1565);
-8) karta daktyloskopijna kartę daktyloskopijną odcisków linii papilarnych palców, której wzór jest określony w załączniku nr 7 do rozporządzenia Rady Ministrów z dnia 29 września 2015 r. w sprawie postępowania przy wykonywaniu niektórych uprawnień policjantów;
-9) materiał biologiczny próbkę pobraną od osoby w celu przeprowadzenia analizy kwasu deoksyrybonukleinowego (DNA);
-10) profil DNA informację o wynikach analizy kwasu deoksyrybonukleinowego;
-11) rejestracja profilu DNA wprowadzenie do zbioru danych DNA informacji o profilu DNA, danych osobowych i próbki biologicznej oraz nadanie profilowi DNA indywidualnego numeru registratury bazy danych DNA przez Centralne Laboratorium Kryminalistyczne Policji;
-12) ustawa o Policji ustawę z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm. );
-13) ustawa o działaniach antyterrorystycznych ustawę z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych;
-14) właściwe laboratorium kryminalistyczne Centralne Laboratorium Kryminalistyczne Policji lub Biuro Badań Kryminalistycznych Agencji Bezpieczeństwa Wewnętrznego;
-15) zarządzenie zarządzenie o wprowadzeniu do bazy danych DNA informacji o wynikach analizy kwasu deoksyrybonukleinowego.
+1) AFIS – Automatyczny System Identyfikacji Daktyloskopijnej będący zbiorem danych daktyloskopijnych prowadzonym przez Komendanta Głównego Policji na podstawie art. 21h ust. 1 pkt 2 ustawy o Policji;
+2) baza danych DNA – zbiór danych DNA zawierający informacje o wynikach analizy kwasu deoksyrybonukleinowego (DNA) prowadzony przez Komendanta Głównego Policji na podstawie art. 21a ust. 1 ustawy o Policji;
+3) CRD – Centralną Registraturę Daktyloskopijną będącą zbiorem danych daktyloskopijnych prowadzonym przez Komendanta Głównego Policji na podstawie art. 21h ust. 1 pkt 1 ustawy o Policji;
+4) dane daktyloskopijne – informacje i dane osobowe przetwarzane w CRD i AFIS;
+5) funkcjonariusz – funkcjonariusza Policji, Straży Granicznej lub Agencji Bezpieczeństwa Wewnętrznego;
+6) jednostka organizacyjna Policji – komendę powiatową, miejską lub rejonową Policji;
+7) karta chejroskopijna – kartę chejroskopijną odcisków linii papilarnych dłoni, której wzór jest określony w załączniku nr 8 do rozporządzenia Rady Ministrów z dnia 29 września 2015 r. w sprawie postępowania przy wykonywaniu niektórych uprawnień policjantów (Dz. U. poz. 1565);
+8) karta daktyloskopijna – kartę daktyloskopijną odcisków linii papilarnych palców, której wzór jest określony w załączniku nr 7 do rozporządzenia Rady Ministrów z dnia 29 września 2015 r. w sprawie postępowania przy wykonywaniu niektórych uprawnień policjantów;
+9) materiał biologiczny – próbkę pobraną od osoby w celu przeprowadzenia analizy kwasu deoksyrybonukleinowego (DNA);
+10) profil DNA – informację o wynikach analizy kwasu deoksyrybonukleinowego;
+11) rejestracja profilu DNA – wprowadzenie do zbioru danych DNA informacji o profilu DNA, danych osobowych i próbki biologicznej oraz nadanie profilowi DNA indywidualnego numeru registratury bazy danych DNA przez Centralne Laboratorium Kryminalistyczne Policji;
+12) ustawa o Policji – ustawę z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm. );
+13) ustawa o działaniach antyterrorystycznych – ustawę z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych;
+14) właściwe laboratorium kryminalistyczne – Centralne Laboratorium Kryminalistyczne Policji lub Biuro Badań Kryminalistycznych Agencji Bezpieczeństwa Wewnętrznego;
+15) zarządzenie – zarządzenie o wprowadzeniu do bazy danych DNA informacji o wynikach analizy kwasu deoksyrybonukleinowego.
 § 3. Pobieranie obrazów linii papilarnych od osób, o których mowa w § 1 pkt 1, przeprowadza się za pomocą urządzenia do elektronicznego daktyloskopowania lub metodą tuszową, bezpośrednio na kartę daktyloskopijną i kartę chejroskopijną.
 § 4. 1. Przed przystąpieniem do pobrania obrazów linii papilarnych od osoby funkcjonariusz sprawdza, za pomocą wywiadu daktyloskopijnego lub urządzenia do szybkiej identyfikacji daktyloskopijnej, obecność danych daktyloskopijnych osoby w AFIS lub ich powiązanie z innymi danymi.
 2. W przypadku gdy wynik sprawdzenia, o którym mowa w ust. 1, wskazuje na różnice między danymi zarejestrowanymi a danymi podawanymi przez osobę, funkcjonariusz informuje swojego przełożonego o stwierdzonych rozbieżnościach.
@@ -82,6 +82,7 @@ c) informacji o podstawie prawnej pobrania obrazów linii papilarnych, utrwaleni
 3) przekazuje pakiet kryminalistyczny wraz z jednym egzemplarzem zarządzenia do właściwego laboratorium kryminalistycznego, pozostawiając drugi egzemplarz tego zarządzenia w aktach postępowania lub czynności, z zastrzeżeniem ust. 3.
 3. Właściwe laboratorium kryminalistyczne:
 1) dokonuje sprawdzenia nadesłanej dokumentacji dotyczącej rejestracji profili DNA;
+2) przeprowadza badania genetyczne w celu uzyskania profili DNA;
 3) na podstawie zarządzenia właściwego organu przekazuje oznaczony profil DNA Komendantowi Głównemu Policji celem rejestracji w bazie danych DNA, dołączając pakiet kryminalistyczny z niewykorzystaną do badań próbką materiału biologicznego wraz z kartą rejestracyjną profilu DNA oraz kartą rejestracyjną próbki biologicznej;
 4) zwraca dokumentację bez oznaczenia i rejestracji profilu DNA w bazie danych DNA organowi zlecającemu, który ją nadesłał, w przypadku gdy:
 a) pakiet jest uszkodzony, niekompletny lub nieprawidłowo zabezpieczony,
@@ -110,6 +111,7 @@ d) nie uzyskano profilu DNA.
 10) datę oraz dokładną podstawę prawną pobrania obrazów linii papilarnych, utrwalenia wizerunku lub pobrania materiału biologicznego;
 11) znak (numer) sprawy, w związku z którą pobiera się obrazy linii papilarnych, utrwala wizerunek lub pobiera materiał biologiczny.
 2. Jednostka organizacyjna Policji, której funkcjonariusz pobrał obrazy linii papilarnych, utrwalił wizerunek lub pobrał materiał biologiczny od osób, przekazuje Komendantowi Głównemu Policji przez zarejestrowanie w Krajowym Systemie Informacyjnym Policji:
+1) ustalone dane, o których mowa w ust. 1, z zastrzeżeniem ust. 8;
 2) utrwalony w sposób określony w § 8 wizerunek osoby, w przypadku jego utrwalenia;
 3) informacje o fakcie pobrania obrazów linii papilarnych, w przypadku ich pobrania;
 4) informacje o fakcie pobrania materiału biologicznego, w przypadku gdy został pobrany materiał biologiczny w celu oznaczenia profili DNA;
@@ -130,7 +132,7 @@ d) nie uzyskano profilu DNA.
 2) posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania;
 3) jest to uzasadnione specyfiką lub zakresem wykonywania zadań.
 8. W przypadku gdy ustalenie danych, o których mowa w ust. 1, nie jest możliwe, a zachodzi potrzeba pobrania obrazów linii papilarnych, materiału biologicznego lub utrwalenia wizerunku osoby w przypadkach, o których mowa w art. 10 ust. 1 ustawy o działaniach antyterrorystycznych, przekazuje się w zakresie niezbędnym dane, które ustalono, oraz informacje określone odpowiednio w ust. 2 pkt 2–6 i ust. 3 pkt 2–6.
-§ 11. 1. Do przekazywania informacji, o którym mowa w § 10 ust. 3, przez ABW lub Straż Graniczną stosuje się formularz rejestracyjny „KSIP Rejestracja osoby z art. 10 ust. 1 ustawy o działaniach antyterrorystycznych”, którego wzór jest określony w załączniku nr 2 do rozporządzenia.
+§ 11. 1. Do przekazywania informacji, o którym mowa w § 10 ust. 3, przez ABW lub Straż Graniczną stosuje się formularz rejestracyjny „KSIP – Rejestracja osoby z art. 10 ust. 1 ustawy o działaniach antyterrorystycznych”, którego wzór jest określony w załączniku nr 2 do rozporządzenia.
 2. Komendant Główny Policji lub osoba przez niego upoważniona nadaje, zmienia lub cofa funkcjonariuszom ABW lub Straży Granicznej, na wniosek ABW lub Straży Granicznej, uprawnienia dostępu do Krajowego Systemu Informacyjnego Policji w celu rejestracji lub aktualizacji informacji i danych o osobach, o których mowa w art. 10 ust. 1 ustawy o działaniach antyterrorystycznych, oraz w trybie, o którym mowa w § 10 ust. 6. Wzór wniosku o nadanie, zmianę lub cofnięcie uprawnień jest określony w załączniku nr 3 do rozporządzenia.
 3. Wniosek o zmianę lub cofnięcie uprawnień, o których mowa w ust. 2, ABW lub Straż Graniczna przekazuje niezwłocznie po zaistnieniu okoliczności uzasadniających zmianę lub cofnięcie uprawnień.
 4. Wniosek, o którym mowa w ust. 2, przesyła się w formie papierowej w dwóch egzemplarzach do komórki organizacyjnej Komendy Głównej Policji właściwej w sprawach wywiadu kryminalnego.
@@ -139,5 +141,5 @@ d) nie uzyskano profilu DNA.
 3. W przypadku gdy ABW, Policja lub Straż Graniczna w toku wykonywania czynności dotyczących osób, o których mowa w § 1 pkt 1, pobierze dane osobowe lub ustali informacje, które mają wpływ na aktualność przekazanych Komendantowi Głównemu Policji, zgodnie z § 10, danych i informacji o tych osobach, organ, który te dane lub informacje ustalił, przekazuje je niezwłocznie Komendantowi Głównemu Policji odpowiednio w trybie określonym w § 10 celem zaktualizowania pobranych danych, z zastrzeżeniem ust. 4.
 4. W przypadku gdy aktualizacja, o której mowa w ust. 3, wiąże się z usunięciem informacji i danych, w szczególności w przypadku pobrania danych lub ustalenia informacji niepotwierdzających zaistnienia okoliczności będących podstawą pobrania i przekazania danych lub też ustania tych okoliczności, informacje wskazujące na usunięcie informacji przekazuje się wyłącznie Komendantowi Głównemu Policji w formie pisemnej, wskazując okoliczności będące podstawą do usunięcia informacji i danych oraz dane identyfikacyjne osoby, której taka aktualizacja dotyczy.
 § 13. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Prezes Rady Ministrów: B. Szydło ZARZĄDZAM WZóR ZARZąDZeNIA O WPROWADZeNIU DO BAZy DANyCh DNA INFORMACJI O WyNIKACh ANALIZy KWASU DeOKSyRyBONUKLeINOWeGO WZóR FORMULARZA ReJeSTRACJI OSOBy OKReśLONeJ W ART. 10 UST. 1 USTAWy O DZIAłANIACh ANTyTeRRORySTyCZNyCh WZóR WNIOSKU O NADANIe, ZMIANę LUB COFNIęCIe UPRAWNIeń FUNKCJONARIUSZOM ABW LUB STRAży GRANICZNeJ DO DOSTęPU DO KRAJOWeGO SySTeMU INFORMACyJNeGO POLICJI W CeLU ReJeSTRACJI LUB AKTUALIZACJI INFORMACJI I DANyCh O OSOBACh, O KTóRyCh MOWA W ART. 10 UST. 1 USTAWy Z DNIA 10 CZeRWCA 2016 R. O DZIAłANIACh ANTyTeRRORySTyCZNyCh
+Prezes Rady Ministrów: B. Szydło WZóR ZARZąDZeNIA Wzór zarządzenia O WPROWADZeNIU o wprowadzeniu do DO bazy BAZy danych DANyCh DNA informacji DNA INFORMACJI o wynikach O WyNIKACh analizy kwasu ANALIZy KWASU deoksyrybonukleinowego DeOKSyRyBONUKLeINOWeGO ZARZĄDZAM WZóR FORMULARZA ReJeSTRACJI Wzór formularza OSOBy rejestracji OKReśLONeJ osoby W ART. 10 UST. 1 USTAWy określonej O w DZIAłANIACh art. 10 ust. 1 ustawy ANTyTeRRORySTyCZNyCh o działaniach antyterrorystycznych WZóR WNIOSKU O NADANIe, ZMIANę LUB COFNIęCIe UPRAWNIeń FUNKCJONARIUSZOM ABW LUB STRAży GRANICZNeJ DO DOSTęPU DO KRAJOWeGO SySTeMU INFORMACyJNeGO POLICJI W CeLU ReJeSTRACJI LUB AKTUALIZACJI INFORMACJI I DANyCh O OSOBACh, O KTóRyCh MOWA W ART. 10 UST. 1 USTAWy Z DNIA 10 CZeRWCA 2016 R. O DZIAłANIACh ANTyTeRRORySTyCZNyCh
 

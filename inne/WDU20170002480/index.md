@@ -8,10 +8,10 @@ pos: 2480
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2480 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 28 grudnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002480) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2480/text.pdf) |
 
-Poz. 2480 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 28 grudnia 2017 r.
-zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Środowiska Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323) w załączniku uchyla się pkt 3.
+zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Środowiska Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 2323) w załączniku uchyla się pkt 3.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
 Prezes Rady Ministrów: M. Morawiecki
 

@@ -8,10 +8,10 @@ pos: 411
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 19 marca OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 12 marca ogłoszenia jednolitego tekstu rozporządzenia wniosku o przyznanie świadczenia ratowniczego
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 411 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 12 marca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,20 +25,29 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000411) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/411/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia 2 lutego wniosku o przyznanie świadczenia ratowniczego 316), uwzględnieniem zmiany wprowadzonej rozporządzeniem Wewnętrznych 2 zmieniającym rozporządzenie wniosku o przyznanie świadczenia ratowniczego 2579).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia 2 zmieniającego rozporządzenie wniosku o przyznanie świadczenia ratowniczego 2579), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Minister Administracji: wz. T. Szymański ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 2 lutego wniosku o przyznanie świadczenia ratowniczego Na podstawie art. 17 ust. 11 ustawy 17 2021 o ochotniczych strażach pożarnych
-233) zarządza się, co następuje: § 1. 1. Rozporządzenie określa wzór wniosku o przyznanie świadczenia ratowniczego.
-2. Wzór wniosku o przyznanie świadczenia ratowniczego jest określony załączniku rozporządzenia.
-§ 2. Przepisy niniejszego rozporządzenia stosuje się od 1 stycznia § 3. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia .
-Na dzień ogłoszenia obwieszczenia Dzienniku Rzeczypospolitej Polskiej działem administracji rządowej sprawy wewnętrzne kieruje Minister Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady MiniWZÓR Wniosek o przyznanie świadczenia ratowniczego A. ADNOTACJE URZĘDOWE (wypełnia właściwa komenda powiatowa/miejska Państwowej Straży Pożarnej) Wniosek wpłynął Komendy …………….. Państwowej Straży Pożarnej ……………………. …………………… .
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie wniosku o przyznanie świadczenia ratowniczego
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 2 lutego 2022 r. w sprawie wniosku o przyznanie świadczenia ratowniczego (Dz. U. poz. 316), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 2 grudnia 2022 r. zmieniającym rozporządzenie w sprawie wniosku o przyznanie świadczenia ratowniczego (Dz. U. poz. 2579).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 2 grudnia 2022 r. zmieniającego rozporządzenie w sprawie wniosku o przyznanie świadczenia ratowniczego (Dz. U. poz. 2579), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 2 lutego 2022 r.
+w sprawie wniosku o przyznanie świadczenia ratowniczego Na podstawie art. 17 ust. 11 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2024 r.
+poz. 233) zarządza się, co następuje:
+§ 1. 1. Rozporządzenie określa wzór wniosku o przyznanie świadczenia ratowniczego.
+2. Wzór wniosku o przyznanie świadczenia ratowniczego jest określony w załączniku do rozporządzenia.
+§ 2. Przepisy niniejszego rozporządzenia stosuje się od dnia 1 stycznia 2022 r.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U.
+poz. 2708).
+Rozporządzenie zostało ogłoszone w dniu 8 lutego 2022 r.
+WZÓR Wniosek o przyznanie świadczenia ratowniczego A. ADNOTACJE URZĘDOWE (wypełnia właściwa komenda powiatowa/miejska Państwowej Straży Pożarnej) Wniosek wpłynął do Komendy …………….. Państwowej Straży Pożarnej w ……………………. dnia …………………… .
 Został zarejestrowany pod numerem ……………. .
 ……………………………….
-Wnoszę o przyznanie świadczenia ratowniczego (wnioskodawca wypełnia część B druku WIELKIMI LITERAMI) B.1. DANE PERSONALNE Nazwisko Pierwsze imię Drugie imię Data urodzenia Numer PESEL Seria nr dowodu osobistego / Numer paszportu (należy wypełnić, jeśli nie nadano numeru PESEL) B.2. ADRES ZAMIESZKANIA Ulica Nr domu Nr lokalu Kod pocztowy Miejscowość Gmina/dzielnica Powiat Województwo Nazwa państwa B.3. ADRES DO KORESPONDENCJI (należy podać, jeżeli jest inny niż adres zamieszkania) Ulica Nr domu Nr lokalu Kod pocztowy Miejscowość Gmina/dzielnica Powiat Województwo Nazwa państwa B.4. DYSPOZYCJA WNIOSKODAWCY Świadczenie ratownicze proszę przekazywać na wskazany adres zamieszkania / adres korespondencji / poniższy rachunek bankowy albo rachunek spółdzielczej kasie oszczędnościowo-kredytowej : Adres: .………………………………………………………………………………………………………………………………….
-Numer rachunku bankowego / rachunku spółdzielczej kasie oszczędnościowo-kredytowej: Nazwa banku / spółdzielczej kasy oszczędnościowo-kredytowej: ………………………………………………………………………………………………………………………………………….
+Wnoszę o przyznanie świadczenia ratowniczego (wnioskodawca wypełnia część B druku WIELKIMI LITERAMI) B.1. DANE PERSONALNE Nazwisko Pierwsze imię Drugie imię Data urodzenia Numer PESEL Seria i nr dowodu osobistego / Numer paszportu (należy wypełnić, jeśli nie nadano numeru PESEL) B.2. ADRES ZAMIESZKANIA Ulica Nr domu Nr lokalu Kod pocztowy Miejscowość Gmina/dzielnica Powiat Województwo Nazwa państwa B.3. ADRES DO KORESPONDENCJI (należy podać, jeżeli jest inny niż adres zamieszkania) Ulica Nr domu Nr lokalu Kod pocztowy Miejscowość Gmina/dzielnica Powiat Województwo Nazwa państwa B.4. DYSPOZYCJA WNIOSKODAWCY Świadczenie ratownicze proszę przekazywać na wskazany adres zamieszkania / adres do korespondencji / poniższy rachunek bankowy albo rachunek w spółdzielczej kasie oszczędnościowo-kredytowej : Adres: .………………………………………………………………………………………………………………………………….
+Numer rachunku bankowego / rachunku w spółdzielczej kasie oszczędnościowo-kredytowej: Nazwa banku / spółdzielczej kasy oszczędnościowo-kredytowej: ………………………………………………………………………………………………………………………………………….
 Adres urzędu skarbowego właściwego dla wnioskodawcy: …………………………………………………………………………..
 ………………………………………………………………………………………………………………………………………….
 B.5. ZAŁĄCZNIKI: ……………………………. ……...…...………….…........………………………………………………………………………… * Niepotrzebne skreślić.
 ** W przypadku niedokonania wyboru świadczenie będzie przekazywane na wskazany adres zamieszkania.
-*** Zgodnie art. 50 ust. 3 pkt 2 3 ustawy 17 2021 o ochotniczych strażach pożarnych 233) można załączyć pisemne oświadczenia 3 świadków potwierdzające bezpośredni udział działaniach ratowniczych.
+*** Zgodnie z art. 50 ust. 3 pkt 2 i 3 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2024 r. poz. 233) można załączyć pisemne oświadczenia 3 świadków potwierdzające bezpośredni udział w działaniach ratowniczych.
+W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 2 grudnia 2022 r. zmieniającego rozporządzenie w sprawie wniosku o przyznanie świadczenia ratowniczego (Dz. U. poz. 2579), które weszło w życie z dniem 27 grudnia 2022 r.
 

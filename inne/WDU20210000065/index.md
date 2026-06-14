@@ -8,10 +8,10 @@ pos: 65
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 stycznia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 65 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 4 grudnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,17 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/65/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 4 grudnia 2020 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie urządzenia do symulowania jazdy w warunkach specjalnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury z dnia 8 kwietnia 2011 r. w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 444), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 10 października 2019 r. zmieniającym rozporządzenie w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 2018).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 10 października 2019 r. zmieniającego rozporządzenie w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 2018), które stanowią: „§ 2. Urządzenia do symulowania jazdy w warunkach specjalnych, spełniające wymagania określone w § 1 pkt 3 oraz w § 2 pkt 1 i 2 w części I. „Ogólne wymagania techniczno-organizacyjne symulatora” w załączniku do rozporządzenia w brzmieniu dotychczasowym, użytkowane lub wprowadzane do obrotu przed dniem wejścia w życie niniejszego rozporządzenia, uznaje się za urządzenia spełniające wymagania określone w niniejszym rozporządzeniu.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 8 kwietnia 2011 r.
-w sprawie urządzenia do symulowania jazdy w warunkach specjalnych Na podstawie art. 39g ust. 12 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 2140 oraz z 2020 r. poz. 875 i 1087) zarządza się, co następuje: § 1. Rozporządzenie określa wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez urządzenie do symulowania jazdy w warunkach specjalnych, zwane dalej „symulatorem”.
+w sprawie urządzenia do symulowania jazdy w warunkach specjalnych Na podstawie art. 39g ust. 12 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 2140 oraz z 2020 r. poz. 875 i 1087) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez urządzenie do symulowania jazdy w warunkach specjalnych, zwane dalej „symulatorem”.
 § 2. Wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez symulator określa załącznik do rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WYMAGANIA TECHNICZNO-ORGANIZACYJNE ORAZ ZAKRES FUNKCJONALNOŚCI REALIZOWANEJ PRZEZ SYMULATOR I. Ogólne wymagania techniczno-organizacyjne symulatora § 1. Symulator powinien spełniać wymagania określone w:
+WYMAGANIA TECHNICZNO-ORGANIZACYJNE ORAZ ZAKRES FUNKCJONALNOŚCI REALIZOWANEJ PRZEZ SYMULATOR I. Ogólne wymagania techniczno-organizacyjne symulatora
+§ 1. Symulator powinien spełniać wymagania określone w:
 1) ustawie z dnia 13 kwietnia 2007 r. o kompatybilności elekromagnetycznej (Dz. U. z 2019 r. poz. 2388);
 2) rozporządzeniu Ministra Gospodarki z dnia 21 października 2008 r. w sprawie zasadniczych wymagań dla maszyn (Dz. U. poz. 1228 oraz z 2011 r. poz. 701);
 3) rozporządzeniu Ministra Rozwoju z dnia 2 czerwca 2016 r. w sprawie wymagań dla sprzętu elektrycznego (Dz. U.
@@ -43,7 +44,7 @@ poz. 806).
 1) przenoszącej normę EN 61010-1:2011;
 2) przenoszącej normę ISO 7000:2012.
 § 3. 1. System informatyczny symulatora, a w szczególności użyte w nim: wzory znaków i sygnałów drogowych, sytuacje drogowe, rodzaje dróg i zasady ruchu drogowego powinny odpowiadać przepisom określonym w:
-1) ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, z późn. zm. );
+1) ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, z późn. zm. );
 2) rozporządzeniu Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. z 2019 r. poz. 2310);
 3) rozporządzeniu Ministra Infrastruktury z dnia 3 lipca 2003 r. w sprawie szczegółowych warunków technicznych dla znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego i warunków ich umieszczania na drogach (Dz. U. z 2019 r. poz. 2311 oraz z 2020 r. poz. 862).
 2. System informatyczny symulatora powinien wydawać komunikaty posiadaczowi, użytkownikowi oraz instruktorowi prowadzącemu zajęcia w języku polskim.
@@ -54,7 +55,7 @@ poz. 806).
 3) rok produkcji;
 4) numer seryjny.
 § 5. 1. Symulator powinien być zaopatrzony w dokumentację w postaci:
-1) instrukcji obsługi w języku polskim;
+1) instrukcji obsługi – w języku polskim;
 2) oprogramowania na nośniku danych, przy użyciu którego posiadacz symulatora może je ponownie zainstalować;
 3) oświadczenia o spełnianiu warunków wynikających z niniejszego rozporządzenia.
 2. Do celów certyfikacji symulatora, do dokumentacji, o której mowa w ust. 1, dołącza się:
@@ -65,7 +66,8 @@ b) prezentację układów współrzędnych, w których opisywany jest ruch pojaz
 c) liczbę i opis stopni swobody ruchu,
 d) opis modelu kontaktu koła z nawierzchnią drogi,
 e) wyniki przykładowych weryfikacji eksperymentalnych modelu dla co najmniej trzech manewrów opisywanych testami ISO, ECE (hamowania w ruchu prostoliniowym, ruchu ustalonego po okręgu, podwójnej zmiany pasa ruchu).
-II. Zakres funkcjonalności realizowanej przez symulator oraz szczegółowe wymagania techniczno-organizacyjne Funkcjonalność metodyczna § 6. 1. Symulator powinien umożliwiać realizację programu szkolenia w następującym zakresie:
+II. Zakres funkcjonalności realizowanej przez symulator oraz szczegółowe wymagania techniczno-organizacyjne Funkcjonalność metodyczna
+§ 6. 1. Symulator powinien umożliwiać realizację programu szkolenia w następującym zakresie:
 1) prawidłowego posługiwania się mechanizmami sterowania pojazdem oraz wykorzystywania wyposażenia „kabiny” kierowcy samochodu ciężarowego/ciągnika siodłowego lub autobusu, a także obserwacji wskazań wskaźników i ich zastosowania do dalszej jazdy;
 2) stosowania się do przepisów ruchu drogowego, reakcji na znaki i sygnały drogowe, w tym w szczególności:
 a) zachowania w ruchu drogowym,
@@ -128,7 +130,7 @@ e) prawidłowego postępowania w przypadku awarii, w tym w szczególności sposo
 7. Raport z ćwiczenia wykonanego na symulatorze powinien zawierać:
 1) dane identyfikujące osobę szkoloną:
 a) numer osoby na liście obecności,
-b) rodzaj i zakres szkolenia kwalifikacja wstępna lub kwalifikacja wstępna przyspieszona w zakresie kat. C1, C1+E, C i C+E lub D1, D1+E, D i D+E prawa jazdy,
+b) rodzaj i zakres szkolenia – kwalifikacja wstępna lub kwalifikacja wstępna przyspieszona w zakresie kat. C1, C1+E, C i C+E lub D1, D1+E, D i D+E prawa jazdy,
 c) numer kursu w danym roku, oznaczenie ośrodka szkolenia z podaniem miejsca wykonywania działalności objętej wpisem,
 d) rok kalendarzowy, w którym osoba szkolona odbywa szkolenie, poprzez wskazanie dwóch ostatnich cyfr roku,
 e) imię/imiona i nazwisko; (np. 01/C/01/10 Jan Włodzimierz Malinowski-Kowalski);
@@ -139,9 +141,10 @@ e) imię/imiona i nazwisko; (np. 01/C/01/10 Jan Włodzimierz Malinowski-Kowalski
 6) wykaz zarejestrowanych nieprawidłowości związanych z obsługą i prowadzeniem pojazdu, wykaz zarejestrowanych przekroczeń przepisów ruchu drogowego, ocenę wykonanego ćwiczenia pod kątem ekonomiki jazdy (zużycie paliwa, sterowanie zespołem napędowym, wykorzystanie układu hamulcowego itp.);
 7) automatyczną ocenę wykonanego ćwiczenia;
 8) miejsce przeznaczone na wpis indywidualnej opinii instruktora oraz jego ostateczną ocenę wykonanego ćwiczenia.
-Funkcjonalność techniczna symulatora wymagania techniczne pozwalające na realizację funkcjonalności metodycznej symulatora § 9. Właściwa realizacja funkcjonalności metodycznej symulatora jest zapewniana przez:
+Funkcjonalność techniczna symulatora – wymagania techniczne pozwalające na realizację funkcjonalności metodycznej symulatora
+§ 9. Właściwa realizacja funkcjonalności metodycznej symulatora jest zapewniana przez:
 1) urządzenia techniczne składające się na symulator, w tym:
-a) kabinę symulatora sprzężoną z układami umożliwiającymi osobie szkolonej odbiór wielkości charakteryzujących aktualny stan symulowanego obiektu: układem generowania i prezentacji obrazu, układem do symulacji efektów dźwiękowych, układem ruchu, rzeczywistą lub wirtualną deską rozdzielczą, mechanizmami sterowania pojazdem kołem kierownicy wraz z aktywnym jej oporem, pedałem hamulca, pedałem przyspieszenia, pedałem sprzęgła (dla sterowania manualnego), dźwignią zmiany biegów,
+a) kabinę symulatora sprzężoną z układami umożliwiającymi osobie szkolonej odbiór wielkości charakteryzujących aktualny stan symulowanego obiektu: układem generowania i prezentacji obrazu, układem do symulacji efektów dźwiękowych, układem ruchu, rzeczywistą lub wirtualną deską rozdzielczą, mechanizmami sterowania pojazdem – kołem kierownicy wraz z aktywnym jej oporem, pedałem hamulca, pedałem przyspieszenia, pedałem sprzęgła (dla sterowania manualnego), dźwignią zmiany biegów,
 b) układ wizualizacji,
 c) układ ruchu,
 d) stanowisko instruktora,
@@ -153,7 +156,7 @@ b) pozwalający na realizację ćwiczeń określonych w funkcjonalności metodyc
 c) zawierający układ zbierania danych niezbędnych dla rejestracji i dokumentowania przebiegu i wyników ćwiczeń.
 § 10. 1. Symulator powinien być wyposażony w kabinę współczesnego samochodu ciężarowego, ciągnika siodłowego lub autobusu, wyposażoną co najmniej w następujące elementy:
 1) regulowany fotel kierowcy lub regulowany fotel kierowcy i pasażera;
-2) tablicę rozdzielczą wraz z prędkościomierzem i obrotomierzem (dopuszcza się stosowanie deski wirtualnej wyświetlaczy zastępujących przyrządy i wskaźniki analogowe);
+2) tablicę rozdzielczą wraz z prędkościomierzem i obrotomierzem (dopuszcza się stosowanie deski wirtualnej – wyświetlaczy zastępujących przyrządy i wskaźniki analogowe);
 3) elementy sterowania: koło kierownicy, pedał przyspieszenia, sprzęgła i hamulca oraz dźwignię zmiany biegów;
 4) dźwignię kierunkowskazów, włącznik lub dźwignię zwalniacza, włączniki świateł postojowych, świateł drogowych, świateł przeciwmgłowych, a także dźwignię hamulca awaryjnego, postojowego;
 5) wskaźnik włączenia hamulca awaryjnego, postojowego;
@@ -186,7 +189,7 @@ W takim przypadku wymaga się, aby prezentowany na nich obraz pozorny odpowiada�
 4) częstotliwość generowania klatek obrazu, co najmniej 30 Hz;
 5) częstotliwość wyświetlania klatek obrazu, co najmniej 60 Hz i nie mniej niż częstotliwość generowania klatek obrazu;
 6) kontrast min. 300.
-4. Obraz w imitatorach lusterek wstecznych powinien odpowiadać właściwościom obrazu widzianego w rzeczywistych lusterkach wstecznych pojazdu, którego kabina jest wykorzystywana w symulatorze w przypadku kabiny autobusu dotyczy także wewnętrznego lusterka wstecznego.
+4. Obraz w imitatorach lusterek wstecznych powinien odpowiadać właściwościom obrazu widzianego w rzeczywistych lusterkach wstecznych pojazdu, którego kabina jest wykorzystywana w symulatorze – w przypadku kabiny autobusu dotyczy także wewnętrznego lusterka wstecznego.
 § 13. 1. Symulator powinien być wyposażony w układ ruchu o sześciu stopniach swobody, to znaczy umożliwiający zmianę położenia kabiny symulatora wzdłuż i wokół osi podłużnej, poprzecznej i pionowej.
 2. Układ ruchu powinien generować ruchy kabiny symulatora, które w połączeniu z układem wizualizacji oraz systemem dźwiękowym umożliwią odwzorowanie odczuć osoby szkolonej związanych z przyspieszaniem i hamowaniem pojazdu, oddziaływaniem sił odśrodkowych podczas dynamicznej zmiany kierunku jazdy, oddziaływaniem przyczepy lub naczepy, pokonywaniem nierówności nawierzchni drogi, nagłym uszkodzeniem ogumienia, kolizjami drogowymi itp.
 3. Układ ruchu powinien umożliwiać osiąganie chwilowych wartości wielkości mierzonych na siedzeniu osoby szkolonej:
@@ -229,8 +232,8 @@ W takim przypadku wymaga się, aby prezentowany na nich obraz pozorny odpowiada�
 a) symulowanie ruchu drogowego, z charakterystyczną infrastrukturą drogową, pojazdami i pieszymi,
 b) jednoczesne generowanie (i obrazowanie) co najmniej 25 uczestników ruchu drogowego w polu widzenia osoby szkolonej (pieszych, rowerzystów, samochodów osobowych, autobusów, samochodów ciężarowych, motocykli, pojazdów uprzywilejowanych i tramwajów oraz pociągów na przejazdach kolejowych i w ich pobliżu) przestrzegających i nieprzestrzegających przepisów ruchu drogowego;
 2) generować obraz zapewniający symulację różnych rodzajów dróg z wykorzystaniem elementów infrastruktury drogowej, w tym:
-a) obszar zabudowany: miejski charakteryzujący się drogą twardą ze skrzyżowaniami, w tym skrzyżowaniami o ruchu okrężnym i sygnalizacją świetlną oraz budynkami jedno- i wielokondygnacyjnymi (w tym co najmniej czterokondygnacyjnymi), wiejski charakteryzujący się drogą twardą oraz budynkami parterowymi i dwukondygnacyjnymi,
-b) obszar niezabudowany: drogi gruntowe, drogi jedno- i dwujezdniowe, autostrady z co najmniej dwoma pasami ruchu przypadającymi na jedną jezdnię, z barierami energochłonnymi (rozdzielającymi jezdnie i umieszczonymi na poboczu), drogi ekspresowe jedno- lub dwujezdniowe, posiadające wielopoziomowe skrzyżowania z przecinającymi je innymi drogami transportu lądowego i wodnego, z dopuszczeniem wyjątkowo skrzyżowań jednopoziomowych,
+a) obszar zabudowany: – miejski – charakteryzujący się drogą twardą ze skrzyżowaniami, w tym skrzyżowaniami o ruchu okrężnym i sygnalizacją świetlną oraz budynkami jedno- i wielokondygnacyjnymi (w tym co najmniej czterokondygnacyjnymi), – wiejski – charakteryzujący się drogą twardą oraz budynkami parterowymi i dwukondygnacyjnymi,
+b) obszar niezabudowany: – drogi gruntowe, – drogi jedno- i dwujezdniowe, – autostrady z co najmniej dwoma pasami ruchu przypadającymi na jedną jezdnię, z barierami energochłonnymi (rozdzielającymi jezdnie i umieszczonymi na poboczu), – drogi ekspresowe jedno- lub dwujezdniowe, posiadające wielopoziomowe skrzyżowania z przecinającymi je innymi drogami transportu lądowego i wodnego, z dopuszczeniem wyjątkowo skrzyżowań jednopoziomowych,
 c) mosty, wiadukty, tunele.
 2. System informatyczny powinien umożliwiać symulowanie warunków atmosferycznych i warunków jazdy, pory roku i doby, w tym w szczególności:
 1) warunków atmosferycznych obejmujących: śnieg, deszcz, mgły i wiatr;

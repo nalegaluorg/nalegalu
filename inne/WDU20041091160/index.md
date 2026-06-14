@@ -8,7 +8,7 @@ pos: 1160
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 21 kwietnia 2004 r.

@@ -8,10 +8,10 @@ pos: 1798
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 września 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1798 OBWIESZCZENIE MINISTRA EDUKACJI I NAUKI z dnia 25 lipca 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001798) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1798/text.pdf) |
 
-OBWIESZCZENIE MINISTRA EDUKACJI I NAUKI z dnia 25 lipca 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 9 sierpnia 2017 r. w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach (Dz. U. z 2020 r. poz. 1280), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 22 lipca 2022 r. zmieniającym rozporządzenie w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach (Dz. U. poz. 1594).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 22 lipca 2022 r. zmieniającego rozporządzenie w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach (Dz. U. poz. 1594), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.”.
 Minister Edukacji i Nauki: P. Czarnek ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 9 sierpnia 2017 r.
-w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach Na podstawie art. 47 ust. 1 pkt 5 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672 i 1718) zarządza się, co następuje: § 1. Publiczne przedszkola i oddziały przedszkolne w szkołach podstawowych, zwane dalej „przedszkolami”, publiczne szkoły oraz publiczne placówki, o których mowa w art. 2 pkt 3, 4, 7 i 8 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, zwane dalej „placówkami”, udzielają uczniom uczęszczającym do tych przedszkoli, szkół i placówek, ich rodzicom oraz nauczycielom pomocy psychologiczno-pedagogicznej i organizują tę pomoc na zasadach określonych w rozporządzeniu.
+w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w publicznych przedszkolach, szkołach i placówkach Na podstawie art. 47 ust. 1 pkt 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672 i 1718) zarządza się, co następuje:
+§ 1. Publiczne przedszkola i oddziały przedszkolne w szkołach podstawowych, zwane dalej „przedszkolami”, publiczne szkoły oraz publiczne placówki, o których mowa w art. 2 pkt 3, 4, 7 i 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwane dalej „placówkami”, udzielają uczniom uczęszczającym do tych przedszkoli, szkół i placówek, ich rodzicom oraz nauczycielom pomocy psychologiczno-pedagogicznej i organizują tę pomoc na zasadach określonych w rozporządzeniu.
 § 2. 1. Pomoc psychologiczno-pedagogiczna udzielana uczniowi w przedszkolu, szkole i placówce polega na rozpoznawaniu i zaspokajaniu indywidualnych potrzeb rozwojowych i edukacyjnych ucznia oraz rozpoznawaniu indywidualnych możliwości psychofizycznych ucznia i czynników środowiskowych wpływających na jego funkcjonowanie w przedszkolu, szkole i placówce, w celu wspierania potencjału rozwojowego ucznia i stwarzania warunków do jego aktywnego i pełnego uczestnictwa w życiu przedszkola, szkoły i placówki oraz w środowisku społecznym.
 2. Potrzeba objęcia ucznia pomocą psychologiczno-pedagogiczną w przedszkolu, szkole i placówce wynika w szczególności:
 1) z niepełnosprawności;
@@ -81,7 +81,7 @@ w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w p
 3) zajęć rozwijających umiejętności uczenia się;
 4) zajęć dydaktyczno-wyrównawczych;
 5) zajęć specjalistycznych: korekcyjno-kompensacyjnych, logopedycznych, rozwijających kompetencje emocjonalno-społeczne oraz innych zajęć o charakterze terapeutycznym;
-6) zajęć związanych z wyborem kierunku kształcenia i zawodu w przypadku uczniów szkół podstawowych oraz uczniów szkół ponadpodstawowych;
+6) zajęć związanych z wyborem kierunku kształcenia i zawodu – w przypadku uczniów szkół podstawowych oraz uczniów szkół ponadpodstawowych;
 7) zindywidualizowanej ścieżki kształcenia;
 8) porad i konsultacji;
 9) warsztatów.
@@ -89,7 +89,7 @@ w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w p
 1) zajęć rozwijających uzdolnienia;
 2) zajęć rozwijających umiejętności uczenia się;
 3) zajęć specjalistycznych: korekcyjno-kompensacyjnych, logopedycznych, rozwijających kompetencje emocjonalno-społeczne oraz innych zajęć o charakterze terapeutycznym;
-4) zajęć związanych z wyborem kierunku kształcenia i zawodu w przypadku uczniów szkół podstawowych oraz uczniów szkół ponadpodstawowych;
+4) zajęć związanych z wyborem kierunku kształcenia i zawodu – w przypadku uczniów szkół podstawowych oraz uczniów szkół ponadpodstawowych;
 5) porad i konsultacji;
 6) warsztatów.
 4. W szkole dla dorosłych, branżowej szkole II stopnia prowadzącej kształcenie w formie stacjonarnej lub zaocznej i szkole policealnej prowadzącej kształcenie w formie stacjonarnej lub zaocznej pomoc psychologiczno-pedagogiczna jest udzielana w trakcie bieżącej pracy ze słuchaczem oraz przez zintegrowane działania nauczycieli i specjalistów, a także w formie:
@@ -110,8 +110,8 @@ w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w p
 3. Objęcie ucznia zindywidualizowaną ścieżką wymaga opinii publicznej poradni, z której wynika potrzeba objęcia ucznia pomocą w tej formie.
 4. Do wniosku o wydanie opinii, o której mowa w ust. 3, dołącza się dokumentację określającą:
 1) trudności w funkcjonowaniu ucznia w przedszkolu lub szkole;
-2) w przypadku ucznia obejmowanego zindywidualizowaną ścieżką ze względu na stan zdrowia także wpływ przebiegu choroby na funkcjonowanie ucznia w przedszkolu lub szkole oraz ograniczenia w zakresie możliwości udziału ucznia w zajęciach wychowania przedszkolnego lub zajęciach edukacyjnych wspólnie z oddziałem przedszkolnym lub szkolnym;
-3) w przypadku ucznia uczęszczającego do przedszkola lub szkoły także opinię nauczycieli i specjalistów prowadzących zajęcia z uczniem, o funkcjonowaniu ucznia w przedszkolu lub szkole.
+2) w przypadku ucznia obejmowanego zindywidualizowaną ścieżką ze względu na stan zdrowia – także wpływ przebiegu choroby na funkcjonowanie ucznia w przedszkolu lub szkole oraz ograniczenia w zakresie możliwości udziału ucznia w zajęciach wychowania przedszkolnego lub zajęciach edukacyjnych wspólnie z oddziałem przedszkolnym lub szkolnym;
+3) w przypadku ucznia uczęszczającego do przedszkola lub szkoły – także opinię nauczycieli i specjalistów prowadzących zajęcia z uczniem, o funkcjonowaniu ucznia w przedszkolu lub szkole.
 5. Przed wydaniem opinii, o której mowa w ust. 3, publiczna poradnia we współpracy z przedszkolem lub szkołą oraz rodzicami ucznia albo pełnoletnim uczniem przeprowadza analizę funkcjonowania ucznia uwzględniającą efekty udzielanej dotychczas przez przedszkole lub szkołę pomocy psychologiczno-pedagogicznej.
 6. Opinia, o której mowa w ust. 3, zawiera dane i informacje, o których mowa w przepisach w sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, w tym publicznych poradni specjalistycznych, a ponadto wskazuje:
 1) zakres, w jakim uczeń nie może brać udziału w zajęciach wychowania przedszkolnego lub zajęciach edukacyjnych wspólnie z oddziałem przedszkolnym lub szkolnym;
@@ -121,7 +121,7 @@ w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w p
 8. Na wniosek rodziców ucznia albo pełnoletniego ucznia dyrektor przedszkola lub szkoły ustala, z uwzględnieniem opinii, o której mowa w ust. 3, tygodniowy wymiar godzin zajęć wychowania przedszkolnego lub zajęć edukacyjnych realizowanych indywidualnie z uczniem, uwzględniając konieczność realizacji przez ucznia podstawy programowej wychowania przedszkolnego, podstawy programowej kształcenia ogólnego lub podstawy programowej kształcenia w zawodzie szkolnictwa branżowego.
 9. Nauczyciele prowadzący zajęcia z uczniem objętym zindywidualizowaną ścieżką podejmują działania ukierunkowane na poprawę funkcjonowania ucznia w przedszkolu lub szkole.
 10. Zindywidualizowanej ścieżki nie organizuje się dla:
-1) uczniów objętych kształceniem specjalnym zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, zwanej dalej „ustawą”;
+1) uczniów objętych kształceniem specjalnym zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą”;
 2) uczniów objętych indywidualnym obowiązkowym rocznym przygotowaniem przedszkolnym albo indywidualnym nauczaniem zgodnie z przepisami wydanymi na podstawie art. 127 ust. 20 ustawy.
 § 13. 1. Klasy terapeutyczne organizuje się dla uczniów wymagających dostosowania organizacji i procesu nauczania oraz długotrwałej pomocy specjalistycznej z uwagi na trudności w funkcjonowaniu w szkole lub oddziale wynikające z zaburzeń rozwojowych lub ze stanu zdrowia, posiadających opinię poradni, z której wynika potrzeba objęcia ucznia pomocą w tej formie.
 2. Zajęcia w klasach terapeutycznych prowadzą nauczyciele właściwych zajęć edukacyjnych.
@@ -144,13 +144,13 @@ w sprawie zasad organizacji i udzielania pomocy psychologiczno-pedagogicznej w p
 4) podejmowanie działań sprzyjających rozwojowi kompetencji oraz potencjału uczniów w celu podnoszenia efektywności uczenia się i poprawy ich funkcjonowania;
 5) współpraca z poradnią w procesie diagnostycznym i postdiagnostycznym, w szczególności w zakresie oceny funkcjonowania uczniów, barier i ograniczeń w środowisku utrudniających funkcjonowanie uczniów i ich uczestnictwo w życiu przedszkola, szkoły lub placówki oraz efektów działań podejmowanych w celu poprawy funkcjonowania ucznia oraz planowania dalszych działań.
 2. Nauczyciele, wychowawcy grup wychowawczych oraz specjaliści w przedszkolu, szkole i placówce prowadzą w szczególności:
-1) w przedszkolu obserwację pedagogiczną mającą na celu wczesne rozpoznanie u dziecka dysharmonii rozwojowych i podjęcie wczesnej interwencji, a w przypadku dzieci realizujących obowiązkowe roczne przygotowanie przedszkolne obserwację pedagogiczną zakończoną analizą i oceną gotowości dziecka do podjęcia nauki w szkole (diagnoza przedszkolna);
+1) w przedszkolu – obserwację pedagogiczną mającą na celu wczesne rozpoznanie u dziecka dysharmonii rozwojowych i podjęcie wczesnej interwencji, a w przypadku dzieci realizujących obowiązkowe roczne przygotowanie przedszkolne – obserwację pedagogiczną zakończoną analizą i oceną gotowości dziecka do podjęcia nauki w szkole (diagnoza przedszkolna);
 2) w szkole:
-a) obserwację pedagogiczną w trakcie bieżącej pracy z uczniami mającą na celu rozpoznanie u uczniów: trudności w uczeniu się, w tym w przypadku uczniów klas I–III szkoły podstawowej deficytów kompetencji i zaburzeń sprawności językowych oraz ryzyka wystąpienia specyficznych trudności w uczeniu się, a także potencjału ucznia i jego zainteresowań, szczególnych uzdolnień,
+a) obserwację pedagogiczną w trakcie bieżącej pracy z uczniami mającą na celu rozpoznanie u uczniów: – trudności w uczeniu się, w tym w przypadku uczniów klas I–III szkoły podstawowej deficytów kompetencji i zaburzeń sprawności językowych oraz ryzyka wystąpienia specyficznych trudności w uczeniu się, a także potencjału ucznia i jego zainteresowań, – szczególnych uzdolnień,
 b) wspomaganie uczniów w wyborze kierunku kształcenia i zawodu w trakcie bieżącej pracy z uczniami.
 3. W przypadku stwierdzenia, że uczeń ze względu na potrzeby rozwojowe lub edukacyjne oraz możliwości psychofizyczne wymaga objęcia pomocą psychologiczno-pedagogiczną, nauczyciel, wychowawca grupy wychowawczej lub specjalista niezwłocznie udzielają uczniowi tej pomocy w trakcie bieżącej pracy z uczniem i informują o tym:
-1) w przypadku szkoły i placówki, w której funkcjonuje szkoła wychowawcę klasy;
-2) w przypadku przedszkola i placówki, w której nie funkcjonuje szkoła dyrektora przedszkola lub placówki.
+1) w przypadku szkoły i placówki, w której funkcjonuje szkoła – wychowawcę klasy;
+2) w przypadku przedszkola i placówki, w której nie funkcjonuje szkoła – dyrektora przedszkola lub placówki.
 4. Wychowawca klasy lub dyrektor przedszkola lub placówki, o których mowa w ust. 3, informuje innych nauczycieli, wychowawców grup wychowawczych lub specjalistów o potrzebie objęcia ucznia pomocą psychologiczno-pedagogiczną w trakcie ich bieżącej pracy z uczniem, jeżeli stwierdzi taką potrzebę, oraz we współpracy z nauczycielami, wychowawcami grup wychowawczych lub specjalistami planuje i koordynuje pomoc psychologiczno-pedagogiczną w ramach zintegrowanych działań nauczycieli, wychowawców grup wychowawczych i specjalistów oraz bieżącej pracy z uczniem.
 5. W przypadku stwierdzenia przez wychowawcę klasy lub dyrektora przedszkola lub placówki, o której mowa w art. 2 pkt 7 ustawy, że konieczne jest objęcie ucznia pomocą psychologiczno-pedagogiczną w formach, o których mowa w § 6 ust. 1 pkt 1–3, ust. 2 pkt 1–7, ust. 3 pkt 1–4 oraz ust. 4 pkt 1, dyrektor przedszkola, szkoły lub placówki, o której mowa w art. 2 pkt 7 ustawy, ustala formy udzielania tej pomocy, okres ich udzielania oraz wymiar godzin, w którym poszczególne formy będą realizowane. Przy ustalaniu wymiaru poszczególnych form udzielania uczniowi pomocy psychologiczno-pedagogicznej uwzględnia się wymiar godzin ustalony dla poszczególnych form udzielania uczniom pomocy psychologiczno-pedagogicznej, o którym mowa w ust. 6.
 6. Wymiar godzin poszczególnych form udzielania uczniom pomocy psychologiczno-pedagogicznej, o których mowa w § 6 ust. 1 pkt 1–3, ust. 2 pkt 1–7, ust. 3 pkt 1–4 oraz ust. 4 pkt 1, ustala dyrektor przedszkola, szkoły lub placówki, o której mowa w art. 2 pkt 7 ustawy, biorąc pod uwagę określoną w arkuszu organizacji przedszkola, szkoły lub placówki odpowiednio liczbę godzin zajęć z zakresu pomocy psychologiczno-pedagogicznej oraz innych zajęć wspomagających proces kształcenia lub liczbę godzin zajęć prowadzonych przez nauczycieli i wychowawców grup wychowawczych.
@@ -167,7 +167,7 @@ b) wspomaganie uczniów w wyborze kierunku kształcenia i zawodu w trakcie bież
 13. Dyrektor przedszkola, szkoły lub placówki, o której mowa w art. 2 pkt 7 ustawy, może wyznaczyć inną niż wymieniona w ust. 4 osobę, której zadaniem będzie planowanie i koordynowanie udzielania pomocy psychologiczno-pedagogicznej uczniom w przedszkolu, szkole lub placówce.
 14. Przepisy ust. 3–13 stosuje się odpowiednio do uczniów posiadających orzeczenie o potrzebie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego, orzeczenie o potrzebie indywidualnego nauczania lub opinię poradni, z tym że przy planowaniu udzielania uczniom pomocy psychologiczno-pedagogicznej uwzględnienia się także zalecenia zawarte w orzeczeniach lub opiniach.
 15. Przepisy ust. 3–10 i ust. 13 stosuje się odpowiednio do słuchaczy szkół dla dorosłych, branżowych szkół II stopnia oraz szkół policealnych.
-§ 21. W przypadku ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego planowanie i koordynowanie udzielania pomocy psychologiczno-pedagogicznej w przedszkolu, szkole i placówce, o której mowa w art. 2 pkt 7 ustawy, w tym ustalenie dla ucznia form udzielania tej pomocy, a w przypadku form, o których mowa w § 6 ust. 1 pkt 1 i 2, ust. 2 pkt 1–6 oraz ust. 3 pkt 1–4 także okres ich udzielania oraz wymiar godzin, w którym poszczególne formy będą realizowane, jest zadaniem zespołu, o którym mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy. Podczas planowania i koordynowania udzielania uczniowi pomocy psychologiczno-pedagogicznej uwzględnia się wymiar godzin ustalony dla poszczególnych form udzielania uczniom pomocy psychologiczno-pedagogicznej.
+§ 21. W przypadku ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego planowanie i koordynowanie udzielania pomocy psychologiczno-pedagogicznej w przedszkolu, szkole i placówce, o której mowa w art. 2 pkt 7 ustawy, w tym ustalenie dla ucznia form udzielania tej pomocy, a w przypadku form, o których mowa w § 6 ust. 1 pkt 1 i 2, ust. 2 pkt 1–6 oraz ust. 3 pkt 1–4 – także okres ich udzielania oraz wymiar godzin, w którym poszczególne formy będą realizowane, jest zadaniem zespołu, o którym mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy. Podczas planowania i koordynowania udzielania uczniowi pomocy psychologiczno-pedagogicznej uwzględnia się wymiar godzin ustalony dla poszczególnych form udzielania uczniom pomocy psychologiczno-pedagogicznej.
 § 22. Nauczyciele, wychowawcy grup wychowawczych i specjaliści udzielający uczniom pomocy psychologiczno-pedagogicznej prowadzą dokumentację zgodnie z przepisami wydanymi na podstawie art. 47 ust. 1 pkt 7 ustawy.
 § 23. 1. O potrzebie objęcia ucznia pomocą psychologiczno-pedagogiczną informuje się rodziców ucznia albo pełnoletniego ucznia.
 2. O ustalonych dla ucznia formach, okresie udzielania pomocy psychologiczno-pedagogicznej oraz wymiarze godzin, w którym poszczególne formy pomocy będą realizowane, dyrektor przedszkola, szkoły lub placówki, o której mowa w art. 2 pkt 7 ustawy, niezwłocznie informuje pisemnie, w sposób przyjęty w danym przedszkolu, szkole lub placówce, rodziców ucznia albo pełnoletniego ucznia.

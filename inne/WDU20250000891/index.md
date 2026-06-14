@@ -8,7 +8,7 @@ pos: 891
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustanowieniu 11 lipca Narodowym Dniem Pamięci o Polakach – Ofiarach Ludobójstwa dokonanego przez OUN i UPA na ziemiach wschodnich II Rzeczypospolitej Polskiej W latach 1939–1946 nacjonaliści ukraińscy z Organizacji Ukraińskich Nacjonalistów (OUN), Ukraińskiej Powstańczej Armii (UPA) oraz innych ukraińskich formacji nacjonalistycznych działających na ziemiach Kresów Wschodnich II Rzeczypospolitej Polskiej (województwa wołyńskie, tarnopolskie, stanisławowskie, lwowskie, poleskie) oraz obecnych województw lubelskiego i podkarpackiego dokonali na ludności polskiej zbrodni ludobójstwa. Zamordowali ponad sto tysięcy Polaków, głównie mieszkańców wsi, zniszczyli ich mienie i doprowadzili do uchodźstwa z Kresów Wschodnich II Rzeczypospolitej setek tysięcy Polaków. Apogeum tej zbrodni przypada na lipiec 1943 r., a symboliczną datą hekatomby Polaków z rąk ukraińskich nacjonalistów jest dzień 11 lipca 1943 r., kiedy Polacy byli mordowani w około stu miejscowościach. Męczeńska śmierć z powodu przynależności do narodu polskiego zasługuje na pamięć w formie dnia wyróżnianego corocznie przez państwo polskie, w którym ofiarom będzie oddawany hołd.

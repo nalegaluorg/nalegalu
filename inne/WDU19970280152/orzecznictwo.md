@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty*
 
-Łącznie: **642** orzeczeń
-(pominięto 408 orzeczeń sądów rejonowych)
+Łącznie: **643** orzeczeń
+(pominięto 409 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 
@@ -1047,7 +1047,7 @@ Orzeczenia powołujące: *Ustawa z dnia 5 grudnia 1996 r. o zawodach lekarza i l
 
 - 2020-04-07 | SO | [I ACa 310/19](https://www.saos.org.pl/judgments/444906) | Wyrok
 
-## (ogólnie) (39)
+## (ogólnie) (40)
 
 - 2022-06-13 | SO | [I ACa 1098/20](https://www.saos.org.pl/judgments/493337) | Wyrok
 - 2022-05-16 | SO | [I ACa 862/21](https://www.saos.org.pl/judgments/473226) | Wyrok
@@ -1074,6 +1074,7 @@ Orzeczenia powołujące: *Ustawa z dnia 5 grudnia 1996 r. o zawodach lekarza i l
 - 2013-04-05 | SO | [V ACa 101/13](https://www.saos.org.pl/judgments/172098) | Wyrok
 - 2012-04-25 | SO | [I ACz 692/12](https://www.saos.org.pl/judgments/136056) | Postanowienie
 - 2022-09-27 | SO | [III APa 14/22](https://www.saos.org.pl/judgments/477682) | Uzasadnienie
+- 2025-04-16 | SO | [II Ca 1481/24](https://www.saos.org.pl/judgments/546536) | Wyrok
 - 2022-04-22 | SO | [III Pa 5/22](https://www.saos.org.pl/judgments/463872) | Wyrok
 - 2019-10-31 | SO | [XII C 1341/17](https://www.saos.org.pl/judgments/397657) | Wyrok
 - 2018-04-11 | SO | [IV Ka 226/18](https://www.saos.org.pl/judgments/342311) | Wyrok

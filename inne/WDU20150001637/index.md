@@ -8,7 +8,7 @@ pos: 1637
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 144/9/A/2015 WYROK z dnia 8 października 2015 r.

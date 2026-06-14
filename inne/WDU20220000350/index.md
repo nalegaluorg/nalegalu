@@ -8,7 +8,7 @@ pos: 350
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o dokumentach paszportowych
@@ -33,7 +33,32 @@ Art. 97–103. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** osoby uprawnione do posiadania dokumentów paszportowych;
+- **2)** rodzaje, formę i okresy ważności dokumentów paszportowych;
+- **3)** zakres danych zamieszczanych w dokumentach paszportowych;
+- **4)** zasady wydawania dokumentów paszportowych;
+- **5)** zasady odbioru dokumentów paszportowych;
+- **6)** zasady odmowy wydania, unieważnienia i stwierdzenia nieważności dokumentów paszportowych;
+- **7)** zasady postępowania w sprawach utraty, uszkodzenia i fizycznego anulowania dokumentów paszportowych oraz nieuprawnionego wykorzystania danych osobowych;
+- **8)** zakres danych gromadzonych w Rejestrze Dokumentów Paszportowych oraz zasady prowadzenia tego rejestru;
+- **9)** zasady udostępniania danych gromadzonych w Rejestrze Dokumentów Paszportowych i dokumentacji związanej z dokumentami paszportowymi;
+- **10)** kompetencje ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw informatyzacji, ministra właściwego do spraw zagranicznych, wojewodów oraz konsulów Rzeczypospolitej Polskiej w zakresie spraw, o których mowa w pkt 4–9.
+
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** blankiet dokumentu paszportowego – niespersonalizowaną książeczkę dokumentu paszportowego;
+- **2)** data wydania dokumentu paszportowego – datę personalizacji dokumentu paszportowego;
+- **3)** dane biometryczne – wizerunek twarzy i odciski palców;
+- **4)** dokument paszportowy – paszport, paszport tymczasowy, paszport dyplomatyczny i paszport służbowy Ministerstwa Spraw Zagranicznych;
+- **5)** naklejka personalizacyjna – spersonalizowany blankiet przeznaczony do wklejenia do paszportu tymczasowego;
+- **6)** odbiór dokumentu paszportowego – oznaczone datą dzienną przyjęcie przez osobę uprawnioną spersonalizowanego dokumentu paszportowego;
+- **7)** organ paszportowy – ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw zagranicznych, wojewodę i konsula;
+- **8)** personalizacja – wprowadzenie do blankietu dokumentu paszportowego albo blankietu naklejki personalizacyjnej, przez uprawniony podmiot, danych osoby, której ma być wydany dokument paszportowy, oraz danych dotyczących dokumentu paszportowego;
+- **9)** posiadacz – osobę, której dane zawiera odebrany dokument paszportowy;
+- **10)** status – informację w Rejestrze Dokumentów Paszportowych o blankietach dokumentów paszportowych i blankietach naklejek personalizacyjnych, stanie realizacji wniosku o wydanie dokumentu paszportowego, personalizacji, doręczeniu, historii dokumentu paszportowego, a także ograniczeniach prawa do posiadania dokumentu paszportowego;
+- **11)** uszkodzenie dokumentu paszportowego – naruszenie warstwy graficznej lub warstwy elektronicznej dokumentu paszportowego w sposób podważający jego wiarygodność lub utrudniający identyfikację jego posiadacza;
+- **12)** wnioskodawca – osobę składającą wniosek o wydanie dokumentu paszportowego dla siebie lub dla innej osoby;
+- **13)** wydanie dokumentu paszportowego – ogół czynności materialno-technicznych mających na celu sporządzenie dokumentu paszportowego dla osoby uprawnionej do jego posiadania, od przyjęcia wniosku o wydanie dokumentu paszportowego do personalizacji dokumentu paszportowego.
 
 **Art. 3.** Dokument paszportowy jest dokumentem uprawniającym do przekraczania granicy oraz potwierdzającym obywatelstwo polskie i tożsamość posiadacza.
 
@@ -378,7 +403,21 @@ Art. 97–103. (pominięte)
 
 **Art. 35.** Wniosek o wydanie paszportu tymczasowego osobie nieposiadającej numeru PESEL, w przypadku, o którym mowa w art. 48 ust. 1 pkt 4, zawiera dane, o których mowa w art. 33 ust. 1 pkt 1 lit. a–f i pkt 2–7, oraz:
 
+- **1)** nazwisko rodowe osoby, której ma być wydany paszport tymczasowy;
+- **2)** poprzednie nazwiska osoby, której ma być wydany paszport tymczasowy;
+- **3)** imiona i nazwiska matki i ojca osoby, której ma być wydany paszport tymczasowy;
+- **4)** nazwiska rodowe matki i ojca osoby, której ma być wydany paszport tymczasowy;
+- **5)** numery PESEL matki i ojca osoby, której ma być wydany paszport tymczasowy, o ile zostały nadane.
+
 **Art. 36.** Składając wniosek o wydanie dokumentu paszportowego, wnioskodawca przedkłada:
+
+- **1)** ważny dokument paszportowy lub ważny dowód osobisty, o ile został wydany;
+- **2)** w przypadku, o którym mowa w art. 28 ust. 2, ważny dokument paszportowy lub ważny dowód osobisty, o ile został wydany, osoby, dla której ma być wydany dokument paszportowy;
+- **3)** dowód uiszczenia opłaty – w przypadku wnioskowania o paszport lub paszport tymczasowy;
+- **4)** dokument potwierdzający prawo do obniżonej opłaty albo zwolnienia z opłaty – w przypadku prawa do skorzystania z obniżonej opłaty za paszport albo zwolnienia z opłaty za paszport, z wyjątkiem osób korzystających z obniżonej opłaty, o których mowa w art. 21 ust. 1 pkt 1 i 2;
+- **5)** wydane przez sąd dokumenty potwierdzające uprawnienie do złożenia wniosku w imieniu osoby nieposiadającej zdolności do czynności prawnych lub posiadającej ograniczoną zdolność do czynności prawnych – w przypadku wniosku składanego przez opiekuna prawnego lub kuratora;
+- **6)** odpisy zagranicznych aktów stanu cywilnego lub inne dokumenty potwierdzające stan cywilny – w przypadku, o którym mowa w art. 48 ust. 1 pkt 4;
+- **7)** fotografię osoby, której ma być wydany dokument paszportowy.
 
 **Art. 37.**
 
@@ -447,6 +486,9 @@ Art. 97–103. (pominięte)
 
 **Art. 42.** Podczas składania wniosku o wydanie paszportu, paszportu dyplomatycznego lub paszportu służbowego pobiera się odciski palców od osoby, której ma być wydany paszport, paszport dyplomatyczny lub paszport służbowy, z wyłączeniem osób:
 
+- **1)** które nie ukończyły 12. roku życia;
+- **2)** od których pobranie odcisków palców jest fizycznie niemożliwe.
+
 **Art. 43.**
 
 1. Na wydanie dokumentu paszportowego osobie nieposiadającej zdolności do czynności prawnych lub posiadającej ograniczoną zdolność do czynności prawnych, która nie ukończyła 18. roku życia, jest wymagana zgoda matki i ojca tej osoby.
@@ -478,9 +520,24 @@ Art. 97–103. (pominięte)
 
 **Art. 44.** Organ paszportowy, przyjmując wniosek o wydanie paszportu lub paszportu tymczasowego, wydaje wnioskodawcy potwierdzenie złożenia wniosku, które zawiera:
 
+- **1)** imię (imiona) i nazwisko osoby, której ma być wydany dokument paszportowy;
+- **2)** datę złożenia wniosku;
+- **3)** numer wniosku, jeżeli został nadany podczas składania wniosku;
+- **4)** informacje o organie wydającym dokument paszportowy i o miejscu jego odbioru.
+
 **Art. 45.** Organ paszportowy informuje wnioskodawcę na piśmie utrwalonym w postaci papierowej o nieprzyjęciu wniosku o wydanie dokumentu paszportowego, gdy:
 
+- **1)** nie przedłożono fotografii spełniającej wymogi, o których mowa w art. 41;
+- **2)** nie przedłożono dokumentów, o których mowa w art. 36 pkt 5;
+- **3)** osoba, której ma być wydany dokument paszportowy, odmówiła złożenia odcisków palców, jeżeli złożenie odcisków palców jest wymagane;
+- **4)** osoba, której ma być wydany dokument paszportowy, odmówiła złożenia podpisu, jeżeli podpis jest wymagany.
+
 **Art. 46.** Tej samej osobie może zostać wydany drugi paszport w wyjątkowych przypadkach, w szczególności uzasadnionych:
+
+- **1)** względami ochrony jej życia i zdrowia,
+- **2)** poważnymi trudnościami w prowadzeniu przez nią działalności humanitarnej lub zawodowej,
+- **3)** posiadaniem w paszporcie wiz lub pieczęci potwierdzających przekraczanie granicy państw lub pobyt na ich terytorium, uniemożliwiających lub znacznie utrudniających jej wjazd na terytorium innego państwa,
+- **4)** względami bezpieczeństwa państwa – po uprawdopodobnieniu tych okoliczności.
 
 **Art. 47.**
 
@@ -566,7 +623,7 @@ Art. 97–103. (pominięte)
 
 4. Paszport służbowy może być wydany osobie, która posiada paszport, paszport dyplomatyczny lub paszport tymczasowy.
 
-5. Na wniosek kierownika urzędu obsługującego członka Rady Ministrów, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii i Kancelarii Senatu paszport służbowy wydaje się pracownikom tych jednostek.
+5. Na wniosek kierownika urzędu obsługującego członka Rady Ministrów, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Sejmu i Kancelarii Senatu paszport służbowy wydaje się pracownikom tych jednostek.
 
 **Art. 51.**
 
@@ -771,7 +828,28 @@ Art. 97–103. (pominięte)
 
 **Art. 73.** Organem właściwym do unieważnienia dokumentu paszportowego jest:
 
+- **1)** organ paszportowy, który wydał nowy dokument paszportowy w przypadkach, o których mowa w art. 70 ust. 2 pkt 2;
+- **2)** wojewoda i konsul, do którego:
+    - **a)** zgłoszono utratę lub uszkodzenie dokumentu paszportowego, o którym mowa w art. 63 ust. 1 pkt 1, 2 i 4,
+    - **b)** zgłoszono nieuprawnione wykorzystanie danych osobowych w sposób, o którym mowa w art. 68,
+    - **c)** przekazano dokument paszportowy osoby trzeciej,
+    - **d)** złożono wniosek, o którym mowa w art. 70 ust. 2 pkt 6;
+
+- **3)** wojewoda, który wydał decyzję o unieważnieniu dokumentu paszportowego w przypadku, o którym mowa w art. 70 ust. 2 pkt 11;
+- **4)** minister właściwy do spraw zagranicznych – w przypadku paszportów dyplomatycznych i służbowych;
+- **5)** minister właściwy do spraw informatyzacji – w przypadkach, o których mowa w art. 63 ust. 1 pkt 3 i ust. 2, w art. 70 ust. 2 pkt 1, 7 i 8, oraz w przypadku, o którym mowa w art. 70 ust. 2 pkt 9, w zakresie dotyczącym błędnej personalizacji;
+- **6)** organ paszportowy – w przypadku, o którym mowa w art. 70 ust. 2 pkt 9, w zakresie dotyczącym stwierdzenia wady technicznej;
+- **7)** organ paszportowy lub minister właściwy do spraw informatyzacji, który jako pierwszy powziął informację o zaistnieniu przyczyny, o której mowa w art. 70 ust. 2 pkt 10.
+
 **Art. 74.** Unieważnienie dokumentu paszportowego następuje z dniem:
+
+- **1)** zgłoszenia utraty, uszkodzenia dokumentu paszportowego lub zgłoszenia nieuprawnionego wykorzystania danych osobowych;
+- **2)** przekazania przez osobę trzecią odnalezionego dokumentu paszportowego innej osoby;
+- **3)** następującym po upływie 120 dni od dnia dokonania w rejestrze PESEL zmiany danych zawartych w dokumencie paszportowym, o których mowa w art. 12 ust. 1 pkt 1 lit. a–c, f i g;
+- **4)** złożenia wniosku, o którym mowa w art. 70 ust. 2 pkt 6;
+- **5)** zaistnienia okoliczności, o których mowa w art. 70 ust. 2 pkt 2, 3, 7–9 i ust. 3;
+- **6)** wydania decyzji w przypadku, o którym mowa w art. 70 ust. 2 pkt 11;
+- **7)** powzięcia informacji o zaistnieniu przyczyny, o której mowa w art. 70 ust. 2 pkt 10.
 
 **Art. 75.**
 
@@ -786,6 +864,11 @@ Art. 97–103. (pominięte)
 2. Fizycznie anulowany dokument paszportowy zwraca się dotychczasowemu posiadaczowi tego dokumentu wyłącznie, jeżeli osoba ta wyraża wolę zachowania fizycznie anulowanego dokumentu paszportowego.
 
 **Art. 77.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw informatyzacji i ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia:
+
+- **1)** wzory dokumentów paszportowych i wzór naklejki personalizacyjnej,
+- **2)** sposób oznaczania w dokumencie paszportowym informacji o braku podpisów,
+- **3)** sposób pobierania odcisków palców,
+- **4)** sposób fizycznego anulowania dokumentów paszportowych – uwzględniając konieczność zapewnienia sprawności, prawidłowości i bezpieczeństwa wydawania dokumentów paszportowych przy wykorzystaniu danych, o których mowa w ustawie, oraz ich fizycznego anulowania, a także określenia wzorów odrębnie dla każdego rodzaju dokumentu paszportowego, mając na uwadze zapewnienie szerokiej dostępności wzorów dokumentów przy zachowaniu odpowiedniego poziomu bezpieczeństwa.
 
 #### Rozdział 7 Rejestr Dokumentów Paszportowych
 
@@ -912,9 +995,35 @@ Art. 97–103. (pominięte)
 
 **Art. 85.** Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia:
 
+- **1)** sposób prowadzenia Rejestru Dokumentów Paszportowych,
+- **2)** sposób przetwarzania danych biometrycznych w zakresie odcisków palców gromadzonych w Rejestrze Dokumentów Paszportowych,
+- **3)** sposób przekazywania danych do Rejestru Dokumentów Paszportowych przez Straż Graniczną i Policję,
+- **4)** rodzaje statusów – uwzględniając konieczność zapewnienia bezpieczeństwa danych wprowadzanych do rejestrów za pomocą obsługujących je systemów teleinformatycznych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, weryfikacji przekazywanych danych i zapewnienia właściwego poziomu technicznego systemów służących do przesyłania tych danych, konieczność zachowania danych archiwalnych, a także potrzebę zapewnienia Agencji Bezpieczeństwa Wewnętrznego możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
+
 #### Rozdział 8 Udostępnianie danych
 
 **Art. 86.** Minister właściwy do spraw informatyzacji udostępnia dane zgromadzone w Rejestrze Dokumentów Paszportowych, z wyłączeniem danych biometrycznych w postaci odcisków palców:
+
+- **1)** Policji,
+- **2)** Straży Granicznej,
+- **3)** Biuru Nadzoru Wewnętrznego, o którym mowa w ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529),
+- **4)** Agencji Bezpieczeństwa Wewnętrznego,
+- **5)** Agencji Wywiadu,
+- **6)** Centralnemu Biuru Antykorupcyjnemu,
+- **7)** organom Krajowej Administracji Skarbowej,
+- **8)** prokuraturze,
+- **9)** sądom,
+- **10)** Służbie Więziennej,
+- **11)** Służbie Kontrwywiadu Wojskowego,
+- **12)** Służbie Wywiadu Wojskowego,
+- **13)** Żandarmerii Wojskowej,
+- **14)** Szefowi Krajowego Centrum Informacji Kryminalnych,
+- **15)** Służbie Ochrony Państwa,
+- **16)** Straży Marszałkowskiej,
+- **17)** dyrektorom urzędów morskich,
+- **18)** Generalnemu Inspektorowi Informacji Finansowej,
+- **19)** Zakładowi Ubezpieczeń Społecznych
+- **20)** (uchylony) – w zakresie niezbędnym do realizacji ich ustawowych zadań.
 
 **Art. 87.**
 
@@ -1149,4 +1258,8 @@ Art. 97–103. (pominięte)
 **Art. 110a.** Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw wewnętrznych ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających wydawanie dokumentów paszportowych zgodnie z przepisami niniejszej ustawy. Komunikat ogłasza się w terminie co najmniej 14 dni przed dniem wdrożenia rozwiązań technicznych określonym w tym komunikacie.
 
 **Art. 111.** Ustawa wchodzi w życie z dniem określonym w komunikacie wydanym na podstawie art. 110a, z wyjątkiem:
+
+- **1)** art. 98, który wchodzi w życie po upływie 7 dni od dnia ogłoszenia komunikatu;
+- **2)** art. 110a, który wchodzi w życie z dniem 27 marca 2022 r.
+
 

@@ -8,10 +8,10 @@ pos: 1258
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 lipca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1258 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 14 lipca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1258/text.pdf) |
 
-Poz. 1258 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 14 lipca 2020 r.
 zmieniające rozporządzenie w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 4 ust. 6 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
-z 2019 r. poz. 1505) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm. ) po § 13y dodaje się § 13z w brzmieniu: „§ 13z. 1. W 2020 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
+z 2019 r. poz. 1505) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 27 stycznia 2015 r. w sprawie szczegółowego zakresu i sposobów realizacji niektórych zadań Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. poz. 187, z późn. zm. ) po § 13y dodaje się § 13z w brzmieniu: „§ 13z. 1. W 2020 r. Agencja udziela pomocy finansowej na realizację innych zadań wynikających z polityki państwa w zakresie rolnictwa i rozwoju wsi, o której mowa w § 2 ust. 1 pkt 6, producentowi rolnemu:
 1) w którego gospodarstwie rolnym szkody w uprawach rolnych spowodowane wystąpieniem w 2019 r. suszy, huraganu, gradu, deszczu nawalnego, przymrozków wiosennych lub powodzi, w rozumieniu przepisów o ubezpieczeniach upraw rolnych i zwierząt gospodarskich, powstałe na powierzchni uprawy objęły co najmniej 30% danej uprawy;
 2) który złożył wniosek o udzielenie pomocy, o której mowa w § 13v ust. 1, i nie otrzymał tej pomocy w związku z wyczerpaniem krajowego limitu pomocy de minimis w 2020 r.;
 3) któremu zagraża utrata płynności finansowej w związku z ograniczeniami na rynku rolnym w związku z epidemią COVID-19 oraz niewypłaceniem pomocy, o której mowa w § 13v ust. 1.
@@ -36,7 +36,6 @@ z 2019 r. poz. 1505) zarządza się, co następuje: § 1. W rozporządzeniu Rady
 1) imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres producenta rolnego ubiegającego się o pomoc;
 2) numer identyfikacyjny producenta rolnego ubiegającego się o pomoc nadany w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
 3) numer identyfikacyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL) albo numer identyfikacji podatkowej (NIP) producenta rolnego ubiegającego się o pomoc, a w przypadku osób fizycznych nieposiadających numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość;
-Dziennik Ustaw – 2 – Poz. 1258
 4) oświadczenie producenta rolnego o zagrożeniu utraty płynności finansowej w związku z ograniczeniami na rynku rolnym w związku z epidemią COVID-19 oraz niewypłaceniem pomocy, o której mowa w § 13v ust. 1;
 5) oświadczenie producenta rolnego o zrzeczeniu się prawa do pomocy, o której mowa w § 13v ust. 1.
 4. Wysokość pomocy, o której mowa w ust. 1, ustala się zgodnie z § 13v.”.

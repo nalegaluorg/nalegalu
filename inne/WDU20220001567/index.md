@@ -8,10 +8,10 @@ pos: 1567
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 27 lipca 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1567 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 6 lipca 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,18 +25,20 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1567/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 6 lipca 2022 r.
-w sprawie krajowego zezwolenia generalnego Na podstawie art. 8 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509 oraz z 2022 r. poz. 613 i 1137) zarządza się, co następuje: § 1. Rozporządzenie określa kraje, podmioty i towary o znaczeniu strategicznym, w odniesieniu do których udziela się krajowego zezwolenia generalnego, oraz szczegółowe warunki, na jakich może być dokonywany obrót objęty krajowym zezwoleniem generalnym.
+w sprawie krajowego zezwolenia generalnego Na podstawie art. 8 ust. 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509 oraz z 2022 r. poz. 613 i 1137) zarządza się, co następuje:
+§ 1. Rozporządzenie określa kraje, podmioty i towary o znaczeniu strategicznym, w odniesieniu do których udziela się krajowego zezwolenia generalnego, oraz szczegółowe warunki, na jakich może być dokonywany obrót objęty krajowym zezwoleniem generalnym.
 § 2. Krajowego zezwolenia generalnego udziela się w odniesieniu do towarów o znaczeniu strategicznym wskazanych w wykazie określonym w przepisach wydanych na podstawie art. 6a ust. 3 ustawy z dnia 29 listopada 2000 r.
 o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa, zwanej dalej „ustawą”.
 § 3. 1. Na transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej towarów o znaczeniu strategicznym, o których mowa w § 2, udziela się krajowego zezwolenia generalnego ZG-PL-U-1, zwanego dalej „zezwoleniem ZG-PL-U-1”.
-2. Zezwolenia ZG-PL-U-1 udziela się podmiotom określonym w załączniku 1 do rozporządzenia.
+2. Zezwolenia ZG-PL-U-1 udziela się podmiotom określonym w załączniku nr 1 do rozporządzenia.
 3. Zezwolenia ZG-PL-U-1 udziela się, w przypadku gdy:
 1) odbiorca wchodzi w skład sił zbrojnych państwa członkowskiego Unii Europejskiej lub instytucji dokonującej zakupów na wyłączny użytek sił zbrojnych państwa członkowskiego Unii Europejskiej albo
-2) odbiorca jest certyfikowanym odbiorcą towarów o znaczeniu strategicznym, o których mowa w § 2, wymienionym w wykazie certyfikowanych odbiorców, o którym mowa w art. 9 ust. 8 dyrektywy Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1, z późn. zm. ), pod warunkiem, że towary o znaczeniu strategicznym, o których mowa w § 2, są zgodne z zakresem udzielonego certyfikatu, albo § 4. 1. Na wywóz towarów o znaczeniu strategicznym, o których mowa w § 2, udziela się krajowego zezwolenia generalnego ZG-PL-U-2, zwanego dalej „zezwoleniem ZG-PL-U-2”.
-2. Zezwolenia ZG-PL-U-2 udziela się podmiotom określonym w załączniku 2 do rozporządzenia.
+2) odbiorca jest certyfikowanym odbiorcą towarów o znaczeniu strategicznym, o których mowa w § 2, wymienionym w wykazie certyfikowanych odbiorców, o którym mowa w art. 9 ust. 8 dyrektywy Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1, z późn. zm. ), pod warunkiem, że towary o znaczeniu strategicznym, o których mowa w § 2, są zgodne z zakresem udzielonego certyfikatu, albo
+3) transfer wewnątrzunijny odbywa się w celu pokazów, testów, wystaw, konserwacji, naprawy lub wymiany, pod warunkiem, że czas realizacji celu transferu nie przekracza 3 lat od dnia opuszczenia terytorium Rzeczypospolitej Polskiej na podstawie niniejszego zezwolenia.
+§ 4. 1. Na wywóz towarów o znaczeniu strategicznym, o których mowa w § 2, udziela się krajowego zezwolenia generalnego ZG-PL-U-2, zwanego dalej „zezwoleniem ZG-PL-U-2”.
+2. Zezwolenia ZG-PL-U-2 udziela się podmiotom określonym w załączniku nr 2 do rozporządzenia.
 3. Zezwolenia ZG-PL-U-2 udziela się, w przypadku gdy spełnione są łącznie następujące warunki:
-1) wywóz towarów o znaczeniu strategicznym, o których mowa w § 2, odbywa się do krajów określonych w załączniku 3 do rozporządzenia;
+1) wywóz towarów o znaczeniu strategicznym, o których mowa w § 2, odbywa się do krajów określonych w załączniku nr 3 do rozporządzenia;
 2) celem wywozu są pokazy, testy, konserwacje, naprawy lub wymiana wywożonych towarów o znaczeniu strategicznym, o których mowa w § 2;
 3) przywóz towarów o znaczeniu strategicznym, o których mowa w § 2, po realizacji celu wywozu, o którym mowa w pkt 2:
 a) nastąpi w terminie nieprzekraczającym 8 lat od dnia opuszczenia terytorium Rzeczypospolitej Polskiej albo
@@ -44,7 +46,7 @@ b) może nie nastąpić z przyczyn, o których mowa w ust. 4.
 4. Jeżeli przywóz towarów o znaczeniu strategicznym, o których mowa w § 2, nie jest możliwy albo nie jest uzasadniony ekonomicznie, eksporter składa organowi kontroli obrotu oświadczenie o utracie właściwości towaru umożliwiających wykorzystanie go zgodnie z przeznaczeniem, podając w oświadczeniu jego nazwę, oznaczenie i ilość.
 § 5. 1. Na wywóz albo transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej towarów o znaczeniu strategicznym, o których mowa w § 2, do zagranicznego eksportera lub zagranicznego dostawcy tych towarów po pokazach, szkoleniach, testach, wystawach odbywających się na terytorium Rzeczypospolitej Polskiej udziela się krajowego zezwolenia generalnego ZG-PL-U-3, zwanego dalej „zezwoleniem ZG-PL-U-3”.
 2. Zezwolenia ZG-PL-U-3 udziela się podmiotowi w rozumieniu art. 3 pkt 8a ustawy posiadającemu siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
-3. Zezwolenia ZG-PL-U-3 udziela się na wywóz albo transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej do krajów określonych w załączniku 4 do rozporządzenia.
+3. Zezwolenia ZG-PL-U-3 udziela się na wywóz albo transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej do krajów określonych w załączniku nr 4 do rozporządzenia.
 § 6. 1. Na pomoc techniczną w zakresie towarów o znaczeniu strategicznym, o których mowa w § 2, udziela się krajowego zezwolenia generalnego ZG-PL-U-4, zwanego dalej „zezwoleniem ZG-PL-U-4”.
 2. Zezwolenia ZG-PL-U-4 udziela się podmiotowi w rozumieniu art. 3 pkt 8a ustawy posiadającemu siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
 3. Zezwolenia ZG-PL-U-4 udziela się, w przypadku gdy pomoc techniczna jest świadczona na rzecz:
@@ -54,12 +56,13 @@ b) może nie nastąpić z przyczyn, o których mowa w ust. 4.
 2. Zezwolenia ZG-PL-U-5 udziela się podmiotowi w rozumieniu art. 3 pkt 8a ustawy posiadającemu siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
 3. Zezwolenia ZG-PL-U-5 udziela się, jeżeli spełnione są łącznie następujące warunki:
 1) celem wywozu albo transferu wewnątrzunijnego z terytorium Rzeczypospolitej Polskiej lub pomocy technicznej jest zwrot towarów o znaczeniu strategicznym, o których mowa w § 2, po naprawie, konserwacji, wymianie lub pomocy technicznej, na które wcześniej wydane zostało zezwolenie indywidualne albo zezwolenie globalne na wywóz albo transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej;
-2) wywóz albo transfer wewnątrzunijny lub pomoc techniczna następują w stosunku do zagranicznego odbiorcy lub zagranicznego importera oraz zagranicznego końcowego użytkownika w krajach określonych w załączniku 5 do rozporządzenia;
-zezwolenia indywidualnego albo zezwolenia globalnego, o których mowa w pkt 1.
-§ 8. 1. Na wywóz towarów o znaczeniu strategicznym, o których mowa w § 2, do krajów określonych w załączniku 6 do rozporządzenia udziela się krajowego zezwolenia generalnego ZG-PL-U-6, zwanego dalej „zezwoleniem ZG-PL-U-6”.
+2) wywóz albo transfer wewnątrzunijny lub pomoc techniczna następują w stosunku do zagranicznego odbiorcy lub zagranicznego importera oraz zagranicznego końcowego użytkownika w krajach określonych w załączniku nr 5 do rozporządzenia;
+3) w wyniku naprawy, konserwacji, wymiany lub pomocy technicznej nie następuje poprawa parametrów technicznych uzbrojenia;
+4) wywóz albo transfer wewnątrzunijny lub pomoc techniczna następują nie później niż w ciągu 5 lat od dnia wydania zezwolenia indywidualnego albo zezwolenia globalnego, o których mowa w pkt 1.
+§ 8. 1. Na wywóz towarów o znaczeniu strategicznym, o których mowa w § 2, do krajów określonych w załączniku nr 6 do rozporządzenia udziela się krajowego zezwolenia generalnego ZG-PL-U-6, zwanego dalej „zezwoleniem ZG-PL-U-6”.
 2. Zezwolenia ZG-PL-U-6 udziela się podmiotowi w rozumieniu art. 3 pkt 8a ustawy posiadającemu siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
 3. Zezwolenia ZG-PL-U-6 udziela się, w przypadku gdy:
-1) odbiorca wchodzi w skład sił zbrojnych kraju określonego w załączniku 6 do rozporządzenia lub w skład instytucji dokonującej zakupów na wyłączny użytek sił zbrojnych tego kraju albo
+1) odbiorca wchodzi w skład sił zbrojnych kraju określonego w załączniku nr 6 do rozporządzenia lub w skład instytucji dokonującej zakupów na wyłączny użytek sił zbrojnych tego kraju albo
 2) odbiorca jest certyfikowanym odbiorcą, o którym mowa w § 3 ust. 3 pkt 2, pod warunkiem, że uzbrojenie jest zgodne z zakresem udzielonego certyfikatu, albo
 3) wywóz odbywa się w celu pokazów, testów, wystaw, konserwacji, naprawy lub wymiany, pod warunkiem, że czas realizacji celu wywozu nie przekracza 3 lat od dnia opuszczenia terytorium Rzeczypospolitej Polskiej na podstawie niniejszego zezwolenia.
 § 9. 1. Na wywóz albo transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej towarów o znaczeniu strategicznym, o których mowa w § 2, udziela się krajowego zezwolenia generalnego ZG-PL-U-7, zwanego dalej „zezwoleniem ZG-PL-U-7”.
@@ -70,21 +73,23 @@ poz. 396 oraz z 2022 r. poz. 655).
 a) udział w konflikcie zbrojnym lub wzmocnienie sił państwa sojuszniczego albo państw sojuszniczych,
 b) udział w misjach pokojowych, szkoleniach, ćwiczeniach wojskowych lub testach uzbrojenia,
 c) udział w akcjach ratowniczych, poszukiwawczych lub humanitarnych lub
-d) udział w przedsięwzięciach reprezentacyjnych realizowanych na podstawie ustawy, o której mowa w ust. 2;
+d) udział w przedsięwzięciach reprezentacyjnych – realizowanych na podstawie ustawy, o której mowa w ust. 2;
 2) przywóz albo transfer wewnątrzunijny na terytorium Rzeczypospolitej Polskiej towarów o znaczeniu strategicznym, o których mowa w § 2, po realizacji celu, o którym mowa w pkt 1, nastąpi w terminie nieprzekraczającym 8 lat od dnia opuszczenia terytorium Rzeczypospolitej Polskiej na podstawie niniejszego zezwolenia;
-3) eksporter w przypadku gdy towary o znaczeniu strategicznym, o których mowa w § 2, zostały utracone albo uszkodzone albo uległy zniszczeniu w sposób uniemożliwiający wykorzystanie ich zgodnie z przeznaczeniem niezwłocznie poinformuje organ kontroli obrotu o tym fakcie; informacja taka powinna zawierać nazwę towarów o znaczeniu strategicznym, ich numer fabryczny, ilość oraz wskazanie przyczyny niemożności przywozu towaru o znaczeniu strategicznym albo jego transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej w terminie określonym w pkt 2.
+3) eksporter – w przypadku gdy towary o znaczeniu strategicznym, o których mowa w § 2, zostały utracone albo uszkodzone albo uległy zniszczeniu w sposób uniemożliwiający wykorzystanie ich zgodnie z przeznaczeniem – niezwłocznie poinformuje organ kontroli obrotu o tym fakcie; informacja taka powinna zawierać nazwę towarów o znaczeniu strategicznym, ich numer fabryczny, ilość oraz wskazanie przyczyny niemożności przywozu towaru o znaczeniu strategicznym albo jego transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej w terminie określonym w pkt 2.
 § 10. 1. Na wywóz elementów składowych towarów o znaczeniu strategicznym określonych w kategorii LU 10a, LU 10d albo LU 10e wykazu, o którym mowa w § 2, do zagranicznego eksportera towaru, który został omyłkowo przywieziony na terytorium Rzeczypospolitej Polskiej lub jest zwracany w wyniku reklamacji jakościowej, udziela się krajowego zezwolenia generalnego ZG-PL-U-8, zwanego dalej „zezwoleniem ZG-PL-U-8”.
 2. Zezwolenia ZG-PL-U-8 udziela się podmiotowi w rozumieniu art. 3 pkt 8a ustawy posiadającemu siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
-3. Zezwolenia ZG-PL-U-8 udziela się na wywóz do krajów określonych w załączniku 7 do rozporządzenia.
-§ 11. 1. Na pomoc techniczną w zakresie towarów o znaczeniu strategicznym, o których mowa w § 2, świadczoną na rzecz zagranicznego importera lub zagranicznego końcowego użytkownika z krajów określonych w załączniku 6 do rozporządzenia udziela się krajowego zezwolenia generalnego ZG-PL-U-9, zwanego dalej „zezwoleniem ZG-PL-U-9”.
-1) odbiorcy wchodzącego w skład sił zbrojnych kraju określonego w załączniku 6 do rozporządzenia lub w skład instytucji dokonującej zakupów na wyłączny użytek sił zbrojnych tego kraju albo
+3. Zezwolenia ZG-PL-U-8 udziela się na wywóz do krajów określonych w załączniku nr 7 do rozporządzenia.
+§ 11. 1. Na pomoc techniczną w zakresie towarów o znaczeniu strategicznym, o których mowa w § 2, świadczoną na rzecz zagranicznego importera lub zagranicznego końcowego użytkownika z krajów określonych w załączniku nr 6 do rozporządzenia udziela się krajowego zezwolenia generalnego ZG-PL-U-9, zwanego dalej „zezwoleniem ZG-PL-U-9”.
+2. Zezwolenia ZG-PL-U-9 udziela się podmiotowi w rozumieniu art. 3 pkt 8a ustawy posiadającemu siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
+3. Zezwolenia ZG-PL-U-9 udziela się, w przypadku gdy pomoc techniczna jest świadczona na rzecz:
+1) odbiorcy wchodzącego w skład sił zbrojnych kraju określonego w załączniku nr 6 do rozporządzenia lub w skład instytucji dokonującej zakupów na wyłączny użytek sił zbrojnych tego kraju albo
 2) certyfikowanego odbiorcy, o którym mowa w § 3 ust. 3 pkt 2, pod warunkiem, że zakres świadczonej pomocy technicznej jest zgodny z zakresem udzielonego certyfikatu.
 § 12. 1. Na wywóz technologii i oprogramowania określonych odpowiednio w kategorii LU 21 i LU 22a wykazu, o którym mowa w § 2, dotyczących elementów składowych towarów o znaczeniu strategicznym określonych w kategorii LU 10a, LU 10d albo LU 10e tego wykazu, udziela się krajowego zezwolenia generalnego ZG-PL-U-10, zwanego dalej „zezwoleniem ZG-PL-U-10”.
 2. Zezwolenia ZG-PL-U-10 udziela się podmiotowi w rozumieniu art. 3 pkt 8a ustawy posiadającemu siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
-3. Zezwolenia ZG-PL-U-10 udziela się na wywóz do zagranicznych importerów lub zagranicznych końcowych użytkowników z krajów określonych w załączniku 7 do rozporządzenia.
+3. Zezwolenia ZG-PL-U-10 udziela się na wywóz do zagranicznych importerów lub zagranicznych końcowych użytkowników z krajów określonych w załączniku nr 7 do rozporządzenia.
 § 13. 1. Na świadczenie pomocy technicznej dotyczącej elementów składowych towarów o znaczeniu strategicznym określonych w kategorii LU 10a, LU 10d albo LU 10e wykazu, o którym mowa w § 2, udziela się krajowego zezwolenia generalnego ZG-PL-U-11, zwanego dalej „zezwoleniem ZG-PL-U-11”.
 2. Zezwolenia ZG-PL-U-11 udziela się podmiotowi w rozumieniu art. 3 pkt 8a ustawy posiadającemu siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
-3. Zezwolenia ZG-PL-U-11 udziela się na świadczenie pomocy technicznej na rzecz zagranicznych importerów lub zagranicznych końcowych użytkowników z krajów określonych w załączniku 7 do rozporządzenia.
+3. Zezwolenia ZG-PL-U-11 udziela się na świadczenie pomocy technicznej na rzecz zagranicznych importerów lub zagranicznych końcowych użytkowników z krajów określonych w załączniku nr 7 do rozporządzenia.
 § 14. 1. Zezwolenia ZG-PL-U-1, zezwolenia ZG-PL-U-2, zezwolenia ZG-PL-U-3, zezwolenia ZG-PL-U-4, zezwolenia ZG-PL-U-5 i zezwolenia ZG-PL-U-6 nie udziela się w odniesieniu do:
 1) przenośnych przeciwlotniczych zestawów rakietowych wraz z pociskami (MANPADS);
 2) sprzętu, części i technologii do przenośnych przeciwlotniczych zestawów rakietowych;
@@ -99,15 +104,16 @@ b) wykorzystania jako części lub podzespoły uzbrojenia, które zostały wywie
 a) przyjętych przez Radę Unii Europejskiej,
 b) przyjętych przez Organizację Bezpieczeństwa i Współpracy w Europie (OBWE),
 c) w postaci całkowitego zakazu przywozu i wywozu towarów o znaczeniu strategicznym, o których mowa w § 2, nałożonego przez rezolucję Rady Bezpieczeństwa Organizacji Narodów Zjednoczonych.
+3. Zezwolenia ZG-PL-U-1, zezwolenia ZG-PL-U-2, zezwolenia ZG-PL-U-3, zezwolenia ZG-PL-U-5, zezwolenia ZG-PL-U-6, zezwolenia ZG-PL-U-8 i zezwolenia ZG-PL-U-10 nie udziela się, jeżeli wywóz lub transfer wewnątrzunijny ma nastąpić do strefy wolnocłowej lub składu wolnocłowego.
 4. Zezwolenia ZG-PL-U-4, zezwolenia ZG-PL-U-9 i zezwolenia ZG-PL-U-11 nie udziela się, jeżeli pomoc techniczna dotyczy towarów umiejscowionych w strefie wolnocłowej lub w składzie wolnocłowym.
 § 15. Oświadczenia o terminie rozpoczęcia obrotu na podstawie zezwolenia ZG-PL-U-1, zezwolenia ZG-PL-U-2, zezwolenia ZG-PL-U-3, zezwolenia ZG-PL-U-4, zezwolenia ZG-PL-U-5, zezwolenia ZG-PL-U-6 i zezwolenia ZG-PL-U-7 dokonane przed dniem wejścia w życie rozporządzenia pozostają w mocy.
 § 16. W przypadku gdy towary o znaczeniu strategicznym, o których mowa w § 2, zostały:
 1) wywiezione z terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia ZG-PL-U-2,
-2) wywiezione albo nastąpił ich transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia ZG-PL-U-7 przed dniem wejścia w życie rozporządzenia, czas realizacji wywozu albo transferu wewnątrzunijnego wynosi 8 lat od dnia wejścia w życie rozporządzenia.
+2) wywiezione albo nastąpił ich transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia ZG-PL-U-7 – przed dniem wejścia w życie rozporządzenia, czas realizacji wywozu albo transferu wewnątrzunijnego wynosi 8 lat od dnia wejścia w życie rozporządzenia.
 § 17. Zezwolenie ZG-PL-U-1, zezwolenie ZG-PL-U-3, zezwolenie ZG-PL-U-4, zezwolenie ZG-PL-U-5 i zezwolenie ZG-PL-U-6, których realizacja rozpoczęła się przed dniem wejścia w życie rozporządzenia, zachowują ważność.
 § 18. Traci moc rozporządzenie Ministra Rozwoju i Finansów z dnia 25 maja 2017 r. w sprawie krajowego zezwolenia generalnego (Dz. U. poz. 1045).
 § 19. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Technologii: W. Buda PODMIOTY, KTÓRYM ZG-PL-U-1
+Minister Rozwoju i Technologii: W. Buda Załącznik nr 1 PODMIOTY, KTÓRYM UDZIELA SIĘ ZEZWOLENIA ZG-PL-U-1
 1) przedsiębiorcy;
 2) Minister Obrony Narodowej;
 3) minister właściwy do spraw wewnętrznych;
@@ -147,6 +153,7 @@ Minister Rozwoju i Technologii: W. Buda PODMIOTY, KTÓRYM ZG-PL-U-1
 37) 1 Brygada Logistyczna;
 38) 10 Brygada Logistyczna;
 39) 12 Baza Bezzałogowych Statków Powietrznych.
+PODMIOTY, KTÓRYM UDZIELA SIĘ ZEZWOLENIA ZG-PL-U-2
 1) Minister Obrony Narodowej;
 2) minister właściwy do spraw wewnętrznych;
 3) Szef Służby Wywiadu Wojskowego;
@@ -185,11 +192,13 @@ Minister Rozwoju i Technologii: W. Buda PODMIOTY, KTÓRYM ZG-PL-U-1
 36) 1 Brygada Logistyczna;
 37) 10 Brygada Logistyczna;
 38) 12 Baza Bezzałogowych Statków Powietrznych.
+KRAJE, W ODNIESIENIU DO KTÓRYCH UDZIELA SIĘ ZEZWOLENIA ZG-PL-U-2
 1) Kanada;
 2) Królestwo Norwegii;
 3) Ukraina;
 4) Stany Zjednoczone Ameryki;
 5) Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej.
+KRAJE, W ODNIESIENIU DO KTÓRYCH UDZIELA SIĘ ZEZWOLENIA ZG-PL-U-3
 1) kraje członkowskie Unii Europejskiej;
 2) kraje członkowskie Organizacji Traktatu Północnoatlantyckiego;
 3) Konfederacja Szwajcarska;
@@ -201,6 +210,7 @@ Minister Rozwoju i Technologii: W. Buda PODMIOTY, KTÓRYM ZG-PL-U-1
 9) Republika Południowej Afryki;
 10) Państwo Izrael;
 11) Republika Korei.
+KRAJE, W ODNIESIENIU DO KTÓRYCH UDZIELA SIĘ ZEZWOLENIA ZG-PL-U-5
 1) kraje członkowskie Unii Europejskiej;
 2) Związek Australijski;
 3) Japonia;
@@ -212,11 +222,11 @@ Minister Rozwoju i Technologii: W. Buda PODMIOTY, KTÓRYM ZG-PL-U-1
 9) Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej;
 10) Islandia;
 11) Królestwo Norwegii.
-I ZG-PL-U-9
+KRAJE, W ODNIESIENIU DO KTÓRYCH UDZIELA SIĘ ZEZWOLENIA ZG-PL-U-6 I ZEZWOLENIA ZG-PL-U-9
 1) Królestwo Norwegii;
 2) Islandia;
 3) Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej.
-ZG-PL-U-10 I ZG-PL-U-11
+KRAJE, W ODNIESIENIU DO KTÓRYCH UDZIELA SIĘ ZEZWOLENIA ZG-PL-U-8, ZEZWOLENIA ZG-PL-U-10 I ZEZWOLENIA ZG-PL-U-11
 1) Kanada;
 2) Stany Zjednoczone Ameryki.
 

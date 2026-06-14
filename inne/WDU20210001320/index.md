@@ -8,10 +8,10 @@ pos: 1320
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 20 lipca 2021 Rozpo R ządzenie Minist R a i nf R ast R uktu R y 15 lipca 2021 w sprawie autoryzacji bezpieczeństwa i świadectw bezpieczeństwa Na podstawie art. 19 ust. 4 ustawy 28 marca 2003 o transporcie kolejowym (Dz. U. 2020 poz. 1043, 1378 i 1778 oraz 2021 poz. 780 i 784) zarządza się, co następuje: § 1. Rozporządzenie określa:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1320 Rozpo R ządzenie Minist R a i nf R ast R uktu R y z dnia 15 lipca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001320) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1320/text.pdf) |
 
+w sprawie autoryzacji bezpieczeństwa i świadectw bezpieczeństwa Na podstawie art. 19 ust. 4 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2020 r. poz. 1043, 1378 i 1778 oraz z 2021 r. poz. 780 i 784) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) warunki i tryb wydawania, przedłużania, aktualizacji, ograniczania i cofania autoryzacji bezpieczeństwa;
 2) warunki i tryb wydawania, przedłużania, zmiany i cofania świadectw bezpieczeństwa;
 3) wzór autoryzacji bezpieczeństwa i świadectwa bezpieczeństwa.
@@ -32,66 +34,68 @@ source: "isap-pdf"
 1) dane wnioskodawcy:
 a) nazwę, siedzibę i adres wnioskodawcy,
 b) numer identyfikacji podatkowej (NIP),
-c) numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS) o ile wnioskodawca taki numer posiada,
-d) dane kontaktowe, takie jak adres poczty elektronicznej, adres strony internetowej, numer telefonu, numer faksu o ile wnioskodawca je posiada;
-2) dane pełnomocnika lub innej osoby wyznaczonej kontaktów:
+c) numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS) – o ile wnioskodawca taki numer posiada,
+d) dane kontaktowe, takie jak adres poczty elektronicznej, adres strony internetowej, numer telefonu, numer faksu – o ile wnioskodawca je posiada;
+2) dane pełnomocnika lub innej osoby wyznaczonej do kontaktów:
 a) imię i nazwisko,
-b) adres korespondencji,
-c) dane kontaktowe, takie jak adres poczty elektronicznej, numer telefonu, numer faksu o ile pełnomocnik lub inna osoba wyznaczona kontaktów je posiada;
+b) adres do korespondencji,
+c) dane kontaktowe, takie jak adres poczty elektronicznej, numer telefonu, numer faksu – o ile pełnomocnik lub inna osoba wyznaczona do kontaktów je posiada;
 3) wskazanie, czego dotyczy wniosek (wydanie, przedłużenie, aktualizacja autoryzacji bezpieczeństwa);
-4) numer identyfikacyjny poprzedniej autoryzacji bezpieczeństwa w przypadku wniosku o przedłużenie lub aktualizację autoryzacji bezpieczeństwa;
+4) numer identyfikacyjny poprzedniej autoryzacji bezpieczeństwa – w przypadku wniosku o przedłużenie lub aktualizację autoryzacji bezpieczeństwa;
 5) informacje dotyczące:
 a) rodzaju zarządzanej infrastruktury kolejowej,
 b) kategorii linii kolejowych na zarządzanej infrastrukturze kolejowej,
 c) rodzaju przewozów kolejowych wykonywanych na udostępnianej infrastrukturze kolejowej,
 d) objęcia autoryzacją bezpieczeństwa bocznic kolejowych;
-systemu certyfikacji podmiotów odpowiedzialnych za utrzymanie pojazdów zgodnie dyrektywą Parlamentu Europejskiego i Rady (UE) 2016/798 oraz uchylającego rozporządzenie Komisji (UE) nr 445/2011 (Dz. Urz. UE L 139I
-27.05.2019, str. 360, późn. zm. );
+6) informację, czy autoryzacja bezpieczeństwa ma obejmować potwierdzenie zgodności z załącznikiem II do rozporządzenia wykonawczego Komisji (UE) 2019/779 z dnia 16 maja 2019 r. ustanawiającego szczegółowe przepisy dotyczące systemu certyfikacji podmiotów odpowiedzialnych za utrzymanie pojazdów zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2016/798 oraz uchylającego rozporządzenie Komisji (UE) nr 445/2011 (Dz. Urz. UE L 139I z 27.05.2019, str. 360, z późn. zm. );
 7) miejsce i datę sporządzenia wniosku;
 8) podpis osoby upoważnionej.
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
 1) dokumentację systemu zarządzania bezpieczeństwem;
 2) statut sieci kolejowej uwzględniający zmiany wprowadzone po jego przyjęciu;
-3) obowiązujący regulamin, o którym mowa w art. 32 ust. 1 ustawy 28 marca 2003 o transporcie kolejowym;
+3) obowiązujący regulamin, o którym mowa w art. 32 ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
 4) dane liczbowe o zarządzanej infrastrukturze kolejowej;
-5) wykaz przepisów i regulacji wewnętrznych, ze wskazaniem obowiązujących przewoźnika kolejowego korzystającego infrastruktury kolejowej zarządzanej przez wnioskodawcę;
-6) potwierdzenie uiszczenia opłaty za złożenie odpowiednio wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa, określonej w przepisach wydanych na podstawie art. 16 ust. 3 ustawy 28 marca 2003 o transporcie kolejowym;
+5) wykaz przepisów i regulacji wewnętrznych, ze wskazaniem obowiązujących przewoźnika kolejowego korzystającego z infrastruktury kolejowej zarządzanej przez wnioskodawcę;
+6) potwierdzenie uiszczenia opłaty za złożenie odpowiednio wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa, określonej w przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
 7) pełnomocnictwo, jeżeli zostało udzielone;
-8) potwierdzenie uiszczenia opłaty skarbowej tytułu udzielenia pełnomocnictwa;
-9) wykaz zmian w systemie zarządzania bezpieczeństwem, które nastąpiły od czasu wydania obecnej autoryzacji bezpieczeństwa, wraz ich krótkim opisem w przypadku wniosku o przedłużenie lub aktualizację autoryzacji bezpieczeństwa.
-§ 3. 1. Prezes Urzędu Transportu Kolejowego, zwany dalej „Prezesem UTK”, wydaje, przedłuża lub zmienia świadectwo bezpieczeństwa na wniosek zarządcy infrastruktury kolejowej zwolnionego obowiązku uzyskania autoryzacji bezpieczeństwa, przewoźnika kolejowego zwolnionego obowiązku uzyskania jednolitego certyfikatu bezpieczeństwa, użytkownika bocznicy kolejowej lub przedsiębiorcy zarządzającego infrastrukturą i wykonującego przewozy w metrze.
+8) potwierdzenie uiszczenia opłaty skarbowej z tytułu udzielenia pełnomocnictwa;
+9) wykaz zmian w systemie zarządzania bezpieczeństwem, które nastąpiły od czasu wydania obecnej autoryzacji bezpieczeństwa, wraz z ich krótkim opisem – w przypadku wniosku o przedłużenie lub aktualizację autoryzacji bezpieczeństwa.
+§ 3. 1. Prezes Urzędu Transportu Kolejowego, zwany dalej „Prezesem UTK”, wydaje, przedłuża lub zmienia świadectwo bezpieczeństwa na wniosek zarządcy infrastruktury kolejowej zwolnionego z obowiązku uzyskania autoryzacji bezpieczeństwa, przewoźnika kolejowego zwolnionego z obowiązku uzyskania jednolitego certyfikatu bezpieczeństwa, użytkownika bocznicy kolejowej lub przedsiębiorcy zarządzającego infrastrukturą i wykonującego przewozy w metrze.
 2. Wniosek o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa zawiera:
 1) dane wnioskodawcy:
 a) nazwę, siedzibę i adres wnioskodawcy,
-b) informację o wpisie Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG) albo numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS),
-c) dane kontaktowe, takie jak adres poczty elektronicznej, adres strony internetowej, numer telefonu, numer faksu o ile wnioskodawca je posiada;
-2) dane pełnomocnika lub innej osoby wyznaczonej kontaktów:
+b) informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG) albo numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS),
+c) dane kontaktowe, takie jak adres poczty elektronicznej, adres strony internetowej, numer telefonu, numer faksu – o ile wnioskodawca je posiada;
+2) dane pełnomocnika lub innej osoby wyznaczonej do kontaktów:
 a) imię i nazwisko,
-b) adres korespondencji,
-c) dane kontaktowe, takie jak adres poczty elektronicznej, numer telefonu, numer faksu o ile pełnomocnik lub inna osoba wyznaczona kontaktów je posiada;
+b) adres do korespondencji,
+c) dane kontaktowe, takie jak adres poczty elektronicznej, numer telefonu, numer faksu – o ile pełnomocnik lub inna osoba wyznaczona do kontaktów je posiada;
 3) wskazanie czego dotyczy wniosek (wydanie, przedłużenie, zmiana świadectwa bezpieczeństwa);
 4) miejsce i datę sporządzenia wniosku;
 5) podpis osoby upoważnionej.
-1) potwierdzenie uiszczenie opłaty za złożenie odpowiednio wniosku o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa, określonej w przepisach wydanych na podstawie art. 16 ust. 3 ustawy 28 marca 2003 o transporcie kolejowym;
+3. Do wniosku, o którym mowa w ust. 2, poza dokumentami określonymi odpowiednio w art. 19 ust. 1–3a ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, dołącza się:
+1) potwierdzenie uiszczenie opłaty za złożenie odpowiednio wniosku o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa, określonej w przepisach wydanych na podstawie art. 16 ust. 3 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
 2) pełnomocnictwo, jeżeli zostało udzielone;
-3) potwierdzenie uiszczenia opłaty skarbowej tytułu udzielenia pełnomocnictwa.
+3) potwierdzenie uiszczenia opłaty skarbowej z tytułu udzielenia pełnomocnictwa.
 4. Świadectwa bezpieczeństwa wydaje się na okres 5 lat i przedłuża co 5 lat.
-§ 4. 1. Wnioski o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa oraz o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa wraz wymaganą dokumentacją składa się w formie pisemnej w postaci papierowej lub elektronicznej.
-2. Dokumenty dołączane wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa oraz o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa mogą być składane w formie kopii, jeżeli wnioskodawca oświadczy, że są one zgodne oryginałem.
-3. Dokumentacja dołączana wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa oraz o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa składana w postaci elektronicznej może zostać złożona w postaci plików na informatycznym nośniku danych zapisanych w sposób uniemożliwiający ich modyfikację lub usunięcie.
-4. Prezes UTK dokonuje oceny wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa oraz o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa przez sprawdzenie kompletności i spójności dołączonych wniosku dokumentów oraz sprawdzenie zgodności tych dokumentów przepisami Unii Europejskiej i prawa krajowego w zakresie bezpieczeństwa transportu kolejowego.
+§ 4. 1. Wnioski o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa oraz o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa wraz z wymaganą dokumentacją składa się w formie pisemnej w postaci papierowej lub elektronicznej.
+2. Dokumenty dołączane do wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa oraz o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa mogą być składane w formie kopii, jeżeli wnioskodawca oświadczy, że są one zgodne z oryginałem.
+3. Dokumentacja dołączana do wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa oraz o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa składana w postaci elektronicznej może zostać złożona w postaci plików na informatycznym nośniku danych zapisanych w sposób uniemożliwiający ich modyfikację lub usunięcie.
+4. Prezes UTK dokonuje oceny wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa oraz o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa przez sprawdzenie kompletności i spójności dołączonych do wniosku dokumentów oraz sprawdzenie zgodności tych dokumentów z przepisami Unii Europejskiej i prawa krajowego w zakresie bezpieczeństwa transportu kolejowego.
 5. Wniosek o przedłużenie autoryzacji bezpieczeństwa albo świadectwa bezpieczeństwa składa się nie później niż 4 miesiące przed upływem okresu ważności tych dokumentów.
-6. Wniosek o przedłużenie świadectwa bezpieczeństwa złożony naruszeniem terminu, o którym mowa w ust. 5, Prezes UTK traktuje jako wniosek o wydanie nowego świadectwa bezpieczeństwa.
-§ 5. 1. W toku rozpatrywania wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa oraz o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa Prezes UTK może wezwać wnioskodawcę przekazania uzupełniających informacji i dokumentów.
-2. W toku rozpatrywania wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa Prezes UTK może przeprowadzić oględziny lub audyty w obiektach wnioskodawcy, w zakresie niezbędnym rozpatrzenia wniosku, w uzgodnionych nim terminach.
-§ 6. 1. Prezes UTK ogranicza autoryzację bezpieczeństwa w przypadku, gdy w wyniku działań nadzorczych stwierdzi, że zarządca nie spełnia warunków posiadania autoryzacji bezpieczeństwa w odniesieniu części zarządzanej przez niego infrastruktury kolejowej, a zarządca infrastruktury nie usunie stwierdzonych uchybień w terminie 30 dni od otrzymania wezwania ich usunięcia.
-2. Prezes UTK cofa autoryzację bezpieczeństwa w przypadku, gdy w wyniku działań nadzorczych stwierdzi, że zarządca nie spełnia warunków posiadania autoryzacji bezpieczeństwa w odniesieniu całości zarządzanej przez niego infrastruktury kolejowej, a zarządca infrastruktury nie usunie stwierdzonych uchybień w terminie 30 dni od otrzymania wezwania ich usunięcia.
+6. Wniosek o przedłużenie świadectwa bezpieczeństwa złożony z naruszeniem terminu, o którym mowa w ust. 5, Prezes UTK traktuje jako wniosek o wydanie nowego świadectwa bezpieczeństwa.
+§ 5. 1. W toku rozpatrywania wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa oraz o wydanie, przedłużenie lub zmianę świadectwa bezpieczeństwa Prezes UTK może wezwać wnioskodawcę do przekazania uzupełniających informacji i dokumentów.
+2. W toku rozpatrywania wniosku o wydanie, przedłużenie lub aktualizację autoryzacji bezpieczeństwa Prezes UTK może przeprowadzić oględziny lub audyty w obiektach wnioskodawcy, w zakresie niezbędnym do rozpatrzenia wniosku, w uzgodnionych z nim terminach.
+§ 6. 1. Prezes UTK ogranicza autoryzację bezpieczeństwa w przypadku, gdy w wyniku działań nadzorczych stwierdzi, że zarządca nie spełnia warunków posiadania autoryzacji bezpieczeństwa w odniesieniu do części zarządzanej przez niego infrastruktury kolejowej, a zarządca infrastruktury nie usunie stwierdzonych uchybień w terminie 30 dni od dnia otrzymania wezwania do ich usunięcia.
+2. Prezes UTK cofa autoryzację bezpieczeństwa w przypadku, gdy w wyniku działań nadzorczych stwierdzi, że zarządca nie spełnia warunków posiadania autoryzacji bezpieczeństwa w odniesieniu do całości zarządzanej przez niego infrastruktury kolejowej, a zarządca infrastruktury nie usunie stwierdzonych uchybień w terminie 30 dni od dnia otrzymania wezwania do ich usunięcia.
 § 7. Prezes UTK cofa świadectwo bezpieczeństwa w przypadku, gdy podmiot, o którym mowa w § 3 ust. 1:
-1) przestał spełniać warunki uprawniające wydania świadectwa bezpieczeństwa;
+1) przestał spełniać warunki uprawniające do wydania świadectwa bezpieczeństwa;
 2) prowadzi działalność zagrażającą bezpieczeństwu ruchu kolejowego lub wykonywaniu przewozów kolejowych, bezpiecznej eksploatacji pojazdów kolejowych, ochronie przeciwpożarowej, ochronie środowiska, lub
-3) nie usunie w określonym przez Prezesa UTK terminie nieprawidłowości, o których mowa w art. 14 ust. 1 ustawy
-2. Wzór świadectwa bezpieczeństwa określa załącznik nr 2 rozporządzenia.
+3) nie usunie w określonym przez Prezesa UTK terminie nieprawidłowości, o których mowa w art. 14 ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym.
+§ 8. 1. Wzór autoryzacji bezpieczeństwa określa załącznik nr 1 do rozporządzenia.
+2. Wzór świadectwa bezpieczeństwa określa załącznik nr 2 do rozporządzenia.
 § 9. Do postępowań w sprawie wydania, przedłużenia, zmiany i cofnięcia świadectw bezpieczeństwa wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 10. Rozporządzenie wchodzi w życie dniem 28 lipca 2021 Minister Infrastruktury: wz. A. Bittel WZÓR AUTORYZACJA BEZPIECZEŃSTWA 2021 WZÓR WZÓR Rzeczpospolita Polska Prezes Urzędu Transportu Kolejowego ŚWIADECTWO BEZPIECZEŃSTWA dla [rodzaj podmiotu] [NAZWA ZGODNA Z KRS/CEIDG] [ULICA] [KOD, MIEJSCOWOŚĆ] Lokalizacja : [odgałęzienie bocznicy kolejowej, opis zarządzanej infrastruktury] [Rodzaj podmiotu] spełnia wymagania w zakresie [opisać zakres działalności] .
-Informacja o świadectwie bezpieczeństwa: nowe świadectwo Jest to przedłużenie świadectwa Numer poprzedniego świadectwa: zmiana świadectwa Ważne od: do: 5 20212021 nr
+§ 10. Rozporządzenie wchodzi w życie z dniem 28 lipca 2021 r.
+Minister Infrastruktury: wz. A. Bittel WZÓR AUTORYZACJA BEZPIECZEŃSTWA 2021 Załącznik nr 2 WZÓR WZÓR Rzeczpospolita Polska Prezes Urzędu Transportu Kolejowego ŚWIADECTWO BEZPIECZEŃSTWA nr dla [rodzaj podmiotu] [NAZWA ZGODNA Z KRS/CEIDG] [ULICA] [KOD, MIEJSCOWOŚĆ] Lokalizacja : [odgałęzienie bocznicy kolejowej, opis zarządzanej infrastruktury] [Rodzaj podmiotu] spełnia wymagania w zakresie [opisać zakres działalności] .
+Informacja o świadectwie bezpieczeństwa: – nowe świadectwo Jest to – przedłużenie świadectwa Numer poprzedniego świadectwa: – zmiana świadectwa Ważne od: do: 5 20212021 – –
 

@@ -8,7 +8,7 @@ pos: 985
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o stanie wyjątkowym
@@ -49,7 +49,7 @@ source: "isap-pdf"
 
 1. Stan wyjątkowy obowiązuje od dnia ogłoszenia rozporządzenia, o którym mowa w art. 3 ust. 1, w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
-2. W przypadku uchylenia rozporządzenia, o którym mowa w art. 3 ust. 1, przez Sejm Rzeczypospolitej Polskiej, uchwałę w tej sprawie niezwłocznie ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej.
+2. W przypadku uchylenia rozporządzenia, o którym mowa w art. 3 ust. 1, przez Sejm Rzeczypospolitej Polskiej, uchwałę Sejmu w tej sprawie niezwłocznie ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
 3. Rozporządzenie Prezydenta Rzeczypospolitej Polskiej o wprowadzeniu stanu wyjątkowego oraz inne akty prawne dotyczące tego stanu podaje się do publicznej wiadomości, w drodze obwieszczenia właściwego wojewody, przez rozplakatowanie w miejscach publicznych, a także w sposób zwyczajowo przyjęty na danym obszarze.
 
@@ -72,6 +72,9 @@ source: "isap-pdf"
 **Art. 8.** W czasie stanu wyjątkowego organy władzy publicznej działają w dotychczasowych strukturach organizacyjnych państwa i w ramach przysługujących im kompetencji, z zastrzeżeniem przepisów niniejszej ustawy.
 
 **Art. 9.** Działania przywracające konstytucyjny ustrój państwa, bezpieczeństwo obywateli lub porządek publiczny, a w szczególności koordynację i kontrolę funkcjonowania administracji rządowej i samorządowej wykonują:
+
+- **1)** Prezes Rady Ministrów – w przypadku wprowadzenia stanu wyjątkowego na obszarze większym niż obszar jednego województwa;
+- **2)** właściwy wojewoda – w przypadku wprowadzenia stanu wyjątkowego na obszarze lub części obszaru jednego województwa.
 
 **Art. 10.** Prezes Rady Ministrów jest obowiązany do informowania na bieżąco Prezydenta Rzeczypospolitej Polskiej o skutkach wprowadzenia stanu wyjątkowego oraz o rodzaju i rezultatach działań podejmowanych w celu przywrócenia normalnego funkcjonowania państwa.
 
@@ -238,6 +241,16 @@ source: "isap-pdf"
 - **2)** organy właściwe w sprawach, o których mowa w ust. 1 pkt 4, oraz tryb postępowania tych organów, uwzględniając potrzebę zapewnienia niejawności stosowanych metod i technik działania.
 
 **Art. 21.** W czasie stanu wyjątkowego mogą być wprowadzone ograniczenia wolności i praw człowieka i obywatela w zakresie:
+
+- **1)** dostępu do towarów konsumpcyjnych, poprzez całkowitą lub częściową reglamentację zaopatrzenia ludności;
+- **1a)** swobody uzgadniania cen przez strony umowy, poprzez zakazanie okresowego podwyższania cen na towary lub usługi określonego rodzaju albo nakazanie stosowania cen ustalonych na towary lub usługi mające podstawowe znaczenie dla kosztów utrzymania konsumentów;
+- **2)** wolności działalności gospodarczej, poprzez nakazanie okresowego zaniechania prowadzenia działalności gospodarczej określonego rodzaju albo ustanowienie obowiązku uzyskania zezwolenia na rozpoczęcie działalności gospodarczej określonego rodzaju;
+- **3)** działalności edukacyjnej, poprzez okresowe zawieszenie zajęć dydaktycznych w szkołach włącznie ze szkołami wyższymi, z wyjątkiem szkół duchownych i seminariów duchownych;
+- **4)** obrotu krajowymi środkami płatniczymi, obrotu dewizowego oraz działalności kantorowej;
+- **5)** transportu drogowego, kolejowego i lotniczego oraz w ruchu jednostek pływających na morskich wodach wewnętrznych i na morzu terytorialnym, a także na śródlądowych drogach wodnych;
+- **6)** funkcjonowania systemów łączności oraz działalności telekomunikacyjnej i pocztowej, poprzez nakazanie wyłączenia urządzeń łączności lub zawieszenia świadczenia usług, na czas określony, a także poprzez nakazanie niezwłocznego złożenia do depozytu właściwego organu administracji rządowej radiowych i telewizyjnych urządzeń nadawczych i nadawczo-odbiorczych lub ustalenie innego sposobu ich zabezpieczenia przed wykorzystaniem w sposób zagrażający konstytucyjnemu ustrojowi państwa, bezpieczeństwu obywateli albo porządkowi publicznemu;
+- **7)** prawa posiadania broni palnej, amunicji i materiałów wybuchowych oraz innych rodzajów broni lub określonych przedmiotów, poprzez nakazanie niezwłocznego złożenia do depozytu właściwego organu administracji rządowej albo zakazanie noszenia;
+- **8)** dostępu do informacji publicznej.
 
 **Art. 22.**
 

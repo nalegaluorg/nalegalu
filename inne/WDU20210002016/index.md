@@ -8,10 +8,10 @@ pos: 2016
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 listopada 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2016 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 26 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2016/text.pdf) |
 
-ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 26 października 2021 r.
 w sprawie wzorów legitymacji weterana-funkcjonariusza i weterana poszkodowanego-funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego oraz wzorów legitymacji weterana-funkcjonariusza i weterana poszkodowanego-funkcjonariusza Agencji Wywiadu Na podstawie art. 10 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2020 r.
-poz. 2055) zarządza się, co następuje: § 1. Rozporządzenie określa:
+poz. 2055) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór zaświadczenia, o którym mowa w art. 7 ust. 1 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, wydawanego przez Szefa Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, albo Szefa Agencji Wywiadu, zwanej dalej „AW”;
 2) wzory legitymacji:
 a) weterana-funkcjonariusza ABW,
 b) weterana poszkodowanego-funkcjonariusza ABW,
 c) weterana-funkcjonariusza AW,
-d) weterana poszkodowanego-funkcjonariusza AW zwanych dalej „legitymacjami”;
+d) weterana poszkodowanego-funkcjonariusza AW – zwanych dalej „legitymacjami”;
 3) tryb wydawania, wymiany lub zwrotu legitymacji;
 4) przypadki, w których osoby wymienione w pkt 2, zwane dalej „posiadaczami legitymacji”, mogą dokonać wymiany posiadanej legitymacji.
 § 2. Wzór zaświadczenia, o którym mowa w art. 7 ust. 1 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, wydawanego przez Szefa ABW albo Szefa AW, jest określony w załączniku nr 1 do rozporządzenia.
@@ -44,6 +44,7 @@ d) weterana poszkodowanego-funkcjonariusza AW zwanych dalej „legitymacjami”;
 1) weterana-funkcjonariusza ABW jest określony w załączniku nr 2 do rozporządzenia;
 2) weterana-funkcjonariusza AW jest określony w załączniku nr 3 do rozporządzenia;
 3) weterana poszkodowanego-funkcjonariusza ABW jest określony w załączniku nr 4 do rozporządzenia;
+4) weterana poszkodowanego-funkcjonariusza AW jest określony w załączniku nr 5 do rozporządzenia.
 § 4. 1. Legitymacja podlega wymianie w przypadku:
 1) zmiany danych w niej zawartych;
 2) uszkodzenia;
@@ -61,7 +62,7 @@ d) weterana poszkodowanego-funkcjonariusza AW zwanych dalej „legitymacjami”;
 § 7. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 19 września 2012 r. w sprawie wzoru legitymacji weterana-funkcjonariusza albo weterana poszkodowanego-funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego (Dz. U.
 poz. 1060).
 § 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki WZÓR Załącznik nr 1 WZÓR ………………………..
+Prezes Rady Ministrów: M. Morawiecki Załączniki do rozporządzenia Prezesa Rady Ministrów (poz. …) Załącznik nr 1 WZÓR WZÓR ………………………..
 ………………………………….
 ZAŚWIADCZENIE nr ..........
 Na podstawie art. 7 ust. 1 pkt 2 lit. c/d* ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2020 r. poz. 2055) oraz dokumentów ewidencyjnych / przedłożonych dokumentów / innych dowodów* stwierdza się, że: Pan(i) ……………………………………………………………………………………..………..
@@ -70,8 +71,10 @@ uczestniczył(a) w działaniach poza granicami państwa ……………………
 od ………………………………….…………. do ……………………………………………… i zajmował(a) stanowisko ...……………………………………………………………………..
 …………………………………………………………………………………………………...
 ………………………………….
-WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO Legitymacja ma układ poziomy, jest kartą wykonaną na papierze syntetycznym, dwustronnie laminowaną folią, w formacie według standardu ISO 7810 ID-1 o wymiarach 53,98 × 85,60 × 0,76 mm.
-AWERS
+
+## Załącznik nr 2 — WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA AGENCJI BEZPIECZEŃSTWA WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA WEWNĘTRZNEGO AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO Legitymacja ma układ poziomy, jest kartą wykonaną na papierze syntetycznym, dwustronnie laminowaną folią, w formacie według standardu ISO 7810 ID-1 o wymiarach 53,98 × 85,60 × 0,76 mm.
+
+AWERS ACY 0001
 1. Tło giloszowe z elementami mikrotekstu w kolorze granatowym w górnej części dokumentu oraz wykonane drukiem irysowym w kolorach niebieskim i czerwonym w pozostałej części dokumentu.
 2. W lewym górnym rogu legitymacji znajduje się wizerunek orła wykonany według wzoru ustalonego dla godła Rzeczypospolitej Polskiej.
 3. W prawym dolnym rogu legitymacji znajduje się znak graficzny wydrukowany farbą optycznie zmienną.
@@ -88,7 +91,7 @@ i) NAZWISKO/SURNAME z zaznaczonym miejscem na dokonanie wpisu,
 j) NR PESEL / PERSONAL NUMBER (PESEL) z zaznaczonym miejscem na dokonanie wpisu,
 k) WAŻNA WRAZ Z DOWODEM TOŻSAMOŚCI / EXPIRATION TOGETHER WITH AN ID CARD.
 5. Seria i numer legitymacji wykonane w technice typografii w kolorze czarnym.
-ACY 0001 WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO REWERS
+REWERS
 1. Tło giloszowe z elementami mikrotekstu w kolorze granatowym w górnej części dokumentu oraz w kolorze czerwonym w pozostałej części dokumentu.
 2. W lewym górnym rogu legitymacji znajduje się wizerunek flagi Rzeczypospolitej Polskiej.
 3. Czarne napisy drukowane różnym krojem czcionki:
@@ -99,7 +102,7 @@ d) PODPIS/SIGNATURE z zaznaczonym miejscem na dokonanie wpisu,
 e) DATA WYDANIA / DATE OF ISSUE z zaznaczonym miejscem na dokonanie wpisu.
 4. Element graficzny wykonany farbą aktywną w promieniowaniu ultrafioletowym.
 
-## Załącznik nr 3 — WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA AGENCJI WYWIADU Legitymacja ma układ poziomy, jest kartą wykonaną na papierze syntetycznym, dwustronnie laminowaną folią, w formacie według standardu ISO 7810 ID-1 o wymiarach 53,98 × 85,60 × 0,76 mm.
+## Załącznik nr 3 — WZÓR WZÓR LEGITYMACJI LEGITYMACJI WETERANA-FUNKCJONARIUSZA WETERANA-FUNKCJONARIUSZA AGENCJI AGENCJI WYWIADU WYWIADU Legitymacja ma układ poziomy, jest kartą wykonaną na papierze syntetycznym, dwustronnie laminowaną folią, w formacie według standardu ISO 7810 ID-1 o wymiarach 53,98 × 85,60 × 0,76 mm.
 
 AWERS
 1. Tło giloszowe z elementami mikrotekstu w kolorze granatowym w górnej części dokumentu oraz wykonane drukiem irysowym w kolorach niebieskim i czerwonym w pozostałej części dokumentu.
@@ -118,7 +121,7 @@ i) NAZWISKO/SURNAME z zaznaczonym miejscem na dokonanie wpisu,
 j) NR PESEL / PERSONAL NUMBER (PESEL) z zaznaczonym miejscem na dokonanie wpisu,
 k) WAŻNA WRAZ Z DOWODEM TOŻSAMOŚCI / EXPIRATION TOGETHER WITH AN ID CARD.
 5. Seria i numer wykonane w technice typografii w kolorze czarnym.
-WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA AGENCJI WYWIADU REWERS
+REWERS
 1. Tło giloszowe z elementami mikrotekstu w kolorze granatowym w górnej części dokumentu oraz w kolorze czerwonym w pozostałej części dokumentu.
 2. W lewym górnym rogu legitymacji znajduje się wizerunek flagi Rzeczypospolitej Polskiej.
 3. Czarne napisy drukowane różnym krojem czcionki:
@@ -129,9 +132,9 @@ d) PODPIS/SIGNATURE z zaznaczonym miejscem na dokonanie wpisu,
 e) DATA WYDANIA / DATE OF ISSUE z zaznaczonym miejscem na dokonanie wpisu.
 4. Element graficzny wykonany farbą aktywną w promieniowaniu ultrafioletowym.
 
-## Załącznik nr 4 — WZÓR LEGITYMACJI WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO Legitymacja ma układ poziomy, jest kartą wykonaną na papierze syntetycznym, dwustronnie laminowaną folią, w formacie według standardu ISO 7810 ID-1 o wymiarach 53,98 × 85,60 × 0,76 mm.
+## Załącznik nr 4 — WZÓR WZÓR LEGITYMACJI LEGITYMACJI WETERANA WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA POSZKODOWANEGO-FUNKCJONARIUSZA AGENCJI AGENCJI BEZPIECZEŃSTWA BEZPIECZEŃSTWA WEWNĘTRZNEGO WEWNĘTRZNEGO Legitymacja ma układ poziomy, jest kartą wykonaną na papierze syntetycznym, dwustronnie laminowaną folią, w formacie według standardu ISO 7810 ID-1 o wymiarach 53,98 × 85,60 × 0,76 mm.
 
-AWERS
+AWERS ACX 0001
 1. Tło giloszowe z elementami mikrotekstu w kolorze granatowym w górnej części dokumentu oraz wykonane drukiem irysowym w kolorach pomarańczowym i zielonym w pozostałej części dokumentu.
 2. W lewym górnym rogu legitymacji znajduje się wizerunek orła wykonany według wzoru ustalonego dla godła Rzeczypospolitej Polskiej.
 3. W prawym dolnym rogu legitymacji znajduje się znak graficzny wydrukowany farbą optycznie zmienną.
@@ -149,7 +152,7 @@ j) NR PESEL / PERSONAL NUMBER (PESEL) z zaznaczonym miejscem na dokonanie wpisu,
 k) WAŻNA WRAZ Z DOWODEM TOŻSAMOŚCI / EXPIRATION TOGETHER WITH AN ID CARD.
 5. Seria i numer legitymacji wykonane w technice typografii w kolorze czarnym.
 6. Element graficzny wykonany farbą aktywną w promieniowaniu ultrafioletowym.
-ACX 0001 WZÓR LEGITYMACJI WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO REWERS
+REWERS
 1. Tło giloszowe z elementami mikrotekstu w kolorze granatowym w górnej części dokumentu oraz w kolorze zielonym w pozostałej części dokumentu.
 2. W lewym górnym rogu legitymacji znajduje się wizerunek flagi Rzeczypospolitej Polskiej.
 3. Czarne napisy drukowane różnym krojem czcionki:
@@ -159,7 +162,7 @@ c) ORGAN WYDAJĄCY / ISSUING AUTHORITY,
 d) PODPIS/SIGNATURE z zaznaczonym miejscem na dokonanie wpisu,
 e) DATA WYDANIA / DATE OF ISSUE z zaznaczonym miejscem na dokonanie wpisu.
 
-## Załącznik nr 5 — WZÓR LEGITYMACJI WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA AGENCJI WYWIADU Legitymacja ma układ poziomy, jest kartą wykonaną na papierze syntetycznym, dwustronnie laminowaną folią, w formacie według standardu ISO 7810 ID-1 o wymiarach 53,98 × 85,60 × 0,76 mm.
+## Załącznik nr 5 — WZÓR LEGITYMACJI WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA AGENCJI WYWIADU WZÓR LEGITYMACJI WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA AGENCJI WYWIADU Legitymacja ma układ poziomy, jest kartą wykonaną na papierze syntetycznym, dwustronnie laminowaną folią, w formacie według standardu ISO 7810 ID-1 o wymiarach 53,98 × 85,60 × 0,76 mm.
 
 AWERS
 1. Tło giloszowe z elementami mikrotekstu w kolorze granatowym w górnej części dokumentu oraz wykonane drukiem irysowym w kolorach pomarańczowym i zielonym w pozostałej części dokumentu.
@@ -179,7 +182,7 @@ j) NR PESEL / PERSONAL NUMBER (PESEL) z zaznaczonym miejscem na dokonanie wpisu,
 k) WAŻNA WRAZ Z DOWODEM TOŻSAMOŚCI / EXPIRATION TOGETHER WITH AN ID CARD.
 5. Seria i numer wykonane w technice typografii w kolorze czarnym.
 6. Element graficzny wykonany farbą aktywną w promieniowaniu ultrafioletowym.
-WZÓR LEGITYMACJI WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA AGENCJI WYWIADU REWERS
+REWERS
 1. Tło giloszowe z elementami mikrotekstu w kolorze granatowym w górnej części dokumentu oraz w kolorze zielonym w pozostałej części dokumentu.
 2. W lewym górnym rogu legitymacji znajduje się wizerunek flagi Rzeczypospolitej Polskiej.
 3. Czarne napisy drukowane różnym krojem czcionki:

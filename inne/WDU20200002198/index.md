@@ -8,10 +8,10 @@ pos: 2198
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# OBWIEszczEnIE MInIsTRA EDUKAcJI I nAUKI dnia 17 listopada 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2198 OBWIEszczEnIE MInIsTRA EDUKAcJI I nAUKI z dnia 17 listopada 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2198/text.pdf) |
 
-sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej sprawie wymagań wobec szkół placówek
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej dnia 11 sierpnia 2017 r. sprawie wymagań wobec szkół placówek (Dz. U.
-poz. 1611), uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji Narodowej dnia 6 sierpnia 2019 r. zmieniającym rozporządzenie sprawie wymagań wobec szkół placówek (Dz. U. poz. 1575).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji Narodowej dnia 6 sierpnia 2019 r. zmieniającego rozporządzenie sprawie wymagań wobec szkół placówek (Dz. U. poz. 1575), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem 1 września 2019 r.”.
-Minister Edukacji Nauki: P. Czarnek sprawie wymagań wobec szkół placówek Na podstawie art. 44 ust. 3 ustawy dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. 2020 r. poz. 910 1378) zarządza się, co następuje: § 1. Rozporządzenie określa, odniesieniu do różnych typów szkół rodzajów placówek, wymagania wobec publicznych szkół placówek dotyczące realizacji niezbędnych działań, których mowa art. 44 ust. 1 ustawy dnia 14 grudnia 2016 r. Prawo oświatowe.
-§ 2. Wymagania, których mowa § 1, stanowią załącznik do rozporządzenia.
-§ 3. Rozporządzenie wchodzi życie dniem 1 września 2017 r.
-W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie wymagań wobec szkół i placówek
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie wymagań wobec szkół i placówek (Dz. U.
+poz. 1611), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji Narodowej z dnia 6 sierpnia 2019 r. zmieniającym rozporządzenie w sprawie wymagań wobec szkół i placówek (Dz. U. poz. 1575).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji Narodowej z dnia 6 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie wymagań wobec szkół i placówek (Dz. U. poz. 1575), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.”.
+Minister Edukacji i Nauki: P. Czarnek Rozpo R ządz EN i E MInIsTRA EDUKAcJI nARODOWEJ z dnia 11 sierpnia 2017 r.
+w sprawie wymagań wobec szkół i placówek Na podstawie art. 44 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 i 1378) zarządza się, co następuje:
+§ 1. Rozporządzenie określa, w odniesieniu do różnych typów szkół i rodzajów placówek, wymagania wobec publicznych szkół i placówek dotyczące realizacji niezbędnych działań, o których mowa w art. 44 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+§ 2. Wymagania, o których mowa w § 1, stanowią załącznik do rozporządzenia.
+§ 3. Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
+W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W
 

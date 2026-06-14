@@ -8,10 +8,10 @@ pos: 1969
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 6 grudnia ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW 1 grudnia sprawie obrotu przez Bankowy Gwarancyjny wierzytelnościami nabywanymi od spółdzielczych kas oszczędnościowo-kredytowych, których powstało niebezpieczeństwo niewypłacalności Na podstawie art. 5 8 ustawy 10 czerwca Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji 996) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki, zakres i tryb obrotu przez Bankowy Gwarancyjny, zwany dalej „Funduszem”, wierzytelnościami nabywanymi od spółdzielczych kas oszczędnościowo-kredytowych, zwanych dalej „kasami”, których powstało niebezpieczeństwo niewypłacalności.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1969 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 1 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,54 +25,59 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001969) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1969/text.pdf) |
 
-§ 2. 1. może nabywać niewymagalne wierzytelności pieniężne kas, wynikające tytułu udzielonych pożyczek i kredytów, klasyfikowane przez kasy do kategorii „regularne” zgodnie przepisami wydanymi na podstawie art. 81 2 pkt 8 lit. d ustawy 29 września 1994 rachunkowości 1047), co do których nie ma opóźnień spłacie, a sytuacja ekonomiczno-finansowa dłużnika nie stwarza zagrożenia dla dalszej terminowej spłaty długu.
-2. nabywa wierzytelności, których mowa 1:
+w sprawie obrotu przez Bankowy Fundusz Gwarancyjny wierzytelnościami nabywanymi od spółdzielczych kas oszczędnościowo-kredytowych, w których powstało niebezpieczeństwo niewypłacalności Na podstawie art. 5 ust. 8 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996) zarządza się, co następuje:
+§ 1. Rozporządzenie określa szczegółowe warunki, zakres i tryb obrotu przez Bankowy Fundusz Gwarancyjny, zwany dalej „Funduszem”, wierzytelnościami nabywanymi od spółdzielczych kas oszczędnościowo-kredytowych, zwanych dalej „kasami”, w których powstało niebezpieczeństwo niewypłacalności.
+§ 2. 1. Fundusz może nabywać niewymagalne wierzytelności pieniężne kas, wynikające z tytułu udzielonych pożyczek i kredytów, klasyfikowane przez kasy do kategorii „regularne” zgodnie z przepisami wydanymi na podstawie art. 81 ust. 2 pkt 8 lit. d ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047), co do których nie ma opóźnień w spłacie, a sytuacja ekonomiczno-finansowa dłużnika nie stwarza zagrożenia dla dalszej terminowej spłaty długu.
+2. Fundusz nabywa wierzytelności, o których mowa w ust. 1:
 1) bezsporne;
-2) których istnienie wynika wyraźnie oznaczonego stosunku zobowiązaniowego;
+2) których istnienie wynika z wyraźnie oznaczonego stosunku zobowiązaniowego;
 3) zbywalne;
-4) nieobciążone prawami na rzecz osób trzecich, a także niezajęte postępowaniu egzekucyjnym lub zabezpieczającym;
-5) stosunku do których relacji między kasą a dłużnikiem nie przysługuje dłużnikowi prawo zgłoszenia zarzutu potrącenia, zwolnienia długu, niespełnienia świadczenia.
-§ Nabywanie wierzytelności kas przez finansowane jest wyłącznie ze środków funduszu gwarancyjnego kas wysokości nieprzekraczającej 20% tego funduszu do wykorzystania na dzień 31 grudnia roku poprzedzającego nabycie wierzytelności.
-§ 4. 1. Nabycie wierzytelności przez następuje na wniosek kasy.
-2. Kasa występująca wnioskiem nabycie wierzytelności dołącza do wniosku wykaz wierzytelności oferowanych do zbycia wraz ich opisem oraz kompletem dokumentów pozwalających na ocenę stanu prawnego i faktycznego tych wierzytelności.
-1) oznaczenie dłużnika kasy wraz przedstawieniem jego sytuacji finansowej;
+4) nieobciążone prawami na rzecz osób trzecich, a także niezajęte w postępowaniu egzekucyjnym lub zabezpieczającym;
+5) w stosunku do których w relacji między kasą a dłużnikiem nie przysługuje dłużnikowi prawo zgłoszenia zarzutu potrącenia, zwolnienia z długu, niespełnienia świadczenia.
+§ 3. Nabywanie wierzytelności kas przez Fundusz finansowane jest wyłącznie ze środków funduszu gwarancyjnego kas w wysokości nieprzekraczającej 20% tego funduszu do wykorzystania na dzień 31 grudnia roku poprzedzającego nabycie wierzytelności.
+§ 4. 1. Nabycie wierzytelności przez Fundusz następuje na wniosek kasy.
+2. Kasa występująca z wnioskiem o nabycie wierzytelności dołącza do wniosku wykaz wierzytelności oferowanych do zbycia wraz z ich opisem oraz kompletem dokumentów pozwalających na ocenę stanu prawnego i faktycznego tych wierzytelności.
+3. Opis, o którym mowa w ust. 2, powinien zawierać w szczególności:
+1) oznaczenie dłużnika kasy wraz z przedstawieniem jego sytuacji finansowej;
 2) kwotę wierzytelności ze wskazaniem należności głównej, odsetek i innych należności ubocznych;
 3) datę powstania wierzytelności oraz terminy i warunki jej spłaty;
-4) informacje ustanowionych zabezpieczeniach wierzytelności;
-5) informacje przebiegu i terminowości dotychczasowych spłat wierzytelności;
-6) informacje historii dotychczasowej współpracy dłużnikiem.
-§ 5. 1. ustala, które oferowanych przez kasę wierzytelności mogą zostać nabyte, i zawiadamia tym kasę ciągu 20 dni roboczych od otrzymania wniosku.
-2. Przy wyborze wierzytelności do nabycia kieruje się oceną sytuacji finansowej kasy i analizą jakości oferowanych wierzytelności, ze szczególnym uwzględnieniem możliwości ich spłaty.
-§ 6. 1. zawiera kasą umowę cywilnoprawną, zwaną dalej „umową”, określającą rodzaj oraz warunki nabycia wierzytelności od kasy.
-2. Umowa określa szczególności:
+4) informacje o ustanowionych zabezpieczeniach wierzytelności;
+5) informacje o przebiegu i terminowości dotychczasowych spłat wierzytelności;
+6) informacje o historii dotychczasowej współpracy z dłużnikiem.
+§ 5. 1. Fundusz ustala, które z oferowanych przez kasę wierzytelności mogą zostać nabyte, i zawiadamia o tym kasę w ciągu 20 dni roboczych od dnia otrzymania wniosku.
+2. Przy wyborze wierzytelności do nabycia Fundusz kieruje się oceną sytuacji finansowej kasy i analizą jakości oferowanych wierzytelności, ze szczególnym uwzględnieniem możliwości ich spłaty.
+§ 6. 1. Fundusz zawiera z kasą umowę cywilnoprawną, zwaną dalej „umową”, określającą rodzaj oraz warunki nabycia wierzytelności od kasy.
+2. Umowa określa w szczególności:
 1) termin nabycia wierzytelności przez Fundusz;
 2) cenę nabycia wierzytelności;
 3) formę i terminy zapłaty ceny nabycia wierzytelności przez Fundusz;
-4) termin i sposób zawiadomienia dłużnika przez kasę zbyciu wierzytelności.
-§ 7. 1. może zbyć wierzytelność za cenę niższą niż cena jej nabycia.
+4) termin i sposób zawiadomienia dłużnika przez kasę o zbyciu wierzytelności.
+§ 7. 1. Fundusz może zbyć wierzytelność za cenę niższą niż cena jej nabycia.
 2. Cena zbycia wierzytelności nie może być niższa niż 50% ceny jej nabycia.
 § 8. 1. W umowie można zastrzec prawo odkupu wierzytelności przez kasę zbywającą.
-2. W przypadku, którym mowa 1, umowa powinna określać szczególności:
+2. W przypadku, o którym mowa w ust. 1, umowa powinna określać w szczególności:
 1) termin, do którego kasa może wykonać prawo odkupu wierzytelności;
 2) cenę odkupu;
 3) formę i terminy zapłaty ceny odkupu przez kasę;
-4) termin i sposób zawiadomienia dłużnika przez zbyciu wierzytelności.
-Cena odkupu, której mowa 2 pkt 2, powinna uwzględniać cenę zakupu wierzytelności wraz kosztami związanymi zakupem poniesionymi przez Fundusz, powiększoną odsetki obliczone według stopy oprocentowania nie niższej niż ustalona przy udzielaniu kasom pomocy formie pożyczki oraz pomniejszoną kwotę stanowiącą różnicę między częścią wierzytelności odzyskaną przez okresie od nabycia tej wierzytelności od kasy do jej odkupu przez kasę a kosztami poniesionymi przez związku odzyskaniem tej części wierzytelności.
-4. W przypadku skorzystania przez kasę zbywającą prawa odkupu cena zbycia wierzytelności przez nie może być niższa niż cena odkupu ustalona zgodnie
-5. Fundusz, terminie określonym umowie, przekazuje kasie odkupującej wierzytelności informacje rodzajach i skutkach działań, jakie podjął stosunku do dłużnika.
-6. Nabywając wierzytelność, co do której zostało zastrzeżone prawo odkupu, może żądać ustanowienia zabezpieczenia zapłaty ceny odkupu tej wierzytelności.
-§ 9. może zbyć osobie trzeciej nabytą od kasy wierzytelność, jeżeli umowie nie postanowiono inaczej.
-§ 10. 1. Nabyte od kas wierzytelności, które stały się wymagalne, zbywa drodze przetargu nieograniczonego lub drodze oferty ogłoszonej publicznie (sprzedaż publiczna). W ofercie ogłoszonej publicznie określa cenę sprzedaży wierzytelności.
-2. Zamiar sprzedaży wierzytelności, które stały się wymagalne, podaje do wiadomości publicznej przez za4. Przystępujący do przetargu wnoszą wadium wysokości określonej przez Fundusz. może odstąpić od pobierania wadium od przystępujących do danego przetargu.
-5. dokonuje wyboru najkorzystniejszej oferty ciągu dwóch tygodni od upływu terminu składania ofert.
+4) termin i sposób zawiadomienia dłużnika przez Fundusz o zbyciu wierzytelności.
+3. Cena odkupu, o której mowa w ust. 2 pkt 2, powinna uwzględniać cenę zakupu wierzytelności wraz z kosztami związanymi z zakupem poniesionymi przez Fundusz, powiększoną o odsetki obliczone według stopy oprocentowania nie niższej niż ustalona przy udzielaniu kasom pomocy w formie pożyczki oraz pomniejszoną o kwotę stanowiącą różnicę między częścią wierzytelności odzyskaną przez Fundusz w okresie od nabycia tej wierzytelności od kasy do dnia jej odkupu przez kasę a kosztami poniesionymi przez Fundusz w związku z odzyskaniem tej części wierzytelności.
+4. W przypadku skorzystania przez kasę zbywającą z prawa odkupu cena zbycia wierzytelności przez Fundusz nie może być niższa niż cena odkupu ustalona zgodnie z ust. 3.
+5. Fundusz, w terminie określonym w umowie, przekazuje kasie odkupującej wierzytelności informacje o rodzajach i skutkach działań, jakie podjął w stosunku do dłużnika.
+6. Nabywając wierzytelność, co do której zostało zastrzeżone prawo odkupu, Fundusz może żądać ustanowienia zabezpieczenia zapłaty ceny odkupu tej wierzytelności.
+§ 9. Fundusz może zbyć osobie trzeciej nabytą od kasy wierzytelność, jeżeli w umowie nie postanowiono inaczej.
+§ 10. 1. Nabyte od kas wierzytelności, które stały się wymagalne, Fundusz zbywa w drodze przetargu nieograniczonego lub w drodze oferty ogłoszonej publicznie (sprzedaż publiczna). W ofercie ogłoszonej publicznie Fundusz określa cenę sprzedaży wierzytelności.
+2. Zamiar sprzedaży wierzytelności, które stały się wymagalne, Fundusz podaje do wiadomości publicznej przez zamieszczenie ogłoszenia na stronie internetowej Funduszu oraz w miejscu publicznie dostępnym w swojej siedzibie.
+3. Wyznaczony przez Fundusz termin składania ofert nie może być krótszy niż 3 tygodnie od daty ogłoszenia przetargu.
+4. Przystępujący do przetargu wnoszą wadium w wysokości określonej przez Fundusz. Fundusz może odstąpić od pobierania wadium od przystępujących do danego przetargu.
+5. Fundusz dokonuje wyboru najkorzystniejszej oferty w ciągu dwóch tygodni od upływu terminu składania ofert.
 Kryterium wyboru najkorzystniejszej oferty stanowią cena zakupu wierzytelności od Funduszu oraz warunki płatności zaproponowane przez oferenta.
-6. informuje wyborze oferty, zamieszczając na stronie internetowej Funduszu oraz miejscu publicznie dostępnym swojej siedzibie ogłoszenie wskazujące firmę (nazwę) i siedzibę tego, którego ofertę wybrano.
-7. zawiera wybranym oferentem pisemną umowę sprzedaży wierzytelności nabytej uprzednio od kasy.
-8. O dokonanej sprzedaży wierzytelności niezwłocznie zawiadamia dłużnika.
+6. Fundusz informuje o wyborze oferty, zamieszczając na stronie internetowej Funduszu oraz w miejscu publicznie dostępnym w swojej siedzibie ogłoszenie wskazujące firmę (nazwę) i siedzibę tego, którego ofertę wybrano.
+7. Fundusz zawiera z wybranym oferentem pisemną umowę sprzedaży wierzytelności nabytej uprzednio od kasy.
+8. O dokonanej sprzedaży wierzytelności Fundusz niezwłocznie zawiadamia dłużnika.
 § 11. 1. Nabywcą wierzytelności niewymagalnych może być tylko kasa lub bank.
-2. zbywa wierzytelności niewymagalne na podstawie oferty skierowanej wyłącznie do kas lub banków lub drodze przetargu ograniczonego, zapraszając do składania ofert imiennie oznaczone kasy lub banki.
-zaprasza do składania ofert taką liczbę kas lub banków, nie mniejszą jednak niż dziesięć, która umożliwi wybór najkorzystniejszej oferty, konkurencję i sprawne zbycie wierzytelności.
-4. W zakresie składania ofert, wnoszenia wadium, wyboru oferty, zawarcia umowy i sprzedaży wierzytelności stosuje się przepisy § 10 3–5 oraz 7 i 8.
-§ 12. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
+2. Fundusz zbywa wierzytelności niewymagalne na podstawie oferty skierowanej wyłącznie do kas lub banków lub w drodze przetargu ograniczonego, zapraszając do składania ofert imiennie oznaczone kasy lub banki.
+3. Fundusz zaprasza do składania ofert taką liczbę kas lub banków, nie mniejszą jednak niż dziesięć, która umożliwi wybór najkorzystniejszej oferty, konkurencję i sprawne zbycie wierzytelności.
+4. W zakresie składania ofert, wnoszenia wadium, wyboru oferty, zawarcia umowy i sprzedaży wierzytelności stosuje się przepisy § 10 ust. 3–5 oraz ust. 7 i 8.
+§ 12. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Rozwoju i Finansów: wz. W. Janczyk
 

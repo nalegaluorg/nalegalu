@@ -8,7 +8,7 @@ pos: 356
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o utracie mocy obowiązującej art. 5 pkt 1 lit. a) ustawy o zmianie ustawy o opodatkowaniu wzrostu wynagrodzeń.

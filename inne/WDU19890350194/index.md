@@ -8,7 +8,7 @@ pos: 194
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o samorządzie zawodowym niektórych przedsiębiorców
@@ -38,6 +38,10 @@ source: "isap-pdf"
 2. Ustawa nie dotyczy osób, które uzyskały status rzemieślnika.
 
 **Art. 2.** Przedsiębiorcy mogą, według wyboru, zrzeszać się w zawodowych samorządowych organizacjach:
+
+- **1)** zrzeszeniach handlu i usług,
+- **2)** zrzeszeniach transportu,
+- **3)** innych organizacjach przedsiębiorców.
 
 **Art. 3.**
 

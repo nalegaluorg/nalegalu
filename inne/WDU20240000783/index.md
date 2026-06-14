@@ -8,10 +8,10 @@ pos: 783
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 maja 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 778833 Załączniki do rozporządzenia Ministra Zdrowia z dnia 20 maja 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000783) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/783/text.pdf) |
 
-## Załącznik nr 1 — YD AN C A AS N EOKR ŚL W POSTACI SPERSONAL ZOWANEJ DW STRONNE KAR Y IDENT FIKACYJN J „Prawo wykonywania zawodu lekarza” awers rewers „Prawo wykonywania zawodu lekarza dentysty” awers rewers Opis:
+## Załącznik nr 1 — WZORY DOKUMENTÓW „PRAWO WYKONYWANIA ZAWODU LEKARZA” I „PRAWO WYKONYWANIA ZAWODU LEKARZA DENTYSTY” WYDAWANYCH NA CZAS NIEOKREŚLONY W POSTACI SPERSONALIZOWANEJ DWUSTRONNEJ KARTY IDENTYFIKACYJNEJ „Prawo wykonywania zawodu lekarza” awers rewers „Prawo wykonywania zawodu lekarza dentysty” awers rewers Opis:
 
 1. Dokumenty „Prawo wykonywania zawodu lekarza” i „Prawo wykonywania zawodu lekarza dentysty” wydawane na czas nieokreślony mają postać spersonalizowanej dwustronnej karty identyfikacyjnej formatu ID-1, wykonanej z poliwęglanu.
 2. Na stronie pierwszej (awers) w dokumentach „Prawo wykonywania zawodu lekarza” i „Prawo wykonywania zawodu lekarza dentysty” wydawanych na czas nieokreślony umieszcza się w warstwie graficznej:
-1) nazwę dokumentu „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”;
+1) nazwę dokumentu – „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”;
 2) wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej;
 3) wizerunek twarzy lekarza albo lekarza dentysty, zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671, z późn. zm.);
 4) wyrażenia, które określają zamieszczane dane:
@@ -46,10 +46,12 @@ c) numer prawa wykonywania zawodu;
 3) dodane odpowiednio adnotacje:
 a) „Prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu lekarza na terytorium Rzeczypospolitej Polskiej.” albo „Prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu lekarza dentysty na terytorium Rzeczypospolitej Polskiej.”,
 b) „The right to practice the profession of a Physician.” albo „The right to practice the profession of a Dentist.”.
-„Prawo wykonywania zawodu lekarza” w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel „Prawo wykonywania zawodu lekarza dentysty” w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel Opis:
+
+## Załącznik nr 2 — WZORY DOKUMENTÓW „PRAWO WYKONYWANIA ZAWODU LEKARZA” I „PRAWO WYKONYWANIA ZAWODU LEKARZA DENTYSTY” WYDAWANYCH NA CZAS NIEOKREŚLONY, UDOSTĘPNIANYCH W POSTACI DOKUMENTU MOBILNEGO „Prawo wykonywania zawodu lekarza” – w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel „Prawo wykonywania zawodu lekarza dentysty” – w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel Opis:
+
 1. Dokumenty „Prawo wykonywania zawodu lekarza” i „Prawo wykonywania zawodu lekarza dentysty” wydawane na czas nieokreślony mają formę dokumentu elektronicznego obsługiwanego przy użyciu odpowiedniej usługi udostępnianej w aplikacji mObywatel.
 2. W dokumentach „Prawo wykonywania zawodu lekarza” i „Prawo wykonywania zawodu lekarza dentysty” wydawanych na czas nieokreślony umieszcza się w warstwie graficznej:
-1) nazwę dokumentu „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”;
+1) nazwę dokumentu – „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”;
 2) numer prawa wykonywania zawodu;
 3) datę uzyskania prawa wykonywania zawodu i termin jego ważności;
 4) wskazanie organu przyznającego prawo wykonywania zawodu;
@@ -61,10 +63,12 @@ b) „The right to practice the profession of a Physician.” albo „The right 
 a) „Prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu lekarza na terytorium Rzeczypospolitej Polskiej.” albo „Prawo wykonywania zawodu jest dokumentem uprawniającym do wykonywania zawodu lekarza dentysty na terytorium Rzeczypospolitej Polskiej.”,
 b) „The right to practice the profession of a Physician.” albo „The right to practice the profession of a Dentist.”;
 10) numer identyfikujący dokument mobilny.
-„Prawo wykonywania zawodu lekarza” awers rewers „Prawo wykonywania zawodu lekarza dentysty” awers rewers Opis:
+
+## Załącznik nr 3 — WZORY DOKUMENTÓW „PRAWO WYKONYWANIA ZAWODU LEKARZA” ORAZ „PRAWO WYKONYWANIA ZAWODU LEKARZA DENTYSTY” WYDAWANYCH NA CZAS OKREŚLONY W POSTACI SPERSONALIZOWANEJ DWUSTRONNEJ KARTY IDENTYFIKACYJNEJ „Prawo wykonywania zawodu lekarza” awers rewers „Prawo wykonywania zawodu lekarza dentysty” awers rewers Opis:
+
 1. Dokumenty „Prawo wykonywania zawodu lekarza” i „Prawo wykonywania zawodu lekarza dentysty” wydawane na czas określony mają postać spersonalizowanej dwustronnej karty identyfikacyjnej formatu ID-1, wykonanej z poliwęglanu.
 2. Na stronie pierwszej (awers) w dokumentach „Prawo wykonywania zawodu lekarza” i „Prawo wykonywania zawodu lekarza dentysty” wydawanych na czas określony umieszcza się w warstwie graficznej:
-1) nazwę dokumentu „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”;
+1) nazwę dokumentu – „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”;
 2) wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej;
 3) wizerunek twarzy lekarza albo lekarza dentysty, zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych;
 4) wyrażenia, które określają zamieszczane dane:
@@ -79,18 +83,20 @@ b) organ przyznający prawo wykonywania zawodu,
 c) numer prawa wykonywania zawodu;
 2) adnotację o treści: „Szczegółowe informacje dostępne są w Centralnym Rejestrze Lekarzy i Lekarzy Dentystów Rzeczpospolitej Polskiej: http://rejestr.nil.org.pl/”;
 3) dodaną odpowiednio adnotację:
-a) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia stażu podyplomowego” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 5 ust. 7 albo art. 7 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516, z późn. zm.) lub
-b) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia szkolenia specjalizacyjnego” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
-c) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia stażu adaptacyjnego / przystąpienia do testu umiejętności” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 5f ustawy z dnia 5 grudnia 1996 r.
+a) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia stażu podyplomowego” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 5 ust. 7 albo art. 7 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516, z późn. zm.) lub
+b) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia szkolenia specjalizacyjnego” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
+c) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia stażu adaptacyjnego / przystąpienia do testu umiejętności” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 5f ustawy z dnia 5 grudnia 1996 r.
 o zawodach lekarza i lekarza dentysty, lub
-d) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu odbycia kształcenia podyplomowego / odbycia kształcenia w szkole doktorskiej w celu uzyskania stopnia naukowego / uczestniczenia w badaniach naukowych i pracach rozwojowych” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 1a ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
-e) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w określonym zakresie czynności zawodowych, przez określony czas oraz w określonym miejscu zatrudnienia” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 2e ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
-f) „Dokument uprawnia do warunkowego wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej samodzielnie / pod nadzorem” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 13 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty;
+d) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu odbycia kształcenia podyplomowego / odbycia kształcenia w szkole doktorskiej w celu uzyskania stopnia naukowego / uczestniczenia w badaniach naukowych i pracach rozwojowych” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 1a ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
+e) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w określonym zakresie czynności zawodowych, przez określony czas oraz w określonym miejscu zatrudnienia” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 2e ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
+f) „Dokument uprawnia do warunkowego wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej samodzielnie / pod nadzorem” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 13 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty;
 4) dodaną odpowiednio adnotację o treści: „The (limited) right to practice the profession of a Physician.” albo „The (limited) right to practice the profession of a Dentist.”.
-„Prawo wykonywania zawodu lekarza” w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel „Prawo wykonywania zawodu lekarza dentysty” w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel Opis:
+
+## Załącznik nr 4 — WZORY DOKUMENTÓW „PRAWO WYKONYWANIA ZAWODU LEKARZA” I „PRAWO WYKONYWANIA ZAWODU LEKARZA DENTYSTY” WYDAWANYCH NA CZAS OKREŚLONY, UDOSTĘPNIANYCH W POSTACI DOKUMENTU MOBILNEGO „Prawo wykonywania zawodu lekarza” – w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel „Prawo wykonywania zawodu lekarza dentysty” – w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel Opis:
+
 1. Dokumenty „Prawo wykonywania zawodu lekarza” i „Prawo wykonywania zawodu lekarza dentysty” wydawane na czas określony mają formę dokumentu elektronicznego obsługiwanego przy użyciu odpowiedniej usługi udostępnianej w aplikacji mObywatel.
 2. W dokumentach „Prawo wykonywania zawodu lekarza” i „Prawo wykonywania zawodu lekarza dentysty” wydawanych na czas określony umieszcza się w warstwie graficznej:
-1) nazwę dokumentu „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”;
+1) nazwę dokumentu – „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”;
 2) numer prawa wykonywania zawodu;
 3) datę uzyskania prawa wykonywania zawodu i termin jego ważności;
 4) wskazanie organu przyznającego prawo wykonywania zawodu;
@@ -99,19 +105,21 @@ f) „Dokument uprawnia do warunkowego wykonywania zawodu lekarza / lekarza dent
 7) wizerunek twarzy lekarza albo lekarza dentysty, zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych;
 8) adnotację o treści: „Szczegółowe informacje dostępne są w Centralnym Rejestrze Lekarzy i Lekarzy Dentystów Rzeczpospolitej Polskiej: http://rejestr.nil.org.pl/”;
 9) dodaną odpowiednio adnotację o treści:
-a) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia stażu podyplomowego” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 5 ust. 7 albo art. 7 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty lub
-b) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia szkolenia specjalizacyjnego” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
-c) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia stażu adaptacyjnego / przystąpienia do testu umiejętności” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 5f ustawy z dnia 5 grudnia 1996 r.
+a) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia stażu podyplomowego” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 5 ust. 7 albo art. 7 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty lub
+b) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia szkolenia specjalizacyjnego” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
+c) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu i na czas odbycia stażu adaptacyjnego / przystąpienia do testu umiejętności” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 5f ustawy z dnia 5 grudnia 1996 r.
 o zawodach lekarza i lekarza dentysty, lub
-d) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu odbycia kształcenia podyplomowego / odbycia kształcenia w szkole doktorskiej w celu uzyskania stopnia naukowego / uczestniczenia w badaniach naukowych i pracach rozwojowych” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 1a ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
-e) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w określonym zakresie czynności zawodowych, przez określony czas oraz w określonym miejscu zatrudnienia” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 2e ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
-f) „Dokument uprawnia do warunkowego wykonywania zawodu lekarza/lekarza dentysty na terytorium Rzeczypospolitej Polskiej samodzielnie/pod nadzorem” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 13 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty;
+d) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w celu odbycia kształcenia podyplomowego / odbycia kształcenia w szkole doktorskiej w celu uzyskania stopnia naukowego / uczestniczenia w badaniach naukowych i pracach rozwojowych” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 1a ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
+e) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w określonym zakresie czynności zawodowych, przez określony czas oraz w określonym miejscu zatrudnienia” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 2e ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, lub
+f) „Dokument uprawnia do warunkowego wykonywania zawodu lekarza/lekarza dentysty na terytorium Rzeczypospolitej Polskiej samodzielnie/pod nadzorem” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 13 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty;
 10) dodaną odpowiednio adnotację o treści: „The (limited) right to practice the profession of a Physician.” albo „The (limited) right to practice the profession of a Dentist.”;
 11) numer identyfikujący dokument mobilny.
-12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, wydawanego w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel „Prawo wykonywania zawodu lekarza dentysty”, o którym mowa w art. 113d ust. 1 pkt 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, wydawanego w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel Opis:
+
+## Załącznik nr 5 — WZORY DOKUMENTÓW „PRAWO WYKONYWANIA ZAWODU LEKARZA” I „PRAWO WYKONYWANIA ZAWODU LEKARZA DENTYSTY” WYDAWANYCH NA CZAS OKREŚLONY, UDOSTĘPNIANYCH W POSTACI DOKUMENTU MOBILNEGO „Prawo wykonywania zawodu lekarza”, o którym mowa w art. 113d ust. 1 pkt 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, wydawanego w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel „Prawo wykonywania zawodu lekarza dentysty”, o którym mowa w art. 113d ust. 1 pkt 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, wydawanego w formie dokumentu elektronicznego obsługiwanego przy użyciu aplikacji mObywatel Opis:
+
 1. Dokumenty „Prawo wykonywania zawodu lekarza” oraz „Prawo wykonywania zawodu lekarza dentysty” wydawane na czas określony mają formę dokumentu elektronicznego obsługiwanego przy użyciu dedykowanej usługi udostępnianej w aplikacji mObywatel.
 2. W dokumentach „Prawo wykonywania zawodu lekarza” oraz „Prawo wykonywania zawodu lekarza dentysty” wydawanych na czas określony umieszcza się w warstwie graficznej:
-1) nazwę dokumentu „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”;
+1) nazwę dokumentu – „Prawo wykonywania zawodu lekarza” albo „Prawo wykonywania zawodu lekarza dentysty”;
 2) numer prawa wykonywania zawodu;
 3) datę uzyskania prawa wykonywania zawodu i termin jego ważności;
 4) wskazanie organu przyznającego prawo wykonywania zawodu;
@@ -120,8 +128,8 @@ f) „Dokument uprawnia do warunkowego wykonywania zawodu lekarza/lekarza dentys
 7) wizerunek twarzy lekarza albo lekarza dentysty, zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych;
 8) adnotację o treści: „Szczegółowe informacje dostępne są w Centralnym Rejestrze Lekarzy i Lekarzy Dentystów Rzeczpospolitej Polskiej: http://rejestr.nil.org.pl/”;
 9) dodaną odpowiednio adnotację o treści:
-a) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w określonym zakresie czynności zawodowych, przez określony czas oraz w określonym miejscu zatrudnienia” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 2e ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty albo
-b) „Dokument uprawnia do warunkowego wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej samodzielnie / pod nadzorem” w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 13 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty;
+a) „Dokument uprawnia do wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej wyłącznie w określonym zakresie czynności zawodowych, przez określony czas oraz w określonym miejscu zatrudnienia” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 2e ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty albo
+b) „Dokument uprawnia do warunkowego wykonywania zawodu lekarza / lekarza dentysty na terytorium Rzeczypospolitej Polskiej samodzielnie / pod nadzorem” – w przypadku przyznania prawa wykonywania zawodu na podstawie art. 7 ust. 13 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty;
 10) dodaną odpowiednio adnotację o treści: „The (limited) right to practice the profession of a Physician.” albo „The (limited) right to practice the profession of a Dentist.”;
 11) numer identyfikujący dokument mobilny.
 

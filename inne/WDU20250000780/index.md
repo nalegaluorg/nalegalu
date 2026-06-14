@@ -47,6 +47,14 @@ source: "isap-pdf"
 
 **Art. 5.** W celu wykonania zadań i kompetencji określonych w Konstytucji Rzeczypospolitej Polskiej i ustawach, Prezes Rady Ministrów może w szczególności:
 
+- **1)** wyznaczyć ministrowi zakres spraw, w których minister ten działa z upoważnienia Prezesa Rady Ministrów;
+- **2)** żądać informacji, dokumentów i sprawozdań okresowych lub dotyczących poszczególnej sprawy albo rodzaju spraw od ministra, kierownika urzędu centralnego lub wojewody oraz od pracowników urzędów organów administracji rządowej po zawiadomieniu właściwego ministra, kierownika urzędu centralnego lub wojewody;
+- **3)** zarządzić przeprowadzenie korespondencyjnego uzgodnienia stanowisk członków Rady Ministrów;
+- **4)** zwoływać, brać udział i przewodniczyć posiedzeniom organów pomocniczych Rady Ministrów lub Prezesa Rady Ministrów, bez względu na ich skład i zakres działania;
+- **5)** zwoływać posiedzenia, z udziałem właściwych ministrów, kierowników urzędów centralnych lub wojewodów i im przewodniczyć;
+- **6)** przekazać, z urzędu lub na wniosek właściwego organu albo na wniosek strony, sprawę należącą do właściwości więcej niż jednego ministra lub kierownika centralnego urzędu do załatwienia wskazanemu przez siebie ministrowi, zawiadamiając o tym wszystkie inne właściwe organy oraz strony;
+- **7)** rozstrzygać o zakresie działania ministrów w razie sporu kompetencyjnego między ministrami.
+
 **Art. 6.**
 
 1. W razie nieobecności Prezesa Rady Ministrów lub w innym wypadku czasowej niemożności wykonywania przez niego obowiązków w Radzie Ministrów, pracami Rady Ministrów kieruje wiceprezes Rady Ministrów wyznaczony przez Prezesa Rady Ministrów lub jeden z ministrów, jeżeli wiceprezes Rady Ministrów nie został powołany.
@@ -117,6 +125,9 @@ source: "isap-pdf"
 5. Zasady i tryb udzielania odpowiedzi na interpelacje i zapytania poselskie regulują odrębne przepisy.
 
 **Art. 9a.** W przypadku konieczności usunięcia skutków związanych z wystąpieniem klęski żywiołowej, sytuacji kryzysowej lub innych zdarzeń powodujących potrzebę odbudowy, w szczególności infrastruktury drogowej, kolejowej, energetycznej, telekomunikacyjnej oraz urządzeń wodnych, zadania związane z:
+
+- **1)** inicjowaniem i koordynowaniem działań w zakresie odbudowy,
+- **2)** opracowaniem projektu planu odbudowy – mogą zostać powierzone powołanemu w tym celu ministrowi.
 
 **Art. 9b.**
 
@@ -252,7 +263,56 @@ source: "isap-pdf"
 
 **Art. 14b.** Rządowe Centrum Legislacji, zwane dalej „Centrum”:
 
+- **1)** zapewnia koordynację działalności legislacyjnej Rady Ministrów, Prezesa Rady Ministrów i innych organów administracji rządowej;
+- **2)** zapewnia obsługę Rady Legislacyjnej;
+- **3)** prowadzi aplikację legislacyjną oraz działalność edukacyjną i szkoleniową polegającą na upowszechnianiu i popularyzowaniu wiedzy o legislacji, a także ujednolicaniu praktyki legislacyjnej;
+- **4)** zapewnia dostęp do informacji o prawie oraz o przebiegu rządowego procesu legislacyjnego.
+
 **Art. 14c.** Centrum zapewnia obsługę prawną Rady Ministrów poprzez:
+
+- **1)** opracowywanie rządowych projektów ustaw na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów, chyba że na podstawie odrębnych przepisów opracowywanie określonych rodzajów projektów ustaw należy do właściwości innych podmiotów;
+- **2)** opracowywanie stanowisk prawno-legislacyjnych do rządowych projektów aktów prawnych innych niż określone w pkt 1 oraz do projektów założeń projektów ustaw;
+- **3)** opracowywanie pod względem legislacyjnym rządowych projektów aktów prawnych innych niż określone w pkt 1, skierowanych do rozpatrzenia przez Radę Ministrów, w tym poprzez ich ocenę pod względem prawnym i redakcyjnym przez Komisję Prawniczą prowadzoną przez Centrum;
+- **3a)** zapewnienie udziału Rady Ministrów i Prezesa Rady Ministrów w postępowaniu przed Trybunałem Konstytucyjnym;
+- **4)** analizowanie orzecznictwa Trybunału Konstytucyjnego, Sądu Najwyższego i Naczelnego Sądu Administracyjnego, a także Trybunału Sprawiedliwości Unii Europejskiej w szczególności w zakresie wpływu na polski system prawa;
+- **5)** koordynowanie pod względem prawnym i formalnym przebiegu uzgodnień rządowych projektów aktów prawnych;
+- **6)** wydawanie, z upoważnienia Prezesa Rady Ministrów, na zasadach i w trybie określonych w odrębnych przepisach Dziennika Ustaw Rzeczypospolitej Polskiej oraz Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski”;
+- **7)** współdziałanie z ministrem właściwym do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej w sprawie dostosowania prawa polskiego do prawa Unii Europejskiej i jego wykonywania;
+- **8)** współdziałanie z Radą Legislacyjną w zakresie opiniowania rządowych projektów aktów normatywnych pod względem ich zgodności z Konstytucją Rzeczypospolitej Polskiej oraz spójności z polskim systemem prawa;
+- **9)** monitorowanie wydawania przez organy administracji rządowej przepisów wykonawczych do ustaw;
+- **10)** wykonywanie innych zadań określonych w odrębnych przepisach lub wskazanych przez Prezesa Rady Ministrów. Art. 14ca. 1. Aplikantem aplikacji legislacyjnej może być:
+- **1)** mający wykształcenie prawnicze: o pracownikach urzędów państwowych (Dz. U. z 2025 r. poz. 1459 oraz z 2026 r. poz. 26 i 160),
+    - **a)** członek korpusu służby cywilnej, o którym mowa w art. 110 ust. 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409, z 2025 r. poz. 620 i 1661 oraz z 2026 r. poz. 26 i 160),
+    - **b)** urzędnik, o którym mowa w art. 7 ust. 1 ustawy z dnia 16 września 1982 r.
+    - **c)** żołnierz zawodowy,
+    - **d)** funkcjonariusz służby,
+    - **e)** pracownik samorządowy;
+
+- **2)** adwokat;
+- **3)** notariusz;
+- **4)** prokurator;
+- **5)** radca prawny;
+- **6)** sędzia.
+
+2. W szczególnie uzasadnionych przypadkach Prezes Centrum może wyrazić zgodę na udział w aplikacji legislacyjnej osoby mającej wykształcenie prawnicze, zatrudnionej na stanowisku do spraw legislacji, innej niż osoby wymienione w ust. 1. Art. 14cb. Aplikacja legislacyjna kończy się egzaminem składanym przed komisją egzaminacyjną. Art. 14cc. 1. Prezes Centrum powołuje i odwołuje:
+
+- **1)** Radę Programową;
+- **2)** kierownika aplikacji legislacyjnej.
+
+2. Do zadań Rady Programowej należy wspieranie Prezesa Centrum oraz kierownika aplikacji legislacyjnej w zakresie ustalania przebiegu aplikacji legislacyjnej.
+
+3. Do zadań kierownika aplikacji legislacyjnej należy zapewnienie należytego przebiegu aplikacji legislacyjnej. Art. 14cd. 1. Aplikacja legislacyjna jest odpłatna.
+
+2. Wysokość opłaty wynosi do 4-krotności przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26). Art. 14ce. Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki prowadzenia aplikacji legislacyjnej,
+- **2)** sposób i tryb organizowania i odbywania aplikacji legislacyjnej, w tym skład komisji egzaminacyjnej,
+- **3)** szczegółowe zadania Rady Programowej i liczbę jej członków,
+- **4)** szczegółowe zadania kierownika aplikacji legislacyjnej,
+- **5)** zadania aplikantów aplikacji legislacyjnej,
+- **6)** sposób zorganizowania obsługi aplikacji legislacyjnej, w tym przekazywania środków przeznaczonych na finansowanie tej aplikacji i rozliczania wydatków związanych z tą aplikacją,
+- **7)** wysokość opłaty za udział w aplikacji legislacyjnej i sposób jej uiszczania,
+- **8)** wzór zaświadczenia stwierdzającego zdanie egzaminu i ukończenie aplikacji legislacyjnej – uwzględniając konieczność zapewnienia wysokiego poziomu kształcenia w ramach aplikacji legislacyjnej, w tym zapewnienia znajomości przepisów prawa istotnych dla poprawnego przebiegu procesu legislacyjnego oraz zasad techniki prawodawczej, właściwej organizacji aplikacji legislacyjnej, a także konieczność prawidłowego wydania zaświadczenia.
 
 **Art. 14d.** Centrum współdziała z podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), oraz innymi jednostkami organizacyjnymi prowadzącymi działalność związaną z zadaniami Centrum.
 
@@ -443,6 +503,20 @@ source: "isap-pdf"
 **Art. 28.** Prezes Rady Ministrów powołuje i odwołuje sekretarzy i podsekretarzy stanu w Kancelarii.
 
 **Art. 29.** Do zadań, które z upoważnienia Prezesa Rady Ministrów realizuje Kancelaria, należy w szczególności:
+
+- **1)** (uchylony) 1a) dokonywanie ocen skutków (kosztów i korzyści) społeczno-gospodarczych projektowanych regulacji oraz sporządzanie ocen tych skutków, w tym projektów powodujących istotne długookresowe następstwa w rozwoju społecznym i gospodarczym;
+- **1b)** opracowywanie ocen międzynarodowych uwarunkowań sytuacji kraju oraz długofalowych koncepcji polityki zagranicznej;
+- **1c)** opracowywanie ocen funkcjonalności struktur państwa i sprawności ich działania;
+- **1d)** przygotowywanie innych analiz, prognoz, koncepcji, programów i ocen, zleconych przez Prezesa Rady Ministrów;
+- **1e)** opiniowanie projektów dokumentów rządowych pod względem ich zgodności z celami polityki Rządu oraz prognozowanymi skutkami społecznymi, gospodarczymi i prawnymi;
+- **2)** (uchylony)
+- **3)** koordynacja realizacji polityki kadrowej w administracji rządowej, w zakresie określonym w odrębnych przepisach;
+- **4)** obsługa spraw kadrowych osób zajmujących kierownicze stanowiska państwowe w administracji rządowej;
+- **5)** koordynacja współdziałania Rady Ministrów i Prezesa Rady Ministrów z Sejmem Rzeczypospolitej Polskiej, Senatem Rzeczypospolitej Polskiej, Prezydentem Rzeczypospolitej Polskiej i innymi organami państwowymi;
+- **6)** obsługa informacyjna oraz prasowa Rady Ministrów, Prezesa Rady Ministrów oraz wewnętrznych organów pomocniczych i opiniodawczo-doradczych Rady Ministrów;
+- **7)** (uchylony)
+- **8)** wykonywanie zadań z zakresu obronności i bezpieczeństwa państwa określonych w odrębnych przepisach;
+- **9)** wykonywanie innych zadań określonych w odrębnych przepisach lub zleconych przez Prezesa Rady Ministrów.
 
 **Art. 30.** (uchylony)
 

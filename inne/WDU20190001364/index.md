@@ -8,10 +8,10 @@ pos: 1364
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 lipca 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1364 Załączniki do rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 17 lipca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001364) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1364/text.pdf) |
 
-## Załącznik nr 1 — Standard kształcenia przygotowującego do wykonywania zawodu lekarza weterynarii I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
-
+(poz. …..) Załącznik nr 1 Standard kształcenia przygotowującego do wykonywania zawodu lekarza weterynarii I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
 1. WYMAGANIA OGÓLNE
 1.1. Standard ma zastosowanie do kształcenia na kierunku weterynaria prowadzonym na poziomie jednolitych studiów magisterskich, zwanych dalej „studiami”.
 1.2. Studia stacjonarne trwają 11 albo 12 semestrów. Studia niestacjonarne mogą trwać dłużej niż studia stacjonarne.
 1.3. Liczba godzin zajęć realizowanych w ramach studiów, w tym praktyk zawodowych, nie może być mniejsza niż 5200.
 1.4. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 360.
-1.5. Kierunek weterynaria jest przyporządkowany do dyscypliny naukowej weterynaria jako dyscypliny wiodącej.
+1.5. Kierunek weterynaria jest przyporządkowany do dyscypliny naukowej – weterynaria jako dyscypliny wiodącej.
 2. ZAJĘCIA I GRUPY ZAJĘĆ Kształcenie jest realizowane w postaci zajęć lub grup zajęć przygotowujących do wykonywania zawodu lekarza weterynarii w ramach grup zajęć A–E: A. zajęcia w zakresie nauk podstawowych (fizyka, chemia, biochemia, biologia świata zwierząt i roślin, mikrobiologia, anatomia z histologią i embriologią, fizjologia, genetyka, farmakologia, farmacja, toksykologia, immunologia, epidemiologia, matematyka stosowana nauk biologicznych, etyka zawodowa);
 B. zajęcia w zakresie kierunkowym:
 1) nauki kliniczne (położnictwo, patologia z anatomią patologiczną, parazytologia, chirurgia ogólna z anestezjologią, diagnostyka laboratoryjna i kliniczna, zajęcia kliniczne dotyczące chorób wewnętrznych, zakaźnych, chirurgii i rozrodu zwierząt domowych, chorób drobiu i innych zwierząt, profilaktyka, radiologia, rozród i zaburzenia rozrodu, organizacja i funkcjonowanie Inspekcji Weterynaryjnej, zdrowie publiczne, prawodawstwo weterynaryjne, medycyna sądowa, postępowanie terapeutyczne, propedeutyka),
@@ -43,9 +42,9 @@ D. staże kliniczne;
 E. praktyki zawodowe.
 Kształcenie teoretyczne i praktyczne w poszczególnych grupach zajęć jest rozłożone, zrównoważone i skoordynowane w taki sposób, że nabyte wiadomości i umiejętności pozwalają lekarzowi weterynarii na realizację wszystkich powierzonych mu zadań.
 W przypadku studiów o profilu:
-1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów, i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
-2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
-3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których Liczba godzin Liczba punktów ECTS osiąga się szczegółowe efekty uczenia się A. Zajęcia w zakresie nauk 1170 90 podstawowych B. Zajęcia w zakresie 1870 kierunkowym: B1. nauki kliniczne B2. produkcja zwierzęca B3. higiena żywności 135 C. Zajęcia uzupełniające 150 15 D. Staże kliniczne 360 22 E. Praktyki zawodowe 560 15 RAZEM 4110 277 Do dyspozycji uczelni pozostawia się 1090 godzin zajęć (83 punkty ECTS), które mogą być realizowane jako zajęcia uzupełniające wiedzę, umiejętności lub kompetencje społeczne, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
+1) ogólnoakademickim – program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów, i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym – program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których Liczba godzin Liczba punktów ECTS osiąga się szczegółowe efekty uczenia się A. Zajęcia w zakresie nauk 1170 90 podstawowych B. Zajęcia w zakresie 1870 135 kierunkowym: B1. nauki kliniczne B2. produkcja zwierzęca B3. higiena żywności C. Zajęcia uzupełniające 150 15 D. Staże kliniczne 360 22 E. Praktyki zawodowe 560 15 RAZEM 4110 277 Do dyspozycji uczelni pozostawia się 1090 godzin zajęć (83 punkty ECTS), które mogą być realizowane jako zajęcia uzupełniające wiedzę, umiejętności lub kompetencje społeczne, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
 Wychowanie fizyczne jest przedmiotem obowiązkowym na studiach stacjonarnych, prowadzonym w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
 Program studiów umożliwia studentom uzyskanie nie mniej niż 5 punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych i nauk społecznych.
 Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 10% liczby punktów ECTS koniecznej do ukończenia studiów.
@@ -59,7 +58,7 @@ Kształcenie służące osiągnięciu efektów uczenia się w grupie zajęć B j
 III. EFEKTY UCZENIA SIĘ
 1. OGÓLNE EFEKTY UCZENIA SIĘ
 1.1. W zakresie wiedzy absolwent zna i rozumie:
-1) zasady i mechanizmy leżące u podstaw zdrowia zwierząt, a także powstawania chorób i ich terapii od poziomu komórki przez narząd, zwierzę do całej populacji zwierząt;
+1) zasady i mechanizmy leżące u podstaw zdrowia zwierząt, a także powstawania chorób i ich terapii – od poziomu komórki przez narząd, zwierzę do całej populacji zwierząt;
 2) rozwój, budowę, funkcjonowanie, zachowania i mechanizmy fizjologiczne zwierząt w warunkach prawidłowych i mechanizmy zaburzeń w warunkach patologicznych;
 3) etiologię, patogenezę i objawy kliniczne chorób występujących u poszczególnych gatunków zwierząt oraz zasady postępowania terapeutycznego;
 4) sposoby postępowania diagnostycznego i terapeutycznego właściwe dla stanów chorobowych występujących u zwierząt;
@@ -109,7 +108,7 @@ A.W6. podstawowe reakcje związków organicznych i nieorganicznych w roztworach 
 A.W7. prawa fizyczne opisujące przepływ cieczy oraz czynniki wpływające na opór naczyniowy przepływu krwi;
 A.W8. fizykochemiczne i molekularne podstawy działania narządów zmysłów;
 A.W9. mechanizm regulacji neurohormonalnej, reprodukcji, starzenia się i śmierci;
-A.W10. zasady i mechanizmy leżące u podstaw zdrowia zwierząt, powstawania chorób i ich terapii od poziomu komórki, przez narząd, zwierzę, stado zwierząt do całej populacji zwierząt;
+A.W10. zasady i mechanizmy leżące u podstaw zdrowia zwierząt, powstawania chorób i ich terapii – od poziomu komórki, przez narząd, zwierzę, stado zwierząt do całej populacji zwierząt;
 A.W11. związek pomiędzy czynnikami zaburzającymi stan równowagi procesów biologicznych organizmu zwierzęcego a zmianami fizjologicznymi i patofizjologicznymi;
 A.W12. zmiany patofizjologiczne komórek, tkanek, narządów i układów zwierząt oraz mechanizmy biologiczne, w tym immunologiczne, a także możliwości terapeutyczne umożliwiające powrót do zdrowia;
 A.W13. biologię czynników zakaźnych wywołujących choroby przenoszone między zwierzętami oraz antropozoonozy, z uwzględnieniem mechanizmów przenoszenia choroby oraz mechanizmów obronnych organizmu;
@@ -163,7 +162,7 @@ B.W14. zasady układania i analizowania dawek pokarmowych;
 B.W15. sposoby zagospodarowywania i utylizacji produktów ubocznych i odpadów związanych z produkcją zwierzęcą;
 B.W16. zasady funkcjonowania Inspekcji Weterynaryjnej, także w aspekcie zdrowia publicznego;
 B.W17. zasady ochrony zdrowia konsumenta zapewniane przez właściwy nadzór nad produkcją środków spożywczych pochodzenia zwierzęcego;
-B.W18. systemy kontroli zgodne z procedurami HACCP (Hazard Analysis and Critical Control Points) Systemu Analizy Zagrożeń i Krytycznych Punktów Kontroli;
+B.W18. systemy kontroli zgodne z procedurami HACCP (Hazard Analysis and Critical Control Points) – Systemu Analizy Zagrożeń i Krytycznych Punktów Kontroli;
 B.W19. procedury badania przed- i poubojowego;
 B.W20. warunki higieny i technologii produkcji zwierzęcej;
 B.W21. zasady prawa żywnościowego;
@@ -205,7 +204,9 @@ Osiągnięcie efektów uczenia się w zakresie wiedzy można sprawdzać za pomoc
 Jako formy egzaminów pisemnych można stosować: eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru, testy wielokrotnej odpowiedzi, testy wyboru tak/nie lub testy dopasowania odpowiedzi.
 Egzaminy ustne są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
 Weryfikacja osiągnięcia efektów uczenia się w zakresie umiejętności, które dotyczą komunikowania się i umiejętności proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w czasie egzaminu.
-Standard kształcenia przygotowującego do wykonywania zawodu lekarza weterynarii A. SPOSÓB ORGANIZACJI KSZTAŁCENIA I. WYMAGANIA OGÓLNE
+
+## Załącznik nr 2 — Standard kształcenia przygotowującego do wykonywania zawodu lekarza weterynarii A. SPOSÓB ORGANIZACJI KSZTAŁCENIA I. WYMAGANIA OGÓLNE
+
 1. Jednolite studia magisterskie na kierunku weterynaria trwają 11 albo 12 semestrów. Studia niestacjonarne mogą trwać dłużej niż studia stacjonarne. Liczba godzin zajęć i praktyk nie może być mniejsza niż 5100. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 360.
 2. Kształcenie na kierunku weterynaria obejmuje:
 1) zajęcia z zakresu podstawowego (fizyka, chemia, biologia, matematyka stosowana w naukach biologicznych);
@@ -218,10 +219,10 @@ d) higiena żywności (inspekcja i kontrola środków żywienia zwierząt oraz �
 a) języka łacińskiego, języka obcego nowożytnego i przedmiotów humanistycznych,
 b) podstaw informatyki,
 c) wychowania fizycznego.
-Kształcenie może odbywać się w ramach lub w związku z innymi zajęciami.
+2 Kształcenie może odbywać się w ramach lub w związku z innymi zajęciami.
 Kształcenie praktyczne może przybierać formę stażu realizowanego pod bezpośrednim nadzorem nauczyciela akademickiego lub innej osoby prowadzącej zajęcia.
 Kształcenie teoretyczne i praktyczne w poszczególnych grupach zajęć jest rozłożone, zrównoważone i skoordynowane w taki sposób, aby nabyte wiadomości i umiejętności pozwalały lekarzowi weterynarii na realizację wszystkich powierzonych zadań.
-Kierunek weterynaria jest przyporządkowany do dyscypliny naukowej weterynaria jako dyscypliny wiodącej.
+Kierunek weterynaria jest przyporządkowany do dyscypliny naukowej – weterynaria jako dyscypliny wiodącej.
 II. ZAJĘCIA I GRUPY ZAJĘĆ
 1. ZAJĘCIA I GRUPY ZAJĘĆ, MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH ORAZ MINIMALNA LICZBA PUNKTÓW ECTS GRUPY ZAJĘĆ Godziny ECTS A.ZAJĘCIA Z ZAKRESU PODSTAWOWEGO 1185 87 B.ZAJĘCIA Z ZAKRESU KIERUNKOWEGO 1785 130 Razem 2970 217
 2. SKŁADNIKI ZAJĘĆ W GRUPACH, MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH ORAZ MINIMALNA LICZBA PUNKTÓW ECTS GRUPY ZAJĘĆ Godziny ECTS A.ZAJĘCIA Z ZAKRESU PODSTAWOWEGO 1185 87 Zajęcia w zakresie:
@@ -235,7 +236,7 @@ II. ZAJĘCIA I GRUPY ZAJĘĆ
 8.Anatomii topograficznej 45
 9.Fizjologii zwierząt 120
 10.Mikrobiologii 105
-11. Immunologii 45
+11. Immunologii 45 3
 12.Genetyki ogólnej i weterynaryjnej 30
 13.Epidemiologii weterynaryjnej 30
 14.Patofizjologii 90
@@ -267,7 +268,7 @@ II. ZAJĘCIA I GRUPY ZAJĘĆ
 20.Chorób ryb 15
 21.Chorób owadów użytkowych 15
 22.Higieny zwierząt rzeźnych i mięsa 90
-23.Higieny produktów pochodzenia zwierzęcego 90
+23.Higieny produktów pochodzenia zwierzęcego 90 4
 24.Higieny mleka 30
 25.Zoonoz 15
 26.Higieny środków żywienia zwierząt 30
@@ -277,7 +278,7 @@ II. ZAJĘCIA I GRUPY ZAJĘĆ
 3. STAŻE KLINICZNE Ostatnie dwa semestry studiów są ukierunkowane na kształcenie praktyczne, realizowane w ramach staży klinicznych pod nadzorem nauczyciela akademickiego lub innej osoby prowadzącej zajęcia.
 Rodzaj stażu Godziny ECTS Choroby ptaków 30 2 Choroby zwierząt gospodarskich 90 6 Choroby psów i kotów 90 6 Choroby koni 90 6
 4. PRAKTYKI ZAWODOWE Praktyki zawodowe obejmują swym zakresem poznanie praktycznych aspektów postępowania lekarsko-weterynaryjnego na fermach produkcji zwierzęcej, w zakładach leczniczych dla zwierząt, rzeźniach oraz zakładach przetwórstwa produktów pochodzenia zwierzęcego i produkcji środków żywienia zwierząt, a także w zakresie unasienniania zwierząt.
-Rodzaj praktyki Okres realizacji Czas trwania tygodnie godziny Praktyka hodowlana po 4 semestrze 2 80 Praktyka kliniczna po 8 semestrze 4 160 Praktyka w Inspekcji Weterynaryjnej po 8 semestrze 2 80 Praktyka kliniczna po 10 semestrze 4 160 Praktyka w Inspekcji Weterynaryjnej po 10 semestrze 2 80 Praktykom zawodowym należy przypisać 15 punktów ECTS. Zasady i formę odbywania praktyk ustala uczelnia prowadząca kształcenie.
+Rodzaj praktyki Okres realizacji Czas trwania tygodnie godziny Praktyka hodowlana po 4 semestrze 2 80 Praktyka kliniczna po 8 semestrze 4 160 Praktyka w Inspekcji Weterynaryjnej po 8 semestrze 2 80 Praktyka kliniczna po 10 semestrze 4 160 Praktyka w Inspekcji Weterynaryjnej po 10 semestrze 2 80 5 Praktykom zawodowym należy przypisać 15 punktów ECTS. Zasady i formę odbywania praktyk ustala uczelnia prowadząca kształcenie.
 Godziny niezapisane w minimalnej liczbie godzin zajęć zorganizowanych pozostają w dyspozycji uczelni prowadzących kształcenie i mogą być przeznaczone na zwiększenie liczby godzin w grupach zajęć z zakresu podstawowego, kierunkowego (w tym zajęć do wyboru) oraz na zajęcia z zakresu zajęć dodatkowych, a także zajęć z zakresu przedmiotów humanistycznych, własności intelektualnej, bezpieczeństwa i higieny pracy oraz ergonomii.
 B. OSOBY PROWADZĄCE KSZTAŁCENIE Zajęcia są prowadzone przez nauczycieli akademickich zatrudnionych w danej uczelni posiadających kompetencje i doświadczenie pozwalające na prawidłową realizację zajęć oraz przez inne osoby, które posiadają takie kompetencje i doświadczenie. Kompetencjami lub doświadczeniem pozwalającym na prawidłową realizację zajęć może być w szczególności prawo wykonywania zawodu lekarza weterynarii.
 C. EFEKTY UCZENIA SIĘ Efekty uczenia się są nabywane w ramach osiągania zasadniczych celów uczenia się, do których należą:
@@ -294,26 +295,26 @@ h) uregulowań prawnych związanych z wykonywaniem tego zawodu;
 3) przygotowanie się do pracy samodzielnej i w zespole, komunikacji z właścicielami zwierząt, formułowania opinii oraz prowadzenia odpowiedniej dokumentacji;
 4) wykształcenie poczucia odpowiedzialności za innych członków zespołu, w tym podwładnych, oraz za pacjentów;
 5) nabycie nawyku i poczucia konieczności ustawicznego kształcenia i korzystania z umiejętności doświadczonych lekarzy weterynarii.
-I. OGÓLNE EFEKTY UCZENIA SIĘ
+6 I. OGÓLNE EFEKTY UCZENIA SIĘ
 1. Nabyte w procesie uczenia się efekty w zakresie zajęć z grupy zajęć podstawowych: fizyki, chemii, biologii i matematyki stosowanej w naukach biologicznych dają absolwentowi przygotowanie do wykorzystania nabytej wiedzy przy rozwiązywaniu problemów występujących w procesie dalszej nauki.
 2. W ramach nabytych w procesie uczenia się efektów w zakresie zajęć z grupy zajęć kierunkowych:
 1) nauk podstawowych: anatomia (z histologią i embriologią), fizjologia, biochemia, genetyka, farmakologia, farmacja, toksykologia, mikrobiologia, immunologia, epidemiologia i etyka zawodowa − absolwent opisuje i interpretuje podstawowe zasady i mechanizmy leżące u podstaw zdrowia zwierząt, chorób i terapii, od poziomu komórki przez narząd i od zwierzęcia do całej populacji zwierząt, a także wykazuje się wiedzą z zakresu prawidłowej struktury i funkcji, mechanizmów regulujących homeostazę, zmian patofizjologicznych w narządach i układach oraz mechanizmów biologicznych i farmakologicznych umożliwiających powrót do zdrowia, a także z zakresu biologii czynników zakaźnych powodujących choroby przenoszone między zwierzętami oraz antropozoonozy, z uwzględnieniem mechanizmów przenoszenia choroby oraz mechanizmów obronnych makroorganizmu;
 2) nauk klinicznych: położnictwo, patologia (z anatomią patologiczną), parazytologia, chirurgia ogólna z anestezjologią, zajęcia kliniczne dotyczące chorób wewnętrznych, zakaźnych, chirurgii i rozrodu zwierząt domowych, chorób drobiu i innych zwierząt, profilaktyka, radiologia, rozród i zaburzenia rozrodu, państwowa służba weterynaryjna i ochrona zdrowia publicznego, ustawodawstwo weterynaryjne i medycyna sądowa, postępowanie terapeutyczne i propedeutyka − absolwent wykazuje się wiedzą i umiejętnościami niezbędnymi do: przeprowadzania klinicznego badania pacjentów zgodnie z planem badania klinicznego, wnikliwej analizy objawów klinicznych i zmian anatomopatologicznych, zbierania, analizy i właściwej interpretacji danych klinicznych oraz wyników badań laboratoryjnych i dodatkowych, formułowania rozpoznania, z uwzględnieniem diagnostyki różnicowej, podejmowania czynności terapeutycznych lub profilaktycznych, monitorowania stanu zdrowia stada w hodowli wielkotowarowej, podejmowania właściwych działań w przypadku stwierdzenia choroby podlegającej obowiązkowi zgłaszania;
-3) produkcji zwierzęcej: technologie w produkcji zwierzęcej, żywienie zwierząt, agronomia, ekonomika rolnictwa, chów i hodowla zwierząt, higiena weterynaryjna, etologia i ochrona zwierząt − absolwent wykazuje się wiedzą z zakresu chowu i hodowli zwierząt, z uwzględnieniem zasad żywienia zwierząt, zasad zachowania ich dobrostanu oraz zasad ekonomiki produkcji, zna sposoby zagospodarowywania i utylizacji produktów ubocznych i odpadów związanych z produkcją zwierzęcą;
-4) higieny żywności: inspekcja i kontrola środków żywienia zwierząt oraz środków spożywczych pochodzenia zwierzęcego, higiena i technologia żywności, kształcenie praktyczne (w tym w ubojniach i zakładach przetwórczych środków spożywczych pochodzenia zwierzęcego) − absolwent: rozumie zasady ochrony zdrowia konsumenta, posiada umiejętność właściwego nadzoru nad produkcją środków spożywczych pochodzenia zwierzęcego, zna normy, zasady i uwarunkowania technologii produkcji i utrzymania higieny procesu technologicznego oraz potrafi dokonywać interpretacji aktów prawnych regulujących właściwy nadzór weterynaryjny, potrafi przeprowadzać badania przed- i poubojowe oraz stosować systemy kontroli zgodne z procedurami HACCP (Hazard Analysis and Critical Control Points) Systemu Analizy Zagrożeń i Krytycznych Punktów Kontroli; umiejętności te wymagają zaawansowanej, specjalistycznej wiedzy z zakresu patologii, mikrobiologii, parazytologii, farmakologii, toksykologii i epidemiologii.
+3) produkcji zwierzęcej: technologie w produkcji zwierzęcej, żywienie zwierząt, agronomia, ekonomika rolnictwa, chów i hodowla zwierząt, higiena weterynaryjna, etologia i ochrona zwierząt − absolwent wykazuje się wiedzą z zakresu chowu i hodowli zwierząt, 7 z uwzględnieniem zasad żywienia zwierząt, zasad zachowania ich dobrostanu oraz zasad ekonomiki produkcji, zna sposoby zagospodarowywania i utylizacji produktów ubocznych i odpadów związanych z produkcją zwierzęcą;
+4) higieny żywności: inspekcja i kontrola środków żywienia zwierząt oraz środków spożywczych pochodzenia zwierzęcego, higiena i technologia żywności, kształcenie praktyczne (w tym w ubojniach i zakładach przetwórczych środków spożywczych pochodzenia zwierzęcego) − absolwent: rozumie zasady ochrony zdrowia konsumenta, posiada umiejętność właściwego nadzoru nad produkcją środków spożywczych pochodzenia zwierzęcego, zna normy, zasady i uwarunkowania technologii produkcji i utrzymania higieny procesu technologicznego oraz potrafi dokonywać interpretacji aktów prawnych regulujących właściwy nadzór weterynaryjny, potrafi przeprowadzać badania przed- i poubojowe oraz stosować systemy kontroli zgodne z procedurami HACCP (Hazard Analysis and Critical Control Points) – Systemu Analizy Zagrożeń i Krytycznych Punktów Kontroli; umiejętności te wymagają zaawansowanej, specjalistycznej wiedzy z zakresu patologii, mikrobiologii, parazytologii, farmakologii, toksykologii i epidemiologii.
 3. W ramach nabytych w procesie uczenia się efektów w zakresie zajęć dodatkowych:
 1) języka łacińskiego, języka obcego nowożytnego i przedmiotów humanistycznych − absolwent potrafi umiejętnie biernie i czynnie posługiwać się lekarską nomenklaturą łacińską w stopniu niezbędnym do rozumienia i opisywania czynności lekarskich, stanu zdrowia zwierząt, chorób oraz stanów i zmian patologicznych oraz ma opanowaną bierną i czynną znajomość nowożytnego języka obcego w stopniu pozwalającym na komunikację i konsultacje na zaawansowanym poziomie z lekarzami weterynarii i innymi specjalistami z dyscyplin pokrewnych, w tym specjalistami z zagranicy;
 2) podstaw informatyki − absolwent zna i potrafi używać systemów informatycznych stosowanych do obsługi lecznicy, stada oraz do analizy sytuacji epizootycznej;
-3) wychowania fizycznego absolwent posiada niezbędną sprawność fizyczną konieczną do pracy z niektórymi gatunkami zwierząt.
+3) wychowania fizycznego – absolwent posiada niezbędną sprawność fizyczną konieczną do pracy z niektórymi gatunkami zwierząt.
 II. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ
 1. Absolwent w ramach nabytych w procesie uczenia się efektów w zakresie wiedzy z grupy zajęć kierunkowych:
 1) nauki podstawowe:
-a) zna i opisuje prawidłowe struktury organizmu zwierzęcego: komórek, tkanek, narządów i układów,
+a) zna i opisuje prawidłowe struktury organizmu zwierzęcego: komórek, tkanek, narządów i układów, 8
 b) zna budowę, opisuje i wyjaśnia funkcje poszczególnych układów organizmu zwierzęcego (oddechowego, pokarmowego, krążenia, wydalniczego, nerwowego, ruchu, rozrodczego, hormonalnego, immunologicznego) oraz skóry,
 c) opisuje i interpretuje rozwój narządów i całego organizmu w relacji do organizmu dorosłego,
 d) opisuje i wyjaśnia procesy metaboliczne na poziomie molekularnym, komórkowym, narządowym i ustrojowym,
 e) opisuje i wyjaśnia zjawiska homeostazy, regulacji neurohormonalnej, reprodukcji, starzenia się i śmierci,
-f) opisuje, wyjaśnia i interpretuje zasady i mechanizmy leżące u podstaw zdrowia zwierząt, powstawania chorób i ich terapii od poziomu komórki, przez narząd, zwierzę, stado zwierząt do całej populacji zwierząt,
+f) opisuje, wyjaśnia i interpretuje zasady i mechanizmy leżące u podstaw zdrowia zwierząt, powstawania chorób i ich terapii – od poziomu komórki, przez narząd, zwierzę, stado zwierząt do całej populacji zwierząt,
 g) zna i interpretuje zmiany patofizjologiczne w narządach i układach oraz mechanizmy biologiczne (w tym immunologiczne) i farmakologiczne umożliwiające powrót do zdrowia,
 h) identyfikuje i opisuje biologię czynników zakaźnych wywołujących choroby przenoszone między zwierzętami oraz antropozoonozy, z uwzględnieniem mechanizmów przenoszenia choroby oraz mechanizmów obronnych organizmu,
 i) definiuje i opisuje zasady i procesy dziedziczenia, rozpoznaje zaburzenia genetyczne i zna podstawy inżynierii genetycznej,
@@ -325,7 +326,7 @@ n) posługuje się językiem obcym nowożytnym w stopniu umożliwiającym komuni
 2) nauki kliniczne:
 a) opisuje, wyjaśnia i interpretuje zaburzenia na poziomie komórki, tkanki, narządu, układu i organizmu w przebiegu choroby,
 b) opisuje, wyjaśnia i interpretuje mechanizmy patologii narządowych i ustrojowych,
-c) opisuje i interpretuje przyczyny i objawy, opisuje i interpretuje zmiany anatomopatologiczne, stosuje zasady leczenia i zapobiegania w poszczególnych jednostkach chorobowych,
+c) opisuje i interpretuje przyczyny i objawy, opisuje i interpretuje zmiany anatomopatologiczne, stosuje zasady leczenia i zapobiegania w poszczególnych jednostkach chorobowych, 9
 d) wdraża zasady postępowania diagnostycznego (z uwzględnieniem diagnostyki różnicowej) i terapeutycznego,
 e) przeprowadza badanie kliniczne pacjenta oraz monitoruje stan zdrowia zwierząt w hodowli wielkotowarowej,
 f) stosuje właściwy tryb postępowania w przypadku stwierdzenia chorób podlegających obowiązkowi zgłaszania,
@@ -343,8 +344,8 @@ f) opisuje warunki właściwego zagospodarowywania i utylizacji produktów ubocz
 a) opisuje i interpretuje zasady ochrony zdrowia konsumenta przez właściwy nadzór nad produkcją środków spożywczych pochodzenia zwierzęcego,
 b) opisuje, interpretuje i ocenia warunki higieny i technologii produkcji oraz bezpieczeństwa żywności, a także posługuje się właściwymi aktami prawnymi regulującymi nadzór weterynaryjny,
 c) przeprowadza badanie przed- i poubojowe zwierząt,
-d) opisuje i wdraża procedury związane z HACCP (Hazard Analysis and Critical Control Points) Systemem Analizy Zagrożeń i Krytycznych Punktów Kontroli.
-2. W ramach nabytych w procesie uczenia się efektów w zakresie umiejętności absolwent wykazuje:
+d) opisuje i wdraża procedury związane z HACCP (Hazard Analysis and Critical Control Points) – Systemem Analizy Zagrożeń i Krytycznych Punktów Kontroli.
+2. W ramach nabytych w procesie uczenia się efektów w zakresie umiejętności absolwent wykazuje: 10
 1) ogólne umiejętności zawodowe:
 a) efektywnie komunikuje się z klientami, innymi lekarzami weterynarii oraz pracownikami organów i urzędów kontroli, administracji rządowej i samorządowej,
 b) wykazuje umiejętność słuchania i udzielania odpowiedzi językiem zrozumiałym, odpowiednim do sytuacji,
@@ -359,7 +360,7 @@ j) potrafi dostosować swoją ofertę pracy do zmieniającej się sytuacji na ry
 k) jest świadomy własnych ograniczeń oraz potrafi korzystać z rady i pomocy wyspecjalizowanych jednostek lub osób w rozwiązywaniu trudnych problemów,
 l) posługuje się polską i łacińską nomenklaturą medyczną,
 m) potrafi komunikować się w języku obcym nowożytnym oraz korzystać z obcojęzycznych materiałów źródłowych;
-2) praktyczne umiejętności zawodowe:
+2) praktyczne umiejętności zawodowe: 11
 a) przeprowadza wywiad lekarsko-weterynaryjny w celu uzyskania dokładnej informacji o pojedynczym zwierzęciu lub grupie zwierząt oraz jego lub ich środowisku bytowania,
 b) bezpiecznie i humanitarnie postępuje ze zwierzętami oraz instruuje innych w tym zakresie,
 c) przeprowadza pełne badanie kliniczne zwierzęcia,
@@ -377,7 +378,7 @@ n) ocenia konieczność przeprowadzenia eutanazji, o czym odpowiednio informuje 
 o) wykonuje sekcję zwłok wraz z opisem, pobiera próbki i zabezpiecza je do transportu,
 p) wykonuje badanie przed- i poubojowe oraz ocenia jakość produktów pochodzenia zwierzęcego,
 q) dokumentuje i korzysta ze zgromadzonych informacji związanych ze zdrowiem i dobrostanem, a w niektórych przypadkach również z produkcyjnością stada,
-r) opracowuje i wprowadza programy profilaktyczne właściwe dla poszczególnych gatunków zwierząt,
+r) opracowuje i wprowadza programy profilaktyczne właściwe dla poszczególnych gatunków zwierząt, 12
 s) ocenia i wprowadza zalecenia minimalizujące ryzyko skażenia, zakażenia krzyżowego i akumulacji czynników chorobotwórczych w obiektach weterynaryjnych i w środowisku.
 3. W ramach nabytych w procesie uczenia się efektów w zakresie kompetencji społecznych absolwent:
 1) wykazuje odpowiedzialność za podejmowane decyzje wobec ludzi i zwierząt;

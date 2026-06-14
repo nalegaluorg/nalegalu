@@ -8,10 +8,10 @@ pos: 1506
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 sierpnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1506 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 10 sierpnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001506) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1506/text.pdf) |
 
-Poz. 1506 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 10 sierpnia 2021 r.
-w sprawie wymagań dotyczących planowania lokalizacji salonów gier na automatach na terenie gminy Na podstawie art. 15 ust. 1b ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2020 r. poz. 2094 oraz z 2021 r. poz. 802 i 815) zarządza się, co następuje: § 1. Salon gier na automatach może być usytuowany w odległości nie mniejszej niż:
+w sprawie wymagań dotyczących planowania lokalizacji salonów gier na automatach na terenie gminy Na podstawie art. 15 ust. 1b ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2020 r. poz. 2094 oraz z 2021 r. poz. 802 i 815) zarządza się, co następuje:
+§ 1. Salon gier na automatach może być usytuowany w odległości nie mniejszej niż:
 1) 100 metrów od:
 a) szkół, przedszkoli, placówek oświatowo-wychowawczych, młodzieżowych ośrodków wychowawczych, młodzieżowych ośrodków socjoterapii, specjalnych ośrodków szkolno-wychowawczych, specjalnych ośrodków wychowawczych dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania,
 b) miejsc kultu religijnego,

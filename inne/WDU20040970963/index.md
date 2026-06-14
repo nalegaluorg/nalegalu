@@ -8,7 +8,7 @@ pos: 963
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o administrowaniu obrotem towarowym z zagranicą
@@ -36,6 +36,20 @@ source: "isap-pdf"
 2. Przepisów ustawy nie stosuje się do obrotu towarami z zagranicą oraz do obrotu towarami z krajami trzecimi w takim zakresie, w jakim obrót ten jest uregulowany odrębnymi przepisami prawa.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** obszar celny Unii – obszar celny w rozumieniu art. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. );
+- **2)** towar – rzecz ruchomą oraz energię;
+- **3)** towary rolno-spożywcze – towary rolne objęte Wspólną Polityką Rolną, regulowaną przepisami wspólnotowymi, oraz towary przetworzone nieobjęte załącznikiem I do Traktatu ustanawiającego Wspólnotę Europejską (towary z grupy non-aneks I);
+- **4)** obrót towarami z zagranicą – przywóz towarów pochodzących z kraju trzeciego na terytorium Rzeczypospolitej Polskiej lub wywóz towarów do kraju trzeciego z terytorium Rzeczypospolitej Polskiej, niezależnie od sposobu ich przemieszczania przez granicę;
+- **5)** obrót towarami z krajami trzecimi – przywóz towarów pochodzących z kraju trzeciego na obszar celny Unii lub wywóz towarów do kraju trzeciego z obszaru celnego Unii niezależnie od sposobu ich przemieszczania przez granicę, a także związane z tym nadawanie upoważnień podmiotom dokonującym takiego obrotu w zakresie towarów rolno-spożywczych;
+- **6)** kontyngent – określoną ilość lub wartość towaru, która może być przywieziona na terytorium Rzeczypospolitej Polskiej lub wywieziona z tego terytorium, w oznaczonym czasie;
+- **7)** transza – określoną, maksymalną lub minimalną, ilość lub wartość towarów, na jaką może być udzielone pozwolenie;
+- **8)** okres odniesienia – okres poprzedzający złożenie wniosku o udzielenie pozwolenia;
+- **9)** importer lub eksporter wspólnotowy – osobę, która ma siedzibę lub miejsce zamieszkania na terytorium Wspólnoty Europejskiej;
+- **10)** importer lub eksporter tradycyjny – importera lub eksportera wspólnotowego, który dokonywał obrotu z zagranicą towarem objętym kontyngentem, w określonej minimalnej ilości lub o określonej minimalnej wartości, w okresie odniesienia;
+- **11)** importer lub eksporter nietradycyjny – importera lub eksportera wspólnotowego, który nie dokonywał obrotu z zagranicą towarem objętym kontyngentem, w określonej minimalnej ilości lub o określonej minimalnej wartości, w okresie odniesienia;
+- **12)** kwota gwarantowana – określoną ilość lub wartość towarów, zagwarantowaną dla importerów lub eksporterów nietradycyjnych;
+- **13)** kraj trzeci – kraj niebędący członkiem Wspólnoty Europejskiej.
 
 **Art. 2a.** Zadania, które zgodnie z ustawą wykonuje Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa, są wykonywane jako zadania delegowane Krajowemu Ośrodkowi Wsparcia Rolnictwa zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
@@ -103,6 +117,10 @@ source: "isap-pdf"
 
 **Art. 8b.** Odmowa nadania upoważnienia, o którym mowa w art. 8a ust. 1, następuje, jeżeli:
 
+- **1)** wnioskodawca nie spełnił wymogów określonych w przepisach wydanych na podstawie art. 8e;
+- **2)** wnioskodawca wystąpił z wnioskiem o wydanie decyzji przed upływem terminu, o którym mowa w art. 8c ust. 3, pod warunkiem że cofnięcie poprzednio nadanego upoważnienia nastąpiło z przyczyn, o których mowa w art. 8c ust. 1 pkt 3;
+- **3)** nie ustały przyczyny, o których mowa w art. 8c ust. 1 pkt 1 lub 2.
+
 **Art. 8c.**
 
 1. Cofnięcie nadanego upoważnienia, o którym mowa w art. 8a ust. 1, następuje:
@@ -119,6 +137,11 @@ source: "isap-pdf"
 
 **Art. 8e.** Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych określi, w drodze rozporządzenia:
 
+- **1)** wzór wniosku stosowany w postępowaniu o wydanie decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi,
+- **2)** wykaz dokumentów i informacji, które powinny być dołączone do wniosku,
+- **3)** wzór decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi,
+- **4)** sposób i tryb ewidencjonowania wydanych decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi – mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego w tym zakresie, a także maksymalne uproszczenie i ujednolicenie wymogów dotyczących dokumentów i informacji, które są niezbędne w postępowaniu o wydanie decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolnospożywczymi z krajami trzecimi, i ich ewidencjonowania.
+
 **Art. 8f.**
 
 1. Importer lub eksporter wspólnotowy towarów rolno-spożywczych objętych pozwoleniem na przywóz lub wywóz towarów rolno-spożywczych, w ramach decyzji o nadaniu upoważnienia w zakresie obrotu towarami rolno-spożywczymi z krajami trzecimi, prowadzi dokumentację tych towarów zawierającą:
@@ -131,6 +154,11 @@ source: "isap-pdf"
 2. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, dodatkowe wymogi dotyczące dokumentacji, o której mowa w ust. 1, mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego w tym zakresie.
 
 **Art. 8g.** Jeżeli wynika to z przepisów prawa wspólnotowego w zakresie administrowania obrotem towarami rolno-spożywczymi z krajami trzecimi, minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku stosowany w postępowaniu o udzielenie pozwolenia na przywóz lub wywóz towarów rolno-spożywczych,
+- **2)** wykaz dokumentów, które powinny być dołączone do wniosku,
+- **3)** wykaz dokumentów potwierdzających dokonanie czynności, jakim zostały poddane towary rolno-spożywcze objęte pozwoleniem, oraz termin składania tych dokumentów,
+- **4)** termin ważności pozwolenia na przywóz lub wywóz towarów rolnospożywczych – mając na uwadze zapewnienie skutecznego stosowania przepisów prawa wspólnotowego.
 
 **Art. 8h.** Odmowa udzielenia pozwolenia na przywóz lub wywóz towarów rolnospożywczych następuje, jeżeli wnioskodawca nie spełnia wymogów określonych w przepisach prawa wspólnotowego lub przepisach wydanych na podstawie art. 8g.
 
@@ -153,6 +181,20 @@ source: "isap-pdf"
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 9.** Środki administrowania obrotem towarami z zagranicą, o których mowa w art. 10 ust. 1, są ustanawiane:
+
+- **1)** w przywozie z krajów trzecich:
+    - **a)** zgodnie z art. 24 ust. 2 rozporządzenia Rady (WE) nr 3285/94 z dnia 22 grudnia 1994 r. w sprawie wspólnych reguł przywozu oraz uchylającego rozporządzenie (WE) nr 518/94 (Dz. Urz. WE L 349 z 31.12.1994), ostatnio zmienionego rozporządzeniem Rady (WE) nr 2474/2000 z dnia 9 listopada 2000 r. ustanawiającym, na podstawie art. 1 ust. 7 rozporządzenia (EWG) nr 3030/93, wykaz wyrobów włókienniczych i odzieżowych, które zostaną włączone do GATT 1994 dnia 1 stycznia 2002 r. oraz zmieniającym załącznik X do rozporządzenia (EWG) nr 3030/93 i załącznik II do rozporządzenia (WE) nr 3285/94 (Dz. Urz. WE L 286 z 11.11.2000),
+    - **b)** zgodnie z art. 19 ust. 2 rozporządzenia Rady (WE) nr 519/94 z dnia 7 marca 1994 r. w sprawie wspólnych reguł przywozu z niektórych państw trzecich i uchylającego rozporządzenia (EWG) nr 1765/82, (EWG) 1766/82 oraz (EWG) 3420/83 (Dz. Urz. WE L 67 z 10.03.1994), ostatnio zmienionego rozporządzeniem Rady (WE) nr 427/2003 z dnia 3 marca 2003 r. w sprawie mechanizmu tymczasowych środków ochronnych przy przywozie określonych towarów pochodzących z Chińskiej Republiki Ludowej i zmieniającym rozporządzenie (WE) nr 519/94 w sprawie wspólnych reguł przywozu z niektórych państw trzecich (Dz. Urz. UE L 65 z 08.03.2003),
+    - **c)** zgodnie z art. 26 ust. 2 rozporządzenia Rady (WE) nr 517/94 z dnia 7 marca 1994 r. w sprawie wspólnych reguł dotyczących przywozu wyrobów włókienniczych z niektórych państw trzecich, nieobjętych umowami dwustronnymi, protokołami, innymi ustaleniami lub innymi szczegółowymi normami Wspólnoty dotyczącymi przywozu (Dz. Urz. WE L 67 z
+
+10. 03.1994), ostatnio zmienionego rozporządzeniem Komisji (WE) nr 2309/2003 z dnia 29 grudnia 2003 r. zmieniającym załączniki IIIB, IV i VI do rozporządzenia Rady (WE) nr 517/94 w odniesieniu do kontyngentów wyrobów włókienniczych na 2004 r. (Dz. Urz. UE L 342 z 30.12.2003);
+
+- **2)** w wywozie do krajów trzecich:
+    - **a)** zgodnie z art. 11 rozporządzenia Rady (EWG) nr 2603/69 z dnia 20 grudnia 1969 r. ustanawiającego wspólne reguły wywozu (Dz. Urz. WE L 324 z
+
+27. 12.1969), ostatnio zmienionego rozporządzeniem Rady (EWG) nr 3918/91 z dnia 19 grudnia 1991 r. zmieniającym rozporządzenie (EWG) nr 2603/69 ustanawiające wspólne reguły wywozu (Dz. Urz. WE L 372 z 31.12.1991),
+
+- **b)** w przypadkach uzasadnionych koniecznością wprowadzenia formalności dla stosowania umów zgodnych z Traktatem ustanawiającym Wspólnotę Europejską.
 
 **Art. 9a.**
 
@@ -250,15 +292,40 @@ source: "isap-pdf"
 
 **Art. 19.** Rozdysponowanie kontyngentu według sposobu, o którym mowa w art. 18 ust. 1 pkt 1, polega na udzieleniu pozwolenia, przy zachowaniu następujących zasad:
 
+- **1)** rozpatruje się kompletne wnioski zgodnie z kolejnością ich otrzymania przez organ udzielający pozwoleń;
+- **2)** wielkości określone w pozwoleniu nie mogą przekraczać wielkości wnioskowanych;
+- **3)** okres ważności pozwolenia wynosi 120 dni, chyba że w rozporządzeniu o ustanowieniu kontyngentu określono inny termin, a wnioskodawca nie wystąpił o udzielenie pozwolenia na krótszy okres, z zastrzeżeniem art. 29 ust. 3.
+
 **Art. 20.** Rozdysponowanie kontyngentu według sposobu, o którym mowa w art. 18 ust. 1 pkt 2, polega na udzieleniu pozwolenia, przy zachowaniu następujących zasad:
 
+- **1)** rozpatruje się kompletne wnioski otrzymane przez organ udzielający pozwoleń w terminach określonych w przepisach wydanych na podstawie art. 17 ust. 3;
+- **2)** wielkości określone we wniosku nie mogą przekraczać kontyngentu;
+- **3)** jeżeli suma wielkości określonych we wszystkich rozpatrywanych wnioskach nie przekracza kontyngentu, wnioski te są uwzględniane;
+- **4)** jeżeli suma wielkości określonych we wszystkich rozpatrywanych wnioskach przekracza kontyngent, kontyngent ten jest rozdysponowywany proporcjonalnie do wielkości wnioskowanych, a wynik zaokrągla się do drugiej cyfry po przecinku;
+- **5)** jeżeli pozwolenie ma być udzielone na przywóz lub wywóz określonej liczby sztuk danego towaru, wynik obliczenia, o którym mowa w pkt 4, zaokrągla się w dół do najbliższej liczby całkowitej;
+- **6)** wielkości określone w pozwoleniu nie mogą przekraczać wielkości wnioskowanych;
+- **7)** okres ważności pozwolenia wynosi 120 dni, chyba że w rozporządzeniu o ustanowieniu kontyngentu określono inny termin, a wnioskodawca nie wystąpił o udzielenie pozwolenia na krótszy okres, z zastrzeżeniem art. 29 ust. 3.
+
 **Art. 21.** Rozdysponowanie kontyngentu według sposobu, o którym mowa w art. 18 ust. 1 pkt 3, polega na udzieleniu pozwolenia, przy zachowaniu następujących zasad:
+
+- **1)** rozpatruje się kompletne wnioski otrzymane przez organ udzielający pozwoleń w terminach określonych w przepisach wydanych na podstawie art. 17 ust. 3;
+- **2)** jeżeli suma wielkości określonych we wszystkich rozpatrywanych wnioskach złożonych przez importerów lub eksporterów tradycyjnych nie przekracza kontyngentu pomniejszonego o kwotę gwarantowaną, wnioski te są uwzględniane;
+- **3)** jeżeli suma wielkości określonych we wszystkich rozpatrywanych wnioskach złożonych przez importerów lub eksporterów tradycyjnych przekracza kontyngent pomniejszony o kwotę gwarantowaną, kontyngent ten jest rozdysponowywany na rzecz importerów lub eksporterów tradycyjnych proporcjonalnie do ich udziału w sumie wielkości obrotów zrealizowanych w okresie odniesienia, a wynik zaokrągla się do drugiej cyfry po przecinku;
+- **4)** jeżeli pozwolenie ma być udzielone na przywóz lub wywóz określonej liczby sztuk danego towaru, wynik obliczenia, o którym mowa w pkt 3, zaokrągla się w dół do najbliższej liczby całkowitej;
+- **5)** kontyngent jest rozdysponowywany na rzecz importerów lub eksporterów nietradycyjnych do wysokości kwoty gwarantowanej, według kolejności otrzymania wniosków;
+- **6)** wielkości kontyngentu nierozdysponowane na rzecz importerów lub eksporterów tradycyjnych powiększają kwotę gwarantowaną i są rozdysponowywane na rzecz importerów lub eksporterów nietradycyjnych, według kolejności otrzymania wniosków;
+- **7)** w przypadku niezłożenia wniosków przez importerów lub eksporterów tradycyjnych kontyngent jest rozdysponowywany w całości na rzecz importerów lub eksporterów nietradycyjnych, według kolejności otrzymania wniosków;
+- **8)** wielkości określone w pozwoleniu nie mogą przekraczać wielkości wnioskowanych;
+- **9)** okres ważności pozwolenia wynosi 120 dni, chyba że w rozporządzeniu o ustanowieniu kontyngentu określono inny termin, a wnioskodawca nie wystąpił o udzielenie pozwolenia na krótszy okres, z zastrzeżeniem art. 29 ust. 3.
 
 **Art. 22.** Minister właściwy do spraw gospodarki, w rozporządzeniu o ustanowieniu zakazu, może określić procedury celne oraz normy ilościowe lub wartościowe, których zakaz nie dotyczy.
 
 #### Rozdział 4 Pozwolenia
 
 **Art. 23.** Pozwolenie na przywóz towarów z krajów trzecich lub wywóz towarów do krajów trzecich jest wymagane, jeżeli przedmiotem obrotu są towary objęte:
+
+- **1)** kontyngentem, z zastrzeżeniem art. 16 ust. 3 i 4;
+- **2)** automatyczną rejestracją, o ile został nałożony obowiązek uzyskania pozwolenia.
 
 **Art. 24.** Obowiązkowi uzyskania pozwolenia nie podlegają towary zwolnione od należności celnych na podstawie odrębnych przepisów.
 
@@ -283,6 +350,9 @@ source: "isap-pdf"
 2. Odmowa udzielenia kolejnych pozwoleń w ramach tego samego kontyngentu albo automatycznej rejestracji następuje w przypadku niedokonania zwrotu poprzednio udzielonego pozwolenia w terminie 2 miesięcy od dnia upływu terminu jego ważności, chyba że udzielenie pozwolenia zostało uzależnione od złożenia kaucji.
 
 **Art. 27.** Cofnięcie pozwolenia następuje:
+
+- **1)** jeżeli wymagają tego zobowiązania lub porozumienia międzynarodowe, których stroną jest Rzeczpospolita Polska;
+- **2)** w przypadkach uzasadnionych względami porządku publicznego, bezpieczeństwa publicznego, ochrony zdrowia i życia ludzi i zwierząt lub ochrony roślin.
 
 **Art. 28.**
 
@@ -350,6 +420,10 @@ source: "isap-pdf"
 **Art. 37.** Jeżeli pozwolenie zostało udzielone na przywóz lub wywóz określonej liczby sztuk danego towaru, wynik obliczenia, o którym mowa w art. 34, 35 oraz 36 ust. 1 pkt 1, zaokrągla się w górę do najbliższej liczby całkowitej.
 
 **Art. 38.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+
+- **1)** formy, w jakich kaucja może być składana,
+- **2)** szczegółowy tryb pobierania kaucji oraz jej zwrotu, w tym przypadki, w których wycofanie wniosku o udzielenie pozwolenia nie powoduje przepadku kaucji,
+- **3)** kwotę kaucji, do wysokości której organ udzielający pozwoleń nie pobiera kaucji – uwzględniając potrzebę zapewnienia prawidłowego wykorzystania udzielonych pozwoleń oraz maksymalnego uproszczenia trybu pobierania i zwrotu kaucji.
 
 **Art. 39.** Od kwoty zwróconej kaucji nie płaci się odsetek.
 

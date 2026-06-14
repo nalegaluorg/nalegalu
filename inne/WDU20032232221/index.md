@@ -8,7 +8,7 @@ pos: 2221
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o organizacji rynków owoców i warzyw oraz rynku chmielu
@@ -374,11 +374,21 @@ Art. 44–54. (pominięte)
 
 **Art. 9c.** Jeżeli inwestycja nabyta w ramach realizacji programu operacyjnego jest wykorzystywana niezgodnie z przeznaczeniem określonym w art. 31 ust. 5 akapit pierwszy lit. a rozporządzenia nr 2017/891:
 
+- **1)** w okresie, o którym mowa w art. 31 ust. 5 akapit pierwszy lit. b rozporządzenia nr 2017/891,
+- **2)** w innym okresie – w przypadku gdy w strategii krajowej został określony taki okres na podstawie art. 31 ust. 5 akapit drugi rozporządzenia nr 2017/891 – organizacja producentów albo zrzeszenie organizacji producentów zwraca kwotę pomocy finansowej przyznanej na inwestycję wraz z odsetkami naliczanymi zgodnie z art. 67 ust. 1 akapit drugi rozporządzenia nr 2017/891 w wysokości proporcjonalnej do okresu, w którym inwestycja nabyta w ramach realizacji programu operacyjnego była wykorzystywana niezgodnie z przeznaczeniem określonym w art. 31 ust. 5 akapit pierwszy lit. a rozporządzenia nr 2017/891.
+
 **Art. 9d.** Jeżeli, w przypadku inwestycji, dla których okres realizacji zobowiązań nie upłynął, organizacja producentów lub jej członek albo zrzeszenie organizacji producentów uniemożliwia dyrektorowi oddziału regionalnego Agencji przeprowadzenie kontroli wykorzystywania inwestycji zgodnie z przeznaczeniem opisanym w zatwierdzonym programie operacyjnym:
+
+- **1)** w okresie, o którym mowa w art. 31 ust. 5 akapit pierwszy lit. b rozporządzenia nr 2017/891,
+- **2)** w innym okresie – w przypadku gdy w strategii krajowej został określony taki okres na podstawie art. 31 ust. 5 akapit drugi rozporządzenia nr 2017/891 – organizacja producentów albo zrzeszenie organizacji producentów zwraca 100% otrzymanej pomocy finansowej na te inwestycje wraz z odsetkami naliczanymi zgodnie z art. 67 ust. 1 akapit drugi rozporządzenia nr 2017/891.
 
 **Art. 9e.** Kwotę pomocy podlegającą zwrotowi, o której mowa w art. 9c i art. 9d, ustala w drodze decyzji dyrektor oddziału regionalnego Agencji.
 
 **Art. 10.** W zakresie określonym przepisami Unii Europejskiej Prezes Agencji:
+
+- **1)** dokonuje wypłaty środków finansowych przyznanych w decyzjach, o których mowa w art. 9 ust. 1 pkt 3, art. 9a ust. 1 pkt 3 i 4 – w terminie 30 dni od dnia wydania każdej z tych decyzji;
+- **2)** monitoruje wdrażanie strategii krajowej i ocenia sposób jej wdrożenia;
+- **3)** monitoruje poziom wykorzystania kwoty wkładu przydzielonego zgodnie z art. 47 ust. 4 akapit drugi rozporządzenia nr 543/2011.
 
 **Art. 11.**
 
@@ -572,6 +582,11 @@ Art. 44–54. (pominięte)
 
 **Art. 16.** W zakresie określonym przepisami Unii Europejskiej minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje o:
 
+- **1)** nazwie, adresie i adresie poczty elektronicznej organu koordynującego;
+- **2)** nazwie, adresie i adresie poczty elektronicznej organu kontrolnego;
+- **3)** zakresie działania organu kontrolnego.
+- **4)** (uchylony)
+
 **Art. 17.**
 
 1. Handlowiec przekazuje wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania lub siedzibę tego handlowca, na formularzu opracowanym przez Głównego Inspektora i udostępnionym na stronie internetowej administrowanej przez urząd obsługujący Głównego Inspektora, informacje o:
@@ -693,6 +708,9 @@ Art. 44–54. (pominięte)
 **Art. 20a.** (uchylony)
 
 **Art. 20b.** Certyfikat na chmiel wydaje się producentowi:
+
+- **1)** który zawarł umowę na dostarczanie chmielu, zgodnie z przepisami o organizacji niektórych rynków rolnych;
+- **2)** w odniesieniu do ilości tego chmielu wymienionej w umowie, o której mowa w pkt 1.
 
 **Art. 21.** (uchylony)
 

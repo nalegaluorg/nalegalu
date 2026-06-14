@@ -8,10 +8,10 @@ pos: 377
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 lutego 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 377 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 lutego 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000377) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/377/text.pdf) |
 
-Poz. 377 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 lutego 2017 r.
-w sprawie likwidacji Instytutu Rozwoju Służb Społecznych Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r. poz. 371, 1079, 1311 i 2260 oraz z 2017 r. poz. 202) zarządza się, co następuje: § 1. 1. Instytut Rozwoju Służb Społecznych z siedzibą w Warszawie, posiadający numer identyfikacyjny REGON 013195189 oraz numer identyfikacji podatkowej NIP 526-22-30-821 , zwany dalej „Instytutem”, podlega likwidacji.
+w sprawie likwidacji Instytutu Rozwoju Służb Społecznych Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r. poz. 371, 1079, 1311 i 2260 oraz z 2017 r. poz. 202) zarządza się, co następuje:
+§ 1. 1. Instytut Rozwoju Służb Społecznych z siedzibą w Warszawie, posiadający numer identyfikacyjny REGON 013195189 oraz numer identyfikacji podatkowej NIP 526-22-30-821 , zwany dalej „Instytutem”, podlega likwidacji.
 2. Termin zakończenia działalności Instytutu upływa z dniem 28 lutego 2017 r.
 3. Termin otwarcia likwidacji Instytutu wyznacza się na dzień 1 marca 2017 r.
 4. Termin zakończenia likwidacji Instytutu wyznacza się na dzień 31 grudnia 2017 r.

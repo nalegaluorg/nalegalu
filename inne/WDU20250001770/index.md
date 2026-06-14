@@ -8,12 +8,10 @@ pos: 1770
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o ubezpieczeniu społecznym rolników
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -30,13 +28,13 @@ source: "isap-pdf"
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
 2) ustawą z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621),
-3) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1160) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2025 r.
+3) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1160) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 437 i art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), które stanowią: „Art. 437. Świadczenia przysługujące osobie podlegającej ubezpieczeniu społecznemu rolników, z którą stosunek pracy lub stosunek służbowy został rozwiązany z przyczyn dotyczących zakładu pracy i która nie jest uprawniona do zasiłku, przyznane na podstawie art. 62 ustawy uchylanej w art. 460, przed dniem wejścia w życie niniejszej ustawy, są finansowane w wysokości i przez okresy wynikające z dotychczasowych przepisów.” „Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
 2) art. 114 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), który stanowi: „Art. 114. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”;
-3) art. 19 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy Karta Nauczyciela oraz niektórych innych ustaw (Dz. U.
+3) art. 19 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U.
 poz. 1160), który stanowi: „Art. 19. Ustawa wchodzi w życie z dniem 1 września 2025 r., z wyjątkiem:
 1) art. 5 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
 2) art. 1 pkt 13, 14, 17, pkt 18 lit. a i pkt 19, art. 4, art. 5 pkt 5, 9 i 10, art. 6 pkt 1, art. 11, art. 12, art. 14, art. 16 i art. 17, które wchodzą w życie z dniem 1 stycznia 2026 r.;
@@ -52,7 +50,7 @@ o ubezpieczeniu społecznym rolników
 1. Ubezpieczenie społeczne rolników, zwane dalej „ubezpieczeniem”, obejmuje, na zasadach określonych w ustawie, rolników i pracujących z nimi domowników oraz pomocników rolnika, którzy:
 
 - **1)** są obywatelami polskimi;
-- **2)** są obywatelami państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
+- **2)** są obywatelami państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
 - **3)** w rozumieniu art. 2 pkt 4 lit. a ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164) są członkami rodzin osób, o których mowa w pkt 2, dołączającymi do tych osób lub z nimi przebywającymi;
 - **4)** w rozumieniu art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin są członkami rodziny obywatela polskiego przebywającymi z nim na terytorium Rzeczypospolitej Polskiej;
 - **5)** są osobami, o których mowa w art. 19 ust. 2 i 3 lub art. 19a ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin;
@@ -80,7 +78,7 @@ o ubezpieczeniu społecznym rolników
 
 1. Ubezpieczeniu podlega się z mocy ustawy albo na wniosek.
 
-1a. Objęcie ubezpieczeniem pomocnika rolnika następuje od dnia oznaczonego w umowie o pomocy przy zbiorach, o której mowa w art. 91a, jako dzień rozpoczęcia świadczenia pomocy przy zbiorach, o której mowa w art. 91a, a w przypadku gdy ta umowa nie określa tego dnia od dnia zawarcia tej umowy.
+1a. Objęcie ubezpieczeniem pomocnika rolnika następuje od dnia oznaczonego w umowie o pomocy przy zbiorach, o której mowa w art. 91a, jako dzień rozpoczęcia świadczenia pomocy przy zbiorach, o której mowa w art. 91a, a w przypadku gdy ta umowa nie określa tego dnia – od dnia zawarcia tej umowy.
 
 2. Jeżeli ustawa przewiduje objęcie ubezpieczeniem na wniosek, z wnioskiem o objęcie ubezpieczeniem może wystąpić zainteresowana osoba lub rolnik, na którego rachunek ta osoba pracuje.
 
@@ -148,7 +146,7 @@ o ubezpieczeniu społecznym rolników
 
 9. Minister właściwy do spraw rozwoju wsi ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, roczną kwotę graniczną, o której mowa w ust. 8.
 
-10. Za pozarolniczą działalność gospodarczą uważa się pozarolniczą działalność gospodarczą prowadzoną na terytorium Rzeczypospolitej Polskiej przez osoby fizyczne na podstawie przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480), z wyłączeniem wspólników spółek prawa handlowego oraz osób prowadzących działalność w zakresie wolnego zawodu:
+10. Za pozarolniczą działalność gospodarczą uważa się pozarolniczą działalność gospodarczą prowadzoną na terytorium Rzeczypospolitej Polskiej przez osoby fizyczne na podstawie przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480), z wyłączeniem wspólników spółek prawa handlowego oraz osób prowadzących działalność w zakresie wolnego zawodu:
 
 - **1)** w rozumieniu przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne;
 - **2)** z której przychody są przychodami z działalności gospodarczej w rozumieniu przepisów o podatku dochodowym od osób fizycznych.
@@ -169,11 +167,39 @@ o ubezpieczeniu społecznym rolników
 - **2)** pobierania stypendium w okresie odbywania szkolenia, stażu lub przygotowania zawodowego dorosłych, o którym mowa w art. 6 ust. 1 pkt 9a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, na które został skierowany przez inne niż powiatowy urząd pracy podmioty kierujące na szkolenie, staż lub przygotowanie zawodowe dorosłych,
 - **3)** (uchylony) 3a) pobierania stypendium na podstawie art. 234 lub art. 235 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) w okresie odbywania szkolenia lub stażu, o którym mowa w art. 6 ust. 1 pkt 9c ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, na które został skierowany przez powiatowy urząd pracy,
 - **4)** pełnienia czynnej służby wojskowej jako żołnierz niezawodowy, o której mowa w art. 6 ust. 1 pkt 11 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
-- **5)** odbywania służby zastępczej, o której mowa w art. 6 ust. 1 pkt 12 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych podlega nadal temu ubezpieczeniu pomimo objęcia go z tych tytułów innym ubezpieczeniem społecznym.
+- **5)** odbywania służby zastępczej, o której mowa w art. 6 ust. 1 pkt 12 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych – podlega nadal temu ubezpieczeniu pomimo objęcia go z tych tytułów innym ubezpieczeniem społecznym.
 
 2. Rolnik lub domownik, o którym mowa w ust. 1, może w każdym czasie odstąpić od ubezpieczenia, składając w Kasie oświadczenie o odstąpieniu od tego ubezpieczenia, nie wcześniej jednak niż od dnia, w którym to oświadczenie zostało złożone w Kasie.
 
 **Art. 6.** Ilekroć w ustawie jest mowa o:
+
+- **1)** rolniku – rozumie się pełnoletnią osobę fizyczną, zamieszkującą i prowadzącą na terytorium Rzeczypospolitej Polskiej, osobiście i na własny rachunek, działalność rolniczą w pozostającym w jej posiadaniu gospodarstwie rolnym, w tym również w ramach grupy producentów rolnych, a także osobę, która przeznaczyła grunty prowadzonego przez siebie gospodarstwa rolnego do zalesienia;
+- **2)** domowniku – rozumie się osobę bliską rolnikowi, która:
+    - **a)** ukończyła 16 lat,
+    - **b)** pozostaje z rolnikiem we wspólnym gospodarstwie domowym lub zamieszkuje na terenie jego gospodarstwa rolnego albo w bliskim sąsiedztwie,
+    - **c)** stale pracuje w tym gospodarstwie rolnym i nie jest związana z rolnikiem stosunkiem pracy;
+
+- **2a)** pomocniku rolnika – rozumie się osobę pełnoletnią, z którą rolnik zawarł umowę o pomocy przy zbiorach, o której mowa w art. 91a;
+- **3)** działalności rolniczej – rozumie się działalność w zakresie produkcji roślinnej lub zwierzęcej, w tym ogrodniczej, sadowniczej, pszczelarskiej i rybnej;
+- **4)** gospodarstwie rolnym – rozumie się każde gospodarstwo służące prowadzeniu działalności rolniczej;
+- **5)** dziale specjalnym – rozumie się dział specjalny produkcji rolnej, o którym mowa w załączniku do ustawy;
+- **6)** przepisach emerytalnych – rozumie się przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159);
+- **7)** emeryturze podstawowej – rozumie się kwotę równą 90 % najniższej emerytury określonej w przepisach emerytalnych;
+- **8)** wskaźniku wymiaru – rozumie się ustaloną dla określonego świadczenia lub określonej części świadczenia liczbę, wyrażającą stały stosunek tego świadczenia (tej części świadczenia) do emerytury podstawowej, z zaokrągleniem do drugiego miejsca po przecinku; wskaźnik wymiaru służy do obliczania wysokości świadczenia lub jego części w myśl art. 48;
+- **9)** (uchylony)
+- **10)** emeryturze lub rencie z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin – rozumie się odpowiednie świadczenie, przyznane przed dniem wejścia w życie niniejszej ustawy na podstawie ustaw powołanych w art. 99 i 122 albo innych przepisów regulujących świadczenia emerytalno-rentowe dla rolników;
+- **10a)** emeryturze lub rencie rolniczej z ubezpieczenia – rozumie się emeryturę lub rentę inwalidzką z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin oraz emeryturę rolniczą lub rentę rolniczą z tytułu niezdolności do pracy;
+- **10b)** emeryturze lub rencie z ubezpieczenia – rozumie się emeryturę lub rentę rolniczą z ubezpieczenia, rentę rolniczą szkoleniową i rentę rodzinną;
+- **10c)** ustalonym prawie do emerytury lub renty – rozumie się ustalone prawo do emerytury lub renty z ubezpieczenia albo ustalone prawo do emerytury lub renty na podstawie przepisów emerytalnych lub innych przepisów o zaopatrzeniu emerytalnym, albo ustalone prawo do emerytury pomostowej na podstawie przepisów o emeryturach pomostowych lub do nauczycielskich świadczeń kompensacyjnych na podstawie przepisów o nauczycielskich świadczeniach kompensacyjnych, a także ustalone prawo do zasiłku przedemerytalnego lub świadczenia przedemerytalnego, przyznanego na podstawie ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych, świadczenia o charakterze rentowym z instytucji zagranicznej oraz do rodzicielskiego świadczenia uzupełniającego, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2025 r. poz. 1577);
+- **11)** ubezpieczeniu emerytalno-rentowym – rozumie się ubezpieczenie emerytalno-rentowe określone w ustawie;
+- **11a)** stwierdzeniu niezdolności do samodzielnej egzystencji – rozumie się przez to zaliczenie do pierwszej grupy inwalidów ;
+- **12)** innym ubezpieczeniu społecznym – rozumie się obowiązkowe ubezpieczenia emerytalne i rentowe określone w przepisach o systemie ubezpieczeń społecznych lub zaopatrzenie emerytalne określone w odrębnych przepisach;
+- **13)** osobie podlegającej innemu ubezpieczeniu społecznemu – rozumie się osobę podlegającą obowiązkowo ubezpieczeniom emerytalnemu i rentowym na podstawie przepisów o systemie ubezpieczeń społecznych lub objętą przepisami o zaopatrzeniu emerytalnym;
+- **13a)** świadczeniach z ubezpieczeń społecznych – rozumie się zasiłek chorobowy i świadczenie rehabilitacyjne, do których przysługuje prawo z tytułu ubezpieczenia chorobowego na podstawie przepisów o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
+- **13b)** należnościach z tytułu składek – rozumie się składki, należne od nich odsetki i koszty upomnienia;
+- **14)** okresach podlegania określonemu ubezpieczeniu społecznemu – rozumie się tylko takie okresy, za które opłacono przewidziane w odpowiednich przepisach składki na to ubezpieczenie, chyba że w myśl tych przepisów nie istniał obowiązek opłacania składek;
+- **15)** wójcie – rozumie się także burmistrza lub prezydenta miasta;
+- **16)** ubezpieczeniu zdrowotnym – rozumie się ubezpieczenie określone w odrębnych przepisach.
 
 #### Rozdział 2 Zakres podmiotowy ubezpieczenia, składki na ubezpieczenie i świadczenia pieniężne z ubezpieczenia A. Ubezpieczenie wypadkowe, chorobowe i macierzyńskie
 
@@ -182,7 +208,7 @@ o ubezpieczeniu społecznym rolników
 1. Ubezpieczeniu wypadkowemu, chorobowemu i macierzyńskiemu podlega z mocy ustawy:
 
 - **1)** rolnik, którego gospodarstwo obejmuje obszar użytków rolnych powyżej 1 ha przeliczeniowego lub dział specjalny,
-- **2)** domownik rolnika, o którym mowa w pkt 1 jeżeli ten rolnik lub domownik nie podlega innemu ubezpieczeniu społecznemu lub nie ma ustalonego prawa do emerytury lub renty albo nie ma ustalonego prawa do świadczeń z ubezpieczeń społecznych.
+- **2)** domownik rolnika, o którym mowa w pkt 1 – jeżeli ten rolnik lub domownik nie podlega innemu ubezpieczeniu społecznemu lub nie ma ustalonego prawa do emerytury lub renty albo nie ma ustalonego prawa do świadczeń z ubezpieczeń społecznych.
 
 1a. Ubezpieczeniu wypadkowemu, chorobowemu i macierzyńskiemu podlega z mocy ustawy pomocnik rolnika, wyłącznie w zakresie ograniczonym do świadczeń określonych w art. 9 pkt 1.
 
@@ -204,11 +230,16 @@ o ubezpieczeniu społecznym rolników
 
 3a. (uchylony)
 
-4. Prezes Kasy ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, ustaloną przez Radę Rolników, wysokość miesięcznej składki na jeden lub kilka kolejnych kwartałów, co najmniej 14 dni przed pierwszym dniem danego kwartału. Wysokość ta może być ustalana kwotowo i korygowana w przypadku zmiany wysokości emerytury podstawowej albo za pomocą określonego procentu emerytury podstawowej.
+4. Prezes Kasy ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, ustaloną przez Radę Rolników, wysokość miesięcznej składki na jeden lub kilka kolejnych kwartałów, co najmniej 14 dni przed pierwszym dniem danego kwartału. Wysokość ta może być ustalana kwotowo – i korygowana w przypadku zmiany wysokości emerytury podstawowej – albo za pomocą określonego procentu emerytury podstawowej.
 
 5. Na wniosek Rady Rolników minister właściwy do spraw rozwoju wsi, w drodze rozporządzenia, może ustanawiać ulgi w wysokości składki, określając szczegółowe zasady i tryb ich przyznawania.
 
 **Art. 9.** Świadczeniami z ubezpieczenia wypadkowego, chorobowego i macierzyńskiego są:
+
+- **1)** jednorazowe odszkodowanie z tytułu stałego lub długotrwałego uszczerbku na zdrowiu albo śmierci wskutek wypadku przy pracy rolniczej lub rolniczej choroby zawodowej, zwane dalej „jednorazowym odszkodowaniem”;
+- **2)** zasiłek chorobowy.
+- **3)** (uchylony)
+- **4)** (uchylony)
 
 **Art. 10.**
 
@@ -327,7 +358,7 @@ o ubezpieczeniu społecznym rolników
 - **1)** innego rolnika lub domownika, który podlega ubezpieczeniu wypadkowemu, chorobowemu i macierzyńskiemu w pełnym zakresie, jeżeli złożono wniosek o objęcie go ubezpieczeniem emerytalno-rentowym;
 - **2)** osobę, która podlegała ubezpieczeniu jako rolnik i zaprzestała prowadzenia działalności rolniczej, nie nabywając prawa do emerytury lub renty z ubezpieczenia, jeżeli podlegała ubezpieczeniu emerytalno-rentowemu przez okres co najmniej 12 lat i 6 miesięcy;
 - **3)** osobę pobierającą rentę rolniczą z tytułu niezdolności do pracy jako rentę okresową;
-- **3a)** osobę pobierającą rodzicielskie świadczenie uzupełniające, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym do uzyskania 25-letniego okresu ubezpieczenia emerytalno-rentowego, o którym mowa w art. 19 ust. 1 pkt 2.
+- **3a)** osobę pobierającą rodzicielskie świadczenie uzupełniające, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym – do uzyskania 25-letniego okresu ubezpieczenia emerytalno-rentowego, o którym mowa w art. 19 ust. 1 pkt 2.
 - **4)** (uchylony)
 
 3. Przepisów ust. 1 oraz ust. 2 pkt 1 i 2 nie stosuje się do osoby, która podlega innemu ubezpieczeniu społecznemu lub ma ustalone prawo do emerytury lub renty, lub ma ustalone prawo do świadczeń z ubezpieczeń społecznych.
@@ -343,9 +374,9 @@ o ubezpieczeniu społecznym rolników
 1. Przepisy art. 16a stosuje się także do rolnika lub domownika podlegającego ubezpieczeniu społecznemu rolników na podstawie art. 5a, pod warunkiem:
 
 - **1)** zaprzestania wykonywania pozarolniczej działalności gospodarczej albo współpracy przy wykonywaniu tej działalności albo
-- **2)** zawieszenia wykonywania pozarolniczej działalności gospodarczej w okresie sprawowania osobistej opieki nad dzieckiem.
+- **2)** zawieszenia wykonywania pozarolniczej działalności gospodarczej – w okresie sprawowania osobistej opieki nad dzieckiem.
 
-2. Zawieszenia wykonywania pozarolniczej działalności gospodarczej w związku ze sprawowaniem osobistej opieki nad dzieckiem, o którym mowa w ust. 1 pkt 2, rolnik lub domownik może dokonać w nie więcej niż 5 częściach. Przepisy art. 22–25 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców stosuje się odpowiednio.
+2. Zawieszenia wykonywania pozarolniczej działalności gospodarczej w związku ze sprawowaniem osobistej opieki nad dzieckiem, o którym mowa w ust. 1 pkt 2, rolnik lub domownik może dokonać w nie więcej niż 5 częściach. Przepisy art. 22–25 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców stosuje się odpowiednio.
 
 **Art. 16c.**
 
@@ -369,14 +400,22 @@ o ubezpieczeniu społecznym rolników
 
 4. Rolnik, którego gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 50 ha przeliczeniowych, opłaca dodatkową składkę miesięczną w wysokości:
 
-- **1)** 12 % emerytury podstawowej w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych do 100 ha przeliczeniowych;
-- **2)** 24 % emerytury podstawowej w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 100 ha przeliczeniowych do 150 ha przeliczeniowych;
-- **3)** 36 % emerytury podstawowej w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 150 ha przeliczeniowych do 300 ha przeliczeniowych;
-- **4)** 48 % emerytury podstawowej w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 300 ha przeliczeniowych.
+- **1)** 12 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych do 100 ha przeliczeniowych;
+- **2)** 24 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 100 ha przeliczeniowych do 150 ha przeliczeniowych;
+- **3)** 36 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 150 ha przeliczeniowych do 300 ha przeliczeniowych;
+- **4)** 48 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 300 ha przeliczeniowych.
 
 5. W przypadku zmiany obszaru użytków rolnych gospodarstwa rolnego powodującego zmianę wymiaru dodatkowej składki miesięcznej, o której mowa w ust. 4, rolnikowi obowiązanemu do opłacania tej składki wydaje się decyzję w tej sprawie.
 
 **Art. 18.** Świadczeniami z ubezpieczenia emerytalno-rentowego są:
+
+- **1)** emerytura rolnicza lub renta rolnicza z tytułu niezdolności do pracy;
+- **2)** renta rolnicza szkoleniowa;
+- **3)** renta rodzinna;
+- **4)** emerytura i renta z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin;
+- **5)** dodatki do emerytur i rent, o których mowa w pkt 1–4;
+- **6)** zasiłek pogrzebowy;
+- **7)** zasiłek macierzyński.
 
 **Art. 19.**
 
@@ -425,11 +464,11 @@ o ubezpieczeniu społecznym rolników
 
 2. Warunek podlegania ubezpieczeniu emerytalno-rentowemu przez wymagany okres uważa się za spełniony, jeżeli okres ubezpieczenia emerytalno-rentowego ubezpieczonego wynosi co najmniej:
 
-- **1)** rok jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku do 20 lat;
-- **2)** 2 lata jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 20 lat do 22 lat;
-- **3)** 3 lata jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 22 lat do 25 lat;
-- **4)** 4 lata jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 25 lat do 30 lat;
-- **5)** 5 lat jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 30 lat.
+- **1)** rok – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku do 20 lat;
+- **2)** 2 lata – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 20 lat do 22 lat;
+- **3)** 3 lata – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 22 lat do 25 lat;
+- **4)** 4 lata – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 25 lat do 30 lat;
+- **5)** 5 lat – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 30 lat.
 
 3. Przy ustalaniu okresu podlegania ubezpieczeniu emerytalno-rentowemu zgodnie z ust. 2 stosuje się odpowiednio art. 20 ust. 1 i 2.
 
@@ -484,13 +523,13 @@ o ubezpieczeniu społecznym rolników
 - **1)** podlegania ubezpieczeniu społecznemu rolników indywidualnych i członków ich rodzin w okresie od dnia 1 stycznia 1983 r. do dnia 31 grudnia 1990 r.;
 - **2)** prowadzenia gospodarstwa rolnego lub pracy w gospodarstwie rolnym w okresie od dnia 1 lipca 1977 r. do dnia 31 grudnia 1982 r., za który była opłacana składka na Fundusz Emerytalny Rolników;
 - **3)** (uchylony)
-- **4)** prowadzenia gospodarstwa rolnego lub pracy w gospodarstwie rolnym bez podlegania innemu ubezpieczeniu społecznemu po ukończeniu 16. roku życia, przypadających przed dniem 1 lipca 1977 r., jednak nie wcześniej niż 25 lat przed spełnieniem warunków nabycia prawa do emerytury rolniczej lub renty inwalidzkiej rolniczej.
+- **4)** prowadzenia gospodarstwa rolnego lub pracy w gospodarstwie rolnym – bez podlegania innemu ubezpieczeniu społecznemu – po ukończeniu 16. roku życia, przypadających przed dniem 1 lipca 1977 r., jednak nie wcześniej niż 25 lat przed spełnieniem warunków nabycia prawa do emerytury rolniczej lub renty inwalidzkiej rolniczej.
 
 2a. Do liczby lat, o których mowa w ust. 1, dolicza się również liczbę lat:
 
 - **1)** podlegania ubezpieczeniu emerytalnemu i rentowemu określonych w przepisach o systemie ubezpieczeń społecznych, podlegania ubezpieczeniu społecznemu lub zaopatrzeniu emerytalnemu przed dniem 1 stycznia 1999 r. oraz podlegania zaopatrzeniu emerytalnemu przepadającemu po tej dacie,
 - **2)** działalności kombatanckiej, działalności równorzędnej z tą działalnością, a także okresy zaliczane do okresów tej działalności oraz podlegania represjom wojennym i okresu powojennego, określone w przepisach o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego,
-- **3)** odbywania czynnej służby wojskowej w Wojsku Polskim lub okresy jej równorzędne albo zastępczych form tej służby, przypadających przed dniem 1 stycznia 1999 r. jeżeli z tego tytułu ubezpieczonemu nie przyznano emerytury lub renty na podstawie odrębnych przepisów.
+- **3)** odbywania czynnej służby wojskowej w Wojsku Polskim lub okresy jej równorzędne albo zastępczych form tej służby, przypadających przed dniem 1 stycznia 1999 r. – jeżeli z tego tytułu ubezpieczonemu nie przyznano emerytury lub renty na podstawie odrębnych przepisów.
 
 2b. Przepisu ust. 2a nie stosuje się przy ustalaniu wysokości emerytury rolniczej dla osób urodzonych po dniu 31 grudnia 1948 r., z tym że przy ustalaniu wysokości emerytury rolniczej dla osób urodzonych po tej dacie, które nie mają ustalonego prawa do emerytury na podstawie art. 24 ust. 1, art. 24a lub art. 184 przepisów emerytalnych, stosuje się przepis ust. 2a pkt 3.
 
@@ -544,13 +583,13 @@ o ubezpieczeniu społecznym rolników
 2. Zawieszenie wypłaty dotyczy:
 
 - **1)** części uzupełniającej renty rolniczej z tytułu niezdolności do pracy,
-- **2)** renty inwalidzkiej z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin w części równej 95 % emerytury podstawowej i obejmuje całość lub określony ułamek tej części świadczenia; ilekroć w ust. 3 i 5–7 jest mowa o zawieszeniu wypłaty w całości, w połowie albo w jednej czwartej rozumie się odpowiednio zawieszenie wypłaty tej części świadczenia, jej połowy albo jednej czwartej.
+- **2)** renty inwalidzkiej z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin w części równej 95 % emerytury podstawowej – i obejmuje całość lub określony ułamek tej części świadczenia; ilekroć w ust. 3 i 5–7 jest mowa o zawieszeniu wypłaty w całości, w połowie albo w jednej czwartej – rozumie się odpowiednio zawieszenie wypłaty tej części świadczenia, jej połowy albo jednej czwartej.
 
 3. Wypłata ulega zawieszeniu w całości, jeżeli rencista nie zaprzestał prowadzenia działalności rolniczej, z zastrzeżeniem ust. 5–7 i 9–11.
 
 4. Uznaje się, że rencista zaprzestał prowadzenia działalności rolniczej, jeżeli ani on, ani jego małżonek nie jest właścicielem (współwłaścicielem) lub posiadaczem gospodarstwa rolnego w rozumieniu przepisów o podatku rolnym i nie prowadzi działu specjalnego, nie uwzględniając:
 
-- **1)** gruntów wydzierżawionych, na podstawie umowy pisemnej zawartej w przypadku renty stałej co najmniej na 10 lat, a w przypadku renty okresowej na okres wskazany w decyzji Prezesa Kasy o przyznaniu tej renty, której zawarcie potwierdził wójt, właściwy ze względu na miejsce położenia przedmiotu dzierżawy, osobie niebędącej:
+- **1)** gruntów wydzierżawionych, na podstawie umowy pisemnej zawartej – w przypadku renty stałej – co najmniej na 10 lat, a w przypadku renty okresowej – na okres wskazany w decyzji Prezesa Kasy o przyznaniu tej renty, której zawarcie potwierdził wójt, właściwy ze względu na miejsce położenia przedmiotu dzierżawy, osobie niebędącej:
     - **a)** małżonkiem rencisty,
     - **b)** osobą pozostającą z rencistą we wspólnym gospodarstwie domowym,
     - **c)** małżonkiem osoby, o której mowa w lit. b;
@@ -577,8 +616,8 @@ o ubezpieczeniu społecznym rolników
 9. W przypadku podjęcia działalności rolniczej na gruntach:
 
 - **1)** nabytych w drodze dziedziczenia lub
-- **2)** uprzednio wydzierżawionych na podstawie umowy pisemnej zawartej w przypadku renty stałej co najmniej na 10 lat, a w przypadku renty okresowej na okres wskazany w decyzji Prezesa Kasy o przyznaniu tej renty, jeżeli dzierżawa ustała wcześniej z przyczyn niezależnych od wydzierżawiającego, lub
-- **3)** odzyskanych w wyniku rozwiązania z przyczyn niezależnych od uprawnionego umowy, na podstawie której uprzednio zbył on te grunty, albo w wyniku uchylenia lub stwierdzenia nieważności decyzji administracyjnej wypłata nie ulega zawieszeniu przez okres jednego roku.
+- **2)** uprzednio wydzierżawionych na podstawie umowy pisemnej zawartej – w przypadku renty stałej – co najmniej na 10 lat, a w przypadku renty okresowej – na okres wskazany w decyzji Prezesa Kasy o przyznaniu tej renty, jeżeli dzierżawa ustała wcześniej z przyczyn niezależnych od wydzierżawiającego, lub
+- **3)** odzyskanych w wyniku rozwiązania – z przyczyn niezależnych od uprawnionego – umowy, na podstawie której uprzednio zbył on te grunty, albo w wyniku uchylenia lub stwierdzenia nieważności decyzji administracyjnej – wypłata nie ulega zawieszeniu przez okres jednego roku.
 
 10. W przypadku zaprzestania prowadzenia działalności rolniczej polegającej na przekazaniu gospodarstwa rolnego w formie aktu notarialnego osobie niepełnoletniej wypłata ulega zawieszeniu w całości do czasu osiągnięcia przez tę osobę 18 lat.
 
@@ -608,7 +647,7 @@ o ubezpieczeniu społecznym rolników
 - **1)** dzieci własne, dzieci drugiego małżonka oraz dzieci przysposobione,
 - **2)** przyjęte na wychowanie i utrzymanie przed osiągnięciem pełnoletności wnuki, rodzeństwo i inne dzieci, z wyłączeniem dzieci przyjętych na wychowanie i utrzymanie w ramach rodziny zastępczej lub rodzinnego domu dziecka,
 - **3)** małżonek (wdowa, wdowiec),
-- **4)** rodzice jeżeli spełniają warunki do uzyskania takiej renty w myśl przepisów emerytalnych.
+- **4)** rodzice – jeżeli spełniają warunki do uzyskania takiej renty w myśl przepisów emerytalnych.
 
 **Art. 30.**
 
@@ -616,8 +655,8 @@ o ubezpieczeniu społecznym rolników
 
 2. Jeżeli do renty rodzinnej uprawniona jest jedna osoba, renta wynosi 85 % emerytury podstawowej ze zwiększeniem o:
 
-- **1)** 50 % nadwyżki ponad kwotę emerytury podstawowej emerytury lub renty inwalidzkiej z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, jaka przysługiwała zmarłemu w chwili śmierci, albo
-- **2)** 50 % części składkowej emerytury rolniczej lub renty rolniczej z tytułu niezdolności do pracy, która przysługiwała lub przysługiwałaby zmarłemu w chwili śmierci z tym że renta rodzinna nie może być niższa od emerytury podstawowej.
+- **1)** 50 % nadwyżki – ponad kwotę emerytury podstawowej – emerytury lub renty inwalidzkiej z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, jaka przysługiwała zmarłemu w chwili śmierci, albo
+- **2)** 50 % części składkowej emerytury rolniczej lub renty rolniczej z tytułu niezdolności do pracy, która przysługiwała lub przysługiwałaby zmarłemu w chwili śmierci – z tym że renta rodzinna nie może być niższa od emerytury podstawowej.
 
 3. Za każdą następną osobę uprawnioną wysokość renty rodzinnej, ustalonej w sposób określony w ust. 2, zwiększa się o 5 %.
 
@@ -645,9 +684,9 @@ o ubezpieczeniu społecznym rolników
 
 **Art. 33.**
 
-1. W razie zbiegu prawa do emerytury z prawem do renty na podstawie ustawy, uprawnionemu przyznaje się jedno świadczenie wyższe lub wybrane przez uprawnionego, z zastrzeżeniem art. 22 ust. 3 i 4 oraz art. 33a.
+1. W razie zbiegu prawa do emerytury z prawem do renty na podstawie ustawy, uprawnionemu przyznaje się jedno świadczenie – wyższe lub wybrane przez uprawnionego, z zastrzeżeniem art. 22 ust. 3 i 4 oraz art. 33a.
 
-2. W razie zbiegu prawa do emerytury lub renty przysługującej na podstawie ustawy z prawem do emerytury lub renty z innego ubezpieczenia społecznego, uprawnionemu wypłaca się jedno z tych świadczeń wyższe lub wybrane przez uprawnionego, z zastrzeżeniem ust. 4 oraz art. 33a.
+2. W razie zbiegu prawa do emerytury lub renty przysługującej na podstawie ustawy z prawem do emerytury lub renty z innego ubezpieczenia społecznego, uprawnionemu wypłaca się jedno z tych świadczeń – wyższe lub wybrane przez uprawnionego, z zastrzeżeniem ust. 4 oraz art. 33a.
 
 2a. Przepisu ust. 2 nie stosuje się do osób uprawnionych jednocześnie do emerytury rolniczej oraz do emerytury przyznanej na podstawie art. 24 ust. 1, art. 24a lub art. 184 przepisów emerytalnych.
 
@@ -746,9 +785,9 @@ o ubezpieczeniu społecznym rolników
 - **1)** jest matką albo ojcem dziecka, z uwzględnieniem ust. 2;
 - **2)** przysposobiła dziecko, w przypadku objęcia opieką dziecka w wieku do ukończenia 14. roku życia;
 - **3)** przyjęła na wychowanie dziecko i wystąpiła do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie jego przysposobienia, w przypadku objęcia opieką dziecka w wieku do ukończenia 14. roku życia;
-- **4)** przyjęła dziecko w wieku do 7. roku życia na wychowanie w ramach rodziny zastępczej, z wyjątkiem rodziny zastępczej zawodowej, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego do 10. roku życia.
+- **4)** przyjęła dziecko w wieku do 7. roku życia na wychowanie w ramach rodziny zastępczej, z wyjątkiem rodziny zastępczej zawodowej, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego – do 10. roku życia.
 
-2. Zasiłek macierzyński przysługuje ubezpieczonemu ojcu dziecka w przypadku:
+2. Zasiłek macierzyński przysługuje ubezpieczonemu – ojcu dziecka w przypadku:
 
 - **1)** skrócenia okresu pobierania zasiłku macierzyńskiego na wniosek matki dziecka po wykorzystaniu przez nią tego świadczenia za okres co najmniej 14 tygodni od dnia urodzenia dziecka;
 - **2)** śmierci matki dziecka;
@@ -756,19 +795,19 @@ o ubezpieczeniu społecznym rolników
 
 3. Zasiłek macierzyński przysługuje przez okres:
 
-- **1)** 52 tygodni w przypadku urodzenia jednego dziecka przy jednym porodzie, przysposobienia jednego dziecka lub przyjęcia na wychowanie jednego dziecka;
-- **2)** 65 tygodni w przypadku urodzenia dwojga dzieci przy jednym porodzie, przysposobienia dwojga dzieci lub przyjęcia na wychowanie dwojga dzieci;
-- **3)** 67 tygodni w przypadku urodzenia trojga dzieci przy jednym porodzie, przysposobienia trojga dzieci lub przyjęcia na wychowanie trojga dzieci;
-- **4)** 69 tygodni w przypadku urodzenia czworga dzieci przy jednym porodzie, przysposobienia czworga dzieci lub przyjęcia na wychowanie czworga dzieci;
-- **5)** 71 tygodni w przypadku urodzenia pięciorga i więcej dzieci przy jednym porodzie, przysposobienia pięciorga i więcej dzieci lub przyjęcia na wychowanie pięciorga i więcej dzieci.
+- **1)** 52 tygodni – w przypadku urodzenia jednego dziecka przy jednym porodzie, przysposobienia jednego dziecka lub przyjęcia na wychowanie jednego dziecka;
+- **2)** 65 tygodni – w przypadku urodzenia dwojga dzieci przy jednym porodzie, przysposobienia dwojga dzieci lub przyjęcia na wychowanie dwojga dzieci;
+- **3)** 67 tygodni – w przypadku urodzenia trojga dzieci przy jednym porodzie, przysposobienia trojga dzieci lub przyjęcia na wychowanie trojga dzieci;
+- **4)** 69 tygodni – w przypadku urodzenia czworga dzieci przy jednym porodzie, przysposobienia czworga dzieci lub przyjęcia na wychowanie czworga dzieci;
+- **5)** 71 tygodni – w przypadku urodzenia pięciorga i więcej dzieci przy jednym porodzie, przysposobienia pięciorga i więcej dzieci lub przyjęcia na wychowanie pięciorga i więcej dzieci.
 
-3a. Ubezpieczonemu ojcu dziecka przysługuje zasiłek macierzyński przez okres 9 tygodni, jeżeli nie przysługuje mu prawo do zasiłku macierzyńskiego zgodnie z ust. 2.
+3a. Ubezpieczonemu – ojcu dziecka przysługuje zasiłek macierzyński przez okres 9 tygodni, jeżeli nie przysługuje mu prawo do zasiłku macierzyńskiego zgodnie z ust. 2.
 
 3b. Okresy, o których mowa w ust. 3, ulegają wydłużeniu w przypadku urodzenia dziecka:
 
-- **1)** przed ukończeniem 28. tygodnia ciąży lub z masą urodzeniową nie większą niż 1000 g o tydzień za każdy tydzień pobytu dziecka w szpitalu do upływu 15. tygodnia po porodzie;
-- **2)** po ukończeniu 28. tygodnia ciąży i przed ukończeniem 37. tygodnia ciąży i z masą urodzeniową większą niż 1000 g o tydzień za każdy tydzień pobytu dziecka w szpitalu do upływu 8. tygodnia po porodzie;
-- **3)** po ukończeniu 37. tygodnia ciąży i jego pobytu w szpitalu, pod warunkiem że pobyt dziecka w szpitalu po porodzie będzie wynosił co najmniej 2 kolejne dni, przy czym pierwszy z tych dni będzie przypadał w okresie od 5. do 28. dnia po porodzie o tydzień za każdy tydzień pobytu dziecka w szpitalu w okresie od 5. dnia do upływu 8. tygodnia po porodzie.
+- **1)** przed ukończeniem 28. tygodnia ciąży lub z masą urodzeniową nie większą niż 1000 g – o tydzień za każdy tydzień pobytu dziecka w szpitalu do upływu 15. tygodnia po porodzie;
+- **2)** po ukończeniu 28. tygodnia ciąży i przed ukończeniem 37. tygodnia ciąży i z masą urodzeniową większą niż 1000 g – o tydzień za każdy tydzień pobytu dziecka w szpitalu do upływu 8. tygodnia po porodzie;
+- **3)** po ukończeniu 37. tygodnia ciąży i jego pobytu w szpitalu, pod warunkiem że pobyt dziecka w szpitalu po porodzie będzie wynosił co najmniej 2 kolejne dni, przy czym pierwszy z tych dni będzie przypadał w okresie od 5. do 28. dnia po porodzie – o tydzień za każdy tydzień pobytu dziecka w szpitalu w okresie od 5. dnia do upływu 8. tygodnia po porodzie.
 
 3c. W przypadku urodzenia więcej niż jednego dziecka przy jednym porodzie przy wydłużaniu okresu zasiłku macierzyńskiego należy uwzględnić wagę dziecka o najniższej masie urodzeniowej oraz okres pobytu w szpitalu dziecka najdłużej hospitalizowanego.
 
@@ -784,17 +823,17 @@ o ubezpieczeniu społecznym rolników
 
 4. Zasiłek macierzyński przysługuje od dnia:
 
-- **1)** porodu w przypadku, o którym mowa w ust. 1 pkt 1;
-- **2)** przysposobienia dziecka, nie dłużej niż do ukończenia przez dziecko 14. roku życia w przypadku osoby, o której mowa w ust. 1 pkt 2;
-- **2a)** przyjęcia dziecka na wychowanie, nie dłużej niż do ukończenia przez dziecko 14. roku życia w przypadku, o którym mowa w ust. 1 pkt 3;
-- **3)** przyjęcia dziecka na wychowanie, nie dłużej niż do ukończenia przez dziecko 7. roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego, nie dłużej niż do ukończenia przez nie 10. roku życia w przypadku, o którym mowa w ust. 1 pkt 4.
+- **1)** porodu – w przypadku, o którym mowa w ust. 1 pkt 1;
+- **2)** przysposobienia dziecka, nie dłużej niż do ukończenia przez dziecko 14. roku życia – w przypadku osoby, o której mowa w ust. 1 pkt 2;
+- **2a)** przyjęcia dziecka na wychowanie, nie dłużej niż do ukończenia przez dziecko 14. roku życia – w przypadku, o którym mowa w ust. 1 pkt 3;
+- **3)** przyjęcia dziecka na wychowanie, nie dłużej niż do ukończenia przez dziecko 7. roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego, nie dłużej niż do ukończenia przez nie 10. roku życia – w przypadku, o którym mowa w ust. 1 pkt 4.
 
 5. Osobie uprawnionej do zasiłku macierzyńskiego przysługuje w tym samym czasie jeden zasiłek macierzyński bez względu na liczbę wychowywanych dzieci.
 
 6. Zasiłek macierzyński nie przysługuje, jeżeli:
 
 - **1)** co najmniej jeden z rodziców dziecka lub osoba, która przyjęła dziecko na wychowanie, otrzymują zasiłek macierzyński lub uposażenie za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego, okres urlopu rodzicielskiego lub okres uzupełniającego urlopu macierzyńskiego;
-- **2)** dziecko zostało umieszczone w pieczy zastępczej w przypadku osób, o których mowa w ust. 1 pkt 1 i 2;
+- **2)** dziecko zostało umieszczone w pieczy zastępczej – w przypadku osób, o których mowa w ust. 1 pkt 1 i 2;
 - **3)** jeden z rodziców dziecka lub osoba, która przyjęła dziecko na wychowanie, nie sprawują lub zaprzestali sprawowania osobistej opieki nad dzieckiem.
 
 **Art. 35b.**
@@ -859,7 +898,7 @@ o ubezpieczeniu społecznym rolników
 
 5. Kasa wymienia dane dotyczące rolników i domowników, w zakresie określonym w art. 68a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w ramach Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 987/2009 z dnia 16 września 2009 r. dotyczącym wykonywania rozporządzenia (WE) nr 883/2004 w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 284 z 30.10.2009, str. 1, z późn. zm.), za pośrednictwem punktu kontaktowego prowadzonego przez Zakład.
 
-6. Kasa przekazuje ministrowi właściwemu do spraw oświaty i wychowania dane, o których mowa w art. 26b ust. 16a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160), w celu prowadzenia monitoringu karier absolwentów, o którym mowa w art. 26b ust. 1 tej ustawy.
+6. Kasa przekazuje ministrowi właściwemu do spraw oświaty i wychowania dane, o których mowa w art. 26b ust. 16a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160), w celu prowadzenia monitoringu karier absolwentów, o którym mowa w art. 26b ust. 1 tej ustawy.
 
 **Art. 37a.**
 
@@ -868,6 +907,11 @@ o ubezpieczeniu społecznym rolników
 2. Na żądanie Kasy złożone za pośrednictwem systemu, o którym mowa w art. 68aa ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, każdy z organów emerytalno-rentowych, którym został udostępniony ten system, udostępnia dane niezbędne do ustalania prawa i wysokości oraz wypłaty świadczeń, rozliczeń z tytułu tych świadczeń pomiędzy tymi organami oraz do ustalenia zbiegu świadczeń.
 
 **Art. 38.** Przy ustalaniu podlegania ubezpieczeniu domniemywa się, że:
+
+- **1)** właściciel gruntów zaliczonych do użytków rolnych lub dzierżawca takich gruntów, jeżeli umowa dzierżawy jest potwierdzona przez wójta, właściwego ze względu na miejsce położenia przedmiotu dzierżawy, prowadzi działalność rolniczą na tych gruntach;
+- **2)** podatnik podatku rolnego lub podatku od dochodu z działów specjalnych prowadzi działalność rolniczą w rozmiarze wynikającym z zakresu opodatkowania;
+- **3)** jeżeli własność lub dzierżawa gruntów, o których mowa w pkt 1, przysługuje kilku osobom lub jeżeli obowiązek podatkowy, o którym mowa w pkt 2, ciąży na kilku osobach – każda z tych osób uczestniczy w prowadzeniu działalności rolniczej;
+- **4)** osoba bliska rolnikowi, spełniająca warunki określone w art. 6 pkt 2 lit. a i b, stale pracuje w gospodarstwie rolnym i nie jest związana z rolnikiem stosunkiem pracy – jeżeli okoliczność ta została stwierdzona zgodnym oświadczeniem rolnika i tej osoby.
 
 **Art. 39.**
 
@@ -909,7 +953,7 @@ o ubezpieczeniu społecznym rolników
 
 **Art. 40a.**
 
-1. Od składek nieopłaconych w terminie przez rolnika pobiera się od rolnika odsetki za zwłokę, na zasadach i w wysokości określonej w dziale III rozdział 6 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
+1. Od składek nieopłaconych w terminie przez rolnika pobiera się od rolnika odsetki za zwłokę, na zasadach i w wysokości określonej w dziale III rozdział 6 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
 
 2. Odsetek za zwłokę nie nalicza się od nieopłaconych w terminie składek, jeżeli:
 
@@ -971,7 +1015,7 @@ o ubezpieczeniu społecznym rolników
 
 9. Bieg przedawnienia terminu, o którym mowa w ust. 1, ulega zawieszeniu od dnia śmierci spadkodawcy do dnia uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku, nie dłużej jednak niż do dnia, w którym upłynęły 2 lata od śmierci spadkodawcy.
 
-10. Nadpłacone lub nienależnie opłacone składki podlegają z urzędu zaliczeniu na poczet zaległych lub bieżących składek, a w razie ich braku na poczet przyszłych składek, chyba że płatnik złoży wniosek o zwrot składek.
+10. Nadpłacone lub nienależnie opłacone składki podlegają z urzędu zaliczeniu na poczet zaległych lub bieżących składek, a w razie ich braku – na poczet przyszłych składek, chyba że płatnik złoży wniosek o zwrot składek.
 
 11. Nadpłacone lub nienależnie opłacone składki nie podlegają zwrotowi, jeżeli od dnia ich opłacenia upłynęło 5 lat.
 
@@ -1018,7 +1062,7 @@ o ubezpieczeniu społecznym rolników
 - **1)** sposób dokumentowania wypadku przy pracy rolniczej,
 - **2)** zgłaszanie roszczenia o jednorazowe odszkodowanie z tytułu wypadku przy pracy rolniczej,
 - **3)** prowadzenie postępowania dowodowego w celu ustalenia okoliczności i przyczyn wypadku przy pracy rolniczej,
-- **4)** informacje, które powinny się znaleźć w protokole powypadkowym biorąc pod uwagę konieczność zapewnienia jednolitości procedur przy ustalaniu okoliczności i przyczyn tych wypadków.
+- **4)** informacje, które powinny się znaleźć w protokole powypadkowym – biorąc pod uwagę konieczność zapewnienia jednolitości procedur przy ustalaniu okoliczności i przyczyn tych wypadków.
 
 **Art. 46.**
 
@@ -1030,7 +1074,7 @@ o ubezpieczeniu społecznym rolników
 - **4)** czasowej niezdolności do pracy trwającej dłużej niż 180 dni,
 - **5)** celowości przekwalifikowania zawodowego z powodu trwałej całkowitej niezdolności do pracy w gospodarstwie rolnym,
 - **6)** wskazań do rehabilitacji leczniczej,
-- **7)** innych okoliczności warunkujących przyznanie świadczeń z ubezpieczenia społecznego rolników w związku z prowadzonym postępowaniem o ustalenie prawa do świadczeń wydają w pierwszej instancji lekarze rzeczoznawcy Kasy, a w drugiej instancji komisje lekarskie Kasy.
+- **7)** innych okoliczności warunkujących przyznanie świadczeń z ubezpieczenia społecznego rolników – w związku z prowadzonym postępowaniem o ustalenie prawa do świadczeń wydają w pierwszej instancji lekarze rzeczoznawcy Kasy, a w drugiej instancji – komisje lekarskie Kasy.
 
 2. Prawomocne orzeczenie lekarza rzeczoznawcy Kasy lub orzeczenie komisji lekarskiej Kasy stanowi podstawę do wydania decyzji w sprawie świadczeń przewidzianych w ustawie, do których prawo uzależnione jest od stwierdzenia:
 
@@ -1046,7 +1090,7 @@ o ubezpieczeniu społecznym rolników
 - **2)** tryb postępowania orzeczniczego,
 - **3)** tryb i termin wnoszenia odwołań od orzeczeń lekarzy rzeczoznawców Kasy,
 - **4)** formy nadzoru nad orzekaniem lekarzy rzeczoznawców Kasy i komisji lekarskich Kasy,
-- **5)** dodatkowe kwalifikacje zawodowe wymagane od lekarzy realizujących zadania z zakresu orzecznictwa lekarskiego mając na uwadze konieczność zapewnienia w Kasie jednolitości stosowania procedur dotyczących realizacji zadań z zakresu orzecznictwa lekarskiego.
+- **5)** dodatkowe kwalifikacje zawodowe wymagane od lekarzy realizujących zadania z zakresu orzecznictwa lekarskiego – mając na uwadze konieczność zapewnienia w Kasie jednolitości stosowania procedur dotyczących realizacji zadań z zakresu orzecznictwa lekarskiego.
 
 5. Stwierdzenia rolniczej choroby zawodowej dokonuje właściwy państwowy powiatowy inspektor sanitarny w trybie określonym w przepisach wydanych na podstawie Kodeksu pracy.
 
@@ -1056,7 +1100,7 @@ o ubezpieczeniu społecznym rolników
 
 2. Spełnienie warunku niemożliwości sprzedaży nieruchomości, w myśl art. 28 ust. 7 pkt 1, stwierdza Krajowy Ośrodek Wsparcia Rolnictwa lub upoważniony przez nią wójt.
 
-3. Minister właściwy do spraw rozwoju wsi, w drodze rozporządzenia, określa szczegółowy tryb postępowania w sprawach, o których mowa w ust. 2, oraz zasady pokrywania kosztów dokonanych czynności przez Kasę, a w uzasadnionych przypadkach przez wnioskodawcę.
+3. Minister właściwy do spraw rozwoju wsi, w drodze rozporządzenia, określa szczegółowy tryb postępowania w sprawach, o których mowa w ust. 2, oraz zasady pokrywania kosztów dokonanych czynności przez Kasę, a w uzasadnionych przypadkach – przez wnioskodawcę.
 
 **Art. 48.**
 
@@ -1100,7 +1144,7 @@ o ubezpieczeniu społecznym rolników
 
 1. W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy ustawy o systemie ubezpieczeń społecznych, a ponadto:
 
-- **1)** do składek na ubezpieczenie stosuje się odpowiednio art. 12, art. 26, art. 29 § 1 i 2, art. 51 § 1, art. 55, art. 59 § 1 pkt 1, 3, 4, 8 i 9, art. 60 § 1, art. 62 § 1 i 5, art. 62b § 1 pkt 2 i § 3, art. 63 § 1, art. 72 § 1 pkt 1 i 4, art. 73 § 1 pkt 1 i 5, art. 77 § 1 pkt 2, art. 77b § 2 i 4, art. 78 § 1, § 3 pkt 3 lit. a i § 4, art. 79 § 2, art. 91, art. 97 § 1, art. 98 § 1 i § 2 pkt 1, 2 i 7, art. 100 § 1, art. 101 § 1, art. 105 § 1 i 2, art. 106 § 1 i 2, art. 107 § 1, § 1a, § 2 pkt 2 i 4 i § 3, art. 108 § 1 i 4, art. 109 § 1 i 2 pkt 1, art. 110 § 1, § 2 pkt 2 i § 3, art. 111 § 1–4 i § 5 pkt 1, art. 112 § 1, § 3, § 4 pkt 2 i § 5–7 oraz art. 118 § 1 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa;
+- **1)** do składek na ubezpieczenie stosuje się odpowiednio art. 12, art. 26, art. 29 § 1 i 2, art. 51 § 1, art. 55, art. 59 § 1 pkt 1, 3, 4, 8 i 9, art. 60 § 1, art. 62 § 1 i 5, art. 62b § 1 pkt 2 i § 3, art. 63 § 1, art. 72 § 1 pkt 1 i 4, art. 73 § 1 pkt 1 i 5, art. 77 § 1 pkt 2, art. 77b § 2 i 4, art. 78 § 1, § 3 pkt 3 lit. a i § 4, art. 79 § 2, art. 91, art. 97 § 1, art. 98 § 1 i § 2 pkt 1, 2 i 7, art. 100 § 1, art. 101 § 1, art. 105 § 1 i 2, art. 106 § 1 i 2, art. 107 § 1, § 1a, § 2 pkt 2 i 4 i § 3, art. 108 § 1 i 4, art. 109 § 1 i 2 pkt 1, art. 110 § 1, § 2 pkt 2 i § 3, art. 111 § 1–4 i § 5 pkt 1, art. 112 § 1, § 3, § 4 pkt 2 i § 5–7 oraz art. 118 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;
 - **2)** do przyznawania świadczeń z ubezpieczenia i do ich wypłaty stosuje się odpowiednio przepisy regulujące przyznawanie i wypłatę odpowiednich świadczeń przysługujących pracownikom i członkom ich rodzin.
 
 2. Zasady zwrotu nienależnie pobranych świadczeń oraz ustalania odsetek za opóźnienia w wypłacie świadczeń określają przepisy emerytalne oraz przepisy ustawy o systemie ubezpieczeń społecznych oraz ustawy o świadczeniach pieniężnych w razie choroby i macierzyństwa.

@@ -8,10 +8,10 @@ pos: 987
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 maja 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 987 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 10 maja 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000987) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/987/text.pdf) |
 
-Poz. 987 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 10 maja 2022 r.
 zmieniające rozporządzenie w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania Na podstawie art. 11 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
-poz. 813 i 835) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055, z późn. zm. ) wprowadza się następujące zmiany:
+poz. 813 i 835) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055, z późn. zm. ) wprowadza się następujące zmiany:
 1) § 5a otrzymuje brzmienie: „§ 5a. Do dokonywania czynności związanych z poborem opłaty dodatkowej, o której mowa w art. 37ge ust. 1 i 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U.
 z 2022 r. poz. 659), zwanej dalej „ustawą o autostradach płatnych”, w zakresie dokonywania zapisów w ewidencji i dokonywania rozliczeń z tytułu wpłat, nadpłat, zaległości oraz zwrotów tej opłaty, wyznacza się:
 1) naczelnika urzędu skarbowego, na którego terytorialnym zasięgu działania ma miejsce zamieszkania lub siedzibę wnoszący opłatę, o którym mowa w art. 37a ust. 7 ustawy o autostradach płatnych, w dniu wystawienia wezwania, o którym mowa w art. 37ge ust. 7 tej ustawy;

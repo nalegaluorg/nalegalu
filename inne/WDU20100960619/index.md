@@ -8,7 +8,7 @@ pos: 619
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Polskiej Akademii Nauk
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-04-30 |
 | Data wydania | 2010-06-04 |
-| Ostatnia zmiana | 2026-02-19 |
+| Ostatnia zmiana | 2026-05-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100960619) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/619/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -50,7 +50,7 @@ source: "isap-pdf"
 - **3)** kształcenie w szkole doktorskiej, na studiach podyplomowych i w innych formach kształcenia na zasadach określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **4)** formułowanie zasad etyki w nauce;
 - **5)** przedstawianie opinii i programów dotyczących spraw nauki oraz wykorzystywania wyników działalności naukowej w praktyce;
-- **6)** wykonywanie na wniosek Prezydenta Rzeczypospolitej Polskiej, Marszałka lub Senatu, ministrów lub centralnych organów administracji rządowej lub z inicjatywy własnej opinii, ocen, ekspertyz i prognoz dotyczących spraw istotnych dla planowania i realizacji polityki państwa;
+- **6)** wykonywanie na wniosek Prezydenta Rzeczypospolitej Polskiej, Marszałka Sejmu lub Senatu, ministrów lub centralnych organów administracji rządowej lub z inicjatywy własnej opinii, ocen, ekspertyz i prognoz dotyczących spraw istotnych dla planowania i realizacji polityki państwa;
 - **7)** opiniowanie projektów aktów normatywnych dotyczących nauki, jej zastosowań oraz kształcenia;
 - **8)** współpraca z uczelniami, federacjami podmiotów systemu szkolnictwa wyższego i nauki, Centrum Łukasiewicz i instytutami działającymi w ramach Sieci Badawczej Łukasiewicz, instytutami badawczymi oraz towarzystwami naukowymi, w szczególności w zakresie działalności naukowej;
 - **9)** współpraca ze środowiskiem społeczno-gospodarczym w zakresie działalności naukowej w celu wdrożenia jej wyników;
@@ -154,6 +154,11 @@ source: "isap-pdf"
 
 **Art. 13.** Organami Akademii są:
 
+- **1)** Zgromadzenie Ogólne Akademii;
+- **2)** Prezydium Akademii;
+- **3)** Prezes Akademii;
+- **4)** Kanclerz Akademii.
+
 **Art. 14.**
 
 1. Najwyższym organem Akademii jest Zgromadzenie Ogólne Akademii.
@@ -232,6 +237,9 @@ source: "isap-pdf"
 **Art. 20.** Prezydium Akademii może powoływać na czas określony komisje i zespoły doradcze. Komisje i zespoły doradcze działają niedłużej niż do końca kadencji Prezydium Akademii.
 
 **Art. 20a.** Posiedzenia organów Akademii, o których mowa w art. 13 pkt 1 i 2, oraz komisji i zespołów doradczych, o których mowa w art. 20, mogą być przeprowadzane przy użyciu środków komunikacji elektronicznej, zapewniających w szczególności:
+
+- **1)** transmisję posiedzenia w czasie rzeczywistym między jego uczestnikami,
+- **2)** wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku – z zachowaniem niezbędnych zasad bezpieczeństwa.
 
 **Art. 21.**
 
@@ -318,6 +326,14 @@ source: "isap-pdf"
 #### Rozdział 4 Korporacja uczonych Akademii
 
 **Art. 27.** Korporacja uczonych Akademii obejmuje:
+
+- **1)** wydziały, w liczbie niewiększej niż pięć;
+- **2)** oddziały;
+- **3)** komitety naukowe;
+- **4)** komitety problemowe;
+- **5)** akademię młodych uczonych;
+- **6)** komisję do spraw etyki w nauce;
+- **7)** komisję rewizyjną.
 
 **Art. 28.**
 
@@ -471,11 +487,18 @@ source: "isap-pdf"
 
 **Art. 41a.** Posiedzenia gremiów kolegialnych podmiotów, o których mowa w art. 27 pkt 1 i 2, oraz posiedzenia podmiotów, o których mowa w art. 27 pkt 3–7, mogą być przeprowadzane przy użyciu środków komunikacji elektronicznej, zapewniających w szczególności:
 
+- **1)** transmisję posiedzenia w czasie rzeczywistym między jego uczestnikami,
+- **2)** wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą wypowiadać się w jego toku – z zachowaniem niezbędnych zasad bezpieczeństwa.
+
 #### Rozdział 5 Jednostki naukowe i inne jednostki organizacyjne Akademii
 
 **Art. 42.** Podstawową jednostką naukową Akademii jest instytut naukowy, zwany dalej „instytutem”.
 
 **Art. 43.** Instytut tworzy się, jeżeli:
+
+- **1)** istnieje potrzeba prowadzenia w sposób ciągły działalności naukowej, która ze względu na swój zakres, skalę lub charakter nie może być prowadzona przez inne podmioty, o których mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, oraz do prowadzenia tej działalności jest potrzebna znaczna koncentracja pracowników naukowych oraz odpowiednia aparatura badawcza;
+- **2)** zostanie zapewniona niezbędna liczba pracowników, niemniejsza niż 12 w przeliczeniu na pełny wymiar czasu pracy, o kwalifikacjach odpowiednich do prowadzenia działalności naukowej;
+- **3)** zapewniono odpowiednie lokale, wyposażenie i środki finansowe.
 
 **Art. 44.** Uchwałę o utworzeniu instytutu podejmuje Prezydium Akademii, na wniosek Prezesa Akademii złożony po zasięgnięciu opinii wydziału właściwego ze względu na specjalność naukową instytutu. Utworzenie instytutu wymaga zgody ministra właściwego do spraw szkolnictwa wyższego i nauki, o którą występuje Prezes Akademii.
 
@@ -743,6 +766,12 @@ source: "isap-pdf"
 5. Do podziału instytutu stosuje się odpowiednio przepisy art. 62 ust. 3–6.
 
 **Art. 64.** Reorganizacja instytutu może polegać na:
+
+- **1)** zmianie przedmiotu lub zakresu działania instytutu;
+- **2)** zmianie dotychczasowej nazwy instytutu;
+- **3)** dokonaniu zmian w strukturze organizacyjnej instytutu:
+    - **a)** likwidacji wyodrębnionej organizacyjnie części instytutu,
+    - **b)** przekazaniu Akademii lub sprzedaży wyodrębnionych organizacyjnie i gospodarczo części instytutu.
 
 **Art. 65.**
 
@@ -1042,6 +1071,13 @@ source: "isap-pdf"
 
 **Art. 87.** Jednostki naukowe Akademii mogą zatrudniać:
 
+- **1)** pracowników naukowych;
+- **2)** pracowników badawczo-technicznych;
+- **3)** pracowników bibliotecznych, dokumentacji i informacji naukowej;
+- **4)** pracowników inżynieryjnych i technicznych;
+- **5)** pracowników organizacyjno-ekonomicznych i administracyjnych;
+- **6)** pracowników na stanowiskach robotniczych i obsługi.
+
 **Art. 88.**
 
 1. Pracownicy naukowi mogą być zatrudniani na stanowiskach:
@@ -1075,6 +1111,15 @@ source: "isap-pdf"
 
 **Art. 90.** Bibliotekarze oraz pracownicy dokumentacji i informacji naukowej mogą być zatrudnieni na stanowiskach:
 
+- **1)** kustosza dyplomowanego;
+- **2)** starszego kustosza dyplomowanego;
+- **3)** asystenta bibliotecznego;
+- **4)** adiunkta bibliotecznego;
+- **5)** asystenta dokumentacji i informacji naukowej;
+- **6)** adiunkta dokumentacji i informacji naukowej;
+- **7)** dokumentalisty dyplomowanego;
+- **8)** starszego dokumentalisty dyplomowanego.
+
 **Art. 91.**
 
 1. Stosunek pracy na stanowisku profesora lub profesora instytutu nawiązuje się na podstawie mianowania albo umowy o pracę. Na podstawie mianowania zatrudnia się wyłącznie osobę posiadającą tytuł profesora. Wyłącznie na podstawie umowy o pracę można zatrudnić osobę, która:
@@ -1098,6 +1143,10 @@ source: "isap-pdf"
 - **3)** na tym samym stanowisku, jeżeli poprzednia umowa o pracę była zawarta na czas niekrótszy niż trzy lata.
 
 **Art. 91a.** Wysokość miesięcznego wynagrodzenia zasadniczego w jednostce naukowej Akademii dla pracownika naukowego nie może być niższa niż 50 % wynagrodzenia określonego w przepisach wydanych na podstawie art. 137 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, z tym że dla:
+
+- **1)** profesora – wynosi niemniej niż 100 %,
+- **2)** profesora instytutu – wynosi niemniej niż 83 %,
+- **3)** adiunkta – wynosi niemniej niż 73 % – tego wynagrodzenia.
 
 **Art. 92.** (uchylony)
 
@@ -1129,7 +1178,18 @@ source: "isap-pdf"
 
 **Art. 94a.** Rada naukowa uchwala regulamin zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej oraz zasad komercjalizacji wyników badań naukowych i prac rozwojowych, który określa w szczególności:
 
+- **1)** prawa i obowiązki instytutu, pracowników oraz doktorantów w zakresie ochrony i korzystania z praw autorskich i praw pokrewnych oraz praw własności przemysłowej;
+- **2)** zasady wynagradzania twórców;
+- **3)** zasady podziału środków uzyskanych z komercjalizacji między twórcą będącym pracownikiem instytutu a tym instytutem;
+- **4)** zasady i procedury komercjalizacji wyników badań naukowych i prac rozwojowych oraz know-how związanego z tymi wynikami;
+- **5)** zasady korzystania z majątku instytutu wykorzystywanego do komercjalizacji wyników badań naukowych i prac rozwojowych oraz świadczenia usług naukowo-badawczych;
+- **6)** zasady i tryb przekazywania instytutowi przez pracownika lub doktoranta tego instytutu informacji o wynikach badań naukowych lub prac rozwojowych oraz o know-how związanym z tymi wynikami, informacji o uzyskanych przez pracownika instytutu środkach z komercjalizacji oraz zasady i tryb przekazywania przez pracownika instytutu przysługujących instytutowi części środków uzyskanych z komercjalizacji;
+- **7)** zasady i tryb przekazywania pracownikowi przez instytut informacji o decyzjach, o których mowa w art. 94c ust. 1 i 2, oraz zasady i tryb przekazywania przez instytut przysługujących pracownikowi części środków uzyskanych z komercjalizacji.
+
 **Art. 94b.** Do wyników:
+
+- **1)** badań naukowych będących wynalazkiem, wzorem użytkowym, wzorem przemysłowym lub topografią układu scalonego, wyhodowaną albo odkrytą i wyprowadzoną odmianą rośliny,
+- **2)** prac rozwojowych – powstałych w ramach wykonywania przez pracownika instytutu obowiązków ze stosunku pracy oraz do know-how związanego z tymi wynikami stosuje się przepisy art. 94c–94f.
 
 **Art. 94c.**
 

@@ -8,7 +8,7 @@ pos: 565
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej
@@ -28,6 +28,11 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000565) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/565/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288 i 1831) wprowadza się następujące zmiany:
+
+- **1)** w art. 10 w ust. 1 pkt 6 otrzymuje brzmienie: „6) na okres od dnia 1 października 2025 r. do dnia 31 grudnia 2025 r., w przypadku zatwierdzenia taryfy lub jej zmiany na podstawie art. 51b, w terminie do dnia 1 października 2025 r.”;
+- **2)** w art. 51b:
+    - **a)** w ust. 1: – w pkt 1 wyrazy „30 kwietnia 2025 r.” zastępuje się wyrazami „31 lipca 2025 r.”, – w pkt 2: – – w lit. b wyrazy „1 lipca 2025 r.” zastępuje się wyrazami „1 października 2025 r.”, – – w części wspólnej wyrazy „30 kwietnia 2025 r.” zastępuje się wyrazami „31 lipca 2025 r.”,
+    - **b)** w ust. 4 wyrazy „od dnia 1 lipca 2025 r., a w przypadku nieopublikowania decyzji zatwierdzającej taryfę do dnia 30 czerwca 2025 r.” zastępuje się wyrazami „od dnia 1 października 2025 r., a w przypadku nieopublikowania decyzji zatwierdzającej taryfę do dnia 30 września 2025 r.”.
 
 **Art. 2.**
 

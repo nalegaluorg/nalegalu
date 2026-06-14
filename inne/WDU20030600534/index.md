@@ -8,12 +8,12 @@ pos: 534
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Ustawa z dnia 27 lutego 2003 r. o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego
+# o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego
 
-*USTAWA z dnia 27 lutego 2003 o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego*
+*USTAWA z dnia 27 lutego 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -29,7 +29,7 @@ source: "isap-pdf"
 
 **Art. 1.**
 
-1. Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego działająca na podstawie art. 54 pkt 2 ustawy z dnia 31 marca 1965 o wyższym szkolnictwie wojskowym (Dz. U. z 1992 poz. 40, z późn. zm. ) , zwana dalej „WAT”, staje się Wojskową Akademią Techniczną im. Jarosława Dąbrowskiego w rozumieniu ustawy, zwaną dalej „Akademią”.
+1. Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego działająca na podstawie art. 54 pkt 2 ustawy z dnia 31 marca 1965 r. o wyższym szkolnictwie wojskowym (Dz. U. z 1992 r. poz. 40, z późn. zm. ) , zwana dalej „WAT”, staje się Wojskową Akademią Techniczną im. Jarosława Dąbrowskiego w rozumieniu ustawy, zwaną dalej „Akademią”.
 
 2. Siedzibą Akademii jest Warszawa.
 

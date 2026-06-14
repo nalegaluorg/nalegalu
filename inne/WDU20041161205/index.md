@@ -8,7 +8,7 @@ pos: 1205
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego
@@ -34,6 +34,50 @@ Art. 41−45. (pominięte)
 **Art. 1.** Ustawa określa zasady gromadzenia oszczędności na indywidualnych kontach emerytalnych, zwanych dalej „IKE”, oraz na indywidualnych kontach zabezpieczenia emerytalnego, zwanych dalej „IKZE”, oraz dokonywania wpłat, wypłat transferowych, wypłat, częściowego zwrotu i zwrotu środków zgromadzonych na tych kontach.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** IKE – wyodrębniony zapis w rejestrze uczestników funduszu inwestycyjnego, wyodrębniony rachunek papierów wartościowych lub inny rachunek, na którym zapisywane są instrumenty finansowe niebędące papierami wartościowymi oraz rachunek pieniężny służący do obsługi takich rachunków w podmiocie prowadzącym działalność maklerską, lub wyodrębniony rachunek w ubezpieczeniowym funduszu kapitałowym, wyodrębniony rachunek bankowy w banku, wyodrębniony rachunek IKE w dobrowolnym funduszu emerytalnym, prowadzone na zasadach określonych ustawą, a w zakresie w niej nieuregulowanym – na zasadach określonych w przepisach właściwych dla tych rachunków i rejestrów;
+- **1a)** IKZE – wyodrębniony zapis w rejestrze uczestników funduszu inwestycyjnego, wyodrębniony rachunek papierów wartościowych lub inny rachunek, na którym zapisywane są instrumenty finansowe niebędące papierami wartościowymi oraz rachunek pieniężny służący do obsługi takich rachunków w podmiocie prowadzącym działalność maklerską, lub wyodrębniony rachunek w ubezpieczeniowym funduszu kapitałowym, wyodrębniony rachunek bankowy w banku, wyodrębniony rachunek IKZE w dobrowolnym funduszu emerytalnym, prowadzone na zasadach określonych ustawą, a w zakresie w niej nieuregulowanym – na zasadach określonych w przepisach właściwych dla tych rachunków i rejestrów;
+- **2)** gromadzenie oszczędności – dokonywanie wpłat, wypłat transferowych oraz przyjmowanie wypłat transferowych, a także inwestowanie środków znajdujących się na IKE lub IKZE;
+- **3)** oszczędzający – osobę fizyczną, która gromadzi środki na IKE lub IKZE;
+- **4)** wpłata – wpłatę środków pieniężnych dokonywaną przez oszczędzającego na IKE lub IKZE lub przekazanie pożytków z papierów wartościowych zgromadzonych na IKE lub IKZE oszczędzającego;
+- **5)** środki – środki pieniężne, jednostki ubezpieczeniowego funduszu kapitałowego, jednostki uczestnictwa funduszy inwestycyjnych, jednostki rozrachunkowe dobrowolnego funduszu emerytalnego, papiery wartościowe oraz niebędące papierami wartościowymi instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c i d ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ), zapisane na IKE lub IKZE;
+- **6)** fundusz inwestycyjny – fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034, z późn. zm. );
+- **7)** podmiot prowadzący działalność maklerską – dom maklerski lub bank prowadzący działalność maklerską w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **8)** zakład ubezpieczeń – zakład ubezpieczeń prowadzący działalność ubezpieczeniową w zakresie ubezpieczeń, o których mowa w dziale I w grupie 3 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2025 r. poz. 1526);
+- **9)** bank – bank krajowy w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38);
+- **9a)** dobrowolny fundusz emerytalny – dobrowolny fundusz emerytalny utworzony przez powszechne towarzystwo emerytalne, zgodnie z przepisami ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz. 1113 oraz z 2025 r. poz. 1069, 1216 i 1425);
+- **10)** instytucja finansowa – fundusz inwestycyjny, podmiot prowadzący działalność maklerską, zakład ubezpieczeń, bank, dobrowolny fundusz emerytalny, prowadzące IKE lub IKZE;
+- **11)** program emerytalny – pracowniczy program emerytalny w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2024 r. poz. 556 oraz z 2025 r. poz. 1216);
+- **12)** osoby uprawnione – osoby wskazane przez oszczędzającego w umowie o IKE lub IKZE, które otrzymają środki z IKE lub IKZE w przypadku jego śmierci, osoby, o których mowa w art. 832 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508), oraz spadkobierców oszczędzającego;
+- **13)** wypłata – wypłatę jednorazową albo wypłatę w ratach środków zgromadzonych na IKE lub IKZE dokonywaną na rzecz:
+    - **a)** oszczędzającego, po spełnieniu warunków określonych w art. 34 ust. 1 pkt 1 lub art. 34a ust. 1 pkt 1, albo
+    - **b)** osób uprawnionych, w przypadku śmierci oszczędzającego;
+
+- **14)** wypłata transferowa – wypłatę polegającą na:
+    - **a)** przeniesieniu środków zgromadzonych przez oszczędzającego na IKE do innej instytucji finansowej prowadzącej IKE,
+    - **b)** przeniesieniu środków zgromadzonych przez oszczędzającego na IKZE do innej instytucji finansowej prowadzącej IKZE,
+    - **c)** przeniesieniu środków zgromadzonych na IKE z IKE zmarłego na IKE osoby uprawnionej lub do programu emerytalnego, do którego uprawniony przystąpił,
+    - **d)** przeniesieniu środków zgromadzonych na IKZE z IKZE zmarłego na IKZE osoby uprawnionej,
+    - **e)** jednoczesnym odkupieniu jednostek uczestnictwa w jednym funduszu inwestycyjnym i nabyciu jednostek uczestnictwa w innym funduszu inwestycyjnym zarządzanym przez to samo towarzystwo za środki pieniężne uzyskane z odkupienia jednostek uczestnictwa (konwersja), pod warunkiem że jednostki odkupywane, jak i nabywane są rejestrowane na IKE albo IKZE oszczędzającego,
+    - **f)** przeniesieniu środków zgromadzonych przez oszczędzającego na IKE do programu emerytalnego, do którego przystąpił oszczędzający, lub przeniesieniu środków z programu emerytalnego na IKE, w przypadkach określonych w ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych,
+    - **g)** przeniesieniu środków z PPK na IKE, w przypadkach określonych w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427 oraz z 2025 r. poz. 1216 i 1822),
+    - **h)** przeniesieniu środków zgromadzonych przez oszczędzającego na OIPE z subkonta OIPE na IKE, w przypadkach określonych w przepisach ustawy o OIPE,
+    - **i)** przeniesieniu środków zgromadzonych przez oszczędzającego z IKE na subkonto OIPE, w przypadku określonym w przepisach ustawy o OIPE;
+
+- **15)** zwrot – wycofanie całości środków zgromadzonych na IKE lub IKZE, jeżeli nie zachodzą przesłanki wypłaty bądź wypłaty transferowej;
+- **15a)** częściowy zwrot – wycofanie części środków zgromadzonych na IKE, jeżeli nie zachodzą przesłanki do wypłaty bądź wypłaty transferowej;
+- **16)** organ nadzoru – Komisję Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069);
+- **16a)** (uchylony)
+- **17)** składka podstawowa – składkę wnoszoną przez pracodawcę do programu emerytalnego;
+- **18)** dane osobowe – imię (imiona) i nazwisko, datę urodzenia, numer PESEL, serię i numer dowodu osobistego lub serię i numer paszportu, lub innego dokumentu potwierdzającego tożsamość w przypadku osób nieposiadających obywatelstwa polskiego oraz adres miejsca zamieszkania, adres korespondencyjny, adres poczty elektronicznej lub numer telefonu kontaktowego;
+- **19)** syndyk – syndyka w rozumieniu ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172) oraz nadzorcę sądowego lub zarządcę w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i
+- **1172)** ;
+- **20)** trwały nośnik – trwały nośnik informacji, o którym mowa w art. 2 pkt 41 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
+- **21)** PPK – pracowniczy plan kapitałowy w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych;
+- **22)** dostawca OIPE – dostawcę OIPE w rozumieniu art. 2 pkt 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1);
+- **23)** oszczędzający na OIPE – oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE;
+- **24)** ustawa o OIPE – ustawę z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843);
+- **25)** subkonto OIPE – subkonto OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE.
 
 **Art. 3.**
 
@@ -146,6 +190,12 @@ Art. 41−45. (pominięte)
 
 **Art. 12.** Zasady prowadzenia IKE lub IKZE, a także tryb oraz warunki zawarcia i rozwiązania umowy o prowadzenie IKE lub IKZE określa:
 
+- **1)** statut funduszu inwestycyjnego – w przypadku funduszu inwestycyjnego;
+- **1a)** statut dobrowolnego funduszu emerytalnego – w przypadku dobrowolnego funduszu emerytalnego;
+- **2)** regulamin prowadzenia rachunku papierów wartościowych i rachunku pieniężnego – w przypadku podmiotu prowadzącego działalność maklerską;
+- **3)** ogólne warunki ubezpieczenia oraz regulaminy ubezpieczeniowych funduszy kapitałowych – w przypadku zakładu ubezpieczeń;
+- **4)** umowa rachunku bankowego – w przypadku banku.
+
 **Art. 13.**
 
 1. Wpłaty dokonywane na IKE w roku kalendarzowym nie mogą przekroczyć kwoty odpowiadającej trzykrotności przeciętnego prognozowanego wynagrodzenia miesięcznego w gospodarce narodowej na dany rok, określonego w ustawie budżetowej lub ustawie o prowizorium budżetowym lub w ich projektach, jeżeli odpowiednie ustawy nie zostały uchwalone.
@@ -234,6 +284,12 @@ Art. 41−45. (pominięte)
 #### Rozdział 2 Oznakowanie IKE lub IKZE i kontrola systemu
 
 **Art. 19.** Środki gromadzone przez oszczędzającego na IKE lub IKZE są rejestrowane na wyodrębnionym:
+
+- **1)** zapisie w rejestrze uczestników funduszu inwestycyjnego;
+- **1a)** rachunku w dobrowolnym funduszu emerytalnym;
+- **2)** rachunku papierów wartościowych i rachunku pieniężnym służącym do jego obsługi w podmiocie prowadzącym działalność maklerską;
+- **3)** rachunku w ubezpieczeniowym funduszu kapitałowym;
+- **4)** rachunku bankowym w banku.
 
 **Art. 20.** Wszystkie dyspozycje oszczędzającego dotyczące środków gromadzonych na IKE lub IKZE należy oznakować w sposób umożliwiający ich identyfikację.
 
@@ -494,6 +550,14 @@ Art. 41−45. (pominięte)
 #### Rozdział 10 Przepisy przejściowe i końcowe
 
 **Art. 46.** Wypłata środków zgromadzonych na IKE:
+
+- **1)** oszczędzającym urodzonym do dnia 31 grudnia 1945 r. następuje na wniosek oszczędzającego po spełnieniu warunku:
+    - **a)** dokonywania wpłat na IKE co najmniej w 3 dowolnych latach kalendarzowych albo
+    - **b)** dokonania ponad połowy wartości wpłat niepóźniej niż na 3 lata przed dniem złożenia przez oszczędzającego wniosku o dokonanie wypłaty;
+
+- **2)** oszczędzającym urodzonym w okresie między 1 stycznia 1946 r. a 31 grudnia 1948 r. następuje na wniosek oszczędzającego po osiągnięciu przez niego wieku 60 lat bądź nabyciu wcześniejszych uprawnień emerytalnych oraz spełnieniu warunku:
+    - **a)** dokonywania wpłat na IKE co najmniej w 4 dowolnych latach kalendarzowych albo
+    - **b)** dokonania ponad połowy wartości wpłat niepóźniej niż na 4 lata przed dniem złożenia przez oszczędzającego wniosku o dokonanie wypłaty.
 
 **Art. 47.** Przepis art. 37 ust. 3 stosuje się do składek podstawowych wpłaconych do programu emerytalnego po dniu wejścia w życie ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.
 

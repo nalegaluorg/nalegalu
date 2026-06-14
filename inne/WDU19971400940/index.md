@@ -8,7 +8,7 @@ pos: 940
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o listach zastawnych i bankach hipotecznych
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-29 |
 | Data wydania | 1997-11-21 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400940) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/940/text.pdf) |
 
 Art. 38–41. (pominięte)
@@ -33,7 +33,24 @@ Art. 38–41. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady emisji, zbywania, nabywania, wykupu i zabezpieczenia listów zastawnych oraz
+- **2)** zasady tworzenia, organizacji, działalności i szczególnego nadzoru nad bankami hipotecznymi.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** aktywach podstawowych – należy przez to rozumieć:
+    - **a)** wierzytelności banku hipotecznego zabezpieczone hipotekami – w przypadku hipotecznych listów zastawnych,
+    - **b)** wierzytelności, o których mowa w art. 3 ust. 2 – w przypadku publicznych listów zastawnych;
+
+- **2)** aktywach stanowiących zabezpieczenie listów zastawnych – należy przez to rozumieć aktywa podstawowe, aktywa zastępcze oraz instrumenty pochodne, o których mowa w art. 18a;
+- **3)** aktywach zastępczych – należy przez to rozumieć środki banku hipotecznego, o których mowa w art. 18 ust. 3;
+- **4)** bankowo-hipotecznej wartości nieruchomości – należy przez to rozumieć ustaloną zgodnie z przepisami ustawy wartość, która w ocenie banku hipotecznego odzwierciedla poziom ryzyka związanego z nieruchomością jako przedmiotem zabezpieczenia kredytów udzielanych przez bank hipoteczny; <4a) europejskim pojedynczym punkcie dostępu – należy przez to rozumieć europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
+- **4b)** formacie umożliwiającym ekstrakcję danych – należy przez to rozumieć format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;>
+- **5)** instrumencie pochodnym – należy przez to rozumieć instrument pochodny w rozumieniu art. 3 pkt 28a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500, 1488, 1933 i 2185); <5a) metadanych – należy przez to rozumieć metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;>
+- **6)** nadzabezpieczeniu – należy przez to rozumieć poziom zabezpieczenia listów zastawnych wyższy niż łączna nominalna wartość znajdujących się w obrocie odpowiednio hipotecznych albo publicznych listów zastawnych;
+- **7)** przymusowej restrukturyzacji – należy przez to rozumieć przymusową restrukturyzację, o której mowa w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 2253);
+- **8)** puli aktywów stanowiących zabezpieczenie – należy przez to rozumieć aktywa stanowiące zabezpieczenie listów zastawnych wpisane do rejestru zabezpieczenia listów zastawnych; <8a) rozporządzeniu 2023/2859 – należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );>
+- **9)** zabezpieczeniu hipoteką – należy przez to rozumieć hipotekę na rzecz banku hipotecznego ustanowioną na prawie użytkowania wieczystego lub prawie własności nieruchomości położonej na obszarze kraju.
 
 ### DZIAŁ II Listy zastawne
 
@@ -79,9 +96,23 @@ Art. 38–41. (pominięte)
 
 **Art. 6.** Hipoteczny list zastawny, o którym mowa w art. 5a ust. 2, zawiera w szczególności:
 
+- **1)** nazwę „hipoteczny list zastawny”;
+- **2)** wskazanie podstawy prawnej emisji;
+- **3)** nazwę (firmę) banku hipotecznego będącego emitentem oraz jego siedzibę;
+- **4)** serię i numer hipotecznego listu zastawnego;
+- **5)** oznaczenie wartości nominalnej oraz datę, od której nalicza się oprocentowanie, i wysokość oprocentowania, a także terminy wypłaty odsetek, termin wykupu hipotecznego listu zastawnego, miejsce płatności oraz warunki wykupu;
+- **6)** (uchylony)
+- **7)** informację, że uprawnionemu z hipotecznego listu zastawnego nie przysługuje prawo wcześniejszego niż w określonym terminie przedstawienia go do wykupu;
+- **8)** miejsce i datę wystawienia hipotecznego listu zastawnego;
+- **9)** podpisy osób uprawnionych do zaciągania zobowiązań w imieniu banku hipotecznego oraz podpis powiernika; podpisy te mogą być odtwarzane sposobem mechanicznym.
+
 **Art. 7.** (uchylony)
 
 **Art. 7a.** Warunki emisji listów zastawnych zawierają w szczególności informacje o:
+
+- **1)** sposobie i terminach wypłaty odsetek oraz terminach i warunkach wykupu listu zastawnego stosowanych w przypadku ogłoszenia upadłości banku hipotecznego zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe;
+- **2)** warunkach dotyczących wykonania zobowiązań z tytułu listów zastawnych w przypadku wszczęcia przymusowej restrukturyzacji banku hipotecznego;
+- **3)** uprawnieniach i roli Komisji Nadzoru Finansowego oraz kuratora, o którym mowa w art. 443 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, w przypadku ogłoszenia upadłości banku hipotecznego.
 
 **Art. 7b.** Przedłużenie terminu wykupu emitowanych listów zastawnych jest dopuszczalne wyłącznie w przypadku ogłoszenia upadłości banku hipotecznego zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe.
 
@@ -127,6 +158,19 @@ Art. 38–41. (pominięte)
 **Art. 11a.** Bank hipoteczny może wykonywać wyłącznie czynności określone w niniejszej ustawie.
 
 **Art. 12.** Do podstawowych czynności banku hipotecznego należy:
+
+- **1)** udzielanie kredytów zabezpieczonych hipoteką;
+- **2)** udzielanie kredytów niezabezpieczonych hipoteką, o których mowa w art. 3 ust. 2 pkt 1–3;
+- **3)** nabywanie wierzytelności innych banków z tytułu udzielonych przez nie kredytów zabezpieczonych hipoteką oraz wierzytelności z tytułu kredytów niezabezpieczonych hipoteką, o których mowa w pkt 2;
+- **3a)** nabywanie papierów wartościowych, o których mowa w art. 3 ust. 2 pkt 4;
+- **4)** emitowanie hipotecznych listów zastawnych, których podstawę stanowią wierzytelności banku hipotecznego z tytułu:
+    - **a)** udzielonych kredytów zabezpieczonych hipoteką oraz
+    - **b)** nabytych wierzytelności innych banków z tytułu udzielonych przez nie kredytów zabezpieczonych hipoteką;
+
+- **5)** emitowanie publicznych listów zastawnych, których podstawę stanowią:
+    - **a)** wierzytelności banku hipotecznego z tytułu udzielonych kredytów niezabezpieczonych hipoteką, o których mowa w pkt 2,
+    - **b)** nabyte przez bank hipoteczny wierzytelności innych banków z tytułu udzielonych przez nie kredytów niezabezpieczonych hipoteką, o których mowa w pkt 2,
+    - **c)** nabyte przez bank hipoteczny papiery wartościowe, o których mowa w art. 3 ust. 2 pkt 4.
 
 **Art. 12a.**
 
@@ -193,6 +237,9 @@ Art. 38–41. (pominięte)
 3. Środki uzyskane z wykonywania czynności, o których mowa w ust. 1 pkt 2 i 3, mogą być przeznaczone wyłącznie na refinansowanie czynności, o których mowa w art. 12.
 
 **Art. 15a.** Banki hipoteczne mogą podejmować działania służące wykonywaniu czynności, o których mowa w art. 12 i art. 15 ust. 1 pkt 2, 3 i 5, a w szczególności:
+
+- **1)** wykonywać czynności obrotu dewizowego;
+- **2)** wykonywać czynności ograniczające ryzyko walutowe i ryzyko stopy procentowej, z zastrzeżeniem art. 19 ust. 2, w tym zawierać umowy o instrument pochodny.
 
 **Art. 16.**
 
@@ -371,6 +418,9 @@ Art. 38–41. (pominięte)
 
 **Art. 26.** Bank hipoteczny ogłasza w Monitorze Sądowym i Gospodarczym, nie później niż przed upływem trzech miesięcy od zakończenia roku obrotowego:
 
+- **1)** łączną kwotę nominalnych wartości wyemitowanych przez ten bank listów zastawnych, jakie znajdowały się w obrocie na ostatni dzień roku obrotowego;
+- **2)** łączną kwotę wierzytelności banku hipotecznego i środków wpisanych do rejestru zabezpieczenia listów zastawnych według stanu na ostatni dzień roku obrotowego.
+
 ### DZIAŁ IV Kontrola i nadzór nad bankami hipotecznymi
 
 **Art. 27.**
@@ -413,6 +463,9 @@ Art. 38–41. (pominięte)
 2. Powiernik corocznie, nie później niż do dnia 31 marca, przedstawia Komisji Nadzoru Finansowego sprawozdanie dotyczące działalności banku hipotecznego w zakresie zadań powiernika, o których mowa w ust. 1, za rok poprzedni.
 
 **Art. 30a.** W przypadku:
+
+- **1)** stwierdzenia nieprzestrzegania przez bank wymogów, o których mowa w art. 18, lub
+- **2)** gdy wynik testu równowagi pokrycia lub testu płynności nie jest pozytywny – powiernik niezwłocznie zawiadamia o tym Komisję Nadzoru Finansowego.
 
 **Art. 31.**
 
@@ -496,7 +549,20 @@ Art. 38–41. (pominięte)
 - **4)** opis i ocenę różnych kategorii ryzyka związanego z daną emisją listów zastawnych, w tym ryzyka stopy procentowej i ryzyka walutowego oraz ryzyka kredytowego i ryzyka płynności;
 - **5)** strukturę terminów zapadalności aktywów wpisanych do rejestru zabezpieczenia listów zastawnych oraz terminy zapadalności listów zastawnych, a także wskazanie zdarzeń, których wystąpienie powoduje przedłużenie terminu zapadalności listów zastawnych;
 - **6)** poziom dostępnego, wymaganego oraz ustanowionego nadzabezpieczenia;
-- **7)** udział kredytów, w przypadku których nastąpiło niewykonanie zobowiązania w rozumieniu art. 178 rozporządzenia (UE) nr 575/2013, oraz kredytów, w przypadku których nastąpiło opóźnienie w spłacie wynoszące więcej niż 90 dni, we wszystkich kredytach uwzględnionych w puli aktywów stanowiących zabezpieczenie.
+- **7)** udział kredytów, w przypadku których nastąpiło niewykonanie zobowiązania w rozumieniu art. 178 rozporządzenia (UE) nr 575/2013, oraz kredytów, w przypadku których nastąpiło opóźnienie w spłacie wynoszące więcej niż 90 dni, we wszystkich kredytach uwzględnionych w puli aktywów stanowiących zabezpieczenie. <1a. Bank hipoteczny równocześnie z udostępnieniem na swojej stronie internetowej informacji, o których mowa w ust. 1, przekazuje te informacje Komisji Nadzoru Finansowego w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego rozumianym jako format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 26a ust. 5 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/2162 z dnia 27 listopada 2019 r. w sprawie emisji obligacji zabezpieczonych i nadzoru publicznego nad obligacjami zabezpieczonymi oraz zmieniającej dyrektywy 2009/65/WE i 2014/59/UE (Dz. Urz. UE L 328 z 18.12.2019, str. 29, z późn. zm. ).
+
+1b. Informacje, o których mowa w ust. 1, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą (firmą) banku hipotecznego, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego banku hipotecznego, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **3)** kategorią wielkości banku hipotecznego, którego dotyczą informacje, określoną zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **5)** wskazaniem, czy informacje zawierają dane osobowe;
+- **6)** metadanymi określonymi w wykonawczych standardach technicznych wydanych na podstawie art. 26a ust. 5 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/2162 z dnia 27 listopada 2019 r. w sprawie emisji obligacji zabezpieczonych i nadzoru publicznego nad obligacjami zabezpieczonymi oraz zmieniającej dyrektywy 2009/65/WE i 2014/59/UE.
+
+1c. Na potrzeby przekazania metadanej, o której mowa w ust. 1b pkt 2, bank hipoteczny występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
+
+1d. Komisja Nadzoru Finansowego udostępnia informacje, o których mowa w ust. 1, w europejskim pojedynczym punkcie dostępu.>
 
 2. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego, może określić, w drodze rozporządzenia, szczegółowy zakres informacji, o których mowa w ust. 1, oraz sposób ich prezentacji, mając na względzie, aby informacje te umożliwiały inwestorom przeprowadzenie oceny ryzyka związanego z emisją listów zastawnych.
 
@@ -514,7 +580,7 @@ Art. 38–41. (pominięte)
 - **3)** emituje listy zastawne przewidujące przedłużenie terminu ich zapadalności w przypadku innym niż określony w art. 7b, lub
 - **4)** stosuje oznaczenia listów zastawnych, o których mowa w art. 7d, niezgodnie z określonymi w ustawie warunkami ich stosowania lub w inny sposób istotnie narusza interesy inwestorów nabywających listy zastawne, lub
 - **5)** nie przekazuje informacji, o których mowa w art. 33c ust. 1, lub przekazuje je niezgodnie z tym przepisem, lub
-- **6)** nie udostępnia informacji, o których mowa w art. 33d ust. 1, lub udostępnia je niezgodnie z tym przepisem, lub
+- **6)** nie udostępnia informacji, o których mowa w art. 33d ust. 1, lub udostępnia je niezgodnie z tym przepisem, lub <6a) nie przekazuje informacji, o których mowa w art. 33d ust. 1, lub przekazuje je niezgodnie z art. 33d ust. 1a i 1b, lub>
 - **7)** narusza przepisy art. 24 ust. 1, 3 i 4 lub przepisy dotyczące utrzymywania nadwyżki, o której mowa w art. 18 ust. 3a.
 
 **Art. 33f.**
@@ -529,6 +595,15 @@ Art. 38–41. (pominięte)
 - **2)** w przypadku jej nałożenia na członka zarządu banku hipotecznego odpowiedzialnego za naruszenie – do kwoty 20 000 000 zł.
 
 **Art. 33g.** Komisja Nadzoru Finansowego, ustalając wysokość kary pieniężnej, o której mowa w art. 33f ust. 1, uwzględnia:
+
+- **1)** wagę i okres naruszenia;
+- **2)** stopień przyczynienia się banku hipotecznego lub członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie do powstania tego naruszenia;
+- **3)** stosunek wysokości kary pieniężnej do skali działalności banku hipotecznego mierzonej wielkością przychodów albo prognozowanych przychodów, a w przypadku członka zarządu banku hipotecznego – mierzonej wielkością jego rocznego dochodu;
+- **4)** szkody wyrządzone inwestorom w wyniku naruszenia, chyba że nie jest możliwe ich ustalenie;
+- **5)** skalę korzyści uzyskanych lub strat unikniętych przez bank hipoteczny lub przez członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie, o ile można te korzyści lub straty ustalić;
+- **6)** gotowość banku hipotecznego lub członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie do współpracy z Komisją Nadzoru Finansowego;
+- **7)** uprzednie naruszenia popełnione przez bank hipoteczny lub członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie, ich rodzaj i wagę;
+- **8)** skutki naruszenia dla stabilności finansowej i rynku finansowego.
 
 **Art. 33h.**
 
@@ -550,6 +625,17 @@ Art. 38–41. (pominięte)
 - **4)** wyrządziłoby niewspółmierną szkodę bankowi hipotecznemu lub członkowi zarządu.
 
 **Art. 33i.** Komisja Nadzoru Finansowego informuje Europejski Urząd Nadzoru Bankowego o:
+
+- **1)** nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej;
+- **2)** złożeniu wniosku o ponowne rozpatrzenie sprawy od decyzji administracyjnej o nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej oraz o wyniku postępowania w tej sprawie;
+- **3)** wniesieniu skargi do sądu administracyjnego na decyzję administracyjną o nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej oraz o treści orzeczenia sądu administracyjnego w tej sprawie. <Art. 33j. 1. Komisja Nadzoru Finansowego udostępnia informacje, o których mowa w art. 33b ust. 1 i 4 oraz art. 33h ust. 1, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+
+2. Informacje, o których mowa w art. 33b ust. 1 i 4 oraz art. 33h ust. 1, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą (firmą) banku hipotecznego, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego banku hipotecznego, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji Nadzoru Finansowego;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
 
 **Art. 34.**
 

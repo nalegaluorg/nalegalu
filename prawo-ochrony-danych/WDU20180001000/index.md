@@ -8,7 +8,7 @@ pos: 1000
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ochronie danych osobowych
@@ -104,6 +104,9 @@ Art. 109–157. (pominięte)
 
 **Art. 6.** Ustawy oraz rozporządzenia 2016/679 nie stosuje się do:
 
+- **1)** przetwarzania danych osobowych przez jednostki sektora finansów publicznych, o których mowa w art. 9 pkt 1, 3, 5, 6 i 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869 i 1622), w zakresie, w jakim przetwarzanie to jest konieczne do realizacji zadań mających na celu zapewnienie bezpieczeństwa narodowego, jeżeli przepisy szczególne przewidują niezbędne środki ochrony praw i wolności osoby, której dane dotyczą;
+- **2)** działalności służb specjalnych w rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399 oraz z 2019 r. poz. 53, 125 i 1091).
+
 **Art. 6a.**
 
 1. Do przetwarzania danych osobowych w ramach wykonywania konstytucyjnych i ustawowych kompetencji Prezydenta Rzeczypospolitej Polskiej, w zakresie nieobjętym bezpieczeństwem narodowym, stosuje się odpowiednio przepisy art. 4–7, art. 11, art. 12, art. 16, art. 17, art. 24 ust. 1 i 2, art. 25 ust. 1 i 2, art. 28–30, art. 32, art. 34, art. 35, art. 37–39 i art. 86 rozporządzenia 2016/679 oraz przepisy art. 6 i art. 11 ustawy.
@@ -125,6 +128,10 @@ Art. 109–157. (pominięte)
 **Art. 8.** Administrator i podmiot przetwarzający są obowiązani do wyznaczenia inspektora ochrony danych, zwanego dalej „inspektorem”, w przypadkach i na zasadach określonych w art. 37 rozporządzenia 2016/679.
 
 **Art. 9.** Przez organy i podmioty publiczne obowiązane do wyznaczenia inspektora, o których mowa w art. 37 ust. 1 lit. a rozporządzenia 2016/679, rozumie się:
+
+- **1)** jednostki sektora finansów publicznych;
+- **2)** instytuty badawcze;
+- **3)** Narodowy Bank Polski.
 
 **Art. 10.**
 
@@ -429,7 +436,7 @@ Art. 109–157. (pominięte)
 
 **Art. 38.**
 
-1. Prezes Urzędu nie może być bez uprzedniej zgody Rzeczypospolitej Polskiej pociągnięty do odpowiedzialności karnej ani pozbawiony wolności.
+1. Prezes Urzędu nie może być bez uprzedniej zgody Sejmu Rzeczypospolitej Polskiej pociągnięty do odpowiedzialności karnej ani pozbawiony wolności.
 
 2. Prezes Urzędu może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w ust. 3, w trybie określonym w tym przepisie.
 
@@ -459,9 +466,9 @@ Art. 109–157. (pominięte)
 
 1. Wniosek o wyrażenie zgody na pociągnięcie Prezesa Urzędu do odpowiedzialności karnej składa się Marszałkowi Sejmu.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 40 ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia o pozostawieniu wniosku bez biegu.
+2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 40 ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
 
-3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 40 ust. 3 i 4, Marszałek kieruje go do organu Rzeczypospolitej Polskiej właściwego do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Urzędu o treści wniosku.
+3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 40 ust. 3 i 4, Marszałek Sejmu kieruje go do organu Sejmu Rzeczypospolitej Polskiej właściwego do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Urzędu o treści wniosku.
 
 4. Organ właściwy do rozpatrzenia wniosku powiadamia Prezesa Urzędu o terminie jego rozpatrzenia. Między doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi przypadek niecierpiący zwłoki, nie może upłynąć mniej niż 7 dni.
 
@@ -493,11 +500,11 @@ Art. 109–157. (pominięte)
 
 5. Sejm Rzeczypospolitej Polskiej wyraża zgodę na zatrzymanie lub aresztowanie Prezesa Urzędu w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Prezesa Urzędu.
 
-6. Wymóg uzyskania zgody Rzeczypospolitej Polskiej nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+6. Wymóg uzyskania zgody Sejmu Rzeczypospolitej Polskiej nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
 
 **Art. 43.**
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 41 ust. 9 i art. 42 ust. 5.
+1. Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 41 ust. 9 i art. 42 ust. 5.
 
 2. Uchwały, o których mowa w art. 41 ust. 9 i art. 42 ust. 5, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
@@ -635,6 +642,9 @@ Art. 109–157. (pominięte)
 **Art. 55.** Prezes Urzędu może prowadzić system teleinformatyczny umożliwiający administratorom dokonywanie zgłoszenia naruszenia ochrony danych osobowych, o którym mowa w art. 33 rozporządzenia 2016/679.
 
 **Art. 56.** Prezes Urzędu, w drodze decyzji:
+
+- **1)** zatwierdza wiążące reguły korporacyjne, o których mowa w art. 47 rozporządzenia 2016/679;
+- **2)** udziela zezwolenia, o którym mowa w art. 46 ust. 3 rozporządzenia 2016/679.
 
 **Art. 57.**
 
@@ -941,6 +951,10 @@ Art. 109–157. (pominięte)
 #### Rozdział 11 Przepisy o administracyjnych karach pieniężnych i przepisy karne
 
 **Art. 101.** Prezes Urzędu może nałożyć na podmiot obowiązany do przestrzegania przepisów rozporządzenia 2016/679, inny niż:
+
+- **1)** jednostka sektora finansów publicznych,
+- **2)** instytut badawczy,
+- **3)** Narodowy Bank Polski – w drodze decyzji, administracyjną karę pieniężną na podstawie i na warunkach określonych w art. 83 rozporządzenia 2016/679.
 
 **Art. 101a.**
 

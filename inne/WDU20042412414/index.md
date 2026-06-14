@@ -8,12 +8,12 @@ pos: 2414
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 1. 1. Włącza Akademię Medyczną im. Ludwika Rydygiera Bydgoszczy, zwaną dalej „Akademią”, do Uniwersytetu Mikołaja Kopernika Toruniu, zwanego dalej „Uniwersytetem”, z dniem wejścia życie ustawy.
+# o włączeniu Akademii Medycznej im. Ludwika Rydygiera w Bydgoszczy do Uniwersytetu Mikołaja Kopernika w Toruniu
 
-*USTAWA z dnia 8 października 2004 włączeniu Akademii Medycznej im. Ludwika Rydygiera Bydgoszczy do Uniwersytetu Mikołaja Kopernika Toruniu*
+*USTAWA z dnia 8 października 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,24 +27,56 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042412414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2414/text.pdf) |
 
-2. Z dniem włączenia jednostki organizacyjne Akademii stają jednostkami organizacyjnymi Uniwersytetu.
-3. Z dniem włączenia znosi Akademię.
-2. 1. Uniwersytet z dniem włączenia Akademii, oprócz dotychczasowej działalności:
-1) prowadzi działalność dydaktyczną badawczą dziedzinie nauk medycznych;
-2) prowadzi działalność leczniczą, z uwzględnieniem przepisów ustawy z dnia 12 1990 szkolnictwie wyższym (Dz.U. poz. 385, z późn. zm. ) ;
-3) uczestniczy sprawowaniu opieki zdrowotnej przez zakłady opieki zdrowotnej, na zasadach określonych ustawie z dnia 30 sierpnia 1991 zakładach opieki zdrowotnej (Dz. U. z 2007 poz. 89, z późn. zm. ) .
+**Art. 1.**
+
+1. Włącza się Akademię Medyczną im. Ludwika Rydygiera w Bydgoszczy, zwaną dalej „Akademią”, do Uniwersytetu Mikołaja Kopernika w Toruniu, zwanego dalej „Uniwersytetem”, z dniem wejścia w życie ustawy.
+
+2. Z dniem włączenia jednostki organizacyjne Akademii stają się jednostkami organizacyjnymi Uniwersytetu.
+
+3. Z dniem włączenia znosi się Akademię.
+
+**Art. 2.**
+
+1. Uniwersytet z dniem włączenia Akademii, oprócz dotychczasowej działalności:
+
+- **1)** prowadzi działalność dydaktyczną i badawczą w dziedzinie nauk medycznych;
+- **2)** prowadzi działalność leczniczą, z uwzględnieniem przepisów ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. poz. 385, z późn. zm. ) ;
+- **3)** uczestniczy w sprawowaniu opieki zdrowotnej przez zakłady opieki zdrowotnej, na zasadach określonych w ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. poz. 89, z późn. zm. ) .
+
 2. (uchylony)
-3. (uchylony) zobowiązania Akademii.
-2. Zakres praw oraz zobowiązań Akademii, których mowa ust. 1, ustalą Akademia oraz Uniwersytet formie protokołu. Stan gospodarki finansowej Akademii zostanie wykazany bilansie sporządzonym przez Akademię na dzień poprzedzający dzień włączenia Akademii do Uniwersytetu.
-4. 1. Z dniem włączenia Akademii do Uniwersytetu:
-1) pracownicy zatrudnieni Akademii stają pracownikami Uniwersytetu;
-2) studenci Akademii stają studentami Uniwersytetu;
-3) dyrektor administracyjny Akademii staje zastępcą dyrektora administracyjnego Uniwersytetu;
-4) fundusz dla byłych pracowników Akademii, którym mowa art. 122 ust. 2 ustawy z dnia 12 1990 szkolnictwie wyższym, tworzy Uniwersytecie.
-2. Jednostki organizacyjne Uniwersytetu, których mowa art. 1 ust. 2, zachowują uprawnienia do nadawania stopni naukowych, posiadane przez jednostki organizacyjne Akademii.
-5. 1. Organizację uczelni oraz inne sprawy dotyczące jej funkcjonowania, wynikające z włączenia Akademii do Uniwersytetu, określi statut uchwalony przez senat Uniwersytetu.
-2. Senat Uniwersytetu określi zasady wyodrębnienia finansowego jednostek Uniwersytetu realizujących działalność, której mowa art. 2 ust. 1.
-6. 1. Od dnia włączenia Akademii dotychczasowy rektor oraz prorektorzy Uniwersytetu pełnią funkcje do końca swojej kadencji; rektor Akademii staje prorektorem Uniwersytetu, a prorektorzy Akademii przestają pełnić swoje funkcje.
-2. Od dnia włączenia Akademii dotychczasowy skład senatu Uniwersytetu zostaje powiększony dotychczasowy skład senatu Akademii, a dziekani rady wydziałów poszczególnych wydziałów Akademii stają odpowiednio dziekanami radami wydziałów Uniwersytetu.
-7. W zakresie uregulowanym niniejszą ustawą art. 10 ust. 2–5 ustawy z dnia
+
+3. (uchylony)
+
+**Art. 3.**
+
+1. Uniwersytet przejmuje, z dniem włączenia, wszelkie prawa i zobowiązania Akademii.
+
+2. Zakres praw oraz zobowiązań Akademii, o których mowa w ust. 1, ustalą Akademia oraz Uniwersytet w formie protokołu. Stan gospodarki finansowej Akademii zostanie wykazany w bilansie sporządzonym przez Akademię na dzień poprzedzający dzień włączenia Akademii do Uniwersytetu.
+
+**Art. 4.**
+
+1. Z dniem włączenia Akademii do Uniwersytetu:
+
+- **1)** pracownicy zatrudnieni w Akademii stają się pracownikami Uniwersytetu;
+- **2)** studenci Akademii stają się studentami Uniwersytetu;
+- **3)** dyrektor administracyjny Akademii staje się zastępcą dyrektora administracyjnego Uniwersytetu;
+- **4)** fundusz dla byłych pracowników Akademii, o którym mowa w art. 122 ust. 2 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym, tworzy się w Uniwersytecie.
+
+2. Jednostki organizacyjne Uniwersytetu, o których mowa w art. 1 ust. 2, zachowują uprawnienia do nadawania stopni naukowych, posiadane przez jednostki organizacyjne Akademii.
+
+**Art. 5.**
+
+1. Organizację uczelni oraz inne sprawy dotyczące jej funkcjonowania, wynikające z włączenia Akademii do Uniwersytetu, określi statut uchwalony przez senat Uniwersytetu.
+
+2. Senat Uniwersytetu określi zasady wyodrębnienia finansowego jednostek Uniwersytetu realizujących działalność, o której mowa w art. 2 ust. 1.
+
+**Art. 6.**
+
+1. Od dnia włączenia Akademii dotychczasowy rektor oraz prorektorzy Uniwersytetu pełnią funkcje do końca swojej kadencji; rektor Akademii staje się prorektorem Uniwersytetu, a prorektorzy Akademii przestają pełnić swoje funkcje.
+
+2. Od dnia włączenia Akademii dotychczasowy skład senatu Uniwersytetu zostaje powiększony o dotychczasowy skład senatu Akademii, a dziekani i rady wydziałów poszczególnych wydziałów Akademii stają się odpowiednio dziekanami i radami wydziałów Uniwersytetu.
+
+**Art. 7.** W zakresie uregulowanym niniejszą ustawą art. 10 ust. 2–5 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym nie stosuje się.
+
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

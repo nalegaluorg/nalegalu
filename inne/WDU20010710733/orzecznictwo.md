@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego.*
 
-Łącznie: **1710** orzeczeń w **107** artykułach
-(pominięto 3496 orzeczeń sądów rejonowych)
+Łącznie: **1711** orzeczeń w **107** artykułach
+(pominięto 3508 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -32,7 +32,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 15 | 69 | 1 | 4 | 64 | 1 | 0 | [art-15.csv](orzecznictwo/art-15.csv) |
 | art. 16 | 9 | 1 | 0 | 8 | 0 | 1 | [art-16.csv](orzecznictwo/art-16.csv) |
 | art. 17 | 24 | 1 | 0 | 23 | 0 | 1 | [art-17.csv](orzecznictwo/art-17.csv) |
-| art. 18 | 475 | 6 | 75 | 394 | 4 | 3 | [art-18.csv](orzecznictwo/art-18.csv) |
+| art. 18 | 476 | 6 | 75 | 395 | 4 | 3 | [art-18.csv](orzecznictwo/art-18.csv) |
 | art. 18 § 2 | 4 | 0 | 0 | 4 | 0 | 0 | [art-18-par-2.csv](orzecznictwo/art-18-par-2.csv) |
 | art. 18 § 3 | 3 | 0 | 0 | 3 | 0 | 0 | [art-18-par-3.csv](orzecznictwo/art-18-par-3.csv) |
 | art. 18 § 5 | 1 | 0 | 0 | 1 | 0 | 0 | [art-18-par-5.csv](orzecznictwo/art-18-par-5.csv) |

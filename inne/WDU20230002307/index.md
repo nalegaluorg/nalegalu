@@ -8,10 +8,10 @@ pos: 2307
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2307 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 23 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002307) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2307/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA dnia 23 października 2023 r.
-w sprawie standardów organizacyjnych badań laboratoryjnych parametrów krytycznych wykonywanych w materiale biologicznym, umożliwiających podjęcie szybkiej decyzji terapeutycznej Na podstawie art. 7 ust. 3 ustawy dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. 2023 r. poz. 2125) zarządza się, co następuje: § 1. Określa się standardy organizacyjne badań laboratoryjnych parametrów krytycznych wykonywanych w materiale biologicznym, umożliwiających podjęcie szybkiej decyzji terapeutycznej, wykonywanych przez personel medyczny do tego uprawniony w miejscu udzielania świadczeń zdrowotnych, zwane dalej „standardami organizacyjnymi POCT”, stanowiące załącznik do rozporządzenia.
+w sprawie standardów organizacyjnych badań laboratoryjnych parametrów krytycznych wykonywanych w materiale biologicznym, umożliwiających podjęcie szybkiej decyzji terapeutycznej Na podstawie art. 7 ust. 3 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125) zarządza się, co następuje:
+§ 1. Określa się standardy organizacyjne badań laboratoryjnych parametrów krytycznych wykonywanych w materiale biologicznym, umożliwiających podjęcie szybkiej decyzji terapeutycznej, wykonywanych przez personel medyczny do tego uprawniony w miejscu udzielania świadczeń zdrowotnych, zwane dalej „standardami organizacyjnymi POCT”, stanowiące załącznik do rozporządzenia.
 § 2. Przepisy rozporządzenia stosuje się do podmiotów leczniczych wykonujących działalność leczniczą w rodzaju świadczenia szpitalne.
 § 3. Podmiot leczniczy, wykonujący badania laboratoryjnych parametrów krytycznych wykonywanych w materiale biologicznym umożliwiających podjęcie szybkiej decyzji terapeutycznej przez personel medyczny do tego uprawniony, dostosuje się do wymagań określonych w rozporządzeniu w terminie 12 miesięcy od dnia wejścia w życie rozporządzenia.
-§ 4. Rozporządzenie wchodzi w życie dniem następującym po dniu ogłoszenia.
+§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Zdrowia: K. Sójka STANDARDY ORGANIZACYJNE POCT
 1. Badania laboratoryjnych parametrów krytycznych wykonywane w materiale biologicznym, zwane dalej „POCT”, umożliwiają podjęcie szybkiej decyzji terapeutycznej w przypadku:
 1) stanu nagłego zagrażającego życiu i zdrowiu pacjenta;
@@ -53,17 +53,17 @@ Minister Zdrowia: K. Sójka STANDARDY ORGANIZACYJNE POCT
 15) szybkie testy immunochromatograficzne wykrywające narkotyki w moczu;
 16) czas protrombinowy (INR).
 3. Organizacja procesu wykonywania POCT w podmiocie leczniczym obejmuje:
-1) opracowanie i wdrożenie procedur stosowanych metod badawczych użyciem metod automatycznych i bezprzyrządowych;
+1) opracowanie i wdrożenie procedur stosowanych metod badawczych z użyciem metod automatycznych i bezprzyrządowych;
 2) walidację metod badawczych;
 3) codzienne potwierdzenie prawidłowości procesu diagnostycznego POCT;
 4) konsultowanie i laboratoryjną interpretację wyników badań;
 5) określanie celów i wymagań jakościowych dotyczących badań;
 6) opracowywanie programu kontroli jakości badań przez wdrożenie procedur kontroli wewnątrzlaboratoryjnej i zewnątrzlaboratoryjnej;
-7) zapewnienie zgodności wykonywania badań procedurami systemu zarządzania jakością obowiązującymi w podmiocie leczniczym;
+7) zapewnienie zgodności wykonywania badań z procedurami systemu zarządzania jakością obowiązującymi w podmiocie leczniczym;
 8) zapewnienie nadzoru nad dokumentacją, opracowywanie procedur, instrukcji systemu zarządzania jakością w odniesieniu do badań;
 9) wdrożenie i modyfikację badań w poszczególnych jednostkach lub komórkach organizacyjnych podmiotu leczniczego;
 10) opiniowanie metod oraz doboru aparatury badawczej i udział w wyborze i ocenie analizatorów parametrów krytycznych i metod bezprzyrządowych;
-nym podmiotu leczniczego;
+11) opiniowanie informatyzacji z obszaru badań, w zakresie integracji i wymiany danych badań z systemem informatycznym podmiotu leczniczego;
 12) przeprowadzanie i dokumentowanie przebiegu szkoleń oraz potwierdzanie kwalifikacji zawodowych personelu medycznego uprawnionego do wykonywania badań;
 13) tworzenie, koordynację i uaktualnianie wykazu personelu medycznego uprawnionego do obsługi aparatury badawczej i wykonywania badań.
 4. Zadania, o których mowa w ust. 3 pkt 10 i 11, może realizować wielodyscyplinarny zespół do spraw POCT powołany przez kierownika podmiotu leczniczego, w którym wykonywane są POCT.

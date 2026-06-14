@@ -8,10 +8,10 @@ pos: 1678
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 września 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1678 OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 13 sierpnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,59 +25,60 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001678) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1678/text.pdf) |
 
-OBWIESZCZENIE MINISTRA INFRASTRUKTURY z dnia 13 sierpnia 2021 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury z dnia 1 sierpnia 2018 r. w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane (Dz. U. z 2021 r. poz. 130), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 31 marca 2021 r. zmieniającym rozporządzenie w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane (Dz. U. poz. 631).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 31 marca 2021 r. zmieniającego rozporządzenie w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane (Dz. U. poz. 631), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Infrastruktury: wz. A. Bittel ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 1 sierpnia 2018 r.
-w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane Na podstawie art. 99 ust. 6 w związku z art. 94 ust. 3 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2020 r.
+w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane Na podstawie art. 99 ust. 6 w związku z art. 94 ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r.
 poz. 1970 oraz z 2021 r. poz. 784 i 847) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe wymagania w zakresie kwalifikacji, wiedzy i doświadczenia członków komisji egzaminacyjnej;
 2) tryb i sposób przeprowadzania egzaminów państwowych;
 3) szczegółowe zasady wynagradzania członków komisji egzaminacyjnej.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
-1) dokumentacji egzaminacyjnej rozumie się przez to dokumenty niezbędne do dopuszczenia kandydata do egzaminu państwowego oraz potwierdzające przeprowadzenie egzaminu państwowego;
-2) Dzienniku Urzędowym rozumie się przez to Urzędowy Urzędu Lotnictwa Cywilnego, o którym mowa w art. 23 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze;
-3) egzaminatorze językowym rozumie się przez to egzaminatora praktycznego upoważnionego do przeprowadzenia egzaminu językowego;
-4) egzaminatorze praktycznym rozumie się przez to członka komisji egzaminacyjnej upoważnionego przez Prezesa do przeprowadzenia egzaminu praktycznego;
-5) egzaminatorze teoretycznym rozumie się przez to członka komisji egzaminacyjnej upoważnionego przez Prezesa do przeprowadzenia egzaminu teoretycznego;
-6) egzaminie językowym rozumie się przez to egzamin praktyczny przeprowadzany w celu określenia poziomu biegłości językowej zgodnie z Załącznikiem 1 oraz umiejętności posługiwania się językiem używanym w łączności radiowej podczas lotu;
-7) egzaminie praktycznym rozumie się przez to część praktyczną egzaminu państwowego polegającą na sprawdzeniu umiejętności praktycznych w celu wydania, przedłużenia, wznowienia albo przywrócenia licencji, świadectwa kwalifikacji lub uprawnień do nich wpisywanych, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego;
-8) egzaminie teoretycznym rozumie się przez to część teoretyczną egzaminu państwowego polegającą na sprawdzeniu wiedzy teoretycznej w celu wydania, przedłużenia, wznowienia albo przywrócenia licencji, świadectwa kwalifikacji lub uprawnień do nich wpisywanych, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego, albo sprawdzeniu wiedzy teoretycznej z przedmiotu łączność dla osób ubiegających się o świadectwo operatora urządzeń radiowych w służbie radiokomunikacji lotniczej;
-9) Europejskim Centralnym Banku Pytań (ECQB) rozumie się przez to zbiór pytań opracowany i modyfikowany przez Agencję Unii Europejskiej ds. Bezpieczeństwa Lotniczego (EASA) wykorzystywany do przeprowadzania egzaminów teoretycznych na:
-a) licencję pilota: samolotowego zawodowego, śmigłowcowego zawodowego, sterowcowego zawodowego, samolotowego liniowego, śmigłowcowego liniowego, samolotowego w załodze wieloosobowej,
+1) dokumentacji egzaminacyjnej – rozumie się przez to dokumenty niezbędne do dopuszczenia kandydata do egzaminu państwowego oraz potwierdzające przeprowadzenie egzaminu państwowego;
+2) Dzienniku Urzędowym – rozumie się przez to Dziennik Urzędowy Urzędu Lotnictwa Cywilnego, o którym mowa w art. 23 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+3) egzaminatorze językowym – rozumie się przez to egzaminatora praktycznego upoważnionego do przeprowadzenia egzaminu językowego;
+4) egzaminatorze praktycznym – rozumie się przez to członka komisji egzaminacyjnej upoważnionego przez Prezesa do przeprowadzenia egzaminu praktycznego;
+5) egzaminatorze teoretycznym – rozumie się przez to członka komisji egzaminacyjnej upoważnionego przez Prezesa do przeprowadzenia egzaminu teoretycznego;
+6) egzaminie językowym – rozumie się przez to egzamin praktyczny przeprowadzany w celu określenia poziomu biegłości językowej zgodnie z Załącznikiem 1 oraz umiejętności posługiwania się językiem używanym w łączności radiowej podczas lotu;
+7) egzaminie praktycznym – rozumie się przez to część praktyczną egzaminu państwowego polegającą na sprawdzeniu umiejętności praktycznych w celu wydania, przedłużenia, wznowienia albo przywrócenia licencji, świadectwa kwalifikacji lub uprawnień do nich wpisywanych, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego;
+8) egzaminie teoretycznym – rozumie się przez to część teoretyczną egzaminu państwowego polegającą na sprawdzeniu wiedzy teoretycznej w celu wydania, przedłużenia, wznowienia albo przywrócenia licencji, świadectwa kwalifikacji lub uprawnień do nich wpisywanych, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego, albo sprawdzeniu wiedzy teoretycznej z przedmiotu łączność dla osób ubiegających się o świadectwo operatora urządzeń radiowych w służbie radiokomunikacji lotniczej;
+9) Europejskim Centralnym Banku Pytań (ECQB) – rozumie się przez to zbiór pytań opracowany i modyfikowany przez Agencję Unii Europejskiej ds. Bezpieczeństwa Lotniczego (EASA) wykorzystywany do przeprowadzania egzaminów teoretycznych na:
+a) licencję pilota: – samolotowego zawodowego, – śmigłowcowego zawodowego, – sterowcowego zawodowego, – samolotowego liniowego, – śmigłowcowego liniowego, – samolotowego w załodze wieloosobowej,
 b) uprawnienie do wykonywania lotów według wskazań przyrządów (IR),
 c) uprawnienie do wykonywania lotów według wskazań przyrządów na trasie (EIR),
 d) uprawnienie do wykonywania lotów według wskazań przyrządów oparte na posiadanych kompetencjach (CBIR);
-10) ICAO rozumie się przez to Organizację Międzynarodowego Lotnictwa Cywilnego;
-11) inspektorze rozumie się przez to pracownika Urzędu posiadającego upoważnienie Prezesa do wykonywania czynności nadzorczych i kontrolnych;
-12) krajowym administratorze egzaminów językowych rozumie się przez to członka komisji egzaminacyjnej, który organizuje i koordynuje przeprowadzanie egzaminów językowych;
-13) Krajowym Banku Pytań rozumie się przez to zbiór pytań opracowany i modyfikowany przez zespół ekspertów powołanych przez Prezesa, wykorzystywany do przeprowadzania egzaminów teoretycznych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane, z wyłączeniem licencji i uprawnień, o których mowa w pkt 9;
-14) ocenie kompetencji rozumie się przez to ocenę czynności lub umiejętności prowadzenia szkoleń przez osobę ubiegającą się o powołanie na egzaminatora praktycznego albo egzaminatora praktycznego, dokonywaną odpowiednio przez egzaminatora praktycznego, inspektora lub seniora egzaminatora;
-15) organizacji szkolenia lotniczego rozumie się przez to organizację lub ośrodek szkolenia lotniczego, posiadające odpowiedni certyfikat, o którym mowa w § 5 pkt 2–5 i 7 rozporządzenia Ministra Infrastruktury z dnia 30 września 2020 r. w sprawie certyfikacji działalności w lotnictwie cywilnym (Dz. U. poz. 1694);
-16) podmiocie szkolącym rozumie się przez to przedsiębiorcę, o którym mowa w art. 95a ust. 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze, prowadzącego działalność szkoleniową i wpisanego do rejestru podmiotów szkolących, o którym mowa w art. 95a ust. 1 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze;
-17) poziomie ICAO rozumie się przez to poziom potwierdzający znajomość języka według skali oceny biegłości znajomości języka według Dodatku A do Załącznika 1;
-18) Prezesie rozumie się przez to Prezesa Urzędu Lotnictwa Cywilnego;
-19) przewodniczącym komisji egzaminacyjnej rozumie się przez to członka komisji egzaminacyjnej powołanego przez Prezesa do koordynowania prac komisji egzaminacyjnej;
-20) rekomendacji do egzaminu praktycznego rozumie się przez to pisemne potwierdzenie spełnienia wymagań w zakresie umiejętności nabytych przez kandydata podczas szkolenia lotniczego, wydane przez organizację szkolenia lotniczego lub podmiot szkolący;
-21) rozporządzeniu nr 2015/340 rozumie się przez to rozporządzenie Komisji (UE) nr 2015/340 z dnia 20 lutego 2015 r.
+10) ICAO – rozumie się przez to Organizację Międzynarodowego Lotnictwa Cywilnego;
+11) inspektorze – rozumie się przez to pracownika Urzędu posiadającego upoważnienie Prezesa do wykonywania czynności nadzorczych i kontrolnych;
+12) krajowym administratorze egzaminów językowych – rozumie się przez to członka komisji egzaminacyjnej, który organizuje i koordynuje przeprowadzanie egzaminów językowych;
+13) Krajowym Banku Pytań – rozumie się przez to zbiór pytań opracowany i modyfikowany przez zespół ekspertów powołanych przez Prezesa, wykorzystywany do przeprowadzania egzaminów teoretycznych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane, z wyłączeniem licencji i uprawnień, o których mowa w pkt 9;
+14) ocenie kompetencji – rozumie się przez to ocenę czynności lub umiejętności prowadzenia szkoleń przez osobę ubiegającą się o powołanie na egzaminatora praktycznego albo egzaminatora praktycznego, dokonywaną odpowiednio przez egzaminatora praktycznego, inspektora lub seniora egzaminatora;
+15) organizacji szkolenia lotniczego – rozumie się przez to organizację lub ośrodek szkolenia lotniczego, posiadające odpowiedni certyfikat, o którym mowa w § 5 pkt 2–5 i 7 rozporządzenia Ministra Infrastruktury z dnia 30 września 2020 r. w sprawie certyfikacji działalności w lotnictwie cywilnym (Dz. U. poz. 1694);
+16) podmiocie szkolącym – rozumie się przez to przedsiębiorcę, o którym mowa w art. 95a ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, prowadzącego działalność szkoleniową i wpisanego do rejestru podmiotów szkolących, o którym mowa w art. 95a ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+17) poziomie ICAO – rozumie się przez to poziom potwierdzający znajomość języka według skali oceny biegłości znajomości języka według Dodatku A do Załącznika 1;
+18) Prezesie – rozumie się przez to Prezesa Urzędu Lotnictwa Cywilnego;
+19) przewodniczącym komisji egzaminacyjnej – rozumie się przez to członka komisji egzaminacyjnej powołanego przez Prezesa do koordynowania prac komisji egzaminacyjnej;
+20) rekomendacji do egzaminu praktycznego – rozumie się przez to pisemne potwierdzenie spełnienia wymagań w zakresie umiejętności nabytych przez kandydata podczas szkolenia lotniczego, wydane przez organizację szkolenia lotniczego lub podmiot szkolący;
+21) rozporządzeniu nr 2015/340 – rozumie się przez to rozporządzenie Komisji (UE) nr 2015/340 z dnia 20 lutego 2015 r.
 ustanawiające wymagania techniczne i procedury administracyjne dotyczące licencji i certyfikatów kontrolerów ruchu lotniczego zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008, zmieniające rozporządzenie wykonawcze Komisji (UE) nr 923/2012 i uchylające rozporządzenie Komisji (UE) nr 805/2011 (Dz. Urz. UE L 63 z 06.03.2015, str. 1);
-22) rozporządzeniu nr 1178/2011 rozumie się przez to rozporządzenie Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiające wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm. );
-23) rozporządzeniu nr 1321/2014 rozumie się przez to rozporządzenie Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 362 z 17.12.2014, str. 1, z późn. zm. );
-24) rozporządzeniu w sprawie licencjonowania rozumie się przez to rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 2 września 2013 r. w sprawie licencjonowania personelu lotniczego (Dz. U. z 2018 r.
+22) rozporządzeniu nr 1178/2011 – rozumie się przez to rozporządzenie Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiające wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm. );
+23) rozporządzeniu nr 1321/2014 – rozumie się przez to rozporządzenie Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 362 z 17.12.2014, str. 1, z późn. zm. );
+24) rozporządzeniu w sprawie licencjonowania – rozumie się przez to rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 2 września 2013 r. w sprawie licencjonowania personelu lotniczego (Dz. U. z 2018 r.
 poz. 839 i 1886 oraz z 2020 r. poz. 2356);
-25) rozporządzeniu w sprawie personelu ATS rozumie się przez to rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 19 maja 2017 r. w sprawie licencji i świadectw kwalifikacji personelu służb ruchu lotniczego (Dz. U.
+25) rozporządzeniu w sprawie personelu ATS – rozumie się przez to rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 19 maja 2017 r. w sprawie licencji i świadectw kwalifikacji personelu służb ruchu lotniczego (Dz. U.
 z 2021 r. poz. 1640);
-26) rozporządzeniu w sprawie świadectw kwalifikacji rozumie się przez to rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 3 czerwca 2013 r. w sprawie świadectw kwalifikacji (Dz. U. z 2017 r. poz. 288 oraz z 2021 r. poz. 939);
-27) sekretarzu komisji egzaminacyjnej rozumie się przez to członka komisji egzaminacyjnej wykonującego zadania związane z funkcjonowaniem i prowadzeniem sekretariatu komisji egzaminacyjnej;
-28) seniorze egzaminatorze rozumie się przez to egzaminatora praktycznego upoważnionego przez Prezesa do wykonywania czynności w zakresie ocen kompetencji kandydatów na egzaminatorów praktycznych celem przedłużenia lub wznowienia ważności ich upoważnień oraz wykonywania planowych lub doraźnych kontroli przeprowadzania egzaminów praktycznych;
-29) terminie sesji egzaminacyjnej rozumie się przez to określony czas, w którym kandydat może przystąpić do egzaminu teoretycznego lub egzaminu językowego;
-30) szefie egzaminatorów praktycznych rozumie się przez to członka komisji egzaminacyjnej, który organizuje i koordynuje przeprowadzanie egzaminów praktycznych;
-31) szefie egzaminatorów teoretycznych rozumie się przez to członka komisji egzaminacyjnej, który organizuje i koordynuje przeprowadzanie egzaminów teoretycznych;
-32) upoważnieniu rozumie się przez to dokument potwierdzający prawo do przeprowadzania egzaminu państwowego odpowiednio w charakterze egzaminatora teoretycznego, egzaminatora praktycznego albo egzaminatora językowego, stosownie do zakresu danego upoważnienia;
-33) Urzędzie rozumie się przez to Urząd Lotnictwa Cywilnego;
-34) ustawie rozumie się przez to ustawę z dnia 3 lipca 2002 r. Prawo lotnicze;
-35) Załączniku 1 rozumie się przez to Załącznik 1 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm. ), ogłoszony w Dzienniku Urzędowym, zgodnie z art. 23 ust. 2 pkt 1 ustawy.
+26) rozporządzeniu w sprawie świadectw kwalifikacji – rozumie się przez to rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 3 czerwca 2013 r. w sprawie świadectw kwalifikacji (Dz. U. z 2017 r. poz. 288 oraz z 2021 r. poz. 939);
+27) sekretarzu komisji egzaminacyjnej – rozumie się przez to członka komisji egzaminacyjnej wykonującego zadania związane z funkcjonowaniem i prowadzeniem sekretariatu komisji egzaminacyjnej;
+28) seniorze egzaminatorze – rozumie się przez to egzaminatora praktycznego upoważnionego przez Prezesa do wykonywania czynności w zakresie ocen kompetencji kandydatów na egzaminatorów praktycznych celem przedłużenia lub wznowienia ważności ich upoważnień oraz wykonywania planowych lub doraźnych kontroli przeprowadzania egzaminów praktycznych;
+29) terminie sesji egzaminacyjnej – rozumie się przez to określony czas, w którym kandydat może przystąpić do egzaminu teoretycznego lub egzaminu językowego;
+30) szefie egzaminatorów praktycznych – rozumie się przez to członka komisji egzaminacyjnej, który organizuje i koordynuje przeprowadzanie egzaminów praktycznych;
+31) szefie egzaminatorów teoretycznych – rozumie się przez to członka komisji egzaminacyjnej, który organizuje i koordynuje przeprowadzanie egzaminów teoretycznych;
+32) upoważnieniu – rozumie się przez to dokument potwierdzający prawo do przeprowadzania egzaminu państwowego odpowiednio w charakterze egzaminatora teoretycznego, egzaminatora praktycznego albo egzaminatora językowego, stosownie do zakresu danego upoważnienia;
+33) Urzędzie – rozumie się przez to Urząd Lotnictwa Cywilnego;
+34) ustawie – rozumie się przez to ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze;
+35) Załączniku 1 – rozumie się przez to Załącznik 1 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm. ), ogłoszony w Dzienniku Urzędowym, zgodnie z art. 23 ust. 2 pkt 1 ustawy.
+§ 3. O powołanie na egzaminatora teoretycznego, z zastrzeżeniem § 5, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego, może ubiegać się osoba, która łącznie spełnia następujące wymagania:
 1) złożyła do Prezesa wniosek o powołanie na egzaminatora teoretycznego;
 2) w okresie 3 lat przed złożeniem wniosku nie zostały zawieszone, ograniczone lub cofnięte posiadane przez nią licencja, świadectwo kwalifikacji lub uprawnienia do nich wpisywane;
 3) nie była skazana prawomocnym wyrokiem za popełnienie przestępstwa;
@@ -85,7 +86,7 @@ z 2021 r. poz. 1640);
 5) posiada:
 a) co najmniej wykształcenie średnie w zakresie wiedzy z danego przedmiotu wymaganej do uzyskania licencji, świadectwa kwalifikacji lub uprawnień do nich wpisywanych, odpowiedniej dla danej specjalności personelu lotniczego albo
 b) co najmniej wykształcenie średnie, licencję lub świadectwo kwalifikacji wraz z uprawnieniami do nich wpisywanymi oraz udokumentowane co najmniej 3 lata praktyki w prowadzeniu szkolenia teoretycznego z zakresu wiedzy wymaganej do uzyskania licencji, świadectwa kwalifikacji lub uprawnień do nich wpisywanych na daną kategorię statku powietrznego lub dla danej specjalności personelu lotniczego,
-c) pozytywną ocenę dotychczasowej współpracy z Urzędem w ramach pełnienia funkcji egzaminatora wydaną przez przewodniczącego komisji egzaminacyjnej w odniesieniu do osób, które taką funkcję pełniły.
+c) pozytywną ocenę dotychczasowej współpracy z Urzędem w ramach pełnienia funkcji egzaminatora wydaną przez przewodniczącego komisji egzaminacyjnej – w odniesieniu do osób, które taką funkcję pełniły.
 § 4. 1. O powołanie na egzaminatora praktycznego, z zastrzeżeniem § 5, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego, może ubiegać się osoba, która łącznie spełnia następujące wymagania:
 1) złożyła do Prezesa wniosek o powołanie na egzaminatora praktycznego;
 2) spełnia wymagania określone w § 3 pkt 2–4 i 5 lit. c;
@@ -98,6 +99,7 @@ d) kontroli umiejętności praktycznych w celu przedłużenia ważności lub wzn
 5) przeprowadziła co najmniej jeden egzamin praktyczny pod nadzorem inspektora, seniora egzaminatora lub egzaminatora praktycznego wyznaczonego przez szefa egzaminatorów praktycznych, w ramach którego jest dokonywana ocena kompetencji, i uzyskała pozytywną ocenę kompetencji tego inspektora, seniora egzaminatora lub egzaminatora praktycznego; od tej oceny kompetencji nie służy odwołanie.
 2. Pozostałe wymagania dla osób ubiegających się o powołanie na egzaminatora praktycznego do przeprowadzania egzaminów praktycznych na licencje, świadectwa kwalifikacji i uprawnienia do nich wpisywane wobec członków personelu lotniczego:
 1) niewchodzących w skład załóg statków powietrznych określa załącznik nr 1 do rozporządzenia;
+2) wchodzących w skład załóg statków powietrznych określa załącznik nr 2 do rozporządzenia.
 § 5. O powołanie na egzaminatora teoretycznego i egzaminatora praktycznego do przeprowadzania egzaminu państwowego w zakresie obsługi technicznej statku powietrznego może ubiegać się osoba, która łącznie spełnia następujące wymagania:
 1) złożyła do Prezesa wniosek o powołanie na egzaminatora teoretycznego i egzaminatora praktycznego;
 2) spełnia wymagania określone w § 3 pkt 2–4 i 5 lit. c;
@@ -140,6 +142,8 @@ d) kontroli umiejętności praktycznych w celu przedłużenia ważności lub wzn
 2. Zezwolenie na przeprowadzenie egzaminu państwowego jest wydawane każdorazowo na okres potrzebny do uzyskania odpowiednich kwalifikacji przez egzaminatorów teoretycznych lub egzaminatorów praktycznych, nie dłuższy niż 1 rok.
 § 13. 1. Prezes sprawuje nadzór i kontrolę nad procesem przeprowadzania egzaminów państwowych zgodnie z opracowanym przez niego programem sprawowania nadzoru.
 2. Prezes prowadzi, publikuje i aktualizuje na stronie internetowej Urzędu wykaz egzaminatorów językowych, egzaminatorów praktycznych oraz egzaminatorów teoretycznych zawierający imię, nazwisko, zakres upoważnienia i jego numer.
+§ 14. O powołanie na egzaminatora językowego w zakresie języka angielskiego może ubiegać się osoba, która łącznie spełnia następujące wymagania:
+1) złożyła do Prezesa wniosek o powołanie na egzaminatora językowego;
 2) w okresie 3 lat przed złożeniem wniosku nie zostały zawieszone, ograniczone lub cofnięte posiadane przez nią licencja, świadectwo kwalifikacji lub uprawnienia do nich wpisywane;
 3) spełnia wymagania określone w § 3 pkt 3, 4 i 5 lit. c;
 4) spełnia jeden z następujących warunków:
@@ -156,12 +160,13 @@ c) posiada biegłość językową w zakresie języka angielskiego na co najmniej
 1) przeprowadził w ciągu 12 kolejnych miesięcy co najmniej 10 egzaminów językowych;
 2) w ostatnim roku okresu ważności upoważnienia uczestniczył w egzaminatorskim seminarium odświeżającym, o którym mowa w § 8.
 § 18. Krajowy administrator egzaminów językowych prowadzi i ustala przeprowadzenie kursów standaryzacyjnych, o których mowa w § 7, dla kandydatów na egzaminatorów językowych i egzaminatorów językowych oraz egzaminatorskich seminariów odświeżających, o których mowa w § 8, dla egzaminatorów językowych, w tym ich termin i zakres.
+§ 19. 1. Egzaminy teoretyczne na:
 1) licencję,
 2) uprawnienie do lotów według wskazań przyrządów (IR),
 3) uprawnienie do lotów według wskazań przyrządów na trasie (EIR),
 4) świadectwo kwalifikacji informatora służby informacji powietrznej (FISC), świadectwo kwalifikacji informatora lotniskowej służby informacji powietrznej (AFISC) oraz uprawnienia do nich wpisywane,
 5) uprawnienia instruktorskie (INS) wpisywane do świadectw kwalifikacji,
-6) świadectwo operatora urządzeń radiowych w służbie radiokomunikacyjnej lotniczej są przeprowadzane przez komisję egzaminacyjną w siedzibie Urzędu, na wniosek kandydata składany do Prezesa, zgodnie z zatwierdzonym przez Prezesa i ogłoszonym w Dzienniku Urzędowym rocznym planem egzaminów teoretycznych określającym terminy sesji egzaminacyjnych, miejsce, formę i zakres tych egzaminów.
+6) świadectwo operatora urządzeń radiowych w służbie radiokomunikacyjnej lotniczej – są przeprowadzane przez komisję egzaminacyjną w siedzibie Urzędu, na wniosek kandydata składany do Prezesa, zgodnie z zatwierdzonym przez Prezesa i ogłoszonym w Dzienniku Urzędowym rocznym planem egzaminów teoretycznych określającym terminy sesji egzaminacyjnych, miejsce, formę i zakres tych egzaminów.
 2. We wniosku podaje się co najmniej imię i nazwisko, numer PESEL, o ile dotyczy, datę i miejsce urodzenia, imiona rodziców, obywatelstwo, adres zamieszkania, numer telefonu lub adres poczty elektronicznej wnioskującego.
 3. Egzaminy teoretyczne na:
 1) kolejne uprawnienie wpisywane do licencji mechanika lotniczego obsługi technicznej (MML) mogą być przeprowadzane poza siedzibą Urzędu po ukończeniu przez kandydata szkolenia teoretycznego, jeżeli jest wymagane, bez konieczności składania wniosku do Prezesa;
@@ -169,7 +174,7 @@ c) posiada biegłość językową w zakresie języka angielskiego na co najmniej
 3) licencję na obsługę techniczną statku powietrznego (AML) mogą być przeprowadzane poza siedzibą Urzędu przez organizację szkoleniową, uprawnioną do przeprowadzania egzaminów, zgodnie z dodatkiem II do załącznika III (Część 66) do rozporządzenia nr 1321/2014, bez konieczności składania przez kandydata wniosku do Prezesa.
 4. Egzaminy teoretyczne na:
 1) świadectwa kwalifikacji, z wyłączeniem świadectwa kwalifikacji informatora służby informacji powietrznej (FISC) oraz świadectwa kwalifikacji informatora lotniskowej służby informacji powietrznej (AFISC),
-2) uprawnienia wpisywane do świadectw kwalifikacji, z wyłączeniem uprawnień, o których mowa w ust. 1 pkt 4 i 5 są przeprowadzane poza siedzibą Urzędu po ukończeniu przez kandydata szkolenia teoretycznego, jeżeli jest wymagane, bez konieczności składania wniosku do Prezesa.
+2) uprawnienia wpisywane do świadectw kwalifikacji, z wyłączeniem uprawnień, o których mowa w ust. 1 pkt 4 i 5 – są przeprowadzane poza siedzibą Urzędu po ukończeniu przez kandydata szkolenia teoretycznego, jeżeli jest wymagane, bez konieczności składania wniosku do Prezesa.
 § 20. W przeprowadzaniu egzaminów teoretycznych mogą uczestniczyć osoby niebędące członkami komisji egzaminacyjnej wykonujące czynności techniczno-obsługowe.
 § 21. 1. Egzamin teoretyczny jest przeprowadzany w sesji egzaminacyjnej w formie testu wyboru lub w formie opisowej z zastosowaniem:
 1) arkusza egzaminacyjnego albo
@@ -180,7 +185,8 @@ c) posiada biegłość językową w zakresie języka angielskiego na co najmniej
 3. Egzaminy teoretyczne na uprawnienia na typ statku powietrznego w zakresie licencji:
 1) na obsługę techniczną statku powietrznego (AML) określa dodatek III do załącznika III (Część 66) do rozporządzenia nr 1321/2014 oraz część II w załączniku nr 4 do rozporządzenia;
 2) mechanika lotniczego obsługi technicznej (MML) określa część III w załączniku nr 4 do rozporządzenia.
-4. Egzaminy teoretyczne na licencje, świadectwa kwalifikacji lub uprawnienia do nich wpisywane, o których mowa w rozporządzeniu w sprawie licencjonowania, rozporządzeniu w sprawie świadectw kwalifikacji oraz rozporządzeniu § 23. 1. Egzamin teoretyczny z wykorzystaniem Krajowego Banku Pytań jest przeprowadzany w języku polskim.
+4. Egzaminy teoretyczne na licencje, świadectwa kwalifikacji lub uprawnienia do nich wpisywane, o których mowa w rozporządzeniu w sprawie licencjonowania, rozporządzeniu w sprawie świadectw kwalifikacji oraz rozporządzeniu w sprawie personelu ATS, określają te rozporządzenia oraz część I w załączniku nr 4 do rozporządzenia.
+§ 23. 1. Egzamin teoretyczny z wykorzystaniem Krajowego Banku Pytań jest przeprowadzany w języku polskim.
 2. Egzamin teoretyczny z wykorzystaniem Krajowego Banku Pytań może być przeprowadzony w języku angielskim w przypadku dostępności tej wersji językowej. Wyboru wersji językowej egzaminu teoretycznego dokonuje kandydat przystępujący do egzaminu.
 3. Egzamin teoretyczny z wykorzystaniem Europejskiego Centralnego Banku Pytań (ECQB) jest przeprowadzany w języku angielskim.
 § 24. 1 W przypadku egzaminów teoretycznych na świadectwa kwalifikacji lub uprawnienia do nich wpisywane w zakresie personelu służb ruchu lotniczego, kandydat przystępuje do egzaminu teoretycznego po przedstawieniu zaświadczenia o ukończeniu szkolenia teoretycznego.
@@ -205,6 +211,7 @@ c) zaświadczenie o ukończeniu szkolenia teoretycznego w organizacji szkolenia 
 9) bezstronnie i obiektywnie przeprowadza egzamin teoretyczny i dokonuje jego oceny odpowiednio zgodnie z:
 a) rozporządzeniem w sprawie personelu ATS,
 b) rozporządzeniem w sprawie świadectw kwalifikacji,
+c) rozporządzeniem w sprawie licencjonowania;
 10) podaje kandydatowi wynik egzaminu teoretycznego;
 11) rzetelnie wypełnia dokumentację egzaminacyjną;
 12) niezwłocznie przekazuje Prezesowi odpowiednie dokumenty wchodzące w skład dokumentacji egzaminacyjnej, bezpośrednio po przeprowadzonym egzaminie teoretycznym.
@@ -232,7 +239,7 @@ b) zaproponował egzaminatorowi teoretycznemu lub osobie, o której mowa w § 20
 1) zaliczenia egzaminu teoretycznego,
 2) niezaliczenia egzaminu teoretycznego,
 3) naruszenia przepisów § 28 ust. 3 lub 4,
-4) przekroczenia terminu lub limitów, o których mowa w § 30 ust. 1–3 kandydat otrzymuje raport imienny albo kartę egzaminu teoretycznego sporządzoną przez egzaminatora teoretycznego, zawierające wynik końcowy tego egzaminu.
+4) przekroczenia terminu lub limitów, o których mowa w § 30 ust. 1–3 – kandydat otrzymuje raport imienny albo kartę egzaminu teoretycznego sporządzoną przez egzaminatora teoretycznego, zawierające wynik końcowy tego egzaminu.
 § 35. 1. Po zakończonej sesji egzaminacyjnej egzaminator teoretyczny lub osoba, o której mowa w § 20, sporządzają raport z przeprowadzonych egzaminów teoretycznych, w którym są zamieszczane informacje o liczbie osób, które:
 1) przystąpiły do egzaminu teoretycznego;
 2) zaliczyły egzamin teoretyczny na licencję, świadectwo kwalifikacji, uprawnienia do nich wpisywane;
@@ -247,9 +254,10 @@ b) zaproponował egzaminatorowi teoretycznemu lub osobie, o której mowa w § 20
 3. O zachowaniu terminu do wniesienia odwołania decyduje data jego złożenia w Urzędzie, nadania u operatora pocztowego, wysłania pocztą elektroniczną albo wprowadzenia go do elektronicznej platformy usług administracji publicznej „ePUAP”.
 4. Uchybienie terminu do wniesienia odwołania skutkuje pozostawieniem odwołania bez rozpoznania.
 § 37. 1. Jeżeli odwołanie, o którym mowa w § 36 ust. 1, dotyczy:
-1) egzaminu teoretycznego prowadzonego w formie pisemnej z zastosowaniem arkusza egzaminacyjnego przewodniczący komisji egzaminacyjnej zarządza przeprowadzenie egzaminu komisyjnego z udziałem innego egzaminatora teoretycznego;
-2) egzaminu teoretycznego prowadzonego z zastosowaniem techniki komputerowej przewodniczący komisji egzaminacyjnej powołuje zespół weryfikacyjny składający się z dwóch specjalistów w danej dziedzinie w celu weryfikacji merytorycznej zasadności odwołania;
-3) egzaminu teoretycznego w formie ustnej przewodniczący komisji egzaminacyjnej zarządza przeprowadzenie egza2. Egzamin komisyjny, o którym mowa w ust. 1 pkt 1 i 3, odbywa się w terminie 30 dni od dnia wpływu odwołania do przewodniczącego komisji egzaminacyjnej. Przewodniczący komisji egzaminacyjnej, co najmniej na 14 dni przed wyznaczonym terminem egzaminu komisyjnego, pisemnie zawiadamia kandydata o terminie i miejscu tego egzaminu.
+1) egzaminu teoretycznego prowadzonego w formie pisemnej z zastosowaniem arkusza egzaminacyjnego – przewodniczący komisji egzaminacyjnej zarządza przeprowadzenie egzaminu komisyjnego z udziałem innego egzaminatora teoretycznego;
+2) egzaminu teoretycznego prowadzonego z zastosowaniem techniki komputerowej – przewodniczący komisji egzaminacyjnej powołuje zespół weryfikacyjny składający się z dwóch specjalistów w danej dziedzinie w celu weryfikacji merytorycznej zasadności odwołania;
+3) egzaminu teoretycznego w formie ustnej – przewodniczący komisji egzaminacyjnej zarządza przeprowadzenie egzaminu komisyjnego z udziałem innego egzaminatora teoretycznego.
+2. Egzamin komisyjny, o którym mowa w ust. 1 pkt 1 i 3, odbywa się w terminie 30 dni od dnia wpływu odwołania do przewodniczącego komisji egzaminacyjnej. Przewodniczący komisji egzaminacyjnej, co najmniej na 14 dni przed wyznaczonym terminem egzaminu komisyjnego, pisemnie zawiadamia kandydata o terminie i miejscu tego egzaminu.
 3. W przypadku:
 1) niezgłoszenia się kandydata na egzamin komisyjny, o którym mowa w ust. 1 pkt 1 i 3, przyjmuje się, że kandydat nie zaliczył egzaminu komisyjnego;
 2) usprawiedliwionej nieobecności kandydata na egzaminie komisyjnym, o którym mowa w ust. 1 pkt 1 i 3, spowodowanej w szczególności chorobą lub innymi zdarzeniami losowymi, przyjmuje się, że kandydat nie przystąpił do egzaminu komisyjnego.
@@ -259,12 +267,15 @@ b) zaproponował egzaminatorowi teoretycznemu lub osobie, o której mowa w § 20
 1) stwierdzenie o zasadności albo niezasadności odwołania;
 2) zapis kwestionowanych przez kandydata części egzaminu teoretycznego;
 3) opinię zespołu weryfikacyjnego dotyczącą kwestionowanych przez kandydata części egzaminu teoretycznego.
+§ 38. Egzamin teoretyczny jest przeprowadzany w formie testu wyboru.
 § 39. Egzamin na świadectwo operatora urządzeń radiowych w służbie radiokomunikacyjnej lotniczej uznaje się za zaliczony, jeżeli został zaliczony egzamin teoretyczny z przedmiotu łączność w ramach egzaminu w celu uzyskania licencji albo świadectwa kwalifikacji. W odniesieniu do zakresu wiedzy sprawdzanej w trakcie egzaminu teoretycznego z przedmiotu łączność stosuje się odpowiednio § 22 ust. 1 albo 4.
 § 40. Do trybu przeprowadzania egzaminu teoretycznego osób ubiegających się o świadectwo operatora urządzeń radiowych w służbie radiokomunikacyjnej lotniczej stosuje się § 25, § 27–29, § 30 ust. 1–3, § 31, § 32 oraz § 34.
+§ 41. 1. Egzaminy praktyczne na licencje i uprawnienia do nich wpisywane, o których mowa w rozporządzeniu nr 1178/2011, przeprowadza się na warunkach określonych w rozporządzeniu nr 1178/2011.
 2. Egzaminy praktyczne na uprawnienia na typ statku powietrznego w zakresie licencji na obsługę techniczną statku powietrznego (AML), o których mowa w rozporządzeniu nr 1321/2014, określa to rozporządzenie.
 3. Egzaminy praktyczne na licencje i uprawnienia do nich wpisywane, o których mowa w rozporządzeniu nr 2015/340, określa to rozporządzenie.
 4. Egzaminy praktyczne na świadectwa kwalifikacji i uprawnienia do nich wpisywane, o których mowa w rozporządzeniu w sprawie personelu ATS, określa to rozporządzenie.
-5. Egzaminy praktyczne na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane, o których mowa w rozporządzeniu w sprawie licencjonowania oraz rozporządzeniu w sprawie świadectw kwalifikacji, określają odpowied6. Egzaminy praktyczne na uprawnienia na typ statku powietrznego w zakresie licencji mechanika lotniczego obsługi technicznej (MML) przeprowadza się na warunkach określonych w pkt 5 w dodatku III do załącznika III (Część 66) do rozporządzenia nr 1321/2014.
+5. Egzaminy praktyczne na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane, o których mowa w rozporządzeniu w sprawie licencjonowania oraz rozporządzeniu w sprawie świadectw kwalifikacji, określają odpowiednio te rozporządzenia.
+6. Egzaminy praktyczne na uprawnienia na typ statku powietrznego w zakresie licencji mechanika lotniczego obsługi technicznej (MML) przeprowadza się na warunkach określonych w pkt 5 w dodatku III do załącznika III (Część 66) do rozporządzenia nr 1321/2014.
 § 42. Kandydat przystępujący do egzaminu praktycznego w celu wydania licencji, świadectwa kwalifikacji lub uprawnień do nich wpisywanych przedstawia rekomendację do egzaminu praktycznego po ukończeniu szkolenia teoretycznego i praktycznego, o ile są wymagane.
 § 43. 1. Kandydat przystępuje do egzaminu praktycznego w okresie ważności egzaminu teoretycznego, o którym mowa w § 33.
 2. Egzamin praktyczny rozpoczęty w okresie ważności egzaminu teoretycznego powinien zakończyć się w okresie 6 miesięcy od dnia jego rozpoczęcia. Przepis § 61 stosuje się odpowiednio.
@@ -315,7 +326,8 @@ c) rozporządzeniem w sprawie licencjonowania;
 18) określa zakres wymaganego szkolenia uzupełniającego lub dodatkowej praktyki w przypadku niezaliczenia części albo całości egzaminu praktycznego;
 19) rzetelnie wypełnia dokumentację egzaminacyjną;
 20) niezwłocznie przekazuje kandydatowi oraz właściwemu dla tego kandydata organowi, który w państwie obcym sprawuje nadzór nad personelem lotniczym, dokumentację egzaminacyjną bezpośrednio po przeprowadzonym egzaminie praktycznym, za pośrednictwem operatora pocztowego albo poczty elektronicznej;
-21) przekazuje właściwemu dla kandydata organowi, który w państwie obcym sprawuje nadzór nad personelem lotniczym, wraz z dokumentacją, o której mowa w pkt 20, kopię licencji lub świadectw kwalifikacji, w których dokonał § 49. Egzaminator praktyczny nadzoruje stosowanie podczas egzaminu praktycznego reguł i procedur operacyjnych, zawartych w aktualnej instrukcji operacyjnej, instrukcji użytkowania danej kategorii statku powietrznego albo instrukcji wykonywania lotów, właściwych ze względu na miejsce, w którym jest przeprowadzany egzamin praktyczny.
+21) przekazuje właściwemu dla kandydata organowi, który w państwie obcym sprawuje nadzór nad personelem lotniczym, wraz z dokumentacją, o której mowa w pkt 20, kopię licencji lub świadectw kwalifikacji, w których dokonał wpisu potwierdzającego przedłużenie albo wznowienie ważności uprawnienia.
+§ 49. Egzaminator praktyczny nadzoruje stosowanie podczas egzaminu praktycznego reguł i procedur operacyjnych, zawartych w aktualnej instrukcji operacyjnej, instrukcji użytkowania danej kategorii statku powietrznego albo instrukcji wykonywania lotów, właściwych ze względu na miejsce, w którym jest przeprowadzany egzamin praktyczny.
 § 50. 1. Egzaminator praktyczny nie może przeprowadzać egzaminów praktycznych, kontroli, o której mowa w § 4 ust. 1 pkt 3 lit. d, ani ocen kompetencji kandydata ubiegającego się o wydanie licencji, świadectwa kwalifikacji lub uprawnień do nich wpisywanych, gdy:
 1) uczestniczył w szkoleniu praktycznym w zakresie licencji, świadectwa kwalifikacji lub uprawnień do nich wpisywanych, w odniesieniu do których przeprowadza dany egzamin praktyczny lub ocenę kompetencji, z uwzględnieniem prawa Unii Europejskiej w zakresie personelu lotniczego;
 2) wydał zaświadczenie o ukończeniu szkolenia praktycznego lub rekomendację do egzaminu praktycznego;
@@ -341,6 +353,7 @@ b) zaproponował egzaminatorowi przyjęcie korzyści materialnej w zamian za zal
 2. Uzyskanie zgody, o której mowa w ust. 1 pkt 2, nie jest wymagane, jeżeli kandydat jest właścicielem statku powietrznego.
 3. Zgoda, o której mowa w ust. 1 pkt 2, obejmuje:
 1) imienne wskazanie kandydata lub kandydatów;
+2) zakres, w jakim statek powietrzny może być użyty podczas egzaminu praktycznego.
 § 54. W przypadku użycia do egzaminu praktycznego jednomiejscowego statku powietrznego zgoda, o której mowa w § 53 ust. 1 pkt 2, oznacza zgodę właściciela tego statku powietrznego na wykonywanie czynności dowódcy statku powietrznego przez kandydata przystępującego do egzaminu praktycznego.
 § 55. 1. W trakcie egzaminu praktycznego przeprowadzanego w locie na statku powietrznym, na którym jest wymagana załoga wieloosobowa, egzaminator praktyczny może być:
 1) dowódcą statku powietrznego, jeżeli posiada uprawnienia dotyczące typu statku powietrznego i rodzaju lotu oraz jeżeli właściciel statku powietrznego wyraził na to pisemną zgodę, a użytkownik tego statku powietrznego wystawił odpowiedni dokument operacyjny;
@@ -356,7 +369,7 @@ b) zaproponował egzaminatorowi przyjęcie korzyści materialnej w zamian za zal
 § 58. 1. Statek powietrzny znajdujący się w eksploatacji lub zespół urządzeń takiego statku powietrznego może być użyty do egzaminu praktycznego:
 1) w zakresie obsługi typu statku powietrznego,
 2) na licencję mechanika lotniczego obsługi technicznej lub uprawnień do niej wpisywanych,
-3) na świadectwo kwalifikacji mechanika poświadczenia obsługi statków powietrznych lub uprawnień do niego wpisywanych jeżeli właściciel wyrazi zgodę na jego użycie, a w przypadku gdy statek powietrzny lub zespół jego urządzeń znajduje się w trakcie obsługi technicznej zgodę wyrazi także podmiot wykonujący obsługę techniczną tego statku powietrznego, składając egzaminatorowi praktycznemu odpowiednie pisemne oświadczenie.
+3) na świadectwo kwalifikacji mechanika poświadczenia obsługi statków powietrznych lub uprawnień do niego wpisywanych – jeżeli właściciel wyrazi zgodę na jego użycie, a w przypadku gdy statek powietrzny lub zespół jego urządzeń znajduje się w trakcie obsługi technicznej – zgodę wyrazi także podmiot wykonujący obsługę techniczną tego statku powietrznego, składając egzaminatorowi praktycznemu odpowiednie pisemne oświadczenie.
 2. Przeprowadzenie egzaminu praktycznego w zakresie obsługi typu statku powietrznego, na licencję mechanika lotniczego obsługi technicznej, świadectwo kwalifikacji mechanika poświadczenia obsługi statków powietrznych lub uprawnień lotniczych do nich wpisywanych na odpowiednim stanowisku obsługi technicznej, z wykorzystaniem narzędzi i materiałów, wymaga zgody podmiotu posiadającego certyfikat na obsługę techniczną statków powietrznych, o którym mowa w art. 160 ust. 3 pkt 6 ustawy, który składa pisemne oświadczenie w tym zakresie. Przepis § 53 ust. 3 pkt 2 stosuje się odpowiednio.
 § 59. 1. Egzamin praktyczny na uprawnienie uzupełniające w jednostce wpisywane do świadectwa kwalifikacji informatora służby informacji powietrznej (FISC) lub świadectwa kwalifikacji informatora lotniskowej służby informacji powietrznej (AFISC) odbywa się na odpowiednio wyposażonym stanowisku operacyjnym po uzyskaniu pisemnej zgody organu służb ruchu lotniczego, któremu to stanowisko podlega.
 2. W przypadku dokonania zmian w podziale granic sektorów służby informacji powietrznej (FIS) egzamin praktyczny na uprawnienie uzupełniające w jednostce wpisywane do świadectwa kwalifikacji informatora służby informacji powietrznej (FISC) dotyczące nowo utworzonych części przestrzeni powietrznej jest przeprowadzany na symulatorze ze zobrazowaniem rzeczywistych uwarunkowań lokalnych.
@@ -374,23 +387,24 @@ a) stwierdzenia, że zostały naruszone przez kandydata warunki przeprowadzania 
 b) pogorszenia się warunków atmosferycznych lub wystąpienia innych przyczyn uniemożliwiających bezpieczne przeprowadzenie egzaminu praktycznego,
 c) uznania, że umiejętności kandydata wymagają ponownego przeprowadzenia egzaminu praktycznego w całości.
 § 61. W przypadkach określonych w:
-1) § 51 ust. 1 pkt 1 i § 60 pkt 2 lit. c kandydat nie zaliczył egzaminu praktycznego;
-2) § 51 ust. 1 pkt 2 kandydat nie przystąpił do egzaminu praktycznego;
-3) § 51 ust. 1 pkt 3 i § 60 pkt 2 lit. b egzamin praktyczny będzie kontynuowany po ustaniu przyczyn jego przerwania;
-4) § 60 pkt 1 jeżeli powód przerwania egzaminu praktycznego został uznany przez egzaminatora praktycznego za:
-a) nieusprawiedliwiony kandydat nie zaliczył egzaminu praktycznego,
-b) usprawiedliwiony ponownemu sprawdzeniu podlegają części egzaminu praktycznego, które nie zostały ukończone przez kandydata do momentu przerwania egzaminu praktycznego.
+1) § 51 ust. 1 pkt 1 i § 60 pkt 2 lit. c – kandydat nie zaliczył egzaminu praktycznego;
+2) § 51 ust. 1 pkt 2 – kandydat nie przystąpił do egzaminu praktycznego;
+3) § 51 ust. 1 pkt 3 i § 60 pkt 2 lit. b – egzamin praktyczny będzie kontynuowany po ustaniu przyczyn jego przerwania;
+4) § 60 pkt 1 – jeżeli powód przerwania egzaminu praktycznego został uznany przez egzaminatora praktycznego za:
+a) nieusprawiedliwiony – kandydat nie zaliczył egzaminu praktycznego,
+b) usprawiedliwiony – ponownemu sprawdzeniu podlegają części egzaminu praktycznego, które nie zostały ukończone przez kandydata do momentu przerwania egzaminu praktycznego.
 § 62. Podczas egzaminu praktycznego każda podlegająca ocenie czynność lotnicza wchodząca w zakres tego egzaminu praktycznego na polecenie egzaminatora praktycznego może być powtórzona jeden raz przez kandydata w przypadku, gdy egzaminator praktyczny ma wątpliwości co do poprawności wykonania tej czynności lotniczej.
 § 63. Wynik egzaminu praktycznego określa egzaminator praktyczny przez wystawienie oceny: „zaliczony w części albo w całości” albo „niezaliczony w części albo w całości”.
-§ 64. W przypadku niezaliczenia egzaminu praktycznego w części albo w całości egzaminator praktyczny określa powód niezaliczenia egzaminu praktycznego oraz zakres szkolenia uzupełniającego, które kandydat powinien odbyć przed ponownym przystąpieniem do egzaminu praktycznego, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie § 65. 1. W przypadku przedłużania albo wznawiania ważności uprawnień wpisywanych do licencji albo wznawiania ważności uprawnień wpisywanych do świadectw kwalifikacji egzaminator praktyczny może być dodatkowo upoważniony przez Prezesa do odręcznego wpisywania do nich informacji dotyczących:
+§ 64. W przypadku niezaliczenia egzaminu praktycznego w części albo w całości egzaminator praktyczny określa powód niezaliczenia egzaminu praktycznego oraz zakres szkolenia uzupełniającego, które kandydat powinien odbyć przed ponownym przystąpieniem do egzaminu praktycznego, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego.
+§ 65. 1. W przypadku przedłużania albo wznawiania ważności uprawnień wpisywanych do licencji albo wznawiania ważności uprawnień wpisywanych do świadectw kwalifikacji egzaminator praktyczny może być dodatkowo upoważniony przez Prezesa do odręcznego wpisywania do nich informacji dotyczących:
 1) rodzaju przedłużanych albo wznawianych uprawnień,
 2) daty przeprowadzenia egzaminu praktycznego,
 3) nowej daty ważności uprawnień,
-4) numeru upoważnienia egzaminatora i potwierdzania ich własnoręcznym podpisem.
+4) numeru upoważnienia egzaminatora – i potwierdzania ich własnoręcznym podpisem.
 2. W przypadku przedłużania albo wznawiania ważności upoważnienia egzaminatora praktycznego senior egzaminator upoważniony przez Prezesa może dodatkowo odręcznie wpisywać do tego upoważnienia informacje dotyczące:
 1) kategorii przedłużanego albo wznowionego upoważnienia,
 2) daty przeprowadzenia oceny kompetencji,
-3) nowej daty ważności upoważnienia z potwierdzeniem ich własnoręcznym podpisem.
+3) nowej daty ważności upoważnienia – z potwierdzeniem ich własnoręcznym podpisem.
 § 66. 1. W przypadku wydania lub wznowienia ważności uprawnienia wpisywanego do licencji albo świadectwa kwalifikacji egzaminator praktyczny wpisuje datę ważności uprawnienia, licząc od ostatniego dnia miesiąca, w którym został przeprowadzony egzamin praktyczny.
 2. W przypadku przedłużenia ważności uprawnienia wpisywanego do licencji albo świadectwa kwalifikacji egzaminator praktyczny wpisuje datę ważności uprawnienia, licząc od ostatniego dnia miesiąca, w którym upływa okres ważności danego uprawnienia.
 § 67. 1. Kandydat, który nie zaliczył części albo całości egzaminu praktycznego, może złożyć odwołanie do przewodniczącego komisji egzaminacyjnej.
@@ -401,6 +415,7 @@ b) usprawiedliwiony ponownemu sprawdzeniu podlegają części egzaminu praktyczn
 3. O zachowaniu terminu do wniesienia odwołania decyduje data jego złożenia w Urzędzie, nadania u operatora pocztowego, wysłania pocztą elektroniczną albo wprowadzenia go do elektronicznej platformy usług administracji publicznej „ePUAP”.
 4. Uchybienie terminu do wniesienia odwołania skutkuje pozostawieniem odwołania bez rozpoznania.
 5. Kandydat, który złożył odwołanie od niezaliczonego w całości egzaminu praktycznego w terminie, może przystąpić do poprawkowego egzaminu praktycznego w terminie, o którym mowa w § 33, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego. Przepis § 63 stosuje się odpowiednio.
+§ 68. 1. Egzaminy językowe w zakresie poziomu biegłości językowej oraz umiejętności posługiwania się językiem używanym w łączności radiowej podczas lotu przeprowadza się na podstawie wymagań określonych w pkt 1.2.9 w Załączniku 1, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego.
 2. Na egzaminie językowym stosuje się zestawy zadań egzaminacyjnych ustalonych przez Prezesa w celu określenia poziomu biegłości językowej oraz umiejętności posługiwania się językiem używanym w łączności radiowej podczas lotu.
 § 69. W odniesieniu do trybu przeprowadzania egzaminów językowych stosuje się odpowiednio § 25, § 26 pkt 3–12, § 27, § 28, § 31 oraz § 47 ust. 1 pkt 1, pkt 2 lit. a oraz pkt 3.
 § 70. W przypadku gdy wynik egzaminu językowego przeprowadzonego w celu przedłużenia albo wznowienia ważności uprawnienia uzupełniającego w zakresie języka wpisanego do licencji albo świadectwa kwalifikacji nie jest niższy niż poziom 4 ICAO (operacyjny), egzaminator językowy wpisuje w licencji albo świadectwie kwalifikacji poziom jego biegłości oraz nowy termin ważności uprawnienia uzupełniającego w zakresie języka, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu służb ruchu lotniczego.
@@ -410,10 +425,10 @@ Okres przedłużonej ważności tego uprawnienia jest liczony od dnia upływu po
 § 72. Egzamin językowy jest zaliczony, jeżeli kandydat uzyska co najmniej poziom 4 ICAO (operacyjny).
 § 73. 1. Końcowa ocena egzaminu językowego jest najniższą oceną uzyskaną ze wszystkich elementów składowych egzaminu językowego, o których mowa w FCL.055 załącznika I (Część FCL) do rozporządzenia nr 1178/2011.
 2. O wynikach egzaminu językowego kandydat zostaje poinformowany w wybranej przez niego formie:
-1) ustnej po zakończonym egzaminie językowym w dniu jego przeprowadzenia lub
-2) elektronicznej na podany przez kandydata adres poczty elektronicznej, lub
-3) telefonicznej na podany przez kandydata numer telefonu, lub
-4) listu poleconego za pośrednictwem operatora pocztowego na podany przez kandydata adres we wniosku do Prezesa o przeprowadzenie egzaminu językowego.
+1) ustnej – po zakończonym egzaminie językowym w dniu jego przeprowadzenia lub
+2) elektronicznej – na podany przez kandydata adres poczty elektronicznej, lub
+3) telefonicznej – na podany przez kandydata numer telefonu, lub
+4) listu poleconego za pośrednictwem operatora pocztowego – na podany przez kandydata adres we wniosku do Prezesa o przeprowadzenie egzaminu językowego.
 3. Wyniki z egzaminu językowego są przekazywane, na wniosek organu, który w państwie obcym sprawuje nadzór nad personelem lotniczym, właściwego dla egzaminowanego, temu organowi oraz wskazanej pisemnie przez egzaminowanego osobie lub instytucji.
 § 74. Egzaminator językowy nie może przeprowadzać egzaminu językowego, jeżeli jest małżonkiem, krewnym lub powinowatym kandydata do drugiego stopnia lub uczestniczył w procesie jego szkolenia.
 § 75. 1. Egzaminy językowe są dokumentowane przez zapisanie ich przebiegu na nośnikach audio lub video.
@@ -428,10 +443,10 @@ Okres przedłużonej ważności tego uprawnienia jest liczony od dnia upływu po
 1) na wniosek kandydata;
 2) przez egzaminatora językowego z przyczyn technicznych.
 § 79. W przypadkach określonych w:
-1) § 77 kandydat nie przystąpił do egzaminu;
-2) § 78 pkt 1 jeżeli powód przerwania egzaminu językowego został uznany przez egzaminatora językowego za nieusprawiedliwiony, kandydat nie zaliczył egzaminu językowego;
-3) § 78 pkt 1 jeżeli powód przerwania egzaminu językowego został uznany przez egzaminatora językowego za usprawiedliwiony, kandydat powtarza egzamin językowy bez konieczności ponownego wnoszenia opłaty, o której mowa w art. 99 ust. 5 ustawy;
-4) § 78 pkt 2 kandydat powtarza egzamin językowy bez konieczności ponownego wnoszenia opłaty, o której mowa w art. 99 ust. 5 ustawy.
+1) § 77 – kandydat nie przystąpił do egzaminu;
+2) § 78 pkt 1 – jeżeli powód przerwania egzaminu językowego został uznany przez egzaminatora językowego za nieusprawiedliwiony, kandydat nie zaliczył egzaminu językowego;
+3) § 78 pkt 1 – jeżeli powód przerwania egzaminu językowego został uznany przez egzaminatora językowego za usprawiedliwiony, kandydat powtarza egzamin językowy bez konieczności ponownego wnoszenia opłaty, o której mowa w art. 99 ust. 5 ustawy;
+4) § 78 pkt 2 – kandydat powtarza egzamin językowy bez konieczności ponownego wnoszenia opłaty, o której mowa w art. 99 ust. 5 ustawy.
 § 80. 1. Odwołanie od wyniku egzaminu językowego składa się w terminie 14 dni od dnia otrzymania informacji, o której mowa w § 73 ust. 2, przyjmując najpóźniejszą datę otrzymania tej informacji:
 1) w Urzędzie albo
 2) za pośrednictwem operatora pocztowego albo poczty elektronicznej z adresu wskazanego przez kandydata we wniosku o egzamin językowy, albo
@@ -443,12 +458,14 @@ Okres przedłużonej ważności tego uprawnienia jest liczony od dnia upływu po
 2. Od wyniku ponownej oceny egzaminu językowego, o której mowa w ust. 1, nie przysługuje odwołanie.
 3. O wyniku odwołania, o którym mowa w § 80 ust. 1, przewodniczący komisji egzaminacyjnej informuje kandydata, w terminie, o którym mowa w § 80 ust. 4, w formie:
 1) ustnej lub
-2) elektronicznej na podany przez kandydata adres poczty elektronicznej, lub
-3) telefonicznej na podany przez kandydata numer telefonu, lub
-4) listem poleconym za pośrednictwem operatora pocztowego na podany przez kandydata adres.
+2) elektronicznej – na podany przez kandydata adres poczty elektronicznej, lub
+3) telefonicznej – na podany przez kandydata numer telefonu, lub
+4) listem poleconym za pośrednictwem operatora pocztowego – na podany przez kandydata adres.
 § 82. 1. W odniesieniu do personelu lotniczego, o którym mowa w rozporządzeniu w sprawie licencjonowania oraz w rozporządzeniu w sprawie świadectw kwalifikacji, Prezes może uznać pozytywny wynik egzaminu językowego uzyskany w państwie obcym.
 2. Podstawą uznania jest przedłożenie przez kandydata zaświadczenia wydanego przez władzę lotniczą państwa, pod której nadzorem egzamin językowy został przeprowadzony, potwierdzającego, że w procesie egzaminowania zastosowane zostały wymagania określone w pkt 1.2.9 w Załączniku 1.
+§ 83. Przepisy niniejszego rozdziału stosuje się do członków komisji egzaminacyjnej wykonujących czynności na podstawie umowy cywilnoprawnej zawartej z Urzędem.
 § 84. Wynagrodzenie członka komisji egzaminacyjnej jest ustalane na podstawie stawek wynagrodzenia członków komisji egzaminacyjnej za przeprowadzenie egzaminu państwowego określonych w załączniku nr 5 do rozporządzenia oraz stanowi iloczyn stawki wynagrodzenia określonej w tym załączniku i liczby przeprowadzonych egzaminów państwowych, bez względu na ich wynik, lub innych określonych w tym załączniku czynności.
+§ 85. Do egzaminów państwowych rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 86. Upoważnienia egzaminatorów komisji egzaminacyjnej wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność przez okres, na jaki zostały wydane, i stanowią potwierdzenie prawa przeprowadzania egzaminów państwowych stosownie do zakresu danego upoważnienia.
 § 87. Traci moc rozporządzenie Ministra Infrastruktury z dnia 18 lipca 2003 r. w sprawie egzaminów państwowych na licencje lub uprawnienia lotnicze (Dz. U. poz. 1637 oraz z 2013 r. poz. 1465).
 § 88. Rozporządzenie wchodzi w życie po upływie 60 dni od dnia ogłoszenia .
@@ -459,7 +476,7 @@ a) samolotu o maksymalnej masie startowej (MTOM) do 5700 kg z wyłączeniem samo
 b) śmigłowca o maksymalnej masie startowej (MTOM) do 5700 kg z wyłączeniem śmigłowców, o których mowa w pkt 2 ppkt 3 lit. b, albo
 c) wiatrakowca o maksymalnej masie startowej (MTOM) do 5700 kg z wyłączeniem wiatrakowców, o których mowa w pkt 2 ppkt 3 lit. c, albo
 d) sterowca, albo
-e) balonu wolnego lub
+e) balonu wolnego – lub
 2) co najmniej 5 lat praktyki w obsłudze awioniki statku powietrznego, lub
 3) co najmniej 6 lat praktyki w obsłudze jako całości:
 a) samolotu o maksymalnej masie startowej (MTOM) do 5700 kg z wyłączeniem samolotów, o których mowa w pkt 2 ppkt 3 lit. a, albo
@@ -474,10 +491,11 @@ b) śmigłowca o maksymalnej masie startowej (MTOM) do 495 kg, albo
 c) wiatrakowca o masie startowej (MTOM) do 560 kg, albo
 d) lotni, albo
 e) paralotni, albo
+f) motolotni, albo
 g) motoparalotni, albo
 h) bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne i sportowe, albo
 i) spadochronu, albo
-j) szybowca o maksymalnej masie własnej nieprzekraczającej 80 kg dla statku powietrznego jednomiejscowego lub 100 kg dla statku powietrznego dwumiejscowego, w tym szybowca przeznaczonego do startu z nóg pilota lub
+j) szybowca o maksymalnej masie własnej nieprzekraczającej 80 kg dla statku powietrznego jednomiejscowego lub 100 kg dla statku powietrznego dwumiejscowego, w tym szybowca przeznaczonego do startu z nóg pilota – lub
 2) co najmniej 3 lata praktyki w obsłudze awioniki statku powietrznego, lub
 3) co najmniej 5 lat praktyki w obsłudze jako całości:
 a) samolotu o maksymalnej masie startowej (MTOM) do 495 kg albo
@@ -494,24 +512,24 @@ j) szybowca o maksymalnej masie własnej nieprzekraczającej 80 kg dla statku po
 1) ważne uprawnienie uzupełniające w jednostce;
 2) ważne uzupełniające uprawnienie instruktorskie;
 3) praktykę lotniczą jako:
-a) informator służby informacji powietrznej co najmniej 4 lata praktyki,
-b) instruktor co najmniej 3 lata praktyki.
+a) informator służby informacji powietrznej – co najmniej 4 lata praktyki,
+b) instruktor – co najmniej 3 lata praktyki.
 4. Wymagania dla osoby ubiegającej się o powołanie na egzaminatora praktycznego do przeprowadzania egzaminów praktycznych na świadectwo kwalifikacji informatora lotniskowej służby informacji powietrznej i uprawnienia do niego wpisywane (egzaminator praktyczny E(AFIS)) Osoba ubiegająca się o powołanie na egzaminatora praktycznego E(AFIS) do przeprowadzania egzaminów praktycznych w celu wydania lub przywrócenia ważności świadectwa kwalifikacji informatora lotniskowej służby informacji powietrznej (AFISC) oraz wydania, przedłużenia, wznawiania i przywracania ważności uprawnień do niego wpisywanych musi posiadać:
 1) ważne uprawnienie uzupełniające w jednostce;
 2) ważne uzupełniające uprawnienie instruktorskie;
 3) praktykę jako:
-a) informator lotniskowej służby informacji powietrznej co najmniej 4 lata praktyki,
-b) instruktor co najmniej 3 lata praktyki.
+a) informator lotniskowej służby informacji powietrznej – co najmniej 4 lata praktyki,
+b) instruktor – co najmniej 3 lata praktyki.
 5. Wymagania dla osoby ubiegającej się o powołanie na egzaminatora praktycznego do przeprowadzania egzaminów praktycznych na licencję dyspozytora lotniczego (egzaminator praktyczny E(FDL)) Osoba ubiegająca się o powołanie na egzaminatora praktycznego E(FDL) do przeprowadzania egzaminów praktycznych w celu wydania licencji dyspozytora lotniczego musi posiadać:
 1) ważną licencję dyspozytora lotniczego albo
 2) ważną licencję pilota liniowego z uprawnieniem instruktora szkolenia na typ (TRI) lub uprawnieniem instruktora szkolenia ogólnego (FI), albo
 3) ważną licencję kontrolera ruchu lotniczego z uzupełniającym uprawnieniem instruktorskim kontrolera ruchu lotniczego (OJTI), oraz
 4) praktykę lotniczą jako:
-a) dyspozytor lotniczy (FDL) co najmniej 5 lat praktyki lub
-b) pilot z licencją pilota liniowego (ATPL) co najmniej 3 lata praktyki, lub
-c) meteorolog w organizacji przewoźnika lotniczego co najmniej 3 lata praktyki, lub
-d) kontroler ruchu lotniczego (ATCL) co najmniej 3 lata praktyki, lub
-e) inspektor nadzoru technicznego nad dyspozytorami lotniczymi co najmniej 3 lata praktyki.
+a) dyspozytor lotniczy (FDL) – co najmniej 5 lat praktyki lub
+b) pilot z licencją pilota liniowego (ATPL) – co najmniej 3 lata praktyki, lub
+c) meteorolog w organizacji przewoźnika lotniczego – co najmniej 3 lata praktyki, lub
+d) kontroler ruchu lotniczego (ATCL) – co najmniej 3 lata praktyki, lub
+e) inspektor nadzoru technicznego nad dyspozytorami lotniczymi – co najmniej 3 lata praktyki.
 WYMAGANIA DLA OSÓB UBIEGAJĄCYCH SIĘ O POWOŁANIE NA EGZAMINATORA PRAKTYCZNEGO DO PRZEPROWADZANIA EGZAMINÓW PRAKTYCZNYCH NA LICENCJE, ŚWIADECTWA KWALIFIKACJI I UPRAWNIENIA DO NICH WPISYWANE WOBEC CZŁONKÓW PERSONELU LOTNICZEGO WCHODZĄCYCH W SKŁAD ZAŁÓG STATKÓW POWIETRZNYCH
 1. Wymagania dla osoby ubiegającej się o powołanie na egzaminatora praktycznego do przeprowadzania egzaminów praktycznych na licencję pilota wiatrakowcowego w załodze jednoosobowej i uprawnienia do niej wpisywane (egzaminator praktyczny E(AG)) Osoba ubiegająca się o powołanie na egzaminatora praktycznego E(AG) do przeprowadzania egzaminów praktycznych w celu:
 1) wydania licencji pilota wiatrakowcowego turystycznego w załodze jednoosobowej (PPL(AG)) oraz wydania, przedłużenia lub wznowienia ważności uprawnień na typ wiatrakowca w załodze jednoosobowej wpisywanych do tej licencji musi posiadać:
@@ -528,10 +546,11 @@ d) co najmniej 500 godzin nalotu w charakterze instruktora wiatrakowcowego.
 2) uprawnienie instruktora na odpowiedni typ wiatrakowca w załodze wieloosobowej;
 3) co najmniej 2000 godzin nalotu w charakterze pilota wiatrakowca w załodze wieloosobowej, w tym co najmniej 500 godzin nalotu w charakterze pilota dowódcy wiatrakowca w załodze wieloosobowej;
 4) co najmniej 50 godzin nalotu w charakterze instruktora na danym typie wiatrakowca w załodze wieloosobowej.
-3. Wymagania dla osoby ubiegającej się o powołanie na egzaminatora praktycznego do przeprowadzania egzaminów praktycznych na uprawnienia do wykonywania lotów według wskazań przyrządów wiatrakowce w załodze jednoosobowej (egzaminator praktyczny EIR(AG)) Osoba ubiegająca się o powołanie na egzaminatora praktycznego EIR(AG) do przeprowadzania egzaminów praktycznych w celu wydania, przedłużenia lub wznowienia uprawnienia do wykonywania lotów według wskazań przyrządów wiatrakowce (IR(AG)) w załodze jednoosobowej musi posiadać:
+3. Wymagania dla osoby ubiegającej się o powołanie na egzaminatora praktycznego do przeprowadzania egzaminów praktycznych na uprawnienia do wykonywania lotów według wskazań przyrządów – wiatrakowce w załodze jednoosobowej (egzaminator praktyczny EIR(AG)) Osoba ubiegająca się o powołanie na egzaminatora praktycznego EIR(AG) do przeprowadzania egzaminów praktycznych w celu wydania, przedłużenia lub wznowienia uprawnienia do wykonywania lotów według wskazań przyrządów – wiatrakowce (IR(AG)) w załodze jednoosobowej musi posiadać:
 1) uprawnienie instruktora szkolenia w lotach według wskazań przyrządów w załodze jednoosobowej;
 2) co najmniej 2000 godzin nalotu w charakterze pilota wiatrakowca;
-3) co najmniej 450 godzin nalotu według wskazań przyrządów (IFR), w tym co najmniej 250 godzin nalotu instruktor4. Wymagania dla osoby ubiegającej się o powołanie na egzaminatora praktycznego do przeprowadzania egzaminów praktycznych na uprawnienia instruktora wiatrakowcowego w załodze jednoosobowej (egzaminator praktyczny EI(AG)) Osoba ubiegająca się o powołanie na egzaminatora praktycznego EI(AG) do przeprowadzania egzaminów praktycznych w celu wydania, przedłużenia lub wznowienia ważności uprawnień instruktora szkolenia ogólnego na wiatrakowce (FI(AG)), instruktora szkolenia w lotach według wskazań przyrządów na wiatrakowce (IRI(AG)) oraz ważności uprawnienia instruktora szkolenia na typ wiatrakowca (TRI(AG)) na wiatrakowce w załodze jednoosobowej musi posiadać:
+3) co najmniej 450 godzin nalotu według wskazań przyrządów (IFR), w tym co najmniej 250 godzin nalotu instruktorskiego w lotach według wskazań przyrządów (IFR).
+4. Wymagania dla osoby ubiegającej się o powołanie na egzaminatora praktycznego do przeprowadzania egzaminów praktycznych na uprawnienia instruktora wiatrakowcowego w załodze jednoosobowej (egzaminator praktyczny EI(AG)) Osoba ubiegająca się o powołanie na egzaminatora praktycznego EI(AG) do przeprowadzania egzaminów praktycznych w celu wydania, przedłużenia lub wznowienia ważności uprawnień instruktora szkolenia ogólnego na wiatrakowce (FI(AG)), instruktora szkolenia w lotach według wskazań przyrządów na wiatrakowce (IRI(AG)) oraz ważności uprawnienia instruktora szkolenia na typ wiatrakowca (TRI(AG)) na wiatrakowce w załodze jednoosobowej musi posiadać:
 1) kwalifikacje do wykonywania czynności pilota dowódcy wiatrakowca;
 2) ważne uprawnienie instruktora klasy 1;
 3) co najmniej 2000 godzin nalotu w charakterze pilota wiatrakowcowego;
@@ -624,7 +643,8 @@ c) co najmniej 250 godzin nalotu instruktorskiego;
 a) posiadać świadectwo kwalifikacji pilota wiatrakowcowego statku powietrznego o maksymalnej masie startowej (MTOM) do 560 kg (UAGP) z ważnym uprawnieniem instruktora (INS),
 b) posiadać co najmniej 1000 godzin nalotu ogólnego w charakterze pilota dowódcy pilota wiatrakowca,
 c) udokumentować co najmniej 5 lat praktyki instruktorskiej potwierdzonej przez organizację szkolenia lotniczego lub podmiot szkolący,
-d) posiadać co najmniej 40 godzin nalotu instruktorskiego w ramach szkolenia kandydatów do uprawnień instruktora EGZAMINY TEORETYCZNE, O KTÓRYCH MOWA W § 22 UST. 3 I 4 I. EGZAMIN TEORETYCZNY NA LICENCJE, ŚWIADECTWA KWALIFIKACJI ORAZ UPRAWNIENIA DO NICH WPISYWANE
+d) posiadać co najmniej 40 godzin nalotu instruktorskiego w ramach szkolenia kandydatów do uprawnień instruktora (INS).
+EGZAMINY TEORETYCZNE, O KTÓRYCH MOWA W § 22 UST. 3 I 4 I. EGZAMIN TEORETYCZNY NA LICENCJE, ŚWIADECTWA KWALIFIKACJI ORAZ UPRAWNIENIA DO NICH WPISYWANE
 1. Pytania testowe obejmują wszystkie zagadnienia właściwe dla licencji, świadectw kwalifikacji lub uprawnień do nich wpisywanych.
 2. Wszystkie możliwe odpowiedzi są wyraźnie związane z pytaniem oraz cechują się podobnym słownictwem, budową gramatyczną i długością. Odpowiedzi nieprawidłowe wydają się równie prawdopodobne dla osoby niemającej wiedzy w danej dziedzinie.
 3. W pytaniach liczbowych nieprawidłowe odpowiedzi odpowiadają błędom proceduralnym takim jak np. zastosowanie nieprawidłowego oznaczenia („+” lub „–”) lub nieprawidłowych jednostek miary. Wartości liczbowe użyte w nieprawidłowych odpowiedziach nie mogą być przypadkowe.
@@ -639,17 +659,19 @@ II. EGZAMIN TEORETYCZNY NA UPRAWNIENIE NA TYP STATKU POWIETRZNEGO W ZAKRESIE LIC
 5. Całkowity czas egzaminu ustala się odpowiednio do łącznej liczby pytań testowych oraz opisowych.
 6. Łączna liczba pytań testowych oraz opisowych jest zależna od złożoności konstrukcji typu statku powietrznego oraz od kategorii licencji na obsługę techniczną statku powietrznego, której dotyczy egzamin teoretyczny, jednak nie może być mniejsza niż:
 1) 28 pytań w kategorii B1 licencji na obsługę techniczną statku powietrznego (AML), na które składają się pytania:
-a) 1 opisowe i 10 testowych dotyczące płatowca i jego instalacji,
-b) 1 opisowe i 5 testowych dotyczące zespołu napędowego,
-c) 1 opisowe i 5 testowych dotyczące układów elektrycznych,
-d) 5 testowych dotyczących wyposażenia awionicznego;
+a) 1 opisowe i 10 testowych – dotyczące płatowca i jego instalacji,
+b) 1 opisowe i 5 testowych – dotyczące zespołu napędowego,
+c) 1 opisowe i 5 testowych – dotyczące układów elektrycznych,
+d) 5 testowych – dotyczących wyposażenia awionicznego;
 2) 22 pytania w kategorii B2 licencji na obsługę techniczną statku powietrznego (AML), na które składają się pytania:
-a) 1 opisowe i 10 testowych dotyczące układów elektrycznych,
-b) 1 opisowe i 10 testowych dotyczące wyposażenia awionicznego;
+a) 1 opisowe i 10 testowych – dotyczące układów elektrycznych,
+b) 1 opisowe i 10 testowych – dotyczące wyposażenia awionicznego;
 3) 24 pytania w kategorii C licencji na obsługę techniczną statku powietrznego (AML), na które składają się pytania:
-a) 1 opisowe i 5 testowych dotyczące płatowca i jego instalacji,
-b) 1 opisowe i 5 testowych dotyczące zespołu napędowego,
-c) 1 opisowe i 5 testowych dotyczące układów elektrycznych, III. EGZAMIN TEORETYCZNY NA UPRAWNIENIE NA TYP STATKU POWIETRZNEGO W ZAKRESIE LICENCJI MECHANIKA LOTNICZEGO OBSŁUGI TECHNICZNEJ (MML)
+a) 1 opisowe i 5 testowych – dotyczące płatowca i jego instalacji,
+b) 1 opisowe i 5 testowych – dotyczące zespołu napędowego,
+c) 1 opisowe i 5 testowych – dotyczące układów elektrycznych,
+d) 1 opisowe i 5 testowych – dotyczące wyposażenia awionicznego.
+III. EGZAMIN TEORETYCZNY NA UPRAWNIENIE NA TYP STATKU POWIETRZNEGO W ZAKRESIE LICENCJI MECHANIKA LOTNICZEGO OBSŁUGI TECHNICZNEJ (MML)
 1. Egzamin teoretyczny składa się z pytań testowych oraz opisowych.
 2. W odniesieniu do pytań testowych stosuje się zasady, o których mowa w części I pkt 1–4.
 3. Podczas egzaminu teoretycznego dopuszczalne jest korzystanie przez kandydata z dokumentacji technicznej statku powietrznego, jeżeli konieczna jest weryfikacja jego umiejętności w zakresie interpretacji dokumentów technicznych.
@@ -657,38 +679,38 @@ c) 1 opisowe i 5 testowych dotyczące układów elektrycznych, III. EGZAMIN TEOR
 5. Całkowity czas egzaminu ustala się odpowiednio do łącznej liczby pytań testowych oraz opisowych.
 6. Łączna liczba pytań testowych oraz opisowych jest zależna od złożoności konstrukcji typu statku powietrznego oraz od uprawnienia wpisywanego do licencji mechanika lotniczego obsługi technicznej, którego dotyczy egzamin teoretyczny, jednak nie może być mniejsza niż:
 1) 23 pytania w zakresie uprawnienia dotyczącego płatowca, zespołu napędowego i systemów elektrycznych samolotu o maksymalnej masie startowej (MTOM) do 5700 kg (AFPP(A)R), uprawnienia dotyczącego płatowca, zespołu napędowego i systemów elektrycznych śmigłowca o maksymalnej masie startowej (MTOM) do 5700 kg (AFPP(H)R), uprawnienia dotyczącego płatowca, zespołu napędowego i systemów elektrycznych wiatrakowca o maksymalnej masie startowej (MTOM) do 5700 kg (AFPP(AG)R), wpisywanego do licencji mechanika lotniczego obsługi technicznej (MML), na które składają się pytania:
-a) 1 opisowe i 10 testowych dotyczące płatowca i jego instalacji,
-b) 1 opisowe i 5 testowych dotyczące zespołu napędowego,
-c) 1 opisowe i 5 testowych dotyczące układów elektrycznych;
+a) 1 opisowe i 10 testowych – dotyczące płatowca i jego instalacji,
+b) 1 opisowe i 5 testowych – dotyczące zespołu napędowego,
+c) 1 opisowe i 5 testowych – dotyczące układów elektrycznych;
 2) 22 pytania w zakresie uprawnienia dotyczącego awioniki i systemów elektrycznych statku powietrznego o maksymalnej masie startowej (MTOM) poniżej 5700 kg (AV(A)), wpisywanego do licencji mechanika lotniczego obsługi technicznej (MML), na które składają się pytania:
-a) 1 opisowe i 10 testowych dotyczące układów elektrycznych,
-b) 1 opisowe i 10 testowych dotyczące wyposażenia awionicznego;
+a) 1 opisowe i 10 testowych – dotyczące układów elektrycznych,
+b) 1 opisowe i 10 testowych – dotyczące wyposażenia awionicznego;
 3) 39 pytań w zakresie uprawnienia dotyczącego samolotu o masie startowej poniżej 5700 kg, jako całości (TM(A)R), uprawnienia dotyczącego śmigłowca o maksymalnej masie startowej (MTOM) poniżej 5700 kg, jako całości (TM(H)R), uprawnienia dotyczącego wiatrakowca o masie startowej poniżej 5700 kg, jako całości (TM(AG)R), uprawnienia dotyczącego sterowca o maksymalnej masie startowej (MTOM) poniżej 5700 kg, jako całości (TM(AS)R), uprawnienia dotyczącego balonu wolnego o masie startowej poniżej 5700 kg, jako całości (TM(FB)R), uprawnienia dotyczącego szybowca o masie startowej poniżej 5700 kg, jako całości (TM(G)R), uprawnienia dotyczącego motoszybowca o masie startowej poniżej 5700 kg, jako całości (TM(MG)R), wpisywanego do licencji mechanika lotniczego obsługi technicznej (MML), na które składają się pytania:
-a) 1 opisowe i 10 testowych dotyczące płatowca i jego instalacji,
-b) 1 opisowe i 5 testowych dotyczące zespołu napędowego,
-c) 1 opisowe i 10 testowych dotyczące układów elektrycznych,
-d) 1 opisowe i 10 testowych dotyczące wyposażenia awionicznego.
-STAWKI WYNAGRODZENIA CZŁONKÓW KOMISJI EGZAMINACYJNEJ ZA PRZEPROWADZENIE EGZAMINU PAŃSTWOWEGO Tabela nr 1. Stawki wynagrodzenia dotyczące egzaminów teoretycznych i egzaminów językowych Lp. Rodzaj egzaminu Kwota w zł (brutto) 1 Egzamin na licencję lub świadectwo kwalifikacji z obowiązkowo wpisywanym co najmniej jednym podstawowym uprawnieniem lotniczym, jeżeli jest wymagane, 30 przeprowadzany w siedzibie Urzędu za każdy przedmiot 2 Egzamin na każde dodatkowe uprawnienie wpisywane do licencji lub świadectwa kwalifikacji przeprowadzany w siedzibie Urzędu za każdy przedmiot 30 3 Egzamin ze wszystkich przedmiotów na świadectwo kwalifikacji przeprowadzany przez 50 egzaminatora poza Urzędem za każdą przeegzaminowaną osobę 4 Egzamin ze wszystkich przedmiotów na każde dodatkowe uprawnienie wpisywane do licencji lub świadectwa kwalifikacji przeprowadzany poza Urzędem za każdą przeegzaminowaną osobę 75 5 Egzamin ze znajomości języka polskiego lub języka angielskiego według wymagań ICAO 100 6 Egzamin ze znajomości języka polskiego lub języka angielskiego w zakresie frazeologii 20 lotniczej do licencji 7 Egzamin cząstkowy na uznanie licencji lub świadectwa kwalifikacji albo egzamin wskazany w decyzji administracyjnej o zawieszeniu lub ograniczeniu licencji lub 50 świadectwa kwalifikacji za każdy przedmiot 8 Analiza i rozpatrywanie odwołania od wyniku egzaminu teoretycznego każdy członek komisji egzaminacyjnej biorący udział przy analizie i rozpatrywaniu tego odwołania 50 9 Analiza i rozpatrywanie odwołania od wyniku egzaminu językowego 150 10 Egzamin ze znajomości języka polskiego lub języka angielskiego według wymagań ICAO w przypadku sprawowania funkcji egzaminatora językowego (prowadzącego) w ramach 180 Krajowego Systemu Egzaminów Językowych (KSEJ) Tabela nr 2. Stawki wynagrodzenia dotyczące egzaminów praktycznych Lp. Rodzaj egzaminu Kwota w zł (brutto) Egzamin na licencję z obowiązkowo wpisywanym co najmniej jednym uprawnieniem w zakresie licencji, jeżeli jest wymagane: 1 pilota liniowego: samolotowego lub śmigłowcowego 1000 2 pilota liniowego: sterowcowego lub pionowzlotu 600 3 pilota zawodowego: samolotowego, śmigłowcowego, sterowcowego, wiatrakowcowego 600 lub pionowzlotu, mechanika pokładowego 4 nawigatora lotniczego, radiooperatora pokładowego 200 5 pilota samolotu w załodze wieloosobowej MPL 600 6 pilota turystycznego: samolotowego, śmigłowcowego, sterowcowego, wiatrakowcowego 400 lub pionowzlotu 7 pilota szybowcowego 100 8 pilota balonowego 250 9 pilota lekkich statków powietrznych samolotowego LAPL(A), śmigłowcowego LAPL(H) 400 10 pilota lekkich statków powietrznych balonowego LAPL(B) 250 11 pilota lekkich statków powietrznych szybowcowego LAPL(S) 100 12 mechanika lotniczego obsługi technicznej 250 13 dyspozytora lotniczego 300 Egzamin na dodatkowe uprawnienia wpisywane do licencji: 1 uprawnienie instruktora wpisywane do licencji pilota (egzamin podczas lotu) 300 2 uprawnienie instruktora (egzamin na ziemi, symulatorze) 200 3 dodatkowe uprawnienia wpisywane do licencji pilota, mechanika pokładowego 300 4 uprawnienie na motoszybowiec TMG 200 5 uprawnienie na klasę balonu wolnego 200 6 uprawnienia wpisywane do licencji mechanika lotniczego obsługi technicznej 200 7 rozszerzanie uprawnień lotniczych, na które wymagany jest egzamin praktyczny 200 Egzamin na świadectwo kwalifikacji z obowiązkowo wpisywanym co najmniej jednym uprawnieniem w zakresie świadectwa kwalifikacji: 1 pilota lotni, pilota motolotni, pilota statku powietrznego o maksymalnej masie startowej (MTOM) do 495 kg, pilota wiatrakowcowego o maksymalnej masie startowej (MTOM) do 560 kg, informatora służby informacji powietrznej lub informatora lotniskowej służby informacji powietrznej 50 2 pilota paralotni lub skoczka spadochronowego 30 3 pilota operatora bezzałogowego statku powietrznego używanego w celach innych niż 50 rekreacyjne lub sportowe lub mechanika poświadczenia obsługi statku powietrznego Egzamin na dodatkowe uprawnienia wpisywane do świadectw kwalifikacji: 1 uprawnienie instruktora 70 2 uprawnienia dodatkowe wpisywane do świadectwa kwalifikacji 50 3 (uchylona) 4 (uchylona) Tabela nr 3. Stawki wynagrodzenia dotyczące czynności egzaminacyjnych niewymienionych w tabelach nr 1 i 2 Lp. Rodzaj czynności Kwota w zł (brutto) 1 Przeprowadzenie oceny kompetencji, nadzoru nad egzaminem jak za właściwy egzamin 2 Analiza i rozpatrywanie odwołania od wyniku egzaminu praktycznego 200 3 Przeprowadzenie kontroli umiejętności w celu przedłużenia lub wznowienia ważności 100 uprawnienia wpisanego do licencji za każde przedłużane lub wznawiane uprawnienie Przeprowadzenie kontroli umiejętności w celu przedłużenia lub wznowienia ważności 4 uprawnienia wpisanego do świadectwa kwalifikacji za każde przedłużane lub wznawiane 50 uprawnienie
+a) 1 opisowe i 10 testowych – dotyczące płatowca i jego instalacji,
+b) 1 opisowe i 5 testowych – dotyczące zespołu napędowego,
+c) 1 opisowe i 10 testowych – dotyczące układów elektrycznych,
+d) 1 opisowe i 10 testowych – dotyczące wyposażenia awionicznego.
+STAWKI WYNAGRODZENIA CZŁONKÓW KOMISJI EGZAMINACYJNEJ ZA PRZEPROWADZENIE EGZAMINU PAŃSTWOWEGO Tabela nr 1. Stawki wynagrodzenia dotyczące egzaminów teoretycznych i egzaminów językowych Lp. Rodzaj egzaminu Kwota w zł (brutto) 1 Egzamin na licencję lub świadectwo kwalifikacji z obowiązkowo wpisywanym co najmniej jednym podstawowym uprawnieniem lotniczym, jeżeli jest wymagane, 30 przeprowadzany w siedzibie Urzędu – za każdy przedmiot 2 Egzamin na każde dodatkowe uprawnienie wpisywane do licencji lub świadectwa 30 kwalifikacji przeprowadzany w siedzibie Urzędu – za każdy przedmiot 3 Egzamin ze wszystkich przedmiotów na świadectwo kwalifikacji przeprowadzany przez 50 egzaminatora poza Urzędem – za każdą przeegzaminowaną osobę 4 Egzamin ze wszystkich przedmiotów na każde dodatkowe uprawnienie wpisywane do licencji lub świadectwa kwalifikacji przeprowadzany poza Urzędem – za każdą 75 przeegzaminowaną osobę 5 Egzamin ze znajomości języka polskiego lub języka angielskiego według wymagań ICAO 100 6 Egzamin ze znajomości języka polskiego lub języka angielskiego w zakresie frazeologii 20 lotniczej do licencji 7 Egzamin cząstkowy na uznanie licencji lub świadectwa kwalifikacji albo egzamin wskazany w decyzji administracyjnej o zawieszeniu lub ograniczeniu licencji lub 50 świadectwa kwalifikacji – za każdy przedmiot 8 Analiza i rozpatrywanie odwołania od wyniku egzaminu teoretycznego – każdy członek 50 komisji egzaminacyjnej biorący udział przy analizie i rozpatrywaniu tego odwołania 9 Analiza i rozpatrywanie odwołania od wyniku egzaminu językowego 150 10 Egzamin ze znajomości języka polskiego lub języka angielskiego według wymagań ICAO w przypadku sprawowania funkcji egzaminatora językowego (prowadzącego) w ramach 180 Krajowego Systemu Egzaminów Językowych (KSEJ) Tabela nr 2. Stawki wynagrodzenia dotyczące egzaminów praktycznych Lp. Rodzaj egzaminu Kwota w zł (brutto) Egzamin na licencję z obowiązkowo wpisywanym co najmniej jednym uprawnieniem w zakresie licencji, jeżeli jest wymagane: 1 pilota liniowego: samolotowego lub śmigłowcowego 1000 2 pilota liniowego: sterowcowego lub pionowzlotu 600 3 pilota zawodowego: samolotowego, śmigłowcowego, sterowcowego, wiatrakowcowego 600 lub pionowzlotu, mechanika pokładowego 4 nawigatora lotniczego, radiooperatora pokładowego 200 5 pilota samolotu w załodze wieloosobowej MPL 600 6 pilota turystycznego: samolotowego, śmigłowcowego, sterowcowego, wiatrakowcowego 400 lub pionowzlotu 7 pilota szybowcowego 100 8 pilota balonowego 250 9 pilota lekkich statków powietrznych samolotowego LAPL(A), śmigłowcowego LAPL(H) 400 10 pilota lekkich statków powietrznych balonowego LAPL(B) 250 11 pilota lekkich statków powietrznych szybowcowego LAPL(S) 100 12 mechanika lotniczego obsługi technicznej 250 13 dyspozytora lotniczego 300 Egzamin na dodatkowe uprawnienia wpisywane do licencji: 1 uprawnienie instruktora wpisywane do licencji pilota (egzamin podczas lotu) 300 2 uprawnienie instruktora (egzamin na ziemi, symulatorze) 200 3 dodatkowe uprawnienia wpisywane do licencji pilota, mechanika pokładowego 300 4 uprawnienie na motoszybowiec TMG 200 5 uprawnienie na klasę balonu wolnego 200 6 uprawnienia wpisywane do licencji mechanika lotniczego obsługi technicznej 200 7 rozszerzanie uprawnień lotniczych, na które wymagany jest egzamin praktyczny 200 Egzamin na świadectwo kwalifikacji z obowiązkowo wpisywanym co najmniej jednym uprawnieniem w zakresie świadectwa kwalifikacji: 1 pilota lotni, pilota motolotni, pilota statku powietrznego o maksymalnej masie startowej (MTOM) do 495 kg, pilota wiatrakowcowego o maksymalnej masie startowej (MTOM) 50 do 560 kg, informatora służby informacji powietrznej lub informatora lotniskowej służby informacji powietrznej 2 pilota paralotni lub skoczka spadochronowego 30 3 pilota – operatora bezzałogowego statku powietrznego używanego w celach innych niż 50 rekreacyjne lub sportowe lub mechanika poświadczenia obsługi statku powietrznego Egzamin na dodatkowe uprawnienia wpisywane do świadectw kwalifikacji: 1 uprawnienie instruktora 70 2 uprawnienia dodatkowe wpisywane do świadectwa kwalifikacji 50 3 (uchylona) 4 (uchylona) Tabela nr 3. Stawki wynagrodzenia dotyczące czynności egzaminacyjnych niewymienionych w tabelach nr 1 i 2 Lp. Rodzaj czynności Kwota w zł (brutto) 1 Przeprowadzenie oceny kompetencji, nadzoru nad egzaminem jak za właściwy egzamin 2 Analiza i rozpatrywanie odwołania od wyniku egzaminu praktycznego 200 3 Przeprowadzenie kontroli umiejętności w celu przedłużenia lub wznowienia ważności 100 uprawnienia wpisanego do licencji – za każde przedłużane lub wznawiane uprawnienie Przeprowadzenie kontroli umiejętności w celu przedłużenia lub wznowienia ważności 4 uprawnienia wpisanego do świadectwa kwalifikacji – za każde przedłużane lub wznawiane 50 uprawnienie
 
-#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
+#### Rozdział 1 Przepisy ogólne
 
 #### Rozdział 2 Szczegółowe wymagania w zakresie kwalifikacji, wiedzy i doświadczenia członków komisji egzaminacyjnej
 
-##### Oddział 1 Egzaminatorzy teoretyczni i egzaminatorzy praktyczni § 3. O powołanie na egzaminatora teoretycznego, z zastrzeżeniem § 5, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego, może ubiegać się osoba, która łącznie spełnia następujące wymagania:
+##### Oddział 1 Egzaminatorzy teoretyczni i egzaminatorzy praktyczni
 
-##### Oddział 2 Przepisy szczególne dla egzaminatorów językowych § 14. O powołanie na egzaminatora językowego w zakresie języka angielskiego może ubiegać się osoba, która łącznie spełnia następujące wymagania:
+##### Oddział 2 Przepisy szczególne dla egzaminatorów językowych
 
 #### Rozdział 3 Tryb i sposób przeprowadzania egzaminów państwowych
 
-##### Oddział 1 Egzaminy teoretyczne § 19. 1. Egzaminy teoretyczne na:
+##### Oddział 1 Egzaminy teoretyczne
 
-##### Oddział 2 Przepisy szczególne dla egzaminów teoretycznych dla osoby ubiegającej się o świadectwo operatora urządzeń radiowych w służbie radiokomunikacyjnej lotniczej § 38. Egzamin teoretyczny jest przeprowadzany w formie testu wyboru.
+##### Oddział 2 Przepisy szczególne dla egzaminów teoretycznych dla osoby ubiegającej się o świadectwo operatora urządzeń radiowych w służbie radiokomunikacyjnej lotniczej
 
-##### Oddział 3 Egzaminy praktyczne § 41. 1. Egzaminy praktyczne na licencje i uprawnienia do nich wpisywane, o których mowa w rozporządzeniu nr 1178/2011, przeprowadza się na warunkach określonych w rozporządzeniu nr 1178/2011.
+##### Oddział 3 Egzaminy praktyczne
 
-##### Oddział 4 Przepisy szczególne dla egzaminów językowych § 68. 1. Egzaminy językowe w zakresie poziomu biegłości językowej oraz umiejętności posługiwania się językiem używanym w łączności radiowej podczas lotu przeprowadza się na podstawie wymagań określonych w pkt 1.2.9 w Załączniku 1, z uwzględnieniem przepisów prawa Unii Europejskiej w zakresie personelu lotniczego.
+##### Oddział 4 Przepisy szczególne dla egzaminów językowych
 
-#### Rozdział 4 Szczegółowe zasady wynagradzania członków komisji egzaminacyjnej § 83. Przepisy niniejszego rozdziału stosuje się do członków komisji egzaminacyjnej wykonujących czynności na podstawie umowy cywilnoprawnej zawartej z Urzędem.
+#### Rozdział 4 Szczegółowe zasady wynagradzania członków komisji egzaminacyjnej
 
-#### Rozdział 5 Przepisy przejściowe i końcowe § 85. Do egzaminów państwowych rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+#### Rozdział 5 Przepisy przejściowe i końcowe
 

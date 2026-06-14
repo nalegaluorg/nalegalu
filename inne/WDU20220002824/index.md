@@ -8,10 +8,10 @@ pos: 2824
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2824 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 27 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002824) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2824/text.pdf) |
 
-Poz. 2824 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 27 grudnia 2022 r.
-w sprawie sposobu pobierania próbki wodoru przez akredytowane laboratorium Na podstawie art. 25c ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2022 r. poz. 1315, 1576, 1967, 2411 i 2687) zarządza się, co następuje: § 1. Pobieranie próbki wodoru przeprowadza się w sposób zgodny z aktualnym poziomem wiedzy i najlepszą praktyką, w szczególności jak przedstawiono w normach ISO 19880-1 i ISO 21087.
+w sprawie sposobu pobierania próbki wodoru przez akredytowane laboratorium Na podstawie art. 25c ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2022 r. poz. 1315, 1576, 1967, 2411 i 2687) zarządza się, co następuje:
+§ 1. Pobieranie próbki wodoru przeprowadza się w sposób zgodny z aktualnym poziomem wiedzy i najlepszą praktyką, w szczególności jak przedstawiono w normach ISO 19880-1 i ISO 21087.
 § 2. Próbkę wodoru pracownik akredytowanego laboratorium pobiera do pojemnika, w którym przechowuje się ją do czasu przeprowadzenia badania jakości wodoru.
 § 3. 1. Warunki bezpieczeństwa w miejscu pobierania próbki wodoru związane z użytkowaniem pojemnika, w którym się ją przechowuje, oraz podczas transportu tej próbki, rodzaj aparatury oraz pojemnika stosowanych do pobierania próbki wodoru, a także przygotowanie tego pojemnika zapewnia się w sposób zgodny z aktualnym poziomem wiedzy i najlepszą praktyką, w szczególności jak przedstawiono w normach ISO 19880-1 i ISO 21087.
 2. Pojemnik stosowany do pobierania i przechowywania próbki wodoru:
@@ -36,7 +36,6 @@ w sprawie sposobu pobierania próbki wodoru przez akredytowane laboratorium Na p
 4) jest wykonany zgodnie z aktualnym poziomem wiedzy i najlepszą praktyką.
 3. Przed przystąpieniem do pobierania próbki wodoru zapewnia się, aby pojemnik stosowany do jej pobrania był czysty, w celu wyeliminowania ryzyka zanieczyszczenia tej próbki. Czyszczenie pojemnika odbywa się zgodnie z aktualnym poziomem wiedzy i najlepszą praktyką, w szczególności jak przedstawiono w normie ISO 21087.
 § 4. 1. Przed przystąpieniem do pobierania próbki wodoru miejsce pobierania tej próbki zabezpiecza się w sposób uniemożliwiający dostęp do aparatury oraz pojemnika stosowanych do pobierania próbki wodoru osobom innym niż przedsiębiorca wytwarzający wodór albo jego przedstawiciel i pracownik akredytowanego laboratorium.
-Dziennik Ustaw – 2 – Poz. 2824
 2. W miejscu pobierania próbki wodoru:
 1) nie używa się otwartego ognia oraz innych czynników mogących zainicjować pożar;
 2) nie używa się urządzeń elektronicznych;

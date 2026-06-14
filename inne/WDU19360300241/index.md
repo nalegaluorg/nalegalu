@@ -8,10 +8,12 @@ pos: 241
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o stosunku Państwa do Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej.
+# o stosunku Państwa do Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej.
+
+*USTAWA z dnia 21 kwietnia 1936 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,120 +27,141 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360300241) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1936/241/text.pdf) |
 
-**Art. 1.** Karaimski Związek Religijny Rzeczypospolitej Polskiej, posiadający własny ustrój własny zarząd wewnętrzny, jest samodzielny niezależny od jakichkolwiek obcokrajowych władz duchownych lub świeckich.
+**Art. 1.** Karaimski Związek Religijny w Rzeczypospolitej Polskiej, posiadający własny ustrój i własny zarząd wewnętrzny, jest samodzielny i niezależny od jakichkolwiek obcokrajowych władz duchownych lub świeckich.
 
-**Art. 2.** Karaimski Związek Religijny Rzeczypospolitej Polskiej korzysta swem życiu wewnętrznem z pełnej wolności rządzenia się, ramach praw obowiązujących, przepisami swego Statutu (Ustawy Wewnętrznej), uznanego przez Państwo drodze rozporządzenia Rady Ministrów. Statut Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej stanowi wraz z ustawą niniejszą podstawę prawną organizacji tego Związku.
+**Art. 2.** Karaimski Związek Religijny w Rzeczypospolitej Polskiej korzysta w swem życiu wewnętrznem z pełnej wolności rządzenia się, w ramach praw obowiązujących, przepisami swego Statutu (Ustawy Wewnętrznej), uznanego przez Państwo w drodze rozporządzenia Rady Ministrów. Statut Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej stanowi wraz z ustawą niniejszą podstawę prawną organizacji tego Związku.
 
 **Art. 3.**
 
-1. Zwierzchnią władzą Karaimskiego Związku Religijnego jest Hachan Karaimski Rzeczypospolitej Polskiej, który sprawuje naczelny zarząd spraw wyznania, nadzór nad całem duchowieństwem karaimskiem pieczę nad potrzebami religijnemi Karaimów Rzeczypospolitej Polskiej.
+1. Zwierzchnią władzą Karaimskiego Związku Religijnego jest Hachan Karaimski w Rzeczypospolitej Polskiej, który sprawuje naczelny zarząd spraw wyznania, nadzór nad całem duchowieństwem karaimskiem i pieczę nad potrzebami religijnemi Karaimów w Rzeczypospolitej Polskiej.
 
 2. Stanowisko Hachana jest dożywotnie. Siedzibą Hachana jest m. Wilno.
 
-**Art. 4.** Hachan stoi na czele Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej reprezentuje go wobec władz państwowych, wobec kościołów innych związków religijnych na obszarze Rzeczypospolitej Polskiej, tudzież wobec karaimskich związków religijnych zagranicznych, z któremi porozumiewa się bezpośrednio sprawach religijnych.
+**Art. 4.** Hachan stoi na czele Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej i reprezentuje go wobec władz państwowych, wobec kościołów i innych związków religijnych na obszarze Rzeczypospolitej Polskiej, tudzież wobec karaimskich związków religijnych zagranicznych, z któremi porozumiewa się bezpośrednio w sprawach religijnych.
 
-**Art. 5.** W razie zawakowania stanowiska Hachana lub niemożności bezpośredniego sprawowania przezeń swych obowiązków, zastępuje go we wszystkich jego uprawnieniach Hazzan, któremu Hachan nadał godność UłłuHazzana, a razie braku Ułłu-Hazzana lub niemożności pełnienia przezeń funkcyj – Hazzan m. Nowe Troki.
+**Art. 5.** W razie zawakowania stanowiska Hachana lub niemożności bezpośredniego sprawowania przezeń swych obowiązków, zastępuje go we wszystkich jego uprawnieniach Hazzan, któremu Hachan nadał godność UłłuHazzana, a w razie braku Ułłu-Hazzana lub niemożności pełnienia przezeń funkcyj – Hazzan m. Nowe Troki.
 
-**Art. 6.** Wybór Hachana jest dokonywany na Zjeździe m. Nowe Troki obecności przedstawiciela Ministra Wyznań Religijnych Oświecenia Publicznego pośrednictwem właściwego wojewody przedstawia najdalej ciągu trzydziestu dni Ministrowi Wyznań Religijnych Oświecenia Publicznego spis kandydatów celem uzyskania zgody. Jeżeli skutkiem braku zgody na poszczególnych kandydatów spisie pozostanie mniej, niż dwa nazwiska, zastępca Hachana ponownie przedstawia najdalej ciągu następnych czternastu dni nowego, względnie nowych kandydatów tak, by spis obejmował zawsze co najmniej dwóch kandydatów. 2. Po otrzymaniu zawiadomienia od Ministra Wyznań Religijnych Oświecenia Publicznego o zgodzie na kandydatów, zastępca Hachana sporządza ich listę oraz, ustaliwszy porozumieniu z właściwym wojewodą terminy daty czynności wyborczych, zarządza wybór Hachana.
+**Art. 6.** Wybór Hachana jest dokonywany na Zjeździe w m. Nowe Troki w obecności przedstawiciela Ministra Wyznań Religijnych i Oświecenia Publicznego przez wszystkich urzędujących Hazzanów i delegatów karaimskich gmin wyznaniowych, po jednym z każdej gminy.
+
+**Art. 7.**
+
+1. W razie opróżnienia stanowiska Hachana, zastępca Hachana za pośrednictwem właściwego wojewody przedstawia najdalej w ciągu trzydziestu dni Ministrowi Wyznań Religijnych i Oświecenia Publicznego spis kandydatów celem uzyskania zgody. Jeżeli skutkiem braku zgody na poszczególnych kandydatów w spisie pozostanie mniej, niż dwa nazwiska, zastępca Hachana ponownie przedstawia najdalej w ciągu następnych czternastu dni nowego, względnie nowych kandydatów tak, by spis obejmował zawsze co najmniej dwóch kandydatów.
+
+2. Po otrzymaniu zawiadomienia od Ministra Wyznań Religijnych i Oświecenia Publicznego o zgodzie na kandydatów, zastępca Hachana sporządza ich listę oraz, ustaliwszy w porozumieniu z właściwym wojewodą terminy i daty czynności wyborczych, zarządza wybór Hachana.
 
 **Art. 8.**
 
-1. Po ukończeniu wyborów zostaje spisany protokół, którym:
+1. Po ukończeniu wyborów zostaje spisany protokół, w którym:
 
 - **1)** stwierdza się prawidłowe ukonstytuowanie się Zjazdu z podaniem ilości uczestników, uprawnionych do głosowania,
 - **2)** stwierdza się, wymieniając liczbę głosów oddanych na poszczególnych kandydatów, który z kandydatów został obrany na Hachana,
 - **3)** stwierdza się, że wybrany kandydat wybór przyjął,
 - **4)** zostaje stwierdzona przez Zjazd prawidłowość dokonanego aktu wyborczego.
 
-2. Protokół Zjazdu dwóch jednobrzmiących egzemplarzach podpisuje zastępca Hachana, sekretarz oraz co najmniej trzech członków Zjazdu.
+2. Protokół Zjazdu w dwóch jednobrzmiących egzemplarzach podpisuje zastępca Hachana, sekretarz oraz co najmniej trzech członków Zjazdu.
 
-3. Jeden egzemplarz tego protokółu załącza się do Sekretarjatu Hachana, drugi egzemplarz zastępca Hachana przedstawia wraz z aktami wyborczemi Wojewodzie Wileńskiemu, który przedkłada je ze swą opinją Ministrowi Wyznań Religijnych Oświecenia Publicznego.
+3. Jeden egzemplarz tego protokółu załącza się do Sekretarjatu Hachana, drugi egzemplarz zastępca Hachana przedstawia wraz z aktami wyborczemi Wojewodzie Wileńskiemu, który przedkłada je ze swą opinją Ministrowi Wyznań Religijnych i Oświecenia Publicznego.
 
-**Art. 9.** Wybór Hachana podlega zatwierdzeniu Prezydenta Rzeczypospolitej na przedstawienie Ministra Wyznań Religijnych Oświecenia Publicznego. Przed objęciem urzędu składa elekt na ręce Ministra Wyznań Religijnych Oświecenia Publicznego lub jego przedstawiciela przysięgę według roty następującej: „Przed Bogiem Wszechmogącym Jego Dziesięciorgiem Przykazań przysięgam obiecuję, jako Hachan Karaimski, wierność Rzeczypospolitej Polskiej. Przysięgam obiecuję, iż z zupełną lojalnością szanować będę Rząd, ustanowiony Konstytucją, że poczynaniach. Dbając o dobro interes Państwa, będę się starał o uchylanie od niego wszelkich niebezpieczeństw, o których wiedziałbym, że mu grożą”, – poczem zaprzysiężony otrzymuje z rąk Ministra Wyznań Religijnych Oświecenia Publicznego dekret Prezydenta Rzeczypospolitej o zatwierdzeniu wyboru obejmuje swój urząd.
+**Art. 9.** Wybór Hachana podlega zatwierdzeniu Prezydenta Rzeczypospolitej na przedstawienie Ministra Wyznań Religijnych i Oświecenia Publicznego. Przed objęciem urzędu składa elekt na ręce Ministra Wyznań Religijnych i Oświecenia Publicznego lub jego przedstawiciela przysięgę według roty następującej: „Przed Bogiem Wszechmogącym i Jego Dziesięciorgiem Przykazań przysięgam i obiecuję, jako Hachan Karaimski, wierność Rzeczypospolitej Polskiej. Przysięgam i obiecuję, iż z zupełną lojalnością szanować będę Rząd, ustanowiony Konstytucją, że nie będę uczestniczył w żadnem porozumieniu ani nie będę obecny przy żadnych naradach, któreby mogły przynieść szkodę Państwu Polskiemu lub porządkowi publicznemu, i nie pozwolę memu duchowieństwu uczestniczyć w takich poczynaniach. Dbając o dobro i interes Państwa, będę się starał o uchylanie od niego wszelkich niebezpieczeństw, o których wiedziałbym, że mu grożą”, – poczem zaprzysiężony otrzymuje z rąk Ministra Wyznań Religijnych i Oświecenia Publicznego dekret Prezydenta Rzeczypospolitej o zatwierdzeniu wyboru i obejmuje swój urząd.
 
 **Art. 10.** (uchylony)
 
 **Art. 11.**
 
-1. Organem doradczym Hachana jest Karaimski Zarząd Duchowny z siedzibą m. Nowe Troki, zwoływany przez Hachana, miarę potrzeby, według jego uznania obradujący pod jego przewodnictwem. Zarząd składa się z dwóch członków, mianowanych odwoływanych przez Hachana spośród urzędujących Hazzanów.
+1. Organem doradczym Hachana jest Karaimski Zarząd Duchowny z siedzibą w m. Nowe Troki, zwoływany przez Hachana, w miarę potrzeby, według jego uznania i obradujący pod jego przewodnictwem. Zarząd składa się z dwóch członków, mianowanych i odwoływanych przez Hachana spośród urzędujących Hazzanów.
 
-2. Nadzwyczajnym organem doradczym Hachana jest Wielki Karaimski Zarząd Duchowny, zwoływany miarę potrzeby według uznania Hachana, na tegoż zarządzenie do m. Nowe Troki obradujący pod jego przewodnictwem. W skład Wielkiego Zarządu Duchownego wchodzą wszyscy urzędujący Hazzanowie zaproszone przez Hachana osoby świeckie. O zwołaniu Wielkiego Zarządu Duchownego zawiadamia Hachan równocześnie właściwego wojewodę.
+2. Nadzwyczajnym organem doradczym Hachana jest Wielki Karaimski Zarząd Duchowny, zwoływany w miarę potrzeby i według uznania Hachana, na tegoż zarządzenie do m. Nowe Troki i obradujący pod jego przewodnictwem. W skład Wielkiego Zarządu Duchownego wchodzą wszyscy urzędujący Hazzanowie i zaproszone przez Hachana osoby świeckie. O zwołaniu Wielkiego Zarządu Duchownego zawiadamia Hachan równocześnie właściwego wojewodę.
 
-**Art. 12.** Celem zaspakajania potrzeb religijnych Karaimów Hachan może tworzyć na całym obszarze Państwa karaimskie gminy wyznaniowe tworzyć nich zakałady dla celów religijnych. Tworzenie znoszenie tych gmin, jak również zmiana ich granic siedzib oraz tworzenie zakładów dla celów religijnych, wymaga uprzedniej zgody Ministra Wyznań Religijnych Oświecenia Publicznego.
+**Art. 12.** Celem zaspakajania potrzeb religijnych Karaimów Hachan może tworzyć na całym obszarze Państwa karaimskie gminy wyznaniowe i tworzyć w nich zakałady dla celów religijnych. Tworzenie i znoszenie tych gmin, jak również zmiana ich granic i siedzib oraz tworzenie zakładów dla celów religijnych, wymaga uprzedniej zgody Ministra Wyznań Religijnych i Oświecenia Publicznego.
 
 **Art. 13.**
 
-1. Na czele gminy wyznaniowej stoi Hazzan, którego zastępcą pomocnikiem jest Szamasz, obaj wybierani przez ogólne zebranie członków karaimskiej gminy wyznaniowej, zatwierdzani na stanowiskach przez Hachana. Pomocnikami Szamaszów są Ochuwczowie, których mianuje Hachan. Przed zatwierdzeniem na stanowiskach Hazzanów Szamaszów Hachan upewnia się każdorazowo u właściwego wojewody, że władze państwowe nie podnoszą sprzeciwu przeciw osobie kandydata. Brak odpowiedzi wojewody ciągu dni 45 uprawnia Hachana do zatwierdzenia kandydata. W razie sprzeciwu wojewody Hachan może Szamaszów Hachan zawiadamia 10-dniowym terminie właściwego wojewodę.
+1. Na czele gminy wyznaniowej stoi Hazzan, którego zastępcą i pomocnikiem jest Szamasz, obaj wybierani przez ogólne zebranie członków karaimskiej gminy wyznaniowej, zatwierdzani na stanowiskach przez Hachana. Pomocnikami Szamaszów są Ochuwczowie, których mianuje Hachan. Przed zatwierdzeniem na stanowiskach Hazzanów i Szamaszów Hachan upewnia się każdorazowo u właściwego wojewody, że władze państwowe nie podnoszą sprzeciwu przeciw osobie kandydata. Brak odpowiedzi wojewody w ciągu dni 45 uprawnia Hachana do zatwierdzenia kandydata. W razie sprzeciwu wojewody Hachan może odwołać się w terminie 14-dniowym od dnia doręczenia decyzji do Ministra Wyznań Religijnych i Oświecenia Publicznego, który rozstrzyga sprawę ostatecznie.
+
+2. O usunięciu ze stanowiska lub zawieszeniu w czynnościach Hazzanów i Szamaszów Hachan zawiadamia w 10-dniowym terminie właściwego wojewodę.
 
 **Art. 14.**
 
-1. Hazzanowie Szamaszowie składają przed objęciem swych obowiązków na ręce Hachana lub delegowanego przez niego jednego z członków Karaimskiego Zarządu Duchownego obecności właściwego starosty lub jego zastępcy przysięgę według roty następującej: „Ja .......... obiecuję przysięgam Panu Bogu Wszechmogącemu przed Jego Dziesięciorgiem Przykazań na powierzonym mi urzędzie Hazzana (Szamasza) być wiernym, posłusznym oddanym Państwu Polskiemu, przepisów prawa strzec pilnie, dobro pożytek Państwa mając zawsze przed oczyma; powierzonych mej pieczy wiernych szacunek wierność dla Państwa wzmacniać, zalecając posłuszeństwo wobec władz praw; zasady wiary moralności ich serca wszczepiać, dążąc do uczynienia z nich dobrych prawych obywateli kraju”.
+1. Hazzanowie i Szamaszowie składają przed objęciem swych obowiązków na ręce Hachana lub delegowanego przez niego jednego z członków Karaimskiego Zarządu Duchownego w obecności właściwego starosty lub jego zastępcy przysięgę według roty następującej: „Ja .......... obiecuję i przysięgam Panu Bogu Wszechmogącemu przed Jego Dziesięciorgiem Przykazań na powierzonym mi urzędzie Hazzana (Szamasza) być wiernym, posłusznym i oddanym Państwu Polskiemu, przepisów prawa strzec pilnie, dobro i pożytek Państwa mając zawsze przed oczyma; w powierzonych mej pieczy wiernych szacunek i wierność dla Państwa wzmacniać, zalecając posłuszeństwo wobec władz i praw; zasady wiary i moralności w ich serca wszczepiać, dążąc do uczynienia z nich dobrych i prawych obywateli kraju”.
 
-2. Tekst roty, podpisany przez składającego przysięgę, przechowuje się archiwum przy Hachanie, zaś odpis, poświadczony przez Hachana, tenże przesyła właściwemu staroście.
+2. Tekst roty, podpisany przez składającego przysięgę, przechowuje się w archiwum przy Hachanie, zaś odpis, poświadczony przez Hachana, tenże przesyła właściwemu staroście.
 
 **Art. 15.**
 
-1. W razie szkodliwej dla Państwa działalności Hazzana, Szamasza lub Ochuwczu może terytorjalnie właściwy wojewoda zażądać od Hachana wydania zarządzeń zapobiegawczych lub usunięcia danej osoby z zajmowanego stanowiska. W razie niespełnienia żądania wojewody przez Hachana do 14 dni, licząc od dnia następnego po doręczeniu żądania wojewody, rozstrzyga sprawę ostatecznie na wniosek wojewody Minister Wyznań Religijnych Oświecenia Publicznego, który może uznać stanowisko zajmowane przez daną osobę za opróżnione.
+1. W razie szkodliwej dla Państwa działalności Hazzana, Szamasza lub Ochuwczu może terytorjalnie właściwy wojewoda zażądać od Hachana wydania zarządzeń zapobiegawczych lub usunięcia danej osoby z zajmowanego stanowiska. W razie niespełnienia żądania wojewody przez Hachana do 14 dni, licząc od dnia następnego po doręczeniu żądania wojewody, rozstrzyga sprawę ostatecznie na wniosek wojewody Minister Wyznań Religijnych i Oświecenia Publicznego, który może uznać stanowisko zajmowane przez daną osobę za opróżnione.
 
-2. Przeciw żądaniu wojewody przysługuje Hachanowi prawo wniesienia odwołania do Ministra Wyznań Religijnych Oświecenia Publicznego; odwołanie winno być wniesione za pośrednictwem wojewody ciągu dni 14, licząc od dnia następnego po doręczeniu żądania wojewody. Minister Wyznań Religijnych Oświecenia Publicznego rozstrzyga odwołanie ostatecznie.
+2. Przeciw żądaniu wojewody przysługuje Hachanowi prawo wniesienia odwołania do Ministra Wyznań Religijnych i Oświecenia Publicznego; odwołanie winno być wniesione za pośrednictwem wojewody w ciągu dni 14, licząc od dnia następnego po doręczeniu żądania wojewody. Minister Wyznań Religijnych i Oświecenia Publicznego rozstrzyga odwołanie ostatecznie.
 
 **Art. 16.**
 
-1. Tylko osoby, posiadające obywatelstwo polskie, mogą piastować godności, stanowiska urzędy duchowne, jako też korzystać z czynnego biernego prawa wyborczego karaimskich gminach wyznaniowych. zasługujących na szczególne uwzględnienie przypadkach zwolnić od powyższych wymogów.
+1. Tylko osoby, posiadające obywatelstwo polskie, mogą piastować godności, stanowiska i urzędy duchowne, jako też korzystać z czynnego i biernego prawa wyborczego w karaimskich gminach wyznaniowych.
 
-**Art. 17.** Hachan, Hazzanowie Szamaszowie korzystają ze wszystkich szczególnych uprawnień, jakie ustawodawstwo państwowe zapewnia osobom duchownym wyznań prawnie uznanych.
+2. Od kandydatów na stanowiska Hachana, Hazzana i Szamasza wymagana jest ponadto znajomość języka polskiego w słowie i piśmie.
 
-**Art. 18.** Jeżeli osoba duchowna, bądź osoba świecka, zajmująca Karaimskim Związku Religijnym jakiekolwiek samodzielne lub kierownicze stanowisko, lub będąca członkiem jakiegokolwiek organu lub władzy tego Związku, uznana będzie prawomocnym wyrokiem sądowym winną zbrodni lub czynu karalnego, pochodzącego z chęci zysku lub przeciw moralności, – zostaje ona tem samem usunięta z zajmowanego stanowiska.
+3. Minister Wyznań Religijnych i Oświecenia Publicznego może w zasługujących na szczególne uwzględnienie przypadkach zwolnić od powyższych wymogów.
+
+**Art. 17.** Hachan, Hazzanowie i Szamaszowie korzystają ze wszystkich szczególnych uprawnień, jakie ustawodawstwo państwowe zapewnia osobom duchownym wyznań prawnie uznanych.
+
+**Art. 18.** Jeżeli osoba duchowna, bądź osoba świecka, zajmująca w Karaimskim Związku Religijnym jakiekolwiek samodzielne lub kierownicze stanowisko, lub będąca członkiem jakiegokolwiek organu lub władzy tego Związku, uznana będzie prawomocnym wyrokiem sądowym winną zbrodni lub czynu karalnego, pochodzącego z chęci zysku lub przeciw moralności, – zostaje ona tem samem usunięta z zajmowanego stanowiska.
 
 **Art. 19.** Zaspakajanie potrzeb religijnych Karaimów, odbywających służbę wojskową, regulują specjalne przepisy, wydane przez Ministra Spraw Wojskowych.
 
 **Art. 20.** (uchylony).
 
-**Art. 21.** Władze państwowe udzielają pomocy władzom urzędom Karaimskiego Związku Religijnego przy wykonywaniu ich zarządzeń:
+**Art. 21.** Władze państwowe udzielają pomocy władzom i urzędom Karaimskiego Związku Religijnego przy wykonywaniu ich zarządzeń:
 
-**Art. 22.** Władze urzędy duchowne posługują się językiem polskim, jako urzędowym, stosunku z władzami urzędami państwowemi samorządowemi oraz osobami lub instytucjami, zwracającemi się do nich języku polskim.
+- **1)** w razie zawieszenia duchownego w czynnościach lub złożenia go z urzędu,
+- **2)** we wszystkich innych przypadkach, przewidzianych przez prawo obowiązujące.
 
-**Art. 23.** Opłaty za dokumenty zaświadczenia, wydawane przez organy Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej, podlegają zatwierdzeniu właściwych ministrów.
+**Art. 22.** Władze i urzędy duchowne posługują się językiem polskim, jako urzędowym, w stosunku z władzami i urzędami państwowemi i samorządowemi oraz osobami lub instytucjami, zwracającemi się do nich w języku polskim.
 
-**Art. 24.** Sprawę opłat pocztowych za korespondencję urzędową władz urzędów Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej normują powszechnie obowiązujące pocztowe przepisy prawne.
+**Art. 23.** Opłaty za dokumenty i zaświadczenia, wydawane przez organy Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej, podlegają zatwierdzeniu właściwych ministrów.
+
+**Art. 24.** Sprawę opłat pocztowych za korespondencję urzędową władz i urzędów Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej normują powszechnie obowiązujące pocztowe przepisy prawne.
 
 **Art. 25.**
 
-1. Hachan Karaimski Rzeczypospolitej Polskiej posiada własną pieczęć.
+1. Hachan Karaimski w Rzeczypospolitej Polskiej posiada własną pieczęć.
 
-3. Hazzanowie używają pieczęci z godłem wyznaniowem napisem obwodowym, zawierającym wyraz „Hazzan” oraz nazwę karaimskiej gminy wyznaniowej języku polskim.
+2. Hachanowi służy prawo posiadania godła państwowego w swej pieczęci. Pozatem pieczęć zawiera napis obwodowy z określeniem władzy duchownej w języku polskim.
 
-4. Wzory pieczęci ustala Hachan, a podlegają one zatwierdzeniu Ministra Wyznań Religijnych Oświecenia Publicznego porozumieniu z Ministrem Spraw Wewnętrznych.
+3. Hazzanowie używają pieczęci z godłem wyznaniowem i napisem obwodowym, zawierającym wyraz „Hazzan” oraz nazwę karaimskiej gminy wyznaniowej w języku polskim.
 
-**Art. 26.** Nauka religji dla młodzieży wyznania karaimskiego zakładach naukowych, których program obejmuje kształcenie młodzieży poniżej lat 18-tu, utrzymywanych całości lub części przez Państwo lub ciała samorządowe, jest ramach przepisów państwowych obowiązkowa jest udzielana przez nauczycieli, mianowanych przez władze szkolne spośród osób, posiadających kwalifikacje, ustalone przez przepisy państwowe, oraz upoważnienie Hachana do nauczania religji.
+4. Wzory pieczęci ustala Hachan, a podlegają one zatwierdzeniu Ministra Wyznań Religijnych i Oświecenia Publicznego w porozumieniu z Ministrem Spraw Wewnętrznych.
+
+**Art. 26.** Nauka religji dla młodzieży wyznania karaimskiego w zakładach naukowych, których program obejmuje kształcenie młodzieży poniżej lat 18-tu, utrzymywanych w całości lub części przez Państwo lub ciała samorządowe, jest w ramach przepisów państwowych obowiązkowa i jest udzielana przez nauczycieli, mianowanych przez władze szkolne spośród osób, posiadających kwalifikacje, ustalone przez przepisy państwowe, oraz upoważnienie Hachana do nauczania religji.
 
 **Art. 27.**
 
-1. W sobotę odmawiać będą duchowni podczas nabożeństwa modlitwę za pomyślność Rzeczypospolitej Jej Prezydenta, a dni świąt państwowych odprawią uroczyste nabożeństwo na intencję Rzeczypospolitej, Jej Prezydenta, Rządu Wojska.
+1. W sobotę odmawiać będą duchowni podczas nabożeństwa modlitwę za pomyślność Rzeczypospolitej i Jej Prezydenta, a w dni świąt państwowych odprawią uroczyste nabożeństwo na intencję Rzeczypospolitej, Jej Prezydenta, Rządu i Wojska.
 
-2. W dni świąteczne, ustalone przez Ministra Wyznań Religijnych Oświecenia Publicznego, na wniosek Hachana, młodzież szkolna wyznania karaimskiego wolna jest od zajęć.
+2. W dni świąteczne, ustalone przez Ministra Wyznań Religijnych i Oświecenia Publicznego, na wniosek Hachana, młodzież szkolna wyznania karaimskiego wolna jest od zajęć.
 
 **Art. 28.**
 
-1. Karaimski Związek Religijny Rzeczypospolitej Polskiej jest osobą prawną może granicach powszechnie obowiązujących przepisów państwowych nabywać, zbywać, obciążać, zarządzać rozporządzać swoim majątkiem ruchomym nieruchomym dla swych celów wyznaniowych dobroczynnych.
+1. Karaimski Związek Religijny w Rzeczypospolitej Polskiej jest osobą prawną i może w granicach powszechnie obowiązujących przepisów państwowych nabywać, zbywać, obciążać, zarządzać i rozporządzać swoim majątkiem ruchomym i nieruchomym dla swych celów wyznaniowych i dobroczynnych.
 
-2. Wpisanie do ksiąg hipotecznych Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej, jako prawnego właściciela swego majątku nieruchomego, odbywa się, na wniosek Hachana, na podstawie przepisów powszechnie obowiązujących.
+2. Wpisanie do ksiąg hipotecznych Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej, jako prawnego właściciela swego majątku nieruchomego, odbywa się, na wniosek Hachana, na podstawie przepisów powszechnie obowiązujących.
 
 3. Pozbycie, obciążenie, zamiana lub zmiana przeznaczenia nieruchomego majątku Karaimskiego Związku Religijnego wymaga zgody wojewody wileńskiego.
 
-5. Cmentarze, stanowiące własność Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej, podlegają przedmiocie zakładania, rozszerzania zamykania oraz zarządu niemi przepisom państwowym o cmentarzach wyznaniowych.
+4. Majątek ruchomy i nieruchomy, mający, w myśl obowiązującego ustawodawstwa, charakter zabytkowy, podlega odnośnym przepisom o opiece nad zabytkami.
 
-6. Dochody z posiadanego przez Karaimski Związek Religijny majątku nieruchomego „Kiorklu Sała”, położonego gminie Nowe Troki powiatu wileńskotrockiego, przeznaczone są na utrzymanie Karaimskiego Zarządu Duchownego oraz na cele ogólne Związku. Dysponowanie temi dochodami należy do kompetencji Hachana porozumieniu z członkami Karaimskiego Zarządu Duchownego.
+5. Cmentarze, stanowiące własność Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej, podlegają w przedmiocie zakładania, rozszerzania i zamykania oraz zarządu niemi przepisom państwowym o cmentarzach wyznaniowych.
 
-**Art. 29.** Położonym obrębie danej karaimskiej gminy wyznaniowej majątkiem, należącym do Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej, jego kienesami cmentarzami zarządza pod nadzorem Hazzana zarząd karaimskiej gminy wyznaniowej. Zarząd ten składa się co najmniej z pięciu osób, wybieranych przez ogólne zebranie członków gminy wyznaniowej zatwierdzonych przez Hachana, który zawiadamia z 14-dniowem uprzedzeniem właściwego wojewodę o dacie zwołania ogólnego zebrania oraz zawiadamia go terminie 20-dniowym o dokonanych wyborach na stanowisko Prezesa Zarządu.
+6. Dochody z posiadanego przez Karaimski Związek Religijny majątku nieruchomego „Kiorklu Sała”, położonego w gminie Nowe Troki powiatu wileńskotrockiego, przeznaczone są na utrzymanie Karaimskiego Zarządu Duchownego oraz na cele ogólne Związku. Dysponowanie temi dochodami należy do kompetencji Hachana w porozumieniu z członkami Karaimskiego Zarządu Duchownego.
 
-**Art. 30.** Karaimski Związek Religijny Rzeczypospolitej Polskiej otrzymuje na swoje potrzeby z kredytów, objętych budżetem państwowym, dotacje zasiłki, przyznawane przez Ministra Wyznań Religijnych Oświecenia Publicznego.
+**Art. 29.** Położonym w obrębie danej karaimskiej gminy wyznaniowej majątkiem, należącym do Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej, jego kienesami i cmentarzami zarządza pod nadzorem Hazzana zarząd karaimskiej gminy wyznaniowej. Zarząd ten składa się co najmniej z pięciu osób, wybieranych przez ogólne zebranie członków gminy wyznaniowej i zatwierdzonych przez Hachana, który zawiadamia z 14-dniowem uprzedzeniem właściwego wojewodę o dacie zwołania ogólnego zebrania oraz zawiadamia go w terminie 20-dniowym o dokonanych wyborach na stanowisko Prezesa Zarządu.
 
-**Art. 31.** Należące do Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej kienesy inne budynki, poświęcone wyłącznie służbie Bożej, tudzież takie dobra prawa majątkowe, których dochód służy wyłącznie celom kultu religijnego nie przyczynia się do osobistych dochodów duchowieństwa lub innych członków Związku, korzystają z ulg zwolnień od podatków państwowych komunalnych granicach powszechnie obowiązujących przepisów państwowych. Pomieszczenia duchownych oraz lokale urzędowe władz duchownych Karaimskiego Związku Religijnego będą traktowane narówni z pomieszczeniami urzędowemi funkcjonarjuszów państwowych lokalami instytucyj państwowych. świadczeń wojennych, powszechnie obowiązującym przepisom prawnym.
+**Art. 30.** Karaimski Związek Religijny w Rzeczypospolitej Polskiej otrzymuje na swoje potrzeby z kredytów, objętych budżetem państwowym, dotacje i zasiłki, przyznawane przez Ministra Wyznań Religijnych i Oświecenia Publicznego.
 
-**Art. 33.** Szczegółowe przepisy regulaminy, wydawane przez władzę duchowną Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej celem wykonania postanowień Statutu tego Związku, uzyskują moc obowiązującą po stwierdzeniu przez Ministra Wyznań Religijnych Oświecenia Publicznego, że nie zawierają postanowień sprzecznych z ustawami państwowemi, ustawą niniejszą oraz ze Statutem Karaimskiego Związku Religijnego Rzeczypospolitej Polskiej.
+**Art. 31.** Należące do Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej kienesy i inne budynki, poświęcone wyłącznie służbie Bożej, tudzież takie dobra i prawa majątkowe, których dochód służy wyłącznie celom kultu religijnego i nie przyczynia się do osobistych dochodów duchowieństwa lub innych członków Związku, korzystają z ulg i zwolnień od podatków państwowych i komunalnych w granicach powszechnie obowiązujących przepisów państwowych. Pomieszczenia duchownych oraz lokale urzędowe władz duchownych Karaimskiego Związku Religijnego będą traktowane narówni z pomieszczeniami urzędowemi funkcjonarjuszów państwowych i lokalami instytucyj państwowych.
 
-**Art. 34.** Wykonanie ustawy niniejszej porucza się Ministrowi Wyznań Religijnych Oświecenia Publicznego porozumieniu z interesowanymi ministrami.
+**Art. 32.** Budynki i pomieszczenia, będące w użytkowaniu Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej, podlegają w zakresie ulg w dziedzinie zakwaterowania wojska w czasie pokoju, tudzież w dziedzinie rzeczowych świadczeń wojennych, powszechnie obowiązującym przepisom prawnym.
 
-**Art. 35.** Ustawa niniejsza wchodzi życie z dniem ogłoszenia. Jednocześnie tracą moc obowiązującą dotychczasowe przepisy prawne przedmiotach, unormowanych ustawą niniejszą.
+**Art. 33.** Szczegółowe przepisy i regulaminy, wydawane przez władzę duchowną Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej celem wykonania postanowień Statutu tego Związku, uzyskują moc obowiązującą po stwierdzeniu przez Ministra Wyznań Religijnych i Oświecenia Publicznego, że nie zawierają postanowień sprzecznych z ustawami państwowemi, ustawą niniejszą oraz ze Statutem Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej.
+
+**Art. 34.** Wykonanie ustawy niniejszej porucza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego w porozumieniu z interesowanymi ministrami.
+
+**Art. 35.** Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Jednocześnie tracą moc obowiązującą dotychczasowe przepisy prawne w przedmiotach, unormowanych ustawą niniejszą.
 

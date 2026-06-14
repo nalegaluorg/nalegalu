@@ -8,7 +8,7 @@ pos: 1240
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o bezpieczeństwie osób przebywających na obszarach wodnych
@@ -33,11 +33,32 @@ Art. 37–39. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** warunki bezpieczeństwa osób pływających, kąpiących się lub uprawiających sport lub rekreację na obszarach wodnych;
+- **2)** podmioty uprawnione do wykonywania ratownictwa wodnego, zakres ich obowiązków i uprawnień, oraz zasady finansowania ich działalności;
+- **3)** podmioty odpowiedzialne za zapewnienie bezpieczeństwa osobom pływającym, kąpiącym się lub uprawiającym sport lub rekreację na obszarach wodnych;
+- **4)** nadzór i kontrolę nad ratownictwem wodnym;
+- **5)** zasady i tryb usuwania, przechowywania, wydawania oraz orzekania przepadku statku lub innego obiektu pływającego przeznaczonego lub używanego do uprawiania sportu lub rekreacji, zwanego dalej „innym obiektem pływającym”.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** obszarze wodnym – rozumie się przez to wody śródlądowe w rozumieniu art. 19 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687 oraz z 2023 r. poz. 295 i 412) oraz wody przybrzeżne w rozumieniu art. 26 tej ustawy, w pasie nieprzekraczającym jednej mili morskiej od linii brzegu, a także kąpielisko, miejsce okazjonalnie wykorzystywane do kąpieli, pływalnię oraz inne obiekty dysponujące nieckami basenowymi o łącznej powierzchni powyżej 100 m i głębokości powyżej 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m;
+- **2)** wyznaczonym obszarze wodnym – rozumie się przez to kąpielisko, miejsce okazjonalnie wykorzystywane do kąpieli, pływalnię oraz inne obiekty dysponujące nieckami basenowymi o łącznej powierzchni powyżej 100 m i głębokości powyżej 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m;
+- **3)** wypadku – rozumie się przez to nagłe zdarzenie wywołane przyczyną zewnętrzną, które wystąpiło podczas pływania, kąpania lub uprawiania sportu lub rekreacji na obszarach wodnych, którego następstwem może być naruszenie czynności narządu ciała lub rozstrój zdrowia;
+- **4)** ratownictwie wodnym – rozumie się przez to prowadzenie działań ratowniczych, polegających w szczególności na organizowaniu i udzielaniu pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia na obszarze wodnym;
+- **5)** (uchylony)
+- **6)** miejscu okazjonalnie wykorzystywanym do kąpieli – rozumie się przez to miejsce okazjonalnie wykorzystywane do kąpieli, o którym mowa w art. 16 pkt 28 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
+- **7)** kąpielisku – rozumie się przez to kąpielisko, o którym mowa w art. 16 pkt 22 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
+- **8)** pływalni – rozumie się przez to obiekt kryty lub odkryty, z wodą przepływową, przeznaczony do pływania lub kąpieli, posiadający co najmniej jedną nieckę basenową, z trwałym brzegiem i dnem, wyposażony w urządzenia sanitarne, szatnie i natryski.
 
 #### Rozdział 2 Bezpieczeństwo na obszarach wodnych
 
 **Art. 3.** Osoby przebywające na obszarach wodnych obowiązane są do zachowania należytej staranności w celu ochrony życia i zdrowia własnego oraz innych osób, a w szczególności:
+
+- **1)** zapoznania się z zasadami korzystania z danego terenu, obiektu lub urządzenia i ich przestrzegania;
+- **2)** stosowania się do znaków nakazu i zakazu umieszczanych przez podmioty, o których mowa w art. 12 ust. 1;
+- **3)** zapoznania się i dostosowania swoich planów aktywności do umiejętności oraz aktualnych warunków atmosferycznych;
+- **4)** użytkowania sprzętu odpowiedniego do rodzaju podejmowanej aktywności, sprawnego technicznie i zgodnie z jego przeznaczeniem i zasadami użycia;
+- **5)** bezzwłocznego informowania odpowiednich służb ratowniczych lub podmiotów, o których mowa w art. 12 ust. 1, o zaistniałym wypadku lub zaginięciu osoby oraz o innych zdarzeniach nadzwyczajnych mogących mieć wpływ na bezpieczeństwo osób.
 
 **Art. 4.**
 
@@ -90,6 +111,9 @@ Art. 37–39. (pominięte)
 
 **Art. 8.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia:
 
+- **1)** sposób oznakowania i zabezpieczania obszarów wodnych,
+- **2)** wzory znaków zakazu, nakazu oraz informacyjnych i flag – mając na uwadze konieczność zapewnienia odpowiedniego poziomu bezpieczeństwa i udzielania pomocy osobom kąpiącym się, pływającym i uprawiającym sport lub rekreację na obszarach wodnych.
+
 **Art. 9.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, minimalne wymagania dotyczące liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego, biorąc pod uwagę wielkość tego obszaru oraz konieczność zapewnienia bezpieczeństwa osobom na nim przebywającym.
 
 **Art. 10.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, wymagania dotyczące wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne, mając na uwadze konieczność zapewnienia bezpieczeństwa osobom korzystającym z tych obszarów.
@@ -130,6 +154,14 @@ Art. 37–39. (pominięte)
 6. Minister właściwy do spraw wewnętrznych zawiadamia wojewodę właściwego do dokonania wpisu do rejestru jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne, o którym mowa w art. 17 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, o cofnięciu zgody, o której mowa w ust. 1.
 
 **Art. 13.** W ramach ratownictwa wodnego podejmowane są działania ratownicze, polegające w szczególności na:
+
+- **1)** przyjęciu zgłoszenia o wypadku lub zagrożeniu;
+- **2)** dotarciu na miejsce wypadku z odpowiednim sprzętem ratunkowym;
+- **3)** udzielaniu kwalifikowanej pierwszej pomocy;
+- **4)** zabezpieczeniu miejsca wypadku lub zagrożenia;
+- **5)** ewakuacji osób z miejsca stanowiącego zagrożenie dla życia lub zdrowia;
+- **6)** transporcie osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia na obszarze wodnym do miejsca, gdzie jest możliwe podjęcie medycznych czynności ratunkowych przez jednostki systemu Państwowego Ratownictwa Medycznego, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, po uprzednim uzgodnieniu miejsca przekazania z dysponentem jednostki systemu Państwowego Ratownictwa Medycznego;
+- **7)** poszukiwaniu osób zaginionych na obszarze wodnym.
 
 **Art. 14.**
 
@@ -198,6 +230,17 @@ Art. 37–39. (pominięte)
 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, kwalifikacje przydatne w ratownictwie wodnym, o których mowa w ust. 1 pkt 2, oraz wykaz dokumentów potwierdzających ich posiadanie, biorąc pod uwagę rodzaj działań ratowniczych podejmowanych w ramach ratownictwa wodnego.
 
 **Art. 16.** Do obowiązków ratowników wodnych należy w szczególności wykonywanie działań ratowniczych, o których mowa w art. 13, oraz:
+
+- **1)** obserwowanie wyznaczonego obszaru wodnego, niezwłoczne reagowanie na każdy sygnał wzywania pomocy oraz podejmowanie akcji ratowniczej, zapobieganie skutkom zagrożeń;
+- **2)** przegląd stanu urządzeń i sprzętu wykorzystywanego do ratownictwa wodnego;
+- **3)** określanie głębokości wyznaczonego obszaru wodnego;
+- **4)** kontrola stanu urządzeń oraz sprzętu, które zapewniają bezpieczeństwo osób pływających, kąpiących się lub uprawiających sport lub rekreację;
+- **5)** wywieszanie na maszcie odpowiednich flag informacyjnych;
+- **6)** sygnalizowanie, za pomocą urządzeń alarmowych, naruszeń zasad korzystania z wyznaczonego obszaru wodnego w szczególności granicy strefy dla umiejących pływać, a w kąpieliskach także nadchodzącej burzy;
+- **7)** reagowanie na przypadki naruszania zasad korzystania z wyznaczonego obszaru wodnego;
+- **8)** wpisywanie na tablicy informacyjnej temperatury wody, powietrza oraz innych aktualnych informacji w szczególności dotyczących nagłych zmian warunków atmosferycznych;
+- **9)** niezwłoczne informowanie zarządzającego, o którym mowa w art. 21 ust. 1, oraz swojego przełożonego o zagrożeniach bezpieczeństwa osób przebywających na obszarze wodnym;
+- **10)** bieżące dokumentowanie prowadzonych działań ratowniczych.
 
 **Art. 17.**
 

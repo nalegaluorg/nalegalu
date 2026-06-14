@@ -8,10 +8,10 @@ pos: 342
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia 11 marca 2024 334422 Tabela 1. Parametry techniczne geodezyjnego układu odniesienia Tabela 2. Parametry techniczne geodezyjnego układu odniesienia Tabela 3. Parametry techniczne układu współrzędnych geocentrycznych Tabela 4. Parametry techniczne układu współrzędnych geocentrycznych Tabela 5. Parametry techniczne układu współrzędnych geodezyjnych Tabela 6. Parametry techniczne układu wysokościowego PL-EVRF2007-NH Tabela 7. Parametry techniczne układu wysokościowego PL-KRON86-NH Tabela 8. Parametry techniczne układu współrzędnych płaskich Tabela 9. Parametry techniczne układu współrzędnych płaskich Tabela 10. Parametry techniczne układu współrzędnych płaskich Tabela 11. Parametry techniczne układu współrzędnych płaskich × Tabela 12. Parametry techniczne układu współrzędnych płaskich ×
+# RZECZYPOSPOLITEJ Poz. 334422 Tabela 1. Parametry techniczne geodezyjnego układu odniesienia Tabela 2. Parametry techniczne geodezyjnego układu odniesienia Tabela 3. Parametry techniczne układu współrzędnych geocentrycznych Tabela 4. Parametry techniczne układu współrzędnych geocentrycznych Tabela 5. Parametry techniczne układu współrzędnych geodezyjnych Tabela 6. Parametry techniczne układu wysokościowego PL-EVRF2007-NH Tabela 7. Parametry techniczne układu wysokościowego PL-KRON86-NH Tabela 8. Parametry techniczne układu współrzędnych płaskich Tabela 9. Parametry techniczne układu współrzędnych płaskich Tabela 10. Parametry techniczne układu współrzędnych płaskich Tabela 11. Parametry techniczne układu współrzędnych płaskich × Tabela 12. Parametry techniczne układu współrzędnych płaskich ×
 
 | Pole | Wartość |
 |---|---|

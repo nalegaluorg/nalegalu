@@ -1,0 +1,27 @@
+---
+title: "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 25 marca 2024 r. zmieniające rozporządzenie w sprawie różnicowania stopy procentowej składki na ubezpieczenie społeczne z tytułu wypadków przy pracy i chorób zawodowych w zależności od zagrożeń zawodowych i ich skutków"
+address: WDU20240000451
+eli: DU/2024/451
+publisher: DU
+year: 2024
+pos: 451
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 451 Lp. Grupy działalności Kod PKD* Kategorie Stopy ryzyka procentowe składki (%) 1 2 3 4 5 1 Uprawy rolne, chów i hodowla zwierząt, łowiectwo, A-01 5 1,47 włączając działalność usługową 2 Leśnictwo i pozyskiwanie drewna A-02 6 1,73 3 Rybactwo A-03 4 1,20 4 Wydobywanie węgla kamiennego i węgla brunatnego B-05 12 3,33 (lignitu) 5 Górnictwo ropy naftowej i gazu ziemnego B-06 6 1,73 6 Górnictwo rud metali B-07 8 2,26 7 Pozostałe górnictwo i wydobywanie B-08 6 1,73 8 Działalność usługowa wspomagająca górnictwo B-09 12 3,33 i wydobywanie 9 Produkcja artykułów spożywczych C-10 4 1,20 10 Produkcja napojów C-11 4 1,20 11 Produkcja wyrobów tytoniowych C-12 4 1,20 12 Produkcja wyrobów tekstylnych C-13 4 1,20 13 Produkcja odzieży C-14 2 0,67 14 Produkcja skór i wyrobów ze skór wyprawionych C-15 3 0,93 15 Produkcja wyrobów z drewna oraz korka, C-16 6 1,73 z wyłączeniem mebli; produkcja wyrobów ze słomy i materiałów używanych do wyplatania 16 Produkcja papieru i wyrobów z papieru C-17 5 1,47 17 Poligrafia i reprodukcja zapisanych nośników C-18 3 0,93 informacji 18 Wytwarzanie i przetwarzanie koksu i produktów C-19 5 1,47 rafinacji ropy naftowej 19 Produkcja chemikaliów i wyrobów chemicznych C-20 4 1,20 20 Produkcja podstawowych substancji farmaceutycznych C-21 3 0,93 oraz leków i pozostałych wyrobów farmaceutycznych 21 Produkcja wyrobów z gumy i tworzyw sztucznych C-22 5 1,47 22 Produkcja wyrobów z pozostałych mineralnych C-23 5 1,47 surowców niemetalicznych 23 Produkcja metali C-24 6 1,73 24 Produkcja metalowych wyrobów gotowych, C-25 5 1,47 z wyłączeniem maszyn i urządzeń 25 Produkcja komputerów, wyrobów elektronicznych C-26 3 0,93 i optycznych 26 Produkcja urządzeń elektrycznych C-27 4 1,20 27 Produkcja maszyn i urządzeń, gdzie indziej C-28 5 1,47 niesklasyfikowana 28 Produkcja pojazdów samochodowych, przyczep C-29 4 1,20 i naczep, z wyłączeniem motocykli 29 Produkcja pozostałego sprzętu transportowego C-30 5 1,47 30 Produkcja mebli C-31 4 1,20 31 Pozostała produkcja wyrobów C-32 4 1,20 32 Naprawa, konserwacja i instalowanie maszyn C-33 4 1,20 i urządzeń 33 Wytwarzanie i zaopatrywanie w energię elektryczną, D-35 4 1,20 gaz, parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych 34 Pobór, uzdatnianie i dostarczanie wody E-36 4 1,20 35 Odprowadzanie i oczyszczanie ścieków E-37 5 1,47 36 Działalność związana ze zbieraniem, przetwarzaniem E-38 6 1,73 i unieszkodliwianiem odpadów; odzysk surowców 37 Działalność związana z rekultywacją i pozostała E-39 4 1,20 działalność usługowa związana z gospodarką odpadami 38 Roboty budowlane związane ze wznoszeniem F-41 3 0,93 budynków 39 Roboty związane z budową obiektów inżynierii F-42 5 1,47 lądowej i wodnej 40 Roboty budowlane specjalistyczne F-43 3 0,93 41 Handel hurtowy i detaliczny pojazdami G-45 2 0,67 samochodowymi; naprawa pojazdów samochodowych 42 Handel hurtowy, z wyłączeniem handlu pojazdami G-46 3 0,93 samochodowymi 43 Handel detaliczny, z wyłączeniem handlu detalicznego G-47 3 0,93 pojazdami samochodowymi 44 Transport lądowy oraz transport rurociągowy H-49 3 0,93 45 Transport wodny H-50 4 1,20 46 Transport lotniczy H-51 2 0,67 47 Magazynowanie i działalność usługowa wspomagająca H-52 4 1,20 transport 48 Działalność pocztowa i kurierska H-53 4 1,20 49 Działalność związana z zakwaterowaniem i usługami I 2 0,67 gastronomicznymi 50 Informacja i komunikacja J 2 0,67 51 Działalność finansowa i ubezpieczeniowa K 2 0,67 52 Działalność związana z obsługą rynku nieruchomości L 2 0,67 53 Działalność profesjonalna, naukowa i techniczna M 2 0,67 54 Wynajem i dzierżawa N-77 3 0,93 55 Działalność związana z zatrudnieniem N-78 3 0,93 56 Działalność organizatorów turystyki, pośredników N-79 2 0,67 i agentów turystycznych oraz pozostała działalność usługowa w zakresie rezerwacji i działalności z nią związane 57 Działalność detektywistyczna i ochroniarska N-80 3 0,93 58 Działalność usługowa związana z utrzymaniem N-81 4 1,20 porządku w budynkach i zagospodarowaniem terenów zieleni 59 Działalność związana z administracyjną obsługą biura N-82 2 0,67 i pozostała działalność wspomagająca prowadzenie działalności gospodarczej 60 Administracja publiczna i obrona narodowa; O,U 2 0,67 obowiązkowe zabezpieczenia społeczne, organizacje i zespoły eksterytorialne 61 Edukacja P 3 0,93 62 Opieka zdrowotna i pomoc społeczna Q 4 1,20 63 Działalność związana z kulturą, rozrywką i rekreacją R 2 0,67 64 Pozostała działalność usługowa, gospodarstwa domowe S,T 2 0,67 zatrudniające pracowników; gospodarstwa domowe produkujące wyroby i świadczące usługi na własne potrzeby
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 451 |
+| ISAP | WDU20240000451 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2024-03-25 |
+| Data wydania | 2024-03-27 |
+| Ostatnia zmiana | 2025-12-31 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/451/text.pdf) |
+

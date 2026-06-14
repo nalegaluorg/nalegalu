@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 25 czerwca 2010 r. o sporcie*
 
-Łącznie: **42** orzeczeń
+Łącznie: **43** orzeczeń
 (pominięto 26 orzeczeń sądów rejonowych)
 
 ## art. 2 (6)
@@ -120,9 +120,10 @@ Orzeczenia powołujące: *Ustawa z dnia 25 czerwca 2010 r. o sporcie*
 - 2024-04-19 | SO | [I ACa 2891/23](https://www.saos.org.pl/judgments/522974) | Wyrok
 - 2013-02-05 | SO | [I ACa 5/13](https://www.saos.org.pl/judgments/19535) | Wyrok
 
-## art. 41 (6)
+## art. 41 (7)
 
 - 2012-10-12 | SN | [IV CSK 82/12](https://www.saos.org.pl/judgments/99331) | Wyrok ★
+- 2026-01-30 | SO | [I ACa 838/23](https://www.saos.org.pl/judgments/546676) | Wyrok
 - 2024-12-23 | SO | [V ACa 1818/24](https://www.saos.org.pl/judgments/520760) | Wyrok
 - 2023-10-23 | SO | [I ACa 775/22](https://www.saos.org.pl/judgments/519398) | Wyrok
 - 2020-10-20 | SO | [V ACa 314/19](https://www.saos.org.pl/judgments/429000) | Wyrok

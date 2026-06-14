@@ -8,7 +8,7 @@ pos: 2240
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 78/A/2017 WYROK z dnia 29 listopada 2017 r.

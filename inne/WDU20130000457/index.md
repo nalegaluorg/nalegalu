@@ -8,10 +8,10 @@ pos: 457
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 kwietnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 457 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 27 marca 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000457) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/457/text.pdf) |
 
-Poz. 457 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI dnia 27 marca 2013 r.
-w sprawie terminów składania oraz wzoru wniosku środowiska Na podstawie art. 106 ust. 7 ustawy dnia 9 listopada 2012 r. nasiennictwie (Dz. U. poz. 1512) zarządza się, co następuje: § 1. Wniosek środowiska składa się w terminie:
-1) dnia 15 sierpnia – w przypadku środowiska przeznaczonej siewu w sezonie jesiennym;
-2) dnia 15 stycznia – w przypadku środowiska przeznaczonej siewu w sezonie wiosennym.
-§ 2. Wzór wniosku środowiska jest określony w załączniku rozporządzenia.
+w sprawie terminów składania oraz wzoru wniosku o wydanie zgody na wprowadzenie do obrotu mieszanki dla ochrony środowiska Na podstawie art. 106 ust. 7 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512) zarządza się, co następuje:
+§ 1. Wniosek o wydanie zgody na wprowadzenie do obrotu mieszanki dla ochrony środowiska składa się w terminie:
+1) do dnia 15 sierpnia – w przypadku mieszanki dla ochrony środowiska przeznaczonej do siewu w sezonie jesiennym;
+2) do dnia 15 stycznia – w przypadku mieszanki dla ochrony środowiska przeznaczonej do siewu w sezonie wiosennym.
+§ 2. Wzór wniosku o wydanie zgody na wprowadzenie do obrotu mieszanki dla ochrony środowiska jest określony w załączniku do rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. T. Nalewajk WZÓR Minister Rolnictwa i Rozwoju Wsi WNIOSEK Na podstawie art. 106 ust. 2 ustawy dnia 9 listopada 2012 r. nasiennictwie (Dz. U. poz. 1512) zwracam się prośbą dnia .......................................... obszarze ................................................
-następującej środowiska: Mieszanka środowiska Określenie rodzaju zbierana bezpośrednio/uprawiana mieszanka środowiska Procentowy skład wagowy poszczególnych składników środowiska, podaniem gatunków Zdolność kiełkowania poszczególnych składników środowiska objętych przepisami ustawy dnia 9 listopada 2012 r. nasiennictwie – w przypadku uprawianych mieszanek środowiska Proponowana wprowadzenia ilość środowiska (w kg) Region pochodzenia środowiska Obszar źródłowy Miejsce zbioru, a w przypadku uprawianej środowiska – dodatkowo miejsca rozmnożenia Termin i sposób zbioru zbieranej bezpośrednio Rodzaj siedliska występującego w miejscu zbioru Rok zbioru środowiska
+Minister Rolnictwa i Rozwoju Wsi: wz. T. Nalewajk WZÓR Minister Rolnictwa i Rozwoju Wsi WNIOSEK Na podstawie art. 106 ust. 2 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512) zwracam się z prośbą o wydanie zgody na wprowadzenie do obrotu do dnia .......................................... na obszarze ................................................
+następującej mieszanki dla ochrony środowiska: Mieszanka dla ochrony środowiska Określenie rodzaju mieszanki zbierana bezpośrednio/uprawiana mieszanka dla ochrony środowiska Procentowy skład wagowy poszczególnych składników mieszanki dla ochrony środowiska, z podaniem gatunków Zdolność kiełkowania poszczególnych składników mieszanki dla ochrony środowiska objętych przepisami ustawy z dnia 9 listopada 2012 r. o nasiennictwie – w przypadku uprawianych mieszanek dla ochrony środowiska Proponowana do wprowadzenia do obrotu ilość mieszanki dla ochrony środowiska (w kg) Region pochodzenia mieszanki dla ochrony środowiska Obszar źródłowy Miejsce zbioru, a w przypadku uprawianej mieszanki dla ochrony środowiska – dodatkowo miejsca rozmnożenia Termin i sposób zbioru mieszanki zbieranej bezpośrednio Rodzaj siedliska występującego w miejscu zbioru Rok zbioru mieszanki dla ochrony środowiska
 

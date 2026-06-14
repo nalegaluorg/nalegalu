@@ -8,10 +8,10 @@ pos: 732
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 732 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 14 kwietnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000732) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/732/text.pdf) |
 
-Poz. 732 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 14 kwietnia 2023 r.
-zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu Na podstawie art. 119 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 1821, z 2004 r. poz. 1320, z 2006 r. poz. 340, z 2009 r. poz. 678 oraz z 2023 r.
+zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu Na podstawie art. 119 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 1821, z 2004 r. poz. 1320, z 2006 r. poz. 340, z 2009 r. poz. 678 oraz z 2023 r.
 poz. 720) wprowadza się następujące zmiany:
 1) w § 5 ust. 1 otrzymuje brzmienie: „1. Funkcjonariuszowi:
 1) pełniącemu służbę w jednostce organizacyjnej właściwej w sprawach kontroli wewnętrznych i wykonującemu te kontrole, a także funkcjonariuszowi kierującemu taką jednostką organizacyjną,
@@ -35,5 +35,5 @@ poz. 720) wprowadza się następujące zmiany:
 2) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
 § 2. Dodatek za posiadany stopień służbowy w wysokości określonej w załączniku do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, przysługuje funkcjonariuszom Agencji Wywiadu od dnia 1 stycznia 2023 r.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki Dziennik Ustaw – 2 – Poz. 732 WYSOKOŚĆ DODATKU ZA POSIADANY STOPIEŃ SŁUŻBOWY Lp. Nazwa stopnia Stawka w złotych 1 generał brygady 1800 2 pułkownik 1700 3 podpułkownik 1650 4 major 1600 5 kapitan 1500 6 porucznik 1450 7 podporucznik 1400 8 starszy chorąży sztabowy 1250 9 chorąży sztabowy 1200 10 młodszy chorąży sztabowy 1150 11 starszy chorąży 1100 12 chorąży 1050 13 młodszy chorąży 1000 14 starszy sierżant sztabowy 900 15 sierżant sztabowy 860 16 starszy sierżant 830 17 sierżant 800 18 starszy plutonowy 750 19 plutonowy 720 20 starszy kapral 680 21 kapral 650 22 starszy szeregowy 620 23 szeregowy 600
+Prezes Rady Ministrów: M. Morawiecki WYSOKOŚĆ DODATKU ZA POSIADANY STOPIEŃ SŁUŻBOWY Lp. Nazwa stopnia Stawka w złotych 1 generał brygady 1800 2 pułkownik 1700 3 podpułkownik 1650 4 major 1600 5 kapitan 1500 6 porucznik 1450 7 podporucznik 1400 8 starszy chorąży sztabowy 1250 9 chorąży sztabowy 1200 10 młodszy chorąży sztabowy 1150 11 starszy chorąży 1100 12 chorąży 1050 13 młodszy chorąży 1000 14 starszy sierżant sztabowy 900 15 sierżant sztabowy 860 16 starszy sierżant 830 17 sierżant 800 18 starszy plutonowy 750 19 plutonowy 720 20 starszy kapral 680 21 kapral 650 22 starszy szeregowy 620 23 szeregowy 600
 

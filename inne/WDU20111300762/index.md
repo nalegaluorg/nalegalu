@@ -8,7 +8,7 @@ pos: 762
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 40/5/A/2011 WYROK z dnia 13 czerwca 2011 r.

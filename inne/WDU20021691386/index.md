@@ -8,7 +8,7 @@ pos: 1386
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o normalizacji
@@ -33,11 +33,35 @@ source: "isap-pdf"
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** normalizacji – rozumie się przez to działalność zmierzającą do uzyskania optymalnego, w danych okolicznościach, stopnia uporządkowania w określonym zakresie, poprzez ustalanie postanowień przeznaczonych do powszechnego i wielokrotnego stosowania, dotyczących istniejących lub mogących wystąpić problemów;
+- **2)** normalizacji krajowej – rozumie się przez to normalizację prowadzoną na szczeblu krajowym, nieobejmującą działań prowadzonych: w poszczególnych branżach lub sektorach gospodarki, na szczeblu lokalnym, na szczeblu stowarzyszeń lub przedsiębiorców i urzędów;
+- **3)** dokumencie normalizacyjnym – rozumie się przez to dokument ustalający zasady, wytyczne lub charakterystyki odnoszące się do różnych rodzajów działalności lub ich wyników, niebędący aktem prawnym; podstawowym dokumentem normalizacyjnym jest norma;
+- **4)** normie – rozumie się przez to dokument przyjęty na zasadzie konsensu i zatwierdzony przez upoważnioną jednostkę organizacyjną, ustalający – do powszechnego i wielokrotnego stosowania – zasady, wytyczne lub charakterystyki odnoszące się do różnych rodzajów działalności lub ich wyników i zmierzający do uzyskania optymalnego stopnia uporządkowania w określonym zakresie;
+- **5)** konsensie – rozumie się przez to ogólne porozumienie charakteryzujące się brakiem trwałego sprzeciwu znaczącej części zainteresowanych w odniesieniu do istotnych zagadnień, osiągnięte w procesie rozpatrywania poglądów wszystkich zainteresowanych i zbliżenia przeciwstawnych stanowisk.
+
 #### Rozdział 2 Cele i zasady normalizacji krajowej
 
 **Art. 3.** Normalizacja krajowa prowadzona jest w celu:
 
+- **1)** racjonalizacji produkcji i usług poprzez stosowanie uznanych reguł technicznych lub rozwiązań organizacyjnych;
+- **2)** usuwania barier technicznych w handlu i zapobiegania ich powstawaniu;
+- **3)** zapewnienia ochrony życia, zdrowia, środowiska i interesu konsumentów oraz bezpieczeństwa pracy;
+- **4)** poprawy funkcjonalności, kompatybilności i zamienności wyrobów, procesów i usług oraz regulowania ich różnorodności;
+- **5)** zapewnienia jakości i niezawodności wyrobów, procesów i usług;
+- **6)** działania na rzecz uwzględnienia interesów krajowych w normalizacji europejskiej i międzynarodowej;
+- **7)** ułatwiania porozumiewania się przez określanie terminów, definicji, oznaczeń i symboli do powszechnego stosowania.
+
 **Art. 4.** W normalizacji krajowej stosuje się następujące zasady:
+
+- **1)** jawności i powszechnej dostępności;
+- **2)** uwzględniania interesu publicznego;
+- **3)** dobrowolności uczestnictwa w procesie opracowywania i stosowania norm;
+- **4)** zapewnienia możliwości uczestnictwa wszystkich zainteresowanych w procesie opracowywania norm;
+- **5)** konsensu jako podstawy procesu uzgadniania treści norm;
+- **6)** niezależności od administracji publicznej oraz jakiejkolwiek grupy interesów;
+- **7)** jednolitości i spójności postanowień norm;
+- **8)** wykorzystywania sprawdzonych osiągnięć nauki i techniki;
+- **9)** zgodności z zasadami normalizacji europejskiej i międzynarodowej.
 
 #### Rozdział 3 Polskie Normy i inne dokumenty normalizacyjne
 
@@ -115,6 +139,14 @@ source: "isap-pdf"
 2. W sprawach, o których mowa w ust. 1, Prezes Rady Ministrów sprawuje nadzór, wydając Prezesowi PKN wiążące wytyczne i polecenia.
 
 **Art. 11.** Do zadań PKN należy organizowanie i prowadzenie normalizacji krajowej zgodnie z potrzebami kraju, w tym:
+
+- **1)** określanie stanu i kierunków rozwoju normalizacji;
+- **2)** organizowanie i nadzorowanie działań związanych z opracowywaniem i rozpowszechnianiem Polskich Norm i innych dokumentów normalizacyjnych, w szczególności przez ankietę powszechną projektów norm; ankieta powszechna jest realizowana przez podawanie do publicznej wiadomości tytułów, terminów zakończenia ankiety oraz miejsca i sposobu udostępniania zainteresowanym treści projektów;
+- **3)** zatwierdzanie i wycofywanie Polskich Norm oraz innych dokumentów normalizacyjnych;
+- **4)** reprezentowanie Rzeczypospolitej Polskiej w międzynarodowych i regionalnych organizacjach normalizacyjnych, uczestnictwo w ich pracach oraz występowanie za granicą w sprawach dotyczących normalizacji;
+- **5)** inicjowanie i organizowanie pracy komitetów technicznych do realizacji zadań związanych z opracowywaniem dokumentów normalizacyjnych;
+- **6)** organizowanie i prowadzenie działalności szkoleniowej, wydawniczej, promocyjnej i informacyjnej dotyczącej normalizacji i dziedzin pokrewnych;
+- **7)** opiniowanie projektów aktów prawnych związanych z normalizacją.
 
 **Art. 12.**
 
@@ -354,6 +386,10 @@ source: "isap-pdf"
 4. Na pierwszym posiedzeniu Rada przystępuje do realizacji czynności związanych z konkursem na stanowisko Prezesa.
 
 **Art. 27.** Z dniem wejścia w życie ustawy:
+
+- **1)** pracownicy Biura dotychczasowego „Polskiego Komitetu Normalizacyjnego” stają się z mocy prawa pracownikami PKN; do pracowników tych stosuje się art. 23 Kodeksu pracy;
+- **2)** dotychczasowe „Normalizacyjne Komisje Problemowe” stają się komitetami technicznymi, w rozumieniu niniejszej ustawy;
+- **3)** mienie będące w zarządzie dotychczasowego „Polskiego Komitetu Normalizacyjnego” przechodzi w zarząd PKN.
 
 **Art. 28.** Z dniem wejścia w życie ustawy zaprzestaje się prowadzenia zbioru norm branżowych; istniejące zbiory zostaną zarchiwizowane przez PKN.
 

@@ -8,10 +8,10 @@ pos: 58
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 stycznia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 58 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 24 grudnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/58/text.pdf) |
 
-Poz. 58 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 24 grudnia 2019 r.
-w sprawie kontroli przestrzegania przepisów o czasie pracy i odpoczynku rybaków Na podstawie art. 50 ust. 10 ustawy z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. poz. 2197) zarządza się, co następuje: § 1. Rozporządzenie określa tryb przeprowadzania kontroli przestrzegania przepisów o czasie pracy i odpoczynku rybaków przez dyrektora urzędu morskiego.
+w sprawie kontroli przestrzegania przepisów o czasie pracy i odpoczynku rybaków Na podstawie art. 50 ust. 10 ustawy z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. poz. 2197) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb przeprowadzania kontroli przestrzegania przepisów o czasie pracy i odpoczynku rybaków przez dyrektora urzędu morskiego.
 § 2. 1. Przed podjęciem czynności kontrolnych przeprowadzający kontrolę, zwany dalej „kontrolującym”, zgłasza swoją obecność kapitanowi statku rybackiego.
 2. Przystępując do kontroli, kontrolujący okazuje kapitanowi statku rybackiego dokument identyfikacyjny, o którym mowa w art. 18 ust. 9 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 r. poz. 1452, 1702, 2197 i 2303), w sposób umożliwiający odczytanie i zanotowanie danych osobowych kontrolującego.
 § 3. 1. Ustalenia z kontroli są dokumentowane w formie protokołu w postaci papierowej.
@@ -43,7 +43,6 @@ w sprawie kontroli przestrzegania przepisów o czasie pracy i odpoczynku rybakó
 10) wyszczególnienie załączników, o których mowa w ust. 3;
 11) wzmiankę o wniesieniu lub niewniesieniu przez kapitana statku rybackiego zastrzeżeń, o których mowa w ust. 5, oraz o ewentualnym usunięciu stwierdzonych nieprawidłowości przez zakończeniem kontroli;
 12) datę i miejsce podpisania protokołu przez kontrolującego i kapitana statku rybackiego.
-Dziennik Ustaw – 2 – Poz. 58
 3. Do protokołu załącza się dokumenty i materiały dotyczące przestrzegania przepisów o czasie pracy i odpoczynku rybaków, stanowiące część protokołu.
 4. Protokół podpisuje kontrolujący oraz kapitan statku rybackiego.
 5. Kapitanowi statku rybackiego przysługuje prawo zgłoszenia zastrzeżeń do ustaleń zawartych w protokole, przed jego podpisaniem. Protokół zawiera pouczenie o możliwości zgłoszenia zastrzeżeń.

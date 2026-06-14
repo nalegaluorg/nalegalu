@@ -8,10 +8,10 @@ pos: 856
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 maja 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 856 ROZPORZĄDZENIE MINISTRA PRZEDSIĘBIORCZOŚCI I TECHNOLOGII z dnia 25 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000856) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/856/text.pdf) |
 
-Poz. 856 ROZPORZĄDZENIE MINISTRA PRZEDSIĘBIORCZOŚCI I TECHNOLOGII z dnia 25 kwietnia 2019 r.
-w sprawie listy innych ustrukturyzowanych dokumentów elektronicznych, które mogą być przesyłane za pośrednictwem platformy elektronicznego fakturowania służącej do przesyłania ustrukturyzowanych faktur elektronicznych oraz innych ustrukturyzowanych dokumentów elektronicznych Na podstawie art. 9 ust. 2 ustawy z dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym (Dz. U. poz. 2191) zarządza się, co następuje: § 1. Określa się listę innych ustrukturyzowanych dokumentów elektronicznych, które mogą być przesyłane za pośrednictwem platformy elektronicznego fakturowania służącej do przesyłania ustrukturyzowanych faktur elektronicznych oraz innych ustrukturyzowanych dokumentów elektronicznych związanych z realizacją zamówień publicznych, koncesji na roboty budowlane lub usługi oraz partnerstwa publiczno-prywatnego:
+w sprawie listy innych ustrukturyzowanych dokumentów elektronicznych, które mogą być przesyłane za pośrednictwem platformy elektronicznego fakturowania służącej do przesyłania ustrukturyzowanych faktur elektronicznych oraz innych ustrukturyzowanych dokumentów elektronicznych Na podstawie art. 9 ust. 2 ustawy z dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym (Dz. U. poz. 2191) zarządza się, co następuje:
+§ 1. Określa się listę innych ustrukturyzowanych dokumentów elektronicznych, które mogą być przesyłane za pośrednictwem platformy elektronicznego fakturowania służącej do przesyłania ustrukturyzowanych faktur elektronicznych oraz innych ustrukturyzowanych dokumentów elektronicznych związanych z realizacją zamówień publicznych, koncesji na roboty budowlane lub usługi oraz partnerstwa publiczno-prywatnego:
 1) zlecenie dostawy (zamówienie);
 2) awizo dostawy;
 3) potwierdzenie odbioru;

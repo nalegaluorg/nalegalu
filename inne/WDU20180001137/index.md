@@ -8,7 +8,7 @@ pos: 1137
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rejestracji jachtów i innych jednostek pływających o długości do 24 m
@@ -49,6 +49,24 @@ source: "isap-pdf"
 - **5)** statków o napędzie mechanicznym albo statków bez napędu mechanicznego przeznaczonych do przewozu na wodach śródlądowych nie więcej niż 12 pasażerów z jednego brzegu drogi wodnej na drugi brzeg (łodzi przewozowych).
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** jednostce pływającej – należy przez to rozumieć jacht oraz jednostkę pływającą używaną do połowu ryb;
+- **2)** jachcie – należy przez to rozumieć jacht rekreacyjny oraz jacht komercyjny, w tym skuter wodny, jednostkę pływającą używaną do celów mieszkalnych (houseboat) oraz drewnianą replikę statku historycznego;
+- **3)** jachcie rekreacyjnym – należy przez to rozumieć statek przeznaczony lub używany w żegludze morskiej lub w żegludze śródlądowej, wyłącznie do uprawiania sportu lub rekreacji, inny niż jacht komercyjny;
+- **4)** jachcie komercyjnym – należy przez to rozumieć statek przeznaczony lub używany w żegludze morskiej lub w żegludze śródlądowej, wyłącznie do uprawiania sportu lub rekreacji, w ramach prowadzenia działalności polegającej na: poz. 883) lub – rybołówstwa rekreacyjnego w rozumieniu art. 2 ust. 1 pkt 22 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim,
+    - **a)** odpłatnym przewozie osób,
+    - **b)** odpłatnym wykonywaniu rejsów szkoleniowych,
+    - **c)** odpłatnym udostępnianiu statku w celach: – amatorskiego połowu ryb w rozumieniu art. 7 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2022 r.
+    - **d)** odpłatnym udostępnianiu statku obsadzonego załogą,
+    - **e)** każdym innym odpłatnym wykorzystaniu lub udostępnianiu statku – o ile w ramach tej działalności nie jest używany do przewozu więcej niż 12 pasażerów;
+
+- **5)** jednostce pływającej używanej do połowu ryb – należy przez to rozumieć jednostkę pływającą używaną do amatorskiego połowu ryb oraz jednostkę pływającą używaną do połowów rybackich;
+- **6)** jednostce pływającej używanej do amatorskiego połowu ryb – należy przez to rozumieć statek używany do amatorskiego połowu ryb na wodach śródlądowych w rozumieniu art. 7 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym;
+- **7)** jednostce pływającej używanej do połowów rybackich – należy przez to rozumieć statek używany do połowu organizmów żyjących w wodzie, w tym ryb i raków, wykonywanego rybackimi narzędziami lub urządzeniami połowowymi na wodach śródlądowych, inny niż jednostka pływająca używana do amatorskiego połowu ryb;
+- **8)** organie rejestrującym – należy przez to rozumieć starostę albo właściwy polski związek sportowy w rozumieniu ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2023 r. poz. 2048 oraz z 2024 r. poz. 1166);
+- **9)** numerze identyfikacyjnym – należy przez to rozumieć numer identyfikacyjny jednostki pływającej nadany przez producenta i umieszczony na kadłubie tej jednostki zgodnie z przepisami wydanymi na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854 oraz z 2024 r. poz. 1089), w szczególności numer HIN (Hull Identification Number), numer CIN (Craft Identification Number), numer WIN (Watercraft Identification Number);
+- **10)** indywidualnym numerze identyfikacyjnym (INI) – należy przez to rozumieć numer nadawany jednostkom pływającym przez organ rejestrujący podczas pierwszej rejestracji w Rzeczypospolitej Polskiej, w przypadku gdy jednostka pływająca nie posiada numeru identyfikacyjnego;
+- **11)** długości – należy przez to rozumieć długość kadłuba jednostki pływającej mierzoną między skrajnymi punktami kadłuba na rufie i dziobie, z pominięciem części należących do wyposażenia kadłuba, w szczególności: steru, bukszprytu i odbojnic; w przypadku jachtu morskiego, gdy tak określona długość wynosi 24 m albo więcej, przez długość należy rozumieć 96 % całkowitej długości kadłuba mierzonej w płaszczyźnie wodnicy równoległej do płaszczyzny podstawowej na wysokości równej 85 % wysokości bocznej lub, jeżeli długość ta jest większa, długość mierzoną od przedniej krawędzi dziobnicy do osi trzonu sterowego w płaszczyźnie tej wodnicy.
 
 **Art. 3.**
 
@@ -198,6 +216,17 @@ source: "isap-pdf"
 
 **Art. 13.** Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw żeglugi śródlądowej i ministrem właściwym do spraw rybołówstwa określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb rejestracji, dokonywania zmian w rejestrze oraz wykreślania z rejestru, w tym:
+    - **a)** szczegółowy zakres informacji zawartych we wniosku o rejestrację, o których mowa w art. 6 ust. l pkt 2 lit. i oraz k,
+    - **b)** rodzaje dokumentów mogących być podstawą określenia danych, o których mowa w art. 6 ust. 1 pkt 2 lit. o i p,
+    - **c)** rodzaje dokumentów lub materiałów, o których mowa w art. 6 ust. 1 pkt 3, oraz przypadki, w których ich złożenie nie jest wymagane do dokonania rejestracji,
+
+- **2)** tryb wydawania wtórników dokumentu rejestracyjnego,
+- **3)** wzory zaświadczenia, o którym mowa w art. 9 ust. 2, i dokumentu rejestracyjnego,
+- **4)** sposób ustalania nazwy nadawanej jednostce pływającej,
+- **5)** sposób nadawania numeru rejestracyjnego i indywidualnego numeru identyfikacyjnego (INI)
+- **6)** (uchylony) – mając na uwadze potrzebę zapewnienia sprawnego przebiegu procesu rejestracji, a także zapewnienia bezpieczeństwa żeglugi, ochrony praw własności i sprawności przeprowadzanych akcji ratowniczych.
+
 **Art. 14.**
 
 1. Rejestr jest prowadzony w systemie teleinformatycznym.
@@ -338,6 +367,10 @@ source: "isap-pdf"
 **Art. 23.** (pominięty)
 
 **Art. 24.** Likwiduje się rejestry prowadzone przed dniem wejścia w życie niniejszej ustawy na podstawie:
+
+- **1)** art. 20 ust. 3 ustawy zmienianej w art. 20 ;
+- **2)** art. 19 ust. 2 ustawy zmienianej w art. 21 ;
+- **3)** art. 23 § 3 ustawy zmienianej w art. 22 .
 
 **Art. 25.** Tworzy się rejestr jachtów i innych jednostek pływających o długości do 24 m.
 

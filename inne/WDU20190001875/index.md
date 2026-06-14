@@ -8,10 +8,10 @@ pos: 1875
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 października 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1875 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 16 września 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1875/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 16 września 2019 r.
-w sprawie zwolnień z ograniczeń operacyjnych Na podstawie art. 71d ust. 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie zwolnień z ograniczeń operacyjnych Na podstawie art. 71d ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wykaz państw, z których przewoźnicy lotniczy mogą ubiegać się o uzyskanie zwolnienia, o którym mowa w art. 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 598/2014 z dnia 16 kwietnia 2014 r. w sprawie ustanowienia zasad i procedur w odniesieniu do wprowadzenia ograniczeń operacyjnych odnoszących się do poziomu hałasu w portach lotniczych Unii w ramach zrównoważonego podejścia oraz uchylającego dyrektywę 2002/30/WE (Dz. Urz.
 UE L 173 z 12.06.2014, str. 65), zwanego dalej „rozporządzeniem nr 598/2014/UE”;
 2) szczegółowe warunki uzyskania zwolnień, o których mowa w art. 9 i art. 10 rozporządzenia nr 598/2014/UE;
@@ -41,7 +41,7 @@ UE L 173 z 12.06.2014, str. 65), zwanego dalej „rozporządzeniem nr 598/2014/U
 2. Do wniosku o wydanie zwolnienia dla kraju rozwijającego się dołącza się:
 1) kopię aktualnego świadectwa zdatności do lotu;
 2) kopię aktualnego świadectwa zdatności w zakresie hałasu;
-3) kopię aktualnego certyfikatu przewoźnika lotniczego (AOC Air Operator Certificate);
+3) kopię aktualnego certyfikatu przewoźnika lotniczego (AOC – Air Operator Certificate);
 4) dowód eksploatacji statku powietrznego na terytorium Unii Europejskiej przez okres 5 lat poprzedzających dzień wejścia w życie rozporządzenia nr 598/2014/UE;
 5) dowód zarejestrowania statku powietrznego w kraju rozwijającym się przez okres, o którym mowa w pkt 4;
 6) dowód eksploatacji statku powietrznego przez osobę fizyczną lub prawną zamieszkałą lub mającą siedzibę w kraju rozwijającym się.
@@ -83,6 +83,7 @@ Minister Infrastruktury: wz. A. Bittel WYKAZ PAŃSTW, Z KTÓRYCH PRZEWOŹNICY LO
 28. Republika Burundi
 29. Republika Czadu
 30. Republika Dżibuti
+31. Republika Filipin
 32. Republika Gambii
 33. Republika Ghany
 34. Republika Gwinei
@@ -118,6 +119,7 @@ Minister Infrastruktury: wz. A. Bittel WYKAZ PAŃSTW, Z KTÓRYCH PRZEWOŹNICY LO
 64. Republika Tunezyjska
 65. Republika Ugandy
 66. Republika Uzbekistanu
+67. Republika Vanuatu
 68. Republika Wybrzeża Kości Słoniowej
 69. Republika Zambii
 70. Republika Zielonego Przylądka

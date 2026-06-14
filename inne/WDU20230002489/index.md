@@ -8,10 +8,10 @@ pos: 2489
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 listopada 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2489 OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 7 listopada 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002489) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2489/text.pdf) |
 
-OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 7 listopada 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych (Dz. U. poz. 1863), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 18 sierpnia 2009 r. zmieniającym rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych (Dz. U. poz. 1162);
@@ -45,22 +44,23 @@ b) dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/2203 z dnia 25 listopada
 a) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1332/2008 z dnia 16 grudnia 2008 r. w sprawie enzymów spożywczych, zmieniającego dyrektywę Rady 83/417/EWG, rozporządzenie Rady (WE) nr 1493/1999, dyrektywę 2000/13/WE, dyrektywę Rady 2001/112/WE oraz rozporządzenie (WE) nr 258/97 (Dz. Urz. UE L 354 z 31.12.2008, str. 7, z późn. zm.),
 b) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. w sprawie dodatków do żywności (Dz. Urz. UE L 354 z 31.12.2008, str. 16, z późn. zm.).” „§ 2. Rozporządzenie wchodzi w życie z dniem 22 grudnia 2016 r.”.
 Minister Rolnictwa i Rozwoju Wsi: R. Telus ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 29 lipca 2004 r.
-w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych Na podstawie art. 15 pkt 2 i art. 34 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980) zarządza się, co następuje: § 1. 1. Szczegółowe wymagania w zakresie jakości handlowej kazein spożywczych i kazeinianów spożywczych są określone w załączniku nr 1 do rozporządzenia.
+w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych Na podstawie art. 15 pkt 2 i art. 34 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980) zarządza się, co następuje:
+§ 1. 1. Szczegółowe wymagania w zakresie jakości handlowej kazein spożywczych i kazeinianów spożywczych są określone w załączniku nr 1 do rozporządzenia.
 2. Metody analiz kazein spożywczych i kazeinianów spożywczych są określone w załączniku nr 2 do rozporządzenia.
 § 2. (uchylony).
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 SZCZEGÓŁOWE WYMAGANIA W ZAKRESIE JAKOŚCI HANDLOWEJ KAZEIN SPOŻYWCZYCH I KAZEINIANÓW SPOŻYWCZYCH
 1. Kazeina kwasowa spożywcza jest przetworem mlecznym otrzymywanym w drodze oddzielenia, płukania i suszenia wytrąconego kwasem koagulatu odtłuszczonego mleka lub innych przetworów otrzymanych z mleka.
 2. Kazeina kwasowa spożywcza powinna spełniać następujące szczegółowe wymagania w zakresie jakości handlowej:
-1) zawartość wody nie więcej niż 12% (m/m);
-2) zawartość białek mleka w suchej masie nie mniej niż 90% (m/m), w tym nie mniej niż 95% (m/m) kazeiny;
-3) zawartość tłuszczu mlecznego nie więcej niż 2% (m/m);
-4) kwasowość miareczkowa nie więcej niż 0,27 ml roztworu wodorotlenku sodu (0,1 N) na gram;
-5) zawartość popiołu, łącznie z P O nie więcej niż 2,5% (m/m);
-6) zawartość laktozy bezwodnej nie więcej niż 1% (m/m);
-7) zawartość osadu (cząstek przypalonych) nie więcej niż 22,5 mg w 25 g;
-8) zawartość ołowiu nie więcej niż 0,75 mg/kg;
-9) ciała obce, w tym cząstki drewna, metalu, sierści lub części owadów nieobecne w 25 g;
+1) zawartość wody – nie więcej niż 12% (m/m);
+2) zawartość białek mleka w suchej masie – nie mniej niż 90% (m/m), w tym nie mniej niż 95% (m/m) kazeiny;
+3) zawartość tłuszczu mlecznego – nie więcej niż 2% (m/m);
+4) kwasowość miareczkowa – nie więcej niż 0,27 ml roztworu wodorotlenku sodu (0,1 N) na gram;
+5) zawartość popiołu, łącznie z P O – nie więcej niż 2,5% (m/m);
+6) zawartość laktozy bezwodnej – nie więcej niż 1% (m/m);
+7) zawartość osadu (cząstek przypalonych) – nie więcej niż 22,5 mg w 25 g;
+8) zawartość ołowiu – nie więcej niż 0,75 mg/kg;
+9) ciała obce, w tym cząstki drewna, metalu, sierści lub części owadów – nieobecne w 25 g;
 10) substancje pomocnicze w przetwórstwie, kultury bakterii i dozwolone składniki:
 a) kwasy: mlekowy, chlorowodorowy, siarkowy, cytrynowy, octowy, ortofosforowy,
 b) kultury bakterii wytwarzające kwas mlekowy,
@@ -70,30 +70,30 @@ c) serwatka;
 13) nieobecne grudki, które nie ulegają rozsypaniu przy lekkim nacisku.
 3. Kazeina podpuszczkowa spożywcza jest przetworem mlecznym otrzymywanym w drodze oddzielenia, płukania i suszenia koagulatu odtłuszczonego mleka lub innych przetworów otrzymanych z mleka, który to koagulat otrzymuje się w wyniku działania podpuszczki lub innych enzymów koagulujących.
 4. Kazeina podpuszczkowa spożywcza powinna spełniać następujące szczegółowe wymagania w zakresie jakości handlowej:
-1) zawartość wody nie więcej niż 12% (m/m);
-2) zawartość białek mleka w suchej masie nie mniej niż 84% (m/m), w tym nie mniej niż 95% (m/m) kazeiny;
-3) zawartość tłuszczu mlecznego nie więcej niż 2% (m/m);
-4) zawartość popiołu, łącznie z P O nie mniej niż 7,5% (m/m);
-5) zawartość laktozy bezwodnej nie więcej niż 1% (m/m);
-6) zawartość osadu (cząstek przypalonych) nie więcej niż 15 mg w 25 g;
-7) zawartość ołowiu nie więcej niż 0,75 mg/kg;
-8) ciała obce, w tym cząstki drewna, metalu, sierści lub części owadów nieobecne w 25 g;
+1) zawartość wody – nie więcej niż 12% (m/m);
+2) zawartość białek mleka w suchej masie – nie mniej niż 84% (m/m), w tym nie mniej niż 95% (m/m) kazeiny;
+3) zawartość tłuszczu mlecznego – nie więcej niż 2% (m/m);
+4) zawartość popiołu, łącznie z P O – nie mniej niż 7,5% (m/m);
+5) zawartość laktozy bezwodnej – nie więcej niż 1% (m/m);
+6) zawartość osadu (cząstek przypalonych) – nie więcej niż 15 mg w 25 g;
+7) zawartość ołowiu – nie więcej niż 0,75 mg/kg;
+8) ciała obce, w tym cząstki drewna, metalu, sierści lub części owadów – nieobecne w 25 g;
 9) substancje pomocnicze w przetwórstwie:
 a) podpuszczka,
-b) inne enzymy koagulujące mleko spełniające wymagania określone w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1332/2008 z dnia 16 grudnia 2008 r. w sprawie enzymów spożywczych, zmieniającym dyrektywę Rady 83/417/EWG, rozporządzenie Rady (WE) nr 1493/1999, dyrektywę 2000/13/WE, dyrektywę Rady 2001/112/WE oraz rozporządzenie (WE) nr 258/97 (Dz. Urz. UE L 354 z 31.12.2008, str. 7, z późn. zm. );
+b) inne enzymy koagulujące mleko – spełniające wymagania określone w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1332/2008 z dnia 16 grudnia 2008 r. w sprawie enzymów spożywczych, zmieniającym dyrektywę Rady 83/417/EWG, rozporządzenie Rady (WE) nr 1493/1999, dyrektywę 2000/13/WE, dyrektywę Rady 2001/112/WE oraz rozporządzenie (WE) nr 258/97 (Dz. Urz. UE L 354 z 31.12.2008, str. 7, z późn. zm. );
 10) nieobecne obce zapachy;
 11) barwa biała do kremowej;
 12) nieobecne grudki, które nie ulegają rozsypaniu przy lekkim nacisku.
 5. Kazeiniany spożywcze są przetworami mlecznymi otrzymywanymi w drodze poddania kazeiny spożywczej lub ziaren koagulatu kazeiny spożywczej działaniu czynników neutralizujących, po którym następuje suszenie.
 6. Kazeiniany spożywcze powinny spełniać następujące szczegółowe wymagania w zakresie jakości handlowej:
-1) zawartość wody nie więcej niż 8% (m/m);
-2) zawartość białek mleka w suchej masie nie mniej niż 88% (m/m), w tym nie mniej niż 95% (m/m) kazeiny;
-3) zawartość tłuszczu mlecznego nie więcej niż 2% (m/m);
-4) zawartość laktozy bezwodnej nie więcej niż 1% (m/m);
-5) wartość pH od 6,0 do 8,0;
-6) zawartość osadu (cząstek przypalonych) nie więcej niż 22,5 mg w 25 g;
-7) zawartość ołowiu nie więcej niż 0,75 mg/kg;
-8) ciała obce, w tym cząstki drewna, metalu, sierści lub części owadów nieobecne w 25 g;
+1) zawartość wody – nie więcej niż 8% (m/m);
+2) zawartość białek mleka w suchej masie – nie mniej niż 88% (m/m), w tym nie mniej niż 95% (m/m) kazeiny;
+3) zawartość tłuszczu mlecznego – nie więcej niż 2% (m/m);
+4) zawartość laktozy bezwodnej – nie więcej niż 1% (m/m);
+5) wartość pH – od 6,0 do 8,0;
+6) zawartość osadu (cząstek przypalonych) – nie więcej niż 22,5 mg w 25 g;
+7) zawartość ołowiu – nie więcej niż 0,75 mg/kg;
+8) ciała obce, w tym cząstki drewna, metalu, sierści lub części owadów – nieobecne w 25 g;
 9) dodatki do żywności (fakultatywne czynniki neutralizujące i czynniki buforujące): wodorotlenki, węglany, fosforany lub cytryniany sodu, potasu, wapnia, amonu lub magnezu;
 10) dopuszczalne bardzo słabe obce posmaki i zapachy;
 11) barwa biała do kremowej;
@@ -132,7 +132,7 @@ II. Metoda oznaczania zawartości wody w kazeinach spożywczych i kazeinianach s
 jeżeli nastąpi wzrost masy, w obliczeniach uwzględnia się najniższą uzyskaną masę;
 9) przyjętą masę odnotowuje się jako m ;
 10) łączny czas suszenia nie powinien przekraczać sześciu godzin.
-5. Zawartość wody w próbce oblicza się według wzoru: 𝑚 −𝑚 𝑚 −𝑚 ×100 gdzie: m oznacza masę naczynka wagowego wraz z wieczkiem, w gramach, m oznacza masę naczynka wagowego wraz z wieczkiem oraz próbką przed suszeniem, w gramach, m oznacza masę naczynka wagowego wraz z wieczkiem oraz próbką po suszeniu, w gramach i wyraża się jako ułamek masowy w procentach, z dokładnością do 0,01%.
+5. Zawartość wody w próbce oblicza się według wzoru: 𝑚 −𝑚 ×100 𝑚 −𝑚 gdzie: m – oznacza masę naczynka wagowego wraz z wieczkiem, w gramach, m – oznacza masę naczynka wagowego wraz z wieczkiem oraz próbką przed suszeniem, w gramach, m – oznacza masę naczynka wagowego wraz z wieczkiem oraz próbką po suszeniu, w gramach – i wyraża się jako ułamek masowy w procentach, z dokładnością do 0,01%.
 6. Powtarzalność dla metody:
 1) różnica pomiędzy wynikami dwóch oznaczań przeprowadzonych równolegle albo w krótkich odstępach czasu na tej samej próbce, przez tego samego analityka i w tych samych warunkach nie powinna przekraczać 0,1 g wody na 100 g produktu;
 2) odstęp czasu między następującymi po sobie oznaczaniami dla określenia powtarzalności nie powinien przekraczać 95% czasu potrzebnego do prawidłowego wykonania analizy laboratoryjnej.
@@ -194,7 +194,7 @@ b) świeżo wyprażonych kawałków pumeksu do destylacji.
 17) na około 2 minuty przed zakończeniem destylacji obniża się kolbę stożkową tak, aby końcówka rurki odpływowej nie pozostawała zanurzona w roztworze kwasu, po czym opłukuje się końcówkę rurki niewielką ilością wody;
 18) po zakończeniu ogrzewania rurkę odpływową zdejmuje się oraz opłukuje się jej ścianki od wewnątrz i od zewnątrz niewielką ilością wody, zbierając popłuczyny w kolbie stożkowej;
 19) destylat miareczkuje się w kolbie stożkowej przy użyciu biurety, stosując standardowy roztwór kwasu chlorowodorowego.
-9. Zawartość białka w próbce oblicza się według wzoru: (𝑉 −𝑉 )×𝑇×14×100×6,38 8,932(𝑉 = 𝑚×1000 −𝑉 )×𝑇 𝑚 gdzie: V oznacza objętość stosowanego w oznaczaniu standardowego roztworu kwasu chlorowodorowego, w mililitrach, V oznacza objętość stosowanego w próbie ślepej standardowego roztworu kwasu chlorowodorowego, w mililitrach, T oznacza stężenie standardowego roztworu kwasu chlorowodorowego, w mol/l, m oznacza masę próbki analitycznej, w gramach i wyraża się jako ułamek masowy w procentach, z dokładnością do 0,1%.
+9. Zawartość białka w próbce oblicza się według wzoru: (𝑉 −𝑉 )×𝑇×14×100×6,38 8,932(𝑉 −𝑉 )×𝑇 = 𝑚×1000 𝑚 gdzie: V – oznacza objętość stosowanego w oznaczaniu standardowego roztworu kwasu chlorowodorowego, w mililitrach, V – oznacza objętość stosowanego w próbie ślepej standardowego roztworu kwasu chlorowodorowego, w mililitrach, T – oznacza stężenie standardowego roztworu kwasu chlorowodorowego, w mol/l, m – oznacza masę próbki analitycznej, w gramach – i wyraża się jako ułamek masowy w procentach, z dokładnością do 0,1%.
 10. Powtarzalność dla metody:
 1) różnica pomiędzy wynikami dwóch oznaczań przeprowadzonych równolegle albo w krótkich odstępach czasu na tej samej próbce, przez tego samego analityka i w tych samych warunkach nie powinna przekraczać 0,5 g białka na 100 g produktu;
 2) odstęp czasu między następującymi po sobie oznaczaniami dla określenia powtarzalności nie powinien przekraczać 95% czasu potrzebnego do prawidłowego wykonania analizy laboratoryjnej.
@@ -221,7 +221,7 @@ IV. Metoda oznaczania zawartości popiołu, łącznie z P O , w kazeinach podpus
 6) wstępnie schłodzony tygiel umieszcza się w eksykatorze w temperaturze pokoju wagowego, a następnie waży się z dokładnością do 0,1 mg;
 7) czynność prażenia tygla w piecu elektrycznym powtarza się przez 30 minut, schładzając i ważąc do czasu, aż masa pozostanie niezmieniona w granicach 1 mg lub zacznie wzrastać;
 8) do obliczeń przyjmuje się najniższą uzyskaną masę.
-5. Zawartość popiołu w próbce, łącznie z P O , oblicza się według wzoru: 𝑚 −𝑚 𝑚 ×100 gdzie: m oznacza masę próbki analitycznej, w gramach, m oznacza masę tygla wraz z pozostałością, w gramach, m oznacza masę przygotowanego tygla, w gramach i wyraża się jako ułamek masowy w procentach z dokładnością do 0,01%.
+5. Zawartość popiołu w próbce, łącznie z P O , oblicza się według wzoru: 𝑚 −𝑚 ×100 𝑚 gdzie: m – oznacza masę próbki analitycznej, w gramach, m – oznacza masę tygla wraz z pozostałością, w gramach, m – oznacza masę przygotowanego tygla, w gramach – i wyraża się jako ułamek masowy w procentach z dokładnością do 0,01%.
 6. Powtarzalność dla metody:
 1) różnica pomiędzy wynikami dwóch oznaczań przeprowadzonych równolegle albo w krótkich odstępach czasu na tej samej próbce, przez tego samego analityka i tych samych warunkach nie powinna przekraczać 0,15 g popiołu na 100 g produktu;
 2) odstęp czasu między następującymi po sobie oznaczaniami dla określenia powtarzalności nie powinien przekraczać 95% czasu potrzebnego do prawidłowego wykonania analizy laboratoryjnej.
@@ -231,7 +231,7 @@ IV. Metoda oznaczania zawartości popiołu, łącznie z P O , w kazeinach podpus
 3) wszystkie czynności niewymienione w metodzie lub uznane za nieobowiązkowe, łącznie ze szczegółami każdej okoliczności, która mogła wpłynąć na wyniki oznaczania;
 4) informacje niezbędne do pełnego zidentyfikowania próbki.
 8. Wynik zamieszczony w protokole analizy laboratoryjnej jest wartością średnią, uzyskaną z dwóch oznaczań spełniających kryterium powtarzalności dla tej metody.
-V. Metoda oznaczania kwasowości miareczkowej w kazeinach kwasowych spożywczych Kwasowość miareczkową w kazeinach kwasowych spożywczych oznacza się zgodnie z metodą określoną w normie PN-A-86361-7:1999 Mleko i przetwory mleczne Kazeina kwasowa i kazeiniany; metody badań Oznaczanie kwasowości wolnej.
-VI. Metoda oznaczania zawartości popiołu, łącznie z P O , w kazeinach kwasowych spożywczych Zawartość popiołu, łącznie z P O , w kazeinach kwasowych spożywczych oznacza się zgodnie z metodą określoną w normie PN-A-86361-6:1999 Mleko i przetwory mleczne Kazeina kwasowa i kazeiniany; metody badań Oznaczanie zawartości popiołu związanego.
-VII. Metoda oznaczania pH w kazeinianach spożywczych pH w kazeinianach spożywczych oznacza się zgodnie z metodą określoną w normie PN-A-86361-9:1999 Mleko i przetwory mleczne Kazeina kwasowa i kazeiniany; metody badań Oznaczanie pH.
+V. Metoda oznaczania kwasowości miareczkowej w kazeinach kwasowych spożywczych Kwasowość miareczkową w kazeinach kwasowych spożywczych oznacza się zgodnie z metodą określoną w normie PN-A-86361-7:1999 Mleko i przetwory mleczne – Kazeina kwasowa i kazeiniany; metody badań – Oznaczanie kwasowości wolnej.
+VI. Metoda oznaczania zawartości popiołu, łącznie z P O , w kazeinach kwasowych spożywczych Zawartość popiołu, łącznie z P O , w kazeinach kwasowych spożywczych oznacza się zgodnie z metodą określoną w normie PN-A-86361-6:1999 Mleko i przetwory mleczne – Kazeina kwasowa i kazeiniany; metody badań – Oznaczanie zawartości popiołu związanego.
+VII. Metoda oznaczania pH w kazeinianach spożywczych pH w kazeinianach spożywczych oznacza się zgodnie z metodą określoną w normie PN-A-86361-9:1999 Mleko i przetwory mleczne – Kazeina kwasowa i kazeiniany; metody badań – Oznaczanie pH.
 

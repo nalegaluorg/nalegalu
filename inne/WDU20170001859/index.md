@@ -8,10 +8,10 @@ pos: 1859
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 października 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1859 ZMIENIONY ZałącZNIk II do Protokołu o ochronie środowiska do Układu w sprawie antarktyki, sporządzonego w Madrycie dnia 4 października 1991 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,5 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001859) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1859/text.pdf) |
 
-ZMIENIONY ZałącZNIk II do Protokołu o ochronie środowiska do Układu w sprawie antarktyki, sporządzonego w Madrycie dnia 4 października 1991 r.
 Przekład
 

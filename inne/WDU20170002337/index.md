@@ -8,10 +8,10 @@ pos: 2337
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 grudnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2337 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 5 grudnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2337/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 5 grudnia 2017 r.
-w sprawie wzoru wniosku o dopuszczenie do obrotu surowca farmaceutycznego do sporządzania leków recepturowych w postaci ziela konopi innych niż włókniste oraz wyciągów, nalewek farmaceutycznych, a także wszystkich innych wyciągów z konopi innych niż włókniste oraz żywicy konopi innych niż włókniste oraz szczegółowego zakresu danych i wykazu dokumentów objętych tym wnioskiem Na podstawie art. 33c ust. 3 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2017 r. poz. 783 i 1458) zarządza się, co następuje: § 1. Wzór wniosku o dopuszczenie do obrotu surowca farmaceutycznego do sporządzania leków recepturowych w postaci ziela konopi innych niż włókniste oraz wyciągów, nalewek farmaceutycznych, a także wszystkich innych wyciągów z konopi innych niż włókniste oraz żywicy konopi innych niż włókniste jest określony w załączniku nr 1 do rozporządzenia.
+w sprawie wzoru wniosku o dopuszczenie do obrotu surowca farmaceutycznego do sporządzania leków recepturowych w postaci ziela konopi innych niż włókniste oraz wyciągów, nalewek farmaceutycznych, a także wszystkich innych wyciągów z konopi innych niż włókniste oraz żywicy konopi innych niż włókniste oraz szczegółowego zakresu danych i wykazu dokumentów objętych tym wnioskiem Na podstawie art. 33c ust. 3 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2017 r. poz. 783 i 1458) zarządza się, co następuje:
+§ 1. Wzór wniosku o dopuszczenie do obrotu surowca farmaceutycznego do sporządzania leków recepturowych w postaci ziela konopi innych niż włókniste oraz wyciągów, nalewek farmaceutycznych, a także wszystkich innych wyciągów z konopi innych niż włókniste oraz żywicy konopi innych niż włókniste jest określony w załączniku nr 1 do rozporządzenia.
 § 2. Szczegółowy zakres danych i wykaz dokumentów objętych wnioskiem, o którym mowa w § 1, jest określony w załączniku nr 2 do rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: K. Radziwiłł Numer wniosku: Data złożenia wniosku (rrrr-mm-dd): Podpis i pieczęć pracownika: OŚWIADCZENIE I PODPIS: Nazwa (własna) surowca farmaceutycznego: Nazwa substancji czynnej/substancji czynnych: Deklarowana zawartość delta-9-tetrahydrokannabinolu (THC) oraz kannabidiolu (CBD): Podmiot odpowiedzialny: Adres: Osoba upoważniona przez podmiot odpowiedzialny do kontaktów*: Tytuł: Imię: Nazwisko: Niniejszym oświadczam, że dokumentacja zawiera wszystkie istniejące dane dotyczące jakości surowca farmaceutycznego, zgodnie ze stosownymi wymaganiami.
-Niniejszym oświadczam, że opłata za złożenie wniosku została wniesiona zgodnie z przepisami art. 36 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne**.
-W imieniu podmiotu odpowiedzialnego: ___________________________________________ (podpis) WZÓR WNIOSEK O DOPUSZCZENIE DO OBROTU SUROWCA FARMACEUTYCZNEGO DO SPORZĄDZANIA LEKÓW RECEPTUROWYCH W POSTACI ZIELA KONOPI INNYCH NIŻ WŁÓKNISTE ORAZ WYCIĄGÓW, NALEWEK FARMACEUTYCZNYCH, A TAKŻE WSZYSTKICH INNYCH WYCIĄGÓW Z KONOPI INNYCH NIŻ WŁÓKNISTE ORAZ ŻYWICY KONOPI INNYCH NIŻ WŁÓKNISTE ___________________________________________ ( imię i nazwisko ) *** ___________________________________________ (stanowisko)*** _________________________________________ (e-mail)*** __________________ _________________________ (miejscowość) (data (rrrr-mm-dd)) * Należy dołączyć pełnomocnictwo do występowania w imieniu podmiotu odpowiedzialnego (załącznik 2.3.).
+Minister Zdrowia: K. Radziwiłł Załączniki do rozporządzenia Ministra Zdrowia z dnia 5 grudnia 2017 r. (poz…..) Załącznik nr 1 WZÓR WNIOSEK O DOPUSZCZENIE DO OBROTU SUROWCA FARMACEUTYCZNEGO DO SPORZĄDZANIA LEKÓW RECEPTUROWYCH W POSTACI ZIELA KONOPI INNYCH NIŻ WŁÓKNISTE ORAZ WZÓR WYCIĄGÓW, NALEWEK FARMACEUTYCZNYCH, A TAKŻE WSZYSTKICH INNYCH WYCIĄGÓW WNIOSEK Z KONOPI O DOPUSZCZENIE INNYCH DO NIŻ OBROTU WŁÓKNISTE SUROWCA ORAZ FARMACEUTYCZNEGO ŻYWICY KONOPI DO SPORZĄDZANIA INNYCH NIŻ LEKÓW RECEPTUROWYCH W POSTACI ZIELA WŁÓKNISTE KONOPI INNYCH NIŻ WŁÓKNISTE ORAZ WYCIĄGÓW, NALEWEK FARMACEUTYCZNYCH, A TAKŻE WSZYSTKICH INNYCH WYCIĄGÓW Z KONOPI INNYCH NIŻ WŁÓKNISTE ORAZ ŻYWICY KONOPI INNYCH NIŻ WŁÓKNISTE Numer wniosku: Data złożenia wniosku (rrrr-mm-dd): Podpis i pieczęć pracownika: OŚWIADCZENIE I PODPIS: Nazwa (własna) surowca farmaceutycznego: Nazwa substancji czynnej/substancji czynnych: Deklarowana zawartość delta-9-tetrahydrokannabinolu (THC) oraz kannabidiolu (CBD): Podmiot odpowiedzialny: Adres: Osoba upoważniona przez podmiot odpowiedzialny do kontaktów*: Tytuł: Imię: Nazwisko: Niniejszym oświadczam, że dokumentacja zawiera wszystkie istniejące dane dotyczące jakości surowca farmaceutycznego, zgodnie ze stosownymi wymaganiami.
+Niniejszym oświadczam, że opłata za złożenie wniosku została wniesiona zgodnie z przepisami art. 36 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne**.
+W imieniu podmiotu odpowiedzialnego: ___________________________________________ (podpis) ___________________________________________ ( imię i nazwisko ) *** ___________________________________________ (stanowisko)*** _________________________________________ (e-mail)*** __________________ _________________________ (miejscowość) (data (rrrr-mm-dd)) * Należy dołączyć pełnomocnictwo do występowania w imieniu podmiotu odpowiedzialnego (załącznik 2.3.).
 ** Należy dołączyć potwierdzenie wniesienia opłaty za złożenie wniosku (załącznik 2.1.).
 *** Dane tej osoby są danymi o charakterze służbowym.
 1. DANE SZCZEGÓŁOWE
@@ -89,19 +89,19 @@ poz. 2134) oraz w art. 14a ustawy?
 2.9. Dla każdej substancji czynnej : oświadczenie osoby wykwalifikowanej podmiotu posiadającego zezwolenie, o którym mowa w art. 38 ust. 1 ustawy, oraz od osoby wykwalifikowanej każdego z podmiotów posiadających takie zezwolenie na terytorium państwa członkowskiego, u których substancja czynna jest stosowana jako materiał wyjściowy, że substancja czynna jest wytwarzana zgodnie z wymaganiami Dobrej Praktyki Wytwarzania dla materiałów wyjściowych.
 Zamiennie może być przedstawione oświadczenie od jednej osoby wykwalifikowanej w imieniu pozostałych osób wykwalifikowanych biorących udział w procesie wytwarzania. Deklaracja zawiera informacje o audycie u wytwórcy substancji czynnej i dacie jego przeprowadzenia.
 Zastosowane terminy i skróty
-1) EudraGMDP Europejska baza dotycząca zezwoleń na wytwarzanie i zezwoleń na import produktów leczniczych oraz certyfikatów potwierdzających zgodność warunków wytwarzania z wymaganiami Dobrej Praktyki Wytwarzania (GMP);
-2) GMP Dobra Praktyka Wytwarzania (Good Manufacturing Practice);
-3) państwo członkowskie państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym (EOG);
-4) Standard Terms wydawnictwo przygotowane przez Komisję Farmakopei Europejskiej działającą w ramach EDQM, zawierające nazewnictwo postaci farmaceutycznych, dróg podania i opakowań produktów leczniczych;
-5) ustawa ustawa z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2017 r.
+1) EudraGMDP – Europejska baza dotycząca zezwoleń na wytwarzanie i zezwoleń na import produktów leczniczych oraz certyfikatów potwierdzających zgodność warunków wytwarzania z wymaganiami Dobrej Praktyki Wytwarzania (GMP);
+2) GMP – Dobra Praktyka Wytwarzania (Good Manufacturing Practice);
+3) państwo członkowskie – państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym (EOG);
+4) Standard Terms – wydawnictwo przygotowane przez Komisję Farmakopei Europejskiej działającą w ramach EDQM, zawierające nazewnictwo postaci farmaceutycznych, dróg podania i opakowań produktów leczniczych;
+5) ustawa – ustawa z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r.
 poz. 2211).
 SZCZEGÓŁOWY ZAKRES DANYCH I WYKAZ DOKUMENTÓW OBjęTYCH WNIOSKIEM O DOPUSZCZENIE DO OBROTU SUROWCA FARMACEUTYCZNEGO DO SPORZĄDZANIA LEKÓW RECEPTUROWYCH W POSTACI ZIELA KONOPI INNYCH NIŻ WŁÓKNISTE ORAZ WYCIĄGÓW, NALEWEK FARMACEUTYCZNYCH, A TAKŻE WSZYSTKICH INNYCH WYCIĄGÓW Z KONOPI INNYCH NIŻ WŁÓKNISTE ORAZ ŻYWICY KONOPI INNYCH NIŻ WŁÓKNISTE (Dokumenty objęte wnioskiem oraz dokumenty zawierające szczegółowy zakres danych objętych wnioskiem mogą być przedstawione w języku angielskim, z wyjątkiem wzoru oznakowania opakowania bezpośredniego w formie opisowej, który przedstawia się w języku polskim.) I. Do wniosku o dopuszczenie do obrotu surowca farmaceutycznego do sporządzania leków recepturowych w postaci ziela konopi innych niż włókniste oraz wyciągów, nalewek farmaceutycznych, a także wszystkich innych wyciągów z konopi innych niż włókniste oraz żywicy konopi innych niż włókniste dołącza się:
 1) pismo przewodnie;
 2) szczegółowy wykaz przedstawionych dokumentów;
 3) potwierdzenie uiszczenia opłaty za złożenie wniosku;
-4) potwierdzenie posiadania siedziby przez podmiot odpowiedzialny na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym (EOG), zwanego dalej „państwem członkowskim”;
+4) potwierdzenie posiadania siedziby przez podmiot odpowiedzialny na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym (EOG), zwanego dalej „państwem członkowskim”;
 5) pełnomocnictwo do występowania w imieniu podmiotu odpowiedzialnego, jeżeli dotyczy;
-6) kopię zezwolenia, o którym mowa w art. 38 ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211), zwanej dalej „ustawą”;
+6) kopię zezwolenia, o którym mowa w art. 38 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211), zwanej dalej „ustawą”;
 7) schemat blokowy wskazujący etapy i czynności w poszczególnych miejscach wytwarzania surowca farmaceutycznego i substancji czynnej, w tym w zakresie kontroli serii;
 8) aktualny certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania, o którym mowa w art. 46 ust. 8 ustawy, lub raport z przeprowadzonej inspekcji w zakresie spełniania wymagań Dobrej Praktyki Wytwarzania, o którym mowa w art. 46 ust. 2 ustawy, jeżeli dotyczy;
 9) kopię pisemnego oświadczenia wytwórcy substancji czynnej, że zobowiązuje się do informowania podmiotu odpowiedzialnego w przypadku jakichkolwiek zmian w procesie wytwarzania lub specyfikacji;
@@ -110,7 +110,7 @@ SZCZEGÓŁOWY ZAKRES DANYCH I WYKAZ DOKUMENTÓW OBjęTYCH WNIOSKIEM O DOPUSZCZEN
 12) wzór oznakowania opakowania bezpośredniego w formie opisowej.
 II. Szczegółowy zakres danych objętych wnioskiem o dopuszczenie do obrotu surowca farmaceutycznego do sporządzania leków recepturowych w postaci ziela konopi innych niż włókniste oraz wyciągów, nalewek farmaceutycznych, a także wszystkich innych wyciągów z konopi innych niż włókniste oraz żywicy konopi innych niż włókniste: A. w odniesieniu do substancji czynnej/substancji czynnych szczegółowe dane obejmują:
 1) w zakresie informacji ogólnych:
-a) nazewnictwo (dla substancji roślinnej: binominalną nazwę naukową rośliny (rodzaj, gatunek, odmianę i autora) oraz chemotyp (jeżeli dotyczy), części roślin/roślin, definicję substancji roślinnej; dla przetworu roślinnego: binominalną nazwę naukową rośliny (rodzaj, gatunek, odmianę, autora) i chemotyp (jeżeli dotyczy), części rośliny/roślin, definicję przetworu roślinnego, inne nazwy substancji roślinnej/przetworu roślinnego, stosunek ilości użytej substancji roślinnej do ilości otrzymanego przetworu roślinnego (Drug Extract Ratio (DER)),
+a) nazewnictwo (dla substancji roślinnej: binominalną nazwę naukową rośliny (rodzaj, gatunek, odmianę i autora) oraz chemotyp (jeżeli dotyczy), części roślin/roślin, definicję substancji roślinnej; dla przetworu roślinnego: binominalną nazwę naukową rośliny (rodzaj, gatunek, odmianę, autora) i chemotyp (jeżeli dotyczy), części rośliny/roślin, definicję przetworu roślinnego, inne nazwy substancji roślinnej/przetworu roślinnego, stosunek ilości użytej substancji roślinnej do ilości otrzymanego przetworu roślinnego (Drug Extract Ratio (DER)), rozpuszczalnik(i) ekstrakcyjny(-ne), możliwe dodatki substancji pomocniczych (np. nośników)),
 b) strukturę (dla substancji roślinnej oraz przetworu roślinnego: postać fizyczną, opis składników o znanej aktywności terapeutycznej (wzór chemiczny, względną masę cząsteczkową, wzór strukturalny obejmujący stereochemię względną i bezwzględną), inne składniki),
 c) właściwości ogólne (wykaz właściwości fizykochemicznych i innych istotnych właściwości substancji czynnej);
 2) deklarowaną zawartość: delta-9-tetrahydrokannabinolu (THC) oraz kannabidiolu (CBD);
@@ -159,6 +159,6 @@ f) uzasadnienie specyfikacji;
 a) podsumowanie danych na temat trwałości i wnioski (podsumowanie dotyczące typu przeprowadzonych badań, zastosowanych schematów oraz wyników badań; podsumowanie takie zawiera w szczególności wnioski dotyczące warunków przechowywania i okresu ważności oraz, jeżeli dotyczy, warunków przechowywania i okresu ważności podczas użytkowania),
 b) protokół badań trwałości po uzyskaniu pozwolenia na dopuszczenie do obrotu i zobowiązanie dotyczące trwałości,
 c) dane na temat trwałości (wyniki badań trwałości w odpowiedniej formie: tabelarycznej, graficznej lub opisowej; informacje na temat metod analitycznych, zastosowanych do uzyskania danych oraz walidacji tych metod).
-C. w odniesieniu do informacji regionalnych dla Rzeczypospolitej Polskiej certyfikaty zgodności, jeżeli dotyczy.
-D. w odniesieniu do piśmiennictwa wykaz wytycznych dotyczących jakości, do których się odwoływano.
+C. w odniesieniu do informacji regionalnych dla Rzeczypospolitej Polskiej – certyfikaty zgodności, jeżeli dotyczy.
+D. w odniesieniu do piśmiennictwa – wykaz wytycznych dotyczących jakości, do których się odwoływano.
 

@@ -8,10 +8,10 @@ pos: 1137
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11113377 UMOWA między Rządem Rzeczypospolitej Polskiej a Radą Federalną Konfederacji Szwajcarskiej o wzajemnej ochronie informacji niejawnych, podpisana w Thun dnia 7 września 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001137) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1137/text.pdf) |
 
-11113377 UMOWA między Rządem Rzeczypospolitej Polskiej a Radą Federalną Konfederacji Szwajcarskiej o wzajemnej ochronie informacji niejawnych, podpisana w Thun dnia 7 września 2022 r.
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 7 września 2022 roku w Thun została podpisana Umowa między Rządem Rzeczypospolitej Polskiej a Radą Federalną Konfederacji Szwajcarskiej o wzajemnej ochronie informacji niejawnych, w następującym brzmieniu: Po zaznajomieniu się z powyższą Umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 7 września 2022 roku w Thun została podpisana Umowa między Rządem Rzeczypospolitej Polskiej a Radą Federalną Konfederacji Szwajcarskiej o wzajemnej ochronie informacji niejawnych, w następującym brzmieniu: Po zaznajomieniu się z powyższą Umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 Na dowód czego wydany został Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie, dnia 15 marca 2023 roku.
 Prezydent Rzeczypospolitej Polskiej: A. Duda L.S.
+Prezes Rady Ministrów: M. Morawiecki
 

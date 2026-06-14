@@ -8,7 +8,7 @@ pos: 1402
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi
@@ -427,6 +427,11 @@ source: "isap-pdf"
 
 **Art. 9.** W przypadku zniszczenia na skutek powodzi dokumentów niezbędnych do ustalenia świadczeń z tytułu ubezpieczeń społecznych, świadczeń dla osób niepełnosprawnych lub zaopatrzenia emerytalnego przyjmuje się:
 
+- **1)** wszelkie dokumenty oraz zeznania świadków pozwalające na udowodnienie okresów zatrudnienia (ubezpieczenia) oraz czasowej niezdolności do pracy z powodu choroby, macierzyństwa lub sprawowania opieki;
+- **2)** wszelkie dokumenty pozwalające na udowodnienie wysokości ich podstawy wymiaru;
+- **3)** wszelkie dokumenty pozwalające na udowodnienie niepełnosprawności albo stopnia niepełnosprawności, a także wszelkie dokumenty pozwalające na ustalenie poziomu potrzeby wsparcia dla potrzeb świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429 i 2760 oraz z 2025 r. poz.
+- **619)** .
+
 **Art. 9a.**
 
 1. W stosunku do stron postępowań, zamieszkujących lub mających siedzibę na obszarze wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, będących poszkodowanymi, terminy dotyczące czynności stron w postępowaniach podatkowych, administracyjnych i sądowoadministracyjnych nie rozpoczynają się, a rozpoczęte ulegają zawieszeniu na okres wskazany w tych przepisach i odpowiednio rozpoczynają swój bieg albo po okresie zawieszenia biegną dalej po upływie 14 dni od daty wskazanej w tych przepisach.
@@ -489,6 +494,11 @@ source: "isap-pdf"
 4. Umorzeń, o których mowa w ust. 1 i 2, dokonuje starosta na wniosek poszkodowanego podmiotu złożony w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2.
 
 **Art. 15.** Podmioty zamierzające:
+
+- **1)** wystąpić o pomoc, o której mowa w art. 11 ust. 1,
+- **2)** wykorzystać fundusz rehabilitacji w sposób określony w art. 12 ust. 1, 3 i 4,
+- **3)** (uchylony)
+- **4)** wystąpić o odroczenie, o którym mowa w art. 14 ust. 1 – są obowiązane odpowiednio złożyć wniosek albo wystąpić o zgodę do dysponenta Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2.
 
 **Art. 16.** Za okresy określone w przepisach wydanych na podstawie art. 1 ust. 2, nie dłużej niż do dnia 31 grudnia roku, w którym wystąpiła powódź, refundacja, o której mowa w art. 25a ust. 1 ustawy o rehabilitacji, może być dokonywana w przypadku nieterminowego opłacenia składek podlegających refundacji, jeżeli uchybienie terminu płatności składek było skutkiem powodzi.
 
@@ -845,6 +855,9 @@ source: "isap-pdf"
 
 **Art. 24.** Zmiany kwot przychodów i kosztów lub dochodów i wydatków ujętych w planach finansowych Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, Funduszu Pracy, Funduszu Gwarantowanych Świadczeń Pracowniczych, Funduszu Solidarnościowego oraz Funduszu Rozwoju Kultury Fizycznej w zakresie wynikającym z niniejszej ustawy, w roku, w którym wystąpiła powódź, dokonuje się zgodnie z art. 29 ust. 12 i 13 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z tym że nie jest wymagana opinia sejmowej komisji do spraw budżetu w przypadku zmian powodujących zwiększenie:
 
+- **1)** łącznych kwot przychodów i kosztów lub łącznych kwot dochodów i wydatków, lub
+- **2)** planowanych wydatków ponad planowane dochody, jednak nie więcej niż o wysokość środków pieniężnych z poprzednich okresów, pozostających w dyspozycji państwowego funduszu celowego.
+
 **Art. 24a.**
 
 1. Świadczenie interwencyjne wypłaca Zakład Ubezpieczeń Społecznych.
@@ -981,6 +994,8 @@ source: "isap-pdf"
 2. Kredyt uzyskany na podstawie przepisów ustawy z dnia 8 lipca 1999 r. o dopłatach do oprocentowania kredytów bankowych udzielonych na usuwanie skutków powodzi nie może zostać przeznaczony na spłatę kredytu lub pożyczki udzielanej ze środków publicznych lub z dopłatami do oprocentowania ze środków publicznych.
 
 **Art. 26.** Na wniosek poszkodowanego, będącego kredytobiorcą w rozumieniu ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2024 r. poz.
+
+- **1774)** , którego mieszkanie (dom jednorodzinny) zostało uszkodzone lub zniszczone na skutek powodzi, bank zawiesza spłatę kredytu wraz z odsetkami, bez względu na wysokość dochodu jego gospodarstwa domowego, na okres wskazany we wniosku, jednak nie dłuższy niż rok. Wniosek składa się w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2.
 
 **Art. 26a.**
 
@@ -1149,6 +1164,10 @@ source: "isap-pdf"
 6. Premii remontowych i premii MZG zgodnie z zasadami określonymi w ust. 1 udziela się do wysokości środków Funduszu Termomodernizacji i Remontów pochodzących z rezerwy celowej, o której mowa w art. 3 ust. 2.
 
 **Art. 29.** W okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2 zwalnia się od:
+
+- **1)** opłaty skarbowej dokonanie czynności urzędowej, wydanie zaświadczenia lub zezwolenia (pozwolenia, koncesji) oraz złożenie dokumentu stwierdzającego udzielenie pełnomocnictwa lub prokury albo jego odpisu, wypisu lub kopii, w sprawach związanych z usuwaniem skutków powodzi;
+- **2)** opłaty za wydanie dokumentu paszportowego osoby, które przedstawią wydane przez właściwy organ gminy zaświadczenie potwierdzające, że dokumenty zostały utracone w związku z powodzią;
+- **3)** opłaty za udostępnianie danych i informacji zgromadzonych w bazach danych, o których mowa w art. 4 ust. 1a ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019), standardowych opracowań kartograficznych, o których mowa w art. 4 ust. 1e tej ustawy, oraz innych materiałów państwowego zasobu geodezyjnego i kartograficznego, a także wykonywanie czynności związanych z udostępnianiem tych informacji, opracowań i materiałów zgromadzonych w państwowym zasobie geodezyjnym i kartograficznym oraz wyrysów i wypisów z operatu ewidencyjnego – w przypadku konieczności uzyskania tych danych i informacji w związku z usuwaniem przez poszkodowanych skutków powodzi.
 
 **Art. 30.**
 
@@ -1591,6 +1610,9 @@ source: "isap-pdf"
 4. Świadczenia opieki zdrowotnej udzielane zgodnie z ust. 1–3 są finansowane przez Narodowy Fundusz Zdrowia ze środków pochodzących z budżetu państwa w formie dotacji celowej z części, której dysponentem jest minister, o którym mowa w ust. 1, w szczególności pochodzących z rezerwy celowej przeznaczonej na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków.
 
 **Art. 40n.** Podmioty lecznicze wykonujące działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne lub w rodzaju ambulatoryjne świadczenia zdrowotne, które są położone na terenach wskazanych w przepisach wydanych na podstawie art. 1 ust. 2, mogą być – w okresie wskazanym w tych przepisach – zaopatrywane w produkty lecznicze przez inny podmiot leczniczy posiadający aptekę szpitalną, zlokalizowany na terenie tego samego województwa, bez zawarcia umowy, o której mowa w art. 106 ust. 3 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, oraz bez konieczności spełnienia przez podmiot zaopatrujący warunku określonego w tym przepisie, jeżeli:
+
+- **1)** w momencie wystąpienia powodzi podmiot zaopatrywany posiadał aptekę szpitalną albo dział farmacji szpitalnej, a wskutek powodzi asortyment produktów leczniczych tej apteki albo działu został utracony, uległ zniszczeniu, albo w inny sposób stał się niezdatny do użytku;
+- **2)** podmiot zaopatrywany lub podmiot zaopatrujący powiadomią o fakcie zaopatrywania, w terminie 30 dni po zakończeniu okresu wskazanego w przepisach wydanych na podstawie art. 1 ust. 2, wojewódzkiego inspektora farmaceutycznego właściwego ze względu na lokalizację podmiotu zaopatrywanego.
 
 **Art. 40o.**
 

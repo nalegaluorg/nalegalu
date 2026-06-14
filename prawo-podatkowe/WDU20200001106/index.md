@@ -8,7 +8,7 @@ pos: 1106
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
@@ -28,6 +28,8 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1106/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Struktury hybrydowe
 
 **Art. 16n.**
 
@@ -128,6 +130,10 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2020 r. poz. 106, 568 i 1065) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 uchyla się pkt 27c i 27d;
+- **2)** uchyla się art. 12a;
+- **3)** w dziale II po rozdziale 3 dodaje się rozdziały 3a i 3b w brzmieniu: „Rozdział 3a Przemieszczenie towarów w procedurze magazynu typu call-off stock na terytorium kraju
+
 **Art. 13a.**
 
 1. Przemieszczenia towarów w procedurze magazynu typu call-off stock nie uznaje się za wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 11 ust. 1.
@@ -142,6 +148,12 @@ source: "isap-pdf"
 **Art. 13b.** Jeżeli warunki określone w art. 13a ust. 2 są spełnione, wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 9 ust. 1, uznaje się za dokonane przez podatnika, o którym mowa w art. 13a ust. 2 pkt 3, na terytorium kraju w momencie przeniesienia na niego prawa do rozporządzania towarami jak właściciel, o ile przeniesienie to nastąpi w terminie 12 miesięcy od dnia wprowadzenia towarów do magazynu w procedurze magazynu typu call-off stock.
 
 **Art. 13c.** Jeżeli w terminie, o którym mowa w art. 13b, podatnik, o którym mowa w art. 13a ust. 2 pkt 3, zostaje zastąpiony przez innego podatnika, uznaje się, że w okresie zastąpienia nie miało miejsca wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 11 ust. 1, pod warunkiem że:
+
+- **1)** podatnik zastępujący jest uprawniony do nabycia prawa do rozporządzania towarami jak właściciel zgodnie z porozumieniem zawartym między nim a podatnikiem podatku od wartości dodanej wysyłającym lub transportującym towary;
+- **2)** podatnik podatku od wartości dodanej wysyłający lub transportujący towary nie ma siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju;
+- **3)** podatnik zastępujący jest zarejestrowany jako podatnik VAT UE, a jego nazwa lub imię i nazwisko oraz numer identyfikacji podatkowej poprzedzony kodem PL są znane podatnikowi podatku od wartości dodanej wysyłającemu lub transportującemu towary w momencie zastąpienia;
+- **4)** podatnik podatku od wartości dodanej wysyłający lub transportujący towary podaje w informacji odpowiadającej informacji podsumowującej, o której mowa w art. 100 ust. 1 pkt 5, numer identyfikacji podatkowej, o którym mowa w pkt 3;
+- **5)** zastąpienie zostało zarejestrowane przez podatnika podatku od wartości dodanej wysyłającego lub transportującego towary w ewidencji, o której mowa w art. 54a ust. 1 rozporządzenia 282/2011.
 
 **Art. 13d.**
 
@@ -208,6 +220,12 @@ source: "isap-pdf"
 **Art. 13i.** Jeżeli warunki określone w art. 13h ust. 2 są spełnione, wewnątrzwspólnotową dostawę towarów, o której mowa w art. 13 ust. 1, uznaje się za dokonaną przez podatnika, o którym mowa w art. 13h ust. 2 pkt 2, na terytorium kraju w momencie przeniesienia prawa do rozporządzania towarami jak właściciel na podatnika podatku od wartości dodanej, któremu te towary mają być dostarczone, o ile przeniesienie to nastąpi w terminie 12 miesięcy od dnia wprowadzenia towarów do magazynu w procedurze magazynu typu call-off stock.
 
 **Art. 13j.** Jeżeli w terminie, o którym mowa w art. 13i, podatnik podatku od wartości dodanej zostaje zastąpiony przez innego podatnika podatku od wartości dodanej, uznaje się, że w okresie zastąpienia nie miała miejsca wewnątrzwspólnotowa dostawa towarów, o której mowa w art. 13 ust. 3, pod warunkiem że:
+
+- **1)** podatnik zastępujący podatnika podatku od wartości dodanej jest uprawniony do nabycia prawa do rozporządzania towarami jak właściciel zgodnie z porozumieniem zawartym między nim a podatnikiem, o którym mowa w art. 13h ust. 2 pkt 2;
+- **2)** podatnik, o którym mowa w art. 13h ust. 2 pkt 2, nie ma siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium państwa członkowskiego, do którego przemieszcza towary z terytorium kraju;
+- **3)** podatnik zastępujący podatnika podatku od wartości dodanej jest zidentyfikowany na potrzeby transakcji wewnątrzwspólnotowych na terytorium państwa członkowskiego innym niż terytorium kraju, a jego nazwa lub imię i nazwisko oraz numer identyfikacyjny dla transakcji wewnątrzwspólnotowych nadany mu przez to państwo członkowskie są znane podatnikowi, o którym mowa w art. 13h ust. 2 pkt 2, w momencie zastąpienia;
+- **4)** podatnik, o którym mowa w art. 13h ust. 2 pkt 2, podaje w informacji podsumowującej, o której mowa w art. 100 ust. 1 pkt 5, numer identyfikacyjny, o którym mowa w pkt 3;
+- **5)** zastąpienie zostało zarejestrowane przez podatnika, o którym mowa w art. 13h ust. 2 pkt 2, w ewidencji, o której mowa w art. 109 ust. 11c.
 
 **Art. 13k.**
 
@@ -282,7 +300,21 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2020 r. poz. 343) wprowadza się następujące zmiany:
 
+- **1)** w art. 5 w ust. 2 pkt 2 otrzymuje brzmienie: „2) automatyczną wymianą informacji podatkowych, w tym do przeprowadzania kontroli wykonywania obowiązków związanych z automatyczną wymianą informacji podatkowych,”;
+- **2)** po dziale V dodaje się dział VA w brzmieniu: „Dział VA Automatyczna wymiana informacji o schematach podatkowych transgranicznych
+
 **Art. 88a.** Ilekroć w niniejszym dziale jest mowa o:
+
+- **1)** korzystającym – rozumie się przez to korzystającego w rozumieniu art. 86a § 1 pkt 3 ustawy – Ordynacja podatkowa;
+- **2)** NSP – rozumie się przez to NSP, o którym mowa w art. 86a § 1 pkt 5 ustawy – Ordynacja podatkowa;
+- **3)** NZSPT – rozumie się przez to NZSPT, o którym mowa w art. 86a § 1 pkt 5a ustawy – Ordynacja podatkowa;
+- **4)** ogólnej cesze rozpoznawczej – rozumie się przez to ogólną cechę rozpoznawczą, o której mowa w art. 86a § 1 pkt 6 lit. a–h ustawy – Ordynacja podatkowa;
+- **5)** podmiocie powiązanym – rozumie się przez to podmiot powiązany, o którym mowa w art. 86a § 1 pkt 7 ustawy – Ordynacja podatkowa, przy czym przy ustalaniu podmiotu powiązanego uwzględnia się przepis art. 86a § 7 tej ustawy;
+- **6)** promotorze – rozumie się przez to promotora w rozumieniu art. 86a § 1 pkt 8 ustawy – Ordynacja podatkowa;
+- **7)** schemacie podatkowym transgranicznym – rozumie się przez to schemat podatkowy transgraniczny w rozumieniu art. 86a § 1 pkt 12 ustawy – Ordynacja podatkowa;
+- **8)** szczególnej cesze rozpoznawczej – rozumie się przez to szczególną cechę rozpoznawczą w rozumieniu art. 86a § 1 pkt 13 ustawy – Ordynacja podatkowa;
+- **9)** wdrażaniu – rozumie się przez to wdrażanie w rozumieniu art. 86a § 1 pkt 17 ustawy – Ordynacja podatkowa;
+- **10)** wspomagającym – rozumie się przez to wspomagającego w rozumieniu art. 86a § 1 pkt 18 ustawy – Ordynacja podatkowa.
 
 **Art. 88b.**
 
@@ -315,15 +347,80 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 30f w ust. 2 w pkt 4:
+    - **a)** w lit. a po wyrazie „posiada” dodaje się wyrazy „ , bezpośrednio lub pośrednio,”,
+    - **b)** w lit. c po wyrazie „posiada” dodaje się wyrazy „ , bezpośrednio lub pośrednio,”;
+
+- **2)** w art. 52v dodaje się ust. 3 i 4 w brzmieniu: „3. Jeżeli podatnik, któremu organ rentowy przekazał roczne obliczenie podatku będącego podatkiem należnym za 2019 r. na podstawie art. 34 ust. 9, nie złożył wniosku, o którym mowa w ust. 1, organ podatkowy przekazuje kwotę w wysokości 1% tego podatku organizacji pożytku publicznego, którą podatnik wskazał we wniosku zawartym w zeznaniu, o którym mowa w art. 45 ust. 1, korekcie tego zeznania, albo w oświadczeniu, o którym mowa w art. 45c ust. 3a, złożonych za 2018 r.
+
+4. Przekazanie kwoty w wysokości 1% podatku należnego, o którym mowa w ust. 1, następuje na podstawie oświadczenia, o którym mowa w art. 45c ust. 3a, sporządzonego za 2019 r. przez organ podatkowy za pośrednictwem portalu podatkowego. Przepisy art. 45c stosuje się odpowiednio.”.
+
 **Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 86a:
+    - **a)** w § 1: – po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) NZSPT – rozumie się przez to numer zgłoszenia schematu podatkowego transgranicznego nadawany przez Szefa Krajowej Administracji Skarbowej w celu automatycznej wymiany informacji o schematach podatkowych transgranicznych;”, – w pkt 13 w lit. a tiret drugie otrzymuje brzmienie: „– odbiorca płatności posiada miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, wskazanych w aktach wykonawczych wydanych na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych oraz w unijnym wykazie jurysdykcji niechętnych współpracy do celów podatkowych przyjmowanym przez Radę Unii Europejskiej,”,
+    - **b)** dodaje się § 10 w brzmieniu: „§ 10. Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
+
+- **1)** listę krajów i terytoriów wskazanych w unijnym wykazie jurysdykcji niechętnych współpracy do celów podatkowych przyjmowanym przez Radę Unii Europejskiej, które nie zostały ujęte w wykazie krajów i terytoriów stosujących szkodliwą konkurencję podatkową wydawanym na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych,
+- **2)** dzień przyjęcia wykazu, o którym mowa w pkt 1, przez Radę Unii Europejskiej – w terminie 7 dni od dnia przyjęcia tego wykazu.”;
+- **2)** w art. 86b po § 2 dodaje się § 2a w brzmieniu: „§ 2a. W przypadku, o którym mowa w art. 86g § 2c, promotor przekazuje korzystającemu NSP wraz z załącznikiem zawierającym wyłącznie dane identyfikujące tego korzystającego.”;
+- **3)** w art. 86d w § 1 zdanie drugie otrzymuje brzmienie: „Przepisy art. 86b § 2a i 3 stosuje się odpowiednio.”;
+- **4)** w art. 86f w § 1:
+    - **a)** pkt 11–13 otrzymują brzmienie: „11) wskazanie danych identyfikujących, o których mowa w pkt 1, znanych przekazującemu informację podmiotów uczestniczących, mających uczestniczyć w schemacie podatkowym lub na które może mieć wpływ schemat podatkowy, oraz państw i terytoriów, w których podmioty te posiadają miejsce zamieszkania, siedzibę lub zarząd, lub których schemat ten może dotyczyć;
+
+- **12)** wskazanie danych identyfikujących, o których mowa w pkt 1, znanych przekazującemu informację innych podmiotów obowiązanych do przekazania informacji o schemacie podatkowym, jeżeli występują;
+- **13)** adres elektroniczny, na który będą doręczane potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g–86i, przy czym wskazanie tego adresu traktuje się na równi z wyrażeniem zgody na ich doręczanie wyłącznie za pomocą środków komunikacji elektronicznej;”,
+    - **b)** dodaje się pkt 14 w brzmieniu: „14) wskazanie NSP nadanego przez inne państwo członkowskie Unii Europejskiej w odniesieniu do schematu podatkowego transgranicznego – w przypadku gdy NSP został nadany temu schematowi przez inne państwo członkowskie Unii Europejskiej.”;
+
+- **5)** w art. 86g:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Szef Krajowej Administracji Skarbowej nadaje NSP, chyba że informacja o schemacie podatkowym zawiera NSP nadany przez inne państwo członkowskie Unii Europejskiej.”,
+    - **b)** po § 2 dodaje się § 2a–2c w brzmieniu: „§ 2a. Szef Krajowej Administracji Skarbowej przekazuje potwierdzenie nadania NSP zawierające NSP oraz dane wskazane w przekazanej informacji o schemacie podatkowym. W przypadku schematów podatkowych transgranicznych potwierdzenie nadania NSP zawiera również NZSPT.
+
+§ 2b. W przypadku gdy przekazującym informację o schemacie podatkowym jest osoba fizyczna, potwierdzenie nadania NSP w zakresie danych identyfikujących przekazującego tę informację zawiera wyłącznie imię i nazwisko oraz identyfikator podatkowy tej osoby.
+
+§ 2c. W przypadku gdy korzystającym lub podmiotami, o których mowa w art. 86f § 1 pkt 1, 11 i 12, są osoby fizyczne, dane identyfikujące tego korzystającego i te podmioty wskazuje się wyłącznie w załącznikach do potwierdzenia nadania NSP, przy czym jeden załącznik zawiera dane osobowe dotyczące jednej osoby fizycznej.”,
+
+- **c)** uchyla się § 4;
+- **6)** w art. 86h:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Szef Krajowej Administracji Skarbowej może zwrócić się do przekazującego informacje na podstawie przepisów niniejszego rozdziału o ich uzupełnienie lub wyjaśnienie wątpliwości co do ich treści zarówno przed, jak i po nadaniu NSP, w szczególności w celu automatycznej wymiany informacji o schematach podatkowych transgranicznych.”,
+    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Uzupełnienie informacji o schemacie podatkowym polega na przekazaniu pełnego zakresu danych, o których mowa w art. 86f § 1.”;
+
+- **7)** po art. 86i dodaje się art. 86ia w brzmieniu: „Art. 86ia. Szef Krajowej Administracji Skarbowej doręcza potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g–86i, za pomocą środków komunikacji elektronicznej, na adres elektroniczny wskazany przez przekazującego w informacji o schemacie podatkowym.”;
+- **8)** w art. 86j:
+    - **a)** § 4 otrzymuje brzmienie: „§ 4. Przekazywana informacja, o której mowa w § 1, w tym zawierająca dane wskazane w § 2 lub 3, jest podpisywana przez:
+
+- **1)** osobę fizyczną – w przypadku podatnika będącego osobą fizyczną,
+- **2)** osobę upoważnioną przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale – w przypadku podatnika będącego przedsiębiorcą zagranicznym posiadającym oddział działający na terytorium Rzeczypospolitej Polskiej,
+- **3)** osobę uprawnioną do reprezentacji – w przypadku pozostałych podatników – przy czym nie jest dopuszczalne podpisanie tej informacji przez pełnomocnika.”,
+    - **b)** uchyla się § 5;
+
+- **9)** w art. 86m dodaje się § 4 w brzmieniu: „§ 4. Do postępowania w sprawie nałożenia kary pieniężnej, o której mowa w § 1, stosuje się odpowiednio przepisy działu IV, przy czym od decyzji w sprawie nałożenia kary pieniężnej przysługuje odwołanie do ministra właściwego do spraw finansów publicznych.”;
+- **10)** w art. 86n dodaje się § 4 w brzmieniu: „§ 4. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważnić inny organ Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej, o których mowa w art. 86g–86ia, określając szczegółowy zakres upoważnienia oraz upoważnione organy, mając na względzie zapewnienie sprawnego i skutecznego wykonywania tych zadań.”;
+- **11)** po art. 86n dodaje się art. 86na w brzmieniu: „Art. 86na. Pełnomocnictwo szczególne do działania w sprawie z zakresu stosowania art. 86b–86ia upoważnia również do działania w innych sprawach z tego samego zakresu, chyba że w pełnomocnictwie zastrzeżono inaczej.”;
+- **12)** art. 86o otrzymuje brzmienie: „Art. 86o. W zakresie nieuregulowanym w art. 86b–86ia stosuje się odpowiednio przepisy art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 165 § 3b, art. 165a, art. 168, art. 170, art. 171, art. 189 § 3, art. 208, działu IV rozdziału 3a, rozdziału 5 z wyłączeniem art. 144a § 1b, rozdziałów 6, 7, 14, 16 i 23 oraz działu VIIIA.”.
 
 **Art. 6.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2020 r. poz. 19, 568 i 695) wprowadza się następujące zmiany:
 
+- **1)** w art. 53 § 30c otrzymuje brzmienie: „§ 30c. Użyte w rozdziale 6 kodeksu określenia „informacja podsumowująca”, „mechanizm podzielonej płatności” oraz „procedura magazynu typu call-off stock” mają znaczenie nadane im w ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2020 r. poz. 106, 568, 1065 i 000).”;
+- **2)** po art. 80f dodaje się art. 80g w brzmieniu: „Art. 80g. § 1. Kto wbrew obowiązkowi nie składa zawiadomienia o prowadzeniu magazynu wykorzystywanego w procedurze magazynu typu call-off stock albo składa je po terminie lub podaje w nim dane niezgodne ze stanem rzeczywistym, podlega karze grzywny za wykroczenie skarbowe.
+
+§ 2. Karze określonej w § 1 podlega także ten, kto wbrew obowiązkowi nie składa zawiadomienia o zmianie danych zawartych w zawiadomieniu, o którym mowa w § 1, albo składa je po terminie lub podaje w nim dane niezgodne ze stanem rzeczywistym.”.
+
 **Art. 7.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2020 r. poz. 505, 568, 695 i 1087) wprowadza się następujące zmiany:
+
+- **1)** w art. 62 w ust. 5 w pkt 11 na końcu dodaje się przecinek i dodaje się pkt 12 w brzmieniu: „12) przestrzegania przepisów prawa podatkowego w zakresie obowiązków podatników i podatników podatku od wartości dodanej prowadzących magazyn, do którego wprowadzane są towary w procedurze magazynu typu call-off stock, o której mowa w dziale II rozdziale 3a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług”;
+- **2)** w art. 84 w ust. 1 pkt 4 otrzymuje brzmienie: „4) o której mowa w art. 62 ust. 5 pkt 1–3, 5–7 i 10–12”.
 
 **Art. 8.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, 567, 568, 695, 875 i 1086) w art. 31y dodaje się ust. 3 w brzmieniu: „3. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, przedłużać terminy związane z przekazywaniem informacji o schematach podatkowych w rozumieniu art. 86a § 1 pkt 10 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa lub wymianą informacji podatkowych z innymi państwami, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego i stanu epidemii w związku z COVID-19 oraz skutki nimi wywołane lub treść ustaleń w tym zakresie podjętych przez Unię Europejską, Organizację Współpracy Gospodarczej i Rozwoju lub państwa uczestniczące w wymianie tych informacji.”.
 
 **Art. 9.** Do dnia 31 grudnia 2022 r. przepisów art. 16p ust. 1 i 2 ustawy zmienianej w art. 1 nie stosuje się do rozbieżności w kwalifikacji struktur hybrydowych w rozumieniu art. 16n ust. 1 pkt 18 ustawy zmienianej w art. 1, powstających w wyniku płatności odsetek z tytułu instrumentu finansowego w rozumieniu art. 16n ust. 1 pkt 4 ustawy zmienianej w art. 1 na rzecz podmiotu powiązanego w rozumieniu art. 16n ust. 1 pkt 14 ustawy zmienianej w art. 1, jeżeli są spełnione łącznie następujące warunki:
+
+- **1)** instrument ten:
+    - **a)** ma cechy umorzenia lub konwersji długu,
+    - **b)** wyemitowano: – wyłącznie w celu spełnienia wymogów dotyczących zdolności do pokrycia strat mających zastosowanie do sektora bankowego i jest on uznany jako taki w wymogach podatnika dotyczących zdolności do pokrycia strat, – w związku z instrumentami finansowymi w rozumieniu art. 16n ust. 1 pkt 4 ustawy zmienianej w art. 1, mającymi cechy instrumentu umorzenia lub konwersji długu na poziomie jednostki dominującej, – na poziomie niezbędnym do spełnienia mających zastosowanie wymogów dotyczących zdolności do pokrycia strat,
+    - **c)** nie został wyemitowany jako część uzgodnienia strukturalnego w rozumieniu art. 16n ust. 1 pkt 21 ustawy zmienianej w art. 1;
+
+- **2)** całkowite odliczenie netto w odniesieniu do grupy kapitałowej obowiązanej na podstawie przepisów o rachunkowości do sporządzania skonsolidowanego sprawozdania finansowego w ramach uzgodnienia nie przekracza kwoty, jaką uzyskano by w przypadku wyemitowania przez podatnika takiego instrumentu finansowego bezpośrednio na rynek.
 
 **Art. 10.**
 
@@ -402,4 +499,8 @@ source: "isap-pdf"
 **Art. 22.** Przepisy rozdziału 3a ustawy zmienianej w art. 1 oraz przepis art. 9 mają zastosowanie do dochodów (przychodów) uzyskanych w roku podatkowym rozpoczynającym się po dniu 31 grudnia 2020 r.
 
 **Art. 23.** Ustawa wchodzi w życie z dniem 1 lipca 2020 r., z wyjątkiem:
+
+- **1)** art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1, art. 4 pkt 1 i art. 9, które wchodzą w życie z dniem 1 stycznia 2021 r.
+
 

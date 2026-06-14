@@ -8,7 +8,7 @@ pos: 932
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej
@@ -29,6 +29,9 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa zasady niektórych form wspierania:
 
+- **1)** restrukturyzacji przemysłowego potencjału obronnego;
+- **2)** modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej.
+
 **Art. 2.**
 
 1. Ustawę stosuje się do:
@@ -47,9 +50,38 @@ source: "isap-pdf"
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
 
+- **1)** przemysłowym potencjale obronnym – rozumie się przez to zasoby materialne i niematerialne istniejące w przemyśle Rzeczypospolitej Polskiej, zabezpieczające potrzeby obronne państwa, w tym potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej, w uzbrojenie lub sprzęt wojskowy;
+- **2)** spółkach przemysłowego potencjału obronnego – rozumie się przez to spółki z ograniczoną odpowiedzialnością lub spółki akcyjne prowadzące działalność gospodarczą na potrzeby bezpieczeństwa i obronności państwa, o których mowa w art. 2 ust. 1 pkt 1 i 4, oraz spółki powstałe w wyniku komercjalizacji przedsiębiorstw państwowych, o których mowa w art. 2 ust. 1 pkt 2;
+- **3)** spółkach zależnych – rozumie się przez to spółki z ograniczoną odpowiedzialnością lub spółki akcyjne, wykonujące działalność gospodarczą polegającą na produkcji lub świadczeniu usług w zakresie uzbrojenia lub sprzętu wojskowego, w których spółki przemysłowego potencjału obronnego, Skarb Państwa oraz Agencja Rozwoju Przemysłu posiadają łącznie więcej niż połowę ogólnej liczby udziałów lub akcji;
+- **4)** zobowiązaniach – rozumie się przez to zobowiązania pieniężne spółek przemysłowego potencjału obronnego lub spółek zależnych wraz z odsetkami;
+- **5)** przychodach z prywatyzacji spółek przemysłowego potencjału obronnego – rozumie się przez to środki finansowe pochodzące ze sprzedaży akcji lub udziałów należących do Skarbu Państwa w spółkach, o których mowa w pkt 2;
+- **6)** uzbrojeniu lub sprzęcie wojskowym – rozumie się przez to uzbrojenie w rozumieniu ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa;
+- **7)** koncentracji – rozumie się przez to przeniesienie działalności produkcyjnej lub usługowej podmiotów, o których mowa w art. 2 ust. 1 – do jednego przedsiębiorcy;
+- **8)** konwersji – rozumie się przez to zmianę przedmiotu działalności gospodarczej na działanie niezwiązane z produkcją lub świadczeniem usług w zakresie uzbrojenia lub sprzętu wojskowego;
+- **9)** wdrożeniu do produkcji nowoczesnego uzbrojenia lub sprzętu wojskowego – rozumie się przez to prace związane z uruchomieniem produkcji nowych wyrobów lub modernizacji uzbrojenia lub sprzętu wojskowego będącego na wyposażeniu wojsk, zastosowaniem nowych metod wytwarzania lub usług materialnych, w tym: sporządzenie dokumentacji technicznej, wykonanie oprzyrządowania i instalacji produkcyjnej, wykonanie niezbędnych robót budowlano-montażowych, wykonanie serii informacyjnej nowego wyrobu oraz zakup i montaż maszyn lub urządzeń związanych z wdrożeniem;
+- **10)** wspieraniu restrukturyzacji zatrudnienia – rozumie się przez to przeznaczanie środków na odprawy pieniężne przysługujące na podstawie ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2018 r. poz. 1969) lub jednorazowe odprawy pieniężne w związku z przejściem na emeryturę lub rentę inwalidzką;
+- **11)** pozyskiwaniu majątku niezbędnego do zapewnienia produkcji uzbrojenia lub sprzętu wojskowego – rozumie się przez to zakup lub przyjęcie do odpłatnego korzystania zorganizowanych części przedsiębiorstw w rozumieniu art. 55 Kodeksu cywilnego lub maszyn, urządzeń, nieruchomości niezbędnych do prowadzenia produkcji lub modernizacji uzbrojenia lub sprzętu wojskowego.
+
 **Art. 5.** Wspieranie restrukturyzacji podmiotów, o których mowa w art. 2 ust. 1, polega na:
 
+- **1)** przeznaczaniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na: z 2017 r. poz. 2042 oraz z 2020 r. poz. 284),
+    - **a)** konwersję lub koncentrację produkcji w ramach programów naprawczych lub restrukturyzacyjnych,
+    - **b)** działalność badawczo-rozwojową,
+    - **c)** promocję eksportu wytworzonego w Rzeczypospolitej Polskiej uzbrojenia lub sprzętu wojskowego,
+    - **d)** finansowanie, za pośrednictwem Banku Gospodarstwa Krajowego, dopłat w wysokości nieprzekraczającej 50% kwot stanowiących oprocentowanie udzielonych kredytów inwestycyjnych lub oprocentowanie udzielonych kredytów pomostowych na uruchomienie programów restrukturyzacyjnych przewidzianych przepisami niniejszej ustawy oraz ustawy z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców (Dz. U.
+    - **e)** wspieranie restrukturyzacji zatrudnienia,
+    - **f)** wdrażanie do produkcji nowoczesnego uzbrojenia lub sprzętu wojskowego,
+    - **g)** pozyskiwanie majątku niezbędnego do zapewnienia produkcji uzbrojenia lub sprzętu wojskowego;
+
+- **2)** restrukturyzacji finansowej zobowiązań po przeprowadzeniu postępowania, o którym mowa w art. 10–15;
+- **3)** przeznaczaniu, w okresie do dnia 31 grudnia 2005 r., dotacji określonej w rozporządzeniu wydanym na podstawie art. 222 ust. 1 oraz art. 223 ust. 2 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1541 i 2020 oraz z 2020 r. poz. 374), wypłaconej przedsiębiorcom na dostosowanie mocy produkcyjnych i remontowych do zadań określonych w programie mobilizacji gospodarki, w tym na realizację zadań, o których mowa w pkt 1 lit. a.
+
 **Art. 5a.** Wspieranie restrukturyzacji przemysłowego potencjału obronnego polega również na przeznaczeniu części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na:
+
+- **1)** dokapitalizowanie Przedsiębiorstwa Handlu Zagranicznego BUMAR Sp. z o.o. lub Agencji Rozwoju Przemysłu S.A. w celu wykupienia, po cenie nie wyższej niż ich wartość nominalna, od Funduszu Gwarantowanych Świadczeń Pracowniczych, w terminie do dnia 30 czerwca 2003 r., udziałów i akcji spółek przemysłowego potencjału obronnego;
+- **2)** zapłatę podatku od czynności cywilnoprawnych, o których mowa w art. 1 ust. 1 pkt 1 lit. k i pkt 2 ustawy z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2020 r. poz. 815), o ile czynności te wynikają z przyjętych kierunków przekształceń strukturalnych przemysłowego potencjału obronnego;
+- **3)** pokrycie kosztów, o których mowa w art. 7 ust. 5 ustawy z dnia 10 września 1999 r. o niektórych umowach kompensacyjnych zawieranych w związku z umowami dostaw na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2013 r. poz. 716) ;
+- **4)** pokrycie kosztów przygotowania programów restrukturyzacyjnych, o których mowa w art. 5b ust. 3, w stosunku do których minister właściwy do spraw gospodarki wydał pozytywną decyzję, o której mowa w art. 5b ust. 4.
 
 **Art. 5b.**
 
@@ -94,7 +126,13 @@ source: "isap-pdf"
 
 **Art. 6.** Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia:
 
+- **1)** wysokość dopłat, o których mowa w art. 5 pkt 1 lit. d, szczegółowe zasady i tryb ich udzielania;
+- **2)** wysokość należnej prowizji Banku Gospodarstwa Krajowego za czynności związane z obsługą bankową dopłat.
+
 **Art. 7.** Wspieranie procesu modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej polega na przeznaczaniu pozostałej części przychodów z prywatyzacji spółek przemysłowego potencjału obronnego na:
+
+- **1)** zakupy nowoczesnego uzbrojenia lub sprzętu wojskowego produkowanego w spółkach przemysłowego potencjału obronnego;
+- **2)** unowocześnienie zaplecza remontowego Sił Zbrojnych Rzeczypospolitej Polskiej przez restrukturyzację podmiotów, o których mowa w art. 2 ust. 1 pkt 2.
 
 **Art. 8.**
 
@@ -212,6 +250,12 @@ source: "isap-pdf"
 6. O umorzeniu postępowania oddłużeniowego decyduje minister właściwy do spraw gospodarki, działając w uzgodnieniu z ministrami właściwymi do spraw finansów publicznych i klimatu.
 
 **Art. 16.** Do spółek przemysłowego potencjału obronnego nie stosuje się:
+
+- **1)** (uchylony)
+- **2)** przepisów ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2020 r. poz. 231 i 284);
+- **3)** (uchylony)
+- **4)** przepisu art. 108 ust. 1 pkt 3 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019 oraz z 2020 r. poz. 288, 1492 i
+- **1517)** .
 
 **Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

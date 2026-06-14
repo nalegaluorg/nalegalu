@@ -8,7 +8,7 @@ pos: 226
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej
@@ -44,6 +44,31 @@ source: "isap-pdf"
 - **2)** tymczasowe przejęcie instytucji i instytucji finansowych przez Skarb Państwa.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** bank – bank krajowy, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488);
+- **2)** dominująca finansowa spółka holdingowa o działalności mieszanej z państwa członkowskiego – dominującą finansową spółkę holdingową o działalności mieszanej z państwa członkowskiego, o której mowa w art. 4 ust. 1 pkt 32 rozporządzenia 575/2013;
+- **3)** dominująca finansowa spółka holdingowa z państwa członkowskiego – dominującą finansową spółkę holdingową z państwa członkowskiego, o której mowa w art. 4 ust. 1 pkt 30 rozporządzenia 575/2013;
+- **4)** finansowa spółka holdingowa – finansową spółkę holdingową, o której mowa w art. 4 ust. 1 pkt 20 rozporządzenia 575/2013;
+- **5)** finansowa spółka holdingowa o działalności mieszanej – finansową spółkę holdingową o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 21 rozporządzenia 575/2013;
+- **6)** firma inwestycyjna – firmę inwestycyjną, o której mowa w art. 4 ust. 1 pkt 22 rozporządzenia 2019/2033, objętą wymogiem dotyczącym kapitału założycielskiego w wysokości 750 000 euro;
+- **7)** holding mieszany – holding mieszany, o którym mowa w art. 4 ust. 1 pkt 22 rozporządzenia 575/2013, lub holding mieszany, o którym mowa w art. 110a ust. 1 pkt 6c ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941);
+- **8)** instrumenty dodatkowe w kapitale Tier I – instrumenty kapitałowe spełniające warunki określone w art. 52 ust. 1 rozporządzenia 575/2013;
+- **9)** instrumenty w kapitale podstawowym Tier I – instrumenty kapitałowe spełniające warunki określone w art. 28 ust. 1–4, art. 29 ust. 1–5 lub art. 31 ust. 1 rozporządzenia 575/2013;
+- **10)** instrumenty w kapitale Tier II – instrumenty kapitałowe lub pożyczki podporządkowane spełniające warunki określone w art. 63 rozporządzenia 575/2013;
+- **11)** instytucja – instytucję kredytową lub firmę inwestycyjną;
+- **12)** instytucja finansowa – instytucję finansową, o której mowa w art. 4 ust. 1 pkt 26 rozporządzenia 575/2013, lub instytucję finansową, o której mowa w art. 4 ust. 1 pkt 14 rozporządzenia 2019/2033;
+- **13)** instytucja kredytowa – instytucję kredytową, o której mowa w art. 4 ust. 1 pkt 1 rozporządzenia 575/2013, z wyjątkiem spółdzielczych kas oszczędnościowo-kredytowych oraz Banku Gospodarstwa Krajowego;
+- **13a)** inwestycyjna spółka holdingowa – inwestycyjną spółkę holdingową, o której mowa w art. 4 ust. 1 pkt 23 rozporządzenia 2019/2033;
+- **14)** kapitał podstawowy Tier I – element funduszy własnych instytucji, o którym mowa w art. 26–50 rozporządzenia 575/2013;
+- **15)** kapitał Tier II – element funduszy własnych instytucji, o którym mowa w art. 62– 71 rozporządzenia 575/2013;
+- **16)** kryzys systemowy – zakłócenie stabilności systemu finansowego, które może wywołać poważne negatywne skutki dla rynku wewnętrznego i dla gospodarki stwierdzone przez Komitet Stabilności Finansowej;
+- **17)** państwo członkowskie – państwo członkowskie Unii Europejskiej;
+- **18)** prawa udziałowe – akcje, prawa poboru w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), prawa do akcji, warranty subskrypcyjne i inne zbywalne papiery wartościowe inkorporujące prawa majątkowe odpowiadające prawom wynikającym z akcji, wyemitowane na podstawie właściwych przepisów prawa polskiego lub obcego, oraz inne zbywalne prawa majątkowe, które powstają w wyniku emisji, inkorporujące uprawnienie do nabycia lub objęcia takich papierów wartościowych;
+- **19)** rozporządzenie 575/2013 – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. );
+- **19a)** rozporządzenie 2019/2033 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. );
+- **20)** unijna dominująca finansowa spółka holdingowa – dominującą finansową spółkę holdingową, o której mowa w art. 4 ust. 1 pkt 31 rozporządzenia 575/2013;
+- **21)** unijna dominująca finansowa spółka holdingowa o działalności mieszanej – unijną dominującą finansową spółkę holdingową o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 33 rozporządzenia 575/2013, lub unijną dominującą finansową spółkę holdingową o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 58 rozporządzenia 2019/2033;
+- **22)** unijna dominująca inwestycyjna spółka holdingowa – unijną dominującą inwestycyjną spółkę holdingową, o której mowa w art. 4 ust. 1 pkt 57 rozporządzenia 2019/2033.
 
 **Art. 2a.**
 
@@ -210,6 +235,10 @@ source: "isap-pdf"
 3. Opłata prowizyjna od gwarancji ostrożnościowej jest wpłacana na rachunek rezerw poręczeniowych i gwarancyjnych Skarbu Państwa prowadzony przez Bank Gospodarstwa Krajowego.
 
 **Art. 12.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób wyznaczenia współczynnika korygującego oraz naliczania i pobierania opłaty prowizyjnej od gwarancji ostrożnościowej oraz wysokość tej opłaty, uwzględniając:
+
+- **1)** uzależnienie wysokości opłaty prowizyjnej od okresu, na który jest udzielana gwarancja ostrożnościowa;
+- **2)** ryzyko związane z działalnością instytucji będącej beneficjentem gwarancji ostrożnościowej;
+- **3)** ustalenie stawek opłaty prowizyjnej od gwarancji ostrożnościowej, której udzielenie nie stanowi pomocy państwa w rozumieniu przepisów o pomocy publicznej.
 
 **Art. 13.** Do gwarancji ostrożnościowej nie stosuje się przepisów ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291), z wyjątkiem art. 31 tej ustawy.
 

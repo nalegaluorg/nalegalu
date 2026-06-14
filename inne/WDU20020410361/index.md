@@ -8,7 +8,7 @@ pos: 361
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ustroju miasta stołecznego Warszawy

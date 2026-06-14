@@ -8,7 +8,7 @@ pos: 767
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych oraz o zmianie ustawy o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych oraz o zmianie niektórych innych ustaw

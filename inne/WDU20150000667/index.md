@@ -8,10 +8,10 @@ pos: 667
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 maja 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 667 Umowa o międzynarodowych przewozach szybko psujących się artykułów żywnościowych i o specjalnych środkach transportu przeznaczonych do tych przewozów (ATP), przyjęta w Genewie dnia 1 września 1970 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000667) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/667/text.pdf) |
 
-Umowa o międzynarodowych przewozach szybko psujących się artykułów żywnościowych i o specjalnych środkach transportu przeznaczonych do tych przewozów (ATP), przyjęta w Genewie dnia 1 września 1970 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 1 września 1970 r. w Genewie została przyjęta Umowa o międzynarodowych przewozach szybko psujących się artykułów żywnościowych i o specjalnych środkach transportu przeznaczonych do tych przewozów (AtP), w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, postanowienia umowy są przyjęte, ratyfikowane i potwierdzone, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej Polskiej podaje do powszechnej wiadomości: dnia 1 września 1970 r. w Genewie została przyjęta Umowa o międzynarodowych przewozach szybko psujących się artykułów żywnościowych i o specjalnych środkach transportu przeznaczonych do tych przewozów (AtP), w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – postanowienia umowy są przyjęte, ratyfikowane i potwierdzone, – będzie niezmiennie zachowywana.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 8 stycznia 2015 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.

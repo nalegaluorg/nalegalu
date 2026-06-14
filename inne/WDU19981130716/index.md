@@ -8,7 +8,7 @@ pos: 716
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 1) wart. 2 wyrazy „31 grudnia 2005 r.” zastępuje się

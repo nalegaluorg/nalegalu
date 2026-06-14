@@ -8,10 +8,10 @@ pos: 1717
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 sierpnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11771177 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 1 sierpnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,18 +25,18 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1717/text.pdf) |
 
-11771177 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 1 sierpnia 2022 r.
-zmieniające rozporządzenie w sprawie podstawy programowej wychowania przedszkolnego oraz podstawy programowej kształcenia ogólnego dla szkoły podstawowej, w tym dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, kształcenia ogólnego dla branżowej szkoły I stopnia, kształcenia ogólnego dla szkoły specjalnej przysposabiającej do pracy oraz kształcenia ogólnego dla szkoły policealnej Na podstawie art. 47 ust. 1 pkt 1 lit. a, b, e, f i h ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2021 r.
-poz. 1082 oraz z 2022 r. poz. 655, 1079, 1116, 1383 i 1700) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 14 lutego 2017 r. w sprawie podstawy programowej wychowania przedszkolnego oraz podstawy programowej kształcenia ogólnego dla szkoły podstawowej, w tym dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, kształcenia ogólnego dla branżowej szkoły I stopnia, kształcenia ogólnego dla szkoły specjalnej przysposabiającej do pracy oraz kształcenia ogólnego dla szkoły policealnej (Dz. U. poz. 356, z 2018 r. poz. 1679, z 2021 r. poz. 1533 oraz z 2022 r. poz. 609) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie podstawy programowej wychowania przedszkolnego oraz podstawy programowej kształcenia ogólnego dla szkoły podstawowej, w tym dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, kształcenia ogólnego dla branżowej szkoły I stopnia, kształcenia ogólnego dla szkoły specjalnej przysposabiającej do pracy oraz kształcenia ogólnego dla szkoły policealnej Na podstawie art. 47 ust. 1 pkt 1 lit. a, b, e, f i h ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r.
+poz. 1082 oraz z 2022 r. poz. 655, 1079, 1116, 1383 i 1700) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 14 lutego 2017 r. w sprawie podstawy programowej wychowania przedszkolnego oraz podstawy programowej kształcenia ogólnego dla szkoły podstawowej, w tym dla uczniów z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym, kształcenia ogólnego dla branżowej szkoły I stopnia, kształcenia ogólnego dla szkoły specjalnej przysposabiającej do pracy oraz kształcenia ogólnego dla szkoły policealnej (Dz. U. poz. 356, z 2018 r. poz. 1679, z 2021 r. poz. 1533 oraz z 2022 r. poz. 609) wprowadza się następujące zmiany:
 1) w załączniku nr 2:
-a) w części zatytułowanej „W szkole podstawowej na I etapie edukacyjnym, obejmującym klasy I–III edukacja wczesnoszkolna, edukacja realizowana jest w formie kształcenia zintegrowanego. Na II etapie edukacyjnym, obejmującym klasy IV–VIII, realizowane są następujące przedmioty:” po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) język mniejszości narodowej język niemiecki ;”,
+a) w części zatytułowanej „W szkole podstawowej na I etapie edukacyjnym, obejmującym klasy I–III – edukacja wczesnoszkolna, edukacja realizowana jest w formie kształcenia zintegrowanego. Na II etapie edukacyjnym, obejmującym klasy IV–VIII, realizowane są następujące przedmioty:” po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) język mniejszości narodowej – język niemiecki ;”,
 b) część zatytułowana „Edukacja dla bezpieczeństwa” otrzymuje brzmienie: „ Edukacja dla bezpieczeństwa Edukacja dla bezpieczeństwa służy przygotowaniu uczniów do właściwego zachowania i odpowiednich reakcji w sytuacjach stwarzających zagrożenie dla zdrowia i życia oraz w stanach nadzwyczajnych. Przedmiot obejmuje treści kształcenia z zakresu bezpieczeństwa państwa, treści dotyczące organizacji działań ratowniczych, pierwszej pomocy oraz edukacji obronnej.
 Bezpieczeństwo państwa jest pojmowane jako obszar wiedzy, który objaśnia działanie mechanizmów rządzących zapewnieniem ładu, porządku i stabilności społeczności ludzkich, towarzyszących temu koncepcji, metod i form postępowania. Kształcenie w ramach przygotowania do działania w stanach nadzwyczajnych ma charakter interdyscyplinarny, nastawiony na skuteczne działanie i radzenie sobie poszczególnych jednostek w sytuacjach określonych zagrożeń. Celem zajęć z edukacji dla bezpieczeństwa jest przekazanie uczniom wiedzy o zagrożeniach dnia codziennego i w stanach nadzwyczajnych oraz wykształcenie w nich praktycznych umiejętności w tym obszarze.
 Jedną z najważniejszych umiejętności zdobywanych w szkole jest umiejętność udzielania pierwszej pomocy. Już na wczesnym etapie edukacji należy wprowadzić zagadnienia związane z ochroną zdrowia i życia: ocenę bezpieczeństwa miejsca zdarzenia, rozpoznanie potencjalnego zagrożenia życia na podstawie prostych objawów, skuteczne wezwanie pomocy, podejmowanie wstępnych czynności ratujących życie.”,
-c) po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej język niemiecki” w brzmieniu: „Język mniejszości narodowej język niemiecki Zadaniem szkoły w zakresie nauczania języka niemieckiego jako języka mniejszości narodowej jest wspomaganie wszechstronnego i harmonijnego rozwoju ucznia przez wzmacnianie poczucia jego tożsamości narodowej, pogłębianie wiedzy z zakresu literatury i kultury niemieckiej. Nauczanie języka niemieckiego jako języka mniejszości narodowej powinno być wspierane przez uczenie zwyczajów, obyczajów oraz właściwych zachowań w środowisku rodzinnym, lokalnym i szkolnym.
+c) po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej – język niemiecki” w brzmieniu: „Język mniejszości narodowej – język niemiecki Zadaniem szkoły w zakresie nauczania języka niemieckiego jako języka mniejszości narodowej jest wspomaganie wszechstronnego i harmonijnego rozwoju ucznia przez wzmacnianie poczucia jego tożsamości narodowej, pogłębianie wiedzy z zakresu literatury i kultury niemieckiej. Nauczanie języka niemieckiego jako języka mniejszości narodowej powinno być wspierane przez uczenie zwyczajów, obyczajów oraz właściwych zachowań w środowisku rodzinnym, lokalnym i szkolnym.
 Rolą nauczyciela jest uświadamianie uczniom, że wspólnoty takie jak rodzina, środowisko lokalne i ojczyzna stanowią wielką wartość w życiu każdego człowieka i że każdy ma wobec tych wspólnot obowiązki.
 Ponadto nieodłącznym elementem pracy szkoły jest kształtowanie szacunku uczniów do swego języka ojczystego.”,
-d) w części zatytułowanej „I ETAP EDUKACYJNY: KLASY I–III EDUKACJA WCZESNOSZKOLNA” w części zatytułowanej „Treści nauczania wymagania szczegółowe” po dziale XI dodaje się dział XIa w brzmieniu: „XIa. Edukacja językowa. Język mniejszości narodowej język niemiecki.
+d) w części zatytułowanej „I ETAP EDUKACYJNY: KLASY I–III – EDUKACJA WCZESNOSZKOLNA” w części zatytułowanej „Treści nauczania – wymagania szczegółowe” po dziale XI dodaje się dział XIa w brzmieniu: „XIa. Edukacja językowa. Język mniejszości narodowej – język niemiecki.
 1. Świadomość własnego dziedzictwa narodowego. Uczeń:
 1) d ostrzega i rozumie wartość swego języka ojczystego, ma świadomość swej tożsamości narodowej;
 2) p oznaje podstawowe elementy przyrody, kultury materialnej i duchowej mniejszości narodowej, do której należy.
@@ -58,10 +58,11 @@ d) w części zatytułowanej „I ETAP EDUKACYJNY: KLASY I–III EDUKACJA WCZESN
 1) czyta i recytuje, z uwzględnieniem interpunkcji, intonacji, akcentów, poprawnej wymowy;
 2) wykorzystuje teksty literackie do tworzenia własnych wypowiedzi;
 3) czyta wskazane teksty literackie i wypowiada się na ich temat.”,
-e) w części zatytułowanej „II ETAP EDUKACYJNY: KLASY IV–VIII”: część zatytułowana „EDUKACJA DLA BEZPIECZEŃSTWA” otrzymuje brzmienie: „EDUKACJA DLA BEZPIECZEŃSTWA Cele kształcenia wymagania ogólne I. Rozumienie istoty bezpieczeństwa państwa.
+e) w części zatytułowanej „II ETAP EDUKACYJNY: KLASY IV–VIII”: – część zatytułowana „EDUKACJA DLA BEZPIECZEŃSTWA” otrzymuje brzmienie: „EDUKACJA DLA BEZPIECZEŃSTWA Cele kształcenia – wymagania ogólne I. Rozumienie istoty bezpieczeństwa państwa.
 II. Przygotowanie uczniów do działań w sytuacjach nadzwyczajnych zagrożeń (katastrof i wypadków masowych).
 III. Kształtowanie umiejętności z zakresu podstaw pierwszej pomocy.
-Treści nauczania wymagania szczegółowe I. Bezpieczeństwo państwa. Uczeń:
+IV. Kształtowanie postaw obronnych.
+Treści nauczania – wymagania szczegółowe I. Bezpieczeństwo państwa. Uczeń:
 1) zna i charakteryzuje podstawowe pojęcia związane z bezpieczeństwem państwa, rozumie istotę problemu bezpieczeństwa; wymienia składniki bezpieczeństwa państwa;
 2) jest zorientowany w geopolitycznych uwarunkowaniach bezpieczeństwa wynikających z położenia Polski;
 3) zna i przedstawia rolę organizacji międzynarodowych w zapewnieniu bezpieczeństwa Polski;
@@ -94,7 +95,7 @@ a) wymienia objawy utraty przytomności,
 b) ocenia przytomność poszkodowanego,
 c) ocenia czynność oddychania u osoby nieprzytomnej (trzema zmysłami przez okres do 10 sekund),
 d) wyjaśnia mechanizm niedrożności dróg oddechowych u osoby nieprzytomnej,
-e) udrażnia drogi oddechowe rękoczynem czoło żuchwa,
+e) udrażnia drogi oddechowe rękoczynem czoło – żuchwa,
 f) układa osobę nieprzytomną w pozycji bocznej bezpiecznej,
 g) zapewnia osobie nieprzytomnej komfort termiczny;
 9) systematycznie ponawia ocenę oddychania u osoby nieprzytomnej;
@@ -149,7 +150,7 @@ Na zajęciach związanych z celem „Kształtowanie postaw obronnych” należy 
 Zajęcia mogą być uzupełniane innymi formami, wśród których wymienić można:
 1) wizyty w instytucjach ratowniczych, jednostkach wojskowych, jednostkach służb mundurowych lub organizacjach proobronnych, które zostały zdefiniowane w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974);
 2) spotkania, prelekcje, wykłady z policjantami, strażnikami miejskimi, ratownikami medycznymi, kombatantami itp.;
-3) udział w konkursach, których zakres jest zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa.”, po części zatytułowanej „JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ” dodaje się część zatytułowaną „JĘZYK MNIEJSZOŚCI NARODOWEJ JĘZYK NIEMIECKI” w brzmieniu: „JĘZYK MNIEJSZOŚCI NARODOWEJ JĘZYK NIEMIECKI Cele kształcenia wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.
+3) udział w konkursach, których zakres jest zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa.”, – po części zatytułowanej „JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ” dodaje się część zatytułowaną „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI” w brzmieniu: „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI Cele kształcenia – wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.
 1. Znajomość podstawowych utworów literackich i innych tekstów kultury ważnych dla poczucia tożsamości narodowej.
 2. Znajomość podstawowych faktów z historii narodowej oraz z życia społeczności lokalnej.
 3. Znajomość podstawowych elementów kultury narodowej (np. symboli, legend, baśni).
@@ -166,7 +167,7 @@ IV. Tworzenie wypowiedzi.
 3. Rozwijanie umiejętności tworzenia wypowiedzi pisemnych.
 4. Wyrażanie własnych poglądów i opinii.
 5. Tworzenie wypowiedzi pisemnych z uwzględnieniem estetyki tekstu i zasad jego organizacji.
-Treści nauczania wymagania szczegółowe KLASY IV–VI I. Świadomość własnego dziedzictwa narodowego.
+Treści nauczania – wymagania szczegółowe KLASY IV–VI I. Świadomość własnego dziedzictwa narodowego.
 Uczeń zna i rozumie utwory literackie i inne teksty kultury ważne dla poczucia tożsamości narodowej.
 II. Kształcenie językowe.
 1. Gramatyka. Uczeń:
@@ -214,7 +215,7 @@ IV. Tworzenie wypowiedzi.
 3) tworzy wypowiedzi pisemne w następujących formach gatunkowych: opowiadanie, opis, charakterystyka postaci literackiej lub rzeczywistej;
 4) opisuje własne odczucia, które budzi utwór.
 KLASY VII i VIII Uczeń spełnia wymagania określone dla klas IV–VI.
-Treści nauczania wymagania szczegółowe I. Świadomość własnego dziedzictwa narodowego.
+Treści nauczania – wymagania szczegółowe I. Świadomość własnego dziedzictwa narodowego.
 Uczeń rozpoznaje tematy, motywy, toposy charakterystyczne dla literatury narodowej.
 II. Kształcenie językowe.
 1. Gramatyka. Uczeń:
@@ -269,19 +270,19 @@ Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej na
 Praca nauczyciela języka niemieckiego jako języka mniejszości narodowej w klasach IV–VIII polega na tworzeniu sytuacji sprzyjających rozwojowi zainteresowań uczniów.
 Nauczyciel w organizowaniu procesu dydaktycznego jest zobowiązany do stosowania rozwiązań metodycznych, które zapewnią integrację kształcenia literackiego, językowego i kulturowego uczniom będącym na różnych poziomach rozwoju intelektualnego. W swojej pracy powinien wykorzystywać metody aktywizujące, m.in. dyskusję, debatę, dramę, projekt edukacyjny, które wspomagają rozwój samodzielnego docierania do informacji i krytyczną ocenę własnej wiedzy i zdobywanych umiejętności.”;
 2) w załączniku nr 4a:
-a) w części zatytułowanej „Przedmioty nauczania z zakresu kształcenia ogólnego w branżowej szkole I stopnia:” po pkt 16 dodaje się pkt 16a w brzmieniu: „16a) język mniejszości narodowej język niemiecki ;”,
+a) w części zatytułowanej „Przedmioty nauczania z zakresu kształcenia ogólnego w branżowej szkole I stopnia:” po pkt 16 dodaje się pkt 16a w brzmieniu: „16a) język mniejszości narodowej – język niemiecki ;”,
 b) część zatytułowana „Edukacja dla bezpieczeństwa” otrzymuje brzmienie: „ Edukacja dla bezpieczeństwa Przedmiot przygotowuje uczniów teoretycznie i praktycznie do właściwego zachowania się oraz odpowiednich reakcji w sytuacjach trudnych i kryzysowych, stwarzających zagrożenie dla zdrowia i życia. Przedmiot obejmuje treści kształcenia z zakresu bezpieczeństwa państwa oraz treści dotyczące organizacji działań ratowniczych, pierwszej pomocy i edukacji obronnej. Niezwykle ważne jest, aby kłaść szczególny nacisk na kształcenie umiejętności praktycznych, powtarzanych możliwie często, szczególnie przy nauce pierwszej pomocy, terenoznawstwa oraz strzelectwa. Wyrabianie w ten sposób u uczniów odpowiednich nawyków ma istotne znaczenie w wykorzystywaniu przez nich zdobytych umiejętności w warunkach realnego zagrożenia, kiedy to naturalnie występujący wysoki poziom stresu wpływa na proces decyzyjny.
 Bezpieczeństwo państwa jest pojmowane jako obszar wiedzy, który objaśnia działanie mechanizmów rządzących zapewnieniem ładu, porządku i stabilności społeczności ludzkich, towarzyszących temu koncepcji, metod i form postępowania. Trzeba ten obszar rozpatrywać w kontekście sztuki umiejętności skutecznego działania i radzenia sobie poszczególnych jednostek w sytuacjach określonych zagrożeń. Rozumienie problematyki bezpieczeństwa państwa ma przy tym wieloaspektową wykładnię: pozwala zrozumieć przeszłość, tworzy obraz teraźniejszości i stanowi przesłanki do myślenia o przyszłości. Ujęta w treściach kształcenia problematyka koncentruje się na zarządzaniu, polityce i strategii bezpieczeństwa, z uwzględnieniem także kontekstu międzynarodowego.
 Umiejętność udzielania pierwszej pomocy, z uwagi na największe prawdopodobieństwo wykorzystania jej w praktyce w życiu codziennym, należy do najważniejszych tematów w przedmiocie edukacja dla bezpieczeństwa. Za szczególnie ważne w tym zakresie należy uznać właściwe postępowanie z osobami, u których wystąpiło nagłe zatrzymanie krążenia. Podjęcie akcji ratunkowej przez świadka zdarzenia, prowadzenie jej do czasu przyjazdu karetki pogotowia może uratować życie, natomiast zaniechanie działania w nieuchronny sposób zwiększa ryzyko śmierci chorego. Uczniów należy wdrażać do dbałości o bezpieczeństwo własne oraz innych, wskazując, w jaki sposób mogą uzyskać pomoc osób godnych zaufania i służb ratunkowych.”,
-c) po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej język niemiecki” w brzmieniu: „Język mniejszości narodowej język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej, tym samym służy kształtowaniu postaw świadomego i aktywnego uczestnictwa w życiu mieszkańców danego regionu.
+c) po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej – język niemiecki” w brzmieniu: „Język mniejszości narodowej – język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej, tym samym służy kształtowaniu postaw świadomego i aktywnego uczestnictwa w życiu mieszkańców danego regionu.
 Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest motywowanie ucznia do poznawania języka ojczystego oraz kultury narodowej, w tym literatury.
 Jednym z najważniejszych zadań nauczyciela jest również rozwijanie w uczniach postaw ciekawości, otwartości na otaczający świat oraz poszanowania kultury własnego narodu oraz kultury polskiej i europejskiej.
 Podstawa programowa dzieli wymagania na ogólne i szczegółowe. Do wymagań ogólnych należą: świadomość własnego dziedzictwa narodowego, kształcenie językowe, kształcenie literackie i kulturowe, tworzenie wypowiedzi. Jest to kompleksowe ujęcie nadrzędnych celów kształcenia, które informują, jak rozumieć podporządkowane im wymagania szczegółowe, które odwołują się do konkretnych umiejętności oraz ściśle określonych wiadomości. Spełnianie wymagań szczegółowych służy osiąganiu wymagań ogólnych.”,
-d) część zatytułowana „ EDUKACJA DLA BEZPIECZEŃSTWA ” otrzymuje brzmienie: „EDUKACJA DLA BEZPIECZEŃSTWA Cele kształcenia wymagania ogólne I. Bezpieczeństwo państwa.
+d) część zatytułowana „ EDUKACJA DLA BEZPIECZEŃSTWA ” otrzymuje brzmienie: „EDUKACJA DLA BEZPIECZEŃSTWA Cele kształcenia – wymagania ogólne I. Bezpieczeństwo państwa.
 II. Przygotowanie do działań ratowniczych w sytuacjach nadzwyczajnych zagrożeń (wypadków masowych i katastrof).
 III. Podstawy pierwszej pomocy.
 IV. Edukacja obronna.
-Treści nauczania wymagania szczegółowe I. Bezpieczeństwo państwa. Uczeń:
+Treści nauczania – wymagania szczegółowe I. Bezpieczeństwo państwa. Uczeń:
 1) identyfikuje wyzwania dla bezpieczeństwa indywidualnego i zbiorowego, kategoryzuje je, przypisuje im właściwe znaczenie w kontekście bezpieczeństwa lokalnego i bezpieczeństwa całego państwa;
 2) zna i wymienia zadania parlamentu, prezydenta, Rady Ministrów w dziedzinie obronności oraz elementy systemu obronnego państwa;
 3) omawia zadania, struktury organizacyjne oraz podstawowe uzbrojenie i wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej;
@@ -349,9 +350,10 @@ b) wskazuje, kiedy wezwać pomoc i w jaki sposób przekazać informacje o zdarze
 10) zna wyposażenie apteczki pierwszej pomocy; wymienia przedmioty, które powinny znaleźć się w apteczce np. domowej, samochodowej;
 11) zna zasady postępowania z osobą nieprzytomną:
 a) wymienia objawy utraty przytomności,
+b) ocenia przytomność poszkodowanego,
 c) ocenia czynność oddychania u osoby nieprzytomnej (trzema zmysłami przez okres do 10 sekund),
 d) wyjaśnia mechanizm niedrożności dróg oddechowych u osoby nieprzytomnej,
-e) udrażnia drogi oddechowe rękoczynem czoło żuchwa,
+e) udrażnia drogi oddechowe rękoczynem czoło – żuchwa,
 f) układa osobę nieprzytomną w pozycji bocznej bezpiecznej,
 g) zapewnia osobie nieprzytomnej komfort termiczny,
 h) systematycznie ponawia ocenę oddychania u osoby nieprzytomnej;
@@ -433,12 +435,12 @@ Lekcje w szkole powinny być uzupełniane innymi formami zajęć, wśród który
 4) zajęcia plenerowe;
 5) tworzenie wystaw prac własnych, klasowych i szkolnych, promujących właściwe zachowania w razie zagrożeń;
 6) zwiedzanie wystaw powiązanych z treściami przedmiotu;
-7) spotkania (np. udział w zajęciach), prelekcje, wykłady z pracownikami kluczowych instytucji bezpieczeństwa Policji, Państwowej Straży Pożarnej i Sił Zbrojnych Rzeczypospolitej Polskiej oraz pracownikami straży miejskiej, pogotowia, kombatantami;
+7) spotkania (np. udział w zajęciach), prelekcje, wykłady z pracownikami kluczowych instytucji bezpieczeństwa – Policji, Państwowej Straży Pożarnej i Sił Zbrojnych Rzeczypospolitej Polskiej oraz pracownikami straży miejskiej, pogotowia, kombatantami;
 8) udział w konkursach, których zakres jest zgodny bądź zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa.
 Wskazane jest nawiązywanie współpracy między szkołami a lokalnymi jednostkami Policji, Państwową Strażą Pożarną, ośrodkami szkolenia, jednostkami wojskowymi i organizacjami proobronnymi, zarówno we wspomnianym zakresie prowadzenia zajęć, jak i udostępnianiu specjalistycznego sprzętu czy pomocy dydaktycznych.
 Ważne znaczenie w rozwoju ma też wychowanie mające na celu kształtowanie postawy patriotycznej oraz poczucia odpowiedzialności za dorobek minionych pokoleń. Trwający proces globalizacyjny we wszystkich obszarach życia generuje nowe problemy, zagrożenia, nakłania do stawiania pytań. Nauczyciel powinien stwarzać warunki sprzyjające swobodnej wymianie myśli i poglądów, dbając przy tym o zachowanie niezbędnej dyscypliny i porządek zajęć.
 Warunki bazowe do realizacji programu: pracownia lub klasa do prowadzenia zajęć z przedmiotu edukacja dla bezpieczeństwa o wielkości umożliwiającej aranżację do ćwiczeń praktycznych. Wskazane jest zaplecze lub zabezpieczone miejsce umożliwiające przechowywanie pomocy dydaktycznych, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Szkoła powinna posiadać sprzęt audiowizualny i prezentacyjny (komputer, rzutnik zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której realizowane są zajęcia, powinny być zagwarantowane wymienione elementy bazowe.”,
-e) po części zatytułowanej „JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ” dodaje się część zatytułowaną „JĘZYK MNIEJSZOŚCI NARODOWEJ JĘZYK NIEMIECKI” w brzmieniu: „JĘZYK MNIEJSZOŚCI NARODOWEJ JĘZYK NIEMIECKI Cele kształcenia wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.
+e) po części zatytułowanej „JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ” dodaje się część zatytułowaną „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI” w brzmieniu: „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI Cele kształcenia – wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.
 1. Rozumienie znaczenia literatury i kultury w kształtowaniu poczucia tożsamości narodowej.
 2. Rozwijanie wiedzy z zakresu kultury narodowej.
 3. Kształtowanie świadomego uczestnictwa w życiu społeczności lokalnej.
@@ -452,7 +454,7 @@ III. Kształcenie literackie i kulturowe.
 IV. Tworzenie wypowiedzi.
 1. Rozwijanie umiejętności wypowiadania się w języku narodowym w różnych formach wypowiedzi ustnych i pisemnych.
 2. Rozwijanie umiejętności wypowiadania się w języku narodowym w różnych sytuacjach komunikacyjnych.
-Treści nauczania wymagania szczegółowe I. Świadomość własnego dziedzictwa narodowego. Uczeń:
+Treści nauczania – wymagania szczegółowe I. Świadomość własnego dziedzictwa narodowego. Uczeń:
 1) rozumie tematy, motywy charakterystyczne dla literatury narodowej;
 2) rozumie kontekst kulturowy poznawanych utworów literackich.
 II. Kształcenie językowe.
@@ -490,8 +492,8 @@ Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej je
 Nauczyciel odwołuje się do wiedzy i umiejętności nabytych przez ucznia na wcześniejszych etapach edukacyjnych. Uczy świadomego, krytycznego odbioru tekstów kultury. Zwraca uwagę na specyfikę życia mniejszości narodowej. Stwarza warunki do samodzielnego rozwoju intelektualnego oraz inspiruje do pogłębiania wiedzy.
 W tym celu stosuje wybrane metody wspierające rozwój ucznia, np. metodę projektu polegającą na szerokiej współpracy między uczniami.”.
 § 2. Podstawę programową kształcenia ogólnego dla branżowej szkoły I stopnia dla uczniów będących absolwentami ośmioletniej szkoły podstawowej, stanowiącą załącznik nr 4a do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w zakresie wymagania dotyczącego wykonywania przez ucznia strzelania z wykorzystaniem broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych realizuje się, począwszy od roku szkolnego 2024/2025, z tym że w przypadku branżowych szkół I stopnia, które na terenie danego powiatu:
-1) mają dostęp do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych wymóg ten jest realizowany od roku szkolnego 2022/2023;
-2) nie mają dostępu do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych wymóg ten jest realizowany w roku szkolnym 2022/2023 i 2023/2024 w miarę istniejących możliwości.
+1) mają dostęp do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych – wymóg ten jest realizowany od roku szkolnego 2022/2023;
+2) nie mają dostępu do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych – wymóg ten jest realizowany w roku szkolnym 2022/2023 i 2023/2024 w miarę istniejących możliwości.
 § 3. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
 Minister Edukacji i Nauki: wz. D. Piontkowski
 

@@ -8,7 +8,7 @@ pos: 2113
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19
@@ -28,6 +28,8 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2113/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112):
+
+- **1)** w art. 20 pkt 2 otrzymuje brzmienie: „2) po art. 4f dodaje się art. 4g i art. 4h w brzmieniu: „Art. 4g. W okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii ubezpieczonemu zatrudnionemu w podmiocie leczniczym, w okresie podlegania obowiązkowej kwarantannie lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, wynikających z pozostawania w styczności z osobami chorymi z powodu COVID-19 w związku z wykonywaniem obowiązków wynikających z zatrudnienia w podmiocie leczniczym oraz w czasie niezdolności do pracy z powodu COVID-19 powstałej w związku z wykonywaniem obowiązków wynikających z zatrudnienia w podmiocie leczniczym przysługuje zasiłek chorobowy, którego miesięczny wymiar wynosi 100% podstawy wymiaru zasiłku obliczonej na podstawie przepisów ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 
 **Art. 4h.**
 

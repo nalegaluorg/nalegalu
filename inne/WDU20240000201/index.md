@@ -8,10 +8,10 @@ pos: 201
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 16 lutego 2024 OBWIESZCZENIE PREZESA RADY MINISTRÓW z 14 lutego 2024 sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów sprawie terminów płatności i innych świadczeń pieniężnych funkcjonariuszom Wewnętrznego
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 201 OBWIESZCZENIE PREZESA RADY MINISTRÓW z dnia 14 lutego 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,48 +25,51 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/201/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy z 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z 11 marca 2003 sprawie terminów płatności i innych świadczeń pieniężnych funkcjonariuszom Wewnętrznego (Dz. U. poz. 454), z uwzględnieniem zmian wprowadzonych:
-1) rozporządzeniem Prezesa Rady Ministrów z 29 maja 2017 zmieniającym rozporządzenie sprawie terminów płatności i innych świadczeń pieniężnych funkcjonariuszom Wewnętrznego (Dz. U. poz. 1110);
-2) rozporządzeniem Prezesa Rady Ministrów z 6 sierpnia 2019 zmieniającym rozporządzenie sprawie terminów płatności i innych świadczeń pieniężnych funkcjonariuszom Wewnętrznego (Dz. U. poz. 1535).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Prezesa Rady Ministrów z 29 maja 2017 zmieniającego rozporządzenie sprawie terminów płatności i innych świadczeń pieniężnych funkcjonariuszom Wewnętrznego (Dz. U. poz. 1110), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”;
-2) § 2 rozporządzenia Prezesa Rady Ministrów z 6 sierpnia 2019 zmieniającego rozporządzenie sprawie terminów płatności i innych świadczeń pieniężnych funkcjonariuszom Wewnętrznego (Dz. U. poz. 1535), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z 11 marca 2003 sprawie terminów płatności i innych świadczeń pieniężnych funkcjonariuszom Wewnętrznego Na podstawie art. 142 ust. 3 ustawy z 24 maja 2002 o Wewnętrznego oraz Wywiadu (Dz. U. z 2023 poz. 1136, 1834 i 1860) zarządza się, co następuje: § 1. Rozporządzenie określa terminy płatności i innych świadczeń pieniężnych funkcjonariuszowi Wewnętrznego, zwanemu dalej „funkcjonariuszem”, a także właściwość i tryb postępowania sprawach wypłaty świadczeń pieniężnych oraz dokonywania potrąceń z tych należności.
-§ 2. 1. Uposażenie, o którym mowa art. 115 ustawy z 24 maja 2002 o Wewnętrznego oraz Wywiadu, zwanej dalej „ustawą”, wypłaca funkcjonariuszowi jednostka organizacyjna, której funkcjonariusz pozostaje na zaopatrzeniu finansowym, terminach miesięcznych z góry, pierwszym dniu roboczym każdego miesiąca, za który uposażenie przysługuje.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 11 marca 2003 r. w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 454), z uwzględnieniem zmian wprowadzonych:
+1) rozporządzeniem Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającym rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1110);
+2) rozporządzeniem Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r. zmieniającym rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1535).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 maja 2017 r. zmieniającego rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1110), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1535), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 11 marca 2003 r.
+w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 142 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860) zarządza się, co następuje:
+§ 1. Rozporządzenie określa terminy płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego, zwanemu dalej „funkcjonariuszem”, a także właściwość i tryb postępowania w sprawach wypłaty świadczeń pieniężnych oraz dokonywania potrąceń z tych należności.
+§ 2. 1. Uposażenie, o którym mowa w art. 115 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”, wypłaca funkcjonariuszowi jednostka organizacyjna, w której funkcjonariusz pozostaje na zaopatrzeniu finansowym, w terminach miesięcznych z góry, w pierwszym dniu roboczym każdego miesiąca, za który uposażenie przysługuje.
 2. (uchylony).
-§ 3. 1. Jeżeli prawo do wyższego zostało ustalone po sporządzeniu listy uposażenia, termin wypłaty wyrównania może zostać przesunięty na następny miesiąc.
-2. W przypadku nabycia przez funkcjonariusza prawa do pierwszego uposażenia, uposażenie to wypłaca się terminie 14 dni od podjęcia przez niego służby.
-§ 4. 1. Przysługujące funkcjonariuszowi inne świadczenia pieniężne, o których mowa art. 142 ust. 2 ustawy, zwane dalej „świadczeniami pieniężnymi”, wypłaca się terminie 14 dni od spełnienia warunków uzasadniających ich wypłatę, jeżeli przepisy sprawie zasad ich przyznawania i wypłacania nie przewidują innego terminu.
-2. Świadczenia pieniężne przysługujące związku ze zwolnieniem ze służby wypłaca się funkcjonariuszowi nie później niż dniu zwolnienia ze służby.
-3. Wypłaty świadczeń pieniężnych dokonuje właściwa komórka jednostki organizacyjnej, której funkcjonariusz pozostaje na zaopatrzeniu finansowym, po otrzymaniu dokumentów określających wysokość świadczeń pieniężnych przysługujących funkcjonariuszowi.
+§ 3. 1. Jeżeli prawo do wyższego uposażenia zostało ustalone po sporządzeniu listy uposażenia, termin wypłaty wyrównania uposażenia może zostać przesunięty na następny miesiąc.
+2. W przypadku nabycia przez funkcjonariusza prawa do pierwszego uposażenia, uposażenie to wypłaca się w terminie 14 dni od dnia podjęcia przez niego służby.
+§ 4. 1. Przysługujące funkcjonariuszowi inne świadczenia pieniężne, o których mowa w art. 142 ust. 2 ustawy, zwane dalej „świadczeniami pieniężnymi”, wypłaca się w terminie 14 dni od dnia spełnienia warunków uzasadniających ich wypłatę, jeżeli przepisy w sprawie zasad ich przyznawania i wypłacania nie przewidują innego terminu.
+2. Świadczenia pieniężne przysługujące w związku ze zwolnieniem ze służby wypłaca się funkcjonariuszowi nie później niż w dniu zwolnienia ze służby.
+3. Wypłaty świadczeń pieniężnych dokonuje właściwa komórka jednostki organizacyjnej, w której funkcjonariusz pozostaje na zaopatrzeniu finansowym, po otrzymaniu dokumentów określających wysokość świadczeń pieniężnych przysługujących funkcjonariuszowi.
 4. (uchylony).
-§ 5. Uposażenie oraz świadczenia pieniężne wypłaca się formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza formie pisemnej postaci papierowej albo elektronicznej.
-§ 6. 1. Z funkcjonariusza, o którym mowa art. 142 ust. 2 ustawy, potrąceń dokonuje właściwa komórka jednostki organizacyjnej, której funkcjonariusz pozostaje na zaopatrzeniu finansowym.
-2. Fakt dokonania potrącenia z funkcjonariusza odnotowuje się na liście uposażeń.
+§ 5. Uposażenie oraz świadczenia pieniężne wypłaca się w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.
+§ 6. 1. Z uposażenia funkcjonariusza, o którym mowa w art. 142 ust. 2 ustawy, potrąceń dokonuje właściwa komórka jednostki organizacyjnej, w której funkcjonariusz pozostaje na zaopatrzeniu finansowym.
+2. Fakt dokonania potrącenia z uposażenia funkcjonariusza odnotowuje się na liście uposażeń.
 § 7. Za zgodą funkcjonariusza, wyrażoną na piśmie, mogą być dokonywane potrącenia z tytułu zobowiązań:
-1) zapłaty odszkodowania, przewidzianych przepisach ustawy z 7 maja 1999 o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Wewnętrznego, Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U.
-z 2018 poz. 2349);
-2) wobec kasy oszczędnościowo-pożyczkowej utworzonej Wewnętrznego;
+1) zapłaty odszkodowania, przewidzianych w przepisach ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U.
+z 2018 r. poz. 2349);
+2) wobec kasy oszczędnościowo-pożyczkowej utworzonej w Agencji Bezpieczeństwa Wewnętrznego;
 3) innych, wskazanych przez funkcjonariusza.
 § 8. 1. Potrąceń dokonuje się:
-1) związku z egzekucją należności:
-a) objętych sądowymi lub administracyjnymi tytułami wykonawczymi na wezwanie komornika sądowego, organu właściwego do prowadzenia egzekucji administracyjnej lub wierzyciela uprawnionego do egzekwowania należności trybie administracyjnym,
-b) z tytułu szkód wyrządzonych mieniu Skarbu Państwa znajdującym się dyspozycji Wewnętrznego na pisemne wezwanie organu określonego przepisach dotyczących podmiotów właściwych do ustalania wysokości szkód, zawierania ugód oraz podejmowania decyzji dotyczących szkód wyrządzonych przez funkcjonariuszy,
-c) na podstawie odrębnych przepisów na pisemne wezwanie właściwego organu lub wierzyciela, z dokładnym określeniem kwoty podlegającej potrąceniu i powołaniem odpowiedniego przepisu zobowiązującego do potrącenia;
-2) przypadkach, o których mowa § 7 pkt 2 i 3, na podstawie zestawienia kwot podlegających potrąceniu, sporządzonego przez właściwy organ lub upoważnione osoby.
-2. Potrącenia na zaspokojenie należności z tytułu świadczeń alimentacyjnych oraz należności z tytułu odpowiedzialności majątkowej za szkody wyrządzone mieniu Skarbu Państwa znajdującym się dyspozycji Wewnętrznego mogą być dokonywane również bez postępowania egzekucyjnego, na wniosek wierzyciela, po przedstawieniu przez niego tytułu wykonawczego bądź dobrowolnego zobowiązania do zapłaty odszkodowania.
+1) w związku z egzekucją należności:
+a) objętych sądowymi lub administracyjnymi tytułami wykonawczymi – na wezwanie komornika sądowego, organu właściwego do prowadzenia egzekucji administracyjnej lub wierzyciela uprawnionego do egzekwowania należności w trybie administracyjnym,
+b) z tytułu szkód wyrządzonych w mieniu Skarbu Państwa znajdującym się w dyspozycji Agencji Bezpieczeństwa Wewnętrznego – na pisemne wezwanie organu określonego w przepisach dotyczących podmiotów właściwych do ustalania wysokości szkód, zawierania ugód oraz podejmowania decyzji dotyczących szkód wyrządzonych przez funkcjonariuszy,
+c) na podstawie odrębnych przepisów – na pisemne wezwanie właściwego organu lub wierzyciela, z dokładnym określeniem kwoty podlegającej potrąceniu i powołaniem odpowiedniego przepisu zobowiązującego do potrącenia;
+2) w przypadkach, o których mowa w § 7 pkt 2 i 3, na podstawie zestawienia kwot podlegających potrąceniu, sporządzonego przez właściwy organ lub upoważnione osoby.
+2. Potrącenia na zaspokojenie należności z tytułu świadczeń alimentacyjnych oraz należności z tytułu odpowiedzialności majątkowej za szkody wyrządzone w mieniu Skarbu Państwa znajdującym się w dyspozycji Agencji Bezpieczeństwa Wewnętrznego mogą być dokonywane również bez postępowania egzekucyjnego, na wniosek wierzyciela, po przedstawieniu przez niego tytułu wykonawczego bądź dobrowolnego zobowiązania do zapłaty odszkodowania.
 3. Przepisu ust. 2 nie stosuje się, jeżeli:
 1) świadczenia alimentacyjne mają być potrącone na rzecz kilku wierzycieli, a łączna suma, która ma być potrącona, nie wystarcza na pokrycie wszystkich zobowiązań alimentacyjnych;
-2) uposażenie zostało zajęte trybie egzekucji sądowej lub administracyjnej.
+2) uposażenie zostało zajęte w trybie egzekucji sądowej lub administracyjnej.
 4. Podstawę do dokonania potrącenia z tytułu:
 1) samowolnego opuszczenia miejsca pełnienia służby albo pozostawania poza nim lub niepodejmowania służby,
 2) zawinionej niemożności pełnienia obowiązków służbowych,
-3) rozpoczęcia urlopu bezpłatnego ciągu miesiąca kalendarzowego stanowi rozkaz personalny.
-§ 9. Z funkcjonariusza, należnego mu dniu wypłaty, nie dokonuje się potrąceń, jeżeli rozkaz personalny o zmniejszeniu został wydany po terminie wypłaty.
-§ 10. 1. W przypadku przeniesienia funkcjonariusza na zaopatrzenie finansowe do innej jednostki organizacyjnej właściwa komórka dotychczasowej jednostki organizacyjnej, której funkcjonariusz pełnił służbę:
-1) jest obowiązana wpisać zaświadczeniu o zaopatrzeniu finansowym funkcjonariusza kwoty dokonanych już potrąceń i kwoty pozostałego zadłużenia oraz wysokość miesięcznych bieżących obciążeń uposażenia;
+3) rozpoczęcia urlopu bezpłatnego w ciągu miesiąca kalendarzowego – stanowi rozkaz personalny.
+§ 9. Z uposażenia funkcjonariusza, należnego mu w dniu wypłaty, nie dokonuje się potrąceń, jeżeli rozkaz personalny o zmniejszeniu uposażenia został wydany po terminie wypłaty.
+§ 10. 1. W przypadku przeniesienia funkcjonariusza na zaopatrzenie finansowe do innej jednostki organizacyjnej właściwa komórka dotychczasowej jednostki organizacyjnej, w której funkcjonariusz pełnił służbę:
+1) jest obowiązana wpisać w zaświadczeniu o zaopatrzeniu finansowym funkcjonariusza kwoty dokonanych już potrąceń i kwoty pozostałego zadłużenia oraz wysokość miesięcznych bieżących obciążeń uposażenia;
 2) zawiadamia właściwy organ egzekucyjny lub wierzyciela o zaniechaniu dokonywania potrąceń na podstawie posiadanych tytułów wykonawczych, wskazując jednostkę organizacyjną, do której funkcjonariusz został przeniesiony.
-2. W przypadku zawieszenia lub przywrócenia wypłaty pełnego właściwa komórka jednostki organizacyjnej, której funkcjonariusz pozostaje na zaopatrzeniu finansowym, zawiadamia organ egzekucyjny lub wierzyciela, na którego wezwanie dokonuje się potrąceń.
+2. W przypadku zawieszenia lub przywrócenia wypłaty pełnego uposażenia właściwa komórka jednostki organizacyjnej, w której funkcjonariusz pozostaje na zaopatrzeniu finansowym, zawiadamia organ egzekucyjny lub wierzyciela, na którego wezwanie dokonuje się potrąceń.
 § 11. Kwoty potrąceń właściwa jednostka organizacyjna przekazuje zgodnie z dyspozycją funkcjonariusza albo organów egzekucyjnych lub wierzycieli, na których wezwanie są dokonywane potrącenia.
-§ 12. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia .
+§ 12. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

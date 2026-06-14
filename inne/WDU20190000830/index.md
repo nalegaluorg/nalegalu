@@ -8,10 +8,10 @@ pos: 830
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 maja 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 830 do rozporządzenia Ministra Zdrowia z dnia 29 kwietnia 2019 r. (poz.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000830) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/830/text.pdf) |
 
-Ministra Zdrowia z dnia 29 kwietnia 2019 r. (poz.
 …) WZÓR WNIOSEK □ O WYDANIE ZEZWOLENIA NA WYTWARZANIE PRODUKTÓW LECZNICZYCH □ O WYDANIE ZEZWOLENIA NA IMPORT PRODUKTÓW LECZNICZYCH
 1. DANE DOTYCZĄCE WNIOSKODAWCY:
-1) firma oraz adres i miejsce zamieszkania albo firma oraz adres i siedziba podmiotu ubiegającego się o zezwolenie, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ………………...............................................................................................................................................……..… ……...............................................................................................................................................………………......
+1) firma oraz adres i miejsce zamieszkania albo firma oraz adres i siedziba podmiotu ubiegającego się o zezwolenie, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania: ………………...............................................................................................................................................……..… ……...............................................................................................................................................………………......
 ....................................................................................................................................................................................
 2) numer identyfikacji podatkowej (NIP): …………………………………………….................................................................................................................
 3) numer wpisu do Krajowego Rejestru Sądowego: ........................................................................................................................................................………………….
@@ -281,13 +280,13 @@ Badane produkty lecznicze przeznaczone dla ludzi (Human Investigational Medicina
 2.3.4 Inne: wymienić (Other <free text>) Zastrzeżenia lub uwagi wyjaśniające dotyczące operacji importowych (Any restrictions or clarifying remarks related to the scope of these Importing operations) ……………………………………………………………………………………………………………………….
 ……………………………………………………………………………………………………………………….
 4. LISTA PRODUKTÓW LECZNICZYCH WYTWARZANYCH W DANYM MIEJSCU WYTWARZANIA (wypełnić odrębnie w przypadku wytwarzania produktów leczniczych przeznaczonych dla ludzi i produktów leczniczych weterynaryjnych, jeżeli dotyczy) Nazwa i adres miejsca wytwarzania (Name and address of the site): ………………………………………………..……………………………………………………………………...
-………………………………………………………………….…………………………………………………… ………………………………………………………………………….…………………………………………… Lp. Nazwa produktu leczniczego: □ przeznaczonego dla ludzi □ weterynaryjnego Dawka i nazwa Postać farmaceutyczna Uwagi substancji czynnej produktu 1 2 3 4 5
+………………………………………………………………….…………………………………………………… ………………………………………………………………………….…………………………………………… Lp. Nazwa produktu Dawka i nazwa Postać farmaceutyczna Uwagi leczniczego: substancji czynnej produktu □ przeznaczonego dla ludzi □ weterynaryjnego 1 2 3 4 5
 5. LISTA PRODUKTÓW LECZNICZYCH IMPORTOWANYCH DO DANEGO MIEJSCA IMPORTU (wypełnić odrębnie w przypadku importu produktów leczniczych przeznaczonych dla ludzi i produktów leczniczych weterynaryjnych, jeżeli dotyczy) Nazwa i adres miejsca importu (Name and address of the site): …………………………………………….…………..………………………………………………..…..……….
-…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa produktu leczniczego: □ przeznaczonego dla ludzi □ weterynaryjnego Dawka i nazwa substancji czynnej Postać farmaceutyczna produktu Produkt: □ końcowy □ pośredni □ luzem □ w opakowaniu bezpośrednim Uwagi 1 2 3 4 5 6
+…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa produktu Dawka Postać Produkt: Uwagi leczniczego: i nazwa farmaceutyczna □ końcowy □ przeznaczonego dla substancji produktu □ pośredni ludzi czynnej □ luzem □ weterynaryjnego □ w opakowaniu bezpośrednim 1 2 3 4 5 6
 6. LISTA BADANYCH PRODUKTÓW LECZNICZYCH WYTWARZANYCH W DANYM MIEJSCU WYTWARZANIA Nazwa i adres miejsca importu (Name and address of the site): …………………………………………….…………..………………………………………………..…..……….
-…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa: □ badanego produktu leczniczego □ produktu referencyjnego □ placebo Dawka Postać Pozostałe miejsca Uwagi i nazwa farmaceutyczna wytwarzania badanego substancji badanego produktu produktu leczniczego czynnej, oraz realizowane jeżeli w danym miejscu etapy dotyczy wytwarzania 1 2 3 4 5 6
+…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa: Dawka Postać Pozostałe miejsca Uwagi □ badanego i nazwa farmaceutyczna wytwarzania badanego produktu leczniczego substancji badanego produktu produktu leczniczego □ produktu czynnej, oraz realizowane referencyjnego jeżeli w danym miejscu etapy □ placebo dotyczy wytwarzania 1 2 3 4 5 6
 7. LISTA BADANYCH PRODUKTÓW LECZNICZYCH IMPORTOWANYCH DO DANEGO MIEJSCA IMPORTU Nazwa i adres miejsca importu (Name and address of the site): …………………………………………….…………..………………………………………………..…..……….
-…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa Dawka Postać Produkt: badanego i nazwa farmaceutyczna □ końcowy produktu substancji badanego leczniczego czynnej produktu leczniczego □ pośredni □ luzem □ w opakowaniu bezpośrednim Pozostałe miejsca Uwagi importu badanego produktu leczniczego oraz realizowane w danym miejscu czynności 1 2 3 4 5 6 7
+…………………………………………………….………………………………………………………………… ………………………………………………………………….…………………………………………………… Lp. Nazwa Dawka Postać Produkt: Pozostałe miejsca Uwagi badanego i nazwa farmaceutyczna □ końcowy importu badanego produktu substancji badanego □ pośredni produktu leczniczego czynnej produktu □ luzem leczniczego oraz leczniczego □ w opakowaniu realizowane bezpośrednim w danym miejscu czynności 1 2 3 4 5 6 7
 8. PODPIS WNIOSKODAWCY Data, nazwisko i imię przedsiębiorcy albo pełnomocnika .....................................................................................................................................................................................
 .....................................................................................................................................................................................
 ———————————

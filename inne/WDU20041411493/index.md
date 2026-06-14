@@ -1,0 +1,480 @@
+---
+title: "Ustawa z dnia 27 maja 2004 r. o zmianie ustawy - Prawo o miarach"
+address: WDU20041411493
+eli: DU/2004/1493
+publisher: DU
+year: 2004
+pos: 1493
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# o zmianie ustawy - Prawo o miarach
+
+*USTAWA z dnia 27 maja 2004 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2004 nr 141 poz. 1493 |
+| ISAP | WDU20041411493 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2004-05-27 |
+| Data wydania | 2004-06-21 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041411493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1493/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 11 maja 2001 r. - Prawo o miarach (Dz.U. Nr 63, poz. 636, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 uchyla się ust. 2;
+- **2)** art. 2a otrzymuje brzmienie: „Art. 2a. Przyrządy pomiarowe wprowadzone do obrotu w państwach członkowskich Unii Europejskiej, zgodnie z dyrektywami Unii Europejskiej, dopuszcza się do obrotu na terytorium Rzeczypospolitej Polskiej.”;
+- **3)** w art. 4:
+    - **a)** pkt 8 otrzymuje brzmienie: „8) wymagania - wymagania techniczne i metrologiczne, które powinien spełniać przyrząd pomiarowy,”,
+    - **b)** pkt 10 otrzymuje brzmienie: „10) badanie typu - zespół czynności mających na celu wykazanie, czy przyrząd pomiarowy danego typu spełnia wymagania, i stanowiących podstawę zatwierdzenia typu,”,
+    - **c)** uchyla się pkt 11,
+    - **d)** pkt 12 i 13 otrzymują brzmienie: „12) zatwierdzenie typu - potwierdzenie, w drodze decyzji, że typ przyrządu pomiarowego spełnia wymagania,
+
+- **13)** legalizacja - zespół czynności obejmujących sprawdzenie, stwierdzenie i poświadczenie dowodem legalizacji, że przyrząd pomiarowy spełnia wymagania,”,
+    - **e)** dodaje się pkt 18-20 w brzmieniu: „18) wzorcowanie zbiorników statków - zespół czynności mających na celu określenie pojemności zbiorników statków żeglugi śródlądowej i przybrzeżnej,
+
+- **19)** znak zatwierdzenia typu - znak umieszczany na przyrządzie pomiarowym, poświadczający jego zgodność z zatwierdzonym typem,
+- **20)** dowód legalizacji - świadectwo legalizacji lub cecha legalizacji umieszczana na przyrządzie pomiarowym, poświadczające dokonanie legalizacji.”;
+- **4)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Legalnymi jednostkami miar są:
+- **1)** jednostki Międzynarodowego Układu Jednostek Miar (SI),
+- **2)** jednostki nienależące do Międzynarodowego Układu Jednostek Miar (SI), dopuszczone do stosowania na terytorium Rzeczypospolitej Polskiej,
+- **3)** dziesiętne podwielokrotności i wielokrotności jednostek, o których mowa w pkt 1 i 2.
+
+2. Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** legalne jednostki miar nienależące do Międzynarodowego Układu Jednostek Miar (SI), które mogą być stosowane na terytorium Rzeczypospolitej Polskiej,
+- **2)** nazwy, definicje i oznaczenia legalnych jednostek miar,
+- **3)** przedrostki i ich oznaczenia przeznaczone do tworzenia dziesiętnych podwielokrotności i wielokrotności legalnych jednostek miar,
+- **4)** zasady pisowni oznaczeń legalnych jednostek miar - przy uwzględnieniu zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.”;
+- **5)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. 1. W celu zapewnienia przekazywania wartości legalnych jednostek miar od państwowych wzorców jednostek miar do przyrządów pomiarowych organy administracji miar mogą, na wniosek zainteresowanych podmiotów, wykonywać wzorcowanie przyrządów pomiarowych.
+
+2. Wzorcowanie, na wniosek zainteresowanego podmiotu, może dodatkowo obejmować stwierdzenie zgodności przyrządu pomiarowego ze wskazanymi przez ten podmiot wymaganiami lub specyfikacjami.
+
+3. Wynik wzorcowania, pozwalający na przypisanie wskazaniom przyrządu pomiarowego odpowiednich wartości wielkości mierzonej lub na wyznaczenie poprawek tych wskazań oraz błędów, jest poświadczany przez organ administracji miar w świadectwie wzorcowania.”;
+
+- **6)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Przyrządy pomiarowe, które mogą być stosowane:
+- **1)** w ochronie zdrowia, życia i środowiska,
+- **2)** w ochronie bezpieczeństwa i porządku publicznego,
+- **3)** w ochronie praw konsumenta,
+- **4)** przy pobieraniu opłat, podatków i innych należności budżetowych oraz ustalaniu opustów, kar umownych, wynagrodzeń i odszkodowań, a także przy pobieraniu i ustalaniu podobnych należności i świadczeń,
+- **5)** przy dokonywaniu kontroli celnej,
+- **6)** w obrocie - i są określone w przepisach wydanych na podstawie ust. 6, podlegają prawnej kontroli metrologicznej.
+
+2. Prawna kontrola metrologiczna przyrządów pomiarowych jest wykonywana przez:
+
+- **1)** zatwierdzenie typu przyrządu pomiarowego na podstawie badania typu - przed wprowadzeniem typu przyrządu pomiarowego do obrotu lub
+- **2)** legalizację pierwotną albo legalizację jednostkową - przed wprowadzeniem danego egzemplarza przyrządu pomiarowego do obrotu lub użytkowania, a także
+- **3)** legalizację ponowną - w stosunku do przyrządów pomiarowych wprowadzonych do obrotu lub użytkowania.
+
+3. Legalizacja jednostkowa jest legalizacją pierwotną przyrządu pomiarowego w wykonaniu jednostkowym, skonstruowanego dla określonego, szczególnego zastosowania.
+
+4. Legalizacja ponowna obejmuje legalizację przyrządu pomiarowego:
+
+- **1)** w związku z upływem okresu ważności legalizacji pierwotnej lub poprzedniej legalizacji ponownej,
+- **2)** w związku z jego instalacją w miejscu użytkowania przed upływem okresu ważności legalizacji pierwotnej, jeżeli sprawdzenie zgodności z wymaganiami powinno być wykonane przed i po zainstalowaniu tego przyrządu w miejscu użytkowania,
+- **3)** po jego naprawie,
+- **4)** w związku z utratą ważności legalizacji z przyczyn, o których mowa w art. 8n ust. 4.
+
+5. Zakres prawnej kontroli metrologicznej w zależności od rodzaju przyrządu pomiarowego może obejmować:
+
+- **1)** zatwierdzenie typu i legalizację pierwotną albo legalizację jednostkową oraz legalizację ponowną,
+- **2)** zatwierdzenie typu i legalizację pierwotną albo legalizację jednostkową,
+- **3)** wyłącznie zatwierdzenie typu,
+- **4)** legalizację pierwotną albo legalizację jednostkową i legalizację ponowną.
+
+6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, rodzaje przyrządów pomiarowych podlegających prawnej kontroli metrologicznej oraz zakres tej kontroli w stosunku do danego rodzaju przyrządów, mając na względzie niezbędność, z punktu widzenia obszarów zastosowań, objęcia określonych przyrządów pomiarowych prawną kontrolą metrologiczną, zakres ilościowy tych zastosowań, dziedziny pomiarowe, w których są one stosowane, oraz zobowiązania wynikające z wiążących Rzeczpospolitą Polską umów międzynarodowych.”;
+
+- **7)** po art. 8 dodaje się art. 8a-8n w brzmieniu: „Art. 8a. 1. Przyrządy pomiarowe podlegające prawnej kontroli metrologicznej mogą być wprowadzane do obrotu i użytkowania oraz użytkowane tylko wówczas, jeżeli posiadają odpowiednio ważną decyzję zatwierdzenia typu lub ważną legalizację.
+
+2. Za równoważne zatwierdzeniu typu i legalizacji pierwotnej Prezes Głównego Urzędu Miar, zwany dalej “Prezesem”, może uznać, w drodze decyzji, odpowiednie dokumenty potwierdzające dokonanie prawnej kontroli metrologicznej przyrządu pomiarowego przez właściwe zagraniczne instytucje metrologiczne.
+
+**Art. 8b.**
+
+1. Prawna kontrola metrologiczna przyrządów pomiarowych jest wykonywana przez organy administracji miar oraz, w zakresie udzielonych upoważnień, przez upoważnione podmioty.
+
+2. Postępowania w sprawach zatwierdzenia typu przyrządów pomiarowych prowadzi Prezes.
+
+3. Legalizacji przyrządów pomiarowych dokonują:
+
+- **1)** Prezes - w zakresie legalizacji jednostkowej,
+- **2)** Prezes i organy administracji miar, o których mowa w art. 10 pkt 2 - w zakresie legalizacji pierwotnej przyrządów pomiarowych, które są legalizowane bez zatwierdzenia typu,
+- **3)** organy administracji miar oraz podmioty upoważnione do przeprowadzania legalizacji pierwotnej określonych rodzajów przyrządów pomiarowych - w zakresie legalizacji pierwotnej przyrządów pomiarowych, których typ jest zatwierdzony,
+- **4)** organy administracji miar oraz podmioty upoważnione do przeprowadzania legalizacji ponownej określonych rodzajów przyrządów pomiarowych - w zakresie legalizacji ponownej.
+
+**Art. 8c.** Prawna kontrola metrologiczna przyrządów pomiarowych może być przeprowadzana w:
+
+- **1)** siedzibie organu administracji miar,
+- **2)** punkcie legalizacyjnym,
+- **3)** miejscu zainstalowania lub użytkowania przyrządu pomiarowego, jeżeli wynika to z wymagań,
+- **4)** miejscu wykonywania legalizacji pierwotnej lub legalizacji ponownej przez podmiot, któremu Prezes udzielił upoważnienia do wykonywania legalizacji pierwotnej lub legalizacji ponownej.
+
+**Art. 8d.**
+
+1. Z wnioskiem o zatwierdzenie typu przyrządu pomiarowego może wystąpić producent lub jego upoważniony przedstawiciel.
+
+2. Do wniosku o zatwierdzenie typu dołącza się dokumentację niezbędną do przeprowadzenia badania typu, a w szczególności dokumentację techniczno-konstrukcyjną typu przyrządu pomiarowego oraz przynajmniej jeden egzemplarz przyrządu pomiarowego reprezentujący typ, który ma zostać zatwierdzony, albo wskazuje się we wniosku miejsce zainstalowania tego egzemplarza, jeżeli wynika to z wymagań.
+
+**Art. 8e.**
+
+1. Jeżeli dane zawarte we wniosku o zatwierdzenie typu nie są kompletne lub nie zostały do niego dołączone wymagane dokumenty, Prezes wzywa wnioskodawcę do uzupełnienia wniosku w terminie 14 dni od dnia doręczenia wezwania.
+
+2. Jeżeli wnioskodawca nie uzupełni wniosku w terminie, wniosek pozostawia się bez rozpatrzenia.
+
+**Art. 8f.**
+
+1. Jeżeli wniosek o zatwierdzenie typu jest kompletny, przeprowadza się badanie typu przyrządu pomiarowego.
+
+2. Badanie typu przyrządu pomiarowego:
+
+- **1)** obejmuje analizę dokumentów i badanie charakterystyk technicznych oraz metrologicznych określonej liczby egzemplarzy reprezentujących typ przyrządu pomiarowego albo
+- **2)** może być ograniczone do analizy przedłożonych dokumentów, jeżeli wnioskodawca przedstawił protokoły z wynikami badań, przeprowadzonych przez kompetentne instytucje metrologiczne lub laboratoria, wykazującymi, że typ przyrządu pomiarowego spełnia wymagania.
+
+3. W wyniku przeprowadzonego badania typu Prezes może wydać odpowiednio decyzję:
+
+- **1)** zatwierdzenia typu,
+- **2)** zatwierdzenia typu z ograniczeniami, w szczególności co do: liczby przyrządów pomiarowych, które mogą być wprowadzone do obrotu, zobowiązania wnioskodawcy do informowania organów administracji miar o miejscu zainstalowania przyrządów lub ograniczenia zakresu ich zastosowania, w przypadku gdy w danym typie przyrządów pomiarowych zostały wprowadzone nowe rozwiązania techniczne, które nie zostały przewidziane w wymaganiach,
+- **3)** odmawiającą zatwierdzenia typu, gdy przyrząd pomiarowy nie spełnia wymagań.
+
+4. Na wniosek producenta lub jego upoważnionego przedstawiciela, Prezes może zmienić wydaną decyzję zatwierdzenia typu, w szczególności w przypadku modyfikacji przyrządu pomiarowego lub wprowadzenia do niego nowych elementów, jeżeli mają one lub mogą mieć wpływ na wyniki pomiarów, warunki właściwego stosowania lub warunki techniczne użytkowania tych przyrządów, po ponownym przeprowadzeniu w niezbędnym zakresie badania typu.
+
+5. Wydając decyzję, o której mowa w ust. 3 pkt 1 i 2, Prezes:
+
+- **1)** nadaje znak zatwierdzenia typu, jeżeli przyrząd pomiarowy podlega wyłącznie zatwierdzeniu typu,
+- **2)** może nadać znak zatwierdzenia typu, jeżeli przyrząd pomiarowy podlega zatwierdzeniu typu i legalizacji,
+- **3)** może określić miejsca umieszczania cech legalizacji oraz cech zabezpieczających na przyrządach pomiarowych zgodnych z zatwierdzonym typem.
+
+6. Jeżeli jest to niezbędne dla scharakteryzowania i identyfikacji typu przyrządu pomiarowego oraz objaśnienia jego działania, do decyzji mogą być dołączone opisy, rysunki, wykresy lub fotografie.
+
+**Art. 8g.**
+
+1. Prezes, w drodze decyzji, cofa zatwierdzenie typu, jeżeli przyrządy pomiarowe wykonane zgodnie z zatwierdzonym typem posiadają jednak wady, utrudniające ich zamierzone użytkowanie.
+
+2. Prezes może cofnąć zatwierdzenie typu w przypadku stwierdzenia, że:
+
+- **1)** przyrządy pomiarowe wprowadzone do obrotu lub użytkowania są niezgodne z zatwierdzonym typem lub nie spełniają wymagań,
+- **2)** ograniczenia określone w decyzji zatwierdzenia typu nie są przestrzegane.
+
+**Art. 8h.**
+
+1. Okres ważności zatwierdzenia typu wynosi dziesięć lat, o ile przepisy odrębne nie stanowią inaczej.
+
+2. Okres ważności na wniosek producenta lub jego upoważnionego przedstawiciela, może być przedłużany o kolejne okresy dziesięcioletnie.
+
+3. Okres ważności zatwierdzenia typu z ograniczeniami nie może przekraczać 2 lat i może być przedłużony nie więcej niż o 3 lata.
+
+4. Okres ważności nie może być przedłużony, jeżeli nastąpiła zmiana wymagań, a decyzja zatwierdzenia typu nie mogłaby być wydana na podstawie zmienionych przepisów.
+
+5. W przypadku gdy okres ważności nie zostanie przedłużony, zatwierdzenie typu uznaje się za ważne w odniesieniu do przyrządów pomiarowych wprowadzonych już do użytkowania.
+
+**Art. 8i.** Producent na wszystkich przyrządach pomiarowych podlegających:
+
+- **1)** wyłącznie zatwierdzeniu typu - umieszcza nadany znak zatwierdzenia typu,
+- **2)** zatwierdzeniu typu i legalizacji - może umieścić znak zatwierdzenia typu, jeżeli został nadany.
+
+**Art. 8j.**
+
+1. Legalizacja pierwotna albo legalizacja jednostkowa przyrządu pomiarowego jest dokonywana na wniosek:
+
+- **1)** producenta lub jego upoważnionego przedstawiciela,
+- **2)** importera.
+
+2. Do wniosku o legalizację pierwotną przyrządu pomiarowego niepodlegającego zatwierdzeniu typu oraz do wniosku o legalizację jednostkową dołącza się dokumentację techniczno-konstrukcyjną przyrządu pomiarowego.
+
+**Art. 8k.** Legalizacja ponowna przyrządu pomiarowego jest dokonywana na wniosek:
+
+- **1)** użytkownika,
+- **2)** wykonawcy naprawy lub instalacji przyrządu pomiarowego.
+
+**Art. 8l.** Organ administracji miar oraz podmiot upoważniony odmawiają dokonania legalizacji, jeżeli:
+
+- **1)** typ zgłoszonego przyrządu pomiarowego, podlegającego zatwierdzeniu typu, nie jest zatwierdzony,
+- **2)** przyrząd pomiarowy jest uszkodzony, niekompletny lub nieprzygotowany do sprawdzenia,
+- **3)** czynności związane z legalizacją mają być wykonywane w miejscu, o którym mowa w art. 8c pkt 3, a wnioskodawca nie zapewnił właściwych warunków do ich wykonania.
+
+**Art. 8m.**
+
+1. Organ administracji miar oraz podmiot upoważniony przeprowadzają podczas legalizacji sprawdzenie przyrządu pomiarowego pod względem zgodności z wymaganiami.
+
+2. Podczas legalizacji pierwotnej sprawdzenie obejmuje:
+
+- **1)** zgodność konstrukcji, wykonania, materiałów i charakterystyk metrologicznych z zatwierdzonym typem lub wymaganiami,
+- **2)** wymagane oznaczenia i znaki,
+- **3)** zgodność konstrukcji z dokumentacją technicznokonstrukcyjną, jeżeli zatwierdzenie typu nie jest wymagane.
+
+3. Podczas legalizacji jednostkowej sprawdzenie obejmuje:
+
+- **1)** analizę dokumentów i badanie charakterystyk technicznych oraz metrologicznych przyrządu albo
+- **2)** analizę dokumentów, jeżeli wnioskodawca przedstawił protokoły z wynikami badań przeprowadzonych przez właściwe instytucje metrologiczne lub upoważnione laboratoria, wykazującymi, że przyrząd pomiarowy spełnia wymagania.
+
+4. Podczas legalizacji ponownej sprawdzenie obejmuje:
+
+- **1)** oględziny przyrządu, w celu stwierdzenia czy przyrząd pomiarowy nie jest uszkodzony i czy istnieją wymagane oznaczenia i znaki,
+- **2)** zgodność charakterystyk metrologicznych z wymaganiami.
+
+5. Legalizacja pierwotna jednorodnej partii przyrządów pomiarowych może być wykonana jako sprawdzenie każdego egzemplarza przyrządu pomiarowego albo z zastosowaniem metody statystycznej.
+
+**Art. 8n.**
+
+1. W przypadku stwierdzenia na podstawie przeprowadzonego sprawdzenia przyrządu pomiarowego, że przyrząd pomiarowy spełnia wymagania, organ administracji miar lub podmiot upoważniony poświadczają dowodem legalizacji dokonanie legalizacji oraz zabezpieczają, jeżeli jest to niezbędne, określone elementy przyrządu pomiarowego przed dostępem osób nieuprawnionych za pomocą cech zabezpieczających.
+
+2. Legalizacja jest ważna przez czas określony.
+
+3. Jeżeli przyrząd pomiarowy podlega tylko zatwierdzeniu typu i legalizacji pierwotnej albo legalizacji jednostkowej, legalizacja jest ważna przez czas nieokreślony.
+
+4. Legalizacja traci ważność w przypadku:
+
+- **1)** stwierdzenia, że przyrząd pomiarowy przestał spełniać wymagania,
+- **2)** uszkodzenia przyrządu pomiarowego,
+- **3)** uszkodzenia albo zniszczenia cechy legalizacji lub cechy zabezpieczającej,
+- **4)** zmiany miejsca instalacji lub użytkowania przyrządu pomiarowego, w którym legalizacja była wykonana.”;
+- **8)** art. 9 otrzymuje brzmienie: „Art. 9. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+- **1)** tryb zgłaszania przyrządów pomiarowych do prawnej kontroli metrologicznej, a w szczególności dane, jakie powinien zawierać wniosek o jej przeprowadzenie, oraz rodzaje dokumentów dołączanych do wniosku, w tym zakres dokumentacji techniczno-konstrukcyjnej, a także przypadki, kiedy do wniosku o zatwierdzenie typu powinna być dołączona większa liczba egzemplarzy reprezentujących typ przyrządu pomiarowego,
+- **2)** szczegółowy sposób przeprowadzania prawnej kontroli metrologicznej, w tym przypadki, kiedy legalizacja pierwotna może być dokonywana za pomocą metody statystycznej i sposób jej dokonywania,
+- **3)** dowody legalizacji wydawane dla określonych rodzajów przyrządów pomiarowych,
+- **4)** okresy ważności legalizacji określonych rodzajów przyrządów pomiarowych, uwzględniając w szczególności warunki użytkowania tych przyrządów i przewidywane obszary ich zastosowań,
+- **5)** wzory:
+    - **a)** decyzji zatwierdzenia typu i świadectw legalizacji, mając na względzie konieczność zamieszczenia niezbędnych informacji w tych dokumentach,
+    - **b)** znaków zatwierdzenia typu, cech legalizacji i cech zabezpieczających, ustalając ich kształt i wymiary,
+
+- **6)** wartości podstawowych stałych fizycznych i liczbowe dane odniesienia dla właściwości określonych substancji i materiałów wykorzystywanych przy wykonywaniu prawnej kontroli metrologicznej określonych rodzajów przyrządów pomiarowych - przy uwzględnieniu zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.”;
+- **9)** po art. 9 dodaje się art. 9a i 9b w brzmieniu: „Art. 9a. Minister właściwy do spraw gospodarki określi, w drodze rozporządzeń, dla poszczególnych rodzajów lub grup przyrządów pomiarowych:
+- **1)** wymagania, którym powinny odpowiadać przyrządy pomiarowe podlegające prawnej kontroli metrologicznej w zakresie konstrukcji, wykonania, materiałów oraz charakterystyk metrologicznych, a także, jeżeli jest to niezbędne, w zakresie warunków właściwego stosowania tych przyrządów oraz miejsc umieszczania na nich cech legalizacji i zabezpieczających,
+- **2)** szczegółowy zakres badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej, a także, jeżeli jest to niezbędne, sposoby i metody ich przeprowadzania,
+- **3)** zakres informacji, jakie powinna zawierać instrukcja obsługi, oraz dodatkowe dokumenty poświadczające charakterystyki metrologiczne przyrządu pomiarowego, jeżeli są one niezbędne do prawidłowego przeprowadzenia badania danego rodzaju przyrządu pomiarowego - przy uwzględnieniu przeznaczenia przyrządów pomiarowych oraz zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
+
+**Art. 9b.**
+
+1. Organy administracji miar, na wniosek zainteresowanych podmiotów, wykonują wzorcowanie zbiorników statków żeglugi ś ródlądowej i przybrzeżnej.
+
+2. Wykonanie wzorcowania organ administracji miar poświadcza przez wydanie świadectwa wzorcowania i nałożenie cech zabezpieczających, o których mowa w art. 8n ust. 1, na określone elementy zbiornika.
+
+3. Okres ważności świadectwa wzorcowania i cech zabezpieczających wynosi 12 lat.
+
+4. Świadectwo wzorcowania i cechy zabezpieczające tracą ważność w przypadku zniekształcenia zbiornika, jego naprawy lub zmiany konstrukcji w sposób powodujący zmianę jego charakterystyki pomiarowej.
+
+5. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowy sposób wzorcowania zbiorników statków i dokumentowania jego wyników, warunki wydawania świadectw wzorcowania i nakładania cech zabezpieczających, a także wzór świadectwa wzorcowania, przy uwzględnieniu zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.”;
+
+- **10)** w art. 10 pkt 1 otrzymuje brzmienie: „1) Prezes Głównego Urzędu Miar, będący centralnym organem administracji rządowej,”;
+- **11)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Prezesa powołuje Prezes Rady Ministrów, na wniosek ministra właściwego do spraw gospodarki, na okres 6 lat.
+
+2. Prezes Rady Ministrów odwołuje Prezesa przed upływem kadencji w przypadku:
+
+- **1)** rezygnacji ze stanowiska,
+- **2)** trwałej niezdolności do pełnienia obowiązków na skutek choroby, potwierdzonej orzeczeniem lekarskim,
+- **3)** skazania prawomocnym wyrokiem sądu za przestępstwo popełnione umyślnie,
+- **4)** rażącego naruszenia obowiązków wynikających z ustawy.
+
+3. Wiceprezesów Urzędu powołuje i odwołuje minister właściwy do spraw gospodarki na wniosek Prezesa.
+
+4. Dyrektorów powołuje i odwołuje Prezes.
+
+5. Naczelników powołuje i odwołuje Prezes na wniosek właściwego dyrektora.
+
+6. Prezes sprawuje nadzór i kontrolę prawidłowości wykonywania przez dyrektorów i naczelników zadań należących do ich zakresu działania.”;
+
+- **12)** art. 14 otrzymuje brzmienie: „Art. 14. 1. Organizację Urzędu określa statut nadany przez ministra właściwego do spraw gospodarki w drodze zarządzenia, który podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+2. Organizację okręgowych urzędów miar określają regulaminy nadane przez Prezesa, w drodze zarządzenia, przy uwzględnieniu potrzeb gospodarki i możliwości technicznych tych urzędów.
+
+3. Organizację obwodowych urzędów miar określają regulaminy nadane przez Prezesa w drodze zarządzenia, na wniosek dyrektorów, przy uwzględnieniu potrzeb gospodarki i możliwości technicznych tych urzędów.”;
+
+- **13)** w art. 16 pkt 9-11 otrzymują brzmienie: „9) udzielanie i cofanie, w drodze decyzji, upoważnień do legalizacji pierwotnej lub legalizacji ponownej określonych rodzajów przyrządów pomiarowych,
+- **10)** wydawanie, odmowa wydania i cofanie, w drodze decyzji, zezwoleń na prowadzenie działalności w zakresie wykonywania napraw lub instalacji oraz sprawdzania określonych rodzajów przyrządów pomiarowych,
+- **11)** sprawowanie nadzoru nad jednostkami, o których mowa w pkt 9 i 10, w zakresie działalności wynikającej z udzielonych im upoważnień i zezwoleń,”;
+- **14)** po art. 16 dodaje się art. 16a-16g w brzmieniu: „Art. 16a. 1. Prezes może udzielić zainteresowanemu podmiotowi upoważnienia do wykonywania legalizacji pierwotnej lub legalizacji ponownej określonych rodzajów przyrządów pomiarowych. Do wniosku o udzielenie upoważnienia należy dołączyć dokumenty potwierdzające spełnianie warunków do wydania upoważnienia.
+
+2. Podmiot ubiegający się o wydanie upoważnienia powinien:
+
+- **1)** dysponować personelem posiadającym wiedzę techniczną niezbędną do dokonywania legalizacji rodzajów przyrządów pomiarowych objętych wnioskiem,
+- **2)** dysponować wyposażeniem technicznym niezbędnym do wykonywania legalizacji danego rodzaju przyrządów pomiarowych,
+- **3)** być niezależny i bezstronny w stosunku do podmiotów występujących z wnioskiem o legalizację.
+
+3. Upoważniony podmiot powinien prowadzić dokumentację czynności wykonywanych w ramach legalizacji.
+
+4. Prezes wydaje upoważnienie do legalizacji pierwotnej lub legalizacji ponownej po sprawdzeniu, czy zainteresowany podmiot spełnia warunki do wydania upoważnienia.
+
+5. Upoważnienie do legalizacji pierwotnej lub legalizacji ponownej wydaje się na okres 36 miesięcy, przy czym okres jego ważności, na wniosek zainteresowanego podmiotu, może być przedłużany o kolejne okresy 36 miesięczne po kontrolnym sprawdzeniu spełniania warunków do wydania upoważnienia.
+
+6. Prezes może cofnąć udzielone upoważnienie przed upływem jego ważności, jeżeli w wyniku kontroli upoważnionego podmiotu stwierdza się, że podmiot przestał spełniać warunki wydania upoważnienia lub przy dokonywaniu legalizacji nie przestrzega obowiązujących przepisów.
+
+**Art. 16b.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+
+- **1)** rodzaje przyrządów pomiarowych, dla których mogą być wydawane upoważnienia do legalizacji pierwotnej lub legalizacji ponownej,
+- **2)** tryb wydawania i przedłużania upoważnień do legalizacji pierwotnej lub legalizacji ponownej, w tym dane, jakie powinien zawierać wniosek o wydanie lub przedłużenie upoważnienia, oraz rodzaje dokumentów, jakie powinny być dołączone do wniosku,
+- **3)** szczegółowe warunki wydawania upoważnień, w tym sposób potwierdzania posiadania odpowiedniej wiedzy przez personel i zakres podstawowego wyposażenia technicznego niezbędnego do wykonywania legalizacji danych rodzajów przyrządów pomiarowych,
+- **4)** zakres i sposób dokumentowania przez podmioty upoważnione wykonywanych czynności podczas legalizacji - mając na względzie zakres i rodzaj powierzanych czynności, konieczność ewidencjonowania niezbędnych danych o przyrządzie pomiarowym i wykonywanych czynnościach oraz zobowiązania wynikające z wiążących Rzeczpospolitą Polską umów międzynarodowych.
+
+**Art. 16c.**
+
+1. Wykonywanie działalności gospodarczej w zakresie instalacji lub napraw oraz sprawdzania pod względem zgodności z wymaganiami okresowo, przed i po zainstalowaniu oraz po naprawie określonych rodzajów przyrządów pomiarowych, jeżeli to wynika z wiążących Rzeczpospolitą Polską umów międzynarodowych, wymaga uzyskania zezwolenia na wykonywanie tej działalności, zwanego dalej „zezwoleniem”.
+
+2. Organem właściwym w sprawach zezwoleń jest Prezes.
+
+3. Przedsiębiorca ubiegający się o wydanie zezwolenia powinien:
+
+- **1)** dysponować personelem posiadającym wiedzę techniczną niezbędną do wykonywania instalacji lub napraw oraz sprawdzania przyrządów pomiarowych,
+- **2)** dysponować wyposażeniem technicznym niezbędnym do wykonywania instalacji lub napraw oraz sprawdzania przyrządów pomiarowych,
+- **3)** być niezależny i bezstronny w stosunku do podmiotów, na rzecz których świadczy usługi.
+
+4. Zezwolenie wydaje się na pisemny wniosek, który zawiera:
+
+- **1)** oznaczenie przedsiębiorcy, jego siedzibę i adres,
+- **2)** numer REGON i numer identyfikacji podatkowej,
+- **3)** wskazanie rodzaju przyrządów pomiarowych co do których mają być wykonywane instalacje lub naprawy oraz sprawdzanie,
+- **4)** wskazanie miejsca świadczenia usług,
+- **5)** określenie zakresu świadczonych usług.
+
+5. Do wniosku dołącza się dokumenty potwierdzające spełnianie warunków, o których mowa w ust. 3.
+
+**Art. 16d.**
+
+1. Zezwolenie wydaje się na czas określony, nie krótszy niż 12 miesięcy oraz nie dłuższy niż 48 miesięcy.
+
+2. W zezwoleniu:
+
+- **1)** określa się:
+    - **a)** uprawnionego przedsiębiorcę oraz jego siedzibę i adres,
+    - **b)** rodzaje przyrządów pomiarowych oraz zakres usług objętych zezwoleniem,
+    - **c)** miejsce świadczenia usług,
+    - **d)** okres jego ważności,
+
+- **2)** nadaje się specjalną cechę, którą upoważniony przedsiębiorca umieszcza na zainstalowanym lub naprawionym oraz sprawdzonym przyrządzie pomiarowym w celu potwierdzenia wykonania tych czynności.
+
+3. Zezwolenie może zawierać dodatkowo inne informacje niezbędne do prawidłowej identyfikacji przedsiębiorcy i wykonywanych przez niego usług w zakresie napraw lub instalacji oraz sprawdzania.
+
+4. Przedsiębiorca posiadający zezwolenie powinien prowadzić dokumentację i ewidencję wykonywanych czynności przy naprawach, instalacji i sprawdzaniu przyrządów pomiarowych.
+
+5. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku o wydanie zezwolenia na wykonywanie działalności w zakresie instalacji lub napraw oraz sprawdzania przyrządów pomiarowych,
+- **2)** rodzaje dokumentów dołączanych do wniosku,
+- **3)** zakres podstawowego wyposażenia technicznego niezbędnego do wykonywania instalacji lub napraw, sprawdzania przyrządów pomiarowych oraz sposób potwierdzania posiadania odpowiedniej wiedzy przez personel,
+- **4)** okresy, w jakich są wykonywane sprawdzenia tych przyrządów pomiarowych,
+- **5)** sposób dokumentowania i prowadzenia ewidencji wykonywanych czynności przy instalacji i naprawach przyrządów pomiarowych,
+- **6)** wzór specjalnej cechy nadawanej przedsiębiorcy, ustalając jej kształt i wymiary - przy uwzględnieniu zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
+
+6. Informacje o udzielonych i cofniętych zezwoleniach są ogłaszane przez Prezesa, w drodze obwieszczenia, w Dzienniku Urzędowym Głównego Urzędu Miar co najmniej raz w roku.
+
+**Art. 16e.** Prezes odmawia wydania zezwolenia, jeżeli:
+
+- **1)** wniosek o wydanie zezwolenia nie spełnia warunków określonych w art. 16c ust. 4 lub
+- **2)** nie są dołączone do niego wymagane dokumenty, lub
+- **3)** przedsiębiorca nie spełnia wymagań, o których mowa w art. 16c ust. 3.
+
+**Art. 16f.** Prezes cofa zezwolenie, jeżeli:
+
+- **1)** przedsiębiorca przestał spełniać warunki określone w art. 16c ust. 3,
+- **2)** wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywanie działalności gospodarczej objętej zezwoleniem,
+- **3)** podjęto decyzję o likwidacji lub ogłoszono upadłość przedsiębiorcy,
+- **4)** przedsiębiorca nie usunął w wyznaczonym terminie stanu faktycznego lub prawnego niezgodnego z przepisami prawa,
+- **5)** przedsiębiorca stosuje przyrządy pomiarowe nieposiadające dowodów prawnej kontroli metrologicznej.
+
+**Art. 16g.**
+
+1. Organy administracji miar są uprawnione do przeprowadzania kontroli podmiotów i przedsiębiorców, o których mowa w art. 16a i art. 16c, w zakresie spełniania warunków niezbędnych do wykonywania udzielonych upoważnień i zezwoleń oraz przestrzegania przepisów ustawy.
+
+2. Do kontroli upoważnionych podmiotów i uprawnionych przedsiębiorców stosuje się odpowiednio przepisy art. 21 ust. 1 pkt 1 i 4, ust. 2 i 4.”;
+
+- **15)** w art. 17:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prezes może, w drodze decyzji, na wniosek producenta, importera lub przedsiębiorcy dokonującego napraw lub instalacji, po zasięgnięciu opinii właściwego dyrektora, tworzyć na czas określony punkty legalizacyjne, uwzględniając potrzeby gospodarki.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Podmiot ubiegający się o utworzenie punktu legalizacyjnego jest obowiązany zapewnić warunki techniczno-organizacyjne do dokonywania legalizacji, a w szczególności zapewnić odpowiednie miejsce wykonywania legalizacji, właściwe wyposażenie techniczne punktu oraz udział personelu pomocniczego przy dokonywaniu legalizacji.”,
+    - **c)** dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, dane, jakie powinien zawierać wniosek o utworzenie punktu legalizacyjnego, szczegółowe warunki utworzenia punktu i zakres wyposażenia technicznego punktu, uwzględniając specyfikę i zakres wykonywanych czynności podczas legalizacji.”;
+
+- **16)** art. 18 otrzymuje brzmienie: „Art. 18. 1. Obwieszczenia Prezesa, o których mowa w art. 16 pkt 2, są ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+2. W Dzienniku Urzędowym Głównego Urzędu Miar podlegają ogłoszeniu w szczególności:
+
+- **1)** rejestr zatwierdzonych typów przyrządów pomiarowych,
+- **2)** informacje o utworzeniu lub zniesieniu punktów legalizacyjnych,
+- **3)** informacje o zatwierdzonych przez właściwe organy i instytucje innych państw typach przyrządów pomiarowych, stosownie do wiążących Rzeczpospolitą Polską umów międzynarodowych,
+- **4)** zarządzenia Prezesa w sprawach, o których mowa w art. 14 ust. 2 i 3.
+
+3. Informacje w sprawach wydanych decyzji zatwierdzenia typu, zmian decyzji i odmowy zatwierdzenia typu, cofnięcia zatwierdzenia typu oraz w sprawach wydanych i cofniętych zezwoleń, o których mowa w art. 16c, stosownie do wiążących Rzeczpospolitą Polską umów międzynarodowych, Prezes przekazuje właściwym instytucjom i organizacjom zagranicznym.”;
+
+- **17)** w art. 21 w ust. 1 pkt 4 otrzymuje brzmienie: „4) kierowanie do właściwego organu zawiadomień o popełnieniu przestępstwa w przypadku uzasadnionych podejrzeń o fałszowanie dowodów przeprowadzenia prawnej kontroli metrologicznej,”;
+- **18)** po art. 21 dodaje się art. 21a w brzmieniu: „Art. 21a. 1. Prezes może, w drodze decyzji, zakazać wprowadzenia do obrotu lub użytkowania przyrządów pomiarowych wykonanych zgodnie z zatwierdzonym typem, posiadających jednak wady utrudniające ich zamierzone użytkowanie.
+
+2. W stosunku do przyrządów pomiarowych podlegających wyłącznie zatwierdzeniu typu Prezes może, w drodze decyzji, zakazać producentowi wprowadzania do obrotu lub użytkowania przyrządów pomiarowych danego typu, jeżeli po uprzednim wezwaniu, w wyznaczonym terminie, nie doprowadzi on produkowanych przyrządów pomiarowych do zgodności z zatwierdzonym typem lub wymaganiami.
+
+3. O podjętych działaniach, o których mowa w ust. 1 i 2, Prezes bezzwłocznie powiadamia państwa członkowskie Unii Europejskiej oraz Komisję Europejską, przedstawiając uzasadnienie decyzji.”;
+
+- **19)** art. 24 otrzymuje brzmienie: „Art. 24. 1. Czynności urzędowe wykonywane przez organy administracji miar i podległe im urzędy, określone w niniejszej ustawie i jej przepisach wykonawczych oraz wynikające z wykonywania przez nie zadań przewidzianych w odrębnych ustawach, podlegają opłacie.
+
+2. Opłaty pobiera się za następujące czynności:
+
+- **1)** wydanie, zmianę i odmowę wydania decyzji zatwierdzenia typu przyrządów pomiarowych,
+- **2)** wydanie dowodu legalizacji albo za wykonane czynności sprawdzenia w przypadku, gdy przyrząd pomiarowy nie spełnia wymagań i nie może być zalegalizowany,
+- **3)** uznanie i odmowę uznania za równoważne prawnej kontroli metrologicznej w Rzeczypospolitej Polskiej odpowiedniej kontroli wykonanej przez właściwe zagraniczne instytucje metrologiczne,
+- **4)** udzielenie, odmowę udzielenia lub zmianę upoważnienia do legalizacji pierwotnej oraz ponownej,
+- **5)** udzielenie lub zmianę zezwolenia do wykonywania napraw lub instalacji przyrządów pomiarowych,
+- **6)** wydanie, zmianę i odmowę wydania decyzji o utworzeniu punktu legalizacyjnego,
+- **7)** wzorcowanie zbiorników statków,
+- **8)** wykonane podczas przeprowadzania kontroli, o której mowa w art. 16g ust. 1,
+- **9)** związane z uznawaniem wzorców jednostek miar za państwowe wzorce jednostek miar,
+- **10)** związane ze sprawowaniem nadzoru nad jednostkami i laboratoriami spoza administracji miar będących właścicielami tych wzorców,
+- **11)** związane z kontrolą towarów paczkowanych.
+
+3. Opłaty stanowią dochód budżetu państwa.
+
+4. Opłaty, o których mowa w ust. 2 pkt 1-7, uiszcza wnioskodawca.
+
+5. Opłaty, o których mowa w ust. 2 pkt 8-11, uiszcza podmiot kontrolowany lub nadzorowany.
+
+6. Do ponoszenia opłat stosuje się odpowiednio przepisy działu III ustawy - Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują organom administracji miar.
+
+7. Do opłat, o których mowa w ust. 2, nie stosuje się przepisów Ordynacji podatkowej dotyczących odraczania terminu płatności podatku lub zapłaty zaległości podatkowej, rozkładania na raty podatku lub zapłaty zaległości podatkowej, umarzania zaległości podatkowej.”;
+
+- **20)** po art. 24 dodaje się art. 24a w brzmieniu: „Art. 24a. 1. Wysokość należnych opłat, o których mowa w art. 24 ust. 2 pkt 1, 3 i 8-11, ustala organ administracji miar w drodze decyzji, biorąc pod uwagę charakter, zakres i czas trwania wykonanych czynności oraz obowiązujące stawki godzinowe za czas pracy pracowników administracji miar.
+
+2. Wysokość należnych opłat, o których mowa w art. 24 ust. 2 pkt 2 i 4-7, ustala we własnym zakresie wnioskodawca na podstawie obowiązujących stawek.
+
+3. Wnioskodawca uiszcza opłaty, o których mowa w:
+
+- **1)** art. 24 ust. 2 pkt 2 i 7 - w terminie 7 dni od dnia złożenia wniosku,
+- **2)** art. 24 ust. 2 pkt 4-6 - w terminie 14 dni od dnia doręczenia decyzji.
+
+4. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, wysokość i tryb pobierania opłat, o których mowa w art. 24, uwzględniając rodzaje przyrządów pomiarowych, charakter wykonywanych czynności, stopień skomplikowania i czas trwania przeprowadzanych badań i sprawdzeń oraz ich uzasadnione koszty, a także wskaźniki wzrostu cen towarów i usług konsumpcyjnych oraz dodatkowo mając na uwadze w przypadku opłat, o których mowa w art. 24 ust. 2 pkt 4 i 5:
+
+- **1)** zakres udzielanych upoważnień i zezwoleń,
+- **2)** okres czasu, na jaki upoważnienia i zezwolenia są wydawane.”;
+- **21)** art. 25 otrzymuje brzmienie: „Art. 25. Za inne czynności wykonywane przez organy administracji miar i podległe im urzędy w ramach umów cywilnoprawnych, związane z:
+- **1)** badaniem przyrządów pomiarowych i wydawaniem certyfikatów zgodności w ramach systemu Międzynarodowej Organizacji Metrologii Prawnej,
+- **2)** wzorcowaniem i ekspertyzami przyrządów pomiarowych,
+- **3)** dostarczaniem odbiorcom wzorców miar i materiałów odniesienia,
+- **4)** udzielaniem konsultacji i prowadzeniem doradztwa technicznego w zakresie doboru i stosowania przyrządów pomiarowych,
+- **5)** szkoleniem specjalistycznym w dziedzinie miar na rzecz jednostek i podmiotów spoza administracji miar - pobiera się wynagrodzenie określane w tych umowach.”;
+- **22)** w art. 26 w ust. 1 pkt 4 i 5 otrzymują brzmienie: „4) dokonuje legalizacji pierwotnej lub legalizacji ponownej przyrządów pomiarowych bez wymaganego upoważnienia,
+- **5)** naprawia lub instaluje oraz sprawdza określone rodzaje przyrządów pomiarowych bez wymaganego zezwolenia,”;
+- **23)** po art. 29 dodaje się art. 29a w brzmieniu: „Art. 29a. Przyrządy pomiarowe zalegalizowane do dnia 31 grudnia 2003 r. zgodnie z zasadami określonymi w art. 29 mogą być nadal legalizowane, lecz nie dłużej niż do dnia 31 grudnia 2013 r., o ile spełniają wymagania przepisów, na podstawie których zostały zalegalizowane.”;
+- **24)** użyte w art. 4 w pkt 9, w art. 21 w ust. 1 w pkt 5 i w art. 26 w ust. 1 w pkt 2 w różnych przypadkach wyrazy „wymagania metrologiczne” zastępuje się użytym w odpowiednich przypadkach wyrazem „wymagania”.
+
+**Art. 2.**
+
+1. Okres ważności decyzji zatwierdzenia typu, wydanych od dnia 1 stycznia 2003 r. do dnia wejścia w życie niniejszej ustawy, wynosi 10 lat.
+
+2. Decyzje, o których mowa w ust. 1, mogą być zmieniane i przedłużane na zasadach określonych w art. 8f ust. 4 i art. 8h ustawy, o której mowa w art. 1.
+
+**Art. 3.** Przyrządy pomiarowe - ciepłomierze do wody i ich elementy wprowadzone do użytkowania:
+
+- **1)** w okresie od dnia 1 stycznia 1994 r. do dnia 30 czerwca 2000 r. - mogą być użytkowane bez dowodu legalizacji nie dłużej niż do dnia 31 grudnia 2005 r. i mogą być legalizowane, jeżeli spełniają wymagania obowiązujące w czasie wydania decyzji zatwierdzenia typu;
+- **2)** przed dniem 1 stycznia 1994 r. - mogą być użytkowane bez dowodu legalizacji nie dłużej niż do dnia 31 grudnia 2005 r. i nie mogą być legalizowane.
+
+**Art. 4.**
+
+1. Upoważnienia do legalizacji ponownej określonych przyrządów pomiarowych wydane na podstawie art. 16 pkt 9 ustawy wymienionej w art. 1, w brzmieniu dotychczasowym, zachowują ważność do dnia upływu terminu określonego w upoważnieniu.
+
+2. Upoważnienia wydane na podstawie art. 16 pkt 10 ustawy wymienionej w art. 1, w brzmieniu dotychczasowym, zachowują ważność do dnia upływu terminu określonego w upoważnieniu, nie dłużej jednak niż do dnia 30 czerwca 2005 r.
+
+**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust 2, art. 8 ust. 2, art. 9 i art. 14 ustawy wymienionej w art. 1 zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 5 ust. 2, art. 8 ust. 6, art. 9, art. 9a i art. 14 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 30 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 6.** Ogłoszenie tekstu jednolitego ustawy - Prawo o miarach nastąpi w terminie 6 miesięcy od dnia ogłoszenia.
+
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

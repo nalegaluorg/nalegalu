@@ -8,7 +8,7 @@ pos: 1571
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
@@ -34,6 +34,31 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** art. 41 otrzymuje brzmienie: „Art. 41. Powództwo ze stosunku małżeństwa wytacza się wyłącznie przed sąd, w którego okręgu małżonkowie mieli ostatnie miejsce zamieszkania, jeżeli choć jedno z nich w okręgu tym jeszcze ma miejsce zamieszkania lub zwykłego pobytu. Z braku takiej podstawy wyłącznie właściwy jest sąd miejsca zamieszkania strony pozwanej, a jeżeli i tej podstawy nie ma – sąd miejsca zamieszkania powoda.”;
+- **2)** art. 49 otrzymuje brzmienie: „Art. 49. Niezależnie od przyczyn wymienionych w art. 48, sąd wyłącza sędziego na jego żądanie lub na wniosek strony, jeżeli istnieje okoliczność tego rodzaju, że mogłaby wywołać uzasadnioną wątpliwość co do bezstronności sędziego w danej sprawie.”;
+- **3)** w art. 130 :
+    - **a)** uchyla się § 3 i 4;
+    - **b)** § 5 otrzymuje brzmienie: „§ 5. Przepisu § 1 nie stosuje się, gdy obowiązek uiszczenia opłaty stosunkowej powstał na skutek sprawdzenia przez sąd wskazanej przez stronę wartości przedmiotu sporu lub zaskarżenia.”;
+
+- **4)** w art. 235 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu: „§ 2. Jeżeli charakter dowodu się temu nie sprzeciwia, sąd orzekający może postanowić, że jego przeprowadzenie nastąpi przy użyciu urządzeń technicznych umożliwiających dokonanie tej czynności na odległość. Sąd orzekający przeprowadza dowód w obecności sądu wezwanego lub referendarza sądowego w tym sądzie.
+
+§ 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, rodzaje urządzeń i środków technicznych umożliwiających przeprowadzenie dowodu na odległość, sposób korzystania z tego rodzaju urządzeń i środków, jak również sposób przechowywania, odtwarzania i kopiowania zapisów dokonanych podczas jego przeprowadzenia, mając na względzie konieczność właściwego zabezpieczenia utrwalonego obrazu lub dźwięku przed utratą dowodu, jego zniekształceniem lub nieuprawnionym ujawnieniem.”;
+
+- **5)** w art. 398 § 1 i 2 otrzymują brzmienie: „§ 1. Na orzeczenie referendarza sądowego co do istoty sprawy, orzeczenie kończące postępowanie, orzeczenia, o których mowa w art. 394 § 1 pkt 1, 2, 4 , 5-9, orzeczenie co do nadania klauzuli wykonalności, a także orzeczenia co do stwierdzenia wykonalności europejskiego nakazu zapłaty i co do wydania zaświadczenia, o którym mowa w art. 795 , przysługuje skarga, chyba że przepis szczególny stanowi inaczej. Skargę rozpoznaje sąd, w którym wydano zaskarżone orzeczenie.
+
+§ 2. W razie wniesienia skargi orzeczenie referendarza sądowego traci moc, z wyjątkiem orzeczenia o nadaniu klauzuli wykonalności i orzeczeń o stwierdzeniu wykonalności europejskiego nakazu zapłaty i o wydaniu zaświadczenia, o którym mowa w art. 795 .”;
+
+- **6)** w art. 403:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Można również żądać wznowienia w razie późniejszego wykrycia prawomocnego wyroku, dotyczącego tego samego stosunku prawnego, albo wykrycia takich okoliczności faktycznych lub środków dowodowych, które mogłyby mieć wpływ na wynik sprawy, a z których strona nie mogła skorzystać w poprzednim postępowaniu.”,
+    - **b)** uchyla się § 3;
+
+- **7)** w art. 412 uchyla się § 3;
+- **8)** w art. 424 § 3 otrzymuje brzmienie: „§ 3. Jeżeli w chwili orzekania sprawa ze względu na osobę nie podlegała orzecznictwu sądów polskich albo w sprawie droga sądowa była niedopuszczalna, Sąd Najwyższy – stwierdzając niezgodność orzeczenia z prawem – uchyla zaskarżone orzeczenie oraz orzeczenie sądu pierwszej instancji i odrzuca pozew albo umarza postępowanie.”;
+- **9)** art. 479 otrzymuje brzmienie: „Art. 479 . W sprawach gospodarczych rozpoznawanych według przepisów niniejszego działu, przepisy o innych postępowaniach odrębnych stosuje się w zakresie, w którym nie są one sprzeczne z przepisami tego działu. Nie dotyczy to spraw gospodarczych rozpoznawanych w europejskim postępowaniu nakazowym albo europejskim postępowaniu w sprawie drobnych roszczeń.”;
+- **10)** uchyla się art. 479 ;
+- **11)** w art. 479 § 3 otrzymuje brzmienie: „§ 3. W razie niezłożenia odpisu wezwania do dobrowolnego spełnienia żądania lub reklamacji wraz z dowodem doręczenia albo wysłania go pozwanemu przesyłką poleconą, stosuje się przepis art. 130.”;
+- **12)** w części pierwszej w księdze pierwszej w tytule VII dodaje się dział VII w brzmieniu: „Dział VII Europejskie postępowania w sprawach transgranicznych
+
 #### Rozdział 1.
 
 **Art. 505¹⁵.**
@@ -54,7 +79,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 **Art. 505¹⁸.**
 
-§ 1. Jeżeli europejski nakaz zapłaty, zgodnie z przepisami odrębnymi, może zostać wydany tylko co do części roszczenia roszczenia sąd rozpoznaje we właściwym trybie. W przypadkach wskazanych w ustawie sąd rozpoznaje sprawę według przepisów o postępowaniach odrębnych, z wyłączeniem przepisów o postępowaniu nakazowym i upominawczym.
+§ 1. Jeżeli europejski nakaz zapłaty, zgodnie z przepisami odrębnymi, może zostać wydany tylko co do części roszczenia i powód wyraża na to zgodę, sprawę co do pozostałej części roszczenia sąd rozpoznaje we właściwym trybie. W przypadkach wskazanych w ustawie sąd rozpoznaje sprawę według przepisów o postępowaniach odrębnych, z wyłączeniem przepisów o postępowaniu nakazowym i upominawczym.
 
 § 2. W przypadku, o którym mowa w § 1, jeżeli sąd rozpoznaje sprawę według przepisów o postępowaniu odrębnym w sprawach gospodarczych, przewodniczący wyznacza termin, w którym powód jest obowiązany w piśmie procesowym podać wszystkie twierdzenia oraz dowody na ich poparcie pod rygorem utraty prawa powoływania ich w toku postępowania, chyba że wykaże, iż ich powołanie w wyznaczonym terminie nie było możliwe albo że potrzeba ich powołania wynikła później. Przepis art. 479 § 1 zdanie drugie stosuje się. Wraz z odpisem pozwu pozwanemu doręcza się odpis pisma procesowego powoda.
 
@@ -70,7 +95,9 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 **Art. 505²⁰.**
 
-§ 1. W razie stwierdzenia, że istnieje określona w przepisach odrębnych podstawa do uchylenia europejskiego nakazu zapłaty, na wniosek pozwanego sąd, który go wydał, a w przypadku nakazu wydanego przez referendarza sądowego – sąd, przed którym wytoczono powództwo, uchyla nakaz zapłaty. wego i wskazywać okoliczności uzasadniające uchylenie europejskiego nakazu zapłaty.
+§ 1. W razie stwierdzenia, że istnieje określona w przepisach odrębnych podstawa do uchylenia europejskiego nakazu zapłaty, na wniosek pozwanego sąd, który go wydał, a w przypadku nakazu wydanego przez referendarza sądowego – sąd, przed którym wytoczono powództwo, uchyla nakaz zapłaty.
+
+§ 2. Wniosek powinien czynić zadość warunkom pisma procesowego i wskazywać okoliczności uzasadniające uchylenie europejskiego nakazu zapłaty.
 
 § 3. Przed uchyleniem europejskiego nakazu zapłaty sąd wysłucha powoda na posiedzeniu lub zażąda od niego oświadczenia na piśmie.
 
@@ -108,7 +135,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 2. Uchylając zaskarżony wyrok, sąd drugiej instancji przekazuje sprawę do rozpoznania z wyłączeniem przepisów o postępowaniach odrębnych.”;
 
-- **13)** po art. 598 dodaje się art. 598 w brzmieniu: „Art. 598 . § 1. Dla przymusowego odebrania, zgodnie z art. 598 –598 , osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, na podstawie orzeczenia sądu albo innego organu państwa obcego, niezbędne jest stwierdzenie wykonalności tego wiednio.
+- **13)** po art. 598 dodaje się art. 598 w brzmieniu: „Art. 598 . § 1. Dla przymusowego odebrania, zgodnie z art. 598 –598 , osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, na podstawie orzeczenia sądu albo innego organu państwa obcego, niezbędne jest stwierdzenie wykonalności tego orzeczenia. Przepisy art. 1150–1151 i 1151 stosuje się odpowiednio.
 
 § 2. Wniosek, o którym mowa w art. 598 , uprawniony składa do sądu opiekuńczego, który byłby właściwy w sprawie o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką.”;
 
@@ -134,6 +161,13 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 **Art. 795⁹.** Na postanowienie w przedmiocie wydania zaświadczenia przysługuje zażalenie.”;
 
+- **17)** w art. 820 § 1 otrzymuje brzmienie: „§ 1. W przypadku egzekucji prowadzonej na podstawie tytułu wykonawczego w postaci zaopatrzonego w klauzulę wykonalności tytułu egzekucyjnego, o którym mowa w art. 1153 , art. 1153 i art. 1153 , albo na podstawie tytułu wykonawczego w postaci zaopatrzonego w klauzulę wykonalności orzeczenia sądu wydanego w europejskim postępowaniu w sprawie drobnych roszczeń, sąd może na wniosek dłużnika zawiesić postępowanie także z innych przyczyn przewidzianych w przepisach odrębnych.”;
+- **18)** art. 840 otrzymuje brzmienie: „Art. 840 . Jeżeli podstawą egzekucji jest tytuł wykonawczy w postaci zaopatrzonego w klauzulę wykonalności orzeczenia sądu, o którym mowa w art. 1153 , art. 1153 lub art. 1153 , dłużnik może w drodze powództwa żądać odmowy wykonania takiego tytułu, w całości lub części, na podstawie określonej w przepisach odrębnych. Odmowa wykonania ma skutki pozbawienia tytułu wykonawczego wykonalności.”;
+- **19)** uchyla się art. 1096 i skreśla się poprzedzające go wyrazy „Przepis wstępny”;
+- **20)** art. 1097 i 1098 otrzymują brzmienie: „Art. 1097. § 1. Jurysdykcja krajowa istniejąca w chwili wszczęcia postępowania trwa nadal, choćby jej podstawy odpadły w toku postępowania.
+
+§ 2. Sąd nie może uznać, że brak jest jurysdykcji krajowej, jeżeli jej podstawy powstały w toku postępowania.
+
 **Art. 1098.**
 
 § 1. Jeżeli sprawa o to samo roszczenie między tymi samymi stronami zawisła przed sądem państwa obcego wcześniej niż przed sądem polskim, sąd polski zawiesza postępowanie. Sąd nie zawiesza jednak postępowania, jeżeli orzeczenie, które ma wydać sąd państwa obcego, nie będzie spełniało przesłanek jego uznania w Rzeczypospolitej Polskiej lub nie można oczekiwać, że postępowanie przed sądem państwa obcego zostanie prawomocnie zakończone w rozsądnym terminie.
@@ -145,7 +179,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 § 4. Przepisy § 1–3 stosuje się odpowiednio do sprawy zawisłej przed innym niż są d organem państwa obcego.”;
 
 - **21)** po art. 1098 dodaje się art. 1098 w brzmieniu: „Art. 1098 . Jeżeli rozstrzygnięcie sprawy zależy od wyniku innego postępowania w sprawie cywilnej toczącego się przed sądem lub innym organem państwa obcego, sąd może zawiesić postępowanie z urzędu, chyba że orzeczenie, które ma wydać sąd albo inny organ państwa obcego, nie spełni przesłanek jego uznania w Rzeczypospolitej Polskiej.”;
-- **22)** art. 1099 otrzymuje brzmienie: „Art. 1099. § 1. Brak jurysdykcji krajowej sąd bierze pod rozwagę z urzędu w każdym stanie sprawy. W razie stwierdzenia braku jurysdykcji 1104 § 2 lub art. 1105 § 5.
+- **22)** art. 1099 otrzymuje brzmienie: „Art. 1099. § 1. Brak jurysdykcji krajowej sąd bierze pod rozwagę z urzędu w każdym stanie sprawy. W razie stwierdzenia braku jurysdykcji krajowej sąd odrzuca pozew albo wniosek, z zastrzeżeniem art. 1104 § 2 lub art. 1105 § 5.
 
 § 2. Brak jurysdykcji krajowej stanowi przyczynę nieważności postępowania.”;
 
@@ -161,7 +195,9 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 - **3)** małżonek będący powodem jest obywatelem polskim i ma co najmniej od sześciu miesięcy bezpośrednio przed wszczęciem postępowania miejsce zamieszkania lub miejsce zwykłego pobytu w Rzeczypospolitej Polskiej, lub
 - **4)** oboje małżonkowie są obywatelami polskimi.
 
-§ 2. Jurysdykcja krajowa jest wyłączna, jeżeli oboje małżonkowie są obywatelami polskimi oraz mają miejsce zamieszkania i miejsce zwykłego pobytu w Rzeczypospolitej Polskiej. orzekanie o władzy rodzicielskiej nad wspólnymi małoletnimi dziećmi małżonków.
+§ 2. Jurysdykcja krajowa jest wyłączna, jeżeli oboje małżonkowie są obywatelami polskimi oraz mają miejsce zamieszkania i miejsce zwykłego pobytu w Rzeczypospolitej Polskiej.
+
+§ 3. Jurysdykcja krajowa w sprawie małżeńskiej obejmuje także orzekanie o władzy rodzicielskiej nad wspólnymi małoletnimi dziećmi małżonków.
 
 **Art. 1103².**
 
@@ -188,7 +224,11 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 2. Sprawy z powództwa pracownika, dotyczące zapewnienia warunków zatrudnienia zgodnie z art. 67 i art. 67 Kodeksu pracy, należą do jurysdykcji krajowej także wtedy, gdy pracownik jest albo był skierowany do pracy na terytorium Rzeczypospolitej Polskiej przez pracodawcę mającego siedzibę w państwie będącym członkiem Unii Europejskiej.
 
-§ 3. Przepis § 2 stosuje się odpowiednio, gdy pracownik został skierowany do pracy na terytorium Rzeczypospolitej Polskiej przez pracodawcę mającego siedzibę w państwie niebędącym członkiem Unii Europejskiej. lowi należą do jurysdykcji krajowej także wtedy, gdy:
+§ 3. Przepis § 2 stosuje się odpowiednio, gdy pracownik został skierowany do pracy na terytorium Rzeczypospolitej Polskiej przez pracodawcę mającego siedzibę w państwie niebędącym członkiem Unii Europejskiej.
+
+**Art. 1103⁵.**
+
+§ 1. Sprawy ze stosunku ubezpieczenia przeciwko ubezpieczycielowi należą do jurysdykcji krajowej także wtedy, gdy:
 
 - **1)** powód ma miejsce zamieszkania w Rzeczypospolitej Polskiej lub
 - **2)** istnieje jurysdykcja krajowa w sprawie przeciwko ubezpieczycielowi głównemu, a pozwany ubezpieczyciel jest współubezpieczycielem, lub
@@ -203,6 +243,19 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 § 2. W sprawach, o których mowa w § 1, druga strona umowy z konsumentem jest traktowana jak podmiot mający miejsce zamieszkania albo siedzibę w Rzeczypospolitej Polskiej, jeżeli ma zakład lub oddział w Rzeczypospolitej Polskiej, a umowa z konsumentem została zawarta w ramach działalności zakładu lub oddziału.
 
 **Art. 1103⁷.** Sprawy rozpoznawane w procesie, inne niż wymienione w art. 1103 –1103 , należą do jurysdykcji krajowej także wtedy, gdy dotyczą:
+
+- **1)** zobowiązania wynikającego z czynności prawnej, które zostało wykonane albo ma lub miało być wykonane w Rzeczypospolitej Polskiej;
+- **2)** zobowiązania niewynikającego z czynności prawnej, które powstało w Rzeczypospolitej Polskiej;
+- **3)** działalności znajdującego się w Rzeczypospolitej Polskiej zakładu lub oddziału pozwanego;
+- **4)** roszczenia o prawo majątkowe, a pozwany ma majątek w Rzeczypospolitej Polskiej lub przysługują mu prawa majątkowe w Rzeczypospolitej Polskiej o znacznej wartości w stosunku do wartości przedmiotu sporu;
+- **5)** przedmiotu sporu znajdującego się w Rzeczypospolitej Polskiej;
+- **6)** spadku po osobie, która w chwili śmierci miała miejsce zamieszkania lub miejsce zwykłego pobytu w Rzeczypospolitej Polskiej.
+
+**Art. 1103⁸.**
+
+§ 1. Do wyłącznej jurysdykcji krajowej należą sprawy o prawa rzeczowe na nieruchomości i o posiadanie nieruchomości położonej w Rzeczypospolitej Polskiej, jak również sprawy ze stosunku najmu, dzierżawy i innych stosunków dotyczących używania takiej nieruchomości, z wyjątkiem spraw o czynsz i inne należności związane z używaniem lub pobieraniem pożytków z takiej nieruchomości.
+
+§ 2. Do wyłącznej jurysdykcji krajowej należą także sprawy niewymienione w § 1 w zakresie, w którym rozstrzygnięcie dotyczy praw rzeczowych, posiadania lub używania nieruchomości położonej w Rzeczypospolitej Polskiej.
 
 **Art. 1103⁹.** Do wyłącznej jurysdykcji krajowej należą sprawy o rozwiązanie osoby prawnej lub jednostki organizacyjnej niebędącej osobą prawną, jak również o uchylenie lub stwierdzenie nieważności uchwał ich organów, jeżeli osoba prawna lub jednostka organizacyjna niebędąca osobą prawną ma siedzibę w Rzeczypospolitej Polskiej.
 
@@ -225,7 +278,8 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 § 2. Umowa wyłączająca jurysdykcję sądów polskich nie może dotyczyć spraw:
 
 - **1)** należących do wyłącznej jurysdykcji sądów polskich;
-- **2)** z zakresu prawa pracy, chyba że umowa zostanie zawarta po powstaniu sporu; konsumenta, który ma miejsce zamieszkania lub miejsce zwykłego pobytu w Rzeczypospolitej Polskiej;
+- **2)** z zakresu prawa pracy, chyba że umowa zostanie zawarta po powstaniu sporu;
+- **3)** wynikłych lub mogących wyniknąć z umów zawartych przez konsumenta, który ma miejsce zamieszkania lub miejsce zwykłego pobytu w Rzeczypospolitej Polskiej;
 - **4)** wynikłych lub mogących wyniknąć ze stosunku ubezpieczenia.
 
 § 3. Jurysdykcji sądów polskich nie wyłącza umowa, na podstawie której tylko jedna ze stron może wytoczyć powództwo przed sądy państwa obcego.
@@ -243,7 +297,9 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 3. Do jurysdykcji krajowej należą również sprawy o stwierdzenie zgonu cudzoziemca mającego miejsce zamieszkania i miejsce zwykłego pobytu za granicą, jeżeli zgon nastąpił w Rzeczypospolitej Polskiej.”;
 
-- **30)** po art. 1106 dodaje się art. 1106 –1106 w brzmieniu: „Art. 1106 . § 1. Do jurysdykcji krajowej należą sprawy o ubezwłasnowolnienie osoby będącej obywatelem polskim lub cudzoziemca mającego miejsce zamieszkania lub miejsce zwykłego pobytu w Rzeczypospolitej Polskiej. wniosek o ubezwłasnowolnienie, jest obywatelem polskim, mającym miejsce zamieszkania i miejsce zwykłego pobytu w Rzeczypospolitej Polskiej.
+- **30)** po art. 1106 dodaje się art. 1106 –1106 w brzmieniu: „Art. 1106 . § 1. Do jurysdykcji krajowej należą sprawy o ubezwłasnowolnienie osoby będącej obywatelem polskim lub cudzoziemca mającego miejsce zamieszkania lub miejsce zwykłego pobytu w Rzeczypospolitej Polskiej.
+
+§ 2. Jurysdykcja krajowa jest wyłączna, jeżeli osoba, której dotyczy wniosek o ubezwłasnowolnienie, jest obywatelem polskim, mającym miejsce zamieszkania i miejsce zwykłego pobytu w Rzeczypospolitej Polskiej.
 
 **Art. 1106².**
 
@@ -252,6 +308,9 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 § 2. Sprawy o podział majątku wspólnego po ustaniu wspólności majątkowej małżeńskiej należą do jurysdykcji krajowej także wtedy, gdy majątek wspólny albo jego znaczna część znajduje się w Rzeczypospolitej Polskiej.
 
 **Art. 1106³.** Do jurysdykcji krajowej należą sprawy z zakresu stosunków między rodzicami a dziećmi, jeżeli:
+
+- **1)** dziecko, którego sprawa dotyczy, ma miejsce zamieszkania lub miejsce zwykłego pobytu w Rzeczypospolitej Polskiej lub
+- **2)** wnioskodawca i dziecko, którego sprawa dotyczy, są obywatelami polskimi.
 
 **Art. 1106⁴.**
 
@@ -263,7 +322,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 - **31)** art. 1107 otrzymuje brzmienie: „Art. 1107. § 1. Do jurysdykcji krajowej należą sprawy z zakresu opieki i kurateli nad osobą będącą obywatelem polskim lub cudzoziemcem mającym miejsce zamieszkania lub miejsce zwykłego pobytu w Rzeczypospolitej Polskiej, jak również sprawy z zakresu kurateli nad osobą prawną lub niebędącą osobą prawną jednostk ą organizacyjną, mającą siedzibę w Rzeczypospolitej Polskiej. Ustanowienie kurateli do załatwienia poszczególnej sprawy należy do jurysdykcji krajowej, jeżeli należy do niej ta sprawa.
 
-§ 2. Sądy polskie mogą w razie potrzeby wydawać zarządzenia w zakresie opieki i kurateli co do położonego w Rzeczypospolitej Polmiejsce zwykłego pobytu za granicą, jeżeli okaże się to konieczne w interesie tego cudzoziemca.
+§ 2. Sądy polskie mogą w razie potrzeby wydawać zarządzenia w zakresie opieki i kurateli co do położonego w Rzeczypospolitej Polskiej majątku cudzoziemca mającego miejsce zamieszkania i miejsce zwykłego pobytu za granicą, jeżeli okaże się to konieczne w interesie tego cudzoziemca.
 
 § 3. Sądy polskie mogą wydawać zarządzenia w zakresie opieki i kurateli również w przypadkach innych niż wymienione w § 1 i 2, jeżeli sprawa wykazuje wystarczający związek z polskim porządkiem prawnym lub jeżeli zachodzi pilna potrzeba udzielenia ochrony cudzoziemcowi, który przebywa w Rzeczypospolitej Polskiej, mającemu miejsce zamieszkania i miejsce zwykłego pobytu za granicą.”;
 
@@ -274,7 +333,18 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 **Art. 1109.** W stosunku do spadku podlegającego jurysdykcji sądu polskiego po osobie, która w chwili śmierci nie miała miejsca zamieszkania lub miejsca zwykłego pobytu w Rzeczypospolitej Polskiej, sąd może wydać postanowienie o stwierdzeniu nabycia spadku na wniosek polskiego przedstawicielstwa dyplomatycznego lub urzędu konsularnego.”;
 
+- **34)** po art. 1109 dodaje się art. 1109 w brzmieniu: „Art. 1109 . § 1. Do wyłącznej jurysdykcji krajowej należą sprawy z zakresu postępowania rejestrowego dotyczące rejestru prowadzonego w Rzeczypospolitej Polskiej.
+
+§ 2. Do wyłącznej jurysdykcji krajowej należą rozpoznawane przez sąd rejestrowy sprawy o rozwiązanie osoby prawnej lub niebędącej osobą prawną jednostki organizacyjnej, jeżeli osoba prawna lub jednostka organizacyjna niebędąca osobą prawną ma siedzibę w Rzeczypospolitej Polskiej.
+
+§ 3. Do jurysdykcji krajowej należą również inne sprawy rozpoznawane przez sąd rejestrowy, jeżeli właściwy miejscowo sąd rejestrowy znajduje się w Rzeczypospolitej Polskiej.”;
+
+- **35)** art. 1110 otrzymuje brzmienie: „Art. 1110. Do jurysdykcji krajowej należą również inne niż wymienione w art. 1106–1109 sprawy rozpoznawane w postępowaniu nieprocesowym, jeżeli sprawa dotyczy osoby będącej obywatelem polskim, cudzoziemca mającego miejsce zamieszkania lub miejsce zwykłego pobytu w Rzeczypospolitej Polskiej albo osoby prawnej lub niebędącej osobą prawną jednostki organizacyjnej, mającej siedzibę w Rzeczypospolitej Polskiej, a także, jeżeli sprawa z innych względów wykazuje wystarczający związek z polskim porządkiem prawnym.”;
+- **36)** po art. 1110 dodaje się art. 1110 i 1110 w brzmieniu: „Art. 1110 . W sprawach o podział majątku wspólnego, o dział spadku, jak również w sprawach dotyczących zarządu związanego ze współwłasnością i o zniesienie współwłasności, przepisy art. 1104– 1105 stosuje się odpowiednio.
+
 **Art. 1110².** Jurysdykcja krajowa w sprawach rozpoznawanych w postępowaniu nieprocesowym jest wyłączna w zakresie, w którym rozstrzygnięcie dotyczy praw rzeczowych na nieruchomości lub posiadania nieruchomości położonej w Rzeczypospolitej Polskiej.”;
+
+- **37)** w części czwartej w księdze pierwszej po tytule IV dodaje się tytuł IVa w brzmieniu: „Tytuł IVa. Jurysdykcja krajowa w postępowaniu zabezpieczającym i egzekucyjnym
 
 **Art. 1110³.**
 
@@ -293,7 +363,8 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 - **38)** w części czwartej w księdze pierwszej w nazwie tytułu V wyrazy: „Tytuł V. Zwolnienie od jurysdykcji krajowej” zastępuje się wyrazami: „Księga pierwsza a. Immunitet sądowy i egzekucyjny”;
 - **39)** art. 1111–1113 otrzymują brzmienie: „Art. 1111. § 1. Nie mogą być pozywane przed sądy polskie następujące osoby:
 - **1)** uwierzytelnieni w Rzeczypospolitej Polskiej szefowie przedstawicielstw dyplomatycznych państw obcych;
-- **2)** członkowie personelu dyplomatycznego przedstawicielstw państw obcych w Rzeczypospolitej Polskiej; mocy ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych;
+- **2)** członkowie personelu dyplomatycznego przedstawicielstw państw obcych w Rzeczypospolitej Polskiej;
+- **3)** inne osoby korzystające z immunitetów dyplomatycznych na mocy ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych;
 - **4)** członkowie rodzin osób wymienionych w pkt 1–3, jeżeli pozostają z nimi we wspólnocie domowej i nie mają obywatelstwa polskiego.
 
 § 2. Przepisy § 1 nie mają zastosowania do osób w nim wymienionych w odniesieniu do:
@@ -314,11 +385,29 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 - **1)** wynikłych z zawarcia przez nie umowy, w której nie występowały wyraźnie lub w sposób dorozumiany jako przedstawiciele państwa wysyłającego;
 - **2)** o wynagrodzenie szkody powstałej w wyniku wypadku spowodowanego w Rzeczypospolitej Polskiej przez pojazd, statek morski, statek żeglugi śródlądowej lub statek powietrzny.
 
-**Art. 1113.** Immunitet sądowy sąd bierze pod rozwagę z urzędu w każdym stanie sprawy. W razie stwierdzenia istnienia immunitetu sąd odrzuca pozew albo wniosek. Rozpoznanie sprawy z naruszeniem immunitetu sądowego powoduje nieważność postępowania. Jeżeli uzyska immunitet sądowy w toku postępowania, sąd umarza postępowanie.”;
+**Art. 1113.** Immunitet sądowy sąd bierze pod rozwagę z urzędu w każdym stanie sprawy. W razie stwierdzenia istnienia immunitetu sąd odrzuca pozew albo wniosek. Rozpoznanie sprawy z naruszeniem immunitetu sądowego powoduje nieważność postępowania. Jeżeli osoba, przeciwko której albo z udziałem której wszczęto sprawę, uzyska immunitet sądowy w toku postępowania, sąd umarza postępowanie.”;
+
+- **40)** po art. 1113 dodaje się art. 1113 w brzmieniu: „Art. 1113 . § 1. Osoby wymienione w art. 1111 § 1, jak również osoby wymienione w art. 1112 § 1 pkt 2, z wyjątkiem pracowników administracyjnych i technicznych urzędów konsularnych państw obcych w Rzeczypospolitej Polskiej, nie mają obowiązku składania zeznań w charakterze świadków lub występowania w charakterze biegłego lub tłumacza, jak również obowiązku przedstawienia dokumentu lub przedmiotu oględzin, chyba że uprawniona do tego osoba wyrazi zgodę.
+
+§ 2. Urzędnicy pełniący funkcje konsularne, pracownicy administracyjni i techniczni urzędów konsularnych państw obcych w Rzeczypospolitej Polskiej, o których mowa w art. 1112 § 1, jak również członkowie personelu służby tych urzędów będący cudzoziemcami, nie mają obowiązku – co do faktów związanych z wykonywaniem ich funkcji – składania zeznań w charakterze świadków lub występowania w charakterze biegłych co do treści prawa państwa wysyłającego, jak również obowiązku przedstawienia dokumentu lub przedmiotu oględzin, chyba że uprawniona do tego osoba wyrazi zgodę.
+
+§ 3. W razie wyrażenia zgody, o której mowa w § 1 lub 2, nie można stosować środków przymusu, ani grozić ich zastosowaniem.”;
+
+- **41)** art. 1114 i 1115 otrzymują brzmienie: „Art. 1114. § 1. Przepisy art. 1111 § 1 i art. 1112 § 1 nie mają zastosowania w przypadku, jeżeli państwo wysyłające w sposób wyraźny zrzeknie się immunitetu sądowego w stosunku do osób wymienionych w tych przepisach.
+
+§ 2. W stosunku do urzędników międzynarodowych, korzystających z immunitetu sądowego, zrzeczenie się immunitetu przewidziane w § 1 musi być dokonane przez odpowiednią organizację międzynarodową.
+
+§ 3. Niezależnie od postanowień § 1 i 2 osobom wymienionym w art. 1111 § 1 i art. 1112 § 1 nie przysługuje immunitet sądowy w sprawach:
+
+- **1)** w których osoby te wszczynają postępowanie przed sądem polskim;
+- **2)** z powództw wzajemnych przeciwko tym osobom;
+- **3)** z powództw przeciwegzekucyjnych wytoczonych przeciwko nim.
 
 **Art. 1115.**
 
-§ 1. Przeciwko osobom, które na podstawie art. 1111 § 1 i art. 1112 § 1 korzystają z immunitetu sądowego w zakresie przewidzianym w tych przepisach, nie może być także prowadzona egzekucja, chyba że chodzi o sprawę, w której osobom tym nie przysługuje immunitet sądowy. państwo wysyłające lub odpowiednia organizacja międzynarodowa zrzekły się immunitetu sądowego, może być prowadzona egzekucja jedynie w przypadku wyraźnego zrzeczenia się immunitetu przez państwo wysyłające lub odpowiednią organizację międzynarodową także w odniesieniu do postępowania egzekucyjnego.
+§ 1. Przeciwko osobom, które na podstawie art. 1111 § 1 i art. 1112 § 1 korzystają z immunitetu sądowego w zakresie przewidzianym w tych przepisach, nie może być także prowadzona egzekucja, chyba że chodzi o sprawę, w której osobom tym nie przysługuje immunitet sądowy.
+
+§ 2. Przeciwko osobom określonym w § 1, w stosunku do których państwo wysyłające lub odpowiednia organizacja międzynarodowa zrzekły się immunitetu sądowego, może być prowadzona egzekucja jedynie w przypadku wyraźnego zrzeczenia się immunitetu przez państwo wysyłające lub odpowiednią organizację międzynarodową także w odniesieniu do postępowania egzekucyjnego.
 
 § 3. Jeżeli prowadzenie egzekucji jest dozwolone, niedopuszczalna jest egzekucja z mienia służącego do użytku urzędowego oraz przez stosowanie przymusu wobec osoby dłużnika.
 
@@ -336,6 +425,12 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 **Art. 1120.** Powód nie ma obowiązku określonego w art. 1119:
 
+- **1)** jeżeli ma w Rzeczypospolitej Polskiej majątek wystarczający na zapłatę kosztów;
+- **2)** jeżeli przysługuje mu lub uzyskał zwolnienie od kosztów sądowych;
+- **3)** w sprawach małżeńskich niemajątkowych, w sprawach z powództwa wzajemnego oraz w postępowaniu nakazowym, upominawczym i uproszczonym;
+- **4)** w sprawach, które strony zgodnie poddały jurysdykcji sądów polskich;
+- **5)** jeżeli orzeczenie sądu polskiego zasądzające koszty procesu od powoda na rzecz pozwanego byłoby wykonalne w państwie, w którym powód ma miejsce zamieszkania lub zwykłego pobytu albo siedzibę.
+
 **Art. 1121.**
 
 § 1. Pozwany może zgłosić żądanie zabezpieczenia kosztów przed wdaniem się w spór co do istoty sprawy.
@@ -349,6 +444,12 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 - **48)** art. 1127 i 1128 otrzymują brzmienie: „Art. 1127. Pierwszeństwo zaspokojenia z kaucji złożonej przez powoda przysługuje pozwanemu przed wszystkimi innymi wierzycielami powoda.
 
 **Art. 1128.** Przepisy tytułu niniejszego stosuje się odpowiednio w postępowaniu nieprocesowym.”;
+
+- **49)** art. 1129 otrzymuje brzmienie: „Art. 1129. Cudzoziemcy, zagraniczne osoby prawne i jednostki organizacyjne niebędące osobami prawnymi korzystają ze zwolnienia od kosztów sądowych na zasadach przewidzianych w przepisach odrębnych.”;
+- **50)** w części czwartej w księdze drugiej tytuł tytułu IV otrzymuje brzmienie: „Pomoc prawna”;
+- **51)** art. 1130 i 1131 otrzymują brzmienie: „Art. 1130. § 1. W sprawach przeprowadzania dowodów i dokonywania innych czynności oraz doręczania pism sądowych sądy porozumiewają się z sądami lub innymi organami państw obcych oraz z polskimi przedstawicielstwami dyplomatycznymi i urzędami konsularnymi, chyba że przepis szczególny stanowi inaczej.
+
+§ 2. Czynności, o których mowa w § 1, może wykonywać referendarz sądowy, z wyjątkiem przeprowadzania dowodu.
 
 **Art. 1131.**
 
@@ -373,7 +474,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 1. Sąd może doręczyć pisma sądowe osobie przebywającej lub mającej siedzibę za granicą pocztą listem poleconym za potwierdzeniem odbioru, jeżeli taki sposób dopuszcza prawo państwa, w którym ma nastąpić doręczenie.
 
-§ 2. Jeżeli nie jest możliwe doręczenie z powodu odmowy wykonania wniosku przez sąd lub inny organ państwa wezwanego lub długotrwałego niewykonywania wniosku, sąd może doręczyć pisma w sposób określony w § 1, także wówczas, gdy takiego sposobu nie.”;
+§ 2. Jeżeli nie jest możliwe doręczenie z powodu odmowy wykonania wniosku przez sąd lub inny organ państwa wezwanego lub długotrwałego niewykonywania wniosku, sąd może doręczyć pisma w sposób określony w § 1, także wówczas, gdy takiego sposobu nie dopuszcza prawo państwa, w którym ma nastąpić doręczenie.”;
 
 - **54)** po art. 1133 dodaje się art. 1133 w brzmieniu: „Art. 1133 . Przepisy art. 1132 i 1133 stosuje się odpowiednio do doręczania pism pozasądowych.”;
 - **55)** art. 1134 i 1135 otrzymują brzmienie: „Art. 1134. Sądy mogą występować do polskiego przedstawicielstwa dyplomatycznego lub urzędu konsularnego o przeprowadzenie dowodu lub o doręczenie pisma, jeżeli osoba mająca być przesłuchana lub odbiorca pisma jest obywatelem polskim przebywającym za granicą.
@@ -392,7 +493,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 2. Jeżeli sąd lub inny organ państwa obcego zwróci się do sądu o doręczenie pisma sądowego osobie przebywającej w Rzeczypospolitej Polskiej, nie dołączając tłumaczenia tego pisma na język polski, doręcza się je odbiorcy, o ile zechce je przyjąć. Odbiorcę, który odmawia przyjęcia pisma, należy pouczyć o możliwości wystąpienia w związku z tym niekorzystnych skutków prawnych za granicą.
 
-§ 3. Jeżeli w wykonaniu wniosku sądu lub innego organu państwa obcego mogą powstać koszty związane z udziałem biegłych, tłumaczy, świadków i innych osób, sąd wykonuje wniosek dopiero sąd lub inny organ państwa obcego. To samo dotyczy kosztów mogących powstać w wyniku zastosowania innego sposobu niż przewidziany przez prawo polskie.
+§ 3. Jeżeli w wykonaniu wniosku sądu lub innego organu państwa obcego mogą powstać koszty związane z udziałem biegłych, tłumaczy, świadków i innych osób, sąd wykonuje wniosek dopiero po złożeniu w wyznaczonym terminie stosownej zaliczki przez sąd lub inny organ państwa obcego. To samo dotyczy kosztów mogących powstać w wyniku zastosowania innego sposobu niż przewidziany przez prawo polskie.
 
 **Art. 1135².**
 
@@ -416,7 +517,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 1. Strona mająca miejsce zamieszkania lub zwykłego pobytu albo siedzibę za granicą, jeżeli nie ustanowiła pełnomocnika do prowadzenia sprawy zamieszkałego w Rzeczypospolitej Polskiej, obowiązana jest wskazać w Rzeczypospolitej Polskiej pełnomocnika do doręczeń.
 
-§ 2. W razie niewskazania pełnomocnika do doręczeń, przeznaczone dla tej strony pisma sądowe pozostawia się w aktach sprawy ze szym doręczeniu. Strona powinna być również pouczona o możliwości złożenia odpowiedzi na pismo wszczynające postępowanie i wyjaśnień na piśmie oraz o tym, kto może być ustanowiony pełnomocnikiem.”;
+§ 2. W razie niewskazania pełnomocnika do doręczeń, przeznaczone dla tej strony pisma sądowe pozostawia się w aktach sprawy ze skutkiem doręczenia. Stronę należy o tym pouczyć przy pierwszym doręczeniu. Strona powinna być również pouczona o możliwości złożenia odpowiedzi na pismo wszczynające postępowanie i wyjaśnień na piśmie oraz o tym, kto może być ustanowiony pełnomocnikiem.”;
 
 - **57)** art. 1137 otrzymuje brzmienie: „Art. 1137. Sąd może zabezpieczyć dowód znajdujący się w Rzeczypospolitej Polskiej, jeżeli jest to potrzebne do dochodzenia roszczenia za granicą. Wniosek o zabezpieczenie dowodu składa się w sądzie rejonowym, w którego okręgu dowód ma być przeprowadzony. O terminie wyznaczonym do przeprowadzenia dowodu zawiadamia się wnioskodawcę, chyba że zachodzi wypadek niecierpiący zwłoki. Poza tym stosuje się odpowiednio art. 310 oraz art. 312– 314.”;
 - **58)** art. 1138 otrzymuje brzmienie: „Art. 1138. Zagraniczne dokumenty urzędowe mają moc dowodową na równi z polskimi dokumentami urzędowymi. Dokument dotyczący przeniesienia własności nieruchomości położonej w Rzeczypospolitej Polskiej powinien być uwierzytelniony przez polskie przedstawicielstwo dyplomatyczne lub urząd konsularny. To samo dotyczy dokumentu, którego autentyczności strona zaprzeczyła.”;
@@ -431,7 +532,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 2. Ogłoszenie doręcza się właściwemu urzędowi skarbowemu i konsulowi.”;
 
-- **61)** w art. 1141 § 2 otrzymuje brzmienie: „§ 2. W przeciwnym razie wyznacza się rozprawę, na którą wzywa się osoby zainteresowane. Po wysłuchaniu stawających sąd wyda postanowienie o zabezpieczeniu zgłoszonych i uprawdopodobnionych praw osób zamieszkagranicą, jak również o zabezpieczeniu należnych podatków. Na postanowienie sądu przysługuje zażalenie.”;
+- **61)** w art. 1141 § 2 otrzymuje brzmienie: „§ 2. W przeciwnym razie wyznacza się rozprawę, na którą wzywa się osoby zainteresowane. Po wysłuchaniu stawających sąd wyda postanowienie o zabezpieczeniu zgłoszonych i uprawdopodobnionych praw osób zamieszkałych w Rzeczypospolitej Polskiej oraz obywateli polskich zamieszkałych za granicą, jak również o zabezpieczeniu należnych podatków. Na postanowienie sądu przysługuje zażalenie.”;
 - **62)** w art. 1142 § 1 otrzymuje brzmienie: „§ 1. Jeżeli cudzoziemiec zmarł w Rzeczypospolitej Polskiej w czasie podróży, a nie miał w Rzeczypospolitej Polskiej miejsca zamieszkania lub miejsca zwykłego pobytu ani majątku oprócz rzeczy przy nim znalezionych, rzeczy te będą zabezpieczone z urzędu przez sąd, który zawiadamia o tym właściwego konsula.”;
 - **63)** art. 1143 otrzymuje brzmienie: „Art. 1143. § 1. Sąd z urzędu ustala i stosuje właściwe prawo obce. Sąd może zwrócić się do Ministra Sprawiedliwości o udzielenie tekstu tego prawa oraz o wyjaśnienie obcej praktyki sądowej.
 
@@ -449,7 +550,8 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 1. Orzeczenie nie podlega uznaniu, jeżeli:
 
-- **1)** nie jest prawomocne w państwie, w którym zostało wydane; polskich;
+- **1)** nie jest prawomocne w państwie, w którym zostało wydane;
+- **2)** zapadło w sprawie należącej do wyłącznej jurysdykcji sądów polskich;
 - **3)** pozwanemu, który nie wdał się w spór co do istoty sprawy, nie doręczono należycie i w czasie umożliwiającym podjęcie obrony pisma wszczynającego postępowanie;
 - **4)** strona w toku postępowania była pozbawiona możności obrony;
 - **5)** sprawa o to samo roszczenie między tymi samymi stronami zawisła w Rzeczypospolitej Polskiej wcześniej niż przed sądem państwa obcego;
@@ -474,7 +576,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 1. Każdy, kto ma w tym interes prawny, może wystąpić do sądu z wnioskiem o ustalenie, że orzeczenie sądu państwa obcego podlega albo nie podlega uznaniu.
 
-§ 2. Do wniosku o ustalenie, że orzeczenie sądu państwa obcego podlega uznaniu, należy dołączyć dokumenty wymienione w art. 1147, a do wniosku o ustalenie, że orzeczenie nie podlega nym przekładem na język polski.”;
+§ 2. Do wniosku o ustalenie, że orzeczenie sądu państwa obcego podlega uznaniu, należy dołączyć dokumenty wymienione w art. 1147, a do wniosku o ustalenie, że orzeczenie nie podlega uznaniu, urzędowy odpis orzeczenia wraz z jego uwierzytelnionym przekładem na język polski.”;
 
 - **69)** po art. 1148 dodaje się art. 1148 w brzmieniu: „Art. 1148 . § 1. Wniosek, o którym mowa w art. 1148, rozpoznaje sąd okręgowy, który byłby miejscowo właściwy do rozpoznania sprawy rozstrzygniętej orzeczeniem sądu państwa obcego lub w którego okręgu znajduje się miejscowo właściwy sąd rejonowy, a w braku tej podstawy – Sąd Okręgowy w Warszawie.
 
@@ -493,7 +595,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 2. Do wniosku o nadanie klauzuli wykonalności należy dołączyć dokumenty wymienione w art. 1147, a ponadto dokument stwierdzający, że orzeczenie jest wykonalne w państwie, z którego pochodzi, chyba że wykonalność wynika z treści orzeczenia lub prawa tego państwa.”;
 
-- **74)** po art. 1151 dodaje się art. 1151 –1151 w brzmieniu: zamieszkania albo siedziby dłużnika, a w braku takiego sądu – sąd okręgowy, w którego okręgu ma być prowadzona egzekucja.
+- **74)** po art. 1151 dodaje się art. 1151 –1151 w brzmieniu: „Art. 1151 . § 1. O nadaniu klauzuli wykonalności orzeka sąd okręgowy miejsca zamieszkania albo siedziby dłużnika, a w braku takiego sądu – sąd okręgowy, w którego okręgu ma być prowadzona egzekucja.
 
 § 2. W terminie dwóch tygodni od dnia doręczenia odpisu wniosku dłużnik może przedstawić stanowisko w sprawie. Sąd rozpoznaje wniosek na posiedzeniu niejawnym.
 
@@ -511,6 +613,11 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 **Art. 1151⁴.** Przepisy art. 1150–1151 stosuje się odpowiednio do rozstrzygnięć innych organów państw obcych wydanych w sprawach cywilnych.”;
 
+- **75)** art. 1152 otrzymuje brzmienie: „Art. 1152. Ugody w sprawach cywilnych zawarte przed sądami i innymi organami państw obcych lub przez nie zatwierdzone stają się tytułami wykonawczymi po stwierdzeniu ich wykonalności, jeżeli są one wykonalne w państwie pochodzenia i nie są sprzeczne z podstawowymi zasadami porządku prawnego w Rzeczypospolitej Polskiej (klauzula porządku publicznego). Przepisy art. 1151– 1151 stosuje się odpowiednio.”;
+- **76)** uchyla się art. 1153;
+- **77)** po art. 1153 dodaje się art. 1153 w brzmieniu: „Art. 1153 . Przepisów art. 1150–1152 nie stosuje się.”;
+- **78)** w części czwartej w księdze trzeciej po tytule III dodaje tytuły IV i V w brzmieniu: „Tytuł IV. Wykonalność europejskich nakazów zapłaty wydanych przez sądy państw członkowskich Unii Europejskiej
+
 **Art. 1153⁴.** Europejskie nakazy zapłaty wydane przez sądy państw członkowskich Unii Europejskiej, których wykonalność została stwierdzona w tych państwach na podstawie przepisów odrębnych, są tytułami egzekucyjnymi i podlegają wykonaniu w Rzeczypospolitej Polskiej po nadaniu klauzuli wykonalności.
 
 **Art. 1153⁵.** Tytułom egzekucyjnym, o których mowa w art. 1153 , klauzulę wykonalności nadaje sąd rejonowy właściwości ogólnej dłużnika, a jeżeli tej właściwości nie można ustalić – sąd rejonowy, w którego okręgu ma być wszczęta egzekucja.
@@ -525,6 +632,8 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 **Art. 1153⁹.** Przepisów art. 1150–1152 nie stosuje się.”;
 
+- **79)** w art. 1162 § 2 otrzymuje brzmienie: „§ 2. Wymaganie dotyczące formy zapisu na sąd polubowny jest spełnione także wtedy, gdy zapis zamieszczony został w wymienionych między stronami pismach lub oświadczeniach złożonych za pomocą środków porozumiewania się na odległość, które pozwalają utrwalić ich treść. Powołanie się w umowie na dokument zawierający postanowienie o poddaniu sporu pod rozstrzygnięcie sądu polubownego spełnia wymagania dotyczące formy zapisu na sąd polubowny, jeżeli umowa ta jest sporządzona na piśmie, a to powołanie się jest tego rodzaju, że czyni zapis częścią składową umowy.”.
+
 **Art. 2.** W ustawie z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. Nr 161, poz. 1688, z późn. zm. ) w art. 73 ust. 2 otrzymuje brzmienie: „2. Wpisanie wzmianki dodatkowej lub zamieszczenia przypisku w akcie stanu cywilnego na podstawie orzeczenia sądu państwa obcego lub rozstrzygnięcia innego organu państwa obcego następuje, jeżeli orzeczenie to podlega uznaniu na podstawie przepisów Kodeksu postępowania cywilnego lub innych właściwych przepisów.”.
 
 **Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) po art. 69 dodaje się art. 69a w brzmieniu: „Art. 69a. Sąd karny orzekający o odpowiedzialności karnej za przestępstwo ma jurysdykcję w sprawie o roszczenia majątkowe wynikające z tego przestępstwa. Przepis ten stosuje się odpowiednio do prokuratora w postępowaniu przygotowawczym w sytuacji określonej w art. 69 § 2.”.
@@ -536,6 +645,17 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 **Art. 6.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, z późn. zm. ) w art. 106 uchyla się ust. 10.
 
 **Art. 7.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 19 ust. 1 otrzymuje brzmienie: „1. Połowę opłaty pobiera się od sprzeciwu od wyroku zaocznego i od wniosku o uchylenie europejskiego nakazu zapłaty.”;
+- **2)** w art. 24 ust. 1 otrzymuje brzmienie: „1. Opłatę stałą w kwocie 300 zł pobiera się od wniosku o:
+- **1)** ustalenie, że orzeczenie sądu państwa obcego lub rozstrzygnięcie innego organu państwa obcego podlega albo nie podlega uznaniu;
+- **2)** stwierdzenie wykonalności orzeczenia sądu państwa obcego lub rozstrzygnięcia innego organu państwa obcego albo ugody zawartej przed tym sądem lub organem lub zatwierdzonej przez ten sąd lub organ;
+- **3)** uznanie lub stwierdzenie wykonalności orzeczenia sądu polubownego lub ugody zawartej przed tym sądem.”;
+- **3)** po art. 27a dodaje się art. 27b w brzmieniu: „Art. 27b. Opłatę stałą w kwocie 100 zł pobiera się od pozwu w sprawie rozpoznawanej w europejskim postępowaniu w sprawie drobnych roszczeń.”;
+- **4)** w art. 71 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8–10 w brzmieniu: „8) wydanie zaświadczenia europejskiego tytułu egzekucyjnego;
+- **9)** uchylenie zaświadczenia europejskiego tytułu egzekucyjnego;
+- **10)** wydanie zaświadczenia o utracie lub ograniczeniu wykonalności tytułu egzekucyjnego opatrzonego zaświadczeniem europejskiego tytułu egzekucyjnego.”;
+- **5)** w art. 79 w ust. 1 w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) pozwu w europejskim postępowaniu nakazowym, jeżeli uprawomocnił się europejski nakaz zapłaty;”.
 
 **Art. 8.**
 

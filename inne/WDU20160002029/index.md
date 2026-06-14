@@ -8,10 +8,10 @@ pos: 2029
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 grudnia 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2029 zmianY do załącznika do Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2029/text.pdf) |
 
-zmianY do załącznika do Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r.
 oraz Protokołem przyjętym w Londynie dnia 11 listopada 1988 r., przyjęte w Londynie dnia 22 maja 2014 r. i dnia 21 listopada 2014 r.
 Przekład
 

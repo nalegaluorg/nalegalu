@@ -8,7 +8,7 @@ pos: 1555
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 136/11/A/2012 WYROK z dnia 19 grudnia 2012 r.

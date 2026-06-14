@@ -8,7 +8,7 @@ pos: 2124
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o autostradach płatnych oraz o zmianie niektórych ustaw
@@ -28,6 +28,14 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032172124) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2124/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych (Dz.U. z 2001 r. Nr 110, poz. 1192, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** tytuł ustawy otrzymuje brzmienie „o autostradach płatnych oraz o Krajowym Funduszu Drogowym”;
+- **2)** w art. 1 dodaje się ust. 1a w brzmieniu: „1a. Ustawa określa także zasady finansowania dróg krajowych, w tym autostrad, ze środków Krajowego Funduszu Drogowego, zwanego dalej „Funduszem”, z wyłączeniem dróg krajowych w miastach na prawach powiatu, finansowanych z budżetów tych miast.”;
+- **3)** uchyla się art. 3;
+- **4)** w art. 18 pkt 5 otrzymuje brzmienie: „5) projektu rozporządzenia w sprawie ustalania opłat za przejazdy autostradami,”;
+- **5)** w art. 32 ust. 4 otrzymuje brzmienie: „4. Odszkodowanie za wywłaszczone nieruchomości jest wypłacane ze środków budżetu państwa, których dysponentem jest Generalny Dyrektor Dróg Krajowych i Autostrad.”;
+- **6)** w art. 33 w ust. 2 zdanie drugie otrzymuje brzmienie: „Za straty poniesione na skutek rozwiązania umowy przysługuje odszkodowanie wypłacane ze środków budżetu państwa, których dysponentem jest Generalny Dyrektor Dróg Krajowych i Autostrad.”;
+- **7)** dodaje się rozdziały 5a i 5b w brzmieniu: „Rozdział 5a Opłaty za przejazd
 
 **Art. 37a.**
 
@@ -61,7 +69,7 @@ source: "isap-pdf"
 
 1. Wysokość opłat za przejazd autostradą, o których mowa w art. 37a ust. 3, nie może przekraczać stawek maksymalnych za przejazd 1 km autostrady dla kategorii pojazdów, określonych w załączniku do ustawy.
 
-2. Stawki maksymalne, o których mowa w ust. 1, od roku 2005 ulegają zmianie w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów go okresu roku poprzedniego.
+2. Stawki maksymalne, o których mowa w ust. 1, od roku 2005 ulegają zmianie w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
 
 3. Wskaźnik wzrostu cen, o którym mowa w ust. 2, ustala się na podstawie komunikatów Prezesa Głównego Urzędu Statystycznego ogłaszanych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie 30 dni po upływie każdego kwartału.
 
@@ -70,6 +78,8 @@ source: "isap-pdf"
 **Art. 37f.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wysokość opłat za przejazd autostradą, o których mowa w art. 37a ust. 3, w granicach stawek maksymalnych, o których mowa w art. 37e.
 
 **Art. 37g.** Od opłat za przejazd, o których mowa w art. 37a ust. 2 i 3, są zwolnione pojazdy uprzywilejowane, wykonujące zadania w zakresie określonym w art. 53 ust. 2 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2003 r. Nr 58, poz. 515, Nr 124, poz. 1152, Nr 130, poz. 1190, Nr 137, poz. 1302, Nr 149, poz. 1451 i 1452, Nr 162, poz. 1568, Nr 200, poz. 1953 i Nr 210, poz.
+
+- **2036)** .
 
 #### Rozdział 5b Opłata paliwowa
 
@@ -92,7 +102,9 @@ source: "isap-pdf"
 
 **Art. 37m.**
 
-1. Stawka opłaty paliwowej wynosi 105 zł za tonę paliwa silnikowego lub gazu, o którym mowa w art. 37h.”. ga zmianie w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów roku, w którym stawka ulega zmianie, w stosunku do analogicznego okresu roku poprzedniego.
+1. Stawka opłaty paliwowej wynosi 105 zł za tonę paliwa silnikowego lub gazu, o którym mowa w art. 37h.”.
+
+2. Stawka opłaty paliwowej, o której mowa w ust. 1, od roku 2005 ulega zmianie w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów roku, w którym stawka ulega zmianie, w stosunku do analogicznego okresu roku poprzedniego.
 
 3. Wskaźnik wzrostu cen, o którym mowa w ust. 2, ustala się zgodnie z art. 37e ust. 3.
 
@@ -118,9 +130,14 @@ source: "isap-pdf"
 
 3. Obowiązek zapłaty opłaty paliwowej przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym zapłata powinna nastąpić.
 
-4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór informacji w sprawie opłaty paliwowej, o której mowa w ust. 1, mając na uwadze zapewnienie jednolitości informacji składanych przez podmioty, o których mowa w art. 37j, oraz zapewnienie możliwości kontroli wysokości dokonywanych wpłat. kwoty pobranej opłaty paliwowej na rachunek Funduszu, w terminie 14 dni od dnia jej pobrania.
+4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór informacji w sprawie opłaty paliwowej, o której mowa w ust. 1, mając na uwadze zapewnienie jednolitości informacji składanych przez podmioty, o których mowa w art. 37j, oraz zapewnienie możliwości kontroli wysokości dokonywanych wpłat.
+
+**Art. 37p.** Dyrektor izby celnej, o którym mowa w art. 37o ust. 1, przekazuje kwoty pobranej opłaty paliwowej na rachunek Funduszu, w terminie 14 dni od dnia jej pobrania.
 
 **Art. 37q.** Do ponoszenia i postępowania w sprawie opłaty paliwowej stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. z 1997 r. Nr 137, poz. 926, Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268, Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368, Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302 i Nr 170, poz.
+
+- **1660)** , z zastrzeżeniem art. 37o ust. 3.
+- **8)** rozdział 6 otrzymuje brzmienie: „Rozdział 6 Krajowy Fundusz Drogowy
 
 **Art. 38.**
 
@@ -139,7 +156,26 @@ source: "isap-pdf"
 
 **Art. 39a.** Fundusz:
 
+- **1)** gromadzi środki finansowe na przygotowanie, budowę, przebudowę, remonty, utrzymanie i ochronę autostrad, dróg ekspresowych, a także innych dróg krajowych,
+- **2)** finansuje realizację zadań, o których mowa w pkt 1,
+- **3)** może finansować wykup nieruchomości pod drogę.
+
 **Art. 39b.** Środki Funduszu pochodzą z:
+
+- **1)** opłaty paliwowej,
+- **2)** odsetek z tytułu oprocentowania środków Funduszu oraz odsetek od lokat okresowo wolnych środków Funduszu w bankach,
+- **3)** przychodów ze sprzedaży akcji i udziałów w spółkach, przekazanych ministrowi właściwemu do spraw transportu przez Skarb Państwa, w celu zasilenia Funduszu,
+- **4)** przychodów z akcji i udziałów, o których mowa w pkt 3,
+- **5)** środków pochodzących z opłat za przejazdy, pobieranych przez Generalnego Dyrektora Dróg Krajowych i Autostrad,
+- **6)** płatności dokonywanych przez koncesjonariuszy, zgodnie z warunkami umów koncesyjnych, w tym przewidzianych na rzecz Generalnego Dyrektora Dróg Krajowych i Autostrad,
+- **7)** wpływów uzyskanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad z tytułu odpłatnego udostępniania nieruchomości nabytych na cele budowy dróg,
+- **8)** środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi,
+- **9)** wpływów z opłat za specyfikacje warunków kwalifikacji wstępnej, o których mowa w art. 42 ust. 2 pkt 2, opłat za informacje o warunkach przetargu, o których mowa w art. 48 ust. 2, oraz wpływów z opłat za udzielenie koncesji, o których mowa w art. 55 ust. 3,
+- **10)** środków z kredytów lub pożyczek zaciągniętych na rzecz Funduszu przez Bank Gospodarstwa Krajowego,
+- **11)** wpływów z obligacji emitowanych na rzecz Funduszu przez Bank Gospodarstwa Krajowego,
+- **12)** darowizn i zapisów,
+- **13)** wpływów z innych środków publicznych,
+- **14)** wpływów z innych tytułów.
 
 **Art. 39c.**
 
@@ -147,7 +183,7 @@ source: "isap-pdf"
 
 2. Akcje i udziały Skarbu Państwa, o których mowa w ust. 1, minister właściwy do spraw Skarbu Państwa zbywa, na wniosek ministra właściwego do spraw transportu, w uzgodnieniu z ministrem właściwym do spraw finansów publicznych.
 
-3. Do przekazania akcji i udziałów, o których mowa w ust. 1, oraz do ich zbywania nie stosuje się przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz.U. z 2002 r. Nr 171, poz. 1397 i Nr 240, poz. 2055 oraz z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844) oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz.U. Nr 106, poz. 493 i Nr 156, poz. 775, z 1997 r. Nr 115, poz. 741, Nr 141, poz. 943 i Nr 106, poz. 673, z 1998 r. Nr 155, poz. r. Nr 25, poz. 253 i Nr 240, poz. 2055).
+3. Do przekazania akcji i udziałów, o których mowa w ust. 1, oraz do ich zbywania nie stosuje się przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz.U. z 2002 r. Nr 171, poz. 1397 i Nr 240, poz. 2055 oraz z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844) oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz.U. Nr 106, poz. 493 i Nr 156, poz. 775, z 1997 r. Nr 115, poz. 741, Nr 141, poz. 943 i Nr 106, poz. 673, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26 oraz z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055).
 
 **Art. 39d.**
 
@@ -175,7 +211,8 @@ source: "isap-pdf"
 
 - **1)** dofinansowanie nabywania nieruchomości pod drogi krajowe, przygotowania, budowy, przebudowy, remontów, utrzymania i ochrony inwestycji drogowych realizowanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad,
 - **2)** płatności na rzecz koncesjonariuszy z tytułu realizacji przez nich obowiązków wynikających z umowy koncesyjnej i koncesji, obejmujące w szczególności:
-    - **a)** zwrot kosztów ponoszonych z tytułu zachowania nieprzerwanej dostępności autostrady, jej utrzymania i przejezdności, riusza wymogów określonych w koncesji lub w umowie koncesyjnej,
+    - **a)** zwrot kosztów ponoszonych z tytułu zachowania nieprzerwanej dostępności autostrady, jej utrzymania i przejezdności,
+    - **b)** zmienne kwoty uzależnione od spełnienia przez koncesjonariusza wymogów określonych w koncesji lub w umowie koncesyjnej,
     - **c)** dopłaty udzielane koncesjonariuszom na pokrycie całości lub części niedoborów bieżących przychodów z tytułu eksploatacji autostrady, w celu zapewnienia płynności wydatków związanych z bieżącą obsługą i spłatą kredytów lub pożyczek bądź obligacji wyemitowanych w związku z budową autostrady.
 
 2. Ze środków Funduszu dokonuje się spłaty kredytów i pożyczek oraz wykupu obligacji, o których mowa w art. 39d ust. 1, oraz spłaty zobowiązań wynikających z wykonania przez Skarb Państwa obowiązków z tytułu gwarancji i poręczeń, o których mowa w art. 39d ust. 2.
@@ -197,7 +234,12 @@ source: "isap-pdf"
 
 4. Projekt Programu - w zakresie wysokości finansowania drogowych projektów inwestycyjnych ze środków Funduszu opracowywany jest w porozumieniu z Bankiem Gospodarstwa Krajowego.
 
-**Art. 39h.** Program jest realizowany przez Generalnego Dyrektora Dróg Krajowych i Autostrad i Bank Gospodarstwa Krajowego pod nadzorem ministra właściwego do spraw transportu oraz ministra właściwego do spraw finansów publicznych. Programu w odniesieniu do:
+**Art. 39h.** Program jest realizowany przez Generalnego Dyrektora Dróg Krajowych i Autostrad i Bank Gospodarstwa Krajowego pod nadzorem ministra właściwego do spraw transportu oraz ministra właściwego do spraw finansów publicznych.
+
+**Art. 39i.** Warunki finansowania ze środków Funduszu, zgodnie z ustaleniami Programu w odniesieniu do:
+
+- **1)** projektów przewidzianych do realizacji w systemie koncesyjnym - są określone w umowie koncesyjnej,
+- **2)** projektów przewidzianych do realizacji przez Generalnego Dyrektora Dróg Krajowych i Autostrad - są określone w umowach zawieranych z wykonawcami robót.
 
 **Art. 39j.**
 
@@ -221,7 +263,11 @@ source: "isap-pdf"
 
 **Art. 39m.** Nadzór nad gospodarowaniem środkami Funduszu sprawuje Rada Nadzorcza Banku Gospodarstwa Krajowego.
 
-**Art. 39n.** Bank Gospodarstwa Krajowego: szu opracowany zgodnie z Programem, w porozumieniu z ministrem właściwym do spraw transportu,
+**Art. 39n.** Bank Gospodarstwa Krajowego:
+
+- **1)** wyodrębnia w swoim planie finansowym plan finansowy Funduszu opracowany zgodnie z Programem, w porozumieniu z ministrem właściwym do spraw transportu,
+- **2)** sporządza dla Funduszu odrębny bilans oraz rachunek zysków i strat, wchodzące w skład sprawozdania finansowego tego banku,
+- **3)** składa ministrowi właściwemu do spraw transportu, w terminie do końca miesiąca następującego po każdym kwartale, informacje o realizacji planu finansowego Funduszu.
 
 **Art. 39o.**
 
@@ -240,7 +286,7 @@ source: "isap-pdf"
 
 2. Wyrażone w euro wartości, o których mowa w ust. 1, przelicza się na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień ukazania się ogłoszenia, o którym mowa w art. 42 ust. 1, w prasie o zasięgu ogólnokrajowym.
 
-3. Na etapie kwalifikacji wstępnej dokumentację mogą składać uczestnicy, którzy nie spełniają warunków określonych w ust. 1. Uczestnicy, którzy złożyli dokumentację do kwalifikacji wstępnej, mogą brać udział w dalszych etapach postępowania przetargowego pod warunust. 1.”;
+3. Na etapie kwalifikacji wstępnej dokumentację mogą składać uczestnicy, którzy nie spełniają warunków określonych w ust. 1. Uczestnicy, którzy złożyli dokumentację do kwalifikacji wstępnej, mogą brać udział w dalszych etapach postępowania przetargowego pod warunkiem, że przed złożeniem ofert spełnią wymogi, o których mowa w ust. 1.”;
 
 - **12)** po art. 47 dodaje się art. 47a w brzmieniu: „Art. 47a. Jeżeli komisja przetargowa dokonała wyboru mniej niż dwóch oferentów, Generalny Dyrektor Dróg Krajowych i Autostrad uznaje kwalifikację wstępną za bezskuteczną oraz zawiadamia o tym ministra właściwego do spraw transportu oraz uczestników kwalifikacji wstępnej.”;
 - **13)** w art. 49:
@@ -261,7 +307,7 @@ source: "isap-pdf"
 
 - **17)** w art. 56 pkt 6 otrzymuje brzmienie: „6) wysokość i formy dofinansowania budowy autostrady ze środków Funduszu,”;
 - **18)** w art. 60 w ust. 1 uchyla się pkt 3;
-- **19)** po art. 60 dodaje się art. 60a w brzmieniu: „Art. 60a. Minister właściwy do spraw transportu może, na wniosek koncesjonariusza, któremu udzielono koncesji i z którym została zawarta umowa koncesyjna, dokonać przeniesienia całości lub części praw i spółkę z zachowaniem poniższych warunków:
+- **19)** po art. 60 dodaje się art. 60a w brzmieniu: „Art. 60a. Minister właściwy do spraw transportu może, na wniosek koncesjonariusza, któremu udzielono koncesji i z którym została zawarta umowa koncesyjna, dokonać przeniesienia całości lub części praw i obowiązków wynikających z koncesji i umowy koncesyjnej na inną spółkę z zachowaniem poniższych warunków:
 - **1)** kapitał zakładowy spółki jest objęty w 100% przez koncesjonariusza lub struktura akcjonariuszy lub udziałowców w spółce jest taka sama jak w spółce koncesjonariusza,
 - **2)** spółka spełnia warunki, o których mowa w art. 43 ust. 1,
 - **3)** spółka wstępuje w prawa i obowiązki dotychczasowego koncesjonariusza wynikające z koncesji i umowy koncesyjnej.”;
@@ -271,7 +317,18 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz.U. z 2002 r. Nr 110, poz. 968, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 3a: 21 § 1 pkt 1 ustawy - Ordynacja podatkowa, długów celnych powstałych w przypadkach określonych w art. 209 § 1 oraz art. 217 § 1 Kodeksu celnego, podatków wykazanych w zgłoszeniu celnym, składek na ubezpieczenie społeczne, a także opłat paliwowych, o których mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz.U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124), stosuje się również egzekucję administracyjną, jeżeli wynikają one odpowiednio:”, - w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu: „4) z informacji o opłacie paliwowej.”,
+    - **a)** w § 1 : - zdanie wstępne otrzymuje brzmienie: „W zakresie zobowiązań: powstałych w przypadkach określonych w art. 8 i art.
+    - **b)** w § 2 pkt 1 otrzymuje brzmienie: „1) w deklaracji, w zeznaniu, w zgłoszeniu celnym, w deklaracji rozliczeniowej albo w informacji o opłacie paliwowej zostało zamieszczone pouczenie, że stanowią one podstawę do wystawienia tytułu wykonawczego,”;
+
+- **2)** w art. 5 w § 1 pkt 4 otrzymuje brzmienie: „4) w odniesieniu do obowiązków wynikających z wydanych przez naczelnika urzędu celnego decyzji, postanowień lub mandatów karnych oraz z przyjętych przez naczelnika urzędu celnego zgłoszeń celnych, deklaracji albo informacji o opłacie paliwowej - właściwy dla tego naczelnika dyrektor izby celnej.”.
+
 **Art. 3.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz.U. z 2000 r. Nr 71, poz. 838, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** art. 13a otrzymuje brzmienie: „Art. 13a. Zadania w zakresie budowy i eksploatacji autostrad i dróg ekspresowych mogą być realizowane:
+- **1)** na zasadach ogólnych określonych w ustawie,
+- **2)** na zasadach określonych w przepisach o autostradach płatnych oraz o Krajowym Funduszu Drogowym.”;
+- **2)** w art. 18 w ust. 2 w pkt 7 kropkę zastępuje się przecinkiem i dodaje się pkt 8 w brzmieniu: „8) pobieranie opłat za przejazd zgodnie z przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym.”.
 
 **Art. 4.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz.U. z 2002 r. Nr 112, poz. 982, z późn. zm. ) art. 19 otrzymuje brzmienie: „Art. 19. W postępowaniu o ustalenie warunków zabudowy i zagospodarowania terenu dotyczącym przedsięwzięcia mogącego znacząco oddziaływać na środowisko, o którym mowa w przepisach o ochronie środowiska, oraz w sprawie ustalenia lokalizacji autostrad oraz dróg ekspresowych, jeżeli przepisy ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym mają zastosowanie do tych dróg, wojewódzkiemu inspektorowi ochrony środowiska przysługują prawa strony w postępowaniu administracyjnym i postępowaniu przed sądem administracyjnym, jeżeli zgłosi swój udział w postępowaniu.”.
 
@@ -281,9 +338,22 @@ source: "isap-pdf"
 
 **Art. 7.** W ustawie z dnia 29 czerwca 1995 r. o obligacjach (Dz.U. z 2001 r. Nr 120, poz. 1300 oraz z 2002 r. Nr 216, poz. 1824) wprowadza się następujące zmiany:
 
+- **1)** w art. 23a:
+    - **a)** w ust. 2 w pkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu: „5) koncesjonariusz, o którym mowa w art. 37a ust. 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz.U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124).”,
+    - **b)** w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Z zastrzeżeniem art. 37b ust. 3 ustawy, o której mowa w ust. 2 pkt 5, uchwała o emisji obligacji przychodowych powinna określać rodzaj i cel przedsięwzięcia, sposób obliczenia przychodów z przedsięwzięcia, a także wskazywać, do jakiej części przychodów z przedsięwzięcia lub majątku z przedsięwzięcia służy obligatariuszom prawo pierwszeństwa, o którym mowa w ust. 1.”;
+
+- **2)** w art. 23b ust. 1 otrzymuje brzmienie: „1. Z zastrzeżeniem art. 37b ust. 3 ustawy, o której mowa w art. 23a ust. 2 pkt 5, w przypadku przyznania obligatariuszom, zgodnie z art. 23a ust. 1, prawa do zaspokojenia swoich roszczeń z przychodów z określonego przedsięwzięcia, wszystkie przychody z takiego przedsięwzięcia powinny wpływać na rachunek bankowy, przeznaczony wyłącznie do ich gromadzenia i dokonywania wypłat, zgodnie z ust. 2 i 3.”;
+- **3)** art. 23c ust. 1 otrzymuje brzmienie: „1. Środki zgromadzone na rachunku bankowym, o którym mowa w art. 23b ust. 1, są wyłączone z masy upadłości emitentów, o których mowa w art. 23a ust. 2 pkt 2-5.”;
+- **4)** w art. 28:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Emitent, o którym mowa w art. 23a ust. 2 pkt 5, może przeznaczyć środki pochodzące z emisji obligacji przychodowych wyłącznie na finansowanie budowy autostrady, drogi ekspresowej lub ich odcinków.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Emitenci inni niż określeni w ust. 1 i 1a, nie mogą przeznaczyć środków pochodzących z emisji obligacji na inny cel, jeżeli cel emisji został określony.”.
+
 **Art. 8.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz.U. z 2000 r. Nr 46, poz. 543, z późn. zm. ) w art. 2 pkt 5 otrzymuje brzmienie: „5) ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz.U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124),”.
 
 **Art. 9.** W ustawie z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych (Dz.U. Nr 123, poz. 780, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 ust. 2 otrzymuje brzmienie: „2. Przepisy ustawy nie mają zastosowania do autostrad płatnych budowanych i eksploatowanych na zasadach określonych przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym, z zastrzeżeniem art. 4a.”;
+- **2)** art. 5 otrzymuje brzmienie: „Art. 5. Źródłem finansowania dróg publicznych są również środki finansowe określone przepisami o drogach publicznych, przepisami o transporcie drogowym i przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym.”.
 
 **Art. 10.** W ustawie z dnia 24 lipca 1999 r. o Służbie Celnej (Dz.U. Nr 72, poz. 802, z późn. zm. ) w art. 1 w ust. 2 po pkt 3b dodaje się pkt 3c w brzmieniu: „3c) pobór opłaty paliwowej,”.
 
@@ -291,7 +361,15 @@ source: "isap-pdf"
 
 **Art. 12.** W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz.U. Nr 65, poz. 594) wprowadza się następujące zmiany:
 
+- **1)** w art. 8 w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) przedstawiciel ministra właściwego do spraw transportu.”;
+- **2)** w art. 10 ust. 4 i 5 otrzymują brzmienie: „4. Prezesa Zarządu powołuje Rada Nadzorcza na wniosek ministra właściwego do spraw instytucji finansowych.
+
+5. Wiceprezesa - pierwszego zastępcę prezesa powołuje Rada Nadzorcza, na wniosek ministra właściwego do spraw transportu, a wiceprezesów i pozostałych członków Zarządu powołuje Rada Nadzorcza, na wniosek prezesa Zarządu.”.
+
 **Art. 13.** W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych (Dz.U. Nr 80, poz. 721) wprowadza się następujące zmiany:
+
+- **1)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Koszty nabycia nieruchomości pod drogi, w tym odszkodowania, finansowane są na podstawie przepisów o finansowaniu dróg publicznych, przepisów o drogach publicznych oraz przepisów o autostradach płatnych oraz o Krajowym Funduszu Drogowym.”;
+- **2)** art. 44 otrzymuje brzmienie: „Art. 44. W okresie obowiązywania niniejszej ustawy do lokalizacji autostrad oraz do nabywania nieruchomości pod autostrady nie stosuje się art. 21-37 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz.U. z 2001 r. Nr 110, poz. 1192, z 2002 r. Nr 25, poz. 253 oraz z 2003 r. Nr 80, poz. 721, Nr 139, poz. 1325, Nr 162, poz. 1568 i Nr 217, poz. 2124).”.
 
 **Art. 14.**
 

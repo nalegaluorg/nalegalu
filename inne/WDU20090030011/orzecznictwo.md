@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 6 grudnia 2008 r. o podatku akcyzowym*
 
 Łącznie: **118** orzeczeń
-(pominięto 250 orzeczeń sądów rejonowych)
+(pominięto 251 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

@@ -8,10 +8,10 @@ pos: 1373
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 listopada 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1373 Umowa między Rzecząpospolitą Polską a Ukrainą o zabezpieczeniu społecznym, sporządzona w Kijowie dnia 18 maja 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001373) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1373/text.pdf) |
 
-Umowa między Rzecząpospolitą Polską a Ukrainą o zabezpieczeniu społecznym, sporządzona w Kijowie dnia 18 maja 2012 r.
-W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej PolsKiej podaje do powszechnej wiadomości: dnia 18 maja 2012 r. w Kijowie została sporządzona Umowa między Rzecząpospolitą Polską a Ukrainą o zabezpieczeniu społecznym, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest przyjęta, ratyfikowana i potwierdzona, będzie niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPolitej PolsKiej podaje do powszechnej wiadomości: dnia 18 maja 2012 r. w Kijowie została sporządzona Umowa między Rzecząpospolitą Polską a Ukrainą o zabezpieczeniu społecznym, w następującym brzmieniu: Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest przyjęta, ratyfikowana i potwierdzona, – będzie niezmiennie zachowywana.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 dano w Warszawie dnia 7 lutego 2013 r.
 Prezydent Rzeczypospolitej Polskiej: B. Komorowski l.s.

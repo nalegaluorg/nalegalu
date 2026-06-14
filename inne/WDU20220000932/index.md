@@ -8,10 +8,10 @@ pos: 932
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 kwietnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 932 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 26 kwietnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/932/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 26 kwietnia 2022 r.
-w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez farmaceutów Na podstawie art. 71 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 184 i 655) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez farmaceutów Na podstawie art. 71 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 184 i 655) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wykaz dziedzin farmacji, w których jest możliwe odbywanie szkolenia specjalizacyjnego;
 2) wykaz kodów specjalizacji w określonych dziedzinach farmacji;
 3) wysokość wynagrodzenia za wykonanie czynności kontrolnych, o których mowa w art. 47 ust. 10 pkt 1 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty, zwanej dalej „ustawą”;
@@ -72,7 +72,7 @@ e) zaliczenie stażu kierunkowego;
 § 9. 1. Osoby zdające PESF są obowiązane przestrzegać poleceń członków Zespołu Egzaminacyjnego.
 2. Zespół Egzaminacyjny przeprowadzający PESF jest odpowiedzialny za przestrzeganie regulaminu porządkowego przez osoby zdające.
 § 10. 1. Egzamin testowy jest sprawdzianem wiadomości teoretycznych z zakresu objętego programem specjalizacji w danej dziedzinie.
-2. Po rozpoczęciu egzaminu testowego do sali egzaminacyjnej mogą wchodzić osoby zdające, przedstawiciele CEM,
+2. Po rozpoczęciu egzaminu testowego do sali egzaminacyjnej mogą wchodzić osoby zdające, przedstawiciele CEM, członkowie Zespołu Egzaminacyjnego oraz osoby, o których mowa w ust. 3.
 3. Dyrektor CEM może wyznaczyć dodatkowe osoby do wykonywania czynności administracyjno-technicznych.
 Osoby te nie wchodzą w skład Zespołu Egzaminacyjnego.
 4. Dokumentem przeznaczonym do udzielania odpowiedzi w trakcie egzaminu testowego jest karta odpowiedzi oznaczona numerem kodowym osoby zdającej nadanym przez CEM.
@@ -98,7 +98,7 @@ Osoby te nie wchodzą w skład Zespołu Egzaminacyjnego.
 10) rozstrzygnięcie złożonego zastrzeżenia z uzasadnieniem;
 11) czytelny podpis przewodniczącego Zespołu Egzaminacyjnego.
 10. W trakcie formułowania zastrzeżeń osoba zdająca ma prawo wglądu do książeczki testowej.
-11. Przewodniczący Zespołu Egzaminacyjnego rozstrzyga o uwzględnieniu albo o odrzuceniu złożonego zastrzeżenia, zamieszczając na złożonej karcie zastrzeżeń pisemne uzasadnienie swojej decyzji. Złożona karta zastrzeżeń wraz z rozstrzygnięciem jest dołączana do protokołu, o którym mowa w ust. 14. Rozstrzygnięcie zastrzeżenia oraz jego uzasadnienie
+11. Przewodniczący Zespołu Egzaminacyjnego rozstrzyga o uwzględnieniu albo o odrzuceniu złożonego zastrzeżenia, zamieszczając na złożonej karcie zastrzeżeń pisemne uzasadnienie swojej decyzji. Złożona karta zastrzeżeń wraz z rozstrzygnięciem jest dołączana do protokołu, o którym mowa w ust. 14. Rozstrzygnięcie zastrzeżenia oraz jego uzasadnienie są publikowane na stronie internetowej CEM.
 12. W przypadku większej liczby złożonych zastrzeżeń do tego samego pytania testowego przewodniczący Zespołu Egzaminacyjnego może sporządzić pojedynczy dokument zawierający rozstrzygnięcie zastrzeżeń wraz z jego uzasadnieniem, który jest dołączany do protokołu, o którym mowa w ust. 14.
 13. Rozstrzygnięcie przewodniczącego Zespołu Egzaminacyjnego o unieważnieniu pytania testowego wydane bez zachowania procedury, o której mowa w ust. 1–4 lub w ust. 8–12, jest nieważne.
 14. Zbiorcze zestawienie złożonych zastrzeżeń oraz ich rozstrzygnięcia zamieszcza się w protokole zawierającym:
@@ -106,8 +106,8 @@ Osoby te nie wchodzą w skład Zespołu Egzaminacyjnego.
 2) określenie sesji egzaminacyjnej;
 3) dziedzinę farmacji, w której był przeprowadzany egzamin testowy;
 4) liczbę złożonych zastrzeżeń;
-5) liczbę uwzględnionych złożonych zastrzeżeń z podaniem numerów pytań testowych i wersji testu;
-6) liczbę odrzuconych złożonych zastrzeżeń z podaniem numerów pytań testowych i wersji testu;
+5) liczbę uwzględnionych złożonych zastrzeżeń – z podaniem numerów pytań testowych i wersji testu;
+6) liczbę odrzuconych złożonych zastrzeżeń – z podaniem numerów pytań testowych i wersji testu;
 7) czytelny podpis przewodniczącego Zespołu Egzaminacyjnego.
 § 12. 1. Egzamin ustny i egzamin praktyczny przeprowadza się w zakresie danej dziedziny farmacji i w sposób uwzględniający specyfikę tej dziedziny.
 2. Egzamin ustny obejmuje 3 lub 4 zadania egzaminacyjne, a egzamin praktyczny obejmuje od 1 do 3 zadań egzaminacyjnych.
@@ -124,7 +124,8 @@ Osoby te nie wchodzą w skład Zespołu Egzaminacyjnego.
 7. Ocena cząstkowa za zadanie egzaminacyjne jest ustalana jako średnia arytmetyczna ocen przyznanych przez poszczególnych członków Zespołu Egzaminacyjnego, zaokrąglona do drugiego miejsca po przecinku.
 8. Oceną końcową egzaminu ustnego i egzaminu praktycznego jest ocena wynikająca ze średniej arytmetycznej ocen cząstkowych uzyskanych za poszczególne zadania egzaminacyjne, z zastrzeżeniem ust. 5. Ocenę końcową ustala się według skali, o której mowa w ust. 4, zgodnie z przelicznikiem ocen końcowych określonym w załączniku nr 6 do rozporządzenia.
 9. Osoba zdająca, która otrzymała ocenę bardzo dobrą z egzaminu teoretycznego i ocenę bardzo dobrą z egzaminu praktycznego, jako ocenę końcową PESF może uzyskać ocenę bardzo dobrą z wyróżnieniem, jeżeli taką decyzję podejmie Zespół Egzaminacyjny przeprowadzający egzamin praktyczny tej osoby.
-§ 13. Wzór dyplomu potwierdzającego uzyskanie tytułu specjalisty, o którym mowa w art. 69 ust. 1 ustawy, jest okreś§ 14. 1. Odpis dyplomu PESF jest wydawany na wniosek farmaceuty.
+§ 13. Wzór dyplomu potwierdzającego uzyskanie tytułu specjalisty, o którym mowa w art. 69 ust. 1 ustawy, jest określony w załączniku nr 7 do rozporządzenia.
+§ 14. 1. Odpis dyplomu PESF jest wydawany na wniosek farmaceuty.
 2. Duplikat dyplomu PESF jest wydawany na umotywowany wniosek farmaceuty.
 3. Opłatę za wydanie odpisu albo duplikatu dyplomu uiszcza się na rachunek bankowy CEM, który jest podany na stronie internetowej CEM.
 4. W przypadku nieuiszczenia opłaty, o której mowa w ust. 3, albo niedołączenia do wniosku potwierdzenia jej dokonania dyrektor CEM wzywa farmaceutę do usunięcia braków formalnych w terminie 7 dni od dnia doręczenia wezwania, z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie bez rozpoznania wniosku, o którym mowa w ust. 1 i 2.
@@ -134,7 +135,7 @@ Osoby te nie wchodzą w skład Zespołu Egzaminacyjnego.
 8. Wydanie odpisu albo duplikatu następuje w terminie 30 dni od dnia otrzymania wniosku, o którym mowa odpowiednio w ust. 1 albo 2, z dołączonym do niego potwierdzeniem wniesienia opłaty, o której mowa w ust. 3.
 § 15. 1. Farmaceuta może zwrócić się do dyrektora CEM z pisemnym wnioskiem o wymianę dyplomu, jeśli zauważy na nim błąd. Do wniosku dołącza się dyplom, który zawiera błąd.
 2. Po otrzymaniu wniosku, o którym mowa w ust. 1, CEM weryfikuje zasadność dokonania wymiany dyplomu. Wymiana dyplomu nie jest dokonywana, jeżeli CEM na dyplomie nie stwierdzi błędu. W takim przypadku dyplom jest zwracany farmaceucie.
-3. Opłatę za wymianę dyplomu uiszcza się na rachunek bankowy CEM podany na stronie internetowej CEM. W przypadku nieuiszczenia tej opłaty albo niedołączenia do wniosku potwierdzenia jej dokonania dyrektor CEM wzywa wnioskodawcę do uiszczenia wymaganej opłaty oraz przekazania do CEM, w terminie 7 dni od dnia doręczenia wezwania, dokumentu potwierdzającego dokonanie tej czynności z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie wniosku, o którym mowa w ust. 1 i 2, bez rozpoznania.
+3. Opłatę za wymianę dyplomu uiszcza się na rachunek bankowy CEM podany na stronie internetowej CEM. W przypadku nieuiszczenia tej opłaty albo niedołączenia do wniosku potwierdzenia jej dokonania dyrektor CEM wzywa wnioskodawcę do uiszczenia wymaganej opłaty oraz przekazania do CEM, w terminie 7 dni od dnia doręczenia wezwania, dokumentu potwierdzającego dokonanie tej czynności – z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie wniosku, o którym mowa w ust. 1 i 2, bez rozpoznania.
 4. Wydanie dyplomu w wyniku złożenia wniosku, o którym mowa w ust. 1, następuje w terminie 30 dni od dnia jego otrzymania z dołączonym do niego potwierdzeniem wniesienia opłaty, o której mowa w art. 61 ust. 1 ustawy.
 § 16. Wysokość opłaty za PESF wynosi 400 zł.
 § 17. W przypadku przystępowania wyłącznie do egzaminu teoretycznego albo wyłącznie do egzaminu praktycznego wchodzących w skład PESF wysokość opłaty wynosi 200 zł.
@@ -142,29 +143,28 @@ Osoby te nie wchodzą w skład Zespołu Egzaminacyjnego.
 § 19. Do szkoleń specjalizacyjnych rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia Ministra Zdrowia z dnia 15 lutego 2017 r. w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez farmaceutów (Dz. U. poz. 516, z 2019 r. poz. 2062 oraz z 2020 r. poz. 1408).
 § 20. Dotychczasowy wzór dyplomu potwierdzającego uzyskanie tytułu specjalisty, określony w rozporządzeniu Ministra Zdrowia z dnia 15 lutego 2017 r. w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez farmaceutów, może być wykorzystywany nie dłużej niż do dnia 12 lipca 2022 r.
 § 21. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski WYKAZ KODÓW SPECJALIZACJI W OKREŚLONYCH DZIEDZINACH Załącznik nr 1 WYKAZ KODÓW SPECJALIZACJI W OKREŚLONYCH DZIEDZINACH Lp. Nazwa dziedziny Kod specjalizacji 1 analityka farmaceutyczna 013 2 farmacja apteczna 010 3 farmacja kliniczna 017 4 farmacja przemysłowa 012 5 farmacja szpitalna 011 6 farmakologia 018 7 radiofarmacja 007 8 toksykologia 014 WYKAZ DZIEDZIN FARMACJI, W KTÓRYCH FARMACEUTA POSIADAJĄCY ODPOWIEDNIĄ SPECJALIZACJĘ I STOPNIA MOŻE UZYSKAĆ TYTUŁ SPECJALISTY PO ODBYCIU UZUPEŁNIAJĄCEGO SZKOLENIA SPECJALIZACYJNEGO ZGODNIE Z PROGRAMEM, O KTÓRYM MOWA W ART. 50 UST. 16 USTAWY ODPOWIEDNIĄ SPECJALIZACJĘ I STOPNIA MOŻE UZYSKAĆ TYTUŁ SPECJALISTY PO ODBYCIU UZUPEŁNIAJĄCEGO SZKOLENIA SPECJALIZACYJNEGO ZGODNIE Z PROGRAMEM, O KTÓRYM MOWA W ART. 50 UST. 16 USTAWY Lp. Rodzaj dziedziny farmacji Specjalności, w których można uzyskać tytuł specjalisty 1 analityka farmaceutyczna analityka farmaceutyczna 2 farmacja apteczna farmacja apteczna farmacja kliniczna farmacja szpitalna 3 farmakologia i zielarstwo farmakologia 4 farmakologia farmakologia 5 toksykologia toksykologia REGULAMIN POSTĘPOWANIA KWALIFIKACYJNEGO DO ODBYCIA SZKOLENIA SPECJALIZACYJNEGO
+Minister Zdrowia: A. Niedzielski Załączniki do rozporządzenia Ministra Zdrowia z dnia 26 Załącznik nr 1 WYKAZ KODÓW SPECJALIZACJI W OKREŚLONYCH DZIEDZINACH WYKAZ KODÓW SPECJALIZACJI W OKREŚLONYCH DZIEDZINACH Lp. Nazwa dziedziny Kod specjalizacji 1 analityka farmaceutyczna 013 2 farmacja apteczna 010 3 farmacja kliniczna 017 4 farmacja przemysłowa 012 5 farmacja szpitalna 011 6 farmakologia 018 7 radiofarmacja 007 8 toksykologia 014 Załącznik nr 2 Dziennik Ustaw WYKAZ DZIEDZIN FARMACJI, W KTÓRYCH – 7 – FARMACEUTA POSIADAJĄCY Poz. 932 ODPOWIEDNIĄ SPECJALIZACJĘ I STOPNIA MOŻE UZYSKAĆ TYTUŁ SPECJALISTY PO ODBYCIU UZUPEŁNIAJĄCEGO SZKOLENIA WYKAZ SPECJALIZACYJNEGO DZIEDZIN FARMACJI, W ZGODNIE KTÓRYCH Z FARMACEUTA PROGRAMEM, POSIADAJĄCY O KTÓRYM ODPOWIEDNIĄ MOWA SPECJALIZACJĘ I STOPNIA MOŻE UZYSKAĆ TYTUŁ SPECJALISTY PO ODBYCIU UZUPEŁNIAJĄCEGO SZKOLENIA W ART. SPECJALIZACYJNEGO 50 UST. 16 USTAWY ZGODNIE Z PROGRAMEM, O KTÓRYM MOWA W ART. 50 UST. 16 USTAWY Lp. Rodzaj dziedziny farmacji Specjalności, w których można uzyskać tytuł specjalisty 1 analityka farmaceutyczna analityka farmaceutyczna 2 farmacja apteczna farmacja apteczna farmacja kliniczna farmacja szpitalna 3 farmakologia i zielarstwo farmakologia 4 farmakologia farmakologia 5 toksykologia toksykologia Załącznik nr 3 REGULAMIN POSTĘPOWANIA KWALIFIKACYJNEGO DO ODBYCIA SZKOLENIA REGULAMIN POSTĘPOWANIA KWALIFIKACYJNEGO SPECJALIZACYJNEGO DO ODBYCIA SZKOLENIA SPECJALIZACYJNEGO
 1. W przypadku stwierdzenia braków formalnych we wniosku, o którym mowa w art. 50 ust. 8 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 184 i 655), zwanym dalej ,,wnioskiem”, wojewoda właściwy ze względu na obszar województwa, na którego terenie wnioskodawca zamierza odbywać szkolenie specjalizacyjne, za pomocą SMK zwraca wniosek i wzywa wnioskodawcę do usunięcia braków w terminie 7 dni od dnia doręczenia wezwania. Po bezskutecznym upływie tego terminu wniosek jest pozostawiany bez rozpoznania.
 2. W postępowaniu konkursowym, o którym mowa w art. 51 ust. 4 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty, przyznaje się punkty za:
-1) staż pracy w zawodzie farmaceuty w pełnym wymiarze czasu pracy, a w przypadku wykonywania zawodu farmaceuty na podstawie innej niż stosunek pracy równoważnika etatu 1 punkt za każdy rok pracy;
-2) posiadanie stopnia doktora 10 punktów;
-3) posiadanie stopnia doktora habilitowanego 12 punktów;
-4) posiadanie tytułu profesora 14 punktów;
+1) staż pracy w zawodzie farmaceuty w pełnym wymiarze czasu pracy, a w przypadku wykonywania zawodu farmaceuty na podstawie innej niż stosunek pracy – równoważnika etatu – 1 punkt za każdy rok pracy;
+2) posiadanie stopnia doktora – 10 punktów;
+3) posiadanie stopnia doktora habilitowanego – 12 punktów;
+4) posiadanie tytułu profesora – 14 punktów;
 5) opublikowanie jako autor lub współautor:
-a) książki naukowej 3 punkty,
-b) artykułu naukowego oryginalnego 1 punkt,
-c) artykułu o charakterze poglądowym, rozdziału w książce naukowej lub popularnonaukowej 1 punkt,
-d) artykułu popularnonaukowego, programu multimedialnego lub komunikatu z badań naukowych 1 punkt,
-e) publikacji w czasopiśmie naukowym zamieszczonym w wykazie czasopism naukowych sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. b ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583, 655, 682 i 807) lub w wykazach czasopism naukowych sporządzonych na podstawie poprzednio obowiązujących przepisów 1 punkt z zakresu farmacji.
-REGULAMIN POSTĘPOWANIA KWALIFIKACYJNEGO DO ODBYCIA SZKOLENIA SPECJALIZACYJNEGO
+a) książki naukowej – 3 punkty,
+b) artykułu naukowego oryginalnego – 1 punkt,
+c) artykułu o charakterze poglądowym, rozdziału w książce naukowej lub popularnonaukowej – 1 punkt,
+d) artykułu popularnonaukowego, programu multimedialnego lub komunikatu z badań naukowych – 1 punkt,
+e) publikacji w czasopiśmie naukowym zamieszczonym w wykazie czasopism naukowych sporządzonym zgodnie z przepisami wydanymi na podstawie art. 267 ust. 2 pkt 2 lit. b ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583, 655, 682 i 807) lub w wykazach czasopism naukowych sporządzonych na podstawie poprzednio obowiązujących przepisów – 1 punkt – z zakresu farmacji.
 3. Do odbycia szkolenia specjalizacyjnego kwalifikuje się wnioskodawców, w liczbie odpowiadającej liczbie wolnych miejsc przyznanych na dane postępowanie kwalifikacyjne w danej dziedzinie szkolenia specjalizacyjnego w danym województwie, w kolejności od najwyższego wyniku uzyskanego w postępowaniu konkursowym, o którym mowa w art. 51 ust. 4 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty.
 
-## Załącznik nr 4 — WZÓR OŚWIADCZENIE CZŁONKA ZESPOŁU EGZAMINACYJNEGO ............................................................................
+## Załącznik nr 4 — WZÓR WZÓR OŚWIADCZENIE CZŁONKA ZESPOŁU EGZAMINACYJNEGO ............................................................................
 
 .............................................................................
 Oświadczenie Ja, niżej podpisana(-ny), oświadczam, że nie jestem:
 1) małżonkiem,
 2) osobą pozostającą w stosunku:
-a) pokrewieństwa albo powinowactwa do drugiego stopnia,
+a) pokrewieństwa albo powinowactwa – do drugiego stopnia,
 b) przysposobienia,
 3) osobą pozostającą we wspólnym pożyciu,
 4) osobą pozostającą w stosunku zależności służbowej osoby przystępującej do Państwowego Egzaminu Specjalizacyjnego Farmaceutów w dziedzinie ..................................................... w sesji wiosennej/jesiennej .................... r., składanego przed Zespołem Egzaminacyjnym, do którego zostałam(-łem) wyznaczona(-ny).
@@ -173,7 +173,9 @@ Jestem świadoma(-my) odpowiedzialności karnej za złożenie fałszywego oświa
 .......................................... ..........................................................
 W przypadku braku numeru PESEL należy podać datę i miejsce urodzenia oraz cechy dokumentu potwierdzającego tożsamość: rodzaj, numer i serię dokumentu oraz państwo jego wydania.
 Niepotrzebne skreślić.
-WZÓR WSPÓŁCZYNNIKI PROCENTOWYCH PRZELICZEŃ POPRAWNYCH ODPOWIEDZI UDZIELONYCH PRZEZ OSOBĘ ZDAJĄCĄ NA OCENĘ Lp. Odsetek maksymalnej liczby punktów Ocena 1 90% 5 2 82% ⩾ i < 90% 4,5 3 ⩾ 75% i < 82% 4 4 ⩾ 68% i < 75% 3,5 5 ⩾ 60% i < 68% 3 6 ⩾ < 60% 2 WSPÓŁCZYNNIKI PROCENTOWYCH PRZELICZEŃ POPRAWNYCH ODPOWIEDZI UDZIELONYCH PRZEZ OSOBĘ ZDAJĄCĄ NA OCENĘ PRZELICZNIKI OCEN KOŃCOWYCH Lp. Ocena Przelicznik 1 (5) bardzo dobry od 4,76 do 5,0 2 (4,5) dobry plus od 4,26 do 4,75 3 (4) dobry od 3,76 do 4,25 4 (3,5) dostateczny plus od 3,26 do 3,75 5 (3) dostateczny do 3,25 w przypadku gdy co najmniej jedna ocena z zadania 6 (2) niedostateczny egzaminacyjnego jest niedostateczna PRZELICZNIKI OCEN KOŃCOWYCH Załącznik nr 7 WZÓR WZÓR Opis wzoru dyplomu:
+
+## Załącznik nr 5 — WSPÓŁCZYNNIKI PROCENTOWYCH PRZELICZEŃ POPRAWNYCH ODPOWIEDZI WSPÓŁCZYNNIKI UDZIELONYCH PROCENTOWYCH PRZEZ OSOBĘ PRZELICZEŃ ZDAJĄCĄ POPRAWNYCH NA OCENĘ ODPOWIEDZI UDZIELONYCH PRZEZ OSOBĘ ZDAJĄCĄ NA OCENĘ Lp. Odsetek maksymalnej liczby punktów Ocena 1 90% 5 2 82% ⩾ i < 90% 4,5 3 ⩾ 75% i < 82% 4 4 ⩾ 68% i < 75% 3,5 5 ⩾ 60% i < 68% 3 6 ⩾ < 60% 2 Dziennik Ustaw – 12 – Załącznik nr Poz. 6 932 PRZELICZNIKI OCEN KOŃCOWYCH PRZELICZNIKI OCEN KOŃCOWYCH Lp. Ocena Przelicznik 1 (5) bardzo dobry od 4,76 do 5,0 2 (4,5) dobry plus od 4,26 do 4,75 3 (4) dobry od 3,76 do 4,25 4 (3,5) dostateczny plus od 3,26 do 3,75 5 (3) dostateczny do 3,25 w przypadku gdy co najmniej jedna ocena z zadania 6 (2) niedostateczny egzaminacyjnego jest niedostateczna Załącznik nr 7 WZÓR WZÓR Opis wzoru dyplomu:
+
 1. Wzór dyplomu zawiera:
 1) elementy zabezpieczające przed fałszerstwem w podłożu:
 a) papier niewykazujący luminescencji w promieniowaniu ultrafioletowym,
@@ -187,6 +189,6 @@ b) dwukolorowe linie giloszowe wykonane w technice druku irysowego,
 c) mikrodruki,
 d) element graficzny wykonany farbą aktywną wyłącznie w promieniowaniu ultrafioletowym,
 e) element graficzny wykonany farbą irydyscentną;
-3) pozostałe zabezpieczenia numerację typograficzną wykonaną farbą aktywną w promieniowaniu ultrafioletowym.
+3) pozostałe zabezpieczenia – numerację typograficzną wykonaną farbą aktywną w promieniowaniu ultrafioletowym.
 2. Blankiet wzoru dyplomu jest wykonany na podłożu papierowym w formacie jednostronnym A4.
 

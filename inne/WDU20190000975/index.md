@@ -8,10 +8,10 @@ pos: 975
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 maja 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 975 OBWIESZCZENIE MInIstra PrzedsIębIorczoścI I technologII z dnia 15 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,37 +25,38 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000975) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/975/text.pdf) |
 
-OBWIESZCZENIE MInIstra PrzedsIębIorczoścI I technologII z dnia 15 kwietnia 2019 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra gospodarki w sprawie szczegółowych wymagań dla wyrobów aerozolowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki z dnia 5 listopada 2009 r. w sprawie szczegółowych wymagań dla wyrobów aerozolowych (Dz. U. z 2015 r. poz. 854), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju i Finansów z dnia 30 maja 2017 r. zmieniającym rozporządzenie w sprawie szczegółowych wymagań dla wyrobów aerozolowych (Dz. U. poz. 1103).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 30 maja 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań dla wyrobów aerozolowych (Dz. U. poz. 1103), które stanowią: „ Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Komisji (UE) 2016/2037 z dnia 21 listopada 2016 r. zmieniającą dyrektywę Rady 75/324/EWG w odniesieniu do maksymalnego dopuszczalnego ciśnienia dozowników aerozoli oraz mającą na celu dostosowanie jej przepisów dotyczących oznakowania do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 314 z 22.11.2016, str. 11).” „§ 2. Rozporządzenie wchodzi w życie z dniem 12 lutego 2018 r.”.
 Minister Przedsiębiorczości i Technologii: J. Emilewicz rozPorzĄdzenIe MInIstra gosPodarkI z dnia 5 listopada 2009 r.
-w sprawie szczegółowych wymagań dla wyrobów aerozolowych Na podstawie art. 10 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2019 r. poz. 155) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie szczegółowych wymagań dla wyrobów aerozolowych Na podstawie art. 10 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2019 r. poz. 155) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) szczegółowe wymagania dotyczące zapewnienia bezpieczeństwa wyrobów aerozolowych;
 2) sposób identyfikacji i oznakowania wyrobów aerozolowych;
 3) warunki i tryb przeprowadzania badań wyrobów aerozolowych.
 § 2. Przepisów rozporządzenia nie stosuje się do wyrobów aerozolowych o całkowitej pojemności pojemnika:
 1) mniejszej niż 50 ml;
 2) większej niż:
-a) 1000 ml dla pojemników, o których mowa w § 8 ust. 1,
-b) 220 ml dla pojemników, o których mowa w § 9 ust. 2 i § 11 ust. 1,
-c) 150 ml dla pojemników, o których mowa w § 10 ust. 2 i § 11 ust. 2.
+a) 1000 ml – dla pojemników, o których mowa w § 8 ust. 1,
+b) 220 ml – dla pojemników, o których mowa w § 9 ust. 2 i § 11 ust. 1,
+c) 150 ml – dla pojemników, o których mowa w § 10 ust. 2 i § 11 ust. 2.
 § 3. Użyte w rozporządzeniu określenia oznaczają:
-1) wyrób aerozolowy jednorazowy pojemnik metalowy, szklany lub z tworzywa sztucznego zawierający gaz sprężony, skroplony albo rozpuszczony pod ciśnieniem wraz z cieczą, pastą, proszkiem albo bez nich, wyposażony w urządzenie umożliwiające uwalnianie zawartości w formie cząstek stałych lub ciekłych zawieszonych w gazie, w postaci piany, pasty, proszku lub cieczy;
-2) ciśnienie nadciśnienie wewnętrzne, wyrażone w barach;
-3) ciśnienie próbne ciśnienie, któremu może być poddany przez 25 sekund nienapełniony pojemnik bez spowodowania jakichkolwiek nieszczelności lub, w przypadku pojemników metalowych lub z tworzyw sztucznych, żadnych widocznych lub trwałych odkształceń, z wyjątkiem zniekształceń, o których mowa w § 12 ust. 2;
-4) ciśnienie rozrywające najmniejsze ciśnienie, które powoduje rozerwanie lub pęknięcie pojemnika;
-5) całkowita pojemność pojemnika pojemność otwartego pojemnika, aż do obrzeża otworu, wyrażoną w mililitrach;
-6) pojemność netto objętość zawartości napełnionego i zamkniętego wyrobu aerozolowego, wyrażoną w mililitrach;
-7) objętość fazy ciekłej objętość faz niegazowych w napełnionym i zamkniętym wyrobie aerozolowym;
-8) jednorodna partia pojemników pojemniki wytworzone z tych samych materiałów w tym samym ciągłym procesie wytwarzania;
-9) warunki próby wartości ciśnienia próbnego i rozrywającego, wytworzonego hydraulicznie w temperaturze 20°C (±5°C);
-9a) substancja substancję, o której mowa w art. 2 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1272/2008”;
-9b) mieszanina mieszaninę, o której mowa w art. 2 pkt 8 rozporządzenia nr 1272/2008;
-10) składniki łatwopalne zawarte w wyrobach aerozolowych:
-a) łatwopalna ciecz ciecz o temperaturze zapłonu nie wyższej niż 93°C,
-b) łatwopalna substancja stała substancja w postaci proszku, granulek lub pasty albo mieszanina takich substancji, która łatwo zapala się wskutek krótkotrwałego kontaktu ze źródłem zapłonu, takim jak paląca się zapałka, albo może spowodować zapłon, lub przyczynić się do jego wystąpienia, na skutek tarcia,
-c) łatwopalny gaz gaz lub mieszanina gazów, które zmieszane z powietrzem ulegają zapaleniu w temperaturze 20°C i ciśnieniu 1,013 bara.
+1) wyrób aerozolowy – jednorazowy pojemnik metalowy, szklany lub z tworzywa sztucznego zawierający gaz sprężony, skroplony albo rozpuszczony pod ciśnieniem wraz z cieczą, pastą, proszkiem albo bez nich, wyposażony w urządzenie umożliwiające uwalnianie zawartości w formie cząstek stałych lub ciekłych zawieszonych w gazie, w postaci piany, pasty, proszku lub cieczy;
+2) ciśnienie – nadciśnienie wewnętrzne, wyrażone w barach;
+3) ciśnienie próbne – ciśnienie, któremu może być poddany przez 25 sekund nienapełniony pojemnik bez spowodowania jakichkolwiek nieszczelności lub, w przypadku pojemników metalowych lub z tworzyw sztucznych, żadnych widocznych lub trwałych odkształceń, z wyjątkiem zniekształceń, o których mowa w § 12 ust. 2;
+4) ciśnienie rozrywające – najmniejsze ciśnienie, które powoduje rozerwanie lub pęknięcie pojemnika;
+5) całkowita pojemność pojemnika – pojemność otwartego pojemnika, aż do obrzeża otworu, wyrażoną w mililitrach;
+6) pojemność netto – objętość zawartości napełnionego i zamkniętego wyrobu aerozolowego, wyrażoną w mililitrach;
+7) objętość fazy ciekłej – objętość faz niegazowych w napełnionym i zamkniętym wyrobie aerozolowym;
+8) jednorodna partia pojemników – pojemniki wytworzone z tych samych materiałów w tym samym ciągłym procesie wytwarzania;
+–
+9) warunki próby – wartości ciśnienia próbnego i rozrywającego, wytworzonego hydraulicznie w temperaturze 20°C (±5°C);
+9a) substancja – substancję, o której mowa w art. 2 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1272/2008”;
+9b) mieszanina – mieszaninę, o której mowa w art. 2 pkt 8 rozporządzenia nr 1272/2008;
+10) składniki łatwopalne – zawarte w wyrobach aerozolowych:
+a) łatwopalna ciecz – ciecz o temperaturze zapłonu nie wyższej niż 93°C,
+b) łatwopalna substancja stała – substancja w postaci proszku, granulek lub pasty albo mieszanina takich substancji, która łatwo zapala się wskutek krótkotrwałego kontaktu ze źródłem zapłonu, takim jak paląca się zapałka, albo może spowodować zapłon, lub przyczynić się do jego wystąpienia, na skutek tarcia,
+c) łatwopalny gaz – gaz lub mieszanina gazów, które zmieszane z powietrzem ulegają zapaleniu w temperaturze 20°C i ciśnieniu 1,013 bara.
 § 4. 1. Wyrób aerozolowy powinien być wytworzony tak, aby był zgodny ze szczegółowymi wymaganiami rozporządzenia.
 2. Osoba wprowadzająca wyrób aerozolowy do obrotu powinna przeprowadzić analizę zagrożeń stwarzanych przez ten wyrób w normalnych warunkach jego użytkowania oraz w warunkach możliwych do przewidzenia. Jeżeli ma to zastosowanie, analiza powinna obejmować zagrożenia związane z wdychaniem uwolnionej zawartości wyrobu aerozolowego, z uwzględnieniem wielkości rozpylanych kropelek lub cząstek oraz właściwości fizycznych i chemicznych zawartości.
 3. Wyrób aerozolowy powinien być zaprojektowany, wytworzony i zbadany z uwzględnieniem wyników analizy zagrożeń, o której mowa w ust. 2. W razie potrzeby należy opracować specjalne ostrzeżenia dotyczące stosowania wyrobu aerozolowego.
@@ -66,17 +67,17 @@ c) łatwopalny gaz gaz lub mieszanina gazów, które zmieszane z powietrzem uleg
 2. W przypadku pojemników metalowych napełnianych pod ciśnieniem niższym niż 6,7 bara w temperaturze 50°C ciśnienie próbne powinno być nie niższe niż 10 barów.
 3. W przypadku pojemników metalowych napełnianych pod ciśnieniem nie niższym niż 6,7 bara w temperaturze 50°C ciśnienie próbne w temperaturze 50°C powinno być o 50% wyższe niż ciśnienie wewnętrzne.
 4. Ciśnienie w temperaturze 50°C w wyrobie aerozolowym o pojemniku metalowym, w zależności od gazu lub mieszaniny gazów użytych do napełnienia, nie może przekraczać:
-1) 12 barów w przypadku gazu skroplonego lub mieszaniny gazów, które zmieszane z powietrzem ulegają zapaleniu w temperaturze 20°C i normalnym ciśnieniu 1,013 bara;
-2) 13,2 barów w przypadku gazu skroplonego lub mieszaniny gazów, które zmieszane z powietrzem nie ulegają zapaleniu w temperaturze 20°C i normalnym ciśnieniu 1,013 bara;
-3) 15 barów w przypadku gazu sprężonego lub gazu rozpuszczonego pod ciśnieniem, które zmieszane z powietrzem nie ulegają zapaleniu w temperaturze 20°C i normalnym ciśnieniu 1,013 bara.
+1) 12 barów – w przypadku gazu skroplonego lub mieszaniny gazów, które zmieszane z powietrzem ulegają zapaleniu w temperaturze 20°C i normalnym ciśnieniu 1,013 bara;
+2) 13,2 barów – w przypadku gazu skroplonego lub mieszaniny gazów, które zmieszane z powietrzem nie ulegają zapaleniu w temperaturze 20°C i normalnym ciśnieniu 1,013 bara;
+3) 15 barów – w przypadku gazu sprężonego lub gazu rozpuszczonego pod ciśnieniem, które zmieszane z powietrzem nie ulegają zapaleniu w temperaturze 20°C i normalnym ciśnieniu 1,013 bara.
 § 9. 1. Szklane pojemniki wyrobów aerozolowych z powłoką ochronną z tworzywa sztucznego lub trwale chronione w inny sposób mogą być napełniane gazem sprężonym, skroplonym lub rozpuszczonym.
 2. Całkowita pojemność pojemników, o których mowa w ust. 1, nie może przekraczać 220 ml.
 3. Powłoka ochronna pojemników, o których mowa w ust. 1, powinna stanowić płaszcz ochronny z tworzywa sztucznego lub innego odpowiedniego materiału oraz zapobiegać ryzyku rozprysku cząstek szkła w razie przypadkowego rozerwania się pojemnika. Powłokę ochronną należy zaprojektować w taki sposób, aby nie nastąpił rozprysk cząstek szkła w przypadku gdy wyrób aerozolowy, który osiągnął temperaturę 20°C, zostanie zrzucony z wysokości 1,8 m na betonową podłogę.
 4. Podczas próby ciśnieniowej pojemniki, o których mowa w ust. 1, przeznaczone do napełniania gazem sprężonym lub rozpuszczonym, powinny wytrzymywać ciśnienie próbne nie niższe niż 12 barów.
 5. Podczas próby ciśnieniowej pojemniki, o których mowa w ust. 1, przeznaczone do napełniania gazem skroplonym, powinny wytrzymywać ciśnienie próbne nie niższe niż 10 barów.
 6. Maksymalne ciśnienie wyrobu aerozolowego o pojemniku szklanym z powłoką ochronną z tworzywa sztucznego lub trwale chronionego w inny sposób, w zależności od gazu użytego do napełniania, nie może przekroczyć:
-1) 9 barów w temperaturze 50°C w przypadku gazu sprężonego;
-2) 8 barów w temperaturze 50°C w przypadku gazu rozpuszczonego.
+1) 9 barów w temperaturze 50°C – w przypadku gazu sprężonego;
+2) 8 barów w temperaturze 50°C – w przypadku gazu rozpuszczonego.
 7. Maksymalne ciśnienie wyrobu aerozolowego o pojemniku, o którym mowa w ust. 6, napełnionego gazem skroplonym lub mieszaniną gazów skroplonych, nie może przekroczyć w temperaturze 20°C wartości określonych w załączniku nr 1 do rozporządzenia.
 § 10. 1. Szklane pojemniki niechronione mogą być napełniane wyłącznie gazem skroplonym lub rozpuszczonym.
 2. Całkowita pojemność szklanych pojemników niechronionych nie powinna przekraczać 150 ml.
@@ -110,15 +111,16 @@ b) jeżeli wynik badania partii wyrobów aerozolowych jest negatywny, całą par
 2) symbol „3” (odwrócony epsilon) poświadczający zgodność ze szczegółowymi wymaganiami określonymi w rozporządzeniu;
 3) oznaczenie umożliwiające identyfikację napełnianej partii;
 4) masę netto zawartości i pojemność netto, z zastrzeżeniem ust. 2;
+5) oznakowanie, o którym mowa w § 18.
 2. Dopuszcza się niepodawanie masy netto w przypadku, gdy wyrób aerozolowy jest zgodny z wymaganiami określonymi w § 3 ust. 1 i 2 rozporządzenia Ministra Gospodarki z dnia 20 lipca 2009 r. w sprawie szczegółowych wymagań dotyczących oznakowań towarów paczkowanych (Dz. U. poz. 1010).
 3. Jeżeli danych, o których mowa w ust. 1, nie można nanieść na wyrób aerozolowy o pojemności nie większej niż 150 ml z powodu jego małych wymiarów, należy je umieścić na etykiecie przymocowanej do wyrobu aerozolowego.
 § 17. 1. Symbol „3” (odwrócony epsilon), o którym mowa w § 16 ust. 1 pkt 2, umieszcza osoba wprowadzająca wyrób aerozolowy do obrotu.
 2. Na wyrobie aerozolowym nie należy zamieszczać oznakowań lub napisów, które mogą być mylone z symbolem „3” (odwrócony epsilon).
 § 18. 1. Na wyrobie aerozolowym umieszcza się w sposób widoczny czytelne i trwałe oznakowanie, o którym mowa w rozporządzeniu nr 1272/2008, w szczególności:
-1) w przypadku gdy wyrób aerozolowy jest sklasyfikowany zgodnie z § 19 ust. 2 pkt 2 i ust. 4 pkt 1 lit. c jako niepalny napis ostrzegawczy „Uwaga” oraz pozostałe elementy oznakowania dla wyrobów aerozolowych kategorii 3 określone w tabeli 2.3.1 załącznika I do rozporządzenia nr 1272/2008;
-2) w przypadku gdy wyrób aerozolowy jest sklasyfikowany zgodnie z § 19 ust. 4 pkt 1 lit. a i c, pkt 2 oraz ust. 5 pkt 2 jako łatwopalny napis ostrzegawczy „Uwaga” oraz pozostałe elementy oznakowania dla wyrobów aerozolowych kategorii 2 określone w tabeli 2.3.1 załącznika I do rozporządzenia nr 1272/2008;
-3) w przypadku gdy wyrób aerozolowy jest sklasyfikowany zgodnie z § 19 ust. 2 pkt 1, ust. 3 i ust. 4 pkt 1 lit. b i pkt 2 oraz ust. 5 pkt 1 jako skrajnie łatwopalny napis ostrzegawczy „Niebezpieczeństwo” oraz pozostałe elementy oznakowania dla wyrobów aerozolowych kategorii 1 określone w tabeli 2.3.1 załącznika I do rozporządzenia nr 1272/2008;
-4) w przypadku gdy wyrób aerozolowy jest towarem konsumpcyjnym zwrot określony w tabeli 6.1 w części 1 załącznika IV do rozporządzenia nr 1272/2008, wskazujący środki ostrożności dla kodu P102.
+1) w przypadku gdy wyrób aerozolowy jest sklasyfikowany zgodnie z § 19 ust. 2 pkt 2 i ust. 4 pkt 1 lit. c jako niepalny – napis ostrzegawczy „Uwaga” oraz pozostałe elementy oznakowania dla wyrobów aerozolowych kategorii 3 określone w tabeli 2.3.1 załącznika I do rozporządzenia nr 1272/2008;
+2) w przypadku gdy wyrób aerozolowy jest sklasyfikowany zgodnie z § 19 ust. 4 pkt 1 lit. a i c, pkt 2 oraz ust. 5 pkt 2 jako łatwopalny – napis ostrzegawczy „Uwaga” oraz pozostałe elementy oznakowania dla wyrobów aerozolowych kategorii 2 określone w tabeli 2.3.1 załącznika I do rozporządzenia nr 1272/2008;
+3) w przypadku gdy wyrób aerozolowy jest sklasyfikowany zgodnie z § 19 ust. 2 pkt 1, ust. 3 i ust. 4 pkt 1 lit. b i pkt 2 oraz ust. 5 pkt 1 jako skrajnie łatwopalny – napis ostrzegawczy „Niebezpieczeństwo” oraz pozostałe elementy oznakowania dla wyrobów aerozolowych kategorii 1 określone w tabeli 2.3.1 załącznika I do rozporządzenia nr 1272/2008;
+4) w przypadku gdy wyrób aerozolowy jest towarem konsumpcyjnym – zwrot określony w tabeli 6.1 w części 1 załącznika IV do rozporządzenia nr 1272/2008, wskazujący środki ostrożności dla kodu P102.
 2. W przypadku gdy wyrób aerozolowy zawiera składniki łatwopalne, o których mowa w § 3 pkt 10, lecz nie jest sklasyfikowany jako łatwopalny lub skrajnie łatwopalny zgodnie z § 19 ust. 2–5, ilość składników łatwopalnych zawartych w wyrobie aerozolowym należy podać na etykiecie w sposób widoczny, czytelny i trwały w postaci sformułowania: „X% masowych zawartości jest łatwopalne”.
 3. Niezależnie od zawartości na wyrobie aerozolowym umieszcza się informację o dodatkowych środkach ostrożności stosowanych podczas użycia, ostrzegającą użytkowników przed szczególnymi zagrożeniami, jakie stwarza dany wyrób aerozolowy; w przypadku gdy wyrobowi aerozolowemu towarzyszy oddzielna instrukcja obsługi, informację o dodatkowych środkach ostrożności zamieszcza się również w instrukcji obsługi.
 § 19. 1. Wyrób aerozolowy może zawierać tylko składniki łatwopalne, które nie są substancjami lub mieszaninami piroforycznymi, samoogrzewającymi się lub reagującymi z wodą.
@@ -141,13 +143,17 @@ b) wysokość płomienia wynosi nie mniej niż 4 cm i płomień utrzymuje się p
 1) na podstawie uznanych metod badawczych, opisanych w szczególności w normach ASTM D 240, ISO 13943 86.1 do
 86.3 i NFPA 30B lub w uznanej literaturze naukowej albo
 2) metodą obliczeniową, o której mowa w ust. 7.
-7. Ciepło chemicznej reakcji spalania (ΔH ), w kilodżulach na gram (kJ/g), oblicza się jako iloczyn teoretycznego ciepła reakcji spalania (ΔH ) i wydajności spalania, która zwykle wynosi 0,95 lub 95%. Dla wieloskładnikowego wyrobu aerozolowego ciepło chemicznej reakcji spalania jest sumą ważoną ciepła reakcji spalania poszczególnych składników, wyrażoną wzorem: ∆H = ∑ [W % × ∆H ] gdzie: ΔH ciepło chemicznej reakcji spalania wyrobu (kJ/g), W % ułamek masowy składnika „i” w wyrobie, ΔH ciepło spalania składnika „i” wyrobu (kJ/g).
+7. Ciepło chemicznej reakcji spalania (ΔH ), w kilodżulach na gram (kJ/g), oblicza się jako iloczyn teoretycznego ciepła reakcji spalania (ΔH ) i wydajności spalania, która zwykle wynosi 0,95 lub 95%. Dla wieloskładnikowego wyrobu aerozolowego ciepło chemicznej reakcji spalania jest sumą ważoną ciepła reakcji spalania poszczególnych składników, wyrażoną wzorem: ∆H = ∑ [W % × ∆H ] gdzie: ΔH – ciepło chemicznej reakcji spalania wyrobu (kJ/g), W % – ułamek masowy składnika „i” w wyrobie, ΔH – ciepło spalania składnika „i” wyrobu (kJ/g).
 8. Osoba wprowadzająca wyroby aerozolowe do obrotu powinna opisać metodę zastosowaną do określenia ciepła chemicznej reakcji spalania w dokumencie sporządzonym w oficjalnym języku Unii Europejskiej i dostępnym pod adresem wskazanym zgodnie z § 16 ust. 1 pkt 1.
 § 20. Traci moc rozporządzenie Ministra Gospodarki z dnia 20 grudnia 2005 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać wyroby aerozolowe (Dz. U. poz. 2199).
 § 21. Rozporządzenie wchodzi w życie z dniem 29 kwietnia 2010 r.
-MAKSYMALNE CIŚNIENIE WYROBU AEROZOLOWEGO O POJEMNIKU SZKLANYM Z POWŁOKĄ OCHRONNĄ Z TWORZYWA SZTUCZNEGO LUB TRWALE CHRONIONYM W INNY SPOSÓB, NAPEŁNIONYM GAZEM SKROPLONYM LUB MIESZANINĄ GAZÓW SKROPLONYCH NIE MOŻE W TEMPERATURZE 20°C PRZEKROCZYĆ WARTOŚCI OKREŚLONYCH W TABELI: Załącznik nr 1 MAKSYMALNE CIŚNIENIE WYROBU AEROZOLOWEGO O POJEMNIKU SZKLANYM Z POWŁOKĄ OCHRONNĄ Z TWORZYWA SZTUCZNEGO LUB TRWALE CHRONIONYM W INNY SPOSÓB, NAPEŁNIONYM GAZEM SKROPLONYM LUB MIESZANINĄ GAZÓW SKROPLONYCH NIE MOŻE W TEMPERATURZE 20°C PRZEKROCZYĆ WARTOŚCI OKREŚLONYCH W TABELI: Zawartość gazu skroplonego w całości mieszaniny, Pojemność całkowita w procentach masowych 20% 50% 80% od 50 do 80 ml 3,5 bar 2,8 bar 2,5 bar powyżej 80 do 160 ml 3,2 bar 2,5 bar 2,2 bar powyżej 160 do 220 ml 2,8 bar 2,1 bar 1,8 bar Wartość ciśnienia dla zawartości procentowej gazu nieprzedstawionej w powyższej tabeli należy określić metodą ekstrapolacji.
-POJEMNIKU NIECHRONIONYM NAPEŁNIONYM GAZEM SKROPLONYM NIE MOŻE PRZEKROCZYĆ W TEMPERATURZE 20°C WARTOŚCI OKREŚLONYCH W TABELI: Zawartość gazu skroplonego w całości mieszaniny, Pojemność całkowita w procentach masowych 20% 50% 80% od 50 do 70 ml 1,5 bar 1,5 bar 1,25 bar powyżej 70 do 150 ml 1,5 bar 1,5 bar 1 bar Wartości ciśnienia dla zawartości procentowej gazu nieprzedstawionej w powyższej tabeli należy określić metodą ekstrapolacji.
-MAKSYMALNE CIŚNIENIE WYROBU AEROZOLOWEGO O SZKLANYM POJEMNIKU NIECHRONIONYM NAPEŁNIONYM GAZEM SKROPLONYM NIE MOŻE PRZEKROCZYĆ W TEMPERATURZE 20°C WARTOŚCI OKREŚLONYCH W TABELI: BADANIA PALNOŚCI WYROBÓW AEROZOLOWYCH
+Załączniki do rozporządzenia Ministra Gospodarki z dnia 5 listopada 2009 r.
+
+## Załącznik nr 1 — MAKSYMALNE CIŚNIENIE WYROBU AEROZOLOWEGO O POJEMNIKU SZKLANYM Z POWŁOKĄ OCHRONNĄ Z TWORZYWA SZTUCZNEGO LUB TRWALE CHRONIONYM MAKSYMALNE W INNY CIŚNIENIE SPOSÓB, WYROBU NAPEŁNIONYM AEROZOLOWEGO GAZEM O POJEMNIKU SKROPLONYM SZKLANYM LUB Z POWŁOKĄ OCHRONNĄ Z TWORZYWA SZTUCZNEGO LUB TRWALE CHRONIONYM W INNY SPOSÓB, NAPEŁNIONYM MIESZANINĄ GAZEM GAZÓW SKROPLONYM SKROPLONYCH LUB MIESZANINĄ NIE MOŻE GAZÓW W TEMPERATURZE SKROPLONYCH NIE 20°C MOŻE W TEMPERATURZE 20°C PRZEKROCZYĆ WARTOŚCI OKREŚLONYCH W TABELI: PRZEKROCZYĆ WARTOŚCI OKREŚLONYCH W TABELI: Zawartość gazu skroplonego w całości mieszaniny, Pojemność całkowita w procentach masowych 20% 50% 80% od 50 do 80 ml 3,5 bar 2,8 bar 2,5 bar powyżej 80 do 160 ml 3,2 bar 2,5 bar 2,2 bar powyżej 160 do 220 ml 2,8 bar 2,1 bar 1,8 bar Wartość ciśnienia dla zawartości procentowej gazu nieprzedstawionej w powyższej tabeli należy określić metodą ekstrapolacji.
+
+## Załącznik nr 2 — MAKSYMALNE CIŚNIENIE WYROBU AEROZOLOWEGO O SZKLANYM POJEMNIKU NIECHRONIONYM NAPEŁNIONYM GAZEM SKROPLONYM NIE MAKSYMALNE CIŚNIENIE WYROBU AEROZOLOWEGO O SZKLANYM POJEMNIKU NIECHRONIONYM NAPEŁNIONYM MOŻE PRZEKROCZYĆ GAZEM SKROPLONYM W TEMPERATURZE NIE MOŻE PRZEKROCZYĆ 20°C WARTOŚCI W TEMPERATURZE OKREŚLONYCH 20°C WARTOŚCI W OKREŚLONYCH TABELI: W TABELI: Zawartość gazu skroplonego w całości mieszaniny, Pojemność całkowita w procentach masowych 20% 50% 80% od 50 do 70 ml 1,5 bar 1,5 bar 1,25 bar powyżej 70 do 150 ml 1,5 bar 1,5 bar 1 bar Wartości ciśnienia dla zawartości procentowej gazu nieprzedstawionej w powyższej tabeli należy określić metodą ekstrapolacji.
+
+Dziennik Ustaw – 10 – Załącznik nr Poz. 3 975 BADANIA PALNOŚCI WYROBÓW AEROZOLOWYCH BADANIA PALNOŚCI WYROBÓW AEROZOLOWYCH
 1. Badanie zapłonu na odległość
 1.1. Wstęp
 1.1.1. Badanie jest stosowane do oceny zagrożenia ogniowego przez określenie odległości wyrobu aerozolowego od źródła zapłonu, przy której następuje zapłon rozpylanej zawartości.
@@ -166,7 +172,6 @@ h) manometr dokładność do ± 0,1 bar.
 1.3. Procedura
 1.3.1. Wymagania ogólne
 1.3.1.1. Przed badaniem każdy wyrób aerozolowy powinien być stabilizowany, a następnie zainicjowany przez rozpylanie przez około 1 s w celu usunięcia niejednorodnego materiału z rurki zgłębnej.
-BADANIA PALNOŚCI WYROBÓW AEROZOLOWYCH
 1.3.1.2. Należy ściśle przestrzegać instrukcji dotyczącej użytkowania, w szczególności zwracając uwagę na to, czy wyrób aerozolowy jest przeznaczony do używania w pozycji pionowo do góry, czy w pozycji odwróconej. Jeżeli wymagane jest wstrząśnięcie, wyrób aerozolowy należy wstrząsnąć bezpośrednio przed badaniem.
 1.3.1.3. Badanie należy wykonywać w miejscu bez przeciągu, z możliwością wentylacji, w ustalonej temperaturze 20°C ± 5°C i wilgotności względnej w zakresie 30–80%.
 1.3.1.4. Każdy wyrób aerozolowy powinien być badany:
@@ -209,7 +214,7 @@ T lub N 45 cm Zapłon?
 T lub N 60 cm Zapłon?
 T lub N 75 cm Zapłon?
 T lub N 90 cm Zapłon?
-T lub N Obserwacje włącznie z pozycją pojemnika
+T lub N Obserwacje – włącznie z pozycją pojemnika
 2. Badanie zapłonu w przestrzeni zamkniętej
 2.1. Wstęp Badanie jest stosowane do oceny palności produktów uwolnionych z wyrobów aerozolowych, spowodowanej ich skłonnością do zapłonu w przestrzeniach zamkniętych lub ograniczonych.
 Zawartość wyrobu aerozolowego jest rozpylana do cylindrycznego naczynia badawczego z płonącą świeczką. Jeżeli nastąpi widoczny zapłon, zapisuje się czas, który upłynął do momentu zapłonu, oraz rozpyloną ilość produktu.
@@ -231,7 +236,7 @@ c) na drugim końcu cylindrycznego naczynia wywiercić otwór o średnicy 50 mm 
 d) na podstawce metalowej o wymiarach 200 mm na 200 mm umieścić świecę parafinową o średnicy od 20 mm do 40 mm i wysokości 100 mm; świecę wymienia się, jeżeli jej wysokość jest mniejsza niż 80 mm; płomień świecy jest chroniony przed działaniem zawartości rozpylonej przez osłonę o szerokości 150 mm i wysokości 200 mm; zawiera ona płaszczyznę nachyloną pod kątem 45° umieszczoną w odległości 150 mm od podstawy osłony (rys. 3), Rys. 3
 e) świecę umieszczoną na metalowej podstawie ustawia się w połowie odległości między dwoma końcami cylindrycznego naczynia badawczego (rys. 4), Rys. 4
 f) cylindryczne naczynie kładzie się na podłodze lub na podstawie w miejscu o temperaturze pomiędzy 15°C i 25°C. Badany wyrób jest rozpylany w cylindrycznym naczyniu o przybliżonej objętości 200 dm , w którym umieszcza się źródło zapłonu.
-2.2.2.2. Opisany zestaw i procedura odnoszą się do wyrobów aerozolowych, z których produkt jest uwalniany pod kątem 90° do pionowej osi pojemnika. W przypadku wyrobów aerozolowych o działaniu nietypowym (np. wyroby aerozolowe z rozpylaniem pionowym) należy opisać dokonane modyfikacje sprzętu i procedury zgodnie z dobrą praktyką laboratoryjną, np. zgodnie z normą PN-EN ISO/IEC 17025 Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących.
+2.2.2.2. Opisany zestaw i procedura odnoszą się do wyrobów aerozolowych, z których produkt jest uwalniany pod kątem 90° do pionowej osi pojemnika. W przypadku wyrobów aerozolowych o działaniu nietypowym (np. wyroby aerozolowe z rozpylaniem pionowym) należy opisać dokonane modyfikacje sprzętu i procedury zgodnie z dobrą praktyką laboratoryjną, np. zgodnie z normą PN-EN ISO/IEC 17025 – Ogólne wymagania dotyczące kompetencji laboratoriów badawczych i wzorcujących.
 2.3. Procedura
 2.3.1. Wymagania ogólne
 2.3.1.1. Przed badaniem każdy wyrób aerozolowy powinien być stabilizowany, a następnie zainicjowany przez rozpylanie przez około 1 sekundę w celu usunięcia niejednorodnego materiału z rurki zgłębnej.
@@ -259,8 +264,8 @@ c) temperatura i wilgotność względna powietrza w pomieszczeniu,
 d) czas opróżniania potrzebny do osiągnięcia zapłonu dla każdego badania (jeżeli wyrób się nie zapala, podać tę informację),
 e) masa produktu rozpylonego w czasie każdego badania (w g),
 f) rzeczywista objętość cylindrycznego naczynia badawczego (w dm ).
-2.4.2. Równoważnik czasu (t ) potrzebny do osiągnięcia zapłonu w jednym metrze sześciennym może być obliczony następująco: t = 1000 × czas opróżniania (s) rzeczywista objętość cylindra (dm )
-2.4.3. Gęstość deflagracji (D ) potrzebna do osiągnięcia zapłonu w czasie badania może być obliczona następująco: D 1000 × ilość produktu wyrzuconego (g) = rzeczywista objętość cylindra (dm )
+2.4.2. Równoważnik czasu (t ) potrzebny do osiągnięcia zapłonu w jednym metrze sześciennym może być obliczony następująco: 1000 × czas opróżniania (s) t = rzeczywista objętość cylindra (dm )
+2.4.3. Gęstość deflagracji (D ) potrzebna do osiągnięcia zapłonu w czasie badania może być obliczona następująco: 1000 × ilość produktu wyrzuconego (g) D = rzeczywista objętość cylindra (dm )
 3. Badanie palności piany
 3.1. Wstęp
 3.1.1. Badanie jest stosowane do określenia palności zawartości wyrobu aerozolowego uwalnianej w postaci piany, pianki, żelu lub pasty.

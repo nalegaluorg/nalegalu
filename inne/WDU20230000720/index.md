@@ -8,10 +8,10 @@ pos: 720
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 kwietnia 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 720 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 14 kwietnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/720/text.pdf) |
 
-Poz. 720 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 14 kwietnia 2023 r.
-zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu Na podstawie art. 119 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 1821, z 2004 r. poz. 1320, z 2006 r. poz. 340 oraz z 2009 r. poz. 678) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu Na podstawie art. 119 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347) zarządza się, co następuje:
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu (Dz. U. poz. 1821, z 2004 r. poz. 1320, z 2006 r. poz. 340 oraz z 2009 r. poz. 678) wprowadza się następujące zmiany:
 1) w § 1 ust. 1 otrzymuje brzmienie: „1. Rozporządzenie określa wysokość dodatku za stopień, dodatku służbowego, dodatku stołecznego, dodatku terenowego i dodatku kontrolerskiego oraz zasady ich przyznawania i obniżania, a także sposób wypłaty tych dodatków funkcjonariuszom Agencji Wywiadu, zwanym dalej „funkcjonariuszami”.”;
 2) po § 3 dodaje się § 3a w brzmieniu: „§ 3a. 1. Funkcjonariuszowi:
 1) pełniącemu służbę na obszarze miasta stołecznego Warszawy w rozumieniu ustawy z dnia 15 marca 2002 r.

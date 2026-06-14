@@ -8,10 +8,10 @@ pos: 941
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 czerwca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 941 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 24 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000941) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/941/text.pdf) |
 
-Poz. 941 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 24 czerwca 2024 r.
-w sprawie wysokości wynagrodzenia członków Komisji Odpowiedzialności Zawodowej oraz rzeczników dyscyplinarnych Na podstawie art. 83 ust. 1 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972) zarządza się, co następuje: § 1. Członkowi Komisji Odpowiedzialności Zawodowej, zwanej dalej „Komisją”, za rozpoznanie sprawy dotyczącej odpowiedzialności zawodowej zakończonej wydaniem orzeczenia przez Komisję przysługuje wynagrodzenie w wysokości:
+w sprawie wysokości wynagrodzenia członków Komisji Odpowiedzialności Zawodowej oraz rzeczników dyscyplinarnych Na podstawie art. 83 ust. 1 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972) zarządza się, co następuje:
+§ 1. Członkowi Komisji Odpowiedzialności Zawodowej, zwanej dalej „Komisją”, za rozpoznanie sprawy dotyczącej odpowiedzialności zawodowej zakończonej wydaniem orzeczenia przez Komisję przysługuje wynagrodzenie w wysokości:
 1) 600 zł – w przypadku sprawy zakończonej wydaniem postanowienia o umorzeniu postępowania;
 2) 740 zł – w przypadku sprawy zakończonej wydaniem orzeczenia uniewinniającego osobę obwinioną oraz w przypadku sprawy zakończonej orzeczeniem kary wobec osoby obwinionej.
 § 2. Rzecznikowi dyscyplinarnemu za rozpoznanie sprawy dotyczącej odpowiedzialności zawodowej przysługuje wynagrodzenie w wysokości:

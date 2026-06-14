@@ -8,7 +8,7 @@ pos: 298
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 7 marca 2012 r.

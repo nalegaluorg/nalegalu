@@ -8,10 +8,10 @@ pos: 1829
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia Poz.
+# RZECZYPOSPOLITEJ Poz.
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,8 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1829/text.pdf) |
 
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 26 listopada zmieniające rozporządzenie w sprawie szczegółowych krajowego rejestru urzędowego podziału terytorialnego organów administracji rządowej Na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r.
-zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 15 grudnia sowania i udostępniania krajowego rejestru urzędowego podziału organów administracji rządowej i jednostek samorządu w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału
+zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 15 grudnia sowania i udostępniania krajowego rejestru urzędowego podziału organów administracji rządowej i jednostek samorządu w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału
 1) w części dotyczącej województwa lubuskiego powiatu
 2) w części dotyczącej województwa pomorskiego powiatu
 a) Gminy miejskie skreśla się wyrazy „Władysławowo

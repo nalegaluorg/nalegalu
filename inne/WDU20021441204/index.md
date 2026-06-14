@@ -8,7 +8,7 @@ pos: 1204
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o świadczeniu usług drogą elektroniczną
@@ -33,9 +33,29 @@ Art. 26–29. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** obowiązki usługodawcy związane ze świadczeniem usług drogą elektroniczną;
+- **2)** zasady wyłączania odpowiedzialności usługodawcy z tytułu świadczenia usług drogą elektroniczną;
+- **3)** zasady ochrony danych osobowych osób fizycznych korzystających z usług świadczonych drogą elektroniczną.
+
 **Art. 2.** Określenia użyte w ustawie oznaczają:
 
+- **1)** adres elektroniczny – oznaczenie systemu teleinformatycznego umożliwiające porozumiewanie się za pomocą środków komunikacji elektronicznej, w szczególności poczty elektronicznej;
+- **2)** informacja handlowa – każdą informację przeznaczoną bezpośrednio lub pośrednio do promowania towarów, usług lub wizerunku przedsiębiorcy lub osoby wykonującej zawód, której prawo do wykonywania zawodu jest uzależnione od spełnienia wymagań określonych w odrębnych ustawach, z wyłączeniem informacji umożliwiającej porozumiewanie się za pomocą środków komunikacji elektronicznej z określoną osobą oraz informacji o towarach i usługach niesłużącej osiągnięciu efektu handlowego pożądanego przez podmiot, który zleca jej rozpowszechnianie, w szczególności bez wynagrodzenia lub innych korzyści od producentów, sprzedawców i świadczących usługi;
+- **3)** system teleinformatyczny – zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania, zapewniający przetwarzanie i przechowywanie, a także wysyłanie i odbieranie danych poprzez sieci telekomunikacyjne za pomocą właściwego dla danego rodzaju sieci telekomunikacyjnego urządzenia końcowego w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221);
+- **4)** świadczenie usługi drogą elektroniczną – wykonanie usługi świadczonej bez jednoczesnej obecności stron (na odległość), poprzez przekaz danych na indywidualne żądanie usługobiorcy, przesyłanej i otrzymywanej za pomocą urządzeń do elektronicznego przetwarzania, włącznie z kompresją cyfrową, i przechowywania danych, która jest w całości nadawana, odbierana lub transmitowana za pomocą sieci telekomunikacyjnej w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
+- **5)** środki komunikacji elektronicznej – rozwiązania techniczne, w tym urządzenia teleinformatyczne i współpracujące z nimi narzędzia programowe, umożliwiające indywidualne porozumiewanie się na odległość przy wykorzystaniu transmisji danych między systemami teleinformatycznymi, a w szczególności pocztę elektroniczną;
+- **6)** usługodawca – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadząc, chociażby ubocznie, działalność zarobkową lub zawodową świadczy usługi drogą elektroniczną;
+- **7)** usługobiorca – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która korzysta z usługi świadczonej drogą elektroniczną;
+- **8)** siedziba – siedziba przedsiębiorcy lub siedziba oddziału przedsiębiorcy zagranicznego wykonującego działalność gospodarczą na terytorium Rzeczypospolitej Polskiej.
+
 **Art. 3.** Przepisów ustawy nie stosuje się do:
+
+- **1)** rozpowszechniania lub rozprowadzania programów radiowych lub programów telewizyjnych i związanych z nimi przekazów tekstowych w rozumieniu ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722 oraz z 2024 r. poz. 96 i 1222), z wyłączeniem programów rozpowszechnianych wyłącznie w systemie teleinformatycznym;
+- **2)** używania poczty elektronicznej lub innego równorzędnego środka komunikacji elektronicznej między osobami fizycznymi, w celach osobistych niezwiązanych z prowadzoną przez te osoby, chociażby ubocznie, działalnością zarobkową lub wykonywanym przez nie zawodem;
+- **3)** świadczenia przez przedsiębiorcę telekomunikacyjnego usług telekomunikacyjnych, z wyłączeniem art. 12–15;
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** świadczenia usług drogą elektroniczną, jeżeli odbywa się ono w ramach struktury organizacyjnej usługodawcy, przy czym usługa świadczona drogą elektroniczną służy wyłącznie do kierowania pracą lub procesami gospodarczymi tego podmiotu.
 
 **Art. 3a.**
 
@@ -115,7 +135,16 @@ Art. 26–29. (pominięte)
 
 **Art. 6.** Usługodawca jest obowiązany zapewnić usługobiorcy dostęp do aktualnej informacji o:
 
+- **1)** szczególnych zagrożeniach związanych z korzystaniem z usługi świadczonej drogą elektroniczną;
+- **2)** funkcji i celu oprogramowania lub danych niebędących składnikiem treści usługi, wprowadzanych przez usługodawcę do systemu teleinformatycznego, którym posługuje się usługobiorca.
+
 **Art. 7.** Usługodawca zapewnia działanie systemu teleinformatycznego, którym się posługuje, umożliwiając nieodpłatnie usługobiorcy:
+
+- **1)** w razie, gdy wymaga tego właściwość usługi:
+    - **a)** korzystanie przez usługobiorcę z usługi świadczonej drogą elektroniczną, w sposób uniemożliwiający dostęp osób nieuprawnionych do treści przekazu składającego się na tę usługę, w szczególności przy wykorzystaniu technik kryptograficznych odpowiednich dla właściwości świadczonej usługi,
+    - **b)** jednoznaczną identyfikację stron usługi świadczonej drogą elektroniczną oraz potwierdzenie faktu złożenia oświadczeń woli i ich treści, niezbędnych do zawarcia drogą elektroniczną umowy o świadczenie tej usługi, w szczególności przy wykorzystaniu kwalifikowanego podpisu elektronicznego;
+
+- **2)** zakończenie, w każdej chwili, korzystania z usługi świadczonej drogą elektroniczną.
 
 **Art. 8.**
 

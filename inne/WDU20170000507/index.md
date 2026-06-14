@@ -8,10 +8,10 @@ pos: 507
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 marca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 507 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 10 lutego 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000507) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/507/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 10 lutego 2017 r.
-w sprawie opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego Na podstawie art. 12 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2016 r. poz. 740, 904, 960 i 1955 oraz z 2017 r. poz. 60) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego Na podstawie art. 12 ust. 3 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2016 r. poz. 740, 904, 960 i 1955 oraz z 2017 r. poz. 60) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) wzór formularza opinii służbowej;
 2) szczegółowe zasady i tryb opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego, zwanych dalej „funkcjonariuszami”;
 3) kryteria brane pod uwagę przy opiniowaniu i skalę ocen;
@@ -35,13 +35,14 @@ w sprawie opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego N
 6) tryb zapoznawania funkcjonariuszy z opinią służbową;
 7) tryb wnoszenia i rozpatrywania odwołań od opinii służbowej.
 § 2. Użyte w rozporządzeniu określenia oznaczają:
-1) ustawa ustawę z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego;
-2) bezpośredni przełożony przełożonego zajmującego stanowisko nie niższe niż stanowisko kierownika sekcji lub równorzędne, któremu funkcjonariusz bezpośrednio podlega;
-3) wyższy przełożony Szefa Służby Wywiadu Wojskowego, zastępcę Szefa Służby Wywiadu Wojskowego sprawującego bezpośredni nadzór nad jednostką organizacyjną Służby Wywiadu Wojskowego, kierownika jednostki organizacyjnej Służby Wywiadu Wojskowego;
-4) kierownik jednostki organizacyjnej również funkcjonariusza pełniącego obowiązki kierownika jednostki organizacyjnej Służby Wywiadu Wojskowego.
+1) ustawa – ustawę z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego;
+2) bezpośredni przełożony – przełożonego zajmującego stanowisko nie niższe niż stanowisko kierownika sekcji lub równorzędne, któremu funkcjonariusz bezpośrednio podlega;
+3) wyższy przełożony – Szefa Służby Wywiadu Wojskowego, zastępcę Szefa Służby Wywiadu Wojskowego sprawującego bezpośredni nadzór nad jednostką organizacyjną Służby Wywiadu Wojskowego, kierownika jednostki organizacyjnej Służby Wywiadu Wojskowego;
+4) kierownik jednostki organizacyjnej – również funkcjonariusza pełniącego obowiązki kierownika jednostki organizacyjnej Służby Wywiadu Wojskowego.
 § 3. Wzór formularza opinii służbowej jest określony w załączniku do rozporządzenia.
 § 4. 1. Opinię służbową sporządza się, dokonując oceny służby funkcjonariusza zgodnie z następującymi kryteriami:
 1) efektywność służby;
+2) kwalifikacje zawodowe, wiedza ogólna oraz rozwój zawodowy;
 3) umiejętność oceny sytuacji;
 4) znajomość służby;
 5) umiejętność samodzielnego wykonywania zadań;
@@ -53,7 +54,7 @@ w sprawie opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego N
 11) pracowitość;
 12) przestrzeganie zasad ochrony informacji niejawnych;
 13) sposób sporządzania dokumentów służbowych;
-14) proces adaptacji zawodowej w przypadku funkcjonariuszy w okresie służby przygotowawczej.
+14) proces adaptacji zawodowej – w przypadku funkcjonariuszy w okresie służby przygotowawczej.
 2. Podczas dokonywania oceny w ramach opiniowania służbowego funkcjonariuszy zajmujących stanowiska kierownicze oprócz kryteriów wymienionych w ust. 1 pod uwagę są brane:
 1) komunikacja werbalna;
 2) planowanie i ustalanie priorytetów;
@@ -66,14 +67,14 @@ w sprawie opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego N
 9) ocenianie podwładnych;
 10) dbałość o stosunki międzyludzkie;
 11) odporność na presję;
-12) zarządzani e zasobami materialnymi.
+12) zarządzanie zasobami materialnymi.
 § 5. Przy opiniowaniu służbowym funkcjonariuszy stosuje się sześciostopniową skalę ocen poziomu spełniania kryteriów, o których mowa w § 4:
-1) 6 celujący;
-2) 5 bardzo dobry;
-3) 4 dobry;
-4) 3 dostateczny;
-5) 2 poniżej przeciętnej;
-6) 1 zdecydowanie poniżej przeciętnej.
+1) 6 – celujący;
+2) 5 – bardzo dobry;
+3) 4 – dobry;
+4) 3 – dostateczny;
+5) 2 – poniżej przeciętnej;
+6) 1 – zdecydowanie poniżej przeciętnej.
 § 6. 1. Na podstawie ocen poziomu spełniania kryteriów wystawionych funkcjonariuszowi z zastosowaniem skali ocen określonej w § 5 dokonuje się oceny ogólnej przebiegu służby funkcjonariusza.
 2. Do oceny ogólnej przebiegu służby funkcjonariusza sporządza się także opis zawierający w szczególności uwagi co do:
 1) sposobu wywiązywania się przez funkcjonariusza z obowiązków służbowych;
@@ -87,7 +88,7 @@ w sprawie opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego N
 5) urlopu bezpłatnego;
 6) zaprzestania służby z powodu choroby trwającej dłużej niż 3 miesiące.
 § 8. Funkcjonariusz podlega opiniowaniu służbowemu także:
-1) w przypadku zwolnienia od odbywania służby przygotowawczej po raz pierwszy po upływie 12 miesięcy służby stałej;
+1) w przypadku zwolnienia od odbywania służby przygotowawczej – po raz pierwszy po upływie 12 miesięcy służby stałej;
 2) przed mianowaniem, w trybie art. 32 ust. 1 ustawy, na wyższy stopień obowiązujący w Służbie Wywiadu Wojskowego albo na wyższe stanowisko służbowe, chyba że od ostatniej opinii służbowej upłynęło mniej niż 12 miesięcy;
 3) w okresie służby przygotowawczej bezpośrednio przed mianowaniem na funkcjonariusza w służbie stałej;
 4) w przypadku stwierdzenia w okresie służby przygotowawczej nieprzydatności do służby;
@@ -103,6 +104,7 @@ w sprawie opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego N
 4. W razie odmówienia podpisania opinii służbowej przez opiniowanego funkcjonariusza bezpośredni przełożony dokonuje odpowiedniej adnotacji na opinii służbowej, podając w niej datę przedłożenia opinii do zapoznania się oraz przyczynę braku podpisu opiniowanego funkcjonariusza.
 § 11. Bezpośredni przełożony po zapoznaniu funkcjonariusza z opinią służbową przedstawia tę opinię właściwemu wyższemu przełożonemu do wiadomości.
 § 12. 1. Funkcjonariusz może wnieść drogą służbową pisemne odwołanie wraz z uzasadnieniem od opinii służbowej do właściwego wyższego przełożonego.
+2. Odwołanie rozpatruje się w terminie 30 dni od dnia jego wniesienia.
 3. Odwołanie wniesione po terminie określonym w art. 12 ust. 2 ustawy nie podlega rozpatrzeniu.
 4. Przed upływem terminu na wniesienie odwołania oraz w okresie jego rozpatrywania opinia służbowa nie może stanowić podstawy do wydania rozkazu personalnego, którego wydanie jest uzależnione od treści tej opinii.
 § 13. 1. W przypadku uchybienia terminu określonego w art. 12 ust. 2 ustawy przywraca się termin na wniosek funkcjonariusza, jeżeli uprawdopodobni on, że uchybienie nastąpiło bez jego winy.
@@ -126,7 +128,7 @@ Jeżeli odwołanie rozpatrywał Szef Służby Wywiadu Wojskowego, wniosek skład
 4. Rozstrzygnięcie Szefa Służby Wywiadu Wojskowego w przedmiocie wniosku wyczerpuje tryb rozpatrywania odwołania.
 § 19. Traci moc rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie wzoru formularza opinii służbowej oraz opiniowania służbowego funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. poz. 1251).
 § 20. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: A. Macierewicz WZÓR nistra O rony Narodowej l 2017 ( ……….…………………….. po wypełnieniu Egzemplarz pojedynczy ...............................................................
+Minister Obrony Narodowej: A. Macierewicz Załącznik do rozporządzenia Ministra Obrony Narodowej z dnia 10 lutego 2017 r. (poz. ……) WZÓR WZÓR ……….…………………….. – po wypełnieniu Egzemplarz pojedynczy ...............................................................
 ……………………………………… OPINIA SŁUŻBOWA (okresowa ocena przebiegu służby funkcjonariusza Służby Wywiadu Wojskowego) wydana za okres służby od ....................................................... do .............................................
 ………………………………………… ………………………………………..
 ……………………………………….. ....………………………………………..

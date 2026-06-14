@@ -8,7 +8,7 @@ pos: 587
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw
@@ -29,6 +29,147 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2006 r. Nr 129, poz. 902, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 3:
+    - **a)** w pkt 20 lit. a i b otrzymują brzmienie: „a) przedsiębiorcę w rozumieniu art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807, z późn. zm. ), a także osoby prowadzące działalność wytwórczą w rolnictwie w zakresie upraw rolnych, chowu lub hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa i rybactwa śródlądowego oraz osoby wykonujące zawód medyczny w ramach indywidualnej praktyki lub indywidualnej specjalistycznej praktyki,
+    - **b)** jednostkę organizacyjną niebędącą przedsiębiorcą w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej,”,
+    - **b)** pkt 28 otrzymuje brzmienie: „28) poziomie substancji w powietrzu – rozumie się przez to stężenie substancji w powietrzu w odniesieniu do ustalonego czasu lub opad takiej substancji w odniesieniu do ustalonego czasu i powierzchni, przy czym:
+    - **a)** poziom dopuszczalny – jest to poziom substancji, który ma być osiągnięty w określonym terminie i który po tym terminie nie powinien być przekraczany; poziom dopuszczalny jest standardem jakości powietrza,
+    - **b)** poziom docelowy – jest to poziom substancji, który ma być osiągnięty w określonym czasie za pomocą ekonomicznie uzasadnionych działań technicznych i technologicznych; poziom ten określa się w celu zapobiegania lub ograniczania szkodliwego wpływu danej substancji na zdrowie ludzi lub środowisko jako całość,
+    - **c)** poziom celu długoterminowego – jest to poziom substancji, poniżej którego, zgodnie ze stanem współczesnej wiedzy, bezpośredni szkodliwy wpływ na zdrowie ludzi lub środowisko jako całość jest mało prawdopodobny; poziom ten ma być osiągnięty w długim okresie czasu, z wyjątkiem sytuacji, gdy nie może być osiągnięty za pomocą ekonomicznie uzasadnionych działań technicznych i technologicznych;”,
+    - **c)** pkt 34 otrzymuje brzmienie: „34) standardzie jakości środowiska – rozumie się przez to poziomy dopuszczalne substancji lub energii, które muszą być osiągnięte w określonym czasie przez środowisko jako całość lub jego poszczególne elementy przyrodnicze;”;
+
+- **2)** w art. 14 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) poziomy celów długoterminowych;”;
+- **3)** w art. 19 w ust. 2:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) decyzje, o których mowa w art. 46 ust. 4 pkt 1a-2, 2a i 4-9, wydawane dla przedsięwzięć mogących znacząco oddziaływać na środowisko oraz dla przedsięwzięć mogących znacząco oddziaływać na obszar Natura 2000, które nie są bezpośrednio związane z ochroną tego obszaru lub nie wynikają z tej ochrony;”,
+    - **b)** po pkt 29 dodaje się pkt 29a w brzmieniu: „29a) decyzje określające szczegółowe warunki wydobywania kopaliny, o których mowa w art. 10 ust. 2 ustawy z dnia 27 lipca 2001 r. o zmianie ustawy – Prawo geologiczne i górnicze (Dz. U. Nr 110, poz. 1190);”,
+    - **c)** w pkt 31 średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) informacje dotyczące projektów wspólnych wdrożeń i projektów mechanizmu czystego rozwoju;”;
+
+- **4)** w art. 25 w ust. 3 pkt 1 otrzymuje brzmienie: „1) jakości elementów przyrodniczych, dotrzymywaniu standardów jakości środowiska określonych przepisami i poziomów, o których mowa w art. 3 pkt 28 lit. b i c, oraz obszarach występowania przekroczeń tych standardów i poziomów;”;
+- **5)** w art. 29 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Organy Inspekcji Ochrony Środowiska udostępniają nieodpłatnie organom Państwowej Inspekcji Sanitarnej, gromadzone w ramach państwowego monitoringu środowiska, dane zawierające wyniki pomiarów, o których mowa w art. 90 ust. 1.”;
+- **6)** w art. 30:
+    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) wyników pomiarów, o których mowa w art. 90 ust. 1,”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) programów ochrony powietrza, o których mowa w art. 91 ust. 3 i 5,”, – pkt 3 otrzymuje brzmienie: „3) planów działań krótkoterminowych, o których mowa w art. 92 ust. 1,”, – pkt 6 otrzymuje brzmienie: „6) map akustycznych, o których mowa w art. 118 ust. 1,”, – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) map akustycznych, o których mowa w art. 179 ust. 1,”, – pkt 7 otrzymuje brzmienie: „7) terenów, o których mowa w art. 118 ust. 6,”, – po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) programów ochrony środowiska przed hałasem, o których mowa w art. 119 ust. 1,”,
+    - **b)** w ust. 2: – pkt 1 i 2 otrzymują brzmienie: „1) wojewoda – w zakresie informacji, o których mowa w ust. 1 pkt 2a i 3, oraz, z zastrzeżeniem pkt 2, w zakresie informacji, o których mowa w ust. 1 pkt 6, 7 i 7a;
+
+- **2)** starosta – w zakresie informacji, o których mowa w ust. 1 pkt 4 i 5, oraz, gdy dotyczy to terenów, o których mowa w art. 117 ust. 2 pkt 1 i ust. 3, w zakresie informacji, o których mowa w ust. 1 pkt 6, 7 i 7a;”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) zarządzający drogą, linią kolejową lub lotniskiem – w zakresie informacji, o których mowa w ust. 1 pkt 6a;
+- **6)** zarządzający drogą, linią kolejową, linią tramwajową, lotniskiem lub portem – w zakresie informacji, o których mowa w ust. 1 pkt
+
+11. ”,
+
+- **c)** w ust. 2a pkt 2 otrzymuje brzmienie: „2) przez Głównego Inspektora Ochrony Środowiska:
+- **a)** Krajowy Rejestr Uwalniania i Transferu Zanieczyszczeń, o którym mowa w art. 236a ust. 1,
+- **b)** raporty o stanie środowiska w Polsce, o których mowa w art. 25b ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska;”;
+- **7)** w art. 32 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Uwagi lub wnioski złożone po upływie terminu, o którym mowa w ust. 1 pkt 1, pozostawia się bez rozpatrzenia.”;
+- **8)** w art. 33 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zgłoszenie przez organizacje ekologiczne chęci uczestniczenia w postępowaniu powinno nastąpić równocześnie ze złożeniem uwag lub wniosków, o których mowa w ust. 1; zgłoszenia chęci uczestniczenia po złożeniu uwag lub wniosków nie uwzględnia się.”;
+- **9)** w art. 34 ust. 1 otrzymuje brzmienie: „1. Organ właściwy do opracowania projektu polityki ekologicznej państwa oraz organ administracji właściwy do opracowania dokumentów, o których mowa w art. 17 ust. 1, art. 40 ust. 1 i 2, art. 91 ust. 3, 5 i 7, art. 119 ust. 1 i art. 265 ust. 1, zapewniają możliwość udziału społeczeństwa poprzedzającego ich przyjęcie; przepisy art. 32 ust. 1 pkt 1 i 3 oraz ust. 2 stosuje się odpowiednio, z tym że termin zgłaszania uwag lub wniosków wynosi co najmniej 21 dni.”;
+- **10)** w art. 41 w ust. 2 pkt 4-6 otrzymują brzmienie: „4) określać, analizować i oceniać istniejące problemy ochrony środowiska istotne z punktu widzenia projektowanego dokumentu, w szczególności dotyczące obszarów podlegających ochronie na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
+- **5)** określać, analizować i oceniać cele ochrony środowiska ustanowione na szczeblu międzynarodowym, wspólnotowym i krajowym, istotne z punktu widzenia projektowanego dokumentu, oraz sposoby, w jakich te cele i inne problemy środowiska zostały uwzględnione podczas opracowywania dokumentu;
+- **6)** określać, analizować i oceniać przewidywane znaczące oddziaływania, w tym oddziaływania bezpośrednie, pośrednie, wtórne, skumulowane, krótkoterminowe, średnioterminowe i długoterminowe, stałe i chwilowe oraz pozytywne i negatywne, na środowisko, a w szczególności na:
+    - **a)** różnorodność biologiczną,
+    - **b)** ludzi,
+    - **c)** zwierzęta,
+    - **d)** rośliny,
+    - **e)** wodę,
+    - **f)** powietrze,
+    - **g)** powierzchnię ziemi,
+    - **h)** krajobraz,
+    - **i)** klimat,
+    - **j)** zasoby naturalne,
+    - **k)** zabytki – z uwzględnieniem zależności między tymi elementami środowiska i między oddziaływaniami na te elementy;”;
+
+- **11)** w art. 45:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) państwowy wojewódzki inspektor sanitarny – w odniesieniu do pozostałych postępowań, z wyłączeniem postępowań dotyczących miejscowych planów zagospodarowania przestrzennego;”,
+    - **b)** dodaje się pkt 3 w brzmieniu: „3) państwowy powiatowy inspektor sanitarny – w odniesieniu do postępowań dotyczących miejscowych planów zagospodarowania przestrzennego.”;
+
+- **12)** w art. 46: zm. ),
+    - **a)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. W przypadku przedsięwzięcia polegającego na przebudowie drogi, będącego przedsięwzięciem mogącym znacząco oddziaływać na środowisko, o którym mowa w art. 51 ust. 1 pkt 1, decyzję o środowiskowych uwarunkowaniach wydaje się dla całego przedsięwzięcia realizowanego w granicach województwa.”,
+    - **b)** w ust. 4: – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) decyzji o warunkach zabudowy dla przedsięwzięcia polegającego na zalesieniu – na podstawie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;”, – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) decyzji określającej szczegółowe warunki wydobywania kopaliny – na podstawie art. 10 ust. 2 ustawy z dnia 27 lipca 2001 r. o zmianie ustawy – Prawo geologiczne i górnicze;”, – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) dla planowanego przedsięwzięcia, które może znacząco oddziaływać na obszar Natura 2000 i nie jest bezpośrednio związane z ochroną tego obszaru lub nie wynika z tej ochrony:
+    - **a)** decyzji uzgadniającej warunki rekultywacji – na podstawie art. 106 ust. 2,
+    - **b)** decyzji w sprawie rekultywacji i zagospodarowania – na podstawie ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2004 r. Nr 121, poz. 1266, z późn.
+    - **c)** decyzji w sprawie zgody na przeznaczenie gruntów rolnych i leśnych na cele nierolnicze i nieleśne – na podstawie ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych;”,
+    - **c)** ust. 4b otrzymuje brzmienie: „4b. Decyzję o środowiskowych uwarunkowaniach dołącza się do wniosku o wydanie decyzji, o której mowa w ust. 4, oraz do zgłoszenia, o którym mowa w ust. 4a; złożenie wniosku albo dokonanie zgłoszenia powinno nastąpić nie później niż przed upływem czterech lat od dnia, w którym decyzja o środowiskowych uwarunkowaniach stała się ostateczna.”,
+    - **d)** po ust. 4e dodaje się ust. 4f w brzmieniu: „4f. Jeżeli na terenie, na którym realizowane jest przedsięwzięcie, dla którego została wydana jedna z decyzji określonych w ust. 4 lub dokonano zgłoszenia, o którym mowa w ust. 4a, został wyznaczony obszar Natura 2000, uprawniony podmiot powinien złożyć, w terminie 6 miesięcy od dnia wyznaczenia tego obszaru, wniosek o wydanie decyzji o środowiskowych uwarunkowaniach w zakresie oddziaływania na obszar Natura
+
+2000. ”;
+
+- **13)** w art. 46a:
+    - **a)** uchyla się ust. 3,
+    - **b)** w ust. 4: – pkt 1 otrzymuje brzmienie: „1) poświadczoną przez właściwy organ kopię mapy ewidencyjnej obejmującej przewidywany teren, na którym będzie realizowane przedsięwzięcie, wraz z terenem działek sąsiednich;”, – w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „3) w postępowaniu dotyczącym przedsięwzięć określonych w art. 51 ust. 1 pkt 1 – raport o oddziaływaniu przedsięwzięcia na środowisko, w trzech egzemplarzach, wraz z jego zapisem w formie elektronicznej na informatycznych nośnikach danych;
+
+- **4)** w postępowaniu dotyczącym przedsięwzięć określonych w art. 51 ust. 1 pkt 2 i 3 – informacje zawierające dane, o których mowa w art. 49 ust. 3, w trzech egzemplarzach, wraz z ich zapisem w formie elektronicznej na informatycznych nośnikach danych.”,
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Przepisu ust. 4 pkt 2 nie stosuje się do wniosku o wydanie decyzji o środowiskowych uwarunkowaniach dla drogi krajowej.”,
+    - **d)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. W przypadku przedsięwzięcia, o którym mowa w ust. 7 pkt 4, realizowanego przez gminę decyzję o środowiskowych uwarunkowaniach wydaje wójt, burmistrz lub prezydent miasta, na którego obszarze właściwości przedsięwzięcie jest realizowane.”;
+
+- **14)** w art. 48:
+    - **a)** w ust. 2: – pkt 1a otrzymuje brzmienie: „1a) w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a – z organem, o którym mowa w art. 57;”, – w pkt 3 lit. a otrzymuje brzmienie: „a) będących przedsięwzięciami, o których mowa w art. 51 ust. 1 pkt 1-2 – z wojewodą, a na obszarach morskich z dyrektorem urzędu morskiego, a także, jeżeli przedsięwzięcia te wymagają decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a – z organem, o którym mowa w art. 57,”, – uchyla się pkt 4,
+    - **b)** dodaje się ust. 4 i 5 w brzmieniu: „4. Uzgodnień, o których mowa w ust. 2, dokonuje się w terminie 60 dni od dnia otrzymania dokumentów, o których mowa w ust. 3.
+
+5. Przepisu ust. 3 pkt 3 nie stosuje się do uzgodnień warunków realizacji przedsięwzięcia dla drogi krajowej.”;
+
+- **15)** w art. 49:
+    - **a)** w ust. 5: – pkt 1 otrzymuje brzmienie: „1) wojewody;”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) organu, o którym mowa w art. 57, w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a;”, – uchyla się pkt 3,
+    - **b)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Opinię, o której mowa w ust. 5, wydaje się w terminie 14 dni od dnia otrzymania wniosku o wydanie opinii.
+
+5b. Postanowienie, o którym mowa w ust. 5, wydaje się w terminie 30 dni od dnia otrzymania zapytania o zakres raportu.”;
+
+- **16)** uchyla się art. 50;
+- **17)** w art. 51:
+    - **a)** w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) planowane przedsięwzięcia mogące znacząco oddziaływać na środowisko, dla których obowiązek może być stwierdzony na podstawie ust. 2;
+
+- **3)** planowane przedsięwzięcia mogące znacząco oddziaływać na obszar Natura 2000, dla których obowiązek może być stwierdzony na podstawie ust. 2.”,
+    - **b)** w ust. 3: – pkt 2 i 3 otrzymują brzmienie: „2) organu, o którym mowa w art. 57, w przypadku przedsięwzięć wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a;
+
+- **3)** w przypadku przedsięwzięć, które mogą znacząco oddziaływać na obszar Natura 2000 i nie są bezpośrednio związane z ochroną tego obszaru lub nie wynikają z tej ochrony, będących przedsięwzięciami, o których mowa w ust. 1 pkt 2:
+    - **a)** wojewody, a na obszarach morskich dyrektora urzędu morskiego,
+    - **b)** organu, o którym mowa w art. 57 – jeżeli przedsięwzięcia te wymagają decyzji, o której mowa w art. 46 ust. 4 pkt 2, 2a, 8 i 9, albo zgłoszenia, o którym mowa w art. 46 ust. 4a;”, – uchyla się pkt 5,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Organ zasięgający opinii przedkłada:
+
+- **1)** wniosek o wydanie decyzji o środowiskowych uwarunkowaniach;
+- **2)** informacje zawierające dane, o których mowa w art. 49 ust. 3;
+- **3)** wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony.”,
+    - **d)** po ust. 4 dodaje się ust. 4a-4d w brzmieniu: „4a. Przepisu ust. 4 pkt 3 nie stosuje się do opinii w sprawie obowiązku sporządzenia raportu i jego zakresu dla drogi krajowej.
+
+4b. W przypadku przedsięwzięć:
+
+- **1)** o których mowa w ust. 1 pkt 2, wymagających decyzji, o której mowa w art. 46 ust. 4 pkt 3-7,
+- **2)** o których mowa w ust. 1 pkt 3 – odpowiednio starosta albo wojewoda, a na obszarach morskich dyrektor urzędu morskiego, wydając opinię w sprawie braku potrzeby sporządzenia raportu, jednocześnie uzgadnia warunki realizacji przedsięwzięcia, w trybie art. 48 ust. 2.
+
+4c. Opinię, o której mowa w ust. 3, wydaje się w terminie 14 dni od dnia otrzymania wniosku o wydanie opinii.
+
+4d. Postanowienie, o którym mowa w ust. 2, wydaje się w terminie 30 dni od dnia wszczęcia postępowania w sprawie wydania decyzji o środowiskowych uwarunkowaniach.”,
+
+- **e)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Uzasadnienia postanowień, o których mowa w ust. 2, niezależnie od wymagań wynikających z przepisów Kodeksu postępowania administracyjnego, powinny zawierać informacje o szczegółowych uwarunkowaniach, o których mowa w ust. 8 pkt 2, uwzględnionych przy wydawaniu tych postanowień.”,
+- **f)** w ust. 8 wprowadzenie do wyliczenia i pkt 1 otrzymują brzmienie: „Rada Ministrów, uwzględniając możliwe oddziaływanie na środowisko przedsięwzięć, o których mowa w ust. 1 pkt 1 i 2, określi, w drodze rozporządzenia: „1) rodzaje przedsięwzięć mogących znacząco oddziaływać na środowisko, wymagających sporządzenia raportu o oddziaływaniu na środowisko, oraz rodzaje przedsięwzięć, dla których obowiązek sporządzenia raportu może być wymagany, w tym przypadki, gdy zmiany dokonywane w obiektach są kwalifikowane jako takie przedsięwzięcia, biorąc pod uwagę rodzaj działalności, wielkość produkcji i inne parametry techniczne, a także charakterystykę przedsięwzięcia, wielkość emisji, usytuowanie oraz rodzaj i skalę jego oddziaływania na środowisko;”;
+- **18)** w art. 52:
+    - **a)** w ust. 1: – uchyla się pkt 4a, – pkt 7a otrzymuje brzmienie: „7a) dla dróg będących przedsięwzięciami mogącymi znacząco oddziaływać na środowisko, o których mowa w art. 51 ust. 1 pkt 1:
+    - **a)** określenie założeń do: – ratowniczych badań zidentyfikowanych zabytków znajdujących się na obszarze planowanego przedsięwzięcia, odkrywanych w trakcie robót budowlanych, – programu zabezpieczenia istniejących zabytków przed negatywnym oddziaływaniem planowanego przedsięwzięcia oraz ochrony krajobrazu kulturowego,
+    - **b)** analizę i ocenę możliwych zagrożeń i szkód dla zabytków chronionych na podstawie przepisów o ochronie zabytków i opiece nad zabytkami, w szczególności zabytków archeologicznych, w obrębie terenu, na którym ma być realizowane przedsięwzięcie;”,
+    - **b)** po ust. 1c dodaje się ust. 1d w brzmieniu: „1d. Dla przedsięwzięć polegających na przebudowie drogi oraz dla dróg, dla których została wydana decyzja, o której mowa w art. 46 ust. 4 pkt 8 lub 9, informacje, o których mowa w ust. 1 pkt 3-4 i pkt 5, nie dotyczą wariantów lokalizacyjnych planowanego przedsięwzięcia.”;
+
+- **19)** w art. 56:
+    - **a)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Przepisu ust. 1 nie stosuje się do decyzji o środowiskowych uwarunkowaniach wydawanej dla drogi krajowej.
+
+1b. Właściwy organ wydaje decyzję o środowiskowych uwarunkowaniach, uwzględniając:
+
+- **1)** uzgodnienia organów, o których mowa w art. 48 ust. 2;
+- **2)** ustalenia zawarte w raporcie o oddziaływaniu przedsięwzięcia na środowisko albo informacje zawierające dane, o których mowa w art. 49 ust. 3, jeżeli sporządzenie raportu nie jest wymagane;
+- **3)** wyniki przeprowadzonego postępowania z udziałem społeczeństwa, o którym mowa w art. 53.”,
+    - **b)** ust. 9 otrzymuje brzmienie: „9. Decyzja o środowiskowych uwarunkowaniach wiąże organ wydający decyzję, o której mowa w art. 46 ust. 4, oraz organ przyjmujący zgłoszenie, o którym mowa w art. 46 ust. 4a.”;
+
+- **20)** w art. 58 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Postępowanie dotyczące transgranicznego oddziaływania na środowisko przeprowadza się również na wniosek innego państwa członkowskiego Unii Europejskiej, na którego terytorium może oddziaływać przedsięwzięcie albo realizacja projektu dokumentu, o którym mowa w art. 40 ust. 1 pkt 2.”;
+- **21)** art. 60 i 61 otrzymują brzmienie: „Art. 60. 1. Organ administracji przeprowadzający postępowanie w sprawie oceny oddziaływania na środowisko w przypadku stwierdzenia możliwości znaczącego transgranicznego oddziaływania na środowisko na skutek realizacji:
+- **1)** planowanego przedsięwzięcia:
+    - **a)** wydaje postanowienie o przeprowadzeniu postępowania dotyczącego transgranicznego oddziaływania na środowisko, w którym ustala zakres dokumentacji niezbędnej do przeprowadzenia tego postępowania oraz obowiązek sporządzenia tej dokumentacji, przez wnioskodawcę, w języku państwa, na którego terytorium może oddziaływać przedsięwzięcie,
+    - **b)** niezwłocznie informuje ministra właściwego do spraw środowiska o możliwości transgranicznego oddziaływania na środowisko planowanego przedsięwzięcia i przekazuje informacje zawierające dane, o których mowa w art. 49 ust. 3,
+    - **c)** po otrzymaniu wniosku o wydanie decyzji o środowiskowych uwarunkowaniach lub raportu o oddziaływaniu przedsięwzięcia na środowisko przekazuje je ministrowi właściwemu do spraw środowiska;
+
+- **2)** projektu dokumentu, o którym mowa w art. 40 ust. 1 pkt 2 – niezwł ocznie informuje ministra właściwego do spraw środowiska o możliwości transgranicznego oddziaływania na środowisko skutków realizacji tego dokumentu i przekazuje projekt dokumentu, wraz z prognozą oddziaływania na środowisko; projekt dokumentu oraz prognozę oddziaływania na środowisko – w części, która umożliwi państwu, na którego terytorium realizacja projektu dokumentu może oddziaływać, ocenę możliwego znaczącego transgranicznego oddziaływania na środowisko – sporządza się w języku tego państwa.
+
+2. Na postanowienie, o którym mowa w ust. 1 pkt 1 lit. a, przysługuje zażalenie.
+
+3. Przez dokumentację, o której mowa w ust. 1 pkt 1 lit. a, rozumie się wniosek o wydanie decyzji o środowiskowych uwarunkowaniach, informacje zawierające dane, o których mowa w art. 49 ust. 3, oraz część raportu o oddziaływaniu przedsięwzięcia na środowisko, która umożliwi państwu, na którego terytorium planowane przedsięwzięcie może oddziaływać, ocenę możliwego znaczącego transgranicznego oddziaływania na środowisko.
+
+4. W przypadku postępowania dotyczącego transgranicznego oddziaływania na środowisko prowadzonego przed wydaniem pozwolenia zintegrowanego, przez dokumentację, o której mowa w ust. 1 pkt 1 lit. a, rozumie się część wniosku o wydanie pozwolenia zintegrowanego, która umożliwi państwu, na którego terytorium może oddziaływać instalacja wymagająca uzyskania takiego pozwolenia, ocenę możliwego znaczącego transgranicznego oddziaływania na środowisko.
+
 **Art. 61.**
 
 1. Minister właściwy do spraw środowiska po uzyskaniu informacji o możliwym transgranicznym oddziaływaniu na środowisko:
@@ -41,7 +182,8 @@ source: "isap-pdf"
 - **22)** w art. 62 pkt 1 i 2 otrzymują brzmienie: „1) w porozumieniu z organem administracji przeprowadzającym postępowanie w sprawie oceny oddziaływania na środowisko, uzgadnia z tym państwem terminy etapów postępowania, biorąc pod uwagę konieczność zapewnienia możliwości udziału w postępowaniu właściwych organów oraz społeczeństwa tego państwa;
 - **2)** przekazuje temu państwu:
     - **a)** wniosek o wydanie decyzji o środowiskowych uwarunkowaniach,
-    - **b)** postanowienie, o którym mowa w art. 51 ust. 2, jeżeli zostało wydane, wraz z opiniami, o których mowa w art. 51 ust. 3, rządzenie jest wymagane.”;
+    - **b)** postanowienie, o którym mowa w art. 51 ust. 2, jeżeli zostało wydane, wraz z opiniami, o których mowa w art. 51 ust. 3,
+    - **c)** raport o oddziaływaniu przedsięwzięcia na środowisko, jeżeli jego sporządzenie jest wymagane.”;
 
 - **23)** w art. 63 ust. 2 otrzymuje brzmienie: „2. Organ administracji przeprowadzający postępowanie w sprawie oceny oddziaływania na środowisko prowadzi, za pośrednictwem ministra właściwego do spraw środowiska, konsultacje z państwem, na którego terytorium może oddziaływać przedsięwzięcie albo realizacja projektu dokumentu, o którym mowa w art. 40 ust. 1 pkt 2; konsultacje dotyczą środków eliminowania lub ograniczania transgranicznego oddziaływania na środowisko.”;
 - **24)** w art. 64:
@@ -55,7 +197,7 @@ source: "isap-pdf"
 - **1)** przedsięwzięciu podejmowanym poza granicami Rzeczypospolitej Polskiej, którego realizacja może oddziaływać na środowisko na jej terytorium – niezwłocznie przekazuje je wojewodzie właściwemu ze względu na obszar możliwego transgranicznego oddziaływania na środowisko;
 - **2)** projekcie dokumentu opracowywanym poza granicami Rzeczypospolitej Polskiej, którego skutki realizacji mogą oddziaływać na środowisko na jej terytorium – niezwłocznie przekazuje je marszałkowi województwa właściwemu ze względu na obszar możliwego transgranicznego oddziaływania na środowisko.
 
-2. Odpowiednio wojewoda albo marszałek województwa wykłada do wglądu w języku polskim dokumenty, o których mowa w ust. 1, w zakresie, w jakim jest to niezbędne do analizy oddziaływania sko; przepis art. 32 ust. 1 pkt 1 stosuje się odpowiednio.
+2. Odpowiednio wojewoda albo marszałek województwa wykłada do wglądu w języku polskim dokumenty, o których mowa w ust. 1, w zakresie, w jakim jest to niezbędne do analizy oddziaływania przedsięwzięcia albo skutków realizacji dokumentu na środowisko; przepis art. 32 ust. 1 pkt 1 stosuje się odpowiednio.
 
 3. Odpowiednio wojewoda albo marszałek województwa przedkłada ministrowi właściwemu do spraw środowiska projekt stanowiska dotyczącego przedsięwzięcia albo projektu dokumentu, których realizacja może oddziaływać na środowisko na terytorium Rzeczypospolitej Polskiej.
 
@@ -71,7 +213,7 @@ source: "isap-pdf"
     - **d)** w ust. 4 wprowadzenie do wyliczenia i pkt 1 otrzymują brzmienie: „Na 30 dni przed terminem oddania do użytkowania nowo zbudowanego lub przebudowanego obiektu budowlanego, zespołu obiektów lub instalacji realizowanych jako przedsięwzięcie mogące znacząco oddziaływać na środowisko, o którym mowa w art. 51 ust. 1 pkt 1 i 2, inwestor jest obowiązany poinformować wojewódzkiego inspektora ochrony środowiska o planowanym terminie:
 
 - **1)** oddania do użytkowania nowo zbudowanego lub przebudowanego obiektu budowlanego, zespołu obiektów lub instalacji;”;
-- **31)** w art. 85 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: ziomów docelowych albo poziomów celów długoterminowych lub co najmniej na tych poziomach.”;
+- **31)** w art. 85 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) zmniejszanie i utrzymanie poziomów substancji w powietrzu poniżej poziomów docelowych albo poziomów celów długoterminowych lub co najmniej na tych poziomach.”;
 - **32)** w art. 86:
     - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw zdrowia, kierując się koniecznością ujednolicenia zasad oceny jakości powietrza, określi, w drodze rozporządzenia:
 
@@ -91,8 +233,10 @@ source: "isap-pdf"
 - **1)** dopuszczalna częstość przekraczania poziomów, o których mowa w ust. 1 pkt 1 i 2;
 - **2)** terminy osiągnięcia poziomów, o których mowa w ust. 1 pkt 1-3, dla niektórych substancji w powietrzu;
 - **3)** zró żnicowane poziomy, o których mowa w ust. 1 pkt 1-3, ze względu na ochronę zdrowia ludzi oraz ochronę roślin;
-- **4)** marginesy tolerancji dla niektórych poziomów dopuszczalnych, wyrażone jako malejąca wartość procentowa w stosunku do dopuszczalnego poziomu substancji w powietrzu w kolejnych latach.”, na którym poziom tej substancji w powietrzu przekracza poziom dopuszczalny, klasyfikuje się do strefy, o której mowa w art. 89 ust. 1 pkt
+- **4)** marginesy tolerancji dla niektórych poziomów dopuszczalnych, wyrażone jako malejąca wartość procentowa w stosunku do dopuszczalnego poziomu substancji w powietrzu w kolejnych latach.”,
     - **b)** dodaje się ust. 6 i 7 w brzmieniu: „6. Przez margines tolerancji rozumie się wartość, o którą przekroczenie dopuszczalnego poziomu substancji w powietrzu nie powoduje obowiązku sporządzenia projektu rozporządzenia w sprawie programu ochrony powietrza, o którym mowa w art. 91 ust. 1.
+
+7. Jeżeli dla substancji nie został określony margines tolerancji, to obszar, na którym poziom tej substancji w powietrzu przekracza poziom dopuszczalny, klasyfikuje się do strefy, o której mowa w art. 89 ust. 1 pkt
 
 1. ”;
 
@@ -117,6 +261,8 @@ source: "isap-pdf"
 - **6)** przekracza poziom celu długoterminowego;
 - **7)** nie przekracza poziomu celu długoterminowego.”,
     - **b)** uchyla się ust. 2-5;
+
+- **36)** w art. 90:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Wojewódzki inspektor ochrony środowiska dokonuje oceny poziomów substancji w powietrzu na podstawie pomiarów lub innych metod oceny.”,
     - **b)** uchyla się ust. 2,
     - **c)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw zdrowia, kierując się potrzebą ujednolicenia zasad dokonywania oceny jakości powietrza w strefach, określi, w drodze rozporządzenia:
@@ -131,7 +277,8 @@ source: "isap-pdf"
     - **b)** może być dokonywana: – przy zastosowaniu kombinacji metod pomiarowych i metod modelowania, – metodami modelowania lub innymi metodami szacowania;”, – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) wymagania dotyczące jakości pomiarów i zakresu dokumentacji dotyczącej uzasadnienia lokalizacji punktów pomiarowych.”,
     - **e)** dodaje się ust. 6 w brzmieniu: „6. Główny Inspektor Ochrony Środowiska:
 
-- **1)** sprawuje nadzór nad ustalaniem przez wojewódzkiego inspektora ochrony środowiska sposobu oceny jakości powietrza, o której mowa w art. 88, oraz dokonywaniem oceny jakości powietrza i klasyfikacji stref, o których mowa w art. 89 ust. 1, w tym zatwierdza sieci pomiarowe i inne metody oceny w ramach wojewódzkich programów monitoringu środowiska; oceny jakości powietrza poprzez wskazanie procedur jakości, w tym zapewnienie spójności pomiarowej przy udziale laboratoriów wzorcujących;
+- **1)** sprawuje nadzór nad ustalaniem przez wojewódzkiego inspektora ochrony środowiska sposobu oceny jakości powietrza, o której mowa w art. 88, oraz dokonywaniem oceny jakości powietrza i klasyfikacji stref, o których mowa w art. 89 ust. 1, w tym zatwierdza sieci pomiarowe i inne metody oceny w ramach wojewódzkich programów monitoringu środowiska;
+- **2)** koordynuje działania w zakresie zapewnienia jakości pomiarów i oceny jakości powietrza poprzez wskazanie procedur jakości, w tym zapewnienie spójności pomiarowej przy udziale laboratoriów wzorcujących;
 - **3)** koordynuje na terenie kraju udział w programach zapewnienia jakości organizowanych przez Komisję Europejską.”;
 - **37)** art. 91 otrzymuje brzmienie: „Art. 91. 1. Dla stref, o których mowa w art. 89 ust. 1 pkt 1, wojewoda, w terminie 12 miesięcy od dnia otrzymania wyników oceny poziomów substancji w powietrzu i klasyfikacji stref, o których mowa w art. 89 ust. 1, przedstawia do zaopiniowania właściwym starostom projekt rozporządzenia w sprawie programu ochrony powietrza, mającego na celu osiągnięcie poziomów dopuszczalnych substancji w powietrzu.
 
@@ -147,7 +294,9 @@ source: "isap-pdf"
 
 7. Dla stref, w których został przekroczony poziom dopuszczalny albo poziom docelowy więcej niż jednej substancji w powietrzu, można sporządzić wspólny program ochrony powietrza dotyczący tych substancji.
 
-8. Jeżeli przyczyny wywołujące przekroczenia dopuszczalnych lub docelowych poziomów substancji w powietrzu w strefach, o których mowa w art. 89 ust. 1 pkt 1 lub 4, występują na terenie innego województwa niż zlokalizowane są strefy, właściwi wojewodowie współdziałają w sporządzaniu programów ochrony powietrza, o których mowa w ust. 3 lub 5. powaniu, którego przedmiotem jest sporządzenie programu ochrony powietrza.
+8. Jeżeli przyczyny wywołujące przekroczenia dopuszczalnych lub docelowych poziomów substancji w powietrzu w strefach, o których mowa w art. 89 ust. 1 pkt 1 lub 4, występują na terenie innego województwa niż zlokalizowane są strefy, właściwi wojewodowie współdziałają w sporządzaniu programów ochrony powietrza, o których mowa w ust. 3 lub 5.
+
+9. Wojewoda zapewnia możliwość udziału społeczeństwa w postępowaniu, którego przedmiotem jest sporządzenie programu ochrony powietrza.
 
 10. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, szczegółowe wymagania, jakim powinny odpowiadać programy ochrony powietrza, o których mowa w ust. 3 i 5, biorąc pod uwagę cele tych programów.
 
@@ -163,6 +312,7 @@ source: "isap-pdf"
 4. Minister właściwy do spraw środowiska może przejąć prowadzenie konsultacji, o których mowa w ust. 1 i 2, jeżeli uzna to za celowe ze względu na wagę lub zawiłość sprawy.”;
 
 - **40)** w art. 93 ust. 1 otrzymuje brzmienie: „1. Wojewoda niezwłocznie powiadamia społeczeństwo oraz podmioty, o których mowa w art. 92 ust. 2 pkt 1, w sposób zwyczajowo przyjęty na danym terenie, o ryzyku wystąpienia przekroczeń dopuszczalnych albo alarmowych poziomów substancji w powietrzu oraz o wystąpieniu przekroczeń dopuszczalnych, docelowych albo alarmowych poziomów substancji.”;
+- **41)** w art. 94:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) wyniki pomiarów, o których mowa w art. 90 ust. 1;”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Główny Inspektor Ochrony Środowiska na podstawie wyników i informacji, o których mowa w ust. 1, dokonuje zbiorczej oceny jakości powietrza w skali kraju.”,
     - **c)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Wojewoda, co 3 lata, przekazuje ministrowi właściwemu do spraw środowiska sprawozdanie z realizacji programów ochrony powietrza, o których mowa w art. 91, począwszy od dnia wejścia w życie rozporządzenia w sprawie określenia programu ochrony powietrza do dnia zakończenia realizacji tego programu.
@@ -178,7 +328,7 @@ source: "isap-pdf"
 2. W rozporządzeniu, o którym mowa w ust. 1, minister właściwy do spraw środowiska może określić sposób ustalania wartości wskaźników hałasu, o których mowa w art. 112a pkt 2.”;
 
 - **44)** w art. 115a w ust. 4:
-    - **a)** pkt 2 otrzymuje brzmienie: w zakresie, w jakim wykraczają one poza wymagania, o których mowa w art. 147 i 148;”,
+    - **a)** pkt 2 otrzymuje brzmienie: „2) zakres, sposób i częstotliwość prowadzenia pomiarów poziomu hałasu w zakresie, w jakim wykraczają one poza wymagania, o których mowa w art. 147 i 148;”,
     - **b)** pkt 4 otrzymuje brzmienie: „4) formę, układ, techniki i termin przedkładania wyników pomiarów, o których mowa w pkt 2, organowi właściwemu do wydania decyzji i wojewódzkiemu inspektorowi ochrony środowiska; do wyników przeprowadzonych pomiarów stosuje się odpowiednio przepis art. 147 ust. 6.”;
 
 - **45)** w art. 118:
@@ -192,7 +342,7 @@ source: "isap-pdf"
     - **a)** ust. 1 otrzymuje brzmienie: „1. Prowadzący instalację oraz użytkownik urządzenia są obowiązani zapewnić wykonanie pomiarów wielkości emisji lub innych warunków korzystania ze środowiska przez:
 
 - **1)** akredytowane laboratorium w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm. ) lub
-- **2)** laboratorium posiadające uprawnienia do badania właściwości fizykochemicznych, toksyczności i ekotoksyczności substancji i o substancjach i preparatach chemicznych (Dz. U. Nr 11, poz. 84, z późn. zm. ) – w zakresie badań, do których wykonywania są obowiązani.”,
+- **2)** laboratorium posiadające uprawnienia do badania właściwości fizykochemicznych, toksyczności i ekotoksyczności substancji i preparatów nadane w trybie ustawy z dnia 11 stycznia 2001 r. o substancjach i preparatach chemicznych (Dz. U. Nr 11, poz. 84, z późn. zm. ) – w zakresie badań, do których wykonywania są obowiązani.”,
     - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Prowadzący instalację oraz użytkownik urządzenia, posiadający certyfikat systemu zarządzania jakością, mogą wykonywać pomiary wielkości emisji lub innych warunków korzystania ze środowiska, do których wykonywania są obowiązani, we własnym laboratorium, pod warunkiem że laboratorium to jest również objęte systemem zarządzania jakością.
 
 1b. Przepisów ust. 1 i 1a nie stosuje się do wykonywania pomiarów:
@@ -203,7 +353,7 @@ source: "isap-pdf"
 - **49)** w art. 150 ust. 1 otrzymuje brzmienie: „1. Organ ochrony środowiska może, w drodze decyzji, nałożyć na prowadzącego instalację lub użytkownika urządzenia obowiązek prowadzenia w określonym czasie pomiarów wielkości emisji wykraczających poza obowiązki, o których mowa w art. 147 ust. 1, 2 i 4, lub obowiązki nałożone w trybie art. 56 ust. 4 pkt 1, jeżeli z przeprowadzonej kontroli wynika, że nastąpiło przekroczenie standardów emisyjnych; do wyników przeprowadzonych pomiarów stosuje się odpowiednio przepis art. 147 ust. 6.”;
 - **50)** w art. 175:
     - **a)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Dla dróg krajowych obowiązek, o którym mowa w ust. 3, należy wypełnić w ciągu roku od rozpoczęcia eksploatacji przebudowanego obiektu.”,
-    - **b)** ust. 5 otrzymuje brzmienie: wiednio przepis art. 147 ust. 6.”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Do wyników pomiarów, o których mowa w ust. 1-3, stosuje się odpowiednio przepis art. 147 ust. 6.”,
     - **c)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Do pomiarów, o których mowa w ust. 1-3, stosuje się odpowiednio przepisy art. 147a.”;
 
 - **51)** w art. 178 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do pomiarów, o których mowa w ust. 1-3, stosuje się odpowiednio przepisy art. 147a.”;
@@ -217,7 +367,7 @@ source: "isap-pdf"
 - **1)** w sposób niezorganizowany z instalacji, do których nie stosuje się przepisów w sprawie standardów emisyjnych w zakresie wprowadzania gazów i pyłów do powietrza;
 - **2)** z instalacji do odprowadzania gazu składowiskowego do powietrza;
 - **3)** z wentylacji grawitacyjnej.”;
-- **56)** w art. 208 w ust. 2 w pkt 1: by, wraz z przewidywanymi wariantami,”,
+- **56)** w art. 208 w ust. 2 w pkt 1: 113 ust. 2 pkt 1, a także o rozkładzie czasu pracy źródeł hałasu dla doby, wraz z przewidywanymi wariantami,”,
     - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „informacje, dotyczące instalacji wymagającej pozwolenia zintegrowanego, o:”,
     - **b)** lit. c otrzymuje brzmienie: „c) proponowanej wielkości emisji hałasu wyznaczonej przez poziomy hałasu powodowanego poza zakładem na terenach sąsiednich oraz o akustycznym oddziaływaniu na rodzaje terenów, o których mowa w art.
     - **c)** lit. e otrzymuje brzmienie: „e) proponowanej ilości wykorzystywanej wody, o ile nie zachodzą warunki, o których mowa w art. 202 ust. 6,”;
@@ -240,7 +390,7 @@ source: "isap-pdf"
 
 **Art. 236a.**
 
-1. Tworzy się Krajowy Rejestr Uwalniania i Transferu Zanieczyszczeń, zwany dalej „Krajowym Rejestrem”, będący elementem Euo którym mowa w rozporządzeniu (WE) nr 166/2006 Parlamentu Europejskiego i Rady z dnia 18 stycznia 2006 r. w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającym dyrektywę Rady 91/689/EWG i 96/61/WE (Dz.Urz. UE L 33 z 04.02.2006, str. 1), zwanym dalej „rozporządzeniem 166/2006”.
+1. Tworzy się Krajowy Rejestr Uwalniania i Transferu Zanieczyszczeń, zwany dalej „Krajowym Rejestrem”, będący elementem Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń, o którym mowa w rozporządzeniu (WE) nr 166/2006 Parlamentu Europejskiego i Rady z dnia 18 stycznia 2006 r. w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającym dyrektywę Rady 91/689/EWG i 96/61/WE (Dz.Urz. UE L 33 z 04.02.2006, str. 1), zwanym dalej „rozporządzeniem 166/2006”.
 
 2. Krajowy Rejestr jest prowadzony przez Głównego Inspektora Ochrony Środowiska.
 
@@ -264,7 +414,9 @@ source: "isap-pdf"
 
 **Art. 236d.**
 
-1. W przypadku niewypełnienia obowiązku, o którym mowa w art. 236b ust. 1, wojewódzki inspektor ochrony środowiska nakłada na prowadzącego instalację, w drodze decyzji, karę pieniężną w wysokości 10 000 zł. kości przekazywanych danych pod względem ich kompletności, spójności lub wiarygodności wojewódzki inspektor ochrony środowiska nakłada na prowadzącego instalację, w drodze decyzji, karę pieniężną w wysokości 5 000 zł.
+1. W przypadku niewypełnienia obowiązku, o którym mowa w art. 236b ust. 1, wojewódzki inspektor ochrony środowiska nakłada na prowadzącego instalację, w drodze decyzji, karę pieniężną w wysokości 10 000 zł.
+
+2. W przypadku niezapewnienia przez prowadzącego instalację jakości przekazywanych danych pod względem ich kompletności, spójności lub wiarygodności wojewódzki inspektor ochrony środowiska nakłada na prowadzącego instalację, w drodze decyzji, karę pieniężną w wysokości 5 000 zł.
 
 3. Karę pieniężną wnosi się w terminie 14 dni od dnia, w którym decyzja, o której mowa w ust. 1, stała się ostateczna.
 
@@ -276,7 +428,7 @@ source: "isap-pdf"
 - **66)** w art. 290 w ust. 2 w pkt 2 w lit. e kropkę zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „f) rodzaju opłaty.”;
 - **67)** w art. 299 w ust. 1 pkt 1 otrzymuje brzmienie: „1) kontroli, a w szczególności dokonanych w ich trakcie pomiarów lub za pomocą innych środków dowodowych;”;
 - **68)** w art. 300 w ust. 4 pkt 3 otrzymuje brzmienie: „3) termin, od którego kara biegnąca będzie naliczana, jako odpowiednio dzień albo pełną godzinę zakończenia wykonania pomiarów, pobrania próbek albo dokonania innych ustaleń stanowiących podstawę stwierdzenia przekroczenia lub naruszenia.”;
-- **69)** w art. 317 ust. 1a otrzymuje brzmienie: „1a. Termin płatności opłaty za korzystanie ze środowiska oraz płatności administracyjnej kary pieniężnej odracza się także na wniosek podmiotu korzystającego ze środowiska obowiązanego do jej uiszczenia, jeżeli przedsięwzięcie, którego wykonanie zapewni usunięcie przyczyn ponoszenia podwyższonych opłat lub administracyjnych kar pieniężnych, jest ujęte w kraart. 43 ust. 3 ustawy z dnia 18 lipca 2001 r. – Prawo wodne, i nie naruszono terminu jego realizacji, określonego w tym programie.”;
+- **69)** w art. 317 ust. 1a otrzymuje brzmienie: „1a. Termin płatności opłaty za korzystanie ze środowiska oraz płatności administracyjnej kary pieniężnej odracza się także na wniosek podmiotu korzystającego ze środowiska obowiązanego do jej uiszczenia, jeżeli przedsięwzięcie, którego wykonanie zapewni usunięcie przyczyn ponoszenia podwyższonych opłat lub administracyjnych kar pieniężnych, jest ujęte w krajowym programie oczyszczania ścieków komunalnych, o którym mowa w art. 43 ust. 3 ustawy z dnia 18 lipca 2001 r. – Prawo wodne, i nie naruszono terminu jego realizacji, określonego w tym programie.”;
 - **70)** art. 363 otrzymuje brzmienie: „Art. 363. Wójt, burmistrz lub prezydent miasta może, w drodze decyzji, nakazać osobie fizycznej, której działalność negatywnie oddziałuje na środowisko, wykonanie w określonym czasie czynności zmierzających do ograniczenia negatywnego oddziaływania na środowisko.”;
 - **71)** w art. 365 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „W odniesieniu do nowo zbudowanego lub przebudowanego obiektu budowlanego, zespołu obiektów lub instalacji związanych z przedsięwzięciem zaliczonym do mogących znacząco oddziaływać na środowisko, o których mowa w art. 51 ust. 1 pkt 1 i 2, wojewódzki inspektor ochrony środowiska wstrzyma, w drodze decyzji:”;
 - **72)** w art. 378 po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Przy ustalaniu właściwości organów ochrony środowiska, o których mowa w ust. 1 i 2, stosuje się odpowiednio przepis art. 46 ust. 2a.”;
@@ -286,14 +438,21 @@ source: "isap-pdf"
 - **75)** w art. 410a ust. 3 otrzymuje brzmienie: „3. Narodowy Fundusz przekazuje dopłaty do demontażu pojazdów wycofanych z eksploatacji w terminie do dnia 30 czerwca.”;
 - **76)** po art. 410b dodaje się art. 410c w brzmieniu: „Art. 410c. Środki Narodowego Funduszu i wojewódzkich funduszy mogą być przeznaczane na dofinansowanie zadań z zakresu ochrony środowiska i gospodarki wodnej realizowanych przez jednostki budżetowe.”;
 - **77)** w art. 411:
-    - **a)** po ust. 1b dodaje się ust. 1c w brzmieniu: przez przekazanie środków jednostkom budżetowym.”,
+    - **a)** po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Realizowanie zadań, o których mowa w art. 410c, jest finansowane przez przekazanie środków jednostkom budżetowym.”,
     - **b)** ust. 8 otrzymuje brzmienie: „8. Narodowy Fundusz oraz wojewódzkie fundusze udzielają dotacji, pożyczek oraz przekazują środki finansowe na podstawie umów cywilnoprawnych.”;
 
 - **78)** w art. 414 po ust. 4a dodaje się ust. 4b w brzmieniu: „4b. Wysokość wynagrodzenia członków rad nadzorczych wojewódzkich funduszy za udział w pracach rady ustala właściwy zarząd województwa.”.
 
 **Art. 2.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2007 r. Nr 44, poz. 287 i Nr 75, poz. 493) wprowadza się następujące zmiany:
 
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. Główny Inspektor Ochrony Środowiska jest centralnym organem administracji rządowej, powołanym do kontroli przestrzegania przepisów o ochronie środowiska oraz badania i oceny stanu środowiska, nadzorowanym przez ministra właściwego do spraw środowiska.”;
+- **2)** w art. 2 w ust. 1 po pkt 15b dodaje się pkt 15c w brzmieniu: „15c) wykonywanie zadań związanych ze zbieraniem danych do Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń oraz prowadzeniem Krajowego Rejestru Uwalniania i Transferu Zanieczyszczeń,”.
+
 **Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118 i Nr 170, poz. 1217) wprowadza się następujące zmiany:
+
+- **1)** w art. 30 po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Jeżeli zostało wydane, w trybie art. 46b ust. 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, postanowienie o konieczności uzyskania przez zgłaszającego decyzji o środowiskowych uwarunkowaniach, bieg terminu, o którym mowa w ust. 5, rozpoczyna się od dnia uzupełnienia sprawy o wydaną decyzję o środowiskowych uwarunkowaniach.”;
+- **2)** w art. 56 w ust. 1 uchyla się pkt 1;
+- **3)** w art. 71 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Jeżeli zostało wydane, w trybie art. 46b ust. 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, postanowienie o konieczności uzyskania przez zgłaszającego decyzji o środowiskowych uwarunkowaniach, bieg terminu, o którym mowa w ust. 4, rozpoczyna się od dnia uzupełnienia sprawy o wydaną decyzję o środowiskowych uwarunkowaniach.”.
 
 **Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz.U. z 2007 r. Nr 39, poz. 251) po art. 32 dodaje się art. 32a w brzmieniu: „Art. 32a. Decyzja zatwierdzająca program gospodarki odpadami niebezpiecznymi oraz zezwolenia na prowadzenie działalności w zakresie zbierania, odzysku lub unieszkodliwiania odpadów wygasają w części dotyczącej pozwolenia zintegrowanego z chwilą upływu terminu, w którym prowadzący instalację powinien uzyskać pozwolenie zintegrowane, chyba że prowadzący instalację uzyskał pozwolenie zintegrowane przed tym terminem.”.
 
@@ -301,9 +460,36 @@ source: "isap-pdf"
 
 **Art. 6.** W ustawie z dnia 18 maja 2005 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. Nr 113, poz. 954 oraz z 2006 r. Nr 50, poz.
 
+- **360)** wprowadza się następujące zmiany:
+- **1)** w art. 19 dodaje się ust. 3 w brzmieniu: „3. Przez decyzję o ustaleniu lokalizacji drogi krajowej rozumie się również decyzję o ustaleniu lokalizacji autostrady na podstawie ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm. ), decyzję o warunkach zabudowy i zagospodarowania terenu oraz decyzję o ustaleniu lokalizacji inwestycji celu publicznego na podstawie ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.”;
+- **2)** w art. 24 ust. 2 otrzymuje brzmienie: „2. W sprawach wszczętych, a niezakończonych decyzją ostateczną, stosuje się przepisy art. 184 ust. 2 pkt 17a i 17b, art. 188 ust. 2 pkt 4 i 6, art. 191a, art. 208 ust. 2a, art. 209 ust. 2 oraz art. 211 ust. 2 pkt 3a, ust. 2a i ust. 3b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.”.
+
 **Art. 7.** W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm. ) w art. 22 wprowadza się następujące zmiany:
 
+- **1)** w ust. 2 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 i 17 w brzmieniu: „16) z opłat, o których mowa w art. 9 ust. 1 i 3 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. Nr 180, poz.
+- **1495)** ;
+- **17)** z wpływów z weryfikacji rocznych raportów, o których mowa w art. 42 ustawy z dnia 29 grudnia 2004 r. o handlu uprawnieniami do emisji do powietrza gazów cieplarnianych i innych substancji (Dz. U. Nr 281, poz.
+- **2784)** .”;
+- **2)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Dochody własne państwowych jednostek budżetowych wraz z odsetkami są przeznaczone na sfinansowanie wydatków bieżących i majątkowych związanych z:
+- **1)** prowadzeniem rejestru, o którym mowa w art. 6 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym, oraz bazy danych o sprzęcie i zużytym sprzęcie, o której mowa w art. 15 ust. 3 tej ustawy - w przypadku uzyskiwania dochodów z tytułów wymienionych w ust. 2 pkt 16;
+- **2)** weryfikacją rocznych raportów, o których mowa w art. 42 ustawy z dnia 29 grudnia 2004 r. o handlu uprawnieniami do emisji do powietrza gazów cieplarnianych i innych substancji - w przypadku uzyskiwania dochodów z tytułów wymienionych w ust. 2 pkt 17.”;
+- **3)** ust. 9 otrzymuje brzmienie: „9. Odrębne ustawy nie mogą określać innych źródeł dochodów własnych niż wymienione w ust. 1 i 2 i innego ich przeznaczenia niż wymienione w ust. 6-7.”;
+
 **Art. 8.** W ustawie z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej (Dz. U. Nr 175, poz. 1462, z późn. zm. ) w art. 19 wprowadza się następujące zmiany:
+
+- **1)** pkt 1 i 2 otrzymują brzmienie: „1) użyty w art. 30 w ust. 2 w pkt 1, w art. 49 w ust. 5 w pkt 1, w art. 89 w ust. 1a, w art. 91 w ust. 4, 8 i 9, w art. 92a w ust. 1-3, w art. 93 w ust. 1, w art. 94 w ust. 2-2b, w art. 95 w ust. 1, w art. 162 w ust. 3, 6 i 7, w art. 163 w ust. 3 w pkt 4 i 5, w ust. 6 i 8, w art. 212 w ust. 2, w art. 346 w ust. 1, w art. 395 w ust. 4, w art. 396 w ust. 1 i 3 w pkt 1, w ust. 4 i 5, w art. 397 w ust. 2, w art. 426 w ust. 2 i 5, w art. 428 w ust. 1, w art. 430 w ust. 2, w art. 434, w art. 435 w ust. 2, 3, 5 i 6, w art. 437 w ust. 1, 4 i 8 oraz w art. 441 w ust. 1, 2 i 4, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”;
+- **2)** w art. 91:
+    - **a)** ust. 1-3 otrzymują brzmienie: „1. Dla stref, o których mowa w art. 89 ust. 1 pkt 1, marszałek województwa, w terminie 12 miesięcy od dnia otrzymania wyników oceny poziomów substancji w powietrzu i klasyfikacji stref, o których mowa w art. 89 ust. 1, przedstawia do zaopiniowania właściwym starostom projekt uchwały w sprawie programu ochrony powietrza, mającego na celu osiągnięcie poziomów dopuszczalnych substancji w powietrzu.
+
+2. Starosta jest obowiązany do wydania opinii w terminie miesiąca od dnia otrzymania projektu uchwały w sprawie programu ochrony powietrza, o którym mowa w ust. 1.
+
+3. Sejmik województwa, w terminie 15 miesięcy od dnia otrzymania wyników oceny poziomów substancji w powietrzu i klasyfikacji stref, o których mowa w art. 89 ust. 1, określa, w drodze uchwały, program ochrony powietrza.”,
+
+- **b)** ust. 5 i 6 otrzymują brzmienie: „5. Dla stref, o których mowa w art. 89 ust. 1 pkt 4, sejmik województwa, w terminie 15 miesięcy od dnia otrzymania wyników oceny poziomów substancji w powietrzu i klasyfikacji stref, o których mowa w art. 89 ust. 1, po zasięgnięciu opinii właściwych starostów, określa, w drodze uchwały, program ochrony powietrza, mający na celu osiągnięcie poziomów docelowych substancji w powietrzu.
+
+6. Starosta jest obowiązany do wydania opinii w terminie miesiąca od dnia otrzymania projektu uchwały w sprawie programu ochrony powietrza, o którym mowa w ust. 5.”;”;
+
+- **2)** w pkt 8 lit. c otrzymuje brzmienie: „c) dodaje się ust. 4 w brzmieniu: „4. Zadania samorządu województwa, o których mowa w ust. 2a, art. 30 ust. 2 pkt 1, art. 49 ust. 5 pkt 1, art. 89 ust. 1a, art. 91 ust. 1, 3-5, 8 i 9, art. 92a ust. 1-3, art. 93 ust. 1, art. 94 ust. 2-2b, art. 95 ust. 1, art. 96, art. 119 ust. 2, art. 135 ust. 2, art. 162 ust. 3, 6 i 7, art. 395 ust. 4, art. 396 ust. 1, 2, 3 pkt 1, ust. 4 i 5, art. 397 ust. 2, art. 426 ust. 2 i 5, art. 428 ust. 1, art. 430 ust. 2, art. 434, art. 435 ust. 3, 5 i 6, art. 437 ust. 1, 2, 4 i 8 oraz art. 441 ust. 1, 2 i 4, są zadaniami z zakresu administracji rządowej.”;”.
 
 **Art. 9.** Jeżeli przedsięwzięcie jest realizowane lub zostało zrealizowane w oparciu o zgłoszenie budowy lub wykonywania robót budowlanych lub zgłoszenia zmiany sposobu użytkowania obiektu budowlanego wydane na podstawie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane przed dniem wejścia w życie ustawy z dnia 18 maja 2005 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw, uprawniony podmiot może złożyć, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, wniosek o wydanie decyzji o środowiskowych uwarunkowaniach zgody na realizację przedsięwzięcia. Przepisy ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska stosuje się odpowiednio.
 
@@ -321,5 +507,9 @@ source: "isap-pdf"
 
 2. Rada Ministrów może zmienić, w drodze rozporządzenia, zachowane w mocy przepisy wykonawcze wydane na podstawie art. 51 ust. 8 ustawy zmienianej w art. 1 w zakresie wskazanym w art. 51 ust. 8 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, biorąc pod uwagę rodzaj działalności i wielkość produkcji oraz uwzględniając potrzeby społeczne i gospodarcze.
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: 14 dni od dnia ogłoszenia;
+**Art. 13.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 18 lit. b i pkt 73-78 oraz art. 7, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **2)** art. 1 pkt 47, pkt 50 lit. c i pkt 51, które wchodzą w życie z dniem 1 stycznia 2008 r.
+
 

@@ -8,10 +8,10 @@ pos: 2843
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, dnia 30 WZÓR ŚWIADECTWO JAKOŚCI
+# RZECZYPOSPOLITEJ Poz.
 
 | Pole | Wartość |
 |---|---|
@@ -25,16 +25,17 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2843/text.pdf) |
 
-1. Świadectwo paliw stałych nr ……………..
+WZÓR ŚWIADECTWO JAKOŚCI
+1. Świadectwo jakości paliw stałych nr ……………..
 2. Oznaczenie przedsiębiorcy wystawiającego świadectwo sprzedaży, jeżeli jest inny niż adres siedziby przedsiębiorcy.
 3. Numer identyfikacji podatkowej (NIP) przedsiębiorcy identyfikacyjny w krajowym rejestrze urzędowym został nadany, albo numer identyfikacyjny w odpowiednim
 4. Określenie rodzaju paliwa stałego, dla którego jest wystawiane
 5. Wskazanie systemu certyfikacji lub innego dokumentu rodzaj paliwa stałego, dla którego jest wystawiane określone w przepisach wydanych na podstawie art.
-monitorowania i kontrolowania paliw.
-6. Wskazanie wartości parametrów paliwa stałego, dla informacja o wymaganiach jakościowych dla paliwa - zgodnie z przepisami wydanymi na podstawie o systemie monitorowania i kontrolowania
+monitorowania i kontrolowania jakości paliw.
+6. Wskazanie wartości parametrów paliwa stałego, dla informacja o wymaganiach jakościowych dla paliwa jakości - zgodnie z przepisami wydanymi na podstawie o systemie monitorowania i kontrolowania jakości
 7.
-Parametr Symbol Jednostka Zawartość popiołu A % Zawartość siarki S całkowitej % Zawartość części lotnych V % Wartość opałowa Q MJ/kg Zdolność spiekania RI Wymiar ziarna - mm Zawartość podziarna - % Zawartość nadziarna - % Zawartość wilgoci całkowitej W %
+Parametr Symbol Jednostka Zawartość popiołu A % Zawartość siarki S % całkowitej Zawartość części lotnych V % Wartość opałowa Q MJ/kg Zdolność spiekania RI Wymiar ziarna - mm Zawartość podziarna - % Zawartość nadziarna - % Zawartość wilgoci W % całkowitej
 9. Oświadczam, że paliwo stałe, dla którego jest wystawiane określone w przepisach wydanych na podstawie art.
-monitorowania i kontrolowania paliw.
+monitorowania i kontrolowania jakości paliw.
 10. Data i miejsce 11. Podpis przedsiębiorcy wystawienia świadectwa. osoby upoważnionej
 

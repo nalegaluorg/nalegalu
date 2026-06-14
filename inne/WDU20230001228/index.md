@@ -8,12 +8,10 @@ pos: 1228
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji rynku mleka i przetworów mlecznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -42,15 +40,19 @@ Art. 56–63. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zadania i właściwość jednostek organizacyjnych oraz organów w zakresie organizacji rynku mleka i przetworów mlecznych określonej przepisami Unii Europejskiej wymienionymi w załączniku.
+- **2)** (uchylony)
+- **3)** (uchylony)
+
 **Art. 1a.**
 
-1. Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), o ile przepisy niniejszej ustawy nie stanowią inaczej.
+1. Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), o ile przepisy niniejszej ustawy nie stanowią inaczej.
 
 2. Jeżeli przepisy ustawy przewidują złożenie wniosku do dyrektora oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, wniosek ten składa się na piśmie.
 
-3. Jeżeli przepisy ustawy przewidują złożenie wniosku do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa w sprawach, do których nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, wniosek ten spełnia wymagania dla pisma kierowanego do organów administracji publicznej oraz dla podania, określone w przepisach ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+3. Jeżeli przepisy ustawy przewidują złożenie wniosku do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa w sprawach, do których nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, wniosek ten spełnia wymagania dla pisma kierowanego do organów administracji publicznej oraz dla podania, określone w przepisach ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-4. Jeżeli przepisy ustawy przewidują złożenie na piśmie informacji do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa albo do dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, informacja ta spełnia wymagania dla pisma kierowanego do organów administracji publicznej określone w przepisach ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. Jeżeli przepisy ustawy przewidują złożenie na piśmie informacji do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa albo do dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, informacja ta spełnia wymagania dla pisma kierowanego do organów administracji publicznej określone w przepisach ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 2.** Do realizacji przez Krajowy Ośrodek Wsparcia Rolnictwa zadań wymienionych w przepisach określonych w załączniku, nie stosuje się przepisów o ochronie konkurencji i konsumentów oraz przepisów o zamówieniach publicznych.
 
@@ -105,7 +107,7 @@ Art. 56–63. (pominięte)
 - **1)** nazwę albo imię i nazwisko wnioskodawcy oraz jego adres;
 - **2)** adres zakładu produkcyjnego, chłodni lub magazynu;
 - **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy oraz numer Krajowego Rejestru Urzędowego Podmiotów Gospodarki Narodowej (REGON), o ile został nadany;
-- **4)** numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL) lub innego dokumentu potwierdzającego tożsamość w przypadku osób fizycznych;
+- **4)** numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL) lub innego dokumentu potwierdzającego tożsamość – w przypadku osób fizycznych;
 - **5)** numer w ewidencji producentów, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
 - **6)** imiona i nazwiska osób uprawnionych do reprezentowania wnioskodawcy;
 - **7)** oznaczenie linii produkcyjnych, w przypadku gdy wniosek dotyczy wydania świadectwa autoryzacji zakładów produkcyjnych, oraz oznaczenie pomieszczeń przechowalniczych, w przypadku wniosku o wydanie świadectwa autoryzacji magazynów lub chłodni;
@@ -181,14 +183,14 @@ Art. 56–63. (pominięte)
 
 - **1)** maksymalny odsetek głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów oraz maksymalny odsetek udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji,
 - **2)** szczegółowe wymagania, jakim mają odpowiadać wnioski składane w tych sprawach,
-- **3)** rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej mając na względzie prawidłowe funkcjonowanie tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
+- **3)** rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej – mając na względzie prawidłowe funkcjonowanie tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
 
 **Art. 48b.**
 
 1. Decyzję w sprawie uznania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej wydaje się w terminie określonym w:
 
-- **1)** art. 161 ust. 3 lit. a rozporządzenia, o którym mowa w pkt 11 załącznika w przypadku organizacji producentów i zrzeszeń organizacji producentów;
-- **2)** art. 163 ust. 3 lit. a rozporządzenia, o którym mowa w pkt 11 załącznika w przypadku organizacji międzybranżowych.
+- **1)** art. 161 ust. 3 lit. a rozporządzenia, o którym mowa w pkt 11 załącznika – w przypadku organizacji producentów i zrzeszeń organizacji producentów;
+- **2)** art. 163 ust. 3 lit. a rozporządzenia, o którym mowa w pkt 11 załącznika – w przypadku organizacji międzybranżowych.
 
 2. Dyrektor oddziału regionalnego Agencji, o którym mowa w ust. 1, odmawia, w drodze decyzji, uznania:
 
@@ -261,9 +263,12 @@ Art. 56–63. (pominięte)
 
 **Art. 48f.** Dyrektor oddziału regionalnego Agencji:
 
+- **1)** współpracuje z właściwymi organami państw członkowskich Unii Europejskiej w zakresie uznawania i kontroli międzynarodowych organizacji producentów i międzynarodowych zrzeszeń organizacji producentów, zgodnie z przepisami rozporządzenia, o którym mowa w pkt 10 załącznika;
+- **2)** jest organem właściwym do ustanowienia i udzielenia pomocy administracyjnej w przypadku współpracy transnarodowej.
+
 **Art. 48g.**
 
-1. Dyrektor oddziału regionalnego Agencji jest organem właściwym w sprawach przyjmowania powiadomień określonych w art. 149 ust. 2 lit. f rozporządzenia, o którym mowa w pkt 11 załącznika, oraz powiadomień określonych w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika w zakresie i na zasadach określonych w tych rozporządzeniach.
+1. Dyrektor oddziału regionalnego Agencji jest organem właściwym w sprawach przyjmowania powiadomień określonych w art. 149 ust. 2 lit. f rozporządzenia, o którym mowa w pkt 11 załącznika, oraz powiadomień określonych w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika – w zakresie i na zasadach określonych w tych rozporządzeniach.
 
 2. Dyrektor oddziału regionalnego Agencji, o którym mowa w ust. 1, przekazuje Prezesowi Agencji informacje, o których mowa w ust. 1, oraz informacje określone w:
 
@@ -296,8 +301,8 @@ Art. 56–63. (pominięte)
 
 3. Do kontroli, o których mowa w:
 
-- **1)** ust. 1 stosuje się odpowiednio przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 287 i 412);
-- **2)** ust. 2a stosuje się odpowiednio przepisy ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2023 r. poz. 430 i 588).
+- **1)** ust. 1 – stosuje się odpowiednio przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 287 i 412);
+- **2)** ust. 2a – stosuje się odpowiednio przepisy ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2023 r. poz. 430 i 588).
 
 #### Rozdział 5 (uchylony)
 
@@ -335,6 +340,9 @@ Art. 56–63. (pominięte)
 
 **Art. 54n.** (uchylony) Art. 54na. (uchylony) Art. 54nb. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które nie przekazują powiadomienia określonego w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika, w terminie określonym w tym rozporządzeniu, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
 
+- **1)** wyrażonej w kilogramach 0,1% ilości mleka lub przetworów mlecznych wytwarzanych rocznie przez uznaną organizację producentów lub uznane zrzeszenie organizacji producentów oraz
+- **2)** ceny skupu mleka ustalonej przez ministra właściwego do spraw rynków rolnych na podstawie danych rynkowych zbieranych zgodnie z ustawą z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. z 2015 r. poz. 1160) dla miesiąca poprzedzającego miesiąc, w którym upływa termin przekazania powiadomienia, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy. Art. 54nc. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa, które utrudniają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 11 załącznika, podlegają karze pieniężnej w wysokości od 1000 zł do 2000 zł. Art. 54nd. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa, które uniemożliwiają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 11 załącznika, podlegają karze pieniężnej w wysokości od 2000 zł do 5000 zł. Art. 54ne. Kto nie przekazuje informacji określonych w art. 2a, podlega karze pieniężnej w wysokości od 2000 zł do 5000 zł.
+
 **Art. 54o.**
 
 1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę uznanej organizacji producentów albo siedzibę uznanego zrzeszenia organizacji producentów, albo siedzibę uznanej organizacji międzybranżowej wydaje decyzję w sprawie wymierzenia kar pieniężnych, o których mowa w art. 54nb–54nd.
@@ -355,13 +363,13 @@ Art. 56–63. (pominięte)
 
 2. Można odstąpić od wymierzenia kary, jeżeli naruszenie lub niewykonanie obowiązku nastąpiło z przyczyn nieleżących po stronie podmiotu skupującego albo uznanej organizacji producentów, albo uznanego zrzeszenia organizacji producentów, albo uznanej organizacji międzybranżowej.
 
-3. W sprawach nieuregulowanych w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
+3. W sprawach nieuregulowanych w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
 
 4. Uprawnienia organu podatkowego określone w ustawie, o której mowa w ust. 3, przysługują:
 
-- **1)** dyrektorowi oddziału regionalnego Agencji i dyrektorowi oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa jako organom pierwszej instancji;
-- **2)** Prezesowi Agencji jako organowi odwoławczemu od decyzji dyrektora oddziału regionalnego Agencji;
-- **3)** Dyrektorowi Generalnemu Krajowego Ośrodka Wsparcia Rolnictwa jako organowi odwoławczemu od decyzji dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa.
+- **1)** dyrektorowi oddziału regionalnego Agencji i dyrektorowi oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa – jako organom pierwszej instancji;
+- **2)** Prezesowi Agencji – jako organowi odwoławczemu od decyzji dyrektora oddziału regionalnego Agencji;
+- **3)** Dyrektorowi Generalnemu Krajowego Ośrodka Wsparcia Rolnictwa – jako organowi odwoławczemu od decyzji dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa.
 
 5. Od nieuiszczonych w terminie kar pieniężnych pobiera się odsetki za każdy dzień zwłoki w wysokości przewidzianej dla zaległości podatkowych.
 
@@ -372,4 +380,24 @@ Art. 56–63. (pominięte)
 **Art. 64.** Traci moc ustawa z dnia 6 września 2001 r. o regulacji rynku mleka i przetworów mlecznych (Dz. U. poz. 1446 i 1797, z 2002 r. poz. 937 oraz z 2003 r. poz. 1853).
 
 **Art. 65.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem:
+
+- **1)** art. 43 i art. 56, które wchodzą w życie z dniem ogłoszenia ;
+- **2)** art. 33, art. 34 ust. 1 pkt 1 lit. b oraz pkt 2 lit. b, art. 36 ust. 1 pkt 2 i ust. 2–6, art. 37, art. 38, art. 40 oraz art. 41, które wchodzą w życie z dniem 1 kwietnia 2005 r. PRZEPISY UNII EUROPEJSKIEJ W ZAKRESIE ORGANIZACJI RYNKU MLEKA I PRZETWORÓW MLECZNYCH
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** rozporządzenie Komisji (UE) nr 1272/2009 z dnia 11 grudnia 2009 r. ustanawiające wspólne szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do zakupu i sprzedaży produktów rolnych w ramach interwencji publicznej (Dz. Urz. UE L 349 z 29.12.2009, str. 1);
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** rozporządzenie Komisji (WE) nr 826/2008 z dnia 20 sierpnia 2008 r. ustanawiające wspólne zasady dotyczące przyznawania dopłat do prywatnego przechowywania niektórych produktów rolnych (Dz. Urz. UE L 223 z 21.08.2008, str. 3, z późn. zm.);
+- **9)** rozporządzenie wykonawcze Komisji (UE) nr 511/2012 z dnia 15 czerwca 2012 r. w sprawie powiadomień dotyczących organizacji producentów i organizacji międzybranżowych oraz negocjacji umownych i stosunków umownych określonych w rozporządzeniu Rady (WE) nr 1234/2007 w odniesieniu do sektora mleka i przetworów mlecznych (Dz. Urz. UE L 156 z 16.06.2012, str. 39);
+- **10)** rozporządzenie delegowane Komisji (UE) nr 880/2012 z dnia 28 czerwca 2012 r. uzupełniające rozporządzenie Rady (WE) nr 1234/2007 w odniesieniu do współpracy międzynarodowej i negocjacji umownych organizacji producentów w sektorze mleka i przetworów mlecznych (Dz. Urz. UE L 263 z 28.09.2012, str. 8);
+- **11)** rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiające wspólną organizację rynków produktów rolnych oraz uchylające rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.);
+- **12)** rozporządzenie Rady (UE) nr 1370/2013 z dnia 16 grudnia 2013 r. określające środki dotyczące ustalania niektórych dopłat i refundacji związanych ze wspólną organizacją rynków produktów rolnych (Dz. Urz. UE L 346 z 20.12.2013, str. 12);
+- **13)** (uchylony)
+- **14)** rozporządzenie wykonawcze Komisji (UE) 2017/1185 z dnia 20 kwietnia 2017 r. ustanawiające zasady stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) nr 1307/2013 i (UE) nr 1308/2013 w odniesieniu do przekazywanych Komisji powiadomień o informacjach i dokumentach oraz zmieniające i uchylające niektóre rozporządzenia Komisji (Dz. Urz. UE L 171 z 04.07.2017, str. 113);
+- **15)** rozporządzenie delegowane Komisji (UE) 2016/1238 z dnia 18 maja 2016 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do interwencji publicznej i dopłat do prywatnego przechowywania (Dz. Urz. UE L 206 z 30.07.2016, str. 15);
+- **16)** rozporządzenie wykonawcze Komisji (UE) 2016/1240 z dnia 18 maja 2016 r. ustalające zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do interwencji publicznej i dopłat do prywatnego przechowywania (Dz. Urz. UE L 206 z 30.07.2016, str. 71).
+
 

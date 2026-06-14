@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw.*
 
 Łącznie: **41** orzeczeń
-(pominięto 16 orzeczeń sądów rejonowych)
+(pominięto 17 orzeczeń sądów rejonowych)
 
 ## art. 1 (15)
 

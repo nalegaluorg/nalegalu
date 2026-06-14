@@ -8,7 +8,7 @@ pos: 1483
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu nowych nazw niektórym publicznym uczelniom akademickim

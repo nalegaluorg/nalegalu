@@ -8,7 +8,7 @@ pos: 1071
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks cywilny
@@ -339,6 +339,16 @@ source: "isap-pdf"
 § 2. Jeżeli uprawniony do pobierania pożytków poczynił nakłady w celu uzyskania pożytków, które przypadły innej osobie, należy mu się od niej wynagrodzenie za te nakłady. Wynagrodzenie nie może przenosić wartości pożytków.
 
 **Art. 55¹.** Przedsiębiorstwo jest zorganizowanym zespołem składników niematerialnych i materialnych przeznaczonym do prowadzenia działalności gospodarczej. Obejmuje ono w szczególności:
+
+- **1)** oznaczenie indywidualizujące przedsiębiorstwo lub jego wyodrębnione części (nazwa przedsiębiorstwa);
+- **2)** własność nieruchomości lub ruchomości, w tym urządzeń, materiałów, towarów i wyrobów, oraz inne prawa rzeczowe do nieruchomości lub ruchomości;
+- **3)** prawa wynikające z umów najmu i dzierżawy nieruchomości lub ruchomości oraz prawa do korzystania z nieruchomości lub ruchomości wynikające z innych stosunków prawnych;
+- **4)** wierzytelności, prawa z papierów wartościowych i środki pieniężne;
+- **5)** koncesje, licencje i zezwolenia;
+- **6)** patenty i inne prawa własności przemysłowej;
+- **7)** majątkowe prawa autorskie i majątkowe prawa pokrewne;
+- **8)** tajemnice przedsiębiorstwa;
+- **9)** księgi i dokumenty związane z prowadzeniem działalności gospodarczej.
 
 **Art. 55².** Czynność prawna mająca za przedmiot przedsiębiorstwo obejmuje wszystko, co wchodzi w skład przedsiębiorstwa, chyba że co innego wynika z treści czynności prawnej albo z przepisów szczególnych.
 
@@ -793,6 +803,13 @@ source: "isap-pdf"
 
 **Art. 121.** Bieg przedawnienia nie rozpoczyna się, a rozpoczęty ulega zawieszeniu:
 
+- **1)** co do roszczeń, które przysługują dzieciom przeciwko rodzicom – przez czas trwania władzy rodzicielskiej;
+- **2)** co do roszczeń, które przysługują osobom niemającym pełnej zdolności do czynności prawnych przeciwko osobom sprawującym opiekę lub kuratelę – przez czas sprawowania przez te osoby opieki lub kurateli;
+- **3)** co do roszczeń, które przysługują jednemu z małżonków przeciwko drugiemu – przez czas trwania małżeństwa;
+- **4)** co do wszelkich roszczeń, gdy z powodu siły wyższej uprawniony nie może ich dochodzić przed sądem lub innym organem powołanym do rozpoznawania spraw danego rodzaju – przez czas trwania przeszkody;
+- **5)** co do roszczeń objętych umową o mediację – przez czas trwania mediacji;
+- **6)** co do roszczeń objętych wnioskiem o zawezwanie do próby ugodowej – przez czas trwania postępowania pojednawczego.
+
 **Art. 122.**
 
 § 1. Przedawnienie względem osoby, która nie ma pełnej zdolności do czynności prawnych, nie może skończyć się wcześniej niż z upływem lat dwóch od ustanowienia dla niej przedstawiciela ustawowego albo od ustania przyczyny jego ustanowienia.
@@ -807,7 +824,9 @@ source: "isap-pdf"
 
 - **1)** przez każdą czynność przed sądem lub innym organem powołanym do rozpoznawania spraw lub egzekwowania roszczeń danego rodzaju albo przed sądem polubownym, przedsięwziętą bezpośrednio w celu dochodzenia lub ustalenia albo zaspokojenia lub zabezpieczenia roszczenia;
 - **2)** przez uznanie roszczenia przez osobę, przeciwko której roszczenie przysługuje;
-- **3)** (uchylony) § 2. (uchylony)
+- **3)** (uchylony)
+
+§ 2. (uchylony)
 
 **Art. 124.**
 
@@ -939,7 +958,9 @@ source: "isap-pdf"
 
 § 1. W razie sprzedaży przez współwłaściciela nieruchomości rolnej udziału we współwłasności lub części tego udziału pozostałym współwłaścicielom przysługuje prawo pierwokupu, jeżeli prowadzą gospodarstwo rolne na gruncie wspólnym. Nie dotyczy to jednak wypadku, gdy współwłaściciel prowadzący jednocześnie gospodarstwo rolne sprzedaje swój udział we współwłasności wraz z tym gospodarstwem albo gdy nabywcą jest inny współwłaściciel lub osoba, która dziedziczyłaby gospodarstwo po sprzedawcy.
 
-§ 2. (uchylony) § 3. Do sprzedaży przez współwłaściciela nieruchomości rolnej w rozumieniu przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2024 r. poz. 423 oraz z 2025 r. poz. 620) udziału we współwłasności lub części tego udziału stosuje się przepisy tej ustawy.
+§ 2. (uchylony)
+
+§ 3. Do sprzedaży przez współwłaściciela nieruchomości rolnej w rozumieniu przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2024 r. poz. 423 oraz z 2025 r. poz. 620) udziału we współwłasności lub części tego udziału stosuje się przepisy tej ustawy.
 
 **Art. 167.** (uchylony)
 
@@ -1015,7 +1036,9 @@ source: "isap-pdf"
 
 **Art. 186.** (uchylony)
 
-**Art. 187.** [§ 1. Rzecz znaleziona, która nie zostanie przez osobę uprawnioną odebrana w ciągu roku od dnia doręczenia jej wezwania do odbioru, a w przypadku niemożności wezwania – w ciągu dwóch lat od dnia jej znalezienia, staje się własnością znalazcy, jeżeli uczynił on zadość swoim obowiązkom. Jeżeli jednak rzecz została oddana staroście, znalazca staje się jej właścicielem, jeżeli rzecz odebrał w wyznaczonym przez starostę terminie.] <§ 1. Rzecz znaleziona, która nie zostanie przez osobę uprawnioną odebrana w ciągu 6 miesięcy od dnia doręczenia jej wezwania do odbioru, a w przypadku niemożności wezwania – w ciągu roku od dnia jej znalezienia, staje się własnością znalazcy, jeżeli uczynił on zadość swoim obowiązkom. Jeżeli jednak rzecz została oddana staroście, znalazca staje się jej właścicielem, jeżeli rzecz odebrał w wyznaczonym przez starostę terminie.> [§ 2. Rzecz znaleziona będąca zabytkiem lub materiałem archiwalnym po upływie terminu do jej odebrania przez osobę uprawnioną staje się własnością Skarbu Państwa. Inne rzeczy znalezione stają się własnością powiatu po upływie terminu do ich odbioru przez znalazcę.] <§ 2. Po upływie terminu do odebrania przez osobę uprawnioną rzecz znaleziona będąca zabytkiem lub materiałem archiwalnym staje się własnością Skarbu Państwa, a rzecz znaleziona umożliwiająca dostęp do pomieszczeń, pojazdów i innych zamykanych przedmiotów, w szczególności klucze, karty dostępu i piloty, lub będąca dokumentem zawierającym dane osobowe – własnością powiatu. Inne rzeczy znalezione stają się własnością powiatu po upływie terminu do ich odbioru przez znalazcę.> § 3. Z chwilą nabycia własności rzeczy przez znalazcę, powiat albo Skarb Państwa wygasają obciążające ją ograniczone prawa rzeczowe.
+**Art. 187.** [§ 1. Rzecz znaleziona, która nie zostanie przez osobę uprawnioną odebrana w ciągu roku od dnia doręczenia jej wezwania do odbioru, a w przypadku niemożności wezwania – w ciągu dwóch lat od dnia jej znalezienia, staje się własnością znalazcy, jeżeli uczynił on zadość swoim obowiązkom. Jeżeli jednak rzecz została oddana staroście, znalazca staje się jej właścicielem, jeżeli rzecz odebrał w wyznaczonym przez starostę terminie.] <§ 1. Rzecz znaleziona, która nie zostanie przez osobę uprawnioną odebrana w ciągu 6 miesięcy od dnia doręczenia jej wezwania do odbioru, a w przypadku niemożności wezwania – w ciągu roku od dnia jej znalezienia, staje się własnością znalazcy, jeżeli uczynił on zadość swoim obowiązkom. Jeżeli jednak rzecz została oddana staroście, znalazca staje się jej właścicielem, jeżeli rzecz odebrał w wyznaczonym przez starostę terminie.> [§ 2. Rzecz znaleziona będąca zabytkiem lub materiałem archiwalnym po upływie terminu do jej odebrania przez osobę uprawnioną staje się własnością Skarbu Państwa. Inne rzeczy znalezione stają się własnością powiatu po upływie terminu do ich odbioru przez znalazcę.] <§ 2. Po upływie terminu do odebrania przez osobę uprawnioną rzecz znaleziona będąca zabytkiem lub materiałem archiwalnym staje się własnością Skarbu Państwa, a rzecz znaleziona umożliwiająca dostęp do pomieszczeń, pojazdów i innych zamykanych przedmiotów, w szczególności klucze, karty dostępu i piloty, lub będąca dokumentem zawierającym dane osobowe – własnością powiatu. Inne rzeczy znalezione stają się własnością powiatu po upływie terminu do ich odbioru przez znalazcę.>
+
+§ 3. Z chwilą nabycia własności rzeczy przez znalazcę, powiat albo Skarb Państwa wygasają obciążające ją ograniczone prawa rzeczowe.
 
 **Art. 188.** (uchylony)
 
@@ -1148,7 +1171,11 @@ source: "isap-pdf"
 
 § 1. Roszczenia właściciela przewidziane w artykule poprzedzającym nie ulegają przedawnieniu, jeżeli dotyczą nieruchomości.
 
-§ 2. (uchylony) § 3. (uchylony) § 4. Roszczenie właściciela, o którym mowa w art. 222 § 1, nie ulega przedawnieniu, jeżeli dotyczy rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury.
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. Roszczenie właściciela, o którym mowa w art. 222 § 1, nie ulega przedawnieniu, jeżeli dotyczy rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury.
 
 **Art. 224.**
 
@@ -1324,6 +1351,8 @@ source: "isap-pdf"
 **Art. 262.** Po wygaśnięciu użytkowania użytkownik obowiązany jest zwrócić rzecz właścicielowi w takim stanie, w jakim powinna się znajdować stosownie do przepisów o wykonywaniu użytkowania.
 
 **Art. 263.** Roszczenie właściciela przeciwko użytkownikowi o naprawienie szkody z powodu pogorszenia rzeczy albo o zwrot nakładów na rzecz, jak również roszczenie użytkownika przeciwko właścicielowi o zwrot nakładów na rzecz przedawniają się z upływem roku od dnia zwrotu rzeczy.
+
+§ 2. (uchylony)
 
 **Art. 264.** Jeżeli użytkowanie obejmuje pieniądze lub inne rzeczy oznaczone tylko co do gatunku, użytkownik staje się z chwilą wydania mu tych przedmiotów ich właścicielem. Po wygaśnięciu użytkowania obowiązany jest do zwrotu według przepisów o zwrocie pożyczki (użytkowanie nieprawidłowe).
 
@@ -1689,6 +1718,8 @@ source: "isap-pdf"
 
 **Art. 357¹.** Jeżeli z powodu nadzwyczajnej zmiany stosunków spełnienie świadczenia byłoby połączone z nadmiernymi trudnościami albo groziłoby jednej ze stron rażącą stratą, czego strony nie przewidywały przy zawarciu umowy, sąd może po rozważeniu interesów stron, zgodnie z zasadami współżycia społecznego, oznaczyć sposób wykonania zobowiązania, wysokość świadczenia lub nawet orzec o rozwiązaniu umowy. Rozwiązując umowę sąd może w miarę potrzeby orzec o rozliczeniach stron, kierując się zasadami określonymi w zdaniu poprzedzającym.
 
+§ 2. (uchylony)
+
 **Art. 358.**
 
 § 1. Jeżeli przedmiotem zobowiązania podlegającego wykonaniu na terytorium Rzeczypospolitej Polskiej jest suma pieniężna wyrażona w walucie obcej, dłużnik może spełnić świadczenie w walucie polskiej, chyba że ustawa, orzeczenie sądowe będące źródłem zobowiązania lub czynność prawna zastrzega spełnienie świadczenia wyłącznie w walucie obcej.
@@ -1721,7 +1752,9 @@ source: "isap-pdf"
 
 § 2. Postanowienia umowne nie mogą wyłączać ani ograniczać przepisów o odsetkach maksymalnych, także w razie dokonania wyboru prawa obcego. W takim przypadku stosuje się przepisy ustawy.
 
-§ 3. (uchylony) § 4. Minister Sprawiedliwości ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość odsetek ustawowych.
+§ 3. (uchylony)
+
+§ 4. Minister Sprawiedliwości ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość odsetek ustawowych.
 
 **Art. 360.** W braku odmiennego zastrzeżenia co do terminu płatności odsetek są one płatne co roku z dołu, a jeżeli termin płatności sumy pieniężnej jest krótszy niż rok – jednocześnie z zapłatą tej sumy.
 
@@ -1845,7 +1878,9 @@ source: "isap-pdf"
 
 § 2. W razie gdy posługiwanie się wzorcem jest w stosunkach danego rodzaju zwyczajowo przyjęte, wiąże on także wtedy, gdy druga strona mogła się z łatwością dowiedzieć o jego treści. Nie dotyczy to jednak umów zawieranych z udziałem konsumentów, z wyjątkiem umów powszechnie zawieranych w drobnych, bieżących sprawach życia codziennego.
 
-§ 3. (uchylony) § 4. Jeżeli jedna ze stron posługuje się wzorcem umowy w postaci elektronicznej, powinna udostępnić go drugiej stronie przed zawarciem umowy w taki sposób, aby mogła ona wzorzec ten przechowywać i odtwarzać w zwykłym toku czynności.
+§ 3. (uchylony)
+
+§ 4. Jeżeli jedna ze stron posługuje się wzorcem umowy w postaci elektronicznej, powinna udostępnić go drugiej stronie przed zawarciem umowy w taki sposób, aby mogła ona wzorzec ten przechowywać i odtwarzać w zwykłym toku czynności.
 
 § 5. (uchylony)
 
@@ -1871,6 +1906,30 @@ source: "isap-pdf"
 
 **Art. 385³.** W razie wątpliwości uważa się, że niedozwolonymi postanowieniami umownymi są te, które w szczególności:
 
+- **1)** wyłączają lub ograniczają odpowiedzialność względem konsumenta za szkody na osobie;
+- **2)** wyłączają lub istotnie ograniczają odpowiedzialność względem konsumenta za niewykonanie lub nienależyte wykonanie zobowiązania;
+- **3)** wyłączają lub istotnie ograniczają potrącenie wierzytelności konsumenta z wierzytelnością drugiej strony;
+- **4)** przewidują postanowienia, z którymi konsument nie miał możliwości zapoznać się przed zawarciem umowy;
+- **5)** zezwalają kontrahentowi konsumenta na przeniesienie praw i przekazanie obowiązków wynikających z umowy bez zgody konsumenta;
+- **6)** uzależniają zawarcie umowy od przyrzeczenia przez konsumenta zawierania w przyszłości dalszych umów podobnego rodzaju;
+- **7)** uzależniają zawarcie, treść lub wykonanie umowy od zawarcia innej umowy, niemającej bezpośredniego związku z umową zawierającą oceniane postanowienie;
+- **8)** uzależniają spełnienie świadczenia od okoliczności zależnych tylko od woli kontrahenta konsumenta;
+- **9)** przyznają kontrahentowi konsumenta uprawnienia do dokonywania wiążącej interpretacji umowy;
+- **10)** uprawniają kontrahenta konsumenta do jednostronnej zmiany umowy bez ważnej przyczyny wskazanej w tej umowie;
+- **11)** przyznają tylko kontrahentowi konsumenta uprawnienie do stwierdzania zgodności świadczenia z umową;
+- **12)** wyłączają obowiązek zwrotu konsumentowi uiszczonej zapłaty za świadczenie niespełnione w całości lub części, jeżeli konsument zrezygnuje z zawarcia umowy lub jej wykonania;
+- **13)** przewidują utratę prawa żądania zwrotu świadczenia konsumenta spełnionego wcześniej niż świadczenie kontrahenta, gdy strony wypowiadają, rozwiązują lub odstępują od umowy;
+- **14)** pozbawiają wyłącznie konsumenta uprawnienia do rozwiązania umowy, odstąpienia od niej lub jej wypowiedzenia;
+- **15)** zastrzegają dla kontrahenta konsumenta uprawnienie wypowiedzenia umowy zawartej na czas nieoznaczony, bez wskazania ważnych przyczyn i stosownego terminu wypowiedzenia;
+- **16)** nakładają wyłącznie na konsumenta obowiązek zapłaty ustalonej sumy na wypadek rezygnacji z zawarcia lub wykonania umowy;
+- **17)** nakładają na konsumenta, który nie wykonał zobowiązania lub odstąpił od umowy, obowiązek zapłaty rażąco wygórowanej kary umownej lub odstępnego;
+- **18)** stanowią, że umowa zawarta na czas oznaczony ulega przedłużeniu, o ile konsument, dla którego zastrzeżono rażąco krótki termin, nie złoży przeciwnego oświadczenia;
+- **19)** przewidują wyłącznie dla kontrahenta konsumenta jednostronne uprawnienie do zmiany, bez ważnych przyczyn, istotnych cech świadczenia;
+- **20)** przewidują uprawnienie kontrahenta konsumenta do określenia lub podwyższenia ceny lub wynagrodzenia po zawarciu umowy bez przyznania konsumentowi prawa odstąpienia od umowy;
+- **21)** uzależniają odpowiedzialność kontrahenta konsumenta od wykonania zobowiązań przez osoby, za pośrednictwem których kontrahent konsumenta zawiera umowę lub przy których pomocy wykonuje swoje zobowiązanie, albo uzależniają tę odpowiedzialność od spełnienia przez konsumenta nadmiernie uciążliwych formalności;
+- **22)** przewidują obowiązek wykonania zobowiązania przez konsumenta mimo niewykonania lub nienależytego wykonania zobowiązania przez jego kontrahenta;
+- **23)** wyłączają jurysdykcję sądów polskich lub poddają sprawę pod rozstrzygnięcie sądu polubownego polskiego lub zagranicznego albo innego organu, a także narzucają rozpoznanie sprawy przez sąd, który wedle ustawy nie jest miejscowo właściwy.
+
 **Art. 385⁴.**
 
 § 1. Umowa między przedsiębiorcami stosującymi różne wzorce umów nie obejmuje tych postanowień wzorców, które są ze sobą sprzeczne.
@@ -1894,6 +1953,10 @@ source: "isap-pdf"
 § 2. Strona, która w chwili zawarcia umowy wiedziała o niemożliwości świadczenia, a drugiej strony z błędu nie wyprowadziła, obowiązana jest do naprawienia szkody, którą druga strona poniosła przez to, że zawarła umowę nie wiedząc o niemożliwości świadczenia.
 
 **Art. 387¹.** Nieważna jest umowa, w której osoba fizyczna zobowiązuje się do przeniesienia własności nieruchomości służącej zaspokojeniu jej potrzeb mieszkaniowych w celu zabezpieczenia roszczeń wynikających z tej lub innej umowy niezwiązanej bezpośrednio z działalnością gospodarczą lub zawodową tej osoby, w przypadku gdy:
+
+- **1)** wartość nieruchomości jest wyższa niż wartość zabezpieczanych tą nieruchomością roszczeń pieniężnych powiększonych o wysokość odsetek maksymalnych za opóźnienie od tej wartości za okres 24 miesięcy lub
+- **2)** wartość zabezpieczanych tą nieruchomością roszczeń pieniężnych nie jest oznaczona, lub
+- **3)** zawarcie tej umowy nie zostało poprzedzone dokonaniem wyceny wartości rynkowej nieruchomości przez biegłego rzeczoznawcę.
 
 **Art. 388.**
 
@@ -1972,6 +2035,11 @@ source: "isap-pdf"
 § 2. Świadczenie jest nienależne, jeżeli ten, kto je spełnił, nie był w ogóle zobowiązany lub nie był zobowiązany względem osoby, której świadczył, albo jeżeli podstawa świadczenia odpadła lub zamierzony cel świadczenia nie został osiągnięty, albo jeżeli czynność prawna zobowiązująca do świadczenia była nieważna i nie stała się ważna po spełnieniu świadczenia.
 
 **Art. 411.** Nie można żądać zwrotu świadczenia:
+
+- **1)** jeżeli spełniający świadczenie wiedział, że nie był do świadczenia zobowiązany, chyba że spełnienie świadczenia nastąpiło z zastrzeżeniem zwrotu albo w celu uniknięcia przymusu lub w wykonaniu nieważnej czynności prawnej;
+- **2)** jeżeli spełnienie świadczenia czyni zadość zasadom współżycia społecznego;
+- **3)** jeżeli świadczenie zostało spełnione w celu zadośćuczynienia przedawnionemu roszczeniu;
+- **4)** jeżeli świadczenie zostało spełnione, zanim wierzytelność stała się wymagalna.
 
 **Art. 412.** Sąd może orzec przepadek świadczenia na rzecz Skarbu Państwa, jeżeli świadczenie to zostało świadomie spełnione w zamian za dokonanie czynu zabronionego przez ustawę lub w celu niegodziwym. Jeżeli przedmiot świadczenia został zużyty lub utracony, przepadkowi może ulec jego wartość.
 
@@ -2269,6 +2337,11 @@ source: "isap-pdf"
 
 **Art. 467.** Poza wypadkami przewidzianymi w innych przepisach dłużnik może złożyć przedmiot świadczenia do depozytu sądowego:
 
+- **1)** jeżeli wskutek okoliczności, za które nie ponosi odpowiedzialności, nie wie, kto jest wierzycielem, albo nie zna miejsca zamieszkania lub siedziby wierzyciela;
+- **2)** jeżeli wierzyciel nie ma pełnej zdolności do czynności prawnych ani przedstawiciela uprawnionego do przyjęcia świadczenia;
+- **3)** jeżeli powstał spór, kto jest wierzycielem;
+- **4)** jeżeli z powodu innych okoliczności dotyczących osoby wierzyciela świadczenie nie może być spełnione.
+
 **Art. 468.**
 
 § 1. O złożeniu przedmiotu świadczenia do depozytu sądowego dłużnik powinien niezwłocznie zawiadomić wierzyciela, chyba że zawiadomienie napotyka trudne do przezwyciężenia przeszkody. Zawiadomienie powinno nastąpić na piśmie.
@@ -2445,6 +2518,11 @@ source: "isap-pdf"
 
 **Art. 505.** Nie mogą być umorzone przez potrącenie:
 
+- **1)** wierzytelności nieulegające zajęciu;
+- **2)** wierzytelności o dostarczenie środków utrzymania;
+- **3)** wierzytelności wynikające z czynów niedozwolonych;
+- **4)** wierzytelności, co do których potrącenie jest wyłączone przez przepisy szczególne.
+
 **Art. 506.**
 
 § 1. Jeżeli w celu umorzenia zobowiązania dłużnik zobowiązuje się za zgodą wierzyciela spełnić inne świadczenie albo nawet to samo świadczenie, lecz z innej podstawy prawnej, zobowiązanie dotychczasowe wygasa (odnowienie).
@@ -2575,6 +2653,8 @@ source: "isap-pdf"
 
 **Art. 535.** Przez umowę sprzedaży sprzedawca zobowiązuje się przenieść na kupującego własność rzeczy i wydać mu rzecz, a kupujący zobowiązuje się rzecz odebrać i zapłacić sprzedawcy cenę.
 
+§ 2. (uchylony)
+
 **Art. 535¹.** (uchylony)
 
 **Art. 536.**
@@ -2661,6 +2741,9 @@ source: "isap-pdf"
 
 **Art. 549.** Jeżeli kupujący zastrzegł sobie oznaczenie kształtu, wymiaru lub innych właściwości rzeczy albo terminu i miejsca wydania, a dopuszcza się zwłoki z dokonaniem oznaczenia, sprzedawca może:
 
+- **1)** wykonać uprawnienia, które przysługują wierzycielowi w razie zwłoki dłużnika ze spełnieniem świadczenia wzajemnego, albo
+- **2)** dokonać sam oznaczenia i podać je do wiadomości kupującego wyznaczając mu odpowiedni termin do odmiennego oznaczenia; po bezskutecznym upływie wyznaczonego terminu oznaczenie dokonane przez sprzedawcę staje się dla kupującego wiążące.
+
 **Art. 550.** Jeżeli w umowie sprzedaży zastrzeżona została na rzecz kupującego wyłączność bądź w ten sposób, że sprzedawca nie będzie dostarczał rzeczy określonego rodzaju innym osobom, bądź też w ten sposób, że kupujący będzie jedynym odprzedawcą zakupionych rzeczy na oznaczonym obszarze, sprzedawca nie może w zakresie, w którym wyłączność została zastrzeżona, ani bezpośrednio, ani pośrednio zawierać umów sprzedaży, które mogłyby naruszyć wyłączność przysługującą kupującemu.
 
 **Art. 551.**
@@ -2732,7 +2815,9 @@ source: "isap-pdf"
 
 § 1. Jeżeli rzecz sprzedana ma wadę, kupujący może złożyć oświadczenie o obniżeniu ceny albo odstąpieniu od umowy, chyba że sprzedawca niezwłocznie i bez nadmiernych niedogodności dla kupującego wymieni rzecz wadliwą na wolną od wad albo wadę usunie. Ograniczenie to nie ma zastosowania, jeżeli rzecz była już wymieniona lub naprawiana przez sprzedawcę albo sprzedawca nie uczynił zadość obowiązkowi wymiany rzeczy na wolną od wad lub usunięcia wady.
 
-§ 2. (uchylony) § 3. Obniżona cena powinna pozostawać w takiej proporcji do ceny wynikającej z umowy, w jakiej wartość rzeczy z wadą pozostaje do wartości rzeczy bez wady.
+§ 2. (uchylony)
+
+§ 3. Obniżona cena powinna pozostawać w takiej proporcji do ceny wynikającej z umowy, w jakiej wartość rzeczy z wadą pozostaje do wartości rzeczy bez wady.
 
 § 4. Kupujący nie może odstąpić od umowy, jeżeli wada jest nieistotna.
 
@@ -2767,6 +2852,8 @@ source: "isap-pdf"
 **Art. 561⁵.** Jeżeli kupujący będący konsumentem zażądał wymiany rzeczy lub usunięcia wady albo złożył oświadczenie o obniżeniu ceny, określając kwotę, o którą cena ma być obniżona, a sprzedawca nie ustosunkował się do tego żądania w terminie czternastu dni, uważa się, że żądanie to uznał za uzasadnione.
 
 **Art. 562.** Jeżeli w umowie sprzedaży zastrzeżono, że dostarczenie rzeczy sprzedanych ma nastąpić częściami, a sprzedawca mimo żądania kupującego nie dostarczył zamiast rzeczy wadliwych takiej samej ilości rzeczy wolnych od wad, kupujący może od umowy odstąpić także co do części rzeczy, które mają być dostarczone później.
+
+§ 2. (uchylony)
 
 **Art. 563.**
 
@@ -3043,6 +3130,11 @@ source: "isap-pdf"
 **Art. 614.** Jeżeli przedmiot kontraktacji ma być wytworzony w gospodarstwie prowadzonym przez kilka osób wspólnie, odpowiedzialność tych osób względem kontraktującego jest solidarna.
 
 **Art. 615.** Świadczeniami dodatkowymi ze strony kontraktującego mogą być w szczególności:
+
+- **1)** zapewnienie producentowi możności nabycia określonych środków produkcji i uzyskania pomocy finansowej;
+- **2)** pomoc agrotechniczna i zootechniczna;
+- **3)** premie pieniężne;
+- **4)** premie rzeczowe.
 
 **Art. 616.** Umowa kontraktacyjna powinna być zawarta na piśmie.
 
@@ -3714,6 +3806,9 @@ source: "isap-pdf"
 
 **Art. 751.** Z upływem lat dwóch przedawniają się:
 
+- **1)** roszczenia o wynagrodzenie za spełnione czynności i o zwrot poniesionych wydatków przysługujące osobom, które stale lub w zakresie działalności przedsiębiorstwa trudnią się czynnościami danego rodzaju; to samo dotyczy roszczeń z tytułu zaliczek udzielonych tym osobom;
+- **2)** roszczenia z tytułu utrzymania, pielęgnowania, wychowania lub nauki, jeżeli przysługują osobom trudniącym się zawodowo takimi czynnościami albo osobom utrzymującym zakłady na ten cel przeznaczone.
+
 ## TYTUŁ XXII Prowadzenie cudzych spraw bez zlecenia
 
 **Art. 752.** Kto bez zlecenia prowadzi cudzą sprawę, powinien działać z korzyścią osoby, której sprawę prowadzi, i zgodnie z jej prawdopodobną wolą, a przy prowadzeniu sprawy obowiązany jest zachowywać należytą staranność.
@@ -3849,6 +3944,10 @@ source: "isap-pdf"
 § 5. Możliwość dochodzenia roszczenia o świadczenie wyrównawcze zależy od zgłoszenia przez agenta lub jego spadkobierców odpowiedniego żądania wobec dającego zlecenie przed upływem roku od rozwiązania umowy.
 
 **Art. 764⁴.** Świadczenie wyrównawcze nie przysługuje agentowi, jeżeli:
+
+- **1)** dający zlecenie wypowiedział umowę na skutek okoliczności, za które odpowiedzialność ponosi agent, usprawiedliwiających wypowiedzenie umowy bez zachowania terminów wypowiedzenia;
+- **2)** agent wypowiedział umowę, chyba że wypowiedzenie jest uzasadnione okolicznościami, za które odpowiada dający zlecenie, albo jest usprawiedliwione wiekiem, ułomnością lub chorobą agenta, a względy słuszności nie pozwalają domagać się od niego dalszego wykonywania czynności agenta;
+- **3)** agent za zgodą dającego zlecenie przeniósł na inną osobę swoje prawa i obowiązki wynikające z umowy.
 
 **Art. 764⁵.** Do czasu rozwiązania umowy strony nie mogą umówić się w sposób odbiegający na niekorzyść agenta od postanowień art. 764 i art. 764 .
 
@@ -4097,11 +4196,21 @@ source: "isap-pdf"
 
 **Art. 812.**
 
-§ 1. (uchylony) § 2. (uchylony) § 3. (uchylony) § 4. Jeżeli umowa ubezpieczenia jest zawarta na okres dłuższy niż 6 miesięcy, ubezpieczający ma prawo odstąpienia od umowy ubezpieczenia w terminie 30 dni, a w przypadku gdy ubezpieczający jest przedsiębiorcą – w terminie 7 dni od dnia zawarcia umowy. Jeżeli najpóźniej w chwili zawarcia umowy ubezpieczyciel nie poinformował ubezpieczającego będącego konsumentem o prawie odstąpienia od umowy, termin 30 dni biegnie od dnia, w którym ubezpieczający będący konsumentem dowiedział się o tym prawie. Odstąpienie od umowy ubezpieczenia nie zwalnia ubezpieczającego z obowiązku zapłacenia składki za okres, w jakim ubezpieczyciel udzielał ochrony ubezpieczeniowej.
+§ 1. (uchylony)
+
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. Jeżeli umowa ubezpieczenia jest zawarta na okres dłuższy niż 6 miesięcy, ubezpieczający ma prawo odstąpienia od umowy ubezpieczenia w terminie 30 dni, a w przypadku gdy ubezpieczający jest przedsiębiorcą – w terminie 7 dni od dnia zawarcia umowy. Jeżeli najpóźniej w chwili zawarcia umowy ubezpieczyciel nie poinformował ubezpieczającego będącego konsumentem o prawie odstąpienia od umowy, termin 30 dni biegnie od dnia, w którym ubezpieczający będący konsumentem dowiedział się o tym prawie. Odstąpienie od umowy ubezpieczenia nie zwalnia ubezpieczającego z obowiązku zapłacenia składki za okres, w jakim ubezpieczyciel udzielał ochrony ubezpieczeniowej.
 
 § 5. Jeżeli umowa zawarta jest na czas określony, ubezpieczyciel może ją wypowiedzieć jedynie w przypadkach wskazanych w ustawie, a także z ważnych powodów określonych w umowie lub ogólnych warunkach ubezpieczenia.
 
-§ 6. (uchylony) § 7. (uchylony) § 8. Różnicę między treścią umowy a ogólnymi warunkami ubezpieczenia ubezpieczyciel zobowiązany jest przedstawić ubezpieczającemu w formie pisemnej przed zawarciem umowy. W razie niedopełnienia tego obowiązku ubezpieczyciel nie może powoływać się na różnicę niekorzystną dla ubezpieczającego. Przepisu nie stosuje się do umów ubezpieczenia zawieranych w drodze negocjacji.
+§ 6. (uchylony)
+
+§ 7. (uchylony)
+
+§ 8. Różnicę między treścią umowy a ogólnymi warunkami ubezpieczenia ubezpieczyciel zobowiązany jest przedstawić ubezpieczającemu w formie pisemnej przed zawarciem umowy. W razie niedopełnienia tego obowiązku ubezpieczyciel nie może powoływać się na różnicę niekorzystną dla ubezpieczającego. Przepisu nie stosuje się do umów ubezpieczenia zawieranych w drodze negocjacji.
 
 § 9. Przepisy § 5 i 8 stosuje się odpowiednio w razie zmiany ogólnych warunków ubezpieczenia w czasie trwania stosunku umownego. Nie uchybia to stosowaniu w takim przypadku przepisu art. 384 .
 
@@ -4153,7 +4262,9 @@ source: "isap-pdf"
 
 § 1. Roszczenia z umowy ubezpieczenia przedawniają się z upływem lat trzech.
 
-§ 2. (uchylony) § 3. W wypadku ubezpieczenia odpowiedzialności cywilnej roszczenie poszkodowanego do ubezpieczyciela o odszkodowanie lub zadośćuczynienie przedawnia się z upływem terminu przewidzianego dla tego roszczenia w przepisach o odpowiedzialności za szkodę wyrządzoną czynem niedozwolonym lub wynikłą z niewykonania bądź nienależytego wykonania zobowiązania.
+§ 2. (uchylony)
+
+§ 3. W wypadku ubezpieczenia odpowiedzialności cywilnej roszczenie poszkodowanego do ubezpieczyciela o odszkodowanie lub zadośćuczynienie przedawnia się z upływem terminu przewidzianego dla tego roszczenia w przepisach o odpowiedzialności za szkodę wyrządzoną czynem niedozwolonym lub wynikłą z niewykonania bądź nienależytego wykonania zobowiązania.
 
 § 4. Bieg przedawnienia roszczenia o świadczenie do ubezpieczyciela przerywa się także przez zgłoszenie ubezpieczycielowi tego roszczenia lub przez zgłoszenie zdarzenia objętego ubezpieczeniem. Bieg przedawnienia rozpoczyna się na nowo od dnia, w którym zgłaszający roszczenie lub zdarzenie otrzymał na piśmie oświadczenie ubezpieczyciela o przyznaniu lub odmowie świadczenia.
 
@@ -4536,6 +4647,9 @@ source: "isap-pdf"
 
 **Art. 889.** Nie stanowią darowizny następujące bezpłatne przysporzenia:
 
+- **1)** gdy zobowiązanie do bezpłatnego świadczenia wynika z umowy uregulowanej innymi przepisami kodeksu;
+- **2)** gdy kto zrzeka się prawa, którego jeszcze nie nabył albo które nabył w taki sposób, że w razie zrzeczenia się prawo jest uważane za nienabyte.
+
 **Art. 890.**
 
 § 1. Oświadczenie darczyńcy powinno być złożone w formie aktu notarialnego. Jednakże umowa darowizny zawarta bez zachowania tej formy staje się ważna, jeżeli przyrzeczone świadczenie zostało spełnione.
@@ -4878,6 +4992,10 @@ source: "isap-pdf"
 
 **Art. 937.** Jeżeli skutki przysposobienia polegają wyłącznie na powstaniu stosunku między przysposabiającym a przysposobionym, stosuje się przepisy poniższe:
 
+- **1)** przysposobiony dziedziczy po przysposabiającym na równi z jego dziećmi, a zstępni przysposobionego dziedziczą po przysposabiającym na tych samych zasadach co dalsi zstępni spadkodawcy;
+- **2)** przysposobiony i jego zstępni nie dziedziczą po krewnych przysposabiającego, a krewni przysposabiającego nie dziedziczą po przysposobionym i jego zstępnych;
+- **3)** rodzice przysposobionego nie dziedziczą po przysposobionym, a zamiast nich dziedziczy po przysposobionym przysposabiający; poza tym przysposobienie nie narusza powołania do dziedziczenia wynikającego z pokrewieństwa.
+
 **Art. 938.** Dziadkowie spadkodawcy, jeżeli znajdują się w niedostatku i nie mogą otrzymać należnych im środków utrzymania od osób, na których ciąży względem nich ustawowy obowiązek alimentacyjny, mogą żądać od spadkobiercy nieobciążonego takim obowiązkiem środków utrzymania w stosunku do swoich potrzeb i do wartości jego udziału spadkowego. Spadkobierca może uczynić zadość temu roszczeniu także w ten sposób, że zapłaci dziadkom spadkodawcy sumę pieniężną odpowiadającą wartości jednej czwartej części swojego udziału spadkowego.
 
 **Art. 939.**
@@ -4969,6 +5087,12 @@ source: "isap-pdf"
 ##### Oddział 3 Przepisy wspólne dla testamentów zwykłych i szczególnych
 
 **Art. 956.** Nie może być świadkiem przy sporządzaniu testamentu:
+
+- **1)** kto nie ma pełnej zdolności do czynności prawnych;
+- **2)** niewidomy, głuchy lub niemy;
+- **3)** kto nie może czytać i pisać;
+- **4)** kto nie włada językiem, w którym spadkodawca sporządza testament;
+- **5)** skazany prawomocnie wyrokiem sądowym za fałszywe zeznania.
 
 **Art. 957.**
 
@@ -5239,6 +5363,10 @@ source: "isap-pdf"
 § 4. Roszczenie przeciwko osobie obowiązanej do uzupełnienia zachowku z tytułu otrzymanego mienia w związku z rozwiązaniem fundacji rodzinnej przedawnia się z upływem lat pięciu od otwarcia spadku.
 
 **Art. 1008.** Spadkodawca może w testamencie pozbawić zstępnych, małżonka i rodziców zachowku (wydziedziczenie), jeżeli uprawniony do zachowku:
+
+- **1)** wbrew woli spadkodawcy postępuje uporczywie w sposób sprzeczny z zasadami współżycia społecznego;
+- **2)** dopuścił się względem spadkodawcy albo jednej z najbliższych mu osób umyślnego przestępstwa przeciwko życiu, zdrowiu lub wolności albo rażącej obrazy czci;
+- **3)** uporczywie nie dopełnia względem spadkodawcy obowiązków rodzinnych.
 
 **Art. 1009.** Przyczyna wydziedziczenia uprawnionego do zachowku powinna wynikać z treści testamentu.
 

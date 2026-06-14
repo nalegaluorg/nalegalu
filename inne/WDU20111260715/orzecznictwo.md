@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 
-Łącznie: **1139** orzeczeń
-(pominięto 3415 orzeczeń sądów rejonowych)
+Łącznie: **1154** orzeczeń
+(pominięto 3467 orzeczeń sądów rejonowych)
 
 ## art. 1 (10)
 
@@ -26,9 +26,10 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2019-12-06 | SO | [III Ca 547/19](https://www.saos.org.pl/judgments/418030) | Uzasadnienie
 - 2017-03-06 | SO | [III Ca 1965/16](https://www.saos.org.pl/judgments/281766) | Uzasadnienie
 
-## art. 3 (253)
+## art. 3 (257)
 
 - 2024-11-12 | SO | [I AGa 80/24](https://www.saos.org.pl/judgments/531519) | Wyrok
+- 2023-10-30 | SO | [I AGa 148/23](https://www.saos.org.pl/judgments/546556) | Wyrok
 - 2023-09-26 | SO | [I ACa 757/22](https://www.saos.org.pl/judgments/494546) | Wyrok
 - 2022-12-27 | SO | [I ACa 890/22](https://www.saos.org.pl/judgments/494693) | Wyrok
 - 2022-11-17 | SO | [I ACa 495/22](https://www.saos.org.pl/judgments/494247) | Wyrok
@@ -59,6 +60,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2025-09-03 | SO | [I C 62/25](https://www.saos.org.pl/judgments/535683) | Wyrok
 - 2025-06-13 | SO | [I C 101/25](https://www.saos.org.pl/judgments/528846) | Wyrok
 - 2025-06-04 | SO | [I C 127/25](https://www.saos.org.pl/judgments/528182) | Wyrok
+- 2025-04-17 | SO | [I C 2/25](https://www.saos.org.pl/judgments/545156) | Wyrok
 - 2025-02-10 | SO | [II Ca 115/24](https://www.saos.org.pl/judgments/521429) | Wyrok
 - 2025-01-24 | SO | [I C 367/24](https://www.saos.org.pl/judgments/522146) | Wyrok
 - 2024-12-20 | SO | [I C 444/24](https://www.saos.org.pl/judgments/522150) | Wyrok
@@ -68,6 +70,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2024-10-18 | SO | [I C 644/24](https://www.saos.org.pl/judgments/516219) | Wyrok
 - 2024-10-10 | SO | [I C 466/24](https://www.saos.org.pl/judgments/519437) | Wyrok
 - 2024-10-08 | SO | [I C 1228/23](https://www.saos.org.pl/judgments/518646) | Wyrok
+- 2024-10-01 | SO | [I C 110/24](https://www.saos.org.pl/judgments/547041) | Wyrok
 - 2024-09-24 | SO | [I C 210/24](https://www.saos.org.pl/judgments/538003) | Wyrok
 - 2024-09-24 | SO | [I C 218/24](https://www.saos.org.pl/judgments/523333) | Wyrok
 - 2024-09-12 | SO | [I C 178/24](https://www.saos.org.pl/judgments/524052) | Wyrok
@@ -75,6 +78,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2024-07-25 | SO | [I C 350/24](https://www.saos.org.pl/judgments/497752) | Wyrok
 - 2024-07-18 | SO | [XV Ca 5/24](https://www.saos.org.pl/judgments/520455) | Wyrok
 - 2024-07-16 | SO | [XV Ca 2419/23](https://www.saos.org.pl/judgments/520454) | Wyrok
+- 2024-06-20 | SO | [I C 95/24](https://www.saos.org.pl/judgments/545212) | Wyrok
 - 2024-06-18 | SO | [XV Ca 2329/23](https://www.saos.org.pl/judgments/520163) | Wyrok
 - 2024-05-21 | SO | [I C 540/23](https://www.saos.org.pl/judgments/527217) | Wyrok
 - 2024-04-23 | SO | [XV Ca 150/24](https://www.saos.org.pl/judgments/514926) | Wyrok
@@ -297,8 +301,9 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2020-06-16 | SO | [III Ca 592/20](https://www.saos.org.pl/judgments/428271) | Uzasadnienie
 - 2017-03-27 | SO | [III Ca 438/17](https://www.saos.org.pl/judgments/285593) | Uzasadnienie
 
-## art. 5 (184)
+## art. 5 (187)
 
+- 2025-03-26 | SO | [II AKa 508/24](https://www.saos.org.pl/judgments/545277) | Wyrok
 - 2025-02-10 | SO | [I ACa 1011/22](https://www.saos.org.pl/judgments/536082) | Wyrok
 - 2024-11-20 | SO | [I ACa 2678/23](https://www.saos.org.pl/judgments/535778) | Wyrok
 - 2024-10-15 | SO | [I ACa 637/23](https://www.saos.org.pl/judgments/531263) | Wyrok
@@ -319,6 +324,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2015-11-18 | SO | [VI ACa 1633/14](https://www.saos.org.pl/judgments/217855) | Wyrok
 - 2013-02-15 | SO | [VI ACa 1113/12](https://www.saos.org.pl/judgments/15765) | Wyrok
 - 2016-12-12 | SO | [VI ACa 1213/15](https://www.saos.org.pl/judgments/272923) | Uzasadnienie
+- 2025-04-17 | SO | [I C 2/25](https://www.saos.org.pl/judgments/545156) | Wyrok
 - 2025-01-29 | SO | [I C 204/24](https://www.saos.org.pl/judgments/524781) | Wyrok
 - 2024-12-09 | SO | [II Ca 100/24](https://www.saos.org.pl/judgments/521195) | Wyrok
 - 2024-10-10 | SO | [I C 466/24](https://www.saos.org.pl/judgments/519437) | Wyrok
@@ -394,6 +400,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2025-12-22 | SO | [II C 1155/25](https://www.saos.org.pl/judgments/540079) | Uzasadnienie
 - 2025-11-28 | SO | [I C 65/25](https://www.saos.org.pl/judgments/538081) | Uzasadnienie
 - 2025-11-17 | SO | [IV Ca 906/24](https://www.saos.org.pl/judgments/537569) | Uzasadnienie
+- 2025-10-30 | SO | [VII C 753/24](https://www.saos.org.pl/judgments/545901) | Zarządzenie
 - 2025-09-08 | SO | [I C 55/25](https://www.saos.org.pl/judgments/538042) | Uzasadnienie
 - 2025-01-13 | SO | [I C 618/24](https://www.saos.org.pl/judgments/522807) | Uzasadnienie
 - 2024-07-03 | SO | [I C 583/22](https://www.saos.org.pl/judgments/530520) | Uzasadnienie
@@ -527,7 +534,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2014-11-20 | SO | [II C 780/12](https://www.saos.org.pl/judgments/269681) | Uzasadnienie
 - 2014-10-23 | SO | [III Ca 665/14](https://www.saos.org.pl/judgments/74323) | Uzasadnienie
 
-## art. 13 (22)
+## art. 13 (23)
 
 - 2024-10-23 | SO | [I ACa 1246/22](https://www.saos.org.pl/judgments/534741) | Wyrok
 - 2020-12-14 | SO | [VII AGa 91/19](https://www.saos.org.pl/judgments/434903) | Wyrok
@@ -541,6 +548,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2016-06-20 | SO | [I C 2627/15](https://www.saos.org.pl/judgments/255703) | Wyrok
 - 2016-05-12 | SO | [IV Ca 668/16](https://www.saos.org.pl/judgments/229166) | Wyrok
 - 2016-05-04 | SO | [I C 3023/15](https://www.saos.org.pl/judgments/255712) | Wyrok
+- 2025-10-30 | SO | [VII C 753/24](https://www.saos.org.pl/judgments/545901) | Zarządzenie
 - 2020-09-21 | SO | [III Ca 2729/19](https://www.saos.org.pl/judgments/435405) | Uzasadnienie
 - 2020-03-04 | SO | [III Ca 1965/19](https://www.saos.org.pl/judgments/421313) | Uzasadnienie
 - 2019-11-08 | SO | [III Ca 924/19](https://www.saos.org.pl/judgments/415229) | Uzasadnienie
@@ -564,13 +572,14 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2016-12-08 | SO | [VI ACa 1212/15](https://www.saos.org.pl/judgments/274695) | Wyrok
 - 2019-06-06 | SO | [VIII C 791/18](https://www.saos.org.pl/judgments/386445) | Wyrok
 
-## art. 15 (10)
+## art. 15 (11)
 
 - 2020-03-23 | SO | [XV Ca 125/20](https://www.saos.org.pl/judgments/416839) | Wyrok
 - 2016-06-20 | SO | [I C 2627/15](https://www.saos.org.pl/judgments/255703) | Wyrok
 - 2016-05-12 | SO | [IV Ca 668/16](https://www.saos.org.pl/judgments/229166) | Wyrok
 - 2016-05-04 | SO | [I C 3023/15](https://www.saos.org.pl/judgments/255712) | Wyrok
 - 2015-02-09 | SO | [XV Ca 1516/14](https://www.saos.org.pl/judgments/189328) | Wyrok
+- 2025-10-30 | SO | [VII C 753/24](https://www.saos.org.pl/judgments/545901) | Zarządzenie
 - 2021-07-12 | SO | [III Ca 259/21](https://www.saos.org.pl/judgments/457020) | Uzasadnienie
 - 2021-07-09 | SO | [III Ca 889/20](https://www.saos.org.pl/judgments/458324) | Uzasadnienie
 - 2019-11-08 | SO | [III Ca 924/19](https://www.saos.org.pl/judgments/415229) | Uzasadnienie
@@ -615,7 +624,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 
 - 2016-12-12 | SO | [VI ACa 1213/15](https://www.saos.org.pl/judgments/272923) | Uzasadnienie
 
-## art. 29 (76)
+## art. 29 (79)
 
 - 2025-01-28 | SO | [I ACa 305/22](https://www.saos.org.pl/judgments/536149) | Wyrok
 - 2022-08-12 | SO | [VI ACa 821/21](https://www.saos.org.pl/judgments/492989) | Wyrok
@@ -624,9 +633,11 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2020-12-14 | SO | [VII AGa 91/19](https://www.saos.org.pl/judgments/434903) | Wyrok
 - 2020-12-11 | SO | [I ACa 813/19](https://www.saos.org.pl/judgments/437223) | Wyrok
 - 2020-01-17 | SO | [I ACa 205/19](https://www.saos.org.pl/judgments/408150) | Wyrok
+- 2026-02-24 | SO | [I C 370/25](https://www.saos.org.pl/judgments/545259) | Wyrok
 - 2025-12-10 | SO | [I C 232/25](https://www.saos.org.pl/judgments/540145) | Wyrok
 - 2025-09-03 | SO | [I C 62/25](https://www.saos.org.pl/judgments/535683) | Wyrok
 - 2025-06-13 | SO | [I C 101/25](https://www.saos.org.pl/judgments/528846) | Wyrok
+- 2025-04-17 | SO | [I C 2/25](https://www.saos.org.pl/judgments/545156) | Wyrok
 - 2024-03-22 | SO | [II Ca 2124/23](https://www.saos.org.pl/judgments/531825) | Wyrok
 - 2024-03-15 | SO | [I C 2991/23](https://www.saos.org.pl/judgments/497424) | Wyrok
 - 2024-03-12 | SO | [I C 996/23](https://www.saos.org.pl/judgments/521872) | Wyrok
@@ -645,6 +656,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2017-04-13 | SO | [II Ca 286/17](https://www.saos.org.pl/judgments/305291) | Wyrok
 - 2016-11-30 | SO | [II Ca 1130/16](https://www.saos.org.pl/judgments/269938) | Wyrok
 - 2016-11-04 | SO | [I C 693/16](https://www.saos.org.pl/judgments/256042) | Wyrok
+- 2025-10-30 | SO | [VII C 753/24](https://www.saos.org.pl/judgments/545901) | Zarządzenie
 - 2025-04-09 | SO | [II C 1663/24](https://www.saos.org.pl/judgments/526189) | Uzasadnienie
 - 2025-03-25 | SO | [II C 1873/24](https://www.saos.org.pl/judgments/531524) | Uzasadnienie
 - 2025-02-18 | SO | [I C 721/24](https://www.saos.org.pl/judgments/529876) | Zarządzenie
@@ -694,7 +706,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2015-08-25 | SO | [III Ca 983/15](https://www.saos.org.pl/judgments/191425) | Uzasadnienie
 - 2015-06-25 | SO | [III Ca 730/15](https://www.saos.org.pl/judgments/185420) | Uzasadnienie
 
-## art. 30 (85)
+## art. 30 (86)
 
 - 2024-11-20 | SO | [I ACa 2678/23](https://www.saos.org.pl/judgments/535778) | Wyrok
 - 2023-04-27 | SO | [I ACa 368/22](https://www.saos.org.pl/judgments/488653) | Wyrok
@@ -718,6 +730,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2013-03-15 | SO | [VI ACa 1337/12](https://www.saos.org.pl/judgments/10005) | Wyrok
 - 2013-02-15 | SO | [VI ACa 1113/12](https://www.saos.org.pl/judgments/15765) | Wyrok
 - 2016-12-12 | SO | [VI ACa 1213/15](https://www.saos.org.pl/judgments/272923) | Uzasadnienie
+- 2026-02-24 | SO | [I C 370/25](https://www.saos.org.pl/judgments/545259) | Wyrok
 - 2025-12-10 | SO | [I C 232/25](https://www.saos.org.pl/judgments/540145) | Wyrok
 - 2025-09-03 | SO | [I C 62/25](https://www.saos.org.pl/judgments/535683) | Wyrok
 - 2025-06-13 | SO | [I C 101/25](https://www.saos.org.pl/judgments/528846) | Wyrok
@@ -782,9 +795,10 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2016-02-05 | SO | [III Ca 29/16](https://www.saos.org.pl/judgments/219828) | Uzasadnienie
 - 2015-12-23 | SO | [III Ca 1714/15](https://www.saos.org.pl/judgments/194703) | Uzasadnienie
 
-## art. 31 (9)
+## art. 31 (10)
 
 - 2018-12-04 | SO | [VII AGa 1387/18](https://www.saos.org.pl/judgments/383743) | Wyrok
+- 2026-02-24 | SO | [I C 370/25](https://www.saos.org.pl/judgments/545259) | Wyrok
 - 2025-12-10 | SO | [I C 232/25](https://www.saos.org.pl/judgments/540145) | Wyrok
 - 2025-09-03 | SO | [I C 62/25](https://www.saos.org.pl/judgments/535683) | Wyrok
 - 2025-06-13 | SO | [I C 101/25](https://www.saos.org.pl/judgments/528846) | Wyrok
@@ -794,9 +808,10 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2025-02-18 | SO | [I C 721/24](https://www.saos.org.pl/judgments/529876) | Zarządzenie
 - 2020-09-21 | SO | [III Ca 2729/19](https://www.saos.org.pl/judgments/435405) | Uzasadnienie
 
-## art. 32 (9)
+## art. 32 (10)
 
 - 2018-12-04 | SO | [VII AGa 1387/18](https://www.saos.org.pl/judgments/383743) | Wyrok
+- 2026-02-24 | SO | [I C 370/25](https://www.saos.org.pl/judgments/545259) | Wyrok
 - 2025-12-10 | SO | [I C 232/25](https://www.saos.org.pl/judgments/540145) | Wyrok
 - 2025-09-03 | SO | [I C 62/25](https://www.saos.org.pl/judgments/535683) | Wyrok
 - 2025-06-13 | SO | [I C 101/25](https://www.saos.org.pl/judgments/528846) | Wyrok
@@ -806,9 +821,10 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2025-02-18 | SO | [I C 721/24](https://www.saos.org.pl/judgments/529876) | Zarządzenie
 - 2020-09-21 | SO | [III Ca 2729/19](https://www.saos.org.pl/judgments/435405) | Uzasadnienie
 
-## art. 33 (14)
+## art. 33 (15)
 
 - 2018-12-04 | SO | [VII AGa 1387/18](https://www.saos.org.pl/judgments/383743) | Wyrok
+- 2026-02-24 | SO | [I C 370/25](https://www.saos.org.pl/judgments/545259) | Wyrok
 - 2025-12-10 | SO | [I C 232/25](https://www.saos.org.pl/judgments/540145) | Wyrok
 - 2025-09-03 | SO | [I C 62/25](https://www.saos.org.pl/judgments/535683) | Wyrok
 - 2025-06-13 | SO | [I C 101/25](https://www.saos.org.pl/judgments/528846) | Wyrok
@@ -843,7 +859,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2017-12-12 | SO | [I C 316/15](https://www.saos.org.pl/judgments/321846) | Wyrok
 - 2016-08-19 | SO | [II Ca 981/16](https://www.saos.org.pl/judgments/419918) | Wyrok
 
-## art. 36 (285)
+## art. 36 (290)
 
 - 2025-02-10 | SO | [I ACa 1011/22](https://www.saos.org.pl/judgments/536082) | Wyrok
 - 2024-11-20 | SO | [I ACa 2678/23](https://www.saos.org.pl/judgments/535778) | Wyrok
@@ -868,9 +884,11 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2020-05-20 | SO | [I ACa 3/20](https://www.saos.org.pl/judgments/428588) | Wyrok
 - 2020-01-24 | SO | [I ACa 327/19](https://www.saos.org.pl/judgments/462301) | Wyrok
 - 2025-01-17 | SO | [I ACa 1059/23](https://www.saos.org.pl/judgments/535603) | Uzasadnienie
+- 2026-02-24 | SO | [I C 370/25](https://www.saos.org.pl/judgments/545259) | Wyrok
 - 2025-12-10 | SO | [I C 232/25](https://www.saos.org.pl/judgments/540145) | Wyrok
 - 2025-09-03 | SO | [I C 62/25](https://www.saos.org.pl/judgments/535683) | Wyrok
 - 2025-06-13 | SO | [I C 101/25](https://www.saos.org.pl/judgments/528846) | Wyrok
+- 2025-04-08 | SO | [II Ca 168/24](https://www.saos.org.pl/judgments/545026) | Wyrok
 - 2025-02-25 | SO | [II Ca 2351/23](https://www.saos.org.pl/judgments/531828) | Wyrok
 - 2025-02-18 | SO | [II Ca 2016/23](https://www.saos.org.pl/judgments/540711) | Wyrok
 - 2025-01-29 | SO | [I C 204/24](https://www.saos.org.pl/judgments/524781) | Wyrok
@@ -883,6 +901,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2024-09-24 | SO | [I C 210/24](https://www.saos.org.pl/judgments/538003) | Wyrok
 - 2024-06-26 | SO | [II Ca 950/23](https://www.saos.org.pl/judgments/520338) | Wyrok
 - 2024-06-26 | SO | [II Ca 659/24](https://www.saos.org.pl/judgments/520335) | Wyrok
+- 2024-06-17 | SO | [I C 77/24](https://www.saos.org.pl/judgments/545201) | Wyrok
 - 2024-06-07 | SO | [II Ca 320/24](https://www.saos.org.pl/judgments/520331) | Wyrok
 - 2024-05-24 | SO | [II Ca 538/24](https://www.saos.org.pl/judgments/522929) | Wyrok
 - 2024-05-09 | SO | [II Ca 1583/23](https://www.saos.org.pl/judgments/520319) | Wyrok
@@ -942,6 +961,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2022-09-30 | SO | [II Ca 1273/22](https://www.saos.org.pl/judgments/520307) | Wyrok
 - 2022-09-19 | SO | [II Ca 488/22](https://www.saos.org.pl/judgments/536126) | Wyrok
 - 2022-09-09 | SO | [I C 371/22](https://www.saos.org.pl/judgments/493104) | Wyrok
+- 2022-07-13 | SO | [I C 84/22](https://www.saos.org.pl/judgments/545205) | Wyrok
 - 2022-07-07 | SO | [I C 482/21](https://www.saos.org.pl/judgments/493105) | Wyrok
 - 2022-05-09 | SO | [I C 2154/21](https://www.saos.org.pl/judgments/474596) | Wyrok
 - 2022-05-05 | SO | [II Ca 1919/21](https://www.saos.org.pl/judgments/492320) | Wyrok
@@ -1013,6 +1033,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2025-04-09 | SO | [II C 1663/24](https://www.saos.org.pl/judgments/526189) | Uzasadnienie
 - 2025-02-28 | SO | [I C 1661/24](https://www.saos.org.pl/judgments/530236) | Uzasadnienie
 - 2025-02-18 | SO | [I C 721/24](https://www.saos.org.pl/judgments/529876) | Zarządzenie
+- 2024-12-05 | SO | [I C 133/24](https://www.saos.org.pl/judgments/545255) | Uzasadnienie
 - 2024-11-05 | SO | [I C 813/24](https://www.saos.org.pl/judgments/522225) | Uzasadnienie
 - 2024-09-23 | SO | [I C 92/24](https://www.saos.org.pl/judgments/538891) | Uzasadnienie
 - 2024-08-05 | SO | [III Ca 1954/23](https://www.saos.org.pl/judgments/541324) | Uzasadnienie
@@ -1159,7 +1180,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2022-01-26 | SO | [I ACa 578/21](https://www.saos.org.pl/judgments/473579) | Wyrok
 - 2020-03-06 | SO | [I ACa 805/19](https://www.saos.org.pl/judgments/415126) | Wyrok
 
-## art. 45 (52)
+## art. 45 (53)
 
 - 2025-02-12 | SO | [I ACa 1314/23](https://www.saos.org.pl/judgments/525286) | Wyrok
 - 2024-05-09 | SO | [I ACa 3927/23](https://www.saos.org.pl/judgments/494139) | Wyrok
@@ -1178,6 +1199,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2019-07-19 | SO | [I ACa 837/18](https://www.saos.org.pl/judgments/413390) | Wyrok
 - 2019-07-01 | SO | [V ACa 118/18](https://www.saos.org.pl/judgments/389243) | Wyrok
 - 2025-05-15 | SO | [I ACa 238/24](https://www.saos.org.pl/judgments/535772) | Uzasadnienie
+- 2026-02-24 | SO | [I C 370/25](https://www.saos.org.pl/judgments/545259) | Wyrok
 - 2025-12-10 | SO | [I C 232/25](https://www.saos.org.pl/judgments/540145) | Wyrok
 - 2025-09-03 | SO | [I C 62/25](https://www.saos.org.pl/judgments/535683) | Wyrok
 - 2025-06-13 | SO | [I C 101/25](https://www.saos.org.pl/judgments/528846) | Wyrok
@@ -1456,7 +1478,7 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 
 - 2023-10-30 | SO | [II Ca 1269/23](https://www.saos.org.pl/judgments/522894) | Wyrok
 
-## (ogólnie) (316)
+## (ogólnie) (320)
 
 - 2024-11-20 | SO | [V ACa 2199/24](https://www.saos.org.pl/judgments/520811) | Wyrok
 - 2024-04-08 | SO | [I ACa 1504/22](https://www.saos.org.pl/judgments/493669) | Wyrok
@@ -1538,9 +1560,13 @@ Orzeczenia powołujące: *Ustawa z dnia 12 maja 2011 r. o kredycie konsumenckim*
 - 2012-10-24 | SO | [VI ACa 549/12](https://www.saos.org.pl/judgments/5719) | Wyrok
 - 2022-06-21 | SO | [I ACa 754/21](https://www.saos.org.pl/judgments/494539) | Uzasadnienie
 - 2021-02-17 | SO | [I ACa 6/20](https://www.saos.org.pl/judgments/528893) | Uzasadnienie
+- 2025-03-28 | SO | [II Ca 563/24](https://www.saos.org.pl/judgments/545033) | Wyrok
 - 2025-03-19 | SO | [I C 483/24](https://www.saos.org.pl/judgments/525137) | Wyrok
 - 2025-03-14 | SO | [V GC 603/24](https://www.saos.org.pl/judgments/544622) | Wyrok
+- 2025-01-13 | SO | [V C 2070/23](https://www.saos.org.pl/judgments/545288) | Wyrok
+- 2024-11-27 | SO | [I Ca 268/24](https://www.saos.org.pl/judgments/546227) | Wyrok
 - 2024-11-22 | SO | [I C 381/24](https://www.saos.org.pl/judgments/520792) | Wyrok
+- 2024-07-05 | SO | [I C 78/24](https://www.saos.org.pl/judgments/545202) | Wyrok
 - 2024-07-03 | SO | [I C 389/24](https://www.saos.org.pl/judgments/517237) | Wyrok
 - 2024-03-26 | SO | [II Ca 1391/23](https://www.saos.org.pl/judgments/501665) | Wyrok
 - 2024-01-09 | SO | [I C 605/23](https://www.saos.org.pl/judgments/498842) | Wyrok

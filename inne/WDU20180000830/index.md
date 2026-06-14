@@ -8,7 +8,7 @@ pos: 830
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 24/A/2018 WYROK z dnia 26 kwietnia 2018 r.

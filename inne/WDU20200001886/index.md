@@ -8,10 +8,10 @@ pos: 1886
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 października 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1886 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 21 października 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001886) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1886/text.pdf) |
 
-Poz. 1886 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 21 października 2020 r.
-zmieniające rozporządzenie w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia Na podstawie art. 66 ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, 284, 568, 695, 1087 i 1517) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Infrastruktury z dnia 31 grudnia 2002 r. w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia (Dz. U. z 2016 r. poz. 2022, z 2017 r. poz. 2338, z 2018 r. poz. 855 oraz z 2019 r. poz. 2560) wprowadza się następujące zmiany:
+zmieniające rozporządzenie w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia Na podstawie art. 66 ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, 284, 568, 695, 1087 i 1517) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 31 grudnia 2002 r. w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia (Dz. U. z 2016 r. poz. 2022, z 2017 r. poz. 2338, z 2018 r. poz. 855 oraz z 2019 r. poz. 2560) wprowadza się następujące zmiany:
 1) w § 31:
 a) ust. 1 otrzymuje brzmienie: „1. Pojazd Policji, z wyjątkiem motocykla, powinien mieć:
 1) niebiesko-granatową barwę nadwozia oraz powinien być oznakowany pasem wyróżniającym barwy białej i umieszczonym po obu stronach pojazdu napisem „POLICJA” barwy białej albo
@@ -38,7 +38,7 @@ b) po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Na pojeździe Policji 
 2) oznaczenie rodzaju służby policyjnej;
 3) numer taktyczny;
 4) napis „POLICJA” barwy białej z przodu i z tyłu pojazdu, przy czym napis z przodu może być odwrócony (lustrzany).
-Dziennik Ustaw – 2 – Poz. 1886 1b. Na pojeździe Policji o srebrnej barwie nadwozia, z wyjątkiem motocykla, dodatkowo można umieścić:
+1b. Na pojeździe Policji o srebrnej barwie nadwozia, z wyjątkiem motocykla, dodatkowo można umieścić:
 1) świetlny napis „POLICJA” barwy niebieskiej na białym tle na dachu pojazdu;
 2) oznaczenie rodzaju służby policyjnej;
 3) numer taktyczny;

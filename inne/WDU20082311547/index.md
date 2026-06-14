@@ -8,7 +8,7 @@ pos: 1547
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz o zmianie innych ustaw
@@ -29,7 +29,112 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539 oraz z 2006 r. Nr 157, poz. 1119) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 pkt 1 otrzymuje brzmienie: „1) zasady i warunki dokonywania oferty publicznej papierów wartościowych, prowadzenia subskrypcji lub sprzedaży tych papierów wartościowych oraz ubiegania się o dopuszczenie i wprowadzenie papierów wartościowych lub innych instrumentów finansowych do obrotu na rynku regulowanym;”;
+- **2)** w art. 2 pkt 2 i 3 otrzymują brzmienie: „2) bankowych papierów wartościowych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm. ) oraz innych papierów wartościowych o charakterze nieudziałowym, stanowiących potwierdzenie przyjęcia środków pieniężnych do depozytu i objętych systemem gwarantowania depozytów, emitowanych w sposób ciągły lub powtarzający się przez instytucję kredytową, które nie są podporządkowane, zamienne lub wymienne, nie inkorporują prawa do subskrybowania lub nabycia innego rodzaju papierów wartościowych oraz nie stanowią podstawy dla papierów wartościowych w rozumieniu art. 3 pkt 1 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119), zwanej dalej „ustawą o obrocie instrumentami finansowymi”;
+- **3)** papierów wartościowych będących instrumentami rynku pieniężnego w rozumieniu ustawy o obrocie instrumentami finansowymi;”;
+- **3)** w art. 3: 1546, z późn. zm. ).
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Publicznym proponowaniem nabycia papierów wartościowych jest proponowanie odpłatnego nabycia papierów wartościowych w dowolnej formie i w dowolny sposób, jeżeli propozycja jest skierowana do co najmniej 100 osób lub do nieoznaczonego adresata.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Ofertą publiczną jest udostępnianie, co najmniej 100 osobom lub nieoznaczonemu adresatowi, w dowolnej formie i w dowolny sposób, informacji o papierach wartościowych i warunkach dotyczących ich nabycia, stanowiących dostateczną podstawę do podjęcia decyzji o odpłatnym nabyciu tych papierów wartościowych.”,
+    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. Przedmiotem oferty publicznej dokonywanej na terytorium Rzeczypospolitej Polskiej nie mogą być papiery wartościowe emitowane przez instytucje wspólnego inwestowania typu otwartego, inne niż fundusze zagraniczne, o których mowa w art. 2 pkt 9 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz.
+
+5. W przypadku proponowania nabycia lub wydawania akcji przez ich emitenta skierowanego do co najmniej 100 osób lub do nieoznaczonego adresata, w dowolnej formie i w dowolny sposób, w celu realizacji uprawnień posiadaczy innych papierów wartościowych tego emitenta, przepisu ust. 2 nie stosuje się, jeżeli termin realizacji tych uprawnień przypada nie wcześniej niż po upływie 12 miesięcy od dnia dokonania przydziału tych innych papierów wartościowych lub gdy w związku z ofertą publiczną tych innych papierów wartościowych prospekt emisyjny był sporządzony, zatwierdzony i udostępniony do publicznej wiadomości.”;
+
+- **4)** w art. 4:
+    - **a)** pkt 3 otrzymuje brzmienie: „3) obrocie pierwotnym - rozumie się przez to dokonywanie oferty publicznej przez emitenta lub subemitenta usługowego, której przedmiotem są papiery wartościowe nowej emisji, oraz zbywanie lub nabywanie papierów wartościowych na podstawie takiej oferty;”,
+    - **b)** pkt 7 otrzymuje brzmienie: „7) wprowadzającym - rozumie się przez to właściciela papierów wartościowych dokonującego oferty publicznej;”,
+    - **c)** pkt 12 i 13 otrzymują brzmienie: „12) subemitencie inwestycyjnym - rozumie się przez to podmiot będący stroną zawartej z emitentem albo wprowadzającym umowy, w której podmiot ten zobowiązuje się do nabycia, na własny rachunek, całości lub części papierów wartościowych oferowanych w ofercie publicznej, na które nie złożono zapisów w terminie ich przyjmowania;
+
+- **13)** subemitencie usługowym - rozumie się przez to podmiot będący stroną zawartej z emitentem albo wprowadzającym umowy, w której podmiot ten zobowiązuje się do nabycia, na własny rachunek, całości lub części papierów wartościowych danej emisji, oferowanych wyłącznie temu podmiotowi, w celu dalszego ich zbywania w ofercie publicznej;”,
+    - **d)** w pkt 14 lit. b otrzymuje brzmienie: „b) jest uprawniony do powoływania lub odwoływania większości członków organów zarządzających lub nadzorczych innego podmiotu, lub,”,
+    - **e)** pkt 20 otrzymuje brzmienie: „20) spółce publicznej - rozumie się przez to spółkę, w której co najmniej jedna akcja jest zdematerializowana w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi, z wyjątkiem spółki, której akcje zostały zarejestrowane na podstawie art. 5a ust. 2 ustawy o obrocie instrumentami finansowymi;”,
+    - **f)** dodaje się pkt 26 i 27 w brzmieniu: „26) instytucji kredytowej - rozumie się przez to podmiot prowadzący we własnym imieniu i na własny rachunek, na podstawie zezwolenia właściwych władz nadzorczych, działalność polegającą na przyjmowaniu depozytów lub innych środków powierzonych pod jakimkolwiek tytułem zwrotnym i udzielaniu kredytów lub na wydawaniu pieniądza elektronicznego;
+
+- **27)** pośrednim nabyciu akcji - rozumie się przez to uzyskanie statusu podmiotu dominującego w spółce kapitałowej lub innej osobie prawnej posiadającej akcje spółki publicznej, lub w innej spółce kapitałowej lub osobie prawnej będącej wobec niej podmiotem dominującym oraz nabycie lub objęcie akcji spółki publicznej przez podmiot bezpośrednio lub pośrednio zależny.”;
+- **5)** po art. 4 dodaje się art. 4a w brzmieniu: „Art. 4a. O ile ustawa nie stanowi inaczej przez kwotę wyrażoną w euro należy rozumieć również równowartość tej kwoty wyrażoną w walucie polskiej, ustaloną przy zastosowaniu średniego kursu euro, lub jej równowartość wyrażoną w innej walucie, ustaloną przy zastosowaniu średniego kursu euro oraz średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski w dniu wskazanym w ustawie.”;
+- **6)** art. 5 otrzymuje brzmienie: „Art. 5. Objęcie papierów wartościowych w obrocie pierwotnym lub w ramach subskrypcji lub sprzedaży na podstawie pierwszej oferty publicznej uważa się za nabycie papierów wartościowych w rozumieniu przepisów ustawy.”;
+- **7)** w art. 7:
+    - **a)** w ust. 2: – zdanie wstępne otrzymuje brzmienie: „Sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego, z zastrzeżeniem art. 41 i 42, nie jest wymagane w przypadku oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym:”, – pkt 6 otrzymuje brzmienie: „6) papierów wartościowych o charakterze nieudziałowym, emitowanych w sposób ciągły lub powtarzający się w cyklach obejmujących co najmniej dwie emisje dokonywane w odstępie nie dłuższym niż 12 miesięcy przez instytucję kredytową, które nie są podporządkowane, zamienne lub wymienne, nie inkorporują prawa do subskrybowania lub nabycia innego rodzaju papierów wartościowych oraz nie stanowią podstawy dla papierów wartościowych w rozumieniu art. 3 pkt 1 lit. b ustawy o obrocie instrumentami finansowymi, jeżeli ich wartość, liczona według ceny emisyjnej, stanowi mniej niż 50 000 000 euro w dniu ustalenia tej ceny, z zastrzeżeniem ust. 2a;”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przepisu ust. 2 pkt 6 nie stosuje się do papierów wartościowych, których wartość liczona według ceny emisyjnej, wraz z papierami wartościowymi będącymi przedmiotem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym zgodnie z ust. 2 pkt 6 w okresie poprzednich 12 miesięcy, osiągnie lub przekroczy 50 000 000 euro w dniu ustalenia ceny emisyjnej tych papierów.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego, z zastrzeżeniem art. 38-40, nie jest wymagane w przypadku oferty publicznej:
+
+- **1)** kierowanej wyłącznie do inwestorów kwalifikowanych;
+- **2)** kierowanej wyłącznie do inwestorów, z których każdy nabywa papiery wartościowe o wartości, liczonej według ich ceny emisyjnej lub ceny sprzedaży, co najmniej 50 000 euro w dniu ustalenia tej ceny;
+- **3)** dotyczącej papierów wartościowych, których jednostkowa wartość nominalna wynosi nie mniej niż 50 000 euro w dniu ustalenia wartości nominalnej tych papierów wartościowych;
+- **4)** dotyczącej papierów wartościowych, których wartość, liczona według ich ceny emisyjnej lub ceny sprzedaży, stanowi mniej niż 100 000 euro w dniu ustalenia tej ceny, z zastrzeżeniem ust. 3a;
+- **5)** obejmującej wyłącznie:
+    - **a)** proponowanie nabycia lub wydawanie papierów wartościowych akcjonariuszom lub wspólnikom spółki przejmowanej lub wspólnikom podmiotu przejmowanego, w związku z przejmowaniem tej spółki lub podmiotu,
+    - **b)** proponowanie nabycia lub wydawanie papierów wartościowych akcjonariuszom lub wspólnikom spółki łączącej się z emitentem lub wspólnikom podmiotu łączącego się z emitentem, w związku z łączeniem się tej spółki lub podmiotu z emitentem,
+    - **c)** proponowanie nabycia lub wydawanie akcji bezpłatnie akcjonariuszom (ze środków spółki) albo jako wypłatę dywidendy z akcji, przy czym wydawane akcje są tego samego rodzaju co akcje, z których jest wypłacana dywidenda,
+    - **d)** proponowanie nabycia lub wydawanie papierów wartościowych emitenta, którego papiery wartościowe są dopuszczone do obrotu na rynku regulowanym, przez emitenta lub przez jednostkę powiązaną w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm. ), aktualnym lub byłym osobom zarządzającym lub pracownikom tego emitenta lub tej jednostki powiązanej,
+    - **e)** wydawanie akcji akcjonariuszom w związku z wymianą akcji istniejących, takiego samego rodzaju co akcje podlegające wymianie, jeżeli nie powoduje to podwyższenia kapitału zakładowego emitenta;
+
+- **6)** papierów wartościowych, których wartość, liczona według ceny emisyjnej lub ceny sprzedaży, stanowi mniej niż 2 500 000 euro w dniu ustalenia tej ceny, z zastrzeżeniem ust. 3b;”;
+    - **d)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Przepisu ust. 3 pkt 4 nie stosuje się do papierów wartościowych, których wartość liczona według ceny emisyjnej lub ceny sprzedaży, wraz z papierami wartościowymi będącymi przedmiotem oferty publicznej zgodnie z ust. 3 pkt 4 w okresie poprzednich 12 miesięcy, osiągnie lub przekroczy 100 000 euro w dniu ustalenia tej ceny.
+
+3b. Przepisu ust. 3 pkt 6 nie stosuje się do papierów wartościowych, których wartość liczona według ceny emisyjnej lub ceny sprzedaży, wraz z papierami wartościowymi będącymi przedmiotem oferty publicznej zgodnie z ust. 3 pkt 6 w okresie poprzednich 12 miesięcy, osiągnie lub przekroczy 2 500 000 euro w dniu ustalenia tej ceny.”;
+
+- **e)** ust. 4 otrzymuje brzmienie: „4. Sporządzanie, zatwierdzanie oraz udostępnianie do publicznej wiadomości prospektu emisyjnego, z zastrzeżeniem art. 38-40, nie jest wymagane w przypadku ubiegania się o dopuszczenie do obrotu na rynku regulowanym:
+- **1)** akcji, które stanowią mniej niż 10% wszystkich tego samego rodzaju akcji emitenta dopuszczonych do obrotu na tym samym rynku regulowanym, oraz praw do tych akcji i praw poboru tych akcji, z zastrzeżeniem ust. 4a;
+- **2)** akcji wydanych w związku z wymianą akcji istniejących, takiego samego rodzaju co akcje podlegające wymianie dopuszczone do obrotu na tym samym rynku regulowanym, jeżeli nie spowodowało to podwyższenia kapitału zakładowego emitenta, oraz praw do tych akcji;
+- **3)** akcji spółki, której inne akcje tego samego rodzaju są dopuszczone do obrotu na tym samym rynku regulowanym, jeżeli proponowanie nabycia lub wydanie tych akcji nastąpiło w celu realizacji uprawnień posiadaczy innych papierów wartościowych tej spółki, oraz praw do tych akcji;
+- **4)** papierów wartościowych będących przedmiotem propozycji nabycia kierowanej do akcjonariuszy lub wspólników spółki przejmowanej lub wspólników podmiotu przejmowanego, lub wydawanych akcjonariuszom lub wspólnikom spółki przejmowanej lub wspólnikom podmiotu przejmowanego, w związku z przejmowaniem tej spółki lub podmiotu, a w przypadku akcji również praw do tych akcji;
+- **5)** papierów wartościowych będących przedmiotem propozycji nabycia kierowanej do akcjonariuszy lub wspólników spółki łączącej się z emitentem lub wspólników podmiotu łączącego się z emitentem, lub wydawanych akcjonariuszom lub wspólnikom spółki łączącej się z emitentem lub wspólnikom podmiotu łączącego się z emitentem, w związku z łączeniem się tej spółki lub podmiotu z emitentem, a w przypadku akcji również praw do tych akcji;
+- **6)** akcji spółki, której inne akcje tego samego rodzaju są dopuszczone do obrotu na tym samym rynku regulowanym, a proponowanie ich nabycia lub wydanie nastąpiło bezpłatnie akcjonariuszom (ze środków spółki) albo jako wypłata dywidendy z akcji, przy czym wydane akcje są tego samego rodzaju co akcje, z których jest wypłacana dywidenda, oraz praw do tych akcji i praw poboru tych akcji;
+- **7)** papierów wartościowych tego samego rodzaju co inne papiery tego emitenta dopuszczone do obrotu na tym samym rynku regulowanym, które były przedmiotem propozycji nabycia lub były wydawane przez emitenta lub przez jednostkę powiązaną, aktualnym lub byłym osobom zarządzającym lub pracownikom emitenta lub tej jednostki powiązanej, a w przypadku akcji również praw do tych akcji i praw poboru tych akcji;
+- **8)** papierów wartościowych dopuszczonych do obrotu na innym rynku regulowanym, jeżeli:
+    - **a)** te papiery wartościowe lub tego samego rodzaju inne papiery wartościowe tego emitenta są od co najmniej 18 miesięcy dopuszczone do obrotu na tym innym rynku regulowanym, oraz
+    - **b)** uzyskanie po raz pierwszy dopuszczenia tych papierów wartościowych lub innych papierów wartościowych tego samego rodzaju do obrotu na tym innym rynku regulowanym, które nastąpiło po dniu 31 grudnia 2003 r., było poprzedzone zatwierdzeniem prospektu emisyjnego i udostępnieniem go do publicznej wiadomości na zasadach zgodnych z przepisami niniejszego rozdziału, oraz
+    - **c)** dokument informacyjny, udostępniony do publicznej wiadomości w związku z tym dopuszczeniem, które nastąpiło po dniu 1 lipca 1983 r. a do dnia 31 grudnia 2003 r., został sporządzony i zatwierdzony zgodnie z postanowieniami obowiązującego w tym okresie prawa Unii Europejskiej, o ile nie stosuje się przepisu lit. b, oraz
+    - **d)** emitent wypełnia obowiązki związane z dopuszczeniem do obrotu na tym innym rynku regulowanym;
+
+- **9)** papierów wartościowych emitowanych przez fundusze wpisane do rejestru, o którym mowa w art. 263 ustawy o funduszach inwestycyjnych.”,
+    - **f)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Przepisu ust. 4 pkt 1 nie stosuje się do akcji, które po ich dopuszczeniu do obrotu na danym rynku regulowanym będą stanowić lub przekroczą, łącznie z akcjami już dopuszczonymi do obrotu na tym rynku regulowanym zgodnie z ust. 4 pkt 1 w okresie poprzednich 12 miesięcy, 10% wszystkich tego samego rodzaju akcji emitenta dopuszczonych do obrotu na tym rynku regulowanym. Przepis ten stosuje się odpowiednio do praw do tych akcji i praw poboru tych akcji.”,
+    - **g)** uchyla się ust. 5;
+
+- **8)** w art. 8:
+    - **a)** w ust. 2 pkt 1 i 2 otrzymują brzmienie: „1) w okresie 12 kolejnych miesięcy poprzedzających datę złożenia wniosku o wpis do rejestru inwestorów kwalifikowanych zawarła, na własny rachunek, w obrocie zorganizowanym w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi lub w tożsamym z nim obrocie dokonywanym poza terytorium Rzeczypospolitej Polskiej, transakcje papierami wartościowymi w liczbie co najmniej 10 transakcji w każdym trzymiesięcznym okresie, każda o wartości co najmniej 50 000 euro w dniu poprzedzającym datę złożenia wniosku o wpis do rejestru inwestorów kwalifikowanych;
+
+- **2)** wartość jej portfela papierów wartościowych wynosi co najmniej 500 000 euro w dniu poprzedzającym datę złożenia wniosku o wpis do rejestru inwestorów kwalifikowanych;”,
+    - **b)** w ust. 3 pkt 2 i 3 otrzymują brzmienie: „2) suma aktywów bilansu nie przekracza 43 000 000 euro na dzień bilansowy sprawozdania finansowego;
+
+- **3)** przychody netto ze sprzedaży nie przekraczają 50.000.000 euro.”;
+- **9)** w art. 10:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Komisja prowadzi ewidencję:
+
+- **1)** papierów wartościowych będących przedmiotem oferty publicznej,
+- **2)** papierów wartościowych oraz instrumentów finansowych niebędących papierami wartościowymi, dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu - z wyłączeniem papierów wartościowych emitowanych przez Skarb Państwa i Narodowy Bank Polski.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Wpis do ewidencji dotyczący papierów wartościowych, które były przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej, z wyłączeniem wpisu dotyczącego papierów wartościowych emitowanych przez jednostki samorządu terytorialnego Rzeczypospolitej Polskiej, podlega opłacie, o której mowa w art. 94, zwanej dalej „opłatą ewidencyjną”, jeżeli te papiery wartościowe nie zostaną dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu w terminie 12 miesięcy od dnia zakończenia ich subskrypcji albo sprzedaży.”,
+    - **c)** w ust. 4 zdanie wstępne otrzymuje brzmienie: „Komisja dokonuje wpisu do ewidencji na podstawie zawiadomienia o:”,
+    - **d)** w ust. 5 zdanie wstępne otrzymuje brzmienie: „Do przekazania zawiadomienia, o którym mowa w ust. 4, obowiązany jest:”,
+    - **e)** ust. 6 otrzymuje brzmienie: „6. W terminie, o którym mowa w ust. 5, podmiot obowiązany do przekazania zawiadomienia uiszcza opłatę ewidencyjną albo składa oświadczenie, że papiery będące przedmiotem oferty publicznej zostaną objęte wnioskiem o ich dopuszczenie do obrotu na rynku regulowanym lub wprowadzenie do alternatywnego systemu obrotu. Dowód uiszczenia opłaty ewidencyjnej albo oświadczenie dołącza się do zawiadomienia.”,
+    - **f)** ust. 7 pkt 2 otrzymuje brzmienie: „2) wzór zawiadomienia, o którym mowa w ust. 4, uwzględniając konieczność zapewnienia podstawowych danych o instrumentach finansowych i trybie przeprowadzenia ich subskrypcji lub sprzedaży na podstawie oferty publicznej, dopuszczenia do obrotu na rynku regulowanym lub wprowadzenia do alternatywnego systemu obrotu;”;
+
+- **10)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Państwem macierzystym w rozumieniu przepisów niniejszego rozdziału jest państwo członkowskie, na terytorium którego emitent ma siedzibę, z zastrzeżeniem ust. 2 i 3.
+
+2. W przypadku papierów wartościowych o charakterze nieudziałowym:
+
+- **1)** których jednostkowa wartość nominalna wynosi nie mniej niż 1 000 euro w dniu ustalenia wartości nominalnej tych papierów wartościowych, nie później jednak niż w dniu złożenia do Komisji wniosku o zatwierdzenie prospektu emisyjnego,
+- **2)** uprawniających do nabycia innych papierów wartościowych albo wymiany na inne papiery wartościowe lub do rozliczenia pieniężnego w wyniku realizacji tego prawa w nich inkorporowanego, pod warunkiem że emitentem papierów wartościowych o charakterze nieudziałowym nie jest emitent papierów wartościowych nabywanych lub obejmowanych w wyniku realizacji tego prawa lub inny podmiot należący do jego grupy kapitałowej - państwem macierzystym jest państwo członkowskie będące miejscem siedziby emitenta papierów wartościowych o charakterze nieudziałowym albo państwo członkowskie, w którym te papiery są lub będą dopuszczone do obrotu na rynku regulowanym, albo państwo członkowskie, w którym będzie przeprowadzona oferta publiczna tych papierów - według wyboru ich emitenta albo wprowadzającego.
+
+3. W przypadku emitentów, których siedziba nie znajduje się na terytorium państwa członkowskiego, innych niż wskazani w ust. 2, państwem macierzystym jest państwo członkowskie, w którym będzie przeprowadzona oferta publiczna papierów wartościowych, albo państwo członkowskie, w którym te papiery będą dopuszczone do obrotu na rynku regulowanym - według wyboru, odpowiednio, ich emitenta, wprowadzającego albo innego podmiotu uprawnionego w danym państwie członkowskim do ubiegania się o takie dopuszczenie.
+
+4. W przypadku gdy wyboru, o którym mowa w ust. 3, dokonał podmiot uprawniony w danym państwie członkowskim do ubiegania się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym, inny niż ich emitent, emitent może postanowić, w związku z innymi papierami wartościowymi emitowanymi przez tego emitenta, o wskazaniu innego państwa członkowskiego jako państwa macierzystego.
+
+5. Państwem przyjmującym w rozumieniu niniejszego rozdziału jest państwo członkowskie, inne niż państwo macierzyste, w którym jest przeprowadzana oferta publiczna lub w którym emitent lub podmiot uprawniony w danym państwie członkowskim do ubiegania się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym, inny niż ich emitent, ubiega się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym.”;
+
+- **11)** po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. Wniosek o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym składa ich emitent.”;
+- **12)** art. 12 i 13 otrzymują brzmienie: „Art. 12. Dematerializacja papierów wartościowych:
+- **1)** będących przedmiotem oferty publicznej,
+- **2)** niebędących przedmiotem oferty publicznej, które mają podlegać dopuszczeniu do obrotu na rynku regulowanym lub wprowadzeniu do alternatywnego systemu obrotu - następuje w trybie i na warunkach określonych w art. 5 ust. 1-4 ustawy o obrocie instrumentami finansowymi.
+
 **Art. 13.** W przypadku gdy instrumenty finansowe niebędące papierami wartościowymi mają być przedmiotem dopuszczenia do obrotu na rynku regulowanym, podlegają rejestracji w trybie i na warunkach określonych w art. 5 ust. 5 ustawy o obrocie instrumentami finansowymi.”;
+
+- **13)** art. 16-19 otrzymują brzmienie: „Art. 16. 1. W przypadku naruszenia lub uzasadnionego podejrzenia naruszenia przepisów prawa w związku z ofertą publiczną, subskrypcją lub sprzedażą, dokonywanymi na podstawie tej oferty, na terytorium Rzeczypospolitej Polskiej, przez emitenta, wprowadzającego lub inne podmioty uczestniczące w tej ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie emitenta lub wprowadzającego albo uzasadnionego podejrzenia, że takie naruszenie może nastąpić, Komisja, z zastrzeżeniem art. 19, może:
+- **1)** nakazać wstrzymanie rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży albo przerwanie jej przebiegu, na okres nie dłuższy niż 10 dni roboczych, lub
+- **2)** zakazać rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży albo dalszego jej prowadzenia, lub
+- **3)** opublikować, na koszt emitenta lub wprowadzającego, informację o niezgodnym z prawem działaniu w związku z ofertą publiczną, subskrypcją lub sprzedażą.
+
+2. W związku z daną ofertą publiczną, subskrypcją lub sprzedażą, Komisja może wielokrotnie zastosować środek przewidziany w ust. 1 pkt 2 i 3.
 
 **Art. 17.**
 
@@ -139,6 +244,12 @@ source: "isap-pdf"
 
 **Art. 38b.** W przypadku gdy aneks, o którym mowa w art. 38a, jest udostępniany zainteresowanym inwestorom po rozpoczęciu subskrypcji lub sprzedaży, osoba, która złożyła zapis przed udostępnieniem aneksu może uchylić się od skutków prawnych złożonego zapisu. Uchylenie się od skutków prawnych zapisu następuje przez oświadczenie na piśmie złożone w jednym z punktów obsługi klienta firmy inwestycyjnej oferującej dane papiery wartościowe, w terminie 2 dni roboczych od dnia udostępnienia aneksu. Prawo uchylenia się od skutków prawnych złożonego zapisu nie dotyczy przypadków, gdy aneks jest udostępniany w związku z błędami w treści memorandum informacyjnego, o których emitent lub wprowadzający powziął wiadomość po dokonaniu przydziału papierów wartościowych, lub czynnikami, które zaistniały lub o których emitent lub wprowadzający powziął wiadomość po dokonaniu przydziału papierów wartościowych. Emitent lub wprowadzający mo że dokonać przydziału papierów wartościowych nie wcześniej niż po upływie terminu do uchylenia się przez inwestora od skutków prawnych złożonego zapisu.”;
 
+- **30)** art. 39 i 40 otrzymują brzmienie: „Art. 39. 1. W przypadkach, o których mowa w art. 7 ust. 3 pkt 5 lit. c i d oraz ust. 4 pkt 6-8, emitent lub wprowadzający udostępnia do wiadomości zainteresowanych inwestorów memorandum informacyjne sporządzone w formie jednolitego dokumentu, którego zakres określają przepisy wydane na podstawie art. 55 pkt 1.
+
+2. Przepisy art. 22, art. 48 w zakresie zamieszczania w memorandum informacyjnym informacji przez odesłanie, art. 50 oraz art. 53 stosuje się odpowiednio.
+
+3. Wymóg sporządzenia oraz udostępnienia memorandum informacyjnego nie ma zastosowania w przypadku oferty publicznej spełniającej przynajmniej jedną z przesłanek, o których mowa w art. 7 ust. 3 pkt 1-4 oraz w art. 7 ust. 3 pkt 5 lit. e, oraz w przypadku ubiegania się o dopuszczenie do obrotu na rynku regulowanym papierów wartościowych spełniających przesłankę, o której mowa w art. 7 ust. 4 pkt 1 lub 2.
+
 **Art. 40.**
 
 1. Memorandum informacyjne, o którym mowa w art. 38 i art. 39, sporządza się w języku polskim.
@@ -177,6 +288,33 @@ source: "isap-pdf"
 4. Obowiązek przekazania informacji w formie aneksu do memorandum informacyjnego nie wyłącza obowiązku, o którym mowa w art. 56 ust. 1.
 
 **Art. 42b.** W przypadku gdy aneks, o którym mowa w art. 42a, jest udostępniany do publicznej wiadomości po rozpoczęciu subskrypcji lub sprzedaży, osoba, która złożyła zapis przed udostępnieniem aneksu, może uchylić się od skutków prawnych złożonego zapisu. Uchylenie się od skutków prawnych zapisu następuje przez oświadczenie na piśmie złożone w jednym z punktów obsługi klienta firmy inwestycyjnej oferującej dane papiery wartościowe, w terminie 2 dni roboczych od dnia udostępnienia aneksu. Prawo uchylenia się od skutków prawnych złożonego zapisu nie dotyczy przypadków, gdy aneks jest udostępniany w związku z błędami w treści memorandum informacyjnego, o których emitent lub wprowadzający powziął wiadomość po dokonaniu przydziału papierów wartościowych, lub czynnikami, które zaistniały lub o których emitent lub wprowadzający powziął wiadomość po dokonaniu przydziału papierów wartościowych. Emitent lub wprowadzający może dokonać przydziału papierów wartościowych nie wcześniej niż po upływie terminu do uchylenia się przez inwestora od skutków prawnych złożonego zapisu.”;
+
+- **34)** uchyla się art. 43;
+- **35)** w art. 44:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku, o którym mowa w art. 41 pkt 2, dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym wymaga sporządzenia, zatwierdzenia przez Komisję oraz udostępnienia do publicznej wiadomości warunków obrotu, zawierających informacje w zakresie określonym w przepisach wydanych na podstawie art. 55 pkt 2.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Podmiotem odpowiedzialnym za prawdziwość, rzetelność i kompletność informacji zamieszczonych w warunkach obrotu jest:
+
+- **1)** podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym - za wszystkie informacje;
+- **2)** osoba sporządzająca informację - za informację, którą sporządziła.”;
+- **36)** tytuł oddziału 4 otrzymuje brzmienie: „Udostępnianie informacji o papierach wartościowych w związku z ofertą publiczną, subskrypcją lub sprzedażą na podstawie tej oferty lub ubieganiem się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym”;
+- **37)** w art. 45 ust. 1 i 2 otrzymują brzmienie: „1. Niezwłocznie po zatwierdzeniu prospektu emisyjnego emitent lub wprowadzający przekazuje jego ostateczną wersję do Komisji oraz udostępnia prospekt emisyjny do publicznej wiadomości.
+
+2. Emitent lub wprowadzający jest obowiązany, z zastrzeżeniem ust. 3, udostępnić do publicznej wiadomości prospekt emisyjny w terminie umożliwiającym inwestorom zapoznanie się z jego treścią, nie później niż przed rozpoczęciem subskrypcji lub sprzedaży papierów wartościowych nim objętych, jeżeli papiery wartościowe są przedmiotem oferty publicznej, albo w dniu dopuszczenia papierów do obrotu na rynku regulowanym, jeżeli papiery wartościowe nie były uprzednio przedmiotem oferty publicznej.”;
+
+- **38)** w art. 46 ust. 2 otrzymuje brzmienie: „2. W przypadku papierów wartościowych o charakterze nieudziałowym, będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym, których jednostkowa wartość nominalna wynosi nie mniej niż 50 000 euro w dniu ustalenia wartości nominalnej tych papierów wartościowych, prospekt emisyjny udostępniany do publicznej wiadomości powinien być sporządzony w języku uzgodnionym przez Komisję z właściwymi organami nadzoru państw członkowskich, w których nastąpi to ubieganie się, lub w języku angielskim, według wyboru emitenta lub wprowadzającego. W takim przypadku emitent lub wprowadzający ma obowiązek udostępnić do publicznej wiadomości, łącznie z prospektem emisyjnym, dokument podsumowujący lub podsumowanie będące częścią prospektu emisyjnego sporządzonego w formie jednolitego dokumentu, sporządzone w języku polskim.”;
+- **39)** w art. 47:
+    - **a)** w ust. 1: – pkt 2 i 3 otrzymują brzmienie: „2) w postaci drukowanej, bezpłatnie, w siedzibie spółki prowadzącej rynek regulowany, na którym papiery wartościowe mają być dopuszczone do obrotu, lub w siedzibie emitenta, a także w siedzibie i punktach obsługi klienta firmy inwestycyjnej oferującej papiery wartościowe objęte prospektem emisyjnym, w nakładzie zapewniającym dostępność prospektu emisyjnego dla osób zainteresowanych oraz sprawne przeprowadzenie subskrypcji lub sprzedaży papierów wartościowych, lub dopuszczenia do obrotu na rynku regulowanym;
+
+- **3)** w postaci elektronicznej w sieci Internet na stronie emitenta oraz firmy inwestycyjnej oferującej papiery wartościowe objęte prospektem emisyjnym;”, – dodaje się pkt 5 w brzmieniu: „5) w postaci elektronicznej w sieci Internet na stronie organu nadzoru państwa macierzystego emitenta - w przypadku emitentów, dla których Rzeczpospolita Polska jest państwem przyjmującym.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Nie później niż w dniu roboczym poprzedzającym dzień udostępnienia prospektu emisyjnego do publicznej wiadomości emitent lub wprowadzający przekazuje do Komisji informację o formie i terminie jego udostępnienia.”;
+
+- **40)** w art. 49 ust. 1 i 2 otrzymują brzmienie: „1. Termin ważności prospektu emisyjnego wynosi 12 miesięcy od dnia jego udostępnienia po raz pierwszy do publicznej wiadomości, nie dłużej jednak niż do dnia:
+- **1)** przydziału papierów wartościowych, ogłoszenia o niedojściu subskrypcji lub sprzedaży do skutku, ogłoszenia o odstąpieniu przez emitenta lub wprowadzającego od przeprowadzenia subskrypcji lub sprzedaży albo o odwołaniu subskrypcji lub sprzedaży - w przypadku gdy papiery wartościowe będące przedmiotem oferty publicznej nie będą podlegać dopuszczeniu do obrotu na rynku regulowanym, albo
+- **2)** dopuszczenia papierów wartościowych, których dotyczy prospekt emisyjny, do obrotu na rynku regulowanym.
+
+2. Termin ważności dokumentu rejestracyjnego wynosi 12 miesięcy od dnia jego zatwierdzenia.”;
+
+- **41)** art. 50 i art. 51 otrzymują brzmienie: „Art. 50. Wszelkie informacje dotyczące publicznej oferty lub dopuszczenia do obrotu na rynku regulowanym, udostępniane w dowolny sposób i formie, przez emitenta, wprowadzającego lub inne podmioty działające w imieniu lub na zlecenie emitenta lub wprowadzającego nie mogą być sprzeczne z treścią informacji zawartych w prospekcie emisyjnym.
 
 **Art. 51.**
 
@@ -235,6 +373,21 @@ source: "isap-pdf"
 
 **Art. 55b.** Emitentem, w przypadku kwitów depozytowych wyemitowanych na podstawie umowy z emitentem papierów wartościowych będących podstawą wyemitowania kwitów depozytowych, jest w rozumieniu przepisów niniejszego rozdziału emitent papierów wartościowych będących podstawą wyemitowania tych kwitów.”;
 
+- **47)** w art. 56:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Emitent papierów wartościowych dopuszczonych do obrotu na rynku regulowanym jest obowiązany, z zastrzeżeniem ust. 6, do równoczesnego przekazywania Komisji, spółce prowadzącej ten rynek regulowany oraz do publicznej wiadomości:
+
+- **1)** informacji poufnych, w rozumieniu art. 154 ustawy o obrocie instrumentami finansowymi, zwanych dalej "informacjami poufnymi";
+- **2)** informacji bieżących i okresowych:
+    - **a)** zgodnie z przepisami wydanymi na podstawie art. 60 ust. 2 - w przypadku emitentów papierów wartościowych dopuszczonych do obrotu na rynku oficjalnych notowań giełdowych w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi lub na rynku regulowanym innego niż Rzeczpospolita Polska państwa członkowskiego, albo
+    - **b)** zgodnie z postanowieniami regulaminów, o których mowa w art. 61 - w przypadku emitentów papierów wartościowych dopuszczonych wyłącznie do obrotu na rynku giełdowym niebędącym rynkiem oficjalnych notowań giełdowych lub obrotu na rynku pozagiełdowym.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Komisja gromadzi informacje, o których mowa w ust. 1, oraz zapewnia powszechny i stały dostęp do tych informacji, przy uwzględnieniu konieczności zagwarantowania bezpieczeństwa informacji oraz pewności źródła informacji.”,
+    - **c)** uchyla się ust. 4,
+    - **d)** dodaje się ust. 6 i 7 w brzmieniu: „6. W przypadku emitenta, o którym mowa w ust. 1, dla którego Rzeczpospolita Polska jest państwem przyjmującym, zakres informacji przekazywanych zgodnie z ust. 1 oraz terminy ich przekazywania określają przepisy państwa macierzystego.
+
+7. Emitent, dla którego Rzeczpospolita Polska jest państwem macierzystym, którego papiery wartościowe nie są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej oraz są dopuszczone do obrotu na rynku regulowanym wyłącznie w jednym państwie przyjmującym, przekazuje Komisji informacje, o których mowa w ust. 1. Przekazanie tych informacji do publicznej wiadomości następuje na zasadach określonych w przepisach państwa przyjmującego.”;
+
+- **48)** po art. 56 dodaje się art. 56a-56c w brzmieniu: „Art. 56a. Emitent papierów wartościowych, dla którego Rzeczpospolita Polska jest państwem przyjmującym, sporządza informacje, o których mowa w art. 56 ust. 1, według wyboru emitenta, w językach wymaganych przez państwa przyjmujące, w tym w języku polskim, albo w języku angielskim, z zastrzeżeniem art. 56c.
+
 **Art. 56b.**
 
 1. W przypadku gdy papiery wartościowe emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym, są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, informacje, o których mowa w art. 56 ust. 1, sporządza się w języku polskim, z zastrzeżeniem art. 56c.
@@ -244,6 +397,12 @@ source: "isap-pdf"
 3. W przypadku gdy papiery wartościowe emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym, nie są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, informacje, o których mowa w art. 56 ust. 1, sporządza się, według wyboru emitenta, w językach wymaganych przez państwa przyjmujące albo w języku angielskim oraz, według wyboru emitenta, w języku polskim albo w języku angielskim, z zastrzeżeniem art. 56c.
 
 **Art. 56c.** W przypadku papierów wartościowych denominowanych w euro o jednostkowej wartości nominalnej wynoszącej w dniu emisji co najmniej 50 000 euro lub w przypadku papierów wartościowych o charakterze nieudziałowym denominowanych w walucie innej niż euro, o jednostkowej wartości nominalnej stanowiącej w dniu emisji równowartość co najmniej 50 000 euro, informacje, o których mowa w art. 56 ust. 1, sporządza się, według wyboru emitenta, w języku wymaganym przez państwo macierzyste oraz w językach wymaganych przez państwa przyjmujące albo w języku angielskim.”;
+
+- **49)** art. 58 i art. 59 otrzymują brzmienie: „Art. 58. 1. Emitent ma obowiązek przekazywania do publicznej wiadomości informacji, o których mowa w art. 56 ust. 1 i art. 70 pkt 1 i 3, za pośrednictwem jednej lub więcej osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, wskazanej w drodze decyzji Komisji, zwanej dalej "agencją informacyjną".
+
+2. Agencja informacyjna zapewnia powszechny dostęp do informacji, o których mowa w art. 56 ust. 1 i art. 70 pkt 1 i 3, niezwłocznie po ich otrzymaniu od emitenta.
+
+3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, kryteria, jakie muszą spełniać podmioty ubiegające się o status agencji informacyjnej, z uwzględnieniem konieczności zapewnienia tym podmiotom możliwości należytego wykonywania obowiązku, o którym mowa w art. 58 ust. 2 przy zachowaniu przez te podmioty poufności uzyskanych informacji, nie zwiększając w istotnym stopniu kosztów uczestnictwa emitentów w rynku kapitałowym.
 
 **Art. 59.**
 
@@ -524,11 +683,65 @@ source: "isap-pdf"
 
 **Art. 96b.** W przypadku gdy zarząd spółki publicznej nie wykonuje obowiązku, o którym mowa w art. 80 ust. 1, Komisja może nałożyć osobno na każdą z osób wchodzących w skład zarządu tej spółki karę pieniężną do wysokości 100 000 zł.”;
 
+- **82)** w art. 97 w ust. 1:
+    - **a)** pkt 5 otrzymuje brzmienie: „5) nie ogłasza wezwania lub nie przeprowadza w terminie wezwania albo nie wykonuje w terminie obowiązku zbycia akcji w przypadkach, o których mowa w art. 73 ust. 2 lub 3,”,
+    - **b)** po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „5a) nie ogłasza wezwania lub nie przeprowadza w terminie wezwania w przypadkach, o których mowa w art. 74 ust. 2 lub 5, 5b) nie ogłasza wezwania lub nie przeprowadza w terminie wezwania, w przypadku, o którym mowa w art. 90a ust. 1,”,
+    - **c)** uchyla się pkt 6,
+    - **d)** po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) bezpośrednio lub pośrednio nabywa lub obejmuje akcje z naruszeniem art. 77 ust. 4 pkt 1 lub 3 albo art. 88a,”,
+    - **e)** po pkt 10 dodaje się pkt 10a i 10b w brzmieniu: „10a) dokonuje przymusowego wykupu niezgodnie z zasadami, o których mowa w art. 82, 10b) nie czyni zadość żądaniu, o którym mowa w art. 83,”,
+    - **f)** po pkt 11 dodaje się pkt 11a w brzmieniu: „11a) nie wykonuje obowiązku, o którym mowa w art. 90a ust. 3,”,
+    - **g)** pkt 12 otrzymuje brzmienie: „12) dopuszcza się czynu określonego w pkt 1-11a, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej,”;
+
+- **83)** w art. 98:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Podmiot odpowiedzialny za prawdziwość, rzetelność i kompletność informacji zamieszczonych w prospekcie emisyjnym, memorandum informacyjnym oraz innych dokumentach sporządzanych i udostępnianych w związku z ofertą publiczną dotyczącą papierów wartościowych, dopuszczeniem papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym lub ubieganiem się o takie dopuszczenie, obowiązany jest do naprawienia szkody wyrządzonej przez udostępnienie do publicznej wiadomości nierzetelnej, nieprawdziwej lub niekompletnej informacji lub przemilczenie informacji, chyba że ani on, ani osoby, za które odpowiada, nie ponoszą winy, z zastrzeżeniem ust. 2.
+
+2. Podmiot, który sporządził podsumowanie lub jego tłumaczenie, ponosi odpowiedzialność jedynie za szkodę wyrządzoną w przypadku, gdy podsumowanie lub tłumaczenie wprowadza w błąd, jest niedokładne lub sprzeczne z innymi częściami prospektu emisyjnego.”,
+
+- **b)** uchyla się ust. 3 i 4,
+- **c)** ust. 5-8 otrzymują brzmienie: „5. Odpowiedzialność, o której mowa w ust. 1 i 2, ponoszą również osoby, które wykorzystują w swojej działalności w zakresie obrotu instrumentami finansowymi informacje wskazane w tych przepisach, chyba że nieprawdziwość lub przemilczenie informacji nie była i nie mogła być im znana.
+
+6. Odpowiedzialność podmiotów określonych w ust. 1, 2 i 5 jest solidarna i nie można jej ograniczyć lub wyłączyć. Nie wyłącza to możliwości zawarcia umowy określającej wzajemne zobowiązania tych podmiotów z tytułu tej odpowiedzialności.
+
+7. Emitent oraz podmiot, który sporządził lub brał udział w sporządzeniu informacji, o których mowa w art. 56 ust. 1, jest obowiązany do naprawienia szkody wyrządzonej przez udostępnienie do publicznej wiadomości nieprawdziwej informacji lub przemilczenie informacji, chyba że ani on, ani osoby, za które odpowiada, nie ponoszą winy.
+
+8. Emitent kwitów depozytowych oraz podmiot, który sporządził lub brał udział w sporządzeniu informacji, o których mowa w art. 59, jest obowiązany do naprawienia szkody wyrządzonej przez udostępnienie do publicznej wiadomości nieprawdziwej informacji lub przemilczenie informacji, chyba że ani on, ani osoby, za które odpowiada, nie ponoszą winy.”,
+
+- **d)** dodaje się ust. 9 w brzmieniu: „9. Podmioty, o których mowa w ust. 1, 2 i 5-8, powinny przy wykonywaniu swoich obowiązków dołożyć staranności wynikającej z zawodowego charakteru swojej działalności.”;
+- **84)** w art. 99:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Kto publicznie proponuje nabycie papierów wartościowych bez wymaganego ustawą:
+
+- **1)** zatwierdzenia prospektu emisyjnego lub memorandum informacyjnego albo stwierdzenia równoważności informacji w memorandum informacyjnym z informacjami wymaganymi w prospekcie emisyjnym lub
+- **2)** udostępnienia prospektu emisyjnego lub memorandum informacyjnego do publicznej wiadomości lub wiadomości zainteresowanych inwestorów - podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Tej samej karze podlega, kto proponuje publicznie nabycie papierów wartościowych w inny sposób niż w drodze oferty publicznej.”,
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Kto dopuszcza się czynu określonego w ust. 1 lub 2, działając w imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”,
+    - **d)** ust. 3 otrzymuje brzmienie: „3. W przypadku mniejszej wagi sprawca czynu określonego w ust. 1-2a podlega grzywnie do 250 000 zł.”;
+
+- **85)** w art. 100 ust. 1 otrzymuje brzmienie: „1. Kto, będąc odpowiedzialnym za informacje zawarte w prospekcie emisyjnym lub innych dokumentach informacyjnych albo inne informacje związane z ofertą publiczną lub dopuszczeniem lub ubieganiem się o dopuszczenie papierów wartościowych lub innych instrumentów finansowych do obrotu na rynku regulowanym, albo informacje, o których mowa w art. 38a ust. 1, art. 42a ust. 1, art. 51 ust. 1 i art. 56 ust. 1, podaje nieprawdziwe lub zataja prawdziwe dane, w istotny sposób wpływające na treść informacji, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 5, albo obu tym karom łącznie.”;
+- **86)** art. 103 otrzymuje brzmienie: „Art. 103. Kto, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, wbrew obowiązkowi, o którym mowa w art. 38a ust. 1, art. 42a ust. 1 i art. 51 ust. 1, nie przekazuje aneksu do prospektu emisyjnego lub memorandum informacyjnego, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”;
+- **87)** art. 104 otrzymuje brzmienie: „Art. 104. Kto, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, wbrew obowiązkowi, o którym mowa w art. 38a ust. 3, art. 42a ust. 3 i art. 51 ust. 5, nie udostępnia do publicznej wiadomości aneksu do prospektu emisyjnego lub memorandum informacyjnego, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”;
+- **88)** art. 129 otrzymuje brzmienie: „Art. 129. W okresie siedmiu lat od dnia wejścia w życie niniejszej ustawy sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego nie jest wymagane w przypadku ofert publicznych prowadzonych przez Skarb Państwa:
+- **1)** dotyczących nabycia co najmniej 10% akcji danej spółki przez jednego nabywcę lub
+- **2)** dotyczących nabycia przez jednego nabywcę akcji w spółce, w której udział Skarbu Państwa stanowi mniej niż 10% kapitału zakładowego – dokonywanych w procesie prywatyzacji prowadzonym na podstawie odrębnych przepisów.”.
+
 **Art. 2.** W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) w art. 911 dodaje się § 4 w brzmieniu: „§ 4. Do sprzedaży w drodze licytacji papierów wartościowych, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538 oraz z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119), nie stosuje się przepisu art. 7 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539 oraz z 2006 r. Nr 157, poz. 1119) oraz art. 19 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.”.
 
 **Art. 3.** W ustawie z dnia 29 czerwca 1995 r. o obligacjach (Dz. U. z 2001 r. Nr 120, poz. 1300, z późn. zm. ) w art. 33 pkt 1 otrzymuje brzmienie: „1) przekazywania bankowi-reprezentantowi informacji bieżących i okresowych:
 
+- **a)** na zasadach określonych w ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych - w przypadku obligacji, którymi obrót dokonuje się w ramach zorganizowanego systemu obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
+- **b)** na zasadach określonych w warunkach emisji, zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm. ) - w przypadku obligacji innych niż określone w lit. a,”.
+
 **Art. 4.** W ustawie z dnia 15 września 2000 r. - Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 431:
+    - **a)** po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Powzięcie przez walne zgromadzenie spółki publicznej uchwały w sprawie podwyższenia kapitału zakładowego przewidującej objęcie nowych akcji w drodze subskrypcji prywatnej lub subskrypcji otwartej przez oznaczonego adresata, wymaga obecności akcjonariuszy reprezentujących co najmniej jedną trzecią kapitału zakładowego. Jeżeli walne zgromadzenie, zwołane w celu powzięcia tej uchwały, nie odbyło się z powodu braku tego kworum, można zwołać kolejne walne zgromadzenie, podczas którego uchwała może być powzięta bez względu na liczbę akcjonariuszy obecnych na zgromadzeniu, chyba że statut stanowi inaczej.”,
+    - **b)** § 4 otrzymuje brzmienie: „§ 4. Uchwała o podwyższeniu kapitału zakładowego nie może być zgłoszona do sądu rejestrowego po upływie sześciu miesięcy od dnia jej powzięcia, a w przypadku akcji nowej emisji będących przedmiotem oferty publicznej objętej prospektem emisyjnym albo memorandum informacyjnym, na podstawie przepisów o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych - po upływie dwunastu miesięcy od dnia odpowiednio zatwierdzenia prospektu emisyjnego albo memorandum informacyjnego, albo stwierdzenia równoważności informacji zawartych w memorandum informacyjnym z informacjami wymaganymi w prospekcie emisyjnym, oraz nie później niż po upływie jednego miesiąca od dnia przydziału akcji, przy czym wniosek o zatwierdzenie prospektu albo memorandum informacyjnego albo wniosek o stwierdzenie równoważności informacji zawartych w memorandum informacyjnym z informacjami wymaganymi w prospekcie emisyjnym nie mogą zostać złożone po upływie czterech miesięcy od dnia powzięcia uchwały o podwyższeniu kapitału zakładowego.”;
+
+- **2)** w art. 432:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Uchwała o podwyższeniu kapitału zakładowego powinna wskazywać także dzień, według którego określa się akcjonariuszy, którym przysługuje prawo poboru nowych akcji (dzień prawa poboru), jeżeli nie zostali oni tego prawa pozbawieni w całości. Dzień prawa poboru nie może być ustalony później niż z upływem trzech miesięcy, licząc od dnia powzięcia uchwały, a w przypadku spółki publicznej - sześciu miesięcy od dnia powzięcia uchwały.”,
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. Uchwała o podwyższeniu kapitału zakładowego w przypadku akcji nowej emisji będących przedmiotem oferty publicznej objętej prospektem emisyjnym albo zatwierdzanym memorandum informacyjnym może zawierać upoważnienie zarządu albo rady nadzorczej do określenia ostatecznej sumy, o jaką kapitał zakładowy ma być podwyższony, przy czym tak określona suma nie może być niższa niż określona przez walne zgromadzenie suma minimalna ani wyższa niż określona przez walne zgromadzenie suma maksymalna tego podwyższenia.”;
+
+- **3)** w art. 436 § 1 otrzymuje brzmienie: „§ 1. Wykonanie prawa poboru akcji w ramach oferty publicznej następuje w jednym terminie, wskazanym w prospekcie emisyjnym albo memorandum informacyjnym, a w razie nieistnienia obowiązku sporządzenia tych dokumentów - w ogłoszeniu, o którym mowa w art. 434 § 1. Jednakże wskazany w prospekcie emisyjnym lub memorandum informacyjnym termin, do którego akcjonariusze mogą wykonywać prawo poboru akcji, nie może być krótszy niż dwa tygodnie od dnia udostępnienia do publicznej wiadomości odpowiednio tego prospektu emisyjnego albo memorandum informacyjnego.”;
+- **4)** w art. 455 § 5 otrzymuje brzmienie: „§ 5. Uchwała o obniżeniu kapitału zakładowego nie może być zgłoszona do sądu rejestrowego po upływie sześciu miesięcy od dnia jej powzięcia, a w przypadku gdy równocześnie z obniżeniem kapitału zakładowego następuje jego podwyższenie co najmniej do pierwotnej wysokości w drodze nowej emisji akcji od dnia ustalonego zgodnie z art. 431 § 4.”.
 
 **Art. 5.**
 

@@ -8,7 +8,7 @@ pos: 2201
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 89/A/2016 WYROK z dnia 8 listopada 2016 r.

@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych*
 
 Łącznie: **47** orzeczeń
-(pominięto 54 orzeczeń sądów rejonowych)
+(pominięto 61 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

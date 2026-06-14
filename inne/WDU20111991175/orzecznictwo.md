@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatniczych*
 
-Łącznie: **177** orzeczeń
-(pominięto 225 orzeczeń sądów rejonowych)
+Łącznie: **180** orzeczeń
+(pominięto 231 orzeczeń sądów rejonowych)
 
 ## art. 2 (9)
 
@@ -211,7 +211,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 
 - 2020-06-23 | SO | [VII U 4831/19](https://www.saos.org.pl/judgments/448205) | Wyrok
 
-## art. 40 (20)
+## art. 40 (21)
 
 - 2023-06-30 | SO | [I ACa 785/22](https://www.saos.org.pl/judgments/494583) | Wyrok
 - 2023-04-19 | SO | [I AGa 292/21](https://www.saos.org.pl/judgments/495017) | Wyrok
@@ -221,6 +221,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2019-05-22 | SO | [III AUa 1682/18](https://www.saos.org.pl/judgments/457993) | Wyrok
 - 2019-04-05 | SO | [I AGa 176/18](https://www.saos.org.pl/judgments/390063) | Wyrok
 - 2018-08-30 | SO | [VI ACa 509/17](https://www.saos.org.pl/judgments/369076) | Wyrok
+- 2024-12-12 | SO | [I C 209/23](https://www.saos.org.pl/judgments/545158) | Wyrok
 - 2024-12-11 | SO | [II Ca 2269/23](https://www.saos.org.pl/judgments/521692) | Wyrok
 - 2024-06-26 | SO | [I C 356/23](https://www.saos.org.pl/judgments/529596) | Wyrok
 - 2023-02-28 | SO | [VIII C 217/22](https://www.saos.org.pl/judgments/512433) | Wyrok
@@ -243,7 +244,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2021-07-22 | SO | [IV U 423/21](https://www.saos.org.pl/judgments/467050) | Wyrok
 - 2020-11-19 | SO | [IV U 351/20](https://www.saos.org.pl/judgments/466902) | Wyrok
 
-## art. 42 (49)
+## art. 42 (51)
 
 - 2024-03-26 | SO | [I ACa 568/22](https://www.saos.org.pl/judgments/521106) | Wyrok
 - 2023-04-19 | SO | [I AGa 292/21](https://www.saos.org.pl/judgments/495017) | Wyrok
@@ -259,6 +260,8 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2017-03-10 | SO | [I ACa 1174/16](https://www.saos.org.pl/judgments/282093) | Wyrok
 - 2013-10-01 | SO | [III AUa 2434/12](https://www.saos.org.pl/judgments/24484) | Wyrok
 - 2012-10-23 | SO | [VI ACa 552/12](https://www.saos.org.pl/judgments/6935) | Wyrok
+- 2025-12-19 | SO | [I C 235/24](https://www.saos.org.pl/judgments/545161) | Wyrok
+- 2024-12-12 | SO | [I C 209/23](https://www.saos.org.pl/judgments/545158) | Wyrok
 - 2024-12-11 | SO | [II Ca 2269/23](https://www.saos.org.pl/judgments/521692) | Wyrok
 - 2024-06-26 | SO | [I C 356/23](https://www.saos.org.pl/judgments/529596) | Wyrok
 - 2023-02-28 | SO | [VIII C 217/22](https://www.saos.org.pl/judgments/512433) | Wyrok
@@ -295,13 +298,14 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2016-01-27 | SO | [I C 1908/14](https://www.saos.org.pl/judgments/202556) | Uzasadnienie
 - 2016-01-15 | SO | [I C 307/15](https://www.saos.org.pl/judgments/202606) | Uzasadnienie
 
-## art. 43 (17)
+## art. 43 (18)
 
 - 2020-01-17 | SO | [I ACa 1511/18](https://www.saos.org.pl/judgments/428302) | Wyrok
 - 2019-04-05 | SO | [I AGa 176/18](https://www.saos.org.pl/judgments/390063) | Wyrok
 - 2018-08-30 | SO | [VI ACa 509/17](https://www.saos.org.pl/judgments/369076) | Wyrok
 - 2018-07-19 | SO | [I ACa 348/17](https://www.saos.org.pl/judgments/352864) | Wyrok
 - 2012-10-23 | SO | [VI ACa 552/12](https://www.saos.org.pl/judgments/6935) | Wyrok
+- 2025-12-19 | SO | [I C 235/24](https://www.saos.org.pl/judgments/545161) | Wyrok
 - 2023-02-28 | SO | [VIII C 217/22](https://www.saos.org.pl/judgments/512433) | Wyrok
 - 2023-02-08 | SO | [VIII C 191/22](https://www.saos.org.pl/judgments/512423) | Wyrok
 - 2022-05-25 | SO | [II C 1313/21](https://www.saos.org.pl/judgments/467408) | Wyrok
@@ -315,13 +319,14 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2016-01-27 | SO | [I C 1908/14](https://www.saos.org.pl/judgments/202556) | Uzasadnienie
 - 2016-01-15 | SO | [I C 307/15](https://www.saos.org.pl/judgments/202606) | Uzasadnienie
 
-## art. 44 (12)
+## art. 44 (13)
 
 - 2021-10-08 | SO | [VII AGa 228/20](https://www.saos.org.pl/judgments/469676) | Wyrok
 - 2018-05-24 | SO | [VI ACa 217/17](https://www.saos.org.pl/judgments/363986) | Wyrok
 - 2017-10-24 | SO | [V ACa 669/16](https://www.saos.org.pl/judgments/334311) | Wyrok
 - 2013-10-31 | SO | [VI ACa 1075/13](https://www.saos.org.pl/judgments/36026) | Wyrok
 - 2024-12-11 | SO | [II Ca 2269/23](https://www.saos.org.pl/judgments/521692) | Wyrok
+- 2024-09-25 | SO | [I C 313/23](https://www.saos.org.pl/judgments/545178) | Wyrok
 - 2023-02-28 | SO | [VIII C 217/22](https://www.saos.org.pl/judgments/512433) | Wyrok
 - 2023-02-08 | SO | [VIII C 191/22](https://www.saos.org.pl/judgments/512423) | Wyrok
 - 2022-05-25 | SO | [II C 1313/21](https://www.saos.org.pl/judgments/467408) | Wyrok
@@ -377,7 +382,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2016-01-27 | SO | [I C 1908/14](https://www.saos.org.pl/judgments/202556) | Uzasadnienie
 - 2016-01-15 | SO | [I C 307/15](https://www.saos.org.pl/judgments/202606) | Uzasadnienie
 
-## art. 46 (55)
+## art. 46 (57)
 
 - 2025-07-09 | SO | [I ACa 2151/22](https://www.saos.org.pl/judgments/537531) | Wyrok
 - 2024-07-25 | SO | [I ACa 1638/23](https://www.saos.org.pl/judgments/541801) | Wyrok
@@ -399,7 +404,9 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2018-07-19 | SO | [I ACa 348/17](https://www.saos.org.pl/judgments/352864) | Wyrok
 - 2018-05-24 | SO | [VI ACa 217/17](https://www.saos.org.pl/judgments/363986) | Wyrok
 - 2017-03-10 | SO | [I ACa 1174/16](https://www.saos.org.pl/judgments/282093) | Wyrok
+- 2024-12-12 | SO | [I C 209/23](https://www.saos.org.pl/judgments/545158) | Wyrok
 - 2024-12-11 | SO | [II Ca 2269/23](https://www.saos.org.pl/judgments/521692) | Wyrok
+- 2024-09-25 | SO | [I C 313/23](https://www.saos.org.pl/judgments/545178) | Wyrok
 - 2024-06-26 | SO | [I C 356/23](https://www.saos.org.pl/judgments/529596) | Wyrok
 - 2023-02-28 | SO | [VIII C 217/22](https://www.saos.org.pl/judgments/512433) | Wyrok
 - 2023-02-08 | SO | [VIII C 191/22](https://www.saos.org.pl/judgments/512423) | Wyrok

@@ -1,0 +1,314 @@
+---
+title: Rozporządzenie Ministra Zdrowia z dnia 12 lipca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej
+address: WDU20180001383
+eli: DU/2018/1383
+publisher: DU
+year: 2018
+pos: 1383
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1383 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 lipca 2018 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 1383 |
+| ISAP | WDU20180001383 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2018-07-12 |
+| Data wydania | 2018-07-18 |
+| Ostatnia zmiana | 2025-03-18 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001383) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1383/text.pdf) |
+
+zmieniające rozporządzenie w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 148 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 5 sierpnia 2016 r. w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1372, z późn. zm. ) wprowadza się następujące zmiany:
+1) załącznik nr 5 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
+2) w załączniku nr 7 do rozporządzenia w tabeli nr 1 – „LECZENIE STOMATOLOGICZNE” część 2 „Przedmiot postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży” otrzymuje brzmienie:
+2. Przedmiot postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży 1 2 3 4 5 6 Liczba Lp. Kryterium Kategoria Oceniany warunek Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz dentysta specjalista w dziedzinie stomatolo- 14 Jedna gii dziecięcej – 100% czasu pracy poradni. odpowiedź do wyboru
+1.2. Lekarz dentysta specjalista w dziedzinie stomatologii 12 dziecięcej – co najmniej 75% czasu pracy poradni.
+1.3. Lekarz dentysta specjalista w dziedzinie stomatologii 10 dziecięcej – co najmniej 50% czasu pracy poradni.
+1.4. Lekarz dentysta z co najmniej 10-letnim stażem pra- 10 Jedna cy z dziećmi – 100% czasu pracy poradni. odpowiedź do wyboru
+1.5. Lekarz dentysta z co najmniej 5-letnim stażem pracy 8 z dziećmi – 100% czasu pracy poradni.
+1.6. Pozostały personel, o którym mowa w § 2 pkt 4 lit. c 6 Jedna lub d rozporządzenia stomatologicznego – 100% odpowiedź czasu pracy poradni. do wyboru Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
+Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r.
+poz. 107, 138, 650, 697, 730, 771, 858, 912, 932, 1115 i 1128.
+Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 1555, z 2017 r. poz. 498, 852, 1279, 2364 i 2484 oraz z 2018 r. poz. 385.
+1.7. Pozostały personel, o którym mowa w § 2 pkt 4 lit. c 4 lub d rozporządzenia stomatologicznego – co najmniej 75% czasu pracy poradni.
+1.8. Pozostały personel, o którym mowa w § 2 pkt 4 lit. b 5 rozporządzenia stomatologicznego – 100% czasu pracy poradni.
+1.9. Pozostały personel, o którym mowa w § 2 pkt 4 lit. b 4 rozporządzenia stomatologicznego – co najmniej 75% czasu pracy poradni.
+2. S przęt 2.1. Endometr – w miejscu udzielania świadczeń. 2 i aparatura
+2.2. Aparat RTG do zdjęć wewnątrzustnych – w miejscu 2 Jedna medyczna udzielania świadczeń. odpowiedź do wyboru
+2.3. Cyfrowy aparat RTG do zdjęć wewnątrzustnych – 3 w miejscu udzielania świadczeń.
+3. R ealizacja 3.1. Wykonywanie w ciągu ostatnich 12 miesięcy poprze- 3 wybranych dzających o 2 miesiące miesiąc, w którym ogłoszoświadczeń no postępowanie, następujących procedur (ICD-9):
+1) 23.1105 postępowanie przy obnażeniu i skaleczeniu miazgi – bezpośrednie pokrycie miazgi;
+2) 23.1203 amputacja przyżyciowa miazgi w zębie z nieuformowanym korzeniem;
+3) 23.1205 ekstyrpacja przyżyciowa miazgi w zębie z nieuformowanym korzeniem;
+4) 23.1206 ekstyrpacja przyżyciowa miazgi;
+5) 23.1208 ekstyrpacja zdewitalizowanej miazgi zęba z nieuformowanym korzeniem.
+3.2. Leczenie w ciągu ostatnich 12 miesięcy poprzedza- 3 jących o 2 miesiące miesiąc, w którym ogłoszono postępowanie, świadczeniobiorców z rozpoznaniami (ICD-10):
+1) K00.4 zaburzenia rozwoju zęba;
+2) K00.6 zaburzenia w wyrzynaniu się zębów;
+3) K03.8 inne określone choroby tkanek twardych zębów;
+4) K04 choroby miazgi i tkanek około wierzchołkowych;
+5) S00.5 powierzchowny uraz wargi i jamy ustnej;
+6) S03.2 zwichnięcie zęba.
+II. Kompleksowość 1. S posób 1.1. Realizacja umowy w zakresie świadczenia orto- 7 wykonania doncji dla dzieci i młodzieży.
+umowy
+1.2. Realizacja świadczeń zdrowotnych będących przed- 2 miotem umowy bez udziału podwykonawców, z wyłączeniem prac techników dentystycznych oraz badań histopatologicznych.
+III. Dostępność 1. O rganizacja 1.1. Realizacja świadczeń w poradni: 6 godzin dziennie 2 udzielania przez 5 dni w tygodniu, w tym 2 dni do godziny 18.
+świadczeń
+1.2. Realizacja świadczeń w poradni w każdą sobotę 1 przez co najmniej 6 godzin.
+1.3. Lokalizacja gabinetu stomatologicznego w szkole, 12 szkole specjalnej lub innej placówce specjalnej.
+IV. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksyw załączniku nr 17 do rozporządzenia. malnie 10
+§ 2. Do postępowań w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym.
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Zdrowia: wz. J. Szczurek-Żelazko Załącznik do rozporządzenia Ministra Zdrowia „Załącznik nr 5 WYKAZ SZCZEGÓŁOWYCH KRYTERIÓW WYBORU OFERT WRAZ Z WYZNACZAJĄCYMI WYKAZ JE WARUNKAMI SZCZEGÓŁOWYCH ORAZ KRYTERIÓW PRZYPISANĄ WYBORU IM WARTOŚCIĄ OFERT WRAZ Z W WYZNACZAJĄCYMI RODZAJU REHABILITACJA JE WARUNKAMI ORAZ PRZYPISANĄ IM WARTOŚCIĄ LECZNICZA W RODZAJU REHABILITACJA LECZNICZA Tabela nr 1 – REHABILITACJA LECZNICZA
+1. Przedmiot postępowania: Lekarska ambulatoryjna opieka rehabilitacyjna 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie rehabilitacji w 54 Jedna chorobach narządu ruchu lub rehabilitacji odpowiedź do ogólnej, lub rehabilitacji, lub rehabilitacji wyboru medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej – równoważnik co najmniej 1 etatu.
+1.2. Lekarz specjalista w dziedzinie rehabilitacji w 40 chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej – równoważnik co najmniej ½ etatu.
+1.3. Lekarz specjalista w dziedzinie rehabilitacji w 25 chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej – równoważnik co najmniej ¼ etatu.
+II. Kompleksowość 1. Sposób 1.1. Oferent realizuje na podstawie umowy proces 15 wykonania leczenia świadczeniobiorców w ramach umowy zakresu fizjoterapia ambulatoryjna.
+III. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+2. Przedmiot postępowania: Fizjoterapia ambulatoryjna 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Magister fizjoterapii z co najmniej 5-letnim 12 doświadczeniem jako fizjoterapeuta – równoważnik co najmniej ½ etatu.
+1.2. Specjalista w dziedzinie fizjoterapii – 8 równoważnik co najmniej ¼ etatu.
+1
+1.3. Technik masażysta – równoważnik co 4 najmniej 1 etatu
+1.4. Zapewnienie konsultacji lekarza specjalisty w 4 dziedzinie rehabilitacji medycznej.
+2. Sprzęt i 2.1. Urządzenie wytwarzające impulsowe pole 3 aparatura elektromagnetyczne wysokiej częstotliwości – medyczna lub w miejscu udzielania świadczeń.
+pomieszczenia 2.2. Wanny do masażu wirowego kończyn górnych 3 i kończyn dolnych – w miejscu udzielania świadczeń.
+2.3. Zestaw do kriostymulacji parami azotu – w 3 miejscu udzielania świadczeń.
+2.4. Sala gimnastyczna stanowiąca odrębne 3 pomieszczenie – w miejscu udzielania świadczeń.
+2.5. Kriokomora – w lokalizacji. 5
+2.6. Przebieralnia dla świadczeniobiorców 2 stanowiąca odrębne pomieszczenie – w miejscu udzielania świadczeń.
+3. Pozostałe 3.1. W jednostce jest prowadzone szkolenie 4 warunki specjalizacyjne fizjoterapeutów przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie fizjoterapii.
+II. Kompleksowość 1. Sposób 1.1. Oferent realizuje na podstawie umowy proces 3 wykonania leczenia świadczeniobiorców w zakresie umowy lekarskiej ambulatoryjnej opieki rehabilitacyjnej – w lokalizacji.
+1.2. Oferent realizuje na podstawie umowy proces 3 leczenia świadczeniobiorców w zakresie rehabilitacji ogólnoustrojowej w ośrodku lub oddziale dziennym – w lokalizacji.
+1.3. Oferent realizuje na podstawie umowy proces 3 leczenia świadczeniobiorców w zakresie rehabilitacji ogólnoustrojowej w warunkach stacjonarnych – w lokalizacji.
+1.4. Wykonanie w okresie ostatnich 12 miesięcy 4 poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, co najmniej 10% świadczeń w warunkach domowych w ramach zakresu fizjoterapia ambulatoryjna.
+III. Dostępność 1. Dostępność – 1.1. Czas pracy zakładu – co najmniej 5 dni w 5 harmonogram tygodniu, co najmniej 10 godzin dziennie, w czasu pracy tym co najmniej 2 razy w tygodniu w godzinach popołudniowych między godziną
+14.00 a 21.00.
+IV. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+3. Przedmiot postępowania: Fizjoterapia domowa 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Magister fizjoterapii – co najmniej 50% 21 zatrudnionych fizjoterapeutów.
+1.2. Specjalista w dziedzinie fizjoterapii – 26 równoważnik co najmniej ½ etatu.
+1.3. Technik masażysta – równoważnik co 5 najmniej 1 etatu.
+1.4. Zapewnienie konsultacji lekarza specjalisty w 5 dziedzinie rehabilitacji medycznej.
+2. Sprzęt i 2.1. Przenośny stół do terapii – co najmniej 1 2 Jedna aparatura sztuka. odpowiedź do medyczna/ 2.2. Przenośny stół do terapii – co najmniej 2 3 wyboru pomieszczenia sztuki.
+II. Dostępność 1. Dostępność – 1.1. Czas pracy zespołu rehabilitacji domowej – co 3 harmonogram najmniej 5 dni w tygodniu, co najmniej 10 pracy godzin dziennie bez przerwy, w tym co najmniej 2 razy w tygodniu w godzinach popołudniowych między godziną 14.00 a
+21.00.
+III. Kompleksowość 1. Sposób 1.1. Oferent realizuje na podstawie umowy proces 3 wykonania leczenia świadczeniobiorców w ramach umowy rehabilitacji w ośrodku lub oddziale dziennym – w lokalizacji.
+1.2. Oferent realizuje na podstawie umowy proces 3 leczenia świadczeniobiorców w ramach rehabilitacji stacjonarnej – w lokalizacji.
+IV. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+4. Przedmiot postępowania: Rehabilitacja ogólnoustrojowa w ośrodku lub oddziale dziennym 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie rehabilitacji w 8 chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej, lub ortopedii, lub neurologii – równoważnik co najmniej ½ etatu.
+1.2. Magister fizjoterapii z co najmniej 5-letnim 4 doświadczeniem jako fizjoterapeuta – równoważnik co najmniej ½ etatu.
+1.3. Fizjoterapeuta – równoważnik co najmniej 2 4 etatów.
+1.4. Lekarz specjalista w dziedzinie ortopedii i 4 traumatologii narządu ruchu, lub lekarz specjalista w dziedzinie neurologii lub lekarz specjalista w dziedzinie reumatologii lub lekarz specjalista w dziedzinie pediatrii – w miejscu udzielania świadczeń.
+1.5. Specjalista psychologii klinicznej lub 4 psycholog – równoważnik co najmniej ¼ etatu.
+1.6. Specjalista w dziedzinie fizjoterapii – 4 równoważnik co najmniej ¼ etatu.
+1.7. Technik masażysta – równoważnik co 2 najmniej ¼ etatu.
+1.8. Dietetyk – dostęp do konsultacji – w 2 lokalizacji.
+1.9. Terapeuta zajęciowy – równoważnik co 2 najmniej ¼ etatu.
+1.10. Logopeda, o którym mowa w lp. 3 lit. b ust. 1 1 pkt 8 załącznika nr 1 do rozporządzenia Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej (Dz. U. z 2018 r. poz. 465), zwany dalej „logopedą w rehabilitacji”, posiadający tytuł specjalisty w dziedzinie neurologopedii lub ukończone studia podyplomowe w zakresie neurologopedii – równoważnik co najmniej ¼ etatu.
+2. Sprzęt i 2.1. Sala gimnastyczna stanowiąca odrębne 2 aparatura pomieszczenie – w miejscu udzielania medyczna/ świadczeń.
+pomieszczenia 2.2. Urządzenie wytwarzające impulsowe pole 1 elektromagnetyczne wysokiej częstotliwości – w lokalizacji.
+2.3. Wanny do masażu wirowego kończyn 1 górnych i kończyn dolnych – w lokalizacji.
+2.4. Zestaw do kriostymulacji parami azotu – w 1 miejscu udzielania świadczeń.
+2.5. Aparat do przerywanej kompresji 1 pneumatycznej jedno- lub wielokomorowy – w miejscu udzielania świadczeń.
+2.6. Stół lub łóżko do manualnego drenażu 1 limfatycznego bez kompresji lub z kompresją – w miejscu udzielania świadczeń.
+2.7. Basen rehabilitacyjny – na jedną osobę 5 korzystającą z basenu przypada co najmniej 4 m² lustra wody w basenie, dla osób dorosłych niecka basenowa jest napełniona wodą na głębokość od 0,7 m do 1,35 m, a dla dzieci od 0,6 m do 0,75 m, zwany dalej „basenem rehabilitacyjnym” – w lokalizacji.
+2.8. Kriokomora ogólnoustrojowa – w lokalizacji. 3
+3. Pozostałe 3.1. W jednostce jest prowadzone szkolenie 2 warunki specjalizacyjne fizjoterapeutów przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie fizjoterapii.
+II. Dostępność 1. Dostępność – 1.1. Czas pracy ośrodka lub oddziału dziennego – 2 harmonogram co najmniej 5 dni w tygodniu, co najmniej 10 pracy godzin dziennie, w tym co najmniej 2 razy w tygodniu w godzinach popołudniowych między godziną 14.00 a 21.00.
+III. Kompleksowość 1. Sposób 1.1. Oferent realizuje na podstawie umowy proces wykonania leczenia świadczeniobiorców w zakresie 3 umowy fizjoterapii ambulatoryjnej – w lokalizacji.
+1.2. Oferent realizuje na podstawie umowy proces 3 leczenia świadczeniobiorców w zakresie rehabilitacji ogólnoustrojowej w warunkach stacjonarnych – w lokalizacji
+1.3. Oferent realizuje świadczenia na rzecz 3 pacjentów z obrzękiem limfatycznym.
+1.4. Oferent zapewnia w lokalizacji co najmniej 2 3 poradnie: rehabilitacyjną, urazowo-ortopedyczną, neurologii, reumatologiczną, wad postawy lub endokrynologii i diabetologii dziecięcej.
+1.5. Oferent zapewnia w lokalizacji co najmniej 3 jeden z oddziałów: oddział urazowo-ortopedyczny, chirurgiczny, neurochirurgiczny, neurologiczny, geriatryczny, reumatologiczny, chorób wewnętrznych, onkologiczny, urologiczny, pediatrii, endokrynologii dziecięcej, diabetologii dziecięcej, kardiologiczny, pulmonologiczny lub ginekologii.
+IV. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+5.Przedmiot postępowania: Rehabilitacja dzieci z zaburzeniami wieku rozwojowego w ośrodku lub oddziale dziennym 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie rehabilitacji w 9 chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej, lub neurologii, lub neurologii dziecięcej – równoważnik co najmniej ½ etatu.
+1.2. Fizjoterapeuta posiadający udokumentowane, 9 co najmniej 3-letnie doświadczenie w zakresie metod usprawniania dzieci z zaburzeniami rozwojowymi oraz wczesnej diagnostyki i terapii neurorozwojowej – równoważnik co najmniej 1 etatu.
+1.3. Fizjoterapeuta – równoważnik co najmniej ½ 4 etatu.
+1.4. Logopeda w rehabilitacji posiadający tytuł 6 Jedna specjalisty w dziedzinie neurologopedii lub odpowiedź do ukończone studia podyplomowe w zakresie wyboru neurologopedii – równoważnik co najmniej 1 etatu.
+1.5. Logopeda w rehabilitacji posiadający tytuł 3 specjalisty w dziedzinie neurologopedii lub ukończone studia podyplomowe w zakresie neurologopedii – równoważnik co najmniej ½ etatu.
+1.6. Specjalista w dziedzinie fizjoterapii – 3 równoważnik co najmniej ¼ etatu.
+1.7. Terapeuta zajęciowy lub magister pedagogiki 1 Jedna specjalnej, lub oligofrenopedagog – odpowiedź do równoważnik co najmniej ¼ etatu. wyboru
+1.8. Terapeuta zajęciowy lub magister pedagogiki 2 specjalnej, lub oligofrenopedagog – równoważnik co najmniej ½ etatu.
+2. Sprzęt i 2.1. Wanny do masażu podwodnego lub wirowego 2 aparatura kończyn górnych i kończyn dolnych – w medyczna/ lokalizacji.
+pomieszczenia 2.2. Zestaw do biostymulacji laserowej – w 2 lokalizacji.
+2.3. Sala do kinezyterapii stanowiąca odrębne 2 pomieszczenie – w miejscu udzielania świadczeń.
+2.4. Basen rehabilitacyjny – w lokalizacji. 2
+3. Realizacja 3.1. W okresie ostatnich 12 miesięcy 5 wybranych poprzedzających o 2 miesiące miesiąc, w świadczeń którym ogłoszono postępowanie, oferent zrealizował co najmniej 30% świadczeń na opieki rzecz świadczeniobiorców z porażeniem i zdrowotnej niedowładem będącym skutkiem uszkodzenia układu nerwowego o różnej etiologii, z rozpoznaniami (ICD10): A80-A98; C70-C72;
+D32; D33; D42; D43; G09; G10-G13; G20-G21, G35-G37; G54; G55; G59; G60-G83; I60-I69;
+Q05-Q07; Q90; S14; S24; S34; S44; S54; S74;
+S84.
+3.2. W okresie ostatnich 12 miesięcy 5 poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, oferent realizował co najmniej 20% świadczeń na rzecz świadczeniobiorców z upośledzeniem umysłowym z rozpoznaniami (ICD10): F82, F84, P05-P08, P10-P15, P20-P21.
+3.3. W okresie ostatnich 12 miesięcy 5 poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, oferent realizował świadczenia na rzecz świadczeniobiorców w wieku 0-3 lat z rozpoznaniem (ICD10): R62.
+4. Pozostałe 4.1. W jednostce jest prowadzone szkolenie 2 warunki specjalizacyjne fizjoterapeutów przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie fizjoterapii.
+4.2. W okresie ostatnich 12 miesięcy 4 poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, oferent wykonał ponad 5% świadczeń na rzecz świadczeniobiorców posiadających zaświadczenie wydane zgodnie z ustawą z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. poz. 1860 oraz z 2018 r. poz. 1076).
+4.3. Lokalizacja ośrodka lub oddziału dziennego na 6 terenie szkoły specjalnej lub innej placówki specjalnej.
+II. Dostępność 1. Dostępność – 1.1. Czas pracy ośrodka lub oddziału dziennego – 4 Jedna harmonogram co najmniej 5 dni w tygodniu, co najmniej 10 odpowiedź do pracy godzin dziennie, w tym co najmniej 2 razy w wyboru tygodniu w godzinach popołudniowych między godziną 14.00 a 21.00.
+1.2. Czas pracy ośrodka lub oddziału dziennego – 2 co najmniej 5 dni w tygodniu, co najmniej 7 godzin i 35 minut dziennie bez przerwy, w tym co najmniej 2 razy w tygodniu w godzinach popołudniowych między godziną 14.00 a
+21.00.
+III. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+6.Przedmiot postępowania: Rehabilitacja osób z dysfunkcją narządu słuchu i mowy 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Logopeda w rehabilitacji posiadający tytuł 18 specjalisty w dziedzinie surdologopedii lub studia podyplomowe w zakresie surdologopedii lub logopeda posiadający udokumentowane co najmniej 5-letnie doświadczenie w pracy z osobami z dysfunkcją narządu słuchu i mowy – równoważnik co najmniej 1 etatu.
+1.2. Specjalista psychologii klinicznej posiadający 18 3-letni staż pracy z dziećmi z uszkodzeniem narządu słuchu lub psycholog kliniczny posiadający udokumentowane co najmniej 5-letnie doświadczenie w pracy z osobami z dysfunkcją narządu słuchu i mowy – równoważnik co najmniej 1 etatu.
+2. Sprzęt i 2.1. Stanowisko komputerowe i licencjonowane 5 aparatura informatyczne programy specjalistyczne – w medyczna/ miejscu udzielania świadczeń.
+pomieszczenia II. Dostępność 1. Dostępność – 1.1. Czas pracy ośrodka lub oddziału dziennego – 10 Jedna harmonogram co najmniej 5 dni w tygodniu, co najmniej 10 odpowiedź do czasu pracy godzin dziennie, w tym co najmniej 2 razy w wyboru tygodniu w godzinach popołudniowych między godziną 14.00 a 21.00.
+1.2. Czas pracy ośrodka lub oddziału dziennego – 6 co najmniej 5 dni w tygodniu, co najmniej 7 godzin i 35 minut dziennie bez przerwy, w tym co najmniej 2 razy w tygodniu w godzinach popołudniowych między godziną 14.00 a
+21.00.
+III. Kompleksowość 1. Sposób 1.1. Zapewnienie konsultacji – lekarz specjalista w 6 wykonania dziedzinie otorynolaryngologii oraz audiologii umowy i foniatrii – w miejscu udzielania świadczeń.
+1.2. Zapewnienie konsultacji – lekarza specjalisty 6 w dziedzinie rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej – w miejscu udzielania świadczeń.
+1.3. Zapewnienie dostępu do badań ABR 6 (AuditoryBrainstemResponse – słuchowa odpowiedź pnia mózgu).
+IV. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+7. Przedmiot postępowania: Rehabilitacja osób z dysfunkcją narządu wzroku 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Specjalista psychologii klinicznej z co najmniej 25 3-letnim stażem pracy z pacjentami z dysfunkcją narządu wzroku – równoważnik co najmniej 1 etatu.
+1.2. Terapeuta widzenia lub instruktor orientacji 18 przestrzennej lub inny terapeuta z co najmniej 3-letnim stażem pracy z pacjentami z dysfunkcją narządu wzroku – równoważnik co najmniej 2 etatów.
+1.3. Ortoptysta – równoważnik co najmniej ¼ 8 etatu.
+II. Dostępność 1. Dostępność – 1.1. Czas pracy ośrodka lub oddziału dziennego – 8 Jedna harmonogram co najmniej 5 dni w tygodniu, co najmniej 10 odpowiedź do czasu pracy godzin dziennie, w tym co najmniej 2 razy w wyboru tygodniu w godzinach popołudniowych między godziną 14.00 a 21.00.
+1.2. Czas pracy ośrodka lub oddziału dziennego – 4 co najmniej 5 dni w tygodniu, co najmniej 7 godzin i 35 minut dziennie bez przerwy, w tym co najmniej 2 razy w tygodniu w godzinach popołudniowych między godziną 14.00 a
+21.00.
+III. Kompleksowość 1. Dostęp do 1.1. Zapewnienie konsultacji – lekarz specjalista w 6 badań i dziedzinie okulistyki.
+zabiegów 1.2. Zapewnienie konsultacji – lekarza specjalisty w dziedzinie rehabilitacji w chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej.
+IV. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+8. Przedmiot postępowania: Rehabilitacja kardiologiczna lub kardiologiczna telerehabilitacja hybrydowa w ośrodku lub oddziale dziennym 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie rehabilitacji w 12 chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej – równoważnik co najmniej ½ etatu.
+1.2. Lekarz specjalista w dziedzinie kardiologii – 12 równoważnik co najmniej ½ etatu.
+1.3. Magister fizjoterapii z co najmniej 5-letnim 4 doświadczeniem jako fizjoterapeuta – równoważnik co najmniej ½ etatu.
+1.4. Specjalista psychologii klinicznej – 4 równoważnik co najmniej ½ etatu.
+1.5. Fizjoterapeuta – równoważnik co najmniej 2 4 etatów.
+1.6. Psycholog – równoważnik co najmniej 1 etatu. 4
+1.7. Specjalista w dziedzinie fizjoterapii – 6 równoważnik co najmniej ½ etatu.
+1.8. Dietetyk – dostęp do konsultacji – w 1 lokalizacji.
+2. Sprzęt i 2.1. Sala kinezyterapii stanowiąca odrębne 2 aparatura pomieszczenie – w miejscu udzielania medyczna świadczeń.
+2.2. Zestaw ergo-spirometryczny – w lokalizacji. 1
+3. Pozostałe 3.1. W jednostce jest prowadzone szkolenie 2 warunki specjalizacyjne fizjoterapeutów przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie fizjoterapii.
+II. Dostępność 1. Dostępność – 1.1. Czas pracy ośrodka lub oddziału dziennego – 6 Jedna harmonogram co najmniej 5 dni w tygodniu, co najmniej 10 odpowiedź do pracy godzin dziennie, w tym co najmniej 2 razy w wyboru tygodniu w godzinach popołudniowych między godziną 14.00 a 21.00.
+1.2. Czas pracy ośrodka lub oddziału dziennego – 4 co najmniej 5 dni w tygodniu, co najmniej 7 godzin i 35 minut dziennie bez przerwy, w tym co najmniej 2 razy w tygodniu w godzinach popołudniowych między godziną 14.00 a
+21.00.
+III. Kompleksowość 1. Sposób 1.1. Oferent realizuje na podstawie umowy proces wykonania leczenia świadczeniobiorców w zakresie 3 umowy fizjoterapii ambulatoryjnej – w lokalizacji.
+1.2. Oferent realizuje na podstawie umowy proces 3 leczenia świadczeniobiorców w zakresie rehabilitacji kardiologicznej w warunkach stacjonarnych – w lokalizacji.
+1.3. Oferent zapewnia w lokalizacji co najmniej 2 3 poradnie: rehabilitacyjną, urazowo-ortopedyczną, neurologii, reumatologiczną, kardiologiczną lub endokrynologii i diabetologii dziecięcej.
+1.4. Zapewnienie konsultacji przez lekarza 2 specjalistę w dziedzinie kardiologii przez cały czas realizacji świadczeń.
+IV. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+9. Przedmiot postępowania: Rehabilitacja pulmonologiczna z wykorzystaniem metod subterraneoterapii w ośrodku lub oddziale dziennym 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie rehabilitacji w 20 chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej – równoważnik co najmniej ½ etatu.
+1.2. Specjalista w dziedzinie fizjoterapii – 10 równoważnik co najmniej ½ etatu.
+1.3. Fizjoterapeuta – równoważnik co najmniej 1 6 etatu.
+1.4. Dietetyk – dostęp do konsultacji – w lokalizacji. 4
+2. Sprzęt i 2.1. Uniwersalny Gabinet Usprawniania 3 aparatura Leczniczego (UGUL) lub inny system medyczna lub spełniający jego rolę – w lokalizacji.
+pomieszczenia 2.2. Sala do ćwiczeń z możliwością treningu 3 oporowego i bieżnia treningowa – w miejscu udzielania świadczeń.
+2.3. Sala gimnastyczna stanowiąca odrębne 3 pomieszczenie – w miejscu udzielania świadczeń.
+2.4. Gabinet do inhalacji stanowiący odrębne 2 pomieszczenie – w miejscu udzielania świadczeń.
+II. Dostępność 1. Dostępność – 1.1. Czas pracy ośrodka lub oddziału dziennego – 8 Jedna harmonogram co najmniej 5 dni w tygodniu, co najmniej 10 odpowiedź do czasu pracy godzin dziennie, w tym co najmniej 2 razy w wyboru tygodniu w godzinach popołudniowych między godziną 14.00 a 21.00.
+1.2. Czas pracy ośrodka lub oddziału dziennego – 5 co najmniej 5 dni w tygodniu, co najmniej 7 godzin i 35 minut dziennie bez przerwy, w tym co najmniej 2 razy w tygodniu w godzinach popołudniowych między godziną 14.00 a
+21.00.
+III. Kompleksowość 1. Dostęp do 1.1. Zapewnienie konsultacji lekarza specjalisty w 5 badań i dziedzinie chorób płuc.
+zabiegów 1.2. Zapewnienie konsultacji lekarza specjalisty w 5 dziedzinie kardiologii lub chorób wewnętrznych.
+IV. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+10. Przedmiot postępowania: Rehabilitacja ogólnoustrojowa w warunkach stacjonarnych 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie rehabilitacji w 10 chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej – równoważnik co najmniej 1 etatu na 15 łóżek.
+1.2. Zespół lekarzy specjalistów w dziedzinie: 6 chorób wewnętrznych – równoważnik co najmniej ¼ etatu, ortopedii i traumatologii narządu ruchu – równoważnik co najmniej ¼ etatu, neurologii – równoważnik co najmniej ¼ etatu oraz kardiologii lub chorób płuc, lub lekarza specjalisty w dziedzinie reumatologii lub lekarza specjalisty w dziedzinie pediatrii – w łącznym wymiarze równoważnika co najmniej ¼ etatu.
+1.3. Magister fizjoterapii z co najmniej 5-letnim 4 doświadczeniem jako fizjoterapeuta – równoważnik co najmniej ½ etatu na każde kolejne 25 łóżek.
+1.4. Fizjoterapeuta – równoważnik co najmniej 1 4 etatu na 10 łóżek, w tym równoważnik co najmniej 1 etatu magistra fizjoterapii.
+1.5. Specjalista w dziedzinie fizjoterapii – 6 równoważnik co najmniej 1 etatu.
+1.6. Technik masażysta – równoważnik co 2 najmniej ¼ etatu.
+1.7. Terapeuta zajęciowy – równoważnik co 2 najmniej ¼ etatu.
+1.8. Psycholog lub specjalista psychologii klinicznej 2 – równoważnik co najmniej ¼ etatu.
+1.9. Logopeda w rehabilitacji posiadający tytuł 2 specjalisty w dziedzinie neurologopedii lub ukończone studia podyplomowe w zakresie neurologopedii – równoważnik co najmniej ¼ etatu.
+2. Sprzęt i 2.1. Wanny do masażu wirowego kończyn górnych 1 aparatura i kończyn dolnych – w lokalizacji.
+medyczna, 2.2. Pracownia pomiarowa obiektywizująca wyniki 1 pomieszczenia rehabilitacji wyposażona w urządzenie do oceny równowagi, do oceny siły izometrycznej i dynamicznej, do oceny zakresów ruchu, stanowiąca odrębne pomieszczenie, zwana dalej „pracownią pomiarową” – w lokalizacji.
+2.3. Urządzenia do terapii metodą biofeedback – 1 w lokalizacji.
+2.4. Urządzenie do masażu limfatycznego 1 sekwencyjnego – w lokalizacji.
+2.5. Zestaw do kriostymulacji parami azotu – w 1 miejscu udzielania świadczeń.
+2.6. Basen rehabilitacyjny – w lokalizacji. 3
+2.7. Kriokomora ogólnoustrojowa – w lokalizacji. 2
+3. Pozostałe 3.1. W oddziale jest prowadzone szkolenie 2 warunki specjalizacyjne lekarzy przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie odpowiadającej zakresowi świadczeń objętych przedmiotem postępowania.
+3.2. W jednostce jest prowadzone szkolenie 2 specjalizacyjne fizjoterapeutów przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie fizjoterapii.
+II. Kompleksowość 1. Dostęp do 1.1. Dietetyk – dostęp do konsultacji – w 1 badań i lokalizacji.
+zabiegów 1.2. Oddział co najmniej 25 łóżek. 4
+2. Sposób 2.1. Oferent realizuje na podstawie umowy proces wykonania leczenia świadczeniobiorców w zakresie 3 umowy fizjoterapii ambulatoryjnej – w lokalizacji.
+2.2. Oferent realizuje na podstawie umowy proces 3 leczenia świadczeniobiorców w zakresie rehabilitacji ogólnoustrojowej w ośrodku lub oddziale dziennym – w lokalizacji.
+2.3. Oferent realizuje świadczenia na rzecz 3 pacjentów z obrzękiem limfatycznym.
+2.4. Oferent zapewnia w lokalizacji co najmniej 3 jeden z oddziałów: oddział urazowo-ortopedyczny, chirurgiczny, neurochirurgiczny, neurologiczny, reumatologiczny, chorób wewnętrznych, geriatryczny, onkologiczny, urologiczny, ginekologiczny, kardiologiczny, pulmonologiczny, pediatrii, endokrynologii dziecięcej, diabetologii dziecięcej lub ginekologii.
+III. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+11. Przedmiot postępowania: Rehabilitacja pulmonologiczna w warunkach stacjonarnych 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie rehabilitacji w 22 chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej – równoważnik co najmniej 1 etatu na 15 łóżek.
+1.2. Fizjoterapeuta – równoważnik co najmniej 1 16 etatu na 10 łóżek, w tym równoważnik co najmniej 1 etatu magistra fizjoterapii.
+1.3. Specjalista w dziedzinie fizjoterapii – 5 równoważnik co najmniej 1 etatu.
+1.4. Psycholog – równoważnik co najmniej ¼ 2 Jedna etatu. odpowiedź do
+1.5. Specjalista psychologii klinicznej – 3 wyboru równoważnik co najmniej ¼ etatu.
+2. Sprzęt i 2.1. Wanny do masażu wirowego kończyn górnych 1 aparatura i kończyn dolnych – w lokalizacji.
+medyczna 2.2. Urządzenie do masażu limfatycznego 1 sekwencyjnego – w miejscu udzielania świadczeń.
+2.3. Zestaw do kriostymulacji parami azotu – w 1 miejscu udzielania świadczeń.
+2.4. Basen rehabilitacyjny – w lokalizacji. 3
+3. Pozostałe 3.1. W oddziale jest prowadzone szkolenie 2 warunki specjalizacyjne lekarzy przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie odpowiadającej zakresowi świadczeń objętych przedmiotem postępowania.
+3.2. W jednostce jest prowadzone szkolenie 2 specjalizacyjne fizjoterapeutów przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie fizjoterapii.
+II. Kompleksowość 1. Sposób 1.1. Konsultacje lekarzy specjalistów w dziedzinie: 4 wykonania chorób płuc lub chorób wewnętrznych, lub umowy chirurgii klatki piersiowej – w lokalizacji.
+1.2. Oferent realizuje na podstawie umowy proces 3 leczenia świadczeniobiorców w ramach rehabilitacji realizowanej w ośrodku lub oddziale dziennym – w lokalizacji.
+1.3. Oferent realizuje na podstawie umowy proces 3 leczenia świadczeniobiorców w zakresie fizjoterapii ambulatoryjnej – w lokalizacji.
+1.4. Oferent realizuje świadczenia na rzecz 3 pacjentów z obrzękiem limfatycznym.
+III. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+12. Przedmiot postępowania: Rehabilitacja neurologiczna w warunkach stacjonarnych 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie rehabilitacji w 15 chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej – równoważnik co najmniej 1 etatu na 15 łóżek.
+1.2. Lekarz specjalista w dziedzinie neurologii – 9 równoważnik co najmniej ¼ etatu.
+1.3. Fizjoterapeuta – równoważnik co najmniej 1 4 etatu na 6 łóżek, w tym równoważnik co najmniej 1 etatu magistra fizjoterapii.
+1.4. Specjalista w dziedzinie fizjoterapii lub 4 fizjoterapeuta posiadający udokumentowane doświadczenie w zakresie metod neurofizjologicznych – równoważnik co najmniej 1 etatu.
+1.5. Logopeda w rehabilitacji posiadający 4 specjalizację w dziedzinie neurologopedii lub ukończone studia podyplomowe w zakresie neurologopedii – równoważnik co najmniej 1 etatu na 20 łóżek.
+1.6. Terapeuta zajęciowy – równoważnik co 2 najmniej ¼ etatu.
+1.7. Specjalista psychologii klinicznej – 4 równoważnik co najmniej 1 etatu na 10 łóżek.
+2. Sprzęt i 2.1. Wanny do masażu wirowego kończyn górnych 1 aparatura i kończyn dolnych – w lokalizacji.
+medyczna 2.2. Pracownia pomiarowa – w lokalizacji. 1
+2.3. Urządzenia do terapii metodą biofeedback – 1 w lokalizacji.
+2.4. Urządzenie do masażu limfatycznego 1 sekwencyjnego – w lokalizacji.
+2.5. Zestaw do kriostymulacji parami azotu – w 1 lokalizacji.
+2.6. Basen rehabilitacyjny – w lokalizacji. 5
+3. Realizacja 3.1. Wykonanie w okresie ostatnich 12 miesięcy 2 wybranych poprzedzających o 2 miesiące miesiąc, w świadczeń którym ogłoszono postępowanie, świadczeń zdrowotnych rehabilitacji neurologicznej zaburzeń funkcji mózgu – kategoria I i II.
+3.2. Wykonanie w okresie ostatnich 12 miesięcy 2 poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, świadczeń zdrowotnych rehabilitacji neurologicznej zaburzeń funkcji rdzenia i korzeni nerwowych – kategoria I i II.
+3.3. Wykonanie w okresie ostatnich 12 miesięcy 2 poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, świadczeń zdrowotnych rehabilitacji neurologicznej zaburzeń obwodowego układu nerwowego i dystrofie mięśniowe – kategoria I i II.
+3.4. Wykonanie w okresie ostatnich 12 miesięcy 2 poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, świadczeń zdrowotnych rehabilitacji neurologicznej dziecięcej – kategoria I-III.
+4. Pozostałe 4.1. W oddziale jest prowadzone szkolenie 2 warunki specjalizacyjne lekarzy przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie odpowiadającej zakresowi świadczeń objętych przedmiotem postępowania.
+4.2. W jednostce jest prowadzone szkolenie 2 specjalizacyjne fizjoterapeutów przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie fizjoterapii.
+II. Kompleksowość 1. Sposób 1.1. Oferent realizuje na podstawie umowy proces 3 wykonania leczenia świadczeniobiorców w ramach umowy rehabilitacji realizowanej w ośrodku lub oddziale dziennym – w lokalizacji.
+1.2. Oferent realizuje na podstawie umowy proces 3 leczenia świadczeniobiorców w zakresie fizjoterapii ambulatoryjnej – w lokalizacji.
+III. Cena 2. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10
+13.Przedmiot postępowania: Rehabilitacja kardiologiczna lub kardiologiczna telerehabilitacja hybrydowa w warunkach stacjonarnych 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie rehabilitacji w 15 chorobach narządu ruchu lub rehabilitacji ogólnej, lub rehabilitacji, lub rehabilitacji medycznej, lub medycyny fizykalnej i balneoklimatologii, lub fizjoterapii i balneoklimatologii, lub balneoklimatologii i medycyny fizykalnej, lub balneologii, lub balneologii i medycyny fizykalnej – równoważnik co najmniej 1 etatu na 15 łóżek.
+1.2. Lekarz specjalista w dziedzinie kardiologii – 15 równoważnik co najmniej 1 etatu na 25 łóżek.
+1.3. Fizjoterapeuta – równoważnik co najmniej 1 8 etatu na 10 łóżek, w tym równoważnik co najmniej 1 etatu magistra fizjoterapii.
+1.4. Specjalista w dziedzinie fizjoterapii – 3 równoważnik co najmniej 1 etatu.
+1.5. Specjalista psychologii klinicznej – 3 równoważnik co najmniej ¼ etatu.
+2. Sprzęt i 2.1. System monitorowanego treningu 3 aparatura fizjoterapeutycznego – testy wydolnościowe, medyczna próby wysiłkowe i badanie spirometryczne – w miejscu udzielania świadczeń.
+2.2. Pracownia pomiarowa – w lokalizacji. 2
+3. Realizacja 3.1. Wykonanie w okresie ostatnich 12 miesięcy wybranych poprzedzających o 2 miesiące miesiąc, w świadczeń którym ogłoszono postępowanie, świadczeń zdrowotnych rehabilitacji kardiologicznej z chorobami współistniejącymi oraz rehabilitacji kardiologicznej – kategoria I i II.
+4. Pozostałe 4.1. W oddziale jest prowadzone szkolenie 3 warunki specjalizacyjne lekarzy przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie odpowiadającej zakresowi świadczeń objętych przedmiotem postępowania.
+4.2. W jednostce jest prowadzone szkolenie 3 specjalizacyjne fizjoterapeutów przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie fizjoterapii.
+II. Kompleksowość 1. Sposób 1.1. Oferent realizuje na podstawie umowy proces 3 wykonania leczenia świadczeniobiorców w zakresie umowy fizjoterapii ambulatoryjnej – w lokalizacji.
+1.2. Oferent realizuje na podstawie umowy proces 2 leczenia świadczeniobiorców w zakresie rehabilitacji kardiologicznej w ośrodku lub oddziale dziennym – w lokalizacji.
+1.3. Oferent zapewnia w lokalizacji oddział 2 kardiologii lub kardiochirurgii.
+III. Cena 1. Cena 1.1. Cena obliczona zgodnie z wzorem określonym Maksymalw załączniku nr 17 do rozporządzenia. nie 10 Tabela nr 2 – REHABILITACJA LECZNICZA – CZĘŚĆ WSPÓLNA I. Jakość - wyniki kontroli i inne nieprawidłowości. Maksymalna suma punktów ujemnych: 12 1 2 3 4 Lp. Oceniany warunek Liczba Uwagi punktów ujemnych
+1. Udzielenie świadczeń przez osoby o kwalifikacjach niższych niż wykazane w ofercie – 1 stwierdzone tylko na podstawie kontroli.
+2. Udzielenie świadczeń w sposób i w warunkach nieodpowiadających wymogom określonym w 1 umowie – stwierdzone tylko na podstawie kontroli.
+3. Braki w sprzęcie i wyposażeniu wykazanym w umowie – stwierdzone tylko na podstawie 1,5 kontroli.
+4. Nieprzekazanie wymaganych informacji o prowadzonych listach oczekujących na udzielenie 0,5 świadczeń opieki zdrowotnej co najmniej za dwa okresy sprawozdawcze (miesięcznie) w okresie 12 miesięcy poprzedzającym o 2 miesiące miesiąc obejmujący termin złożenia oferty.
+5. Nieprzekazanie wymaganych informacji o pierwszym wolnym terminie udzielenia świadczenia 0,5 opieki zdrowotnej co najmniej za cztery okresy sprawozdawcze (tygodniowe) w okresie 12 miesięcy poprzedzającym o 2 miesiące miesiąc obejmujący termin złożenia oferty, lub przekazanie informacji niezgodnych ze stanem faktycznym.
+6. Obciążenie świadczeniobiorców kosztami leków lub wyrobów medycznych, lub środków 0,5 spożywczych specjalnego przeznaczenia żywieniowego w przypadkach, o których mowa w art. 35 ustawy o świadczeniach.
+7. Pobieranie nienależnych opłat od świadczeniobiorców za świadczenia będące przedmiotem 0,5 umowy.
+8. Niezasadne ordynowanie leków, wyrobów medycznych lub środków spożywczych specjalnego 1 przeznaczenia żywieniowego – stwierdzone tylko na podstawie kontroli.
+9. Udzielanie świadczeń opieki zdrowotnej w miejscach udzielania świadczeń nieobjętych 1 umową.
+10. Przedstawienie danych niezgodnych ze stanem faktycznym, na podstawie których dokonano 0,5 płatności nienależnych środków finansowych lub nieprawidłowe kwalifikowanie udzielonych świadczeń opieki zdrowotnej – stwierdzone tylko na podstawie kontroli.
+11. Udaremnienie lub utrudnianie kontroli. 2
+12. Niewykonanie w wyznaczonym terminie zaleceń pokontrolnych. 1
+13. Co najmniej 10% świadczeń po raz pierwszy przekazanych do rozliczenia po upływie 0,5 ostatniego okresu rozliczeniowego.
+14. Brak aktualnego przeglądu serwisowego sprzętu i aparatury medycznej do wykonania 0,5 świadczenia – stwierdzone tylko na podstawie kontroli.
+II. Jakość – pozostałe warunki. Maksymalna suma punktów: 6 1 2 3 4 Lp. Oceniany warunek Liczba Uwagi punktów
+1. Certyfikat ISO 9001 systemu zarządzania jakością. 1,5
+2. Certyfikat ISO 27 001 systemu zarządzania bezpieczeństwem informacji. 1,5
+3. Świadczeniodawca prowadzi historię choroby lub historię zdrowia i choroby w postaci elektronicznej, w sposób, o którym mowa w przepisach wydanych na podstawie art. 30 3 ustawy o prawach pacjenta, oraz wystawia recepty i skierowania co najmniej przez nanoszenie danych za pomocą wydruku.
+III. Dostępność. Maksymalna suma punktów: 1 1 2 3 4 Lp. Oceniany warunek
+1. Odrębna aplikacja służąca wykonaniu obowiązku zapewnienia bieżącej rejestracji 1 świadczeniobiorców drogą elektroniczną, ze zwrotnym automatycznym wskazaniem terminu.
+IV. Ciągłość. Maksymalna suma punktów: 13 1 2 3 4 Lp. Oceniany warunek Liczba Uwagi punktów
+1. W dniu złożenia oferty oferent realizuje na podstawie umowy proces leczenia 2 świadczeniobiorców w ramach danego zakresu świadczeń i w ramach obszaru, którego dotyczy postępowanie.
+2. W dniu złożenia oferty oferent realizuje, nieprzerwanie od 5 lat, na podstawie umowy proces 5 Jedna leczenia świadczeniobiorców w ramach danego zakresu świadczeń i w ramach obszaru, odpowiedź do którego dotyczy postępowanie. wyboru
+3. W dniu złożenia oferty oferent realizuje, nieprzerwanie od 10 lat, na podstawie umowy 8 proces leczenia świadczeniobiorców w ramach danego zakresu świadczeń i w ramach obszaru, którego dotyczy postępowanie.
+4. Rozliczenie ponad 90% wartości zrealizowanych świadczeń na rzecz świadczeniobiorców do 5 Jedna
+18. roku życia w okresie 12 miesięcy poprzedzającym o 2 miesiące miesiąc obejmujący termin odpowiedź do złożenia oferty. wyboru
+5. Rozliczenie ponad 70% wartości zrealizowanych świadczeń na rzecz świadczeniobiorców do 3
+18. roku życia w okresie 12 miesięcy poprzedzającym o 2 miesiące miesiąc obejmujący termin Nie dotyczy złożenia oferty. przedmiotu postępowania: Rehabilitacja dzieci z zaburzeniami wieku rozwojowego w ośrodku lub oddziale dziennym V. Inne. Maksymalna suma punktów: 1 1 2 3 4 Lp. Oceniany warunek Liczba Uwagi punktów
+1. Współpraca z Agencją – świadczeniodawca przekazywał w terminie dane, o których mowa w 1 art. 31lc ust. 2 ustawy o świadczeniach, w zakresie świadczeń objętych przedmiotem postępowania – dotyczy okresu po dniu 22 lipca 2017 r.
+

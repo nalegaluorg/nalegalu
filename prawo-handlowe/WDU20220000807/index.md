@@ -8,7 +8,7 @@ pos: 807
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw
@@ -28,6 +28,14 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000807) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/807/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320 oraz z 2021 r. poz. 2052) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w § 1:
+    - **a)** w pkt 4 lit. f otrzymuje brzmienie: „f) wywiera decydujący wpływ na działalność spółki kapitałowej zależnej albo spółdzielni zależnej, w szczególności przez zawarcie między spółką dominującą a spółką zależną umowy przewidującej zarządzanie spółką zależną lub przekazywanie zysku przez taką spółkę;”,
+    - **b)** po pkt 5 dodaje się pkt 5 w brzmieniu: „5 ) grupa spółek – spółkę dominującą i spółkę albo spółki zależne, będące spółkami kapitałowymi, kierujące się zgodnie z uchwałą o uczestnictwie w grupie spółek wspólną strategią w celu realizacji wspólnego interesu (interes grupy spółek), uzasadniającą sprawowanie przez spółkę dominującą jednolitego kierownictwa nad spółką zależną albo spółkami zależnymi;”;
+
+- **2)** uchyla się art. 7;
+- **3)** w art. 18 § 2 otrzymuje brzmienie: „§ 2. Nie może być członkiem zarządu, rady nadzorczej, komisji rewizyjnej, likwidatorem albo prokurentem osoba, która została skazana prawomocnym wyrokiem za przestępstwo określone w art. 587–587 , art. 590 i art. 591 ustawy oraz art. 228–231 i rozdziałach XXXIII–XXXVII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2021 r. poz. 2345 i 2447).”;
+- **4)** w tytule I dodaje się dział IV w brzmieniu: „Dział IV Grupa spółek
 
 **Art. 21¹.**
 
@@ -428,13 +436,42 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561) wprowadza się następujące zmiany:
 
+- **1)** użyte w art. 33l we wprowadzeniu do wyliczenia, w art. 33la w ust. 1, w art. 33lb w ust. 1, w art. 33m w ust. 6 i w ust. 7 we wprowadzeniu do wyliczenia oraz w art. 33r w ust. 4, w ust. 7 we wprowadzeniu do wyliczenia i w ust. 7a–10 w różnych przypadkach wyrazy „minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rozwoju regionalnego”;
+- **2)** w art. 33m w ust. 5 wyrazy „ministra właściwego do spraw budownictwa, zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się wyrazami „ministra właściwego do spraw rozwoju regionalnego”.
+
 **Art. 4.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2022 r. poz. 318) w art. 5 ust. 2 otrzymuje brzmienie: „2. Do akcji Skarbu Państwa nie stosuje się przepisów art. 21 , art. 199 i art. 359 w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320, z 2021 r. poz. 2052 oraz z 2022 r. poz. 807).”.
 
 **Art. 5.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112, z 2020 r. poz. 2320 oraz z 2021 r. poz. 1598, 1641 i 2106) w art. 38 w pkt 1 po lit. g dodaje się lit. ga w brzmieniu: „ga) wzmiankę o uczestnictwie spółki lub innego przedsiębiorcy w oznaczonej grupie spółek ze wskazaniem charakteru tego uczestnictwa, w tym dane spółki dominującej albo podmiotu, do którego stosuje się przepisy o spółce dominującej, albo dane spółki zależnej,”.
 
 **Art. 6.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2021 r. poz. 1893, 2368 i 2469 oraz z 2022 r. poz. 350) wprowadza się następujące zmiany:
 
+- **1)** w art. 9 ust. 4 otrzymuje brzmienie: „4. Ministrowi właściwemu do spraw gospodarki podlega Urząd Dozoru Technicznego oraz Polska Agencja Kosmiczna.”;
+- **2)** w art. 9a ust. 1 otrzymuje brzmienie: „1. Dział budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo obejmuje sprawy:
+- **1)** architektury,
+- **2)** budownictwa, w tym z zakresu efektywności energetycznej budynków,
+- **3)** nadzoru architektoniczno-budowlanego,
+- **4)** planowania i zagospodarowania przestrzennego,
+- **5)** geodezji i kartografii,
+- **6)** rewitalizacji, z zastrzeżeniem art. 23a ust. 1 pkt 2,
+- **7)** wspierania mieszkalnictwa,
+- **8)** gospodarki nieruchomościami, w tym nieruchomościami Skarbu Państwa, z uwzględnieniem przepisów odrębnych,
+- **9)** infrastruktury komunalnej, z wyjątkiem określenia zasad i warunków zbiorowego zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi oraz zbiorowego odprowadzania ścieków,
+- **10)** rodzinnych ogrodów działkowych,
+- **11)** infrastruktury informacji przestrzennej,
+- **12)** zarządzania i koordynacji programami w zakresie upowszechniania, rozwoju i promocji wykorzystywania technologii niskoemisyjnych i zeroemisyjnych – z zastrzeżeniem art. 23a ust. 1 pkt 13.”;
+- **3)** w art. 23a: o Krajowym Zasobie Nieruchomości (Dz. U. z 2021 r. poz. 1961).”,
+    - **a)** w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „13) związane ze sprawowaniem nadzoru nad Krajowym Zasobem Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r.
+    - **b)** dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Ministrowi właściwemu do spraw rozwoju regionalnego podlega Polska Agencja Rozwoju Przedsiębiorczości.”.
+
 **Art. 7.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2020 r. poz. 299) wprowadza się następujące zmiany:
+
+- **1)** użyte w art. 2, w art. 4 w ust. 7, w art. 4a w ust. 1, w art. 4d w ust. 4 w zdaniu pierwszym i drugim, w art. 4e w ust. 4, w ust. 5 w zdaniu pierwszym i drugim oraz w ust. 8, w art. 5 w ust. 1 i 2, w art. 6 w ust. 7, w art. 6a w ust. 5 we wprowadzeniu do wyliczenia, w art. 6b w ust. 11, w ust. 12 we wprowadzeniu do wyliczenia i w ust. 13, w art. 6ba, w art. 6d w ust. 6, w art. 7 w ust. 2, w art. 9 w ust. 4 w zdaniu pierwszym i drugim oraz w ust. 6, w art. 10 ust. 1a, 1b i 8, w art. 14 w ust. 4, 4a, 5b–5f i w ust. 6 we wprowadzeniu do wyliczenia, w art. 15 w ust. 4 i 6, w art. 15a w ust. 5 oraz w art. 16 w ust. 5 w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rozwoju regionalnego”;
+- **2)** w art. 6b w ust. 10 i 10a skreśla się wyrazy „w porozumieniu z ministrem właściwym do spraw gospodarki”;
+- **3)** w art. 10:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prezesa powołuje minister właściwy do spraw rozwoju regionalnego, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Minister właściwy do spraw rozwoju regionalnego odwołuje Prezesa.”,
+    - **b)** w ust. 5 zdanie pierwsze otrzymuje brzmienie: „Nabór na stanowisko Prezesa przeprowadza zespół, powołany przez ministra właściwego do spraw rozwoju regionalnego, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów.”;
+
+- **4)** w art. 14 uchyla się ust. 6a.
 
 **Art. 8.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228, z późn. zm. ) w art. 20 w ust. 2 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) w stosunku do spółki zależnej uczestniczącej w grupie spółek – spółka dominująca.”.
 
@@ -442,19 +479,49 @@ source: "isap-pdf"
 
 **Art. 10.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) w art. 81:
 
+- **1)** w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Roczną podstawę wymiaru składki na ubezpieczenie zdrowotne osób prowadzących działalność pozarolniczą, o których mowa w art. 8 ust. 6 pkt 1, 3, 4 i 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, opłacających podatek dochodowy na zasadach określonych w art. 27, art. 30c lub art. 30ca ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, stanowi dochód z działalności gospodarczej ustalony za rok kalendarzowy jako różnica między osiągniętymi przychodami, w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, z wyłączeniem przychodów niepodlegających opodatkowaniu podatkiem dochodowym innych niż określone w art. 21 ust. 1 pkt 63a, 63b, 152–154 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, a poniesionymi kosztami uzyskania tych przychodów, w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, z uwzględnieniem art. 24 ust. 1–2b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, pomniejszony o kwotę opłaconych w tym roku składek na ubezpieczenia emerytalne, rentowe, chorobowe i wypadkowe, jeżeli nie zostały zaliczone do kosztów uzyskania przychodów.”;
+- **2)** w ust. 2c w pkt 4 na końcu kropkę zastępuje się średnikiem i dodaje pkt 5 w brzmieniu: „5) przy obliczaniu dochodów, o których mowa w pkt 1 i 3, stosuje się art. 24 ust. 1–2b i nie uwzględnia się przychodów niepodlegających opodatkowaniu podatkiem dochodowym innych niż określone w art. 21 ust. 1 pkt 63a, 63b, 152–154 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych; w przypadku osób prowadzących podatkową księgę przychodów i rozchodów dochód, o którym mowa w pkt 1 i 3, ustala się z uwzględnieniem art. 44 ust. 2 zdanie drugie ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.”;
+- **3)** w ust. 2g dodaje się zdanie drugie w brzmieniu: „W przychodach, o których mowa w ust. 2e i 2f, nie uwzględnia się przychodów niepodlegających opodatkowaniu podatkiem dochodowym innych niż określone w art. 21 ust. 1 pkt 152–154 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.”.
+
 **Art. 11.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2020 r. poz. 1861) wprowadza się następujące zmiany:
+
+- **1)** użyte w art. 1 w ust. 5 we wprowadzeniu do wyliczenia, w art. 4 w ust. 1 i 8, w art. 11 w ust. 6, w art. 14 w ust. 8, w art. 16 w ust. 1 w pkt 1, w art. 18 w ust. 7, w art. 19 w ust. 3, w art. 28 w ust. 3, w art. 33 w ust. 2 we wprowadzeniu do wyliczenia oraz w art. 45 w różnych przypadkach wyrazy „minister właściwy do spraw szkolnictwa wyższego i nauki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rozwoju regionalnego”;
+- **2)** w art. 12:
+    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) dwunastu członków wskazanych przez ministrów właściwych do spraw: rozwoju regionalnego, gospodarki, gospodarki morskiej, informatyzacji, klimatu, szkolnictwa wyższego i nauki, rolnictwa, środowiska, transportu, wewnętrznych, zdrowia oraz przez Ministra Obrony Narodowej, spośród osób będących pracownikami administracji rządowej, do których kompetencji należą sprawy nauki.”,
+    - **b)** w ust. 3 uchyla się pkt 7.
 
 **Art. 12.** W ustawie z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 2180) w art. 26a w ust. 2 w pkt 2 wyrazy „ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się wyrazami „ministra właściwego do spraw rozwoju regionalnego”.
 
 **Art. 13.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2021 r. poz. 1933) wprowadza się następujące zmiany:
 
+- **1)** w art. 9 dodaje się ust. 3 i 4 w brzmieniu: „3. Przepisy działu IV w tytule I ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczące spółki dominującej stosuje się odpowiednio do przedsiębiorcy będącego państwową osobą prawną.
+
+4. Przepisów działu IV w tytule I ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych dotyczących spółki dominującej nie stosuje się do Skarbu Państwa.”;
+
+- **2)** art. 10 otrzymuje brzmienie: „Art. 10. Do akcji należących do Skarbu Państwa nie stosuje się przepisów art. 21 , art. 199, art. 300 , art. 300 i art. 359, w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.”.
+
 **Art. 14.** W ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2021 r. poz. 1961) wprowadza się następujące zmiany:
+
+- **1)** użyte w art. 4 w ust. 6, w art. 7 w ust. 1 we wprowadzeniu do wyliczenia, w art. 7a w ust. 1, w art. 17, w art. 18 w ust. 8, w art. 19 w ust. 9, w art. 31 w ust. 3, w ust. 4 we wprowadzeniu do wyliczenia i w ust. 5, w art. 32 w ust. 4, 5, w ust. 6 we wprowadzeniu do wyliczenia, w ust. 7, 8 i 10, w art. 33 w ust. 1 w pkt 6, w art. 35 we wprowadzeniu do wyliczenia, w art. 36 w ust. 1, 3 i 5, w art. 37 w ust. 2, 4, 8, 10, 12 i 16, w art. 38 w ust. 1 w pkt 6, 10, 11 i 17 i w ust. 3–5, w art. 39 w ust. 2 w zdaniu drugim, w art. 40 w ust. 1, w art. 44 w ust. 2–5, w art. 45 w ust. 2 we wprowadzeniu do wyliczenia, dwukrotnie w art. 48 w ust. 6, w art. 51 w ust. 5 we wprowadzeniu do wyliczenia, w art. 51a w ust. 3 we wprowadzeniu do wyliczenia i w ust. 4 w zdaniu drugim, w art. 53 w ust. 2, w art. 54 w ust. 8 i w ust. 9 we wprowadzeniu do wyliczenia, w art. 61 w ust. 8, w art. 65 w ust. 1 oraz w art. 107 w ust. 2 w różnych przypadkach wyrazy „minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rozwoju regionalnego”;
+- **2)** w art. 32 w ust. 2:
+    - **a)** w ust. 1 wyraz „6” zastępuje się wyrazem „8”,
+    - **b)** w ust. 2: – w pkt 1 wyrazy „2 przedstawicieli” zastępuje się wyrazem „przedstawiciel”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) 4 przedstawicieli ministra właściwego do spraw rozwoju regionalnego;”, – w pkt 4 średnik zastępuje się kropką i uchyla się pkt 5;
+
+- **3)** w art. 38 w ust. 1 w pkt 14 po wyrazach „w tym również na zlecenie” wyrazy „ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się wyrazami „ministra właściwego do spraw rozwoju regionalnego”.
 
 **Art. 15.** W ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2021 r. poz. 1354) użyte w art. 105 w ust. 1 w pkt 4 i w ust. 2 w różnych przypadkach wyrazy „minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rozwoju regionalnego”.
 
 **Art. 16.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583, 655 i 682) wprowadza się następujące zmiany:
 
+- **1)** w art. 370 pkt 2 otrzymuje brzmienie: „2) NCBiR – środki finansowe, o których mowa w art. 365 pkt 9 i 11;”;
+- **2)** po art. 370 dodaje się art. 370a w brzmieniu: „Art. 370a. 1. Minister właściwy do spraw rozwoju regionalnego przekazuje NCBiR środki finansowe, o których mowa w art. 365 pkt 4 lit. c i pkt 13 lit. b.
+
+2. Do środków finansowych, o których mowa w art. 365 pkt 4 lit. c i pkt 13 lit. b, nie stosuje się przepisu art. 426 ust. 1 pkt 4. Minister właściwy do spraw rozwoju regionalnego sprawuje nadzór nad prawidłowością wydatkowania środków finansowych, o których mowa w art. 365 pkt 4 lit. c i pkt 13 lit. b, z budżetu państwa.”.
+
 **Art. 17.** W ustawie z dnia 17 stycznia 2019 r. o Fundacji Platforma Przemysłu Przyszłości (Dz. U. poz. 229) wprowadza się następujące zmiany:
+
+- **1)** użyte w art. 4, w art. 8 w ust. 3, w art. 10 w ust. 1 we wprowadzeniu do wyliczenia, w ust. 3 w pkt 3 i w ust. 5, w art. 12 w ust. 2, w art. 14 w ust. 1 we wprowadzeniu do wyliczenia, w ust. 2 w zdaniu drugim i w ust. 3, w art. 15 w ust. 2, w ust. 3 we wprowadzeniu do wyliczenia i w ust. 5, w art. 16 w ust. 1, 2, w ust. 3 w zdaniu pierwszym i drugim oraz w ust. 4 w zdaniu pierwszym i drugim, w art. 17 w ust. 2, w art. 18 w ust. 1 i 2, w art. 19 w ust. 2, w art. 30 oraz w art. 32 w ust. 3 w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rozwoju regionalnego”;
+- **2)** w art. 15 w ust. 3 w pkt 2 wyrazy „rozwoju regionalnego” zastępuje się wyrazem „gospodarki”.
 
 **Art. 18.** W ustawie z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (Dz. U. z 2021 r. poz. 11) w art. 46 w ust. 4 wyrazy „minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się wyrazami „minister właściwy do spraw rozwoju regionalnego”.
 
@@ -496,6 +563,10 @@ source: "isap-pdf"
 
 **Art. 26.** Prezes Rady Ministrów określi, w drodze zarządzenia, przeznaczenie składników majątkowych będących przed dniem wejścia w życie art. 3, art. 6, art. 7, art. 11, art. 14, art. 16 i art. 17 w posiadaniu ministra właściwego do spraw:
 
+- **1)** gospodarki,
+- **2)** szkolnictwa wyższego i nauki,
+- **3)** budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa – przeznaczonych do realizacji zadań, które zostają przekazane niniejszą ustawą ministrowi właściwemu do spraw rozwoju regionalnego.
+
 **Art. 27.**
 
 1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie art. 3, art. 6, art. 7, art. 9, art. 11 oraz art. 12 i art. 14–18 stosuje się przepisy dotychczasowe, z tym że sprawy te toczą się przed organem, który przejął zadania i kompetencje na podstawie niniejszej ustawy.
@@ -509,6 +580,10 @@ source: "isap-pdf"
 **Art. 28.** Czynności dokonane przed dniem wejścia w życie art. 3, art. 6, art. 7, art. 9, art. 11 oraz art. 12 i art. 14–18 przez organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, a także dokumenty sporządzone przed dniem wejścia w życie art. 3, art. 6, art. 7, art. 9, art. 11 oraz art. 12 i art. 14–18 przez te organy albo przy ich udziale, w szczególności powołania, ustalenia, zatwierdzenia i zgody, zachowują ważność, przy czym dokumenty wydane na czas określony – zachowują ważność przez okres, na który zostały wydane.
 
 **Art. 29.** Dyrektor generalny urzędu obsługującego ministra właściwego do spraw:
+
+- **1)** gospodarki,
+- **2)** szkolnictwa wyższego i nauki,
+- **3)** budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa – w terminie 30 dni od dnia wejścia w życie art. 3, art. 6, art. 7, art. 11, art. 14 i art. 17 przekażą dyrektorowi generalnemu urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego sprawy wszczęte i niezakończone przed dniem wejścia w życie art. 3, art. 6, art. 7, art. 11, art. 14 i art. 17.
 
 **Art. 30.**
 
@@ -541,4 +616,8 @@ source: "isap-pdf"
 **Art. 36.** Przy ustalaniu w 2022 r. podstawy wymiaru składki na ubezpieczenie zdrowotne nie powiększa się dochodu, o którym mowa w art. 81 ust. 2 i ust. 2c pkt 1 i 3 ustawy zmienianej w art. 10, w brzmieniu nadanym niniejszą ustawą, o różnicę określoną w art. 24 ust. 2 zdanie pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.
 
 **Art. 37.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 3, art. 6, art. 7, art. 9, art. 11, art. 12, art. 14–18 i art. 24–34, które wchodzą w życie z dniem 1 sierpnia 2022 r.;
+- **2)** art. 10, art. 35 i art. 36, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+
 

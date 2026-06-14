@@ -8,7 +8,7 @@ pos: 114
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # Kodeks wykroczeń
@@ -150,6 +150,11 @@ source: "isap-pdf"
 
 **Art. 18.** Karami są:
 
+- **1)** areszt;
+- **2)** ograniczenie wolności;
+- **3)** grzywna;
+- **4)** nagana.
+
 **Art. 19.** Kara aresztu trwa najkrócej 5, najdłużej 30 dni; wymierza się ją w dniach.
 
 **Art. 20.**
@@ -171,6 +176,9 @@ source: "isap-pdf"
 § 3. (uchylony)
 
 **Art. 22.** Wymierzając karę ograniczenia wolności, organ orzekający może zobowiązać ukaranego do:
+
+- **1)** naprawienia w całości albo w części szkody wyrządzonej wykroczeniem;
+- **2)** przeproszenia pokrzywdzonego.
 
 **Art. 23.**
 
@@ -310,7 +318,9 @@ source: "isap-pdf"
 
 § 2. Nadzwyczajne złagodzenie polega na wymierzeniu kary poniżej dolnej granicy ustawowego zagrożenia albo kary łagodniejszego rodzaju.
 
-§ 3. (uchylony) § 4. W razie odstąpienia od wymierzenia kary można zastosować do sprawcy środek oddziaływania społecznego, mający na celu przywrócenie naruszonego porządku prawnego lub naprawienie wyrządzonej krzywdy, polegający zwłaszcza na przeproszeniu pokrzywdzonego, uroczystym zapewnieniu niepopełniania więcej takiego czynu albo zobowiązania sprawcy do przywrócenia stanu poprzedniego.
+§ 3. (uchylony)
+
+§ 4. W razie odstąpienia od wymierzenia kary można zastosować do sprawcy środek oddziaływania społecznego, mający na celu przywrócenie naruszonego porządku prawnego lub naprawienie wyrządzonej krzywdy, polegający zwłaszcza na przeproszeniu pokrzywdzonego, uroczystym zapewnieniu niepopełniania więcej takiego czynu albo zobowiązania sprawcy do przywrócenia stanu poprzedniego.
 
 #### Rozdział III Zastosowanie środków oddziaływania wychowawczego
 
@@ -329,6 +339,9 @@ source: "isap-pdf"
 § 3. Jeżeli wykroczeniem została wyrządzona szkoda w mieniu, warunkowe zawieszenie wykonania kary może być orzeczone tylko wtedy, gdy szkoda została w całości naprawiona.
 
 **Art. 43.** Warunkowego zawieszenia wykonania kary nie stosuje się do sprawcy, który:
+
+- **1)** w ciągu 2 lat przed popełnieniem wykroczenia był już karany za podobne przestępstwo lub wykroczenie albo
+- **2)** popełnił wykroczenie o charakterze chuligańskim – chyba że ze względu na wyjątkowe okoliczności organ orzekający uzna zawieszenie wykonania kary za celowe.
 
 **Art. 44.**
 
@@ -416,7 +429,9 @@ source: "isap-pdf"
 
 § 1. Kto krzykiem, hałasem, alarmem lub innym wybrykiem zakłóca spokój, porządek publiczny, spoczynek nocny albo wywołuje zgorszenie w miejscu publicznym, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-§ 2. Jeżeli czyn określony w § 1 ma charakter chuligański lub sprawca dopuszcza się go, będąc pod wpływem alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych § 2a. Tej samej karze podlega, kto dopuszcza się czynu określonego w § 1 w zakładzie leczniczym w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211) lub w trakcie akcji medycznej w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637), lub w siedzibie organu administracji rządowej, innego organu państwowego lub samorządu terytorialnego.
+§ 2. Jeżeli czyn określony w § 1 ma charakter chuligański lub sprawca dopuszcza się go, będąc pod wpływem alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych
+
+§ 2a. Tej samej karze podlega, kto dopuszcza się czynu określonego w § 1 w zakładzie leczniczym w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211) lub w trakcie akcji medycznej w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637), lub w siedzibie organu administracji rządowej, innego organu państwowego lub samorządu terytorialnego.
 
 § 3. Podżeganie i pomocnictwo są karalne.
 
@@ -440,6 +455,16 @@ source: "isap-pdf"
 § 4. Podżeganie i pomocnictwo są karalne.
 
 **Art. 52a.** Kto:
+
+- **1)** publicznie nawołuje do popełnienia przestępstwa lub przestępstwa skarbowego,
+- **2)** publicznie nawołuje do przeciwdziałania przemocą aktowi stanowiącemu źródło powszechnie obowiązującego prawa Rzeczypospolitej Polskiej,
+- **3)** publicznie pochwala popełnienie przestępstwa, jeżeli zasięg czynu albo jego skutki nie były znaczne – podlega karze aresztu, ograniczenia wolności albo grzywny. Art. 52aa. § 1. Kto organizuje spotkanie, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. ), bez wymaganego zawiadomienia lub przewodniczy takiemu spotkaniu, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 złotych.
+
+§ 2. Kto umyślnie uczestniczy w spotkaniu, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zorganizowanym bez wymaganego zawiadomienia, podlega karze grzywny.
+
+§ 3. Tej samej karze podlega, kto, nie będąc kierującym pojazdem, umyślnie uczestniczy w nielegalnym wyścigu pojazdów mechanicznych, o którym mowa w art. 115 § 26 Kodeksu karnego.
+
+§ 4. Tej samej karze podlega, kto umyślnie, jako widz przebywa na spotkaniu, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zorganizowanym bez wymaganego zawiadomienia, lub jako widz, uczestniczy w nielegalnym wyścigu pojazdów mechanicznych, o którym mowa w art. 115 § 26 Kodeksu karnego.
 
 **Art. 52b.** Kto zużywa olej opałowy do celów napędowych, podlega karze grzywny do 500 zł.
 
@@ -503,7 +528,11 @@ source: "isap-pdf"
 - **4)** świadczy usługi hotelarskie wbrew decyzji nakazującej wstrzymanie ich świadczenia,
 - **5)** nie zawiadamia organu prowadzącego rejestr organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych o zawieszeniu wykonywania działalności w terminie 7 dni od dnia tego zawieszenia – podlega karze ograniczenia wolności albo grzywny.
 
-§ 5. (uchylony) § 6. (uchylony) § 7. (uchylony)
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+§ 7. (uchylony)
 
 **Art. 60².** (uchylony)
 
@@ -527,7 +556,9 @@ source: "isap-pdf"
 
 § 1. Kto bez złożenia pisemnego wniosku o dokonanie wpisu do rejestru przedsiębiorców telekomunikacyjnych wykonuje działalność telekomunikacyjną, podlega karze aresztu, ograniczenia wolności lub grzywny.
 
-§ 2. (uchylony) § 3. Kto wprowadza do obrotu urządzenia radiowe i telekomunikacyjne urządzenia końcowe podlegające obowiązkowej ocenie zgodności z zasadniczymi wymaganiami, nieposiadające wymaganego znaku zgodności, podlega karze grzywny.
+§ 2. (uchylony)
+
+§ 3. Kto wprowadza do obrotu urządzenia radiowe i telekomunikacyjne urządzenia końcowe podlegające obowiązkowej ocenie zgodności z zasadniczymi wymaganiami, nieposiadające wymaganego znaku zgodności, podlega karze grzywny.
 
 § 4. (uchylony)
 
@@ -726,6 +757,9 @@ source: "isap-pdf"
 
 **Art. 82b.** Kto:
 
+- **1)** będąc właścicielem, użytkownikiem wieczystym albo zarządcą obiektu zbiorowej ochrony, nie dopełnia obowiązków określonych w art. 96 ust. 1 pkt 1 i 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), w zakresie utrzymania lub udostępnienia obiektu zbiorowej ochrony do użycia,
+- **2)** nie wykonuje nakazu przystosowania, udostępnienia nieruchomości albo wykonania miejsc doraźnego schronienia, o których mowa w art. 102 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
 **Art. 83.**
 
 § 1. Kto nieostrożnie obchodzi się z materiałami wybuchowymi, łatwo zapalnymi lub substancjami promieniotwórczymi albo wykracza przeciwko przepisom o wyrobie, sprzedaży, przechowywaniu, używaniu lub przewożeniu takich materiałów, podlega karze aresztu, grzywny albo karze nagany.
@@ -797,6 +831,20 @@ source: "isap-pdf"
 **Art. 88.** Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd bez wymaganych przepisami świateł lub pozostawia pojazd bez wymaganego przepisami oświetlenia, podlega karze grzywny.
 
 **Art. 89.** Kto, mając obowiązek opieki lub nadzoru nad małoletnim do lat 7, dopuszcza do przebywania małoletniego na drodze publicznej lub na torach pojazdu szynowego, podlega karze grzywny albo karze nagany. <Art. 89a. § 1. Kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 16 roku życia, dopuszcza do kierowania przez nią rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego, jeżeli osoba ta wbrew obowiązkowi nie używa kasku ochronnego odpowiadającego właściwym warunkom technicznym, podlega karze grzywny do 100 złotych.
+
+§ 2. Tej samej karze podlega ten, kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 17 roku życia, dopuszcza do przewożenia przez nią dziecka w wieku do lat 7 na rowerze albo na rowerze z napędem, o którym mowa w art. 4 ust. 2 lit. a pkt (i) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm.2)), jeżeli wbrew obowiązkowi przewozi to dziecko:
+
+- **1)** bez kasku ochronnego odpowiadającego właściwym warunkom technicznym, lub
+- **2)** nieumieszczone na dodatkowym siodełku zapewniającym bezpieczną jazdę, lub
+- **3)** nieumieszczone w foteliku rowerowym odpowiadającym właściwym warunkom technicznym, lub
+- **4)** niezgodnie ze sposobem, o którym mowa w art. 63 ust. 3 pkt 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, lub
+- **5)** w sposób, o którym mowa w art. 33 ust. 2d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+
+§ 3. Tej samej karze podlega ten, kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 17 roku życia, dopuszcza do przewożenia przez nią dziecka wózkiem rowerowym, jeżeli wbrew obowiązkowi przewozi to dziecko:
+
+- **1)** bez kasku ochronnego odpowiadającego właściwym warunkom technicznym, lub
+- **2)** niezgodnie ze sposobem, o którym mowa w art. 63 ust. 3 pkt 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, lub
+- **3)** w sposób, o którym mowa w art. 33 ust. 2d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.>
 
 **Art. 90.**
 
@@ -883,6 +931,9 @@ source: "isap-pdf"
 
 **Art. 97a.** Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także kierujący pojazdem, który narusza zakaz:
 
+- **1)** objeżdżania opuszczonych zapór lub półzapór na przejeździe kolejowym, wjeżdżania na przejazd, jeśli opuszczanie zapór lub półzapór zostało rozpoczęte lub podnoszenie ich nie zostało zakończone, oraz wejścia lub wjazdu na przejazd kolejowy za sygnalizator lub za inne urządzenie nadające sygnały, przy sygnale czerwonym, czerwonym migającym lub dwóch na przemian migających sygnałach czerwonych,
+- **2)** wjeżdżania na przejazd kolejowy, jeśli po jego drugiej stronie nie ma miejsca do kontynuowania jazdy, podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie niższej niż 2000 złotych.
+
 **Art. 98.** Kto, prowadząc pojazd poza drogą publiczną, strefą zamieszkania lub strefą ruchu, nie zachowuje należytej ostrożności, czym zagraża bezpieczeństwu innej osoby, podlega karze grzywny albo karze nagany.
 
 **Art. 99.**
@@ -897,6 +948,11 @@ source: "isap-pdf"
 § 2. Tej samej karze podlega, kto przy zadrzewianiu lub zakrzewianiu albo przy prowadzeniu robót ziemnych nie zachowuje przepisowej odległości od linii kolejowych.
 
 **Art. 100.** Kto:
+
+- **1)** zaorywa lub w inny sposób zwęża pas drogowy lub pas przydrożny,
+- **2)** włóczy po drodze publicznej lub porzuca na niej przedmioty albo używa pojazdów niszczących nawierzchnię drogi,
+- **3)** uszkadza rowy, skarpy nasypów lub wykopów albo samowolnie rozkopuje drogę publiczną,
+- **4)** wypasa zwierzę gospodarskie w pasie drogowym, podlega karze grzywny do 1000 złotych albo karze nagany.
 
 **Art. 101.** Kto uchyla się od obowiązku oczyszczania i usuwania z odcinków dróg publicznych o twardej nawierzchni, przechodzących przez obszary o zabudowie ciągłej lub skupionej poza miastami i osiedlami, błota, kurzu, śniegu lub lodu, podlega karze grzywny do 1000 złotych albo karze nagany.
 
@@ -1131,7 +1187,9 @@ source: "isap-pdf"
 
 **Art. 137.**
 
-§ 1. (uchylony) § 2. Kierownik punktu sprzedaży detalicznej lub zakładu gastronomicznego, który nie ma faktur albo innych dowodów dostawy lub przyjęcia na towary przechowywane w punkcie sprzedaży detalicznej lub zakładzie gastronomicznym, podlega karze aresztu albo grzywny.
+§ 1. (uchylony)
+
+§ 2. Kierownik punktu sprzedaży detalicznej lub zakładu gastronomicznego, który nie ma faktur albo innych dowodów dostawy lub przyjęcia na towary przechowywane w punkcie sprzedaży detalicznej lub zakładzie gastronomicznym, podlega karze aresztu albo grzywny.
 
 **Art. 138.**
 
@@ -1360,4 +1418,9 @@ source: "isap-pdf"
 **Art. 165.** Kto w lesie, w sposób złośliwy, płoszy albo ściga, chwyta, rani lub zabija dziko żyjące zwierzę, poza czynnościami związanymi z polowaniem lub ochroną lasów, jeżeli czyn z mocy innego przepisu nie jest zagrożony karą surowszą, podlega karze grzywny albo karze nagany.
 
 **Art. 166.** Kto w lesie puszcza luzem psa, poza czynnościami związanymi:
+
+- **1)** z polowaniem,
+- **2)** ze szkoleniem psów będących zwierzętami wykorzystywanymi do celów specjalnych w rozumieniu art. 4 pkt 20 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580), albo ich udziałem w akcji ratowniczej, w działaniach poszukiwawczych lub w działaniach związanych z ochroną granicy państwowej lub zapewnieniem bezpieczeństwa i porządku publicznego,
+- **3)** ze szkoleniem psów ratowniczych albo ich udziałem w akcji ratowniczej prowadzonej przez podmioty uprawnione do wykonywania ratownictwa na podstawie przepisów odrębnych, podlega karze grzywny albo karze nagany.
+
 

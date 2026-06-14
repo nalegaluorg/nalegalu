@@ -8,10 +8,10 @@ pos: 1482
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 sierpnia 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1482 Po P rawka do konwencji bazylejskiej o kontroli transgranicznego przemieszczania i usuwania odpadów niebezpiecznych, sporządzonej w Bazylei dnia 22 marca 1989 r., przyjęta zgodnie z Decyzją III/1 Konferencji Stron Konwencji w Genewie dnia 22 września 1995 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001482) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1482/text.pdf) |
 
-Po P rawka do konwencji bazylejskiej o kontroli transgranicznego przemieszczania i usuwania odpadów niebezpiecznych, sporządzonej w Bazylei dnia 22 marca 1989 r., przyjęta zgodnie z Decyzją III/1 Konferencji Stron Konwencji w Genewie dnia 22 września 1995 r.
-W imieniu Rzeczypospolitej Polskiej PRezyDent RzeczyPoSPolItej PolSKIej podaje do powszechnej wiadomości: Dnia 22 września 1995 r. została przyjęta, zgodnie z Decyzją III/1 Konferencji Stron Konwencji, Poprawka do Konwencji bazylejskiej o kontroli transgranicznego przemieszczenia i usuwania odpadów niebezpiecznych, sporządzonej w Bazylei dnia 22 marca 1989 r., w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższą poprawką, w imieniu Rzeczypospolitej Polskiej oświadczam, że: została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, jest ona przyjęta, ratyfikowana i potwierdzona, będzie ona niezmiennie zachowywana.
+W imieniu Rzeczypospolitej Polskiej PRezyDent RzeczyPoSPolItej PolSKIej podaje do powszechnej wiadomości: Dnia 22 września 1995 r. została przyjęta, zgodnie z Decyzją III/1 Konferencji Stron Konwencji, Poprawka do Konwencji bazylejskiej o kontroli transgranicznego przemieszczenia i usuwania odpadów niebezpiecznych, sporządzonej w Bazylei dnia 22 marca 1989 r., w następującym brzmieniu: Przekład Po zaznajomieniu się z powyższą poprawką, w imieniu Rzeczypospolitej Polskiej oświadczam, że: – została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, – jest ona przyjęta, ratyfikowana i potwierdzona, – będzie ona niezmiennie zachowywana.
 na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.
 Dano w Warszawie dnia 5 grudnia 2002 r.
 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski l.S.
+Prezes Rady Ministrów: L. Miller
 

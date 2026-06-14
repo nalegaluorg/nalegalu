@@ -8,12 +8,10 @@ pos: 276
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# zmieniające rozporządzenie sprawie warunków sposobu wykonywania przez przedszkola, szkoły placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej językowej uczniów należących do mniejszości narodowych etnicznych oraz społeczności posługującej się językiem regionalnym Na podstawie art. 13 ust. ustawy dnia 7 września 1991 r. o systemie oświaty (Dz. U. 2021 r. poz. 1915) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej dnia 18 sierpnia 2017 r. sprawie warunków sposobu wykonywania przez przedszkola, szkoły placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej językowej uczniów należących do mniejszości narodowych etnicznych oraz społeczności posługującej się językiem regionalnym (Dz. U. poz. 1627) wprowadza się następujące zmiany:
-
-*ROZPORZĄDZENIE MINISTRA EDUKACJI NAUKI dnia 4 lutego 2022 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 276 ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 4 lutego 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,8 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/276/text.pdf) |
 
-1) § 8 ust. po wyrazach ,,w wymiarze godzin tygodniowo” dodaje się wyrazy ,, , przypadku uczniów należących do mniejszości niemieckiej wymiarze 1 godziny tygodniowo”;
-2) załącznik nr otrzymuje brzmienie określone załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie dniem 1 września 2022 r.
-Minister Edukacji Nauki: P. Czarnek M M W M W W
+zmieniające rozporządzenie w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym Na podstawie art. 13 ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym (Dz. U. poz. 1627) wprowadza się następujące zmiany:
+1) w § 8 w ust. 3 po wyrazach ,,w wymiarze 3 godzin tygodniowo” dodaje się wyrazy ,, , a w przypadku uczniów należących do mniejszości niemieckiej – w wymiarze 1 godziny tygodniowo”;
+2) załącznik nr 3 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
+Minister Edukacji i Nauki: P. Czarnek … M W M W W M M W W
 

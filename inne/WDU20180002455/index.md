@@ -8,10 +8,10 @@ pos: 2455
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2455 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 14 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002455) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2455/text.pdf) |
 
-Poz. 2455 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 14 grudnia 2018 r.
-w sprawie prowadzenia i udostępniania przez komornika sądowego akt i urządzeń ewidencyjnych Na podstawie art. 157 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie prowadzenia i udostępniania przez komornika sądowego akt i urządzeń ewidencyjnych Na podstawie art. 157 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) sposób i tryb prowadzenia przez komornika sądowego akt spraw i urządzeń ewidencyjnych;
 2) sposób i tryb udostępniania akt spraw i urządzeń ewidencyjnych uczestnikom postępowania oraz organom nadzoru.
 § 2. Ilekroć w rozporządzeniu jest mowa o odwzorowaniu cyfrowym, rozumie się przez to utrwalenie w dokumencie mającym postać elektroniczną treści dokumentu w postaci papierowej w sposób umożliwiający zapoznanie się z treścią tego dokumentu.
@@ -40,7 +40,7 @@ w sprawie prowadzenia i udostępniania przez komornika sądowego akt i urządze�
 2. W przypadku wydania uczestnikowi postępowania odpisu, wyciągu albo kopii dokumentu z akt sprawy przepis ust. 1 stosuje się odpowiednio.
 3. Przeglądanie akt sprawy odbywa się pod kontrolą komornika sądowego lub upoważnionej przez niego osoby.
 4. Za zgodą komornika sądowego uczestnik postępowania może samodzielnie sporządzać kopie dokumentów z akt sprawy.
-Dziennik Ustaw – 2 – Poz. 2455 § 6. 1. W okresie od dnia 1 stycznia 2019 r. do dnia 31 grudnia 2020 r. komornik sądowy, który nie prowadzi akt sprawy w systemie teleinformatycznym, w aktach sprawy prowadzonych w postaci dotychczasowej umieszcza wydruki dokumentów wytworzonych w postaci elektronicznej.
+§ 6. 1. W okresie od dnia 1 stycznia 2019 r. do dnia 31 grudnia 2020 r. komornik sądowy, który nie prowadzi akt sprawy w systemie teleinformatycznym, w aktach sprawy prowadzonych w postaci dotychczasowej umieszcza wydruki dokumentów wytworzonych w postaci elektronicznej.
 2. Akta spraw i urządzenia ewidencyjne prowadzone i przechowywane w postaci dotychczasowej są udostępniane uczestnikom postępowania oraz organom nadzoru w kancelarii komorniczej.
 3. Komornik sądowy przesyła organom nadzoru akta spraw lub urządzenia ewidencyjne prowadzone i przechowywane w postaci dotychczasowej albo udostępnia ich kopie.
 § 7. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.

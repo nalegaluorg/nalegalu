@@ -8,10 +8,10 @@ pos: 655
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 czerwca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 655 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 maja 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/655/text.pdf) |
 
-Poz. 655 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 maja 2013 r.
-w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Bydgoszcz Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm. ) zarządza się, co następuje: § 1. 1. Ustanawia się skład wolnocłowy na terenie Portu Lotniczego Bydgoszcz.
+w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Bydgoszcz Na podstawie art. 27 ust. 2 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm. ) zarządza się, co następuje:
+§ 1. 1. Ustanawia się skład wolnocłowy na terenie Portu Lotniczego Bydgoszcz.
 2. Szczegółowy opis granic i obszar składu wolnocłowego określa załącznik do rozporządzenia.
 § 2. Zarządzającym składem wolnocłowym na terenie Portu Lotniczego Bydgoszcz ustanawia się Port Lotniczy Bydgoszcz Spółka Akcyjna z siedzibą w Bydgoszczy.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

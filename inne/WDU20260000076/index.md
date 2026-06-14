@@ -8,12 +8,10 @@ pos: 76
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o Karcie Polaka
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -44,7 +42,7 @@ Art. 25–29. (pominięte)
 1. Karta Polaka może być przyznana osobie, która deklaruje przynależność do Narodu Polskiego i spełni łącznie następujące warunki:
 
 - **1)** wykaże swój związek z polskością przez przynajmniej podstawową znajomość języka polskiego, który uważa za język ojczysty, oraz znajomość i kultywowanie polskich tradycji i zwyczajów;
-- **2)** w obecności konsula Rzeczypospolitej Polskiej, zwanego dalej „konsulem”, lub w przypadku, o którym mowa w art. 12 ust. 4 wojewody, albo wyznaczonego przez niego pracownika, złoży pisemną deklarację przynależności do Narodu Polskiego;
+- **2)** w obecności konsula Rzeczypospolitej Polskiej, zwanego dalej „konsulem”, lub w przypadku, o którym mowa w art. 12 ust. 4 – wojewody, albo wyznaczonego przez niego pracownika, złoży pisemną deklarację przynależności do Narodu Polskiego;
 - **3)** wykaże, że jest narodowości polskiej lub co najmniej jedno z jej rodziców lub dziadków albo dwoje pradziadków było narodowości polskiej, albo przedstawi zaświadczenie organizacji polskiej lub polonijnej potwierdzające aktywne zaangażowanie w działalność na rzecz języka i kultury polskiej lub polskiej mniejszości narodowej przez okres co najmniej ostatnich trzech lat;
 - **4)** złoży oświadczenie, że ona lub jej wstępni nie repatriowali się lub nie zostali repatriowani z terytorium Rzeczypospolitej Polskiej albo Polskiej Rzeczypospolitej Ludowej, na podstawie umów repatriacyjnych zawartych w latach 1944–1957 przez Rzeczpospolitą Polską albo przez Polską Rzeczpospolitą Ludową z Białoruską Socjalistyczną Republiką Radziecką, Ukraińską Socjalistyczną Republiką Radziecką, Litewską Socjalistyczną Republiką Radziecką i Związkiem Socjalistycznych Republik Radzieckich, do jednego z państw będących stroną tych umów.
 
@@ -66,9 +64,9 @@ Art. 25–29. (pominięte)
 
 **Art. 4.**
 
-1. Do postępowań w sprawach uregulowanych w ustawie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), jeżeli niniejsza ustawa nie stanowi inaczej.
+1. Do postępowań w sprawach uregulowanych w ustawie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), jeżeli niniejsza ustawa nie stanowi inaczej.
 
-2. Do postępowań w sprawach należących do właściwości konsulów stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171).
+2. Do postępowań w sprawach należących do właściwości konsulów stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171).
 
 #### Rozdział 2 Uprawnienia posiadacza Karty Polaka
 
@@ -81,9 +79,9 @@ Art. 25–29. (pominięte)
 1. Posiadacz Karty Polaka ma prawo do:
 
 - **1)** wykonywania pracy na zasadach określonych w ustawie z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621 i 1794);
-- **2)** podejmowania i wykonywania działalności gospodarczej na takich samych zasadach jak obywatele polscy na zasadach określonych w ustawie z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) oraz w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794);
-- **3)** kształcenia w szkole doktorskiej, podejmowania i odbywania studiów oraz innych form kształcenia, a także uczestniczenia w działalności naukowej na zasadach określonych w ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
-- **4)** korzystania z form kształcenia na zasadach określonych w ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837) oraz ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019);
+- **2)** podejmowania i wykonywania działalności gospodarczej na takich samych zasadach jak obywatele polscy na zasadach określonych w ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) oraz w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794);
+- **3)** kształcenia w szkole doktorskiej, podejmowania i odbywania studiów oraz innych form kształcenia, a także uczestniczenia w działalności naukowej na zasadach określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **4)** korzystania z form kształcenia na zasadach określonych w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837) oraz ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019);
 - **5)** korzystania ze świadczeń opieki zdrowotnej w stanach nagłych, w zakresie określonym w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26), chyba że umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, przewiduje zasady bardziej korzystne;
 - **6)** ulgi 37 % przy przejazdach środkami publicznego transportu zbiorowego kolejowego w pociągach osobowych, pospiesznych i ekspresowych, na podstawie biletów jednorazowych, na zasadach określonych w ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2024 r. poz. 380);
 - **7)** bezpłatnego wstępu do muzeów państwowych;
@@ -123,14 +121,14 @@ Art. 25–29. (pominięte)
 
 3. Zadanie starosty, o którym mowa w ust. 2, jest zadaniem zleconym z zakresu administracji rządowej.
 
-4. Organem wyższego stopnia w stosunku do wojewody w rozumieniu ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w sprawach, o których mowa w ust. 1, jest minister właściwy do spraw wewnętrznych.
+4. Organem wyższego stopnia w stosunku do wojewody w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w sprawach, o których mowa w ust. 1, jest minister właściwy do spraw wewnętrznych.
 
 **Art. 8c.**
 
 1. Świadczenie pieniężne ustala się w kwocie stanowiącej:
 
-- **1)** w okresie pierwszych 3 miesięcy równowartość 50 % minimalnego wynagrodzenia za pracę, obowiązującego w roku złożenia wniosku o przyznanie świadczenia pieniężnego na wnioskodawcę i jego małżonka oraz równowartość 50 % tej kwoty na każde małoletnie dziecko pozostające pod władzą rodzicielską wnioskodawcy lub jego małżonka;
-- **2)** w okresie od 4. do 9. miesiąca odpowiednio 60 % kwot określonych w pkt 1.
+- **1)** w okresie pierwszych 3 miesięcy – równowartość 50 % minimalnego wynagrodzenia za pracę, obowiązującego w roku złożenia wniosku o przyznanie świadczenia pieniężnego – na wnioskodawcę i jego małżonka oraz równowartość 50 % tej kwoty na każde małoletnie dziecko pozostające pod władzą rodzicielską wnioskodawcy lub jego małżonka;
+- **2)** w okresie od 4. do 9. miesiąca – odpowiednio 60 % kwot określonych w pkt 1.
 
 2. Przy ustalaniu wysokości świadczenia pieniężnego uwzględnia się wyłącznie członków rodziny wnioskodawcy, określonych w ust. 1 pkt 1, którzy przebywają razem z nim na terenie Rzeczypospolitej Polskiej.
 
@@ -156,14 +154,14 @@ Art. 25–29. (pominięte)
 
 2. Rada do Spraw Polaków poza Granicami Kraju, zwana dalej „Radą”, jest organem administracji publicznej rozpatrującym odwołania od decyzji, o których mowa w art. 12, art. 19 i art. 20.
 
-3. Rada jest organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+3. Rada jest organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 4. Rada jest także organem właściwym w sprawach wznowienia postępowania, uchylenia, zmiany lub stwierdzenia nieważności wydanych przez siebie decyzji lub postanowień.
 
 5. Minister właściwy do spraw zagranicznych określi, w drodze rozporządzenia:
 
 - **1)** wewnętrzną organizację i tryb pracy Rady, w tym tryb podejmowania decyzji,
-- **2)** tryb wyboru, uprawnienia i obowiązki przewodniczącego Rady, wysokość wynagrodzenia przewodniczącego i członków Rady oraz sposób pokrywania pozostałych wydatków związanych z pracami Rady uwzględniając zakres zadań Rady oraz konieczność ich sprawnego i terminowego wykonywania.
+- **2)** tryb wyboru, uprawnienia i obowiązki przewodniczącego Rady, wysokość wynagrodzenia przewodniczącego i członków Rady oraz sposób pokrywania pozostałych wydatków związanych z pracami Rady – uwzględniając zakres zadań Rady oraz konieczność ich sprawnego i terminowego wykonywania.
 
 6. Obsługę administracyjną i kancelaryjną Rady wykonuje urząd obsługujący ministra właściwego do spraw zagranicznych w szczególności poprzez:
 
@@ -171,7 +169,7 @@ Art. 25–29. (pominięte)
 - **2)** prowadzenie rejestru odwołań od decyzji konsulów lub wojewodów w sprawach odmowy przyznania oraz unieważnienia Karty Polaka;
 - **3)** wykonywanie innych czynności związanych z działalnością Rady, w tym czynności technicznych i kancelaryjno-biurowych.
 
-7. Działalność Rady jest finansowana z budżetu państwa, z rozdziału dotyczącego Rady do Spraw Polaków poza Granicami Kraju, z części Sprawy zagraniczne.
+7. Działalność Rady jest finansowana z budżetu państwa, z rozdziału dotyczącego Rady do Spraw Polaków poza Granicami Kraju, z części – Sprawy zagraniczne.
 
 8. (uchylony)
 
@@ -231,11 +229,11 @@ Art. 25–29. (pominięte)
 
 5. W przypadku osób, o których mowa w art. 2 ust. 3, właściwy organ wydaje decyzję o przyznaniu Karty Polaka na podstawie decyzji, o której mowa w ust. 3 pkt 8.
 
-6. W odniesieniu do wnioskodawcy szczególnie zasłużonego dla Rzeczypospolitej Polskiej konsul lub w przypadku, o którym mowa w art. 12 ust. 4 wojewoda, może wydać decyzję o przyznaniu Karty Polaka bez konieczności przedstawiania przez wnioskodawcę dokumentów, o których mowa w ust. 3.
+6. W odniesieniu do wnioskodawcy szczególnie zasłużonego dla Rzeczypospolitej Polskiej konsul lub w przypadku, o którym mowa w art. 12 ust. 4 – wojewoda, może wydać decyzję o przyznaniu Karty Polaka bez konieczności przedstawiania przez wnioskodawcę dokumentów, o których mowa w ust. 3.
 
 7. Wnioskodawca ubiegający się o przyznanie Karty Polaka wykazuje posiadanie znajomości języka polskiego przez przedłożenie poświadczenia, o którym mowa w art. 11a ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2024 r. poz. 1556 oraz z 2025 r. poz. 622 i 1564), świadectwa ukończenia szkoły lub studiów w Rzeczypospolitej Polskiej lub świadectwa ukończenia szkoły za granicą z wykładowym językiem polskim.
 
-8. W odniesieniu do wnioskodawców, którzy nie wykazali posiadania znajomości języka polskiego w trybie przewidzianym w ust. 7, oceny znajomości języka polskiego dokonuje podczas rozmowy konsul, a w przypadku, o którym mowa w art. 12 ust. 4 wojewoda.
+8. W odniesieniu do wnioskodawców, którzy nie wykazali posiadania znajomości języka polskiego w trybie przewidzianym w ust. 7, oceny znajomości języka polskiego dokonuje podczas rozmowy konsul, a w przypadku, o którym mowa w art. 12 ust. 4 – wojewoda.
 
 **Art. 14.** Do wniosku o przyznanie Karty Polaka wnioskodawca dołącza kopię ważnego dokumentu potwierdzającego tożsamość.
 
@@ -246,7 +244,7 @@ Art. 25–29. (pominięte)
 1. Małoletniemu przyznaje się Kartę Polaka na wniosek rodziców, gdy:
 
 - **1)** oboje rodzice posiadają Kartę Polaka;
-- **2)** jeden z rodziców posiada Kartę Polaka za zgodą drugiego z rodziców wyrażoną w oświadczeniu złożonym przed konsulem lub notariuszem, a w przypadku, o którym mowa w art. 12 ust. 4 wojewodą, chyba że drugiemu z rodziców nie przysługuje władza rodzicielska.
+- **2)** jeden z rodziców posiada Kartę Polaka – za zgodą drugiego z rodziców wyrażoną w oświadczeniu złożonym przed konsulem lub notariuszem, a w przypadku, o którym mowa w art. 12 ust. 4 – wojewodą, chyba że drugiemu z rodziców nie przysługuje władza rodzicielska.
 
 2. Przyznanie Karty Polaka małoletniemu, który ukończył 16 lat, może nastąpić jedynie za jego zgodą.
 
@@ -270,13 +268,13 @@ Art. 25–29. (pominięte)
 
 5. (uchylony)
 
-6. Jeżeli w okresie ważności Karty Polaka nastąpiła zmiana danych jej posiadacza uwidocznionych w tej Karcie, na wniosek posiadacza lub jego przedstawiciela ustawowego, na podstawie przedłożonych dokumentów stanu cywilnego, właściwy konsul, a w przypadku, o którym mowa w art. 12 ust. 4 wojewoda, wydaje Kartę Polaka z uwzględnieniem zmienionych danych.
+6. Jeżeli w okresie ważności Karty Polaka nastąpiła zmiana danych jej posiadacza uwidocznionych w tej Karcie, na wniosek posiadacza lub jego przedstawiciela ustawowego, na podstawie przedłożonych dokumentów stanu cywilnego, właściwy konsul, a w przypadku, o którym mowa w art. 12 ust. 4 – wojewoda, wydaje Kartę Polaka z uwzględnieniem zmienionych danych.
 
 7. Nowa Karta Polaka wydawana w związku ze zmianą danych lub duplikat Karty Polaka wydawane są na okres 10 lat; przepisy ust. 2a i 3 stosuje się odpowiednio.
 
 **Art. 18.**
 
-1. Kartę Polaka osobie, której ją przyznano, wydaje konsul a w przypadku, o którym mowa w art. 12 ust. 4 wojewoda, albo inna wyznaczona przez niego osoba.
+1. Kartę Polaka osobie, której ją przyznano, wydaje konsul a w przypadku, o którym mowa w art. 12 ust. 4 – wojewoda, albo inna wyznaczona przez niego osoba.
 
 2. Jeżeli jest to możliwe, wręczenie Karty Polaka następuje w sposób uroczysty.
 
@@ -284,21 +282,28 @@ Art. 25–29. (pominięte)
 
 4. W przypadku zagubienia lub zniszczenia Karty Polaka właściwy konsul lub wojewoda, na wniosek jej posiadacza, wydaje duplikat Karty Polaka.
 
-**Art. 19.** Konsul lub w przypadku, o którym mowa w art. 12 ust. 4 wojewoda, wydaje decyzję o odmowie przyznania Karty Polaka w przypadku, gdy:
+**Art. 19.** Konsul lub w przypadku, o którym mowa w art. 12 ust. 4 – wojewoda, wydaje decyzję o odmowie przyznania Karty Polaka w przypadku, gdy:
+
+- **1)** wnioskodawca nie spełnia warunków określonych w art. 2, z zastrzeżeniem art. 13 ust. 6;
+- **2)** w postępowaniu o przyznanie Karty Polaka wnioskodawca złożył wniosek lub dołączył do niego dokumenty zawierające nieprawdziwe dane osobowe lub fałszywe informacje, jak również gdy oświadczył nieprawdę lub zataił prawdę albo, w celu użycia jako autentycznego, podrobił lub przerobił dokument albo takiego dokumentu jako autentycznego użył;
+- **3)** wnioskodawca lub jego wstępni repatriowali się lub zostali repatriowani z terytorium Rzeczypospolitej Polskiej albo Polskiej Rzeczypospolitej Ludowej, na podstawie umów repatriacyjnych zawartych w latach 1944–1957 przez Rzeczpospolitą Polską albo przez Polską Rzeczpospolitą Ludową z Białoruską Socjalistyczną Republiką Radziecką, Ukraińską Socjalistyczną Republiką Radziecką, Litewską Socjalistyczną Republiką Radziecką i Związkiem Socjalistycznych Republik Radzieckich, do jednego z państw będących stroną tych umów;
+- **4)** wnioskodawca nabył obywatelstwo polskie albo uzyskał zezwolenie na pobyt stały na terytorium Rzeczypospolitej Polskiej;
+- **5)** przemawiają za tym względy obronności, bezpieczeństwa albo ochrony porządku publicznego Rzeczypospolitej Polskiej;
+- **6)** wnioskodawca działał lub działa na szkodę Rzeczypospolitej Polskiej, a zwłaszcza jej niepodległości i suwerenności, lub uczestniczył lub uczestniczy w łamaniu praw człowieka.
 
 **Art. 19a.**
 
-1. Po wprowadzeniu przez właściwego konsula lub w przypadku, o którym mowa w art. 12 ust. 4 wojewodę, wniosku o przyznanie Karty Polaka lub przedłużenie jej ważności do rejestru, o którym mowa w art. 23 ust. 1, Szef Agencji Bezpieczeństwa Wewnętrznego przedstawia informację, czy wobec wnioskodawcy zachodzą okoliczności, o których mowa w art. 19 pkt 5 lub 6.
+1. Po wprowadzeniu przez właściwego konsula lub w przypadku, o którym mowa w art. 12 ust. 4 – wojewodę, wniosku o przyznanie Karty Polaka lub przedłużenie jej ważności do rejestru, o którym mowa w art. 23 ust. 1, Szef Agencji Bezpieczeństwa Wewnętrznego przedstawia informację, czy wobec wnioskodawcy zachodzą okoliczności, o których mowa w art. 19 pkt 5 lub 6.
 
-2. Właściwy konsul lub w przypadku, o którym mowa w art. 12 ust. 4 wojewoda może, niezależnie od trybu określonego w ust. 1, zwrócić się do Szefa Agencji Bezpieczeństwa Wewnętrznego, a w razie potrzeby także do innych organów administracji publicznej, o przedstawienie informacji, czy wobec wnioskodawcy zachodzą okoliczności, o których mowa w art. 19 pkt 5 lub 6, wskazując okoliczności istotne w sprawie.
+2. Właściwy konsul lub – w przypadku, o którym mowa w art. 12 ust. 4 – wojewoda może, niezależnie od trybu określonego w ust. 1, zwrócić się do Szefa Agencji Bezpieczeństwa Wewnętrznego, a w razie potrzeby także do innych organów administracji publicznej, o przedstawienie informacji, czy wobec wnioskodawcy zachodzą okoliczności, o których mowa w art. 19 pkt 5 lub 6, wskazując okoliczności istotne w sprawie.
 
 3. Właściwe organy przedstawiają informacje, o których mowa w ust. 1 i 2, w terminie 30 dni od dnia wprowadzenia wniosku o przyznanie Karty Polaka lub przedłużenie jej ważności do rejestru, o którym mowa w art. 23 ust. 1. Nieprzedstawienie informacji w tym terminie uznaje się za równoważne z brakiem okoliczności, o których mowa w art. 19 pkt 5 i 6.
 
-4. Właściwy konsul lub w przypadku, o którym mowa w art. 12 ust. 4 wojewoda wydaje decyzję o przyznaniu albo odmowie przyznania Karty Polaka lub decyzję o przedłużeniu ważności Karty Polaka albo odmowie przedłużenia jej ważności nie później niż w terminie 30 dni od dnia przedstawienia przez właściwe organy informacji, o której mowa w ust. 1 i 2, albo upływu terminu określonego w ust. 3.
+4. Właściwy konsul lub – w przypadku, o którym mowa w art. 12 ust. 4 – wojewoda wydaje decyzję o przyznaniu albo odmowie przyznania Karty Polaka lub decyzję o przedłużeniu ważności Karty Polaka albo odmowie przedłużenia jej ważności nie później niż w terminie 30 dni od dnia przedstawienia przez właściwe organy informacji, o której mowa w ust. 1 i 2, albo upływu terminu określonego w ust. 3.
 
 **Art. 20.**
 
-1. Konsul lub w przypadku, o którym mowa w art. 12 ust. 4 wojewoda, w drodze decyzji, z urzędu unieważnia Kartę Polaka w przypadku:
+1. Konsul lub w przypadku, o którym mowa w art. 12 ust. 4 – wojewoda, w drodze decyzji, z urzędu unieważnia Kartę Polaka w przypadku:
 
 - **1)** gdy po otrzymaniu Karty Polaka jej posiadacz zachowuje się w sposób uwłaczający Rzeczypospolitej Polskiej lub Polakom;
 - **2)** gdy zachodzi jedna z przesłanek określonych w art. 19 pkt 2, 5 lub 6;
@@ -318,9 +323,12 @@ Art. 25–29. (pominięte)
 
 1. Organem odwoławczym od decyzji, o których mowa w art. 12, art. 19 i art. 20, jest Rada.
 
-2. Odwołanie wnosi się za pośrednictwem konsula, a w przypadku, o którym mowa w art. 12 ust. 4 wojewody, w terminie 30 dni od dnia doręczenia decyzji.
+2. Odwołanie wnosi się za pośrednictwem konsula, a w przypadku, o którym mowa w art. 12 ust. 4 – wojewody, w terminie 30 dni od dnia doręczenia decyzji.
 
 **Art. 22.** Minister właściwy do spraw zagranicznych określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku o przyznanie Karty Polaka lub przedłużenie jej ważności,
+- **2)** wzór Karty Polaka – uwzględniając dane, które muszą być zawarte we wniosku oraz dane i informacje, jakie powinny być zawarte w Karcie Polaka, a także biorąc pod uwagę, że zapisu imienia i nazwiska w Karcie Polaka dokonuje się zgodnie z dokumentem tożsamości wnioskodawcy, chyba że we wniosku wnioskodawca oświadczy, że chce aby te dane były zapisane również w języku polskim.
 
 #### Rozdział 5 Rejestry i ewidencje
 
@@ -397,6 +405,11 @@ Art. 25–29. (pominięte)
 5. Minister właściwy do spraw wewnętrznych ogłasza w Biuletynie Informacji Publicznej informację o poziomie wykorzystania kwoty zaplanowanej w ustawie budżetowej na wypłatę świadczeń pieniężnych według stanu na koniec każdego miesiąca.
 
 **Art. 24d.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy tryb podziału rezerwy celowej na wypłatę świadczeń pieniężnych oraz przekazywania środków na pokrycie wydatków związanych z udzielaniem tych świadczeń,
+- **2)** termin składania wniosków o dotacje, o których mowa w art. 24b ust. 2,
+- **3)** wzór wniosku o udzielenie dotacji, o którym mowa w art. 24b ust. 2,
+- **4)** termin przekazywania informacji, o których mowa w art. 24c ust. 3 i 4 – uwzględniając konieczność efektywnego wykorzystania środków rezerwy celowej oraz rozliczania przez jednostki samorządu terytorialnego otrzymanych w formie dotacji środków budżetowych.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących i przepisy końcowe
 

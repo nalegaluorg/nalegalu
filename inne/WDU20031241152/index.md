@@ -8,7 +8,7 @@ pos: 1152
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
@@ -33,17 +33,24 @@ Art. 141–158. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady zawierania i wykonywania umów obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, obowiązkowego ubezpieczenia odpowiedzialności cywilnej rolników z tytułu posiadania gospodarstwa rolnego i obowiązkowego ubezpieczenia budynków wchodzących w skład gospodarstwa rolnego od ognia i innych zdarzeń losowych;
+- **2)** sposób kontroli spełnienia obowiązku zawarcia umów ubezpieczeń, o których mowa w pkt 1, oraz konsekwencje niespełnienia tego obowiązku;
+- **3)** podstawowe zasady, jakim powinny odpowiadać inne, niż określone w pkt 1, umowy ubezpieczeń obowiązkowych;
+- **4)** zadania i zasady działania Ubezpieczeniowego Funduszu Gwarancyjnego i Polskiego Biura Ubezpieczycieli Komunikacyjnych.
+
 **Art. 2.**
 
-1. Określenia użyte w ustawie oznaczają: państwa, które prowadzą działalność ubezpieczeniową w zakresie ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych;
+1. Określenia użyte w ustawie oznaczają:
 
+- **1)** biuro narodowe – organizację zakładów ubezpieczeń na terytorium danego państwa, które prowadzą działalność ubezpieczeniową w zakresie ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych;
 - **2)** budynek wchodzący w skład gospodarstwa rolnego – obiekt budowlany o powierzchni powyżej 20 m określony w art. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834, 1222, 1847 i 1881), będący w posiadaniu rolnika;
 - **3)** centralna ewidencja pojazdów – centralną ewidencję pojazdów określoną w art. 80a–80d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251);
 - **4)** gospodarstwo rolne – obszar użytków rolnych, gruntów pod stawami oraz sklasyfikowanych jako użytki rolne gruntów pod zabudowaniami, przekraczający łącznie powierzchnię 1,0 ha, jeżeli podlega on w całości lub części opodatkowaniu podatkiem rolnym, a także obszar takich użytków i gruntów, niezależnie od jego powierzchni, jeżeli jest prowadzona na nim produkcja rolna, stanowiąca dział specjalny w rozumieniu przepisów o podatku dochodowym od osób fizycznych;
 - **5)** komisja do rozpatrywania roszczeń – komisję do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce, powołaną przez Ministra Obrony Narodowej na podstawie ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2024 r. poz.
 - **1770)** ;
 - **6)** organ nadzoru – Komisję Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135 oraz z 2025 r. poz. 146);
-- **7)** organ odszkodowawczy – organ odpowiedzialny za zaspokajanie roszczeń poszkodowanych z tytułu umów ubezpieczenia obowiązkowego, o którym mowa w art. 4 pkt 1, wynikających ze zdarzeń, które zaistniały na terytorium państwa członkowskiego Unii Europejskiej innego niż miejsce zamieszkania poszkodowanego oraz na terytorium państw trzecich, i powstałych w związku z ruchem pojazdów mechanicznych ubezpieczonych i zarejestrowanych w państwie członkowskim Unii Europejskiej; obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych oraz informacje o reprezentantach do spraw roszczeń ustanowionych przez zakłady ubezpieczeń;
+- **7)** organ odszkodowawczy – organ odpowiedzialny za zaspokajanie roszczeń poszkodowanych z tytułu umów ubezpieczenia obowiązkowego, o którym mowa w art. 4 pkt 1, wynikających ze zdarzeń, które zaistniały na terytorium państwa członkowskiego Unii Europejskiej innego niż miejsce zamieszkania poszkodowanego oraz na terytorium państw trzecich, i powstałych w związku z ruchem pojazdów mechanicznych ubezpieczonych i zarejestrowanych w państwie członkowskim Unii Europejskiej;
+- **8)** ośrodek informacji – ośrodek gromadzący informacje o umowach obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych oraz informacje o reprezentantach do spraw roszczeń ustanowionych przez zakłady ubezpieczeń;
 - **9)** państwo trzecie – państwo niebędące państwem członkowskim Unii Europejskiej, którego biuro narodowe jest Członkiem Systemu Zielonej Karty;
 - **10)** pojazd mechaniczny:
     - **a)** pojazd samochodowy, ciągnik rolniczy, motorower i przyczepę określone w przepisach ustawy – Prawo o ruchu drogowym,
@@ -56,7 +63,8 @@ Art. 141–158. (pominięte)
     - **b)** pojazdem mającym co najmniej 40 lat,
     - **c)** pojazdem mającym co najmniej 25 lat i który został uznany przez rzeczoznawcę samochodowego za pojazd unikatowy lub mający szczególne znaczenie dla udokumentowania historii motoryzacji;
 
-- **11a)** reprezentant do spraw roszczeń – reprezentanta do spraw roszczeń w rozumieniu przepisów ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838, 1565 i 1863 oraz z 2025 r. poz. 146), ustanowionego w Rzeczypospolitej Polskiej przez zagraniczny zakład ubezpieczeń z państwa członkowskiego Unii Europejskiej; gospodarstwo rolne;
+- **11a)** reprezentant do spraw roszczeń – reprezentanta do spraw roszczeń w rozumieniu przepisów ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838, 1565 i 1863 oraz z 2025 r. poz. 146), ustanowionego w Rzeczypospolitej Polskiej przez zagraniczny zakład ubezpieczeń z państwa członkowskiego Unii Europejskiej;
+- **12)** rolnik – osobę fizyczną, w której posiadaniu lub współposiadaniu jest gospodarstwo rolne;
 - **12a)** szkoda istotna – szkodę, o której mowa w art. 2 pkt 10a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
 - **12b)** ruch pojazdu – każde użycie pojazdu mechanicznego, które w czasie zdarzenia jest zgodne z funkcją tego pojazdu jako środka transportu, niezależnie od jego cech i terenu, na którym jest używany, oraz niezależnie od tego, czy jest on nieruchomy, czy też znajduje się w ruchu;
 - **13)** trzęsienie ziemi – naturalny, krótki i gwałtowny wstrząs (lub ich serię) gruntu, powstały pod powierzchnią ziemi i rozchodzący się w postaci fal sejsmicznych od ośrodka (epicentrum), znajdującego się na powierzchni, gdzie drgania są najsilniejsze; przy określaniu siły trzęsienia ziemi używa się skali magnitud (skala Richtera);
@@ -64,7 +72,9 @@ Art. 141–158. (pominięte)
 - **14a)** wprowadzenie pojazdu do ruchu – każde użycie pojazdu mechanicznego zgodne z funkcją tego pojazdu jako środka transportu, niezależnie od jego cech i terenu, na którym jest używany, oraz niezależnie od tego, czy jest on nieruchomy, czy też znajduje się w ruchu;
 - **15)** Porozumienie Wielostronne – umowa zawarta między biurami narodowymi z państw członkowskich Unii Europejskiej, państw Europejskiego Porozumienia o Wolnym Handlu (EFTA) oraz państw stowarzyszonych, określająca wzajemne stosunki między biurami narodowymi;
 - **16)** sygnatariusz Porozumienia Wielostronnego – biuro narodowe, które zawarło umowę dotyczącą zaspokajania roszczeń wynikających z międzynarodowego ruchu pojazdów mechanicznych, zgodnie z postanowieniami Porozumienia Wielostronnego;
-- **17)** Zielona Karta – międzynarodowy certyfikat ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, wystawiony w imieniu biura narodowego. należy przez to rozumieć także państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+- **17)** Zielona Karta – międzynarodowy certyfikat ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, wystawiony w imieniu biura narodowego.
+
+2. Ilekroć w ustawie jest mowa o państwach członkowskich Unii Europejskiej należy przez to rozumieć także państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 3.**
 
@@ -74,13 +84,18 @@ Art. 141–158. (pominięte)
 
 **Art. 4.** Ubezpieczeniami obowiązkowymi są:
 
+- **1)** ubezpieczenie odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów, zwane dalej „ubezpieczeniem OC posiadaczy pojazdów mechanicznych”;
+- **2)** ubezpieczenie odpowiedzialności cywilnej rolników z tytułu posiadania gospodarstwa rolnego, zwane dalej „ubezpieczeniem OC rolników”;
+- **3)** ubezpieczenie budynków wchodzących w skład gospodarstwa rolnego od ognia i innych zdarzeń losowych, zwane dalej „ubezpieczeniem budynków rolniczych”;
+- **4)** ubezpieczenia wynikające z przepisów odrębnych ustaw lub umów międzynarodowych ratyfikowanych przez Rzeczpospolitą Polską, nakładających na określone podmioty obowiązek zawarcia umowy ubezpieczenia.
+
 **Art. 5.**
 
 1. Ubezpieczający zawiera umowę ubezpieczenia obowiązkowego z wybranym zakładem ubezpieczeń, wykonującym działalność ubezpieczeniową w zakresie tego ubezpieczenia.
 
 2. Zakład ubezpieczeń posiadający zezwolenie na wykonywanie działalności ubezpieczeniowej w grupach obejmujących ubezpieczenia obowiązkowe nie może odmówić zawarcia umowy ubezpieczenia obowiązkowego, jeżeli w ramach prowadzonej działalności ubezpieczeniowej zawiera takie umowy ubezpieczenia.
 
-2a. Zakład ubezpieczeń przed zawarciem umowy, o której mowa w art. 23 ust. 1, może weryfikować w sposób, o którym mowa w art. 23j lub art. 23m ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274, 1006 i 1176), za pośrednictwem systemu teleinformatycznego obsługującego Ubezpieczeniowy Fundusz Gwarancyjny, w rejestrze zastrzeżeń numerów PESEL, o którym mowa w art. 23a tej ustawy, czy numer PESEL ubezpieczającego lub osoby, na rzecz której ma być zawarta umowa, o której mowa w art. 23 ust. 1, jest zastrzeżony. W przypadku się.
+2a. Zakład ubezpieczeń przed zawarciem umowy, o której mowa w art. 23 ust. 1, może weryfikować w sposób, o którym mowa w art. 23j lub art. 23m ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274, 1006 i 1176), za pośrednictwem systemu teleinformatycznego obsługującego Ubezpieczeniowy Fundusz Gwarancyjny, w rejestrze zastrzeżeń numerów PESEL, o którym mowa w art. 23a tej ustawy, czy numer PESEL ubezpieczającego lub osoby, na rzecz której ma być zawarta umowa, o której mowa w art. 23 ust. 1, jest zastrzeżony. W przypadku gdy weryfikacja wykaże, że numer PESEL jest zastrzeżony, przepisu ust. 2 nie stosuje się.
 
 3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, rodzaj i zakres dokumentu potwierdzającego zawarcie umowy ubezpieczenia obowiązkowego, uwzględniając w szczególności rodzaj ubezpieczenia obowiązkowego.
 
@@ -102,7 +117,9 @@ Art. 141–158. (pominięte)
 
 3. (uchylony)
 
-4. W przypadku czasowego wycofania pojazdu z ruchu w rozumieniu art. 78a ustawy – Prawo o ruchu drogowym, skutkującego zmniejszeniem prawdopodobieństwa wypadku w okresie ubezpieczenia, zakład ubezpieczeń, na wniosek posiadacza pojazdu mechanicznego, jest obowiązany do proporcjonalnego obniżenia składki ubezpieczeniowej na okres czasowego wycofania pojazdu z ruchu. uwzględnieniu przysługujących posiadaczowi pojazdu mechanicznego zniżek składki, ulega obniżeniu nie mniej niż o 95 %.
+4. W przypadku czasowego wycofania pojazdu z ruchu w rozumieniu art. 78a ustawy – Prawo o ruchu drogowym, skutkującego zmniejszeniem prawdopodobieństwa wypadku w okresie ubezpieczenia, zakład ubezpieczeń, na wniosek posiadacza pojazdu mechanicznego, jest obowiązany do proporcjonalnego obniżenia składki ubezpieczeniowej na okres czasowego wycofania pojazdu z ruchu.
+
+5. Składka ubezpieczeniowa, w przypadku określonym w ust. 4, po uwzględnieniu przysługujących posiadaczowi pojazdu mechanicznego zniżek składki, ulega obniżeniu nie mniej niż o 95 %.
 
 6. Posiadacz pojazdu mechanicznego jest obowiązany do niezwłocznego powiadomienia zakładu ubezpieczeń o ustaniu czasowego wycofania pojazdu z ruchu, o którym mowa w ust. 4.
 
@@ -124,7 +141,7 @@ Art. 141–158. (pominięte)
 
 **Art. 10.**
 
-1. Obowiązek ubezpieczenia uważa się za spełniony, jeżeli została zawarta umowa ubezpieczenia, na podstawie której osoba obciążona tym ochrony odpowiadają przepisom ustawy lub odrębnych ustaw lub umów międzynarodowych wprowadzających obowiązek ubezpieczenia.
+1. Obowiązek ubezpieczenia uważa się za spełniony, jeżeli została zawarta umowa ubezpieczenia, na podstawie której osoba obciążona tym obowiązkiem korzysta z ochrony ubezpieczeniowej, a czas trwania i zakres tej ochrony odpowiadają przepisom ustawy lub odrębnych ustaw lub umów międzynarodowych wprowadzających obowiązek ubezpieczenia.
 
 1a. Umowa ubezpieczenia obowiązkowego nie może obejmować ubezpieczeniem okresu poprzedzającego zawarcie tej umowy.
 
@@ -146,7 +163,7 @@ Art. 141–158. (pominięte)
 
 **Art. 13.**
 
-1. Zakład ubezpieczeń wypłaca odszkodowanie lub świadczenie z tytułu ubezpieczenia obowiązkowego na podstawie uznania roszczenia uprawnionego orzeczenia sądu lub w sposób określony w przepisach ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581).
+1. Zakład ubezpieczeń wypłaca odszkodowanie lub świadczenie z tytułu ubezpieczenia obowiązkowego na podstawie uznania roszczenia uprawnionego z umowy ubezpieczenia w wyniku ustaleń, zawartej z nim ugody, prawomocnego orzeczenia sądu lub w sposób określony w przepisach ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581).
 
 2. W obowiązkowych ubezpieczeniach odpowiedzialności cywilnej odszkodowanie wypłaca się w granicach odpowiedzialności cywilnej podmiotów objętych ubezpieczeniem, nie wyżej jednak niż do wysokości sumy gwarancyjnej ustalonej w umowie.
 
@@ -160,7 +177,7 @@ Art. 141–158. (pominięte)
 
 3. Jeżeli odszkodowanie nie przysługuje lub przysługuje w innej wysokości niż określona w zgłoszonym roszczeniu, zakład ubezpieczeń informuje o tym na piśmie osobę występującą z roszczeniem w terminie, o którym mowa w ust. 1 albo 2, wskazując na okoliczności oraz podstawę prawną uzasadniającą całkowitą lub częściową odmowę wypłaty odszkodowania, jak również na przyczyny, dla których odmówił wiarygodności okolicznościom dowodowym podniesionym przez osobę zgłaszającą roszczenie. Pismo zakładu ubezpieczeń powinno zawierać pouczenie o możliwości dochodzenia roszczeń na drodze sądowej.
 
-3a. W przypadku niewypłacenia przez krajowy zakład ubezpieczeń odszkodowania w terminie, o którym mowa w ust. 1 albo 2, lub niedopełnienia obowiązku, o którym mowa w ust. 3, organ nadzoru stosuje wobec krajowego zakładu września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, zwanej dalej „ustawą o działalności ubezpieczeniowej”.
+3a. W przypadku niewypłacenia przez krajowy zakład ubezpieczeń odszkodowania w terminie, o którym mowa w ust. 1 albo 2, lub niedopełnienia obowiązku, o którym mowa w ust. 3, organ nadzoru stosuje wobec krajowego zakładu ubezpieczeń środki nadzorcze określone w art. 362 ust. 1 pkt 1 lub 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, zwanej dalej „ustawą o działalności ubezpieczeniowej”.
 
 3b. W przypadku niewypłacenia przez zagraniczny zakład ubezpieczeń odszkodowania w terminie, o którym mowa w ust. 1 albo 2, lub niedopełnienia obowiązku, o którym mowa w ust. 3, organ nadzoru:
 
@@ -171,7 +188,7 @@ Art. 141–158. (pominięte)
 
 4a. Ubezpieczeniowy Fundusz Gwarancyjny, z zastrzeżeniem art. 14a, wypłaca odszkodowanie na zasadach określonych w rozdziale 7. Jeżeli Ubezpieczeniowy Fundusz Gwarancyjny po dokonaniu wypłaty ustali odpowiedzialność zakładu ubezpieczeń, o którym mowa w ust. 4, albo innego zakładu ubezpieczeń, Ubezpieczeniowy Fundusz Gwarancyjny dochodzi od tego zakładu ubezpieczeń zwrotu wypłaconego odszkodowania i poniesionych kosztów.
 
-5. Ubezpieczeniowy Fundusz Gwarancyjny ma obowiązek udostępniać poszkodowanemu lub uprawnionemu informacje i dokumenty gromadzone w celu ustalenia odpowiedzialności Ubezpieczeniowego Funduszu Gwarancyjnego lub wysokości świadczenia. Osoby te mogą żądać pisemnego potwierdzenia przez sporządzenia na swój koszt kserokopii dokumentów i potwierdzenia ich zgodności z oryginałem przez Ubezpieczeniowy Fundusz Gwarancyjny. Informacje i dokumenty Ubezpieczeniowy Fundusz Gwarancyjny ma obowiązek udostępniać poszkodowanym i uprawnionym, na ich żądanie, w postaci elektronicznej. Sposób udostępniania informacji i dokumentów, zapewniania możliwości pisemnego potwierdzania udostępnianych informacji, a także zapewniania możliwości sporządzania kserokopii dokumentów i potwierdzania ich zgodności z oryginałem nie może wiązać się z wykraczającymi ponad uzasadnioną potrzebę utrudnieniami dla tych osób, zaś koszty sporządzenia kserokopii oraz udostępniania informacji i dokumentów w postaci elektronicznej ponoszone przez te osoby nie mogą odbiegać od przyjętych w obrocie zwykłych kosztów wykonywania tego rodzaju usług.
+5. Ubezpieczeniowy Fundusz Gwarancyjny ma obowiązek udostępniać poszkodowanemu lub uprawnionemu informacje i dokumenty gromadzone w celu ustalenia odpowiedzialności Ubezpieczeniowego Funduszu Gwarancyjnego lub wysokości świadczenia. Osoby te mogą żądać pisemnego potwierdzenia przez Ubezpieczeniowy Fundusz Gwarancyjny udostępnionych informacji, a także sporządzenia na swój koszt kserokopii dokumentów i potwierdzenia ich zgodności z oryginałem przez Ubezpieczeniowy Fundusz Gwarancyjny. Informacje i dokumenty Ubezpieczeniowy Fundusz Gwarancyjny ma obowiązek udostępniać poszkodowanym i uprawnionym, na ich żądanie, w postaci elektronicznej. Sposób udostępniania informacji i dokumentów, zapewniania możliwości pisemnego potwierdzania udostępnianych informacji, a także zapewniania możliwości sporządzania kserokopii dokumentów i potwierdzania ich zgodności z oryginałem nie może wiązać się z wykraczającymi ponad uzasadnioną potrzebę utrudnieniami dla tych osób, zaś koszty sporządzenia kserokopii oraz udostępniania informacji i dokumentów w postaci elektronicznej ponoszone przez te osoby nie mogą odbiegać od przyjętych w obrocie zwykłych kosztów wykonywania tego rodzaju usług.
 
 6. Przepisy ust. 5 stosuje się odpowiednio do Polskiego Biura Ubezpieczycieli Komunikacyjnych w zakresie szkód, o których mowa w art. 123 ustawy.
 
@@ -181,7 +198,11 @@ Art. 141–158. (pominięte)
 
 1. W granicach sumy gwarancyjnej ubezpieczenia obowiązkowego odpowiedzialności cywilnej lub w granicach sumy ubezpieczenia obowiązkowego ubezpieczenia mienia zakład ubezpieczeń jest obowiązany zwrócić ubezpieczającemu, uzasadnione okolicznościami zdarzenia, koszty poniesione w celu zapobieżenia zwiększeniu szkody.
 
-2. W granicach sumy gwarancyjnej ubezpieczenia obowiązkowego odpowiedzialności cywilnej zakład ubezpieczeń jest obowiązany zwrócić ubezpieczającemu niezbędne koszty obrony w postępowaniu karnym i koszty zastępstwa prawnego w postępowaniu cywilnym, podjętych na polecenie lub za zgodą zakładu ubezpieczeń. obowiązkowym, o którym mowa w art. 4 pkt 1–3, osoba uczestnicząca w nim, z uwzględnieniem ust. 2, jest obowiązana do:
+2. W granicach sumy gwarancyjnej ubezpieczenia obowiązkowego odpowiedzialności cywilnej zakład ubezpieczeń jest obowiązany zwrócić ubezpieczającemu niezbędne koszty obrony w postępowaniu karnym i koszty zastępstwa prawnego w postępowaniu cywilnym, podjętych na polecenie lub za zgodą zakładu ubezpieczeń.
+
+**Art. 16.**
+
+1. W razie zaistnienia zdarzenia objętego ubezpieczeniem obowiązkowym, o którym mowa w art. 4 pkt 1–3, osoba uczestnicząca w nim, z uwzględnieniem ust. 2, jest obowiązana do:
 
 - **1)** przedsięwzięcia wszystkich środków w celu zapewnienia bezpieczeństwa w miejscu zdarzenia, starania się o złagodzenie skutków zdarzenia oraz zapewnienia pomocy lekarskiej poszkodowanym, jak również w miarę możliwości zabezpieczenia mienia osób poszkodowanych;
 - **2)** zapobieżenia, w miarę możliwości, zwiększeniu się szkody;
@@ -194,7 +215,7 @@ Art. 141–158. (pominięte)
 
 3. Osoba, której odpowiedzialność jest objęta ubezpieczeniem obowiązkowym, a także osoba występująca z roszczeniem, powinny przedstawić zakładowi ubezpieczeń, Ubezpieczeniowemu Funduszowi Gwarancyjnemu lub Polskiemu Biuru Ubezpieczycieli Komunikacyjnych posiadane dowody dotyczące zdarzenia i szkody oraz ułatwić im ustalenie okoliczności zdarzenia i rozmiaru szkód, jak również udzielić pomocy w dochodzeniu przez zakład ubezpieczeń, Ubezpieczeniowy Fundusz Gwarancyjny lub Polskie Biuro Ubezpieczycieli Komunikacyjnych roszczeń przeciwko sprawcy szkody.
 
-**Art. 17.** Jeżeli osoba objęta ubezpieczeniem obowiązkowym odpowiedzialności cywilnej lub osoba występująca z roszczeniem, z winy umyślnej lub rażącego niedbalstwa, nie dopełniły obowiązków wymienionych w art. 16, a miało to wpływ na ustalenie istnienia lub zakresu ich odpowiedzialności cywilnej bądź też na zwiększenie rozmiarów szkody, zakład ubezpieczeń może dochodzić od tych osób zwrotu części wypłaconego uprawnionemu odszkodowania lub ograniczyć wypłacane tym osobom odszkodowanie. Ciężar udowodnienia faktów, uzasadniających zwrot zakładowi zakładzie ubezpieczeń.
+**Art. 17.** Jeżeli osoba objęta ubezpieczeniem obowiązkowym odpowiedzialności cywilnej lub osoba występująca z roszczeniem, z winy umyślnej lub rażącego niedbalstwa, nie dopełniły obowiązków wymienionych w art. 16, a miało to wpływ na ustalenie istnienia lub zakresu ich odpowiedzialności cywilnej bądź też na zwiększenie rozmiarów szkody, zakład ubezpieczeń może dochodzić od tych osób zwrotu części wypłaconego uprawnionemu odszkodowania lub ograniczyć wypłacane tym osobom odszkodowanie. Ciężar udowodnienia faktów, uzasadniających zwrot zakładowi ubezpieczeń części odszkodowania lub ograniczenia odszkodowania, spoczywa na zakładzie ubezpieczeń.
 
 **Art. 18.**
 
@@ -212,7 +233,11 @@ Art. 141–158. (pominięte)
 
 3. Poszkodowany może dochodzić roszczeń bezpośrednio od Polskiego Biura Ubezpieczycieli Komunikacyjnych w przypadkach, o których mowa w art. 83e i art. 123.
 
-4. Ubezpieczeniowy Fundusz Gwarancyjny oraz Polskie Biuro Ubezpieczycieli Komunikacyjnych udostępniają na swoich stronach internetowych informację o możliwych sposobach dochodzenia roszczeń w ramach wykonywania ich zadań ustawowych, w tym pouczenie o możliwości dochodzenia roszczeń na drodze sądowej. obowiązkowych lub obejmujące roszczenia z tytułu tych ubezpieczeń można wytoczyć bądź według przepisów o właściwości ogólnej, bądź przed sąd właściwy dla miejsca zamieszkania lub siedziby poszkodowanego lub uprawnionego z umowy ubezpieczenia, z zastrzeżeniem art. 34a.
+4. Ubezpieczeniowy Fundusz Gwarancyjny oraz Polskie Biuro Ubezpieczycieli Komunikacyjnych udostępniają na swoich stronach internetowych informację o możliwych sposobach dochodzenia roszczeń w ramach wykonywania ich zadań ustawowych, w tym pouczenie o możliwości dochodzenia roszczeń na drodze sądowej.
+
+**Art. 20.**
+
+1. Powództwo o roszczenie wynikające z umów ubezpieczeń obowiązkowych lub obejmujące roszczenia z tytułu tych ubezpieczeń można wytoczyć bądź według przepisów o właściwości ogólnej, bądź przed sąd właściwy dla miejsca zamieszkania lub siedziby poszkodowanego lub uprawnionego z umowy ubezpieczenia, z zastrzeżeniem art. 34a.
 
 2. W postępowaniu sądowym o naprawienie szkody objętej ubezpieczeniem obowiązkowym odpowiedzialności cywilnej jest niezbędne przypozwanie zakładu ubezpieczeń. Zasadę tę stosuje się do Ubezpieczeniowego Funduszu Gwarancyjnego i Polskiego Biura Ubezpieczycieli Komunikacyjnych.
 
@@ -234,7 +259,7 @@ Art. 141–158. (pominięte)
 
 1. Zakład ubezpieczeń informuje poszkodowanego lub uprawnionego z umowy ubezpieczenia, o której mowa w art. 4 pkt 1 lub 2, o możliwości wyczerpania się określonej w umowie ubezpieczenia sumy gwarancyjnej, w przypadku gdy łączna kwota wypłaconych odszkodowań lub innych świadczeń przekroczy 80 % określonej w umowie ubezpieczenia sumy gwarancyjnej.
 
-2. Przekazując informację, o której mowa w ust. 1, zakład ubezpieczeń informuje jednocześnie poszkodowanego lub uprawnionego z umowy ubezpieczenia podstawie art. 357 Kodeksu cywilnego, stosunku prawnego wynikającego z umowy ubezpieczenia, o której mowa w art. 4 pkt 1 lub 2, oraz o możliwości zgłoszenia do Ubezpieczeniowego Funduszu Gwarancyjnego roszczeń o wypłatę renty na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o szczególnych uprawnieniach osób poszkodowanych w przypadku wyczerpania sumy gwarancyjnej ustalonej na podstawie przepisów obowiązujących przed dniem 1 stycznia 2006 r. (Dz. U. poz. 1631).
+2. Przekazując informację, o której mowa w ust. 1, zakład ubezpieczeń informuje jednocześnie poszkodowanego lub uprawnionego z umowy ubezpieczenia o możliwości wytoczenia powództwa do właściwego sądu o ukształtowanie, na podstawie art. 357 Kodeksu cywilnego, stosunku prawnego wynikającego z umowy ubezpieczenia, o której mowa w art. 4 pkt 1 lub 2, oraz o możliwości zgłoszenia do Ubezpieczeniowego Funduszu Gwarancyjnego roszczeń o wypłatę renty na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o szczególnych uprawnieniach osób poszkodowanych w przypadku wyczerpania sumy gwarancyjnej ustalonej na podstawie przepisów obowiązujących przed dniem 1 stycznia 2006 r. (Dz. U. poz. 1631).
 
 #### Rozdział 2 Ubezpieczenie OC posiadaczy pojazdów mechanicznych
 
@@ -244,7 +269,7 @@ Art. 141–158. (pominięte)
 
 1a. Posiadacz pojazdu, o którym mowa w art. 2 ust. 1 pkt 10 lit. a i pkt 10a, zarejestrowanego na terytorium Rzeczypospolitej Polskiej, z wyłączeniem pojazdu, w odniesieniu do którego państwem członkowskim Unii Europejskiej umiejscowienia ryzyka jest państwo Unii Europejskiej, w którym pojazd ma być zarejestrowany, obowiązany jest posiadać ochronę ubezpieczeniową przez cały okres, w którym pojazd jest zarejestrowany, z wyjątkiem zarejestrowanych pojazdów historycznych. W odniesieniu do pojazdów zarejestrowanych za granicą obowiązek ten trwa przez cały okres pozostawania tych pojazdów na terytorium Rzeczypospolitej Polskiej.
 
-2. Przepisy dotyczące obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych stosuje się także do posiadacza lub kierującego pojazdem mechanicznym, przed jego rejestracją oraz do posiadacza lub kierującego pojazdem historycznym albo pojazdem wolnobieżnym, od chwili wprowadzenia tych pojazdów do ruchu. <2a. Przepisy dotyczące obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych stosuje się także do organizatora prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym oraz osoby, o której mowa w art. 65n ust. 1 pkt 6 lit. a ustawy – Prawo o ruchu drogowym, która ma kontrolę lub w każdej chwili może przejąć kontrolę nad ruchem pojazdu do jazd testowych, będącego pojazdem zautomatyzowanym lub pojazdem w pełni zautomatyzowanym, wykorzystywanym do prac badawczych, dalej „pracami badawczymi”, od chwili wprowadzenia tego pojazdu do ruchu.>
+2. Przepisy dotyczące obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych stosuje się także do posiadacza lub kierującego pojazdem mechanicznym, przed jego rejestracją oraz do posiadacza lub kierującego pojazdem historycznym albo pojazdem wolnobieżnym, od chwili wprowadzenia tych pojazdów do ruchu. <2a. Przepisy dotyczące obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych stosuje się także do organizatora prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym oraz osoby, o której mowa w art. 65n ust. 1 pkt 6 lit. a ustawy – Prawo o ruchu drogowym, która ma kontrolę lub w każdej chwili może przejąć kontrolę nad ruchem pojazdu do jazd testowych, będącego pojazdem zautomatyzowanym lub pojazdem w pełni zautomatyzowanym, wykorzystywanym do prac badawczych, o których mowa w art. 65l ust. 1 ustawy – Prawo o ruchu drogowym, zwanych dalej „pracami badawczymi”, od chwili wprowadzenia tego pojazdu do ruchu.>
 
 3. Przepisów dotyczących obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych nie stosuje się do ruchu pojazdu w ramach działań związanych ze sportem motorowym, w tym wyścigów, zawodów, szkoleń, testów i pokazów, organizowanych w wyznaczonych strefach ograniczonego dostępu, jeżeli organizator, uczestnik lub inna strona zawarli umowę innego ubezpieczenia lub umowę gwarancji ubezpieczeniowej obejmującą szkody wyrządzone osobom trzecim, w tym widzom i innym osobom postronnym, która może nie pokrywać szkód poniesionych przez kierujących pojazdami uczestniczących w tych działaniach i szkód w ich pojazdach.
 
@@ -262,7 +287,7 @@ Art. 141–158. (pominięte)
 
 2. Ubezpieczenie OC posiadaczy pojazdów mechanicznych obejmuje, na zasadzie wzajemności, również zdarzenia powstałe na terytoriach państw, których biura narodowe są sygnatariuszami Porozumienia Wielostronnego, z zastrzeżeniem ust. 3.
 
-3. W przypadku zdarzeń, o których mowa w ust. 2, ubezpieczenie OC posiadaczy pojazdów mechanicznych zapewnia zakres ochrony ubezpieczeniowej określony w ustawie, w zależności od tego, który z tych zakresów jest szerszy.
+3. W przypadku zdarzeń, o których mowa w ust. 2, ubezpieczenie OC posiadaczy pojazdów mechanicznych zapewnia zakres ochrony ubezpieczeniowej wymagany przez prawo państwa, na terytorium którego doszło do zdarzenia, lub określony w ustawie, w zależności od tego, który z tych zakresów jest szerszy.
 
 **Art. 26.**
 
@@ -287,7 +312,9 @@ Art. 141–158. (pominięte)
 
 3. Umowę ubezpieczenia krótkoterminowego, w odniesieniu do pojazdów mechanicznych zarejestrowanych czasowo, zawiera się na czas nie krótszy niż okres tej rejestracji, określony w decyzji starosty właściwego ze względu na miejsce zamieszkania właściciela pojazdu mechanicznego, nie krótszy jednak niż 30 dni.
 
-4. Umowę ubezpieczenia krótkoterminowego, w odniesieniu do pojazdów wolnobieżnych określonych w art. 2 pkt 10 lit. b, można zawrzeć na czas nie krótszy niż 3 miesiące. historycznych, można zawrzeć na czas nie krótszy niż 30 dni.
+4. Umowę ubezpieczenia krótkoterminowego, w odniesieniu do pojazdów wolnobieżnych określonych w art. 2 pkt 10 lit. b, można zawrzeć na czas nie krótszy niż 3 miesiące.
+
+5. Umowę ubezpieczenia krótkoterminowego, w odniesieniu do pojazdów historycznych, można zawrzeć na czas nie krótszy niż 30 dni.
 
 6. Umowę ubezpieczenia granicznego zawiera się przed przekroczeniem przez pojazd mechaniczny granicy w przypadku określonym w art. 29 ust. 1 pkt 3 oraz w przypadku rozwiązania się tej umowy lub wygaśnięcia okresu ważności Zielonej Karty podczas pobytu na terytorium Rzeczypospolitej Polskiej, na okres co najmniej 30 dni. [7. Umowę ubezpieczenia krótkoterminowego może zawrzeć podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, na okres ważności profesjonalnego dowodu rejestracyjnego, nie krótszy jednak niż 30 dni, w odniesieniu do pojazdów do jazd testowych, które nie były uprzednio zarejestrowane na terytorium Rzeczypospolitej Polskiej na podstawie przepisów art. 73 i art. 74 tej ustawy.] <7. Umowę ubezpieczenia krótkoterminowego może zawrzeć podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, na okres ważności profesjonalnego dowodu rejestracyjnego, nie krótszy jednak niż 30 dni, w odniesieniu do pojazdu do jazd testowych, będącego pojazdem zautomatyzowanym lub pojazdem w pełni zautomatyzowanym, wykorzystywanym do prac badawczych.> <8. Umowę ubezpieczenia krótkoterminowego może zawrzeć posiadacz pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, wykorzystywanego do prac badawczych, lub organizator prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym, na okres prowadzenia prac badawczych.>
 
@@ -297,7 +324,7 @@ Art. 141–158. (pominięte)
 
 1a. W razie zawarcia umowy, o której mowa w ust. 1, zakład ubezpieczeń jest obowiązany potwierdzić zawarcie umowy dokumentem ubezpieczenia w terminie 14 dni od dnia jej zawarcia.
 
-1b. Nie później niż 14 dni przed upływem okresu 12 miesięcy, na który umowa ubezpieczenia OC posiadaczy pojazdów mechanicznych została zawarta, zakład o ubezpieczeniu na kolejny okres ubezpieczenia.
+1b. Nie później niż 14 dni przed upływem okresu 12 miesięcy, na który umowa ubezpieczenia OC posiadaczy pojazdów mechanicznych została zawarta, zakład ubezpieczeń jest obowiązany do wysłania ubezpieczającemu informacji o ubezpieczeniu na kolejny okres ubezpieczenia.
 
 1c. Informacja, o której mowa w ust. 1b, zawiera w szczególności:
 
@@ -318,7 +345,7 @@ Art. 141–158. (pominięte)
 2. Zawarcie następnej umowy nie następuje, pomimo braku powiadomienia, o którym mowa w ust. 1, jeżeli:
 
 - **1)** nie została opłacona w całości określona w umowie składka za mijający okres 12 miesięcy lub w przypadku cofnięcia zakładowi ubezpieczeń zezwolenia na wykonywanie działalności ubezpieczeniowej w zakresie obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych albo
-- **2)** wobec zakładu ubezpieczeń wszczęto postępowanie upadłościowe albo likwidacyjne, w przypadku, o którym mowa w art. 98 ust. 2a, albo wniosek majątek dłużnika oczywiście nie wystarcza nawet na zaspokojenie kosztów postępowania upadłościowego.
+- **2)** wobec zakładu ubezpieczeń wszczęto postępowanie upadłościowe albo likwidacyjne, w przypadku, o którym mowa w art. 98 ust. 2a, albo wniosek o ogłoszenie upadłości zakładu ubezpieczeń został oddalony, w przypadku, gdy majątek dłużnika oczywiście nie wystarcza nawet na zaspokojenie kosztów postępowania upadłościowego.
 
 3. W przypadkach, o których mowa w ust. 2, odpowiedzialność zakładu ubezpieczeń kończy się z upływem okresu 12 miesięcy, z uwzględnieniem art. 33.
 
@@ -334,7 +361,7 @@ Art. 141–158. (pominięte)
 
 1. Posiadacz pojazdu jest obowiązany zawrzeć umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych:
 
-- **1)** najpóźniej w dniu rejestracji pojazdu mechanicznego, z wyjątkiem pojazdów historycznych i pojazdów do jazd testowych, ale nie później niż z chwilą wprowadzenia pojazdu do ruchu; [1a) najpóźniej w dniu wypełnienia przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, blankietu profesjonalnego dowodu rejestracyjnego, ale nie później niż z chwilą wprowadzenia pojazdu do ruchu, w odniesieniu do pojazdów do jazd testowych, które nie były uprzednio zarejestrowane na terytorium Rzeczypospolitej Polskiej na podstawie przepisów art. 73 i art. 74 tej ustawy;] <1a) najpóźniej w dniu wypełnienia przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, blankietu profesjonalnego dowodu rejestracyjnego, ale nie później niż z chwilą wprowadzenia pojazdu do ruchu, w odniesieniu do pojazdów będących zautomatyzowanymi, wykorzystywanymi do prac badawczych;>
+- **1)** najpóźniej w dniu rejestracji pojazdu mechanicznego, z wyjątkiem pojazdów historycznych i pojazdów do jazd testowych, ale nie później niż z chwilą wprowadzenia pojazdu do ruchu; [1a) najpóźniej w dniu wypełnienia przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, blankietu profesjonalnego dowodu rejestracyjnego, ale nie później niż z chwilą wprowadzenia pojazdu do ruchu, w odniesieniu do pojazdów do jazd testowych, które nie były uprzednio zarejestrowane na terytorium Rzeczypospolitej Polskiej na podstawie przepisów art. 73 i art. 74 tej ustawy;] <1a) najpóźniej w dniu wypełnienia przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, blankietu profesjonalnego dowodu rejestracyjnego, ale nie później niż z chwilą wprowadzenia pojazdu do ruchu, w odniesieniu do pojazdów będących pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, wykorzystywanymi do prac badawczych;>
 - **2)** przed wprowadzeniem do ruchu pojazdów, o których mowa w art. 2 pkt 10 lit. b, oraz pojazdów historycznych;
 - **3)** przed przekroczeniem granicy, w przypadku gdy posiadacz lub kierujący pojazdem mechanicznym zarejestrowanym za granicą w państwie innym niż określone na podstawie art. 25 ust. 2 nie posiada ważnej Zielonej Karty lub ubezpieczenia granicznego;
 - **4)** przed wprowadzeniem do ruchu pojazdów, o których mowa w art. 2 pkt 10 lit. a, które nie zostały zarejestrowane;
@@ -346,7 +373,9 @@ Art. 141–158. (pominięte)
 - **10)** najpóźniej w dniu odstąpienia przez ubezpieczającego od umowy w trybie określonym w art. 40 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796);
 - **11)** najpóźniej w dniu rozwiązania umowy ubezpieczenia krótkoterminowego, o której mowa w art. 27 ust. 7, ale nie później niż z chwilą wydania pojazdu nabywcy przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym.
 
-2. Jeżeli umowa ubezpieczenia OC posiadaczy pojazdów mechanicznych jest zawierana przed rejestracją pojazdu, o którym mowa w art. 2 pkt 10 lit. a, posiadacz pojazdu mechanicznego, na żądanie zakładu ubezpieczeń, jest obowiązany przedstawić zaświadczenie o pozytywnym wyniku badania technicznego tego pojazdu albo świadectwo zgodności, świadectwo zgodności WE, dopuszczenia jednostkowego pojazdu, decyzji o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwa dopuszczenia indywidualnego WE pojazdu. 30 dni od dnia zawarcia umowy, nie został zarejestrowany, każda ze stron może odstąpić od umowy, powiadamiając o tym na piśmie drugą stronę umowy.
+2. Jeżeli umowa ubezpieczenia OC posiadaczy pojazdów mechanicznych jest zawierana przed rejestracją pojazdu, o którym mowa w art. 2 pkt 10 lit. a, posiadacz pojazdu mechanicznego, na żądanie zakładu ubezpieczeń, jest obowiązany przedstawić zaświadczenie o pozytywnym wyniku badania technicznego tego pojazdu albo świadectwo zgodności, świadectwo zgodności WE, dopuszczenia jednostkowego pojazdu, decyzji o uznaniu dopuszczenia jednostkowego pojazdu albo świadectwa dopuszczenia indywidualnego WE pojazdu.
+
+3. Jeżeli w przypadku, o którym mowa w ust. 2, pojazd mechaniczny, w terminie 30 dni od dnia zawarcia umowy, nie został zarejestrowany, każda ze stron może odstąpić od umowy, powiadamiając o tym na piśmie drugą stronę umowy.
 
 **Art. 30.**
 
@@ -358,7 +387,7 @@ Art. 141–158. (pominięte)
 
 1. 1. W razie przejścia lub przeniesienia prawa własności pojazdu mechanicznego, którego posiadacz zawarł umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych, na posiadacza pojazdu, na którego przeszło lub zostało przeniesione prawo własności, przechodzą prawa i obowiązki poprzedniego posiadacza wynikające z tej umowy. Umowa ubezpieczenia OC ulega rozwiązaniu z upływem okresu, na który została zawarta, chyba że posiadacz, na którego przeszło lub zostało przeniesione prawo własności, wypowie ją na piśmie. W przypadku wypowiedzenia umowy ubezpieczenia OC ulega ona rozwiązaniu z dniem wskazanym w oświadczeniu o jej wypowiedzeniu, a w przypadku braku wskazania takiego dnia – z dniem jej wypowiedzenia. Dzień wskazany w oświadczeniu o wypowiedzeniu umowy nie może być dniem wcześniejszym niż dzień złożenia tego oświadczenia. Przepisów art. 28 nie stosuje się.
 
-2. W razie niewypowiedzenia przez posiadacza pojazdu, na którego przeszło lub zostało przeniesione prawo własności pojazdu mechanicznego, umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych, zakład ubezpieczeń może dokonać ponownej kalkulacji należnej składki z tytułu udzielanej ochrony ubezpieczeniowej, poczynając od dnia przejścia lub przeniesienia prawa własności pojazdu, z uwzględnieniem zniżek przysługujących posiadaczowi, na którego przeszło lub zostało przeniesione prawo własności pojazdu mechanicznego oraz zwyżek go obciążających, w ramach obowiązującej taryfy składek. W przypadku gdy posiadacz, na którego przeszło lub zostało przeniesione prawo własności pojazdu mechanicznego, złoży wniosek o dokonanie ponownej kalkulacji należnej składki, zakład ubezpieczeń jest obowiązany do jej dokonania za okres od dnia przejścia lub przeniesienia prawa własności pojazdu. Posiadacz, na którego przeszło lub zostało przeniesione prawo własności pojazdu mechanicznego, jest obowiązany podać do ujawnienie jest niezbędne do dokonania ponownej kalkulacji składki.
+2. W razie niewypowiedzenia przez posiadacza pojazdu, na którego przeszło lub zostało przeniesione prawo własności pojazdu mechanicznego, umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych, zakład ubezpieczeń może dokonać ponownej kalkulacji należnej składki z tytułu udzielanej ochrony ubezpieczeniowej, poczynając od dnia przejścia lub przeniesienia prawa własności pojazdu, z uwzględnieniem zniżek przysługujących posiadaczowi, na którego przeszło lub zostało przeniesione prawo własności pojazdu mechanicznego oraz zwyżek go obciążających, w ramach obowiązującej taryfy składek. W przypadku gdy posiadacz, na którego przeszło lub zostało przeniesione prawo własności pojazdu mechanicznego, złoży wniosek o dokonanie ponownej kalkulacji należnej składki, zakład ubezpieczeń jest obowiązany do jej dokonania za okres od dnia przejścia lub przeniesienia prawa własności pojazdu. Posiadacz, na którego przeszło lub zostało przeniesione prawo własności pojazdu mechanicznego, jest obowiązany podać do wiadomości zakładu ubezpieczeń wszystkie znane sobie okoliczności, których ujawnienie jest niezbędne do dokonania ponownej kalkulacji składki.
 
 3. W razie przejścia lub przeniesienia prawa własności pojazdu mechanicznego zarejestrowanego, którego posiadacz wbrew obowiązkowi nie zawarł umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych, posiadacz, na którego przeszło lub zostało przeniesione prawo własności jest obowiązany zawrzeć umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych w dniu przejścia lub przeniesienia prawa własności pojazdu mechanicznego, ale nie później niż z chwilą wprowadzenia pojazdu mechanicznego do ruchu. Jeżeli nastąpiło przeniesienie posiadania pojazdu mechanicznego zarejestrowanego bez przejścia lub przeniesienia prawa własności tego pojazdu, a dotychczasowy posiadacz pojazdu wbrew obowiązkowi nie zawarł umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych, kolejny posiadacz pojazdu jest obowiązany zawrzeć umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych w dniu wejścia w posiadanie tego pojazdu, ale nie później niż z chwilą wprowadzenia pojazdu mechanicznego do ruchu.
 
@@ -366,7 +395,9 @@ Art. 141–158. (pominięte)
 
 5. W razie niewypowiedzenia przez właściciela pojazdu umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych, stosuje się odpowiednio ust. 2.
 
-6. W razie wypowiedzenia umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych w przypadkach, o których mowa w ust. 1 i 4, posiadacz pojazdu mechanicznego wypowiadający umowę jest obowiązany do zawarcia nowej umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych najpóźniej w dniu rozwiązania się umowy wypowiedzianej. pojazdów mechanicznych zawieranej w odniesieniu do pojazdów do jazd testowych.
+6. W razie wypowiedzenia umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych w przypadkach, o których mowa w ust. 1 i 4, posiadacz pojazdu mechanicznego wypowiadający umowę jest obowiązany do zawarcia nowej umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych najpóźniej w dniu rozwiązania się umowy wypowiedzianej.
+
+7. Przepisów ust. 1–6 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej w odniesieniu do pojazdów do jazd testowych.
 
 **Art. 32.**
 
@@ -381,7 +412,9 @@ Art. 141–158. (pominięte)
 
 4. Posiadacz pojazdu mechanicznego, na którego przeniesiono prawo własności pojazdu ponosi odpowiedzialność wobec zakładu ubezpieczeń za zapłatę składki należnej za okres od dnia, w którym nastąpiło przeniesienie na niego prawa własności pojazdu. Posiadacz pojazdu mechanicznego, który przeniósł prawo własności tego pojazdu, ponosi solidarną odpowiedzialność z posiadaczem pojazdu, na którego przeniesiono prawo własności pojazdu, za zapłatę składki należnej zakładowi ubezpieczeń za okres od dnia przeniesienia prawa własności do dnia powiadomienia przez niego zakładu ubezpieczeń o okolicznościach, o których mowa w ust. 1.
 
-5. Przepisy ust. 1 i 4 stosuje się do posiadacza pojazdu mechanicznego, o którym mowa w art. 31 ust. 4. [6. Przepisów ust. 1–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej w odniesieniu do pojazdów do jazd testowych.] <6. Przepisów ust. 1–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej w odniesieniu do pojazdów będących pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, wykorzystywanymi do prac badawczych, z wyłączeniem przypadku, gdy przeniesienie prawa własności tego pojazdu nie jest następstwem jego sprzedaży.> rozwiązaniu:
+5. Przepisy ust. 1 i 4 stosuje się do posiadacza pojazdu mechanicznego, o którym mowa w art. 31 ust. 4. [6. Przepisów ust. 1–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej w odniesieniu do pojazdów do jazd testowych.] <6. Przepisów ust. 1–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej w odniesieniu do pojazdów będących pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, wykorzystywanymi do prac badawczych, z wyłączeniem przypadku, gdy przeniesienie prawa własności tego pojazdu nie jest następstwem jego sprzedaży.>
+
+**Art. 33.** Umowa ubezpieczenia OC posiadaczy pojazdów mechanicznych ulega rozwiązaniu:
 
 - **1)** z upływem okresu, na który została zawarta;
 - **2)** z chwilą wyrejestrowania pojazdu mechanicznego;
@@ -393,7 +426,7 @@ Art. 141–158. (pominięte)
 - **8)** z dniem odstąpienia przez ubezpieczającego od umowy w trybie określonym w art. 40 ustawy z dnia 30 maja 2014 r. o prawach konsumenta;
 - **9)** z dniem wydania zaświadczenia, o którym mowa w art. 79 ust. 1 pkt 1 lub 6 ustawy – Prawo o ruchu drogowym, albo równoważnego dokumentu wydanego w innym państwie;
 - **10)** z dniem wypowiedzenia umowy zgodnie z art. 28a ust. 1;
-- **11)** z dniem doręczenia podmiotowi uprawnionemu, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, decyzji o uchyleniu decyzji o profesjonalnej rejestracji pojazdów w odniesieniu do pojazdów do jazd testowych; <12) z dniem odmowy wydania lub cofnięcia zezwolenia, o którym mowa w art. 65l ust. 1 ustawy – Prawo o ruchu drogowym, jeżeli ubezpieczającym jest organizator prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym – w przypadku pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, wykorzystywanych do prac badawczych.> [Art. 33a. Przepisów art. 33 pkt 2–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez podmiot uprawniony, o którym do jazd testowych.] <Art. 33a. Przepisów art. 33 pkt 2–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, w odniesieniu do pojazdów do jazd testowych oraz w przypadku pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych – do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez organizatora prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym, na okres prac badawczych.>
+- **11)** z dniem doręczenia podmiotowi uprawnionemu, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, decyzji o uchyleniu decyzji o profesjonalnej rejestracji pojazdów w odniesieniu do pojazdów do jazd testowych; <12) z dniem odmowy wydania lub cofnięcia zezwolenia, o którym mowa w art. 65l ust. 1 ustawy – Prawo o ruchu drogowym, jeżeli ubezpieczającym jest organizator prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym – w przypadku pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, wykorzystywanych do prac badawczych.> [Art. 33a. Przepisów art. 33 pkt 2–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, w odniesieniu do pojazdów do jazd testowych.] <Art. 33a. Przepisów art. 33 pkt 2–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, w odniesieniu do pojazdów do jazd testowych oraz w przypadku pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych – do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez organizatora prac badawczych w rozumieniu art. 2 pkt 90 ustawy – Prawo o ruchu drogowym, na okres prac badawczych.>
 
 **Art. 34.**
 
@@ -411,7 +444,7 @@ Art. 141–158. (pominięte)
 
 2. Przelew wierzytelności nie wpływa na właściwość sądu.
 
-**Art. 35.** <1.> Ubezpieczeniem OC posiadaczy pojazdów mechanicznych jest objęta odpowiedzialność cywilna każdej osoby, która kierując pojazdem mechanicznym w okresie trwania odpowiedzialności ubezpieczeniowej, wyrządziła szkodę w związku z ruchem tego pojazdu. <2. Ubezpieczeniem OC posiadaczy pojazdów mechanicznych jest także objęta odpowiedzialność cywilna osoby, o której mowa w art. 65n ust. 1 pkt 6 lit. a ustawy – Prawo o ruchu drogowym, która ma kontrolę nad pojazdem w pełni zautomatyzowanym, wykorzystywanym do prac badawczych, o których mowa w art. 65l ust. 1 ustawy – Prawo o ruchu drogowym, i która, sprawując taką kontrolę w okresie trwania odpowiedzialności ubezpieczeniowej, wyrządziła szkodę w związku z ruchem tego pojazdu.>
+**Art. 35.** <1.> Ubezpieczeniem OC posiadaczy pojazdów mechanicznych jest objęta odpowiedzialność cywilna każdej osoby, która kierując pojazdem mechanicznym w okresie trwania odpowiedzialności ubezpieczeniowej, wyrządziła szkodę w związku z ruchem tego pojazdu. <2. Ubezpieczeniem OC posiadaczy pojazdów mechanicznych jest także objęta odpowiedzialność cywilna osoby, o której mowa w art. 65n ust. 1 pkt 6 lit. a ustawy – Prawo o ruchu drogowym, która ma kontrolę nad ruchem pojazdu do jazd testowych, będącego pojazdem zautomatyzowanym lub pojazdem w pełni zautomatyzowanym, wykorzystywanym do prac badawczych, o których mowa w art. 65l ust. 1 ustawy – Prawo o ruchu drogowym, i która, sprawując taką kontrolę w okresie trwania odpowiedzialności ubezpieczeniowej, wyrządziła szkodę w związku z ruchem tego pojazdu.>
 
 **Art. 36.**
 
@@ -436,7 +469,7 @@ Art. 141–158. (pominięte)
 - **1)** nie jest złączona z pojazdem silnikowym ciągnącym albo
 - **2)** odłączyła się od pojazdu silnikowego ciągnącego i przestała się już toczyć.
 
-2a. Zakład ubezpieczeń posiadacza przyczepy informuje niezwłocznie poszkodowanego lub uprawnionego do odszkodowania, na jego wniosek, o danych zakładu ubezpieczeń pojazdu mechanicznego ciągnącego, o których mowa w art. 102 ust. 2 pkt 1, lub o możliwości dochodzenia roszczenia od danych ustalić.
+2a. Zakład ubezpieczeń posiadacza przyczepy informuje niezwłocznie poszkodowanego lub uprawnionego do odszkodowania, na jego wniosek, o danych zakładu ubezpieczeń pojazdu mechanicznego ciągnącego, o których mowa w art. 102 ust. 2 pkt 1, lub o możliwości dochodzenia roszczenia od Ubezpieczeniowego Funduszu Gwarancyjnego, w przypadku gdy nie można tych danych ustalić.
 
 3. Przepis ust. 1 stosuje się również w razie złączenia pojazdów mechanicznych w celu holowania.
 
@@ -458,7 +491,9 @@ Art. 141–158. (pominięte)
 
 **Art. 39.**
 
-1. Odpowiedzialność zakładu ubezpieczeń rozpoczyna się z chwilą zawarcia umowy i zapłacenia składki ubezpieczeniowej lub jej pierwszej raty, z zastrzeżeniem ust. 1a, 2 i 3. zakładu ubezpieczeń powstaje z chwilą jej zawarcia.
+1. Odpowiedzialność zakładu ubezpieczeń rozpoczyna się z chwilą zawarcia umowy i zapłacenia składki ubezpieczeniowej lub jej pierwszej raty, z zastrzeżeniem ust. 1a, 2 i 3.
+
+1a. W razie zawarcia umowy, o której mowa w art. 28 ust. 1, odpowiedzialność zakładu ubezpieczeń powstaje z chwilą jej zawarcia.
 
 2. Jeżeli w umowie ubezpieczenia zakład ubezpieczeń wskazał późniejszy termin płatności składki lub jej pierwszej raty, odpowiedzialność zakładu ubezpieczeń rozpoczyna się z chwilą zawarcia umowy.
 
@@ -477,7 +512,7 @@ Art. 141–158. (pominięte)
 
 - **1)** wyrejestrowania pojazdu mechanicznego lub udokumentowania trwałej i zupełnej utraty posiadania pojazdu mechanicznego w okolicznościach niepowodujących zmiany posiadacza, z uwzględnieniem art. 79 ust. 1 pkt 5 ustawy – Prawo o ruchu drogowym;
 - **2)** odstąpienia od umowy w przypadku określonym w art. 29 ust. 3;
-- **3)** rozwiązania umowy w związku z jej wypowiedzeniem przez posiadacza pojazdu mechanicznego, na którego przeniesiono prawo własności pojazdu w przypadku przeniósł prawo własności tego pojazdu;
+- **3)** rozwiązania umowy w związku z jej wypowiedzeniem przez posiadacza pojazdu mechanicznego, na którego przeniesiono prawo własności pojazdu w przypadku określonym w art. 31 ust. 1 – zwrot składki przysługuje posiadaczowi, który przeniósł prawo własności tego pojazdu;
 - **4)** rozwiązania się umowy w związku z jej wypowiedzeniem przez właściciela pojazdu w przypadku określonym w art. 31 ust. 4 – zwrot składki przysługuje posiadaczowi, który zawarł umowę ubezpieczenia;
 - **5)** odstąpienia przez ubezpieczającego od umowy w trybie określonym w art. 40 ustawy z dnia 30 maja 2014 r. o prawach konsumenta, z zastrzeżeniem że za okres udzielanej ochrony ubezpieczeniowej ubezpieczający obowiązany jest zapłacić składkę ubezpieczeniową;
 - **6)** wydania zaświadczenia, o którym mowa w art. 79 ust. 1 pkt 1 lub 6 ustawy – Prawo o ruchu drogowym albo równoważnego dokumentu wydanego w innym państwie;
@@ -488,13 +523,18 @@ Art. 141–158. (pominięte)
 
 3. (uchylony)
 
-4. Zwrot składki za niewykorzystany okres ubezpieczenia w przypadku rozwiązania umowy ubezpieczenia następuje niezwłocznie, jednak nie później niż w terminie 14 dni od dnia rozwiązania umowy ubezpieczenia lub w przypadku odstąpienia od umowy od dnia złożenia oświadczenia o odstąpieniu lub od dnia powzięcia przez zakład ubezpieczeń wiadomości o rozwiązaniu umowy przed odstąpienie.
+4. Zwrot składki za niewykorzystany okres ubezpieczenia w przypadku rozwiązania umowy ubezpieczenia następuje niezwłocznie, jednak nie później niż w terminie 14 dni od dnia rozwiązania umowy ubezpieczenia lub w przypadku odstąpienia od umowy od dnia złożenia oświadczenia o odstąpieniu lub od dnia powzięcia przez zakład ubezpieczeń wiadomości o rozwiązaniu umowy przed upływem okresu, na który została zawarta z innych przyczyn, niż wypowiedzenie lub odstąpienie.
 
 **Art. 42.** (uchylony)
 
 **Art. 42a.** Przepis art. 41 stosuje się odpowiednio do zwrotu składki, w wysokości proporcjonalnej, obniżonej na okres czasowego wycofania pojazdu z ruchu na wniosek posiadacza pojazdu mechanicznego, o którym mowa w art. 8 ust. 4.
 
 **Art. 43.** Zakładowi ubezpieczeń oraz Ubezpieczeniowemu Funduszowi Gwarancyjnemu, w przypadkach określonych w art. 98 ust. 2a, przysługuje prawo dochodzenia od kierującego pojazdem mechanicznym zwrotu wypłaconego z tytułu ubezpieczenia OC posiadaczy pojazdów mechanicznych odszkodowania, jeżeli kierujący:
+
+- **1)** wyrządził szkodę umyślnie, w stanie po użyciu alkoholu lub w stanie nietrzeźwości albo po użyciu środków odurzających, substancji psychotropowych lub środków zastępczych w rozumieniu przepisów o przeciwdziałaniu narkomanii;
+- **2)** wszedł w posiadanie pojazdu wskutek popełnienia przestępstwa;
+- **3)** nie posiadał wymaganych uprawnień do kierowania pojazdem mechanicznym, z wyjątkiem przypadków, gdy chodziło o ratowanie życia ludzkiego lub mienia albo o pościg za osobą podjęty bezpośrednio po popełnieniu przez nią przestępstwa;
+- **4)** zbiegł z miejsca zdarzenia.
 
 **Art. 43a.** (uchylony)
 
@@ -508,7 +548,11 @@ Art. 141–158. (pominięte)
 
 2. Okres 12 miesięcy, o którym mowa w ust. 1, kończy się z upływem dnia poprzedzającego początkowy dzień okresu ubezpieczenia.
 
-3. Przepis ust. 2 stosuje się odpowiednio do umowy ubezpieczenia OC rolników zawartej w tym samym dniu, w którym rozpoczyna się okres ubezpieczenia. 12 miesięcy, na który umowa ubezpieczenia OC rolników została zawarta, nie powiadomi na piśmie zakładu ubezpieczeń o jej wypowiedzeniu, uważa się, że została zawarta następna umowa na kolejne 12 miesięcy, z zastrzeżeniem ust. 2.
+3. Przepis ust. 2 stosuje się odpowiednio do umowy ubezpieczenia OC rolników zawartej w tym samym dniu, w którym rozpoczyna się okres ubezpieczenia.
+
+**Art. 46.**
+
+1. Jeżeli rolnik nie później niż na jeden dzień przed upływem okresu 12 miesięcy, na który umowa ubezpieczenia OC rolników została zawarta, nie powiadomi na piśmie zakładu ubezpieczeń o jej wypowiedzeniu, uważa się, że została zawarta następna umowa na kolejne 12 miesięcy, z zastrzeżeniem ust. 2.
 
 1a. W razie zawarcia umowy, o której mowa w ust. 1, zakład ubezpieczeń jest obowiązany potwierdzić zawarcie umowy dokumentem ubezpieczenia w terminie 14 dni od dnia jej zawarcia.
 
@@ -526,7 +570,9 @@ Art. 141–158. (pominięte)
 - **1)** w postaci elektronicznej przy wykorzystaniu środka komunikacji elektronicznej, jeżeli ubezpieczający wyraził zgodę na składanie mu oświadczeń w takiej postaci, lub
 - **2)** w formie pisemnej, w sposób umożliwiający niezwłoczne poinformowanie ubezpieczającego.
 
-1e. Jeżeli okoliczności mające wpływ na ustalenie wysokości składki ubezpieczeniowej wyszły na jaw po wysłaniu informacji, o której mowa w ust. 1b, zakład ubezpieczeń może odpowiednio zwiększyć składkę ubezpieczeniową z uwzględnieniem tych okoliczności. W takim przypadku zakład ubezpieczeń wezwie ubezpieczającego do zapłaty podwyższonej składki. negocjacji z przedsiębiorcą.
+1e. Jeżeli okoliczności mające wpływ na ustalenie wysokości składki ubezpieczeniowej wyszły na jaw po wysłaniu informacji, o której mowa w ust. 1b, zakład ubezpieczeń może odpowiednio zwiększyć składkę ubezpieczeniową z uwzględnieniem tych okoliczności. W takim przypadku zakład ubezpieczeń wezwie ubezpieczającego do zapłaty podwyższonej składki.
+
+1f. Przepisów ust. 1a–1e nie stosuje się do umów zawieranych w trybie negocjacji z przedsiębiorcą.
 
 2. Zawarcie następnej umowy nie następuje pomimo braku powiadomienia, o którym mowa w ust. 1, jeżeli:
 
@@ -547,7 +593,7 @@ Art. 141–158. (pominięte)
 
 1. Obowiązek zawarcia umowy ubezpieczenia OC rolników powstaje w dniu objęcia w posiadanie gospodarstwa rolnego.
 
-2. Jeżeli po zawarciu przez rolnika umowy ubezpieczenia OC rolników posiadanie gospodarstwa rolnego przeszło na inną osobę, prawa i obowiązki rolnika wynikające z umowy ubezpieczenia OC rolników przechodzą na tę osobę. Umowa ubezpieczenia rozwiązuje się z upływem 12 miesięcy, na które została zawarta, chyba że osoba obejmująca gospodarstwo rolne w posiadanie wypowie ją na piśmie. W przypadku wypowiedzenia umowy ubezpieczenia OC rolników ulega ona a w przypadku braku wskazania takiego dnia – z dniem jej wypowiedzenia. Dzień wskazany w oświadczeniu o wypowiedzeniu umowy nie może być dniem wcześniejszym niż dzień złożenia tego oświadczenia. Przepisów art. 46 nie stosuje się.
+2. Jeżeli po zawarciu przez rolnika umowy ubezpieczenia OC rolników posiadanie gospodarstwa rolnego przeszło na inną osobę, prawa i obowiązki rolnika wynikające z umowy ubezpieczenia OC rolników przechodzą na tę osobę. Umowa ubezpieczenia rozwiązuje się z upływem 12 miesięcy, na które została zawarta, chyba że osoba obejmująca gospodarstwo rolne w posiadanie wypowie ją na piśmie. W przypadku wypowiedzenia umowy ubezpieczenia OC rolników ulega ona rozwiązaniu z dniem wskazanym w oświadczeniu o jej wypowiedzeniu, a w przypadku braku wskazania takiego dnia – z dniem jej wypowiedzenia. Dzień wskazany w oświadczeniu o wypowiedzeniu umowy nie może być dniem wcześniejszym niż dzień złożenia tego oświadczenia. Przepisów art. 46 nie stosuje się.
 
 3. Przepisu ust. 2 nie stosuje się w przypadku oddania przez rolnika w posiadanie części gospodarstwa rolnego stanowiącej odrębne gospodarstwo rolne. W takim przypadku do osoby obejmującej w posiadanie tę część gospodarstwa rolnego stosuje się przepis ust. 1.
 
@@ -566,9 +612,17 @@ Art. 141–158. (pominięte)
 
 2. Dane osoby obejmującej gospodarstwo rolne w posiadanie, o których mowa w ust. 1, obejmują: imię, nazwisko, adres zamieszkania i numer PESEL, o ile został nadany.
 
-3. Osoba obejmująca gospodarstwo rolne w posiadanie ponosi odpowiedzialność wobec zakładu ubezpieczeń za zapłatę składki należnej za okres od dnia, w którym nastąpiło objęcie gospodarstwa rolnego w posiadanie. Rolnik dotychczas posiadający gospodarstwo rolne w posiadanie, za zapłatę składki należnej zakładowi ubezpieczeń za okres od dnia, w którym nastąpiło objęcie gospodarstwa rolnego w posiadanie do dnia powiadomienia zakładu ubezpieczeń o zmianie w posiadaniu gospodarstwa rolnego.
+3. Osoba obejmująca gospodarstwo rolne w posiadanie ponosi odpowiedzialność wobec zakładu ubezpieczeń za zapłatę składki należnej za okres od dnia, w którym nastąpiło objęcie gospodarstwa rolnego w posiadanie. Rolnik dotychczas posiadający gospodarstwo rolne ponosi solidarną odpowiedzialność z osobą obejmującą gospodarstwo rolne w posiadanie, za zapłatę składki należnej zakładowi ubezpieczeń za okres od dnia, w którym nastąpiło objęcie gospodarstwa rolnego w posiadanie do dnia powiadomienia zakładu ubezpieczeń o zmianie w posiadaniu gospodarstwa rolnego.
 
 **Art. 49.** Umowa ubezpieczenia OC rolników ulega rozwiązaniu:
+
+- **1)** z upływem 12 miesięcy, na które została zawarta;
+- **2)** z chwilą, kiedy użytki i grunty określone w art. 2 pkt 4 tracą charakter gospodarstwa rolnego;
+- **3)** z dniem zmiany stanu prawnego lub faktycznego powodującego niepodleganie opodatkowaniu podatkiem rolnym albo podatkiem dochodowym od osób fizycznych z tytułu prowadzenia produkcji rolnej stanowiącej dział specjalny;
+- **4)** w przypadku, o którym mowa w art. 47 ust. 2;
+- **5)** z upływem 3 miesięcy od dnia ogłoszenia upadłości zakładu ubezpieczeń, z uwzględnieniem art. 474 i art. 476 ustawy – Prawo upadłościowe i naprawcze ;
+- **6)** z dniem odstąpienia przez ubezpieczającego od umowy w trybie określonym w art. 40 ustawy z dnia 30 maja 2014 r. o prawach konsumenta;
+- **7)** z dniem wypowiedzenia umowy zgodnie z art. 46a ust. 1.
 
 **Art. 50.**
 
@@ -576,15 +630,30 @@ Art. 141–158. (pominięte)
 
 2. Przepis ust. 1 stosuje się również, jeżeli szkoda powstała w związku z ruchem pojazdów wolnobieżnych w rozumieniu przepisów prawa o ruchu drogowym, będących w posiadaniu rolników posiadających gospodarstwo rolne i użytkowanych w związku z posiadaniem tego gospodarstwa rolnego.
 
-**Art. 51.** Ubezpieczeniem OC rolników jest objęta odpowiedzialność cywilna rolnika oraz każdej osoby, która pracując w gospodarstwie rolnym w okresie trwania ochrony ubezpieczeniowej wyrządziła szkodę w związku z posiadaniem przez rolnika tego gospodarstwa rolnego. cywilnej osoby odpowiedzialnej, do ustalonej w umowie ubezpieczenia wysokości sumy gwarancyjnej. Suma gwarancyjna nie może być niższa niż:
+**Art. 51.** Ubezpieczeniem OC rolników jest objęta odpowiedzialność cywilna rolnika oraz każdej osoby, która pracując w gospodarstwie rolnym w okresie trwania ochrony ubezpieczeniowej wyrządziła szkodę w związku z posiadaniem przez rolnika tego gospodarstwa rolnego.
+
+**Art. 52.** Odszkodowanie ustala się i wypłaca w granicach odpowiedzialności cywilnej osoby odpowiedzialnej, do ustalonej w umowie ubezpieczenia wysokości sumy gwarancyjnej. Suma gwarancyjna nie może być niższa niż:
+
+- **1)** 29 876 400 złotych w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych – w przypadku szkód na osobie;
+- **2)** 6 021 600 złotych w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych – w przypadku szkód w mieniu.
 
 **Art. 53.** Zakład ubezpieczeń nie odpowiada za szkody:
+
+- **1)** w mieniu, wyrządzone rolnikowi przez osoby pracujące w jego gospodarstwie rolnym lub pozostające z rolnikiem we wspólnym gospodarstwie domowym albo osobom pozostającym z rolnikiem we wspólnym gospodarstwie domowym lub pracującym w jego gospodarstwie rolnym;
+- **2)** spowodowane przeniesieniem chorób zakaźnych niepochodzących od zwierząt;
+- **3)** w mieniu, spowodowane wadą towarów dostarczonych przez osobę objętą ubezpieczeniem albo wykonywaniem usług; jeżeli wskutek tych wad nastąpiła szkoda na osobie, zakład ubezpieczeń nie ponosi odpowiedzialności tylko wtedy, gdy osoba objęta ubezpieczeniem wiedziała o tych wadach;
+- **4)** powstałe wskutek uszkodzenia, zniszczenia, utraty lub zaginięcia rzeczy wypożyczonych lub przyjętych przez osobę objętą ubezpieczeniem OC rolników do użytkowania, przechowania lub naprawy;
+- **5)** polegające na utracie gotówki, biżuterii, dzieł sztuki, papierów wartościowych, wszelkiego rodzaju dokumentów oraz zbiorów filatelistycznych, numizmatycznych i innych;
+- **6)** polegające na zanieczyszczeniu lub skażeniu środowiska;
+- **7)** wynikłe z kar pieniężnych, grzywien sądowych i administracyjnych, a także kar lub grzywien związanych z należnościami wobec budżetu państwa.
 
 **Art. 54.**
 
 1. Odpowiedzialność zakładu ubezpieczeń rozpoczyna się z chwilą zawarcia umowy i zapłacenia składki ubezpieczeniowej lub jej pierwszej raty, z zastrzeżeniem ust. 1a, 2 i 3.
 
-1a. W razie zawarcia umowy, o której mowa w art. 46 ust. 1, odpowiedzialność zakładu ubezpieczeń powstaje z chwilą jej zawarcia. płatności składki lub jej pierwszej raty, odpowiedzialność zakładu ubezpieczeń rozpoczyna się z chwilą zawarcia umowy.
+1a. W razie zawarcia umowy, o której mowa w art. 46 ust. 1, odpowiedzialność zakładu ubezpieczeń powstaje z chwilą jej zawarcia.
+
+2. Jeżeli w umowie ubezpieczenia zakład ubezpieczeń wskazał późniejszy termin płatności składki lub jej pierwszej raty, odpowiedzialność zakładu ubezpieczeń rozpoczyna się z chwilą zawarcia umowy.
 
 3. Termin rozpoczęcia odpowiedzialności zakładu ubezpieczeń inny niż wskazany w ust. 1 i 2 można określić w umowie ubezpieczenia OC rolników wtedy, gdy umowę zawiera się:
 
@@ -603,7 +672,9 @@ Art. 141–158. (pominięte)
 - **4)** odstąpienia przez ubezpieczającego od umowy w trybie określonym w art. 40 ustawy z dnia 30 maja 2014 r. o prawach konsumenta, z zastrzeżeniem, że za okres udzielanej ochrony ubezpieczeniowej ubezpieczający jest zobowiązany zapłacić składkę ubezpieczeniową;
 - **5)** rozwiązania umowy w związku z jej wypowiedzeniem zgodnie z art. 46a ust. 1 – zwrot składki przysługuje z uwzględnieniem prawa zakładu ubezpieczeń do żądania zapłaty składki za okres świadczonej ochrony.
 
-2. (uchylony) rozwiązania umowy ubezpieczenia następuje niezwłocznie, jednak nie później niż w terminie 14 dni od dnia rozwiązania umowy ubezpieczenia lub w przypadku odstąpienia od umowy od dnia złożenia oświadczenia o odstąpieniu lub od dnia powzięcia przez zakład ubezpieczeń wiadomości o rozwiązaniu umowy przed upływem okresu, na który została zawarta z innych przyczyn, niż wypowiedzenie lub odstąpienie.
+2. (uchylony)
+
+3. Zwrot składki za niewykorzystany okres ubezpieczenia w przypadku rozwiązania umowy ubezpieczenia następuje niezwłocznie, jednak nie później niż w terminie 14 dni od dnia rozwiązania umowy ubezpieczenia lub w przypadku odstąpienia od umowy od dnia złożenia oświadczenia o odstąpieniu lub od dnia powzięcia przez zakład ubezpieczeń wiadomości o rozwiązaniu umowy przed upływem okresu, na który została zawarta z innych przyczyn, niż wypowiedzenie lub odstąpienie.
 
 **Art. 57.** (uchylony)
 
@@ -625,7 +696,7 @@ Art. 141–158. (pominięte)
 
 **Art. 62.**
 
-1. Jeżeli rolnik posiadający budynki rolnicze nie później niż na jeden dzień przed upływem okresu 12 miesięcy, na jaki została zawarta umowa ubezpieczenia budynków rolniczych, nie powiadomi na piśmie zakładu ubezpieczeń 12 miesięcy, z zastrzeżeniem ust. 2.
+1. Jeżeli rolnik posiadający budynki rolnicze nie później niż na jeden dzień przed upływem okresu 12 miesięcy, na jaki została zawarta umowa ubezpieczenia budynków rolniczych, nie powiadomi na piśmie zakładu ubezpieczeń o jej wypowiedzeniu, uważa się, że została zawarta następna umowa na kolejne 12 miesięcy, z zastrzeżeniem ust. 2.
 
 1a. W razie zawarcia umowy, o której mowa w ust. 1, zakład ubezpieczeń jest obowiązany potwierdzić zawarcie umowy dokumentem ubezpieczenia w terminie 14 dni od dnia jej zawarcia.
 
@@ -645,7 +716,9 @@ Art. 141–158. (pominięte)
 
 1e. Jeżeli okoliczności mające wpływ na ustalenie wysokości składki ubezpieczeniowej wyszły na jaw po wysłaniu informacji, o której mowa w ust. 1b, zakład ubezpieczeń może odpowiednio zwiększyć składkę ubezpieczeniową z uwzględnieniem tych okoliczności. W takim przypadku zakład ubezpieczeń wezwie ubezpieczającego do zapłaty podwyższonej składki.
 
-1f. Przepisów ust. 1a–1e nie stosuje się do umów zawieranych w trybie negocjacji z przedsiębiorcą. o którym mowa w ust. 1, jeżeli:
+1f. Przepisów ust. 1a–1e nie stosuje się do umów zawieranych w trybie negocjacji z przedsiębiorcą.
+
+2. Zawarcie następnej umowy nie następuje, pomimo braku powiadomienia, o którym mowa w ust. 1, jeżeli:
 
 - **1)** nie została opłacona w całości określona w umowie składka za mijający okres 12 miesięcy lub w przypadku cofnięcia zakładowi ubezpieczeń zezwolenia na wykonywanie działalności ubezpieczeniowej w zakresie obowiązkowego ubezpieczenia budynków rolniczych albo
 - **2)** w przypadku ogłoszenia upadłości zakładu ubezpieczeń, ogłoszenia lub zarządzenia likwidacji zakładu ubezpieczeń albo oddalenia wniosku o ogłoszenie upadłości lub umorzenia postępowania upadłościowego, w przypadku, o którym mowa w art. 98 ust. 2.
@@ -662,7 +735,7 @@ Art. 141–158. (pominięte)
 
 **Art. 63.**
 
-1. Jeżeli po zawarciu umowy ubezpieczenia budynków rolniczych posiadanie gospodarstwa rolnego, w skład którego wchodzą te budynki, przeszło na inną osobę, prawa i obowiązki wynikające z umowy ubezpieczenia budynków rolniczych przechodzą na tę osobę. Umowa ubezpieczenia ulega rozwiązaniu z upływem 12 miesięcy, na które została zawarta, chyba że osoba obejmująca gospodarstwo rolne w posiadanie wypowie ją na piśmie. W przypadku wypowiedzenia umowy ubezpieczenia budynków rolniczych ulega ona rozwiązaniu z dniem wskazanym w oświadczeniu o jej wypowiedzeniu, a w przypadku braku wskazania takiego dnia – z dniem jej wypowiedzenia. Dzień wskazany dzień złożenia tego oświadczenia. Przepisów art. 62 nie stosuje się.
+1. Jeżeli po zawarciu umowy ubezpieczenia budynków rolniczych posiadanie gospodarstwa rolnego, w skład którego wchodzą te budynki, przeszło na inną osobę, prawa i obowiązki wynikające z umowy ubezpieczenia budynków rolniczych przechodzą na tę osobę. Umowa ubezpieczenia ulega rozwiązaniu z upływem 12 miesięcy, na które została zawarta, chyba że osoba obejmująca gospodarstwo rolne w posiadanie wypowie ją na piśmie. W przypadku wypowiedzenia umowy ubezpieczenia budynków rolniczych ulega ona rozwiązaniu z dniem wskazanym w oświadczeniu o jej wypowiedzeniu, a w przypadku braku wskazania takiego dnia – z dniem jej wypowiedzenia. Dzień wskazany w oświadczeniu o wypowiedzeniu umowy nie może być dniem wcześniejszym niż dzień złożenia tego oświadczenia. Przepisów art. 62 nie stosuje się.
 
 2. Obejmujący w posiadanie gospodarstwo rolne, w którym budynki rolnicze nie są ubezpieczone, jest obowiązany do zawarcia umowy ubezpieczenia budynków rolniczych najpóźniej w dniu objęcia gospodarstwa rolnego w posiadanie.
 
@@ -681,9 +754,16 @@ Art. 141–158. (pominięte)
 
 2. Dane osoby obejmującej gospodarstwo rolne w posiadanie, o których mowa w ust. 1, obejmują: imię, nazwisko, adres zamieszkania i numer PESEL, o ile został nadany.
 
-3. Osoba obejmująca gospodarstwo rolne w posiadanie ponosi odpowiedzialność wobec zakładu ubezpieczeń za zapłatę składki należnej za okres od dnia, w którym nastąpiło objęcie gospodarstwa rolnego w posiadanie. Rolnik dotychczas posiadający gospodarstwo rolne ponosi solidarną odpowiedzialność z osobą obejmującą gospodarstwo rolne w posiadanie, za zapłatę składki należnej zakładowi ubezpieczeń dnia powiadomienia zakładu ubezpieczeń o zmianie w posiadaniu gospodarstwa rolnego.
+3. Osoba obejmująca gospodarstwo rolne w posiadanie ponosi odpowiedzialność wobec zakładu ubezpieczeń za zapłatę składki należnej za okres od dnia, w którym nastąpiło objęcie gospodarstwa rolnego w posiadanie. Rolnik dotychczas posiadający gospodarstwo rolne ponosi solidarną odpowiedzialność z osobą obejmującą gospodarstwo rolne w posiadanie, za zapłatę składki należnej zakładowi ubezpieczeń za okres od dnia, w którym nastąpiło objęcie gospodarstwa rolnego w posiadanie do dnia powiadomienia zakładu ubezpieczeń o zmianie w posiadaniu gospodarstwa rolnego.
 
 **Art. 65.** Umowa ubezpieczenia budynków rolniczych ulega rozwiązaniu:
+
+- **1)** z upływem 12 miesięcy, na które została zawarta;
+- **2)** w przypadku określonym w art. 63 ust. 1;
+- **3)** z chwilą, kiedy użytki i grunty określone w art. 2 pkt 4, na których jest położony budynek rolniczy, tracą charakter gospodarstwa rolnego;
+- **4)** z upływem 3 miesięcy od dnia ogłoszenia upadłości zakładu ubezpieczeń, z uwzględnieniem art. 474 i art. 476 ustawy – Prawo upadłościowe i naprawcze ;
+- **5)** z dniem odstąpienia przez ubezpieczającego od umowy w trybie określonym w art. 40 ustawy z dnia 30 maja 2014 r. o prawach konsumenta;
+- **6)** z dniem wypowiedzenia umowy zgodnie z art. 62a ust. 1.
 
 **Art. 66.** Jeżeli w czasie trwania umowy ubezpieczenia budynków rolniczych budynek przestał spełniać warunki wymagane do objęcia go ubezpieczeniem, budynek ten zostaje wyłączony z ubezpieczenia, a suma ubezpieczenia zostaje obniżona o zadeklarowaną do ubezpieczenia wartość tego budynku.
 
@@ -695,16 +775,18 @@ Art. 141–158. (pominięte)
 
 - **1)** ogień – uważa się szkody powstałe w wyniku działań ognia, który przedostał się poza palenisko lub powstał bez paleniska i rozszerzył się o własnej sile;
 - **2)** huragan – uważa się szkody powstałe w wyniku działania wiatru o prędkości nie mniejszej niż 24 m/s, którego działanie wyrządza masowe szkody; pojedyncze szkody uważa się za spowodowane przez huragan, jeżeli w najbliższym sąsiedztwie stwierdzono działanie huraganu;
-- **3)** powódź – uważa się szkody powstałe wskutek zalania terenów w następstwie podniesienia się poziomu wody w korytach wód płynących lub stojących; deszczu nawalnego lub spływu wód po zboczach lub stokach na terenach górskich i falistych;
+- **3)** powódź – uważa się szkody powstałe wskutek zalania terenów w następstwie podniesienia się poziomu wody w korytach wód płynących lub stojących;
+- **4)** podtopienie – uważa się szkody powstałe wskutek zalania terenów w wyniku deszczu nawalnego lub spływu wód po zboczach lub stokach na terenach górskich i falistych;
 - **5)** deszcz nawalny – uważa się szkody powstałe w wyniku opadów deszczu o współczynniku wydajności co najmniej 4;
 - **6)** grad – uważa się szkody powstałe wskutek opadu atmosferycznego składającego się z bryłek lodu;
 - **7)** opady śniegu – uważa się szkody powstałe w wyniku opadów śniegu przekraczających 85 % wartości charakterystycznej (normowej) obciążenia śniegiem gruntu, właściwej dla strefy, w której znajduje się ubezpieczony budynek, określonej według obowiązującej normy polskiej „Obciążenie śniegiem”; warunkiem uznania szkody za spowodowaną opadami śniegu jest, aby przynajmniej jedna stacja meteorologiczna Instytutu Meteorologii i Gospodarki Wodnej, zlokalizowana na terenie tej samej strefy lub strefy o niższej wartości charakterystycznej obciążenia śniegiem w promieniu 100 km od ubezpieczonego budynku, zmierzyła ciężar pokrywy śnieżnej przekraczający 85 % wartości charakterystycznej (normowej) właściwej dla miejsca lokalizacji budynku;
 - **8)** piorun – uważa się szkody będące następstwem uderzenia pioruna;
 - **9)** eksplozję – uważa się szkody powstałe w wyniku gwałtownej zmiany stanu równowagi układu z jednoczesnym wyzwoleniem się gazów, pyłów lub pary, wywołane ich właściwością rozprzestrzeniania się w odniesieniu do naczyń ciśnieniowych i innych tego rodzaju zbiorników; warunkiem uznania szkody za spowodowaną eksplozją jest, aby ściany tych naczyń i zbiorników uległy rozdarciu w takich rozmiarach, iż wskutek ujścia gazów, pyłów, pary lub cieczy nastąpiło nagłe wyrównanie ciśnień; za spowodowane eksplozją uważa się również szkody powstałe wskutek implozji, polegające na uszkodzeniu zbiornika lub aparatu próżniowego ciśnieniem zewnętrznym;
-- **10)** obsunięcie się ziemi – uważa się szkody spowodowane przez zapadanie się ziemi oraz usuwanie się ziemi, z tym że za szkody spowodowane przez: spowodowanych pęknięciem skał, wywołanych naruszeniem równowagi sił w tych skałach;
+- **10)** obsunięcie się ziemi – uważa się szkody spowodowane przez zapadanie się ziemi oraz usuwanie się ziemi, z tym że za szkody spowodowane przez:
     - **a)** zapadanie się ziemi – uważa się szkody powstałe wskutek obniżenia się terenu z powodu zawalenia się podziemnych pustych przestrzeni w gruncie,
     - **b)** usuwanie się ziemi – uważa się szkody powstałe wskutek ruchów ziemi na stokach;
 
+- **11)** tąpnięcie – uważa się szkody powstałe wskutek wstrząsów podziemnych, spowodowanych pęknięciem skał, wywołanych naruszeniem równowagi sił w tych skałach;
 - **12)** lawinę – uważa się szkody powstałe wskutek gwałtownego zsuwania się lub staczania ze zboczy górskich lub falistych: mas śniegu, lodu, skał, kamieni, ziemi lub błota;
 - **13)** upadek statku powietrznego – uważa się szkody powstałe wskutek katastrofy bądź przymusowego lądowania samolotu silnikowego, bezsilnikowego lub innego obiektu latającego, a także spowodowane upadkiem ich części lub przewożonego ładunku.
 
@@ -721,9 +803,12 @@ Art. 141–158. (pominięte)
 
 3. Zakład ubezpieczeń może zweryfikować zasadność wielkości i wartości robót ujętych w przedstawionym przez ubezpieczającego kosztorysie, o którym mowa w ust. 1 pkt 2. Kosztorys ten powinien zostać przedłożony przez ubezpieczającego najpóźniej w terminie 12 miesięcy od dnia powstania szkody.
 
-4. Zakład ubezpieczeń nie uwzględnia stopnia zużycia budynku przy szkodach drobnych, których wartość nie przekracza równowartości w złotych 100 euro, Polski obowiązującego w dniu ustalania odszkodowania.
+4. Zakład ubezpieczeń nie uwzględnia stopnia zużycia budynku przy szkodach drobnych, których wartość nie przekracza równowartości w złotych 100 euro, ustalanej przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu ustalania odszkodowania.
 
 **Art. 69.** Wysokość szkody w budynkach rolniczych:
+
+- **1)** zmniejsza się o wartość pozostałości, które mogą być przeznaczone do dalszego użytku, przeróbki lub odbudowy;
+- **2)** zwiększa się w granicach sumy ubezpieczenia o udokumentowane koszty uprzątnięcia miejsca szkody w wysokości do 5 % wartości szkody.
 
 **Art. 70.**
 
@@ -749,7 +834,16 @@ Art. 141–158. (pominięte)
 
 **Art. 72.** Nie są objęte ubezpieczeniem w gospodarstwach rolnych:
 
+- **1)** budynki, których stan techniczny osiągnął 100 % normy zużycia;
+- **2)** budynki przeznaczone do rozbiórki na podstawie ostatecznych decyzji właściwych organów;
+- **3)** namioty i tunele foliowe.
+
 **Art. 73.** Zakład ubezpieczeń nie odpowiada za zaistniałe w budynkach rolniczych szkody:
+
+- **1)** wyrządzone umyślnie przez ubezpieczającego lub przez osobę, za którą ubezpieczający ponosi odpowiedzialność lub która pozostaje z ubezpieczającym we wspólnym gospodarstwie domowym;
+- **2)** wyrządzone wskutek rażącego niedbalstwa przez osoby, o których mowa w pkt 1;
+- **3)** górnicze w rozumieniu przepisów prawa geologicznego i górniczego;
+- **4)** powstałe wskutek trzęsienia ziemi.
 
 **Art. 74.**
 
@@ -768,8 +862,9 @@ Art. 141–158. (pominięte)
 
 **Art. 76.**
 
-1. Zwrot składki za niewykorzystany okres ubezpieczenia przysługuje w przypadku: budynek rolniczy, charakteru gospodarstwa rolnego;
+1. Zwrot składki za niewykorzystany okres ubezpieczenia przysługuje w przypadku:
 
+- **1)** utraty przez użytki i grunty określone w art. 2 pkt 4, na których jest położony budynek rolniczy, charakteru gospodarstwa rolnego;
 - **2)** rozwiązania umowy w związku z jej wypowiedzeniem przez osobę obejmującą gospodarstwo rolne w posiadanie w przypadku określonym w art. 63 ust. 1 – zwrot składki przysługuje rolnikowi dotychczas posiadającemu gospodarstwo rolne;
 - **3)** odstąpienia przez ubezpieczającego od umowy w trybie określonym w art. 40 ustawy z dnia 30 maja 2014 r. o prawach konsumenta, z zastrzeżeniem, że za okres udzielanej ochrony ubezpieczeniowej ubezpieczający jest obowiązany zapłacić składkę ubezpieczeniową;
 - **4)** rozwiązania umowy w związku z jej wypowiedzeniem przez osobę obejmującą gospodarstwo rolne w posiadanie w przypadku określonym w art. 62a ust. 1 – zwrot składki przysługuje z uwzględnieniem prawa zakładu ubezpieczeń do żądania zapłaty składki za okres świadczonej ochrony.
@@ -785,7 +880,8 @@ Art. 141–158. (pominięte)
 1. Mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej poszkodowany lub uprawniony do odszkodowania w wyniku wypadku, który miał miejsce za granicą, w państwie członkowskim Unii Europejskiej lub w państwie trzecim, w związku z ruchem pojazdu zarejestrowanego w państwie członkowskim Unii Europejskiej, może żądać informacji dotyczących:
 
 - **1)** zakładu ubezpieczeń posiadacza pojazdu mechanicznego, którym spowodowano szkodę;
-- **2)** reprezentanta do spraw roszczeń ustanowionego przez zakład ubezpieczeń, o którym mowa w pkt 1; pojazdu mechanicznego, którym spowodowano szkodę;
+- **2)** reprezentanta do spraw roszczeń ustanowionego przez zakład ubezpieczeń, o którym mowa w pkt 1;
+- **3)** dokumentu potwierdzającego zawarcie umowy ubezpieczenia OC posiadacza pojazdu mechanicznego, którym spowodowano szkodę;
 - **4)** danych osobowych posiadacza lub właściciela pojazdu mechanicznego, którym spowodowano szkodę;
 - **5)** podmiotów, które zgodnie z prawem państwa członkowskiego Unii Europejskiej, są zwolnione w kraju rejestracji z obowiązku zawarcia umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych oraz identyfikujących organ lub instytucję odpowiedzialną za wypłatę odszkodowań za szkody spowodowane ruchem pojazdów mechanicznych będących w posiadaniu tych podmiotów.
 
@@ -808,7 +904,9 @@ Art. 141–158. (pominięte)
 
 4. Reprezentant do spraw roszczeń podejmuje działanie na żądanie zgłoszone przez poszkodowanego lub uprawnionego, a także na wniosek reprezentowanego zakładu ubezpieczeń.
 
-5. Zgłoszenie żądania odszkodowawczego, o którym mowa w art. 79, bezpośrednio zagranicznemu zakładowi ubezpieczeń wywołuje skutki, jakie ustawa przewiduje w przypadku zgłoszenia żądania odszkodowawczego reprezentantowi do spraw roszczeń ustanowionemu w Rzeczypospolitej Polskiej. będących następstwem zdarzeń, o których mowa w art. 78 ust. 1, jeżeli szkoda powstała w związku z ruchem pojazdu mechanicznego, którego posiadacz miał zawartą umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych z reprezentowanym zakładem ubezpieczeń.
+5. Zgłoszenie żądania odszkodowawczego, o którym mowa w art. 79, bezpośrednio zagranicznemu zakładowi ubezpieczeń wywołuje skutki, jakie ustawa przewiduje w przypadku zgłoszenia żądania odszkodowawczego reprezentantowi do spraw roszczeń ustanowionemu w Rzeczypospolitej Polskiej.
+
+**Art. 81.** Zadaniem reprezentanta do spraw roszczeń jest likwidacja szkód będących następstwem zdarzeń, o których mowa w art. 78 ust. 1, jeżeli szkoda powstała w związku z ruchem pojazdu mechanicznego, którego posiadacz miał zawartą umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych z reprezentowanym zakładem ubezpieczeń.
 
 **Art. 82.**
 
@@ -825,7 +923,9 @@ Art. 141–158. (pominięte)
     - **b)** zakład ubezpieczeń nie ustanowił reprezentanta do spraw roszczeń, chyba że poszkodowany lub uprawniony zgłosił swoje żądanie bezpośrednio do zakładu ubezpieczeń i otrzymał odpowiedź określoną w art. 82 ust. 1 lub 2;
 
 - **2)** za granicą, w państwie członkowskim Unii Europejskiej i było spowodowane ruchem pojazdu mechanicznego zarejestrowanego za granicą, w państwie członkowskim Unii Europejskiej lub w państwie trzecim, jeżeli w terminie 60 dni od dnia zdarzenia nie został zidentyfikowany zakład ubezpieczeń osoby odpowiedzialnej za szkodę;
-- **3)** za granicą, w państwie członkowskim Unii Europejskiej i było spowodowane ruchem pojazdu mechanicznego, którego zidentyfikowanie okazało się niemożliwe. odszkodowawczego, jeżeli poszkodowany lub uprawniony wytoczył powództwo przeciwko zakładowi ubezpieczeń osoby odpowiedzialnej za szkodę.
+- **3)** za granicą, w państwie członkowskim Unii Europejskiej i było spowodowane ruchem pojazdu mechanicznego, którego zidentyfikowanie okazało się niemożliwe.
+
+2. Organ odszkodowawczy nie rozpatruje zgłoszonego żądania odszkodowawczego, jeżeli poszkodowany lub uprawniony wytoczył powództwo przeciwko zakładowi ubezpieczeń osoby odpowiedzialnej za szkodę.
 
 3. Funkcję organu odszkodowawczego pełni Polskie Biuro Ubezpieczycieli Komunikacyjnych.
 
@@ -845,7 +945,9 @@ Art. 141–158. (pominięte)
 
 2. Organ odszkodowawczy odstępuje od czynności określonych w ust. 1, jeżeli przed upływem terminu, o którym mowa w ust. 1, zakład ubezpieczeń lub jego reprezentant do spraw roszczeń udzieli poszkodowanemu lub uprawnionemu odpowiedzi na zgłoszone żądanie odszkodowawcze.
 
-3. Organ odszkodowawczy udziela odpowiedzi na zgłoszone żądanie odszkodowawcze i wypłaca odszkodowanie lub jego bezsporną część nie wcześniej niż po upływie 60 dni od dnia otrzymania żądania odszkodowawczego. odszkodowawcze jest ostateczna. Poszkodowanemu lub uprawnionemu przysługuje prawo dochodzenia roszczeń w drodze postępowania cywilnego przeciwko zakładowi ubezpieczeń posiadacza pojazdu mechanicznego, którym spowodowano szkodę.
+3. Organ odszkodowawczy udziela odpowiedzi na zgłoszone żądanie odszkodowawcze i wypłaca odszkodowanie lub jego bezsporną część nie wcześniej niż po upływie 60 dni od dnia otrzymania żądania odszkodowawczego.
+
+**Art. 83c.** Odpowiedź organu odszkodowawczego na zgłoszone mu żądanie odszkodowawcze jest ostateczna. Poszkodowanemu lub uprawnionemu przysługuje prawo dochodzenia roszczeń w drodze postępowania cywilnego przeciwko zakładowi ubezpieczeń posiadacza pojazdu mechanicznego, którym spowodowano szkodę.
 
 **Art. 83d.**
 
@@ -859,7 +961,7 @@ Art. 141–158. (pominięte)
 
 5. W przypadku niedopełnienia obowiązków, o których mowa w ust. 1 lub 2, organ nadzoru stosuje wobec zakładu ubezpieczeń środki nadzorcze określone w art. 362 ust. 1 pkt 1 lub 2 ustawy o działalności ubezpieczeniowej.
 
-**Art. 83e.** Poszkodowany lub uprawniony do odszkodowania, mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej, może zgłosić do Polskiego Biura Ubezpieczycieli Komunikacyjnych roszczenie z tytułu obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych, wynikłe ze zdarzenia, które zaistniało na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej albo państwa trzeciego i było spowodowane ruchem pojazdu mechanicznego, którego posiadacz zawarł umowę ubezpieczenia OC w państwie członkowskim Unii Europejskiej, wobec którego wszczęto postępowanie upadłościowe albo likwidacyjne.
+**Art. 83e.** Poszkodowany lub uprawniony do odszkodowania, mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej, może zgłosić do Polskiego Biura Ubezpieczycieli Komunikacyjnych roszczenie z tytułu obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych, wynikłe ze zdarzenia, które zaistniało na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej albo państwa trzeciego i było spowodowane ruchem pojazdu mechanicznego, którego posiadacz zawarł umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych z zakładem ubezpieczeń mającym siedzibę w państwie członkowskim Unii Europejskiej, wobec którego wszczęto postępowanie upadłościowe albo likwidacyjne.
 
 **Art. 83f.**
 
@@ -871,7 +973,7 @@ Art. 141–158. (pominięte)
 
 4. Polskie Biuro Ubezpieczycieli Komunikacyjnych niezwłocznie informuje o wszczęciu postępowania, o którym mowa w ust. 2 lub 3, w stosunku do krajowego zakładu ubezpieczeń, równoważne organy w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, wyznaczone do realizacji równoważnych zadań, o których mowa w art. 83e.
 
-5. W przypadku zgłoszenia roszczenia, o którym mowa w art. 83e, Polskie Biuro Ubezpieczycieli Komunikacyjnych informuje o tym roszczeniu równoważny organ w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej siedziby zakładu ubezpieczeń posiadacza pojazdu mechanicznego, którym spowodowano szkodę oraz ten zakład ubezpieczeń, wobec którego wszczęto równoważny organ w innym niż Rzeczpospolita Polska państwie miejsca zdarzenia.
+5. W przypadku zgłoszenia roszczenia, o którym mowa w art. 83e, Polskie Biuro Ubezpieczycieli Komunikacyjnych informuje o tym roszczeniu równoważny organ w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej siedziby zakładu ubezpieczeń posiadacza pojazdu mechanicznego, którym spowodowano szkodę oraz ten zakład ubezpieczeń, wobec którego wszczęto postępowanie upadłościowe albo likwidacyjne, jego syndyka albo likwidatora, a także równoważny organ w innym niż Rzeczpospolita Polska państwie miejsca zdarzenia.
 
 6. Polskie Biuro Ubezpieczycieli Komunikacyjnych może żądać od zakładu ubezpieczeń, wobec którego wszczęto postępowanie upadłościowe albo likwidacyjne, jego syndyka albo likwidatora niezwłocznego informowania o wypłacie lub odmowie wypłaty odszkodowania lub świadczenia, względem roszczenia, które zostało zgłoszone również do Polskiego Biura Ubezpieczycieli Komunikacyjnych oraz niezwłocznego udostępnienia w postaci elektronicznej dokumentów zgromadzonych w związku z badaniem tego roszczenia.
 
@@ -890,7 +992,7 @@ Art. 141–158. (pominięte)
 
 4. Polskie Biuro Ubezpieczycieli Komunikacyjnych odmawia wypłaty odszkodowania lub świadczenia, jeżeli w trakcie likwidacji dobrowolnej zakładu ubezpieczeń doszło do przeniesienia portfela ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 1.
 
-5. W przypadku zgłoszenia roszczenia, o którym mowa w art. 83e, przez poszkodowanego lub uprawnionego do odszkodowania, Polskie Biuro Ubezpieczycieli Komunikacyjnych nie może uzależnić wypłaty odszkodowania lub świadczenia od wykazania przez poszkodowanego lub uprawnionego do niezdolny do wypłaty odszkodowania lub świadczenia albo odmawia jego wypłaty.
+5. W przypadku zgłoszenia roszczenia, o którym mowa w art. 83e, przez poszkodowanego lub uprawnionego do odszkodowania, Polskie Biuro Ubezpieczycieli Komunikacyjnych nie może uzależnić wypłaty odszkodowania lub świadczenia od wykazania przez poszkodowanego lub uprawnionego do odszkodowania, że sprawca szkody lub odpowiedzialny zakład ubezpieczeń jest niezdolny do wypłaty odszkodowania lub świadczenia albo odmawia jego wypłaty.
 
 **Art. 83h.**
 
@@ -916,10 +1018,12 @@ Art. 141–158. (pominięte)
     - **d)** organy właściwe w sprawach rejestracji pojazdów,
     - **e)** Inspekcja Transportu Drogowego;
 
-- **2)** są uprawnione: ubezpieczenia OC rolników:
+- **2)** są uprawnione:
     - **a)** Ubezpieczeniowy Fundusz Gwarancyjny,
     - **b)** inne organy uprawnione do kontroli ruchu drogowego,
     - **c)** Inspekcja Ochrony Środowiska.
+
+3. Do przeprowadzania kontroli spełnienia obowiązku zawarcia umowy ubezpieczenia OC rolników:
 
 - **1)** jest obowiązany wójt (burmistrz, prezydent miasta) właściwy ze względu na miejsce położenia gospodarstwa rolnego lub miejsce zamieszkania rolnika;
 - **2)** są uprawnione:
@@ -941,7 +1045,9 @@ Art. 141–158. (pominięte)
 
 1. Jeżeli osoba kontrolowana nie okaże dokumentu potwierdzającego zawarcie umowy ubezpieczenia obowiązkowego, o którym mowa w art. 4 pkt 1 i 2, lub dowodu opłacenia składki za to ubezpieczenie, organ przeprowadzający kontrolę zawiadamia o tym Ubezpieczeniowy Fundusz Gwarancyjny w terminie 14 dni od dnia przeprowadzenia lub zakończenia kontroli.
 
-1a. Przepisu ust. 1 nie stosuje się w odniesieniu do umowy ubezpieczenia obowiązkowego, o którym mowa w art. 4 pkt 1, jeżeli organ przeprowadzający kontrolę uzyskał informację z centralnej ewidencji pojazdów lub ośrodka informacji, o którym mowa w art. 102 ust. 1, potwierdzającą zawarcie tej umowy. umowy ubezpieczenia obowiązkowego, o którym mowa w art. 4 pkt 3, lub dowodu opłacenia składki za to ubezpieczenie, starosta zawiadamia o tym wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce położenia gospodarstwa rolnego w terminie 14 dni od dnia przeprowadzenia lub zakończenia kontroli.
+1a. Przepisu ust. 1 nie stosuje się w odniesieniu do umowy ubezpieczenia obowiązkowego, o którym mowa w art. 4 pkt 1, jeżeli organ przeprowadzający kontrolę uzyskał informację z centralnej ewidencji pojazdów lub ośrodka informacji, o którym mowa w art. 102 ust. 1, potwierdzającą zawarcie tej umowy.
+
+2. Jeżeli osoba kontrolowana nie okaże dokumentu potwierdzającego zawarcie umowy ubezpieczenia obowiązkowego, o którym mowa w art. 4 pkt 3, lub dowodu opłacenia składki za to ubezpieczenie, starosta zawiadamia o tym wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce położenia gospodarstwa rolnego w terminie 14 dni od dnia przeprowadzenia lub zakończenia kontroli.
 
 **Art. 88.**
 
@@ -961,7 +1067,9 @@ Art. 141–158. (pominięte)
 
 - **1)** 20 % opłaty w wysokości określonej w ust. 2 pkt 1 – w przypadku gdy okres ten nie przekracza 3 dni;
 - **2)** 50 % opłaty w wysokości określonej w ust. 2 pkt 1 – w przypadku gdy okres ten nie przekracza 14 dni;
-- **3)** 100 % opłaty w wysokości określonej w ust. 2 pkt 1 – w przypadku gdy okres ten przekracza 14 dni. o którym mowa w ust. 3, podawana jest przez Ubezpieczeniowy Fundusz Gwarancyjny do publicznej wiadomości do dnia 3 stycznia każdego roku.
+- **3)** 100 % opłaty w wysokości określonej w ust. 2 pkt 1 – w przypadku gdy okres ten przekracza 14 dni.
+
+3a. Wysokość opłat na dany rok, z uwzględnieniem ich gradacji, w zakresie, o którym mowa w ust. 3, podawana jest przez Ubezpieczeniowy Fundusz Gwarancyjny do publicznej wiadomości do dnia 3 stycznia każdego roku.
 
 4. Jeżeli osoba, o której mowa w ust. 1, nie przedstawi dokumentów stanowiących podstawę do ustalenia wysokości opłaty zgodnie z ust. 3, jest ona obowiązana wnieść opłatę w wysokości określonej w ust. 2 pkt 1.
 
@@ -979,7 +1087,9 @@ Art. 141–158. (pominięte)
 
 2. Jeżeli osoba, o której mowa w ust. 1, przy wyjeździe z terytorium Rzeczypospolitej Polskiej nie przedstawi dokumentu zawarcia umowy ubezpieczenia, o którym mowa w ust. 1, ważnego do dnia wyjazdu włącznie, organy dokonujące kontroli granicznej lub celnej nie dopuszczą pojazdu mechanicznego do przekroczenia granicy bez uiszczenia opłaty w wysokości określonej w art. 88 ust. 2 pkt 1.
 
-3. Jeżeli osoba, o której mowa w ust. 1, w trakcie kontroli na terytorium Rzeczypospolitej Polskiej nie przedstawi organowi obowiązanemu lub uprawnionemu do kontroli dokumentu potwierdzającego zawarcie przed dokonaniem kontroli umowy ubezpieczenia, o którym mowa w ust. 1, warunkiem zwrotu dowodu rejestracyjnego zatrzymanego zgodnie z przepisami prawa o ruchu drogowym jest wniesienie opłaty w wysokości określonej w art. 88 ust. 2 pkt 1 oraz przedstawienie dokumentu zawarcia umowy ubezpieczenia, o którym mowa w ust. 1. ust. 2 pkt 1, mogą pobrać również urzędy celno-skarbowe i przekazać ją na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego w terminie 30 dni od dnia jej pobrania.
+3. Jeżeli osoba, o której mowa w ust. 1, w trakcie kontroli na terytorium Rzeczypospolitej Polskiej nie przedstawi organowi obowiązanemu lub uprawnionemu do kontroli dokumentu potwierdzającego zawarcie przed dokonaniem kontroli umowy ubezpieczenia, o którym mowa w ust. 1, warunkiem zwrotu dowodu rejestracyjnego zatrzymanego zgodnie z przepisami prawa o ruchu drogowym jest wniesienie opłaty w wysokości określonej w art. 88 ust. 2 pkt 1 oraz przedstawienie dokumentu zawarcia umowy ubezpieczenia, o którym mowa w ust. 1.
+
+4. W przypadku określonym w ust. 2 opłatę, w wysokości określonej w art. 88 ust. 2 pkt 1, mogą pobrać również urzędy celno-skarbowe i przekazać ją na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego w terminie 30 dni od dnia jej pobrania.
 
 5. (uchylony)
 
@@ -999,7 +1109,7 @@ Art. 141–158. (pominięte)
 
 2. Egzekucję, o której mowa w ust. 1, stosuje się, jeżeli:
 
-- **1)** należność z tytułu opłaty wynika z wezwania do zapłaty, o którym mowa w art. 90 ust. 1, w stosunku do którego ust. 2, w terminie 30 dni od dnia otrzymania wezwania do zapłaty, albo
+- **1)** należność z tytułu opłaty wynika z wezwania do zapłaty, o którym mowa w art. 90 ust. 1, w stosunku do którego zobowiązany nie wystąpił z powództwem do sądu powszechnego, zgodnie z art. 10 ust. 2, w terminie 30 dni od dnia otrzymania wezwania do zapłaty, albo
 - **2)** sąd ustalił prawomocnym orzeczeniem istnienie obowiązku ubezpieczenia.
 
 3. Od postanowień wydanych przez Zarząd Ubezpieczeniowego Funduszu Gwarancyjnego w toku postępowania egzekucyjnego w administracji służy odwołanie do Rady Ubezpieczeniowego Funduszu Gwarancyjnego.
@@ -1031,6 +1141,9 @@ Art. 141–158. (pominięte)
 
 **Art. 95.** Przepisy rozdziału nie dotyczą:
 
+- **1)** posiadaczy i kierujących pojazdami mechanicznymi zarejestrowanymi w państwach, o których mowa w art. 25 ust. 2;
+- **2)** upoważnionych osób kierujących pojazdami mechanicznymi obcych przedstawicielstw dyplomatycznych, urzędów konsularnych, misji specjalnych i organizacji międzynarodowych oraz innych obcych przedstawicielstw korzystających z immunitetów i przywilejów dyplomatycznych lub konsularnych na podstawie umów, ustaw lub powszechnie uznanych zwyczajów międzynarodowych.
+
 #### Rozdział 7 Ubezpieczeniowy Fundusz Gwarancyjny
 
 **Art. 96.**
@@ -1054,7 +1167,9 @@ Art. 141–158. (pominięte)
 
 1a. (uchylony)
 
-2. Członkiem Funduszu jest również zagraniczny zakład ubezpieczeń działający na terytorium Rzeczypospolitej Polskiej, zgodnie z przepisami prawa polskiego, i wykonujący działalność ubezpieczeniową w ramach ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 1 i 2. o których mowa w dziale I załącznika do ustawy o działalności ubezpieczeniowej, stają się członkami Funduszu w przypadku, o którym mowa w art. 98 ust. 2.
+2. Członkiem Funduszu jest również zagraniczny zakład ubezpieczeń działający na terytorium Rzeczypospolitej Polskiej, zgodnie z przepisami prawa polskiego, i wykonujący działalność ubezpieczeniową w ramach ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 1 i 2.
+
+3. Zakłady ubezpieczeń wykonujące działalność w zakresie ubezpieczeń, o których mowa w dziale I załącznika do ustawy o działalności ubezpieczeniowej, stają się członkami Funduszu w przypadku, o którym mowa w art. 98 ust. 2.
 
 4. Zakłady ubezpieczeń posiadające zezwolenie na wykonywanie działalności ubezpieczeniowej w grupach obejmujących ubezpieczenie obowiązkowe, o którym mowa w art. 4 pkt 3, niebędące członkami Funduszu zgodnie z ust. 1 i 2, stają się członkami Funduszu w przypadku, o którym mowa w art. 98 ust. 2.
 
@@ -1074,7 +1189,7 @@ Art. 141–158. (pominięte)
 
 **Art. 97a.**
 
-1. Zakład ubezpieczeń wykonujący działalność ubezpieczeniową w zakresie ubezpieczeń, o których mowa w dziale I lub II załącznika do ustawy terytorium Rzeczypospolitej Polskiej, zgodnie z przepisami prawa polskiego, i wykonujący działalność ubezpieczeniową w zakresie ubezpieczeń, o których mowa w dziale I lub II załącznika do ustawy o działalności ubezpieczeniowej, mogą zawrzeć z Funduszem umowę o uczestnictwo w informatycznej bazie danych, o której mowa w art. 102a ust. 1.
+1. Zakład ubezpieczeń wykonujący działalność ubezpieczeniową w zakresie ubezpieczeń, o których mowa w dziale I lub II załącznika do ustawy o działalności ubezpieczeniowej, oraz zagraniczny zakład ubezpieczeń działający na terytorium Rzeczypospolitej Polskiej, zgodnie z przepisami prawa polskiego, i wykonujący działalność ubezpieczeniową w zakresie ubezpieczeń, o których mowa w dziale I lub II załącznika do ustawy o działalności ubezpieczeniowej, mogą zawrzeć z Funduszem umowę o uczestnictwo w informatycznej bazie danych, o której mowa w art. 102a ust. 1.
 
 2. W okresie obowiązywania umowy, o której mowa w ust. 1, zakład ubezpieczeń jest uczestnikiem informatycznej bazy danych, o której mowa w art. 102a ust. 1.
 
@@ -1087,7 +1202,8 @@ Art. 141–158. (pominięte)
 - **1)** na osobie, gdy szkoda została wyrządzona w okolicznościach uzasadniających odpowiedzialność cywilną posiadacza pojazdu mechanicznego lub kierującego pojazdem mechanicznym, a nie ustalono ich tożsamości;
 - **2)** w mieniu, w przypadku szkody, w której równocześnie u któregokolwiek uczestnika zdarzenia nastąpiła śmierć, naruszenie czynności narządu ciała lub rozstrój zdrowia, trwający dłużej niż 14 dni, a szkoda została wyrządzona w okolicznościach uzasadniających odpowiedzialność cywilną posiadacza pojazdu mechanicznego lub kierującego pojazdem mechanicznym, a nie ustalono ich tożsamości. Naruszenie czynności narządu ciała lub rozstrój zdrowia powinny zostać stwierdzone orzeczeniem lekarza, posiadającego specjalizację w dziedzinie medycyny odpowiadającej rodzajowi i zakresowi powyższych naruszeń czynności narządu ciała lub rozstroju zdrowia. W przypadku szkody w pojeździe mechanicznym świadczenie Funduszu podlega zmniejszeniu o kwotę stanowiącą równowartość 300 euro, ustalaną przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu ustalenia odszkodowania;
 - **3)** na osobie, w mieniu, w mieniu i na osobie, gdy:
-    - **a)** posiadacz zidentyfikowanego pojazdu mechanicznego, którego ruchem szkodę tę wyrządzono, nie był ubezpieczony obowiązkowym ubezpieczeniem OC posiadaczy pojazdów mechanicznych, szkodę tę wyrządzono, zarejestrowanego za granicą na terytorium państwa, którego biuro narodowe jest sygnatariuszem Porozumienia Wielostronnego, nie był ubezpieczony obowiązkowym ubezpieczeniem OC posiadaczy pojazdów mechanicznych, a pojazd mechaniczny był pozbawiony znaków rejestracyjnych, bądź znaki te nie były, w momencie zdarzenia, przydzielone temu pojazdowi przez właściwe władze,
+    - **a)** posiadacz zidentyfikowanego pojazdu mechanicznego, którego ruchem szkodę tę wyrządzono, nie był ubezpieczony obowiązkowym ubezpieczeniem OC posiadaczy pojazdów mechanicznych,
+    - **b)** posiadacz zidentyfikowanego pojazdu mechanicznego, którego ruchem szkodę tę wyrządzono, zarejestrowanego za granicą na terytorium państwa, którego biuro narodowe jest sygnatariuszem Porozumienia Wielostronnego, nie był ubezpieczony obowiązkowym ubezpieczeniem OC posiadaczy pojazdów mechanicznych, a pojazd mechaniczny był pozbawiony znaków rejestracyjnych, bądź znaki te nie były, w momencie zdarzenia, przydzielone temu pojazdowi przez właściwe władze,
     - **c)** rolnik, osoba pozostająca z nim we wspólnym gospodarstwie domowym lub osoba pracująca w jego gospodarstwie rolnym są obowiązani do odszkodowania za wyrządzoną w związku z posiadaniem przez rolnika tego gospodarstwa rolnego szkodę, będącą następstwem śmierci, uszkodzenia ciała, rozstroju zdrowia bądź też utraty, zniszczenia lub uszkodzenia mienia, a rolnik nie był ubezpieczony obowiązkowym ubezpieczeniem OC rolników.
 
 1a. Do zadań Funduszu należy także zaspokajanie roszczeń z tytułu obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych za szkody, o których mowa w ust. 1 pkt 3 lit. a, w przypadku wyrządzenia szkody w związku z ruchem pojazdu mechanicznego, jeżeli zgodnie z art. 3 ust. 1 pkt 28 lit. c ustawy o działalności ubezpieczeniowej państwem członkowskim umiejscowienia ryzyka jest Rzeczpospolita Polska.
@@ -1095,7 +1211,7 @@ Art. 141–158. (pominięte)
 2. W przypadku ogłoszenia upadłości zakładu ubezpieczeń albo oddalenia wniosku o ogłoszenie upadłości zakładu ubezpieczeń lub umorzenia postępowania upadłościowego, jeżeli majątek dłużnika oczywiście nie wystarcza nawet na zaspokojenie kosztów postępowania upadłościowego albo w przypadku zarządzenia likwidacji przymusowej zakładu ubezpieczeń, jeżeli roszczenia osób uprawnionych nie mogą być pokryte z aktywów stanowiących pokrycie rezerw techniczno-ubezpieczeniowych, do zadań Funduszu należy również zaspokajanie roszczeń osób uprawnionych z:
 
 - **1)** umów ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 2 i 3, za szkody powstałe na terytorium Rzeczypospolitej Polskiej, w granicach określonych na podstawie przepisów rozdziałów 3 i 4;
-- **2)** umów ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 4, oraz umów ubezpieczenia na życie, w wysokości 50 % wierzytelności, do kwoty nie większej niż równowartość w złotych 30 000 euro według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu ogłoszenia postępowania upadłościowego albo w dniu zarządzenia likwidacji przymusowej.
+- **2)** umów ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 4, oraz umów ubezpieczenia na życie, w wysokości 50 % wierzytelności, do kwoty nie większej niż równowartość w złotych 30 000 euro według średniego kursu ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu ogłoszenia upadłości, oddalenia wniosku o ogłoszenie upadłości lub umorzenia postępowania upadłościowego albo w dniu zarządzenia likwidacji przymusowej.
 
 2a. Do zadań Funduszu należy także, w granicach określonych na podstawie przepisów rozdziału 2, zaspokajanie roszczeń poszkodowanych lub uprawnionych do odszkodowania, mających miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej, z tytułu umów obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych, wynikających ze zdarzeń, które zaistniały na terytorium Rzeczypospolitej Polskiej i powstały w związku z ruchem pojazdu mechanicznego, którego posiadacz zawarł umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych z zakładem ubezpieczeń mającym siedzibę w państwie członkowskim Unii Europejskiej, wobec którego wszczęto postępowanie upadłościowe albo likwidacyjne.
 
@@ -1109,9 +1225,21 @@ Art. 141–158. (pominięte)
 
 1. Fundusz wykonuje zadania, o których mowa w rozdziałach 8 i 8a ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695), oraz zadania, o których mowa w ustawie z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2023 r. poz. 2211).
 
-2. Fundusz wykonuje także zadania, o których mowa w ustawie z dnia 17 września 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz innych ustaw (Dz. U. poz. 1639). niezbędnym do realizacji zadań, o których mowa w art. 98 ust. 1–2a i art. 102a.
+2. Fundusz wykonuje także zadania, o których mowa w ustawie z dnia 17 września 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz innych ustaw (Dz. U. poz. 1639).
+
+**Art. 98b.** Fundusz przetwarza dane osobowe dotyczące zdrowia w zakresie niezbędnym do realizacji zadań, o których mowa w art. 98 ust. 1–2a i art. 102a.
 
 **Art. 98c.** Fundusz przetwarza dane osobowe dotyczące wyroków skazujących oraz naruszeń prawa lub powiązanych środków bezpieczeństwa w zakresie niezbędnym do:
+
+- **1)** dochodzenia zwrotu odszkodowania, o którym mowa w art. 11 ust. 3, art. 43 i art. 58;
+- **2)** zaspokajania roszczeń, o których mowa w art. 98 ust. 1–2a;
+- **3)** ustalenia okoliczności zdarzenia oraz rozmiaru szkody, o którym mowa w art. 16 ust. 3 i art. 102 ust. 3 i 4;
+- **4)** kontroli spełnienia obowiązków zawarcia umowy obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych i ubezpieczenia OC rolników, o której mowa w art. 84 ust. 2 pkt 2 lit. a i ust. 3 pkt 2 lit. b, oraz dochodzenia opłaty za niespełnienie tych obowiązków, o którym mowa w art. 90 i art. 91;
+- **5)** realizacji zadań, o których mowa w art. 102a;
+- **6)** dochodzenia zwrotu świadczenia i poniesionych kosztów, w przypadkach określonych w art. 110 ust. 1, a także określenia sytuacji materialnej i majątkowej, o którym mowa w art. 94 i art. 110 ust. 2;
+- **7)** wypłaty świadczeń, o których mowa w art. 111, oraz zaspokajania roszczeń, o których mowa w art. 113 i art. 114;
+- **8)** realizacji zadań, o których mowa w art. 102 ust. 7;
+- **9)** realizacji zadań, o których mowa w art. 105b.
 
 **Art. 98d.** W celu realizacji zadań, o których mowa w art. 84 ust. 2 pkt 2 lit. a i ust. 3 pkt 2 lit. b, art. 98, art. 98b, art. 98c, art. 102 i art. 102a, Fundusz może podejmować decyzje w indywidualnych przypadkach w oparciu o zautomatyzowane przetwarzanie danych, w tym profilowanie.
 
@@ -1119,7 +1247,11 @@ Art. 141–158. (pominięte)
 
 1. W celu wykonywania zadania, o którym mowa w art. 98 ust. 2a, Fundusz współpracuje z równoważnymi organami innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej.
 
-2. Fundusz jest uprawniony do negocjowania i zawarcia porozumienia o współpracy w zakresie wymiany informacji oraz wzajemnego zaspokajania roszczeń z organami, o których mowa w ust. 1. ubezpieczeń przejmującemu portfel ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 1 i 2, jeżeli posiadane dopuszczone środki własne w wysokości co najmniej kapitałowego wymogu wypłacalności nie gwarantują w pełni wypłacalności tego zakładu ubezpieczeń.
+2. Fundusz jest uprawniony do negocjowania i zawarcia porozumienia o współpracy w zakresie wymiany informacji oraz wzajemnego zaspokajania roszczeń z organami, o których mowa w ust. 1.
+
+**Art. 99.**
+
+1. Fundusz może udzielać zwrotnej pomocy finansowej zakładowi ubezpieczeń przejmującemu portfel ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 1 i 2, jeżeli posiadane dopuszczone środki własne w wysokości co najmniej kapitałowego wymogu wypłacalności nie gwarantują w pełni wypłacalności tego zakładu ubezpieczeń.
 
 2. Pomoc finansowa, o której mowa w ust. 1, ma charakter pożyczki zwrotnej, której wysokość nie może przekroczyć wysokości rezerw techniczno-ubezpieczeniowych dla celów wypłacalności, wynikających z przejmowanego portfela ubezpieczeń obowiązkowych, i która może być przeznaczona przez zakład ubezpieczeń tylko na zaspokojenie interesów uprawnionych z umów ubezpieczenia przejmowanego portfela ubezpieczeń obowiązkowych.
 
@@ -1144,7 +1276,9 @@ Art. 141–158. (pominięte)
 
 **Art. 102.**
 
-1. Fundusz pełni funkcję ośrodka informacji. umów ubezpieczenia działu II grupy 3 i 10 załącznika do ustawy o działalności ubezpieczeniowej z wyłączeniem odpowiedzialności przewoźnika, zawierającego:
+1. Fundusz pełni funkcję ośrodka informacji.
+
+2. Do zadań Funduszu jako ośrodka informacji należy prowadzenie rejestru umów ubezpieczenia działu II grupy 3 i 10 załącznika do ustawy o działalności ubezpieczeniowej z wyłączeniem odpowiedzialności przewoźnika, zawierającego:
 
 - **1)** nazwę i adres zakładu ubezpieczeń, który zawarł umowę ubezpieczenia;
 - **2)** identyfikator pośrednika, który zawarł umowę ubezpieczenia, według numeru wpisu do rejestru pośredników ubezpieczeniowych, a w przypadku zawarcia umowy bez udziału pośrednika − imię i nazwisko oraz numer PESEL osoby, która zawarła umowę;
@@ -1160,6 +1294,7 @@ Art. 141–158. (pominięte)
     - **a)** numer rejestracyjny,
     - **b)** numer VIN, a w przypadku jego braku – numer nadwozia (podwozia) pojazdu mechanicznego,
     - **c)** marka, typ i model,
+    - **d)** rodzaj pojazdu mechanicznego,
     - **e)** imię i nazwisko lub nazwę posiadacza pojazdu mechanicznego, adres jego zamieszkania lub siedziby oraz jego numer PESEL i numer REGON, jeżeli takie numery posiada, a w przypadku posiadaczy pojazdów będących nierezydentami – imię i nazwisko, adres zamieszkania, nazwę i numer dokumentu tożsamości lub nazwę i adres siedziby ubezpieczonego.
 
 3. Fundusz gromadzi dane zawierające informacje dotyczące uczestników zdarzenia powodującego odpowiedzialność zakładu ubezpieczeń z tytułu zawartej umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych obejmujące:
@@ -1178,14 +1313,16 @@ Art. 141–158. (pominięte)
 - **7)** datę zgłoszenia roszczenia odszkodowawczego;
 - **8)** datę i wysokość wypłaty odszkodowania lub świadczenia albo datę odmowy wypłaty odszkodowania lub świadczenia.
 
-4. Fundusz gromadzi dane zawierające: ubezpieczeń z tytułu zawartej umowy ubezpieczenia, określonego w grupie 3 działu II załącznika do ustawy o działalności ubezpieczeniowej, obejmujące:
+4. Fundusz gromadzi dane zawierające:
 
-- **a)** datę i miejsce zdarzenia lub datę i miejsce kradzieży pojazdu,
-- **b)** rodzaj szkody, w tym: – kradzież pojazdu, – szkoda całkowita w pojeździe, w tym szkoda istotna, – szkoda częściowa w pojeździe, w tym szkoda istotna,
-- **c)** markę i numer rejestracyjny pojazdu, uczestniczącego w zdarzeniu (kradzieży),
-- **d)** imię i nazwisko, adres zamieszkania, numer PESEL lub nazwę, adres siedziby i numer REGON posiadacza pojazdu uczestniczącego w zdarzeniu (kradzieży),
-- **e)** imię i nazwisko oraz numer PESEL kierującego pojazdem uczestniczącym w zdarzeniu,
-- **f)** imię i nazwisko, adres zamieszkania, numer PESEL lub nazwę, adres siedziby i numer REGON osoby poszkodowanej, a w przypadku osób będących nierezydentami – imię i nazwisko, adres zamieszkania, nazwę i numer dokumentu tożsamości lub nazwę i adres siedziby osoby poszkodowanej;
+- **1)** informacje dotyczące zdarzenia powodującego odpowiedzialność zakładu ubezpieczeń z tytułu zawartej umowy ubezpieczenia, określonego w grupie 3 działu II załącznika do ustawy o działalności ubezpieczeniowej, obejmujące:
+    - **a)** datę i miejsce zdarzenia lub datę i miejsce kradzieży pojazdu,
+    - **b)** rodzaj szkody, w tym: – kradzież pojazdu, – szkoda całkowita w pojeździe, w tym szkoda istotna, – szkoda częściowa w pojeździe, w tym szkoda istotna,
+    - **c)** markę i numer rejestracyjny pojazdu, uczestniczącego w zdarzeniu (kradzieży),
+    - **d)** imię i nazwisko, adres zamieszkania, numer PESEL lub nazwę, adres siedziby i numer REGON posiadacza pojazdu uczestniczącego w zdarzeniu (kradzieży),
+    - **e)** imię i nazwisko oraz numer PESEL kierującego pojazdem uczestniczącym w zdarzeniu,
+    - **f)** imię i nazwisko, adres zamieszkania, numer PESEL lub nazwę, adres siedziby i numer REGON osoby poszkodowanej, a w przypadku osób będących nierezydentami – imię i nazwisko, adres zamieszkania, nazwę i numer dokumentu tożsamości lub nazwę i adres siedziby osoby poszkodowanej;
+
 - **2)** datę zgłoszenia do zakładu ubezpieczeń zdarzenia (kradzieży);
 - **3)** datę i wysokość wypłaty odszkodowania lub datę odmowy wypłaty odszkodowania.
 
@@ -1195,7 +1332,7 @@ Art. 141–158. (pominięte)
 
 6. Dane, o których mowa w ust. 2 pkt 9 lit. b–e, nie dotyczą pojazdów zarejestrowanych w trybie art. 73 ust. 3 ustawy – Prawo o ruchu drogowym.
 
-7. Fundusz przetwarza dane, o których mowa w ust. 2–4 i 7a, art. 103 oraz art. 105c ust. 2, w celu kontroli spełnienia obowiązku zawarcia umowy ubezpieczenia obowiązkowego oraz w celu identyfikacji i weryfikacji zjawisk związanych pozwoli na ustalenie tożsamości osoby, której dane dotyczą.
+7. Fundusz przetwarza dane, o których mowa w ust. 2–4 i 7a, art. 103 oraz art. 105c ust. 2, w celu kontroli spełnienia obowiązku zawarcia umowy ubezpieczenia obowiązkowego oraz w celu identyfikacji i weryfikacji zjawisk związanych z przestępczością ubezpieczeniową albo w innych celach, po modyfikacji, która nie pozwoli na ustalenie tożsamości osoby, której dane dotyczą.
 
 7a. Fundusz, w celu realizacji zadań, o których mowa w ust. 7, przetwarza dane, o których mowa w ust. 2–4, oraz dane z centralnej ewidencji kierowców, w zakresie:
 
@@ -1215,7 +1352,9 @@ Art. 141–158. (pominięte)
 
 3. Zakład ubezpieczeń będący uczestnikiem informatycznej bazy danych, o której mowa w ust. 1, przekazuje do Funduszu dane, o których mowa w ust. 1, drogą teletransmisji danych za pośrednictwem systemu teleinformatycznego obsługującego Fundusz.
 
-4. Fundusz udostępnia uczestnikom informatycznej bazy danych, o której mowa w ust. 1, dane i informacje w niej zgromadzone, niezbędne do realizacji ich zadań, drogą teletransmisji danych za pośrednictwem systemu teleinformatycznego obsługującego Fundusz. danych, o której mowa w ust. 1, danych i informacji w niej zgromadzonych, określa umowa pomiędzy Funduszem a tym uczestnikiem, zawierająca w szczególności wymagania dotyczące przetwarzania danych zgromadzonych w tej bazie, w tym dotyczące bezpieczeństwa ich przetwarzania.
+4. Fundusz udostępnia uczestnikom informatycznej bazy danych, o której mowa w ust. 1, dane i informacje w niej zgromadzone, niezbędne do realizacji ich zadań, drogą teletransmisji danych za pośrednictwem systemu teleinformatycznego obsługującego Fundusz.
+
+4a. Tryb udostępniania przez Fundusz uczestnikowi informatycznej bazy danych, o której mowa w ust. 1, danych i informacji w niej zgromadzonych, określa umowa pomiędzy Funduszem a tym uczestnikiem, zawierająca w szczególności wymagania dotyczące przetwarzania danych zgromadzonych w tej bazie, w tym dotyczące bezpieczeństwa ich przetwarzania.
 
 4b. Fundusz przetwarza dane, o których mowa w ust. 1, w celu identyfikacji, weryfikacji i przeciwdziałania naruszeniu interesów uczestników rynku ubezpieczeniowego albo w innych celach, po modyfikacji, która nie pozwoli na ustalenie tożsamości osoby, której dane te dotyczą.
 
@@ -1234,7 +1373,12 @@ Art. 141–158. (pominięte)
 - **3)** państwo członkowskie Unii Europejskiej, w którym ustanowiony jest reprezentant do spraw roszczeń;
 - **4)** adres zamieszkania lub adres siedziby reprezentanta do spraw roszczeń;
 - **5)** adres do korespondencji reprezentanta do spraw roszczeń, jeżeli jest inny niż adres, o którym mowa w pkt 4;
-- **6)** numer telefonu, numer faksu, adres elektroniczny reprezentanta do spraw roszczeń. ust. 2–4 oraz w art. 103:
+- **6)** numer telefonu, numer faksu, adres elektroniczny reprezentanta do spraw roszczeń.
+
+**Art. 104.**
+
+1. Fundusz udostępnia zgromadzone dane, o których mowa w art. 102 ust. 2–4 oraz w art. 103:
+
 - **1)** poszkodowanemu, uprawnionemu lub innemu podmiotowi, w zakresie dotyczącym ubezpieczenia OC posiadaczy pojazdów mechanicznych, z wyłączeniem imienia i nazwiska oraz adresu posiadacza pojazdu sprawcy lub kierującego tym pojazdem; jeżeli poszkodowany, uprawniony lub inny podmiot żąda udostępnienia danych dotyczących imienia i nazwiska oraz adresu posiadacza pojazdu sprawcy lub kierującego tym pojazdem, w związku z zaistniałą szkodą, powinien wykazać interes prawny w uzyskaniu tych danych;
 - **1a)** posiadaczowi pojazdu mechanicznego, który zawarł umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych, w zakresie danych dotyczących zgłoszenia roszczeń i wypłaty odszkodowań z tytułu umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawartej przez tego posiadacza, w związku ze zdarzeniami skutkującymi odpowiedzialnością tego posiadacza albo ich braku, za okres 5 lat licząc wstecz od dnia, w którym posiadacz pojazdu mechanicznego wystąpił o udostępnienie danych;
 - **1b)** podmiotowi, którego dane dotyczą;
@@ -1247,7 +1391,8 @@ Art. 141–158. (pominięte)
 - **8)** (uchylony)
 - **9)** sądowi lub prokuraturze, o ile są niezbędne w toczącym się postępowaniu;
 - **10)** Policji, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych na zasadach i w trybie określonym w art. 20 ust. 1d i 1e ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. );
-- **11)** Centralnemu Biuru Antykorupcyjnemu, o ile są niezbędne w toczącym się postępowaniu; postępowaniu;
+- **11)** Centralnemu Biuru Antykorupcyjnemu, o ile są niezbędne w toczącym się postępowaniu;
+- **12)** Agencji Bezpieczeństwa Wewnętrznego, o ile są niezbędne w toczącym się postępowaniu;
 - **13)** organom Krajowej Administracji Skarbowej, o ile są one niezbędne do realizacji zadań, o których mowa w art. 2 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. );
 - **14)** Inspektorowi Nadzoru Wewnętrznego, o ile są niezbędne w prowadzonych czynnościach operacyjno-rozpoznawczych;
 - **15)** Straży Granicznej, o ile są niezbędne w toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych, na zasadach i w trybie określonych w art. 10c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. );
@@ -1259,7 +1404,8 @@ Art. 141–158. (pominięte)
 
 - **1)** do oceny ryzyka ubezpieczeniowego i weryfikacji danych podanych przez ubezpieczającego, ubezpieczonego lub osobę, na rzecz której ma być zawarta umowa ubezpieczenia, w tym do stosowania taryfy w zależności od długości okresu bezszkodowego;
 - **2)** do ustalenia prawa ubezpieczonego i uprawnionego do świadczenia z zawartej umowy ubezpieczenia i wysokości tego świadczenia, jeżeli ten sam przedmiot ubezpieczenia w tym samym czasie jest ubezpieczony od tego samego ryzyka w dwóch lub więcej zakładach ubezpieczeń;
-- **3)** w celu wykonania umowy ubezpieczenia; osoby, której dane dotyczą.
+- **3)** w celu wykonania umowy ubezpieczenia;
+- **4)** dla innych celów, po modyfikacji, która nie pozwoli na ustalenie tożsamości osoby, której dane dotyczą.
 
 1c. Fundusz udostępnia zgromadzone dane dotyczące zdarzeń powodujących odpowiedzialność Funduszu lub Polskiego Biura Ubezpieczycieli Komunikacyjnych:
 
@@ -1278,7 +1424,7 @@ Art. 141–158. (pominięte)
 
 7. Udostępnianie danych jest bezpłatne i podlega ewidencjonowaniu.
 
-7a. Podmiotowi, o którym mowa w ust. 1 pkt 1a, dane udostępnia się w terminie 15 dni od dnia otrzymania przez Fundusz wystąpienia o udostępnienie danych, w formie elektronicznej na formularzu zaświadczenia o przebiegu ubezpieczenia, którego wzór określają przepisy rozporządzenia wykonawczego Komisji (UE) Parlamentu Europejskiego i Rady 2009/103/WE w odniesieniu do wzorca zaświadczenia o przebiegu ubezpieczenia (Dz. Urz. UE L 1855 z 04.07.2024).
+7a. Podmiotowi, o którym mowa w ust. 1 pkt 1a, dane udostępnia się w terminie 15 dni od dnia otrzymania przez Fundusz wystąpienia o udostępnienie danych, w formie elektronicznej na formularzu zaświadczenia o przebiegu ubezpieczenia, którego wzór określają przepisy rozporządzenia wykonawczego Komisji (UE) 2024/1855 z dnia 3 lipca 2024 r. ustanawiającego zasady stosowania dyrektywy Parlamentu Europejskiego i Rady 2009/103/WE w odniesieniu do wzorca zaświadczenia o przebiegu ubezpieczenia (Dz. Urz. UE L 1855 z 04.07.2024).
 
 8. Do udostępniania danych przez Fundusz stosuje się przepisy o ochronie danych osobowych.
 
@@ -1301,7 +1447,11 @@ Art. 141–158. (pominięte)
 
 4a. Prawo, o którym mowa w art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), w zakresie danych osobowych przekazanych do Funduszu, jest wykonywane przez sprostowanie tych danych po wniesieniu żądania do zakładu ubezpieczeń.
 
-5. (uchylony) danych do Funduszu dane, o których mowa w art. 102 ust. 2 pkt 9 lit. a–d, oraz imię i nazwisko, adres zamieszkania, numer PESEL lub nazwę, adres siedziby i numer REGON posiadacza pojazdu mechanicznego, a w przypadku posiadaczy pojazdów będących nierezydentami – imię i nazwisko, adres zamieszkania, nazwę i numer dokumentu tożsamości lub nazwę i adres siedziby ubezpieczonego, z wyjątkiem danych pojazdów rejestrowanych w trybie art. 73 ust. 3 ustawy – Prawo o ruchu drogowym.
+5. (uchylony)
+
+**Art. 105a.**
+
+1. Centralna ewidencja pojazdów przekazuje drogą teletransmisji danych do Funduszu dane, o których mowa w art. 102 ust. 2 pkt 9 lit. a–d, oraz imię i nazwisko, adres zamieszkania, numer PESEL lub nazwę, adres siedziby i numer REGON posiadacza pojazdu mechanicznego, a w przypadku posiadaczy pojazdów będących nierezydentami – imię i nazwisko, adres zamieszkania, nazwę i numer dokumentu tożsamości lub nazwę i adres siedziby ubezpieczonego, z wyjątkiem danych pojazdów rejestrowanych w trybie art. 73 ust. 3 ustawy – Prawo o ruchu drogowym.
 
 2. Zakład ubezpieczeń, przekazując dane do Funduszu przekazuje jednocześnie do centralnej ewidencji pojazdów, za pośrednictwem systemu teleinformatycznego obsługującego Fundusz, dane o których mowa w art. 80b ust. 1 pkt 6 i 11 ustawy – Prawo o ruchu drogowym.
 
@@ -1318,7 +1468,8 @@ Art. 141–158. (pominięte)
 3. Dane, o których mowa w ust. 2, obejmują:
 
 - **1)** datę i godzinę wypadku, nazwę miejscowości i nazwę ulicy, numer drogi lub współrzędne geograficzne miejsca zdarzenia;
-- **2)** markę, rodzaj i numery rejestracyjne pojazdów uczestniczących w wypadku; pojazdami, a w przypadku nieposiadania numeru PESEL – daty urodzenia;
+- **2)** markę, rodzaj i numery rejestracyjne pojazdów uczestniczących w wypadku;
+- **3)** imiona i nazwiska, numery PESEL, jeżeli zostały nadane, kierujących pojazdami, a w przypadku nieposiadania numeru PESEL – daty urodzenia;
 - **4)** imiona i nazwiska, numery PESEL, jeżeli zostały nadane, innych uczestników wypadku, a w przypadku nieposiadania numeru PESEL – daty urodzenia;
 - **5)** nazwę zakładu ubezpieczeń i numer dokumentu potwierdzającego zawarcie umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych;
 - **6)** informację o rannych lub ofiarach śmiertelnych;
@@ -1338,7 +1489,7 @@ Art. 141–158. (pominięte)
 
 **Art. 105c.**
 
-1. Fundusz prowadzi ewidencję oświadczeń o zdarzeniu sporządzonych w usłudze udostępnionej w aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019) przez kierującego pojazdem mechanicznym lub posiadacza kierującego pojazdem mechanicznym lub posiadacza takiego pojazdu za szkody powstałe w związku z ruchem pojazdu mechanicznego lub w zdarzeniu powodującym odpowiedzialność zakładu ubezpieczeń z tytułu zawartej umowy ubezpieczenia, określonego w dziale II w grupie 3 załącznika do ustawy o działalności ubezpieczeniowej.
+1. Fundusz prowadzi ewidencję oświadczeń o zdarzeniu sporządzonych w usłudze udostępnionej w aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019) przez kierującego pojazdem mechanicznym lub posiadacza takiego pojazdu, uczestniczącego w zdarzeniu powodującym odpowiedzialność kierującego pojazdem mechanicznym lub posiadacza takiego pojazdu za szkody powstałe w związku z ruchem pojazdu mechanicznego lub w zdarzeniu powodującym odpowiedzialność zakładu ubezpieczeń z tytułu zawartej umowy ubezpieczenia, określonego w dziale II w grupie 3 załącznika do ustawy o działalności ubezpieczeniowej.
 
 2. W celu realizacji zadania, o którym mowa w ust. 1, Fundusz gromadzi i przetwarza następujące dane:
 
@@ -1357,9 +1508,11 @@ Art. 141–158. (pominięte)
     - **c)** rok produkcji,
     - **d)** markę i model;
 
-- **3)** o właścicielach pojazdów mechanicznych uczestniczących w zdarzeniu, o ile zostały przekazane przez osoby sporządzające oświadczenie o zdarzeniu: do ustawy o działalności ubezpieczeniowej, z wyłączeniem odpowiedzialności przewoźnika, dotyczącej pojazdu mechanicznego uczestniczącego w zdarzeniu:
+- **3)** o właścicielach pojazdów mechanicznych uczestniczących w zdarzeniu, o ile zostały przekazane przez osoby sporządzające oświadczenie o zdarzeniu:
     - **a)** imię, nazwisko lub nazwę właściciela pojazdu mechanicznego uczestniczącego w zdarzeniu,
     - **b)** dane kontaktowe: – numer telefonu, – adres poczty elektronicznej;
+
+- **4)** o umowie ubezpieczenia, określonego w dziale II w grupie 3 lub 10 załącznika do ustawy o działalności ubezpieczeniowej, z wyłączeniem odpowiedzialności przewoźnika, dotyczącej pojazdu mechanicznego uczestniczącego w zdarzeniu:
     - **a)** informację, czy pojazd mechaniczny uczestniczący w zdarzeniu był objęty ochroną ubezpieczeniową,
     - **b)** nazwę zakładu ubezpieczeń, z którym została zawarta umowa ubezpieczenia,
     - **c)** numer dokumentu potwierdzającego zawarcie umowy ubezpieczenia;
@@ -1385,7 +1538,7 @@ Art. 141–158. (pominięte)
 
 5. Fundusz udostępnia dane, o których mowa w ust. 2, zakładowi ubezpieczeń za pośrednictwem systemu teleinformatycznego obsługującego Fundusz.
 
-6. Zakres i warunki współpracy dotyczące udostępnienia oraz świadczenia usługi, o której mowa w ust. 1, w tym gromadzenia i udostępniania danych, o których mowa w ust. 2, określa się w porozumieniu zawartym między Funduszem a ministrem o aplikacji mObywatel stosuje się odpowiednio.
+6. Zakres i warunki współpracy dotyczące udostępnienia oraz świadczenia usługi, o której mowa w ust. 1, w tym gromadzenia i udostępniania danych, o których mowa w ust. 2, określa się w porozumieniu zawartym między Funduszem a ministrem właściwym do spraw informatyzacji. Przepisy art. 16 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel stosuje się odpowiednio.
 
 7. W celu realizacji zadania, o którym mowa w ust. 1, Fundusz przetwarza również dane, o których mowa w art. 102 ust. 2–4 oraz art. 103.
 
@@ -1412,7 +1565,9 @@ Art. 141–158. (pominięte)
 
 **Art. 107.**
 
-1. Wypłaty z Funduszu, o których mowa w art. 98 ust. 1, 1a i ust. 2 pkt 1, na rzecz poszkodowanych niebędących podmiotami polskimi i podmiotami państw, których biura narodowe są sygnatariuszami Porozumienia Wielostronnego, są dokonywane na zasadzie wzajemności. odszkodowania, niemających miejsca zamieszkania lub siedziby na terytorium państwa członkowskiego Unii Europejskiej, z tytułu umów obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych, wynikających ze zdarzeń, które zaistniały na terytorium Rzeczypospolitej Polskiej i powstały w związku z ruchem pojazdu mechanicznego, którego posiadacz zawarł umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych z zakładem ubezpieczeń mającym siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, wobec którego wszczęto postępowanie upadłościowe albo likwidacyjne, są dokonywane na zasadzie wzajemności.
+1. Wypłaty z Funduszu, o których mowa w art. 98 ust. 1, 1a i ust. 2 pkt 1, na rzecz poszkodowanych niebędących podmiotami polskimi i podmiotami państw, których biura narodowe są sygnatariuszami Porozumienia Wielostronnego, są dokonywane na zasadzie wzajemności.
+
+2. Wypłaty z Funduszu na rzecz poszkodowanych lub uprawnionych do odszkodowania, niemających miejsca zamieszkania lub siedziby na terytorium państwa członkowskiego Unii Europejskiej, z tytułu umów obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych, wynikających ze zdarzeń, które zaistniały na terytorium Rzeczypospolitej Polskiej i powstały w związku z ruchem pojazdu mechanicznego, którego posiadacz zawarł umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych z zakładem ubezpieczeń mającym siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, wobec którego wszczęto postępowanie upadłościowe albo likwidacyjne, są dokonywane na zasadzie wzajemności.
 
 **Art. 108.**
 
@@ -1424,7 +1579,7 @@ Art. 141–158. (pominięte)
 
 4. W przypadku, o którym mowa w ust. 3, zakład ubezpieczeń zawiadamia na piśmie osobę zgłaszającą roszczenie o przyczynach niemożności przeprowadzenia w terminie postępowania, o którym mowa w ust. 2, oraz o nowym terminie zakończenia tego postępowania.
 
-5. W przypadku nieprzeprowadzenia przez zakład ubezpieczeń w terminie postępowania, o którym mowa w ust. 2, lub niedopełnienia terminów, o których mowa określone w art. 362 ust. 1 pkt 1 lub 2 ustawy o działalności ubezpieczeniowej.
+5. W przypadku nieprzeprowadzenia przez zakład ubezpieczeń w terminie postępowania, o którym mowa w ust. 2, lub niedopełnienia terminów, o których mowa w ust. 3, organ nadzoru stosuje wobec zakładu ubezpieczeń środki nadzorcze określone w art. 362 ust. 1 pkt 1 lub 2 ustawy o działalności ubezpieczeniowej.
 
 **Art. 108a.**
 
@@ -1443,7 +1598,11 @@ Art. 141–158. (pominięte)
 
 5. Fundusz odmawia wypłaty odszkodowania lub świadczenia, jeżeli w trakcie likwidacji dobrowolnej zakładu ubezpieczeń doszło do przeniesienia portfela ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 1.
 
-6. W przypadku zgłoszenia roszczenia, o którym mowa w art. 98 ust. 2a, przez poszkodowanego lub uprawnionego do odszkodowania, Fundusz nie może uzależnić wypłaty odszkodowania lub świadczenia od wykazania przez poszkodowanego lub uprawnionego do odszkodowania, że sprawca szkody lub odpowiedzialny zakład ubezpieczeń jest niezdolny do wypłaty odszkodowania lub świadczenia albo odmawia jego wypłaty. odszkodowania udziela informacji związanych ze zgłoszonym roszczeniem, o którym mowa w art. 98 ust. 2a. Przepis art. 16 ust. 3 stosuje się odpowiednio.
+6. W przypadku zgłoszenia roszczenia, o którym mowa w art. 98 ust. 2a, przez poszkodowanego lub uprawnionego do odszkodowania, Fundusz nie może uzależnić wypłaty odszkodowania lub świadczenia od wykazania przez poszkodowanego lub uprawnionego do odszkodowania, że sprawca szkody lub odpowiedzialny zakład ubezpieczeń jest niezdolny do wypłaty odszkodowania lub świadczenia albo odmawia jego wypłaty.
+
+**Art. 108b.**
+
+1. Na wezwanie Funduszu poszkodowany lub uprawniony do odszkodowania udziela informacji związanych ze zgłoszonym roszczeniem, o którym mowa w art. 98 ust. 2a. Przepis art. 16 ust. 3 stosuje się odpowiednio.
 
 2. Na wezwanie Funduszu:
 
@@ -1462,7 +1621,9 @@ Art. 141–158. (pominięte)
 
 2. W przypadku gdy wyjaśnienie okoliczności niezbędnych do ustalenia odpowiedzialności Funduszu albo wysokości świadczenia w terminie, o którym mowa w ust. 1, było niemożliwe, świadczenie powinno być spełnione w terminie 14 dni od dnia wyjaśnienia tych okoliczności, z tym że bezsporna część świadczenia powinna być spełniona przez Fundusz w terminie określonym w ust. 1. Przepisy art. 16 i 17 stosuje się odpowiednio.
 
-3. Odpowiedzialność za zwłokę w spełnieniu świadczenia ponoszą odpowiednio Fundusz i zakład ubezpieczeń, każdy w swoim zakresie. z umów ubezpieczeń, o których mowa w art. 4 pkt 1 lub 2, o możliwości wyczerpania się określonej w umowie ubezpieczenia sumy gwarancyjnej, w przypadku gdy łączna kwota wypłaconych odszkodowań lub innych świadczeń przekroczy 80 % określonej w umowie ubezpieczenia sumy gwarancyjnej.
+3. Odpowiedzialność za zwłokę w spełnieniu świadczenia ponoszą odpowiednio Fundusz i zakład ubezpieczeń, każdy w swoim zakresie.
+
+4. Fundusz informuje poszkodowanego lub uprawnionego do wypłaty świadczeń z umów ubezpieczeń, o których mowa w art. 4 pkt 1 lub 2, o możliwości wyczerpania się określonej w umowie ubezpieczenia sumy gwarancyjnej, w przypadku gdy łączna kwota wypłaconych odszkodowań lub innych świadczeń przekroczy 80 % określonej w umowie ubezpieczenia sumy gwarancyjnej.
 
 5. Przekazując informację, o której mowa w ust. 4, Fundusz informuje jednocześnie poszkodowanego lub uprawnionego z umowy ubezpieczenia o możliwości wytoczenia powództwa do właściwego sądu o ukształtowanie, na podstawie art. 357 Kodeksu cywilnego, stosunku prawnego wynikającego z umowy ubezpieczenia, o której mowa w art. 4 pkt 1 lub 2, oraz o możliwości zgłoszenia do Funduszu roszczeń o wypłatę renty na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o szczególnych uprawnieniach osób poszkodowanych w przypadku wyczerpania sumy gwarancyjnej ustalonej na podstawie przepisów obowiązujących przed dniem 1 stycznia 2006 r.
 
@@ -1478,7 +1639,9 @@ Art. 141–158. (pominięte)
 
 2. W uzasadnionych przypadkach, kierując się przede wszystkim wyjątkowo trudną sytuacją materialną i majątkową zobowiązanego, jak również jego sytuacją życiową, Fundusz może odstąpić od dochodzenia zwrotu części lub całości świadczenia albo udzielić ulgi w jego spłacie.
 
-3. Tryb postępowania przy rozpatrywaniu spraw, o których mowa w ust. 2, określa statut Funduszu. określonych w Kodeksie cywilnym, nie wcześniej jednak niż z upływem 3 lat od dnia spełnienia przez Fundusz świadczenia.
+3. Tryb postępowania przy rozpatrywaniu spraw, o których mowa w ust. 2, określa statut Funduszu.
+
+4. Roszczenia Funduszu wynikające z ust. 1 ulegają przedawnieniu na zasadach określonych w Kodeksie cywilnym, nie wcześniej jednak niż z upływem 3 lat od dnia spełnienia przez Fundusz świadczenia.
 
 **Art. 110a.**
 
@@ -1492,7 +1655,7 @@ Art. 141–158. (pominięte)
 
 1. W przypadku ogłoszenia upadłości zakładu ubezpieczeń wykonującego działalność ubezpieczeniową w grupach obejmujących ubezpieczenia obowiązkowe OC posiadaczy pojazdów mechanicznych i ubezpieczenia OC rolników, syndyk jest obowiązany przekazać do Funduszu akta szkodowe, w odniesieniu do których mogą być zgłoszone roszczenia poszkodowanych lub uprawnionych do odszkodowania. Fundusz wypłaca poszkodowanym i uprawnionym do odszkodowania świadczenia z umów ubezpieczeń obowiązkowych OC posiadaczy pojazdów mechanicznych i ubezpieczenia OC rolników, po ustaleniu odpowiedzialności i wysokości świadczenia.
 
-2. W sprawach, w których szkody nie zostały zgłoszone do zakładu ubezpieczeń przed ogłoszeniem jego upadłości, Fundusz przyjmuje zgłoszenie szkody oraz wypłaca poszkodowanym i uprawnionym do odszkodowania świadczenia po ustaleniu odszkodowania zgłasza swoje roszczenie do Funduszu przez którykolwiek zakład ubezpieczeń wykonujący działalność ubezpieczeniową w grupach obejmujących ubezpieczenia obowiązkowe OC posiadaczy pojazdów mechanicznych i ubezpieczenia OC rolników. Zakład ubezpieczeń nie może odmówić przyjęcia zgłoszenia szkody.
+2. W sprawach, w których szkody nie zostały zgłoszone do zakładu ubezpieczeń przed ogłoszeniem jego upadłości, Fundusz przyjmuje zgłoszenie szkody oraz wypłaca poszkodowanym i uprawnionym do odszkodowania świadczenia po ustaleniu odpowiedzialności i wysokości świadczenia. Poszkodowany lub uprawniony do odszkodowania zgłasza swoje roszczenie do Funduszu przez którykolwiek zakład ubezpieczeń wykonujący działalność ubezpieczeniową w grupach obejmujących ubezpieczenia obowiązkowe OC posiadaczy pojazdów mechanicznych i ubezpieczenia OC rolników. Zakład ubezpieczeń nie może odmówić przyjęcia zgłoszenia szkody.
 
 3. Świadczenia rentowe, wynikające z realizacji zadań, o których mowa w art. 98 ust. 2 i 2a, Fundusz może wypłacać w formie skapitalizowanej za zgodą poszkodowanego lub uprawnionego.
 
@@ -1508,7 +1671,9 @@ Art. 141–158. (pominięte)
 
 2. O wszczęciu postępowania upadłościowego zakładu ubezpieczeń posiadającego zezwolenie na wykonywanie działalności ubezpieczeniowej w grupie obejmującej ubezpieczenie OC posiadaczy pojazdów mechanicznych sąd niezwłocznie, jednak nie później niż w terminie 7 dni od dnia wydania postanowienia o ogłoszeniu upadłości, informuje Fundusz. Fundusz udostępnia na swojej stronie internetowej informację o wszczęciu wobec krajowego zakładu ubezpieczeń postępowania upadłościowego.
 
-3. O wszczęciu postępowania likwidacyjnego zakładu ubezpieczeń posiadającego zezwolenie na wykonywanie działalności ubezpieczeniowej w grupie obejmującej ubezpieczenie OC posiadaczy pojazdów mechanicznych sąd lub organ nadzoru niezwłocznie, jednak nie później niż w terminie 7 dni od dnia otwarcia likwidacji, informuje Fundusz. Fundusz udostępnia na swojej stronie internetowej informację o wszczęciu wobec krajowego zakładu ubezpieczeń postępowania likwidacyjnego. w ust. 2 lub 3, w stosunku do krajowego zakładu ubezpieczeń, równoważne organy innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej, wyznaczone do realizacji równoważnych zadań, o których mowa w art. 98 ust. 2a.
+3. O wszczęciu postępowania likwidacyjnego zakładu ubezpieczeń posiadającego zezwolenie na wykonywanie działalności ubezpieczeniowej w grupie obejmującej ubezpieczenie OC posiadaczy pojazdów mechanicznych sąd lub organ nadzoru niezwłocznie, jednak nie później niż w terminie 7 dni od dnia otwarcia likwidacji, informuje Fundusz. Fundusz udostępnia na swojej stronie internetowej informację o wszczęciu wobec krajowego zakładu ubezpieczeń postępowania likwidacyjnego.
+
+4. Fundusz niezwłocznie informuje o wszczęciu postępowania, o którym mowa w ust. 2 lub 3, w stosunku do krajowego zakładu ubezpieczeń, równoważne organy innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej, wyznaczone do realizacji równoważnych zadań, o których mowa w art. 98 ust. 2a.
 
 5. W przypadku zgłoszenia roszczenia, o którym mowa w art. 98 ust. 2a, Fundusz informuje o tym roszczeniu równoważny organ w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej siedziby zakładu ubezpieczeń posiadacza pojazdu mechanicznego, którym spowodowano szkodę oraz ten zakład ubezpieczeń, wobec którego wszczęto postępowanie upadłościowe albo likwidacyjne, jego syndyka albo likwidatora, a w przypadku roszczenia wynikłego z wypadku, o którym mowa w art. 123 ust. 1 pkt 1, również Polskie Biuro Ubezpieczycieli Komunikacyjnych.
 
@@ -1518,7 +1683,7 @@ Art. 141–158. (pominięte)
 
 1. W przypadku ogłoszenia upadłości zakładu ubezpieczeń wykonującego działalność ubezpieczeniową w dziale I załącznika do ustawy o działalności ubezpieczeniowej, albo zakładu ubezpieczeń wykonującego działalność ubezpieczeniową, w grupach obejmujących ubezpieczenia obowiązkowe, o których mowa w art. 4 pkt 3 i 4, albo oddalenia wniosku o ogłoszenie upadłości zakładu ubezpieczeń lub umorzenia postępowania upadłościowego, jeżeli majątek dłużnika oczywiście nie wystarcza nawet na zaspokojenie kosztów postępowania upadłościowego, albo w przypadku zarządzenia likwidacji przymusowej zakładu ubezpieczeń, pozostałe zakłady ubezpieczeń wykonujące działalność ubezpieczeniową w dziale I załącznika do ustawy o działalności ubezpieczeniowej albo posiadające zezwolenie na wykonywanie działalności ubezpieczeniowej w grupach obejmujących ubezpieczenia obowiązkowe, o których mowa w art. 4 pkt 3 i 4, są obowiązane wnieść składkę na rzecz Funduszu.
 
-2. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii organu nadzoru i Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, wysokość procentu składki, o której mowa w ust. 1, uwzględniając w szczególności zakres zobowiązań wynikających z umów ubezpieczenia w ramach działu I załącznika o których mowa w art. 4 pkt 3 i 4.
+2. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii organu nadzoru i Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, wysokość procentu składki, o której mowa w ust. 1, uwzględniając w szczególności zakres zobowiązań wynikających z umów ubezpieczenia w ramach działu I załącznika do ustawy o działalności ubezpieczeniowej lub umów ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 3 i 4.
 
 3. Składka, o której mowa w ust. 2, ustalana jest od składki przypisanej brutto z ubezpieczeń działu I załącznika do ustawy o działalności ubezpieczeniowej oraz ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 3 i 4.
 
@@ -1540,7 +1705,9 @@ Art. 141–158. (pominięte)
 
 1. W odniesieniu do zakładów ubezpieczeń, wykonujących działalność ubezpieczeniową w zakresie działu I załącznika do ustawy o działalności ubezpieczeniowej oraz w zakresie ubezpieczeń obowiązkowych, o których mowa w art. 4, w przypadku oddalenia wniosku o ogłoszenie upadłości lub umorzenia postępowania upadłościowego, jeżeli majątek dłużnika oczywiście nie wystarcza nawet na zaspokojenie kosztów postępowania upadłościowego albo w przypadku zarządzenia likwidacji przymusowej, do zadań Funduszu należy zaspokajanie roszczeń osób uprawnionych z tytułu umów ubezpieczenia na życie oraz umów ubezpieczeń obowiązkowych, o których mowa w art. 4.
 
-2. W przypadku, o którym mowa w ust. 1, Fundusz przejmuje z zakładu ubezpieczeń akta szkodowe oraz wypłaca poszkodowanym i uprawnionym świadczenia, po ustaleniu odpowiedzialności tego zakładu i wysokości świadczenia. ograniczona do okresu, przez jaki zakład ubezpieczeń pozostawał w zwłoce do dnia oddalenia wniosku o ogłoszenie upadłości lub umorzenia postępowania upadłościowego albo zarządzenia likwidacji przymusowej.
+2. W przypadku, o którym mowa w ust. 1, Fundusz przejmuje z zakładu ubezpieczeń akta szkodowe oraz wypłaca poszkodowanym i uprawnionym świadczenia, po ustaleniu odpowiedzialności tego zakładu i wysokości świadczenia.
+
+3. Odpowiedzialność Funduszu za zwłokę w spełnieniu świadczenia jest ograniczona do okresu, przez jaki zakład ubezpieczeń pozostawał w zwłoce do dnia oddalenia wniosku o ogłoszenie upadłości lub umorzenia postępowania upadłościowego albo zarządzenia likwidacji przymusowej.
 
 4. Z dniem wypłaty przez Fundusz świadczenia, o którym mowa w ust. 2, na Fundusz przechodzi z mocy prawa roszczenie o zwrot wypłaconego świadczenia do zakładu ubezpieczeń, którego zobowiązanie zrealizował.
 
@@ -1573,7 +1740,9 @@ Art. 141–158. (pominięte)
 
 **Art. 117.**
 
-1. Koszty działalności Funduszu wynikające z realizacji zadań, o których mowa w niniejszym rozdziale, z wyłączeniem art. 98a, są pokrywane z dochodów Funduszu. będący rachunkiem obejmującym dochody i koszty oraz aktywa i zobowiązania związane z realizacją zadania, o którym mowa w art. 98 ust. 2a.
+1. Koszty działalności Funduszu wynikające z realizacji zadań, o których mowa w niniejszym rozdziale, z wyłączeniem art. 98a, są pokrywane z dochodów Funduszu.
+
+1a. W ramach Funduszu wyodrębnia się fundusz do spraw niewypłacalności, będący rachunkiem obejmującym dochody i koszty oraz aktywa i zobowiązania związane z realizacją zadania, o którym mowa w art. 98 ust. 2a.
 
 1b. Środki funduszu do spraw niewypłacalności gromadzone są na wyodrębnionym rachunku bankowym Funduszu.
 
@@ -1588,7 +1757,8 @@ Art. 141–158. (pominięte)
 - **6)** zwrotów zakładu ubezpieczeń przejmującego portfel upadłego zakładu ubezpieczeń, o których mowa w art. 98 ust. 4;
 - **7)** wpłat uzyskanych ze zwrotów kwot wypłaconych z tytułu upadłości zakładu ubezpieczeń;
 - **8)** zwrotów świadczeń, o których mowa w art. 114 ust. 4, wypłaconych przez Fundusz z umów ubezpieczenia na życie i z umów ubezpieczeń obowiązkowych, o których mowa w art. 4;
-- **9)** przychodów z oprocentowania pożyczek, o których mowa w art. 99 ust. 2; określonych w ustawie o działalności ubezpieczeniowej dla zakładów ubezpieczeń;
+- **9)** przychodów z oprocentowania pożyczek, o których mowa w art. 99 ust. 2;
+- **10)** przychodów z lokat środków Funduszu dokonywanych według zasad określonych w ustawie o działalności ubezpieczeniowej dla zakładów ubezpieczeń;
 - **11)** inne dochody.
 
 2a. Nadwyżka bilansowa Funduszu w danym roku powiększa fundusz statutowy tworzony w celu zapewnienia środków na finansowanie zadań Funduszu.
@@ -1601,7 +1771,9 @@ Art. 141–158. (pominięte)
 
 3a. Krajowe zakłady ubezpieczeń posiadające zezwolenie na wykonywanie działalności ubezpieczeniowej w grupie obejmującej ubezpieczenie OC posiadaczy pojazdów mechanicznych, są obowiązane wnieść składkę na rzecz funduszu do spraw niewypłacalności, w celu zapewnienia środków na finansowanie zadania, o którym mowa w art. 98 ust. 2a, w wysokości nie większej niż 0,1 % składki przypisanej brutto w ubezpieczeniu obowiązkowym, o którym mowa w art. 4 pkt 1.
 
-3b. W przypadku wszczęcia postępowania upadłościowego albo likwidacyjnego wobec zakładu ubezpieczeń wykonującego działalność ubezpieczeniową w grupie obejmującej ubezpieczenie OC posiadaczy pojazdów mechanicznych, jeżeli środki zgromadzone w funduszu do spraw niewypłacalności okażą się niewystarczające na potrzeby realizacji zadań wynikających z art. 98 ust. 2a w danym roku kalendarzowym, pozostałe krajowe zakłady ubezpieczeń wykonujące działalność ubezpieczeniową w zakresie ubezpieczenia, o którym mowa w art. 4 pkt 1, są obowiązane wnieść składkę dodatkową na rzecz funduszu do spraw niewypłacalności, na pokrycie szacowanych wypłat odszkodowań i świadczeń, wynikających z art. 98 ust. 2a, w okresie kolejnych 12 miesięcy. oraz organowi nadzoru analizę stanu finansów Funduszu, na podstawie której jest określany procent składki, o której mowa w ust. 3, wnoszonej przez członków Funduszu na jego rzecz.
+3b. W przypadku wszczęcia postępowania upadłościowego albo likwidacyjnego wobec zakładu ubezpieczeń wykonującego działalność ubezpieczeniową w grupie obejmującej ubezpieczenie OC posiadaczy pojazdów mechanicznych, jeżeli środki zgromadzone w funduszu do spraw niewypłacalności okażą się niewystarczające na potrzeby realizacji zadań wynikających z art. 98 ust. 2a w danym roku kalendarzowym, pozostałe krajowe zakłady ubezpieczeń wykonujące działalność ubezpieczeniową w zakresie ubezpieczenia, o którym mowa w art. 4 pkt 1, są obowiązane wnieść składkę dodatkową na rzecz funduszu do spraw niewypłacalności, na pokrycie szacowanych wypłat odszkodowań i świadczeń, wynikających z art. 98 ust. 2a, w okresie kolejnych 12 miesięcy.
+
+4. Fundusz przedstawia ministrowi właściwemu do spraw instytucji finansowych oraz organowi nadzoru analizę stanu finansów Funduszu, na podstawie której jest określany procent składki, o której mowa w ust. 3, wnoszonej przez członków Funduszu na jego rzecz.
 
 5. Minister właściwy do spraw instytucji finansowych, na wniosek Funduszu, po zasięgnięciu opinii organu nadzoru określa, w drodze rozporządzenia, wysokość procentu składki, o której mowa w ust. 3, oraz terminy uiszczania tej składki, uwzględniając w szczególności zagwarantowanie płynności finansowej Funduszu oraz możliwości udzielania przez Fundusz zwrotnej pomocy finansowej, o której mowa w art. 99 ust. 1.
 
@@ -1617,7 +1789,9 @@ Art. 141–158. (pominięte)
 
 8. Wysokość opłaty z tytułu uczestnictwa w informatycznej bazie danych, o której mowa w art. 102a ust. 1, jest wyliczana od składki przypisanej brutto.
 
-9. Minister właściwy do spraw instytucji finansowych, na wniosek Funduszu, po zasięgnięciu opinii organu nadzoru, określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 7, oraz terminy jej uiszczania, uwzględniając konieczność zagwarantowania płynności finansowej Funduszu. składek wnoszonych do Funduszu zgodnie z przepisami niniejszego rozdziału wyliczana jest od składki przypisanej brutto z tytułu umów ubezpieczenia zawartych w związku z wykonywaniem działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej.
+9. Minister właściwy do spraw instytucji finansowych, na wniosek Funduszu, po zasięgnięciu opinii organu nadzoru, określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 7, oraz terminy jej uiszczania, uwzględniając konieczność zagwarantowania płynności finansowej Funduszu.
+
+**Art. 118.** W przypadku zagranicznych zakładów ubezpieczeń, wysokość składek wnoszonych do Funduszu zgodnie z przepisami niniejszego rozdziału wyliczana jest od składki przypisanej brutto z tytułu umów ubezpieczenia zawartych w związku z wykonywaniem działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 119.**
 
@@ -1633,7 +1807,9 @@ Art. 141–158. (pominięte)
 
 3. Zatwierdzone przez Zgromadzenie Członków Funduszu sprawozdanie, o którym mowa w ust. 1, Fundusz przedstawia ministrowi właściwemu do spraw instytucji finansowych, ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, ministrowi właściwemu do spraw turystyki, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów oraz organowi nadzoru.
 
-3a. W zakresie rachunkowości Funduszu stosuje się przepisy ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863). Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, szczególne zasady rachunkowości Funduszu, w tym zakres informacji wykazywanych w informacji dodatkowej oraz szczegółowe warunki i tryb składania sprawozdań, o których mowa w ust. 1 i w art. 98 ust. 5, w tym terminy ich składania oraz niezbędne dane, jakie powinny zawierać te sprawozdania, uwzględniając w szczególności zapewnienie prawidłowości i przejrzystości sporządzanych sprawozdań.
+3a. W zakresie rachunkowości Funduszu stosuje się przepisy ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863).
+
+4. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, szczególne zasady rachunkowości Funduszu, w tym zakres informacji wykazywanych w informacji dodatkowej oraz szczegółowe warunki i tryb składania sprawozdań, o których mowa w ust. 1 i w art. 98 ust. 5, w tym terminy ich składania oraz niezbędne dane, jakie powinny zawierać te sprawozdania, uwzględniając w szczególności zapewnienie prawidłowości i przejrzystości sporządzanych sprawozdań.
 
 **Art. 119a.** (uchylony)
 
@@ -1661,7 +1837,8 @@ Art. 141–158. (pominięte)
 
 - **1)** wystawianie dokumentów ubezpieczeniowych ważnych w innych państwach;
 - **2)** zawieranie z zagranicznymi biurami narodowymi umów o wzajemnym uznawaniu dokumentów ubezpieczeniowych oraz o zaspokajaniu roszczeń wynikających z międzynarodowego ruchu pojazdów mechanicznych;
-- **3)** organizowanie likwidacji szkód lub bezpośrednia likwidacja szkód spowodowanych na terytorium Rzeczypospolitej Polskiej przez posiadaczy pojazdów mechanicznych zarejestrowanych za granicą posiadających ważne dokumenty ubezpieczeniowe wystawione przez zagraniczne biura narodowe; spowodowanych na terytorium Rzeczypospolitej Polskiej przez posiadaczy pojazdów mechanicznych zarejestrowanych w państwach, o których mowa w art. 25 ust. 2;
+- **3)** organizowanie likwidacji szkód lub bezpośrednia likwidacja szkód spowodowanych na terytorium Rzeczypospolitej Polskiej przez posiadaczy pojazdów mechanicznych zarejestrowanych za granicą posiadających ważne dokumenty ubezpieczeniowe wystawione przez zagraniczne biura narodowe;
+- **4)** organizowanie likwidacji szkód lub bezpośrednia likwidacja szkód spowodowanych na terytorium Rzeczypospolitej Polskiej przez posiadaczy pojazdów mechanicznych zarejestrowanych w państwach, o których mowa w art. 25 ust. 2;
 - **5)** określanie zasad i trybu dystrybucji dokumentów ubezpieczeń granicznych, a w szczególności ustalanie wzorów tych dokumentów oraz ich ewidencjonowanie;
 - **6)** pełnienie funkcji, o której mowa w art. 83 ust. 3;
 - **7)** ustalanie i udostępnianie podmiotom określonym w art. 134 danych, o których mowa w art. 133;
@@ -1679,7 +1856,11 @@ Art. 141–158. (pominięte)
 
 2. W przypadku zgłoszenia roszczenia, wynikającego ze szkody, o której mowa w ust. 1 pkt 1, spowodowanej ruchem pojazdu mechanicznego, którego posiadacz zawarł umowę ubezpieczenia OC posiadaczy pojazdów mechanicznych z zakładem ubezpieczeń mającym siedzibę za granicą, w państwie członkowskim Unii Europejskiej, wobec którego wszczęto postępowanie upadłościowe albo likwidacyjne, Biuro informuje o tym roszczeniu Ubezpieczeniowy Fundusz Gwarancyjny.
 
-**Art. 124.** Biuro, wobec zagranicznych biur narodowych oraz wobec organów odszkodowawczych z państw członkowskich Unii Europejskiej, odpowiada za terytorium:
+**Art. 124.** Biuro, wobec zagranicznych biur narodowych oraz wobec organów odszkodowawczych z państw członkowskich Unii Europejskiej, odpowiada za wykonanie zobowiązań wynikających z wypadków, które miały miejsce na terytorium:
+
+- **1)** państw, których biura narodowe są sygnatariuszami Porozumienia Wielostronnego i powstałych w związku z ruchem pojazdów mechanicznych zarejestrowanych w Rzeczypospolitej Polskiej, z wyjątkiem pojazdów mechanicznych, o których mowa w art. 24;
+- **2)** państw, których biura narodowe podpisały z Biurem umowy o wzajemnym uznawaniu dokumentów ubezpieczeniowych i likwidacji szkód, i powstałych w związku z ruchem pojazdów mechanicznych, pod warunkiem istnienia ważnej Zielonej Karty wystawionej przez Biuro;
+- **3)** państw Unii Europejskiej i powstałych w związku z ruchem pojazdów mechanicznych, jeżeli zgodnie z art. 3 ust. 1 pkt 28 lit. c ustawy o działalności ubezpieczeniowej państwem członkowskim umiejscowienia ryzyka jest Rzeczpospolita Polska, a posiadacz pojazdu nie był ubezpieczony w zakresie obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych.
 
 **Art. 125.**
 
@@ -1692,7 +1873,9 @@ Art. 141–158. (pominięte)
 
 **Art. 125a.**
 
-1. Biuro, w przypadku zgłoszenia roszczenia, o którym mowa w art. 83e, jest obowiązane złożyć oświadczenie o wysokości uznanego odszkodowania lub świadczenia wraz z uzasadnieniem, o którym mowa w art. 83g ust. 2, albo udzielić odpowiedzi z uzasadnieniem, o której mowa w art. 83g ust. 3, w terminie 3 miesięcy od dnia otrzymania zgłoszenia tego roszczenia. lub świadczenia wraz z uzasadnieniem, o którym mowa w ust. 1, Biuro wypłaca odszkodowanie lub świadczenie niezwłocznie, jednak nie później niż w terminie 3 miesięcy od dnia przyjęcia tego oświadczenia.
+1. Biuro, w przypadku zgłoszenia roszczenia, o którym mowa w art. 83e, jest obowiązane złożyć oświadczenie o wysokości uznanego odszkodowania lub świadczenia wraz z uzasadnieniem, o którym mowa w art. 83g ust. 2, albo udzielić odpowiedzi z uzasadnieniem, o której mowa w art. 83g ust. 3, w terminie 3 miesięcy od dnia otrzymania zgłoszenia tego roszczenia.
+
+2. W przypadku przyjęcia oświadczenia o wysokości uznanego odszkodowania lub świadczenia wraz z uzasadnieniem, o którym mowa w ust. 1, Biuro wypłaca odszkodowanie lub świadczenie niezwłocznie, jednak nie później niż w terminie 3 miesięcy od dnia przyjęcia tego oświadczenia.
 
 3. Jeżeli szkoda została ustalona w części, przepisy ust. 1 i 2 stosuje się odpowiednio.
 
@@ -1712,6 +1895,11 @@ Art. 141–158. (pominięte)
 
 **Art. 129.** Biuro występuje o zwrot wypłaconego odszkodowania lub świadczenia oraz poniesionych kosztów w przypadkach, o których mowa:
 
+- **1)** w art. 83 ust. 1 pkt 1 – do organu odszkodowawczego w państwie członkowskim Unii Europejskiej, gdzie jest ustanowiony zakład ubezpieczeń posiadacza pojazdu mechanicznego, którym spowodowano szkodę;
+- **2)** w art. 83 ust. 1 pkt 2 – do ubezpieczeniowego funduszu gwarancyjnego w państwie członkowskim Unii Europejskiej, gdzie zarejestrowany jest pojazd mechaniczny, którym spowodowano szkodę, a w przypadku pojazdów zarejestrowanych w państwach trzecich – do ubezpieczeniowego funduszu gwarancyjnego w państwie członkowskim Unii Europejskiej, w którym nastąpiło zdarzenie;
+- **3)** w art. 83 ust. 1 pkt 3 – do ubezpieczeniowego funduszu gwarancyjnego w państwie członkowskim Unii Europejskiej, w którym nastąpiło zdarzenie;
+- **4)** w art. 83e – do równoważnego organu w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej siedziby zakładu ubezpieczeń.
+
 **Art. 130.**
 
 1. Jeżeli do wypłaty odszkodowania był obowiązany zakład ubezpieczeń mający siedzibę na terytorium Rzeczypospolitej Polskiej, a likwidacji szkody dokonał organ odszkodowawczy lub ubezpieczeniowy fundusz gwarancyjny państwa członkowskiego Unii Europejskiej, Biuro jest obowiązane do zwrotu na rzecz tego organu odszkodowawczego lub ubezpieczeniowego funduszu gwarancyjnego wypłaconego odszkodowania, świadczeń i innych poniesionych kosztów.
@@ -1726,18 +1914,35 @@ Art. 141–158. (pominięte)
 
 **Art. 131.** Biuro z dniem wypłacenia odszkodowania za jednego ze swoich członków dochodzi od niego zwrotu wypłaconego odszkodowania.
 
-**Art. 132.** Sprawca szkody i posiadacz pojazdu, którzy nie dopełnili obowiązku zawarcia umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych, ponoszą solidarną odpowiedzialność z tytułu wypłaconego odszkodowania i kosztów poniesionych przez Biuro na wykonanie zobowiązań, o których mowa w art. 124. miejsce na terytorium Rzeczypospolitej Polskiej oraz za granicą, na terytorium państwa członkowskiego Unii Europejskiej lub państwa trzeciego, powstałych w związku z ruchem pojazdów mechanicznych zarejestrowanych w Rzeczypospolitej Polskiej, Biuro, na wniosek osoby mającej miejsce zamieszkania lub siedzibę za granicą, na terytorium państwa członkowskiego Unii Europejskiej, a także na wniosek ośrodka informacji z państwa członkowskiego Unii Europejskiej, ustala i udostępnia dane:
+**Art. 132.** Sprawca szkody i posiadacz pojazdu, którzy nie dopełnili obowiązku zawarcia umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych, ponoszą solidarną odpowiedzialność z tytułu wypłaconego odszkodowania i kosztów poniesionych przez Biuro na wykonanie zobowiązań, o których mowa w art. 124.
+
+**Art. 133.**
+
+1. W przypadku szkód będących następstwem wypadków, które miały miejsce na terytorium Rzeczypospolitej Polskiej oraz za granicą, na terytorium państwa członkowskiego Unii Europejskiej lub państwa trzeciego, powstałych w związku z ruchem pojazdów mechanicznych zarejestrowanych w Rzeczypospolitej Polskiej, Biuro, na wniosek osoby mającej miejsce zamieszkania lub siedzibę za granicą, na terytorium państwa członkowskiego Unii Europejskiej, a także na wniosek ośrodka informacji z państwa członkowskiego Unii Europejskiej, ustala i udostępnia dane:
+
+- **1)** zakładu ubezpieczeń posiadacza pojazdu mechanicznego, którym spowodowano szkodę;
+- **2)** identyfikujące dokument potwierdzający zawarcie umowy ubezpieczenia posiadacza pojazdu mechanicznego, którym spowodowano szkodę;
+- **3)** reprezentanta do spraw roszczeń ustanowionego przez zakład ubezpieczeń, o którym mowa w pkt 1, w państwie członkowskim Unii Europejskiej, w którym poszkodowany lub uprawniony ma miejsce zamieszkania lub siedzibę;
+- **4)** osobowe posiadacza lub właściciela pojazdu mechanicznego, którym spowodowano szkodę;
+- **5)** identyfikujące podmioty, które na mocy ustawy lub umowy międzynarodowej ratyfikowanej przez Rzeczpospolitą Polską, są zwolnione z obowiązku zawarcia umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych oraz identyfikujące organ lub instytucję odpowiedzialną za wypłatę odszkodowań za szkody spowodowane ruchem pojazdów mechanicznych będących w posiadaniu tych podmiotów.
+
+2. Udostępnianie danych jest nieodpłatne i podlega ewidencjonowaniu.
 
 **Art. 134.**
 
 1. Biuro ustala i udostępnia dane:
 
 - **1)** o których mowa w art. 133 ust. 1 pkt 1–3 i 5 – na pisemny wniosek poszkodowanego lub uprawnionego;
-- **2)** o których mowa w art. 133 ust. 1 pkt 4 – na pisemny wniosek: informacji z państwa członkowskiego Unii Europejskiej, udostępniane są drogą elektroniczną.
+- **2)** o których mowa w art. 133 ust. 1 pkt 4 – na pisemny wniosek:
     - **a)** poszkodowanego lub uprawnionego, po wykazaniu przez nich interesu prawnego w uzyskaniu tych danych,
     - **b)** ośrodka informacji z państwa członkowskiego Unii Europejskiej, po wykazaniu interesu prawnego poszkodowanego lub uprawnionego w uzyskaniu tych danych.
 
+2. Dane, o których mowa w art. 133 ust. 1 pkt 1–3, na wniosek ośrodka informacji z państwa członkowskiego Unii Europejskiej, udostępniane są drogą elektroniczną.
+
 **Art. 135.** Biuro ustala dane:
+
+- **1)** o których mowa w art. 133 ust. 1 pkt 1–4 – uzyskując je z rejestru, o którym mowa w art. 102 ust. 2, oraz uzyskując je z Funduszu gromadzącego dane, o których mowa w art. 103;
+- **2)** o których mowa w art. 133 ust. 1 pkt 5 – po uzyskaniu informacji z Funduszu.
 
 **Art. 136.** (uchylony)
 
@@ -1745,13 +1950,22 @@ Art. 141–158. (pominięte)
 
 **Art. 136b.** Biuro przetwarza dane osobowe dotyczące wyroków skazujących oraz naruszeń prawa lub powiązanych środków bezpieczeństwa, w zakresie niezbędnym do:
 
+- **1)** ustalenia okoliczności zdarzenia oraz rozmiaru szkody, o którym mowa w art. 16 ust. 3;
+- **2)** rozpatrzenia zgłoszonego żądania odszkodowawczego oraz podjęcia czynności w celu ustalenia odpowiedzialności za spowodowanie szkody i wysokości odszkodowania, o których mowa w art. 83–83b;
+- **2a)** zaspokajania roszczeń, o których mowa w art. 83e;
+- **3)** organizowania likwidacji szkód lub bezpośredniej likwidacji szkód, o których mowa w art. 122 ust. 1 pkt 3 i 4;
+- **4)** zaspokajania roszczeń, o których mowa w art. 123–125;
+- **5)** realizacji zadań, o których mowa w art. 124 i art. 133–135.
+
 **Art. 136c.** W celu realizacji zadań, o których mowa w art. 122 ust. 1 pkt 3, 4 i 7a oraz art. 123 pkt 1 i 2, Biuro może podjąć decyzje w indywidualnych przypadkach w oparciu o zautomatyzowane przetwarzanie danych, w tym profilowanie.
 
 **Art. 136d.** Biuro przechowuje otrzymane dane przez 21 lat.
 
 **Art. 136e.**
 
-1. W celu wykonywania zadania, o którym mowa w art. 122 ust. 1 pkt 7a, Biuro współpracuje z równoważnymi organami w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, wyznaczonymi do realizacji zadań, o których mowa w art. 98 ust. 2a lub art. 122 ust. 1 pkt 7a. o współpracy w zakresie wymiany informacji oraz wzajemnego zaspokajania roszczeń z organami, o których mowa w ust. 1.
+1. W celu wykonywania zadania, o którym mowa w art. 122 ust. 1 pkt 7a, Biuro współpracuje z równoważnymi organami w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, wyznaczonymi do realizacji zadań, o których mowa w art. 98 ust. 2a lub art. 122 ust. 1 pkt 7a.
+
+2. Biuro jest uprawnione do negocjowania i zawarcia porozumienia o współpracy w zakresie wymiany informacji oraz wzajemnego zaspokajania roszczeń z organami, o których mowa w ust. 1.
 
 **Art. 137.** (uchylony)
 
@@ -1781,7 +1995,11 @@ Art. 141–158. (pominięte)
 
 3. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii organu nadzoru, zatwierdza, w drodze decyzji, statut Biura i jego zmiany, w oparciu o kryterium zgodności z prawem oraz zgodności z zadaniami ustawowymi wykonywanymi przez Biuro.
 
-4. Minister właściwy do spraw instytucji finansowych ogłasza statut Biura i jego zmiany w Dzienniku Urzędowym Ministra Finansów. obrotowego, sporządzić roczne sprawozdanie z działalności, które podlega badaniu przez biegłego rewidenta.
+4. Minister właściwy do spraw instytucji finansowych ogłasza statut Biura i jego zmiany w Dzienniku Urzędowym Ministra Finansów.
+
+**Art. 140.**
+
+1. Biuro jest obowiązane, w terminie 4 miesięcy od zakończenia roku obrotowego, sporządzić roczne sprawozdanie z działalności, które podlega badaniu przez biegłego rewidenta.
 
 2. Walne Zgromadzenie Członków Biura zatwierdza sprawozdanie, o którym mowa w ust. 1, w terminie 6 miesięcy od zakończenia roku obrotowego.
 
@@ -1798,7 +2016,9 @@ Art. 141–158. (pominięte)
 1. Do zadań Funduszu należy zaspokajanie roszczeń poszkodowanych lub uprawnionych do odszkodowania, w przypadku wyczerpania sumy gwarancyjnej, ustalonej w umowach ubezpieczenia OC posiadaczy pojazdów mechanicznych i umowach ubezpieczenia OC rolników, zawartych przed dniem 11 grudnia 2009 r. i obowiązujących w tym dniu, jeżeli zdarzenie, z którego wynikła szkoda, miało miejsce w okresie od dnia 11 grudnia 2009 r. do dnia 10 czerwca 2012 r., w zakresie różnicy pomiędzy sumą gwarancyjną, która została określona w tych umowach ubezpieczenia, i równowartością w złotych odpowiednio następujących sum gwarancyjnych:
 
 - **1)** 2 500 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych – w przypadku szkód na osobie;
-- **2)** 500 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych – w przypadku szkód w mieniu. w ust. 1 ustala się przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wyrządzenia szkody.
+- **2)** 500 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte ubezpieczeniem bez względu na liczbę poszkodowanych – w przypadku szkód w mieniu.
+
+2. Wysokość równowartości w złotych sum gwarancyjnych określonych w ust. 1 ustala się przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wyrządzenia szkody.
 
 **Art. 159.**
 
@@ -1819,4 +2039,8 @@ Art. 141–158. (pominięte)
 **Art. 162.** Przepisy art. 3 ust. 2, rozdziału 5, art. 122 ust. 1 pkt 4 oraz art. 128– 134 stosuje się od dnia uzyskania członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej .
 
 **Art. 163.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r., z wyjątkiem:
+
+- **1)** art. 25 ust. 2, art. 95, art. 102–105, art. 123 pkt 1 i 3, art. 124 i 125, art. 127, art. 135 ust. 2 i 3 – w zakresie dotyczącym art. 123 pkt 3 oraz art. 137 ust. 2, które wchodzą w życie z dniem 1 lipca 2004 r., jednak nie później niż z dniem uzyskania członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej;
+- **2)** art. 148 pkt 3 lit. c, w zakresie, w którym dotyczy art. 80b ust. 2 pkt 3 ustawy zmienianej w art. 148, który wchodzi w życie z dniem 1 lipca 2004 r., jednak nie później niż z dniem uzyskania członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
+
 

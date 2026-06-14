@@ -8,7 +8,7 @@ pos: 626
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego oraz ustawy - Kodeks wykroczeń
@@ -29,6 +29,45 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny (Dz.U. Nr 88, poz. 553, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** art. 112 otrzymuje brzmienie: „Art. 112. Niezależnie od przepisów obowiązujących w miejscu popełnienia czynu zabronionego, ustawę karną polską stosuje się do obywatela polskiego oraz cudzoziemca w razie popełnienia:
+- **1)** przestępstwa przeciwko bezpieczeństwu wewnętrznemu lub zewnętrznemu Rzeczypospolitej Polskiej,
+- **2)** przestępstwa przeciwko polskim urzędom lub funkcjonariuszom publicznym,
+- **3)** przestępstwa przeciwko istotnym polskim interesom gospodarczym,
+- **4)** przestępstwa fałszywych zeznań złożonych wobec urzędu polskiego,
+- **5)** przestępstwa, z którego została osiągnięta, chociażby pośrednio, korzyść majątkowa na terytorium Rzeczypospolitej Polskiej.”;
+- **2)** w art. 114:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Orzeczenie zapadłe za granicą nie stanowi przeszkody do wszczęcia lub prowadzenia postępowania karnego o ten sam czyn zabroniony przed sądem polskim.”,
+    - **b)** § 3 otrzymuje brzmienie: „§ 3. Przepisu § 1 nie stosuje się:
+
+- **1)** jeżeli wyrok skazujący zapadły za granicą został przejęty do wykonania na terytorium Rzeczypospolitej Polskiej, jak również wtedy, gdy orzeczenie zapadłe za granicą dotyczy przestępstwa, w związku z którym nastąpiło przekazanie ścigania lub wydanie sprawcy z terytorium Rzeczypospolitej Polskiej,
+- **2)** do orzeczeń międzynarodowych trybunałów karnych działających na podstawie wiążącego Rzeczpospolitą Polską prawa międzynarodowego,
+- **3)** do orzeczeń sądów państw obcych, jeżeli wynika to z wiążącej Rzeczpospolitą Polską umowy międzynarodowej.”;
+- **3)** w art. 115 § 14 otrzymuje brzmienie: „§ 14. Dokumentem jest każdy przedmiot lub inny zapisany nośnik informacji, z którym jest związane określone prawo, albo który ze względu na zawartą w nim treść stanowi dowód prawa, stosunku prawnego lub okoliczności mającej znaczenie prawne.”;
+- **4)** w art. 130 § 3 otrzymuje brzmienie: „§ 3. Kto, w celu udzielenia obcemu wywiadowi wiadomości określonych w § 2, gromadzi je lub przechowuje, wchodzi do systemu informatycznego w celu ich uzyskania albo zgłasza gotowość działania na rzecz obcego wywiadu przeciwko Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.”;
+- **5)** w art. 165 w § 1 pkt 4 otrzymuje brzmienie: „4)zakłócając, uniemożliwiając lub w inny sposób wpływając na automatyczne przetwarzanie, gromadzenie lub przekazywanie danych informatycznych,”;
+- **6)** art. 200 otrzymuje brzmienie: „Art. 200. Kto obcuje płciowo z małoletnim poniżej lat 15 lub dopuszcza się wobec takiej osoby innej czynności seksualnej lub doprowadza ją do poddania się takim czynnościom albo do ich wykonania, podlega karze pozbawienia wolności od roku do lat 10.”;
+- **7)** art. 202 otrzymuje brzmienie: „Art. 202. § 1. Kto publicznie prezentuje treści pornograficzne w taki sposób, że może to narzucić ich odbiór osobie, która tego sobie nie życzy, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+§ 2. Kto małoletniemu poniżej lat 15 prezentuje treści pornograficzne lub udostępnia mu przedmioty mające taki charakter albo rozpowszechnia treści pornograficzne w sposób umożliwiający takiemu małoletniemu zapoznanie się z nimi, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+§ 3. Kto w celu rozpowszechniania produkuje, utrwala lub sprowadza albo rozpowszechnia lub publicznie prezentuje treści pornograficzne z udziałem małoletniego albo treści pornograficzne związane z prezentowaniem przemocy lub posługiwaniem się zwierzęciem, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+
+§ 4. Kto utrwala, sprowadza, przechowuje lub posiada treści pornograficzne z udziałem małoletniego poniżej lat 15, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+§ 5. Sąd może orzec przepadek narzędzi lub innych przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstw określonych w § 1-4, chociażby nie stanowiły własności sprawcy.”;
+
+- **8)** po art. 268 dodaje się art. 268a w brzmieniu: „Art. 268a. § 1. Kto, nie będąc do tego uprawnionym, niszczy, uszkadza, usuwa, zmienia lub utrudnia dostęp do danych informatycznych albo w istotnym stopniu zakłóca lub uniemożliwia automatyczne przetwarzanie, gromadzenie lub przekazywanie takich danych, podlega karze pozbawienia wolności do lat 3.
+
+§ 2. Kto, dopuszczając się czynu określonego w § 1, wyrządza znaczną szkodę majątkową, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+§ 3. Ściganie przestępstwa określonego w § 1 lub 2 następuje na wniosek pokrzywdzonego.”;
+
+- **9)** art. 269 otrzymuje brzmienie: „Art. 269. § 1. Kto niszczy, uszkadza, usuwa lub zmienia dane informatyczne o szczególnym znaczeniu dla obronności kraju, bezpieczeństwa w komunikacji, funkcjonowania administracji rządowej, innego organu państwowego lub instytucji państwowej albo samorządu terytorialnego albo zakłóca lub uniemożliwia automatyczne przetwarzanie, gromadzenie lub przekazywanie takich danych, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+
+§ 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w § 1, niszcząc albo wymieniając nośnik informacji lub niszcząc albo uszkadzając urządzenie służące do automatycznego przetwarzania, gromadzenia lub przekazywania danych informatycznych.”;
+
+- **10)** po art. 269 dodaje się art. 269a oraz art. 269b w brzmieniu: „Art. 269a. Kto, nie będąc do tego uprawnionym, przez transmisję, zniszczenie, usunięcie, uszkodzenie lub zmianę danych informatycznych, w istotnym stopniu zakłóca pracę systemu komputerowego lub sieci teleinformatycznej, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
 **Art. 269b.**
 
 § 1. Kto wytwarza, pozyskuje, zbywa lub udostępnia innym osobom urządzenia lub programy komputerowe przystosowane do popełnienia przestępstwa określonego w art. 165 § 1 pkt 4, art. 267 § 2, art. 268a § 1 albo § 2 w związku z § 1, art. 269 § 2 albo art. 269a, a także hasła komputerowe, kody dostępu lub inne dane umożliwiające dostęp do informacji przechowywanych w systemie komputerowym lub sieci teleinformatycznej, podlega karze pozbawienia wolności do lat 3.
@@ -44,11 +83,43 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz.U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 143 § 1 otrzymuje brzmienie: „§ 1. Spisania protokołu wymagają:
+- **1)** przyjęcie ustnego zawiadomienia o przestępstwie, wniosku o ściganie i jego cofnięcie,
+- **2)** przesłuchanie oskarżonego, świadka, biegłego i kuratora,
+- **3)** dokonanie oględzin,
+- **4)** dokonanie otwarcia zwłok oraz wyjęcie zwłok z grobu,
+- **5)** przeprowadzenie eksperymentu, konfrontacji oraz okazania,
+- **6)** przeszukanie osoby, miejsca, rzeczy i systemu informatycznego oraz zatrzymanie rzeczy i danych informatycznych,
+- **7)** otwarcie korespondencji i przesyłki oraz odtworzenie utrwalonych zapisów,
+- **8)** zaznajomienie podejrzanego z materiałami zebranymi w postępowaniu przygotowawczym,
+- **9)** przyjęcie poręczenia,
+- **10)** przebieg posiedzenia sądu, jeżeli stawią się na nim uprawnione osoby albo ich obecność jest obowiązkowa,
+- **11)** przebieg rozprawy.”;
+- **2)** w art. 218 § 1 i 2 otrzymują brzmienie: „§ 1. Urzędy, instytucje i podmioty prowadzące działalność w dziedzinie poczty lub działalność telekomunikacyjną, urzędy celne oraz instytucje i przedsiębiorstwa transportowe obowiązane są wydać sądowi lub prokuratorowi, na żądanie zawarte w postanowieniu, korespondencję i przesyłki oraz wykaz połączeń telekomunikacyjnych lub innych przekazów informacji, w tym korespondencji przesyłanej pocztą elektroniczną, z uwzględnieniem czasu ich dokonania i innych danych związanych z połączeniem lub przekazem, niestanowiących treści rozmowy telefonicznej lub innego przekazu informacji, jeżeli mają znaczenie dla toczącego się postępowania. Tylko sąd lub prokurator mają prawo je otwierać lub zarządzić ich otwarcie.
+
+§ 2. Postanowienie, o którym mowa w § 1, doręcza się adresatom korespondencji oraz abonentowi telefonu lub nadawcy, którego wykaz połączeń lub innych przekazów informacji został wydany. Doręczenie postanowienia może być odroczone na czas oznaczony, niezbędny ze względu na dobro sprawy, lecz nie później niż do czasu prawomocnego zakończenia postępowania.”;
+
+- **3)** po art. 218 dodaje się art. 218a oraz 218b w brzmieniu: „Art. 218a. § 1. Urzędy, instytucje i podmioty prowadzące działalność telekomunikacyjną obowiązane są niezwłocznie zabezpieczyć, na żądanie sądu lub prokuratora zawarte w postanowieniu, na czas określony, nieprzekraczający jednak 90 dni, dane informatyczne przechowywane w urządzeniach zawierających te dane na nośniku lub w systemie informatycznym. Przepis art. 218 § 2 zdanie drugie stosuje się odpowiednio.
+
+§ 2. Pozbawione znaczenia dla postępowania karnego dane informatyczne, o których mowa w § 1, należy niezwłocznie zwolnić spod zabezpieczenia.
+
 **Art. 218b.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności, Ministrem Obrony Narodowej oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, sposób technicznego przygotowania systemów i sieci służących do przekazywania informacji - do gromadzenia wykazów połączeń telefonicznych i innych przekazów informacji, z uwzględnieniem czasu ich dokonania i innych danych związanych z połączeniem lub przekazem, niestanowiących treści rozmowy telefonicznej lub innego przekazu informacji, a także sposoby zabezpieczania danych informatycznych w urządzeniach zawierających te dane oraz w systemach i na nośnikach informatycznych, w tym danych przesyłanych pocztą elektroniczną, mając na uwadze konieczność zabezpieczenia wykazów połączeń telefonicznych i innych przekazów informacji oraz danych informatycznych przed ich utratą, zniekształceniem lub nieuprawnionym ujawnieniem.”;
+
+- **4)** art. 236a otrzymuje brzmienie: „Art. 236a. Przepisy rozdziału niniejszego stosuje się odpowiednio do dysponenta i użytkownika urządzenia zawierającego dane informatyczne lub systemu informatycznego, w zakresie danych przechowywanych w tym urządzeniu lub systemie albo na nośniku znajdującym się w jego dyspozycji lub użytkowaniu, w tym korespondencji przesyłanej pocztą elektroniczną.”;
+- **5)** tytuł rozdziału 65 otrzymuje brzmienie: „Ekstradycja oraz przewóz osób ściganych albo skazanych lub wydanie przedmiotów na wniosek państw obcych”;
+- **6)** art. 602 otrzymuje brzmienie: „Art. 602. § 1. Z zastrzeżeniem przepisów rozdziału 65b, ekstradycja jest wydaniem osoby ściganej albo skazanego, na wniosek państwa obcego, w celach określonych w § 2.
+
+§ 2. W razie złożenia przez organ państwa obcego wniosku o wydanie osoby ściganej w celu przeprowadzenia przeciw niej postępowania karnego lub wykonania orzeczonej co do niej kary albo środka zabezpieczającego, prokurator przesłuchuje tę osobę i w miarę potrzeby zabezpiecza dowody znajdujące się w kraju, po czym wnosi sprawę do właściwego miejscowo sądu okręgowego.”;
+
+- **7)** w art. 603a w § 6 wyrazy „art. 602,” zastępuje się wyrazami „art. 602 § 2, art.”;
+- **8)** po rozdziale 65 dodaje się rozdziały 65a oraz 65b w brzmieniu: „Rozdział 65a Wystąpienie do państwa członkowskiego Unii Europejskiej o przekazanie osoby ściganej na podstawie europejskiego nakazu aresztowania
 
 **Art. 607a.** W razie podejrzenia, że osoba ścigana za przestępstwo popełnione na terytorium Rzeczypospolitej Polskiej przebywa na terytorium państwa członkowskiego Unii Europejskiej, właściwy miejscowo sąd okręgowy, na wniosek prokuratora, może wydać europejski nakaz aresztowania, zwany w niniejszym rozdziale „nakazem”.
 
 **Art. 607b.** Wydanie nakazu jest niedopuszczalne:
+
+- **1)** w związku z prowadzonym przeciwko osobie ściganej postępowaniem karnym o przestępstwo zagrożone karą pozbawienia wolności do roku,
+- **2)** w celu wykonania kary pozbawienia wolności orzeczonej w wymiarze do 4 miesięcy albo innego środka polegającego na pozbawieniu wolności na czas nieprzekraczający 4 miesięcy.
 
 **Art. 607c.**
 
@@ -162,6 +233,11 @@ source: "isap-pdf"
 
 **Art. 607p.** Odmawia się wykonania nakazu europejskiego, jeżeli:
 
+- **1)** przest ępstwo, którego dotyczy nakaz europejski, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii,
+- **2)** w stosunku do osoby ściganej zapadło w innym państwie prawomocne orzeczenie co do tych samych czynów oraz, w wypadku skazania za te same czyny, osoba ścigana odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący,
+- **3)** w stosunku do osoby ściganej zapadło prawomocne orzeczenie o przekazaniu do innego państwa członkowskiego Unii Europejskiej,
+- **4)** osoba, której dotyczy nakaz europejski, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania nakazu europejskiego.
+
 **Art. 607r.**
 
 § 1. Można odmówić wykonania nakazu europejskiego, jeżeli:
@@ -196,6 +272,40 @@ source: "isap-pdf"
 **Art. 607u.** Jeżeli nakaz europejski został wydany w celu wykonania kary albo środka zabezpieczającego, orzeczonych zaocznie, a osoba ścigana nie była wezwana do udziału w postępowaniu ani w inny sposób zawiadomiona o terminie i miejscu rozprawy albo posiedzenia, przekazanie tej osoby może się odbyć tylko wtedy, gdy organ, który wydał nakaz europejski, zapewni ją o możliwości wystąpienia w państwie wydania nakazu europejskiego z wnioskiem o przeprowadzenie z jej udziałem nowego postępowania sądowego w tej samej sprawie.
 
 **Art. 607w.** Okoliczność, że czyn nie jest przestępstwem według prawa polskiego, nie stanowi przeszkody do wykonania nakazu europejskiego, jeżeli dotyczy on czynu zagrożonego w państwie jego wydania karą co najmniej 3 lat pozbawienia wolności albo czynu, za który może być orzeczony co najmniej w tym samym wymiarze inny środek polegający na pozbawieniu wolności, będącego przestępstwem:
+
+- **1)** udziału w zorganizowanej grupie albo związku mających na celu popełnianie przestępstw,
+- **2)** o charakterze terrorystycznym,
+- **3)** handlu ludźmi,
+- **4)** przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego,
+- **5)** nielegalnego wytwarzania, przetwarzania, przemytu środków odurzających, prekursorów, środków zastępczych lub substancji psychotropowych lub obrotu nimi,
+- **6)** nielegalnego obrotu bronią, amunicją, materiałami wybuchowymi lub radioaktywnymi,
+- **7)** łapownictwa i płatnej protekcji,
+- **8)** oszustwa,
+- **9)** wprowadzania do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł,
+- **10)** fałszowania oraz obrotu fałszywymi pieniędzmi lub innymi środkami płatniczymi,
+- **11)** przeciwko ochronie danych gromadzonych, przechowywanych, przetwarzanych lub przekazywanych w systemie informatycznym,
+- **12)** przeciwko środowisku naturalnemu, w tym nielegalnego obrotu zagrożonymi gatunkami zwierząt i roślin,
+- **13)** udzielenia pomocy w nielegalnym przekroczeniu granicy lub pobycie,
+- **14)** zabójstwa,
+- **15)** spowodowania ciężkiego uszczerbku na zdrowiu,
+- **16)** nielegalnego obrotu organami i tkankami ludzkimi,
+- **17)** bezprawnego pozbawienia człowieka wolności,
+- **18)** uprowadzenia człowieka dla okupu,
+- **19)** wzięcia lub przetrzymywania zakładnika,
+- **20)** popełnionym z powodów narodowościowych, etnicznych, rasowych, wyznaniowych albo ze względu na bezwyznaniowość,
+- **21)** rozboju z użyciem broni palnej lub groźby jej użycia,
+- **22)** wymuszenia rozbójniczego z użyciem broni palnej lub groźby jej użycia,
+- **23)** nielegalnego obrotu dobrami kultury,
+- **24)** sprzeniewierzenia cudzego mienia,
+- **25)** podrabiania oraz obrotu podrobionymi wyrobami,
+- **26)** fałszowania oraz obrotu sfałszowanymi dokumentami,
+- **27)** nielegalnego obrotu hormonami lub podobnymi substancjami,
+- **28)** obrotu kradzionymi pojazdami mechanicznymi,
+- **29)** zgwałcenia,
+- **30)** podpalenia,
+- **31)** należącym do właściwości Międzynarodowego Trybunał u Karnego,
+- **32)** porwania statku wodnego lub powietrznego,
+- **33)** sabotażu.
 
 **Art. 607x.**
 

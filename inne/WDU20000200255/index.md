@@ -8,7 +8,7 @@ pos: 255
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # WYROK z dnia 21 marca 2000 r.

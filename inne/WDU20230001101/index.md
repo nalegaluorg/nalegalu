@@ -8,10 +8,10 @@ pos: 1101
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 czerwca 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11110011 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 16 maja 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,14 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1101/text.pdf) |
 
-11110011 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 16 maja 2023 r.
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie kierowania ruchem drogowym
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 6 lipca 2010 r. w sprawie kierowania ruchem drogowym (Dz. U. z 2016 r. poz. 143), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 13 czerwca 2018 r. zmieniającym rozporządzenie w sprawie kierowania ruchem drogowym (Dz. U.
 poz. 1190).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 czerwca 2018 r. zmieniającego rozporządzenie w sprawie kierowania ruchem drogowym (Dz. U. poz. 1190), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”.
 Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 6 lipca 2010 r.
-w sprawie kierowania ruchem drogowym Na podstawie art. 6 ust. 4 pkt 1 i 2 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r.
-poz. 1047, 919, 1053 i 1088) zarządza się, co następuje: § 1. Rozporządzenie określa:
+w sprawie kierowania ruchem drogowym Na podstawie art. 6 ust. 4 pkt 1 i 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r.
+poz. 1047, 919, 1053 i 1088) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
 1) organizację oraz sposób dawania poleceń i sygnałów uczestnikowi ruchu lub innej osobie znajdującej się na drodze;
 2) program i tryb prowadzenia szkolenia w zakresie dawania poleceń i sygnałów osobom, o których mowa w pkt 1;
 3) wzór zaświadczenia o ukończeniu szkolenia;
@@ -82,7 +82,8 @@ płaszczyzna tarczy powinna być skierowana w stronę jadących pojazdów;
 2. Zwrot opłaty, o której mowa w § 8 ust. 1, dokonywany jest przez wpłatę na konto wskazane przez podmiot uprawniony do uzyskania zwrotu tej opłaty albo poprzez wypłatę w kasie wojewódzkiego ośrodka ruchu drogowego. Zwrot opłaty powinien zostać dokonany niezwłocznie.
 § 12. Zaświadczenia o ukończeniu szkolenia wydane na podstawie dotychczasowych przepisów zachowują ważność na okres, na który zostały wydane.
 § 13. Rozporządzenie wchodzi w życie z dniem 10 lipca 2010 r.
-SPOSÓB DAWANIA POLECEŃ I SYGNAŁÓW DO KIEROWANIA RUCHEM NA SKRZYŻOWANIU § 1. 1. Przed podjęciem czynności kierowania ruchem drogowym policjant jest obowiązany powiadomić dyżurnego stanowiska kierowania właściwej terytorialnie jednostki Policji o przystąpieniu do wykonania tych czynności. Natomiast przed podjęciem czynności kierowania ruchem drogowym przez żołnierza Żandarmerii Wojskowej lub żołnierza wojskowego organu porządkowego obowiązany jest on osobiście lub przez przełożonego albo innego uprawnionego żołnierza powiadomić najbliższą właściwą terytorialnie jednostkę Policji.
+SPOSÓB DAWANIA POLECEŃ I SYGNAŁÓW DO KIEROWANIA RUCHEM NA SKRZYŻOWANIU
+§ 1. 1. Przed podjęciem czynności kierowania ruchem drogowym policjant jest obowiązany powiadomić dyżurnego stanowiska kierowania właściwej terytorialnie jednostki Policji o przystąpieniu do wykonania tych czynności. Natomiast przed podjęciem czynności kierowania ruchem drogowym przez żołnierza Żandarmerii Wojskowej lub żołnierza wojskowego organu porządkowego obowiązany jest on osobiście lub przez przełożonego albo innego uprawnionego żołnierza powiadomić najbliższą właściwą terytorialnie jednostkę Policji.
 2. Podejmując kierowanie ruchem, policjant lub żołnierz, o którym mowa w ust. 1, zwany dalej „kierującym ruchem”, powinien zająć miejsce na skrzyżowaniu zapewniające jego dobrą widoczność i bezpieczeństwo oraz sprawne i skuteczne wykonywanie czynności związanych z kierowaniem ruchem.
 3. Jeżeli przez skrzyżowanie przebiegają tory tramwajowe, miejsce kierowania powinno być w miarę możliwości usytuowane poza nimi, z uwzględnieniem warunków określonych w ust. 2.
 § 2. 1. Jeżeli kierowanie ruchem podejmuje jednocześnie kilku policjantów lub żołnierzy, to jeden z nich, zwany dalej „wiodącym”, powinien zająć takie miejsce, z którego będzie miał warunki do obserwacji ruchu w całym rejonie kierowania, a jednocześnie sam będzie widoczny dla pozostałych uczestników ruchu.
@@ -99,7 +100,7 @@ b) lewą ręką od wyprostowanego ramienia w kierunku nadjeżdżających pojazd�
 3) wyciąga poziomo obie ręce w bok na wysokość barków (rys. 5);
 4) prawą ręką zgiętą w łokciu wykonuje ruch łukiem przed sobą (dłoń na wysokości twarzy) do lewego barku; jednocześnie lewą rękę zgina w łokciu i kieruje w górę za siebie na wysokość lewego ucha, po czym obie ręce opuszcza w dół wzdłuż tułowia (rys. 6).
 Czynności opisane w pkt 3 i 4 wykonuje się tylko raz.
-4. Otwarcia wjazdów lub wejść na skrzyżowanie można dokonać również w cyklu niesymetrycznym, jeżeli wynika to
+4. Otwarcia wjazdów lub wejść na skrzyżowanie można dokonać również w cyklu niesymetrycznym, jeżeli wynika to z sytuacji ruchowej, a w szczególności gdy piesi nie zdążyli opuścić jezdni.
 5. W celu przyspieszenia przejazdu pojazdów należy wykonać gesty określone w ust. 2 pkt 2.
 6. Kierujący ruchem w celu zwrócenia uwagi kierujących i pieszych na dawane sygnały może używać gwizdka.
 § 4. 1. Częstotliwość zmian kierunku ruchu powinna być dostosowana do natężenia ruchu na drodze oraz rodzaju i liczby nadjeżdżających pojazdów, tak aby nie dopuścić do blokowania skrzyżowania.
@@ -118,7 +119,7 @@ Czynności opisane w pkt 3 i 4 wykonuje się tylko raz.
 3. Po skręceniu pojazdów w lewo powinno się zmienić kierunek ruchu na poprzeczny.
 § 9. 1. W celu przepuszczenia pojazdów jadących z prawej strony i skręcających w lewo, bez objeżdżania kierującego ruchem, kierujący ruchem wykonuje następujące czynności:
 1) zatrzymuje pojazdy nadjeżdżające z lewej strony przez podniesienie pionowo w bok lewej ręki, zgiętej w łokciu pod kątem zbliżonym do prostego, tak aby wewnętrzna strona dłoni (palce złączone) była zwrócona do nadjeżdżających pojazdów (rys. 12);
-2) prawą ręką wskazuje pierwszy pojazd skręcający w lewo z prawej strony i przenosząc ją górą za siebie na wysokości prawej części karku zezwala na skręcenie w lewo za sobą (rys. 13a i 13b).
+2) prawą ręką wskazuje pierwszy pojazd skręcający w lewo z prawej strony i przenosząc ją górą za siebie na wysokości prawej części karku – zezwala na skręcenie w lewo za sobą (rys. 13a i 13b).
 2. Ruchy wykonywane prawą ręką powinny być powtarzane, aby każdy skręcający w lewo widział je i przyspieszał jazdę, w miarę jak stają się one szybkie i energiczne.
 § 10. Przepisy § 8 i 9 stosuje się odpowiednio przy dawaniu sygnałów innym kierującym w rozumieniu przepisów ustawy.
 § 11. 1. Jeżeli do skrzyżowania zbliżają się pojazdy z dwóch przeciwnych kierunków i zamierzają skręcić w lewo, kierujący ruchem powinien ocenić, z którego kierunku nadjeżdżające pojazdy będą potrzebowały więcej czasu na opuszczenie skrzyżowania, i tym pojazdom umożliwić przejazd w pierwszej kolejności. Pojazdy nadjeżdżające z drugiego kierunku mogą w tym czasie samodzielnie opuścić skrzyżowanie bądź opuścić je w momencie, gdy kierujący ruchem stoi z podniesioną ręką do góry (co oznacza mającą nastąpić zmianę dotychczas dawanych sygnałów).
@@ -135,26 +136,26 @@ Rys. 1a Rys. 1b Rys. 2a Rys. 2b Rys. 2c Rys. 3a Rys. 3b Rys. 3c Rys. 4a Rys. 4b 
 3. Warunki techniczne dotyczące materiałów Znak powinien być pokryty lub wykonany z materiałów odblaskowych fluorescencyjnych barwy żółtej, według parametrów określonych w tabeli nr 3, charakteryzujących się bardzo dobrą widzialnością w różnych porach dnia, trudnych warunkach atmosferycznych oraz w nocy w szczególności powinny być intensywnie widoczne w światłach reflektorów samochodowych. Barwa materiału zarówno w dzień, jak i oświetlonego w nocy powinna być taka sama.
 Minimalny współczynnik odblaskowości znaku nie może być niższy niż określony w tabeli nr 1. Dla folii zadrukowanej dopuszcza się spełnienie wymagań zawartych w tabeli nr 1 obniżonych do 30% podanych wartości.
 4. Warunki wykonania Znak należy wykonać na wzór znaku B-20 „STOP” (ośmiokąt wpisany w koło o średnicy 350 mm), umieszczony w polu o kształcie kwadratu o boku 500 mm (±10 mm), wielkość i grubość liter dużych w grupie IV dla znaków małych określonych w przepisach w sprawie szczegółowych warunków technicznych dla znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego i warunków ich umieszczania. Zarówno znak „STOP”, jak i kwadratowe pole, na którym ma być umieszczony, powinny być wykonane lub pokryte materiałem odblaskowym z minimalnym współczynnikiem odblaskowości określonym w tabeli nr 1.
-Barwa tła znaku „STOP” czerwona (tabela nr 2). Barwa napisu i obwódki znaku „STOP” oraz kwadratowego pola żółta fluorescencyjna (tabela nr 3). Treść znaku powinna być naniesiona metodą sitodruku na podkład odblaskowy.
+Barwa tła znaku „STOP” – czerwona (tabela nr 2). Barwa napisu i obwódki znaku „STOP” oraz kwadratowego pola – żółta fluorescencyjna (tabela nr 3). Treść znaku powinna być naniesiona metodą sitodruku na podkład odblaskowy.
 Znak powinien być wykonany jako obustronny, o identycznych parametrach dla każdej strony.
 Tarcza znaku nie może mieć ostrych krawędzi i powinna cechować się niezbędną sztywnością eksploatacyjną.
 Tarcza znaku powinna być umieszczona na słupku o średnicy nie większej niż 30 mm, o długości 1500 mm, licząc od dolnej krawędzi tarczy znaku. Dopuszcza się wykonanie słupka z drewna, tworzywa sztucznego lub lekkiego stopu metalu.
 Barwa słupka powinna być czerwona, szara lub biała.
 Znak powinien być zgodny z Polską Normą PN EN 471 w zakresie odblaskowości i barwy materiałów. W przypadku powołań niedatowych tej normy stosuje się ostatnie wydanie powołanej publikacji normy.
-II. Warunki, jakie powinny spełniać materiały do wykonania tarczy znaku Tabela nr 1. Minimalne wartości powierzchniowego współczynnika odblasku w cd x lx x m dla materiału odblaskowego klasy drugiej Kąt oświetlenia β1 (β2=0) Kąt obserwacji 5° 20° 30° 40° 12' 330 290 180 65 20' 250 200 170 60 1° 25 15 12 10 1°30' 10 7 5 4 Tabela nr 2. Barwa materiału podłożowego Współrzędne chromatyczności Minimalny współczynnik Barwa punktów narożnych luminancji x y β min 1 2 3 4 0,610 0,390 fluorescencyjna 0,535 0,375 pomarańczowoczerwona 0,40 0,570 0,340 0,655 0,345 0,655 0,345 fluorescencyjna 0,570 0,340 czerwona 0,25 0,595 0,315 0,690 0,310 Tabela nr 3. Barwa materiałów o własnościach kombinowanych Współrzędne chromatyczności Minimalny współczynnik Barwa punktów narożnych luminancji x y β min fluorescencyjna żółta 0,387 0,610 0,356 0,494 0,70 0,398 0,452 0,460 0,540 WZÓR WZÓR TARCZY TARCZY ZNAKU ZNAKU PROGRAM SZKOLENIA W ZAKRESIE KIEROWANIA RUCHEM DROGOWYM Zagadnienia Liczba godzin 1 2 I. Zakres kompetencji osób uprawnionych do kierowania ruchem drogowym 1 W zależności od podmiotów uczestniczących w szkoleniu wskazanie uprawnień:
+II. Warunki, jakie powinny spełniać materiały do wykonania tarczy znaku Tabela nr 1. Minimalne wartości powierzchniowego współczynnika odblasku w cd x lx x m dla materiału odblaskowego klasy drugiej Kąt oświetlenia β1 (β2=0) Kąt obserwacji 5° 20° 30° 40° 12' 330 290 180 65 20' 250 200 170 60 1° 25 15 12 10 1°30' 10 7 5 4 Tabela nr 2. Barwa materiału podłożowego Współrzędne chromatyczności Minimalny współczynnik Barwa punktów narożnych luminancji x y β min 1 2 3 4 0,610 0,390 fluorescencyjna 0,535 0,375 0,40 pomarańczowoczerwona 0,570 0,340 0,655 0,345 0,655 0,345 fluorescencyjna 0,570 0,340 0,25 czerwona 0,595 0,315 0,690 0,310 Tabela nr 3. Barwa materiałów o własnościach kombinowanych Współrzędne chromatyczności Minimalny współczynnik Barwa punktów narożnych luminancji x y β min 0,387 0,610 0,356 0,494 fluorescencyjna żółta 0,70 0,398 0,452 0,460 0,540 WZÓR WZÓR TARCZY TARCZY ZNAKU ZNAKU PROGRAM SZKOLENIA W ZAKRESIE KIEROWANIA RUCHEM DROGOWYM Zagadnienia Liczba godzin 1 2 I. Zakres kompetencji osób uprawnionych do kierowania ruchem drogowym 1 W zależności od podmiotów uczestniczących w szkoleniu wskazanie uprawnień:
 1) pracownikom kolejowym na przejazdach kolejowych;
 2) osobom działającym w imieniu zarządcy drogi oraz osobom wykonującym roboty na drodze na zlecenie lub za zgodą zarządcy drogi;
 3) osobom nadzorującym bezpieczne przejście dzieci przez jezdnię w wyznaczonym miejscu;
 4) kierującym autobusem szkolnym w miejscach postoju związanych z wsiadaniem lub wysiadaniem dzieci;
 5) ratownikom górskim podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;
-6) strażnikom leśnym lub funkcjonariuszom Straży Parku na terenie odpowiednio lasu lub parku narodowego;
-7) pilotom podczas wykonywania czynności związanych z przejazdem pojazdów nienormatywnych;
-8) osobom odpowiedzialnym za utrzymanie porządku podczas przemarszu procesji, pielgrzymki, konduktu pogrzebowego lub innej zorganizowanej grupy jeżeli jest to niezbędne do zapewnienia ich bezpiecznego przemarszu;
-9) osobom odpowiedzialnym za utrzymanie porządku podczas przejazdu pielgrzymki rowerami jeżeli jest to niezbędne do zapewnienia ich bezpiecznego przejazdu;
+6) strażnikom leśnym lub funkcjonariuszom Straży Parku – na terenie odpowiednio lasu lub parku narodowego;
+7) pilotom – podczas wykonywania czynności związanych z przejazdem pojazdów nienormatywnych;
+8) osobom odpowiedzialnym za utrzymanie porządku podczas przemarszu procesji, pielgrzymki, konduktu pogrzebowego lub innej zorganizowanej grupy – jeżeli jest to niezbędne do zapewnienia ich bezpiecznego przemarszu;
+9) osobom odpowiedzialnym za utrzymanie porządku podczas przejazdu pielgrzymki rowerami – jeżeli jest to niezbędne do zapewnienia ich bezpiecznego przejazdu;
 10) strażakom jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt la–5 i 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r.
 poz. 2057 oraz z 2023 r. poz. 1088), podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;
-11) pracownikom nadzoru ruchu komunikacji miejskiej podczas wykonywania czynności związanych z zapewnieniem płynności ruchu komunikacji miejskiej, zdarzeń drogowych oraz awarii technicznych z udziałem tych pojazdów;
-12) członkom zespołu ratownictwa medycznego podczas akcji prowadzenia medycznych czynności ratunkowych do czasu przybycia na miejsce zdarzenia innych osób uprawnionych do dawania poleceń i sygnałów uczestnikowi ruchu lub innej osobie znajdującej się na drodze II. Podstawowe zasady bezpieczeństwa ruchu drogowego i zagrożenia, jakie mogą po- 2 wstać ze względu na charakter pracy na drodze. Rodzaj i znaczenie prac wykonywanych na drodze oraz utrudnienia w ruchu, które się z nimi wiążą Omówienie możliwości wystąpienia:
+11) pracownikom nadzoru ruchu komunikacji miejskiej – podczas wykonywania czynności związanych z zapewnieniem płynności ruchu komunikacji miejskiej, zdarzeń drogowych oraz awarii technicznych z udziałem tych pojazdów;
+12) członkom zespołu ratownictwa medycznego – podczas akcji prowadzenia medycznych czynności ratunkowych do czasu przybycia na miejsce zdarzenia innych osób uprawnionych do dawania poleceń i sygnałów uczestnikowi ruchu lub innej osobie znajdującej się na drodze II. Podstawowe zasady bezpieczeństwa ruchu drogowego i zagrożenia, jakie mogą po- 2 wstać ze względu na charakter pracy na drodze. Rodzaj i znaczenie prac wykonywanych na drodze oraz utrudnienia w ruchu, które się z nimi wiążą Omówienie możliwości wystąpienia:
 1) różnych reakcji kierujących pojazdami;
 2) konieczności prowadzenia ruchu wahadłowego;
 3) różnych warunków atmosferycznych, w szczególności niedostatecznej widoczności;

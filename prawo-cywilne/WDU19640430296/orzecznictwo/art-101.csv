@@ -27,6 +27,8 @@ saos_id|date|court|case_number|type|score|saos_url
 87182|2008-01-29|SN|II CNP 214/07|Postanowienie|69|https://www.saos.org.pl/judgments/87182
 165037|2007-12-19|SN|V CZ 109/07|Postanowienie|69|https://www.saos.org.pl/judgments/165037
 84438|2006-07-04|SN|V CNP 86/06|Postanowienie|69|https://www.saos.org.pl/judgments/84438
+545510|2025-11-19|SO|III AUa 497/25|Wyrok|56|https://www.saos.org.pl/judgments/545510
+545507|2025-11-06|SO|III AUa 1321/25|Wyrok|56|https://www.saos.org.pl/judgments/545507
 543460|2025-11-04|SO|III AUa 1412/25|Wyrok|56|https://www.saos.org.pl/judgments/543460
 538679|2025-11-04|SO|I ACa 643/24|Wyrok|56|https://www.saos.org.pl/judgments/538679
 544594|2025-02-12|SO|III AUa 1012/24|Wyrok|56|https://www.saos.org.pl/judgments/544594
@@ -71,6 +73,7 @@ saos_id|date|court|case_number|type|score|saos_url
 437542|2021-03-02|SO|I AGa 1/20|Wyrok|56|https://www.saos.org.pl/judgments/437542
 457890|2021-02-15|SO|VII AGa 2014/18|Wyrok|56|https://www.saos.org.pl/judgments/457890
 427964|2020-10-20|SO|V ACa 165/20|Wyrok|56|https://www.saos.org.pl/judgments/427964
+545300|2020-09-17|SO|I ACa 1048/19|Wyrok|56|https://www.saos.org.pl/judgments/545300
 424408|2020-08-21|SO|VI ACa 281/19|Wyrok|56|https://www.saos.org.pl/judgments/424408
 428593|2020-08-20|SO|I ACa 571/19|Wyrok|56|https://www.saos.org.pl/judgments/428593
 425782|2020-07-15|SO|I AGa 196/19|Wyrok|56|https://www.saos.org.pl/judgments/425782
@@ -348,6 +351,7 @@ saos_id|date|court|case_number|type|score|saos_url
 479383|2022-11-14|SO|I C 106/22|Wyrok|40|https://www.saos.org.pl/judgments/479383
 474574|2022-06-09|SO|I C 1415/21|Wyrok|40|https://www.saos.org.pl/judgments/474574
 446663|2021-06-30|SO|II Ca 257/21|Wyrok|40|https://www.saos.org.pl/judgments/446663
+545170|2021-06-18|SO|I C 29/21|Wyrok|40|https://www.saos.org.pl/judgments/545170
 496746|2021-06-02|SO|I C 2121/15|Wyrok|40|https://www.saos.org.pl/judgments/496746
 438997|2021-02-08|SO|II1 C 83/19|Wyrok|40|https://www.saos.org.pl/judgments/438997
 430218|2020-12-29|SO|II Ca 733/20|Wyrok|40|https://www.saos.org.pl/judgments/430218

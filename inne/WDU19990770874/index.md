@@ -8,12 +8,10 @@ pos: 874
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o utracie mocy obowiązującej art. 228 § 3 ustawy - Prawo spółdzielcze.
-
-*OBWIESZCZENIE PREZESA TRYBUNAŁU KONSTYTUCYJNEGO z dnia 20 września 1999 r.*
 
 | Pole | Wartość |
 |---|---|

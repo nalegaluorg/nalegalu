@@ -8,7 +8,7 @@ pos: 204
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 15/2/A/2010 WYROK z dnia 24 lutego 2010 r.

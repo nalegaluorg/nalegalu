@@ -8,7 +8,7 @@ pos: 715
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o kredycie konsumenckim
@@ -119,6 +119,11 @@ Art. 60–65. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i tryb zawierania umów o kredyt konsumencki;
+- **2)** obowiązki kredytodawcy i pośrednika kredytowego w zakresie informacji udzielanych przed zawarciem umowy o kredyt konsumencki oraz obowiązki konsumenta, kredytodawcy i pośrednika kredytowego w związku z zawartą umową o kredyt konsumencki;
+- **3)** (uchylony)
+- **4)** skutki uchybienia obowiązkom kredytodawcy.
+
 **Art. 2.**
 
 1. Ustawę stosuje się także do umów o kredyt konsumencki, który spółdzielcza kasa oszczędnościowo-kredytowa w zakresie swojej działalności udziela lub daje przyrzeczenie udzielenia swojemu członkowi.
@@ -169,6 +174,39 @@ Art. 60–65. (pominięte)
 4. Ustawę stosuje się do umów leasingu i najmu, jeżeli umowa odrębna od tych umów przewiduje obowiązek nabycia przedmiotu umowy, uzależniając go od żądania kredytodawcy.
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
+
+- **1)** konsument – konsument w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
+- **2)** kredytodawca – przedsiębiorca w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, który w zakresie swojej działalności gospodarczej lub zawodowej, udziela lub daje przyrzeczenie udzielenia konsumentowi kredytu;
+- **2a)** instytucja pożyczkowa – kredytodawca inny niż: zm. ), o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069) w zakresie, w jakim udziela kredytu płatniczego, o którym mowa w art. 74 ust. 3 tej ustawy;
+    - **a)** bank krajowy, bank zagraniczny, oddział banku zagranicznego, instytucja kredytowa lub oddział instytucji kredytowej w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn.
+    - **b)** spółdzielcza kasa oszczędnościowo-kredytowa oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa,
+    - **c)** podmiot, którego działalność polega na udzielaniu kredytów konsumenckich w postaci odroczenia zapłaty ceny lub wynagrodzenia na zakup oferowanych przez niego towarów i usług,
+    - **d)** krajowa instytucja płatnicza, mała instytucja płatnicza, krajowa instytucja pieniądza elektronicznego, unijna instytucja płatnicza lub unijna instytucja pieniądza elektronicznego, w rozumieniu ustawy z dnia 19 sierpnia 2011 r.
+
+- **3)** pośrednik kredytowy – przedsiębiorca w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, inny niż kredytodawca, który w zakresie swojej działalności gospodarczej lub zawodowej uzyskuje korzyści majątkowe, w szczególności wynagrodzenie od konsumenta, dokonując czynności faktycznych lub prawnych związanych z przygotowaniem, oferowaniem lub zawieraniem umowy o kredyt;
+- **3a)** podmiot powiązany – podmiot powiązany w rozumieniu przepisów rozporządzenia Komisji (WE) nr 1126/2008 z dnia 3 listopada 2008 r. przyjmującego określone międzynarodowe standardy rachunkowości zgodnie z rozporządzeniem (WE) nr 1606/2002 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 320 z 29.11.2008, str. 1, z późn. zm. );
+- **4)** kredyt w rachunku oszczędnościowo-rozliczeniowym – umowa o kredyt, który kredytodawca udostępnia konsumentowi umożliwiając dysponowanie środkami pieniężnymi w wysokości przekraczającej środki pieniężne zgromadzone na rachunku oszczędnościowo-rozliczeniowym konsumenta;
+- **5)** przekroczenie – każde, inne niż kredyt w rachunku oszczędnościowo-rozliczeniowym, akceptowane przez kredytodawcę przekroczenie kwoty środków pieniężnych zgromadzonych na rachunku oszczędnościowo-rozliczeniowym lub kwoty udzielonego kredytu w rachunku oszczędnościowo-rozliczeniowym;
+- **6)** całkowity koszt kredytu – wszelkie koszty, które konsument jest zobowiązany ponieść w związku z umową o kredyt, w szczególności:
+    - **a)** odsetki, opłaty, prowizje, podatki i marże jeżeli są znane kredytodawcy oraz
+    - **b)** koszty usług dodatkowych, w szczególności ubezpieczeń, w przypadku gdy ich poniesienie jest niezbędne do uzyskania kredytu lub do uzyskania go na oferowanych warunkach – z wyjątkiem kosztów opłat notarialnych ponoszonych przez konsumenta;
+
+- **6a)** pozaodsetkowe koszty kredytu – wszystkie koszty, które konsument ponosi w związku z umową o kredyt konsumencki, z wyłączeniem odsetek;
+- **7)** całkowita kwota kredytu – maksymalna kwota wszystkich środków pieniężnych nieobejmujących kredytowanych kosztów kredytu, które kredytodawca udostępnia konsumentowi na podstawie umowy o kredyt, a w przypadku umów, dla których nie przewidziano tej maksymalnej kwoty, suma wszystkich środków pieniężnych nieobejmujących kredytowanych kosztów kredytu, które kredytodawca udostępnia konsumentowi na podstawie umowy o kredyt;
+- **8)** całkowita kwota do zapłaty przez konsumenta – suma całkowitego kosztu kredytu i całkowitej kwoty kredytu;
+- **9)** stopa referencyjna – stopa oprocentowania służąca za podstawę ustalenia oprocentowania kredytu odnosząca się do minimalnego oprocentowania podstawowych operacji otwartego rynku prowadzonych przez Narodowy Bank Polski, ustalana przez Radę Polityki Pieniężnej, ogłaszana w Dzienniku Urzędowym Narodowego Banku Polskiego;
+- **10)** stopa oprocentowania kredytu – stopa oprocentowania wyrażona jako stałe lub zmienne oprocentowanie stosowane do wypłaconej kwoty na podstawie umowy o kredyt w stosunku rocznym;
+- **11)** stała stopa oprocentowania kredytu – stopa oprocentowania określona wyłącznie w umowie o kredyt, przy wykorzystaniu określonej stałej wartości procentowej wyrażonej na cały czas obowiązywania umowy lub w danych okresach obowiązywania umowy;
+- **12)** rzeczywista roczna stopa oprocentowania – całkowity koszt kredytu ponoszony przez konsumenta, wyrażony jako wartość procentowa całkowitej kwoty kredytu w stosunku rocznym;
+- **13)** umowa o kredyt konsumencki zawierana na odległość – umowa o kredyt konsumencki zawierana z konsumentem bez jednoczesnej obecności obu stron, przy wykorzystaniu środków porozumiewania się na odległość, o której mowa w ustawie z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny (Dz. U. z 2012 r. poz. 1225) ;
+- **14)** umowa o kredyt wiązany – umowa o kredyt, z którego jest wyłącznie finansowane nabycie towaru lub usługi na podstawie innej umowy, a obie te umowy są ze sobą powiązane, zgodnie z którymi:
+    - **a)** sprzedawca lub usługodawca udziela kredytu konsumentowi na nabycie towaru lub usługi od tego sprzedawcy lub usługodawcy, albo
+    - **b)** nabycie towaru lub usługi jest finansowane przez kredytodawcę, który współpracuje ze sprzedawcą lub usługodawcą w związku z przygotowaniem lub zawarciem umowy o kredyt, albo
+    - **c)** nabycie towaru lub usługi jest finansowane przez kredytodawcę, a towar lub usługa są szczegółowo określone w umowie o kredyt;
+
+- **15)** bazy danych – zbiory danych prowadzone dla celów oceny zdolności kredytowej przez instytucje, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz biura informacji gospodarczej, o których mowa w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2025 r. poz. 85);
+- **16)** ocena zdolności kredytowej – ocena zdolności konsumenta do spłaty zaciągniętego kredytu wraz z odsetkami, w terminach określonych w umowie o kredyt konsumencki, dokonywana przez kredytodawcę;
+- **17)** trwały nośnik – materiał lub urządzenie służące do przechowywania i odczytywania informacji przekazywanych konsumentowi w związku z umową o kredyt, przez czas odpowiedni do celów jakim informacje te służą oraz pozwalające na odtworzenie tych informacji w niezmienionej postaci.
 
 **Art. 6.** Wartość kwoty kredytu konsumenckiego udzielanego w walucie innej niż waluta polska, stanowi równowartość kwoty kredytu wyrażonej w walucie polskiej ustaloną przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski z ostatniego dnia kwartału poprzedzającego dzień zawarcia umowy.
 
@@ -518,7 +556,17 @@ Art. 60–65. (pominięte)
 
 **Art. 32.** Umowa o kredyt konsumencki w rachunku oszczędnościowo-rozliczeniowym podlegający spłacie na żądanie lub w terminie do trzech miesięcy powinna zawierać co najmniej:
 
+- **1)** dane określone w art. 30 ust. 1 pkt 1–3, 5, 6 i 15;
+- **2)** limit kredytu;
+- **3)** całkowity koszt kredytu;
+- **4)** informację o możliwości żądania w dowolnym momencie spłaty pełnej kwoty kredytu przez konsumenta;
+- **5)** informację o opłatach stosowanych od chwili zawarcia umowy oraz warunkach ich zmiany.
+
 **Art. 33.** Umowa o kredyt konsumencki przewidująca odroczenie płatności lub zmianę sposobu spłaty w przypadku gdy konsument jest w zwłoce w związku ze spłatą zadłużenia wynikającego z umowy o kredyt, powinna zawierać co najmniej:
+
+- **1)** dane określone w art. 30 ust. 1 pkt 1–8, 11, 16 i 17;
+- **2)** opis towaru lub usługi;
+- **3)** cenę nabycia towaru lub usługi.
 
 **Art. 33a.** W przypadku gdy łączna wysokość opłat z tytułu zaległości w spłacie kredytu, o których mowa w art. 30 ust. 1 pkt 11, oraz odsetek za opóźnienie naliczonych konsumentowi przekracza kwotę odpowiadającą kwocie odsetek maksymalnych za opóźnienie, o których mowa w art. 481 § 2 Kodeksu cywilnego, obliczonych od kwoty zaległości w spłacie kredytu, należnych na dzień pobrania tych opłat lub odsetek, należy się tylko kwota opłat i odsetek odpowiadająca kwocie tych odsetek maksymalnych za opóźnienie.
 
@@ -560,9 +608,18 @@ Art. 60–65. (pominięte)
 
 **Art. 36b.** W przypadku odroczenia spłaty zadłużenia wynikającego z umowy o kredyt konsumencki w okresie 120 dni od dnia wypłaty tego kredytu:
 
+- **1)** całkowitą kwotę kredytu dla celów ustalenia maksymalnej wysokości pozaodsetkowych kosztów kredytu, o której mowa w art. 36a, stanowi kwota udzielonego i wypłaconego kredytu, którego spłata została następnie odroczona;
+- **2)** do pozaodsetkowych kosztów kredytu dolicza się wszystkie koszty i opłaty, które kredytobiorca jest obowiązany ponieść w związku z odroczeniem spłaty kredytu, naliczone w okresie 120 dni od dnia wypłaty kredytu.
+
 **Art. 36c.** W przypadku udzielenia przez kredytodawcę lub podmiot z nim powiązany konsumentowi, który nie dokonał pełnej spłaty kredytu, kolejnych kredytów w okresie 120 dni od dnia wypłaty pierwszego z kredytów:
 
+- **1)** całkowitą kwotę kredytu, dla celów ustalenia maksymalnej wysokości pozaodsetkowych kosztów kredytu, o której mowa w art. 36a, stanowi kwota pierwszego z kredytów;
+- **2)** pozaodsetkowe koszty kredytu obejmują sumę pozaodsetkowych kosztów wszystkich kredytów udzielonych w tym okresie.
+
 **Art. 36d.** Przepisów art. 36a–36c nie stosuje się do:
+
+- **1)** kredytu w rachunku oszczędnościowo-rozliczeniowym konsumenta, prowadzonym przez kredytodawcę, o którym mowa w art. 5 pkt 2a lit. a i b;
+- **2)** umowy o kartę kredytową, o której mowa w art. 2 pkt 34 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2015/751 z dnia 29 kwietnia 2015 r. w sprawie opłat interchange w odniesieniu do transakcji płatniczych realizowanych w oparciu o kartę (Dz. Urz. UE L 123 z 19.05.2015, str. 1), o ile kredytodawca jest jednocześnie wydawcą karty kredytowej.
 
 **Art. 37.**
 
@@ -673,6 +730,9 @@ Art. 60–65. (pominięte)
 4. Prowizja, o której mowa w ust. 1–3, nie może być wyższa niż wysokość odsetek, które konsument byłby zobowiązany zapłacić w okresie między spłatą kredytu przed terminem, a uzgodnionym terminem zakończenia umowy, a także nie może być wyższa niż bezpośrednie koszty kredytodawcy związane z tą spłatą.
 
 **Art. 51.** Prowizja za spłatę kredytu przed terminem nie przysługuje kredytodawcy w przypadku umów:
+
+- **1)** kredytu w rachunku oszczędnościowo-rozliczeniowym;
+- **2)** w których spłata została dokonana zgodnie z umową ubezpieczenia zawartą w celu zabezpieczenia spłaty kredytu.
 
 **Art. 52.** Kredytodawca jest zobowiązany do rozliczenia z konsumentem kredytu w terminie 14 dni od dnia dokonania wcześniejszej spłaty kredytu w całości.
 

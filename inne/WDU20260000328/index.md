@@ -8,7 +8,7 @@ pos: 328
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce

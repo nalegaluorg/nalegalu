@@ -8,10 +8,10 @@ pos: 987
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 czerwca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 987 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 1 czerwca 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000987) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/987/text.pdf) |
 
-Poz. 987 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 1 czerwca 2020 r.
 zmieniające rozporządzenie w sprawie szczegółowych warunków pobierania próbek artykułów rolno-spożywczych Na podstawie art. 34 pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
-z 2019 r. poz. 2178 oraz z 2020 r. poz. 285) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 7 marca 2003 r. w sprawie szczegółowych warunków pobierania próbek artykułów rolno-spożywczych (Dz. U. poz. 526, z 2004 r. poz. 580, z 2005 r. poz. 603 oraz z 2008 r. poz. 499) wprowadza się następujące zmiany:
+z 2019 r. poz. 2178 oraz z 2020 r. poz. 285) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 7 marca 2003 r. w sprawie szczegółowych warunków pobierania próbek artykułów rolno-spożywczych (Dz. U. poz. 526, z 2004 r. poz. 580, z 2005 r. poz. 603 oraz z 2008 r. poz. 499) wprowadza się następujące zmiany:
 1) w § 4 dodaje się ust. 3 w brzmieniu: „3. Przepisów ust. 1 i 2 nie stosuje się do próbek, których pobranie było niemożliwe zgodnie z dokumentami normalizacyjnymi, z uwagi na niewielką ilość artykułu rolno-spożywczego.”;
 2) w § 6 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Opakowanie średnich próbek laboratoryjnych i próbek, o których mowa w § 4 ust. 3, powinno:”;
 3) w § 7 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Opakowanie średnich próbek laboratoryjnych i próbek, o których mowa w § 4 ust. 3, zaopatruje się w informacje zawierające w szczególności:”;

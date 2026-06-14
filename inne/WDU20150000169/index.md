@@ -8,7 +8,7 @@ pos: 169
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
@@ -226,7 +226,21 @@ source: "isap-pdf"
 
 **Art. 23.** Działalność charytatywno-opiekuńcza Kościoła obejmuje w szczególności:
 
+- **1)** prowadzenie zakładów dla sierot, starców, osób upośledzonych fizycznie lub umysłowo oraz innych kategorii osób potrzebujących opieki;
+- **2)** wykonywanie działalności leczniczej w rozumieniu przepisów o działalności leczniczej oraz prowadzenie aptek;
+- **3)** organizowanie pomocy sierotom, ofiarom wojennym, osobom dotkniętym klęskami żywiołowymi i epidemiami i znajdującym się w trudnym położeniu materialnym lub zdrowotnym oraz pozbawionym wolności;
+- **4)** prowadzenie żłobków, ochronek, burs i schronisk;
+- **5)** udzielanie pomocy w zapewnieniu wypoczynku dzieciom i młodzieży znajdującym się w potrzebie;
+- **6)** krzewienie idei pomocy bliźnim i postaw społecznych temu sprzyjających;
+- **7)** przekazywanie za granicę pomocy ofiarom klęsk żywiołowych i osobom znajdującym się w szczególnej potrzebie.
+
 **Art. 24.** Środki na realizację działalności charytatywno-opiekuńczej mogą pochodzić w szczególności z:
+
+- **1)** ofiar pieniężnych i w naturze oraz subwencji i dotacji;
+- **2)** spadków, zapisów i darowizn krajowych i zagranicznych;
+- **3)** dochodów z imprez i zbiórek publicznych;
+- **4)** odpłatności za usługi świadczone przez kościelne instytucje charytatywno-opiekuńcze;
+- **5)** innych dochodów Kościoła i jego osób prawnych, w tym z ich działalności gospodarczej.
 
 **Art. 25.**
 

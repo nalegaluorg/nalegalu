@@ -8,10 +8,10 @@ pos: 1046
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 lipca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1046 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 8 lipca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-07-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001046) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1046/text.pdf) |
 
-Poz. 1046 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 8 lipca 2024 r.
-w sprawie wysokości kaucji dla poszczególnych rodzajów opakowań objętych systemem kaucyjnym Na podstawie art. 40m ust. 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927) zarządza się, co następuje: § 1. Wysokość kaucji za jedną sztukę opakowania wynosi dla:
+w sprawie wysokości kaucji dla poszczególnych rodzajów opakowań objętych systemem kaucyjnym Na podstawie art. 40m ust. 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927) zarządza się, co następuje:
+§ 1. Wysokość kaucji za jedną sztukę opakowania wynosi dla:
 1) butelek jednorazowego użytku z tworzyw sztucznych na napoje o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, z wyłączeniem szklanych lub metalowych butelek na napoje, których zakrętki i wieczka są wykonane z tworzyw sztucznych – 0,50 zł;
 2) puszek metalowych o pojemności do jednego litra – 0,50 zł;
 3) butelek szklanych wielokrotnego użytku o pojemności do półtora litra – 1,00 zł.

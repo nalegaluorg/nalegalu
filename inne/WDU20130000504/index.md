@@ -8,10 +8,10 @@ pos: 504
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 kwietnia 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 504 RozpoRządzenie MinistRa Rolnictwa i Rozwoju wsi z dnia 18 kwietnia 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/504/text.pdf) |
 
-Poz. 504 RozpoRządzenie MinistRa Rolnictwa i Rozwoju wsi z dnia 18 kwietnia 2013 r.
-w sprawie rozwiązań technicznych, jakie powinny być zastosowane podczas wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu agrolotniczego Na podstawie art. 40 ust. 4 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455) zarządza się, co następuje: § 1. Podczas wykonywania zabiegu z zastosowaniem środków ochrony roślin przy użyciu sprzętu agrolotniczego, w celu ograniczenia ryzyka pokrycia cieczą użytkową obszaru niebędącego celem zabiegu, powinny być stosowane następujące rozwiązania techniczne:
+w sprawie rozwiązań technicznych, jakie powinny być zastosowane podczas wykonywania zabiegów z zastosowaniem środków ochrony roślin przy użyciu sprzętu agrolotniczego Na podstawie art. 40 ust. 4 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455) zarządza się, co następuje:
+§ 1. Podczas wykonywania zabiegu z zastosowaniem środków ochrony roślin przy użyciu sprzętu agrolotniczego, w celu ograniczenia ryzyka pokrycia cieczą użytkową obszaru niebędącego celem zabiegu, powinny być stosowane następujące rozwiązania techniczne:
 1) wykorzystujące system nawigacji satelitarnej, zapewniające precyzyjne wykonanie zabiegu na obszarze będącym celem zabiegu, przez:
 a) umożliwienie precyzyjnego wyznaczenia obszaru, na którym ma być wykonany zabieg, oraz planowanego toru lotu statku powietrznego w trakcie wykonywania zabiegu,
 b) naprowadzanie statku powietrznego na wyznaczony tor lotu za pomocą sygnalizacji wskazującej wejście statku powietrznego na wyznaczony tor i utrzymanie przez statek powietrzny tego toru,

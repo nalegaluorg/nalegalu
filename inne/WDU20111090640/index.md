@@ -8,7 +8,7 @@ pos: 640
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # 33/4/A/2011 WYROK z dnia 12 maja 2011 r.

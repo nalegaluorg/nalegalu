@@ -8,10 +8,10 @@ pos: 1838
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 października 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1838 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 września 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001838) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1838/text.pdf) |
 
-Poz. 1838 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 września 2021 r.
-w sprawie trybu i sposobu dokonywania doręczeń elektronicznych w postępowaniach restrukturyzacyjnych Na podstawie art. 198 ust. 7 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2021 r. poz. 1588) zarządza się, co następuje: § 1. Rozporządzenie określa tryb i sposób dokonywania doręczeń elektronicznych w postępowaniach restrukturyzacyjnych.
+w sprawie trybu i sposobu dokonywania doręczeń elektronicznych w postępowaniach restrukturyzacyjnych Na podstawie art. 198 ust. 7 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2021 r. poz. 1588) zarządza się, co następuje:
+§ 1. Rozporządzenie określa tryb i sposób dokonywania doręczeń elektronicznych w postępowaniach restrukturyzacyjnych.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
 1) koncie – rozumie się przez to zbiór danych pozwalających na identyfikację właściciela konta wraz z przyporządkowanymi zasobami systemu teleinformatycznego obsługującego postępowanie sądowe;
 2) właścicielu konta – rozumie się przez to podmiot, dla którego założono konto w systemie teleinformatycznym obsługującym postępowanie sądowe;

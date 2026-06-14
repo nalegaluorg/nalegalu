@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych.*
 
-Łącznie: **64** orzeczeń
+Łącznie: **65** orzeczeń
 (pominięto 41 orzeczeń sądów rejonowych)
 
 ## art. 1 (10)
@@ -38,7 +38,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 maja 1991 r. o rozwiązywaniu sporów
 
 - 1997-02-24 | TK | [K 19/96](https://www.saos.org.pl/judgments/205750) | Wyrok ★
 
-## art. 7 (10)
+## art. 7 (11)
 
 - 1997-02-24 | TK | [K 19/96](https://www.saos.org.pl/judgments/205750) | Wyrok ★
 - 2008-10-21 | SN | [III KAS 2/08](https://www.saos.org.pl/judgments/88966) | Wyrok ★
@@ -47,18 +47,20 @@ Orzeczenia powołujące: *Ustawa z dnia 23 maja 1991 r. o rozwiązywaniu sporów
 - 1997-11-27 | SN | [I PKN 393/97](https://www.saos.org.pl/judgments/77942) | Wyrok ★
 - 2012-10-16 | SO | [I ACa 540/12](https://www.saos.org.pl/judgments/4738) | Wyrok
 - 2016-03-14 | SO | [III APz 8/16](https://www.saos.org.pl/judgments/220799) | Postanowienie
+- 2026-02-25 | SO | [VII Pa 122/24](https://www.saos.org.pl/judgments/545126) | Wyrok
 - 2021-03-23 | SO | [VIII Pa 209/19](https://www.saos.org.pl/judgments/440679) | Zarządzenie
 - 2020-09-14 | SO | [VIII Pa 228/19](https://www.saos.org.pl/judgments/422032) | Uzasadnienie
 - 2018-03-26 | SO | [VIII Pa 216/17](https://www.saos.org.pl/judgments/334115) | Uzasadnienie
 
-## art. 8 (4)
+## art. 8 (5)
 
 - 2009-03-05 | SN | [II PK 146/08](https://www.saos.org.pl/judgments/89792) | Wyrok ★
 - 2012-10-16 | SO | [I ACa 540/12](https://www.saos.org.pl/judgments/4738) | Wyrok
+- 2026-02-25 | SO | [VII Pa 122/24](https://www.saos.org.pl/judgments/545126) | Wyrok
 - 2021-03-23 | SO | [VIII Pa 209/19](https://www.saos.org.pl/judgments/440679) | Zarządzenie
 - 2020-09-14 | SO | [VIII Pa 228/19](https://www.saos.org.pl/judgments/422032) | Uzasadnienie
 
-## art. 9 (15)
+## art. 9 (16)
 
 - 2001-05-23 | SN | [III ZP 25/00](https://www.saos.org.pl/judgments/80599) | Uchwała ★
 - 2014-08-12 | SN | [I PK 14/14](https://www.saos.org.pl/judgments/166542) | Wyrok ★
@@ -67,6 +69,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 maja 1991 r. o rozwiązywaniu sporów
 - 1999-09-07 | SN | [I PKN 243/99](https://www.saos.org.pl/judgments/79237) | Wyrok ★
 - 2025-12-10 | SO | [III APa 31/24](https://www.saos.org.pl/judgments/540734) | Wyrok
 - 2015-12-21 | SO | [III APa 54/15](https://www.saos.org.pl/judgments/204605) | Wyrok
+- 2026-02-25 | SO | [VII Pa 122/24](https://www.saos.org.pl/judgments/545126) | Wyrok
 - 2026-01-16 | SO | [VII Pa 61/23](https://www.saos.org.pl/judgments/541365) | Wyrok
 - 2024-03-01 | SO | [VII P 32/21](https://www.saos.org.pl/judgments/511787) | Wyrok
 - 2024-02-14 | SO | [VII P 23/22](https://www.saos.org.pl/judgments/511784) | Wyrok

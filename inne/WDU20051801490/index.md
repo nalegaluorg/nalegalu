@@ -1,0 +1,447 @@
+---
+title: "Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy - Prawo lotnicze"
+address: WDU20051801490
+eli: DU/2005/1490
+publisher: DU
+year: 2005
+pos: 1490
+act_type: Ustawa
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# o zmianie ustawy – Prawo lotnicze
+
+*USTAWA z dnia 28 lipca 2005 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2005 nr 180 poz. 1490 |
+| ISAP | WDU20051801490 |
+| Typ aktu | Ustawa |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2005-07-28 |
+| Data wydania | 2005-09-20 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051801490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1490/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. Nr 130, poz. 1112, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** art. 17 otrzymuje brzmienie: „Art. 17. 1. Przy ministrze właściwym do spraw transportu działa niezależna, stała Państwowa Komisja Badania Wypadków Lotniczych, prowadząca badania wypadków i incydentów lotniczych, zwana dalej „Komisją”.
+
+2. Komisja wykonuje swoje zadania w imieniu ministra właściwego do spraw transportu.
+
+3. W skład Komisji wchodzą: przewodniczący, dwóch zastępców, sekretarz i pozostali członkowie.
+
+4. W zakresie nawiązywania i rozwiązywania stosunku pracy do członków Komisji stosuje się ustawę z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94 z późn. zm. ), z zastrzeżeniem przepisów niniejszej ustawy. Z dniem wyznaczenia z członkiem Komisji zawiera się umowę o pracę.
+
+5. Przewodniczącego Komisji wyznacza minister właściwy do spraw transportu na okres 5 lat, z zastrzeżeniem ust. 8.
+
+6. Zastępców przewodniczącego i sekretarza wyznacza minister właściwy do spraw transportu, na wniosek przewodniczącego Komisji.
+
+7. Członka Komisji wyznacza minister właściwy do spraw transportu po zasięgnięciu opinii przewodniczącego Komisji.
+
+8. Minister właściwy do spraw transportu może, na wniosek Komisji uchwalony bezwzględną większością głosów, cofnąć wyznaczenie przewodniczącemu lub innemu członkowi Komisji.
+
+9. Cofnięcie wyznaczenia powoduje rozwiązanie stosunku pracy za wypowiedzeniem.
+
+10. Członkiem Komisji może zostać osoba, która:
+
+- **1)** jest obywatelem polskim i korzysta z pełni praw publicznych,
+- **2)** posiada pełną zdolność do czynności prawnych,
+- **3)** nie była karana za przestępstwo popełnione umyślnie,
+- **4)** spełnia wymagania w zakresie wykształcenia.
+
+11. Członkostwo w Komisji wygasa z chwilą śmierci, niespełniania wymagań określonych w ust. 10 lub przyjęcia rezygnacji złożonej ministrowi właściwemu do spraw transportu.
+
+12. Wygaśnięcie członkostwa w Komisji jest równoznaczne z rozwiązaniem stosunku pracy bez wypowiedzenia.
+
+13. W skład Komisji powinni wchodzić:
+
+- **1)** specjaliści z zakresu prawa lotniczego,
+- **2)** specjaliści z zakresu szkolenia lotniczego,
+- **3)** specjaliści z zakresu ruchu lotniczego,
+- **4)** specjaliści z zakresu eksploatacji lotniczej,
+- **5)** inżynierowie - konstruktorzy lotniczy,
+- **6)** lekarze specjaliści z zakresu medycyny lotniczej lub medycyny transportu.
+
+14. Za specjalistów z danego zakresu uważa się osoby posiadające odpowiednie wykształcenie wyższe oraz udokumentowaną minimum pięcioletnią praktykę w danej dziedzinie, a w przypadku lekarzy udokumentowaną specjalizację.
+
+15. Członkowie Komisji podejmując uchwałę, kierują się zasadą swobodnej oceny dowodów i nie są związani poleceniem co do treści podejmowanych uchwał.
+
+16. Członek Komisji nie może występować w roli biegłego sądowego w zakresie spraw prowadzonych przez Komisję.
+
+17. W pracach Komisji uczestniczą w miarę potrzeb eksperci, a tak¿e osoby obsługi.
+
+18. Ekspertom za udział w pracach Komisji oraz sporządzanie opinii lub ekspertyzy przysługuje wynagrodzenie ustalane w umowie cywilnoprawnej.”;
+
+- **2)** po art. 17 dodaje się art. 17a i 17b w brzmieniu: „Art. 17a. 1. Do czasu pracy członka Komisji stosuje się przepisy Kodeksu pracy, z zastrzeżeniem przepisów niniejszej ustawy.
+
+2. Okres rozliczeniowy czasu pracy członków Komisji nie przekracza 6 miesięcy.
+
+3. Rozkład czasu pracy jest ustalany z tygodniowym wyprzedzeniem, a w razie zaistnienia zdarzenia lotniczego na bieżąco.
+
+4. W razie zaistnienia zdarzenia lotniczego dobowy wymiar czasu pracy członka Komisji może być wydłużony do 16 godzin.
+
+5. Okres odpoczynku po wydłużeniu czasu pracy, o którym mowa w ust. 4, nie może być krótszy niż 8 godzin, pozostały czas odpoczynku stanowiący różnicę między liczbą przepracowanych godzin a liczbą udzielonego odpoczynku udziela się członkowi Komisji w okresie 7 dni od zakończenia pracy w przedłużonym dobowym wymiarze.
+
+6. W razie zaistnienia zdarzenia lotniczego, odpoczynek, o którym mowa w art. 133 Kodeksu pracy, może być udzielony w ciągu 14 dni od dnia, w którym ten odpoczynek był przewidziany.
+
+7. Członek Komisji pozostaje poza normalnymi godzinami pracy w gotowości do podjęcia czynność badawczych (dyżur), w wymiarze nie przekraczającym 200 godzin na miesiąc. Za czas dyżuru pełnionego w domu przysługuje wynagrodzenie w wysokości wynikającej z ilości godzin pozostawania na dyżurze pomnożonej przez 30% stawki godzinowej wynikającej z wynagrodzenia zasadniczego członka Komisji.
+
+8. W momencie powiadomienia o konieczności przystąpienia do czynności badawczych członek Komisji zobowiązany jest, o ile to możliwe, do niezwłocznego podjęcia tych czynności.
+
+9. Czas dojazdu na miejsce zdarzenia, liczony od momentu powiadomienia członka Komisji o konieczności przystąpienia do badania zdarzenia lotniczego do momentu przybycia na to miejsce, a także czas powrotu z tego miejsca do siedziby Komisji lub miejsca zamieszkania, wlicza się do czasu pracy.
+
+10. Minister właściwy do spraw transportu na wniosek przewodniczącego Komisji może oddelegować członka Komisji do wykonywania zadań poza siedzibę Komisji. Okres oddelegowania określa przewodniczący Komisji.
+
+11. Do członków Komisji nie stosuje się przepisu art. 151 § 2 zdanie drugie Kodeksu pracy.
+
+**Art. 17b.** Do członków Komisji stosuje się odpowiednio przepisy art. 21-24, 26, 28 i 42 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2001 r. Nr 86, poz. 953, z późn. zm. ).”;
+
+- **3)** art. 18 otrzymuje brzmienie: „Art. 18. 1. Minister właściwy do spraw transportu zapewnia z części budżetu państwa, której jest dysponentem, środki na prowadzenie działalności Komisji i jej obsługę, w szczególności na wynagrodzenia dla jej członków, ekspertów, osób obsługi oraz wyposażenie techniczne Komisji, koszty szkolenia, koszty publikacji materiałów Komisji, a także koszty ekspertyz.
+
+2. Obsługę Komisji sprawują odpowiednie komórki organizacyjne urzędu obsługującego ministra właściwego do spraw transportu.
+
+3. Minister właściwy do spraw transportu określi, w drodze zarządzenia, regulamin działania Komisji oraz jej strukturę organizacyjną, uwzględniając charakter wykonywanych przez nią zadań.”;
+
+- **4)** w art. 21:
+    - **a)** w ust. 2 pkt 15 otrzymuje brzmienie: „15) podejmowanie działań w celu zapewnienia bezpieczeństwa lotów, w tym w szczególności:
+    - **a)** gromadzenie, ocena, przetwarzanie i przechowywanie w komputerowej bazie danych, zwanej dalej „bazą danych”, oraz ochrona i rozpowszechnianie informacji o zdarzeniach lotniczych,
+    - **b)** badanie i ocena stanu bezpieczeństwa lotów w lotnictwie cywilnym,
+    - **c)** wydawanie zaleceń profilaktycznych,
+    - **d)** wymiana danych oraz udostępnianie właściwym organom państw członkowskich Unii Europejskiej i Komisji Europejskiej, na podstawie zgłaszanych zdarzeń, z zachowaniem zasady poufności, informacji dotyczących bezpieczeństwa lotów w lotnictwie cywilnym,”;
+    - **b)** w ust. 2a: – uchyla się pkt 2, – w pkt 16 na końcu zdania kropkę zastępuje się przecinkiem i dodaje się pkt 17-24 w brzmieniu: „17) nr 261/2004/WE z dnia 11 lutego 2004 r. ustanawiającym wspólne zasady odszkodowania i pomocy dla pasażerów w przypadku odmowy przyjęcia na pokład albo odwołania lub dużego opóźnienia lotów, uchylającym rozporządzenie (EWG) nr 295/91 (Dz.Urz. UE L 46 z 17.02.2004, s. 1),
+
+- **18)** nr 549/2004/WE z dnia 10 marca 2004 r. ustanawiającym ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Dz.Urz. UE L 96 z 31.03.2004, s. 1),
+- **19)** nr 550/2004/WE z dnia 10 marca 2004 r. w sprawie zapewniania służb nawigacji lotniczej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz.Urz. UE L 96 z 31.03.2004, s. 10),
+- **20)** nr 551/2004/WE z dnia 10 marca 2004 r. w sprawie organizacji i użytkowania przestrzeni powietrznej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004 r., s.
+- **20)** ,
+- **21)** nr 552/2004/WE z dnia 10 marca 2004 r. w sprawie interoperacyjności Europejskiej Sieci Zarządzania Ruchem Lotniczym (Dz. Urz. UE L 96 z 31.03.2004 r. s. 26),
+- **22)** nr 785/2004/WE z dnia 21 kwietnia 2004 r. w sprawie wymogów w zakresie ubezpieczenia w odniesieniu do przewoźników lotniczych i operatorów statków powietrznych (Dz.Urz. UE L 138 z 30.04.2004, s. 1),
+- **23)** nr 847/2004/EWG z dnia 29 kwietnia 2004 r. w sprawie negocjacji i wykonania umów dotyczących usług lotniczych między Państwami Członkowskimi a państwami trzecimi (Dz. Urz. UE L 157 z 30.04.2004, s. 7),
+- **24)** nr 1138/2004/WE z dnia 21 czerwca 2004 r. ustanawiającym wspólną definicję części krytycznych stref zastrzeżonych w portach lotniczych (Dz.Urz. UE L 221 z 21.06.2004, s. 6).”;
+- **5)** w art. 67 ust. 4 otrzymuje brzmienie: „4. Wprowadzenie oraz zniesienie w porcie lotniczym koordynacji lub organizacji rozkładów lotów, o której mowa w rozporządzeniu nr 95/93/WE z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty, następuje w drodze decyzji administracyjnej Prezesa Urzędu.”;
+- **6)** uchyla się art. 67a;
+- **7)** art. 67b otrzymuje brzmienie: „Art. 67b. 1. W porcie lotniczym, w którym wprowadzono koordynację rozkładów lotów, Prezes Urzędu, zgodnie z rozporządzeniem nr 95/93/WE z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty, powołuje i odwołuje koordynatora.
+
+2. Koordynator powinien spełniać następujące warunki:
+
+- **1)** posiadać wykształcenie wyższe i wiedzę lub doświadczenie w zakresie planowania rozkładów lotów lub siatki połączeń,
+- **2)** posiadać biegłą znajomość języka polskiego i angielskiego,
+- **3)** nie być skazany prawomocnym wyrokiem sądu za przestępstwa umyślne: karne skarbowe, przeciwko bezpieczeństwu w komunikacji, bezpieczeństwu powszechnemu, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, prawom osób wykonujących pracę zarobkową oraz wiarygodności dokumentów (wymóg dobrej reputacji),
+- **4)** nie mieć powiązań gospodarczych oraz nie pozostawać w stosunku zależności lub dominacji wobec jakiegokolwiek zarządzającego lotniskiem lub przewoźnika lotniczego,
+- **5)** swoją dotychczasową działalnością dawać rękojmię należytego sprawowania funkcji.
+
+3. Jeżeli koordynatorem jest osoba prawna, warunki, o których mowa w ust. 2, stosuje się odpowiednio do osób działających w jej imieniu w zakresie koordynacji rozkładów lotów oraz osób faktycznie pełniących działalność koordynacyjną.
+
+4. Nadzór nad działalnością koordynatora sprawuje Prezes Urzędu.”;
+
+- **8)** art. 67c otrzymuje brzmienie: „Art. 67c. 1. Zadania koordynatora określa rozporządzenie nr 95/93/WE z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty.
+
+2. Koordynator działa na własny rachunek i nie jest przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. nr 173, poz. 1807, z późn. zm. ).
+
+3. Do koordynatora stosuje się przepisy dotyczące osoby prowadzącej pozarolniczą działalność gospodarczą w rozumieniu przepisów ustaw: z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm. ), z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887, z późn. zm. ), z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm. ), z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm. ).
+
+4. Koszty koordynacji w porcie lotniczym, w szczególności koszty: bieżącej działalności koordynatora, zapewnienia niezbędnych urządzeń i pomieszczeń, utrzymywania uprawnień, wynagrodzeń koordynatora oraz osób zatrudnionych w jego biurze, pokrywane są z budżetu koordynatora.”;
+
+- **9)** po art. 67c dodaje się art. 67d-67g w brzmieniu: „Art. 67d. 1. Koszty koordynacji w porcie lotniczym pokrywane są z opłat za koordynację wnoszonych do budżetu koordynatora.
+
+2. Opłaty za koordynację, o których mowa w ust. 1, wnoszone są przez:
+
+- **1)** przewoźników lotniczych – w łącznej wysokości 50% budżetu koordynatora, proporcjonalnie do liczby operacji lotniczych ,
+- **2)** zarządzających lotniskami, dla których został wyznaczony koordynator – w łącznej wysokości 50% budżetu koordynatora, proporcjonalnie do liczby operacji .
+
+3. Koordynator przedstawia Prezesowi Urzędu do zatwierdzenia, projekt budżetu koordynatora, opracowany po zasięgnięciu opinii podmiotów, o których mowa w ust. 2. Zatwierdzenie oraz odmowa zatwierdzenia budżetu koordynatora następuje w drodze decyzji administracyjnej.
+
+4. Projekt budżetu, o którym mowa w ust. 3, przedstawia się do zatwierdzenia nie później niż na dwa miesiące przed rozpoczęciem roku obrotowego, a w przypadku nowo powołanego koordynatora – nie później niż w terminie 2 miesięcy od dnia jego powołania.
+
+**Art. 67e.**
+
+1. W porcie lotniczym, w którym wprowadzono organizację rozkładów lotów, Prezes Urzędu, zgodnie z rozporządzeniem 95/93/WE z dnia 18 stycznia 1993 r. w sprawie wspólnotowych zasad przydzielania czasu na start i lądowanie w portach lotniczych Wspólnoty, powołuje i odwołuje organizatora rozkładów lotów.
+
+2. Zadania organizatora rozkładów lotów określa rozporządzenie nr 95/93/WE z dnia 18 stycznia 1993 r. w sprawie wspólnotowych zasad przydzielania czasu na start i lądowanie w portach lotniczych Wspólnoty.
+
+3. Do organizatora rozkładów lotów stosuje się odpowiednio przepisy art. 67b ust. 2 – 4, art. 67c ust. 2 i 3 oraz art. 67d.
+
+**Art. 67f.**
+
+1. W razie zniesienia w porcie lotniczym organizacji rozkładów lotów i jednoczesnego wprowadzenia koordynacji rozkładów lotów, dotychczasowy organizator rozkładów lotów staje się koordynatorem.
+
+2. W razie zniesienia w porcie lotniczym koordynacji rozkładów lotów i jednoczesnego wprowadzenia organizacji rozkładów lotów, dotychczasowy koordynator staje się organizatorem rozkładów lotów.
+
+3. W przypadkach, o których mowa w ust. 1 i 2, działalność odpowiednio koordynatora oraz organizatora rozkładów lotów finansowana jest z budżetu dotychczasowego.
+
+**Art. 67g.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, dla zapewnienia zasad przejrzystości, obiektywizmu i niedyskryminacji koordynacji i organizacji rozkładów lotów:
+
+- **1)** szczegółowe warunki i sposób powoływania i odwoływania koordynatora i organizatora rozkładów lotów oraz sprawowania nadzoru nad ich działalnością,
+- **2)** szczegółowe zasady opracowywania i zatwierdzania budżetu koordynatora i organizatora rozkładów lotów,
+- **3)** szczegółowy sposób obliczania wysokości i wnoszenia opłat za koordynację i organizację rozkładów lotów,
+- **4)** szczegółowy sposób postępowania w razie zniesienia organizacji i koordynacji rozkładów lotów.”;
+- **10)** w art. 71a uchyla się ust. 6;
+- **11)** w art. 71b dodaje się ust. 5 w brzmieniu: „5. Przepisu ust. 2 nie stosuje się do ograniczeń wprowadzonych w wyniku drobnych zmian technicznych niestwarzających istotnych kosztów dla użytkowników statków powietrznych w żadnym z portów lotniczych państw członkowskich Unii Europejskiej.”;
+- **12)** w art. 71e uchyla się pkt 2;
+- **13)** w Dziale VI tytuł rozdziału 3 otrzymuje brzmienie: „Zarządzanie bezpieczeństwem lotów oraz badanie wypadków i incydentów lotniczych”;
+- **14)** art. 134 i 135 otrzymują brzmienie: „Art. 134. 1. W celu zapobiegania wypadkom i incydentom lotniczym Komisja, o której mowa w art. 17, prowadzi badania okoliczności i przyczyn zaistniałych wypadków i incydentów lotniczych. Komisja nie orzeka co do winy i odpowiedzialności.
+
+2. Przez wypadek lotniczy rozumie się zdarzenie związane z eksploatacją statku powietrznego, które zaistniało od chwili, gdy jakakolwiek osoba weszła na jego pokład z zamiarem wykonania lotu, do momentu, gdy wszystkie osoby znajdujące się na pokładzie opuściły ten statek powietrzny, i podczas którego:
+
+- **1)** jakakolwiek osoba doznała obrażeń ze skutkiem śmiertelnym lub poważnego obrażenia ciała w rezultacie:
+    - **a)** znajdowania się na pokładzie danego statku powietrznego lub
+    - **b)** bezpośredniego zetknięcia się z jakąkolwiek częścią statku powietrznego, w tym częścią, która oddzieliła się od danego statku powietrznego, lub
+    - **c)** bezpośredniego oddziaływania strumienia gazów albo powietrza, wywołanego przez statek powietrzny – z wyłączeniem tych przypadków, kiedy obrażenia ciała powstały z przyczyn naturalnych bądź w wyniku obrażeń zadanych samemu sobie lub przez inne osoby albo kiedy obrażeń ciała doznały osoby odbywające lot bez pozwolenia albo ukrywające się w miejscach, do których zwykle zamknięty jest dostęp dla pasażerów i członków załogi,
+
+- **2)** statek powietrzny został uszkodzony lub nastąpiło zniszczenie jego konstrukcji, w rezultacie czego:
+    - **a)** naruszona została trwałość konstrukcji, pogorszeniu uległy techniczne lub lotne charakterystyki statku powietrznego oraz
+    - **b)** wymagane jest przeprowadzenie poważnego remontu lub wymiana uszkodzonego elementu – z wyłączeniem przypadków przerwy w pracy silnika statku powietrznego albo jego uszkodzenia, jeśli uszkodzeniu uległ tylko silnik, jego osłony albo agregaty wspomagające albo gdy uszkodzone zostały łopaty śmigła, końcówki skrzydła, anteny, ogumienie kół, urządzenia hamowania, owiewki albo gdy na pokryciu są niewielkie wgniecenia albo przebicia,
+
+- **3)** statek powietrzny zaginął lub znajduje się w miejscu, do którego dostęp jest niemożliwy.
+
+3. Dla celów statystycznych obrażenia ciała, w rezultacie których w ciągu 30 dni od chwili zaistnienia wypadku nastąpiła śmierć, uznaje się za obrażenia ciała ze skutkiem śmiertelnym.
+
+4. Statek powietrzny uznaje się za zaginiony wówczas, gdy nie zostało ustalone miejsce znajdowania się jego szczątków i odwołano oficjalne poszukiwania.
+
+5. Incydentem lotniczym jest zdarzenie inne niż wypadek lotniczy, związane z eksploatacją statku powietrznego, które ma wpływ lub mogłoby mieć wpływ na jej bezpieczeństwo.
+
+6. Poważnym incydentem lotniczym jest zdarzenie, którego okoliczności zaistnienia wskazują, że nieomal doszło do wypadku lotniczego.
+
+**Art. 135.**
+
+1. Komisja po otrzymaniu zgłoszenia o zdarzeniu lotniczym kwalifikuje je jako: wypadek lotniczy lub incydent lotniczy, w tym poważny incydent lotniczy.
+
+2. Każdy wypadek lub poważny incydent lotniczy statku powietrznego objętego obowiązkiem wpisu do państwowego rejestru cywilnych statków powietrznych jest przedmiotem badania przez Komisję. Inne incydenty lotnicze tych statków powietrznych są badane odpowiednio przez użytkownika statku powietrznego lub państwowy organ zarządzania ruchem lotniczym lub zarządzającego lotniskiem, pod nadzorem Komisji, chyba że Przewodniczący Komisji zdecydował o podjęciu takiego badania przez Komisję.
+
+3. Komisja bada wypadki i poważne incydenty lotnicze:
+
+- **1)** cywilnych statków powietrznych na terytorium Rzeczypospolitej Polskiej i w polskiej przestrzeni powietrznej,
+- **2)** cywilnych statków powietrznych polskich lub obcych, eksploatowanych przez użytkowników polskich poza granicami kraju, jeżeli przewidują to umowy lub przepisy międzynarodowe albo właściwy organ obcego państwa przekazał Komisji uprawnienie do przeprowadzenia badania, albo sam nie podjął badania wypadku.
+
+4. Komisja może podjąć badanie wypadku lub incydentu lotniczego statku powietrznego nieobjętego obowiązkiem wpisu do państwowego rejestru cywilnych statków powietrznych, o ile zaistniał on w okolicznościach uzasadniających dokonanie takiego badania.
+
+5. Komisja, przystępując do badania wypadku lub incydentu lotniczego, w którym brał udział polski statek powietrzny lub który wydarzył się na terytorium Rzeczypospolitej Polskiej, powiadamia:
+
+- **1)** Prezesa Urzędu,
+- **2)** użytkownika statku powietrznego,
+- **3)** władze lotnicze państwa: rejestracji, producenta, certyfikacji, konstruktora i właściciela statku powietrznego.
+
+6. W przypadku stwierdzenia, że:
+
+- **1)** statek powietrzny w chwili zdarzenia był używany przez osobę nieuprawnioną,
+- **2)** osoba używająca statku powietrznego była pod wpływem alkoholu lub środków odurzających,
+- **3)** statek powietrzny został zbudowany lub był użytkowany niezgodnie z obowiązującymi przepisami,
+- **4)** statek powietrzny był używany w wyniku przestępstwa, w szczególności uprowadzenia – Komisja może odstąpić od badania wypadku lub incydentu lotniczego, powiadamiając jednocześnie właściwe organy o podejrzeniu naruszenia przepisów karnych.
+
+7. Komisja, w terminie 30 dni od dnia otrzymania informacji o zaistnieniu wypadku lotniczego, przesyła Prezesowi Urzędu raport wstępny. Raport wstępny z badania poważnego incydentu lotniczego przekazuje się w przypadku, gdy uzasadnione jest to względami bezpieczeństwa wykonywania lotów.
+
+8. W przypadkach szczególnych Komisja może korzystać z ekspertyz i opinii przygotowywanych na jej zlecenie przez wyspecjalizowane podmioty lub ekspertów.
+
+9. Po zakończeniu badania incydentu lotniczego użytkownik statku powietrznego, państwowy organ zarządzania ruchem lotniczym lub zarządzający lotniskiem przesyła Komisji, wraz z zebraną dokumentacją, raport końcowy, określający w szczególności przyczyny i okoliczności badanego incydentu lotniczego oraz działania, jakie zostały podjęte lub powinny zostać podjęte w celu zapobieżenia podobnym zdarzeniom w przyszłości. Komisja po analizie przedstawionych dokumentów podejmuje stosowną uchwałę w tej sprawie.
+
+10. Koszty, jakie powstały w związku z zabezpieczeniem, transportem i przechowywaniem statku powietrznego, który uległ wypadkowi lotniczemu, lub jego części, ponosi jego użytkownik, z wyłączeniem kosztów związanych z przeprowadzeniem przez Komisję badań tego sprzętu.”;
+
+- **15)** po art. 135 dodaje się art. 135a -135d w brzmieniu: „Art. 135a. 1. Następujące podmioty, w ramach krajowego systemu obowiązkowego zgłaszania, obowiązane są zgłaszać Komisji zaistnienie zdarzenia polegającego na przerwie w dział aniu, wadzie, uszkodzeniu statku powietrznego lub jego elementu albo innej okoliczności, która miała lub mogła mieć wpływ na bezpieczeństwo lotu:
+- **1)** użytkownik lub dowódca statku powietrznego, w szczególności posiadającego silnik turbinowy albo używanego do transportu publicznego,
+- **2)** przedsiębiorca zajmujący się projektowaniem, produkcją, obsługą lub modyfikacją statków powietrznych, w szczególności posiadających silnik turbinowy albo używanych do transportu publicznego, a także przeznaczonych dla nich urządzeń lub części,
+- **3)** osoba podpisująca świadectwa zdatności do lotów oraz dokumenty związane z przeglądami statków powietrznych, w szczególności o napędzie turbinowym albo przeznaczonych do transportu publicznego, a także przeznaczonych do nich urządzeń lub części,
+- **4)** państwowy organ zarządzania ruchem lotniczym,
+- **5)** zarządzający lotniskiem, w szczególności objętym rozporządzeniem nr 2408/92/EWG z dnia 23 lipca 1992 r. w sprawie dostępu przewoźników lotniczych Wspólnoty do wewnątrzwspólnotowych tras lotniczych (Dz.Urz. UE L 240 z dnia
+
+24. 08.1992 r. s. 8),
+
+- **6)** podmiot wykonujący obsługę naziemną statków powietrznych, w szczególności w porcie lotniczym objętym rozporządzeniem, o którym mowa w pkt 5,
+- **7)** osoba pełniąca funkcję związaną z instalowaniem, modyfikacją, konserwacją, naprawami, naprawami głównymi, kontrolą w locie lub inspekcją lotniczych instalacji nawigacyjnych, za których bezpieczeństwo odpowiada nadzór lotniczy.
+
+2. O zaistniałych zdarzeniach lotniczych Komisja powiadamia niezwłocznie Prezesa Urzędu.
+
+3. Zgłoszeniu, o którym mowa w ust. 1, podlegają zdarzenia dotyczące statku powietrznego eksploatowanego przez przedsiębiorstwo mające siedzibę na terytorium Rzeczypospolitej Polskiej, choćby zaistniały poza tym terytorium.
+
+4. Pracodawca nie może w żaden sposób dyskryminować pracownika, który dokonał zgłoszenia, o którym mowa w ust. 1 i 3.
+
+5. Z zachowaniem przepisów prawa karnego, nie wszczyna się postępowania w odniesieniu do naruszeń prawa popełnionych z winy nieumyślnej, z wyjątkiem przypadków rażącego niedbalstwa, o których dowiedziano się tylko na podstawie zgłoszenia dokonanego zgodnie z systemem obowiązkowego zgłaszania, o którym mowa w ust. 2-4,.
+
+**Art. 135b.**
+
+1. Informacje o zdarzeniach lotniczych przekazywane w ramach systemu obowiązkowego zgłaszania gromadzone są przez Prezesa Urzędu w bazie danych. W bazie danych nie rejestruje się nazwisk ani adresów osób.
+
+2. Z bazy danych korzystają niezależnie, w zakresie ich kompetencji, Prezes Urzędu oraz Komisja. Z bazy danych mogą korzystać także właściwe organy państw członkowskich Unii Europejskiej i Komisja Europejska, jako podmioty uczestniczące w systemie wymiany informacji dotyczących bezpieczeństwa lotów.
+
+3. Informacje zebrane w bazie danych podlegają ochronie zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926 i Nr 153, poz. 1271 oraz z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285).
+
+4. Dla zapewnienia właściwej poufności rozpowszechniania informacji, o których mowa w ust. 1, udostępnianie zainteresowanym podmiotom tych informacji odbywa się zgodnie z warunkami oraz procedurami ustalonymi przez Komisję Europejską.
+
+5. Prezes Urzędu publikuje corocznie, z zapewnieniem ochrony danych osobowych, informacje o stanie bezpieczeństwa lotów w lotnictwie cywilnym, zawierające dane o zdarzeniach zebrane w systemie obowiązkowego zgłaszania.
+
+**Art. 135c.**
+
+1. Prezes Urzędu może wprowadzić dobrowolny i poufny system, który umożliwi zgłaszanie, zbieranie i analizowanie informacji o zaobserwowanych w lotnictwie cywilnym nieprawidłowościach, które nie wymagają zgłaszania obowiązkowego, ale które zgłaszający odczuwa jako bieżące lub potencjalne zagrożenie bezpieczeństwa lotów.
+
+2. Informacja dotycząca bezpieczeństwa lotów, z usuniętymi danymi osobowymi, jest przechowywana i udostępniana wszystkim podmiotom w celu poprawy bezpieczeństwa lotów.
+
+3. O wprowadzeniu systemu, o którym mowa w ust. 1, Prezes Urzędu powiadamia w formie obwieszczenia, podlegającego publikacji w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego.
+
+**Art. 135d.** Użytkownicy statków powietrznych objętych obowiązkiem rejestracji składają Prezesowi Urzędu sprawozdania, za rok ubiegły, z wykonywania zadań lotniczych, z uwzględnieniem zaistniałych zdarzeń lotniczych, w terminie do dnia 31 stycznia każdego roku.”;
+
+- **16)** w art. 136 dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór legitymacji członka Komisji i upoważnienia dla osób, o których mowa w ust. 3, mając na uwadze, w szczególności, dane niezbędne do identyfikacji tych osób.”;
+- **17)** w art. 137 ust. 6 otrzymuje brzmienie: „6. Współpraca, o której mowa w ust. 5, obejmuje w szczególności wzajemne przekazywanie zawiadomień o wypadkach i związanych z nimi informacji, zabezpieczanie dowodów i mienia, udział obserwatorów w badaniu wypadków, ekspertyzy i inną pomoc techniczną oraz przekazywanie sprawozdań z badania wypadków.”;
+- **18)** art. 138 i 139 otrzymują brzmienie: „Art. 138. 1. Po zakończeniu badania Komisja sporządza raport końcowy i podejmuje uchwałę w tym zakresie.
+
+2. Komisja przedstawia raport, o którym mowa w ust. 1, wraz z uchwałą i zebraną dokumentacją ministrowi właściwemu do spraw transportu.
+
+3. Minister właściwy do spraw transportu przekazuje, w terminie 14 dni, Prezesowi Urzędu do wykorzystania raport końcowy wraz z uchwałą w celu analizy i podjęcia stosownych działań, o których mowa w art. 21 ust. 2 pkt 15 i 18.
+
+4. W razie ujawnienia nowych faktów mogących mieć wpływ na ustalenie przyczyn i okoliczności wypadku lub incydentu lotniczego, minister właściwy do spraw transportu może zlecić Komisji wznowienie już zakończonego badania.
+
+5. Przewodniczący Komisji przedstawia ministrowi właściwemu do spraw transportu roczne sprawozdanie z działalności Komisji.
+
+**Art. 139.** Minister właściwy do spraw transportu, mając na względzie poprawę stanu bezpieczeństwa lotniczego, określi, w drodze rozporządzenia, z uwzględnieniem przepisów międzynarodowych i innych wymagań właściwych organizacji międzynarodowych:
+
+- **1)** szczegółowy sposób postępowania przy badaniu wypadków i incydentów lotniczych,
+- **2)** warunki i tryb udostępniania oraz publikowania raportów końcowych i zaleceń Komisji,
+- **3)** warunki i tryb przekazywania i udostępniania raportów wstępnych i informacji o wypadkach i incydentach lotniczych,
+- **4)** sposób działania systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym i sposób prowadzenia bazy danych o zdarzeniach lotniczych,
+- **5)** warunki i sposób działania systemu dobrowolnego zgłaszania o zdarzeniach lotniczych, jednostki lotnictwa cywilnego właściwe do przyjmowania takich poufnych zgłoszeń, sposób zapewnienia ochrony danych osobowych z tym związanych oraz formę i sposób udostępnienia tych informacji,
+- **6)** wykaz przykładowych zdarzeń podlegających obowiązkowemu zgłaszaniu,
+- **7)** wykaz przykładowych poważnych incydentów lotniczych.”;
+- **19)** w art. 160 w ust. 3 w pkt 7 na końcu zdania kropkę zastępuje się przecinkiem i dodaje się pkt 8 w brzmieniu: „8) zapewnianie służb żeglugi powietrznej zgodnie z art. 7 rozporządzenia nr 550/2004/WE z dnia 10 marca 2004 r. w sprawie zapewniania służb nawigacji lotniczej w Jednolitej Europejskiej Przestrzeni Powietrznej.”;
+- **20)** art. 191 i 192 otrzymują brzmienie: „Art. 191. 1. Polski przewoźnik lotniczy może wykonywać przewozy lotnicze w zakresie i na warunkach określonych w certyfikacie i koncesji, z zastrzeżeniem ust. 2 i 3.
+
+2. Upoważnienia do wykonywania przewozów regularnych lub serii przewozów nieregularnych na określonych trasach lub obszarach udziela polskiemu przewoź nikowi lotniczemu Prezes Urzędu w drodze odrębnej decyzji administracyjnej.
+
+3. Jeżeli wymagają tego umowy międzynarodowe lub prawo państwa, w którego granicach mają być wykonywane przewozy lotnicze, Prezes Urzędu dokonuje wyznaczenia, niezależnie od upoważnienia, o którym mowa w ust. 2, polskich przewoźników lotniczych uprawnionych do wykonywania przewozów na określonych trasach lub obszarach tego państwa, informując o tym jego właściwy organ.
+
+4. Przy upoważnianiu i wyznaczaniu polskich przewoźników lotniczych uwzględnia się interes publiczny oraz potrzeby rozwoju polskiego transportu.
+
+5. Prezes Urzędu może odmówić upoważnienia lub wyznaczenia ubiegającemu się o nie polskiemu przewoźnikowi lotniczemu albo ograniczyć je – w szczególności w odniesieniu do oferowanej zdolności przewozowej – w przypadkach, gdy:
+
+- **1)** jest to konieczne ze względu na ograniczenia wynikające z umów lub przepisów międzynarodowych,
+- **2)** jest to uzasadnione w celu uniknięcia poważnego ograniczenia możliwości skutecznego konkurowania polskich przewoźników lotniczych z przewoźnikami lotniczymi innymi niż określeni w ust. 1 i art. 192a ust. 1,
+- **3)** jest to uzasadnione potrzebą umożliwienia opłacalności regularnych przewozów na linii lotniczej już obsługiwanej, na której nie ma potrzeby zwiększenia oferowanej zdolności przewozowej,
+- **4)** wykonywanie lotów regularnych na danej linii zostało już wcześniej powierzone innemu przewoźnikowi lotniczemu na zasadzie obowiązku użyteczności publicznej.
+
+6. Jeżeli o upoważnienie lub wyznaczenie, o których mowa w ust. 2 i 3, występuje dwu lub więcej przewoźników lotniczych ubiegających się o upoważnienie lub wyznaczenie do wykonywania przewozów lotniczych na tej samej trasie, w przypadku ograniczonych praw przewozowych, Prezes Urzędu podejmuje decyzję o wyborze przewoźnika po przeprowadzeniu konkursu, w którym jako kryteria oceny przyjmuje się:
+
+- **1)** zdolność do zapewnienia przez przewoźnika właściwego poziomu usług i konkurencyjnego poziomu opłat za przewozy oraz, w przypadku przewozów międzynarodowych, skutecznego konkurowania z innymi przewoźnikami lotniczymi niż określono w ust. 1 i art. 192a ust. 1,
+- **2)** wcześniej poniesione nakłady i dotychczas osiągane przez niego wyniki ekonomiczne.
+
+7. Procedur ę konkursową, o której mowa w ust. 6, przeprowadza się z poszanowaniem nabytych wcześniej przez przewoźników lotniczych praw do wykonywania przewozów na tej trasie.
+
+8. Upoważnienie lub wyznaczenie, które zostało udzielone w wyniku konkursu, o którym mowa w ust. 6, może być cofnięte w razie stwierdzenia, że przewoźnik lotniczy:
+
+- **1)** nie rozpoczął wykonywania przewozów lotniczych do końca sezonu rozkładowego następującego po sezonie, w którym upoważnienie zostało mu przyznane,
+- **2)** przerwał wykonywanie przewozów lotniczych, do których został upoważniony, i nie wznowił ich w czasie dwóch następujących po sobie sezonach rozkładowych - chyba że udowodni, iż niewykonywanie przewozów lotniczych było następstwem okoliczności, na które nie miał wpływu.
+
+9. Upoważnienie lub wyznaczenie, które zostało udzielone w wyniku konkursu, o którym mowa w ust. 6, może być cofnięte na pisemny wniosek przewoźnika lotniczego złożony do Prezesa Urzędu, informujący o rezygnacji z korzystania z przyznanych przewoźnikowi praw przewozowych.
+
+10. Upoważnienie lub wyznaczenie może być cofnięte lub ograniczone w razie stwierdzenia, że przewoźnik lotniczy nie stosuje się do przepisów dotyczących przewozu lotniczego.
+
+11. Przewoźnik lotniczy jest obowiązany zawiadomić Prezesa Urzędu, z wyprzedzeniem co najmniej 30 dni, o planowanym zaprzestaniu wykonywania regularnego przewozu na trasie, do obsługi której został upoważniony lub wyznaczony, podając jego przyczynę.
+
+12. Upoważnienie, jego odmowa, ograniczenie i cofnięcie następuje w drodze decyzji administracyjnej.
+
+**Art. 192.**
+
+1. Decyzje w sprawie upoważnienia i wyznaczenia, o których mowa w art. 191 ust. 2 i 3, wydaje się na wniosek przewoźnika lotniczego.
+
+2. Wniosek o udzielenie upoważnienia i wyznaczenia powinien być złożony Prezesowi Urzędu w terminie nie krótszym niż:
+
+- **1)** 30 dni przed planowanym dniem rozpoczęcia regularnego przewozu,
+- **2)** 14 dni przed planowanym dniem rozpoczęcia serii nieregularnych lotów handlowych.
+
+3. Wniosek o udzielenie upoważnienia i wyznaczenia powinien zawierać informacje dotyczące:
+
+- **1)** trasy, rodzaju przewozu, oferowanej zdolności przewozowej, częstotliwości lotów, typów statków powietrznych oraz
+- **2)** prognozy przewozów i przewidywanej rentowności połączenia – w przypadku ubiegania się o udzielenie upoważnienia do wykonywania przewozu regularnego na określonych trasach.”;
+- **21)** po art. 192 dodaje się art. 192a w brzmieniu: „Art. 192a. 1. Przewoźnik lotniczy będący przedsiębiorcą zagranicznym z państwa członkowskiego Unii Europejskiej, ustanowiony na terytorium Rzeczypospolitej Polskiej zgodnie z Traktatem o ustanowieniu Wspólnot Europejskich, może wykonywać przewozy lotnicze pomiędzy Rzecząpospolitą Polską a państwem trzecim po uzyskaniu upoważnienia, o którym mowa w art. 191 ust. 2, oraz wyznaczenia, o którym mowa w art. 191 ust. 3. Przepisy art. 191 i 192 stosuje się odpowiednio.
+
+2. Do wniosku o udzielenie upoważnienia i wyznaczenia, o którym mowa w ust. 1, dołącza się następujące dokumenty:
+
+- **1)** koncesję na wykonywanie przewozu lotniczego wydaną przez właściwy organ danego państwa,
+- **2)** certyfikat przewoźnika lotniczego wydany przez właściwy organ danego państwa,
+- **3)** polisę ubezpieczeniową lub certyfikat ubezpieczeniowy stwierdzający ubezpieczenie od odpowiedzialności cywilnej za szkody związane z eksploatacją statków powietrznych, przewozem lotniczym pasażerów, bagażu, towarów i poczty oraz, w stosunku do osób trzecich, zgodny z przepisami polskimi i międzynarodowymi,
+- **4)** odpis z właściwego rejestru,
+- **5)** listę taryf, które będą stosowane na danej trasie, łącznie z warunkami ich stosowania, o których mowa w art. 198,
+- **6)** program ochrony przewoźnika zatwierdzony przez właściwą dla danego państwa władzę lotniczą.”;
+- **22)** w art. 200: UE L 46 z dnia 17.02. 2004 r., s. 1), powinny być określone w regulaminie, o którym mowa w art. 205 ust. 3, albo w przepisach przewoźnika wydanych i udostępnionych pasażerom.”,
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Szczegółowe zasady dotyczące postępowania w przypadkach, o których mowa w rozporządzeniu nr 261/2004/WE z dnia 11 lutego 2004 r. ustanawiającym wspólne zasady odszkodowania i pomocy dla pasażerów w przypadku odmowy przyjęcia na pokład albo odwołania lub dużego opóźnienia lotów, uchylającym rozporządzenie (EWG) nr 295/91, a w szczególności pierwszeństwa przyjmowania pasażerów, zwrotu opłaty za niewykonany przewóz, wysokości i sposobu wypłaty rekompensaty oraz świadczeń na rzecz pasażerów niezabranych do przewozu (Dz.Urz.
+    - **b)** uchyla się ust. 4;
+
+- **23)** po dziale X dodaje się dział Xa w brzmieniu: „Dział Xa Ochrona praw pasażerów
+
+**Art. 205a.**
+
+1. Prezes Urzędu kontroluje przestrzeganie przepisów rozporządzenia nr 261/2004/WE z dnia 11 lutego 2004 r. ustanawiającego wspólne zasady odszkodowania i pomocy dla pasażerów w przypadku odmowy przyjęcia na pokład albo odwołania lub dużego opóźnienia lotów, uchylającego rozporządzenie (EWG) nr 295/91, zwanego dalej „rozporządzeniem nr 261/2004/WE”, w zakresie przestrzegania praw pasażerów lotniczych, a w szczególności rozpatrywanie skarg, o których mowa w art. 16 ust. 2 tego rozporządzenia.
+
+2. Zadania, o których mowa w ust. 1, wykonuje wyodrębniona komórka organizacyjna Urzędu Lotnictwa Cywilnego – Komisja Ochrony Praw Pasażerów.
+
+3. Przepisy ust. 1 i 2 nie naruszają zadań i kompetencji Prezesa Urzędu Ochrony Konkurencji i Konsumentów, o których mowa w przepisach ustawy z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. z 2003 r. Nr 86, poz. 804, z późn. zm. ).
+
+**Art. 205b.**
+
+1. W razie złożenia skargi, o której mowa w art. 16 ust. 2 rozporządzenia nr 261/2004/WE, Prezes Urzędu stwierdza, w drodze decyzji administracyjnej:
+
+- **1)** brak naruszenia prawa przez przewoźnika lotniczego albo
+- **2)** naruszenie prawa przez przewoźnika lotniczego, określając zakres nieprawidłowości oraz termin ich usunięcia.
+
+2. Do skargi, o której mowa w ust. 1, pasażer powinien załączyć następujące dokumenty:
+
+- **1)** kopię skargi skierowanej do przewoźnika,
+- **2)** odpowiedź przewoźnika na skargę pasażera – jeżeli została udzielona,
+- **3)** potwierdzoną rezerwację na dany lot.
+
+3. Ciężar udowodnienia, że uprawnienia przysługujące pasażerowi, w przypadku odmowy przyjęcia na pokład albo odwołania lub opóźnienia lotu, zgodnie z rozporządzeniem nr 261/2004/WE, nie zostały naruszone obciąża przewoźnika lotniczego.
+
+**Art. 205c.**
+
+1. Prezes Urzędu może, w drodze decyzji administracyjnej, nałożyć na przewoźnika lotniczego karę pieniężną, jeżeli przewoźnik ten:
+
+- **1)** wbrew art. 4 ust. 1 rozporządzenia nr 261/2004/WE zaniedbał obowiązku wezwania ochotników do rezygnacji z ich rezerwacji – w wysokości stanowiącej równowartość od 1 000 do 2500 euro,
+- **2)** wbrew art. 7 rozporządzenia nr 261/2004/WE zaniedbał obowiązku wypłaty odszkodowania – w wysokości stanowiącej równowartość od 1 000 do 20 000 euro,
+- **3)** wbrew art. 8 rozporządzenia nr 261/2004/WE zaniedbał obowiązku zwrotu należności lub zmiany planu podróży – w wysokości stanowiącej równowartość od 5 000 do 20 000 euro,
+- **4)** wbrew art. 9 rozporządzenia nr 261/2004/WE zaniedbał obowiązku opieki – w wysokości stanowiącej równowartość od 1 000 do 10 000 euro,
+- **5)** wbrew art. 10 rozporządzenia nr 261/2004/WE zaniedbał obowiązku zwrotu części ceny biletu w razie umieszczenia w klasie niższej – w wysokości stanowiącej równowartość od 1 000 do 5 000 euro,
+- **6)** wbrew art. 14 rozporządzenia nr 261/2004/WE zaniedbał obowiązku informowania pasażerów o przysługujących im prawach – w wysokości stanowiącej równowartość od 5 000 do 25 000 euro – z zastrzeżeniem przepisów ust. 2-4.
+
+2. Kara, o której mowa w ust. 1, nie może być wyższa niż 5% przychodu osiągniętego przez przewoźnika lotniczego w roku rozliczeniowym poprzedzającym rok nałożenia kary.
+
+3. Jeżeli przewoźnik lotniczy powstał w wyniku połączenia lub przekształcenia dwóch lub więcej przedsiębiorców, przepis ust. 2 stosuje się odpowiednio do przychodu osiągniętego łącznie przez tych przedsiębiorców.
+
+4. Jeżeli przewoźnik lotniczy nie osiągnął przychodu w roku rozliczeniowym poprzedzającym rok nałożenia kary, kara, o której mowa w ust. 1, nie może przekraczać wysokości pięćdziesięciokrotnego przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.”;
+
+- **24)** w art. 225a:
+    - **a)** w zdaniu wstępnym wyrazy „art. 71b-71d” zastępuje się wyrazami „art. 71c ust. 1”,
+    - **b)** pkt 2 otrzymuje brzmienie: „2) w okresie, o którym mowa w pkt 1, były zarejestrowane we właściwym rejestrze państwa rozwijającego się i nadal są użytkowane przez osobę fizyczną zamieszkałą w tym kraju, jednostkę organizacyjną nieposiadającą osobowo ści prawnej lub osobę prawną z siedzibą w tym kraju.”.
+
+**Art. 2.**
+
+1. Do czasu wprowadzenia koordynacji lub organizacji rozkładów lotów i powołania koordynatora lub organizatora rozkładów lotów zgodnie z przepisami ustawy, o której mowa w art. 1, w portach lotniczych, w których do dnia wejścia w życie niniejszej ustawy wykonywane były czynności z zakresu koordynacji lub organizacji rozkładów lotów, zadania określone w niniejszej ustawie dla koordynatora lub organizatora rozkładów lotów wykonuje osoba wyznaczona przez Prezesa Urzędu Lotnictwa Cywilnego, nie dłużej jednak niż do dnia 1 lipca 2006 r.
+
+2. Do osoby, o której mowa w ust. 1, stosuje się przepisy określające zadania koordynatora lub organizatora rozkładów lotów, z wyłączeniem art. 67b ust. 2, art. 67c ust. 2 - 4 i art. 67e ust. 1 i 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 3.**
+
+1. Przepisy art. 67d ustawy, o której mowa w art. 1, stosuje się od dnia powołania koordynatora lub organizatora rozkładów lotów, z zastrzeżeniem ust. 2 i 3.
+
+2. Kosztami koordynacji lub organizacji rozkładów lotów objęte są loty wykonywane przez przewoźników lotniczych od dnia wejścia niniejszej ustawy w życie.
+
+3. W przypadku gdy okres od wejścia w życie niniejszej ustawy do powołania koordynatora lub organizatora rozkładów lotów jest krótszy niż dwa sezony rozkładowe, opłaty za koordynację lub organizację rozkładów lotów naliczane są proporcjonalnie do liczby lotów w tym okresie.
+
+**Art. 4.**
+
+1. Akty wykonawcze wydane na podstawie upoważnień zawartych w ustawie, o której mowa w art. 1, zmienianych niniejszą ustawą, zachowują moc do czasu wydania aktów wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 1 lipca 2006 r.
+
+2. Zachowane w mocy przepisy wykonawcze, o których mowa w ust. 1, mogą być zmieniane przez ministra właściwego do spraw transportu, w drodze rozporządzenia, w granicach określonych w art. 18 ust. 3 oraz w art. 139 ustawy, o której mowa w art. 1, w ich dotychczasowym brzmieniu.
+
+3. Postępowania wszczęte w sprawach zdarzeń lotniczych z udziałem statków powietrznych niepodlegających obowiązkowi wpisu do państwowego rejestru cywilnych statków powietrznych Państwowa Komisja Badania Wypadków Lotniczych może umorzyć za zgodą użytkownika statku powietrznego.
+
+4. Obowiązek przesłania Prezesowi Urzędu Lotnictwa Cywilnego raportów wstępnych, o których mowa w art. 1 pkt 14, w zakresie badań niezakończonych, Państwowa Komisja Badania Wypadków Lotniczych powinna zrealizować nie później niż w terminie 12 miesięcy od dnia wejście w życie ustawy.
+
+5. Przewodniczący, zastępcy przewodniczącego i pozostali członkowie Państwowej Komisji Badania Wypadków Lotniczych stają się członkami Komisji w rozumieniu niniejszej ustawy.
+
+6. Z osobami, o których mowa w ust. 5, zawiera się umowę o prac ę na czas nieokreślony.
+
+**Art. 5.** W odniesieniu do przewoźników lotniczych będących przedsiębiorcami zagranicznymi z państw członkowskich Unii Europejskiej, ustanowionymi na terytorium Rzeczypospolitej Polskiej zgodnie z Traktatem o ustanowieniu Wspólnot Europejskich, przepisy art. 191 ust. 6 - 9 stosuje się od dnia 26 marca 2006 r.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 1 pkt 1-3 i art. 4 ust. 5 – które wchodzą w życie z dniem 1 stycznia 2006 r.
+

@@ -8,7 +8,7 @@ pos: 198
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o zasadach prowadzenia polityki rozwoju
@@ -508,9 +508,37 @@ Art. 38–50. (pominięte)
 
 **Art. 3.** Politykę rozwoju prowadzą:
 
+- **1)** Rada Ministrów;
+- **2)** samorząd województwa;
+- **2a)** związki metropolitalne;
+- **3)** samorząd powiatowy i gminny oraz ich związki.
+
 **Art. 3a.** Minister właściwy do spraw rozwoju regionalnego koordynuje przygotowanie oraz realizację strategii rozwoju współfinansowanych ze środków budżetu państwa lub środków rozwojowych pochodzących z Unii Europejskiej lub z innych źródeł zagranicznych przez:
 
+- **1)** koordynację oraz programowanie strategiczne, a także podejmowanie inicjatyw w zakresie polityki rozwoju, obejmujących wymiar społeczny, gospodarczy i przestrzenny;
+- **1a)** podejmowanie inicjatyw, opracowywanie lub koordynowanie opracowywania i negocjowanie, o ile ustawa nie stanowi inaczej, dokumentów programowych dotyczących okresów programowania Unii Europejskiej; 1aa) podejmowanie inicjatyw, opracowywanie lub koordynowanie opracowywania i negocjowanie, o ile ustawa nie stanowi inaczej, planu rozwojowego;
+- **1b)** podejmowanie inicjatyw, opracowywanie, negocjowanie i podpisywanie programów współfinansowanych z udziałem niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA);
+- **1c)** wykonywanie, o ile ustawa nie stanowi inaczej, zadań państwa członkowskiego Unii Europejskiej określonych w przepisach Unii Europejskiej dotyczących funduszy strukturalnych i Funduszu Spójności oraz w umowie partnerstwa;
+- **2)** programowanie i realizację polityki regionalnej;
+- **3)** okresową ocenę realizacji strategii rozwoju, o której mowa w art. 9 pkt 2, oraz przedstawianie opinii dotyczących zgodności strategii rozwoju, o których mowa w art. 9 pkt 3 i 4, i programów przygotowywanych przez właściwych ministrów ze średniookresową strategią rozwoju kraju;
+- **3a)** (uchylony) 3b) podejmowanie inicjatyw, programowanie i prowadzenie polityki miejskiej;
+- **4)** monitorowanie i ocenę rozwoju kraju w ujęciu regionalnym i przestrzennym oraz przedstawianie Radzie Ministrów rekomendacji w tym zakresie;
+- **4a)** koordynowanie i realizację procesu ewaluacji polityki rozwoju;
+- **4b)** wydawanie rekomendacji w zakresie przygotowania projektów strategii rozwoju, o których mowa w art. 9 pkt 3–6;
+- **5)** prowadzenie działalności analitycznej, prognostycznej i badawczej, dotyczącej rozwoju społeczno-gospodarczego, regionalnego i przestrzennego kraju;
+- **6)** (uchylony)
+- **7)** inne instrumenty określone w odrębnych ustawach. Art. 3aa. Na wniosek podmiotów przygotowujących diagnozę, o której mowa w art. 10a ust. 1, organy administracji rządowej i samorządowej, państwowych i samorządowych jednostek organizacyjnych oraz państwowych i samorządowych osób prawnych udostępniają nieodpłatnie informacje zgromadzone w zbiorach danych, ewidencjach i rejestrach, jeżeli nie powoduje to ich dodatkowego, innego niż samo udostępnienie, obciążenia. Art. 3ab. 1. Minister właściwy do spraw rozwoju regionalnego może udzielać pomocy publicznej lub pomocy de minimis w ramach działań finansowanych z udziałem środków, o których mowa w art. 3a pkt 1b, jako podmiot udzielający pomocy publicznej w rozumieniu art. 2 pkt 12 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635), w związku z realizacją umowy zawartej między Unią Europejską a państwem lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA).
+
+2. Minister właściwy do spraw rozwoju regionalnego, udzielając pomocy publicznej, o której mowa w ust. 1, może określić, w drodze rozporządzenia:
+
+- **1)** warunki i tryb udzielania pomocy publicznej,
+- **2)** szczegółowe przeznaczenie pomocy publicznej, jeżeli wynika to z umowy, na podstawie której pomoc jest udzielana – uwzględniając wszystkie źródła pochodzenia środków niepodlegających zwrotowi przekazywanych jako pomoc publiczna w związku z realizacją umowy, konieczność zapewnienia przejrzystości udzielania tej pomocy oraz zgodność udzielanej pomocy publicznej z warunkami jej dopuszczalności.
+
 **Art. 3b.** Minister właściwy do spraw rozwoju regionalnego koordynuje wykorzystanie środków z:
+
+- **1)** instrumentów inżynierii finansowej, o których mowa w rozporządzeniu Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającym rozporządzenie (WE) nr 1260/1999 (Dz. Urz. UE L 210 z 31.07.2006, str. 25, z późn. zm. ), podlegających ponownemu wykorzystaniu,
+- **2)** instrumentów finansowych oraz środków pomocy zwrotnej, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającym rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ), podlegających ponownemu wykorzystaniu,
+- **3)** instrumentów finansowych oraz wsparcia warunkowego, o których mowa w ustawie z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021– 2027 (Dz. U. poz. 1079 oraz z 2024 r. poz. 1717), podlegających ponownemu wykorzystaniu – w szczególności przez podejmowanie inicjatyw w zakresie efektywnego gospodarowania tymi środkami, monitorowanie ich wykorzystania oraz ocenę stopnia ich wykorzystania w skali kraju.
 
 **Art. 3c.**
 
@@ -529,6 +557,40 @@ Art. 38–50. (pominięte)
 3. Polityka rozwoju może być prowadzona również na podstawie instrumentów prawnych i finansowych określonych w odrębnych przepisach.
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
+
+- **1)** beneficjent – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną, realizującą projekty finansowane z budżetu państwa lub ze źródeł zagranicznych na podstawie decyzji lub umowy o dofinansowanie projektu;
+- **1a)** dokumenty programowe – umowę partnerstwa, programy służące jej realizacji oraz plan strategiczny dla wspólnej polityki rolnej;
+- **2)** instytucja zarządzająca – właściwego ministra, ministra właściwego do spraw rozwoju regionalnego lub, w przypadku regionalnego programu operacyjnego, zarząd województwa, odpowiedzialnych za przygotowanie i realizację programu operacyjnego;
+- **3)** instytucja pośrednicząca – organ administracji publicznej lub inną jednostkę sektora finansów publicznych, której została powierzona, w drodze porozumienia zawartego z instytucją zarządzającą, część zadań związanych z realizacją programu operacyjnego; instytucja pośrednicząca pełni funkcje instytucji pośredniczącej w rozumieniu art. 2 pkt 6 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999 (Dz. Urz. UE L 210 z 31.07.2006, str. 25–78);
+- **4)** instytucja wdrażająca – podmiot publiczny lub prywatny, któremu na podstawie porozumienia lub umowy została powierzona, w ramach programu operacyjnego, realizacja zadań odnoszących się bezpośrednio do beneficjentów; instytucja wdrażająca (instytucja pośrednicząca II stopnia) pełni również funkcje instytucji pośredniczącej w rozumieniu art. 2 pkt 6 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999;
+- **4a)** instytucja audytowa – organ administracji publicznej funkcjonalnie niezależny od instytucji zarządzającej oraz instytucji certyfikującej, wyznaczony dla każdego programu operacyjnego i odpowiedzialny za weryfikację skutecznego działania systemu zarządzania i kontroli; instytucja audytowa wykonuje zadania, o których mowa w art. 62 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999;
+- **4b)** (uchylony) 4ba) koncepcja rozwoju kraju – dokument określający wyzwania rozwojowe kraju w wymiarze społecznym, gospodarczym i przestrzennym na okres do 30 lat;
+- **4c)** kontrakt terytorialny – umowę określającą cele i przedsięwzięcia priorytetowe, które mają istotne znaczenie dla rozwoju kraju oraz wskazanego w niej województwa, oraz sposób ich koordynacji i warunki realizacji, a także dofinansowanie opracowywanych przez zarząd województwa programów służących realizacji umowy partnerstwa w zakresie polityki spójności na lata 2014–2020;
+- **4d)** kontrakt programowy – umowę określającą kierunki i warunki dofinansowania programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez zarząd województwa, w tym przedsięwzięcia priorytetowe realizowane w tym programie;
+- **4e)** kontrakt sektorowy – umowę określającą sposób realizacji, w tym finansowania, programów rozwoju opracowanych przez właściwych ministrów w zakresie interwencji ukierunkowanej terytorialnie;
+- **4f)** porozumienie terytorialne – umowę określającą w szczególności przedsięwzięcia priorytetowe dla rozwoju danego obszaru objętego tym porozumieniem;
+- **5)** (uchylony)
+- **6)** kwalifikowalność wydatków – spełnienie przez wydatki poniesione w ramach programów operacyjnych kryteriów:
+    - **a)** spójności z postanowieniami przyjętego programu operacyjnego,
+    - **b)** określonych szczegółowo przez instytucję zarządzającą zgodnie z art. 26 ust. 1 pkt 6,
+    - **c)** dodatkowych, przewidzianych dla danego źródła finansowania, w przypadku programów finansowanych ze źródeł zagranicznych;
+
+- **6a)** obszar funkcjonalny – obszar, na którym występuje względnie wyodrębniający się, intensywny i otwarty system powiązań społecznych, gospodarczych lub przyrodniczych, uwarunkowanych cechami środowiska geograficznego (przyrodniczego i antropogenicznego); szczególnym typem obszaru funkcjonalnego jest miejski obszar funkcjonalny;
+- **6b)** obszar strategicznej interwencji – określony w strategii rozwoju obszar o zidentyfikowanych lub potencjalnych powiązaniach funkcjonalnych lub o szczególnych warunkach społecznych, gospodarczych lub przestrzennych, decydujących o występowaniu barier rozwoju lub trwałych, możliwych do aktywowania, potencjałów rozwojowych, do którego jest kierowana interwencja publiczna łącząca inwestycje, w szczególności gospodarcze, infrastrukturalne lub w zasoby ludzkie, finansowane z różnych źródeł, lub rozwiązania regulacyjne;
+- **6c)** (uchylony)
+- **7)** partnerzy społeczni i gospodarczy – organizacje pracodawców i organizacje związkowe, reprezentatywne w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), samorządy zawodowe, izby gospodarcze, organizacje pozarządowe oraz podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897), a także Rada Działalności Pożytku Publicznego;
+- **7a)** programy służące realizacji umowy partnerstwa – programy: 7aa) plan rozwojowy – dokument, o którym mowa w art. 17 ust. 1 rozporządzenia 2021/241, stanowiący podstawę realizacji reform i inwestycji objętych wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności; 7ab) plan społeczno-klimatyczny – dokument, o którym mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/955 z dnia 10 maja 2023 r. w sprawie ustanowienia Społecznego Funduszu Klimatycznego i zmieniającego rozporządzenie (UE) 2021/1060 (Dz. Urz. UE L 130 z 16.05.2023, str. 1), stanowiący podstawę realizacji środków i inwestycji objętych wsparciem ze środków Społecznego Funduszu Klimatycznego, o którym mowa w art. 1 tego rozporządzenia; 7ac) plan partnerstwa krajowego i regionalnego – plan określający uwarunkowania, cele i kierunki wykorzystania środków pochodzących z budżetu Unii Europejskiej w perspektywie finansowej 2028–2034;
+    - **a)** w zakresie polityki spójności – programy realizowane z wykorzystaniem środków Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Europejskiego Funduszu Społecznego Plus oraz Funduszu Spójności i Funduszu na rzecz Sprawiedliwej Transformacji, z wyłączeniem programów Europejskiej Współpracy Terytorialnej,
+    - **b)** realizowane z wykorzystaniem funduszy wspierających sektory morski lub rybacki oraz funduszy wspierających sprawy wewnętrzne oraz program rozwoju obszarów wiejskich;
+
+- **7b)** polityka publiczna – dokument określający podstawowe uwarunkowania, cele i kierunki rozwoju kraju w wymiarze społecznym, gospodarczym i przestrzennym w danej dziedzinie lub na danym obszarze, które wynikają bezpośrednio ze strategii rozwoju, o których mowa w art. 9 pkt 2 i 3;
+- **8)** (uchylony)
+- **9)** projekt – przedsięwzięcie realizowane w ramach programu operacyjnego na podstawie decyzji lub umowy o dofinansowanie, zawieranej między beneficjentem a instytucją zarządzającą, instytucją pośredniczącą lub instytucją wdrażającą;
+- **9a)** umowa partnerstwa – umowę określającą uwarunkowania, cele i kierunki wykorzystania środków pochodzących z budżetu Unii Europejskiej, przygotowaną z udziałem partnerów społecznych i gospodarczych oraz zatwierdzoną przez Komisję Europejską;
+- **10)** (uchylony)
+- **11)** (uchylony)
+- **12)** wsparcie zwrotne – wsparcie finansowe niestanowiące dotacji, podlegające całkowitemu albo częściowemu zwrotowi, przyznawane w szczególności w formie poręczeń, gwarancji lub pożyczek, w tym pożyczek przeznaczonych na nabycie lub objęcie akcji lub udziałów w spółkach;
+- **13)** rozporządzenie 2021/241 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiające Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm. ).
 
 **Art. 6.**
 
@@ -567,6 +629,10 @@ Art. 38–50. (pominięte)
 
 **Art. 8a.** Koncepcja rozwoju kraju zawiera w szczególności:
 
+- **1)** wnioski z analizy trendów rozwojowych zachodzących w kraju;
+- **2)** wnioski z analizy trendów rozwojowych zachodzących na świecie i ich potencjalny wpływ na trendy rozwojowe w kraju;
+- **3)** scenariusze rozwoju i wyzwania rozwojowe kraju, w wymiarze społecznym, gospodarczym i przestrzennym.
+
 **Art. 8b.**
 
 1. Przygotowanie i uzgadnianie projektu koncepcji rozwoju kraju koordynuje Prezes Rady Ministrów lub wyznaczony przez niego właściwy minister.
@@ -584,6 +650,14 @@ Art. 38–50. (pominięte)
 #### Rozdział 2 Strategie rozwoju
 
 **Art. 9.** Strategiami rozwoju są:
+
+- **1)** (uchylony)
+- **2)** średniookresowa strategia rozwoju kraju – dokument określający podstawowe uwarunkowania, cele i kierunki rozwoju kraju w wymiarze społecznym, gospodarczym i przestrzennym, na okres 10–15 lat, oraz szczegółowe działania na okres 4 lat, realizowany przez strategie rozwoju, o których mowa w pkt 3 i 4, oraz za pomocą programów, z uwzględnieniem okresu programowania Unii Europejskiej;
+- **3)** inne strategie rozwoju – dokumenty określające podstawowe uwarunkowania, cele i kierunki rozwoju, odnoszące się do sektorów, dziedzin, regionów lub rozwoju przestrzennego;
+- **4)** strategia rozwoju województwa – dokument, o którym mowa w art. 11 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2024 r. poz. 566, 1907 i 1940);
+- **5)** strategia rozwoju gminy – dokument, o którym mowa w art. 10e ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465, 1572, 1907 i 1940);
+- **6)** strategia rozwoju ponadlokalnego – dokument, o którym mowa w art. 10g ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym i w art. 12a ust. 1 ustawy z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim (Dz. U. z 2022 r. poz. 2578 oraz z 2024 r. poz. 1572 i
+- **1940)** .
 
 **Art. 10.** (uchylony)
 
@@ -770,6 +844,12 @@ Art. 38–50. (pominięte)
 
 **Art. 14i.** Program służący realizacji umowy partnerstwa w zakresie polityki spójności określa w szczególności:
 
+- **1)** wybrane cele przewidziane do osiągnięcia zgodnie z umową partnerstwa oraz uzasadnienie ich wyboru, z uwzględnieniem uwarunkowań krajowych lub regionalnych oraz przewidywanej trafności, spójności, skuteczności i efektywności realizacji programu, o ile taka ewaluacja była przygotowana;
+- **2)** oczekiwane rezultaty, które mają zostać osiągnięte przez realizację tego programu;
+- **3)** opis działań, które mogą uzyskać dofinansowanie w ramach tego programu;
+- **4)** plan finansowy;
+- **5)** system instytucjonalny określający instytucje i podmioty zaangażowane w realizację programu oraz ich powiązania.
+
 **Art. 14j.**
 
 1. Projekt programu służącego realizacji umowy partnerstwa opracowany przez:
@@ -783,6 +863,69 @@ Art. 38–50. (pominięte)
 - **2)** realizowane z wykorzystaniem środków funduszy wspierających sektory morski lub rybacki, funduszy wspierających sprawy wewnętrzne oraz środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej, a także program rozwoju obszarów wiejskich, po przyjęciu przez Komisję Europejską, są przekazywane odpowiednio przez ministra właściwego do spraw rybołówstwa, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw zabezpieczenia społecznego lub ministra właściwego do spraw rozwoju wsi – do wiadomości członkom Rady Ministrów.
 
 **Art. 14k.** Do programów służących realizacji umowy partnerstwa w zakresie polityki spójności stosuje się odpowiednio przepisy art. 19a i art. 20 ust. 2a i 3. Art. 14ka. 1. Propozycje zmian programu służącego realizacji umowy partnerstwa w zakresie polityki spójności opracowuje właściwa instytucja zarządzająca tym programem oraz przedkłada je:
+
+- **1)** komitetowi monitorującemu odpowiedzialnemu za monitorowanie wdrażania i realizacji programu służącego realizacji umowy partnerstwa w zakresie polityki spójności do zatwierdzenia oraz
+- **2)** ministrowi właściwemu do spraw rozwoju regionalnego w celu wyrażenia opinii.
+
+2. Po zatwierdzeniu zmian oraz uzyskaniu opinii, o której mowa w art. 14g ust. 1 pkt 4, zmiany programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez ministra właściwego do spraw rozwoju regionalnego, są przyjmowane przez Radę Ministrów, w drodze uchwały, przed skierowaniem do przyjęcia przez Komisję Europejską.
+
+3. Rada Ministrów może, w drodze uchwały, upoważnić ministra właściwego do spraw rozwoju regionalnego do przyjmowania zmian programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez ministra właściwego do spraw rozwoju regionalnego, w zakresie określonym w upoważnieniu.
+
+4. Zmiany, o których mowa w ust. 3, mogą dotyczyć elementów nieobjętych decyzją Komisji Europejskiej przyjmującą program.
+
+5. Minister właściwy do spraw rozwoju regionalnego informuje Radę Ministrów o wszelkich zmianach, o których mowa w ust. 3, w terminie miesiąca od ich zatwierdzenia przez komitet monitorujący odpowiedzialny za monitorowanie wdrażania i realizacji programu służącego realizacji umowy partnerstwa w zakresie polityki spójności.
+
+6. Po zatwierdzeniu zmian oraz uzyskaniu opinii, o której mowa w art. 14g ust. 1 pkt 4, zmiany programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez zarząd województwa, są przyjmowane przez zarząd województwa, w drodze uchwały, przed skierowaniem do przyjęcia przez Komisję Europejską. Art. 14kb. Instytucja zarządzająca programem służącym realizacji umowy partnerstwa w zakresie polityki spójności:
+
+- **1)** podaje do publicznej wiadomości, w szczególności na swojej stronie internetowej oraz na portalu internetowym dostarczającym informacje na temat wszystkich programów służących realizacji umowy partnerstwa w zakresie polityki spójności, ten program oraz jego zmiany, a także termin, od którego program lub jego zmiany są stosowane;
+- **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o adresie strony internetowej oraz portalu, o których mowa w pkt 1, na których zostaną zamieszczone ten program oraz jego zmiany, a także o terminie, od którego program lub jego zmiany są stosowane – w przypadku programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez ministra właściwego do spraw rozwoju regionalnego, a w przypadku programu służącego realizacji umowy partnerstwa w zakresie polityki spójności, opracowanego przez zarząd województwa – w wojewódzkim dzienniku urzędowym. Art. 14kc. 1. Projekt zmiany programu rozwoju obszarów wiejskich opracowuje minister właściwy do spraw rozwoju wsi, po zasięgnięciu opinii komitetu monitorującego, o którym mowa w art. 47 rozporządzenia nr 1303/2013.
+
+2. Projekt zmiany programu rozwoju obszarów wiejskich, po uzyskaniu opinii, o której mowa w art. 14g ust. 1 pkt 4, jest przyjmowany przez Radę Ministrów w drodze uchwały, a następnie jest przekazywany przez ministra właściwego do spraw rozwoju wsi Komisji Europejskiej.
+
+2a. Minister właściwy do spraw rozwoju wsi współpracuje z Komisją Europejską w zakresie oceny przekazanego jej projektu zmiany programu rozwoju obszarów wiejskich.
+
+3. Zmiana programu rozwoju obszarów wiejskich po:
+
+- **1)** zatwierdzeniu przez Komisję Europejską tej zmiany – w przypadku, o którym mowa w art. 11 lit. a i b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm.),
+- **2)** poinformowaniu Komisji Europejskiej o tej zmianie – w przypadku, o którym mowa w art. 11 lit. c rozporządzenia wymienionego w pkt 1 – jest przekazywana przez ministra właściwego do spraw rozwoju wsi do wiadomości członkom Rady Ministrów.
+
+4. Rada Ministrów może, w drodze uchwały, upoważnić ministra właściwego do spraw rozwoju wsi do przyjmowania projektów zmian programu rozwoju obszarów wiejskich w zakresie, o którym mowa w art. 11 lit. c rozporządzenia wymienionego w ust. 3 pkt 1. Art. 14kca. 1. Projekt zmiany planu strategicznego dla wspólnej polityki rolnej opracowuje minister właściwy do spraw rozwoju wsi, po zasięgnięciu opinii komitetu monitorującego, o którym mowa w art. 124 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013, zwanego dalej „rozporządzeniem 2021/2115”.
+
+2. Projekt zmiany planu strategicznego dla wspólnej polityki rolnej jest przyjmowany przez Radę Ministrów w drodze uchwały, a następnie jest przekazywany przez ministra właściwego do spraw rozwoju wsi Komisji Europejskiej.
+
+3. Minister właściwy do spraw rozwoju wsi współpracuje z Komisją Europejską w zakresie oceny przekazanego jej projektu zmiany planu strategicznego dla wspólnej polityki rolnej.
+
+4. Zmiana planu strategicznego dla wspólnej polityki rolnej po:
+
+- **1)** zatwierdzeniu przez Komisję Europejską tej zmiany – w przypadku, o którym mowa w art. 119 ust. 4 rozporządzenia 2021/2115,
+- **2)** poinformowaniu Komisji Europejskiej o tej zmianie – w przypadku, o którym mowa w art. 119 ust. 9 rozporządzenia 2021/2115 – jest przekazywana przez ministra właściwego do spraw rozwoju wsi do wiadomości członkom Rady Ministrów.
+
+5. Rada Ministrów może, w drodze uchwały, upoważnić ministra właściwego do spraw rozwoju wsi do przyjmowania projektów zmian planu strategicznego dla wspólnej polityki rolnej w zakresie, o którym mowa w art. 119 ust. 9 lub 12 rozporządzenia 2021/2115. Art. 14kd. Minister właściwy do spraw rozwoju wsi:
+
+- **1)** podaje do publicznej wiadomości na swojej stronie podmiotowej w Biuletynie Informacji Publicznej program rozwoju obszarów wiejskich i plan strategiczny dla wspólnej polityki rolnej oraz ich zmiany;
+- **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o: Art. 14ke. 1. Projekt zmiany programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Morskiego i Rybackiego oraz Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury opracowuje minister właściwy do spraw rybołówstwa, po zasięgnięciu opinii komitetu monitorującego odpowiedzialnego za monitorowanie wdrażania i realizacji tego programu.
+    - **a)** zatwierdzeniu przez Komisję Europejską programu rozwoju obszarów wiejskich i planu strategicznego dla wspólnej polityki rolnej oraz ich zmian, jeżeli wymagały zatwierdzenia przez Komisję Europejską,
+    - **b)** adresie strony internetowej, na której zostały zamieszczone program rozwoju obszarów wiejskich i plan strategiczny dla wspólnej polityki rolnej oraz ich zmiany.
+
+2. Projekt zmiany programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Morskiego i Rybackiego oraz Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, po uzyskaniu opinii, o której mowa w art. 14g ust. 1 pkt 4, jest przyjmowany przez Radę Ministrów w drodze uchwały, a następnie jest przekazywany przez ministra właściwego do spraw rybołówstwa Komisji Europejskiej.
+
+3. Zmiana programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Morskiego i Rybackiego oraz Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury po jej zatwierdzeniu przez Komisję Europejską jest przekazywana przez ministra właściwego do spraw rybołówstwa do wiadomości członkom Rady Ministrów. Art. 14kf. Minister właściwy do spraw rybołówstwa:
+
+- **1)** podaje do publicznej wiadomości na swojej stronie podmiotowej w Biuletynie Informacji Publicznej program realizowany z wykorzystaniem środków z Europejskiego Funduszu Morskiego i Rybackiego i program realizowany z wykorzystaniem środków z Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury oraz ich zmiany;
+- **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o: Art. 14kg. Projekt zmiany programu realizowanego z wykorzystaniem środków funduszy wspierających sprawy wewnętrzne opracowuje minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii komitetu monitorującego odpowiedzialnego za monitorowanie wdrażania i realizacji tego programu. Art. 14kh. 1. Projekt zmiany programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej opracowuje minister właściwy do spraw zabezpieczenia społecznego, po zasięgnięciu opinii komitetu monitorującego odpowiedzialnego za monitorowanie wdrażania i realizacji tego programu, o ile taki komitet został powołany.
+    - **a)** zatwierdzeniu przez Komisję Europejską programu realizowanego z wykorzystaniem środków z Europejskiego Funduszu Morskiego i Rybackiego i programu realizowanego z wykorzystaniem środków z Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury oraz ich zmian,
+    - **b)** adresie strony internetowej, na której zostały zamieszczone program realizowany z wykorzystaniem środków z Europejskiego Funduszu Morskiego i Rybackiego i program realizowany z wykorzystaniem środków z Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury oraz ich zmiany.
+
+2. Projekt zmiany programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej, po uzyskaniu opinii, o której mowa w art. 14g ust. 1 pkt 4, jest przyjmowany przez Radę Ministrów w drodze uchwały, a następnie jest przekazywany przez ministra właściwego do spraw zabezpieczenia społecznego Komisji Europejskiej.
+
+3. Zmiana programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej, odpowiednio po zatwierdzeniu przez Komisję Europejską albo po poinformowaniu Komisji Europejskiej, jest przekazywana przez ministra właściwego do spraw zabezpieczenia społecznego do wiadomości członkom Rady Ministrów.
+
+4. Rada Ministrów może, w drodze uchwały, upoważnić ministra właściwego do spraw zabezpieczenia społecznego do przyjmowania zmian programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej w zakresie zmian o typograficznym lub redakcyjnym charakterze. Art. 14ki. Minister właściwy do spraw zabezpieczenia społecznego:
+
+- **1)** podaje do publicznej wiadomości na swojej stronie podmiotowej w Biuletynie Informacji Publicznej program realizowany z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej oraz jego zmiany;
+- **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o:
+    - **a)** zatwierdzeniu przez Komisję Europejską programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej oraz jego zmian, jeżeli wymagały zatwierdzenia przez Komisję Europejską,
+    - **b)** adresie strony internetowej, na której został zamieszczony program realizowany z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej oraz jego zmiany.
 
 **Art. 14l.**
 
@@ -992,6 +1135,10 @@ Art. 38–50. (pominięte)
 
 **Art. 18.** Projekt programu opracowuje oraz uzgadnia:
 
+- **1)** minister właściwy do spraw rozwoju regionalnego, we współpracy z właściwymi ministrami – w przypadku krajowego programu operacyjnego;
+- **2)** zarząd województwa we współpracy z ministrem właściwym do spraw rozwoju regionalnego – w przypadku regionalnego programu operacyjnego;
+- **3)** właściwy minister, zarząd województwa, zarząd powiatu lub wójt (burmistrz, prezydent miasta) – w przypadku programu rozwoju.
+
 **Art. 19.**
 
 1. Projekt programu rozwoju opracowany przez właściwego ministra jest przedkładany ministrowi właściwemu do spraw rozwoju regionalnego w celu wydania opinii dotyczącej zgodności ze średniookresową strategią rozwoju kraju oraz z zakresem określonym w art. 17 ust. 1.
@@ -1150,6 +1297,11 @@ Art. 38–50. (pominięte)
 
 **Art. 21e.** Polityka publiczna określa w szczególności:
 
+- **1)** wnioski z diagnozy, o której mowa w art. 10a ust. 1, przygotowanej na potrzeby tej polityki, w odniesieniu do dziedziny lub obszaru, którego dotyczy ta polityka;
+- **2)** cele strategiczne w zakresie tej polityki, z uwzględnieniem średniookresowej strategii rozwoju kraju oraz odpowiedniej strategii, o której mowa w art. 9 pkt 3;
+- **3)** kierunki interwencji w zakresie tej polityki, z uwzględnieniem średniookresowej strategii rozwoju kraju oraz odpowiedniej strategii, o której mowa w art. 9 pkt 3;
+- **4)** zasady realizacji tej polityki.
+
 **Art. 21f.**
 
 1. Właściwy minister opracowuje politykę publiczną w uzgodnieniu z członkami Rady Ministrów.
@@ -1198,6 +1350,16 @@ Art. 38–50. (pominięte)
 4. Szczegółowe przeznaczenie, warunki i tryb udzielania pomocy, o której mowa w ust. 1, nieobjętej przepisami, o których mowa w ust. 3, lub innymi przepisami określa akt będący podstawą jej udzielenia.
 
 **Art. 24c.** Podmiot zarządzający przekazuje środki pochodzące z wkładu finansowego z pobrexitowej rezerwy dostosowawczej na rzecz ostatecznych odbiorców na podstawie umowy określającej w szczególności:
+
+- **1)** zakres zadań, na realizację których przyznano środki, i termin ich realizacji;
+- **2)** wysokość przyznanych środków;
+- **3)** zobowiązanie do przechowywania dokumentów niezbędnych do przeprowadzenia kontroli przez okres wskazany w umowie;
+- **4)** zobowiązanie do poddania się kontroli i tryb kontroli realizacji przedsięwzięcia;
+- **5)** zobowiązanie do poddania się audytowi;
+- **6)** termin i sposób rozliczenia przekazanych środków;
+- **7)** formy zabezpieczeń należytego wykonania zobowiązań wynikających z umowy;
+- **8)** warunki rozwiązania umowy ze względu na nieprawidłowości występujące w trakcie jej realizacji;
+- **9)** warunki i terminy zwrotu środków, w tym środków nieprawidłowo wykorzystanych lub pobranych w nadmiernej wysokości lub w sposób nienależny.
 
 **Art. 24d.**
 
@@ -1291,6 +1453,9 @@ Art. 38–50. (pominięte)
 #### Rozdział 5 Realizacja programów operacyjnych
 
 **Art. 25.** Za prawidłową realizację programu odpowiada:
+
+- **1)** w przypadku programu operacyjnego – instytucja zarządzająca, którą jest odpowiednio minister właściwy do spraw rozwoju regionalnego lub zarząd województwa;
+- **2)** w przypadku programu rozwoju – odpowiednio właściwy minister, zarząd województwa, zarząd powiatu, wójt (burmistrz, prezydent miasta), organ wykonawczy związku metropolitalnego, związku międzygminnego lub stowarzyszenia.
 
 **Art. 26.**
 
@@ -1537,6 +1702,9 @@ Art. 38–50. (pominięte)
 
 **Art. 30i.** W przypadku gdy na jakimkolwiek etapie postępowania w zakresie procedury odwoławczej, alokacja na realizację działania lub priorytetu, o której mowa w art. 30a ust. 1 pkt 2, zostanie wyczerpana:
 
+- **1)** właściwa instytucja zarządzająca pozostawia protest bez rozpatrzenia, informując o tym na piśmie wnioskodawcę, pouczając jednocześnie o możliwości wniesienia skargi do wojewódzkiego sądu administracyjnego na zasadach określonych w art. 30c;
+- **2)** sąd, uwzględniając skargę stwierdza tylko, że ocena projektu została przeprowadzona w sposób naruszający prawo i nie przekazuje sprawy do ponownego rozpatrzenia.
+
 **Art. 31.**
 
 1. W celu zapewnienia rzetelnej i bezstronnej oceny projektów w procesie wyboru projektów do dofinansowania mogą uczestniczyć eksperci posiadający specjalistyczną wiedzę lub umiejętności z poszczególnych dziedzin objętych programem operacyjnym.
@@ -1766,6 +1934,9 @@ Art. 38–50. (pominięte)
 **Art. 50b.** Przepisy wykonawcze wydane na podstawie art. 3c ust. 2 stosuje się do dnia 31 grudnia 2026 r.
 
 **Art. 50c.** W 2026 r. w zakresie kwoty pożyczki, o której mowa w art. 6 ust. 1 lit. b rozporządzenia 2021/241, niewypłaconej przez Komisję Europejską finansowanie:
+
+- **1)** inwestycji w złotych, o którym mowa w art. 14ll ust. 7 pkt 1, nie może przekroczyć kwoty stanowiącej równowartość niewypłaconej kwoty pożyczki przeznaczonej na finansowanie inwestycji w złotych,
+- **2)** inwestycji w euro, o którym mowa w art. 14ll ust. 7 pkt 2, nie może przekroczyć kwoty stanowiącej równowartość niewypłaconej kwoty pożyczki przeznaczonej na finansowanie inwestycji w euro – zgodnie z porozumieniami, o których mowa w art. 14le ust. 2 pkt 2.
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

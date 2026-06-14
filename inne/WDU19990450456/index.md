@@ -8,7 +8,7 @@ pos: 456
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie szczegółowego trybu postępowania Komisji Regulacyjnej do Spraw Polskiego Autokefalicznego Kościoła Prawosławnego.
@@ -25,6 +25,7 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990450456) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/456/text.pdf) |
 
 Na podstawie art. 48a ust. 3 ustawy z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz.U. Nr 66, poz. 287 i Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756), w porozumieniu z Prawosławnym Metropolitą Warszawskim i Całej Polski, zarządza się, co następuje:
+§ 1.
 Rozporządzenie określa szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji Regulacyjnej do Spraw Polskiego Autokefalicznego Kościoła Prawosławnego, zwanej dalej „Komisją”, i jej personelu pomocniczego.
 § 2.
 1. Komisja przeprowadza w sposób przewidziany w art. 47 i art. 48a ust. 1, 2, 4-6 i 8-11 ustawy z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz.U. Nr 66, poz. 287 i Nr 95, poz. 425, z 1993 r. Nr 7, poz.
@@ -38,6 +39,7 @@ Rozporządzenie określa szczegółowy tryb postępowania regulacyjnego oraz wyn
 2. Komisja może orzekać na posiedzeniach wyjazdowych.
 § 4.
 Obsługę kancelaryjno-biurową Komisji zapewnia Ministerstwo Spraw Wewnętrznych i Administracji.
+§ 5.
 1. Postępowanie regulacyjne, o którym mowa w art. 48a ustawy, zwane dalej „postępowaniem regulacyjnym”, wszczyna się na wniosek zainteresowanej kościelnej osoby prawnej.
 2. Uczestnikiem postępowania regulacyjnego może być kościelna osoba prawna lub jednostka państwowa albo samorządu terytorialnego, której interesu prawnego dotyczy to postępowanie.
 3. Zainteresowaną jednostkę państwową jest jednostka uprawniona do dysponowania nieruchomościami Skarbu Państwa oraz jednostka państwowa, w której władaniu znajduje się nieruchomość lub jej część będąca przedmiotem postępowania.
@@ -102,6 +104,7 @@ W zakresie orzeczeń i ugód, o których mowa w § 20, ma zastosowanie art. 48a 
 1 Klauzulę wykonalności nadają współprzewodniczący Komisji, opatrując ją okrągłą pieczęcią Ministerstwa Spraw Wewnętrznych i Administracji.
 2. W zakresie ustalania kosztów postępowania regulacyjnego stosuje się odpowiednio art.
 262 Kpa, z tym że uczestnika postępowania obciążają te koszty postępowania poniesione w jego interesie lub na jego żądanie, które nie wynikają z ustawowego obowiązku organów administracji rządowej lub jednostki samorządu terytorialnego.
+§ 23.
 1. Członkowie Komisji otrzymują wynagrodzenie w formie zryczałtowanej diety w wysokości:
 1) współprzewodniczący Komisji – 70% wynagrodzenia prezesa Naczelnego Sądu Administracyjnego,
 2) pozostali członkowie Komisji – 70% wynagrodzenia sędziego Naczelnego Sądu Administracyjnego.
@@ -112,13 +115,14 @@ W zakresie orzeczeń i ugód, o których mowa w § 20, ma zastosowanie art. 48a 
 § 24.
 1. Jeżeli członek Komisji lub jej personelu pomocniczego jest jednocześnie członkiem komisji majątkowej lub komisji regulacyjnej działającej na podstawie ustawy o stosunku państwa do innego kościoła lub związku wyznaniowego albo członkiem personelu pomocniczego takiej komisji, otrzymuje, z zastrzeżeniem ust. 2, wynagrodzenie w wysokości 10% zryczałtowanej diety, o której mowa w § 23.
 2. W przypadku pełnienia przez tę sama osobę różnych funkcji w komisjach, o których mowa w ust. 1, przysługuje jej prawo wskazania komisji, z tytułu udziałów w której otrzymywać będzie wynagrodzenie w pełnej wysokości.
+§ 25.
 Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 
-#### Rozdział 1 Przepisy ogólne § 1.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Postępowanie regulacyjne § 5.
+#### Rozdział 2 Postępowanie regulacyjne
 
-#### Rozdział 3 Wynagrodzenie członków Komisji i personelu pomocniczego § 23.
+#### Rozdział 3 Wynagrodzenie członków Komisji i personelu pomocniczego
 
-#### Rozdział 4 Przepis końcowy § 25.
+#### Rozdział 4 Przepis końcowy
 

@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wolności sporządzona w Rzymie dnia 4 listopada 1950 r., zmieniona następnie Protokołami nr 3, 5 i 8 oraz uzupełniona Protokołem nr 2.*
 
-Łącznie: **2535** orzeczeń
-(pominięto 613 orzeczeń sądów rejonowych)
+Łącznie: **2541** orzeczeń
+(pominięto 618 orzeczeń sądów rejonowych)
 
 ## art. 0 (1)
 
@@ -77,7 +77,7 @@ Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wo
 - 2022-03-01 | SO | [VIII U 2579/21](https://www.saos.org.pl/judgments/461246) | Zarządzenie
 - 2021-02-04 | SO | [VIII U 2373/20](https://www.saos.org.pl/judgments/431876) | Zarządzenie
 
-## art. 3 (99)
+## art. 3 (100)
 
 - 2015-03-31 | TK | [U 6/14](https://www.saos.org.pl/judgments/207132) | Wyrok ★
 - 2013-03-26 | TK | [K 11/12](https://www.saos.org.pl/judgments/111576) | Wyrok ★
@@ -103,6 +103,7 @@ Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wo
 - 2007-02-28 | SN | [V CSK 431/06](https://www.saos.org.pl/judgments/85339) | Wyrok ★
 - 2013-12-12 | SN | [SND 1/13](https://www.saos.org.pl/judgments/103906) | Postanowienie
 - 2013-04-17 | SN | [IV KK 39/13](https://www.saos.org.pl/judgments/101502) | Postanowienie
+- 2024-10-11 | SO | [V ACa 1822/23](https://www.saos.org.pl/judgments/545715) | Wyrok
 - 2024-04-24 | SO | [I ACa 3044/23](https://www.saos.org.pl/judgments/522373) | Wyrok
 - 2022-06-21 | SO | [I ACa 303/21](https://www.saos.org.pl/judgments/471980) | Wyrok
 - 2022-01-28 | SO | [V ACa 363/21](https://www.saos.org.pl/judgments/466596) | Wyrok
@@ -1090,7 +1091,7 @@ Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wo
 - 2022-03-01 | SO | [VIII U 2579/21](https://www.saos.org.pl/judgments/461246) | Zarządzenie
 - 2021-02-04 | SO | [VIII U 2373/20](https://www.saos.org.pl/judgments/431876) | Zarządzenie
 
-## art. 10 (148)
+## art. 10 (150)
 
 - 2015-11-04 | TK | [K 1/14](https://www.saos.org.pl/judgments/206657) | Wyrok ★
 - 2015-10-06 | TK | [SK 54/13](https://www.saos.org.pl/judgments/206803) | Wyrok ★
@@ -1154,6 +1155,8 @@ Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wo
 - 2006-06-06 | SN | [IV KK 87/06](https://www.saos.org.pl/judgments/84377) | Postanowienie
 - 2005-10-14 | SN | [III CZP 67/05](https://www.saos.org.pl/judgments/163601) | Postanowienie
 - 2004-06-22 | SN | [V KK 70/04](https://www.saos.org.pl/judgments/82747) | Postanowienie
+- 2025-10-15 | SO | [I ACa 936/23](https://www.saos.org.pl/judgments/544997) | Wyrok
+- 2025-10-09 | SO | [I ACa 1260/22](https://www.saos.org.pl/judgments/545133) | Wyrok
 - 2023-11-27 | SO | [III AUa 1754/21](https://www.saos.org.pl/judgments/504822) | Wyrok
 - 2023-07-12 | SO | [III AUa 1138/21](https://www.saos.org.pl/judgments/504684) | Wyrok
 - 2023-04-26 | SO | [III AUa 1835/21](https://www.saos.org.pl/judgments/491587) | Wyrok
@@ -1240,6 +1243,11 @@ Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wo
 - 2020-09-18 | SO | [IV K 74/20](https://www.saos.org.pl/judgments/420618) | Uzasadnienie
 - 2015-08-21 | SO | [II K 67/15](https://www.saos.org.pl/judgments/177071) | Uzasadnienie
 - 2014-10-30 | SO | [III Ca 566/14](https://www.saos.org.pl/judgments/74447) | Uzasadnienie
+
+## art. 10 § 2 (2)
+
+- 2025-10-15 | SO | [I ACa 936/23](https://www.saos.org.pl/judgments/544997) | Wyrok
+- 2025-10-09 | SO | [I ACa 1260/22](https://www.saos.org.pl/judgments/545133) | Wyrok
 
 ## art. 11 (20)
 
@@ -1981,8 +1989,10 @@ Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wo
 
 - 2014-11-26 | SN | [III CSK 307/13](https://www.saos.org.pl/judgments/167537) | Wyrok ★
 
-## (ogólnie) (1399)
+## (ogólnie) (1402)
 
+- 2026-04-01 | SO | [II AKa 403/24](https://www.saos.org.pl/judgments/546819) | Wyrok
+- 2025-11-19 | SO | [III AUa 497/25](https://www.saos.org.pl/judgments/545510) | Wyrok
 - 2025-06-11 | SO | [III AUa 1019/24](https://www.saos.org.pl/judgments/540480) | Wyrok
 - 2025-04-17 | SO | [III AUa 66/25](https://www.saos.org.pl/judgments/538427) | Wyrok
 - 2025-03-31 | SO | [III AUa 376/24](https://www.saos.org.pl/judgments/531778) | Wyrok
@@ -2727,6 +2737,7 @@ Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wo
 - 2013-08-28 | SO | [II Ca 708/13](https://www.saos.org.pl/judgments/378046) | Wyrok
 - 2013-02-06 | SO | [V U 1440/12](https://www.saos.org.pl/judgments/4943) | Wyrok
 - 2013-01-15 | SO | [IV U 2568/12](https://www.saos.org.pl/judgments/6489) | Wyrok
+- 2025-11-06 | SO | [II Ca 2109/24](https://www.saos.org.pl/judgments/545030) | Postanowienie
 - 2024-11-22 | SO | [II Ca 1404/23](https://www.saos.org.pl/judgments/535711) | Postanowienie
 - 2024-10-18 | SO | [I Ns 517/23](https://www.saos.org.pl/judgments/517742) | Postanowienie
 - 2024-06-04 | SO | [II Ca 966/22](https://www.saos.org.pl/judgments/533030) | Postanowienie

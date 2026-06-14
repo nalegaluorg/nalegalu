@@ -8,7 +8,7 @@ pos: 441
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # zmieniająca ustawę o zmianie ustawy o odpadach oraz o zmianie niektórych innych ustaw

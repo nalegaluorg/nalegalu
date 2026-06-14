@@ -2,10 +2,10 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego.*
 
-Łącznie: **883** orzeczeń
-(pominięto 233 orzeczeń sądów rejonowych)
+Łącznie: **890** orzeczeń
+(pominięto 234 orzeczeń sądów rejonowych)
 
-## art. 1 (111)
+## art. 1 (112)
 
 - 2012-07-26 | TK | [P 8/11](https://www.saos.org.pl/judgments/110936) | Wyrok ★
 - 2011-03-16 | TK | [K 35/08](https://www.saos.org.pl/judgments/110287) | Wyrok ★
@@ -41,6 +41,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 lutego 1991 r. o uznaniu za nieważne
 - 2010-03-04 | SN | [V KK 230/09](https://www.saos.org.pl/judgments/92003) | Postanowienie
 - 2003-12-11 | SN | [IV KK 46/03](https://www.saos.org.pl/judgments/82398) | Postanowienie
 - 2002-09-05 | SN | [IV KK 235/02](https://www.saos.org.pl/judgments/81548) | Postanowienie
+- 2026-04-30 | SO | [II AKa 10/26](https://www.saos.org.pl/judgments/546818) | Wyrok
 - 2025-05-30 | SO | [II AKa 83/25](https://www.saos.org.pl/judgments/532932) | Wyrok
 - 2025-03-12 | SO | [II AKa 16/25](https://www.saos.org.pl/judgments/532727) | Wyrok
 - 2022-10-06 | SO | [II AKa 178/22](https://www.saos.org.pl/judgments/500574) | Wyrok
@@ -174,11 +175,12 @@ Orzeczenia powołujące: *Ustawa z dnia 23 lutego 1991 r. o uznaniu za nieważne
 
 - 2000-05-11 | SO | [II AKa 100/00](https://www.saos.org.pl/judgments/137294) | Wyrok
 
-## art. 4 (5)
+## art. 4 (6)
 
 - 1998-04-21 | TK | [Ts 40/98](https://www.saos.org.pl/judgments/205854) | Postanowienie ★
 - 2014-03-18 | SN | [IV KK 421/13](https://www.saos.org.pl/judgments/104762) | Postanowienie
 - 2014-03-07 | SN | [IV CSK 437/13](https://www.saos.org.pl/judgments/104626) | Postanowienie
+- 2026-04-30 | SO | [II AKa 10/26](https://www.saos.org.pl/judgments/546818) | Wyrok
 - 2023-08-25 | SO | [III Ko 476/23](https://www.saos.org.pl/judgments/507135) | Wyrok
 - 2018-02-09 | SO | [VIII U 2077/16](https://www.saos.org.pl/judgments/329136) | Zarządzenie
 
@@ -198,7 +200,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 lutego 1991 r. o uznaniu za nieważne
 
 - 2016-02-03 | SO | [II AKa 439/15](https://www.saos.org.pl/judgments/221887) | Wyrok
 
-## art. 8 (644)
+## art. 8 (650)
 
 - 1996-04-30 | TK | [W 18/95](https://www.saos.org.pl/judgments/205733) | Uchwała ★
 - 2012-10-23 | TK | [SK 11/12](https://www.saos.org.pl/judgments/110986) | Wyrok ★
@@ -259,11 +261,16 @@ Orzeczenia powołujące: *Ustawa z dnia 23 lutego 1991 r. o uznaniu za nieważne
 - 2009-01-29 | SN | [WZ 75/08](https://www.saos.org.pl/judgments/89590) | Postanowienie
 - 2008-09-16 | SN | [WZ 55/08](https://www.saos.org.pl/judgments/88730) | Postanowienie
 - 2003-12-11 | SN | [IV KK 46/03](https://www.saos.org.pl/judgments/82398) | Postanowienie
+- 2026-04-30 | SO | [II AKa 10/26](https://www.saos.org.pl/judgments/546818) | Wyrok
+- 2026-04-28 | SO | [II AKa 56/26](https://www.saos.org.pl/judgments/546843) | Wyrok
+- 2026-02-11 | SO | [II AKa 145/25](https://www.saos.org.pl/judgments/545373) | Wyrok
 - 2025-09-22 | SO | [II AKa 93/25](https://www.saos.org.pl/judgments/544375) | Wyrok
 - 2025-09-11 | SO | [II AKa 163/25](https://www.saos.org.pl/judgments/538343) | Wyrok
 - 2025-06-26 | SO | [II AKa 187/25](https://www.saos.org.pl/judgments/544064) | Wyrok
+- 2025-06-18 | SO | [II AKa 142/25](https://www.saos.org.pl/judgments/545748) | Wyrok
 - 2025-06-12 | SO | [II AKa 150/25](https://www.saos.org.pl/judgments/544063) | Wyrok
 - 2025-06-12 | SO | [II AKa 131/25](https://www.saos.org.pl/judgments/531978) | Wyrok
+- 2025-06-11 | SO | [II AKa 109/25](https://www.saos.org.pl/judgments/545746) | Wyrok
 - 2025-06-04 | SO | [II AKa 145/25](https://www.saos.org.pl/judgments/543168) | Wyrok
 - 2025-05-30 | SO | [II AKa 83/25](https://www.saos.org.pl/judgments/532932) | Wyrok
 - 2025-05-29 | SO | [II AKa 268/24](https://www.saos.org.pl/judgments/531102) | Wyrok
@@ -678,6 +685,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 lutego 1991 r. o uznaniu za nieważne
 - 2012-09-19 | SO | [II AKz 366/12](https://www.saos.org.pl/judgments/136431) | Postanowienie
 - 2026-02-19 | SO | [II AKa 279/25](https://www.saos.org.pl/judgments/544235) | Uzasadnienie
 - 2025-11-14 | SO | [II AKa 246/25](https://www.saos.org.pl/judgments/538357) | Uzasadnienie
+- 2025-07-09 | SO | [II AKa 209/25](https://www.saos.org.pl/judgments/545756) | Uzasadnienie
 - 2025-06-26 | SO | [II AKa 102/25](https://www.saos.org.pl/judgments/537542) | Uzasadnienie
 - 2025-01-30 | SO | [II AKa 223/24](https://www.saos.org.pl/judgments/539178) | Uzasadnienie
 - 2025-01-28 | SO | [II AKa 248/24](https://www.saos.org.pl/judgments/539182) | Uzasadnienie
@@ -1047,7 +1055,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 lutego 1991 r. o uznaniu za nieważne
 - 2014-10-07 | SN | [V KK 220/14](https://www.saos.org.pl/judgments/167000) | Postanowienie
 - 2015-05-07 | SO | [II AKa 69/15](https://www.saos.org.pl/judgments/170451) | Wyrok
 
-## art. 13 (327)
+## art. 13 (329)
 
 - 2012-07-03 | TK | [Ts 231/11](https://www.saos.org.pl/judgments/111367) | Postanowienie ★
 - 2016-02-18 | SN | [IV KK 333/15](https://www.saos.org.pl/judgments/244621) | Wyrok ★
@@ -1058,7 +1066,9 @@ Orzeczenia powołujące: *Ustawa z dnia 23 lutego 1991 r. o uznaniu za nieważne
 - 2012-12-13 | SN | [IV KK 305/12](https://www.saos.org.pl/judgments/100124) | Postanowienie
 - 2011-08-03 | SN | [III KZ 52/11](https://www.saos.org.pl/judgments/95572) | Postanowienie
 - 2011-02-18 | SN | [II KK 289/10](https://www.saos.org.pl/judgments/94237) | Postanowienie
+- 2026-04-28 | SO | [II AKa 56/26](https://www.saos.org.pl/judgments/546843) | Wyrok
 - 2025-09-22 | SO | [II AKa 93/25](https://www.saos.org.pl/judgments/544375) | Wyrok
+- 2025-09-11 | SO | [II AKa 183/25](https://www.saos.org.pl/judgments/546709) | Wyrok
 - 2025-06-04 | SO | [II AKa 145/25](https://www.saos.org.pl/judgments/543168) | Wyrok
 - 2025-04-10 | SO | [II AKa 57/25](https://www.saos.org.pl/judgments/538626) | Wyrok
 - 2025-02-26 | SO | [II AKa 453/24](https://www.saos.org.pl/judgments/532931) | Wyrok

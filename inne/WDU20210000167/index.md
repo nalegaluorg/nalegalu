@@ -8,10 +8,10 @@ pos: 167
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 stycznia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 167 ROZPORZĄDZENIE MINISTRA KULTURY, DZIEDZICTWA NARODOWEGO I SPORTU z dnia 29 grudnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-09-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000167) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/167/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA KULTURY, DZIEDZICTWA NARODOWEGO I SPORTU z dnia 29 grudnia 2020 r.
 w sprawie odznaki honorowej „Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina” Na podstawie art. 6 ust. 11 ustawy z dnia 3 lutego 2001 r. o ochronie dziedzictwa Fryderyka Chopina (Dz. U. z 2020 r.
-poz. 115) zarządza się, co następuje: § 1. Rozporządzenie określa wzór i tryb rozpatrywania wniosku o nadanie odznaki honorowej „Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina”, zwanego dalej „wnioskiem”, sposób wręczenia odznaki honorowej „Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina”, zwanej dalej „Odznaką”, i noszenia miniatury Odznaki, tryb działania komisji do spraw opiniowania wniosków, zwanej dalej „komisją”, wzór Odznaki i jej miniatury, wzór legitymacji potwierdzającej nadanie Odznaki, sposób postępowania w przypadku zagubienia albo zniszczenia Odznaki lub legitymacji potwierdzającej nadanie Odznaki, w tym wydawania ich duplikatu.
+poz. 115) zarządza się, co następuje:
+§ 1. Rozporządzenie określa wzór i tryb rozpatrywania wniosku o nadanie odznaki honorowej „Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina”, zwanego dalej „wnioskiem”, sposób wręczenia odznaki honorowej „Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina”, zwanej dalej „Odznaką”, i noszenia miniatury Odznaki, tryb działania komisji do spraw opiniowania wniosków, zwanej dalej „komisją”, wzór Odznaki i jej miniatury, wzór legitymacji potwierdzającej nadanie Odznaki, sposób postępowania w przypadku zagubienia albo zniszczenia Odznaki lub legitymacji potwierdzającej nadanie Odznaki, w tym wydawania ich duplikatu.
 § 2. Wzór wniosku określa załącznik nr 1 do rozporządzenia.
 § 3. 1. Wniosek składa się do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „Ministrem”, w formie pisemnej albo za pomocą środków komunikacji elektronicznej na elektroniczną skrzynkę podawczą Ministra utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568, 695, 1517 i 2320).
 2. W przypadku stwierdzenia braków formalnych Minister wzywa wnioskodawcę do ich usunięcia we wskazanym terminie, nie krótszym niż 7 dni.
@@ -47,5 +47,5 @@ poz. 115) zarządza się, co następuje: § 1. Rozporządzenie określa wzór i 
 5. Wzór legitymacji potwierdzającej nadanie Odznaki określa załącznik nr 4 do rozporządzenia.
 § 7. W przypadku zagubienia albo zniszczenia Odznaki lub legitymacji, na wniosek osoby fizycznej albo jednostki organizacyjnej, którym nadano Odznakę, a w przypadku osoby fizycznej również na wniosek członka jej rodziny, Minister wydaje duplikat Odznaki lub legitymacji potwierdzającej nadanie Odznaki za zwrotem kosztów.
 § 8. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński WZÓR 21 cm 16,8 cm WZÓR ODZNAKI HONOROWEJ „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” awers rewers 21 cm 16,8 cm 20 mm WZÓR MINIATURy ODZNAKI HONOROWEJ „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina Zasłużony dla Ochrony Okładka WZÓR lEGITyMACJI „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA”
+Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński WZÓR WZÓR ODZNAKI HONOROWEJ „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” awers rewers 21 cm 16,8 cm 21 cm 16,8 cm WZÓR MINIATURy ODZNAKI HONOROWEJ „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” 20 mm WZÓR lEGITyMACJI „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” Okładka Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina Zasłużony dla Ochrony [Wpisz tutaj]
 

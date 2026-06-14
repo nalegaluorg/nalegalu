@@ -8,7 +8,7 @@ pos: 335
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Inspekcji Ochrony Środowiska
@@ -119,6 +119,9 @@ source: "isap-pdf"
 #### Rozdział 2 Organy Inspekcji Ochrony Środowiska
 
 **Art. 3.** Organami Inspekcji Ochrony Środowiska są:
+
+- **1)** Główny Inspektor Ochrony Środowiska;
+- **2)** wojewódzki inspektor ochrony środowiska jako organ rządowej administracji zespolonej w województwie.
 
 **Art. 3a.** Główny Inspektor Ochrony Środowiska jest centralnym organem administracji rządowej nadzorowanym przez ministra właściwego do spraw klimatu.
 
@@ -824,6 +827,11 @@ source: "isap-pdf"
 #### Rozdział 5 Wykonywanie zadań w zakresie poważnych awarii
 
 **Art. 29.** W zakresie przeciwdziałania poważnym awariom do Inspekcji Ochrony Środowiska należy:
+
+- **1)** kontrola podmiotów, których działalność może stanowić przyczynę powstania poważnej awarii;
+- **2)** (uchylony)
+- **3)** badanie przyczyn powstawania oraz sposobów likwidacji skutków poważnych awarii dla środowiska;
+- **4)** prowadzenie rejestru zakładów, których działalność może być przyczyną wystąpienia poważnej awarii, w tym zakładów o zwiększonym ryzyku i zakładów o dużym ryzyku.
 
 **Art. 30.** Inspekcja Ochrony Środowiska współdziała w zwalczaniu poważnej awarii z organami właściwymi do jej zwalczania oraz sprawuje nadzór nad usuwaniem skutków tej awarii.
 

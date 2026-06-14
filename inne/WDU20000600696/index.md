@@ -8,7 +8,7 @@ pos: 696
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o nadaniu Wyższej Szkole Pedagogicznej im. Jana Kochanowskiego w Kielcach nazwy „Akademia Świętokrzyska im. Jana Kochanowskiego w Kielcach”

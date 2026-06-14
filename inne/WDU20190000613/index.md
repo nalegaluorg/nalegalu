@@ -8,10 +8,10 @@ pos: 613
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 kwietnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 613 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 21 marca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/613/text.pdf) |
 
-Poz. 613 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 21 marca 2019 r.
 w sprawie opłaty za prowadzenie Ewidencji Pracowniczych Planów Kapitałowych oraz realizację obowiązków, o których mowa w art. 8 ust. 4 i 5 ustawy o pracowniczych planach kapitałowych Na podstawie art. 67 ust. 3 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U.
-poz. 2215) zarządza się, co następuje: § 1. Rozporządzenie określa terminy uiszczania oraz wysokość i sposób obliczania opłaty miesięcznej za prowadzenie Ewidencji Pracowniczych Planów Kapitałowych oraz realizację obowiązków, o których mowa w art. 8 ust. 4 i 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, zwanej dalej „opłatą”.
+poz. 2215) zarządza się, co następuje:
+§ 1. Rozporządzenie określa terminy uiszczania oraz wysokość i sposób obliczania opłaty miesięcznej za prowadzenie Ewidencji Pracowniczych Planów Kapitałowych oraz realizację obowiązków, o których mowa w art. 8 ust. 4 i 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, zwanej dalej „opłatą”.
 § 2. Wysokość opłaty wynosi 0,01% w skali roku łącznej wartości aktywów netto wszystkich funduszy zdefiniowanej daty zarządzanych przez wybraną instytucję finansową na ostatni dzień miesiąca, za który należna jest opłata.
 § 3. Opłata jest uiszczana do 10. dnia miesiąca następującego po miesiącu, za który należna jest opłata.
 § 4. W okresie do dnia 30 czerwca 2022 r. wysokość opłaty oblicza się jako iloczyn kwoty 0,18 zł i liczby rachunków PPK prowadzonych przez wybraną instytucję finansową na ostatni dzień miesiąca, za który należna jest opłata. Przepis § 3 stosuje się.

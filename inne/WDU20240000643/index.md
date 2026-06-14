@@ -8,12 +8,10 @@ pos: 643
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # w sprawie ogłoszenia jednolitego tekstu ustawy o przewozie towarów niebezpiecznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -27,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000643) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/643/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2022 r. poz. 2147), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 maja 2023 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1123) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 i art. 22 ustawy z dnia 26 maja 2023 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1123), które stanowią: „Art. 19. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 31 ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 31 ustawy zmienianej w art. 6, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.” „Art. 22. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2022 r. poz. 2147), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 maja 2023 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1123) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2024 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 i art. 22 ustawy z dnia 26 maja 2023 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1123), które stanowią: „Art. 19. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 31 ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 31 ustawy zmienianej w art. 6, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.” „Art. 22. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 1) art. 2 pkt 1‒5, pkt 6 w zakresie art. 27e ust. 1 pkt 1 i 3 i ust. 2–11, oraz pkt 9‒13, art. 5 pkt 16, art. 10 oraz art. 13–15, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
 2) art. 2 pkt 6 w zakresie art. 27e ust. 1 pkt 2 i pkt 7, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
 3) art. 1 pkt 9 i 10, art. 2 pkt 8 lit. a, art. 5 pkt 7‒15 oraz pkt 20‒22, które wchodzą w życie w dniu określonym w komunikacie, o którym mowa w art. 18;
@@ -44,6 +42,39 @@ Art. 115–124. (pominięte)
 **Art. 1.** Ustawa określa zasady prowadzenia działalności w zakresie krajowego i międzynarodowego przewozu drogowego, koleją i żeglugą śródlądową towarów niebezpiecznych oraz organy i jednostki realizujące zadania związane z tym przewozem.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** ADR – Umowę europejską dotyczącą międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzoną w Genewie dnia 30 września 1957 r. (Dz. U. z 2023 r. poz. 891), wraz ze zmianami obowiązującymi od dnia ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, ogłoszonymi we właściwy sposób;
+- **2)** RID – Regulamin dla międzynarodowego przewozu kolejami towarów niebezpiecznych (RID), stanowiący załącznik C do Konwencji o międzynarodowym przewozie kolejami (COTIF), sporządzonej w Bernie dnia 9 maja 1980 r. (Dz. U. z 2007 r. poz. 674 i 675, z 2009 r. poz. 1318, z 2011 r. poz. 804 i 805 oraz z 2015 r. poz. 1726), wraz ze zmianami obowiązującymi od dnia ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, ogłoszonymi we właściwy sposób;
+- **3)** ADN – Umowę europejską dotyczącą międzynarodowego przewozu śródlądowymi drogami wodnymi towarów niebezpiecznych (ADN), zawartą w Genewie dnia 26 maja 2000 r. (Dz. U. z 2010 r. poz. 1537 i 1538), wraz ze zmianami obowiązującymi od dnia ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, ogłoszonymi we właściwy sposób;
+- **4)** towar niebezpieczny – materiał lub przedmiot, który zgodnie z ADR, RID lub ADN nie jest dopuszczony, odpowiednio, do przewozu drogowego, przewozu koleją lub przewozu żeglugą śródlądową albo jest dopuszczony do takiego przewozu na warunkach określonych w tych przepisach;
+- **5)** przewóz drogowy towarów niebezpiecznych – każde przemieszczenie towarów niebezpiecznych pojazdem po drodze publicznej lub po innych drogach ogólnodostępnych, z uwzględnieniem postojów wymaganych podczas tego przewozu oraz czynności związanych z tym przewozem;
+- **6)** przewóz koleją towarów niebezpiecznych – każde przemieszczenie towarów niebezpiecznych wagonem, z uwzględnieniem postojów wymaganych podczas tego przewozu oraz czynności związanych z tym przewozem;
+- **7)** przewóz żeglugą śródlądową towarów niebezpiecznych – każde przemieszczenie towarów niebezpiecznych statkiem po wodach śródlądowych, z uwzględnieniem postojów wymaganych podczas tego przewozu oraz czynności związanych z tym przewozem;
+- **8)** uczestnik przewozu towarów niebezpiecznych – podmioty wymienione w ADR, RID lub ADN lub jednostka wojskowa, prowadzące działalność związaną z przewozem towarów niebezpiecznych;
+- **9)** osoba wykonująca czynności związane z przewozem towarów niebezpiecznych – osobę fizyczną zatrudnioną przez uczestnika przewozu towarów niebezpiecznych albo wykonującą czynności na jego rzecz;
+- **10)** zaświadczenie ADR – dokument potwierdzający ukończenie przez kierowcę kursu ADR i złożenie z wynikiem pozytywnym egzaminu dla kierowców wykonujących przewóz drogowy towarów niebezpiecznych;
+- **11)** świadectwo eksperta ADN – dokument potwierdzający ukończenie kursu i złożenie z wynikiem pozytywnym egzaminu kończącego kurs na eksperta ADN;
+- **12)** pojazd – pojazd samochodowy albo zespół pojazdów składający się z pojazdu samochodowego i przyczepy lub naczepy, lub z ciągnika rolniczego i przyczepy, w rozumieniu ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. );
+- **13)** wagon – pojazd kolejowy bez własnego układu napędzającego, który porusza się na własnych kołach po torach kolejowych i jest używany do przewozu towarów;
+- **14)** statek – urządzenie pływające o napędzie mechanicznym lub bez napędu mechanicznego używane do przewozu towarów;
+- **15)** środek transportu – pojazd, wagon lub statek używany do przewozu towarów niebezpiecznych;
+- **16)** urządzenie transportowe – urządzenie umieszczane w środku transportu lub trwale z nim połączone, wykorzystywane do przewozu towaru, w szczególności: cysternę, kontener, kontener do przewozu luzem, wagon-baterię, pojazd-baterię, pojazd MEMU, wieloelementowy kontener do gazu (MEGC), duży pojemnik do przewozu luzem (DPPL);
+- **17)** siły zbrojne – Siły Zbrojne Rzeczypospolitej Polskiej lub siły zbrojne państw obcych przebywające na terytorium Rzeczypospolitej Polskiej oraz członków ich personelu cywilnego, jeżeli pozostają w związku z pełnieniem obowiązków służbowych, o ile umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, nie stanowi inaczej;
+- **18)** ciśnieniowe urządzenia transportowe:
+    - **a)** naczynia ciśnieniowe, w stosownych przypadkach ich zawory i inne wyposażenie, objęte działem 6.2. ADR, RID lub ADN,
+    - **b)** zbiorniki, pojazdy-baterie, wagony-baterie, wieloelementowe kontenery do gazu (MEGC), w stosownych przypadkach ich zawory i inne wyposażenie, objęte działem 6.8 odpowiednio ADR, RID i ADN – jeżeli urządzenia określone w lit. a lub b są używane zgodnie z odpowiednio ADR, RID i ADN w transporcie gazów klasy 2, z wyłączeniem gazów lub przedmiotów mających w kodzie klasyfikacyjnym cyfry 6 i 7, oraz w transporcie niektórych towarów niebezpiecznych innych klas określonych w ustawie. Ciśnieniowe urządzenia transportowe obejmują naboje gazowe (UN 2037), ale nie obejmują aerozoli (UN 1950), otwartych naczyń kriogenicznych, butli do aparatów oddechowych, gaśnic (UN 1044), ciśnieniowych urządzeń transportowych wyłączonych zgodnie z podrozdziałem
+
+1. 1.3.2 odpowiednio ADR, RID i ADN i ciśnieniowych urządzeń transportowych wyłączonych z zakresu stosowania zasad budowy i badań opakowań zgodnie z przepisami szczególnymi działu 3.3 odpowiednio ADR, RID i ADN;
+
+- **19)** udostępnienie na rynku – każde dostarczenie ciśnieniowego urządzenia transportowego w celu jego dystrybucji lub użytkowania na rynku unijnym w ramach działalności handlowej lub działalności użyteczności publicznej odpłatnie lub nieodpłatnie;
+- **20)** użytkowanie – napełnianie, okresowe przechowywanie połączone z przewozem, opróżnianie lub ponowne napełnianie ciśnieniowych urządzeń transportowych;
+- **21)** podmiot uczestniczący w obrocie ciśnieniowymi urządzeniami transportowymi – producenta, upoważnionego przedstawiciela, importera, dystrybutora, właściciela lub użytkownika, prowadzącego działalność gospodarczą lub świadczącego usługi publiczne odpłatnie lub nieodpłatnie;
+- **22)** ocena zgodności – ocenę i procedurę oceny zgodności określona odpowiednio w ADR, RID i ADN;
+- **23)** znak zgodności  – oznakowanie potwierdzające zgodność ciśnieniowego urządzenia transportowego z wymaganiami określonymi odpowiednio w ADR, RID i ADN oraz w przepisach ustawy;
+- **24)** ponowna ocena zgodności – podjętą na wniosek właściciela lub użytkownika procedurę późniejszej oceny zgodności ciśnieniowego urządzenia transportowego;
+- **25)** autoryzacja, dystrybutor, importer, producent, upoważniony przedstawiciel – autoryzację, dystrybutora, importera, producenta, upoważnionego przedstawiciela, w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854);
+- **26)** jednostka kontrolująca – jednostkę oceniającą zgodność, o której mowa w art. 2 pkt 13 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30), i jednocześnie spełniającą wymagania, o których mowa w 1.8.6.8 ADR, RID i ADN;
+- **27)** wprowadzenie do obrotu – udostępnienie wyrobu na rynku po raz pierwszy.
 
 **Art. 3.**
 
@@ -68,7 +99,7 @@ Art. 115–124. (pominięte)
 
 **Art. 6.** Przy przewozie koleją towarów niebezpiecznych do i z państw niebędących stronami Konwencji o międzynarodowym przewozie kolejami (COTIF), sporządzonej w Bernie dnia 9 maja 1980 r., stosuje się przepisy o przewozie koleją towarów niebezpiecznych, ustalone między stronami, pod warunkiem że uczestnicy przewozu zagwarantują poziom bezpieczeństwa zgodny z RID.
 
-**Art. 7.** Statki żeglugi śródlądowej mogą przewozić towary niebezpieczne na wodach morskich, zgodnie z przepisami kodeksu IMDG międzynarodowego morskiego kodeksu towarów niebezpiecznych Międzynarodowej Organizacji Morskiej (IMO), stanowiącego załącznik do Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (SOLAS) (Dz. U. z 2016 r. poz. 869 oraz z 2017 r. poz. 142) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. poz. 320 i 321).
+**Art. 7.** Statki żeglugi śródlądowej mogą przewozić towary niebezpieczne na wodach morskich, zgodnie z przepisami kodeksu IMDG – międzynarodowego morskiego kodeksu towarów niebezpiecznych Międzynarodowej Organizacji Morskiej (IMO), stanowiącego załącznik do Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r. (SOLAS) (Dz. U. z 2016 r. poz. 869 oraz z 2017 r. poz. 142) wraz z Protokołem z 1978 r. dotyczącym Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1984 r. poz. 320 i 321).
 
 **Art. 8.**
 
@@ -78,33 +109,33 @@ Art. 115–124. (pominięte)
 
 - **1)** warunki krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne,
 - **2)** szczegółowe wymagania, jakie powinny spełniać pojazdy oraz urządzenia transportowe i opakowania mające zastosowanie w przewozie towarów niebezpiecznych, o którym mowa w ust. 1,
-- **3)** warunki i tryb wydawania wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, a także wzór i sposób jego wypełniania mając na uwadze konieczność zapewnienia bezpieczeństwa i porządku publicznego oraz potrzebę ujednolicenia sposobu postępowania podmiotów właściwych w tym zakresie.
+- **3)** warunki i tryb wydawania wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, a także wzór i sposób jego wypełniania – mając na uwadze konieczność zapewnienia bezpieczeństwa i porządku publicznego oraz potrzebę ujednolicenia sposobu postępowania podmiotów właściwych w tym zakresie.
 
 **Art. 9.**
 
 1. Jeżeli przepisy odpowiednio ADR, RID lub ADN zobowiązują właściwą władzę lub upoważnione przez nią jednostki do wykonywania odpowiednich czynności administracyjnych, czynności te wykonują:
 
-- **1)** Prezes Urzędu Transportu Kolejowego w sprawach kontroli bezpieczeństwa przewozu koleją towarów niebezpiecznych;
-- **2)** wojewódzki inspektor transportu drogowego w sprawach kontroli bezpieczeństwa przewozu drogowego towarów niebezpiecznych;
-- **3)** dyrektor urzędu żeglugi śródlądowej w sprawach:
+- **1)** Prezes Urzędu Transportu Kolejowego – w sprawach kontroli bezpieczeństwa przewozu koleją towarów niebezpiecznych;
+- **2)** wojewódzki inspektor transportu drogowego – w sprawach kontroli bezpieczeństwa przewozu drogowego towarów niebezpiecznych;
+- **3)** dyrektor urzędu żeglugi śródlądowej – w sprawach:
     - **a)** świadectwa dopuszczenia statku ADN do przewozu niektórych towarów niebezpiecznych, zwanego dalej „świadectwem dopuszczenia statku ADN”, oraz tymczasowego świadectwa dopuszczenia statku do przewozu towarów niebezpiecznych, zwanego dalej „tymczasowym świadectwem”,
     - **b)** świadectwa eksperta ADN, świadectwa eksperta ADN do spraw przewozu gazów i świadectwa eksperta ADN do spraw przewozu chemikaliów,
     - **c)** kontroli bezpieczeństwa przewozu żeglugą śródlądową towarów niebezpiecznych;
 
-- **4)** Dyrektor Transportowego Dozoru Technicznego, zwany dalej „Dyrektorem TDT” w sprawach:
+- **4)** Dyrektor Transportowego Dozoru Technicznego, zwany dalej „Dyrektorem TDT” – w sprawach:
     - **a)** warunków technicznych i badań urządzeń transportowych przeznaczonych do przewozu drogowego, koleją i żeglugą śródlądową towarów niebezpiecznych,
     - **b)** warunków technicznych i badań nadwozi pojazdów do przewozu luzem towarów niebezpiecznych w przewozie drogowym,
     - **c)** warunków technicznych i badań naczyń ciśnieniowych przeznaczonych do przewozu gazów,
     - **d)** świadectwa dopuszczenia pojazdów do przewozu niektórych towarów niebezpiecznych, zwanego dalej „świadectwem dopuszczenia pojazdu ADR”,
     - **e)** świadectwa doradcy do spraw bezpieczeństwa przewozu towarów niebezpiecznych w zakresie przewozu drogowego, przewozu koleją i przewozu żeglugą śródlądową;
 
-- **5)** Prezes Państwowej Agencji Atomistyki w sprawach warunków przewozu materiałów promieniotwórczych;
+- **5)** Prezes Państwowej Agencji Atomistyki – w sprawach warunków przewozu materiałów promieniotwórczych;
 - **6)** minister właściwy do spraw gospodarki w sprawach:
     - **a)** warunków technicznych i badań opakowań towarów niebezpiecznych,
     - **b)** badań, klasyfikacji oraz warunków dopuszczania do przewozu towarów niebezpiecznych;
 
-- **7)** minister właściwy do spraw zdrowia w sprawach warunków przewozu materiałów zakaźnych;
-- **8)** minister właściwy do spraw transportu w pozostałych sprawach.
+- **7)** minister właściwy do spraw zdrowia – w sprawach warunków przewozu materiałów zakaźnych;
+- **8)** minister właściwy do spraw transportu – w pozostałych sprawach.
 
 2. Właściwi ministrowie mogą upoważnić, w drodze zarządzenia, na określonych warunkach, podległe lub nadzorowane jednostki do wykonywania czynności w sprawach, o których mowa w ust. 1 pkt 6–8, mając na uwadze usprawnienie procedury, kompetencje jednostki i kwalifikacje jej personelu.
 
@@ -124,8 +155,8 @@ Art. 115–124. (pominięte)
 
 1. Organem wyższego stopnia w rozumieniu przepisów Kodeksu postępowania administracyjnego w sprawach, o których mowa w art. 9 ust. 1:
 
-- **1)** pkt 3 jest minister właściwy do spraw żeglugi śródlądowej;
-- **2)** pkt 4 jest minister właściwy do spraw transportu.
+- **1)** pkt 3 – jest minister właściwy do spraw żeglugi śródlądowej;
+- **2)** pkt 4 – jest minister właściwy do spraw transportu.
 
 2. Organem wyższego stopnia w rozumieniu przepisów Kodeksu postępowania administracyjnego w sprawach, o których mowa w art. 9 ust. 3, jest Minister Obrony Narodowej.
 
@@ -166,9 +197,9 @@ Art. 115–124. (pominięte)
 1. Uczestnik przewozu towarów niebezpiecznych jest obowiązany:
 
 - **1)** wysłać jeden egzemplarz rocznego sprawozdania z działalności tego uczestnika, w zakresie przewozu towarów niebezpiecznych oraz czynności z nim związanych, zwanego dalej „rocznym sprawozdaniem”, w terminie do dnia 28 lutego każdego roku następującego po roku, którego dotyczy sprawozdanie, odpowiednio:
-    - **a)** wojewódzkiemu inspektorowi transportu drogowego właściwemu ze względu na siedzibę lub miejsce zamieszkania uczestnika przewozu towarów niebezpiecznych w zakresie przewozu drogowego towarów niebezpiecznych,
-    - **b)** Prezesowi Urzędu Transportu Kolejowego w zakresie przewozu koleją towarów niebezpiecznych,
-    - **c)** dyrektorowi urzędu żeglugi śródlądowej właściwemu ze względu na siedzibę lub miejsce zamieszkania uczestnika przewozu towarów niebezpiecznych w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych;
+    - **a)** wojewódzkiemu inspektorowi transportu drogowego właściwemu ze względu na siedzibę lub miejsce zamieszkania uczestnika przewozu towarów niebezpiecznych – w zakresie przewozu drogowego towarów niebezpiecznych,
+    - **b)** Prezesowi Urzędu Transportu Kolejowego – w zakresie przewozu koleją towarów niebezpiecznych,
+    - **c)** dyrektorowi urzędu żeglugi śródlądowej właściwemu ze względu na siedzibę lub miejsce zamieszkania uczestnika przewozu towarów niebezpiecznych – w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych;
 
 - **2)** przechowywać drugi egzemplarz rocznego sprawozdania w swojej siedzibie przez okres 5 lat od dnia jego wysłania.
 
@@ -178,10 +209,10 @@ Art. 115–124. (pominięte)
 
 1. Jeżeli w związku z przewozem towarów niebezpiecznych miał miejsce poważny wypadek lub awaria w rozumieniu ADR, RID lub ADN uczestnik przewozu, w terminie 14 dni od dnia wystąpienia zdarzenia, przekazuje raport, o którym mowa w art. 40 ust. 2:
 
-- **1)** Prezesowi Urzędu Transportu Kolejowego w przypadku przewozu towarów niebezpiecznych koleją;
-- **2)** właściwemu ze względu na miejsce wystąpienia zdarzenia wojewódzkiemu inspektorowi transportu drogowego w przypadku przewozu drogowego towarów niebezpiecznych;
-- **3)** właściwemu ze względu na miejsce wystąpienia zdarzenia dyrektorowi urzędu żeglugi śródlądowej w przypadku przewozu towarów niebezpiecznych żeglugą śródlądową;
-- **4)** Szefowi Inspektoratu Wsparcia Sił Zbrojnych w przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne.
+- **1)** Prezesowi Urzędu Transportu Kolejowego – w przypadku przewozu towarów niebezpiecznych koleją;
+- **2)** właściwemu ze względu na miejsce wystąpienia zdarzenia wojewódzkiemu inspektorowi transportu drogowego – w przypadku przewozu drogowego towarów niebezpiecznych;
+- **3)** właściwemu ze względu na miejsce wystąpienia zdarzenia dyrektorowi urzędu żeglugi śródlądowej – w przypadku przewozu towarów niebezpiecznych żeglugą śródlądową;
+- **4)** Szefowi Inspektoratu Wsparcia Sił Zbrojnych – w przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne.
 
 2. Informacja o poważnym wypadku lub awarii w przewozie towarów niebezpiecznych jest przekazywana ministrowi właściwemu do spraw transportu przez organy, o których mowa w ust. 1, niezwłocznie po otrzymaniu przez te organy raportu powypadkowego, o którym mowa w art. 40 ust. 2.
 
@@ -194,7 +225,7 @@ Art. 115–124. (pominięte)
 - **1)** organy wojskowe właściwe do wydawania zezwolenia wojskowego na przejazd drogowy,
 - **2)** sposób i tryb wydawania zezwolenia wojskowego na przejazd drogowy,
 - **3)** wzór i sposób wypełnienia zezwolenia wojskowego na przejazd drogowy oraz wzory dokumentów związanych z jego wydaniem,
-- **4)** wykaz towarów niebezpiecznych, których przewóz podlega obowiązkowi uzyskania zezwolenia wojskowego na przejazd drogowy mając na uwadze potrzebę ujednolicenia sposobu postępowania podmiotów właściwych w tym zakresie, zakres niezbędnych danych oraz szczególne zagrożenia związane z przewozem towarów niebezpiecznych.
+- **4)** wykaz towarów niebezpiecznych, których przewóz podlega obowiązkowi uzyskania zezwolenia wojskowego na przejazd drogowy – mając na uwadze potrzebę ujednolicenia sposobu postępowania podmiotów właściwych w tym zakresie, zakres niezbędnych danych oraz szczególne zagrożenia związane z przewozem towarów niebezpiecznych.
 
 #### Rozdział 3 Osoba wykonująca czynności związane z przewozem towarów niebezpiecznych
 
@@ -214,7 +245,7 @@ Art. 115–124. (pominięte)
 - **2)** spełnia wymagania określone w przepisach prawa o ruchu drogowym i o transporcie drogowym w stosunku do kierowców wykonujących przewóz drogowy;
 - **3)** ukończyła odpowiedni kurs ADR:
     - **a)** początkowy, jeżeli ubiega się o wydanie zaświadczenia ADR po raz pierwszy,
-    - **b)** doskonalący jeżeli ubiega się o przedłużenie zaświadczenia ADR;
+    - **b)** doskonalący – jeżeli ubiega się o przedłużenie zaświadczenia ADR;
 
 - **4)** złożyła z wynikiem pozytywnym egzamin kończący kurs ADR początkowy albo doskonalący.
 
@@ -224,8 +255,8 @@ Art. 115–124. (pominięte)
 
 2. Egzaminy przeprowadzane są w ośrodku szkolenia przez dwuosobową komisję egzaminacyjną, zwaną dalej „komisją”, powołaną przez marszałka województwa, w której skład wchodzą:
 
-- **1)** przewodniczący komisji przedstawiciel marszałka województwa;
-- **2)** członek komisji przedstawiciel organizacji o zasięgu ogólnopolskim zrzeszającej przedsiębiorców wykonujących przewozy drogowe lub kierowców albo przedstawiciel ośrodka szkolenia prowadzącego kurs.
+- **1)** przewodniczący komisji – przedstawiciel marszałka województwa;
+- **2)** członek komisji – przedstawiciel organizacji o zasięgu ogólnopolskim zrzeszającej przedsiębiorców wykonujących przewozy drogowe lub kierowców albo przedstawiciel ośrodka szkolenia prowadzącego kurs.
 
 3. W skład komisji mogą wchodzić osoby, które nie były prawomocnie skazane za przestępstwo popełnione w celu osiągnięcia korzyści majątkowych lub przestępstwo przeciwko wiarygodności dokumentów oraz dają rękojmię rzetelnego wykonywania powierzonych przez marszałka zadań.
 
@@ -259,7 +290,7 @@ Art. 115–124. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL – o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość;
 - **4)** miejsce zamieszkania kierowcy;
 - **5)** zakres przeprowadzonego egzaminu.
 
@@ -271,7 +302,7 @@ Art. 115–124. (pominięte)
 
 1. W przypadku utraty zaświadczenia ADR, jego zniszczenia w stopniu powodującym nieczytelność, a także zmiany stanu faktycznego wymagającego zmiany danych w nim zawartych, na pisemny wniosek kierowcy marszałek województwa w terminie 14 dni od dnia złożenia wniosku przesyła kierowcy, za zwrotnym potwierdzeniem odbioru, na adres wskazany we wniosku:
 
-- **1)** wtórnik dokumentu pod warunkiem złożenia marszałkowi województwa wraz z wnioskiem oświadczenia o utracie dokumentu albo
+- **1)** wtórnik dokumentu – pod warunkiem złożenia marszałkowi województwa wraz z wnioskiem oświadczenia o utracie dokumentu albo
 - **2)** nowy dokument.
 
 2. Oświadczenie, o którym mowa w ust. 1 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
@@ -295,15 +326,15 @@ Art. 115–124. (pominięte)
 
 **Art. 26.**
 
-1. Marszałek województwa przekazuje do centralnej ewidencji kierowców, o której mowa w art. 100a ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, następujące dane osób, którym wydano zaświadczenie ADR albo wydano jego wtórnik:
+1. Marszałek województwa przekazuje do centralnej ewidencji kierowców, o której mowa w art. 100a ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, następujące dane osób, którym wydano zaświadczenie ADR albo wydano jego wtórnik:
 
 - **1)** imię i nazwisko;
 - **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL – o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość;
 - **4)** zakres i numer wydanego zaświadczenia ADR;
 - **5)** okres ważności zaświadczenia ADR.
 
-2. Dane, o których mowa w ust. 1, przekazuje się do centralnej ewidencji kierowców na zasadach określonych w art. 100ac ust. 3 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+2. Dane, o których mowa w ust. 1, przekazuje się do centralnej ewidencji kierowców na zasadach określonych w art. 100ac ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 3. Marszałek województwa prowadzi ewidencję wydanych zaświadczeń ADR zawierającą dane, o których mowa w ust. 1.
 
@@ -334,6 +365,13 @@ Art. 115–124. (pominięte)
 2. Minister właściwy do spraw transportu sprawuje nadzór nad wykonywaniem przez marszałka województwa zadań, o których mowa w ust. 1, pod względem legalności i rzetelności.
 
 **Art. 31.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
+- **1)** szczegółową formę i tryb przeprowadzania egzaminu, o którym mowa w art. 20 ust. 2 pkt 4, mając na uwadze zakres egzaminu wyznaczony przepisami ADR, konieczność zapewnienia ujednoliconych procedur egzaminowania;
+- **2)** szczegółowy tryb wydawania zaświadczenia ADR oraz tryb wydawania wtórnika zaświadczenia ADR, a także sposób wypełniania zaświadczenia ADR, mając na uwadze potrzebę ujednolicenia sposobu postępowania w tym zakresie;
+- **3)** warunki i sposób przechowywania dokumentacji dotyczącej egzaminu oraz dotyczącej wydanych zaświadczeń oraz wydawania ich wtórników, uwzględniając potrzebę właściwego zabezpieczenia tej dokumentacji uniemożliwiającego dostęp osób niepowołanych oraz wyposażenie pomieszczeń w urządzenia gwarantujące bezpieczeństwo przechowywanych dokumentów;
+- **4)** wzór zaświadczenia ADR, uwzględniając postanowienia ADR i potrzebę jego należytego zabezpieczenia przed fałszowaniem;
+- **5)** wysokość wynagrodzenia członków komisji egzaminacyjnej, która nie może być wyższa niż 10 % kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzedzającym wydanie rozporządzenia, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, mając na uwadze czas trwania egzaminu i wykonywane przez członków komisji egzaminacyjnej czynności;
+- **6)** wysokość opłaty, o której mowa w art. 25 ust. 1 pkt 1, która nie może być wyższa niż 50 zł za dokument, mając na uwadze pokrycie kosztów wydawania zaświadczenia ADR i wtórnika zaświadczenia ADR, w tym pokrycie kosztów związanych z drukiem i czynnościami administracyjnymi.
 
 **Art. 32.**
 
@@ -379,14 +417,14 @@ Art. 115–124. (pominięte)
 
 1. Świadectwo eksperta ADN, świadectwo eksperta ADN do spraw przewozu gazów i świadectwo eksperta ADN do spraw przewozu chemikaliów wydaje:
 
-- **1)** w przypadku osób mających miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej dyrektor właściwego terytorialnie urzędu żeglugi śródlądowej ze względu na miejsce zamieszkania osoby ubiegającej się o uzyskanie świadectwa eksperta,
-- **2)** w przypadku osób mających miejsce zamieszkania na terytorium innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym Dyrektor Urzędu Żeglugi Śródlądowej w Szczecinie na okres 5 lat, licząc od dnia złożenia z wynikiem pozytywnym egzaminu, o którym mowa odpowiednio w art. 32 ust. 5 pkt 3 i ust. 6 pkt 2.
+- **1)** w przypadku osób mających miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej – dyrektor właściwego terytorialnie urzędu żeglugi śródlądowej ze względu na miejsce zamieszkania osoby ubiegającej się o uzyskanie świadectwa eksperta,
+- **2)** w przypadku osób mających miejsce zamieszkania na terytorium innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym – Dyrektor Urzędu Żeglugi Śródlądowej w Szczecinie – na okres 5 lat, licząc od dnia złożenia z wynikiem pozytywnym egzaminu, o którym mowa odpowiednio w art. 32 ust. 5 pkt 3 i ust. 6 pkt 2.
 
 2. Dyrektor urzędu żeglugi śródlądowej niezwłocznie przekazuje do Dyrektora TDT informacje dotyczące osób, którym wydał lub przedłużył odpowiednie świadectwo eksperta ADN, zawierające następujące dane:
 
 - **1)** imię i nazwisko;
 - **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL – o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość;
 - **4)** zakres i numer wydanego odpowiedniego świadectwa eksperta ADN;
 - **5)** okres ważności odpowiedniego świadectwa eksperta ADN.
 
@@ -416,7 +454,18 @@ Art. 115–124. (pominięte)
 
 **Art. 38.** Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
+- **1)** szczegółowe warunki, formę i tryb przeprowadzania egzaminu, o którym mowa w art. 32 ust. 5 pkt 3 i ust. 6 pkt 2, mając na uwadze potrzebę zapewnienia prawidłowego przeprowadzenia egzaminu;
+- **2)** skład komisji, o której mowa w art. 32 ust. 5 pkt 3 i ust. 6 pkt 2, sposób jej działania i tryb jej powoływania oraz wymagania kwalifikacyjne dla osób wchodzących w skład komisji egzaminacyjnej i sposób ustalania wysokości ich wynagrodzenia, uwzględniając konieczność zapewnienia obiektywnego sprawdzenia przygotowania do pełnienia zadań eksperta ADN oraz czas trwania egzaminu i liczbę egzaminowanych osób;
+- **3)** tryb wydawania i przedłużania odpowiedniego świadectwa eksperta ADN oraz tryb wydawania wtórnika odpowiedniego świadectwa eksperta ADN, mając na uwadze potrzebę ujednolicenia sposobu postępowania podmiotów właściwych w tym zakresie;
+- **4)** warunki i sposób przechowywania dokumentacji dotyczącej egzaminu oraz wydanych odpowiednich świadectw eksperta ADN, ich przedłużania oraz wydawania ich wtórników, uwzględniając potrzebę właściwego zabezpieczenia dokumentacji uniemożliwiającego dostęp osób niepowołanych oraz wyposażenie pomieszczeń w urządzenia gwarantujące bezpieczeństwo przechowywanych dokumentów;
+- **5)** wzór świadectwa eksperta ADN, świadectwa eksperta ADN do spraw przewozu gazów i świadectwa eksperta ADN do spraw przewozu chemikaliów i sposób ich wypełniania, uwzględniając postanowienia ADN;
+- **6)** wysokość opłaty za egzaminy, o której mowa w art. 33 ust. 5, która nie może być wyższa niż 15 % kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzedzającym wydanie rozporządzenia, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz tryb jej wnoszenia, mając na uwadze konieczność pokrycia kosztów związanych z przeprowadzeniem egzaminu, wydaniem świadectwa eksperta ADN, świadectwa eksperta ADN do spraw przewozu gazów i świadectwa eksperta ADN do spraw przewozu chemikaliów, przedłużeniem ważności dotychczasowego odpowiedniego świadectwa, w tym kosztów druku i czynności administracyjnych;
+- **7)** wysokość opłaty, o której mowa w art. 34 ust. 6, która nie może być wyższa niż 50 zł za dokument, oraz tryb jej wnoszenia, mając na uwadze pokrycie kosztów wydania wtórnika odpowiednio świadectwa eksperta ADN, świadectwa eksperta ADN do spraw przewozu gazów i świadectwa eksperta ADN do spraw przewozu chemikaliów, w tym pokrycie kosztów związanych z drukiem i czynnościami administracyjnymi.
+
 **Art. 39.** Koszt kursu ADR, kursu na eksperta ADN, kursu na eksperta ADN do spraw przewozu gazów i kursu na eksperta ADN do spraw przewozu chemikaliów oraz koszt egzaminów, o których mowa w art. 32 ust. 5 pkt 3 i ust. 6 pkt 2, w tym koszt wydania odpowiednio świadectwa eksperta ADN, świadectwa eksperta ADN do spraw przewozu gazów i świadectwa eksperta ADN do spraw przewozu chemikaliów, a także koszt wydania zaświadczenia ADR ponosi:
+
+- **1)** uczestnik przewozu towarów niebezpiecznych – w przypadku osoby wykonującej na jego rzecz czynności związane z przewozem towarów niebezpiecznych albo gdy uczestnik przewozu towarów niebezpiecznych osobiście wykonuje tę działalność;
+- **2)** uczestnik kursu lub osoba przystępująca do egzaminu – w innych przypadkach.
 
 #### Rozdział 4 Doradca do spraw bezpieczeństwa przewozu towarów niebezpiecznych
 
@@ -449,7 +498,7 @@ Art. 115–124. (pominięte)
 
 **Art. 43.**
 
-1. Egzamin, o którym mowa w art. 42 ust. 2 pkt 4, obejmujący sprawdzenie wiedzy ze znajomości przepisów krajowych oraz umów międzynarodowych dotyczących przewozu towarów niebezpiecznych, składa się z dwóch części ogólnej i specjalistycznej dotyczącej odpowiednio przewozu drogowego, przewozu koleją lub żeglugą śródlądową towarów niebezpiecznych. Za egzamin pobiera się opłatę.
+1. Egzamin, o którym mowa w art. 42 ust. 2 pkt 4, obejmujący sprawdzenie wiedzy ze znajomości przepisów krajowych oraz umów międzynarodowych dotyczących przewozu towarów niebezpiecznych, składa się z dwóch części – ogólnej i specjalistycznej dotyczącej odpowiednio przewozu drogowego, przewozu koleją lub żeglugą śródlądową towarów niebezpiecznych. Za egzamin pobiera się opłatę.
 
 2. Na egzaminie, o którym mowa w art. 42 ust. 2 pkt 4, stosuje się pytania egzaminacyjne pochodzące z katalogu pytań zatwierdzonego przez ministra właściwego do spraw transportu oraz ministra właściwego do spraw żeglugi śródlądowej. Katalog pytań oraz pytania zawarte w teście egzaminacyjnym nie stanowią informacji publicznej w rozumieniu przepisów o dostępie do informacji publicznej.
 
@@ -459,8 +508,8 @@ Art. 115–124. (pominięte)
 
 5. Osoba, która przystąpiła do egzaminu, o którym mowa w art. 42 ust. 2 pkt 4, może zgłaszać za pośrednictwem Dyrektora TDT do:
 
-- **1)** ministra właściwego do spraw transportu w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych albo
-- **2)** ministra właściwego do spraw żeglugi śródlądowej w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych w terminie 3 dni od dnia przeprowadzenia egzaminu lub ogłoszenia jego wyniku, w formie pisemnej, skargi co do jego przebiegu lub wyniku.
+- **1)** ministra właściwego do spraw transportu – w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych albo
+- **2)** ministra właściwego do spraw żeglugi śródlądowej – w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych – w terminie 3 dni od dnia przeprowadzenia egzaminu lub ogłoszenia jego wyniku, w formie pisemnej, skargi co do jego przebiegu lub wyniku.
 
 6. W przypadku uznania skargi za uzasadnioną odpowiednio minister właściwy do spraw transportu albo minister właściwy do spraw żeglugi śródlądowej może nakazać powtórzenie egzaminu, o którym mowa w art. 42 ust. 2 pkt 4, albo uznać ten egzamin za złożony z wynikiem pozytywnym.
 
@@ -508,7 +557,7 @@ Art. 115–124. (pominięte)
 
 - **1)** imię i nazwisko;
 - **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL – o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość;
 - **4)** datę i miejsce wydania świadectwa doradcy;
 - **5)** numer świadectwa doradcy;
 - **6)** datę ważności i zakres świadectwa doradcy.
@@ -521,15 +570,23 @@ Art. 115–124. (pominięte)
 
 **Art. 49.** Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
 
+- **1)** warunki, formę i tryb przeprowadzania egzaminu dla doradców, o którym mowa w art. 42 ust. 2 pkt 4, uwzględniając konieczność zapewnienia prawidłowego przeprowadzenia egzaminu;
+- **2)** skład komisji, o której mowa w art. 42 ust. 2 pkt 4, sposób jej działania i tryb jej powoływania oraz wymagania kwalifikacyjne dla osób wchodzących w skład komisji egzaminacyjnej i sposób ustalania wysokości ich wynagrodzenia, mając na uwadze konieczność zapewnienia obiektywnego sprawdzenia przygotowania do wykonywania zadań doradcy oraz czas trwania egzaminu i liczbę egzaminowanych osób;
+- **3)** tryb wydawania świadectwa doradcy oraz tryb wydawania wtórnika świadectwa doradcy, mając na uwadze potrzebę ujednolicenia sposobu postępowania podmiotów właściwych w tym zakresie;
+- **4)** warunki i sposób przechowywania dokumentacji dotyczącej egzaminu oraz dotyczącej wydanych świadectw doradcy, ich przedłużania oraz wydawania ich wtórników, uwzględniając potrzebę właściwego zabezpieczenia tej dokumentacji uniemożliwiającego dostęp osób niepowołanych, a także wyposażenie pomieszczeń w urządzenia gwarantujące bezpieczeństwo przechowywanych dokumentów;
+- **5)** wzór świadectwa doradcy i sposób jego wypełniania, uwzględniając postanowienia ADR, RID i ADN;
+- **6)** wysokość opłaty, o której mowa w art. 43 ust. 1, z uwzględnieniem poszczególnych części egzaminów, która nie może być wyższa niż 15 % kwoty przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzedzającym wydanie rozporządzenia, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz tryb jej wnoszenia, uwzględniając konieczność pokrycia kosztów związanych z przeprowadzeniem egzaminów, wydaniem świadectwa doradcy, przedłużeniem ważności świadectwa doradcy, w tym kosztów druku i czynności administracyjnych;
+- **7)** wysokość opłaty, o której mowa w art. 44 ust. 4, oraz tryb jej wnoszenia, która nie może być wyższa niż 50 zł za dokument, mając na uwadze pokrycie kosztów wydania wtórnika świadectwa doradcy, w tym pokrycie kosztów związanych z drukiem i czynnościami administracyjnymi.
+
 #### Rozdział 5 Działalność w zakresie prowadzenia kursów ADR, kursów na ekspertów ADN, kursów dla doradców oraz kontrola tej działalności
 
 **Art. 50.**
 
-1. Działalność gospodarcza w zakresie prowadzenia kursów ADR, kursu na eksperta ADN, eksperta ADN do spraw przewozu gazów, eksperta ADN do spraw przewozu chemikaliów oraz kursów dla doradców, zwanych dalej łącznie „kursami”, jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236).
+1. Działalność gospodarcza w zakresie prowadzenia kursów ADR, kursu na eksperta ADN, eksperta ADN do spraw przewozu gazów, eksperta ADN do spraw przewozu chemikaliów oraz kursów dla doradców, zwanych dalej łącznie „kursami”, jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236).
 
 2. Podmioty prowadzące działalność, o której mowa w ust. 1, zwane dalej „podmiotami prowadzącymi kursy”, podlegają wpisowi do rejestru podmiotów prowadzących kursy.
 
-3. Obowiązek, o którym mowa w ust. 2, dotyczy również przedsiębiorcy z innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym oraz z państw, które zawarły z Unią Europejską i jej państwami członkowskimi Unii Europejskiej umowę regulującą swobodę świadczenia usług, czasowo prowadzącego kursy, o których mowa w ust. 1, na terytorium Rzeczypospolitej Polskiej.
+3. Obowiązek, o którym mowa w ust. 2, dotyczy również przedsiębiorcy z innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym oraz z państw, które zawarły z Unią Europejską i jej państwami członkowskimi Unii Europejskiej umowę regulującą swobodę świadczenia usług, czasowo prowadzącego kursy, o których mowa w ust. 1, na terytorium Rzeczypospolitej Polskiej.
 
 4. Podmiot prowadzący kursy jest obowiązany spełniać następujące warunki:
 
@@ -544,7 +601,7 @@ Art. 115–124. (pominięte)
 5. Podmiotem prowadzącym kursy może być podmiot:
 
 - **1)** w stosunku do którego nie wszczęto postępowania likwidacyjnego lub upadłościowego;
-- **2)** który nie był prawomocnie skazany za umyślne przestępstwo karne skarbowe, przestępstwo popełnione w celu osiągnięcia korzyści majątkowych lub przestępstwo przeciwko wiarygodności dokumentów dotyczy osoby fizycznej lub członków organu osoby prawnej.
+- **2)** który nie był prawomocnie skazany za umyślne przestępstwo karne skarbowe, przestępstwo popełnione w celu osiągnięcia korzyści majątkowych lub przestępstwo przeciwko wiarygodności dokumentów – dotyczy osoby fizycznej lub członków organu osoby prawnej.
 
 6. Niekaralność w zakresie, o którym mowa w ust. 5 pkt 2, powinna być potwierdzona złożeniem oświadczenia o niekaralności. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -623,13 +680,13 @@ Art. 115–124. (pominięte)
 - **3)** wydać uczestnikowi kursu zaświadczenie o jego ukończeniu, w terminie 5 dni od dnia jego ukończenia;
 - **4)** przesłać, w terminie 7 dni od dnia ukończenia kursu, odpowiednio do Dyrektora TDT, Szefa Inspektoratu Wsparcia Sił Zbrojnych, marszałka województwa albo dyrektora urzędu żeglugi śródlądowej, właściwych ze względu na miejsce mającego się odbyć egzaminu, wskazane przez uczestnika kursu następujące dane osoby, która ukończyła odpowiedni kurs:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość,
+    - **b)** numer PESEL – o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość,
     - **c)** zakres ukończonego kursu,
     - **d)** datę ukończenia kursu;
 
 - **5)** do dnia 31 stycznia każdego roku składać, odpowiednio marszałkowi województwa właściwemu ze względu na miejsce prowadzenia kursu albo Szefowi Inspektoratu Wsparcia Sił Zbrojnych, sprawozdanie z informacją o osobach, które ukończyły kursy w roku poprzedzającym, zawierającą następujące dane:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość,
+    - **b)** numer PESEL – o ile został nadany, lub rodzaj i numer innego dokumentu potwierdzającego tożsamość,
     - **c)** zakres ukończonego kursu,
     - **d)** datę ukończenia kursu;
 
@@ -673,7 +730,7 @@ Art. 115–124. (pominięte)
 - **2)** niewydaniu uczestnikowi kursu zaświadczenia o jego ukończeniu, w terminie 5 dni od dnia jego ukończenia,
 - **3)** nieprzekazaniu w terminie właściwym organom informacji, o których mowa w art. 53 ust. 1 pkt 1, 2, 4 i 5,
 - **4)** prowadzeniu kursów w sposób niezgodny z informacjami przekazanymi na podstawie art. 53 ust. 1 pkt 1 i 2,
-- **5)** nieprzechowywaniu dokumentacji dotyczącej prowadzonych kursów wzywa do usunięcia naruszeń w wyznaczonym terminie.
+- **5)** nieprzechowywaniu dokumentacji dotyczącej prowadzonych kursów – wzywa do usunięcia naruszeń w wyznaczonym terminie.
 
 6. Marszałek województwa właściwy ze względu na miejsce prowadzenia kursu, przeprowadzający kontrolę, jest obowiązany, w terminie 7 dni od dnia zakończenia postępowania kontrolnego, poinformować odpowiednio organy, o których mowa w art. 52 ust. 1 i 2, o wynikach przeprowadzonej kontroli.
 
@@ -719,10 +776,17 @@ Art. 115–124. (pominięte)
 
 2. Nadzór nad wykonywaniem przez marszałka województwa zadań, o których mowa w ust. 1, pod względem legalności i rzetelności sprawuje:
 
-- **1)** minister właściwy do spraw transportu w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych;
-- **2)** minister właściwy do spraw żeglugi śródlądowej w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych.
+- **1)** minister właściwy do spraw transportu – w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych;
+- **2)** minister właściwy do spraw żeglugi śródlądowej – w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych.
 
 **Art. 58.** Minister właściwy do spraw transportu oraz minister właściwy do spraw żeglugi śródlądowej określą, w drodze rozporządzenia:
+
+- **1)** szczegółowe wymagania w zakresie, o którym mowa w art. 50 ust. 4 pkt 1–3, w stosunku do podmiotów wykonujących działalność w zakresie prowadzenia kursów, mając na uwadze zapewnienie należytego przeprowadzania kursów;
+- **2)** wzór wniosku o wpis do rejestru podmiotów prowadzących kursy oraz wzór zaświadczenia potwierdzającego wpis podmiotu do tego rejestru, uwzględniając zakres niezbędnych danych;
+- **3)** wysokość opłaty za wpis do rejestru podmiotów prowadzących kursy, której wysokość nie może być wyższa niż 1000 zł, mając na uwadze wysokość rzeczywistych kosztów związanych z prowadzeniem rejestru podmiotów prowadzących kursy oraz wysokość kosztów związanych z weryfikacją dokumentów;
+- **4)** rodzaje i zakres kursów, ich ramowy program, minimalny czas trwania kursów, a także warunki wydania zaświadczenia potwierdzającego ukończenie odpowiedniego kursu, mając na uwadze wymagania określone odpowiednio w ADR, RID lub ADN oraz konieczność prawidłowego przygotowania kierowców, ekspertów ADN oraz doradców do przeciwdziałania zagrożeniom związanym z przewozem towarów niebezpiecznych;
+- **5)** warunki i sposób przechowywania dokumentacji dotyczącej prowadzonych kursów, uwzględniając potrzebę właściwego zabezpieczenia tej dokumentacji uniemożliwiającego dostęp osób niepowołanych oraz wyposażenie pomieszczeń w urządzenia gwarantujące bezpieczeństwo przechowywanych dokumentów;
+- **6)** wzór zaświadczenia o ukończeniu kursu, uwzględniając zakres niezbędnych danych dotyczących podmiotu prowadzącego kursy, uczestnika kursu i zakresu ukończonego kursu.
 
 #### Rozdział 6 Środki transportu
 
@@ -810,16 +874,21 @@ Art. 115–124. (pominięte)
 
 1. Ciśnieniowe urządzenia transportowe podlegają:
 
-- **1)** ocenie zgodności w przypadku wprowadzanych do obrotu nowych ciśnieniowych urządzeń transportowych;
-- **2)** ponownej ocenie zgodności w przypadku ciśnieniowych urządzeń transportowych:
-    - **a)** wprowadzonych do obrotu przed dniem 1 maja 2004 r., dla których proces ponownej oceny rozpoczął się przed dniem 1 lipca 2006 r. w przypadku butli,
-    - **b)** wprowadzonych do obrotu przed dniem 1 lipca 2005 r., dla których proces ponownej oceny rozpoczął się przed 1 lipca 2007 r. w przypadku pozostałych ciśnieniowych urządzeń transportowych;
+- **1)** ocenie zgodności – w przypadku wprowadzanych do obrotu nowych ciśnieniowych urządzeń transportowych;
+- **2)** ponownej ocenie zgodności – w przypadku ciśnieniowych urządzeń transportowych:
+    - **a)** wprowadzonych do obrotu przed dniem 1 maja 2004 r., dla których proces ponownej oceny rozpoczął się przed dniem 1 lipca 2006 r. – w przypadku butli,
+    - **b)** wprowadzonych do obrotu przed dniem 1 lipca 2005 r., dla których proces ponownej oceny rozpoczął się przed 1 lipca 2007 r. – w przypadku pozostałych ciśnieniowych urządzeń transportowych;
 
 - **3)** badaniom okresowym, pośrednim i nadzwyczajnym w przypadkach określonych w ADR, RID i ADN.
 
 2. W przypadku demontowalnych części ciśnieniowych urządzeń transportowych, dla których istnieje możliwość wielokrotnego napełnienia, dopuszcza się przeprowadzenie oddzielnych ocen zgodności.
 
 **Art. 66.** Przepisów niniejszego rozdziału nie stosuje się do:
+
+- **1)** ciśnieniowych urządzeń transportowych wykorzystywanych wyłącznie w transporcie towarów niebezpiecznych pomiędzy obszarem państw członkowskich Unii Europejskiej a obszarem kraju trzeciego,
+- **2)** ciśnieniowych urządzeń transportowych wprowadzonych do obrotu przed dniem:
+    - **a)** 1 maja 2004 r. – w przypadku butli,
+    - **b)** 1 lipca 2005 r. – w przypadku pozostałych ciśnieniowych urządzeń transportowych – i niepoddanych ponownej ocenie zgodności.
 
 **Art. 67.**
 
@@ -857,13 +926,20 @@ Art. 115–124. (pominięte)
 
 - **1)** oceną zgodności ciśnieniowych urządzeń transportowych,
 - **2)** badaniami okresowymi, pośrednimi i nadzwyczajnymi,
-- **3)** sprawdzaniem zgodności ciśnieniowych urządzeń transportowych z wymaganiami, dokonywane przez notyfikowane jednostki kontrolujące pobiera się opłaty.
+- **3)** sprawdzaniem zgodności ciśnieniowych urządzeń transportowych z wymaganiami, dokonywane przez notyfikowane jednostki kontrolujące – pobiera się opłaty.
 
 2. Opłaty, o których mowa w ust. 1, uiszcza wnioskodawca.
 
 3. Minister właściwy do spraw transportu oraz minister właściwy do spraw żeglugi śródlądowej w porozumieniu z ministrem właściwym do spraw finansów publicznych określą, w drodze rozporządzenia, sposób ustalania opłat za czynności, o których mowa w ust. 1, mając na uwadze, że stawki tych opłat powinny zapewnić pokrycie kosztów ich przeprowadzenia.
 
 **Art. 72.** Minister właściwy do spraw transportu oraz minister właściwy do spraw żeglugi śródlądowej określą, w drodze rozporządzenia:
+
+- **1)** procedury oceny zgodności ciśnieniowych urządzeń transportowych,
+- **2)** procedury ponownej oceny zgodności ciśnieniowych urządzeń transportowych,
+- **3)** procedury badań okresowych, pośrednich i nadzwyczajnych,
+- **4)** towary niebezpieczne innych klas niż klasa 2, przewożone ciśnieniowymi urządzeniami transportowymi,
+- **5)** sposób oznakowania ciśnieniowych urządzeń transportowych,
+- **6)** wzór znaku zgodności  – biorąc pod uwagę rodzaje ciśnieniowych urządzeń transportowych, stopień stwarzanych przez nie zagrożeń oraz konieczność ujednolicenia znaku zgodności dla wszystkich ciśnieniowych urządzeń transportowych.
 
 ##### Oddział II Obowiązki podmiotów uczestniczących w obrocie ciśnieniowymi urządzeniami transportowymi
 
@@ -956,9 +1032,15 @@ Art. 115–124. (pominięte)
 
 **Art. 80.** Na wniosek właściwego organu wyspecjalizowanego podmioty uczestniczące w obrocie ciśnieniowymi urządzeniami transportowymi przez okres co najmniej 10 lat dokonują identyfikacji:
 
+- **1)** każdego podmiotu uczestniczącego w obrocie ciśnieniowymi urządzeniami transportowymi, który dostarczył im ciśnieniowe urządzenia transportowe;
+- **2)** każdego podmiotu uczestniczącego w obrocie ciśnieniowymi urządzeniami transportowymi, któremu dostarczyły ciśnieniowe urządzenia transportowe.
+
 ##### Oddział III Jednostki notyfikowane
 
 **Art. 81.** Za opracowanie i stosowanie procedur koniecznych do oceny, notyfikacji i dalszego monitorowania jednostek notyfikowanych biorących udział w procedurach związanych z ciśnieniowymi urządzeniami transportowymi odpowiada:
+
+- **1)** minister właściwy do spraw transportu – w zakresie działalności związanej z przewozem drogowym oraz przewozem kolejowym towarów niebezpiecznych;
+- **2)** minister właściwy do spraw żeglugi śródlądowej – w zakresie działalności związanej z przewozem żeglugą śródlądową towarów niebezpiecznych.
 
 **Art. 82.** Odpowiednio minister właściwy do spraw transportu albo minister właściwy do spraw żeglugi śródlądowej informuje Komisję Europejską o krajowych procedurach oceny, notyfikacji i monitorowania jednostek notyfikowanych oraz o wszelkich zmianach tych informacji.
 
@@ -966,8 +1048,8 @@ Art. 115–124. (pominięte)
 
 1. Jednostka kontrolująca składa wniosek o autoryzację:
 
-- **1)** ministrowi właściwemu do spraw transportu w przypadku działalności związanej z przewozem drogowym oraz przewozem kolejowym towarów niebezpiecznych;
-- **2)** ministrowi właściwemu do spraw żeglugi śródlądowej w przypadku działalności związanej z przewozem żeglugą śródlądową towarów niebezpiecznych.
+- **1)** ministrowi właściwemu do spraw transportu – w przypadku działalności związanej z przewozem drogowym oraz przewozem kolejowym towarów niebezpiecznych;
+- **2)** ministrowi właściwemu do spraw żeglugi śródlądowej – w przypadku działalności związanej z przewozem żeglugą śródlądową towarów niebezpiecznych.
 
 2. Do wniosku dołącza się opis:
 
@@ -1047,6 +1129,9 @@ Art. 115–124. (pominięte)
 
 **Art. 91.** Pracownicy jednostki notyfikowanej odpowiedzialni za wykonywanie zadań, o których mowa w art. 85 ust. 4, powinni odbyć przeszkolenie w tym zakresie, a także posiadać:
 
+- **1)** wiedzę oraz odpowiednie doświadczenie do przeprowadzenia badań;
+- **2)** umiejętność sporządzenia certyfikatów, protokołów i sprawozdań wymaganych w celu uwierzytelnienia przeprowadzonych badań.
+
 **Art. 92.** Wynagrodzenie pracowników wykonujących zadania, o których mowa w art. 85 ust. 4, nie może być uzależnione bezpośrednio od liczby przeprowadzonych inspekcji lub od ich wyników.
 
 ##### Oddział IV Kontrola spełniania wymagań przez ciśnieniowe urządzenia transportowe
@@ -1055,9 +1140,9 @@ Art. 115–124. (pominięte)
 
 1. Kontrolę spełniania wymagań przez ciśnieniowe urządzenia transportowe prowadzi z urzędu albo na wniosek właściwy organ wyspecjalizowany:
 
-- **1)** wojewódzki inspektor transportu drogowego w przypadku przewozu drogowego towarów niebezpiecznych;
-- **2)** Prezes Urzędu Transportu Kolejowego w przypadku przewozu koleją towarów niebezpiecznych;
-- **3)** dyrektor urzędu żeglugi śródlądowej w przypadku przewozu żeglugą śródlądową towarów niebezpiecznych.
+- **1)** wojewódzki inspektor transportu drogowego – w przypadku przewozu drogowego towarów niebezpiecznych;
+- **2)** Prezes Urzędu Transportu Kolejowego – w przypadku przewozu koleją towarów niebezpiecznych;
+- **3)** dyrektor urzędu żeglugi śródlądowej – w przypadku przewozu żeglugą śródlądową towarów niebezpiecznych.
 
 2. Przedmiotem kontroli mogą być wprowadzone do obrotu ciśnieniowe urządzenia transportowe, prawidłowość ich oznakowania oraz dotycząca ich dokumentacja techniczna. Z przeprowadzonych czynności kontrolnych sporządza się protokół.
 
@@ -1086,7 +1171,7 @@ Art. 115–124. (pominięte)
 - **1)** ciśnieniowe urządzenie transportowe nie spełnia wymagań,
 - **2)** ciśnieniowe urządzenie transportowe podlegające oznakowaniu znakiem zgodności  nie posiada takiego oznakowania,
 - **3)** oznakowanie znakiem zgodności  ciśnieniowego urządzenia transportowego zostało dokonane niezgodnie z przepisami niniejszego rozdziału,
-- **4)** dokumentacja jest niedostępna albo niekompletna właściwy organ wyspecjalizowany w drodze decyzji, nakazuje zapewnić w określonym terminie zgodność ciśnieniowego urządzenia transportowego z wymaganiami lub warunkami określonymi w art. 70 ust. 1 albo wycofać urządzenie z obrotu.
+- **4)** dokumentacja jest niedostępna albo niekompletna – właściwy organ wyspecjalizowany w drodze decyzji, nakazuje zapewnić w określonym terminie zgodność ciśnieniowego urządzenia transportowego z wymaganiami lub warunkami określonymi w art. 70 ust. 1 albo wycofać urządzenie z obrotu.
 
 2. Właściwy organ wyspecjalizowany po upływie terminu ustalonego w decyzji, o której mowa w ust. 1, przeprowadza kontrolę mającą na celu ustalenie, czy niezgodność została usunięta w wyznaczonym terminie albo czy ciśnieniowe urządzenie transportowe zostało wycofane z obrotu.
 
@@ -1106,7 +1191,7 @@ Art. 115–124. (pominięte)
 
 - **1)** wojewódzki inspektor transportu drogowego, za pośrednictwem Głównego Inspektora Transportu Drogowego,
 - **2)** Prezes Urzędu Transportu Kolejowego,
-- **3)** dyrektor urzędu żeglugi śródlądowej, za pośrednictwem ministra właściwego do spraw żeglugi śródlądowej niezwłocznie informują Komisję Europejską.
+- **3)** dyrektor urzędu żeglugi śródlądowej, za pośrednictwem ministra właściwego do spraw żeglugi śródlądowej – niezwłocznie informują Komisję Europejską.
 
 8. Informacja, o której mowa w ust. 7, obejmuje w szczególności dane niezbędne do identyfikacji niezgodnych ciśnieniowych urządzeń transportowych, informacje na temat pochodzenia i łańcucha dostaw urządzeń, charakteru zarzucanej niezgodności i związanego z nią ryzyka oraz rodzaju i okresu obowiązywania podjętych środków krajowych, a także argumentację przedstawioną przez właściwy podmiot uczestniczący w obrocie ciśnieniowymi urządzeniami transportowymi. Właściwy organ wyspecjalizowany wskazuje w szczególności, czy niezgodność wynika z:
 
@@ -1130,7 +1215,7 @@ Art. 115–124. (pominięte)
 - **1)** wykaże właściwemu organowi wyspecjalizowanemu, że wykonał decyzję, o której mowa w art. 95 ust. 5 lub 6, lub zapewnił zgodność ciśnieniowego urządzenia transportowego z wymaganiami; wpis usuwa się nie wcześniej niż po upływie 3 miesięcy od dnia złożenia wniosku przez właściwy organ wyspecjalizowany;
 - **2)** zaprzestał prowadzenia działalności gospodarczej; wpis usuwa się nie wcześniej niż po upływie 24 miesięcy od dnia jego dokonania.
 
-**Art. 96.** W zakresie nieuregulowanym w niniejszym rozdziale do postępowania w sprawie kontroli wprowadzonych do obrotu ciśnieniowych urządzeń transportowych stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) i przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 96.** W zakresie nieuregulowanym w niniejszym rozdziale do postępowania w sprawie kontroli wprowadzonych do obrotu ciśnieniowych urządzeń transportowych stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) i przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 #### Rozdział 8 Nadzór i kontrola
 
@@ -1138,8 +1223,8 @@ Art. 115–124. (pominięte)
 
 1. Nadzór nad przewozem towarów niebezpiecznych oraz nad jednostkami realizującymi zadania związane z tym przewozem, z zastrzeżeniem art. 98, sprawuje:
 
-- **1)** minister właściwy do spraw transportu w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych;
-- **2)** minister właściwy do spraw żeglugi śródlądowej w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych.
+- **1)** minister właściwy do spraw transportu – w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych;
+- **2)** minister właściwy do spraw żeglugi śródlądowej – w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych.
 
 2. W ramach sprawowanego nadzoru odpowiednio minister właściwy do spraw transportu albo minister właściwy do spraw żeglugi śródlądowej w szczególności sprawdza prawidłowość:
 
@@ -1156,7 +1241,7 @@ Art. 115–124. (pominięte)
 
 - **1)** organy, o których mowa w art. 17 ust. 1, w zakresie poważnych wypadków lub awarii związanych z przewozem towarów niebezpiecznych,
 - **2)** marszałków województw w zakresie określonym w art. 56 ust. 4,
-- **3)** służby kontrolne w zakresie określonym w art. 104 ust. 1 i 2 w celu, w szczególności, monitorowania zdarzeń z udziałem towarów niebezpiecznych oraz podejmowanych działań w związku z tymi zdarzeniami, monitorowania skali naruszeń przepisów dotyczących przewozu towarów niebezpiecznych, a także monitorowania procesu szkolenia w zakresie przewozu towarów niebezpiecznych.
+- **3)** służby kontrolne w zakresie określonym w art. 104 ust. 1 i 2 – w celu, w szczególności, monitorowania zdarzeń z udziałem towarów niebezpiecznych oraz podejmowanych działań w związku z tymi zdarzeniami, monitorowania skali naruszeń przepisów dotyczących przewozu towarów niebezpiecznych, a także monitorowania procesu szkolenia w zakresie przewozu towarów niebezpiecznych.
 
 4. W przypadku stwierdzenia, w ramach nadzoru, nieprawidłowości w zakresie, o którym mowa w ust. 2, odpowiednio minister właściwy do spraw transportu albo minister właściwy do spraw żeglugi śródlądowej może wydawać wiążące wytyczne i polecenia kierownikom jednostek organizacyjnych właściwych w tych sprawach.
 
@@ -1172,22 +1257,22 @@ Art. 115–124. (pominięte)
 
 1. Kontrolę przewozu towarów niebezpiecznych przeprowadzają:
 
-- **1)** inspektorzy Inspekcji Transportu Drogowego na drogach, parkingach oraz w miejscu prowadzenia działalności gospodarczej przez uczestnika przewozu towarów niebezpiecznych w zakresie przewozu drogowego;
-- **2)** upoważnieni pracownicy Urzędu Transportu Kolejowego na obszarze kolejowym, bocznicach kolejowych oraz w miejscu prowadzenia działalności gospodarczej przez uczestnika przewozu towarów niebezpiecznych w zakresie przewozu koleją;
-- **3)** upoważnieni pracownicy urzędów żeglugi śródlądowej na statkach żeglugi śródlądowej, w portach i przystaniach oraz w miejscu prowadzenia działalności gospodarczej przez uczestnika przewozu towarów niebezpiecznych w zakresie przewozu żeglugą śródlądową;
-- **4)** funkcjonariusze Policji na drogach i parkingach;
-- **5)** funkcjonariusze Straży Granicznej na drogach i parkingach;
-- **6)** funkcjonariusze Służby Celno-Skarbowej na terytorium Rzeczypospolitej Polskiej;
-- **7)** żołnierze Żandarmerii Wojskowej w zakresie przewozu towarów niebezpiecznych wykonywanego przez siły zbrojne.
+- **1)** inspektorzy Inspekcji Transportu Drogowego – na drogach, parkingach oraz w miejscu prowadzenia działalności gospodarczej przez uczestnika przewozu towarów niebezpiecznych w zakresie przewozu drogowego;
+- **2)** upoważnieni pracownicy Urzędu Transportu Kolejowego – na obszarze kolejowym, bocznicach kolejowych oraz w miejscu prowadzenia działalności gospodarczej przez uczestnika przewozu towarów niebezpiecznych w zakresie przewozu koleją;
+- **3)** upoważnieni pracownicy urzędów żeglugi śródlądowej – na statkach żeglugi śródlądowej, w portach i przystaniach oraz w miejscu prowadzenia działalności gospodarczej przez uczestnika przewozu towarów niebezpiecznych w zakresie przewozu żeglugą śródlądową;
+- **4)** funkcjonariusze Policji – na drogach i parkingach;
+- **5)** funkcjonariusze Straży Granicznej – na drogach i parkingach;
+- **6)** funkcjonariusze Służby Celno-Skarbowej – na terytorium Rzeczypospolitej Polskiej;
+- **7)** żołnierze Żandarmerii Wojskowej – w zakresie przewozu towarów niebezpiecznych wykonywanego przez siły zbrojne.
 
 2. Osoby, o których mowa w ust. 1, przy przeprowadzaniu kontroli współdziałają w niezbędnym zakresie z upoważnionymi przedstawicielami:
 
-- **1)** organów dozoru jądrowego w sprawach warunków przewozu materiałów promieniotwórczych;
-- **2)** Transportowego Dozoru Technicznego w sprawach, o których mowa w art. 9 ust. 1 pkt 4;
-- **3)** Inspektoratu Wsparcia Sił Zbrojnych lub Wojskowego Dozoru Technicznego w zakresie przewozu towarów niebezpiecznych wykonywanego przez siły zbrojne;
-- **4)** Inspekcji Ochrony Środowiska w sprawach związanych z przestrzeganiem przepisów o ochronie środowiska;
-- **5)** straży ochrony kolei w sprawach związanych z przestrzeganiem przepisów porządkowych i dotyczących ochrony życia i zdrowia ludzi na obszarze kolejowym i w pojazdach kolejowych;
-- **6)** organów właściwych w sprawach, o których mowa w art. 9 ust. 1 pkt 6–8 w odpowiednim zakresie.
+- **1)** organów dozoru jądrowego – w sprawach warunków przewozu materiałów promieniotwórczych;
+- **2)** Transportowego Dozoru Technicznego – w sprawach, o których mowa w art. 9 ust. 1 pkt 4;
+- **3)** Inspektoratu Wsparcia Sił Zbrojnych lub Wojskowego Dozoru Technicznego – w zakresie przewozu towarów niebezpiecznych wykonywanego przez siły zbrojne;
+- **4)** Inspekcji Ochrony Środowiska – w sprawach związanych z przestrzeganiem przepisów o ochronie środowiska;
+- **5)** straży ochrony kolei – w sprawach związanych z przestrzeganiem przepisów porządkowych i dotyczących ochrony życia i zdrowia ludzi na obszarze kolejowym i w pojazdach kolejowych;
+- **6)** organów właściwych w sprawach, o których mowa w art. 9 ust. 1 pkt 6–8 – w odpowiednim zakresie.
 
 3. Osoby przeprowadzające kontrolę, o których mowa w ust. 1, dokonują kontroli na warunkach i w trybie określonych w przepisach określających zakres ich działania.
 
@@ -1211,7 +1296,7 @@ Art. 115–124. (pominięte)
 
 5. W przypadku stwierdzenia niewywiązywania się doradcy z obowiązków określonych w ustawie oraz odpowiednio w ADR, RID lub ADN, w zakresie przewozu towarów niebezpiecznych przez siły zbrojne, żołnierze Żandarmerii Wojskowej przekazują niezwłocznie informację o stwierdzonych naruszeniach odpowiednio do Szefa Inspektoratu Wsparcia Sił Zbrojnych lub Dyrektora TDT.
 
-6. Do kontroli działalności gospodarczej w siedzibie uczestnika przewozu towarów niebezpiecznych stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+6. Do kontroli działalności gospodarczej w siedzibie uczestnika przewozu towarów niebezpiecznych stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 101.**
 
@@ -1242,16 +1327,16 @@ Art. 115–124. (pominięte)
 
 **Art. 104.**
 
-1. Odpowiednio do posiadanych kompetencji Główny Inspektor Transportu Drogowego i Prezes Urzędu Transportu Kolejowego, w terminie do dnia 31 marca każdego roku kalendarzowego, przekazują ministrowi właściwemu do spraw transportu informacje o wysokości nałożonych kar za naruszenia dotyczące przewozu towarów niebezpiecznych oraz liczbie przeprowadzonych kontroli w zakresie przewozu towarów niebezpiecznych i stwierdzonych naruszeń przepisów dotyczących przewozu towarów niebezpiecznych w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych.
+1. Odpowiednio do posiadanych kompetencji Główny Inspektor Transportu Drogowego i Prezes Urzędu Transportu Kolejowego, w terminie do dnia 31 marca każdego roku kalendarzowego, przekazują ministrowi właściwemu do spraw transportu informacje o wysokości nałożonych kar za naruszenia dotyczące przewozu towarów niebezpiecznych oraz liczbie przeprowadzonych kontroli w zakresie przewozu towarów niebezpiecznych i stwierdzonych naruszeń przepisów dotyczących przewozu towarów niebezpiecznych – w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych.
 
 2. Szef Krajowej Administracji Skarbowej, Komendant Główny Straży Granicznej i Komendant Główny Policji, w terminie do dnia 31 marca każdego roku kalendarzowego, przekazują:
 
-- **1)** ministrowi właściwemu do spraw transportu informacje o wysokości nałożonych kar za naruszenia dotyczące przewozu towarów niebezpiecznych oraz liczbie przeprowadzonych kontroli w zakresie przewozu towarów niebezpiecznych i stwierdzonych naruszeń przepisów dotyczących przewozu towarów niebezpiecznych w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych;
-- **2)** ministrowi właściwemu do spraw żeglugi śródlądowej informacje o wysokości nałożonych kar za naruszenia dotyczące przewozu towarów niebezpiecznych oraz liczbie przeprowadzonych kontroli w zakresie przewozu towarów niebezpiecznych i stwierdzonych naruszeń przepisów dotyczących przewozu towarów niebezpiecznych w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych.
+- **1)** ministrowi właściwemu do spraw transportu informacje o wysokości nałożonych kar za naruszenia dotyczące przewozu towarów niebezpiecznych oraz liczbie przeprowadzonych kontroli w zakresie przewozu towarów niebezpiecznych i stwierdzonych naruszeń przepisów dotyczących przewozu towarów niebezpiecznych – w zakresie przewozu drogowego oraz przewozu koleją towarów niebezpiecznych;
+- **2)** ministrowi właściwemu do spraw żeglugi śródlądowej informacje o wysokości nałożonych kar za naruszenia dotyczące przewozu towarów niebezpiecznych oraz liczbie przeprowadzonych kontroli w zakresie przewozu towarów niebezpiecznych i stwierdzonych naruszeń przepisów dotyczących przewozu towarów niebezpiecznych – w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych.
 
 3. Komendant Główny Żandarmerii Wojskowej, w terminie do dnia 31 marca każdego roku kalendarzowego, przekazuje Ministrowi Obrony Narodowej informacje o wysokości nałożonych kar za naruszenia dotyczące przewozu towarów niebezpiecznych oraz liczbie przeprowadzonych kontroli w zakresie przewozu towarów niebezpiecznych i stwierdzonych naruszeń przepisów dotyczących przewozu towarów niebezpiecznych, a także liczbie złożonych wniosków o wszczęcie postępowania dyscyplinarnego.
 
-4. Dyrektorzy urzędów żeglugi śródlądowej, w terminie do dnia 31 marca każdego roku kalendarzowego, przekazują ministrowi właściwemu do spraw żeglugi śródlądowej informacje o wysokości nałożonych kar za naruszenia dotyczące przewozu towarów niebezpiecznych oraz liczbie przeprowadzonych kontroli w zakresie przewozu towarów niebezpiecznych i stwierdzonych naruszeń przepisów dotyczących przewozu towarów niebezpiecznych, a także liczbie złożonych wniosków o wszczęcie postępowania dyscyplinarnego w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych.
+4. Dyrektorzy urzędów żeglugi śródlądowej, w terminie do dnia 31 marca każdego roku kalendarzowego, przekazują ministrowi właściwemu do spraw żeglugi śródlądowej informacje o wysokości nałożonych kar za naruszenia dotyczące przewozu towarów niebezpiecznych oraz liczbie przeprowadzonych kontroli w zakresie przewozu towarów niebezpiecznych i stwierdzonych naruszeń przepisów dotyczących przewozu towarów niebezpiecznych, a także liczbie złożonych wniosków o wszczęcie postępowania dyscyplinarnego – w zakresie przewozu żeglugą śródlądową towarów niebezpiecznych.
 
 **Art. 105.**
 
@@ -1291,9 +1376,9 @@ Art. 115–124. (pominięte)
 
 4. Kary pieniężne, o których mowa w ust. 1, nakładają, w drodze decyzji administracyjnej, odpowiednio:
 
-- **1)** wojewódzki inspektor transportu drogowego na uczestników przewozu drogowego towarów niebezpiecznych;
-- **2)** Prezes Urzędu Transportu Kolejowego na uczestników przewozu koleją towarów niebezpiecznych;
-- **3)** dyrektor urzędu żeglugi śródlądowej na uczestników przewozu żeglugą śródlądową towarów niebezpiecznych;
+- **1)** wojewódzki inspektor transportu drogowego – na uczestników przewozu drogowego towarów niebezpiecznych;
+- **2)** Prezes Urzędu Transportu Kolejowego – na uczestników przewozu koleją towarów niebezpiecznych;
+- **3)** dyrektor urzędu żeglugi śródlądowej – na uczestników przewozu żeglugą śródlądową towarów niebezpiecznych;
 - **4)** organy Policji;
 - **5)** organy Straży Granicznej;
 - **6)** organy celne.
@@ -1321,11 +1406,11 @@ Art. 115–124. (pominięte)
 
 2. Suma kar pieniężnych nałożonych za naruszenia określone w załączniku nr 1 do ustawy, stwierdzone podczas jednej kontroli w podmiocie będącym uczestnikiem przewozu drogowego towarów niebezpiecznych, nie może przekroczyć:
 
-- **1)** 15 000 zł dla podmiotu wykonującego przewóz drogowy towarów niebezpiecznych i zatrudniającego kierowców w średniej liczbie arytmetycznej do 10 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
-- **2)** 20 000 zł dla podmiotu wykonującego przewóz drogowy towarów niebezpiecznych i zatrudniającego kierowców w średniej liczbie arytmetycznej powyżej 10 do 50 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
-- **3)** 25 000 zł dla podmiotu wykonującego przewóz drogowy towarów niebezpiecznych i zatrudniającego kierowców w średniej liczbie arytmetycznej powyżej 50 do 250 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
-- **4)** 30 000 zł dla podmiotu wykonującego przewóz drogowy towarów niebezpiecznych i zatrudniającego kierowców w średniej liczbie arytmetycznej większej niż 250 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
-- **5)** 40 000 zł dla innego uczestnika przewozu drogowego towarów niebezpiecznych.
+- **1)** 15 000 zł – dla podmiotu wykonującego przewóz drogowy towarów niebezpiecznych i zatrudniającego kierowców w średniej liczbie arytmetycznej do 10 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
+- **2)** 20 000 zł – dla podmiotu wykonującego przewóz drogowy towarów niebezpiecznych i zatrudniającego kierowców w średniej liczbie arytmetycznej powyżej 10 do 50 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
+- **3)** 25 000 zł – dla podmiotu wykonującego przewóz drogowy towarów niebezpiecznych i zatrudniającego kierowców w średniej liczbie arytmetycznej powyżej 50 do 250 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
+- **4)** 30 000 zł – dla podmiotu wykonującego przewóz drogowy towarów niebezpiecznych i zatrudniającego kierowców w średniej liczbie arytmetycznej większej niż 250 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
+- **5)** 40 000 zł – dla innego uczestnika przewozu drogowego towarów niebezpiecznych.
 
 3. Za kierowców, o których mowa w ust. 2 pkt 1–4, uważa się również osoby niezatrudnione przez podmiot wykonujący przewóz drogowy towarów niebezpiecznych, wykonujące osobiście przewozy drogowe na jego rzecz.
 
@@ -1358,7 +1443,7 @@ Art. 115–124. (pominięte)
 4. Upoważniony przedstawiciel, który nie dopełnia obowiązku w zakresie:
 
 - **1)** przechowywania dokumentacji technicznej przez okres określony dla producentów odpowiednio w ADR, RID i ADN lub
-- **2)** obowiązku udzielania właściwym organom wyspecjalizowanym wszelkich informacji lub udostępnienia dokumentacji koniecznej do wykazania zgodności ciśnieniowego urządzenia transportowego w języku polskim podlega karze pieniężnej w wysokości do 10 000 zł.
+- **2)** obowiązku udzielania właściwym organom wyspecjalizowanym wszelkich informacji lub udostępnienia dokumentacji koniecznej do wykazania zgodności ciśnieniowego urządzenia transportowego w języku polskim – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 5. Importer, który nie dopełnia obowiązku przechowywania kopii dokumentacji technicznej przez okres ustanowiony dla producenta odpowiednio w ADR, RID i ADN lub obowiązku zapewnienia udostępnienia tej dokumentacji właściwym organom wyspecjalizowanym, podlega karze pieniężnej w wysokości do 10 000 zł.
 
@@ -1387,7 +1472,7 @@ Art. 115–124. (pominięte)
 
 4. Nie pobiera się kary pieniężnej, o której mowa w art. 112a, po upływie 3 lat od dnia wydania ostatecznej decyzji o nałożeniu kary.
 
-5. Do kar pieniężnych, o których mowa w art. 112a, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760).
+5. Do kar pieniężnych, o których mowa w art. 112a, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760).
 
 **Art. 113.**
 
@@ -1405,7 +1490,7 @@ Art. 115–124. (pominięte)
 
 - **1)** art. 107, nakładanych przez organy wymienione w art. 107 ust. 4 pkt 2–6,
 - **2)** art. 108,
-- **3)** art. 112a, nakładanych przez organy wyspecjalizowane inne niż wymienione w ust. 1 stanowią dochód budżetu państwa.
+- **3)** art. 112a, nakładanych przez organy wyspecjalizowane inne niż wymienione w ust. 1 – stanowią dochód budżetu państwa.
 
 **Art. 114a.** Kary pieniężne, o których mowa w art. 107, art. 108 i art. 112a, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
@@ -1426,6 +1511,9 @@ Art. 115–124. (pominięte)
 2. W przypadku podmiotów wpisanych w dniu wejścia w życie niniejszej ustawy do rejestru przedsiębiorców prowadzących kursy dokształcające opłatę za wpis do rejestru podmiotów prowadzących kursy, o której mowa w art. 52 ust. 5, obniża się o 50 %.
 
 **Art. 127.** W sprawach:
+
+- **1)** o nadanie uprawnień doradcy,
+- **2)** o wydanie świadectwa dopuszczenia pojazdu ADR w zakresie opłat – wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 128.** Badania okresowe butli niepodlegających przepisom rozdziału 7 mogą być wykonywane przez Prezesa Urzędu Dozoru Technicznego do czasu wycofania ich z eksploatacji.
 
@@ -1455,11 +1543,273 @@ Art. 115–124. (pominięte)
 
 - **1)** art. 9 ust. 5, art. 11 ust. 3, art. 18 ust. 2, art. 23 ust. 3, art. 26, art. 27 ust. 4 i art. 31 ustawy z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. poz. 1671, z 2004 r. poz. 959 i 1808, z 2005 r. poz. 757 oraz z 2011 r. poz. 622 i 1016) zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 31, art. 41 ust. 3, art. 49, art. 58, art. 63 ust. 1 i art. 106,
 - **2)** art. 32 ust. 3 i art. 34 ust. 7 ustawy z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 41 ust. 3 i art. 49,
-- **3)** art. 41 ust. 8 i art. 41d ust. 4 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 49 i art. 63 ust. 2 nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+- **3)** art. 41 ust. 8 i art. 41d ust. 4 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie odpowiednio art. 49 i art. 63 ust. 2 – nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-3. Przepisy wykonawcze wydane na podstawie art. 80d ust. 7 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnienia w brzmieniu nadanym ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+3. Przepisy wykonawcze wydane na podstawie art. 80d ust. 7 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnienia w brzmieniu nadanym ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 134.** Traci moc:
 
+- **1)** ustawa z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. poz. 1671, z 2004 r. poz. 959 i 1808, z 2005 r. poz. 757 oraz z 2011 r. poz. 622 i 1016);
+- **2)** ustawa z dnia 31 marca 2004 r. o przewozie koleją towarów niebezpiecznych (Dz. U. poz. 962, z 2005 r. poz. 1184, z 2006 r. poz. 1834, z 2007 r. poz. 1238 oraz z 2011 r. poz. 622 i 1016).
+
 **Art. 135.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem:
+
+- **1)** art. 124, który wchodzi w życie z dniem ogłoszenia ;
+- **2)** art. 131 i art. 132, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia. (uchylony) Lp. Wykaz naruszeń obowiązków lub warunków wynikających Wysokość kary Nr grupy naruszeń z przepisów ustawy z dnia 19 sierpnia 2011 r. o przewozie w złotych oraz waga naruszeń, towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643) wskazane w załączniku I lub przepisów wiążących Rzeczpospolitą Polską umów do rozporządzenia międzynarodowych, w zakresie przewozu drogowego 2016/403 (PN – poważne naruszenie, BPN – bardzo poważne naruszenie, NN – najpoważniejsze naruszenie)
+
+1. OCHRONA TOWARÓW NIEBEZPIECZNYCH
+
+1. 1. Dopuszczenie do przewozu środkiem transportu przewożącym 500 towary niebezpieczne osoby niebędącej członkiem załogi
+
+1. 2. Dopuszczenie do pozostawienia środka transportu przewożącego 800 9.15 PN towary niebezpieczne bez wymaganego nadzoru lub niewłaściwe jego zaparkowanie
+
+2. DOKUMENTACJA
+
+2. 1. Niesporządzenie dokumentu przewozowego 1000
+
+2. 2. Sporządzenie dokumentu przewozowego, w którym nie są zawarte: 500 numer UN lub grupa pakowania (o ile została przyporządkowana) lub prawidłowa nazwa przewozowa towaru niebezpiecznego
+
+2. 3. Sporządzenie dokumentu przewozowego, w którym nie jest za- 300 warta wymagana informacja inna niż wskazana w lp. 2.2
+
+2. 4. Przewóz towaru niebezpiecznego bez dokumentu przewozowego 800 9.11 BPN
+
+2. 5. Przewóz towaru niebezpiecznego z dokumentem przewozowym, 500 9.11 BPN w którym nie są zawarte: numer UN lub grupa pakowania (o ile została przyporządkowana) lub prawidłowa nazwa przewozowa towaru niebezpiecznego
+
+2. 6. Przewóz towaru niebezpiecznego z dokumentem przewozowym, 300 9.11 BPN w którym nie jest zawarta wymagana informacja inna niż wskazana w lp. 2.5
+
+2. 7. Niewyposażenie załogi pojazdu w wymagane instrukcje pisemne 300 9.24 PN
+
+2. 8. Dopuszczenie do przewozu towaru niebezpiecznego kierowcy, 2000 9.12 BPN który nie uzyskał wymaganego zaświadczenia ADR
+
+2. 9. Nieuzyskanie wymaganego świadectwa dopuszczenia pojazdu 6000 9.6 BPN ADR
+
+2. 10. Brak w jednostce transportowej w rozumieniu przepisów ADR: 500 – za każdy
+
+- **1)** świadectwa dopuszczenia pojazdu ADR brakujący
+- **2)** kopii świadectwa dopuszczenia lub zatwierdzenia wydanych dokument przez właściwą władzę
+- **3)** certyfikatu pakowania kontenera lub pojazdu
+- **4)** świadectwa dopuszczenia dla przedziału ładunkowego lub osłony
+- **5)** wymaganego dokumentu innego niż wskazane w pkt 1–4
+
+2. 11. Wykonywanie załadunku lub rozładunku towaru niebezpiecznego w miejscu publicznym lub na obszarze zabudowanym:
+
+- **1)** bez wymaganego specjalnego zezwolenia właściwej władzy 2000
+- **2)** bez wymaganego powiadomienia właściwej władzy 500
+
+3. OPERACJE TRANSPORTOWE – SPOSÓB PRZEWOZU
+
+3. 1. Napełnienie towarem niebezpiecznym, którego przewóz jest za- 10 000 9.1 NN kazany, lub nadanie, załadunek lub przewóz towaru niebezpiecznego, którego przewóz jest zakazany
+
+3. 2. Napełnienie towarem niebezpiecznym w sposób niepozwalający 8000 9.3 NN na jego identyfikację lub nadanie, załadunek lub przewóz towaru niebezpiecznego w sposób niepozwalający na jego identyfikację
+
+3. 3. Napełnienie cysterny towarem niebezpiecznym, który nie jest 6000 9.2 NN dopuszczony do przewozu w cysternie, lub nadanie lub przewóz towaru niebezpiecznego w cysternie, który nie jest dopuszczony do przewozu w cysternie
+
+3. 4. Uwolnienie się towaru niebezpiecznego z opakowania, jednostki 6000 9.4 BPN transportowej w rozumieniu przepisów ADR, cysterny lub kontenera
+
+3. 5. Napełnienie cysterny towarami reagującymi ze sobą niebezpiecz- 5000 9.2 NN nie lub przewóz takich towarów umieszczonych w sąsiadujących komorach cysterny
+
+3. 6. Napełnienie lub przewóz towaru niebezpiecznego z przekroczeniem 5000 9.10 BPN dopuszczalnego stopnia napełnienia cysterny lub opakowania
+
+3. 7. Napełnienie cysterny lub przewóz produktów żywnościowych 3000 9.2 NN w cysternach używanych do przewozu towarów niebezpiecznych bez zastosowania środków zapobiegających zagrożeniom zdrowia
+
+3. 8. Wykonywanie przewozu towaru niebezpiecznego w cysternie, 2000 9.22 PN która nie jest odpowiednio zamknięta
+
+3. 9. Nadanie, załadunek lub przewóz towaru niebezpiecznego luzem, 6000 9.2 NN który nie jest dopuszczony do przewozu luzem
+
+3. 10. Nadanie, załadunek lub przewóz towaru niebezpiecznego luzem 6000 9.5 BPN w kontenerze lub nadwoziu pojazdu niedopuszczonych do przewozu luzem
+
+3. 11. Nadanie, załadunek lub przewóz towaru niebezpiecznego luzem 2000 9.5 BPN w kontenerze niezdatnym do użytku w rozumieniu przepisów ADR
+
+3. 12. Nadanie, załadunek lub przewóz towaru niebezpiecznego w sztu- 2000 9.21 PN kach przesyłki w kontenerze niezdatnym do użytku w rozumieniu przepisów ADR
+
+3. 13. Nadanie, załadunek, pakowanie lub przewóz w sztukach 6000 przesyłki towaru niebezpiecznego, który nie jest dopuszczony do takiego przewozu
+
+3. 14. Zapakowanie, załadunek lub nadanie towaru niebezpiecznego 3000 z naruszeniem przepisów dotyczących pakowania razem do sztuki przesyłki
+
+3. 15. Zapakowanie, nadanie, załadunek lub przewóz towaru niebez- 3000 9.2 NN piecznego w niecertyfikowanym opakowaniu
+
+3. 16. Zapakowanie towaru niebezpiecznego niezgodnie z obowiązują- 2000 cymi instrukcjami dotyczącymi pakowania
+
+3. 17. Zapakowanie, nadanie, załadunek lub przewóz towaru niebez- 2000 piecznego w opakowaniu, które nie jest odpowiednio zamknięte
+
+3. 18. Nieprzestrzeganie terminów badań okresowych lub okresów 2000 użytkowania opakowań
+
+3. 19. Zapakowanie, nadanie, załadunek lub przewóz towaru niebez- 1500 9.20 PN piecznego w opakowaniu uszkodzonym lub opakowaniu z pozostałościami towaru niebezpiecznego na jego zewnętrznej powierzchni
+
+3. 20. Stworzenie bezpośredniego zagrożenia dla ludzi lub środowiska 6000 9.7 BPN przez załadunek lub napełnienie towarem niebezpiecznym nieodpowiedniego środka transportu, cysterny lub kontenera lub przewóz towaru niebezpiecznego nieodpowiednim do takiego przewozu środkiem transportu, cysterną lub kontenerem
+
+3. 21. Przekroczenie wartości granicznych wskaźnika transportowego 5000 9.2 NN lub wskaźnika bezpieczeństwa krytycznościowego w przypadku przewozu towarów niebezpiecznych klasy 7
+
+3. 22. Naruszenie zasad przewozu na warunkach używania wyłącznego 3000 9.2 NN w przypadku towarów niebezpiecznych klasy 7
+
+3. 23. Nadanie, załadunek lub przewóz towaru niebezpiecznego z naru- 3000 9.9 BPN szeniem przepisów dotyczących zakazu ładowania razem
+
+3. 24. Nadanie, załadunek lub przewóz towaru niebezpiecznego w ilości 2000 9.10 BPN przekraczającej dopuszczalne limity na jednostkę transportową w rozumieniu przepisów ADR
+
+3. 25. Załadunek, napełnienie lub przewóz towaru niebezpiecznego 2000 9.17 PN nieodpowiednim do takiego przewozu środkiem transportu, cysterną lub kontenerem
+
+3. 26. Przewóz środkiem transportu zanieczyszczonym towarem niebez- 1500 piecznym
+
+3. 27. Załadunek lub przewóz towaru niebezpiecznego z naruszeniem 1000 9.8 BPN przepisów dotyczących rozmieszczania i mocowania ładunków
+
+3. 28. Używanie ognia lub nieosłoniętego płomienia w pojeździe prze- 1000 9.13 BPN wożącym towary niebezpieczne klasy 1, a także w jego pobliżu oraz podczas załadunku lub rozładunku tych towarów
+
+3. 29. Naruszenie zakazu palenia w trakcie manipulowania ładunkiem 500 9.14 BPN lub wykonywania czynności ładunkowych towarów niebezpiecznych, w pobliżu lub wewnątrz pojazdu lub kontenera
+
+4. OZNAKOWANIE
+
+4. 1. Przewóz towaru niebezpiecznego nieoznakowanym pojazdem 2000 9.23 PN (brak wymaganych tablic, nalepek, znaków i napisów)
+
+4. 2. Zapakowanie, nadanie, załadunek lub przewóz towaru niebez- 800 piecznego bez wymaganego oznakowania sztuk przesyłki lub opakowania zbiorczego albo w nieprawidłowo oznakowanych sztukach przesyłki lub opakowaniach zbiorczych – dla każdego numeru UN
+
+4. 3. Nadanie, napełnienie, załadunek lub przewóz towaru niebez- 500 9.23 PN piecznego nieprawidłowo oznakowanym środkiem transportu, w cysternie, pojeździe-baterii, kontenerze
+
+4. 4. Przewóz towaru niebezpiecznego z oznakowaniem, które nie od- 200 powiada wymiarom lub wymaganiom określonym w przepisach ADR
+
+4. 5. Nieuzasadnione oznakowanie środka transportu tablicami barwy 500 9.23 PN pomarańczowej lub nalepkami ostrzegawczymi
+
+5. WYPOSAŻENIE
+
+5. 1. Niewyposażenie jednostki transportowej w rozumieniu przepisów 200 – za każdy 9.19 PN ADR przewożącej towary niebezpieczne w wymagane wyposażenie brakujący ochronne lub awaryjne określone w przepisach ADR lub pisem- element nych instrukcjach
+
+5. 2. Niewyposażenie jednostki transportowej w rozumieniu przepisów 500 9.18 PN ADR przewożącej towary niebezpieczne w wymagane gaśnice lub wyposażenie tej jednostki w gaśnice niespełniające warunków określonych w przepisach ADR
+
+6. INNE NARUSZENIA
+
+6. 1. Nadanie towaru niebezpiecznego nieprawidłowo sklasyfikowanego 6000
+
+6. 2. Niewyznaczenie przez uczestnika przewozu towarów niebez- 5000 piecznych doradcy do spraw bezpieczeństwa przewozu towarów niebezpiecznych
+
+6. 3. Nieprzesłanie w ustawowo określonym terminie rocznego sprawozdania z działalności uczestnika przewozu towarów niebezpiecznych, jeżeli od ustawowo określonego terminu do dnia przesłania sprawozdania:
+
+- **1)** nie upłynęło 14 dni 200
+- **2)** upłynęło co najmniej 14 dni 2000
+- **3)** upłynęły co najmniej 3 miesiące 5000
+
+6. 4. Nieprzeszkolenie osób wykonujących czynności związane z prze- 2000 wozem towaru niebezpiecznego, zatrudnionych przez uczestnika przewozu towarów niebezpiecznych lub wykonujących te czynności na jego rzecz
+
+6. 5. Niesporządzenie albo sporządzenie niezgodnie z wymaganiami 5000 planu ochrony
+
+6. 6. Niepowiadomienie przez uczestnika przewozu towarów niebez- 1000 piecznych, w przypadku zaistnienia wypadku lub awarii, zgodnie z przepisami ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, jednostki ochrony przeciwpożarowej lub centrum powiadamiania ratunkowego
+
+6. 7. Wykonywanie przewozu pojazdem wyposażonym w zbiornik lub 2000 zbiorniki paliwa o łącznej pojemności przekraczającej maksymalną pojemność określoną w przepisach ADR dla jednostki transportowej w rozumieniu tych przepisów
+
+6. 8. Wykonywanie przewozu drogowego towarów niebezpiecznych 1500 9.16 PN zespołem pojazdów składającym się z więcej niż jednej naczepy lub przyczepy
+
+6. 9. Wykonywanie przewozu towaru niebezpiecznego pojazdem nie- 2000 odpowiadającym warunkom określonym w części 9 ADR Lp. Wykaz naruszeń obowiązków lub warunków Rodzaj transportu Wysokość kary wynikających z przepisów ustawy z dnia w złotych 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643) kolejowy żeglugą lub przepisów wiążących Rzeczpospolitą Polską śródlądową umów międzynarodowych, w zakresie przewozu koleją i żeglugą śródlądową
+
+1. DOKUMENTY
+
+1. 1. Niesporządzenie dokumentu przewozowego X X 1000
+
+1. 2. Sporządzenie dokumentu przewozowego, w którym X X 500 nie są zawarte: numer UN, grupa pakowania (o ile została przyporządkowana) lub prawidłowa nazwa przewozowa towaru niebezpiecznego
+
+1. 3. Sporządzenie dokumentu przewozowego, X X 300 w którym nie jest zawarta wymagana informacja inna niż wskazana w lp. 1.2
+
+1. 4. Przewóz towaru niebezpiecznego z dokumentem X X 300 przewozowym, o którym mowa w lp. 1.2 lub 1.3, albo bez dokumentu przewozowego
+
+1. 5. Dopuszczenie do przewozu towaru niebezpiecz- ‒ X 2000 nego osoby, która nie uzyskała świadectwa eksperta ADN
+
+1. 6. Niewyposażenie środka transportu w wymagane X X 250 instrukcje pisemne
+
+1. 7. Nieuzyskanie wymaganego świadectwa dopusz- ‒ X 6000 czenia lub kopii świadectwa dopuszczenia dla przedziału ładunkowego lub osłony
+
+1. 8. Niewyposażenie załogi lub prowadzącego pojazd ‒ X 500 w wymagane świadectwa dopuszczenia lub kopię świadectwa dopuszczenia dla przedziału ładunkowego lub osłony
+
+1. 9. Nieuzyskanie przez uczestnika przewozu X X 2000 towarów niebezpiecznych wcześniejszego zatwierdzenia przez właściwą władzę dla przewozu materiału promieniotwórczego
+
+1. 10. Wykonywanie przewozu towaru niebezpiecz- ‒ X 6000 nego bez wymaganego świadectwa dopuszczenia statku ADN do przewozu niektórych towarów niebezpiecznych lub tymczasowego świadectwa
+
+2. SPOSÓB PRZEWOZU
+
+2. 1. Napełnienie cysterny towarem niebezpiecz- X X 6000 nym, który nie jest dopuszczony do przewozu w cysternie, lub nadanie lub przewóz w cysternie towaru niebezpiecznego, który nie jest dopuszczony do przewozu w cysternie
+
+2. 2. Nadanie, załadunek lub przewóz towaru nie- X X 6000 bezpiecznego luzem, który nie jest dopuszczony do przewozu luzem
+
+2. 3. Zapakowanie, nadanie, załadunek lub przewóz X X 6000 w sztukach przesyłki towaru niebezpiecznego, który nie jest dopuszczony do przewozu w sztukach przesyłki
+
+2. 4. Nadanie, załadunek lub przewóz towaru X X 3000 niebezpiecznego z naruszeniem przepisów dotyczących zakazu ładowania razem
+
+2. 5. Załadunek lub przewóz towaru niebezpiecz- X X 1000 nego z naruszeniem przepisów dotyczących rozmieszczania i mocowania ładunków
+
+2. 6. Napełnienie cysterny lub przewóz towaru X X 4500 niebezpiecznego w cysternie z naruszeniem przepisów dotyczących dopuszczalnego stopnia napełnienia cysterny
+
+2. 7. Napełnienie cysterny towarami reagującymi X X 5000 ze sobą niebezpiecznie lub przewóz takich towarów umieszczonych w sąsiadujących komorach cysterny
+
+2. 8. Przewóz środkiem transportu zanieczyszczo- X X 1500 nym towarem niebezpiecznym
+
+2. 9. Nadanie, załadunek lub przewóz towaru nie- X X 2000 bezpiecznego w ilościach przekraczających ilości dozwolone odpowiednio w RID lub ADN
+
+2. 10. Nadanie lub przewóz towaru niebezpiecznego X X 1000 z naruszeniem wymaganych środków ostrożności przy jego przewozie razem z artykułami żywnościowymi, towarami konsumpcyjnymi lub karmą dla zwierząt
+
+2. 11. Napełnienie cysterny lub przewóz produktów X X 3000 żywnościowych w cysternach używanych do przewozu towarów niebezpiecznych bez zastosowania środków zapobiegających zagrożeniom zdrowia
+
+2. 12. Niezachowanie odległości ochronnej przy X ‒ 4000 zestawianiu składu pociągu w sytuacjach określonych w części 7 RID
+
+2. 13. Kontynuowanie przewozu pomimo stwierdze- X X 6000 nia uwalniania się towaru niebezpiecznego z urządzenia transportowego lub środka transportu
+
+3. ŚRODKI TRANSPORTU I URZĄDZENIA TRANSPORTOWE
+
+3. 1. Załadunek, napełnienie lub przewóz towaru X X 3000 niebezpiecznego nieodpowiednim do takiego przewozu środkiem transportu lub w nieodpowiednim urządzeniu transportowym
+
+3. 2. Niewyposażenie środka transportu przewożą- ‒ X 500 cego towary niebezpieczne w wymagane gaśnice lub wyposażenie go w gaśnice niespełniające warunków określonych w przepisach ADN
+
+3. 3. Niewyposażenie środka transportu przewożą- ‒ X 200 – za każdy cego towary niebezpieczne w wymagane wy- brakujący element posażenie ochronne określone w ADN
+
+3. 4. Niewyposażenie środka transportu przewożą- X ‒ 500 cego towary niebezpieczne w wymagane środki ochrony układu oddechowego, zgodnie z instrukcją wewnętrzną przewoźnika
+
+3. 5. Nadanie lub przewóz towaru niebezpiecznego X X 200 – za każdy środkiem transportu, w cysternie, pojeździe- brakujący element -baterii, wagonie-baterii, kontenerze, MEGC lub pojeździe MEMU, niezaopatrzonych w wymagane i prawidłowe oznakowanie, w zakresie:
+
+- **1)** tablicy lub tablic barwy pomarańczowej
+- **2)** nalepki lub nalepek ostrzegawczych
+- **3)** wymaganego oznakowania innego niż wskazane w pkt 1 i 2
+
+3. 6. Nadanie lub przewóz towaru niebezpiecznego X ‒ 500 środkiem transportu lub urządzeniem transportowym z niezdjętymi lub niezakrytymi nalepkami ostrzegawczymi i tablicami barwy pomarańczowej, jeżeli przepisy RID tego wymagają
+
+3. 7. Wykonywanie przewozu towaru niebezpiecz- X X 2000 nego w kontenerze, wagonie, cysternie lub innym urządzeniu transportowym niespełniającym wymagań określonych w części 4, 6 lub 7 odpowiednio RID lub ADN
+
+3. 8. Dopuszczenie do przewozu towaru niebez- X X 1000 piecznego w urządzeniu transportowym z pozostałościami towaru niebezpiecznego na jego zewnętrznej powierzchni
+
+3. 9. Nadanie towaru niebezpiecznego w kontenerze X X 2000 niezdatnym do użytku lub niezgodnym z odpowiednimi wymaganiami dla danego typu kontenera lub dla przewożonego towaru niebezpiecznego
+
+3. 10. Załadunek lub nadanie towaru niebezpiecznego X X 1000 luzem w kontenerze niedopuszczonym przez właściwą władzę
+
+4. OPAKOWANIA
+
+4. 1. Zapakowanie, nadanie, załadunek lub przewóz X X 3000 towaru niebezpiecznego w opakowanie, które nie spełnia wymagań odpowiednio RID lub ADN, odrębnie dla każdego numeru UN lub rodzaju opakowania
+
+4. 2. Zapakowanie, nadanie lub załadunek towaru X X 800 niebezpiecznego bez wymaganego oznakowania sztuk przesyłki lub opakowania zbiorczego albo w nieprawidłowo oznakowanych sztukach przesyłki lub opakowaniach zbiorczych dla każdego numeru UN
+
+4. 3. Zapakowanie, załadunek lub nadanie towaru X X 3000 niebezpiecznego z naruszeniem przepisów dotyczących pakowania razem do sztuki przesyłki
+
+5. INNE NARUSZENIA
+
+5. 1. Nadanie towaru niebezpiecznego nieprawi- X X 6000 dłowo sklasyfikowanego
+
+5. 2. Załadunek, nadanie lub przewóz towaru nie- X X 10 000 bezpiecznego niedopuszczonego do przewozu
+
+5. 3. Niewyznaczenie przez uczestnika przewozu to- X X 5000 warów niebezpiecznych doradcy do spraw bezpieczeństwa przewozu towarów niebezpiecznych
+
+5. 4. Nieprzesłanie w ustawowo określonym termi- X X nie rocznego sprawozdania z działalności uczestnika przewozu towarów niebezpiecznych, jeżeli od ustawowo określonego terminu do dnia przesłania sprawozdania:
+
+- **1)** nie upłynęło 14 dni 200
+- **2)** upłynęło co najmniej 14 dni 2000
+- **3)** upłynęły co najmniej 3 miesiące 5000
+
+5. 5. Nieprzeszkolenie osób wykonujących czynności X X 2000 związane z przewozem towaru niebezpiecznego, zatrudnionych przez uczestnika przewozu towarów niebezpiecznych lub wykonujących te czynności na jego rzecz
+
+5. 6. Niesporządzenie lub sporządzenie niezgodnie X ‒ 5000 z wymaganiami planu zapewnienia bezpieczeństwa
+
+5. 7. Dopuszczenie do pozostawienia środka trans- X X 800 portu przewożącego towary niebezpieczne bez wymaganego nadzoru
+
+5. 8. Dopuszczenie do postoju środka transportu X ‒ 500 przewożącego towary niebezpieczne bez zabezpieczenia hamulcem ręcznym
+
+5. 9. Używanie ognia lub nieosłoniętego płomienia X ‒ 2000 w środkach transportu przewożących towary niebezpieczne oznakowane nalepkami ostrzegawczymi nr 1, 1.4, 1.5, 1.6, 2.1, 3, 4.1, 4.2,
+
+5. 1 lub 5.2, a także w ich pobliżu
+
+5. 10. Niepowiadomienie przez uczestnika przewozu X X 1000 towarów niebezpiecznych, w przypadku zaistnienia wypadku lub awarii, zgodnie z przepisami ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, jednostki ochrony przeciwpożarowej lub centrum powiadamiania ratunkowego
+
+5. 11. Niesporządzenie lub sporządzenie niezgodnie X ‒ 5000 z przepisami RID planu awaryjnego dla stacji rozrządowej
+
 

@@ -8,10 +8,10 @@ pos: 1422
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 września 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1422 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 7 września 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1422/text.pdf) |
 
-Poz. 1422 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 7 września 2016 r.
 w sprawie sposobu i cech umożliwiających weryfikację istnienia i treści pisma w systemie teleinformatycznym obsługującym postępowanie sądowe Na podstawie art. 53a § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r.
-poz. 133, z późn. zm. ) zarządza się, co następuje: § 1. Weryfikacja istnienia i treści pisma w systemie teleinformatycznym obsługującym postępowanie sądowe, zwanego dalej „systemem teleinformatycznym”, odbywa się za pośrednictwem usługi udostępnianej na stronie internetowej.
+poz. 133, z późn. zm. ) zarządza się, co następuje:
+§ 1. Weryfikacja istnienia i treści pisma w systemie teleinformatycznym obsługującym postępowanie sądowe, zwanego dalej „systemem teleinformatycznym”, odbywa się za pośrednictwem usługi udostępnianej na stronie internetowej.
 § 2. 1. Pismo pochodzące od sądu opatruje się informacją, która umożliwia jednoznaczne zweryfikowanie istnienia i treści pisma w systemie teleinformatycznym.
 2. Informacja zawiera:
 1) niepowtarzalny identyfikator, który umożliwia weryfikację pisma z danymi zawartymi w systemie teleinformatycznym;

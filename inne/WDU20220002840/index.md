@@ -8,10 +8,10 @@ pos: 2840
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Poz. 22884400 ROZPORZĄDZENIE RADY MINISTRÓW dnia 21 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22884400 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002840) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2840/text.pdf) |
 
-sprawie stopni wojskowych, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celnej, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego Służby Więziennej odpowiadających stopniom policyjnym Na podstawie art. 47 ust. 2 ustawy dnia 6 kwietnia 1990 r. Policji (Dz. U. 2021 r. poz. 1882, późn. zm. ) zarządza się, co następuje: § 1. Stopnie wojskowe, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celnej, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego Służby Więziennej odpowiadające stopniom policyjnym są określone załączniku rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie dniem 1 stycznia 2023 r.
-Prezes Rady Ministrów: M. Morawiecki M … W M W W W W W W W W W W W W W W W W W M M
+w sprawie stopni wojskowych, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celnej, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego i Służby Więziennej odpowiadających stopniom policyjnym Na podstawie art. 47 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm. ) zarządza się, co następuje:
+§ 1. Stopnie wojskowe, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celnej, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego i Służby Więziennej odpowiadające stopniom policyjnym są określone w załączniku do rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
+Prezes Rady Ministrów: M. Morawiecki W W W W … M M W M W W W W W W W W M W W W W W W W W W W
 

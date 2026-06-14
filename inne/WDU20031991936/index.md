@@ -8,7 +8,7 @@ pos: 1936
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o wykonywaniu prac podwodnych
@@ -42,6 +42,26 @@ source: "isap-pdf"
 - **3)** płetwonurkowania w celach badawczych organizowanego przez uczelnie i instytuty badawcze.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** baza prac podwodnych – miejsce zainstalowania urządzeń technicznych i wyposażenia umożliwiających bezpieczne przygotowanie i przeprowadzenie prac podwodnych oraz czynności po ich zakończeniu;
+- **2)** czynnik oddechowy – stosowane do oddychania sprężone powietrze atmosferyczne, tlen lub mieszaninę oddechową;
+- **3)** dekompresja – kontrolowany proces obniżania ciśnienia oddziałującego na organizm nurka, prowadzony zgodnie z procedurą prac podwodnych;
+- **4)** długotrwałe prace podwodne – prace podwodne, których czas trwania przekracza 8 godzin, polegające na jednorazowym, ciągłym pozostawaniu nurka pod wpływem podwyższonego ciśnienia w czasie wykonywania prac pod powierzchnią wody i w czasie przebywania na powierzchni w komorze hiperbarycznej;
+- **5)** dzwon nurkowy – zbiornik ciśnieniowy, którego konstrukcja i wyposażenie pozwalają na transportowanie nurków pod powierzchnię wody;
+- **6)** głębinowe prace podwodne – prace prowadzone pod powierzchnią wody na głębokości większej niż 50 m;
+- **7)** komora dekompresyjna – zbiornik ciśnieniowy o konstrukcji i wyposażeniu umożliwiających prowadzenie pod opieką lekarza kompresji i dekompresji nurków;
+- **8)** komora hiperbaryczna – zbiornik ciśnieniowy o konstrukcji i wyposażeniu umożliwiających przebywanie w nim nurków w warunkach sztucznie wytworzonego podwyższonego ciśnienia atmosferycznego w czasie prowadzenia długotrwałych lub głębinowych prac podwodnych albo w celu przeprowadzania dekompresji;
+- **9)** kompresja – kontrolowany proces wzrostu ciśnienia oddziałującego na organizm nurka, prowadzony zgodnie z procedurą prac podwodnych;
+- **10)** nurek – osobę wykonującą prace pod powierzchnią wody w sprzęcie nurkowym albo pozostającą w warunkach sztucznie wytworzonego podwyższonego ciśnienia atmosferycznego;
+- **11)** obiekt zanurzalny – dzwon nurkowy, pojazd podwodny, batyskaf lub inne urządzenie przeznaczone do przebywania w nim osób w czasie wykonywania prac podwodnych;
+- **12)** organizator prac podwodnych – osobę fizyczną, osobę prawną oraz jednostkę organizacyjną niemającą osobowości prawnej, świadczącą usługi w zakresie prac podwodnych oraz organizującą te prace;
+- **13)** prace podwodne – czynności wykonywane przez osoby pozostające pod powierzchnią wody w sprzęcie nurkowym lub w warunkach sztucznie wytworzonego podwyższonego ciśnienia atmosferycznego, a także czynności wykonywane na powierzchni przez osoby organizujące te prace oraz obsługujące urządzenia bazy prac podwodnych;
+- **14)** prace podwodne na małych głębokościach – prace prowadzone pod powierzchnią wody na głębokości do 20 m;
+- **15)** prace podwodne na średnich głębokościach – prace prowadzone pod powierzchnią wody na głębokości od 20 m do 50 m;
+- **16)** prace podwodne wykonywane w trudnych warunkach – czynności wykonywane pod powierzchnią wody w nocy, w czasie opadów atmosferycznych, przy temperaturze powietrza lub wody niższej niż 4°C, przy temperaturze powietrza wyższej niż 25°C, temperaturze wody wyższej niż 35°C, gdy widzialność w toni wodnej jest mniejsza niż 1 m, przy prędkości prądu wody większej niż 0,5 m/s i w akwenach górskich położonych powyżej 300 m nad poziomem morza;
+- **17)** procedura prac podwodnych – sposób postępowania przy wykonywaniu prac podwodnych, określający kolejność wykonywanych czynności, rodzaj sprzętu nurkowego, głębokość zanurzania, rodzaj i czas dekompresji, dopuszczalny czas pracy i przebywania w warunkach podwyższonego ciśnienia, długość przerw pomiędzy kolejnymi zanurzeniami, zasady asekuracji, łączności i postępowania w przypadku awarii lub wystąpienia objawów choroby dekompresyjnej;
+- **18)** sprzęt nurkowy – wyposażenie i urządzenia techniczne nakładane bezpośrednio na ciało nurka, składające się z aparatu oddechowego lub innego urządzenia doprowadzającego czynnik oddechowy, skafandra, środków ochrony głowy, odzieży ocieplonej i ochronnej, butów lub płetw, kompensatorów pływalności, pasów nośnych, stelaża, liny sygnałowej, noża, narzędzi oraz wyposażenia dodatkowego;
+- **19)** szczególnie niebezpieczne prace podwodne – czynności wykonywane pod powierzchnią wody z zastosowaniem materiałów wybuchowych lub pirotechnicznych, przy skażeniu substancjami stwarzającymi zagrożenie albo ich mieszaninami stwarzającymi zagrożenie, przy cięciu i spawaniu metali, przy użyciu urządzeń hydraulicznych i pneumatycznych, przy poszukiwaniu, przenoszeniu i rozbrajaniu min lub amunicji, a także przy prowadzeniu prób nowego sprzętu nurkowego lub sprawdzaniu nowych technologii prac podwodnych.
 
 #### Rozdział 2 Warunki wykonywania prac podwodnych
 
@@ -209,6 +229,9 @@ source: "isap-pdf"
 
 **Art. 17.** Nurek zatrudniony na podstawie umowy o pracę otrzymuje dodatek w wysokości 50% wynagrodzenia za każdą godzinę pracy:
 
+- **1)** przy wykonywaniu prac podwodnych w trudnych warunkach;
+- **2)** przy wykonywaniu szczególnie niebezpiecznych prac podwodnych.
+
 **Art. 18.** W czasie wykonywania prac pod powierzchnią wody organizator prac podwodnych zapewnia nurkowi bezpłatne wyżywienie, o wartości kalorycznej nie mniejszej niż 2500 kcal dziennie.
 
 #### Rozdział 4 Zawody związane z wykonywaniem prac podwodnych
@@ -361,6 +384,12 @@ source: "isap-pdf"
 - **6)** ustalanie, na wniosek ministra właściwego do spraw gospodarki morskiej, państwowego inspektora pracy lub prokuratora, przyczyn i okoliczności wypadków powstałych przy wykonywaniu prac podwodnych.
 
 **Art. 26.** Minister właściwy do spraw gospodarki morskiej, mając na uwadze specyfikę zawodów, o których mowa w art. 19, i uwzględniając aktualny stan wiedzy w tej dziedzinie, określi, w drodze rozporządzenia:
+
+- **1)** tryb i kryteria uznawania szkoleń prowadzonych przez ośrodek szkoleniowy, cofania uznania oraz przeprowadzania kontroli i oceny tych szkoleń;
+- **2)** ramowe programy szkoleń i wymagań egzaminacyjnych;
+- **3)** tryb, sposób i terminy przeprowadzania egzaminów przez komisję;
+- **4)** (uchylony)
+- **5)** kryteria, którym powinni odpowiadać kandydaci na przewodniczącego, zastępcę przewodniczącego, sekretarza i członków komisji.
 
 **Art. 27.**
 

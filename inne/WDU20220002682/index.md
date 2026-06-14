@@ -8,10 +8,10 @@ pos: 2682
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 22668822 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002682) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2682/text.pdf) |
 
-Poz. 22668822 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 grudnia 2022 r.
-w sprawie wzoru formularza zgłoszenia poważnego incydentu Na podstawie art. 48 ust. 13 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974) zarządza się, co następuje: § 1. Określa się wzór formularza zgłoszenia poważnego incydentu, stanowiący załącznik do rozporządzenia.
+w sprawie wzoru formularza zgłoszenia poważnego incydentu Na podstawie art. 48 ust. 13 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974) zarządza się, co następuje:
+§ 1. Określa się wzór formularza zgłoszenia poważnego incydentu, stanowiący załącznik do rozporządzenia.
 § 2. Postępowania wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia są kontynuowane bez konieczności dokonywania ponownego zgłoszenia na formularzu poważnego incydentu zgodnie ze wzorem określonym w niniejszym rozporządzeniu.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Zdrowia: A. Niedzielski Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
@@ -35,8 +35,9 @@ Niniejsze rozporządzenie służy stosowaniu:
 UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18 oraz Dz. Urz. UE L 241 z 08.07.2021, str. 7);
 2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167, Dz. Urz. UE L 233 z 01.07.2021, str. 9 oraz Dz. Urz. UE L 19 z 28.01.2022, str. 3).
 Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 16 lutego 2016 r. w sprawie kryteriów raportowania zdarzeń z wyrobami, sposobu zgłaszania incydentów medycznych i działań z zakresu bezpieczeństwa wyrobów (Dz. U.
-poz. 201), które utraciło moc z dniem 26 maja 2022 r. w związku z wejściem w życie ustawy z dnia 7 kwietnia 2022 r. o wyrobach 1 Załącznik do rozporządzenia Ministra Zdrowia z dnia 12 grudnia 2022 r.
-(Dz. U. poz. …) WZÓR Formularz zgłoszenia poważnego incydentu Formularz służy do zgłaszania poważnych incydentów związanych z wyrobami medycznymi.
+poz. 201), które utraciło moc z dniem 26 maja 2022 r. w związku z wejściem w życie ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974).
+Załącznik do rozporządzenia Ministra Zdrowia z dnia 12 grudnia 2022 r.
+(Dz. U. poz. …) WZÓR WZÓR Formularz zgłoszenia poważnego incydentu Formularz służy do zgłaszania poważnych incydentów związanych z wyrobami medycznymi.
 Do zgłaszania działania niepożądanego produktu leczniczego (leku) należy używać formularzy udostępnianych przez System Monitorowania Zagrożeń (dostępnych na stronie smz.ezdrowie.gov.pl).
 1. Poważny incydent oznacza incydent, który bezpośrednio lub pośrednio doprowadził, mógł doprowadzić lub może doprowadzić do któregokolwiek z niżej wymienionych zdarzeń:
 1) zgon pacjenta, użytkownika lub innej osoby;
@@ -54,7 +55,7 @@ Incydent oznacza wszelkie wadliwe działanie lub pogorszenie właściwości lub 
 Zgłaszający poważny incydent jest zobowiązany do pseudonimizacji danych osobowych pacjenta lub pacjentów, których dotyczy zgłoszenie.
 W przypadku gdy zgłaszającym jest osoba fizyczna, której dotyczy poważny incydent (pacjent), złożenie zgłoszenia oznacza wyrażenie zgody na przetwarzanie danych osobowych podanych w formularzu przez adresata zgłoszenia podanego w części 2 formularza, który jest administratorem danych osobowych. Jeżeli zgłaszająca osoba fizyczna, której dotyczy poważny incydent (pacjent), nie wyraża zgody na przetwarzanie jej danych osobowych przez adresata zgłoszenia, przekazuje zgłoszenie jedynie do Prezesa Urzędu z żądaniem przekazania go do adresata zgłoszenia po uprzedniej pseudonimizacji danych zgłaszającego.
 Zgłaszającemu będącemu osobą fizyczną przysługuje prawo dostępu do dotyczących go danych oraz prawo do poprawienia lub usunięcia nieprawidłowych lub niekompletnych danych. Dane są poprawiane i usuwane w najkrótszym możliwym terminie, nie później jednak niż w terminie 60 dni od złożenia wniosku przez osobę, której dane dotyczą.
-WZÓR Dane osobowe są przechowywane w formie umożliwiającej identyfikację osób, których dane dotyczą, nie dłużej niż przez okresy, o których mowa w art. 10 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.).
+Dane osobowe są przechowywane w formie umożliwiającej identyfikację osób, których dane dotyczą, nie dłużej niż przez okresy, o których mowa w art. 10 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.).
 Informacja dotycząca przetwarzania danych osobowych przez Prezesa Urzędu znajduje się na stronie internetowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (http://urpl.gov.pl/pl/daneosobowe).
 Podanie w formularzu numeru telefonu i adresu poczty elektronicznej oraz danych osoby do kontaktu przez zgłaszającego jest fakultatywne, jednak podanie tych danych ułatwi producentowi lub upoważnionemu przedstawicielowi kontakt ze zgłaszającym i przyczyni się do szybszego przeprowadzenia postępowania wyjaśniającego przyczynę poważnego incydentu.
 Form for serious incident notification The form is used to notify serious incidents related to medical devices.
@@ -74,5 +75,9 @@ Incident means any malfunction or deterioration in the characteristics or perfor
 9. Information on the processing of personal data: Processing of personal data by the recipient of this notification must be conducted in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1–88 with amend.).
 Notifier of serious incident is obliged of pseudonymization of patient or patients personal data in this form.
 In case when notifier is a physical persone being subject of serious incident (patient) providing of this notification means permission for processing of provided personal data of the notifier by the recipient of the notification indicated in the part 2, which is controller of these personal data. If notifying physical person, being victim of serious incident does not allow processing of its personal data by the entity being informed about serious incident, then sends this notification to the President of the Office only with request of pseudonimization of its personal data by President of the Office before forwarding of this notification to the recipient described in part 2.
+Physical persons whose personal data are provided in the notification keep the right of access to data relating to them, and the right to have inaccurate or incomplete data corrected and erased. Corrections and deletions shall be carried out as soon as possible, but no later than 60 days after a request is made by a data subject.
+Personal data shall be kept in a form which permits identification of data subjects for periods no longer than those referred to in Article 10(8) of Regulation Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1–175 with amend.).
+Information (in Polish only) on the processing of personal data by the President of the Office is available on the website of the Office for Registration of Medicinal Products, Medical Devices and Biocidal Products (http://urpl.gov.pl/pl/daneosobowe).
+Providing of the telephone number and e-mail address as well as the name and surname of the contact person is optional, however providing these data will help the manufacturer or the authorized representative to contact the notifier and will allow faster investigation of the cause of the serious incident.
 ………………………………….. ………………….. ………………..
 

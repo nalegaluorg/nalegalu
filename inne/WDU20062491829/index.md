@@ -8,7 +8,7 @@ pos: 1829
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
 # o Polskiej Agencji Żeglugi Powietrznej
@@ -45,7 +45,7 @@ source: "isap-pdf"
 
 1. Agencja podlega ministrowi właściwemu do spraw transportu, z zastrzeżeniem ust. 2.
 
-2. Prawa i obowiązki państwowej władzy nadzorującej, w rozumieniu przepisów rozporządzenia (WE) nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającego ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23) określone w rozporządzeniu (WE) nr 550/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie zapewniania służb nawigacji lotniczej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 31) i rozporządzeniu Komisji (WE) nr 2096/2005 z dnia 20 grudnia 2005 r. ustanawiającego wspólne wymogi dotyczące zapewniania służb żeglugi powietrznej (Dz. Urz. UE L 335 z 21.12.2005, str. 13) oraz inne prawa i obowiązki w zakresie Prezes Urzędu Lotnictwa Cywilnego.
+2. Prawa i obowiązki państwowej władzy nadzorującej, w rozumieniu przepisów rozporządzenia (WE) nr 549/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. ustanawiającego ramy tworzenia Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 23) określone w rozporządzeniu (WE) nr 550/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie zapewniania służb nawigacji lotniczej w Jednolitej Europejskiej Przestrzeni Powietrznej (Dz. Urz. UE L 96 z 31.03.2004; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 31) i rozporządzeniu Komisji (WE) nr 2096/2005 z dnia 20 grudnia 2005 r. ustanawiającego wspólne wymogi dotyczące zapewniania służb żeglugi powietrznej (Dz. Urz. UE L 335 z 21.12.2005, str. 13) oraz inne prawa i obowiązki w zakresie wykonywania bieżącego nadzoru nad realizacją zadań przez Agencję, wykonuje Prezes Urzędu Lotnictwa Cywilnego.
 
 **Art. 3.**
 
@@ -58,7 +58,8 @@ source: "isap-pdf"
     - **d)** rozporządzeniem (WE) nr 552/2004 Parlamentu Europejskiego i Rady z dnia 10 marca 2004 r. w sprawie interoperacyjności Europejskiej Sieci Zarządzania Ruchem Lotniczym (Dz. Urz. UE L 96 z 31.03.2004; Dz. Urz.
     - **e)** rozporządzeniem Komisji (WE) nr 2096/2005 z dnia 20 grudnia 2005 r.
 
-- **2)** umowami międzynarodowymi i uchwałami organizacji międzynarodowych, o których mowa w art. 3 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z późn. zm. ), zwanej dalej „Prawem lotniczym”, i wymaganiami międzynarodowymi, o których mowa w art. 3 ust. 4 Prawa lotniczego; ustawy nie stanowią inaczej.
+- **2)** umowami międzynarodowymi i uchwałami organizacji międzynarodowych, o których mowa w art. 3 ust. 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z późn. zm. ), zwanej dalej „Prawem lotniczym”, i wymaganiami międzynarodowymi, o których mowa w art. 3 ust. 4 Prawa lotniczego;
+- **3)** przepisami Prawa lotniczego oraz innymi przepisami, o ile przepisy niniejszej ustawy nie stanowią inaczej.
 
 2. Agencja może wykonywać, na podstawie umów i porozumień, zadania określone w ust. 1 także w przestrzeni powietrznej państw obcych, która, zgodnie z tymi umowami i porozumieniami, znajdzie się w obszarze odpowiedzialności Rzeczypospolitej Polskiej.
 
@@ -74,7 +75,7 @@ source: "isap-pdf"
 
 2. Agencja może współdziałać przy wykonywaniu zadań organu właściwego, o których mowa w art. 18 lit. a–e, g–k oraz m rozporządzenia nr 2019/947/UE, zastrzeżonych do kompetencji Prezesa Urzędu Lotnictwa Cywilnego na zasadach określonych w porozumieniu, o którym mowa w art. 21 ust. 2h Prawa lotniczego.
 
-3. Agencja wyznacza strefy geograficzne dla systemów bezzałogowych statków powietrznych oraz określa warunki operacyjne wykonywania operacji z użyciem systemów bezzałogowych statków powietrznych w tych strefach, przedłuża okres obowiązywania tych stref oraz ponownie wyznacza te strefy, zgodnie z art. 15 rozporządzenia nr 2019/947/UE, przepisami Prawa lotniczego oraz przepisami wydanymi na podstawie art. 156k Prawa lotniczego. Określając warunki operacyjne wykonywania operacji z użyciem systemów bezzałogowych statków bezzałogowego statku powietrznego, pilota bezzałogowego statku powietrznego, podmiot, na którego wniosek strefa geograficzna została wyznaczona, lub podmiot, od którego zgody zależy wykonywanie operacji w określonej strefie geograficznej, obowiązek korzystania z usługi zapewnianej za pomocą systemu teleinformatycznego, o którym mowa w art. 3b ust. 1, jeżeli ustali konieczność korzystania z takiej usługi dla danej strefy geograficznej.
+3. Agencja wyznacza strefy geograficzne dla systemów bezzałogowych statków powietrznych oraz określa warunki operacyjne wykonywania operacji z użyciem systemów bezzałogowych statków powietrznych w tych strefach, przedłuża okres obowiązywania tych stref oraz ponownie wyznacza te strefy, zgodnie z art. 15 rozporządzenia nr 2019/947/UE, przepisami Prawa lotniczego oraz przepisami wydanymi na podstawie art. 156k Prawa lotniczego. Określając warunki operacyjne wykonywania operacji z użyciem systemów bezzałogowych statków powietrznych w strefach geograficznych, Agencja może nałożyć na operatora systemu bezzałogowego statku powietrznego, pilota bezzałogowego statku powietrznego, podmiot, na którego wniosek strefa geograficzna została wyznaczona, lub podmiot, od którego zgody zależy wykonywanie operacji w określonej strefie geograficznej, obowiązek korzystania z usługi zapewnianej za pomocą systemu teleinformatycznego, o którym mowa w art. 3b ust. 1, jeżeli ustali konieczność korzystania z takiej usługi dla danej strefy geograficznej.
 
 4. Wykonywanie przez Agencję zadań, o których mowa w ust. 1–3, stanowi realizację zadań publicznych i nie ma charakteru działalności gospodarczej.
 
@@ -95,7 +96,8 @@ source: "isap-pdf"
 
 3. System teleinformatyczny, o którym mowa w ust. 1 pkt 2, zapewnia w szczególności usługi w zakresie:
 
-- **1)** podnoszenia poziomu wiedzy oraz kwalifikacji dotyczących użytkowania systemów bezzałogowych statków powietrznych; statków powietrznych;
+- **1)** podnoszenia poziomu wiedzy oraz kwalifikacji dotyczących użytkowania systemów bezzałogowych statków powietrznych;
+- **2)** obsługi spraw związanych z nadawaniem uprawnień pilotom bezzałogowych statków powietrznych;
 - **3)** informowania w czasie rzeczywistym o legalności operacji wykonywanych z użyciem systemów bezzałogowych statków powietrznych;
 - **4)** wprowadzania w czasie rzeczywistym ograniczeń w przestrzeni powietrznej związanych z użytkowaniem systemów bezzałogowych statków powietrznych;
 - **5)** wsparcia operatorów systemów bezzałogowych statków powietrznych w opracowywaniu oceny ryzyka operacyjnego, o której mowa w art. 11 rozporządzenia nr 2019/947/UE;
@@ -107,7 +109,9 @@ source: "isap-pdf"
 
 1. W związku z przetwarzaniem przez Agencję danych osobowych uzyskanych w toku realizacji jej zadań, o których mowa w art. 3a ust. 1–3, oraz zadań określonych w przepisach Prawa lotniczego, uprawnienie, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), przysługuje w zakresie, w jakim nie wpływa ono na ochronę praw i wolności osób, od których te dane pozyskano.
 
-2. Agencja informuje o ograniczeniu, o którym mowa w ust. 1, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, a także w Biuletynie Informacji Publicznej na swojej stronie podmiotowej. zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+2. Agencja informuje o ograniczeniu, o którym mowa w ust. 1, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, a także w Biuletynie Informacji Publicznej na swojej stronie podmiotowej.
+
+3. Dane osobowe, o których mowa w ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
 
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy;
@@ -132,7 +136,9 @@ source: "isap-pdf"
 
 3a. Agencja udostępnia nieodpłatnie organom Inspekcji Ochrony Środowiska, na ich wniosek, informacje niezbędne do oszacowania wielkości emisji, o którym mowa w art. 87 i art. 88 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2024 r. poz. 1505 oraz z 2025 r. poz. 303).
 
-4. Agencja zapewnia koordynację działań poszukiwawczo-ratowniczych. powietrznych, w tym:
+4. Agencja zapewnia koordynację działań poszukiwawczo-ratowniczych.
+
+4a. Agencja może prowadzić działalność w obszarze bezzałogowych statków powietrznych, w tym:
 
 - **1)** zapewniać usługi na rzecz operatorów systemów bezzałogowych statków powietrznych i dostawców usług dla operatorów systemów bezzałogowych statków powietrznych;
 - **2)** wspierać testowanie i wdrażanie nowych rozwiązań opartych na bezzałogowych statkach powietrznych, w szczególności w obszarach zurbanizowanych;
@@ -153,7 +159,9 @@ source: "isap-pdf"
 2. Agencja działa zgodnie z następującymi planami działalności:
 
 - **1)** pięcioletnim – corocznie aktualizowanym,
-- **2)** rocznym – w skład którego wchodzi plan finansowy obejmujący rok obrotowy pokrywający się z rokiem kalendarzowym – opracowywanymi zgodnie z rozporządzeniem Komisji (WE) nr 2096/2005 z dnia 20 grudnia 2005 r. ustanawiającym wspólne wymogi dotyczące zapewniania służb żeglugi powietrznej. zaopiniowania, do dnia 1 listopada każdego roku, projekt rocznego planu działalności na rok następny i projekt zaktualizowanego pięcioletniego planu działalności.
+- **2)** rocznym – w skład którego wchodzi plan finansowy obejmujący rok obrotowy pokrywający się z rokiem kalendarzowym – opracowywanymi zgodnie z rozporządzeniem Komisji (WE) nr 2096/2005 z dnia 20 grudnia 2005 r. ustanawiającym wspólne wymogi dotyczące zapewniania służb żeglugi powietrznej.
+
+3. Prezes Agencji przedstawia Prezesowi Urzędu Lotnictwa Cywilnego do zaopiniowania, do dnia 1 listopada każdego roku, projekt rocznego planu działalności na rok następny i projekt zaktualizowanego pięcioletniego planu działalności.
 
 4. Prezes Agencji przedstawia do zatwierdzenia ministrowi właściwemu do spraw transportu zaopiniowane przez Prezesa Urzędu Lotnictwa Cywilnego projekty planów, o których mowa w ust. 2, w terminie do dnia 1 grudnia każdego roku.
 
@@ -185,6 +193,7 @@ source: "isap-pdf"
 
 - **1)** posiada tytuł zawodowy magistra lub równorzędny;
 - **2)** jest obywatelem polskim;
+- **3)** korzysta z pełni praw publicznych;
 - **4)** nie była karana za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** posiada wiedzę i umiejętności w zakresie spraw należnych Agencji;
 - **6)** posiada co najmniej pięcioletni staż pracy, w tym co najmniej trzyletni staż pracy na stanowiskach kierowniczych;
@@ -214,7 +223,8 @@ source: "isap-pdf"
 
 1. Czas pracy kontrolerów ruchu lotniczego obejmujący:
 
-- **1)** pracę na stanowisku operacyjnym, stanowisku operacyjnym,
+- **1)** pracę na stanowisku operacyjnym,
+- **2)** czynności pomocnicze i przygotowawcze do wykonania czynności na stanowisku operacyjnym,
 - **3)** przejmowanie i przekazywanie stanowiska operacyjnego,
 - **4)** prowadzenie i nadzorowanie szkolenia praktycznego (OJT) oraz egzaminowanie – nie może przekraczać 8 godzin na dobę i przeciętnie 30 godzin na tydzień, w przeciętnie pięciodniowym tygodniu pracy w przyjętym okresie rozliczeniowym nieprzekraczającym 3 miesięcy, z zastrzeżeniem ust. 3.
 
@@ -243,6 +253,8 @@ source: "isap-pdf"
 4. Agencja może zaciągać kredyty i pożyczki, z zastrzeżeniem ust. 5.
 
 5. Kredyty i pożyczki w wysokości przekraczającej równowartość w walucie polskiej 500 000 euro Agencja może zaciągać za zgodą ministra właściwego do spraw transportu.
+
+6. Agencja nie może udzielać poręczeń i gwarancji.
 
 7. Wielkości wyrażone w euro przelicza się na walutę polską po średnim kursie ustalonym przez Narodowy Bank Polski na pierwszy dzień roboczy roku obrotowego w Tabeli 1 kursów średnich.
 
@@ -275,6 +287,7 @@ source: "isap-pdf"
 - **4)** dotacje celowe;
 - **4a)** przychody z opłat za czynności związane z wyznaczaniem stref geograficznych dla systemów bezzałogowych statków powietrznych;
 - **4b)** przychody z umów, o których mowa w art. 156i ust. 3 Prawa lotniczego;
+- **5)** inne przychody, w tym środki uzyskane w ramach bezzwrotnej pomocy.
 
 5. Agencja może uzyskiwać dotacje celowe na dofinansowanie zadań określonych w art. 4 ust. 1 i 3 w wysokości ustalanej w ustawie budżetowej.
 
@@ -303,7 +316,11 @@ source: "isap-pdf"
 
 14. Prezes Urzędu Lotnictwa Cywilnego opiniuje sprawozdania, o których mowa w ust. 13, w terminie miesiąca od dnia ich otrzymania.
 
-15. Minister właściwy do spraw transportu zatwierdza zaopiniowane i przedstawione mu przez Prezesa Urzędu Lotnictwa Cywilnego sprawozdania, o których mowa w ust. 13, nie później niż w terminie miesiąca od dnia ich otrzymania. z przychodów Agencji.
+15. Minister właściwy do spraw transportu zatwierdza zaopiniowane i przedstawione mu przez Prezesa Urzędu Lotnictwa Cywilnego sprawozdania, o których mowa w ust. 13, nie później niż w terminie miesiąca od dnia ich otrzymania.
+
+**Art. 10.**
+
+1. Koszty wynagrodzeń pracowników Agencji pokrywane są z przychodów Agencji.
 
 2. Zakładowy regulamin wynagrodzeń pracowników Agencji zatwierdza minister właściwy do spraw transportu na wniosek Prezesa.
 
@@ -327,7 +344,7 @@ source: "isap-pdf"
 
 5. Naczelny dyrektor PPL i Prezes mogą zawrzeć umowy dotyczące spraw zaistniałych przed dniem wejścia w życie ustawy w zakresie wspólnej działalności PPL i Agencji Ruchu Lotniczego.
 
-6. W odniesieniu do przejętego majątku, o którym mowa w ust. 1, Agencja ustala wartość początkową poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, o której mowa w art. 16g ustawy z dnia 15 lutego 1992 r. o podatku w wysokości wartości początkowej określonej w ewidencji środków trwałych oraz wartości niematerialnych i prawnych PPL. Agencja dokonuje odpisów amortyzacyjnych, o których mowa w art. 15 ust. 6 i art. 16h tej ustawy, z uwzględnieniem dotychczasowej wysokości odpisów amortyzacyjnych dokonanych przez PPL oraz kontynuuje metody amortyzacji przyjęte przez PPL. Do tych odpisów amortyzacyjnych nie ma zastosowania art. 16 ust. 1 pkt 63 lit. a tiret pierwsze tej ustawy.
+6. W odniesieniu do przejętego majątku, o którym mowa w ust. 1, Agencja ustala wartość początkową poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, o której mowa w art. 16g ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. poz. 654, z późn. zm. ), w wysokości wartości początkowej określonej w ewidencji środków trwałych oraz wartości niematerialnych i prawnych PPL. Agencja dokonuje odpisów amortyzacyjnych, o których mowa w art. 15 ust. 6 i art. 16h tej ustawy, z uwzględnieniem dotychczasowej wysokości odpisów amortyzacyjnych dokonanych przez PPL oraz kontynuuje metody amortyzacji przyjęte przez PPL. Do tych odpisów amortyzacyjnych nie ma zastosowania art. 16 ust. 1 pkt 63 lit. a tiret pierwsze tej ustawy.
 
 7. W zakresie czynności niezbędnych dla prawidłowego funkcjonowania Agencji, polegających na oddaniu Agencji przez PPL składników aktywów trwałych do korzystania na podstawie umów prawa cywilnego w okresie 3 miesięcy od dnia wejścia w życie ustawy nie stosuje się art. 5a ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa.
 
@@ -343,7 +360,9 @@ source: "isap-pdf"
 
 2. Agencja wstępuje we wszystkie stosunki prawne, których przedmiotem była dotychczasowa działalność jednostki organizacyjnej PPL – Agencji Ruchu Lotniczego, jako państwowego organu zarządzania ruchem lotniczym, bez względu na charakter prawny tych stosunków.
 
-3. W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości Polskich Portów Lotniczych Spółka Akcyjna, ujawnionych przed wejściem w życie ustawy, Polskie Porty Lotnicze Spółka Akcyjna i Agencja odpowiadają za te zobowiązania solidarnie. przejętych zgodnie z art. 13 ust. 1 i 2 oraz art. 14, powstałych przed dniem wejścia w życie ustawy, za zgodą ministra właściwego do spraw transportu, może emitować obligacje i inne papiery wartościowe na podstawie przepisów o obligacjach do wartości nie wyższej niż 50 % jej rocznych przychodów określonych w planie finansowym na dany rok.
+3. W przypadku roszczeń majątkowych osób trzecich w stosunku do nieruchomości Polskich Portów Lotniczych Spółka Akcyjna, ujawnionych przed wejściem w życie ustawy, Polskie Porty Lotnicze Spółka Akcyjna i Agencja odpowiadają za te zobowiązania solidarnie.
+
+**Art. 15.** Agencja, na potrzeby pokrycia zobowiązań Agencji Ruchu Lotniczego przejętych zgodnie z art. 13 ust. 1 i 2 oraz art. 14, powstałych przed dniem wejścia w życie ustawy, za zgodą ministra właściwego do spraw transportu, może emitować obligacje i inne papiery wartościowe na podstawie przepisów o obligacjach do wartości nie wyższej niż 50 % jej rocznych przychodów określonych w planie finansowym na dany rok.
 
 **Art. 16.** W okresie 2 lat od dnia wejścia w życie ustawy, ograniczenia, o których mowa w art. 7 ust. 6, nie mają zastosowania do działalności inwestycyjnej prowadzonej, przed dniem wejścia w życie ustawy, wspólnie w ramach PPL, pod warunkiem uzyskania zgody ministra właściwego do spraw transportu.
 
@@ -365,5 +384,7 @@ source: "isap-pdf"
 
 3. Do czasu utworzenia Agencji koszty związane z wynagrodzeniem i działalnością Prezesa pokrywa PPL. Z chwilą utworzenia Agencji, Agencja jest obowiązana do zwrotu tych kosztów.
 
-**Art. 21.** (pominięty) art. 13 ust. 3 i art. 20, które wchodzą w życie z dniem ogłoszenia .
+**Art. 21.** (pominięty)
+
+**Art. 22.** Ustawa wchodzi w życie z dniem 1 kwietnia 2007 r., z wyjątkiem art. 13 ust. 3 i art. 20, które wchodzą w życie z dniem ogłoszenia .
 
